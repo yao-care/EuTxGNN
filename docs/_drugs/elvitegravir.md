@@ -4,17 +4,17 @@ title: Elvitegravir
 parent: Medium Evidence (L3-L4)
 nav_order: 219
 evidence_level: L4
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Elvitegravir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV-1 infection in adults and adolescents (aged 12 years and older…"
 monitor_inn: "Elvitegravir"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "chronic hepatitis C virus infection", "hepatitis C virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "Omsk hemorrhagic fever"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Elvitegravir
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but there are **0 registered clinical trials** and only **preclinical literature
 |------|------|
 | Original Indication | HIV-1 infection in adults and adolescents (aged 12 years and older, body weight at least 35 kg) without known resistance mutations to the integrase inhibitor class, emtricitabine or tenofovir (Genvoya) |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -83,8 +83,8 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/004042 | Genvoya (cancelled) | Not specified | Treatment of adults and adolescents (aged 12 years and older, body weight at least 35 kg) infected with HIV-1 without known mutations associated with resi... |
-| EMEA/H/C/002574 | Stribild (cancelled) | Not specified | Treatment of HIV-1 infection in adults aged 18 years and over who are antiretroviral treatment-naïve or are infected with HIV-1 without known mutatio... |
+| EMEA/H/C/004042 | Genvoya (valid) | Not specified | Treatment of adults and adolescents (aged 12 years and older, body weight at least 35 kg) infected with HIV-1 without known mutations associated with resi... |
+| EMEA/H/C/002574 | Stribild (valid) | Not specified | Treatment of HIV-1 infection in adults aged 18 years and over who are antiretroviral treatment-naïve or are infected with HIV-1 without known mutatio... |
 
 ## Safety Considerations
 

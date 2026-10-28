@@ -4,7 +4,7 @@ title: Entecavir
 parent: Medium Evidence (L3-L4)
 nav_order: 229
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Entecavir: predicted new indication Chronic hepatitis C virus infection (evidence level L4). Approved use: Chronic hepatitis B virus (HBV) infection in adults with compensated…"
 monitor_inn: "Entecavir"
@@ -14,7 +14,7 @@ predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious d
 # Entecavir
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ This prediction is best read as a model artifact rather than a true repurposing 
 |------|------|
 | Original Indication | Chronic hepatitis B virus (HBV) infection in adults with compensated or decompensated liver disease, and in nucleoside-naive paediatric patients aged 2 to <18 years |
 | Predicted New Indication | Chronic hepatitis C virus infection |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (all licenses are recorded as cancelled; this appears inconsistent with the generics and should be verified) |
-| Number of Authorizations | 3 |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ This prediction is best read as a model artifact rather than a true repurposing 
 
 Detailed mechanism of action data is not available in the data compiled for this report. Entecavir is known to be a guanosine nucleoside analogue whose triphosphate form inhibits HBV polymerase (priming, reverse transcription and DNA synthesis). This is the basis of its established use in chronic hepatitis B.
 
-The link to hepatitis C is weak. HCV is an RNA virus whose NS5B polymerase is not a target of entecavir, and entecavir has no recognised anti-HCV activity. The trials linked to this prediction concern patients co-infected with HCV and HBV, where entecavir prevents HBV reactivation during direct-acting antiviral (DAA) therapy for HCV. That is a supportive HBV indication, not treatment of HCV itself. The high TxGNN score most likely reflects network proximity to viral hepatitis in the knowledge graph.
+The link to hepatitis C is weak. HCV is an RNA virus whose NS5B polymerase is not a target of entecavir, and entecavir has no recognised anti-HCV activity. The trials linked to this prediction concern patients co-infected with HCV and HBV, where entecavir prevents HBV reactivation during direct-acting antiviral (DAA) therapy for HCV. That is a supportive HBV indication, not treatment of HCV itself. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Of note, a randomized trial (PMID 34864158) reports that entecavir prevents HBV reactivation during DAA treatment of HCV/HBV dual infection. This is clinically useful, but it concerns HBV, not HCV.
 
@@ -104,7 +104,7 @@ The literature is centred on HBV and co-infection, and none of it shows entecavi
 | EMEA/H/C/004458 | Entecavir Accord | Not specified | Chronic HBV infection in adults with compensated or decompensated liver disease; also nucleoside-naive paediatric patients aged 2 to <18 years... |
 | EMEA/H/C/000623 | Baraclude | Not specified | Chronic HBV infection in adults with compensated liver disease and active viral replication, or decompensated liver disease... |
 
-All three authorizations are recorded as cancelled, which should be verified against the current register.
+All three authorizations are recorded as valid, which should be verified against the current register.
 
 ---
 
@@ -133,7 +133,7 @@ Entecavir has no recognised activity against HCV, and the supporting trials and 
 
 **To proceed, the following is needed:**
 - Preclinical or in vitro evidence of anti-HCV activity, if any exists
-- Clarification of the discrepancy in EU market status (all licenses shown as cancelled)
+- Confirmation of EU market status (all 3 licenses shown as valid)
 - Mechanism of action data and SmPC warnings and contraindications
 - Consideration of whether the HBV-reactivation-prophylaxis use in HCV/HBV co-infection should be assessed as a separate, supportive indication
 

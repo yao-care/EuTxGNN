@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Interferon Beta-1A
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 331
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Interferon Beta-1A: predicted new indication Jeune syndrome situs inversus (evidence level L5). Approved use: Relapsing multiple sclerosis…"
-monitor_inn: "Interferon beta-1a"
-predicted_indications: ["Jeune syndrome situs inversus", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 22", "disorder of fucoglycosan synthesis", "Laubry-Pezzi syndrome", "partial deletion of the long arm of chromosome 7", "orofacial clefting syndrome", "genetic syndromic Pierre Robin syndrome", "rete ovarii cystadenoma", "borderline ovarian serous tumor"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Interferon Beta-1A: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Interferon Beta-1A
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,50 +32,46 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Interferon beta-1a: From Relapsing Multiple Sclerosis to Jeune Syndrome Situs Inversus
+<!-- known-uses-page -->
+<!-- description: Interferon Beta-1A: known uses and market status in the European Union; currently no new candidate indication -->
+## Interferon Beta-1A: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model produced candidates for Interferon Beta-1A, but every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for this drug. The one known use is listed below, together with the source that supports it.
 
-Interferon beta-1a is an immunomodulatory biologic, originally used to treat relapsing multiple sclerosis and patients with a first demyelinating event at high risk of developing MS.
-The TxGNN model predicts it may be effective for **Jeune syndrome situs inversus**, but **no clinical trials and no relevant publications** support this prediction. It is a model output only.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Relapsing multiple sclerosis, and a single demyelinating event at high risk of progressing to clinically definite MS |
-| Predicted New Indication | Jeune syndrome situs inversus |
-| TxGNN Prediction Score | 97.47% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 2 (both cancelled) |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 1 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Currently, detailed mechanism of action data is not available. Interferon beta-1a is an immunomodulator, and its efficacy in relapsing multiple sclerosis is established through its approved indications.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| relapsing-remitting multiple sclerosis | licence in another country; approved indication: multiple sclerosis |
 
-Jeune syndrome and situs inversus are ciliopathy-related skeletal and laterality disorders with genetic causes. Interferon beta-1a has no known action on ciliary function or skeletal development. No mechanistic link to the predicted indication has been identified.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-The high score (97.47%) reflects a model prediction only. It is not supported by any clinical or literature evidence, and the prediction should be treated as a hypothesis, not a finding.
-
-The other top-ranked predictions are likewise unsupported by evidence. They include Pierre Robin syndrome variants, chromosomal deletion disorders, orofacial clefting, Laubry-Pezzi syndrome, and ovarian tumours (rete ovarii cystadenoma and borderline serous tumour). All are L5 with a Hold recommendation, mostly congenital or structural conditions that an immunomodulator would not be expected to correct.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-No literature directly related to Jeune syndrome situs inversus is available. Publications retrieved for the lower-ranked prediction "disorder of fucoglycosan synthesis" mainly concern multiple sclerosis therapies (such as teriflunomide, alemtuzumab, fingolimod and network meta-analyses). These match the drug's original MS indication, not the predicted disease, and they are not evidence for any new use.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000136 (cancelled) | Rebif | Not specified | Single demyelinating event at high risk of developing clinically definite MS; relapsing multiple sclerosis (two or more acute exacerbations in the previous two years). Efficacy not demonstrated in secondary... |
-| EMEA/H/C/000102 (cancelled) | Avonex | Not specified | Relapsing multiple sclerosis (two or more relapses in the previous three years); slows disability progression and reduces relapse frequency; single demyelinating event at high risk of... |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/000136 | Rebif |  | Valid |
+| EMEA/H/C/000102 | Avonex |  | Valid |
 
 ## Safety Considerations
 
@@ -86,18 +81,6 @@ No literature directly related to Jeune syndrome situs inversus is available. Pu
 
 Please refer to the SmPC for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction is supported only by the TxGNN model score. There are no clinical trials or relevant literature, and no plausible biological link between an MS immunomodulator and a ciliopathy-related skeletal and laterality disorder. Both EU marketing authorizations are cancelled.
-
-**To proceed, the following is needed:**
-- Mechanism of action data for interferon beta-1a
-- Warnings and contraindications from the product information
-- Preclinical or mechanistic evidence linking interferon beta signalling to the pathophysiology of Jeune syndrome situs inversus
-- Confirmation of the reasons for the cancelled EU authorizations and of the current availability of the product
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

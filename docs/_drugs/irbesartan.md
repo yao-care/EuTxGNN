@@ -4,17 +4,17 @@ title: Irbesartan
 parent: AI Predictions (L5)
 nav_order: 334
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Irbesartan: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Treatment of essential hypertension. Treatment of renal disease in pa…"
 monitor_inn: "Irbesartan"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "chronic pulmonary heart disease", "obsolete susceptibility to ischemic stroke"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
 ---
 
 # Irbesartan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ However, **no clinical trials and no publications** currently support this speci
 |------|------|
 | Original Indication | Treatment of essential hypertension. Treatment of renal disease in patients with hypertension and type-2 diabetes mellitus as part of an antihypertensive medicinal-product regimen. |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.31% |
+| TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (all authorizations cancelled) |
-| Number of Authorizations | 5 |
+| EU Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Authorizations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,7 +62,7 @@ Malignant hypertensive renal disease is kidney injury driven by severe, accelera
 
 There are important caveats. Malignant hypertension is a hypertensive emergency, usually managed with intravenous agents. ARBs also carry risks of acute kidney injury and hyperkalaemia in this setting. The high TxGNN score is a network-based prediction and not clinical proof.
 
-Other top predictions (malignant renovascular hypertension, pulmonary hypertension subtypes, Prinzmetal angina, COL4A1-related small-vessel diseases, chronic pulmonary heart disease) likewise have no clinical trial support. Only preclinical or indirect literature exists for the hypoxia-related pulmonary hypertension and chronic pulmonary heart disease predictions.
+Other top predictions (pulmonary hypertension subtypes) likewise have no clinical trial support. Only preclinical or indirect literature exists for the hypoxia-related pulmonary hypertension prediction.
 
 ## Clinical Trial Evidence
 
@@ -74,7 +74,7 @@ Currently no related literature available for malignant hypertensive renal disea
 
 ## EU Market Information
 
-All five authorizations are listed as cancelled; there is currently no valid EU authorization for irbesartan as a single agent.
+All five authorizations are valid; irbesartan as a single agent is currently marketed.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -97,7 +97,7 @@ Please refer to the SmPC for the full label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible but has no clinical trial or literature support, resting only on the TxGNN score (evidence level L5). The condition is a hypertensive emergency where ARBs carry notable renal and potassium risks, and all EU authorizations are currently cancelled.
+The prediction is mechanistically plausible but has no clinical trial or literature support, resting only on the TxGNN score (evidence level L5). The condition is a hypertensive emergency where ARBs carry notable renal and potassium risks, and the drug is marketed, with all 5 authorizations currently valid.
 
 **To proceed, the following is needed:**
 - Retrieval of EMA label warnings and contraindications (a blocking gap for safety screening)

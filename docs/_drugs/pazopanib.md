@@ -4,17 +4,17 @@ title: Pazopanib
 parent: Medium Evidence (L3-L4)
 nav_order: 470
 evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Pazopanib: predicted new indication Unclassified renal cell carcinoma (evidence level L3). Approved use: Advanced renal-cell carcinoma (first-line…"
+indication_count: 6
+last_modified_at: 2026-10-28
 monitor_inn: "Pazopanib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
+description: "Pazopanib: predicted new indication Liposarcoma (evidence level L3). Approved use: Renal-cell carcinoma (RCC) Votrient is indicated in adults for the fi…"
 ---
 
 # Pazopanib
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Pazopanib: From Renal-Cell Carcinoma and Soft-Tissue Sarcoma to Unclassified Renal Cell Carcinoma
+## Pazopanib: Liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Pazopanib is a multi-targeted tyrosine kinase inhibitor, originally used to treat advanced renal-cell carcinoma (RCC) and certain subtypes of advanced soft-tissue sarcoma (STS).
-The TxGNN model predicts it may be effective for **unclassified renal cell carcinoma**, but **no clinical trials** are registered for this indication, and support comes from **6 publications**, mostly retrospective series plus one single-arm Phase II study.
 Other high-ranking predictions with stronger trial evidence include liposarcoma, fibroblastic neoplasm and dermatofibrosarcoma protuberans, which are discussed below.
 
 ---
@@ -48,12 +47,12 @@ Other high-ranking predictions with stronger trial evidence include liposarcoma,
 
 | Item | Content |
 |------|------|
-| Original Indication | Advanced renal-cell carcinoma (first-line, or after prior cytokine therapy); selected subtypes of advanced soft-tissue sarcoma after prior chemotherapy |
-| Predicted New Indication | Unclassified renal cell carcinoma |
-| TxGNN Prediction Score | 99.63% |
+| Original Indication | Renal-cell carcinoma (RCC) Votrient is indicated in adults for the first-line treatment of advanced renal-cell carcinoma (RCC) and for patients who have received prior cytokine therapy for advanced disease. Soft-tissue sarcoma (STS) Votrient is indicated for the treatment of adult patients with sele |
+| Predicted New Indication | Liposarcoma |
+| TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L3 |
-| EU Market Status | Cancelled only (the single Votrient authorization is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -65,8 +64,8 @@ Currently, detailed mechanism of action data is not available in the compiled da
 This is an extension within the already approved RCC indication, not a true new-disease repurposing. Non-clear-cell RCC is under-represented in pivotal trials, so treatment is often extrapolated from clear-cell data. The available evidence is retrospective or single-arm and cannot establish comparative efficacy.
 
 Other predicted indications:
-- **Liposarcoma** (score 99.59%, L2): Dedicated Phase II studies show activity in intermediate/high-grade disease. The approved STS indication has historically excluded adipocytic tumours, so this would be a genuine expansion.
-- **Fibroblastic neoplasm** (99.35%, L2) and **dermatofibrosarcoma protuberans (DFSP)** (99.29%, L2): Both rely on PDGFR signalling, a pazopanib target. These are classed as research questions.
+- **Liposarcoma** (score 0.9959, L2): Dedicated Phase II studies show activity in intermediate/high-grade disease. The approved STS indication has historically excluded adipocytic tumours, so this would be a genuine expansion.
+- **Fibroblastic neoplasm** (0.9935, L2) and **dermatofibrosarcoma protuberans (DFSP)** (0.9929, L2): Both rely on PDGFR signalling, a pazopanib target. These are classed as research questions.
 - **Xp11.2/TFE3 RCC, RCC associated with neuroblastoma, childhood kidney cell carcinoma, ovarian myxoid liposarcoma, heart fibrosarcoma and kidney fibrosarcoma** (all L5, Hold): These have no trials or literature and rest on model prediction alone.
 
 ---
@@ -105,7 +104,7 @@ For reference, the most relevant trials for the liposarcoma prediction, the stro
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/001141 | Votrient (status: cancelled) | Not specified | Advanced renal-cell carcinoma (first-line or after prior cytokine therapy); selective subtypes of advanced soft-tissue sarcoma after prior chemo... |
+| EMEA/H/C/001141 | Votrient (status: valid) | Not specified | Advanced renal-cell carcinoma (first-line or after prior cytokine therapy); selective subtypes of advanced soft-tissue sarcoma after prior chemo... |
 
 ---
 

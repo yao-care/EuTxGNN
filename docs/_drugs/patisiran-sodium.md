@@ -7,14 +7,15 @@ description: "Patisiran Sodium drug repurposing predictions from TxGNN. Evidence
 parent: AI Predictions (L5)
 nav_order: 442
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Patisiran Sodium
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | dermatitis | 90.65% | DL |
-| 2 | hydroa vacciniforme, familial | 90.08% | DL |
-| 3 | amyopathic dermatomyositis | 90.07% | DL |
-| 4 | acne keloid | 90.04% | DL |
-| 5 | secondary interstitial lung disease specific to childhood associated with a connective tissue disease | 90.01% | DL |
-| 6 | neonatal dermatomyositis | 89.92% | DL |
-| 7 | acrodermatitis chronica atrophicans | 89.14% | DL |
-| 8 | Smouldering systemic mastocytosis | 85.13% | DL |
-| 9 | overactive bladder (disease) | 84.90% | DL |
-| 10 | lymphoadenopathic mastocytosis with eosinophilia | 84.62% | DL |
-| 11 | systemic mastocytosis | 84.61% | DL |
-| 12 | angioedema | 84.01% | DL |
-| 13 | gastrin secretion abnormality | 83.02% | DL |
-| 14 | low compliance bladder | 81.08% | DL |
-| 15 | hepatic infarction | 79.63% | DL |
-| 16 | HER2 positive breast carcinoma | 79.19% | DL |
-| 17 | peliosis hepatis | 79.18% | DL |
-| 18 | hepatic veno-occlusive disease | 79.01% | DL |
-| 19 | bladder neck obstruction | 78.55% | DL |
-| 20 | mixed-type autoimmune hemolytic anemia | 78.44% | DL |
 
 *Showing top 20 of 50 predictions.*
 

@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Pomalidomide
-parent: Medium Evidence (L3-L4)
+parent: Known Uses Only (No New Predictions)
 nav_order: 492
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Pomalidomide: predicted new indication Indolent plasma cell myeloma (evidence level L4). Approved use: Multiple myeloma in adults who have received at least one prior regim…"
-monitor_inn: "Pomalidomide"
-predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "vulvar melanoma (disease)", "epithelioid cell uveal melanoma", "melanoma", "cholangiocarcinoma, susceptibility to", "congenital temporomandibular joint ankylosis", "polydipsia", "ganglioneuroblastoma (disease)"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Pomalidomide: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Pomalidomide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,57 +32,50 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Pomalidomide: From Relapsed/Refractory Multiple Myeloma to Indolent Plasma Cell Myeloma
+<!-- known-uses-page -->
+<!-- description: Pomalidomide: known uses and market status in the European Union; currently no new candidate indication -->
+## Pomalidomide: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model has no candidate with a score of 0.99 or higher for Pomalidomide, so there is currently no new predicted indication. The drug's recorded uses are listed below.
 
-Pomalidomide is an immunomodulatory drug originally used to treat relapsed and refractory multiple myeloma.
-The TxGNN model predicts it may be effective for **indolent plasma cell myeloma** (smoldering myeloma),
-but there are currently **0 clinical trials** and only **2 general review articles** supporting this direction, so the prediction rests mainly on the model score.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Multiple myeloma in adults who have received at least one prior regimen including lenalidomide (with bortezomib and dexamethasone), and relapsed/refractory multiple myeloma after at least two prior regimens including lenalidomide and bortezomib (with dexamethasone) |
-| Predicted New Indication | Indolent plasma cell myeloma |
-| TxGNN Prediction Score | 93.96% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (all 6 authorizations cancelled) |
-| Number of Authorizations | 6 |
-| Recommended Decision | Hold |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 2 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 6 of 6) |
+| Number of Authorizations | 6 (valid: 6) |
 
-## Why is This Prediction Reasonable?
+## Known uses recorded for this drug
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, pomalidomide belongs to the thalidomide-derived immunomodulatory drug class. It acts through cereblon E3 ligase modulation, leading to degradation of the transcription factors IKZF1 and IKZF3, and it also has immunomodulatory effects. Its efficacy in relapsed/refractory multiple myeloma is established.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| multiple myeloma | licence in another country |
 
-Indolent (smoldering) myeloma is an earlier stage of the same plasma cell disease continuum, which likely explains the high prediction score. The mechanism could therefore plausibly apply. However, the approved labels cover only relapsed/refractory disease, and no trial data for the smoldering setting were found. The two supplied publications are general myeloma reviews and give only indirect support.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [21181954](https://pubmed.ncbi.nlm.nih.gov/21181954/) | 2011 | Review | American Journal of Hematology | 2011 update on diagnosis, risk stratification and management of multiple myeloma, a malignant plasma-cell disorder (~10% of haematological malignancies) |
-| [22180161](https://pubmed.ncbi.nlm.nih.gov/22180161/) | 2012 | Review | American Journal of Hematology | 2012 update on diagnosis, risk stratification and management of multiple myeloma |
-
-Both are general myeloma overviews and do not test pomalidomide in smoldering disease.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| plasma cell myeloma |
 
 ## EU Market Information
 
-All six authorizations are currently cancelled.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002682 | Imnovid (previously Pomalidomide Celgene) | Not specified | Imnovid in combination with bortezomib and dexamethasone for adults with multiple myeloma who have received at least one prior regimen incl... |
-| EMEA/H/C/006273 | Pomalidomide Accord | Not specified | Pomalidomide Accord in combination with bortezomib and dexamethasone for adults with multiple myeloma who have received at least one pri... |
-| EMEA/H/C/006294 | Pomalidomide Zentiva | Not specified | Treatment of adults with multiple myeloma who have received at least one prior treatment regimen including lenalidomide. Pomalidomide Z... |
-| EMEA/H/C/006195 | Pomalidomide Viatris | Not specified | Pomalidomide Viatris in combination with bortezomib and dexamethasone for adults with multiple myeloma who have received at least one p... |
-| EMEA/H/C/006302 | Pomalidomide Teva | Not specified | Pomalidomide Teva in combination with bortezomib and dexamethasone for adults with multiple myeloma who have received at least one pri... |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/006294 | Pomalidomide Zentiva |  | Valid |
+| EMEA/H/C/006273 | Pomalidomide Accord |  | Valid |
+| EMEA/H/C/002682 | Imnovid (previously Pomalidomide Celgene) |  | Valid |
+| EMEA/H/C/006195 | Pomalidomide Viatris |  | Valid |
+| EMEA/H/C/006302 | Pomalidomide Teva |  | Valid |
+| EMEA/H/C/006314 | Pomalidomide Krka |  | Valid |
 
 ## Cytotoxicity
 
@@ -103,19 +95,6 @@ All six authorizations are currently cancelled.
 
 Please refer to the SmPC for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction score is high and the disease is biologically close to the approved indication, but there are no clinical trials and the supporting literature consists of two general reviews. In addition, all EU authorizations are currently cancelled, and the label and safety data needed for screening are missing.
-
-**To proceed, the following is needed:**
-- Clinical trial or literature evidence specific to pomalidomide in smoldering/indolent myeloma
-- Confirmation of the regulatory situation, since all six EU authorizations are cancelled
-- SmPC warnings and contraindications (currently unavailable)
-- Detailed mechanism of action data from DrugBank
-- A safety plan covering the interactions above and the known teratogenic risk of this drug class (to be confirmed against the SmPC)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

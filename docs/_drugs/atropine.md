@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Atropine
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 69
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Atropine: predicted new indication Migraine disorder (evidence level L4). Approved use: Slowing the progression of myopia in paediatric patients (children ag…"
+evidence_level: L5
+indication_count: 2
 monitor_inn: "Atropine"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "open-angle glaucoma", "primary hereditary glaucoma", "ulerythema ophryogenesis", "headache disorder", "trigeminal autonomic cephalalgia", "nephrogenic syndrome of inappropriate antidiuresis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
+last_modified_at: 2026-10-27
+description: "Atropine: predicted new indication migraine disorder (evidence level L5). Approved use: Ryjunea is indicated for slowing the progression of myopia in paediat…"
 ---
 
 # Atropine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,101 +33,75 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Atropine: From Myopia Progression in Children to Migraine Disorder
+## Atropine: Non-selective muscarinic antagonist → migraine disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Atropine is a non-selective muscarinic antagonist. In the European Union it was authorised (as Ryjunea) to slow the progression of myopia in children.
-The TxGNN model predicts it may be effective for **migraine disorder**, but there are **no registered clinical trials** and only preclinical or tangential publications supporting this direction, so the prediction is essentially computational.
+Atropine is a non-selective muscarinic antagonist, and its approved use is recorded in the EU licence data.
+The TxGNN model predicts it may be effective for **migraine disorder**, but there are **no registered clinical trials** and only **preclinical or tangential publications** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Slowing the progression of myopia in paediatric patients (children aged 3-14 years) |
-| Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.56% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| Original Indication | Ryjunea is indicated for slowing the progression of myopia in paediatric patients. Treatment may be initiated in children aged 3-14 years with a progression rate of 0.5 D or more per year and a severity of -0.5 D to -6.0 D. |
+| Predicted New Indication | migraine disorder |
+| TxGNN Prediction Score | 0.9956 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Atropine blocks muscarinic acetylcholine receptors. Preclinical studies suggest that cholinergic signalling in meningeal mast cells and trigeminal nerve endings contributes to neurogenic inflammation and pain signalling in migraine. This makes muscarinic blockade biologically plausible. Detailed mechanism-of-action data for atropine were not available in the data compiled for this report, so this reasoning rests on its known drug class.
+Detailed mechanism of action data is not available in the data compiled for this report. Atropine is generally known as a non-selective muscarinic antagonist, meaning it blocks acetylcholine signalling at muscarinic receptors.
 
-The original indication (myopia control with eye drops) and migraine have little in common clinically. The link is purely mechanistic: the same receptor family is involved in both. The supporting studies are animal or in vitro work, plus tangential reports (anisodamine pharmacology, a botulinum toxin case report, topiramate-related myopic shift). A mouse study even found that *activating* muscarinic receptors suppressed cortical spreading depression, which would argue against an antagonist helping with aura.
+Preclinical work suggests that cholinergic signalling in meningeal mast cells and in the trigeminal and parasympathetic pathways contributes to neurogenic inflammation and pain in migraine models. For example, a 2024 rat study examined cholinergic modulation in a nitroglycerin-induced migraine model, and a 1997 rat study showed that parasympathetic stimulation triggers plasma protein extravasation in the dura mater. From this, muscarinic blockade is plausible as a mechanism.
 
-Other predicted indications, ranked by score, are weaker still:
-
-- **Migraine with brainstem aura, and migraine susceptibility:** only preclinical or unrelated literature.
-- **Open-angle glaucoma and primary hereditary glaucoma:** atropine can raise intraocular pressure and precipitate angle closure, so a therapeutic role is doubtful and safety is a concern.
-- **Headache disorder:** the only clinical data concern post-dural puncture headache, where atropine is given with neostigmine, so its independent effect cannot be isolated.
-- **Trigeminal autonomic cephalalgia:** one old (1984) clinical report on atropine preparations in cluster headache.
-- **Atrophoderma vermiculata, ulerythema ophryogenesis, nephrogenic syndrome of inappropriate antidiuresis:** no literature or mechanistic rationale.
+However, this link is hypothetical. No cited study tests atropine as a treatment for migraine in patients. The remaining publications are tangential (anisodamine pharmacology, a botulinum toxin case report, topiramate-related eye effects, and a small autonomic study in chronic paroxysmal hemicrania). Because none of the cited studies directly evaluates atropine for migraine disorder, the evidence level is capped at L5.
 
 ## Clinical Trial Evidence
 
-For migraine disorder: currently no related clinical trials registered.
-
-The closest clinical evidence is for the broader prediction "headache disorder" (post-dural puncture headache, PDPH), where atropine is part of a neostigmine/atropine combination:
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT03997006](https://clinicaltrials.gov/study/NCT03997006) | Phase 4 | Completed | 60 | IV aminophylline vs IV neostigmine/atropine for PDPH; atropine is part of the comparator, so its own effect cannot be isolated |
-| [NCT04910477](https://clinicaltrials.gov/study/NCT04910477) | Phase 3 | Completed | 90 | Nebulized dexmedetomidine vs neostigmine/atropine vs saline for PDPH after caesarean section; neostigmine/atropine is an active comparator |
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-For migraine disorder (no clinical studies of atropine were found):
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [36485173](https://pubmed.ncbi.nlm.nih.gov/36485173/) | 2024 | Preclinical | Eur J Neurosci | Cholinergic modulation and meningeal mast cells in neurogenic inflammation in a rat migraine model |
-| [17186568](https://pubmed.ncbi.nlm.nih.gov/17186568/) | 2007 | Review | J Appl Toxicol | Pharmacology of anisodamine, an atropine derivative and non-specific cholinergic antagonist |
-| [9344563](https://pubmed.ncbi.nlm.nih.gov/9344563/) | 1997 | Preclinical | Exp Neurol | Parasympathetic stimulation causes plasma protein extravasation in rat dura mater, relevant to the neurogenic inflammation theory of migraine |
+| [36485173](https://pubmed.ncbi.nlm.nih.gov/36485173/) | 2024 | Preclinical | Eur J Neurosci | Meningeal mast cell–mediated cholinergic modulation in neurogenic inflammation in rat migraine models |
+| [9344563](https://pubmed.ncbi.nlm.nih.gov/9344563/) | 1997 | Preclinical | Exp Neurol | Parasympathetic sphenopalatine ganglion stimulation induced plasma protein extravasation in rat dura mater |
 | [8930196](https://pubmed.ncbi.nlm.nih.gov/8930196/) | 1996 | Preclinical | J Pharmacol Exp Ther | Central cholinergic system involved in sumatriptan-induced antinociception in rodents |
-| [2943405](https://pubmed.ncbi.nlm.nih.gov/2943405/) | 1986 | Clinical study | Cephalalgia | In four patients with chronic paroxysmal hemicrania, systemic atropine markedly reduced attack-related sweating, tearing and nasal secretion |
-| [40590589](https://pubmed.ncbi.nlm.nih.gov/40590589/) | 2024 | Case report | Pain Med Case Rep | Botulinum toxin-induced dropped head syndrome in chronic migraine; tangential to atropine |
-
-Related literature for other predictions:
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [30169405](https://pubmed.ncbi.nlm.nih.gov/30169405/) | 2018 | RCT | Anesth Analg | Neostigmine plus atropine added to conventional PDPH management |
-| [36651373](https://pubmed.ncbi.nlm.nih.gov/36651373/) | 2023 | RCT | Minerva Anestesiol | Nebulized dexmedetomidine vs neostigmine/atropine for PDPH after caesarean section |
-| [37802666](https://pubmed.ncbi.nlm.nih.gov/37802666/) | 2023 | Case report | Br J Anaesth | Reversible cerebral vasoconstriction syndrome after neostigmine/atropine for PDPH |
-| [6397917](https://pubmed.ncbi.nlm.nih.gov/6397917/) | 1984 | Clinical report | Wiad Lek | Atropine preparations in the treatment of Horton's (cluster) headache |
-| [39027062](https://pubmed.ncbi.nlm.nih.gov/39027062/) | 2024 | Review | Taiwan J Ophthalmol | Effect of atropine for myopia control on intraocular pressure in children |
-| [40932733](https://pubmed.ncbi.nlm.nih.gov/40932733/) | 2025 | Cohort | JAMA Ophthalmol | Ocular risks of topical atropine prescriptions among Taiwanese children |
+| [17186568](https://pubmed.ncbi.nlm.nih.gov/17186568/) | 2007 | Review | J Appl Toxicol | Pharmacology of anisodamine, an atropine derivative and non-specific cholinergic antagonist |
+| [40590589](https://pubmed.ncbi.nlm.nih.gov/40590589/) | 2024 | Case report | Pain Med Case Rep | Botulinum toxin–induced dropped head syndrome in a patient with chronic migraine and multiple sclerosis |
+| [2943405](https://pubmed.ncbi.nlm.nih.gov/2943405/) | 1986 | Not classified | Cephalalgia | Systemic atropine reduced attack-related sweating, tearing and nasal secretion in four patients with chronic paroxysmal hemicrania |
+| [1786517](https://pubmed.ncbi.nlm.nih.gov/1786517/) | 1991 | Not classified | Br J Pharmacol | Ergotamine and dihydroergotamine as potent 5-HT1C agonists in piglet choroid plexus |
+| [10193781](https://pubmed.ncbi.nlm.nih.gov/10193781/) | 1999 | Not classified | Br J Pharmacol | Inhibition of nicotine-evoked relaxation of guinea-pig basilar artery by analgesic drugs |
 
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/006324 (cancelled) | Ryjunea | Not specified | Ryjunea is indicated for slowing the progression of myopia in paediatric patients. Treatment may be initiated in child... |
+| EMEA/H/C/006324 | Ryjunea | Not recorded | Ryjunea is indicated for slowing the progression of myopia in paediatric patients. Treatment may be initiated in children aged 3-14 years with a... |
 
 ## Safety Considerations
 
-- **Drug Interactions:** 100 interactions were recorded; those listed here are moderate-level unless noted. Examples include botulinum toxin type A, fentanyl, chlorpheniramine, acebutolol, codeine, tramadol, dihydrocodeine, alfentanil, amitriptyline, amantadine, galantamine, hyoscyamine, loperamide, aclidinium, acetylcholine and ethanol. Minor interactions include acetaminophen and hydrochlorothiazide. Many of these reflect additive anticholinergic or sedative effects.
-- **Ocular and cerebrovascular signals from the literature:** atropine can raise intraocular pressure and precipitate angle closure in predisposed eyes, which is relevant to the glaucoma predictions. Reversible cerebral vasoconstriction syndrome has been reported after neostigmine/atropine given for post-dural puncture headache.
+- **Drug Interactions**: 100 interactions were recorded. Most listed ones are of moderate level, including botulinum toxin type A, fentanyl, chlorpheniramine, acebutolol, codeine, tramadol, dihydrocodeine, amitriptyline, amantadine, galantamine, hyoscyamine, loperamide, aclidinium, and ethanol. Acetaminophen and hydrochlorothiazide are listed as minor. Many of these involve additive anticholinergic or central nervous system effects.
 
-Please refer to the SmPC for warnings and contraindications.
+For warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score (99.56%) is not backed by clinical evidence. The support for migraine consists of animal and in vitro studies and tangential reports, with no clinical trials. The only product authorised in the EU has been cancelled.
+The prediction score is high, but no clinical trial or publication directly studies atropine for migraine disorder. Support is limited to animal, in vitro and tangential reports, so this remains a model-based hypothesis (L5).
 
 **To proceed, the following is needed:**
-- Mechanism-of-action data for atropine, and a clearer account of how muscarinic antagonism would act in migraine (the mouse spreading-depression data point the opposite way)
-- Controlled clinical studies of atropine in migraine, or at least in cluster headache or trigeminal autonomic cephalalgia
-- Review of the SmPC for warnings and contraindications (not available in the data compiled for this report)
-- Safety assessment of ocular effects (intraocular pressure, angle closure), anticholinergic burden and cerebrovascular events
-- Confirmation of a suitable formulation and route, since the only authorised product was an ophthalmic myopia treatment
+- Mechanism of action data for atropine
+- Preclinical or early clinical studies directly testing atropine (or a muscarinic antagonist) in migraine
+- Review of the SmPC warnings and contraindications, which are not available in the compiled data
+- A suitable formulation and route assessment for migraine use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

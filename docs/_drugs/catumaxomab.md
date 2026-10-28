@@ -4,17 +4,17 @@ title: Catumaxomab
 parent: AI Predictions (L5)
 nav_order: 135
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Catumaxomab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Intraperitoneal treatment of malignant ascites in adults with EpCAM-p…"
 monitor_inn: "Catumaxomab"
-predicted_indications: ["severe nonproliferative diabetic retinopathy", "drug-induced osteoporosis", "diabetic retinopathy", "diabetic cataract", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "transitional cell carcinoma", "HER2 positive breast carcinoma"]
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "drug-induced osteoporosis", "diabetic retinopathy"]
 ---
 
 # Catumaxomab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 |------|------|
 | Original Indication | Intraperitoneal treatment of malignant ascites in adults with EpCAM-positive carcinomas who are not eligible for further systemic anticancer therapy |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.64% |
+| TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Cancelled only |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,9 +59,8 @@ Currently, detailed mechanism of action data is not available in a structured fo
 
 This mechanism does not fit the predicted indication. Diabetic retinopathy is a non-neoplastic microvascular disease driven by hyperglycaemia-related vascular damage, VEGF signalling and inflammation, not by EpCAM-positive cell populations. Immune-mediated cytotoxic killing is not a plausible therapy for it. Intraperitoneal dosing and the risk of cytokine release also make use in a chronic eye condition unrealistic.
 
-The high TxGNN score (99.64%) is a graph-based prediction only. Without supporting trials or literature, it should be treated as a model artefact rather than a credible lead.
+The high TxGNN score (0.9964) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Without supporting trials or literature, it should be treated as a model artefact rather than a credible lead.
 
-*Other predictions in the same list:* The top-ranked predictions include several more biologically plausible candidates. These are urothelial carcinomas such as prostatic urethra urothelial carcinoma, renal pelvis papillary urothelial carcinoma and transitional cell carcinoma, plus HER2-positive breast carcinoma. They are classed as research questions because EpCAM is commonly expressed in these tumours, but none has any trial or literature support, and EpCAM expression would need to be confirmed first.
 
 ## Clinical Trial Evidence
 

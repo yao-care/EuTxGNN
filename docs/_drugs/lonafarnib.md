@@ -4,17 +4,17 @@ title: Lonafarnib
 parent: AI Predictions (L5)
 nav_order: 374
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Lonafarnib: predicted new indication Leprosy (evidence level L5). Approved use: Hutchinson-Gilford progeria syndrome…"
+indication_count: 1
 monitor_inn: "Lonafarnib"
-predicted_indications: ["leprosy", "rheumatoid arthritis", "Prinzmetal angina", "homozygous familial hypercholesterolemia", "hyperthyroidism", "pulmonary hypertension", "brachydactyly-syndactyly syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "kyphoscoliotic heart disease", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+predicted_indications: ["leprosy"]
+last_modified_at: 2026-10-27
+description: "Lonafarnib: predicted new indication leprosy (evidence level L5). Approved use: Zokinvy is indicated for the treatment of patients 12 months of age a…"
 ---
 
 # Lonafarnib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,30 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Lonafarnib: From Hutchinson-Gilford Progeria Syndrome to Leprosy
+## Lonafarnib: farnesyltransferase inhibitor → leprosy
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Lonafarnib (Zokinvy) was originally authorized for Hutchinson-Gilford progeria syndrome and related processing-deficient progeroid laminopathies.
-The TxGNN model predicts it may be effective for **leprosy**, but this is a model prediction only, with **0 clinical trials** and **0 publications** currently supporting this direction.
+Lonafarnib is a farnesyltransferase inhibitor. The TxGNN model predicts it may be effective for **leprosy**, but **no clinical trials and no publications** were found to support this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hutchinson-Gilford progeria syndrome, or a processing-deficient progeroid laminopathy (heterozygous LMNA mutation with progerin-like protein accumulation, or homozygous/compound heterozygous ZMPSTE24 mutation), in patients 12 months of age and older |
-| Predicted New Indication | Leprosy |
-| TxGNN Prediction Score | 99.14% |
+| Original Indication | Zokinvy is indicated for the treatment of patients 12 months of age and older with a genetically confirmed diagnosis of Hutchinson-Gilford progeria syndrome or a processing-deficient progeroid laminopathy associated with either a heterozygous LMNA mutation with progerin-like protein accumulation or  |
+| Predicted New Indication | leprosy |
+| TxGNN Prediction Score | 0.9914 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Lonafarnib is known as a farnesyltransferase inhibitor, which blocks the attachment of a farnesyl lipid group to proteins such as progerin. This is the basis for its use in progeria and progeroid laminopathies.
+Detailed mechanism of action data is not currently available in the data compiled for this report. Lonafarnib is known as a farnesyltransferase inhibitor, which blocks a lipid modification step (farnesylation) that some proteins need in order to function.
 
-For leprosy, no plausible link to *Mycobacterium leprae* pathogenesis or the host immune response can be identified from the available data. The high score (99.14%, rank 8,458) comes from a knowledge-graph prediction only, and it should not be read as evidence of efficacy. The original indication (a rare genetic premature-ageing disorder) and leprosy (a chronic bacterial infection) are biologically very different, so the prediction needs substantial mechanistic justification before any further work.
-
-Other predicted indications were also reviewed. Rheumatoid arthritis and pulmonary hypertension have a conceptual link through Ras and small GTPase signalling, which depends on farnesylation. However, the only supporting references are an herbal decoction study and a general review of protein farnesylation. Neither tests lonafarnib in these diseases. Other predictions (Prinzmetal angina, homozygous familial hypercholesterolemia, hyperthyroidism and several rare syndromes) have no supporting data.
+No plausible link between this mechanism and the biology of *Mycobacterium leprae* infection, or the host response to it, is evident from the data compiled for this report. The high TxGNN score (0.9914) is a computational prediction only and is not supported by any experimental or clinical observation here. The similarity between the original use and leprosy has not been assessed. The prediction should therefore be treated as a hypothesis, not as a finding.
 
 ## Clinical Trial Evidence
 
@@ -67,46 +64,34 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for leprosy.
+Currently no related literature available.
 
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/005271 | Zokinvy | Not specified | Hutchinson-Gilford progeria syndrome or a processing-deficient progeroid laminopathy (LMNA or ZMPSTE24 mutation), patients ≥12 months... |
-
-The only EU authorization is recorded as cancelled.
+| EMEA/H/C/005271 | Zokinvy | Not recorded | Zokinvy is indicated for the treatment of patients 12 months of age and older with a genetically confirmed diagnosis of Hutchinson-Gilford... |
 
 ## Safety Considerations
 
-- **Drug Interactions**: 100 interactions were found in the interaction screen. Examples of those classified as **Major**:
-  - Loperamide
-  - Aprepitant
-  - Clarithromycin
-  - Cimetidine
-  - Eliglustat
-  - Naloxegol
-  - Systemic and inhaled corticosteroids (dexamethasone, triamcinolone, budesonide)
+- **Drug Interactions**: The interaction query returned 100 records; those shown are listed below.
+  - **Major**: loperamide, aprepitant, triamcinolone, dexamethasone, budesonide, cimetidine, clarithromycin, eliglustat, naloxegol
+  - **Moderate**: hydrocortisone, omeprazole, betamethasone, chlorpropamide, saxagliptin, empagliflozin, oxandrolone, naldemedine, and ophthalmic hydrocortisone, dexamethasone and prednisolone
 
-  Examples classified as **Moderate**: hydrocortisone, betamethasone, omeprazole, saxagliptin, empagliflozin, chlorpropamide, oxandrolone and naldemedine.
-
-  Many of the major interactions involve drugs that affect CYP3A metabolism, so the full interaction list should be reviewed against the SmPC.
-
-Please refer to the SmPC for warnings and contraindications.
+Warnings and contraindications from the product information are not available in the data compiled for this report. Please refer to the SmPC for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based score, with no clinical trials or disease-specific literature. No biological link between farnesyltransferase inhibition and leprosy is evident. The EU authorization is also cancelled.
+The prediction has no supporting clinical trials or publications and no evident mechanistic link to leprosy, so it stays at evidence level L5 (model prediction only).
 
 **To proceed, the following is needed:**
-- Mechanism of action data, and a mechanistic hypothesis linking farnesyltransferase inhibition to leprosy
-- Preclinical evidence (in vitro or in vivo) in relevant disease models
-- Safety information from the SmPC (warnings and contraindications), and a review of the many major drug interactions
-- Clarification of the cancelled EU authorization status and route/formulation compatibility
-- Re-evaluation of other predicted indications, such as rheumatoid arthritis and pulmonary hypertension, where a conceptual Ras/GTPase link exists, once direct evidence is available
+- Mechanism of action data for lonafarnib
+- Preclinical or mechanistic evidence linking farnesyltransferase inhibition to *M. leprae* infection or the host response
+- Warnings and contraindications from the SmPC, for safety screening
+- Any registered or published studies of lonafarnib in leprosy
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

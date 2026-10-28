@@ -4,17 +4,17 @@ title: Fenfluramine
 parent: AI Predictions (L5)
 nav_order: 255
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Fenfluramine: predicted new indication Proximal 16p11.2 microdeletion syndrome (evidence level L5). Approved use: Seizures associated with Dravet syndrome as add-on therapy to other a…"
 monitor_inn: "Fenfluramine"
-predicted_indications: ["proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "obsolete hypertelorism (disease)", "frontorhiny", "pentosuria", "lethal polymalformative syndrome, Boissel type", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "fatty liver disease", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"]
+predicted_indications: ["proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "obsolete hypertelorism (disease)", "frontorhiny"]
 ---
 
 # Fenfluramine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **proximal 16p11.2 microdeletio
 |------|------|
 | Original Indication | Seizures associated with Dravet syndrome as add-on therapy to other antiepileptic medicines in patients aged 2 years and older (also Lennox-Gastaut syndrome) |
 | Predicted New Indication | Proximal 16p11.2 microdeletion syndrome |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, fenfluramine is an add-on antiepileptic medicine, its efficacy in seizures of Dravet syndrome and Lennox-Gastaut syndrome is the basis of its authorization, and it may mechanistically be applicable to other neurodevelopmental conditions with epilepsy.
 
-The 16p11.2 deletion is associated with neurodevelopmental phenotypes, epilepsy and obesity. Fenfluramine is known to have serotonergic and sigma-1 receptor activity that is relevant to seizure control, which could form a loose link. This reasoning is speculative. No retrieved trial or publication supports it, and the very high score (0.999) is a model prediction only.
+The 16p11.2 deletion is associated with neurodevelopmental phenotypes, epilepsy and obesity. Fenfluramine is known to have serotonergic and sigma-1 receptor activity that is relevant to seizure control, which could form a loose link. This reasoning is speculative. No retrieved trial or publication supports it, and the very high score (0.9993) comes from the TxGNN model (deep learning). It may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 

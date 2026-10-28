@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Bosentan
-parent: AI Predictions (L5)
+parent: Medium Evidence (L3-L4)
 nav_order: 100
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Bosentan: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Pulmonary arterial hypertension (WHO functional class III…"
 monitor_inn: "Bosentan"
-predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita"]
+predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
 ---
 
 # Bosentan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 Bosentan was originally approved to treat pulmonary arterial hypertension (PAH) and to reduce new digital ulcers in systemic sclerosis.
 The TxGNN model predicts it may be useful for **rheumatoid arthritis**, but there are **no registered clinical trials** and the supporting literature is mainly **animal-model studies** and reviews.
-The prediction score is very high (99.80%), but it is not matched by human clinical evidence.
+The prediction score is very high (0.9980), but it is not matched by human clinical evidence.
 
 ---
 
@@ -50,10 +50,10 @@ The prediction score is very high (99.80%), but it is not matched by human clini
 |------|------|
 | Original Indication | Pulmonary arterial hypertension (WHO functional class III, with some improvement in class II); reduction of new digital ulcers in systemic sclerosis |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.80% |
+| TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L4 (preclinical and mechanism studies only) |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -66,7 +66,7 @@ Endothelin-1 is raised in the plasma and synovial membrane of rheumatoid arthrit
 
 These findings give the prediction a plausible biological basis. However, they come from animal models only. The other retrieved papers mostly concern PAH in connective tissue disease rather than rheumatoid arthritis treatment. No human rheumatoid arthritis trial was found.
 
-**Note on other predictions:** The model also predicted *limited systemic sclerosis* (score 99.65%). That is effectively an already-approved use of bosentan, since it is labeled to reduce new digital ulcers in systemic sclerosis. It is supported by a 2023 systematic review (PMID 36974107). The remaining high-scoring predictions have no trials or literature and look like knowledge-graph artifacts.
+**Note on other predictions:** The other high-scoring predictions have no trials or literature and look like TxGNN model (deep learning) artifacts.
 
 ---
 
@@ -95,8 +95,8 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Status | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/002644 | Stayveer | Cancelled | Treatment of pulmonary arterial hypertension (PAH) to improve exercise capacity and symptoms in patients with World Health Organizat... |
-| EMEA/H/C/000401 | Tracleer | Cancelled | Treatment of pulmonary arterial hypertension (PAH) to improve exercise capacity and symptoms in patients with WHO functional class... |
+| EMEA/H/C/002644 | Stayveer | Valid | Treatment of pulmonary arterial hypertension (PAH) to improve exercise capacity and symptoms in patients with World Health Organizat... |
+| EMEA/H/C/000401 | Tracleer | Valid | Treatment of pulmonary arterial hypertension (PAH) to improve exercise capacity and symptoms in patients with WHO functional class... |
 
 ---
 

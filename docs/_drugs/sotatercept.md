@@ -6,7 +6,7 @@ nav_order: 573
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Sotatercept: predicted new indication Acute lymphoblastic leukemia (evidence level L5). Approved use: PAH in adult patients with WHO Functional Class II to III…"
+description: "Sotatercept: predicted new indication acute lymphoblastic leukemia (disease) (evidence level L5). Approved use: PAH in adult patients with WHO Functional Class II to III…"
 monitor_inn: "Sotatercept"
 predicted_indications: ["acute lymphoblastic leukemia (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis", "diabetic cataract", "HER2 positive breast carcinoma", "transitional cell carcinoma", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant"]
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Sotatercept: From Pulmonary Arterial Hypertension to Acute Lymphoblastic Leukemia
+## Sotatercept: From Pulmonary Arterial Hypertension to acute lymphoblastic leukemia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **acute lymphoblastic leukemia*
 |------|------|
 | Original Indication | PAH in adult patients with WHO Functional Class II to III, in combination with other PAH therapies, to improve exercise capacity |
 | Predicted New Indication | Acute lymphoblastic leukemia |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization in the data compiled for this report) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Sotatercept is an activin receptor type IIA-Fc fusion protein. It acts as a ligand trap for activin and related TGF-beta superfamily members. Currently, detailed mechanism of action data is not available in the data compiled for this report, so this description is based on general knowledge of the drug class.
 
-Activin signaling has been implicated in the regulation of blood cell formation, so a biological connection to a leukemia is conceivable. However, no data link activin trapping to leukemic cell survival in acute lymphoblastic leukemia. The relationship between PAH, a vascular disease, and a blood cancer is weak. The high TxGNN score (0.998) is a computational output and cannot be verified from the supplied data.
+Activin signaling has been implicated in the regulation of blood cell formation, so a biological connection to a leukemia is conceivable. However, no data link activin trapping to leukemic cell survival in acute lymphoblastic leukemia. The relationship between PAH, a vascular disease, and a blood cancer is weak. The high TxGNN score (0.9978) is a computational output and cannot be verified from the supplied data.
 
 **Other predicted indications (all L5, all Hold):** The model also ranked the following diseases highly, and none has trials or literature in the data compiled:
 - Severe nonproliferative diabetic retinopathy and diabetic retinopathy (TGF-beta/activin involvement in retinal vessel remodeling is plausible but unsupported; sotatercept may increase telangiectasia and bleeding risk, a potential concern for fragile retinal vessels)

@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Osilodrostat
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 453
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Osilodrostat: predicted new indication Familial generalized lentiginosis (evidence level L5). Approved use: Endogenous Cushing's syndrome in adults"
+description: "Osilodrostat: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Osilodrostat"
-predicted_indications: ["familial generalized lentiginosis", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "acromelanosis", "gastrocutaneous syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "Moynahan syndrome", "rhabdoid tumor", "X-linked lymphoproliferative disease due to SH2D1A deficiency", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "peripheral nerve schwannoma"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Osilodrostat
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,42 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Osilodrostat: From Endogenous Cushing's Syndrome to Familial Generalized Lentiginosis
+## Osilodrostat
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Osilodrostat (marketed as Isturisa) was originally used to treat endogenous Cushing's syndrome in adults.
-The TxGNN model predicts it may be effective for **familial generalized lentiginosis**, but **no clinical trials and no publications** currently support this direction.
-The prediction rests on a network-based score alone, and the available pharmacology argues against benefit.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Endogenous Cushing's syndrome in adults |
-| Predicted New Indication | Familial generalized lentiginosis |
-| TxGNN Prediction Score | 98.19% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
-| Recommended Decision | Hold |
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, osilodrostat is an inhibitor of 11-beta-hydroxylase (CYP11B1), the enzyme that catalyses the last step of cortisol synthesis. Its efficacy in Cushing's syndrome comes from lowering cortisol. This mechanism description is not verified by the supplied data.
-
-Lowering cortisol removes negative feedback on the pituitary, so ACTH and POMC-derived peptides tend to rise. These peptides stimulate melanocortin-1 receptor (MC1R) signalling and can increase pigmentation. In a lentiginosis phenotype, this could worsen the condition rather than treat it.
-
-The link between Cushing's syndrome and familial generalized lentiginosis is therefore weak. The high score (98.19%, rank 15,522) likely reflects shared annotations in the knowledge graph, not a verified therapeutic rationale. The other nine top predictions (including café-au-lait macule syndrome, acromelanosis, Moynahan syndrome, rhabdoid tumor, and peripheral nerve schwannoma) share the same limitation: network scores only, with no clinical or literature support.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+| Original Indication | Isturisa is indicated for the treatment of endogenous Cushing’s syndrome in adults. |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
 ## EU Market Information
 
@@ -85,18 +61,6 @@ Currently no related literature available.
 
 Please refer to the SmPC for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction is supported only by a knowledge-graph score, with no trials or publications. Osilodrostat's expected effect of raising ACTH points against benefit in pigmentary disorders. The EU authorization is also cancelled.
-
-**To proceed, the following is needed:**
-- Verified mechanism of action data from DrugBank
-- Warnings and contraindications from the EMA product information, required before any safety screening
-- Preclinical or clinical evidence showing a plausible benefit in lentiginosis, given the risk of ACTH-driven pigmentation
-- Clarification of why the EU authorization was cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

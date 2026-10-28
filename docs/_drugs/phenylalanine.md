@@ -48,19 +48,19 @@ This prediction is currently a computational hypothesis only.
 |------|------|
 | Original Indication | Maple syrup urine disease (MSUD) presenting with an acute decompensation episode, in patients from birth who are not eligible for an oral or enteral BCAA-free formulation |
 | Predicted New Indication | Sclerosing cholangitis |
-| TxGNN Prediction Score | 99.43% |
+| TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Phenylalanine is an essential aromatic amino acid and a precursor of tyrosine and catecholamines. In Maapliv it is part of an amino acid formulation used for MSUD, a metabolic disorder of branched-chain amino acids.
 
-The data compiled for this report do not establish a mechanistic link between phenylalanine and sclerosing cholangitis. The only related literature reports an association between plasma tyrosine (a phenylalanine metabolite) and fatigue in primary biliary cirrhosis and primary sclerosing cholangitis. That is an observation about a symptom, not evidence of a therapeutic effect. No plausible disease-modifying mechanism in cholestatic or fibrosing biliary disease is supported. The high TxGNN score (0.994) reflects knowledge-graph proximity and should be treated as a hypothesis.
+The data compiled for this report do not establish a mechanistic link between phenylalanine and sclerosing cholangitis. The only related literature reports an association between plasma tyrosine (a phenylalanine metabolite) and fatigue in primary biliary cirrhosis and primary sclerosing cholangitis. That is an observation about a symptom, not evidence of a therapeutic effect. No plausible disease-modifying mechanism in cholestatic or fibrosing biliary disease is supported. The high TxGNN score (0.9943) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be treated as a hypothesis.
 
-A second prediction, congenital prothrombin deficiency (score 99.26%), has no trials or literature and no identifiable mechanism. It is likely a graph-based artifact.
+A second prediction, congenital prothrombin deficiency (score 0.9926), has no trials or literature and no identifiable mechanism. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 

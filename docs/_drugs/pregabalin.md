@@ -4,17 +4,17 @@ title: Pregabalin
 parent: AI Predictions (L5)
 nav_order: 498
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Pregabalin: predicted new indication Tendinitis (evidence level L5). Approved use: Neuropathic pain (peripheral and central)…"
 monitor_inn: "Pregabalin"
-predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura", "osteoarthritis susceptibility", "osteoarthritis", "headache disorder", "atrophoderma vermiculata"]
+predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
+description: "Pregabalin: predicted new indication Tendinitis (evidence level L5). Approved use: Neuropathic painPregabalin Viatris Pharma is indicated for the treatm…"
 ---
 
 # Pregabalin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Pregabalin: From Neuropathic Pain, Epilepsy and Generalised Anxiety Disorder to Tendinitis
+## Pregabalin: Tendinitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ Of the other top-ranked predictions, **osteoarthritis** (L1), **headache disorde
 
 | Item | Content |
 |------|------|
-| Original Indication | Neuropathic pain (peripheral and central), adjunctive therapy for partial seizures, generalised anxiety disorder |
+| Original Indication | Neuropathic painPregabalin Viatris Pharma is indicated for the treatment of peripheral and central neuropathic pain in adults. Epilepsy&nbsp;Pregabalin Viatris Pharma is indicated as adjunctive therapy in adults with partial seizures with or without secondary generalisation. Generalised Anxiety Diso |
 | Predicted New Indication | Tendinitis |
-| TxGNN Prediction Score | 99.71% |
-| Evidence Level | L4 (tendinitis); the higher-evidence alternatives are osteoarthritis and headache disorder (L1) |
-| EU Market Status | Cancelled only (no currently valid centralised authorisations in the data) |
-| Number of Authorizations | 6 (all cancelled) |
+| TxGNN Prediction Score | 0.9971 |
+| Evidence Level | L5 (tendinitis); the higher-evidence alternatives are osteoarthritis and headache disorder (L1) |
+| EU Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Authorizations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ---
@@ -70,12 +70,9 @@ The TxGNN score is high, but the supporting evidence is weak. Predictions with b
 
 | Predicted Indication | TxGNN Score | Evidence Level | Summary |
 |------|------|------|------|
-| Osteoarthritis | 98.58% | L1 | Completed Phase 3 RCTs exist (including a 307-patient placebo-controlled study after knee arthroplasty) and Phase 4 comparisons with duloxetine. Evidence covers pain control, not disease modification. |
-| Headache disorder | 97.63% | L1 | A completed Phase 3 trial in postdural puncture headache (n=75). This is a narrow secondary headache type. |
-| Migraine disorder | 99.47% | L2 | Small paediatric RCTs against propranolol and valproate. The only Phase 3 trial was withdrawn. |
-| Migraine with brainstem aura | 99.43% | L4 | Preclinical evidence of inhibition of cortical spreading depression. |
-| Idiopathic granulomatous myositis, myositis fibrosa, osteoarthritis susceptibility, atrophoderma vermiculata | 97.6–99.7% | L5 | Prediction only; no trials or literature, and no plausible mechanism. |
-| Inclusion body myositis | 99.52% | L5 | Only an unrelated case report was retrieved. |
+| Migraine disorder | 0.9947 | L2 | Small paediatric RCTs against propranolol and valproate. The only Phase 3 trial was withdrawn. |
+| Migraine with brainstem aura | 0.9943 | L5 | Preclinical evidence of inhibition of cortical spreading depression. |
+| Inclusion body myositis | 0.9952 | L5 | Only an unrelated case report was retrieved. |
 
 ---
 
@@ -100,7 +97,7 @@ Currently no related clinical trials registered for tendinitis.
 
 ## EU Market Information
 
-All six authorisations are listed as cancelled; no valid authorisations are recorded.
+All six authorisations are valid; the drug is marketed.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -134,11 +131,10 @@ Please refer to the SmPC for the official warnings and contraindications.
 
 **Rationale:**
 - The tendinitis prediction relies on a high model score with no clinical trials, and the mechanistic link is indirect and limited to a possible neuropathic pain component. The literature retrieved does not address tendinitis treatment.
-- All six EU authorisations are cancelled, which adds regulatory uncertainty.
+- All six authorisations are valid, and the drug is marketed.
 
 **To proceed, the following is needed:**
 - Clinical studies of pregabalin specifically in tendinitis or tendinopathy pain, ideally in patients with a neuropathic or centrally sensitised component
-- Redirecting attention to **osteoarthritis pain** (central-sensitisation subgroups and peri-operative multimodal analgesia) and **postdural puncture headache**, which have completed Phase 3 evidence and merit a focused review
 - Confirmation of current EU marketing status, since the data show only cancelled authorisations
 - Official SmPC warnings and contraindications, and detailed mechanism of action data
 - A safety plan covering sedation, abuse potential, opioid co-prescription, and renal impairment

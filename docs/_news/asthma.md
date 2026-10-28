@@ -51,9 +51,9 @@ This page brings together the latest health news about “asthma” and lists th
 <li><a href="{{ '/drugs/prilocaine/' | relative_url }}">Prilocaine</a></li>
 <li><a href="{{ '/drugs/regadenoson/' | relative_url }}">Regadenoson</a></li>
 <li><a href="{{ '/drugs/risdiplam/' | relative_url }}">Risdiplam</a></li>
-<li><a href="{{ '/drugs/rozanolixizumab/' | relative_url }}">Rozanolixizumab</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Rozanolixizumab</a></li>
 <li><a href="{{ '/drugs/sarilumab/' | relative_url }}">Sarilumab</a></li>
-<li><a href="{{ '/drugs/somapacitan/' | relative_url }}">Somapacitan</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Somapacitan</a></li>
 <li><a href="{{ '/drugs/tagraxofusp/' | relative_url }}">Tagraxofusp</a></li>
 <li><a href="{{ '/drugs/tazobactam/' | relative_url }}">Tazobactam</a></li>
 <li><a href="{{ '/drugs/thalidomide/' | relative_url }}">Thalidomide</a></li>

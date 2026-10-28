@@ -7,14 +7,15 @@ description: "Fesoterodine Fumarate drug repurposing predictions from TxGNN. Evi
 parent: AI Predictions (L5)
 nav_order: 243
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Fesoterodine Fumarate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | overactive bladder (disease) | 98.87% | DL |
-| 2 | polycystic kidney disease 3 with or without polycystic liver disease | 91.13% | DL |
-| 3 | thoracic malformation | 89.92% | DL |
-| 4 | renal-hepatic-pancreatic dysplasia | 89.64% | DL |
-| 5 | Joubert syndrome with renal defect | 88.48% | DL |
-| 6 | adult familial nephronophthisis-spastic quadriparesia syndrome | 88.42% | DL |
-| 7 | karyomegalic interstitial nephritis | 87.34% | DL |
-| 8 | low compliance bladder | 86.46% | DL |
-| 9 | faciodigitogenital syndrome | 84.84% | DL |
-| 10 | attention deficit-hyperactivity disorder | 82.44% | DL |
-| 11 | polycystic kidney disease | 79.91% | DL |
-| 12 | congenital analbuminemia | 74.64% | DL |
-| 13 | hyperamylasemia | 72.90% | DL |
-| 14 | polyclonal hyperviscosity syndrome | 72.90% | DL |
-| 15 | restless legs syndrome | 67.53% | DL |
-| 16 | communication disorder | 66.95% | DL |
-| 17 | tic disorder | 66.20% | DL |
-| 18 | developmental disorder of mental health | 65.77% | DL |
-| 19 | stereotypic movement disorder | 64.96% | DL |
-| 20 | fetal nicotine spectrum disorder | 64.96% | DL |
 
 *Showing top 20 of 50 predictions.*
 

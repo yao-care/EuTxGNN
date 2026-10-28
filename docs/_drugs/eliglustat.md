@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Eliglustat
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 216
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Eliglustat: predicted new indication Autosomal ichthyosis syndrome with fatal disease course (evidence level L5). Approved use: Long-term treatment of adult patients with Gaucher disease type 1 (GD…"
+description: "Eliglustat: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Eliglustat"
-predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "benign neoplasm of adrenal gland", "polycystic kidney disease 3 with or without polycystic liver disease", "gastrocutaneous syndrome", "familial generalized lentiginosis", "Moynahan syndrome", "rhabdoid tumor", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "acromelanosis"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Eliglustat
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,42 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Eliglustat: From Gaucher Disease Type 1 to Autosomal Ichthyosis Syndrome with Fatal Disease Course
+## Eliglustat
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Eliglustat is a glucosylceramide synthase inhibitor (substrate reduction therapy) originally used for long-term treatment of Gaucher disease type 1.
-The TxGNN model predicts it may be effective for **autosomal ichthyosis syndrome with fatal disease course**,
-but currently **0 clinical trials** and **0 publications** support this specific prediction, so it rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Long-term treatment of adult patients with Gaucher disease type 1 (GD1) who are CYP2D6 poor, intermediate or extensive metabolisers; also paediatric patients aged 6 to <18 years (≥15 kg) with GD1 who are stable on enzyme replacement therapy |
-| Predicted New Indication | Autosomal ichthyosis syndrome with fatal disease course |
-| TxGNN Prediction Score | 98.42% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
-| Recommended Decision | Hold |
-
-## Why is This Prediction Reasonable?
-
-Eliglustat inhibits glucosylceramide synthase, the first step in glycosphingolipid synthesis. By reducing production of glucosylceramide, it lowers the substrate that accumulates in Gaucher disease. Detailed mechanism of action data is not otherwise available in the data compiled for this report.
-
-Ichthyoses involve defects in epidermal ceramide and lipid barrier metabolism, so a speculative connection to sphingolipid pathways exists. However, the connection is not established. Glucosylceramide is a precursor of the ceramides that form the skin barrier, so reducing it could plausibly **worsen** barrier function rather than improve it.
-
-The high TxGNN score is a computational prediction. No trials or literature support it, and the mechanistic link should be treated as unproven.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available for this predicted indication.
+| Original Indication | AdultsCerdelga is indicated for the long-term treatment of adult patients with Gaucher disease type 1 (GD1), who are CYP2D6 poor metabolisers (PMs), intermediate metabolisers (IMs) or extensive metabolisers (EMs).Paediatric population (from 6 to &lt; 18 years of age) weighing ≥ 15 kgCerdelga is indi |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
 ## EU Market Information
 
@@ -88,19 +64,6 @@ Currently no related literature available for this predicted indication.
 
 Please refer to the SmPC for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction has no supporting clinical trials or literature (Evidence Level L5). The mechanistic link is speculative and may even point in the opposite direction, since reducing glucosylceramide could impair the skin barrier. The EU authorization for the original product is also cancelled.
-
-**To proceed, the following is needed:**
-- Preclinical evidence (for example skin or keratinocyte models) showing whether glucosylceramide synthase inhibition helps or harms epidermal barrier function
-- Detailed mechanism of action data
-- Warnings and contraindications from the SmPC, plus a safety assessment for this patient population
-- Clarification of the EU regulatory status and available formulations
-- A literature and trial search specific to this rare condition
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

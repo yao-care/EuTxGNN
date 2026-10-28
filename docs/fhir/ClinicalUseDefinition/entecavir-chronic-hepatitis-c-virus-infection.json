@@ -2,7 +2,7 @@
   "resourceType": "ClinicalUseDefinition",
   "id": "entecavir-chronic-hepatitis-c-virus-infection",
   "meta": {
-    "lastUpdated": "2026-07-26T10:06:10Z"
+    "lastUpdated": "2026-07-26T10:06:13Z"
   },
   "type": "indication",
   "status": "active",
@@ -21,7 +21,7 @@
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L5"
+      "valueCode": "L4"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/prediction-source",
@@ -29,7 +29,11 @@
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/drugbank-id",
-      "valueString": "DB00442"
+      "valueString": "DB01048"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9998
     }
   ]
 }

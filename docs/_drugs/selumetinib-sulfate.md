@@ -7,14 +7,15 @@ description: "selumetinib sulfate drug repurposing predictions from TxGNN. Evide
 parent: AI Predictions (L5)
 nav_order: 523
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Selumetinib Sulfate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | familial generalized lentiginosis | 99.96% | DL |
-| 2 | gastrocutaneous syndrome | 99.96% | DL |
-| 3 | rhabdoid tumor | 99.96% | DL |
-| 4 | congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome | 99.96% | DL |
-| 5 | acromelanosis | 99.96% | DL |
-| 6 | Moynahan syndrome | 99.96% | DL |
-| 7 | leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome | 99.95% | DL |
-| 8 | osteopathia striata-pigmentary dermopathy-white forelock syndrome | 99.95% | DL |
-| 9 | peripheral nerve schwannoma | 99.95% | DL |
-| 10 | trigeminal schwannoma | 99.95% | DL |
-| 11 | microcystic/reticular schwannoma | 99.95% | DL |
-| 12 | schwannoma of twelfth cranial nerve | 99.94% | DL |
-| 13 | sympathetic neurilemmoma | 99.94% | DL |
-| 14 | bilateral parasagittal parieto-occipital polymicrogyria | 99.92% | DL |
-| 15 | trichomegaly-retina pigmentary degeneration-dwarfism syndrome | 99.91% | DL |
-| 16 | axial spondylometaphyseal dysplasia | 99.91% | DL |
-| 17 | amyotrophic lateral sclerosis | 99.91% | DL |
-| 18 | lower motor neuron syndrome with late-adult onset | 99.91% | DL |
-| 19 | lethal arthrogryposis-anterior horn cell disease syndrome | 99.89% | DL |
-| 20 | neurofibromatosis | 99.88% | DL |
 
 *Showing top 20 of 50 predictions.*
 

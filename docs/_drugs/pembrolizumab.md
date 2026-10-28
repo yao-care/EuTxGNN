@@ -4,7 +4,7 @@ title: Pembrolizumab
 parent: AI Predictions (L5)
 nav_order: 477
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Pembrolizumab: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Advanced (unresectable or metastatic) melanoma…"
 monitor_inn: "Pembrolizumab"
@@ -14,7 +14,7 @@ predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with 
 # Pembrolizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ but **0 clinical trials** and **0 publications** currently support this directio
 |------|------|
 | Original Indication | Advanced (unresectable or metastatic) melanoma, plus adjuvant melanoma and many other cancers (NSCLC, urothelial, head and neck, renal, colorectal MSI-H/dMMR, and others) |
 | Predicted New Indication | Fibromatosis, gingival |
-| TxGNN Prediction Score | 99.40% |
+| TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

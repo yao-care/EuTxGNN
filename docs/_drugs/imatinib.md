@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Imatinib
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 313
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Imatinib: predicted new indication Heart fibrosarcoma (evidence level L4). Approved use: Newly diagnosed Philadelphia chromosome-positive (Ph+) chronic myeloi…"
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
+last_modified_at: 2026-10-27
+description: "Imatinib: predicted new indication heart fibrosarcoma (evidence level L5). Approved use: Imatinib Teva is indicated for the treatment of Adult and paediatric…"
 ---
 
 # Imatinib
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,58 +33,51 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Imatinib: From Chronic Myeloid Leukaemia to Heart Fibrosarcoma
+## Imatinib: tyrosine kinase inhibitor (BCR-ABL, KIT, PDGFR) → heart fibrosarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Imatinib is a tyrosine kinase inhibitor originally used to treat Philadelphia chromosome-positive chronic myeloid leukaemia (CML), as well as GIST and other conditions.
-The TxGNN model predicts it may be effective for **heart fibrosarcoma**, but **no clinical trials** and only **1 general commentary article** currently support this direction, so the prediction rests mainly on model output.
+Imatinib is a tyrosine kinase inhibitor that blocks BCR-ABL, KIT and PDGFR kinases.
+The TxGNN model predicts it may be effective for **heart fibrosarcoma**, but **no clinical trials** are registered for this disease and only **1 publication** (a general commentary on new imatinib indications, stating the evidence is not robust) was retrieved, so this remains a model-based prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Newly diagnosed Philadelphia chromosome-positive (Ph+) chronic myeloid leukaemia (CML), among others |
-| Predicted New Indication | Heart fibrosarcoma |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 3 |
+| Original Indication | Imatinib Teva is indicated for the treatment of  Adult and paediatric patients with newly diagnosed Philadelphia chromosome (bcr?abl) positive (Ph+) chronic myeloid leukaemia (CML) for whom bone marrow transplantation is not considered as the first line of treatment. Adult and paediatric patients wi |
+| Predicted New Indication | heart fibrosarcoma |
+| TxGNN Prediction Score | 0.9994 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the literature, imatinib inhibits the PDGFR, KIT and ABL kinases. Its efficacy in CML, GIST and dermatofibrosarcoma protuberans (DFSP) is established.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on what is known, imatinib inhibits PDGFR, KIT and ABL kinases.
 
-Fibrosarcoma-type tumours, including those arising in the heart, may depend on PDGFB/PDGFR signalling, as in DFSP, where a COL1A1-PDGFB fusion drives constitutive receptor activation. This gives a plausible but unverified rationale. No cardiac-specific data are available, and the single literature item is a general commentary stating that the evidence for new imatinib indications is not robust.
+Fibrosarcoma-type tumours may depend on PDGFB/PDGFR signalling, as seen in COL1A1-PDGFB-driven dermatofibrosarcoma protuberans. This gives a plausible mechanistic rationale for a tumour of fibroblastic origin arising in the heart. However, this link is unverified, and no cardiac-specific data are available.
 
-Other predicted indications from the same model run show how uneven the support is:
-
-- **Fibroblastic neoplasm** (score 99.94%, L4, Proceed with Guardrails): this is dominated by DFSP, which is already an approved indication, so it confirms an existing label rather than a new repurposing finding.
-- **Conventional fibrosarcoma** and **kidney fibrosarcoma**: the evidence is indirect, with no disease-specific efficacy data.
-- **Liposarcoma**: three completed phase 1/2 or phase 2 soft tissue sarcoma trials exist, but liposarcoma is mostly driven by MDM2/CDK4 rather than KIT/PDGFR, so the mechanistic link is weak.
-- Several other predictions (low grade fibromyxoid sarcoma, liver fibrosarcoma, familial Mediterranean fever, ovarian myxoid liposarcoma, familial rhabdoid tumour) have little or no supporting evidence.
+The only publication retrieved is a general commentary on new imatinib indications, and it does not study heart fibrosarcoma. No cited study directly addresses the predicted disease, so the evidence level is L5 (model prediction only).
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for heart fibrosarcoma.
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [18623899](https://pubmed.ncbi.nlm.nih.gov/18623899/) | 2008 | Review | Prescrire international | Commentary on imatinib's expanding indications, concluding that the evidence for the new indications is not robust. It is not specific to heart fibrosarcoma. |
+| [18623899](https://pubmed.ncbi.nlm.nih.gov/18623899/) | 2008 | Review | Prescrire international | Commentary on the expanding indications of imatinib (e.g. Ph+ acute lymphoblastic leukaemia); concludes that the evidence for the new indications is not robust. Does not address heart fibrosarcoma. |
 
 ## EU Market Information
 
-All three authorizations are cancelled.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/002585 | Imatinib Teva | Not specified | Imatinib Teva is indicated for the treatment of Adult and paediatric patients with newly diagnosed Philadelphia chromosome (bcr?abl) positive (Ph+)... |
-| EMEA/H/C/000406 | Glivec | Not specified | Glivec is indicated for the treatment of adult and paediatric patients with newly diagnosed Philadelphia-chromosome (bcr-abl)-positive (Ph+) chro... |
-| EMEA/H/C/002681 | Imatinib Accord | Not specified | Imatinib Accord is indicated for the treatment of adult and paediatric patients with newly diagnosed Philadelphia chromosome (bcr-abl) positive (Ph+)... |
+| EMEA/H/C/002585 | Imatinib Teva | Not recorded | Adult and paediatric patients with newly diagnosed Philadelphia chromosome (bcr?abl) positive (Ph+) chronic myeloid leukaemia (CML) for whom bone marrow tr... |
+| EMEA/H/C/000406 | Glivec | Not recorded | Adult and paediatric patients with newly diagnosed Philadelphia-chromosome (bcr-abl)-positive (Ph+) chronic myeloid leukaemia (CML) for whom bone-marrow... |
+| EMEA/H/C/002681 | Imatinib Accord | Not recorded | Adult and paediatric patients with newly diagnosed Philadelphia chromosome (bcr-abl) positive (Ph+) chronic myeloid leukaemia (CML) for whom bone marrow... |
 
 ## Cytotoxicity
 
@@ -93,36 +86,27 @@ All three authorizations are cancelled.
 | Cytotoxicity Classification | Targeted therapy (tyrosine kinase inhibitor) |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | Please refer to the SmPC warnings and precautions. Haematological parameters, liver function and renal function are commonly monitored for this class. |
+| Monitoring Items | Please refer to the SmPC warnings and precautions; blood counts and liver and renal function are commonly monitored for antineoplastic agents |
 | Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-**Contraindications flagged in the knowledge graph** (derived from drug-disease relationship edges, not from label text): hypertension, liver failure and liver disease, kidney disease, congestive heart failure and heart failure, coronary artery disease, heart valve disease, congenital heart disease, pericardial effusion, pulmonary edema, brain edema, thrombocytopenia, neutropenia, agranulocytosis, anemia, diabetes mellitus, diabetic ketoacidosis, hyperbilirubinemia (including Gilbert syndrome), active peptic ulcer disease, gallbladder disease, hypophosphatemia, obesity disorder, and pyoureter.
+- **Drug Interactions**: 100 interactions were recorded in total. Major-level interactions include eliglustat and naloxegol. Moderate-level interactions include corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), pioglitazone, glimepiride, saxagliptin, aprepitant, morphine, cimetidine, clarithromycin, lansoprazole, dexlansoprazole, naltrexone, naldemedine and metreleptin.
 
-These should be verified against the SmPC. Several cardiac entries are particularly relevant to a cardiac tumour indication.
-
-**Drug Interactions**: 100 interactions were found in total. Examples from the 20 listed:
-- **Major**: eliglustat, naloxegol
-- **Moderate**: corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), pioglitazone, glimepiride, saxagliptin, aprepitant, morphine, cimetidine, clarithromycin, lansoprazole, dexlansoprazole, naltrexone, naldemedine, metreleptin
-
-Please refer to the SmPC for the full set of safety information, including warnings and contraindications.
-
-A case report in the compiled literature describes a drug reaction with eosinophilia and systemic symptoms (DRESS) linked to imatinib in a patient with DFSP.
+For warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction for heart fibrosarcoma is supported only by a model score, a plausible PDGFR-based mechanism, and a single general commentary that itself calls the evidence not robust. There are no trials, no cardiac-specific data, and no valid EU marketing authorization at present.
+The prediction rests on model output and a plausible but unverified PDGFR-based rationale. There are no trials, and the single publication retrieved does not study heart fibrosarcoma.
 
 **To proceed, the following is needed:**
-- Disease-specific evidence, such as case series, registry data or preclinical models of cardiac fibrosarcoma, including PDGFR/KIT dependence testing
-- Mechanism of action data (DrugBank) and SmPC warnings and contraindications (EMA)
-- A cardiac safety assessment, given the cardiac-related contraindication signals in the knowledge graph
-- Clarification of the status of the cancelled EU authorizations, since no valid authorization is currently listed
-- If the team wants a nearer-term candidate from this prediction list, review **fibroblastic neoplasm** (DFSP), though it is an existing label, and treat **liposarcoma** and **kidney fibrosarcoma** as research questions only
+- Disease-specific evidence for cardiac fibrosarcoma (case series, preclinical or clinical data, and PDGFR/KIT dependence of the tumour)
+- Detailed mechanism of action data
+- Warnings and contraindications from the SmPC for safety screening
+- A safety monitoring plan, including the interaction profile above
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

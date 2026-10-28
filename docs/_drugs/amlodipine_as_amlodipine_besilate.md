@@ -8,6 +8,7 @@ nav_order: 47
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Amlodipine As Amlodipine Besilate
@@ -49,8 +50,8 @@ Amlodipine (as amlodipine besilate) is a dihydropyridine calcium channel blocker
 | Predicted New Indication | Not yet available |
 | TxGNN Prediction Score | Not yet available |
 | Evidence Level | N/A — pipeline has not returned predictions |
-| EU Market Status | Not marketed (0 authorizations recorded — see note below) |
-| Number of Authorizations | 0 |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 > ⚠️ **Market Status Note:** Amlodipine is a globally off-patent drug available in most major markets including the EU. A result of "0 authorizations" strongly suggests a data query issue rather than a genuine absence from the market. This field should be re-verified before any regulatory decision is made.

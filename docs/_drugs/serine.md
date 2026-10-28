@@ -4,17 +4,17 @@ title: Serine
 parent: AI Predictions (L5)
 nav_order: 557
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Serine: predicted new indication Familial visceral myopathy (evidence level L5). Approved use: Maple syrup urine disease (MSUD) presenting with an acute decompensat…"
 monitor_inn: "serine"
 predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "myopathic intestinal pseudoobstruction", "unclassified intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]
+description: "Serine: predicted new indication Familial visceral myopathy (evidence level L5). Approved use: Maapliv is indicated for the treatment of maple syrup urine disease (…"
 ---
 
 # Serine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Serine: From Maple Syrup Urine Disease (Acute Decompensation) to Familial Visceral Myopathy
+## Serine: Familial visceral myopathy
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,21 +45,21 @@ The TxGNN model predicts it may be effective for **familial visceral myopathy**,
 
 | Item | Content |
 |------|------|
-| Original Indication | Maple syrup urine disease (MSUD) presenting with an acute decompensation episode in patients from birth who are not eligible for an oral and enteral BCAA-free formulation |
+| Original Indication | Maapliv is indicated for the treatment of maple syrup urine disease (MSUD) presenting with an acute decompensation episode in patients from birth who are not eligible for an oral and enteral branched-chain amino acids free (BCAA- free) formulation. |
 | Predicted New Indication | Familial visceral myopathy |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Serine is a proteinogenic amino acid. Its efficacy in the original indication (MSUD acute decompensation) rests on a metabolic and nutritional role, and nothing in the data compiled for this report links that role to the predicted disease.
 
-Familial visceral myopathy is a genetic disorder of visceral smooth muscle (for example, ACTG2-related disease). The data compiled for this report do not support a mechanistic link between serine and visceral smooth muscle dysfunction. The very high score (99.99%) most likely reflects proximity in the knowledge graph rather than biological evidence, so it should be read as a hypothesis-generating signal only.
+Familial visceral myopathy is a genetic disorder of visceral smooth muscle (for example, ACTG2-related disease). The data compiled for this report do not support a mechanistic link between serine and visceral smooth muscle dysfunction. The very high score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so it should be read as a hypothesis-generating signal only.
 
-The other top-ranked predictions are also unsupported. Many are intestinal pseudo-obstruction or glaucoma entries that appear to be graph neighbours of one another. Literature retrieved for two of them (intestinal obstruction and angle-closure glaucoma) matched the word "serine" in serine proteases and serine/threonine kinases such as PRSS56 and STK11, not serine as a therapy.
+The other top-ranked predictions are also unsupported. Many are intestinal pseudo-obstruction entries that appear to be related diseases between which the model learned similarities. Literature retrieved for one of them (intestinal obstruction) matched the word "serine" in serine proteases and serine/threonine kinases such as PRSS56 and STK11, not serine as a therapy.
 
 ## Clinical Trial Evidence
 
@@ -92,7 +92,7 @@ No drug interaction data were found. Please refer to the SmPC for label-based wa
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model score alone (L5), with no trials, no relevant literature, and no supported mechanism. The only authorization is cancelled, so there is no active EU market presence.
+The prediction rests on model score alone (L5), with no trials, no relevant literature, and no supported mechanism.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a plausible biological rationale linking serine to visceral smooth muscle function

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nintedanib
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 430
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Nintedanib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L4). Approved use: Idiopathic pulmonary fibrosis (IPF) and other chronic fibrosing inter…"
 monitor_inn: "Nintedanib"
-predicted_indications: ["dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "axial spondylometaphyseal dysplasia", "amyotrohpic lateral sclerosis type 22", "fibroblastic neoplasm", "kidney fibrosarcoma", "conventional fibrosarcoma", "amyotrophic lateral sclerosis, susceptibility to"]
+predicted_indications: ["dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
 ---
 
 # Nintedanib
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Support is currently limited to **0 clinical trials** and **1 publication** (an 
 |------|------|
 | Original Indication | Idiopathic pulmonary fibrosis (IPF) and other chronic fibrosing interstitial lung diseases with a progressive phenotype |
 | Predicted New Indication | Dermatofibrosarcoma protuberans |
-| TxGNN Prediction Score | 99.15% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (all licences cancelled) |
-| Number of Authorizations | 4 |
+| TxGNN Prediction Score | 0.9915 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -74,7 +74,7 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-All four authorizations are currently cancelled.
+All four authorizations are currently valid.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -107,7 +107,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high and the PDGFRB-driven biology of DFSP makes the mechanism plausible. However, there are no clinical trials and only one indirect review, and imatinib is already the established targeted therapy. In addition, all EU licences for nintedanib are currently cancelled.
+The prediction score is high and the PDGFRB-driven biology of DFSP makes the mechanism plausible. However, there are no clinical trials and only one indirect review, and imatinib is already the established targeted therapy. In addition, nintedanib is currently marketed in this country, with 4 valid licences out of 4.
 
 **To proceed, the following is needed:**
 - Nintedanib-specific preclinical data in DFSP models, particularly imatinib-resistant ones

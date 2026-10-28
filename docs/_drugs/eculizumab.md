@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **cyclic hematopoiesis** (cycli
 |------|------|
 | Original Indication | Paroxysmal nocturnal haemoglobinuria (PNH) and atypical haemolytic uremic syndrome (aHUS) in adults and children |
 | Predicted New Indication | Cyclic hematopoiesis |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (all marketing authorizations cancelled) |
-| Number of Authorizations | 3 |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Eculizumab is known as a C5 complement inhibitor, and its efficacy in complement-mediated diseases (PNH, aHUS, refractory generalized myasthenia gravis, NMOSD) is established.
 
-Cyclic hematopoiesis (cyclic neutropenia) is typically caused by ELANE mutations and is not primarily a complement-mediated disease. No plausible complement-related mechanism is supported by the available data. The very high TxGNN score (99.97%, model rank 595) reflects a graph-based association only and should not be read as evidence of efficacy.
+Cyclic hematopoiesis (cyclic neutropenia) is typically caused by ELANE mutations and is not primarily a complement-mediated disease. No plausible complement-related mechanism is supported by the available data. The very high TxGNN score (0.9997, model rank 595) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should not be read as evidence of efficacy.
 
 The other top-ranked predictions (various congenital neutropenias, adult idiopathic neutropenia, primary immunodeficiency due to p14 deficiency, primary release disorder of platelets) share the same weakness: they involve defects in myeloid maturation, chemokine/G-CSF signalling or platelet function rather than terminal complement activity. Blocking C5 also increases the risk of serious meningococcal infection, which is a particular concern in neutropenic or immunodeficient patients.
 
@@ -93,7 +93,7 @@ Please refer to the SmPC for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score. There are no clinical trials or targeted literature, and there is no plausible complement-driven mechanism for cyclic hematopoiesis. The evidence level is L5. In addition, all three EU marketing authorizations are currently cancelled.
+The prediction is supported only by a model score. There are no clinical trials or targeted literature, and there is no plausible complement-driven mechanism for cyclic hematopoiesis. The evidence level is L5. In addition, all three EU marketing authorizations are currently valid.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence for complement involvement in cyclic hematopoiesis (ELANE-related neutropenia)

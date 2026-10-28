@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Dacomitinib
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 165
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Dacomitinib: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: First-line monotherapy for adults with locally advanced or metastatic…"
-monitor_inn: "Dacomitinib"
-predicted_indications: ["rheumatoid arthritis", "homozygous familial hypercholesterolemia", "brachydactyly-syndactyly syndrome", "pulmonary hypertension", "nephrogenic syndrome of inappropriate antidiuresis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "kyphoscoliotic heart disease", "multiple endocrine neoplasia", "amyotrophic lateral sclerosis", "leprosy"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Dacomitinib: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Dacomitinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,48 +32,45 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Dacomitinib: From Non-Small Cell Lung Cancer to Rheumatoid Arthritis
+<!-- known-uses-page -->
+<!-- description: Dacomitinib: known uses and market status in the European Union; currently no new candidate indication -->
+## Dacomitinib: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model has no candidate with a score of 0.99 or higher for Dacomitinib, so there is currently no new predicted indication. The drug's own recorded uses are listed below; none are recorded for this drug at present.
 
-Dacomitinib was originally used as first-line treatment for EGFR-mutation-positive non-small cell lung cancer (NSCLC).
-The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but **no clinical trials and no publications** currently support this specific prediction.
-The evidence is model-prediction only.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | First-line monotherapy for adults with locally advanced or metastatic NSCLC with EGFR activating mutations |
-| Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 97.79% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
-| Recommended Decision | Hold |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 0 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
-## Why is This Prediction Reasonable?
+## Known uses recorded for this drug
 
-Currently, detailed mechanism of action data is not available. Based on known information, dacomitinib is an irreversible pan-HER (EGFR family) kinase inhibitor. Its efficacy in EGFR-mutant NSCLC has been established, and EGFR/HER signaling has been discussed in synovial fibroblast activation and inflammation, so it may be mechanistically applicable to rheumatoid arthritis.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-This link is speculative. The high score is a computational prediction only, and the data compiled for this report contain no trials or publications on dacomitinib in rheumatoid arthritis. Its toxicity profile (rash, diarrhea, interstitial lung disease) would also need careful consideration in a chronic autoimmune setting.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-**Other predicted indications:** The only prediction with any supporting literature is **pulmonary hypertension** (rank 4, score 96.51%, evidence level L4). A 2019 preclinical study (PMID 30753867) reported that dacomitinib attenuated pulmonary vascular remodeling and pulmonary hypertension in rats. Multiple endocrine neoplasia (rank 8) has only one terminated Phase 1 platform trial with 2 participants and no indication-specific evidence. The remaining predictions have no supporting evidence.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for rheumatoid arthritis.
-
-## Literature Evidence
-
-Currently no related literature available for rheumatoid arthritis.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004779 (cancelled) | Vizimpro | Not specified | Vizimpro, as monotherapy, is indicated for the first-line treatment of adult patients with locally advanced or metastatic non small cell lung cancer (NSCLC) with... |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/004779 | Vizimpro |  | Valid |
 
 ## Cytotoxicity
 
@@ -95,19 +91,6 @@ Currently no related literature available for rheumatoid arthritis.
 
 Please refer to the SmPC for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The rheumatoid arthritis prediction has a high model score but no trials, no literature and no established mechanistic link (evidence level L5). The EU authorization is also cancelled, and the drug's toxicity profile is a concern for chronic autoimmune use.
-
-**To proceed, the following is needed:**
-- Mechanism of action data, and evidence that EGFR/HER signaling drives rheumatoid arthritis pathology
-- Preclinical studies of dacomitinib in arthritis models
-- A risk-benefit assessment of its toxicity (rash, diarrhea, interstitial lung disease) in a chronic autoimmune population
-- Warnings and contraindications from the SmPC
-- Consideration of pulmonary hypertension as a better-supported research question (preclinical evidence, L4), with attention to interstitial lung disease risk
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

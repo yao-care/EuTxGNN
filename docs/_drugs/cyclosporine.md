@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-## Cyclosporine: From Dry Eye Disease to Chronic Granulomatous Disease
+## Cyclosporine: From Dry Eye Disease to granulomatous disease, chronic, autosomal recessive
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **autosomal recessive chronic g
 |------|------|
 | Original Indication | Treatment of moderate to severe dry eye disease (keratoconjunctivitis sicca) in adult patients, which has not improved despite treatment with tear substitutes |
 | Predicted New Indication | Granulomatous disease, chronic, autosomal recessive |
-| TxGNN Prediction Score | 99.68% |
+| TxGNN Prediction Score | 0.9968 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 3 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -81,7 +81,7 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-All three authorizations are currently cancelled.
+All three authorizations are currently valid.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -123,12 +123,12 @@ The prediction rests on a computational score alone. There are no clinical trial
 
 | Predicted Indication | TxGNN Score | Evidence Level | Note |
 |------|------|------|------|
-| Brain aneurysm | 99.50% | L3 | Only small 1990s studies on vasospasm after subarachnoid hemorrhage, a complication of rupture rather than aneurysm treatment. A 2017 animal study found T cells are dispensable for aneurysm formation. |
-| Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.39% | L5 | Prediction only |
-| Congenital ichthyosiform erythroderma | 99.38% | L5 | Prediction only; speculative link to skin inflammation |
-| Fetal erythroblastosis | 99.37% | L5 | Only an in vitro bilirubin transport study |
-| Brachydactyly-syndactyly syndrome | 99.31% | L5 | Prediction only |
-| Prolapse of lacrimal gland | 99.08% | L5 | Prediction only; structural problem with loose proximity to approved eye indications |
+| Brain aneurysm | 0.9950 | L5 | Only small 1990s studies on vasospasm after subarachnoid hemorrhage, a complication of rupture rather than aneurysm treatment. A 2017 animal study found T cells are dispensable for aneurysm formation. |
+| Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 0.9939 | L5 | Prediction only |
+| Congenital ichthyosiform erythroderma | 0.9938 | L5 | Prediction only; speculative link to skin inflammation |
+| Fetal erythroblastosis | 0.9937 | L5 | Only an in vitro bilirubin transport study |
+| Brachydactyly-syndactyly syndrome | 0.9931 | L5 | Prediction only |
+| Prolapse of lacrimal gland | 0.9908 | L5 | Prediction only; structural problem with loose proximity to approved eye indications |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

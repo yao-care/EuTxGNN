@@ -4,17 +4,17 @@ title: Cobimetinib
 parent: AI Predictions (L5)
 nav_order: 156
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Cobimetinib: predicted new indication Amyotrophic lateral sclerosis (evidence level L5). Approved use: Use in combination with vemurafenib for adult patients with unresecta…"
 monitor_inn: "cobimetinib"
-predicted_indications: ["amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "Mills syndrome", "amyotrophic lateral sclerosis, susceptibility to", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "amyotrohpic lateral sclerosis type 22", "monomelic amyotrophy"]
+predicted_indications: ["amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "Mills syndrome", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "amyotrohpic lateral sclerosis type 22", "monomelic amyotrophy"]
 ---
 
 # Cobimetinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **amyotrophic lateral sclerosis
 |------|------|
 | Original Indication | Use in combination with vemurafenib for adult patients with unresectable or metastatic melanoma with a BRAF V600 mutation |
 | Predicted New Indication | Amyotrophic lateral sclerosis |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (the single authorization has been cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 MAPK/ERK pathway activation has been implicated in neuroinflammation and motor neuron stress responses in ALS models. This offers a plausible but unvalidated rationale for the prediction. Melanoma and ALS are very different diseases, and no direct similarity between the original and new indication has been established.
 
 Important caveats:
-- The TxGNN score is very high (0.997), but it is a computational prediction only.
+- The TxGNN score is very high (0.9973), but it is a computational prediction only.
 - Brain penetration is a concern, because cobimetinib is thought to be a P-glycoprotein substrate. This has not been assessed here.
 - Other top predictions are mostly rare motor neuron or genetic disorders (e.g., Mills syndrome, monomelic amyotrophy, ALS type 22). They share the same speculative rationale and are likely correlated with the ALS prediction. Several others (e.g., polymicrogyria, axial spondylometaphyseal dysplasia) have no supported mechanistic link.
 

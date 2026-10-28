@@ -7,14 +7,15 @@ description: "Darifenacin Hydrobromide drug repurposing predictions from TxGNN. 
 parent: AI Predictions (L5)
 nav_order: 156
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Darifenacin Hydrobromide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | overactive bladder (disease) | 99.79% | DL |
-| 2 | polycystic kidney disease 3 with or without polycystic liver disease | 96.93% | DL |
-| 3 | thoracic malformation | 96.13% | DL |
-| 4 | renal-hepatic-pancreatic dysplasia | 96.06% | DL |
-| 5 | Joubert syndrome with renal defect | 95.84% | DL |
-| 6 | low compliance bladder | 95.69% | DL |
-| 7 | adult familial nephronophthisis-spastic quadriparesia syndrome | 95.52% | DL |
-| 8 | karyomegalic interstitial nephritis | 95.28% | DL |
-| 9 | polycystic kidney disease | 92.37% | DL |
-| 10 | primary hereditary glaucoma | 86.73% | DL |
-| 11 | respiratory failure | 86.39% | DL |
-| 12 | tic disorder | 84.26% | DL |
-| 13 | communication disorder | 83.58% | DL |
-| 14 | hypotrichosis simplex of the scalp | 83.08% | DL |
-| 15 | developmental disorder of mental health | 83.01% | DL |
-| 16 | fetal nicotine spectrum disorder | 82.32% | DL |
-| 17 | stereotypic movement disorder | 82.32% | DL |
-| 18 | blepharospasm | 82.24% | DL |
-| 19 | parkinsonian disorder | 82.13% | DL |
-| 20 | bladder neck obstruction | 81.89% | DL |
 
 *Showing top 20 of 50 predictions.*
 

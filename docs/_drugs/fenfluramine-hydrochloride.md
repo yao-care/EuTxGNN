@@ -7,14 +7,15 @@ description: "fenfluramine hydrochloride drug repurposing predictions from TxGNN
 parent: AI Predictions (L5)
 nav_order: 239
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Fenfluramine Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | obesity disorder | 99.96% | DL |
-| 2 | proximal 16p11.2 microdeletion syndrome | 99.93% | DL |
-| 3 | hypervitaminosis | 99.92% | DL |
-| 4 | obsolete hypertelorism (disease) | 99.86% | DL |
-| 5 | frontorhiny | 99.78% | DL |
-| 6 | monogenic obesity | 99.67% | DL |
-| 7 | pentosuria | 88.16% | DL |
-| 8 | lethal polymalformative syndrome, Boissel type | 82.78% | DL |
-| 9 | myopia X-linked | 81.42% | DL |
-| 10 | retinal dystrophy with or without extraocular anomalies | 79.85% | DL |
-| 11 | fatty liver disease | 78.26% | DL |
-| 12 | polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 77.72% | DL |
-| 13 | major affective disorder | 76.94% | DL |
-| 14 | myopia 26, X-linked, female-limited | 75.30% | DL |
-| 15 | schizophrenia | 74.62% | DL |
-| 16 | Charcot-Marie-Tooth disease, demyelinating, type 1G | 72.87% | DL |
-| 17 | mitral valve prolapse, myxomatous | 70.49% | DL |
-| 18 | hypercarotenemia and vitamin A deficiency, autosomal recessive | 68.91% | DL |
-| 19 | hydranencephaly (disease) | 68.86% | DL |
-| 20 | syndromic myopia | 68.55% | DL |
 
 *Showing top 20 of 50 predictions.*
 

@@ -4,17 +4,17 @@ title: Palbociclib
 parent: AI Predictions (L5)
 nav_order: 459
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Palbociclib: predicted new indication Hyperthyroidism (evidence level L5). Approved use: HR-positive…"
 monitor_inn: "Palbociclib"
-predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brachydactyly-syndactyly syndrome", "myeloid leukemia", "multiple endocrine neoplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "hyperthyroxinemia", "Prinzmetal angina"]
+predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
+description: "Palbociclib: predicted new indication Hyperthyroidism (evidence level L5). Approved use: Ibrance is indicated for the treatment of hormone receptor (HR) posit…"
 ---
 
 # Palbociclib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Palbociclib: From HR+/HER2- Breast Cancer to Hyperthyroidism
+## Palbociclib: Hyperthyroidism
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Palbociclib is a CDK4/6 inhibitor originally used for hormone receptor-positive, HER2-negative locally advanced or metastatic breast cancer.
-The TxGNN model's top-ranked prediction is **hyperthyroidism**, but there are **0 clinical trials** and **0 publications** supporting it, so the prediction rests on the graph model alone.
 Other predictions have more support, notably **myeloid leukemia** (4 registered trials, 19 publications) and **rheumatoid arthritis** (4 publications, no trials). They are discussed below as better-supported alternatives.
 
 ---
@@ -48,12 +47,12 @@ Other predictions have more support, notably **myeloid leukemia** (4 registered 
 
 | Item | Content |
 |------|------|
-| Original Indication | HR-positive, HER2-negative locally advanced or metastatic breast cancer (with an aromatase inhibitor, or with fulvestrant after prior endocrine therapy) |
+| Original Indication | Ibrance is indicated for the treatment of hormone receptor (HR) positive, human epidermal growth factor receptor 2 (HER2) negative locally advanced or metastatic breast cancer: in combination with an aromatase inhibitor; in combination with fulvestrant in women who have received prior endocrine ther |
 | Predicted New Indication | Hyperthyroidism |
-| TxGNN Prediction Score | 99.44% |
+| TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization in the data compiled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,10 +61,10 @@ Other predictions have more support, notably **myeloid leukemia** (4 registered 
 
 Currently, detailed mechanism of action data is not available. Based on known information, palbociclib belongs to the CDK4/6 inhibitor class. Its efficacy in HR+/HER2- breast cancer is established, and it works by controlling cell-cycle progression.
 
-For hyperthyroidism, the data compiled for this report identified no plausible CDK4/6-dependent mechanism. The high score (0.994) is a graph-based prediction only, with no supporting trials or literature. The same is true of the other thyroid-related predictions (thyroid hormone resistance, hyperthyroxinemia), which are likely driven by shared neighbors in the knowledge graph.
+For hyperthyroidism, the data compiled for this report identified no plausible CDK4/6-dependent mechanism.
 
 Among the ten predictions, three are worth noting:
-- **Myeloid leukemia (Level L3, rank 6):** CDK6 is a dependency in AML, especially MLL- and NUP98-rearranged forms. Preclinical studies show synergy with venetoclax/azacitidine, menin inhibitors and LSD1 inhibitors. Four early-phase trials are registered, with no randomized data.
+- Preclinical studies show synergy with venetoclax/azacitidine, menin inhibitors and LSD1 inhibitors. Four early-phase trials are registered, with no randomized data.
 - **Rheumatoid arthritis (Level L4, rank 2):** CDK4/6 drives synovial fibroblast proliferation. Evidence consists of animal and in vitro studies plus one case report. It is hypothesis-generating only.
 - **Thrombotic disease (rank 3):** The literature shows CDK4/6 inhibitors are associated with an *increased* thromboembolism risk. The prediction conflicts with the safety evidence and should not be pursued.
 
@@ -75,7 +74,6 @@ Among the ten predictions, three are worth noting:
 
 Currently no related clinical trials registered for hyperthyroidism.
 
-For reference, the best-supported alternative prediction (myeloid leukemia) has these registered trials:
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|

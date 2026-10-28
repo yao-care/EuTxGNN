@@ -4,17 +4,17 @@ title: Raloxifene
 parent: AI Predictions (L5)
 nav_order: 504
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Raloxifene: predicted new indication Duodenal ulcer (evidence level L5). Approved use: Treatment and prevention of osteoporosis in postmenopausal women"
+description: "Raloxifene: predicted new indication duodenal ulcer (disease) (evidence level L5). Approved use: Treatment and prevention of osteoporosis in postmenopausal women"
 monitor_inn: "Raloxifene"
-predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux", "Worth syndrome", "homozygous familial hypercholesterolemia", "autosomal dominant neovascular inflammatory vitreoretinopathy", "brain stem infarction", "obsolete familial combined hyperlipidemia"]
+predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
 ---
 
 # Raloxifene
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Raloxifene: From Postmenopausal Osteoporosis to Duodenal Ulcer
+## Raloxifene: From Postmenopausal Osteoporosis to duodenal ulcer (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **duodenal ulcer**, but this is
 |------|------|
 | Original Indication | Treatment and prevention of osteoporosis in postmenopausal women |
 | Predicted New Indication | Duodenal ulcer |
-| TxGNN Prediction Score | 99.72% |
+| TxGNN Prediction Score | 0.9972 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 3 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, raloxifene is a selective estrogen receptor modulator that acts on bone and breast tissue. Its efficacy in postmenopausal osteoporosis is established, with a significant reduction in vertebral fractures (but not hip fractures).
 
-No clear mechanistic link to duodenal ulcer can be established from the data compiled for this report. Duodenal ulcer is driven mainly by acid secretion, *H. pylori* infection and weakened mucosal defence, and none of these is a known target of estrogen receptor modulation. The very high TxGNN score (0.997) reflects proximity in the knowledge graph, not demonstrated pharmacology. Several other predicted conditions with similar scores (duodenal obstruction, duodenogastric reflux) appear to share this graph-proximity pattern, which suggests an artifact.
+No clear mechanistic link to duodenal ulcer can be established from the data compiled for this report. Duodenal ulcer is driven mainly by acid secretion, *H. pylori* infection and weakened mucosal defence, and none of these is a known target of estrogen receptor modulation. The very high TxGNN score (0.9972) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Several other predicted conditions with similar scores (duodenal obstruction, 0.9964; duodenogastric reflux, 0.9959) appear to share this pattern, which suggests an artifact.
 
 ## Clinical Trial Evidence
 
@@ -69,7 +69,7 @@ Currently no related literature available for duodenal ulcer.
 
 ## EU Market Information
 
-All three EU authorizations are cancelled.
+All three authorizations are valid, and the drug is marketed.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -90,7 +90,7 @@ Please refer to the SmPC for the full warnings and contraindications, as label-l
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a graph-based model score, with no clinical trials, no literature and no plausible mechanistic link to duodenal ulcer. The product is also no longer authorized in the EU. The other nine predicted indications are likewise L5 and are at best loosely linked, for example lipid disorders. The closest, pregnancy-associated osteoporosis, applies to a population in which raloxifene is not suitable.
+The prediction is supported only by a TxGNN model (deep learning) score, with no clinical trials, no literature and no plausible mechanistic link to duodenal ulcer. The product is marketed, with 3 valid licences out of 3. The other nine predicted indications are likewise L5 and are at best loosely linked, for example lipid disorders. The closest, pregnancy-associated osteoporosis, applies to a population in which raloxifene is not suitable.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for raloxifene (currently missing) and a defined biological rationale for duodenal ulcer

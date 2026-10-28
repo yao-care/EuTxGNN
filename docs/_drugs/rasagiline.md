@@ -4,17 +4,17 @@ title: Rasagiline
 parent: AI Predictions (L5)
 nav_order: 509
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Rasagiline: predicted new indication PLA2G6-associated neurodegeneration (evidence level L5). Approved use: Idiopathic Parkinson's disease (PD)…"
 monitor_inn: "Rasagiline"
-predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "retinal dystrophy with or without extraocular anomalies"]
+predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"]
+description: "Rasagiline: predicted new indication PLA2G6-associated neurodegeneration (evidence level L5). Approved use: Rasagiline Viatris is indicated for the treatment of idiopathic Parki…"
 ---
 
 # Rasagiline
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Rasagiline: From Parkinson's Disease to PLA2G6-Associated Neurodegeneration
+## Rasagiline: PLA2G6-associated neurodegeneration
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be effective for **PLA2G6-associated neurodegene
 
 | Item | Content |
 |------|------|
-| Original Indication | Idiopathic Parkinson's disease (PD), as monotherapy (without levodopa) or as adjunct therapy (with levodopa) in patients with end-of-dose fluctuations |
+| Original Indication | Rasagiline Viatris is indicated for the treatment of idiopathic Parkinson’s disease (PD) as monotherapy (without levodopa) or as adjunct therapy (with levodopa) in patients with end of dose fluctuations.; Rasagiline ratiopharm is indicated for the treatment of idiopathic Parkinson’s disease (PD) as  |
 | Predicted New Indication | PLA2G6-associated neurodegeneration |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 3 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,11 +59,9 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 PLA2G6-associated neurodegeneration includes infantile neuroaxonal dystrophy and PLA2G6-related dystonia-parkinsonism. These forms involve dopaminergic and alpha-synuclein pathology that overlaps with Parkinson's disease. That overlap is a plausible but unverified link to rasagiline's approved use. It is an inference, not something supported by retrieved evidence.
 
-The score is very high, but it should be read as a signal from knowledge-graph proximity, not as proof of benefit. No studies on this condition were found.
+The score is very high, but it comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No studies on this condition were found.
 
 Among the other predictions, two have somewhat more supporting material, though both remain at the research-question stage:
-- **Lewy body dementia (rank 8, score 98.83%)**: Evidence is indirect only (reviews, preclinical work, and a small Phase II rasagiline study in Alzheimer's disease). Reviews of rasagiline's neuroprotective effects in synucleinopathies are relevant (PMID 36232361, PMID 29769405).
-- **Retinal dystrophy (rank 10, score 98.81%)**: One mouse study of retinitis pigmentosa (PMID 29372592).
 
 ## Clinical Trial Evidence
 
@@ -91,7 +89,7 @@ For context, the closest related literature (found for other predicted indicatio
 | EMEA/H/C/003957 | Rasagiline ratiopharm | Not specified | Idiopathic Parkinson's disease as monotherapy or adjunct therapy with levodopa in patients with end of dose fluctuations |
 | EMEA/H/C/000574 | Azilect | Not specified | Idiopathic Parkinson's disease as monotherapy or adjunct therapy with levodopa in patients with end-of-dose fluctuations |
 
-All three authorizations are listed as cancelled.
+All three authorizations are listed as valid.
 
 ## Safety Considerations
 
@@ -107,14 +105,13 @@ Please refer to the SmPC for the official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for PLA2G6-associated neurodegeneration rests on model score alone (L5), with no trials or publications, and the mechanistic link is only inferred. In addition, all EU authorizations for rasagiline are currently cancelled.
+The prediction for PLA2G6-associated neurodegeneration rests on model score alone (L5), with no trials or publications, and the mechanistic link is only inferred. In addition, rasagiline is marketed, with 3 valid licences out of 3.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for rasagiline, which is currently missing
 - Official warnings and contraindications from the product information (currently missing), needed before any safety screening
 - A targeted literature search and preclinical evidence for rasagiline in PLA2G6-associated neurodegeneration (for example, models of dystonia-parkinsonism)
-- Clarification of the current EU regulatory and availability status, given that all authorizations are cancelled
-- Consideration of Lewy body dementia as a better-supported research question, since it has indirect evidence (L4)
+- Clarification of the current EU regulatory and availability status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

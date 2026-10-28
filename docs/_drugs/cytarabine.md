@@ -4,17 +4,17 @@ title: Cytarabine
 parent: Medium Evidence (L3-L4)
 nav_order: 163
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Cytarabine: predicted new indication Small cell lung carcinoma (evidence level L4). Approved use: Newly diagnosed therapy-related acute myeloid leukaemia (t-AML) or AM…"
 monitor_inn: "Cytarabine"
-predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation"]
+predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
 ---
 
 # Cytarabine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **small cell lung carcinoma**, 
 |------|------|
 | Original Indication | Newly diagnosed therapy-related acute myeloid leukaemia (t-AML) or AML with myelodysplasia-related changes (AML-MRC) in adults |
 | Predicted New Indication | Small cell lung carcinoma |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (the single authorisation has been cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -84,7 +84,7 @@ Currently no related clinical trials registered.
 |---------|------|------|-----------|
 | EMEA/H/C/004282 | Vyxeos liposomal (previously Vyxeos) | Not specified | Vyxeos liposomal is indicated for the treatment of adults with newly diagnosed, therapy-related acute myeloid leukaemia (t-AML) or AML with myelodysplasia-related... |
 
-This authorisation is cancelled; no valid authorisations remain.
+This drug is marketed in this country; 1 of 1 licence is valid.
 
 ## Cytotoxicity
 

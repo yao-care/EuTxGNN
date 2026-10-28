@@ -6,7 +6,7 @@ nav_order: 610
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Threonine: predicted new indication Gastroparesis (evidence level L5). Approved use: Treatment of maple syrup urine disease (MSUD) presenting with an acut…"
+description: "Threonine: predicted new indication gastroparesis (evidence level L5). Approved use: Treatment of maple syrup urine disease (MSUD) presenting with an acut…"
 monitor_inn: "threonine"
 predicted_indications: ["gastroparesis (disease)"]
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Threonine: From Maple Syrup Urine Disease (Acute Decompensation) to Gastroparesis
+## Threonine: Predicted New Indication Gastroparesis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be useful for **gastroparesis**, but **no clinic
 |------|------|
 | Original Indication | Treatment of maple syrup urine disease (MSUD) presenting with an acute decompensation episode in patients from birth who are not eligible for an oral or enteral BCAA-free formulation |
 | Predicted New Indication | Gastroparesis |
-| TxGNN Prediction Score | 99.32% |
+| TxGNN Prediction Score | 0.9932 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 A possible but unverified link is that threonine is a precursor of glycine and serine and a major component of intestinal mucins. In theory this could relate to gut mucosal integrity or to neurotransmitter pathways involved in gastric motility. Nothing in the data compiled for this report confirms a role in gastroparesis, so this link is speculative.
 
-The original and predicted indications are mechanistically distant: one is an inborn error of branched-chain amino acid metabolism, the other a disorder of delayed gastric emptying. The high TxGNN score (99.32%) is a knowledge-graph computation and should not be read as clinical evidence.
+The original and predicted indications are mechanistically distant: one is an inborn error of branched-chain amino acid metabolism, the other a disorder of delayed gastric emptying. The high TxGNN score (0.9932) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should not be read as clinical evidence.
 
 ## Clinical Trial Evidence
 

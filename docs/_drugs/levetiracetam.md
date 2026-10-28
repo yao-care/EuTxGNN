@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Levetiracetam
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 364
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Levetiracetam: predicted new indication Visual epilepsy (evidence level L4). Approved use: Monotherapy for partial-onset seizures in newly diagnosed epilepsy (f…"
+evidence_level: L5
+indication_count: 1
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
+last_modified_at: 2026-10-27
+description: "Levetiracetam: predicted new indication beta-ketothiolase deficiency (evidence level L5). Approved use: Keppra is indicated as monotherapy in the treatment of partial-onset…"
 ---
 
 # Levetiracetam
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,102 +33,71 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Levetiracetam: From Epilepsy (Partial-Onset Seizures) to Visual Epilepsy
+## Levetiracetam: SV2A modulator (antiepileptic) → beta-ketothiolase deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Levetiracetam is an antiseizure medication originally authorised in the EU for partial-onset, myoclonic and generalised tonic-clonic seizures.
-The TxGNN model predicts it may be effective for **visual epilepsy** (seizures triggered by visual stimuli) with a very high score, but there are **0 registered clinical trials** and **20 retrieved publications**, none of which studies this condition specifically.
-
----
+Levetiracetam is an antiepileptic drug that works by modulating synaptic vesicle protein SV2A.
+The TxGNN model predicts it may be relevant to **beta-ketothiolase deficiency**,
+but **no clinical trials and no publications** currently support this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Monotherapy for partial-onset seizures in newly diagnosed epilepsy (from age 16), and adjunctive therapy for partial-onset, myoclonic (juvenile myoclonic epilepsy) and primary generalised tonic-clonic seizures |
-| Predicted New Indication | Visual epilepsy |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 9 (all cancelled) |
+| Original Indication | Keppra is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy. Keppra is indicated as adjunctive therapy:  in the treatment of partial-onset seizures with or without secondary gene |
+| Predicted New Indication | beta-ketothiolase deficiency |
+| TxGNN Prediction Score | 0.9990 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Authorizations | 9 (valid: 9) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data were not available in the data compiled for this report. Published literature describes levetiracetam as binding synaptic vesicle protein 2A (SV2A), which reduces neurotransmitter release. It is an established treatment for focal and generalised epilepsy, including myoclonic seizures.
+Detailed mechanism of action data is not available in the data compiled for this report. Levetiracetam is generally known as an antiepileptic that acts on the synaptic vesicle protein SV2A.
 
-Visual epilepsy, meaning photosensitive or visually triggered reflex seizures, is a form of epilepsy. A drug that dampens excessive neuronal release could plausibly help. Even so, no retrieved record studies levetiracetam in visual reflex epilepsy.
+Beta-ketothiolase deficiency is an inherited disorder of ketone body and isoleucine metabolism. Its main neurological risk is ketoacidotic crisis, not primary epilepsy. No mechanistic link between SV2A modulation and this metabolic defect is evident.
 
-The literature is general seizure work: neonatal seizures, seizure prophylaxis in neurocritical care, post-stroke seizures, veterinary reports and adverse-effect case reports. The very high TxGNN score most likely reflects the closeness of this condition to the approved epilepsy indications in the knowledge graph, not specific evidence.
-
----
+The prediction is not backed by any trial or publication and is most likely an artifact of proximity in the model's network of relationships. It should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-None of these publications addresses visual epilepsy directly. They support levetiracetam's general antiseizure activity only.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [35963261](https://pubmed.ncbi.nlm.nih.gov/35963261/) | 2022 | Phase 3 RCT | Lancet Neurol | PEACH: prophylactic levetiracetam for early seizures after intracerebral haemorrhage |
-| [32385134](https://pubmed.ncbi.nlm.nih.gov/32385134/) | 2020 | RCT | Pediatrics | Levetiracetam vs phenobarbital for neonatal seizures |
-| [38678766](https://pubmed.ncbi.nlm.nih.gov/38678766/) | 2024 | RCT (open-label) | Seizure | Phenytoin vs levetiracetam for acute symptomatic seizures in children with acute encephalitis syndrome |
-| [34286461](https://pubmed.ncbi.nlm.nih.gov/34286461/) | 2022 | Meta-analysis | Neurocrit Care | Levetiracetam for seizure prophylaxis in neurocritical care |
-| [39808752](https://pubmed.ncbi.nlm.nih.gov/39808752/) | 2025 | Network meta-analysis | Neurology | Antiseizure medications in post-stroke seizures |
-| [40450767](https://pubmed.ncbi.nlm.nih.gov/40450767/) | 2025 | Meta-analysis | Epilepsy Behav | Levetiracetam for myoclonic seizures in idiopathic generalised epilepsy |
-| [21936590](https://pubmed.ncbi.nlm.nih.gov/21936590/) | 2011 | Review | CNS Drugs | Overview of levetiracetam in epilepsy |
-| [12915343](https://pubmed.ncbi.nlm.nih.gov/12915343/) | 2003 | Review | Epileptic Disord | Safety profile of levetiracetam |
-| [39899098](https://pubmed.ncbi.nlm.nih.gov/39899098/) | 2025 | Review | Continuum | First seizures, repetitive seizures and status epilepticus |
-| [37037506](https://pubmed.ncbi.nlm.nih.gov/37037506/) | 2023 | Review | Brain Nerve | Clinical guidelines for medical treatment of epilepsy |
-
----
+Currently no related literature available.
 
 ## EU Market Information
 
-All nine authorisations are cancelled, and no valid EU authorisation currently exists. The five listed here are the first five of nine.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/000277 | Keppra | — | Partial-onset seizures (monotherapy from age 16 and adjunctive from 1 month), myoclonic seizures in JME, primary generalised tonic-clonic seizures... |
-| EMEA/H/C/002051 | Levetiracetam Sun | — | Partial-onset seizures (monotherapy from age 16 and adjunctive from 4 years), myoclonic seizures in JME, primary generalised tonic-clonic seizures... |
-| EMEA/H/C/002355 | Levetiracetam Actavis | — | Partial-onset seizures (monotherapy from age 16 and adjunctive from 1 month), myoclonic seizures in JME, primary generalised tonic-clonic seizures... |
-| EMEA/H/C/002024 | Matever | — | Partial-onset seizures (monotherapy from age 16 and adjunctive from 1 month), myoclonic seizures in JME, primary generalised tonic-clonic seizures... |
-| EMEA/H/C/002244 | Levetiracetam ratiopharm | — | Partial-onset seizures (monotherapy from age 16 and adjunctive from 1 month), myoclonic seizures in JME, primary generalised tonic-clonic seizures... |
-
----
+| EMEA/H/C/000277 | Keppra | Not recorded | Keppra is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary generalisation in pa... |
+| EMEA/H/C/002051 | Levetiracetam Sun | Not recorded | Levetiracetam Sun is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary general... |
+| EMEA/H/C/002355 | Levetiracetam Actavis | Not recorded | Levetiracetam Actavis is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary gen... |
+| EMEA/H/C/002024 | Matever | Not recorded | Matever is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary generalisation in... |
+| EMEA/H/C/002244 | Levetiracetam ratiopharm | Not recorded | Levetiracetam ratiopharm is indicated as monotherapy in the treatment of partial onset seizures with or without secondary ... |
 
 ## Safety Considerations
 
-- **Contraindication signals from the knowledge graph** (drug-disease edges, not label text): anxiety disorder, neurotic disorder, dysthymic disorder, psychotic disorder, schizophreniform disorder, schizoaffective disorder, mental disorder, depersonalization disorder, kidney disease, liver disease, gallbladder disease, pyoureter, neutropenia, agranulocytosis, leukopenia and pancytopenia. These should be verified against the SmPC.
-- **Drug interactions**: 100 interaction records were found. The ones graded Moderate are morphine (including liposomal), opium, dronabinol, nabilone, metoclopramide and sibutramine, which suggests additive CNS effects are worth reviewing. Many other records have an unclassified severity.
-- For warnings, contraindications and dosing, please refer to the SmPC.
+- **Drug Interactions**: 100 interactions were found in the interaction screen. The ones listed at moderate level include morphine (including liposomal), dronabinol, metoclopramide, nabilone, opium and sibutramine. Several others (e.g. metformin, omeprazole, pantoprazole, vancomycin) are of unknown significance.
 
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- Visual epilepsy has no registered trials and no indication-specific literature. The evidence amounts to a model prediction plus general antiseizure plausibility (L4).
-- None of the nine EU authorisations is currently valid, which adds a regulatory obstacle.
+The prediction has a high model score (0.9990) but no supporting trials or literature, and no plausible mechanistic link to the drug's action. Evidence level is L5.
 
 **To proceed, the following is needed:**
-- Indication-specific evidence, such as photosensitivity (intermittent photic stimulation) studies or case series in visually triggered seizures.
-- Mechanism-of-action data and the SmPC safety sections, which were unavailable here.
-- Clarification of current EU marketing status.
-- Review of the knowledge-graph contraindication signals, especially psychiatric, renal, hepatic and haematological conditions.
-
-**Note on other predictions:** Among the other predicted indications, **status epilepticus** (rank 9) has far stronger support, at evidence level L1. It is backed by two completed Phase 3 trials (NCT01960075 ESETT, n=478; NCT01150331, n=203) and several Phase 2 and 4 studies. It would merit a separate "Proceed with Guardrails" evaluation. The main caveat is that levetiracetam was similar to its comparators in ESETT, not superior.
+- Any mechanistic or preclinical rationale linking SV2A modulation to ketone/isoleucine metabolism
+- Detailed mechanism of action data
+- Warnings and contraindications from the SmPC
+- A review of whether the disease's low prevalence and metabolic (not epileptic) nature justify any study
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

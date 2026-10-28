@@ -4,17 +4,17 @@ title: Raltegravir
 parent: Medium Evidence (L3-L4)
 nav_order: 505
 evidence_level: L4
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Raltegravir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: Treatment of HIV-1 infection…"
 monitor_inn: "Raltegravir"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "fibroma of prostate", "breast fibrocystic disease", "benign reproductive system neoplasm", "Brenner tumor"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Raltegravir
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 |------|------|
 | Original Indication | Treatment of HIV-1 infection, in combination with other antiretroviral medicinal products |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -105,7 +105,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The only support for the SIV prediction is preclinical macaque and in vitro work, with no clinical trials. SIV is an animal-model extension of the existing HIV indication, not a human therapeutic need. The EU authorization is also cancelled, so no currently valid license exists.
+The only support for the simian immunodeficiency virus infection prediction is preclinical macaque and in vitro work, with no clinical trials. SIV is an animal-model extension of the existing HIV indication, not a human therapeutic need. The drug is marketed in this country, with 1 valid licence out of 1.
 
 **To proceed, the following is needed:**
 - A defined purpose for the prediction (for example, use as a nonhuman primate research tool versus a human indication)

@@ -4,7 +4,7 @@ title: Alglucosidase Alfa
 parent: AI Predictions (L5)
 nav_order: 36
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Alglucosidase Alfa: predicted new indication Adult polyglucosan body disease (evidence level L5). Approved use: Long-term enzyme-replacement therapy (ERT) in patients with a confirm…"
 monitor_inn: "Alglucosidase alfa"
@@ -14,7 +14,7 @@ predicted_indications: ["adult polyglucosan body disease", "congenital entropion
 # Alglucosidase Alfa
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Long-term enzyme-replacement therapy (ERT) in patients with a confirmed diagnosis of Pompe disease (acid alpha-glucosidase deficiency). Evidence of efficacy is limited in late-onset Pompe disease. |
 | Predicted New Indication | Adult polyglucosan body disease |
-| TxGNN Prediction Score | 99.47% |
+| TxGNN Prediction Score | 0.9947 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

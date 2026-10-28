@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **primary hereditary glaucoma**
 |------|------|
 | Original Indication | Delay of imminent pre-term birth in pregnant adult women (regular uterine contractions, cervical dilation 1–3 cm, gestational age 24–33 completed weeks, normal foetal heart rate) |
 | Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Detailed mechanism of action data is not currently available in the data compile
 
 The original indication (preterm labour) and the predicted indication (hereditary glaucoma) are unrelated clinically. A link to intraocular pressure regulation or trabecular meshwork function is speculative and not supported by the data compiled here. The very high score (0.9992) reflects a model-derived association, not demonstrated biology, and should be treated as a hypothesis only.
 
-Other high-ranking predictions for this drug include open-angle glaucoma and several hair disorders (alopecia, hypotrichosis). They show similar patterns, which suggests the scores may partly reflect shared neighbourhoods in the knowledge graph. The only prediction with any literature is vascular disease (rank 6). That literature is mostly preclinical work on oxytocin-mediated cardioprotection in rats and is not specific to atosiban as a therapy.
+Other high-ranking predictions for this drug include open-angle glaucoma and several hair disorders (alopecia, hypotrichosis). They show similar patterns. The scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The only prediction with any literature is vascular disease (rank 6). That literature is mostly preclinical work on oxytocin-mediated cardioprotection in rats and is not specific to atosiban as a therapy.
 
 ## Clinical Trial Evidence
 
@@ -95,7 +95,7 @@ The prediction is supported only by the model score (L5), with no clinical trial
 - Detailed mechanism of action data, and preclinical evidence of oxytocin/vasopressin receptor involvement in intraocular pressure or trabecular meshwork function
 - SmPC warnings and contraindications for a safety screen
 - A feasible route of administration for the eye, such as a local formulation
-- Review of whether the same graph-derived artifact is driving the glaucoma and hair-disorder predictions
+- Review of whether the same similarity learned by the TxGNN model (deep learning) between related diseases is driving the glaucoma and hair-disorder predictions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

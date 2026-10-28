@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Cabozantinib
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 119
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Cabozantinib: predicted new indication Liposarcoma (evidence level L3). Approved use: Progressive…"
 monitor_inn: "Cabozantinib"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophi
 # Cabozantinib
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Evidence for this top-ranked prediction is limited, and the data compiled for th
 |------|------|
 | Original Indication | Progressive, unresectable locally advanced or metastatic medullary thyroid carcinoma |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.83% |
-| Evidence Level | L3 |
-| EU Market Status | Cancelled only (the single Cometriq authorisation is cancelled) |
-| Number of Authorizations | 1 |
+| TxGNN Prediction Score | 0.9983 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold (treat as a research question) |
 
 ---

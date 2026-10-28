@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Mometasone
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 415
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Mometasone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L4). Approved use: Maintenance treatment of asthma in adults and adolescents 12 years of…"
 monitor_inn: "Mometasone"
-predicted_indications: ["primary cutaneous T-cell lymphoma", "Crohn's colitis", "myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "cystic teratoma", "spinal cord dermoid cyst", "aregenerative anemia", "disease of orbital part of eye adnexa"]
+predicted_indications: ["primary cutaneous T-cell lymphoma"]
 ---
 
 # Mometasone
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but there are currently **no registered clinical trials** and only **2 case repo
 |------|------|
 | Original Indication | Maintenance treatment of asthma in adults and adolescents 12 years of age and older not adequately controlled with inhaled corticosteroids and inhaled short-acting beta2-agonists |
 | Predicted New Indication | Primary cutaneous T-cell lymphoma |
-| TxGNN Prediction Score | 99.36% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 4 (all cancelled) |
+| TxGNN Prediction Score | 0.9936 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -75,7 +75,7 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-All four authorizations below are cancelled.
+All four authorizations below are valid.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -95,14 +95,14 @@ Please refer to the SmPC for other safety information, including warnings and co
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but there are no registered clinical trials and the only literature is two case reports, neither showing a benefit of mometasone in cutaneous T-cell lymphoma. All EU authorizations for the drug are cancelled, and the approved products are inhaled asthma combinations, not skin-directed formulations. The evidence is at the L4 level and supports further research rather than development.
+The prediction score is high, but there are no registered clinical trials and the only literature is two case reports, neither showing a benefit of mometasone in cutaneous T-cell lymphoma. The drug is marketed in this country, with all 4 of 4 licences valid, and the approved products are inhaled asthma combinations, not skin-directed formulations. The evidence is at the L4 level and supports further research rather than development.
 
 **To proceed, the following is needed:**
 - Mechanism of action data to support the mechanistic-link analysis
 - Warnings and contraindications from the SmPC, which are required for safety screening
 - Literature or trial data on topical mometasone in early-stage mycosis fungoides or other cutaneous T-cell lymphomas, compared with other topical corticosteroids
 - Assessment of route and formulation compatibility, since the authorized products are inhaled and a topical formulation would be needed
-- Clarification of the regulatory status given that all authorizations are cancelled
+- Clarification of the regulatory status given that the drug is marketed with 4 of 4 licences valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

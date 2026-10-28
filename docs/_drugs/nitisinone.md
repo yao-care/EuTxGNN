@@ -6,9 +6,9 @@ nav_order: 432
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Nitisinone: predicted new indication Renal tubular acidosis (evidence level L5). Approved use: Hereditary tyrosinemia type 1 (HT-1)…"
 monitor_inn: "Nitisinone"
 predicted_indications: ["renal tubular acidosis", "galactosemia", "serpinopathy with toxic serpin polymerization", "C1 inhibitor deficiency", "glycogen storage disease", "adult polyglucosan body disease", "glycogen storage disease due to glucose-6-phosphatase deficiency", "Griscelli syndrome", "granulomatous disease, chronic, X-linked", "ermine phenotype"]
+description: "Nitisinone: predicted new indication Renal tubular acidosis (evidence level L5). Approved use: Hereditary tyrosinemia type 1 (HT 1)Orfadin is indicated for the trea…"
 ---
 
 # Nitisinone
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Nitisinone: From Hereditary Tyrosinemia Type 1 to Renal Tubular Acidosis
+## Nitisinone: Renal tubular acidosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **renal tubular acidosis**, but
 
 | Item | Content |
 |------|------|
-| Original Indication | Hereditary tyrosinemia type 1 (HT-1), in combination with dietary restriction of tyrosine and phenylalanine; alkaptonuria (AKU) in adults |
+| Original Indication | Hereditary tyrosinemia type 1 (HT 1)Orfadin is indicated for the treatment of adult and paediatric (in any age range) patients with confirmed diagnosis of hereditary tyrosinemia type 1 (HT 1) in combination with dietary restriction of tyrosine and phenylalanine. Alkaptonuria (AKU)Orfadin is indicate |
 | Predicted New Indication | Renal tubular acidosis |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -100,14 +100,14 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no trials or literature, and the mechanistic link is only indirect, through the kidney tubule problems seen in HT-1. There are also no valid EU authorizations, and the label safety data could not be retrieved.
+The prediction has a high model score but no trials or literature, and the mechanistic link is only indirect, through the kidney tubule problems seen in HT-1.
 
 **To proceed, the following is needed:**
 - Official product information (warnings and contraindications) from the EMA, which is a blocking gap for safety screening
 - Detailed mechanism of action data (for example from DrugBank)
 - A literature search specific to renal tubular acidosis or Fanconi-type tubulopathy, to see whether any supportive data exist
 - Clarification of why both EU authorizations are cancelled (for example commercial withdrawal versus a safety reason)
-- Review of the knowledge-graph flags for kidney disease, hypophosphatemia and blood cell counts (thrombocytopenia, leukopenia) before any study in a kidney population
+- Review of the safety flags for kidney disease, hypophosphatemia and blood cell counts (thrombocytopenia, leukopenia) before any study in a kidney population
 
 **Other predictions in this analysis:** The remaining top-ranked predictions are galactosemia, serpinopathy with toxic serpin polymerization, C1 inhibitor deficiency, glycogen storage disease, adult polyglucosan body disease, glycogen storage disease due to glucose-6-phosphatase deficiency, Griscelli syndrome, X-linked chronic granulomatous disease and ermine phenotype. All were judged Hold. They have no trials, and the only supporting literature is general reviews of pediatric liver disease, with no mechanistic rationale linking HPPD inhibition to these conditions.
 ## Disclaimer

@@ -4,17 +4,17 @@ title: Caspofungin
 parent: AI Predictions (L5)
 nav_order: 133
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Caspofungin: predicted new indication Gastrin secretion abnormality (evidence level L5). Approved use: Invasive candidiasis"
 monitor_inn: "Caspofungin"
-predicted_indications: ["gastrin secretion abnormality", "punctate epithelial keratoconjunctivitis", "abnormality of glucagon secretion", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "exposure keratitis", "congenital candidiasis", "candida glabrata", "neonatal candidiasis"]
+predicted_indications: ["gastrin secretion abnormality"]
 ---
 
 # Caspofungin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **gastrin secretion abnormality
 |------|------|
 | Original Indication | Invasive candidiasis; invasive aspergillosis refractory to or intolerant of other antifungals; empirical therapy for presumed fungal infections in febrile, neutropaenic patients (adults and children) |
 | Predicted New Indication | Gastrin secretion abnormality |
-| TxGNN Prediction Score | 99.44% |
+| TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 (model prediction only) |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Caspofungin belongs to the echinocandin class, which inhibits fungal beta-(1,3)-D-glucan synthase, an enzyme needed to build the fungal cell wall. Its efficacy in invasive fungal infections is established.
 
-This mechanism does not obviously extend to gastrin secretion abnormality. Mammalian cells have no beta-glucan synthase, so the drug has no known target in the pathways that regulate gastrin release. The high TxGNN score (99.44%) is a graph-based computational prediction. Nothing in the data compiled for this report shows a biological, clinical, or literature link between caspofungin and gastrin regulation, so the prediction is best treated as a hypothesis-generating signal only.
+This mechanism does not obviously extend to gastrin secretion abnormality. Mammalian cells have no beta-glucan synthase, so the drug has no known target in the pathways that regulate gastrin release. The high TxGNN score (0.9944) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Nothing in the data compiled for this report shows a biological, clinical, or literature link between caspofungin and gastrin regulation, so the prediction is best treated as a hypothesis-generating signal only.
 
 ## Safety Considerations
 

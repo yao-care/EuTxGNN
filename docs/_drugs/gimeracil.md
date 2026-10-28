@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Gimeracil
-parent: AI Predictions (L5)
+parent: High Evidence (L1-L2)
 nav_order: 283
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 7
 last_modified_at: 2026-10-15
 description: "Gimeracil: predicted new indication Colonic neoplasm (evidence level L5). Approved use: Advanced gastric cancer (with cisplatin)"
 monitor_inn: "Gimeracil"
@@ -14,7 +14,7 @@ predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "lipoma of 
 # Gimeracil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **colonic neoplasm**, with **6 
 |------|------|
 | Original Indication | Advanced gastric cancer (with cisplatin); metastatic colorectal cancer in patients who cannot continue another fluoropyrimidine because of hand-foot syndrome or cardiovascular toxicity |
 | Predicted New Indication | Colonic neoplasm |
-| TxGNN Prediction Score | 99.88% |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L1 (see note below) |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* Only one Phase 3 trial (NCT00660894) is completed. Another Phase 3 trial (NCT03448549) has an unknown status. Strictly applying the rule (≥2 completed Phase 3 RCTs), the evidence is closer to L2. The L1 label is retained from the compiled scoring, but it should be interpreted cautiously.

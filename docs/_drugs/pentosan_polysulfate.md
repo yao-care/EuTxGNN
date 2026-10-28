@@ -4,17 +4,17 @@ title: Pentosan Polysulfate
 parent: AI Predictions (L5)
 nav_order: 480
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Pentosan Polysulfate: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Bladder pain syndrome characterised by glomerulations or Hunner's les…"
 monitor_inn: "Pentosan polysulfate"
-predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "fetal and neonatal alloimmune thrombocytopenia", "autosomal dominant macrothrombocytopenia", "hemoglobinopathy", "autoimmune hemolytic anemia", "autoimmune thrombocytopenic", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia"]
+predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease"]
+description: "Pentosan Polysulfate: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Elmiron is indicated for the treatment of bladder pain syndrome chara…"
 ---
 
 # Pentosan Polysulfate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Pentosan polysulfate: From Bladder Pain Syndrome to Primary Release Disorder of Platelets
+## Pentosan Polysulfate: Primary release disorder of platelets
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,21 +45,21 @@ The TxGNN model predicts it may be effective for **primary release disorder of p
 
 | Item | Content |
 |------|------|
-| Original Indication | Bladder pain syndrome characterised by glomerulations or Hunner's lesions in adults with moderate to severe pain, urgency and frequency of micturition |
+| Original Indication | Elmiron is indicated for the treatment of bladder pain syndrome characterized by either glomerulations or Hunner’s lesions in adults with moderate to severe pain, urgency and frequency of micturition. |
 | Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, pentosan polysulfate is a heparin-like sulfated polysaccharide with weak anticoagulant and antiplatelet-related activity. Its efficacy in bladder pain syndrome was the basis of its EU authorisation.
 
-The prediction is not mechanistically convincing. Primary release disorder of platelets involves a defect in platelet granule release, and there is no evidence that pentosan polysulfate corrects it. Its anticoagulant effect could instead worsen bleeding in a platelet function disorder. The high TxGNN score (99.71%) therefore reflects a pattern in the knowledge graph, not supporting biological or clinical evidence.
+The prediction is not mechanistically convincing. Primary release disorder of platelets involves a defect in platelet granule release, and there is no evidence that pentosan polysulfate corrects it. Its anticoagulant effect could instead worsen bleeding in a platelet function disorder. The high score (0.9971) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological or clinical evidence.
 
-The other top-ranked predictions are also platelet or bleeding disorders (Glanzmann thrombasthenia, pseudo-von Willebrand disease, fetal and neonatal alloimmune thrombocytopenia, and others). All are also supported by model prediction only. The one candidate with indirect supporting literature is hemoglobinopathy (sickle cell disease), where P-selectin blockade has been discussed as a way to improve microcirculatory blood flow. That evidence is preliminary and sits outside the primary prediction evaluated here.
+The other top-ranked predictions are also platelet or bleeding disorders (Glanzmann thrombasthenia, pseudo-von Willebrand disease, fetal and neonatal alloimmune thrombocytopenia, and others). All are also supported by model prediction only. That evidence is preliminary and sits outside the primary prediction evaluated here.
 
 ## Clinical Trial Evidence
 
@@ -95,7 +95,6 @@ The prediction rests on model output alone (L5). There are no clinical trials an
 - Detailed mechanism of action data
 - Preclinical data showing any effect on platelet granule release
 - A bleeding-risk assessment for patients with platelet function disorders
-- Consideration of hemoglobinopathy (sickle cell disease) as a better-supported alternative, with confirmation of the study design behind the P-selectin findings
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

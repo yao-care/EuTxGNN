@@ -4,17 +4,17 @@ title: Anagrelide
 parent: Medium Evidence (L3-L4)
 nav_order: 48
 evidence_level: L4
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Anagrelide: predicted new indication Reactive thrombocytosis (evidence level L4). Approved use: Reduction of elevated platelet counts in at-risk essential thrombocyt…"
 monitor_inn: "Anagrelide"
-predicted_indications: ["reactive thrombocytosis", "inverse Klippel-Trenaunay syndrome", "dermatofibrosarcoma protuberans", "rheumatoid arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "osteoarthritis", "pseudoachondroplasia", "rheumatoid nodulosis", "juvenile chronic polyarthritis"]
+predicted_indications: ["reactive thrombocytosis", "inverse Klippel-Trenaunay syndrome"]
 ---
 
 # Anagrelide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Anagrelide was originally authorised in the EU to reduce elevated platelet count
 |------|------|
 | Original Indication | Reduction of elevated platelet counts in at-risk essential thrombocythaemia patients who are intolerant to, or inadequately controlled by, their current therapy |
 | Predicted New Indication | Reactive thrombocytosis |
-| TxGNN Prediction Score | 99.83% |
+| TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -81,8 +81,8 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/000480 | Xagrid (cancelled) | Not specified | Reduction of elevated platelet counts in at-risk essential thrombocythaemia patients who are intolerant to their current therapy or ... |
-| EMEA/H/C/004585 | Anagrelide Viatris, previously Anagrelide Mylan (cancelled) | Not specified | Reduction of elevated platelet counts in at risk essential thrombocythaemia patients who are intolerant to their current therapy or ... |
+| EMEA/H/C/000480 | Xagrid (valid) | Not specified | Reduction of elevated platelet counts in at-risk essential thrombocythaemia patients who are intolerant to their current therapy or ... |
+| EMEA/H/C/004585 | Anagrelide Viatris, previously Anagrelide Mylan (valid) | Not specified | Reduction of elevated platelet counts in at risk essential thrombocythaemia patients who are intolerant to their current therapy or ... |
 
 ## Cytotoxicity
 

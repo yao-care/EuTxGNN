@@ -4,17 +4,17 @@ title: Methotrexate
 parent: AI Predictions (L5)
 nav_order: 398
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Methotrexate: predicted new indication Pulmonary blastoma (evidence level L5). Approved use: Active rheumatoid arthritis in adults"
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Methotrexate: predicted new indication Pulmonary blastoma (evidence level L5). Approved use: In rheumatological and dermatological diseases Active rheumatoid arth…"
 ---
 
 # Methotrexate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Methotrexate: From Rheumatoid Arthritis, Psoriasis and Acute Lymphoblastic Leukaemia to Pulmonary Blastoma
+## Methotrexate: Pulmonary blastoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ Among the other top-10 predictions, **Hodgkin lymphoma** (44 registered trials, 
 
 | Item | Content |
 |------|------|
-| Original Indication | Active rheumatoid arthritis in adults; polyarticular juvenile idiopathic arthritis; severe psoriasis and psoriatic arthritis; maintenance treatment of acute lymphoblastic leukaemia (ALL) |
+| Original Indication | In rheumatological and dermatological diseases Active rheumatoid arthritis in adult patients. Polyarthritic forms of active, severe juvenile idiopathic arthritis (JIA) in adolescents and children aged 3 years and over when the response to non-steroidal anti-inflammatory drugs (NSAIDs) has been inade |
 | Predicted New Indication | Pulmonary blastoma |
-| TxGNN Prediction Score | 99.45% |
+| TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -111,10 +111,9 @@ No literature was retrieved for pulmonary blastoma. Selected publications for ot
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/003756 | Jylamvo (cancelled) | Not specified | In rheumatological and dermatological diseases Active rheumatoid arthritis in adult patients. Polyarthritic forms of active, sev... |
-| EMEA/H/C/003983 | Nordimet (cancelled) | Not specified | Nordimet is indicated for the treatment of: active rheumatoid arthritis in adult patients, polyarthritic forms of severe, activ... |
+| EMEA/H/C/003756 | Jylamvo (valid) | Not specified | In rheumatological and dermatological diseases Active rheumatoid arthritis in adult patients. Polyarthritic forms of active, sev... |
+| EMEA/H/C/003983 | Nordimet (valid) | Not specified | Nordimet is indicated for the treatment of: active rheumatoid arthritis in adult patients, polyarthritic forms of severe, activ... |
 
-Both authorizations are cancelled, so no valid single-agent or combination authorization currently exists in the data compiled for this report.
 
 ---
 

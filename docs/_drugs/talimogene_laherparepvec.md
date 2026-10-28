@@ -4,17 +4,17 @@ title: Talimogene Laherparepvec
 parent: AI Predictions (L5)
 nav_order: 587
 evidence_level: L5
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Talimogene Laherparepvec: predicted new indication CMM7 (ambiguous label) (evidence level L5). Approved use: Unresectable melanoma that is regionally or distantly metastatic (Sta…"
 monitor_inn: "Talimogene laherparepvec"
-predicted_indications: ["CMM7", "glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma", "non-small cell squamous lung carcinoma", "external ear basal cell carcinoma", "urethral verrucous carcinoma"]
+predicted_indications: ["CMM7", "glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma"]
 ---
 
 # Talimogene Laherparepvec
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ At present, **no clinical trials and no publications** support this direction, s
 |------|------|
 | Original Indication | Unresectable melanoma that is regionally or distantly metastatic (Stage IIIB, IIIC and IVM1a) with no bone, brain, lung or other visceral disease |
 | Predicted New Indication | CMM7 (ambiguous label) |
-| TxGNN Prediction Score | 99.20% |
+| TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

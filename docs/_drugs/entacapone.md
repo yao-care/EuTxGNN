@@ -48,10 +48,10 @@ but there are currently **0 clinical trials** and **0 publications** directly su
 |------|------|
 | Original Indication | Adjunct to standard levodopa/benserazide or levodopa/carbidopa in adult Parkinson's disease patients with end-of-dose motor fluctuations who cannot be stabilised on those combinations |
 | Predicted New Indication | PLA2G6-associated neurodegeneration |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 4 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -98,7 +98,7 @@ Please refer to the SmPC for full safety information, since label warnings and c
 **Decision: Hold**
 
 **Rationale:**
-The prediction for PLA2G6-associated neurodegeneration is supported only by a model score (L5), with no trials, no literature, and only a speculative mechanistic link. All four EU authorizations are cancelled, which further limits near-term development.
+The prediction for PLA2G6-associated neurodegeneration is supported only by a model score (L5), with no trials, no literature, and only a speculative mechanistic link. All four EU authorizations are valid, and the drug is marketed.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for entacapone

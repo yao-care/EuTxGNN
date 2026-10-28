@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Posaconazole
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 494
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Posaconazole: predicted new indication Pneumocystosis (evidence level L4). Approved use: Treatment of invasive aspergillosis, fusariosis…"
 monitor_inn: "Posaconazole"
-predicted_indications: ["pneumocystosis", "vulvovaginal candidiasis", "leprosy", "multibacillary leprosy", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "isolated genetic hair shaft abnormality", "syndrome with a Dandy-Walker malformation as major feature", "hypertrichosis (disease)", "paucibacillary leprosy"]
+predicted_indications: ["pneumocystosis"]
+description: "Posaconazole: predicted new indication Pneumocystosis (evidence level L5). Approved use: Noxafil gastro-resistant tablets are indicated for use in the treatme…"
 ---
 
 # Posaconazole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Posaconazole: From Invasive Fungal Infections to Pneumocystosis
+## Posaconazole: Pneumocystosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,23 +45,23 @@ The TxGNN model predicts it may be effective for **pneumocystosis**, but the dat
 
 | Item | Content |
 |------|------|
-| Original Indication | Treatment of invasive aspergillosis, fusariosis, chromoblastomycosis and mycetoma, and coccidioidomycosis; prophylaxis of invasive fungal infections in high-risk patients |
+| Original Indication | Noxafil gastro-resistant tablets are indicated for use in the treatment of the following fungal infections in adults (see sections 4.2 and 5.1): Invasive aspergillosis Noxafil gastro-resistant tablets are indicated for use in the treatment of the following fungal infections in paediatric patients fr |
 | Predicted New Indication | Pneumocystosis |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 3 (all cancelled) |
+| TxGNN Prediction Score | 0.9977 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the compiled data. Posaconazole is a triazole antifungal. Triazoles inhibit fungal CYP51 (lanosterol 14-alpha-demethylase) and thereby ergosterol synthesis. Its efficacy in invasive fungal infections is established.
 
-The link to pneumocystosis is weak. *Pneumocystis jirovecii* lacks ergosterol and uses cholesterol-type sterols, so the azole mechanism is not expected to work. The high TxGNN score most likely reflects the network proximity of other invasive fungal infections in the knowledge graph rather than biological support. Posaconazole penetrates lung epithelial lining fluid well, but that does not establish anti-Pneumocystis activity.
+The link to pneumocystosis is weak. *Pneumocystis jirovecii* lacks ergosterol and uses cholesterol-type sterols, so the azole mechanism is not expected to work. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Posaconazole penetrates lung epithelial lining fluid well, but that does not establish anti-Pneumocystis activity.
 
 Other predictions in the top 10 are similarly weak:
-- **Vulvovaginal candidiasis** (score 98.92%) is mechanistically plausible, since Candida species are sensitive to CYP51 inhibition. Evidence is limited to in vitro susceptibility studies, isolate surveys and guidelines, with no posaconazole clinical trials. Oropharyngeal candidiasis is already a labeled use.
-- **Leprosy** (all forms), **hypertrichosis**, hair shaft abnormalities and several congenital malformation syndromes have no plausible mechanism and no supporting evidence. They look like knowledge-graph artifacts.
+- **Vulvovaginal candidiasis** is mechanistically plausible, since Candida species are sensitive to CYP51 inhibition. Evidence is limited to in vitro susceptibility studies, isolate surveys and guidelines, with no posaconazole clinical trials. Oropharyngeal candidiasis is already a labeled use.
+- They look like TxGNN model (deep learning) artifacts.
 
 ## Clinical Trial Evidence
 
@@ -87,7 +87,7 @@ Other predictions in the top 10 are similarly weak:
 | EMEA/H/C/005028 | Posaconazole AHCL | Not specified | Oral suspension for invasive aspergillosis, fusariosis, chromoblastomycosis and mycetoma, coccidioidomycosis, oropharyngeal candidiasis, and prophylaxis... |
 | EMEA/H/C/005005 | Posaconazole Accord | Not specified | Invasive aspergillosis, fusariosis, chromoblastomycosis and mycetoma, coccidioidomycosis, and prophylaxis of invasive fungal infections... |
 
-All three authorizations are cancelled, so posaconazole currently has no valid EU authorization in the data compiled for this report.
+All three authorizations are valid, so posaconazole is currently marketed with valid authorization in the data compiled for this report.
 
 ## Safety Considerations
 
@@ -104,7 +104,7 @@ For warnings and contraindications, please refer to the SmPC. The prediction ana
 **Decision: Hold**
 
 **Rationale:**
-The pneumocystosis prediction has a high model score but no direct clinical evidence and no sound mechanistic basis, because Pneumocystis lacks ergosterol. The only trial found tests a different drug. All EU authorizations are also cancelled.
+The pneumocystosis prediction has a high model score but no direct clinical evidence and no sound mechanistic basis, because Pneumocystis lacks ergosterol. The only trial found tests a different drug. Posaconazole is marketed, with 3 of 3 licences valid.
 
 **To proceed, the following is needed:**
 - Mechanism of action data to confirm or refute any anti-Pneumocystis activity

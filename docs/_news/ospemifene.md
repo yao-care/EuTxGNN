@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Ospemifene with the latest h
 <li>Leprosy</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/ospemifene/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (8)

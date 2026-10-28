@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Alendronic Acid
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 34
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Alendronic Acid: predicted new indication HIV infectious disease (evidence level L5). Approved use: Treatment of postmenopausal osteoporosis in patients at risk of vitam…"
-monitor_inn: "Alendronic acid"
-predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "deficiency anemia", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "Plummer-Vinson syndrome", "osteomesopyknosis", "obsolete familial combined hyperlipidemia", "biotin metabolic disease"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Alendronic Acid: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Alendronic Acid
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,52 +32,47 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Alendronic Acid: From Postmenopausal Osteoporosis to HIV Infectious Disease
+<!-- known-uses-page -->
+<!-- description: Alendronic Acid: known uses and market status in the European Union; currently no new candidate indication -->
+## Alendronic Acid: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+All candidates that the TxGNN deep-learning model produced for Alendronic Acid (score ≥ 0.99) that can be traced to a source are already known uses. There is therefore currently no new predicted indication for this drug. The one known use found among the candidates is a relation recorded in the knowledge graph.
 
-Alendronic acid is a bisphosphonate originally authorised in the EU (in combination products) for postmenopausal osteoporosis, where it reduces the risk of vertebral and hip fractures.
-The TxGNN model predicts it may be effective for **HIV infectious disease**, but this is a knowledge-graph prediction only, with **0 clinical trials** and **0 publications** supporting it.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Treatment of postmenopausal osteoporosis in patients at risk of vitamin-D insufficiency (reduces the risk of vertebral and hip fractures) |
-| Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 96.78% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorisations) |
-| Number of Authorizations | 3 (all cancelled) |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 1 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Detailed mechanism of action data is not available in the data compiled for this report. Alendronate is a nitrogen-containing bisphosphonate. Drugs of this class are generally understood to inhibit farnesyl pyrophosphate synthase in the mevalonate pathway, which could in theory affect protein prenylation and immune cell function. Nitrogen-containing bisphosphonates have also been studied for gamma-delta T cell activation.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-The link to HIV is weak. Osteoporosis and HIV infection are pathologically distinct, and no direct connection to HIV pathology is established. HIV-associated bone loss is a related question, but it would be an osteoporosis indication rather than an antiviral one. The high score (0.968) should therefore be read as a graph-derived signal, not biological confirmation.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-Other top-ranked predictions look like artefacts of the same graph signal or are biologically implausible:
-- Feline AIDS and simian immunodeficiency virus infection (score 0.948 each) mirror the HIV result and are veterinary or animal-model conditions, not independent human indications.
-- Deficiency anemia, megaloblastic anemia, and biotin metabolic disease have no plausible mechanistic link.
-- Plummer-Vinson syndrome and osteomesopyknosis argue against use, because of oesophageal adverse events and further suppression of bone resorption respectively.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| bone Paget disease |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001180 (cancelled) | Vantavo (previously Alendronate sodium and colecalciferol, MSD) | Not specified | Treatment of postmenopausal osteoporosis in patients at risk of vitamin-D insufficiency. Vantavo reduces the risk of ve... |
-| EMEA/H/C/000759 (cancelled) | Adrovance | Not specified | Treatment of postmenopausal osteoporosis in patients at risk of vitamin-D insufficiency. Adrovance reduces the risk of ... |
-| EMEA/H/C/000619 (cancelled) | Fosavance | Not specified | Treatment of postmenopausal osteoporosis in patients at risk of vitamin-D insufficiency. Fosavance reduces the risk of ... |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/001180 | Vantavo (previously Alendronate sodium and colecalciferol, M |  | Valid |
+| EMEA/H/C/000759 | Adrovance |  | Valid |
+| EMEA/H/C/000619 | Fosavance |  | Valid |
 
 ## Safety Considerations
 
@@ -94,19 +88,6 @@ Currently no related literature available.
 
 For label-level warnings and contraindications, please refer to the SmPC.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The HIV prediction rests solely on a knowledge-graph score, with no registered trials, no literature, and no established mechanism. All three EU authorisations for the original indication are cancelled, and the safety profile includes oesophageal and renal concerns.
-
-**To proceed, the following is needed:**
-- Mechanism of action data and a plausible biological rationale linking bisphosphonate activity to HIV, such as in vitro or preclinical studies
-- A literature and trial search specific to alendronate and HIV, distinguishing antiviral effects from HIV-associated bone loss
-- Current SmPC warnings and contraindications, which are not available in the data compiled for this report
-- Clarification of route and formulation compatibility
-- Review of whether the current regulatory status (all authorisations cancelled) affects feasibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

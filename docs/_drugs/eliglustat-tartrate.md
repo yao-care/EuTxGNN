@@ -7,14 +7,15 @@ description: "Eliglustat (Tartrate) drug repurposing predictions from TxGNN. Evi
 parent: AI Predictions (L5)
 nav_order: 200
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Eliglustat (Tartrate)
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | Gaucher disease | 98.51% | DL |
-| 2 | autosomal ichthyosis syndrome with fatal disease course | 98.42% | DL |
-| 3 | benign neoplasm of adrenal gland | 98.33% | DL |
-| 4 | polycystic kidney disease 3 with or without polycystic liver disease | 96.91% | DL |
-| 5 | gastrocutaneous syndrome | 96.67% | DL |
-| 6 | familial generalized lentiginosis | 96.60% | DL |
-| 7 | Moynahan syndrome | 96.40% | DL |
-| 8 | rhabdoid tumor | 96.20% | DL |
-| 9 | osteopathia striata-pigmentary dermopathy-white forelock syndrome | 96.06% | DL |
-| 10 | congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome | 96.06% | DL |
-| 11 | acromelanosis | 96.06% | DL |
-| 12 | X-linked lymphoproliferative disease due to SH2D1A deficiency | 95.94% | DL |
-| 13 | leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome | 95.86% | DL |
-| 14 | renal-hepatic-pancreatic dysplasia | 95.75% | DL |
-| 15 | Joubert syndrome with renal defect | 95.18% | DL |
-| 16 | peripheral nerve schwannoma | 95.06% | DL |
-| 17 | karyomegalic interstitial nephritis | 95.04% | DL |
-| 18 | schwannoma of twelfth cranial nerve | 94.63% | DL |
-| 19 | thoracic malformation | 94.62% | DL |
-| 20 | sympathetic neurilemmoma | 94.61% | DL |
 
 *Showing top 20 of 50 predictions.*
 

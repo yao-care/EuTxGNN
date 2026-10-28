@@ -4,17 +4,17 @@ title: Ranolazine
 parent: AI Predictions (L5)
 nav_order: 508
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Ranolazine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Add-on therapy for the symptomatic treatment of patients with stable…"
 monitor_inn: "Ranolazine"
-predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "myositis fibrosa", "idiopathic granulomatous myositis", "tendinitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "fibromyalgia", "headache disorder", "conjunctivitis"]
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
+description: "Ranolazine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Ranexa is indicated as add-on therapy for the symptomatic treatment o…"
 ---
 
 # Ranolazine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ranolazine: From Stable Angina Pectoris to Nephrogenic Syndrome of Inappropriate Antidiuresis
+## Ranolazine: Nephrogenic syndrome of inappropriate antidiuresis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,21 +46,20 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Add-on therapy for the symptomatic treatment of patients with stable angina pectoris who are inadequately controlled or intolerant to first-line anti-anginal therapies (such as beta-blockers and/or calcium antagonists) |
+| Original Indication | Ranexa is indicated as add-on therapy for the symptomatic treatment of patients with stable angina pectoris who are inadequately controlled or intolerant to first-line anti-anginal therapies (such as beta-blockers and / or calcium antagonists). |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
-| TxGNN Prediction Score | 99.65% |
+| TxGNN Prediction Score | 0.9965 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Ranolazine is generally known as a late sodium current inhibitor, and its efficacy in stable angina has been established. That mechanism, however, has no established link to nephrogenic syndrome of inappropriate antidiuresis.
 
-This condition is driven by gain-of-function variants of the vasopressin V2 receptor (AVPR2), which is a renal water-handling problem. It differs fundamentally from angina, a cardiac ischaemic condition. The high TxGNN score is a knowledge-graph prediction only. No mechanistic rationale is supported by the available data, and the prediction should be treated as a hypothesis.
+This condition is driven by gain-of-function variants of the vasopressin V2 receptor (AVPR2), which is a renal water-handling problem. It differs fundamentally from angina, a cardiac ischaemic condition. The high TxGNN score is a TxGNN model (deep learning) prediction only. No mechanistic rationale is supported by the available data, and the prediction should be treated as a hypothesis.
 
-Other top-ranked predictions (for example rheumatoid arthritis, fibromyalgia, tendinitis and conjunctivitis) are likewise at the model-prediction level only. The headache disorder prediction has some indirect literature, but it is limited to a case report.
 
 ## Clinical Trial Evidence
 
@@ -98,7 +97,6 @@ The prediction is supported only by the TxGNN score (L5), with no clinical trial
 - Warnings and contraindications from the SmPC, including renal safety
 - Preclinical or in vitro evidence showing an effect on renal water handling or the AVPR2 pathway
 - A literature and trial search specific to this condition
-- If a more evidence-supported direction is preferred, a review of other candidates such as headache disorder, which currently has only case-level evidence (L4)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

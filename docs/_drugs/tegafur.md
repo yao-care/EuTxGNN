@@ -50,10 +50,10 @@ The indication lies very close to its existing use, so this is closer to an exte
 |------|------|
 | Original Indication | Advanced gastric cancer (with cisplatin); metastatic colorectal cancer in patients who cannot continue another fluoropyrimidine due to hand-foot syndrome or cardiovascular toxicity |
 | Predicted New Indication | Colonic neoplasm |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L1 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -64,7 +64,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 The predicted indication is therefore mechanistically consistent with the drug's existing oncology use. Colonic neoplasm is closely related to the labelled indication of metastatic colorectal cancer. The very high TxGNN score agrees with the clinical evidence, which includes several large, completed Phase 3 trials of tegafur-based therapy (mostly UFT, tegafur-uracil) in colon and colorectal cancer.
 
-Other lower-ranked predictions (for example cecum villous adenoma, lipoma of colon, colonic lymphangioma and cavernous hemangioma of colon) are benign lesions without clinical evidence. They are most likely artefacts of anatomical proximity in the knowledge graph and are not supported.
+Other lower-ranked predictions (for example cecum villous adenoma, lipoma of colon, colonic lymphangioma and cavernous hemangioma of colon) are benign lesions without clinical evidence. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence; they are not supported.
 
 ---
 

@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **HIV infectious disease**, but
 |------|------|
 | Original Indication | Chronic hepatitis C (CHC) in adults and paediatric patients 12 years and older weighing at least 30 kg |
 | Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -109,7 +109,7 @@ The literature covers HCV treatment and HCV/HIV drug interactions. No publicatio
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/004126 | Zepatier | Not specified | Chronic hepatitis C (CHC) in adult and paediatric patients 12 years of age and older who weigh at least 30 kg... (status: cancelled) |
+| EMEA/H/C/004126 | Zepatier | Not specified | Chronic hepatitis C (CHC) in adult and paediatric patients 12 years of age and older who weigh at least 30 kg... (status: valid) |
 
 ---
 

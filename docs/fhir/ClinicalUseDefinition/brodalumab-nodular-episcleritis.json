@@ -2,7 +2,7 @@
   "resourceType": "ClinicalUseDefinition",
   "id": "brodalumab-nodular-episcleritis",
   "meta": {
-    "lastUpdated": "2026-07-26T10:06:14Z"
+    "lastUpdated": "2026-07-26T10:06:13Z"
   },
   "type": "indication",
   "status": "active",
@@ -29,7 +29,11 @@
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/drugbank-id",
-      "valueString": "DB11776"
+      "valueString": "DB01048"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9976
     }
   ]
 }

@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Repaglinide
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 518
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Repaglinide: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 2 diabetes mellitus (NIDDM) whose hyperglycaemia can no longer b…"
+description: "Repaglinide: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Repaglinide"
-predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy", "autoimmune oophoritis"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Repaglinide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,45 +35,19 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Repaglinide: From Type 2 Diabetes to Opsismodysplasia
+## Repaglinide
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Repaglinide is an insulin secretagogue originally used to lower blood glucose in adults with type 2 diabetes.
-The TxGNN model predicts it may be effective for **opsismodysplasia**, a rare skeletal dysplasia, but **no clinical trials and no directly relevant publications** currently support this prediction. It is a model-only signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 diabetes mellitus (NIDDM) whose hyperglycaemia can no longer be controlled satisfactorily by diet, weight reduction and exercise; also in combination with metformin |
-| Predicted New Indication | Opsismodysplasia |
-| TxGNN Prediction Score | 98.77% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 6 (all cancelled) |
-| Recommended Decision | Hold |
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, repaglinide is a short-acting insulin secretagogue that blocks K-ATP channels (SUR1/Kir6.2) in pancreatic beta cells, which stimulates insulin release around meals. Its efficacy in type 2 diabetes is established.
-
-For opsismodysplasia, no mechanistic link can be identified. This condition is a skeletal dysplasia caused by mutations in INPPL1 (SHIP2). Nothing known about repaglinide's action on beta-cell K-ATP channels connects to this pathway. The high TxGNN score appears to reflect network-based associations in the knowledge graph rather than biological or clinical support.
-
-The other top-ranked predictions show the same pattern. Stiff person spectrum disorders, localized lipodystrophies, and autoimmune oophoritis have no established mechanistic connection. Pancreatic agenesis is mechanistically implausible, because repaglinide needs functional beta cells to work.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available for opsismodysplasia.
+| Original Indication | Repaglinide is indicated in patients with type-2 diabetes (non-insulin-dependent diabetes mellitus (NIDDM)) whose hyperglycaemia can no longer be controlled satisfactorily by diet, weight reduction and exercise. Treatment should be initiated as an adjunct to diet and exercise to lower the blood gluc |
+| EU Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Authorizations | 6 (valid: 6) |
 
 ## EU Market Information
 
-All six EU authorizations have been cancelled, and no valid authorization remains.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -90,19 +66,6 @@ All six EU authorizations have been cancelled, and no valid authorization remain
 
 Please refer to the SmPC for the full warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction rests only on a network-based model score. There are no clinical trials, no relevant publications, and no plausible mechanism linking repaglinide to opsismodysplasia. All EU authorizations are also cancelled.
-
-**To proceed, the following is needed:**
-- A plausible biological rationale connecting K-ATP channel blockade or insulin secretion to INPPL1/SHIP2-related skeletal dysplasia, backed by preclinical data
-- Mechanism of action data to support mechanistic analysis
-- Warnings and contraindications from the official EU product information, for a formal safety screen
-- Current market and availability status, given that all EU licences are cancelled
-- Reassessment of other predictions with some biological plausibility, such as diabetes-associated thiamine-responsive syndromes, where repaglinide would only be symptomatic treatment of hyperglycaemia
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

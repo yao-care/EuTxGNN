@@ -4,17 +4,17 @@ title: Moroctocog Alfa
 parent: AI Predictions (L5)
 nav_order: 417
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Moroctocog Alfa: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia A…"
+indication_count: 8
+last_modified_at: 2026-10-28
 monitor_inn: "Moroctocog alfa"
-predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "acquired coagulation factor deficiency", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency", "hereditary thrombocytosis with transverse limb defect", "familial thrombomodulin anomalies"]
+predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "acquired coagulation factor deficiency", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency"]
+description: "Moroctocog Alfa: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia A…"
 ---
 
 # Moroctocog Alfa
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Moroctocog alfa: From Haemophilia A to Primary Release Disorder of Platelets
+## Moroctocog Alfa: Primary release disorder of platelets
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,28 +46,27 @@ but **no clinical trials and no publications** currently support this direction,
 
 | Item | Content |
 |------|------|
-| Original Indication | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency) |
+| Original Indication | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor-VIII deficiency). ReFacto AF is appropriate for use in adults and children of all ages, including newborns. ReFacto AF does not contain von-Willebrand factor, and hence is not indicated in von-Willebrand's diseas |
 | Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, moroctocog alfa is a recombinant B-domain-deleted factor VIII. It replaces the missing FVIII activity in the intrinsic coagulation pathway, which is why it works in haemophilia A.
 
-The predicted disease is a different kind of problem. Primary release disorder of platelets is a defect in platelet granule content or secretion, not a lack of FVIII. Replacing FVIII would not be expected to correct that defect. The high TxGNN score most likely reflects how close these conditions sit to one another in the knowledge graph (all are bleeding disorders), not a real mechanistic rationale.
+The predicted disease is a different kind of problem. Primary release disorder of platelets is a defect in platelet granule content or secretion, not a lack of FVIII. Replacing FVIII would not be expected to correct that defect. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases (all are bleeding disorders), not biological evidence.
 
 The other nine predictions show the same pattern. Most involve platelet or vascular defects with normal FVIII levels:
 
-- **Pseudo-von Willebrand disease (99.97%)**: The primary defect lies in the platelets (GP1BA gain-of-function). The product label states that moroctocog alfa contains no von Willebrand factor and is not indicated in von Willebrand disease.
-- **Glanzmann thrombasthenia (99.96%)**: This is an integrin αIIbβ3 defect with normal coagulation factors. Established management uses platelet transfusion and recombinant factor VIIa.
-- **Acquired coagulation factor deficiency (99.88%)**: This is the most plausible of the predictions, since acquired FVIII deficiency could in principle be treated with FVIII replacement. However, the category is heterogeneous. Acquired haemophilia A is autoantibody-mediated and usually needs bypassing agents and immunosuppression. This is classed as a research question, not a treatment candidate.
+- **Pseudo-von Willebrand disease (0.9997)**: The primary defect lies in the platelets (GP1BA gain-of-function). The product label states that moroctocog alfa contains no von Willebrand factor and is not indicated in von Willebrand disease.
+- **Glanzmann thrombasthenia (0.9997)**: This is an integrin αIIbβ3 defect with normal coagulation factors. Established management uses platelet transfusion and recombinant factor VIIa.
+- **Acquired coagulation factor deficiency (0.9988)**: This is the most plausible of the predictions, since acquired FVIII deficiency could in principle be treated with FVIII replacement. However, the category is heterogeneous. Acquired haemophilia A is autoantibody-mediated and usually needs bypassing agents and immunosuppression. This is classed as a research question, not a treatment candidate.
 - **Scott syndrome, collagen receptor defect bleeding diathesis, constitutional thrombocytopenia**: These are platelet-intrinsic defects with no direct link to FVIII.
 - **"Flood factor deficiency"**: The term is ambiguous and may be a nomenclature artifact. It needs to be checked against a standard ontology.
-- **Hereditary thrombocytosis with transverse limb defect, familial thrombomodulin anomalies**: The clinical risk may be thrombotic, so giving a procoagulant factor concentrate could be harmful.
 
 ## Clinical Trial Evidence
 

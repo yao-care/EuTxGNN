@@ -4,17 +4,17 @@ title: Ibuprofen
 parent: AI Predictions (L5)
 nav_order: 305
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
 description: "Ibuprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Treatment of a haemodynamically significant patent ductus arteriosus…"
 monitor_inn: "Ibuprofen"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "hypotrichosis simplex of the scalp", "WHIM syndrome", "congenital hypotrichosis milia"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 ---
 
 # Ibuprofen
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ However, **no clinical trials and no publications** currently support this predi
 |------|------|
 | Original Indication | Treatment of a haemodynamically significant patent ductus arteriosus in preterm newborn infants less than 34 weeks of gestational age |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
-| TxGNN Prediction Score | 99.74% |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Cancelled only |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,14 +60,14 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Acromesomelic dysplasia, Hunter-Thompson type, is a rare skeletal dysplasia caused by loss-of-function mutations in CDMP1/GDF5, which disrupt cartilage and bone formation. COX inhibition does not address this GDF5/BMP signalling defect, so **no credible mechanistic link was identified**.
 
-The very high TxGNN score is a knowledge-graph prediction. It is most likely driven by network proximity rather than biology. The same applies to the other top-ranked predictions, which include brachyolmia, pseudoachondroplasia, myosclerosis, and WHIM syndrome. None has supporting clinical or literature evidence. At most, pseudoachondroplasia has a weak, purely symptomatic rationale (NSAIDs for joint pain), which would not be disease-modifying.
+The very high TxGNN score is a TxGNN model (deep learning) prediction. It is most likely driven by network proximity rather than biology. The same applies to the other top-ranked predictions, which include brachyolmia, pseudoachondroplasia, myosclerosis, and WHIM syndrome. None has supporting clinical or literature evidence. At most, pseudoachondroplasia has a weak, purely symptomatic rationale (NSAIDs for joint pain), which would not be disease-modifying.
 
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
 |---------|------|------|-----------|------|
-| EMEA/H/C/006129 | Ibuprofen Gen.Orph | Not specified | Treatment of a haemodynamically significant patent ductus arteriosus in preterm newborn infants less than 34 weeks of gestational age | Cancelled |
-| EMEA/H/C/000549 | Pedea | Not specified | Treatment of a haemodynamically significant patent ductus arteriosus in preterm newborn infants less than 34 weeks of gestational age. | Cancelled |
+| EMEA/H/C/006129 | Ibuprofen Gen.Orph | Not specified | Treatment of a haemodynamically significant patent ductus arteriosus in preterm newborn infants less than 34 weeks of gestational age | Valid |
+| EMEA/H/C/000549 | Pedea | Not specified | Treatment of a haemodynamically significant patent ductus arteriosus in preterm newborn infants less than 34 weeks of gestational age. | Valid |
 
 ## Safety Considerations
 

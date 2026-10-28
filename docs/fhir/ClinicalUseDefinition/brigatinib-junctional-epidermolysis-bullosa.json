@@ -29,7 +29,11 @@
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/drugbank-id",
-      "valueString": "DB12267"
+      "valueString": "DB01048"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9983
     }
   ]
 }

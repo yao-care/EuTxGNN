@@ -4,17 +4,17 @@ title: Diflunisal
 parent: AI Predictions (L5)
 nav_order: 191
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Diflunisal: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Hereditary transthyretin-mediated amyloidosis (ATTRv) in adults with…"
 monitor_inn: "Diflunisal"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "spondyloarthropathy, susceptibility to", "myosclerosis", "ankylosing spondylitis", "brachyolmia", "hypermobility of coccyx", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "inflammatory spondylopathy"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "ankylosing spondylitis", "brachyolmia", "hypermobility of coccyx", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "inflammatory spondylopathy"]
 ---
 
 # Diflunisal
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The best-supported alternative among the predictions is **ankylosing spondylitis
 |------|------|
 | Original Indication | Hereditary transthyretin-mediated amyloidosis (ATTRv) in adults with stage 1 or stage 2 polyneuropathy |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type (top-ranked prediction) |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ The best-supported alternative among the predictions is **ankylosing spondylitis
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, diflunisal is an NSAID that inhibits COX-1/COX-2 and reduces prostaglandin-mediated inflammation and pain. It also stabilises transthyretin (TTR), which is the basis of its use in ATTRv polyneuropathy.
 
-For the top-ranked prediction, **acromesomelic dysplasia, Hunter-Thompson type**, no plausible mechanistic link was identified. This is a genetic skeletal dysplasia caused by loss of function in the CDMP1/GDF5 gene. Neither COX inhibition nor TTR stabilisation addresses GDF5 signalling. The high TxGNN score is most likely an artefact of the knowledge graph rather than a real therapeutic signal. The same applies to brachyolmia, brachyolmia-amelogenesis imperfecta syndrome, and colobomatous microphthalmia-rhizomelic dysplasia syndrome.
+For the top-ranked prediction, **acromesomelic dysplasia, Hunter-Thompson type**, no plausible mechanistic link was identified. This is a genetic skeletal dysplasia caused by loss of function in the CDMP1/GDF5 gene. Neither COX inhibition nor TTR stabilisation addresses GDF5 signalling. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, rather than a real therapeutic signal. The same applies to brachyolmia, brachyolmia-amelogenesis imperfecta syndrome, and colobomatous microphthalmia-rhizomelic dysplasia syndrome.
 
 The more biologically coherent predictions are in the rheumatological area. NSAIDs are established first-line therapy for **ankylosing spondylitis** (rank 5) and related **inflammatory spondylopathy** (rank 10). Even here, the finding is better described as a class effect of an already-approved NSAID than as novel repurposing. Other predictions (spondyloarthropathy susceptibility, hypermobility of coccyx, rheumatoid vasculitis, myosclerosis) have only weak, indirect, or no mechanistic support.
 
@@ -118,7 +118,7 @@ Please refer to the SmPC for label-based warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (acromesomelic dysplasia, Hunter-Thompson type) has no trials, no literature and no plausible mechanism, so it appears to be a knowledge-graph artefact. The only directions with some biological coherence (ankylosing spondylitis, inflammatory spondylopathy) rest on small, old studies and amount to a class effect of an already-known NSAID rather than new repurposing. In addition, the only EU authorisation has been cancelled.
+The top-ranked prediction (acromesomelic dysplasia, Hunter-Thompson type) has no trials, no literature and no plausible mechanism, so it appears to be a TxGNN model (deep learning) artefact. The only directions with some biological coherence (ankylosing spondylitis, inflammatory spondylopathy) rest on small, old studies and amount to a class effect of an already-known NSAID rather than new repurposing. In addition, the only EU authorisation has been cancelled.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for diflunisal

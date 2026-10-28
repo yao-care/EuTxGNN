@@ -4,7 +4,7 @@ title: Efmoroctocog Alfa
 parent: AI Predictions (L5)
 nav_order: 210
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Efmoroctocog Alfa: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia A…"
 monitor_inn: "Efmoroctocog alfa"
@@ -14,7 +14,7 @@ predicted_indications: ["pseudo-von Willebrand disease", "primary release disord
 # Efmoroctocog Alfa
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 Efmoroctocog alfa is a recombinant Fc-fused factor VIII product, originally used to treat and prevent bleeding in patients with haemophilia A.
 The TxGNN model predicts it may be effective for **pseudo-von Willebrand disease**, but **no clinical trials and no publications** currently support this direction.
-The prediction rests on knowledge-graph proximity alone.
+The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ---
 
@@ -50,10 +50,10 @@ The prediction rests on knowledge-graph proximity alone.
 |------|------|
 | Original Indication | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency); can be used for all age groups |
 | Predicted New Indication | Pseudo-von Willebrand disease |
-| TxGNN Prediction Score | 99.997% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Detailed mechanism of action data is not available. Based on known information, 
 
 Pseudo-von Willebrand disease (platelet-type VWD) is caused by a gain-of-function defect in platelet GPIbα. This increases binding to von Willebrand factor (VWF), leading to loss of high-molecular-weight VWF multimers and thrombocytopenia. Supplying factor VIII does not correct this primary platelet/VWF defect. A secondary reduction in FVIII might occur in severe cases, but that link is speculative.
 
-The high TxGNN score is therefore best read as a graph-based association between bleeding disorders, not as evidence of a real mechanistic fit.
+The high TxGNN score therefore comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related bleeding disorders, not biological evidence of a real mechanistic fit.
 
 The other top-ranked predictions are also weak:
 - **Platelet function disorders** (primary release disorder, Glanzmann thrombasthenia, Scott syndrome, collagen receptor defect, constitutional thrombocytopenia): the defect is in platelets, not in factor VIII.

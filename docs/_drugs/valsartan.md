@@ -4,17 +4,17 @@ title: Valsartan
 parent: Medium Evidence (L3-L4)
 nav_order: 655
 evidence_level: L4
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
 description: "Valsartan: predicted new indication Malignant hypertensive renal disease (evidence level L4). Approved use: Paediatric and adult symptomatic chronic heart failure (Entresto…"
 monitor_inn: "Valsartan"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "obsolete susceptibility to ischemic stroke"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
 ---
 
 # Valsartan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The prediction rests mainly on the model score and mechanistic plausibility.
 |------|------|
 | Original Indication | Paediatric and adult symptomatic chronic heart failure (Entresto, Neparvis); essential hypertension (Dafiro, Copalia, Exforge and related combinations) |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 9 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Authorizations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Severe hypertension with kidney injury is strongly driven by angiotensin II. Blocking the AT1 receptor could plausibly reduce angiotensin II-mediated vascular injury and nephrosclerosis. Valsartan is already indicated for hypertension, so the new indication is a more severe form of the same disease family.
 
-The supporting literature is indirect. The only paper retrieved for this indication (PMID 24368192) studies avosentan, an endothelin antagonist, in a rat model of hypertensive nephropathy, and does not test valsartan. A related prediction (malignant renovascular hypertension) has preclinical class-effect evidence for AT1 blockade, but that is outside this indication.
+The supporting literature is indirect. The only paper retrieved for this indication (PMID 24368192) studies avosentan, an endothelin antagonist, in a rat model of hypertensive nephropathy, and does not test valsartan.
 
 ---
 
@@ -84,7 +84,7 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-All nine authorizations are cancelled. The five main ones are listed below.
+The drug is marketed in this country: 9 of 9 licences are valid. The five main ones are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -117,7 +117,7 @@ The prediction score is high and the AT1-blockade mechanism is plausible. Howeve
 - Mechanism of action data for valsartan
 - Label-based warnings and contraindications from the SmPC
 - Direct evidence for valsartan, or other AT1 receptor blockers, in malignant hypertensive renal disease (preclinical or clinical)
-- Clarification of current EU regulatory status, given that all nine authorizations are cancelled
+- Review of the current regulatory status, given that all nine licences are valid
 - A renal safety plan covering renal artery stenosis, potassium and renal function monitoring
 ## Disclaimer
 

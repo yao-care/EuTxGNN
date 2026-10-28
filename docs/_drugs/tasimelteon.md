@@ -4,17 +4,17 @@ title: Tasimelteon
 parent: AI Predictions (L5)
 nav_order: 588
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Tasimelteon: predicted new indication Bilateral parasagittal parieto-occipital polymicrogyria (evidence level L5). Approved use: Non-24-Hour Sleep-Wake Disorder (Non-24) in totally blind adults"
 monitor_inn: "Tasimelteon"
-predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "insomnia (disease)", "amyotrophic lateral sclerosis", "endogenous depression", "axial spondylometaphyseal dysplasia", "monomelic amyotrophy", "amyotrophic lateral sclerosis, susceptibility to", "lower motor neuron syndrome with late-adult onset", "Mills syndrome", "amyotrohpic lateral sclerosis type 22"]
+predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "insomnia (disease)", "amyotrophic lateral sclerosis", "endogenous depression", "axial spondylometaphyseal dysplasia", "monomelic amyotrophy", "lower motor neuron syndrome with late-adult onset", "Mills syndrome", "amyotrohpic lateral sclerosis type 22"]
 ---
 
 # Tasimelteon
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ This prediction has **0 clinical trials** and **0 publications** behind it, so i
 |------|------|
 | Original Indication | Non-24-Hour Sleep-Wake Disorder (Non-24) in totally blind adults |
 | Predicted New Indication | Bilateral parasagittal parieto-occipital polymicrogyria |
-| TxGNN Prediction Score | 99.48% |
+| TxGNN Prediction Score | 0.9948 |
 | Evidence Level | L5 (model prediction only) |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 No identifiable mechanistic link connects this mechanism to the predicted condition. Polymicrogyria is a malformation of the cerebral cortex with a developmental or genetic origin. It is not a disorder of circadian rhythm or melatonin signalling.
 
-The high TxGNN score (99.48%) most likely reflects proximity in the underlying knowledge graph rather than biological or clinical evidence. It should not be read as a sign of efficacy.
+The high TxGNN score (0.9948) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological or clinical evidence. It should not be read as a sign of efficacy.
 
 ---
 
@@ -122,7 +122,7 @@ Please refer to the SmPC for key warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based score. There are no trials or publications, and no plausible mechanistic link between melatonin receptor agonism and a cortical malformation. The only EU authorisation is cancelled, which further limits near-term development.
+The prediction rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no trials or publications, and no plausible mechanistic link between melatonin receptor agonism and a cortical malformation. The drug is marketed, with 1 valid licence of 1.
 
 **To proceed, the following is needed:**
 - Mechanistic or preclinical evidence connecting MT1/MT2 signalling to the pathology of polymicrogyria

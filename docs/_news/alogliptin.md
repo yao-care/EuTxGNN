@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Alogliptin with the latest h
 <li>Classic stiff person syndrome</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/alogliptin/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (12)

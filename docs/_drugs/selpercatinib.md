@@ -4,17 +4,17 @@ title: Selpercatinib
 parent: AI Predictions (L5)
 nav_order: 554
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Selpercatinib: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Advanced RET fusion-positive non-small cell lung cancer (NSCLC)"
 monitor_inn: "Selpercatinib"
-predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "migraine with or without aura, susceptibility to", "pulmonary hypertension, primary, autosomal recessive", "obsolete patella aplasia, coxa vara, and tarsal synostosis", "idiopathic pulmonary arterial hypertension", "atrophoderma vermiculata", "coxopodopatellar syndrome"]
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Selpercatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ This prediction rests on the model score alone.
 |------|------|
 | Original Indication | Advanced RET fusion-positive non-small cell lung cancer (NSCLC); advanced RET fusion-positive solid tumours; RET fusion-positive, radioactive iodine-refractory thyroid cancer; advanced RET-mutant medullary thyroid cancer (MTC) |
 | Predicted New Indication | Pulmonary hypertension |
-| TxGNN Prediction Score | 99.18% |
+| TxGNN Prediction Score | 0.9918 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The original indications (RET-driven tumours) and pulmonary hypertension are biologically very different. Vascular remodelling in pulmonary arterial hypertension involves other pathways, such as BMPR2 and PDGFR. Tyrosine kinase inhibitors have been explored in this setting (for example imatinib, which targets PDGFR), but that rationale does not carry over to selective RET inhibition.
 
-The high TxGNN score (0.992) reflects knowledge-graph patterns rather than demonstrated biology. The three retrieved publications concern cancer treatment and adverse-event profiling, so they do not support efficacy in pulmonary hypertension. The prediction should be treated as a hypothesis only.
+The high TxGNN score (0.9918) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The three retrieved publications concern cancer treatment and adverse-event profiling, so they do not support efficacy in pulmonary hypertension. The prediction should be treated as a hypothesis only.
 
 ## Literature Evidence
 

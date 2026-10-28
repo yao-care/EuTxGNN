@@ -4,17 +4,17 @@ title: Midazolam
 parent: Medium Evidence (L3-L4)
 nav_order: 406
 evidence_level: L3
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Midazolam: predicted new indication Insomnia (evidence level L3). Approved use: Treatment of prolonged, acute…"
+description: "Midazolam: predicted new indication insomnia (evidence level L3). Approved use: Treatment of prolonged, acute…"
 monitor_inn: "Midazolam"
-predicted_indications: ["insomnia (disease)", "myofascial pain syndrome", "obsessive-compulsive disorder", "tendinitis", "benign paroxysmal torticollis of infancy", "anxiety disorder", "agoraphobia", "myositis fibrosa", "idiopathic granulomatous myositis", "dysthymic disorder"]
+predicted_indications: ["insomnia (disease)"]
 ---
 
 # Midazolam
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Midazolam: From Prolonged Acute Convulsive Seizures to Insomnia
+## Midazolam: From Prolonged Acute Convulsive Seizures to insomnia
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ The evidence is suggestive but dated, and it does not yet support a development 
 |------|------|
 | Original Indication | Treatment of prolonged, acute, convulsive seizures in infants from 3 months to adults (Buccolam) |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.74% |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L3 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -125,7 +125,6 @@ Please refer to the SmPC for full warnings and contraindications.
 - A critical review of the 1980s–1990s hypnotic studies against current insomnia treatments.
 - Consideration of whether a suitable oral or other hypnotic formulation and route exist.
 
-**Other predicted indications (for reference):** Anxiety disorder has the strongest clinical trial base (L2, many procedural-anxiolysis trials), but this reflects situational perioperative anxiety, not chronic anxiety disorders. Obsessive-compulsive disorder, agoraphobia and dysthymic disorder have only indirect evidence. Myofascial pain syndrome, tendinitis, benign paroxysmal torticollis of infancy, myositis fibrosa and idiopathic granulomatous myositis rest on model prediction alone and have no supporting studies.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

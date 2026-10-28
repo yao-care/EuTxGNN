@@ -50,10 +50,10 @@ This is a computational prediction with very limited evidence.
 |------|------|
 | Original Indication | Treatment of maple syrup urine disease (MSUD) presenting with an acute decompensation episode in patients from birth who are not eligible for an oral and enteral BCAA-free formulation |
 | Predicted New Indication | Postmenopausal osteoporosis |
-| TxGNN Prediction Score | 99.34% |
+| TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -110,9 +110,9 @@ Several of these signals, especially kidney disease, nephrolithiasis and calcium
 
 | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Pregnancy associated osteoporosis | 99.18% | L5 | No trials or literature; likely reflects network proximity to postmenopausal osteoporosis; would need a separate pregnancy safety review. Hold |
-| Primary hereditary glaucoma | 99.13% | L5 | No trials or literature; glutamate excitotoxicity is a recognised mechanism in retinal ganglion cell injury, so supplementation is mechanistically counterintuitive and potentially harmful. Hold |
-| Gastroparesis | 99.11% | L5 | No trials; retrieved papers concern GAD65 autoantibodies, not glutamic acid as a therapy, and appear to be a name-matching artifact. Hold |
+| Pregnancy associated osteoporosis | 0.9918 | L5 | No trials or literature; likely reflects network proximity to postmenopausal osteoporosis; would need a separate pregnancy safety review. Hold |
+| Primary hereditary glaucoma | 0.9913 | L5 | No trials or literature; glutamate excitotoxicity is a recognised mechanism in retinal ganglion cell injury, so supplementation is mechanistically counterintuitive and potentially harmful. Hold |
+| Gastroparesis | 0.9911 | L5 | No trials; retrieved papers concern GAD65 autoantibodies, not glutamic acid as a therapy, and appear to be a name-matching artifact. Hold |
 
 ---
 

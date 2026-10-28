@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **renal tubular acidosis**, but
 |------|------|
 | Original Indication | Treatment of maple syrup urine disease (MSUD) presenting with an acute decompensation episode in patients from birth who are not eligible for an oral and enteral BCAA-free formulation |
 | Predicted New Indication | Renal tubular acidosis |
-| TxGNN Prediction Score | 99.47% |
+| TxGNN Prediction Score | 0.9947 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

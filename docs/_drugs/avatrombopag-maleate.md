@@ -7,14 +7,15 @@ description: "avatrombopag maleate drug repurposing predictions from TxGNN. Evid
 parent: AI Predictions (L5)
 nav_order: 59
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Avatrombopag Maleate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | marcothrombocytopenia with mitral valve insufficiency | 100.00% | DL |
-| 2 | hereditary thrombocytopenia with normal platelets | 100.00% | DL |
-| 3 | transient neonatal thrombocytopenia | 100.00% | DL |
-| 4 | dense granule disease | 99.99% | DL |
-| 5 | thrombocytopenia | 99.99% | DL |
-| 6 | amyotrophic lateral sclerosis | 99.99% | DL |
-| 7 | bilateral parasagittal parieto-occipital polymicrogyria | 99.99% | DL |
-| 8 | lower motor neuron syndrome with late-adult onset | 99.99% | DL |
-| 9 | amyotrophic lateral sclerosis, susceptibility to | 99.99% | DL |
-| 10 | Mills syndrome | 99.99% | DL |
-| 11 | monomelic amyotrophy | 99.99% | DL |
-| 12 | axial spondylometaphyseal dysplasia | 99.99% | DL |
-| 13 | amyotrohpic lateral sclerosis type 22 | 99.99% | DL |
-| 14 | autosomal dominant mitochondrial myopathy with exercise intolerance | 99.99% | DL |
-| 15 | trichomegaly-retina pigmentary degeneration-dwarfism syndrome | 99.99% | DL |
-| 16 | lethal arthrogryposis-anterior horn cell disease syndrome | 99.99% | DL |
-| 17 | platelet storage pool deficiency | 99.95% | DL |
-| 18 | neuronopathy, distal hereditary motor | 99.36% | DL |
-| 19 | melanoma | 98.55% | DL |
-| 20 | CMM7 | 98.53% | DL |
 
 *Showing top 20 of 50 predictions.*
 

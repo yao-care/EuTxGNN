@@ -7,14 +7,15 @@ description: "Methylnaltrexone Bromide drug repurposing predictions from TxGNN. 
 parent: AI Predictions (L5)
 nav_order: 374
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Methylnaltrexone Bromide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | congenital hypotrichosis milia | 78.35% | DL |
-| 2 | hypotrichosis simplex of the scalp | 77.28% | DL |
-| 3 | exercise-induced malignant hyperthermia | 76.59% | DL |
-| 4 | common cold | 76.41% | DL |
-| 5 | alopecia | 75.44% | DL |
-| 6 | diffuse alopecia areata | 75.29% | DL |
-| 7 | respiratory failure | 71.98% | DL |
-| 8 | familial periodic paralysis | 71.31% | DL |
-| 9 | obsolete hyperuricemia (disease) | 71.23% | DL |
-| 10 | trigeminal autonomic cephalalgia | 67.58% | DL |
-| 11 | adrenal gland pheochromocytoma | 67.22% | DL |
-| 12 | benign neoplasm of adrenal medulla | 66.83% | DL |
-| 13 | primary hereditary glaucoma | 66.72% | DL |
-| 14 | headache disorder | 66.03% | DL |
-| 15 | open-angle glaucoma | 65.48% | DL |
-| 16 | hypokalemic periodic paralysis | 65.35% | DL |
-| 17 | duodenum cancer | 63.26% | DL |
-| 18 | adrenal medulla cancer | 63.01% | DL |
-| 19 | sympathetic nervous system disease | 62.02% | DL |
-| 20 | hypouricemia, renal | 61.74% | DL |
 
 *Showing top 20 of 50 predictions.*
 

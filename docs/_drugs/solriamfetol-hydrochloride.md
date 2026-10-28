@@ -7,14 +7,15 @@ description: "Solriamfetol Hydrochloride drug repurposing predictions from TxGNN
 parent: AI Predictions (L5)
 nav_order: 538
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Solriamfetol Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | attention deficit-hyperactivity disorder | 99.99% | DL |
-| 2 | faciodigitogenital syndrome | 99.99% | DL |
-| 3 | insomnia (disease) | 99.97% | DL |
-| 4 | attention deficit hyperactivity disorder, inattentive type | 99.96% | DL |
-| 5 | chondromyxoid fibroma | 99.93% | DL |
-| 6 | specific developmental disorder | 99.92% | DL |
-| 7 | variably protease-sensitive prionopathy | 99.87% | DL |
-| 8 | multiple system atrophy | 99.87% | DL |
-| 9 | X-linked adrenoleukodystrophy | 99.83% | DL |
-| 10 | postural orthostatic tachycardia syndrome | 99.83% | DL |
-| 11 | disorder of peroxisomal alpha-, beta- and omega-oxidation | 99.77% | DL |
-| 12 | narcolepsy | 99.76% | DL |
-| 13 | narcolepsy-cataplexy syndrome | 99.75% | DL |
-| 14 | Creutzfeldt-Jakob disease | 99.74% | DL |
-| 15 | ACBD5 deficiency | 99.71% | DL |
-| 16 | narcolepsy, susceptibility to | 99.70% | DL |
-| 17 | megaconial type congenital muscular dystrophy | 99.57% | DL |
-| 18 | hypersomnia (disease) | 99.46% | DL |
-| 19 | circadian rhythm sleep disorder | 99.38% | DL |
-| 20 | Balo concentric sclerosis | 99.21% | DL |
 
 *Showing top 20 of 50 predictions.*
 

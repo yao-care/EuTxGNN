@@ -7,14 +7,15 @@ description: "Dasatinib Monohydrate drug repurposing predictions from TxGNN. Evi
 parent: AI Predictions (L5)
 nav_order: 159
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Dasatinib Monohydrate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | Ewing sarcoma | 99.90% | DL |
-| 2 | myeloid leukemia | 99.68% | DL |
-| 3 | liposarcoma | 99.67% | DL |
-| 4 | fibromatosis, gingival | 99.65% | DL |
-| 5 | dermatofibrosarcoma protuberans | 99.65% | DL |
-| 6 | ovarian myxoid liposarcoma | 99.59% | DL |
-| 7 | ganglioneuroblastoma (disease) | 99.59% | DL |
-| 8 | vertebral anomalies and variable endocrine and T-cell dysfunction | 99.59% | DL |
-| 9 | inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia | 99.58% | DL |
-| 10 | hamartoma of lung | 99.56% | DL |
-| 11 | fibroma of lung | 99.55% | DL |
-| 12 | junctional epidermolysis bullosa | 99.53% | DL |
-| 13 | lung benign neoplasm | 99.52% | DL |
-| 14 | Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome | 99.52% | DL |
-| 15 | lung hilum carcinoma | 99.50% | DL |
-| 16 | lung cancer | 99.48% | DL |
-| 17 | retroperitoneal neoplasm | 99.48% | DL |
-| 18 | neuroblastoma | 99.48% | DL |
-| 19 | pulmonary sulcus neoplasm | 99.47% | DL |
-| 20 | lung germ cell tumor | 99.47% | DL |
 
 *Showing top 20 of 50 predictions.*
 

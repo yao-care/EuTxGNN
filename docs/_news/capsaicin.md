@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Capsaicin with the latest he
 <li>Otitis externa</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/capsaicin/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (1)

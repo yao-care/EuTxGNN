@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Emicizumab (Hemlibra) is a bispecific antibody originally used for routine prevention of bleeding in patients with haemophilia A.
-The TxGNN model predicts it may be effective for **pseudo-von Willebrand disease**, but this rests on a graph-based prediction alone, with **0 clinical trials** and **0 publications** supporting it.
+The TxGNN model (deep learning) predicts it may be effective for **pseudo-von Willebrand disease** (score 0.9999). This score comes from the TxGNN model and may reflect similarities the model learned between related diseases, not biological evidence. There are **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **pseudo-von Willebrand disease
 |------|------|
 | Original Indication | Routine prophylaxis of bleeding episodes in patients with haemophilia A (congenital factor VIII deficiency), with or without factor VIII inhibitors |
 | Predicted New Indication | Pseudo-von Willebrand disease |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -73,7 +73,7 @@ Currently no related literature available.
 |---------|------|------|-----------|
 | EMEA/H/C/004406 | Hemlibra | — | Hemlibra is indicated for routine prophylaxis of bleeding episodes in patients with haemophilia A (congenital factor VIII deficiency): with factor VIII inh... |
 
-This authorization is recorded as cancelled, and no valid authorizations were found.
+This drug is marketed in this country, with 1 valid licence out of 1.
 
 ## Safety Considerations
 

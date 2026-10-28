@@ -4,17 +4,17 @@ title: Tezacaftor
 parent: AI Predictions (L5)
 nav_order: 606
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Tezacaftor: predicted new indication HIV infectious disease (evidence level L5). Approved use: Cystic fibrosis (CF) in patients aged 6 years and older with specific…"
 monitor_inn: "Tezacaftor"
-predicted_indications: ["HIV infectious disease", "leprosy", "multiple endocrine neoplasia", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "female breast carcinoma", "homozygous familial hypercholesterolemia", "amyotrophic lateral sclerosis"]
+predicted_indications: ["HIV infectious disease", "leprosy", "multiple endocrine neoplasia"]
 ---
 
 # Tezacaftor
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,17 +46,17 @@ Tezacaftor is a CFTR corrector used in combination regimens to treat cystic fibr
 |------|------|
 | Original Indication | Cystic fibrosis (CF) in patients aged 6 years and older with specific CFTR mutations, in combination with ivacaftor |
 | Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 99.24% |
+| TxGNN Prediction Score | 0.9924 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (all authorizations cancelled) |
-| Number of Authorizations | 3 |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, tezacaftor is a CFTR corrector that improves the folding and trafficking of F508del-CFTR protein to the cell surface. It is used together with ivacaftor, or in triple combinations such as Kaftrio and Alyftrek, for cystic fibrosis.
 
-The link between cystic fibrosis and HIV is weak. No mechanistic connection to antiviral activity has been identified. The high TxGNN score (0.992) comes from network-based proximity in a knowledge graph, not from biological or clinical evidence. Other top-ranked predictions (leprosy, simian immunodeficiency virus infection, feline immunodeficiency syndrome) appear to reflect the same graph-proximity pattern and should be interpreted with caution.
+The link between cystic fibrosis and HIV is weak. No mechanistic connection to antiviral activity has been identified. The high TxGNN score (0.9924) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological or clinical evidence. The other top-ranked prediction (leprosy) appears to reflect the same pattern and should be interpreted with caution.
 
 In short, this prediction should be treated as a hypothesis-generating signal only.
 
@@ -76,7 +76,7 @@ Currently no related literature available.
 | EMEA/H/C/006382 | Alyftrek | Tablet | Cystic fibrosis in people aged 6 years and older with at least one non-Class I CFTR mutation |
 | EMEA/H/C/005269 | Kaftrio | Tablet, granules | Cystic fibrosis in patients aged 2 years and older with at least one non-Class I CFTR mutation, in combination with ivacaftor |
 
-All three authorizations are listed as cancelled.
+All three licences are valid, and the drug is marketed.
 
 ## Safety Considerations
 
@@ -89,14 +89,13 @@ The only drug-interaction record in the compiled data is a pharmacological targe
 **Decision: Hold**
 
 **Rationale:**
-The prediction for HIV infectious disease rests only on a knowledge-graph score. There are no clinical trials or publications, and no plausible mechanistic link between CFTR correction and antiviral activity. All EU authorizations are also listed as cancelled, which adds uncertainty about current market availability.
+The prediction for HIV infectious disease rests only on a TxGNN model (deep learning) score. There are no clinical trials or publications, and no plausible mechanistic link between CFTR correction and antiviral activity. The drug is marketed, with 3 valid licences out of 3.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for tezacaftor (for example from DrugBank)
 - Warnings and contraindications from the SmPC, which are currently missing
 - Preclinical evidence (for example in vitro antiviral assays) showing any anti-HIV activity
 - Verification of the reason for the cancelled EU authorization status
-- Review of lower-ranked predictions with some conceptual rationale (such as amyotrophic lateral sclerosis via protein misfolding) as potentially more plausible alternatives
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

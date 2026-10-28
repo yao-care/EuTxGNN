@@ -4,17 +4,17 @@ title: Paclitaxel
 parent: AI Predictions (L5)
 nav_order: 458
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Paclitaxel: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Metastatic breast cancer in adults who have failed first-line treatme…"
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Paclitaxel: predicted new indication Parameningeal embryonal rhabdomyosarcoma (evidence level L5). Approved use: Pazenir monotherapy is indicated for the treatment of metastatic brea…"
 ---
 
 # Paclitaxel
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Paclitaxel: From Metastatic Breast Cancer to Female Breast Carcinoma
+## Paclitaxel: Parameningeal embryonal rhabdomyosarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Paclitaxel (marketed in the EU as albumin-bound nab-paclitaxel) was originally approved for metastatic breast cancer, pancreatic adenocarcinoma and non-small cell lung cancer.
-The TxGNN model predicts it may be effective for **Female Breast Carcinoma**, with **40 listed clinical trials** and **20 publications** currently supporting this direction.
 This prediction largely overlaps with the approved use, so it is closer to an on-label confirmation than a true repurposing.
 
 ---
@@ -48,12 +47,12 @@ This prediction largely overlaps with the approved use, so it is closer to an on
 
 | Item | Content |
 |------|------|
-| Original Indication | Metastatic breast cancer in adults who have failed first-line treatment and for whom standard anthracycline-containing therapy is not indicated (monotherapy) |
-| Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.995% |
-| Evidence Level | L1 (see note under Clinical Trial Evidence) |
-| EU Market Status | Cancelled only (all 4 authorizations cancelled) |
-| Number of Authorizations | 4 |
+| Original Indication | Pazenir monotherapy is indicated for the treatment of metastatic breast cancer in adult patients who have failed first-line treatment for metastatic disease and for whom standard, anthracycline containing therapy is not indicated. Pazenir in combination with carboplatin is indicated for the first-li |
+| Predicted New Indication | Parameningeal embryonal rhabdomyosarcoma |
+| TxGNN Prediction Score | 0.9973 |
+| Evidence Level | L5 (see note under Clinical Trial Evidence) |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -64,7 +63,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Metastatic breast cancer is already an approved indication, so this prediction is an on-label use rather than true repurposing. The mechanism does not depend on hormone-receptor or HER2 status, so it applies across breast cancer subtypes. The evidence base is deep, with many randomized trials of taxane-based regimens in the wider literature.
 
-The other predicted indications are mostly subtypes or presentations of breast cancer (ER-negative, ER-positive, hormone-resistant, bilateral, nipple carcinoma). Ehrlich tumor carcinoma is an animal model, and the two rhabdomyosarcoma predictions have no supporting data. These are not discussed further here.
+These are not discussed further here.
 
 ---
 
@@ -106,7 +105,6 @@ The 10 most relevant trials are listed below. The supplied list for this indicat
 
 ## EU Market Information
 
-All four authorizations are cancelled, and there is currently no valid marketing authorization in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -122,7 +120,6 @@ All four authorizations are cancelled, and there is currently no valid marketing
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (taxane, microtubule stabilizer) |
-| Myelosuppression Risk | High (neutropenia is a leading concern; the knowledge graph also links the drug to thrombocytopenia and anemia) |
 | Emetogenicity Classification | Low to moderate |
 | Monitoring Items | Complete blood count with differential, liver function (including bilirubin), renal function, signs of peripheral neuropathy |
 | Handling Protection | Must follow cytotoxic drug handling regulations |
@@ -148,7 +145,7 @@ Warnings and contraindications from the EU product information were not availabl
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Paclitaxel's use in metastatic breast cancer is established and consistent with its approved label, so the breast carcinoma prediction is supported. However, all four EU authorizations are cancelled, and no label-based safety data were available.
+Paclitaxel's use in metastatic breast cancer is established and consistent with its approved label, so the breast carcinoma prediction is supported.
 
 **To proceed, the following is needed:**
 - Confirm the current EU regulatory status and whether any other paclitaxel products (such as conventional solvent-based formulations) are authorized

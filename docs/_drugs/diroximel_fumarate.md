@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Diroximel Fumarate: predicted new indication Diabetic cataract (evidence level L5). Approved use: Treatment of adult patients with relapsing remitting multiple scleros…"
 monitor_inn: "Diroximel fumarate"
-predicted_indications: ["diabetic cataract", "diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "immature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "mature cataract", "cortical cataract", "nuclear senile cataract"]
+predicted_indications: ["diabetic cataract", "diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "immature cataract", "nuclear senile cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "cortical cataract", "mature cataract"]
 ---
 
 # Diroximel Fumarate
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **diabetic cataract**, but this
 |------|------|
 | Original Indication | Treatment of adult patients with relapsing remitting multiple sclerosis |
 | Predicted New Indication | Diabetic cataract |
-| TxGNN Prediction Score | 99.999% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Imiglucerase
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 314
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Imiglucerase: predicted new indication Hurler syndrome (evidence level L4). Approved use: Long-term enzyme replacement therapy for non-neuronopathic (Type 1) o…"
 monitor_inn: "Imiglucerase"
-predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "lysosomal storage disease with skeletal involvement", "Wolman disease with hypolipoproteinemia and acanthocytosis", "Wolman disease", "proximal myopathy with extrapyramidal signs", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant"]
+predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
 ---
 
 # Imiglucerase
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **Hurler syndrome**, but **no c
 |------|------|
 | Original Indication | Long-term enzyme replacement therapy for non-neuronopathic (Type 1) or chronic neuronopathic (Type 3) Gaucher disease with clinically significant non-neurological manifestations (anaemia, thrombocytopenia, bone disease, hepatomegaly or splenomegaly) |
 | Predicted New Indication | Hurler syndrome |
-| TxGNN Prediction Score | 99.52% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| TxGNN Prediction Score | 0.9952 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Hurler syndrome (MPS I) is caused by a deficiency of a different lysosomal enzyme, alpha-L-iduronidase, which breaks down glycosaminoglycans. Imiglucerase does not supply this missing enzyme and acts on a different substrate. The only shared element is the broad concept of lysosomal storage disease and enzyme replacement therapy.
 
-The high TxGNN score (99.52%) most likely reflects closeness among lysosomal diseases in the knowledge graph rather than a direct enzymatic rationale. It should be read as a hypothesis-generating signal, not as evidence of efficacy.
+The high TxGNN score (0.9952) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be read as a hypothesis-generating signal, not as evidence of efficacy.
 
 ## Clinical Trial Evidence
 

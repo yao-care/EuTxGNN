@@ -4,7 +4,7 @@ title: Salmeterol
 parent: High Evidence (L1-L2)
 nav_order: 546
 evidence_level: L1
-indication_count: 7
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Salmeterol: predicted new indication Bronchitis (evidence level L1). Approved use: Regular treatment of asthma in adults and adolescents aged 12 years a…"
 monitor_inn: "salmeterol"
@@ -14,7 +14,7 @@ predicted_indications: ["bronchitis", "respiratory malformation", "obstructive l
 # Salmeterol
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **7** 
+Evidence Level: **L1** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **bronchitis**, with **9 clinic
 |------|------|
 | Original Indication | Regular treatment of asthma in adults and adolescents aged 12 years and older not adequately controlled with inhaled corticosteroids and "as needed" inhaled short-acting beta2 agonists |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L1 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

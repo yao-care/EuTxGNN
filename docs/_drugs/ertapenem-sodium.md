@@ -7,14 +7,15 @@ description: "Ertapenem Sodium drug repurposing predictions from TxGNN. Evidence
 parent: AI Predictions (L5)
 nav_order: 224
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Ertapenem Sodium
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | bacterial arthritis | 99.72% | DL |
-| 2 | staphylococcus aureus infection | 99.28% | DL |
-| 3 | Peptostreptococcus infectious disease | 99.23% | DL |
-| 4 | streptococcal pneumonia | 99.00% | DL |
-| 5 | hyperamylasemia | 98.75% | DL |
-| 6 | polyclonal hyperviscosity syndrome | 98.75% | DL |
-| 7 | congenital analbuminemia | 98.54% | DL |
-| 8 | toxocariasis | 98.44% | DL |
-| 9 | urinary tract infection (disease) | 98.34% | DL |
-| 10 | blood group incompatibility | 98.26% | DL |
-| 11 | gonococcal urethritis | 98.13% | DL |
-| 12 | Ureaplasma urethritis | 98.13% | DL |
-| 13 | Lyme disease | 98.12% | DL |
-| 14 | premalignant hematological system disease | 98.08% | DL |
-| 15 | infectious otitis media | 97.92% | DL |
-| 16 | toxascariasis | 97.89% | DL |
-| 17 | anisakiasis | 97.88% | DL |
-| 18 | monoclonal gammopathy | 97.84% | DL |
-| 19 | hematological disease associated with an acquired peripheral neuropathy | 97.76% | DL |
-| 20 | chronic otitis media | 97.67% | DL |
 
 *Showing top 20 of 50 predictions.*
 

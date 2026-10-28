@@ -4,17 +4,17 @@ title: Tocofersolan
 parent: AI Predictions (L5)
 nav_order: 625
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Tocofersolan: predicted new indication Amenorrhea (evidence level L5). Approved use: Vitamin E deficiency due to digestive malabsorption in paediatric pat…"
+description: "Tocofersolan: predicted new indication amenorrhea (disease) (evidence level L5). Approved use: Vitamin E deficiency due to digestive malabsorption in paediatric pat…"
 monitor_inn: "Tocofersolan"
-predicted_indications: ["amenorrhea (disease)", "acne (disease)", "infectious bovine rhinotracheitis", "malignant catarrh", "conjunctivitis", "cytomegalovirus infection", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "roseolovirus infectious disease", "peripheral arterial disease"]
+predicted_indications: ["amenorrhea (disease)", "acne (disease)"]
 ---
 
 # Tocofersolan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Tocofersolan: From Vitamin E Deficiency in Cholestasis to Amenorrhea
+## Tocofersolan: From Vitamin E Deficiency in Cholestasis to amenorrhea (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **amenorrhea**, but there are c
 |------|------|
 | Original Indication | Vitamin E deficiency due to digestive malabsorption in paediatric patients with congenital or hereditary chronic cholestasis (from birth in term newborns to 16 or 18 years of age, depending on the region) |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.31% |
+| TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -91,7 +91,7 @@ The prediction has no supporting clinical trials or publications (Evidence Level
 - Clarification of the cancelled authorization status and available dosage forms and routes
 - A clinical rationale showing why amenorrhea is a suitable target compared with existing treatments
 
-*Other predictions (acne, conjunctivitis, peripheral arterial disease and others) also have score-only support. Two veterinary diseases (infectious bovine rhinotracheitis, malignant catarrh) are likely knowledge-graph artifacts and not relevant to human use.*
+*Another prediction (acne) also has score-only support.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

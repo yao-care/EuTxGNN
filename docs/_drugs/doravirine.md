@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Doravirine
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 197
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Doravirine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV-1 infection in adults and adolescents aged 12 years and older wei…"
 monitor_inn: "Doravirine"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor", "male reproductive organ cancer"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Doravirine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 |------|------|
 | Original Indication | HIV-1 infection in adults and adolescents aged 12 years and older weighing at least 35 kg, without past or present evidence of resistance to the NNRTI class (in combination with other antiretrovirals) |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| TxGNN Prediction Score | 0.9993 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,7 +63,7 @@ Simian immunodeficiency virus (SIV) is a close lentiviral relative of HIV, so a 
 - NNRTIs generally have poor activity against HIV-2 and SIV, which are naturally resistant.
 - The only supporting paper concerns islatravir, a nucleoside reverse transcriptase translocation inhibitor, not doravirine. It provides only indirect context.
 
-The high score likely reflects proximity to HIV-related nodes in the knowledge graph rather than direct evidence.
+The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -79,7 +79,7 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/004747 | Pifeltro (status: cancelled) | Not specified | Pifeltro is indicated, in combination with other antiretroviral medicinal products, for the treatment of adults, and adolescents aged 12 years and older weighing... |
+| EMEA/H/C/004747 | Pifeltro (status: valid) | Not specified | Pifeltro is indicated, in combination with other antiretroviral medicinal products, for the treatment of adults, and adolescents aged 12 years and older weighing... |
 
 ## Safety Considerations
 

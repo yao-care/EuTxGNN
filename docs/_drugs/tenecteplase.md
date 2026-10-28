@@ -4,17 +4,17 @@ title: Tenecteplase
 parent: AI Predictions (L5)
 nav_order: 599
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Tenecteplase: predicted new indication Posterolateral myocardial infarction (evidence level L5). Approved use: Thrombolytic treatment of suspected myocardial infarction with persis…"
 monitor_inn: "Tenecteplase"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
+description: "Tenecteplase: predicted new indication Congenital coronary artery anomaly (evidence level L5). Approved use: Metalyse is indicated for the thrombolytic treatment of suspected myo…"
 ---
 
 # Tenecteplase
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Tenecteplase: From Myocardial Infarction and Acute Ischaemic Stroke to Posterolateral Myocardial Infarction
+## Tenecteplase: Congenital coronary artery anomaly
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Tenecteplase is a clot-dissolving (thrombolytic) drug, originally used to treat ST-elevation myocardial infarction and acute ischaemic stroke.
-The TxGNN model predicts it may be effective for **posterolateral myocardial infarction**,
 but **no clinical trials** and **no publications** specific to this subtype are currently available. This is effectively a subtype of the already approved indication rather than a true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Thrombolytic treatment of suspected myocardial infarction with persistent ST elevation or recent left-bundle-branch block within six hours of symptom onset; thrombolytic treatment of acute ischaemic stroke within 4.5 hours from last known well, after exclusion of intracranial haemorrhage |
-| Predicted New Indication | Posterolateral myocardial infarction |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L4 (no direct studies; indirect support from the approved parent indication) |
-| EU Market Status | Cancelled only (the single Metalyse authorization is recorded as cancelled) |
-| Number of Authorizations | 1 |
+| Original Indication | Metalyse is indicated for the thrombolytic treatment of suspected myocardial infarction with persistent ST elevation or recent left-bundle-branch block within six hours after the onset of acute-myocardial-infarction symptoms. Metalyse is indicated in adults for the thrombolytic treatment of acute is |
+| Predicted New Indication | Congenital coronary artery anomaly |
+| TxGNN Prediction Score | 0.9961 |
+| Evidence Level | L5 (no direct studies; indirect support from the approved parent indication) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +59,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Posterolateral myocardial infarction is an anatomical subtype of the same disease. The cause is the same (a thrombotic blockage of a coronary artery), so the mechanism applies directly. The very high TxGNN score likely reflects this overlap with the approved indication.
 
-Because no trials or literature specific to this subtype were provided, the support is indirect. A closely related prediction, posteroinferior myocardial infarction (score 99.87%), has the same profile. Other predictions among the top 10 (for example chromosomal deletion and red-cell enzyme disorders) have no identifiable mechanistic link and appear to be model artefacts.
+Because no trials or literature specific to this subtype were provided, the support is indirect. Other predictions among the top 10 (for example chromosomal deletion and red-cell enzyme disorders) have no identifiable mechanistic link and appear to be model artefacts.
 
 ## Clinical Trial Evidence
 
@@ -93,7 +92,7 @@ Please refer to the SmPC for warnings and contraindications, as these were not a
 **Decision: Hold**
 
 **Rationale:**
-Posterolateral myocardial infarction falls under the already approved STEMI indication, so the prediction adds little new. There is no direct trial or literature evidence, and the EU authorization is recorded as cancelled. Safety label data, a blocking gap, is also missing.
+There is no direct trial or literature evidence, and the EU authorization is recorded as cancelled. Safety label data, a blocking gap, is also missing.
 
 **To proceed, the following is needed:**
 - Confirm the current EU authorization status of Metalyse

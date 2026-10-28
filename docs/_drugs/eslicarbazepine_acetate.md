@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Eslicarbazepine Acetate
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 242
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Eslicarbazepine Acetate: predicted new indication Adolescent/adult onset autosomal dominant epilepsy with auditory feat… (evidence level L5). Approved use: Adjunctive therapy in adults…"
-monitor_inn: "Eslicarbazepine acetate"
-predicted_indications: ["restless legs syndrome", "guanidinoacetate methyltransferase deficiency", "beta-ketothiolase deficiency"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Eslicarbazepine Acetate: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Eslicarbazepine Acetate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,75 +32,46 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Eslicarbazepine Acetate: From Partial-Onset Seizures to Adolescent/Adult Onset Autosomal Dominant Epilepsy with Auditory Features
+<!-- known-uses-page -->
+<!-- description: Eslicarbazepine Acetate: known uses and market status in the European Union; currently no new candidate indication -->
+## Eslicarbazepine Acetate: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model has no candidate with a score of 0.99 or higher for Eslicarbazepine Acetate, so there is currently no new predicted indication. The uses recorded for this drug are listed below. They are the drug's own recorded uses, not model candidates.
 
-Eslicarbazepine acetate is a once-daily antiseizure medication, originally used as adjunctive therapy for partial-onset seizures.
-The TxGNN model predicts it may be effective for **adolescent/adult onset autosomal dominant epilepsy with auditory features (ADEAF)**, but this top-ranked prediction currently has **0 clinical trials** and **0 publications** supporting it.
-Related epilepsy conditions further down the prediction list (e.g., status epilepticus, generalized tonic-clonic seizures, visual epilepsy) have more indirect literature support.
-
----
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Adjunctive therapy in adults, adolescents and children aged above 6 years with partial-onset seizures, with or without secondary generalisation |
-| Predicted New Indication | Adolescent/adult onset autosomal dominant epilepsy with auditory features |
-| TxGNN Prediction Score | 98.73% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
-| Recommended Decision | Hold |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 3 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
----
+## Known uses recorded for this drug
 
-## Why is This Prediction Reasonable?
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| epilepsy | licence in another country |
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on published literature, eslicarbazepine acetate is a prodrug whose active metabolite, eslicarbazepine, blocks voltage-gated sodium channels, mainly by enhancing slow inactivation. It is structurally related to carbamazepine and oxcarbazepine.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-ADEAF is a genetic focal epilepsy (commonly LGI1-related) characterized by focal seizures, which is the seizure type for which eslicarbazepine is already approved as adjunctive therapy. The mechanistic rationale is therefore plausible through seizure-type overlap. However, there are no trials or publications specific to ADEAF, so the prediction rests on the model signal and the shared seizure type alone.
-
-Other predictions in the list follow a similar pattern. Reflex-type seizures (orgasm-induced, thinking, micturition-induced) and visual epilepsy are plausible extensions of the focal seizure label. Metabolic disorders (guanidinoacetate methyltransferase deficiency, beta-ketothiolase deficiency) have little mechanistic connection to sodium channel blockade. Restless legs syndrome is likely a class-level signal from other antiseizure drugs.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for the top-ranked predicted indication (ADEAF), and none are listed for any of the other predicted indications.
-
----
-
-## Literature Evidence
-
-Currently no related literature available for the top-ranked predicted indication (ADEAF).
-
-For reference, the closest evidence found for other predicted epilepsy-related indications is indirect:
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [37358909](https://pubmed.ncbi.nlm.nih.gov/37358909/) | 2023 | Review | Epileptic Disord | Efficacy and safety of eslicarbazepine acetate in status epilepticus, based on a large epilepsy register |
-| [37366637](https://pubmed.ncbi.nlm.nih.gov/37366637/) | 2023 | Cohort | Epilepsia | Oral loading (30 mg/kg) explored in 30 adults with status epilepticus or acute repetitive seizures |
-| [34155624](https://pubmed.ncbi.nlm.nih.gov/34155624/) | 2021 | Meta-analysis | Cochrane Database Syst Rev | Add-on eslicarbazepine acetate for drug-resistant focal epilepsy |
-| [35061214](https://pubmed.ncbi.nlm.nih.gov/35061214/) | 2022 | Meta-analysis | Drugs | Network meta-analysis of third-generation antiseizure medications as adjunctive treatment of focal-onset seizures in adults |
-| [35363878](https://pubmed.ncbi.nlm.nih.gov/35363878/) | 2022 | Meta-analysis | Cochrane Database Syst Rev | Network meta-analysis of antiepileptic drug monotherapy for epilepsy |
-| [29508243](https://pubmed.ncbi.nlm.nih.gov/29508243/) | 2018 | Meta-analysis | CNS Drugs | Adjunctive eslicarbazepine acetate in pediatric focal epilepsy |
-| [38183687](https://pubmed.ncbi.nlm.nih.gov/38183687/) | 2024 | Not classified | Epilepsy Res | Adjunctive eslicarbazepine acetate in focal to bilateral tonic-clonic seizures |
-| [30619030](https://pubmed.ncbi.nlm.nih.gov/30619030/) | 2018 | Cohort | Front Neurol | Effects of eslicarbazepine acetate on EEG activity and connectivity in focal epilepsy |
-
-These papers concern focal epilepsy in general, or status epilepticus in a preliminary setting. They do not directly address ADEAF.
-
----
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| partial epilepsy |
+| partial motor epilepsy |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000988 (cancelled) | Zebinix | Not specified | Adjunctive therapy in adults, adolescents and children aged above 6 years, with partial-onset seizures with or without secondary generalisation |
-
----
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/000988 | Zebinix |  | Valid |
 
 ## Safety Considerations
 
@@ -113,18 +83,6 @@ No drug-interaction records were found in the data compiled for this report. Som
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The top-ranked prediction (ADEAF) is supported only by the model score (98.73%) and a plausible seizure-type overlap, with no trials or publications. The EU authorization is also cancelled, which adds uncertainty about the drug's regulatory availability.
-
-**To proceed, the following is needed:**
-- Case series, registry data or trials of eslicarbazepine in ADEAF or LGI1-related epilepsy
-- Mechanism of action data and SmPC warnings and contraindications (currently missing)
-- Clarification of why the EU authorization was cancelled and whether any presentation remains available
-- Consideration of a better-supported alternative: status epilepticus or other focal-seizure variants (e.g., visual epilepsy) may be stronger research questions, though evidence remains indirect and an oral-only formulation limits acute use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

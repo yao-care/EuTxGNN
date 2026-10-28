@@ -7,14 +7,15 @@ description: "Dacomitinib Monohydrate drug repurposing predictions from TxGNN. E
 parent: AI Predictions (L5)
 nav_order: 149
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Dacomitinib Monohydrate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | rheumatoid arthritis | 97.79% | DL |
-| 2 | homozygous familial hypercholesterolemia | 96.92% | DL |
-| 3 | brachydactyly-syndactyly syndrome | 96.78% | DL |
-| 4 | pulmonary hypertension | 96.51% | DL |
-| 5 | nephrogenic syndrome of inappropriate antidiuresis | 96.44% | DL |
-| 6 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 96.44% | DL |
-| 7 | kyphoscoliotic heart disease | 96.18% | DL |
-| 8 | multiple endocrine neoplasia | 96.18% | DL |
-| 9 | amyotrophic lateral sclerosis | 95.12% | DL |
-| 10 | leprosy | 94.95% | DL |
-| 11 | Prinzmetal angina | 94.92% | DL |
-| 12 | migraine disorder | 94.81% | DL |
-| 13 | hyperthyroidism | 94.70% | DL |
-| 14 | female breast carcinoma | 94.51% | DL |
-| 15 | Mills syndrome | 94.50% | DL |
-| 16 | amyotrophic lateral sclerosis, susceptibility to | 94.48% | DL |
-| 17 | amyotrohpic lateral sclerosis type 22 | 94.46% | DL |
-| 18 | migraine with brainstem aura | 94.39% | DL |
-| 19 | resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta | 94.28% | DL |
-| 20 | migraine with or without aura, susceptibility to | 94.24% | DL |
 
 *Showing top 20 of 50 predictions.*
 

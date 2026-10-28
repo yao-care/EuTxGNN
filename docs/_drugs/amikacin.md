@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Amikacin
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 44
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Amikacin: predicted new indication Paratyphoid fever (evidence level L4). Approved use: NTM lung infections caused by Mycobacterium avium Complex (MAC) in ad…"
@@ -14,7 +14,7 @@ predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate ep
 # Amikacin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **paratyphoid fever**, but ther
 |------|------|
 | Original Indication | NTM lung infections caused by *Mycobacterium avium* Complex (MAC) in adults with limited treatment options who do not have cystic fibrosis |
 | Predicted New Indication | Paratyphoid fever |
-| TxGNN Prediction Score | 99.82% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| TxGNN Prediction Score | 0.9982 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

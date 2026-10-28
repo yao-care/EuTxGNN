@@ -4,17 +4,17 @@ title: Parecoxib
 parent: Medium Evidence (L3-L4)
 nav_order: 467
 evidence_level: L3
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Parecoxib: predicted new indication Migraine disorder (evidence level L3). Approved use: Short-term treatment of postoperative pain in adults"
 monitor_inn: "Parecoxib"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "pulmonary hypertension", "headache disorder", "kyphoscoliotic heart disease", "trigeminal autonomic cephalalgia", "atrophoderma vermiculata", "rheumatoid arthritis", "ulerythema ophryogenesis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension"]
 ---
 
 # Parecoxib
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Support is limited: **0 registered clinical trials** and **1 clinical comparison
 |------|------|
 | Original Indication | Short-term treatment of postoperative pain in adults |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.55% |
+| TxGNN Prediction Score | 0.9955 |
 | Evidence Level | L3 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -88,7 +88,7 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/000381 | Dynastat | Not specified | For the short-term treatment of postoperative pain in adults. (status: cancelled) |
+| EMEA/H/C/000381 | Dynastat | Not specified | For the short-term treatment of postoperative pain in adults. (status: valid) |
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Trabectedin
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 632
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Trabectedin: predicted new indication Female breast carcinoma (evidence level L2). Approved use: Advanced soft-tissue sarcoma after failure of anthracyclines and ifos…"
 monitor_inn: "Trabectedin"
-predicted_indications: ["female breast carcinoma", "ovarian thecoma", "bilateral breast carcinoma"]
+predicted_indications: ["female breast carcinoma"]
 ---
 
 # Trabectedin
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ with **1 registered clinical trial** (a QT-interval safety study, not an efficac
 |------|------|
 | Original Indication | Advanced soft-tissue sarcoma after failure of anthracyclines and ifosfamide (mainly liposarcoma and leiomyosarcoma); with PLD for relapsed platinum-sensitive ovarian cancer |
 | Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.73% |
-| Evidence Level | L2 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 2 (both cancelled) |
+| TxGNN Prediction Score | 0.9973 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -87,8 +87,8 @@ The link remains plausible rather than proven. Clinical activity in breast cance
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/000773 | Yondelis (cancelled) | Not specified | Advanced soft-tissue sarcoma after failure of anthracyclines and ifosfamide, or in patients unsuited to these agents. Efficacy data... |
-| EMEA/H/C/006433 | Trabectedin Accord (cancelled) | Not specified | Adult patients with advanced soft tissue sarcoma after failure of anthracyclines and ifosfamide, or unsuited to these agents. Efficacy... |
+| EMEA/H/C/000773 | Yondelis (valid) | Not specified | Advanced soft-tissue sarcoma after failure of anthracyclines and ifosfamide, or in patients unsuited to these agents. Efficacy data... |
+| EMEA/H/C/006433 | Trabectedin Accord (valid) | Not specified | Adult patients with advanced soft tissue sarcoma after failure of anthracyclines and ifosfamide, or unsuited to these agents. Efficacy... |
 
 ## Cytotoxicity
 

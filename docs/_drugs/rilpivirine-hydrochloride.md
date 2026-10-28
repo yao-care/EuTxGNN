@@ -7,14 +7,15 @@ description: "rilpivirine hydrochloride drug repurposing predictions from TxGNN.
 parent: AI Predictions (L5)
 nav_order: 492
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Rilpivirine Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | HIV infectious disease | 99.98% | DL |
-| 2 | feline acquired immunodeficiency syndrome | 99.97% | DL |
-| 3 | simian immunodeficiency virus infection | 99.97% | DL |
-| 4 | neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 99.97% | DL |
-| 5 | AIDS | 99.84% | DL |
-| 6 | congenital human immunodeficiency virus | 99.56% | DL |
-| 7 | AIDS related complex | 99.56% | DL |
-| 8 | obsolete familial combined hyperlipidemia | 98.57% | DL |
-| 9 | chronic hepatitis C virus infection | 95.16% | DL |
-| 10 | fibroma of prostate | 93.87% | DL |
-| 11 | benign reproductive system neoplasm | 93.23% | DL |
-| 12 | Brenner tumor | 93.21% | DL |
-| 13 | benign prostate phyllodes tumor | 92.81% | DL |
-| 14 | male reproductive organ cancer | 91.47% | DL |
-| 15 | prostate leiomyoma | 90.20% | DL |
-| 16 | prostate cancer/brain cancer susceptibility | 89.94% | DL |
-| 17 | hepatitis C virus infection | 86.67% | DL |
-| 18 | hepatitis B virus infection | 85.81% | DL |
-| 19 | hepatitis E virus infection | 83.43% | DL |
-| 20 | hepatitis, viral, animal | 83.26% | DL |
 
 *Showing top 20 of 50 predictions.*
 

@@ -6,9 +6,9 @@ nav_order: 679
 evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Voxilaprevir: predicted new indication Hepatitis B virus infection (evidence level L4). Approved use: Chronic hepatitis C virus (HCV) infection in patients aged 12 years a…"
 monitor_inn: "voxilaprevir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "chronic hepatitis B virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
+description: "Voxilaprevir: predicted new indication Hepatitis B virus infection (evidence level L4). Approved use: Vosevi is indicated for the treatment of chronic hepatitis C virus (H…"
 ---
 
 # Voxilaprevir
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Voxilaprevir: From Chronic Hepatitis C to Hepatitis B Virus Infection
+## Voxilaprevir: Hepatitis B virus infection
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **hepatitis B virus infection**
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic hepatitis C virus (HCV) infection in patients aged 12 years and older and weighing at least 30 kg |
+| Original Indication | Vosevi is indicated for the treatment of chronic hepatitis C virus (HCV) infection in patients aged 12 years and older and weighing at least 30 kg. (see sections 4.2, 4.4 and 5.1). |
 | Predicted New Indication | Hepatitis B virus infection |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **hepatitis B virus infection**
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, voxilaprevir is an HCV NS3/4A protease inhibitor used in the Vosevi combination, and its efficacy in chronic hepatitis C is well established.
 
-The prediction is not mechanistically supported. HBV has no NS3/4A protease. It replicates through a reverse transcriptase/polymerase and a different replication cycle, so there is no plausible direct target overlap. The high TxGNN score most likely reflects network proximity between hepatitis C and other hepatotropic viral diseases in the knowledge graph, not a shared drug target.
+The prediction is not mechanistically supported. HBV has no NS3/4A protease. It replicates through a reverse transcriptase/polymerase and a different replication cycle, so there is no plausible direct target overlap. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as hepatitis C and other hepatotropic viral diseases, not biological evidence.
 
 The retrieved literature concerns HCV retreatment, and HBV appears only incidentally (drug pricing, dental bloodborne-infection markers, a conference report). There is no direct evidence of anti-HBV activity. The other top-ranked predictions (hepatitis E, hepatitis A, flavivirus diseases, HIV and related) are similarly weak: none has a clear mechanistic link, and the trials linked to them are HCV or HIV/HCV studies.
 
@@ -97,7 +97,6 @@ None of these publications evaluates voxilaprevir against HBV. They describe HCV
 |---------|------|------|-----------|
 | EMEA/H/C/004350 | Vosevi | Not specified | Treatment of chronic hepatitis C virus (HCV) infection in patients aged 12 years and older and weighing at least 30 kg. (see sections 4.2, 4.4 and 5.1). |
 
-The authorization is cancelled, so there is currently no valid EU marketing authorization.
 
 ---
 

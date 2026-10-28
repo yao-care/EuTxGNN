@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Prilocaine: From Premature Ejaculation to Neuralgia
+## Prilocaine: From Premature Ejaculation to Papillary Conjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,21 +47,21 @@ The TxGNN model's top-ranked prediction is **papillary conjunctivitis**, but tha
 |------|------|
 | Original Indication | Treatment of primary premature ejaculation in adult men |
 | Predicted New Indication | Papillary conjunctivitis (top-ranked prediction); neuralgia is the best-supported candidate |
-| TxGNN Prediction Score | 99.78% (papillary conjunctivitis); 99.34% (neuralgia) |
+| TxGNN Prediction Score | 0.9978 (papillary conjunctivitis); 0.9934 (neuralgia) |
 | Evidence Level | L5 (papillary conjunctivitis); L3 (neuralgia) |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold (papillary conjunctivitis); neuralgia is a research question |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, prilocaine is an amide-type local anesthetic. Drugs in this class generally block voltage-gated sodium channels in nerve fibres, which reduces the transmission of pain and sensory signals. Its authorized use in premature ejaculation relies on reducing sensitivity of the treated area.
 
-**Papillary conjunctivitis (rank 1).** The model score is very high (0.998), but no clinical trials or publications were found. Relief of ocular surface discomfort through sodium-channel blockade is conceivable, but it is speculative. Ocular use of a product developed for topical application to the penis would also raise formulation and safety questions.
+**Papillary conjunctivitis (rank 1).** The model score is very high (0.9978), but no clinical trials or publications were found. Relief of ocular surface discomfort through sodium-channel blockade is conceivable, but it is speculative. Ocular use of a product developed for topical application to the penis would also raise formulation and safety questions.
 
 **Neuralgia (rank 5).** This is the most plausible and best-documented direction. Sodium-channel blockade in nociceptive afferents gives a reasonable mechanism for relieving neuropathic pain, particularly postherpetic neuralgia (PHN). The existing evidence is small and dated, and it relates mainly to the lidocaine/prilocaine combination. Any effect would be symptomatic and topical.
 
-Several other predictions have no plausible mechanistic link or only indirect evidence. These include manic bipolar affective disorder (likely a knowledge-graph artifact), bronchitis, migraine, rhinitis, allergic asthma and rosacea conjunctivitis. For atopic eczema, the literature points to safety risks, not treatment benefit.
+Several other predictions have no plausible mechanistic link or only indirect evidence. These include manic bipolar affective disorder (likely a TxGNN model (deep learning) artifact), bronchitis, migraine, rhinitis, allergic asthma and rosacea conjunctivitis. For atopic eczema, the literature points to safety risks, not treatment benefit.
 
 ## Clinical Trial Evidence
 
@@ -104,7 +104,7 @@ Note that the neuralgia literature mostly describes EMLA used alone or as pre-tr
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/002693 | Fortacin | Not specified | Treatment of primary premature ejaculation in adult men. (Status: cancelled) |
+| EMEA/H/C/002693 | Fortacin | Not specified | Treatment of primary premature ejaculation in adult men. (Status: valid) |
 
 ## Safety Considerations
 

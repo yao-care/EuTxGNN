@@ -4,17 +4,17 @@ title: Glucagon
 parent: Medium Evidence (L3-L4)
 nav_order: 288
 evidence_level: L3
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Glucagon: predicted new indication Irritable bowel syndrome (evidence level L3). Approved use: Severe hypoglycaemia in adults…"
 monitor_inn: "Glucagon"
-predicted_indications: ["irritable bowel syndrome", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "acute laryngopharyngitis", "nasal cavity disease", "pharyngitis", "primary hereditary glaucoma", "open-angle glaucoma", "filariasis", "large intestine disease"]
+predicted_indications: ["irritable bowel syndrome"]
 ---
 
 # Glucagon
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Support is indirect: **2 early-phase clinical trials** (both of GLP-1-type drugs
 |------|------|
 | Original Indication | Severe hypoglycaemia in adults, adolescents and children with diabetes mellitus |
 | Predicted New Indication | Irritable bowel syndrome |
-| TxGNN Prediction Score | 99.24% |
+| TxGNN Prediction Score | 0.9924 |
 | Evidence Level | L3 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 2 |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,14 +7,15 @@ description: "Filgotinib Maleate drug repurposing predictions from TxGNN. Eviden
 parent: AI Predictions (L5)
 nav_order: 245
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Filgotinib Maleate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | HER2 positive breast carcinoma | 98.88% | DL |
-| 2 | thrombocytopenia | 98.87% | DL |
-| 3 | hereditary thrombocytopenia with normal platelets | 98.85% | DL |
-| 4 | marcothrombocytopenia with mitral valve insufficiency | 98.84% | DL |
-| 5 | transient neonatal thrombocytopenia | 98.80% | DL |
-| 6 | dense granule disease | 98.78% | DL |
-| 7 | multiple endocrine neoplasia | 98.74% | DL |
-| 8 | homozygous familial hypercholesterolemia | 98.33% | DL |
-| 9 | progesterone-receptor negative breast cancer | 98.30% | DL |
-| 10 | normal breast-like subtype of breast carcinoma | 98.29% | DL |
-| 11 | progesterone-receptor positive breast cancer | 98.29% | DL |
-| 12 | breast tumor luminal A or B | 98.28% | DL |
-| 13 | oral candidiasis | 98.19% | DL |
-| 14 | commissural lip fistula | 97.96% | DL |
-| 15 | osteoradionecrosis of the mandible | 97.94% | DL |
-| 16 | oral leukoedema | 97.92% | DL |
-| 17 | burning mouth syndrome | 97.92% | DL |
-| 18 | cytomegalovirus infection | 97.88% | DL |
-| 19 | malignant catarrh | 97.85% | DL |
-| 20 | infectious bovine rhinotracheitis | 97.85% | DL |
 
 *Showing top 20 of 50 predictions.*
 

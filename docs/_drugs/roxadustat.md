@@ -4,17 +4,17 @@ title: Roxadustat
 parent: AI Predictions (L5)
 nav_order: 539
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Roxadustat: predicted new indication Dry eye syndrome (evidence level L5). Approved use: Treatment of adult patients with symptomatic anaemia associated with…"
 monitor_inn: "Roxadustat"
-predicted_indications: ["dry eye syndrome", "bone Paget disease", "dentinogenesis imperfecta", "squamous cell carcinoma", "dental pulp calcification", "dentin dysplasia", "Sjogren syndrome", "adenosquamous breast carcinoma", "acantholytic variant squamous cell breast carcinoma", "metaplastic breast carcinoma"]
+predicted_indications: ["dry eye syndrome", "bone Paget disease", "dentinogenesis imperfecta", "squamous cell carcinoma"]
+description: "Roxadustat: predicted new indication Dry eye syndrome (evidence level L5). Approved use: Evrenzo is indicated for treatment of adult patients with symptomatic…"
 ---
 
 # Roxadustat
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Roxadustat: From Anaemia of Chronic Kidney Disease to Dry Eye Syndrome
+## Roxadustat: Dry eye syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials and no publications** currently support this direction,
 
 | Item | Content |
 |------|------|
-| Original Indication | Treatment of adult patients with symptomatic anaemia associated with chronic kidney disease (CKD) |
+| Original Indication | Evrenzo is indicated for treatment of adult patients with symptomatic anaemia associated with chronic kidney disease (CKD). |
 | Predicted New Indication | Dry eye syndrome |
-| TxGNN Prediction Score | 99.51% |
+| TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Roxadustat is a hypoxia-inducible factor prolyl hydroxylase (HIF-PH) inhibitor. 
 
 The link between CKD anaemia and dry eye is indirect. HIF activation could plausibly influence corneal epithelial repair, angiogenesis and inflammatory signaling at the ocular surface. However, the direction of the effect is uncertain, because HIF-1α is also linked to ocular surface inflammation. The prediction comes from the TxGNN model alone and has no supporting clinical or literature data.
 
-The second-ranked prediction, Sjogren syndrome, is related to dry eye through sicca symptoms, but it also has no supporting evidence. Other top predictions include bone Paget disease, dental disorders (dentinogenesis imperfecta, dental pulp calcification, dentin dysplasia) and several squamous and breast carcinoma subtypes. For the cancers, HIF stabilization could theoretically promote tumor progression, so they raise a safety concern rather than a therapeutic rationale.
+Other top predictions include bone Paget disease, dental disorders (dentinogenesis imperfecta, dental pulp calcification, dentin dysplasia) and several squamous and breast carcinoma subtypes. For the cancers, HIF stabilization could theoretically promote tumor progression, so they raise a safety concern rather than a therapeutic rationale.
 
 ## Clinical Trial Evidence
 

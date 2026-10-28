@@ -4,17 +4,17 @@ title: Phenylephrine
 parent: Medium Evidence (L3-L4)
 nav_order: 485
 evidence_level: L4
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Phenylephrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Maintenance of intraoperative mydriasis…"
 monitor_inn: "Phenylephrine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "faucial diphtheria", "cervical disc degenerative disorder", "tracheal disease", "rosacea conjunctivitis", "allergic urticaria", "bronchial disease", "endobronchial leiomyoma"]
+predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
+description: "Phenylephrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Omidria is indicated in adults for maintenance of intraoperative mydr…"
 ---
 
 # Phenylephrine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Phenylephrine: From Intraoperative Mydriasis in Eye Surgery to Nasal Cavity Disease
+## Phenylephrine: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ The evidence is essentially model prediction plus indirect literature.
 
 | Item | Content |
 |------|------|
-| Original Indication | Maintenance of intraoperative mydriasis, prevention of intraoperative miosis and reduction of acute postoperative ocular pain in intraocular lens replacement surgery (adults) |
+| Original Indication | Omidria is indicated in adults for maintenance of intraoperative mydriasis, prevention of intraoperative miosis and reduction of acute postoperative ocular pain in intraocular lens replacement surgery. |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,13 +60,13 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 
 In the nose, the same vasoconstriction shrinks swollen, congested mucosa. Phenylephrine is already widely used topically as a nasal decongestant. It also appears in combination sprays (for example Polydexa with phenylephrine) and as a vasoconstrictor to improve the surgical field in endoscopic sinus surgery. The mechanism is therefore plausible and familiar.
 
-The link to the original eye-surgery indication is only that both uses rely on alpha-1 receptor effects on smooth muscle and blood vessels. The supporting literature is mostly combination-product studies, descriptive reports or surgical-adjunct studies, so the evidence for phenylephrine itself is indirect. Several lower-ranked predictions (for example acute laryngopharyngitis, faucial diphtheria, cervical disc degenerative disorder and endobronchial leiomyoma) have no evidence at all, and the model score alone should not be read as proof.
+The link to the original eye-surgery indication is only that both uses rely on alpha-1 receptor effects on smooth muscle and blood vessels. The supporting literature is mostly combination-product studies, descriptive reports or surgical-adjunct studies, so the evidence for phenylephrine itself is indirect, and the model score alone should not be read as proof.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered for nasal cavity disease.
 
-For context, one completed trial exists for a related airway indication (bronchial disease, ranked 9th): [NCT00373802](https://clinicaltrials.gov/study/NCT00373802), a Phase 2, randomised, double-blind, placebo-controlled study (50 infants) of nasal phenylephrine in bronchiolitis. No outcome data were available in the compiled data.
+No outcome data were available in the compiled data.
 
 ## Literature Evidence
 

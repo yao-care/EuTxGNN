@@ -7,14 +7,15 @@ description: "Atosiban (As Acetate) drug repurposing predictions from TxGNN. Evi
 parent: AI Predictions (L5)
 nav_order: 55
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Atosiban (As Acetate)
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | primary hereditary glaucoma | 99.92% | DL |
-| 2 | open-angle glaucoma | 99.92% | DL |
-| 3 | congenital hypotrichosis milia | 99.89% | DL |
-| 4 | alopecia | 99.89% | DL |
-| 5 | hypotrichosis simplex of the scalp | 99.89% | DL |
-| 6 | vascular disease | 99.87% | DL |
-| 7 | diffuse alopecia areata | 99.86% | DL |
-| 8 | venous thoracic outlet syndrome | 99.86% | DL |
-| 9 | arterial thoracic outlet syndrome | 99.86% | DL |
-| 10 | visceral calciphylaxis | 99.84% | DL |
-| 11 | neurogenic thoracic outlet syndrome | 99.84% | DL |
-| 12 | angiodysplasia of stomach | 99.81% | DL |
-| 13 | lymphangiectasis | 99.81% | DL |
-| 14 | idiopathic spontaneous coronary artery dissection | 99.81% | DL |
-| 15 | hemangioendothelioma | 99.80% | DL |
-| 16 | blue toe syndrome | 99.80% | DL |
-| 17 | arterial dissection-lentiginosis syndrome | 99.78% | DL |
-| 18 | atheroembolism of kidney | 99.77% | DL |
-| 19 | Raynaud disease | 99.71% | DL |
-| 20 | glaucoma 1, open angle | 99.54% | DL |
 
 *Showing top 20 of 50 predictions.*
 

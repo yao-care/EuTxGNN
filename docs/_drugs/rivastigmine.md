@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Rivastigmine
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 533
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Rivastigmine: predicted new indication Glaucoma (evidence level L4). Approved use: Symptomatic treatment of mild to moderately severe Alzheimer's dement…"
 monitor_inn: "Rivastigmine"
-predicted_indications: ["glaucoma", "acute intermittent porphyria", "psychogenic movement disorders", "primary orthostatic tremor", "tremor-nystagmus-duodenal ulcer syndrome", "extrapyramidal and movement disease", "benign shuddering attacks", "benign paroxysmal tonic upgaze of childhood with ataxia", "chronic tic disorder", "primary hereditary glaucoma"]
+predicted_indications: ["glaucoma"]
 ---
 
 # Rivastigmine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **glaucoma**, but there are cur
 |------|------|
 | Original Indication | Symptomatic treatment of mild to moderately severe Alzheimer's dementia; symptomatic treatment of mild to moderately severe dementia in patients with idiopathic Parkinson's disease |
 | Predicted New Indication | Glaucoma |
-| TxGNN Prediction Score | 99.27% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 6 |
+| TxGNN Prediction Score | 0.9927 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Authorizations | 6 (valid: 6) |
 | Recommended Decision | Hold (treated as a research question) |
 
 ## Why is This Prediction Reasonable?
@@ -75,7 +75,7 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-All six EU authorizations for rivastigmine are cancelled, so none is currently valid. Dosage form is not available in the compiled data.
+Rivastigmine is marketed in this country, with 6 valid licences out of 6. Dosage form is not available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -109,7 +109,7 @@ Please refer to the SmPC for label warnings and contraindications.
 **Decision: Hold (research question)**
 
 **Rationale:**
-The glaucoma prediction has a plausible mechanism and one animal study showing IOP reduction. However, there are no human trials, and the evidence level is L4. All EU authorizations are cancelled, and the knowledge graph flags several relevant contraindications, especially cardiac conduction and respiratory disease, which are common in older glaucoma patients.
+The glaucoma prediction has a plausible mechanism and one animal study showing IOP reduction. However, there are no human trials, and the evidence level is L4. The drug is marketed in this country with 6 valid licences out of 6, and the knowledge graph flags several relevant contraindications, especially cardiac conduction and respiratory disease, which are common in older glaucoma patients.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and the SmPC warnings and contraindications (currently missing)

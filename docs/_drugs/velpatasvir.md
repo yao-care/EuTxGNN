@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Velpatasvir: predicted new indication Hepatitis B virus infection (evidence level L3). Approved use: Chronic hepatitis C virus (HCV) infection in patients 3 years of age…"
 monitor_inn: "Velpatasvir"
-predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Velpatasvir
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **hepatitis B virus infection**
 |------|------|
 | Original Indication | Chronic hepatitis C virus (HCV) infection in patients 3 years of age and older |
 | Predicted New Indication | Hepatitis B virus infection |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L3 |
-| EU Market Status | Cancelled only |
-| Number of Authorizations | 2 |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not currently available. Velpatasvir is known to be an NS5A inhibitor, used as part of fixed-dose combinations with sofosbuvir (Epclusa) and with sofosbuvir plus voxilaprevir (Vosevi). Its efficacy in chronic hepatitis C is well established.
 
-HBV has no NS5A protein, so there is no direct mechanistic link between velpatasvir and HBV. The high TxGNN score most likely reflects shared "viral hepatitis" proximity in the knowledge graph rather than a real antiviral effect.
+HBV has no NS5A protein, so there is no direct mechanistic link between velpatasvir and HBV. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases (such as "viral hepatitis"), not biological evidence of an antiviral effect.
 
 The clinically relevant connection is narrower. In patients co-infected with HCV and HBV, treating HCV with direct-acting antivirals can trigger HBV reactivation. One retrieved case report describes such a reactivation during sofosbuvir/velpatasvir therapy. The practical question is therefore how to manage HBV during HCV treatment, not whether velpatasvir treats HBV.
 
@@ -90,8 +90,8 @@ The clinically relevant connection is narrower. In patients co-infected with HCV
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/004210 | Epclusa (cancelled) | Not specified | Chronic hepatitis C virus (HCV) infection in patients 3 years of age and older |
-| EMEA/H/C/004350 | Vosevi (cancelled) | Not specified | Chronic hepatitis C virus (HCV) infection in patients aged 12 years and older and weighing at least 30 kg |
+| EMEA/H/C/004210 | Epclusa (valid) | Not specified | Chronic hepatitis C virus (HCV) infection in patients 3 years of age and older |
+| EMEA/H/C/004350 | Vosevi (valid) | Not specified | Chronic hepatitis C virus (HCV) infection in patients aged 12 years and older and weighing at least 30 kg |
 
 ## Safety Considerations
 

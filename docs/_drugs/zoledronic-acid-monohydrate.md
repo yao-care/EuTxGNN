@@ -7,14 +7,15 @@ description: "Zoledronic Acid Monohydrate drug repurposing predictions from TxGN
 parent: AI Predictions (L5)
 nav_order: 650
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Zoledronic Acid Monohydrate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | bone Paget disease | 99.56% | DL |
-| 2 | HIV infectious disease | 93.95% | DL |
-| 3 | obsolete familial combined hyperlipidemia | 93.51% | DL |
-| 4 | neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 93.08% | DL |
-| 5 | biotin metabolic disease | 92.88% | DL |
-| 6 | feline acquired immunodeficiency syndrome | 91.04% | DL |
-| 7 | simian immunodeficiency virus infection | 91.04% | DL |
-| 8 | vitamin deficiency disorder | 90.31% | DL |
-| 9 | postmenopausal osteoporosis | 90.13% | DL |
-| 10 | Worth syndrome | 89.89% | DL |
-| 11 | succinyl-CoA:3-ketoacid CoA transferase deficiency | 89.84% | DL |
-| 12 | autosomal dominant neovascular inflammatory vitreoretinopathy | 89.35% | DL |
-| 13 | hypoglycemia | 89.23% | DL |
-| 14 | pregnancy associated osteoporosis | 88.17% | DL |
-| 15 | juvenile Paget disease | 87.66% | DL |
-| 16 | cholelithiasis | 85.58% | DL |
-| 17 | osteomesopyknosis | 83.58% | DL |
-| 18 | Paget disease of bone | 83.35% | DL |
-| 19 | palmar fibromatosis | 79.75% | DL |
-| 20 | homozygous familial hypercholesterolemia | 79.49% | DL |
 
 *Showing top 20 of 50 predictions.*
 

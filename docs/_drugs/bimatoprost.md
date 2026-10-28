@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **malformation syndrome with od
 |------|------|
 | Original Indication | Reduction of elevated intraocular pressure in chronic open-angle glaucoma and ocular hypertension (as monotherapy or as adjunctive therapy to beta-blockers) |
 | Predicted New Indication | Malformation syndrome with odontal and/or periodontal component |
-| TxGNN Prediction Score | 99.997% (model rank 52) |
+| TxGNN Prediction Score | 1.0000 (model rank 52) |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **malformation syndrome with od
 
 Currently, detailed mechanism of action data is not available. Bimatoprost is known as a prostamide/prostaglandin F2-alpha analog. Its established actions are increasing fluid outflow from the eye, which lowers eye pressure, and stimulating the growth phase of hair follicles.
 
-Neither action maps to a developmental dental or periodontal malformation. These conditions are structural, usually genetic problems of tooth and gum formation, and no plausible mechanistic link was identified. The high score most likely reflects proximity in the knowledge graph (shared genes or syndromic nodes) rather than a real pharmacological relationship. Without supporting trials or publications, this prediction should be treated as a model output only.
+Neither action maps to a developmental dental or periodontal malformation. These conditions are structural, usually genetic problems of tooth and gum formation, and no plausible mechanistic link was identified. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Without supporting trials or publications, this prediction should be treated as a model output only.
 
 ---
 
@@ -106,7 +106,7 @@ The prediction has no clinical or literature support, and the drug's known pharm
 - Any preclinical or clinical evidence specific to this condition
 - Detailed mechanism of action data and SmPC safety information
 
-**Note on other predictions:** Among the other predictions compiled for bimatoprost, **alopecia** (model rank 120, score 99.993%) has by far the strongest support. It has 11 registered trials, including three completed Phase 2 studies in androgenetic alopecia (NCT01325337, NCT01904721, NCT01325350), and 20 publications. It is rated L2 with a "Proceed with Guardrails" recommendation. No Phase 3 evidence for scalp alopecia was provided, and efficacy outcomes need expert review. If a repurposing direction is pursued for this drug, alopecia is the more evidence-supported candidate.
+**Note on other predictions:** Among the other predictions compiled for bimatoprost, **alopecia** (model rank 120, score 1.0000) has by far the strongest support. It has 11 registered trials, including three completed Phase 2 studies in androgenetic alopecia (NCT01325337, NCT01904721, NCT01325350), and 20 publications. It is rated L2 with a "Proceed with Guardrails" recommendation. No Phase 3 evidence for scalp alopecia was provided, and efficacy outcomes need expert review. If a repurposing direction is pursued for this drug, alopecia is the more evidence-supported candidate.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

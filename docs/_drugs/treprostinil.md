@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Treprostinil
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 641
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Treprostinil: predicted new indication Pulmonary arterial hypertension associated with congenital heart dise… (evidence level L3). Approved use: Adult patients with WHO Functional Class III or IV and…"
 monitor_inn: "Treprostinil"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita"]
+description: "Treprostinil: predicted new indication Pulmonary arteriovenous malformation (disease) (evidence level L5). Approved use: Treatment of adult patients with WHO Functional Class (FC) III or IV…"
 ---
 
 # Treprostinil
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,28 +33,27 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Treprostinil: From Chronic Thromboembolic Pulmonary Hypertension to Pulmonary Arterial Hypertension Associated with Congenital Heart Disease
+## Treprostinil: Pulmonary arteriovenous malformation (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Treprostinil is a prostacyclin analogue, authorised in the EU for inoperable or persistent/recurrent chronic thromboembolic pulmonary hypertension (CTEPH).
-The TxGNN model predicts it may be effective for **pulmonary arterial hypertension associated with congenital heart disease (CHD-PAH)**, the strongest-supported of the model's top predictions.
 There are currently **no registered clinical trials** and **19 publications** (mostly reviews, plus two small cohort studies on prostacyclin therapy in CHD-PAH), so the evidence is indirect and preliminary.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Adult patients with WHO Functional Class III or IV and inoperable CTEPH, or persistent or recurrent CTEPH after surgical treatment, to improve exercise capacity |
-| Predicted New Indication | Pulmonary arterial hypertension associated with congenital heart disease |
-| TxGNN Prediction Score | 99.60% |
-| Evidence Level | L3 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| Original Indication | Treatment of adult patients with WHO Functional Class (FC) III or IV and: inoperable chronic thromboembolic pulmonary hypertension (CTEPH), or persistent or recurrent CTEPH after surgical treatment to improve exercise capacity. |
+| Predicted New Indication | Pulmonary arteriovenous malformation (disease) |
+| TxGNN Prediction Score | 0.9970 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
-The top-ranked prediction by score was pulmonary arteriovenous malformation (99.70%). It has no supporting evidence, and its mechanistic rationale is weak and potentially unfavourable. This report therefore focuses on rank 2, CHD-PAH, which has the most relevant literature.
+The top-ranked prediction by score was pulmonary arteriovenous malformation (0.9970). It has no supporting evidence, and its mechanistic rationale is weak and potentially unfavourable. This report therefore focuses on rank 2, CHD-PAH, which has the most relevant literature.
 
 ## Why is This Prediction Reasonable?
 

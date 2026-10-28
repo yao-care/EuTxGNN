@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Cariprazine
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 131
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cariprazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Treatment of schizophrenia in adult patients"
-monitor_inn: "Cariprazine"
-predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "syndromic myopia", "myopia X-linked", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "distal 17p13.3 microdeletion syndrome"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Cariprazine: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Cariprazine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,48 +32,45 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Cariprazine: From Schizophrenia to Retinal Dystrophy with or without Extraocular Anomalies
+<!-- known-uses-page -->
+<!-- description: Cariprazine: known uses and market status in the European Union; currently no new candidate indication -->
+## Cariprazine: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Cariprazine, but every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for this drug. The one known use is schizophrenia, which is covered by a licence in the European Union.
 
-Cariprazine is an antipsychotic that was authorized in the EU (as Reagila) for the treatment of schizophrenia in adults.
-The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**,
-but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it is a computational prediction only.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Treatment of schizophrenia in adult patients |
-| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 98.70% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 1 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Cariprazine is generally known as a dopamine D2/D3 receptor partial agonist (with D3 preference) and a 5-HT1A partial agonist. Its efficacy in schizophrenia is established, but this pharmacology has not been linked to retinal dystrophy by any data provided here.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| schizophrenia | licence in the European Union (approved indication: reagila is indicated for the treatment of schizophrenia in adult patients) |
 
-Retinal dystrophies are largely inherited conditions caused by gene defects that lead to degeneration of retinal cells. No mechanistic link between cariprazine's receptor activity and these genetic mechanisms is supported by the available data. The high TxGNN score (98.70%) comes from a knowledge-graph prediction alone and is not backed by any clinical trial or publication. Similarity between the original and predicted indication has not yet been assessed.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-Other top-ranked predictions show the same pattern: all 10 predicted indications are Evidence Level L5 with no trials or literature. They include hydranencephaly, perisylvian polymicrogyria with cerebellar hypoplasia and arthrogryposis, a congenital disorder of glycosylation, Charcot-Marie-Tooth disease type 1G, syndromic and X-linked myopia, atypical glycine encephalopathy, and distal 17p13.3 microdeletion syndrome. Only the myopia-related predictions have even a speculative link, through retinal dopamine signaling, and this is not supported by data specific to cariprazine.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002770 (cancelled) | Reagila | Not specified | Reagila is indicated for the treatment of schizophrenia in adult patients. |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/002770 | Reagila |  | Valid |
 
 ## Safety Considerations
 
@@ -84,19 +80,6 @@ Currently no related literature available.
 
 Please refer to the SmPC for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction rests only on a model score, with no clinical trials, no publications, and no supported mechanistic link. The EU authorization is also cancelled, and warnings and contraindications from the product information have not been reviewed.
-
-**To proceed, the following is needed:**
-- Mechanism of action data (for example from DrugBank) to assess any biological link to retinal dystrophy
-- EU product information (warnings and contraindications) to complete safety screening
-- Preclinical or mechanistic studies, and a literature search, to move beyond Evidence Level L5
-- Clarification of the cancelled EU authorization status and of route and formulation compatibility
-- Review of the major drug interactions listed above for any future study population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

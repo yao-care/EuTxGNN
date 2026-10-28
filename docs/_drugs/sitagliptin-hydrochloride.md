@@ -7,14 +7,15 @@ description: "Sitagliptin Hydrochloride drug repurposing predictions from TxGNN.
 parent: AI Predictions (L5)
 nav_order: 534
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Sitagliptin Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | opsismodysplasia | 98.87% | DL |
-| 2 | diabetes mellitus (disease) | 98.68% | DL |
-| 3 | classic stiff person syndrome | 98.66% | DL |
-| 4 | focal stiff limb syndrome | 98.66% | DL |
-| 5 | thiamine-responsive dysfunction syndrome | 98.57% | DL |
-| 6 | drug-induced localized lipodystrophy | 97.99% | DL |
-| 7 | pancreatic agenesis | 97.88% | DL |
-| 8 | centrifugal lipodystrophy | 97.87% | DL |
-| 9 | pressure-induced localized lipoatrophy | 97.81% | DL |
-| 10 | idiopathic localized lipodystrophy | 97.66% | DL |
-| 11 | autoimmune oophoritis | 87.99% | DL |
-| 12 | type 1 diabetes mellitus | 86.45% | DL |
-| 13 | cholangiocarcinoma, susceptibility to | 65.01% | DL |
-| 14 | hemoglobin C-beta-thalassemia syndrome | 62.01% | DL |
-| 15 | homozygous familial hypercholesterolemia | 60.51% | DL |
-| 16 | mitral valve prolapse, myxomatous | 60.40% | DL |
-| 17 | pancreas, dorsal, agenesis of | 58.41% | DL |
-| 18 | familial chronic myelocytic leukemia-like syndrome | 58.22% | DL |
-| 19 | woolly hair, autosomal recessive 3 | 58.09% | DL |
-| 20 | hypercarotenemia and vitamin A deficiency, autosomal recessive | 58.01% | DL |
 
 *Showing top 20 of 50 predictions.*
 

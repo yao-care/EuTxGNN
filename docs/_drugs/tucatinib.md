@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Tucatinib
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 644
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tucatinib: predicted new indication Migraine disorder (evidence level L5). Approved use: HER2-positive locally advanced or metastatic breast cancer in adults…"
-monitor_inn: "Tucatinib"
-predicted_indications: ["migraine disorder", "multiple endocrine neoplasia", "nephrogenic syndrome of inappropriate antidiuresis", "migraine with brainstem aura", "pulmonary hypertension", "homozygous familial hypercholesterolemia", "kyphoscoliotic heart disease", "migraine with or without aura, susceptibility to", "Prinzmetal angina", "rheumatoid arthritis"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Tucatinib: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Tucatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,49 +32,46 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Tucatinib: From HER2-Positive Breast Cancer to Migraine Disorder
+<!-- known-uses-page -->
+<!-- description: Tucatinib: known uses and market status in the European Union; currently no new candidate indication -->
+## Tucatinib: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model has no candidate with a score of 0.99 or higher for Tucatinib, so there is currently no new predicted indication. The drug's recorded uses are listed below.
 
-Tucatinib is a selective HER2 tyrosine kinase inhibitor, originally used (together with trastuzumab and capecitabine) to treat HER2-positive advanced or metastatic breast cancer.
-The TxGNN model predicts it may be effective for **migraine disorder** with a high score, but **no clinical trials and no relevant publications** currently support this direction.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | HER2-positive locally advanced or metastatic breast cancer in adults who have received at least 2 prior anti-HER2 regimens (in combination with trastuzumab and capecitabine) |
-| Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 98.62% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
-| Recommended Decision | Hold |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 2 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
-## Why is This Prediction Reasonable?
+## Known uses recorded for this drug
 
-Tucatinib is a selective HER2 tyrosine kinase inhibitor. Detailed mechanism of action data are not available in the data compiled for this report, so this description reflects general knowledge of the drug class.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| breast neoplasms | licence in another country |
+| neoplasm metastasis | licence in another country |
 
-The link between breast cancer and migraine is weak. HER2 inhibition has no recognized role in the main pathways of migraine (CGRP signaling, serotonergic pathways, cortical spreading depression). The high TxGNN score is a graph-based prediction only, and no trial or publication supports it. At this stage the prediction should be treated as a hypothesis, not as a reasoned repurposing candidate.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-Other top-ranked predictions show the same pattern: multiple endocrine neoplasia, nephrogenic syndrome of inappropriate antidiuresis, migraine with brainstem aura, pulmonary hypertension, homozygous familial hypercholesterolemia, kyphoscoliotic heart disease, migraine susceptibility, Prinzmetal angina and rheumatoid arthritis. All are at evidence level L5 with no plausible HER2-related mechanism. For example, HER2-directed therapy is associated with cardiotoxicity concerns, which argues against use in Prinzmetal angina.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available for migraine disorder.
-
-(For the 10th-ranked prediction, rheumatoid arthritis, two general reviews of FDA-approved kinase inhibitors were retrieved: PMID [33513356](https://pubmed.ncbi.nlm.nih.gov/33513356/) (2021) and PMID [38096958](https://pubmed.ncbi.nlm.nih.gov/38096958/) (2024). Neither contains tucatinib-specific data for that condition.)
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005263 (cancelled) | Tukysa | Not specified | Tukysa is indicated in combination with trastuzumab and capecitabine for the treatment of adult patients with HER2-positive locally advanced or metastatic breast cancer who have received at least 2 prior anti-HER2 treatment regimens. |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/005263 | Tukysa |  | Valid |
 
 ## Cytotoxicity
 
@@ -95,18 +91,6 @@ Currently no related literature available for migraine disorder.
 
 Label warnings and contraindications were not available in the data compiled for this report. Please refer to the SmPC for further safety information.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction is based solely on a graph model score. There are no clinical trials or relevant publications, no plausible mechanistic link between HER2 inhibition and migraine, and the EU authorization is cancelled.
-
-**To proceed, the following is needed:**
-- Mechanism of action data, and a credible biological hypothesis linking HER2 kinase inhibition to migraine
-- Preclinical or mechanistic studies to move beyond L5
-- Label safety information (warnings and contraindications) from the SmPC, which is a blocking gap for safety screening
-- A review of whether a drug with a cancelled EU authorization and significant interaction burden is suitable for a non-oncology population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

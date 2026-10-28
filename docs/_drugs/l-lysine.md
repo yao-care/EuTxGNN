@@ -1,20 +1,19 @@
 ---
 layout: default
 title: L-Lysine
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 347
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "L-Lysine: predicted new indication Gastroparesis (evidence level L5). Approved use: Reduction of renal radiation exposure during PRRT with lutetium (177L…"
-monitor_inn: "L-Lysine"
-predicted_indications: ["gastroparesis (disease)", "congenital prothrombin deficiency", "obsolete vitamin D deficiency", "dyspepsia", "familial visceral myopathy", "vitamin deficiency disorder", "hypophosphatemic rickets", "renal tubular acidosis", "biotin metabolic disease", "postgastrectomy syndrome"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "L-Lysine: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # L-Lysine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,52 +32,46 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## L-Lysine: From Renal Radiation Protection and MSUD Management to Gastroparesis
+<!-- known-uses-page -->
+<!-- description: L-Lysine: known uses and market status in the European Union; currently no new candidate indication -->
+## L-Lysine: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model has no candidate with a score of 0.99 or higher for L-Lysine, so there is currently no new predicted indication. The drug's recorded uses are listed below; no uses are recorded for this drug at present.
 
-L-Lysine is an amino acid used in two EU-authorized products: one to reduce kidney radiation exposure during peptide-receptor radionuclide therapy (PRRT), and one for acute decompensation in maple syrup urine disease (MSUD).
-The TxGNN model predicts it may be effective for **gastroparesis**, but there are **0 clinical trials** and only **1 publication** (a preclinical stem-cell delivery study that does not test L-lysine), so the prediction is unsupported by real evidence.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Reduction of renal radiation exposure during PRRT with lutetium (177Lu) oxodotreotide in adults |
-| Predicted New Indication | Gastroparesis |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (all authorizations cancelled) |
-| Number of Authorizations | 2 |
-| Recommended Decision | Hold |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 0 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 
-## Why is This Prediction Reasonable?
+## Known uses recorded for this drug
 
-Currently, detailed mechanism of action data is not available. L-Lysine is an essential amino acid. In its authorized uses, it competes for renal tubular uptake of the radionuclide (LysaKare, given with arginine) and serves as part of an amino acid infusion in MSUD (Maapliv).
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-No credible mechanistic link to gastroparesis could be established from the data compiled for this report. The only retrieved publication describes delivery of mesenchymal stem cells from hydrogels into the stomach. It does not evaluate L-lysine, so the match appears incidental. The very high TxGNN score should therefore be treated as a computational signal only.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-Other predicted indications were also reviewed (congenital prothrombin deficiency, vitamin D deficiency, dyspepsia, familial visceral myopathy, vitamin deficiency disorder, hypophosphatemic rickets, renal tubular acidosis, biotin metabolic disease, postgastrectomy syndrome). All remain at L4–L5 with no clinical trials. Notably, for renal tubular acidosis, the only publication reports a transient proximal tubulopathy induced by amino acid infusion during PRRT, which is an adverse-effect signal and argues against repurposing for that indication.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [29414870](https://pubmed.ncbi.nlm.nih.gov/29414870/) | 2018 | Preclinical | Bioengineering (Basel) | Delivery of mesenchymal stem cells from gelatin-alginate hydrogels to the stomach lumen for gastroparesis; does not evaluate L-lysine |
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004541 | LysaKare | Not specified | Reduction of renal radiation exposure during Peptide-Receptor Radionuclide Therapy (PRRT) with lutetium (177Lu) oxodotreotide in adults. |
-| EMEA/H/C/005557 | Maapliv | Not specified | Maple syrup urine disease (MSUD) presenting with an acute decompensation episode in patients from birth who are not eligible for an oral and enteral branched-chain amino acids free (BCAA-free)... |
-
-Both authorizations are cancelled.
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/004541 | LysaKare |  | Valid |
+| EMEA/H/C/005557 | Maapliv |  | Valid |
 
 ## Safety Considerations
 
@@ -86,19 +79,6 @@ Both authorizations are cancelled.
 
 Label-based warnings, contraindications and drug interaction data were not available. Please refer to the SmPC for safety information.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction rests on a model score alone. There are no clinical trials, the single publication does not involve L-lysine, and all EU authorizations are cancelled. The knowledge graph also flags numerous renal and cardiac contraindication signals.
-
-**To proceed, the following is needed:**
-- Label warnings and contraindications from the EMA documents (a blocking gap for safety screening)
-- Mechanism of action data for L-lysine (for example, from DrugBank)
-- A plausible mechanistic rationale linking L-lysine to gastric motility, plus targeted literature searches
-- Preclinical or early clinical evidence testing L-lysine itself in gastroparesis
-- A review of the renal and cardiac contraindication signals relevant to any proposed population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

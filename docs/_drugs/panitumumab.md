@@ -4,17 +4,17 @@ title: Panitumumab
 parent: AI Predictions (L5)
 nav_order: 463
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Panitumumab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Adult patients with wild-type RAS metastatic colorectal cancer (mCRC)…"
 monitor_inn: "Panitumumab"
-predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "cortical cataract", "nuclear senile cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "tetanic cataract", "immature cataract"]
+predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy"]
 ---
 
 # Panitumumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Adult patients with wild-type RAS metastatic colorectal cancer (mCRC): first-line with FOLFOX or FOLFIRI; second-line with FOLFIRI after first-line fluoropyrimidine-based chemotherapy (excluding irinotecan); or as monotherapy after failure of fluoropyrimidine-, oxaliplatin-, and irinotecan-containing regimens |
 | Predicted New Indication | Drug-induced osteoporosis |
-| TxGNN Prediction Score | 99.13% |
+| TxGNN Prediction Score | 0.9913 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization in the compiled data) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,9 +62,8 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, panitumumab is an anti-EGFR (epidermal growth factor receptor) monoclonal antibody. Its efficacy in RAS wild-type metastatic colorectal cancer has been established, which is how it came to be authorized.
 
-The link to drug-induced osteoporosis is speculative. In preclinical settings, EGFR signaling has a role in osteoblast differentiation and bone remodeling, so a theoretical connection exists. However, no clinical or literature evidence was provided to support it, and the relationship between a colorectal cancer therapy and a bone-loss condition has not been characterized. The high TxGNN score (0.991) reflects a graph-based computational prediction, not an experimentally confirmed finding.
+The link to drug-induced osteoporosis is speculative. In preclinical settings, EGFR signaling has a role in osteoblast differentiation and bone remodeling, so a theoretical connection exists. However, no clinical or literature evidence was provided to support it, and the relationship between a colorectal cancer therapy and a bone-loss condition has not been characterized. The high TxGNN score (0.9913) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-Other predicted indications in the same analysis (diabetic retinopathy and several cataract subtypes) also have no supporting evidence. Identical scores across cataract subtypes suggest a class-level knowledge graph signal rather than independent findings.
 
 ---
 

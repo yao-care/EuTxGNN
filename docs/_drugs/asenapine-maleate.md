@@ -7,14 +7,15 @@ description: "asenapine maleate drug repurposing predictions from TxGNN. Evidenc
 parent: AI Predictions (L5)
 nav_order: 51
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Asenapine Maleate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | manic bipolar affective disorder | 99.99% | DL |
-| 2 | schizophrenia | 99.90% | DL |
-| 3 | bipolar disorder | 99.80% | DL |
-| 4 | retinal dystrophy with or without extraocular anomalies | 99.77% | DL |
-| 5 | congenital disorder of glycosylation with defective fucosylation | 99.75% | DL |
-| 6 | hydranencephaly (disease) | 99.74% | DL |
-| 7 | syndromic myopia | 99.70% | DL |
-| 8 | myopia X-linked | 99.69% | DL |
-| 9 | Charcot-Marie-Tooth disease, demyelinating, type 1G | 99.68% | DL |
-| 10 | polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 99.68% | DL |
-| 11 | myopia 26, X-linked, female-limited | 99.65% | DL |
-| 12 | atypical glycine encephalopathy | 99.58% | DL |
-| 13 | major affective disorder | 99.57% | DL |
-| 14 | distal 17p13.3 microdeletion syndrome | 99.56% | DL |
-| 15 | schizophreniform disorder | 99.24% | DL |
-| 16 | hydrops-lactic acidosis-sideroblastic anemia-multisystemic failure syndrome | 99.21% | DL |
-| 17 | Malan overgrowth syndrome | 99.12% | DL |
-| 18 | trichotillomania | 98.80% | DL |
-| 19 | Tourette syndrome | 97.74% | DL |
-| 20 | anxiety disorder | 97.12% | DL |
 
 *Showing top 20 of 50 predictions.*
 

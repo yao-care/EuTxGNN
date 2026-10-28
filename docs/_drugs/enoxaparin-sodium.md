@@ -7,14 +7,15 @@ description: "Enoxaparin Sodium drug repurposing predictions from TxGNN. Evidenc
 parent: AI Predictions (L5)
 nav_order: 211
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Enoxaparin Sodium
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | purpura fulminans | 99.81% | DL |
-| 2 | pulmonary embolism (disease) | 99.61% | DL |
-| 3 | thrombophilia due to protein C deficiency, autosomal recessive | 99.58% | DL |
-| 4 | acquired purpura fulminans | 98.99% | DL |
-| 5 | primary release disorder of platelets | 98.91% | DL |
-| 6 | atypical hemolytic-uremic syndrome with thrombomodulin anomaly | 98.63% | DL |
-| 7 | pseudo-von Willebrand disease | 98.50% | DL |
-| 8 | Glanzmann thrombasthenia | 98.31% | DL |
-| 9 | neuropathy, painful | 98.30% | DL |
-| 10 | disseminated intravascular coagulation | 97.54% | DL |
-| 11 | thrombotic thrombocytopenic purpura | 96.73% | DL |
-| 12 | retinal telangiectasia | 90.68% | DL |
-| 13 | arteriosclerotic retinopathy | 89.82% | DL |
-| 14 | retinal microaneurysm | 89.82% | DL |
-| 15 | vertebral artery occlusion | 89.40% | DL |
-| 16 | fetal and neonatal alloimmune thrombocytopenia | 87.31% | DL |
-| 17 | retinal artery occlusion | 87.14% | DL |
-| 18 | Ledderhose disease | 87.14% | DL |
-| 19 | hemorrhagic disorder due to a constitutional thrombocytopenia | 86.62% | DL |
-| 20 | bleeding diathesis due to a collagen receptor defect | 86.38% | DL |
 
 *Showing top 20 of 50 predictions.*
 

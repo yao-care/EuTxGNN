@@ -4,17 +4,17 @@ title: Florbetapir 18F
 parent: AI Predictions (L5)
 nav_order: 265
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Florbetapir 18F: predicted new indication Bronchitis (evidence level L5). Approved use: PET imaging of beta-amyloid neuritic plaque density in the brains of…"
 monitor_inn: "Florbetapir (18F)"
-predicted_indications: ["bronchitis", "rheumatoid arthritis", "bronchial neoplasm (disease)", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "gout", "headache disorder", "trigeminal autonomic cephalalgia", "laryngotracheitis", "osteoarthritis susceptibility"]
+predicted_indications: ["bronchitis"]
 ---
 
 # Florbetapir 18F
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **bronchitis**, but **no clinic
 |------|------|
 | Original Indication | PET imaging of beta-amyloid neuritic plaque density in the brains of adults with cognitive impairment being evaluated for Alzheimer's disease and other causes of cognitive impairment (diagnostic use only) |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.66% |
+| TxGNN Prediction Score | 0.9966 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,9 +61,8 @@ The TxGNN model predicts it may be effective for **bronchitis**, but **no clinic
 
 Currently, detailed mechanism of action data is not available. Based on known information, florbetapir (18F) is a diagnostic PET radiotracer that binds to beta-amyloid plaques. It is given in trace amounts for imaging and has no known therapeutic pharmacology.
 
-The original indication (brain amyloid imaging) and the predicted indication (bronchitis, an inflammatory airway condition) have no apparent biological connection. No antimicrobial, anti-inflammatory, or other therapeutic activity has been documented for this agent. The high score of 0.997 is a graph-based prediction and is not backed by clinical or literature evidence, so this prediction should be treated as a weak, hypothesis-only signal.
+The original indication (brain amyloid imaging) and the predicted indication (bronchitis, an inflammatory airway condition) have no apparent biological connection. No antimicrobial, anti-inflammatory, or other therapeutic activity has been documented for this agent. The high score of 0.9966 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so this prediction should be treated as a weak, hypothesis-only signal.
 
-Other top-ranked predictions show the same pattern: rheumatoid arthritis (98.2%), bronchial neoplasm (96.9%), gout (95.9%), headache disorder (95.7%) and others. None has trials or publications, and none has a credible mechanistic link to a diagnostic tracer.
 
 ---
 

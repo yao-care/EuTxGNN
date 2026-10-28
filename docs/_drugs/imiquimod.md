@@ -48,10 +48,10 @@ with **2 clinical trials** (one small and completed, one terminated early) and *
 |------|------|
 | Original Indication | External genital and perianal warts (condylomata acuminata), small superficial basal cell carcinomas, and actinic keratoses on the face or scalp in adults |
 | Predicted New Indication | Pre-malignant neoplasm |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L1 (see note below) |
-| EU Market Status | ✗ Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 2 (both cancelled) |
+| TxGNN Prediction Score | 0.9992 |
+| Evidence Level | L5 (see note below) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* Under the strict rule (≥2 completed Phase 3 RCTs), the evidence is weaker than L1. Only one Phase 3 trial is completed, and it is open-label and not randomized. The second Phase 3 RCT was terminated after 9 participants. The L1 label comes from the upstream scoring, but a conservative reading would place this closer to L2–L3. The decision below reflects that caution.

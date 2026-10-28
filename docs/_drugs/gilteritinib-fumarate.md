@@ -7,14 +7,15 @@ description: "Gilteritinib Fumarate drug repurposing predictions from TxGNN. Evi
 parent: AI Predictions (L5)
 nav_order: 265
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Gilteritinib Fumarate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | acute myeloid leukemia with t(8;21)(q22;q22) translocation | 99.45% | DL |
-| 2 | acute myeloid leukemia with CEBPA somatic mutations | 99.43% | DL |
-| 3 | acute myeloid leukemia with inv3(p21;q26.2) or t(3;3)(p21;q26.2) | 99.39% | DL |
-| 4 | acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor | 99.30% | DL |
-| 5 | bulbar polio | 99.10% | DL |
-| 6 | acute myeloid leukemia and myelodysplastic syndromes related to alkylating agent | 98.99% | DL |
-| 7 | acute myeloid leukemia and myelodysplastic syndromes related to radiation | 98.99% | DL |
-| 8 | 5q35 microduplication syndrome | 98.89% | DL |
-| 9 | myeloid leukemia | 98.58% | DL |
-| 10 | therapy related acute myeloid leukemia and myelodysplastic syndrome | 98.54% | DL |
-| 11 | acute myeloid leukemia with t(8;16)(p11;p13) translocation | 98.46% | DL |
-| 12 | acute myeloid leukemia with t(9;11)(p22;q23) | 98.27% | DL |
-| 13 | unclassified acute myeloid leukemia | 98.20% | DL |
-| 14 | acute myeloblastic leukemia with maturation | 98.19% | DL |
-| 15 | acute myeloblastic leukemia without maturation | 98.11% | DL |
-| 16 | acute myeloid leukemia with t(6;9)(p23;q34) | 98.10% | DL |
-| 17 | neuralgic amyotrophy | 98.10% | DL |
-| 18 | acute myeloid leukemia with minimal differentiation | 98.09% | DL |
-| 19 | amyotrophic neuralgia | 97.96% | DL |
-| 20 | inherited acute myeloid leukemia | 97.86% | DL |
 
 *Showing top 20 of 50 predictions.*
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Solriamfetol
-parent: AI Predictions (L5)
+parent: High Evidence (L1-L2)
 nav_order: 570
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Solriamfetol: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Improving wakefulness and reducing excessive daytime sleepiness in ad…"
@@ -14,7 +14,7 @@ predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigito
 # Solriamfetol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ with **5 clinical trials** (including 2 completed) and **6 publications** curren
 |------|------|
 | Original Indication | Improving wakefulness and reducing excessive daytime sleepiness in adults with narcolepsy (with or without cataplexy), and in adults with OSA whose sleepiness is not satisfactorily treated by primary OSA therapy such as CPAP |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L1 (see note under Clinical Trial Evidence) |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -89,7 +89,7 @@ Other predictions in the list are much weaker. Insomnia is mechanistically count
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/004893 | Sunosi (status: cancelled) | Not specified | Improves wakefulness and reduces excessive daytime sleepiness in adults with narcolepsy (with or without cataplexy), and in adults with OSA whose sleepiness is not sat... |
+| EMEA/H/C/004893 | Sunosi (status: valid) | Not specified | Improves wakefulness and reduces excessive daytime sleepiness in adults with narcolepsy (with or without cataplexy), and in adults with OSA whose sleepiness is not sat... |
 
 ## Safety Considerations
 

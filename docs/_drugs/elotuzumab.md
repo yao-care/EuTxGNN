@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Elotuzumab
-parent: Medium Evidence (L3-L4)
+parent: Known Uses Only (No New Predictions)
 nav_order: 217
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Elotuzumab: predicted new indication Indolent plasma cell myeloma (evidence level L4). Approved use: Multiple myeloma in adults who have received at least one prior thera…"
-monitor_inn: "Elotuzumab"
-predicted_indications: ["lipoma of colon", "cecum villous adenoma", "colonic lymphangioma", "colon leiomyoma", "rectosigmoid junction neoplasm", "cecum neuroendocrine tumor G1", "cecal disease", "benign neoplasm of cecum", "cavernous hemangioma of colon"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Elotuzumab: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Elotuzumab
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,53 +32,45 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Elotuzumab: From Multiple Myeloma to Indolent Plasma Cell Myeloma
+<!-- known-uses-page -->
+<!-- description: Elotuzumab: known uses and market status in the European Union; currently no new candidate indication -->
+## Elotuzumab: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model has no candidate with a score of 0.99 or higher for Elotuzumab, so there is currently no new predicted indication. The drug's recorded uses are listed below. They are the drug's own known uses, not model candidates.
 
-Elotuzumab (Empliciti) is a monoclonal antibody originally used, in combination with lenalidomide and dexamethasone, to treat adult patients with multiple myeloma who have received at least one prior therapy.
-The TxGNN model predicts it may be effective for **indolent plasma cell myeloma** (smoldering myeloma), but **no clinical trials** and only **1 general review article** are included in the data compiled for this report, so the prediction is largely a model output.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Multiple myeloma in adults who have received at least one prior therapy (with lenalidomide and dexamethasone) |
-| Predicted New Indication | Indolent plasma cell myeloma |
-| TxGNN Prediction Score | 98.62% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
-| Recommended Decision | Hold |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 2 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
-## Why is This Prediction Reasonable?
+## Known uses recorded for this drug
 
-Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, elotuzumab targets SLAMF7 (CS1), a protein highly expressed on myeloma plasma cells and on natural killer (NK) cells. It is thought to work by activating NK cells directly and by triggering NK-cell-mediated antibody-dependent cellular cytotoxicity against myeloma cells.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| multiple myeloma | licence in another country |
 
-Indolent (smoldering) plasma cell myeloma is a precursor stage of the same disease family as the approved indication, relapsed/refractory multiple myeloma. Because the malignant cells in both conditions are plasma cells, the target is plausibly present, which makes a mechanistic fit reasonable.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-However, the high score (0.986) mostly reflects closeness to the existing label rather than a new repurposing signal. The one supporting paper is a general review of multiple myeloma and offers only indirect support. Smoldering myeloma has reportedly been studied with elotuzumab in the wider literature (for example, a Phase 2 study combined with lenalidomide and dexamethasone), but this is not part of the data compiled here and should be verified independently before being used for evidence grading.
-
-The other nine predictions (all colonic or cecal lesions such as lipoma, villous adenoma, lymphangioma, leiomyoma, neuroendocrine tumor and hemangioma) have no plausible SLAMF7-based mechanism and no supporting studies. They appear to come from knowledge-graph proximity rather than biology and are not recommended for further pursuit.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered in the data compiled for this report.
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [27610224](https://pubmed.ncbi.nlm.nih.gov/27610224/) | 2016 | Review | F1000Research | General review of advances in multiple myeloma; notes that former ultra-high-risk smoldering myeloma is now classed as myeloma needing treatment. Indirect support only. |
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| plasma cell myeloma |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003967 | Empliciti | Not specified | Empliciti is indicated in combination with lenalidomide and dexamethasone for the treatment of multiple myeloma in adult patients who have received at least one prior therapy... |
-
-Status of this authorization: cancelled.
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/003967 | Empliciti |  | Valid |
 
 ## Cytotoxicity
 
@@ -97,19 +88,6 @@ Status of this authorization: cancelled.
 
 Please refer to the SmPC for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction for indolent plasma cell myeloma is biologically plausible but sits very close to the existing multiple myeloma indication. There are no registered trials and only one non-specific review in the compiled data. The EU authorization is cancelled, and label safety information is unavailable, so the evidence is not enough to move forward.
-
-**To proceed, the following is needed:**
-- Independent verification of published smoldering myeloma studies with elotuzumab (for example, the Phase 2 study with lenalidomide and dexamethasone) and registered trial searches
-- Mechanism of action data from DrugBank
-- Warnings and contraindications from the EMA product information (this currently blocks safety screening)
-- Clarification of why the EU authorization was cancelled and whether it was for commercial or safety reasons
-- Review of the two Major interaction flags (samarium lexidronam, adalimumab) in a clinical context
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

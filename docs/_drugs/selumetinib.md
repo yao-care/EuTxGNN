@@ -5,10 +5,10 @@ parent: AI Predictions (L5)
 nav_order: 555
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Selumetinib: predicted new indication Familial generalized lentiginosis (evidence level L5). Approved use: Symptomatic…"
 monitor_inn: "Selumetinib"
-predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "rhabdoid tumor", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "acromelanosis", "Moynahan syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "peripheral nerve schwannoma", "microcystic/reticular schwannoma"]
+predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "rhabdoid tumor", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "acromelanosis", "Moynahan syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "peripheral nerve schwannoma", "trigeminal schwannoma"]
+last_modified_at: 2026-10-23
+description: "Selumetinib: predicted new indication Familial generalized lentiginosis (evidence level L5). Approved use: Symptomatic…"
 ---
 
 # Selumetinib
@@ -33,13 +33,14 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Selumetinib: From Plexiform Neurofibromas in NF1 to Familial Generalized Lentiginosis
+## Selumetinib: From Neurofibromatosis Type 1 Plexiform Neurofibromas to Familial Generalized Lentiginosis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Selumetinib (marketed as Koselugo) was originally used to treat symptomatic, inoperable plexiform neurofibromas in children aged 3 years and above with neurofibromatosis type 1 (NF1).
-The TxGNN model predicts it may be effective for **familial generalized lentiginosis**, but **no clinical trials and no publications** currently support this specific prediction.
+Selumetinib is a MEK1/2 inhibitor authorised in the EU for symptomatic, inoperable plexiform neurofibromas in children with neurofibromatosis type 1 (NF1).
+The TxGNN model ranks **familial generalized lentiginosis** as its top predicted new indication, but **no clinical trials and no publications** support this specific prediction.
+Among the other predictions, peripheral nerve schwannoma has the most supporting evidence (3 clinical trials, 6 publications) and is discussed below as a secondary lead.
 
 ## Quick Overview
 
@@ -47,58 +48,108 @@ The TxGNN model predicts it may be effective for **familial generalized lentigin
 |------|------|
 | Original Indication | Symptomatic, inoperable plexiform neurofibromas (PN) in paediatric patients with NF1 aged 3 years and above |
 | Predicted New Indication | Familial generalized lentiginosis |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Selumetinib is a MEK inhibitor, and its efficacy in NF1-related plexiform neurofibromas, a condition driven by overactive RAS/MAPK signalling, is the basis of its approval.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Selumetinib is known as a MEK1/2 inhibitor, which blocks the RAS/MAPK signalling pathway. Its efficacy in NF1 plexiform neurofibromas, a condition driven by overactive RAS/MAPK signalling, is the basis of its EU authorisation.
 
-Pigmentary lentiginosis syndromes may involve dysregulation of the same RAS/MAPK pathway, as seen in the RASopathies. MEK inhibition could therefore theoretically modulate it. This is a hypothesis only. The high score may also reflect shared phenotype features with NF1, such as pigmentary skin changes, rather than a validated shared mechanism.
+Pigmentary lentiginosis syndromes can involve dysregulation of the RAS/MAPK pathway, so MEK inhibition is mechanistically plausible. However, this link is hypothetical. The prediction rests on the TxGNN score alone, and no trial or publication in the compiled data tests selumetinib in familial generalized lentiginosis.
+
+**Other predictions in the ranking**
+
+- **Peripheral nerve schwannoma** (score 0.9995, evidence level L3) has the strongest support. Schwannomas in NF2-related schwannomatosis involve loss of merlin and downstream RAS/RAF/MEK/ERK activation. Selumetinib is already authorised for a related Schwann-cell-lineage tumour (NF1 plexiform neurofibroma).
+- **Rhabdoid tumor** (score 0.9996) has only indirect preclinical support. A 2015 study suggests atypical teratoid rhabdoid tumours depend on the MAPK pathway.
+- **Other predictions** (gastrocutaneous syndrome, congenital multiple café-au-lait macules syndrome, acromelanosis, Moynahan syndrome, leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome, osteopathia striata-pigmentary dermopathy-white forelock syndrome, trigeminal schwannoma) have no trials or literature. They are model predictions only.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+No clinical trials are registered for familial generalized lentiginosis. Currently no related clinical trials registered.
+
+For context, the trials below were found for the secondary candidates.
+
+**Peripheral nerve schwannoma**
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT03095248](https://clinicaltrials.gov/study/NCT03095248) | Phase 2 | Terminated | 10 | Selumetinib in NF2-related tumours. Aims to see whether it stops tumour growth and affects hearing. Terminated early with only 10 participants, so no robust efficacy conclusion can be drawn. |
+| [NCT07707947](https://clinicaltrials.gov/study/NCT07707947) | Phase 2 | Not yet recruiting | 20 | Single-centre, single-arm study of a MEK1/2 inhibitor (selumetinib) in NF2-related schwannomatosis, adults and children. No results yet. |
+| [NCT07713745](https://clinicaltrials.gov/study/NCT07713745) | Phase 2 | Not yet recruiting | 200 | PRIME-NF2 adaptive platform-basket trial in NF2-related schwannomatosis. No confirmed selumetinib arm in the compiled data. |
+
+**Rhabdoid tumor**
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT03155620](https://clinicaltrials.gov/study/NCT03155620) | Phase 2 | Active, not recruiting | 1377 | NCI-COG Pediatric MATCH screening protocol. It assigns children with advanced solid tumours to targeted therapy based on tumour genetics, so it is only indirectly relevant. |
 
 ## Literature Evidence
 
-Currently no related literature available.
+No publications address selumetinib in familial generalized lentiginosis. Currently no related literature available.
+
+For context, the key publications for the secondary candidates are listed below.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [38058737](https://pubmed.ncbi.nlm.nih.gov/38058737/) | 2023 | Case report | Mol Ther Methods Clin Dev | Partial response to selumetinib in a patient with NF2-associated ependymoma (schwannomas and other tumours also present). |
+| [37906356](https://pubmed.ncbi.nlm.nih.gov/37906356/) | 2023 | Review | Curr Oncol Rep | Management of nervous system tumours in NF1, NF2 and schwannomatosis. MEK inhibitors are discussed as a treatment advance. |
+| [37046591](https://pubmed.ncbi.nlm.nih.gov/37046591/) | 2023 | Review / expert recommendations | Cancers | EURACAN recommendations on diagnosis and treatment of peripheral and cranial nerve tumours. Evidence is low owing to rarity. |
+| [38216572](https://pubmed.ncbi.nlm.nih.gov/38216572/) | 2024 | Preclinical | Nat Commun | Interactions between NF1 and NF2 tumour suppressors in Schwann cell tumour de-differentiation and treatment resistance. |
+| [25638158](https://pubmed.ncbi.nlm.nih.gov/25638158/) | 2015 | Preclinical | Oncotarget | Disrupting LIN28 in atypical teratoid rhabdoid tumours shows dependence on the MAPK pathway as a therapeutic target. |
+| [33835000](https://pubmed.ncbi.nlm.nih.gov/33835000/) | 2020 | Case report / review | Acta Dermatovenerol Croat | Plexiform neurofibroma occurring without NF1. |
+| [40861330](https://pubmed.ncbi.nlm.nih.gov/40861330/) | 2025 | Case report | Surg Case Rep | Surgical management of a giant mediastinal schwannoma in NF1. Not about selumetinib. |
 
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/005244 | Koselugo | Not specified | Monotherapy for symptomatic, inoperable plexiform neurofibromas (PN) in paediatric patients with NF1 aged 3 years and above |
+| EMEA/H/C/005244 | Koselugo | Not specified | Monotherapy for symptomatic, inoperable plexiform neurofibromas (PN) in paediatric patients with neurofibromatosis type 1 (NF1) aged 3 years and above |
 
-This authorization is recorded as **cancelled**, so no valid EU authorization is currently listed.
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (MEK1/2 inhibitor), not a conventional cytotoxic |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-- **Drug Interactions**: 84 interactions were recorded. The first 20 returned include:
-  - **Major**: aprepitant, dexamethasone, clarithromycin, cobicistat. Several of these are likely related to metabolic (CYP) pathways, so concomitant use needs careful review.
-  - **Moderate**: acetylsalicylic acid, cimetidine, clotrimazole, deferasirox, metreleptin, troglitazone, glycerol phenylbutyrate. Also several antithrombotic and antiplatelet agents: apixaban, betrixaban, bivalirudin, cangrelor, caplacizumab, cilostazol, dipyridamole, abciximab and antithrombin III. Their combined use with selumetinib warrants bleeding-risk attention.
+The compiled data contains no warning or contraindication text. Please refer to the SmPC for these.
 
-For warnings and contraindications, please refer to the SmPC.
+**Drug Interactions**: The data records 84 interactions. Examples rated **Major** are:
+- Aprepitant
+- Dexamethasone
+- Clarithromycin
+- Cobicistat
+
+Examples rated **Moderate** include:
+- Acetylsalicylic acid
+- Cimetidine
+- Clotrimazole
+- Deferasirox
+- Several anticoagulants and antiplatelet agents (e.g. apixaban, bivalirudin, cilostazol, dipyridamole)
+
+Review the full interaction list and the SmPC before any use.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a very high model score. There are no clinical trials or publications for familial generalized lentiginosis, and the mechanistic link is theoretical. The EU authorization is also recorded as cancelled.
+Familial generalized lentiginosis rests on a model score alone (L5), with no trials, no literature and only a hypothetical RAS/MAPK link. Peripheral nerve schwannoma is a more credible secondary lead, but its direct evidence is limited to a terminated 10-patient Phase 2 trial and case reports, so it is a research question, not a go decision.
 
 **To proceed, the following is needed:**
-- Mechanistic or preclinical evidence that MEK/MAPK signalling drives familial generalized lentiginosis
-- Confirmed MOA data and a review of the SmPC warnings and contraindications
-- Clarification of the cancelled EU authorization status and the available dosage forms
-- A drug-interaction management plan, particularly for strong CYP inhibitors and antithrombotic agents
-
-**Note on other predictions in the same list:**
-- **Peripheral nerve schwannoma** (rank 9) has the most supporting material, rated L3 and described as generous. It includes a terminated Phase 2 selumetinib trial in NF2-related tumors (NCT03095248, n=10), two not-yet-recruiting NF2-schwannomatosis trials (NCT07707947, NCT07713745) and a case report of partial response in NF2-associated ependymoma (PMID 38058737). It is a better candidate for further investigation as a research question.
-- **Rhabdoid tumor** (rank 3) has L4 evidence, with preclinical MAPK-dependence data (PMID 25638158) and only indirect trial relevance through the Pediatric MATCH protocol (NCT03155620).
+- Mechanism-of-action data and a documented pathway link between familial generalized lentiginosis and MEK/RAS-MAPK signalling
+- Any case reports, genetic studies or preclinical models of MEK inhibition in lentiginosis syndromes
+- EU label safety information (warnings and contraindications) reviewed from the SmPC
+- For the schwannoma lead: results from NCT03095248 and the outcome of the planned NCT07707947 and NCT07713745 trials
+- Paediatric safety and dosing considerations, since the current EU authorisation is limited to children aged 3 years and above with NF1
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

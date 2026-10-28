@@ -4,7 +4,7 @@ title: Ipilimumab
 parent: AI Predictions (L5)
 nav_order: 333
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Ipilimumab: predicted new indication Choroideremia (evidence level L5). Approved use: Advanced (unresectable or metastatic) melanoma…"
 monitor_inn: "Ipilimumab"
@@ -14,7 +14,7 @@ predicted_indications: ["choroideremia"]
 # Ipilimumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Ipilimumab (Yervoy) is an anti-CTLA-4 antibody, originally used to treat advanced melanoma and, in combination with nivolumab, several other cancers. The TxGNN model's top-ranked prediction is **choroideremia** (score 99.06%), but this prediction has **no clinical trials and no publications** behind it and is not biologically plausible. The data compiled for this report show far stronger support for the melanoma subtypes ranked below it, especially **non-cutaneous melanoma** (21 trials listed, 6 publications) and **acral lentiginous melanoma** (4 trials, 5 publications).
+Ipilimumab (Yervoy) is an anti-CTLA-4 antibody, originally used to treat advanced melanoma and, in combination with nivolumab, several other cancers. The TxGNN model's top-ranked prediction is **choroideremia** (score 0.9906), but this prediction has **no clinical trials and no publications** behind it and is not biologically plausible. The data compiled for this report show far stronger support for the melanoma subtypes ranked below it, especially **non-cutaneous melanoma** (21 trials listed, 6 publications) and **acral lentiginous melanoma** (4 trials, 5 publications).
 
 ---
 
@@ -48,10 +48,10 @@ Ipilimumab (Yervoy) is an anti-CTLA-4 antibody, originally used to treat advance
 |------|------|
 | Original Indication | Advanced (unresectable or metastatic) melanoma, with additional combination indications (see below) |
 | Predicted New Indication | Choroideremia |
-| TxGNN Prediction Score | 99.06% |
+| TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (the single listed authorization is recorded as cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -60,9 +60,9 @@ Ipilimumab (Yervoy) is an anti-CTLA-4 antibody, originally used to treat advance
 
 Detailed mechanism of action data is not available in the data compiled for this report. Ipilimumab is known to be a CTLA-4 checkpoint inhibitor. It enhances T-cell priming and activation, and its efficacy in melanoma is established.
 
-**Choroideremia is not a plausible target.** It is an X-linked inherited retinal degeneration caused by loss of function of the CHM (REP1) gene. It is neither an immune-mediated nor an oncologic disease, so CTLA-4 blockade has no credible mechanistic connection. The high score appears to be a graph-based artifact, possibly from network proximity to melanoma or ocular terms. Immune checkpoint inhibition could also add ocular immune-related toxicity risk in an already degenerating retina.
+**Choroideremia is not a plausible target.** It is an X-linked inherited retinal degeneration caused by loss of function of the CHM (REP1) gene. It is neither an immune-mediated nor an oncologic disease, so CTLA-4 blockade has no credible mechanistic connection. The high score (0.9906) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Immune checkpoint inhibition could also add ocular immune-related toxicity risk in an already degenerating retina.
 
-**Better-supported predictions in the same list** are all melanoma subtypes: non-cutaneous melanoma (rank 2), epithelioid cell melanoma, eyelid melanoma, scrotum melanoma, lentigo maligna melanoma, acral lentiginous melanoma, nodular melanoma, balloon cell melanoma and CDK4-linked melanoma. Most of these fall under the already approved advanced melanoma indication, so they are subtype-specific extensions rather than true repurposing. The report therefore also summarizes evidence for rank 2 and rank 7 below.
+**Better-supported predictions in the same list** are all melanoma subtypes: epithelioid cell melanoma, eyelid melanoma, scrotum melanoma, lentigo maligna melanoma, acral lentiginous melanoma, nodular melanoma, balloon cell melanoma and CDK4-linked melanoma. Most of these fall under the already approved advanced melanoma indication, so they are subtype-specific extensions rather than true repurposing. The report therefore also summarizes evidence for rank 7 below.
 
 ---
 
@@ -70,7 +70,6 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 **Choroideremia (rank 1):** Currently no related clinical trials registered.
 
-**Reference: non-cutaneous melanoma (rank 2), most relevant trials**
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -102,7 +101,6 @@ Many of the trials above test other agents, with ipilimumab as a comparator or a
 
 **Choroideremia (rank 1):** Currently no related literature available.
 
-**Reference: non-cutaneous melanoma (rank 2)**
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -123,7 +121,7 @@ No randomized controlled trial publications are included for any prediction.
 |---------|------|------|-----------|
 | EMEA/H/C/002213 | Yervoy | Not specified | Advanced melanoma (monotherapy or with nivolumab), renal cell carcinoma, NSCLC, malignant pleural mesothelioma, dMMR/MSI-H colorectal cancer, oesophageal squamous cell carcinoma, hepatocellular carcinoma... |
 
-This authorization is recorded as cancelled, and no currently valid authorization appears in the data compiled for this report.
+This authorization is recorded as valid: the drug is marketed in this country, with 1 valid licence out of 1.
 
 ---
 
@@ -159,7 +157,7 @@ Warnings and contraindications from the product label were not available. Please
 
 **Rationale:**
 - Choroideremia is a genetic retinal degeneration with no immune or oncologic mechanism, and the prediction has no trials or literature behind it. The high score is likely a model artifact, and the evidence level is L5.
-- Among the other predictions, **non-cutaneous melanoma** and **acral lentiginous melanoma** were rated "Proceed with Guardrails" (L2). However, they largely fall within the already approved melanoma indication, so they are subtype extensions rather than true repurposing. The evidence is mostly phase 2, small, or indirect.
+- Among the other predictions, **acral lentiginous melanoma** was rated "Proceed with Guardrails" (L2). However, it largely falls within the already approved melanoma indication, so it is a subtype extension rather than true repurposing. The evidence is mostly phase 2, small, or indirect.
 
 **To proceed, the following is needed:**
 - Do not pursue choroideremia unless a credible biological rationale emerges.

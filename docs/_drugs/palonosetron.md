@@ -4,17 +4,17 @@ title: Palonosetron
 parent: Medium Evidence (L3-L4)
 nav_order: 462
 evidence_level: L4
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Palonosetron: predicted new indication Migraine disorder (evidence level L4). Approved use: Prevention of acute nausea and vomiting associated with highly emetog…"
 monitor_inn: "Palonosetron"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "headache disorder", "trigeminal autonomic cephalalgia", "open-angle glaucoma", "sciatic neuropathy", "primary hereditary glaucoma"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+description: "Palonosetron: predicted new indication Migraine disorder (evidence level L4). Approved use: Aloxi is indicated in adults for: the prevention of acute nausea and…"
 ---
 
 # Palonosetron
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Palonosetron: From Chemotherapy-Induced Nausea and Vomiting to Migraine Disorder
+## Palonosetron: Migraine disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 
 | Item | Content |
 |------|------|
-| Original Indication | Prevention of acute nausea and vomiting associated with highly emetogenic cancer chemotherapy, and of nausea and vomiting associated with moderately emetogenic cancer chemotherapy (adults, and paediatric patients 1 month and older) |
+| Original Indication | Aloxi is indicated in adults for: the prevention of acute nausea and vomiting associated with highly emetogenic cancer chemotherapy, the prevention of nausea and vomiting associated with moderately emetogenic cancer chemotherapy. Aloxi is indicated in paediatric patients 1 month of age and older for |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.74% |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no valid authorizations) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, palonosetron belongs to the 5-HT3 receptor antagonist class. Its efficacy in chemotherapy-induced nausea and vomiting is established, and the 5-HT3 receptor is a plausible, though unproven, participant in trigeminovascular signalling relevant to migraine.
 
-The high TxGNN score (0.997) most likely reflects proximity within the knowledge graph between the drug's targets and migraine-related nodes. It should not be read as clinical evidence. Nausea and vomiting are also core migraine symptoms, which may partly explain the network association, but symptom control is different from treating the underlying disorder.
+The high TxGNN score (0.9974) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should not be read as clinical evidence. Nausea and vomiting are also core migraine symptoms, which may partly explain the learned association, but symptom control is different from treating the underlying disorder.
 
 The only literature linked to this prediction points the opposite way. The case report (PMID 21132477) describes migraine-type headache induced by palonosetron, and headache is a recognised adverse effect of this drug class. No evidence shows that palonosetron prevents or treats migraine.
 
@@ -111,7 +111,7 @@ Please refer to the SmPC for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. The single linked publication is a case report of palonosetron causing migraine-type headache, which points toward harm rather than benefit. No clinical trials exist, and the product has no valid EU authorization.
+The prediction rests only on a model score. The single linked publication is a case report of palonosetron causing migraine-type headache, which points toward harm rather than benefit.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) and a mechanistic analysis of 5-HT3 involvement in migraine

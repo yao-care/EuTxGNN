@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Trastuzumab
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 635
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Trastuzumab: predicted new indication Progesterone-receptor positive breast cancer (evidence level L1). Approved use: HER2-positive metastatic breast cancer (MBC)…"
 monitor_inn: "Trastuzumab"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
+description: "Trastuzumab: predicted new indication Malignant cutaneous granular cell skin tumor (evidence level L5). Approved use: Metastatic breast cancer (MBC) For the treatment of adult patients wi…"
 ---
 
 # Trastuzumab
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Trastuzumab: From HER2-Positive Breast and Gastric Cancer to Progesterone-Receptor Positive Breast Cancer
+## Trastuzumab: Malignant cutaneous granular cell skin tumor
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Trastuzumab is a HER2-targeted monoclonal antibody, originally used for HER2-positive metastatic and early breast cancer and HER2-positive metastatic gastric cancer.
-The TxGNN model predicts it may be effective for **progesterone-receptor positive breast cancer**,
 with **14 clinical trials** and **20 publications** currently linked to this prediction. This is largely an on-label use in HER2-positive disease rather than a true repurposing.
 
 ---
@@ -48,12 +47,12 @@ with **14 clinical trials** and **20 publications** currently linked to this pre
 
 | Item | Content |
 |------|------|
-| Original Indication | HER2-positive metastatic breast cancer (MBC), early breast cancer (EBC), and HER2-positive metastatic gastric cancer |
-| Predicted New Indication | Progesterone-receptor positive breast cancer |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L1 |
-| EU Market Status | Cancelled only (no currently valid authorizations in the data compiled) |
-| Number of Authorizations | 10 (all cancelled) |
+| Original Indication | Metastatic breast cancer (MBC) For the treatment of adult patients with HER2-positive MBC: as monotherapy for the treatment of those patients who have received at least two chemotherapy regimens for their metastatic disease. Prior chemotherapy must have included at least an anthracycline and a taxan |
+| Predicted New Indication | Malignant cutaneous granular cell skin tumor |
+| TxGNN Prediction Score | 0.9948 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 10 of 10) |
+| Number of Authorizations | 10 (valid: 10) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -64,7 +63,7 @@ Trastuzumab binds the extracellular domain of HER2, blocks HER2 signalling and m
 
 HER2-positive tumours are frequently also progesterone-receptor (PR) positive (the HER2+/HR+ subtype). These patients are already covered by the approved breast cancer indications, including trastuzumab combined with an aromatase inhibitor for postmenopausal patients with hormone-receptor-positive metastatic disease. Benefit depends on HER2 status, not PR status. The high TxGNN score therefore reflects a real biological and clinical link, but the prediction describes existing use in a HER2-positive subgroup.
 
-Other predicted indications in the same output differ in strength. Predictions for PR-negative breast cancer and luminal A/B breast tumours are similarly on-label when HER2 is confirmed. Predictions for rare tumours (for example ectomesenchymoma, HHV-8-related tumours and middle ear neuroendocrine tumour) rest on the knowledge-graph score only, with no supporting trials or literature.
+Other predicted indications in the same output differ in strength. Predictions for PR-negative breast cancer and luminal A/B breast tumours are similarly on-label when HER2 is confirmed. Predictions for rare tumours (for example ectomesenchymoma, HHV-8-related tumours and middle ear neuroendocrine tumour) rest on the TxGNN model (deep learning) score only, with no supporting trials or literature.
 
 ---
 
@@ -108,7 +107,6 @@ The pivotal adjuvant trial of trastuzumab with chemotherapy in HER2-positive bre
 
 ## EU Market Information
 
-All 10 EU authorizations in the data compiled are cancelled; none is currently valid.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -152,7 +150,6 @@ A large completed Phase 3 randomized trial (3270 patients) and multiple RCTs sup
 
 **To proceed, the following is needed:**
 - Mandatory HER2 testing with an accurate, validated assay before treatment
-- Confirmation of current EU marketing status, since all 10 authorizations in the data are cancelled
 - Retrieval of the SmPC warnings and contraindications, which were not available in the data compiled
 - Detailed mechanism-of-action data from DrugBank
 - A cardiac monitoring plan, particularly with anthracycline-containing regimens

@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Patisiran
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 469
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Patisiran: predicted new indication Dermatitis (evidence level L5). Approved use: Treatment of hATTR amyloidosis in adult patients with stage 1 or stag…"
+description: "Patisiran: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Patisiran"
-predicted_indications: ["dermatitis", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "Smouldering systemic mastocytosis", "overactive bladder (disease)", "lymphoadenopathic mastocytosis with eosinophilia"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Patisiran
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,41 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Patisiran: From Hereditary Transthyretin-Mediated Amyloidosis to Dermatitis
+## Patisiran
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Patisiran is an siRNA drug originally used to treat hereditary transthyretin-mediated amyloidosis (hATTR amyloidosis) with polyneuropathy.
-The TxGNN model predicts it may be effective for **dermatitis**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Treatment of hATTR amyloidosis in adult patients with stage 1 or stage 2 polyneuropathy |
-| Predicted New Indication | Dermatitis |
-| TxGNN Prediction Score | 90.65% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
-| Recommended Decision | Hold |
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, patisiran is a small interfering RNA (siRNA) that silences hepatic transthyretin (TTR) mRNA, and its efficacy in hATTR amyloidosis polyneuropathy is the basis of its approval.
-
-No established link exists between lowering TTR and dermatitis. The high TxGNN score reflects graph-based similarity only and is not supported by mechanistic or clinical data. At this stage, the prediction should be treated as a hypothesis with no supporting rationale.
-
-Other top-ranked predictions show the same pattern. They include hydroa vacciniforme, amyopathic dermatomyositis, acne keloid, neonatal dermatomyositis, acrodermatitis chronica atrophicans and several mastocytosis subtypes. None has a recognised connection to TTR silencing, and none has trial or literature support. Overactive bladder is the only one with a loose conceptual connection, because autonomic dysfunction occurs in hATTR amyloidosis. That is a manifestation of amyloid neuropathy and does not show that patisiran treats overactive bladder in general.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+| Original Indication | Onpattro is indicated for the treatment of hereditary transthyretin-mediated amyloidosis (hATTR amyloidosis) in adult patients with stage 1 or stage 2 polyneuropathy. |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
 ## EU Market Information
 
@@ -81,19 +58,6 @@ Please refer to the SmPC for safety information.
 
 No drug interaction records were found for patisiran in the data compiled for this report.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanistic link between TTR silencing and dermatitis. The only EU authorization is cancelled, and the safety data are incomplete, so the case cannot advance.
-
-**To proceed, the following is needed:**
-- Mechanism of action data (for example from DrugBank) and a mechanistic analysis of whether TTR silencing could plausibly affect dermatitis
-- Warnings and contraindications from the SmPC, which are required for safety screening
-- A literature and trial search for patisiran in inflammatory skin conditions, to determine whether any real-world signal exists
-- Clarification of the current regulatory status of Onpattro in the EU, since the data show only a cancelled authorization
-- Assessment of route and formulation compatibility with the target indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

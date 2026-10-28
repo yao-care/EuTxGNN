@@ -4,17 +4,17 @@ title: Dibotermin Alfa
 parent: AI Predictions (L5)
 nav_order: 190
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Dibotermin Alfa: predicted new indication Esotropia (evidence level L5). Approved use: Single-level lumbar interbody spine fusion in adults with degenerativ…"
 monitor_inn: "Dibotermin alfa"
-predicted_indications: ["esotropia", "HER2 positive breast carcinoma", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer", "non-syndromic esophageal malformation", "multifocal choroiditis", "atypical coarctation of aorta", "anemia of prematurity"]
+predicted_indications: ["esotropia", "HER2 positive breast carcinoma", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer", "non-syndromic esophageal malformation", "multifocal choroiditis", "atypical coarctation of aorta"]
 ---
 
 # Dibotermin Alfa
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **esotropia**, but **no clinica
 |------|------|
 | Original Indication | Single-level lumbar interbody spine fusion in adults with degenerative disc disease (after at least 6 months of non-operative treatment); acute tibial fractures in adults, as an adjunct to standard care |
 | Predicted New Indication | Esotropia |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **esotropia**, but **no clinica
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, dibotermin alfa is a recombinant human bone morphogenetic protein-2 (BMP-2). It acts on osteogenic signaling and promotes bone formation, which is the basis of its use in spinal fusion and fracture healing.
 
-Esotropia is an ocular motor alignment disorder (inward deviation of the eye). It has no clear mechanistic link to bone formation. The very high TxGNN score appears to be a knowledge-graph artifact rather than a biologically grounded signal, and no clinical or literature evidence supports it.
+Esotropia is an ocular motor alignment disorder (inward deviation of the eye). It has no clear mechanistic link to bone formation. The very high TxGNN score appears to be a TxGNN model (deep learning) artifact rather than a biologically grounded signal, and no clinical or literature evidence supports it.
 
 Other top-ranked predictions are mostly breast carcinoma subtypes (HER2-positive, luminal A/B, progesterone-receptor positive and negative, and normal breast-like). BMP-2 signaling has context-dependent roles in breast cancer biology, such as proliferation, migration and epithelial-mesenchymal transition. A growth-factor agonist could therefore carry a risk of promoting tumor growth, which is a safety concern. Predictions such as esophageal malformation, multifocal choroiditis, atypical coarctation of the aorta and anemia of prematurity have only weak, indirect developmental or physiological links, or none.
 

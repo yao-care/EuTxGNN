@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Sildenafil with the latest h
 <li>Ambras type hypertrichosis universalis congenita</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/sildenafil/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (25)

@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **autoimmune oophoritis**, but 
 |------|------|
 | Original Indication | Treatment of diabetes mellitus |
 | Predicted New Indication | Autoimmune oophoritis |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 5 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Authorizations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, insulin human is a replacement hormone whose efficacy in diabetes mellitus is well established. It lowers blood glucose by replacing or supplementing the body's own insulin.
 
-For autoimmune oophoritis, the data compiled for this report does not support a direct mechanistic link between insulin signalling and autoimmune destruction of the ovary. The high score (99.84%) reflects a model-based association, not clinical or experimental evidence, and the model's ranking alone cannot establish a therapeutic rationale.
+For autoimmune oophoritis, the data compiled for this report does not support a direct mechanistic link between insulin signalling and autoimmune destruction of the ovary. The high score (0.9984) reflects a model-based association, not clinical or experimental evidence, and the model's ranking alone cannot establish a therapeutic rationale.
 
 The other top-ranked predictions show the same pattern:
 - **Stiff-person spectrum disorders** (focal stiff limb syndrome, classic stiff person syndrome): The signal likely reflects the co-occurrence of anti-GAD autoimmunity and type 1 diabetes. This is a comorbidity link; insulin would treat the diabetes, not the neurological syndrome.
@@ -75,7 +75,7 @@ Currently no related literature available.
 
 ## EU Market Information
 
-All five authorizations are cancelled.
+All five authorizations are valid.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -103,13 +103,13 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. No clinical trials or publications support insulin for autoimmune oophoritis, and no direct mechanistic link is supported by the data. In addition, all EU authorizations for this drug are cancelled. The other top predictions are explained by comorbidity with diabetes or by insulin's own adverse effects, not by new therapeutic potential.
+The prediction rests only on a model score. No clinical trials or publications support insulin for autoimmune oophoritis, and no direct mechanistic link is supported by the data. In addition, the drug is marketed in this country, with 5 valid licences of 5. The other top predictions are explained by comorbidity with diabetes or by insulin's own adverse effects, not by new therapeutic potential.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for insulin human, to assess any link to ovarian autoimmunity
 - Systematic literature and trial searches for insulin in autoimmune oophoritis
 - Warnings and contraindications from the SmPC, which are currently missing
-- Clarification of the current EU regulatory status, since all authorizations are cancelled
+- Confirmation of the current regulatory status, since 5 of 5 licences are valid
 - Supporting preclinical or mechanistic evidence before any clinical development
 ## Disclaimer
 

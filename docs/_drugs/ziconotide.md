@@ -4,17 +4,17 @@ title: Ziconotide
 parent: Medium Evidence (L3-L4)
 nav_order: 682
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Ziconotide: predicted new indication Migraine disorder (evidence level L4). Approved use: Treatment of severe…"
 monitor_inn: "Ziconotide"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "obesity disorder", "transient ischemic attack (disease)", "open-angle glaucoma", "obsolete neurogenic bladder (disease)", "migraine with or without aura, susceptibility to", "primary hereditary glaucoma", "preeclampsia"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "obesity disorder", "transient ischemic attack (disease)", "open-angle glaucoma", "obsolete neurogenic bladder (disease)", "primary hereditary glaucoma", "preeclampsia"]
 ---
 
 # Ziconotide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but currently there are **0 registered clinical trials** and only **1 case repor
 |------|------|
 | Original Indication | Treatment of severe, chronic pain in patients who require intrathecal (IT) analgesia |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -78,7 +78,7 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/000551 | Prialt (status: cancelled) | Not specified | Ziconotide is indicated for the treatment of severe, chronic pain in patients who require intrathecal (IT) analgesia. |
+| EMEA/H/C/000551 | Prialt (status: valid) | Not specified | Ziconotide is indicated for the treatment of severe, chronic pain in patients who require intrathecal (IT) analgesia. |
 
 ## Safety Considerations
 

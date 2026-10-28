@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nilotinib
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 429
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Nilotinib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L4). Approved use: Newly diagnosed Philadelphia chromosome-positive CML in chronic phase…"
 monitor_inn: "Nilotinib"
-predicted_indications: ["dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma", "Ewing sarcoma", "ganglioneuroblastoma (disease)", "heart fibrosarcoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "kidney fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma"]
+predicted_indications: ["dermatofibrosarcoma protuberans"]
+description: "Nilotinib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L5). Approved use: Tasigna is indicated for the treatment of: adult and paediatric patie…"
 ---
 
 # Nilotinib
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Nilotinib: From Philadelphia Chromosome-Positive Chronic Myelogenous Leukaemia to Dermatofibrosarcoma Protuberans
+## Nilotinib: Dermatofibrosarcoma protuberans
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but so far there are **no registered clinical trials** and only **1 review artic
 
 | Item | Content |
 |------|------|
-| Original Indication | Newly diagnosed Philadelphia chromosome-positive CML in chronic phase (adult and paediatric patients); resistant or intolerant CML after prior therapy including imatinib |
+| Original Indication | Tasigna is indicated for the treatment of: adult and paediatric patients with newly diagnosed Philadelphia chromosome positive chronic myelogenous leukaemia (CML) in the chronic phase, paediatric patients with Philadelphia chromosome positive CML in chronic phase with resistance or intolerance to pr |
 | Predicted New Indication | Dermatofibrosarcoma protuberans |
-| TxGNN Prediction Score | 99.31% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 2 (both cancelled) |
+| TxGNN Prediction Score | 0.9931 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -108,7 +108,7 @@ Please also refer to the SmPC for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The PDGFR-driven mechanism of DFSP makes the prediction plausible, but there are no nilotinib trials in DFSP and only one indirect review. The evidence level is L4. In addition, the drug currently has no valid EU marketing authorization (both licences are cancelled).
+The PDGFR-driven mechanism of DFSP makes the prediction plausible, but there are no nilotinib trials in DFSP and only one indirect review. The evidence level is L4.
 
 **To proceed, the following is needed:**
 - Nilotinib-specific preclinical or clinical data in DFSP, including comparison with imatinib, the established treatment
@@ -119,7 +119,6 @@ The PDGFR-driven mechanism of DFSP makes the prediction plausible, but there are
 
 ---
 
-*Other predictions with more supporting evidence: **liposarcoma** (rank 2, evidence level L2) has one Phase I/II trial of nilotinib plus doxorubicin ([NCT02587169](https://clinicaltrials.gov/study/NCT02587169), 40 patients, status unknown) and a published Phase I report ([PMID 30037815](https://pubmed.ncbi.nlm.nih.gov/30037815/)). It may merit separate evaluation as a research question.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

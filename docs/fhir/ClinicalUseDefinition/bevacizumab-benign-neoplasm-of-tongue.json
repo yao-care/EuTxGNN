@@ -2,7 +2,7 @@
   "resourceType": "ClinicalUseDefinition",
   "id": "bevacizumab-benign-neoplasm-of-tongue",
   "meta": {
-    "lastUpdated": "2026-07-26T10:06:12Z"
+    "lastUpdated": "2026-07-26T10:06:13Z"
   },
   "type": "indication",
   "status": "active",
@@ -29,7 +29,11 @@
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/drugbank-id",
-      "valueString": "DB00112"
+      "valueString": "DB01048"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.999
     }
   ]
 }

@@ -4,17 +4,17 @@ title: Rufinamide
 parent: AI Predictions (L5)
 nav_order: 541
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Rufinamide: predicted new indication Febrile infection-related epilepsy syndrome (evidence level L5). Approved use: Adjunctive therapy for seizures associated with Lennox-Gastaut syndro…"
 monitor_inn: "Rufinamide"
-predicted_indications: ["perioral myoclonia with absences", "trigeminal nerve neoplasm", "renal-hepatic-pancreatic dysplasia"]
+predicted_indications: ["perioral myoclonia with absences"]
+description: "Rufinamide: predicted new indication Perioral myoclonia with absences (evidence level L5). Approved use: Inovelon is indicated as adjunctive therapy in the treatment of seizu…"
 ---
 
 # Rufinamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Rufinamide: From Lennox-Gastaut Syndrome to Febrile Infection-Related Epilepsy Syndrome
+## Rufinamide: Perioral myoclonia with absences
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Rufinamide is an antiseizure medicine, originally authorised in the EU as add-on therapy for seizures associated with Lennox-Gastaut syndrome in patients aged 4 years and older.
-The TxGNN model predicts it may be effective for **febrile infection-related epilepsy syndrome (FIRES)**, with a high model score but **no clinical trials and no publications** currently supporting this specific prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Adjunctive therapy for seizures associated with Lennox-Gastaut syndrome (patients ≥4 years) |
-| Predicted New Indication | Febrile infection-related epilepsy syndrome |
-| TxGNN Prediction Score | 99.57% |
+| Original Indication | Inovelon is indicated as adjunctive therapy in the treatment of seizures associated with Lennox Gastaut syndrome in patients 4 years of age and older. |
+| Predicted New Indication | Perioral myoclonia with absences |
+| TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (the single authorisation is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +58,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Both Lennox-Gastaut syndrome and FIRES are severe, drug-resistant epilepsies that begin in childhood. This gives the prediction some indirect plausibility for seizure control. FIRES, however, is thought to be driven largely by neuroinflammation, and a sodium channel blocker would not address that component. Any benefit would probably be symptomatic only.
 
-The high graph score is therefore a hypothesis, not evidence. No trials or publications specific to FIRES were found.
+No trials or publications specific to FIRES were found.
 
 For context, other predictions in the same analysis have more indirect support. The broader category "childhood onset epileptic encephalopathy" has substantial literature, but it is largely Lennox-Gastaut syndrome (the approved use), so it is essentially on-label. Several other epilepsy-related predictions have no supporting data.
 

@@ -32,18 +32,18 @@ This page brings together the latest health news about “copd” and lists the 
 <li><a href="{{ '/drugs/cilastatin/' | relative_url }}">Cilastatin</a></li>
 <li><a href="{{ '/drugs/dupilumab/' | relative_url }}">Dupilumab</a></li>
 <li><a href="{{ '/drugs/epinephrine/' | relative_url }}">Epinephrine</a></li>
-<li><a href="{{ '/drugs/eravacycline/' | relative_url }}">Eravacycline</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Eravacycline</a></li>
 <li><a href="{{ '/drugs/granisetron/' | relative_url }}">Granisetron</a></li>
 <li><a href="{{ '/drugs/idarucizumab/' | relative_url }}">Idarucizumab</a></li>
-<li><a href="{{ '/drugs/maribavir/' | relative_url }}">Maribavir</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Maribavir</a></li>
 <li><a href="{{ '/drugs/natalizumab/' | relative_url }}">Natalizumab</a></li>
 <li><a href="{{ '/drugs/omalizumab/' | relative_url }}">Omalizumab</a></li>
 <li><a href="{{ '/drugs/plerixafor/' | relative_url }}">Plerixafor</a></li>
 <li><a href="{{ '/drugs/prilocaine/' | relative_url }}">Prilocaine</a></li>
-<li><a href="{{ '/drugs/rozanolixizumab/' | relative_url }}">Rozanolixizumab</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Rozanolixizumab</a></li>
 <li><a href="{{ '/drugs/sarilumab/' | relative_url }}">Sarilumab</a></li>
-<li><a href="{{ '/drugs/tedizolid/' | relative_url }}">Tedizolid</a></li>
-<li><a href="{{ '/drugs/vedolizumab/' | relative_url }}">Vedolizumab</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Tedizolid</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Vedolizumab</a></li>
 <li><a href="{{ '/drugs/vilanterol/' | relative_url }}">Vilanterol</a></li>
 </ul>
 </div>

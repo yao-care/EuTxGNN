@@ -7,14 +7,15 @@ description: "Cinacalcet Hydrochloride drug repurposing predictions from TxGNN. 
 parent: AI Predictions (L5)
 nav_order: 136
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Cinacalcet Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | nephrogenic syndrome of inappropriate antidiuresis | 98.48% | DL |
-| 2 | common cold | 95.39% | DL |
-| 3 | female breast carcinoma | 94.23% | DL |
-| 4 | multiple endocrine neoplasia | 93.73% | DL |
-| 5 | headache disorder | 93.08% | DL |
-| 6 | trigeminal autonomic cephalalgia | 92.16% | DL |
-| 7 | hypertrichosis (disease) | 91.66% | DL |
-| 8 | subarachnoid hemorrhage (disease) | 91.39% | DL |
-| 9 | pulmonary hypertension | 91.21% | DL |
-| 10 | obsolete familial combined hyperlipidemia | 90.80% | DL |
-| 11 | malformation syndrome with odontal and/or periodontal component | 90.64% | DL |
-| 12 | kyphoscoliotic heart disease | 90.50% | DL |
-| 13 | syndrome with a Dandy-Walker malformation as major feature | 90.48% | DL |
-| 14 | Ambras type hypertrichosis universalis congenita | 90.06% | DL |
-| 15 | breast fibrocystic disease | 89.71% | DL |
-| 16 | isolated genetic hair shaft abnormality | 89.64% | DL |
-| 17 | mycotic corneal ulcer | 89.14% | DL |
-| 18 | prostate neoplasm | 88.77% | DL |
-| 19 | fibroma of prostate | 88.77% | DL |
-| 20 | benign reproductive system neoplasm | 88.21% | DL |
 
 *Showing top 20 of 50 predictions.*
 

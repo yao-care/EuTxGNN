@@ -7,14 +7,15 @@ description: "Indacaterol Maleate drug repurposing predictions from TxGNN. Evide
 parent: AI Predictions (L5)
 nav_order: 299
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Indacaterol Maleate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | nephrogenic syndrome of inappropriate antidiuresis | 99.54% | DL |
-| 2 | headache disorder | 99.53% | DL |
-| 3 | trigeminal autonomic cephalalgia | 99.33% | DL |
-| 4 | paratenonitis | 99.26% | DL |
-| 5 | calcific tendinitis | 99.25% | DL |
-| 6 | hypertrichosis (disease) | 99.23% | DL |
-| 7 | bronchial disease | 99.18% | DL |
-| 8 | myositis | 99.12% | DL |
-| 9 | anaphylaxis | 99.07% | DL |
-| 10 | Ambras type hypertrichosis universalis congenita | 99.06% | DL |
-| 11 | renin-angiotensin-aldosterone system-blocker-induced angioedema | 99.04% | DL |
-| 12 | malformation syndrome with odontal and/or periodontal component | 99.03% | DL |
-| 13 | syndrome with a Dandy-Walker malformation as major feature | 99.01% | DL |
-| 14 | rheumatoid arthritis | 98.98% | DL |
-| 15 | manic bipolar affective disorder | 98.96% | DL |
-| 16 | isolated genetic hair shaft abnormality | 98.92% | DL |
-| 17 | severe pre-eclampsia | 98.89% | DL |
-| 18 | exostosis | 98.89% | DL |
-| 19 | hypotrichosis simplex of the scalp | 98.86% | DL |
-| 20 | idiopathic granulomatous myositis | 98.84% | DL |
 
 *Showing top 20 of 50 predictions.*
 

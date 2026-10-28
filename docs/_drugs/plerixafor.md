@@ -4,17 +4,17 @@ title: Plerixafor
 parent: AI Predictions (L5)
 nav_order: 490
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Plerixafor: predicted new indication Indolent plasma cell myeloma (evidence level L5). Approved use: Mobilisation of haematopoietic stem cells (with G-CSF) for autologous…"
 monitor_inn: "Plerixafor"
-predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia", "melanoma", "cecum villous adenoma", "cecum neuroendocrine tumor G1"]
+predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
+description: "Plerixafor: predicted new indication CMM7 (evidence level L5). Approved use: Mozobil is indicated in combination with granulocyte-colony-stimulati…"
 ---
 
 # Plerixafor
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Plerixafor: From Stem Cell Mobilisation in Lymphoma and Multiple Myeloma to Indolent Plasma Cell Myeloma
+## Plerixafor: CMM7
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Plerixafor is a CXCR4 antagonist, originally used together with G-CSF to mobilise haematopoietic stem cells for autologous transplantation in patients with lymphoma and multiple myeloma.
-The TxGNN model predicts it may be effective for **indolent plasma cell myeloma**, but **no clinical trials or publications** currently support this specific prediction.
 The data compiled for this report show much stronger support for a related prediction, **myeloid leukemia** (25 clinical trials and 20 publications, all early-phase), which is discussed below.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Mobilisation of haematopoietic stem cells (with G-CSF) for autologous transplantation in lymphoma and multiple myeloma patients whose cells mobilise poorly |
-| Predicted New Indication | Indolent plasma cell myeloma |
-| TxGNN Prediction Score | 99.97% |
+| Original Indication | Mozobil is indicated in combination with granulocyte-colony-stimulating factor to enhance mobilisation of haematopoietic stem cells to the peripheral blood for collection and subsequent autologous transplantation in patients with lymphoma and multiple myeloma whose cells mobilise poorly.; Adult pati |
+| Predicted New Indication | CMM7 |
+| TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 (model prediction only) |
-| EU Market Status | Cancelled only (no currently valid authorisation in the data) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +59,7 @@ Detailed mechanism of action data are not available in the compiled data. Pharma
 
 Plerixafor is already used in multiple myeloma for stem cell mobilisation, so the model likely scores the indolent (smouldering) subtype highly because of its closeness to this approved use. A plausible link is that CXCR4/CXCL12 signalling helps myeloma cells home to and stay in the bone marrow niche. However, nothing in the compiled data supports this for the indolent subtype, so the link remains speculative.
 
-**Other predictions in the data.** The strongest-supported prediction is **myeloid leukemia** (TxGNN score 99.02%, evidence level L2). Here, blocking CXCR4 is thought to free leukaemic cells and leukaemic stem cells from the protective marrow niche and make them more sensitive to chemotherapy. The evidence is mostly early-phase and single-arm. There is no Phase 3 RCT, and benefit over chemotherapy alone has not been shown. Predictions for melanoma subtypes, bronchitis, cecal lesions and CMM7 rest on computation or indirect preclinical data only. Bronchitis is likely a model artefact.
+**Other predictions in the data.** The strongest-supported prediction is **myeloid leukemia** (TxGNN score 0.9902, evidence level L2). Here, blocking CXCR4 is thought to free leukaemic cells and leukaemic stem cells from the protective marrow niche and make them more sensitive to chemotherapy. The evidence is mostly early-phase and single-arm. There is no Phase 3 RCT, and benefit over chemotherapy alone has not been shown. Predictions for melanoma subtypes, bronchitis, cecal lesions and CMM7 rest on computation or indirect preclinical data only. Bronchitis is likely a model artefact.
 
 ## Clinical Trial Evidence
 
@@ -130,7 +129,7 @@ Please refer to the SmPC for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-For the top-ranked prediction, indolent plasma cell myeloma, there are no trials or publications, so the evidence is limited to the model score (L5). All EU authorisations for plerixafor are listed as cancelled in the compiled data. The myeloid leukemia direction has more support (L2, early-phase trials) and could be pursued as a separate research question, but benefit over chemotherapy alone has not been shown.
+The myeloid leukemia direction has more support (L2, early-phase trials) and could be pursued as a separate research question, but benefit over chemotherapy alone has not been shown.
 
 **To proceed, the following is needed:**
 - Clinical or preclinical evidence on CXCR4/CXCL12 in indolent (smouldering) myeloma

@@ -7,14 +7,15 @@ description: "duloxetine hydrochloride drug repurposing predictions from TxGNN. 
 parent: AI Predictions (L5)
 nav_order: 187
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Duloxetine Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | endogenous depression | 99.94% | DL |
-| 2 | major depressive disorder | 99.92% | DL |
-| 3 | anxiety disorder | 99.91% | DL |
-| 4 | benign paroxysmal torticollis of infancy | 99.85% | DL |
-| 5 | agoraphobia | 99.84% | DL |
-| 6 | obsessive-compulsive disorder | 99.84% | DL |
-| 7 | unipolar depression | 99.83% | DL |
-| 8 | histrionic personality disorder (disease) | 99.78% | DL |
-| 9 | schizoid personality disorder | 99.78% | DL |
-| 10 | paranoid personality disorder | 99.78% | DL |
-| 11 | schizotypal personality disorder | 99.78% | DL |
-| 12 | Ohdo syndrome and variants | 99.69% | DL |
-| 13 | ligneous conjunctivitis | 99.66% | DL |
-| 14 | blepharophimosis - intellectual disability syndrome, Ohdo type | 99.60% | DL |
-| 15 | dysthymic disorder | 99.52% | DL |
-| 16 | melancholia | 99.43% | DL |
-| 17 | neurotic depression | 99.41% | DL |
-| 18 | myofascial pain syndrome | 99.38% | DL |
-| 19 | phobic disorder | 99.38% | DL |
-| 20 | childhood apraxia of speech | 99.21% | DL |
 
 *Showing top 20 of 50 predictions.*
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Travoprost: predicted new indication Visceral calciphylaxis (evidence level L5). Approved use: Decrease of elevated intraocular pressure in adult patients with ocul…"
 monitor_inn: "Travoprost"
-predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "idiopathic spontaneous coronary artery dissection", "lymphangiectasis", "hemangioendothelioma"]
+predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
 ---
 
 # Travoprost
@@ -48,17 +48,17 @@ The prediction rests on the model score alone.
 |------|------|
 | Original Indication | Decrease of elevated intraocular pressure in adult patients with ocular hypertension or open-angle glaucoma; also in paediatric patients with ocular hypertension or paediatric glaucoma |
 | Predicted New Indication | Visceral calciphylaxis |
-| TxGNN Prediction Score | 99.99985% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Travoprost is known to be a prostaglandin F2-alpha analogue (FP receptor agonist) given as an eye drop, and it lowers eye pressure by increasing fluid outflow from the eye. Its efficacy in glaucoma is well established.
 
-No plausible link between this mechanism and the vascular calcification pathways of visceral calciphylaxis is documented in the data. Eye drops also give very low systemic exposure, so reaching the vascular beds involved at effective concentrations is doubtful. The high TxGNN score reflects a pattern found by the model in its knowledge graph, not confirmed biology.
+No plausible link between this mechanism and the vascular calcification pathways of visceral calciphylaxis is documented in the data. Eye drops also give very low systemic exposure, so reaching the vascular beds involved at effective concentrations is doubtful. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other top-ranked predictions (thoracic outlet syndromes, angiodysplasia of stomach, blue toe syndrome, spontaneous coronary artery dissection, lymphangiectasis, hemangioendothelioma) are likewise supported by prediction only. The only evidence found for any prediction is a set of ophthalmic studies and one case report linked to the "vascular disease" and "hemangioendothelioma" predictions, discussed below.
 

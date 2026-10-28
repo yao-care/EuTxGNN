@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **exposure keratitis**, but **n
 |------|------|
 | Original Indication | Suppressive therapy of chronic pulmonary infection due to *Pseudomonas aeruginosa* in patients aged 6 years and older with cystic fibrosis |
 | Predicted New Indication | Exposure keratitis |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L4 |
-| EU Market Status | ✗ Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -97,7 +97,7 @@ Please refer to the SmPC for the label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but it comes from the graph model alone. No trials exist for exposure keratitis, and the literature is indirect (case reports, susceptibility studies) and includes a corneal epithelial toxicity signal. Both EU authorizations for tobramycin are cancelled, and they cover inhaled products for cystic fibrosis rather than ocular use.
+The prediction score is very high, but it comes from the TxGNN model (deep learning) alone and may reflect similarities the model learned between related diseases, not biological evidence. No trials exist for exposure keratitis, and the literature is indirect (case reports, susceptibility studies) and includes a corneal epithelial toxicity signal. Both EU authorizations for tobramycin are valid (2 valid licences of 2), and they cover inhaled products for cystic fibrosis rather than ocular use.
 
 **To proceed, the following is needed:**
 - Controlled or at least well-designed observational studies of topical tobramycin in exposure keratitis, with attention to corneal epithelial toxicity

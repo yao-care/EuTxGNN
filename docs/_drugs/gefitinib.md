@@ -4,17 +4,17 @@ title: Gefitinib
 parent: AI Predictions (L5)
 nav_order: 280
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Gefitinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Locally advanced or metastatic NSCLC with activating EGFR tyrosine ki…"
 monitor_inn: "Gefitinib"
-predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "pulmonary sulcus neoplasm", "lung germ cell tumor", "junctional epidermolysis bullosa"]
+predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]
 ---
 
 # Gefitinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Gefitinib: From EGFR-Mutant Non-Small-Cell Lung Cancer to Gingival Fibromatosis
+## Gefitinib: From EGFR-Mutant Non-Small-Cell Lung Cancer to fibromatosis, gingival
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **gingival fibromatosis**, but 
 |------|------|
 | Original Indication | Locally advanced or metastatic NSCLC with activating EGFR tyrosine kinase mutations |
 | Predicted New Indication | Fibromatosis, gingival |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Gefitinib is known as an EGFR tyrosine kinase inhibitor, and its efficacy in EGFR-mutant NSCLC is established. Whether this extends to gingival fibromatosis is unproven.
 
-One possible link is that EGFR/ErbB signalling drives fibroblast proliferation, which could be relevant to a fibroproliferative gum condition. This is speculative and not supported by any trial or publication in the data. The high graph score may partly reflect network structure rather than a true biological relationship.
+One possible link is that EGFR/ErbB signalling drives fibroblast proliferation, which could be relevant to a fibroproliferative gum condition. This is speculative and not supported by any trial or publication in the data. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other top-ranked predictions are similarly unsupported, and several have no plausible EGFR mechanism. For example, the VCP-related inclusion body myopathy with Paget disease looks like a network artifact. Predictions that involve lung tumours (such as lung hilum carcinoma and pulmonary sulcus neoplasm) mainly reflect the already-approved lung cancer setting rather than a genuinely new indication.
 

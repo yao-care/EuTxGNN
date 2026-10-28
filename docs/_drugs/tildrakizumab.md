@@ -4,17 +4,17 @@ title: Tildrakizumab
 parent: AI Predictions (L5)
 nav_order: 614
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Tildrakizumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Moderate to severe plaque psoriasis in adults who are candidates for…"
 monitor_inn: "Tildrakizumab"
-predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "drug-induced osteoporosis", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "craniostenosis cataract"]
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "drug-induced osteoporosis"]
 ---
 
 # Tildrakizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 |------|------|
 | Original Indication | Moderate to severe plaque psoriasis in adults who are candidates for systemic therapy |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.63% |
+| TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (the single authorization is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The proposed link is that chronic low-grade inflammation, including IL-23/IL-17 signalling, may contribute to retinal microvascular damage in diabetic retinopathy. This is speculative. No data compiled for this report show that tildrakizumab acts on retinal disease.
 
-The high TxGNN score (0.996) is a model output only. Practical questions would also need answering, such as whether a systemic or intravitreal antibody could reach the retina safely and effectively. The other top predictions (several cataract subtypes with near-identical scores) look like knowledge-graph proximity to diabetes-related nodes rather than true biological signals. Diabetic retinopathy itself (score 0.995) is the most biologically plausible of the predicted indications.
+The high TxGNN score (0.9963) is a model output only. Practical questions would also need answering, such as whether a systemic or intravitreal antibody could reach the retina safely and effectively. The other top predictions (such as diabetic cataract, 0.9921, with a near-identical score) come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Diabetic retinopathy itself (score 0.9953) is the most biologically plausible of the predicted indications.
 
 ## Clinical Trial Evidence
 
@@ -73,7 +73,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/004514 | Ilumetri (status: cancelled) | Not specified | Ilumetri is indicated for the treatment of adults with moderate to severe plaque psoriasis who are candidates for systemic therapy. |
+| EMEA/H/C/004514 | Ilumetri (status: valid) | Not specified | Ilumetri is indicated for the treatment of adults with moderate to severe plaque psoriasis who are candidates for systemic therapy. |
 
 ## Safety Considerations
 

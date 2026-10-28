@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **dermatitis**, with **6 relate
 |------|------|
 | Original Indication | Moderate to severe plaque psoriasis in adults who failed, are intolerant to, or have a contraindication to other systemic therapies (ciclosporin, MTX, PUVA) |
 | Predicted New Indication | Dermatitis |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 13 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 13 of 13) |
+| Number of Authorizations | 13 (valid: 13) |
 | Recommended Decision | Hold |
 
 ---
@@ -97,7 +97,7 @@ The link to dermatitis is only partial. Atopic dermatitis is driven mainly by Th
 
 ## EU Market Information
 
-All 13 authorizations are currently cancelled. Main entries:
+All 13 authorizations are currently valid. Main entries:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -124,7 +124,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-Two randomized Phase 2 trials of ustekinumab in atopic dermatitis exist, but their sample sizes are small and the published efficacy is modest or inconsistent. The mechanism only partially fits the Th2-driven disease. In addition, all EU authorizations are currently cancelled.
+Two randomized Phase 2 trials of ustekinumab in atopic dermatitis exist, but their sample sizes are small and the published efficacy is modest or inconsistent. The mechanism only partially fits the Th2-driven disease. In addition, the drug is currently marketed, with 13 valid licences out of 13.
 
 **To proceed, the following is needed:**
 - Warnings and contraindications from the SmPC, and the mechanism of action data

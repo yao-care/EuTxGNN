@@ -2,7 +2,7 @@
   "resourceType": "ClinicalUseDefinition",
   "id": "ticagrelor-vascular-ectasia",
   "meta": {
-    "lastUpdated": "2026-07-26T10:06:10Z"
+    "lastUpdated": "2026-07-26T10:06:13Z"
   },
   "type": "indication",
   "status": "active",
@@ -29,7 +29,11 @@
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/drugbank-id",
-      "valueString": "DB08816"
+      "valueString": "DB01048"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9947
     }
   ]
 }

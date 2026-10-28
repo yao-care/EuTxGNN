@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 <li>Focal stiff limb syndrome</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/semaglutide/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (13)

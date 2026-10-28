@@ -4,7 +4,7 @@ title: Teriparatide
 parent: AI Predictions (L5)
 nav_order: 605
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Teriparatide: predicted new indication Duodenal ulcer (evidence level L5). Approved use: Treatment of osteoporosis in postmenopausal women and in men at incre…"
 monitor_inn: "Teriparatide"
@@ -14,7 +14,7 @@ predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal ma
 # Teriparatide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **duodenal ulcer**, but **no cl
 |------|------|
 | Original Indication | Treatment of osteoporosis in postmenopausal women and in men at increased risk of fracture; osteoporosis associated with sustained systemic glucocorticoid therapy |
 | Predicted New Indication | Duodenal ulcer |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 (model prediction only) |
-| EU Market Status | ✗ Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 7 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Authorizations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **duodenal ulcer**, but **no cl
 
 Detailed mechanism-of-action data are not available in the data compiled for this report. Pharmacology data show that teriparatide, the human PTH(1-34) peptide, acts on the PTH1 receptor (PTH1R) and also binds the PTH2 receptor. Its established clinical effect is bone-forming (anabolic) action in osteoporosis.
 
-We could not identify a plausible link between this bone-remodeling mechanism and duodenal ulcer. Duodenal ulcer is a gastrointestinal mucosal disease, and nothing in the compiled data connects PTH1R signaling to gastric acid, mucosal defense or *H. pylori*-related disease. The very high score (99.86%, model rank 1979) is not backed by any trial or publication, so it should be treated as a hypothesis-generating output rather than a credible repurposing lead.
+We could not identify a plausible link between this bone-remodeling mechanism and duodenal ulcer. Duodenal ulcer is a gastrointestinal mucosal disease, and nothing in the compiled data connects PTH1R signaling to gastric acid, mucosal defense or *H. pylori*-related disease. The very high score (0.9986, model rank 1979) is not backed by any trial or publication, so it should be treated as a hypothesis-generating output rather than a credible repurposing lead.
 
 ---
 
@@ -79,7 +79,7 @@ Currently no related literature available.
 
 ## EU Market Information
 
-All seven EU centralized authorizations are cancelled. The table lists five of them.
+All seven EU centralized authorizations are valid. The table lists five of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -107,7 +107,7 @@ For label-based warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The duodenal ulcer prediction rests on a model score alone. There are no trials or publications, no plausible mechanistic link to PTH1R-mediated bone biology, and all EU authorizations are currently cancelled. The evidence level is L5.
+The duodenal ulcer prediction rests on a model score alone. There are no trials or publications, no plausible mechanistic link to PTH1R-mediated bone biology, and all EU authorizations are currently valid. The evidence level is L5.
 
 **To proceed, the following is needed:**
 - Detailed mechanism-of-action data and a credible biological hypothesis linking PTH1R signaling to duodenal ulcer

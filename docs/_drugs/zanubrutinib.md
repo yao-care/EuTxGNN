@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Zanubrutinib
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 681
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-15
 description: "Zanubrutinib: predicted new indication Myeloid leukemia (evidence level L4). Approved use: Waldenström's macroglobulinaemia (WM) after at least one prior therap…"
 monitor_inn: "Zanubrutinib"
-predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive", "lymphoma, non-Hodgkin, familial", "acute lymphoblastic/lymphocytic leukemia"]
+predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
 ---
 
 # Zanubrutinib
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **myeloid leukemia** with a ver
 |------|------|
 | Original Indication | Waldenström's macroglobulinaemia (WM) after at least one prior therapy, or first-line in patients unsuitable for chemo-immunotherapy |
 | Predicted New Indication | Myeloid leukemia |
-| TxGNN Prediction Score | 99.65% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization in the compiled data) |
-| Number of Authorizations | 1 |
+| TxGNN Prediction Score | 0.9965 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

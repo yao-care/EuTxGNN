@@ -28,12 +28,12 @@ This page brings together the latest health news about “ictus” and lists the
 <ul>
 <li><a href="{{ '/drugs/aliskiren/' | relative_url }}">Aliskiren</a></li>
 <li><a href="{{ '/drugs/amlodipine/' | relative_url }}">Amlodipine</a></li>
-<li><a href="{{ '/drugs/avanafil/' | relative_url }}">Avanafil</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Avanafil</a></li>
 <li><a href="{{ '/drugs/dronedarone/' | relative_url }}">Dronedarone</a></li>
 <li><a href="{{ '/drugs/orlistat/' | relative_url }}">Orlistat</a></li>
 <li><a href="{{ '/drugs/simvastatin/' | relative_url }}">Simvastatin</a></li>
 <li><a href="{{ '/drugs/telmisartan/' | relative_url }}">Telmisartan</a></li>
-<li><a href="{{ '/drugs/vardenafil/' | relative_url }}">Vardenafil</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Vardenafil</a></li>
 </ul>
 </div>
 

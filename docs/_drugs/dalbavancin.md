@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **postinfectious vasculitis**, 
 |------|------|
 | Original Indication | Acute bacterial skin and skin structure infections (ABSSSI) in adults and paediatric patients from birth |
 | Predicted New Indication | Postinfectious vasculitis |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Postinfectious vasculitis is largely immune-mediated. Antibacterial activity offers no clear mechanistic rationale beyond eradicating a possible triggering Gram-positive infection. The high TxGNN score is a computational prediction only and should not be read as evidence of efficacy.
 
-Other predictions in the same list are mostly weak. Several involve viruses (ophthalmic herpes zoster, infectious mononucleosis) or a protozoan parasite (Chagas cardiomyopathy), which dalbavancin does not target. Infection-related hemolytic uremic syndrome is typically caused by Gram-negative Shiga toxin-producing *E. coli*, which dalbavancin does not cover, and antibiotics are generally avoided there. The most biologically plausible alternative is **orbital cellulitis** (score 99.02%). It is commonly caused by *S. aureus* (including MRSA) and streptococci, which dalbavancin covers, and it is close to the approved ABSSSI indication. It is flagged as a research question, but it also has no clinical evidence in the compiled data.
+Other predictions in the same list are mostly weak. Several involve viruses (ophthalmic herpes zoster, infectious mononucleosis) or a protozoan parasite (Chagas cardiomyopathy), which dalbavancin does not target. Infection-related hemolytic uremic syndrome is typically caused by Gram-negative Shiga toxin-producing *E. coli*, which dalbavancin does not cover, and antibiotics are generally avoided there. The most biologically plausible alternative is **orbital cellulitis** (score 0.9902). It is commonly caused by *S. aureus* (including MRSA) and streptococci, which dalbavancin covers, and it is close to the approved ABSSSI indication. It is flagged as a research question, but it also has no clinical evidence in the compiled data.
 
 ## Clinical Trial Evidence
 

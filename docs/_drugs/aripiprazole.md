@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Aripiprazole
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 59
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Aripiprazole: predicted new indication Major affective disorder (evidence level L1). Approved use: Schizophrenia in adults and adolescents aged 15 years and older"
 monitor_inn: "Aripiprazole"
-predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 ---
 
 # Aripiprazole
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **Major Affective Disorder** (m
 |------|------|
 | Original Indication | Schizophrenia in adults and adolescents aged 15 years and older; moderate to severe manic episodes in Bipolar I Disorder |
 | Predicted New Indication | Major affective disorder |
-| TxGNN Prediction Score | 99.62% |
-| Evidence Level | L1 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 6 (all cancelled) |
+| TxGNN Prediction Score | 0.9962 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Authorizations | 6 (valid: 6) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -97,7 +97,7 @@ One further paper (PMID 38669232), a meta-analysis of aripiprazole or bupropion 
 
 ## EU Market Information
 
-All six authorizations are cancelled, so there is currently no valid EU marketing authorization for aripiprazole.
+All six authorizations are valid, so aripiprazole is currently marketed under valid EU marketing authorizations.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -128,7 +128,7 @@ Please refer to the SmPC for formal warnings and contraindications.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Several large Phase 3 placebo-controlled trials and multiple network meta-analyses support adjunctive aripiprazole in major depressive disorder, giving an evidence level of L1. However, the bipolar component is already on the label, and all EU authorizations are currently cancelled, so any development would need to restart the regulatory pathway.
+Several large Phase 3 placebo-controlled trials and multiple network meta-analyses support adjunctive aripiprazole in major depressive disorder, giving an evidence level of L1. However, the bipolar component is already on the label, and all six EU authorizations are currently valid.
 
 **To proceed, the following is needed:**
 - Clarify the target indication (adjunctive treatment in unipolar MDD or treatment-resistant depression) rather than the broad "major affective disorder" label

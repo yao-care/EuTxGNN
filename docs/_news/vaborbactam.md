@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Vaborbactam with the latest 
 <li>Osteoarthritis</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/vaborbactam/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (3)

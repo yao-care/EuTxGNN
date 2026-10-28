@@ -4,17 +4,17 @@ title: Selinexor
 parent: AI Predictions (L5)
 nav_order: 553
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Selinexor: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Multiple myeloma: in combination with bortezomib and dexamethasone af…"
 monitor_inn: "Selinexor"
-predicted_indications: ["drug-induced osteoporosis", "HER2 positive breast carcinoma", "progesterone-receptor negative breast cancer", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "breast tumor luminal A or B", "squamous cell lung carcinoma", "gestational trophoblastic neoplasm", "cervical neuroblastoma", "schwannoma of jugular foramen"]
+predicted_indications: ["drug-induced osteoporosis"]
 ---
 
 # Selinexor
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Multiple myeloma: in combination with bortezomib and dexamethasone after at least one prior therapy; or in combination with dexamethasone after at least four prior therapies in disease refractory to two proteasome inhibitors, two immunomodulatory agents and an anti-CD38 antibody |
 | Predicted New Indication | Drug-induced osteoporosis |
-| TxGNN Prediction Score | 99.22% |
+| TxGNN Prediction Score | 0.9922 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (the single authorization is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -104,7 +104,6 @@ The prediction for drug-induced osteoporosis is model-only (Evidence Level L5), 
 - Mechanism of action data (MOA)
 - Warnings and contraindications from the SmPC
 - An assessment of whether selinexor's known toxicities (weight loss, anorexia) could worsen bone health
-- Review of the other predicted indications as possibly better-supported alternatives. For example, squamous cell lung carcinoma has two selinexor trials (one terminated Phase 2 with 45 patients, one withdrawn Phase 1/2 with no enrollment), but neither provides efficacy results.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,17 +4,17 @@ title: Agomelatine
 parent: AI Predictions (L5)
 nav_order: 28
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
 description: "Agomelatine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Treatment of major depressive episodes in adults"
 monitor_inn: "Agomelatine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "melancholia", "Ohdo syndrome and variants", "dysthymic disorder", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
 ---
 
 # Agomelatine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but **no clinical trials and no publications** support this specific prediction;
 |------|------|
 | Original Indication | Treatment of major depressive episodes in adults |
 | Predicted New Indication | Benign paroxysmal torticollis of infancy |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,7 +62,7 @@ Benign paroxysmal torticollis of infancy is a rare, episodic movement disorder o
 
 Use in infants would also raise major safety concerns, since the approved indication covers adults only.
 
-For context, other top-ranked predictions are more plausible. Agoraphobia (score 99.95%) has an indirect anxiolytic rationale. Melancholia, neurotic depression and dysthymic disorder are depressive conditions that largely overlap with the original indication. None of these has agomelatine-specific trial evidence in the compiled data.
+For context, other top-ranked predictions are more plausible. Agoraphobia (score 0.9995) has an indirect anxiolytic rationale. Melancholia, neurotic depression and dysthymic disorder are depressive conditions that largely overlap with the original indication. None of these has agomelatine-specific trial evidence in the compiled data.
 
 ## Clinical Trial Evidence
 

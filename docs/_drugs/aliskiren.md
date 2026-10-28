@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Aliskiren
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 38
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Aliskiren: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L4). Approved use: Treatment of essential hypertension"
+evidence_level: L5
+indication_count: 6
 monitor_inn: "Aliskiren"
-predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "cerebrovascular disorder", "obsolete susceptibility to ischemic stroke", "brain stem infarction", "intracerebral hemorrhage"]
+predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "cerebrovascular disorder"]
+last_modified_at: 2026-10-23
+description: "Aliskiren: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Treatment of essential hypertension"
 ---
 
 # Aliskiren
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,74 +33,73 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Aliskiren: From Essential Hypertension to Pulmonary Hypertension Owing to Lung Disease and/or Hypoxia
+## Aliskiren: From Essential Hypertension to Pulmonary Hypertension with Unclear Multifactorial Mechanism
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Aliskiren is a direct renin inhibitor, originally used to treat essential hypertension.
-The TxGNN model predicts it may be effective for **pulmonary hypertension owing to lung disease and/or hypoxia**, but there are **no registered clinical trials** and only **4 publications** (all preclinical or basic science, and only indirectly related) behind this prediction.
+Aliskiren is a direct renin inhibitor, authorised in the EU for the treatment of essential hypertension.
+The TxGNN model predicts it may be effective for **pulmonary hypertension with unclear multifactorial mechanism**, but **no clinical trials and no publications** currently support this specific prediction, so it rests on the computational score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
 | Original Indication | Treatment of essential hypertension |
-| Predicted New Indication | Pulmonary hypertension owing to lung disease and/or hypoxia |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorisations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, aliskiren is a direct renin inhibitor that blocks the first, rate-limiting step of the renin-angiotensin system (RAS). Its efficacy in essential hypertension has been established, and mechanistically it may be applicable to conditions in which RAS activation plays a role.
+Currently, detailed mechanism of action data is not available in the compiled records. Aliskiren is known as a direct renin inhibitor. By blocking the first and rate-limiting step of the renin-angiotensin-aldosterone system (RAAS), it lowers angiotensin II production. Its efficacy in essential hypertension is established, and mechanistically it may be applicable to pulmonary hypertension.
 
-Rat studies of chronic intermittent hypoxia link local and circulating angiotensin II activity to atrial remodelling and increased sympathetic nerve activity. Aliskiren plausibly counteracts this pathway. However, these studies measured cardiac and autonomic outcomes, not pulmonary vascular remodelling or pulmonary arterial pressure. The link to pulmonary hypertension is therefore indirect.
-
-The high TxGNN score is not yet corroborated by clinical data. Any move forward would need targeted preclinical work in pulmonary hypertension models first.
+Essential hypertension and pulmonary hypertension are both vascular pressure disorders. RAAS activity is plausibly relevant to pulmonary vascular remodelling, which is the basis of the link. This remains a computational inference. No clinical or preclinical study supporting it was found in the data compiled for this report, and the predicted condition has an unclear, multifactorial cause, which makes a single-pathway rationale less certain.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for this predicted indication.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [32982180](https://pubmed.ncbi.nlm.nih.gov/32982180/) | 2020 | Animal study (rat) | Drug Des Devel Ther | Examined aliskiren's role in atrial remodelling in a chronic intermittent hypoxia rat model |
-| [29645283](https://pubmed.ncbi.nlm.nih.gov/29645283/) | 2018 | Animal study (rat) | J Physiol | Sympathetic activation after intermittent hypoxia is mediated by circulating angiotensin II; RAS inhibition prevents it |
-| [39133776](https://pubmed.ncbi.nlm.nih.gov/39133776/) | 2024 | In vitro/basic science | Am J Physiol Regul Integr Comp Physiol | Tested angiotensin release from brain slices using sensor cells; indirectly related |
-| [26502369](https://pubmed.ncbi.nlm.nih.gov/26502369/) | 2016 | Basic/preclinical | Transplantation | Calcineurin inhibitors upregulate local renin in renal collecting ducts; indirectly related |
+Currently no related literature available for this predicted indication.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000780 | Rasilez | Not specified | Treatment of essential hypertension. (status: cancelled) |
+| Authorisation Number | Product Name | Approved Indication |
+|---------|------|-----------|
+| EMEA/H/C/000780 | Rasilez | Treatment of essential hypertension. |
+
+This is a single-ingredient product with a valid status.
 
 ## Safety Considerations
 
-- **Knowledge-graph contraindication signals** (from the TxGNN knowledge graph, not label text): liver failure and liver disease, pancreatitis, gallbladder disease, angioedema (including hereditary and RAAS-blocker-induced forms), systemic lupus erythematosus, potassium deficiency disease, diabetes mellitus and diabetic ketoacidosis, neutropenia and agranulocytosis, hypotensive disorder, hyperparathyroidism, hepatic coma and encephalopathy, anuria, gout, hypercalcaemia, nephrocalcinosis, renal artery obstruction and impaired renal function.
-- **Drug Interactions**: 100 interactions were found in total. The 20 listed in the data compiled for this report are all rated Moderate. They include corticosteroids (hydrocortisone, prednisone, prednisolone, dexamethasone, betamethasone, budesonide), SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), potassium products (chloride, citrate, gluconate, bicarbonate), azole antifungals (miconazole, clotrimazole), clarithromycin, aprepitant, eliglustat and acetylsalicylic acid.
-- Clinical trial experience (ALTITUDE) raised safety concerns when aliskiren was added to ACE inhibitors or ARBs in diabetic patients, including stroke, hyperkalaemia and renal events.
+- **Drug Interactions**: The interaction screen returned 100 records. The ones shown here are all rated Moderate, and the full list may be longer. Examples:
+  - Corticosteroids: hydrocortisone, prednisone, prednisolone, dexamethasone, betamethasone, budesonide
+  - SGLT2 inhibitors: canagliflozin, dapagliflozin, empagliflozin, ertugliflozin
+  - Potassium products: potassium chloride, potassium citrate, potassium gluconate, potassium bicarbonate
+  - Other agents: acetylsalicylic acid, aprepitant, clarithromycin, clotrimazole, miconazole, eliglustat
+- **Conditions linked to aliskiren in the knowledge graph (not label text)**: The TxGNN knowledge graph records contraindication relations between aliskiren and conditions such as angioedema (including hereditary and acquired forms), liver disease and liver failure, pancreatitis, diabetes mellitus, diabetic ketoacidosis, gout, anuria, impaired renal function, renal artery obstruction, hypotensive disorder, potassium deficiency, hypercalcaemia, neutropenia and agranulocytosis. These are graph relations and should not be read as the approved label's contraindications.
 
-Label warnings and contraindications were not available. Please refer to the SmPC for the full safety information.
+Please refer to the SmPC for the authoritative warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but supporting evidence is limited to indirect rat and basic science studies, with no clinical trials. The only EU authorization has been cancelled, which further limits feasibility.
+The prediction score is very high, but no trial or publication directly studies aliskiren in this form of pulmonary hypertension, so the evidence level is L5 (model prediction only). The RAAS-based link is biologically plausible but unsupported by actual data.
 
 **To proceed, the following is needed:**
-- Mechanism of action data for aliskiren
-- Label warnings and contraindications from the SmPC
-- Preclinical studies of aliskiren in pulmonary hypertension models, measuring pulmonary arterial pressure and vascular remodelling
-- A review of the ALTITUDE safety signals (hypotension, hyperkalaemia, renal events) in the target population
-- Clarification of the regulatory and commercial availability of aliskiren in the EU
+- Preclinical studies (for example, pulmonary hypertension animal models) testing renin inhibition on pulmonary vascular remodelling
+- Detailed mechanism of action data and a clear definition of the target pulmonary hypertension subgroup
+- Safety information from the SmPC, including hypotension, hyperkalaemia and renal risks in the target population
+- Confirmation of drug route and dosing suitability for the new indication
+
+**Note on other predictions for aliskiren:** Among the other predicted indications, *cerebrovascular disorder* has the most supporting material. It has one terminated Phase 2/3 trial of aliskiren in atherosclerosis plaque progression (NCT01417104, 71 participants) and several animal stroke studies. Even there, no stroke-outcome trial exists and the trial does not study the disease directly, so it would also need further validation.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,14 +7,15 @@ description: "Vernakalant Hydrochloride drug repurposing predictions from TxGNN.
 parent: AI Predictions (L5)
 nav_order: 629
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Vernakalant Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | stroke disorder | 99.83% | DL |
-| 2 | atrial fibrillation (disease) | 99.61% | DL |
-| 3 | sick sinus syndrome 2, autosomal dominant | 99.55% | DL |
-| 4 | obsolete susceptibility to ischemic stroke | 99.43% | DL |
-| 5 | sarcoglycanopathy | 99.32% | DL |
-| 6 | Wildervanck syndrome | 99.29% | DL |
-| 7 | ABri amyloidosis | 99.26% | DL |
-| 8 | transient ischemic attack (disease) | 98.99% | DL |
-| 9 | macrocephaly, dysmorphic facies, and psychomotor retardation | 98.91% | DL |
-| 10 | obesity disorder | 98.81% | DL |
-| 11 | hypervitaminosis | 98.76% | DL |
-| 12 | cerebrovascular disorder | 98.75% | DL |
-| 13 | spinal cord ischemia | 98.54% | DL |
-| 14 | manic bipolar affective disorder | 98.48% | DL |
-| 15 | proximal 16p11.2 microdeletion syndrome | 97.73% | DL |
-| 16 | duodenal obstruction | 97.40% | DL |
-| 17 | brain stem infarction | 97.08% | DL |
-| 18 | obsolete hypertelorism (disease) | 96.93% | DL |
-| 19 | cerebral artery occlusion | 95.99% | DL |
-| 20 | frontorhiny | 95.88% | DL |
 
 *Showing top 20 of 50 predictions.*
 

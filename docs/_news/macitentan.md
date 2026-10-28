@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Macitentan with the latest h
 <li>Pulmonary arteriovenous malformation</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/macitentan/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (4)

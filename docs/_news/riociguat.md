@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Riociguat with the latest he
 <li>Ambras type hypertrichosis universalis congenita</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/riociguat/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (29)

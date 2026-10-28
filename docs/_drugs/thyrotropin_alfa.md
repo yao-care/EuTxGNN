@@ -4,17 +4,17 @@ title: Thyrotropin Alfa
 parent: AI Predictions (L5)
 nav_order: 611
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Thyrotropin Alfa: predicted new indication Migraine disorder (evidence level L5). Approved use: Use with serum thyroglobulin (Tg) testing…"
 monitor_inn: "Thyrotropin alfa"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Raynaud disease", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "postural orthostatic tachycardia syndrome", "hyperthyroidism"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Raynaud disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "postural orthostatic tachycardia syndrome", "hyperthyroidism"]
 ---
 
 # Thyrotropin Alfa
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 Thyrotropin alfa (recombinant human TSH, Thyrogen) was originally used as a diagnostic and pre-treatment aid in post-thyroidectomy patients with well-differentiated thyroid cancer.
 The TxGNN model predicts it may be effective for **migraine disorder**,
-but there are currently **0 clinical trials** and **0 publications** supporting this prediction. It is a graph-based prediction only.
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
@@ -48,17 +48,17 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Use with serum thyroglobulin (Tg) testing, with or without radioiodine imaging, to detect thyroid remnants and well-differentiated thyroid cancer after thyroidectomy; pre-therapeutic stimulation with radioiodine for ablation of thyroid remnants |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, thyrotropin alfa is a recombinant form of human thyroid-stimulating hormone (TSH). It acts on TSH receptors in thyroid tissue to stimulate iodine uptake and thyroglobulin release. Its use in thyroid cancer follow-up and ablation is established.
 
-For migraine disorder, no plausible mechanistic link has been documented. The score of 99.98% is a graph-based prediction only. The related migraine entities that also appear in the prediction list (migraine with brainstem aura, migraine susceptibility) likely share graph neighbours, so they should not be treated as independent supporting signals. The relationship between the original and new indication is therefore unconfirmed, and this prediction should be treated as a hypothesis only.
+For migraine disorder, no plausible mechanistic link has been documented. The score of 0.9998 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The related migraine entity that also appears in the prediction list (migraine with brainstem aura) likely reflects the same learned similarities, so it should not be treated as an independent supporting signal. The relationship between the original and new indication is therefore unconfirmed, and this prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
@@ -90,7 +90,7 @@ Please refer to the SmPC for other safety information (warnings and contraindica
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based score. There are no clinical trials or publications, no plausible mechanism links TSH receptor agonism to migraine, and the EU authorization is cancelled. The evidence level is L5.
+The prediction rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications, no plausible mechanism links TSH receptor agonism to migraine, and the drug is marketed in this country (1 valid licence of 1). The evidence level is L5.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a plausible biological rationale linking TSH receptor signalling to migraine

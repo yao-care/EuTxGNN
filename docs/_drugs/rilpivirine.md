@@ -4,17 +4,17 @@ title: Rilpivirine
 parent: Medium Evidence (L3-L4)
 nav_order: 522
 evidence_level: L4
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Rilpivirine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV-1 infection…"
 monitor_inn: "Rilpivirine"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection", "fibroma of prostate", "benign reproductive system neoplasm", "Brenner tumor"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Rilpivirine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Currently there are **0 registered clinical trials** and **5 publications**, all
 |------|------|
 | Original Indication | HIV-1 infection, in combination with cabotegravir injection (Rekambys) in virologically suppressed adults and adolescents, or with other antiretrovirals (Edurant) in adults and children |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -80,8 +80,8 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/005060 | Rekambys (cancelled) | Not specified | In combination with cabotegravir injection for HIV-1 infection in virologically suppressed adults and adolescents (at least 12 years, ≥35 kg)... |
-| EMEA/H/C/002264 | Edurant (cancelled) | Not specified | In combination with other antiretrovirals for HIV-1 infection in paediatric patients 2 to <18 years and adults without known NNRTI resistance... |
+| EMEA/H/C/005060 | Rekambys (valid) | Not specified | In combination with cabotegravir injection for HIV-1 infection in virologically suppressed adults and adolescents (at least 12 years, ≥35 kg)... |
+| EMEA/H/C/002264 | Edurant (valid) | Not specified | In combination with other antiretrovirals for HIV-1 infection in paediatric patients 2 to <18 years and adults without known NNRTI resistance... |
 
 ## Safety Considerations
 

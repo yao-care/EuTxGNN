@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Vinflunine
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 671
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Vinflunine: predicted new indication Amyotrophic lateral sclerosis (evidence level L5). Approved use: Advanced or metastatic transitional-cell carcinoma of the urothelial…"
+description: "Vinflunine: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Vinflunine"
-predicted_indications: ["amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "Mills syndrome", "amyotrohpic lateral sclerosis type 22", "amyotrophic lateral sclerosis, susceptibility to", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "autosomal dominant mitochondrial myopathy with exercise intolerance", "monomelic amyotrophy", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Vinflunine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,43 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Vinflunine: From Urothelial Carcinoma to Amyotrophic Lateral Sclerosis
+## Vinflunine
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Vinflunine is a microtubule-targeting chemotherapy originally used for advanced or metastatic transitional-cell carcinoma of the urothelial tract after failure of platinum-based treatment.
-The TxGNN model predicts it may be effective for **amyotrophic lateral sclerosis (ALS)**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction is computational only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Advanced or metastatic transitional-cell carcinoma of the urothelial tract after failure of a prior platinum-containing regimen |
-| Predicted New Indication | Amyotrophic lateral sclerosis |
-| TxGNN Prediction Score | 98.99% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
-| Recommended Decision | Hold |
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, vinflunine is a vinca alkaloid that inhibits tubulin polymerization and causes mitotic arrest. Its efficacy in urothelial carcinoma after platinum failure is the basis of its original authorization.
-
-A conceptual link to ALS exists, because axonal transport and microtubule dynamics are implicated in the disease. A gene-level connection also appears for ALS type 22, which is associated with TUBA4A mutations affecting the microtubule network.
-
-However, this link argues against benefit as much as for it. Microtubule-destabilizing agents are generally neurotoxic and cause peripheral neuropathy, and further destabilizing microtubules could be harmful in a tubulin-related defect. The high TxGNN score is a computational prediction with no clinical or literature support.
-
-Other high-scoring predictions point the same way: related motor neuron conditions (Mills syndrome, late-adult-onset lower motor neuron syndrome, monomelic amyotrophy) and unrelated developmental or skeletal disorders (polymicrogyria, axial spondylometaphyseal dysplasia). These likely reflect knowledge-graph artifacts rather than real mechanistic relationships.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+| Original Indication | Javlor is indicated in monotherapy for the treatment of adult patients with advanced or metastatic transitional-cell carcinoma of the urothelial tract after failure of a prior platinum-containing regimen. Efficacy and safety of vinflunine have not been studied in patients with performance status ? 2 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
 ## EU Market Information
 
@@ -94,18 +69,6 @@ Currently no related literature available.
 
 Please refer to the SmPC for detailed warnings, contraindications and drug interaction information.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction is based only on a computational score (Evidence Level L5), with no clinical trials or publications. The known neurotoxicity of vinca alkaloids argues against benefit in ALS and other motor neuron diseases. The only EU authorization has been cancelled.
-
-**To proceed, the following is needed:**
-- Mechanism of action data (MOA)
-- Safety information (warnings and contraindications) from the product information
-- Preclinical studies (for example, in ALS or TUBA4A models) showing benefit rather than harm
-- Assessment of neurotoxicity risk and of route and formulation compatibility for the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

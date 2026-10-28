@@ -48,17 +48,17 @@ but currently **0 clinical trials** and **0 publications** support this predicti
 |------|------|
 | Original Indication | Adjunct to levodopa/benserazide or levodopa/carbidopa in levodopa-responsive idiopathic Parkinson's disease with motor fluctuations, after failure of, or intolerance to, other COMT inhibitors |
 | Predicted New Indication | Rasmussen subacute encephalitis |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tolcapone is a catechol-O-methyltransferase (COMT) inhibitor. It prolongs the effect of levodopa in Parkinson's disease.
 
-Rasmussen encephalitis is a rare, immune-mediated, chronic neuroinflammatory brain disease. No mechanistic link to COMT inhibition or catecholamine modulation has been established. The high prediction score reflects a graph-based association only. No trials or publications back it, so it should be treated as a hypothesis, not as a finding.
+Rasmussen encephalitis is a rare, immune-mediated, chronic neuroinflammatory brain disease. No mechanistic link to COMT inhibition or catecholamine modulation has been established. The high prediction score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trials or publications back it, so it should be treated as a hypothesis, not as a finding.
 
 Other predictions for this drug are also weak. The more plausible ones are Lewy body dementia and juvenile parkinsonism, which share dopaminergic features with the approved indication. They are not the focus of this report.
 

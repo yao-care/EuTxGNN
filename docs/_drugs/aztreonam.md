@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Aztreonam: predicted new indication Hyperamylasemia (evidence level L5). Approved use: Suppressive therapy of chronic pulmonary infections due to Pseudomona…"
 monitor_inn: "Aztreonam"
-predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "Ureaplasma urethritis", "gonococcal urethritis", "blood group incompatibility", "premalignant hematological system disease", "epiglottitis", "monoclonal gammopathy", "xanthogranulomatous pyelonephritis"]
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "gonococcal urethritis", "Ureaplasma urethritis", "blood group incompatibility", "premalignant hematological system disease", "epiglottitis", "monoclonal gammopathy", "xanthogranulomatous pyelonephritis"]
 ---
 
 # Aztreonam
@@ -50,10 +50,10 @@ Among the other top-10 predictions, only **gonococcal urethritis** has meaningfu
 |------|------|
 | Original Indication | Suppressive therapy of chronic pulmonary infections due to Pseudomonas aeruginosa in patients with cystic fibrosis aged 6 years and older (Cayston) |
 | Predicted New Indication | Hyperamylasemia |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ Among the other top-10 predictions, only **gonococcal urethritis** has meaningfu
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, aztreonam is a monobactam beta-lactam that inhibits bacterial cell wall synthesis by binding to penicillin-binding protein 3 (PBP3). It is active only against aerobic Gram-negative bacteria.
 
-For the top-ranked prediction, **hyperamylasemia**, no plausible mechanistic link exists. It is a laboratory finding rather than a bacterial infection, and has no antibacterial target. The high TxGNN score is most likely an artifact of the knowledge graph. The same applies to the next-ranked predictions: polyclonal hyperviscosity syndrome, congenital analbuminemia, blood group incompatibility, and premalignant hematological system disease. None have any mechanistic rationale for an antibacterial. Ureaplasma urethritis is also biologically implausible, because Ureaplasma lacks a cell wall and is intrinsically resistant to beta-lactams.
+For the top-ranked prediction, **hyperamylasemia**, no plausible mechanistic link exists. It is a laboratory finding rather than a bacterial infection, and has no antibacterial target. The high TxGNN score (0.9973) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same applies to the next-ranked predictions: polyclonal hyperviscosity syndrome, congenital analbuminemia, blood group incompatibility, and premalignant hematological system disease. None have any mechanistic rationale for an antibacterial. Ureaplasma urethritis is also biologically implausible, because Ureaplasma lacks a cell wall and is intrinsically resistant to beta-lactams.
 
 Some lower-ranked predictions are biologically more sensible because they involve Gram-negative bacteria:
 - **Gonococcal urethritis (rank 5):** *Neisseria gonorrhoeae* is susceptible to PBP-targeting beta-lactams. Aztreonam showed activity in older studies and in a 2020 single-arm trial. Resistance reports and established first-line regimens limit the case, so it might only be an alternative in beta-lactam allergy or multidrug-resistant cases.
@@ -99,8 +99,8 @@ Currently no related literature is available for hyperamylasemia. The table belo
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
 |---------|------|------|-----------|------|
-| EMEA/H/C/000996 | Cayston | Not specified | Suppressive therapy of chronic pulmonary infections due to Pseudomonas aeruginosa in patients with cystic fibrosis (CF) aged 6 years and older. Consideration should be given to... | Cancelled |
-| EMEA/H/C/006113 | Emblaveo | Not specified | Complicated intra-abdominal infection (cIAI), hospital-acquired pneumonia (HAP) including VAP, complicated urinary tract infection (cUTI) including pyelonephritis, and infections due to aerobic Gram-negative organisms in adult patients with limited... | Cancelled |
+| EMEA/H/C/000996 | Cayston | Not specified | Suppressive therapy of chronic pulmonary infections due to Pseudomonas aeruginosa in patients with cystic fibrosis (CF) aged 6 years and older. Consideration should be given to... | Valid |
+| EMEA/H/C/006113 | Emblaveo | Not specified | Complicated intra-abdominal infection (cIAI), hospital-acquired pneumonia (HAP) including VAP, complicated urinary tract infection (cUTI) including pyelonephritis, and infections due to aerobic Gram-negative organisms in adult patients with limited... | Valid |
 
 ---
 
@@ -123,7 +123,7 @@ For label-based warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-- The top-ranked prediction (hyperamylasemia) has no clinical or literature support and no plausible antibacterial mechanism. Its high TxGNN score appears to be a graph-prediction artifact.
+- The top-ranked prediction (hyperamylasemia) has no clinical or literature support and no plausible antibacterial mechanism. Its high TxGNN score (0.9973) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 - Both EU authorizations are cancelled, so there is no currently marketed product.
 - Gonococcal urethritis (L3) is the only prediction worth a follow-up research question. Its evidence is limited to small, mostly 1980s studies and one 2020 single-arm trial.
 

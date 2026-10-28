@@ -7,14 +7,15 @@ description: "Ozanimod Hydrochloride drug repurposing predictions from TxGNN. Ev
 parent: AI Predictions (L5)
 nav_order: 431
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Ozanimod Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | multiple sclerosis | 99.58% | DL |
-| 2 | progressive relapsing multiple sclerosis | 99.34% | DL |
-| 3 | transient neonatal thrombocytopenia | 97.90% | DL |
-| 4 | thrombocytopenia | 97.83% | DL |
-| 5 | marcothrombocytopenia with mitral valve insufficiency | 97.73% | DL |
-| 6 | hereditary thrombocytopenia with normal platelets | 97.71% | DL |
-| 7 | relapsing-remitting multiple sclerosis | 97.68% | DL |
-| 8 | dense granule disease | 97.49% | DL |
-| 9 | colonic neoplasm | 96.66% | DL |
-| 10 | psoriasis | 96.43% | DL |
-| 11 | cecum villous adenoma | 96.17% | DL |
-| 12 | rectosigmoid junction neoplasm | 96.13% | DL |
-| 13 | lipoma of colon | 96.11% | DL |
-| 14 | cecum neuroendocrine tumor G1 | 96.09% | DL |
-| 15 | cecal disease | 96.09% | DL |
-| 16 | colon leiomyoma | 96.07% | DL |
-| 17 | benign neoplasm of cecum | 96.03% | DL |
-| 18 | colonic lymphangioma | 96.03% | DL |
-| 19 | cavernous hemangioma of colon | 95.78% | DL |
-| 20 | pityriasis lichenoides | 94.92% | DL |
 
 *Showing top 20 of 50 predictions.*
 

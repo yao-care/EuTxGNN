@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pitolisant
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 489
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Pitolisant: predicted new indication Insomnia (evidence level L4). Approved use: Improving wakefulness and reducing excessive daytime sleepiness (EDS)…"
+description: "Pitolisant: predicted new indication insomnia (disease) (evidence level L4). Approved use: Improving wakefulness and reducing excessive daytime sleepiness (EDS)…"
 monitor_inn: "Pitolisant"
-predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "disorder of peroxisomal alpha-, beta- and omega-oxidation", "ACBD5 deficiency", "Creutzfeldt-Jakob disease", "megaconial type congenital muscular dystrophy", "hypersomnia (disease)", "circadian rhythm sleep disorder"]
+predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
 ---
 
 # Pitolisant
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Pitolisant: From Obstructive Sleep Apnoea Sleepiness to Insomnia
+## Pitolisant: From Obstructive Sleep Apnoea Sleepiness to insomnia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ This prediction is most likely a model artefact, and the mechanism points the op
 |------|------|
 | Original Indication | Improving wakefulness and reducing excessive daytime sleepiness (EDS) in adults with obstructive sleep apnoea (OSA) |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.71% |
-| Evidence Level | L4 |
-| EU Market Status | ✗ Cancelled only (all authorisations cancelled) |
-| Number of Authorizations | 2 (both cancelled) |
+| TxGNN Prediction Score | 0.9971 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ This prediction is most likely a model artefact, and the mechanism points the op
 
 Pitolisant is a selective histamine H3 receptor antagonist/inverse agonist. It increases histamine release in the brain and promotes wakefulness. The data compiled for this report contain no formal mechanism-of-action entry, but the retrieved literature consistently describes this mechanism. Its efficacy in narcolepsy and in OSA-related sleepiness has been shown in randomised trials.
 
-The prediction looks weak. Insomnia is a disorder of too little sleep, so treating it requires *reducing* arousal. Pitolisant does the opposite, and insomnia is a recognised adverse effect of the drug. The high TxGNN score is probably driven by how close the sleep-wake disorders sit to each other in the knowledge graph, not by a therapeutic direction. The retrieved papers concern narcolepsy and OSA, which are wakefulness-promoting indications. The only insomnia-related mention is in a review of the histaminergic system, which discusses doxepin (an H1 antagonist) for insomnia, a different mechanism.
+The prediction looks weak. Insomnia is a disorder of too little sleep, so treating it requires *reducing* arousal. Pitolisant does the opposite, and insomnia is a recognised adverse effect of the drug. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The retrieved papers concern narcolepsy and OSA, which are wakefulness-promoting indications. The only insomnia-related mention is in a review of the histaminergic system, which discusses doxepin (an H1 antagonist) for insomnia, a different mechanism.
 
 By comparison, another prediction for this drug, **hypersomnia**, has far stronger support. It has a completed Phase 3 randomised-withdrawal study in idiopathic hypersomnia (NCT05156047, n=214) and a completed Phase 3 long-term open-label study (NCT05458128, n=119). This is a more credible repurposing direction than insomnia and merits separate evaluation.
 
@@ -122,7 +122,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The H3 inverse agonist mechanism promotes wakefulness, which runs counter to insomnia treatment, and insomnia is a known adverse effect of pitolisant. There are no trials and no literature on pitolisant for insomnia, and the high score is likely a knowledge-graph artefact. All EU authorisations are also currently cancelled.
+The H3 inverse agonist mechanism promotes wakefulness, which runs counter to insomnia treatment, and insomnia is a known adverse effect of pitolisant. There are no trials and no literature on pitolisant for insomnia, and the high score is likely a TxGNN model (deep learning) artefact. The drug is marketed in this country, with 2 valid licences out of 2.
 
 **To proceed, the following is needed:**
 - Mechanistic reassessment that justifies a therapeutic direction for insomnia, or removal of this prediction as a false positive

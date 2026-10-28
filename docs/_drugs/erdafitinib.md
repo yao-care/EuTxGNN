@@ -4,17 +4,17 @@ title: Erdafitinib
 parent: AI Predictions (L5)
 nav_order: 236
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
 description: "Erdafitinib: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Monotherapy for adult patients with unresectable or metastatic urothe…"
 monitor_inn: "Erdafitinib"
-predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "amenorrhea (disease)", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "brachydactyly-syndactyly syndrome", "amyotrohpic lateral sclerosis type 22", "amyotrophic lateral sclerosis, susceptibility to", "axial spondylometaphyseal dysplasia", "Mills syndrome"]
+predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "amenorrhea (disease)", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "brachydactyly-syndactyly syndrome"]
 ---
 
 # Erdafitinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Monotherapy for adult patients with unresectable or metastatic urothelial carcinoma (UC) harbouring susceptible FGFR3 genetic alterations, after at least one prior line of therapy containing a PD-1 or PD-L1 inhibitor |
 | Predicted New Indication | Pulmonary hypertension |
-| TxGNN Prediction Score | 99.38% |
+| TxGNN Prediction Score | 0.9938 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Erdafitinib is a pan-FGFR tyrosine kinase inhibitor. Detailed mechanism of actio
 
 FGF/FGFR signaling has been implicated in pulmonary vascular remodeling and smooth muscle proliferation. This gives a plausible but unvalidated biological rationale for applying an FGFR inhibitor to pulmonary hypertension. The original indication (an FGFR3-altered cancer) and the predicted indication are otherwise unrelated, so the link is through pathway biology rather than disease similarity.
 
-Evidence from the tyrosine kinase inhibitor class is mixed. Imatinib showed benefit in pulmonary arterial hypertension, whereas some other TKIs, such as dasatinib, have been linked to causing it. No direct clinical or preclinical evidence for erdafitinib was provided. The high score (0.994) is a computational prediction only.
+Evidence from the tyrosine kinase inhibitor class is mixed. Imatinib showed benefit in pulmonary arterial hypertension, whereas some other TKIs, such as dasatinib, have been linked to causing it. No direct clinical or preclinical evidence for erdafitinib was provided. The high score (0.9938) is a computational prediction only.
 
 ## Clinical Trial Evidence
 

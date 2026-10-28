@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Rasburicase: predicted new indication Hypouricemia, renal (evidence level L5). Approved use: Treatment and prophylaxis of acute hyperuricaemia…"
 monitor_inn: "Rasburicase"
-predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "hepatic porphyria", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "renal tubular acidosis", "disorder of phenylalanine metabolism"]
+predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "hepatic porphyria", "hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "renal tubular acidosis", "disorder of phenylalanine metabolism"]
 ---
 
 # Rasburicase
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Rasburicase: From Tumour Lysis-Related Hyperuricaemia to Renal Hypouricaemia
+## Rasburicase: From Tumour Lysis-Related Hyperuricaemia to Hypouricemia, Renal
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,19 +48,19 @@ The mechanistic review also suggests that the prediction is biologically implaus
 |------|------|
 | Original Indication | Treatment and prophylaxis of acute hyperuricaemia, to prevent acute renal failure, in adults, children and adolescents (0–17 years) with haematological malignancy with a high tumour burden at risk of rapid tumour lysis or shrinkage at the start of chemotherapy |
 | Predicted New Indication | Hypouricemia, renal |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Rasburicase is known to be a recombinant urate oxidase. It converts uric acid to allantoin, which is more soluble and easily excreted, and so it lowers serum uric acid quickly.
 
-Renal hypouricaemia is already a condition of abnormally low serum uric acid, caused by defects in urate transporters such as URAT1 and GLUT9. Further urate lowering would be mechanistically counterproductive and could worsen the phenotype. The high TxGNN score (rank 296) therefore appears to reflect proximity in the knowledge graph (the uric acid pathway) rather than a true therapeutic link.
+Renal hypouricaemia is already a condition of abnormally low serum uric acid, caused by defects in urate transporters such as URAT1 and GLUT9. Further urate lowering would be mechanistically counterproductive and could worsen the phenotype. The high TxGNN score (rank 296) therefore comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-Other top-ranked predictions are also weakly supported. Partial HPRT deficiency has a conceptual link to urate lowering, but rasburicase is immunogenic, which limits repeated dosing, and it does not address purine overproduction. Chronic management is already served by xanthine oxidase inhibitors. Most of the other predictions (hepatic porphyria, hepatopulmonary syndrome, portal vein and portal hypertension disorders, copper-associated cirrhosis, renal tubular acidosis, phenylalanine metabolism disorders) have no identifiable mechanistic link. Several share identical scores, which suggests a non-specific graph artifact.
+Other top-ranked predictions are also weakly supported. Partial HPRT deficiency has a conceptual link to urate lowering, but rasburicase is immunogenic, which limits repeated dosing, and it does not address purine overproduction. Chronic management is already served by xanthine oxidase inhibitors. Most of the other predictions (hepatic porphyria, hepatopulmonary syndrome, portal vein and portal hypertension disorders, copper-associated cirrhosis, renal tubular acidosis, phenylalanine metabolism disorders) have no identifiable mechanistic link. Several share identical scores (0.9997), which may reflect similarities the TxGNN model (deep learning) learned between related diseases, not biological evidence.
 
 ## EU Market Information
 
@@ -83,7 +83,7 @@ Please refer to the SmPC for the full warnings and contraindications.
 The prediction is supported by a model score only (L5), with no clinical trials or literature. The mechanism argues against benefit, since lowering uric acid in a condition of already low uric acid could be harmful. The product's only EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- A biological rationale that justifies the prediction, or a decision to deprioritize it as a graph artifact
+- A biological rationale that justifies the prediction, or a decision to deprioritize it because the TxGNN model (deep learning) score may only reflect learned similarities between related diseases, not biological evidence
 - Mechanism of action data from DrugBank
 - Warnings and contraindications from the SmPC
 - Review of lower-ranked or alternative predictions, such as partial HPRT deficiency, for acute severe hyperuricaemia use only

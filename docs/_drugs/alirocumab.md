@@ -47,21 +47,21 @@ The TxGNN model predicts it may be effective for **X-linked ichthyosis without s
 |------|------|
 | Original Indication | Primary hypercholesterolaemia and mixed dyslipidaemia; established atherosclerotic cardiovascular disease |
 | Predicted New Indication | Ichthyosis, X-linked, without steroid sulfatase deficiency |
-| TxGNN Prediction Score | 99.43% |
+| TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, alirocumab is a fully human antibody against PCSK9 (proprotein convertase subtilisin/kexin type 9). By blocking PCSK9, it increases LDL receptor availability on liver cells and lowers circulating LDL-C. Its efficacy in hypercholesterolaemia is established.
 
-For the predicted indication, no identifiable mechanistic link was found. X-linked ichthyosis involves steroid sulfatase (STS) dysfunction and cholesterol sulfate accumulation in the stratum corneum. PCSK9 inhibition lowers circulating LDL-C and does not act on this pathway. The high score (0.994) is a model output with no supporting trials or literature, so it should be treated as a hypothesis-generating signal only.
+For the predicted indication, no identifiable mechanistic link was found. X-linked ichthyosis involves steroid sulfatase (STS) dysfunction and cholesterol sulfate accumulation in the stratum corneum. PCSK9 inhibition lowers circulating LDL-C and does not act on this pathway. The high score (0.9943) is a model output with no supporting trials or literature, so it should be treated as a hypothesis-generating signal only.
 
 **Other predictions reviewed.** Among the top 10 predictions, only two have any evidence base, and both are at L4:
-- **Xanthomatosis** (score 99.37%): biologically plausible, since xanthomas arise from lipid deposition in severe hypercholesterolaemia. The evidence consists of two case reports, one of which describes sitosterolemia with tendon xanthomas treated with ezetimibe and alirocumab. There are no trials.
-- **Cholesterol catabolic process disease** (score 99.36%): this largely restates the existing indication. One preclinical study suggests PCSK9 inhibition may prevent cholesterol gallstones through PPARα-mediated CYP7A1 activation, an angle that needs clinical testing.
+- **Xanthomatosis** (score 0.9937): biologically plausible, since xanthomas arise from lipid deposition in severe hypercholesterolaemia. The evidence consists of two case reports, one of which describes sitosterolemia with tendon xanthomas treated with ezetimibe and alirocumab. There are no trials.
+- **Cholesterol catabolic process disease** (score 0.9936): this largely restates the existing indication. One preclinical study suggests PCSK9 inhibition may prevent cholesterol gallstones through PPARα-mediated CYP7A1 activation, an angle that needs clinical testing.
 
 The remaining predictions have no identified supporting evidence. For cholesterol synthesis defects, lowering LDL-C could be counterproductive.
 

@@ -7,14 +7,15 @@ description: "Atropine Sulfate drug repurposing predictions from TxGNN. Evidence
 parent: AI Predictions (L5)
 nav_order: 56
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Atropine Sulfate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | migraine disorder | 99.56% | DL |
-| 2 | migraine with brainstem aura | 99.42% | DL |
-| 3 | migraine with or without aura, susceptibility to | 98.15% | DL |
-| 4 | atrophoderma vermiculata | 98.15% | DL |
-| 5 | open-angle glaucoma | 98.03% | DL |
-| 6 | primary hereditary glaucoma | 97.78% | DL |
-| 7 | ulerythema ophryogenesis | 97.76% | DL |
-| 8 | headache disorder | 97.24% | DL |
-| 9 | trigeminal autonomic cephalalgia | 96.46% | DL |
-| 10 | nephrogenic syndrome of inappropriate antidiuresis | 96.34% | DL |
-| 11 | diffuse alopecia areata | 95.28% | DL |
-| 12 | hypertrichosis (disease) | 95.27% | DL |
-| 13 | congenital hypotrichosis milia | 95.23% | DL |
-| 14 | alopecia | 95.14% | DL |
-| 15 | Ambras type hypertrichosis universalis congenita | 95.13% | DL |
-| 16 | common cold | 95.10% | DL |
-| 17 | hypotrichosis simplex of the scalp | 94.99% | DL |
-| 18 | sciatic neuropathy | 94.73% | DL |
-| 19 | malformation syndrome with odontal and/or periodontal component | 94.63% | DL |
-| 20 | syndrome with a Dandy-Walker malformation as major feature | 94.56% | DL |
 
 *Showing top 20 of 50 predictions.*
 

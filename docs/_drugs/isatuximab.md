@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Isatuximab
-parent: Medium Evidence (L3-L4)
+parent: Known Uses Only (No New Predictions)
 nav_order: 336
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Isatuximab: predicted new indication Indolent plasma cell myeloma (evidence level L4). Approved use: Multiple myeloma (in combination with pomalidomide/dexamethasone…"
-monitor_inn: "Isatuximab"
-predicted_indications: ["cholangiocarcinoma, susceptibility to", "minimally invasive lung adenocarcinoma", "placenta disease", "GCGR-related hyperglucagonemia", "hemoglobin C-beta-thalassemia syndrome", "giant cell reparative granuloma", "dental caries", "colon inflammatory polyp", "epidural abscess"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Isatuximab: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Isatuximab
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,52 +32,45 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Isatuximab: From Multiple Myeloma to Indolent Plasma Cell Myeloma
+<!-- known-uses-page -->
+<!-- description: Isatuximab: known uses and market status in the European Union; currently no new candidate indication -->
+## Isatuximab: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model has no candidate with a score of 0.99 or higher for Isatuximab, so there is currently no new predicted indication. The drug's own recorded uses are listed below.
 
-Isatuximab is an anti-CD38 monoclonal antibody originally used to treat relapsed/refractory and newly diagnosed multiple myeloma.
-The TxGNN model predicts it may be effective for **indolent plasma cell myeloma**,
-but there are currently **0 registered clinical trials** and only **3 indirectly related publications** (a review, a case report and a reply letter), so the prediction rests mainly on model output.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Multiple myeloma (in combination with pomalidomide/dexamethasone, carfilzomib/dexamethasone, or bortezomib/lenalidomide/dexamethasone) |
-| Predicted New Indication | Indolent plasma cell myeloma |
-| TxGNN Prediction Score | 98.23% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (authorization cancelled) |
-| Number of Authorizations | 1 |
-| Recommended Decision | Hold |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 2 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
-## Why is This Prediction Reasonable?
+## Known uses recorded for this drug
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, isatuximab is an anti-CD38 monoclonal antibody, its efficacy in multiple myeloma is established, and mechanistically it may be applicable to indolent (smoldering) plasma cell myeloma.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| multiple myeloma | licence in another country |
 
-Indolent plasma cell myeloma lies on the same disease continuum as multiple myeloma, and plasma cells express CD38 at high levels. This makes the biological rationale reasonable.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-However, the high prediction score largely reflects overlap with the already approved myeloma indication rather than a truly novel repurposing signal. The available literature offers only indirect support: a review of CD38 in B-cell lymphomas, and a case report (with a reply letter) on desensitization to isatuximab in a patient with refractory myeloma and indolent systemic mastocytosis. None of these provide efficacy or safety data from trials in this population.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [42488083](https://pubmed.ncbi.nlm.nih.gov/42488083/) | 2026 | Review | American Journal of Blood Research | Reviews the roles of CD38 in the pathogenesis and treatment of B-cell lymphomas (proliferation, apoptosis, immune modulation) |
-| [38888584](https://pubmed.ncbi.nlm.nih.gov/38888584/) | 2024 | Case report | Journal of Investigational Allergology & Clinical Immunology | Successful desensitization to isatuximab in a patient with refractory myeloma and indolent systemic mastocytosis |
-| [38275249](https://pubmed.ncbi.nlm.nih.gov/38275249/) | 2024 | Letter/Reply | Journal of Investigational Allergology & Clinical Immunology | Reply to the desensitization report; no efficacy data |
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| plasma cell myeloma |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004977 (status: cancelled) | Sarclisa | Not specified | SARCLISA is indicated: In combination with pomalidomide and dexamethasone, for the treatment of adult patients with relapsed and refractory multiple myeloma who have... |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/004977 | Sarclisa |  | Valid |
 
 ## Cytotoxicity
 
@@ -96,18 +88,6 @@ Currently no related clinical trials registered.
 
 Please refer to the SmPC for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction is biologically plausible, but there are no registered trials and only indirect literature, so the evidence is limited to mechanism-level reasoning (L4). The high score largely reflects overlap with the already approved myeloma indication. In addition, the EU authorization is recorded as cancelled.
-
-**To proceed, the following is needed:**
-- Clarification of the EU authorization status (cancelled) and confirmation of the current regulatory position
-- Mechanism of action data and SmPC warnings/contraindications for safety screening
-- Direct clinical evidence of anti-CD38 therapy in indolent/smoldering plasma cell myeloma (trial searches and a targeted literature review)
-- A risk-benefit assessment for treating a low-burden, asymptomatic population with an immunosuppressive antibody, including infection risk and red cell serology interference
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

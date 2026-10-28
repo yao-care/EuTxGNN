@@ -14,22 +14,26 @@
   "indication": {
     "diseaseSymptomProcedure": {
       "concept": {
-        "text": "Paratyphoid fever"
+        "text": "paratyphoid fever"
       }
     }
   },
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L3"
+      "valueCode": "L5"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/prediction-source",
-      "valueString": "TxGNN Knowledge Graph"
+      "valueString": "TxGNN Deep Learning Model"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/drugbank-id",
-      "valueString": "DB01598"
+      "valueString": "DB01048"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9999
     }
   ]
 }

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sirolimus
-parent: AI Predictions (L5)
+parent: High Evidence (L1-L2)
 nav_order: 565
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Sirolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Facial angiofibroma associated with tuberous sclerosis complex (adult…"
 monitor_inn: "Sirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lung PEComa", "vulva sarcoma"]
+description: "Sirolimus: predicted new indication Liposarcoma (evidence level L2). Approved use: Hyftor is indicated for the treatment of facial angiofibroma associat…"
 ---
 
 # Sirolimus
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Sirolimus: From Facial Angiofibroma in Tuberous Sclerosis Complex to Liposarcoma
+## Sirolimus: Liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -44,12 +44,12 @@ Sirolimus is an mTOR inhibitor, originally used for facial angiofibroma in tuber
 
 | Item | Content |
 |------|------|
-| Original Indication | Facial angiofibroma associated with tuberous sclerosis complex (adults and children aged 6 and older); also prevention of kidney transplant rejection and sporadic LAM |
+| Original Indication | Hyftor is indicated for the treatment of facial angiofibroma associated with tuberous sclerosis complex in adults and paediatric patients aged 6 years and older.; Rapamune is indicated for the prophylaxis of organ rejection in adult patients at low to moderate immunological risk receiving a renal tr |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L2 (borderline: the one completed Phase 2 trial is single-arm, with no randomised comparator) |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -80,7 +80,6 @@ The direct evidence is limited. The one registered trial combines sirolimus with
 
 ## EU Market Information
 
-Both authorizations are cancelled, so no valid EU marketing authorization is currently listed.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -99,7 +98,7 @@ Label-based warnings and contraindications were not available in the data compil
 **Decision: Hold**
 
 **Rationale:**
-The mTOR pathway rationale is plausible, but direct evidence in liposarcoma is limited to one single-arm Phase 2 combination trial with no available results. The supporting literature is indirect. Sirolimus also has no valid EU marketing authorization at present.
+The mTOR pathway rationale is plausible, but direct evidence in liposarcoma is limited to one single-arm Phase 2 combination trial with no available results. The supporting literature is indirect.
 
 **To proceed, the following is needed:**
 - Efficacy results from the Phase 2 trial (NCT02821507) and identification of the contribution of sirolimus versus cyclophosphamide

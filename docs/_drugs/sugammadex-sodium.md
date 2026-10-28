@@ -7,14 +7,15 @@ description: "Sugammadex Sodium drug repurposing predictions from TxGNN. Evidenc
 parent: AI Predictions (L5)
 nav_order: 546
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Sugammadex Sodium
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | breast fibrocystic disease | 98.49% | DL |
-| 2 | Prinzmetal angina | 98.39% | DL |
-| 3 | peripheral arterial disease | 98.06% | DL |
-| 4 | blunt duct adenosis of breast | 97.82% | DL |
-| 5 | apocrine adenosis of breast | 97.82% | DL |
-| 6 | thrombotic disease | 97.50% | DL |
-| 7 | tendinitis | 97.42% | DL |
-| 8 | antithrombin deficiency type 2 | 97.42% | DL |
-| 9 | benign mammary dysplasia | 97.42% | DL |
-| 10 | female breast carcinoma | 97.30% | DL |
-| 11 | factor 5 excess with spontaneous thrombosis | 97.30% | DL |
-| 12 | epiglottitis | 97.26% | DL |
-| 13 | ischemic disease | 97.25% | DL |
-| 14 | angiodysplasia | 97.22% | DL |
-| 15 | idiopathic granulomatous myositis | 97.19% | DL |
-| 16 | myositis fibrosa | 97.19% | DL |
-| 17 | hemoglobinopathy | 97.17% | DL |
-| 18 | fibrocartilaginous embolism | 97.12% | DL |
-| 19 | venous thromboembolism | 97.12% | DL |
-| 20 | breast adenosis | 97.09% | DL |
 
 *Showing top 20 of 50 predictions.*
 

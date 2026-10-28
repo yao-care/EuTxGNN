@@ -8,6 +8,7 @@ nav_order: 19
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acalabrutinib Maleate
@@ -54,7 +55,7 @@ As a result, a full repurposing evaluation **cannot be completed** with the curr
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A (no predictions generated) |
 | Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | **Hold** |
 
 ---
@@ -75,7 +76,7 @@ Acalabrutinib maleate is the maleate salt form of acalabrutinib (brand name: Cal
 
 | Item | Content |
 |------|---------|
-| Market Status | Not marketed in Taiwan |
+| Market Status | Marketed (valid licences: 1 of 1) |
 | Total Licenses | 0 |
 | Dosage Forms | No records |
 

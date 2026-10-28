@@ -6,7 +6,7 @@ nav_order: 511
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ravulizumab: predicted new indication Autosomal recessive severe congenital neutropenia due to G6PC3 defici… (evidence level L5). Approved use: Paroxysmal nocturnal haemoglobinuria (PNH) in adult and…"
+description: "Ravulizumab: predicted new indication Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency (evidence level L5). Approved use: Paroxysmal nocturnal haemoglobinuria (PNH) in adult and…"
 monitor_inn: "Ravulizumab"
 predicted_indications: ["autosomal recessive severe congenital neutropenia due to G6PC3 deficiency", "cyclic hematopoiesis", "primary hyperoxaluria", "severe congenital neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "pseudo-von Willebrand disease", "X-linked severe congenital neutropenia", "primary release disorder of platelets", "megaloblastic anemia (disease)"]
 ---
@@ -48,17 +48,17 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Paroxysmal nocturnal haemoglobinuria (PNH) in adult and paediatric patients with a body weight of 10 kg or above (also aHUS, gMG and NMOSD) |
 | Predicted New Indication | Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, ravulizumab is a monoclonal antibody that inhibits complement component C5. Its efficacy in complement-mediated diseases such as PNH and aHUS has been established.
 
-For the predicted indication, no mechanistic link is established. G6PC3 deficiency is a metabolic defect in neutrophil glucose-6-phosphatase activity that leads to neutrophil apoptosis and endoplasmic reticulum stress. Complement-mediated pathology is not a recognized driver of this disease. The high TxGNN score (99.96%) is a computational prediction, probably reflecting shared network features among related blood disorders rather than a pharmacological basis.
+For the predicted indication, no mechanistic link is established. G6PC3 deficiency is a metabolic defect in neutrophil glucose-6-phosphatase activity that leads to neutrophil apoptosis and endoplasmic reticulum stress. Complement-mediated pathology is not a recognized driver of this disease. The high TxGNN score (0.9996) is a computational prediction, probably reflecting shared network features among related blood disorders rather than a pharmacological basis.
 
 Other highly ranked predictions show the same pattern. They include cyclic haematopoiesis, primary hyperoxaluria, severe congenital neutropenia (several subtypes), pseudo-von Willebrand disease, primary release disorder of platelets and megaloblastic anaemia. None has trial or literature support, and none has a recognized complement-driven mechanism.
 

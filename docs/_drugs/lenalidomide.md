@@ -4,17 +4,17 @@ title: Lenalidomide
 parent: High Evidence (L1-L2)
 nav_order: 361
 evidence_level: L2
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Lenalidomide: predicted new indication Myeloid leukemia (evidence level L2). Approved use: Multiple myeloma (maintenance after transplant…"
 monitor_inn: "Lenalidomide"
-predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "partial deletion of the long arm of chromosome 5", "lymph node cancer", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive", "ganglioneuroblastoma (disease)", "acute lymphoblastic leukemia (disease)"]
+predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
 ---
 
 # Lenalidomide
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The evidence is early-stage and largely single-arm, so the prediction remains a 
 |------|------|
 | Original Indication | Multiple myeloma (maintenance after transplant, combination therapy in untreated and previously treated disease); also follicular lymphoma, and for Revlimid, del(5q) myelodysplastic syndromes and mantle cell lymphoma |
 | Predicted New Indication | Myeloid leukemia |
-| TxGNN Prediction Score | 99.49% |
+| TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L2 |
-| EU Market Status | Cancelled only (all licences cancelled) |
-| Number of Authorizations | 3 (0 valid, 3 cancelled) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -143,12 +143,12 @@ Please refer to the SmPC for the full warnings, as label text was not available 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-- Many small Phase 1/2 trials and a strong mechanistic basis, especially for del(5q) disease, support the prediction. No randomised Phase 3 trial confirms benefit in myeloid leukemia, and all EU licences are cancelled.
+- Many small Phase 1/2 trials and a strong mechanistic basis, especially for del(5q) disease, support the prediction. No randomised Phase 3 trial confirms benefit in myeloid leukemia. The drug is marketed in this country, with 3 valid licences of 3.
 
 **To proceed, the following is needed:**
 - Restrict any further work to biomarker-defined populations (for example del(5q)) and to well-designed randomised studies in AML
 - Review the EMA product information for warnings and contraindications, which were not available in the data compiled for this report
-- Confirm the current EU availability, since all three licences are cancelled
+- Confirm the current availability. The drug is marketed in this country, with 3 valid licences of 3
 - Include a plan for monitoring blood counts, thromboembolism and secondary malignancies
 - Obtain detailed mechanism-of-action data from DrugBank
 
@@ -158,15 +158,9 @@ Please refer to the SmPC for the full warnings, as label text was not available 
 
 | Predicted Indication | TxGNN Score | Evidence Level | Recommendation |
 |------|------|------|------|
-| Unclassified myelodysplastic syndrome | 99.43% | L3 | Proceed with Guardrails (limit to biomarker-defined patients) |
-| Lymph node cancer | 97.82% | L1 | Proceed with Guardrails (the only linked trial is in prostate cancer and is not relevant) |
-| Refractory cytopenia of childhood | 99.35% | L3 | Research Question |
-| Aregenerative anemia | 99.32% | L3 | Research Question |
-| Partial deletion of the long arm of chromosome 5 | 99.27% | L4 | Research Question |
-| Severe congenital hypochromic anemia with ringed sideroblasts | 99.28% | L5 | Hold |
-| Blast phase CML, BCR-ABL1 positive | 96.74% | L4 | Hold |
-| Ganglioneuroblastoma | 95.97% | L5 | Hold |
-| Acute lymphoblastic leukemia | 95.93% | L3 | Hold (secondary B-ALL safety concern) |
+| Refractory cytopenia of childhood | 0.9935 | L5 | Research Question |
+| Aregenerative anemia | 0.9932 | L5 | Research Question |
+| Severe congenital hypochromic anemia with ringed sideroblasts | 0.9928 | L5 | Hold |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pseudoephedrine
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 503
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Pseudoephedrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Symptomatic treatment of seasonal allergic rhinitis when accompanied…"
 monitor_inn: "pseudoephedrine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "allergic urticaria"]
+predicted_indications: ["nasal cavity disease", "allergic urticaria"]
 ---
 
 # Pseudoephedrine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be useful for **nasal cavity disease**, but ther
 |------|------|
 | Original Indication | Symptomatic treatment of seasonal allergic rhinitis when accompanied by nasal congestion |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.75% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| TxGNN Prediction Score | 0.9975 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,9 +61,9 @@ The TxGNN model predicts it may be useful for **nasal cavity disease**, but ther
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, pseudoephedrine is a sympathomimetic that stimulates alpha-adrenergic receptors in the nasal mucosa. This causes vasoconstriction and reduces mucosal swelling, which relieves nasal congestion.
 
-The original indication (nasal congestion in seasonal allergic rhinitis) and the predicted indication (nasal cavity disease) overlap heavily. Congestion is a common symptom across many nasal conditions. The prediction is therefore better seen as an extension of the existing label than as a truly new use. The 99.75% score is a computational prediction only and is not itself clinical evidence.
+The original indication (nasal congestion in seasonal allergic rhinitis) and the predicted indication (nasal cavity disease) overlap heavily. Congestion is a common symptom across many nasal conditions. The prediction is therefore better seen as an extension of the existing label than as a truly new use. The 0.9975 score is a computational prediction only and is not itself clinical evidence.
 
-Two other predictions were also generated. **Acute laryngopharyngitis** (score 99.73%) has no supporting trials or literature, and pseudoephedrine has no known anti-inflammatory or anti-infective action relevant to it. **Allergic urticaria** (score 99.14%) is supported only by papers on antihistamines, not pseudoephedrine, which does not block histamine H1 receptors. Both are rated L5 and Hold.
+One other prediction was also generated. **Allergic urticaria** (score 0.9914) is supported only by papers on antihistamines, not pseudoephedrine, which does not block histamine H1 receptors. It is rated L5 and Hold.
 
 ---
 

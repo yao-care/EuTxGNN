@@ -7,14 +7,15 @@ description: "Umeclidinium Bromide drug repurposing predictions from TxGNN. Evid
 parent: AI Predictions (L5)
 nav_order: 615
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Umeclidinium Bromide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | migraine disorder | 96.36% | DL |
-| 2 | migraine with brainstem aura | 95.83% | DL |
-| 3 | open-angle glaucoma | 93.28% | DL |
-| 4 | primary hereditary glaucoma | 92.91% | DL |
-| 5 | nephrogenic syndrome of inappropriate antidiuresis | 92.03% | DL |
-| 6 | gastroduodenitis | 91.91% | DL |
-| 7 | common cold | 91.74% | DL |
-| 8 | atrophoderma vermiculata | 91.24% | DL |
-| 9 | peptic ulcer disease | 91.05% | DL |
-| 10 | allergic urticaria | 90.66% | DL |
-| 11 | migraine with or without aura, susceptibility to | 90.62% | DL |
-| 12 | ulerythema ophryogenesis | 89.84% | DL |
-| 13 | schizophrenia | 89.81% | DL |
-| 14 | Ambras type hypertrichosis universalis congenita | 89.80% | DL |
-| 15 | hypertrichosis (disease) | 89.55% | DL |
-| 16 | insomnia (disease) | 89.47% | DL |
-| 17 | headache disorder | 89.44% | DL |
-| 18 | acute intermittent porphyria | 89.37% | DL |
-| 19 | polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 89.13% | DL |
-| 20 | malformation syndrome with odontal and/or periodontal component | 89.11% | DL |
 
 *Showing top 20 of 50 predictions.*
 

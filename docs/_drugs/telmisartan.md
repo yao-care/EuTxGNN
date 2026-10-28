@@ -4,17 +4,17 @@ title: Telmisartan
 parent: AI Predictions (L5)
 nav_order: 595
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Telmisartan: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Treatment of essential hypertension in adults"
 monitor_inn: "Telmisartan"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
+description: "Telmisartan: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Hypertension Treatment of essential hypertension in adults. Cardiovas…"
 ---
 
 # Telmisartan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Telmisartan: From Hypertension to Prinzmetal Angina
+## Telmisartan: Prinzmetal angina
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ Among the other top-ranked predictions, **intracerebral hemorrhage** has the str
 
 | Item | Content |
 |------|------|
-| Original Indication | Treatment of essential hypertension in adults; reduction of cardiovascular morbidity in patients with atherothrombotic cardiovascular disease or type 2 diabetes with target organ damage |
+| Original Indication | Hypertension Treatment of essential hypertension in adults. Cardiovascular prevention Reduction of cardiovascular morbidity in patients with: manifest atherothrombotic cardiovascular disease (history of coronary heart disease or peripheral arterial disease) or; type 2 diabetes mellitus with document |
 | Predicted New Indication | Prinzmetal angina |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 6 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Authorizations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ---
@@ -68,15 +68,14 @@ Prinzmetal (vasospastic) angina involves coronary artery spasm. A plausible link
 
 | Rank | Predicted Indication | Score | Evidence Level | Decision |
 |---|---|---|---|---|
-| 2 | Brain stem infarction | 99.98% | L5 | Hold |
-| 3 | ABri amyloidosis | 99.97% | L5 | Hold |
-| 4 | Cerebral artery occlusion | 99.95% | L4 | Research Question |
-| 5 | Pulmonary hypertension owing to lung disease and/or hypoxia | 99.93% | L4 | Hold |
-| 6 | Pulmonary hypertension with unclear multifactorial mechanism | 99.93% | L5 | Hold |
-| 7 | Malignant hypertensive renal disease | 99.93% | L5 | Hold |
-| 8 | Malignant renovascular hypertension | 99.93% | L5 | Hold |
-| 9 | Intracerebral hemorrhage | 99.93% | L2 | Research Question |
-| 10 | Braddock syndrome | 99.92% | L5 | Hold |
+| 2 | Brain stem infarction | 0.9998 | L5 | Hold |
+| 3 | ABri amyloidosis | 0.9997 | L5 | Hold |
+| 4 | Cerebral artery occlusion | 0.9995 | L4 | Research Question |
+| 5 | Pulmonary hypertension owing to lung disease and/or hypoxia | 0.9993 | L5 | Hold |
+| 6 | Pulmonary hypertension with unclear multifactorial mechanism | 0.9993 | L5 | Hold |
+| 7 | Malignant hypertensive renal disease | 0.9993 | L5 | Hold |
+| 9 | Intracerebral hemorrhage | 0.9993 | L5 | Research Question |
+| 10 | Braddock syndrome | 0.9992 | L5 | Hold |
 
 Notably, **intracerebral hemorrhage** is supported by blood-pressure lowering as the established route to preventing recurrent bleeding. Telmisartan was one component of the TRIDENT triple low-dose single-pill regimen, so its independent contribution cannot be isolated. **Cerebral artery occlusion** is supported only by preclinical studies showing reduced infarct volume and neuroinflammation. For **malignant renovascular hypertension**, ARBs carry a safety concern (renal function decline with bilateral renal artery stenosis), so caution is needed.
 
@@ -155,7 +154,7 @@ Label-based warnings and contraindications were not available in the data compil
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, Prinzmetal angina, rests on model score alone (L5) with no trials or literature. All EU telmisartan authorizations are cancelled, and label-based safety data is missing. The strongest signal lies in intracerebral hemorrhage (L2), but that evidence comes from a combination regimen and cannot be attributed to telmisartan alone.
+The top prediction, Prinzmetal angina, rests on model score alone (L5) with no trials or literature. Telmisartan is marketed in this country, with 6 valid licences of 6, but label-based safety data is missing. The strongest signal lies in intracerebral hemorrhage (L2), but that evidence comes from a combination regimen and cannot be attributed to telmisartan alone.
 
 **To proceed, the following is needed:**
 - Mechanism-of-action data (e.g., from DrugBank)

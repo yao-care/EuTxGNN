@@ -4,7 +4,7 @@ title: Canakinumab
 parent: AI Predictions (L5)
 nav_order: 122
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Canakinumab: predicted new indication Hepatic infarction (evidence level L5). Approved use: Autoinflammatory periodic fever syndromes (CAPS, TRAPS, HIDS/MKD…"
 monitor_inn: "Canakinumab"
@@ -14,7 +14,7 @@ predicted_indications: ["hepatic infarction", "hepatic veno-occlusive disease", 
 # Canakinumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ It rests on the model score alone.
 |------|------|
 | Original Indication | Autoinflammatory periodic fever syndromes (CAPS, TRAPS, HIDS/MKD, FMF), Still's disease (AOSD and SJIA), and gouty arthritis |
 | Predicted New Indication | Hepatic infarction |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ It rests on the model score alone.
 
 Currently, detailed mechanism of action data is not available. Canakinumab is known as a monoclonal antibody that neutralizes IL-1β, and its efficacy in IL-1β-driven autoinflammatory diseases is established. Mechanistically, it could in theory be applicable to inflammation-related conditions in other organs.
 
-The link to hepatic infarction is weak. Hepatic infarction is mainly an ischemic or vascular event, not a primary autoinflammatory disease. Any connection would be speculative, for example inflammation-driven thrombosis. The high TxGNN score reflects patterns in the model's knowledge graph and is not a demonstrated biological or clinical association. No similarity analysis between the original and predicted indications has been completed.
+The link to hepatic infarction is weak. Hepatic infarction is mainly an ischemic or vascular event, not a primary autoinflammatory disease. Any connection would be speculative, for example inflammation-driven thrombosis. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No similarity analysis between the original and predicted indications has been completed.
 
 ---
 

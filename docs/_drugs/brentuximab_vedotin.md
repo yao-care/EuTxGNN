@@ -48,10 +48,10 @@ but only **6 clinical trials** (mostly withdrawn or terminated, with one directl
 |------|------|
 | Original Indication | Hodgkin lymphoma (CD30+ Hodgkin lymphoma, including previously untreated and relapsed/refractory disease) |
 | Predicted New Indication | Follicular lymphoma |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L3 |
-| EU Market Status | Cancelled only (the single EMA authorization is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

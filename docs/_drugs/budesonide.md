@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Budesonide
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 111
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Budesonide: predicted new indication Atopic eczema (evidence level L4). Approved use: Eosinophilic esophagitis (EoE) in adults (older than 18 years of age)"
@@ -14,7 +14,7 @@ predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "po
 # Budesonide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The evidence is essentially model-prediction level, so this direction is not yet
 |------|------|
 | Original Indication | Eosinophilic esophagitis (EoE) in adults (older than 18 years of age) |
 | Predicted New Indication | Atopic eczema |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| TxGNN Prediction Score | 0.9996 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Eosinophilic esophagitis and atopic eczema both belong to the atopic/type 2 inflammatory disease spectrum, so a steroid-responsive mechanism is plausible. However, the supporting literature is largely indirect: reviews of EoE therapy, corticosteroid contact allergy and adrenal suppression papers, and a preclinical budesonide nanoparticle-hydrogel formulation study. Established topical corticosteroids already exist for atopic eczema, so the incremental value of budesonide is unclear.
 
-Note that the same underlying disease also appears in the prediction list as "dermatitis, atopic" (score 99.81%). The two entries should be merged in downstream review to avoid double counting.
+Note that the same underlying disease also appears in the prediction list as "dermatitis, atopic" (score 0.9981). The two entries should be merged in downstream review to avoid double counting.
 
 ---
 
@@ -95,7 +95,7 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/004655 | Jorveza | Not specified | Treatment of eosinophilic esophagitis (EoE) in adults (older than 18 years of age). (Status: cancelled) |
+| EMEA/H/C/004655 | Jorveza | Not specified | Treatment of eosinophilic esophagitis (EoE) in adults (older than 18 years of age). (Status: valid) |
 
 ---
 

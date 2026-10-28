@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **gastroparesis**, but **no cli
 |------|------|
 | Original Indication | Maple syrup urine disease (MSUD) presenting with an acute decompensation episode in patients from birth who are not eligible for an oral or enteral BCAA-free formulation |
 | Predicted New Indication | Gastroparesis |
-| TxGNN Prediction Score | 99.37% |
+| TxGNN Prediction Score | 0.9937 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Alanine is a non-essential amino acid that takes part in the glucose-alanine cycle and gluconeogenesis. Its authorized use in MSUD is as part of parenteral amino acid nutrition during metabolic crisis.
 
-No credible mechanistic link between alanine and gastric motility has been established. The very high prediction score (0.994) is a purely computational output. Without known pharmacology to cross-check it, any connection to gastroparesis remains speculative.
+No credible mechanistic link between alanine and gastric motility has been established. The very high prediction score (0.9937) is a purely computational output. Without known pharmacology to cross-check it, any connection to gastroparesis remains speculative.
 
 The three retrieved publications cover gastrointestinal and hepatic complications of kidney disease, diabetic hepatosclerosis, and glycogen hepatopathy in type 1 diabetes. They mention gastroparesis only as a comorbidity or background context. None of them tests alanine as a treatment.
 

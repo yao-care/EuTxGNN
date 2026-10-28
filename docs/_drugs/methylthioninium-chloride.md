@@ -7,14 +7,15 @@ description: "Methylthioninium Chloride drug repurposing predictions from TxGNN.
 parent: AI Predictions (L5)
 nav_order: 376
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Methylthioninium Chloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | irritable bowel syndrome | 90.43% | DL |
-| 2 | dysthymic disorder | 88.53% | DL |
-| 3 | anaphylaxis | 88.06% | DL |
-| 4 | food-dependent exercise-induced anaphylaxis | 87.75% | DL |
-| 5 | bronchitis | 85.52% | DL |
-| 6 | anxiety | 80.59% | DL |
-| 7 | obsolete rare pulmonary disease | 75.18% | DL |
-| 8 | variably protease-sensitive prionopathy | 74.85% | DL |
-| 9 | autonomic nervous system disease | 74.49% | DL |
-| 10 | pulmonary edema | 73.87% | DL |
-| 11 | pityriasis simplex | 73.45% | DL |
-| 12 | multiple system atrophy | 72.85% | DL |
-| 13 | cauda equina syndrome | 70.95% | DL |
-| 14 | primary hereditary glaucoma | 69.87% | DL |
-| 15 | acrodermatitis chronica atrophicans | 67.77% | DL |
-| 16 | dermatitis | 67.09% | DL |
-| 17 | obsolete neurogenic bladder (disease) | 66.70% | DL |
-| 18 | neurocirculatory asthenia | 65.82% | DL |
-| 19 | open-angle glaucoma | 65.72% | DL |
-| 20 | benign paroxysmal torticollis of infancy | 65.45% | DL |
 
 *Showing top 20 of 50 predictions.*
 

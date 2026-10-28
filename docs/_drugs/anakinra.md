@@ -50,10 +50,10 @@ The strongest-supported predicted candidates are other autoinflammatory conditio
 |------|------|
 | Original Indication | Rheumatoid arthritis (in combination with methotrexate, in adults with an inadequate response to methotrexate alone) |
 | Predicted New Indication | Extracutaneous mastocytoma |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization in the data compiled for this report) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ The strongest-supported predicted candidates are other autoinflammatory conditio
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, anakinra is a recombinant IL-1 receptor antagonist. Its efficacy in IL-1-driven inflammatory diseases (rheumatoid arthritis, periodic fever syndromes, Still's disease) is established. Mechanistically, it might be applicable to other diseases in which IL-1-driven inflammation plays a role.
 
-For extracutaneous mastocytoma, the only support is the TxGNN prediction itself (score 0.999). A possible link is IL-1-driven inflammation in mast cell disease, but this is speculative and not backed by any trials or literature. The same applies to the other highest-scoring predictions (hepatic infarction, hepatic veno-occlusive disease, peliosis hepatis), for which no mechanistic rationale can be established from the available data.
+For extracutaneous mastocytoma, the only support is the TxGNN prediction itself (score 0.9993). A possible link is IL-1-driven inflammation in mast cell disease, but this is speculative and not backed by any trials or literature. The same applies to the other highest-scoring predictions (hepatic infarction, hepatic veno-occlusive disease, peliosis hepatis), for which no mechanistic rationale can be established from the available data.
 
 Other predicted indications are better grounded. Autosomal recessive familial Mediterranean fever (FMF) is caused by MEFV mutations that lead to pyrin inflammasome activation and excess IL-1β, a strong mechanistic fit. However, FMF is already a labelled indication, so this is confirmation of existing use rather than true repurposing. PAPA/PAPASH syndromes (pyogenic autoinflammatory syndrome, PSTPIP1 mutations) and unclassified autoinflammatory syndromes also involve IL-1 overproduction. By contrast, the retrieved literature for aggressive systemic mastocytosis concerns Schnitzler syndrome and appears to be a mismatched retrieval.
 

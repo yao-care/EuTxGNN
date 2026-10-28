@@ -7,14 +7,15 @@ description: "Lasmiditan Succinate drug repurposing predictions from TxGNN. Evid
 parent: AI Predictions (L5)
 nav_order: 331
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Lasmiditan Succinate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | migraine disorder | 99.94% | DL |
-| 2 | migraine with brainstem aura | 99.92% | DL |
-| 3 | migraine with or without aura, susceptibility to | 99.61% | DL |
-| 4 | atrophoderma vermiculata | 99.59% | DL |
-| 5 | ulerythema ophryogenesis | 99.46% | DL |
-| 6 | sciatic neuropathy | 96.51% | DL |
-| 7 | monogenic obesity | 88.83% | DL |
-| 8 | obesity disorder | 87.57% | DL |
-| 9 | obsolete hypertelorism (disease) | 86.37% | DL |
-| 10 | hypervitaminosis | 86.15% | DL |
-| 11 | amenorrhea (disease) | 84.73% | DL |
-| 12 | frontorhiny | 82.74% | DL |
-| 13 | proximal 16p11.2 microdeletion syndrome | 80.01% | DL |
-| 14 | lesion of sciatic nerve | 79.64% | DL |
-| 15 | anxiety | 75.04% | DL |
-| 16 | tendinitis | 73.69% | DL |
-| 17 | myositis fibrosa | 71.50% | DL |
-| 18 | idiopathic granulomatous myositis | 71.50% | DL |
-| 19 | trigeminal autonomic cephalalgia | 68.27% | DL |
-| 20 | headache disorder | 66.06% | DL |
 
 *Showing top 20 of 50 predictions.*
 

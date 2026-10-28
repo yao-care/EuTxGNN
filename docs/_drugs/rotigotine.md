@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 |------|------|
 | Original Indication | Parkinson's disease (early to late stage, as monotherapy or with levodopa); moderate to severe idiopathic restless-legs syndrome in adults |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
-| TxGNN Prediction Score | 99.997% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 (model prediction with no direct studies; the data compiled for this report lists L4 because of the mechanistic papers) |
-| EU Market Status | Cancelled only (no currently valid authorisation in the data) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

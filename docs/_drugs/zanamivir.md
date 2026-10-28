@@ -4,17 +4,17 @@ title: Zanamivir
 parent: AI Predictions (L5)
 nav_order: 680
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Zanamivir: predicted new indication Pyelonephritis (evidence level L5). Approved use: Treatment of complicated and potentially life-threatening influenza A…"
 monitor_inn: "Zanamivir"
-predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome", "disorder of phenylalanine metabolism", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria", "dengue virus, susceptibility to", "aspergillosis, susceptibility to", "susceptibility to HIV infection", "legionnaire disease, susceptibility to", "Schistosoma mansoni infection, susceptibility"]
+predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
 ---
 
 # Zanamivir
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,17 +48,17 @@ The prediction is purely computational and has no supporting mechanistic or clin
 |------|------|
 | Original Indication | Treatment of complicated and potentially life-threatening influenza A or B virus infection in adult and paediatric patients (aged ≥6 months) when the virus is known or suspected to be resistant to other anti-influenza medicines, and/or other antivirals (including inhaled zanamivir) are not suitable |
 | Predicted New Indication | Pyelonephritis |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Zanamivir is generally known as a viral neuraminidase inhibitor, and its efficacy is limited to influenza A and B viruses.
 
-Pyelonephritis is a kidney infection caused predominantly by bacteria such as *E. coli*. Zanamivir has no known antibacterial activity, and no plausible pharmacological link between the original and predicted indications was identified. The high TxGNN score (0.998) reflects a graph-based association and is not backed by mechanistic or clinical evidence. In its current form, the prediction is not considered reasonable.
+Pyelonephritis is a kidney infection caused predominantly by bacteria such as *E. coli*. Zanamivir has no known antibacterial activity, and no plausible pharmacological link between the original and predicted indications was identified. The high TxGNN score (0.9984) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence; it is not backed by mechanistic or clinical evidence. In its current form, the prediction is not considered reasonable.
 
 ## EU Market Information
 
@@ -78,7 +78,7 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based score. Zanamivir acts on viral neuraminidase and has no known antibacterial activity, and no clinical trials or relevant publications support its use in pyelonephritis. The EU authorization is also cancelled.
+The prediction rests only on the TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. Zanamivir acts on viral neuraminidase and has no known antibacterial activity, and no clinical trials or relevant publications support its use in pyelonephritis. The EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
 - Any preclinical evidence of activity against uropathogenic bacteria or a relevant mechanism

@@ -7,14 +7,15 @@ description: "Bosutinib (As Monohydrate) drug repurposing predictions from TxGNN
 parent: AI Predictions (L5)
 nav_order: 88
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Bosutinib (As Monohydrate)
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | myeloid leukemia | 98.75% | DL |
-| 2 | thrombocytopenia | 98.62% | DL |
-| 3 | marcothrombocytopenia with mitral valve insufficiency | 98.46% | DL |
-| 4 | hereditary thrombocytopenia with normal platelets | 98.45% | DL |
-| 5 | transient neonatal thrombocytopenia | 98.34% | DL |
-| 6 | dense granule disease | 98.31% | DL |
-| 7 | platelet storage pool deficiency | 97.43% | DL |
-| 8 | plasma cell myeloma | 96.82% | DL |
-| 9 | HER2 positive breast carcinoma | 96.72% | DL |
-| 10 | indolent plasma cell myeloma | 96.47% | DL |
-| 11 | thrombotic disease | 96.08% | DL |
-| 12 | female breast carcinoma | 96.05% | DL |
-| 13 | primary cutaneous T-cell lymphoma | 95.63% | DL |
-| 14 | malignant catarrh | 95.42% | DL |
-| 15 | infectious bovine rhinotracheitis | 95.42% | DL |
-| 16 | cytomegalovirus infection | 95.36% | DL |
-| 17 | progesterone-receptor negative breast cancer | 95.34% | DL |
-| 18 | progesterone-receptor positive breast cancer | 95.21% | DL |
-| 19 | normal breast-like subtype of breast carcinoma | 95.21% | DL |
-| 20 | breast tumor luminal A or B | 95.14% | DL |
 
 *Showing top 20 of 50 predictions.*
 

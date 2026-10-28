@@ -5,10 +5,10 @@ parent: AI Predictions (L5)
 nav_order: 295
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Granisetron: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Prevention of nausea and vomiting in patients receiving moderately or…"
+last_modified_at: 2026-10-28
 monitor_inn: "Granisetron"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
+description: "Granisetron: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Prevention of nausea and vomiting in patients receiving moderately or…"
 ---
 
 # Granisetron
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Granisetron: From Chemotherapy-Induced Nausea and Vomiting to Manic Bipolar Affective Disorder
+## Granisetron: Manic bipolar affective disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be effective for **manic bipolar affective disor
 
 | Item | Content |
 |------|------|
-| Original Indication | Prevention of nausea and vomiting in patients receiving moderately or highly emetogenic chemotherapy, with or without cisplatin, for up to five consecutive days |
+| Original Indication | Prevention of nausea and vomiting in patients receiving moderately or highly emetogenic chemotherapy, with or without cisplatin, for up to five consecutive days. Sancuso may be used in patients receiving their first chemotherapy regimen or in patients who have previously received chemotherapy. |
 | Predicted New Indication | Manic bipolar affective disorder |
-| TxGNN Prediction Score | 99.62% |
+| TxGNN Prediction Score | 0.9962 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 A theoretical link to mania exists through serotonergic and dopaminergic modulation in limbic circuits. Other 5-HT3 antagonists, such as ondansetron, have been explored in neuropsychiatric conditions. However, this link is speculative. No granisetron-specific trials or literature were found, and the TxGNN score reflects a computational prediction rather than clinical evidence.
 
-Other top-ranked predictions include Tourette syndrome (99.52%), trichotillomania (99.23%), and several urticaria, conjunctivitis and other conditions. Some of these, such as Tourette syndrome and trichotillomania, have a speculative class-level rationale. Others, such as nephrogenic syndrome of inappropriate antidiuresis, conjunctivitis and bronchitis, appear to be network artifacts without a plausible mechanism. None has clinical evidence.
+Other top-ranked predictions include Tourette syndrome (0.9952), trichotillomania (0.9923), and several urticaria, conjunctivitis and other conditions. Some of these, such as Tourette syndrome and trichotillomania, have a speculative class-level rationale. Others, such as nephrogenic syndrome of inappropriate antidiuresis, conjunctivitis and bronchitis, appear to be network artifacts without a plausible mechanism. None has clinical evidence.
 
 ## Clinical Trial Evidence
 

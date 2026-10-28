@@ -4,17 +4,17 @@ title: Treosulfan
 parent: AI Predictions (L5)
 nav_order: 640
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Treosulfan: predicted new indication Diabetic cataract (evidence level L5). Approved use: Conditioning treatment, in combination with fludarabine…"
 monitor_inn: "Treosulfan"
-predicted_indications: ["diabetic cataract", "nuclear senile cataract", "cortical cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "tetanic cataract", "mature cataract", "immature cataract", "diabetic retinopathy", "senile cataract"]
+predicted_indications: ["diabetic cataract"]
+description: "Treosulfan: predicted new indication Diabetic cataract (evidence level L5). Approved use: Treosulfan in combination with fludarabine is indicated as part of co…"
 ---
 
 # Treosulfan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Treosulfan: From Conditioning Before Stem Cell Transplantation to Diabetic Cataract
+## Treosulfan: Diabetic cataract
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -44,21 +44,20 @@ Treosulfan is an alkylating agent used together with fludarabine as conditioning
 
 | Item | Content |
 |------|------|
-| Original Indication | Conditioning treatment, in combination with fludarabine, before alloHSCT in adults and in paediatric patients older than one month with malignant and non-malignant diseases |
+| Original Indication | Treosulfan in combination with fludarabine is indicated as part of conditioning treatment prior to allogeneic haematopoietic stem cell transplantation (alloHSCT) in adult patients&nbsp;and in paediatric patients older than one month with malignant and non-malignant diseases. |
 | Predicted New Indication | Diabetic cataract |
-| TxGNN Prediction Score | 99.01% |
+| TxGNN Prediction Score | 0.9901 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (the single authorization is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Treosulfan is a bifunctional alkylating agent. It is a prodrug converted to epoxide species that crosslink DNA, and this produces the myeloablative effect needed for transplant conditioning.
 
-The prediction is **not well supported mechanistically**. Diabetic cataract involves polyol pathway activity, glycation and oxidative stress in the lens. A DNA-crosslinking cytotoxic agent has no established role in these processes. The high score most likely reflects shared associations within the cataract disease cluster of the knowledge graph rather than biological evidence. Cataract is also a recognized late complication of conditioning regimens, so the direction of effect may be the opposite of benefit.
+The prediction is **not well supported mechanistically**. Diabetic cataract involves polyol pathway activity, glycation and oxidative stress in the lens. A DNA-crosslinking cytotoxic agent has no established role in these processes. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Cataract is also a recognized late complication of conditioning regimens, so the direction of effect may be the opposite of benefit.
 
-The other top-ranked predictions are all ocular conditions and show the same pattern: nuclear senile, cortical, type 2 diabetes-associated, craniostenotic, tetanic, mature, immature and senile cataract, and diabetic retinopathy. They all have scores of 98.9–99.0%, zero trials, zero publications, and no supported mechanistic link.
 
 ## EU Market Information
 
@@ -95,7 +94,6 @@ The prediction rests on a model score alone. There are no clinical trials or pub
 - Warnings and contraindications from the SmPC, which are currently missing
 - Preclinical evidence of a biologically plausible effect on lens pathology
 - Assessment of route compatibility, since only systemic use is known and ocular delivery has not been evaluated
-- A risk-benefit justification, given that established treatments exist (cataract surgery, and anti-VEGF, laser or corticosteroids for diabetic retinopathy)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

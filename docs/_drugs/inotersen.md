@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Inotersen
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 322
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Inotersen: predicted new indication Acute intermittent porphyria (evidence level L4). Approved use: Treatment of stage 1 or stage 2 polyneuropathy in adult patients with…"
 monitor_inn: "Inotersen"
-predicted_indications: ["acute intermittent porphyria", "appendicitis", "IgG4-related pachymeningitis", "IgG4-related retroperitoneal fibrosis", "non-infectious meningitis", "peritonitis", "infectious meningitis", "IgG4-related mediastinitis", "IgG4-related mesenteritis", "eosinophilic angiocentric fibrosis"]
+predicted_indications: ["acute intermittent porphyria", "appendicitis", "IgG4-related pachymeningitis", "IgG4-related retroperitoneal fibrosis", "non-infectious meningitis", "peritonitis", "infectious meningitis", "IgG4-related mesenteritis", "IgG4-related mediastinitis", "eosinophilic angiocentric fibrosis"]
 ---
 
 # Inotersen
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **acute intermittent porphyria*
 |------|------|
 | Original Indication | Treatment of stage 1 or stage 2 polyneuropathy in adult patients with hereditary transthyretin amyloidosis (hATTR) |
 | Predicted New Indication | Acute intermittent porphyria |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| TxGNN Prediction Score | 0.9992 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -73,7 +73,7 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/004782 | Tegsedi | Not specified | Treatment of stage 1 or Stage 2 polyneuropathy in adult patients with hereditary transthyretin amyloidosis (hATTR). (status: cancelled) |
+| EMEA/H/C/004782 | Tegsedi | Not specified | Treatment of stage 1 or Stage 2 polyneuropathy in adult patients with hereditary transthyretin amyloidosis (hATTR). (status: valid) |
 
 ## Safety Considerations
 

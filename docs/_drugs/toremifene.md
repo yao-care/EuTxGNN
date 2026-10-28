@@ -4,17 +4,17 @@ title: Toremifene
 parent: AI Predictions (L5)
 nav_order: 630
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Toremifene: predicted new indication HIV infectious disease (evidence level L5). Approved use: First line hormone treatment of hormone-dependent metastatic breast c…"
 monitor_inn: "Toremifene"
-predicted_indications: ["HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "multiple endocrine neoplasia", "AIDS", "obsolete familial combined hyperlipidemia", "nephrogenic syndrome of inappropriate antidiuresis", "gout"]
+predicted_indications: ["HIV infectious disease"]
 ---
 
 # Toremifene
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The prediction is therefore a computational signal with no clinical backing.
 |------|------|
 | Original Indication | First line hormone treatment of hormone-dependent metastatic breast cancer in postmenopausal patients. Fareston is not recommended for patients with estrogen receptor negative tumours. |
 | Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 99.41% |
+| TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 (model prediction only; no actual studies on HIV) |
-| EU Market Status | ✗ Cancelled only |
-| Number of Authorizations | 1 (0 currently valid, 1 cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,9 +62,8 @@ The prediction is therefore a computational signal with no clinical backing.
 
 Currently, detailed mechanism of action data is not available. Based on known information, toremifene is a selective estrogen receptor modulator (SERM) related to tamoxifen. Its efficacy in hormone-dependent breast cancer is established, but no direct mechanism links it to HIV.
 
-The only linked paper (PMID 24520056) shows that estrogen receptor antagonists, including toremifene, have antifungal activity against *Cryptococcus*. They act by binding EF-hand proteins such as calmodulin and work together with fluconazole in the laboratory. This is relevant to an opportunistic fungal infection that affects people with HIV, not to HIV replication or disease progression. The high score is most likely driven by similarity patterns in the knowledge graph rather than by biological evidence.
+The only linked paper (PMID 24520056) shows that estrogen receptor antagonists, including toremifene, have antifungal activity against *Cryptococcus*. They act by binding EF-hand proteins such as calmodulin and work together with fluconazole in the laboratory. This is relevant to an opportunistic fungal infection that affects people with HIV, not to HIV replication or disease progression. The high score of 0.9941 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-Other predictions for this drug include AIDS, feline AIDS and simian immunodeficiency virus infection, which cluster around the same HIV-related signal. Breast carcinoma also appears among the predictions, but that is toremifene's existing indication rather than a new one.
 
 ---
 

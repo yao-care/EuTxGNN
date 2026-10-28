@@ -4,17 +4,17 @@ title: Mogamulizumab
 parent: AI Predictions (L5)
 nav_order: 414
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
 description: "Mogamulizumab: predicted new indication Prostatic urethra urothelial carcinoma (evidence level L5). Approved use: Adult patients with mycosis fungoides (MF) or Sézary syndrome (SS) wh…"
 monitor_inn: "Mogamulizumab"
-predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "human herpesvirus 8-related tumor", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "middle ear neuroendocrine tumor", "transitional cell carcinoma", "Richter syndrome"]
+predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "human herpesvirus 8-related tumor", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor"]
 ---
 
 # Mogamulizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Adult patients with mycosis fungoides (MF) or Sézary syndrome (SS) who have received at least one prior systemic therapy |
 | Predicted New Indication | Prostatic urethra urothelial carcinoma |
-| TxGNN Prediction Score | 99.44% |
+| TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -102,7 +102,7 @@ Many of these are immunosuppressants or vaccines, so combined immune effects war
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score (99.44%), with no clinical trials or literature (Evidence Level L5). The mechanistic link is hypothetical, and the EU authorization for the original indication is cancelled.
+The prediction is supported only by the model score (0.9944), with no clinical trials or literature (Evidence Level L5). The mechanistic link is hypothetical, and the EU authorization for the original indication is cancelled.
 
 **To proceed, the following is needed:**
 - Full mechanism of action data, and preclinical evidence of CCR4+ Treg involvement in urothelial carcinoma

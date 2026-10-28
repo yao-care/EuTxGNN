@@ -4,7 +4,7 @@ title: Sebelipase Alfa
 parent: AI Predictions (L5)
 nav_order: 550
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Sebelipase Alfa: predicted new indication Scheie syndrome (evidence level L5). Approved use: Long-term enzyme replacement therapy (ERT) in patients of all ages wi…"
 monitor_inn: "Sebelipase alfa"
@@ -14,7 +14,7 @@ predicted_indications: ["Scheie syndrome", "Hurler syndrome", "growth hormone in
 # Sebelipase Alfa
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,19 +47,19 @@ The TxGNN model ranks **Scheie syndrome** (attenuated MPS I) as its top predicti
 |------|------|
 | Original Indication | Long-term enzyme replacement therapy (ERT) in patients of all ages with lysosomal acid lipase (LAL) deficiency |
 | Predicted New Indication | Scheie syndrome |
-| TxGNN Prediction Score | 99.80% |
+| TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Sebelipase alfa is a recombinant human lysosomal acid lipase. It replaces the deficient enzyme in LAL deficiency, which reduces the lysosomal build-up of cholesteryl esters and triglycerides.
 
-The biological link to Scheie syndrome is weak. Scheie syndrome is caused by a deficiency of alpha-L-iduronidase, a different enzyme that acts on different substrates. Sebelipase alfa does not replace it, so there is no overlap in enzyme or substrate. The high score most likely reflects the shared "lysosomal storage disease" neighbourhood in the knowledge graph rather than a real therapeutic connection. The prediction should therefore be treated as a model artefact until shown otherwise.
+The biological link to Scheie syndrome is weak. Scheie syndrome is caused by a deficiency of alpha-L-iduronidase, a different enzyme that acts on different substrates. Sebelipase alfa does not replace it, so there is no overlap in enzyme or substrate. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as the shared "lysosomal storage disease" group, not biological evidence or a real therapeutic connection. The prediction should therefore be treated as a model artefact until shown otherwise.
 
-**Context from other predictions:** The best-supported prediction for this drug is *cholesteryl ester storage disease* (rank 4, TxGNN score 99.72%), the later-onset form of LAL deficiency. It is already covered by the approved indication, so it is not true repurposing. It is backed by a pivotal Phase 3 placebo-controlled RCT (NCT01757184, n=66; NEJM 2015, PMID 26352813), several Phase 2 studies, long-term extension data and an expanded access program. Wolman disease (rank 5), the severe infant form of LAL deficiency, is also within the approved indication and is supported by small, uncontrolled infant cohorts.
+**Context from other predictions:** The best-supported prediction for this drug is *cholesteryl ester storage disease* (rank 4, TxGNN score 0.9972), the later-onset form of LAL deficiency. It is already covered by the approved indication, so it is not true repurposing. It is backed by a pivotal Phase 3 placebo-controlled RCT (NCT01757184, n=66; NEJM 2015, PMID 26352813), several Phase 2 studies, long-term extension data and an expanded access program. Wolman disease (rank 5), the severe infant form of LAL deficiency, is also within the approved indication and is supported by small, uncontrolled infant cohorts.
 
 ## Clinical Trial Evidence
 

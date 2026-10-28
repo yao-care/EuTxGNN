@@ -4,17 +4,17 @@ title: Zidovudine
 parent: AI Predictions (L5)
 nav_order: 683
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Zidovudine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Antiretroviral combination therapy for Human Immunodeficiency Virus (…"
 monitor_inn: "Zidovudine"
-predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "fibroma of prostate", "Brenner tumor", "female breast carcinoma", "benign reproductive system neoplasm"]
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
+description: "Zidovudine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Combivir is indicated in antiretroviral combination therapy for the t…"
 ---
 
 # Zidovudine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Zidovudine: From HIV Infection to Feline Acquired Immunodeficiency Syndrome
+## Zidovudine: Feline acquired immunodeficiency syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be effective for **feline acquired immunodeficie
 
 | Item | Content |
 |------|------|
-| Original Indication | Antiretroviral combination therapy for Human Immunodeficiency Virus (HIV) infection |
+| Original Indication | Combivir is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection.; Trizivir is indicated for the treatment of human-immunodeficiency-virus (HIV) infection in adults. This fixed combination replaces the three components (abacavir, lamivudin |
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L4 (preclinical/animal studies only) |
-| EU Market Status | Cancelled only (no valid authorizations) |
-| Number of Authorizations | 2 (both cancelled) |
+| TxGNN Prediction Score | 0.9996 |
+| Evidence Level | L5 (preclinical/animal studies only) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -105,14 +105,14 @@ Please refer to the SmPC for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is biologically plausible, but it concerns a veterinary disease and rests only on animal studies from 1990–2016. Zidovudine would not become a new human indication, and none of the EU authorizations is currently valid.
+The prediction is biologically plausible, but it concerns a veterinary disease and rests only on animal studies from 1990–2016.
 
 **To proceed, the following is needed:**
 - Clarification of whether a veterinary development goal is in scope, since this is not a human repurposing opportunity.
 - Detailed mechanism of action data (MOA).
 - Label warnings and contraindications from the SmPC, which are currently missing.
 - For human use, attention to the other predicted HIV-related indications. Congenital HIV and AIDS-related complex are already supported by Phase 3 trials, but they fall within the existing HIV use and are not novel repurposing findings.
-- Verification of product availability, because all EU authorizations are cancelled.
+- Verification of product availability: the drug is marketed, with 2 valid licences out of 2.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Apalutamide with the latest 
 <li>Prostate cancer/brain cancer susceptibility</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/apalutamide/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (37)

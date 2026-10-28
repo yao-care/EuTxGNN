@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dolutegravir
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 195
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Dolutegravir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L4). Approved use: HIV infection…"
 monitor_inn: "Dolutegravir"
-predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "chronic hepatitis C virus infection", "hepatitis C virus infection", "obsolete familial combined hyperlipidemia", "hepatitis E virus infection", "hepatitis A virus infection"]
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Dolutegravir
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ The evidence is indirect and comes from veterinary or preclinical work, so it is
 |------|------|
 | Original Indication | HIV infection, in combination with other antiretroviral medicinal products, in adults, adolescents and children (from 4 weeks of age and weighing at least 3 kg) |
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
-| TxGNN Prediction Score | 99.85% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (the single marketing authorization is cancelled) |
-| Number of Authorizations | 1 |
+| TxGNN Prediction Score | 0.9985 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but
 |------|------|
 | Original Indication | Treatment of anthracycline extravasation |
 | Predicted New Indication | Sclerosing cholangitis |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, dexrazoxane is a cardioprotectant and iron chelator used alongside anthracycline chemotherapy, and its efficacy in anthracycline extravasation was the basis of its EU authorization.
 
-A speculative link to sclerosing cholangitis is that iron chelation and topoisomerase II modulation might reduce oxidative injury and inflammation in the biliary epithelium. This idea is not supported by any evidence compiled for this report. The very high prediction score most likely reflects patterns in the knowledge graph rather than demonstrated biology, so it should be treated as a hypothesis only.
+A speculative link to sclerosing cholangitis is that iron chelation and topoisomerase II modulation might reduce oxidative injury and inflammation in the biliary epithelium. This idea is not supported by any evidence compiled for this report. The very high prediction score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so it should be treated as a hypothesis only.
 
 The other predicted indications (bronchitis, paratyphoid fever, conjunctivitis, epiglottitis, peritonitis, laryngitis, urinary tract infection, pyelonephritis, cystitis) are mostly infectious or inflammatory conditions with no known link to dexrazoxane's mechanism. The only one with a plausible, though indirect, mechanistic angle is cystitis, through ferroptosis research. That is preclinical and does not involve dexrazoxane directly.
 

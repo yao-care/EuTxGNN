@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Hydrocortisone
-parent: AI Predictions (L5)
+parent: High Evidence (L1-L2)
 nav_order: 302
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Hydrocortisone: predicted new indication Alopecia areata (evidence level L5). Approved use: Replacement therapy of adrenal insufficiency in infants…"
 monitor_inn: "Hydrocortisone"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 # Hydrocortisone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **alopecia areata**, with **1 c
 |------|------|
 | Original Indication | Replacement therapy of adrenal insufficiency in infants, children and adolescents (from birth to < 18 years old) |
 | Predicted New Indication | Alopecia areata |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L1 per the compiled data; in practice weaker, because the only Phase 3 trial used hydrocortisone as the low-potency comparator |
-| EU Market Status | ✗ Cancelled only (no currently valid authorizations among the 3 listed) |
-| Number of Authorizations | 3 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -85,9 +85,9 @@ Several other retrieved articles are historical reports from 1955–1966, or off
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/004416 | Alkindi (cancelled) | Not specified | Replacement therapy of adrenal insufficiency in infants, children and adolescents (from birth to < 18 years old). |
-| EMEA/H/C/002185 | Plenadren (cancelled) | Not specified | Treatment of adrenal insufficiency in adults. |
-| EMEA/H/C/005105 | Efmody (cancelled) | Not specified | Treatment of congenital adrenal hyperplasia (CAH) in adolescents aged 12 years and over and adults. |
+| EMEA/H/C/004416 | Alkindi (valid) | Not specified | Replacement therapy of adrenal insufficiency in infants, children and adolescents (from birth to < 18 years old). |
+| EMEA/H/C/002185 | Plenadren (valid) | Not specified | Treatment of adrenal insufficiency in adults. |
+| EMEA/H/C/005105 | Efmody (valid) | Not specified | Treatment of congenital adrenal hyperplasia (CAH) in adolescents aged 12 years and over and adults. |
 
 ## Safety Considerations
 
@@ -104,7 +104,7 @@ Please refer to the SmPC for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The only controlled evidence used hydrocortisone 1% as the weak comparator, and it appears inferior to a potent corticosteroid. The remaining literature is mostly historical case reports. The data support the class plausibility of corticosteroids in alopecia areata, but not hydrocortisone specifically. All three EU authorizations are cancelled, and the dosage forms are not specified.
+The only controlled evidence used hydrocortisone 1% as the weak comparator, and it appears inferior to a potent corticosteroid. The remaining literature is mostly historical case reports. The data support the class plausibility of corticosteroids in alopecia areata, but not hydrocortisone specifically. All three EU authorizations are valid, and the dosage forms are not specified.
 
 **To proceed, the following is needed:**
 - The full results of NCT01453686 and PMID 24226568, to quantify hydrocortisone's own response

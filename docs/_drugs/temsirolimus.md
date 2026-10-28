@@ -4,17 +4,17 @@ title: Temsirolimus
 parent: AI Predictions (L5)
 nav_order: 598
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Temsirolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Advanced renal-cell carcinoma (first-line…"
 monitor_inn: "Temsirolimus"
-predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "vulva sarcoma", "uterine corpus myxoid leiomyosarcoma", "anus leiomyosarcoma", "uterine corpus epithelioid leiomyosarcoma", "small intestinal sarcoma", "retroperitoneal sarcoma", "leiomyosarcoma"]
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "vulva sarcoma"]
+description: "Temsirolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Renal-cell carcinoma Torisel is indicated for the first-line treatmen…"
 ---
 
 # Temsirolimus
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Temsirolimus: From Renal-Cell Carcinoma and Mantle-Cell Lymphoma to Liposarcoma
+## Temsirolimus: Liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but only **2 indirect clinical trials** (mixed sarcoma populations, combination 
 
 | Item | Content |
 |------|------|
-| Original Indication | Advanced renal-cell carcinoma (first-line, with at least three of six prognostic risk factors); relapsed and/or refractory mantle-cell lymphoma |
+| Original Indication | Renal-cell carcinoma Torisel is indicated for the first-line treatment of adult patients with advanced renal-cell carcinoma (RCC) who have at least three of six prognostic risk factors. Mantle-cell lymphoma Torisel is indicated for the treatment of adult patients with relapsed and / or refractory ma |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.54% |
-| Evidence Level | L2 (see note below) |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 |
+| TxGNN Prediction Score | 0.9954 |
+| Evidence Level | L5 (see note below) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 *Note on the evidence level: the data compiled for this report assign L2 to liposarcoma, but this is generous. The two Phase 1/2 and Phase 2 trials enrolled mixed sarcoma populations and combination regimens, and no completed Phase 2/3 RCT is specific to liposarcoma. In practice the evidence is closer to indirect and exploratory.*
@@ -92,7 +92,6 @@ The only EU authorisation is recorded as cancelled.
 | Cytotoxicity Classification | Targeted therapy (mTOR inhibitor) |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | Please refer to the SmPC. Given the knowledge-graph signals below, consider monitoring blood glucose, lipids, and liver and renal function. |
 | Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
@@ -106,16 +105,12 @@ Label-based warnings and contraindications were not available in the data compil
   - Clarithromycin
 
   Moderate-level interactions include antidiabetic drugs (metformin, pioglitazone, acarbose, alogliptin, albiglutide, canagliflozin, dapagliflozin, chlorpropamide) and corticosteroids (hydrocortisone, triamcinolone, betamethasone, budesonide), as well as aprepitant, cimetidine, mesalazine and balsalazide.
-- **Safety signal in sarcoma:** A case report (PMID 24830996, 2014) described bowel perforation with temsirolimus in a recently irradiated patient with uterine leiomyosarcoma. This is relevant to intestinal and retroperitoneal sites.
+- This is relevant to intestinal and retroperitoneal sites.
 
 ## Other Predicted Indications (for Context)
 
 | Predicted Indication | TxGNN Score | Evidence Level | Evidence Summary |
 |------|------|------|------|
-| Leiomyosarcoma | 98.60% | L2 | The most developed evidence: a Phase 2 soft-tissue sarcoma study (PMID 21287536), a randomised Phase 2 of selumetinib ± temsirolimus (PMID 25897676), and a retrospective leiomyosarcoma series (PMID 21301319). Activity appears modest, and the combination data do not isolate a temsirolimus benefit. |
-| Unclassified renal cell carcinoma | 98.53% | L3 | Retrospective and small studies of mTOR inhibitors in non-clear-cell RCC, including a neoadjuvant downstaging case series. Not definitive. |
-| Retroperitoneal sarcoma | 98.60% | L4 | Only a bowel perforation case report, which is a safety signal. |
-| Ovarian myxoid liposarcoma, vulva sarcoma, uterine myxoid and epithelioid leiomyosarcoma, anus leiomyosarcoma, small intestinal sarcoma | 98.6–99.5% | L5 | No trials or literature specific to these indications. Scores likely reflect a general sarcoma–mTOR association. |
 
 ## Conclusion and Next Steps
 

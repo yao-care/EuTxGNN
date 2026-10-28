@@ -4,17 +4,17 @@ title: Polatuzumab Vedotin
 parent: AI Predictions (L5)
 nav_order: 491
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Polatuzumab Vedotin: predicted new indication HER2 positive breast carcinoma (evidence level L5). Approved use: Relapsed/refractory DLBCL (with bendamustine and rituximab) in adults…"
 monitor_inn: "Polatuzumab vedotin"
-predicted_indications: ["HER2 positive breast carcinoma", "progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer", "drug-induced osteoporosis", "acne (disease)", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis"]
+predicted_indications: ["HER2 positive breast carcinoma"]
 ---
 
 # Polatuzumab Vedotin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Polatuzumab vedotin: From Diffuse Large B-Cell Lymphoma to HER2-Positive Breast Carcinoma
+## Polatuzumab vedotin: From Diffuse Large B-Cell Lymphoma to HER2 positive breast carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,19 +47,18 @@ The TxGNN model predicts it may be effective for **HER2-positive breast carcinom
 |------|------|
 | Original Indication | Relapsed/refractory DLBCL (with bendamustine and rituximab) in adults not eligible for haematopoietic stem cell transplant; previously untreated DLBCL (with R-CHP) |
 | Predicted New Indication | HER2 positive breast carcinoma |
-| TxGNN Prediction Score | 99.34% |
+| TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization in the compiled data) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, polatuzumab vedotin is an antibody-drug conjugate. It pairs an anti-CD79b antibody with the microtubule-disrupting agent monomethyl auristatin E (MMAE). Its efficacy in DLBCL has been established.
 
-The link to HER2-positive breast carcinoma is weak. CD79b is a component of the B-cell receptor and is restricted to B-lineage cells. It is not a recognized target in HER2-positive breast cancer. The only conceivable connection is the generic cytotoxicity of MMAE, which would not be tumour-selective in this setting. The high TxGNN score therefore appears to be a graph-based computational signal without a supporting mechanistic or clinical rationale.
+The link to HER2 positive breast carcinoma is weak. CD79b is a component of the B-cell receptor and is restricted to B-lineage cells. It is not a recognized target in HER2 positive breast cancer. The only conceivable connection is the generic cytotoxicity of MMAE, which would not be tumour-selective in this setting. The high score of 0.9934 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-The other top predictions show the same pattern. They include other breast cancer subtypes, drug-induced osteoporosis, acne, and several coagulation disorders. None has retrieved trials, and none has a plausible CD79b-related mechanism.
 
 ## Clinical Trial Evidence
 

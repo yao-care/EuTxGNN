@@ -7,14 +7,15 @@ description: "Volanesorsen Sodium drug repurposing predictions from TxGNN. Evide
 parent: AI Predictions (L5)
 nav_order: 638
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Volanesorsen Sodium
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | megaloblastic anemia (disease) | 100.00% | DL |
-| 2 | sclerosing cholangitis | 99.99% | DL |
-| 3 | sickle cell disease and related diseases | 99.99% | DL |
-| 4 | hereditary persistence of fetal hemoglobin-sickle cell disease syndrome | 99.99% | DL |
-| 5 | sickle cell-hemoglobin d disease syndrome | 99.99% | DL |
-| 6 | sickle cell-hemoglobin c disease syndrome | 99.99% | DL |
-| 7 | sickle cell-hemoglobin E disease syndrome | 99.99% | DL |
-| 8 | sickle cell-beta-thalassemia disease syndrome | 99.99% | DL |
-| 9 | meningococcal infection | 99.99% | DL |
-| 10 | paroxysmal nocturnal hemoglobinuria | 99.99% | DL |
-| 11 | IgG4-related pachymeningitis | 99.99% | DL |
-| 12 | IgG4-related retroperitoneal fibrosis | 99.99% | DL |
-| 13 | mixed-type autoimmune hemolytic anemia | 99.99% | DL |
-| 14 | non-infectious meningitis | 99.99% | DL |
-| 15 | drug-induced autoimmune hemolytic anemia | 99.99% | DL |
-| 16 | autosomal recessive severe congenital neutropenia due to G6PC3 deficiency | 99.98% | DL |
-| 17 | infectious meningitis | 99.98% | DL |
-| 18 | bone Paget disease | 99.98% | DL |
-| 19 | psoriasis | 99.98% | DL |
-| 20 | proteinuria | 99.98% | DL |
 
 *Showing top 20 of 50 predictions.*
 

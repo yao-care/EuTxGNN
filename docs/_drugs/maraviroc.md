@@ -48,17 +48,17 @@ The prediction is computational only.
 |------|------|
 | Original Indication | Treatment of treatment-experienced adults, adolescents and children aged 2 years and older (weighing at least 10 kg) infected with only CCR5-tropic HIV-1, in combination with other antiretroviral medicines |
 | Predicted New Indication | Multiple endocrine neoplasia |
-| TxGNN Prediction Score | 99.82% |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Maraviroc is a CCR5 antagonist, which is the basis of its use against CCR5-tropic HIV-1. Detailed mechanism of action data was not available in the data compiled for this report.
 
-The data compiled for this report show no direct mechanistic link between CCR5 signalling and the development of multiple endocrine neoplasia (for example MEN1- or RET-driven disease). The high TxGNN score (0.998; model rank 2366) is a computational prediction only. Its similarity to the original indication has not been assessed. Because no clinical trials or publications are linked, this prediction should be regarded as a hypothesis, not a supported finding.
+The data compiled for this report show no direct mechanistic link between CCR5 signalling and the development of multiple endocrine neoplasia (for example MEN1- or RET-driven disease). The high TxGNN score (0.9982; model rank 2366) is a computational prediction only. Its similarity to the original indication has not been assessed. Because no clinical trials or publications are linked, this prediction should be regarded as a hypothesis, not a supported finding.
 
 ### Other predicted indications
 

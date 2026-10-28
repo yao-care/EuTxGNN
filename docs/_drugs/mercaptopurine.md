@@ -4,7 +4,7 @@ title: Mercaptopurine
 parent: High Evidence (L1-L2)
 nav_order: 394
 evidence_level: L2
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Mercaptopurine: predicted new indication Myeloid leukaemia (evidence level L2). Approved use: Acute lymphoblastic leukaemia (ALL) in adults…"
 monitor_inn: "mercaptopurine"
@@ -14,7 +14,7 @@ predicted_indications: ["myeloid leukemia", "pregerminal center chronic lymphocy
 # Mercaptopurine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **myeloid leukaemia**. The data
 |------|------|
 | Original Indication | Acute lymphoblastic leukaemia (ALL) in adults, adolescents and children |
 | Predicted New Indication | Myeloid leukaemia |
-| TxGNN Prediction Score | 99.94% |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L2 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

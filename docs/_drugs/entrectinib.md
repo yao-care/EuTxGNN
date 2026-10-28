@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Entrectinib
-parent: Medium Evidence (L3-L4)
+parent: Known Uses Only (No New Predictions)
 nav_order: 230
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Entrectinib: predicted new indication Multiple endocrine neoplasia (evidence level L4). Approved use: Solid tumours expressing an NTRK gene fusion (adults and paediatric p…"
-monitor_inn: "Entrectinib"
-predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "thrombocytopenia", "cytomegalovirus infection", "pulmonary hypertension", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "female breast carcinoma", "transient neonatal thrombocytopenia", "infectious bovine rhinotracheitis"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Entrectinib: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Entrectinib
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,61 +32,45 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Entrectinib: From NTRK Fusion-Positive Solid Tumours and ROS1-Positive NSCLC to Multiple Endocrine Neoplasia
+<!-- known-uses-page -->
+<!-- description: Entrectinib: known uses and market status in the European Union; currently no new candidate indication -->
+## Entrectinib: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model has no candidate with a score of 0.99 or higher for Entrectinib, so there is currently no new predicted indication. The uses recorded for this drug are listed below. They are the drug's own recorded uses, not model candidates.
 
-Entrectinib is a kinase inhibitor originally used for solid tumours with an NTRK gene fusion and for ROS1-positive advanced non-small cell lung cancer.
-The TxGNN model predicts it may be effective for **multiple endocrine neoplasia**, but only **1 clinical trial** (terminated, 2 patients enrolled) and **1 publication** (about other drugs) relate to this prediction, so the evidence is very weak.
-
----
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Solid tumours expressing an NTRK gene fusion (adults and paediatric patients 12 years and older); ROS1-positive advanced non-small cell lung cancer (NSCLC) |
-| Predicted New Indication | Multiple endocrine neoplasia |
-| TxGNN Prediction Score | 98.58% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
-| Recommended Decision | Hold |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 1 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
----
+## Known uses recorded for this drug
 
-## Why is This Prediction Reasonable?
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| non-small-cell lung carcinoma | licence in another country |
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Entrectinib is known to inhibit TRK, ROS1 and ALK kinases, and its efficacy in NTRK fusion-positive solid tumours and ROS1-positive NSCLC is the basis of its approval.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-The link to multiple endocrine neoplasia (MEN) is only indirect. MEN2 is associated with RET-driven tumours such as medullary thyroid carcinoma. Entrectinib is not a primary RET inhibitor, and the only cited publication discusses resistance mechanisms to selective RET inhibitors (selpercatinib, pralsetinib), not entrectinib efficacy. The high TxGNN score is therefore a computational signal that lacks direct mechanistic or clinical support.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT03878524](https://clinicaltrials.gov/study/NCT03878524) | Phase 1 | Terminated | 2 | SMMART PRIME precision-oncology platform trial testing patient tumour samples to find effective drug combinations. Not specific to MEN, and no interpretable efficacy or safety data. |
-
----
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [38438731](https://pubmed.ncbi.nlm.nih.gov/38438731/) | 2024 | Preclinical/Mechanistic | NPJ Precision Oncology | Off-target resistance mechanisms to selective RET inhibition (selpercatinib) in a patient with RET-mutant medullary thyroid carcinoma. Does not address entrectinib. |
-
----
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004936 (cancelled) | Rozlytrek | Not specified | Rozlytrek as monotherapy is indicated for the treatment of adult and paediatric patients 12 years of age and older with solid tumours expressing a neuro... |
-
----
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/004936 | Rozlytrek |  | Valid |
 
 ## Cytotoxicity
 
@@ -114,18 +97,6 @@ Other safety information (warnings and contraindications) was not available. Ple
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction rests on a computational score alone. The only related trial was terminated with 2 patients, and the only publication concerns different (RET-selective) drugs. Entrectinib is not a primary RET inhibitor, and the EU authorization is currently cancelled.
-
-**To proceed, the following is needed:**
-- Mechanism of action data (MOA) from DrugBank
-- Warnings and contraindications from the SmPC, which is needed before any safety screening
-- Evidence of entrectinib activity (preclinical or clinical) in MEN-associated tumours, for example RET-driven medullary thyroid carcinoma
-- Clarification of the reason for the cancelled EU authorization and the current regulatory pathway
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

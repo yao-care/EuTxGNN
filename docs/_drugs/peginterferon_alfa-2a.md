@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Peginterferon Alfa-2A
-parent: AI Predictions (L5)
+parent: High Evidence (L1-L2)
 nav_order: 473
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Peginterferon Alfa-2A: predicted new indication Hepatitis B virus infection (already an approved indication) (evidence level L5). Approved use: Polycythaemia vera (monotherapy in adults)"
 monitor_inn: "Peginterferon alfa-2a"
 predicted_indications: ["hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "heart conduction disease", "heart neoplasm", "heart valve disease", "congenital anomaly of ventricular septum"]
+description: "Peginterferon Alfa-2A: predicted new indication Hepatitis E virus infection (evidence level L1). Approved use: Polycythaemia veraPegasys is indicated as monotherapy in adults for t…"
 ---
 
 # Peginterferon Alfa-2A
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Peginterferon alfa-2a: From Polycythaemia Vera, Essential Thrombocythaemia and Chronic Viral Hepatitis to Hepatitis B Virus Infection
+## Peginterferon Alfa-2A: Hepatitis E virus infection
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Peginterferon alfa-2a (Pegasys) was originally authorised in the EU for polycythaemia vera, essential thrombocythaemia, chronic hepatitis B and chronic hepatitis C.
-The TxGNN model predicts it may be effective for **hepatitis B virus infection**, but this is already an approved indication, so the result is a label confirmation rather than true repurposing.
 The prediction is supported by **20 clinical trials** and **20 publications** in the data compiled for this report.
 
 ---
@@ -48,12 +47,12 @@ The prediction is supported by **20 clinical trials** and **20 publications** in
 
 | Item | Content |
 |------|------|
-| Original Indication | Polycythaemia vera (monotherapy in adults); also essential thrombocythaemia, chronic hepatitis B and chronic hepatitis C |
-| Predicted New Indication | Hepatitis B virus infection (already an approved indication) |
-| TxGNN Prediction Score | 99.94% |
+| Original Indication | Polycythaemia veraPegasys is indicated as monotherapy in adults for the treatment of polycythaemia vera.&nbsp;Essential thrombocythaemiaPegasys is indicated as monotherapy in adults for the treatment of essential thrombocythaemia..Chronic hepatitis BAdult patientsPegasys is indicated for the treatme |
+| Predicted New Indication | Hepatitis E virus infection |
+| TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L1 (as assigned in the compiled data; see the note in the clinical trial section) |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **myeloid leukemia**, with **17
 |------|------|
 | Original Indication | Relapsed and/or refractory multiple myeloma (with bortezomib and dexamethasone) after at least two prior regimens including bortezomib and an immunomodulatory agent |
 | Predicted New Indication | Myeloid leukemia |
-| TxGNN Prediction Score | 99.70% |
+| TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L2 |
-| EU Market Status | ✗ Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -144,7 +144,7 @@ For warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The evidence is L2: several completed Phase 1/2 trials of panobinostat in AML/MDS, but no completed randomised Phase 3 evidence. The only Phase 3 trial (NCT04326764) was terminated after 52 patients. The EU authorisation has been cancelled, so no marketed product is currently available. The label safety data (warnings and contraindications) could not be retrieved, so safety screening cannot proceed. The high TxGNN score (99.70%) is a prediction only and does not change this assessment.
+The evidence is L2: several completed Phase 1/2 trials of panobinostat in AML/MDS, but no completed randomised Phase 3 evidence. The only Phase 3 trial (NCT04326764) was terminated after 52 patients. The EU authorisation has been cancelled, so no marketed product is currently available. The label safety data (warnings and contraindications) could not be retrieved, so safety screening cannot proceed. The high TxGNN score (0.9970) is a prediction only and does not change this assessment.
 
 **To proceed, the following is needed:**
 - Retrieve and parse the SmPC (warnings and contraindications) to complete safety screening

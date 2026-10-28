@@ -4,17 +4,17 @@ title: Darolutamide
 parent: AI Predictions (L5)
 nav_order: 174
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Darolutamide: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Non-metastatic castration-resistant prostate cancer (nmCRPC) at high…"
 monitor_inn: "Darolutamide"
-predicted_indications: ["homozygous familial hypercholesterolemia", "multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "cytomegalovirus infection", "thrombotic disease", "infectious bovine rhinotracheitis", "malignant catarrh"]
+predicted_indications: ["homozygous familial hypercholesterolemia", "multiple endocrine neoplasia", "HIV infectious disease"]
 ---
 
 # Darolutamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,17 +48,17 @@ but **no clinical trials** and **no publications** currently support this predic
 |------|------|
 | Original Indication | Non-metastatic castration-resistant prostate cancer (nmCRPC) at high risk of metastatic disease; metastatic hormone-sensitive prostate cancer (mHSPC) with androgen deprivation therapy, with or without docetaxel |
 | Predicted New Indication | Homozygous familial hypercholesterolemia |
-| TxGNN Prediction Score | 99.11% |
+| TxGNN Prediction Score | 0.9911 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (the single authorization is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Darolutamide is a non-steroidal androgen receptor antagonist. Detailed mechanism of action data was not available in the data compiled for this report, so this description relies on its known drug class.
 
-Its established use is in androgen-driven prostate cancer. Homozygous familial hypercholesterolemia is a genetic disorder caused by defects in the LDL receptor pathway. No clear mechanistic link between androgen receptor blockade and this disease was identified. The high score appears to be a knowledge-graph artifact rather than a biologically grounded prediction, and it is not supported by any trial or publication.
+Its established use is in androgen-driven prostate cancer. Homozygous familial hypercholesterolemia is a genetic disorder caused by defects in the LDL receptor pathway. No clear mechanistic link between androgen receptor blockade and this disease was identified. The high score appears to be a TxGNN model (deep learning) artifact rather than a biologically grounded prediction, and it is not supported by any trial or publication.
 
 Other top-ranked predictions show the same pattern. They include multiple endocrine neoplasia, HIV, cytomegalovirus infection and several veterinary viral diseases. None has a plausible mechanistic link or direct clinical evidence. Two prostate cancer trials were retrieved for multiple endocrine neoplasia, but they appear to have been matched by keyword and do not test darolutamide in that condition.
 

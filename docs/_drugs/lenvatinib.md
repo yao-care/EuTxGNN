@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Lenvatinib
-parent: AI Predictions (L5)
+parent: High Evidence (L1-L2)
 nav_order: 362
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Lenvatinib: predicted new indication Liposarcoma (evidence level L5). Approved use: Advanced renal cell carcinoma (in combination with pembrolizumab as f…"
 monitor_inn: "lenvatinib"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipom
 # Lenvatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Evidence is early-stage and comes from a single small, non-randomized study.
 |------|------|
 | Original Indication | Advanced renal cell carcinoma (in combination with pembrolizumab as first-line treatment, or with everolimus after one prior VEGF-targeted therapy) |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.51% |
+| TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L2 (one completed Phase 1b/2 study; no randomized evidence) |
-| EU Market Status | Cancelled only (no currently valid authorization in the compiled data) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold (research question; see rationale below) |
 
 ---

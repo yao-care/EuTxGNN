@@ -39,7 +39,7 @@ This page combines the AI-predicted indications for Artesunate with the latest h
 <li>Alacrima, achalasia, and intellectual disability syndrome</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/artesunate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (3)

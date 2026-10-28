@@ -4,17 +4,17 @@ title: Crizotinib
 parent: AI Predictions (L5)
 nav_order: 161
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Crizotinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: ALK-positive advanced NSCLC (first-line and previously treated)…"
+indication_count: 9
 monitor_inn: "Crizotinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
+last_modified_at: 2026-10-27
+description: "Crizotinib: predicted new indication Gingival fibromatosis (fibromatosis, gingival) (evidence level L5). Approved use: Xalkori as monotherapy is indicated for: The first line treatment of…"
 ---
 
 # Crizotinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,62 +33,46 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Crizotinib: From ALK-Positive Non-Small Cell Lung Cancer to Gingival Fibromatosis
+## Crizotinib: ALK/ROS1/MET tyrosine kinase inhibitor → Gingival fibromatosis (fibromatosis, gingival)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Crizotinib is a targeted kinase inhibitor, originally used to treat ALK-positive and ROS1-positive advanced non-small cell lung cancer (NSCLC), as well as certain ALK-positive paediatric lymphomas and tumours.
-The TxGNN model predicts it may be effective for **gingival fibromatosis** with a very high score, but **no clinical trials and no publications** currently support this prediction.
-It is a model-only signal and should be treated as a hypothesis, not as an evidence-backed new use.
-
----
+Crizotinib is a kinase inhibitor of ALK, ROS1 and MET that is used in certain ALK- or ROS1-positive cancers.
+The TxGNN model predicts it may be relevant for **gingival fibromatosis (fibromatosis, gingival)**, but **no clinical trials and no publications** currently support this prediction.
+The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | ALK-positive advanced NSCLC (first-line and previously treated), ROS1-positive advanced NSCLC, and paediatric ALK-positive ALCL and IMT |
-| Predicted New Indication | Fibromatosis, gingival |
-| TxGNN Prediction Score | 99.81% |
+| Original Indication | Xalkori as monotherapy is indicated for:  The first line treatment of adults with anaplastic lymphoma kinase (ALK) positive advanced non small cell lung cancer (NSCLC) The treatment of adults with previously treated anaplastic lymphoma kinase (ALK) positive advanced non small cell lung cancer (NSCLC |
+| Predicted New Indication | Gingival fibromatosis (fibromatosis, gingival) |
+| TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Crizotinib inhibits the receptor tyrosine kinases ALK, ROS1 and MET. Detailed mechanism of action data are not available in the data compiled for this report, so this description draws on the general literature in the compiled data (for example, drug monographs describing it as an ATP-competitive inhibitor of c-MET, ALK and ROS1).
+Detailed mechanism-of-action data is not available in the data compiled for this report. From general knowledge, crizotinib is an ATP-competitive inhibitor of the receptor tyrosine kinases ALK, ROS1 and MET.
 
-For gingival fibromatosis, no mechanistic link has been identified. This condition is not known to be driven by ALK, ROS1 or MET. The high TxGNN score (0.998) is a model prediction only and is not supported by any trial or publication. The rank of the prediction (2501) also shows it is not a standout among the model's outputs.
-
-Other lower-ranked predictions in the data are mostly either (a) restatements of the existing NSCLC indication (for example lung hilum carcinoma, pulmonary sulcus neoplasm), or (b) results of disease-term mapping with no real disease-specific signal (for example benign lung neoplasm, lung hamartoma). The top prediction should therefore be read with caution.
-
----
+No mechanistic link to gingival fibromatosis has been identified. This condition is not known to be driven by ALK, ROS1 or MET signalling. The high TxGNN score (0.9981) is a model output only. No trial or publication was found to support it, so the prediction should be treated as a hypothesis, not as evidence of benefit.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for gingival fibromatosis.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for gingival fibromatosis.
-
----
+Currently no related literature available.
 
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/002489 | Xalkori | Not specified | Monotherapy for first-line and previously treated ALK-positive advanced NSCLC, ROS1-positive advanced NSCLC, paediatric ALK-positive ALCL and IMT... |
-
-The only authorization in the data is recorded as cancelled, so there is no currently valid EU authorization for crizotinib.
-
----
+| EMEA/H/C/002489 | Xalkori | Not recorded | ALK-positive advanced non-small cell lung cancer (first-line and previously treated), ROS1-positive advanced NSCLC, paediatric ALK-positive ALCL and IMT... |
 
 ## Cytotoxicity
 
@@ -97,39 +81,27 @@ The only authorization in the data is recorded as cancelled, so there is no curr
 | Cytotoxicity Classification | Targeted therapy (tyrosine kinase inhibitor) |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | Please refer to the SmPC warnings and precautions. Case reports in the compiled literature also describe liver injury, QT prolongation and bradycardia, so liver function and ECG monitoring are reasonable considerations |
+| Monitoring Items | Please refer to the SmPC warnings and precautions; published case reports describe liver injury and cardiac effects (bradycardia, QT prolongation), so liver function and cardiac monitoring are relevant |
 | Handling Protection | Please refer to the SmPC warnings and precautions |
-
----
 
 ## Safety Considerations
 
-- **Drug Interactions**: 100 interactions were found in the interaction database. Examples from the retrieved list:
-  - **Major**: clarithromycin, cisapride, dolasetron, eliglustat, granisetron
-  - **Moderate**: famotidine, metformin, loperamide, bupropion, aprepitant, dexamethasone, budesonide, bisacodyl, clotrimazole
-
-- **Reports from the literature** (case reports, not label data): fatal fulminant liver failure, multiple cardiac toxicities (bradycardia, QT prolongation, ventricular arrhythmia, pericarditis), sick sinus syndrome, erythema multiforme and erosive esophagitis. These matter if use were considered in a non-oncology condition such as gingival fibromatosis, where the benefit-risk balance would be much less favourable.
+- **Drug Interactions**: 100 interactions were found in the interaction screening. Examples classed as Major include clarithromycin, cisapride, dolasetron, eliglustat and granisetron. Many others are classed as Moderate, including famotidine, metformin, loperamide, bupropion, aprepitant, dexamethasone and budesonide.
 
 Please refer to the SmPC for warnings and contraindications.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone, with no trials, no literature and no plausible ALK, ROS1 or MET mechanism in gingival fibromatosis. The drug also carries notable toxicity, and its only EU authorization is cancelled.
+The prediction has a very high model score, but there are no trials or publications for gingival fibromatosis, and no plausible link to the kinases crizotinib inhibits. The evidence level is L5. Crizotinib also carries notable toxicity (liver, cardiac), which is hard to justify for a benign condition without supporting data.
 
 **To proceed, the following is needed:**
-- A mechanistic rationale showing a kinase-driven pathway in gingival fibromatosis, or preclinical data
-- Mechanism of action data and the SmPC warnings and contraindications (the label safety review could not be completed)
-- A benefit-risk assessment for a benign, non-oncology condition, given the toxicity signals
-- Clarification of the cancelled EU status and current availability
-
-**Other predictions of note (for context only):**
-- **Lung hilum carcinoma** (score 99.73%, L4, Research Question): biologically plausible for ALK- or ROS1-driven NSCLC, but largely restates the existing indication, so it is not true repurposing.
-- **Lung germ cell tumour** (score 99.73%, L3, Research Question): no direct evidence. Only tumour-agnostic, biomarker-driven trials (NCT01121588, NCT02465060) offer a route, and only for tumours carrying ALK, ROS1 or MET alterations.
+- Mechanistic data showing that ALK, ROS1 or MET signalling plays a role in gingival fibromatosis
+- Preclinical studies in relevant models
+- Complete warnings and contraindications from the SmPC
+- A benefit-risk assessment for a non-malignant condition
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

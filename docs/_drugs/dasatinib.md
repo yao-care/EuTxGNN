@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Dasatinib
-parent: AI Predictions (L5)
+parent: High Evidence (L1-L2)
 nav_order: 176
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Dasatinib: predicted new indication Ewing sarcoma (evidence level L5). Approved use: Paediatric and adult Ph+ CML (chronic phase…"
 monitor_inn: "Dasatinib"
@@ -14,7 +14,7 @@ predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival"
 # Dasatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ The clinical evidence for this specific disease is weak: single-agent dasatinib 
 |------|------|
 | Original Indication | Paediatric and adult Ph+ CML (chronic phase, and resistant/intolerant to prior therapy including imatinib) and Ph+ ALL |
 | Predicted New Indication | Ewing sarcoma |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L2 (as assigned in the compiled data; see note below) |
-| EU Market Status | ✗ Cancelled only |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 *Note on evidence level:* The L2 grade is a generous reading. The only completed phase 2 trial covers mixed advanced sarcomas, and the literature indicates single-agent dasatinib failed in Ewing sarcoma. Given this, the practical strength of evidence is closer to L4 (preclinical and mechanistic support).
@@ -125,7 +125,7 @@ The SRC-based preclinical rationale for Ewing sarcoma is coherent, but there is 
 - Cardiac and pleural safety monitoring plan, plus a drug-interaction review for the paediatric and young adult population
 - Clarification of the EU regulatory status given that both authorizations are cancelled
 
-**Other predictions:** Myeloid leukaemia (score 99.68%) is graded L1 with a "Proceed with Guardrails" recommendation, but it largely overlaps with the already labelled CML indication and is not a true repurposing finding. A phase 3 study of dasatinib in core-binding factor AML (PMID 41490515, 2026) may be worth following up. The remaining predictions (liposarcoma, dermatofibrosarcoma protuberans, and others) have only preclinical or no supporting evidence and are on Hold.
+**Other predictions:** A phase 3 study of dasatinib in core-binding factor AML (PMID 41490515, 2026) may be worth following up. The remaining predictions (liposarcoma, dermatofibrosarcoma protuberans, and others) have only preclinical or no supporting evidence and are on Hold.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

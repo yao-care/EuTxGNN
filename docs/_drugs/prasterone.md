@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **heparin cofactor 2 deficiency
 |------|------|
 | Original Indication | Treatment of vulvar and vaginal atrophy in postmenopausal women having moderate to severe symptoms |
 | Predicted New Indication | Heparin cofactor 2 deficiency |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Authorisation cancelled (no valid marketing authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, prasterone is the endogenous steroid DHEA, a precursor of sex hormones. Its efficacy in postmenopausal vulvar and vaginal atrophy has been established, and it is thought to act locally through conversion to oestrogens and androgens. The only pharmacological record compiled for this report is an interaction with the glycine receptor, which has no obvious connection to coagulation.
 
-The original and predicted indications are not closely related. Heparin cofactor 2 deficiency is a hereditary deficiency of a serine protease inhibitor involved in coagulation. No established mechanism links DHEA to correcting it. The very high TxGNN score most likely reflects network proximity in the knowledge graph rather than a pharmacological rationale.
+The original and predicted indications are not closely related. Heparin cofactor 2 deficiency is a hereditary deficiency of a serine protease inhibitor involved in coagulation. No established mechanism links DHEA to correcting it. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Sex steroids can influence coagulation parameters, and oral oestrogens are known to raise thrombotic risk. For a prothrombotic condition, this is more a safety concern than a therapeutic rationale.
 

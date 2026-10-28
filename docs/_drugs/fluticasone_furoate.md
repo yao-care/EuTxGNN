@@ -4,17 +4,17 @@ title: Fluticasone Furoate
 parent: AI Predictions (L5)
 nav_order: 268
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
 description: "Fluticasone Furoate: predicted new indication Atopic eczema (evidence level L5). Approved use: Treatment of the symptoms of allergic rhinitis in adults…"
 monitor_inn: "Fluticasone furoate"
-predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis", "polyp of vocal cord"]
+predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis"]
 ---
 
 # Fluticasone Furoate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **atopic eczema**, but **no cli
 |------|------|
 | Original Indication | Treatment of the symptoms of allergic rhinitis in adults, adolescents (12 years and over) and children (6-11 years) |
 | Predicted New Indication | Atopic eczema |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -78,7 +78,7 @@ Currently no related clinical trials registered for atopic eczema.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/000770 | Avamys (cancelled) | Not specified | Adults, adolescents (12 years and over) and children (6-11 years). Avamys is indicated for the treatment of the symptoms of allergic rhinitis. |
+| EMEA/H/C/000770 | Avamys (valid) | Not specified | Adults, adolescents (12 years and over) and children (6-11 years). Avamys is indicated for the treatment of the symptoms of allergic rhinitis. |
 
 ## Safety Considerations
 

@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Saxagliptin
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 549
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Saxagliptin: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 2 diabetes mellitus in adults (monotherapy…"
+description: "Saxagliptin: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Saxagliptin"
-predicted_indications: ["opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "autoimmune oophoritis"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Saxagliptin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,41 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Saxagliptin: From Type 2 Diabetes Mellitus to Opsismodysplasia
+## Saxagliptin
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Saxagliptin is a DPP-4 inhibitor originally authorised in the EU to improve blood sugar control in adults with type 2 diabetes mellitus.
-The TxGNN model predicts it may be effective for **opsismodysplasia**, a rare skeletal dysplasia, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 diabetes mellitus in adults (monotherapy, dual or triple oral therapy, and combination with insulin) |
-| Predicted New Indication | Opsismodysplasia |
-| TxGNN Prediction Score | 98.09% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 |
-| Recommended Decision | Hold |
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available. Based on known information, saxagliptin belongs to the DPP-4 inhibitor class. It prolongs incretin activity and so enhances glucose-dependent insulin secretion, and its efficacy in type 2 diabetes is established.
-
-Opsismodysplasia is a rare skeletal dysplasia caused by mutations in INPPL1 (SHIP2). No plausible link between DPP-4 inhibition and this condition has been identified. The high TxGNN score reflects a graph-based association only. It is not backed by clinical or preclinical evidence, so the prediction should be treated as a hypothesis with very low confidence.
-
-Other top-ranked predictions show the same pattern. These include stiff person syndrome, localized lipodystrophies, thiamine-responsive dysfunction syndrome, pancreatic agenesis and autoimmune oophoritis. Most have no supporting trials or literature, and for several the mechanism argues against benefit. For example, pancreatic agenesis lacks the beta cells that saxagliptin relies on.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available for opsismodysplasia.
+| Original Indication | Add-on combination therapy Onglyza is indicated in adult patients aged 18 years and older with type-2 diabetes mellitus to improve glycaemic control: as monotherapy: in patients inadequately controlled by diet and exercise alone and for whom metformin is inappropriate due to contraindications or int |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
 ## EU Market Information
 
@@ -82,18 +59,6 @@ Currently no related literature available for opsismodysplasia.
 
 Please refer to the SmPC for the official warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction rests only on a graph-based score. There are no clinical trials or publications, and there is no plausible mechanistic link between DPP-4 inhibition and opsismodysplasia. In addition, the only EU authorisation is cancelled.
-
-**To proceed, the following is needed:**
-- Official warnings and contraindications from the SmPC, which are currently missing and block safety screening
-- Detailed mechanism of action data
-- Preclinical evidence showing that DPP-4 inhibition or incretin signalling affects INPPL1/SHIP2-related skeletal pathology
-- A review of other predicted indications that may have a more plausible link, for example stiff person syndrome or thiamine-responsive dysfunction syndrome, though these also lack direct evidence
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

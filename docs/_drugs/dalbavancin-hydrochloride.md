@@ -7,14 +7,15 @@ description: "Dalbavancin Hydrochloride drug repurposing predictions from TxGNN.
 parent: AI Predictions (L5)
 nav_order: 150
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Dalbavancin Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | postinfectious vasculitis | 99.76% | DL |
-| 2 | post-bacterial disorder | 99.76% | DL |
-| 3 | post-infectious syndrome | 99.76% | DL |
-| 4 | infective urethral stricture | 99.74% | DL |
-| 5 | Chagas cardiomyopathy | 99.72% | DL |
-| 6 | infection-related hemolytic uremic syndrome | 99.72% | DL |
-| 7 | otitis externa | 99.70% | DL |
-| 8 | ophthalmic herpes zoster | 99.25% | DL |
-| 9 | skin disease caused by infection | 99.20% | DL |
-| 10 | infectious mononucleosis | 99.16% | DL |
-| 11 | orbital cellulitis | 99.02% | DL |
-| 12 | tinea corporis | 98.87% | DL |
-| 13 | drug-induced osteoporosis | 98.68% | DL |
-| 14 | infectious otitis interna | 97.24% | DL |
-| 15 | ulcerative blepharitis | 97.18% | DL |
-| 16 | parasitic eyelid infestation | 97.17% | DL |
-| 17 | abdominal ectopic pregnancy | 96.82% | DL |
-| 18 | celiac trunk compression syndrome | 96.82% | DL |
-| 19 | abdominal cystic lymphangioma | 96.82% | DL |
-| 20 | lymph node palisaded myofibroblastoma | 96.78% | DL |
 
 *Showing top 20 of 50 predictions.*
 

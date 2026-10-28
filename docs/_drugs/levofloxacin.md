@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **punctate epithelial keratocon
 |------|------|
 | Original Indication | Management of chronic pulmonary infections due to *Pseudomonas aeruginosa* in adult patients with cystic fibrosis |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Levofloxacin belongs to the fluoroquinolone class, which generally acts by inhibiting bacterial DNA gyrase and topoisomerase IV. It has proven antibacterial activity in its original indication, a bacterial lung infection.
 
-The link to the new indication is weak. Punctate epithelial keratoconjunctivitis is an inflammatory or infectious condition of the eye surface with many possible causes. A topical fluoroquinolone could in theory help if a bacterial infection were involved. However, the only retrieved paper concerns a microsporidial outbreak, and microsporidia are not susceptible to fluoroquinolones. The high TxGNN score is a computational prediction from the knowledge graph, with no supporting mechanistic or clinical evidence.
+The link to the new indication is weak. Punctate epithelial keratoconjunctivitis is an inflammatory or infectious condition of the eye surface with many possible causes. A topical fluoroquinolone could in theory help if a bacterial infection were involved. However, the only retrieved paper concerns a microsporidial outbreak, and microsporidia are not susceptible to fluoroquinolones. The high TxGNN score is a prediction from the TxGNN model (deep learning), with no supporting mechanistic or clinical evidence.
 
 ## Clinical Trial Evidence
 

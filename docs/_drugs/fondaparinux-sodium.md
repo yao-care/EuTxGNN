@@ -7,14 +7,15 @@ description: "Fondaparinux Sodium drug repurposing predictions from TxGNN. Evide
 parent: AI Predictions (L5)
 nav_order: 254
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Fondaparinux Sodium
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | pulmonary embolism (disease) | 96.44% | DL |
-| 2 | primary release disorder of platelets | 93.06% | DL |
-| 3 | pseudo-von Willebrand disease | 90.87% | DL |
-| 4 | Glanzmann thrombasthenia | 90.62% | DL |
-| 5 | Ledderhose disease | 89.28% | DL |
-| 6 | vertebral artery occlusion | 87.44% | DL |
-| 7 | retinal microaneurysm | 87.42% | DL |
-| 8 | arteriosclerotic retinopathy | 87.42% | DL |
-| 9 | infantile digital fibromatosis | 86.96% | DL |
-| 10 | palmar fibromatosis | 86.53% | DL |
-| 11 | retinal telangiectasia | 86.38% | DL |
-| 12 | thrombotic thrombocytopenic purpura | 86.31% | DL |
-| 13 | retinal artery occlusion | 84.54% | DL |
-| 14 | penile fibromatosis | 84.45% | DL |
-| 15 | atypical hemolytic-uremic syndrome with thrombomodulin anomaly | 80.69% | DL |
-| 16 | purpura fulminans | 78.48% | DL |
-| 17 | neuropathy, painful | 78.00% | DL |
-| 18 | breast fibrocystic disease | 75.56% | DL |
-| 19 | thrombocytopenic purpura | 75.23% | DL |
-| 20 | hepatopulmonary syndrome | 75.00% | DL |
 
 *Showing top 20 of 50 predictions.*
 

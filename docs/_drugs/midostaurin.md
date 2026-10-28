@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Midostaurin
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 407
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Midostaurin: predicted new indication Familial thrombocytosis (evidence level L5). Approved use: Newly diagnosed FLT3-mutation-positive AML (with standard chemotherap…"
-monitor_inn: "Midostaurin"
-predicted_indications: ["familial thrombocytosis", "reactive thrombocytosis", "metastatic melanoma", "inverse Klippel-Trenaunay syndrome", "thrombocythemia", "non-cutaneous melanoma", "epithelioid cell melanoma", "eyelid melanoma", "scrotum melanoma", "lentigo maligna melanoma"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Midostaurin: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Midostaurin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,57 +32,58 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Midostaurin: From FLT3-Positive Acute Myeloid Leukaemia and Systemic Mastocytosis to Familial Thrombocytosis
+<!-- known-uses-page -->
+<!-- description: Midostaurin: known uses and market status in the European Union; currently no new candidate indication -->
+## Midostaurin: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model has no candidate with a score of 0.99 or higher for Midostaurin, so there is currently no new predicted indication. The drug's recorded uses are listed below. They are the drug's own known uses, not model candidates.
 
-Midostaurin is a multikinase inhibitor originally used for FLT3-mutation-positive acute myeloid leukaemia (AML) and for aggressive systemic mastocytosis and mast cell leukaemia.
-The TxGNN model predicts it may be effective for **familial thrombocytosis**, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction.
-The prediction rests on model output alone.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Newly diagnosed FLT3-mutation-positive AML (with standard chemotherapy, then single-agent maintenance); aggressive systemic mastocytosis (ASM), systemic mastocytosis with associated haematological neoplasm (SM-AHN), or mast cell leukaemia (MCL) as monotherapy |
-| Predicted New Indication | Familial thrombocytosis |
-| TxGNN Prediction Score | 98.92% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (the single EU authorization is cancelled) |
-| Number of Authorizations | 1 |
-| Recommended Decision | Hold |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 15 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
-## Why is This Prediction Reasonable?
+## Known uses recorded for this drug
 
-Midostaurin inhibits several kinases, including FLT3, KIT, PKC, VEGFR and PDGFR. Its established benefit is in myeloid neoplasms driven by FLT3 or KIT activation.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| leukemia, myeloid, acute | licence in another country |
+| mastocytosis | licence in another country |
 
-The link to familial thrombocytosis is weak. This condition is usually driven by germline variants in THPO, MPL or JAK2. Midostaurin has no established activity on the thrombopoietin/MPL/JAK2 axis, so the mechanistic rationale is speculative. The high TxGNN score most likely reflects general associations with myeloid and haematological disease rather than a specific pharmacological reason.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-Other predictions in the list are somewhat more plausible. For **thrombocythemia** (score 97.48%), midostaurin has shown activity in related myeloid neoplasms, and shared kinase signalling gives some biological plausibility. Only general myeloproliferative neoplasm reviews were found, with no direct evidence, and established therapies (hydroxyurea, ruxolitinib, interferon) set a high bar. For **metastatic melanoma** (score 97.64%), a Phase IIA study found that midostaurin lacked activity in unselected patients, which is negative evidence.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for familial thrombocytosis.
-
-## Literature Evidence
-
-Currently no related literature available for familial thrombocytosis.
-
-For context, the literature found for other predicted indications:
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [16969355](https://pubmed.ncbi.nlm.nih.gov/16969355/) | 2006 | Phase IIA trial | Br J Cancer | Midostaurin 75 mg three times daily in 17 patients with metastatic melanoma lacked activity (predicted indication: metastatic melanoma) |
-| [29704617](https://pubmed.ncbi.nlm.nih.gov/29704617/) | 2018 | Review | Pharmacol Res | Review of small-molecule KIT inhibitors in neoplastic disorders; indirect context only |
-| [29277359](https://pubmed.ncbi.nlm.nih.gov/29277359/) | 2018 | Review | Clin Lymphoma Myeloma Leuk | Update on myeloproliferative neoplasms (JAK2, MPL, CALR drivers); no direct midostaurin data (predicted indication: thrombocythemia) |
-| [23471017](https://pubmed.ncbi.nlm.nih.gov/23471017/) | 2011 | Review | Blood Cancer J | Proceedings on epigenetic mutations and treatment progress in myeloproliferative neoplasms; indirect context only |
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| acute myeloblastic leukemia with maturation |
+| acute myeloblastic leukemia without maturation |
+| acute myeloid leukemia with cebpa somatic mutations |
+| acute myeloid leukemia with inv3(p21;q26.2) or t(3;3)(p21;q26.2) |
+| acute myeloid leukemia with minimal differentiation |
+| acute myeloid leukemia with npm1 somatic mutations |
+| acute myeloid leukemia with t(6;9)(p23;q34) |
+| acute myeloid leukemia with t(8;16)(p11;p13) translocation |
+| acute myeloid leukemia with t(8;21)(q22;q22) translocation |
+| acute myeloid leukemia with t(9;11)(p22;q23) |
+| aggressive systemic mastocytosis |
+| aleukemic mast cell leukemia |
+| inherited acute myeloid leukemia |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004095 | Rydapt (status: cancelled) | Not specified | Newly diagnosed FLT3-positive AML (with daunorubicin and cytarabine induction, high-dose cytarabine consolidation, then single-agent maintenance)... |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/004095 | Rydapt |  | Valid |
 
 ## Cytotoxicity
 
@@ -101,20 +101,6 @@ For context, the literature found for other predicted indications:
 
 Please refer to the SmPC for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction is model-only (L5), with no trials or literature, and the mechanism is speculative because midostaurin does not act on the THPO/MPL/JAK2 axis. Midostaurin is also a multikinase inhibitor with significant toxicity, and its only EU authorization is cancelled.
-
-**To proceed, the following is needed:**
-- Detailed mechanism of action data and any preclinical evidence in thrombopoietin/MPL/JAK2-driven models
-- Label warnings and contraindications from the SmPC, which are currently missing
-- Genotype-defined case series or preclinical studies in thrombocytosis
-- A comparison against established therapies
-- If a haematological direction is pursued, thrombocythemia (rank 5) is the more plausible research question, though still only an L4 hypothesis
-- Melanoma predictions are not supported by the available human data (negative Phase IIA)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

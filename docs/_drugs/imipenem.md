@@ -50,17 +50,17 @@ Among the other predictions, typhoid fever and *Staphylococcus aureus* infection
 |------|------|
 | Original Indication | Hospital-acquired pneumonia (including ventilator-associated pneumonia), associated bacteraemia, and infections due to aerobic Gram-negative organisms in adults with limited treatment options |
 | Predicted New Indication | Diffuse scleroderma |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Cancelled only |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, imipenem is a carbapenem antibacterial that inhibits bacterial cell wall synthesis, and its efficacy in serious Gram-negative infections is established.
 
-For diffuse scleroderma, however, no plausible mechanistic link exists. Scleroderma is an autoimmune fibrotic disease, while imipenem acts on bacterial targets. The very high TxGNN score (99.99%) reflects a model prediction only, and no trials or literature support it. This prediction should be treated as a likely artefact rather than a real repurposing opportunity.
+For diffuse scleroderma, however, no plausible mechanistic link exists. Scleroderma is an autoimmune fibrotic disease, while imipenem acts on bacterial targets. The very high TxGNN score (0.9999) reflects a model prediction only, and no trials or literature support it. This prediction should be treated as a likely artefact rather than a real repurposing opportunity.
 
 The more credible directions among the other predictions are:
 

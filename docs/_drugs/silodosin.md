@@ -4,17 +4,17 @@ title: Silodosin
 parent: AI Predictions (L5)
 nav_order: 561
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
 description: "Silodosin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Treatment of the signs and symptoms of benign prostatic hyperplasia (…"
 monitor_inn: "Silodosin"
-predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "chronic thromboembolic pulmonary hypertension"]
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 ---
 
 # Silodosin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,33 +48,33 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Treatment of the signs and symptoms of benign prostatic hyperplasia (BPH) |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | ✗ No valid authorization (all authorizations cancelled) |
-| Number of Authorizations | 3 (0 valid, 3 cancelled) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, silodosin is a selective alpha-1A adrenergic receptor antagonist. It relaxes smooth muscle in the prostate and bladder neck, which relieves urinary symptoms in BPH.
 
-For the predicted indication, no mechanistic link has been established. Ambras syndrome is a rare genetic disorder of hair development, linked to chromosomal rearrangements that affect regulation of the TRPS1 gene. Alpha-1A blockade has no known role in this pathway. The same applies to the other highly ranked predictions (hypertrichosis, isolated genetic hair shaft abnormality, familial isolated trichomegaly, and others). They appear to be driven by network proximity in the knowledge graph rather than by a biological rationale.
+For the predicted indication, no mechanistic link has been established. Ambras syndrome is a rare genetic disorder of hair development, linked to chromosomal rearrangements that affect regulation of the TRPS1 gene. Alpha-1A blockade has no known role in this pathway. The same applies to the other highly ranked predictions (hypertrichosis, isolated genetic hair shaft abnormality, familial isolated trichomegaly, and others). Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-The high score (99.99%) is a graph-based prediction only. It should not be read as evidence of efficacy.
+The high score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should not be read as evidence of efficacy.
 
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/001092 | Urorec | Not specified | Treatment of the signs and symptoms of benign prostatic hyperplasia (BPH). (Cancelled) |
-| EMEA/H/C/001209 | Silodyx | Not specified | Treatment of the signs and symptoms of benign prostatic hyperplasia (BPH) (Cancelled) |
-| EMEA/H/C/004964 | Silodosin Recordati | Not specified | Treatment of the signs and symptoms of benign prostatic hyperplasia (BPH) in adult men. (Cancelled) |
+| EMEA/H/C/001092 | Urorec | Not specified | Treatment of the signs and symptoms of benign prostatic hyperplasia (BPH). (Valid) |
+| EMEA/H/C/001209 | Silodyx | Not specified | Treatment of the signs and symptoms of benign prostatic hyperplasia (BPH) (Valid) |
+| EMEA/H/C/004964 | Silodosin Recordati | Not specified | Treatment of the signs and symptoms of benign prostatic hyperplasia (BPH) in adult men. (Valid) |
 
 ## Safety Considerations
 
 - **Disease associations flagged in the knowledge graph (not label text)**: multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension, liver failure, kidney disease, pyoureter, intraoperative floppy iris syndrome.
 - **Drug Interactions**: 99 interactions were identified. The one rated Major is **clarithromycin**. Moderate interactions include bupropion, aprepitant, morphine, dexamethasone, cimetidine, miconazole, clotrimazole, rolapitant, and the SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin).
-- **Population-specific concerns**: for the lower-ranked cardiovascular predictions (persistent fetal circulation syndrome, chronic thromboembolic pulmonary hypertension), systemic alpha-blockade carries a hypotension risk, and silodosin has no neonatal safety data.
+- **Population-specific concerns**: systemic alpha-blockade carries a hypotension risk, and silodosin has no neonatal safety data.
 
 Please refer to the SmPC for warnings and contraindications from the product label.
 
@@ -83,13 +83,12 @@ Please refer to the SmPC for warnings and contraindications from the product lab
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or literature (Evidence Level L5) and no plausible mechanistic link between alpha-1A antagonism and the condition. In addition, all EU authorizations for silodosin are cancelled, so there is no currently marketed product in the EU.
+The prediction has no supporting clinical trials or literature (Evidence Level L5) and no plausible mechanistic link between alpha-1A antagonism and the condition. In addition, silodosin is marketed in this country, with 3 valid licences out of 3.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (DrugBank) and a mechanistic hypothesis for hair development pathways
 - Product label warnings and contraindications (EMA documents), required before any safety screening
 - Preclinical or case-level evidence supporting a role for alpha-1A antagonism in the predicted condition
-- Clarification of the regulatory and supply situation, given that all EU authorizations are cancelled
 - Review of other predicted indications for stronger candidates, since none of the top 10 currently has any trial or literature support
 ## Disclaimer
 

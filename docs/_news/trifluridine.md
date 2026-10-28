@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Trifluridine with the latest
 <li>Cecum villous adenoma</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/trifluridine/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (37)

@@ -4,17 +4,17 @@ title: Brigatinib
 parent: AI Predictions (L5)
 nav_order: 105
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Brigatinib: predicted new indication Gingival fibromatosis (evidence level L5). Approved use: ALK-positive advanced NSCLC (first-line, and after prior crizotinib)"
+description: "Brigatinib: predicted new indication fibromatosis, gingival (evidence level L5). Approved use: ALK-positive advanced NSCLC (first-line, and after prior crizotinib)"
 monitor_inn: "Brigatinib"
-predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
+predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "pulmonary sulcus neoplasm", "lung germ cell tumor", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
 ---
 
 # Brigatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Brigatinib: From ALK-Positive Non-Small Cell Lung Cancer to Gingival Fibromatosis
+## Brigatinib: From ALK-Positive Non-Small Cell Lung Cancer to fibromatosis, gingival
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ The most relevant repurposing signal in the data compiled for this report is for
 |------|------|
 | Original Indication | ALK-positive advanced NSCLC (first-line, and after prior crizotinib) |
 | Predicted New Indication | Gingival fibromatosis |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (the single authorization is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ The most relevant repurposing signal in the data compiled for this report is for
 
 Detailed mechanism of action data is not available. Brigatinib is known to be a multi-target tyrosine kinase inhibitor acting on ALK, EGFR and ROS1. Its efficacy in ALK-positive NSCLC is well established through the Phase 3 ALTA-1L trial.
 
-For gingival fibromatosis, no mechanistic link could be identified. No established kinase-driven pathway connects brigatinib's targets to this condition. The high TxGNN score (0.999) is therefore a statistical output of the model and is not backed by biological or clinical evidence. Other top-ranked predictions (fibroma of lung, lung hamartoma, junctional epidermolysis bullosa, and others) show the same pattern: no trials, no literature, and no plausible mechanism.
+For gingival fibromatosis, no mechanistic link could be identified. No established kinase-driven pathway connects brigatinib's targets to this condition. The high TxGNN score (0.9989) is therefore a statistical output of the model and is not backed by biological or clinical evidence. Other top-ranked predictions (fibroma of lung, lung hamartoma, junctional epidermolysis bullosa, and others) show the same pattern: no trials, no literature, and no plausible mechanism.
 
 Two other predictions are worth noting:
 - **Lung hilum carcinoma and pulmonary sulcus neoplasm** are lung cancers. ALK-positive cases could theoretically respond, but this is an extrapolation from the approved indication, not repurposing evidence.

@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Vemurafenib with the latest 
 <li>HIV infectious disease</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/vemurafenib/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (37)

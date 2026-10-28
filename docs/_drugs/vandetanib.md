@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Vandetanib
-parent: AI Predictions (L5)
+parent: High Evidence (L1-L2)
 nav_order: 656
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Vandetanib: predicted new indication Renal cell carcinoma (disease) (evidence level L5). Approved use: Aggressive and symptomatic medullary thyroid cancer (MTC) in patients…"
 monitor_inn: "Vandetanib"
-predicted_indications: ["renal cell carcinoma (disease)", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
+predicted_indications: ["renal cell carcinoma (disease)", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
+description: "Vandetanib: predicted new indication Renal cell carcinoma (disease) (evidence level L2). Approved use: Caprelsa is indicated for the treatment of aggressive and symptomatic…"
 ---
 
 # Vandetanib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Vandetanib: From Medullary Thyroid Cancer to Renal Cell Carcinoma
+## Vandetanib: Renal cell carcinoma (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **Renal Cell Carcinoma (RCC)**,
 
 | Item | Content |
 |------|------|
-| Original Indication | Aggressive and symptomatic medullary thyroid cancer (MTC) in patients with unresectable locally advanced or metastatic disease; adults, children and adolescents aged 5 years and older |
+| Original Indication | Caprelsa is indicated for the treatment of aggressive and symptomatic medullary thyroid cancer (MTC) in patients with unresectable locally advanced or metastatic disease. Caprelsa is indicated in adults, children and adolescents aged 5 years and older. For patients in whom re-arranged-during-transfe |
 | Predicted New Indication | Renal cell carcinoma (disease) |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L2 (one completed Phase 2 trial with a strong mechanistic fit; no Phase 3 data) |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -103,7 +103,6 @@ The literature supports plausibility and safety management, but it does not prov
 |---------|------|------|-----------|
 | EMEA/H/C/002315 | Caprelsa | Not specified | Aggressive and symptomatic medullary thyroid cancer (MTC) in patients with unresectable locally advanced or metastatic disease. Caprelsa is indicated in adults, ch... |
 
-This authorization is recorded as cancelled, so there is currently no valid EU marketing authorization.
 
 ---
 
@@ -114,7 +113,6 @@ This authorization is recorded as cancelled, so there is currently no valid EU m
 | Cytotoxicity Classification | Targeted therapy (multi-target tyrosine kinase inhibitor against VEGFR2, EGFR and RET) |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | Based on the knowledge-graph signals and class literature: ECG/QT interval, electrolytes (potassium, calcium), blood pressure, thyroid function, liver and renal function (including proteinuria) |
 | Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---

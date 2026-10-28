@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **primary release disorder of p
 |------|------|
 | Original Indication | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Can be used for all age groups. |
 | Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available. Based on known information, turoctocog alfa is a recombinant factor VIII (FVIII) replacement. Its efficacy in haemophilia A comes from supplying the missing clotting factor.
 
-The high TxGNN score most likely reflects the shared bleeding and haemostasis neighbourhood in the knowledge graph, not a biological mechanism. Primary release disorders of platelets arise from intrinsic defects in platelet secretion, not from FVIII deficiency. Replacing FVIII is therefore not expected to correct the problem, and **no mechanistic rationale is supported**.
+The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Primary release disorders of platelets arise from intrinsic defects in platelet secretion, not from FVIII deficiency. Replacing FVIII is therefore not expected to correct the problem, and **no mechanistic rationale is supported**.
 
 The other top predictions show the same pattern. Most are platelet disorders (pseudo-von Willebrand disease, Glanzmann thrombasthenia, Scott syndrome, collagen receptor defects, constitutional thrombocytopenia) whose primary defect FVIII does not address. The most biologically plausible is **acquired coagulation factor deficiency** (rank 5), for example acquired haemophilia A. However, these conditions are heterogeneous and often involve inhibitors that neutralize FVIII, so this remains a hypothesis only.
 

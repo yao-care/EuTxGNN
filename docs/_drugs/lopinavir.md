@@ -4,17 +4,17 @@ title: Lopinavir
 parent: Medium Evidence (L3-L4)
 nav_order: 376
 evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Lopinavir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV-1 infection in adults…"
+indication_count: 3
 monitor_inn: "Lopinavir"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis B virus infection", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+last_modified_at: 2026-10-27
+description: "Lopinavir: predicted new indication simian immunodeficiency virus infection (evidence level L4). Approved use: Kaletra is indicated in combination with other antiretroviral medicin…"
 ---
 
 # Lopinavir
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,79 +33,68 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Lopinavir: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+## Lopinavir: HIV protease inhibitor → simian immunodeficiency virus infection
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Lopinavir is an HIV protease inhibitor, used together with ritonavir and other antiretrovirals to treat HIV-1 infection.
-The TxGNN model predicts it may be effective for **simian immunodeficiency virus infection**, a primate lentivirus infection.
-Support is limited to **3 preclinical macaque publications** and **no registered clinical trials**.
+Lopinavir is an HIV-1 protease inhibitor, used in combination with other antiretroviral medicines.
+The TxGNN model predicts it may be effective for **simian immunodeficiency virus infection**, with **0 registered clinical trials** and **3 preclinical publications** (macaque studies) currently related to this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV-1 infection in adults, adolescents and children (in combination with other antiretrovirals) |
-| Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.90% |
+| Original Indication | Kaletra is indicated in combination with other antiretroviral medicinal products for the treatment of human immunodeficiency virus (HIV-1) infected adults, adolescents and children aged from 14 days and older. The choice of Kaletra to treat protease inhibitor experienced HIV-1 infected patients shou |
+| Predicted New Indication | simian immunodeficiency virus infection |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (both authorizations cancelled) |
-| Number of Authorizations | 2 |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, lopinavir is an HIV-1 protease inhibitor that blocks cleavage of the Gag-Pol polyprotein, which the virus needs to mature. Its efficacy in HIV-1 infection is established.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, lopinavir belongs to the HIV protease inhibitor class. These drugs block the viral aspartic protease needed to cleave the Gag-Pol polyprotein into functional proteins.
 
-Simian immunodeficiency virus (SIV) is a lentivirus closely related to HIV-1. Its protease is similar enough that antiviral activity is plausible. However, the supporting studies are in macaques, where SIV and SHIV infection serve as preclinical models of HIV. They show the drug works in a research model but do not create a new human therapeutic indication beyond the approved HIV-1 use.
-
-Other predictions in the list have weaker support. Feline AIDS is a veterinary condition outside the scope of human repurposing. Several rare tumors and a rare neurodevelopmental disorder have a high model score but no plausible mechanism, no trials and no literature. Some predictions describe conditions already within the approved HIV-1 indication, such as congenital HIV and AIDS-related complex. Hepatitis B virus infection and HPV-related lesions are discussed in the conclusion.
+Simian immunodeficiency virus (SIV) is a lentivirus closely related to HIV-1, so a class-level mechanistic link is plausible. The available studies are in non-human primates, where SIV and SHIV infection serve as preclinical models of HIV. They do not point to a new human therapeutic use beyond the existing HIV-1 use.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials are registered for simian immunodeficiency virus infection.
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Preclinical (macaque) | J Virol | Rapid viral decay in SIV-infected macaques given quadruple antiretroviral therapy |
-| [17350308](https://pubmed.ncbi.nlm.nih.gov/17350308/) | 2007 | Preclinical (SHIV in rhesus macaque) | Microbes Infect | A SHIV carrying the HIV-1 protease gene was built as a tool to test protease inhibitors in vivo |
-| [12951220](https://pubmed.ncbi.nlm.nih.gov/12951220/) | 2003 | Preclinical (macaque) | J Virol Methods | Oral HAART including lopinavir/ritonavir and its effect on the CD8 subset in chronically SHIV-infected monkeys |
+| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Preclinical (macaque) | Journal of Virology | Viral decay was studied in SIVmac251-infected cynomolgus macaques given a 7-day course of quadruple antiretroviral therapy, to compare viral dynamics across primate lentiviruses. |
+| [17350308](https://pubmed.ncbi.nlm.nih.gov/17350308/) | 2007 | Preclinical (SHIV in rhesus macaque) | Microbes and Infection | A novel SHIV carrying an HIV-1 protease gene was built as a tool for testing protease inhibitors in vivo. It grew in macaque cells and was blocked by a protease inhibitor in culture. |
+| [12951220](https://pubmed.ncbi.nlm.nih.gov/12951220/) | 2003 | Preclinical (macaque HAART study) | Journal of Virological Methods | Two SHIV89.6P-infected rhesus macaques received oral AZT, 3TC and lopinavir/ritonavir for 28 days, and the effect on the CD8 subset was assessed. |
 
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/000368 (cancelled) | Kaletra | Not specified | Treatment of HIV-1 infected adults, adolescents and children aged from 14 days and older, in combination with other antiretrovirals... |
-| EMEA/H/C/004025 (cancelled) | Lopinavir/Ritonavir Viatris (previously Ritonavir Mylan) | Not specified | Treatment of HIV-1 infected adults, adolescents and children above the age of 2 years, in combination with other antiretrovirals... |
+| EMEA/H/C/000368 | Kaletra | Not recorded | Treatment of HIV-1 infected adults, adolescents and children aged from 14 days and older, in combination with other antiretroviral medicinal products... |
+| EMEA/H/C/004025 | Lopinavir/Ritonavir Viatris (previously Ritonavir Mylan) | Not recorded | Treatment of HIV-1 infected adults, adolescents and children above the age of 2 years, in combination with other antiretroviral medicinal products... |
 
 ## Safety Considerations
 
-Label-based warnings and contraindications were not available in the data compiled for this report. Please refer to the SmPC for safety information.
+- **Drug Interactions**: 65 interactions were recorded. Major-level ones include dolasetron and papaverine. Moderate-level ones include metformin, dapagliflozin, acarbose, levofloxacin, ondansetron, palonosetron, famotidine and several laxatives (bisacodyl, lactulose, lactitol, castor oil, glycerin, mineral oil, magnesium citrate, magnesium hydroxide). Minor-level ones include cimetidine and clotrimazole.
 
-- **Contraindication signals from the knowledge graph (not label text):** long QT syndrome, torsades de pointes, heart conduction disease, atrioventricular block, pancreatitis, liver disease, cirrhosis, chronic hepatitis B and C, hyperglycemia and diabetes, hypertriglyceridemia, hyperbilirubinemia, myocardial ischemia and cardiomyopathy. These need confirmation against the SmPC.
-- **Drug interactions:** 65 interactions were recorded. Major ones include dolasetron and papaverine. Moderate ones include levofloxacin, ondansetron, palonosetron, metformin, dapagliflozin, acarbose, famotidine and several laxatives.
-- **Literature-reported concerns:** adrenal dysfunction in infants after prenatal or postnatal exposure, and CYP3A-mediated interactions (for example, iatrogenic Cushing syndrome with fluticasone).
+For warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support for simian immunodeficiency virus infection is three macaque studies. There are no clinical trials, and it offers no human indication beyond the approved HIV-1 use. In the EU, both authorizations are cancelled.
-
-Other predictions in the list were assessed as follows:
-- **Congenital HIV and AIDS-related complex:** These are effectively on-label HIV uses (Proceed with Guardrails), not true repurposing.
-- **Hepatitis B virus infection:** Lopinavir has no direct anti-HBV activity. The signal reflects HIV/HBV co-infection management (Research Question).
-- **HPV-related benign reproductive lesions:** One small single-arm proof-of-concept trial supports a hypothesis only (Research Question).
+The evidence consists only of three small macaque studies. SIV infection is an animal model, not a human therapeutic target. The high TxGNN score is a model output and does not by itself justify a repurposing programme.
 
 **To proceed, the following is needed:**
-- Mechanism of action data and EMA label warnings and contraindications, to complete safety screening
-- Clarification of whether a non-human primate or veterinary prediction has any value for a human development program
-- For any HPV-related lesion direction, a controlled trial confirming the single-arm proof-of-concept result
-- Confirmation of current EU availability, since both authorizations are cancelled
+- Detailed mechanism of action data (MOA)
+- Download and review of the SmPC for warnings and contraindications
+- A clear human clinical question, since no human use beyond approved HIV-1 treatment is suggested by the current data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

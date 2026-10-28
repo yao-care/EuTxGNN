@@ -4,17 +4,17 @@ title: Metformin
 parent: AI Predictions (L5)
 nav_order: 396
 evidence_level: L5
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Metformin: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus (adjunct to diet and exercise to improve gly…"
 monitor_inn: "Metformin"
-predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy", "homozygous familial hypercholesterolemia"]
+predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
 ---
 
 # Metformin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,30 +48,28 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Type 2 diabetes mellitus (adjunct to diet and exercise to improve glycaemic control in adults inadequately controlled on maximal tolerated metformin alone, or in combination with other glucose-lowering medicines) |
 | Predicted New Indication | Focal stiff limb syndrome |
-| TxGNN Prediction Score | 99.45% |
+| TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (all 19 authorizations are cancelled) |
-| Number of Authorizations | 19 |
+| EU Market Status | Marketed (valid licences: 19 of 19) |
+| Number of Authorizations | 19 (valid: 19) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, metformin is an insulin-sensitizing glucose-lowering agent. Its efficacy in type 2 diabetes is established, and mechanistically it may be applicable to **focal stiff limb syndrome** only through indirect links.
 
-Focal stiff limb syndrome belongs to the stiff-person spectrum of disorders, which are usually autoimmune. These disorders often co-occur with autoimmune diabetes, which may explain why the knowledge graph associates them with antidiabetic drugs. One speculative link is the anti-inflammatory effect of metformin through AMPK activation. No direct mechanistic evidence was found in the data compiled for this report, and the prediction should be treated as an unvalidated hypothesis.
+Focal stiff limb syndrome belongs to the stiff-person spectrum of disorders, which are usually autoimmune. These disorders often co-occur with autoimmune diabetes. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. One speculative link is the anti-inflammatory effect of metformin through AMPK activation. No direct mechanistic evidence was found in the data compiled for this report, and the prediction should be treated as an unvalidated hypothesis.
 
-The same score appears for classic stiff person syndrome (99.45%), which supports the view that the association is driven by the shared diabetes and autoimmunity context rather than by a demonstrated effect on stiffness or spasms.
+The same score appears for classic stiff person syndrome (0.9945), which supports the view that the association is driven by the shared diabetes and autoimmunity context rather than by a demonstrated effect on stiffness or spasms.
 
 ## Other Predicted Indications (for context)
 
 | Rank | Predicted Disease | TxGNN Score | Evidence Level | Comment |
 |------|------|------|------|------|
-| 2 | Classic stiff person syndrome | 99.45% | L5 | Association with anti-GAD autoimmunity and type 1 diabetes; not evidence that metformin treats the neurological condition |
-| 3 | Opsismodysplasia | 99.40% | L5 | Speculative link through INPPL1/SHIP2 insulin-PI3K signalling |
-| 4 | Thiamine-responsive dysfunction syndrome | 99.40% | L5 | Likely driven by the diabetes association; no established role for metformin |
-| 5–7, 9 | Localized lipodystrophies (drug-induced, centrifugal, pressure-induced, idiopathic) | 98.90–99.06% | L5 | Insulin-sensitivity link is plausible, but these forms are localized and typically not metabolic |
-| 8 | Pancreatic agenesis | 98.91% | L5 | Weak rationale: metformin cannot replace missing insulin, and the retrieved papers do not address this condition |
-| 10 | Homozygous familial hypercholesterolemia | 92.30% | L4 | A 1988 in vitro study showed decreased cholesterol metabolism in fibroblasts; classed as a research question only |
+| 2 | Classic stiff person syndrome | 0.9945 | L5 | Association with anti-GAD autoimmunity and type 1 diabetes; not evidence that metformin treats the neurological condition |
+| 3 | Opsismodysplasia | 0.9940 | L5 | Speculative link through INPPL1/SHIP2 insulin-PI3K signalling |
+| 4 | Thiamine-responsive dysfunction syndrome | 0.9940 | L5 | Likely driven by the diabetes association; no established role for metformin |
+| 5–7, 9 | Localized lipodystrophies (drug-induced, centrifugal, pressure-induced, idiopathic) | 98.90–0.9906 | L5 | Insulin-sensitivity link is plausible, but these forms are localized and typically not metabolic |
 
 ## Clinical Trial Evidence
 
@@ -83,7 +81,7 @@ Currently no related literature available for focal stiff limb syndrome.
 
 ## EU Market Information
 
-All 19 authorizations are cancelled, and no currently valid single-ingredient or combination product was found. The five main entries are listed below.
+The drug is marketed: all 19 licences (19 of 19) are valid. The five main entries are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -108,7 +106,7 @@ Label-based warnings and contraindications were not available in the data compil
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score of 99.45%, with no clinical trials or publications. The mechanistic link, through shared autoimmune and diabetes associations, is indirect and unproven. In addition, all EU authorizations for metformin-containing products are currently cancelled.
+The prediction rests only on a model score of 0.9945, with no clinical trials or publications. The mechanistic link, through shared autoimmune and diabetes associations, is indirect and unproven. In addition, all EU authorizations for metformin-containing products are currently cancelled.
 
 **To proceed, the following is needed:**
 - Targeted literature review on metformin or AMPK modulators in stiff-person spectrum disorders and autoimmune neurological conditions

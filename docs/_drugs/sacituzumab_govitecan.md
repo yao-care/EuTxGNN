@@ -4,17 +4,17 @@ title: Sacituzumab Govitecan
 parent: AI Predictions (L5)
 nav_order: 543
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Sacituzumab Govitecan: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Monotherapy for adult patients with unresectable or metastatic triple…"
 monitor_inn: "Sacituzumab govitecan"
-predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "immature cataract"]
+predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract"]
 ---
 
 # Sacituzumab Govitecan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,19 +48,19 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Monotherapy for adult patients with unresectable or metastatic triple-negative breast cancer (mTNBC) who have received two or more prior systemic therapies, including at least one for advanced disease |
 | Predicted New Indication | Drug-induced osteoporosis |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, sacituzumab govitecan is a Trop-2-directed antibody-drug conjugate that delivers SN-38, a topoisomerase I inhibitor, to tumour cells. Its efficacy has been shown in metastatic triple-negative breast cancer.
 
-No plausible mechanistic link to drug-induced osteoporosis can be established. Nothing in the data suggests a bone-protective effect, and cytotoxic chemotherapy is more often associated with bone loss than with bone protection. The high score (0.998) reflects model output only and is not backed by trials or literature.
+No plausible mechanistic link to drug-induced osteoporosis can be established. Nothing in the data suggests a bone-protective effect, and cytotoxic chemotherapy is more often associated with bone loss than with bone protection. The high score (0.9978) reflects model output only and is not backed by trials or literature.
 
-Other top predictions (severe nonproliferative diabetic retinopathy, diabetic retinopathy, and several cataract subtypes) share the same weakness. Several cataract subtypes have identical scores, which suggests redundant knowledge-graph propagation rather than disease-specific biology.
+Other top predictions (severe nonproliferative diabetic retinopathy, diabetic retinopathy) share the same weakness. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 

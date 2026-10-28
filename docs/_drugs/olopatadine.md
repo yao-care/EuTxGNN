@@ -4,17 +4,17 @@ title: Olopatadine
 parent: AI Predictions (L5)
 nav_order: 446
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Olopatadine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Treatment of ocular signs and symptoms of seasonal allergic conjuncti…"
 monitor_inn: "Olopatadine"
-predicted_indications: ["rosacea conjunctivitis", "punctate epithelial keratoconjunctivitis", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "blepharoconjunctivitis"]
+predicted_indications: ["rosacea conjunctivitis"]
 ---
 
 # Olopatadine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but there are currently **0 clinical trials** and **0 publications** directly su
 |------|------|
 | Original Indication | Treatment of ocular signs and symptoms of seasonal allergic conjunctivitis |
 | Predicted New Indication | Rosacea conjunctivitis |
-| TxGNN Prediction Score | 99.41% |
+| TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,21 +60,12 @@ Olopatadine is a histamine H1 antagonist and mast cell stabilizer. It is approve
 
 Ocular rosacea is a different disease from allergic conjunctivitis. It is driven mainly by meibomian gland dysfunction, inflammation and microbial or Demodex factors. Antihistamine activity may relieve some symptoms such as itch and redness, but it is unlikely to address the underlying cause.
 
-The high TxGNN score (0.994) is a computational prediction only. No clinical trials or literature support it, so the mechanistic link should be treated as speculative.
+The high TxGNN score (0.9941) is a computational prediction only. No clinical trials or literature support it, so the mechanistic link should be treated as speculative.
 
 Other predicted indications were also reviewed. All are conjunctival or ocular surface conditions, and none has direct clinical evidence for olopatadine:
 
 | Predicted Indication | TxGNN Score | Evidence Level | Comment |
 |------|------|------|------|
-| Punctate epithelial keratoconjunctivitis | 98.81% | L4 | One case report on atopic keratoconjunctivitis that does not evaluate olopatadine; indirect link |
-| Parasitic conjunctivitis | 97.89% | L4 | One preclinical study on Acanthamoeba-induced allergic conjunctivitis; does not evaluate olopatadine |
-| Chronic follicular conjunctivitis | 97.89% | L5 | Often viral, chlamydial or toxic; weak rationale |
-| Serous conjunctivitis except viral | 97.89% | L5 | Overlaps with allergic or irritant forms; plausible but non-specific |
-| Conjunctival folliculosis | 97.89% | L5 | Usually benign; weak rationale |
-| Angelucci syndrome | 97.84% | L5 | Allergic overlap makes an effect plausible but speculative |
-| Pseudomembranous conjunctivitis | 97.82% | L5 | Typically infectious; minimal support |
-| Acute hemorrhagic conjunctivitis | 97.65% | L5 | Enteroviral; no mechanistic support |
-| Blepharoconjunctivitis | 97.00% | L5 | Allergic forms only; most cases bacterial or gland-related |
 
 ## Clinical Trial Evidence
 
@@ -93,7 +84,7 @@ No literature is available for the top-ranked prediction (rosacea conjunctivitis
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/000407 | Opatanol | Not specified | Treatment of ocular signs and symptoms of seasonal allergic conjunctivitis. (Status: cancelled) |
+| EMEA/H/C/000407 | Opatanol | Not specified | Treatment of ocular signs and symptoms of seasonal allergic conjunctivitis. (Status: valid) |
 
 ## Safety Considerations
 

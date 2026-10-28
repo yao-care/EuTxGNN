@@ -4,7 +4,7 @@ title: Ceritinib
 parent: AI Predictions (L5)
 nav_order: 140
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Ceritinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: ALK-positive advanced non-small cell lung cancer (NSCLC) previously t…"
 monitor_inn: "Ceritinib"
@@ -14,7 +14,7 @@ predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma 
 # Ceritinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ceritinib: From ALK-Positive Non-Small Cell Lung Cancer to Gingival Fibromatosis
+## Ceritinib: From ALK-Positive Non-Small Cell Lung Cancer to fibromatosis, gingival
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **gingival fibromatosis**, but 
 |------|------|
 | Original Indication | ALK-positive advanced non-small cell lung cancer (NSCLC) previously treated with crizotinib |
 | Predicted New Indication | Fibromatosis, gingival |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **gingival fibromatosis**, but 
 
 Currently, detailed mechanism of action data is not available. Based on known information, ceritinib is an oral ALK tyrosine kinase inhibitor. Its efficacy in ALK-positive NSCLC has been established, including a first-line Phase 3 trial against platinum-based chemotherapy (ASCEND-4).
 
-The data compiled for this report did not identify any link between ALK inhibition and gingival fibromatosis. Gingival fibromatosis is a benign overgrowth of gum tissue and is not generally ALK-driven. The high TxGNN score (99.86%) is a computational output only. It should not be read as evidence of a mechanistic relationship or of clinical benefit.
+The data compiled for this report did not identify any link between ALK inhibition and gingival fibromatosis. Gingival fibromatosis is a benign overgrowth of gum tissue and is not generally ALK-driven. The high TxGNN score (0.9986) is a computational output only. It should not be read as evidence of a mechanistic relationship or of clinical benefit.
 
 Other predicted indications for ceritinib in the same output were also reviewed. These include lung-related neoplasms (fibroma of lung, hamartoma of lung, lung hilum carcinoma, pulmonary sulcus neoplasm) and several unrelated rare diseases. Most have no supporting trials or literature. The lung-related labels likely reflect the drug's known use in NSCLC, which does not show activity against benign lung tumours.
 

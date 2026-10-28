@@ -50,10 +50,10 @@ The better-supported neighbouring prediction is the broader category **myelodysp
 |------|------|
 | Original Indication | Induction of remission and consolidation in adults with newly diagnosed low-to-intermediate risk acute promyelocytic leukaemia (APL), in combination with ATRA, and relapsed/refractory APL with t(15;17) translocation and/or PML/RAR-alpha gene |
 | Predicted New Indication | Unclassified myelodysplastic syndrome |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 for the exact term (model prediction only); L2 for the broader MDS category |
-| EU Market Status | ✗ Cancelled only (no valid authorisations) |
-| Number of Authorizations | 3 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold (for the exact predicted term); the broader MDS indication is a research question |
 
 ---
@@ -110,7 +110,7 @@ No publications are linked to "unclassified myelodysplastic syndrome" itself. Th
 
 ## EU Market Information
 
-All three EU authorisations for arsenic trioxide are cancelled, so the drug currently has no valid centralised marketing authorisation in the data compiled for this report.
+Arsenic trioxide is marketed: all 3 of 3 licences are valid in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -155,14 +155,14 @@ Label-based warnings and contraindications were not available in the data compil
 **Decision: Hold**
 
 **Rationale:**
-The exact predicted term, unclassified MDS, has a very high model score (99.93%) but no linked trials or literature (L5). Evidence for the broader MDS category exists (L2) but is limited to small, early-phase or terminated trials with modest response rates and no Phase 3 trial. Advancing MDS as a research question is reasonable, but the current evidence does not justify progression for the exact term. In addition, all EU authorisations are cancelled.
+The exact predicted term, unclassified MDS, has a very high model score (0.9993) but no linked trials or literature (L5). Evidence for the broader MDS category exists (L2) but is limited to small, early-phase or terminated trials with modest response rates and no Phase 3 trial. Advancing MDS as a research question is reasonable, but the current evidence does not justify progression for the exact term. The drug is marketed, with 3 of 3 licences valid.
 
 **To proceed, the following is needed:**
 - Mapping of "unclassified MDS" to the MDS trial and literature evidence, to confirm whether the broader evidence applies to this subtype
 - Randomised, adequately powered trials of arsenic trioxide in defined MDS risk groups (for example the TP53-mutated and low-risk populations in ongoing studies NCT06778187 and NCT06670222)
 - Label-based safety data (SmPC warnings and contraindications), with an ECG and electrolyte monitoring plan for QT risk
 - Detailed mechanism-of-action data
-- Clarification of EU regulatory and supply status, since all authorisations are cancelled, and consideration of the oral formulation under study
+- Clarification of regulatory and supply status (3 of 3 licences are valid), and consideration of the oral formulation under study
 - Mechanistic and route-compatibility assessment, which is still pending
 ## Disclaimer
 

@@ -7,14 +7,15 @@ description: "Fostamatinib Disodium drug repurposing predictions from TxGNN. Evi
 parent: AI Predictions (L5)
 nav_order: 256
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Fostamatinib Disodium
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | thrombocytopenia due to immune destruction | 99.83% | DL |
-| 2 | autosomal thrombocytopenia with normal platelets | 99.45% | DL |
-| 3 | non-syndromic esophageal malformation | 99.05% | DL |
-| 4 | syndromic constitutional thrombocytopenia | 98.97% | DL |
-| 5 | glaucoma | 98.70% | DL |
-| 6 | biotin metabolic disease | 98.69% | DL |
-| 7 | primary hereditary glaucoma | 98.60% | DL |
-| 8 | open-angle glaucoma | 98.45% | DL |
-| 9 | filariasis | 98.42% | DL |
-| 10 | vitamin deficiency disorder | 98.25% | DL |
-| 11 | esophageal disease | 97.88% | DL |
-| 12 | neonatal thrombocytopenia | 97.86% | DL |
-| 13 | tinea nigra | 97.80% | DL |
-| 14 | anogenital human papillomavirus infection | 97.62% | DL |
-| 15 | herpes simplex virus keratitis | 97.59% | DL |
-| 16 | HER2 positive breast carcinoma | 97.52% | DL |
-| 17 | photosensitivity disease | 97.47% | DL |
-| 18 | female breast carcinoma | 97.05% | DL |
-| 19 | esotropia | 96.96% | DL |
-| 20 | progesterone-receptor negative breast cancer | 96.62% | DL |
 
 *Showing top 20 of 50 predictions.*
 

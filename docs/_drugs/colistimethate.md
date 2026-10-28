@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Colistimethate
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 158
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Colistimethate: predicted new indication Osteoarthritis (evidence level L5). Approved use: Management of chronic pulmonary infections due to Pseudomonas aerugin…"
+description: "Colistimethate: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Colistimethate"
-predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "hepatic porphyria", "brachyolmia", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Colistimethate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,41 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Colistimethate: From Pseudomonas aeruginosa Lung Infection in Cystic Fibrosis to Osteoarthritis
+## Colistimethate
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Colistimethate is a polymyxin antibiotic, originally used (as inhaled Colobreathe) to manage chronic lung infections caused by *Pseudomonas aeruginosa* in people with cystic fibrosis aged six years and older.
-The TxGNN model predicts it may be effective for **osteoarthritis**, but this is a model-only prediction: **0 clinical trials** and **0 publications** support it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Management of chronic pulmonary infections due to *Pseudomonas aeruginosa* in patients with cystic fibrosis (CF) aged six years and older |
-| Predicted New Indication | Osteoarthritis |
-| TxGNN Prediction Score | 97.78% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
-| Recommended Decision | Hold |
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available. Based on known information, colistimethate is a prodrug of colistin, a polymyxin antibiotic that acts on the membranes of Gram-negative bacteria. Its efficacy is established in *Pseudomonas aeruginosa* lung infection, which is an anti-infective use.
-
-No plausible mechanistic link to osteoarthritis (cartilage degeneration, joint inflammation) is evident. The high score most likely reflects graph-based association within the knowledge graph rather than biological rationale. Because the original mechanism data is also missing, the prediction cannot be validated mechanistically.
-
-Other top-ranked predictions show the same pattern: rheumatoid arthritis, osteoarthritis susceptibility, gout, pseudoachondroplasia, hepatic porphyria, brachyolmia, idiopathic copper-associated cirrhosis, early-onset familial noncirrhotic portal hypertension and hepatopulmonary syndrome. All have scores of roughly 96–98%, no trials or literature, and no identified mechanistic rationale. For rheumatoid arthritis, the drug's known nephrotoxicity and neurotoxicity would also be a concern in a chronic non-infectious indication.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+| Original Indication | Colobreathe is indicated for the management of chronic pulmonary infections due to Pseudomonas aeruginosa in patients with cystic fibrosis (CF) aged six years and older. Consideration should be given to official guidance on the appropriate use of antibacterial agents. |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
 ## EU Market Information
 
@@ -83,19 +60,6 @@ Currently no related literature available.
 
 Please refer to the SmPC for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction rests only on a knowledge-graph score, with no clinical trials, no literature and no plausible mechanism linking an inhaled antibacterial polymyxin to osteoarthritis. The only EU authorization is cancelled, and the key safety information is missing.
-
-**To proceed, the following is needed:**
-- Mechanism of action data, to assess any biological link to joint disease
-- Warnings and contraindications from the SmPC (currently missing, which blocks safety screening)
-- Preclinical or mechanistic studies showing a plausible effect in osteoarthritis
-- A safety assessment for chronic non-infectious use, given known nephrotoxicity and neurotoxicity and the many major drug interactions
-- Route and formulation compatibility analysis (inhaled product versus a joint or systemic indication)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

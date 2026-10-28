@@ -7,14 +7,15 @@ description: "Cetrorelix (As Acetate) drug repurposing predictions from TxGNN. E
 parent: AI Predictions (L5)
 nav_order: 130
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Cetrorelix (As Acetate)
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | hypertrichosis (disease) | 99.98% | DL |
-| 2 | Ambras type hypertrichosis universalis congenita | 99.97% | DL |
-| 3 | malformation syndrome with odontal and/or periodontal component | 99.97% | DL |
-| 4 | syndrome with a Dandy-Walker malformation as major feature | 99.96% | DL |
-| 5 | isolated genetic hair shaft abnormality | 99.96% | DL |
-| 6 | persistent fetal circulation syndrome | 99.67% | DL |
-| 7 | familial isolated trichomegaly | 99.63% | DL |
-| 8 | familial male-limited precocious puberty | 99.55% | DL |
-| 9 | aromatase excess syndrome | 99.53% | DL |
-| 10 | centra precocious puberty 1 | 99.29% | DL |
-| 11 | pelvic organ prolapse | 99.19% | DL |
-| 12 | physiological sexual disorder | 99.15% | DL |
-| 13 | female genital tuberculosis | 99.15% | DL |
-| 14 | genetic alopecia | 99.11% | DL |
-| 15 | X-linked congenital generalized hypertrichosis | 99.06% | DL |
-| 16 | idiopathic central precocious puberty | 98.99% | DL |
-| 17 | diffuse cutaneous mastocytosis | 98.97% | DL |
-| 18 | dysplasia of cervix | 98.95% | DL |
-| 19 | precocious puberty, central, 2 | 98.69% | DL |
-| 20 | amenorrhea (disease) | 98.65% | DL |
 
 *Showing top 20 of 50 predictions.*
 

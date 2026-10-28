@@ -7,14 +7,15 @@ description: "Bosentan (As Monohydrate) drug repurposing predictions from TxGNN.
 parent: AI Predictions (L5)
 nav_order: 87
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Bosentan (As Monohydrate)
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | scleroderma (disease) | 99.96% | DL |
-| 2 | rheumatoid arthritis | 99.80% | DL |
-| 3 | brachydactyly-syndactyly syndrome | 99.74% | DL |
-| 4 | limited systemic sclerosis | 99.65% | DL |
-| 5 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.62% | DL |
-| 6 | localized scleroderma | 99.54% | DL |
-| 7 | pulmonary hypertension | 99.50% | DL |
-| 8 | pseudoxanthoma elasticum, forme fruste | 99.45% | DL |
-| 9 | kyphoscoliotic heart disease | 99.43% | DL |
-| 10 | elastoma | 99.35% | DL |
-| 11 | systemic sclerosis | 99.28% | DL |
-| 12 | gout | 99.21% | DL |
-| 13 | hypertrichosis (disease) | 99.04% | DL |
-| 14 | Ambras type hypertrichosis universalis congenita | 98.93% | DL |
-| 15 | uterine polyp | 98.84% | DL |
-| 16 | malformation syndrome with odontal and/or periodontal component | 98.81% | DL |
-| 17 | epulis | 98.81% | DL |
-| 18 | syndrome with a Dandy-Walker malformation as major feature | 98.77% | DL |
-| 19 | diffuse cutaneous systemic sclerosis | 98.77% | DL |
-| 20 | polyp of vocal cord | 98.77% | DL |
 
 *Showing top 20 of 50 predictions.*
 

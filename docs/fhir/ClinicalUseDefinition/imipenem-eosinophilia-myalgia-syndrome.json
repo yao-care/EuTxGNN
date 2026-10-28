@@ -14,7 +14,7 @@
   "indication": {
     "diseaseSymptomProcedure": {
       "concept": {
-        "text": "Eosinophilia-myalgia syndrome"
+        "text": "eosinophilia-myalgia syndrome"
       }
     }
   },
@@ -25,11 +25,15 @@
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/prediction-source",
-      "valueString": "TxGNN Knowledge Graph"
+      "valueString": "TxGNN Deep Learning Model"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/drugbank-id",
-      "valueString": "DB01598"
+      "valueString": "DB01048"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9985
     }
   ]
 }

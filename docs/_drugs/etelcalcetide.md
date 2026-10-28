@@ -4,17 +4,17 @@ title: Etelcalcetide
 parent: Medium Evidence (L3-L4)
 nav_order: 246
 evidence_level: L3
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Etelcalcetide: predicted new indication Hyperphosphatemia (evidence level L3). Approved use: Secondary hyperparathyroidism (SHPT) in adult patients with chronic k…"
+description: "Etelcalcetide: predicted new indication hyperphosphatemia (disease) (evidence level L3). Approved use: Secondary hyperparathyroidism (SHPT) in adult patients with chronic k…"
 monitor_inn: "Etelcalcetide"
-predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices with bleeding", "esophageal varices without bleeding", "varicose disease", "glaucoma", "pancreatitis", "primary hyperoxaluria", "primary immunodeficiency syndrome due to p14 deficiency", "severe congenital neutropenia", "Barth syndrome"]
+predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "varicose disease"]
 ---
 
 # Etelcalcetide
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Etelcalcetide: From Secondary Hyperparathyroidism to Hyperphosphatemia
+## Etelcalcetide: From Secondary Hyperparathyroidism to hyperphosphatemia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **hyperphosphatemia**, but ther
 |------|------|
 | Original Indication | Secondary hyperparathyroidism (SHPT) in adult patients with chronic kidney disease (CKD) on haemodialysis therapy |
 | Predicted New Indication | Hyperphosphatemia |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L3 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -97,7 +97,7 @@ Please refer to the SmPC for warnings and contraindications. Hypocalcaemia is a 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but the supporting evidence is indirect. It consists of SHPT studies, one preclinical report and two case reports, with no trials testing phosphate lowering. Etelcalcetide is not a phosphate binder, and the EU authorization is cancelled. The other nine predicted indications (e.g., esophageal varices, glaucoma, pancreatitis) have no supporting evidence and are model predictions only.
+The prediction score is high, but the supporting evidence is indirect. It consists of SHPT studies, one preclinical report and two case reports, with no trials testing phosphate lowering. Etelcalcetide is not a phosphate binder, and it is marketed in this country with 1 valid licence out of 1. The other three predicted indications (e.g., esophageal varices) have no supporting evidence and are model predictions only.
 
 **To proceed, the following is needed:**
 - Analysis of phosphate outcomes from existing SHPT trials, including the DUET trial, to see whether there is a direct phosphate-lowering effect independent of PTH

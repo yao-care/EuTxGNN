@@ -4,17 +4,17 @@ title: Trastuzumab Deruxtecan
 parent: AI Predictions (L5)
 nav_order: 636
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Trastuzumab Deruxtecan: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Unresectable or metastatic HER2-positive breast cancer after one or m…"
 monitor_inn: "Trastuzumab deruxtecan"
-predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "bronchitis", "diabetic cataract", "bronchial adenomas/carcinoids childhood", "non-seminomatous lesion", "ductal or ductular proliferation", "chondroid hamartoma", "tumor of testis and paratestis"]
+predicted_indications: ["drug-induced osteoporosis"]
+description: "Trastuzumab Deruxtecan: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Breast cancerHER2-positive breast cancerEnhertu as monotherapy is ind…"
 ---
 
 # Trastuzumab Deruxtecan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Trastuzumab deruxtecan: From HER2-Positive Breast Cancer to Drug-Induced Osteoporosis
+## Trastuzumab Deruxtecan: Drug-induced osteoporosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **drug-induced osteoporosis**, 
 
 | Item | Content |
 |------|------|
-| Original Indication | Unresectable or metastatic HER2-positive breast cancer after one or more prior anti-HER2 regimens (also HER2-low/ultralow breast cancer, HER2-mutant NSCLC, HER2-positive gastric/GEJ adenocarcinoma) |
+| Original Indication | Breast cancerHER2-positive breast cancerEnhertu as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic HER2-positive breast cancer who have received one or more prior anti-HER2-based regimens.HER2-low and HER2-ultralow breast cancerEnhertu as monotherapy is i |
 | Predicted New Indication | Drug-induced osteoporosis |
-| TxGNN Prediction Score | 99.31% |
+| TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (the single license on record is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,9 +61,9 @@ The TxGNN model predicts it may be effective for **drug-induced osteoporosis**, 
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, trastuzumab deruxtecan is an antibody-drug conjugate. A HER2-targeting antibody delivers a topoisomerase I inhibitor payload (deruxtecan) into HER2-expressing tumour cells. Its efficacy in HER2-positive and HER2-low cancers has been established.
 
-No plausible mechanistic link to drug-induced osteoporosis was identified. This is a non-malignant bone disease, and it is not driven by HER2 biology. The high TxGNN score is a computational output of the knowledge graph and should not be read as evidence of efficacy. Giving a cytotoxic agent to treat a chronic metabolic bone condition would also raise obvious safety concerns.
+No plausible mechanistic link to drug-induced osteoporosis was identified. This is a non-malignant bone disease, and it is not driven by HER2 biology. Giving a cytotoxic agent to treat a chronic metabolic bone condition would also raise obvious safety concerns.
 
-Other predictions for this drug have the same weakness. They include diabetic retinopathy, bronchitis, diabetic cataract, benign lesions and several tumour types without an established HER2 role. Bronchitis is a particular concern because interstitial lung disease/pneumonitis is a known serious toxicity of this drug.
+Other predictions for this drug have the same weakness.
 
 ---
 
@@ -77,7 +77,6 @@ Currently no related clinical trials registered.
 
 Currently no related literature available for drug-induced osteoporosis.
 
-(The literature retrieved for the lower-ranked prediction "ductal or ductular proliferation" is about HER2-expressing ductal-type cancers and adverse-event case reports. It does not bear on the predicted indication above.)
 
 ---
 

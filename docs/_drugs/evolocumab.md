@@ -4,17 +4,17 @@ title: Evolocumab
 parent: AI Predictions (L5)
 nav_order: 250
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
 description: "Evolocumab: predicted new indication Symptomatic form of hemophilia in female carriers (evidence level L5). Approved use: Hypercholesterolaemia and mixed dyslipidaemia"
 monitor_inn: "Evolocumab"
-predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity", "hemorrhagic disease of newborn", "ichthyosis, X-linked, without steroid sulfatase deficiency", "inherited thrombophilia", "disorder of other vitamins and cofactors metabolism and transport"]
+predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity"]
 ---
 
 # Evolocumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Evolocumab: From Hypercholesterolaemia to Symptomatic Hemophilia in Female Carriers
+## Evolocumab: From Hypercholesterolaemia to symptomatic form of hemophilia in female carriers
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,17 +48,17 @@ The prediction rests on the model score alone and has no biological rationale.
 |------|------|
 | Original Indication | Hypercholesterolaemia and mixed dyslipidaemia; homozygous familial hypercholesterolaemia; established atherosclerotic cardiovascular disease |
 | Predicted New Indication | Symptomatic form of hemophilia in female carriers |
-| TxGNN Prediction Score | 99.82% |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. From the known pharmacology, evolocumab binds PCSK9 (proprotein convertase subtilisin/kexin type 9). This increases the availability of LDL receptors on liver cells and lowers circulating LDL-C. Its efficacy in hypercholesterolaemia and in reducing cardiovascular risk is established.
 
-The predicted new indication does not appear to be a reasonable fit. Hemophilia in female carriers results from deficient factor VIII or IX activity, which is unrelated to PCSK9 or LDL metabolism. The high TxGNN score (0.998) is a knowledge-graph prediction only and is not backed by biological rationale, trials or publications.
+The predicted new indication does not appear to be a reasonable fit. Hemophilia in female carriers results from deficient factor VIII or IX activity, which is unrelated to PCSK9 or LDL metabolism. The high TxGNN score (0.9982) is a TxGNN model (deep learning) prediction only and is not backed by biological rationale, trials or publications.
 
 Other top-ranked predictions show the same pattern. Most are bleeding or clotting disorders (factor XI deficiency, thrombocytopenic purpura, hemorrhagic disease of the newborn, inherited thrombophilia), and none has supporting evidence. Familial apolipoprotein C-II deficiency has only an indirect link through lipid metabolism, and evolocumab does not address its primary defect.
 

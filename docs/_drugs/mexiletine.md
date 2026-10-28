@@ -6,7 +6,7 @@ nav_order: 404
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Mexiletine: predicted new indication Hypertrichosis (evidence level L5). Approved use: Symptomatic treatment of myotonia in adult patients with non-dystroph…"
+description: "Mexiletine: predicted new indication hypertrichosis (disease) (evidence level L5). Approved use: Symptomatic treatment of myotonia in adult patients with non-dystroph…"
 monitor_inn: "Mexiletine"
 predicted_indications: ["hypertrichosis (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "migraine disorder", "isolated genetic hair shaft abnormality", "pulmonary hypertension", "migraine with brainstem aura", "headache disorder"]
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Mexiletine: From Non-Dystrophic Myotonia to Hypertrichosis
+## Mexiletine: From Non-Dystrophic Myotonia to hypertrichosis (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but this is
 |------|------|
 | Original Indication | Symptomatic treatment of myotonia in adult patients with non-dystrophic myotonic disorders |
 | Predicted New Indication | Hypertrichosis |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Mexiletine is a class IB sodium channel blocker, and its efficacy in non-dystrophic myotonia is the basis of its EU authorisation.
 
-Nothing in the available data links sodium channel blockade to the regulation of hair growth. The high score (0.998) most likely reflects patterns in the knowledge graph rather than a biological rationale. No trials or publications support the prediction. At this stage it should be regarded as a hypothesis with no demonstrated plausibility.
+Nothing in the available data links sodium channel blockade to the regulation of hair growth. The high score (0.9978) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trials or publications support the prediction. At this stage it should be regarded as a hypothesis with no demonstrated plausibility.
 
 ## Clinical Trial Evidence
 
@@ -71,7 +71,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
 |---------|------|------|-----------|------|
-| EMEA/H/C/004584 | Namuscla | Not specified | Symptomatic treatment of myotonia in adult patients with non-dystrophic myotonic disorders. | Cancelled |
+| EMEA/H/C/004584 | Namuscla | Not specified | Symptomatic treatment of myotonia in adult patients with non-dystrophic myotonic disorders. | Valid |
 
 ## Safety Considerations
 

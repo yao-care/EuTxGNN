@@ -48,17 +48,17 @@ but currently **0 clinical trials** and **0 publications** support this specific
 |------|------|
 | Original Indication | Prevention of nausea and vomiting associated with highly and moderately emetogenic cancer chemotherapy in adults and paediatric patients aged 6 months and older (given as part of a combination therapy) |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Fosaprepitant is known to be a prodrug of aprepitant, a neurokinin-1 (NK1) receptor antagonist, and its efficacy in chemotherapy-induced nausea and vomiting is established. This is general pharmacological knowledge, not part of the compiled data.
 
-The link to the predicted indication is weak. NSIAD arises from gain-of-function mutations in the vasopressin V2 receptor (AVPR2), and no established pathway connects NK1 receptor blockade to V2 receptor signalling. The high TxGNN score reflects a pattern in a knowledge graph and is not backed by clinical or literature evidence. Until a mechanistic hypothesis and supporting data exist, this prediction should be treated as a computational lead only.
+The link to the predicted indication is weak. NSIAD arises from gain-of-function mutations in the vasopressin V2 receptor (AVPR2), and no established pathway connects NK1 receptor blockade to V2 receptor signalling. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and it is not backed by clinical or literature evidence. Until a mechanistic hypothesis and supporting data exist, this prediction should be treated as a computational lead only.
 
 Other predicted indications in the model output (pneumocystosis, leprosy, cryptococcal meningitis, multiple endocrine neoplasia, intracranial abscess, Plasmodium falciparum malaria, echinococcosis, hyperargininemia) also lack any clinical or literature support. The only one with any supporting publication is retinitis (rank 7), where a single preclinical mouse study reports that fosaprepitant blocks UVR-B-induced NK1 receptor expression in ocular tissues. That evidence is indirect, since it concerns UV-induced ocular damage rather than retinitis.
 
@@ -74,7 +74,7 @@ Currently no related literature available for nephrogenic syndrome of inappropri
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/000743 | Ivemend (status: cancelled) | Not specified | Prevention of nausea and vomiting associated with highly and moderately emetogenic cancer chemotherapy in adults and paediatric patients aged 6 months and older. Ivemend 150 mg is given as part... |
+| EMEA/H/C/000743 | Ivemend (status: valid) | Not specified | Prevention of nausea and vomiting associated with highly and moderately emetogenic cancer chemotherapy in adults and paediatric patients aged 6 months and older. Ivemend 150 mg is given as part... |
 
 ## Safety Considerations
 

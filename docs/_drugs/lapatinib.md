@@ -4,17 +4,17 @@ title: Lapatinib
 parent: AI Predictions (L5)
 nav_order: 351
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Lapatinib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L5). Approved use: Breast cancer with HER2 (ErbB2) overexpression…"
+indication_count: 1
 monitor_inn: "Lapatinib"
-predicted_indications: ["dermatofibrosarcoma protuberans", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "cysticercosis", "heart fibrosarcoma", "low grade fibromyxoid sarcoma", "Plasmodium falciparum malaria", "coenurosis", "lymphangiomyoma"]
+predicted_indications: ["dermatofibrosarcoma protuberans"]
+last_modified_at: 2026-10-27
+description: "Lapatinib: predicted new indication dermatofibrosarcoma protuberans (evidence level L5). Approved use: Tyverb is indicated for the treatment of patients with breast cancer…"
 ---
 
 # Lapatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,31 +33,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Lapatinib: From HER2-Positive Breast Cancer to Dermatofibrosarcoma Protuberans
+## Lapatinib: EGFR/HER2 tyrosine kinase inhibitor → dermatofibrosarcoma protuberans
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Lapatinib is an oral EGFR/HER2 tyrosine kinase inhibitor, originally used to treat HER2-overexpressing breast cancer.
-The TxGNN model predicts it may be effective for **dermatofibrosarcoma protuberans (DFSP)**, but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model score alone.
+Lapatinib is an oral kinase inhibitor that targets EGFR and HER2.
+The TxGNN model predicts it may be relevant for **dermatofibrosarcoma protuberans**, with a score of **0.9930**.
+There are currently **no clinical trials** and **no publications** supporting this direction, so this is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Breast cancer with HER2 (ErbB2) overexpression, used in combination with capecitabine, trastuzumab, or an aromatase inhibitor in advanced or metastatic disease |
-| Predicted New Indication | Dermatofibrosarcoma protuberans |
-| TxGNN Prediction Score | 99.30% |
+| Original Indication | Tyverb is indicated for the treatment of patients with breast cancer, whose tumours overexpress HER2 (ErbB2):  in combination with capecitabine for patients with advanced or metastatic disease with progression following prior therapy, which must have included anthracyclines and taxanes and therapy w |
+| Predicted New Indication | dermatofibrosarcoma protuberans |
+| TxGNN Prediction Score | 0.9930 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, lapatinib is a dual EGFR/HER2 tyrosine kinase inhibitor, its efficacy in HER2-positive breast cancer has been demonstrated, and it may mechanistically be applicable to other tumours driven by receptor tyrosine kinase signalling.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Lapatinib is known as an inhibitor of the EGFR and HER2 receptor tyrosine kinases.
 
-For DFSP, however, the mechanistic link is weak. DFSP is driven by the COL1A1-PDGFB fusion and PDGFR signalling, for which imatinib is the established therapy. Lapatinib has no established PDGFR activity. The high TxGNN score (99.30%) most likely reflects network similarity in the knowledge graph rather than a demonstrated biological rationale.
+Dermatofibrosarcoma protuberans is a soft-tissue sarcoma typically driven by the COL1A1-PDGFB fusion and downstream PDGFR signaling. The established targeted therapy is imatinib, which acts on PDGFR. Lapatinib has no established PDGFR activity, so the mechanistic link to this disease is weak. The high score therefore reflects a pattern found by the model rather than a mechanism supported by biological or clinical data. It should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
@@ -67,13 +68,11 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
-For context, among the other predictions the only one with a literature signal is **Plasmodium falciparum malaria** (TxGNN score 98.02%, evidence level L4). Preclinical reports show lapatinib inhibits haemozoin formation in malaria parasites ([PMID 32235391](https://pubmed.ncbi.nlm.nih.gov/32235391/), 2020), and lapatinib-derived 4-anilinoquinolines have antiparasitic activity ([PMID 29301082](https://pubmed.ncbi.nlm.nih.gov/29301082/), 2018). All of this evidence is in vitro or medicinal chemistry, with no clinical trials. The second-ranked prediction, fibroblastic neoplasm, has only an indirect preclinical study on stroma-mediated lapatinib resistance in breast cancer ([PMID 34239043](https://pubmed.ncbi.nlm.nih.gov/34239043/), 2021).
-
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/000795 (cancelled) | Tyverb | Not specified | Tyverb is indicated for the treatment of patients with breast cancer, whose tumours overexpress HER2 (ErbB2): in combination with capecitabine for... |
+| EMEA/H/C/000795 | Tyverb | Not recorded | Tyverb is indicated for the treatment of patients with breast cancer, whose tumours overexpress HER2 (ErbB2): in combination with capecitabine for... |
 
 ## Cytotoxicity
 
@@ -82,29 +81,27 @@ For context, among the other predictions the only one with a literature signal i
 | Cytotoxicity Classification | Targeted therapy (tyrosine kinase inhibitor) |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | Liver function, cardiac function (including QT interval), electrolytes (potassium), and respiratory symptoms, based on the knowledge-graph signals below |
+| Monitoring Items | Please refer to the SmPC warnings and precautions; liver function, cardiac function (including QT interval) and electrolytes are relevant given the safety signals below |
 | Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-- **Contraindication signals (knowledge graph, not label text)**: long QT syndrome, familial long QT syndrome, torsades de pointes, liver failure, drug-induced liver injury, potassium deficiency disease, interstitial lung disease, heart failure.
-- **Drug Interactions**: 100 interactions were identified. Major interactions include **loperamide** and **clarithromycin**. Moderate interactions include acid-suppressing drugs (famotidine, ranitidine, cimetidine, omeprazole, rabeprazole, dexlansoprazole), corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), aprepitant, pioglitazone, saxagliptin, and several laxatives or bowel-preparation agents (bisacodyl, picosulfuric acid, polyethylene glycol).
-
-Label-based warnings and contraindications were not available for this report. Please refer to the SmPC for full safety information.
+- **Drug Interactions**: 100 interactions were found in the interaction databases. Major-level interactions include **loperamide** and **clarithromycin**. Moderate-level interactions include acid-suppressing drugs (famotidine, ranitidine, cimetidine, omeprazole, rabeprazole, dexlansoprazole), corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), aprepitant, pioglitazone, saxagliptin, and several laxatives or bowel-preparation agents (bisacodyl, picosulfuric acid, polyethylene glycol).
+- **Conditions of concern from related drug-disease data**: long QT syndrome, familial long QT syndrome, torsades de pointes, liver failure, potassium deficiency, interstitial lung disease, drug-induced liver injury and heart failure. These are not taken from label text and must be checked against the SmPC.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction for dermatofibrosarcoma protuberans is supported only by the model score, with no trials or literature. Its mechanistic link is weak because imatinib already targets the PDGFR-driven biology of DFSP. The product's EU authorization is also cancelled, and the knowledge-graph safety signals (QT prolongation, hepatotoxicity) and the large DDI burden add further caution.
+The prediction has a high score, but there are no clinical trials or publications for dermatofibrosarcoma protuberans, and the mechanistic link is weak because the disease is driven by PDGFR signaling, for which imatinib is the established therapy. Evidence is at level L5.
 
 **To proceed, the following is needed:**
-- Mechanism of action data, and preclinical testing of lapatinib in DFSP models (for example, PDGFR/COL1A1-PDGFB-driven cell lines)
-- Label-based warnings and contraindications from the SmPC
-- A comparison against imatinib as the established standard therapy
-- Clarification of the regulatory and supply status, given the cancelled EU authorization
-- Optionally, the malaria direction could be pursued as a separate research question, starting with in vivo preclinical work
+- Preclinical evidence (for example cell-line or xenograft data) that lapatinib acts on DFSP biology
+- Detailed mechanism of action data and any evidence of PDGFR-pathway activity
+- Warnings and contraindications from the SmPC, which are currently missing
+- A comparison with imatinib as the standard targeted option
+- A cardiac, hepatic and pulmonary safety review given the signals listed above
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

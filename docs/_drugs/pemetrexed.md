@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pemetrexed
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 478
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Pemetrexed: predicted new indication Malignant peritoneal mesothelioma (evidence level L2). Approved use: Malignant pleural mesothelioma (with cisplatin, chemotherapy-naïve…"
 monitor_inn: "Pemetrexed"
-predicted_indications: ["pleural adenomatoid tumor", "pleural biphasic mesothelioma", "pericardium cancer", "well differentiated papillary mesothelioma", "lymphohistiocytoid mesothelioma", "iminoglycinuria"]
+predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
+description: "Pemetrexed: predicted new indication Pleural adenomatoid tumor (evidence level L5). Approved use: Malignant pleural mesothelioma Pemetrexed Fresenius Kabi in combinati…"
 ---
 
 # Pemetrexed
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Pemetrexed: From Pleural Mesothelioma and Non-Small Cell Lung Cancer to Malignant Peritoneal Mesothelioma
+## Pemetrexed: Pleural adenomatoid tumor
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Pemetrexed is an antifolate chemotherapy drug, originally used for malignant pleural mesothelioma and non-squamous non-small cell lung cancer.
-The TxGNN model predicts it may be effective for **malignant peritoneal mesothelioma**,
 with **7 clinical trials** and **20 publications** currently supporting this direction.
 
 ---
@@ -48,12 +47,12 @@ with **7 clinical trials** and **20 publications** currently supporting this dir
 
 | Item | Content |
 |------|------|
-| Original Indication | Malignant pleural mesothelioma (with cisplatin, chemotherapy-naïve, unresectable) and non-squamous non-small cell lung cancer (first-line with cisplatin, maintenance, second-line) |
-| Predicted New Indication | Malignant peritoneal mesothelioma |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L2 |
-| EU Market Status | Cancelled only (all authorizations cancelled) |
-| Number of Authorizations | 3 |
+| Original Indication | Malignant pleural mesothelioma Pemetrexed Fresenius Kabi in combination with cisplatin is indicated for the treatment of chemotherapy naïve patients with unresectable malignant pleural mesothelioma. Non-small cell lung cancer Pemetrexed Fresenius Kabi in combination with cisplatin is indicated for t |
+| Predicted New Indication | Pleural adenomatoid tumor |
+| TxGNN Prediction Score | 0.9999 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -101,7 +100,6 @@ Other predictions in the list fall into three groups. Pleural mesothelioma and i
 
 ## EU Market Information
 
-All three authorizations are cancelled, so there is currently no valid EU authorization for pemetrexed single-agent products in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -116,7 +114,6 @@ All three authorizations are cancelled, so there is currently no valid EU author
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (antifolate class) |
-| Myelosuppression Risk | Medium to high; the knowledge graph links pemetrexed to neutropenia, thrombocytopenia, anemia and agranulocytosis |
 | Emetogenicity Classification | Low to moderate; please refer to the SmPC |
 | Monitoring Items | Complete blood count with differential, renal function (creatinine clearance), liver function |
 | Handling Protection | Follow cytotoxic drug handling regulations |
@@ -148,7 +145,6 @@ Cisplatin plus pemetrexed is a well-established regimen for pleural mesothelioma
 - Label warnings and contraindications from the SmPC, since this data is currently missing
 - Detailed mechanism-of-action data from DrugBank
 - A renal function and haematological monitoring plan, given the knowledge-graph contraindication signals
-- Clarification of the current EU regulatory status, since all listed authorizations are cancelled
 - A comparison with immunotherapy-based first-line options (nivolumab plus ipilimumab)
 ## Disclaimer
 

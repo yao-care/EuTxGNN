@@ -7,14 +7,15 @@ description: "Doxorubicin Hydrochloride drug repurposing predictions from TxGNN.
 parent: AI Predictions (L5)
 nav_order: 182
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Doxorubicin Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | Ewing sarcoma | 99.90% | DL |
-| 2 | small cell lung carcinoma | 99.87% | DL |
-| 3 | well-differentiated fetal adenocarcinoma of the lung | 99.86% | DL |
-| 4 | primary pulmonary lymphoma | 99.85% | DL |
-| 5 | pulmonary blastoma | 99.85% | DL |
-| 6 | chronic myelogenous leukemia, BCR-ABL1 positive | 99.77% | DL |
-| 7 | hereditary breast ovarian cancer syndrome | 99.75% | DL |
-| 8 | monocytic leukemia | 99.74% | DL |
-| 9 | botryoid-type embryonal rhabdomyosarcoma of the vagina | 99.72% | DL |
-| 10 | parameningeal embryonal rhabdomyosarcoma | 99.71% | DL |
-| 11 | rhabdomyosarcoma (disease) | 99.70% | DL |
-| 12 | neuroblastoma | 99.70% | DL |
-| 13 | ganglioneuroblastoma (disease) | 99.70% | DL |
-| 14 | embryonal extrahepatic bile duct rhabdomyosarcoma | 99.70% | DL |
-| 15 | vertebral anomalies and variable endocrine and T-cell dysfunction | 99.67% | DL |
-| 16 | prostate embryonal rhabdomyosarcoma | 99.67% | DL |
-| 17 | retroperitoneal neoplasm | 99.66% | DL |
-| 18 | extrahepatic bile duct rhabdomyosarcoma | 99.65% | DL |
-| 19 | liver sarcoma | 99.62% | DL |
-| 20 | myeloid leukemia | 99.61% | DL |
 
 *Showing top 20 of 50 predictions.*
 

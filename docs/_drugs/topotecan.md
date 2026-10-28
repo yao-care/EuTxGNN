@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Topotecan
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 629
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Topotecan: predicted new indication Female breast carcinoma (evidence level L3). Approved use: Relapsed small cell lung cancer (SCLC) and metastatic ovarian cancer…"
 monitor_inn: "Topotecan"
@@ -14,7 +14,7 @@ predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
 # Topotecan
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Topotecan is a topoisomerase I inhibitor chemotherapy originally authorized in t
 |------|------|
 | Original Indication | Relapsed small cell lung cancer (SCLC) and metastatic ovarian cancer after failure of first-line or subsequent therapy |
 | Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L3 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 3 (all cancelled) |
+| TxGNN Prediction Score | 0.9992 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -85,7 +85,7 @@ The clinical signal is weak. An older phase 2 study of continuous infusional top
 
 ## EU Market Information
 
-All three authorizations are cancelled. The data compiled for this report do not list dosage forms.
+All three licences are valid, and the product is marketed. The data compiled for this report do not list dosage forms.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -115,13 +115,12 @@ Label-based warnings and contraindications were not available. Please refer to t
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.92%), but the clinical evidence for breast cancer is weak. The one phase 2 study with efficacy data found no meaningful activity, the three listed trials are early-phase or terminated, and most of the literature consists of reviews or preclinical work. In addition, all EU authorizations for topotecan are currently cancelled, and label safety data could not be retrieved.
+The TxGNN score is very high (0.9992), but the clinical evidence for breast cancer is weak. The one phase 2 study with efficacy data found no meaningful activity, the three listed trials are early-phase or terminated, and most of the literature consists of reviews or preclinical work. In addition, label safety data could not be retrieved.
 
 **To proceed, the following is needed:**
 - Label safety information (warnings and contraindications) from the SmPC
 - Mechanism of action data from DrugBank
 - Subtype-specific evidence, for example in MYC-driven or triple-negative breast cancer, from preclinical or biomarker-selected studies
-- Clarification of the current EU availability of topotecan products, since all three authorizations are cancelled
 - Efficacy data from well-designed phase 2 studies in breast cancer
 ## Disclaimer
 

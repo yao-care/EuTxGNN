@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Secukinumab with the latest 
 <li>Primary release disorder of platelets</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/secukinumab/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (37)

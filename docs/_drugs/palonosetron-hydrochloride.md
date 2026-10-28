@@ -7,14 +7,15 @@ description: "Palonosetron Hydrochloride drug repurposing predictions from TxGNN
 parent: AI Predictions (L5)
 nav_order: 436
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Palonosetron Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | migraine disorder | 99.74% | DL |
-| 2 | migraine with brainstem aura | 99.67% | DL |
-| 3 | migraine with or without aura, susceptibility to | 99.44% | DL |
-| 4 | atrophoderma vermiculata | 99.13% | DL |
-| 5 | ulerythema ophryogenesis | 99.07% | DL |
-| 6 | headache disorder | 97.91% | DL |
-| 7 | trigeminal autonomic cephalalgia | 97.59% | DL |
-| 8 | open-angle glaucoma | 96.46% | DL |
-| 9 | sciatic neuropathy | 96.38% | DL |
-| 10 | primary hereditary glaucoma | 96.36% | DL |
-| 11 | dysthymic disorder | 96.11% | DL |
-| 12 | nephrogenic syndrome of inappropriate antidiuresis | 95.84% | DL |
-| 13 | insomnia (disease) | 95.33% | DL |
-| 14 | congenital hypotrichosis milia | 95.15% | DL |
-| 15 | multiple system atrophy | 95.09% | DL |
-| 16 | diffuse alopecia areata | 95.09% | DL |
-| 17 | hypotrichosis simplex of the scalp | 94.89% | DL |
-| 18 | duodenum cancer | 94.73% | DL |
-| 19 | phaeochromocytoma | 94.73% | DL |
-| 20 | irritable bowel syndrome | 94.60% | DL |
 
 *Showing top 20 of 50 predictions.*
 

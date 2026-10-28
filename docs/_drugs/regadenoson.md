@@ -4,17 +4,17 @@ title: Regadenoson
 parent: AI Predictions (L5)
 nav_order: 512
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Regadenoson: predicted new indication Anaphylaxis (evidence level L5). Approved use: Pharmacological stress agent for radionuclide myocardial perfusion im…"
 monitor_inn: "Regadenoson"
-predicted_indications: ["anaphylaxis", "food-dependent exercise-induced anaphylaxis", "esotropia", "pseudoallergy", "headache disorder", "migraine disorder", "trigeminal autonomic cephalalgia", "migraine with brainstem aura", "glossodynia", "coccygodynia"]
+predicted_indications: ["anaphylaxis", "food-dependent exercise-induced anaphylaxis", "esotropia", "pseudoallergy"]
 ---
 
 # Regadenoson
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The prediction rests on model output alone, and the drug's vasodilating and bloo
 |------|------|
 | Original Indication | Pharmacological stress agent for radionuclide myocardial perfusion imaging (MPI) in adult patients unable to undergo adequate exercise stress (diagnostic use only) |
 | Predicted New Indication | Anaphylaxis |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -78,7 +78,7 @@ Currently no related clinical trials registered.
 
 Currently no related literature available for anaphylaxis.
 
-Literature exists only for other lower-ranked predictions (headache disorder and migraine disorder), and it shows adverse effects rather than benefit:
+Literature exists only for other conditions, and it shows adverse effects rather than benefit:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|

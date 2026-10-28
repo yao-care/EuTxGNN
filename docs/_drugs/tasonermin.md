@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **prostatic urethra urothelial 
 |------|------|
 | Original Indication | Adjunct to surgery to prevent or delay amputation, or palliative treatment, for irresectable soft-tissue sarcoma of the limbs, used with melphalan via mild hyperthermic isolated-limb perfusion (ILP) |
 | Predicted New Indication | Prostatic urethra urothelial carcinoma |
-| TxGNN Prediction Score | 99.81% |
+| TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, tasonermin is recombinant human TNF-alpha. In isolated-limb perfusion with melphalan, it is thought to increase tumour-vascular permeability and drug uptake in the tumour. Its efficacy has been established in limb soft-tissue sarcoma, but no mechanistic data link it to urothelial carcinoma.
 
-The high TxGNN score (99.81%) is a computational prediction only. Several practical barriers weigh against it:
+The high TxGNN score (0.9981) is a computational prediction only. Several practical barriers weigh against it:
 - The approved use depends on regional limb perfusion, which cannot be applied to a tumour of the prostatic urethra.
 - Systemic TNF-alpha is highly toxic.
 - No trials or publications support this use.

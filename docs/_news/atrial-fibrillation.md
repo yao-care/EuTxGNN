@@ -30,7 +30,7 @@ This page brings together the latest health news about “AF” and lists the dr
 <li><a href="{{ '/drugs/aripiprazole/' | relative_url }}">Aripiprazole</a></li>
 <li><a href="{{ '/drugs/bimatoprost/' | relative_url }}">Bimatoprost</a></li>
 <li><a href="{{ '/drugs/degarelix/' | relative_url }}">Degarelix</a></li>
-<li><a href="{{ '/drugs/dostarlimab/' | relative_url }}">Dostarlimab</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Dostarlimab</a></li>
 <li><a href="{{ '/drugs/dronedarone/' | relative_url }}">Dronedarone</a></li>
 <li><a href="{{ '/drugs/eflornithine/' | relative_url }}">Eflornithine</a></li>
 <li><a href="{{ '/drugs/elafibranor/' | relative_url }}">Elafibranor</a></li>
@@ -42,15 +42,15 @@ This page brings together the latest health news about “AF” and lists the dr
 <li><a href="{{ '/drugs/lurasidone/' | relative_url }}">Lurasidone</a></li>
 <li><a href="{{ '/drugs/metreleptin/' | relative_url }}">Metreleptin</a></li>
 <li><a href="{{ '/drugs/olanzapine/' | relative_url }}">Olanzapine</a></li>
-<li><a href="{{ '/drugs/pasireotide/' | relative_url }}">Pasireotide</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Pasireotide</a></li>
 <li><a href="{{ '/drugs/posaconazole/' | relative_url }}">Posaconazole</a></li>
 <li><a href="{{ '/drugs/prilocaine/' | relative_url }}">Prilocaine</a></li>
-<li><a href="{{ '/drugs/riociguat/' | relative_url }}">Riociguat</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Riociguat</a></li>
 <li><a href="{{ '/drugs/risperidone/' | relative_url }}">Risperidone</a></li>
-<li><a href="{{ '/drugs/sildenafil/' | relative_url }}">Sildenafil</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Sildenafil</a></li>
 <li><a href="{{ '/drugs/silodosin/' | relative_url }}">Silodosin</a></li>
 <li><a href="{{ '/drugs/tadalafil/' | relative_url }}">Tadalafil</a></li>
-<li><a href="{{ '/drugs/vardenafil/' | relative_url }}">Vardenafil</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Vardenafil</a></li>
 <li><a href="{{ '/drugs/voriconazole/' | relative_url }}">Voriconazole</a></li>
 <li><a href="{{ '/drugs/zonisamide/' | relative_url }}">Zonisamide</a></li>
 </ul>

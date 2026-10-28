@@ -4,17 +4,17 @@ title: Pioglitazone
 parent: AI Predictions (L5)
 nav_order: 487
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Pioglitazone: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 2 diabetes mellitus (monotherapy, dual or triple oral therapy…"
 monitor_inn: "Pioglitazone"
-predicted_indications: ["opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis", "autoimmune oophoritis"]
+predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 ---
 
 # Pioglitazone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ but **no clinical trials and no publications** currently support this specific p
 |------|------|
 | Original Indication | Type 2 diabetes mellitus (monotherapy, dual or triple oral therapy, and combination with insulin) |
 | Predicted New Indication | Opsismodysplasia |
-| TxGNN Prediction Score | 99.59% |
+| TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (all authorisations cancelled) |
-| Number of Authorizations | 3 |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,18 +62,17 @@ but **no clinical trials and no publications** currently support this specific p
 
 Detailed mechanism of action data is not available in the data compiled for this report. Pioglitazone is known as a thiazolidinedione that activates PPAR-gamma and improves insulin sensitivity. Its efficacy in type 2 diabetes is established, but any link to opsismodysplasia is speculative.
 
-Opsismodysplasia is a rare skeletal dysplasia associated with INPPL1, a gene involved in PI3K/insulin signalling. The only plausible bridge to pioglitazone is this shared insulin-signalling biology. There is no clinical or literature evidence to support benefit. The high score (0.996) is a graph-based prediction only.
+Opsismodysplasia is a rare skeletal dysplasia associated with INPPL1, a gene involved in PI3K/insulin signalling. The only plausible bridge to pioglitazone is this shared insulin-signalling biology. There is no clinical or literature evidence to support benefit. The high score (0.9959) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other predictions in the list share the same limitation:
 
 | Rank | Predicted Disease | Score | Evidence Level | Note |
 |------|------|------|------|------|
-| 2 | Classic stiff person syndrome | 99.50% | L5 | Hypothetical immunomodulatory or diabetes-related link |
-| 3 | Focal stiff limb syndrome | 99.50% | L5 | Likely derived from similarity to the classic form |
-| 4 | Thiamine-responsive dysfunction syndrome | 99.48% | L5 | Probably a diabetes-overlap association |
-| 5–8 | Localised lipodystrophies (drug-induced, centrifugal, pressure-induced, idiopathic) | 99.18–99.30% | L5 | Theoretical PPAR-gamma adipogenesis rationale only |
-| 9 | Pancreatic agenesis | 99.18% | L4 | Only indirect literature on type 2 diabetes |
-| 10 | Autoimmune oophoritis | 98.06% | L5 | Speculative anti-inflammatory rationale |
+| 2 | Classic stiff person syndrome | 0.9950 | L5 | Hypothetical immunomodulatory or diabetes-related link |
+| 3 | Focal stiff limb syndrome | 0.9950 | L5 | Likely derived from similarity to the classic form |
+| 4 | Thiamine-responsive dysfunction syndrome | 0.9948 | L5 | Probably a diabetes-overlap association |
+| 5–8 | Localised lipodystrophies (drug-induced, centrifugal, pressure-induced, idiopathic) | 99.18–0.9930 | L5 | Theoretical PPAR-gamma adipogenesis rationale only |
+| 9 | Pancreatic agenesis | 0.9918 | L5 | Only indirect literature on type 2 diabetes |
 
 ---
 
@@ -105,9 +104,9 @@ For reference, seven publications were retrieved for the rank-9 prediction (panc
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/002277 | Pioglitazone Accord (cancelled) | Not specified | Type 2 diabetes mellitus as monotherapy in adults inadequately controlled by diet and exercise, for whom metformin is inappropriate... |
-| EMEA/H/C/002324 | Pioglitazone Actavis (cancelled) | Not specified | Second or third line treatment of type 2 diabetes mellitus as monotherapy, dual or triple oral therapy, or with insulin... |
-| EMEA/H/C/000285 | Actos (cancelled) | Not specified | Type 2 diabetes mellitus as monotherapy, dual or triple oral therapy, or with insulin... |
+| EMEA/H/C/002277 | Pioglitazone Accord (valid) | Not specified | Type 2 diabetes mellitus as monotherapy in adults inadequately controlled by diet and exercise, for whom metformin is inappropriate... |
+| EMEA/H/C/002324 | Pioglitazone Actavis (valid) | Not specified | Second or third line treatment of type 2 diabetes mellitus as monotherapy, dual or triple oral therapy, or with insulin... |
+| EMEA/H/C/000285 | Actos (valid) | Not specified | Type 2 diabetes mellitus as monotherapy, dual or triple oral therapy, or with insulin... |
 
 ---
 
@@ -125,13 +124,13 @@ Label-level warnings and contraindications were not available. Please refer to t
 **Decision: Hold**
 
 **Rationale:**
-The prediction for opsismodysplasia is supported only by a graph-based model score. There are no clinical trials or publications, and the mechanistic link is speculative. All EU authorisations for pioglitazone are also cancelled.
+The prediction for opsismodysplasia is supported only by a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications, and the mechanistic link is speculative. Pioglitazone is marketed in this country, with 3 of 3 licences valid.
 
 **To proceed, the following is needed:**
 - Mechanism of action data to assess whether PPAR-gamma activity could plausibly affect INPPL1/PI3K-related bone biology
 - Preclinical or case-level evidence in opsismodysplasia (cell or animal models)
 - Label-level warnings and contraindications from the SmPC, which are required before any safety screening
-- Clarification of current regulatory and supply status in the EU, given that all licences are cancelled
+- Clarification of current regulatory and supply status, given that the drug is marketed with 3 valid licences of 3
 - Re-evaluation of the lower-ranked predictions only if direct evidence emerges, since none currently have supporting trials
 ## Disclaimer
 

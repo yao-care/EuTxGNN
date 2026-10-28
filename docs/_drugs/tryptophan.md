@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **Restless Legs Syndrome**, but
 |------|------|
 | Original Indication | Maple syrup urine disease (MSUD) presenting with an acute decompensation episode, in patients from birth who are not eligible for an oral or enteral BCAA-free formulation |
 | Predicted New Indication | Restless legs syndrome |
-| TxGNN Prediction Score | 99.72% |
+| TxGNN Prediction Score | 0.9972 |
 | Evidence Level | L3 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Melphalan
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 391
-evidence_level: L2
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Melphalan: predicted new indication Gonadal germ cell tumor (evidence level L2). Approved use: Multiple myeloma, malignant lymphoma (Hodgkin and non-Hodgkin)…"
+evidence_level: L5
+indication_count: 6
 monitor_inn: "Melphalan"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
+last_modified_at: 2026-10-27
+description: "Melphalan: predicted new indication female breast carcinoma (evidence level L5). Approved use: High-dose of Phelinun used alone or in combination with other cytotox…"
 ---
 
 # Melphalan
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,108 +33,91 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Melphalan: From Multiple Myeloma and Haematological Malignancies to Gonadal Germ Cell Tumor
+## Melphalan: alkylating agent → female breast carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Melphalan is a DNA-alkylating chemotherapy originally used for multiple myeloma, lymphomas, leukaemias, neuroblastoma, ovarian cancer and mammary adenocarcinoma, and as a conditioning agent before stem cell transplantation.
-The TxGNN model predicts it may be effective for **gonadal germ cell tumor**,
-with **7 clinical trials** and **1 publication** currently listed for this direction. Most of the trials are combination-regimen studies in which melphalan's own contribution is hard to isolate.
-
----
+Melphalan is a cytotoxic alkylating agent used in haematological and some solid cancers. The TxGNN model predicts it may be effective for **female breast carcinoma**, supported by **3 registered clinical trials** and **20 publications**. Most of this evidence is older, small or single-arm, and gathered in high-dose settings.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Multiple myeloma, malignant lymphoma (Hodgkin and non-Hodgkin), acute lymphoblastic and myeloblastic leukaemia, childhood neuroblastoma, ovarian cancer, mammary adenocarcinoma; conditioning before allogeneic haematopoietic stem cell transplantation (high-dose use) |
-| Predicted New Indication | Gonadal germ cell tumor |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L2 |
-| EU Market Status | Cancelled only (the single authorization has been cancelled) |
-| Number of Authorizations | 1 |
+| Original Indication | High-dose of Phelinun used alone or in combination with other cytotoxic medicinal products and/or total body irradiation is indicated in the treatment of:  multiple myeloma, malignant lymphoma (Hodgkin, non-Hodgkin lymphoma), acute lymphoblastic and myeloblastic leukemia, childhood neuroblastoma, ov |
+| Predicted New Indication | female breast carcinoma |
+| TxGNN Prediction Score | 0.9967 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, melphalan is a bifunctional nitrogen mustard alkylating agent. It forms DNA interstrand crosslinks that lead to cell death.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Melphalan is a bifunctional alkylating agent, a class that damages DNA in dividing tumour cells and causes them to die. This class effect is the likely basis for any activity in breast cancer.
 
-Germ cell tumors are generally highly chemosensitive to DNA-damaging agents. Melphalan is already used in high-dose chemotherapy with autologous stem cell rescue for relapsed or poor-prognosis germ cell tumors, which fits the high TxGNN score.
+Preclinical work supports this. Melphalan showed activity against breast carcinoma xenografts, and in MDA-MB-231 breast cancer cells it induced cell cycle arrest and apoptosis when combined with curcumin. Melphalan has also been used historically in breast cancer, including in adjuvant and palliative regimens and as a comparator in a randomised trial in anthracycline-refractory advanced disease.
 
-There is an important caveat. The supporting evidence comes mainly from single-arm or early-phase studies of combination regimens. The specific contribution of melphalan is therefore difficult to separate from the other drugs in the regimen.
-
----
+High-dose melphalan has been studied with autologous stem cell support in high-risk and metastatic breast cancer. However, high-dose chemotherapy has not shown a clear survival benefit over standard therapy, and newer evidence is limited.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00936936](https://clinicaltrials.gov/study/NCT00936936) | Phase 2 | Completed | 64 | Two cycles of high-dose chemotherapy (gemcitabine, docetaxel, melphalan, carboplatin, then ifosfamide, carboplatin, etoposide) in poor-prognosis relapsed germ-cell tumors |
-| [NCT00003425](https://clinicaltrials.gov/study/NCT00003425) | Phase 1/2 | Completed | 25 | Escalating-dose melphalan with autologous stem cell support and amifostine cytoprotection in cancer patients, germ cell tumors among the targets |
-| [NCT00060255](https://clinicaltrials.gov/study/NCT00060255) | Phase 2 | Completed | 451 | Eight high-dose chemotherapy regimens with autologous transplant in haematologic malignancies and selected solid tumors; germ cell-specific results not separable |
-| [NCT00638898](https://clinicaltrials.gov/study/NCT00638898) | Phase 1 | Completed | 25 | Busulfan, melphalan and topotecan high-dose chemotherapy with autologous transplant in advanced or recurrent tumors |
-| [NCT00536601](https://clinicaltrials.gov/study/NCT00536601) | N/A | Completed | 174 | High-dose chemotherapy regimens with or without total-body irradiation before autologous transplant; heterogeneous population |
-| [NCT00002750](https://clinicaltrials.gov/study/NCT00002750) | Phase 1 | Completed | 6 | Intrathecal melphalan in recurrent neoplastic meningitis; different route and setting, only indirectly relevant |
-| [NCT00003926](https://clinicaltrials.gov/study/NCT00003926) | Phase 1 | Terminated | 13 | Amifostine chemoprotection with autologous transplant in pediatric solid and brain tumors; focused on toxicity, not efficacy |
-
----
+| [NCT00003425](https://clinicaltrials.gov/study/NCT00003425) | Phase 1/2 | Completed | 25 | Escalating-dose melphalan with autologous stem cell support and amifostine cytoprotection in cancer patients, including breast cancer |
+| [NCT00003086](https://clinicaltrials.gov/study/NCT00003086) | Phase 1/2 | Terminated | 12 | Samarium-153 within double sequential autologous bone marrow transplant in stage IV breast cancer |
+| [NCT00523809](https://clinicaltrials.gov/study/NCT00523809) | Phase 2 | Terminated | 5 | Nonmyeloablative allogeneic transplant with bevacizumab in advanced solid tumours; melphalan has a minor role and the sample is too small to interpret |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [14151951](https://pubmed.ncbi.nlm.nih.gov/14151951/) | 1964 | Other (pharmacology/physiology study) | Acta - Unio Internationalis Contra Cancrum | Effects of hormonal and alkylating drugs on pituitary follicle-stimulating function; no abstract available and only indirectly relevant to germ cell tumor treatment |
-
----
+| [7595708](https://pubmed.ncbi.nlm.nih.gov/7595708/) | 1995 | Randomised trial | J Clin Oncol | Vinorelbine vs melphalan in anthracycline-refractory advanced breast cancer |
+| [6991733](https://pubmed.ncbi.nlm.nih.gov/6991733/) | 1980 | Clinical trial | JAMA | Adjuvant melphalan vs CFP vs CFP plus BCG in stage II/III breast carcinoma (173 patients) |
+| [7042073](https://pubmed.ncbi.nlm.nih.gov/7042073/) | 1982 | Clinical study | Cancer | Follow-up of adjuvant melphalan vs multi-drug regimens in stage II/III breast cancer |
+| [10918405](https://pubmed.ncbi.nlm.nih.gov/10918405/) | 2000 | Single-arm study | Bone Marrow Transplant | High-dose busulfan, melphalan and thiotepa in 121 patients with high-risk breast cancer |
+| [12732881](https://pubmed.ncbi.nlm.nih.gov/12732881/) | 2003 | Retrospective cohort | Bone Marrow Transplant | High-dose thiotepa, melphalan and carboplatin with stem cell transplant in 27 metastatic breast cancer patients |
+| [11400951](https://pubmed.ncbi.nlm.nih.gov/11400951/) | 2001 | Phase study | Biol Blood Marrow Transplant | Tandem high-dose melphalan and cisplatin with progenitor cell support in breast cancer and other malignancies |
+| [6203662](https://pubmed.ncbi.nlm.nih.gov/6203662/) | 1984 | Clinical study | Cancer Chemother Pharmacol | Mitomycin C, melphalan and methotrexate for disseminated breast cancer: 40% response in evaluable patients |
+| [7602368](https://pubmed.ncbi.nlm.nih.gov/7602368/) | 1995 | Review | J Clin Oncol | Review of the pharmacology and clinical trials of high-dose intravenous melphalan |
+| [37596331](https://pubmed.ncbi.nlm.nih.gov/37596331/) | 2023 | Preclinical (in vitro) | Sci Rep | Curcumin plus melphalan induces cell cycle arrest and apoptosis in MDA-MB-231 cells |
+| [6254553](https://pubmed.ncbi.nlm.nih.gov/6254553/) | 1980 | Preclinical (xenograft) | Br J Cancer | Sensitivity of breast carcinoma xenografts to melphalan and other agents |
 
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/005173 (cancelled) | Phelinun | Not specified | High-dose Phelinun alone or with other cytotoxic medicinal products and/or total body irradiation for multiple myeloma, malignant lymphoma, acute leukaemia, ... |
-
----
+| EMEA/H/C/005173 | Phelinun | Not recorded | High-dose use alone or with other cytotoxic medicinal products and/or total body irradiation in multiple myeloma, malignant lymphoma, acute leukaemias, childhood neuroblastoma, ovarian cancer... |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (alkylating agent, nitrogen mustard class) |
-| Myelosuppression Risk | High (see the knowledge-graph signals under Safety Considerations; please also refer to the SmPC) |
+| Cytotoxicity Classification | Conventional cytotoxic (alkylating agent) |
+| Myelosuppression Risk | High |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
 | Monitoring Items | Complete blood count with differential, liver and renal function |
 | Handling Protection | Must follow cytotoxic drug handling regulations |
 
----
-
 ## Safety Considerations
 
-- **Knowledge-graph contraindication signals** (from a drug-disease knowledge graph, not label text): kidney disease, thrombocytopenia, anaemia (including macrocytic and haemolytic anaemia), leukopenia, agranulocytosis, neutropenia (including congenital forms), interstitial lung disease, pulmonary fibrosis, drug-induced liver injury, and vasculitis.
-- **Drug Interactions**: 100 interactions were found in total; the 20 listed here include:
-  - Moderate: amphotericin B (including lipid complex, cholesteryl sulfate and liposomal forms).
-  - Minor: cimetidine, levofloxacin, zinc sulfate, zinc gluconate.
-  - Severity not classified: lansoprazole, omeprazole, pantoprazole, famotidine, dolasetron, granisetron, acetylsalicylic acid, morphine, metformin, vancomycin, prednisone, simvastatin.
+- **Drug Interactions**: Moderate-level interactions are recorded with amphotericin B (including lipid complex, cholesteryl sulfate and liposomal forms). Minor interactions are recorded with cimetidine, levofloxacin, zinc sulfate and zinc gluconate. Other recorded interactions, such as with lansoprazole, omeprazole, pantoprazole, famotidine, metformin, morphine, vancomycin, prednisone and simvastatin, have an unclassified severity.
+- **Conditions of concern in the model's drug-disease data** (not label text): kidney disease, thrombocytopenia, anaemia, leukopenia, neutropenia, agranulocytosis, interstitial lung disease, pulmonary fibrosis, drug-induced liver injury and vasculitis.
 
 Please refer to the SmPC for label warnings and contraindications.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The biological rationale is plausible and the TxGNN score is very high. However, the evidence consists of small, early-phase or combination-regimen studies with no isolated melphalan effect. The only literature item is a 1964 physiology study. The sole EU authorization is cancelled, and label safety data are missing.
+Support for this indication comes mainly from older, small or single-arm studies in high-dose transplant settings, with no completed Phase 3 trial. High-dose chemotherapy has not shown a clear survival benefit over standard therapy in breast cancer, and the safety burden (marked myelosuppression) is substantial.
 
 **To proceed, the following is needed:**
-- Germ cell tumor-specific efficacy data that isolate melphalan's contribution (for example, comparative or subgroup analyses of NCT00936936)
-- Detailed mechanism-of-action data
-- SmPC warnings and contraindications for a full safety review
-- A safety monitoring plan for severe myelosuppression, and for renal, pulmonary and hepatic risks, in high-dose use
-- Clarification of the regulatory and product availability situation given the cancelled authorization
+- Contemporary controlled trials comparing melphalan-containing regimens with current standard breast cancer therapy
+- Mechanism-of-action data for melphalan
+- Label warnings and contraindications from the SmPC
+- A subtype-specific rationale (e.g., hormone-receptor and HER2 status) and a safety monitoring plan
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,17 +4,17 @@ title: Glycine
 parent: AI Predictions (L5)
 nav_order: 292
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Glycine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Treatment of maple syrup urine disease (MSUD) presenting with an acut…"
 monitor_inn: "glycine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
 ---
 
 # Glycine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The data compiled for this report contain **1 registered clinical trial (judged 
 |------|------|
 | Original Indication | Treatment of maple syrup urine disease (MSUD) presenting with an acute decompensation episode in patients from birth who are not eligible for an oral or enteral BCAA-free formulation |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,9 +62,8 @@ The data compiled for this report contain **1 registered clinical trial (judged 
 
 Currently, detailed mechanism of action data is not available. Glycine is a simple amino acid that acts as an inhibitory and co-agonist neurotransmitter and has general metabolic roles. In the authorised MSUD indication, its use is tied to metabolic management during acute decompensation rather than to any effect on the nose or airway tissue.
 
-The data compiled for this report establish no credible mechanistic link between glycine and nasal cavity disease. The high TxGNN score (99.85%, rank 2574) comes from network-based modelling and is not backed by clinical or experimental evidence. The original and predicted indications (an inborn error of metabolism versus a disease of the upper airway) are biologically distant, and no similarity analysis could be supported.
+The data compiled for this report establish no credible mechanistic link between glycine and nasal cavity disease. The high TxGNN score (0.9985, rank 2574) comes from network-based modelling and is not backed by clinical or experimental evidence. The original and predicted indications (an inborn error of metabolism versus a disease of the upper airway) are biologically distant, and no similarity analysis could be supported.
 
-A second prediction, acute laryngopharyngitis (score 99.84%), also has no trials or literature and the same Hold recommendation.
 
 ---
 

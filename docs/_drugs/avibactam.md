@@ -4,17 +4,17 @@ title: Avibactam
 parent: AI Predictions (L5)
 nav_order: 74
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Avibactam: predicted new indication Streptococcal pneumonia (evidence level L5). Approved use: Complicated intra-abdominal infection (cIAI)…"
+indication_count: 4
 monitor_inn: "Avibactam"
-predicted_indications: ["influenza, severe, susceptibility to", "ureter tuberculosis", "urinary schistosomiasis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "staphylococcus aureus infection", "renal tuberculosis", "squamous cell lung carcinoma", "congenital analbuminemia"]
+predicted_indications: ["ureter tuberculosis", "urinary schistosomiasis", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
+last_modified_at: 2026-10-23
+description: "Avibactam: predicted new indication Ureter tuberculosis (evidence level L5). Approved use: Complicated intra-abdominal infection (cIAI)…"
 ---
 
 # Avibactam
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,93 +33,66 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Avibactam: From Complicated Bacterial Infections to Streptococcal Pneumonia
+## Avibactam: From Complicated Bacterial Infections to Ureter Tuberculosis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Avibactam is a beta-lactamase inhibitor used with partner antibiotics (such as ceftazidime) to treat complicated intra-abdominal infections, complicated urinary tract infections, and hospital-acquired pneumonia.
-The TxGNN model predicts it may be effective for **streptococcal pneumonia**, but **no clinical trials and no publications** currently support this prediction.
-
----
+Avibactam is a beta-lactamase inhibitor, originally used in combination products to treat complicated intra-abdominal, urinary tract and hospital-acquired lung infections caused by Gram-negative bacteria.
+The TxGNN model predicts it may be effective for **ureter tuberculosis**, but there are **0 clinical trials** and **0 publications** in the data compiled for this report to support this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Complicated intra-abdominal infection (cIAI), hospital-acquired pneumonia (HAP) including ventilator-associated pneumonia (VAP), and complicated urinary tract infection (cUTI) including pyelonephritis |
-| Predicted New Indication | Streptococcal pneumonia |
-| TxGNN Prediction Score | 99.70% |
+| Original Indication | Complicated intra-abdominal infection (cIAI), hospital-acquired pneumonia (HAP) including ventilator-associated pneumonia (VAP), and complicated urinary tract infection (cUTI) including pyelonephritis, plus infections due to aerobic Gram-negative organisms in patients with limited treatment options |
+| Predicted New Indication | Ureter tuberculosis |
+| TxGNN Prediction Score | 0.9911 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only |
-| Number of Authorizations | 2 |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, avibactam is a non-beta-lactam beta-lactamase inhibitor with no antibacterial activity of its own. It protects partner beta-lactams from Ambler class A, C and some class D enzymes.
+Detailed mechanism of action data is not available in the data compiled for this report. Avibactam is a non-beta-lactam beta-lactamase inhibitor and is always given with a beta-lactam antibiotic. It has no antimycobacterial activity on its own.
 
-The link to the predicted indication is weak. Resistance in *Streptococcus pneumoniae* is mainly caused by altered penicillin-binding proteins, not beta-lactamases, so avibactam adds little mechanistic value. The high TxGNN score most likely reflects the drug's association with respiratory infections (HAP/VAP) and is probably a model artifact.
+There is a plausible but indirect rationale. *Mycobacterium tuberculosis* produces a chromosomally encoded class A beta-lactamase (BlaC), and avibactam has been shown in vitro to inhibit it. This suggests a possible role for beta-lactam/inhibitor combinations against tuberculosis. The original indication (complicated urinary tract infection) also involves the urinary tract, which may partly explain the high model score for a urinary-site disease.
 
-The other top-ranked predictions are even less plausible. Influenza susceptibility, polyclonal hyperviscosity syndrome, hyperamylasemia, squamous cell lung carcinoma and congenital analbuminemia have no apparent mechanistic link. Urinary schistosomiasis is a parasitic disease. Ureter and renal tuberculosis have only a theoretical rationale, via the mycobacterial beta-lactamase BlaC. *Staphylococcus aureus* infection (rank 7) is the only other prediction with retrieved literature, and that literature is indirect (see below).
-
----
+This link is hypothetical. The 0.9911 score is a model prediction, and no trials or publications were found for ureter tuberculosis. Any benefit would also depend on achieving adequate urinary and tissue drug exposure, for which there are no data.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available for streptococcal pneumonia.
-
-For context, the closest-ranked prediction with literature is *Staphylococcus aureus* infection (rank 7). Its literature consists of reviews, surveillance studies and in vitro work on multidrug-resistant infections, which provide only indirect context:
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [40910659](https://pubmed.ncbi.nlm.nih.gov/40910659/) | 2025 | Review | Curr Opin Crit Care | Recommendations for managing MDR/XDR bloodstream infections and VAP in the critically ill |
-| [36804370](https://pubmed.ncbi.nlm.nih.gov/36804370/) | 2023 | Review | Int J Antimicrob Agents | Off-label use versus formal recommendations of antibiotics for MDR bacterial infections |
-| [42661422](https://pubmed.ncbi.nlm.nih.gov/42661422/) | 2026 | Review | Dtsch Arztebl Int | Guideline on antibiotic treatment of severe multiresistant bacterial infections |
-| [28314920](https://pubmed.ncbi.nlm.nih.gov/28314920/) | 2017 | Review | Med Klin Intensivmed Notfmed | Overview of six new antibiotics, including ceftazidime/avibactam |
-| [22733066](https://pubmed.ncbi.nlm.nih.gov/22733066/) | 2012 | In vitro study | Antimicrob Agents Chemother | Ceftaroline-avibactam activity against beta-lactamase-producing Gram-negatives and MRSA (a different partner agent, in vitro only) |
-| [24041891](https://pubmed.ncbi.nlm.nih.gov/24041891/) | 2013 | Animal model | Antimicrob Agents Chemother | Ceftaroline fosamil-avibactam efficacy in a murine polymicrobial infection model |
-
----
+Currently no related literature available.
 
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | EMEA/H/C/006113 | Emblaveo | Not specified | Adults: cIAI, HAP/VAP, cUTI including pyelonephritis; infections due to aerobic Gram-negative organisms with limited treatment options... |
-| EMEA/H/C/004027 | Zavicefta | Not specified | Adults and children aged 3 months and older: cIAI, cUTI, HAP/VAP, bacteraemia associated with these infections... |
-
-Both authorizations are listed as cancelled.
-
----
+| EMEA/H/C/004027 | Zavicefta | Not specified | Adults and children aged 3 months and older: cIAI, cUTI including pyelonephritis, HAP/VAP, bacteraemia associated with these infections... |
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (L5). No trials or publications support streptococcal pneumonia, and the mechanism is implausible because pneumococcal resistance is not beta-lactamase-mediated. Both EU authorizations are also listed as cancelled.
+The prediction rests only on a model score and an indirect in vitro mechanistic idea (BlaC inhibition). No clinical trial or publication directly studies avibactam in ureter tuberculosis, so the evidence level is L5.
 
 **To proceed, the following is needed:**
-- Confirmation of the current EU authorization status, since both licenses are listed as cancelled
-- Safety data from the SmPC (warnings and contraindications), which is a blocking gap for safety screening
-- Detailed mechanism of action data from DrugBank
-- Direct in vitro or clinical evidence for avibactam combinations against *S. pneumoniae*
-- Route and dosage form compatibility assessment
+- Preclinical data on avibactam combinations against *M. tuberculosis*, including activity in urinary and renal tissue
+- Pharmacokinetic data on urinary and tissue exposure
+- Detailed mechanism of action data
+- Safety information from the SmPC, which was not available for this report
+- Any clinical or observational reports in genitourinary tuberculosis
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

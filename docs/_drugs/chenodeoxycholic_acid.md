@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Chenodeoxycholic Acid
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 145
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Chenodeoxycholic Acid: predicted new indication Homozygous familial hypercholesterolemia (evidence level L4). Approved use: Inborn errors of primary bile acid synthesis due to sterol 27-hydroxy…"
 monitor_inn: "Chenodeoxycholic acid"
-predicted_indications: ["homozygous familial hypercholesterolemia", "brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "obsolete familial combined hyperlipidemia", "obsolete hyperuricemia (disease)", "hypouricemia, renal", "diabetic nephropathy", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "familial isolated hypoparathyroidism due to impaired PTH secretion", "Lesch-Nyhan syndrome"]
+predicted_indications: ["homozygous familial hypercholesterolemia", "brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "obsolete familial combined hyperlipidemia", "obsolete hyperuricemia (disease)"]
 ---
 
 # Chenodeoxycholic Acid
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The prediction rests mainly on model-based network proximity and should be treat
 |------|------|
 | Original Indication | Inborn errors of primary bile acid synthesis due to sterol 27-hydroxylase deficiency (CTX), ages 1 month to 18 years and adults |
 | Predicted New Indication | Homozygous familial hypercholesterolemia |
-| TxGNN Prediction Score | 99.57% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 |
+| TxGNN Prediction Score | 0.9957 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -125,9 +125,8 @@ The prediction has no clinical trials and no disease-specific literature. The me
 
 | Rank | Predicted Indication | Score | Evidence Level | Comment |
 |---|---|---|---|---|
-| 7 | Diabetic nephropathy | 98.76% | L4 | The most plausible alternative. Preclinical FXR-loss data and bile acid profiling studies exist, but none involve CDCA treatment. Best framed as a preclinical research question. |
-| 4 | Familial combined hyperlipidemia (obsolete term) | 99.34% | L5 | Plausible but unsupported; the disease term is obsolete. |
-| 2, 3, 5, 6, 8, 9, 10 | COL4A1-related disorders, hyperuricemia (obsolete term), renal hypouricemia, HPRT deficiency, hypoparathyroidism, Lesch-Nyhan syndrome | 97.5–99.4% | L5 | No identified mechanistic link; likely network artifacts. |
+| 4 | Familial combined hyperlipidemia (obsolete term) | 0.9934 | L5 | Plausible but unsupported; the disease term is obsolete. |
+| 2, 3, 5, 6, 8, 9, 10 | COL4A1-related disorders, hyperuricemia (obsolete term) | 0.9927–0.9943 | L5 | No identified mechanistic link; the scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

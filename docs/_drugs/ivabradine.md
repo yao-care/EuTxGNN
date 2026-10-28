@@ -4,17 +4,17 @@ title: Ivabradine
 parent: AI Predictions (L5)
 nav_order: 338
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Ivabradine: predicted new indication Hypertrichosis (evidence level L5). Approved use: Symptomatic treatment of chronic stable angina pectoris"
+description: "Ivabradine: predicted new indication hypertrichosis (disease) (evidence level L5). Approved use: Symptomatic treatment of chronic stable angina pectoris"
 monitor_inn: "Ivabradine"
-predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "pulmonary hypertension", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "leprosy"]
+predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis"]
 ---
 
 # Ivabradine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ivabradine: From Chronic Stable Angina Pectoris and Chronic Heart Failure to Hypertrichosis
+## Ivabradine: From Chronic Stable Angina Pectoris and Chronic Heart Failure to hypertrichosis (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ The high score most likely reflects a computational artifact rather than a biolo
 |------|------|
 | Original Indication | Symptomatic treatment of chronic stable angina pectoris; chronic heart failure (NYHA II–IV, systolic dysfunction) |
 | Predicted New Indication | Hypertrichosis |
-| TxGNN Prediction Score | 99.79% |
+| TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 5 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Authorizations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ The high score most likely reflects a computational artifact rather than a biolo
 
 Detailed mechanism-of-action data was not available in the data compiled for this report. Ivabradine is known to inhibit the HCN (If, "funny current") channel in the sinoatrial node, which slows the heart rate. This explains its use in angina and heart failure.
 
-No plausible mechanistic link was identified between this action and hair follicle growth regulation. The very high TxGNN score (0.998) most likely comes from shared neighbours in the knowledge graph, not from biological reasoning. Several other top-ranked predictions are also hair-related or congenital syndromes, which points to the same artifact. Without a mechanistic bridge or supporting studies, this prediction should be treated as a computational output only.
+No plausible mechanistic link was identified between this action and hair follicle growth regulation. The very high TxGNN score (0.9979) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Several other top-ranked predictions are also hair-related or congenital syndromes, which points to the same effect. Without a mechanistic bridge or supporting studies, this prediction should be treated as a computational output only.
 
 ---
 
@@ -80,7 +80,7 @@ Currently no related literature available.
 
 ## EU Market Information
 
-All five authorizations are listed as cancelled. Dosage form was not specified in the data.
+All five authorizations are listed as valid. Dosage form was not specified in the data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -109,13 +109,12 @@ Warnings and contraindications were not available in the compiled data. Please r
 The prediction has no clinical trials, no publications and no plausible mechanistic link to ivabradine's HCN-channel action. It is supported only by a model score, so the evidence level is L5. In addition, no EU authorization for ivabradine is currently valid.
 
 **Other predictions from the same analysis:**
-Among the other predicted indications, **pulmonary hypertension** (score 98.5%, rank 7) is the only one with a plausible rationale and published studies. These include preclinical work showing improved right ventricular function and reduced fibrosis, and small clinical studies in COPD-associated and systemic-sclerosis-related pulmonary hypertension. Evidence there is limited to L3, with no registered trials. Heart-rate dependence of right ventricular output means bradycardia could be harmful in some patients. This is better pursued as a separate research question than through the hypertrichosis prediction.
 
 **To proceed, the following is needed:**
 - Any mechanistic or biological evidence linking HCN-channel inhibition to hair growth, or a decision to deprioritize this prediction
 - Detailed mechanism-of-action data (MOA) from DrugBank
 - Warnings and contraindications from the EMA product information
-- Confirmation of the current EU regulatory status, since all authorizations are listed as cancelled
+- Confirmation of the current EU regulatory status, since all five authorizations are listed as valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

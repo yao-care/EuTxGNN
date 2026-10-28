@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Ivacaftor with the latest he
 <li>Rheumatoid arthritis</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/ivacaftor/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (3)

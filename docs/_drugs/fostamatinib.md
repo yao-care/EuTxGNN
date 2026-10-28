@@ -4,17 +4,17 @@ title: Fostamatinib
 parent: AI Predictions (L5)
 nav_order: 273
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Fostamatinib: predicted new indication Autosomal thrombocytopenia with normal platelets (evidence level L5). Approved use: Chronic immune thrombocytopenia (ITP) in adult patients who are refra…"
 monitor_inn: "Fostamatinib"
-predicted_indications: ["autosomal thrombocytopenia with normal platelets", "non-syndromic esophageal malformation", "syndromic constitutional thrombocytopenia", "glaucoma", "biotin metabolic disease", "primary hereditary glaucoma", "open-angle glaucoma", "filariasis", "vitamin deficiency disorder", "esophageal disease"]
+predicted_indications: ["autosomal thrombocytopenia with normal platelets", "non-syndromic esophageal malformation"]
 ---
 
 # Fostamatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,19 +47,19 @@ The TxGNN model predicts it may be effective for **autosomal thrombocytopenia wi
 |------|------|
 | Original Indication | Chronic immune thrombocytopenia (ITP) in adult patients who are refractory to other treatments |
 | Predicted New Indication | Autosomal thrombocytopenia with normal platelets |
-| TxGNN Prediction Score | 99.45% |
+| TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Fostamatinib is a SYK inhibitor; its active metabolite is R406. In chronic ITP, it reduces antibody-mediated destruction of platelets by macrophages. Detailed mechanism-of-action data was not available in the data compiled for this report, so this description relies on the known pharmacology of the drug.
 
-The new indication is a thrombocytopenia, so the model's high score probably reflects how close the disease sits to ITP in the knowledge graph. However, inherited thrombocytopenias are caused by genetic defects in platelet production, not by immune-mediated platelet destruction. SYK inhibition therefore has no clear mechanistic rationale here, and the prediction should be treated as a hypothesis only.
+The new indication is a thrombocytopenia, so the model's high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. However, inherited thrombocytopenias are caused by genetic defects in platelet production, not by immune-mediated platelet destruction. SYK inhibition therefore has no clear mechanistic rationale here, and the prediction should be treated as a hypothesis only.
 
-Other top-ranked predictions show the same pattern. Syndromic constitutional thrombocytopenia (score 98.97%) is linked only through the shared low-platelet phenotype. Several others have no plausible mechanistic link and look like knowledge-graph artifacts: non-syndromic esophageal malformation, biotin metabolic disease, vitamin deficiency disorder, filariasis, and primary hereditary glaucoma. Glaucoma, open-angle glaucoma, and esophageal disease have only speculative or indirect links. None of these has trials, and the few publications retrieved are general kinase-inhibitor reviews or preclinical esophageal cancer studies, not studies of fostamatinib.
+Another top-ranked prediction shows the same pattern. Non-syndromic esophageal malformation has no plausible mechanistic link and looks like a TxGNN model (deep learning) artifact. It has no trials, and the few publications retrieved are general kinase-inhibitor reviews or preclinical esophageal cancer studies, not studies of fostamatinib.
 
 ## Clinical Trial Evidence
 

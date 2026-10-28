@@ -5,10 +5,10 @@ parent: AI Predictions (L5)
 nav_order: 182
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Degarelix: predicted new indication Hypertrichosis (evidence level L5). Approved use: Treatment of adult male patients with advanced hormone-dependent pros…"
 monitor_inn: "Degarelix"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "malformation syndrome with odontal and/or periodontal component", "isolated genetic hair shaft abnormality", "allergic urticaria", "cold urticaria", "familial male-limited precocious puberty", "centra precocious puberty 1", "familial isolated trichomegaly"]
+last_modified_at: 2026-10-27
+description: "Degarelix: predicted new indication Hypertrichosis (hypertrichosis (disease)) (evidence level L5). Approved use: FIRMAGON is a gonadotrophin releasing hormone (GnRH) antagonist indic…"
 ---
 
 # Degarelix
@@ -33,35 +33,31 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Degarelix: From Advanced Prostate Cancer to Hypertrichosis
+## Degarelix: GnRH receptor antagonist → Hypertrichosis (hypertrichosis (disease))
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Degarelix is a gonadotrophin releasing hormone (GnRH) antagonist, originally used to treat advanced hormone-dependent prostate cancer.
-The TxGNN model predicts it may be effective for **hypertrichosis**, but **no clinical trials and no publications** currently support this direction. The prediction rests on a model score alone.
+Degarelix is a gonadotrophin releasing hormone (GnRH) antagonist that suppresses gonadal androgen production.
+The TxGNN model predicts it may be effective for **Hypertrichosis (hypertrichosis (disease))**, but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Treatment of adult male patients with advanced hormone-dependent prostate cancer |
-| Predicted New Indication | Hypertrichosis |
-| TxGNN Prediction Score | 99.99% |
+| Original Indication | FIRMAGON is a gonadotrophin releasing hormone (GnRH) antagonist indicated: - for treatment of adult male patients with advanced hormone-dependent prostate cancer. - for treatment of high-risk localised and locally advanced hormone dependent prostate cancer in combination with radiotherapy. - as neo- |
+| Predicted New Indication | Hypertrichosis (hypertrichosis (disease)) |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Degarelix is known as a GnRH receptor antagonist. It suppresses luteinising hormone (LH) and follicle-stimulating hormone (FSH), which lowers testicular androgen production. This is the basis for its use in hormone-dependent prostate cancer.
+Degarelix is a GnRH receptor antagonist. It blocks the pituitary GnRH receptor, lowers LH and FSH, and so reduces testicular androgen production. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description relies on the drug's known class.
 
-The link to the predicted indication is weak. Hypertrichosis is generally not androgen-driven, unlike hirsutism, which is a different condition. Any plausible mechanism would be indirect, such as reducing androgen-sensitive hair growth in a hirsutism-like presentation. The very high TxGNN score appears to be a graph-based prediction without clinical or literature support.
-
-The other top predictions look similarly unsupported. Several are congenital or genetic hair and malformation conditions (Ambras syndrome, Dandy-Walker-related syndromes, isolated hair shaft abnormalities, familial trichomegaly). Others are urticaria types, where degarelix's own hypersensitivity reactions raise a safety concern rather than supporting benefit. Familial male-limited precocious puberty is driven downstream of the GnRH-LH axis, so a GnRH antagonist is not expected to work.
-
-The one prediction with a coherent mechanism is **central precocious puberty** (rank 9, evidence level L4). GnRH suppression is the established principle there, though treatment normally uses GnRH agonists. It remains a research question, because no paediatric data, trials or literature were found for degarelix.
+The link to hypertrichosis is weak. Hypertrichosis is generally not driven by androgens, unlike hirsutism. Any plausible mechanism would be indirect, for example reducing androgen-sensitive hair growth in a presentation resembling hirsutism, which is a different condition. The very high TxGNN score of 0.9999 reflects a model-based association. No clinical or literature evidence supports it, and the score should not be read as evidence of benefit.
 
 ## Clinical Trial Evidence
 
@@ -75,8 +71,8 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/000986 | Firmagon (cancelled) | Not specified | GnRH antagonist for adult male patients with advanced hormone-dependent prostate cancer; high-risk localised and locally advanced hormone-dependent prostate cancer in combination with radiotherapy; neo-adjuvant tre... |
-| EMEA/H/C/006048 | Degarelix Accord (cancelled) | Not specified | GnRH antagonist for adult male patients with advanced hormone-dependent prostate cancer; high-risk localised and locally advanced hormone-dependent prostate cancer in combination with radiotherapy; neo-adjuvant tre... |
+| EMEA/H/C/000986 | Firmagon | Not recorded | FIRMAGON is a gonadotrophin releasing hormone (GnRH) antagonist indicated: - for treatment of adult male patients with advanced hormone-dependent prostate cancer. - for treatment of high-risk localised and... |
+| EMEA/H/C/006048 | Degarelix Accord | Not recorded | Degarelix Accord is a gonadotrophin releasing hormone (GnRH) antagonist indicated: for treatment of adult male patients with advanced hormone-dependent prostate cancer. for treatment of high-risk localised and locally... |
 
 ## Cytotoxicity
 
@@ -90,24 +86,23 @@ Currently no related literature available.
 
 ## Safety Considerations
 
-- **Disease-level contraindication signals (knowledge graph, not label text)**: long QT syndrome, familial long QT syndrome, torsades de pointes, liver disease, gallbladder disease, potassium deficiency disease.
-- **Drug Interactions**: 100 interactions were found in the interaction screen. Examples of the **Major** ones are cisapride and dolasetron, consistent with QT-prolongation concerns. Many **Moderate** interactions include clarithromycin, levofloxacin, ondansetron, granisetron, palonosetron, famotidine and loperamide. Bowel-preparation and laxative products (bisacodyl, picosulfuric acid, polyethylene glycol, lactulose, magnesium citrate and others) also appear at Moderate level. Metronidazole is **Minor**.
-- Degarelix has been associated with injection-site and hypersensitivity reactions, which matters for the urticaria predictions.
+- **Drug Interactions**: 100 interactions were found in the interaction screening. Major-level interactions include **cisapride** and **dolasetron**. Many moderate-level interactions were also listed, including famotidine, loperamide, bisacodyl, clarithromycin, levofloxacin, ondansetron, granisetron, palonosetron and several laxatives (picosulfuric acid, polyethylene glycol, lactulose, lactitol, magnesium citrate, magnesium hydroxide, castor oil, glycerin, mineral oil). Metronidazole was listed as minor.
+- **Conditions of concern flagged in the data compiled for this report**: long QT syndrome, familial long QT syndrome, torsades de pointes, liver disease, gallbladder disease and potassium deficiency disease. These come from drug-disease relation data, not from label text.
 
-Please refer to the SmPC for the full warnings and contraindications.
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication of hypertrichosis has no clinical trials, no literature and only a weak mechanistic link, so the evidence level is L5. No currently valid EU marketing authorization exists for degarelix, and the safety profile includes QT-related signals and many drug interactions.
+The prediction has no supporting clinical trials or publications, and the mechanistic link is weak because hypertrichosis is generally not androgen-driven. The evidence level is L5 (model prediction only).
 
 **To proceed, the following is needed:**
-- Mechanism of action data (DrugBank) to support a mechanistic-link analysis
-- EMA SmPC warnings and contraindications, which block safety screening
-- Any preclinical or clinical evidence for hypertrichosis, or a refocus on central precocious puberty as a research question, including paediatric safety data and a comparison with GnRH agonists
-- Clarification of the cancelled EU authorization status and of the available dosage forms and routes
+- Any direct clinical or preclinical study of GnRH antagonism in hypertrichosis
+- Detailed mechanism of action data
+- Warnings and contraindications from the SmPC to complete safety screening, including QT-related risk given the interaction findings
+- Clarification of the current licence status of the EU authorizations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

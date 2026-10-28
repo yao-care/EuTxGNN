@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Defibrotide: From Hepatic Veno-Occlusive Disease to Thrombotic Thrombocytopenic Purpura
+## Defibrotide: From Hepatic Veno-Occlusive Disease to Pseudo-von Willebrand Disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be useful for **pseudo-von Willebrand disease** 
 |------|------|
 | Original Indication | Severe hepatic veno-occlusive disease (VOD/SOS) in HSCT therapy, in adults and in adolescents, children and infants over 1 month of age |
 | Predicted New Indication | Pseudo-von Willebrand disease (top-ranked); best-supported alternative: thrombotic thrombocytopenic purpura |
-| TxGNN Prediction Score | 99.91% (pseudo-von Willebrand disease); 99.71% (TTP) |
+| TxGNN Prediction Score | 0.9991 (pseudo-von Willebrand disease); 0.9971 (TTP) |
 | Evidence Level | L5 (pseudo-von Willebrand disease); L3 (TTP) |
-| EU Market Status | Cancelled only (the single authorisation is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold (pseudo-von Willebrand disease); TTP is a research question that would need guardrails |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, defibrotide has proven efficacy in hepatic VOD/SOS after HSCT, a condition driven by injury to the endothelium (the lining of blood vessels). Its endothelial-protective, profibrinolytic and antithrombotic effects are the likely basis for that benefit.
 
-**Pseudo-von Willebrand disease (top prediction).** This is a platelet bleeding disorder caused by a gain-of-function defect in the GPIb-alpha receptor. Defibrotide's effects do not obviously address that defect, and its antithrombotic activity could plausibly worsen bleeding. The high score (0.999) most likely reflects closeness to coagulation and platelet nodes in the knowledge network rather than a true therapeutic rationale. The same reasoning applies to the other highly ranked bleeding and platelet disorders (primary release disorder of platelets, Glanzmann thrombasthenia, Scott syndrome, collagen receptor defect, constitutional thrombocytopenia, congenital factor V deficiency, and fetal and neonatal alloimmune thrombocytopenia). None has any trial or literature support.
+**Pseudo-von Willebrand disease (top prediction).** This is a platelet bleeding disorder caused by a gain-of-function defect in the GPIb-alpha receptor. Defibrotide's effects do not obviously address that defect, and its antithrombotic activity could plausibly worsen bleeding. The high score (0.9991) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same reasoning applies to the other highly ranked bleeding and platelet disorders (primary release disorder of platelets, Glanzmann thrombasthenia, Scott syndrome, collagen receptor defect, constitutional thrombocytopenia, congenital factor V deficiency, and fetal and neonatal alloimmune thrombocytopenia). None has any trial or literature support.
 
 **Thrombotic thrombocytopenic purpura (TTP).** This is biologically plausible. TTP and transplant-associated thrombotic microangiopathy (TA-TMA) involve endothelial injury and small-vessel clots, which overlap with the endothelial mechanism behind defibrotide's approved use. However, the evidence is old, uncontrolled and mostly from HSCT settings. Standard TTP therapy (plasma exchange, immunosuppression, caplacizumab) is well established, so any role for defibrotide would be niche, for example refractory TTP or TA-TMA.
 

@@ -4,17 +4,17 @@ title: Micafungin
 parent: Medium Evidence (L3-L4)
 nav_order: 405
 evidence_level: L3
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Micafungin: predicted new indication Urinary tract infection (disease) (evidence level L3). Approved use: Invasive candidiasis"
 monitor_inn: "Micafungin"
-predicted_indications: ["urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "malignant visceral pleura tumor", "sarcomatoid mesothelioma", "urogenital tuberculosis"]
+predicted_indications: ["urinary tract infection (disease)"]
 ---
 
 # Micafungin
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Micafungin: From Invasive Candidiasis to Urinary Tract Infection
+## Micafungin: urinary tract infection (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **urinary tract infection** (ma
 |------|------|
 | Original Indication | Invasive candidiasis; oesophageal candidiasis; prophylaxis of Candida infection in allogeneic haematopoietic stem-cell transplantation or prolonged neutropenia |
 | Predicted New Indication | Urinary tract infection (disease) |
-| TxGNN Prediction Score | 99.03% |
+| TxGNN Prediction Score | 0.9903 |
 | Evidence Level | L3 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,6 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 
 Candida UTI (candiduria) is a fungal infection within the drug's spectrum, so the prediction is mechanistically plausible. Echinocandins have traditionally been considered poor options for urinary infections because little drug is excreted in urine. However, reports suggest urinary micafungin levels can exceed the MICs of many Candida species (PMID 27424599). This is especially relevant for fluconazole-resistant organisms such as *C. krusei* and *C. glabrata*, and for patients in whom amphotericin B or flucytosine is undesirable, such as transplant recipients.
 
-The other predicted indications are not supported. Bacterial urethritis (Ureaplasma, gonococcal), urogenital tuberculosis, xanthogranulomatous pyelonephritis and uterine inflammatory disease are bacterial, and bacteria lack the drug's target. The mesothelioma and pleural tumour predictions have no mechanistic or clinical basis and are likely artifacts of knowledge-graph clustering. This report therefore focuses on the top-ranked prediction.
 
 ## Clinical Trial Evidence
 

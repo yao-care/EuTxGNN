@@ -4,17 +4,17 @@ title: Pravastatin
 parent: Medium Evidence (L3-L4)
 nav_order: 497
 evidence_level: L4
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Pravastatin: predicted new indication Homozygous familial hypercholesterolemia (evidence level L4). Approved use: Adjunct to diet for mixed hyperlipidaemia in adults at high cardiovas…"
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
+description: "Pravastatin: predicted new indication HIV infectious disease (evidence level L4). Approved use: Pravafenix is indicated as an adjunct to diet and other non-pharmacol…"
 ---
 
 # Pravastatin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Pravastatin: From Mixed Hyperlipidaemia to Homozygous Familial Hypercholesterolemia
+## Pravastatin: HIV infectious disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Pravastatin is a statin, originally authorised in the EU (as part of the fixed-dose product Pravafenix) for mixed hyperlipidaemia in adults at high cardiovascular risk.
-The TxGNN model predicts it may be effective for **homozygous familial hypercholesterolemia**, but the data compiled for this report contain **1 clinical trial** (which tests a different drug) and **13 publications** (mostly reviews of other lipid-lowering agents), so there is no direct pravastatin evidence for this use.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Adjunct to diet for mixed hyperlipidaemia in adults at high cardiovascular risk, to reduce triglycerides and increase HDL-C when LDL-C is adequately controlled on pravastatin 40 mg or another moderate-intensity statin |
-| Predicted New Indication | Homozygous familial hypercholesterolemia |
-| TxGNN Prediction Score | 99.95% |
+| Original Indication | Pravafenix is indicated as an adjunct to diet and other non-pharmacological treatment (e.g. exercise, weight reduction) for the treatment of mixed hyperlipidaemia in adult patients at high cardiovascular risk to reduce triglycerides and increase HDL C when LDL C levels are adequately controlled whil |
+| Predicted New Indication | HIV infectious disease |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -108,7 +107,7 @@ The only support is a high model score. The one linked trial tests a different d
 - Review of current EU authorisations of other pravastatin products to clarify the market situation
 - Comparison against established therapies for this condition (such as PCSK9 inhibitors)
 
-*Other predictions with more relevant evidence:* Heterozygous familial hypercholesterolemia and autosomal dominant hypercholesterolemia have substantial pediatric pravastatin data (evidence level L3), but they represent established statin uses rather than true repurposing. Dyslipidemia in HIV has the largest body of pravastatin-specific trials (evidence level L2) and is an indication for cardiovascular risk management in people with HIV, not treatment of HIV itself.
+Dyslipidemia in HIV has the largest body of pravastatin-specific trials (evidence level L2) and is an indication for cardiovascular risk management in people with HIV, not treatment of HIV itself.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

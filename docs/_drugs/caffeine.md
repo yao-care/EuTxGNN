@@ -4,17 +4,17 @@ title: Caffeine
 parent: AI Predictions (L5)
 nav_order: 120
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Caffeine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Treatment of primary apnoea of premature newborns"
 monitor_inn: "Caffeine"
-predicted_indications: ["nasal cavity disease", "thrombotic disease", "acute laryngopharyngitis", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
+predicted_indications: ["nasal cavity disease", "thrombotic disease", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
 ---
 
 # Caffeine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ there are **no registered clinical trials** and only **3 publications**, none of
 |------|------|
 | Original Indication | Treatment of primary apnoea of premature newborns |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorisations) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -78,8 +78,8 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/001014 | Peyona (previously Nymusa) | Not specified | Treatment of primary apnoea of premature newborns. (cancelled) |
-| EMEA/H/C/005435 | Gencebok | Not specified | Treatment of primary apnoea of premature newborns. (cancelled) |
+| EMEA/H/C/001014 | Peyona (previously Nymusa) | Not specified | Treatment of primary apnoea of premature newborns. (valid) |
+| EMEA/H/C/005435 | Gencebok | Not specified | Treatment of primary apnoea of premature newborns. (valid) |
 
 ## Safety Considerations
 

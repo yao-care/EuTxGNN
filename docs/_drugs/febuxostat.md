@@ -4,17 +4,17 @@ title: Febuxostat
 parent: Medium Evidence (L3-L4)
 nav_order: 254
 evidence_level: L4
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Febuxostat: predicted new indication Hypouricaemia, renal (evidence level L4). Approved use: Treatment of chronic hyperuricaemia where urate deposition has alread…"
+description: "Febuxostat: predicted new indication hypouricemia, renal (evidence level L4). Approved use: Treatment of chronic hyperuricaemia where urate deposition has alread…"
 monitor_inn: "Febuxostat"
-predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "hepatic porphyria", "disorder of phenylalanine metabolism"]
+predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
 ---
 
 # Febuxostat
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Febuxostat: From Chronic Hyperuricaemia to Renal Hypouricaemia
+## Febuxostat: From Chronic Hyperuricaemia to hypouricemia, renal
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Febuxostat is a xanthine oxidase inhibitor originally used to treat chronic hyperuricaemia in patients with gout, and to prevent and treat hyperuricaemia in adults receiving chemotherapy for haematologic malignancies at risk of tumour lysis syndrome.
 The TxGNN model predicts it may be effective for **renal hypouricaemia**, but only **1 clinical trial** (weakly relevant) and **2 publications** (reviews/case-level) are linked to this prediction.
-The mechanistic rationale is weak and the prediction is more likely a knowledge-graph artefact than a real therapeutic opportunity.
+The mechanistic rationale is weak and the prediction is more likely a TxGNN model (deep learning) artefact than a real therapeutic opportunity.
 
 ---
 
@@ -50,10 +50,10 @@ The mechanistic rationale is weak and the prediction is more likely a knowledge-
 |------|------|
 | Original Indication | Treatment of chronic hyperuricaemia where urate deposition has already occurred (including a history of, or presence of, tophus and/or gouty arthritis) |
 | Predicted New Indication | Hypouricaemia, renal |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 3 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ The mechanistic rationale is weak and the prediction is more likely a knowledge-
 
 Detailed mechanism of action data is not available in the data compiled for this report. Febuxostat is known to be a non-purine selective xanthine oxidase inhibitor that lowers serum urate, and its efficacy in chronic hyperuricaemia and gout is established.
 
-Renal hypouricaemia is the opposite problem. Serum urate is already low because of defective renal urate reabsorption (for example, loss of function of URAT1 or GLUT9). A urate-lowering drug has no obvious therapeutic rationale here and could worsen the condition. The high TxGNN score most likely reflects a graph association with urate metabolism rather than a true therapeutic opportunity.
+Renal hypouricaemia is the opposite problem. Serum urate is already low because of defective renal urate reabsorption (for example, loss of function of URAT1 or GLUT9). A urate-lowering drug has no obvious therapeutic rationale here and could worsen the condition. The high TxGNN score (deep learning model) most likely reflects similarities the model learned between related diseases, not biological evidence, rather than a true therapeutic opportunity.
 
 The only plausible link is indirect and speculative. A 2023 case report describes a 16-year-old football player with familial renal hypouricaemia and recurrent exercise-induced acute kidney injury, in whom a non-purine selective xanthine oxidoreductase inhibitor was explored as prophylaxis when hydration alone failed. This is a single-patient observation, not evidence of efficacy.
 
@@ -95,7 +95,7 @@ Other predictions in the list (HPRT partial deficiency and Lesch-Nyhan syndrome)
 | EMEA/H/C/004374 | Febuxostat Viatris (previously Febuxostat Mylan) | Not specified | Chronic hyperuricaemia with urate deposition (including tophus and/or gouty arthritis); prevention and treatment of hyperuricaemia in adults undergoing chemotherapy for haematologic malignan... |
 | EMEA/H/C/004773 | Febuxostat Krka | Not specified | Treatment of chronic hyperuricaemia in conditions where urate deposition has already occurred (including a history, or presence of, tophus and/or gouty arthritis). Indicated in adults. |
 
-All three authorizations are cancelled.
+All three authorizations are valid.
 
 ---
 
@@ -118,7 +118,7 @@ All three authorizations are cancelled.
 **Decision: Hold**
 
 **Rationale:**
-Renal hypouricaemia is a state of already low urate, so lowering urate further has no clear therapeutic logic. The supporting evidence is one weakly relevant trial and two literature items, including a single-patient case report. The high TxGNN score appears to reflect graph association rather than real therapeutic potential. No EU authorizations are currently valid.
+Renal hypouricaemia is a state of already low urate, so lowering urate further has no clear therapeutic logic. The supporting evidence is one weakly relevant trial and two literature items, including a single-patient case report. The high TxGNN score (deep learning model) may reflect similarities the model learned between related diseases, not biological evidence, rather than real therapeutic potential. The drug is marketed, and all 3 of 3 licences are currently valid.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data and the SmPC safety information (warnings and contraindications)

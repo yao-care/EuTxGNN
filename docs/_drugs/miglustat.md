@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Miglustat
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 410
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Miglustat: predicted new indication Tay-Sachs disease (evidence level L2). Approved use: Mild to moderate type 1 Gaucher disease (when enzyme replacement ther…"
+description: "Miglustat: predicted new indication autosomal ichthyosis syndrome with fatal disease course (evidence level L2). Approved use: Mild to moderate type 1 Gaucher disease (when enzyme replacement ther…"
 monitor_inn: "Miglustat"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
 ---
@@ -14,7 +14,7 @@ predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course
 # Miglustat
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Miglustat: From Gaucher Disease and Niemann-Pick Type C to Tay-Sachs Disease
+## Miglustat: From Gaucher Disease and Niemann-Pick Type C to Autosomal Ichthyosis Syndrome with Fatal Disease Course
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ The evidence is mixed: the trials are small, two were terminated, and a randomiz
 |------|------|
 | Original Indication | Mild to moderate type 1 Gaucher disease (when enzyme replacement therapy is unsuitable); progressive neurological manifestations of Niemann-Pick type C disease |
 | Predicted New Indication | Tay-Sachs disease (the rank 1 prediction, autosomal ichthyosis syndrome with fatal disease course, has no supporting evidence, so the report focuses on the best-supported candidate, rank 7) |
-| TxGNN Prediction Score | 99.75% (rank 1 prediction: 99.83%) |
-| Evidence Level | L2 |
-| EU Market Status | Cancelled only (all EU authorizations are cancelled) |
-| Number of Authorizations | 5 (all cancelled) |
+| TxGNN Prediction Score | 0.9975 (rank 1 prediction: 0.9983) |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Authorizations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ---
@@ -125,14 +125,14 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale for Tay-Sachs disease is sound, but the clinical evidence is limited and mixed. The trials are small, mainly assess pharmacokinetics and safety, and two were terminated. The randomized study in late-onset disease showed no clear neurological benefit. All EU authorizations are currently cancelled, and the other nine predictions have no supporting data.
+The mechanistic rationale for Tay-Sachs disease is sound, but the clinical evidence is limited and mixed. The trials are small, mainly assess pharmacokinetics and safety, and two were terminated. The randomized study in late-onset disease showed no clear neurological benefit. The drug is marketed, with all 5 authorizations currently valid, and the other nine predictions have no supporting data.
 
 **To proceed, the following is needed:**
 - Complete SmPC warnings and contraindications (not available in the data compiled for this report), including review of the peripheral neuropathy and renal function signals
 - Detailed mechanism of action data
 - Results of the terminated Phase 3 and Phase 4 trials (NCT03822013, NCT02030015) and an assessment of why they stopped
 - A critical review of the 2023 systematic review and the randomized study, to decide whether any subgroup (for example, by age at onset) warrants a new efficacy trial
-- Clarification of the regulatory pathway, given that all EU authorizations are cancelled
+- Clarification of the regulatory pathway, given that the drug is marketed with 5 valid authorizations of 5
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

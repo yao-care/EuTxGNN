@@ -4,17 +4,17 @@ title: Rimegepant
 parent: AI Predictions (L5)
 nav_order: 524
 evidence_level: L5
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Rimegepant: predicted new indication Migraine with brainstem aura (evidence level L5). Approved use: Acute treatment of migraine with or without aura in adults"
 monitor_inn: "Rimegepant"
-predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "thrombophilia", "Prinzmetal angina", "sciatic neuropathy", "homozygous familial hypercholesterolemia"]
+predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
+description: "Rimegepant: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Vydura is indicated for the Acute treatment of migraine with or witho…"
 ---
 
 # Rimegepant
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Rimegepant: From Migraine to Migraine with Brainstem Aura
+## Rimegepant: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Rimegepant is a CGRP receptor antagonist, originally used for the acute treatment of migraine and the prevention of episodic migraine in adults.
-The TxGNN model predicts it may be effective for **migraine with brainstem aura**, a migraine subtype.
 There are currently **no registered clinical trials** for this subtype. The literature on general migraine (**16 publications** retrieved) provides only indirect support.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute treatment of migraine with or without aura in adults; preventive treatment of episodic migraine in adults with at least 4 migraine attacks per month |
-| Predicted New Indication | Migraine with brainstem aura |
-| TxGNN Prediction Score | 99.94% |
+| Original Indication | Vydura is indicated for the Acute treatment of migraine with or without aura in adults; Preventative treatment of episodic migraine in adults who have at least 4 migraine attacks per month. |
+| Predicted New Indication | Atrophoderma vermiculata |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 (the subtype has no direct study; the available literature covers general migraine only) |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -103,7 +102,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The CGRP-pathway rationale is sound, since brainstem aura is a migraine subtype. However, no trials or subtype-specific literature exist. The only authorization is cancelled, and the label's warnings and contraindications could not be reviewed. Other predicted indications (for example thrombophilia, Prinzmetal angina and familial hypercholesterolemia) have no supporting evidence, and some point to safety concerns rather than benefit.
+The CGRP-pathway rationale is sound, since brainstem aura is a migraine subtype. However, no trials or subtype-specific literature exist. The only authorization is cancelled, and the label's warnings and contraindications could not be reviewed.
 
 **To proceed, the following is needed:**
 - Safety information (warnings and contraindications) from the SmPC. This is currently a blocking gap.

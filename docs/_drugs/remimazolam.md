@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **insomnia**, but there are cur
 |------|------|
 | Original Indication | Procedural sedation in adults; intravenous induction and maintenance of general anaesthesia (50 mg) in adults |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,7 +61,7 @@ Sedation and insomnia treatment both rely on enhancing inhibitory GABAergic sign
 
 However, the drug's pharmacokinetics work against this use. It is given intravenously and is rapidly broken down by tissue esterases, so its duration of action is very short. That profile suits procedural sedation but not sleep maintenance. The data compiled for this report describe no oral or other chronic-use formulation. The link is therefore based on class knowledge rather than on a documented mechanism record.
 
-A second predicted indication, **alcohol withdrawal delirium** (score 99.30%), is also listed. Benzodiazepines are the standard of care for alcohol withdrawal, and remimazolam's rapid onset and offset could in theory allow fast titration in intensive care. This remains a hypothesis with no supporting trials or literature. It would need to be weighed against established agents such as diazepam, lorazepam and phenobarbital, and an ultra-short-acting agent may require continuous infusion to provide the sustained dosing that resistant withdrawal needs.
+A second predicted indication, **alcohol withdrawal delirium** (score 0.9930), is also listed. Benzodiazepines are the standard of care for alcohol withdrawal, and remimazolam's rapid onset and offset could in theory allow fast titration in intensive care. This remains a hypothesis with no supporting trials or literature. It would need to be weighed against established agents such as diazepam, lorazepam and phenobarbital, and an ultra-short-acting agent may require continuous infusion to provide the sustained dosing that resistant withdrawal needs.
 
 ## Clinical Trial Evidence
 

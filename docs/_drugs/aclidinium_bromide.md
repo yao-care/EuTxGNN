@@ -8,6 +8,7 @@ nav_order: 22
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aclidinium Bromide
@@ -51,8 +52,8 @@ A full repurposing evaluation cannot be completed until these gaps are resolved.
 | Predicted New Indication | No predictions available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction only, but no predictions were returned |
-| Market Status | Not marketed (0 authorizations on record) |
-| Number of Authorizations | 0 |
+| Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | **Hold** |
 
 ---

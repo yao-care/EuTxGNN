@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cabazitaxel
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 117
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cabazitaxel: predicted new indication Female breast carcinoma (evidence level L3). Approved use: Treatment of patients with hormone refractory metastatic prostate can…"
 monitor_inn: "Cabazitaxel"
-predicted_indications: ["female breast carcinoma", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-hemoglobin E disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "HIV infectious disease", "hyperthyroidism", "neuroblastoma", "rheumatoid arthritis"]
+predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin d disease syndrome", "HIV infectious disease", "hyperthyroidism", "neuroblastoma", "rheumatoid arthritis"]
+last_modified_at: 2026-10-27
+description: "Cabazitaxel: predicted new indication female breast carcinoma (evidence level L5). Approved use: Treatment of patients with hormone refractory metastatic prostate can…"
 ---
 
 # Cabazitaxel
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,93 +33,89 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Cabazitaxel: From Metastatic Prostate Cancer to Female Breast Carcinoma
+## Cabazitaxel: Taxane microtubule stabilizer → female breast carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Cabazitaxel is a taxane chemotherapy originally used for hormone-refractory metastatic prostate cancer after docetaxel treatment.
-The TxGNN model predicts it may be effective for **female breast carcinoma**,
-with **0 registered clinical trials** and **20 publications** (including one randomised Phase II study) currently supporting this direction.
+Cabazitaxel is a taxane chemotherapy agent that stabilizes microtubules and blocks cell division. The TxGNN model predicts it may be effective for **female breast carcinoma**, with **no registered clinical trials** and **20 publications** currently touching on this direction. These include one randomized phase II neoadjuvant study (GENEVIEVE) and its long-term follow-up, plus a phase I/II combination study in metastatic breast cancer.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Treatment of patients with hormone refractory metastatic prostate cancer previously treated with a docetaxel-containing regimen |
-| Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L3 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 2 (both cancelled) |
-| Recommended Decision | Hold |
+| Original Indication | Treatment of patients with hormone refractory metastatic prostate cancer previously treated with a docetaxel-containing regimen.; Jevtana in combination with prednisone or prednisolone is indicated for the treatment of patients with hormone-refractory metastatic prostate cancer previously treated wi |
+| Predicted New Indication | female breast carcinoma |
+| TxGNN Prediction Score | 0.9992 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known class information, cabazitaxel is a taxane that stabilises microtubules and arrests cell division. It is designed to overcome P-glycoprotein-mediated taxane resistance, which is relevant to taxane-refractory disease.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, cabazitaxel belongs to the taxane class. Taxanes stabilize microtubules and arrest mitosis, and the same class mechanism underlies the taxanes paclitaxel and docetaxel, which are widely used in breast cancer.
 
-Paclitaxel and docetaxel, drugs of the same class, are already established in breast cancer treatment. Cabazitaxel's proven activity in docetaxel-pretreated prostate cancer suggests it may also work in breast tumours that have become resistant to other taxanes.
-
-Preclinical work supports this. In triple-negative breast cancer models, cabazitaxel's effect on macrophages improved CD47-targeted immunotherapy. Nanocarrier formulations also showed activity in breast cancer cell lines and in a patient-derived xenograft. Human data exist from a randomised Phase II neoadjuvant study (GENEVIEVE) and a Phase I/II study with capecitabine in metastatic breast cancer.
+Cabazitaxel was designed to be less affected by P-glycoprotein-mediated taxane resistance. This is relevant to breast tumours that have stopped responding to earlier taxanes. Laboratory work in resistant MCF-7 breast cancer cells showed that cabazitaxel was less cross-resistant than paclitaxel and docetaxel. Preclinical studies in triple-negative breast cancer (TNBC) also point to biological plausibility, including an effect on macrophages that improves CD47-targeted immunotherapy, and nanocarrier formulations active in breast cancer models.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered in the data compiled for this report. Published studies of clinical design are listed in the literature section below.
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+Several publications address cabazitaxel in breast cancer directly. The most relevant are shown first.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [28768217](https://pubmed.ncbi.nlm.nih.gov/28768217/) | 2017 | Randomised Phase II | Eur J Cancer | GENEVIEVE: neoadjuvant cabazitaxel vs weekly paclitaxel, comparing pathological complete response in HER2-negative breast cancer |
-| [38663168](https://pubmed.ncbi.nlm.nih.gov/38663168/) | 2024 | Randomised Phase II (long-term follow-up) | ESMO Open | Long-term outcomes of GENEVIEVE; earlier pCR rate differences between arms were reported |
-| [21339064](https://pubmed.ncbi.nlm.nih.gov/21339064/) | 2011 | Phase I/II | Eur J Cancer | Cabazitaxel plus capecitabine in metastatic breast cancer after anthracycline and taxane treatment |
+| [28768217](https://pubmed.ncbi.nlm.nih.gov/28768217/) | 2017 | Randomized phase II | European Journal of Cancer | GENEVIEVE: neoadjuvant cabazitaxel vs weekly paclitaxel in operable HER2-negative (triple-negative or luminal B) breast cancer, comparing pathological complete response |
+| [38663168](https://pubmed.ncbi.nlm.nih.gov/38663168/) | 2024 | Randomized phase II (long-term follow-up) | ESMO Open | Long-term outcomes of GENEVIEVE, assessing whether the earlier pCR differences translated into survival outcomes |
+| [21339064](https://pubmed.ncbi.nlm.nih.gov/21339064/) | 2011 | Phase I/II | European Journal of Cancer | Cabazitaxel plus capecitabine in metastatic breast cancer after anthracycline and taxane treatment: maximum tolerated dose, safety and activity |
 | [24099585](https://pubmed.ncbi.nlm.nih.gov/24099585/) | 2013 | Phase I | BMC Cancer | Weekly cabazitaxel dose-finding in advanced solid tumours |
-| [23091116](https://pubmed.ncbi.nlm.nih.gov/23091116/) | 2012 | Review | Clin Cancer Res | Cabazitaxel beyond prostate cancer; activity in taxane-resistant cell lines |
-| [33753567](https://pubmed.ncbi.nlm.nih.gov/33753567/) | 2021 | Preclinical | J Immunother Cancer | Cabazitaxel's effect on macrophages improves CD47-targeted immunotherapy in triple-negative breast cancer |
-| [25416788](https://pubmed.ncbi.nlm.nih.gov/25416788/) | 2015 | Preclinical/Review | Mol Cancer Ther | Resistance mechanisms; less cross-resistance than paclitaxel/docetaxel, including in MCF-7 variants |
-| [30529259](https://pubmed.ncbi.nlm.nih.gov/30529259/) | 2019 | Preclinical | J Control Release | Cabazitaxel nanoparticles gave complete remission in 6 of 8 patient-derived breast cancer xenografts |
-| [28504249](https://pubmed.ncbi.nlm.nih.gov/28504249/) | 2017 | Preclinical | Acta Pharmacol Sin | Cabazitaxel polymeric micelles against breast cancer metastasis |
-| [33247980](https://pubmed.ncbi.nlm.nih.gov/33247980/) | 2021 | Review | Br J Clin Pharmacol | Therapeutic drug monitoring-based dose adjustment for taxanes |
+| [33753567](https://pubmed.ncbi.nlm.nih.gov/33753567/) | 2021 | Preclinical | Journal for ImmunoTherapy of Cancer | Cabazitaxel's effect on macrophages improves CD47-targeted immunotherapy in TNBC |
+| [25416788](https://pubmed.ncbi.nlm.nih.gov/25416788/) | 2015 | Resistance mechanism study | Molecular Cancer Therapeutics | Cabazitaxel less cross-resistant than paclitaxel and docetaxel in resistant models, including MCF-7 variants |
+| [30529259](https://pubmed.ncbi.nlm.nih.gov/30529259/) | 2019 | Preclinical | Journal of Controlled Release | Cabazitaxel-loaded nanoparticles gave complete remission in 6 of 8 tumours in a patient-derived breast cancer xenograft |
+| [38562610](https://pubmed.ncbi.nlm.nih.gov/38562610/) | 2024 | Preclinical | International Journal of Nanomedicine | Efficacy of cabazitaxel-loaded PACA nanoparticle variants, following earlier TNBC xenograft results |
+| [28504249](https://pubmed.ncbi.nlm.nih.gov/28504249/) | 2017 | Preclinical | Acta Pharmacologica Sinica | Cabazitaxel polymeric micelles in breast cancer metastasis models |
+| [30521787](https://pubmed.ncbi.nlm.nih.gov/30521787/) | 2019 | Preclinical | Chemistry and Physics of Lipids | Cabazitaxel and thymoquinone co-loaded lipospheres as a combination for breast cancer |
 
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/005178 (cancelled) | Cabazitaxel Accord | Not specified | Treatment of patients with hormone refractory metastatic prostate cancer previously treated with a docetaxel-containing regimen. |
-| EMEA/H/C/002018 (cancelled) | Jevtana | Not specified | Jevtana in combination with prednisone or prednisolone is indicated for the treatment of patients with hormone-refractory metastatic prostate cancer p... |
+| EMEA/H/C/005178 | Cabazitaxel Accord | Not recorded | Treatment of patients with hormone refractory metastatic prostate cancer previously treated with a docetaxel-containing regimen. |
+| EMEA/H/C/002018 | Jevtana | Not recorded | Jevtana in combination with prednisone or prednisolone is indicated for the treatment of patients with hormone-refractory metastatic prostate cancer previously treated with a docetaxel-containing regimen. |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (taxane, microtubule stabiliser) |
-| Myelosuppression Risk | High (neutropenia is a leading toxicity of the taxane class; the knowledge graph also links the drug to neutropenia, leukopenia, thrombocytopenia and anaemia) |
+| Cytotoxicity Classification | Conventional cytotoxic (taxane, antimitotic) |
+| Myelosuppression Risk | High (neutropenia is a leading toxicity of the taxane class; the literature also notes neuropathy) |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
 | Monitoring Items | Complete blood count with differential, liver function, renal function |
 | Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-- **Knowledge-graph contraindication signals** (from the TxGNN knowledge graph, not label text): kidney disease, liver disease, gallbladder disease, thrombocytopenia, neutropenia, agranulocytosis, anaemia, hyperbilirubinaemia (including Gilbert syndrome) and leukopenia.
-- **Drug Interactions**: 100 interactions were recorded. Those listed include the following.
-  - **Major**: deferiprone, samarium (153Sm) lexidronam.
-  - **Moderate**: aprepitant, clarithromycin, clotrimazole, miconazole, metronidazole, tinidazole, simvastatin, rosuvastatin, cobicistat, deferasirox, ticagrelor, chloroquine, disulfiram and others.
+- **Drug Interactions**: 100 interactions were found in the interaction data compiled for this report. Examples:
+  - Major: deferiprone, samarium (153Sm) lexidronam
+  - Moderate: aprepitant, clarithromycin, clotrimazole, metronidazole, miconazole, rosuvastatin, simvastatin, ticagrelor, cobicistat, deferasirox
 
-Please also refer to the SmPC for the full label warnings and contraindications.
+For label warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-Breast carcinoma has biological plausibility and Phase II human data (GENEVIEVE), but there are no registered trials in the compiled data, and the evidence is L3. The EU authorizations are also cancelled, and label-level safety data are missing. This is best treated as a research question rather than a candidate ready to proceed.
+Cabazitaxel is a taxane, and a randomized phase II neoadjuvant breast cancer study (GENEVIEVE) with long-term follow-up, plus a phase I/II study in metastatic disease, directly examine the drug in breast cancer. However, there are no registered trials in the data compiled for this report and no confirmatory phase III evidence, so the prediction remains a research question rather than an established use. Its cytotoxic and myelosuppressive profile requires careful safeguards.
 
 **To proceed, the following is needed:**
-- Label warnings and contraindications from the EMA package insert (currently a blocking gap)
-- Mechanism of action data from DrugBank
-- A full review of GENEVIEVE efficacy and safety results versus established taxanes
-- Clarification of why the EU authorizations were cancelled, and the route to any new access
-- A haematological safety plan, given the high myelosuppression risk
+- Review of the GENEVIEVE outcomes (pCR and long-term survival) against standard taxanes to judge whether cabazitaxel offers any advantage in breast cancer
+- Detailed mechanism of action data (MOA)
+- Warnings and contraindications from the SmPC, followed by a safety monitoring plan
+- Registered trial data to confirm current research activity in this indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Sitagliptin
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 566
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Sitagliptin: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 2 diabetes mellitus (improving glycaemic control in adults)"
-monitor_inn: "Sitagliptin"
-predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "autoimmune oophoritis"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Sitagliptin: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Sitagliptin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,55 +32,51 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Sitagliptin: From Type 2 Diabetes Mellitus to Opsismodysplasia
+<!-- known-uses-page -->
+<!-- description: Sitagliptin: known uses and market status in the European Union; currently no new candidate indication -->
+## Sitagliptin: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model has no candidate indication with a score of 0.99 or higher for Sitagliptin, so there is currently no new predicted indication. The uses recorded for this drug are listed below. They come from licence records, not from model predictions.
 
-Sitagliptin is a DPP-4 inhibitor, originally used to improve blood sugar control in adults with type 2 diabetes mellitus.
-The TxGNN model predicts it may be effective for **opsismodysplasia**, a rare skeletal dysplasia, but **no clinical trials and no publications** currently support this prediction.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 diabetes mellitus (improving glycaemic control in adults) |
-| Predicted New Indication | Opsismodysplasia |
-| TxGNN Prediction Score | 98.87% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 6 (all cancelled) |
-| Recommended Decision | Hold |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 3 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 6 of 6) |
+| Number of Authorizations | 6 (valid: 6) |
 
-## Why is This Prediction Reasonable?
+## Known uses recorded for this drug
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, sitagliptin belongs to the DPP-4 inhibitor class. It raises active incretin hormone levels (GLP-1 and GIP), which supports insulin secretion and glucose control in type 2 diabetes.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| diabetes mellitus, type 2 | Licence in another country |
 
-Opsismodysplasia is a rare skeletal dysplasia caused by mutations in INPPL1 (SHIP2). No plausible link to DPP-4 inhibition or incretin-mediated glucose control is evident. The high prediction score is a computational result only and is not backed by mechanistic or clinical data.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-Other top-ranked predictions show the same pattern. They include focal stiff limb syndrome, classic stiff person syndrome, thiamine-responsive dysfunction syndrome, several localized lipodystrophies, pancreatic agenesis and autoimmune oophoritis. Some of these probably reflect diabetes comorbidity or metabolic-network proximity rather than a real treatment effect.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available for opsismodysplasia.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| diabetes mellitus |
+| type 2 diabetes mellitus |
 
 ## EU Market Information
 
-All six EU authorizations for sitagliptin are cancelled. Dosage form was not recorded in the data.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000722 | Januvia | Not specified | Adults with type 2 diabetes: monotherapy, dual or triple oral therapy, and add-on to insulin to improve glycaemic control... |
-| EMEA/H/C/000762 | Xelevia | Not specified | Adults with type 2 diabetes: monotherapy, dual or triple oral therapy, and add-on to insulin to improve glycaemic control... |
-| EMEA/H/C/005598 | Sitagliptin Accord | Not specified | Adults with type 2 diabetes: monotherapy, dual or triple oral therapy, and add-on to insulin to improve glycaemic control... |
-| EMEA/H/C/001234 | Ristaben | Not specified | Adults with type 2 diabetes: monotherapy, dual or triple oral therapy, and add-on to insulin to improve glycaemic control... |
-| EMEA/H/C/000910 | Tesavel | Not specified | Patients with type 2 diabetes: monotherapy, dual or triple oral therapy, and add-on to insulin to improve glycaemic control... |
-
-A sixth authorization, Sitagliptin SUN (EMEA/H/C/005741), is also cancelled and has the same type 2 diabetes indication.
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/000722 | Januvia |  | Valid |
+| EMEA/H/C/000762 | Xelevia |  | Valid |
+| EMEA/H/C/005598 | Sitagliptin Accord |  | Valid |
+| EMEA/H/C/001234 | Ristaben |  | Valid |
+| EMEA/H/C/000910 | Tesavel |  | Valid |
+| EMEA/H/C/005741 | Sitagliptin SUN |  | Valid |
 
 ## Safety Considerations
 
@@ -91,18 +86,6 @@ A sixth authorization, Sitagliptin SUN (EMEA/H/C/005741), is also cancelled and 
 
 Please refer to the SmPC for the full warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction rests on a model score alone (Evidence Level L5). There are no trials or publications for opsismodysplasia, and no mechanistic connection between DPP-4 inhibition and INPPL1-related bone disease. All EU authorizations for sitagliptin are also cancelled.
-
-**To proceed, the following is needed:**
-- Mechanism of action data and a biological rationale linking DPP-4 or incretin pathways to INPPL1/SHIP2 biology
-- Preclinical evidence in relevant models of opsismodysplasia
-- Official warnings and contraindications from the SmPC, to replace the knowledge-graph-derived list
-- A review of the other predicted indications, since none have clinical support. The most plausible leads would be those with an immune or diabetes link, such as stiff person syndrome, and they still need mechanistic evidence first.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,14 +7,15 @@ description: "Oritavancin (Diphosphate) drug repurposing predictions from TxGNN.
 parent: AI Predictions (L5)
 nav_order: 424
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Oritavancin (Diphosphate)
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | Bacteroidaceae infectious disease | 99.48% | DL |
-| 2 | ophthalmic herpes zoster | 99.03% | DL |
-| 3 | Mycoplasma pneumoniae pneumonia | 99.01% | DL |
-| 4 | skin disease caused by infection | 99.01% | DL |
-| 5 | anaerobic bacteria infectious disease | 99.00% | DL |
-| 6 | orbital cellulitis | 98.98% | DL |
-| 7 | infectious mononucleosis | 98.85% | DL |
-| 8 | tinea corporis | 98.58% | DL |
-| 9 | postinfectious vasculitis | 98.38% | DL |
-| 10 | post-bacterial disorder | 98.37% | DL |
-| 11 | post-infectious syndrome | 98.35% | DL |
-| 12 | acute contagious conjunctivitis | 98.22% | DL |
-| 13 | infective urethral stricture | 98.21% | DL |
-| 14 | otitis externa | 98.10% | DL |
-| 15 | infection-related hemolytic uremic syndrome | 98.02% | DL |
-| 16 | Chagas cardiomyopathy | 98.00% | DL |
-| 17 | furuncular myiasis | 97.82% | DL |
-| 18 | wound myiasis | 97.82% | DL |
-| 19 | creeping myiasis | 97.82% | DL |
-| 20 | myiasis | 97.77% | DL |
 
 *Showing top 20 of 50 predictions.*
 

@@ -4,17 +4,17 @@ title: Deferasirox
 parent: Medium Evidence (L3-L4)
 nav_order: 179
 evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Deferasirox: predicted new indication HIV infectious disease (evidence level L4). Approved use: Chronic iron overload due to frequent blood transfusions in beta thal…"
+indication_count: 5
+last_modified_at: 2026-10-28
 monitor_inn: "Deferasirox"
-predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
+predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
+description: "Deferasirox: predicted new indication HIV infectious disease (evidence level L4). Approved use: Deferasirox Mylan is indicated for the treatment of chronic iron over…"
 ---
 
 # Deferasirox
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Deferasirox: From Transfusional Iron Overload to HIV Infectious Disease
+## Deferasirox: HIV infectious disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but there are currently **0 clinical trials** and only **2 publications** (one p
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic iron overload due to frequent blood transfusions in beta thalassaemia major (aged 6 years and older), and in other settings where deferoxamine is contraindicated or inadequate (other anaemias, non-transfusion-dependent thalassaemia syndromes) |
+| Original Indication | Deferasirox Mylan is indicated for the treatment of chronic iron overload due to frequent blood transfusions (?7 ml/kg/month of packed red blood cells) in patients with beta thalassaemia major aged 6 years and older the treatment of chronic iron overload due to blood transfusions when deferoxamine t |
 | Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 99.40% |
+| TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 3 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -64,7 +64,7 @@ The link to HIV is indirect and rests on iron homeostasis. Iron availability is 
 
 The other top-ranked predictions have even less support:
 
-- **Chronic hepatitis C infection** (99.39%): Iron overload is common in chronic hepatitis C and may worsen liver injury, so chelation is conceptually plausible. The only cited paper is a methodological study of ferritin and hemosiderin iron, with no data on deferasirox. Evidence level L5.
+- **Chronic hepatitis C infection** (0.9939): Iron overload is common in chronic hepatitis C and may worsen liver injury, so chelation is conceptually plausible. The only cited paper is a methodological study of ferritin and hemosiderin iron, with no data on deferasirox. Evidence level L5.
 - **Beta-thalassaemia with other manifestations, hereditary pyropoikilocytosis and pyruvate kinase deficiency** (98.5–98.6%): These are anaemias with iron overload that largely overlap with the existing label. They are not true repurposing candidates. No specific data were provided, so these are classed as L4 (mechanism-based only).
 - **Neurodevelopmental disorder, obsolete familial combined hyperlipidemia, dermatofibrosarcoma protuberans, simian immunodeficiency virus infection and feline AIDS**: These are model predictions only, with no mechanistic rationale or evidence provided. The last two are animal diseases and are not relevant to human repurposing.
 
@@ -87,7 +87,7 @@ Currently no related clinical trials registered.
 | EMEA/H/C/005156 | Deferasirox Accord | Not stated | Deferasirox Accord is indicated for the treatment of chronic iron overload due to frequent blood transfusions (≥7 ml/kg/month of packed... |
 | EMEA/H/C/000670 | Exjade | Not stated | Exjade is indicated for the treatment of chronic iron overload due to frequent blood transfusions (≥7 ml/kg/month of packed red blood... |
 
-All three authorizations are listed as cancelled.
+All three authorizations are listed as valid.
 
 ## Safety Considerations
 
@@ -101,13 +101,13 @@ Please refer to the SmPC for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The HIV prediction has a high model score but no clinical trials, and its only supporting study is an in vitro paper with an indirect iron-homeostasis link. All EU authorizations are currently cancelled, and label-level safety data are missing. The evidence supports a research question, not a development decision.
+The HIV prediction has a high model score but no clinical trials, and its only supporting study is an in vitro paper with an indirect iron-homeostasis link. The drug is marketed, and all three authorizations are currently valid. Label-level safety data are missing. The evidence supports a research question, not a development decision.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank)
 - Label warnings and contraindications from the SmPC (for safety screening)
 - Direct preclinical data on deferasirox in HIV models, to establish the direction and size of any effect
-- A safety assessment for people living with HIV, given the knowledge-graph signals for liver, kidney and blood-cell disorders and the major interactions listed above
+- A safety assessment for people living with HIV, given the liver, kidney and blood-cell disorder signals and the major interactions listed above
 - Clarification of why the EU authorizations were cancelled and whether this affects feasibility
 ## Disclaimer
 

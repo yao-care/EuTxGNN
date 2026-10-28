@@ -4,17 +4,17 @@ title: Memantine
 parent: AI Predictions (L5)
 nav_order: 392
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Memantine: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Treatment of patients with moderate to severe Alzheimer's disease"
 monitor_inn: "Memantine"
-predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura", "rheumatoid arthritis", "nephrogenic syndrome of inappropriate antidiuresis", "atrophoderma vermiculata", "migraine with or without aura, susceptibility to", "ulerythema ophryogenesis", "brachydactyly-syndactyly syndrome"]
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
 ---
 
 # Memantine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Memantine was originally authorised in the EU for moderate to severe Alzheimer's
 |------|------|
 | Original Indication | Treatment of patients with moderate to severe Alzheimer's disease |
 | Predicted New Indication | Pulmonary hypertension |
-| TxGNN Prediction Score | 99.54% |
+| TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 (model prediction only) |
-| EU Market Status | Cancelled only (no currently valid authorisations) |
-| Number of Authorizations | 8 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 8 of 8) |
+| Number of Authorizations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,11 +62,8 @@ For pulmonary hypertension, the link is weak. One paper (PMID 33500723) notes th
 
 | Rank | Predicted Indication | Score | Evidence Level | Note |
 |---|---|---|---|---|
-| 2 | Migraine disorder | 99.52% | L2 | Completed Phase 3 trial (n=33), reviews, meta-analyses; evidence described as limited |
-| 4 | Migraine with brainstem aura | 99.41% | L3 | Evidence extrapolated from migraine without aura |
-| 5 | Rheumatoid arthritis | 98.73% | L4 | Preclinical/in vitro only |
-| 8 | Migraine with or without aura, susceptibility to | 98.43% | L3 | Evidence inherited from the broader migraine indication |
-| 3, 6, 7, 9, 10 | Kyphoscoliotic heart disease, nephrogenic syndrome of inappropriate antidiuresis, atrophoderma vermiculata, ulerythema ophryogenesis, brachydactyly-syndactyly syndrome | 98.1–99.4% | L5 | No evidence or mechanistic link; prediction only |
+| 2 | Migraine disorder | 0.9952 | L2 | Completed Phase 3 trial (n=33), reviews, meta-analyses; evidence described as limited |
+| 4 | Migraine with brainstem aura | 0.9941 | L5 | Evidence extrapolated from migraine without aura |
 
 ## Clinical Trial Evidence
 
@@ -87,7 +84,7 @@ For reference, the only completed trial identified across the predicted indicati
 
 ## EU Market Information
 
-All authorisations are cancelled; none is currently valid.
+The drug is marketed; all 8 licences are currently valid (8 of 8).
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -114,7 +111,7 @@ Please refer to the SmPC for the full safety information, including warnings and
 **Decision: Hold**
 
 **Rationale:**
-The pulmonary hypertension prediction rests on a very high model score alone. No trials exist, and the two retrieved papers do not show that memantine itself works in this disease; one concerns a different compound. The evidence level is L5. In addition, all EU authorisations are cancelled.
+The pulmonary hypertension prediction rests on a very high model score alone. No trials exist, and the two retrieved papers do not show that memantine itself works in this disease; one concerns a different compound. The evidence level is L5. In addition, the drug is marketed, with 8 valid licences out of 8.
 
 **To proceed, the following is needed:**
 - Preclinical studies of memantine itself in pulmonary hypertension models, and review of the MN-08 programme to judge whether it is relevant to memantine

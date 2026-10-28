@@ -7,14 +7,15 @@ description: "Macimorelin Acetate drug repurposing predictions from TxGNN. Evide
 parent: AI Predictions (L5)
 nav_order: 360
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Macimorelin Acetate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | hypertrichosis (disease) | 98.31% | DL |
-| 2 | Ambras type hypertrichosis universalis congenita | 97.90% | DL |
-| 3 | malformation syndrome with odontal and/or periodontal component | 97.81% | DL |
-| 4 | syndrome with a Dandy-Walker malformation as major feature | 97.81% | DL |
-| 5 | isolated genetic hair shaft abnormality | 97.67% | DL |
-| 6 | allergic urticaria | 93.98% | DL |
-| 7 | anomalous left coronary artery from the pulmonary artery | 90.29% | DL |
-| 8 | myocardial ischemia | 89.85% | DL |
-| 9 | cold urticaria | 89.81% | DL |
-| 10 | coronary artery disease | 89.03% | DL |
-| 11 | nephrogenic syndrome of inappropriate antidiuresis | 86.98% | DL |
-| 12 | familial isolated trichomegaly | 86.81% | DL |
-| 13 | mycotic corneal ulcer | 83.42% | DL |
-| 14 | papillary conjunctivitis | 80.56% | DL |
-| 15 | chronic thromboembolic pulmonary hypertension | 80.37% | DL |
-| 16 | recalcitrant atopic dermatitis | 80.25% | DL |
-| 17 | uterine polyp | 80.14% | DL |
-| 18 | lissencephaly | 80.09% | DL |
-| 19 | polyp of vocal cord | 80.04% | DL |
-| 20 | polyp of middle ear | 79.87% | DL |
 
 *Showing top 20 of 50 predictions.*
 

@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **hypoalphalipoproteinemia** (l
 |------|------|
 | Original Indication | Symptomatic treatment of chronic constipation in adults in whom laxatives fail to provide adequate relief |
 | Predicted New Indication | Hypoalphalipoproteinemia |
-| TxGNN Prediction Score | 99.82% |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data was not available in the data compiled for this report. Based on general pharmacology, prucalopride is a selective 5-HT4 receptor agonist that enhances gastrointestinal motility, and its efficacy in chronic constipation is established.
 
-For the top-ranked prediction, hypoalphalipoproteinemia, no plausible mechanistic link could be identified. HDL metabolism and lipoprotein regulation have no known connection to 5-HT4 agonism, so the high score looks like an artifact of the knowledge-graph prediction rather than a pharmacological signal. The other top predictions are similarly weak:
+For the top-ranked prediction, hypoalphalipoproteinemia, no plausible mechanistic link could be identified. HDL metabolism and lipoprotein regulation have no known connection to 5-HT4 agonism, so the high score looks like an artifact of the TxGNN model (deep learning) prediction rather than a pharmacological signal. The other top predictions are similarly weak:
 
 - **Lipid disorders** (homozygous familial hypercholesterolemia, familial combined hyperlipidemia): no mechanistic rationale. The first stems from LDL receptor pathway defects, and the second is an obsolete ontology term.
 - **Infections** (oral candidiasis, strongyloidiasis, HIV): prucalopride has no antifungal, antiparasitic or antiviral action.
@@ -99,7 +99,7 @@ Please refer to the SmPC for label warnings and contraindications, which were no
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, hypoalphalipoproteinemia, has no clinical trials, no literature and no plausible mechanistic link (Evidence Level L5). The high TxGNN score is likely a graph-based artifact. In addition, the EU authorization for Resolor is currently cancelled.
+The top prediction, hypoalphalipoproteinemia, has no clinical trials, no literature and no plausible mechanistic link (Evidence Level L5). The high TxGNN score (0.9982) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. In addition, the drug is marketed in this country, with 1 valid licence out of 1.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA) from DrugBank

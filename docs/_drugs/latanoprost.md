@@ -4,17 +4,17 @@ title: Latanoprost
 parent: AI Predictions (L5)
 nav_order: 355
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Latanoprost: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Reduction of elevated intraocular pressure (IOP) in adult patients wi…"
+indication_count: 9
 monitor_inn: "Latanoprost"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
+last_modified_at: 2026-10-27
+description: "Latanoprost: predicted new indication visceral calciphylaxis (evidence level L5). Approved use: Catiolanze is indicated for the reduction of elevated intraocular pre…"
 ---
 
 # Latanoprost
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,30 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Latanoprost: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
+## Latanoprost: prostaglandin F2-alpha analogue (FP receptor agonist) → visceral calciphylaxis (visceral calciphylaxis)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Latanoprost is a prostaglandin F2-alpha analogue, originally used to lower elevated intraocular pressure in open-angle glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **primary hereditary glaucoma**,
-but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
+Latanoprost is a prostaglandin analogue used as an eye drop. The TxGNN model predicts it may be effective for **visceral calciphylaxis (visceral calciphylaxis)** with a score of **0.9983**. The data compiled for this report contain **0 clinical trials** and **0 publications** supporting this direction, so it remains a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Reduction of elevated intraocular pressure (IOP) in adult patients with open angle glaucoma or ocular hypertension; also in children from 4 years of age and adolescents with elevated IOP and paediatric glaucoma |
-| Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.88% |
+| Original Indication | Catiolanze is indicated for the reduction of elevated intraocular pressure (IOP) in adult patients with open angle glaucoma or ocular hypertension. Catiolanze is indicated for the reduction of elevated IOP in children from 4 years of age and adolescents with elevated IOP and paediatric glaucoma. &nb |
+| Predicted New Indication | visceral calciphylaxis (visceral calciphylaxis) |
+| TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, latanoprost is a prostaglandin F2-alpha analogue that lowers intraocular pressure by increasing uveoscleral outflow of aqueous humour. This general pharmacology comes from background knowledge, not from the compiled data.
+Detailed mechanism-of-action data for latanoprost is not available in the data compiled for this report. Based on general pharmacology, latanoprost is a prostaglandin F2-alpha analogue that acts on the FP receptor.
 
-Primary hereditary glaucoma is a form of glaucoma in which raised intraocular pressure is also the main treatable factor. Because latanoprost is already authorized for open-angle glaucoma and paediatric glaucoma, this prediction is closer to an extension of the existing use than a true repurposing. Mechanistically, pressure lowering could be applicable, but no disease-specific data support it yet.
-
-The other top predictions include hypotrichosis conditions (scalp hypotrichosis and congenital hypotrichosis milia). They have a plausible rationale, because prostaglandin F2-alpha analogues are known to lengthen eyelashes. This remains general reasoning, not supplied evidence. Predictions such as visceral calciphylaxis, the thoracic outlet syndromes, gastric angiodysplasia, blue toe syndrome and lymphangiectasis show no clear mechanistic link. A topical ocular drug is also unlikely to reach relevant systemic exposure.
+The data do not support a clear mechanistic link to visceral calciphylaxis. Calciphylaxis involves vascular calcification and microvascular thrombosis. A topical eye drop is unlikely to reach meaningful systemic exposure to influence these processes. The high score (0.9983) is therefore a statistical output of the model, not backed by clinical evidence. The prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
@@ -74,28 +70,27 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/005933 (cancelled) | Catiolanze | Not specified | Reduction of elevated intraocular pressure (IOP) in adult patients with open angle glaucoma or ocular hypertension. Catiolanze is indicated for... |
+| EMEA/H/C/005933 | Catiolanze | Not recorded | Reduction of elevated intraocular pressure in adults with open angle glaucoma or ocular hypertension, and in children from 4 years of age and adolescents with paediatric glaucoma |
 
 ## Safety Considerations
 
-- **Contraindications from the knowledge graph (not label text)**: The TxGNN knowledge graph links latanoprost to contraindications in the following eye conditions: uveitis, iris disease, ciliary body disease, panuveitis, macular retinal edema, cystoid macular edema, iritis, conjunctivitis and acute contagious conjunctivitis.
-- **Drug Interactions**: The interaction query returned 100 records. The 20 shown include calcitriol, glimepiride, doxycycline, clotrimazole, lansoprazole, cimetidine, atropine, pantoprazole, mesalazine, acarbose, morphine, metformin, omeprazole, sucralfate, rosiglitazone, vancomycin, lactulose, triamcinolone, prednisone and simvastatin. All are of unknown severity level, so their clinical significance is not established.
+- **Drug Interactions**: An interaction screen returned 100 potentially interacting drugs, but none has a severity level assigned. Examples include calcitriol, glimepiride, doxycycline, metformin, omeprazole, morphine, prednisone, triamcinolone and simvastatin. Clinical significance is not established from these data.
+- **Conditions flagged as contraindicated in the compiled data (not from label text)**: uveitis, iris disease, ciliary body disease, panuveitis, macular retinal edema, cystoid macular edema, iritis, conjunctivitis, acute contagious conjunctivitis.
 
-Please refer to the SmPC for warnings and label contraindications.
+Please refer to the SmPC for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (99.88%), but there are no clinical trials or publications for primary hereditary glaucoma, so the evidence level is L5. The only authorization in the EU is cancelled, and label-based safety information is missing. The prediction also largely overlaps with the already approved glaucoma indications. It is best treated as a research question, not as a development candidate.
+The prediction rests on the model score alone. No clinical trials or publications address visceral calciphylaxis, and the mechanism is not plausible for a topical ocular product with minimal systemic exposure.
 
 **To proceed, the following is needed:**
-- Label warnings and contraindications from the EMA product information (SmPC), which is currently the main safety gap
-- Mechanism of action data from DrugBank
-- A literature and trial search specific to primary hereditary glaucoma, including paediatric and congenital forms
-- Clarification of the current EU market status, including other latanoprost products
-- Review of the knowledge-graph contraindications (uveitis, macular oedema, conjunctivitis) against the target population
+- Any preclinical or clinical study directly addressing latanoprost in visceral calciphylaxis
+- Detailed mechanism-of-action data
+- A route and exposure assessment, since the known product is a topical ocular formulation
+- Full safety information from the SmPC
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

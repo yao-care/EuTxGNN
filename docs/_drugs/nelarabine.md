@@ -4,17 +4,17 @@ title: Nelarabine
 parent: AI Predictions (L5)
 nav_order: 422
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Nelarabine: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). Approved use: T-cell acute lymphoblastic leukaemia (T-ALL) and T-cell lymphoblastic…"
 monitor_inn: "Nelarabine"
-predicted_indications: ["relapsing-remitting multiple sclerosis", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "extrahepatic bile duct rhabdomyosarcoma", "pancreatic adenocarcinoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
+predicted_indications: ["relapsing-remitting multiple sclerosis"]
+description: "Nelarabine: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). Approved use: Nelarabine is indicated for the treatment of patients with T-cell acu…"
 ---
 
 # Nelarabine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Nelarabine: From T-Cell Acute Lymphoblastic Leukaemia to Relapsing-Remitting Multiple Sclerosis
+## Nelarabine: Relapsing-remitting multiple sclerosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,19 +45,19 @@ The TxGNN model predicts it may be effective for **relapsing-remitting multiple 
 
 | Item | Content |
 |------|------|
-| Original Indication | T-cell acute lymphoblastic leukaemia (T-ALL) and T-cell lymphoblastic lymphoma (T-LBL) that has not responded to, or has relapsed after, at least two chemotherapy regimens |
+| Original Indication | Nelarabine is indicated for the treatment of patients with T-cell acute lymphoblastic leukaemia (T-ALL) and T-cell lymphoblastic lymphoma (T-LBL) whose disease has not responded to or has relapsed following treatment with at least two chemotherapy regimens. Due to the small patient populations in th |
 | Predicted New Indication | Relapsing-remitting multiple sclerosis |
-| TxGNN Prediction Score | 99.43% |
+| TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Nelarabine is known to be a purine nucleoside analogue that is selectively toxic to T-lymphoblasts, and its efficacy in T-cell malignancies has been established.
 
-The only plausible link is class-level. Other lymphocyte-depleting purine analogues, such as cladribine, are used in multiple sclerosis, so a drug that depletes lymphocytes could in theory resemble them. The prediction is therefore best viewed as a graph-based hypothesis, not a mechanistically supported one.
+The only plausible link is class-level. Other lymphocyte-depleting purine analogues, such as cladribine, are used in multiple sclerosis, so a drug that depletes lymphocytes could in theory resemble them. The prediction is therefore best viewed as a hypothesis from the TxGNN model (deep learning), whose score may reflect similarities the model learned between related diseases, not biological evidence, and it is not a mechanistically supported one.
 
 The hypothesis also has a serious problem. Nelarabine carries a known severe neurotoxicity warning, including demyelination and Guillain-Barré-like ascending neuropathy. Applying it to a demyelinating disease of the central nervous system is highly unfavourable, and the knowledge graph also lists demyelinating disease and inflammatory demyelinating polyradiculoneuropathy among its contraindication-related conditions.
 
@@ -80,7 +80,6 @@ Currently no related literature available for relapsing-remitting multiple scler
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (purine nucleoside antimetabolite) |
-| Myelosuppression Risk | High (the knowledge graph links the drug to neutropenia, thrombocytopenia, anaemia and agranulocytosis) |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
 | Monitoring Items | Complete blood count with differential, liver and renal function, and neurological assessment |
 | Handling Protection | Must follow cytotoxic drug handling regulations |
@@ -111,10 +110,6 @@ Nine further predictions were reviewed. All are rated **Hold**.
 
 | Predicted Indication | TxGNN Score | Evidence Level | Comment |
 |------|------|------|------|
-| Hodgkin lymphoma | 98.23% | L4 | Three Phase 2 trials of nelarabine (506U78) in other lymphomas give only indirect support, and none studied Hodgkin lymphoma. Reed-Sternberg cells are B-cell derived. |
-| Chronic lymphocytic leukaemia/small lymphocytic lymphoma (two entries) | 98.65% | L5 | Purine analogues are active in CLL as a class, but nelarabine is T-cell selective and CLL is a B-cell disease. The two entries are likely redundant. |
-| Rhabdomyosarcoma and its subtypes (vaginal botryoid, extrahepatic bile duct, parameningeal) | 98.0–98.3% | L5 | No mechanistic link or evidence. Parameningeal disease adds concern given the neurotoxicity. |
-| Pancreatic adenocarcinoma | 98.07% | L5 | The one linked publication is unrelated to nelarabine, so it provides no support. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

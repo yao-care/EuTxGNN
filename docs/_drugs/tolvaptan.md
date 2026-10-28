@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tolvaptan
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 628
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Tolvaptan: predicted new indication Polycystic kidney disease 3 with or without polycystic liver disease (evidence level L1). Approved use: Hyponatraemia secondary to the syndrome of inappropriate an…"
 monitor_inn: "Tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
+description: "Tolvaptan: predicted new indication Renal-hepatic-pancreatic dysplasia (evidence level L5). Approved use: Tolvaptan is indicated in adults for the treatment of hyponatremia se…"
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Tolvaptan: From SIADH-Related Hyponatraemia to Polycystic Kidney Disease 3 (With or Without Polycystic Liver Disease)
+## Tolvaptan: Renal-hepatic-pancreatic dysplasia
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Tolvaptan is a vasopressin V2 receptor antagonist, originally authorised in the EU to treat hyponatraemia caused by SIADH and to slow the progression of autosomal dominant polycystic kidney disease (ADPKD).
-The TxGNN model predicts it may be effective for **polycystic kidney disease 3 with or without polycystic liver disease**.
 Currently **no registered clinical trials** exist for this exact subtype, but **19 publications** support the direction, including two RCTs in ADPKD.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hyponatraemia secondary to the syndrome of inappropriate antidiuretic hormone secretion (SIADH) |
-| Predicted New Indication | Polycystic kidney disease 3 with or without polycystic liver disease |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L1 |
-| EU Market Status | ✗ Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 3 (all cancelled) |
+| Original Indication | Tolvaptan is indicated in adults for the treatment of hyponatremia secondary to the syndrome of inappropriate antidiuretic hormone secretion (SIADH).; Treatment of adult patients with hyponatraemia secondary to syndrome of inappropriate antidiuretic-hormone secretion (SIADH).; Jinarc is indicated to |
+| Predicted New Indication | Renal-hepatic-pancreatic dysplasia |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -85,9 +84,9 @@ Currently no related clinical trials registered for this specific subtype. The p
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/005961 | Tolvaptan Accord (cancelled) | Not specified | Hyponatraemia secondary to SIADH in adults |
-| EMEA/H/C/000980 | Samsca (cancelled) | Not specified | Hyponatraemia secondary to SIADH in adults |
-| EMEA/H/C/002788 | Jinarc (cancelled) | Not specified | Slowing progression of cyst development and renal insufficiency of ADPKD in adults with CKD stage 1 to 3 with evidence of rapidly progressing disease |
+| EMEA/H/C/005961 | Tolvaptan Accord (valid) | Not specified | Hyponatraemia secondary to SIADH in adults |
+| EMEA/H/C/000980 | Samsca (valid) | Not specified | Hyponatraemia secondary to SIADH in adults |
+| EMEA/H/C/002788 | Jinarc (valid) | Not specified | Slowing progression of cyst development and renal insufficiency of ADPKD in adults with CKD stage 1 to 3 with evidence of rapidly progressing disease |
 
 ## Safety Considerations
 
@@ -105,10 +104,9 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Tolvaptan has strong Phase 3 evidence in ADPKD, and the target biology applies to the polycystic kidney disease family. However, the evidence is not specific to the GANAB-related PKD3 subtype, and all EU authorisations are currently cancelled.
+Tolvaptan has strong Phase 3 evidence in ADPKD, and the target biology applies to the polycystic kidney disease family.
 
 **To proceed, the following is needed:**
-- Confirmation of the current regulatory status in the EU, since all three authorisations are cancelled
 - Label warnings and contraindications from the SmPC
 - Evidence or clinical rationale specific to the PKD3 (GANAB-related) subtype
 - Mechanism of action data from DrugBank

@@ -4,17 +4,17 @@ title: Natalizumab
 parent: AI Predictions (L5)
 nav_order: 421
 evidence_level: L5
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Natalizumab: predicted new indication Bronchitis (evidence level L5). Approved use: Highly active relapsing remitting multiple sclerosis (RRMS) in adults…"
 monitor_inn: "Natalizumab"
-predicted_indications: ["bronchitis", "parapsoriasis", "psoriasis", "severe nonproliferative diabetic retinopathy", "acute lichenoid pityriasis", "pityriasis lichenoides", "penile fibromatosis", "pustulosis palmaris et plantaris", "dermatitis", "neonatal dermatomyositis"]
+predicted_indications: ["bronchitis", "parapsoriasis", "psoriasis", "severe nonproliferative diabetic retinopathy", "acute lichenoid pityriasis"]
 ---
 
 # Natalizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ The prediction is computational only and is not backed by actual studies.
 |------|------|
 | Original Indication | Highly active relapsing remitting multiple sclerosis (RRMS) in adults, as a single disease modifying therapy |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.46% |
+| TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -66,15 +66,10 @@ The data also covered nine other predictions. None has supportive clinical trial
 
 | Rank | Predicted Indication | Score | Evidence Level | Main Observation |
 |------|------|------|------|------|
-| 2 | Parapsoriasis | 99.37% | L4 | Single case report describing an adverse skin reaction, not a benefit |
-| 3 | Psoriasis | 99.19% | L4 | Conflicting evidence: one case series of 18 MS patients reported improvement, while several case reports describe induced or aggravated psoriasis |
-| 4 | Severe nonproliferative diabetic retinopathy | 99.18% | L5 | Computational prediction only |
-| 5 | Acute lichenoid pityriasis | 99.04% | L4 | Same single adverse-event case report |
-| 6 | Pityriasis lichenoides | 98.65% | L4 | Same single adverse-event case report |
-| 7 | Penile fibromatosis | 98.42% | L5 | No mechanistic link established |
-| 8 | Pustulosis palmaris et plantaris | 98.30% | L4 | Case report of natalizumab-induced pustular psoriasis; other articles are general reviews |
-| 9 | Dermatitis | 98.25% | L4 | Multiple reports of cutaneous adverse reactions, a safety signal rather than therapeutic evidence |
-| 10 | Neonatal dermatomyositis | 97.71% | L5 | Computational prediction only; clinical evaluation impractical |
+| 2 | Parapsoriasis | 0.9937 | L5 | Single case report describing an adverse skin reaction, not a benefit |
+| 3 | Psoriasis | 0.9919 | L4 | Conflicting evidence: one case series of 18 MS patients reported improvement, while several case reports describe induced or aggravated psoriasis |
+| 4 | Severe nonproliferative diabetic retinopathy | 0.9918 | L5 | Computational prediction only |
+| 5 | Acute lichenoid pityriasis | 0.9904 | L5 | Same single adverse-event case report |
 
 All ten predictions were rated Hold.
 
@@ -90,8 +85,8 @@ Currently no related literature available for bronchitis.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
 |---------|------|------|-----------|------|
-| EMEA/H/C/000603 | Tysabri | Not specified | Single disease modifying therapy in adults with highly active relapsing remitting multiple sclerosis (RRMS) in patients with high disease activity despite at least one DMT, or with rapidly evolving severe... | Cancelled |
-| EMEA/H/C/005752 | Tyruko | Not specified | Single disease modifying therapy in adults with highly active RRMS in patients with high disease activity despite at least one DMT, or with rapidly evolving severe RRMS... | Cancelled |
+| EMEA/H/C/000603 | Tysabri | Not specified | Single disease modifying therapy in adults with highly active relapsing remitting multiple sclerosis (RRMS) in patients with high disease activity despite at least one DMT, or with rapidly evolving severe... | Valid |
+| EMEA/H/C/005752 | Tyruko | Not specified | Single disease modifying therapy in adults with highly active RRMS in patients with high disease activity despite at least one DMT, or with rapidly evolving severe RRMS... | Valid |
 
 ## Safety Considerations
 

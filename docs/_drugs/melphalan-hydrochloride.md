@@ -7,14 +7,15 @@ description: "Melphalan Hydrochloride drug repurposing predictions from TxGNN. E
 parent: AI Predictions (L5)
 nav_order: 367
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Melphalan Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | hereditary breast ovarian cancer syndrome | 99.94% | DL |
-| 2 | malignant dysgerminomatous germ cell tumor of ovary | 99.87% | DL |
-| 3 | ovarian clear cell adenocarcinoma | 99.84% | DL |
-| 4 | primary non-gestational choriocarcinoma of ovary | 99.84% | DL |
-| 5 | maligant granulosa cell tumor of ovary | 99.81% | DL |
-| 6 | hereditary site-specific ovarian cancer syndrome | 99.78% | DL |
-| 7 | borderline epithelial tumor of ovary | 99.77% | DL |
-| 8 | gonadal germ cell tumor | 99.77% | DL |
-| 9 | ovarian primitive germ cell tumor | 99.75% | DL |
-| 10 | choriocarcinoma of ovary | 99.74% | DL |
-| 11 | female breast carcinoma | 99.67% | DL |
-| 12 | ovarian mucinous adenocarcinoma | 99.61% | DL |
-| 13 | malignant sex cord stromal tumor of ovary | 99.58% | DL |
-| 14 | malignant non-epithelial tumor of ovary | 99.55% | DL |
-| 15 | malignant germ cell tumor of ovary | 99.49% | DL |
-| 16 | familial ovarian cancer | 99.44% | DL |
-| 17 | ovarian endometrioid adenocarcinoma | 99.44% | DL |
-| 18 | ovarian small cell carcinoma | 99.41% | DL |
-| 19 | rectum mucinous adenocarcinoma | 99.38% | DL |
-| 20 | theca steroid-producing cell malignant tumor of ovary, not further specified | 99.38% | DL |
 
 *Showing top 20 of 50 predictions.*
 

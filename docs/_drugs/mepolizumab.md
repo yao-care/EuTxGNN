@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Mepolizumab
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 393
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Mepolizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L4). Approved use: Severe refractory eosinophilic asthma (add-on treatment) in adults…"
 monitor_inn: "Mepolizumab"
-predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia", "Evans syndrome", "neonatal thrombocytopenia", "autosomal thrombocytopenia with normal platelets", "filariasis", "mixed-type autoimmune hemolytic anemia"]
+predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
+description: "Mepolizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Severe eosinophilic asthmaNucala is indicated as an add-on treatment…"
 ---
 
 # Mepolizumab
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Mepolizumab: From Severe Eosinophilic Asthma to Thrombocytopenia Due to Immune Destruction
+## Mepolizumab: Thrombocytopenia due to immune destruction
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but the data compiled for this report contain **0 clinical trials** and only **1
 
 | Item | Content |
 |------|------|
-| Original Indication | Severe refractory eosinophilic asthma (add-on treatment) in adults, adolescents and children aged 6 years and older |
+| Original Indication | Severe eosinophilic asthmaNucala is indicated as an add-on treatment for severe refractory eosinophilic asthma in adults, adolescents and children aged 6 years and older . Chronic rhinosinusitis with nasal polyps (CRSwNP)Nucala is indicated as an add-on therapy with intranasal corticosteroids for th |
 | Predicted New Indication | Thrombocytopenia due to immune destruction |
-| TxGNN Prediction Score | 99.66% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| TxGNN Prediction Score | 0.9966 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -66,8 +66,6 @@ Other top-ranked predictions have weaker support:
 - **Primary release disorder of platelets**: only a review of HES management, with no direct link.
 - **Pseudo-von Willebrand disease, Glanzmann thrombasthenia, autosomal thrombocytopenia with normal platelets**: no plausible IL-5 mechanism.
 - **Autoimmune thrombocytopenic, Evans syndrome, mixed-type autoimmune hemolytic anemia**: speculative immunomodulatory rationale only, with no evidence retrieved.
-- **Neonatal thrombocytopenia**: no evidence, and no neonatal safety or pharmacokinetic data.
-- **Filariasis**: eosinophils help control parasites, so depleting them could be harmful.
 
 ## Clinical Trial Evidence
 

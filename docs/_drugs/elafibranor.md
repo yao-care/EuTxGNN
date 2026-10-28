@@ -4,17 +4,17 @@ title: Elafibranor
 parent: AI Predictions (L5)
 nav_order: 213
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Elafibranor: predicted new indication Amenorrhea (evidence level L5). Approved use: Primary biliary cholangitis (PBC)…"
+description: "Elafibranor: predicted new indication amenorrhea (evidence level L5). Approved use: Primary biliary cholangitis (PBC)…"
 monitor_inn: "Elafibranor"
-predicted_indications: ["amenorrhea (disease)", "non-syndromic esophageal malformation", "bone Paget disease", "dentinogenesis imperfecta", "squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma", "deafness, autosomal dominant 39, with dentinogenesis imperfecta 1", "acantholytic variant squamous cell breast carcinoma", "adenosquamous breast carcinoma"]
+predicted_indications: ["amenorrhea (disease)"]
 ---
 
 # Elafibranor
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Elafibranor: From Primary Biliary Cholangitis to Amenorrhea
+## Elafibranor: From Primary Biliary Cholangitis to amenorrhea
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,19 +47,18 @@ The TxGNN model predicts it may be effective for **amenorrhea**, but there are c
 |------|------|
 | Original Indication | Primary biliary cholangitis (PBC), in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA, or as monotherapy in patients unable to tolerate UDCA |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (the single marketing authorization is recorded as cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Elafibranor is a dual agonist of peroxisome proliferator-activated receptor alpha (PPARα) and beta/delta (PPARδ). It is converted in the liver to its main active metabolite, GFT-1007. Preclinical work showed reduced hepatic fat accumulation, inflammation and fibrosis. It was first developed for non-alcoholic steatohepatitis (NASH), but that program was stopped in 2020 after an interim futility analysis. It was then repositioned for PBC, receiving FDA approval in June 2024 and EMA authorisation in September 2024.
 
-No direct mechanistic link between PPARα/δ agonism and amenorrhea is established in the data compiled for this report. Any connection, such as metabolic or hormonal modulation through PPAR signalling, is speculative. The very high score (0.9986) is a computational output of the knowledge graph and does not replace clinical or experimental evidence. Detailed mechanism-of-action data from DrugBank were also not available.
+No direct mechanistic link between PPARα/δ agonism and amenorrhea is established in the data compiled for this report. Any connection, such as metabolic or hormonal modulation through PPAR signalling, is speculative. The very high score (0.9986) is a computational output of the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence; it does not replace clinical or experimental evidence. Detailed mechanism-of-action data from DrugBank were also not available.
 
-The other top-ranked predictions are similarly unsupported by evidence. They include bone Paget disease, several squamous-type carcinomas and dentinogenesis imperfecta. Many appear to arise from neighbouring diseases in the knowledge graph rather than from independent biological reasoning.
 
 ## Clinical Trial Evidence
 

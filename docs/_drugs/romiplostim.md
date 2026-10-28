@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **primary release disorder of p
 |------|------|
 | Original Indication | Primary immune thrombocytopenia (ITP) in adults refractory to other treatments (e.g. corticosteroids, immunoglobulins); chronic primary ITP in children aged 1 year and older refractory to other treatments |
 | Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

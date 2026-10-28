@@ -7,14 +7,15 @@ description: "icatibant acetate drug repurposing predictions from TxGNN. Evidenc
 parent: AI Predictions (L5)
 nav_order: 286
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Icatibant Acetate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | C1 inhibitor deficiency | 99.99% | DL |
-| 2 | hereditary angioedema with C1Inh deficiency | 99.99% | DL |
-| 3 | serpinopathy with toxic serpin polymerization | 99.99% | DL |
-| 4 | hereditary angioedema | 99.37% | DL |
-| 5 | pseudo-von Willebrand disease | 99.21% | DL |
-| 6 | primary release disorder of platelets | 99.14% | DL |
-| 7 | immune-mediated necrotizing myopathy | 99.06% | DL |
-| 8 | antisynthetase syndrome | 99.02% | DL |
-| 9 | Glanzmann thrombasthenia | 99.00% | DL |
-| 10 | focal myositis | 98.96% | DL |
-| 11 | Scott syndrome | 98.81% | DL |
-| 12 | inflammatory myopathy with abundant macrophages | 98.75% | DL |
-| 13 | idiopathic eosinophilic myositis | 98.75% | DL |
-| 14 | Peyronie disease | 98.57% | DL |
-| 15 | pancreatitis | 97.96% | DL |
-| 16 | pernicious anemia | 97.90% | DL |
-| 17 | thrombotic thrombocytopenic purpura | 97.88% | DL |
-| 18 | inherited thrombophilia | 97.42% | DL |
-| 19 | selective IgG immunodeficiency | 97.34% | DL |
-| 20 | bleeding diathesis due to a collagen receptor defect | 97.26% | DL |
 
 *Showing top 20 of 50 predictions.*
 

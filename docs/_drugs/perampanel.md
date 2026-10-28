@@ -4,17 +4,17 @@ title: Perampanel
 parent: AI Predictions (L5)
 nav_order: 481
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Perampanel: predicted new indication Visual epilepsy (evidence level L5). Approved use: Adjunctive treatment of partial-onset seizures with or without second…"
 monitor_inn: "Perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
+description: "Perampanel: predicted new indication Beta-ketothiolase deficiency (evidence level L5). Approved use: Fycompa is indicated for the adjunctive treatment of partial-onset se…"
 ---
 
 # Perampanel
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Perampanel: From Epilepsy to Visual Epilepsy
+## Perampanel: Beta-ketothiolase deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Perampanel (brand name Fycompa) is an add-on antiseizure medicine, originally used for partial-onset seizures and primary generalised tonic-clonic seizures in patients aged 12 years and older.
-The TxGNN model predicts it may be effective for **visual epilepsy**, but **no clinical trials** and only **general epilepsy literature** (none specific to visual or photosensitive epilepsy) currently support this direction.
-Among the other predicted indications, **status epilepticus** has the strongest evidence (4 registered trials and about 20 publications).
 
 ---
 
@@ -48,12 +46,12 @@ Among the other predicted indications, **status epilepticus** has the strongest 
 
 | Item | Content |
 |------|------|
-| Original Indication | Adjunctive treatment of partial-onset seizures with or without secondarily generalised seizures, and of primary generalised tonic-clonic seizures, in adults and adolescents from 12 years of age |
-| Predicted New Indication | Visual epilepsy |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 (for visual epilepsy; L3 for status epilepticus) |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| Original Indication | Fycompa is indicated for the adjunctive treatment of partial-onset seizures with or without secondarily generalised seizures in adult and adolescent patients from 12 years of age with epilepsy. Fycompa is indicated for the adjunctive treatment of primary generalised tonic-clonic seizures in adult an |
+| Predicted New Indication | Beta-ketothiolase deficiency |
+| TxGNN Prediction Score | 0.9979 |
+| Evidence Level | L5 (for visual epilepsy; L3 for status epilepticus) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,9 +62,9 @@ Detailed mechanism data were not available in the data compiled for this report.
 
 Visual (photosensitive) epilepsy is a reflex epilepsy in which visual stimuli trigger seizures, and cortical hyperexcitability is thought to be involved. Blocking excitatory AMPA signalling is therefore mechanistically coherent. However, this link is an extrapolation. The retrieved literature consists of general epilepsy reviews, guidelines and network meta-analyses, and none of it studies visual or photosensitive epilepsy directly.
 
-The same pattern holds for most other predicted reflex-type indications (startle, thinking, micturition-induced, eating, orgasm-induced and reading seizures). Evidence for these is absent or indirect. Audiogenic seizures have animal-model support only. Beta-ketothiolase deficiency, a metabolic disorder, has no plausible mechanistic link, and the prediction likely reflects seizure-related graph connections.
+Evidence for these is absent or indirect. Audiogenic seizures have animal-model support only.
 
-The best-supported alternative is **status epilepticus** (score 99.77%). Prolonged seizures involve loss of synaptic GABA-A receptors and increased AMPA receptor expression, which makes AMPA antagonism a rational option when benzodiazepines fail. Systematic reviews and case series report seizure cessation with perampanel in refractory status epilepticus.
+Prolonged seizures involve loss of synaptic GABA-A receptors and increased AMPA receptor expression, which makes AMPA antagonism a rational option when benzodiazepines fail. Systematic reviews and case series report seizure cessation with perampanel in refractory status epilepticus.
 
 ---
 
@@ -106,7 +104,7 @@ No visual-epilepsy-specific publications were found. The table below lists the m
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/002434 | Fycompa | Not specified | Adjunctive treatment of partial-onset seizures with or without secondarily generalised seizures in adult and adolescent patients from 12 years... (status: cancelled) |
+| EMEA/H/C/002434 | Fycompa | Not specified | Adjunctive treatment of partial-onset seizures with or without secondarily generalised seizures in adult and adolescent patients from 12 years... (status: valid) |
 
 ---
 
@@ -124,9 +122,7 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-- The prediction for visual epilepsy rests on a high model score and a plausible AMPA-antagonist mechanism, but no trial or study addresses it directly, so the evidence is indirect (L4).
 - The only EU authorization is cancelled, and safety label data could not be retrieved.
-- Status epilepticus is the better-supported candidate (L3) but still has only observational evidence, since the two randomized trials terminated after one participant each.
 
 **To proceed, the following is needed:**
 - Visual or photosensitive epilepsy data, such as photoparoxysmal response studies or case series with perampanel

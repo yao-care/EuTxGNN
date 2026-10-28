@@ -40,7 +40,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 Insulin glargine is a long-acting insulin analogue, originally used to treat diabetes mellitus in adults, adolescents and children.
 The TxGNN model predicts it may be effective for **autoimmune oophoritis**, but **no clinical trials and no publications** currently support this prediction.
-It is a graph-based prediction only, and the apparent link is probably explained by the shared association between autoimmune conditions and type 1 diabetes, not by a therapeutic effect.
+It is a prediction from the TxGNN model (deep learning) only. The score may reflect similarities the model learned between related diseases, such as the shared association between autoimmune conditions and type 1 diabetes, not biological evidence or a therapeutic effect.
 
 ## Quick Overview
 
@@ -48,17 +48,17 @@ It is a graph-based prediction only, and the apparent link is probably explained
 |------|------|
 | Original Indication | Treatment of diabetes mellitus in adults, adolescents and children aged 2 years and above |
 | Predicted New Indication | Autoimmune oophoritis |
-| TxGNN Prediction Score | 99.88% |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (all authorizations cancelled) |
-| Number of Authorizations | 4 |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, insulin glargine is a long-acting basal insulin analogue, its efficacy in diabetes mellitus is established, and it acts as metabolic replacement therapy by lowering blood glucose.
 
-For autoimmune oophoritis, no direct mechanistic link has been established. The high score is most likely a network association. Autoimmune oophoritis is often part of polyglandular autoimmune syndromes that include type 1 diabetes, so the two conditions sit close together in the knowledge graph. Insulin glargine has no known effect on ovarian autoimmunity.
+For autoimmune oophoritis, no direct mechanistic link has been established. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Autoimmune oophoritis is often part of polyglandular autoimmune syndromes that include type 1 diabetes. Insulin glargine has no known effect on ovarian autoimmunity.
 
 Other top-ranked predictions follow a similar pattern. Several (thiamine-responsive dysfunction syndrome, classic stiff person syndrome, focal stiff limb syndrome, pancreatic agenesis) are linked through co-existing diabetes. In these cases insulin would treat the diabetic component, not the underlying disease. Drug-induced localized lipodystrophy reflects a known adverse effect of insulin injections, not a benefit, and should be read as a safety signal.
 
@@ -90,7 +90,7 @@ None of these studies tests insulin glargine in pancreatic agenesis or in autoim
 | EMEA/H/C/000284 | Lantus | Not specified | Treatment of diabetes mellitus in adults, adolescents and children aged two years and above |
 | EMEA/H/C/000309 | Toujeo (previously Optisulin) | Not specified | Treatment of diabetes mellitus in adults, adolescents and children from the age of 6 years. |
 
-All four authorizations are listed as cancelled.
+All four authorizations are valid (4 valid licences of 4).
 
 ## Safety Considerations
 

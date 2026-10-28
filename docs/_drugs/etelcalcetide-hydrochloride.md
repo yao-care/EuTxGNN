@@ -7,14 +7,15 @@ description: "Etelcalcetide Hydrochloride drug repurposing predictions from TxGN
 parent: AI Predictions (L5)
 nav_order: 230
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Etelcalcetide Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | hyperphosphatemia (disease) | 99.42% | DL |
-| 2 | esophageal varices with bleeding | 99.35% | DL |
-| 3 | esophageal varices without bleeding | 99.35% | DL |
-| 4 | varicose disease | 99.09% | DL |
-| 5 | glaucoma | 98.92% | DL |
-| 6 | pancreatitis | 98.85% | DL |
-| 7 | primary hyperoxaluria | 98.74% | DL |
-| 8 | primary immunodeficiency syndrome due to p14 deficiency | 98.61% | DL |
-| 9 | severe congenital neutropenia | 97.92% | DL |
-| 10 | Barth syndrome | 97.84% | DL |
-| 11 | familial apolipoprotein C-II deficiency | 97.64% | DL |
-| 12 | autosomal recessive severe congenital neutropenia due to JAGN1 deficiency | 97.46% | DL |
-| 13 | cyclic hematopoiesis | 97.44% | DL |
-| 14 | Steel syndrome | 97.40% | DL |
-| 15 | familial hyperphosphatemic tumoral calcinosis/hyperphosphatemic hyperostosis syndrome | 97.40% | DL |
-| 16 | tumoral calcinosis, hyperphosphatemic, familial | 97.31% | DL |
-| 17 | autosomal recessive severe congenital neutropenia due to G6PC3 deficiency | 97.11% | DL |
-| 18 | autosomal recessive severe congenital neutropenia due to CSF3R deficiency | 97.05% | DL |
-| 19 | autosomal recessive severe congenital neutropenia due to CXCR2 deficiency | 96.93% | DL |
-| 20 | X-linked severe congenital neutropenia | 96.80% | DL |
 
 *Showing top 20 of 50 predictions.*
 

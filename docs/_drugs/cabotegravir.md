@@ -4,17 +4,17 @@ title: Cabotegravir
 parent: AI Predictions (L5)
 nav_order: 118
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cabotegravir: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Pre-exposure prophylaxis (PrEP)…"
+indication_count: 5
 monitor_inn: "Cabotegravir"
-predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "bronchitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "severe nonproliferative diabetic retinopathy", "brachydactyly-syndactyly syndrome", "diabetic retinopathy", "non-syndromic visceral malformation", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
+predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "bronchitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "severe nonproliferative diabetic retinopathy"]
+last_modified_at: 2026-10-27
+description: "Cabotegravir: predicted new indication rheumatoid arthritis (evidence level L5). Approved use: Apretude is indicated in combination with safer sex practices for pre…"
 ---
 
 # Cabotegravir
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,69 +33,65 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Cabotegravir: From HIV-1 Pre-Exposure Prophylaxis to Rheumatoid Arthritis
+## Cabotegravir: HIV integrase strand transfer inhibitor → rheumatoid arthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Cabotegravir is an HIV-1 integrase strand transfer inhibitor, originally used for pre-exposure prophylaxis (PrEP) against sexually acquired HIV-1 infection.
-The TxGNN model predicts it may be effective for **rheumatoid arthritis**,
-but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
+Cabotegravir is an HIV-1 integrase strand transfer inhibitor. The TxGNN model predicts it may be relevant to **rheumatoid arthritis**, with a score of 0.9945. However, **no clinical trials and no publications** were found for this prediction, so it rests on the model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Pre-exposure prophylaxis (PrEP), in combination with safer sex practices, to reduce the risk of sexually acquired HIV-1 infection in high-risk adults and adolescents weighing at least 35 kg |
-| Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.45% |
+| Original Indication | Apretude is indicated in combination with safer sex practices for pre-exposure prophylaxis (PrEP) to reduce the risk of sexually acquired HIV-1 infection in high-risk adults and adolescents, weighing at least 35 kg (see sections 4.2, 4.4 and 5.1). |
+| Predicted New Indication | rheumatoid arthritis |
+| TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Cabotegravir is known as an HIV-1 integrase strand transfer inhibitor, and its efficacy in HIV-1 prevention is the basis for its authorization.
+Detailed mechanism-of-action data for this drug is not available in the data compiled for this report. Cabotegravir belongs to the HIV integrase strand transfer inhibitor class, which acts on a viral enzyme step in the HIV replication cycle.
 
-No established mechanistic link to rheumatoid arthritis pathways (such as TNF, IL-6 or JAK/STAT signalling) is apparent. The high TxGNN score (99.45%) reflects a graph-based prediction only and is not backed by biological or clinical evidence. The original indication (viral infection prevention) and the predicted indication (an autoimmune joint disease) are also very different, so the score should be treated as a hypothesis to test, not a finding.
+No established link between this mechanism and the pathways usually involved in rheumatoid arthritis (for example TNF, IL-6 or JAK/STAT signalling) is apparent. The score of 0.9945 is a model-derived prediction only. It does not show that the drug has any biological effect on this disease.
 
-Other top-ranked predictions (sclerosing cholangitis, bronchitis, diabetic retinopathy, and several ultra-rare genetic syndromes) likewise have no supporting trials or literature. Some of the high scores for rare congenital conditions likely reflect artifacts of the knowledge graph structure rather than real biology.
+Because no mechanism data and no supporting studies are available, this prediction cannot currently be given a mechanistic rationale. It should be treated as a hypothesis for screening, not as a finding.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
 
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/005756 | Apretude | Not specified | Pre-exposure prophylaxis (PrEP), in combination with safer sex practices, to reduce the risk of sexually acquired HIV-1 infection in high-risk adults and... |
-
-This authorization is recorded as cancelled, so no valid EU marketing authorization is currently on file.
+| EMEA/H/C/005756 | Apretude | Not recorded | Apretude is indicated in combination with safer sex practices for pre-exposure prophylaxis (PrEP) to reduce the risk of sexually acquired HIV-1 infection in high-risk... |
 
 ## Safety Considerations
 
-- **Drug Interactions**: Seven moderate-level interactions were identified, all involving polyvalent cation-containing antacids and similar agents:
-  - Calcium carbonate
-  - Aluminum hydroxide
-  - Magnesium carbonate
-  - Magnesium hydroxide
-  - Magnesium oxide
-  - Sodium bicarbonate
-  - Sodium citrate
+- **Drug Interactions**: Seven interactions of moderate level were identified. They involve products containing polyvalent cations or antacid-type agents: calcium carbonate, aluminum hydroxide, magnesium carbonate, magnesium hydroxide, magnesium oxide, sodium bicarbonate and sodium citrate.
 
-Please refer to the SmPC for other safety information, including warnings and contraindications.
+For warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or literature (evidence level L5), and no plausible mechanistic link between integrase inhibition and rheumatoid arthritis can be drawn from the available data. In addition, the only EU authorization is cancelled.
+The prediction for rheumatoid arthritis is supported only by a model score. There are no clinical trials or publications, and no plausible mechanistic link can be drawn from the available data.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (for example from DrugBank) to allow a proper mechanistic analysis
-- Warnings and contraindications from the EMA product information, needed for safety screening
-- Preclinical or mechanistic studies testing cabotegravir in rheumatoid arthritis models
-- A literature and trial registry search focused on cabotegravir and autoimmune or inflammatory joint disease
-- Clarification of the regulatory status and available dosage forms and routes of administration
+- Mechanism-of-action data for cabotegravir
+- A documented biological rationale linking the drug to rheumatoid arthritis pathways
+- Preclinical or early clinical studies that directly address rheumatoid arthritis
+- Warnings and contraindications from the SmPC, to complete the safety screening
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

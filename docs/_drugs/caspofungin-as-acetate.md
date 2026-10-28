@@ -7,14 +7,15 @@ description: "Caspofungin (As Acetate) drug repurposing predictions from TxGNN. 
 parent: AI Predictions (L5)
 nav_order: 120
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Caspofungin (As Acetate)
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | gastrin secretion abnormality | 99.44% | DL |
-| 2 | punctate epithelial keratoconjunctivitis | 98.91% | DL |
-| 3 | esophageal candidiasis | 98.15% | DL |
-| 4 | abnormality of glucagon secretion | 97.67% | DL |
-| 5 | HIV infectious disease | 96.73% | DL |
-| 6 | simian immunodeficiency virus infection | 96.39% | DL |
-| 7 | feline acquired immunodeficiency syndrome | 96.39% | DL |
-| 8 | exposure keratitis | 95.75% | DL |
-| 9 | congenital candidiasis | 95.18% | DL |
-| 10 | candida glabrata | 95.18% | DL |
-| 11 | neonatal candidiasis | 95.18% | DL |
-| 12 | candidiasis, invasive | 95.03% | DL |
-| 13 | candidemia | 94.98% | DL |
-| 14 | polyclonal hyperviscosity syndrome | 94.63% | DL |
-| 15 | hyperamylasemia | 94.63% | DL |
-| 16 | epidemic keratoconjunctivitis | 94.25% | DL |
-| 17 | blood group incompatibility | 94.25% | DL |
-| 18 | premalignant hematological system disease | 93.88% | DL |
-| 19 | congenital analbuminemia | 93.83% | DL |
-| 20 | neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 93.69% | DL |
 
 *Showing top 20 of 50 predictions.*
 

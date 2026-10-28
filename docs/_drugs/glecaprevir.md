@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Glecaprevir
-parent: AI Predictions (L5)
+parent: Medium Evidence (L3-L4)
 nav_order: 286
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Glecaprevir: predicted new indication HIV infectious disease (evidence level L5). Approved use: Chronic hepatitis C virus (HCV) infection in adults and children aged…"
 monitor_inn: "Glecaprevir"
-predicted_indications: ["HIV infectious disease", "hepatitis B virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+predicted_indications: ["HIV infectious disease", "hepatitis B virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Glecaprevir
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ This prediction is best viewed as a research question rather than a true repurpo
 |------|------|
 | Original Indication | Chronic hepatitis C virus (HCV) infection in adults and children aged 3 years and older |
 | Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L3 (observational and review literature only; the Phase 3 trials address HCV, not HIV) |
-| EU Market Status | Cancelled only |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ This prediction is best viewed as a research question rather than a true repurpo
 
 Currently, detailed mechanism of action data is not available. Based on known information, glecaprevir is an HCV NS3/4A protease inhibitor used together with pibrentasvir (an NS5A inhibitor). Its efficacy in chronic hepatitis C is well established, but it has no known direct anti-HIV activity.
 
-The high TxGNN score probably reflects shared features among antiviral drugs in the knowledge graph and the frequent co-infection of HIV and HCV, not a genuine antiviral effect against HIV. HIV and HCV are different viruses with different protease targets and replication strategies. Any clinical value in HIV-positive patients lies in treating their HCV, which is already covered by the approved indication. This is therefore not true repurposing for HIV.
+The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as the frequent co-infection of HIV and HCV, not biological evidence of a genuine antiviral effect against HIV. HIV and HCV are different viruses with different protease targets and replication strategies. Any clinical value in HIV-positive patients lies in treating their HCV, which is already covered by the approved indication. This is therefore not true repurposing for HIV.
 
 ---
 

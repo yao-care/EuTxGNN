@@ -4,17 +4,17 @@ title: Givosiran
 parent: AI Predictions (L5)
 nav_order: 284
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Givosiran: predicted new indication Hepatopulmonary syndrome (evidence level L5). Approved use: Treatment of acute hepatic porphyria (AHP) in adults and adolescents…"
+indication_count: 9
 monitor_inn: "Givosiran"
-predicted_indications: ["hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "chronic hepatitis C virus infection", "glycogen storage disease due to hepatic glycogen synthase deficiency", "chronic hepatitis B virus infection", "disorder of phenylalanine metabolism"]
+predicted_indications: ["primitive portal vein thrombosis", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "chronic hepatitis C virus infection", "glycogen storage disease due to hepatic glycogen synthase deficiency", "chronic hepatitis B virus infection", "disorder of phenylalanine metabolism"]
+last_modified_at: 2026-10-23
+description: "Givosiran: predicted new indication Primitive portal vein thrombosis (evidence level L5). Approved use: Treatment of acute hepatic porphyria (AHP) in adults and adolescents…"
 ---
 
 # Givosiran
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,86 +33,67 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Givosiran: From Acute Hepatic Porphyria to Hepatopulmonary Syndrome
+## Givosiran: From Acute Hepatic Porphyria to Primitive Portal Vein Thrombosis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Givosiran was developed to treat acute hepatic porphyria (AHP) in adults and adolescents aged 12 years and older.
-The TxGNN model predicts it may be effective for **hepatopulmonary syndrome**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting this specific indication.
-
----
+Givosiran is used to treat acute hepatic porphyria (AHP) in adults and adolescents aged 12 years and older.
+The TxGNN model predicts it may be effective for **primitive portal vein thrombosis**,
+but **no clinical trials and no publications** were found in the data compiled for this report, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
 | Original Indication | Treatment of acute hepatic porphyria (AHP) in adults and adolescents aged 12 years and older |
-| Predicted New Indication | Hepatopulmonary syndrome |
-| TxGNN Prediction Score | 99.999% |
+| Predicted New Indication | Primitive portal vein thrombosis |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, givosiran is a liver-targeted siRNA (GalNAc-conjugated) that silences hepatic ALAS1. This lowers the neurotoxic heme intermediates ALA and PBG, and its efficacy in acute hepatic porphyria is established.
+Currently, detailed mechanism of action data is not available in the compiled data. From general drug knowledge, givosiran is a small interfering RNA (siRNA) that targets ALAS1 (aminolevulinate synthase 1) in liver cells. Silencing ALAS1 lowers the build-up of the heme-pathway intermediates ALA and PBG, which drive attacks in acute hepatic porphyria.
 
-The link to hepatopulmonary syndrome is weak. This syndrome is defined by pulmonary vascular dilation in the setting of liver disease, and no known connection to ALAS1 or heme biosynthesis has been identified. The very high TxGNN score (0.99999) reflects graph-based associations, probably shared liver-related network links, rather than a biological rationale. Liver-targeted delivery is feasible, but that alone does not make the prediction mechanistically plausible.
+No clear mechanistic link to portal vein thrombosis was identified. That condition is a vascular and coagulation disorder, and nothing established connects it to ALAS1 suppression. The score of 1.0000 comes from the TxGNN model (deep learning). The same score appears for several other unrelated liver conditions, which suggests it does not discriminate well between them. The score may reflect similarities the model learned between related diseases, not biological evidence.
 
----
+Other predicted indications (hepatoportal sclerosis, idiopathic copper-associated cirrhosis, early-onset familial noncirrhotic portal hypertension, hepatopulmonary syndrome, chronic hepatitis C and B, a hepatic glycogen storage disease, and a disorder of phenylalanine metabolism) likewise have no trials or literature and no established mechanistic link.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/004775 | Givlaari | — | Treatment of acute hepatic porphyria (AHP) in adults and adolescents aged 12 years and older. |
-
-This authorization is recorded as cancelled, so there is currently no valid EU marketing authorization in the compiled data.
-
----
+| EMEA/H/C/004775 | Givlaari | Not specified | Treatment of acute hepatic porphyria (AHP) in adults and adolescents aged 12 years and older. |
 
 ## Safety Considerations
 
-- **Drug Interactions**: 87 interacting drugs were identified. The only **Major** interaction among those listed is **eliglustat**. Most others are **Moderate**, including:
-  - Aminoglycosides and glycopeptides: kanamycin, neomycin, streptomycin, vancomycin
-  - Amphotericin B formulations (conventional, lipid complex, cholesteryl sulfate, liposomal)
-  - Aminosalicylates: mesalazine, balsalazide, olsalazine, sulfasalazine
-  - Others: alosetron, naltrexone, metoclopramide, exenatide, fenfluramine, dexfenfluramine, caffeine
+- **Drug Interactions**: 87 interactions were recorded, and the first 20 are listed in the compiled data. One is rated Major: **eliglustat**. The others listed are rated Moderate, including amphotericin B (several formulations), aminoglycosides (kanamycin, neomycin, streptomycin), vancomycin, mesalazine and related aminosalicylates (balsalazide, olsalazine, sulfasalazine), metoclopramide, naltrexone, exenatide, fenfluramine, dexfenfluramine, alosetron and caffeine.
 
 Please refer to the SmPC for warnings and contraindications.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no trials, no publications, and no plausible mechanistic link between ALAS1 silencing and hepatopulmonary syndrome. The only EU authorization is also cancelled.
+The prediction has no supporting trials or publications and no plausible mechanistic link to portal vein thrombosis. The score is shared by several unrelated indications, so it is not enough to justify progressing. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- Mechanistic evidence connecting ALAS1 suppression to pulmonary vascular dilation, or preclinical data in relevant models
-- Detailed mechanism of action data (MOA)
-- Warnings and contraindications from the SmPC, to allow safety screening
-- Clarification of the cancelled EU authorization status
-
-**Note on other predictions:** Among the ten predicted indications, the most evidence-supported one is **porphyria due to ALA dehydratase deficiency** (score 99.91%, Evidence Level L4). It has a strong biological rationale and nine publications, including case reports of both lack of response (PMID 35991568) and combined hepatic and erythroid ALA suppression (PMID 42443962). It has no registered trials. It may be a more productive research question than hepatopulmonary syndrome, though it is indirect evidence at best.
+- Mechanism of action data, so the mechanistic analysis can be completed
+- Warnings and contraindications from the EMA product information, which are needed before safety screening
+- Any preclinical or clinical evidence that ALAS1 or heme-pathway modulation affects portal vein thrombosis
+- A review of the full drug interaction list, especially for the Major interaction with eliglustat
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

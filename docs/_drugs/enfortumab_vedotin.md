@@ -4,17 +4,17 @@ title: Enfortumab Vedotin
 parent: AI Predictions (L5)
 nav_order: 225
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Enfortumab Vedotin: predicted new indication Leprosy (evidence level L5). Approved use: Padcev, in combination with pembrolizumab…"
 monitor_inn: "Enfortumab vedotin"
-predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "infectious bovine rhinotracheitis", "malignant catarrh"]
+predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "malignant catarrh", "infectious bovine rhinotracheitis"]
 ---
 
 # Enfortumab Vedotin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The only prediction in the list with a registered clinical trial is HER2-positiv
 |------|------|
 | Original Indication | Padcev, in combination with pembrolizumab, is indicated for first-line treatment of adult patients with unresectable or metastatic urothelial cancer who are eligible for platinum-containing chemotherapy. As monotherapy, it is indicated for adults with locally advanced or metastatic urothelial cancer who have previously received platinum-containing chemotherapy and a PD-1 or PD-L1 inhibitor. |
 | Predicted New Indication | Leprosy (top-ranked prediction) |
-| TxGNN Prediction Score | 99.53% |
+| TxGNN Prediction Score | 0.9953 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (the single marketing authorization is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,11 +62,10 @@ The only prediction in the list with a registered clinical trial is HER2-positiv
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, enfortumab vedotin is an ADC that targets Nectin-4 and delivers the cytotoxic payload MMAE to tumour cells. Its efficacy in urothelial cancer is established, but that does not carry over to leprosy.
 
-For leprosy, no mechanistic rationale was identified. Leprosy is a bacterial infection caused by *Mycobacterium leprae*, and there is no known link between Nectin-4-directed cytotoxicity and its pathology. The high TxGNN score (99.53%) should be read as a model output only. It has no supporting clinical or literature evidence.
+For leprosy, no mechanistic rationale was identified. Leprosy is a bacterial infection caused by *Mycobacterium leprae*, and there is no known link between Nectin-4-directed cytotoxicity and its pathology. The high TxGNN score (0.9953) should be read as a model output only. It has no supporting clinical or literature evidence.
 
-The other top-ranked predictions are similarly weak. Multiple endocrine neoplasia, cerebral infarction, HIV infection, homozygous familial hypercholesterolemia, cytomegalovirus infection and candidiasis have no plausible therapeutic rationale. The cytomegalovirus and candidiasis literature consists of adverse-event reports (a case report of severe ulcerative esophagitis, and a pharmacovigilance study), not evidence of benefit. Infectious bovine rhinotracheitis and malignant catarrh are veterinary diseases, and their identical scores suggest a knowledge-graph artifact.
+The other top-ranked predictions are similarly weak. Multiple endocrine neoplasia, cerebral infarction, HIV infection, homozygous familial hypercholesterolemia, cytomegalovirus infection and candidiasis have no plausible therapeutic rationale. The cytomegalovirus and candidiasis literature consists of adverse-event reports (a case report of severe ulcerative esophagitis, and a pharmacovigilance study), not evidence of benefit. Infectious bovine rhinotracheitis and malignant catarrh are veterinary diseases, and their identical scores suggest a TxGNN model (deep learning) artifact.
 
-The most biologically plausible candidate is **HER2-positive breast carcinoma** (rank 10, score 98.99%). Nectin-4 is expressed in a subset of breast cancers, particularly triple-negative and some HER2-positive tumours, so a Nectin-4-directed ADC has a plausible rationale. This remains a research question rather than a supported indication.
 
 ---
 
@@ -132,7 +131,7 @@ For warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The leprosy prediction rests only on a model score of 99.53%, with no clinical trials, no literature and no plausible mechanistic link. The Padcev EU marketing authorization is also cancelled. The same applies to the other top-ranked predictions. HER2-positive breast carcinoma is the only one with a plausible rationale and a registered trial, but that evidence is indirect and rated L4.
+The leprosy prediction rests only on a model score of 0.9953, with no clinical trials, no literature and no plausible mechanistic link. The Padcev EU marketing authorization is also cancelled. The same applies to the other top-ranked predictions. HER2-positive breast carcinoma is the only one with a plausible rationale and a registered trial, but that evidence is indirect and rated L4.
 
 **To proceed, the following is needed:**
 - Confirmation of whether NCT04225117 includes a breast cancer cohort, and its results if available

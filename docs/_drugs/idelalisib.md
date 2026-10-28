@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Idelalisib
-parent: AI Predictions (L5)
+parent: High Evidence (L1-L2)
 nav_order: 310
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 6
 last_modified_at: 2026-10-15
 description: "Idelalisib: predicted new indication Mantle cell lymphoma (evidence level L5). Approved use: CLL (in combination with rituximab or ofatumumab) and refractory foll…"
 monitor_inn: "Idelalisib"
@@ -14,7 +14,7 @@ predicted_indications: ["mantle cell lymphoma", "Hodgkins lymphoma", "myeloid le
 # Idelalisib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The EU authorisation is now cancelled, and serious toxicities limit any further 
 |------|------|
 | Original Indication | CLL (in combination with rituximab or ofatumumab) and refractory follicular lymphoma (monotherapy) |
 | Predicted New Indication | Mantle cell lymphoma |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L2 (as assigned in the data compiled for this report; see note below) |
-| EU Market Status | ✗ Cancelled only |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 *Note on evidence level: the MCL trials are Phase 1 or terminated Phase 2 studies, with no completed Phase 3 RCT in MCL. Under the rules this is closer to L3/L4 than to a true L2, so the evidence should be treated as modest.*

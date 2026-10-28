@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pertuzumab
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 483
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Pertuzumab: predicted new indication Progesterone-receptor positive breast cancer (evidence level L1). Approved use: HER2-positive metastatic or locally recurrent unresectable breast can…"
 monitor_inn: "Pertuzumab"
 predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
+description: "Pertuzumab: predicted new indication Ectomesenchymoma (evidence level L5). Approved use: Metastatic Breast Cancer: Perjeta is indicated for use in combination…"
 ---
 
 # Pertuzumab
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Pertuzumab: From HER2-Positive Breast Cancer to Progesterone-Receptor Positive Breast Cancer
+## Pertuzumab: Ectomesenchymoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Pertuzumab is an anti-HER2 antibody, originally used for HER2-positive metastatic and early breast cancer (in combination with trastuzumab and chemotherapy).
-The TxGNN model predicts it may be effective for **progesterone-receptor positive breast cancer**, with **1 completed Phase 3 trial** and **20 publications** currently supporting this direction.
 This is best understood as a subpopulation of the already approved HER2-positive indication rather than a truly new disease, and efficacy depends on HER2 status, not progesterone receptor (PR) status.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HER2-positive metastatic or locally recurrent unresectable breast cancer (with trastuzumab and docetaxel); neoadjuvant treatment of HER2-positive, locally advanced, inflammatory, or early-stage breast cancer at high risk of recurrence |
-| Predicted New Indication | Progesterone-receptor positive breast cancer |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L1 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| Original Indication | Metastatic Breast Cancer: Perjeta is indicated for use in combination with trastuzumab and docetaxel in adult patients with HER2-positive metastatic or locally recurrent unresectable breast cancer, who have not received previous anti-HER2 therapy or chemotherapy for their metastatic disease. Neoadju |
+| Predicted New Indication | Ectomesenchymoma |
+| TxGNN Prediction Score | 0.9971 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +59,6 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 HER2-positive tumors that also express PR (HR+/HER2+) are covered by this mechanism. Crosstalk between HER2 and hormone receptor signaling supports combining anti-HER2 therapy with endocrine therapy, as tested in the WSG-TP-II trial. The prediction is therefore reasonable only for the HER2-positive subset of PR-positive disease. Most PR-positive breast cancers are HER2-negative, and for them there is no clear mechanistic rationale.
 
-The related predictions for "progesterone-receptor negative breast cancer" (HER2-positive, hormone receptor-negative tumors, supported by one Phase 3 and one Phase 2 trial) follow the same logic: the benefit depends on HER2 positivity, not on receptor status.
 
 ## Clinical Trial Evidence
 

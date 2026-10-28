@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Tisagenlecleucel
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 620
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Tisagenlecleucel: predicted new indication Crohn's colitis (evidence level L5). Approved use: Paediatric and young adult patients (up to 25 years) with refractory…"
+description: "Tisagenlecleucel: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Tisagenlecleucel"
-predicted_indications: ["Crohn's colitis", "multiple endocrine neoplasia", "idiopathic aplastic anemia", "adrenal gland hyperfunction", "HER2 positive breast carcinoma", "ankylosing spondylitis", "lymphoadenopathic mastocytosis with eosinophilia", "systemic mastocytosis", "Smouldering systemic mastocytosis", "rheumatoid vasculitis"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Tisagenlecleucel
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Tisagenlecleucel: From B-cell Acute Lymphoblastic Leukaemia and B-cell Lymphomas to Crohn's Colitis
+## Tisagenlecleucel
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Tisagenlecleucel (Kymriah) is a CD19-directed CAR-T cell therapy, originally used for relapsed or refractory B-cell acute lymphoblastic leukaemia and B-cell lymphomas.
-The TxGNN model predicts it may be effective for **Crohn's colitis**,
-but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the computational model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Paediatric and young adult patients (up to 25 years) with refractory or relapsed B-cell acute lymphoblastic leukaemia (ALL); adults with relapsed or refractory diffuse large B-cell lymphoma (DLBCL) or follicular lymphoma (FL) after two or more lines of systemic therapy |
-| Predicted New Indication | Crohn's colitis |
-| TxGNN Prediction Score | 91.39% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
-| Recommended Decision | Hold |
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tisagenlecleucel is a CD19-directed CAR-T cell therapy that depletes B cells. Its efficacy in B-cell malignancies has been established, and the only possible link to Crohn's colitis is through B-cell depletion.
-
-That link is weak. Crohn's disease is driven mainly by T-cell and innate immune pathways, not by B cells. The TxGNN score of 0.914 is a computational association only. No trials or publications were found to support it.
-
-Safety is also a major concern. Cytokine release syndrome, neurotoxicity, prolonged cytopenias and infection risk are hard to justify in a non-malignant, non-life-threatening gastrointestinal disease without strong supporting data.
+| Original Indication | Kymriah is indicated for the treatment of: • Paediatric and young adult patients up to and including 25 years of age with B cell acute lymphoblastic leukaemia (ALL) that is refractory, in relapse post transplant or in second or later relapse. • Adult patients with relapsed or refractory diffuse larg |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
 ## EU Market Information
 
@@ -84,19 +68,6 @@ Safety is also a major concern. Cytokine release syndrome, neurotoxicity, prolon
 
 Please refer to the SmPC for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction is supported only by a model score. There are no trials or literature (Evidence Level L5), the mechanistic link to Crohn's disease is weak, and the product's known toxicities are severe for a non-malignant indication. The EU authorization is also cancelled.
-
-**To proceed, the following is needed:**
-- Mechanism of action data and a clearer rationale for B-cell involvement in Crohn's colitis
-- Preclinical or early-phase evidence in Crohn's disease or related autoimmune conditions
-- Warnings and contraindications from the SmPC, to support a safety assessment
-- Clarification of the cancelled EU authorization status and product availability
-- A risk-benefit comparison with existing, safer biologic treatments for Crohn's disease
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

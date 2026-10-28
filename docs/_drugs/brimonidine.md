@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Brimonidine
-parent: Medium Evidence (L3-L4)
+parent: Known Uses Only (No New Predictions)
 nav_order: 106
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Brimonidine: predicted new indication Papillary conjunctivitis (evidence level L4). Approved use: Symptomatic treatment of facial erythema of rosacea in adult patients"
-monitor_inn: "Brimonidine"
-predicted_indications: ["papillary conjunctivitis", "lichen disease", "congenital hypotrichosis milia", "rosacea conjunctivitis", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "lichen planus pigmentosus", "annular atrophic lichen planus", "hypertrophic lichen planus"]
+last_modified_at: 2026-10-23
+description: "Brimonidine: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Brimonidine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,70 +32,54 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Brimonidine: From Facial Erythema of Rosacea to Papillary Conjunctivitis
+<!-- known-uses-page -->
+<!-- description: Brimonidine: known uses and market status in the European Union; currently no new candidate indication -->
+## Brimonidine
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model has no candidate with a score of 0.99 or higher for Brimonidine, so there is currently no new predicted indication. The uses listed below are the drug's own recorded uses, not model candidates. Four are supported by a licence in another country, and one has no approval found.
 
-Brimonidine is an alpha-2 adrenergic agonist, authorized in the EU (as Mirvaso) for the symptomatic treatment of facial erythema of rosacea in adults.
-The TxGNN model predicts it may be relevant for **papillary conjunctivitis**, but the data compiled for this report contain **no clinical trials** and **3 publications**, all of which describe the condition as an **adverse reaction to brimonidine** rather than a treatment target.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Symptomatic treatment of facial erythema of rosacea in adult patients |
-| Predicted New Indication | Papillary conjunctivitis |
-| TxGNN Prediction Score | 98.49% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
-| Recommended Decision | Hold |
+| Known uses recorded for this drug | 5 |
+| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
-## Why is This Prediction Reasonable?
+## Known uses recorded for this drug
 
-Detailed mechanism of action data is not currently available. Based on known information, brimonidine is a selective alpha-2 adrenergic agonist. Its efficacy in facial erythema of rosacea is attributed to constriction of cutaneous blood vessels, and the same class of action is used in ophthalmology to lower intraocular pressure.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| glaucoma | licence in another country |
+| ocular hypertension | licence in another country |
+| open-angle glaucoma | licence in another country |
+| skin diseases | licence in another country |
 
-The prediction for papillary conjunctivitis is **not supported as a therapeutic opportunity**. The available literature describes brimonidine as a *cause* of allergic, follicular or papillary conjunctivitis, including granulomatous papillary conjunctivitis with anterior uveitis after long-term use. The high TxGNN score most likely reflects a drug-disease association in the knowledge graph (an adverse-effect link), not evidence of benefit. No mechanism supporting benefit is evident, and the evidence points toward potential harm.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [38992579](https://pubmed.ncbi.nlm.nih.gov/38992579/) | 2024 | Retrospective cohort | BMC Ophthalmology | Compared ocular allergy prevalence with brinzolamide/brimonidine fixed combination, with and without a β-blocker, in glaucoma patients |
-| [18303383](https://pubmed.ncbi.nlm.nih.gov/18303383/) | 2008 | Case series | Journal of Glaucoma | Bilateral anterior uveitis and granulomatous papillary conjunctivitis after 2 years of brimonidine therapy in a 78-year-old patient |
-| [37352771](https://pubmed.ncbi.nlm.nih.gov/37352771/) | 2023 | Case report | Int J Surg Case Rep | Atypical salmon patch-like conjunctival lesion after long-term topical brimonidine; allergic follicular or papillary conjunctivitis noted as a known side effect |
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| rosacea |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002642 (cancelled) | Mirvaso | Not specified | Symptomatic treatment of facial erythema of rosacea in adult patients |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/002642 | Mirvaso |  | Valid |
 
 ## Safety Considerations
 
 - **Disease associations flagged in the knowledge graph (not label text):** The following conditions are linked to brimonidine as contraindication-type associations: multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension, anxiety and neurotic disorders, dysthymic disorder, diabetes mellitus, diabetic ketoacidosis, hypoglycemia, myasthenia gravis and other neuromuscular junction diseases, hyperthyroidism/Graves disease/thyrotoxicosis, atrioventricular block, cerebrovascular disorder, pulmonary emphysema, bronchial disease, Raynaud disease, thromboangiitis obliterans and anaphylaxis. These should be verified against the SmPC.
 - **Drug Interactions:** The interaction screen returned 100 records, all with an unclassified severity level. Examples include calcitriol, phentermine, pantoprazole, glimepiride, metformin, omeprazole, atropine, prednisone and simvastatin. Clinical significance has not been established.
-- **Adverse reactions in the literature:** Allergic or papillary conjunctivitis, anterior uveitis, conjunctival lesions, and lichenoid reactions (ocular lichen planus, periorbital contact dermatitis).
 
 Official warnings and contraindications from the product information were not available for this report. Please refer to the SmPC.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The only evidence for papillary conjunctivitis shows brimonidine causing the condition, not treating it, and there are no clinical trials. The high model score appears to reflect an adverse-effect association rather than efficacy. In addition, the only EU authorization has been cancelled.
-
-**To proceed, the following is needed:**
-- Any evidence of therapeutic benefit (preclinical or clinical); none currently exists
-- Official warnings and contraindications from the SmPC
-- Mechanism of action data
-- If the team wishes to explore other predictions, note that the next-ranked candidates are also weakly supported: primary hereditary glaucoma (L5, an extrapolation of approved glaucoma use with pediatric safety concerns), and lichen-related conditions (adverse-reaction signals only)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

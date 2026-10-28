@@ -4,17 +4,17 @@ title: Tadalafil
 parent: AI Predictions (L5)
 nav_order: 582
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Tadalafil: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Erectile dysfunction (sexual stimulation is required for efficacy"
 monitor_inn: "Tadalafil"
-predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura", "migraine disorder", "hypotrichosis simplex of the scalp"]
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
+description: "Tadalafil: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Treatment of erectile dysfunction. In order for tadalafil to be effec…"
 ---
 
 # Tadalafil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,25 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Tadalafil: From Erectile Dysfunction to Ambras Type Hypertrichosis Universalis Congenita
+## Tadalafil: Ambras type hypertrichosis universalis congenita
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Tadalafil is a PDE5 inhibitor originally used to treat erectile dysfunction, benign prostatic hyperplasia, and pulmonary arterial hypertension.
 The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**,
-but there are currently **0 clinical trials** and **0 publications** supporting this prediction. It is a knowledge-graph prediction only.
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction. It is a TxGNN model (deep learning) prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Erectile dysfunction (sexual stimulation is required for efficacy; not indicated for use by women) |
+| Original Indication | Treatment of erectile dysfunction. In order for tadalafil to be effective, sexual stimulation is required. Cialis is not indicated for use by women.; Treatment of erectile dysfunction in adult males.In order for tadalafil to be effective, sexual stimulation is required. Tadalafil Lilly is not indica |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 5 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Authorizations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The link to the predicted indication is weak. Ambras syndrome is a rare congenital disorder tied to chromosome 8q22 rearrangements affecting TRPS1 regulation. No plausible route is known by which PDE5 inhibition would treat it.
 
-Hypertrichosis has also been reported with other vasodilators (e.g., minoxidil). The prediction may therefore reflect an adverse-effect-like association rather than a therapeutic one. The same concern applies to the other top-ranked predictions (hypertrichosis, hair shaft abnormalities, trichomegaly), which are likely driven by graph proximity between hair-related phenotypes. Whether TxGNN is predicting treatment or inducing the phenotype needs to be clarified before any further work.
+Hypertrichosis has also been reported with other vasodilators (e.g., minoxidil). The prediction may therefore reflect an adverse-effect-like association rather than a therapeutic one. The same concern applies to the other top-ranked predictions (hypertrichosis, hair shaft abnormalities, trichomegaly): their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Whether TxGNN is predicting treatment or inducing the phenotype needs to be clarified before any further work.
 
 ## Clinical Trial Evidence
 
@@ -86,7 +86,7 @@ For context, the lower-ranked predictions of migraine disorder and migraine with
 | EMEA/H/C/003787 | Tadalafil Mylan | Not specified | Treatment of erectile dysfunction in adult males. In order for tadalafil to be effective, sexual stimulation is required. ... |
 | EMEA/H/C/004297 | Talmanco (previously Tadalafil Generics) | Not specified | Talmanco is indicated in adults for the treatment of pulmonary arterial hypertension (PAH) classified as WHO functional cl... |
 
-All five authorizations are listed as cancelled.
+The drug is marketed in this country: all 5 of 5 licences are valid.
 
 ## Safety Considerations
 
@@ -101,7 +101,7 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no clinical trials or literature, and the evidence level is L5. The plausible mechanism points toward promoting hair growth rather than treating hypertrichosis, and no route is known by which PDE5 inhibition would address Ambras syndrome. No authorizations are currently valid in the EU.
+The prediction has a very high model score but no clinical trials or literature, and the evidence level is L5. The plausible mechanism points toward promoting hair growth rather than treating hypertrichosis, and no route is known by which PDE5 inhibition would address Ambras syndrome.
 
 **To proceed, the following is needed:**
 - Clarification of the direction of the TxGNN prediction (treatment vs. inducing the phenotype)

@@ -48,10 +48,10 @@ Evidence is mostly small and heterogeneous, so the prediction is plausible but n
 |------|------|
 | Original Indication | Macular oedema following BRVO/CRVO, non-infectious posterior uveitis, diabetic macular oedema (Ozurdex); multiple myeloma (Neofordex) |
 | Predicted New Indication | Alopecia areata |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
-| EU Market Status | Cancelled only (no currently valid authorisation in the data compiled) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

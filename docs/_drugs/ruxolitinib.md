@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ruxolitinib: predicted new indication Uterine corpus perivascular epithelioid cell tumor (evidence level L5). Approved use: Myelofibrosis (disease-related splenomegaly or symptoms)…"
 monitor_inn: "Ruxolitinib"
-predicted_indications: ["uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lymphangioleiomyomatosis", "liposarcoma", "familial rhabdoid tumor", "lung PEComa", "ovarian myxoid liposarcoma", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection"]
+predicted_indications: ["uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lymphangioleiomyomatosis", "liposarcoma", "familial rhabdoid tumor", "lung PEComa", "ovarian myxoid liposarcoma", "hemophagocytic syndrome associated with an infection", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease"]
 ---
 
 # Ruxolitinib
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **uterine corpus perivascular e
 |------|------|
 | Original Indication | Myelofibrosis (disease-related splenomegaly or symptoms), polycythaemia vera, and acute and chronic graft versus host disease |
 | Predicted New Indication | Uterine corpus perivascular epithelioid cell tumor |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only |
-| Number of Authorizations | 2 |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Ruxolitinib is known as a JAK1/2 inhibitor. Its efficacy in myelofibrosis, polycythaemia vera and graft versus host disease is established, and it works by dampening JAK/STAT-driven signalling.
 
-The link to uterine PEComa is weak. PEComa biology is usually driven by mTOR pathway dysregulation (TSC1/TSC2), not JAK/STAT signalling. The high score of 0.997 most likely reflects proximity in the knowledge graph to other PEComa-family diseases rather than a validated mechanism. No trials or publications were found to support a rationale for JAK1/2 inhibition in this tumour.
+The link to uterine PEComa is weak. PEComa biology is usually driven by mTOR pathway dysregulation (TSC1/TSC2), not JAK/STAT signalling. The high score of 0.9973 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related PEComa-family diseases, not biological evidence. No trials or publications were found to support a rationale for JAK1/2 inhibition in this tumour.
 
 ## Clinical Trial Evidence
 
@@ -87,7 +87,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a graph-based score alone, with no trials, no literature, and a mechanism (mTOR-driven PEComa) that does not point to JAK inhibition. Both EU authorisations are also currently cancelled.
+The prediction rests on a TxGNN model (deep learning) score alone, with no trials, no literature, and a mechanism (mTOR-driven PEComa) that does not point to JAK inhibition. Both EU authorisations are currently valid.
 
 **To proceed, the following is needed:**
 - Preclinical evidence of JAK/STAT involvement in PEComa, or any clinical report of ruxolitinib use in this tumour

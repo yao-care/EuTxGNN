@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bezlotoxumab: predicted new indication Acute female pelvic peritonitis (evidence level L5). Approved use: Prevention of recurrence of Clostridium difficile infection (CDI) in…"
 monitor_inn: "Bezlotoxumab"
-predicted_indications: ["acute female pelvic peritonitis", "embryonic cyst of fallopian tube", "tubal pregnancy", "salpingitis isthmica nodosa", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal cystic lymphangioma", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "pelvic varices"]
+predicted_indications: ["acute female pelvic peritonitis", "embryonic cyst of fallopian tube", "tubal pregnancy", "salpingitis isthmica nodosa", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "pelvic varices"]
 ---
 
 # Bezlotoxumab
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **acute female pelvic peritonit
 |------|------|
 | Original Indication | Prevention of recurrence of Clostridium difficile infection (CDI) in adults at high risk for recurrence |
 | Predicted New Indication | Acute female pelvic peritonitis |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, bezlotoxumab is a monoclonal antibody that neutralizes C. difficile toxin B. Its efficacy in preventing CDI recurrence is the basis of its original approval.
 
-Mechanistically, the link to the new indication is weak. Acute female pelvic peritonitis is typically a polymicrobial infection, and a toxin B-neutralizing antibody has no known activity against it. The high TxGNN score (about 99.9%) is a model prediction only and may reflect network proximity in the knowledge graph rather than true biological relevance.
+Mechanistically, the link to the new indication is weak. Acute female pelvic peritonitis is typically a polymicrobial infection, and a toxin B-neutralizing antibody has no known activity against it. The high TxGNN score (0.9989) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The other top-ranked predictions are also unsupported by trials or literature and have no plausible mechanistic link. They include embryonic cyst of fallopian tube, tubal pregnancy, salpingitis isthmica nodosa, disease of uterine broad ligament, lumbar spinal stenosis, abdominal cystic lymphangioma, abdominal ectopic pregnancy, celiac trunk compression syndrome and pelvic varices. These conditions are mostly structural, developmental or vascular, with no toxin-mediated component. This pattern suggests the predictions may be artifacts of the model.
 

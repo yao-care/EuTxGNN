@@ -4,17 +4,17 @@ title: Eflornithine
 parent: AI Predictions (L5)
 nav_order: 209
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Eflornithine: predicted new indication Esotropia (evidence level L5). Approved use: Treatment of facial hirsutism in women"
 monitor_inn: "Eflornithine"
-predicted_indications: ["esotropia", "neurotrophic keratopathy", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "trypanosomiasis, bovine", "blood group incompatibility", "monoclonal gammopathy", "premalignant hematological system disease", "congenital prothrombin deficiency"]
+predicted_indications: ["esotropia", "neurotrophic keratopathy"]
 ---
 
 # Eflornithine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Eflornithine was originally authorised in the EU for treating facial hirsutism in women (as Vaniqa).
-The TxGNN model predicts it may be effective for **esotropia**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction. It rests on a graph-based model score alone.
+The TxGNN model predicts it may be effective for **esotropia**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction. It rests on a TxGNN model (deep learning) score alone.
 
 ## Quick Overview
 
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **esotropia**, but there are cu
 |------|------|
 | Original Indication | Treatment of facial hirsutism in women |
 | Predicted New Indication | Esotropia |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Esotropia is an eye-alignment disorder involving ocular motility and binocular vision. No plausible mechanistic link has been identified between polyamine depletion and its pathophysiology. The original indication (hair growth in the skin) and the predicted indication (eye misalignment) are also biologically unrelated.
 
-The high score (0.9985) is therefore best treated as a statistical output of the knowledge graph, not as evidence of efficacy. Other top-ranked predictions show similar problems. Examples include neurotrophic keratopathy (where ODC inhibition would be expected to impair epithelial repair), congenital analbuminemia and congenital prothrombin deficiency (both single-gene disorders). Among lower-ranked predictions, bovine trypanosomiasis is the only one with a biologically plausible rationale, because eflornithine is an established treatment for human African trypanosomiasis.
+The high score (0.9985) is therefore best treated as a statistical output of the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence of efficacy. Other top-ranked predictions show similar problems. One example is neurotrophic keratopathy (where ODC inhibition would be expected to impair epithelial repair). Among lower-ranked predictions, bovine trypanosomiasis is the only one with a biologically plausible rationale, because eflornithine is an established treatment for human African trypanosomiasis.
 
 ## Clinical Trial Evidence
 
@@ -73,7 +73,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/000325 | Vaniqa | Not specified | Treatment of facial hirsutism in women. (Status: cancelled) |
+| EMEA/H/C/000325 | Vaniqa | Not specified | Treatment of facial hirsutism in women. (Status: valid) |
 
 ## Safety Considerations
 

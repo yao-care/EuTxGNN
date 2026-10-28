@@ -4,17 +4,17 @@ title: Venetoclax
 parent: AI Predictions (L5)
 nav_order: 663
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Venetoclax: predicted new indication Pregerminal center chronic lymphocytic leukemia/small lymphocytic lym… (evidence level L5). Approved use: Chronic lymphocytic leukaemia (CLL) in combination with …"
 monitor_inn: "Venetoclax"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
+description: "Venetoclax: predicted new indication Hodgkins lymphoma (evidence level L5). Approved use: Venclyxto in combination with obinutuzumab is indicated for the treat…"
 ---
 
 # Venetoclax
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Venetoclax: From Chronic Lymphocytic Leukaemia to Pregerminal Center CLL/SLL
+## Venetoclax: Hodgkins lymphoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Venetoclax is a selective BCL-2 inhibitor, originally authorised in the EU for chronic lymphocytic leukaemia (CLL) and for newly diagnosed acute myeloid leukaemia (AML) in patients ineligible for intensive chemotherapy.
-The TxGNN model predicts it may be effective for **pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma**, a molecular subset of CLL/SLL.
 For this top-ranked prediction, the data compiled for this report contain **no registered clinical trials** and **1 publication** (a biological study of the B-cell receptor). Supporting evidence comes mainly from the approved CLL indication, not from studies of this subtype.
 
 ---
@@ -48,12 +47,12 @@ For this top-ranked prediction, the data compiled for this report contain **no r
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic lymphocytic leukaemia (CLL) in combination with obinutuzumab or rituximab, or as monotherapy; AML in combination with a hypomethylating agent |
-| Predicted New Indication | Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma |
-| TxGNN Prediction Score | 99.55% |
-| Evidence Level | L1 (as assigned in the compiled data, based on the approved CLL indication; see note below) |
-| EU Market Status | Cancelled only (the single authorisation is cancelled) |
-| Number of Authorizations | 1 |
+| Original Indication | Venclyxto in combination with obinutuzumab is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL) (see section 5.1). Venclyxto in combination with rituximab is indicated for the treatment of adult patients with CLL who have received at least on |
+| Predicted New Indication | Hodgkins lymphoma |
+| TxGNN Prediction Score | 0.9951 |
+| Evidence Level | L5 (as assigned in the compiled data, based on the approved CLL indication; see note below) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note:* No trials are registered specifically for this predicted subtype. The L1 level reflects the strength of evidence in CLL as a whole (for example the Phase 3 MURANO trial), not subtype-specific studies.
@@ -68,7 +67,7 @@ The predicted indication is not a new disease. "Pregerminal center CLL/SLL" is t
 
 The single publication identified (Forconi et al., 2022) is a review of tumour B-cell receptor structure and function in CLL. It explains the biology of the U-CLL and M-CLL subsets but does not test venetoclax.
 
-The same CLL/SLL rationale applies to the second-ranked prediction, CLL/SLL with somatic hypermutation of the immunoglobulin heavy chain variable region (the mutated-IGHV subset). Its score is identical (99.55%), and venetoclax activity is not restricted by IGHV mutation status.
+The same CLL/SLL rationale applies to the second-ranked prediction, CLL/SLL with somatic hypermutation of the immunoglobulin heavy chain variable region (the mutated-IGHV subset).
 
 ---
 
@@ -92,7 +91,6 @@ Currently no related clinical trials are registered for the predicted indication
 |---------|------|------|-----------|
 | EMEA/H/C/004106 | Venclyxto | Not specified | Venclyxto in combination with obinutuzumab is indicated for the treatment of adult patients with previously untreated chronic lymphocytic... |
 
-This authorisation is recorded as cancelled, so no valid EU marketing authorisation is shown in the data.
 
 ---
 

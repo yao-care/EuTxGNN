@@ -4,17 +4,17 @@ title: Ribociclib
 parent: Medium Evidence (L3-L4)
 nav_order: 521
 evidence_level: L4
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Ribociclib: predicted new indication Myeloid leukemia (evidence level L4). Approved use: HR-positive…"
 monitor_inn: "Ribociclib"
-predicted_indications: ["myeloid leukemia", "thrombocytopenia", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "transient neonatal thrombocytopenia", "dense granule disease", "multiple endocrine neoplasia", "HIV infectious disease", "heart neoplasm"]
+predicted_indications: ["myeloid leukemia", "thrombocytopenia", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets"]
 ---
 
 # Ribociclib
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **myeloid leukemia**, but there
 |------|------|
 | Original Indication | HR-positive, HER2-negative early breast cancer (adjuvant) and locally advanced or metastatic breast cancer |
 | Predicted New Indication | Myeloid leukemia |
-| TxGNN Prediction Score | 99.35% |
+| TxGNN Prediction Score | 0.9935 |
 | Evidence Level | L4 |
-| EU Market Status | ✗ Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

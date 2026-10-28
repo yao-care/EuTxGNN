@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sacubitril
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 544
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Sacubitril: predicted new indication Diabetic nephropathy (evidence level L2). Approved use: Symptomatic chronic heart failure with reduced ejection fraction (adu…"
 monitor_inn: "Sacubitril"
-predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy", "sclerosing cholangitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "homozygous familial hypercholesterolemia", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations"]
+predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
+description: "Sacubitril: predicted new indication Brain small vessel disease 1 with or without ocular anomalies (evidence level L5). Approved use: Paediatric heart failure Entresto is indicated in children and ad…"
 ---
 
 # Sacubitril
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Sacubitril: From Chronic Heart Failure to Diabetic Nephropathy
+## Sacubitril: Brain small vessel disease 1 with or without ocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,15 +48,15 @@ Currently **1 clinical trial** and **15 publications** support this direction.
 
 | Item | Content |
 |------|------|
-| Original Indication | Symptomatic chronic heart failure with reduced ejection fraction (adults); symptomatic chronic heart failure with left ventricular systolic dysfunction (children aged ≥1 year) |
-| Predicted New Indication | Diabetic nephropathy |
-| TxGNN Prediction Score | 99.50% |
-| Evidence Level | L2 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 2 (both cancelled) |
+| Original Indication | Paediatric heart failure Entresto is indicated in children and adolescents aged one year or older for treatment of symptomatic chronic heart failure with left ventricular systolic dysfunction. Adult heart failure Entresto is indicated in adult patients for treatment of symptomatic chronic heart fail |
+| Predicted New Indication | Brain small vessel disease 1 with or without ocular anomalies |
+| TxGNN Prediction Score | 0.9958 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
-**Note on prediction selection:** The highest-scoring prediction by TxGNN is "brain small vessel disease 1 with or without ocular anomalies" (99.58%), but it has no relevant supporting evidence and no plausible mechanism. The report therefore focuses on diabetic nephropathy (99.50%), the first prediction with clinical and preclinical support. The other eight predictions have no clinical trials and little or no literature (evidence level L5, or L4 for the first), and are not recommended for further work at this time.
+**Note on prediction selection:** The highest-scoring prediction by TxGNN is "brain small vessel disease 1 with or without ocular anomalies" (0.9958), but it has no relevant supporting evidence and no plausible mechanism. The report therefore focuses on diabetic nephropathy (0.9950), the first prediction with clinical and preclinical support. The other eight predictions have no clinical trials and little or no literature (evidence level L5, or L4 for the first), and are not recommended for further work at this time.
 
 ---
 

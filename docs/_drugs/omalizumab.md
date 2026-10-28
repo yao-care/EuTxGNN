@@ -50,10 +50,10 @@ The trials appear to be asthma or urticaria studies that were mapped onto this t
 |------|------|
 | Original Indication | Allergic asthma (adults, adolescents and children aged 6 to <12 years), chronic rhinosinusitis with nasal polyps, chronic spontaneous urticaria |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.999% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L2 |
-| EU Market Status | Cancelled only (both authorizations are listed as cancelled) |
-| Number of Authorizations | 2 |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -95,8 +95,8 @@ Other predicted indications in the data have stronger support, particularly atop
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/005958 | Omlyclo (status: cancelled) | Not specified | Allergic asthma (adults, adolescents and children 6 to <12 years), chronic rhinosinusitis with nasal polyps, chronic spontaneou... |
-| EMEA/H/C/000606 | Xolair (status: cancelled) | Not specified | Allergic asthma (adults, adolescents and children 6 to <12 years), chronic rhinosinusitis with nasal polyps, chronic spontaneou... |
+| EMEA/H/C/005958 | Omlyclo (status: valid) | Not specified | Allergic asthma (adults, adolescents and children 6 to <12 years), chronic rhinosinusitis with nasal polyps, chronic spontaneou... |
+| EMEA/H/C/000606 | Xolair (status: valid) | Not specified | Allergic asthma (adults, adolescents and children 6 to <12 years), chronic rhinosinusitis with nasal polyps, chronic spontaneou... |
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Regorafenib
-parent: AI Predictions (L5)
+parent: High Evidence (L1-L2)
 nav_order: 513
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Regorafenib: predicted new indication Liposarcoma (evidence level L5). Approved use: Metastatic colorectal cancer (previously treated)"
 monitor_inn: "Regorafenib"
-predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "childhood kidney cell carcinoma", "vulva sarcoma", "spindle cell liposarcoma", "renal cell carcinoma (disease)"]
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
+description: "Regorafenib: predicted new indication Liposarcoma (evidence level L1). Approved use: Stivarga is indicated as monotherapy for the treatment of adult patie…"
 ---
 
 # Regorafenib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Regorafenib: From Metastatic Colorectal Cancer to Liposarcoma
+## Regorafenib: Liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **liposarcoma**, with **1 clini
 
 | Item | Content |
 |------|------|
-| Original Indication | Metastatic colorectal cancer (previously treated); unresectable or metastatic GIST after imatinib and sunitinib; hepatocellular carcinoma after sorafenib |
+| Original Indication | Stivarga is indicated as monotherapy for the treatment of adult patients with: metastatic colorectal cancer (CRC) who have been previously treated with, or are not considered candidates for, available therapies - these include fluoropyrimidine-based chemotherapy, an anti-VEGF therapy and an anti-EGF |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L1 (as assigned in the compiled data; see caveat below) |
-| EU Market Status | Cancelled only (the single centralised authorisation is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails (see the caution in the Conclusion) |
 
 ---
@@ -125,7 +125,6 @@ Please refer to the SmPC for warnings and contraindications.
 
 **Rationale:**
 - The compiled data label this candidate L1 and "Proceed with Guardrails". However, the key randomised evidence in liposarcoma (SARC024 and REGOSARC) is negative, and the authors state it does not support routine use. A high model score and a rich evidence base do not equal a positive signal. Any further work should be limited to hypothesis-driven studies, such as combination approaches or specific liposarcoma subtypes, rather than regorafenib monotherapy as a general liposarcoma treatment.
-- The EU authorisation for Stivarga is cancelled, so no currently valid EU marketed product exists in the compiled data.
 
 **To proceed, the following is needed:**
 - Subtype-level results from SARC024 (e.g. well-differentiated, dedifferentiated, myxoid and pleomorphic liposarcoma) to check for any responsive subgroup

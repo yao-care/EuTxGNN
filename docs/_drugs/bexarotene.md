@@ -4,17 +4,17 @@ title: Bexarotene
 parent: AI Predictions (L5)
 nav_order: 92
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Bexarotene: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L5). Approved use: Skin manifestations of advanced-stage cutaneous T-cell lymphoma (CTCL…"
 monitor_inn: "Bexarotene"
-predicted_indications: ["primary cutaneous B-cell lymphoma", "Sezary syndrome", "lymphosarcoma", "lymph node cancer", "granulomatous slack skin disease", "primary organ-specific lymphoma", "folliculotropic mycosis fungoides", "localized pagetoid reticulosis", "myelodysplastic syndrome", "acute lymphoblastic leukemia (disease)"]
+predicted_indications: ["primary cutaneous B-cell lymphoma", "Sezary syndrome", "lymphosarcoma"]
 ---
 
 # Bexarotene
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The evidence for this top-ranked prediction is therefore model-based only, and t
 |------|------|
 | Original Indication | Skin manifestations of advanced-stage cutaneous T-cell lymphoma (CTCL) in patients refractory to at least one systemic treatment |
 | Predicted New Indication | Primary cutaneous B-cell lymphoma |
-| TxGNN Prediction Score | 99.44% |
+| TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,19 +62,14 @@ The evidence for this top-ranked prediction is therefore model-based only, and t
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on the retrieved evidence, bexarotene is an RXR-selective rexinoid that regulates gene transcription through RXR heterodimers and induces apoptosis and differentiation in malignant T cells. Its efficacy in CTCL is the basis of its approval.
 
-The high score for primary cutaneous B-cell lymphoma most likely reflects the proximity of this disease to CTCL in the knowledge graph, since both are primary cutaneous lymphomas. No B-cell-specific mechanism or clinical data were found. The retrieved literature consists of general cutaneous lymphoma reviews and case series, mostly about T-cell subtypes. The prediction should therefore be treated as a hypothesis, not as supported evidence.
+The high score for primary cutaneous B-cell lymphoma comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as CTCL, since both are primary cutaneous lymphomas, not biological evidence. No B-cell-specific mechanism or clinical data were found. The retrieved literature consists of general cutaneous lymphoma reviews and case series, mostly about T-cell subtypes. The prediction should therefore be treated as a hypothesis, not as supported evidence.
 
 **Other predictions in the same disease family are better supported:**
 
 | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Sezary syndrome | 99.29% | L1 | Largely on-label use (leukemic CTCL), not true repurposing. Includes a Phase 3 trial (terminated early) and several Phase 2 trials |
-| Lymphosarcoma | 99.12% | L1 | Mapping of CTCL data. Not evidence for lymphosarcoma as a distinct entity |
-| Lymph node cancer | 98.90% | L3 | Non-specific category. Reviews and case reports only; some reports describe extracutaneous progression during treatment |
-| Granulomatous slack skin disease | 98.64% | L4 | Plausible CTCL variant, but evidence is indirect |
-| Folliculotropic mycosis fungoides | 96.69% | L3 | Case reports and a systematic review. Anecdotal responses |
-| Myelodysplastic syndrome | 95.02% | L2 | One completed Phase 2 trial (n=26) with sargramostim. Efficacy not clearly shown |
-| Primary organ-specific lymphoma, localized pagetoid reticulosis, acute lymphoblastic leukemia | 94.5–97.2% | L4–L5 | Graph-based or case-description only |
+| Sezary syndrome | 0.9929 | L1 | Largely on-label use (leukemic CTCL), not true repurposing. Includes a Phase 3 trial (terminated early) and several Phase 2 trials |
+| Lymphosarcoma | 0.9912 | L5 | Mapping of CTCL data. Not evidence for lymphosarcoma as a distinct entity |
 
 ---
 

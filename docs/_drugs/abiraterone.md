@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Abiraterone
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 16
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Abiraterone: predicted new indication Migraine disorder (evidence level L5). Approved use: Newly diagnosed high-risk metastatic hormone-sensitive prostate cance…"
+description: "Abiraterone: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Abiraterone"
-predicted_indications: ["migraine disorder", "migraine with or without aura, susceptibility to", "migraine with brainstem aura", "leprosy", "pulmonary hypertension", "nephrogenic syndrome of inappropriate antidiuresis", "rheumatoid arthritis", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Abiraterone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,49 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Abiraterone: From Prostate Cancer to Migraine Disorder
+## Abiraterone
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Abiraterone is a hormone-pathway drug, used together with prednisone or prednisolone, originally indicated for metastatic prostate cancer.
-The TxGNN model predicts it may be effective for **migraine disorder**, but this is a graph-based prediction only, with **0 clinical trials** and **0 publications** currently supporting this direction.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Newly diagnosed high-risk metastatic hormone-sensitive prostate cancer (mHSPC) with ADT; metastatic castration-resistant prostate cancer (mCRPC), before or after docetaxel chemotherapy |
-| Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 98.81% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 4 (all cancelled) |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Abiraterone is known to be an androgen-biosynthesis inhibitor (it blocks CYP17A1), and its efficacy in androgen-driven prostate cancer is established. It is always given with prednisone or prednisolone.
-
-The data compiled for this report does not establish a plausible mechanistic link between blocking androgen synthesis and migraine. The high TxGNN score (98.81%) reflects a pattern in the knowledge graph, not clinical or laboratory findings. The two other migraine-related predictions (migraine with or without aura susceptibility, and migraine with brainstem aura) most likely share the same graph signal, so they should not be viewed as independent confirmation.
-
-The required co-administration of a glucocorticoid and abiraterone's mineralocorticoid-excess effects (fluid retention, hypertension, low potassium) would also complicate use in a non-cancer population.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available for migraine disorder.
+| Original Indication | Abiraterone Mylan is indicated with prednisone or prednisolone for: the treatment of newly diagnosed high risk metastatic hormone sensitive prostate cancer (mHSPC) in adult men in combination with androgen deprivation therapy (ADT). the treatment of metastatic castration resistant prostate cancer (m |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 
 ---
 
@@ -88,7 +57,6 @@ Currently no related literature available for migraine disorder.
 | EMEA/H/C/002321 | Zytiga | – | With prednisone or prednisolone: mCRPC in men asymptomatic or mildly symptomatic after ADT failure, or after docetaxel... |
 | EMEA/H/C/005649 | Abiraterone Krka | – | With prednisone or prednisolone: newly diagnosed high-risk mHSPC with ADT; mCRPC (asymptomatic/mildly symptomatic after ADT failure, or after docetaxel)... |
 
-All four authorizations are listed as cancelled.
 
 ---
 
@@ -115,18 +83,6 @@ Please refer to the SmPC for warnings and contraindications.
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The migraine prediction rests on a graph-based score alone (Evidence Level L5), with no trials, no literature, and no supported mechanism. The other nine predictions (including leprosy, rheumatoid arthritis and pulmonary hypertension) are equally unsupported. The five publications retrieved for pulmonary hypertension all concern prostate cancer and are not relevant. In addition, all EU authorizations are cancelled.
-
-**To proceed, the following is needed:**
-- Mechanism of action data and a biologically plausible rationale linking CYP17A1 inhibition to migraine
-- Preclinical or early clinical evidence in migraine
-- Safety information from the SmPC (warnings and contraindications), and a risk assessment for glucocorticoid co-administration and mineralocorticoid-excess effects in a non-cancer population
-- Clarification of the regulatory status given that all EU authorizations are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,17 +4,17 @@ title: Orlistat
 parent: AI Predictions (L5)
 nav_order: 451
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Orlistat: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Treatment of obese patients (BMI ≥ 30 kg/m²) or overweight patients (…"
 monitor_inn: "Orlistat"
-predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny", "hypoalphalipoproteinemia", "obsolete susceptibility to ischemic stroke", "ABri amyloidosis", "fatty liver disease", "homozygous familial hypercholesterolemia", "amenorrhea (disease)"]
+predicted_indications: ["hypervitaminosis"]
+description: "Orlistat: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Xenical is indicated in conjunction with a mildly hypocaloric diet fo…"
 ---
 
 # Orlistat
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Orlistat: From Obesity and Overweight to Hypervitaminosis
+## Orlistat: Hypervitaminosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ The prediction rests on model output alone, and the pharmacology points the othe
 
 | Item | Content |
 |------|------|
-| Original Indication | Treatment of obese patients (BMI ≥ 30 kg/m²) or overweight patients (BMI > 28 kg/m²) with associated risk factors, alongside a mildly hypocaloric diet |
+| Original Indication | Xenical is indicated in conjunction with a mildly hypocaloric diet for the treatment of obese patients with a body mass index (BMI) greater or equal to 30 kg/m2, or overweight patients (BMI &gt; 28 kg/m2) with associated risk factors. Treatment with orlistat should be discontinued after 12 weeks if  |
 | Predicted New Indication | Hypervitaminosis |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -80,7 +80,6 @@ Currently no related literature available.
 
 ## EU Market Information
 
-Both EU authorizations have been cancelled, so orlistat has no currently valid EU marketing authorization in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -110,14 +109,13 @@ Please refer to the SmPC for label warnings and contraindications, which were no
 **Rationale:**
 - The prediction has no clinical or literature support (L5, model prediction only).
 - The known pharmacology, reduced absorption of fat-soluble vitamins, is an adverse effect rather than a therapeutic rationale.
-- Orlistat currently has no valid EU marketing authorization.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA), together with a documented rationale for why lipase inhibition would treat vitamin excess.
 - Label warnings and contraindications from the SmPC, to complete safety screening.
 - Any preclinical or clinical study of orlistat in hypervitaminosis.
 
-**Note on other candidates:** Among the other model predictions for orlistat, **fatty liver disease** is the best supported. It has two completed Phase 4 trials (NCT00160407, n=50; NCT00207311, n=30), a 2023 randomized controlled trial of orlistat versus diet in obesity with metabolic-associated fatty liver disease (PMID 36781126), and a 2024 meta-analysis of randomized trials (PMID 38910819). Any benefit is likely driven by weight loss rather than a liver-specific effect. This candidate would be a more productive starting point for further evaluation than hypervitaminosis.
+Any benefit is likely driven by weight loss rather than a liver-specific effect. This candidate would be a more productive starting point for further evaluation than hypervitaminosis.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

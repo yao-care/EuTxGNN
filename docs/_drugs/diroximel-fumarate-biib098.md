@@ -7,14 +7,15 @@ description: "Diroximel Fumarate (Biib098) drug repurposing predictions from TxG
 parent: AI Predictions (L5)
 nav_order: 176
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Diroximel Fumarate (Biib098)
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | diabetic cataract | 100.00% | DL |
-| 2 | diabetic retinopathy | 100.00% | DL |
-| 3 | severe nonproliferative diabetic retinopathy | 100.00% | DL |
-| 4 | craniostenosis cataract | 100.00% | DL |
-| 5 | tetanic cataract | 100.00% | DL |
-| 6 | immature cataract | 100.00% | DL |
-| 7 | mature cataract | 100.00% | DL |
-| 8 | nuclear senile cataract | 100.00% | DL |
-| 9 | diabetes mellitus type 2 associated cataract | 100.00% | DL |
-| 10 | cortical cataract | 100.00% | DL |
-| 11 | senile cataract | 100.00% | DL |
-| 12 | dermatitis | 100.00% | DL |
-| 13 | exanthem (disease) | 100.00% | DL |
-| 14 | drug-induced osteoporosis | 99.99% | DL |
-| 15 | iris disease | 99.99% | DL |
-| 16 | acrodermatitis chronica atrophicans | 99.99% | DL |
-| 17 | neonatal dermatomyositis | 99.99% | DL |
-| 18 | panuveitis (disease) | 99.99% | DL |
-| 19 | isolated iridoschisis | 99.99% | DL |
-| 20 | amyopathic dermatomyositis | 99.99% | DL |
 
 *Showing top 20 of 50 predictions.*
 

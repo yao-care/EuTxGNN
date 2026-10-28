@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Asenapine: From Bipolar I Manic Episodes to Retinal Dystrophy
+## Asenapine: From Bipolar I Manic Episodes to retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ However, there are **0 clinical trials** and **0 publications** supporting this 
 |------|------|
 | Original Indication | Moderate to severe manic episodes associated with bipolar I disorder in adults |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.77% |
+| TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ However, there are **0 clinical trials** and **0 publications** supporting this 
 
 Detailed mechanism-of-action data for asenapine are not available in the data compiled for this report. Asenapine is generally understood to be a multi-receptor antipsychotic that blocks dopamine D2 and serotonin 5-HT2A receptors, with additional activity at other serotonin, adrenergic and histamine receptors. This profile explains its efficacy in mania, but it has no known connection to inherited retinal degeneration.
 
-The original indication (mania in bipolar I disorder) is a psychiatric condition, while the predicted indication is a genetic degenerative eye disease. No known pathway links the two. The high TxGNN score (99.77%) is a graph-based computational prediction, and no experimental or clinical data back it. The prediction should be treated as a hypothesis only.
+The original indication (mania in bipolar I disorder) is a psychiatric condition, while the predicted indication is a genetic degenerative eye disease. No known pathway links the two. The high TxGNN score (0.9977) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No experimental or clinical data back it. The prediction should be treated as a hypothesis only.
 
 ---
 
@@ -82,7 +82,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/001177 | Sycrest | Not specified | Treatment of moderate to severe manic episodes associated with bipolar I disorder in adults. (Status: cancelled) |
+| EMEA/H/C/001177 | Sycrest | Not specified | Treatment of moderate to severe manic episodes associated with bipolar I disorder in adults. (Status: valid) |
 
 ---
 

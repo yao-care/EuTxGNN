@@ -47,10 +47,10 @@ The TxGNN model predicts it may be useful for **Rasmussen subacute encephalitis*
 |------|------|
 | Original Indication | Add-on therapy to a stable dose of levodopa (alone or with other Parkinson's medicines) in adults with idiopathic Parkinson's disease who have mid- to late-stage fluctuations |
 | Predicted New Indication | Rasmussen subacute encephalitis |
-| TxGNN Prediction Score | 99.63% |
+| TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,8 +62,8 @@ One possible link is that safinamide also blocks voltage-gated sodium channels a
 Rasmussen encephalitis is mainly an immune-mediated, progressive brain disease. Nothing in the data indicates that safinamide acts on the underlying immune process, so any benefit would at most be symptomatic.
 
 Two other predictions were also generated, both with L5 evidence and a Hold recommendation:
-- **Myelitis** (score 99.46%): A possible neuroprotective or anti-excitotoxic effect has been proposed. Myelitis covers infectious, autoimmune, and post-infectious causes, and nothing suggests safinamide addresses these.
-- **PLA2G6-associated neurodegeneration** (score 99.22%): Safinamide might ease parkinsonian features, but it would not be expected to correct the underlying lipid-metabolism defect.
+- **Myelitis** (score 0.9946): A possible neuroprotective or anti-excitotoxic effect has been proposed. Myelitis covers infectious, autoimmune, and post-infectious causes, and nothing suggests safinamide addresses these.
+- **PLA2G6-associated neurodegeneration** (score 0.9922): Safinamide might ease parkinsonian features, but it would not be expected to correct the underlying lipid-metabolism defect.
 
 ## Clinical Trial Evidence
 
@@ -99,7 +99,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based model score, with no registered clinical trials and no published literature. The mechanistic link is hypothetical, and key mechanism and label safety data are missing.
+The prediction rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no registered clinical trials and no published literature. The mechanistic link is hypothetical, and key mechanism and label safety data are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data from DrugBank to test the proposed link

@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Concizumab
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 159
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Concizumab: predicted new indication Diabetic cataract (evidence level L5). Approved use: Routine prophylaxis of bleeding in patients 12 years or older with ha…"
+description: "Concizumab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Concizumab"
-predicted_indications: ["diabetic cataract", "craniostenosis cataract", "immature cataract", "tetanic cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "cortical cataract", "nuclear senile cataract", "antithrombin deficiency type 2", "senile cataract"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Concizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,37 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Concizumab: From Haemophilia A/B Bleeding Prophylaxis to Diabetic Cataract
+## Concizumab
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Concizumab is an anti-TFPI monoclonal antibody, originally used for routine prophylaxis of bleeding in haemophilia A and B.
-The TxGNN model predicts it may be effective for **diabetic cataract**, but this is a model-only prediction with **0 clinical trials** and **0 publications** supporting it, and no plausible mechanistic link has been identified.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Routine prophylaxis of bleeding in patients 12 years or older with haemophilia A (with or without FVIII inhibitors) and haemophilia B (with or without FIX inhibitors) |
-| Predicted New Indication | Diabetic cataract |
-| TxGNN Prediction Score | 98.27% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only |
-| Number of Authorizations | 1 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, concizumab is an anti-TFPI (tissue factor pathway inhibitor) monoclonal antibody. By blocking TFPI, it removes inhibition of the extrinsic coagulation pathway and enhances thrombin generation, which is why it is used to prevent bleeding in haemophilia.
-
-The link to the predicted indication is weak. Diabetic cataract is driven by polyol pathway activation, osmotic stress and oxidative damage to the lens, none of which involve the coagulation pathway. The high TxGNN score most likely reflects proximity in the underlying knowledge graph rather than real biology. Other top-ranked predictions are almost all cataract subtypes (craniostenosis, immature, tetanic, type 2 diabetes-associated, mature, cortical, nuclear senile and senile cataract) with near-identical scores, which suggests a graph-level artifact shared across this disease cluster.
-
-The one prediction with some biological proximity to coagulation is antithrombin deficiency type 2 (rank 9). However, the direction is opposite: that condition is prothrombotic, and concizumab promotes thrombin generation, which would likely increase thrombotic risk.
+| Original Indication | Alhemo is indicated for routine prophylaxis of bleeding in patients 12 years of age or more with: •&nbsp;&nbsp;&nbsp;&nbsp;haemophilia A (congenital factor VIII deficiency) with FVIII inhibitors.•&nbsp;&nbsp;&nbsp;&nbsp;severe haemophilia A (congenital factor VIII deficiency, FVIII &lt; 1%) without  |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
 ---
 
@@ -85,18 +66,6 @@ The rationale for the antithrombin deficiency prediction also notes that concizu
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction rests only on a graph-based model score. There are no clinical trials or publications, and no plausible mechanism links TFPI inhibition to lens opacity. The only EU authorization is cancelled, and the safety review could not be completed.
-
-**To proceed, the following is needed:**
-- Mechanism of action data (for example from DrugBank) and a credible mechanistic hypothesis linking TFPI inhibition to cataract biology
-- Safety information from the SmPC (warnings and contraindications), which is required before any safety screening
-- Clarification of the cancelled EU market status
-- Preclinical evidence in lens or diabetic cataract models before any clinical consideration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,17 +4,17 @@ title: Abaloparatide
 parent: AI Predictions (L5)
 nav_order: 13
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Abaloparatide: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Treatment of osteoporosis in postmenopausal women at increased risk o…"
 monitor_inn: "Abaloparatide"
-predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "amenorrhea (disease)", "esophageal ulcer", "migraine disorder", "migraine with brainstem aura", "severe nonproliferative diabetic retinopathy", "pseudo-von Willebrand disease", "primary release disorder of platelets", "biotin metabolic disease"]
+predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "amenorrhea (disease)", "esophageal ulcer"]
 ---
 
 # Abaloparatide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **non-syndromic esophageal malf
 |------|------|
 | Original Indication | Treatment of osteoporosis in postmenopausal women at increased risk of fracture |
 | Predicted New Indication | Non-syndromic esophageal malformation |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (authorization no longer valid) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -73,7 +73,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/005928 | Eladynos | Not specified | Treatment of osteoporosis in postmenopausal women at increased risk of fracture. (Status: cancelled) |
+| EMEA/H/C/005928 | Eladynos | Not specified | Treatment of osteoporosis in postmenopausal women at increased risk of fracture. (Status: valid) |
 
 ## Safety Considerations
 

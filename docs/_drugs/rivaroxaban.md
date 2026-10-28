@@ -4,17 +4,17 @@ title: Rivaroxaban
 parent: AI Predictions (L5)
 nav_order: 532
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Rivaroxaban: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Prevention of venous thromboembolism (VTE) in adults undergoing elect…"
 monitor_inn: "Rivaroxaban"
-predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "systemic mastocytosis", "Smouldering systemic mastocytosis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
+predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
 ---
 
 # Rivaroxaban
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but **no clinical trials** and only **4 publications** (none testing rivaroxaban
 |------|------|
 | Original Indication | Prevention of venous thromboembolism (VTE) in adults undergoing elective hip or knee replacement surgery; treatment of DVT and PE and prevention of recurrence |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.57% |
+| TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 4 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -75,7 +75,7 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-All four EU authorizations are cancelled.
+All four EU authorizations are valid.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -96,7 +96,7 @@ Please also refer to the SmPC for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but there are no clinical trials and no study testing rivaroxaban in rheumatoid arthritis (Evidence Level L5). The mechanistic link is speculative, and the bleeding risk and the many interactions, including with commonly used anti-inflammatory drugs, add concern. In addition, all EU authorizations are currently cancelled.
+The prediction score is very high, but there are no clinical trials and no study testing rivaroxaban in rheumatoid arthritis (Evidence Level L5). The mechanistic link is speculative, and the bleeding risk and the many interactions, including with commonly used anti-inflammatory drugs, add concern. The drug is marketed, and all four EU authorizations are currently valid.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a clearer rationale for Factor Xa inhibition in rheumatoid arthritis

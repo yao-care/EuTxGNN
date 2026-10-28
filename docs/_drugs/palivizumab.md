@@ -48,10 +48,10 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Prevention of serious lower-respiratory-tract disease requiring hospitalisation caused by RSV in children at high risk (preterm birth ≤35 weeks, bronchopulmonary dysplasia, haemodynamically significant congenital heart disease) |
 | Predicted New Indication | Benign neoplasm of tongue |
-| TxGNN Prediction Score | 99.94% |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,9 +60,9 @@ Currently, detailed mechanism of action data compiled for this report is not ava
 
 The original indication (a viral respiratory infection) and the predicted indication (a benign tumour of the tongue) are biologically unrelated. No RSV-driven pathway is established in tongue neoplasms, and an antibody against a viral antigen has no known target in this tissue. Any anti-tumour effect would require an unproven off-target or immune mechanism.
 
-The high TxGNN score (99.94%) is a computational prediction only. No trials or literature support it, so this report finds no credible mechanistic rationale at this stage.
+The high TxGNN score (0.9994) is a computational prediction only. No trials or literature support it, so this report finds no credible mechanistic rationale at this stage.
 
-Other top-ranked predictions show the same pattern: epiglottis neoplasm, cervical neuroblastoma, benign neoplasm of hypopharynx, benign neoplasm of floor of mouth, tumor of testis and paratestis, cystic neoplasm, schwannoma of jugular foramen, mesenchymoma, and thyroglossal duct cyst. All scored about 99.94%, all are L5, and none has trial or literature support. Such uniformly high scores across unrelated tumour types suggest a model artifact rather than a drug-specific signal.
+Other top-ranked predictions show the same pattern: epiglottis neoplasm, cervical neuroblastoma, benign neoplasm of hypopharynx, benign neoplasm of floor of mouth, tumor of testis and paratestis, cystic neoplasm, schwannoma of jugular foramen, mesenchymoma, and thyroglossal duct cyst. All scored about 0.9994, all are L5, and none has trial or literature support. Such uniformly high scores across unrelated tumour types suggest a model artifact rather than a drug-specific signal.
 
 ## Clinical Trial Evidence
 

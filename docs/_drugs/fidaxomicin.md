@@ -4,17 +4,17 @@ title: Fidaxomicin
 parent: AI Predictions (L5)
 nav_order: 260
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Fidaxomicin: predicted new indication Staphylococcal scalded skin syndrome (evidence level L5). Approved use: Treatment of Clostridioides difficile infections (CDI…"
 monitor_inn: "Fidaxomicin"
-predicted_indications: ["staphylococcal scalded skin syndrome", "bullous impetigo", "inhalational botulism", "impetigo", "toxin-mediated infectious botulism", "vulvovaginal candidiasis", "hordeolum", "staphylococcus aureus pneumonia", "punctate epithelial keratoconjunctivitis", "parasitic skin disease"]
+predicted_indications: ["staphylococcal scalded skin syndrome", "bullous impetigo", "inhalational botulism", "impetigo", "toxin-mediated infectious botulism", "vulvovaginal candidiasis", "hordeolum", "staphylococcus aureus pneumonia", "punctate epithelial keratoconjunctivitis"]
 ---
 
 # Fidaxomicin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,17 +48,17 @@ but there are currently **no clinical trials** and **no directly relevant public
 |------|------|
 | Original Indication | Treatment of *Clostridioides difficile* infections (CDI, also known as C. difficile-associated diarrhoea) in adults and paediatric patients |
 | Predicted New Indication | Staphylococcal scalded skin syndrome |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (the single authorization is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, fidaxomicin is a narrow-spectrum macrocyclic RNA polymerase inhibitor, mainly active against Gram-positive anaerobes such as *C. difficile*. Its efficacy in CDI is established, and it shows some in vitro activity against *Staphylococcus aureus*, the bacterium behind staphylococcal scalded skin syndrome (SSSS).
 
-The link is weak, however. SSSS is a skin disease driven by exfoliative toxins and needs systemic therapy. Oral fidaxomicin is poorly absorbed and stays almost entirely in the gut, so it is unlikely to reach the skin at therapeutic levels. The high model score therefore looks like a hypothesis from the knowledge graph rather than a clinically grounded signal.
+The link is weak, however. SSSS is a skin disease driven by exfoliative toxins and needs systemic therapy. Oral fidaxomicin is poorly absorbed and stays almost entirely in the gut, so it is unlikely to reach the skin at therapeutic levels. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so it is not a clinically grounded signal.
 
 Other top-ranked predictions are also mostly staphylococcal skin or eye infections (bullous impetigo, impetigo, hordeolum). Several others have no plausible mechanism: inhalational and infectious botulism (toxin-mediated), vulvovaginal candidiasis (fungal), and parasitic skin disease. For *S. aureus* pneumonia, the only literature hit is a general hospital medicine update, not a study of fidaxomicin in this condition. None of these predictions has trial or literature support.
 

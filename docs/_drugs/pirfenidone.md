@@ -48,10 +48,10 @@ The only indication in the top 10 with any literature is fibroblastic neoplasm (
 |------|------|
 | Original Indication | Idiopathic pulmonary fibrosis (IPF) in adults (mild to moderate IPF for some products) |
 | Predicted New Indication | Extracutaneous mastocytoma |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorisations) |
-| Number of Authorizations | 3 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -83,9 +83,9 @@ No literature is available for extracutaneous mastocytoma. For reference, the ta
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/002154 | Esbriet | Not specified | Treatment of idiopathic pulmonary fibrosis in adults (cancelled) |
-| EMEA/H/C/005873 | Pirfenidone axunio (previously Pirfenidone AET) | Not specified | Treatment of mild to moderate idiopathic pulmonary fibrosis (IPF) in adults (cancelled) |
-| EMEA/H/C/005862 | Pirfenidone Viatris | Not specified | Treatment of mild to moderate idiopathic pulmonary fibrosis (IPF) in adults (cancelled) |
+| EMEA/H/C/002154 | Esbriet | Not specified | Treatment of idiopathic pulmonary fibrosis in adults (valid) |
+| EMEA/H/C/005873 | Pirfenidone axunio (previously Pirfenidone AET) | Not specified | Treatment of mild to moderate idiopathic pulmonary fibrosis (IPF) in adults (valid) |
+| EMEA/H/C/005862 | Pirfenidone Viatris | Not specified | Treatment of mild to moderate idiopathic pulmonary fibrosis (IPF) in adults (valid) |
 
 ## Safety Considerations
 
@@ -99,14 +99,14 @@ For warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The extracutaneous mastocytoma prediction has a very high model score but no trials, no literature and no defined mechanism, so it is Level L5. In addition, all three EU authorisations for pirfenidone are cancelled, and the case reports suggesting possible tumour-promoting signals call for caution.
+The extracutaneous mastocytoma prediction has a very high model score but no trials, no literature and no defined mechanism, so it is Level L5. In addition, the drug is marketed, with all three authorisations for pirfenidone valid (3 of 3), and the case reports suggesting possible tumour-promoting signals call for caution.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for pirfenidone (e.g., from DrugBank) and a mechanistic analysis linking it to mast cell disease
 - Warnings and contraindications from the SmPC or package insert
 - A targeted literature and trial search for extracutaneous mastocytoma and mast cell disorders
 - Preclinical studies in mast cell models before any clinical consideration
-- Clarification of current EU regulatory status, given that all authorisations are cancelled
+- Clarification of current EU regulatory status, given that the drug is marketed and all 3 authorisations are valid
 - Review of the sarcoma and dermatofibroma case reports as a safety question for any oncology-related use
 ## Disclaimer
 

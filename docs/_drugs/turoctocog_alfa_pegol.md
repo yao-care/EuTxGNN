@@ -48,22 +48,22 @@ The prediction rests on model output alone.
 |------|------|
 | Original Indication | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Can be used for all age groups. |
 | Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.997% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, turoctocog alfa pegol is a PEGylated recombinant factor VIII. It replaces the deficient coagulation factor in haemophilia A, and its efficacy in that condition is the basis of its authorisation.
 
-Primary release disorder of platelets is caused by a functional defect in platelets, not by a lack of factor VIII. Replacing FVIII therefore does not address the underlying problem. The very high TxGNN score (99.997%) most likely reflects the fact that both conditions sit in the same "bleeding disorder" neighbourhood of the knowledge graph, rather than a true mechanistic link.
+Primary release disorder of platelets is caused by a functional defect in platelets, not by a lack of factor VIII. Replacing FVIII therefore does not address the underlying problem. The very high TxGNN score (1.0000) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other top-ranked predictions show the same pattern. Examples are pseudo-von Willebrand disease, Glanzmann thrombasthenia, Scott syndrome, and collagen receptor defects. These are all platelet or platelet-surface disorders in which FVIII replacement does not correct the defect.
 
 Two candidates deserve separate comment:
-- **Acquired coagulation factor deficiency** (score 99.974%) is the most biologically plausible, because FVIII replacement makes sense when the deficiency is specifically of FVIII, as in acquired haemophilia A. However, that condition is usually driven by inhibitory autoantibodies that neutralise human-sequence FVIII, so bypassing agents or porcine FVIII are standard. The term is also broad and covers many other factors.
+- **Acquired coagulation factor deficiency** (score 0.9997) is the most biologically plausible, because FVIII replacement makes sense when the deficiency is specifically of FVIII, as in acquired haemophilia A. However, that condition is usually driven by inhibitory autoantibodies that neutralise human-sequence FVIII, so bypassing agents or porcine FVIII are standard. The term is also broad and covers many other factors.
 - **Flood factor deficiency** is an unclear term and may be an ontology artefact. The disease identity should be clarified before any evaluation.
 
 ## Clinical Trial Evidence

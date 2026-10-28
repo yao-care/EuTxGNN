@@ -5,10 +5,10 @@ parent: AI Predictions (L5)
 nav_order: 591
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tecovirimat: predicted new indication Hordeolum (evidence level L5). Approved use: Smallpox…"
 monitor_inn: "Tecovirimat"
-predicted_indications: ["hordeolum", "vibrio infectious disease", "Klebsiella infectious disease", "noma", "escherichia coli infection", "Newcastle disease", "idiopathic recurrent and disabling cutaneous herpes", "equine infectious anemia", "Astroviridae infectious disease", "Arterivirus infectious disease"]
+predicted_indications: ["hordeolum", "vibrio infectious disease", "Klebsiella infectious disease", "noma", "coinfection", "escherichia coli infection", "hookworm infectious disease", "mumps infectious disease", "polyomavirus infectious disease", "Proteus infectious disease"]
+last_modified_at: 2026-10-23
+description: "Tecovirimat: predicted new indication Hordeolum (evidence level L5). Approved use: Smallpox…"
 ---
 
 # Tecovirimat
@@ -38,8 +38,11 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Tecovirimat is an antiviral originally used to treat smallpox, monkeypox (mpox) and cowpox, and to treat complications of vaccinia virus replication after smallpox vaccination.
-The TxGNN model predicts it may be effective for **hordeolum** (a stye of the eyelid), but there are **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the model score alone and is likely a network-prediction artifact.
+Tecovirimat is an antiviral licensed in the EU for smallpox, monkeypox and cowpox, and for complications of vaccinia virus replication after smallpox vaccination.
+The TxGNN model's top-ranked prediction is **hordeolum** (a stye of the eyelid), but **no clinical trials and no publications** support it, and the proposed use has no plausible antiviral target.
+The prediction is therefore a purely computational signal that should be put on hold.
+
+---
 
 ## Quick Overview
 
@@ -47,53 +50,69 @@ The TxGNN model predicts it may be effective for **hordeolum** (a stye of the ey
 |------|------|
 | Original Indication | Smallpox, monkeypox and cowpox in adults and children weighing at least 13 kg; complications of vaccinia virus replication after smallpox vaccination |
 | Predicted New Indication | Hordeolum |
-| TxGNN Prediction Score | 99.66% |
+| TxGNN Prediction Score | 0.9966 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Tecovirimat is known to be a narrow-spectrum antiviral that inhibits the orthopoxvirus VP37 envelope-wrapping protein. Its efficacy has been established against orthopoxvirus infections, not against other pathogen groups.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on the mechanistic assessment that was provided, tecovirimat targets the orthopoxvirus VP37 envelope protein (p37), which blocks formation of extracellular enveloped virions. This activity is specific to orthopoxviruses.
 
-The predicted indication does not fit this mechanism. Hordeolum is typically a bacterial infection (usually *Staphylococcus aureus*) of an eyelid gland. Bacteria have no VP37 homolog, and tecovirimat has no known antibacterial activity. The high TxGNN score (99.66%) is therefore most likely a network-prediction artifact rather than a true repurposing signal.
+Hordeolum is a localised, usually staphylococcal bacterial infection of an eyelid gland. It has no orthopoxvirus target, and no antibacterial activity of tecovirimat has been established. The high TxGNN score (0.9966, rank 3798) reflects a network-based association and is not supported by any trial, publication or mechanistic rationale. The same holds for the other top-ranked predictions (for example vibrio, Klebsiella and Proteus infections, noma, hookworm, mumps and polyomavirus infections), which are also unsupported.
 
-The same pattern holds for the other top-ranked predictions: bacterial infections (Vibrio, Klebsiella, *E. coli*, noma) and unrelated viruses (herpes, Newcastle disease, equine infectious anemia, astroviruses, arteriviruses). None has a plausible mechanistic link to tecovirimat.
+Of the ten predictions, "coinfection" (rank 5) is the only one with substantial literature. That literature mostly describes mpox, an existing approved indication, occurring alongside HIV or other infections. It is indirect evidence for the existing indication, not support for a new one.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for hordeolum.
+
+---
 
 ## Literature Evidence
 
 Currently no related literature available for hordeolum.
 
-Among the other ranked predictions, a few papers were retrieved, but all concern tecovirimat in mpox, which is the original indication, and none supports the predicted indication.
+For context, the literature found for the non-specific "coinfection" prediction (rank 5) concerns mpox treated with tecovirimat in patients with HIV and other infections. Examples include:
+
+- PMID 42521123, a prospective multicentre case series in Japan on mpox virologic dynamics during tecovirimat treatment
+- PMID 38226256, a case report of cardiac complications in an HIV patient treated with tecovirimat
+
+These do not address hordeolum.
+
+---
 
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/005248 (cancelled) | Tecovirimat SIGA | Not specified | Smallpox, monkeypox and cowpox in adults and children weighing at least 13 kg; complications of vaccinia virus replication after smallpox vaccination... |
+| EMEA/H/C/005248 | Tecovirimat SIGA | Not specified | Tecovirimat SIGA is indicated for the treatment of the following viral infections in adults and children with body weight at least 13 kg: Smallpox Monkeypox... |
+
+---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. No interaction data were found for this drug in the compiled data.
+Please refer to the SmPC for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction for hordeolum has no clinical, literature or mechanistic support. A bacterial eyelid infection cannot plausibly be treated by a narrow-spectrum orthopoxvirus inhibitor. The EU authorization is also cancelled.
+The hordeolum prediction rests only on a model score. There are no trials or publications, and tecovirimat's orthopoxvirus-specific mechanism gives no reason to expect activity against a bacterial eyelid infection. Under the evidence rules, it stays at L5.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (MOA) from DrugBank
-- Warnings and contraindications from the EMA package insert, which are required before any safety screening
-- Any experimental evidence of activity in the predicted indication; without it, this candidate should not advance
-- Confirmation of the reason for the authorization cancellation and the current EU availability of tecovirimat
-- If repurposing is still of interest, a review of lower-ranked predictions that are viral and closer to orthopoxviruses
+- Any preclinical or clinical data showing activity of tecovirimat in hordeolum or bacterial eyelid infection
+- Detailed mechanism-of-action data and a plausible biological link to the predicted disease
+- Review of the SmPC warnings, contraindications and drug interactions, which are not available in the data compiled for this report
+- Confirmation of route and formulation suitability for an ocular or eyelid indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

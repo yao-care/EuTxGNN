@@ -50,10 +50,10 @@ with **5 clinical trials** and **20 publications** compiled for this direction. 
 |------|------|
 | Original Indication | Chronic hepatitis C (CHC) in adults and paediatric patients aged 3 years and above |
 | Predicted New Indication | Hepatitis B virus infection |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L2 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

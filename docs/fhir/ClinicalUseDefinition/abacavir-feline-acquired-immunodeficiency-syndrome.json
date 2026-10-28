@@ -30,6 +30,10 @@
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/drugbank-id",
       "valueString": "DB01048"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9979
     }
   ]
 }

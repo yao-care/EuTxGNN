@@ -48,17 +48,17 @@ The prediction is therefore supported by the model score alone.
 |------|------|
 | Original Indication | Chronic hepatitis C virus (HCV) infection in adults and children aged 3 years and older |
 | Predicted New Indication | Hepatitis B virus infection |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data are not available in the data compiled for this report. From known pharmacology, pibrentasvir is an inhibitor of HCV NS5A, a viral protein with no counterpart in hepatitis B virus (HBV). Its efficacy in HCV is well established, but that efficacy does not carry over to HBV.
 
-HBV is a DNA virus that replicates through reverse transcription, which is very different from HCV, an RNA virus. The high score (0.998) most likely reflects the closeness of "viral hepatitis" terms in the knowledge graph rather than a shared drug target. The literature retrieved concerns HCV (glecaprevir/pibrentasvir in HCV, paediatric HCV, DAA retreatment), and none of it tests HBV activity. HBV reactivation during HCV antiviral therapy is a safety concern, not a sign of efficacy.
+HBV is a DNA virus that replicates through reverse transcription, which is very different from HCV, an RNA virus. The high score (0.9984) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases (such as viral hepatitis), not biological evidence of a shared drug target. The literature retrieved concerns HCV (glecaprevir/pibrentasvir in HCV, paediatric HCV, DAA retreatment), and none of it tests HBV activity. HBV reactivation during HCV antiviral therapy is a safety concern, not a sign of efficacy.
 
 Other predictions in the list were also reviewed. They carry the same weakness: HIV, hepatitis E, hepatitis A, Omsk haemorrhagic fever, Kyasanur forest disease and others all lack a plausible target match. The HIV-related trials enrol HIV/HCV-coinfected patients and measure HCV cure, so they show safe HCV treatment in people living with HIV, not anti-HIV activity.
 

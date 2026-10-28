@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Meropenem
-parent: AI Predictions (L5)
+parent: Medium Evidence (L3-L4)
 nav_order: 395
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L5). Approved use: Complicated urinary tract infection (cUTI) including pyelonephritis…"
 monitor_inn: "Meropenem"
@@ -14,7 +14,7 @@ predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus a
 # Meropenem
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ The prediction with the strongest evidence is **urinary tract infection** (rank 
 |------|------|
 | Original Indication | Complicated urinary tract infection (cUTI) including pyelonephritis, complicated intra-abdominal infection (cIAI), hospital-acquired pneumonia including ventilator-associated pneumonia (HAP/VAP), bacteraemia associated with these infections, and infections due to aerobic Gram-negative organisms in adults with limited treatment options |
 | Predicted New Indication | Bacterial arthritis |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L4 (indirect literature and mechanism only; no trials for this indication) |
-| EU Market Status | Cancelled only |
-| Number of Authorizations | 1 (0 currently valid) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -65,8 +65,8 @@ The evidence is still indirect. It consists of retrospective series, case report
 Other predictions in the list vary in plausibility:
 - **Complicated UTI** (rank 6): strongest evidence, and already an approved indication of the original label.
 - **Paratyphoid fever** (rank 5): a possible research question for extensively drug-resistant enteric fever.
-- **Ureaplasma urethritis** (rank 9): *Ureaplasma* lacks a cell wall, so beta-lactam efficacy is not expected. The high score is likely a graph artifact.
-- **Laryngitis** (rank 4): mostly viral, with no rationale for a carbapenem. The high score is likely a graph artifact.
+- **Ureaplasma urethritis** (rank 9): *Ureaplasma* lacks a cell wall, so beta-lactam efficacy is not expected. The score (0.9933) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+- **Laryngitis** (rank 4): mostly viral, with no rationale for a carbapenem. The score (0.9959) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 - **Epiglottitis, Lyme disease, *Staphylococcus aureus* infection, Peptostreptococcus infection and gonococcal urethritis** (ranks 2, 3, 7, 8 and 10): all have established first-line alternatives, little or no direct evidence, and stewardship concerns about using a broad-spectrum carbapenem.
 
 ## Clinical Trial Evidence
@@ -117,7 +117,7 @@ For the related cUTI indication, higher-quality evidence exists:
 |---------|------|------|-----------|
 | EMEA/H/C/004669 | Vaborem | Not specified | Complicated UTI including pyelonephritis, complicated intra-abdominal infection, hospital-acquired pneumonia including VAP, bacteraemia associated with these infections, and infections due to aerobic Gram-negative organisms in adults with limited treatment options... |
 
-This authorization has a **cancelled** status. No currently valid authorization is recorded.
+This authorization has a **valid** status. The drug is marketed, with 1 valid licence out of 1.
 
 ## Safety Considerations
 
@@ -146,7 +146,7 @@ This authorization has a **cancelled** status. No currently valid authorization 
 **Decision: Hold**
 
 **Rationale:**
-For bacterial arthritis, the top-ranked prediction, there are no clinical trials and only indirect evidence (case reports, retrospective series and susceptibility data), so the evidence level is L4. Several other predictions (laryngitis, *Ureaplasma* urethritis) appear to be graph artifacts, and the rest have effective first-line alternatives. The one well-supported indication, complicated UTI, is already part of the original approved label and would merit "Proceed with Guardrails" (stewardship, reserve use for resistant or ESBL organisms, renal dosing, valproate interaction), but it is not repurposing. The EU authorization for Vaborem is also cancelled.
+For bacterial arthritis, the top-ranked prediction, there are no clinical trials and only indirect evidence (case reports, retrospective series and susceptibility data), so the evidence level is L4. For several other predictions (laryngitis, *Ureaplasma* urethritis), the scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and the rest have effective first-line alternatives. The one well-supported indication, complicated UTI, is already part of the original approved label and would merit "Proceed with Guardrails" (stewardship, reserve use for resistant or ESBL organisms, renal dosing, valproate interaction), but it is not repurposing. The authorization for Vaborem is valid (1 valid licence out of 1) and the drug is marketed.
 
 **To proceed, the following is needed:**
 - Mechanism of action data to support the mechanistic-link analysis

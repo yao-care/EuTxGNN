@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Fingolimod
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 263
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Fingolimod: predicted new indication Borderline ovarian serous tumor (evidence level L5). Approved use: Highly active relapsing remitting multiple sclerosis (adults and paed…"
-monitor_inn: "Fingolimod"
-predicted_indications: ["borderline ovarian serous tumor", "ovarian papillary cystadenoma", "malignant ovarian Brenner tumor", "rete ovarii cystadenoma", "serous neoplasm", "ovarian mucinous cystadenofibroma", "mucinous ovarian cystadenoma", "ovarian benign neoplasm", "ovarian surface papilloma", "Immunoerythromyeloid hypoplasia"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Fingolimod: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Fingolimod
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,67 +32,46 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Fingolimod: From Relapsing Remitting Multiple Sclerosis to Borderline Ovarian Serous Tumor
+<!-- known-uses-page -->
+<!-- description: Fingolimod: known uses and market status in the European Union; currently no new candidate indication -->
+## Fingolimod: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model has no candidate with a score of 0.99 or higher for Fingolimod, so there is currently no new predicted indication. The drug's recorded uses are listed below.
 
-Fingolimod was originally approved for highly active relapsing remitting multiple sclerosis.
-The TxGNN model predicts it may be effective for **borderline ovarian serous tumor**, but this is a model prediction only, with **0 clinical trials** and **0 publications** directly supporting this specific indication.
-The only related signals are preclinical studies in ovarian cancer models, listed under other ovarian-related predictions.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Highly active relapsing remitting multiple sclerosis (adults and paediatric patients aged 10 years and older) |
-| Predicted New Indication | Borderline ovarian serous tumor |
-| TxGNN Prediction Score | 94.94% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
-| Recommended Decision | Hold |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 2 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
-## Why is This Prediction Reasonable?
+## Known uses recorded for this drug
 
-Detailed mechanism of action data is not available in the data compiled for this report. Fingolimod (FTY720) is generally known as a sphingosine-1-phosphate (S1P) receptor modulator. It traps lymphocytes in lymphoid tissue, which is how it controls relapsing multiple sclerosis.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| multiple sclerosis | licence in another country |
+| relapsing-remitting multiple sclerosis | licence in another country |
 
-S1P signaling has been implicated in the biology of ovarian epithelial tumors, which is a plausible but hypothetical link to this prediction. The high TxGNN score (0.949) is a graph-based result, and no trial or publication directly supports it. The score may reflect similarity to other ovarian neoplasm nodes in the knowledge graph rather than independent evidence.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-The nearest supporting signal is preclinical. A 2018 patient-derived xenograft study reported that FTY720 enhanced the activity of carboplatin and tamoxifen in ovarian cancer models. This is indirect, is not in borderline serous tumors, and has no human data behind it.
-
-## Other Predicted Indications
-
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Note |
-|------|------|------|------|------|
-| 2 | Ovarian papillary cystadenoma | 94.62% | L5 | Benign tumor; weak risk-benefit case |
-| 3 | Malignant ovarian Brenner tumor | 94.59% | L5 | Rare tumor; no tumor-specific rationale |
-| 4 | Rete ovarii cystadenoma | 94.57% | L5 | Prediction only |
-| 5 | Serous neoplasm | 94.32% | L4 | One preclinical study (PMID 30120964) |
-| 6 | Ovarian mucinous cystadenofibroma | 94.27% | L5 | Benign; prediction only |
-| 7 | Mucinous ovarian cystadenoma | 94.25% | L5 | Benign; histology differs from the serous preclinical signal |
-| 8 | Ovarian benign neoplasm | 94.22% | L4 | Two preclinical studies, neither in benign neoplasm |
-| 9 | Ovarian surface papilloma | 94.05% | L5 | Prediction only |
-| 10 | Immunoerythromyeloid hypoplasia | 93.62% | L5 | Lymphopenia effect is mechanistically concerning |
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-No literature is available for borderline ovarian serous tumor. The related preclinical publications found for other ovarian-related predictions are shown below.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [30120964](https://pubmed.ncbi.nlm.nih.gov/30120964/) | 2018 | Preclinical (patient-derived xenograft) | Cancer Letters | FTY720 enhanced the anti-tumor activity of carboplatin and tamoxifen and sensitized drug-resistant ovarian cancer cells |
-| [30388910](https://pubmed.ncbi.nlm.nih.gov/30388910/) | 2019 | Preclinical (NSCLC models) | Cancer Biology & Therapy | Fingolimod synergized with pemetrexed to kill NSCLC and ovarian cancer cells and overcame resistance to ERBB inhibition |
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005661 (cancelled) | Fingolimod Mylan | Not specified | Single disease modifying therapy in highly active relapsing remitting multiple sclerosis for adults and paediatric patients aged 10 years and older... |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/005661 | Fingolimod Mylan |  | Valid |
 
 ## Safety Considerations
 
@@ -105,20 +83,6 @@ No literature is available for borderline ovarian serous tumor. The related prec
 
 Please refer to the SmPC for the official warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction rests on a graph-based score alone, with no clinical trials and no publications in borderline serous tumors. Preclinical chemosensitization data in ovarian cancer are indirect. Borderline and benign tumors also offer a weak risk-benefit case for a systemic immunomodulator with cardiac, infectious and macular edema risks. The only EU authorization is cancelled.
-
-**To proceed, the following is needed:**
-- Mechanism of action data and a documented link between S1P signaling and borderline serous tumor biology
-- Direct preclinical evidence in borderline serous tumor models
-- Official SmPC warnings and contraindications for the safety review
-- A clear risk-benefit rationale, since the predicted indication is a low-grade or benign condition
-- Clarification of route and formulation compatibility
-- Consideration of whether a malignant serous ovarian indication, where preclinical data exist, is a more suitable research question
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

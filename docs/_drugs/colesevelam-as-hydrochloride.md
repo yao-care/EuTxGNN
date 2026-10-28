@@ -7,14 +7,15 @@ description: "Colesevelam (As Hydrochloride) drug repurposing predictions from T
 parent: AI Predictions (L5)
 nav_order: 143
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Colesevelam (As Hydrochloride)
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | gout | 93.37% | DL |
-| 2 | congestive heart failure | 89.76% | DL |
-| 3 | acute pulmonary heart disease | 88.61% | DL |
-| 4 | autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome | 87.09% | DL |
-| 5 | brain small vessel disease 1 with or without ocular anomalies | 86.91% | DL |
-| 6 | infectious otitis media | 86.33% | DL |
-| 7 | diabetic nephropathy | 86.16% | DL |
-| 8 | phosphorus metabolism disease | 84.83% | DL |
-| 9 | middle ear cholesterol granuloma | 84.80% | DL |
-| 10 | otosalpingitis | 84.60% | DL |
-| 11 | endocardial fibroelastosis | 84.49% | DL |
-| 12 | middle ear disease | 84.25% | DL |
-| 13 | allergic otitis media | 84.12% | DL |
-| 14 | non-suppurative otitis media | 84.04% | DL |
-| 15 | chronic otitis media | 83.89% | DL |
-| 16 | endocarditis | 83.69% | DL |
-| 17 | epiglottitis | 83.45% | DL |
-| 18 | suppurative otitis media | 83.24% | DL |
-| 19 | dyspepsia | 83.12% | DL |
-| 20 | HIV infectious disease | 79.90% | DL |
 
 *Showing top 20 of 50 predictions.*
 

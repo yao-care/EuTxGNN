@@ -7,14 +7,15 @@ description: "Raloxifene Hydrochloride drug repurposing predictions from TxGNN. 
 parent: AI Predictions (L5)
 nav_order: 475
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Raloxifene Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | duodenal ulcer (disease) | 99.72% | DL |
-| 2 | obsolete susceptibility to ischemic stroke | 99.68% | DL |
-| 3 | hypoalphalipoproteinemia | 99.65% | DL |
-| 4 | duodenal obstruction | 99.64% | DL |
-| 5 | duodenogastric reflux | 99.59% | DL |
-| 6 | postmenopausal osteoporosis | 99.06% | DL |
-| 7 | Worth syndrome | 98.97% | DL |
-| 8 | homozygous familial hypercholesterolemia | 98.69% | DL |
-| 9 | autosomal dominant neovascular inflammatory vitreoretinopathy | 98.56% | DL |
-| 10 | pregnancy associated osteoporosis | 98.55% | DL |
-| 11 | cerebral infarction | 98.22% | DL |
-| 12 | brain stem infarction | 98.03% | DL |
-| 13 | obsolete familial combined hyperlipidemia | 98.02% | DL |
-| 14 | ABri amyloidosis | 97.55% | DL |
-| 15 | amenorrhea (disease) | 97.44% | DL |
-| 16 | succinyl-CoA:3-ketoacid CoA transferase deficiency | 97.38% | DL |
-| 17 | cerebral artery occlusion | 97.10% | DL |
-| 18 | cerebral arterial disease | 96.81% | DL |
-| 19 | acne (disease) | 96.27% | DL |
-| 20 | Prinzmetal angina | 95.77% | DL |
 
 *Showing top 20 of 50 predictions.*
 

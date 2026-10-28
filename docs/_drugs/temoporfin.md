@@ -47,31 +47,31 @@ The TxGNN model predicts it may be effective for **nasopharyngeal teratoma**, bu
 |------|------|
 | Original Indication | Palliative treatment of patients with advanced head and neck squamous cell carcinoma failing prior therapies and unsuitable for radiotherapy, surgery or systemic chemotherapy |
 | Predicted New Indication | Nasopharyngeal teratoma |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, temoporfin is a photosensitizer used in photodynamic therapy (PDT). Its efficacy in head and neck squamous cell carcinoma led to its EU authorization, and mechanistically it may act through light-activated local destruction of tumour tissue.
 
-The link to nasopharyngeal teratoma is weak. The nasopharynx is anatomically close to the head and neck region of the approved indication, and PDT acts locally on tumours. However, teratomas are germ-cell tumours with a histology distinct from squamous cell carcinoma, and no supporting data were compiled. The high score (99.78%) may partly reflect generic "neoplasm" associations in the knowledge graph rather than a specific biological rationale.
+The link to nasopharyngeal teratoma is weak. The nasopharynx is anatomically close to the head and neck region of the approved indication, and PDT acts locally on tumours. However, teratomas are germ-cell tumours with a histology distinct from squamous cell carcinoma, and no supporting data were compiled. The high score (0.9978) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other predictions in the top 10 list (all also without direct clinical trial support) are:
 
 | Rank | Predicted Indication | Score | Evidence Level | Comment |
 |------|------|------|------|------|
-| 2 | Odontogenic cyst | 99.77% | L5 | Benign, usually cured by surgery; weak risk-benefit case |
-| 3 | Pre-malignant neoplasm | 99.77% | L5 | PDT is plausible for premalignant upper aerodigestive lesions, but the category is broad |
-| 4 | Epiglottis neoplasm | 99.76% | L5 | Closest fit to the original indication, but needs site-specific data |
-| 5 | Tumor of testis and paratestis | 99.76% | L5 | No anatomical or clinical rationale; likely a graph artifact |
-| 6 | Cystic neoplasm | 99.76% | L4 | One indirect cohort publication |
-| 7 | Benign neoplasm of floor of mouth | 99.76% | L5 | Accessible to light, but photosensitivity is unfavorable for benign disease |
-| 8 | Benign neoplasm of tongue | 99.76% | L4 | One indirect cohort publication in malignant disease |
-| 9 | Benign neoplasm of hypopharynx | 99.76% | L5 | General regional rationale only |
-| 10 | Cervical neuroblastoma | 99.76% | L5 | Distinct biology; pediatric safety concern |
+| 2 | Odontogenic cyst | 0.9977 | L5 | Benign, usually cured by surgery; weak risk-benefit case |
+| 3 | Pre-malignant neoplasm | 0.9977 | L5 | PDT is plausible for premalignant upper aerodigestive lesions, but the category is broad |
+| 4 | Epiglottis neoplasm | 0.9976 | L5 | Closest fit to the original indication, but needs site-specific data |
+| 5 | Tumor of testis and paratestis | 0.9976 | L5 | No anatomical or clinical rationale; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
+| 6 | Cystic neoplasm | 0.9976 | L5 | One indirect cohort publication |
+| 7 | Benign neoplasm of floor of mouth | 0.9976 | L5 | Accessible to light, but photosensitivity is unfavorable for benign disease |
+| 8 | Benign neoplasm of tongue | 0.9976 | L5 | One indirect cohort publication in malignant disease |
+| 9 | Benign neoplasm of hypopharynx | 0.9976 | L5 | General regional rationale only |
+| 10 | Cervical neuroblastoma | 0.9976 | L5 | Distinct biology; pediatric safety concern |
 
 ## Clinical Trial Evidence
 

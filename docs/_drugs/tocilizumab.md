@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tocilizumab
-parent: AI Predictions (L5)
+parent: High Evidence (L1-L2)
 nav_order: 624
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Tocilizumab: predicted new indication Ankylosing spondylitis (evidence level L5). Approved use: Severe…"
 monitor_inn: "Tocilizumab"
-predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "spondyloarthropathy, susceptibility to", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency"]
+predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
 ---
 
 # Tocilizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Supporting material includes **4 registered trials** (2 directly relevant) and *
 |------|------|
 | Original Indication | Severe, active and progressive rheumatoid arthritis (RA) in adults not previously treated with methotrexate; moderate to severe active RA after inadequate response to DMARDs or TNF antagonists |
 | Predicted New Indication | Ankylosing spondylitis |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L1 by trial count (existence of Phase 3 trials only; not demonstrated benefit) |
-| EU Market Status | Cancelled only |
-| Number of Authorizations | 4 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---
@@ -100,10 +100,10 @@ However, the evidence points the other way. Two Phase 3 placebo-controlled trial
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/000955 | RoActemra | Not specified | RA, sJIA, pJIA, giant cell arteritis, COVID-19, CAR-T-induced cytokine release syndrome (cancelled) |
-| EMEA/H/C/005781 | Tyenne | Not specified | RA, COVID-19, sJIA, pJIA, CAR-T-induced CRS, giant cell arteritis (cancelled) |
-| EMEA/H/C/006196 | Avtozma | Not specified | RA, COVID-19, sJIA, pJIA, CAR-T-induced CRS, giant cell arteritis (cancelled) |
-| EMEA/H/C/005984 | Tocilizumab STADA (previously Tofidence) | Not specified | RA, COVID-19, pJIA, sJIA (cancelled) |
+| EMEA/H/C/000955 | RoActemra | Not specified | RA, sJIA, pJIA, giant cell arteritis, COVID-19, CAR-T-induced cytokine release syndrome (valid) |
+| EMEA/H/C/005781 | Tyenne | Not specified | RA, COVID-19, sJIA, pJIA, CAR-T-induced CRS, giant cell arteritis (valid) |
+| EMEA/H/C/006196 | Avtozma | Not specified | RA, COVID-19, sJIA, pJIA, CAR-T-induced CRS, giant cell arteritis (valid) |
+| EMEA/H/C/005984 | Tocilizumab STADA (previously Tofidence) | Not specified | RA, COVID-19, pJIA, sJIA (valid) |
 
 ---
 
@@ -121,7 +121,7 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-Although two Phase 3 AS trials exist (which is why the trial-count level is L1), both were terminated without confirmed benefit, and reviews indicate IL-6 blockade is inferior to TNF and IL-17 inhibitors in spondyloarthritis. All four EU authorizations are also cancelled, which limits the practical route to market.
+Although two Phase 3 AS trials exist (which is why the trial-count level is L1), both were terminated without confirmed benefit, and reviews indicate IL-6 blockade is inferior to TNF and IL-17 inhibitors in spondyloarthritis. The drug is marketed in this country, with 4 of 4 licences valid.
 
 **To proceed, the following is needed:**
 - Full results and termination reasons for NCT01209689 and NCT01209702

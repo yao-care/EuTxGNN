@@ -3,18 +3,18 @@ layout: default
 title: Docetaxel
 parent: High Evidence (L1-L2)
 nav_order: 194
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Docetaxel: predicted new indication Female breast carcinoma (evidence level L1). Approved use: Breast cancer (adjuvant, locally advanced and metastatic)…"
+evidence_level: L2
+indication_count: 7
 monitor_inn: "Docetaxel"
-predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
+predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
+last_modified_at: 2026-10-27
+description: "Docetaxel: predicted new indication Ewing sarcoma (evidence level L2). Approved use: Breast cancer Docetaxel Kabi in combination with doxorubicin and cycl…"
 ---
 
 # Docetaxel
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,110 +33,101 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Docetaxel: From Breast Cancer to Female Breast Carcinoma
+## Docetaxel: Microtubule-stabilizing taxane → Ewing sarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Docetaxel is a taxane chemotherapy drug, originally authorised in the EU for breast cancer, non-small-cell lung cancer, prostate cancer, gastric adenocarcinoma and head and neck cancer.
-The TxGNN model predicts it may be effective for **female breast carcinoma**, with **47 clinical trials** and **18 publications** compiled for this prediction.
-Breast cancer is already an approved use, so this is a confirmation of an existing indication rather than a true repurposing case.
+Docetaxel is a taxane chemotherapy drug that stabilizes microtubules and blocks cell division.
+The TxGNN model predicts it may be effective for **Ewing sarcoma**,
+with **8 clinical trials** and **20 publications** currently supporting this direction, mostly from combination regimens in mixed sarcoma cohorts.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Breast cancer (adjuvant, locally advanced and metastatic), among other cancers |
-| Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L1 |
-| EU Market Status | Cancelled only (no currently valid centralised authorisations) |
-| Number of Authorizations | 3 (all cancelled) |
+| Original Indication | Breast cancer Docetaxel Kabi in combination with doxorubicin and cyclophosphamide is indicated for the adjuvant treatment of patients with:  operable node-positive breast cancer; operable node-negative breast cancer.  For patients with operable node-negative breast cancer, adjuvant treatment should  |
+| Predicted New Indication | Ewing sarcoma |
+| TxGNN Prediction Score | 0.9990 |
+| Evidence Level | L2 |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Docetaxel is a taxane that stabilises microtubules and blocks cell division. Detailed mechanism of action data is not available in the data compiled for this report, but this is the well-known class mechanism of taxanes. Rapidly dividing tumour cells are particularly vulnerable to this effect.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Docetaxel belongs to the taxane class of antimitotic agents, which stabilize microtubules and disrupt division of rapidly proliferating cells. This mechanism can plausibly act on fast-growing sarcoma cells.
 
-The predicted indication matches the drug's approved use. The EU labels cover adjuvant treatment of node-positive and node-negative breast cancer (with doxorubicin and cyclophosphamide), locally advanced or metastatic disease, and combinations with doxorubicin, trastuzumab or capecitabine. The supplied trials are mostly Phase 2 and Phase 4, while the approval itself rests on Phase 3 evidence not listed in the supplied trial subset. Several large Phase 3 trials in the compiled data (for example NCT00003519, NCT00021255, NCT00003782 and NCT00887536) use docetaxel-containing regimens in breast cancer.
+Laboratory work has shown synergy when gemcitabine is followed by docetaxel in sarcoma cells. Clinical reports in relapsed pediatric and young-adult sarcomas describe some activity, mainly from gemcitabine plus docetaxel and docetaxel plus irinotecan. Responses in Ewing sarcoma are modest, and most data come from combination regimens in mixed sarcoma cohorts, so the signal should be read as a research question and not as established benefit.
 
 ## Clinical Trial Evidence
 
-The data include 47 breast cancer trials. The 10 most relevant are listed below. Of the trials graded for relevance, only NCT00321633 received the top grade.
-
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00003782](https://clinicaltrials.gov/study/NCT00003782) | Phase 3 | Completed | 5351 | Adjuvant AC followed by docetaxel vs AT vs ATC in node-positive breast cancer |
-| [NCT00021255](https://clinicaltrials.gov/study/NCT00021255) | Phase 3 | Completed | 3222 | AC-T vs AC-TH vs TCH in adjuvant HER2-positive breast cancer |
-| [NCT00003519](https://clinicaltrials.gov/study/NCT00003519) | Phase 3 | Completed | 2778 | Adriamycin/docetaxel vs Adriamycin/cyclophosphamide in adjuvant node-positive or high-risk node-negative disease |
-| [NCT00002707](https://clinicaltrials.gov/study/NCT00002707) | Phase 3 | Completed | 2411 | Preoperative AC with or without docetaxel (before or after surgery) |
-| [NCT00887536](https://clinicaltrials.gov/study/NCT00887536) | Phase 3 | Completed | 1613 | TC plus bevacizumab vs TC alone vs TAC in HER2-negative early breast cancer |
-| [NCT00333775](https://clinicaltrials.gov/study/NCT00333775) | Phase 3 | Completed | 736 | Bevacizumab plus docetaxel vs docetaxel plus placebo as first-line therapy in HER2-negative metastatic disease |
-| [NCT00667251](https://clinicaltrials.gov/study/NCT00667251) | Phase 3 | Completed | 652 | Taxane-based chemotherapy with lapatinib vs trastuzumab in first-line HER2-positive metastatic disease |
-| [NCT00431080](https://clinicaltrials.gov/study/NCT00431080) | Phase 3 | Completed | 478 | Dose-dense FE75C followed by docetaxel vs paclitaxel in node-positive disease |
-| [NCT00321633](https://clinicaltrials.gov/study/NCT00321633) | Phase 2 | Completed | 148 | Randomised carboplatin vs docetaxel in metastatic breast cancer in BRCA carriers (docetaxel is the comparator) |
-| [NCT00003352](https://clinicaltrials.gov/study/NCT00003352) | Phase 2 | Completed | 89 | Doxorubicin, docetaxel and cyclophosphamide in metastatic or locally advanced disease; single-arm, supports activity |
+| [NCT00073983](https://clinicaltrials.gov/study/NCT00073983) | Phase 2 | Completed | 54 | Sequential gemcitabine then docetaxel in recurrent Ewing sarcoma, osteosarcoma and chondrosarcoma |
+| [NCT02511132](https://clinicaltrials.gov/study/NCT02511132) | Phase 2 | Completed | 22 | Vigil immunotherapy vs gemcitabine plus docetaxel in metastatic Ewing sarcoma |
+| [NCT00002825](https://clinicaltrials.gov/study/NCT00002825) | Phase 2 | Completed | 20 | Single-agent docetaxel in children with recurrent solid tumors; Ewing sarcoma among included types, limited subgroup data |
+| [NCT00014456](https://clinicaltrials.gov/study/NCT00014456) | Phase 1 | Completed | 35 | Dose escalation of docetaxel, gemcitabine and filgrastim in advanced solid tumors |
+| [NCT03449901](https://clinicaltrials.gov/study/NCT03449901) | Phase 2 | Completed | 98 | ADI-PEG 20 plus gemcitabine and docetaxel in sarcomas including Ewing sarcoma |
+| [NCT00049296](https://clinicaltrials.gov/study/NCT00049296) | Phase 1 | Completed | 26 | Thalidomide plus docetaxel pharmacokinetics in advanced cancer |
+| [NCT05116800](https://clinicaltrials.gov/study/NCT05116800) | Phase 2 | Withdrawn | 0 | 9-ING-41 with gemcitabine/docetaxel in sarcomas; no patients enrolled |
+| [NCT04183062](https://clinicaltrials.gov/study/NCT04183062) | Phase 2 | Withdrawn | 0 | BIO-11006 with gemcitabine/docetaxel in osteosarcoma and Ewing sarcoma lung metastases; no patients enrolled |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [28398846](https://pubmed.ncbi.nlm.nih.gov/28398846/) | 2017 | Randomised adjuvant trials | J Clin Oncol | Docetaxel plus cyclophosphamide (TC) compared with standard anthracycline-taxane regimens in early breast cancer (ABC trials) |
-| [10791395](https://pubmed.ncbi.nlm.nih.gov/10791395/) | 2000 | Review | Lancet | Taxanes are evidence-based components of therapy for advanced breast, lung and ovarian cancers |
-| [12868800](https://pubmed.ncbi.nlm.nih.gov/12868800/) | 2003 | Review | Breast Cancer Res Treat | Rationale and phase II data for docetaxel-anthracycline combinations in metastatic breast cancer |
-| [9282422](https://pubmed.ncbi.nlm.nih.gov/9282422/) | 1997 | Review | Drug Ther Bull | Early review of paclitaxel and docetaxel in breast and ovarian cancer |
-| [17990102](https://pubmed.ncbi.nlm.nih.gov/17990102/) | 2008 | Commentary | Breast Cancer Res Treat | Commentary on the phase III ERASME 3 trial comparing docetaxel and paclitaxel with doxorubicin in metastatic disease |
-| [16020974](https://pubmed.ncbi.nlm.nih.gov/16020974/) | 2005 | Phase II | Oncology | Weekly docetaxel and gemcitabine as first-line therapy for metastatic breast cancer |
-| [12599222](https://pubmed.ncbi.nlm.nih.gov/12599222/) | 2003 | Phase II | Cancer | Capecitabine with docetaxel and epirubicin as first-line therapy in advanced breast cancer |
-| [19856651](https://pubmed.ncbi.nlm.nih.gov/19856651/) | 2009 | Dose-finding | Tumori | Docetaxel and gemcitabine in metastatic breast carcinoma |
-| [27997437](https://pubmed.ncbi.nlm.nih.gov/27997437/) | 2017 | Retrospective | Anti-Cancer Drugs | Adjuvant docetaxel-based chemotherapy and breast cancer-related lymphedema |
-| [22502701](https://pubmed.ncbi.nlm.nih.gov/22502701/) | 2012 | Biomarker study | Asian Pac J Cancer Prev | β-tubulin III and survivin expression correlate with docetaxel effect in advanced breast cancer |
+| [22363068](https://pubmed.ncbi.nlm.nih.gov/22363068/) | 2012 | Phase 2 trial | The Oncologist | Sequential gemcitabine then docetaxel in recurrent Ewing sarcoma, osteosarcoma and chondrosarcoma (SARC 003) |
+| [28787430](https://pubmed.ncbi.nlm.nih.gov/28787430/) | 2017 | Phase 2 trial | British Journal of Cancer | GEIS-21: intensive chemotherapy including gemcitabine and docetaxel in newly diagnosed high-risk Ewing sarcoma |
+| [25164234](https://pubmed.ncbi.nlm.nih.gov/25164234/) | 2014 | Phase 2 trial | BMC Cancer | Docetaxel plus irinotecan in recurrent or refractory Ewing sarcoma family tumors |
+| [18521364](https://pubmed.ncbi.nlm.nih.gov/18521364/) | 2003 | Phase 2 trial | Sarcoma | Docetaxel in relapsed and refractory Ewing's tumours (14 patients, initial results) |
+| [18484657](https://pubmed.ncbi.nlm.nih.gov/18484657/) | 2008 | Cohort | Cancer | Gemcitabine plus docetaxel in children and young adults with refractory bone sarcoma |
+| [22302783](https://pubmed.ncbi.nlm.nih.gov/22302783/) | 2012 | Cohort | Pediatric Blood & Cancer | GEMDOX in relapsed and refractory pediatric sarcomas |
+| [19727011](https://pubmed.ncbi.nlm.nih.gov/19727011/) | 2009 | Report | J Pediatr Hematol Oncol | Gemcitabine plus docetaxel in relapsed or refractory pediatric sarcomas |
+| [15117993](https://pubmed.ncbi.nlm.nih.gov/15117993/) | 2004 | Preclinical/Clinical | Journal of Clinical Oncology | Synergistic cytotoxicity of gemcitabine followed by docetaxel in sarcoma |
+| [26154614](https://pubmed.ncbi.nlm.nih.gov/26154614/) | 2015 | Preclinical | Pediatric Blood & Cancer | Pediatric preclinical testing of cabazitaxel and docetaxel |
+| [20132000](https://pubmed.ncbi.nlm.nih.gov/20132000/) | 2010 | Review | Expert Rev Anticancer Ther | Role of chemotherapy in soft tissue sarcomas |
 
 ## EU Market Information
 
-All three centralised authorisations are cancelled. Dosage form was not recorded.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/002325 | Docetaxel Kabi | Not recorded | Breast cancer, non-small-cell lung cancer, prostate cancer, gastric adenocarcinoma, head and neck cancer... |
-| EMEA/H/C/000073 | Taxotere | Not recorded | Breast cancer, non-small-cell lung cancer, prostate cancer, gastric adenocarcinoma, head and neck cancer... |
-| EMEA/H/C/002539 | Docetaxel Accord | Not recorded | Breast cancer, non-small-cell lung cancer, prostate cancer, gastric adenocarcinoma, head and neck cancer... |
+| EMEA/H/C/002325 | Docetaxel Kabi | Not recorded | Breast cancer Docetaxel Kabi in combination with doxorubicin and cyclophosphamide is indicated for the adjuvant treatment of... |
+| EMEA/H/C/000073 | Taxotere | Not recorded | Breast cancer Taxotere in combination with doxorubicin and cyclophosphamide is indicated for the adjuvant treatment of pat... |
+| EMEA/H/C/002539 | Docetaxel Accord | Not recorded | Breast cancer Docetaxel Accord in combination with doxorubicin and cyclophosphamide is indicated for the adjuvant treatmen... |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (taxane class) |
-| Myelosuppression Risk | High (neutropenia is a recognised dose-limiting toxicity of the class; the knowledge graph also links docetaxel to neutropenia, thrombocytopenia and anaemia) |
-| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | Complete blood count with differential, liver function (bilirubin), peripheral neuropathy, fluid retention |
+| Myelosuppression Risk | High (neutropenia and thrombocytopenia are listed among conditions of concern; monitor closely) |
+| Emetogenicity Classification | Low to medium |
+| Monitoring Items | Complete blood count with differential, liver function (including bilirubin), renal function |
 | Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-- **Contraindications flagged by the knowledge graph** (not label text): liver disease, gallbladder disease, hyperbilirubinaemia (including Gilbert syndrome), thrombocytopenia, neutropenia, agranulocytosis, anaemia, peripheral neuropathy and other nerve disorders, diarrhoeal disease, stomatitis, pulmonary oedema and cardiac tamponade.
-- **Drug Interactions** (100 interactions recorded, 20 shown): 
-  - **Major:** clarithromycin.
-  - **Moderate:** aprepitant, rolapitant, cimetidine, metronidazole, tinidazole, miconazole, eliglustat, rosuvastatin, simvastatin, troglitazone.
-  - **Minor:** dexamethasone, prednisone, prednisolone, levofloxacin.
-  - **Unknown severity:** calcitriol, clotrimazole, mannitol, chlorhexidine, acetylsalicylic acid.
+- **Conditions of concern in the compiled data**: liver disease, gallbladder disease, thrombocytopenia, neutropenia, agranulocytosis, anemia, hyperbilirubinemia (including Gilbert syndrome), peripheral neuropathy and other nerve disorders, diarrheal disease, pulmonary edema, stomatitis, cardiac tamponade. These come from drug-disease relation data, not from label text.
+- **Drug Interactions**: 100 interactions were found. Notable examples:
+  - Major: clarithromycin
+  - Moderate: aprepitant, rolapitant, cimetidine, metronidazole, tinidazole, miconazole, eliglustat, rosuvastatin, simvastatin, troglitazone
+  - Minor: dexamethasone, prednisone, prednisolone, levofloxacin
 
-Label warnings and contraindications were not available for this report. Please refer to the SmPC for official safety information.
+Please refer to the SmPC for the full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Docetaxel is an established breast cancer treatment, and the compiled data include several large completed Phase 3 trials of docetaxel-containing regimens (L1). The prediction therefore confirms an existing indication rather than identifying a new one. The guardrails reflect that all three EU authorisations are cancelled, that no label safety data were available, and that docetaxel carries significant haematological and hepatic risks.
+Several Phase 2 studies and cohort reports, including a completed Phase 2 trial with Ewing sarcoma patients (n=54) and a docetaxel-irinotecan study in Ewing sarcoma family tumors, point to modest activity. The evidence comes mainly from combinations and mixed sarcoma cohorts, so this remains a research question and not a ready-to-use indication.
 
 **To proceed, the following is needed:**
-- Confirm whether any docetaxel product (including national or generic authorisations) remains marketed in the EU, since all three centralised licences are cancelled
-- Retrieve the SmPC safety information (warnings and contraindications) from the EMA website
-- Obtain DrugBank mechanism of action data
-- Define a monitoring plan for haematological toxicity, liver function and neuropathy
-
-**Other predicted indications (for reference):** Ewing sarcoma (L2) and rhabdomyosarcoma (L2) have modest Phase 2 evidence from mixed-histology cohorts and are best treated as research questions. Small cell lung carcinoma (L3) is a research question, because the retrieved evidence mostly concerns non-small-cell lung cancer. The remaining predictions (pulmonary lymphoma, pulmonary blastoma, fetal adenocarcinoma of the lung and rare rhabdomyosarcoma subtypes) rest on case reports or on model prediction alone, so the recommendation is to hold.
+- Ewing sarcoma-specific efficacy data separated from other sarcomas, ideally from a controlled trial
+- Mechanism of action data
+- Label warnings and contraindications from the SmPC
+- Pediatric and young-adult dosing and hematologic safety monitoring plan
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

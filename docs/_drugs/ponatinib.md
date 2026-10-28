@@ -4,17 +4,17 @@ title: Ponatinib
 parent: AI Predictions (L5)
 nav_order: 493
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Ponatinib: predicted new indication Gingival fibromatosis (evidence level L5). Approved use: Chronic…"
 monitor_inn: "Ponatinib"
-predicted_indications: ["fibromatosis, gingival", "liposarcoma", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "ovarian myxoid liposarcoma", "hamartoma of lung", "fibroma of lung", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung benign neoplasm", "lung hilum carcinoma"]
+predicted_indications: ["fibromatosis, gingival", "liposarcoma"]
+description: "Ponatinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Iclusig is indicated in adult patients with chronic phase…"
 ---
 
 # Ponatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ponatinib: From Chronic Myeloid Leukaemia to Gingival Fibromatosis
+## Ponatinib: Fibromatosis, gingival
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ The prediction rests on the model score alone.
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic, accelerated or blast phase CML resistant or intolerant to dasatinib or nilotinib, or with the T315I mutation; Ph+ ALL resistant or intolerant to dasatinib, or with the T315I mutation |
-| Predicted New Indication | Gingival fibromatosis |
-| TxGNN Prediction Score | 99.04% |
+| Original Indication | Iclusig is indicated in adult patients with chronic phase, accelerated phase, or blast phase chronic myeloid leukaemia (CML) who are resistant to dasatinib or nilotinib; who are intolerant to dasatinib or nilotinib and for whom subsequent treatment with imatinib is not clinically appropriate; or who |
+| Predicted New Indication | Fibromatosis, gingival |
+| TxGNN Prediction Score | 0.9904 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Gingival fibromatosis is a fibroproliferative overgrowth of gum tissue, whereas CML is a haematological cancer, so the two diseases are quite different. The only link is a hypothesis: FGFR and PDGFR signalling can drive fibroblast proliferation, and ponatinib inhibits both. No trial, publication or mechanistic study in the compiled data tests this idea.
 
-The TxGNN score is high (99.04%), but the model ranks this prediction 9,223rd overall. A high score alone is not clinical evidence.
+The TxGNN score is high (0.9904), but the model ranks this prediction 9,223rd overall. A high score alone is not clinical evidence.
 
 ## Clinical Trial Evidence
 
@@ -76,7 +76,6 @@ Currently no related literature available.
 |---------|------|------|-----------|
 | EMEA/H/C/002695 | Iclusig | Not specified | Adult patients with chronic phase, accelerated phase, or blast phase chronic myeloid leukaemia (CML) who are resistant to dasatinib or nilotinib; who are intolerant... |
 
-The only EU authorization in the compiled data has a status of cancelled, so there is currently no valid marketing authorization for ponatinib in this dataset.
 
 ## Cytotoxicity
 
@@ -103,7 +102,7 @@ For label warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature (evidence level L5), and the only link to ponatinib's kinase targets is hypothetical. Ponatinib also carries notable cardiovascular toxicity and has no valid EU marketing authorization in the compiled data. These factors do not justify advancing it for gingival fibromatosis.
+The prediction has no supporting trials or literature (evidence level L5), and the only link to ponatinib's kinase targets is hypothetical. These factors do not justify advancing it for gingival fibromatosis.
 
 **To proceed, the following is needed:**
 - Preclinical studies of ponatinib in gingival fibromatosis models or patient-derived fibroblasts
@@ -116,9 +115,7 @@ The prediction has no supporting trials or literature (evidence level L5), and t
 
 Other predictions for ponatinib have somewhat more support than the lead prediction. None has clinical trials.
 
-- **Liposarcoma (score 99.00%, Evidence Level L4)**: A 2017 preclinical kinase-profiling study (PMID 29132397) identified druggable kinase targets. Ponatinib itself was not shown to be validated, so this is a research question rather than a candidate for clinical development.
-- **Lung benign neoplasm (score 98.83%, Evidence Level L4)**: The literature concerns mainly malignant lung cancer, such as FGFR1 preselection for ponatinib (PMID 30297175). It does not address benign lung tumours, and pulmonary toxicity of BCR-ABL inhibitors is a safety concern.
-- **Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome (score 98.83%, Evidence Level L5)**: The 20 literature hits reflect ponatinib's general pharmacology (FGFR, PDGFRB) and do not address this syndrome.
+- **Liposarcoma (score 0.9900, Evidence Level L4)**: A 2017 preclinical kinase-profiling study (PMID 29132397) identified druggable kinase targets. Ponatinib itself was not shown to be validated, so this is a research question rather than a candidate for clinical development.
 - **Remaining predictions** (a VCP-related inclusion body myopathy, ovarian myxoid liposarcoma, lung hamartoma, lung fibroma, junctional epidermolysis bullosa, lung hilum carcinoma): prediction only, with no trials or literature, so Hold.
 ## Disclaimer
 

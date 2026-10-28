@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Ulipristal
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 649
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ulipristal: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Emergency contraception within 120 hours (five days) of unprotected s…"
+description: "Ulipristal: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Ulipristal"
-predicted_indications: ["rheumatoid arthritis", "primary release disorder of platelets", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "fibromyalgia"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Ulipristal
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,42 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ulipristal: From Emergency Contraception to Rheumatoid Arthritis
+## Ulipristal
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Ulipristal was originally used for emergency contraception within 120 hours (five days) of unprotected sexual intercourse or contraceptive failure.
-The TxGNN model predicts it may be effective for **rheumatoid arthritis**,
-but currently **no clinical trials** and **no publications** support this direction, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Emergency contraception within 120 hours (five days) of unprotected sexual intercourse or contraceptive failure |
-| Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 90.31% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
-| Recommended Decision | Hold |
-
-## Why is This Prediction Reasonable?
-
-Detailed mechanism of action data is not currently available in the data compiled for this report. Ulipristal is generally known as a selective progesterone receptor modulator with partial glucocorticoid receptor antagonism. Its efficacy in emergency contraception is established, and it may theoretically influence hormonal modulation of immune and inflammatory pathways.
-
-The link between emergency contraception and rheumatoid arthritis is indirect. The only mechanistic hypothesis is that hormone and glucocorticoid-receptor signalling can affect inflammation. This is speculative and not backed by any trial or publication, so the high score should be read as a model signal, not as proof of efficacy.
-
-Other top-ranked predictions (for example tendinitis, fibromyalgia, myositis fibrosa and idiopathic granulomatous myositis) are also supported only by model scores. Several others (such as primary release disorder of platelets, pseudo-von Willebrand disease, Glanzmann thrombasthenia and congenital syndromes) have no plausible mechanistic connection and likely reflect knowledge-graph proximity rather than biology.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+| Original Indication | Emergency contraception within 120 hours (five days) of unprotected sexual intercourse or contraceptive failure. |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
 ## EU Market Information
 
@@ -87,19 +63,6 @@ Currently no related literature available.
 
 Please refer to the SmPC for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The rheumatoid arthritis prediction rests solely on a model score (90.31%) with no clinical trials or publications (Evidence Level L5). The only EU authorization is cancelled, and the mechanistic link is speculative.
-
-**To proceed, the following is needed:**
-- Mechanism of action data (e.g., from DrugBank) and a mechanistic analysis for rheumatoid arthritis
-- A systematic literature and trial registry search for ulipristal in rheumatoid arthritis and related inflammatory conditions
-- Warnings and contraindications from the SmPC for safety screening
-- Preclinical or early-phase evidence in an inflammatory arthritis model
-- Assessment of route and dosage compatibility, as the dose and regimen used for contraception may not suit chronic therapy
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

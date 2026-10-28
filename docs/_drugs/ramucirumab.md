@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **uterine ligament adenocarcino
 |------|------|
 | Original Indication | Advanced gastric cancer or gastro-oesophageal junction adenocarcinoma (with paclitaxel or as monotherapy after prior chemotherapy); also metastatic colorectal cancer, non-small cell lung cancer and hepatocellular carcinoma |
 | Predicted New Indication | Uterine ligament adenocarcinoma |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Adenocarcinomas of the gynaecologic tract, including the uterine ligament, can depend on VEGF-driven blood vessel growth, so blocking VEGFR-2 is biologically plausible. However, this link rests only on the high TxGNN score (0.9995) and a general anti-angiogenic rationale. No entity-specific studies were found, and the mechanism could not be cross-checked against a recorded mechanism of action.
 
-Other top-ranked predictions are also gynaecologic adenocarcinomas, all with the same prediction-only evidence and scores between 99.93% and 99.95%:
+Other top-ranked predictions are also gynaecologic adenocarcinomas, all with the same prediction-only evidence and scores between 0.9994 and 0.9995:
 - Endocervical carcinoma
 - Adenoid cystic carcinoma of the cervix uteri
 - Uterine ligament serous, endometrioid, clear cell and mucinous adenocarcinomas

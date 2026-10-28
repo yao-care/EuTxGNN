@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Laronidase
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 352
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Laronidase: predicted new indication Lysosomal storage disease with skeletal involvement (evidence level L3). Approved use: Long-term enzyme replacement therapy in patients with a confirmed dia…"
 monitor_inn: "Laronidase"
-predicted_indications: ["lysosomal storage disease with skeletal involvement", "Sanfilippo syndrome", "lysosomal disease with hypertrophic cardiomyopathy", "syndromic neurometabolic disease with X-linked intellectual disability", "eyelids malposition disorder", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-strabismus-ectopic pupils syndrome", "inborn disorder of lysosomal amino acid transport", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "ptosis-vocal cord paralysis syndrome"]
+predicted_indications: ["lysosomal storage disease with skeletal involvement", "Sanfilippo syndrome"]
 ---
 
 # Laronidase
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ No clinical trials are registered for this prediction, and **4 publications** (r
 |------|------|
 | Original Indication | Long-term enzyme replacement therapy in patients with a confirmed diagnosis of MPS I (alpha-L-iduronidase deficiency), to treat the non-neurological manifestations |
 | Predicted New Indication | Lysosomal storage disease with skeletal involvement |
-| TxGNN Prediction Score | 99.31% |
-| Evidence Level | L3 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| TxGNN Prediction Score | 0.9931 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

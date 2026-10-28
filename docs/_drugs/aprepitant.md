@@ -48,10 +48,10 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Prevention of postoperative nausea and vomiting (PONV) in adults; prevention of nausea and vomiting associated with chemotherapy (other strengths and formulations) |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,9 +60,9 @@ Aprepitant blocks the NK1 receptor, the target of substance P. This is the basis
 
 The link between the original and predicted indications is weak. Nephrogenic SIAD is caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2). These act downstream of any effect NK1 signalling might have on neuroendocrine or fluid regulation. The connection is speculative, and no clinical or literature evidence supports it.
 
-The very high TxGNN score (99.97%) is a computational prediction from a knowledge graph. It is not evidence of efficacy and should be treated as a hypothesis only.
+The very high TxGNN score (0.9997) is a prediction from the TxGNN model (deep learning). It is not evidence of efficacy and should be treated as a hypothesis only.
 
-Other predicted indications in the data (hypertrichosis, pulmonary hypertension, leprosy, subarachnoid haemorrhage and others) also score above 99.8%. All are at evidence level L5 with a Hold recommendation. Subarachnoid haemorrhage has the most plausible biological rationale, based on preclinical work on substance P/NK1 signalling in blood-brain barrier disruption and cerebral oedema, but it remains hypothetical.
+Other predicted indications from the TxGNN model (deep learning), including hypertrichosis (0.9991), pulmonary hypertension (0.9990), leprosy (0.9990), subarachnoid haemorrhage (0.9985) and others, also have scores of at least 0.9985. These scores may reflect similarities the model learned between related diseases, not biological evidence. All are at evidence level L5 with a Hold recommendation. Subarachnoid haemorrhage has the most plausible biological rationale, based on preclinical work on substance P/NK1 signalling in blood-brain barrier disruption and cerebral oedema, but it remains hypothetical.
 
 ## Clinical Trial Evidence
 

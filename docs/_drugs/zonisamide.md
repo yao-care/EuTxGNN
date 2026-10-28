@@ -4,17 +4,17 @@ title: Zonisamide
 parent: AI Predictions (L5)
 nav_order: 687
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Zonisamide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Monotherapy for partial seizures…"
 monitor_inn: "Zonisamide"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
+description: "Zonisamide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Zonegran is indicated as: monotherapy in the treatment of partial sei…"
 ---
 
 # Zonisamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Zonisamide: From Partial Seizures (Epilepsy) to Tourette Syndrome
+## Zonisamide: Tourette syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Zonisamide is an antiseizure medication, originally used to treat partial seizures in adults with newly diagnosed epilepsy and as add-on therapy in older children and adolescents.
 The TxGNN model ranks **Tourette syndrome** as its top prediction, but **no clinical trials and no publications** support this prediction in the data compiled for this report.
-Among the other predictions, absence epilepsy (a closely related indication) and bipolar disorder have the most supporting literature.
+Among the other predictions, bipolar disorder has the most supporting literature.
 
 ---
 
@@ -48,12 +48,12 @@ Among the other predictions, absence epilepsy (a closely related indication) and
 
 | Item | Content |
 |------|------|
-| Original Indication | Monotherapy for partial seizures, with or without secondary generalisation, in adults with newly diagnosed epilepsy; adjunctive therapy for partial seizures in adults, adolescents and children aged 6 years and above |
+| Original Indication | Zonegran is indicated as: monotherapy in the treatment of partial seizures, with or without secondary generalisation, in adults with newly diagnosed epilepsy; adjunctive therapy in the treatment of partial seizures, with or without secondary generalisation, in adults, adolescents, and children aged  |
 | Predicted New Indication | Tourette syndrome |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 (model prediction only) |
-| EU Market Status | ✗ Cancelled only (no currently valid authorizations) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,14 +62,14 @@ Among the other predictions, absence epilepsy (a closely related indication) and
 
 Detailed mechanism of action data is not available in the data compiled for this report. Zonisamide is generally known as a sulfonamide antiseizure drug that acts on voltage-gated sodium channels and T-type calcium channels, and it also weakly modulates dopaminergic and serotonergic transmission. These properties could plausibly relate to the circuitry underlying tics, but this is a hypothesis only.
 
-Nothing in the data supports benefit in Tourette syndrome. On the contrary, a review of antiseizure medication-induced obsessive-compulsive disorder and tic disorder (PMID 36005856) suggests that antiseizure drugs may cause or worsen tic and obsessive-compulsive symptoms. The TxGNN score is high, but it reflects network proximity in a knowledge graph and not clinical evidence.
+Nothing in the data supports benefit in Tourette syndrome. On the contrary, a review of antiseizure medication-induced obsessive-compulsive disorder and tic disorder (PMID 36005856) suggests that antiseizure drugs may cause or worsen tic and obsessive-compulsive symptoms. The TxGNN score is high, but it comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or clinical evidence.
 
 For context, the other top-10 predictions fall into three groups:
-- **Closest to the original use:** absence epilepsy (score 99.24%, evidence level L3). Zonisamide's T-type calcium channel blockade is the same mechanism behind ethosuximide's effect in absence seizures. Small case series and chart reviews report benefit, for example 51% of 45 young patients became free of absence seizures (PMID 15847848).
-- **Plausible but with a safety signal:** manic bipolar affective disorder (score 99.35%, evidence level L4). Anticonvulsants are established mood stabilizers, and one open-label study examined bipolar depression (PMID 17163811). However, a case report describes zonisamide-induced mania (PMID 2109869).
-- **Likely graph artifacts:** methemoglobinemia (three related entries), Prinzmetal angina, conjunctivitis and trichotillomania have no supporting data and no clear mechanistic link.
+- **Closest to the original use:** absence epilepsy (evidence level L3). Zonisamide's T-type calcium channel blockade is the same mechanism behind ethosuximide's effect in absence seizures. Small case series and chart reviews report benefit, for example 51% of 45 young patients became free of absence seizures (PMID 15847848).
+- **Plausible but with a safety signal:** manic bipolar affective disorder (score 0.9935, evidence level L4). Anticonvulsants are established mood stabilizers, and one open-label study examined bipolar depression (PMID 17163811). However, a case report describes zonisamide-induced mania (PMID 2109869).
+- **Likely model artifacts:** methemoglobinemia (three related entries), Prinzmetal angina, conjunctivitis and trichotillomania have no supporting data and no clear mechanistic link. Their TxGNN scores (deep learning model) may reflect similarities the model learned between related diseases, not biological evidence.
 
-Fibromyalgia (score 99.20%) has a class-level rationale, since pregabalin and gabapentin are used for it, but its only trial was withdrawn.
+Fibromyalgia (score 0.9920) has a class-level rationale, since pregabalin and gabapentin are used for it, but its only trial was withdrawn.
 
 ---
 
@@ -136,7 +136,7 @@ Label-based warnings and contraindications were not available. Please refer to t
 **Decision: Hold**
 
 **Rationale:**
-The Tourette syndrome prediction rests on the model score alone, with no trials or publications, and the only related literature points to a possible risk of tics rather than benefit. Zonisamide also has no currently valid EU authorization.
+The Tourette syndrome prediction rests on the model score alone, with no trials or publications, and the only related literature points to a possible risk of tics rather than benefit.
 
 **To proceed, the following is needed:**
 - Mechanism of action data from DrugBank to assess the mechanistic link

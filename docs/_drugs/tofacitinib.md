@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Tofacitinib
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 626
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tofacitinib: predicted new indication Plasma cell myeloma (evidence level L5). Approved use: Rheumatoid arthritis (also psoriatic arthritis, ulcerative colitis…"
-monitor_inn: "Tofacitinib"
-predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "indolent plasma cell myeloma", "plasma cell myeloma", "myeloid leukemia", "ganglioneuroblastoma (disease)", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Tofacitinib: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Tofacitinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,56 +32,45 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Tofacitinib: From Rheumatoid Arthritis to Plasma Cell Myeloma
+<!-- known-uses-page -->
+<!-- description: Tofacitinib: known uses and market status in the European Union; currently no new candidate indication -->
+## Tofacitinib: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model's candidates for Tofacitinib (score ≥ 0.99) that can be traced to a source are all known uses. There is therefore currently no new predicted indication for this drug. The one known use is listed below with its source.
 
-Tofacitinib is an oral Janus kinase (JAK) inhibitor, originally used to treat rheumatoid arthritis, psoriatic arthritis, ulcerative colitis, juvenile idiopathic arthritis and ankylosing spondylitis.
-The TxGNN model predicts it may be effective for **Plasma Cell Myeloma**, the best-supported of its top-ranked predictions.
-Currently there are **0 clinical trials** and **3 publications** (one preclinical study and two observational studies), so the evidence is still at an early research stage.
-
-**Note on prediction selection:** The two highest-scoring predictions (colobomatous microphthalmia-rhizomelic dysplasia syndrome, 98.96%, and brachydactyly-syndactyly syndrome, 98.88%) have no supporting trials or publications and no identifiable mechanistic link, and are likely graph-based artifacts. This report therefore focuses on plasma cell myeloma (rank 4), the highest-ranked prediction with any supporting literature.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis (also psoriatic arthritis, ulcerative colitis, juvenile idiopathic arthritis, ankylosing spondylitis) |
-| Predicted New Indication | Plasma cell myeloma |
-| TxGNN Prediction Score | 96.09% |
-| Evidence Level | L4 (preclinical evidence only) |
-| EU Market Status | Cancelled only |
-| Number of Authorizations | 1 |
-| Recommended Decision | Hold (treat as a research question) |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 1 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tofacitinib is a JAK inhibitor (mainly JAK1/JAK3) whose efficacy in immune-mediated inflammatory diseases has been established, and mechanistically it may be applicable to plasma cell myeloma.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| rheumatoid arthritis | licence in another country |
 
-In myeloma, IL-6/JAK/STAT3 signaling supports the survival and growth of malignant plasma cells, including through support from bone marrow stromal cells. Rheumatoid arthritis and myeloma are very different diseases, but both involve cytokine-driven JAK/STAT signaling, which is the plausible bridge for this prediction.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-The most relevant evidence is a 2018 preclinical study reporting that tofacitinib reversed the growth-promoting effects of the bone marrow microenvironment on myeloma cells. This is indirect, laboratory-level evidence and does not show benefit in patients. There is also a theoretical safety concern, because JAK inhibitors carry a malignancy warning.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [29622655](https://pubmed.ncbi.nlm.nih.gov/29622655/) | 2018 | Preclinical (in vitro) | Haematologica | Repurposing screen identified tofacitinib as an agent that may reverse the tumour-stimulating effects of bone marrow stromal cells on myeloma cells |
-| [39819734](https://pubmed.ncbi.nlm.nih.gov/39819734/) | 2025 | Cohort | BMC Rheumatology | US Veterans with rheumatoid arthritis: examined whether biologic and targeted synthetic DMARD use affects the incidence of myeloma (observational, not therapeutic) |
-| [38071595](https://pubmed.ncbi.nlm.nih.gov/38071595/) | 2024 | Pharmacovigilance study | J Eur Acad Dermatol Venereol | FDA adverse event data linking immunosuppressants and haematologic malignancy, including myeloma, with sebaceous carcinoma (observational, not therapeutic) |
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004214 | Xeljanz | Not specified | Rheumatoid arthritisTofacitinib in combination with methotrexate (MTX) is indicated for the treatment of moderate to severe active... |
-
-This authorization is recorded as cancelled, so there is currently no valid EU marketing authorization in the data compiled for this report.
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/004214 | Xeljanz |  | Valid |
 
 ## Cytotoxicity
 
@@ -98,19 +86,6 @@ Tofacitinib is a targeted immunomodulatory kinase inhibitor, not a conventional 
 
 Please refer to the SmPC for full warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold (treat as a research question)**
-
-**Rationale:**
-The TxGNN score is high (96.09%), but there are no registered clinical trials and the only therapeutic evidence is a single preclinical study. The observational studies address exposure and myeloma risk, not benefit, and JAK inhibitors carry a malignancy warning.
-
-**To proceed, the following is needed:**
-- Mechanism of action data and EU label warnings/contraindications (currently unavailable)
-- Further preclinical validation of tofacitinib in myeloma models, including in vivo studies and combinations with standard myeloma therapy
-- A defined safety assessment addressing the malignancy and immunosuppression risk in a myeloma population
-- Clarification of EU regulatory status, since the only authorization is recorded as cancelled
-- If preclinical results hold, a small early-phase clinical study
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

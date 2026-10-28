@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Duloxetine: predicted new indication Top-ranked by TxGNN: benign paroxysmal torticollis of infancy . Best-… (evidence level L5). Approved use: Major depressive disorder, diabetic peripheral neuropath…"
 monitor_inn: "Duloxetine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
 ---
 
 # Duloxetine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Duloxetine: From Depression, Diabetic Neuropathic Pain and Anxiety to Obsessive-Compulsive Disorder
+## Duloxetine: From Depression, Diabetic Neuropathic Pain and Anxiety to Benign Paroxysmal Torticollis of Infancy
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ This report covers the top-ranked prediction and the most evidence-supported one
 |------|------|
 | Original Indication | Major depressive disorder, diabetic peripheral neuropathic pain, generalised anxiety disorder (adults); stress urinary incontinence in women (Yentreve) |
 | Predicted New Indication | Top-ranked by TxGNN: benign paroxysmal torticollis of infancy (no evidence). Best-supported: obsessive-compulsive disorder (rank 3) |
-| TxGNN Prediction Score | 99.85% (top-ranked); 99.84% (OCD) |
+| TxGNN Prediction Score | 0.9985 (top-ranked); 0.9984 (OCD) |
 | Evidence Level | L5 for the top-ranked prediction; L2 for OCD |
-| EU Market Status | ✗ Cancelled only (all licences cancelled) |
-| Number of Authorizations | 5 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Authorizations | 5 (valid: 5) |
 | Recommended Decision | Hold for the top-ranked prediction; Proceed with Guardrails for OCD (as a research question) |
 
 ---
@@ -64,7 +64,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 **OCD:** Serotonin reuptake inhibition is the core mechanism of anti-OCD drug treatment, and duloxetine adds noradrenergic action. OCD is closely related to the anxiety and depressive disorders for which duloxetine is already approved. Evidence includes a double-blind controlled augmentation trial in resistant OCD, an open-label study and a small Phase 4 trial. SSRIs and clomipramine remain first-line, and duloxetine has no Phase 3 confirmation in OCD.
 
-**Top-ranked prediction (benign paroxysmal torticollis of infancy):** This is a paediatric, migraine-related condition, often linked to CACNA1A variants. No plausible mechanism for an SNRI is established, no trials or publications were found, and use of duloxetine in infants raises safety concerns. The high score likely reflects proximity in the knowledge graph rather than biology.
+**Top-ranked prediction (benign paroxysmal torticollis of infancy):** This is a paediatric, migraine-related condition, often linked to CACNA1A variants. No plausible mechanism for an SNRI is established, no trials or publications were found, and use of duloxetine in infants raises safety concerns. The high score (0.9985) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 **Other predictions:** Agoraphobia has indirect support from panic disorder reports (L4). Personality disorders (schizotypal, histrionic, schizoid, paranoid), Ohdo syndrome and ligneous conjunctivitis are model predictions only (L5), with no evidence and no plausible mechanistic link.
 
@@ -109,11 +109,11 @@ For agoraphobia, indirect support comes from open-label work in panic disorder (
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/000545 | Yentreve (cancelled) | Not specified | Moderate to severe stress urinary incontinence (SUI) in women |
-| EMEA/H/C/000572 | Cymbalta (cancelled) | Not specified | Major depressive disorder, diabetic peripheral neuropathic pain, generalised anxiety disorder (adults) |
-| EMEA/H/C/004000 | Duloxetine Lilly (cancelled) | Not specified | Major depressive disorder, diabetic peripheral neuropathic pain, generalised anxiety disorder (adults) |
-| EMEA/H/C/003981 | Duloxetine Viatris, previously Duloxetine Mylan (cancelled) | Not specified | Major depressive disorder, diabetic peripheral neuropathic pain, generalised anxiety disorder (adults) |
-| EMEA/H/C/003935 | Duloxetine Zentiva (cancelled) | Not specified | Depressive disorder, diabetic neuropathic pain, anxiety disorder (adults) |
+| EMEA/H/C/000545 | Yentreve (valid) | Not specified | Moderate to severe stress urinary incontinence (SUI) in women |
+| EMEA/H/C/000572 | Cymbalta (valid) | Not specified | Major depressive disorder, diabetic peripheral neuropathic pain, generalised anxiety disorder (adults) |
+| EMEA/H/C/004000 | Duloxetine Lilly (valid) | Not specified | Major depressive disorder, diabetic peripheral neuropathic pain, generalised anxiety disorder (adults) |
+| EMEA/H/C/003981 | Duloxetine Viatris, previously Duloxetine Mylan (valid) | Not specified | Major depressive disorder, diabetic peripheral neuropathic pain, generalised anxiety disorder (adults) |
+| EMEA/H/C/003935 | Duloxetine Zentiva (valid) | Not specified | Depressive disorder, diabetic neuropathic pain, anxiety disorder (adults) |
 
 ---
 
@@ -136,13 +136,13 @@ Please refer to the SmPC for label warnings and contraindications.
 
 **Rationale:**
 - The top-ranked prediction has a very high model score but no trials, no literature and no plausible mechanism, so it should not advance.
-- OCD has a double-blind controlled trial, open-label studies and a completed Phase 4 trial, but all are small and heterogeneous. SSRIs and clomipramine remain first-line, and there is no Phase 3 confirmation. All five EU licences are also cancelled, which complicates any development path.
+- OCD has a double-blind controlled trial, open-label studies and a completed Phase 4 trial, but all are small and heterogeneous. SSRIs and clomipramine remain first-line, and there is no Phase 3 confirmation. All five licences are currently valid.
 
 **To proceed, the following is needed:**
 - Adequately powered, controlled (ideally Phase 3) trials of duloxetine in OCD, particularly in SSRI-resistant patients
 - Mechanism of action data to support the mechanistic-link analysis
 - EU label warnings and contraindications (SmPC) to complete safety screening
-- Clarification of the regulatory and market situation, given that all licences are cancelled
+- Clarification of the regulatory and market situation, given that the drug is marketed and all five licences are valid
 - A safety monitoring plan covering the knowledge-graph contraindications and major drug interactions listed above
 ## Disclaimer
 

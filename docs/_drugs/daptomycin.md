@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Daptomycin
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 170
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Daptomycin: predicted new indication Osteoarthritis (evidence level L4). Approved use: Complicated skin and soft-tissue infections (cSSTI) in adults and chi…"
 monitor_inn: "Daptomycin"
-predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
+predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
 ---
 
 # Daptomycin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ The prediction is best read as a likely disease-name association, not as genuine
 |------|------|
 | Original Indication | Complicated skin and soft-tissue infections (cSSTI) in adults and children (1 to 17 years); right-sided infective endocarditis due to *S. aureus*; *S. aureus* bacteraemia |
 | Predicted New Indication | Osteoarthritis |
-| TxGNN Prediction Score | 99.86% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization in the data compiled for this report) |
-| Number of Authorizations | 2 (both cancelled) |
+| TxGNN Prediction Score | 0.9986 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 The retrieved literature does not support the prediction. Most papers describe daptomycin for osteoarticular and prosthetic joint infections caused by *Staphylococcus* species, where it works as an antibacterial. These are infections, not degenerative osteoarthritis. The high TxGNN score most likely reflects a disease-name association with bone and joint infection. It does not show a disease-modifying effect, so this appears to be a confusion of indication labels rather than a true repurposing signal.
 
-A separate, more plausible signal exists for **rheumatoid arthritis** (rank 2, score 99.84%). A 2025 preclinical study reports that daptomycin reduced collagen-induced arthritis in mice by suppressing inflammatory cytokines and NF-κB signalling. This is unvalidated and has no clinical support, and it does not extend to osteoarthritis.
+A separate, more plausible signal exists for **rheumatoid arthritis** (rank 2, score 0.9984). A 2025 preclinical study reports that daptomycin reduced collagen-induced arthritis in mice by suppressing inflammatory cytokines and NF-κB signalling. This is unvalidated and has no clinical support, and it does not extend to osteoarthritis.
 
 ## Clinical Trial Evidence
 
@@ -87,8 +87,8 @@ None of these studies tests daptomycin as a treatment for degenerative osteoarth
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/004310 | Daptomycin Hospira (cancelled) | Not specified | Daptomycin is indicated for the treatment of the following infections. Adult and paediatric (1 to 17 years of age) pat... |
-| EMEA/H/C/000637 | Cubicin (cancelled) | Not specified | Cubicin is indicated for the treatment of the following infections. Adult and paediatric (1 to 17 years of age) patien... |
+| EMEA/H/C/004310 | Daptomycin Hospira (valid) | Not specified | Daptomycin is indicated for the treatment of the following infections. Adult and paediatric (1 to 17 years of age) pat... |
+| EMEA/H/C/000637 | Cubicin (valid) | Not specified | Cubicin is indicated for the treatment of the following infections. Adult and paediatric (1 to 17 years of age) patien... |
 
 ## Safety Considerations
 

@@ -4,17 +4,17 @@ title: Methylphenidate
 parent: AI Predictions (L5)
 nav_order: 401
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Methylphenidate: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: ADHD in children and adolescents aged 6-17 years…"
 monitor_inn: "Methylphenidate"
-predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder", "trichotillomania", "cerebellar ataxia", "autosomal dominant cerebellar ataxia", "spinocerebellar degeneration with slow eye movements", "benign paroxysmal torticollis of infancy", "insomnia (disease)"]
+predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
+description: "Methylphenidate: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Tuzulby is indicated as part of a comprehensive treatment programme f…"
 ---
 
 # Methylphenidate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Methylphenidate: From ADHD to Faciodigital Genital Syndrome (Faciodigitogenital Syndrome)
+## Methylphenidate: Faciodigitogenital syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ Among the other predicted indications, the best-supported direction is **specifi
 
 | Item | Content |
 |------|------|
-| Original Indication | ADHD in children and adolescents aged 6-17 years, as part of a comprehensive treatment programme when remedial measures alone are insufficient |
+| Original Indication | Tuzulby is indicated as part of a comprehensive treatment programme for attention-deficit / hyperactivity disorder (ADHD) in children and adolescents 6-17 years old when remedial measures alone prove insufficient. Treatment must be under the supervision of a specialist in childhood behavioural disor |
 | Predicted New Indication | Faciodigitogenital syndrome |
-| TxGNN Prediction Score | 99.998% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,9 +62,9 @@ Among the other predicted indications, the best-supported direction is **specifi
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, methylphenidate is a stimulant whose efficacy in ADHD is established. The retrieved literature describes it as acting on dopamine and norepinephrine transporters (DAT/NET), which is consistent with the PET study of extended-release methylphenidate in adults with ADHD.
 
-For faciodigitogenital syndrome, no plausible mechanistic link can be established from the supplied data. Some features of the syndrome, such as ADHD-like behaviour, may be loosely relevant, but this is speculative. The very high score most likely reflects a pattern in the knowledge graph rather than a biologically grounded signal.
+For faciodigitogenital syndrome, no plausible mechanistic link can be established from the supplied data. Some features of the syndrome, such as ADHD-like behaviour, may be loosely relevant, but this is speculative.
 
-Other predictions have somewhat more context. For specific developmental disorder, the literature mainly concerns ADHD itself, which gives indirect support through neurodevelopmental overlap. It does not provide independent evidence for other developmental disorders such as learning disabilities. Several other predictions (cerebellar ataxia, trichotillomania, insomnia) are discussed below.
+Other predictions have somewhat more context. For specific developmental disorder, the literature mainly concerns ADHD itself, which gives indirect support through neurodevelopmental overlap. It does not provide independent evidence for other developmental disorders such as learning disabilities.
 
 ---
 
@@ -100,7 +100,6 @@ No publications were retrieved for faciodigitogenital syndrome. The table below 
 | [42218703](https://pubmed.ncbi.nlm.nih.gov/42218703/) | 2026 | Systematic review | J Cutan Med Surg | Hair loss in patients with ADHD (trichotillomania). |
 | [16087769](https://pubmed.ncbi.nlm.nih.gov/16087769/) | 2005 | Imaging study | Arch Neurol | DAT PET in spinocerebellar ataxias 1, 2, 3 and 6 (ataxias). Pathophysiology only, not treatment. |
 
-Notably, for trichotillomania and insomnia the literature points to a possible adverse effect of methylphenidate rather than a therapeutic benefit.
 
 ---
 
@@ -118,7 +117,7 @@ Notably, for trichotillomania and insomnia the literature points to a possible a
 - **Drug Interactions**: The interaction query returned 100 entries. The main ones are:
   - **Major**: bupropion
   - **Moderate**: isometheptene, ephedrine, epinephrine, polyethylene glycol (3350 with electrolytes), picosulfuric acid, sodium sulfate
-- **Signals in the retrieved literature**: case reports and a systematic review describe new-onset or worsened trichotillomania and hair loss with stimulants. Insomnia is a recognised adverse effect.
+- Insomnia is a recognised adverse effect.
 
 Please refer to the SmPC for official warnings and contraindications.
 
@@ -129,7 +128,7 @@ Please refer to the SmPC for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, faciodigitogenital syndrome, has a very high model score but no trials, no publications and no plausible mechanistic link (evidence level L5). Lower-ranked predictions rest on indirect, ADHD-centred evidence, and for trichotillomania and insomnia the signal points to harm rather than benefit. The only EU authorisation is cancelled.
+The top prediction, faciodigitogenital syndrome, has a very high model score but no trials, no publications and no plausible mechanistic link (evidence level L5). The only EU authorisation is cancelled.
 
 **To proceed, the following is needed:**
 - Official EU label warnings and contraindications (safety screening cannot proceed without them)

@@ -7,14 +7,15 @@ description: "bedaquiline fumarate drug repurposing predictions from TxGNN. Evid
 parent: AI Predictions (L5)
 nav_order: 72
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Bedaquiline Fumarate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | multidrug-resistant tuberculosis | 99.98% | DL |
-| 2 | tuberculosis, bovine | 99.96% | DL |
-| 3 | tuberculoma | 99.96% | DL |
-| 4 | tuberculous ascites | 99.96% | DL |
-| 5 | inactive tuberculosis | 99.96% | DL |
-| 6 | tuberculosis, avian | 99.96% | DL |
-| 7 | vulvovaginal candidiasis | 99.88% | DL |
-| 8 | fascioliasis | 99.88% | DL |
-| 9 | urea cycle disorder | 99.78% | DL |
-| 10 | cutaneous tuberculosis | 99.70% | DL |
-| 11 | esophageal candidiasis | 99.68% | DL |
-| 12 | inhalational botulism | 99.66% | DL |
-| 13 | helminthiasis, animal | 99.64% | DL |
-| 14 | necatoriasis | 99.63% | DL |
-| 15 | hymenolepiasis | 99.63% | DL |
-| 16 | paragonimiasis | 99.63% | DL |
-| 17 | echinostomiasis | 99.63% | DL |
-| 18 | fascioloidiasis | 99.63% | DL |
-| 19 | monieziasis | 99.63% | DL |
-| 20 | fasciolopsiasis | 99.63% | DL |
 
 *Showing top 20 of 50 predictions.*
 

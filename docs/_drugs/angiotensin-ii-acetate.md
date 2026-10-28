@@ -7,14 +7,15 @@ description: "Angiotensin Ii Acetate drug repurposing predictions from TxGNN. Ev
 parent: AI Predictions (L5)
 nav_order: 40
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Angiotensin Ii Acetate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies | 92.47% | DL |
-| 2 | severe nonproliferative diabetic retinopathy | 92.04% | DL |
-| 3 | exocrine pancreatic insufficiency | 91.29% | DL |
-| 4 | diabetic retinopathy | 90.65% | DL |
-| 5 | diabetic cataract | 89.45% | DL |
-| 6 | nuclear senile cataract | 89.45% | DL |
-| 7 | cortical cataract | 89.45% | DL |
-| 8 | tetanic cataract | 89.42% | DL |
-| 9 | immature cataract | 89.42% | DL |
-| 10 | mature cataract | 89.42% | DL |
-| 11 | craniostenosis cataract | 89.42% | DL |
-| 12 | diabetes mellitus type 2 associated cataract | 89.42% | DL |
-| 13 | senile cataract | 88.97% | DL |
-| 14 | neuromuscular junction disease | 88.51% | DL |
-| 15 | congenital myasthenic syndrome with tubular aggregates | 86.72% | DL |
-| 16 | filariasis | 86.16% | DL |
-| 17 | cecum villous adenoma | 85.05% | DL |
-| 18 | rectosigmoid junction neoplasm | 85.05% | DL |
-| 19 | cecum neuroendocrine tumor G1 | 84.99% | DL |
-| 20 | cecal disease | 84.87% | DL |
 
 *Showing top 20 of 50 predictions.*
 

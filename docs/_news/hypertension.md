@@ -34,7 +34,7 @@ This page brings together the latest health news about “Bluthochdruck” and l
 <li><a href="{{ '/drugs/apremilast/' | relative_url }}">Apremilast</a></li>
 <li><a href="{{ '/drugs/aprepitant/' | relative_url }}">Aprepitant</a></li>
 <li><a href="{{ '/drugs/deferiprone/' | relative_url }}">Deferiprone</a></li>
-<li><a href="{{ '/drugs/elexacaftor/' | relative_url }}">Elexacaftor</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Elexacaftor</a></li>
 <li><a href="{{ '/drugs/entrectinib/' | relative_url }}">Entrectinib</a></li>
 <li><a href="{{ '/drugs/erdafitinib/' | relative_url }}">Erdafitinib</a></li>
 <li><a href="{{ '/drugs/febuxostat/' | relative_url }}">Febuxostat</a></li>
@@ -46,12 +46,12 @@ This page brings together the latest health news about “Bluthochdruck” and l
 <li><a href="{{ '/drugs/isavuconazole/' | relative_url }}">Isavuconazole</a></li>
 <li><a href="{{ '/drugs/lonafarnib/' | relative_url }}">Lonafarnib</a></li>
 <li><a href="{{ '/drugs/lumacaftor/' | relative_url }}">Lumacaftor</a></li>
-<li><a href="{{ '/drugs/macitentan/' | relative_url }}">Macitentan</a></li>
-<li><a href="{{ '/drugs/netupitant/' | relative_url }}">Netupitant</a></li>
-<li><a href="{{ '/drugs/ospemifene/' | relative_url }}">Ospemifene</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Macitentan</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Netupitant</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Ospemifene</a></li>
 <li><a href="{{ '/drugs/prasugrel/' | relative_url }}">Prasugrel</a></li>
 <li><a href="{{ '/drugs/rasburicase/' | relative_url }}">Rasburicase</a></li>
-<li><a href="{{ '/drugs/riociguat/' | relative_url }}">Riociguat</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Riociguat</a></li>
 <li><a href="{{ '/drugs/roflumilast/' | relative_url }}">Roflumilast</a></li>
 <li><a href="{{ '/drugs/selexipag/' | relative_url }}">Selexipag</a></li>
 <li><a href="{{ '/drugs/selpercatinib/' | relative_url }}">Selpercatinib</a></li>

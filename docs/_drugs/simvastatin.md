@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Simvastatin
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 564
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Simvastatin: predicted new indication Familial hypercholesterolemia (evidence level L1). Approved use: Adjunctive therapy to diet and exercise in high cardiovascular risk a…"
 monitor_inn: "Simvastatin"
-predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "fibroma of prostate", "simian immunodeficiency virus infection"]
+predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Simvastatin: predicted new indication Brain stem infarction (evidence level L5). Approved use: Cholib is indicated as adjunctive therapy to diet and exercise in hig…"
 ---
 
 # Simvastatin
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Simvastatin: From Mixed Dyslipidaemia to Familial Hypercholesterolemia
+## Simvastatin: Brain stem infarction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Simvastatin is a statin that was originally authorised in the EU, as part of the Cholib combination, for mixed dyslipidaemia in high cardiovascular risk adults.
-The TxGNN model predicts it may be effective for **familial hypercholesterolemia**, with **9 clinical trials** and **20 publications** currently supporting this direction.
 This is closer to an established lipid-lowering use than to true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Adjunctive therapy to diet and exercise in high cardiovascular risk adults with mixed dyslipidaemia, to reduce triglycerides and increase HDL-C when LDL-C is adequately controlled with the corresponding dose of simvastatin monotherapy |
-| Predicted New Indication | Familial hypercholesterolemia |
-| TxGNN Prediction Score | 99.63% |
-| Evidence Level | L1 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 |
+| Original Indication | Cholib is indicated as adjunctive therapy to diet and exercise in high cardiovascular risk adult patients with mixed dyslipidaemia to reduce triglycerides and increase HDL C levels when LDL C levels are adequately controlled with the corresponding dose of simvastatin monotherapy. |
+| Predicted New Indication | Brain stem infarction |
+| TxGNN Prediction Score | 0.9941 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -101,7 +100,7 @@ Only NCT00552097 and NCT00129402 evaluate simvastatin directly in FH. The remain
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: liver disease, pancreatitis, gallbladder disease, myopathy and other muscle diseases, rhabdomyolysis, thrombocytopenia, diabetes-related conditions (hyperglycemia, diabetic ketoacidosis), gout, peptic ulcer disease, blood coagulation disease, and several coronary or myocardial infarction conditions. These should be verified against the official product information.
+- These should be verified against the official product information.
 - **Drug Interactions**: 100 interactions were found in total. Major-level interactions include **amiodarone**, **amlodipine**, and **fenofibrate**. Moderate interactions include nifedipine, paclitaxel, omeprazole, aprepitant, and ethanol, among others.
 - **HIV-related caution**: In HIV treatment, protease inhibitors and boosters inhibit CYP3A4 and raise simvastatin exposure, increasing myopathy and rhabdomyolysis risk. A case report documents myopathy with simvastatin and a cobicistat-containing regimen.
 

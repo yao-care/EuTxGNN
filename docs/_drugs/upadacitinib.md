@@ -4,17 +4,17 @@ title: Upadacitinib
 parent: AI Predictions (L5)
 nav_order: 651
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Upadacitinib: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Moderate to severe active rheumatoid arthritis in adults who respon…"
 monitor_inn: "Upadacitinib"
-predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "indolent plasma cell myeloma", "amyotrohpic lateral sclerosis type 22", "heparin cofactor 2 deficiency", "amyotrophic lateral sclerosis, susceptibility to", "plasma cell myeloma", "Mills syndrome", "amyotrophic lateral sclerosis", "axial spondylometaphyseal dysplasia"]
+predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
+description: "Upadacitinib: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Rheumatoid arthritisRINVOQ is indicated for the treatment of modera…"
 ---
 
 # Upadacitinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Upadacitinib: From Rheumatoid Arthritis to Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome
+## Upadacitinib: Colobomatous microphthalmia-rhizomelic dysplasia syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,21 +46,21 @@ There are **0 clinical trials** and **0 publications** supporting this predictio
 
 | Item | Content |
 |------|------|
-| Original Indication | Moderate to severe active rheumatoid arthritis in adults who responded inadequately to, or are intolerant to, one or more DMARDs (also psoriatic arthritis, axial spondyloarthritis, giant cell arteritis, atopic dermatitis, ulcerative colitis, Crohn's disease) |
+| Original Indication | Rheumatoid arthritisRINVOQ is indicated for the treatment of moderate to severe active rheumatoid arthritis in adult patients who have responded inadequately to, or who are intolerant to one or more disease-modifying anti-rheumatic drugs (DMARDs). RINVOQ may be used as monotherapy or in combination  |
 | Predicted New Indication | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
-| TxGNN Prediction Score | 99.61% |
+| TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (see note in the EU Market Information section) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Upadacitinib is known to be a JAK1-selective inhibitor, which dampens inflammatory cytokine signaling through the JAK/STAT pathway. This explains its efficacy in the approved inflammatory and autoimmune indications.
 
-The predicted disease is different in nature. It is an ultra-rare developmental syndrome with no known JAK/STAT-driven inflammatory pathology. No plausible mechanistic link has been established between JAK1 inhibition and this condition. The very high score (0.996) most likely reflects artifacts of the knowledge graph rather than a biological rationale. It should be treated as a computational hypothesis only.
+The predicted disease is different in nature. It is an ultra-rare developmental syndrome with no known JAK/STAT-driven inflammatory pathology. No plausible mechanistic link has been established between JAK1 inhibition and this condition. It should be treated as a computational hypothesis only.
 
-Other predictions in the top 10 follow the same pattern. Most are rare genetic or developmental conditions (such as brachydactyly-syndactyly syndrome and axial spondylometaphyseal dysplasia) with no mechanistic rationale. The exception is plasma cell myeloma and its indolent form, where IL-6/JAK/STAT3 signaling provides only background biological plausibility, without clinical data and with malignancy and infection warnings that raise concern.
+Other predictions in the top 10 follow the same pattern. Most are rare genetic or developmental conditions (such as brachydactyly-syndactyly syndrome and axial spondylometaphyseal dysplasia) with no mechanistic rationale.
 
 ## Clinical Trial Evidence
 
@@ -87,7 +87,7 @@ The data compiled for this report list this single authorization as cancelled. S
   - Deferiprone
   - Iobenguane (I-131)
 - Moderate interactions include aprepitant, cimetidine, miconazole and deferasirox. Zinc salts are minor.
-- Other noted concerns: the class carries malignancy, serious infection and thrombosis/VTE warnings, which are particularly relevant for the plasma cell neoplasm and heparin cofactor 2 deficiency predictions. These come from the prediction rationale, not from label text.
+- These come from the prediction rationale, not from label text.
 
 Please refer to the SmPC for the full warnings and contraindications.
 
@@ -103,7 +103,6 @@ The prediction has no clinical trials or literature, no mechanistic link, and a 
 - Safety information from the EMA SmPC (warnings and contraindications), which is currently missing
 - Verification of the EU authorization status
 - Preclinical or disease-model evidence if the prediction is to be pursued
-- Consideration of higher-priority predictions with at least some biological plausibility, such as plasma cell myeloma, before any further investment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

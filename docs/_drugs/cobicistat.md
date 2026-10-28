@@ -4,17 +4,17 @@ title: Cobicistat
 parent: AI Predictions (L5)
 nav_order: 155
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Cobicistat: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: Pharmacokinetic enhancer of atazanavir 300 mg or darunavir 800 mg onc…"
 monitor_inn: "Cobicistat"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "chronic hepatitis C virus infection", "hepatitis C virus infection", "obsolete familial combined hyperlipidemia", "hepatitis B virus infection", "hepatitis E virus infection"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Cobicistat
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The model score appears to reflect similarity to HIV-1 rather than any real anti
 |------|------|
 | Original Indication | Pharmacokinetic enhancer of atazanavir 300 mg or darunavir 800 mg once daily, as part of antiretroviral combination therapy in HIV-1 infected adults and adolescents aged 12 years and older (weighing at least 35 kg with atazanavir, or at least 40 kg with darunavir) |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The high prediction score most likely reflects the closeness of simian immunodeficiency virus (SIV) infection to HIV-1 in the disease network used by the model. SIV is an animal-model disease with no clinical relevance for human repurposing. A direct effect of cobicistat on SIV is not expected. At most, it could act as a booster of a co-administered antiviral.
 
-Other predictions were also reviewed. Most are explained by cobicistat's use inside HIV combination regimens (hepatitis B, hepatitis C, AIDS related complex), and the benefit in those cases comes from the partner drugs, not from cobicistat. A few appear to be graph artifacts (a rare neurodevelopmental disorder, an obsolete hyperlipidaemia term).
+Other predictions were also reviewed. One of them, a rare neurodevelopmental disorder (0.9991), comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ---
 
@@ -92,7 +92,7 @@ Currently no related literature available for simian immunodeficiency virus infe
 |---------|------|------|-----------|
 | EMEA/H/C/002572 | Tybost | Not specified | Pharmacokinetic enhancer of atazanavir 300 mg once daily or darunavir 800 mg once daily as part of antiretroviral combination therapy in HIV-1... |
 
-This authorization is recorded as cancelled, and no currently valid authorization exists.
+This authorization is recorded as valid, and the drug is marketed in this country (1 valid licence of 1).
 
 ---
 

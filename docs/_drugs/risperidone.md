@@ -4,17 +4,17 @@ title: Risperidone
 parent: AI Predictions (L5)
 nav_order: 529
 evidence_level: L5
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Risperidone: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5). Approved use: Treatment of schizophrenia in adults for whom tolerability and eff…"
 monitor_inn: "Risperidone"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder", "Tourette syndrome", "intellectual disability", "autism, susceptibility to", "chromosome 15q11.2 deletion syndrome"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+description: "Risperidone: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5). Approved use: Treatment of schizophrenia in adults for whom tolerability and eff…"
 ---
 
 # Risperidone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Risperidone: From Schizophrenia to Familial Horizontal Gaze Palsy with Progressive Scoliosis
+## Risperidone: Gaze palsy, familial horizontal, with progressive scoliosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ This prediction has **0 clinical trials** and **0 publications** supporting it, 
 
 | Item | Content |
 |------|------|
-| Original Indication | Treatment of schizophrenia in adults for whom tolerability and effectiveness has been established with oral risperidone |
+| Original Indication | Treatment of schizophrenia in adults for whom tolerability and effectiveness has been established with oral risperidone. |
 | Predicted New Indication | Gaze palsy, familial horizontal, with progressive scoliosis |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available. Risperidone is kn
 
 Familial horizontal gaze palsy with progressive scoliosis is an ultra-rare genetic disorder (ROBO3-related). It involves abnormal axon guidance and brainstem development. Risperidone's receptor blockade has no known relevance to this pathology, and no plausible mechanistic link was identified.
 
-The high TxGNN score (0.998) reflects a graph-based prediction only. No trials or literature support it. It should be read as a model artefact rather than a credible repurposing signal.
+No trials or literature support it. It should be read as a model artefact rather than a credible repurposing signal.
 
 ---
 
@@ -115,8 +115,6 @@ Label-based warnings and contraindications were not available in the data compil
 
 **Note on other candidates:** The same analysis lists better-supported predictions for risperidone that may deserve priority over this one.
 - **Major affective disorder** (adjunctive treatment in treatment-resistant depression): L1, Proceed with Guardrails.
-- **Tourette syndrome**: L2, Proceed with Guardrails.
-- **Intellectual disability** (behavioral symptoms): L1, Proceed with Guardrails.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

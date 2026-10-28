@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tagraxofusp: predicted new indication Esotropia (evidence level L5). Approved use: First-line monotherapy for adult patients with blastic plasmacytoid d…"
 monitor_inn: "Tagraxofusp"
-predicted_indications: ["esotropia", "pre-malignant neoplasm", "inner ear neoplasm", "benign neoplasm of tongue", "bronchial adenomas/carcinoids childhood", "chondroid hamartoma", "non-seminomatous lesion", "ductal or ductular proliferation", "cystic neoplasm", "thyroglossal duct cyst"]
+predicted_indications: ["esotropia", "pre-malignant neoplasm", "inner ear neoplasm", "benign neoplasm of tongue", "ductal or ductular proliferation", "bronchial adenomas/carcinoids childhood", "chondroid hamartoma", "non-seminomatous lesion", "cystic neoplasm", "thyroglossal duct cyst"]
 ---
 
 # Tagraxofusp
@@ -40,7 +40,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 Tagraxofusp was originally authorised in the EU as a monotherapy for the first-line treatment of adult patients with blastic plasmacytoid dendritic cell neoplasm (BPDCN).
 The TxGNN model predicts it may be effective for **esotropia**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
-The high score appears to be a graph-based artefact rather than a biologically grounded signal.
+The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ---
 
@@ -50,10 +50,10 @@ The high score appears to be a graph-based artefact rather than a biologically g
 |------|------|
 | Original Indication | First-line monotherapy for adult patients with blastic plasmacytoid dendritic cell neoplasm (BPDCN) |
 | Predicted New Indication | Esotropia |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (the single authorisation is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,9 +62,9 @@ The high score appears to be a graph-based artefact rather than a biologically g
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, tagraxofusp is a CD123-directed cytotoxin (interleukin-3 fused to a truncated diphtheria toxin). It targets CD123-expressing malignant cells, which is why it was developed for BPDCN.
 
-Esotropia is an ocular motor alignment disorder with no known CD123-driven pathology. No credible mechanistic link between the original and the predicted indication could be identified. The high TxGNN score (0.997) most likely reflects proximity in the knowledge graph rather than real biology, so the prediction should be treated as unsupported.
+Esotropia is an ocular motor alignment disorder with no known CD123-driven pathology. No credible mechanistic link between the original and the predicted indication could be identified. The high TxGNN score (0.9973) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so the prediction should be treated as unsupported.
 
-The other top-ranked predictions show the same pattern. They are mostly benign or non-CD123-driven conditions such as pre-malignant neoplasm, inner ear neoplasm, benign tongue neoplasm, chondroid hamartoma and thyroglossal duct cyst. Their scores are all between 99.71% and 99.73%, and none has any trial or literature support. Together they suggest a general "neoplasm" association in the graph rather than target-specific rationale.
+The other top-ranked predictions show the same pattern. They are mostly benign or non-CD123-driven conditions such as pre-malignant neoplasm, inner ear neoplasm, benign tongue neoplasm, chondroid hamartoma and thyroglossal duct cyst. Their scores are all between 0.9972 and 0.9973, and none has any trial or literature support. Together they suggest a general "neoplasm" association learned by the TxGNN model (deep learning) between related diseases rather than target-specific rationale.
 
 ---
 

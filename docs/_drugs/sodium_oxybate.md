@@ -4,17 +4,17 @@ title: Sodium Oxybate
 parent: High Evidence (L1-L2)
 nav_order: 567
 evidence_level: L2
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
 description: "Sodium Oxybate: predicted new indication Insomnia (evidence level L2). Approved use: Treatment of narcolepsy with cataplexy in adult patients"
 monitor_inn: "Sodium oxybate"
-predicted_indications: ["insomnia (disease)", "obsolete neurogenic bladder (disease)", "sleep disorder, initiating and maintaining sleep", "cauda equina syndrome", "Wernicke-Korsakoff syndrome", "restless legs syndrome", "attention deficit-hyperactivity disorder", "acute encephalopathy with biphasic seizures and late reduced diffusion", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type"]
+predicted_indications: ["insomnia (disease)", "obsolete neurogenic bladder (disease)", "sleep disorder, initiating and maintaining sleep", "cauda equina syndrome", "Wernicke-Korsakoff syndrome", "restless legs syndrome"]
 ---
 
 # Sodium Oxybate
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **insomnia**, but the supportin
 |------|------|
 | Original Indication | Treatment of narcolepsy with cataplexy in adult patients |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.997% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L2 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

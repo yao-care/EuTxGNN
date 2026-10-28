@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Stiripentol
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 576
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Stiripentol: predicted new indication Restless legs syndrome (evidence level L5). Approved use: Adjunctive therapy (with clobazam and valproate) of refractory genera…"
+description: "Stiripentol: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Stiripentol"
-predicted_indications: ["restless legs syndrome", "trigeminal nerve neoplasm", "West syndrome", "1q44 microdeletion syndrome", "episodic kinesigenic dyskinesia", "neonatal period electroclinical syndrome", "Wernicke-Korsakoff syndrome"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Stiripentol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,41 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Stiripentol: From Dravet Syndrome to Restless Legs Syndrome
+## Stiripentol
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Stiripentol is an antiepileptic drug originally authorised in the EU as adjunctive therapy for refractory generalized tonic-clonic seizures in Dravet syndrome (severe myoclonic epilepsy in infancy).
-The TxGNN model predicts it may be effective for **restless legs syndrome**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** currently supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Adjunctive therapy (with clobazam and valproate) of refractory generalized tonic-clonic seizures in Dravet syndrome |
-| Predicted New Indication | Restless legs syndrome |
-| TxGNN Prediction Score | 98.76% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
-| Recommended Decision | Hold |
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available. Based on known information, stiripentol is an antiepileptic drug whose efficacy as add-on therapy in Dravet syndrome has been established, and it may be mechanistically applicable to restless legs syndrome.
-
-One speculative link is stiripentol's reported enhancement of GABA-A receptor signalling and its inhibition of liver enzymes (CYP). Neither is supported by the data compiled for this report, and no clinical or literature evidence connects stiripentol to restless legs syndrome. The high score (98.76%) reflects proximity in a knowledge graph, not demonstrated efficacy.
-
-For context, the model also ranked other neurological conditions, such as West syndrome, which has indirect literature support through Dravet syndrome reviews. Restless legs syndrome has no supporting studies.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available for restless legs syndrome.
+| Original Indication | Diacomit is indicated for use in conjunction with clobazam and valproate as adjunctive therapy of refractory generalized tonic-clonic seizures in patients with severe myoclonic epilepsy in infancy (SMEI, Dravet's syndrome) whose seizures are not adequately controlled with clobazam and valproate. |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
 ## EU Market Information
 
@@ -83,19 +60,6 @@ Currently no related literature available for restless legs syndrome.
 
 Please refer to the SmPC for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction rests solely on a model score. No trials or publications support stiripentol in restless legs syndrome, and the evidence level is L5. The only EU authorisation is cancelled, and warnings and contraindications could not be retrieved.
-
-**To proceed, the following is needed:**
-- Mechanism of action data, to assess a plausible link to restless legs syndrome
-- A systematic literature search for stiripentol or related GABAergic agents in restless legs syndrome
-- Label safety information (warnings and contraindications) from the SmPC
-- Review of the interaction profile, particularly the major interaction with eliglustat
-- Clarification of the regulatory status, given that the EU authorisation is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

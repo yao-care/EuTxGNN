@@ -4,17 +4,17 @@ title: Corifollitropin Alfa
 parent: AI Predictions (L5)
 nav_order: 160
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
 description: "Corifollitropin Alfa: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Controlled Ovarian Stimulation (COS) in combination with a GnRH antag…"
 monitor_inn: "Corifollitropin alfa"
-predicted_indications: ["gastroduodenitis", "migraine disorder", "peptic ulcer disease", "migraine with brainstem aura", "Raynaud disease", "pulmonary hypertension", "kyphoscoliotic heart disease", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "peptic esophagitis"]
+predicted_indications: ["gastroduodenitis", "migraine disorder", "peptic ulcer disease", "migraine with brainstem aura", "Raynaud disease", "pulmonary hypertension", "kyphoscoliotic heart disease"]
 ---
 
 # Corifollitropin Alfa
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **gastroduodenitis**, but **no 
 |------|------|
 | Original Indication | Controlled Ovarian Stimulation (COS) in combination with a GnRH antagonist in women in an Assisted Reproductive Technology (ART) program; hypogonadotropic hypogonadism in adolescent males (14 to under 18 years), in combination with hCG |
 | Predicted New Indication | Gastroduodenitis |
-| TxGNN Prediction Score | 99.65% |
+| TxGNN Prediction Score | 0.9965 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, corifollitropin alfa is a long-acting FSH agonist that acts on FSH receptors in gonadal tissue. Its efficacy in ovarian stimulation and in hypogonadotropic hypogonadism is established.
 
-For gastroduodenitis, however, there is no credible mechanistic link. Inflammation of the gastroduodenal mucosa is not known to depend on FSH signaling. The high TxGNN score (99.65%) is a model-derived, network-based prediction only. It has no support from trials or literature, so it should be treated as a hypothesis-generating signal, not as evidence of benefit.
+For gastroduodenitis, however, there is no credible mechanistic link. Inflammation of the gastroduodenal mucosa is not known to depend on FSH signaling. The high TxGNN score (0.9965) is a model-derived, network-based prediction only. It has no support from trials or literature, so it should be treated as a hypothesis-generating signal, not as evidence of benefit.
 
 Other top-ranked predictions show the same pattern. These include migraine disorder, peptic ulcer disease, Raynaud disease, pulmonary hypertension and peptic esophagitis. None has a supporting mechanism or any clinical evidence. For some, such as migraine, Raynaud disease and pulmonary hypertension, the hormonal shifts and thromboembolic risk associated with gonadotropin stimulation raise potential safety concerns rather than suggesting benefit.
 

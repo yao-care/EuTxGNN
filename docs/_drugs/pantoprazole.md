@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pantoprazole
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 465
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Pantoprazole: predicted new indication Active peptic ulcer disease (evidence level L1). Approved use: Short-term treatment of reflux symptoms (e.g. heartburn…"
 monitor_inn: "Pantoprazole"
-predicted_indications: ["duodenal obstruction", "acne (disease)", "Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia"]
+predicted_indications: ["duodenal obstruction"]
+description: "Pantoprazole: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Short-term treatment of reflux symptoms (e.g. heartburn…"
 ---
 
 # Pantoprazole
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Pantoprazole: From Reflux Symptoms to Active Peptic Ulcer Disease
+## Pantoprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Pantoprazole is a proton pump inhibitor originally authorized in the EU for short-term treatment of reflux symptoms (heartburn, acid regurgitation) in adults.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, with **1 clinical trial** and **20 publications** currently supporting this direction.
 This is effectively an on-label class use of the drug rather than true repurposing.
 
 ---
@@ -48,12 +47,12 @@ This is effectively an on-label class use of the drug rather than true repurposi
 
 | Item | Content |
 |------|------|
-| Original Indication | Short-term treatment of reflux symptoms (e.g. heartburn, acid regurgitation) in adults |
-| Predicted New Indication | Active peptic ulcer disease |
-| TxGNN Prediction Score | 99.69% |
-| Evidence Level | L1 |
-| EU Market Status | Cancelled only (all licences cancelled) |
-| Number of Authorizations | 3 |
+| Original Indication | Short-term treatment of reflux symptoms (e.g. heartburn, acid regurgitation) in adults. |
+| Predicted New Indication | Duodenal obstruction |
+| TxGNN Prediction Score | 0.9921 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -62,7 +61,7 @@ This is effectively an on-label class use of the drug rather than true repurposi
 
 Pantoprazole irreversibly inhibits the gastric H+/K+ ATPase (the proton pump) in parietal cells. This suppresses acid secretion, which allows ulcers to heal. Detailed mechanism of action data was not available in the structured drug record, but this mechanism is well described in the literature compiled for this report.
 
-Reflux symptoms and peptic ulcer are both driven by excess gastric acid exposure. The original indication (reflux symptoms) and the predicted indication (active peptic ulcer disease) therefore share the same therapeutic target. Reducing acid load is the common mechanism, so the prediction extends the drug's existing acid-related use rather than introducing a new biological concept.
+Reflux symptoms and peptic ulcer are both driven by excess gastric acid exposure. Reducing acid load is the common mechanism, so the prediction extends the drug's existing acid-related use rather than introducing a new biological concept.
 
 Other top-ranked predictions such as duodenal ulcer and gastric ulcer follow the same logic and are also well supported. Predictions such as acne, duodenal obstruction and the mastocytosis entities have no plausible mechanistic link and look like model artifacts (see Conclusion).
 
@@ -101,11 +100,10 @@ Most retrieved publications are reviews or comparisons among PPIs. Direct random
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/001098 | Somac Control | Not specified | Short-term treatment of reflux symptoms (e.g. heartburn, acid regurgitation) in adults. (Cancelled) |
-| EMEA/H/C/001097 | Controloc Control | Not specified | Short-term treatment of reflux symptoms (e.g. heartburn, acid regurgitation) in adults. (Cancelled) |
-| EMEA/H/C/001013 | Pantozol Control | Not specified | Short-term treatment of reflux symptoms (e.g. heartburn, acid regurgitation) in adults. (Cancelled) |
+| EMEA/H/C/001098 | Somac Control | Not specified | Short-term treatment of reflux symptoms (e.g. heartburn, acid regurgitation) in adults. (Valid) |
+| EMEA/H/C/001097 | Controloc Control | Not specified | Short-term treatment of reflux symptoms (e.g. heartburn, acid regurgitation) in adults. (Valid) |
+| EMEA/H/C/001013 | Pantozol Control | Not specified | Short-term treatment of reflux symptoms (e.g. heartburn, acid regurgitation) in adults. (Valid) |
 
-All three centrally authorized products are cancelled, and none are currently valid.
 
 ---
 

@@ -4,17 +4,17 @@ title: Inclisiran
 parent: AI Predictions (L5)
 nav_order: 318
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Inclisiran: predicted new indication Potassium deficiency disease (evidence level L5). Approved use: Primary hypercholesterolaemia (heterozygous familial and non-familial…"
 monitor_inn: "Inclisiran"
-predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
+predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
 ---
 
 # Inclisiran
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **potassium deficiency disease*
 |------|------|
 | Original Indication | Primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct to diet |
 | Predicted New Indication | Potassium deficiency disease |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. Based on general knowledge, inclisiran is a small interfering RNA that silences PCSK9 in the liver. This increases LDL receptor availability and lowers LDL cholesterol.
 
-No plausible mechanistic link to potassium homeostasis has been identified. Lowering LDL cholesterol has no known relationship to potassium balance. The high TxGNN score reflects graph-based proximity only. It is not supported by any clinical or literature evidence, so this prediction should be treated as a hypothesis-generating signal and not as a reasonable therapeutic direction.
+No plausible mechanistic link to potassium homeostasis has been identified. Lowering LDL cholesterol has no known relationship to potassium balance. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It is not supported by any clinical or literature evidence, so this prediction should be treated as a hypothesis-generating signal and not as a reasonable therapeutic direction.
 
 The other top-ranked predictions (esophageal disease, atypical coarctation of aorta, migraine disorders, esophageal malformation and ulcer, aortic malformation, Raynaud disease) show the same pattern. None has a supported mechanism or clinical evidence. The only registered trials linked to any of them are two pediatric familial hypercholesterolaemia studies attached to "aortic malformation". These most likely reflect a term-mapping artifact and do not count as evidence for that indication.
 

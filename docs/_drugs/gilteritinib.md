@@ -4,17 +4,17 @@ title: Gilteritinib
 parent: AI Predictions (L5)
 nav_order: 282
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Gilteritinib: predicted new indication Bulbar polio (evidence level L5). Approved use: Monotherapy for adults with relapsed or refractory AML with a FLT3 mu…"
 monitor_inn: "Gilteritinib"
-predicted_indications: ["bulbar polio", "5q35 microduplication syndrome", "neuralgic amyotrophy", "amyotrophic neuralgia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "myelodysplastic/myeloproliferative disease"]
+predicted_indications: ["bulbar polio"]
 ---
 
 # Gilteritinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **bulbar polio**, but this is a
 |------|------|
 | Original Indication | Monotherapy for adults with relapsed or refractory AML with a FLT3 mutation |
 | Predicted New Indication | Bulbar polio |
-| TxGNN Prediction Score | 99.10% |
+| TxGNN Prediction Score | 0.9910 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **bulbar polio**, but this is a
 
 Currently, detailed mechanism of action data is not available. Gilteritinib is known to be a FLT3/AXL tyrosine kinase inhibitor. Its efficacy in FLT3-mutated AML is the basis of its original approval.
 
-Bulbar polio is a viral infection of motor neurons. No plausible mechanistic link between FLT3/AXL kinase inhibition and this disease was identified. The very high TxGNN score (0.991) comes from the knowledge-graph model alone. No clinical trials or publications support it, so it should be treated as a hypothesis-generating signal, not a credible repurposing lead.
+Bulbar polio is a viral infection of motor neurons. No plausible mechanistic link between FLT3/AXL kinase inhibition and this disease was identified. The very high TxGNN score (0.9910) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No clinical trials or publications support it, so it should be treated as a hypothesis-generating signal, not a credible repurposing lead.
 
 ---
 
@@ -115,14 +115,13 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score. There are no trials or publications, and no plausible link between FLT3/AXL inhibition and a viral motor-neuron infection. The only EU authorization has been cancelled.
+The prediction rests only on a TxGNN model (deep learning) score. There are no trials or publications, and no plausible link between FLT3/AXL inhibition and a viral motor-neuron infection. The only EU authorization has been cancelled.
 
 **To proceed, the following is needed:**
 - A credible mechanistic hypothesis linking gilteritinib to bulbar polio, supported by preclinical data
 - Detailed mechanism of action data (MOA)
 - Safety information from the SmPC (warnings and contraindications)
 - Clarification of the EU regulatory status, given the cancelled authorization
-- For context, the model also ranked **myelodysplastic/myeloproliferative disease** (score 97.0%) among its predictions. It has a stronger rationale, including an ongoing Phase 1/2 trial of gilteritinib with azacitidine and venetoclax ([NCT04140487](https://clinicaltrials.gov/study/NCT04140487)). It could be assessed separately as a more promising direction.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

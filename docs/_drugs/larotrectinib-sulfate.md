@@ -7,14 +7,15 @@ description: "Larotrectinib Sulfate drug repurposing predictions from TxGNN. Evi
 parent: AI Predictions (L5)
 nav_order: 330
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Larotrectinib Sulfate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | multiple endocrine neoplasia | 99.24% | DL |
-| 2 | HER2 positive breast carcinoma | 99.14% | DL |
-| 3 | cytomegalovirus infection | 99.00% | DL |
-| 4 | infectious bovine rhinotracheitis | 98.86% | DL |
-| 5 | malignant catarrh | 98.86% | DL |
-| 6 | progesterone-receptor negative breast cancer | 98.66% | DL |
-| 7 | normal breast-like subtype of breast carcinoma | 98.63% | DL |
-| 8 | progesterone-receptor positive breast cancer | 98.63% | DL |
-| 9 | breast tumor luminal A or B | 98.61% | DL |
-| 10 | thrombocytopenia | 98.56% | DL |
-| 11 | pulmonary hypertension | 98.44% | DL |
-| 12 | marcothrombocytopenia with mitral valve insufficiency | 98.33% | DL |
-| 13 | hereditary thrombocytopenia with normal platelets | 98.32% | DL |
-| 14 | transient neonatal thrombocytopenia | 98.27% | DL |
-| 15 | dense granule disease | 98.23% | DL |
-| 16 | amyotrophic lateral sclerosis | 98.23% | DL |
-| 17 | kyphoscoliotic heart disease | 98.22% | DL |
-| 18 | homozygous familial hypercholesterolemia | 98.18% | DL |
-| 19 | amenorrhea (disease) | 98.14% | DL |
-| 20 | hyperthyroidism | 98.06% | DL |
 
 *Showing top 20 of 50 predictions.*
 

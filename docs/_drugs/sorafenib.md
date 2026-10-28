@@ -4,7 +4,7 @@ title: Sorafenib
 parent: High Evidence (L1-L2)
 nav_order: 572
 evidence_level: L2
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
 description: "Sorafenib: predicted new indication Liposarcoma (evidence level L2). Approved use: Hepatocellular carcinoma"
 monitor_inn: "Sorafenib"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female bre
 # Sorafenib
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The evidence is indirect: no study has been specific to liposarcoma.
 |------|------|
 | Original Indication | Hepatocellular carcinoma; advanced renal cell carcinoma (after failure of interferon-alpha or interleukin-2 therapy, or when unsuitable for it); progressive differentiated thyroid carcinoma refractory to radioactive iodine |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.82% |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L2 |
-| EU Market Status | Cancelled only (the single Nexavar authorization is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -124,7 +124,7 @@ Label-based warnings and contraindications are not available in the data compile
 **Decision: Hold**
 
 **Rationale:**
-The only clinical evidence comes from mixed-histology soft tissue sarcoma studies, with no liposarcoma-specific data. Label-based safety information is missing, and the single EU authorization is cancelled. The TxGNN score of 99.82% supports further research but does not justify advancing the candidate.
+The only clinical evidence comes from mixed-histology soft tissue sarcoma studies, with no liposarcoma-specific data. Label-based safety information is missing, and the single EU authorization is cancelled. The TxGNN score of 0.9982 supports further research but does not justify advancing the candidate.
 
 **To proceed, the following is needed:**
 - Liposarcoma-specific subgroup data from the soft tissue sarcoma trials (NCT00217620 and SWOG S0505)

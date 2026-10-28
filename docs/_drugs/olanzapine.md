@@ -4,17 +4,17 @@ title: Olanzapine
 parent: AI Predictions (L5)
 nav_order: 444
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Olanzapine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Schizophrenia"
 monitor_inn: "Olanzapine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "distal 17p13.3 microdeletion syndrome", "neurotic disorder", "melancholia", "retinal dystrophy with or without extraocular anomalies", "Ohdo syndrome and variants", "childhood apraxia of speech"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
+description: "Olanzapine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Olanzapine is indicated for the treatment of schizophrenia. Olanzapin…"
 ---
 
 # Olanzapine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Olanzapine: From Schizophrenia and Bipolar Mania to Benign Paroxysmal Torticollis of Infancy
+## Olanzapine: Benign paroxysmal torticollis of infancy
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ Of the other top-ranked predictions, agoraphobia and the depression-related term
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia; moderate to severe manic episodes; prevention of recurrence in bipolar disorder |
+| Original Indication | Olanzapine is indicated for the treatment of schizophrenia. Olanzapine is effective in maintaining the clinical improvement during continuation therapy in patients who have shown an initial treatment response. Olanzapine is indicated for the treatment of moderate to severe manic episode. In patients |
 | Predicted New Indication | Benign paroxysmal torticollis of infancy |
-| TxGNN Prediction Score | 99.54% |
+| TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (all authorizations cancelled) |
-| Number of Authorizations | 9 |
+| EU Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Authorizations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,13 +62,11 @@ Of the other top-ranked predictions, agoraphobia and the depression-related term
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, olanzapine blocks several receptors, including serotonin 5-HT2A/2C and dopamine D2. This profile underlies its efficacy in schizophrenia and mania.
 
-For the top-ranked prediction, **benign paroxysmal torticollis of infancy**, no mechanistic rationale is supported by the available data. The condition is a self-limiting paediatric disorder related to migraine equivalents and channelopathies. The high score (0.995) is a computational prediction only, and giving an antipsychotic to infants would raise serious safety concerns. This prediction is not recommended for further development without independent supporting evidence.
+For the top-ranked prediction, **benign paroxysmal torticollis of infancy**, no mechanistic rationale is supported by the available data. The condition is a self-limiting paediatric disorder related to migraine equivalents and channelopathies. The high score (0.9954) is a computational prediction only, and giving an antipsychotic to infants would raise serious safety concerns. This prediction is not recommended for further development without independent supporting evidence.
 
 The remaining top-ten predictions fall into three groups:
 
 - **Anxiety and depression group (agoraphobia, dysthymic disorder, neurotic depression, melancholia):** These are the most plausible. Olanzapine's serotonin and dopamine modulation is the basis for its use as an antidepressant augmenter, notably with fluoxetine. Neurotic depression and melancholia are supported by several systematic reviews and network meta-analyses of antipsychotic augmentation in treatment-resistant depression. This evidence is class-level, not specific to these subtypes. Agoraphobia is supported mainly by an open-label trial in treatment-resistant panic disorder (31 patients, olanzapine 5 mg/day added to an SSRI, PMID 16415705) plus case reports. Dysthymia evidence is thin.
-- **Broad or indirect terms (neurotic disorder, retinal dystrophy):** The literature consists of case reports and prescribing surveys that show real-world use but not efficacy for the stated condition.
-- **Genetic and developmental conditions (distal 17p13.3 microdeletion syndrome, Ohdo syndrome, childhood apraxia of speech):** There is no evidence and no plausible mechanism.
 
 ---
 
@@ -101,7 +99,7 @@ For reference, the strongest literature found for the more plausible alternative
 
 ## EU Market Information
 
-All nine EU authorizations for olanzapine are cancelled. No valid authorization remains.
+All nine EU authorizations for olanzapine are valid (9 valid licences of 9).
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -138,13 +136,13 @@ The data compiled for this report also flag metabolic burden and sedation as key
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, benign paroxysmal torticollis of infancy, rests only on a computational score. It has no trials, no literature, no plausible mechanism, and a serious paediatric safety concern. Olanzapine also has no valid EU authorization at present, as all nine licences are cancelled.
+The top-ranked prediction, benign paroxysmal torticollis of infancy, rests only on a computational score. It has no trials, no literature, no plausible mechanism, and a serious paediatric safety concern. Olanzapine is currently marketed, with 9 valid licences of 9.
 
 **To proceed, the following is needed:**
 - Re-prioritising the candidate list. Neurotic depression and melancholia (L3, class-level evidence from several network meta-analyses) and agoraphobia (L3, an open-label trial in panic disorder) are better-supported research questions. They should be assessed as separate candidates, with metabolic guardrails.
 - Detailed mechanism of action data
 - Label-based warnings and contraindications from the SmPC
-- Clarification of the regulatory status of olanzapine in the EU, since all listed centralised authorizations are cancelled. This could mean authorizations now sit at national level.
+- Clarification of the regulatory status of olanzapine in the EU, which is currently marketed with 9 valid licences of 9.
 - For any paediatric indication, a dedicated paediatric safety assessment before any further work
 ## Disclaimer
 

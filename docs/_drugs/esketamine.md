@@ -4,17 +4,17 @@ title: Esketamine
 parent: AI Predictions (L5)
 nav_order: 241
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Esketamine: predicted new indication Agoraphobia (evidence level L5). Approved use: Treatment-resistant Major Depressive Disorder in adults who have not…"
 monitor_inn: "Esketamine"
-predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy", "melancholia", "vitamin B12-responsive methylmalonic acidemia", "obsessive-compulsive disorder", "Keppen-Lubinsky syndrome", "insomnia (disease)", "congenital isolated adrenocorticotropic hormone deficiency (disease)", "autosomal dominant slowed nerve conduction velocity"]
+predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
 ---
 
 # Esketamine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ However, there are currently **0 clinical trials** and **0 publications** suppor
 |------|------|
 | Original Indication | Treatment-resistant Major Depressive Disorder in adults who have not responded to at least two different antidepressants in the current moderate to severe episode (in combination with an SSRI or SNRI) |
 | Predicted New Indication | Agoraphobia |
-| TxGNN Prediction Score | 99.57% |
+| TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 (model prediction only) |
-| EU Market Status | Cancelled only (the single authorization is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Vilanterol
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 669
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Vilanterol: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Maintenance bronchodilator treatment to relieve symptoms in adults wi…"
 monitor_inn: "Vilanterol"
 predicted_indications: ["hyperlucent lung", "tracheal stenosis", "bronchial neoplasm (disease)", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
+description: "Vilanterol: predicted new indication Hyperlucent lung (evidence level L5). Approved use: Laventair Ellipta is indicated as a maintenance bronchodilator treatm…"
 ---
 
 # Vilanterol
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Vilanterol: From Chronic Obstructive Pulmonary Disease to Obstructive Lung Disease
+## Vilanterol: Hyperlucent lung
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Vilanterol is a long-acting beta2-agonist, originally used as a maintenance bronchodilator for chronic obstructive pulmonary disease (COPD) and asthma, mostly in combination inhalers.
-The TxGNN model predicts it may be effective for **obstructive lung disease**, with **28 clinical trials** and **20 publications** compiled for this direction.
 This prediction largely matches the existing labelled uses (COPD and asthma), so it is better read as confirmation of on-label use than as a true repurposing finding.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Maintenance bronchodilator treatment to relieve symptoms in adults with COPD |
-| Predicted New Indication | Obstructive lung disease |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L1 |
-| EU Market Status | Cancelled only (all licences cancelled) |
-| Number of Authorizations | 6 (0 currently valid, 6 cancelled) |
+| Original Indication | Laventair Ellipta is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).; Anoro Ellipta is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmo |
+| Predicted New Indication | Hyperlucent lung |
+| TxGNN Prediction Score | 0.9972 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Authorizations | 6 (valid: 6) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +59,7 @@ Vilanterol is a long-acting beta2-adrenoceptor agonist. It relaxes bronchial smo
 
 "Obstructive lung disease" is the broader category that contains COPD and asthma, the conditions for which vilanterol-containing products were already authorised. These products include fluticasone furoate/vilanterol, umeclidinium/vilanterol and fluticasone furoate/umeclidinium/vilanterol. The high TxGNN score therefore agrees with current clinical use. It does not point to a new therapeutic area.
 
-Other predictions in the list, such as interstitial emphysema, compensatory emphysema, tracheal stenosis, laryngotracheitis and congenital lobar emphysema, have no clinical evidence and no clear mechanistic rationale. Their scores likely reflect closeness to COPD in the knowledge graph. Bronchial neoplasm is supported only by trials of bronchodilators for comorbid COPD in lung cancer surgery, which is not an antitumour effect. These predictions should be held or treated as research questions only.
+Other predictions in the list, such as interstitial emphysema, compensatory emphysema, tracheal stenosis, laryngotracheitis and congenital lobar emphysema, have no clinical evidence and no clear mechanistic rationale. Bronchial neoplasm is supported only by trials of bronchodilators for comorbid COPD in lung cancer surgery, which is not an antitumour effect. These predictions should be held or treated as research questions only.
 
 ## Clinical Trial Evidence
 
@@ -96,7 +95,7 @@ The compiled data contain many more trials than shown here. The table lists the 
 
 ## EU Market Information
 
-All six EU authorisations are now cancelled. Dosage form and manufacturer were not available in the compiled data.
+Dosage form and manufacturer were not available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -124,11 +123,10 @@ Reviewing the full interaction list is recommended before any use.
 
 **Rationale:**
 - Multiple completed Phase 3 trials and large RCTs (IMPACT, FULFIL, CAPTAIN) support vilanterol-containing regimens in COPD and asthma, which gives evidence level L1.
-- The prediction matches existing labelled uses, so it is on-label rather than new. All six EU licences are cancelled, so the practical question is market availability, not new evidence.
+- The prediction matches existing labelled uses, so it is on-label rather than new.
 - The other predicted conditions have no supporting evidence and should be held.
 
 **To proceed, the following is needed:**
-- Clarify why all EU licences are cancelled (for example a commercial decision or a regulatory reason) and check current availability.
 - Obtain SmPC warnings and contraindications to enable safety screening.
 - Obtain detailed mechanism-of-action data.
 - Review the full list of 100 interactions, particularly with antidiabetic drugs, QT-prolonging drugs and sympathomimetics.

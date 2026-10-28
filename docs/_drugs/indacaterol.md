@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **nephrogenic syndrome of inapp
 |------|------|
 | Original Indication | Maintenance bronchodilator treatment of airflow obstruction in adults with COPD |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
-| TxGNN Prediction Score | 99.54% |
+| TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 (model prediction only) |
-| EU Market Status | ✗ Cancelled only (all authorizations cancelled) |
-| Number of Authorizations | 3 |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **nephrogenic syndrome of inapp
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Indacaterol is a long-acting beta2-adrenergic agonist. Its efficacy in COPD comes from relaxing airway smooth muscle through cAMP signalling.
 
-The link to NSIAD is weak. A beta2-agonist could theoretically modulate renal water handling through cAMP and vasopressin V2 receptor signalling. However, NSIAD is caused by activating mutations of the V2 receptor (AVPR2), the primary defect. A beta2-agonist is therefore unlikely to correct it. The high score (0.995) probably reflects proximity in the knowledge graph rather than a verified causal mechanism, so the prediction should be treated as a hypothesis only.
+The link to NSIAD is weak. A beta2-agonist could theoretically modulate renal water handling through cAMP and vasopressin V2 receptor signalling. However, NSIAD is caused by activating mutations of the V2 receptor (AVPR2), the primary defect. A beta2-agonist is therefore unlikely to correct it. The high score (0.9954) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so the prediction should be treated as a hypothesis only.
 
 ---
 
@@ -81,9 +81,9 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/001211 | Hirobriz Breezhaler | — | Maintenance bronchodilator treatment of airflow obstruction in adults with COPD (cancelled) |
-| EMEA/H/C/001114 | Onbrez Breezhaler | — | Maintenance bronchodilator treatment of airflow obstruction in adults with COPD (cancelled) |
-| EMEA/H/C/001210 | Oslif Breezhaler | — | Maintenance bronchodilator treatment of airflow obstruction in adults with COPD (cancelled) |
+| EMEA/H/C/001211 | Hirobriz Breezhaler | — | Maintenance bronchodilator treatment of airflow obstruction in adults with COPD (valid) |
+| EMEA/H/C/001114 | Onbrez Breezhaler | — | Maintenance bronchodilator treatment of airflow obstruction in adults with COPD (valid) |
+| EMEA/H/C/001210 | Oslif Breezhaler | — | Maintenance bronchodilator treatment of airflow obstruction in adults with COPD (valid) |
 
 ---
 
@@ -108,14 +108,14 @@ For warnings and contraindications from the product label, please refer to the S
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a computational score alone. There are no trials or publications, and the proposed mechanism is implausible given that NSIAD is driven by a V2 receptor defect. All EU authorizations are also cancelled.
+The prediction rests on a computational score alone. There are no trials or publications, and the proposed mechanism is implausible given that NSIAD is driven by a V2 receptor defect. The drug is marketed in this country, with 3 valid licences of 3.
 
 Among the other top-10 predictions, only **bronchial disease** (rank 7) has substantive supporting evidence, mainly published asthma Phase 3 data on indacaterol-containing combinations. That is largely an extension of the approved COPD use rather than a novel repurposing. If pursued, it would need to be as a fixed-dose combination with an inhaled corticosteroid, because LABA monotherapy is contraindicated in asthma.
 
 **To proceed, the following is needed:**
 - Mechanistic or preclinical evidence linking beta2-agonism to NSIAD pathophysiology
 - Mechanism of action data and warnings/contraindications from the SmPC
-- Verification of current regulatory and availability status, given that all EU authorizations are cancelled
+- Verification of current regulatory and availability status, given that the drug is marketed in this country with 3 valid licences of 3
 - A cardiovascular, metabolic and electrolyte (potassium) safety assessment for the target population
 ## Disclaimer
 

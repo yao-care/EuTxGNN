@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Obinutuzumab
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 440
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Obinutuzumab: predicted new indication Pregerminal center chronic lymphocytic leukemia/small lymphocytic lym… (evidence level L5). Approved use: Chronic lymphocytic leukaemia (CLL), in combination wi…"
-monitor_inn: "Obinutuzumab"
-predicted_indications: ["mantle cell lymphoma", "metastatic neoplasm", "malignant spiradenoma", "neoplasm of mature B-cells", "small intestinal Burkitt lymphoma", "Langerhans cell histiocytosis", "thyroid gland mucosa-associated lymphoid tissue lymphoma"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Obinutuzumab: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Obinutuzumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,62 +32,46 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Obinutuzumab: From Chronic Lymphocytic Leukaemia to Pregerminal Center CLL/SLL
+<!-- known-uses-page -->
+<!-- description: Obinutuzumab: known uses and market status in the European Union; currently no new candidate indication -->
+## Obinutuzumab: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Obinutuzumab, but every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for this drug. The two known uses listed below fall in the same disease category as an approved indication; they are not listed as approved in their own right.
 
-Obinutuzumab is an anti-CD20 antibody originally used for chronic lymphocytic leukaemia (CLL), follicular lymphoma and lupus nephritis.
-The TxGNN model predicts it may be effective for **pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL)**.
-There are **0 clinical trials** and **0 publications** specific to this subtype, so the prediction is supported only indirectly by the approved CLL indication.
-
----
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Chronic lymphocytic leukaemia (CLL), in combination with chlorambucil, in previously untreated adults with comorbidities that make full-dose fludarabine-based therapy unsuitable |
-| Predicted New Indication | Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma |
-| TxGNN Prediction Score | 99.21% |
-| Evidence Level | L5 (model prediction only; no subtype-specific studies) |
-| EU Market Status | Cancelled only |
-| Number of Authorizations | 1 (cancelled) |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 2 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
----
+## Known uses among the model's candidates
 
-## Why is This Prediction Reasonable?
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-Currently, detailed mechanism of action data are not available in the data compiled for this report. Obinutuzumab is a glycoengineered type II anti-CD20 monoclonal antibody. Its efficacy in CLL is established by its EU approval, and it is mechanistically applicable to CLL/SLL because CD20 is expressed on CLL cells.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma | cll |
+| chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation | cll |
 
-The predicted indication is a molecular subtype of CLL/SLL, which is the same disease family as the approved indication. The subtype is therefore covered indirectly by the parent CLL indication.
-
-This is not a true repurposing opportunity. No trials or publications specific to this subtype were found, and the high TxGNN score reflects a model prediction rather than new clinical evidence.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002799 (cancelled) | Gazyvaro | — | Chronic lymphocytic leukaemia (CLL) Gazyvaro in combination with chlorambucil is indicated for the tr... |
-
-The approved indications on this authorization also include previously untreated advanced follicular lymphoma, follicular lymphoma refractory to or relapsed after rituximab, and active Class III or IV lupus nephritis (in combination with mycophenolate mofetil).
-
----
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/002799 | Gazyvaro |  | Valid |
 
 ## Cytotoxicity
 
@@ -128,20 +111,6 @@ Please refer to the SmPC for warnings and contraindications.
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-- The predicted indication is a subtype of an already approved indication (CLL). No subtype-specific trials or literature exist, so the prediction adds no independent repurposing value.
-- The only EU authorization is cancelled, and safety label data were not available.
-
-**To proceed, the following is needed:**
-- Subtype-specific clinical or translational data (for example, outcomes by IGHV status in CLL trials)
-- Mechanism of action data from DrugBank
-- Warnings and contraindications from the SmPC. This is a blocking gap for safety screening.
-- Clarification of the cancelled EU authorization status and current availability
-- Reprioritization toward better-supported candidates. Among the other predictions, **mantle cell lymphoma** (L2, several Phase 2 studies) is the most credible true repurposing candidate.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

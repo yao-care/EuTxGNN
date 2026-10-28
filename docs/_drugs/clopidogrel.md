@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Clopidogrel
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 154
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Clopidogrel: predicted new indication Migraine disorder (evidence level L2). Approved use: Secondary prevention of atherothrombotic events (myocardial infarctio…"
+description: "Clopidogrel: predicted new indication migraine with brainstem aura (evidence level L2). Approved use: Secondary prevention of atherothrombotic events (myocardial infarctio…"
 monitor_inn: "Clopidogrel"
-predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "osteoarthritis susceptibility", "pseudoachondroplasia", "fibromyalgia"]
+predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "rheumatoid arthritis"]
 ---
 
 # Clopidogrel
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Clopidogrel: From Atherothrombotic Event Prevention to Migraine Disorder
+## Clopidogrel: From Atherothrombotic Event Prevention to Migraine with Brainstem Aura
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ with **6 related clinical trials** and **20 publications** currently supporting 
 |------|------|
 | Original Indication | Secondary prevention of atherothrombotic events (myocardial infarction, ischaemic stroke, established peripheral arterial disease), acute coronary syndrome, and atrial fibrillation (with aspirin) |
 | Predicted New Indication | Migraine disorder (rank 2 prediction; the rank 1 prediction, migraine with brainstem aura, has less evidence) |
-| TxGNN Prediction Score | 99.44% |
-| Evidence Level | L2 |
-| EU Market Status | Cancelled only (no currently valid centralised authorisations in the data compiled) |
-| Number of Authorizations | 12 (all cancelled) |
+| TxGNN Prediction Score | 0.9944 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 12 of 12) |
+| Number of Authorizations | 12 (valid: 12) |
 | Recommended Decision | Proceed with Guardrails |
 
 **Note on prediction selection:** Of the top 10 predictions, migraine disorder (rank 2) has by far the strongest evidence, so this report focuses on it. Migraine with brainstem aura (rank 1) is closely related, but its evidence is limited to migraine with aura in general. The remaining predictions (osteoarthritis, tendinitis, myositis fibrosa, idiopathic granulomatous myositis, rheumatoid arthritis, osteoarthritis susceptibility, pseudoachondroplasia, fibromyalgia) have no supporting clinical evidence and should be placed on Hold.
@@ -102,7 +102,7 @@ The link between the original indication (preventing vascular and thrombotic eve
 
 ## EU Market Information
 
-All 12 centralised authorisations in the data compiled are cancelled. The main ones are listed below (dosage forms are not recorded).
+All 12 centralised authorisations in the data compiled are valid. The main ones are listed below (dosage forms are not recorded).
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -140,7 +140,7 @@ Several randomised studies (CANOA, a pilot RCT, and a recently published multice
 - Bleeding-risk assessment and a patient-selection plan (for example, PFO or right-to-left shunt confirmed by imaging)
 - A drug-interaction management plan, especially for proton pump inhibitors and aspirin
 - Full review of the SmPC warnings and contraindications
-- Clarification of the market situation, since all 12 EU centralised authorisations in the data compiled are cancelled and a new route to supply would need to be established
+- Clarification of the market situation, since all 12 EU centralised authorisations in the data compiled are valid and the drug is marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

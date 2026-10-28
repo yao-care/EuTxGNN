@@ -4,17 +4,17 @@ title: Lefamulin
 parent: AI Predictions (L5)
 nav_order: 359
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Lefamulin: predicted new indication Leishmaniasis, diffuse cutaneous (evidence level L5). Approved use: Community-acquired pneumonia (CAP) in adults…"
 monitor_inn: "Lefamulin"
-predicted_indications: ["leishmaniasis, diffuse cutaneous", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "mucocutaneous leishmaniasis", "inhalational botulism"]
+predicted_indications: ["leishmaniasis, diffuse cutaneous", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
 ---
 
 # Lefamulin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Lefamulin: From Community-Acquired Pneumonia to Diffuse Cutaneous Leishmaniasis
+## Lefamulin: From Community-Acquired Pneumonia to Leishmaniasis, Diffuse Cutaneous
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,19 +48,19 @@ but currently **0 clinical trials** and **0 publications** support this directio
 |------|------|
 | Original Indication | Community-acquired pneumonia (CAP) in adults, when commonly recommended antibacterials are considered inappropriate or have failed |
 | Predicted New Indication | Leishmaniasis, diffuse cutaneous |
-| TxGNN Prediction Score | 99.24% |
+| TxGNN Prediction Score | 0.9924 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, lefamulin is a pleuromutilin antibacterial that inhibits bacterial protein synthesis by binding the peptidyl transferase center of the 50S ribosomal subunit. Its efficacy has been established in community-acquired pneumonia, a bacterial infection.
 
-The link to the predicted indication is weak. Leishmania is a eukaryotic protozoan parasite, and there is no established mechanistic basis for a bacterial ribosome inhibitor to act on it. The high score (0.992) is a computational prediction only, with no supporting laboratory, animal or clinical data. The two diseases are both infections, which may partly explain the model output, but this is not evidence of activity.
+The link to the predicted indication is weak. Leishmania is a eukaryotic protozoan parasite, and there is no established mechanistic basis for a bacterial ribosome inhibitor to act on it. The high score (0.9924) is a computational prediction only, with no supporting laboratory, animal or clinical data. The two diseases are both infections, which may partly explain the model output, but this is not evidence of activity.
 
-The other top-ranked predictions (such as polyclonal hyperviscosity syndrome, hyperamylasemia, congenital analbuminemia and monoclonal gammopathy) also lack a plausible mechanistic link. This suggests the model's high scores for this drug may reflect knowledge-graph artifacts rather than biological rationale.
+The other top-ranked predictions (such as polyclonal hyperviscosity syndrome, hyperamylasemia, congenital analbuminemia and monoclonal gammopathy) also lack a plausible mechanistic link. This suggests the model's high scores for this drug may reflect TxGNN model (deep learning) artifacts rather than biological rationale.
 
 ## Clinical Trial Evidence
 

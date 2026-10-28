@@ -48,10 +48,10 @@ The mechanistic fit is only partial, because atopic dermatitis is mainly Th2-dri
 |------|------|
 | Original Indication | Moderate to severe plaque psoriasis in adults who are candidates for systemic therapy (also psoriatic arthritis, Crohn's disease, ulcerative colitis) |
 | Predicted New Indication | Dermatitis |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L2 |
-| EU Market Status | Cancelled only (the single centralised authorisation is recorded as cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold (research question; confirm Phase 2 results first) |
 
 ## Why is This Prediction Reasonable?

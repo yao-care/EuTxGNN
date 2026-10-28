@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **HIV infectious disease** with
 |------|------|
 | Original Indication | Inborn errors in primary bile acid synthesis due to 3β-hydroxy-Δ5-C27-steroid oxidoreductase deficiency or Δ4-3-oxosteroid-5β-reductase deficiency, in infants, children and adolescents aged 1 month to 18 years and adults |
 | Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 99.79% |
+| TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -110,7 +110,7 @@ The prediction rests on a high model score, but there are no clinical trials, an
 
 ## Other Predicted Indications (Brief Note)
 
-Among the other top predictions, **vitamin deficiency disorder** (score 99.71%, evidence level L3) has the most literature, including case reports, case series and a 2025 open-label cohort. Much of this reflects secondary fat-soluble vitamin deficiency within the already approved bile acid synthesis disorders, so it is largely a downstream effect of the existing indication rather than an independent new use. **Homozygous familial hypercholesterolaemia** has only a 1977 report of treatment failure. The remaining predictions have no clinical evidence.
+Among the other top predictions, **vitamin deficiency disorder** (score 0.9971, evidence level L3) has the most literature, including case reports, case series and a 2025 open-label cohort. Much of this reflects secondary fat-soluble vitamin deficiency within the already approved bile acid synthesis disorders, so it is largely a downstream effect of the existing indication rather than an independent new use. **Homozygous familial hypercholesterolaemia** has only a 1977 report of treatment failure. The remaining predictions have no clinical evidence.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,17 +4,17 @@ title: Atazanavir
 parent: AI Predictions (L5)
 nav_order: 66
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Atazanavir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Treatment of HIV-1 infected adults and paediatric patients 6 years of…"
+indication_count: 4
 monitor_inn: "Atazanavir"
-predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
+last_modified_at: 2026-10-23
+description: "Atazanavir: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV-1 infection in adults and paediatric patients aged 6 years and ol…"
 ---
 
 # Atazanavir
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,81 +33,78 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Atazanavir: From HIV-1 Infection to Feline Acquired Immunodeficiency Syndrome
+## Atazanavir: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Atazanavir is an HIV protease inhibitor, originally used (boosted with low-dose ritonavir) to treat HIV-1 infection in adults and children.
-The TxGNN model predicts it may be effective for **feline acquired immunodeficiency syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction. The prediction rests on model inference alone.
+Atazanavir is an HIV protease inhibitor, authorized in the EU for treating HIV-1 infection in combination with low-dose ritonavir and other antiretrovirals.
+The TxGNN model predicts it may be relevant to **simian immunodeficiency virus (SIV) infection**, but there are **0 clinical trials** and only **1 publication** (a non-human primate study of combination antiretroviral therapy, not of atazanavir itself) on this topic.
+This is an animal-model disease rather than a human clinical indication, so the evidence is weak.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Treatment of HIV-1 infected adults and paediatric patients 6 years of age and older, in combination with other antiretroviral medicinal products (with low-dose ritonavir) |
-| Predicted New Indication | Feline acquired immunodeficiency syndrome |
-| TxGNN Prediction Score | 99.98% |
+| Original Indication | HIV-1 infection in adults and paediatric patients aged 6 years and older (with low-dose ritonavir and other antiretrovirals) |
+| Predicted New Indication | Simian immunodeficiency virus infection |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 3 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, atazanavir is an HIV-1 protease inhibitor whose efficacy in HIV-1 infection is established, and mechanistically it may be applicable to related lentiviral infections.
+Detailed mechanism of action data for atazanavir is not available in the data compiled for this report. Based on general knowledge, atazanavir is an HIV-1 protease inhibitor that blocks cleavage of the Gag-Pol polyprotein, which prevents the formation of mature virus particles.
 
-Feline immunodeficiency virus (FIV) is a lentivirus whose protease is homologous to HIV-1 protease, so protease inhibition is biologically plausible. However, FIV protease differs from HIV-1 protease in substrate specificity and inhibitor sensitivity, and atazanavir activity against it has not been established. The high TxGNN score reflects a graph-based prediction derived from similarity to HIV, not clinical evidence. Feline AIDS is also a veterinary condition, not a human therapeutic indication.
+SIV is a lentivirus closely related to HIV-1 and encodes a homologous aspartyl protease, so activity against SIV protease is biologically plausible. The high prediction score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-**Other predictions in the list.** The second-ranked prediction, simian immunodeficiency virus (SIV) infection, has one preclinical paper (PMID 20497048), a non-human primate study of combination antiretroviral therapy. It remains indirect evidence, and it is unclear whether atazanavir was part of the regimen. The congenital HIV and AIDS-related complex predictions largely overlap with the existing HIV-1 label and are context extensions rather than true repurposing. Several other predictions (a rare neurodevelopmental disorder, benign prostate and ovarian tumours, and obsolete familial combined hyperlipidemia) have no identified mechanistic link and look like network artifacts. For hyperlipidemia, HIV protease inhibitors are generally associated with dyslipidemia, so therapeutic use would be counterintuitive and potentially harmful.
+However, SIV infection is not a human disease. It is mainly used as a non-human primate model for studying HIV. The one publication found describes SIV-infected macaques given highly active antiretroviral therapy (a multi-drug regimen, not specifically atazanavir). It does not directly test atazanavir against SIV infection, so it does not provide direct support. The other predicted indications (feline AIDS, a rare neurodevelopmental disorder, and an obsolete familial hyperlipidemia term) have no supporting studies and no plausible mechanistic link, and are likely TxGNN model (deep learning) artifacts.
+
+## Literature Evidence
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [20497048](https://pubmed.ncbi.nlm.nih.gov/20497048/) | 2010 | Animal study (non-human primate) | The Journal of Infectious Diseases | In SIV-infected macaques given combination antiretroviral therapy, central nervous system viral replication and inflammation were reduced, but viral DNA persisted. |
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
-## Literature Evidence
-
-Currently no related literature available for the top-ranked prediction (feline acquired immunodeficiency syndrome).
-
-For reference, the closest related prediction (SIV infection) has the following publication:
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [20497048](https://pubmed.ncbi.nlm.nih.gov/20497048/) | 2010 | Animal study (non-human primate) | J Infect Dis | SIV-infected macaques on highly active antiretroviral therapy had reduced central nervous system viral replication and inflammation, but viral DNA persisted. Whether atazanavir was part of the regimen is unclear. |
-
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/004048 (cancelled) | Atazanavir Viatris (previously Atazanavir Mylan) | Not specified | Atazanavir Viatris, co-administered with low dose ritonavir, is indicated for the treatment of HIV 1 infected adults and paediatric pa... |
-| EMEA/H/C/000494 (cancelled) | Reyataz | Not specified | Reyataz capsules, co-administered with low dose ritonavir, are indicated for the treatment of HIV-1 infected adults and paediatric pa... |
-| EMEA/H/C/004859 (cancelled) | Atazanavir Krka | Not specified | Atazanavir Krka capsules, co-administered with low dose ritonavir, are indicated for the treatment of HIV-1 infected adults and paedi... |
+| EMEA/H/C/004048 | Atazanavir Viatris (previously Atazanavir Mylan) | Not specified | Atazanavir Viatris, co-administered with low dose ritonavir, is indicated for the treatment of HIV 1 infected adults and paediatric patients 6 years of age and older in combination with... |
+| EMEA/H/C/000494 | Reyataz | Not specified | Reyataz capsules, co-administered with low dose ritonavir, are indicated for the treatment of HIV-1 infected adults and paediatric patients 6 years of age and older in combination with... |
+| EMEA/H/C/004859 | Atazanavir Krka | Not specified | Atazanavir Krka capsules, co-administered with low dose ritonavir, are indicated for the treatment of HIV-1 infected adults and paediatric patients 6 years of age and older in combination with... |
 
 ## Safety Considerations
 
-- **Contraindications flagged in the knowledge graph** (derived from drug-disease graph edges, not label text): liver failure, liver disease, gallbladder disease, hyperglycemia, diabetes mellitus, diabetic ketoacidosis, chronic hepatitis B and C virus infection, hemophilia, hyperbilirubinemia (including hereditary forms and Gilbert syndrome), nephrolithiasis, acute urate nephropathy, atrioventricular block, and lactic acidosis.
-- **Drug Interactions**: 100 interactions were identified in total. Major-level interactions among those listed include:
-  - Acid-lowering agents: famotidine, ranitidine, rabeprazole, omeprazole
-  - Corticosteroids: triamcinolone, budesonide
-  - Loperamide
+**Relations recorded in the knowledge graph (not label text):** The knowledge graph lists the following conditions as contraindication relations for atazanavir. These have not been verified against the label: liver failure, liver disease, gallbladder disease, hyperglycemia, diabetes mellitus, diabetic ketoacidosis, chronic hepatitis B and C virus infection, hemophilia, hyperbilirubinemia (including hereditary forms and Gilbert syndrome), nephrolithiasis, acute urate nephropathy, atrioventricular block, and lactic acidosis.
 
-  Moderate-level interactions include antidiabetic agents (acarbose, alogliptin, albiglutide, metformin, pioglitazone, acetohexamide), antacids (aluminum hydroxide, calcium carbonate), hydrocortisone, betamethasone, alosetron, and aprepitant.
+**Drug Interactions:** The interaction search found 100 interacting drugs in total. Examples with a **Major** rating include:
+- Acid-reducing agents: famotidine, ranitidine, rabeprazole, omeprazole
+- Corticosteroids: triamcinolone, budesonide
+- Loperamide
 
-Please refer to the SmPC for the full warnings and contraindications.
+Examples with a **Moderate** rating include acarbose, hydrocortisone, betamethasone, metformin, pioglitazone, alogliptin, albiglutide, alosetron, aprepitant, aluminum hydroxide, calcium carbonate, and acetohexamide.
+
+Please refer to the SmPC for the full warnings, contraindications, and interaction guidance.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top prediction (feline AIDS) is supported only by a graph-based model score, with no clinical trials or literature, and it is a veterinary indication rather than a human one. All three EU authorizations are also cancelled, which further limits near-term development.
+The predicted indication is an animal-model infection, not a human disease. The only publication does not test atazanavir directly, so the evidence level is L5. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (MOA) from DrugBank
-- Safety information from the SmPC (warnings and contraindications)
-- In vitro data on atazanavir activity against FIV protease, and a veterinary regulatory and development assessment
-- Clarification of which atazanavir-containing regimens were used in the SIV macaque study
-- If a human-relevant direction is preferred, a focused review of neonatal/infant HIV treatment (the label covers ages 3 months and older for the oral powder and 6 years and older for capsules, which leaves a gap for neonates), using the pregnancy pharmacokinetic data (PMID 24992294) as a starting point
+- Studies that directly test atazanavir against SIV protease or in SIV-infected animals
+- Mechanism of action data for atazanavir
+- Warnings and contraindications from the EU product information (SmPC)
+- Clarification of whether a veterinary or preclinical research use is intended, as there is no human repurposing target here
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

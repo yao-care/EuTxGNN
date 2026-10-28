@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Vernakalant
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 664
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Vernakalant: predicted new indication Stroke disorder (evidence level L4). Approved use: Rapid conversion of recent-onset atrial fibrillation to sinus rhythm…"
 monitor_inn: "Vernakalant"
-predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "obsolete susceptibility to ischemic stroke", "sarcoglycanopathy", "Wildervanck syndrome", "ABri amyloidosis", "transient ischemic attack (disease)", "macrocephaly, dysmorphic facies, and psychomotor retardation", "obesity disorder", "hypervitaminosis"]
+predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "ABri amyloidosis"]
+description: "Vernakalant: predicted new indication Stroke disorder (evidence level L5). Approved use: Rapid conversion of recent onset atrial fibrillation to sinus rhythm…"
 ---
 
 # Vernakalant
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Vernakalant: From Atrial Fibrillation to Stroke Disorder
+## Vernakalant: Stroke disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be effective for **stroke disorder**, but the da
 
 | Item | Content |
 |------|------|
-| Original Indication | Rapid conversion of recent-onset atrial fibrillation to sinus rhythm in adults (non-surgery patients: AF ≤ 7 days; post-cardiac surgery patients: AF ≤ 3 days) |
+| Original Indication | Rapid conversion of recent onset atrial fibrillation to sinus rhythm in adults: for non-surgery patients: atrial fibrillation&nbsp;&lt;/= 7 days duration; for post-cardiac surgery patients: atrial fibrillation&nbsp;&lt;/= 3 days duration. |
 | Predicted New Indication | Stroke disorder |
-| TxGNN Prediction Score | 99.83% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no valid marketing authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| TxGNN Prediction Score | 0.9983 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 The link between the original and the new indication is indirect. Stroke is a major consequence of atrial fibrillation, so restoring sinus rhythm could in theory reduce thromboembolic risk. However, cardioversion itself carries a peri-cardioversion thromboembolic risk. No evidence shows that vernakalant prevents or treats stroke.
 
-The high TxGNN score most likely reflects the AF–stroke association in the knowledge graph rather than a direct drug effect. The prediction should be treated as a hypothesis only.
+The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases (such as AF and stroke), not biological evidence of a direct drug effect. The prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
@@ -85,7 +85,6 @@ These publications concern AF in general. None demonstrates that vernakalant red
 |---------|------|------|-----------|
 | EMEA/H/C/001215 | Brinavess | Not specified | Rapid conversion of recent onset atrial fibrillation to sinus rhythm in adults: for non-surgery patients: atrial fibrillation ≤ 7 days duration; for post-cardiac surgery patients... |
 
-This authorization has been cancelled, so the drug currently has no valid EU marketing authorization.
 
 ## Safety Considerations
 

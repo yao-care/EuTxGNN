@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **cauda equina syndrome**, but 
 |------|------|
 | Original Indication | Maple syrup urine disease (MSUD) presenting with an acute decompensation episode in patients from birth who are not eligible for an oral and enteral BCAA-free formulation |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.77% |
+| TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **cauda equina syndrome**, but 
 
 Currently, detailed mechanism of action data is not available. Tyrosine is an amino acid and a precursor of catecholamines (dopamine, norepinephrine) and thyroid hormones. Its role in MSUD relates to nutritional and metabolic support during acute decompensation.
 
-The data compiled for this report do not support a mechanistic link between tyrosine and cauda equina syndrome. That condition involves compression of the lumbosacral nerve roots, causing radiculopathy and bladder, bowel and sphincter dysfunction. The high TxGNN score (99.77%) is a computational prediction only. No supporting trials or literature were found, and tyrosine's role as a catecholamine precursor has no established relevance to this condition.
+The data compiled for this report do not support a mechanistic link between tyrosine and cauda equina syndrome. That condition involves compression of the lumbosacral nerve roots, causing radiculopathy and bladder, bowel and sphincter dysfunction. The high TxGNN score (0.9977) is a computational prediction only. No supporting trials or literature were found, and tyrosine's role as a catecholamine precursor has no established relevance to this condition.
 
 ---
 

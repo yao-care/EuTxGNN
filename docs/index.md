@@ -2,14 +2,14 @@
 layout: default
 title: Drug Repurposing Reports
 nav_order: 1
-description: "AI-powered drug repurposing predictions for 664 EMA-approved drugs. TxGNN model identifies potential new therapeutic uses with evidence-based validation."
+description: "AI-powered drug repurposing predictions for 560 EMA-approved drugs. TxGNN model identifies potential new therapeutic uses with evidence-based validation."
 permalink: /
 ---
 
 # Drug Repurposing: From AI to Evidence
 {: .fs-9 }
 
-**EuTxGNN** uses the Harvard TxGNN model to predict drug repurposing candidates for **{{ site.data.drug_stats.total_drugs }}** EMA-approved drugs, generating **6,531** potential new therapeutic uses.
+**EuTxGNN** uses the Harvard TxGNN model to predict drug repurposing candidates for **{{ site.data.drug_stats.total_drugs }}** EMA-approved drugs, generating **2,644** potential new therapeutic uses.
 {: .fs-6 .fw-300 }
 
 [Browse Drug Reports](/drugs/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -100,7 +100,7 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #FB8C00;">
     <strong style="font-size: 1.1rem;">EMA Drug Coverage</strong><br>
-    <span style="color: #666;">Focused on {{ site.data.drug_stats.total_drugs }} EMA centrally-authorized medicines with 6,531 repurposing predictions ready for research.</span>
+    <span style="color: #666;">Focused on {{ site.data.drug_stats.total_drugs }} EMA centrally-authorized medicines with 2,644 repurposing predictions ready for research.</span>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #9B59B6;">
     <strong style="font-size: 1.1rem;">FHIR Integration</strong><br>
@@ -221,7 +221,7 @@ EuTxGNN uses the **TxGNN** deep learning model published by Harvard's Zitnik Lab
 | Item | Count |
 |------|-------|
 | Drug Reports | {{ site.data.drug_stats.total_drugs }} |
-| Repurposing Predictions | 6,531 |
+| Repurposing Predictions | 2,644 |
 | Unique Indications | 4,570 |
 
 [Learn More](/about/) | [Methodology](/methodology/) | [Data Sources](/sources/)

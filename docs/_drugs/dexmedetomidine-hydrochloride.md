@@ -7,14 +7,15 @@ description: "Dexmedetomidine Hydrochloride drug repurposing predictions from Tx
 parent: AI Predictions (L5)
 nav_order: 171
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Dexmedetomidine Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | nephrogenic syndrome of inappropriate antidiuresis | 99.60% | DL |
-| 2 | migraine disorder | 99.49% | DL |
-| 3 | migraine with brainstem aura | 99.35% | DL |
-| 4 | headache disorder | 99.30% | DL |
-| 5 | trigeminal autonomic cephalalgia | 99.09% | DL |
-| 6 | pulmonary hypertension | 98.40% | DL |
-| 7 | hypotrichosis simplex of the scalp | 98.35% | DL |
-| 8 | migraine with or without aura, susceptibility to | 98.27% | DL |
-| 9 | atrophoderma vermiculata | 98.26% | DL |
-| 10 | congenital hypotrichosis milia | 98.24% | DL |
-| 11 | diffuse alopecia areata | 98.14% | DL |
-| 12 | ulerythema ophryogenesis | 98.04% | DL |
-| 13 | alopecia | 97.91% | DL |
-| 14 | kyphoscoliotic heart disease | 97.79% | DL |
-| 15 | Tourette syndrome | 97.69% | DL |
-| 16 | open-angle glaucoma | 97.66% | DL |
-| 17 | primary hereditary glaucoma | 97.65% | DL |
-| 18 | bronchial disease | 97.49% | DL |
-| 19 | trichotillomania | 97.43% | DL |
-| 20 | tendinitis | 97.20% | DL |
 
 *Showing top 20 of 50 predictions.*
 

@@ -6,9 +6,9 @@ nav_order: 674
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Volanesorsen: predicted new indication Megaloblastic anemia (evidence level L5). Approved use: Adjunct to diet in adult patients with genetically confirmed familial…"
+description: "Volanesorsen: predicted new indication megaloblastic anemia (disease) (evidence level L5). Approved use: Adjunct to diet in adult patients with genetically confirmed familial…"
 monitor_inn: "Volanesorsen"
-predicted_indications: ["megaloblastic anemia (disease)", "sclerosing cholangitis", "sickle cell disease and related diseases", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "meningococcal infection", "paroxysmal nocturnal hemoglobinuria"]
+predicted_indications: ["megaloblastic anemia (disease)", "sclerosing cholangitis", "sickle cell disease and related diseases", "sickle cell-hemoglobin c disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "meningococcal infection", "paroxysmal nocturnal hemoglobinuria"]
 ---
 
 # Volanesorsen
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Volanesorsen: From Familial Chylomicronemia Syndrome to Megaloblastic Anemia
+## Volanesorsen: From Familial Chylomicronemia Syndrome to megaloblastic anemia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **megaloblastic anemia**, but *
 |------|------|
 | Original Indication | Adjunct to diet in adult patients with genetically confirmed familial chylomicronemia syndrome (FCS) and at high risk for pancreatitis, in whom response to diet and triglyceride-lowering therapy has been inadequate |
 | Predicted New Indication | Megaloblastic anemia |
-| TxGNN Prediction Score | 99.997% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 
 Megaloblastic anemia results from vitamin B12 or folate deficiency, which impairs DNA synthesis in blood-cell precursors. There is no known link between this process and APOC3 inhibition, and the data compiled for this report supports no mechanistic connection.
 
-The very high TxGNN score (99.997%) is a model output only. It likely reflects knowledge-graph neighborhood patterns rather than biological rationale. It should not be read as evidence of efficacy. Other top-ranked predictions, such as the sickle cell disease variants, show nearly identical scores and also have no supporting evidence. This suggests the scores are correlated, ontology-driven outputs rather than independent signals.
+The very high TxGNN score (1.0000) is a model output only. It comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should not be read as evidence of efficacy. Other top-ranked predictions, such as the sickle cell disease variants, show nearly identical scores and also have no supporting evidence. This suggests the scores are correlated, ontology-driven outputs rather than independent signals.
 
 ## Clinical Trial Evidence
 

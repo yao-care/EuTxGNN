@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Sarilumab
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 548
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Sarilumab: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Rheumatoid arthritis (in combination with methotrexate…"
-monitor_inn: "Sarilumab"
-predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "bronchitis", "indolent plasma cell myeloma", "inflammatory bowel disease", "anus disease", "granulomatous disease, chronic, autosomal recessive, 5", "plasma cell myeloma", "Crohn disease of the esophagus", "functional neutrophil defect"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Sarilumab: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Sarilumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,41 +32,45 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Sarilumab: From Rheumatoid Arthritis to Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome
+<!-- known-uses-page -->
+<!-- description: Sarilumab: known uses and market status in the European Union; currently no new candidate indication -->
+## Sarilumab: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model's candidates for Sarilumab (score ≥ 0.99) that can be traced to a source are all already known uses. There is therefore currently no new predicted indication for this drug. The one known use is listed below with its source.
 
-Sarilumab is an interleukin-6 receptor (IL-6R) antibody, originally used to treat rheumatoid arthritis, polymyalgia rheumatica and polyarticular juvenile idiopathic arthritis.
-The TxGNN model predicts it may be effective for **colobomatous microphthalmia-rhizomelic dysplasia syndrome**, but there are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output alone.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis (in combination with methotrexate, or as monotherapy when methotrexate is not tolerated or inappropriate) |
-| Predicted New Indication | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
-| TxGNN Prediction Score | 98.50% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no valid authorization) |
-| Number of Authorizations | 1 |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 1 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, sarilumab is a monoclonal antibody that blocks the IL-6 receptor, and its efficacy in rheumatoid arthritis and related inflammatory conditions is established.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| rheumatoid arthritis | licence in another country |
 
-For the predicted indication, no plausible mechanistic link could be identified. Colobomatous microphthalmia-rhizomelic dysplasia syndrome is an ultra-rare developmental disorder, and IL-6 receptor blockade has no known relevance to its pathophysiology. The very high TxGNN score (98.50%) is a model prediction only. No trial or literature data support it, so it should be treated with considerable caution.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-Other predictions in the same list have more biological plausibility, for example plasma cell myeloma, indolent plasma cell myeloma (IL-6 is a plasma cell growth factor) and inflammatory bowel disease. These are secondary candidates and also lack direct clinical evidence.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004254 | Kevzara | Not specified | Rheumatoid arthritis (with methotrexate, or as monotherapy), polymyalgia rheumatica, polyarticular juvenile idiopathic arthritis... |
-
-The only authorization is recorded as cancelled, so there is currently no valid EU marketing authorization for this drug in the data compiled.
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/004254 | Kevzara |  | Valid |
 
 ## Safety Considerations
 
@@ -80,19 +83,6 @@ The only authorization is recorded as cancelled, so there is currently no valid 
 
 Please refer to the SmPC for full warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction has the highest model score but no clinical or literature support and no plausible mechanistic link to IL-6R blockade. The EU authorization is also cancelled, so there is no basis to advance this indication.
-
-**To proceed, the following is needed:**
-- Mechanism of action data, and a mechanistic rationale connecting IL-6R blockade to this syndrome
-- Preclinical or case-level evidence in this indication
-- Full warnings and contraindications from the SmPC for safety screening
-- Clarification of the cancelled EU authorization status
-- Consideration of better-supported alternatives from the same prediction list, such as plasma cell myeloma, where IL-6 biology is well established
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

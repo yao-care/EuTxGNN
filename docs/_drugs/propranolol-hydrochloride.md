@@ -7,14 +7,15 @@ description: "Propranolol Hydrochloride drug repurposing predictions from TxGNN.
 parent: AI Predictions (L5)
 nav_order: 473
 evidence_level: L5
-indication_count: 50
+indication_count: 0
 last_modified_at: 2026-10-16
+predicted_indications: []
 ---
 
 # Propranolol Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **0**
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,26 +45,6 @@ TxGNN model predictions for potential drug repurposing:
 
 | Rank | Indication | Score | Source |
 |:----:|------------|------:|--------|
-| 1 | distal myopathy, Tateyama type | 99.40% | DL |
-| 2 | congenital myopathy with excess of thin filaments | 99.30% | DL |
-| 3 | hypertrophic cardiomyopathy | 99.29% | DL |
-| 4 | glomus tumor | 99.29% | DL |
-| 5 | hemangioma | 99.24% | DL |
-| 6 | primary intralymphatic angioendothelioma | 99.22% | DL |
-| 7 | hypertrophic cardiomyopathy due to intensive athletic training | 99.17% | DL |
-| 8 | chondroma | 99.14% | DL |
-| 9 | cirrhotic cardiomyopathy | 99.12% | DL |
-| 10 | cardiomyopathy | 99.12% | DL |
-| 11 | spindle cell hemangioma | 99.12% | DL |
-| 12 | His bundle tachycardia | 99.09% | DL |
-| 13 | retinal capillary malformation | 99.09% | DL |
-| 14 | intramuscular hemangioma | 98.97% | DL |
-| 15 | Maffucci syndrome | 98.97% | DL |
-| 16 | congenital hemangioma | 98.93% | DL |
-| 17 | breast epithelioid hemangioma | 98.91% | DL |
-| 18 | breast capillary hemangioma | 98.90% | DL |
-| 19 | PTEN hamartoma tumor syndrome | 98.88% | DL |
-| 20 | cutaneous glomangioma | 98.88% | DL |
 
 *Showing top 20 of 50 predictions.*
 

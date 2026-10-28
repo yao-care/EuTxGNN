@@ -4,17 +4,17 @@ title: Norethisterone
 parent: Medium Evidence (L3-L4)
 nav_order: 438
 evidence_level: L4
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Norethisterone: predicted new indication Amenorrhea (evidence level L4). Approved use: Treatment of moderate to severe symptoms of uterine fibroids in adult…"
 monitor_inn: "Norethisterone"
-predicted_indications: ["amenorrhea (disease)", "symptomatic form of fragile X syndrome in female carrier", "zinc, elevated plasma", "anovulation", "ovarian remnant syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "partial trisomy/tetrasomy of the short arm of chromosome 12", "luteoma of pregnancy", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 5"]
+predicted_indications: ["amenorrhea (disease)"]
 ---
 
 # Norethisterone
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be useful for **amenorrhea**, but there are curr
 |------|------|
 | Original Indication | Treatment of moderate to severe symptoms of uterine fibroids in adult women of reproductive age; symptomatic treatment of endometriosis in women with previous medical or surgical treatment |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.60% |
+| TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

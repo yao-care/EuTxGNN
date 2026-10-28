@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Saxagliptin with the latest 
 <li>Opsismodysplasia</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/saxagliptin/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (12)

@@ -4,17 +4,17 @@ title: Durvalumab
 parent: AI Predictions (L5)
 nav_order: 205
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Durvalumab: predicted new indication Prostatic urethra urothelial carcinoma (evidence level L5). Approved use: Non-Small Cell Lung Cancer (NSCLC)…"
+indication_count: 6
 monitor_inn: "Durvalumab"
-predicted_indications: ["prostatic urethra urothelial carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
+predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
+last_modified_at: 2026-10-23
+description: "Durvalumab: predicted new indication Uterine ligament adenocarcinoma (evidence level L5). Approved use: Non-small cell lung cancer (NSCLC)…"
 ---
 
 # Durvalumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,107 +33,95 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Durvalumab: From Non-Small Cell Lung Cancer to Prostatic Urethra Urothelial Carcinoma
+## Durvalumab: From Non-Small Cell Lung Cancer to Uterine Ligament Adenocarcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Durvalumab is an anti-PD-L1 antibody, originally used for lung cancer (NSCLC and SCLC), biliary tract, liver, endometrial and bladder cancers.
-The TxGNN model predicts it may be effective for **prostatic urethra urothelial carcinoma**, but **no clinical trials and no publications** currently support this specific prediction; it rests on the model score alone.
+Durvalumab is a PD-L1 checkpoint inhibitor, originally used for lung cancer and several other cancers (see the EU indications below).
+The TxGNN model predicts it may be effective for **uterine ligament adenocarcinoma** (top-ranked prediction), but **no clinical trials or publications** directly study this disease.
+The strongest supporting signal among the other predictions is for **endocervical carcinoma**, with 1 Phase 1 trial and 2 publications.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Non-Small Cell Lung Cancer (NSCLC), including resectable high-risk NSCLC, unresectable stage III NSCLC and first-line metastatic NSCLC (with other agents) |
-| Predicted New Indication | Prostatic urethra urothelial carcinoma |
-| TxGNN Prediction Score | 99.98% |
+| Original Indication | Non-small cell lung cancer (NSCLC), including resectable high-risk disease, unresectable stage III disease after chemoradiation, and first-line metastatic disease (with tremelimumab and chemotherapy) |
+| Predicted New Indication | Uterine ligament adenocarcinoma |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (the single authorization is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, durvalumab is a PD-L1-blocking antibody. Its efficacy has been shown in several cancers, and it is approved in the EU for resectable muscle-invasive bladder cancer (MIBC) in combination with gemcitabine and cisplatin.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, durvalumab is an antibody against PD-L1. It is thought to release the brake that tumours place on T cells, restoring immune attack against the cancer.
 
-Urothelial carcinoma of the prostatic urethra is histologically similar to bladder urothelial carcinoma. That similarity makes PD-L1 blockade a plausible approach. However, no trial or publication specific to this site was found, and the very high TxGNN score (0.9998) is a computational prediction only.
+Durvalumab holds an EU licence for advanced or recurrent endometrial cancer (with carboplatin and paclitaxel, followed by maintenance therapy). Uterine ligament adenocarcinoma is a related gynaecologic adenocarcinoma, so a link through the PD-1/PD-L1 pathway is biologically plausible. However, this is an indirect inference. The prediction rests on the model score alone, and this rare tumour type has no direct clinical or literature support.
 
-### Other Candidates in the Same Prediction Set
-
-The model also ranked related urothelial and gynaecological tumours. Some of them have limited early clinical evidence:
-
-| Rank | Predicted Indication | Score | Evidence Level | Note |
-|------|------|------|------|------|
-| 2 | Kidney pelvis sarcomatoid transitional cell carcinoma | 99.98% | L3 | One early-phase pilot trial in urothelial cancer |
-| 3 | Infiltrating bladder urothelial carcinoma, sarcomatoid variant | 99.98% | L3 | One terminated Phase 2 trial (7 patients) and one pilot trial |
-| 6 | Endocervical carcinoma | 99.91% | L3 | One completed Phase 1 trial (20 patients) |
-| 4, 5, 7–10 | Renal pelvis papillary urothelial carcinoma, rare uterine ligament and cervical adenocarcinoma subtypes | 99.90–99.98% | L5 | Prediction only |
+Other predicted gynaecologic diseases follow the same pattern. Endocervical carcinoma has the most supporting material (see below). Adenoid cystic carcinoma of the cervix, uterine ligament serous adenocarcinoma, and signet ring and intestinal variant cervical mucinous adenocarcinomas have no trials or publications. Rare histologies may differ in PD-L1 expression and immune environment, so extrapolation is uncertain.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for prostatic urethra urothelial carcinoma.
+No clinical trials are registered for the top-ranked prediction, uterine ligament adenocarcinoma.
 
-For the closest related predicted indications, the following trials were found:
+For reference, the following trial relates to the second-ranked prediction, endocervical carcinoma. It is not a direct study of the top-ranked disease.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03912818](https://clinicaltrials.gov/study/NCT03912818) | Phase 2 | Terminated | 7 | Durvalumab plus neoadjuvant chemotherapy in variant histology bladder cancer; too few patients to support any efficacy conclusion |
-| [NCT02812420](https://clinicaltrials.gov/study/NCT02812420) | Early Phase 1 | Active, not recruiting | 54 | Pre-surgical durvalumab plus tremelimumab in cisplatin-ineligible muscle-invasive urothelial carcinoma; safety and immune-biomarker oriented, no efficacy conclusion |
-| [NCT03452332](https://clinicaltrials.gov/study/NCT03452332) | Phase 1 | Completed | 20 | Hypofractionated radiotherapy plus durvalumab and tremelimumab in recurrent or metastatic cervical, vaginal or vulvar cancer; early safety and feasibility data |
+| [NCT03452332](https://clinicaltrials.gov/study/NCT03452332) | Phase 1 | Completed | 20 | Hypofractionated radiotherapy plus durvalumab and tremelimumab in recurrent or metastatic cervical, vaginal, or vulvar cancer. Early safety and feasibility study; it cannot establish efficacy. |
 
 ## Literature Evidence
 
-Currently no related literature available for prostatic urethra urothelial carcinoma.
+No publications were found for the top-ranked prediction, uterine ligament adenocarcinoma.
 
-For the endocervical carcinoma prediction (rank 6), the following publications were found. Their relevance has not yet been assessed in detail.
+For reference, the following publications relate to endocervical carcinoma:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [42518016](https://pubmed.ncbi.nlm.nih.gov/42518016/) | 2026 | Nonrandomized clinical trial | Oncology and Therapy | Phase 1 study of ceralasertib plus durvalumab in Chinese patients with advanced solid tumours refractory to prior anti-PD-(L)1 therapy; examined safety, pharmacokinetics and antitumour activity |
-| [37467967](https://pubmed.ncbi.nlm.nih.gov/37467967/) | 2023 | Review | Biomedical Journal | Small cell neuroendocrine carcinoma of the cervix: molecular basis and treatment advances; data limited to case series and reports |
+| [37467967](https://pubmed.ncbi.nlm.nih.gov/37467967/) | 2023 | Review | Biomedical Journal | Small cell neuroendocrine carcinoma of the cervix is rare and aggressive. Data are limited to case series and reports, and there are no evidence-based guidelines. |
+| [42518016](https://pubmed.ncbi.nlm.nih.gov/42518016/) | 2026 | Nonrandomized clinical trial | Oncology and Therapy | Phase 1 study of ceralasertib plus durvalumab in Chinese patients with advanced solid tumours, assessing safety, pharmacokinetics and antitumour activity. Not specific to cervical cancer. |
 
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/004771 | Imfinzi | Not specified | Non-Small Cell Lung Cancer (NSCLC)IMFINZI in combination with platinum-based chemotherapy as neoadjuvant treatment, followed by... |
-
-This authorization is recorded as cancelled, so there is currently no valid EU authorization in the compiled data.
+| EMEA/H/C/004771 | Imfinzi | Not specified | NSCLC, small cell lung cancer, biliary tract cancer, hepatocellular carcinoma, endometrial cancer, muscle invasive bladder cancer... |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Immunotherapy (anti-PD-L1 antibody); not a conventional cytotoxic agent |
-| Myelosuppression Risk | Please refer to the SmPC warnings and precautions. Combination chemotherapy regimens carry their own myelosuppression risk. |
+| Cytotoxicity Classification | Immunotherapy (PD-L1 antibody), not a conventional cytotoxic drug |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
 | Monitoring Items | Please refer to the SmPC warnings and precautions |
 | Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-- **Drug Interactions**: 81 interactions were recorded. The main ones from the displayed list are:
+- **Drug Interactions**: 81 interactions were identified. Examples:
   - **Major**: adalimumab
-  - **Moderate**: corticosteroids (hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisolone, prednisone, methylprednisolone, deflazacort), roflumilast, alefacept, alemtuzumab, anakinra, tetanus toxoid vaccine, anthrax vaccine
+  - **Moderate**: corticosteroids (hydrocortisone, dexamethasone, prednisone, prednisolone, methylprednisolone, budesonide, betamethasone, triamcinolone, deflazacort), roflumilast, alefacept, alemtuzumab, anakinra, tetanus toxoid vaccine, anthrax vaccine
   - **Minor**: zinc salts (acetate, gluconate, sulfate, chloride)
 
-For warnings and contraindications, please refer to the SmPC.
+  Corticosteroids and other immunosuppressants may reduce the immune activity that checkpoint inhibitors depend on, so concurrent use should be reviewed.
+
+For other safety information, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction for prostatic urethra urothelial carcinoma is supported only by a high model score and histological similarity to bladder urothelial carcinoma, where durvalumab is already approved. No trial or publication addresses this site, so the evidence level is L5. The EU authorization is also currently cancelled.
+The prediction for uterine ligament adenocarcinoma rests only on a high model score (0.9992), with no clinical trials or publications directly studying this disease, so the evidence level is L5. Durvalumab's EU licence for endometrial cancer gives only indirect plausibility.
 
 **To proceed, the following is needed:**
-- Site-specific evidence, for example retrospective series or trials in upper-tract and urethral urothelial carcinoma
-- Review of the early-phase urothelial trials (NCT02812420, NCT03912818) for subgroup data relevant to this site
-- Detailed mechanism of action data
-- Warnings and contraindications from the SmPC
-- Clarification of the EU regulatory status (cancelled authorization)
-- Consideration of the rank 2 and 3 candidates (sarcomatoid urothelial variants, L3), which have more clinical support than the top-ranked prediction
+- Disease-specific evidence: case reports, translational studies, or trials in uterine ligament adenocarcinoma or closely related gynaecologic adenocarcinomas
+- Tumour PD-L1 expression and immune microenvironment data for this rare histology
+- Mechanism of action data and SmPC safety information (warnings and contraindications)
+- If prioritising the better-supported endocervical carcinoma prediction, efficacy data beyond the single Phase 1 trial, ideally randomised, and verification of the exact enrolled population in NCT03452332
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

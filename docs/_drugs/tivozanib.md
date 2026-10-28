@@ -48,10 +48,10 @@ but currently **no clinical trials and no publications** support this direction.
 |------|------|
 | Original Indication | First-line treatment of adult patients with advanced renal cell carcinoma (RCC), and adult patients who are VEGFR and mTOR pathway inhibitor-naïve following disease progression after one prior cytokine therapy for advanced RCC |
 | Predicted New Indication | Endocervical carcinoma |
-| TxGNN Prediction Score | 99.81% |
+| TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

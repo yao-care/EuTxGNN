@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lasmiditan
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 354
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Lasmiditan: predicted new indication Migraine with brainstem aura (evidence level L4). Approved use: Acute treatment of the headache phase of migraine attacks…"
+evidence_level: L5
+indication_count: 2
 monitor_inn: "Lasmiditan"
-predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy", "monogenic obesity", "obesity disorder", "obsolete hypertelorism (disease)", "hypervitaminosis", "amenorrhea (disease)", "frontorhiny"]
+predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
+last_modified_at: 2026-10-27
+description: "Lasmiditan: predicted new indication atrophoderma vermiculata (evidence level L5). Approved use: RAYVOW is indicated for the acute treatment of the headache phase of…"
 ---
 
 # Lasmiditan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,87 +33,85 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Lasmiditan: From Migraine to Migraine with Brainstem Aura
+## Lasmiditan: 5-HT1F receptor agonist → atrophoderma vermiculata
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Lasmiditan is a 5-HT1F receptor agonist, originally used for the acute treatment of the headache phase of migraine attacks in adults, with or without aura.
-The TxGNN model predicts it may be effective for **migraine with brainstem aura**, a subtype of migraine.
-No clinical trials are registered for this specific indication, but **16 publications** are linked to it. They are mainly general migraine studies, and none specifically enrolled brainstem aura patients.
+Lasmiditan is a selective 5-HT1F receptor agonist that is currently marketed in the European Union.
+The TxGNN model predicts it may be relevant to **atrophoderma vermiculata**, a rare atrophic skin condition affecting hair follicles.
+There are **no clinical trials** and **no publications** supporting this prediction, so it rests on the computational score alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute treatment of the headache phase of migraine attacks, with or without aura, in adults |
-| Predicted New Indication | Migraine with brainstem aura |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
+| Original Indication | RAYVOW is indicated for the acute treatment of the headache phase of migraine attacks, with or without aura in adults. |
+| Predicted New Indication | atrophoderma vermiculata |
+| TxGNN Prediction Score | 0.9959 |
+| Evidence Level | L5 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Lasmiditan is a selective 5-HT1F receptor agonist. Unlike triptans, it acts on neurons in the trigeminal pathway and does not cause vasoconstriction. Detailed mechanism of action data are not available in the data compiled for this report, but this pharmacology is described in the published literature.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Lasmiditan is known as a 5-HT1F receptor agonist.
 
-Migraine with brainstem aura is a subtype of migraine, so the mechanism is plausibly relevant. Current understanding is that spreading depolarization causes aura and may trigger trigeminal sensory activation, which underlies the headache.
+No identifiable mechanistic link connects 5-HT1F agonism to atrophoderma vermiculata, a rare follicular atrophic skin condition. The high score is a computational output of the TxGNN model. It is not backed by any trial, publication or biological rationale in the available data.
 
-This prediction largely overlaps with the approved indication and is not a true repurposing. The pivotal Phase 3 trials (SAMURAI, SPARTAN) did not specifically enroll brainstem aura patients, so the evidence is indirect and extrapolated from the general migraine population. Patients with this subtype have also historically been under-represented in trials of triptans and related drugs.
+The prediction should therefore be treated as a hypothesis for screening, not as evidence of potential benefit. A plausible pathway between serotonin receptor signalling and follicular atrophy would have to be established first.
 
-The other predicted indications (for example atrophoderma vermiculata, sciatic neuropathy and obesity) have no identifiable mechanistic link and no supporting trials. They are not recommended for further evaluation at this stage.
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [32857291](https://pubmed.ncbi.nlm.nih.gov/32857291/) | 2020 | Meta-analysis of RCTs | CNS Drugs | Systematic review of RCTs of lasmiditan for acute migraine in adults |
-| [31132795](https://pubmed.ncbi.nlm.nih.gov/31132795/) | 2019 | Phase 3 RCT | Brain | Placebo-controlled study in migraine with and without aura, including patients with cardiovascular history |
-| [22459549](https://pubmed.ncbi.nlm.nih.gov/22459549/) | 2012 | Phase 2 RCT | The Lancet Neurology | Oral lasmiditan, dose-ranging study for acute migraine treatment |
-| [33990951](https://pubmed.ncbi.nlm.nih.gov/33990951/) | 2021 | Phase 2 RCT | Headache | Efficacy and safety of lasmiditan in Japanese adults with migraine |
-| [36138260](https://pubmed.ncbi.nlm.nih.gov/36138260/) | 2022 | RCT subgroup analysis | Advances in Therapy | Efficacy across patient and migraine characteristics in the MONONOFU trial |
-| [35790906](https://pubmed.ncbi.nlm.nih.gov/35790906/) | 2022 | Network meta-analysis | J Headache Pain | Relative efficacy of lasmiditan versus rimegepant and ubrogepant |
-| [35027572](https://pubmed.ncbi.nlm.nih.gov/35027572/) | 2022 | Review | Nat Rev Dis Primers | General overview of migraine, its mechanisms and aura |
-| [31749059](https://pubmed.ncbi.nlm.nih.gov/31749059/) | 2019 | Review | Drugs | First approval of lasmiditan, based on two pivotal Phase 3 trials |
-| [33907459](https://pubmed.ncbi.nlm.nih.gov/33907459/) | 2021 | Case report | J Pain Res | Migraine with brainstem aura accompanied by disorders of consciousness (not a lasmiditan study) |
-| [38024055](https://pubmed.ncbi.nlm.nih.gov/38024055/) | 2023 | Case report | Cureus | PRES with migraine-like headache and visual aura, with a significant response to lasmiditan |
+Currently no related literature available.
 
-None of these publications studied lasmiditan specifically in migraine with brainstem aura.
-
-## EU Market Information
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005332 (cancelled) | Rayvow | Not specified | Acute treatment of the headache phase of migraine attacks, with or without aura in adults. |
+---
 
 ## Safety Considerations
 
-- **Drug Interactions**: The interaction screening returned 100 interacting drugs in total; 20 are listed in the data compiled for this report. Most are rated Moderate, and several are rated **Major**:
+- **Drug Interactions**: 100 potential interactions were identified in the interaction databases. Among those reviewed, three are rated **Major**:
   - Lorcaserin
   - Dolasetron
   - Palonosetron
-  - Moderate-level examples include famotidine, ranitidine, cimetidine, bupropion, morphine, loperamide, atropine, hyoscyamine, dicyclomine, and the gliptins (sitagliptin, linagliptin, saxagliptin).
 
-Please refer to the SmPC for warnings and contraindications.
+  Many others are rated **Moderate**, including:
+  - Acid reducers: famotidine, ranitidine, cimetidine
+  - Anticholinergics and antispasmodics: hyoscyamine, atropine, dicyclomine
+  - Opioids and related drugs: morphine, loperamide
+  - Other drugs: bupropion, dronabinol, nabilone, eliglustat
+  - Diabetes drugs: sitagliptin, saxagliptin, linagliptin, empagliflozin
+  - Naldemedine
+
+Warnings and contraindications from the product label were not available in the data compiled for this report. Please refer to the SmPC for full safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible, but it falls within the already approved migraine indication. No trials or studies specifically address brainstem aura, so the evidence is indirect (L4). The only EU authorization has been cancelled, and warning and contraindication information from the label could not be retrieved, so safety screening cannot proceed.
+The prediction has a high model score (0.9959) but no supporting clinical trials, no literature and no identifiable mechanistic link. The evidence level is L5, which does not justify advancing the prediction.
 
 **To proceed, the following is needed:**
-- Warnings and contraindications from the EMA product information (blocking)
-- Detailed mechanism of action data
-- Clinical data or subgroup analyses in patients with migraine with brainstem aura, including cardiovascular and neurological safety in this group
-- Clarification of why the EU authorization was cancelled and of the current regulatory status
-- Review of the Major drug interactions (lorcaserin, dolasetron, palonosetron)
+- A credible biological rationale linking 5-HT1F agonism, or another lasmiditan mechanism, to atrophoderma vermiculata
+- Preclinical or case-level evidence in this skin condition
+- Detailed mechanism-of-action data
+- Label-based warnings and contraindications from the SmPC, to complete the safety review
+- A check of whether the available routes and dosage forms are compatible with treating a skin condition
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,17 +4,17 @@ title: Avapritinib
 parent: AI Predictions (L5)
 nav_order: 71
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Avapritinib: predicted new indication Axial spondylometaphyseal dysplasia (evidence level L5). Approved use: Unresectable or metastatic gastrointestinal stromal tumour (GIST) wit…"
 monitor_inn: "Avapritinib"
-predicted_indications: ["axial spondylometaphyseal dysplasia", "bilateral parasagittal parieto-occipital polymicrogyria", "amyotrophic lateral sclerosis", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "amyotrophic lateral sclerosis, susceptibility to", "amyotrohpic lateral sclerosis type 22", "lower motor neuron syndrome with late-adult onset", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome"]
+predicted_indications: ["axial spondylometaphyseal dysplasia", "bilateral parasagittal parieto-occipital polymicrogyria", "amyotrophic lateral sclerosis", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "amyotrohpic lateral sclerosis type 22", "lower motor neuron syndrome with late-adult onset", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome"]
 ---
 
 # Avapritinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Unresectable or metastatic gastrointestinal stromal tumour (GIST) with PDGFRA D842V mutation; advanced systemic mastocytosis; indolent systemic mastocytosis |
 | Predicted New Indication | Axial spondylometaphyseal dysplasia |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data are not available in the data compiled for thi
 
 Axial spondylometaphyseal dysplasia is a rare skeletal disorder, reported to be associated with CFAP410 (C21orf2). No involvement of KIT or PDGFRA is known. No mechanistic link has been established between the original indications and this condition.
 
-The high TxGNN score (99.92%) therefore reflects a computational prediction only. It is not backed by trials, literature, or a plausible biological rationale, and it should be treated as a hypothesis at most.
+The high TxGNN score (0.9992) therefore reflects a computational prediction only. It is not backed by trials, literature, or a plausible biological rationale, and it should be treated as a hypothesis at most.
 
 ## EU Market Information
 

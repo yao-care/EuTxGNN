@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Emtricitabine
-parent: AI Predictions (L5)
+parent: Medium Evidence (L3-L4)
 nav_order: 222
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Emtricitabine: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: Treatment of HIV-1 infected adults and children…"
 monitor_inn: "Emtricitabine"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Emtricitabine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 |------|------|
 | Original Indication | Treatment of HIV-1 infected adults and children, in combination with other antiretroviral agents |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L4 (preclinical studies) |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -92,12 +92,8 @@ Selected publications for the top prediction (SIV infection), which are all prec
 
 | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Feline acquired immunodeficiency syndrome | 99.92% | L4 | One veterinary combination ART study (dolutegravir, tenofovir, emtricitabine); limited relevance to human repurposing |
-| Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 99.92% | L5 | No plausible mechanistic link; model prediction only |
-| Obsolete familial combined hyperlipidemia | 98.21% | L5 | Obsolete ontology term, possibly a graph artifact; no support |
-| AIDS related complex | 93.46% | L3 | Falls within the existing HIV-1 indication, so this is a re-labeling rather than repurposing |
-| Congenital human immunodeficiency virus | 93.46% | L3 | Overlaps the approved HIV indication; observational data on tenofovir/emtricitabine in pregnancy |
-| Fibroma of prostate, Brenner tumor, benign reproductive system neoplasm, benign prostate phyllodes tumor | 78.5%–81.4% | L5 | No mechanistic link or evidence; graph-based scores only |
+| Feline acquired immunodeficiency syndrome | 0.9992 | L5 | One veterinary combination ART study (dolutegravir, tenofovir, emtricitabine); limited relevance to human repurposing |
+| Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 0.9992 | L5 | No plausible mechanistic link; model prediction only |
 
 ## EU Market Information
 

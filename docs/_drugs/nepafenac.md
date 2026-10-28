@@ -48,10 +48,10 @@ The data compiled for this report include **43 clinical trials** and **20 public
 |------|------|
 | Original Indication | Prevention and treatment of postoperative pain and inflammation associated with cataract surgery; reduction in the risk of postoperative macular oedema associated with cataract surgery in diabetic patients |
 | Predicted New Indication | Eye disease |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L1 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -61,9 +61,9 @@ Detailed mechanism-of-action data were not available in the drug record. From th
 The predicted "eye disease" is very broad and mostly covers what the drug is already approved for. It is therefore closer to an extension of the approved use than true repurposing. Evidence for the more distinct retinal uses is smaller and less certain. These include epiretinal membrane surgery, diabetic macular oedema, retinal detachment surgery, and central serous chorioretinopathy. Studies show topical nepafenac and amfenac reach the back of the eye, which makes these uses plausible.
 
 Other lower-ranked predictions in the model output are not supported by evidence:
-- **Optic papillitis** (score 99.84%): Only a preclinical rabbit study of retinal oedema and one cataract trial are linked, and that trial does not study papillitis. The link looks like a mapping artefact. Evidence level L4, decision Hold.
-- **Vitreous detachment** (score 99.81%): One Phase 4 biomarker trial (NCT07162818) in retinal detachment and proliferative vitreoretinopathy gives mechanistic but not clinical evidence. Evidence level L4, treated as a research question.
-- **Hypotrichosis simplex of the scalp, seborrheic keratosis, von Hippel anomaly, congenital hypotrichosis milia, McPherson-Robertson-Cammarano syndrome, lagophthalmos, vulvar inverted follicular keratosis** (scores 99.80–99.84%): No trials or literature and no plausible mechanism. Evidence level L5, decision Hold.
+- **Optic papillitis** (score 0.9984): Only a preclinical rabbit study of retinal oedema and one cataract trial are linked, and that trial does not study papillitis. The link looks like a mapping artefact. Evidence level L4, decision Hold.
+- **Vitreous detachment** (score 0.9981): One Phase 4 biomarker trial (NCT07162818) in retinal detachment and proliferative vitreoretinopathy gives mechanistic but not clinical evidence. Evidence level L4, treated as a research question.
+- **Hypotrichosis simplex of the scalp, seborrheic keratosis, von Hippel anomaly, congenital hypotrichosis milia, McPherson-Robertson-Cammarano syndrome, lagophthalmos, vulvar inverted follicular keratosis** (scores 99.80–0.9984): No trials or literature and no plausible mechanism. Evidence level L5, decision Hold.
 
 ## Clinical Trial Evidence
 

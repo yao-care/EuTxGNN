@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Ixazomib
-parent: Medium Evidence (L3-L4)
+parent: Known Uses Only (No New Predictions)
 nav_order: 342
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ixazomib: predicted new indication Indolent plasma cell myeloma (evidence level L3). Approved use: Multiple myeloma in adults who have received at least one prior thera…"
-monitor_inn: "Ixazomib"
-predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "vulvar melanoma (disease)", "epithelioid cell uveal melanoma", "ganglioneuroblastoma (disease)", "melanoma", "retroperitoneal neoplasm", "vertebral anomalies and variable endocrine and T-cell dysfunction", "intellectual disability, autosomal dominant 55, with seizures"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Ixazomib: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Ixazomib
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,53 +32,45 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Ixazomib: From Multiple Myeloma to Indolent Plasma Cell Myeloma
+<!-- known-uses-page -->
+<!-- description: Ixazomib: known uses and market status in the European Union; currently no new candidate indication -->
+## Ixazomib: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model has no candidate with a score of 0.99 or higher for Ixazomib, so there is currently no new predicted indication. The drug's recorded uses are listed below.
 
-Ixazomib is an oral proteasome inhibitor, originally used together with lenalidomide and dexamethasone to treat adult patients with multiple myeloma who have received at least one prior therapy.
-The TxGNN model predicts it may be effective for **indolent plasma cell myeloma**, but there are **no registered clinical trials** and only **3 publications** (real-world cohort data and a case report, none specific to the indolent stage) supporting this direction.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Multiple myeloma in adults who have received at least one prior therapy (in combination with lenalidomide and dexamethasone) |
-| Predicted New Indication | Indolent plasma cell myeloma |
-| TxGNN Prediction Score | 96.17% |
-| Evidence Level | L3 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 |
-| Recommended Decision | Hold |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 2 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
-## Why is This Prediction Reasonable?
+## Known uses recorded for this drug
 
-Currently, detailed mechanism of action data is not available. Based on known information, ixazomib is an oral proteasome inhibitor. Its efficacy in relapsed/refractory multiple myeloma, in combination with lenalidomide and dexamethasone, is established, and mechanistically it may be applicable to indolent plasma cell myeloma.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| multiple myeloma | licence in another country |
 
-Indolent (smoldering) plasma cell myeloma lies on the same disease spectrum as multiple myeloma, so inhibiting the proteasome in malignant plasma cells is directly relevant. This is therefore closer to an extension of the existing indication than to true repurposing.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-An important caveat: the real-world data compiled for this report concern relapsed/refractory multiple myeloma, not the indolent or smoldering stage. The mechanistic link is plausible but has not been tested in this specific population.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [38558233](https://pubmed.ncbi.nlm.nih.gov/38558233/) | 2024 | Real-world cohort (retrospective-prospective) | Cancer Medicine | Efficacy and safety of ixazomib, lenalidomide and dexamethasone (IRd) in relapsed/refractory multiple myeloma in northern Italy |
-| [32193630](https://pubmed.ncbi.nlm.nih.gov/32193630/) | 2020 | Real-world registry comparison | Annals of Hematology | Multi-site Israeli registry comparing real-world outcomes of ixazomib-based regimens with the TOURMALINE-MM1 phase 3 trial |
-| [42719364](https://pubmed.ncbi.nlm.nih.gov/42719364/) | 2026 | Case report | Therapeutic Advances in Hematology | Fulminant extramedullary relapse of multiple myeloma with rare cardiac, vascular and multivisceral involvement |
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| plasma cell myeloma |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003844 | Ninlaro | Not specified | Ninlaro in combination with lenalidomide and dexamethasone is indicated for the treatment of adult patients with multiple myeloma who have received at least one prior therapy. |
-
-This authorization is recorded as cancelled, so there is currently no valid EU marketing authorization for ixazomib in the data compiled for this report.
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/003844 | Ninlaro |  | Valid |
 
 ## Cytotoxicity
 
@@ -102,19 +93,6 @@ This authorization is recorded as cancelled, so there is currently no valid EU m
 
 Please refer to the SmPC for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The mechanistic rationale is sound and the indication is close to the approved one. However, no clinical trials address the indolent stage, the available literature covers relapsed/refractory myeloma rather than indolent disease, and the EU authorization is cancelled. Safety data (warnings and contraindications) have not been reviewed.
-
-**To proceed, the following is needed:**
-- The SmPC warnings and contraindications, which are required for safety screening
-- Detailed mechanism of action data
-- Clinical evidence specific to indolent or smoldering plasma cell myeloma, such as trials in that population
-- Clarification of the availability of ixazomib in the EU, given that its only authorization is cancelled
-- A review of the full interaction list, including the Major-level interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

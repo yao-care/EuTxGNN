@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Lixisenatide
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 372
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Lixisenatide: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Treatment of adults with insufficiently controlled type 2 diabetes me…"
-monitor_inn: "Lixisenatide"
-predicted_indications: ["opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "autoimmune oophoritis"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Lixisenatide: known uses and market status in the European Union; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Lixisenatide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,66 +32,46 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Lixisenatide: From Type 2 Diabetes Mellitus to Opsismodysplasia
+<!-- known-uses-page -->
+<!-- description: Lixisenatide: known uses and market status in the European Union; currently no new candidate indication -->
+## Lixisenatide: Known uses and market status in the European Union
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model has no candidate with a score of 0.99 or higher for Lixisenatide, so there is currently no new predicted indication. The uses recorded for this drug are listed below. They are the drug's own recorded uses, not model candidates.
 
-Lixisenatide is a GLP-1 receptor agonist, originally used to improve blood sugar control in adults with type 2 diabetes mellitus (in the Suliqua combination product).
-The TxGNN model predicts it may be effective for **opsismodysplasia**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
-This is a prediction-only finding with no direct evidence.
-
----
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Treatment of adults with insufficiently controlled type 2 diabetes mellitus to improve glycaemic control, as an adjunct to diet and exercise in addition to metformin with or without SGLT-2 inhibitors |
-| Predicted New Indication | Opsismodysplasia |
-| TxGNN Prediction Score | 97.56% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
-| Recommended Decision | Hold |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 3 |
+| Evidence level | Not applicable |
+| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
----
+## Known uses recorded for this drug
 
-## Why is This Prediction Reasonable?
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| diabetes mellitus, type 2 | licence in another country |
 
-Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on general knowledge, lixisenatide is a GLP-1 receptor agonist that acts through cAMP signaling to promote insulin secretion. Its efficacy in type 2 diabetes is established.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-Opsismodysplasia is a rare skeletal dysplasia caused by INPPL1 mutations (SHIP2 deficiency), which affects PI3K/insulin signaling. The only conceivable link is that both involve insulin-related signaling pathways. This connection is speculative and rests solely on the high TxGNN score. There is no clinical or preclinical data showing that lixisenatide affects the bone and cartilage pathology of this disease.
-
-Other top-ranked predictions show similar patterns. Stiff person syndrome and its focal variant are probably linked through diabetes and GAD-related autoimmunity. The several lipodystrophy conditions likely reflect graph proximity to diabetes-related adipose pathology. Pancreatic agenesis is mechanistically implausible, because lixisenatide requires functioning beta-cells.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available for opsismodysplasia.
-
-For reference, the only publication found among the top-10 predictions concerns a different prediction (pancreatic agenesis):
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [32911572](https://pubmed.ncbi.nlm.nih.gov/32911572/) | 2021 | Preclinical animal study | Cell Biochem Funct | Effects of lixisenatide on mild cachexia and metabolic abnormalities in Walker-256 tumour-bearing rats; not directly related to pancreatic agenesis |
-
----
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| diabetes mellitus |
+| type 2 diabetes mellitus |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004243 (cancelled) | Suliqua | Not specified | Suliqua is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus to improve glycaemic control as an adjunct to diet and... |
-
----
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| EMEA/H/C/004243 | Suliqua |  | Valid |
 
 ## Safety Considerations
 
@@ -106,19 +85,6 @@ Please refer to the SmPC for warnings and contraindications.
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction is based only on a model score, with no clinical trials or literature. The proposed mechanism is speculative. In addition, the only EU authorization found for lixisenatide is cancelled.
-
-**To proceed, the following is needed:**
-- Mechanism of action data (MOA) and a plausible biological link between GLP-1 receptor signaling and INPPL1/SHIP2 pathology
-- Preclinical studies (for example, cell or animal models of opsismodysplasia)
-- Warnings and contraindications from the SmPC, to allow safety screening
-- Clarification of the current EU regulatory status and available formulations
-- Assessment of the clinical need and feasibility of studying a very rare disease
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

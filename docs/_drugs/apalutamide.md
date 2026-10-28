@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Apalutamide
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 55
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Apalutamide: predicted new indication Prostate cancer/brain cancer susceptibility (evidence level L5). Approved use: Non-metastatic castration-resistant prostate cancer (nmCRPC) at high…"
+description: "Apalutamide: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Apalutamide"
-predicted_indications: ["prostate leiomyoma", "Brenner tumor", "benign reproductive system neoplasm", "fibroma of prostate", "prostate phyllodes tumor", "benign neoplasm of prostate", "benign prostate phyllodes tumor", "palmoplantar keratoderma-sclerodactyly syndrome"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Apalutamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,48 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Apalutamide: From Prostate Cancer to Prostate Cancer/Brain Cancer Susceptibility
+## Apalutamide
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Apalutamide is an androgen receptor inhibitor, originally used to treat prostate cancer (non-metastatic castration-resistant and metastatic hormone-sensitive disease).
-The TxGNN model predicts it may be relevant to **prostate cancer/brain cancer susceptibility**, but **no clinical trials or publications** currently support this specific prediction.
-This is a predisposition entity rather than a treatable disease state, so the high score most likely reflects the knowledge-graph link to prostate cancer.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Non-metastatic castration-resistant prostate cancer (nmCRPC) at high risk of metastatic disease; metastatic hormone-sensitive prostate cancer (mHSPC) in combination with ADT |
-| Predicted New Indication | Prostate cancer/brain cancer susceptibility |
-| TxGNN Prediction Score | 98.43% |
-| Evidence Level | L5 |
-| EU Market Status | ✗ Cancelled only |
-| Number of Authorizations | 1 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Detailed mechanism of action data is not available in the compiled data. Apalutamide is an androgen receptor (AR) inhibitor with proven efficacy in advanced prostate cancer. Mechanistically, it may be relevant wherever AR signaling drives disease.
-
-The predicted entity is a **susceptibility (predisposition) category, not a treatable disease**. The high TxGNN score probably reflects its proximity to prostate cancer in the knowledge graph rather than a real therapeutic signal. No trials or literature support using apalutamide for susceptibility or prevention in this entity, so the prediction should be treated as a model artifact until shown otherwise.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
+| Original Indication | Erleada is indicated: in adult men for the treatment of non metastatic castration resistant prostate cancer (nmCRPC) who are at high risk of developing metastatic disease. in adult men for the treatment of metastatic hormone-sensitive prostate cancer (mHSPC) in combination with androgen deprivation  |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
 ---
 
@@ -82,7 +52,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/004452 | Erleada (status: cancelled) | Not specified | Erleada is indicated: in adult men for the treatment of non metastatic castration resistant prostate cancer (nmCRPC) who are at high ri... |
+| EMEA/H/C/004452 | Erleada (status: valid) | Not specified | Erleada is indicated: in adult men for the treatment of non metastatic castration resistant prostate cancer (nmCRPC) who are at high ri... |
 
 The only EU authorization is recorded as cancelled. This status should be verified against current regional labeling.
 
@@ -110,20 +80,6 @@ For warnings and contraindications, please refer to the SmPC.
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The predicted entity is a susceptibility category with no supporting trials or literature, so the evidence is model prediction only (L5). The EU authorization is also recorded as cancelled.
-
-Other predictions in the same analysis fall within the approved prostate cancer setting and have much stronger evidence. For example, the broader "male reproductive organ cancer" category has L1 evidence, with Phase 3 and Phase 2 trials and perioperative and salvage-therapy data. That is an extension of the existing indication, not true repurposing, and it should be evaluated separately.
-
-**To proceed, the following is needed:**
-- Clarification of whether a susceptibility or prevention use is clinically meaningful, and a defined disease endpoint
-- Detailed mechanism of action data (MOA)
-- Warnings and contraindications from the SmPC
-- Verification of current EU and regional authorization status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

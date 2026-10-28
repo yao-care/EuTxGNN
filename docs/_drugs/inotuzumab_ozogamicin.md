@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Inotuzumab Ozogamicin
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 323
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Inotuzumab Ozogamicin: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Monotherapy for adults with relapsed or refractory CD22-positive B-ce…"
+description: "Inotuzumab Ozogamicin: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Inotuzumab ozogamicin"
-predicted_indications: ["drug-induced osteoporosis", "HER2 positive breast carcinoma", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer", "severe nonproliferative diabetic retinopathy", "primary release disorder of platelets", "pseudo-von Willebrand disease", "malignant catarrh"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Inotuzumab Ozogamicin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,41 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Inotuzumab ozogamicin: From B-Cell Acute Lymphoblastic Leukaemia to Drug-Induced Osteoporosis
+## Inotuzumab Ozogamicin
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Inotuzumab ozogamicin is a CD22-directed antibody-drug conjugate originally used to treat relapsed or refractory CD22-positive B-cell precursor acute lymphoblastic leukaemia (ALL).
-The TxGNN model predicts it may be effective for **drug-induced osteoporosis**, but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Monotherapy for adults with relapsed or refractory CD22-positive B-cell precursor ALL (Ph+ patients must have failed at least 1 TKI) |
-| Predicted New Indication | Drug-induced osteoporosis |
-| TxGNN Prediction Score | 98.24% |
-| Evidence Level | L5 |
-| EU Market Status | Cancelled only (marketing authorization cancelled) |
-| Number of Authorizations | 1 |
-| Recommended Decision | Hold |
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, inotuzumab ozogamicin is a CD22-directed antibody-drug conjugate carrying calicheamicin, a DNA-damaging cytotoxin. Its efficacy in B-cell ALL has been established, because CD22 is expressed on B-lineage leukaemic cells.
-
-The review of the data did not find a mechanistic link between this drug and drug-induced osteoporosis. CD22 targeting has no known connection to bone metabolism or the pathophysiology of osteoporosis. The high TxGNN score (0.98) appears to be an artifact of the graph-based prediction, with no clinical or literature evidence behind it.
-
-Other lower-ranked predictions, including HER2-positive breast carcinoma and other breast cancer subtypes, diabetic retinopathy and platelet disorders, were also reviewed. None has a plausible mechanism or supporting evidence. For example, CD22 is not a recognized target in breast cancer, and the drug's tendency to cause thrombocytopenia argues against use in platelet disorders.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available for drug-induced osteoporosis.
+| Original Indication | Besponsa is indicated as monotherapy for the treatment of adults with relapsed or refractory CD22-positive B cell precursor acute lymphoblastic leukaemia (ALL). Adult patients with Philadelphia chromosome positive (Ph+) relapsed or refractory B cell precursor ALL should have failed treatment with at |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 
 ## EU Market Information
 
@@ -98,18 +75,6 @@ The status of this authorization is cancelled.
 
 Please refer to the SmPC for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction for drug-induced osteoporosis is based only on a model score, with no clinical trials, no literature and no plausible mechanism. The drug's cytotoxic profile (myelosuppression, hepatotoxicity) makes a favourable benefit-risk balance in a non-oncology bone indication unlikely. The EU marketing authorization is also cancelled.
-
-**To proceed, the following is needed:**
-- Mechanism of action data and any biological rationale linking CD22 or calicheamicin to bone metabolism
-- Preclinical evidence in an osteoporosis model
-- Safety information from the SmPC, including warnings and contraindications
-- Clarification of the cancelled EU authorization status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,7 +4,7 @@ title: Trametinib
 parent: AI Predictions (L5)
 nav_order: 634
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Trametinib: predicted new indication Choroideremia (evidence level L5). Approved use: Unresectable or metastatic BRAF V600-mutant melanoma"
 monitor_inn: "Trametinib"
@@ -14,7 +14,7 @@ predicted_indications: ["choroideremia"]
 # Trametinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Many of the other top-ranked predictions are melanoma subtypes, where evidence i
 |------|------|
 | Original Indication | Unresectable or metastatic BRAF V600-mutant melanoma; adjuvant treatment of Stage III BRAF V600-mutant melanoma; advanced BRAF V600-mutant non-small cell lung cancer |
 | Predicted New Indication | Choroideremia |
-| TxGNN Prediction Score | 99.31% |
+| TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 For choroideremia, the link is weak. Choroideremia is an inherited retinal degeneration caused by loss of function of the CHM gene (REP1), and it is not a MAPK-driven disease. The data compiled for this report show no clear reason why MEK inhibition would help. The high score may reflect proximity in the knowledge network rather than a real biological mechanism.
 
-**Note on other predictions:** Most of the other top-ranked predictions are melanoma subtypes, which are mechanistically more plausible when a BRAF V600 mutation is present. The most developed is **non-cutaneous melanoma** (score 99.30%, Evidence Level L2, "Proceed with Guardrails"). Mucosal melanoma has preclinical support (MEK-based combinations, BRAF fusions). Epithelioid cell, eyelid, lentigo maligna, superficial spreading and amelanotic melanoma are supported only by reviews and case reports. Scrotum and balloon cell melanoma have no evidence beyond the prediction. Choroideremia is the top-ranked prediction by score, so it is the focus of this report.
+**Note on other predictions:** Choroideremia is the top-ranked prediction by TxGNN score (0.9931), so it is the focus of this report. The scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ---
 
@@ -119,7 +119,6 @@ The choroideremia prediction rests on a computational score alone. There are no 
 - A biological rationale linking MEK/MAPK inhibition to choroideremia, tested in preclinical models (for example, retinal pigment epithelium or patient-derived cells)
 - Mechanism of action data and safety label information (warnings and contraindications) from the SmPC
 - Assessment of ocular safety, since MEK inhibitors can cause retinal toxicity (this should be verified in the SmPC) and the target population already has retinal degeneration
-- If the team wants a more actionable direction, consider re-prioritizing the melanoma subtype predictions (especially non-cutaneous melanoma with genotype selection) for further evaluation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

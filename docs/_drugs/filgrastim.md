@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Filgrastim (G-CSF) was originally used to shorten neutropenia and reduce febrile neutropenia in patients receiving cytotoxic chemotherapy, and to mobilise blood stem cells.
-The TxGNN model predicts it may be effective for **primary release disorder of platelets**, but this is a graph-based prediction only, with **0 clinical trials** and **0 publications** supporting it.
+The TxGNN model (deep learning) predicts it may be effective for **primary release disorder of platelets**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **primary release disorder of p
 |------|------|
 | Original Indication | Reduction in the duration of neutropenia and the incidence of febrile neutropenia in patients treated with established cytotoxic chemotherapy for malignancy (excluding chronic myeloid leukaemia and myelodysplastic syndromes); also PBPC mobilisation, severe chronic neutropenia, and persistent neutropenia in advanced HIV infection |
 | Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.998% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorisations in the data compiled) |
-| Number of Authorizations | 7 (all cancelled) |
+| EU Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Authorizations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Filgrastim is a recombinant G-CSF. It is known to act on the neutrophil lineage through the G-CSF receptor. Its efficacy in neutropenia is established.
 
-The link to the predicted indication is weak. Primary release disorder of platelets is a disorder of platelet granule release and function. G-CSF has no established effect on platelet function. The very high TxGNN score reflects the knowledge-graph pattern rather than a biological rationale. The other top predictions (pseudo-von Willebrand disease, Glanzmann thrombasthenia, Scott syndrome and others) show the same pattern of platelet or coagulation disorders without a plausible G-CSF mechanism, and none has any trial or literature support.
+The link to the predicted indication is weak. Primary release disorder of platelets is a disorder of platelet granule release and function. G-CSF has no established effect on platelet function. The very high score (1.0000) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The other top predictions (pseudo-von Willebrand disease, Glanzmann thrombasthenia, Scott syndrome and others) show the same pattern of platelet or coagulation disorders without a plausible G-CSF mechanism, and none has any trial or literature support.
 
 ## Clinical Trial Evidence
 
@@ -77,7 +77,7 @@ For context, seven trials were retrieved for a lower-ranked prediction, platelet
 
 ## EU Market Information
 
-All seven EU authorisations are cancelled.
+The drug is marketed: all 7 of 7 EU authorisations are valid.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -104,7 +104,7 @@ The prediction rests on the model score alone (L5). There are no trials or publi
 - Mechanism of action data for filgrastim, and a testable rationale for platelet function disorders
 - Any preclinical or clinical evidence in platelet release disorders
 - Warnings and contraindications from the SmPC for the safety screening
-- Clarification of the EU market status, since all authorisations are cancelled
+- Clarification of the EU market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

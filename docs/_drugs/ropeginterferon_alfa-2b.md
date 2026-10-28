@@ -6,9 +6,9 @@ nav_order: 537
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ropeginterferon Alfa-2B: predicted new indication Laubry-Pezzi syndrome (evidence level L5). Approved use: Polycythaemia vera in adults, as monotherapy…"
 monitor_inn: "Ropeginterferon alfa-2b"
 predicted_indications: ["Laubry-Pezzi syndrome", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "Jeune syndrome situs inversus", "partial deletion of the long arm of chromosome 22", "orofacial clefting syndrome", "pulmonary valve disease"]
+description: "Ropeginterferon Alfa-2B: predicted new indication Laubry-Pezzi syndrome (evidence level L5). Approved use: Besremi is indicated as monotherapy in adults for the treatment of po…"
 ---
 
 # Ropeginterferon Alfa-2B
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ropeginterferon alfa-2b: From Polycythaemia Vera to Laubry-Pezzi Syndrome
+## Ropeginterferon Alfa-2B: Laubry-Pezzi syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **Laubry-Pezzi syndrome** (a ve
 
 | Item | Content |
 |------|------|
-| Original Indication | Polycythaemia vera in adults, as monotherapy, without symptomatic splenomegaly |
+| Original Indication | Besremi is indicated as monotherapy in adults for the treatment of polycythaemia vera without symptomatic splenomegaly. |
 | Predicted New Indication | Laubry-Pezzi syndrome |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (the single authorization is cancelled) |
-| Number of Authorizations | 1 |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -85,7 +85,6 @@ Currently no related literature available for Laubry-Pezzi syndrome.
 |---------|------|------|-----------|
 | EMEA/H/C/004128 | Besremi | Not specified | Besremi is indicated as monotherapy in adults for the treatment of polycythaemia vera without symptomatic splenomegaly. |
 
-This authorization is recorded as **cancelled**, so the drug currently has no valid EU marketing authorization in the compiled data.
 
 ---
 

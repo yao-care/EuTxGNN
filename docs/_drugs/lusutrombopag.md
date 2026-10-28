@@ -4,17 +4,17 @@ title: Lusutrombopag
 parent: AI Predictions (L5)
 nav_order: 382
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Lusutrombopag: predicted new indication Hereditary thrombocytopenia with normal platelets (evidence level L5). Approved use: Severe thrombocytopenia in adult patients with chronic liver disease…"
 monitor_inn: "Lusutrombopag"
-predicted_indications: ["hereditary thrombocytopenia with normal platelets", "marcothrombocytopenia with mitral valve insufficiency", "transient neonatal thrombocytopenia", "dense granule disease", "platelet storage pool deficiency", "amyotrophic lateral sclerosis", "lower motor neuron syndrome with late-adult onset", "amyotrophic lateral sclerosis, susceptibility to", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia"]
+predicted_indications: ["hereditary thrombocytopenia with normal platelets", "marcothrombocytopenia with mitral valve insufficiency", "transient neonatal thrombocytopenia", "dense granule disease", "platelet storage pool deficiency", "amyotrophic lateral sclerosis", "lower motor neuron syndrome with late-adult onset", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia"]
 ---
 
 # Lusutrombopag
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but at present there are **0 clinical trials** and **0 publications** supporting
 |------|------|
 | Original Indication | Severe thrombocytopenia in adult patients with chronic liver disease undergoing invasive procedures |
 | Predicted New Indication | Hereditary thrombocytopenia with normal platelets |
-| TxGNN Prediction Score | 99.995% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Cancelled only (no valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,12 +60,12 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Inherited thrombocytopenias with a quantitative platelet deficit share the same basic problem as the original indication: too few platelets. In theory, TPO receptor agonism could increase platelet production in patients who retain some megakaryocyte activity.
 
-This link is still speculative. The prediction rests only on a knowledge-graph score. The genetic cause of the condition and the degree of residual megakaryopoiesis are unspecified, and there are no trials or publications to support it.
+This link is still speculative. The prediction rests only on a TxGNN model (deep learning) score. The genetic cause of the condition and the degree of residual megakaryopoiesis are unspecified, and there are no trials or publications to support it.
 
 Other high-scoring predictions are weaker still:
 - **Macrothrombocytopenia with mitral valve insufficiency** and **transient neonatal thrombocytopenia**: the mechanism is plausible for a low platelet count, but the first often involves platelet formation defects that TPO stimulation may not correct, and the second is self-limiting with no safety data in neonates.
 - **Dense granule disease** and **platelet storage pool deficiency**: these are mainly platelet function disorders, so raising platelet number would not directly correct the defect.
-- **ALS, lower motor neuron syndrome, polymicrogyria and axial spondylometaphyseal dysplasia**: no plausible mechanistic link was identified. These scores likely reflect graph-level associations.
+- **Lower motor neuron syndrome, polymicrogyria and axial spondylometaphyseal dysplasia**: no plausible mechanistic link was identified. These scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 

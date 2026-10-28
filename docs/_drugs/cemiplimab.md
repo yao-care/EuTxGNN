@@ -4,7 +4,7 @@ title: Cemiplimab
 parent: AI Predictions (L5)
 nav_order: 138
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
 description: "Cemiplimab: predicted new indication Gallbladder adenosquamous carcinoma (evidence level L5). Approved use: Metastatic or locally advanced cutaneous squamous cell carcinoma (not…"
 monitor_inn: "Cemiplimab"
@@ -14,7 +14,7 @@ predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogen
 # Cemiplimab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **gallbladder adenosquamous car
 |------|------|
 | Original Indication | Metastatic or locally advanced cutaneous squamous cell carcinoma (not candidates for curative surgery or radiation); also adjuvant CSCC, basal cell carcinoma, NSCLC and cervical cancer |
 | Predicted New Indication | Gallbladder adenosquamous carcinoma |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 The link to gallbladder adenosquamous carcinoma is speculative. The tumour has a squamous component, which may share some biology with CSCC. However, PD-L1 status and tumour mutational burden in this rare tumour are not established by the available data, and no clinical evidence was found. The prediction should be treated as a hypothesis only.
 
-Other high-scoring predictions follow a similar pattern, with scores of about 99.99%. They include glottis squamous cell carcinoma, supraglottis squamous cell carcinoma, non-keratinizing sinonasal squamous cell carcinoma, rectal cloacogenic carcinoma and lung occult squamous cell carcinoma. Most of these also have no supporting evidence. External ear basal cell carcinoma is the only one with any publication, and it is largely covered by the existing basal cell carcinoma indication.
+Other high-scoring predictions follow a similar pattern, with scores of about 0.9999. They include glottis squamous cell carcinoma, supraglottis squamous cell carcinoma, non-keratinizing sinonasal squamous cell carcinoma, rectal cloacogenic carcinoma and lung occult squamous cell carcinoma. Most of these also have no supporting evidence. External ear basal cell carcinoma is the only one with any publication, and it is largely covered by the existing basal cell carcinoma indication.
 
 ## Clinical Trial Evidence
 

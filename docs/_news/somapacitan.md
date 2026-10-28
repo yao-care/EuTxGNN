@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Somapacitan with the latest 
 <li>Allergic asthma</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/somapacitan/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (13)

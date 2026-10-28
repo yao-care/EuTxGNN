@@ -4,7 +4,7 @@ title: Tipranavir
 parent: AI Predictions (L5)
 nav_order: 617
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Tipranavir: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV-1 infection in highly pretreated adults and adolescents aged 12 y…"
 monitor_inn: "Tipranavir"
@@ -14,7 +14,7 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 # Tipranavir
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 |------|------|
 | Original Indication | HIV-1 infection in highly pretreated adults and adolescents aged 12 years and older with virus resistant to multiple protease inhibitors (used with low-dose ritonavir) |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | Cancelled only (no currently valid authorization) |
-| Number of Authorizations | 1 (cancelled) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,10 +60,9 @@ Detailed mechanism of action data is not available in the data compiled for this
 Simian immunodeficiency virus (SIV) is a closely related lentivirus with a homologous protease, so activity is biologically plausible. However, SIV infection is a disease of nonhuman primates, used as an animal model, and is not a human clinical indication. The very high TxGNN score most likely reflects how close the term sits to the approved HIV indication in the disease ontology rather than independent evidence.
 
 Other top-ranked predictions are of similar or lower value:
-- **Feline acquired immunodeficiency syndrome** (score 99.99%): a veterinary condition. The feline virus protease differs from HIV-1 protease in substrate specificity and inhibitor sensitivity, so cross-activity is uncertain.
-- **Congenital HIV** and **AIDS related complex** (score 99.83%, Evidence Level L4): essentially the same disease as the approved HIV-1 indication. These are extensions or nomenclature overlaps rather than true repurposing. Evidence for children younger than 12 years is lacking.
+- **Feline acquired immunodeficiency syndrome** (score 0.9999): a veterinary condition. The feline virus protease differs from HIV-1 protease in substrate specificity and inhibitor sensitivity, so cross-activity is uncertain.
 - **Obsolete familial combined hyperlipidemia**: protease inhibitors tend to raise triglycerides and cholesterol, so the drug would be expected to worsen this condition. The prediction is likely spurious.
-- **Neurodevelopmental disorder, prostate fibroma, Brenner tumor and benign reproductive neoplasms**: no plausible mechanistic link was identified, and these appear to be graph-embedding artifacts.
+- **Neurodevelopmental disorder, prostate fibroma, Brenner tumor and benign reproductive neoplasms**: no plausible mechanistic link was identified. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -99,7 +98,6 @@ The prediction has no supporting clinical trials or literature (Evidence Level L
 - Retrieval and review of the SmPC warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data for tipranavir
 - Preclinical or literature evidence of tipranavir activity against SIV, if the animal-model direction is of interest
-- A decision on whether the human HIV-related predictions (congenital HIV, AIDS related complex) are worth pursuing, since they largely overlap with the existing indication
 - Confirmation of the current regulatory and availability status in the EU
 ## Disclaimer
 

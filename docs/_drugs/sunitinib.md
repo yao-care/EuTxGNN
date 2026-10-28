@@ -4,17 +4,17 @@ title: Sunitinib
 parent: High Evidence (L1-L2)
 nav_order: 579
 evidence_level: L2
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Sunitinib: predicted new indication Liposarcoma (evidence level L2). Approved use: Gastrointestinal stromal tumour (GIST) after imatinib failure"
 monitor_inn: "Sunitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
+description: "Sunitinib: predicted new indication Liposarcoma (evidence level L2). Approved use: Gastrointestinal stromal tumour (GIST) Sunitinib Accord is indicated…"
 ---
 
 # Sunitinib
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Sunitinib: From Gastrointestinal Stromal Tumour to Liposarcoma
+## Sunitinib: Liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ No Phase 3 confirmation exists for this indication.
 
 | Item | Content |
 |------|------|
-| Original Indication | Gastrointestinal stromal tumour (GIST) after imatinib failure; metastatic renal cell carcinoma; pancreatic neuroendocrine tumours |
+| Original Indication | Gastrointestinal stromal tumour (GIST) Sunitinib Accord is indicated for the treatment of unresectable and/or metastatic malignant gastrointestinal stromal tumour (GIST) in adults after failure of imatinib treatment due to resistance or intolerance. Metastatic renal cell carcinoma (MRCC) Sunitinib A |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L2 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -120,7 +120,6 @@ Evidence for liposarcoma consists of two small, pooled-histology Phase 2 trials,
 - EU SmPC warnings and contraindications (currently a blocking data gap)
 - Detailed mechanism of action data
 - Liposarcoma subtype-specific efficacy data (e.g., dedifferentiated vs. well-differentiated vs. myxoid), ideally from a randomised trial
-- Clarification of the regulatory pathway given that no EU authorisation is currently valid
 - A cardiac, hepatic and drug-interaction monitoring plan
 ## Disclaimer
 

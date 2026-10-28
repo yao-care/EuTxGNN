@@ -4,17 +4,17 @@ title: Everolimus
 parent: High Evidence (L1-L2)
 nav_order: 248
 evidence_level: L2
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Everolimus: predicted new indication Liposarcoma (evidence level L2). Approved use: Hormone-receptor-positive…"
+indication_count: 8
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
+last_modified_at: 2026-10-27
+description: "Everolimus: predicted new indication liposarcoma (evidence level L2). Approved use: Hormone-receptor-positive advanced breast cancer Afinitor is indicate…"
 ---
 
 # Everolimus
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,105 +33,85 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Everolimus: From Hormone-Receptor-Positive Advanced Breast Cancer to Liposarcoma
+## Everolimus: mTOR inhibitor → liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Everolimus is an mTOR inhibitor originally authorised for advanced breast cancer, neuroendocrine tumours, renal-cell carcinoma and tuberous sclerosis complex (TSC)-associated tumours.
-The TxGNN model predicts it may be effective for **liposarcoma**, with **1 clinical trial** (a Phase 2 study of everolimus plus ribociclib) and **4 publications** currently linked to this direction. Only one of these publications reports clinical results.
-
----
+Everolimus is an mTOR inhibitor, marketed in the EU under the brand names Afinitor and Votubia.
+The TxGNN model predicts it may be effective for **liposarcoma**, with **1 clinical trial** and **4 publications** retrieved for this prediction. Only one trial and one publication directly study the disease, and both test everolimus in combination with ribociclib.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hormone-receptor-positive, HER2-negative advanced breast cancer (with exemestane) |
-| Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.88% |
+| Original Indication | Hormone-receptor-positive advanced breast cancer Afinitor is indicated for the treatment of hormone-receptor-positive, HER2/neu-negative advanced breast cancer, in combination with exemestane, in post-menopausal women without symptomatic visceral disease after recurrence or progression following a n |
+| Predicted New Indication | liposarcoma |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L2 |
-| EU Market Status | Cancelled only (no currently valid authorisation) |
-| Number of Authorizations | 2 (both cancelled) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Everolimus is known as an inhibitor of mTORC1, a central regulator of cell growth and survival. It has proven efficacy in several solid tumours, including breast cancer, pancreatic and other neuroendocrine tumours, and renal-cell carcinoma.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general knowledge, everolimus inhibits mTORC1, a central regulator of cell growth and proliferation.
 
-Dedifferentiated liposarcoma is characterised by CDK4/MDM2 amplification and frequent activation of the PI3K/AKT/mTOR pathway. In theory, blocking mTOR could slow tumour growth. Combining everolimus with the CDK4/6 inhibitor ribociclib targets two complementary proliferation and survival pathways. Preclinical sarcoma models and combination data support this idea.
-
-This rationale has not been confirmed by randomised clinical data. In the available trial, everolimus was tested only together with ribociclib, so its own contribution cannot be separated out.
-
----
+Dedifferentiated liposarcoma is characterized by CDK4/MDM2 amplification and frequent activation of PI3K/AKT/mTOR signaling. Blocking mTORC1 with everolimus while blocking CDK4/6 with ribociclib targets two complementary proliferation and survival pathways. Preclinical sarcoma models and combination data make this plausible. However, the pathway rationale has not been confirmed by randomized clinical data, and everolimus has not been tested on its own in this disease.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03114527](https://clinicaltrials.gov/study/NCT03114527) | Phase 2 | Active, not recruiting | 48 | Two-centre, two-arm, single-arm study of ribociclib plus everolimus in advanced dedifferentiated liposarcoma and leiomyosarcoma after at least one prior systemic therapy. It aims to determine anti-tumour activity. |
-
----
+| [NCT03114527](https://clinicaltrials.gov/study/NCT03114527) | Phase 2 | Active, not recruiting | 48 | Two-centre, single-arm study of ribociclib plus everolimus in advanced dedifferentiated liposarcoma and leiomyosarcoma after at least one prior systemic therapy. The aim is to measure anti-tumour activity. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [37967116](https://pubmed.ncbi.nlm.nih.gov/37967116/) | 2024 | Phase 2 trial report | Clin Cancer Res | Report of the ribociclib plus everolimus trial in advanced dedifferentiated liposarcoma and leiomyosarcoma. The two drugs showed synergistic growth inhibition in multiple tumour models. |
-| [36003796](https://pubmed.ncbi.nlm.nih.gov/36003796/) | 2022 | Review | Front Oncol | Review of sarcoma patient-derived xenograft models identifying combination therapies with the CDK inhibitor palbociclib. Indirect relevance. |
-| [29848686](https://pubmed.ncbi.nlm.nih.gov/29848686/) | 2018 | Preclinical | Anticancer Res | Eribulin in combination with other anticancer agents. Indirect relevance, not about everolimus. |
-| [41991999](https://pubmed.ncbi.nlm.nih.gov/41991999/) | 2026 | Preclinical | Oncogene | The XPO1 inhibitor KPT-330 (selinexor) disrupts the transcriptional circuitry of dedifferentiated liposarcoma. Not specific to everolimus. |
-
----
+| [37967116](https://pubmed.ncbi.nlm.nih.gov/37967116/) | 2024 | Phase 2 trial report | Clin Cancer Res | Report of the ribociclib plus everolimus Phase 2 study in advanced dedifferentiated liposarcoma and leiomyosarcoma. |
+| [36003796](https://pubmed.ncbi.nlm.nih.gov/36003796/) | 2022 | Review | Front Oncol | Sarcoma patient-derived xenograft models used to identify combination therapies with the CDK inhibitor palbociclib. Indirect relevance. |
+| [41991999](https://pubmed.ncbi.nlm.nih.gov/41991999/) | 2026 | Preclinical | Oncogene | XPO1 inhibitor KPT-330 disrupts the transcriptional circuitry of dedifferentiated liposarcoma. Not specific to everolimus. |
+| [29848686](https://pubmed.ncbi.nlm.nih.gov/29848686/) | 2018 | Preclinical | Anticancer Res | Preclinical combination study of eribulin with other anticancer agents. Indirect relevance. |
 
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/001038 (cancelled) | Afinitor | Not specified | Hormone-receptor-positive advanced breast cancer, pancreatic neuroendocrine tumours, gastrointestinal or lung neuroendocrine tumours, advanced renal-cell carcinoma... |
-| EMEA/H/C/002311 (cancelled) | Votubia | Not specified | Renal angiomyolipoma and subependymal giant cell astrocytoma associated with tuberous sclerosis complex... |
-
----
+| EMEA/H/C/001038 | Afinitor | Not recorded | Hormone-receptor-positive advanced breast cancer, neuroendocrine tumours of pancreatic origin, neuroendocrine tumours of gastrointestinal or lung origin... |
+| EMEA/H/C/002311 | Votubia | Not recorded | Renal angiomyolipoma associated with tuberous sclerosis complex (TSC), subependymal giant cell astrocytoma (SEGA) associated with TSC... |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Targeted therapy (mTOR inhibitor) |
-| Myelosuppression Risk | Please refer to the SmPC warnings and precautions. The knowledge graph links the drug to neutropenia, thrombocytopenia, leukopenia and anaemia. |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | Please refer to the SmPC. Blood counts, liver and kidney function, blood glucose and lipids are suggested by the knowledge-graph signals. |
+| Monitoring Items | Please refer to the SmPC warnings and precautions; blood counts, liver and renal function, and glucose and lipids are commonly monitored |
 | Handling Protection | Please refer to the SmPC warnings and precautions |
-
----
 
 ## Safety Considerations
 
-- **Contraindication signals from the knowledge graph** (these come from a model knowledge graph, not from product label text): liver failure and liver disease, kidney disease, thrombocytopenia, neutropenia, leukopenia, anaemia, hyperglycaemia and diabetes mellitus, hyperlipidaemia and hypertriglyceridaemia, interstitial lung disease, congestive heart failure, stomatitis, pericardial effusion, haemolytic-uremic syndrome, and lymphoma.
-- **Drug Interactions** (100 interactions found; examples shown):
-  - Major: amphotericin B, aprepitant, dexamethasone, clarithromycin.
-  - Moderate: antidiabetic agents such as metformin, acarbose, alogliptin, canagliflozin, dapagliflozin, empagliflozin, linagliptin and glimepiride; also cimetidine, eliglustat and eluxadoline.
-  - Minor: zinc sulfate.
+- **Drug Interactions**: The interaction search returned 100 records; the main ones are listed below.
+  - **Major**: amphotericin B (including the lipid complex), aprepitant, dexamethasone, clarithromycin.
+  - **Moderate**: several antidiabetic drugs, including metformin, acarbose, alogliptin, canagliflozin, dapagliflozin, empagliflozin, linagliptin, glimepiride, chlorpropamide, albiglutide and dulaglutide. Others include cimetidine, eliglustat and eluxadoline.
+  - **Minor**: zinc sulfate.
 
-Label warnings and contraindications from the EU product information were not available. Please refer to the SmPC for complete safety information.
-
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only clinical evidence is a single-arm Phase 2 trial of everolimus combined with ribociclib, so everolimus's own contribution cannot be judged. The EU authorisations are all cancelled, and label safety data could not be retrieved. This supports further research rather than moving forward now.
+The only direct evidence is one single-arm Phase 2 study of everolimus combined with ribociclib. The contribution of everolimus alone cannot be separated, and no randomized data exist. Warnings and contraindications from the label are also missing from the data compiled for this report.
 
 **To proceed, the following is needed:**
-- Full results of NCT03114527 (response rate, progression-free survival, safety), and whether they favour the combination over standard options.
-- Evidence that separates everolimus's effect from ribociclib's, such as a randomised or comparative study.
-- EU product label warnings and contraindications (the SmPC) and mechanism-of-action data from DrugBank.
-- Clarification of the current EU regulatory status, since both authorisations are cancelled.
-- A safety monitoring plan covering blood counts, glucose and lipids, liver and kidney function, and lung toxicity.
+- Published efficacy results from the Phase 2 study (NCT03114527), ideally with a comparison that isolates everolimus.
+- Warnings and contraindications from the SmPC, so that safety can be screened.
+- Detailed mechanism-of-action data.
+- A safety and interaction management plan, especially for combination use with CDK4/6 inhibitors.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
