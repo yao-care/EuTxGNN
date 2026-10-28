@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 437
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Norelgestromin"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Norelgestromin: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Female contraception. Evra is intended for women of fertile age. The…"

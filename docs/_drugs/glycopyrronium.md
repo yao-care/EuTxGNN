@@ -5,7 +5,7 @@ layout: default
 title: Glycopyrronium
 parent: Known Uses Only (No New Predictions)
 nav_order: 293
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Glycopyrronium: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Glycopyrronium"
 predicted_indications: []

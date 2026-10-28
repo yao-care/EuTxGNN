@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 493
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Ponatinib"
 predicted_indications: ["fibromatosis, gingival", "liposarcoma"]
 description: "Ponatinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Iclusig is indicated in adult patients with chronic phase…"

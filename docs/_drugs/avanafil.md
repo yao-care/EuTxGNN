@@ -5,7 +5,7 @@ layout: default
 title: Avanafil
 parent: Known Uses Only (No New Predictions)
 nav_order: 70
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Avanafil: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Avanafil"
 predicted_indications: []

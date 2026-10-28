@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "Lanadelumab"
 predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Lanadelumab: predicted new indication C1 抑制劑缺乏症 (C1 inhibitor deficiency) (evidence level L1). Approved use: Takhzyro is indicated for routine prevention of recurrent attacks of…"
 ---
 

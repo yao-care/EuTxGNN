@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 392
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Memantine: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Treatment of patients with moderate to severe Alzheimer's disease"
 monitor_inn: "Memantine"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]

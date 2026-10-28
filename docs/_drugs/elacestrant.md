@@ -5,7 +5,7 @@ layout: default
 title: Elacestrant
 parent: Known Uses Only (No New Predictions)
 nav_order: 212
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Elacestrant: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Elacestrant"
 predicted_indications: []

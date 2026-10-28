@@ -3,18 +3,18 @@ noindex: true
 sitemap: false
 layout: default
 title: Ivabradine Hydrochloride
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 339
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Ivabradine Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,57 +33,20 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Ivabradine Hydrochloride: Repurposing Evaluation — Insufficient Data to Proceed
+## Ivabradine Hydrochloride
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Ivabradine hydrochloride is a selective If (funny current) inhibitor with established cardiovascular applications in heart rate reduction.
-The TxGNN model has **not generated any repurposing predictions** for this compound in the current Evidence Pack, and critical data gaps — including missing DrugBank ID, mechanism of action, and regulatory records — prevent a complete evaluation from being conducted.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | Not available in Evidence Pack |
-| Predicted New Indication | No predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (no clinical evidence; no predictions available) |
+| Original Indication | Symptomatic treatment of chronic stable angina pectoris Ivabradine is indicated for the symptomatic treatment of chronic stable angina pectoris in coronary artery disease adults with normal sinus rhythm and heart rate ? 70 bpm. Ivabradine is indicated : in adults unable to tolerate or with a contrai |
+| EU Market Status | Marketed (valid licences: 5 of 5) |
 | Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Number of Authorizations | 5 (valid: 5) |
 
 ---
 
-## Why No Prediction is Available
-
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on the drug name alone, ivabradine hydrochloride is known to be a selective inhibitor of the sinoatrial node If channel, reducing heart rate without affecting myocardial contractility — a mechanism relevant to cardiovascular conditions. However, because no DrugBank ID was resolved and `predicted_indications` is empty, the TxGNN model could not produce repurposing candidates for this compound.
-
-Without predicted indications, there is no repurposing hypothesis to evaluate, and no mechanistic link to a new indication can be reasonably assessed at this stage.
-
----
-
-## Safety Considerations
-
-Please refer to the SmPC for safety information.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The Evidence Pack for ivabradine hydrochloride contains multiple blocking data gaps — no DrugBank ID, no MOA, no TFDA regulatory records, and most critically, no TxGNN-predicted repurposing candidates. Without a predicted indication, this report cannot fulfill its primary purpose.
-
-**To proceed, the following is needed:**
-- Resolve DrugBank ID for ivabradine (or ivabradine hydrochloride as salt form) to enable TxGNN model input
-- Re-run TxGNN prediction pipeline once DrugBank ID is confirmed
-- Retrieve mechanism of action data from DrugBank API
-- Download and parse TFDA package insert (仿單 PDF) to populate safety warnings and contraindications
-- Confirm original approved indications from the regulatory source to establish baseline context
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

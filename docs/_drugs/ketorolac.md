@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 3
 monitor_inn: "Ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Ketorolac: predicted new indication Headache disorder (evidence level L1). Approved use: Omidria is indicated in adults for maintenance of intraoperative mydr…"
 ---
 

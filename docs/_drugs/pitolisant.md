@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 489
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Pitolisant: predicted new indication insomnia (disease) (evidence level L4). Approved use: Improving wakefulness and reducing excessive daytime sleepiness (EDS)…"
 monitor_inn: "Pitolisant"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]

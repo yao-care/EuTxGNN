@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Lipegfilgrastim"
 predicted_indications: ["primary release disorder of platelets", "severe nonproliferative diabetic retinopathy", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "diabetic retinopathy"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Lipegfilgrastim: predicted new indication primary release disorder of platelets (evidence level L5). Approved use: Lonquex is indicated in adults and in children 2 years of age and old…"
 ---
 

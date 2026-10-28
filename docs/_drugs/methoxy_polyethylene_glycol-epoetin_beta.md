@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Methoxy polyethylene glycol-epoetin beta"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Methoxy Polyethylene Glycol-Epoetin Beta: predicted new indication primary release disorder of platelets (evidence level L5). Approved use: Treatment of symptomatic anaemia associated with chronic ki…"
 ---
 

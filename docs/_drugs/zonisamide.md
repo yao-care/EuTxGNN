@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 687
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Zonisamide"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
 description: "Zonisamide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Zonegran is indicated as: monotherapy in the treatment of partial sei…"

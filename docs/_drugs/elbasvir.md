@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 214
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Elbasvir: predicted new indication Hepatitis B virus infection (evidence level L4). Approved use: Chronic hepatitis C (CHC) in adults and paediatric patients 12 years…"
 monitor_inn: "Elbasvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Lonafarnib"
 predicted_indications: ["leprosy"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Lonafarnib: predicted new indication leprosy (evidence level L5). Approved use: Zokinvy is indicated for the treatment of patients 12 months of age a…"
 ---
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 553
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Selinexor: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Multiple myeloma: in combination with bortezomib and dexamethasone af…"
 monitor_inn: "Selinexor"
 predicted_indications: ["drug-induced osteoporosis"]

@@ -5,7 +5,7 @@ layout: default
 title: Onasemnogene Abeparvovec
 parent: Known Uses Only (No New Predictions)
 nav_order: 448
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Onasemnogene Abeparvovec: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Onasemnogene abeparvovec"
 predicted_indications: []

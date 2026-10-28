@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Duvelisib"
 predicted_indications: ["Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Duvelisib: predicted new indication Hodgkins lymphoma (evidence level L5). Approved use: Copiktra monotherapy is indicated for the treatment of adult patients…"
 ---
 

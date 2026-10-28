@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 403
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Metreleptin: predicted new indication Familial generalized lentiginosis (evidence level L5). Approved use: Adjunct to diet as replacement therapy for complications of leptin de…"
 monitor_inn: "Metreleptin"
 predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "Moynahan syndrome", "rhabdoid tumor", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "acromelanosis", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "benign neoplasm of adrenal gland", "peripheral nerve schwannoma"]

@@ -5,7 +5,7 @@ layout: default
 title: Apalutamide
 parent: Known Uses Only (No New Predictions)
 nav_order: 55
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Apalutamide: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Apalutamide"
 predicted_indications: []

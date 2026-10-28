@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Insulin degludec"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Insulin Degludec: predicted new indication autoimmune oophoritis (evidence level L5). Approved use: Treatment of diabetes mellitus in adults"
 ---
 

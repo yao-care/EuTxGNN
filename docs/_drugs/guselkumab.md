@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Guselkumab"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "renal osteodystrophy", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Guselkumab: predicted new indication drug-induced osteoporosis (evidence level L5). Approved use: Adult plaque psoriasisTremfya is indicated for the treatment of moder…"
 ---
 

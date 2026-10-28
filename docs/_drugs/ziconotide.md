@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 682
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Ziconotide: predicted new indication Migraine disorder (evidence level L4). Approved use: Treatment of severe…"
 monitor_inn: "Ziconotide"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "obesity disorder", "transient ischemic attack (disease)", "open-angle glaucoma", "obsolete neurogenic bladder (disease)", "primary hereditary glaucoma", "preeclampsia"]

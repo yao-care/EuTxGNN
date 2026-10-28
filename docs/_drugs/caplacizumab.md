@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Caplacizumab"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "fetal and neonatal alloimmune thrombocytopenia", "hemophilia", "platelet-type bleeding disorder"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Caplacizumab: predicted new indication primary release disorder of platelets (evidence level L5). Approved use: Cablivi is indicated for the treatment of adults experiencing an epis…"
 ---
 

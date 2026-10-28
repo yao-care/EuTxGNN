@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Leflunomide"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Leflunomide: predicted new indication brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Leflunomide is indicated for the treatment of adult patients with: ac…"
 ---
 

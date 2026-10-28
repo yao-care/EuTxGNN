@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Octreotide"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Octreotide: predicted new indication vulvar inverted follicular keratosis (evidence level L5). Approved use: Oczyesa is indicated for maintenance treatment in adult patients with…"
 ---
 

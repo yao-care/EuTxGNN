@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Galcanezumab"
 predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Galcanezumab: predicted new indication heparin cofactor 2 deficiency (evidence level L5). Approved use: Emgality is indicated for the prophylaxis of migraine in adults who h…"
 ---
 

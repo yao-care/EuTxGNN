@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 512
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Regadenoson: predicted new indication Anaphylaxis (evidence level L5). Approved use: Pharmacological stress agent for radionuclide myocardial perfusion im…"
 monitor_inn: "Regadenoson"
 predicted_indications: ["anaphylaxis", "food-dependent exercise-induced anaphylaxis", "esotropia", "pseudoallergy"]

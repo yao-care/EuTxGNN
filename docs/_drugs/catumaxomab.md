@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 135
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Catumaxomab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Intraperitoneal treatment of malignant ascites in adults with EpCAM-p…"
 monitor_inn: "Catumaxomab"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "drug-induced osteoporosis", "diabetic retinopathy"]

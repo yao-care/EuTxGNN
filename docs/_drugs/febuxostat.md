@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 254
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Febuxostat: predicted new indication hypouricemia, renal (evidence level L4). Approved use: Treatment of chronic hyperuricaemia where urate deposition has alread…"
 monitor_inn: "Febuxostat"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]

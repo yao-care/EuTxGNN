@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 450
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Oritavancin"
 predicted_indications: ["Bacteroidaceae infectious disease", "ophthalmic herpes zoster", "Mycoplasma pneumoniae pneumonia"]
 description: "Oritavancin: predicted new indication Bacteroidaceae infectious disease (evidence level L5). Approved use: Tenkasi is indicated for the treatment of acute bacterial skin and sk…"

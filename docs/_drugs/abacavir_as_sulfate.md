@@ -3,18 +3,18 @@ noindex: true
 sitemap: false
 layout: default
 title: Abacavir As Sulfate
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 12
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Abacavir As Sulfate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,51 +33,20 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Abacavir (as Sulfate): Repurposing Assessment — Insufficient Data
+## Abacavir As Sulfate
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Abacavir (as sulfate) is currently not approved in Taiwan, with zero regulatory authorizations on record.
-The TxGNN pipeline has not generated any repurposing predictions for this compound, and critical inputs including original indication and mechanism of action are unavailable.
-A full repurposing assessment **cannot be completed** until foundational data gaps are resolved.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | Not available |
-| Predicted New Indication | No predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A — pipeline incomplete |
+| Original Indication | Not recorded in the local data |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
 | Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Number of Authorizations | 2 (valid: 2) |
 
 ---
 
-## Safety Considerations
-
-Please refer to the SmPC for safety information.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The TxGNN pipeline returned no predicted indications for abacavir (as sulfate), and all drug-level inputs required for repurposing evaluation — including original indication, mechanism of action, and TFDA label data — are currently missing.
-
-**To proceed, the following is needed:**
-
-- **Original indication data**: Retrieve approved use history from global regulatory sources (e.g., FDA, EMA, TFDA)
-- **Mechanism of action (MOA)**: Query DrugBank API using the confirmed DrugBank ID to obtain pharmacological class and target information
-- **TFDA label warnings and contraindications**: Download and parse the SmPC/package insert PDF from the TFDA official website
-- **TxGNN prediction re-run**: Confirm that abacavir's DrugBank ID is correctly mapped in the knowledge graph and re-execute the prediction pipeline
-- **Taiwan regulatory status verification**: Confirm whether any historical authorizations exist that were not captured in the current data pull
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ layout: default
 title: Luspatercept
 parent: Known Uses Only (No New Predictions)
 nav_order: 381
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Luspatercept: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Luspatercept"
 predicted_indications: []

@@ -5,7 +5,7 @@ layout: default
 title: Trifluridine
 parent: Known Uses Only (No New Predictions)
 nav_order: 642
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Trifluridine: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Trifluridine"
 predicted_indications: []

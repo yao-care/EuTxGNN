@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 213
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Elafibranor: predicted new indication amenorrhea (evidence level L5). Approved use: Primary biliary cholangitis (PBC)…"
 monitor_inn: "Elafibranor"
 predicted_indications: ["amenorrhea (disease)"]

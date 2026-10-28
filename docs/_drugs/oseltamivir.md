@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 452
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Oseltamivir: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---

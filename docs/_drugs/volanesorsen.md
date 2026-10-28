@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 674
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Volanesorsen: predicted new indication megaloblastic anemia (disease) (evidence level L5). Approved use: Adjunct to diet in adult patients with genetically confirmed familial…"
 monitor_inn: "Volanesorsen"
 predicted_indications: ["megaloblastic anemia (disease)", "sclerosing cholangitis", "sickle cell disease and related diseases", "sickle cell-hemoglobin c disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "meningococcal infection", "paroxysmal nocturnal hemoglobinuria"]

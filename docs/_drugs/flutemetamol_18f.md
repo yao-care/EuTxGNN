@@ -5,7 +5,7 @@ layout: default
 title: Flutemetamol 18F
 parent: Known Uses Only (No New Predictions)
 nav_order: 267
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Flutemetamol 18F: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Flutemetamol (18F)"
 predicted_indications: []

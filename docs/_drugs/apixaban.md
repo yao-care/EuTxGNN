@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Apixaban"
 predicted_indications: ["migraine disorder"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Apixaban: predicted new indication migraine disorder (evidence level L5). Approved use: Treatment of venous thromboembolism (VTE) and prevention of recurrent…"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Bedaquiline"
 predicted_indications: ["vulvovaginal candidiasis", "fascioliasis", "urea cycle disorder", "esophageal candidiasis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Bedaquiline: predicted new indication Vulvovaginal candidiasis (evidence level L5). Approved use: Pulmonary tuberculosis due to Mycobacterium tuberculosis resistant to…"
 ---
 

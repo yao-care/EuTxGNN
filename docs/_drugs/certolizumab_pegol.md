@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Certolizumab pegol"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Certolizumab Pegol: predicted new indication hypermobility of coccyx (evidence level L5). Approved use: Rheumatoid arthritis Cimzia, in combination with methotrexate (MTX)…"
 ---
 

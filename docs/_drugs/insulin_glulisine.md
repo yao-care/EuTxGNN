@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Insulin glulisine"
 predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Insulin Glulisine: predicted new indication thiamine-responsive dysfunction syndrome (evidence level L5). Approved use: Treatment of adults, adolescents and children…"
 ---
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 203
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Duloxetine: predicted new indication Top-ranked by TxGNN: benign paroxysmal torticollis of infancy . Best-… (evidence level L5). Approved use: Major depressive disorder, diabetic peripheral neuropath…"
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]

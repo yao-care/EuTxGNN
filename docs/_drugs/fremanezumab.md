@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Fremanezumab"
 predicted_indications: ["atrophoderma vermiculata"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Fremanezumab: predicted new indication atrophoderma vermiculata (evidence level L5). Approved use: Ajovy is indicated for prophylaxis of migraine in adults who have at…"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Interferon beta-1b"
 predicted_indications: ["hairy cell leukemia", "autoimmune disease of central nervous system"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Interferon Beta-1B: predicted new indication hairy cell leukemia (evidence level L5). Approved use: Betaferon is indicated for the treatment of patients with a single de…"
 ---
 

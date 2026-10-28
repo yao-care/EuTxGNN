@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 438
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Norethisterone: predicted new indication Amenorrhea (evidence level L4). Approved use: Treatment of moderate to severe symptoms of uterine fibroids in adult…"
 monitor_inn: "Norethisterone"
 predicted_indications: ["amenorrhea (disease)"]

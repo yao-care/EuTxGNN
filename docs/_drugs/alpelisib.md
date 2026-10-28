@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Alpelisib"
 predicted_indications: ["pulmonary hypertension"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Alpelisib: predicted new indication pulmonary hypertension (evidence level L5). Approved use: Piqray is indicated in combination with fulvestrant for the treatment…"
 ---
 

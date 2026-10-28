@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Delamanid"
 predicted_indications: ["allergic urticaria"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Delamanid: predicted new indication allergic urticaria (evidence level L5). Approved use: Deltyba is indicated for use as part of an appropriate combination re…"
 ---
 

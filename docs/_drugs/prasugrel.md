@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 496
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Prasugrel: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Prevention of atherothrombotic events in acute coronary syndrome (UA/…"
 monitor_inn: "Prasugrel"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]

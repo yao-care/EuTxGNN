@@ -3,18 +3,18 @@ noindex: true
 sitemap: false
 layout: default
 title: Acalabrutinib Maleate
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 19
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Acalabrutinib Maleate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,99 +33,21 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Acalabrutinib Maleate: Drug Repurposing Evaluation Report
+## Acalabrutinib Maleate
 {: .text-alpha }
 
----
-
-## One-Sentence Summary
-
-Acalabrutinib maleate is a second-generation BTK (Bruton's Tyrosine Kinase) inhibitor, currently not marketed in Taiwan, with no recorded approvals in the local regulatory database.
-This Evidence Pack contains **no TxGNN-predicted indications** and is missing critical baseline data including mechanism of action details and safety information.
-As a result, a full repurposing evaluation **cannot be completed** with the current data — this report serves as a gap assessment and readiness checklist.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | Not recorded in Evidence Pack |
-| Predicted New Indication | None — TxGNN predictions not available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A (no predictions generated) |
+| Original Indication | Not recorded in the local data |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
 | Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Authorizations | 1 (valid: 1) |
-| Recommended Decision | **Hold** |
 
 ---
 
-## Why Predictions Are Unavailable
-
-The Evidence Pack returned an empty `predicted_indications` array, which indicates the TxGNN prediction pipeline was not completed for this candidate. Two likely causes:
-
-1. **Missing DrugBank ID**: The `drugbank_id` field is null, which means the drug could not be matched to a node in the TxGNN knowledge graph. Without a valid DrugBank entry, neither the Knowledge Graph (KG) method nor the Deep Learning (DL) method can generate repurposing candidates.
-
-2. **Incomplete data inputs**: The `inputs_received` field in the metadata is empty (`[]`), confirming that the pipeline did not receive the necessary input files to run predictions.
-
-Acalabrutinib maleate is the maleate salt form of acalabrutinib (brand name: Calquence, AstraZeneca). The free base form may already exist in DrugBank under a separate entry. Resolving the DrugBank mapping is the single most critical step to unlock TxGNN predictions for this drug.
-
----
-
-## Taiwan Market Information
-
-| Item | Content |
-|------|---------|
-| Market Status | Marketed (valid licences: 1 of 1) |
-| Total Licenses | 0 |
-| Dosage Forms | No records |
-
-No TFDA marketing authorizations were found for acalabrutinib maleate. The drug may be available through compassionate use or clinical trial access in Taiwan, but this is not reflected in the current Evidence Pack.
-
----
-
-## Safety Considerations
-
-No safety data is available in this Evidence Pack. Please refer to the prescribing information (SmPC or USPI for Calquence) for:
-
-- Haemorrhage risk (major bleeding events)
-- Atrial fibrillation / atrial flutter
-- Infections (including opportunistic infections)
-- Cytopenias
-- Second primary malignancies
-- Drug interactions via CYP3A pathway
-
----
-
-## Cytotoxicity
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — selective BTK inhibitor (kinase inhibitor class) |
-| Myelosuppression Risk | Moderate (neutropenia, anaemia, and thrombocytopenia reported) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential, hepatic function, cardiac monitoring (ECG for AF), bleeding assessment |
-| Handling Protection | Handle per institutional cytotoxic drug handling protocols for oral targeted agents |
-
-*Note: Classification is based on drug class knowledge. Formal toxicity data was not available in the Evidence Pack.*
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The Evidence Pack is critically incomplete — no DrugBank ID, no TxGNN predictions, no safety records, and no regulatory authorizations. A repurposing evaluation cannot be responsibly conducted without resolving these foundational data gaps.
-
-**To proceed, the following is needed:**
-
-- [ ] **Resolve DrugBank ID**: Search DrugBank for "acalabrutinib" (free base, DB12493) and confirm whether the maleate salt maps to the same node; update `drugbank_id` in the candidate record
-- [ ] **Re-run TxGNN pipeline**: With a valid DrugBank ID, re-execute both the KG and DL prediction modules to generate repurposing candidates
-- [ ] **Retrieve TFDA prescribing information**: Download and parse the SmPC/仿單 PDF from the TFDA website to populate safety warnings and contraindications (Data Gap DG001 — Blocking)
-- [ ] **Retrieve mechanism of action**: Query the DrugBank API for MOA, pharmacodynamics, and pharmacokinetics data (Data Gap DG002 — High)
-- [ ] **Check EU / FDA approvals**: Acalabrutinib holds FDA approval for CLL/SLL and MCL; confirm whether EMA authorization exists and populate regulatory context accordingly
-- [ ] **Re-generate Evidence Pack**: Once the above inputs are resolved, re-run the full evidence collection pipeline (ClinicalTrials.gov + PubMed) against the top TxGNN-predicted indications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Icosapent ethyl"
 predicted_indications: ["hemoglobinopathy"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Icosapent Ethyl: predicted new indication hemoglobinopathy (evidence level L5). Approved use: Indicated to reduce cardiovascular risk as an adjunct to statin thera…"
 ---
 

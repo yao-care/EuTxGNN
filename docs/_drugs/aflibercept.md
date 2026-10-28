@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 26
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Aflibercept: predicted new indication Esotropia (evidence level L5). Approved use: Neovascular (wet) age-related macular degeneration (AMD)…"
 monitor_inn: "Aflibercept"
 predicted_indications: ["esotropia"]

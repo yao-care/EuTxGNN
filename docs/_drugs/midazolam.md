@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 406
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Midazolam: predicted new indication insomnia (evidence level L3). Approved use: Treatment of prolonged, acute…"
 monitor_inn: "Midazolam"
 predicted_indications: ["insomnia (disease)"]

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 451
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Orlistat"
 predicted_indications: ["hypervitaminosis"]
 description: "Orlistat: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Xenical is indicated in conjunction with a mildly hypocaloric diet fo…"

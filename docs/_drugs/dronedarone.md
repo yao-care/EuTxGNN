@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 200
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Dronedarone: predicted new indication Stroke disorder (evidence level L3). Approved use: Maintenance of sinus rhythm after successful cardioversion in adult…"
 monitor_inn: "Dronedarone"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]

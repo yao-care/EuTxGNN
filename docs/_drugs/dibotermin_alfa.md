@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Dibotermin Alfa: predicted new indication Esotropia (evidence level L5). Approved use: Single-level lumbar interbody spine fusion in adults with degenerativ…"
 monitor_inn: "Dibotermin alfa"
 predicted_indications: ["esotropia", "HER2 positive breast carcinoma", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer", "non-syndromic esophageal malformation", "multifocal choroiditis", "atypical coarctation of aorta"]

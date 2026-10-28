@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 289
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Glucarpidase: predicted new indication Diabetic cataract (evidence level L5). Approved use: Reduction of toxic plasma methotrexate concentration in adults and ch…"
 monitor_inn: "Glucarpidase"
 predicted_indications: ["diabetic cataract", "diabetic retinopathy", "immature cataract", "craniostenosis cataract", "tetanic cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "senile cataract"]

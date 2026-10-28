@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 630
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Toremifene: predicted new indication HIV infectious disease (evidence level L5). Approved use: First line hormone treatment of hormone-dependent metastatic breast c…"
 monitor_inn: "Toremifene"
 predicted_indications: ["HIV infectious disease"]

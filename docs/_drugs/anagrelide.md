@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 48
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Anagrelide: predicted new indication Reactive thrombocytosis (evidence level L4). Approved use: Reduction of elevated platelet counts in at-risk essential thrombocyt…"
 monitor_inn: "Anagrelide"
 predicted_indications: ["reactive thrombocytosis", "inverse Klippel-Trenaunay syndrome"]

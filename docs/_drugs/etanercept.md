@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Etanercept"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Etanercept: predicted new indication hypermobility of coccyx (evidence level L5). Approved use: Rheumatoid arthritis Enbrel in combination with methotrexate is indic…"
 ---
 

@@ -5,7 +5,7 @@ layout: default
 title: Fluciclovine 18F
 parent: Known Uses Only (No New Predictions)
 nav_order: 266
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Fluciclovine 18F: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Fluciclovine (18F)"
 predicted_indications: []

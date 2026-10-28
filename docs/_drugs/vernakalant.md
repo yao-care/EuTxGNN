@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 664
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Vernakalant"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "ABri amyloidosis"]
 description: "Vernakalant: predicted new indication Stroke disorder (evidence level L5). Approved use: Rapid conversion of recent onset atrial fibrillation to sinus rhythm…"

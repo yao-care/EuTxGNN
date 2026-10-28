@@ -5,7 +5,7 @@ layout: default
 title: Vinflunine
 parent: Known Uses Only (No New Predictions)
 nav_order: 671
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Vinflunine: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Vinflunine"
 predicted_indications: []

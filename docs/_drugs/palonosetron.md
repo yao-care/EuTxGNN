@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 462
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Palonosetron"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Palonosetron: predicted new indication Migraine disorder (evidence level L4). Approved use: Aloxi is indicated in adults for: the prevention of acute nausea and…"

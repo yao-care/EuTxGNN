@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 282
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Gilteritinib: predicted new indication Bulbar polio (evidence level L5). Approved use: Monotherapy for adults with relapsed or refractory AML with a FLT3 mu…"
 monitor_inn: "Gilteritinib"
 predicted_indications: ["bulbar polio"]

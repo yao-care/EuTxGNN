@@ -3,18 +3,18 @@ noindex: true
 sitemap: false
 layout: default
 title: Amifampridine Phosphate
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 43
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Amifampridine Phosphate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,61 +33,20 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Amifampridine Phosphate: Evaluation Pending — Prediction Pipeline Incomplete
+## Amifampridine Phosphate
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Amifampridine phosphate is a small-molecule drug with no original indications or approved status recorded in the current Evidence Pack.
-The TxGNN model did not generate any predicted new indications for this compound, most likely due to a failed DrugBank ID mapping that prevented the drug from entering the prediction pipeline.
-As a result, this candidate **cannot be evaluated for repurposing potential** until the underlying data gaps are resolved.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | Not recorded in current dataset |
-| Predicted New Indication | No prediction generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — Model prediction only (pipeline incomplete) |
+| Original Indication | Symptomatic treatment of Lambert-Eaton myasthenic syndrome (LEMS) in adults. |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
 | Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Number of Authorizations | 2 (valid: 2) |
 
 ---
 
-## Why No Prediction Was Generated
-
-The query log reveals a critical upstream failure: a DrugBank search for amifampridine phosphate returned **1 result**, yet the `drugbank_id` field in the Evidence Pack remains `null`. This indicates the match was found but not successfully linked to the candidate record.
-
-Without a valid DrugBank ID, TxGNN's knowledge graph and deep learning models have no anchor node to traverse the drug–disease network. The entire prediction pipeline — from KG-based candidate generation to DL scoring — depends on this mapping as its entry point. A missing DrugBank ID means zero predictions, regardless of the drug's actual repurposing potential.
-
-Compounding this, the mechanism of action (MOA) is also unavailable. Even if predictions were recovered, the mechanistic rationale section could not be constructed without MOA data. Both gaps need to be resolved in tandem.
-
----
-
-## Safety Considerations
-
-Please refer to the SmPC for safety information.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The Evidence Pack for amifampridine phosphate is structurally incomplete — the DrugBank ID mapping failed, no TxGNN predictions were generated, and no safety or regulatory data is available. Repurposing evaluation cannot proceed in the current state.
-
-**To proceed, the following is needed:**
-
-- **Resolve DrugBank ID mapping** — The query log confirms a DrugBank result was found. Manually verify the correct DrugBank ID (likely `DB09117` for amifampridine phosphate / Firdapse) and re-populate the Evidence Pack
-- **Re-run the TxGNN prediction pipeline** after successful DrugBank ID linkage to generate drug–disease scores
-- **Retrieve MOA data from DrugBank** — Needed for mechanistic rationale analysis once predictions are available
-- **Obtain Taiwan TFDA package insert** — Required for safety warnings, contraindications, and S1 safety screening (currently Blocking severity per DG001)
-- **Confirm original approved indication(s)** from international regulatory sources (e.g., FDA/EMA approval for Lambert–Eaton Myasthenic Syndrome) to populate the `original_indications` field
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

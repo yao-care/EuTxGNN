@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Linaclotide"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "insomnia (disease)"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Linaclotide: predicted new indication cauda equina syndrome (evidence level L5). Approved use: Constella is indicated for the symptomatic treatment of moderate to s…"
 ---
 

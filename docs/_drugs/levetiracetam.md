@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Levetiracetam: predicted new indication beta-ketothiolase deficiency (evidence level L5). Approved use: Keppra is indicated as monotherapy in the treatment of partial-onset…"
 ---
 

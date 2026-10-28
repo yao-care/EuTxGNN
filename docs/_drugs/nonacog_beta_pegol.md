@@ -5,7 +5,7 @@ layout: default
 title: Nonacog Beta Pegol
 parent: Known Uses Only (No New Predictions)
 nav_order: 436
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Nonacog Beta Pegol: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Nonacog beta pegol"
 predicted_indications: []

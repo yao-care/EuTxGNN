@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 362
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Lenvatinib: predicted new indication Liposarcoma (evidence level L5). Approved use: Advanced renal cell carcinoma (in combination with pembrolizumab as f…"
 monitor_inn: "lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]

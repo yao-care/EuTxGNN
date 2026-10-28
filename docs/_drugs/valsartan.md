@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 655
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Valsartan: predicted new indication Malignant hypertensive renal disease (evidence level L4). Approved use: Paediatric and adult symptomatic chronic heart failure (Entresto…"
 monitor_inn: "Valsartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]

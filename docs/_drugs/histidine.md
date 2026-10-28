@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "histidine"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Histidine: predicted new indication gastroparesis (disease) (evidence level L5). Approved use: Maapliv is indicated for the treatment of maple syrup urine disease (…"
 ---
 

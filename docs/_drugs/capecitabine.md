@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Capecitabine: predicted new indication Gastric adenocarcinoma and proximal polyposis of the stomach (GAPPS) (evidence level L5). Approved use: Adjuvant treatment of stage III (Dukes' stage C) colon c…"
 ---
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 51
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Andexanet Alfa: predicted new indication Glanzmann thrombasthenia (evidence level L5). Approved use: For adult patients treated with a direct factor Xa (FXa) inhibitor (a…"
 monitor_inn: "Andexanet alfa"
 predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "hemophilia"]

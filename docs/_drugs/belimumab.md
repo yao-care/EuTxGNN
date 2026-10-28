@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Belimumab"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "severe nonproliferative diabetic retinopathy", "autosomal dominant macrothrombocytopenia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Belimumab: predicted new indication primary release disorder of platelets (evidence level L5). Approved use: Benlysta is indicated as add-on therapy in patients aged 5 years and…"
 ---
 

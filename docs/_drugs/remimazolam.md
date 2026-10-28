@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 517
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Remimazolam: predicted new indication Insomnia (evidence level L5). Approved use: Procedural sedation in adults"
 monitor_inn: "remimazolam"
 predicted_indications: ["insomnia (disease)", "alcohol withdrawal delirium"]

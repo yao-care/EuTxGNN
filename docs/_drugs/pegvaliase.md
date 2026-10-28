@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 475
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Pegvaliase: predicted new indication Diabetic retinopathy (evidence level L5). Approved use: Treatment of patients with phenylketonuria (PKU) aged 16 years and ol…"
 monitor_inn: "Pegvaliase"
 predicted_indications: ["diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "diabetic cataract"]

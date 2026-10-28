@@ -3,18 +3,18 @@ noindex: true
 sitemap: false
 layout: default
 title: Irbesartan Hydrochloride
-parent: AI Predictions (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 335
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Irbesartan Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,71 +33,20 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Irbesartan Hydrochloride: Repurposing Evaluation — Data Insufficient to Proceed
+## Irbesartan Hydrochloride
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Irbesartan hydrochloride is a salt formulation of irbesartan, a well-characterized angiotensin II receptor blocker (ARB) class antihypertensive. The TxGNN pipeline returned **no predicted new indications** for this drug entry, and the drug is not currently registered in Taiwan under this specific formulation name. A repurposing evaluation cannot be completed until the drug identifier is resolved and the prediction pipeline is re-run.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | Insufficient data (original indications not captured in this Evidence Pack) |
-| Predicted New Indication | None available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — pipeline output absent; no actual studies |
+| Original Indication | Treatment of essential hypertension. Treatment of renal disease in patients with hypertension and type-2 diabetes mellitus as part of an antihypertensive medicinal-product regimen.; Treatment of essential hypertension. Treatment of renal disease in patients with hypertension and type 2 diabetes mell |
+| EU Market Status | Marketed (valid licences: 5 of 5) |
 | Taiwan Market Status | Not marketed (0 licenses) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Number of Authorizations | 5 (valid: 5) |
 
 ---
 
-## Why No Prediction Is Available
-
-The predicted indications list is empty for this entry. This is most likely a **drug identifier resolution problem**, not a true absence of repurposing candidates. Two specific issues are suspected:
-
-**1. Atypical salt name may have blocked DrugBank mapping.**
-Standard irbesartan is listed in DrugBank as a free base (DB00522), not as a hydrochloride salt. When the pipeline queries "irbesartan hydrochloride," the name normalizer may have failed to resolve it to DB00522, resulting in a null `drugbank_id` and no knowledge graph traversal — and therefore no TxGNN score.
-
-**2. Downstream pipeline skipped due to missing DrugBank ID.**
-The query log confirms a DrugBank search returned one result (`result_status: success`, `result_count: 1`), yet no `drugbank_id` was written into the Evidence Pack. This suggests a parsing or field-mapping failure in the DrugBank collector, not a true data absence.
-
-Until the identifier is correctly resolved to DB00522 (or an equivalent), the TxGNN repurposing score cannot be generated and no evidence sections can be populated.
-
----
-
-## Taiwan Market Information
-
-No authorizations were found in Taiwan for the name "irbesartan hydrochloride." Standard irbesartan (free base) is widely marketed globally under brand names such as Aprovel and Avapro, but this specific salt formulation does not appear in the current TFDA license database.
-
-> **Note:** If the intent was to evaluate standard irbesartan, a separate Evidence Pack should be generated using the INN "irbesartan" to ensure correct TFDA license retrieval.
-
----
-
-## Safety Considerations
-
-Please refer to the SmPC or TFDA prescribing information for safety data. No DDI, warnings, or contraindications were captured in this Evidence Pack.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The Evidence Pack is structurally incomplete — no DrugBank ID was resolved, no TxGNN predictions were generated, and no original indication or safety data was captured. Proceeding with a repurposing evaluation under these conditions would have no evidence basis.
-
-**To proceed, the following is needed:**
-
-- **Fix drug identifier:** Confirm whether "irbesartan hydrochloride" should be normalized and mapped to DrugBank DB00522 (irbesartan). Update the name normalization dictionary in `normalizer.py` if needed.
-- **Re-run evidence pipeline:** After resolving the DrugBank ID, re-run `collect_evidence.py` to generate TxGNN scores and fetch clinical trial / PubMed evidence.
-- **Retrieve MOA data:** Query DrugBank API for DB00522 to obtain mechanism of action (ARB, AT₁ receptor antagonist) and populate the `original_moa` field.
-- **Retrieve TFDA safety data:** Download the TFDA prescribing information PDF for irbesartan and parse warnings, contraindications, and key DDIs.
-- **Consider re-querying under INN "irbesartan":** If the intent is to evaluate the standard free-base formulation, a clean Evidence Pack should be generated using the normalized INN.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
