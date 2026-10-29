@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 478
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
 description: "Pemetrexed: predicted new indication Pleural adenomatoid tumor (evidence level L5). Approved use: Malignant pleural mesothelioma Pemetrexed Fresenius Kabi in combinati…"
@@ -51,8 +51,8 @@ with **7 clinical trials** and **20 publications** currently supporting this dir
 | Predicted New Indication | Pleural adenomatoid tumor |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 2 of 3) |
+| Number of Authorizations | 3 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

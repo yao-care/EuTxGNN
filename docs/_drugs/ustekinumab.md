@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 653
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ustekinumab: predicted new indication Dermatitis (evidence level L2). Approved use: Moderate to severe plaque psoriasis in adults who failed…"
 monitor_inn: "Ustekinumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **dermatitis**, with **6 relate
 | Predicted New Indication | Dermatitis |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
-| EU Market Status | Marketed (valid licences: 13 of 13) |
-| Number of Authorizations | 13 (valid: 13) |
+| EU Market Status | Marketed (valid licences: 12 of 13) |
+| Number of Authorizations | 13 (valid: 12) |
 | Recommended Decision | Hold |
 
 ---

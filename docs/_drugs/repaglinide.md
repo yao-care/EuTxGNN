@@ -5,7 +5,7 @@ layout: default
 title: Repaglinide
 parent: Known Uses Only (No New Predictions)
 nav_order: 518
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Repaglinide: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Repaglinide"
 predicted_indications: []
@@ -43,8 +43,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Repaglinide is indicated in patients with type-2 diabetes (non-insulin-dependent diabetes mellitus (NIDDM)) whose hyperglycaemia can no longer be controlled satisfactorily by diet, weight reduction and exercise. Treatment should be initiated as an adjunct to diet and exercise to lower the blood gluc |
-| EU Market Status | Marketed (valid licences: 6 of 6) |
-| Number of Authorizations | 6 (valid: 6) |
+| EU Market Status | Marketed (valid licences: 5 of 6) |
+| Number of Authorizations | 6 (valid: 5) |
 
 ## EU Market Information
 

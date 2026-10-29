@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 301
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Hydrochlorothiazide: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 5 |
 | Evidence level | Not applicable |
-| Market status in the European Union | Marketed (valid licences: 13 of 13) |
-| Number of Authorizations | 13 (valid: 13) |
+| Market status in the European Union | Marketed (valid licences: 11 of 13) |
+| Number of Authorizations | 13 (valid: 11) |
 
 ## Known uses recorded for this drug
 
@@ -81,8 +81,8 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | EMEA/H/C/002549 | Tolucombi |  | Valid |
 | EMEA/H/C/002676 | Actelsar HCT |  | Valid |
 | EMEA/H/C/000413 | MicardisPlus |  | Valid |
-| EMEA/H/C/000415 | Kinzalkomb |  | Valid |
-| EMEA/H/C/000414 | PritorPlus |  | Valid |
+| EMEA/H/C/000415 | Kinzalkomb |  | Withdrawn |
+| EMEA/H/C/000414 | PritorPlus |  | Withdrawn |
 | EMEA/H/C/001068 | Exforge HCT |  | Valid |
 | EMEA/H/C/001160 | Dafiro HCT |  | Valid |
 | EMEA/H/C/001159 | Copalia HCT |  | Valid |

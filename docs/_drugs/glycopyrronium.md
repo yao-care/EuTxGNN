@@ -5,7 +5,7 @@ layout: default
 title: Glycopyrronium
 parent: Known Uses Only (No New Predictions)
 nav_order: 293
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Glycopyrronium: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Glycopyrronium"
 predicted_indications: []
@@ -43,8 +43,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Symptomatic treatment of severe sialorrhoea (chronic pathological drooling) in children and adolescents aged 3 years and older with chronic neurological disorders.; Enurev Breezhaler is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive |
-| EU Market Status | Marketed (valid licences: 4 of 4) |
-| Number of Authorizations | 4 (valid: 4) |
+| EU Market Status | Marketed (valid licences: 3 of 4) |
+| Number of Authorizations | 4 (valid: 3) |
 
 ## EU Market Information
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 504
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Raloxifene: predicted new indication duodenal ulcer (disease) (evidence level L5). Approved use: Treatment and prevention of osteoporosis in postmenopausal women"
 monitor_inn: "Raloxifene"
 predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **duodenal ulcer**, but this is
 | Predicted New Indication | Duodenal ulcer |
 | TxGNN Prediction Score | 0.9972 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 2 of 3) |
+| Number of Authorizations | 3 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

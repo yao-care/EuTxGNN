@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Insulin aspart"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Insulin Aspart: predicted new indication autoimmune oophoritis (evidence level L5). Approved use: Insulin aspart Sanofi is indicated for the treatment of diabetes mell…"
 ---
 
@@ -48,8 +48,8 @@ Insulin aspart is a rapid-acting insulin analogue. The TxGNN model predicts it m
 | Predicted New Indication | autoimmune oophoritis |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 6 of 6) |
-| Number of Authorizations | 6 (valid: 6) |
+| EU Market Status | Marketed (valid licences: 5 of 6) |
+| Number of Authorizations | 6 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

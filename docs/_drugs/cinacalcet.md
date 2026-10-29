@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 150
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cinacalcet: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 0 |
 | Evidence level | Not applicable |
-| Market status in the European Union | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| Market status in the European Union | Marketed (valid licences: 2 of 3) |
+| Number of Authorizations | 3 (valid: 2) |
 
 ## Known uses recorded for this drug
 
@@ -71,7 +71,7 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | Licence | Product | Dosage form | Status |
 |------|------|------|------|
 | EMEA/H/C/004014 | Cinacalcet Viatris (previously Cinacalcet Mylan) |  | Valid |
-| EMEA/H/C/000570 | Mimpara |  | Valid |
+| EMEA/H/C/000570 | Mimpara |  | Withdrawn |
 | EMEA/H/C/005236 | Cinacalcet Accordpharma |  | Valid |
 
 ## Safety Considerations

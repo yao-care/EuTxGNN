@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Duvelisib"
 predicted_indications: ["Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Duvelisib: predicted new indication Hodgkins lymphoma (evidence level L5). Approved use: Copiktra monotherapy is indicated for the treatment of adult patients…"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **Hodgkins lymphoma**, but none
 | Predicted New Indication | Hodgkins lymphoma |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Not marketed (licences cancelled: 1 of 1) |
+| Number of Authorizations | 1 (valid: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

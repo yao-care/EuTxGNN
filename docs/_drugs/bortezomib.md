@@ -3,7 +3,7 @@ layout: default
 title: Bortezomib
 parent: Known Uses Only (No New Predictions)
 nav_order: 99
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Bortezomib: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0
@@ -44,8 +44,8 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 | Item | Content |
 |------|------|
 | Known uses recorded for this drug | 8 |
-| Market status in the European Union | Marketed (valid licences: 5 of 5) |
-| Number of Authorizations | 5 (valid: 5) |
+| Market status in the European Union | Marketed (valid licences: 4 of 5) |
+| Number of Authorizations | 5 (valid: 4) |
 
 ## Known uses recorded for this drug
 
@@ -77,7 +77,7 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 | EMEA/H/C/005074 | Bortezomib Fresenius Kabi |  | Valid |
 | EMEA/H/C/003984 | Bortezomib Accord |  | Valid |
 | EMEA/H/C/004076 | Bortezomib Sun |  | Valid |
-| EMEA/H/C/004207 | Bortezomib Hospira |  | Valid |
+| EMEA/H/C/004207 | Bortezomib Hospira |  | Withdrawn |
 | EMEA/H/C/000539 | Velcade |  | Valid |
 
 ## Cytotoxicity

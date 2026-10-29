@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 321
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Infliximab: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 8 |
 | Evidence level | Not applicable |
-| Market status in the European Union | Marketed (valid licences: 5 of 5) |
-| Number of Authorizations | 5 (valid: 5) |
+| Market status in the European Union | Marketed (valid licences: 4 of 5) |
+| Number of Authorizations | 5 (valid: 4) |
 
 ## Known uses recorded for this drug
 
@@ -78,7 +78,7 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 |------|------|------|------|
 | EMEA/H/C/004647 | Zessly |  | Valid |
 | EMEA/H/C/000240 | Remicade |  | Valid |
-| EMEA/H/C/002778 | Inflectra |  | Valid |
+| EMEA/H/C/002778 | Inflectra |  | Withdrawn |
 | EMEA/H/C/002576 | Remsima |  | Valid |
 | EMEA/H/C/004020 | Flixabi |  | Valid |
 
