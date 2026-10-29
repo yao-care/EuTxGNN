@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Artenimol. 0 predicted indications."
 permalink: /news/artenimol/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Artenimol News
@@ -32,6 +32,14 @@ This page combines the AI-predicted indications for Artenimol with the latest he
 
 ## Related News (3)
 
+### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+---
+
 ### [Dos ensayos clínicos evalúan la combinación de ixekizumab y tirzepatida en personas con psoriasis o artritis psoriásica y exceso de peso - La Vanguardia](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdzdzLVJ0MHd0TVJiWklhTkRIS3JVWHY0aTRxa0MxSjZGUldTTE43Ui1ycjQ0eUdNaEtFMFlVMWVIc0JMS0ZBR2NRdzVQSnN4ZjlCN3RqOFMxS1JBYnZDWDZUZjQ3eW5oTEMzclo3SmxINkxYWU4zaVpvM3NUSVAwbEhMUWszcnpnNEJIbkh1ZlotMDZMaTkxV3VxT0VoQnAyRDB2UHJmLWY0YjZCV1ktYXlRbkxidmM3RTYzTzV1WVlKSlAzOU5sbFRDay1NZFdCMTlEMVNodExhUGg2TktMbV9JTTNlNGtlRURFaW5nV3ZUcndZTUlUS3BQTU9iUU9h0gGGAkFVX3lxTFBjb1NOZmtjNkp0Y1B4VlA1SGZFSElPUXFWclI4RWhpSVpYSVpPU1oxbTRDbHppNHAyNTRiRVFpem44aFRxZkI1bmhYRXFYb0R5dEpYRUZQMEFCOG5wUWRNYWFXb2QzbGZCUU1oeVRLX0dTbE9RUWRUQmlva3hCc0NxdjA3T1gyVlFNdk1rSlBwam9oYV9aOG9PQWRfeGw4ZFhHM0tmNmw0dnRjVGdjenpxN0x6RjN2VmJOT3NnUUdqOUNGdlQ1dDVHUF9QcVdfR2pVem9iT01VUEJoWTlkQThheEp3WTlENGdMUndfLVJ5dG0wcHVVRnYwaEVhV3J0aDdheTltMXc?oc=5)
 
 2026-10-28 <span class="news-drug-tag">Ixekizumab</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
@@ -45,14 +53,6 @@ Source: [La Vanguardia](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdzd
 2026-10-28 <span class="news-indication-tag">arthritis</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
-
----
-
-### [Comorbilidades y respuesta clínica predicen el abandono de baricitinib en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OEozblh0UWwxcFYxSTdLd2xFdmZ4Qjc1Yk9zSlFyRmhkeU1NT1RDZ2FWbzhqQW95RXFPWHU2MVphWDNPRTRZaTM0Q3hlM2pHeFBick1yNlNjZEhNT3NPVUotLVRJcG1Bb0JkQngyZXIyZExMM1NfWUEyRXphOUZiZnI1TVBCQTZvT3JZNTZ5NG5HaEVxNFdmMlBKMnVrdzZDODF0aUtkWi12VDJLOVBfQy1fV0ExWHlRcGcwVk9BQdIBvAFBVV95cUxNeWVDXzVYUkJpZnU1UEZ4eEUzekZnMkkxSFpoTnhsODliQ3FVMk5ob3JwYTZUQmk2Z0d3dnlic05xYTRjSDdtaF9MTWt1SGgwTDF6WjFuS0ZWdnBfdkV2S3daTlVJaXZVODY5NGY0YkRFUmFUYzlTclJCVW9WLVk4NmJLQmNpeHhOWnFLS1ZQbmRrYnBwbTBtN201REVjbS10d05BUS1rLVoxc29ZRkF4TWlrSk5lckoydjdGRA?oc=5)
-
-2026-10-27 <span class="news-drug-tag">Baricitinib</span> <span class="news-indication-tag">artritis</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OEozblh0UWwxcFYxSTdLd2xFdmZ4Qjc1Yk9zSlFyRmhkeU1NT1RDZ2FWbzhqQW95RXFPWHU2MVphWDNPRTRZaTM0Q3hlM2pHeFBick1yNlNjZEhNT3NPVUotLVRJcG1Bb0JkQngyZXIyZExMM1NfWUEyRXphOUZiZnI1TVBCQTZvT3JZNTZ5NG5HaEVxNFdmMlBKMnVrdzZDODF0aUtkWi12VDJLOVBfQy1fV0ExWHlRcGcwVk9BQdIBvAFBVV95cUxNeWVDXzVYUkJpZnU1UEZ4eEUzekZnMkkxSFpoTnhsODliQ3FVMk5ob3JwYTZUQmk2Z0d3dnlic05xYTRjSDdtaF9MTWt1SGgwTDF6WjFuS0ZWdnBfdkV2S3daTlVJaXZVODY5NGY0YkRFUmFUYzlTclJCVW9WLVk4NmJLQmNpeHhOWnFLS1ZQbmRrYnBwbTBtN201REVjbS10d05BUS1rLVoxc29ZRkF4TWlrSk5lckoydjdGRA?oc=5)
 
 ---
 

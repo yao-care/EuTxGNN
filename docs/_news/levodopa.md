@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
+<strong>Levodopa</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,13 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Dementia cases in US projected to rise dramatically by 2050, study finds - The Guardian](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTT0ZMbDhwVW9vNzJfZGZVdGpkR05BTFVMeG1YZ29GVHROb0lxVXE2dVhrd0JKcTNvYjB1UUNJSFN0WEN3elY4elRpMGl0NVkzeVRRaTZMMVZKcHRhb2JHMVk0N3BCazRaU0JQcUFGbVJWOHc0TlkwaVJhWQ?oc=5)
 
-2026-10-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-10-28 <span class="news-indication-tag">dementia</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTT0ZMbDhwVW9vNzJfZGZVdGpkR05BTFVMeG1YZ29GVHROb0lxVXE2dVhrd0JKcTNvYjB1UUNJSFN0WEN3elY4elRpMGl0NVkzeVRRaTZMMVZKcHRhb2JHMVk0N3BCazRaU0JQcUFGbVJWOHc0TlkwaVJhWQ?oc=5)
-
----
-
-### [The 6 Best Frozen Foods for Cognitive Health, According to Dietitians](https://news.google.com/rss/articles/CBMif0FVX3lxTE9XX1planRRbjhtdEFWN204bTkzUEt2aEhCblBlVGlhNUhneGQyYk9fOVpCc0Q4M21qUW5KSTVMSTR5NzAzM0lleTZCaGtVTm9hVDAtRm0wQ1pRZTZyMXhHQm9GSy1qaklmR0ozTF9vR1REMVFkUFpfNWgwRk9VZk0?oc=5)
-
-2026-10-26 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">AF</span>
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE9XX1planRRbjhtdEFWN204bTkzUEt2aEhCblBlVGlhNUhneGQyYk9fOVpCc0Q4M21qUW5KSTVMSTR5NzAzM0lleTZCaGtVTm9hVDAtRm0wQ1pRZTZyMXhHQm9GSy1qaklmR0ozTF9vR1REMVFkUFpfNWgwRk9VZk0?oc=5)
 
 ---
 

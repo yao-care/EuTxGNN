@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Ustekinumab?">
-<strong>Ustekinumab</strong> currently has <strong>14 news articles</strong>, with 10 predicted indications.
+<strong>Ustekinumab</strong> currently has <strong>16 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -43,15 +43,7 @@ This page combines the AI-predicted indications for Ustekinumab with the latest 
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
-
-### [Adipositas und Typ-1-Diabetes: Operation schlägt Medikamente bei Gewichtsverlust](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
-
-2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
-
----
+## Related News (16)
 
 ### [Giornata mondiale della psoriasi, quante persone ne soffrono al mondo - Sky TG24](https://news.google.com/rss/articles/CBMijAFBVV95cUxONWs3NmdVNGkxNmlpVW8zQlBTSHpkV1pteUR3cWI2b2MwNmxQZ2RfbGhYWVhtY0w1bXB5MV9RZUVuLWFGWkljb2E2ZGxfaWxYelNudDR1bFh1WXBqX3A4WFVZMUVhZGJjN0w4NEducmU2VGlsRm5vLTlaTnVEUnEzMzFpLXB4UjhYZ1psdA?oc=5)
 
@@ -61,11 +53,43 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMijAFBVV95cUxONWs3NmdV
 
 ---
 
+### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+---
+
+### [Diabetes could give clues to treat cancer - as disease supercharges immune cells - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3p5dXZJRWF6bEgyc19od1Bjd2tuSDhmOVItdENrY3MtRXFEMndaQmJiUjdmZFFCamZnWHhmSlhZYlktMlpsVFFkaHNkNllINGpLWGVzdDU4VXNRaEd5RklITDNVeGFqd2x5MDFzYzRTRzNrRUcyWEpfLWZZMU81cGlWWkpBQ0tzckdR?oc=5)
+
+2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3p5dXZJRWF6bEgyc19od1Bjd2tuSDhmOVItdENrY3MtRXFEMndaQmJiUjdmZFFCamZnWHhmSlhZYlktMlpsVFFkaHNkNllINGpLWGVzdDU4VXNRaEd5RklITDNVeGFqd2x5MDFzYzRTRzNrRUcyWEpfLWZZMU81cGlWWkpBQ0tzckdR?oc=5)
+
+---
+
+### [Adipositas und Typ-1-Diabetes: Operation schlägt Medikamente bei Gewichtsverlust](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
+
+2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
+
+---
+
 ### [Dos ensayos clínicos evalúan la combinación de ixekizumab y tirzepatida en personas con psoriasis o artritis psoriásica y exceso de peso - La Vanguardia](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdzdzLVJ0MHd0TVJiWklhTkRIS3JVWHY0aTRxa0MxSjZGUldTTE43Ui1ycjQ0eUdNaEtFMFlVMWVIc0JMS0ZBR2NRdzVQSnN4ZjlCN3RqOFMxS1JBYnZDWDZUZjQ3eW5oTEMzclo3SmxINkxYWU4zaVpvM3NUSVAwbEhMUWszcnpnNEJIbkh1ZlotMDZMaTkxV3VxT0VoQnAyRDB2UHJmLWY0YjZCV1ktYXlRbkxidmM3RTYzTzV1WVlKSlAzOU5sbFRDay1NZFdCMTlEMVNodExhUGg2TktMbV9JTTNlNGtlRURFaW5nV3ZUcndZTUlUS3BQTU9iUU9h0gGGAkFVX3lxTFBjb1NOZmtjNkp0Y1B4VlA1SGZFSElPUXFWclI4RWhpSVpYSVpPU1oxbTRDbHppNHAyNTRiRVFpem44aFRxZkI1bmhYRXFYb0R5dEpYRUZQMEFCOG5wUWRNYWFXb2QzbGZCUU1oeVRLX0dTbE9RUWRUQmlva3hCc0NxdjA3T1gyVlFNdk1rSlBwam9oYV9aOG9PQWRfeGw4ZFhHM0tmNmw0dnRjVGdjenpxN0x6RjN2VmJOT3NnUUdqOUNGdlQ1dDVHUF9QcVdfR2pVem9iT01VUEJoWTlkQThheEp3WTlENGdMUndfLVJ5dG0wcHVVRnYwaEVhV3J0aDdheTltMXc?oc=5)
 
 2026-10-28 <span class="news-drug-tag">Ixekizumab</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
 
 Source: [La Vanguardia](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdzdzLVJ0MHd0TVJiWklhTkRIS3JVWHY0aTRxa0MxSjZGUldTTE43Ui1ycjQ0eUdNaEtFMFlVMWVIc0JMS0ZBR2NRdzVQSnN4ZjlCN3RqOFMxS1JBYnZDWDZUZjQ3eW5oTEMzclo3SmxINkxYWU4zaVpvM3NUSVAwbEhMUWszcnpnNEJIbkh1ZlotMDZMaTkxV3VxT0VoQnAyRDB2UHJmLWY0YjZCV1ktYXlRbkxidmM3RTYzTzV1WVlKSlAzOU5sbFRDay1NZFdCMTlEMVNodExhUGg2TktMbV9JTTNlNGtlRURFaW5nV3ZUcndZTUlUS3BQTU9iUU9h0gGGAkFVX3lxTFBjb1NOZmtjNkp0Y1B4VlA1SGZFSElPUXFWclI4RWhpSVpYSVpPU1oxbTRDbHppNHAyNTRiRVFpem44aFRxZkI1bmhYRXFYb0R5dEpYRUZQMEFCOG5wUWRNYWFXb2QzbGZCUU1oeVRLX0dTbE9RUWRUQmlva3hCc0NxdjA3T1gyVlFNdk1rSlBwam9oYV9aOG9PQWRfeGw4ZFhHM0tmNmw0dnRjVGdjenpxN0x6RjN2VmJOT3NnUUdqOUNGdlQ1dDVHUF9QcVdfR2pVem9iT01VUEJoWTlkQThheEp3WTlENGdMUndfLVJ5dG0wcHVVRnYwaEVhV3J0aDdheTltMXc?oc=5)
+
+---
+
+### [Stigmatisierung junger Psoriasis-Patienten: IFPA startet Kampagne - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN19GUHAyVE8tXzgxT19jUFFxY0wzc2pjS05EMUxXN0hRME1nOGg3d2xBeG1jMldIcGZ6aEkzNFlZTjA3MmxfWS1GRnhwd1RJa2pkb1RORDcxNlZSN0hfdnNWd1dja1pnX0lla1Y4M2JPUmZfMVJibldRcG1scjRTd2JuR1ZZYVJhV3NRT0lhNUtmNlFoZUtYM2RJZ1pqeko3ak5KbmNiM1N6MnEwa3RZWXU5bFM?oc=5)
+
+2026-10-28 <span class="news-indication-tag">psoriasis</span>
+
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN19GUHAyVE8tXzgxT19jUFFxY0wzc2pjS05EMUxXN0hRME1nOGg3d2xBeG1jMldIcGZ6aEkzNFlZTjA3MmxfWS1GRnhwd1RJa2pkb1RORDcxNlZSN0hfdnNWd1dja1pnX0lla1Y4M2JPUmZfMVJibldRcG1scjRTd2JuR1ZZYVJhV3NRT0lhNUtmNlFoZUtYM2RJZ1pqeko3ak5KbmNiM1N6MnEwa3RZWXU5bFM?oc=5)
 
 ---
 
@@ -85,6 +109,14 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2dCbGlS
 
 ---
 
+### [Doctor issues warning to millions taking statins, ramipril and metformin over 'hospital admissions' - Irish Mirror](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkVBejNRSjMxVTJVdDlySFNZYmdLZGJLdjJIOVd5Si1XQlhlZjBqeDVUMW1lMDVXMXF2UWRlUHY3Z3o1Z19SYy1Bd0lhZERNQ01lTnNDaW1ibVVWN1ZiTUtqdV9NcXQ4VmZUc1FFZGRxZVlQY1QzUlVwcXFWUGVaNUdKeXBVNGxQNWtUS2I0UmQ4NGtyRzBzMy1HMnZWamRHZnfSAacBQVVfeXFMTWk1cWxSdXgwS0lTeHpQWTFNQ3BGRjJySDFFSnRsY19NcGdURXI4bmktb1NIbS14Zm0tSmhrd1FDcXIwRzRodWN6Z2dOZW41X044bDc2WFA1V2VadzVwLTQxb3hqTWlEdS1zY01kSzNlenkwU2RlTWZVOXJzYUw3eWJaa2thckk1YlRtak9XcDEwelg1MXU1SVpyTkVTdkVYYkxxOWI0dmc?oc=5)
+
+2026-10-28 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+
+Source: [Irish Mirror](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkVBejNRSjMxVTJVdDlySFNZYmdLZGJLdjJIOVd5Si1XQlhlZjBqeDVUMW1lMDVXMXF2UWRlUHY3Z3o1Z19SYy1Bd0lhZERNQ01lTnNDaW1ibVVWN1ZiTUtqdV9NcXQ4VmZUc1FFZGRxZVlQY1QzUlVwcXFWUGVaNUdKeXBVNGxQNWtUS2I0UmQ4NGtyRzBzMy1HMnZWamRHZnfSAacBQVVfeXFMTWk1cWxSdXgwS0lTeHpQWTFNQ3BGRjJySDFFSnRsY19NcGdURXI4bmktb1NIbS14Zm0tSmhrd1FDcXIwRzRodWN6Z2dOZW41X044bDc2WFA1V2VadzVwLTQxb3hqTWlEdS1zY01kSzNlenkwU2RlTWZVOXJzYUw3eWJaa2thckk1YlRtak9XcDEwelg1MXU1SVpyTkVTdkVYYkxxOWI0dmc?oc=5)
+
+---
+
 ### [El apoyo familiar mejora el control de la diabetes tipo 1 en niños y adolescentes - Canal Diabetes](https://news.google.com/rss/articles/CBMirAFBVV95cUxNWm83M25sUXpQcThSUUdXMmpYM1dpdDhGVXhfOWpzYXhBZDhpbkhrNU1kNmxpUFRLXzhpM2dGLUJPME9tMFhmRlRhUzNRNV8tQzRvRjhMZXBJMUlEdXhvX2I4T2g2OHd1SEJBTDd4c0JpTXA1UndCX1lBeERPbkljbzdKUWMxdF9Vcnd0OS1xaGdtanFCeWZ1S0FWYTF6RjdWQk9pNlZwQkJndTlE?oc=5)
 
 2026-10-28 <span class="news-indication-tag">diabetes</span>
@@ -98,14 +130,6 @@ Source: [Canal Diabetes](https://news.google.com/rss/articles/CBMirAFBVV95cUxNWm
 2026-10-28 <span class="news-indication-tag">diabete</span>
 
 Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ1Zackpjanpkb1Z0LWQ2d2RkTUsyM3NFTUI1RlZialdWLUQ3Y05OWUt0MUUzYjIyTlRaTktvTEt4bXBCd1RYVXFRNTRCSE9SZ2ZTWDdxREhUSlIzM1h0d203M2JITnBRd0RJRlNwdG9mTFRtZVM5bHluaFpwOGZiVGtKWU5WX3NWRHhwRnFwblVXaFUtQzlZNElqWWRZUUJqTFlDVmtRX3VmUmt2TGk5bHJ5NndTWm5aZy1IMFF3?oc=5)
-
----
-
-### [Typ-2-Diabetes und MASLD: Warum leitliniengerechte Therapie oft ausbleibt - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjRaNl9mOTR6NlVNR2IyX2llNlN1N0pMOTdfNjN6SUl3cGw2bVZXdUkwdHFLOHdFOHczWkNDMGkyV1R4SUUwMGhhbjdmX21DWkhpcERlSHMtWHUySnltVURHNWxjbnJjQlpPdGw3QUZjUlNSRk5GUV9ncmw0T3p6VjVhV2hhRF93Rm1GbjlmNlktTFRDWUNxT0FjRTNfNWk5akxjTmdQWQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">diabetes</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjRaNl9mOTR6NlVNR2IyX2llNlN1N0pMOTdfNjN6SUl3cGw2bVZXdUkwdHFLOHdFOHczWkNDMGkyV1R4SUUwMGhhbjdmX21DWkhpcERlSHMtWHUySnltVURHNWxjbnJjQlpPdGw3QUZjUlNSRk5GUV9ncmw0T3p6VjVhV2hhRF93Rm1GbjlmNlktTFRDWUNxT0FjRTNfNWk5akxjTmdQWQ?oc=5)
 
 ---
 
@@ -130,14 +154,6 @@ Source: [El Obrero](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQmdUbkY
 2026-10-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
 
 Source: [socialfarma](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMjlLRkl4alB6MGlXNWg5WDBqUENQWFNhQ003c1IzSF8zbXhwbEFGdTdzTGZnNUtlVmtvMFVudDFPTVcwSjhVSlZRMG1qQk42WGNVcGxreFNwWU16dERaSnVRVUk4V3ItaktSS0FidWpqTVRiTS1xS3pySHY0YS1QQlQ4LWZya2R2OHN0czZPZFdxOXNRU3NlYkJnM3FHbTBldVVUTnVGOA?oc=5)
-
----
-
-### [Abbott lanza una guía para mejorar el autocuidado de las personas con diabetes tipo 2 tratadas con insulina basal - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZXctSmloRjZ0SWUxMUJ3Y2RISjJkSThrRXB1ZHp4ZjVBRzN6YXVqR3Nnbno3b3pXN1NPWkNKYW5USHEzLTR5WXFSQ1pDbklPZWtJZ05mSEhlNUsyaXc3ZmtjT01zZUlqc0U4eEJLZ2dDa3pmWTFRcDRKUG9qWDZER1FDV3VPZ2hMdzNuMV9TbWNZaGtXSlhGOFNIOFFCaWV0cHdHUmF3bll3a1dEM0FYX2FxVlpXYXZkV0xEN0k2NUV4Z9IBvAFBVV95cUxPVGRqYTBzWlJhbHpCaVctcFhnNlVwbjNzQ1E5NEVibDFPYU5UTjlVV3lYMmhxcnFJR3M2dHZlQzNKRnh2YWwzOWVpM19KN2gyZ0RkMXZMN0FHU0pybEgzNGs3c0daLWFZVkpOUTFTQmRWV3Y0bkNoVWhvTnU2bVp2VkRFV1RwWHRDVloyWHVIcGpuS3pfbHl4aUtvWWVmeS1PT09vV3lDdHVSdkNoSVNraFdLTXJ3Y3AtQ2dEaA?oc=5)
-
-2026-10-27 <span class="news-indication-tag">diabetes</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZXctSmloRjZ0SWUxMUJ3Y2RISjJkSThrRXB1ZHp4ZjVBRzN6YXVqR3Nnbno3b3pXN1NPWkNKYW5USHEzLTR5WXFSQ1pDbklPZWtJZ05mSEhlNUsyaXc3ZmtjT01zZUlqc0U4eEJLZ2dDa3pmWTFRcDRKUG9qWDZER1FDV3VPZ2hMdzNuMV9TbWNZaGtXSlhGOFNIOFFCaWV0cHdHUmF3bll3a1dEM0FYX2FxVlpXYXZkV0xEN0k2NUV4Z9IBvAFBVV95cUxPVGRqYTBzWlJhbHpCaVctcFhnNlVwbjNzQ1E5NEVibDFPYU5UTjlVV3lYMmhxcnFJR3M2dHZlQzNKRnh2YWwzOWVpM19KN2gyZ0RkMXZMN0FHU0pybEgzNGs3c0daLWFZVkpOUTFTQmRWV3Y0bkNoVWhvTnU2bVp2VkRFV1RwWHRDVloyWHVIcGpuS3pfbHl4aUtvWWVmeS1PT09vV3lDdHVSdkNoSVNraFdLTXJ3Y3AtQ2dEaA?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Enfortumab Vedotin. 9 predicted indications."
 permalink: /news/enfortumab-vedotin/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Enfortumab Vedotin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Enfortumab Vedotin?">
-<strong>Enfortumab Vedotin</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
+<strong>Enfortumab Vedotin</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ This page combines the AI-predicted indications for Enfortumab Vedotin with the 
 
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [La combinación de durvalumab y enfortumab vedotina reduce un 42% el riesgo de muerte en cáncer de vejiga músculo-invasivo](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUFJQQm56UDFua20zNzhpTVFNZEh4SkhrVmdIX25GQzZBTjRHdzhFc2pwN2d4Xy1QLWdRbkVUZmRqY1o3bkZmak12MmJOQlg4UTZOYmY4eUFBLVhZQ09rRmhoQUtsQ1RsT1pzczRSX3RZTDVLaklkYi11T21IdjllLVBXeWNiUlNQZ0c1YnlhYVJ5U3NxVExPZDVRekxNbGpqbm1TczNYZ3I4eTd6UmJMRUxQdzE2cm1pNE1Qc1ZEZmp1WUMwbTJVTi1USDl4QXZEVlZZ?oc=5)
 
 2026-10-28 <span class="news-drug-tag">Durvalumab</span> <span class="news-drug-tag">Enfortumab Vedotin</span>
 
 Source: [iSanidad](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUFJQQm56UDFua20zNzhpTVFNZEh4SkhrVmdIX25GQzZBTjRHdzhFc2pwN2d4Xy1QLWdRbkVUZmRqY1o3bkZmak12MmJOQlg4UTZOYmY4eUFBLVhZQ09rRmhoQUtsQ1RsT1pzczRSX3RZTDVLaklkYi11T21IdjllLVBXeWNiUlNQZ0c1YnlhYVJ5U3NxVExPZDVRekxNbGpqbm1TczNYZ3I4eTd6UmJMRUxQdzE2cm1pNE1Qc1ZEZmp1WUMwbTJVTi1USDl4QXZEVlZZ?oc=5)
-
----
-
-### [Tumore della vescica, una nuova cura per i pazienti più «complicati» e che non possono fare chemioterapia - Corriere della Sera](https://news.google.com/rss/articles/CBMisAJBVV95cUxOXzdrek9faFV4ZHhiUHNoY29pUFc3SG42Wl9YMFFoQUNvekE3MjltdFBEcVdRbFliOHQzZERYVTFscE1xZU92aXF6VWZGX3hfWm9md2pPbGhuYzN6dExoenlVckNnLWR6ZDRCNkdwVm5vVVZGaTlBSTkxR1g2RWhvT0dXX0lHVEdlMUJObDI1a1NMWUc3azEzUU0yQ1p4OFB6d3FVbmFBb0gtX0VWbjI3dUpzaGtWSVNIWlRYckxVNVJlM3dKWk52TTJTdTItcFZCYVVuQ1h4SHJXLWZ4QzZEVC1tcEg0YVFvZ3Y0Y2RoRUNkMXk3Q18zbk1RNlJMVUZZVnF4V2l4ZHFhZWhVR2lIOTZ3Nk5heGtKM2Q0bWhBSm0xLW5WU2V3TmxEWm9pMWxG0gG2AkFVX3lxTFB2SzNPM2RUX2dtOE5nSlk0bUREdUZrYjMwdkpfbVBtN3pNcVJoMzQ5Y0doZ1lJc21OX0JRMDE2OUozeE5wSy1fa0NSV0FtSk1zSnFoTkdZVVdKcFdvbGY0YmVOQ1lIRDl1dXpId3JvU0FWXzdVa1pkM0pxLXJQeFhtTmZCMFYxd05TUzlvUzFDLVc4WVg0OHQ3TnhTa0RkSmJjcGpZYmRjQ0F4Mk1ZamdTYjRuaG00ZENKRWFBQUpENUZ2bUI0TTY2NmdjQkRqUHZFSjhmeXI4b0haX2FBMTBDYlpoYXl6OFMtMDcyYlVYNUZUTHhLczVkVWRWVkQ2aEgtNWFaVWxsQTB3VUZCZmFvZ2FUc1BLdUE1TlVJOWtYXzZhU1VjaUcxVkd5dkw0cGluZFlfQXc?oc=5)
-
-2026-10-26 <span class="news-drug-tag">Durvalumab</span> <span class="news-drug-tag">Enfortumab Vedotin</span> <span class="news-indication-tag">tumor</span>
-
-Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMisAJBVV95cUxOXzdrek9faFV4ZHhiUHNoY29pUFc3SG42Wl9YMFFoQUNvekE3MjltdFBEcVdRbFliOHQzZERYVTFscE1xZU92aXF6VWZGX3hfWm9md2pPbGhuYzN6dExoenlVckNnLWR6ZDRCNkdwVm5vVVZGaTlBSTkxR1g2RWhvT0dXX0lHVEdlMUJObDI1a1NMWUc3azEzUU0yQ1p4OFB6d3FVbmFBb0gtX0VWbjI3dUpzaGtWSVNIWlRYckxVNVJlM3dKWk52TTJTdTItcFZCYVVuQ1h4SHJXLWZ4QzZEVC1tcEg0YVFvZ3Y0Y2RoRUNkMXk3Q18zbk1RNlJMVUZZVnF4V2l4ZHFhZWhVR2lIOTZ3Nk5heGtKM2Q0bWhBSm0xLW5WU2V3TmxEWm9pMWxG0gG2AkFVX3lxTFB2SzNPM2RUX2dtOE5nSlk0bUREdUZrYjMwdkpfbVBtN3pNcVJoMzQ5Y0doZ1lJc21OX0JRMDE2OUozeE5wSy1fa0NSV0FtSk1zSnFoTkdZVVdKcFdvbGY0YmVOQ1lIRDl1dXpId3JvU0FWXzdVa1pkM0pxLXJQeFhtTmZCMFYxd05TUzlvUzFDLVc4WVg0OHQ3TnhTa0RkSmJjcGpZYmRjQ0F4Mk1ZamdTYjRuaG00ZENKRWFBQUpENUZ2bUI0TTY2NmdjQkRqUHZFSjhmeXI4b0haX2FBMTBDYlpoYXl6OFMtMDcyYlVYNUZUTHhLczVkVWRWVkQ2aEgtNWFaVWxsQTB3VUZCZmFvZ2FUc1BLdUE1TlVJOWtYXzZhU1VjaUcxVkd5dkw0cGluZFlfQXc?oc=5)
 
 ---
 

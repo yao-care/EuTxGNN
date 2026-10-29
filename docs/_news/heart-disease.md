@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "heart disease News"
+title: "maladie cardiaque (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about heart disease. 2 articles, 57 related drugs."
+description: "Health news about maladie cardiaque (heart disease). 4 articles, 57 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
-# heart disease News
+# maladie cardiaque (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about heart disease?">
-<strong>heart disease</strong> currently has <strong>2 news articles</strong> and 57 related drugs.
+<p class="key-answer" data-question="What news is there about maladie cardiaque (heart disease)?">
+<strong>maladie cardiaque (heart disease)</strong> currently has <strong>4 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “heart disease” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “maladie cardiaque” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -64,7 +64,15 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (2)
+## Related News (4)
+
+### [Low vitamin B12 is linked to heart disease. Supplements tell a different story](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
+
+2026-10-28
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
+
+---
 
 ### [Beyond Bad Cholesterol: Scientists Uncover a Hidden Driver of Heart Disease](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNldTX05WUDhuTFdLSUtqUXpISkNnNVpqTGtLcTJWNjBlX1FGblpBVExwdlBOVmZOcHNaejlJTjdBbFFTZU9yM0JwU2FIaGZtQ1pTbGNqaGZtS0tINTIwelBXUVlLSlNUN1ZxRUF0LWN2UUJqaGxNYTRCRU5Mb05Xa2stNVgzd3pPb0NCZnhIUTVFNlg4QUViNFBwOE5qMVF1akE?oc=5)
 
@@ -79,6 +87,14 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNldT
 2026-10-27
 
 Source: [SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxOVEVhcWJyWkM1RF9zVjJ3THhwWFhEQnJvcHRaNEIzWl9LYXM5Q0xsMkJCYjRjbC1kRXh6akw3bW5kV00tU0o1aWdubDZLUHZLOURpdzN4TGh1UV83RWU2d3hrRXhZc2IzTW45NUJ1Yld0czlFQ2JCaVRsTThtanNkdGdzUG5rMDl6aW5CSDJSbWFRVWVMVVFwNVo3QzZsdw?oc=5)
+
+---
+
+### [Philippe était condamné à mort par la maladie, sa participation à un essai clinique le sauve: "J'ai retrouvé une vie quasi normale"](https://news.google.com/rss/articles/CBMisgJBVV95cUxNbE5zUG9LT1c5c2JzY2l2VTNmMkp3UDU3eGQwbkczX1A1eDhoNTkxSTVWMlpwaHNVLXhzRERCMTkzcHdJRkhFZlptYmpLdTNLcVdLZ3hZRkxFOHlDeU15aUV5REp2Rlh1R3I0bU9ONHFzTnFXODBYQXAzcXVSVGhrTkRiUFVmY2VYYzVHMHJGeWMzRDgtajFaYlJoR3pKMTFSLWx5Uk5xczZlWWVKQmtvSzdyTGFTOXB1THZxR2dlbG9CWG5Na2RHSGtCMGF5R01QbGI4amJBcGw5TUJXbmlrZ29waGxqbUpPbjV6Y1FSRWVmRlJlOVJXeTlpVFdjWndiSU1EWnJ2Uk1uVW5HelAzNlhpeTdmeGFZUThWRThySFZJcnRZNzJLYVNOcFN3c2FKTFE?oc=5)
+
+2026-10-26
+
+Source: [L'Avenir](https://news.google.com/rss/articles/CBMisgJBVV95cUxNbE5zUG9LT1c5c2JzY2l2VTNmMkp3UDU3eGQwbkczX1A1eDhoNTkxSTVWMlpwaHNVLXhzRERCMTkzcHdJRkhFZlptYmpLdTNLcVdLZ3hZRkxFOHlDeU15aUV5REp2Rlh1R3I0bU9ONHFzTnFXODBYQXAzcXVSVGhrTkRiUFVmY2VYYzVHMHJGeWMzRDgtajFaYlJoR3pKMTFSLWx5Uk5xczZlWWVKQmtvSzdyTGFTOXB1THZxR2dlbG9CWG5Na2RHSGtCMGF5R01QbGI4amJBcGw5TUJXbmlrZ29waGxqbUpPbjV6Y1FSRWVmRlJlOVJXeTlpVFdjWndiSU1EWnJ2Uk1uVW5HelAzNlhpeTdmeGFZUThWRThySFZJcnRZNzJLYVNOcFN3c2FKTFE?oc=5)
 
 ---
 

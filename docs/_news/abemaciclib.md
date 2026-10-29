@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Abemaciclib. 0 predicted indications."
 permalink: /news/abemaciclib/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Abemaciclib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>5 news articles</strong>, with 0 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>7 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (7)
+
+### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+---
 
 ### [Dos ensayos clínicos evalúan la combinación de ixekizumab y tirzepatida en personas con psoriasis o artritis psoriásica y exceso de peso - La Vanguardia](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdzdzLVJ0MHd0TVJiWklhTkRIS3JVWHY0aTRxa0MxSjZGUldTTE43Ui1ycjQ0eUdNaEtFMFlVMWVIc0JMS0ZBR2NRdzVQSnN4ZjlCN3RqOFMxS1JBYnZDWDZUZjQ3eW5oTEMzclo3SmxINkxYWU4zaVpvM3NUSVAwbEhMUWszcnpnNEJIbkh1ZlotMDZMaTkxV3VxT0VoQnAyRDB2UHJmLWY0YjZCV1ktYXlRbkxidmM3RTYzTzV1WVlKSlAzOU5sbFRDay1NZFdCMTlEMVNodExhUGg2TktMbV9JTTNlNGtlRURFaW5nV3ZUcndZTUlUS3BQTU9iUU9h0gGGAkFVX3lxTFBjb1NOZmtjNkp0Y1B4VlA1SGZFSElPUXFWclI4RWhpSVpYSVpPU1oxbTRDbHppNHAyNTRiRVFpem44aFRxZkI1bmhYRXFYb0R5dEpYRUZQMEFCOG5wUWRNYWFXb2QzbGZCUU1oeVRLX0dTbE9RUWRUQmlva3hCc0NxdjA3T1gyVlFNdk1rSlBwam9oYV9aOG9PQWRfeGw4ZFhHM0tmNmw0dnRjVGdjenpxN0x6RjN2VmJOT3NnUUdqOUNGdlQ1dDVHUF9QcVdfR2pVem9iT01VUEJoWTlkQThheEp3WTlENGdMUndfLVJ5dG0wcHVVRnYwaEVhV3J0aDdheTltMXc?oc=5)
 
@@ -45,6 +53,14 @@ Source: [La Vanguardia](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdzd
 2026-10-28 <span class="news-indication-tag">arthritis</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
+
+---
+
+### [Low vitamin B12 is linked to heart disease. Supplements tell a different story](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
+
+2026-10-28 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
 
 ---
 
@@ -64,11 +80,11 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxOVEVh
 
 ---
 
-### [Comorbilidades y respuesta clínica predicen el abandono de baricitinib en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OEozblh0UWwxcFYxSTdLd2xFdmZ4Qjc1Yk9zSlFyRmhkeU1NT1RDZ2FWbzhqQW95RXFPWHU2MVphWDNPRTRZaTM0Q3hlM2pHeFBick1yNlNjZEhNT3NPVUotLVRJcG1Bb0JkQngyZXIyZExMM1NfWUEyRXphOUZiZnI1TVBCQTZvT3JZNTZ5NG5HaEVxNFdmMlBKMnVrdzZDODF0aUtkWi12VDJLOVBfQy1fV0ExWHlRcGcwVk9BQdIBvAFBVV95cUxNeWVDXzVYUkJpZnU1UEZ4eEUzekZnMkkxSFpoTnhsODliQ3FVMk5ob3JwYTZUQmk2Z0d3dnlic05xYTRjSDdtaF9MTWt1SGgwTDF6WjFuS0ZWdnBfdkV2S3daTlVJaXZVODY5NGY0YkRFUmFUYzlTclJCVW9WLVk4NmJLQmNpeHhOWnFLS1ZQbmRrYnBwbTBtN201REVjbS10d05BUS1rLVoxc29ZRkF4TWlrSk5lckoydjdGRA?oc=5)
+### [Philippe était condamné à mort par la maladie, sa participation à un essai clinique le sauve: "J'ai retrouvé une vie quasi normale"](https://news.google.com/rss/articles/CBMisgJBVV95cUxNbE5zUG9LT1c5c2JzY2l2VTNmMkp3UDU3eGQwbkczX1A1eDhoNTkxSTVWMlpwaHNVLXhzRERCMTkzcHdJRkhFZlptYmpLdTNLcVdLZ3hZRkxFOHlDeU15aUV5REp2Rlh1R3I0bU9ONHFzTnFXODBYQXAzcXVSVGhrTkRiUFVmY2VYYzVHMHJGeWMzRDgtajFaYlJoR3pKMTFSLWx5Uk5xczZlWWVKQmtvSzdyTGFTOXB1THZxR2dlbG9CWG5Na2RHSGtCMGF5R01QbGI4amJBcGw5TUJXbmlrZ29waGxqbUpPbjV6Y1FSRWVmRlJlOVJXeTlpVFdjWndiSU1EWnJ2Uk1uVW5HelAzNlhpeTdmeGFZUThWRThySFZJcnRZNzJLYVNOcFN3c2FKTFE?oc=5)
 
-2026-10-27 <span class="news-drug-tag">Baricitinib</span> <span class="news-indication-tag">artritis</span>
+2026-10-26 <span class="news-indication-tag">maladie cardiaque</span>
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OEozblh0UWwxcFYxSTdLd2xFdmZ4Qjc1Yk9zSlFyRmhkeU1NT1RDZ2FWbzhqQW95RXFPWHU2MVphWDNPRTRZaTM0Q3hlM2pHeFBick1yNlNjZEhNT3NPVUotLVRJcG1Bb0JkQngyZXIyZExMM1NfWUEyRXphOUZiZnI1TVBCQTZvT3JZNTZ5NG5HaEVxNFdmMlBKMnVrdzZDODF0aUtkWi12VDJLOVBfQy1fV0ExWHlRcGcwVk9BQdIBvAFBVV95cUxNeWVDXzVYUkJpZnU1UEZ4eEUzekZnMkkxSFpoTnhsODliQ3FVMk5ob3JwYTZUQmk2Z0d3dnlic05xYTRjSDdtaF9MTWt1SGgwTDF6WjFuS0ZWdnBfdkV2S3daTlVJaXZVODY5NGY0YkRFUmFUYzlTclJCVW9WLVk4NmJLQmNpeHhOWnFLS1ZQbmRrYnBwbTBtN201REVjbS10d05BUS1rLVoxc29ZRkF4TWlrSk5lckoydjdGRA?oc=5)
+Source: [L'Avenir](https://news.google.com/rss/articles/CBMisgJBVV95cUxNbE5zUG9LT1c5c2JzY2l2VTNmMkp3UDU3eGQwbkczX1A1eDhoNTkxSTVWMlpwaHNVLXhzRERCMTkzcHdJRkhFZlptYmpLdTNLcVdLZ3hZRkxFOHlDeU15aUV5REp2Rlh1R3I0bU9ONHFzTnFXODBYQXAzcXVSVGhrTkRiUFVmY2VYYzVHMHJGeWMzRDgtajFaYlJoR3pKMTFSLWx5Uk5xczZlWWVKQmtvSzdyTGFTOXB1THZxR2dlbG9CWG5Na2RHSGtCMGF5R01QbGI4amJBcGw5TUJXbmlrZ29waGxqbUpPbjV6Y1FSRWVmRlJlOVJXeTlpVFdjWndiSU1EWnJ2Uk1uVW5HelAzNlhpeTdmeGFZUThWRThySFZJcnRZNzJLYVNOcFN3c2FKTFE?oc=5)
 
 ---
 

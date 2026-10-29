@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Febuxostat?">
-<strong>Febuxostat</strong> currently has <strong>4 news articles</strong>, with 3 predicted indications.
+<strong>Febuxostat</strong> currently has <strong>1 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,37 +35,13 @@ This page combines the AI-predicted indications for Febuxostat with the latest h
 <p><a href="{{ '/drugs/febuxostat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (1)
 
 ### [Addio all'ipertensione refrattaria: a Pordenone l'operazione che azzera i rischi di infarto e ictus - Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXNrazJSakdTeFM1TnRHREFRWElrdDVGOFhQdWh0T3VQVy1UUnhGXzBEMWE0RXBLZEhCQ2ZlS203WU8xZk1ndFhZdFFCNTViUGx5a2Rjay1ybkNZOE9oekxzMnlxOE4ycWhLZUhUckVPMXNRS3NNUlZpZ2lGTGVDRDA2Y1BLaU1BM2hKdHg4X20wNUxKUjY1N3VmZ29OeEY5N3Q1OGNtbHFkcHE0MUp5eFdybFQ1c0dSZzZ4VTQyN21FR3pIbE5YLVVKTFQ4ekdjZmFIenBoUDNRSnNJaEE?oc=5)
 
 2026-10-28 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
 
 Source: [Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXNrazJSakdTeFM1TnRHREFRWElrdDVGOFhQdWh0T3VQVy1UUnhGXzBEMWE0RXBLZEhCQ2ZlS203WU8xZk1ndFhZdFFCNTViUGx5a2Rjay1ybkNZOE9oekxzMnlxOE4ycWhLZUhUckVPMXNRS3NNUlZpZ2lGTGVDRDA2Y1BLaU1BM2hKdHg4X20wNUxKUjY1N3VmZ29OeEY5N3Q1OGNtbHFkcHE0MUp5eFdybFQ1c0dSZzZ4VTQyN21FR3pIbE5YLVVKTFQ4ekdjZmFIenBoUDNRSnNJaEE?oc=5)
-
----
-
-### [Ictus, si può prevenire? Siate veloci a cogliere i sei segnali d’allarme - la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR4RlJrRmI3WVZLdWtJV25PVzZfek5Ob3VQa21JaVpqV1VMZ05Rb3hRd3M2TjI0cmJ3cl8zOVhKY2UzUlp1T0NmUEtXV0hfc1dVazB3TFlMdlBXWVJXRURrOG92NFRTM2luNldqRVRuaUdGTmxXRGJFTUVuU01VR3h3Xy1JdFhiQkoyTXJZNkhBams1S0ZvWGxXYkg1TS1kbEd4bVM1RWJXWU0tMFB3YWlrenpCa05qRURqOTVZR0hkc2Zkd1ctZ2ln0gHPAUFVX3lxTE82ano2ZHlOTU5hYW42NENjVzF4WTFqZ2RaYWFOeGZHeElDbGE4TmxaZ0hOUDBQQTg0eWs4Q3IydU96UVp3Nml4MjIxLUlYQkdZRU5iRmV4WThSMUN5SDl4WUdrSnNqMTBiMWp3anBjVmFNSTJKVW9uZXhvbF9IVFl2bzg2RW5Wejd1SkdiVy11alg5RkxpaWtCeHQ3Um9sNThkOTFzd2Zyc1g4YzUycFVkYWhSZHhWXzFFZDItS3VtckpxYjkxVjI0S3FtVlhkOA?oc=5)
-
-2026-10-28 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR4RlJrRmI3WVZLdWtJV25PVzZfek5Ob3VQa21JaVpqV1VMZ05Rb3hRd3M2TjI0cmJ3cl8zOVhKY2UzUlp1T0NmUEtXV0hfc1dVazB3TFlMdlBXWVJXRURrOG92NFRTM2luNldqRVRuaUdGTmxXRGJFTUVuU01VR3h3Xy1JdFhiQkoyTXJZNkhBams1S0ZvWGxXYkg1TS1kbEd4bVM1RWJXWU0tMFB3YWlrenpCa05qRURqOTVZR0hkc2Zkd1ctZ2ln0gHPAUFVX3lxTE82ano2ZHlOTU5hYW42NENjVzF4WTFqZ2RaYWFOeGZHeElDbGE4TmxaZ0hOUDBQQTg0eWs4Q3IydU96UVp3Nml4MjIxLUlYQkdZRU5iRmV4WThSMUN5SDl4WUdrSnNqMTBiMWp3anBjVmFNSTJKVW9uZXhvbF9IVFl2bzg2RW5Wejd1SkdiVy11alg5RkxpaWtCeHQ3Um9sNThkOTFzd2Zyc1g4YzUycFVkYWhSZHhWXzFFZDItS3VtckpxYjkxVjI0S3FtVlhkOA?oc=5)
-
----
-
-### [Blutdruck senken um 10–20 mmHg: So sinkt das Risiko für Schlaganfälle - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhlb1RlUEs4LWZWVDlGaEVJV1lrYTlwRmpXWUl5ZDlOMmFzQkZIVHhuWkswRXFsdUI3YkVEa2FleFVPeDFSMlQ5NEtyUDI0M09PNlk0WUFiR0Fmek5CUlBZWHNCUGxlSUJiTmw4RFh3RFBibmxJTk5ENy1rZXZCX3ltQkZDSlBaY1daTnFTRkNRLW5TcmhXTTlnell0QVpfUHlxWQ?oc=5)
-
-2026-10-23 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhlb1RlUEs4LWZWVDlGaEVJV1lrYTlwRmpXWUl5ZDlOMmFzQkZIVHhuWkswRXFsdUI3YkVEa2FleFVPeDFSMlQ5NEtyUDI0M09PNlk0WUFiR0Fmek5CUlBZWHNCUGxlSUJiTmw4RFh3RFBibmxJTk5ENy1rZXZCX3ltQkZDSlBaY1daTnFTRkNRLW5TcmhXTTlnell0QVpfUHlxWQ?oc=5)
-
----
-
-### [Lower your blood pressure with vegetable cardiologist recommends - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTg5anNkUnVodGRsdk1TSnUwelVlckRQSFVaVmRDWjZXenpmS2xXRTQyV0t2TFdFX2tLVG1nbzJkZk8wQUxOdzUxTFN4SHNpZjJMMXBBbmExS2ROOWlEMXEzQm1fSmdDdUN0bHVXRTQ4UFlKcGlUanl3Y2JNMmt2MllhckotQlhBSWhOdnFNUHjSAZYBQVVfeXFMTmFDTHFqb3B4MHNMZW5rR1ZIUl9PbzVXWk1vdTRVcVpfS2hPUUJuWi1hdDhiOEx0OGJLUzQtZkt4UjNIalNURzVydEtuZDJZSVZWWU52bXJVVHVBLWVyNURoLUZ6eGpHbnVXWERCclpjaG9iVHhoajRPS1dvdDBJX3JfazNqUnl6R0M0ZkppVE1qbDkyVm53?oc=5)
-
-2026-10-23 <span class="news-indication-tag">high blood pressure</span>
-
-Source: [Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTg5anNkUnVodGRsdk1TSnUwelVlckRQSFVaVmRDWjZXenpmS2xXRTQyV0t2TFdFX2tLVG1nbzJkZk8wQUxOdzUxTFN4SHNpZjJMMXBBbmExS2ROOWlEMXEzQm1fSmdDdUN0bHVXRTQ4UFlKcGlUanl3Y2JNMmt2MllhckotQlhBSWhOdnFNUHjSAZYBQVVfeXFMTmFDTHFqb3B4MHNMZW5rR1ZIUl9PbzVXWk1vdTRVcVpfS2hPUUJuWi1hdDhiOEx0OGJLUzQtZkt4UjNIalNURzVydEtuZDJZSVZWWU52bXJVVHVBLWVyNURoLUZ6eGpHbnVXWERCclpjaG9iVHhoajRPS1dvdDBJX3JfazNqUnl6R0M0ZkppVE1qbDkyVm53?oc=5)
 
 ---
 

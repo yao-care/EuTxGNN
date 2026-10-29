@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tirzepatide. 0 predicted indications."
 permalink: /news/tirzepatide/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Tirzepatide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>4 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+---
 
 ### [Dos ensayos clínicos evalúan la combinación de ixekizumab y tirzepatida en personas con psoriasis o artritis psoriásica y exceso de peso - La Vanguardia](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdzdzLVJ0MHd0TVJiWklhTkRIS3JVWHY0aTRxa0MxSjZGUldTTE43Ui1ycjQ0eUdNaEtFMFlVMWVIc0JMS0ZBR2NRdzVQSnN4ZjlCN3RqOFMxS1JBYnZDWDZUZjQ3eW5oTEMzclo3SmxINkxYWU4zaVpvM3NUSVAwbEhMUWszcnpnNEJIbkh1ZlotMDZMaTkxV3VxT0VoQnAyRDB2UHJmLWY0YjZCV1ktYXlRbkxidmM3RTYzTzV1WVlKSlAzOU5sbFRDay1NZFdCMTlEMVNodExhUGg2TktMbV9JTTNlNGtlRURFaW5nV3ZUcndZTUlUS3BQTU9iUU9h0gGGAkFVX3lxTFBjb1NOZmtjNkp0Y1B4VlA1SGZFSElPUXFWclI4RWhpSVpYSVpPU1oxbTRDbHppNHAyNTRiRVFpem44aFRxZkI1bmhYRXFYb0R5dEpYRUZQMEFCOG5wUWRNYWFXb2QzbGZCUU1oeVRLX0dTbE9RUWRUQmlva3hCc0NxdjA3T1gyVlFNdk1rSlBwam9oYV9aOG9PQWRfeGw4ZFhHM0tmNmw0dnRjVGdjenpxN0x6RjN2VmJOT3NnUUdqOUNGdlQ1dDVHUF9QcVdfR2pVem9iT01VUEJoWTlkQThheEp3WTlENGdMUndfLVJ5dG0wcHVVRnYwaEVhV3J0aDdheTltMXc?oc=5)
 
@@ -48,11 +56,11 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2J
 
 ---
 
-### [Comorbilidades y respuesta clínica predicen el abandono de baricitinib en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OEozblh0UWwxcFYxSTdLd2xFdmZ4Qjc1Yk9zSlFyRmhkeU1NT1RDZ2FWbzhqQW95RXFPWHU2MVphWDNPRTRZaTM0Q3hlM2pHeFBick1yNlNjZEhNT3NPVUotLVRJcG1Bb0JkQngyZXIyZExMM1NfWUEyRXphOUZiZnI1TVBCQTZvT3JZNTZ5NG5HaEVxNFdmMlBKMnVrdzZDODF0aUtkWi12VDJLOVBfQy1fV0ExWHlRcGcwVk9BQdIBvAFBVV95cUxNeWVDXzVYUkJpZnU1UEZ4eEUzekZnMkkxSFpoTnhsODliQ3FVMk5ob3JwYTZUQmk2Z0d3dnlic05xYTRjSDdtaF9MTWt1SGgwTDF6WjFuS0ZWdnBfdkV2S3daTlVJaXZVODY5NGY0YkRFUmFUYzlTclJCVW9WLVk4NmJLQmNpeHhOWnFLS1ZQbmRrYnBwbTBtN201REVjbS10d05BUS1rLVoxc29ZRkF4TWlrSk5lckoydjdGRA?oc=5)
+### [Weight-loss drugs linked to these deficiencies reported by users, research reveals - The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpESGpNZVIyb1Q4VUswQnpzRV8xWktwb2wxOGsxbVNnX19kcEw4clU3RzdhSk41SzhCZ0FXVmg4ZTVNX2VIMkJXNHpWbzR0TG54OVpoNW5aMXBBcG5FeV9DeEVLd2dTNDQ3c2xhbkhESkltdXI4Q3FzZmNwNkN0ZW9lNExKUURXNHVZazdGUk13WEVNbmVLcmZfMA?oc=5)
 
-2026-10-27 <span class="news-drug-tag">Baricitinib</span> <span class="news-indication-tag">artritis</span>
+2026-10-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OEozblh0UWwxcFYxSTdLd2xFdmZ4Qjc1Yk9zSlFyRmhkeU1NT1RDZ2FWbzhqQW95RXFPWHU2MVphWDNPRTRZaTM0Q3hlM2pHeFBick1yNlNjZEhNT3NPVUotLVRJcG1Bb0JkQngyZXIyZExMM1NfWUEyRXphOUZiZnI1TVBCQTZvT3JZNTZ5NG5HaEVxNFdmMlBKMnVrdzZDODF0aUtkWi12VDJLOVBfQy1fV0ExWHlRcGcwVk9BQdIBvAFBVV95cUxNeWVDXzVYUkJpZnU1UEZ4eEUzekZnMkkxSFpoTnhsODliQ3FVMk5ob3JwYTZUQmk2Z0d3dnlic05xYTRjSDdtaF9MTWt1SGgwTDF6WjFuS0ZWdnBfdkV2S3daTlVJaXZVODY5NGY0YkRFUmFUYzlTclJCVW9WLVk4NmJLQmNpeHhOWnFLS1ZQbmRrYnBwbTBtN201REVjbS10d05BUS1rLVoxc29ZRkF4TWlrSk5lckoydjdGRA?oc=5)
+Source: [The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpESGpNZVIyb1Q4VUswQnpzRV8xWktwb2wxOGsxbVNnX19kcEw4clU3RzdhSk41SzhCZ0FXVmg4ZTVNX2VIMkJXNHpWbzR0TG54OVpoNW5aMXBBcG5FeV9DeEVLd2dTNDQ3c2xhbkhESkltdXI4Q3FzZmNwNkN0ZW9lNExKUURXNHVZazdGUk13WEVNbmVLcmZfMA?oc=5)
 
 ---
 

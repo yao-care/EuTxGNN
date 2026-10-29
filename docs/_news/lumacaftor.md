@@ -35,6 +35,22 @@ This page combines the AI-predicted indications for Lumacaftor with the latest h
 
 ## Related News (10)
 
+### ['I couldn't move, walk or talk after my stroke'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
+
+2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
+
+---
+
+### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+---
+
 ### [Addio all'ipertensione refrattaria: a Pordenone l'operazione che azzera i rischi di infarto e ictus - Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXNrazJSakdTeFM1TnRHREFRWElrdDVGOFhQdWh0T3VQVy1UUnhGXzBEMWE0RXBLZEhCQ2ZlS203WU8xZk1ndFhZdFFCNTViUGx5a2Rjay1ybkNZOE9oekxzMnlxOE4ycWhLZUhUckVPMXNRS3NNUlZpZ2lGTGVDRDA2Y1BLaU1BM2hKdHg4X20wNUxKUjY1N3VmZ29OeEY5N3Q1OGNtbHFkcHE0MUp5eFdybFQ1c0dSZzZ4VTQyN21FR3pIbE5YLVVKTFQ4ekdjZmFIenBoUDNRSnNJaEE?oc=5)
 
 2026-10-28 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
@@ -59,19 +75,19 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWjgyNk
 
 ---
 
-### [Ictus, si può prevenire? Siate veloci a cogliere i sei segnali d’allarme - la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR4RlJrRmI3WVZLdWtJV25PVzZfek5Ob3VQa21JaVpqV1VMZ05Rb3hRd3M2TjI0cmJ3cl8zOVhKY2UzUlp1T0NmUEtXV0hfc1dVazB3TFlMdlBXWVJXRURrOG92NFRTM2luNldqRVRuaUdGTmxXRGJFTUVuU01VR3h3Xy1JdFhiQkoyTXJZNkhBams1S0ZvWGxXYkg1TS1kbEd4bVM1RWJXWU0tMFB3YWlrenpCa05qRURqOTVZR0hkc2Zkd1ctZ2ln0gHPAUFVX3lxTE82ano2ZHlOTU5hYW42NENjVzF4WTFqZ2RaYWFOeGZHeElDbGE4TmxaZ0hOUDBQQTg0eWs4Q3IydU96UVp3Nml4MjIxLUlYQkdZRU5iRmV4WThSMUN5SDl4WUdrSnNqMTBiMWp3anBjVmFNSTJKVW9uZXhvbF9IVFl2bzg2RW5Wejd1SkdiVy11alg5RkxpaWtCeHQ3Um9sNThkOTFzd2Zyc1g4YzUycFVkYWhSZHhWXzFFZDItS3VtckpxYjkxVjI0S3FtVlhkOA?oc=5)
-
-2026-10-28 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR4RlJrRmI3WVZLdWtJV25PVzZfek5Ob3VQa21JaVpqV1VMZ05Rb3hRd3M2TjI0cmJ3cl8zOVhKY2UzUlp1T0NmUEtXV0hfc1dVazB3TFlMdlBXWVJXRURrOG92NFRTM2luNldqRVRuaUdGTmxXRGJFTUVuU01VR3h3Xy1JdFhiQkoyTXJZNkhBams1S0ZvWGxXYkg1TS1kbEd4bVM1RWJXWU0tMFB3YWlrenpCa05qRURqOTVZR0hkc2Zkd1ctZ2ln0gHPAUFVX3lxTE82ano2ZHlOTU5hYW42NENjVzF4WTFqZ2RaYWFOeGZHeElDbGE4TmxaZ0hOUDBQQTg0eWs4Q3IydU96UVp3Nml4MjIxLUlYQkdZRU5iRmV4WThSMUN5SDl4WUdrSnNqMTBiMWp3anBjVmFNSTJKVW9uZXhvbF9IVFl2bzg2RW5Wejd1SkdiVy11alg5RkxpaWtCeHQ3Um9sNThkOTFzd2Zyc1g4YzUycFVkYWhSZHhWXzFFZDItS3VtckpxYjkxVjI0S3FtVlhkOA?oc=5)
-
----
-
 ### [A simple daily fiber supplement reduced arthritis pain and improved strength - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
 
 2026-10-28 <span class="news-indication-tag">arthritis</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
+
+---
+
+### [Low vitamin B12 is linked to heart disease. Supplements tell a different story](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
+
+2026-10-28 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
 
 ---
 
@@ -91,27 +107,11 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxOVEVh
 
 ---
 
-### [Comorbilidades y respuesta clínica predicen el abandono de baricitinib en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OEozblh0UWwxcFYxSTdLd2xFdmZ4Qjc1Yk9zSlFyRmhkeU1NT1RDZ2FWbzhqQW95RXFPWHU2MVphWDNPRTRZaTM0Q3hlM2pHeFBick1yNlNjZEhNT3NPVUotLVRJcG1Bb0JkQngyZXIyZExMM1NfWUEyRXphOUZiZnI1TVBCQTZvT3JZNTZ5NG5HaEVxNFdmMlBKMnVrdzZDODF0aUtkWi12VDJLOVBfQy1fV0ExWHlRcGcwVk9BQdIBvAFBVV95cUxNeWVDXzVYUkJpZnU1UEZ4eEUzekZnMkkxSFpoTnhsODliQ3FVMk5ob3JwYTZUQmk2Z0d3dnlic05xYTRjSDdtaF9MTWt1SGgwTDF6WjFuS0ZWdnBfdkV2S3daTlVJaXZVODY5NGY0YkRFUmFUYzlTclJCVW9WLVk4NmJLQmNpeHhOWnFLS1ZQbmRrYnBwbTBtN201REVjbS10d05BUS1rLVoxc29ZRkF4TWlrSk5lckoydjdGRA?oc=5)
+### [Philippe était condamné à mort par la maladie, sa participation à un essai clinique le sauve: "J'ai retrouvé une vie quasi normale"](https://news.google.com/rss/articles/CBMisgJBVV95cUxNbE5zUG9LT1c5c2JzY2l2VTNmMkp3UDU3eGQwbkczX1A1eDhoNTkxSTVWMlpwaHNVLXhzRERCMTkzcHdJRkhFZlptYmpLdTNLcVdLZ3hZRkxFOHlDeU15aUV5REp2Rlh1R3I0bU9ONHFzTnFXODBYQXAzcXVSVGhrTkRiUFVmY2VYYzVHMHJGeWMzRDgtajFaYlJoR3pKMTFSLWx5Uk5xczZlWWVKQmtvSzdyTGFTOXB1THZxR2dlbG9CWG5Na2RHSGtCMGF5R01QbGI4amJBcGw5TUJXbmlrZ29waGxqbUpPbjV6Y1FSRWVmRlJlOVJXeTlpVFdjWndiSU1EWnJ2Uk1uVW5HelAzNlhpeTdmeGFZUThWRThySFZJcnRZNzJLYVNOcFN3c2FKTFE?oc=5)
 
-2026-10-27 <span class="news-drug-tag">Baricitinib</span> <span class="news-indication-tag">artritis</span>
+2026-10-26 <span class="news-indication-tag">maladie cardiaque</span>
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OEozblh0UWwxcFYxSTdLd2xFdmZ4Qjc1Yk9zSlFyRmhkeU1NT1RDZ2FWbzhqQW95RXFPWHU2MVphWDNPRTRZaTM0Q3hlM2pHeFBick1yNlNjZEhNT3NPVUotLVRJcG1Bb0JkQngyZXIyZExMM1NfWUEyRXphOUZiZnI1TVBCQTZvT3JZNTZ5NG5HaEVxNFdmMlBKMnVrdzZDODF0aUtkWi12VDJLOVBfQy1fV0ExWHlRcGcwVk9BQdIBvAFBVV95cUxNeWVDXzVYUkJpZnU1UEZ4eEUzekZnMkkxSFpoTnhsODliQ3FVMk5ob3JwYTZUQmk2Z0d3dnlic05xYTRjSDdtaF9MTWt1SGgwTDF6WjFuS0ZWdnBfdkV2S3daTlVJaXZVODY5NGY0YkRFUmFUYzlTclJCVW9WLVk4NmJLQmNpeHhOWnFLS1ZQbmRrYnBwbTBtN201REVjbS10d05BUS1rLVoxc29ZRkF4TWlrSk5lckoydjdGRA?oc=5)
-
----
-
-### [Blutdruck senken um 10–20 mmHg: So sinkt das Risiko für Schlaganfälle - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhlb1RlUEs4LWZWVDlGaEVJV1lrYTlwRmpXWUl5ZDlOMmFzQkZIVHhuWkswRXFsdUI3YkVEa2FleFVPeDFSMlQ5NEtyUDI0M09PNlk0WUFiR0Fmek5CUlBZWHNCUGxlSUJiTmw4RFh3RFBibmxJTk5ENy1rZXZCX3ltQkZDSlBaY1daTnFTRkNRLW5TcmhXTTlnell0QVpfUHlxWQ?oc=5)
-
-2026-10-23 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhlb1RlUEs4LWZWVDlGaEVJV1lrYTlwRmpXWUl5ZDlOMmFzQkZIVHhuWkswRXFsdUI3YkVEa2FleFVPeDFSMlQ5NEtyUDI0M09PNlk0WUFiR0Fmek5CUlBZWHNCUGxlSUJiTmw4RFh3RFBibmxJTk5ENy1rZXZCX3ltQkZDSlBaY1daTnFTRkNRLW5TcmhXTTlnell0QVpfUHlxWQ?oc=5)
-
----
-
-### [Lower your blood pressure with vegetable cardiologist recommends - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTg5anNkUnVodGRsdk1TSnUwelVlckRQSFVaVmRDWjZXenpmS2xXRTQyV0t2TFdFX2tLVG1nbzJkZk8wQUxOdzUxTFN4SHNpZjJMMXBBbmExS2ROOWlEMXEzQm1fSmdDdUN0bHVXRTQ4UFlKcGlUanl3Y2JNMmt2MllhckotQlhBSWhOdnFNUHjSAZYBQVVfeXFMTmFDTHFqb3B4MHNMZW5rR1ZIUl9PbzVXWk1vdTRVcVpfS2hPUUJuWi1hdDhiOEx0OGJLUzQtZkt4UjNIalNURzVydEtuZDJZSVZWWU52bXJVVHVBLWVyNURoLUZ6eGpHbnVXWERCclpjaG9iVHhoajRPS1dvdDBJX3JfazNqUnl6R0M0ZkppVE1qbDkyVm53?oc=5)
-
-2026-10-23 <span class="news-indication-tag">high blood pressure</span>
-
-Source: [Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTg5anNkUnVodGRsdk1TSnUwelVlckRQSFVaVmRDWjZXenpmS2xXRTQyV0t2TFdFX2tLVG1nbzJkZk8wQUxOdzUxTFN4SHNpZjJMMXBBbmExS2ROOWlEMXEzQm1fSmdDdUN0bHVXRTQ4UFlKcGlUanl3Y2JNMmt2MllhckotQlhBSWhOdnFNUHjSAZYBQVVfeXFMTmFDTHFqb3B4MHNMZW5rR1ZIUl9PbzVXWk1vdTRVcVpfS2hPUUJuWi1hdDhiOEx0OGJLUzQtZkt4UjNIalNURzVydEtuZDJZSVZWWU52bXJVVHVBLWVyNURoLUZ6eGpHbnVXWERCclpjaG9iVHhoajRPS1dvdDBJX3JfazNqUnl6R0M0ZkppVE1qbDkyVm53?oc=5)
+Source: [L'Avenir](https://news.google.com/rss/articles/CBMisgJBVV95cUxNbE5zUG9LT1c5c2JzY2l2VTNmMkp3UDU3eGQwbkczX1A1eDhoNTkxSTVWMlpwaHNVLXhzRERCMTkzcHdJRkhFZlptYmpLdTNLcVdLZ3hZRkxFOHlDeU15aUV5REp2Rlh1R3I0bU9ONHFzTnFXODBYQXAzcXVSVGhrTkRiUFVmY2VYYzVHMHJGeWMzRDgtajFaYlJoR3pKMTFSLWx5Uk5xczZlWWVKQmtvSzdyTGFTOXB1THZxR2dlbG9CWG5Na2RHSGtCMGF5R01QbGI4amJBcGw5TUJXbmlrZ29waGxqbUpPbjV6Y1FSRWVmRlJlOVJXeTlpVFdjWndiSU1EWnJ2Uk1uVW5HelAzNlhpeTdmeGFZUThWRThySFZJcnRZNzJLYVNOcFN3c2FKTFE?oc=5)
 
 ---
 

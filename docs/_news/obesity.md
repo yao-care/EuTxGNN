@@ -44,19 +44,19 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxN
 
 ---
 
+### [Obésité : le traitement Wegovy en comprimés arrive en pharmacie… et son prix de vente conseillé par le fabricant est désormais connu - Le Télégramme](https://news.google.com/rss/articles/CBMihgJBVV95cUxOYzdjVTRvNVppcWtmS21qUjl0dDlFQjQ5NXF4MWtDbGFjN2ZveElSQU8yQlFzSVZubUNiTmJYRzI2WGtFUVJQWUZISUR3cnNsU1M4V05uWXZMSGg3UmFlQWxKbnhPYTI3NHpnYzRHS3AwdzFPUk9FUkRxS0EtMEprdnJ0XzZhaVhoUGpzclBibVEwRHBvWFU1Qk54M2dKS2o0Skp1WDk1LV9iTTVONUt0NklQQlQyX09YZEJDUVd5QXpNRFo0SksyNVRJei1KWU56VlpWSVhvX01nemJPSnJVR1RBV1lxSzJoWUttR3l1b0oxVkZqQ3JjQ2NnMFV4UzJVUmlfQTZ3?oc=5)
+
+2026-10-28
+
+Source: [Le Télégramme](https://news.google.com/rss/articles/CBMihgJBVV95cUxOYzdjVTRvNVppcWtmS21qUjl0dDlFQjQ5NXF4MWtDbGFjN2ZveElSQU8yQlFzSVZubUNiTmJYRzI2WGtFUVJQWUZISUR3cnNsU1M4V05uWXZMSGg3UmFlQWxKbnhPYTI3NHpnYzRHS3AwdzFPUk9FUkRxS0EtMEprdnJ0XzZhaVhoUGpzclBibVEwRHBvWFU1Qk54M2dKS2o0Skp1WDk1LV9iTTVONUt0NklQQlQyX09YZEJDUVd5QXpNRFo0SksyNVRJei1KWU56VlpWSVhvX01nemJPSnJVR1RBV1lxSzJoWUttR3l1b0oxVkZqQ3JjQ2NnMFV4UzJVUmlfQTZ3?oc=5)
+
+---
+
 ### [Die Fettleber wird immer jünger](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmRPYWUxYXhzV3ppYlYtaEFWaE9HRXRJbzZCZ2IxWHF5bWR6SzhZTVhtQkRCREsyd1hxbkJiUjNoUDhkSWxsOUE2TGVfT2IzbnpPOUJ3SWl4ZUtyeEFEeGdQT1RRRVM2LVUzLUhqSlBJOFNGSWZ0UjJQVHR6emlVYXp3NHJRN3JDRl8yVkVWZkN6WW42T05IQUxWZUdRSDVReWpSYnlTSlNYd0JPR1pvb21OVXRHY2Y3Xy1JVVp3RQ?oc=5)
 
 2026-10-28
 
 Source: [springermedizin.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmRPYWUxYXhzV3ppYlYtaEFWaE9HRXRJbzZCZ2IxWHF5bWR6SzhZTVhtQkRCREsyd1hxbkJiUjNoUDhkSWxsOUE2TGVfT2IzbnpPOUJ3SWl4ZUtyeEFEeGdQT1RRRVM2LVUzLUhqSlBJOFNGSWZ0UjJQVHR6emlVYXp3NHJRN3JDRl8yVkVWZkN6WW42T05IQUxWZUdRSDVReWpSYnlTSlNYd0JPR1pvb21OVXRHY2Y3Xy1JVVp3RQ?oc=5)
-
----
-
-### [La obesidad crece más rápido en los países de ingresos bajos y medios y ya concentra el 69 % de los casos en adultos](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0E0cEctWF9EaXVWci14UnE5Z1dkbjBnNi1kSnA0ZElwZmRQdmJ3M0RCZ3dsWFYyQWxwSUhCcUc0UXA0cGR4OGQ2clIzd3JmZmZwd2x5bWZ4N3NvbVd1c3puWkFuc0RhZEhrem4ta24wQ0otTnQxQ2tocGo1dlI3UmNOdnoybjliRktyZWNWVVVMaHNLX1BrYkM0TjQ?oc=5)
-
-2026-10-27
-
-Source: [Univadis](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0E0cEctWF9EaXVWci14UnE5Z1dkbjBnNi1kSnA0ZElwZmRQdmJ3M0RCZ3dsWFYyQWxwSUhCcUc0UXA0cGR4OGQ2clIzd3JmZmZwd2x5bWZ4N3NvbVd1c3puWkFuc0RhZEhrem4ta24wQ0otTnQxQ2tocGo1dlI3UmNOdnoybjliRktyZWNWVVVMaHNLX1BrYkM0TjQ?oc=5)
 
 ---
 

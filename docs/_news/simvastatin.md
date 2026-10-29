@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>11 news articles</strong>, with 5 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>15 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,77 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (15)
 
-### [Los hospitales públicos de Canarias registran 2.770 ingresos por ictus en el último año](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUlZ3WDFwa3FwY0pnVFAweW9KUGsyVXMxQUpfREV0U0RReHprQS1KY29UR2VsTXhLQjJiSkcta0RuRU9kMC1qOXpHS1pyNVdBWW5VcTBNbk0yVkZyakxEZ2lDQWtrM2hQY0FoQm9acGxIWWdMa2dRYmpMbzBPM0ZRa3JtSW96Q2U3X0VEbkFDbW1fajJNX1k0TXJJQjB5V3NlVUx4QlNheklNZ1E1STNPU0VFU25POGViWWxFMUVR0gHDAUFVX3lxTFBRdDYwZzhQaTBzZElTUUtRa3pTQjBmX1VrdTEwUndPU3ZiZ1JwXzhCdTFWM1VjV3MzWHpvWF85WnJSQk5uRmdOQUlneWlpdks0UDNfdmhuVUxCaTRFeFJocDVsV29yTDhQS25WREtkb0VBQnZtQ3VDbnRfbE16TzNvN1VRY3lYb3JjYUFwVFdnV3lQY2xGZUhyMU1MaTZwQWZPOXYtYU1DMjZCWmE1Z2VJOTdzUV9jNlNSYTlLODNtOUNLZw?oc=5)
+### [SINGLE-AF-Studie: 69 Prozent weniger kombinierte Ereignisse mit DOACs](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeFdEbGlpOU5NV1gwVEpWT1pxRUJuRUY0MkI0eUp3Z0puU1l2VmppeHViMWNQU2daajN2R0ZVOTFLQjBhN1lJeUpuczdfaFBfNHJWWEhHSjdfOXQxZFItSWhyaXotZy03NGNnOVNyZ2JrOEhURjdUSkdfaC1TTWVhN0hVcGpUNHBrLUxqeFd0WWhRWkYwVFNIVDdtSlV6cDJ1YVBQZ2U0aWkzT1ZkRlk4VnplMDFma2ND?oc=5)
+
+2026-10-29 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeFdEbGlpOU5NV1gwVEpWT1pxRUJuRUY0MkI0eUp3Z0puU1l2VmppeHViMWNQU2daajN2R0ZVOTFLQjBhN1lJeUpuczdfaFBfNHJWWEhHSjdfOXQxZFItSWhyaXotZy03NGNnOVNyZ2JrOEhURjdUSkdfaC1TTWVhN0hVcGpUNHBrLUxqeFd0WWhRWkYwVFNIVDdtSlV6cDJ1YVBQZ2U0aWkzT1ZkRlk4VnplMDFma2ND?oc=5)
+
+---
+
+### [Solo el 50% de la población española reconoce los síntomas de un ictus pese a 90.000 casos al año](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdTZ2NDZGQ0Ywb081NVVEMXJjY1pFbzdvY0tnZFYyWXdNTVhhQzhKZDRIVENjbUZ3dHV3a0RZT0lwWjJ4ajBGQWN4NXNGSTBRSUFfc0pTaVNqMDQ3SFNPUDk1WENQQWRDOTJ0d25hbGVtUnJOSXRyaTdHUmV1S1hKRS1rSmI2QXNodEpYQmc4dEpQLW1WMjRYVm0zNVliX1ljVVFVQmpsT2JRQU9rSHlqdXRrOHJNS2ps?oc=5)
+
+2026-10-29 <span class="news-indication-tag">ictus</span>
+
+Source: [Servimedia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdTZ2NDZGQ0Ywb081NVVEMXJjY1pFbzdvY0tnZFYyWXdNTVhhQzhKZDRIVENjbUZ3dHV3a0RZT0lwWjJ4ajBGQWN4NXNGSTBRSUFfc0pTaVNqMDQ3SFNPUDk1WENQQWRDOTJ0d25hbGVtUnJOSXRyaTdHUmV1S1hKRS1rSmI2QXNodEpYQmc4dEpQLW1WMjRYVm0zNVliX1ljVVFVQmpsT2JRQU9rSHlqdXRrOHJNS2ps?oc=5)
+
+---
+
+### [The surprising factors that increase your stroke risk in midlife - The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFJQVVZGRDNMRGlBVDIxZE9uUU5KYkVNM3BlWEhDZFV2NUwzRFo0TEs5QlRUTVYyWWI3Y1p2R3gweVRhZEdxc1NRWG5najk1Qnp6WG53ZkpzSDk2SDNTenRlU1lRZmFDalFQR1BjY3l5Tm4zNnpnUWZHMTV2N195bnZyQmNwTGUzOXVKUUtlUWQ5WjNlVS1QNG9FMll4Q0x1NkJTTTR0N3ItNEpXcC1tUTRNbFc?oc=5)
+
+2026-10-29 <span class="news-indication-tag">stroke</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFJQVVZGRDNMRGlBVDIxZE9uUU5KYkVNM3BlWEhDZFV2NUwzRFo0TEs5QlRUTVYyWWI3Y1p2R3gweVRhZEdxc1NRWG5najk1Qnp6WG53ZkpzSDk2SDNTenRlU1lRZmFDalFQR1BjY3l5Tm4zNnpnUWZHMTV2N195bnZyQmNwTGUzOXVKUUtlUWQ5WjNlVS1QNG9FMll4Q0x1NkJTTTR0N3ItNEpXcC1tUTRNbFc?oc=5)
+
+---
+
+### ['I couldn't move, walk or talk after my stroke'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
+
+2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
+
+---
+
+### [Giornata mondiale ictus cerebrale, come prevenirlo e come riconoscere i primi segnali - Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
+
+2026-10-29 <span class="news-indication-tag">ictus</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
+
+---
+
+### [Explosion des AVC chez les jeunes, un « tabou » persistant : « On ne pense pas que ça peut être grave » - Le Parisien](https://news.google.com/rss/articles/CBMihAJBVV95cUxPNDdlcUgwLXh2RHlTU2ZZQ3hwTVNXaTNtTk15RXRZV0N5R1lpeUNBWFlXS3Y4WU9XendUVGtBb3p3YlA3NXZRdnQtc1huaEFVSDlPdG5ybW5tTVNoNmc4Si1IcGJOU2VENTdFNXhWUXFFWmtqU1lvbnVBMHZtRWY2QTZxdHpBQ05ray1pQzJyNWVfQ1VpdGNEYnFQVXlPZkVpTkgwbVZSWnVhVjVncS11RExYOVFtMTBiSm9jMnVIaTJmV1NEVDRhdVJHczFTN3FkYWpqU2V4ajJHWTQ0TUxOZGhtYnJycHNRbDliSTFDWlZCdGRDZ3U1VFNWSWhrcmNmaXdkdg?oc=5)
+
+2026-10-29 <span class="news-indication-tag">AVC</span>
+
+Source: [Le Parisien](https://news.google.com/rss/articles/CBMihAJBVV95cUxPNDdlcUgwLXh2RHlTU2ZZQ3hwTVNXaTNtTk15RXRZV0N5R1lpeUNBWFlXS3Y4WU9XendUVGtBb3p3YlA3NXZRdnQtc1huaEFVSDlPdG5ybW5tTVNoNmc4Si1IcGJOU2VENTdFNXhWUXFFWmtqU1lvbnVBMHZtRWY2QTZxdHpBQ05ray1pQzJyNWVfQ1VpdGNEYnFQVXlPZkVpTkgwbVZSWnVhVjVncS11RExYOVFtMTBiSm9jMnVIaTJmV1NEVDRhdVJHczFTN3FkYWpqU2V4ajJHWTQ0TUxOZGhtYnJycHNRbDliSTFDWlZCdGRDZ3U1VFNWSWhrcmNmaXdkdg?oc=5)
+
+---
+
+### [Schlaganfall mit 27: Warum immer mehr junge Menschen betroffen sind](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVU3cVp4d2ZQNDVUYncyNUd2OG4xTDhTVjR4TVFtblludC1SXzBVWlZPSmJmbzVoSmRCVk1VQ3VtS0RjaWE0T3JZeGJ3MTdTcjk4OXV5VFV6TGV1UzB1WWNjR0dadk9yamlrYkhhSl9oTERQYzFFT2w2ZFlsV09oVWdlZUN3QVdyaU9ZZEI4cmhqNkxPbzRuYUxRRWtOYUxJZnFvOTU1dVB3SE9VNnZBam9R?oc=5)
+
+2026-10-29 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+Source: [SWR](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVU3cVp4d2ZQNDVUYncyNUd2OG4xTDhTVjR4TVFtblludC1SXzBVWlZPSmJmbzVoSmRCVk1VQ3VtS0RjaWE0T3JZeGJ3MTdTcjk4OXV5VFV6TGV1UzB1WWNjR0dadk9yamlrYkhhSl9oTERQYzFFT2w2ZFlsV09oVWdlZUN3QVdyaU9ZZEI4cmhqNkxPbzRuYUxRRWtOYUxJZnFvOTU1dVB3SE9VNnZBam9R?oc=5)
+
+---
+
+### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUdRUHpvMVFCWjlBN2NoTHpuQ2E5WGVMMGZyN2dyTWM1Q0hnSWlxclNFTVd5Vl9fbzZNdG1VNk5FV3M0MnBQUERlSnN6cW5ZM2dIREJYNkJGZmJEaWJ1OHFrVFhPVGQzX3hnV182MHljWFp3ckFzVVV1Z1c5M2txSzRzTHQ0elhfY1lsVF9oc0toMWd3QTVDdGNwX0RDZG1XZlQ0Smp5dUh6dEk1WjlYSnlFVWtCUVROa0Y0?oc=5)
+
+2026-10-29 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUdRUHpvMVFCWjlBN2NoTHpuQ2E5WGVMMGZyN2dyTWM1Q0hnSWlxclNFTVd5Vl9fbzZNdG1VNk5FV3M0MnBQUERlSnN6cW5ZM2dIREJYNkJGZmJEaWJ1OHFrVFhPVGQzX3hnV182MHljWFp3ckFzVVV1Z1c5M2txSzRzTHQ0elhfY1lsVF9oc0toMWd3QTVDdGNwX0RDZG1XZlQ0Smp5dUh6dEk1WjlYSnlFVWtCUVROa0Y0?oc=5)
+
+---
+
+### [El ensayo We-trust supera los 320 pacientes para evaluar un nuevo circuito de atención al ictus isquémico agudo](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFl2YTZBNkhIT29PcG5BRkZSS1VzWWJIOUdDWlRGb3NIS256bXJBdVd3bTRXS1pHMTB0UFZZczBPS1hqMzRVM20zQWJwbXJLUXFjekV1VXFMTUgyZnFYa28za1FaWTRKUGJmeG1uRnlRd2x1cXAzN2dkSk1iNkNtV1p2V0JjZ1g4c2pHLUdYRFJHVXFMdXk5ZTI1aXhvUV9CdHBOcVJOeEpSUmFEU1BIb2gyUUlwQ2x5dU1hTG1FcFVNVW9FLWh0MllLV3EzamtOQTdyaWlrUQ?oc=5)
 
 2026-10-28 <span class="news-indication-tag">ictus</span>
 
-Source: [Canarias7](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUlZ3WDFwa3FwY0pnVFAweW9KUGsyVXMxQUpfREV0U0RReHprQS1KY29UR2VsTXhLQjJiSkcta0RuRU9kMC1qOXpHS1pyNVdBWW5VcTBNbk0yVkZyakxEZ2lDQWtrM2hQY0FoQm9acGxIWWdMa2dRYmpMbzBPM0ZRa3JtSW96Q2U3X0VEbkFDbW1fajJNX1k0TXJJQjB5V3NlVUx4QlNheklNZ1E1STNPU0VFU25POGViWWxFMUVR0gHDAUFVX3lxTFBRdDYwZzhQaTBzZElTUUtRa3pTQjBmX1VrdTEwUndPU3ZiZ1JwXzhCdTFWM1VjV3MzWHpvWF85WnJSQk5uRmdOQUlneWlpdks0UDNfdmhuVUxCaTRFeFJocDVsV29yTDhQS25WREtkb0VBQnZtQ3VDbnRfbE16TzNvN1VRY3lYb3JjYUFwVFdnV3lQY2xGZUhyMU1MaTZwQWZPOXYtYU1DMjZCWmE1Z2VJOTdzUV9jNlNSYTlLODNtOUNLZw?oc=5)
+Source: [iSanidad](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFl2YTZBNkhIT29PcG5BRkZSS1VzWWJIOUdDWlRGb3NIS256bXJBdVd3bTRXS1pHMTB0UFZZczBPS1hqMzRVM20zQWJwbXJLUXFjekV1VXFMTUgyZnFYa28za1FaWTRKUGJmeG1uRnlRd2x1cXAzN2dkSk1iNkNtV1p2V0JjZ1g4c2pHLUdYRFJHVXFMdXk5ZTI1aXhvUV9CdHBOcVJOeEpSUmFEU1BIb2gyUUlwQ2x5dU1hTG1FcFVNVW9FLWh0MllLV3EzamtOQTdyaWlrUQ?oc=5)
 
 ---
 
@@ -79,22 +143,6 @@ Source: [mgo medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWF9qT
 
 ---
 
-### [Ictus, si può prevenire? Siate veloci a cogliere i sei segnali d’allarme - la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR4RlJrRmI3WVZLdWtJV25PVzZfek5Ob3VQa21JaVpqV1VMZ05Rb3hRd3M2TjI0cmJ3cl8zOVhKY2UzUlp1T0NmUEtXV0hfc1dVazB3TFlMdlBXWVJXRURrOG92NFRTM2luNldqRVRuaUdGTmxXRGJFTUVuU01VR3h3Xy1JdFhiQkoyTXJZNkhBams1S0ZvWGxXYkg1TS1kbEd4bVM1RWJXWU0tMFB3YWlrenpCa05qRURqOTVZR0hkc2Zkd1ctZ2ln0gHPAUFVX3lxTE82ano2ZHlOTU5hYW42NENjVzF4WTFqZ2RaYWFOeGZHeElDbGE4TmxaZ0hOUDBQQTg0eWs4Q3IydU96UVp3Nml4MjIxLUlYQkdZRU5iRmV4WThSMUN5SDl4WUdrSnNqMTBiMWp3anBjVmFNSTJKVW9uZXhvbF9IVFl2bzg2RW5Wejd1SkdiVy11alg5RkxpaWtCeHQ3Um9sNThkOTFzd2Zyc1g4YzUycFVkYWhSZHhWXzFFZDItS3VtckpxYjkxVjI0S3FtVlhkOA?oc=5)
-
-2026-10-28 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR4RlJrRmI3WVZLdWtJV25PVzZfek5Ob3VQa21JaVpqV1VMZ05Rb3hRd3M2TjI0cmJ3cl8zOVhKY2UzUlp1T0NmUEtXV0hfc1dVazB3TFlMdlBXWVJXRURrOG92NFRTM2luNldqRVRuaUdGTmxXRGJFTUVuU01VR3h3Xy1JdFhiQkoyTXJZNkhBams1S0ZvWGxXYkg1TS1kbEd4bVM1RWJXWU0tMFB3YWlrenpCa05qRURqOTVZR0hkc2Zkd1ctZ2ln0gHPAUFVX3lxTE82ano2ZHlOTU5hYW42NENjVzF4WTFqZ2RaYWFOeGZHeElDbGE4TmxaZ0hOUDBQQTg0eWs4Q3IydU96UVp3Nml4MjIxLUlYQkdZRU5iRmV4WThSMUN5SDl4WUdrSnNqMTBiMWp3anBjVmFNSTJKVW9uZXhvbF9IVFl2bzg2RW5Wejd1SkdiVy11alg5RkxpaWtCeHQ3Um9sNThkOTFzd2Zyc1g4YzUycFVkYWhSZHhWXzFFZDItS3VtckpxYjkxVjI0S3FtVlhkOA?oc=5)
-
----
-
-### [Salud recuerda que nueve de cada diez ictus pueden prevenirse con hábitos saludables - Cadena SER](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM3pFZkREeFVoYTQ4Sm9zeTd1a1kyNjNCelRBV2J6OHo1RlNXUWlvZWd2MnItY2NUS3pWeGJhR2hRNXlyMENrZXRaLTlBV00xMk5WYm1PZENud0JsdGNvRjBNTUlleXAzSkR2R3RiRUQ3cVVEWndmeEdHTno2YjFnX2dzbzhIaTRUblNpakUyX0c4MUlDM0tPOTJLd29lS3BSY0dub3FUZktfV2xtU19Dc09jRTRzUWdTaC1Nc0twR2VrcnFybE00c1RuSHBXeWk0cVR0RTYzNNIB6wFBVV95cUxPdk9PUUtJaVBSMVBUbTRPWS1oLVdOc2hxajNQdVdOellqclJ6QTRYcl9yZkdndHpYam9zSjFtU0ZUNmNSSW4tQ0hlTHZjR0xXNFFpLWRBeEpCQVFsM0MyN3pxd1ZUMjBFQmNkUVB2QXF4b0lsT2VHYXdZd2U0OTBSbjM5QnhDdTZnU1VVVlhlVHdwSVJWVXpZY2pCQVJLNHJJRmowbzhhRkdTT0laMWtLaXM0Qmd1ZHZ3U2tEcW16MHZmT2RhbE51VEJ2Q29LMF9Id1BIZUdpZ2VUMTR0Z01XdDYtcUxKVDhQeVZR?oc=5)
-
-2026-10-28 <span class="news-indication-tag">ictus</span>
-
-Source: [Cadena SER](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM3pFZkREeFVoYTQ4Sm9zeTd1a1kyNjNCelRBV2J6OHo1RlNXUWlvZWd2MnItY2NUS3pWeGJhR2hRNXlyMENrZXRaLTlBV00xMk5WYm1PZENud0JsdGNvRjBNTUlleXAzSkR2R3RiRUQ3cVVEWndmeEdHTno2YjFnX2dzbzhIaTRUblNpakUyX0c4MUlDM0tPOTJLd29lS3BSY0dub3FUZktfV2xtU19Dc09jRTRzUWdTaC1Nc0twR2VrcnFybE00c1RuSHBXeWk0cVR0RTYzNNIB6wFBVV95cUxPdk9PUUtJaVBSMVBUbTRPWS1oLVdOc2hxajNQdVdOellqclJ6QTRYcl9yZkdndHpYam9zSjFtU0ZUNmNSSW4tQ0hlTHZjR0xXNFFpLWRBeEpCQVFsM0MyN3pxd1ZUMjBFQmNkUVB2QXF4b0lsT2VHYXdZd2U0OTBSbjM5QnhDdTZnU1VVVlhlVHdwSVJWVXpZY2pCQVJLNHJJRmowbzhhRkdTT0laMWtLaXM0Qmd1ZHZ3U2tEcW16MHZmT2RhbE51VEJ2Q29LMF9Id1BIZUdpZ2VUMTR0Z01XdDYtcUxKVDhQeVZR?oc=5)
-
----
-
 ### [My girl's headaches were blamed on common infection - then she had two STROKES - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTHpTTHRYTGpHQzlkUVBlV25hbXZDbDhmdldZeHFlWUdVbUZmZjZHamFOWWlCMm94eHVCaFdhbTN3bWNYLUNpV0dEeVA2cjJXeXVaV0kxUzBlRDgxeV91YzVhLVJLUW1FRHN1X2xqVGxYczE3bXB3LW5PYjd4ZUk3QUJCQ3pxa0J4MjhjazhYOENjbGdWUUpLX1ptem8?oc=5)
 
 2026-10-28 <span class="news-indication-tag">stroke</span>
@@ -103,27 +151,11 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTHpTTHRYT
 
 ---
 
-### [Un modelo internacional para el ictus isquémico busca ahorrar minutos vitales en el hospital](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFk2Z1RwMnJ2bXNJLURTYmsyLVEtc2x4WlhLWHl2Mk9iZU9LdUNSSDI5TUs4VXRFenk3eGVFVDFUSXRTcHFvVHFGdVU4TzdvUEdBUUZ6Z0RHSG5QcUNMVVduRnAzdEkyNktuOEk1QVh1REpRekdNSTFNUlFSWWtZZHNDaUhnd3BYLW80SDRwNkRoQ0NnNWtJWU9keWFqdUJiR2dzS0N0ano0WWxGOHhSRGxqRGlkYUE0WHFQVVhPNzdLcXJpYnNIdUdrd3RHS2oweWZ1UTE5UmdGX0JCdHR4YXFoTVM5Njdr?oc=5)
+### [Whiston Hospital agrees six-figure settlement after catheter error caused stroke - St Helens Star](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNajc1V21kb2kweVZxZjczS01IQkJyV1lsbENTamUwUkRZbjBoTjRleE1DZ1pOQVdMNWE5Z08weVAxSldFY1JaUmc0Y21jXzJzZ2dPOVppZU94VllGbHNfMEViVGJnV3d0Q0U1TnhhWGhRcHpUWWdZenZqbzJCakpyMDZNLVB4RG1SY1dRQUphaEtkb1VXTDl6cXFuVmkyOW5FaG1rbU95M0pXQQ?oc=5)
 
-2026-10-28 <span class="news-indication-tag">ictus</span>
+2026-10-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-Source: [ConSalud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFk2Z1RwMnJ2bXNJLURTYmsyLVEtc2x4WlhLWHl2Mk9iZU9LdUNSSDI5TUs4VXRFenk3eGVFVDFUSXRTcHFvVHFGdVU4TzdvUEdBUUZ6Z0RHSG5QcUNMVVduRnAzdEkyNktuOEk1QVh1REpRekdNSTFNUlFSWWtZZHNDaUhnd3BYLW80SDRwNkRoQ0NnNWtJWU9keWFqdUJiR2dzS0N0ano0WWxGOHhSRGxqRGlkYUE0WHFQVVhPNzdLcXJpYnNIdUdrd3RHS2oweWZ1UTE5UmdGX0JCdHR4YXFoTVM5Njdr?oc=5)
-
----
-
-### [Vorhofflimmern in der Langzeitpflege: Absetzen verändert Schlaganfallrisiko nicht messbar](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkRVSXpQX2U1aElYVEFYT1lqWmpzenY3MWhIZ0FhdW9oOVFQYzJRNzJCa3Z0azhjbnlETUt2dnlSZFFtWEp0THhndG1ybkRXU1UydGtmd2FNU0NWRTZCb0FScXVnNXdENmhDSnRrczBkSmxqbU41cWs4M1VPTmZyOG42a2RQVnpTWFhIcGtPUWlIbTNvaFJhbF8yQTRmUmpUeFN3c2x3OU40U3VVVEk3VDBPNFBUR3pZdFgyV3FYbC1QWnVfSGpsZ1dJUTFRWVg0SVJrMQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkRVSXpQX2U1aElYVEFYT1lqWmpzenY3MWhIZ0FhdW9oOVFQYzJRNzJCa3Z0azhjbnlETUt2dnlSZFFtWEp0THhndG1ybkRXU1UydGtmd2FNU0NWRTZCb0FScXVnNXdENmhDSnRrczBkSmxqbU41cWs4M1VPTmZyOG42a2RQVnpTWFhIcGtPUWlIbTNvaFJhbF8yQTRmUmpUeFN3c2x3OU40U3VVVEk3VDBPNFBUR3pZdFgyV3FYbC1QWnVfSGpsZ1dJUTFRWVg0SVJrMQ?oc=5)
-
----
-
-### [El ruido hospitalario, un factor clave en la seguridad del paciente con ictus](https://news.google.com/rss/articles/CBMigAFBVV95cUxQS055Z0xKd0hzYnN4RmF1Y05fbmt4ME5JbWt1SjlTZ3JCRzQ0MEVVaURySE0tSW5DTmNDbWFLeS13VFpNTFNhQ1VOSHQtZHBvR0NmV09QUC1GaXJ2eVppSmtIR3UxT2dSbUtmUjBPQ0Q0VkhHUHdiUTNRVU5TUG40aQ?oc=5)
-
-2026-10-27 <span class="news-indication-tag">ictus</span>
-
-Source: [Enfermería21](https://news.google.com/rss/articles/CBMigAFBVV95cUxQS055Z0xKd0hzYnN4RmF1Y05fbmt4ME5JbWt1SjlTZ3JCRzQ0MEVVaURySE0tSW5DTmNDbWFLeS13VFpNTFNhQ1VOSHQtZHBvR0NmV09QUC1GaXJ2eVppSmtIR3UxT2dSbUtmUjBPQ0Q0VkhHUHdiUTNRVU5TUG40aQ?oc=5)
+Source: [St Helens Star](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNajc1V21kb2kweVZxZjczS01IQkJyV1lsbENTamUwUkRZbjBoTjRleE1DZ1pOQVdMNWE5Z08weVAxSldFY1JaUmc0Y21jXzJzZ2dPOVppZU94VllGbHNfMEViVGJnV3d0Q0U1TnhhWGhRcHpUWWdZenZqbzJCakpyMDZNLVB4RG1SY1dRQUphaEtkb1VXTDl6cXFuVmkyOW5FaG1rbU95M0pXQQ?oc=5)
 
 ---
 

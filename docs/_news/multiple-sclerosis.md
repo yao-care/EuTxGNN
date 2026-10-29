@@ -48,11 +48,35 @@ This page brings together the latest health news about “MS” and lists the dr
 
 ## Related News (7)
 
-### [Un ensayo demuestra la eficacia de un fármaco en la supervivencia de cáncer de endometrio avanzado](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU3NmWVhCSTZaY0JlYTRQUDhIdjk2UFdaUUE4M3NiYjJLbjFpOFF2emxlUHhRbEgwY1JicEJqSVAwOW5sVXJtYjZsWVdDYkNnMDhPemxoSTNnalh2aU9qQ01pdFVFeFJPYW4tWHM5aG9aQkRiV3Q4LUQ4S1RRcm1RRkRvN0tWY2FXRmE0cGhDTW1nTXZtaGkwUHI5MlJjVy0wbzNiTTBlNlRDZHZSbnJPTTAxa2R5aU82Y08yd2psdEt3TzAtR3ZyMmtCbDhjUld3Y2Vmb3RDVUtyU0N5aTRoVlhB?oc=5)
+### [Podiumsdiskussion in Emsdetten: „Psychische Gesundheit – Braucht Versorgung“ - Alles Detten](https://news.google.com/rss/articles/CBMimwFBVV95cUxPX1R0SHROYkxKalhfNW9SdXVEdXM0dWpxZkNnU3dhbzRIOXlYU29aSVZ3d1pWSjRZaVFnaVRfcV9qSlYzdGR1bTNrcnNHaVpIRjdNWjNXSGhieEpJQ2ZfZlhVWTZrSTVsVGVHNGhQSWpMcWtNbFc4VzRWWmVQUTV3em1uQ1lhRE9aV1VMY1FJZ2lxbEVGdklZS3pCbw?oc=5)
+
+2026-10-29
+
+Source: [Alles Detten](https://news.google.com/rss/articles/CBMimwFBVV95cUxPX1R0SHROYkxKalhfNW9SdXVEdXM0dWpxZkNnU3dhbzRIOXlYU29aSVZ3d1pWSjRZaVFnaVRfcV9qSlYzdGR1bTNrcnNHaVpIRjdNWjNXSGhieEpJQ2ZfZlhVWTZrSTVsVGVHNGhQSWpMcWtNbFc4VzRWWmVQUTV3em1uQ1lhRE9aV1VMY1FJZ2lxbEVGdklZS3pCbw?oc=5)
+
+---
+
+### ['I couldn't move, walk or talk after my stroke'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
+
+2026-10-29
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
+
+---
+
+### [Un fármaco experimental reduce un 32% el riesgo de muerte por cáncer de endometrio avanzado](https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFZEZkJCb2FOM1NxNnlLb3o2S0c5MTVpYWxBSjJKWlNsYWJ2Vk1XdjNoT2dwUGVMQVpWeDZtRERrRGxuUFdoc1lWUl9QQ2lSY2xuYVpibWN5ZDh5SW1KQU1QdFE1LXIyZHJmb2I4YXJLWjJ6VTlnc2tsNkhGbHVMRG9HZHBMb0xQdndsbFFzUlBlQkxy?oc=5)
+
+2026-10-29
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFZEZkJCb2FOM1NxNnlLb3o2S0c5MTVpYWxBSjJKWlNsYWJ2Vk1XdjNoT2dwUGVMQVpWeDZtRERrRGxuUFdoc1lWUl9QQ2lSY2xuYVpibWN5ZDh5SW1KQU1QdFE1LXIyZHJmb2I4YXJLWjJ6VTlnc2tsNkhGbHVMRG9HZHBMb0xQdndsbFFzUlBlQkxy?oc=5)
+
+---
+
+### [Hpv, 'Il quinto' un fumetto per sensibilizzare sui rischi del papillomavirus - Il Tirreno](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa1dXUkFVdFduMm5DY3ptaWdESldxdHZWdDNQMlBsYmVieUhJNndzSURkbFlUZ19yX0VPWWxSZ2FTWjdyRVV0UmJVWFZBcnpRQ1lUeXNqRk9HN2pQMXB4Wmk2TVpQenFad0MtSDlLNmNuU1RDUVg3VjdIS2hPaWd0TXJFVUFJb24zLUhzNHFQeENRTTZoU1ZBT1cybUJMQ3N2OFN2N0R6bGRkcFpodnhDeFpUbmFBcUhkWDBUVFVIeGlDTXdQSkV0bzNaendITFkxMEFMbk85X2ozSmxrT0E?oc=5)
 
 2026-10-28
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU3NmWVhCSTZaY0JlYTRQUDhIdjk2UFdaUUE4M3NiYjJLbjFpOFF2emxlUHhRbEgwY1JicEJqSVAwOW5sVXJtYjZsWVdDYkNnMDhPemxoSTNnalh2aU9qQ01pdFVFeFJPYW4tWHM5aG9aQkRiV3Q4LUQ4S1RRcm1RRkRvN0tWY2FXRmE0cGhDTW1nTXZtaGkwUHI5MlJjVy0wbzNiTTBlNlRDZHZSbnJPTTAxa2R5aU82Y08yd2psdEt3TzAtR3ZyMmtCbDhjUld3Y2Vmb3RDVUtyU0N5aTRoVlhB?oc=5)
+Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa1dXUkFVdFduMm5DY3ptaWdESldxdHZWdDNQMlBsYmVieUhJNndzSURkbFlUZ19yX0VPWWxSZ2FTWjdyRVV0UmJVWFZBcnpRQ1lUeXNqRk9HN2pQMXB4Wmk2TVpQenFad0MtSDlLNmNuU1RDUVg3VjdIS2hPaWd0TXJFVUFJb24zLUhzNHFQeENRTTZoU1ZBT1cybUJMQ3N2OFN2N0R6bGRkcFpodnhDeFpUbmFBcUhkWDBUVFVIeGlDTXdQSkV0bzNaendITFkxMEFMbk85X2ozSmxrT0E?oc=5)
 
 ---
 
@@ -64,35 +88,11 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2J4
 
 ---
 
-### [Dites adieu aux nuits blanches ! Voici nos 3 conseils infaillibles pour retrouver votre sommeil - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZjlLODM3X2RhQk9LWU9hWU9VTU56dEFfdGFpM2E3eW5oTTFSZ3R0Wkc1bVEtNVFLMGxUdmhfdWI1TVgzU191bUVGWHI5SUwxRjhMTFFRRHpienlmTGdFcF9Hc0VTZm05TjhIUFkxU1JDTmlmeXhlNk1MQm5CNFJtQkZuekV5VTJxa0RWcmRaazZjcEo3R0VZNnRuMEx3UmlLSlZWZENTRkhvb3I2UkFNaDhkb1E4V25vWFdPZmZmSE9NMm1rUXdpbXVVVXgxWFBFVzlVYjFLTGlPdjVyTjIwWUFYRzZQSWFmbUE?oc=5)
-
-2026-10-28
-
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZjlLODM3X2RhQk9LWU9hWU9VTU56dEFfdGFpM2E3eW5oTTFSZ3R0Wkc1bVEtNVFLMGxUdmhfdWI1TVgzU191bUVGWHI5SUwxRjhMTFFRRHpienlmTGdFcF9Hc0VTZm05TjhIUFkxU1JDTmlmeXhlNk1MQm5CNFJtQkZuekV5VTJxa0RWcmRaazZjcEo3R0VZNnRuMEx3UmlLSlZWZENTRkhvb3I2UkFNaDhkb1E4V25vWFdPZmZmSE9NMm1rUXdpbXVVVXgxWFBFVzlVYjFLTGlPdjVyTjIwWUFYRzZQSWFmbUE?oc=5)
-
----
-
-### [Sie wollte MS nicht einfach ertragen: Eine junge Forscherin verlangte früh das stärkste Mittel](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUDNwVGw2bkdSSnZUVGl0bHBZeVh3cDJXVG5XamttdVBiZ0Z1NE90TUlydzJVR2tmZllXa1hvdTNCR3FzUEFiNFFXRDZsTDJQUmxUMlVJNzRvYjI2VW80clFvbjVGZWYwT1ZFN1Q3clRyQ3p0X0VJYkJZYjhsRWJ4YUw1R1V5WGZ0N2ZfLTNUcnd5Zy1tU1RRYUd2VGgzYm9OV0otdjMzaW5za2VubC1lM29Fc05FUkphcG9YblR2RWFiSVN0S0hiclQ4ZjV2bXFlN1N4Zmo4ODNXd0doS09j?oc=5)
-
-2026-10-28
-
-Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUDNwVGw2bkdSSnZUVGl0bHBZeVh3cDJXVG5XamttdVBiZ0Z1NE90TUlydzJVR2tmZllXa1hvdTNCR3FzUEFiNFFXRDZsTDJQUmxUMlVJNzRvYjI2VW80clFvbjVGZWYwT1ZFN1Q3clRyQ3p0X0VJYkJZYjhsRWJ4YUw1R1V5WGZ0N2ZfLTNUcnd5Zy1tU1RRYUd2VGgzYm9OV0otdjMzaW5za2VubC1lM29Fc05FUkphcG9YblR2RWFiSVN0S0hiclQ4ZjV2bXFlN1N4Zmo4ODNXd0doS09j?oc=5)
-
----
-
 ### [Lesetipp Heft 10/2026: Warum Abnehmen so schwer ist: Das Gehirn verteidigt das Körpergewicht - ERNÄHRUNGS UMSCHAU -](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbDNZcFd6dHJORjFFVDhQRllvNjVCaVk2WnkyYjB2LWM3SkM2cVBlSGcxeXdrbno0NU5rM0FsUDE4eDhhdEtnTzdKeFFjVDVKVUoyWHFEaWlVUG0yR3h5eHFKSnc3N2xwRE5FeFozZ3dQb1lPVXptVmJKX0I0eDlIOE9aRWlIR2dsMjNpY2ticGtiTUM0QXpHSmZPazUyYlhQYzlsdW84MnA4QQ?oc=5)
 
 2026-10-28
 
 Source: [ERNÄHRUNGS UMSCHAU -](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbDNZcFd6dHJORjFFVDhQRllvNjVCaVk2WnkyYjB2LWM3SkM2cVBlSGcxeXdrbno0NU5rM0FsUDE4eDhhdEtnTzdKeFFjVDVKVUoyWHFEaWlVUG0yR3h5eHFKSnc3N2xwRE5FeFozZ3dQb1lPVXptVmJKX0I0eDlIOE9aRWlIR2dsMjNpY2ticGtiTUM0QXpHSmZPazUyYlhQYzlsdW84MnA4QQ?oc=5)
-
----
-
-### [The 7 ‘camouflaged’ symptoms of little-known cancer most women ignore until too late - as cases double in under 50s - The Sun](https://news.google.com/rss/articles/CBMiekFVX3lxTE9nUUI3OU9ZX0k2WVdWeXE2TVV6NkF3cW1xRzlEZk5oRXBwREM0S3YzSXdBN3J5VXEycFNQcUY2V2R2UkFjMjJXYWpDc0s4VWdWdXJrZFJwbElFZ1pTdE5Sc2VhbF9RVmpsTUZFRnF5RkFiSXlYaG5KS2Vn?oc=5)
-
-2026-10-27
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMiekFVX3lxTE9nUUI3OU9ZX0k2WVdWeXE2TVV6NkF3cW1xRzlEZk5oRXBwREM0S3YzSXdBN3J5VXEycFNQcUY2V2R2UkFjMjJXYWpDc0s4VWdWdXJrZFJwbElFZ1pTdE5Sc2VhbF9RVmpsTUZFRnF5RkFiSXlYaG5KS2Vn?oc=5)
 
 ---
 
