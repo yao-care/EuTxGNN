@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Agomelatine. Original indication: For context, other top-ranked predictions are more.... 7 predicted indications."
 permalink: /news/agomelatine/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Agomelatine News
@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 
 ## Related News (6)
 
-### [No es solo cansancio: las señales de depresión relacionadas con el sueño, según Conrado Estol](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTDRLMElERHVTMm9RU1dxNU9uYWJ3VXExckdDTzBpV3NPNUw3ZTFManhGdFR1ZEdQMHZsNV9GSnh1UzdJaXh3bDB6M0pqdzRXbDNjVlhsbjlKUks4R3BYUl9nejBGdlRpMHc4a3hSRXNObGJGY0VhUzhYNldJYXNIcWI5bDFUcWktTDVxelFUQmZPUExHU2M5NTRJOTN1VGZfeTZfYTVRWG1KUWZmSFFGTTh4S0IySEE2ZWpRbEthZURFcGwxdjhtM3o2djZ4Z9IB6AFBVV95cUxNbXdQXzdKYzVlWXFVeGRNNHItTWoteW9iLWlJdGV3bGZ2NzRfOGlyZ2c1QW91NndPTVh2SXlscWNlNjV3LVBiUDctVU5uNVdyam5IUmVoX3RHNEVKNGh1dHgzN0hRREYtSlhhM0JCUWhsNnV3MXozbUFiTHBRU0czdDVHdjFNdnRUYVQ1OGRReE4zRVN2cW41aVNCcU5lbm9lZ3RRS0hYbmNJcmJ6UnM1VzFuenF2SC12OUZfVWZsZldtZ3Zra2NuZFN3YVFna1ZrcUtENUxPb0sxUlBCenhnS1JIWWZlRTkx?oc=5)
+### [Un nuevo estudio revela que los hábitos de sueño podrían estar relacionados con un tipo específico de depresión - La Nación](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc25GNkI1VzNTQkF5TEJ5VjZzdExJUmpXMU1qQkxUbFZ1SDFERVYtRDNRVk41bzRrRG95cFFXaFo2Uy1DQlYtR25pS0FXUTNDTjREVng4b2EzeFk0QkhFRExJYVVxbUFNakltNFBCdExKOU00LVNIcERtY3FtMEM0MnNWRXF3UlRkZWc2bWZBYzhxT2ppell3TDlkNlNVWVphWk5sNmZNWUdOeENzbHlHU1pFOHNNVFZCcXNTbUNCVnNzeFdDN1BtRGRJczZoOG1zYXpnM09wY2hUT0NGZHJTYTZOM2FmQQ?oc=5)
 
-2026-10-28 <span class="news-indication-tag">depresión</span>
+2026-10-29 <span class="news-indication-tag">depresión</span>
 
-Source: [Infobae](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTDRLMElERHVTMm9RU1dxNU9uYWJ3VXExckdDTzBpV3NPNUw3ZTFManhGdFR1ZEdQMHZsNV9GSnh1UzdJaXh3bDB6M0pqdzRXbDNjVlhsbjlKUks4R3BYUl9nejBGdlRpMHc4a3hSRXNObGJGY0VhUzhYNldJYXNIcWI5bDFUcWktTDVxelFUQmZPUExHU2M5NTRJOTN1VGZfeTZfYTVRWG1KUWZmSFFGTTh4S0IySEE2ZWpRbEthZURFcGwxdjhtM3o2djZ4Z9IB6AFBVV95cUxNbXdQXzdKYzVlWXFVeGRNNHItTWoteW9iLWlJdGV3bGZ2NzRfOGlyZ2c1QW91NndPTVh2SXlscWNlNjV3LVBiUDctVU5uNVdyam5IUmVoX3RHNEVKNGh1dHgzN0hRREYtSlhhM0JCUWhsNnV3MXozbUFiTHBRU0czdDVHdjFNdnRUYVQ1OGRReE4zRVN2cW41aVNCcU5lbm9lZ3RRS0hYbmNJcmJ6UnM1VzFuenF2SC12OUZfVWZsZldtZ3Zra2NuZFN3YVFna1ZrcUtENUxPb0sxUlBCenhnS1JIWWZlRTkx?oc=5)
+Source: [La Nación](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc25GNkI1VzNTQkF5TEJ5VjZzdExJUmpXMU1qQkxUbFZ1SDFERVYtRDNRVk41bzRrRG95cFFXaFo2Uy1DQlYtR25pS0FXUTNDTjREVng4b2EzeFk0QkhFRExJYVVxbUFNakltNFBCdExKOU00LVNIcERtY3FtMEM0MnNWRXF3UlRkZWc2bWZBYzhxT2ppell3TDlkNlNVWVphWk5sNmZNWUdOeENzbHlHU1pFOHNNVFZCcXNTbUNCVnNzeFdDN1BtRGRJczZoOG1zYXpnM09wY2hUT0NGZHJTYTZOM2FmQQ?oc=5)
 
 ---
 
@@ -66,14 +66,6 @@ Source: [ma-sante.news](https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEV
 
 ---
 
-### [Depression in der Schwangerschaft: Wie Psychotherapie das Baby schützt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMVJFTEhmR1o2bFJuVkI5b0JIWHZkX3pQN1NmWjRaT05uQTlTdElCdFc1NzJLZWJYVG4xRzdXRU8yc2lIUEo2djFSQzZPZFAzY2s1Zm5EdGJ3Qkd3UUs1cDZSNklpdWVJd2xNb3BnSXBVZTBWTkEyLTVrWkFtemFobnJwSUVzWVF2ci1rVWY5R0x3VFJGbGE4U195RWpDaHRFNUh1ZkNMandXSzZMMThQc0pyVW5iak16N3YxdnBIa0g1S0ZQSW0tS2ZQUlB5T3YtTjNFRzhn?oc=5)
-
-2026-10-27 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-Source: [FAZ](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMVJFTEhmR1o2bFJuVkI5b0JIWHZkX3pQN1NmWjRaT05uQTlTdElCdFc1NzJLZWJYVG4xRzdXRU8yc2lIUEo2djFSQzZPZFAzY2s1Zm5EdGJ3Qkd3UUs1cDZSNklpdWVJd2xNb3BnSXBVZTBWTkEyLTVrWkFtemFobnJwSUVzWVF2ci1rVWY5R0x3VFJGbGE4U195RWpDaHRFNUh1ZkNMandXSzZMMThQc0pyVW5iak16N3YxdnBIa0g1S0ZQSW0tS2ZQUlB5T3YtTjNFRzhn?oc=5)
-
----
-
 ### [Infosalus.- Un estudio relaciona la depresión con un 81% más de riesgo de mortalidad por cualquier causa](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRGlkcFBhdmE0enpfYkdYRjJWU3J1U3ByZzV4N1ZTMmNYU1F3LTJVRTNSanM5QkItMVlmUHpWUXNSbFBIbzBQTDFDNXFneE42RmRFclFiWWV2d0pyazdjUHEwS1psTHdaUldkcThoS1FtY0VkU2FZVUhDak5XSHNsQndhZmc1c013Yk9lZXowY3FHSmhad3dVc1lNWDlvWF9DRHZOS1dYbHJhaFU4dk9jRzFlNDg0ZVNBQ0xoMy1IMlNkc1lSOFQzSldoY0hVOE03YmdaRA?oc=5)
 
 2026-10-27 <span class="news-indication-tag">depresión</span>
@@ -87,6 +79,14 @@ Source: [Notimérica](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRGlkc
 2026-10-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">depression</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMGQzVFp1RVE4ZTRiZzdjTTdUTlJTdTBONWpqWVRuVklTbHdDUTRXTWwwY2p4RWZVWDYwUEE3MWFJMkVMLU01SW04X0dhMmxtSEFuZGhwWTZfOUx6WEVYLTMxZzFCaXU1UWdEY3F2Y1VPS0l5TWtydjRMOHlKanpGNGVvSmh6NlN3V1Y5ejNqTXlkZVF0QURpUDB2aFhTU21ZVy1tSndGZGhNU3pxelBlcEhiUXA?oc=5)
+
+---
+
+### [Depressionen in der Schwangerschaft mit höherem Förderbedarf bei Kindern assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaU5JX2laZ0FkbHZfZFY5LWhTbEdLNFNFbmxOaC1CUjFoTTItc1lKOUNBSkVmWkRORjU2UUtaYTlGVHNmQ2xyNTJXUXE5OFNfRVpHZnZvbmRZOWRuYk10VjVDOFRGQldOUFVlcTFQRTZnTFFpcEh4RkQ3TUNDM1FEUF82NHphX3NmQkg4Z0FHdnJ0SzhUeFJoNjRYamVWM2tPSWtkVThkVFpBWGRpeEJVSmE4TjBWSkZERHNqUkl2UndSQUk0TlVPRC1oNU5QaTJiREMtcUJZYUtab1lrSG02VjlQZ3ZTSzg?oc=5)
+
+2026-10-23 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaU5JX2laZ0FkbHZfZFY5LWhTbEdLNFNFbmxOaC1CUjFoTTItc1lKOUNBSkVmWkRORjU2UUtaYTlGVHNmQ2xyNTJXUXE5OFNfRVpHZnZvbmRZOWRuYk10VjVDOFRGQldOUFVlcTFQRTZnTFFpcEh4RkQ3TUNDM1FEUF82NHphX3NmQkg4Z0FHdnJ0SzhUeFJoNjRYamVWM2tPSWtkVThkVFpBWGRpeEJVSmE4TjBWSkZERHNqUkl2UndSQUk0TlVPRC1oNU5QaTJiREMtcUJZYUtab1lrSG02VjlQZ3ZTSzg?oc=5)
 
 ---
 

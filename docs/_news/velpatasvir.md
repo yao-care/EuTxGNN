@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Velpatasvir. 10 predicted indications."
 permalink: /news/velpatasvir/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Velpatasvir News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Velpatasvir?">
-<strong>Velpatasvir</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
+<strong>Velpatasvir</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Velpatasvir with the latest 
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (8)
 
 ### [Un ensayo demuestra la eficacia de un fármaco en la supervivencia de cáncer de endometrio avanzado](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU3NmWVhCSTZaY0JlYTRQUDhIdjk2UFdaUUE4M3NiYjJLbjFpOFF2emxlUHhRbEgwY1JicEJqSVAwOW5sVXJtYjZsWVdDYkNnMDhPemxoSTNnalh2aU9qQ01pdFVFeFJPYW4tWHM5aG9aQkRiV3Q4LUQ4S1RRcm1RRkRvN0tWY2FXRmE0cGhDTW1nTXZtaGkwUHI5MlJjVy0wbzNiTTBlNlRDZHZSbnJPTTAxa2R5aU82Y08yd2psdEt3TzAtR3ZyMmtCbDhjUld3Y2Vmb3RDVUtyU0N5aTRoVlhB?oc=5)
 
@@ -92,11 +92,11 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiekFVX3lxTE9nUUI3OU9ZX
 
 ---
 
-### [Infosalus.- La AEHVE destaca que un nuevo tratamiento logra la curación funcional de la hepatitis B en el 19% de los pacientes](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM09kamFLbG9xTmlkT1V2c2ZhTzV4WUU5UUg4ZFlxUF9Cc21kekFZNV9wQzZtQjNLMmJpeHBjczdXYko0RFNhUmYyUFRFV0FZZjNpVFlNaEpsM3NPVFZfa1Y3YlhQY0NOd1dKM1FRUHM5YVp6UElkOXNkNi1CNFNEM3QwbzlvdVMwSlBtVUJ3VUZVRUJZdDhLcVhnN1hLZW03YVhYQVNDRDdmcWw2NmRTQXo0akxvY3gtai05Tk90SG50UkFJTzJIMWE4RnRQYmJOREZrWGY5LVFDa3ZYR1loWGlDNA?oc=5)
+### [La AEHVE resalta que un nuevo fármaco logra curación funcional de la hepatitis B en el 19% de los pacientes](https://news.google.com/rss/articles/CBMi1wFBVV95cUxObTJ3TmtuVjhFNzhkYnpvNFFpaTU0NWhXX2VmbzJsVFJHQTBnNXJRX19tWnN5aXNTd0xxZk02Z3NVdzJzNjlXUGpZTzVJbnJDVk1vQS1LTzNJVFprN25zcTBtV3B2ZC1IR3JCYjVuLXBOdTNtSnoybmhQM1phaXlLM09wUGNTeElleVZXSGVMUGNRem0tczMwLXNQNDdtVXo4anBSeHRYV2Q3VXZVakJHUzdxTWZXb1h0bjhGT0E0Ym1NTFBudXdWQ25Kb3h3Skh1aW41a0M4RdIB3AFBVV95cUxNaDdFY0tTaHYxOG5WbFdnR0tvdmRpX2NwLUtpN1lwaGFsNzQzbGZIWUFSQWZ5SDFwTG40SnZIRXRVYThrWDBOMVhRRnFjM3NoV09ETzhsVVdmV2d5Nl9WVU5BRU81Xy0xb0lLQ0Q1cldSa20ta2tTcGktLVhiclpkUTk2cmtXdFBoWm1JSDExMkRUNGh0SDZDVkVUam5jaUFJOUpYV2E0OFBrTHZBX1NYenZROE91ZThEa01tNGVoaGYyTnJhbFdmd0hhTWU1eV9vazV6VHpJYVRXRDlO?oc=5)
 
 2026-10-27 <span class="news-indication-tag">hepatitis</span>
 
-Source: [Notimérica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM09kamFLbG9xTmlkT1V2c2ZhTzV4WUU5UUg4ZFlxUF9Cc21kekFZNV9wQzZtQjNLMmJpeHBjczdXYko0RFNhUmYyUFRFV0FZZjNpVFlNaEpsM3NPVFZfa1Y3YlhQY0NOd1dKM1FRUHM5YVp6UElkOXNkNi1CNFNEM3QwbzlvdVMwSlBtVUJ3VUZVRUJZdDhLcVhnN1hLZW03YVhYQVNDRDdmcWw2NmRTQXo0akxvY3gtai05Tk90SG50UkFJTzJIMWE4RnRQYmJOREZrWGY5LVFDa3ZYR1loWGlDNA?oc=5)
+Source: [Demócrata](https://news.google.com/rss/articles/CBMi1wFBVV95cUxObTJ3TmtuVjhFNzhkYnpvNFFpaTU0NWhXX2VmbzJsVFJHQTBnNXJRX19tWnN5aXNTd0xxZk02Z3NVdzJzNjlXUGpZTzVJbnJDVk1vQS1LTzNJVFprN25zcTBtV3B2ZC1IR3JCYjVuLXBOdTNtSnoybmhQM1phaXlLM09wUGNTeElleVZXSGVMUGNRem0tczMwLXNQNDdtVXo4anBSeHRYV2Q3VXZVakJHUzdxTWZXb1h0bjhGT0E0Ym1NTFBudXdWQ25Kb3h3Skh1aW41a0M4RdIB3AFBVV95cUxNaDdFY0tTaHYxOG5WbFdnR0tvdmRpX2NwLUtpN1lwaGFsNzQzbGZIWUFSQWZ5SDFwTG40SnZIRXRVYThrWDBOMVhRRnFjM3NoV09ETzhsVVdmV2d5Nl9WVU5BRU81Xy0xb0lLQ0Q1cldSa20ta2tTcGktLVhiclpkUTk2cmtXdFBoWm1JSDExMkRUNGh0SDZDVkVUam5jaUFJOUpYV2E0OFBrTHZBX1NYenZROE91ZThEa01tNGVoaGYyTnJhbFdmd0hhTWU1eV9vazV6VHpJYVRXRDlO?oc=5)
 
 ---
 
@@ -105,22 +105,6 @@ Source: [Notimérica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM09ka
 2026-10-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS2w4Y1RWTnRpZjJnT0NSYzJOZ3h1TFU2LS1jVVBkQ0xjWlFPQWdyNFp3QUFqcHI5a213S2t3VThnMzh5MDVVandYUGZnUUQxV3NsM2Y0MW9wWnhoN1VFeUhLa0VCUkl3c3U0dERGS210R0pfNGF3dlc2OUZyS3lndERsVjEyTUZOOWsxUEJXdW45akE5UlZ4M0VCODB4dzVMLXllRlVMWWZGMVljV2xHeTk3QVFuMUJmNWtNZ2VEOU1Xd0F6aElQNTZsWlUtY2VTaW11cGFHM1FXaG9ZWE1RSy03UktDcUFid3NPdHRxTlJRNXVUUHk0dW05MTdnTTjSAYQCQVVfeXFMTlpzWXdNTE9WbGh2RVVYRTJtQXVzTHpyZG5TajlUNDNVTnVEb2ZPbzJScDlZdjE4MkJSVGdYLTk5NEdaUE1DSmhkSUF3NXFCamdxQWd0Nzd1RnlSODNySGtVZ3F4c2pUR3kxcDVjMmJyYTN6a3FNcVlfUVlxZXdWWHdJaXgtQm1hUVJxcHhWa0s0ZDY2aU55SFZGTzVXQ0Y4enV4UHBOQjBuSllIalZZa0Z6NDlESUNBNkJtQ3VzOHZWTlc4MWdCb1FiT1ZuTFRSc3ZySm1ZeTdEMkM2TktHN2VhRjM1Y3AtZTdaeVc4T0lrbjU2THZjMUxUSlNLN0JTUXk5UE4?oc=5)
-
----
-
-### [Psilocybin reshapes brain connections through distinct cellular pathways](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMVhqeHpaSGRBZmljcFgtTWh6cGM3aThyS19UMEdTaVNWeWNRSUNfSjloVEVfWEk4VXNna1V4TWJEZ3hOelFHVldTdzRnT09fSkI4SXZ5bHZpQUJFVHpSWnM4Nmpkb0pwQWd3UlRLamtLLXVWVkdwb3FJZXoydDlzMDFLZWNFYXRhTlZWWE80emRTY0JlRU1NbjFFZTdYVlkydGJhNUFGRWVHTHFQWmtEakZvWTVVcWU0QU13YQ?oc=5)
-
-2026-10-23 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMVhqeHpaSGRBZmljcFgtTWh6cGM3aThyS19UMEdTaVNWeWNRSUNfSjloVEVfWEk4VXNna1V4TWJEZ3hOelFHVldTdzRnT09fSkI4SXZ5bHZpQUJFVHpSWnM4Nmpkb0pwQWd3UlRLamtLLXVWVkdwb3FJZXoydDlzMDFLZWNFYXRhTlZWWE80emRTY0JlRU1NbjFFZTdYVlkydGJhNUFGRWVHTHFQWmtEakZvWTVVcWU0QU13YQ?oc=5)
-
----
-
-### [Women take to social media to break the taboo of UTIs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFMlQzSGUzLUNIUlhBTGYtQmp2dmU2c00tamNEejhfYUlHRllXRG5saEl4RWE2a3VER1J0Y1JydDEtbVJZMUdNZU5Fb25WQXRpT1lZZHlZNE9MSmpqc1E?oc=5)
-
-2026-10-21 <span class="news-indication-tag">MS</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFMlQzSGUzLUNIUlhBTGYtQmp2dmU2c00tamNEejhfYUlHRllXRG5saEl4RWE2a3VER1J0Y1JydDEtbVJZMUdNZU5Fb25WQXRpT1lZZHlZNE9MSmpqc1E?oc=5)
 
 ---
 

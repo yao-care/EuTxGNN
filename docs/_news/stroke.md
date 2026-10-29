@@ -3,9 +3,9 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 10 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 11 articles, 11 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # ictus (stroke) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>10 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>11 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (10)
+## Related News (11)
 
 ### [Los hospitales públicos de Canarias registran 2.770 ingresos por ictus en el último año](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUlZ3WDFwa3FwY0pnVFAweW9KUGsyVXMxQUpfREV0U0RReHprQS1KY29UR2VsTXhLQjJiSkcta0RuRU9kMC1qOXpHS1pyNVdBWW5VcTBNbk0yVkZyakxEZ2lDQWtrM2hQY0FoQm9acGxIWWdMa2dRYmpMbzBPM0ZRa3JtSW96Q2U3X0VEbkFDbW1fajJNX1k0TXJJQjB5V3NlVUx4QlNheklNZ1E1STNPU0VFU25POGViWWxFMUVR0gHDAUFVX3lxTFBRdDYwZzhQaTBzZElTUUtRa3pTQjBmX1VrdTEwUndPU3ZiZ1JwXzhCdTFWM1VjV3MzWHpvWF85WnJSQk5uRmdOQUlneWlpdks0UDNfdmhuVUxCaTRFeFJocDVsV29yTDhQS25WREtkb0VBQnZtQ3VDbnRfbE16TzNvN1VRY3lYb3JjYUFwVFdnV3lQY2xGZUhyMU1MaTZwQWZPOXYtYU1DMjZCWmE1Z2VJOTdzUV9jNlNSYTlLODNtOUNLZw?oc=5)
 
@@ -114,6 +114,14 @@ Source: [ConSalud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFk2Z1Rw
 2026-10-28
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkRVSXpQX2U1aElYVEFYT1lqWmpzenY3MWhIZ0FhdW9oOVFQYzJRNzJCa3Z0azhjbnlETUt2dnlSZFFtWEp0THhndG1ybkRXU1UydGtmd2FNU0NWRTZCb0FScXVnNXdENmhDSnRrczBkSmxqbU41cWs4M1VPTmZyOG42a2RQVnpTWFhIcGtPUWlIbTNvaFJhbF8yQTRmUmpUeFN3c2x3OU40U3VVVEk3VDBPNFBUR3pZdFgyV3FYbC1QWnVfSGpsZ1dJUTFRWVg0SVJrMQ?oc=5)
+
+---
+
+### [El ruido hospitalario, un factor clave en la seguridad del paciente con ictus](https://news.google.com/rss/articles/CBMigAFBVV95cUxQS055Z0xKd0hzYnN4RmF1Y05fbmt4ME5JbWt1SjlTZ3JCRzQ0MEVVaURySE0tSW5DTmNDbWFLeS13VFpNTFNhQ1VOSHQtZHBvR0NmV09QUC1GaXJ2eVppSmtIR3UxT2dSbUtmUjBPQ0Q0VkhHUHdiUTNRVU5TUG40aQ?oc=5)
+
+2026-10-27
+
+Source: [Enfermería21](https://news.google.com/rss/articles/CBMigAFBVV95cUxQS055Z0xKd0hzYnN4RmF1Y05fbmt4ME5JbWt1SjlTZ3JCRzQ0MEVVaURySE0tSW5DTmNDbWFLeS13VFpNTFNhQ1VOSHQtZHBvR0NmV09QUC1GaXJ2eVppSmtIR3UxT2dSbUtmUjBPQ0Q0VkhHUHdiUTNRVU5TUG40aQ?oc=5)
 
 ---
 
