@@ -17,6 +17,50 @@ permalink: /
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+## European Union: what this site covers
+
+This site publishes reports for **{{ site.data.drug_stats.total_drugs }}** medicines listed in the registration data of [EMA](https://www.ema.europa.eu/) (European Union).
+
+Reports by evidence level: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+
+### Highest evidence levels on this site
+
+| Medicine | Evidence level |
+|---|---|
+| [Busulfan](/drugs/busulfan/) | L1 |
+| [Lanadelumab](/drugs/lanadelumab/) | L1 |
+| [Nepafenac](/drugs/nepafenac/) | L1 |
+| [Oteracil](/drugs/oteracil/) | L1 |
+| [Solriamfetol](/drugs/solriamfetol/) | L1 |
+| [Tegafur](/drugs/tegafur/) | L1 |
+| [Hydrocortisone](/drugs/hydrocortisone/) | L1 |
+| [Peginterferon Alfa-2A](/drugs/peginterferon-alfa-2a/) | L1 |
+| [Clofarabine](/drugs/clofarabine/) | L1 |
+| [Doxorubicin](/drugs/doxorubicin/) | L1 |
+
+### Medicines covered only by this site among the 30 TxGNN sites
+
+| Medicine | Evidence level |
+|---|---|
+| [Florbetaben 18F](/drugs/florbetaben-18f/) | L5 |
+| [Florbetapir 18F](/drugs/florbetapir-18f/) | L5 |
+| [Afamelanotide](/drugs/afamelanotide/) | N/A |
+| [Artenimol](/drugs/artenimol/) | N/A |
+| [Bazedoxifene](/drugs/bazedoxifene/) | N/A |
+| [Belatacept](/drugs/belatacept/) | N/A |
+| [Cangrelor](/drugs/cangrelor/) | N/A |
+| [Cenobamate](/drugs/cenobamate/) | N/A |
+| [Darifenacin](/drugs/darifenacin/) | N/A |
+| [Enfuvirtide](/drugs/enfuvirtide/) | N/A |
+| [Eslicarbazepine Acetate](/drugs/eslicarbazepine-acetate/) | N/A |
+| [Fesoterodine](/drugs/fesoterodine/) | N/A |
+| [Ganaxolone](/drugs/ganaxolone/) | N/A |
+| [Glasdegib](/drugs/glasdegib/) | N/A |
+| [Lixisenatide](/drugs/lixisenatide/) | N/A |
+
+<!-- local-home:end -->
+
 ## Drug Search
 
 Enter a **drug name** or **disease name** to find repurposing predictions. Supports generic names, brand names, and disease keywords.
