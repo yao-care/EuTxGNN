@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Epinephrine?">
-<strong>Epinephrine</strong> currently has <strong>3 news articles</strong>, with 3 predicted indications.
+<strong>Epinephrine</strong> currently has <strong>2 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Nucala ya está disponible y financiado en España para pacientes con EPOC eosinofílica - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOWktRkZoZXZHc1RmTlJmaGhhWklhZnFLME5NbVNqcTRRenN2NHZQXy1vWU1mUDhXMDdmZnFWdk96bkpuNUFsaEZ0cHdzLVRqM0dBYUJEOFJTZkNNaXlTX3A3T3pLSkZRNkVjbmhkNl9MUkFYSTVFS3ZQQnhIQm82alRaejdyeTZoOFRKcUsyb1hzeFpnU2VsT1pOWXZ3Z2lVY0xzUlNRdmFMVmVfQVNDejljREkxbEgyQk9FSkVmTdIBugFBVV95cUxPNGY0V0tiemNoSjlsWDFWNTVqbTFfaDBiU2ozUC01SHhLcUROemFwMzBmdTNpOE1XTVpXRXRKYzdyeER0T0RSSjJUSl9WWE1wR0dYc1RWQWszX0RyS3lTd29LLVlkOEdoZjdxM2dJY2I5a2RrYjhteDBLbWtMS21iZXNEWTJiajJOMXFfTkF6ZGtheDB0MEM2bENzWWU4M1ktLXlVLXNORVNFRVgzb3h1dEpvMkVnemVzT3c?oc=5)
 
 2026-10-28 <span class="news-drug-tag">Mepolizumab</span> <span class="news-indication-tag">EPOC</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOWktRkZoZXZHc1RmTlJmaGhhWklhZnFLME5NbVNqcTRRenN2NHZQXy1vWU1mUDhXMDdmZnFWdk96bkpuNUFsaEZ0cHdzLVRqM0dBYUJEOFJTZkNNaXlTX3A3T3pLSkZRNkVjbmhkNl9MUkFYSTVFS3ZQQnhIQm82alRaejdyeTZoOFRKcUsyb1hzeFpnU2VsT1pOWXZ3Z2lVY0xzUlNRdmFMVmVfQVNDejljREkxbEgyQk9FSkVmTdIBugFBVV95cUxPNGY0V0tiemNoSjlsWDFWNTVqbTFfaDBiU2ozUC01SHhLcUROemFwMzBmdTNpOE1XTVpXRXRKYzdyeER0T0RSSjJUSl9WWE1wR0dYc1RWQWszX0RyS3lTd29LLVlkOEdoZjdxM2dJY2I5a2RrYjhteDBLbWtMS21iZXNEWTJiajJOMXFfTkF6ZGtheDB0MEM2bENzWWU4M1ktLXlVLXNORVNFRVgzb3h1dEpvMkVnemVzT3c?oc=5)
-
----
-
-### [Omalizumab : Xolair devient substituable en officine par son biosimilaire Omlyclo - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQekpLanA4T2ljX3dZNTAzYm9oY1dqbmo4VlJ6X1pHRlcyajRWS19RbEozeWF5cGU3bTN4eHNobW5fMU1ubklyclI0eV9LZklmX2dkMVZHOFA4MTVSM1hlS3ljQ1FwekdZTUw5S2owY290VTJuMGZkZXcxel9zVWU1dmdBZ0ZlVGVxOWZVS3otOS0zektnWTdpMjJCZFg5Z3ZLclU4aHdRRmtVeFlGcC1rTVA0Q1lCTmpnQ04yVzhBUm9FRDdaWjY3Q0xMN0g5ZFVKY0dwb0g1bnJmbXJCaUJhVmR5SFRha2kxbUlRVmdiOFU?oc=5)
-
-2026-10-27 <span class="news-drug-tag">Omalizumab</span> <span class="news-indication-tag">asthme</span>
-
-Source: [Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQekpLanA4T2ljX3dZNTAzYm9oY1dqbmo4VlJ6X1pHRlcyajRWS19RbEozeWF5cGU3bTN4eHNobW5fMU1ubklyclI0eV9LZklmX2dkMVZHOFA4MTVSM1hlS3ljQ1FwekdZTUw5S2owY290VTJuMGZkZXcxel9zVWU1dmdBZ0ZlVGVxOWZVS3otOS0zektnWTdpMjJCZFg5Z3ZLclU4aHdRRmtVeFlGcC1rTVA0Q1lCTmpnQ04yVzhBUm9FRDdaWjY3Q0xMN0g5ZFVKY0dwb0g1bnJmbXJCaUJhVmR5SFRha2kxbUlRVmdiOFU?oc=5)
 
 ---
 

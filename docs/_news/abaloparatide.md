@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>14 news articles</strong>, with 4 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>12 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (12)
 
-### ['I couldn't move, walk or talk after my stroke'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
+### [Diabetes-Remission rückt näher: 54 Prozent durch Ernährung und Training - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2NqejdFaXFpUF8tRTFDY0haZlFpbHpMdnRmSWJjcS1oX2tScXYzUVlYdnY4U2k2b3AzTnl3R2p4RHBQX3NOaE9QV19fS0hwTDY0TGdqU3JWaG9feDVObXUwRmc5TlFZdHpNSnEtM2M0dkN5WVVIWURDZXJjcnExUDZoM3hFbDlnZ2FrbUtzLXZQalVidTRFOFJHbml3ODl6OHFoeGwydkY?oc=5)
 
-2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2NqejdFaXFpUF8tRTFDY0haZlFpbHpMdnRmSWJjcS1oX2tScXYzUVlYdnY4U2k2b3AzTnl3R2p4RHBQX3NOaE9QV19fS0hwTDY0TGdqU3JWaG9feDVObXUwRmc5TlFZdHpNSnEtM2M0dkN5WVVIWURDZXJjcnExUDZoM3hFbDlnZ2FrbUtzLXZQalVidTRFOFJHbml3ODl6OHFoeGwydkY?oc=5)
+
+---
+
+### [Elektronik statt Medikamente gegen Diabetes](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNVktRVRWZ3N1SzYtWEowRmF4ZzBnZy1jckFiRjRGRXNLN3NBYUkydkpJRVRjcVV6OTVLT25zWDFPMm1hMVhyRzJoaXI0Yl91M3lhYVdTVG54R1d0QjBQdmZUNVQ0YlhDekkyT052ZXBQSk0wRWFHbnpfRFp5UUxzZUhzQ21EaXpkTW5ETWIzMC1xcFBqYUE?oc=5)
+
+2026-10-29 <span class="news-indication-tag">diabetes</span>
+
+Source: [transkript.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNVktRVRWZ3N1SzYtWEowRmF4ZzBnZy1jckFiRjRGRXNLN3NBYUkydkpJRVRjcVV6OTVLT25zWDFPMm1hMVhyRzJoaXI0Yl91M3lhYVdTVG54R1d0QjBQdmZUNVQ0YlhDekkyT052ZXBQSk0wRWFHbnpfRFp5UUxzZUhzQ21EaXpkTW5ETWIzMC1xcFBqYUE?oc=5)
 
 ---
 
@@ -54,11 +62,11 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3p5dXZJR
 
 ---
 
-### [Adipositas und Typ-1-Diabetes: Operation schlägt Medikamente bei Gewichtsverlust](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
+### [Typ-2-Diabetes: Operation erreicht 58 Prozent Remission, Medikamente nur 3](https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0I3WmM4VUh2TGkzTmhhdk9FNTN3RGpIT1ZQTmxEYnpYTndpc04wZEJnRGNUcFpDcEg4MHcxRGRNU2tieUZaTnVRQXJRNGd3cFN1QkxsR05tY0pJaDl5UzZubWE1NHItS09hLWtueDhHazd4VGFSNjVoVHJWOVVReS1tV3RoRlkteDBwbDVIRWdGakxCTTRnNXhZZEdoZDRBWk5OWmZPSjhsXzdVdUZlRVpzdmNpLUlLLXh3SHZn?oc=5)
 
-2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-10-29 <span class="news-indication-tag">diabetes</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0I3WmM4VUh2TGkzTmhhdk9FNTN3RGpIT1ZQTmxEYnpYTndpc04wZEJnRGNUcFpDcEg4MHcxRGRNU2tieUZaTnVRQXJRNGd3cFN1QkxsR05tY0pJaDl5UzZubWE1NHItS09hLWtueDhHazd4VGFSNjVoVHJWOVVReS1tV3RoRlkteDBwbDVIRWdGakxCTTRnNXhZZEdoZDRBWk5OWmZPSjhsXzdVdUZlRVpzdmNpLUlLLXh3SHZn?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxN
 2026-10-28 <span class="news-indication-tag">migraña</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWjgyNkhYYkptbHhfSk5VYlVwaEY4Z2FUbXl6dW40ckotcEo4RWZfQjBXN1labU9ydFBkZnBTVWtqOTlWXzNKWGoyTkdXMUpDejg0OXY5QXhfNW5wTlJGSjFCTHJuM04waE1tUE1uNXN6RTNGWjJDNC1RX18tT0w1MDBEeU1LZDRhcThfZGR5Nm9wWGdEcWlsMzlscVpHMktnMV9MZFg1NUxaV1lLMkRXdExjX1BoOWtaMndXbnUxN1JsUdIBvAFBVV95cUxNS2dINGNEeEl4R1AzUUJCVWYwWW5aMW1vYnU1Y3hLdXZFVG90Ni1tUVNZZFNNZjZ6OHVwbS1zUjdsa0ltTHI4QmRKREpCSTNoemlsQkgyRnFyYzU1V2RzVWZ2TzFyT0Y2dURNaEhFZXBJRDkxNGpNTUM0azR5Y1cwTHEzZnFRSlpxU0w1d1JDVW0tdlBEck5pZzRPOHR1bW1oT3RDSER0WGJha3JpYWJrNnlWcTlrWmxRcUxFUg?oc=5)
-
----
-
-### [Implantat baut überschüssige Glukose bei Typ-2-Diabetes ab](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbll6Y2F5VV9NNUpHRlFJSmJCVzc1eGI5QURCRkpzQWRhYnBIS3NHQWdpVzlBbW9fOWtQTEVyR0VMQlJqUzNiX3FaWmJDNlY1N1NFdFlUT3Y4UGdpM1dwUUxjZThYc08xVjJWelVybndvZzJUTTdyWEpNbFVZWm9SU2t1Y0FFR0p3VkR5SXE3b1JsZWti?oc=5)
-
-2026-10-28 <span class="news-indication-tag">diabetes</span>
-
-Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbll6Y2F5VV9NNUpHRlFJSmJCVzc1eGI5QURCRkpzQWRhYnBIS3NHQWdpVzlBbW9fOWtQTEVyR0VMQlJqUzNiX3FaWmJDNlY1N1NFdFlUT3Y4UGdpM1dwUUxjZThYc08xVjJWelVybndvZzJUTTdyWEpNbFVZWm9SU2t1Y0FFR0p3VkR5SXE3b1JsZWti?oc=5)
 
 ---
 
@@ -115,22 +115,6 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMivgFBVV95cU
 2026-10-28 <span class="news-indication-tag">diabetes</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFh4LXdDUEZkVmxsbU9QSlJhVGxjNGRhTE1UUXViYVBkVTNvSkF5QW1lY1dSV1BaSkZLb0ZoT3NqSFhfNkxIclNwbXFadzd0aGFpV2xvcW5vVnRybnBoY1BMRGFPS1dQWS1rTmV3Q2FUQXI4VTJ2V1hWN2w4d21fMnRfbUp1SEU1b3I1NlBoQ1hrNDFUeTdtQmxzSEZIMFhNaVpRQlJjaFFmNnZBRXVnR0N3T241WUg4ZzN3Q0JURWo?oc=5)
-
----
-
-### [Un aceite de oliva para mejorar el funcionamiento del riñón en personas con diabetes tipo 2 - El Obrero](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQmdUbkY5NGF2bWJpTm02U1NYa2UzQ3NYbHUtMHV0R3dxb2xiQUU2RUFuZWU1TzFvem9CQ2FFX0pUQ0d3ZXNoX05valVCcGVQV1ZVeWZNSV9zdmlVXzYwUFdVak1sSjkzVVl2NGJQUGhUUTBYRVphMmZqOC12OUNOZGtneUxHYWphZE1rc3Z1YVEzZTM4ZWtBajFqdHV5S2tLcFJLVlhsMnV1X05hamEzaUVMMUhaOEY2NjREZG5IZERkRkxoVWcxZmVZNTNGeUEtV1JZdi1n?oc=5)
-
-2026-10-27 <span class="news-indication-tag">diabetes</span>
-
-Source: [El Obrero](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQmdUbkY5NGF2bWJpTm02U1NYa2UzQ3NYbHUtMHV0R3dxb2xiQUU2RUFuZWU1TzFvem9CQ2FFX0pUQ0d3ZXNoX05valVCcGVQV1ZVeWZNSV9zdmlVXzYwUFdVak1sSjkzVVl2NGJQUGhUUTBYRVphMmZqOC12OUNOZGtneUxHYWphZE1rc3Z1YVEzZTM4ZWtBajFqdHV5S2tLcFJLVlhsMnV1X05hamEzaUVMMUhaOEY2NjREZG5IZERkRkxoVWcxZmVZNTNGeUEtV1JZdi1n?oc=5)
-
----
-
-### [Diabete tipo 2, via libera del CHMP a IcoSema](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMjlLRkl4alB6MGlXNWg5WDBqUENQWFNhQ003c1IzSF8zbXhwbEFGdTdzTGZnNUtlVmtvMFVudDFPTVcwSjhVSlZRMG1qQk42WGNVcGxreFNwWU16dERaSnVRVUk4V3ItaktSS0FidWpqTVRiTS1xS3pySHY0YS1QQlQ4LWZya2R2OHN0czZPZFdxOXNRU3NlYkJnM3FHbTBldVVUTnVGOA?oc=5)
-
-2026-10-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
-
-Source: [socialfarma](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMjlLRkl4alB6MGlXNWg5WDBqUENQWFNhQ003c1IzSF8zbXhwbEFGdTdzTGZnNUtlVmtvMFVudDFPTVcwSjhVSlZRMG1qQk42WGNVcGxreFNwWU16dERaSnVRVUk4V3ItaktSS0FidWpqTVRiTS1xS3pySHY0YS1QQlQ4LWZya2R2OHN0czZPZFdxOXNRU3NlYkJnM3FHbTBldVVUTnVGOA?oc=5)
 
 ---
 

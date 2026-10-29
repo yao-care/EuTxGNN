@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>7 news articles</strong>, with 0 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>11 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,47 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (11)
+
+### [Un cardiólogo reclama que la vacuna de la gripe sea parte fija de la prevención en pacientes con cardiopatías](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
+
+2026-10-29 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">ictus</span>
+
+Source: [Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
+
+---
+
+### [Psoriasisarthritis: Kombinationstherapie erreicht bei 31,7 Prozent Doppelziel](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hXYjI2dlAya0NyVV9fVV9NS3h3Rkk1NVVtakloTk1nTUdrNnpCcjJmNjZ3WGRYWUtmaU1CdDhYVm50ZENwWE5KTmRNYkFhWHBKRzNNWlVKU0U2SEljWmVBNl9fMDJUNnNMeUZudDJkM2ZwYkZ2T3B1QndmalRnYkM1TzNRSzY5RlFYdm9DVnY4RnV5YzI1ellBTnNMcEdqUVJpd0k3UWFWU0JpaGw0RG5rYmprVTYzcWdoRG5FaHBHdWc?oc=5)
+
+2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hXYjI2dlAya0NyVV9fVV9NS3h3Rkk1NVVtakloTk1nTUdrNnpCcjJmNjZ3WGRYWUtmaU1CdDhYVm50ZENwWE5KTmRNYkFhWHBKRzNNWlVKU0U2SEljWmVBNl9fMDJUNnNMeUZudDJkM2ZwYkZ2T3B1QndmalRnYkM1TzNRSzY5RlFYdm9DVnY4RnV5YzI1ellBTnNMcEdqUVJpd0k3UWFWU0JpaGw0RG5rYmprVTYzcWdoRG5FaHBHdWc?oc=5)
+
+---
+
+### [La artritis psoriásica afecta a más de 230.000 personas en España: una enfermedad que va más allá de la piel - Salud a Diario](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzYzcERqSjBsakhsNl92dGxxcFRwaHF6VFBRanBSVWdodUZucWpSZ0tvNU5oVzl5c0VwV1N6VGJVQW5hMWI1MVZLMVJGaEVLaVM2VkppekRyMlhzclpwandyYlM2UVUxYUoxVUVac2MydGhwWlB2SnVGdE9VOEpBMmpiM0dPdmoxUEpwbExoRTBYZ2p1NVU5U2VVcDZNYW4zSExSRDhqNnJTd1J0RVNhZlZFMFZsRHp6ZHprUXJmeC1SVVBSX3ltbGYzeUI5VXptck83ZkNCRFRCcTBhOERR?oc=5)
+
+2026-10-29 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">AF</span>
+
+Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzYzcERqSjBsakhsNl92dGxxcFRwaHF6VFBRanBSVWdodUZucWpSZ0tvNU5oVzl5c0VwV1N6VGJVQW5hMWI1MVZLMVJGaEVLaVM2VkppekRyMlhzclpwandyYlM2UVUxYUoxVUVac2MydGhwWlB2SnVGdE9VOEpBMmpiM0dPdmoxUEpwbExoRTBYZ2p1NVU5U2VVcDZNYW4zSExSRDhqNnJTd1J0RVNhZlZFMFZsRHp6ZHprUXJmeC1SVVBSX3ltbGYzeUI5VXptck83ZkNCRFRCcTBhOERR?oc=5)
+
+---
+
+### [À Besançon, le CHU se mobilise contre une maladie cardiaque méconnue - 20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2Y3RHZ4b0VhOUdnY2pjVkw4emRTUDhOZS12QWF4LWlFRVlGR0JPenFaRXpPNFptVXU4S0NDbTBJakp5Skx0MVVmLVlOSkVBdHZMTUYzbnBxWUM1ZlRmekRnNnU2YUNUdFFPNFhIdjFhWU0zWTVsQ3hMZDZCd21VWGQ5NmFSa2EtUG92d2JQTXhQSVZZcXc1ZllZQTk1U180YnJ5ZzJQLUZ3MTdIOUc0UTFSU2trQU8xa2c?oc=5)
+
+2026-10-29 <span class="news-indication-tag">maladie cardiaque</span>
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2Y3RHZ4b0VhOUdnY2pjVkw4emRTUDhOZS12QWF4LWlFRVlGR0JPenFaRXpPNFptVXU4S0NDbTBJakp5Skx0MVVmLVlOSkVBdHZMTUYzbnBxWUM1ZlRmekRnNnU2YUNUdFFPNFhIdjFhWU0zWTVsQ3hMZDZCd21VWGQ5NmFSa2EtUG92d2JQTXhQSVZZcXc1ZllZQTk1U180YnJ5ZzJQLUZ3MTdIOUc0UTFSU2trQU8xa2c?oc=5)
+
+---
+
+### [Descubren una nueva vía para frenar la inflamación de la artritis](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWx1RjhUVi1yT0loa29QUkZlZHZXMTNxZVllMk9wUmEtalhMS1paN3BzNlJJTlpnR202QjBBVFNCcGVqbmpCT1lCTkRjRm1Zc3p5S1JzampOOXZyQVVMVGNsNGNhVHRzNEQ4ZEk2VGNyb3pSMV9yN1FQRkNFdjN2MjJOOUFfYmZGTmNaN2ExTjhDZzFMdml1QmxNa3ZoaEYyckR6bFFoN3hzSVVQOEZncHppbUowMHpPajFsdEt3?oc=5)
+
+2026-10-29 <span class="news-indication-tag">artritis</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWx1RjhUVi1yT0loa29QUkZlZHZXMTNxZVllMk9wUmEtalhMS1paN3BzNlJJTlpnR202QjBBVFNCcGVqbmpCT1lCTkRjRm1Zc3p5S1JzampOOXZyQVVMVGNsNGNhVHRzNEQ4ZEk2VGNyb3pSMV9yN1FQRkNFdjN2MjJOOUFfYmZGTmNaN2ExTjhDZzFMdml1QmxNa3ZoaEYyckR6bFFoN3hzSVVQOEZncHppbUowMHpPajFsdEt3?oc=5)
+
+---
 
 ### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
 
@@ -77,14 +117,6 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNldT
 2026-10-27 <span class="news-indication-tag">heart disease</span>
 
 Source: [SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxOVEVhcWJyWkM1RF9zVjJ3THhwWFhEQnJvcHRaNEIzWl9LYXM5Q0xsMkJCYjRjbC1kRXh6akw3bW5kV00tU0o1aWdubDZLUHZLOURpdzN4TGh1UV83RWU2d3hrRXhZc2IzTW45NUJ1Yld0czlFQ2JCaVRsTThtanNkdGdzUG5rMDl6aW5CSDJSbWFRVWVMVVFwNVo3QzZsdw?oc=5)
-
----
-
-### [Philippe était condamné à mort par la maladie, sa participation à un essai clinique le sauve: "J'ai retrouvé une vie quasi normale"](https://news.google.com/rss/articles/CBMisgJBVV95cUxNbE5zUG9LT1c5c2JzY2l2VTNmMkp3UDU3eGQwbkczX1A1eDhoNTkxSTVWMlpwaHNVLXhzRERCMTkzcHdJRkhFZlptYmpLdTNLcVdLZ3hZRkxFOHlDeU15aUV5REp2Rlh1R3I0bU9ONHFzTnFXODBYQXAzcXVSVGhrTkRiUFVmY2VYYzVHMHJGeWMzRDgtajFaYlJoR3pKMTFSLWx5Uk5xczZlWWVKQmtvSzdyTGFTOXB1THZxR2dlbG9CWG5Na2RHSGtCMGF5R01QbGI4amJBcGw5TUJXbmlrZ29waGxqbUpPbjV6Y1FSRWVmRlJlOVJXeTlpVFdjWndiSU1EWnJ2Uk1uVW5HelAzNlhpeTdmeGFZUThWRThySFZJcnRZNzJLYVNOcFN3c2FKTFE?oc=5)
-
-2026-10-26 <span class="news-indication-tag">maladie cardiaque</span>
-
-Source: [L'Avenir](https://news.google.com/rss/articles/CBMisgJBVV95cUxNbE5zUG9LT1c5c2JzY2l2VTNmMkp3UDU3eGQwbkczX1A1eDhoNTkxSTVWMlpwaHNVLXhzRERCMTkzcHdJRkhFZlptYmpLdTNLcVdLZ3hZRkxFOHlDeU15aUV5REp2Rlh1R3I0bU9ONHFzTnFXODBYQXAzcXVSVGhrTkRiUFVmY2VYYzVHMHJGeWMzRDgtajFaYlJoR3pKMTFSLWx5Uk5xczZlWWVKQmtvSzdyTGFTOXB1THZxR2dlbG9CWG5Na2RHSGtCMGF5R01QbGI4amJBcGw5TUJXbmlrZ29waGxqbUpPbjV6Y1FSRWVmRlJlOVJXeTlpVFdjWndiSU1EWnJ2Uk1uVW5HelAzNlhpeTdmeGFZUThWRThySFZJcnRZNzJLYVNOcFN3c2FKTFE?oc=5)
 
 ---
 

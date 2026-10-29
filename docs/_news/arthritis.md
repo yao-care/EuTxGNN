@@ -3,7 +3,7 @@ layout: default
 title: "artritis (arthritis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about artritis (arthritis). 3 articles, 73 related drugs."
+description: "Health news about artritis (arthritis). 6 articles, 73 related drugs."
 permalink: /news/arthritis/
 last_modified_at: 2026-10-29
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about artritis (arthritis)?">
-<strong>artritis (arthritis)</strong> currently has <strong>3 news articles</strong> and 73 related drugs.
+<strong>artritis (arthritis)</strong> currently has <strong>6 news articles</strong> and 73 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -79,7 +79,31 @@ This page brings together the latest health news about “artritis” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (6)
+
+### [Psoriasisarthritis: Kombinationstherapie erreicht bei 31,7 Prozent Doppelziel](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hXYjI2dlAya0NyVV9fVV9NS3h3Rkk1NVVtakloTk1nTUdrNnpCcjJmNjZ3WGRYWUtmaU1CdDhYVm50ZENwWE5KTmRNYkFhWHBKRzNNWlVKU0U2SEljWmVBNl9fMDJUNnNMeUZudDJkM2ZwYkZ2T3B1QndmalRnYkM1TzNRSzY5RlFYdm9DVnY4RnV5YzI1ellBTnNMcEdqUVJpd0k3UWFWU0JpaGw0RG5rYmprVTYzcWdoRG5FaHBHdWc?oc=5)
+
+2026-10-29
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hXYjI2dlAya0NyVV9fVV9NS3h3Rkk1NVVtakloTk1nTUdrNnpCcjJmNjZ3WGRYWUtmaU1CdDhYVm50ZENwWE5KTmRNYkFhWHBKRzNNWlVKU0U2SEljWmVBNl9fMDJUNnNMeUZudDJkM2ZwYkZ2T3B1QndmalRnYkM1TzNRSzY5RlFYdm9DVnY4RnV5YzI1ellBTnNMcEdqUVJpd0k3UWFWU0JpaGw0RG5rYmprVTYzcWdoRG5FaHBHdWc?oc=5)
+
+---
+
+### [La artritis psoriásica afecta a más de 230.000 personas en España: una enfermedad que va más allá de la piel - Salud a Diario](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzYzcERqSjBsakhsNl92dGxxcFRwaHF6VFBRanBSVWdodUZucWpSZ0tvNU5oVzl5c0VwV1N6VGJVQW5hMWI1MVZLMVJGaEVLaVM2VkppekRyMlhzclpwandyYlM2UVUxYUoxVUVac2MydGhwWlB2SnVGdE9VOEpBMmpiM0dPdmoxUEpwbExoRTBYZ2p1NVU5U2VVcDZNYW4zSExSRDhqNnJTd1J0RVNhZlZFMFZsRHp6ZHprUXJmeC1SVVBSX3ltbGYzeUI5VXptck83ZkNCRFRCcTBhOERR?oc=5)
+
+2026-10-29
+
+Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzYzcERqSjBsakhsNl92dGxxcFRwaHF6VFBRanBSVWdodUZucWpSZ0tvNU5oVzl5c0VwV1N6VGJVQW5hMWI1MVZLMVJGaEVLaVM2VkppekRyMlhzclpwandyYlM2UVUxYUoxVUVac2MydGhwWlB2SnVGdE9VOEpBMmpiM0dPdmoxUEpwbExoRTBYZ2p1NVU5U2VVcDZNYW4zSExSRDhqNnJTd1J0RVNhZlZFMFZsRHp6ZHprUXJmeC1SVVBSX3ltbGYzeUI5VXptck83ZkNCRFRCcTBhOERR?oc=5)
+
+---
+
+### [Descubren una nueva vía para frenar la inflamación de la artritis](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWx1RjhUVi1yT0loa29QUkZlZHZXMTNxZVllMk9wUmEtalhMS1paN3BzNlJJTlpnR202QjBBVFNCcGVqbmpCT1lCTkRjRm1Zc3p5S1JzampOOXZyQVVMVGNsNGNhVHRzNEQ4ZEk2VGNyb3pSMV9yN1FQRkNFdjN2MjJOOUFfYmZGTmNaN2ExTjhDZzFMdml1QmxNa3ZoaEYyckR6bFFoN3hzSVVQOEZncHppbUowMHpPajFsdEt3?oc=5)
+
+2026-10-29
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWx1RjhUVi1yT0loa29QUkZlZHZXMTNxZVllMk9wUmEtalhMS1paN3BzNlJJTlpnR202QjBBVFNCcGVqbmpCT1lCTkRjRm1Zc3p5S1JzampOOXZyQVVMVGNsNGNhVHRzNEQ4ZEk2VGNyb3pSMV9yN1FQRkNFdjN2MjJOOUFfYmZGTmNaN2ExTjhDZzFMdml1QmxNa3ZoaEYyckR6bFFoN3hzSVVQOEZncHppbUowMHpPajFsdEt3?oc=5)
+
+---
 
 ### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
 

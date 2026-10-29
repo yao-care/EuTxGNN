@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Ketoconazole?">
-<strong>Ketoconazole</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Ketoconazole</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,7 @@ This page combines the AI-predicted indications for Ketoconazole with the latest
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [Omalizumab : Xolair devient substituable en officine par son biosimilaire Omlyclo - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQekpLanA4T2ljX3dZNTAzYm9oY1dqbmo4VlJ6X1pHRlcyajRWS19RbEozeWF5cGU3bTN4eHNobW5fMU1ubklyclI0eV9LZklmX2dkMVZHOFA4MTVSM1hlS3ljQ1FwekdZTUw5S2owY290VTJuMGZkZXcxel9zVWU1dmdBZ0ZlVGVxOWZVS3otOS0zektnWTdpMjJCZFg5Z3ZLclU4aHdRRmtVeFlGcC1rTVA0Q1lCTmpnQ04yVzhBUm9FRDdaWjY3Q0xMN0g5ZFVKY0dwb0g1bnJmbXJCaUJhVmR5SFRha2kxbUlRVmdiOFU?oc=5)
-
-2026-10-27 <span class="news-drug-tag">Omalizumab</span> <span class="news-indication-tag">asthme</span>
-
-Source: [Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQekpLanA4T2ljX3dZNTAzYm9oY1dqbmo4VlJ6X1pHRlcyajRWS19RbEozeWF5cGU3bTN4eHNobW5fMU1ubklyclI0eV9LZklmX2dkMVZHOFA4MTVSM1hlS3ljQ1FwekdZTUw5S2owY290VTJuMGZkZXcxel9zVWU1dmdBZ0ZlVGVxOWZVS3otOS0zektnWTdpMjJCZFg5Z3ZLclU4aHdRRmtVeFlGcC1rTVA0Q1lCTmpnQ04yVzhBUm9FRDdaWjY3Q0xMN0g5ZFVKY0dwb0g1bnJmbXJCaUJhVmR5SFRha2kxbUlRVmdiOFU?oc=5)
-
----
+## Related News (1)
 
 ### [Asthma als möglicher Risikofaktor für Karies - ZWP online](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUdwQkVaeUUwXzBXMXh4aTZRQVZiRThSQTB6aS1NYnV0V2lJSzZSdUhkQXV1SGNsYUpJMVdnU3lkOEZsbzRJVTZnTnlzRU1BdWQ4RFZsd0lJZlBvdm1IY3JIM1REMnFYcmRYZGdreVlCX3Rralp1OU91Smk1dXkwd1Yzdjg0SmtDM2dPMU5rUzRodUxzOWFlUzNuTml3c0ZBd1lxeWJIYXNiU1JSV1Zr?oc=5)
 

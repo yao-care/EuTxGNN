@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
+<strong>Levodopa</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Dementia cases in US projected to rise dramatically by 2050, study finds - The Guardian](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTT0ZMbDhwVW9vNzJfZGZVdGpkR05BTFVMeG1YZ29GVHROb0lxVXE2dVhrd0JKcTNvYjB1UUNJSFN0WEN3elY4elRpMGl0NVkzeVRRaTZMMVZKcHRhb2JHMVk0N3BCazRaU0JQcUFGbVJWOHc0TlkwaVJhWQ?oc=5)
 
@@ -43,19 +43,11 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTT0ZM
 
 ---
 
-### [Common painkiller may slash dementia risk by 70% but it won't work for everyone - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWZmUFNCV2lLdEFzVFVzYkxqSlBxM08tSWVrcVVyWHJKWUVKb3dFLW1hNzItdHNFQXBhN29zSHpYdUFZR0g0TElhRWlxdEJmYU5BMGttZ1oxV2dXM1FxNno5VkVSME1LMUU4aUZhNnowcV9PaGtubGZEd25MZFRDdW9kdEhtRW4tUnc?oc=5)
+### [Healthy Aging Supplement Fails in Large PD Trial](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWml5V2tzQ3VlT0FpNm9ScFVKci1XWkc5WWpvSlF4SWVsTWVLcTFBaXVuY2dUa2dfdm05UXNpM1BrdFYwakdOdjlRd0hjQjFxaFpmY2tvR0xQV2E4M2loVWlWWkU0Mkg0eXFvc1hGSzB5ejgxNk1wd2k2Ui1KWmNjTHdpX0hBaFNWWVNfVTZ6NnhrYTg2NG5HUGYxTFdSUkp4cHh1cnoyWXA?oc=5)
 
-2026-10-26 <span class="news-indication-tag">dementia</span>
+2026-10-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWZmUFNCV2lLdEFzVFVzYkxqSlBxM08tSWVrcVVyWHJKWUVKb3dFLW1hNzItdHNFQXBhN29zSHpYdUFZR0g0TElhRWlxdEJmYU5BMGttZ1oxV2dXM1FxNno5VkVSME1LMUU4aUZhNnowcV9PaGtubGZEd25MZFRDdW9kdEhtRW4tUnc?oc=5)
-
----
-
-### [Birdwatching rewires the brain and slows cognitive decline](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGltUWItWTJMaFdPVnR4bVlXMkpROUxpLXpBQXhzcTh0SlBza2FTVy1uLWFYTjRiaC1VQnFPWFNXMXdfZmF4YWJhYW15Q0hYYVotMngtekhkbUQ4ZUlaeHFFRFBGWWpfYWxOcFZCVlBHZG9VT25YMmVaUHJLTXVYRVYyWVhUWWFaNEgyNUwwaG9QRXVNVjFoT0lhaWp3SVpYZ0poRQ?oc=5)
-
-2026-10-23 <span class="news-indication-tag">dementia</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGltUWItWTJMaFdPVnR4bVlXMkpROUxpLXpBQXhzcTh0SlBza2FTVy1uLWFYTjRiaC1VQnFPWFNXMXdfZmF4YWJhYW15Q0hYYVotMngtekhkbUQ4ZUlaeHFFRFBGWWpfYWxOcFZCVlBHZG9VT25YMmVaUHJLTXVYRVYyWVhUWWFaNEgyNUwwaG9QRXVNVjFoT0lhaWp3SVpYZ0poRQ?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWml5V2tzQ3VlT0FpNm9ScFVKci1XWkc5WWpvSlF4SWVsTWVLcTFBaXVuY2dUa2dfdm05UXNpM1BrdFYwakdOdjlRd0hjQjFxaFpmY2tvR0xQV2E4M2loVWlWWkU0Mkg0eXFvc1hGSzB5ejgxNk1wd2k2Ui1KWmNjTHdpX0hBaFNWWVNfVTZ6NnhrYTg2NG5HUGYxTFdSUkp4cHh1cnoyWXA?oc=5)
 
 ---
 

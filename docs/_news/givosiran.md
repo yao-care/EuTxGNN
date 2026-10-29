@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>3 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Una nueva terapia abre la puerta a la curación de la hepatitis B: "Estamos ante una noticia muy esperanzadora" - La Opinión A Coruña](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGQ0aGsteThDMWkyVFR0T3FhaXo2bERNbnR5T0puaDRRcUxYSWdaRHkzdHNTRTZZYTFhNUtuM1p4TlcybGhybDBfM291ZkxrM3RESHFidDEtTzNhYU1pSTB2VkJWSzM2QnVYODZCNWFDS2lTMFJzT2F5akZNdGdBWmlVb3JJTlFrdUxzTXZjZUp6Z3J5LXRQaEJ2VmtrZ2VidzdTQl9FTXUwOU9QNF9nTkFZZ0lIcEc5RzEzckhiNTllQlI3MjhyVjRfX2NJMHA3RjZkMkNn0gHbAUFVX3lxTE9PUU9TUFFpYW9UWDJVc2hRZVk3M2c2Mlg0dTRUYWdFbDZDUVlNdU80d0tfeEY2M2lFa0M1cnhYb1BoMExLaF9uY1VNM3Q0WHNvZUVnc3pkbE02TTJ4Q2cwZ0RxdU5VZnBkOGpMdWdaS25CU01OdXotS00zRUUtWTlab0RuQjB3MnR5VU9xZjJya1gwOVhuWHhvd0hEUkRORHlSTUx5VEg0YV9kNFEwSmM5QURpS2hTeDhQNnlUekZoTmM2MXp2QzBkM3dZU2R1SGhKajRTeFc4WXlqbw?oc=5)
+### [This 2-min test could save you from stroke as HALF caused by 'silent' condition - The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTFB0cHVra19tZGMtQlUxS2hqYjE5U0I1MTV1bDRxNVNRZUNBWE9TZll2WGhUUjRCTlJKQk5iT1ZEbFJJUTFON0R0azE5Z3pjUmJlV1poNVJJeU1xN3pvZHF0QmUycEEzcG9fZ3RfWUU2bm00NEk2aDZseg?oc=5)
 
-2026-10-29 <span class="news-indication-tag">hepatitis</span>
+2026-10-29 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
 
-Source: [La Opinión A Coruña](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGQ0aGsteThDMWkyVFR0T3FhaXo2bERNbnR5T0puaDRRcUxYSWdaRHkzdHNTRTZZYTFhNUtuM1p4TlcybGhybDBfM291ZkxrM3RESHFidDEtTzNhYU1pSTB2VkJWSzM2QnVYODZCNWFDS2lTMFJzT2F5akZNdGdBWmlVb3JJTlFrdUxzTXZjZUp6Z3J5LXRQaEJ2VmtrZ2VidzdTQl9FTXUwOU9QNF9nTkFZZ0lIcEc5RzEzckhiNTllQlI3MjhyVjRfX2NJMHA3RjZkMkNn0gHbAUFVX3lxTE9PUU9TUFFpYW9UWDJVc2hRZVk3M2c2Mlg0dTRUYWdFbDZDUVlNdU80d0tfeEY2M2lFa0M1cnhYb1BoMExLaF9uY1VNM3Q0WHNvZUVnc3pkbE02TTJ4Q2cwZ0RxdU5VZnBkOGpMdWdaS25CU01OdXotS00zRUUtWTlab0RuQjB3MnR5VU9xZjJya1gwOVhuWHhvd0hEUkRORHlSTUx5VEg0YV9kNFEwSmM5QURpS2hTeDhQNnlUekZoTmM2MXp2QzBkM3dZU2R1SGhKajRTeFc4WXlqbw?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTFB0cHVra19tZGMtQlUxS2hqYjE5U0I1MTV1bDRxNVNRZUNBWE9TZll2WGhUUjRCTlJKQk5iT1ZEbFJJUTFON0R0azE5Z3pjUmJlV1poNVJJeU1xN3pvZHF0QmUycEEzcG9fZ3RfWUU2bm00NEk2aDZseg?oc=5)
 
 ---
 
@@ -56,6 +56,14 @@ Source: [La Opinión A Coruña](https://news.google.com/rss/articles/CBMi1gFBVV9
 2026-10-28 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
 
 Source: [Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXNrazJSakdTeFM1TnRHREFRWElrdDVGOFhQdWh0T3VQVy1UUnhGXzBEMWE0RXBLZEhCQ2ZlS203WU8xZk1ndFhZdFFCNTViUGx5a2Rjay1ybkNZOE9oekxzMnlxOE4ycWhLZUhUckVPMXNRS3NNUlZpZ2lGTGVDRDA2Y1BLaU1BM2hKdHg4X20wNUxKUjY1N3VmZ29OeEY5N3Q1OGNtbHFkcHE0MUp5eFdybFQ1c0dSZzZ4VTQyN21FR3pIbE5YLVVKTFQ4ekdjZmFIenBoUDNRSnNJaEE?oc=5)
+
+---
+
+### [L’ARS conseille un dépistage aux patients d’un centre dentaire orléanais - 20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVBPSDhQcnQ2RVY1NE81S0cwTzEza2dNbWV5eE1fMGd1aVZ3TmNERHFUQ1hlMGR0Q09Eckw4UmpUZFZkNzdoc19JeVJfM2EyaHVOaXJRcUJtOW12ajJGX2ZLWFBKX0ZzNF9GWVlJdlp6SWVRWWhhVkFCRWhZSE10bmg0U1A4eTJWTUozbmY2dTBQbVVsc3NhQWdiVmZqLXV6T1dHazlwVFMwWFc4Z2haZHJqTlM1VGc?oc=5)
+
+2026-10-28 <span class="news-indication-tag">hépatite</span>
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVBPSDhQcnQ2RVY1NE81S0cwTzEza2dNbWV5eE1fMGd1aVZ3TmNERHFUQ1hlMGR0Q09Eckw4UmpUZFZkNzdoc19JeVJfM2EyaHVOaXJRcUJtOW12ajJGX2ZLWFBKX0ZzNF9GWVlJdlp6SWVRWWhhVkFCRWhZSE10bmg0U1A4eTJWTUozbmY2dTBQbVVsc3NhQWdiVmZqLXV6T1dHazlwVFMwWFc4Z2haZHJqTlM1VGc?oc=5)
 
 ---
 

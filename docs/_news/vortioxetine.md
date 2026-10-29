@@ -36,6 +36,14 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 
 ## Related News (6)
 
+### [La depresión eleva un 81% el riesgo de mortalidad general y un 101% el cardiovascular - La Voz de Madrid](https://news.google.com/rss/articles/CBMixwFBVV95cUxPU244OGx5Q05QVWgxeUNtdGQ3N2VlWnR0STl4N290YWp3dXhNS3liVldqbDE5TXRZVmc4b25JbTZqY24wMm4tMzNyelFHV0xYeEV0M2FYUWJoUXVzRnktRVd0SnhUSEVNQVVBTjU0NHVhRVh5czl1NFhFdWI2WGpNQlFJVGRWZVlEbTFMZXYxZXBqVjZ1Sk93VG40Zm04SC1HUk9WOXhrVm5nNHhTcGI4QlNIU29JSmdYRE82dDdWdTYweE41Y0JZ?oc=5)
+
+2026-10-29 <span class="news-indication-tag">depresión</span>
+
+Source: [La Voz de Madrid](https://news.google.com/rss/articles/CBMixwFBVV95cUxPU244OGx5Q05QVWgxeUNtdGQ3N2VlWnR0STl4N290YWp3dXhNS3liVldqbDE5TXRZVmc4b25JbTZqY24wMm4tMzNyelFHV0xYeEV0M2FYUWJoUXVzRnktRVd0SnhUSEVNQVVBTjU0NHVhRVh5czl1NFhFdWI2WGpNQlFJVGRWZVlEbTFMZXYxZXBqVjZ1Sk93VG40Zm04SC1HUk9WOXhrVm5nNHhTcGI4QlNIU29JSmdYRE82dDdWdTYweE41Y0JZ?oc=5)
+
+---
+
 ### [Depression: Ein Präparat mit Lavendelöl überrascht im Vergleich zu Sertralin](https://news.google.com/rss/articles/CBMiswFBVV95cUxPV091TnFPVnlFWVZDTS1wWTBiVGxsYmVlNXBNR3pycUJHem1BZ0FuQU1IRDdVMV8wZjdhZE1PMmFaS1F4cVJCVnA1QkVhZHpmWVo0MWdpLUN2RkFWUmhReDRLNnlUQi1kZjIxSmZUNHdoRmJ4TFRtVVFIdmhFVjZnVUFRTjVRaVk4MnNkMjVIVFRSWWo5YW5XbUlrWkFMZngyMEZJN0N6bEFXOG01N0I4LTI2RQ?oc=5)
 
 2026-10-29 <span class="news-indication-tag">depression</span>
@@ -65,14 +73,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxQd0
 2026-10-28 <span class="news-indication-tag">dépression</span>
 
 Source: [ma-sante.news](https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEVpOHNkTll1YlU5VlhWd0tkVXZVakxkR19ySGh6WDBCakctMXAzTU82Y1VaZFk4SWNRVVNiSXFqcVFSSndFRS1HYWVXQl9TakZZNW5mSWtEUmxMSlNnS2I2RE55VVN1TFZUenFkNXpMUVhJcjhET3BkbzJRMWJjdGZR?oc=5)
-
----
-
-### [Un estudio vincula la depresión con un 81% más de riesgo de muerte por cualquier causa - Fuentes Informadas](https://news.google.com/rss/articles/CBMitgFBVV95cUxQb1ZKRm9GWlJ4dmlRNnA2SlM4bnctaHRrYlVsOW5meFRxT29ILUlWWk1GMVlfWHVmeGhVeFh6S2NvTktKdVFra19BQlAwQTZRdjh4YllpdFA4aV9OUGZXQmN2UUIyaDhwdXhYUzFFcmVId1pXRzM2OUdMQ1JwbDFHczAyNjF5QXRYTFlfcDFZbHR1dnlqaWxfLTRWUnNYaktUNDVXU0NIckZpcnYyeEZRVXBrTDhDdw?oc=5)
-
-2026-10-28 <span class="news-indication-tag">depresión</span>
-
-Source: [Fuentes Informadas](https://news.google.com/rss/articles/CBMitgFBVV95cUxQb1ZKRm9GWlJ4dmlRNnA2SlM4bnctaHRrYlVsOW5meFRxT29ILUlWWk1GMVlfWHVmeGhVeFh6S2NvTktKdVFra19BQlAwQTZRdjh4YllpdFA4aV9OUGZXQmN2UUIyaDhwdXhYUzFFcmVId1pXRzM2OUdMQ1JwbDFHczAyNjF5QXRYTFlfcDFZbHR1dnlqaWxfLTRWUnNYaktUNDVXU0NIckZpcnYyeEZRVXBrTDhDdw?oc=5)
 
 ---
 

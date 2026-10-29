@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "hepatitis News"
+title: "hépatite (hepatitis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hepatitis. 1 articles, 25 related drugs."
+description: "Health news about hépatite (hepatitis). 1 articles, 25 related drugs."
 permalink: /news/hepatitis/
 last_modified_at: 2026-10-29
 ---
 
-# hepatitis News
+# hépatite (hepatitis) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about hepatitis?">
-<strong>hepatitis</strong> currently has <strong>1 news articles</strong> and 25 related drugs.
+<p class="key-answer" data-question="What news is there about hépatite (hepatitis)?">
+<strong>hépatite (hepatitis)</strong> currently has <strong>1 news articles</strong> and 25 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “hepatitis” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “hépatite” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -51,11 +51,11 @@ This page brings together the latest health news about “hepatitis” and lists
 
 ## Related News (1)
 
-### [Una nueva terapia abre la puerta a la curación de la hepatitis B: "Estamos ante una noticia muy esperanzadora" - La Opinión A Coruña](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGQ0aGsteThDMWkyVFR0T3FhaXo2bERNbnR5T0puaDRRcUxYSWdaRHkzdHNTRTZZYTFhNUtuM1p4TlcybGhybDBfM291ZkxrM3RESHFidDEtTzNhYU1pSTB2VkJWSzM2QnVYODZCNWFDS2lTMFJzT2F5akZNdGdBWmlVb3JJTlFrdUxzTXZjZUp6Z3J5LXRQaEJ2VmtrZ2VidzdTQl9FTXUwOU9QNF9nTkFZZ0lIcEc5RzEzckhiNTllQlI3MjhyVjRfX2NJMHA3RjZkMkNn0gHbAUFVX3lxTE9PUU9TUFFpYW9UWDJVc2hRZVk3M2c2Mlg0dTRUYWdFbDZDUVlNdU80d0tfeEY2M2lFa0M1cnhYb1BoMExLaF9uY1VNM3Q0WHNvZUVnc3pkbE02TTJ4Q2cwZ0RxdU5VZnBkOGpMdWdaS25CU01OdXotS00zRUUtWTlab0RuQjB3MnR5VU9xZjJya1gwOVhuWHhvd0hEUkRORHlSTUx5VEg0YV9kNFEwSmM5QURpS2hTeDhQNnlUekZoTmM2MXp2QzBkM3dZU2R1SGhKajRTeFc4WXlqbw?oc=5)
+### [L’ARS conseille un dépistage aux patients d’un centre dentaire orléanais - 20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVBPSDhQcnQ2RVY1NE81S0cwTzEza2dNbWV5eE1fMGd1aVZ3TmNERHFUQ1hlMGR0Q09Eckw4UmpUZFZkNzdoc19JeVJfM2EyaHVOaXJRcUJtOW12ajJGX2ZLWFBKX0ZzNF9GWVlJdlp6SWVRWWhhVkFCRWhZSE10bmg0U1A4eTJWTUozbmY2dTBQbVVsc3NhQWdiVmZqLXV6T1dHazlwVFMwWFc4Z2haZHJqTlM1VGc?oc=5)
 
-2026-10-29
+2026-10-28
 
-Source: [La Opinión A Coruña](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGQ0aGsteThDMWkyVFR0T3FhaXo2bERNbnR5T0puaDRRcUxYSWdaRHkzdHNTRTZZYTFhNUtuM1p4TlcybGhybDBfM291ZkxrM3RESHFidDEtTzNhYU1pSTB2VkJWSzM2QnVYODZCNWFDS2lTMFJzT2F5akZNdGdBWmlVb3JJTlFrdUxzTXZjZUp6Z3J5LXRQaEJ2VmtrZ2VidzdTQl9FTXUwOU9QNF9nTkFZZ0lIcEc5RzEzckhiNTllQlI3MjhyVjRfX2NJMHA3RjZkMkNn0gHbAUFVX3lxTE9PUU9TUFFpYW9UWDJVc2hRZVk3M2c2Mlg0dTRUYWdFbDZDUVlNdU80d0tfeEY2M2lFa0M1cnhYb1BoMExLaF9uY1VNM3Q0WHNvZUVnc3pkbE02TTJ4Q2cwZ0RxdU5VZnBkOGpMdWdaS25CU01OdXotS00zRUUtWTlab0RuQjB3MnR5VU9xZjJya1gwOVhuWHhvd0hEUkRORHlSTUx5VEg0YV9kNFEwSmM5QURpS2hTeDhQNnlUekZoTmM2MXp2QzBkM3dZU2R1SGhKajRTeFc4WXlqbw?oc=5)
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVBPSDhQcnQ2RVY1NE81S0cwTzEza2dNbWV5eE1fMGd1aVZ3TmNERHFUQ1hlMGR0Q09Eckw4UmpUZFZkNzdoc19JeVJfM2EyaHVOaXJRcUJtOW12ajJGX2ZLWFBKX0ZzNF9GWVlJdlp6SWVRWWhhVkFCRWhZSE10bmg0U1A4eTJWTUozbmY2dTBQbVVsc3NhQWdiVmZqLXV6T1dHazlwVFMwWFc4Z2haZHJqTlM1VGc?oc=5)
 
 ---
 

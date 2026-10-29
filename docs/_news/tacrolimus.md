@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Tacrolimus?">
-<strong>Tacrolimus</strong> currently has <strong>5 news articles</strong>, with 2 predicted indications.
+<strong>Tacrolimus</strong> currently has <strong>9 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,45 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (9)
 
 ### [Giornata mondiale della psoriasi, quante persone ne soffrono al mondo - Sky TG24](https://news.google.com/rss/articles/CBMijAFBVV95cUxONWs3NmdVNGkxNmlpVW8zQlBTSHpkV1pteUR3cWI2b2MwNmxQZ2RfbGhYWVhtY0w1bXB5MV9RZUVuLWFGWkljb2E2ZGxfaWxYelNudDR1bFh1WXBqX3A4WFVZMUVhZGJjN0w4NEducmU2VGlsRm5vLTlaTnVEUnEzMzFpLXB4UjhYZ1psdA?oc=5)
 
 2026-10-29 <span class="news-indication-tag">soriasi</span>
 
 Source: [Sky TG24](https://news.google.com/rss/articles/CBMijAFBVV95cUxONWs3NmdVNGkxNmlpVW8zQlBTSHpkV1pteUR3cWI2b2MwNmxQZ2RfbGhYWVhtY0w1bXB5MV9RZUVuLWFGWkljb2E2ZGxfaWxYelNudDR1bFh1WXBqX3A4WFVZMUVhZGJjN0w4NEducmU2VGlsRm5vLTlaTnVEUnEzMzFpLXB4UjhYZ1psdA?oc=5)
+
+---
+
+### [Psoriasisarthritis: Kombinationstherapie erreicht bei 31,7 Prozent Doppelziel](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hXYjI2dlAya0NyVV9fVV9NS3h3Rkk1NVVtakloTk1nTUdrNnpCcjJmNjZ3WGRYWUtmaU1CdDhYVm50ZENwWE5KTmRNYkFhWHBKRzNNWlVKU0U2SEljWmVBNl9fMDJUNnNMeUZudDJkM2ZwYkZ2T3B1QndmalRnYkM1TzNRSzY5RlFYdm9DVnY4RnV5YzI1ellBTnNMcEdqUVJpd0k3UWFWU0JpaGw0RG5rYmprVTYzcWdoRG5FaHBHdWc?oc=5)
+
+2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hXYjI2dlAya0NyVV9fVV9NS3h3Rkk1NVVtakloTk1nTUdrNnpCcjJmNjZ3WGRYWUtmaU1CdDhYVm50ZENwWE5KTmRNYkFhWHBKRzNNWlVKU0U2SEljWmVBNl9fMDJUNnNMeUZudDJkM2ZwYkZ2T3B1QndmalRnYkM1TzNRSzY5RlFYdm9DVnY4RnV5YzI1ellBTnNMcEdqUVJpd0k3UWFWU0JpaGw0RG5rYmprVTYzcWdoRG5FaHBHdWc?oc=5)
+
+---
+
+### [Par «honte», ils cachent leur psoriasis génital… et leur douleur](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdUFsMTlwaFBrd0Jtc1g2WXYxRkVFLU5lalFfUS01cFotblFXRzBfUms2YXh6NFdRbmpkenhGd0hlNnlYQnJQX0I1dlR5SnVvWE1RcUZWa3BrOGZaQmFDVEtxZzQxSDNJNDNyRnZNNmFFaUg5SzJuSndOYUpXeG5jMDJJcFE4dmp3VElFNVBpNlRFOFFXOUhpQVRhLXpGUHZLdllPVFhrcG5sSEIxaExvbExtOFJudkFndW5EYnRwbXlCX2s?oc=5)
+
+2026-10-29 <span class="news-indication-tag">psoriasis</span>
+
+Source: [L'essentiel](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdUFsMTlwaFBrd0Jtc1g2WXYxRkVFLU5lalFfUS01cFotblFXRzBfUms2YXh6NFdRbmpkenhGd0hlNnlYQnJQX0I1dlR5SnVvWE1RcUZWa3BrOGZaQmFDVEtxZzQxSDNJNDNyRnZNNmFFaUg5SzJuSndOYUpXeG5jMDJJcFE4dmp3VElFNVBpNlRFOFFXOUhpQVRhLXpGUHZLdllPVFhrcG5sSEIxaExvbExtOFJudkFndW5EYnRwbXlCX2s?oc=5)
+
+---
+
+### [La artritis psoriásica afecta a más de 230.000 personas en España: una enfermedad que va más allá de la piel - Salud a Diario](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzYzcERqSjBsakhsNl92dGxxcFRwaHF6VFBRanBSVWdodUZucWpSZ0tvNU5oVzl5c0VwV1N6VGJVQW5hMWI1MVZLMVJGaEVLaVM2VkppekRyMlhzclpwandyYlM2UVUxYUoxVUVac2MydGhwWlB2SnVGdE9VOEpBMmpiM0dPdmoxUEpwbExoRTBYZ2p1NVU5U2VVcDZNYW4zSExSRDhqNnJTd1J0RVNhZlZFMFZsRHp6ZHprUXJmeC1SVVBSX3ltbGYzeUI5VXptck83ZkNCRFRCcTBhOERR?oc=5)
+
+2026-10-29 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">AF</span>
+
+Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzYzcERqSjBsakhsNl92dGxxcFRwaHF6VFBRanBSVWdodUZucWpSZ0tvNU5oVzl5c0VwV1N6VGJVQW5hMWI1MVZLMVJGaEVLaVM2VkppekRyMlhzclpwandyYlM2UVUxYUoxVUVac2MydGhwWlB2SnVGdE9VOEpBMmpiM0dPdmoxUEpwbExoRTBYZ2p1NVU5U2VVcDZNYW4zSExSRDhqNnJTd1J0RVNhZlZFMFZsRHp6ZHprUXJmeC1SVVBSX3ltbGYzeUI5VXptck83ZkNCRFRCcTBhOERR?oc=5)
+
+---
+
+### [Descubren una nueva vía para frenar la inflamación de la artritis](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWx1RjhUVi1yT0loa29QUkZlZHZXMTNxZVllMk9wUmEtalhMS1paN3BzNlJJTlpnR202QjBBVFNCcGVqbmpCT1lCTkRjRm1Zc3p5S1JzampOOXZyQVVMVGNsNGNhVHRzNEQ4ZEk2VGNyb3pSMV9yN1FQRkNFdjN2MjJOOUFfYmZGTmNaN2ExTjhDZzFMdml1QmxNa3ZoaEYyckR6bFFoN3hzSVVQOEZncHppbUowMHpPajFsdEt3?oc=5)
+
+2026-10-29 <span class="news-indication-tag">artritis</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWx1RjhUVi1yT0loa29QUkZlZHZXMTNxZVllMk9wUmEtalhMS1paN3BzNlJJTlpnR202QjBBVFNCcGVqbmpCT1lCTkRjRm1Zc3p5S1JzampOOXZyQVVMVGNsNGNhVHRzNEQ4ZEk2VGNyb3pSMV9yN1FQRkNFdjN2MjJOOUFfYmZGTmNaN2ExTjhDZzFMdml1QmxNa3ZoaEYyckR6bFFoN3hzSVVQOEZncHppbUowMHpPajFsdEt3?oc=5)
 
 ---
 

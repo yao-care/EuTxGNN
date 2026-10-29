@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Adipositas (obesity) News"
+title: "obésité (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Adipositas (obesity). 5 articles, 8 related drugs."
+description: "Health news about obésité (obesity). 4 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-10-29
 ---
 
-# Adipositas (obesity) News
+# obésité (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
-<strong>Adipositas (obesity)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obésité (obesity)?">
+<strong>obésité (obesity)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Adipositas” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obésité” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -34,29 +34,21 @@ This page brings together the latest health news about “Adipositas” and list
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [Adipositas und Typ-1-Diabetes: Operation schlägt Medikamente bei Gewichtsverlust](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
+### [Ce qu’il faut savoir sur l’arrivée du Wegovy en comprimés contre l’obésité - 20 Minutes](https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3AwWGtYQ2t2TTNaY2lLUDBDd3JERHZSdmltOXpsMGI5TnJKQ0NWWUhTV1NaRTd5U3NxOEstQkg1WjVuRnp5R1M5bjZWNWk4LWRNUURBbk5Ma3lLdVRnc256VlZ5NXdkb1FtNUhDakxIYWNIUGRYNnMwcWIwOWxodlRmSmxOYnBlaTdxQmdMNGNoU0RUT1lNaXVabXRIUVZwdDdlU0h1bzY5UUtiYlpjag?oc=5)
 
 2026-10-29
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3AwWGtYQ2t2TTNaY2lLUDBDd3JERHZSdmltOXpsMGI5TnJKQ0NWWUhTV1NaRTd5U3NxOEstQkg1WjVuRnp5R1M5bjZWNWk4LWRNUURBbk5Ma3lLdVRnc256VlZ5NXdkb1FtNUhDakxIYWNIUGRYNnMwcWIwOWxodlRmSmxOYnBlaTdxQmdMNGNoU0RUT1lNaXVabXRIUVZwdDdlU0h1bzY5UUtiYlpjag?oc=5)
 
 ---
 
-### [Obésité : le traitement Wegovy en comprimés arrive en pharmacie… et son prix de vente conseillé par le fabricant est désormais connu - Le Télégramme](https://news.google.com/rss/articles/CBMihgJBVV95cUxOYzdjVTRvNVppcWtmS21qUjl0dDlFQjQ5NXF4MWtDbGFjN2ZveElSQU8yQlFzSVZubUNiTmJYRzI2WGtFUVJQWUZISUR3cnNsU1M4V05uWXZMSGg3UmFlQWxKbnhPYTI3NHpnYzRHS3AwdzFPUk9FUkRxS0EtMEprdnJ0XzZhaVhoUGpzclBibVEwRHBvWFU1Qk54M2dKS2o0Skp1WDk1LV9iTTVONUt0NklQQlQyX09YZEJDUVd5QXpNRFo0SksyNVRJei1KWU56VlpWSVhvX01nemJPSnJVR1RBV1lxSzJoWUttR3l1b0oxVkZqQ3JjQ2NnMFV4UzJVUmlfQTZ3?oc=5)
+### [Diabetes-Remission rückt näher: 54 Prozent durch Ernährung und Training - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2NqejdFaXFpUF8tRTFDY0haZlFpbHpMdnRmSWJjcS1oX2tScXYzUVlYdnY4U2k2b3AzTnl3R2p4RHBQX3NOaE9QV19fS0hwTDY0TGdqU3JWaG9feDVObXUwRmc5TlFZdHpNSnEtM2M0dkN5WVVIWURDZXJjcnExUDZoM3hFbDlnZ2FrbUtzLXZQalVidTRFOFJHbml3ODl6OHFoeGwydkY?oc=5)
 
-2026-10-28
+2026-10-29
 
-Source: [Le Télégramme](https://news.google.com/rss/articles/CBMihgJBVV95cUxOYzdjVTRvNVppcWtmS21qUjl0dDlFQjQ5NXF4MWtDbGFjN2ZveElSQU8yQlFzSVZubUNiTmJYRzI2WGtFUVJQWUZISUR3cnNsU1M4V05uWXZMSGg3UmFlQWxKbnhPYTI3NHpnYzRHS3AwdzFPUk9FUkRxS0EtMEprdnJ0XzZhaVhoUGpzclBibVEwRHBvWFU1Qk54M2dKS2o0Skp1WDk1LV9iTTVONUt0NklQQlQyX09YZEJDUVd5QXpNRFo0SksyNVRJei1KWU56VlpWSVhvX01nemJPSnJVR1RBV1lxSzJoWUttR3l1b0oxVkZqQ3JjQ2NnMFV4UzJVUmlfQTZ3?oc=5)
-
----
-
-### [Die Fettleber wird immer jünger](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmRPYWUxYXhzV3ppYlYtaEFWaE9HRXRJbzZCZ2IxWHF5bWR6SzhZTVhtQkRCREsyd1hxbkJiUjNoUDhkSWxsOUE2TGVfT2IzbnpPOUJ3SWl4ZUtyeEFEeGdQT1RRRVM2LVUzLUhqSlBJOFNGSWZ0UjJQVHR6emlVYXp3NHJRN3JDRl8yVkVWZkN6WW42T05IQUxWZUdRSDVReWpSYnlTSlNYd0JPR1pvb21OVXRHY2Y3Xy1JVVp3RQ?oc=5)
-
-2026-10-28
-
-Source: [springermedizin.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmRPYWUxYXhzV3ppYlYtaEFWaE9HRXRJbzZCZ2IxWHF5bWR6SzhZTVhtQkRCREsyd1hxbkJiUjNoUDhkSWxsOUE2TGVfT2IzbnpPOUJ3SWl4ZUtyeEFEeGdQT1RRRVM2LVUzLUhqSlBJOFNGSWZ0UjJQVHR6emlVYXp3NHJRN3JDRl8yVkVWZkN6WW42T05IQUxWZUdRSDVReWpSYnlTSlNYd0JPR1pvb21OVXRHY2Y3Xy1JVVp3RQ?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2NqejdFaXFpUF8tRTFDY0haZlFpbHpMdnRmSWJjcS1oX2tScXYzUVlYdnY4U2k2b3AzTnl3R2p4RHBQX3NOaE9QV19fS0hwTDY0TGdqU3JWaG9feDVObXUwRmc5TlFZdHpNSnEtM2M0dkN5WVVIWURDZXJjcnExUDZoM3hFbDlnZ2FrbUtzLXZQalVidTRFOFJHbml3ODl6OHFoeGwydkY?oc=5)
 
 ---
 

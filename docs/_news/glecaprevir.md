@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Glecaprevir?">
-<strong>Glecaprevir</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
+<strong>Glecaprevir</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,37 +42,29 @@ This page combines the AI-predicted indications for Glecaprevir with the latest 
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (10)
 
-### [Podiumsdiskussion in Emsdetten: „Psychische Gesundheit – Braucht Versorgung“ - Alles Detten](https://news.google.com/rss/articles/CBMimwFBVV95cUxPX1R0SHROYkxKalhfNW9SdXVEdXM0dWpxZkNnU3dhbzRIOXlYU29aSVZ3d1pWSjRZaVFnaVRfcV9qSlYzdGR1bTNrcnNHaVpIRjdNWjNXSGhieEpJQ2ZfZlhVWTZrSTVsVGVHNGhQSWpMcWtNbFc4VzRWWmVQUTV3em1uQ1lhRE9aV1VMY1FJZ2lxbEVGdklZS3pCbw?oc=5)
-
-2026-10-29 <span class="news-indication-tag">MS</span>
-
-Source: [Alles Detten](https://news.google.com/rss/articles/CBMimwFBVV95cUxPX1R0SHROYkxKalhfNW9SdXVEdXM0dWpxZkNnU3dhbzRIOXlYU29aSVZ3d1pWSjRZaVFnaVRfcV9qSlYzdGR1bTNrcnNHaVpIRjdNWjNXSGhieEpJQ2ZfZlhVWTZrSTVsVGVHNGhQSWpMcWtNbFc4VzRWWmVQUTV3em1uQ1lhRE9aV1VMY1FJZ2lxbEVGdklZS3pCbw?oc=5)
-
----
-
-### [Una nueva terapia abre la puerta a la curación de la hepatitis B: "Estamos ante una noticia muy esperanzadora" - La Opinión A Coruña](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGQ0aGsteThDMWkyVFR0T3FhaXo2bERNbnR5T0puaDRRcUxYSWdaRHkzdHNTRTZZYTFhNUtuM1p4TlcybGhybDBfM291ZkxrM3RESHFidDEtTzNhYU1pSTB2VkJWSzM2QnVYODZCNWFDS2lTMFJzT2F5akZNdGdBWmlVb3JJTlFrdUxzTXZjZUp6Z3J5LXRQaEJ2VmtrZ2VidzdTQl9FTXUwOU9QNF9nTkFZZ0lIcEc5RzEzckhiNTllQlI3MjhyVjRfX2NJMHA3RjZkMkNn0gHbAUFVX3lxTE9PUU9TUFFpYW9UWDJVc2hRZVk3M2c2Mlg0dTRUYWdFbDZDUVlNdU80d0tfeEY2M2lFa0M1cnhYb1BoMExLaF9uY1VNM3Q0WHNvZUVnc3pkbE02TTJ4Q2cwZ0RxdU5VZnBkOGpMdWdaS25CU01OdXotS00zRUUtWTlab0RuQjB3MnR5VU9xZjJya1gwOVhuWHhvd0hEUkRORHlSTUx5VEg0YV9kNFEwSmM5QURpS2hTeDhQNnlUekZoTmM2MXp2QzBkM3dZU2R1SGhKajRTeFc4WXlqbw?oc=5)
-
-2026-10-29 <span class="news-indication-tag">hepatitis</span>
-
-Source: [La Opinión A Coruña](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGQ0aGsteThDMWkyVFR0T3FhaXo2bERNbnR5T0puaDRRcUxYSWdaRHkzdHNTRTZZYTFhNUtuM1p4TlcybGhybDBfM291ZkxrM3RESHFidDEtTzNhYU1pSTB2VkJWSzM2QnVYODZCNWFDS2lTMFJzT2F5akZNdGdBWmlVb3JJTlFrdUxzTXZjZUp6Z3J5LXRQaEJ2VmtrZ2VidzdTQl9FTXUwOU9QNF9nTkFZZ0lIcEc5RzEzckhiNTllQlI3MjhyVjRfX2NJMHA3RjZkMkNn0gHbAUFVX3lxTE9PUU9TUFFpYW9UWDJVc2hRZVk3M2c2Mlg0dTRUYWdFbDZDUVlNdU80d0tfeEY2M2lFa0M1cnhYb1BoMExLaF9uY1VNM3Q0WHNvZUVnc3pkbE02TTJ4Q2cwZ0RxdU5VZnBkOGpMdWdaS25CU01OdXotS00zRUUtWTlab0RuQjB3MnR5VU9xZjJya1gwOVhuWHhvd0hEUkRORHlSTUx5VEg0YV9kNFEwSmM5QURpS2hTeDhQNnlUekZoTmM2MXp2QzBkM3dZU2R1SGhKajRTeFc4WXlqbw?oc=5)
-
----
-
-### ['I couldn't move, walk or talk after my stroke'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
-
-2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
-
----
-
-### [Un fármaco experimental reduce un 32% el riesgo de muerte por cáncer de endometrio avanzado](https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFZEZkJCb2FOM1NxNnlLb3o2S0c5MTVpYWxBSjJKWlNsYWJ2Vk1XdjNoT2dwUGVMQVpWeDZtRERrRGxuUFdoc1lWUl9QQ2lSY2xuYVpibWN5ZDh5SW1KQU1QdFE1LXIyZHJmb2I4YXJLWjJ6VTlnc2tsNkhGbHVMRG9HZHBMb0xQdndsbFFzUlBlQkxy?oc=5)
+### [Signs your forgetfulness or procrastination is ADHD & 5 other causes of symptoms - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVJsM1JscUUyenRYZG1ZaS1ubFNzdmowVXFZa1ZLWk1TblMxaWh6UENUc3U4MVYwcV9zU3VFWG1QNTNqOU5WRWszX19UcUwwNmZXNTlmZE1aUkFQYVB4UlR1YTh0dEFlMkRsd3FrV25NVmhnTFAxTVFnUmF2eV95NDJSYTdZcmR6MnZoOGRnVEhwbEMtdXc?oc=5)
 
 2026-10-29 <span class="news-indication-tag">MS</span>
 
-Source: [Yahoo](https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFZEZkJCb2FOM1NxNnlLb3o2S0c5MTVpYWxBSjJKWlNsYWJ2Vk1XdjNoT2dwUGVMQVpWeDZtRERrRGxuUFdoc1lWUl9QQ2lSY2xuYVpibWN5ZDh5SW1KQU1QdFE1LXIyZHJmb2I4YXJLWjJ6VTlnc2tsNkhGbHVMRG9HZHBMb0xQdndsbFFzUlBlQkxy?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVJsM1JscUUyenRYZG1ZaS1ubFNzdmowVXFZa1ZLWk1TblMxaWh6UENUc3U4MVYwcV9zU3VFWG1QNTNqOU5WRWszX19UcUwwNmZXNTlmZE1aUkFQYVB4UlR1YTh0dEFlMkRsd3FrV25NVmhnTFAxTVFnUmF2eV95NDJSYTdZcmR6MnZoOGRnVEhwbEMtdXc?oc=5)
+
+---
+
+### [Sacituzumab tirumotecan reduce un 32% el riesgo de muerte en cáncer de endometrio - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjc2RU4yUlNkblo3UmNZVEE3RUVOZC1KanBhVnJsVlZINTJzeUZ3NmxkN0xVRmJ4akFFOUJqTUZlLWtCZXNOc0tNVXNtaWlhUXNSTy1iY2ZnRWlneEtHSGhOazRPVHBXcnRnWFRsOVNZYnRXMm9RdDB5RW1RaFJUczN3ZWpZRTl6T25iZW9ZYV9kQzVYS2pFczRLalBTSGJzR0hsZHhHNWdlSi01a01MSDU4bV9tS2lVR2t6MmJjRnfSAbsBQVVfeXFMTkVrMDJvOTk0Q01ZZDlMc2w3M2NTU0pLYTRyejRBMmtKNlpld241UXRCN19LRmJaazVQYmZtTzE1QUFqcDlhMFdRLWlBMFlGQlJVaVpvVndSMHRwal9yNnlLQ0NYUXpkMTl2dVYzVWNOcEZJb19SQjYtck41dG13dHNXcFFJUU9Wc0c5MHU4RVpFQ1BSR29oaG8taTBXS3BCQUVDUGZ1S1BuY2I0RXZaUHNpTmJCMU1Obm1HQQ?oc=5)
+
+2026-10-29 <span class="news-indication-tag">MS</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjc2RU4yUlNkblo3UmNZVEE3RUVOZC1KanBhVnJsVlZINTJzeUZ3NmxkN0xVRmJ4akFFOUJqTUZlLWtCZXNOc0tNVXNtaWlhUXNSTy1iY2ZnRWlneEtHSGhOazRPVHBXcnRnWFRsOVNZYnRXMm9RdDB5RW1RaFJUczN3ZWpZRTl6T25iZW9ZYV9kQzVYS2pFczRLalBTSGJzR0hsZHhHNWdlSi01a01MSDU4bV9tS2lVR2t6MmJjRnfSAbsBQVVfeXFMTkVrMDJvOTk0Q01ZZDlMc2w3M2NTU0pLYTRyejRBMmtKNlpld241UXRCN19LRmJaazVQYmZtTzE1QUFqcDlhMFdRLWlBMFlGQlJVaVpvVndSMHRwal9yNnlLQ0NYUXpkMTl2dVYzVWNOcEZJb19SQjYtck41dG13dHNXcFFJUU9Wc0c5MHU4RVpFQ1BSR29oaG8taTBXS3BCQUVDUGZ1S1BuY2I0RXZaUHNpTmJCMU1Obm1HQQ?oc=5)
+
+---
+
+### [The surprising factors that increase your stroke risk in midlife - The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFJQVVZGRDNMRGlBVDIxZE9uUU5KYkVNM3BlWEhDZFV2NUwzRFo0TEs5QlRUTVYyWWI3Y1p2R3gweVRhZEdxc1NRWG5najk1Qnp6WG53ZkpzSDk2SDNTenRlU1lRZmFDalFQR1BjY3l5Tm4zNnpnUWZHMTV2N195bnZyQmNwTGUzOXVKUUtlUWQ5WjNlVS1QNG9FMll4Q0x1NkJTTTR0N3ItNEpXcC1tUTRNbFc?oc=5)
+
+2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFJQVVZGRDNMRGlBVDIxZE9uUU5KYkVNM3BlWEhDZFV2NUwzRFo0TEs5QlRUTVYyWWI3Y1p2R3gweVRhZEdxc1NRWG5najk1Qnp6WG53ZkpzSDk2SDNTenRlU1lRZmFDalFQR1BjY3l5Tm4zNnpnUWZHMTV2N195bnZyQmNwTGUzOXVKUUtlUWQ5WjNlVS1QNG9FMll4Q0x1NkJTTTR0N3ItNEpXcC1tUTRNbFc?oc=5)
 
 ---
 
@@ -81,6 +73,14 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFZEZkJCb2F
 2026-10-28 <span class="news-indication-tag">MS</span>
 
 Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa1dXUkFVdFduMm5DY3ptaWdESldxdHZWdDNQMlBsYmVieUhJNndzSURkbFlUZ19yX0VPWWxSZ2FTWjdyRVV0UmJVWFZBcnpRQ1lUeXNqRk9HN2pQMXB4Wmk2TVpQenFad0MtSDlLNmNuU1RDUVg3VjdIS2hPaWd0TXJFVUFJb24zLUhzNHFQeENRTTZoU1ZBT1cybUJMQ3N2OFN2N0R6bGRkcFpodnhDeFpUbmFBcUhkWDBUVFVIeGlDTXdQSkV0bzNaendITFkxMEFMbk85X2ozSmxrT0E?oc=5)
+
+---
+
+### [L’ARS conseille un dépistage aux patients d’un centre dentaire orléanais - 20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVBPSDhQcnQ2RVY1NE81S0cwTzEza2dNbWV5eE1fMGd1aVZ3TmNERHFUQ1hlMGR0Q09Eckw4UmpUZFZkNzdoc19JeVJfM2EyaHVOaXJRcUJtOW12ajJGX2ZLWFBKX0ZzNF9GWVlJdlp6SWVRWWhhVkFCRWhZSE10bmg0U1A4eTJWTUozbmY2dTBQbVVsc3NhQWdiVmZqLXV6T1dHazlwVFMwWFc4Z2haZHJqTlM1VGc?oc=5)
+
+2026-10-28 <span class="news-indication-tag">hépatite</span>
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVBPSDhQcnQ2RVY1NE81S0cwTzEza2dNbWV5eE1fMGd1aVZ3TmNERHFUQ1hlMGR0Q09Eckw4UmpUZFZkNzdoc19JeVJfM2EyaHVOaXJRcUJtOW12ajJGX2ZLWFBKX0ZzNF9GWVlJdlp6SWVRWWhhVkFCRWhZSE10bmg0U1A4eTJWTUozbmY2dTBQbVVsc3NhQWdiVmZqLXV6T1dHazlwVFMwWFc4Z2haZHJqTlM1VGc?oc=5)
 
 ---
 
@@ -100,11 +100,27 @@ Source: [ERNÄHRUNGS UMSCHAU -](https://news.google.com/rss/articles/CBMiqgFBVV9
 
 ---
 
-### [Breast cancer early warning signs: 5 subtle changes women should never ignore, even if there is no pain - The Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS2w4Y1RWTnRpZjJnT0NSYzJOZ3h1TFU2LS1jVVBkQ0xjWlFPQWdyNFp3QUFqcHI5a213S2t3VThnMzh5MDVVandYUGZnUUQxV3NsM2Y0MW9wWnhoN1VFeUhLa0VCUkl3c3U0dERGS210R0pfNGF3dlc2OUZyS3lndERsVjEyTUZOOWsxUEJXdW45akE5UlZ4M0VCODB4dzVMLXllRlVMWWZGMVljV2xHeTk3QVFuMUJmNWtNZ2VEOU1Xd0F6aElQNTZsWlUtY2VTaW11cGFHM1FXaG9ZWE1RSy03UktDcUFid3NPdHRxTlJRNXVUUHk0dW05MTdnTTjSAYQCQVVfeXFMTlpzWXdNTE9WbGh2RVVYRTJtQXVzTHpyZG5TajlUNDNVTnVEb2ZPbzJScDlZdjE4MkJSVGdYLTk5NEdaUE1DSmhkSUF3NXFCamdxQWd0Nzd1RnlSODNySGtVZ3F4c2pUR3kxcDVjMmJyYTN6a3FNcVlfUVlxZXdWWHdJaXgtQm1hUVJxcHhWa0s0ZDY2aU55SFZGTzVXQ0Y4enV4UHBOQjBuSllIalZZa0Z6NDlESUNBNkJtQ3VzOHZWTlc4MWdCb1FiT1ZuTFRSc3ZySm1ZeTdEMkM2TktHN2VhRjM1Y3AtZTdaeVc4T0lrbjU2THZjMUxUSlNLN0JTUXk5UE4?oc=5)
+### [Elon Musk says he has ‘cyber psychosis’. Do you too? | Arwa Mahdawi - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcUcwNDYtTlpCd3FpSE90ODNNT1VsZlZ6RmU4LWZUV2pTOEI0a09rb1p1ZVc2c1B0a1hvS2dxV29jbVFmTXZrblAxc1ZLSTlXR3lzMUk0dFc2SUtZZ0JWTTFnZXdwSDZLS1RQcGVfaXJuVDdSYk9heXo2akV2eHpPY3Z4cVRaczBXc1ZUMnYxNEI?oc=5)
 
-2026-10-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-10-27 <span class="news-indication-tag">MS</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS2w4Y1RWTnRpZjJnT0NSYzJOZ3h1TFU2LS1jVVBkQ0xjWlFPQWdyNFp3QUFqcHI5a213S2t3VThnMzh5MDVVandYUGZnUUQxV3NsM2Y0MW9wWnhoN1VFeUhLa0VCUkl3c3U0dERGS210R0pfNGF3dlc2OUZyS3lndERsVjEyTUZOOWsxUEJXdW45akE5UlZ4M0VCODB4dzVMLXllRlVMWWZGMVljV2xHeTk3QVFuMUJmNWtNZ2VEOU1Xd0F6aElQNTZsWlUtY2VTaW11cGFHM1FXaG9ZWE1RSy03UktDcUFid3NPdHRxTlJRNXVUUHk0dW05MTdnTTjSAYQCQVVfeXFMTlpzWXdNTE9WbGh2RVVYRTJtQXVzTHpyZG5TajlUNDNVTnVEb2ZPbzJScDlZdjE4MkJSVGdYLTk5NEdaUE1DSmhkSUF3NXFCamdxQWd0Nzd1RnlSODNySGtVZ3F4c2pUR3kxcDVjMmJyYTN6a3FNcVlfUVlxZXdWWHdJaXgtQm1hUVJxcHhWa0s0ZDY2aU55SFZGTzVXQ0Y4enV4UHBOQjBuSllIalZZa0Z6NDlESUNBNkJtQ3VzOHZWTlc4MWdCb1FiT1ZuTFRSc3ZySm1ZeTdEMkM2TktHN2VhRjM1Y3AtZTdaeVc4T0lrbjU2THZjMUxUSlNLN0JTUXk5UE4?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcUcwNDYtTlpCd3FpSE90ODNNT1VsZlZ6RmU4LWZUV2pTOEI0a09rb1p1ZVc2c1B0a1hvS2dxV29jbVFmTXZrblAxc1ZLSTlXR3lzMUk0dFc2SUtZZ0JWTTFnZXdwSDZLS1RQcGVfaXJuVDdSYk9heXo2akV2eHpPY3Z4cVRaczBXc1ZUMnYxNEI?oc=5)
+
+---
+
+### [Healthy Aging Supplement Fails in Large PD Trial](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWml5V2tzQ3VlT0FpNm9ScFVKci1XWkc5WWpvSlF4SWVsTWVLcTFBaXVuY2dUa2dfdm05UXNpM1BrdFYwakdOdjlRd0hjQjFxaFpmY2tvR0xQV2E4M2loVWlWWkU0Mkg0eXFvc1hGSzB5ejgxNk1wd2k2Ui1KWmNjTHdpX0hBaFNWWVNfVTZ6NnhrYTg2NG5HUGYxTFdSUkp4cHh1cnoyWXA?oc=5)
+
+2026-10-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWml5V2tzQ3VlT0FpNm9ScFVKci1XWkc5WWpvSlF4SWVsTWVLcTFBaXVuY2dUa2dfdm05UXNpM1BrdFYwakdOdjlRd0hjQjFxaFpmY2tvR0xQV2E4M2loVWlWWkU0Mkg0eXFvc1hGSzB5ejgxNk1wd2k2Ui1KWmNjTHdpX0hBaFNWWVNfVTZ6NnhrYTg2NG5HUGYxTFdSUkp4cHh1cnoyWXA?oc=5)
+
+---
+
+### [Worms mate in man’s eyes, get plucked out right before larvae burst out - Ars Technica](https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTBYMUpLRUViSkRLVHpyT1lvX0p6OE1lWGctU2xJRE11Y3phYVJUWXZMMEJsMUxIUzhCcWNsSHU3aFlSTTlEbUpscm5rMjYxcExONWNGWDhmVEpGNW1PdVRubTE2LXdSOFplQi1lZHk0NV81azZ1cmFSekUzdDdaT01vM1BjZ0pmb3lYdW9kQVhZWThIa2pYdnZma09wU3lPU1BXVg?oc=5)
+
+2026-10-26 <span class="news-indication-tag">MS</span>
+
+Source: [Ars Technica](https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTBYMUpLRUViSkRLVHpyT1lvX0p6OE1lWGctU2xJRE11Y3phYVJUWXZMMEJsMUxIUzhCcWNsSHU3aFlSTTlEbUpscm5rMjYxcExONWNGWDhmVEpGNW1PdVRubTE2LXdSOFplQi1lZHk0NV81azZ1cmFSekUzdDdaT01vM1BjZ0pmb3lYdW9kQVhZWThIa2pYdnZma09wU3lPU1BXVg?oc=5)
 
 ---
 

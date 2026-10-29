@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>5 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>4 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (5)
+## Related News (4)
+
+### [Ce qu’il faut savoir sur l’arrivée du Wegovy en comprimés contre l’obésité - 20 Minutes](https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3AwWGtYQ2t2TTNaY2lLUDBDd3JERHZSdmltOXpsMGI5TnJKQ0NWWUhTV1NaRTd5U3NxOEstQkg1WjVuRnp5R1M5bjZWNWk4LWRNUURBbk5Ma3lLdVRnc256VlZ5NXdkb1FtNUhDakxIYWNIUGRYNnMwcWIwOWxodlRmSmxOYnBlaTdxQmdMNGNoU0RUT1lNaXVabXRIUVZwdDdlU0h1bzY5UUtiYlpjag?oc=5)
+
+2026-10-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3AwWGtYQ2t2TTNaY2lLUDBDd3JERHZSdmltOXpsMGI5TnJKQ0NWWUhTV1NaRTd5U3NxOEstQkg1WjVuRnp5R1M5bjZWNWk4LWRNUURBbk5Ma3lLdVRnc256VlZ5NXdkb1FtNUhDakxIYWNIUGRYNnMwcWIwOWxodlRmSmxOYnBlaTdxQmdMNGNoU0RUT1lNaXVabXRIUVZwdDdlU0h1bzY5UUtiYlpjag?oc=5)
+
+---
 
 ### [Wechsel auf Wegovy-Tablette: Studie belegt zusätzlichen Effekt im Alltag - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZnhQYWJ3em1NUjFsNUVXT2dnWmY2ZDZGcEJNamtreUZCMURXZ2VoNy1ZNFRuS1RFaXNjRWFtNllsZ2hBVHJiaWlSNmV0TUdZYnVvSVp6Y3oyY2VyMXhRYWpOVl9tb2pRZUhYOGtkRmRHSU5EYm1iQU9tcE4xelptV3c1Vl9ZSzB2RFRuTUd3QzRUb2pSUnMwQzVwRnNhTms5eVJ3enVYeGFPYzJ2VEVaSExWbkZvQ3FIdzhRby0tZHo5bmZWa3dFMUM0ZFpTd0J1Ymc?oc=5)
 
@@ -40,27 +48,11 @@ Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0gFBVV95c
 
 ---
 
-### [Obésité : le traitement Wegovy en comprimés arrive en pharmacie… et son prix de vente conseillé par le fabricant est désormais connu - Le Télégramme](https://news.google.com/rss/articles/CBMihgJBVV95cUxOYzdjVTRvNVppcWtmS21qUjl0dDlFQjQ5NXF4MWtDbGFjN2ZveElSQU8yQlFzSVZubUNiTmJYRzI2WGtFUVJQWUZISUR3cnNsU1M4V05uWXZMSGg3UmFlQWxKbnhPYTI3NHpnYzRHS3AwdzFPUk9FUkRxS0EtMEprdnJ0XzZhaVhoUGpzclBibVEwRHBvWFU1Qk54M2dKS2o0Skp1WDk1LV9iTTVONUt0NklQQlQyX09YZEJDUVd5QXpNRFo0SksyNVRJei1KWU56VlpWSVhvX01nemJPSnJVR1RBV1lxSzJoWUttR3l1b0oxVkZqQ3JjQ2NnMFV4UzJVUmlfQTZ3?oc=5)
-
-2026-10-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
-
-Source: [Le Télégramme](https://news.google.com/rss/articles/CBMihgJBVV95cUxOYzdjVTRvNVppcWtmS21qUjl0dDlFQjQ5NXF4MWtDbGFjN2ZveElSQU8yQlFzSVZubUNiTmJYRzI2WGtFUVJQWUZISUR3cnNsU1M4V05uWXZMSGg3UmFlQWxKbnhPYTI3NHpnYzRHS3AwdzFPUk9FUkRxS0EtMEprdnJ0XzZhaVhoUGpzclBibVEwRHBvWFU1Qk54M2dKS2o0Skp1WDk1LV9iTTVONUt0NklQQlQyX09YZEJDUVd5QXpNRFo0SksyNVRJei1KWU56VlpWSVhvX01nemJPSnJVR1RBV1lxSzJoWUttR3l1b0oxVkZqQ3JjQ2NnMFV4UzJVUmlfQTZ3?oc=5)
-
----
-
 ### [Weight-loss drugs linked to these deficiencies reported by users, research reveals - The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpESGpNZVIyb1Q4VUswQnpzRV8xWktwb2wxOGsxbVNnX19kcEw4clU3RzdhSk41SzhCZ0FXVmg4ZTVNX2VIMkJXNHpWbzR0TG54OVpoNW5aMXBBcG5FeV9DeEVLd2dTNDQ3c2xhbkhESkltdXI4Q3FzZmNwNkN0ZW9lNExKUURXNHVZazdGUk13WEVNbmVLcmZfMA?oc=5)
 
 2026-10-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpESGpNZVIyb1Q4VUswQnpzRV8xWktwb2wxOGsxbVNnX19kcEw4clU3RzdhSk41SzhCZ0FXVmg4ZTVNX2VIMkJXNHpWbzR0TG54OVpoNW5aMXBBcG5FeV9DeEVLd2dTNDQ3c2xhbkhESkltdXI4Q3FzZmNwNkN0ZW9lNExKUURXNHVZazdGUk13WEVNbmVLcmZfMA?oc=5)
-
----
-
-### [Diabete tipo 2, via libera del CHMP a IcoSema](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMjlLRkl4alB6MGlXNWg5WDBqUENQWFNhQ003c1IzSF8zbXhwbEFGdTdzTGZnNUtlVmtvMFVudDFPTVcwSjhVSlZRMG1qQk42WGNVcGxreFNwWU16dERaSnVRVUk4V3ItaktSS0FidWpqTVRiTS1xS3pySHY0YS1QQlQ4LWZya2R2OHN0czZPZFdxOXNRU3NlYkJnM3FHbTBldVVUTnVGOA?oc=5)
-
-2026-10-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
-
-Source: [socialfarma](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMjlLRkl4alB6MGlXNWg5WDBqUENQWFNhQ003c1IzSF8zbXhwbEFGdTdzTGZnNUtlVmtvMFVudDFPTVcwSjhVSlZRMG1qQk42WGNVcGxreFNwWU16dERaSnVRVUk4V3ItaktSS0FidWpqTVRiTS1xS3pySHY0YS1QQlQ4LWZya2R2OHN0czZPZFdxOXNRU3NlYkJnM3FHbTBldVVUTnVGOA?oc=5)
 
 ---
 

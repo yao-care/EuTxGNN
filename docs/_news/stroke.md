@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Schlaganfall (stroke) News"
+title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 15 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 17 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-10-29
 ---
 
-# Schlaganfall (stroke) News
+# ictus (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>15 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about ictus (stroke)?">
+<strong>ictus (stroke)</strong> currently has <strong>17 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,63 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (15)
+## Related News (17)
+
+### [Un cardiólogo reclama que la vacuna de la gripe sea parte fija de la prevención en pacientes con cardiopatías](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
+
+2026-10-29
+
+Source: [Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
+
+---
+
+### [Los nuevos casos de ictus aumentan un 73% desde 1990 en todo el mundo pese al descenso de las tasas ajustadas por edad - Diario Estrategia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOFhIWHpNaklEX3dzZC13enJNSDRhLUxlNXpvcWhqbExjQXhudm8wNmFESkFUTEMxZElJOWpScU1YOEJnR05iVjZKLU5oSllWdmNnRlRVLWxydHlhQzJoYkI2OWg3N0F1MlUtVzdPNnp2enQ1SmpKVkF5dENDMjBFY2hidjh5VjlBdWF6cWdhU09oM0Mwc3Q0MDVueUp0MFg3YUhoWU9VdzZCckJUVDAyN3pSNHRfMU5uTDRaVEFSb1pYQ1FaZjlObDE4aGQzZ3NLZE9Malk5RHUxa2ZiSHVGdEdB?oc=5)
+
+2026-10-29
+
+Source: [Diario Estrategia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOFhIWHpNaklEX3dzZC13enJNSDRhLUxlNXpvcWhqbExjQXhudm8wNmFESkFUTEMxZElJOWpScU1YOEJnR05iVjZKLU5oSllWdmNnRlRVLWxydHlhQzJoYkI2OWg3N0F1MlUtVzdPNnp2enQ1SmpKVkF5dENDMjBFY2hidjh5VjlBdWF6cWdhU09oM0Mwc3Q0MDVueUp0MFg3YUhoWU9VdzZCckJUVDAyN3pSNHRfMU5uTDRaVEFSb1pYQ1FaZjlObDE4aGQzZ3NLZE9Malk5RHUxa2ZiSHVGdEdB?oc=5)
+
+---
+
+### [Cerca de 1.500 almerienses sufren un ictus cada año, mientras que un 40% arrastra secuelas graves](https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1lHNXZleUFKYndnbmNHNy05VGU2SzduYWwxZDYtWGRlSjV1S01zRW9FRk5QQkptaW5UX2loUHVkT2VpUG1Lbkx3cldxemVoNUxCSVdMQW80cUozalY2OGtXamdfelhoVVRKd1pheWFzZ2hObWdBMUdJYW1IaHZSX2VxOEFrdHlZRHBKOG12c1cyTlBCUjhzbVBGNXBzU0Zrd19uLTh0RV9WX3hW0gGyAUFVX3lxTE9sX0Fsc094clBxeVc5LTJIWWItX1hvV04tYWU5a1c4YUZMVzFKRmhkalBDZmpld3QzcHJUS0RKNEZhV3J6Ti1LNENLeFhOUU9HVllZaEs3dndLbFdubjROckgxTUxSaXJJRG1KVnVDRGJEMXFocXU4RVZFYjkza0gwVEVJNjFxUEpwV2RXSTFQM1lhdDlwOXpqYUhaQlRjc2UxYlRmVThxaHJsSWFQOUlVSWc?oc=5)
+
+2026-10-29
+
+Source: [Ideal](https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1lHNXZleUFKYndnbmNHNy05VGU2SzduYWwxZDYtWGRlSjV1S01zRW9FRk5QQkptaW5UX2loUHVkT2VpUG1Lbkx3cldxemVoNUxCSVdMQW80cUozalY2OGtXamdfelhoVVRKd1pheWFzZ2hObWdBMUdJYW1IaHZSX2VxOEFrdHlZRHBKOG12c1cyTlBCUjhzbVBGNXBzU0Zrd19uLTh0RV9WX3hW0gGyAUFVX3lxTE9sX0Fsc094clBxeVc5LTJIWWItX1hvV04tYWU5a1c4YUZMVzFKRmhkalBDZmpld3QzcHJUS0RKNEZhV3J6Ti1LNENLeFhOUU9HVllZaEs3dndLbFdubjROckgxTUxSaXJJRG1KVnVDRGJEMXFocXU4RVZFYjkza0gwVEVJNjFxUEpwV2RXSTFQM1lhdDlwOXpqYUhaQlRjc2UxYlRmVThxaHJsSWFQOUlVSWc?oc=5)
+
+---
+
+### [Ictus, le difficoltà cognitive possono anticiparlo? Il segnale emerso da 3.875 adulti](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFRwQmNESDloWmtBZG05Y21hd28tZFB3YWJ6Ny1YNHFYX3lHeVRqVkxjQ1g5bW9KZ0ZRV2FRT2Vxdkc5RmduVWtoSGY2QVZoR3NGQ0dPRlZNZFBRQnZ6R2p6NHRjb3V0UDJPMERrM1F5NTFzTkRFQUI0SXBYWjB6LWxOMkh5eFFlcmhnQWlraG9mVXRYTTF5dXRqSXNuOXFaUmN5SlRNbmdzQ05ncThnNTRYLXJZZHVfMFRmMTdZMnVnSFV2THQ3bUtpUUs4SVh3SUh0c3p5MThBT2s?oc=5)
+
+2026-10-29
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFRwQmNESDloWmtBZG05Y21hd28tZFB3YWJ6Ny1YNHFYX3lHeVRqVkxjQ1g5bW9KZ0ZRV2FRT2Vxdkc5RmduVWtoSGY2QVZoR3NGQ0dPRlZNZFBRQnZ6R2p6NHRjb3V0UDJPMERrM1F5NTFzTkRFQUI0SXBYWjB6LWxOMkh5eFFlcmhnQWlraG9mVXRYTTF5dXRqSXNuOXFaUmN5SlRNbmdzQ05ncThnNTRYLXJZZHVfMFRmMTdZMnVnSFV2THQ3bUtpUUs4SVh3SUh0c3p5MThBT2s?oc=5)
+
+---
+
+### [Los agonistas de GLP-1 se asocian con menos ictus isquémicos](https://news.google.com/rss/articles/CBMilAFBVV95cUxPb3IwWnNBeHpTejRHVUJ1RHg1T0cwX29kSmVtWnlEc0JleVdCZ1hHYTdVM3JJci13QTFqbmFiNjYydTVEakdIMkZUTDd4TFJHdHdEbkFic0JKay1kU2k5cVFSOVRMMVNsY2l0WF9IZGctMzlRNkFKZmVqN3pQYjVJejFqY3YyemxuWWV2dWdxUWJWQ3ZF?oc=5)
+
+2026-10-29
+
+Source: [Vademecum](https://news.google.com/rss/articles/CBMilAFBVV95cUxPb3IwWnNBeHpTejRHVUJ1RHg1T0cwX29kSmVtWnlEc0JleVdCZ1hHYTdVM3JJci13QTFqbmFiNjYydTVEakdIMkZUTDd4TFJHdHdEbkFic0JKay1kU2k5cVFSOVRMMVNsY2l0WF9IZGctMzlRNkFKZmVqN3pQYjVJejFqY3YyemxuWWV2dWdxUWJWQ3ZF?oc=5)
+
+---
+
+### ["On peut réduire de 80 % le risque d'AVC" : une neurologue explique ce qui fait vraiment la différence](https://news.google.com/rss/articles/CBMieEFVX3lxTE1seGxBTkVGdDFMNEpvcl9lU1RaVTR1SlhGTFpya2toaDVPU0YxSk43NlRybzR4VkpscllXZ251S1BPTUVfLVVBOHdONkk1ek5FbjFWTVdyWjlzVHo2Ym1WOFQ0WnIxM1dxS1pRaFppQVR2NzVQaGNneQ?oc=5)
+
+2026-10-29
+
+Source: [Linternaute.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE1seGxBTkVGdDFMNEpvcl9lU1RaVTR1SlhGTFpya2toaDVPU0YxSk43NlRybzR4VkpscllXZ251S1BPTUVfLVVBOHdONkk1ek5FbjFWTVdyWjlzVHo2Ym1WOFQ0WnIxM1dxS1pRaFppQVR2NzVQaGNneQ?oc=5)
+
+---
+
+### [This 2-min test could save you from stroke as HALF caused by 'silent' condition - The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTFB0cHVra19tZGMtQlUxS2hqYjE5U0I1MTV1bDRxNVNRZUNBWE9TZll2WGhUUjRCTlJKQk5iT1ZEbFJJUTFON0R0azE5Z3pjUmJlV1poNVJJeU1xN3pvZHF0QmUycEEzcG9fZ3RfWUU2bm00NEk2aDZseg?oc=5)
+
+2026-10-29
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTFB0cHVra19tZGMtQlUxS2hqYjE5U0I1MTV1bDRxNVNRZUNBWE9TZll2WGhUUjRCTlJKQk5iT1ZEbFJJUTFON0R0azE5Z3pjUmJlV1poNVJJeU1xN3pvZHF0QmUycEEzcG9fZ3RfWUU2bm00NEk2aDZseg?oc=5)
+
+---
 
 ### [SINGLE-AF-Studie: 69 Prozent weniger kombinierte Ereignisse mit DOACs](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeFdEbGlpOU5NV1gwVEpWT1pxRUJuRUY0MkI0eUp3Z0puU1l2VmppeHViMWNQU2daajN2R0ZVOTFLQjBhN1lJeUpuczdfaFBfNHJWWEhHSjdfOXQxZFItSWhyaXotZy03NGNnOVNyZ2JrOEhURjdUSkdfaC1TTWVhN0hVcGpUNHBrLUxqeFd0WWhRWkYwVFNIVDdtSlV6cDJ1YVBQZ2U0aWkzT1ZkRlk4VnplMDFma2ND?oc=5)
 
@@ -45,11 +101,11 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeF
 
 ---
 
-### [Solo el 50% de la población española reconoce los síntomas de un ictus pese a 90.000 casos al año](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdTZ2NDZGQ0Ywb081NVVEMXJjY1pFbzdvY0tnZFYyWXdNTVhhQzhKZDRIVENjbUZ3dHV3a0RZT0lwWjJ4ajBGQWN4NXNGSTBRSUFfc0pTaVNqMDQ3SFNPUDk1WENQQWRDOTJ0d25hbGVtUnJOSXRyaTdHUmV1S1hKRS1rSmI2QXNodEpYQmc4dEpQLW1WMjRYVm0zNVliX1ljVVFVQmpsT2JRQU9rSHlqdXRrOHJNS2ps?oc=5)
+### [Co Down mum recounts ‘terrifying’ stroke experience: ‘I was fit and used to play rugby for Ulster’ - Belfast Telegraph](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWjM1Q3NtYmtqWjF4bGM5SWdBTTdHREJ3c0RXbmx2VUlfRjBHU3FxbDY3Z1lyRnpUbjQxWFBNUUVtd0pEeHFoYzhLSG1WM01kVzRnQ24wVV9TbGhDSDdsZEgtZ1NwMC1NSmJzUHVIVDVnUWlFZndEMWFRNldraXNlVDlKU3VqeDd2eTd4OVpPNjBiR2p3cHdOcGpoaGVBRHpyNW1STmNPekdHRE5zbHpWRDFuRkY4ZHNEOTJ6T2c5WVJzNnU1eWlvS3oyWXMtc3BXTVhPX2ZKRWNDaHNzZnJzaGwzV1E?oc=5)
 
 2026-10-29
 
-Source: [Servimedia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdTZ2NDZGQ0Ywb081NVVEMXJjY1pFbzdvY0tnZFYyWXdNTVhhQzhKZDRIVENjbUZ3dHV3a0RZT0lwWjJ4ajBGQWN4NXNGSTBRSUFfc0pTaVNqMDQ3SFNPUDk1WENQQWRDOTJ0d25hbGVtUnJOSXRyaTdHUmV1S1hKRS1rSmI2QXNodEpYQmc4dEpQLW1WMjRYVm0zNVliX1ljVVFVQmpsT2JRQU9rSHlqdXRrOHJNS2ps?oc=5)
+Source: [Belfast Telegraph](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWjM1Q3NtYmtqWjF4bGM5SWdBTTdHREJ3c0RXbmx2VUlfRjBHU3FxbDY3Z1lyRnpUbjQxWFBNUUVtd0pEeHFoYzhLSG1WM01kVzRnQ24wVV9TbGhDSDdsZEgtZ1NwMC1NSmJzUHVIVDVnUWlFZndEMWFRNldraXNlVDlKU3VqeDd2eTd4OVpPNjBiR2p3cHdOcGpoaGVBRHpyNW1STmNPekdHRE5zbHpWRDFuRkY4ZHNEOTJ6T2c5WVJzNnU1eWlvS3oyWXMtc3BXTVhPX2ZKRWNDaHNzZnJzaGwzV1E?oc=5)
 
 ---
 
@@ -77,27 +133,11 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5t
 
 ---
 
-### [Explosion des AVC chez les jeunes, un « tabou » persistant : « On ne pense pas que ça peut être grave » - Le Parisien](https://news.google.com/rss/articles/CBMihAJBVV95cUxPNDdlcUgwLXh2RHlTU2ZZQ3hwTVNXaTNtTk15RXRZV0N5R1lpeUNBWFlXS3Y4WU9XendUVGtBb3p3YlA3NXZRdnQtc1huaEFVSDlPdG5ybW5tTVNoNmc4Si1IcGJOU2VENTdFNXhWUXFFWmtqU1lvbnVBMHZtRWY2QTZxdHpBQ05ray1pQzJyNWVfQ1VpdGNEYnFQVXlPZkVpTkgwbVZSWnVhVjVncS11RExYOVFtMTBiSm9jMnVIaTJmV1NEVDRhdVJHczFTN3FkYWpqU2V4ajJHWTQ0TUxOZGhtYnJycHNRbDliSTFDWlZCdGRDZ3U1VFNWSWhrcmNmaXdkdg?oc=5)
+### [Tendencia clínica: Ictus isquémico agudo](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmxmd2RJTG03MEZyNDRMUllubDQ3LTZmbm5EZ3p6MFdEYzdMdVlQcDRwV082akpPRkRYSzJSdnJucm9YU0FCQUYxaS1pQkRYOUpkRGRuZ19qLVI0WVV3UHB0TWRWOTVvSVQxa0dlV241RjZ3UzFvWHVrVW1ES1JOdFpGM3ZJSVR0b0hBc3pURWxNNmRWZXBkcnVocTJZcUtaQ2RQeHBR?oc=5)
 
-2026-10-29
+2026-10-28
 
-Source: [Le Parisien](https://news.google.com/rss/articles/CBMihAJBVV95cUxPNDdlcUgwLXh2RHlTU2ZZQ3hwTVNXaTNtTk15RXRZV0N5R1lpeUNBWFlXS3Y4WU9XendUVGtBb3p3YlA3NXZRdnQtc1huaEFVSDlPdG5ybW5tTVNoNmc4Si1IcGJOU2VENTdFNXhWUXFFWmtqU1lvbnVBMHZtRWY2QTZxdHpBQ05ray1pQzJyNWVfQ1VpdGNEYnFQVXlPZkVpTkgwbVZSWnVhVjVncS11RExYOVFtMTBiSm9jMnVIaTJmV1NEVDRhdVJHczFTN3FkYWpqU2V4ajJHWTQ0TUxOZGhtYnJycHNRbDliSTFDWlZCdGRDZ3U1VFNWSWhrcmNmaXdkdg?oc=5)
-
----
-
-### [Schlaganfall mit 27: Warum immer mehr junge Menschen betroffen sind](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVU3cVp4d2ZQNDVUYncyNUd2OG4xTDhTVjR4TVFtblludC1SXzBVWlZPSmJmbzVoSmRCVk1VQ3VtS0RjaWE0T3JZeGJ3MTdTcjk4OXV5VFV6TGV1UzB1WWNjR0dadk9yamlrYkhhSl9oTERQYzFFT2w2ZFlsV09oVWdlZUN3QVdyaU9ZZEI4cmhqNkxPbzRuYUxRRWtOYUxJZnFvOTU1dVB3SE9VNnZBam9R?oc=5)
-
-2026-10-29
-
-Source: [SWR](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVU3cVp4d2ZQNDVUYncyNUd2OG4xTDhTVjR4TVFtblludC1SXzBVWlZPSmJmbzVoSmRCVk1VQ3VtS0RjaWE0T3JZeGJ3MTdTcjk4OXV5VFV6TGV1UzB1WWNjR0dadk9yamlrYkhhSl9oTERQYzFFT2w2ZFlsV09oVWdlZUN3QVdyaU9ZZEI4cmhqNkxPbzRuYUxRRWtOYUxJZnFvOTU1dVB3SE9VNnZBam9R?oc=5)
-
----
-
-### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUdRUHpvMVFCWjlBN2NoTHpuQ2E5WGVMMGZyN2dyTWM1Q0hnSWlxclNFTVd5Vl9fbzZNdG1VNk5FV3M0MnBQUERlSnN6cW5ZM2dIREJYNkJGZmJEaWJ1OHFrVFhPVGQzX3hnV182MHljWFp3ckFzVVV1Z1c5M2txSzRzTHQ0elhfY1lsVF9oc0toMWd3QTVDdGNwX0RDZG1XZlQ0Smp5dUh6dEk1WjlYSnlFVWtCUVROa0Y0?oc=5)
-
-2026-10-29
-
-Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUdRUHpvMVFCWjlBN2NoTHpuQ2E5WGVMMGZyN2dyTWM1Q0hnSWlxclNFTVd5Vl9fbzZNdG1VNk5FV3M0MnBQUERlSnN6cW5ZM2dIREJYNkJGZmJEaWJ1OHFrVFhPVGQzX3hnV182MHljWFp3ckFzVVV1Z1c5M2txSzRzTHQ0elhfY1lsVF9oc0toMWd3QTVDdGNwX0RDZG1XZlQ0Smp5dUh6dEk1WjlYSnlFVWtCUVROa0Y0?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmxmd2RJTG03MEZyNDRMUllubDQ3LTZmbm5EZ3p6MFdEYzdMdVlQcDRwV082akpPRkRYSzJSdnJucm9YU0FCQUYxaS1pQkRYOUpkRGRuZ19qLVI0WVV3UHB0TWRWOTVvSVQxa0dlV241RjZ3UzFvWHVrVW1ES1JOdFpGM3ZJSVR0b0hBc3pURWxNNmRWZXBkcnVocTJZcUtaQ2RQeHBR?oc=5)
 
 ---
 
@@ -130,30 +170,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxQd0
 2026-10-28
 
 Source: [Redacción médica](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOVotZnpkQnEyNFlEa1EwaVJ3WDJ4LUJiaWFoT010aTNVRlZGczhxM3VOWFdjaVhaV21sd2phRFk5ZU9OOE1UMnFabjJzRENscF82NEtrRzdBSmRSdkNUWXlsalRjYkMtMXhsbnFyYVYzWFpMWlpBWi11ZVc1SHRGTDQ2dVVfaW5hbFpERWFBTDFFUm1LdkdzR0V0QnhWT1ZLaXBNakpacW81Tkk3V2xQb0I4UFdnX3NNNzRLbEYyMXdRSzZmS094c2Yzd1JfVVQ2eVVIUVE2UG9IY3dlMmfSAeMBQVVfeXFMTVdTUlBkWlBVUVRjSWRlRzNJdV9nWDlaNmYzdU9EYnJVWUdOTHBMaGV5X3FndXBDMFNkUUMtTnlWbEM0X25zc3ZjX0tScG42d1JuNndrdWJtQ0FUN1lTQ3RVVGlfQTQzTmt2eldlTGFCSEI1elRwbE52dW5wbHB1RVY0VHo1QzZlWTFkeGZxY2Y5V2hMeWVoaWV0NmF6WDZDZXN5b1hDZndBNUhWbUN2OWNsbzNVNlpUVVc4T0ZLNUliYzdDM2twX2ZzeUhNcDhmQ3d1N29XcF9JRlE3Q2pSWWdVak0?oc=5)
-
----
-
-### [Update zum Post-Stroke-Delir: Pathogenese und Langzeitoutcome - mgo medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWF9qTTZBMHFyazRmWDctMzhtUG1YRVJ6NE05S1A0V3RvRlBEMFZ4VDlQTFhmZWZUUndLN2lCUXJDRy0wM05teWF0Y1hDZ0xDM2lGYWw3el9uRU9wXzZOeHMxNXcxRFVHUHNCa1dZRDlmZ2JGV0RXRVF1ajZvcmlwSzZRWnhyYzJOMlEtZW4tTS1jX01WbHVGYUNVRm5lQzN1U0xZ?oc=5)
-
-2026-10-28
-
-Source: [mgo medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWF9qTTZBMHFyazRmWDctMzhtUG1YRVJ6NE05S1A0V3RvRlBEMFZ4VDlQTFhmZWZUUndLN2lCUXJDRy0wM05teWF0Y1hDZ0xDM2lGYWw3el9uRU9wXzZOeHMxNXcxRFVHUHNCa1dZRDlmZ2JGV0RXRVF1ajZvcmlwSzZRWnhyYzJOMlEtZW4tTS1jX01WbHVGYUNVRm5lQzN1U0xZ?oc=5)
-
----
-
-### [My girl's headaches were blamed on common infection - then she had two STROKES - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTHpTTHRYTGpHQzlkUVBlV25hbXZDbDhmdldZeHFlWUdVbUZmZjZHamFOWWlCMm94eHVCaFdhbTN3bWNYLUNpV0dEeVA2cjJXeXVaV0kxUzBlRDgxeV91YzVhLVJLUW1FRHN1X2xqVGxYczE3bXB3LW5PYjd4ZUk3QUJCQ3pxa0J4MjhjazhYOENjbGdWUUpLX1ptem8?oc=5)
-
-2026-10-28
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTHpTTHRYTGpHQzlkUVBlV25hbXZDbDhmdldZeHFlWUdVbUZmZjZHamFOWWlCMm94eHVCaFdhbTN3bWNYLUNpV0dEeVA2cjJXeXVaV0kxUzBlRDgxeV91YzVhLVJLUW1FRHN1X2xqVGxYczE3bXB3LW5PYjd4ZUk3QUJCQ3pxa0J4MjhjazhYOENjbGdWUUpLX1ptem8?oc=5)
-
----
-
-### [Whiston Hospital agrees six-figure settlement after catheter error caused stroke - St Helens Star](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNajc1V21kb2kweVZxZjczS01IQkJyV1lsbENTamUwUkRZbjBoTjRleE1DZ1pOQVdMNWE5Z08weVAxSldFY1JaUmc0Y21jXzJzZ2dPOVppZU94VllGbHNfMEViVGJnV3d0Q0U1TnhhWGhRcHpUWWdZenZqbzJCakpyMDZNLVB4RG1SY1dRQUphaEtkb1VXTDl6cXFuVmkyOW5FaG1rbU95M0pXQQ?oc=5)
-
-2026-10-28
-
-Source: [St Helens Star](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNajc1V21kb2kweVZxZjczS01IQkJyV1lsbENTamUwUkRZbjBoTjRleE1DZ1pOQVdMNWE5Z08weVAxSldFY1JaUmc0Y21jXzJzZ2dPOVppZU94VllGbHNfMEViVGJnV3d0Q0U1TnhhWGhRcHpUWWdZenZqbzJCakpyMDZNLVB4RG1SY1dRQUphaEtkb1VXTDl6cXFuVmkyOW5FaG1rbU95M0pXQQ?oc=5)
 
 ---
 
