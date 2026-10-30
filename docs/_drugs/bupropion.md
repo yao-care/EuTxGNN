@@ -3,7 +3,7 @@ layout: default
 title: Bupropion
 parent: Known Uses Only (No New Predictions)
 nav_order: 114
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Bupropion: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0
@@ -44,7 +44,7 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | Item | Content |
 |------|------|
 | Known uses recorded for this drug | 12 |
-| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
 | Number of Authorizations | 1 (valid: 1) |
 
 ## Known uses recorded for this drug

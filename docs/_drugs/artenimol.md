@@ -3,7 +3,7 @@ layout: default
 title: Artenimol
 parent: Known Uses Only (No New Predictions)
 nav_order: 61
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Artenimol: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0
@@ -44,7 +44,7 @@ The TxGNN deep-learning model produced candidates for Artenimol, but every candi
 | Item | Content |
 |------|------|
 | Known uses among model candidates | 1 |
-| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
 | Number of Authorizations | 1 (valid: 1) |
 
 ## Known uses among the model's candidates

@@ -3,7 +3,7 @@ layout: default
 title: Azacitidine
 parent: Known Uses Only (No New Predictions)
 nav_order: 77
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Azacitidine: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0
@@ -44,7 +44,7 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 | Item | Content |
 |------|------|
 | Known uses recorded for this drug | 15 |
-| Market status in the European Union | Marketed (valid licences: 6 of 6) |
+| EU Market Status | Marketed (valid licences: 6 of 6) |
 | Number of Authorizations | 6 (valid: 6) |
 
 ## Known uses recorded for this drug

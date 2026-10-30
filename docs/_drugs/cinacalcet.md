@@ -46,7 +46,7 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 0 |
 | Evidence level | Not applicable |
-| Market status in the European Union | Marketed (valid licences: 2 of 3) |
+| EU Market Status | Marketed (valid licences: 2 of 3) |
 | Number of Authorizations | 3 (valid: 2) |
 
 ## Known uses recorded for this drug

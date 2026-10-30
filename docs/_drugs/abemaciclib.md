@@ -3,7 +3,7 @@ layout: default
 title: Abemaciclib
 parent: Known Uses Only (No New Predictions)
 nav_order: 15
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Abemaciclib: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0
@@ -44,7 +44,7 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Abemaciclib,
 | Item | Content |
 |------|------|
 | Known uses recorded for this drug | 1 |
-| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
 | Number of Authorizations | 1 (valid: 1) |
 
 ## Known uses recorded for this drug

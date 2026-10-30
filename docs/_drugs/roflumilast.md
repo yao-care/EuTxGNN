@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 534
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Roflumilast: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Roflumilast,
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 1 |
 | Evidence level | Not applicable |
-| Market status in the European Union | Marketed (valid licences: 1 of 1) |
+| EU Market Status | Marketed (valid licences: 1 of 1) |
 | Number of Authorizations | 1 (valid: 1) |
 
 ## Known uses recorded for this drug

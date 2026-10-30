@@ -44,7 +44,7 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 | Item | Content |
 |------|------|
 | Known uses recorded for this drug | 8 |
-| Market status in the European Union | Marketed (valid licences: 4 of 5) |
+| EU Market Status | Marketed (valid licences: 4 of 5) |
 | Number of Authorizations | 5 (valid: 4) |
 
 ## Known uses recorded for this drug

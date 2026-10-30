@@ -7,7 +7,7 @@ parent: AI Predictions (L5)
 nav_order: 22
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -52,7 +52,7 @@ A full repurposing evaluation cannot be completed until these gaps are resolved.
 | Predicted New Indication | No predictions available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction only, but no predictions were returned |
-| Market Status | Marketed (valid licences: 2 of 2) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
 | Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | **Hold** |
 

@@ -46,7 +46,7 @@ The TxGNN model produced candidates for Zoledronic Acid, but every candidate tha
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| Market status in the European Union | Marketed (valid licences: 4 of 7) |
+| EU Market Status | Marketed (valid licences: 4 of 7) |
 | Number of Authorizations | 7 (valid: 4) |
 
 ## Known uses among the model's candidates

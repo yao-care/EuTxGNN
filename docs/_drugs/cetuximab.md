@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Cetuximab"
 predicted_indications: ["chondroid hamartoma", "ductal or ductular proliferation", "non-seminomatous lesion", "bronchial adenomas/carcinoids childhood", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "cystic neoplasm", "epiglottis neoplasm", "pre-malignant neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cetuximab: predicted new indication Chondroid hamartoma (evidence level L5). Approved use: EGFR-expressing, RAS wild-type metastatic colorectal cancer"
 ---
 
@@ -51,7 +51,7 @@ At present there are **0 clinical trials** and **0 publications** supporting thi
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
 | EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorisations | 1 (valid: 1) |
+| Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

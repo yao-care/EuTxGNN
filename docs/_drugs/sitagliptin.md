@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 566
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Sitagliptin: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 3 |
 | Evidence level | Not applicable |
-| Market status in the European Union | Marketed (valid licences: 6 of 6) |
+| EU Market Status | Marketed (valid licences: 6 of 6) |
 | Number of Authorizations | 6 (valid: 6) |
 
 ## Known uses recorded for this drug

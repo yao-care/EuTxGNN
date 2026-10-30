@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 531
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Rituximab: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Rituximab, s
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 14 |
 | Evidence level | Not applicable |
-| Market status in the European Union | Marketed (valid licences: 7 of 7) |
+| EU Market Status | Marketed (valid licences: 7 of 7) |
 | Number of Authorizations | 7 (valid: 7) |
 
 ## Known uses recorded for this drug

@@ -5,7 +5,7 @@ layout: default
 title: Abiraterone Acetate
 parent: Known Uses Only (No New Predictions)
 nav_order: 17
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -43,7 +43,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Original indication | Abiraterone Mylan is indicated with prednisone or prednisolone for: the treatment of newly diagnosed high risk metastatic hormone sensitive prostate cancer (mHSPC) in adult men in combination with androgen deprivation therapy (ADT). the treatment of metastatic castration resistant prostate cancer (m |
 | EU Market Status | Marketed (valid licences: 4 of 4) |
 | Taiwan market status | ✗ Not marketed |
-| Number of licenses | 4 (valid: 4) |
+| Number of Authorizations | 4 (valid: 4) |
 
 ---
 
