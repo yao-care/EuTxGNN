@@ -26,9 +26,8 @@ Evidence levels range from L1 (stronger clinical evidence) to L5 (model predicti
 
 ## Example drug reports
 
-- Aripiprazole (L1): https://eutxgnn.yao.care/drugs/aripiprazole/
-- Temozolomide (L1): https://eutxgnn.yao.care/drugs/temozolomide/
-- Bosutinib (L1): https://eutxgnn.yao.care/drugs/bosutinib/
+- Aripiprazole (L5): https://eutxgnn.yao.care/drugs/aripiprazole/
+- Temozolomide (L5): https://eutxgnn.yao.care/drugs/temozolomide/
 
 ## Citation and limitations
 
