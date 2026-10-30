@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Varenicline?">
-<strong>Varenicline</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Varenicline</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ This page combines the AI-predicted indications for Varenicline with the latest 
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [Bluthochdruck in Deutschland: 20 bis 30 Millionen betroffen, viele unerkannt](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjFUT0l4eW5vOGpDWXpZZHIwSFVPTFh0TnZQUnc1NXlEbk1ZbHd5bVpvNFpWVEJKbXFsS2p2VUpXNlFIQ2EwcUtRV3R1ZzdhTjRZNDgxMGpOQ1hKNmh1YmIteGVSb1N5a19sR19DMU9MSVJDdkhwMkhUMUQwcHIwQkcxamU3MlpfN0dpOXhMMEtlQm1rM0wwdUVKaVJDakVZS3FpUEYwdTgxeF9GODV0MFJsTHhUZ2UzUXhlNjNyelk?oc=5)
-
-2026-10-30 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjFUT0l4eW5vOGpDWXpZZHIwSFVPTFh0TnZQUnc1NXlEbk1ZbHd5bVpvNFpWVEJKbXFsS2p2VUpXNlFIQ2EwcUtRV3R1ZzdhTjRZNDgxMGpOQ1hKNmh1YmIteGVSb1N5a19sR19DMU9MSVJDdkhwMkhUMUQwcHIwQkcxamU3MlpfN0dpOXhMMEtlQm1rM0wwdUVKaVJDakVZS3FpUEYwdTgxeF9GODV0MFJsTHhUZ2UzUXhlNjNyelk?oc=5)
-
----
+## Related News (2)
 
 ### [Addio all'ipertensione refrattaria: a Pordenone l'operazione che azzera i rischi di infarto e ictus - Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXNrazJSakdTeFM1TnRHREFRWElrdDVGOFhQdWh0T3VQVy1UUnhGXzBEMWE0RXBLZEhCQ2ZlS203WU8xZk1ndFhZdFFCNTViUGx5a2Rjay1ybkNZOE9oekxzMnlxOE4ycWhLZUhUckVPMXNRS3NNUlZpZ2lGTGVDRDA2Y1BLaU1BM2hKdHg4X20wNUxKUjY1N3VmZ29OeEY5N3Q1OGNtbHFkcHE0MUp5eFdybFQ1c0dSZzZ4VTQyN21FR3pIbE5YLVVKTFQ4ekdjZmFIenBoUDNRSnNJaEE?oc=5)
 
@@ -60,11 +52,11 @@ Source: [Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUx
 
 ---
 
-### [MIGRACARE propone una hoja de ruta para mejorar la atención a las personas con migraña en España - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWjgyNkhYYkptbHhfSk5VYlVwaEY4Z2FUbXl6dW40ckotcEo4RWZfQjBXN1labU9ydFBkZnBTVWtqOTlWXzNKWGoyTkdXMUpDejg0OXY5QXhfNW5wTlJGSjFCTHJuM04waE1tUE1uNXN6RTNGWjJDNC1RX18tT0w1MDBEeU1LZDRhcThfZGR5Nm9wWGdEcWlsMzlscVpHMktnMV9MZFg1NUxaV1lLMkRXdExjX1BoOWtaMndXbnUxN1JsUdIBvAFBVV95cUxNS2dINGNEeEl4R1AzUUJCVWYwWW5aMW1vYnU1Y3hLdXZFVG90Ni1tUVNZZFNNZjZ6OHVwbS1zUjdsa0ltTHI4QmRKREpCSTNoemlsQkgyRnFyYzU1V2RzVWZ2TzFyT0Y2dURNaEhFZXBJRDkxNGpNTUM0azR5Y1cwTHEzZnFRSlpxU0w1d1JDVW0tdlBEck5pZzRPOHR1bW1oT3RDSER0WGJha3JpYWJrNnlWcTlrWmxRcUxFUg?oc=5)
+### [Doctor issues warning to millions taking statins, ramipril and metformin over 'hospital admissions' - Irish Mirror](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkVBejNRSjMxVTJVdDlySFNZYmdLZGJLdjJIOVd5Si1XQlhlZjBqeDVUMW1lMDVXMXF2UWRlUHY3Z3o1Z19SYy1Bd0lhZERNQ01lTnNDaW1ibVVWN1ZiTUtqdV9NcXQ4VmZUc1FFZGRxZVlQY1QzUlVwcXFWUGVaNUdKeXBVNGxQNWtUS2I0UmQ4NGtyRzBzMy1HMnZWamRHZnfSAacBQVVfeXFMTWk1cWxSdXgwS0lTeHpQWTFNQ3BGRjJySDFFSnRsY19NcGdURXI4bmktb1NIbS14Zm0tSmhrd1FDcXIwRzRodWN6Z2dOZW41X044bDc2WFA1V2VadzVwLTQxb3hqTWlEdS1zY01kSzNlenkwU2RlTWZVOXJzYUw3eWJaa2thckk1YlRtak9XcDEwelg1MXU1SVpyTkVTdkVYYkxxOWI0dmc?oc=5)
 
-2026-10-28 <span class="news-indication-tag">migraña</span>
+2026-10-28 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWjgyNkhYYkptbHhfSk5VYlVwaEY4Z2FUbXl6dW40ckotcEo4RWZfQjBXN1labU9ydFBkZnBTVWtqOTlWXzNKWGoyTkdXMUpDejg0OXY5QXhfNW5wTlJGSjFCTHJuM04waE1tUE1uNXN6RTNGWjJDNC1RX18tT0w1MDBEeU1LZDRhcThfZGR5Nm9wWGdEcWlsMzlscVpHMktnMV9MZFg1NUxaV1lLMkRXdExjX1BoOWtaMndXbnUxN1JsUdIBvAFBVV95cUxNS2dINGNEeEl4R1AzUUJCVWYwWW5aMW1vYnU1Y3hLdXZFVG90Ni1tUVNZZFNNZjZ6OHVwbS1zUjdsa0ltTHI4QmRKREpCSTNoemlsQkgyRnFyYzU1V2RzVWZ2TzFyT0Y2dURNaEhFZXBJRDkxNGpNTUM0azR5Y1cwTHEzZnFRSlpxU0w1d1JDVW0tdlBEck5pZzRPOHR1bW1oT3RDSER0WGJha3JpYWJrNnlWcTlrWmxRcUxFUg?oc=5)
+Source: [Irish Mirror](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkVBejNRSjMxVTJVdDlySFNZYmdLZGJLdjJIOVd5Si1XQlhlZjBqeDVUMW1lMDVXMXF2UWRlUHY3Z3o1Z19SYy1Bd0lhZERNQ01lTnNDaW1ibVVWN1ZiTUtqdV9NcXQ4VmZUc1FFZGRxZVlQY1QzUlVwcXFWUGVaNUdKeXBVNGxQNWtUS2I0UmQ4NGtyRzBzMy1HMnZWamRHZnfSAacBQVVfeXFMTWk1cWxSdXgwS0lTeHpQWTFNQ3BGRjJySDFFSnRsY19NcGdURXI4bmktb1NIbS14Zm0tSmhrd1FDcXIwRzRodWN6Z2dOZW41X044bDc2WFA1V2VadzVwLTQxb3hqTWlEdS1zY01kSzNlenkwU2RlTWZVOXJzYUw3eWJaa2thckk1YlRtak9XcDEwelg1MXU1SVpyTkVTdkVYYkxxOWI0dmc?oc=5)
 
 ---
 

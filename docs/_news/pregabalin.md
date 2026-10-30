@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Pregabalin?">
-<strong>Pregabalin</strong> currently has <strong>6 news articles</strong>, with 6 predicted indications.
+<strong>Pregabalin</strong> currently has <strong>5 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [Psoriasisarthritis: Kombinationstherapie erreicht bei 31,7 Prozent Doppelziel](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hXYjI2dlAya0NyVV9fVV9NS3h3Rkk1NVVtakloTk1nTUdrNnpCcjJmNjZ3WGRYWUtmaU1CdDhYVm50ZENwWE5KTmRNYkFhWHBKRzNNWlVKU0U2SEljWmVBNl9fMDJUNnNMeUZudDJkM2ZwYkZ2T3B1QndmalRnYkM1TzNRSzY5RlFYdm9DVnY4RnV5YzI1ellBTnNMcEdqUVJpd0k3UWFWU0JpaGw0RG5rYmprVTYzcWdoRG5FaHBHdWc?oc=5)
 
@@ -69,14 +69,6 @@ Source: [Infosalus](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWx1Rjh
 2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
 
 Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
-
----
-
-### [MIGRACARE propone una hoja de ruta para mejorar la atención a las personas con migraña en España - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWjgyNkhYYkptbHhfSk5VYlVwaEY4Z2FUbXl6dW40ckotcEo4RWZfQjBXN1labU9ydFBkZnBTVWtqOTlWXzNKWGoyTkdXMUpDejg0OXY5QXhfNW5wTlJGSjFCTHJuM04waE1tUE1uNXN6RTNGWjJDNC1RX18tT0w1MDBEeU1LZDRhcThfZGR5Nm9wWGdEcWlsMzlscVpHMktnMV9MZFg1NUxaV1lLMkRXdExjX1BoOWtaMndXbnUxN1JsUdIBvAFBVV95cUxNS2dINGNEeEl4R1AzUUJCVWYwWW5aMW1vYnU1Y3hLdXZFVG90Ni1tUVNZZFNNZjZ6OHVwbS1zUjdsa0ltTHI4QmRKREpCSTNoemlsQkgyRnFyYzU1V2RzVWZ2TzFyT0Y2dURNaEhFZXBJRDkxNGpNTUM0azR5Y1cwTHEzZnFRSlpxU0w1d1JDVW0tdlBEck5pZzRPOHR1bW1oT3RDSER0WGJha3JpYWJrNnlWcTlrWmxRcUxFUg?oc=5)
-
-2026-10-28 <span class="news-indication-tag">migraña</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWjgyNkhYYkptbHhfSk5VYlVwaEY4Z2FUbXl6dW40ckotcEo4RWZfQjBXN1labU9ydFBkZnBTVWtqOTlWXzNKWGoyTkdXMUpDejg0OXY5QXhfNW5wTlJGSjFCTHJuM04waE1tUE1uNXN6RTNGWjJDNC1RX18tT0w1MDBEeU1LZDRhcThfZGR5Nm9wWGdEcWlsMzlscVpHMktnMV9MZFg1NUxaV1lLMkRXdExjX1BoOWtaMndXbnUxN1JsUdIBvAFBVV95cUxNS2dINGNEeEl4R1AzUUJCVWYwWW5aMW1vYnU1Y3hLdXZFVG90Ni1tUVNZZFNNZjZ6OHVwbS1zUjdsa0ltTHI4QmRKREpCSTNoemlsQkgyRnFyYzU1V2RzVWZ2TzFyT0Y2dURNaEhFZXBJRDkxNGpNTUM0azR5Y1cwTHEzZnFRSlpxU0w1d1JDVW0tdlBEck5pZzRPOHR1bW1oT3RDSER0WGJha3JpYWJrNnlWcTlrWmxRcUxFUg?oc=5)
 
 ---
 

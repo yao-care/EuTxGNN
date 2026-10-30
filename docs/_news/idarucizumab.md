@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Idarucizumab?">
-<strong>Idarucizumab</strong> currently has <strong>6 news articles</strong>, with 0 predicted indications.
+<strong>Idarucizumab</strong> currently has <strong>5 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [Psoriasisarthritis: Kombinationstherapie erreicht bei 31,7 Prozent Doppelziel](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hXYjI2dlAya0NyVV9fVV9NS3h3Rkk1NVVtakloTk1nTUdrNnpCcjJmNjZ3WGRYWUtmaU1CdDhYVm50ZENwWE5KTmRNYkFhWHBKRzNNWlVKU0U2SEljWmVBNl9fMDJUNnNMeUZudDJkM2ZwYkZ2T3B1QndmalRnYkM1TzNRSzY5RlFYdm9DVnY4RnV5YzI1ellBTnNMcEdqUVJpd0k3UWFWU0JpaGw0RG5rYmprVTYzcWdoRG5FaHBHdWc?oc=5)
 
@@ -61,14 +61,6 @@ Source: [Infosalus](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWx1Rjh
 2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
 
 Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
-
----
-
-### [Nucala ya está disponible y financiado en España para pacientes con EPOC eosinofílica - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOWktRkZoZXZHc1RmTlJmaGhhWklhZnFLME5NbVNqcTRRenN2NHZQXy1vWU1mUDhXMDdmZnFWdk96bkpuNUFsaEZ0cHdzLVRqM0dBYUJEOFJTZkNNaXlTX3A3T3pLSkZRNkVjbmhkNl9MUkFYSTVFS3ZQQnhIQm82alRaejdyeTZoOFRKcUsyb1hzeFpnU2VsT1pOWXZ3Z2lVY0xzUlNRdmFMVmVfQVNDejljREkxbEgyQk9FSkVmTdIBugFBVV95cUxPNGY0V0tiemNoSjlsWDFWNTVqbTFfaDBiU2ozUC01SHhLcUROemFwMzBmdTNpOE1XTVpXRXRKYzdyeER0T0RSSjJUSl9WWE1wR0dYc1RWQWszX0RyS3lTd29LLVlkOEdoZjdxM2dJY2I5a2RrYjhteDBLbWtMS21iZXNEWTJiajJOMXFfTkF6ZGtheDB0MEM2bENzWWU4M1ktLXlVLXNORVNFRVgzb3h1dEpvMkVnemVzT3c?oc=5)
-
-2026-10-28 <span class="news-drug-tag">Mepolizumab</span> <span class="news-indication-tag">EPOC</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOWktRkZoZXZHc1RmTlJmaGhhWklhZnFLME5NbVNqcTRRenN2NHZQXy1vWU1mUDhXMDdmZnFWdk96bkpuNUFsaEZ0cHdzLVRqM0dBYUJEOFJTZkNNaXlTX3A3T3pLSkZRNkVjbmhkNl9MUkFYSTVFS3ZQQnhIQm82alRaejdyeTZoOFRKcUsyb1hzeFpnU2VsT1pOWXZ3Z2lVY0xzUlNRdmFMVmVfQVNDejljREkxbEgyQk9FSkVmTdIBugFBVV95cUxPNGY0V0tiemNoSjlsWDFWNTVqbTFfaDBiU2ozUC01SHhLcUROemFwMzBmdTNpOE1XTVpXRXRKYzdyeER0T0RSSjJUSl9WWE1wR0dYc1RWQWszX0RyS3lTd29LLVlkOEdoZjdxM2dJY2I5a2RrYjhteDBLbWtMS21iZXNEWTJiajJOMXFfTkF6ZGtheDB0MEM2bENzWWU4M1ktLXlVLXNORVNFRVgzb3h1dEpvMkVnemVzT3c?oc=5)
 
 ---
 

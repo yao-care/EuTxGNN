@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Ledipasvir?">
-<strong>Ledipasvir</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
+<strong>Ledipasvir</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Ledipasvir with the latest h
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (8)
+
+### [Kent GP's verdict on 'American Covid' and the symptoms to look for - Kent Online](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzNxQjRQaG4zbE9hLU1qMHdEOHdjVGJta0J4aHFYcjhxYjVXc3FoYk5ieG04MzlCQURQMGI3OFYxdUgtUDVTUkRmTzJBZ1VJX2xpX3R2TlNteExwNXI5X0o2c01IRnpzcmVTTlZaUlhSXzhIT0dKZ1kzRGU5WXpQODJ2dHRFc0tsU0tHcXFrajEzQzFZM3hvVXhPdTdDc0o4dlozNzY0NA?oc=5)
+
+2026-10-30 <span class="news-indication-tag">MS</span>
+
+Source: [Kent Online](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzNxQjRQaG4zbE9hLU1qMHdEOHdjVGJta0J4aHFYcjhxYjVXc3FoYk5ieG04MzlCQURQMGI3OFYxdUgtUDVTUkRmTzJBZ1VJX2xpX3R2TlNteExwNXI5X0o2c01IRnpzcmVTTlZaUlhSXzhIT0dKZ1kzRGU5WXpQODJ2dHRFc0tsU0tHcXFrajEzQzFZM3hvVXhPdTdDc0o4dlozNzY0NA?oc=5)
+
+---
+
+### [Orléans : 500 patients de ce centre dentaire appelés à se faire dépister contre le VIH](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWxndlV6VTVGeXpZeG1ZcU0zaWRqLWRoeF9QeGkxcUc4M1JNYTh3ajdWSjNEejhnQkFfSjZrbmExc1RDdjFVWk82ZU12b1V3bGg5clA5dWJ5blBKOHNXU3BtdUw5SnZ5MWhYRzBGalktY18za0tGbTh4VnlPalB1THY1b21mSG91MFdOVHlnQlh0MlZ5emZ6UnVHS0VBdWc0UEFjWVZEaVNNUUtvSml0OG1WR0wzQXFwTnZwRNIBwgFBVV95cUxNbm55SDVSTWxJQUhjc19DRWQ5YVJSS3BFYmJqRWFmRjNMU0EzLThrRWRMbDcydExaWEU5VHlZWDVNcHNydG1FQy1jZk1LNEJaSV91Mmo3WGZnejRPUndYeEFYRGZsU1p3RWxMNE9mZHNTbFFVSGRQYzhaNmpTX3RRWThVVDdkNW94bHVfbzlVSVJ4aS1EQ18tTXdKR2wxWWJjVVEzYzM2dFh3U0RLbW5xWWZFV2ZWLWhMU013LVZMQnF4Zw?oc=5)
+
+2026-10-30 <span class="news-indication-tag">hépatite</span>
+
+Source: [CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWxndlV6VTVGeXpZeG1ZcU0zaWRqLWRoeF9QeGkxcUc4M1JNYTh3ajdWSjNEejhnQkFfSjZrbmExc1RDdjFVWk82ZU12b1V3bGg5clA5dWJ5blBKOHNXU3BtdUw5SnZ5MWhYRzBGalktY18za0tGbTh4VnlPalB1THY1b21mSG91MFdOVHlnQlh0MlZ5emZ6UnVHS0VBdWc0UEFjWVZEaVNNUUtvSml0OG1WR0wzQXFwTnZwRNIBwgFBVV95cUxNbm55SDVSTWxJQUhjc19DRWQ5YVJSS3BFYmJqRWFmRjNMU0EzLThrRWRMbDcydExaWEU5VHlZWDVNcHNydG1FQy1jZk1LNEJaSV91Mmo3WGZnejRPUndYeEFYRGZsU1p3RWxMNE9mZHNTbFFVSGRQYzhaNmpTX3RRWThVVDdkNW94bHVfbzlVSVJ4aS1EQ18tTXdKR2wxWWJjVVEzYzM2dFh3U0RLbW5xWWZFV2ZWLWhMU013LVZMQnF4Zw?oc=5)
+
+---
 
 ### [Empresas.- MSD anuncia que 'Keytruda' reduce un 43% el riesgo de progresión o muerte en cáncer de endometrio](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZUVCMW5LS19WVGh2NXpUUHZjR3poZGtJZ2RzNGtZSXQ2cnM1eDM1aFVvVlFpUV9ObXVJQ3d5bC05VTJ0WF81alE3TENQVXZBaG5wak5RMXhNYmdsWWVER3c2aU1qV29vd3Fuc2F1WXg5cmFhTUlFeWRXUzVHMU5nMENvdTQzd0JSeXJNQ1pQV3BaXzlURC1xcHJfc29la1hNLTUzX2o5OEowSG1Yc19nX2lVb3dMeFAzb0ZzeTBOOFYzQWhlZWhaVHlLejFHem1ONUxCZ0xGc1ZGeXBnSHc?oc=5)
 
@@ -52,19 +68,19 @@ Source: [Infosalus](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZUVCMW5
 
 ---
 
-### [UK government’s obesity plan ‘doomed to fail’, MPs warn - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
+### [Study unravels healing powers of cold temperatures and say they could even help us live longer - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlFfejQyRkFhVGVmTXJpMFpqeTlJV09HX2xmYllpWk9YYWJFQm1reUFhR01YRGVTOWgwUm5NV29nOGt5bTdvYXlyY2o5OVZfV2pscHJid3pDbF9EUGxLMjB5bWU2d0xQbTIwazJtRnBEaTctSU9xODdhcEM3VXFlaW82emxjZHNfRmZwa1pabUFzWXNzZ3d0UEh5VlhmbjQ?oc=5)
 
-2026-10-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-10-30 <span class="news-indication-tag">MS</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
+Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlFfejQyRkFhVGVmTXJpMFpqeTlJV09HX2xmYllpWk9YYWJFQm1reUFhR01YRGVTOWgwUm5NV29nOGt5bTdvYXlyY2o5OVZfV2pscHJid3pDbF9EUGxLMjB5bWU2d0xQbTIwazJtRnBEaTctSU9xODdhcEM3VXFlaW82emxjZHNfRmZwa1pabUFzWXNzZ3d0UEh5VlhmbjQ?oc=5)
 
 ---
 
-### [Centre dentaire suspendu à Orléans : des dépistages des virus du VIH et des hépatites B et C recommandés pour 500 patients - La République du Centre](https://news.google.com/rss/articles/CBMihwJBVV95cUxQRms3Z1BVSEVrMjFIRGdhb2gxZ1VRRjhNZmNGY1hzMnZhdlB3Y2lGUmg1VWhqU0lVZUJ0bTVPWnVBd2Z2d1ZQaGRwZkFxd0lIWENkNFhqdW1jLWhyWktSbEszZkk2X1laMkpQNFhEbzJqRjZRbDJZYlRhOFRVWWM0V1FDOTlOZUV4QS1lVW04VVRLWUUwYzNDTkdIOGd4MnA5U0pGMnpTMnlKY2tMZlBoNGdyaGJJMzdSQVBVSHVSOHVBdlc3Q1ZnQjlpd2pJUDVFQkpraHlQd2w4dlIwaGJybXkwT2gzVjR3Z2tobnVsZllLT0cyWGhNbkRFeFZ3SVlkN0RQQWFJbw?oc=5)
+### [UK government’s obesity plan ‘doomed to fail’, MPs warn - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
 
-2026-10-29 <span class="news-indication-tag">hépatite</span>
+2026-10-30 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
-Source: [La République du Centre](https://news.google.com/rss/articles/CBMihwJBVV95cUxQRms3Z1BVSEVrMjFIRGdhb2gxZ1VRRjhNZmNGY1hzMnZhdlB3Y2lGUmg1VWhqU0lVZUJ0bTVPWnVBd2Z2d1ZQaGRwZkFxd0lIWENkNFhqdW1jLWhyWktSbEszZkk2X1laMkpQNFhEbzJqRjZRbDJZYlRhOFRVWWM0V1FDOTlOZUV4QS1lVW04VVRLWUUwYzNDTkdIOGd4MnA5U0pGMnpTMnlKY2tMZlBoNGdyaGJJMzdSQVBVSHVSOHVBdlc3Q1ZnQjlpd2pJUDVFQkpraHlQd2w4dlIwaGJybXkwT2gzVjR3Z2tobnVsZllLT0cyWGhNbkRFeFZ3SVlkN0RQQWFJbw?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
 
 ---
 
@@ -89,30 +105,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxPLVYwdmFN
 2026-10-28 <span class="news-indication-tag">MS</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2J4QmM3eTRVWlNuYVJ4WGJyU3phN1p4WElxREl2TU96TmdpdlRkbzhkdkxJNi1PTmwzWHBjcHJOUlFCYmZQUUE1MzdYcTNlcVJ0QXpaNUt5TUkwNFJZb3o5cm9WaWJYZEswM25YYWVpS3FJRmJGaDN5d1BhckFEZXFWdVRBXzVoSUMyU1BuMHVoSnJqRW5fZ2xXN0RKZw?oc=5)
-
----
-
-### [Healthy Aging Supplement Fails in Large PD Trial](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWml5V2tzQ3VlT0FpNm9ScFVKci1XWkc5WWpvSlF4SWVsTWVLcTFBaXVuY2dUa2dfdm05UXNpM1BrdFYwakdOdjlRd0hjQjFxaFpmY2tvR0xQV2E4M2loVWlWWkU0Mkg0eXFvc1hGSzB5ejgxNk1wd2k2Ui1KWmNjTHdpX0hBaFNWWVNfVTZ6NnhrYTg2NG5HUGYxTFdSUkp4cHh1cnoyWXA?oc=5)
-
-2026-10-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWml5V2tzQ3VlT0FpNm9ScFVKci1XWkc5WWpvSlF4SWVsTWVLcTFBaXVuY2dUa2dfdm05UXNpM1BrdFYwakdOdjlRd0hjQjFxaFpmY2tvR0xQV2E4M2loVWlWWkU0Mkg0eXFvc1hGSzB5ejgxNk1wd2k2Ui1KWmNjTHdpX0hBaFNWWVNfVTZ6NnhrYTg2NG5HUGYxTFdSUkp4cHh1cnoyWXA?oc=5)
-
----
-
-### [Tired, irritable and craving carbs? Why darker days affect our bodies and brains - The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlBuYWpLc013Y3B4TUxjYTV5dWEtd19tem1zZHBXUDVpOE05WVVydXpjSGQtQVNRRU14RkpITHNJZk40NEFxLWJuQXFLdGh6OEVsajhnenRJaGRvNURPRmJFYmFDb0NPenk2djN5aE92QndORldqT0E2QmlUaGJaWkZVNU5CeDVFSE1sVUdqcnR3aHlIbzJ5cEx6RlJSOHhQdlZROU9hcFprTWs3RUZmVlJaZw?oc=5)
-
-2026-10-26 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlBuYWpLc013Y3B4TUxjYTV5dWEtd19tem1zZHBXUDVpOE05WVVydXpjSGQtQVNRRU14RkpITHNJZk40NEFxLWJuQXFLdGh6OEVsajhnenRJaGRvNURPRmJFYmFDb0NPenk2djN5aE92QndORldqT0E2QmlUaGJaWkZVNU5CeDVFSE1sVUdqcnR3aHlIbzJ5cEx6RlJSOHhQdlZROU9hcFprTWs3RUZmVlJaZw?oc=5)
-
----
-
-### [Breast cancer early warning signs: 5 subtle changes women should never ignore, even if there is no pain - The Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS2w4Y1RWTnRpZjJnT0NSYzJOZ3h1TFU2LS1jVVBkQ0xjWlFPQWdyNFp3QUFqcHI5a213S2t3VThnMzh5MDVVandYUGZnUUQxV3NsM2Y0MW9wWnhoN1VFeUhLa0VCUkl3c3U0dERGS210R0pfNGF3dlc2OUZyS3lndERsVjEyTUZOOWsxUEJXdW45akE5UlZ4M0VCODB4dzVMLXllRlVMWWZGMVljV2xHeTk3QVFuMUJmNWtNZ2VEOU1Xd0F6aElQNTZsWlUtY2VTaW11cGFHM1FXaG9ZWE1RSy03UktDcUFid3NPdHRxTlJRNXVUUHk0dW05MTdnTTjSAYQCQVVfeXFMTlpzWXdNTE9WbGh2RVVYRTJtQXVzTHpyZG5TajlUNDNVTnVEb2ZPbzJScDlZdjE4MkJSVGdYLTk5NEdaUE1DSmhkSUF3NXFCamdxQWd0Nzd1RnlSODNySGtVZ3F4c2pUR3kxcDVjMmJyYTN6a3FNcVlfUVlxZXdWWHdJaXgtQm1hUVJxcHhWa0s0ZDY2aU55SFZGTzVXQ0Y4enV4UHBOQjBuSllIalZZa0Z6NDlESUNBNkJtQ3VzOHZWTlc4MWdCb1FiT1ZuTFRSc3ZySm1ZeTdEMkM2TktHN2VhRjM1Y3AtZTdaeVc4T0lrbjU2THZjMUxUSlNLN0JTUXk5UE4?oc=5)
-
-2026-10-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS2w4Y1RWTnRpZjJnT0NSYzJOZ3h1TFU2LS1jVVBkQ0xjWlFPQWdyNFp3QUFqcHI5a213S2t3VThnMzh5MDVVandYUGZnUUQxV3NsM2Y0MW9wWnhoN1VFeUhLa0VCUkl3c3U0dERGS210R0pfNGF3dlc2OUZyS3lndERsVjEyTUZOOWsxUEJXdW45akE5UlZ4M0VCODB4dzVMLXllRlVMWWZGMVljV2xHeTk3QVFuMUJmNWtNZ2VEOU1Xd0F6aElQNTZsWlUtY2VTaW11cGFHM1FXaG9ZWE1RSy03UktDcUFid3NPdHRxTlJRNXVUUHk0dW05MTdnTTjSAYQCQVVfeXFMTlpzWXdNTE9WbGh2RVVYRTJtQXVzTHpyZG5TajlUNDNVTnVEb2ZPbzJScDlZdjE4MkJSVGdYLTk5NEdaUE1DSmhkSUF3NXFCamdxQWd0Nzd1RnlSODNySGtVZ3F4c2pUR3kxcDVjMmJyYTN6a3FNcVlfUVlxZXdWWHdJaXgtQm1hUVJxcHhWa0s0ZDY2aU55SFZGTzVXQ0Y4enV4UHBOQjBuSllIalZZa0Z6NDlESUNBNkJtQ3VzOHZWTlc4MWdCb1FiT1ZuTFRSc3ZySm1ZeTdEMkM2TktHN2VhRjM1Y3AtZTdaeVc4T0lrbjU2THZjMUxUSlNLN0JTUXk5UE4?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Tacrolimus?">
-<strong>Tacrolimus</strong> currently has <strong>6 news articles</strong>, with 2 predicted indications.
+<strong>Tacrolimus</strong> currently has <strong>7 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,21 +34,29 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Psoriasi, non solo pelle: lo studio su 2 milioni di persone rivela una rete di rischi per la salute](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN25YSDZNRzZBOTJXLVhFdl9YclhrQTVBbnp5aUtmcjc1b3NENlFXYjhGUXlsM1lwb2lkS29tZmdEZ3FIaTBaQWxMQ3c2UVJKbDV0WDRDeUkzVEZkLThsbnBUNVNCNlBIeTVSakViMnl2Uk5QLXpGVFl5ZUhjdWw2V25zSU5idU1pSkZJUGJhRW9SNkphUFdrWmFsMlg1UFRyWE9aWTZRVDFTUDZ5eFJqWnFIT2FyeGhmMFlWN3F1YzNOYkdWY3JIZkdwSkE3eUJUSGZmNTRBZVFqeUxCVmhvOUJEZG55R0V5alRZZE5n?oc=5)
+
+2026-10-30 <span class="news-indication-tag">soriasi</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN25YSDZNRzZBOTJXLVhFdl9YclhrQTVBbnp5aUtmcjc1b3NENlFXYjhGUXlsM1lwb2lkS29tZmdEZ3FIaTBaQWxMQ3c2UVJKbDV0WDRDeUkzVEZkLThsbnBUNVNCNlBIeTVSakViMnl2Uk5QLXpGVFl5ZUhjdWw2V25zSU5idU1pSkZJUGJhRW9SNkphUFdrWmFsMlg1UFRyWE9aWTZRVDFTUDZ5eFJqWnFIT2FyeGhmMFlWN3F1YzNOYkdWY3JIZkdwSkE3eUJUSGZmNTRBZVFqeUxCVmhvOUJEZG55R0V5alRZZE5n?oc=5)
+
+---
+
+### [Psoriasis : ces 5 gestes d'hiver que les dermatologues recommandent pour calmer les plaques - Le Tribunal du Net](https://news.google.com/rss/articles/CBMilgFBVV95cUxNUkg0X0g4dlpWd2NHZENtbG1GMkcwc2lqQlM2dmtaaUpHZnNrX01lTDZRci15eGEyYnJ4cFF6X3QwQ3N4NzFVTHNIRjRtd0V5OTVXX3VTLWhuQzd5RF9HcldiU0Q0QzBfWTRpNVY1Ujh3OWdFbC1LMjFOa3VXS0FmRV9XUnMxWHZjUUZDRXhjMGtGdjJkLWc?oc=5)
+
+2026-10-29 <span class="news-indication-tag">psoriasis</span>
+
+Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilgFBVV95cUxNUkg0X0g4dlpWd2NHZENtbG1GMkcwc2lqQlM2dmtaaUpHZnNrX01lTDZRci15eGEyYnJ4cFF6X3QwQ3N4NzFVTHNIRjRtd0V5OTVXX3VTLWhuQzd5RF9HcldiU0Q0QzBfWTRpNVY1Ujh3OWdFbC1LMjFOa3VXS0FmRV9XUnMxWHZjUUZDRXhjMGtGdjJkLWc?oc=5)
+
+---
 
 ### [Psoriasisarthritis: Kombinationstherapie erreicht bei 31,7 Prozent Doppelziel](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hXYjI2dlAya0NyVV9fVV9NS3h3Rkk1NVVtakloTk1nTUdrNnpCcjJmNjZ3WGRYWUtmaU1CdDhYVm50ZENwWE5KTmRNYkFhWHBKRzNNWlVKU0U2SEljWmVBNl9fMDJUNnNMeUZudDJkM2ZwYkZ2T3B1QndmalRnYkM1TzNRSzY5RlFYdm9DVnY4RnV5YzI1ellBTnNMcEdqUVJpd0k3UWFWU0JpaGw0RG5rYmprVTYzcWdoRG5FaHBHdWc?oc=5)
 
 2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hXYjI2dlAya0NyVV9fVV9NS3h3Rkk1NVVtakloTk1nTUdrNnpCcjJmNjZ3WGRYWUtmaU1CdDhYVm50ZENwWE5KTmRNYkFhWHBKRzNNWlVKU0U2SEljWmVBNl9fMDJUNnNMeUZudDJkM2ZwYkZ2T3B1QndmalRnYkM1TzNRSzY5RlFYdm9DVnY4RnV5YzI1ellBTnNMcEdqUVJpd0k3UWFWU0JpaGw0RG5rYmprVTYzcWdoRG5FaHBHdWc?oc=5)
-
----
-
-### [Par «honte», ils cachent leur psoriasis génital… et leur douleur](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdUFsMTlwaFBrd0Jtc1g2WXYxRkVFLU5lalFfUS01cFotblFXRzBfUms2YXh6NFdRbmpkenhGd0hlNnlYQnJQX0I1dlR5SnVvWE1RcUZWa3BrOGZaQmFDVEtxZzQxSDNJNDNyRnZNNmFFaUg5SzJuSndOYUpXeG5jMDJJcFE4dmp3VElFNVBpNlRFOFFXOUhpQVRhLXpGUHZLdllPVFhrcG5sSEIxaExvbExtOFJudkFndW5EYnRwbXlCX2s?oc=5)
-
-2026-10-29 <span class="news-indication-tag">psoriasis</span>
-
-Source: [L'essentiel](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdUFsMTlwaFBrd0Jtc1g2WXYxRkVFLU5lalFfUS01cFotblFXRzBfUms2YXh6NFdRbmpkenhGd0hlNnlYQnJQX0I1dlR5SnVvWE1RcUZWa3BrOGZaQmFDVEtxZzQxSDNJNDNyRnZNNmFFaUg5SzJuSndOYUpXeG5jMDJJcFE4dmp3VElFNVBpNlRFOFFXOUhpQVRhLXpGUHZLdllPVFhrcG5sSEIxaExvbExtOFJudkFndW5EYnRwbXlCX2s?oc=5)
 
 ---
 

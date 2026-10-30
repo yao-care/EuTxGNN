@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Tasimelteon?">
-<strong>Tasimelteon</strong> currently has <strong>5 news articles</strong>, with 9 predicted indications.
+<strong>Tasimelteon</strong> currently has <strong>3 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (3)
 
 ### [Depressione, non è uguale per tutti: uno studio individua un possibile sottotipo legato all’orologio biologico](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUGNOVzRqSDlhUk9NNlVvUmJLZjgwYjRRcHBLbVJDczBwMVFJaHk0cnlkRm1BQVdqWXIta2ZoWjVER19XQnI0UGVjdWVyc3NvUm9UYUhlNlV0VmNWRUNES1NBcmE3SzlLRjA2RHNKc2ZQZXdvLXFhRVd6Mjd3YWp1MzRjbUppX3hvWm5sUHVXQVYyOXBZZzBaVzhVa21Oc0E3MXFzWE4zYnZ4amxHMGk5RGpiM0pXV21BMHhHck5QcWU0eFRYSEhrOTdFdlJNOGFNWk9YcTN1NWhTWEF1ell4QkJmbGU3RGZYYWxib3NPMA?oc=5)
 
 2026-10-29 <span class="news-indication-tag">depression</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUGNOVzRqSDlhUk9NNlVvUmJLZjgwYjRRcHBLbVJDczBwMVFJaHk0cnlkRm1BQVdqWXIta2ZoWjVER19XQnI0UGVjdWVyc3NvUm9UYUhlNlV0VmNWRUNES1NBcmE3SzlLRjA2RHNKc2ZQZXdvLXFhRVd6Mjd3YWp1MzRjbUppX3hvWm5sUHVXQVYyOXBZZzBaVzhVa21Oc0E3MXFzWE4zYnZ4amxHMGk5RGpiM0pXV21BMHhHck5QcWU0eFRYSEhrOTdFdlJNOGFNWk9YcTN1NWhTWEF1ell4QkJmbGU3RGZYYWxib3NPMA?oc=5)
-
----
-
-### [La depresión eleva un 81% el riesgo de mortalidad general y un 101% el cardiovascular - La Voz de Madrid](https://news.google.com/rss/articles/CBMixwFBVV95cUxPU244OGx5Q05QVWgxeUNtdGQ3N2VlWnR0STl4N290YWp3dXhNS3liVldqbDE5TXRZVmc4b25JbTZqY24wMm4tMzNyelFHV0xYeEV0M2FYUWJoUXVzRnktRVd0SnhUSEVNQVVBTjU0NHVhRVh5czl1NFhFdWI2WGpNQlFJVGRWZVlEbTFMZXYxZXBqVjZ1Sk93VG40Zm04SC1HUk9WOXhrVm5nNHhTcGI4QlNIU29JSmdYRE82dDdWdTYweE41Y0JZ?oc=5)
-
-2026-10-29 <span class="news-indication-tag">depresión</span>
-
-Source: [La Voz de Madrid](https://news.google.com/rss/articles/CBMixwFBVV95cUxPU244OGx5Q05QVWgxeUNtdGQ3N2VlWnR0STl4N290YWp3dXhNS3liVldqbDE5TXRZVmc4b25JbTZqY24wMm4tMzNyelFHV0xYeEV0M2FYUWJoUXVzRnktRVd0SnhUSEVNQVVBTjU0NHVhRVh5czl1NFhFdWI2WGpNQlFJVGRWZVlEbTFMZXYxZXBqVjZ1Sk93VG40Zm04SC1HUk9WOXhrVm5nNHhTcGI4QlNIU29JSmdYRE82dDdWdTYweE41Y0JZ?oc=5)
 
 ---
 
@@ -72,14 +64,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxPV091TnFP
 2026-10-28 <span class="news-indication-tag">depresión</span>
 
 Source: [Infobae](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTDRLMElERHVTMm9RU1dxNU9uYWJ3VXExckdDTzBpV3NPNUw3ZTFManhGdFR1ZEdQMHZsNV9GSnh1UzdJaXh3bDB6M0pqdzRXbDNjVlhsbjlKUks4R3BYUl9nejBGdlRpMHc4a3hSRXNObGJGY0VhUzhYNldJYXNIcWI5bDFUcWktTDVxelFUQmZPUExHU2M5NTRJOTN1VGZfeTZfYTVRWG1KUWZmSFFGTTh4S0IySEE2ZWpRbEthZURFcGwxdjhtM3o2djZ4Zw?oc=5)
-
----
-
-### [Tired, irritable and craving carbs? Why darker days affect our bodies and brains - The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlBuYWpLc013Y3B4TUxjYTV5dWEtd19tem1zZHBXUDVpOE05WVVydXpjSGQtQVNRRU14RkpITHNJZk40NEFxLWJuQXFLdGh6OEVsajhnenRJaGRvNURPRmJFYmFDb0NPenk2djN5aE92QndORldqT0E2QmlUaGJaWkZVNU5CeDVFSE1sVUdqcnR3aHlIbzJ5cEx6RlJSOHhQdlZROU9hcFprTWs3RUZmVlJaZw?oc=5)
-
-2026-10-26 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlBuYWpLc013Y3B4TUxjYTV5dWEtd19tem1zZHBXUDVpOE05WVVydXpjSGQtQVNRRU14RkpITHNJZk40NEFxLWJuQXFLdGh6OEVsajhnenRJaGRvNURPRmJFYmFDb0NPenk2djN5aE92QndORldqT0E2QmlUaGJaWkZVNU5CeDVFSE1sVUdqcnR3aHlIbzJ5cEx6RlJSOHhQdlZROU9hcFprTWs3RUZmVlJaZw?oc=5)
 
 ---
 

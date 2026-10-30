@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Opicapone?">
-<strong>Opicapone</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
+<strong>Opicapone</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Fish Oil Supplements May Not Lower Alzheimer's Risk, Study Finds](https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3oyUmt0b0RVMFJJS05kSHpKYWtTY1hsV0ZkR3FDMXM3UjhDYVlEZzFXanhhUFJMYnBfZk5lS2JHYk1nVi0xS2pMZWZja0w3Z3BBVHlWTVl4SUNTaXljd0dWRFIxMDNlVHo5cmEwSUFETmozZDFfS2xlWlQ4Z3NueDFJVDR5OXRuMEFQOGwtSG9ISF9Fb1pn?oc=5)
 
 2026-10-29 <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [Healthline](https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3oyUmt0b0RVMFJJS05kSHpKYWtTY1hsV0ZkR3FDMXM3UjhDYVlEZzFXanhhUFJMYnBfZk5lS2JHYk1nVi0xS2pMZWZja0w3Z3BBVHlWTVl4SUNTaXljd0dWRFIxMDNlVHo5cmEwSUFETmozZDFfS2xlWlQ4Z3NueDFJVDR5OXRuMEFQOGwtSG9ISF9Fb1pn?oc=5)
-
----
-
-### [Healthy Aging Supplement Fails in Large PD Trial](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWml5V2tzQ3VlT0FpNm9ScFVKci1XWkc5WWpvSlF4SWVsTWVLcTFBaXVuY2dUa2dfdm05UXNpM1BrdFYwakdOdjlRd0hjQjFxaFpmY2tvR0xQV2E4M2loVWlWWkU0Mkg0eXFvc1hGSzB5ejgxNk1wd2k2Ui1KWmNjTHdpX0hBaFNWWVNfVTZ6NnhrYTg2NG5HUGYxTFdSUkp4cHh1cnoyWXA?oc=5)
-
-2026-10-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWml5V2tzQ3VlT0FpNm9ScFVKci1XWkc5WWpvSlF4SWVsTWVLcTFBaXVuY2dUa2dfdm05UXNpM1BrdFYwakdOdjlRd0hjQjFxaFpmY2tvR0xQV2E4M2loVWlWWkU0Mkg0eXFvc1hGSzB5ejgxNk1wd2k2Ui1KWmNjTHdpX0hBaFNWWVNfVTZ6NnhrYTg2NG5HUGYxTFdSUkp4cHh1cnoyWXA?oc=5)
 
 ---
 

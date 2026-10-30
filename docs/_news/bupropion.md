@@ -32,9 +32,17 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 
 ## Related News (4)
 
+### [Los hepatólogos reclaman reforzar la prevención ante el aumento de la mortalidad por cáncer de hígado](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlVSVE9heC1yd1VnTC1rT1NhbHB3NlI5RkRXbURQckRJdmttYWlxOElsZDlUbGllaFpEb2xjWVIxeE5PQzVtOWVLd20yMXo5ZzNPb0JFZ0FRb3EydzRWT0k4RXBQZHJBV3k5ZlRWMkdDeHpJX1NzZllEWF91NnFfczIzckNjVnYxOFptcGZvQVZQM2Z6eW4wV0xhM3IxdnMxMzJDUlF0cFZacldaTmhtYmZxWWxiM0JaRWg0?oc=5)
+
+2026-10-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Servimedia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlVSVE9heC1yd1VnTC1rT1NhbHB3NlI5RkRXbURQckRJdmttYWlxOElsZDlUbGllaFpEb2xjWVIxeE5PQzVtOWVLd20yMXo5ZzNPb0JFZ0FRb3EydzRWT0k4RXBQZHJBV3k5ZlRWMkdDeHpJX1NzZllEWF91NnFfczIzckNjVnYxOFptcGZvQVZQM2Z6eW4wV0xhM3IxdnMxMzJDUlF0cFZacldaTmhtYmZxWWxiM0JaRWg0?oc=5)
+
+---
+
 ### [UK government’s obesity plan ‘doomed to fail’, MPs warn - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
 
-2026-10-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-10-30 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
 
@@ -53,14 +61,6 @@ Source: [Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOX0puZj
 2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
-
----
-
-### [Rivoluzioni cosmetici: con i farmaci dimagranti boom di creme per combattere la “faccia da Ozempic” - la Repubblica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMGcwaUdvZU0zeW00UVVOQlI2WjZfVzVTd0c4MHB2eUF5TnVxU2RCUVNvQ2tTcmZsOXJwYzMtQlY1TEVlYnlOUm4tVGlQVDJudFpkcEtiMWZpb1IxZ3lKSUpmbkdFNVdJN0txa0IxSGtMck9ZLXlaYy04Y2ZsTXhKX1BCNER0TE16dzZDcVFDTTBSUUdpMm95YUtBbVFCUnlYSzV2RlVvVGotb3pIRm1JaS1WdDhnOFFMOVVnSzY3ejV5WXBhQW1XWG12WmVPZjk3NmduRWw5RU54S2FDd0JkVy1BeWJxcDV1eVdSM2txRQ?oc=5)
-
-2026-10-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMGcwaUdvZU0zeW00UVVOQlI2WjZfVzVTd0c4MHB2eUF5TnVxU2RCUVNvQ2tTcmZsOXJwYzMtQlY1TEVlYnlOUm4tVGlQVDJudFpkcEtiMWZpb1IxZ3lKSUpmbkdFNVdJN0txa0IxSGtMck9ZLXlaYy04Y2ZsTXhKX1BCNER0TE16dzZDcVFDTTBSUUdpMm95YUtBbVFCUnlYSzV2RlVvVGotb3pIRm1JaS1WdDhnOFFMOVVnSzY3ejV5WXBhQW1XWG12WmVPZjk3NmduRWw5RU54S2FDd0JkVy1BeWJxcDV1eVdSM2txRQ?oc=5)
 
 ---
 
