@@ -32,11 +32,11 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 ## Related News (2)
 
-### [Le médicament antiobésité Wegovy sous forme de comprimé : date, prix, remboursement… Tout savoir l'arrivée du traitement en France - Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOX0puZjlnUktfMktTclh3bUtMdUxfM1AydzFVVGNYcFFWaXFsSzVlLTZNakhrQVZBSXV6TXpkUkVoa2sxQlh4NEJrcFRXZV9xYmg3bTJBS1NKU21pczgzcFZiOHN3NWpaOHZPRGRNcGs3NzdhMjlJT0k0N09pOUdmOTlrS3V4bFlvTGo1TjBrN0Y0UnVJQTR2TlM2d1k5ajgzVFVTQU9STWpad1drT2duVFJ6ZlItb2NHaElWZFNrVU5wVTNlUFpieVdaMVdFVElGS0FRbV94RENBdUlDQjBfMURfT0VLQS1fRTJ4cmZEdlowT2g1UmtfQklabVVJZTlSWWlZ?oc=5)
+### [Ce qu’il faut savoir sur l’arrivée du Wegovy en comprimés contre l’obésité - 20 Minutes](https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3AwWGtYQ2t2TTNaY2lLUDBDd3JERHZSdmltOXpsMGI5TnJKQ0NWWUhTV1NaRTd5U3NxOEstQkg1WjVuRnp5R1M5bjZWNWk4LWRNUURBbk5Ma3lLdVRnc256VlZ5NXdkb1FtNUhDakxIYWNIUGRYNnMwcWIwOWxodlRmSmxOYnBlaTdxQmdMNGNoU0RUT1lNaXVabXRIUVZwdDdlU0h1bzY5UUtiYlpjag?oc=5)
 
 2026-10-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
-Source: [Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOX0puZjlnUktfMktTclh3bUtMdUxfM1AydzFVVGNYcFFWaXFsSzVlLTZNakhrQVZBSXV6TXpkUkVoa2sxQlh4NEJrcFRXZV9xYmg3bTJBS1NKU21pczgzcFZiOHN3NWpaOHZPRGRNcGs3NzdhMjlJT0k0N09pOUdmOTlrS3V4bFlvTGo1TjBrN0Y0UnVJQTR2TlM2d1k5ajgzVFVTQU9STWpad1drT2duVFJ6ZlItb2NHaElWZFNrVU5wVTNlUFpieVdaMVdFVElGS0FRbV94RENBdUlDQjBfMURfT0VLQS1fRTJ4cmZEdlowT2g1UmtfQklabVVJZTlSWWlZ?oc=5)
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3AwWGtYQ2t2TTNaY2lLUDBDd3JERHZSdmltOXpsMGI5TnJKQ0NWWUhTV1NaRTd5U3NxOEstQkg1WjVuRnp5R1M5bjZWNWk4LWRNUURBbk5Ma3lLdVRnc256VlZ5NXdkb1FtNUhDakxIYWNIUGRYNnMwcWIwOWxodlRmSmxOYnBlaTdxQmdMNGNoU0RUT1lNaXVabXRIUVZwdDdlU0h1bzY5UUtiYlpjag?oc=5)
 
 ---
 

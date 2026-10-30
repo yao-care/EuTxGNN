@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Tolcapone?">
-<strong>Tolcapone</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Tolcapone</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ This page combines the AI-predicted indications for Tolcapone with the latest he
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Fish Oil Supplements May Not Lower Alzheimer's Risk, Study Finds](https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3oyUmt0b0RVMFJJS05kSHpKYWtTY1hsV0ZkR3FDMXM3UjhDYVlEZzFXanhhUFJMYnBfZk5lS2JHYk1nVi0xS2pMZWZja0w3Z3BBVHlWTVl4SUNTaXljd0dWRFIxMDNlVHo5cmEwSUFETmozZDFfS2xlWlQ4Z3NueDFJVDR5OXRuMEFQOGwtSG9ISF9Fb1pn?oc=5)
 
 2026-10-29 <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [Healthline](https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3oyUmt0b0RVMFJJS05kSHpKYWtTY1hsV0ZkR3FDMXM3UjhDYVlEZzFXanhhUFJMYnBfZk5lS2JHYk1nVi0xS2pMZWZja0w3Z3BBVHlWTVl4SUNTaXljd0dWRFIxMDNlVHo5cmEwSUFETmozZDFfS2xlWlQ4Z3NueDFJVDR5OXRuMEFQOGwtSG9ISF9Fb1pn?oc=5)
+
+---
+
+### [Maladie de Parkinson : pourquoi bouger davantage pourrait faire la différence - Charente Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa3VGQ09OR2t6N3BOTTF3Q3JoWHF1SG5KLXMwdllZWE9VT1pmTEhGSk9KLVNxVGFScVhkaURxMnhJeW9Nem1GWXdyTjhkZkVvWmstZXIyeTJTSjRwNFB5cnctZXhHS1Q3RHpJd0liZ0VNcndTRmxIZEZWQm9sZTNoWXNic21EVjBWcXo2WXVvX2ZYQmRhc3AzLWlQSnRBNTdXVWN1czBZMWZYVG8tVkxxN19mbjdyOFpXWWtXMjAyak0?oc=5)
+
+2026-10-29 <span class="news-indication-tag">maladie de Parkinson</span>
+
+Source: [Charente Libre](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa3VGQ09OR2t6N3BOTTF3Q3JoWHF1SG5KLXMwdllZWE9VT1pmTEhGSk9KLVNxVGFScVhkaURxMnhJeW9Nem1GWXdyTjhkZkVvWmstZXIyeTJTSjRwNFB5cnctZXhHS1Q3RHpJd0liZ0VNcndTRmxIZEZWQm9sZTNoWXNic21EVjBWcXo2WXVvX2ZYQmRhc3AzLWlQSnRBNTdXVWN1czBZMWZYVG8tVkxxN19mbjdyOFpXWWtXMjAyak0?oc=5)
 
 ---
 

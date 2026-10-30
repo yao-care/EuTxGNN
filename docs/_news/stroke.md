@@ -3,7 +3,7 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 15 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 11 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-10-30
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>15 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>11 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (15)
+## Related News (11)
+
+### [La vacunación antigripal puede reducir el riesgo de complicaciones cardiovasculares en adultos - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWlKcjdhMzBBNHVnSkF5WUxUSEtkUXB3VXRyRElWQk4wX2p6REZ6UXFfUnpXaHJmVVMtQ21HXzgzQ2tZaHU3ZlVvNkpQVzJBejNhbE9XVF9IRWYwSlQwSXRWMXBHa2ZvWURnUmUzbGdOLUhEaXIwTlF2eHdPb0YtWmpKM0RyZG44ZEh5YzBsbS1CRWlLWXdYZERybDJ4WTh4SXlKOE9HOThMLW9BbXRVWkx3R1U1NWFPUVVPcDJwejdsUdIBvAFBVV95cUxPUW1mSWlKMGVuc0FxTURuQVp1MkxlNVhxU0FCWnlSTG1GSlpnYklXS1NXQWFsTlMzRndCWWJfb0ZDUDk4WlprTS1ER3lVdFgxYkpENC1sdTROeXZTbUVibG5MSXlXaXVUYm1Pb3VxdzJJQzlfNmYzaWxhdFlRMWxzMHd4dldxNlZvZktRRTl0U1NLOW5zN1ZpaHFTRUNkWlFHX21MVGtmYy1uVEdiaFo5R0paMWl3azE1MmgycQ?oc=5)
+
+2026-10-30
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWlKcjdhMzBBNHVnSkF5WUxUSEtkUXB3VXRyRElWQk4wX2p6REZ6UXFfUnpXaHJmVVMtQ21HXzgzQ2tZaHU3ZlVvNkpQVzJBejNhbE9XVF9IRWYwSlQwSXRWMXBHa2ZvWURnUmUzbGdOLUhEaXIwTlF2eHdPb0YtWmpKM0RyZG44ZEh5YzBsbS1CRWlLWXdYZERybDJ4WTh4SXlKOE9HOThMLW9BbXRVWkx3R1U1NWFPUVVPcDJwejdsUdIBvAFBVV95cUxPUW1mSWlKMGVuc0FxTURuQVp1MkxlNVhxU0FCWnlSTG1GSlpnYklXS1NXQWFsTlMzRndCWWJfb0ZDUDk4WlprTS1ER3lVdFgxYkpENC1sdTROeXZTbUVibG5MSXlXaXVUYm1Pb3VxdzJJQzlfNmYzaWxhdFlRMWxzMHd4dldxNlZvZktRRTl0U1NLOW5zN1ZpaHFTRUNkWlFHX21MVGtmYy1uVEdiaFo5R0paMWl3azE1MmgycQ?oc=5)
+
+---
 
 ### [ANGIOCAT y WE-TRUST logran reducir a la mitad el tiempo de respuesta en ictus, minimizando complicaciones y secuelas - Gaceta Médica](https://news.google.com/rss/articles/CBMipwFBVV95cUxNVUl1WXFFaHFObWFIOWZReFR1aks2YzZpOWhiajdlR3BDcjFodktTZU92OXFMWFlicUlmRUd5TlQ4S01sWjZYV0VTQUN0eWgtUy13ZE5IeVFfdWNnWXZhM3pqWUg3Rl9ZN0pndW5pZDV5bnRmX2JWU2RCaDB3LUlVRExFWE5tNVhiTzJfOTYwT1ZxRGYwTGhDWTl2RFBfMlkwVndXU3FJSQ?oc=5)
 
@@ -69,7 +77,7 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMd
 
 ---
 
-### [Santé. 1 200 personnes font un AVC en Drôme et en Ardèche par an, ce chiffre devrait augmenter de 50 % d’ici 2050 - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR3hXNzhPWVJjMmgwQUxnUjloY2NqVUZqYlB5MVBueXFjR2c1X3MyNllLOGNGYnhOdTdSb2dlcWh5QjhsLTNYdlQzMVF4ckRJTko1dXJMSzJOMjRnLUNWNXdMQ1IzdC1XYnNCd3B5TFlOanZqZkVaN0lMOGhGQVMxYUo4T21mMlhkdFNGRGZoVzFiQjlkN2lOVWlPb3kzZTBFWGtnWkcySGJsSGVjWEZCS1hFREFEbTUwSy1ZckxyaGp3U1JUVzFOVDNuYmc2bGVEWDg2ZTE0VlM1bWdrMTNRTg?oc=5)
+### [Santé. 1 200 personnes font un AVC en Drôme-Ardèche par an, ce chiffre devrait augmenter de 50 % d’ici 2050 - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR3hXNzhPWVJjMmgwQUxnUjloY2NqVUZqYlB5MVBueXFjR2c1X3MyNllLOGNGYnhOdTdSb2dlcWh5QjhsLTNYdlQzMVF4ckRJTko1dXJMSzJOMjRnLUNWNXdMQ1IzdC1XYnNCd3B5TFlOanZqZkVaN0lMOGhGQVMxYUo4T21mMlhkdFNGRGZoVzFiQjlkN2lOVWlPb3kzZTBFWGtnWkcySGJsSGVjWEZCS1hFREFEbTUwSy1ZckxyaGp3U1JUVzFOVDNuYmc2bGVEWDg2ZTE0VlM1bWdrMTNRTg?oc=5)
 
 2026-10-30
 
@@ -77,19 +85,11 @@ Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi4AFBVV9
 
 ---
 
-### [Los casos de ictus crecen un 73% desde 1990 pese a caer las tasas de incidencia y mortalidad por edad](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTRybFpFdTk2WENHOGh1b2dRWDgtY0IzMjVNZURrZ3pDU0N4NnF0WUk2b2NmbWNreV9wRnpObVNmOUFSTm0zaXNfM1dGbHNabklZbmhqZDgtbE5iNTExNmdpcDh2NTQ2TWh0MWhLNXNZR25xTzRsTDg3bHhXMFhjTlNoQnNtbFdueXVNT1FJMHc5UTRnWWhTYlRFbW8yd3l6R3hwWEZZMzc4bW5SSU1Oc1h6NklUbFV1cFBzS2tNNFgxbHNzY19GaQ?oc=5)
+### [Los nuevos casos de ictus aumentan un 73% desde 1990 en todo el mundo pese al descenso de las tasas ajustadas por edad - Diario Estrategia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOFhIWHpNaklEX3dzZC13enJNSDRhLUxlNXpvcWhqbExjQXhudm8wNmFESkFUTEMxZElJOWpScU1YOEJnR05iVjZKLU5oSllWdmNnRlRVLWxydHlhQzJoYkI2OWg3N0F1MlUtVzdPNnp2enQ1SmpKVkF5dENDMjBFY2hidjh5VjlBdWF6cWdhU09oM0Mwc3Q0MDVueUp0MFg3YUhoWU9VdzZCckJUVDAyN3pSNHRfMU5uTDRaVEFSb1pYQ1FaZjlObDE4aGQzZ3NLZE9Malk5RHUxa2ZiSHVGdEdB?oc=5)
 
 2026-10-29
 
-Source: [iSanidad](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTRybFpFdTk2WENHOGh1b2dRWDgtY0IzMjVNZURrZ3pDU0N4NnF0WUk2b2NmbWNreV9wRnpObVNmOUFSTm0zaXNfM1dGbHNabklZbmhqZDgtbE5iNTExNmdpcDh2NTQ2TWh0MWhLNXNZR25xTzRsTDg3bHhXMFhjTlNoQnNtbFdueXVNT1FJMHc5UTRnWWhTYlRFbW8yd3l6R3hwWEZZMzc4bW5SSU1Oc1h6NklUbFV1cFBzS2tNNFgxbHNzY19GaQ?oc=5)
-
----
-
-### [Un cardiólogo reclama que la vacuna de la gripe sea parte fija de la prevención en pacientes con cardiopatías](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
-
-2026-10-29
-
-Source: [Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
+Source: [Diario Estrategia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOFhIWHpNaklEX3dzZC13enJNSDRhLUxlNXpvcWhqbExjQXhudm8wNmFESkFUTEMxZElJOWpScU1YOEJnR05iVjZKLU5oSllWdmNnRlRVLWxydHlhQzJoYkI2OWg3N0F1MlUtVzdPNnp2enQ1SmpKVkF5dENDMjBFY2hidjh5VjlBdWF6cWdhU09oM0Mwc3Q0MDVueUp0MFg3YUhoWU9VdzZCckJUVDAyN3pSNHRfMU5uTDRaVEFSb1pYQ1FaZjlObDE4aGQzZ3NLZE9Malk5RHUxa2ZiSHVGdEdB?oc=5)
 
 ---
 
@@ -98,22 +98,6 @@ Source: [Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUD
 2026-10-29
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGozYV9zTW5aTmx1U0o5bVpkT1lnWXNEc1NRcmJLM2VwTzhBdHBIQWZlZFdzYkNQeU1aWVl2Q3hwRkgxX3pNRWZOeDdWNFZlZEM4WlZWZ0VIVFBCUlVnUHlLS3V6ekprMmRmRmE5Smh6dDZGSUI1MjRTY19oWjRubWU2ZkZ2TE1tN1dNTHdiakE3eEdiS3RQWXVOYlpjdzRHMG1tVWxWbWN5RHc?oc=5)
-
----
-
-### [Ictus, le difficoltà cognitive possono anticiparlo? Il segnale emerso da 3.875 adulti](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFRwQmNESDloWmtBZG05Y21hd28tZFB3YWJ6Ny1YNHFYX3lHeVRqVkxjQ1g5bW9KZ0ZRV2FRT2Vxdkc5RmduVWtoSGY2QVZoR3NGQ0dPRlZNZFBRQnZ6R2p6NHRjb3V0UDJPMERrM1F5NTFzTkRFQUI0SXBYWjB6LWxOMkh5eFFlcmhnQWlraG9mVXRYTTF5dXRqSXNuOXFaUmN5SlRNbmdzQ05ncThnNTRYLXJZZHVfMFRmMTdZMnVnSFV2THQ3bUtpUUs4SVh3SUh0c3p5MThBT2s?oc=5)
-
-2026-10-29
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFRwQmNESDloWmtBZG05Y21hd28tZFB3YWJ6Ny1YNHFYX3lHeVRqVkxjQ1g5bW9KZ0ZRV2FRT2Vxdkc5RmduVWtoSGY2QVZoR3NGQ0dPRlZNZFBRQnZ6R2p6NHRjb3V0UDJPMERrM1F5NTFzTkRFQUI0SXBYWjB6LWxOMkh5eFFlcmhnQWlraG9mVXRYTTF5dXRqSXNuOXFaUmN5SlRNbmdzQ05ncThnNTRYLXJZZHVfMFRmMTdZMnVnSFV2THQ3bUtpUUs4SVh3SUh0c3p5MThBT2s?oc=5)
-
----
-
-### [This 2-min test could save you from stroke as HALF caused by 'silent' condition - The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTFB0cHVra19tZGMtQlUxS2hqYjE5U0I1MTV1bDRxNVNRZUNBWE9TZll2WGhUUjRCTlJKQk5iT1ZEbFJJUTFON0R0azE5Z3pjUmJlV1poNVJJeU1xN3pvZHF0QmUycEEzcG9fZ3RfWUU2bm00NEk2aDZseg?oc=5)
-
-2026-10-29
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTFB0cHVra19tZGMtQlUxS2hqYjE5U0I1MTV1bDRxNVNRZUNBWE9TZll2WGhUUjRCTlJKQk5iT1ZEbFJJUTFON0R0azE5Z3pjUmJlV1poNVJJeU1xN3pvZHF0QmUycEEzcG9fZ3RfWUU2bm00NEk2aDZseg?oc=5)
 
 ---
 
@@ -138,22 +122,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFJ
 2026-10-29
 
 Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
-
----
-
-### [De apoplejía a código ictus: una historia en evolución](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjZpUTZsMER0TzJiTld4aFBJNGN2S21nVkREdFFHZ1Z4Y0loMFVvTjl4eFBELUotYXZSSW55TmlGWHpLWTc0cURkR0FVU01VeUdFbWp3MjlUQ1lBV1pyQ0tpaTRUTWlFVXVHTklRNG5JOHZBN2l6MlVNTHRaaUR3MTZlRzNLU1Y0RnRVNExiWUdYZGtqb1ZiOTFaRDA1bUVtaUJBN0lIVGdTMVdNQlNZ?oc=5)
-
-2026-10-28
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjZpUTZsMER0TzJiTld4aFBJNGN2S21nVkREdFFHZ1Z4Y0loMFVvTjl4eFBELUotYXZSSW55TmlGWHpLWTc0cURkR0FVU01VeUdFbWp3MjlUQ1lBV1pyQ0tpaTRUTWlFVXVHTklRNG5JOHZBN2l6MlVNTHRaaUR3MTZlRzNLU1Y0RnRVNExiWUdYZGtqb1ZiOTFaRDA1bUVtaUJBN0lIVGdTMVdNQlNZ?oc=5)
-
----
-
-### [Addio all'ipertensione refrattaria: a Pordenone l'operazione che azzera i rischi di infarto e ictus - Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXNrazJSakdTeFM1TnRHREFRWElrdDVGOFhQdWh0T3VQVy1UUnhGXzBEMWE0RXBLZEhCQ2ZlS203WU8xZk1ndFhZdFFCNTViUGx5a2Rjay1ybkNZOE9oekxzMnlxOE4ycWhLZUhUckVPMXNRS3NNUlZpZ2lGTGVDRDA2Y1BLaU1BM2hKdHg4X20wNUxKUjY1N3VmZ29OeEY5N3Q1OGNtbHFkcHE0MUp5eFdybFQ1c0dSZzZ4VTQyN21FR3pIbE5YLVVKTFQ4ekdjZmFIenBoUDNRSnNJaEE?oc=5)
-
-2026-10-28
-
-Source: [Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXNrazJSakdTeFM1TnRHREFRWElrdDVGOFhQdWh0T3VQVy1UUnhGXzBEMWE0RXBLZEhCQ2ZlS203WU8xZk1ndFhZdFFCNTViUGx5a2Rjay1ybkNZOE9oekxzMnlxOE4ycWhLZUhUckVPMXNRS3NNUlZpZ2lGTGVDRDA2Y1BLaU1BM2hKdHg4X20wNUxKUjY1N3VmZ29OeEY5N3Q1OGNtbHFkcHE0MUp5eFdybFQ1c0dSZzZ4VTQyN21FR3pIbE5YLVVKTFQ4ekdjZmFIenBoUDNRSnNJaEE?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Cladribine?">
-<strong>Cladribine</strong> currently has <strong>36 news articles</strong>, with 7 predicted indications.
+<strong>Cladribine</strong> currently has <strong>34 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ This page combines the AI-predicted indications for Cladribine with the latest h
 <p><a href="{{ '/drugs/cladribine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (36)
+## Related News (34)
 
 ### [Kent GP's verdict on 'American Covid' and the symptoms to look for - Kent Online](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzNxQjRQaG4zbE9hLU1qMHdEOHdjVGJta0J4aHFYcjhxYjVXc3FoYk5ieG04MzlCQURQMGI3OFYxdUgtUDVTUkRmTzJBZ1VJX2xpX3R2TlNteExwNXI5X0o2c01IRnpzcmVTTlZaUlhSXzhIT0dKZ1kzRGU5WXpQODJ2dHRFc0tsU0tHcXFrajEzQzFZM3hvVXhPdTdDc0o4dlozNzY0NA?oc=5)
 
@@ -137,6 +137,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTZlNDJRY
 
 ---
 
+### [Known for preventing cancer, p53 could also help immune cells fight it - Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3JTRExiY002UU9qN0JlVW1hWlVRZHRXWnRTNmFmZTR5bWRKSERjbUV2ZnA2dnJfbVVsRnNucmRfU2RrY19QQXFZQmhSUTVSTmRvc1ktX3VrTEZWd0szY3pyY3FpZ1NmNmN0MExLa0JRcmtwa0E?oc=5)
+
+2026-10-29 <span class="news-indication-tag">cancer</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3JTRExiY002UU9qN0JlVW1hWlVRZHRXWnRTNmFmZTR5bWRKSERjbUV2ZnA2dnJfbVVsRnNucmRfU2RrY19QQXFZQmhSUTVSTmRvc1ktX3VrTEZWd0szY3pyY3FpZ1NmNmN0MExLa0JRcmtwa0E?oc=5)
+
+---
+
 ### [Doctors discover 'rugby-ball-sized' tumour after grandad visits GP with one symptom - Manchester Evening News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVZzVTZ6dmEwZjlvSnJkdW1vR3ZrR05HMWJHSkU0bG1QWDlOYkMzUktmWFBWTXJuWENxTFFaNmVaNURPZFdZZ2VFM1RqXzI3VDRJRjE4NjdaenZwYUZCT1JqSXNSdmRuVGlQd3RqQ1E4S1g1TWN2R1BZMjVMZGU5VkZxbXB2dGNpMXFwQzRhNDlnS0Ezci1uMzhvcHRZM21MdEh5LVBsM2NwUmFDUEROY9IBtgFBVV95cUxOeVJLazBGam5zdURjOGY2cGtCczZFLTZqU3luQWcwZjdkWmF5NUV6cHVvNjNhRHgzMWJ2NV9CTGFKNjVfQ1Z0ZGcxTFY1REJjNU9GZkRlV254QWtNZU9BTUpCZEN6Um5TMmplczU0bnFTTjNVTFk5cmpjS2t0eFE5RElNRUlQZHF4Qm5GYXltb1hPSEM3VlpvYU83YVo5YkJXS2FPeE1Cc1VEbU1FX01aX0E4ZzJXdw?oc=5)
 
 2026-10-29 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">AF</span>
@@ -150,14 +158,6 @@ Source: [Manchester Evening News](https://news.google.com/rss/articles/CBMisAFBV
 2026-10-29 <span class="news-indication-tag">tumor</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWnpkaVpJLWQ2VFhORmtTOGRXdGpoR3dWZlZZLWFZX3pXMERZYmh6LWk1RHJiV3pJTk5lbHd3cUNBRk0yaWRrZG1YRWVEU0FnTzFKZ3laSDdmUkx5RXZqcU9hMHNManp6Rk8wb3FmSHl3ZG9NWHE5elJnYl96TFV1ZWhsbk5FRUxuSmJ2MHF0OHVVV2FPaGtUZ0tPN3N0MVI4QndUeEtuUlRodUdzVldSOEh6NGJYNG1Mck5NWlpRYTdIRmlpa2o0Nmp3aVdObE4wYWVJbmNJeUFRUQ?oc=5)
-
----
-
-### [Signs your forgetfulness or procrastination is ADHD & 5 other causes of symptoms - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVJsM1JscUUyenRYZG1ZaS1ubFNzdmowVXFZa1ZLWk1TblMxaWh6UENUc3U4MVYwcV9zU3VFWG1QNTNqOU5WRWszX19UcUwwNmZXNTlmZE1aUkFQYVB4UlR1YTh0dEFlMkRsd3FrV25NVmhnTFAxTVFnUmF2eV95NDJSYTdZcmR6MnZoOGRnVEhwbEMtdXc?oc=5)
-
-2026-10-29 <span class="news-indication-tag">MS</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVJsM1JscUUyenRYZG1ZaS1ubFNzdmowVXFZa1ZLWk1TblMxaWh6UENUc3U4MVYwcV9zU3VFWG1QNTNqOU5WRWszX19UcUwwNmZXNTlmZE1aUkFQYVB4UlR1YTh0dEFlMkRsd3FrV25NVmhnTFAxTVFnUmF2eV95NDJSYTdZcmR6MnZoOGRnVEhwbEMtdXc?oc=5)
 
 ---
 
@@ -209,14 +209,6 @@ Source: [TP24.it](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTFFzNzVqZ
 
 ---
 
-### [Fundraising appeal for devoted Donegal mum-of-two with stage four cancer - Donegal Daily](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjA2TFBjRklVUWllS1Fza0p4ZF9ObkUzXzhnQjlVZ3RmQ3RxM2ZiNHMzWHNxYnRIUXJyMmltOVJXSTdzVlFrbmdWWUN5bHQ4UHZ3d21mZDloeFNydS1MNHVnMkJDaHVxVDdsbDROMnVLaUpzaHR6UTZERW5wOFNtVHB6ZFk1bmt4N2x0eVJXWlR2azJnVWptWGNZNk9tWWhnNVE3S3Y3YURRNVZ6RndmMHR0SQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">cancer</span>
-
-Source: [Donegal Daily](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjA2TFBjRklVUWllS1Fza0p4ZF9ObkUzXzhnQjlVZ3RmQ3RxM2ZiNHMzWHNxYnRIUXJyMmltOVJXSTdzVlFrbmdWWUN5bHQ4UHZ3d21mZDloeFNydS1MNHVnMkJDaHVxVDdsbDROMnVLaUpzaHR6UTZERW5wOFNtVHB6ZFk1bmt4N2x0eVJXWlR2azJnVWptWGNZNk9tWWhnNVE3S3Y3YURRNVZ6RndmMHR0SQ?oc=5)
-
----
-
 ### [‘Ferritin face’: are social media claims about iron deficiency fact – or fiction? - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2J4QmM3eTRVWlNuYVJ4WGJyU3phN1p4WElxREl2TU96TmdpdlRkbzhkdkxJNi1PTmwzWHBjcHJOUlFCYmZQUUE1MzdYcTNlcVJ0QXpaNUt5TUkwNFJZb3o5cm9WaWJYZEswM25YYWVpS3FJRmJGaDN5d1BhckFEZXFWdVRBXzVoSUMyU1BuMHVoSnJqRW5fZ2xXN0RKZw?oc=5)
 
 2026-10-28 <span class="news-indication-tag">MS</span>
@@ -241,6 +233,14 @@ Source: [Pleine Vie](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRDllWF
 
 ---
 
+### [La vitamina che contrasta l'invecchiamento cellulare e potrebbe aiutare nella prevenzione tumorale](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbERyUDBuc09JbzBndVBKbGdZWlJHenlwWHFZRk1UV1lMMk44cVhuc2hyclphUVJZTEVPY0oyUkFiS0MtMUtobG55VjBPbFZvei1SZ3FSWkhKOWhXOUdmX3d0ZmFDZ3ZmNHhGZGw3MGhfQ2ZkeG44emtiajk1a056Tk9maHl5N1lXOTZFa1NBQVNDQmxydW5uZ2lfYUhqb3QyTlRiX3o0aWFGTjVkWFNleTk0VlMzZXdhY2hzb3RhWE1sQTJkNWdKUmFGUTdBTWFUQm15WVhNRTJtZw?oc=5)
+
+2026-10-27 <span class="news-indication-tag">tumor</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbERyUDBuc09JbzBndVBKbGdZWlJHenlwWHFZRk1UV1lMMk44cVhuc2hyclphUVJZTEVPY0oyUkFiS0MtMUtobG55VjBPbFZvei1SZ3FSWkhKOWhXOUdmX3d0ZmFDZ3ZmNHhGZGw3MGhfQ2ZkeG44emtiajk1a056Tk9maHl5N1lXOTZFa1NBQVNDQmxydW5uZ2lfYUhqb3QyTlRiX3o0aWFGTjVkWFNleTk0VlMzZXdhY2hzb3RhWE1sQTJkNWdKUmFGUTdBTWFUQm15WVhNRTJtZw?oc=5)
+
+---
+
 ### [Woman died after one-year delay in cancer diagnosis](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5udExPVDFvMlFHQWh3YjBIZFlMUFZXbDJDczJmcXR2Qi15eXY1U0x5ZzAyeUQyaDZQZWgwOXdrQTluZWtsM2NrVGtidld3aW45UDdJdWVmcmZ5Z0NadEE?oc=5)
 
 2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -259,17 +259,9 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMizwJBVV95c
 
 ### [Cancer de la prostate : un nouveau traitement permet de prolonger de deux ans la survie des patients présentant des métastases, selon une étude](https://news.google.com/rss/articles/CBMinAJBVV95cUxNd0RTSW0zVk1aNHBLTXBrU0d6c1o3bW94X0JMSVhoOGlaTmZYU2N6d0poeDJ2WFR0Q1RHRWR4d3BFMEtpNDV1MGlGM1N6cHh4Y0VYbTVlM3JCUnFBYXZIWk95TFFmUWlkdFRjUmxHTzg4UXI4MXI1UUZnektuYmZDWEFwVzZMczVkQnYxRS0taXdHZDVaRnY2QmhhMjdqZzdHd2xEMFZFODJHNDdoS2RaaC1LNS10V3V4QnFjVDUwZ0xLXzZNYVlvVVhJSFRXLVRwM0I1RExseGFITVg2dk5JOEFfWkhJRi10TktqSnZ4bDFXdVV6YkNHd2wtNEctQ0RZcUpxcnZVNFMtWWhENklWR3M3T3ZQTmVxdUlmUw?oc=5)
 
-2026-10-27 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">cancer</span>
+2026-10-27 <span class="news-indication-tag">cancer</span>
 
 Source: [franceinfo](https://news.google.com/rss/articles/CBMinAJBVV95cUxNd0RTSW0zVk1aNHBLTXBrU0d6c1o3bW94X0JMSVhoOGlaTmZYU2N6d0poeDJ2WFR0Q1RHRWR4d3BFMEtpNDV1MGlGM1N6cHh4Y0VYbTVlM3JCUnFBYXZIWk95TFFmUWlkdFRjUmxHTzg4UXI4MXI1UUZnektuYmZDWEFwVzZMczVkQnYxRS0taXdHZDVaRnY2QmhhMjdqZzdHd2xEMFZFODJHNDdoS2RaaC1LNS10V3V4QnFjVDUwZ0xLXzZNYVlvVVhJSFRXLVRwM0I1RExseGFITVg2dk5JOEFfWkhJRi10TktqSnZ4bDFXdVV6YkNHd2wtNEctQ0RZcUpxcnZVNFMtWWhENklWR3M3T3ZQTmVxdUlmUw?oc=5)
-
----
-
-### [Woman on chemotherapy ineligible for cancer drug](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UQ0ptR1d6N01yRm9Pd05xb3NXdGdtSVZwQWdwZEwwTEJ2bGt6R1Y1cDdVZ1U5Rl9mNnpiNXpwdzB6WU1aMk9DTDM0dk80WXpCRTY1MGthS0RxX3BkLVE?oc=5)
-
-2026-10-26 <span class="news-indication-tag">cancer</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UQ0ptR1d6N01yRm9Pd05xb3NXdGdtSVZwQWdwZEwwTEJ2bGt6R1Y1cDdVZ1U5Rl9mNnpiNXpwdzB6WU1aMk9DTDM0dk80WXpCRTY1MGthS0RxX3BkLVE?oc=5)
 
 ---
 
@@ -286,14 +278,6 @@ Source: [ANSA](https://news.google.com/rss/articles/CBMijgJBVV95cUxPTGtDVmxyMEd6
 2026-10-26 <span class="news-indication-tag">tumor</span>
 
 Source: [TargatoCN](https://news.google.com/rss/articles/CBMigAJBVV95cUxQY1MwVXhnWWlURDZvc3UyWm5UUXBCazA5eFZmczRaakRqMHYyRFBTV0tFMWYzRHhBcEVaU2U4b1BiRTFLRDJ2akJRa25lc0JmVUpxd0oxX2gxblJfR1NSZzZYOFg2NEhMYmZyYmYzZkl2UGltN3VldXBERTV0eF83a0hia2lsOXplZDBybnVJYm9CY04zU2tkdEt2SEdvZVFOR0pQb2RWcXo3NTItU1RfenllZjlPMGplMExqaUlCdVBCT2FCSFVFY1JvME1NaFNKM1FYVExYU3dTRl9RWkg0VjMzNVZtSFlMT1FlQUg4QjFMd0V2SnJPU19wZ0JZWjFJ0gGAAkFVX3lxTFBjUzBVeGdZaVRENm9zdTJablRRcEJrMDl4VmZzNFpqRGowdjJEUFNXS0UxZjNEeEFwRVpTZThvUGJFMUtEMnZqQlFrbmVzQmZVSnF3SjFfaDFuUl9HU1JnNlg4WDY0SExiZnJiZjNmSXZQaW03dWV1cERFNXR4XzdrSGJraWw5emVkMHJudUlib0JjTjNTa2R0S3ZIR29lUU5HSlBvZFZxejc1Mi1TVF96eWVmOU8wamUwTGppSUJ1UEJPYUJIVUVjUm8wTU1oU0ozUVhUTFhTd1NGX1FaSDRWMzM1Vm1IWUxPUWVBSDhCMUx3RXZKck9TX3BnQllaMUk?oc=5)
-
----
-
-### [Krebszellen liefern im Labor den Rohstoff für ihr eigenes Gift - Forschung und Wissen](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbjJQb201eWlNSlU4V2dGRTdPUW1Yb2tsOTBWUy1PUWZsbEtaSWhZUFBUdWVxUEc4cThaczQ4ZjdnUDQzWm5FWUxLZndmYkR5R2hCelV0RTB3OGJld1M4MHhfSWN0SEYtZThkam1VOFJXa0FrNVNUdFl6MFBqWXE4YjJOdktzYVhuc1RRaDNoelVsWmNJUV9KcGxINUlWQXZoQklqbXgxb1JmdlhYTVJ3ZTBMX2xUcUJSTm8wMzZlTzM5anN5V2ZoWA?oc=5)
-
-2026-10-26 <span class="news-indication-tag">Krebs</span>
-
-Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbjJQb201eWlNSlU4V2dGRTdPUW1Yb2tsOTBWUy1PUWZsbEtaSWhZUFBUdWVxUEc4cThaczQ4ZjdnUDQzWm5FWUxLZndmYkR5R2hCelV0RTB3OGJld1M4MHhfSWN0SEYtZThkam1VOFJXa0FrNVNUdFl6MFBqWXE4YjJOdktzYVhuc1RRaDNoelVsWmNJUV9KcGxINUlWQXZoQklqbXgxb1JmdlhYTVJ3ZTBMX2xUcUJSTm8wMzZlTzM5anN5V2ZoWA?oc=5)
 
 ---
 

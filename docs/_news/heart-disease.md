@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "cardiopatía (heart disease) News"
+title: "maladie cardiaque (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about cardiopatía (heart disease). 3 articles, 57 related drugs."
+description: "Health news about maladie cardiaque (heart disease). 2 articles, 57 related drugs."
 permalink: /news/heart-disease/
 last_modified_at: 2026-10-30
 ---
 
-# cardiopatía (heart disease) News
+# maladie cardiaque (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about cardiopatía (heart disease)?">
-<strong>cardiopatía (heart disease)</strong> currently has <strong>3 news articles</strong> and 57 related drugs.
+<p class="key-answer" data-question="What news is there about maladie cardiaque (heart disease)?">
+<strong>maladie cardiaque (heart disease)</strong> currently has <strong>2 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “cardiopatía” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “maladie cardiaque” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -64,15 +64,7 @@ This page brings together the latest health news about “cardiopatía” and li
 </ul>
 </div>
 
-## Related News (3)
-
-### [Un cardiólogo reclama que la vacuna de la gripe sea parte fija de la prevención en pacientes con cardiopatías](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
-
-2026-10-29
-
-Source: [Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
-
----
+## Related News (2)
 
 ### [À Besançon, le CHU se mobilise contre une maladie cardiaque méconnue - 20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2Y3RHZ4b0VhOUdnY2pjVkw4emRTUDhOZS12QWF4LWlFRVlGR0JPenFaRXpPNFptVXU4S0NDbTBJakp5Skx0MVVmLVlOSkVBdHZMTUYzbnBxWUM1ZlRmekRnNnU2YUNUdFFPNFhIdjFhWU0zWTVsQ3hMZDZCd21VWGQ5NmFSa2EtUG92d2JQTXhQSVZZcXc1ZllZQTk1U180YnJ5ZzJQLUZ3MTdIOUc0UTFSU2trQU8xa2c?oc=5)
 

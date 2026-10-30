@@ -45,6 +45,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN25Y
 
 ---
 
+### [Psoriasis-Arthritis: Diagnose dauert oft vier bis fünf Jahre](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
+
+2026-10-30
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
+
+---
+
 ### [Psoriasis : ces 5 gestes d'hiver que les dermatologues recommandent pour calmer les plaques - Le Tribunal du Net](https://news.google.com/rss/articles/CBMilgFBVV95cUxNUkg0X0g4dlpWd2NHZENtbG1GMkcwc2lqQlM2dmtaaUpHZnNrX01lTDZRci15eGEyYnJ4cFF6X3QwQ3N4NzFVTHNIRjRtd0V5OTVXX3VTLWhuQzd5RF9HcldiU0Q0QzBfWTRpNVY1Ujh3OWdFbC1LMjFOa3VXS0FmRV9XUnMxWHZjUUZDRXhjMGtGdjJkLWc?oc=5)
 
 2026-10-29
@@ -66,14 +74,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3
 2026-10-29
 
 Source: [Servimedia](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkRDZG5sN1dhWUNyWDR5Rkg3bl8tZTAzZEZPUFl1djVERFNLU25RUlV1aGhnV0Y1WEs3bThSNWhYa29SbTdqckVPZk9CTTJ4ZThJRWV0c0lQaHNsbnNxdjVYR3NYQ3N0T0ZrNUN2cDhwODl3ckJLN2E2OC1GMFRDRGRTdGVyelhxeFJaQVBhdGNpVlBNZGdpbmVIWTRfR2wt?oc=5)
-
----
-
-### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
-
-2026-10-29
-
-Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
 
 ---
 

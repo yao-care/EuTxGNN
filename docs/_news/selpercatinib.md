@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Selpercatinib?">
-<strong>Selpercatinib</strong> currently has <strong>5 news articles</strong>, with 3 predicted indications.
+<strong>Selpercatinib</strong> currently has <strong>3 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,29 +35,13 @@ This page combines the AI-predicted indications for Selpercatinib with the lates
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
-
-### [Un cardiólogo reclama que la vacuna de la gripe sea parte fija de la prevención en pacientes con cardiopatías](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
-
-2026-10-29 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">ictus</span>
-
-Source: [Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
-
----
+## Related News (3)
 
 ### [À Besançon, le CHU se mobilise contre une maladie cardiaque méconnue - 20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2Y3RHZ4b0VhOUdnY2pjVkw4emRTUDhOZS12QWF4LWlFRVlGR0JPenFaRXpPNFptVXU4S0NDbTBJakp5Skx0MVVmLVlOSkVBdHZMTUYzbnBxWUM1ZlRmekRnNnU2YUNUdFFPNFhIdjFhWU0zWTVsQ3hMZDZCd21VWGQ5NmFSa2EtUG92d2JQTXhQSVZZcXc1ZllZQTk1U180YnJ5ZzJQLUZ3MTdIOUc0UTFSU2trQU8xa2c?oc=5)
 
 2026-10-29 <span class="news-indication-tag">maladie cardiaque</span>
 
 Source: [20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2Y3RHZ4b0VhOUdnY2pjVkw4emRTUDhOZS12QWF4LWlFRVlGR0JPenFaRXpPNFptVXU4S0NDbTBJakp5Skx0MVVmLVlOSkVBdHZMTUYzbnBxWUM1ZlRmekRnNnU2YUNUdFFPNFhIdjFhWU0zWTVsQ3hMZDZCd21VWGQ5NmFSa2EtUG92d2JQTXhQSVZZcXc1ZllZQTk1U180YnJ5ZzJQLUZ3MTdIOUc0UTFSU2trQU8xa2c?oc=5)
-
----
-
-### [Addio all'ipertensione refrattaria: a Pordenone l'operazione che azzera i rischi di infarto e ictus - Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXNrazJSakdTeFM1TnRHREFRWElrdDVGOFhQdWh0T3VQVy1UUnhGXzBEMWE0RXBLZEhCQ2ZlS203WU8xZk1ndFhZdFFCNTViUGx5a2Rjay1ybkNZOE9oekxzMnlxOE4ycWhLZUhUckVPMXNRS3NNUlZpZ2lGTGVDRDA2Y1BLaU1BM2hKdHg4X20wNUxKUjY1N3VmZ29OeEY5N3Q1OGNtbHFkcHE0MUp5eFdybFQ1c0dSZzZ4VTQyN21FR3pIbE5YLVVKTFQ4ekdjZmFIenBoUDNRSnNJaEE?oc=5)
-
-2026-10-28 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
-
-Source: [Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXNrazJSakdTeFM1TnRHREFRWElrdDVGOFhQdWh0T3VQVy1UUnhGXzBEMWE0RXBLZEhCQ2ZlS203WU8xZk1ndFhZdFFCNTViUGx5a2Rjay1ybkNZOE9oekxzMnlxOE4ycWhLZUhUckVPMXNRS3NNUlZpZ2lGTGVDRDA2Y1BLaU1BM2hKdHg4X20wNUxKUjY1N3VmZ29OeEY5N3Q1OGNtbHFkcHE0MUp5eFdybFQ1c0dSZzZ4VTQyN21FR3pIbE5YLVVKTFQ4ekdjZmFIenBoUDNRSnNJaEE?oc=5)
 
 ---
 

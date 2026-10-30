@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Pibrentasvir?">
-<strong>Pibrentasvir</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
+<strong>Pibrentasvir</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Pibrentasvir with the latest
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [Kent GP's verdict on 'American Covid' and the symptoms to look for - Kent Online](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzNxQjRQaG4zbE9hLU1qMHdEOHdjVGJta0J4aHFYcjhxYjVXc3FoYk5ieG04MzlCQURQMGI3OFYxdUgtUDVTUkRmTzJBZ1VJX2xpX3R2TlNteExwNXI5X0o2c01IRnpzcmVTTlZaUlhSXzhIT0dKZ1kzRGU5WXpQODJ2dHRFc0tsU0tHcXFrajEzQzFZM3hvVXhPdTdDc0o4dlozNzY0NA?oc=5)
 
@@ -52,11 +52,11 @@ Source: [Kent Online](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzNxQ
 
 ---
 
-### [Orléans : 500 patients de ce centre dentaire appelés à se faire dépister contre le VIH](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWxndlV6VTVGeXpZeG1ZcU0zaWRqLWRoeF9QeGkxcUc4M1JNYTh3ajdWSjNEejhnQkFfSjZrbmExc1RDdjFVWk82ZU12b1V3bGg5clA5dWJ5blBKOHNXU3BtdUw5SnZ5MWhYRzBGalktY18za0tGbTh4VnlPalB1THY1b21mSG91MFdOVHlnQlh0MlZ5emZ6UnVHS0VBdWc0UEFjWVZEaVNNUUtvSml0OG1WR0wzQXFwTnZwRNIBwgFBVV95cUxNbm55SDVSTWxJQUhjc19DRWQ5YVJSS3BFYmJqRWFmRjNMU0EzLThrRWRMbDcydExaWEU5VHlZWDVNcHNydG1FQy1jZk1LNEJaSV91Mmo3WGZnejRPUndYeEFYRGZsU1p3RWxMNE9mZHNTbFFVSGRQYzhaNmpTX3RRWThVVDdkNW94bHVfbzlVSVJ4aS1EQ18tTXdKR2wxWWJjVVEzYzM2dFh3U0RLbW5xWWZFV2ZWLWhMU013LVZMQnF4Zw?oc=5)
+### [Orléans : 500 patients de ce centre dentaire appelés à se faire dépister contre le VIH](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWxndlV6VTVGeXpZeG1ZcU0zaWRqLWRoeF9QeGkxcUc4M1JNYTh3ajdWSjNEejhnQkFfSjZrbmExc1RDdjFVWk82ZU12b1V3bGg5clA5dWJ5blBKOHNXU3BtdUw5SnZ5MWhYRzBGalktY18za0tGbTh4VnlPalB1THY1b21mSG91MFdOVHlnQlh0MlZ5emZ6UnVHS0VBdWc0UEFjWVZEaVNNUUtvSml0OG1WR0wzQXFwTnZwRA?oc=5)
 
 2026-10-30 <span class="news-indication-tag">hépatite</span>
 
-Source: [CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWxndlV6VTVGeXpZeG1ZcU0zaWRqLWRoeF9QeGkxcUc4M1JNYTh3ajdWSjNEejhnQkFfSjZrbmExc1RDdjFVWk82ZU12b1V3bGg5clA5dWJ5blBKOHNXU3BtdUw5SnZ5MWhYRzBGalktY18za0tGbTh4VnlPalB1THY1b21mSG91MFdOVHlnQlh0MlZ5emZ6UnVHS0VBdWc0UEFjWVZEaVNNUUtvSml0OG1WR0wzQXFwTnZwRNIBwgFBVV95cUxNbm55SDVSTWxJQUhjc19DRWQ5YVJSS3BFYmJqRWFmRjNMU0EzLThrRWRMbDcydExaWEU5VHlZWDVNcHNydG1FQy1jZk1LNEJaSV91Mmo3WGZnejRPUndYeEFYRGZsU1p3RWxMNE9mZHNTbFFVSGRQYzhaNmpTX3RRWThVVDdkNW94bHVfbzlVSVJ4aS1EQ18tTXdKR2wxWWJjVVEzYzM2dFh3U0RLbW5xWWZFV2ZWLWhMU013LVZMQnF4Zw?oc=5)
+Source: [CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWxndlV6VTVGeXpZeG1ZcU0zaWRqLWRoeF9QeGkxcUc4M1JNYTh3ajdWSjNEejhnQkFfSjZrbmExc1RDdjFVWk82ZU12b1V3bGg5clA5dWJ5blBKOHNXU3BtdUw5SnZ5MWhYRzBGalktY18za0tGbTh4VnlPalB1THY1b21mSG91MFdOVHlnQlh0MlZ5emZ6UnVHS0VBdWc0UEFjWVZEaVNNUUtvSml0OG1WR0wzQXFwTnZwRA?oc=5)
 
 ---
 
@@ -81,14 +81,6 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNY
 2026-10-30 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
-
----
-
-### [Signs your forgetfulness or procrastination is ADHD & 5 other causes of symptoms - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVJsM1JscUUyenRYZG1ZaS1ubFNzdmowVXFZa1ZLWk1TblMxaWh6UENUc3U4MVYwcV9zU3VFWG1QNTNqOU5WRWszX19UcUwwNmZXNTlmZE1aUkFQYVB4UlR1YTh0dEFlMkRsd3FrV25NVmhnTFAxTVFnUmF2eV95NDJSYTdZcmR6MnZoOGRnVEhwbEMtdXc?oc=5)
-
-2026-10-29 <span class="news-indication-tag">MS</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVJsM1JscUUyenRYZG1ZaS1ubFNzdmowVXFZa1ZLWk1TblMxaWh6UENUc3U4MVYwcV9zU3VFWG1QNTNqOU5WRWszX19UcUwwNmZXNTlmZE1aUkFQYVB4UlR1YTh0dEFlMkRsd3FrV25NVmhnTFAxTVFnUmF2eV95NDJSYTdZcmR6MnZoOGRnVEhwbEMtdXc?oc=5)
 
 ---
 

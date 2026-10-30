@@ -3,7 +3,7 @@ layout: default
 title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 15 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 14 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 last_modified_at: 2026-10-30
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>15 news articles</strong> and 86 related drugs.
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>14 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,15 +64,7 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (15)
-
-### [Los hepatólogos reclaman reforzar la prevención ante el aumento de la mortalidad por cáncer de hígado](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlVSVE9heC1yd1VnTC1rT1NhbHB3NlI5RkRXbURQckRJdmttYWlxOElsZDlUbGllaFpEb2xjWVIxeE5PQzVtOWVLd20yMXo5ZzNPb0JFZ0FRb3EydzRWT0k4RXBQZHJBV3k5ZlRWMkdDeHpJX1NzZllEWF91NnFfczIzckNjVnYxOFptcGZvQVZQM2Z6eW4wV0xhM3IxdnMxMzJDUlF0cFZacldaTmhtYmZxWWxiM0JaRWg0?oc=5)
-
-2026-10-30
-
-Source: [Servimedia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlVSVE9heC1yd1VnTC1rT1NhbHB3NlI5RkRXbURQckRJdmttYWlxOElsZDlUbGllaFpEb2xjWVIxeE5PQzVtOWVLd20yMXo5ZzNPb0JFZ0FRb3EydzRWT0k4RXBQZHJBV3k5ZlRWMkdDeHpJX1NzZllEWF91NnFfczIzckNjVnYxOFptcGZvQVZQM2Z6eW4wV0xhM3IxdnMxMzJDUlF0cFZacldaTmhtYmZxWWxiM0JaRWg0?oc=5)
-
----
+## Related News (14)
 
 ### [Pflanzenextrakte bei Prädiabetes: Große Studie zeigt Blutzuckersenkung](https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDY2eTdvSDdvcThoellROXpwVEFXRzdQNzAzcFJmd1hEaS1UNGpjaDEzV0NsWGtoY3E1VHg2bzhWMHkxZE5TLUJ6X3NvaExMd3RyUnJySklGYmVyb05Fcm52aGloVnhzODN2ZkNwUEJ1dG8tMkNoaGFRRmNhdVBhaGdfMlZLSVJfaHNoeVdIX2NXMUlfbjJQazR2RU1vSGlZN0JkRGZsc1RJdUM3b0M3OEhDSUVtUWtxZHVIS210SEhKNTJDVnlr?oc=5)
 
@@ -87,6 +79,14 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDY2eT
 2026-10-30
 
 Source: [Donaukurier](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRDRFcGM4WmJaOU1mOEZ4eVlicVQxcHJ0ODRvMmZ2V01seEpzeHpadHRsVFNiYnNDc2o3SG4tX2E5ZDI1dHFkNHZpaE5NWUh6S1R6Ym9mT1Y5UTF1UmZ4Tnd2ekhaT2JCNnFraW10ZVlMRG5NNVI5ZTNrRDZQNXVYOEdYbE9zdHdzWkhTNjVaU0NWdGVoRXBfUVFjcEFyckllR3lubGdOODJ5QlFKaXZKeUJNbjJIUjZxWEdxb0x6aWJUNEtTa1hiRUNsSU9JYzJJUjBBcm1mQmI1Qnc?oc=5)
+
+---
+
+### [Fettleber bei Diabetes: MASLD betrifft bis zu 70 Prozent der Patienten](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXhhMno0MEpJUEp5Tm5RQUNkSE9KY2RkblJaRTlPRWFMaGg2WnFjS0kyb1BEVmYxVDhOVV91TTI1OEpXajhuSi02VW54SEVremZKbDh4QUlkcElOU1djdVdrWkVDMVhLNXU3NE84cWRQNGdvQjZkRWpDcHgtbGh5Y0UxZll0aDJZU1ZoVkszZlRfTWtBaTNGZ1duRzFBZ2t1MzhRVV9IRWIyMlVRWW1KMmpuQnZWWEhKV2c?oc=5)
+
+2026-10-30
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXhhMno0MEpJUEp5Tm5RQUNkSE9KY2RkblJaRTlPRWFMaGg2WnFjS0kyb1BEVmYxVDhOVV91TTI1OEpXajhuSi02VW54SEVremZKbDh4QUlkcElOU1djdVdrWkVDMVhLNXU3NE84cWRQNGdvQjZkRWpDcHgtbGh5Y0UxZll0aDJZU1ZoVkszZlRfTWtBaTNGZ1duRzFBZ2t1MzhRVV9IRWIyMlVRWW1KMmpuQnZWWEhKV2c?oc=5)
 
 ---
 
@@ -135,14 +135,6 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2Nqe
 2026-10-29
 
 Source: [transkript.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNVktRVRWZ3N1SzYtWEowRmF4ZzBnZy1jckFiRjRGRXNLN3NBYUkydkpJRVRjcVV6OTVLT25zWDFPMm1hMVhyRzJoaXI0Yl91M3lhYVdTVG54R1d0QjBQdmZUNVQ0YlhDekkyT052ZXBQSk0wRWFHbnpfRFp5UUxzZUhzQ21EaXpkTW5ETWIzMC1xcFBqYUE?oc=5)
-
----
-
-### [Auch bei Menschen, die sich gesund fühlen, leidet dieses Organ oft leise](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sa1pYS01pMW1FSFF5MGFiLUFfSzdrbTl5VlFUcVhLOE9kWDFsZWJCblNhWFNQT2tseldFQlFQSHNEY2NpYzdNWVVmREZFcUVGVUdpbFVxMFFuRkk?oc=5)
-
-2026-10-29
-
-Source: [FITBOOK](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sa1pYS01pMW1FSFF5MGFiLUFfSzdrbTl5VlFUcVhLOE9kWDFsZWJCblNhWFNQT2tseldFQlFQSHNEY2NpYzdNWVVmREZFcUVGVUdpbFVxMFFuRkk?oc=5)
 
 ---
 

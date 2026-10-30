@@ -41,6 +41,14 @@ Source: [Mundo Deportivo](https://news.google.com/rss/articles/CBMijwJBVV95cUxOd
 
 ---
 
+### [Psoriasis-Arthritis: Diagnose dauert oft vier bis fünf Jahre](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
+
+2026-10-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
+
+---
+
 ### [Exazerbationen trotz Asthma-Therapie: Was dann nötig ist](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjJpc01FMjNCanlWUGR5V2FTVExRRE5tWHNtSUFibjRfNy1QUGlfZUNZN0xReGRZb2pTTC1HYk5lbHBrMXlaVXNvMWk4a3p2bFd6SWk5ZnRPbUtZcVFtSU05ZHBvMDU2YjUzUk1FNkRHSVhXckpLNng5MkJ4YUhIRlY1ZmxMZXNuYzNVSXN5eWxfRzB1RFY5XzEtak90WTVORnBSRQ?oc=5)
 
 2026-10-30 <span class="news-indication-tag">asthma</span>
@@ -70,14 +78,6 @@ Source: [Servimedia](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkRDZG
 2026-10-29 <span class="news-indication-tag">artritis</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWx1RjhUVi1yT0loa29QUkZlZHZXMTNxZVllMk9wUmEtalhMS1paN3BzNlJJTlpnR202QjBBVFNCcGVqbmpCT1lCTkRjRm1Zc3p5S1JzampOOXZyQVVMVGNsNGNhVHRzNEQ4ZEk2VGNyb3pSMV9yN1FQRkNFdjN2MjJOOUFfYmZGTmNaN2ExTjhDZzFMdml1QmxNa3ZoaEYyckR6bFFoN3hzSVVQOEZncHppbUowMHpPajFsdEt3?oc=5)
-
----
-
-### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
-
-2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>3 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [Orléans : 500 patients de ce centre dentaire appelés à se faire dépister contre le VIH](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWxndlV6VTVGeXpZeG1ZcU0zaWRqLWRoeF9QeGkxcUc4M1JNYTh3ajdWSjNEejhnQkFfSjZrbmExc1RDdjFVWk82ZU12b1V3bGg5clA5dWJ5blBKOHNXU3BtdUw5SnZ5MWhYRzBGalktY18za0tGbTh4VnlPalB1THY1b21mSG91MFdOVHlnQlh0MlZ5emZ6UnVHS0VBdWc0UEFjWVZEaVNNUUtvSml0OG1WR0wzQXFwTnZwRNIBwgFBVV95cUxNbm55SDVSTWxJQUhjc19DRWQ5YVJSS3BFYmJqRWFmRjNMU0EzLThrRWRMbDcydExaWEU5VHlZWDVNcHNydG1FQy1jZk1LNEJaSV91Mmo3WGZnejRPUndYeEFYRGZsU1p3RWxMNE9mZHNTbFFVSGRQYzhaNmpTX3RRWThVVDdkNW94bHVfbzlVSVJ4aS1EQ18tTXdKR2wxWWJjVVEzYzM2dFh3U0RLbW5xWWZFV2ZWLWhMU013LVZMQnF4Zw?oc=5)
+### [Orléans : 500 patients de ce centre dentaire appelés à se faire dépister contre le VIH](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWxndlV6VTVGeXpZeG1ZcU0zaWRqLWRoeF9QeGkxcUc4M1JNYTh3ajdWSjNEejhnQkFfSjZrbmExc1RDdjFVWk82ZU12b1V3bGg5clA5dWJ5blBKOHNXU3BtdUw5SnZ5MWhYRzBGalktY18za0tGbTh4VnlPalB1THY1b21mSG91MFdOVHlnQlh0MlZ5emZ6UnVHS0VBdWc0UEFjWVZEaVNNUUtvSml0OG1WR0wzQXFwTnZwRA?oc=5)
 
 2026-10-30 <span class="news-indication-tag">hépatite</span>
 
-Source: [CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWxndlV6VTVGeXpZeG1ZcU0zaWRqLWRoeF9QeGkxcUc4M1JNYTh3ajdWSjNEejhnQkFfSjZrbmExc1RDdjFVWk82ZU12b1V3bGg5clA5dWJ5blBKOHNXU3BtdUw5SnZ5MWhYRzBGalktY18za0tGbTh4VnlPalB1THY1b21mSG91MFdOVHlnQlh0MlZ5emZ6UnVHS0VBdWc0UEFjWVZEaVNNUUtvSml0OG1WR0wzQXFwTnZwRNIBwgFBVV95cUxNbm55SDVSTWxJQUhjc19DRWQ5YVJSS3BFYmJqRWFmRjNMU0EzLThrRWRMbDcydExaWEU5VHlZWDVNcHNydG1FQy1jZk1LNEJaSV91Mmo3WGZnejRPUndYeEFYRGZsU1p3RWxMNE9mZHNTbFFVSGRQYzhaNmpTX3RRWThVVDdkNW94bHVfbzlVSVJ4aS1EQ18tTXdKR2wxWWJjVVEzYzM2dFh3U0RLbW5xWWZFV2ZWLWhMU013LVZMQnF4Zw?oc=5)
-
----
-
-### [Addio all'ipertensione refrattaria: a Pordenone l'operazione che azzera i rischi di infarto e ictus - Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXNrazJSakdTeFM1TnRHREFRWElrdDVGOFhQdWh0T3VQVy1UUnhGXzBEMWE0RXBLZEhCQ2ZlS203WU8xZk1ndFhZdFFCNTViUGx5a2Rjay1ybkNZOE9oekxzMnlxOE4ycWhLZUhUckVPMXNRS3NNUlZpZ2lGTGVDRDA2Y1BLaU1BM2hKdHg4X20wNUxKUjY1N3VmZ29OeEY5N3Q1OGNtbHFkcHE0MUp5eFdybFQ1c0dSZzZ4VTQyN21FR3pIbE5YLVVKTFQ4ekdjZmFIenBoUDNRSnNJaEE?oc=5)
-
-2026-10-28 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
-
-Source: [Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXNrazJSakdTeFM1TnRHREFRWElrdDVGOFhQdWh0T3VQVy1UUnhGXzBEMWE0RXBLZEhCQ2ZlS203WU8xZk1ndFhZdFFCNTViUGx5a2Rjay1ybkNZOE9oekxzMnlxOE4ycWhLZUhUckVPMXNRS3NNUlZpZ2lGTGVDRDA2Y1BLaU1BM2hKdHg4X20wNUxKUjY1N3VmZ29OeEY5N3Q1OGNtbHFkcHE0MUp5eFdybFQ1c0dSZzZ4VTQyN21FR3pIbE5YLVVKTFQ4ekdjZmFIenBoUDNRSnNJaEE?oc=5)
+Source: [CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWxndlV6VTVGeXpZeG1ZcU0zaWRqLWRoeF9QeGkxcUc4M1JNYTh3ajdWSjNEejhnQkFfSjZrbmExc1RDdjFVWk82ZU12b1V3bGg5clA5dWJ5blBKOHNXU3BtdUw5SnZ5MWhYRzBGalktY18za0tGbTh4VnlPalB1THY1b21mSG91MFdOVHlnQlh0MlZ5emZ6UnVHS0VBdWc0UEFjWVZEaVNNUUtvSml0OG1WR0wzQXFwTnZwRA?oc=5)
 
 ---
 

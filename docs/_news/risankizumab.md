@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Risankizumab?">
-<strong>Risankizumab</strong> currently has <strong>20 news articles</strong>, with 10 predicted indications.
+<strong>Risankizumab</strong> currently has <strong>19 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ This page combines the AI-predicted indications for Risankizumab with the latest
 <p><a href="{{ '/drugs/risankizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (20)
+## Related News (19)
 
 ### [Psoriasi, non solo pelle: lo studio su 2 milioni di persone rivela una rete di rischi per la salute](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN25YSDZNRzZBOTJXLVhFdl9YclhrQTVBbnp5aUtmcjc1b3NENlFXYjhGUXlsM1lwb2lkS29tZmdEZ3FIaTBaQWxMQ3c2UVJKbDV0WDRDeUkzVEZkLThsbnBUNVNCNlBIeTVSakViMnl2Uk5QLXpGVFl5ZUhjdWw2V25zSU5idU1pSkZJUGJhRW9SNkphUFdrWmFsMlg1UFRyWE9aWTZRVDFTUDZ5eFJqWnFIT2FyeGhmMFlWN3F1YzNOYkdWY3JIZkdwSkE3eUJUSGZmNTRBZVFqeUxCVmhvOUJEZG55R0V5alRZZE5n?oc=5)
 
 2026-10-30 <span class="news-indication-tag">soriasi</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN25YSDZNRzZBOTJXLVhFdl9YclhrQTVBbnp5aUtmcjc1b3NENlFXYjhGUXlsM1lwb2lkS29tZmdEZ3FIaTBaQWxMQ3c2UVJKbDV0WDRDeUkzVEZkLThsbnBUNVNCNlBIeTVSakViMnl2Uk5QLXpGVFl5ZUhjdWw2V25zSU5idU1pSkZJUGJhRW9SNkphUFdrWmFsMlg1UFRyWE9aWTZRVDFTUDZ5eFJqWnFIT2FyeGhmMFlWN3F1YzNOYkdWY3JIZkdwSkE3eUJUSGZmNTRBZVFqeUxCVmhvOUJEZG55R0V5alRZZE5n?oc=5)
-
----
-
-### [Los hepatólogos reclaman reforzar la prevención ante el aumento de la mortalidad por cáncer de hígado](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlVSVE9heC1yd1VnTC1rT1NhbHB3NlI5RkRXbURQckRJdmttYWlxOElsZDlUbGllaFpEb2xjWVIxeE5PQzVtOWVLd20yMXo5ZzNPb0JFZ0FRb3EydzRWT0k4RXBQZHJBV3k5ZlRWMkdDeHpJX1NzZllEWF91NnFfczIzckNjVnYxOFptcGZvQVZQM2Z6eW4wV0xhM3IxdnMxMzJDUlF0cFZacldaTmhtYmZxWWxiM0JaRWg0?oc=5)
-
-2026-10-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [Servimedia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlVSVE9heC1yd1VnTC1rT1NhbHB3NlI5RkRXbURQckRJdmttYWlxOElsZDlUbGllaFpEb2xjWVIxeE5PQzVtOWVLd20yMXo5ZzNPb0JFZ0FRb3EydzRWT0k4RXBQZHJBV3k5ZlRWMkdDeHpJX1NzZllEWF91NnFfczIzckNjVnYxOFptcGZvQVZQM2Z6eW4wV0xhM3IxdnMxMzJDUlF0cFZacldaTmhtYmZxWWxiM0JaRWg0?oc=5)
 
 ---
 
@@ -73,6 +65,22 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDY2eT
 2026-10-30 <span class="news-indication-tag">diabetes</span>
 
 Source: [Donaukurier](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRDRFcGM4WmJaOU1mOEZ4eVlicVQxcHJ0ODRvMmZ2V01seEpzeHpadHRsVFNiYnNDc2o3SG4tX2E5ZDI1dHFkNHZpaE5NWUh6S1R6Ym9mT1Y5UTF1UmZ4Tnd2ekhaT2JCNnFraW10ZVlMRG5NNVI5ZTNrRDZQNXVYOEdYbE9zdHdzWkhTNjVaU0NWdGVoRXBfUVFjcEFyckllR3lubGdOODJ5QlFKaXZKeUJNbjJIUjZxWEdxb0x6aWJUNEtTa1hiRUNsSU9JYzJJUjBBcm1mQmI1Qnc?oc=5)
+
+---
+
+### [Fettleber bei Diabetes: MASLD betrifft bis zu 70 Prozent der Patienten](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXhhMno0MEpJUEp5Tm5RQUNkSE9KY2RkblJaRTlPRWFMaGg2WnFjS0kyb1BEVmYxVDhOVV91TTI1OEpXajhuSi02VW54SEVremZKbDh4QUlkcElOU1djdVdrWkVDMVhLNXU3NE84cWRQNGdvQjZkRWpDcHgtbGh5Y0UxZll0aDJZU1ZoVkszZlRfTWtBaTNGZ1duRzFBZ2t1MzhRVV9IRWIyMlVRWW1KMmpuQnZWWEhKV2c?oc=5)
+
+2026-10-30 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXhhMno0MEpJUEp5Tm5RQUNkSE9KY2RkblJaRTlPRWFMaGg2WnFjS0kyb1BEVmYxVDhOVV91TTI1OEpXajhuSi02VW54SEVremZKbDh4QUlkcElOU1djdVdrWkVDMVhLNXU3NE84cWRQNGdvQjZkRWpDcHgtbGh5Y0UxZll0aDJZU1ZoVkszZlRfTWtBaTNGZ1duRzFBZ2t1MzhRVV9IRWIyMlVRWW1KMmpuQnZWWEhKV2c?oc=5)
+
+---
+
+### [Psoriasis-Arthritis: Diagnose dauert oft vier bis fünf Jahre](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
+
+2026-10-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
 
 ---
 
@@ -140,27 +148,11 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3
 
 ---
 
-### [Auch bei Menschen, die sich gesund fühlen, leidet dieses Organ oft leise](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sa1pYS01pMW1FSFF5MGFiLUFfSzdrbTl5VlFUcVhLOE9kWDFsZWJCblNhWFNQT2tseldFQlFQSHNEY2NpYzdNWVVmREZFcUVGVUdpbFVxMFFuRkk?oc=5)
-
-2026-10-29 <span class="news-indication-tag">diabetes</span>
-
-Source: [FITBOOK](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sa1pYS01pMW1FSFF5MGFiLUFfSzdrbTl5VlFUcVhLOE9kWDFsZWJCblNhWFNQT2tseldFQlFQSHNEY2NpYzdNWVVmREZFcUVGVUdpbFVxMFFuRkk?oc=5)
-
----
-
 ### [La artritis psoriásica afecta a más de 230.000 personas en España](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkRDZG5sN1dhWUNyWDR5Rkg3bl8tZTAzZEZPUFl1djVERFNLU25RUlV1aGhnV0Y1WEs3bThSNWhYa29SbTdqckVPZk9CTTJ4ZThJRWV0c0lQaHNsbnNxdjVYR3NYQ3N0T0ZrNUN2cDhwODl3ckJLN2E2OC1GMFRDRGRTdGVyelhxeFJaQVBhdGNpVlBNZGdpbmVIWTRfR2wt?oc=5)
 
 2026-10-29 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">AF</span>
 
 Source: [Servimedia](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkRDZG5sN1dhWUNyWDR5Rkg3bl8tZTAzZEZPUFl1djVERFNLU25RUlV1aGhnV0Y1WEs3bThSNWhYa29SbTdqckVPZk9CTTJ4ZThJRWV0c0lQaHNsbnNxdjVYR3NYQ3N0T0ZrNUN2cDhwODl3ckJLN2E2OC1GMFRDRGRTdGVyelhxeFJaQVBhdGNpVlBNZGdpbmVIWTRfR2wt?oc=5)
-
----
-
-### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
-
-2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
 
 ---
 

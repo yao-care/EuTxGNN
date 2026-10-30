@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Tucatinib?">
-<strong>Tucatinib</strong> currently has <strong>10 news articles</strong>, with 0 predicted indications.
+<strong>Tucatinib</strong> currently has <strong>8 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,13 @@ This page combines the AI-predicted indications for Tucatinib with the latest he
 <p><a href="{{ '/drugs/tucatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (8)
 
-### [Un cardiólogo reclama que la vacuna de la gripe sea parte fija de la prevención en pacientes con cardiopatías](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
+### [Psoriasis-Arthritis: Diagnose dauert oft vier bis fünf Jahre](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
 
-2026-10-29 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">ictus</span>
+2026-10-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
 
-Source: [Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
 
 ---
 
@@ -69,22 +69,6 @@ Source: [20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2Y3RH
 2026-10-29 <span class="news-indication-tag">artritis</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWx1RjhUVi1yT0loa29QUkZlZHZXMTNxZVllMk9wUmEtalhMS1paN3BzNlJJTlpnR202QjBBVFNCcGVqbmpCT1lCTkRjRm1Zc3p5S1JzampOOXZyQVVMVGNsNGNhVHRzNEQ4ZEk2VGNyb3pSMV9yN1FQRkNFdjN2MjJOOUFfYmZGTmNaN2ExTjhDZzFMdml1QmxNa3ZoaEYyckR6bFFoN3hzSVVQOEZncHppbUowMHpPajFsdEt3?oc=5)
-
----
-
-### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
-
-2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
-
----
-
-### [Addio all'ipertensione refrattaria: a Pordenone l'operazione che azzera i rischi di infarto e ictus - Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXNrazJSakdTeFM1TnRHREFRWElrdDVGOFhQdWh0T3VQVy1UUnhGXzBEMWE0RXBLZEhCQ2ZlS203WU8xZk1ndFhZdFFCNTViUGx5a2Rjay1ybkNZOE9oekxzMnlxOE4ycWhLZUhUckVPMXNRS3NNUlZpZ2lGTGVDRDA2Y1BLaU1BM2hKdHg4X20wNUxKUjY1N3VmZ29OeEY5N3Q1OGNtbHFkcHE0MUp5eFdybFQ1c0dSZzZ4VTQyN21FR3pIbE5YLVVKTFQ4ekdjZmFIenBoUDNRSnNJaEE?oc=5)
-
-2026-10-28 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
-
-Source: [Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXNrazJSakdTeFM1TnRHREFRWElrdDVGOFhQdWh0T3VQVy1UUnhGXzBEMWE0RXBLZEhCQ2ZlS203WU8xZk1ndFhZdFFCNTViUGx5a2Rjay1ybkNZOE9oekxzMnlxOE4ycWhLZUhUckVPMXNRS3NNUlZpZ2lGTGVDRDA2Y1BLaU1BM2hKdHg4X20wNUxKUjY1N3VmZ29OeEY5N3Q1OGNtbHFkcHE0MUp5eFdybFQ1c0dSZzZ4VTQyN21FR3pIbE5YLVVKTFQ4ekdjZmFIenBoUDNRSnNJaEE?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Prilocaine?">
-<strong>Prilocaine</strong> currently has <strong>31 news articles</strong>, with 10 predicted indications.
+<strong>Prilocaine</strong> currently has <strong>34 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ This page combines the AI-predicted indications for Prilocaine with the latest h
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (31)
+## Related News (34)
+
+### [Un estudio cartografía cómo se propaga el virus del herpes en la piel](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTdybGVham0wOVhEMUNaTFF6VlJVRnNNdDc4dUVtRmlKUXd2QVJlUHBxVjRkOUVaVzcyeVd1ZmRCaW51WElOaDRhUWpXQm5xQ0xqZGZFRjRFMGRfcHB1ajNsQTd0MGl1WjVQQ0g1VFljVlhZd1JrQ1I0N1VGV2txNGhsNC1tTXRYY0dRUTY5SHJEUDI0R0dURENIMjdNejlYQ0xhc21nTVU?oc=5)
+
+2026-10-30 <span class="news-indication-tag">AF</span>
+
+Source: [SINC](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTdybGVham0wOVhEMUNaTFF6VlJVRnNNdDc4dUVtRmlKUXd2QVJlUHBxVjRkOUVaVzcyeVd1ZmRCaW51WElOaDRhUWpXQm5xQ0xqZGZFRjRFMGRfcHB1ajNsQTd0MGl1WjVQQ0g1VFljVlhZd1JrQ1I0N1VGV2txNGhsNC1tTXRYY0dRUTY5SHJEUDI0R0dURENIMjdNejlYQ0xhc21nTVU?oc=5)
+
+---
+
+### [Ce complément que des biohackers avalent pour boire du café le soir fait craindre le pire pour le foie - Le Tribunal du Net](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ19FUjQwbzlydy1xbDN5ZXVFY1FXZ2sxQmFDTlFoLVVYb21rUXUtYVA5TVk0dXZ1eUhIdGcycVRDbS1ueDZ1MEZKT3hkSzhzbnNfUU45b1pyU2hycEk3ZWFpTzZHZHg4SEdCSWhfM3JFZFoyejBKVWxqSTFsUjZkNTI0Tm5tZTMzRmxMTlh0RUhlX3VTQWpjaEdWUQ?oc=5)
+
+2026-10-30 <span class="news-indication-tag">AF</span>
+
+Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ19FUjQwbzlydy1xbDN5ZXVFY1FXZ2sxQmFDTlFoLVVYb21rUXUtYVA5TVk0dXZ1eUhIdGcycVRDbS1ueDZ1MEZKT3hkSzhzbnNfUU45b1pyU2hycEk3ZWFpTzZHZHg4SEdCSWhfM3JFZFoyejBKVWxqSTFsUjZkNTI0Tm5tZTMzRmxMTlh0RUhlX3VTQWpjaEdWUQ?oc=5)
+
+---
 
 ### [Wissenschaftler nutzten KI, um funktionierende Viren von Grund auf zu entwerfen. - Quartz auf Deutsch](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbTFNbEwxX19RdWQ2X3FpcUpTV2k4c18yUHJTY011UXpmWWgxaUZwMzRQaEN3X09pN2lQWS1ZdkVYM2Z4NGlDNjNYRkc0c3lHVmNiR253UGxuamIzVHJ6MVFpMk5vQ2VnTExZOFhuMTZCcEltTXVoblUybFNSOUhSeU5STHc3aTA?oc=5)
 
 2026-10-30 <span class="news-indication-tag">AF</span>
 
 Source: [Quartz auf Deutsch](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbTFNbEwxX19RdWQ2X3FpcUpTV2k4c18yUHJTY011UXpmWWgxaUZwMzRQaEN3X09pN2lQWS1ZdkVYM2Z4NGlDNjNYRkc0c3lHVmNiR253UGxuamIzVHJ6MVFpMk5vQ2VnTExZOFhuMTZCcEltTXVoblUybFNSOUhSeU5STHc3aTA?oc=5)
+
+---
+
+### [Baby's life saved after racing hearbeat detected by 'needy' family dog who wouldn't leave his side - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNQU9oU01TSGhVZXN6Ums5ZzQ5TUFlZDZHSElER1ZIeXpkRDg1TjFHeEVrTWFzSXRMSnoxam8yZDFIOVFZQ3pTdllsRDhFVURIN1FwNzc5VmVZeG9vV051TEwwbzQyc283VE1RWXVHOEt1Z0FpTUxzNFpld2tPcEEtYldpeGXSAYoBQVVfeXFMT0ItMGlqTk5KdnRUd25Yc1ZkcEdMaHVYc09VU0xMT0NuS3ZfZHpMZUtoNGpjcE43SHhMd3VwdU9pVENnaThmODZVN0p5aUNtRFZDcnhZTlJfMEx6MXRoWl9maHhkMHVaWlhSUWZsNXBfSkdZZm40UEpCR2dCZ0RGTUdST1NDenNJeE5n?oc=5)
+
+2026-10-30 <span class="news-indication-tag">AF</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNQU9oU01TSGhVZXN6Ums5ZzQ5TUFlZDZHSElER1ZIeXpkRDg1TjFHeEVrTWFzSXRMSnoxam8yZDFIOVFZQ3pTdllsRDhFVURIN1FwNzc5VmVZeG9vV051TEwwbzQyc283VE1RWXVHOEt1Z0FpTUxzNFpld2tPcEEtYldpeGXSAYoBQVVfeXFMT0ItMGlqTk5KdnRUd25Yc1ZkcEdMaHVYc09VU0xMT0NuS3ZfZHpMZUtoNGpjcE43SHhMd3VwdU9pVENnaThmODZVN0p5aUNtRFZDcnhZTlJfMEx6MXRoWl9maHhkMHVaWlhSUWZsNXBfSkdZZm40UEpCR2dCZ0RGTUdST1NDenNJeE5n?oc=5)
 
 ---
 
@@ -148,19 +172,19 @@ Source: [HOLA](https://news.google.com/rss/articles/CBMi1wFBVV95cUxORXI4QlItd1dn
 
 ---
 
-### [Top health official says the Ebola outbreak could reach the UK](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRzRnTU4zUHk1RUpaVVFMRUstVFRDaGhzV25qREFQalR1anF3U1JSLVpyeGIzVWg2eDllek1MdEhBeVlzTDNEek1xQUZ0VlJSVFNRMkhENXZKdlRmdWw0NE5aS2hQQjYzX1RJRVh0ck5TNlZjeWphY3h5UWZMTFYxekgyTU8yclhzb1M4RlNyY0ctWFk?oc=5)
-
-2026-10-29 <span class="news-indication-tag">AF</span>
-
-Source: [Metro.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRzRnTU4zUHk1RUpaVVFMRUstVFRDaGhzV25qREFQalR1anF3U1JSLVpyeGIzVWg2eDllek1MdEhBeVlzTDNEek1xQUZ0VlJSVFNRMkhENXZKdlRmdWw0NE5aS2hQQjYzX1RJRVh0ck5TNlZjeWphY3h5UWZMTFYxekgyTU8yclhzb1M4RlNyY0ctWFk?oc=5)
-
----
-
 ### [Los veterinarios de Córdoba piden cautela ante el virus Shamonda: "Hay que actuar desde la prevención"](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUW14ZklCcUpVYUZHTHFhdkh6TVhFRUV3YTA3S3BFMFh2eE9QVmJDVVVJV0prQ042Y3ZTclI0Ujd4b1hKQW1xZUlGZEFXVWxxWEc2azJjWmcybWJlRExSSS1GT2tKbzcxU29lRGZ2NkRTRGNya2lfeWVCOElBZW04YzZxS1k5bVBoUzlkVlhLY3dqa2h2Zjl0cDlJcWV4eWx1cmUtRFRNaFBPUDhkbzhkYmU0TUU1ZmtkLVZUQWtBS2RZVlpmeGRwX0F4T3ZJSU1qRGliTTlia1lQS1hjSml6cnhiNzhyUQ?oc=5)
 
 2026-10-29 <span class="news-indication-tag">AF</span>
 
 Source: [ConSalud](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUW14ZklCcUpVYUZHTHFhdkh6TVhFRUV3YTA3S3BFMFh2eE9QVmJDVVVJV0prQ042Y3ZTclI0Ujd4b1hKQW1xZUlGZEFXVWxxWEc2azJjWmcybWJlRExSSS1GT2tKbzcxU29lRGZ2NkRTRGNya2lfeWVCOElBZW04YzZxS1k5bVBoUzlkVlhLY3dqa2h2Zjl0cDlJcWV4eWx1cmUtRFRNaFBPUDhkbzhkYmU0TUU1ZmtkLVZUQWtBS2RZVlpmeGRwX0F4T3ZJSU1qRGliTTlia1lQS1hjSml6cnhiNzhyUQ?oc=5)
+
+---
+
+### [First-of-its-kind food pyramid with international seal of approval released - and counters Trump advice - The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdUJTaEZrSXUybmNZZVdBZEpnRldqcTFneFBOV3A4RkNtYm9vWUpYelhzbVNha2hEcGcwVFlPZmN2THYwMEtBYXliaXlIQVExOVVGeEFSODJoTmRrelpXbEhnM0E5eUVPb3VRajFSVU5jd0dkN2d4dDU0QlBZaWt5SFl4UzNwcXNqOXlUUC11a0RCa3ZLdTBZeVFvakhRNjlEc3E0?oc=5)
+
+2026-10-29 <span class="news-indication-tag">AF</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdUJTaEZrSXUybmNZZVdBZEpnRldqcTFneFBOV3A4RkNtYm9vWUpYelhzbVNha2hEcGcwVFlPZmN2THYwMEtBYXliaXlIQVExOVVGeEFSODJoTmRrelpXbEhnM0E5eUVPb3VRajFSVU5jd0dkN2d4dDU0QlBZaWt5SFl4UzNwcXNqOXlUUC11a0RCa3ZLdTBZeVFvakhRNjlEc3E0?oc=5)
 
 ---
 
@@ -212,6 +236,14 @@ Source: [Medical Tribune](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ
 
 ---
 
+### [Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official - The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxOQS12U1E4NmE5aGRSUkw2ZTNtNFZub1NtV2QxVTFDN1lLUWh6aW9nbTl6UlJ2QVdmQVRRcVJPME40djdiVGdtd1dWTUtuVXRwa3A5ZmR3NXc4amRSeVN3aTQ2WWlnWmd1SHd2aFRzaW9yLUktVzhZMmZBS0RKOS14T1pOekN2V0dfcmFfU3JXZlY0S2VYTFR3SjV6ZmZYUTBVWFQ3R1RycVN0aG0xRlZaWFpwSEc1ejdiSzNPZA?oc=5)
+
+2026-10-28 <span class="news-indication-tag">AF</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxOQS12U1E4NmE5aGRSUkw2ZTNtNFZub1NtV2QxVTFDN1lLUWh6aW9nbTl6UlJ2QVdmQVRRcVJPME40djdiVGdtd1dWTUtuVXRwa3A5ZmR3NXc4amRSeVN3aTQ2WWlnWmd1SHd2aFRzaW9yLUktVzhZMmZBS0RKOS14T1pOekN2V0dfcmFfU3JXZlY0S2VYTFR3SjV6ZmZYUTBVWFQ3R1RycVN0aG0xRlZaWFpwSEc1ejdiSzNPZA?oc=5)
+
+---
+
 ### [Vorhofflimmern: Bei wem muss vor einer Operation die Antikoagulation pausiert werden?](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzN1QUpMS0RITlJuVkR5OWIzZFBiY25qSWo1Q0NldVdPa1NGWEdtZmk2MTVPYXZEVmdPQ1k5cHJrakZoejU3TnZ1Njl5SG53a2pHUmVKcXFrZkVtWmliTm5pQzAxa3hFUnI2NjFkM3IzSzlkUnNZeHdtb0hNZno2eU5YVDFvV3dmM0t2ME1pc1dCNTJ0NVNrdjZpY21JaW1wWldDaW5LR2JtRm0zaXpHbElyMlBfbERFYl9BT0cySWlFaEk?oc=5)
 
 2026-10-28 <span class="news-indication-tag">Vorhofflimmern</span>
@@ -244,19 +276,19 @@ Source: [The i Paper](https://news.google.com/rss/articles/CBMie0FVX3lxTE80bHREW
 
 ---
 
-### [Ebola outbreak: Nurse treating patients killed by machete-wielding mob in Democratic Republic of the Congo - Sky News](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdTJhcHhOUFlMLUh3QkhhR1ZDWHNfR1N3NktROWtoVXUydE5ILTJfc0dkYnQtQ3p6cVpNdW9JNUIydHg1WFBzb0QyLXZHWUJxUklGMjNVMGt0RFRzUnY2YUFMeVpJZ1J3VG9BZUZwanZnMmFkNDFRQmdjb0JlNHNoNENZM0tOOUdkNExKeTRhOUxIY2I5bWdJVDBJLUlDRWJDOFoyaG03YThSN2JUbHpXVmxQWmZuT0ZPMkpvOS1GalNDLTZmNm1LT2doZ1NUZlZkZW1Qd1NPc2I?oc=5)
-
-2026-10-27 <span class="news-indication-tag">AF</span>
-
-Source: [Sky News](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdTJhcHhOUFlMLUh3QkhhR1ZDWHNfR1N3NktROWtoVXUydE5ILTJfc0dkYnQtQ3p6cVpNdW9JNUIydHg1WFBzb0QyLXZHWUJxUklGMjNVMGt0RFRzUnY2YUFMeVpJZ1J3VG9BZUZwanZnMmFkNDFRQmdjb0JlNHNoNENZM0tOOUdkNExKeTRhOUxIY2I5bWdJVDBJLUlDRWJDOFoyaG03YThSN2JUbHpXVmxQWmZuT0ZPMkpvOS1GalNDLTZmNm1LT2doZ1NUZlZkZW1Qd1NPc2I?oc=5)
-
----
-
 ### [Asthma als möglicher Risikofaktor für Karies - ZWP online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzRuLWJqOXVTZUZiRnR5M0w1SWRsTTgzMTZfY1FSR0J6QmNuRkY2ampVSkU1bkNCNnZkVVVoM2hZLVhGclhUelhjQVM3ZkEtQmVRNGNwY04yZ0V5R090UlhRRWVOSXRuSk05d0ZHSFlJekZSeDVtRk9FeEVtWHZ1SnNEMFNaTl9DSVNMU0hwMFlDM25zSU5jMm03dUFVZ0Nzbm1qRFpZd2lmMm1lMXAxTXpSZ0VkejdfWXAw?oc=5)
 
 2026-10-27 <span class="news-indication-tag">asthma</span>
 
 Source: [ZWP online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzRuLWJqOXVTZUZiRnR5M0w1SWRsTTgzMTZfY1FSR0J6QmNuRkY2ampVSkU1bkNCNnZkVVVoM2hZLVhGclhUelhjQVM3ZkEtQmVRNGNwY04yZ0V5R090UlhRRWVOSXRuSk05d0ZHSFlJekZSeDVtRk9FeEVtWHZ1SnNEMFNaTl9DSVNMU0hwMFlDM25zSU5jMm03dUFVZ0Nzbm1qRFpZd2lmMm1lMXAxTXpSZ0VkejdfWXAw?oc=5)
+
+---
+
+### [Langzeitfolgen der Affenpocken: Narben, Inkontinenz und Probleme beim Sex?](https://news.google.com/rss/articles/CBMi3gFBVV95cUxObWxadTVvQ19nU3dWS3RydU9lazRPOG94eHFpMExNWWhEbFR4TTVUWUc2aXh6TEZGYlY3OTNZNk83cXYyLU9sQ2xnbnNlV0NkQzA4d2ZFZHVCdXZnYzJOV2VkV2ZzQTh1SDdZazZFM0M3b05VNEhua2EtQVNPd2R5cV9Td3lSX1ZTNWN1YjcwMWlxWHVldXdocWpCdS1JM0pFNlN0bWREMGlwbnBIb2tpb290SzBOODdWdnJQa1BNLUdRZUh3czVIZUdrVE8zR05FNG1fa3hVNmI5djl1dGc?oc=5)
+
+2026-10-26 <span class="news-indication-tag">AF</span>
+
+Source: [esanum](https://news.google.com/rss/articles/CBMi3gFBVV95cUxObWxadTVvQ19nU3dWS3RydU9lazRPOG94eHFpMExNWWhEbFR4TTVUWUc2aXh6TEZGYlY3OTNZNk83cXYyLU9sQ2xnbnNlV0NkQzA4d2ZFZHVCdXZnYzJOV2VkV2ZzQTh1SDdZazZFM0M3b05VNEhua2EtQVNPd2R5cV9Td3lSX1ZTNWN1YjcwMWlxWHVldXdocWpCdS1JM0pFNlN0bWREMGlwbnBIb2tpb290SzBOODdWdnJQa1BNLUdRZUh3czVIZUdrVE8zR05FNG1fa3hVNmI5djl1dGc?oc=5)
 
 ---
 
@@ -273,14 +305,6 @@ Source: [Healthline](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdjFDeF
 2026-10-26 <span class="news-indication-tag">AF</span>
 
 Source: [The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5qQmRlYUdISEJic3BaWFRFcm5mV3lvdGt3YkVMWTZKNnFCM05oNE10SmgyVk1WOGRiYXhKRXY0V2wyODFtaGNqZVozZW9sbDdSSGpLMVJNQzJiUlBVb2pxOVAzVHI1ZXBwVTlBbjRWSFA1a1dkaXQya01vWXJXQdIBgwFBVV95cUxQOUhuRmhrNzZDN0tqS2dWcm92X2lWQmJnNnVnd3hObm9mUFo0eUdWelNnZjRGTmNSLVFSZnVVNGVzbG53UGFoSy11alhCM29QdGwtNi1Ubnh5Uml1SzNkSS1Qb0p1dVMwbE0tS1dQNXhnekpCaW5mcFBrdVdOMXhmOG9HYw?oc=5)
-
----
-
-### [Uraltes Virus kann Gehirnunterschiede zwischen Mensch und Schimpanse erklären](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanpDR0JaaUJUeXRLUjR0ODdMNXhIb1p2anJLZ1g0bldnNTRJR1dLMURzMTFQdW5qam1uQ2FydzZvVVNwMExlV3E5SWFKLUVmbWcwUklsR2ZkODVhb1prb2lROWR6LTF4cHJkTkUxYXJuSDF0QlBmclZBZ3FhSEVnaWM1ZS05Zm5ad01qc1JGbXpNMVVldDRRRk1DQWxNTk9hbTYxTEdmWHFra2pZN0w4bXd2bVBiaGNa?oc=5)
-
-2026-10-24 <span class="news-indication-tag">AF</span>
-
-Source: [Scinexx](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanpDR0JaaUJUeXRLUjR0ODdMNXhIb1p2anJLZ1g0bldnNTRJR1dLMURzMTFQdW5qam1uQ2FydzZvVVNwMExlV3E5SWFKLUVmbWcwUklsR2ZkODVhb1prb2lROWR6LTF4cHJkTkUxYXJuSDF0QlBmclZBZ3FhSEVnaWM1ZS05Zm5ad01qc1JGbXpNMVVldDRRRk1DQWxNTk9hbTYxTEdmWHFra2pZN0w4bXd2bVBiaGNa?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Palbociclib?">
-<strong>Palbociclib</strong> currently has <strong>37 news articles</strong>, with 4 predicted indications.
+<strong>Palbociclib</strong> currently has <strong>35 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page combines the AI-predicted indications for Palbociclib with the latest 
 <p><a href="{{ '/drugs/palbociclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (37)
+## Related News (35)
 
 ### [Identifican nuevas 'pistas' biológicas que explican por qué el cáncer colorrectal puede ser más agresivo en jóvenes - Redacción médica](https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ1JRTkRSZHcxYjBuTTZQaWpzOGM3dDBPUmxVaUhxZ0pyRW5CZXUzVTQ1UFduaGlMdjk4bnpuQ01Gb3dXYzA5R2swYjBYTkFudUQtc3FOa295X1Y5ekR3eEpOc0VMdGdEdk5raVJJNVlVbFdqMlI4V1JuaUNXRWliNU9XckZlMGtfQ3I2aWVGSUdQV09CcnVMY09vRzlPZkhfbDhOeXJwS3RiX2tSeHllSUVYU3FaRnBITDRPbHJUUEhqWkZsbzQ0R28zcExVSnR6eWhYdEkwTmJFSWcwRlpDel9KWWxwWW1YcTJyd3JWdWxjX0JLbHNKT1dRNkNuamNZeGN1bTl30gGLAkFVX3lxTE16THgySkNscU5KUy1maHFoalYyWVA2bE5RSWV4VTQ2SzhGWGQ5S1Bka2VocFZnU1V2bGxtZDZ0Zm5lU0ctVzBtRG5PTjc1c3kzREZDZm9wT0drV01XNkF6S3loQ25HYW1nN3kwZGk3bVZPemg5LVRhaUdNRXY0ZjNrR1NvZEhySWV5RnFrQXQ3SEpPT2pWNzhOdTlmVVlnUEVvVXRYc3hGY2ZTNVZ2czJwYTQ0V203UnBZLTBsZW1Sd3NWYXJKQlZGVjFEc2swbmNjZnBCMDFWZExrSjRRNHdFRWtieDJ1dTZJaFBaZHUyUTB1dmN1a1NwaHpKdmtUV0h6c2FTZVYtNkpfUQ?oc=5)
 
@@ -78,6 +78,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EaE4wTldhY0R5d
 
 ---
 
+### [Psoriasis-Arthritis: Diagnose dauert oft vier bis fünf Jahre](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
+
+2026-10-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
+
+---
+
 ### [Vampate e sudorazioni, nelle pazienti con tumore al seno: un nuovo farmaco si è dimostrato efficace e sicuro - Corriere della Sera](https://news.google.com/rss/articles/CBMitgJBVV95cUxNUFlja3RUMmlnaWExTWEta3V0YmhXT3IzQ2gxTWhGY2w4NUpMaWFReDJFaHhwV0lkWDZvbUJxWXdfWDczOXdkbFpQV256dnU4YkFfNGlsWGloZno0STh3dXZyZE9aSUlROUZ4Q1dQUTlEUmstVFZWU0k4MjhQZWpLSDV2NTlvMW1RRmxCWTlwYXJDZzU4ZE5EbEFsQ25jOXVTdC1tV19Xa3Fkb3VJbFNsRVhjdDZGVmRCR29sMFgyZ0JVdFJiR18xRU5DdGx3blNTTGJXZHQ2dmZRWGx6eW4xQS1tY1ZRYTBiX3ZNaUxBd2VfeHBZQTI1cVZWMTFBNG9SMlNiRVF6bWVRMWlTcjJOZHdPWVY3OUFuQXZ4UHhqRHRIV0Y0T3d0ZVBXNnBDMWZlNDJNaFp30gG7AkFVX3lxTFA4b0xhMzk3RmtCN004dmxEdFU3OXAtSGR2Wk9yaTc4enVkd3FraGphMWp4Um16VWkzWExxdk5pYTJRcURYRkZYNnJEdFpVNUhDTE1NTGx2bE5KeHlGazhCNkYzMGQxcy05U2Vnei1PSGZUTURCcEJlU0tBdU1aVHZOSDRjb2ltdFNLbmxja3RfSER2cmtRZDRsbWZycXpPZHh2enpteEMtOVNxQ0pIT2tXc05UOVhucmxHbXRmNE9OUjB3YUlTV2piNktONHkwaDRCckt3bDdxNEg3dDA3MUhGOGxsQTBBNlJlanRvMG5pb1RDMG5vVVktYU40QXZRZGhYTjJrNGxpWTJVcFltRlY1Unp6M0ZfclhzajF4ZFpZUFF2NUFyMnF6RWItM3dhT2hXc1hvMHctNTNEUQ?oc=5)
 
 2026-10-30 <span class="news-indication-tag">tumor</span>
@@ -102,19 +110,19 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTZlNDJRY
 
 ---
 
+### [Known for preventing cancer, p53 could also help immune cells fight it - Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3JTRExiY002UU9qN0JlVW1hWlVRZHRXWnRTNmFmZTR5bWRKSERjbUV2ZnA2dnJfbVVsRnNucmRfU2RrY19QQXFZQmhSUTVSTmRvc1ktX3VrTEZWd0szY3pyY3FpZ1NmNmN0MExLa0JRcmtwa0E?oc=5)
+
+2026-10-29 <span class="news-indication-tag">cancer</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3JTRExiY002UU9qN0JlVW1hWlVRZHRXWnRTNmFmZTR5bWRKSERjbUV2ZnA2dnJfbVVsRnNucmRfU2RrY19QQXFZQmhSUTVSTmRvc1ktX3VrTEZWd0szY3pyY3FpZ1NmNmN0MExLa0JRcmtwa0E?oc=5)
+
+---
+
 ### [Doctors discover 'rugby-ball-sized' tumour after grandad visits GP with one symptom - Manchester Evening News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVZzVTZ6dmEwZjlvSnJkdW1vR3ZrR05HMWJHSkU0bG1QWDlOYkMzUktmWFBWTXJuWENxTFFaNmVaNURPZFdZZ2VFM1RqXzI3VDRJRjE4NjdaenZwYUZCT1JqSXNSdmRuVGlQd3RqQ1E4S1g1TWN2R1BZMjVMZGU5VkZxbXB2dGNpMXFwQzRhNDlnS0Ezci1uMzhvcHRZM21MdEh5LVBsM2NwUmFDUEROY9IBtgFBVV95cUxOeVJLazBGam5zdURjOGY2cGtCczZFLTZqU3luQWcwZjdkWmF5NUV6cHVvNjNhRHgzMWJ2NV9CTGFKNjVfQ1Z0ZGcxTFY1REJjNU9GZkRlV254QWtNZU9BTUpCZEN6Um5TMmplczU0bnFTTjNVTFk5cmpjS2t0eFE5RElNRUlQZHF4Qm5GYXltb1hPSEM3VlpvYU83YVo5YkJXS2FPeE1Cc1VEbU1FX01aX0E4ZzJXdw?oc=5)
 
 2026-10-29 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">AF</span>
 
 Source: [Manchester Evening News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVZzVTZ6dmEwZjlvSnJkdW1vR3ZrR05HMWJHSkU0bG1QWDlOYkMzUktmWFBWTXJuWENxTFFaNmVaNURPZFdZZ2VFM1RqXzI3VDRJRjE4NjdaenZwYUZCT1JqSXNSdmRuVGlQd3RqQ1E4S1g1TWN2R1BZMjVMZGU5VkZxbXB2dGNpMXFwQzRhNDlnS0Ezci1uMzhvcHRZM21MdEh5LVBsM2NwUmFDUEROY9IBtgFBVV95cUxOeVJLazBGam5zdURjOGY2cGtCczZFLTZqU3luQWcwZjdkWmF5NUV6cHVvNjNhRHgzMWJ2NV9CTGFKNjVfQ1Z0ZGcxTFY1REJjNU9GZkRlV254QWtNZU9BTUpCZEN6Um5TMmplczU0bnFTTjNVTFk5cmpjS2t0eFE5RElNRUlQZHF4Qm5GYXltb1hPSEM3VlpvYU83YVo5YkJXS2FPeE1Cc1VEbU1FX01aX0E4ZzJXdw?oc=5)
-
----
-
-### [Un cardiólogo reclama que la vacuna de la gripe sea parte fija de la prevención en pacientes con cardiopatías](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
-
-2026-10-29 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">ictus</span>
-
-Source: [Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
 
 ---
 
@@ -198,22 +206,6 @@ Source: [TP24.it](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTFFzNzVqZ
 
 ---
 
-### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
-
-2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
-
----
-
-### [Fundraising appeal for devoted Donegal mum-of-two with stage four cancer - Donegal Daily](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjA2TFBjRklVUWllS1Fza0p4ZF9ObkUzXzhnQjlVZ3RmQ3RxM2ZiNHMzWHNxYnRIUXJyMmltOVJXSTdzVlFrbmdWWUN5bHQ4UHZ3d21mZDloeFNydS1MNHVnMkJDaHVxVDdsbDROMnVLaUpzaHR6UTZERW5wOFNtVHB6ZFk1bmt4N2x0eVJXWlR2azJnVWptWGNZNk9tWWhnNVE3S3Y3YURRNVZ6RndmMHR0SQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">cancer</span>
-
-Source: [Donegal Daily](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjA2TFBjRklVUWllS1Fza0p4ZF9ObkUzXzhnQjlVZ3RmQ3RxM2ZiNHMzWHNxYnRIUXJyMmltOVJXSTdzVlFrbmdWWUN5bHQ4UHZ3d21mZDloeFNydS1MNHVnMkJDaHVxVDdsbDROMnVLaUpzaHR6UTZERW5wOFNtVHB6ZFk1bmt4N2x0eVJXWlR2azJnVWptWGNZNk9tWWhnNVE3S3Y3YURRNVZ6RndmMHR0SQ?oc=5)
-
----
-
 ### [Tumore al pancreas, la svolta del nuovo esame del sangue: scova la malattia anche allo "stadio zero"](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTUhaa3FNT2RDWnBRRVJmaXBfbG9PSk9GTlhNQkpkeXdJeE95Qmt6MmwwQ3Npbk1UWm90bXFEMHdvZ2VQTGd0dTM1VWhSUWdjWlRCQV9md2RfakQ3R3o5bXJ2cDkwakpnV1BIODNXMS12bXhxbWZHZzRESmdtM3FmOXoySlNqODk3TE5LTzVXZkZHRWJGMTV3Y3JNYlh0cE1NSmwtM0hRcS0wdE5EdjJ2TDRVaFpjSW5LT0hObE94cjhzMWM1UkZfb1BHVnRWcUtQTmx6YjByWQ?oc=5)
 
 2026-10-28 <span class="news-indication-tag">tumor</span>
@@ -246,6 +238,14 @@ Source: [Pleine Vie](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRDllWF
 
 ---
 
+### [La vitamina che contrasta l'invecchiamento cellulare e potrebbe aiutare nella prevenzione tumorale](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbERyUDBuc09JbzBndVBKbGdZWlJHenlwWHFZRk1UV1lMMk44cVhuc2hyclphUVJZTEVPY0oyUkFiS0MtMUtobG55VjBPbFZvei1SZ3FSWkhKOWhXOUdmX3d0ZmFDZ3ZmNHhGZGw3MGhfQ2ZkeG44emtiajk1a056Tk9maHl5N1lXOTZFa1NBQVNDQmxydW5uZ2lfYUhqb3QyTlRiX3o0aWFGTjVkWFNleTk0VlMzZXdhY2hzb3RhWE1sQTJkNWdKUmFGUTdBTWFUQm15WVhNRTJtZw?oc=5)
+
+2026-10-27 <span class="news-indication-tag">tumor</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbERyUDBuc09JbzBndVBKbGdZWlJHenlwWHFZRk1UV1lMMk44cVhuc2hyclphUVJZTEVPY0oyUkFiS0MtMUtobG55VjBPbFZvei1SZ3FSWkhKOWhXOUdmX3d0ZmFDZ3ZmNHhGZGw3MGhfQ2ZkeG44emtiajk1a056Tk9maHl5N1lXOTZFa1NBQVNDQmxydW5uZ2lfYUhqb3QyTlRiX3o0aWFGTjVkWFNleTk0VlMzZXdhY2hzb3RhWE1sQTJkNWdKUmFGUTdBTWFUQm15WVhNRTJtZw?oc=5)
+
+---
+
 ### [Woman died after one-year delay in cancer diagnosis](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5udExPVDFvMlFHQWh3YjBIZFlMUFZXbDJDczJmcXR2Qi15eXY1U0x5ZzAyeUQyaDZQZWgwOXdrQTluZWtsM2NrVGtidld3aW45UDdJdWVmcmZ5Z0NadEE?oc=5)
 
 2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -264,17 +264,9 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMizwJBVV95c
 
 ### [Cancer de la prostate : un nouveau traitement permet de prolonger de deux ans la survie des patients présentant des métastases, selon une étude](https://news.google.com/rss/articles/CBMinAJBVV95cUxNd0RTSW0zVk1aNHBLTXBrU0d6c1o3bW94X0JMSVhoOGlaTmZYU2N6d0poeDJ2WFR0Q1RHRWR4d3BFMEtpNDV1MGlGM1N6cHh4Y0VYbTVlM3JCUnFBYXZIWk95TFFmUWlkdFRjUmxHTzg4UXI4MXI1UUZnektuYmZDWEFwVzZMczVkQnYxRS0taXdHZDVaRnY2QmhhMjdqZzdHd2xEMFZFODJHNDdoS2RaaC1LNS10V3V4QnFjVDUwZ0xLXzZNYVlvVVhJSFRXLVRwM0I1RExseGFITVg2dk5JOEFfWkhJRi10TktqSnZ4bDFXdVV6YkNHd2wtNEctQ0RZcUpxcnZVNFMtWWhENklWR3M3T3ZQTmVxdUlmUw?oc=5)
 
-2026-10-27 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">cancer</span>
+2026-10-27 <span class="news-indication-tag">cancer</span>
 
 Source: [franceinfo](https://news.google.com/rss/articles/CBMinAJBVV95cUxNd0RTSW0zVk1aNHBLTXBrU0d6c1o3bW94X0JMSVhoOGlaTmZYU2N6d0poeDJ2WFR0Q1RHRWR4d3BFMEtpNDV1MGlGM1N6cHh4Y0VYbTVlM3JCUnFBYXZIWk95TFFmUWlkdFRjUmxHTzg4UXI4MXI1UUZnektuYmZDWEFwVzZMczVkQnYxRS0taXdHZDVaRnY2QmhhMjdqZzdHd2xEMFZFODJHNDdoS2RaaC1LNS10V3V4QnFjVDUwZ0xLXzZNYVlvVVhJSFRXLVRwM0I1RExseGFITVg2dk5JOEFfWkhJRi10TktqSnZ4bDFXdVV6YkNHd2wtNEctQ0RZcUpxcnZVNFMtWWhENklWR3M3T3ZQTmVxdUlmUw?oc=5)
-
----
-
-### [Woman on chemotherapy ineligible for cancer drug](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UQ0ptR1d6N01yRm9Pd05xb3NXdGdtSVZwQWdwZEwwTEJ2bGt6R1Y1cDdVZ1U5Rl9mNnpiNXpwdzB6WU1aMk9DTDM0dk80WXpCRTY1MGthS0RxX3BkLVE?oc=5)
-
-2026-10-26 <span class="news-indication-tag">cancer</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UQ0ptR1d6N01yRm9Pd05xb3NXdGdtSVZwQWdwZEwwTEJ2bGt6R1Y1cDdVZ1U5Rl9mNnpiNXpwdzB6WU1aMk9DTDM0dk80WXpCRTY1MGthS0RxX3BkLVE?oc=5)
 
 ---
 
@@ -291,14 +283,6 @@ Source: [ANSA](https://news.google.com/rss/articles/CBMijgJBVV95cUxPTGtDVmxyMEd6
 2026-10-26 <span class="news-indication-tag">tumor</span>
 
 Source: [TargatoCN](https://news.google.com/rss/articles/CBMigAJBVV95cUxQY1MwVXhnWWlURDZvc3UyWm5UUXBCazA5eFZmczRaakRqMHYyRFBTV0tFMWYzRHhBcEVaU2U4b1BiRTFLRDJ2akJRa25lc0JmVUpxd0oxX2gxblJfR1NSZzZYOFg2NEhMYmZyYmYzZkl2UGltN3VldXBERTV0eF83a0hia2lsOXplZDBybnVJYm9CY04zU2tkdEt2SEdvZVFOR0pQb2RWcXo3NTItU1RfenllZjlPMGplMExqaUlCdVBCT2FCSFVFY1JvME1NaFNKM1FYVExYU3dTRl9RWkg0VjMzNVZtSFlMT1FlQUg4QjFMd0V2SnJPU19wZ0JZWjFJ0gGAAkFVX3lxTFBjUzBVeGdZaVRENm9zdTJablRRcEJrMDl4VmZzNFpqRGowdjJEUFNXS0UxZjNEeEFwRVpTZThvUGJFMUtEMnZqQlFrbmVzQmZVSnF3SjFfaDFuUl9HU1JnNlg4WDY0SExiZnJiZjNmSXZQaW03dWV1cERFNXR4XzdrSGJraWw5emVkMHJudUlib0JjTjNTa2R0S3ZIR29lUU5HSlBvZFZxejc1Mi1TVF96eWVmOU8wamUwTGppSUJ1UEJPYUJIVUVjUm8wTU1oU0ozUVhUTFhTd1NGX1FaSDRWMzM1Vm1IWUxPUWVBSDhCMUx3RXZKck9TX3BnQllaMUk?oc=5)
-
----
-
-### [Krebszellen liefern im Labor den Rohstoff für ihr eigenes Gift - Forschung und Wissen](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbjJQb201eWlNSlU4V2dGRTdPUW1Yb2tsOTBWUy1PUWZsbEtaSWhZUFBUdWVxUEc4cThaczQ4ZjdnUDQzWm5FWUxLZndmYkR5R2hCelV0RTB3OGJld1M4MHhfSWN0SEYtZThkam1VOFJXa0FrNVNUdFl6MFBqWXE4YjJOdktzYVhuc1RRaDNoelVsWmNJUV9KcGxINUlWQXZoQklqbXgxb1JmdlhYTVJ3ZTBMX2xUcUJSTm8wMzZlTzM5anN5V2ZoWA?oc=5)
-
-2026-10-26 <span class="news-indication-tag">Krebs</span>
-
-Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbjJQb201eWlNSlU4V2dGRTdPUW1Yb2tsOTBWUy1PUWZsbEtaSWhZUFBUdWVxUEc4cThaczQ4ZjdnUDQzWm5FWUxLZndmYkR5R2hCelV0RTB3OGJld1M4MHhfSWN0SEYtZThkam1VOFJXa0FrNVNUdFl6MFBqWXE4YjJOdktzYVhuc1RRaDNoelVsWmNJUV9KcGxINUlWQXZoQklqbXgxb1JmdlhYTVJ3ZTBMX2xUcUJSTm8wMzZlTzM5anN5V2ZoWA?oc=5)
 
 ---
 
