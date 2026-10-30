@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Galcanezumab?">
-<strong>Galcanezumab</strong> currently has <strong>2 news articles</strong>, with 3 predicted indications.
+<strong>Galcanezumab</strong> currently has <strong>1 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ This page combines the AI-predicted indications for Galcanezumab with the latest
 <p><a href="{{ '/drugs/galcanezumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### ['I couldn't move, walk or talk after my stroke'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
-
-2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
-
----
+## Related News (1)
 
 ### [MIGRACARE propone una hoja de ruta para mejorar la atención a las personas con migraña en España - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWjgyNkhYYkptbHhfSk5VYlVwaEY4Z2FUbXl6dW40ckotcEo4RWZfQjBXN1labU9ydFBkZnBTVWtqOTlWXzNKWGoyTkdXMUpDejg0OXY5QXhfNW5wTlJGSjFCTHJuM04waE1tUE1uNXN6RTNGWjJDNC1RX18tT0w1MDBEeU1LZDRhcThfZGR5Nm9wWGdEcWlsMzlscVpHMktnMV9MZFg1NUxaV1lLMkRXdExjX1BoOWtaMndXbnUxN1JsUdIBvAFBVV95cUxNS2dINGNEeEl4R1AzUUJCVWYwWW5aMW1vYnU1Y3hLdXZFVG90Ni1tUVNZZFNNZjZ6OHVwbS1zUjdsa0ltTHI4QmRKREpCSTNoemlsQkgyRnFyYzU1V2RzVWZ2TzFyT0Y2dURNaEhFZXBJRDkxNGpNTUM0azR5Y1cwTHEzZnFRSlpxU0w1d1JDVW0tdlBEck5pZzRPOHR1bW1oT3RDSER0WGJha3JpYWJrNnlWcTlrWmxRcUxFUg?oc=5)
 

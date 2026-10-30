@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>20 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>19 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,29 +33,45 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (20)
+## Related News (19)
 
-### [Typ-2-Diabetes: Zwölf Wochen Training und Diät führten bei 50 Prozent zur Remission](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVZ2eWdYVEhaOWJtbnlWQnZvcjJHbG5aX2YwNk5NWEdQTUliZ2NCckE4dFFtSmNkUGV2N2FGRk1oZl9xbnpuSjdFcmtRYnZXYUQ5X1JOcVZiTnRNc2FtTG40TVRMZU1KZHpRR2xHQU1pT3doQnY4Nm5odXBYWnF4V3plTEpRbkdMZk9uLS1ZczhHTmZ6WVJCVERMMlRUM09YMnYwam9FOVN6NERRWDhlcWtQLUJuZzVlSXNQcEVsaW4zbVZDdFhISEpYeWM2dnc?oc=5)
+### [El Hospital público Gregorio Marañón realiza una jornada de concienciación para saber cómo detectar y actuar si una persona sufre un ictus - Comunidad de Madrid |](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWURfSlRuQ3Z2aXJDcDRNVnFFbFhEWTdYQlJ1YmFRdUtuY2dsRFV5SF9kclVPUllfOFdWeDNmVFVzcXRrNktOanRBRzVJRG83MXY5bXNsUUUxQ1R3RDBaeEZPNkhUblU0VnB4M3FweHlfMlhpWUNNYnZ0UDdndHZqaktkMjU0YUY2dWltWldiRkF2WjJJZTU4aV95cHphU0RUYTE4ckZRRGZ6OUZsN0YwNTVwUnJ3dHRLSXdQaDBIX0VwdVhhVFJ5cml4a1hBcmM4UmVTS3dLRjhLUGRmQ2JIbDVtVHlPbUdTcndwM3MxcDk?oc=5)
 
-2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-10-30 <span class="news-indication-tag">ictus</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVZ2eWdYVEhaOWJtbnlWQnZvcjJHbG5aX2YwNk5NWEdQTUliZ2NCckE4dFFtSmNkUGV2N2FGRk1oZl9xbnpuSjdFcmtRYnZXYUQ5X1JOcVZiTnRNc2FtTG40TVRMZU1KZHpRR2xHQU1pT3doQnY4Nm5odXBYWnF4V3plTEpRbkdMZk9uLS1ZczhHTmZ6WVJCVERMMlRUM09YMnYwam9FOVN6NERRWDhlcWtQLUJuZzVlSXNQcEVsaW4zbVZDdFhISEpYeWM2dnc?oc=5)
-
----
-
-### [Los casos de ictus crecen un 73% desde 1990 pese a caer las tasas de incidencia y mortalidad por edad](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTRybFpFdTk2WENHOGh1b2dRWDgtY0IzMjVNZURrZ3pDU0N4NnF0WUk2b2NmbWNreV9wRnpObVNmOUFSTm0zaXNfM1dGbHNabklZbmhqZDgtbE5iNTExNmdpcDh2NTQ2TWh0MWhLNXNZR25xTzRsTDg3bHhXMFhjTlNoQnNtbFdueXVNT1FJMHc5UTRnWWhTYlRFbW8yd3l6R3hwWEZZMzc4bW5SSU1Oc1h6NklUbFV1cFBzS2tNNFgxbHNzY19GaQ?oc=5)
-
-2026-10-29 <span class="news-indication-tag">ictus</span>
-
-Source: [iSanidad](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTRybFpFdTk2WENHOGh1b2dRWDgtY0IzMjVNZURrZ3pDU0N4NnF0WUk2b2NmbWNreV9wRnpObVNmOUFSTm0zaXNfM1dGbHNabklZbmhqZDgtbE5iNTExNmdpcDh2NTQ2TWh0MWhLNXNZR25xTzRsTDg3bHhXMFhjTlNoQnNtbFdueXVNT1FJMHc5UTRnWWhTYlRFbW8yd3l6R3hwWEZZMzc4bW5SSU1Oc1h6NklUbFV1cFBzS2tNNFgxbHNzY19GaQ?oc=5)
+Source: [Comunidad de Madrid |](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWURfSlRuQ3Z2aXJDcDRNVnFFbFhEWTdYQlJ1YmFRdUtuY2dsRFV5SF9kclVPUllfOFdWeDNmVFVzcXRrNktOanRBRzVJRG83MXY5bXNsUUUxQ1R3RDBaeEZPNkhUblU0VnB4M3FweHlfMlhpWUNNYnZ0UDdndHZqaktkMjU0YUY2dWltWldiRkF2WjJJZTU4aV95cHphU0RUYTE4ckZRRGZ6OUZsN0YwNTVwUnJ3dHRLSXdQaDBIX0VwdVhhVFJ5cml4a1hBcmM4UmVTS3dLRjhLUGRmQ2JIbDVtVHlPbUdTcndwM3MxcDk?oc=5)
 
 ---
 
-### [« Deux AVC à 28 ans, ça n’était pas du tout dans mon bingo de l’année 2026 » - TÉMOIGNAGE - Le HuffPost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmpoZ1NFMmJfVmNsR0NpVk9tU1hYdHFzUUlTQUdSeGZsTEtxU3BUUEw4NHpvRXExdXBhNHlWaENoOGMtNFlnYmdSdU5naG1UMFJXRzRpRnRiYWxLcEc4QjkzeFZNdW1VbzRNdTVhR1RibllTbFRERjJ3M21xLTNzaFNhZlFzS2lDcUttNG40M042Z2h5NkVZOU9lQmplNjZ6TzdMLVE5RkgyU2hvaTB3MTU3YXBUMEtyVF9YU015Wk5NdEFueDRnTXZ4dkMwOUZKMU9n?oc=5)
+### [La inteligencia artificial puede anticipar el riesgo de ictus en mujeres mayores](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcGp4aTdCS1R5aV9WOTdTbDZUc0JzQmRlVTIxNDl3TTNIeEF0QmJ3N3RUcEl1bWZxOVpyTng4Q2xpb3U2ZUxZd18yYllDal9nTlg4bjlOQXpvckpYRXR0THZTSnFxbllNcFFWRG56X3A1R0g2SHh3eUo0OFdsRnhNRjdfdWxjaHV1MElOYmpTRFhWVmlidG5kd0o2M3BQTTgzQ25PMkJha3duV0VEUjljMg?oc=5)
 
-2026-10-29 <span class="news-indication-tag">AVC</span>
+2026-10-30 <span class="news-indication-tag">ictus</span>
 
-Source: [Le HuffPost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmpoZ1NFMmJfVmNsR0NpVk9tU1hYdHFzUUlTQUdSeGZsTEtxU3BUUEw4NHpvRXExdXBhNHlWaENoOGMtNFlnYmdSdU5naG1UMFJXRzRpRnRiYWxLcEc4QjkzeFZNdW1VbzRNdTVhR1RibllTbFRERjJ3M21xLTNzaFNhZlFzS2lDcUttNG40M042Z2h5NkVZOU9lQmplNjZ6TzdMLVE5RkgyU2hvaTB3MTU3YXBUMEtyVF9YU015Wk5NdEFueDRnTXZ4dkMwOUZKMU9n?oc=5)
+Source: [Geriatricarea](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcGp4aTdCS1R5aV9WOTdTbDZUc0JzQmRlVTIxNDl3TTNIeEF0QmJ3N3RUcEl1bWZxOVpyTng4Q2xpb3U2ZUxZd18yYllDal9nTlg4bjlOQXpvckpYRXR0THZTSnFxbllNcFFWRG56X3A1R0g2SHh3eUo0OFdsRnhNRjdfdWxjaHV1MElOYmpTRFhWVmlidG5kd0o2M3BQTTgzQ25PMkJha3duV0VEUjljMg?oc=5)
+
+---
+
+### ['A stroke aged 43 changed my sense of who I was,' says Oxford man](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
+
+2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
+
+---
+
+### [UK government’s obesity plan ‘doomed to fail’, MPs warn - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
+
+2026-10-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
+
+---
+
+### [Santé. 1 200 personnes font un AVC en Drôme et en Ardèche par an, ce chiffre devrait augmenter de 50 % d’ici 2050 - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR3hXNzhPWVJjMmgwQUxnUjloY2NqVUZqYlB5MVBueXFjR2c1X3MyNllLOGNGYnhOdTdSb2dlcWh5QjhsLTNYdlQzMVF4ckRJTko1dXJMSzJOMjRnLUNWNXdMQ1IzdC1XYnNCd3B5TFlOanZqZkVaN0lMOGhGQVMxYUo4T21mMlhkdFNGRGZoVzFiQjlkN2lOVWlPb3kzZTBFWGtnWkcySGJsSGVjWEZCS1hFREFEbTUwSy1ZckxyaGp3U1JUVzFOVDNuYmc2bGVEWDg2ZTE0VlM1bWdrMTNRTg?oc=5)
+
+2026-10-30 <span class="news-indication-tag">AVC</span>
+
+Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR3hXNzhPWVJjMmgwQUxnUjloY2NqVUZqYlB5MVBueXFjR2c1X3MyNllLOGNGYnhOdTdSb2dlcWh5QjhsLTNYdlQzMVF4ckRJTko1dXJMSzJOMjRnLUNWNXdMQ1IzdC1XYnNCd3B5TFlOanZqZkVaN0lMOGhGQVMxYUo4T21mMlhkdFNGRGZoVzFiQjlkN2lOVWlPb3kzZTBFWGtnWkcySGJsSGVjWEZCS1hFREFEbTUwSy1ZckxyaGp3U1JUVzFOVDNuYmc2bGVEWDg2ZTE0VlM1bWdrMTNRTg?oc=5)
 
 ---
 
@@ -67,19 +83,27 @@ Source: [Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUD
 
 ---
 
+### [Los nuevos casos de ictus aumentan un 73% desde 1990 en todo el mundo pese al descenso de las tasas ajustadas por edad - Diario Estrategia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOFhIWHpNaklEX3dzZC13enJNSDRhLUxlNXpvcWhqbExjQXhudm8wNmFESkFUTEMxZElJOWpScU1YOEJnR05iVjZKLU5oSllWdmNnRlRVLWxydHlhQzJoYkI2OWg3N0F1MlUtVzdPNnp2enQ1SmpKVkF5dENDMjBFY2hidjh5VjlBdWF6cWdhU09oM0Mwc3Q0MDVueUp0MFg3YUhoWU9VdzZCckJUVDAyN3pSNHRfMU5uTDRaVEFSb1pYQ1FaZjlObDE4aGQzZ3NLZE9Malk5RHUxa2ZiSHVGdEdB?oc=5)
+
+2026-10-29 <span class="news-indication-tag">ictus</span>
+
+Source: [Diario Estrategia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOFhIWHpNaklEX3dzZC13enJNSDRhLUxlNXpvcWhqbExjQXhudm8wNmFESkFUTEMxZElJOWpScU1YOEJnR05iVjZKLU5oSllWdmNnRlRVLWxydHlhQzJoYkI2OWg3N0F1MlUtVzdPNnp2enQ1SmpKVkF5dENDMjBFY2hidjh5VjlBdWF6cWdhU09oM0Mwc3Q0MDVueUp0MFg3YUhoWU9VdzZCckJUVDAyN3pSNHRfMU5uTDRaVEFSb1pYQ1FaZjlObDE4aGQzZ3NLZE9Malk5RHUxa2ZiSHVGdEdB?oc=5)
+
+---
+
+### [Older Adults With AF: Anticoagulant Use May Lower Death Risk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGozYV9zTW5aTmx1U0o5bVpkT1lnWXNEc1NRcmJLM2VwTzhBdHBIQWZlZFdzYkNQeU1aWVl2Q3hwRkgxX3pNRWZOeDdWNFZlZEM4WlZWZ0VIVFBCUlVnUHlLS3V6ekprMmRmRmE5Smh6dDZGSUI1MjRTY19oWjRubWU2ZkZ2TE1tN1dNTHdiakE3eEdiS3RQWXVOYlpjdzRHMG1tVWxWbWN5RHc?oc=5)
+
+2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGozYV9zTW5aTmx1U0o5bVpkT1lnWXNEc1NRcmJLM2VwTzhBdHBIQWZlZFdzYkNQeU1aWVl2Q3hwRkgxX3pNRWZOeDdWNFZlZEM4WlZWZ0VIVFBCUlVnUHlLS3V6ekprMmRmRmE5Smh6dDZGSUI1MjRTY19oWjRubWU2ZkZ2TE1tN1dNTHdiakE3eEdiS3RQWXVOYlpjdzRHMG1tVWxWbWN5RHc?oc=5)
+
+---
+
 ### [Le médicament antiobésité Wegovy sous forme de comprimé : date, prix, remboursement… Tout savoir l'arrivée du traitement en France - Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOX0puZjlnUktfMktTclh3bUtMdUxfM1AydzFVVGNYcFFWaXFsSzVlLTZNakhrQVZBSXV6TXpkUkVoa2sxQlh4NEJrcFRXZV9xYmg3bTJBS1NKU21pczgzcFZiOHN3NWpaOHZPRGRNcGs3NzdhMjlJT0k0N09pOUdmOTlrS3V4bFlvTGo1TjBrN0Y0UnVJQTR2TlM2d1k5ajgzVFVTQU9STWpad1drT2duVFJ6ZlItb2NHaElWZFNrVU5wVTNlUFpieVdaMVdFVElGS0FRbV94RENBdUlDQjBfMURfT0VLQS1fRTJ4cmZEdlowT2g1UmtfQklabVVJZTlSWWlZ?oc=5)
 
 2026-10-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
 Source: [Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOX0puZjlnUktfMktTclh3bUtMdUxfM1AydzFVVGNYcFFWaXFsSzVlLTZNakhrQVZBSXV6TXpkUkVoa2sxQlh4NEJrcFRXZV9xYmg3bTJBS1NKU21pczgzcFZiOHN3NWpaOHZPRGRNcGs3NzdhMjlJT0k0N09pOUdmOTlrS3V4bFlvTGo1TjBrN0Y0UnVJQTR2TlM2d1k5ajgzVFVTQU9STWpad1drT2duVFJ6ZlItb2NHaElWZFNrVU5wVTNlUFpieVdaMVdFVElGS0FRbV94RENBdUlDQjBfMURfT0VLQS1fRTJ4cmZEdlowT2g1UmtfQklabVVJZTlSWWlZ?oc=5)
-
----
-
-### [Cerca de 1.500 almerienses sufren un ictus cada año, mientras que un 40% arrastra secuelas graves](https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1lHNXZleUFKYndnbmNHNy05VGU2SzduYWwxZDYtWGRlSjV1S01zRW9FRk5QQkptaW5UX2loUHVkT2VpUG1Lbkx3cldxemVoNUxCSVdMQW80cUozalY2OGtXamdfelhoVVRKd1pheWFzZ2hObWdBMUdJYW1IaHZSX2VxOEFrdHlZRHBKOG12c1cyTlBCUjhzbVBGNXBzU0Zrd19uLTh0RV9WX3hW0gGyAUFVX3lxTE9sX0Fsc094clBxeVc5LTJIWWItX1hvV04tYWU5a1c4YUZMVzFKRmhkalBDZmpld3QzcHJUS0RKNEZhV3J6Ti1LNENLeFhOUU9HVllZaEs3dndLbFdubjROckgxTUxSaXJJRG1KVnVDRGJEMXFocXU4RVZFYjkza0gwVEVJNjFxUEpwV2RXSTFQM1lhdDlwOXpqYUhaQlRjc2UxYlRmVThxaHJsSWFQOUlVSWc?oc=5)
-
-2026-10-29 <span class="news-indication-tag">ictus</span>
-
-Source: [Ideal](https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1lHNXZleUFKYndnbmNHNy05VGU2SzduYWwxZDYtWGRlSjV1S01zRW9FRk5QQkptaW5UX2loUHVkT2VpUG1Lbkx3cldxemVoNUxCSVdMQW80cUozalY2OGtXamdfelhoVVRKd1pheWFzZ2hObWdBMUdJYW1IaHZSX2VxOEFrdHlZRHBKOG12c1cyTlBCUjhzbVBGNXBzU0Zrd19uLTh0RV9WX3hW0gGyAUFVX3lxTE9sX0Fsc094clBxeVc5LTJIWWItX1hvV04tYWU5a1c4YUZMVzFKRmhkalBDZmpld3QzcHJUS0RKNEZhV3J6Ti1LNENLeFhOUU9HVllZaEs3dndLbFdubjROckgxTUxSaXJJRG1KVnVDRGJEMXFocXU4RVZFYjkza0gwVEVJNjFxUEpwV2RXSTFQM1lhdDlwOXpqYUhaQlRjc2UxYlRmVThxaHJsSWFQOUlVSWc?oc=5)
 
 ---
 
@@ -93,17 +117,9 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFRw
 
 ### [This 2-min test could save you from stroke as HALF caused by 'silent' condition - The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTFB0cHVra19tZGMtQlUxS2hqYjE5U0I1MTV1bDRxNVNRZUNBWE9TZll2WGhUUjRCTlJKQk5iT1ZEbFJJUTFON0R0azE5Z3pjUmJlV1poNVJJeU1xN3pvZHF0QmUycEEzcG9fZ3RfWUU2bm00NEk2aDZseg?oc=5)
 
-2026-10-29 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
+2026-10-29 <span class="news-indication-tag">stroke</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTFB0cHVra19tZGMtQlUxS2hqYjE5U0I1MTV1bDRxNVNRZUNBWE9TZll2WGhUUjRCTlJKQk5iT1ZEbFJJUTFON0R0azE5Z3pjUmJlV1poNVJJeU1xN3pvZHF0QmUycEEzcG9fZ3RfWUU2bm00NEk2aDZseg?oc=5)
-
----
-
-### [SINGLE-AF-Studie: 69 Prozent weniger kombinierte Ereignisse mit DOACs](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeFdEbGlpOU5NV1gwVEpWT1pxRUJuRUY0MkI0eUp3Z0puU1l2VmppeHViMWNQU2daajN2R0ZVOTFLQjBhN1lJeUpuczdfaFBfNHJWWEhHSjdfOXQxZFItSWhyaXotZy03NGNnOVNyZ2JrOEhURjdUSkdfaC1TTWVhN0hVcGpUNHBrLUxqeFd0WWhRWkYwVFNIVDdtSlV6cDJ1YVBQZ2U0aWkzT1ZkRlk4VnplMDFma2ND?oc=5)
-
-2026-10-29 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeFdEbGlpOU5NV1gwVEpWT1pxRUJuRUY0MkI0eUp3Z0puU1l2VmppeHViMWNQU2daajN2R0ZVOTFLQjBhN1lJeUpuczdfaFBfNHJWWEhHSjdfOXQxZFItSWhyaXotZy03NGNnOVNyZ2JrOEhURjdUSkdfaC1TTWVhN0hVcGpUNHBrLUxqeFd0WWhRWkYwVFNIVDdtSlV6cDJ1YVBQZ2U0aWkzT1ZkRlk4VnplMDFma2ND?oc=5)
 
 ---
 
@@ -117,17 +133,9 @@ Source: [Belfast Telegraph](https://news.google.com/rss/articles/CBMi5AFBVV95cUx
 
 ### [The surprising factors that increase your stroke risk in midlife - The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFJQVVZGRDNMRGlBVDIxZE9uUU5KYkVNM3BlWEhDZFV2NUwzRFo0TEs5QlRUTVYyWWI3Y1p2R3gweVRhZEdxc1NRWG5najk1Qnp6WG53ZkpzSDk2SDNTenRlU1lRZmFDalFQR1BjY3l5Tm4zNnpnUWZHMTV2N195bnZyQmNwTGUzOXVKUUtlUWQ5WjNlVS1QNG9FMll4Q0x1NkJTTTR0N3ItNEpXcC1tUTRNbFc?oc=5)
 
-2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-29 <span class="news-indication-tag">stroke</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFJQVVZGRDNMRGlBVDIxZE9uUU5KYkVNM3BlWEhDZFV2NUwzRFo0TEs5QlRUTVYyWWI3Y1p2R3gweVRhZEdxc1NRWG5najk1Qnp6WG53ZkpzSDk2SDNTenRlU1lRZmFDalFQR1BjY3l5Tm4zNnpnUWZHMTV2N195bnZyQmNwTGUzOXVKUUtlUWQ5WjNlVS1QNG9FMll4Q0x1NkJTTTR0N3ItNEpXcC1tUTRNbFc?oc=5)
-
----
-
-### ['I couldn't move, walk or talk after my stroke'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
-
-2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
 
 ---
 
@@ -168,22 +176,6 @@ Source: [iSanidad](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFl2YTZB
 2026-10-28 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
 
 Source: [Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXNrazJSakdTeFM1TnRHREFRWElrdDVGOFhQdWh0T3VQVy1UUnhGXzBEMWE0RXBLZEhCQ2ZlS203WU8xZk1ndFhZdFFCNTViUGx5a2Rjay1ybkNZOE9oekxzMnlxOE4ycWhLZUhUckVPMXNRS3NNUlZpZ2lGTGVDRDA2Y1BLaU1BM2hKdHg4X20wNUxKUjY1N3VmZ29OeEY5N3Q1OGNtbHFkcHE0MUp5eFdybFQ1c0dSZzZ4VTQyN21FR3pIbE5YLVVKTFQ4ekdjZmFIenBoUDNRSnNJaEE?oc=5)
-
----
-
-### [Investigadores se apoyan en la IA para prevenir ictus en mujeres mayores - Redacción médica](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOVotZnpkQnEyNFlEa1EwaVJ3WDJ4LUJiaWFoT010aTNVRlZGczhxM3VOWFdjaVhaV21sd2phRFk5ZU9OOE1UMnFabjJzRENscF82NEtrRzdBSmRSdkNUWXlsalRjYkMtMXhsbnFyYVYzWFpMWlpBWi11ZVc1SHRGTDQ2dVVfaW5hbFpERWFBTDFFUm1LdkdzR0V0QnhWT1ZLaXBNakpacW81Tkk3V2xQb0I4UFdnX3NNNzRLbEYyMXdRSzZmS094c2Yzd1JfVVQ2eVVIUVE2UG9IY3dlMmfSAeMBQVVfeXFMTVdTUlBkWlBVUVRjSWRlRzNJdV9nWDlaNmYzdU9EYnJVWUdOTHBMaGV5X3FndXBDMFNkUUMtTnlWbEM0X25zc3ZjX0tScG42d1JuNndrdWJtQ0FUN1lTQ3RVVGlfQTQzTmt2eldlTGFCSEI1elRwbE52dW5wbHB1RVY0VHo1QzZlWTFkeGZxY2Y5V2hMeWVoaWV0NmF6WDZDZXN5b1hDZndBNUhWbUN2OWNsbzNVNlpUVVc4T0ZLNUliYzdDM2twX2ZzeUhNcDhmQ3d1N29XcF9JRlE3Q2pSWWdVak0?oc=5)
-
-2026-10-28 <span class="news-indication-tag">ictus</span>
-
-Source: [Redacción médica](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOVotZnpkQnEyNFlEa1EwaVJ3WDJ4LUJiaWFoT010aTNVRlZGczhxM3VOWFdjaVhaV21sd2phRFk5ZU9OOE1UMnFabjJzRENscF82NEtrRzdBSmRSdkNUWXlsalRjYkMtMXhsbnFyYVYzWFpMWlpBWi11ZVc1SHRGTDQ2dVVfaW5hbFpERWFBTDFFUm1LdkdzR0V0QnhWT1ZLaXBNakpacW81Tkk3V2xQb0I4UFdnX3NNNzRLbEYyMXdRSzZmS094c2Yzd1JfVVQ2eVVIUVE2UG9IY3dlMmfSAeMBQVVfeXFMTVdTUlBkWlBVUVRjSWRlRzNJdV9nWDlaNmYzdU9EYnJVWUdOTHBMaGV5X3FndXBDMFNkUUMtTnlWbEM0X25zc3ZjX0tScG42d1JuNndrdWJtQ0FUN1lTQ3RVVGlfQTQzTmt2eldlTGFCSEI1elRwbE52dW5wbHB1RVY0VHo1QzZlWTFkeGZxY2Y5V2hMeWVoaWV0NmF6WDZDZXN5b1hDZndBNUhWbUN2OWNsbzNVNlpUVVc4T0ZLNUliYzdDM2twX2ZzeUhNcDhmQ3d1N29XcF9JRlE3Q2pSWWdVak0?oc=5)
-
----
-
-### [Update zum Post-Stroke-Delir: Pathogenese und Langzeitoutcome - mgo medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWF9qTTZBMHFyazRmWDctMzhtUG1YRVJ6NE05S1A0V3RvRlBEMFZ4VDlQTFhmZWZUUndLN2lCUXJDRy0wM05teWF0Y1hDZ0xDM2lGYWw3el9uRU9wXzZOeHMxNXcxRFVHUHNCa1dZRDlmZ2JGV0RXRVF1ajZvcmlwSzZRWnhyYzJOMlEtZW4tTS1jX01WbHVGYUNVRm5lQzN1U0xZ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">stroke</span>
-
-Source: [mgo medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWF9qTTZBMHFyazRmWDctMzhtUG1YRVJ6NE05S1A0V3RvRlBEMFZ4VDlQTFhmZWZUUndLN2lCUXJDRy0wM05teWF0Y1hDZ0xDM2lGYWw3el9uRU9wXzZOeHMxNXcxRFVHUHNCa1dZRDlmZ2JGV0RXRVF1ajZvcmlwSzZRWnhyYzJOMlEtZW4tTS1jX01WbHVGYUNVRm5lQzN1U0xZ?oc=5)
 
 ---
 

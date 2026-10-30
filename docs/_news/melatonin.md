@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>6 news articles</strong>, with 0 predicted indications.
+<strong>Melatonin</strong> currently has <strong>5 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,13 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
-### [Typ-2-Diabetes: Zwölf Wochen Training und Diät führten bei 50 Prozent zur Remission](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVZ2eWdYVEhaOWJtbnlWQnZvcjJHbG5aX2YwNk5NWEdQTUliZ2NCckE4dFFtSmNkUGV2N2FGRk1oZl9xbnpuSjdFcmtRYnZXYUQ5X1JOcVZiTnRNc2FtTG40TVRMZU1KZHpRR2xHQU1pT3doQnY4Nm5odXBYWnF4V3plTEpRbkdMZk9uLS1ZczhHTmZ6WVJCVERMMlRUM09YMnYwam9FOVN6NERRWDhlcWtQLUJuZzVlSXNQcEVsaW4zbVZDdFhISEpYeWM2dnc?oc=5)
+### [UK government’s obesity plan ‘doomed to fail’, MPs warn - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
 
-2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-10-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVZ2eWdYVEhaOWJtbnlWQnZvcjJHbG5aX2YwNk5NWEdQTUliZ2NCckE4dFFtSmNkUGV2N2FGRk1oZl9xbnpuSjdFcmtRYnZXYUQ5X1JOcVZiTnRNc2FtTG40TVRMZU1KZHpRR2xHQU1pT3doQnY4Nm5odXBYWnF4V3plTEpRbkdMZk9uLS1ZczhHTmZ6WVJCVERMMlRUM09YMnYwam9FOVN6NERRWDhlcWtQLUJuZzVlSXNQcEVsaW4zbVZDdFhISEpYeWM2dnc?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
 
 ---
 
@@ -45,14 +45,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZV
 2026-10-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
 Source: [Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOX0puZjlnUktfMktTclh3bUtMdUxfM1AydzFVVGNYcFFWaXFsSzVlLTZNakhrQVZBSXV6TXpkUkVoa2sxQlh4NEJrcFRXZV9xYmg3bTJBS1NKU21pczgzcFZiOHN3NWpaOHZPRGRNcGs3NzdhMjlJT0k0N09pOUdmOTlrS3V4bFlvTGo1TjBrN0Y0UnVJQTR2TlM2d1k5ajgzVFVTQU9STWpad1drT2duVFJ6ZlItb2NHaElWZFNrVU5wVTNlUFpieVdaMVdFVElGS0FRbV94RENBdUlDQjBfMURfT0VLQS1fRTJ4cmZEdlowT2g1UmtfQklabVVJZTlSWWlZ?oc=5)
-
----
-
-### ['I couldn't move, walk or talk after my stroke'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
-
-2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
 
 ---
 

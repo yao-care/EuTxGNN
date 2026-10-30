@@ -50,6 +50,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUGNO
 
 ---
 
+### [La depresión eleva un 81% el riesgo de mortalidad general y un 101% el cardiovascular - La Voz de Madrid](https://news.google.com/rss/articles/CBMixwFBVV95cUxPU244OGx5Q05QVWgxeUNtdGQ3N2VlWnR0STl4N290YWp3dXhNS3liVldqbDE5TXRZVmc4b25JbTZqY24wMm4tMzNyelFHV0xYeEV0M2FYUWJoUXVzRnktRVd0SnhUSEVNQVVBTjU0NHVhRVh5czl1NFhFdWI2WGpNQlFJVGRWZVlEbTFMZXYxZXBqVjZ1Sk93VG40Zm04SC1HUk9WOXhrVm5nNHhTcGI4QlNIU29JSmdYRE82dDdWdTYweE41Y0JZ?oc=5)
+
+2026-10-29 <span class="news-indication-tag">depresión</span>
+
+Source: [La Voz de Madrid](https://news.google.com/rss/articles/CBMixwFBVV95cUxPU244OGx5Q05QVWgxeUNtdGQ3N2VlWnR0STl4N290YWp3dXhNS3liVldqbDE5TXRZVmc4b25JbTZqY24wMm4tMzNyelFHV0xYeEV0M2FYUWJoUXVzRnktRVd0SnhUSEVNQVVBTjU0NHVhRVh5czl1NFhFdWI2WGpNQlFJVGRWZVlEbTFMZXYxZXBqVjZ1Sk93VG40Zm04SC1HUk9WOXhrVm5nNHhTcGI4QlNIU29JSmdYRE82dDdWdTYweE41Y0JZ?oc=5)
+
+---
+
 ### [Depression: Ein Präparat mit Lavendelöl überrascht im Vergleich zu Sertralin](https://news.google.com/rss/articles/CBMiswFBVV95cUxPV091TnFPVnlFWVZDTS1wWTBiVGxsYmVlNXBNR3pycUJHem1BZ0FuQU1IRDdVMV8wZjdhZE1PMmFaS1F4cVJCVnA1QkVhZHpmWVo0MWdpLUN2RkFWUmhReDRLNnlUQi1kZjIxSmZUNHdoRmJ4TFRtVVFIdmhFVjZnVUFRTjVRaVk4MnNkMjVIVFRSWWo5YW5XbUlrWkFMZngyMEZJN0N6bEFXOG01N0I4LTI2RQ?oc=5)
 
 2026-10-29 <span class="news-indication-tag">depression</span>
@@ -66,19 +74,11 @@ Source: [Infobae](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTDRLMElER
 
 ---
 
-### [Un estudio vincula la depresión con un 81% más de riesgo de muerte por cualquier causa - Fuentes Informadas](https://news.google.com/rss/articles/CBMitgFBVV95cUxQb1ZKRm9GWlJ4dmlRNnA2SlM4bnctaHRrYlVsOW5meFRxT29ILUlWWk1GMVlfWHVmeGhVeFh6S2NvTktKdVFra19BQlAwQTZRdjh4YllpdFA4aV9OUGZXQmN2UUIyaDhwdXhYUzFFcmVId1pXRzM2OUdMQ1JwbDFHczAyNjF5QXRYTFlfcDFZbHR1dnlqaWxfLTRWUnNYaktUNDVXU0NIckZpcnYyeEZRVXBrTDhDdw?oc=5)
+### [Tired, irritable and craving carbs? Why darker days affect our bodies and brains - The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlBuYWpLc013Y3B4TUxjYTV5dWEtd19tem1zZHBXUDVpOE05WVVydXpjSGQtQVNRRU14RkpITHNJZk40NEFxLWJuQXFLdGh6OEVsajhnenRJaGRvNURPRmJFYmFDb0NPenk2djN5aE92QndORldqT0E2QmlUaGJaWkZVNU5CeDVFSE1sVUdqcnR3aHlIbzJ5cEx6RlJSOHhQdlZROU9hcFprTWs3RUZmVlJaZw?oc=5)
 
-2026-10-28 <span class="news-indication-tag">depresión</span>
+2026-10-26 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [Fuentes Informadas](https://news.google.com/rss/articles/CBMitgFBVV95cUxQb1ZKRm9GWlJ4dmlRNnA2SlM4bnctaHRrYlVsOW5meFRxT29ILUlWWk1GMVlfWHVmeGhVeFh6S2NvTktKdVFra19BQlAwQTZRdjh4YllpdFA4aV9OUGZXQmN2UUIyaDhwdXhYUzFFcmVId1pXRzM2OUdMQ1JwbDFHczAyNjF5QXRYTFlfcDFZbHR1dnlqaWxfLTRWUnNYaktUNDVXU0NIckZpcnYyeEZRVXBrTDhDdw?oc=5)
-
----
-
-### [Cómo cuidar la salud emocional y la alimentación puede ayudar a los pacientes con cáncer](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMjJSdGJFSU85aHhMNEZSOEdiSzRPaXluWTRXbzRXckxncFZwT1lHMUwxY1lUdzVlcWFFcTU0bkJ6WlFzYURtcUpZV0JOQ3dHVUFPOXBPNVBCVzJRRE83TzBlNFVOb3VQSW5NS3BYMkJGSUZ0ZVZncjhrQTBhbUJqYmJkZEN1cENCT0tvUkRJMFVUOEF3bEd4WlBrdmlhZy1OZFdXQXZzN3BmZ9IBrwFBVV95cUxNMWtrdVNqel9HeEJLblZuZDdlLWpMdW5TRXpsbDZyZFBXV3VJdVpTSUhieUpWR3plSTNoMWdwTGtoY0p1a3pCaTQxczdTRUhiX2pZODllRmpRV2hSLXNMVWpyU29EQlhVUE1lQlNIQ2lXYWotdHJhSW5BUUxJLXg5bzJCNGlUVmxxZ08yQnVld0l0N1hNNmE1UHo2TGFsSXUxaUVsN1VQVVFwVHc2MWpF?oc=5)
-
-2026-10-28 <span class="news-indication-tag">depresión</span>
-
-Source: [OkDiario](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMjJSdGJFSU85aHhMNEZSOEdiSzRPaXluWTRXbzRXckxncFZwT1lHMUwxY1lUdzVlcWFFcTU0bkJ6WlFzYURtcUpZV0JOQ3dHVUFPOXBPNVBCVzJRRE83TzBlNFVOb3VQSW5NS3BYMkJGSUZ0ZVZncjhrQTBhbUJqYmJkZEN1cENCT0tvUkRJMFVUOEF3bEd4WlBrdmlhZy1OZFdXQXZzN3BmZ9IBrwFBVV95cUxNMWtrdVNqel9HeEJLblZuZDdlLWpMdW5TRXpsbDZyZFBXV3VJdVpTSUhieUpWR3plSTNoMWdwTGtoY0p1a3pCaTQxczdTRUhiX2pZODllRmpRV2hSLXNMVWpyU29EQlhVUE1lQlNIQ2lXYWotdHJhSW5BUUxJLXg5bzJCNGlUVmxxZ08yQnVld0l0N1hNNmE1UHo2TGFsSXUxaUVsN1VQVVFwVHc2MWpF?oc=5)
+Source: [The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlBuYWpLc013Y3B4TUxjYTV5dWEtd19tem1zZHBXUDVpOE05WVVydXpjSGQtQVNRRU14RkpITHNJZk40NEFxLWJuQXFLdGh6OEVsajhnenRJaGRvNURPRmJFYmFDb0NPenk2djN5aE92QndORldqT0E2QmlUaGJaWkZVNU5CeDVFSE1sVUdqcnR3aHlIbzJ5cEx6RlJSOHhQdlZROU9hcFprTWs3RUZmVlJaZw?oc=5)
 
 ---
 

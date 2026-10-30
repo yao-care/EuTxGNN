@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "high blood pressure (hypertension) News"
+title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about high blood pressure (hypertension). 2 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 2 articles, 55 related drugs."
 permalink: /news/hypertension/
 last_modified_at: 2026-10-30
 ---
 
-# high blood pressure (hypertension) News
+# Bluthochdruck (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
-<strong>high blood pressure (hypertension)</strong> currently has <strong>2 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>2 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “high blood pressure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -62,11 +62,11 @@ This page brings together the latest health news about “high blood pressure”
 
 ## Related News (2)
 
-### [This 2-min test could save you from stroke as HALF caused by 'silent' condition - The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTFB0cHVra19tZGMtQlUxS2hqYjE5U0I1MTV1bDRxNVNRZUNBWE9TZll2WGhUUjRCTlJKQk5iT1ZEbFJJUTFON0R0azE5Z3pjUmJlV1poNVJJeU1xN3pvZHF0QmUycEEzcG9fZ3RfWUU2bm00NEk2aDZseg?oc=5)
+### [Bluthochdruck in Deutschland: 20 bis 30 Millionen betroffen, viele unerkannt](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjFUT0l4eW5vOGpDWXpZZHIwSFVPTFh0TnZQUnc1NXlEbk1ZbHd5bVpvNFpWVEJKbXFsS2p2VUpXNlFIQ2EwcUtRV3R1ZzdhTjRZNDgxMGpOQ1hKNmh1YmIteGVSb1N5a19sR19DMU9MSVJDdkhwMkhUMUQwcHIwQkcxamU3MlpfN0dpOXhMMEtlQm1rM0wwdUVKaVJDakVZS3FpUEYwdTgxeF9GODV0MFJsTHhUZ2UzUXhlNjNyelk?oc=5)
 
-2026-10-29
+2026-10-30
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTFB0cHVra19tZGMtQlUxS2hqYjE5U0I1MTV1bDRxNVNRZUNBWE9TZll2WGhUUjRCTlJKQk5iT1ZEbFJJUTFON0R0azE5Z3pjUmJlV1poNVJJeU1xN3pvZHF0QmUycEEzcG9fZ3RfWUU2bm00NEk2aDZseg?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjFUT0l4eW5vOGpDWXpZZHIwSFVPTFh0TnZQUnc1NXlEbk1ZbHd5bVpvNFpWVEJKbXFsS2p2VUpXNlFIQ2EwcUtRV3R1ZzdhTjRZNDgxMGpOQ1hKNmh1YmIteGVSb1N5a19sR19DMU9MSVJDdkhwMkhUMUQwcHIwQkcxamU3MlpfN0dpOXhMMEtlQm1rM0wwdUVKaVJDakVZS3FpUEYwdTgxeF9GODV0MFJsTHhUZ2UzUXhlNjNyelk?oc=5)
 
 ---
 

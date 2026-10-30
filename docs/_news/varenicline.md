@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Varenicline?">
-<strong>Varenicline</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
+<strong>Varenicline</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ This page combines the AI-predicted indications for Varenicline with the latest 
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [This 2-min test could save you from stroke as HALF caused by 'silent' condition - The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTFB0cHVra19tZGMtQlUxS2hqYjE5U0I1MTV1bDRxNVNRZUNBWE9TZll2WGhUUjRCTlJKQk5iT1ZEbFJJUTFON0R0azE5Z3pjUmJlV1poNVJJeU1xN3pvZHF0QmUycEEzcG9fZ3RfWUU2bm00NEk2aDZseg?oc=5)
+### [Bluthochdruck in Deutschland: 20 bis 30 Millionen betroffen, viele unerkannt](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjFUT0l4eW5vOGpDWXpZZHIwSFVPTFh0TnZQUnc1NXlEbk1ZbHd5bVpvNFpWVEJKbXFsS2p2VUpXNlFIQ2EwcUtRV3R1ZzdhTjRZNDgxMGpOQ1hKNmh1YmIteGVSb1N5a19sR19DMU9MSVJDdkhwMkhUMUQwcHIwQkcxamU3MlpfN0dpOXhMMEtlQm1rM0wwdUVKaVJDakVZS3FpUEYwdTgxeF9GODV0MFJsTHhUZ2UzUXhlNjNyelk?oc=5)
 
-2026-10-29 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
+2026-10-30 <span class="news-indication-tag">Bluthochdruck</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTFB0cHVra19tZGMtQlUxS2hqYjE5U0I1MTV1bDRxNVNRZUNBWE9TZll2WGhUUjRCTlJKQk5iT1ZEbFJJUTFON0R0azE5Z3pjUmJlV1poNVJJeU1xN3pvZHF0QmUycEEzcG9fZ3RfWUU2bm00NEk2aDZseg?oc=5)
-
----
-
-### ['I couldn't move, walk or talk after my stroke'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
-
-2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjFUT0l4eW5vOGpDWXpZZHIwSFVPTFh0TnZQUnc1NXlEbk1ZbHd5bVpvNFpWVEJKbXFsS2p2VUpXNlFIQ2EwcUtRV3R1ZzdhTjRZNDgxMGpOQ1hKNmh1YmIteGVSb1N5a19sR19DMU9MSVJDdkhwMkhUMUQwcHIwQkcxamU3MlpfN0dpOXhMMEtlQm1rM0wwdUVKaVJDakVZS3FpUEYwdTgxeF9GODV0MFJsTHhUZ2UzUXhlNjNyelk?oc=5)
 
 ---
 

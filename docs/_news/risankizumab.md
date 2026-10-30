@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Risankizumab?">
-<strong>Risankizumab</strong> currently has <strong>16 news articles</strong>, with 10 predicted indications.
+<strong>Risankizumab</strong> currently has <strong>19 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ This page combines the AI-predicted indications for Risankizumab with the latest
 <p><a href="{{ '/drugs/risankizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (19)
 
-### [Giornata mondiale della psoriasi, quante persone ne soffrono al mondo - Sky TG24](https://news.google.com/rss/articles/CBMijAFBVV95cUxONWs3NmdVNGkxNmlpVW8zQlBTSHpkV1pteUR3cWI2b2MwNmxQZ2RfbGhYWVhtY0w1bXB5MV9RZUVuLWFGWkljb2E2ZGxfaWxYelNudDR1bFh1WXBqX3A4WFVZMUVhZGJjN0w4NEducmU2VGlsRm5vLTlaTnVEUnEzMzFpLXB4UjhYZ1psdA?oc=5)
+### [Das Diabetes- und Fußzentrum Kösching ist auf schwierige Fälle spezialisiert](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRDRFcGM4WmJaOU1mOEZ4eVlicVQxcHJ0ODRvMmZ2V01seEpzeHpadHRsVFNiYnNDc2o3SG4tX2E5ZDI1dHFkNHZpaE5NWUh6S1R6Ym9mT1Y5UTF1UmZ4Tnd2ekhaT2JCNnFraW10ZVlMRG5NNVI5ZTNrRDZQNXVYOEdYbE9zdHdzWkhTNjVaU0NWdGVoRXBfUVFjcEFyckllR3lubGdOODJ5QlFKaXZKeUJNbjJIUjZxWEdxb0x6aWJUNEtTa1hiRUNsSU9JYzJJUjBBcm1mQmI1Qnc?oc=5)
 
-2026-10-30 <span class="news-indication-tag">soriasi</span>
+2026-10-30 <span class="news-indication-tag">diabetes</span>
 
-Source: [Sky TG24](https://news.google.com/rss/articles/CBMijAFBVV95cUxONWs3NmdVNGkxNmlpVW8zQlBTSHpkV1pteUR3cWI2b2MwNmxQZ2RfbGhYWVhtY0w1bXB5MV9RZUVuLWFGWkljb2E2ZGxfaWxYelNudDR1bFh1WXBqX3A4WFVZMUVhZGJjN0w4NEducmU2VGlsRm5vLTlaTnVEUnEzMzFpLXB4UjhYZ1psdA?oc=5)
+Source: [Donaukurier](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRDRFcGM4WmJaOU1mOEZ4eVlicVQxcHJ0ODRvMmZ2V01seEpzeHpadHRsVFNiYnNDc2o3SG4tX2E5ZDI1dHFkNHZpaE5NWUh6S1R6Ym9mT1Y5UTF1UmZ4Tnd2ekhaT2JCNnFraW10ZVlMRG5NNVI5ZTNrRDZQNXVYOEdYbE9zdHdzWkhTNjVaU0NWdGVoRXBfUVFjcEFyckllR3lubGdOODJ5QlFKaXZKeUJNbjJIUjZxWEdxb0x6aWJUNEtTa1hiRUNsSU9JYzJJUjBBcm1mQmI1Qnc?oc=5)
+
+---
+
+### [Fettleber bei Diabetes: MASLD betrifft bis zu 70 Prozent der Patienten](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXhhMno0MEpJUEp5Tm5RQUNkSE9KY2RkblJaRTlPRWFMaGg2WnFjS0kyb1BEVmYxVDhOVV91TTI1OEpXajhuSi02VW54SEVremZKbDh4QUlkcElOU1djdVdrWkVDMVhLNXU3NE84cWRQNGdvQjZkRWpDcHgtbGh5Y0UxZll0aDJZU1ZoVkszZlRfTWtBaTNGZ1duRzFBZ2t1MzhRVV9IRWIyMlVRWW1KMmpuQnZWWEhKV2c?oc=5)
+
+2026-10-30 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXhhMno0MEpJUEp5Tm5RQUNkSE9KY2RkblJaRTlPRWFMaGg2WnFjS0kyb1BEVmYxVDhOVV91TTI1OEpXajhuSi02VW54SEVremZKbDh4QUlkcElOU1djdVdrWkVDMVhLNXU3NE84cWRQNGdvQjZkRWpDcHgtbGh5Y0UxZll0aDJZU1ZoVkszZlRfTWtBaTNGZ1duRzFBZ2t1MzhRVV9IRWIyMlVRWW1KMmpuQnZWWEhKV2c?oc=5)
+
+---
+
+### [UK government’s obesity plan ‘doomed to fail’, MPs warn - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
+
+2026-10-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
+
+---
+
+### [Experte warnt: „Diabetes bleibt oft jahrelang unbemerkt“](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTE1NOXFOek4xTEppN3JiVHR5S0dWS3I1R1diOWVfOGNBbzRveUhCb2UxQzRLRG5BdWdnMHdjdllzMC13VUVkTDFOanpmQTBQWi00NjJGdVJyT19PallQQ3E5SEpmZFp3ZS0wSlpERFVzcGFsVjFkZk1DUHJsckZRNVRDRDlUNDNiQ0JxVmhWMEhQM1JZZkR2MnRVRlAxSndDM3Y1d1RWSHVTdTJldVN2OGhnQ0hEN2tlNlN5R09vcndsd0hjd3Q5OEVHUHpGQnRf?oc=5)
+
+2026-10-30 <span class="news-indication-tag">diabetes</span>
+
+Source: [Merkur](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTE1NOXFOek4xTEppN3JiVHR5S0dWS3I1R1diOWVfOGNBbzRveUhCb2UxQzRLRG5BdWdnMHdjdllzMC13VUVkTDFOanpmQTBQWi00NjJGdVJyT19PallQQ3E5SEpmZFp3ZS0wSlpERFVzcGFsVjFkZk1DUHJsckZRNVRDRDlUNDNiQ0JxVmhWMEhQM1JZZkR2MnRVRlAxSndDM3Y1d1RWSHVTdTJldVN2OGhnQ0hEN2tlNlN5R09vcndsd0hjd3Q5OEVHUHpGQnRf?oc=5)
 
 ---
 
@@ -62,17 +86,9 @@ Source: [Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ
 
 ### [Typ-2-Diabetes: Zwölf Wochen Training und Diät führten bei 50 Prozent zur Remission](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVZ2eWdYVEhaOWJtbnlWQnZvcjJHbG5aX2YwNk5NWEdQTUliZ2NCckE4dFFtSmNkUGV2N2FGRk1oZl9xbnpuSjdFcmtRYnZXYUQ5X1JOcVZiTnRNc2FtTG40TVRMZU1KZHpRR2xHQU1pT3doQnY4Nm5odXBYWnF4V3plTEpRbkdMZk9uLS1ZczhHTmZ6WVJCVERMMlRUM09YMnYwam9FOVN6NERRWDhlcWtQLUJuZzVlSXNQcEVsaW4zbVZDdFhISEpYeWM2dnc?oc=5)
 
-2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVZ2eWdYVEhaOWJtbnlWQnZvcjJHbG5aX2YwNk5NWEdQTUliZ2NCckE4dFFtSmNkUGV2N2FGRk1oZl9xbnpuSjdFcmtRYnZXYUQ5X1JOcVZiTnRNc2FtTG40TVRMZU1KZHpRR2xHQU1pT3doQnY4Nm5odXBYWnF4V3plTEpRbkdMZk9uLS1ZczhHTmZ6WVJCVERMMlRUM09YMnYwam9FOVN6NERRWDhlcWtQLUJuZzVlSXNQcEVsaW4zbVZDdFhISEpYeWM2dnc?oc=5)
-
----
-
-### [Prädiabetes: Leberfibrose steigt in Florida-Kohorte von 1 auf 6 Prozent](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY05oQ183UG9xTGw1eWNhU0t0VWQycEI5a1JEX0tUWmhCdTYzTTRiOEtlQUhFd3FMdF95NU43aHlIWE1hdGItLVR1TWVBTmNvS09idVlEZjVORThzU3FOdnVsVFEyRVhPbEZjYUQ0Y2F0azZzc21uSTByc21HTGRGaVIzbTVhbnhSZ1piRHBPaUVxa3VxMTA1UDl4T0VyVmRIanpuQ1JnYkltSG5jbnNyZnFHb2Flb1M2TG5qSA?oc=5)
-
 2026-10-29 <span class="news-indication-tag">diabetes</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY05oQ183UG9xTGw1eWNhU0t0VWQycEI5a1JEX0tUWmhCdTYzTTRiOEtlQUhFd3FMdF95NU43aHlIWE1hdGItLVR1TWVBTmNvS09idVlEZjVORThzU3FOdnVsVFEyRVhPbEZjYUQ0Y2F0azZzc21uSTByc21HTGRGaVIzbTVhbnhSZ1piRHBPaUVxa3VxMTA1UDl4T0VyVmRIanpuQ1JnYkltSG5jbnNyZnFHb2Flb1M2TG5qSA?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVZ2eWdYVEhaOWJtbnlWQnZvcjJHbG5aX2YwNk5NWEdQTUliZ2NCckE4dFFtSmNkUGV2N2FGRk1oZl9xbnpuSjdFcmtRYnZXYUQ5X1JOcVZiTnRNc2FtTG40TVRMZU1KZHpRR2xHQU1pT3doQnY4Nm5odXBYWnF4V3plTEpRbkdMZk9uLS1ZczhHTmZ6WVJCVERMMlRUM09YMnYwam9FOVN6NERRWDhlcWtQLUJuZzVlSXNQcEVsaW4zbVZDdFhISEpYeWM2dnc?oc=5)
 
 ---
 
@@ -108,11 +124,11 @@ Source: [L'essentiel](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdUFsM
 
 ---
 
-### [La artritis psoriásica afecta a más de 230.000 personas en España: una enfermedad que va más allá de la piel - Salud a Diario](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzYzcERqSjBsakhsNl92dGxxcFRwaHF6VFBRanBSVWdodUZucWpSZ0tvNU5oVzl5c0VwV1N6VGJVQW5hMWI1MVZLMVJGaEVLaVM2VkppekRyMlhzclpwandyYlM2UVUxYUoxVUVac2MydGhwWlB2SnVGdE9VOEpBMmpiM0dPdmoxUEpwbExoRTBYZ2p1NVU5U2VVcDZNYW4zSExSRDhqNnJTd1J0RVNhZlZFMFZsRHp6ZHprUXJmeC1SVVBSX3ltbGYzeUI5VXptck83ZkNCRFRCcTBhOERR?oc=5)
+### [La artritis psoriásica afecta a más de 230.000 personas en España](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkRDZG5sN1dhWUNyWDR5Rkg3bl8tZTAzZEZPUFl1djVERFNLU25RUlV1aGhnV0Y1WEs3bThSNWhYa29SbTdqckVPZk9CTTJ4ZThJRWV0c0lQaHNsbnNxdjVYR3NYQ3N0T0ZrNUN2cDhwODl3ckJLN2E2OC1GMFRDRGRTdGVyelhxeFJaQVBhdGNpVlBNZGdpbmVIWTRfR2wt?oc=5)
 
 2026-10-29 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">AF</span>
 
-Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzYzcERqSjBsakhsNl92dGxxcFRwaHF6VFBRanBSVWdodUZucWpSZ0tvNU5oVzl5c0VwV1N6VGJVQW5hMWI1MVZLMVJGaEVLaVM2VkppekRyMlhzclpwandyYlM2UVUxYUoxVUVac2MydGhwWlB2SnVGdE9VOEpBMmpiM0dPdmoxUEpwbExoRTBYZ2p1NVU5U2VVcDZNYW4zSExSRDhqNnJTd1J0RVNhZlZFMFZsRHp6ZHprUXJmeC1SVVBSX3ltbGYzeUI5VXptck83ZkNCRFRCcTBhOERR?oc=5)
+Source: [Servimedia](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkRDZG5sN1dhWUNyWDR5Rkg3bl8tZTAzZEZPUFl1djVERFNLU25RUlV1aGhnV0Y1WEs3bThSNWhYa29SbTdqckVPZk9CTTJ4ZThJRWV0c0lQaHNsbnNxdjVYR3NYQ3N0T0ZrNUN2cDhwODl3ckJLN2E2OC1GMFRDRGRTdGVyelhxeFJaQVBhdGNpVlBNZGdpbmVIWTRfR2wt?oc=5)
 
 ---
 
@@ -124,7 +140,7 @@ Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV9
 
 ---
 
-### [Diabetes could give clues to treat cancer - as disease supercharges immune cells - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3p5dXZJRWF6bEgyc19od1Bjd2tuSDhmOVItdENrY3MtRXFEMndaQmJiUjdmZFFCamZnWHhmSlhZYlktMlpsVFFkaHNkNllINGpLWGVzdDU4VXNRaEd5RklITDNVeGFqd2x5MDFzYzRTRzNrRUcyWEpfLWZZMU81cGlWWkpBQ0tzckdR?oc=5)
+### [How diabetes could be the key treating major cancers as disease supercharges immune cells to kill tumours - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3p5dXZJRWF6bEgyc19od1Bjd2tuSDhmOVItdENrY3MtRXFEMndaQmJiUjdmZFFCamZnWHhmSlhZYlktMlpsVFFkaHNkNllINGpLWGVzdDU4VXNRaEd5RklITDNVeGFqd2x5MDFzYzRTRzNrRUcyWEpfLWZZMU81cGlWWkpBQ0tzckdR?oc=5)
 
 2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
 
@@ -137,6 +153,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3p5dXZJR
 2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
+
+---
+
+### [Diabetes-Leitlinien: SGLT2-Hemmer und GLP-1-Therapien früher einsetzen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVFfNjRleHRjMVBCZkhBT0ZndXpvTE42aktGRGgzTXBDbmxpdkxGMDVBT1I3YWtqOHVDQ0RZYzlBOTQ1VGpYemljZ1RmQWtlZzZHZVRXaTdqWVd2R2drT296UENaYUdwdFFvVTRnXzJfODZRT2V2NFlmLXlOOHRZM214NjdOaTYyai1YNlNzZ3dJVGNrN200R1FFNE1PUWx2QzNOUWdxbFFsMVJkaVUzR2dGYndFY3VPaW1Z?oc=5)
+
+2026-10-28 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVFfNjRleHRjMVBCZkhBT0ZndXpvTE42aktGRGgzTXBDbmxpdkxGMDVBT1I3YWtqOHVDQ0RZYzlBOTQ1VGpYemljZ1RmQWtlZzZHZVRXaTdqWVd2R2drT296UENaYUdwdFFvVTRnXzJfODZRT2V2NFlmLXlOOHRZM214NjdOaTYyai1YNlNzZ3dJVGNrN200R1FFNE1PUWx2QzNOUWdxbFFsMVJkaVUzR2dGYndFY3VPaW1Z?oc=5)
 
 ---
 

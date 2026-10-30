@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Rotigotine?">
-<strong>Rotigotine</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
+<strong>Rotigotine</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Rotigotine with the latest h
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (8)
+
+### [Empresas.- MSD anuncia que 'Keytruda' reduce un 43% el riesgo de progresión o muerte en cáncer de endometrio](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZUVCMW5LS19WVGh2NXpUUHZjR3poZGtJZ2RzNGtZSXQ2cnM1eDM1aFVvVlFpUV9ObXVJQ3d5bC05VTJ0WF81alE3TENQVXZBaG5wak5RMXhNYmdsWWVER3c2aU1qV29vd3Fuc2F1WXg5cmFhTUlFeWRXUzVHMU5nMENvdTQzd0JSeXJNQ1pQV3BaXzlURC1xcHJfc29la1hNLTUzX2o5OEowSG1Yc19nX2lVb3dMeFAzb0ZzeTBOOFYzQWhlZWhaVHlLejFHem1ONUxCZ0xGc1ZGeXBnSHc?oc=5)
+
+2026-10-30 <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">MS</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZUVCMW5LS19WVGh2NXpUUHZjR3poZGtJZ2RzNGtZSXQ2cnM1eDM1aFVvVlFpUV9ObXVJQ3d5bC05VTJ0WF81alE3TENQVXZBaG5wak5RMXhNYmdsWWVER3c2aU1qV29vd3Fuc2F1WXg5cmFhTUlFeWRXUzVHMU5nMENvdTQzd0JSeXJNQ1pQV3BaXzlURC1xcHJfc29la1hNLTUzX2o5OEowSG1Yc19nX2lVb3dMeFAzb0ZzeTBOOFYzQWhlZWhaVHlLejFHem1ONUxCZ0xGc1ZGeXBnSHc?oc=5)
+
+---
+
+### [UK government’s obesity plan ‘doomed to fail’, MPs warn - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
+
+2026-10-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
+
+---
 
 ### [Signs your forgetfulness or procrastination is ADHD & 5 other causes of symptoms - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVJsM1JscUUyenRYZG1ZaS1ubFNzdmowVXFZa1ZLWk1TblMxaWh6UENUc3U4MVYwcV9zU3VFWG1QNTNqOU5WRWszX19UcUwwNmZXNTlmZE1aUkFQYVB4UlR1YTh0dEFlMkRsd3FrV25NVmhnTFAxTVFnUmF2eV95NDJSYTdZcmR6MnZoOGRnVEhwbEMtdXc?oc=5)
 
@@ -60,38 +76,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxPLVYwdmFN
 
 ---
 
-### [The surprising factors that increase your stroke risk in midlife - The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFJQVVZGRDNMRGlBVDIxZE9uUU5KYkVNM3BlWEhDZFV2NUwzRFo0TEs5QlRUTVYyWWI3Y1p2R3gweVRhZEdxc1NRWG5najk1Qnp6WG53ZkpzSDk2SDNTenRlU1lRZmFDalFQR1BjY3l5Tm4zNnpnUWZHMTV2N195bnZyQmNwTGUzOXVKUUtlUWQ5WjNlVS1QNG9FMll4Q0x1NkJTTTR0N3ItNEpXcC1tUTRNbFc?oc=5)
-
-2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFJQVVZGRDNMRGlBVDIxZE9uUU5KYkVNM3BlWEhDZFV2NUwzRFo0TEs5QlRUTVYyWWI3Y1p2R3gweVRhZEdxc1NRWG5najk1Qnp6WG53ZkpzSDk2SDNTenRlU1lRZmFDalFQR1BjY3l5Tm4zNnpnUWZHMTV2N195bnZyQmNwTGUzOXVKUUtlUWQ5WjNlVS1QNG9FMll4Q0x1NkJTTTR0N3ItNEpXcC1tUTRNbFc?oc=5)
-
----
-
-### ['I couldn't move, walk or talk after my stroke'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
-
-2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHEyOGYyOUxSblJOVDNmeXRpbk5FLW9JME80eTczeFpLSlExTVRST09veVJZbHFVZk9vcFVOaWN3QmVSNmdBUHU2VEwzTUFsaVVpREU0N08wcm52aWc?oc=5)
-
----
-
-### [Un fármaco experimental reduce un 32% el riesgo de muerte por cáncer de endometrio avanzado](https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFZEZkJCb2FOM1NxNnlLb3o2S0c5MTVpYWxBSjJKWlNsYWJ2Vk1XdjNoT2dwUGVMQVpWeDZtRERrRGxuUFdoc1lWUl9QQ2lSY2xuYVpibWN5ZDh5SW1KQU1QdFE1LXIyZHJmb2I4YXJLWjJ6VTlnc2tsNkhGbHVMRG9HZHBMb0xQdndsbFFzUlBlQkxy?oc=5)
-
-2026-10-29 <span class="news-indication-tag">MS</span>
-
-Source: [Yahoo](https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFZEZkJCb2FOM1NxNnlLb3o2S0c5MTVpYWxBSjJKWlNsYWJ2Vk1XdjNoT2dwUGVMQVpWeDZtRERrRGxuUFdoc1lWUl9QQ2lSY2xuYVpibWN5ZDh5SW1KQU1QdFE1LXIyZHJmb2I4YXJLWjJ6VTlnc2tsNkhGbHVMRG9HZHBMb0xQdndsbFFzUlBlQkxy?oc=5)
-
----
-
-### [These are the 4 most urgent superbugs spreading in the US this winter - The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ3VUaGZrWXJNakNxUVJFNEJjaGxha0tpbU9yQWZvdENBTDM4VXVSeVBFTGkwU1NFVjJETVF0cHR0azdRMm9iY3JSbTBXQllhMjZIZEhGZm42c3VDZy1TdVowMDFxX3l6azJxOFZ6b0dmbjdQeUZWUUxEVUo2b3hBNzItdXhkOS14a1Rkc2ZsRDhOa21tNTBlb1FJdGc?oc=5)
-
-2026-10-28 <span class="news-indication-tag">MS</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ3VUaGZrWXJNakNxUVJFNEJjaGxha0tpbU9yQWZvdENBTDM4VXVSeVBFTGkwU1NFVjJETVF0cHR0azdRMm9iY3JSbTBXQllhMjZIZEhGZm42c3VDZy1TdVowMDFxX3l6azJxOFZ6b0dmbjdQeUZWUUxEVUo2b3hBNzItdXhkOS14a1Rkc2ZsRDhOa21tNTBlb1FJdGc?oc=5)
-
----
-
 ### [‘Ferritin face’: are social media claims about iron deficiency fact – or fiction? - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2J4QmM3eTRVWlNuYVJ4WGJyU3phN1p4WElxREl2TU96TmdpdlRkbzhkdkxJNi1PTmwzWHBjcHJOUlFCYmZQUUE1MzdYcTNlcVJ0QXpaNUt5TUkwNFJZb3o5cm9WaWJYZEswM25YYWVpS3FJRmJGaDN5d1BhckFEZXFWdVRBXzVoSUMyU1BuMHVoSnJqRW5fZ2xXN0RKZw?oc=5)
 
 2026-10-28 <span class="news-indication-tag">MS</span>
@@ -100,19 +84,19 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2J4
 
 ---
 
-### [Lesetipp Heft 10/2026: Warum Abnehmen so schwer ist: Das Gehirn verteidigt das Körpergewicht - ERNÄHRUNGS UMSCHAU -](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbDNZcFd6dHJORjFFVDhQRllvNjVCaVk2WnkyYjB2LWM3SkM2cVBlSGcxeXdrbno0NU5rM0FsUDE4eDhhdEtnTzdKeFFjVDVKVUoyWHFEaWlVUG0yR3h5eHFKSnc3N2xwRE5FeFozZ3dQb1lPVXptVmJKX0I0eDlIOE9aRWlIR2dsMjNpY2ticGtiTUM0QXpHSmZPazUyYlhQYzlsdW84MnA4QQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">MS</span>
-
-Source: [ERNÄHRUNGS UMSCHAU -](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbDNZcFd6dHJORjFFVDhQRllvNjVCaVk2WnkyYjB2LWM3SkM2cVBlSGcxeXdrbno0NU5rM0FsUDE4eDhhdEtnTzdKeFFjVDVKVUoyWHFEaWlVUG0yR3h5eHFKSnc3N2xwRE5FeFozZ3dQb1lPVXptVmJKX0I0eDlIOE9aRWlIR2dsMjNpY2ticGtiTUM0QXpHSmZPazUyYlhQYzlsdW84MnA4QQ?oc=5)
-
----
-
 ### [Healthy Aging Supplement Fails in Large PD Trial](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWml5V2tzQ3VlT0FpNm9ScFVKci1XWkc5WWpvSlF4SWVsTWVLcTFBaXVuY2dUa2dfdm05UXNpM1BrdFYwakdOdjlRd0hjQjFxaFpmY2tvR0xQV2E4M2loVWlWWkU0Mkg0eXFvc1hGSzB5ejgxNk1wd2k2Ui1KWmNjTHdpX0hBaFNWWVNfVTZ6NnhrYTg2NG5HUGYxTFdSUkp4cHh1cnoyWXA?oc=5)
 
 2026-10-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWml5V2tzQ3VlT0FpNm9ScFVKci1XWkc5WWpvSlF4SWVsTWVLcTFBaXVuY2dUa2dfdm05UXNpM1BrdFYwakdOdjlRd0hjQjFxaFpmY2tvR0xQV2E4M2loVWlWWkU0Mkg0eXFvc1hGSzB5ejgxNk1wd2k2Ui1KWmNjTHdpX0hBaFNWWVNfVTZ6NnhrYTg2NG5HUGYxTFdSUkp4cHh1cnoyWXA?oc=5)
+
+---
+
+### [Tired, irritable and craving carbs? Why darker days affect our bodies and brains - The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlBuYWpLc013Y3B4TUxjYTV5dWEtd19tem1zZHBXUDVpOE05WVVydXpjSGQtQVNRRU14RkpITHNJZk40NEFxLWJuQXFLdGh6OEVsajhnenRJaGRvNURPRmJFYmFDb0NPenk2djN5aE92QndORldqT0E2QmlUaGJaWkZVNU5CeDVFSE1sVUdqcnR3aHlIbzJ5cEx6RlJSOHhQdlZROU9hcFprTWs3RUZmVlJaZw?oc=5)
+
+2026-10-26 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlBuYWpLc013Y3B4TUxjYTV5dWEtd19tem1zZHBXUDVpOE05WVVydXpjSGQtQVNRRU14RkpITHNJZk40NEFxLWJuQXFLdGh6OEVsajhnenRJaGRvNURPRmJFYmFDb0NPenk2djN5aE92QndORldqT0E2QmlUaGJaWkZVNU5CeDVFSE1sVUdqcnR3aHlIbzJ5cEx6RlJSOHhQdlZROU9hcFprTWs3RUZmVlJaZw?oc=5)
 
 ---
 

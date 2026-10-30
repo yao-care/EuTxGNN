@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Adipositas (obesity) News"
+title: "obésité (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Adipositas (obesity). 4 articles, 8 related drugs."
+description: "Health news about obésité (obesity). 4 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-10-30
 ---
 
-# Adipositas (obesity) News
+# obésité (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
-<strong>Adipositas (obesity)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obésité (obesity)?">
+<strong>obésité (obesity)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Adipositas” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obésité” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -36,11 +36,11 @@ This page brings together the latest health news about “Adipositas” and list
 
 ## Related News (4)
 
-### [Typ-2-Diabetes: Zwölf Wochen Training und Diät führten bei 50 Prozent zur Remission](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVZ2eWdYVEhaOWJtbnlWQnZvcjJHbG5aX2YwNk5NWEdQTUliZ2NCckE4dFFtSmNkUGV2N2FGRk1oZl9xbnpuSjdFcmtRYnZXYUQ5X1JOcVZiTnRNc2FtTG40TVRMZU1KZHpRR2xHQU1pT3doQnY4Nm5odXBYWnF4V3plTEpRbkdMZk9uLS1ZczhHTmZ6WVJCVERMMlRUM09YMnYwam9FOVN6NERRWDhlcWtQLUJuZzVlSXNQcEVsaW4zbVZDdFhISEpYeWM2dnc?oc=5)
+### [UK government’s obesity plan ‘doomed to fail’, MPs warn - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
 
-2026-10-29
+2026-10-30
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVZ2eWdYVEhaOWJtbnlWQnZvcjJHbG5aX2YwNk5NWEdQTUliZ2NCckE4dFFtSmNkUGV2N2FGRk1oZl9xbnpuSjdFcmtRYnZXYUQ5X1JOcVZiTnRNc2FtTG40TVRMZU1KZHpRR2xHQU1pT3doQnY4Nm5odXBYWnF4V3plTEpRbkdMZk9uLS1ZczhHTmZ6WVJCVERMMlRUM09YMnYwam9FOVN6NERRWDhlcWtQLUJuZzVlSXNQcEVsaW4zbVZDdFhISEpYeWM2dnc?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
 
 ---
 

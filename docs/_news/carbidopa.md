@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Carbidopa?">
-<strong>Carbidopa</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
+<strong>Carbidopa</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Fish Oil Supplements May Not Lower Alzheimer's Risk, Study Finds](https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3oyUmt0b0RVMFJJS05kSHpKYWtTY1hsV0ZkR3FDMXM3UjhDYVlEZzFXanhhUFJMYnBfZk5lS2JHYk1nVi0xS2pMZWZja0w3Z3BBVHlWTVl4SUNTaXljd0dWRFIxMDNlVHo5cmEwSUFETmozZDFfS2xlWlQ4Z3NueDFJVDR5OXRuMEFQOGwtSG9ISF9Fb1pn?oc=5)
 
@@ -45,6 +45,14 @@ Source: [Healthline](https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3oyUm
 2026-10-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWml5V2tzQ3VlT0FpNm9ScFVKci1XWkc5WWpvSlF4SWVsTWVLcTFBaXVuY2dUa2dfdm05UXNpM1BrdFYwakdOdjlRd0hjQjFxaFpmY2tvR0xQV2E4M2loVWlWWkU0Mkg0eXFvc1hGSzB5ejgxNk1wd2k2Ui1KWmNjTHdpX0hBaFNWWVNfVTZ6NnhrYTg2NG5HUGYxTFdSUkp4cHh1cnoyWXA?oc=5)
+
+---
+
+### [7 surprising habits Cambridge experts swear by to slow cognitive decline - BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGZqYUJ1YW5lazk4RS1XTmVnVmc2UWR5cXZGM1ptLVdOejNVc0dscWU1bGxBNlZkMUQ3cE0wRlJrc1JFVG5vS0pIZHFlM0RKWGd2cjRlaGtfcTFIQklfYXJXVGNnUjh1NVItYkV6SDc1N042X3AzVWtpOFZIVFF4UnZJaktkWUhnRWljcWNB?oc=5)
+
+2026-10-24 <span class="news-indication-tag">dementia</span>
+
+Source: [BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGZqYUJ1YW5lazk4RS1XTmVnVmc2UWR5cXZGM1ptLVdOejNVc0dscWU1bGxBNlZkMUQ3cE0wRlJrc1JFVG5vS0pIZHFlM0RKWGd2cjRlaGtfcTFIQklfYXJXVGNnUjh1NVItYkV6SDc1N042X3AzVWtpOFZIVFF4UnZJaktkWUhnRWljcWNB?oc=5)
 
 ---
 
