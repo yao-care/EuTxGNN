@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 319
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Indacaterol: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Maintenance bronchodilator treatment of airflow obstruction in adults…"
 monitor_inn: "Indacaterol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "bronchial disease", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **nephrogenic syndrome of inapp
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 (model prediction only) |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 1 of 3) |
+| Number of Authorizations | 3 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

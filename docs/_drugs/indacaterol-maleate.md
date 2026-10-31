@@ -6,7 +6,7 @@ title: Indacaterol Maleate
 description: "Indacaterol Maleate: known uses and market status in the European Union; currently no new candidate indication"
 parent: Known Uses Only (No New Predictions)
 nav_order: 299
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -22,8 +22,8 @@ evidence_level: N/A
 
 | Item | Value |
 |------|-------|
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 1 of 3) |
+| Number of Authorizations | 3 (valid: 1) |
 | Drug Name | Indacaterol Maleate |
 | DrugBank ID | [DB05039](https://go.drugbank.com/drugs/DB05039) |
 | Brand Names (EU) | Onbrez Breezhaler |
