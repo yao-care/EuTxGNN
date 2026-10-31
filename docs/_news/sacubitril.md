@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Sacubitril. 5 predicted indications."
 permalink: /news/sacubitril/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Sacubitril News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Sacubitril?">
-<strong>Sacubitril</strong> currently has <strong>19 news articles</strong>, with 5 predicted indications.
+<strong>Sacubitril</strong> currently has <strong>20 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Sacubitril with the latest h
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (20)
+
+### [Typ-2-Diabetes: Herzinsuffizienzrisiko liegt bis zu doppelt so hoch](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXpPT256YTdrOUdKWlI5QmROUmZyeWtFQ0xseGVaRjBpMzlGTTNweTlraXRta0V5UGJvcllPdjRNcFlUN0g3bjZSNGc3OWtiR1luTmp2TkpoS2JVTjdlSzl6OGFLN3l2SURHaUMyelR4VnQ4eWlURGVuRThJeEZhNEJ5eldyeWM0OERuYk5uY1o3cjQ0NjVPd0dlWG1fYXJjVlQ1MVQtQXBpQi1YTThVMExOVFNnZw?oc=5)
+
+2026-10-31 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXpPT256YTdrOUdKWlI5QmROUmZyeWtFQ0xseGVaRjBpMzlGTTNweTlraXRta0V5UGJvcllPdjRNcFlUN0g3bjZSNGc3OWtiR1luTmp2TkpoS2JVTjdlSzl6OGFLN3l2SURHaUMyelR4VnQ4eWlURGVuRThJeEZhNEJ5eldyeWM0OERuYk5uY1o3cjQ0NjVPd0dlWG1fYXJjVlQ1MVQtQXBpQi1YTThVMExOVFNnZw?oc=5)
+
+---
 
 ### [Pflanzenextrakte bei Prädiabetes: Große Studie zeigt Blutzuckersenkung](https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDY2eTdvSDdvcThoellROXpwVEFXRzdQNzAzcFJmd1hEaS1UNGpjaDEzV0NsWGtoY3E1VHg2bzhWMHkxZE5TLUJ6X3NvaExMd3RyUnJySklGYmVyb05Fcm52aGloVnhzODN2ZkNwUEJ1dG8tMkNoaGFRRmNhdVBhaGdfMlZLSVJfaHNoeVdIX2NXMUlfbjJQazR2RU1vSGlZN0JkRGZsc1RJdUM3b0M3OEhDSUVtUWtxZHVIS210SEhKNTJDVnlr?oc=5)
 
@@ -60,14 +68,6 @@ Source: [Donaukurier](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRDRFc
 2026-10-30 <span class="news-indication-tag">diabetes</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXhhMno0MEpJUEp5Tm5RQUNkSE9KY2RkblJaRTlPRWFMaGg2WnFjS0kyb1BEVmYxVDhOVV91TTI1OEpXajhuSi02VW54SEVremZKbDh4QUlkcElOU1djdVdrWkVDMVhLNXU3NE84cWRQNGdvQjZkRWpDcHgtbGh5Y0UxZll0aDJZU1ZoVkszZlRfTWtBaTNGZ1duRzFBZ2t1MzhRVV9IRWIyMlVRWW1KMmpuQnZWWEhKV2c?oc=5)
-
----
-
-### [Psoriasis-Arthritis: Diagnose dauert oft vier bis fünf Jahre](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
-
-2026-10-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
 
 ---
 
@@ -95,6 +95,14 @@ Source: [iSanidad](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSzFUNnN3
 
 ---
 
+### [Identifican una posible diana terapéutica para combatir la osteoartritis - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTktDUFlTcFpDeUwtQXo3ZXE2OTlzSUV5V0xsbXJWbVNGc3lsUXBMcEw3bGZFbEZ1enB5ZFdkNF9UQWRDUjNYLVNKSGZIZ01VV3RYS3UtZjROSERoZkpnM3ZkV0hHX0cwY3VUOTZZeWJjUTgtSUQxQUZNZXRmdk1LOElxOHpWalNTMUc1WVZsY3kyOFFqVGhfdV9vLTRJRkcySWtHSXVrMVg0ajdEWDZiV3hkNlpCTmFPd0JtQ25ZdFYtUdIBvAFBVV95cUxOZ1ZLMnlySjY1UUlIQ3BEcWdQZmlwYXBlMmdWVE5Jb0wxYXZENmlYeDliZWczSTJnR0M3VExlTTh1WUFzX2xFOFRBdTEyaXJLdG1LMHJRWXRUWU05ME50NmZTXzFuaGZFa1JwTzl0TDdKREk2U1k3ZmlVMnVqX0Q5ajY3R0RuUXgtT0pfQVhLUnRGTmtkMFhZT0NZa0UyMUwwYlMxaG1wX2piRk9haGVERG1GOVRjeDllM2Z0Yg?oc=5)
+
+2026-10-29 <span class="news-indication-tag">artritis</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTktDUFlTcFpDeUwtQXo3ZXE2OTlzSUV5V0xsbXJWbVNGc3lsUXBMcEw3bGZFbEZ1enB5ZFdkNF9UQWRDUjNYLVNKSGZIZ01VV3RYS3UtZjROSERoZkpnM3ZkV0hHX0cwY3VUOTZZeWJjUTgtSUQxQUZNZXRmdk1LOElxOHpWalNTMUc1WVZsY3kyOFFqVGhfdV9vLTRJRkcySWtHSXVrMVg0ajdEWDZiV3hkNlpCTmFPd0JtQ25ZdFYtUdIBvAFBVV95cUxOZ1ZLMnlySjY1UUlIQ3BEcWdQZmlwYXBlMmdWVE5Jb0wxYXZENmlYeDliZWczSTJnR0M3VExlTTh1WUFzX2xFOFRBdTEyaXJLdG1LMHJRWXRUWU05ME50NmZTXzFuaGZFa1JwTzl0TDdKREk2U1k3ZmlVMnVqX0Q5ajY3R0RuUXgtT0pfQVhLUnRGTmtkMFhZT0NZa0UyMUwwYlMxaG1wX2piRk9haGVERG1GOVRjeDllM2Z0Yg?oc=5)
+
+---
+
 ### [Fegato grasso, 2 milioni di italiani potrebbero non sapere di averlo](https://news.google.com/rss/articles/CBMijgJBVV95cUxNb1dDeGZwWXRiVk1Ibkh6RmVlNXlJMUVaaWFrb05QaUEzZlV4enFCMENXVUhzYl9aSWNtWXphNVR6Z0dxWDhxMUtpaXRtcnNLQUN0TnlDSzhmTGJFbV9OOERYVWVNeFhENWNvOUJsRXhTWlNzSFlTWG5JNTdtLXlDSnN6SlU3bVFISzRmM2dLWWsxTDBRYnl6OU1yamx6anFaN1NKaHk0Qy10eTdhMlpEaVZmOXJ2YldObGlLb21Hb0tXMjVxcFloNUh0aUpXOVMya19nZlN0TFJ1WDhrU3pLQ0R0ZVZxWkxYYmJtUE1rcU9wSk1XWmhRVVRXZDRuOUdGZzllTTltUWdHOWctUXfSAZMCQVVfeXFMTW1LZmNNMjZqamRCMTFSTWNFVTF3Tk41QVhHeEJ5cHhEVTFpNzdxSU1CWVFWaFh6TVQ2dXN0NFBmZTVrZjg5Nk9GLUhYaXhSU19FN2Fvb3hwWFdGRGZVaHQ4STdOSjc3bE5ZdWdXQU1DdmpHUXBEM29JOHRycWtTNVpqWGxhU2w1eFFPUWQwWHhYM04zSGxNRE1sTXBlMi1XYkx6VUphQXBLMUFXLXkzYXlUVUYxQzg1VkF6dDV3Vzh2Um8yaDJJa0tUcHIzcDhKaGhMTFQtUTJoNlZOdW93MDcyT1owalpsek5Zd3paeTJMRjJVTUZCckxyVzc2NDU5RzVjVzNZTFlIWGRVMm9ubnJZdTg?oc=5)
 
 2026-10-29 <span class="news-indication-tag">diabetic</span>
@@ -119,11 +127,11 @@ Source: [transkript.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNVk
 
 ---
 
-### [Psoriasisarthritis: Kombinationstherapie erreicht bei 31,7 Prozent Doppelziel](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hXYjI2dlAya0NyVV9fVV9NS3h3Rkk1NVVtakloTk1nTUdrNnpCcjJmNjZ3WGRYWUtmaU1CdDhYVm50ZENwWE5KTmRNYkFhWHBKRzNNWlVKU0U2SEljWmVBNl9fMDJUNnNMeUZudDJkM2ZwYkZ2T3B1QndmalRnYkM1TzNRSzY5RlFYdm9DVnY4RnV5YzI1ellBTnNMcEdqUVJpd0k3UWFWU0JpaGw0RG5rYmprVTYzcWdoRG5FaHBHdWc?oc=5)
+### [Psoriasisarthritis und Adipositas zusammen behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHY0UHNSUTM3VUlLWG5TX1VRekZSc09mUmktOGJxaGRuU3pibFhtbms5TEpoWFpnSG9xWlQ3YXgxbnJXc0x4NUxOZEI1YzhHQW9QQklLbzRhcWU2TlhRbHIzYWxCMlRubVdrOXJSN3k3RmxaZzY0Z2RIWUZpY2R0WEdEdmsxSzNNWGtSZXZmYlIxRHJTbXdKcmozd1V5cmJWV1gwajd3?oc=5)
 
-2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hXYjI2dlAya0NyVV9fVV9NS3h3Rkk1NVVtakloTk1nTUdrNnpCcjJmNjZ3WGRYWUtmaU1CdDhYVm50ZENwWE5KTmRNYkFhWHBKRzNNWlVKU0U2SEljWmVBNl9fMDJUNnNMeUZudDJkM2ZwYkZ2T3B1QndmalRnYkM1TzNRSzY5RlFYdm9DVnY4RnV5YzI1ellBTnNMcEdqUVJpd0k3UWFWU0JpaGw0RG5rYmprVTYzcWdoRG5FaHBHdWc?oc=5)
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHY0UHNSUTM3VUlLWG5TX1VRekZSc09mUmktOGJxaGRuU3pibFhtbms5TEpoWFpnSG9xWlQ3YXgxbnJXc0x4NUxOZEI1YzhHQW9QQklLbzRhcWU2TlhRbHIzYWxCMlRubVdrOXJSN3k3RmxaZzY0Z2RIWUZpY2R0WEdEdmsxSzNNWGtSZXZmYlIxRHJTbXdKcmozd1V5cmJWV1gwajd3?oc=5)
 
 ---
 
@@ -135,19 +143,27 @@ Source: [Servimedia](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkRDZG
 
 ---
 
-### [Descubren una nueva vía para frenar la inflamación de la artritis](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWx1RjhUVi1yT0loa29QUkZlZHZXMTNxZVllMk9wUmEtalhMS1paN3BzNlJJTlpnR202QjBBVFNCcGVqbmpCT1lCTkRjRm1Zc3p5S1JzampOOXZyQVVMVGNsNGNhVHRzNEQ4ZEk2VGNyb3pSMV9yN1FQRkNFdjN2MjJOOUFfYmZGTmNaN2ExTjhDZzFMdml1QmxNa3ZoaEYyckR6bFFoN3hzSVVQOEZncHppbUowMHpPajFsdEt3?oc=5)
+### [Diabète : cet implant révolutionnaire pourrait éliminer une partie du sucre en excès dans le sang](https://news.google.com/rss/articles/CBMikgFBVV95cUxPS2Q2OTlPa2dJWmxSTGZ5RzYwV0U1YXV3SzNoLXQ5b0hXQUxScE5hSDlEYTQ2ZDJ3cUFSVDZzODVGdjJxQ2p1OVEzTFhBeW1ZelBabGMycVduSEpDVTBFNFphNHI4cUlWVWpFZUV4NXJoU2pqeGlNZE1mVF8yczJpM3QxTFhVanpsMGU4cUp4a3ZSZw?oc=5)
 
-2026-10-29 <span class="news-indication-tag">artritis</span>
+2026-10-29 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWx1RjhUVi1yT0loa29QUkZlZHZXMTNxZVllMk9wUmEtalhMS1paN3BzNlJJTlpnR202QjBBVFNCcGVqbmpCT1lCTkRjRm1Zc3p5S1JzampOOXZyQVVMVGNsNGNhVHRzNEQ4ZEk2VGNyb3pSMV9yN1FQRkNFdjN2MjJOOUFfYmZGTmNaN2ExTjhDZzFMdml1QmxNa3ZoaEYyckR6bFFoN3hzSVVQOEZncHppbUowMHpPajFsdEt3?oc=5)
+Source: [PasseportSanté](https://news.google.com/rss/articles/CBMikgFBVV95cUxPS2Q2OTlPa2dJWmxSTGZ5RzYwV0U1YXV3SzNoLXQ5b0hXQUxScE5hSDlEYTQ2ZDJ3cUFSVDZzODVGdjJxQ2p1OVEzTFhBeW1ZelBabGMycVduSEpDVTBFNFphNHI4cUlWVWpFZUV4NXJoU2pqeGlNZE1mVF8yczJpM3QxTFhVanpsMGU4cUp4a3ZSZw?oc=5)
 
 ---
 
-### [Adipositas und Typ-1-Diabetes: Operation schlägt Medikamente bei Gewichtsverlust](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
+### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
 
-2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
+Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Operation erreicht 58 Prozent Remission, Medikamente nur 3](https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0I3WmM4VUh2TGkzTmhhdk9FNTN3RGpIT1ZQTmxEYnpYTndpc04wZEJnRGNUcFpDcEg4MHcxRGRNU2tieUZaTnVRQXJRNGd3cFN1QkxsR05tY0pJaDl5UzZubWE1NHItS09hLWtueDhHazd4VGFSNjVoVHJWOVVReS1tV3RoRlkteDBwbDVIRWdGakxCTTRnNXhZZEdoZDRBWk5OWmZPSjhsXzdVdUZlRVpzdmNpLUlLLXh3SHZn?oc=5)
+
+2026-10-29 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0I3WmM4VUh2TGkzTmhhdk9FNTN3RGpIT1ZQTmxEYnpYTndpc04wZEJnRGNUcFpDcEg4MHcxRGRNU2tieUZaTnVRQXJRNGd3cFN1QkxsR05tY0pJaDl5UzZubWE1NHItS09hLWtueDhHazd4VGFSNjVoVHJWOVVReS1tV3RoRlkteDBwbDVIRWdGakxCTTRnNXhZZEdoZDRBWk5OWmZPSjhsXzdVdUZlRVpzdmNpLUlLLXh3SHZn?oc=5)
 
 ---
 
@@ -164,14 +180,6 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2dCbGlS
 2026-10-28 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
 
 Source: [Irish Mirror](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkVBejNRSjMxVTJVdDlySFNZYmdLZGJLdjJIOVd5Si1XQlhlZjBqeDVUMW1lMDVXMXF2UWRlUHY3Z3o1Z19SYy1Bd0lhZERNQ01lTnNDaW1ibVVWN1ZiTUtqdV9NcXQ4VmZUc1FFZGRxZVlQY1QzUlVwcXFWUGVaNUdKeXBVNGxQNWtUS2I0UmQ4NGtyRzBzMy1HMnZWamRHZnfSAacBQVVfeXFMTWk1cWxSdXgwS0lTeHpQWTFNQ3BGRjJySDFFSnRsY19NcGdURXI4bmktb1NIbS14Zm0tSmhrd1FDcXIwRzRodWN6Z2dOZW41X044bDc2WFA1V2VadzVwLTQxb3hqTWlEdS1zY01kSzNlenkwU2RlTWZVOXJzYUw3eWJaa2thckk1YlRtak9XcDEwelg1MXU1SVpyTkVTdkVYYkxxOWI0dmc?oc=5)
-
----
-
-### [Kardiometabolische Therapien bei Lebererkrankungen](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnhSNXlPZ0NjUnhHTTA3ZGFMdVh4YkJyYjlVUmRNZFVHVlNLb1JDRGpKYkRoYmpUTFl4Ty1zUEZwdmZudEo3ckFJeGZCeFdkbDd0UzNMbzRuUEtScnVZQUhkaTFrSkNqSGF2d3hyUE9tU0FoRWJ6ZWRvSFVJOUtHLWRuanhkWlVpY2VTUHkyNmhKeFFwR29US1gyVGQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">diabetes</span>
-
-Source: [medonline](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnhSNXlPZ0NjUnhHTTA3ZGFMdVh4YkJyYjlVUmRNZFVHVlNLb1JDRGpKYkRoYmpUTFl4Ty1zUEZwdmZudEo3ckFJeGZCeFdkbDd0UzNMbzRuUEtScnVZQUhkaTFrSkNqSGF2d3hyUE9tU0FoRWJ6ZWRvSFVJOUtHLWRuanhkWlVpY2VTUHkyNmhKeFFwR29US1gyVGQ?oc=5)
 
 ---
 

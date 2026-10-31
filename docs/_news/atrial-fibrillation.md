@@ -3,9 +3,9 @@ layout: default
 title: "AF (atrial fibrillation) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about AF (atrial fibrillation). 31 articles, 39 related drugs."
+description: "Health news about AF (atrial fibrillation). 30 articles, 39 related drugs."
 permalink: /news/atrial-fibrillation/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # AF (atrial fibrillation) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about AF (atrial fibrillation)?">
-<strong>AF (atrial fibrillation)</strong> currently has <strong>31 news articles</strong> and 39 related drugs.
+<strong>AF (atrial fibrillation)</strong> currently has <strong>30 news articles</strong> and 39 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,29 @@ This page brings together the latest health news about “AF” and lists the dr
 </ul>
 </div>
 
-## Related News (31)
+## Related News (30)
+
+### [Family of girl, 5, who died after being sent home from A&E given compensation by hospital - Manchester Evening News](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNmNyNFlZbkY4UG1BVDJ6RkpMVGgyQzdSSmxtQlhJZ21PQjNER1hvSHBVVmVlbWxRSDdFQ0NKSGhfLXNOZDF2SE1GSWlpcDVVSTJpdS1Ldi13VWRKMjNBMnF6SkRaQkVTR0NOSjljM3NYcndZMlNnRzlFX1AyTzZ1d3I2R0tNQ2ZzMFFwa0tpY19SVDJaTmNNcE1UWWJ6Um1sYlHSAacBQVVfeXFMUE05aHdxbFFCNjhuS3VlSmdfOVF4Q1lHbFFlTm5sZEMtNmxQX3ZBTzVRN1VydEhIMHd2c1VoOXFPX3NOSm4ySlRHckF5UmRZT0w3MFIwTDNnYUxFOWZVRW1iS3BTSUJPWTJiYWNMM2JBMTh6VHF4WUN3bmtGRjZjMTdrbnR1cTlfZjd1NV9LQmUwV3FnQVhnbjE4RGMxVlVycVhST2tIaDQ?oc=5)
+
+2026-10-30
+
+Source: [Manchester Evening News](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNmNyNFlZbkY4UG1BVDJ6RkpMVGgyQzdSSmxtQlhJZ21PQjNER1hvSHBVVmVlbWxRSDdFQ0NKSGhfLXNOZDF2SE1GSWlpcDVVSTJpdS1Ldi13VWRKMjNBMnF6SkRaQkVTR0NOSjljM3NYcndZMlNnRzlFX1AyTzZ1d3I2R0tNQ2ZzMFFwa0tpY19SVDJaTmNNcE1UWWJ6Um1sYlHSAacBQVVfeXFMUE05aHdxbFFCNjhuS3VlSmdfOVF4Q1lHbFFlTm5sZEMtNmxQX3ZBTzVRN1VydEhIMHd2c1VoOXFPX3NOSm4ySlRHckF5UmRZT0w3MFIwTDNnYUxFOWZVRW1iS3BTSUJPWTJiYWNMM2JBMTh6VHF4WUN3bmtGRjZjMTdrbnR1cTlfZjd1NV9LQmUwV3FnQVhnbjE4RGMxVlVycVhST2tIaDQ?oc=5)
+
+---
 
 ### [Un estudio cartografía cómo se propaga el virus del herpes en la piel](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTdybGVham0wOVhEMUNaTFF6VlJVRnNNdDc4dUVtRmlKUXd2QVJlUHBxVjRkOUVaVzcyeVd1ZmRCaW51WElOaDRhUWpXQm5xQ0xqZGZFRjRFMGRfcHB1ajNsQTd0MGl1WjVQQ0g1VFljVlhZd1JrQ1I0N1VGV2txNGhsNC1tTXRYY0dRUTY5SHJEUDI0R0dURENIMjdNejlYQ0xhc21nTVU?oc=5)
 
 2026-10-30
 
 Source: [SINC](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTdybGVham0wOVhEMUNaTFF6VlJVRnNNdDc4dUVtRmlKUXd2QVJlUHBxVjRkOUVaVzcyeVd1ZmRCaW51WElOaDRhUWpXQm5xQ0xqZGZFRjRFMGRfcHB1ajNsQTd0MGl1WjVQQ0g1VFljVlhZd1JrQ1I0N1VGV2txNGhsNC1tTXRYY0dRUTY5SHJEUDI0R0dURENIMjdNejlYQ0xhc21nTVU?oc=5)
+
+---
+
+### [Influenza, vaccino potenziato dai 60 anni: cosa cambia quest’anno](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdjdhRHl5Z2c1WDlubzR4RUJaSFA1Z3A2V1kwVzJoVHJMQmJDXzA4aDV4SS14NDB0eC03WVk5Q3B2bTRpZ0E5OEo2Z1F4cDE2aU5kZnIzcXZWTElBWjYtNUJwYlFvTjluUkJSYk4yYTBvcTRUajdRTGM4ZXVuOXdzUDJObXg5TV9uVmhlNDdrNy1rcTVib2lkWnlMU0JvSDlhN09sb0Rtdnh2MUFhNm55TzhPcw?oc=5)
+
+2026-10-30
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdjdhRHl5Z2c1WDlubzR4RUJaSFA1Z3A2V1kwVzJoVHJMQmJDXzA4aDV4SS14NDB0eC03WVk5Q3B2bTRpZ0E5OEo2Z1F4cDE2aU5kZnIzcXZWTElBWjYtNUJwYlFvTjluUkJSYk4yYTBvcTRUajdRTGM4ZXVuOXdzUDJObXg5TV9uVmhlNDdrNy1rcTVib2lkWnlMU0JvSDlhN09sb0Rtdnh2MUFhNm55TzhPcw?oc=5)
 
 ---
 
@@ -85,19 +101,27 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNQU9oU0
 
 ---
 
-### [Girl, 5, found dead at home after A&E meningitis diagnosis blunder - The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE9wZHdYTXRRZm5kMlZIX0hsSmZwemgzeHM4S1RPcXpZenVqdzFqMG5CNXFKVEVFa3RsVzFvcnpKX1U0bEhCSGNCZGtQRTF1UE5wblZiRnE2cXJkbzhOdnk0RkhGdFZ0bEl4NUNDb0ZWWmJCT1A3TGfSAXtBVV95cUxPeS1tMGFlVTJrZ2hpYnYwUTBwRU9KeGZVa0FNMWhyMnpYLXJES0daejdqYnRycW9NRWFQZG1meFhYSXpKcm55VEFZVzVGU3dweFJXZUxWbVBRazczUXNzVzU2dGZINHVUbGJRUW1BUWpRTHFvb3NFbnJnVWc?oc=5)
-
-2026-10-30
-
-Source: [The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE9wZHdYTXRRZm5kMlZIX0hsSmZwemgzeHM4S1RPcXpZenVqdzFqMG5CNXFKVEVFa3RsVzFvcnpKX1U0bEhCSGNCZGtQRTF1UE5wblZiRnE2cXJkbzhOdnk0RkhGdFZ0bEl4NUNDb0ZWWmJCT1A3TGfSAXtBVV95cUxPeS1tMGFlVTJrZ2hpYnYwUTBwRU9KeGZVa0FNMWhyMnpYLXJES0daejdqYnRycW9NRWFQZG1meFhYSXpKcm55VEFZVzVGU3dweFJXZUxWbVBRazczUXNzVzU2dGZINHVUbGJRUW1BUWpRTHFvb3NFbnJnVWc?oc=5)
-
----
-
 ### ['No one should feel safe': 5 dead as Amish country measles horror explodes past 1,350 cases - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZGNUbHpQOG5WbVZtMHNTazF1YkRFQ2dtTzJDcjBIV0pvbjVpTXZQY3FFTUhSSnl5WUR2VUp0VlZveHdTd1ZtRDl3ZXdfeUlPRlVFTUlVX1BXVndGcWtjVDRiSVdNMlFiQm1aMWVNeDVVQWc0MjFGNC1YRWRnZGdKZGdQSnpJMUhjOGZ2MnA2WnNSTEtkVGxkZU1hNndSWTNGMHJ1TzdTWURxRVE?oc=5)
 
 2026-10-30
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZGNUbHpQOG5WbVZtMHNTazF1YkRFQ2dtTzJDcjBIV0pvbjVpTXZQY3FFTUhSSnl5WUR2VUp0VlZveHdTd1ZtRDl3ZXdfeUlPRlVFTUlVX1BXVndGcWtjVDRiSVdNMlFiQm1aMWVNeDVVQWc0MjFGNC1YRWRnZGdKZGdQSnpJMUhjOGZ2MnA2WnNSTEtkVGxkZU1hNndSWTNGMHJ1TzdTWURxRVE?oc=5)
+
+---
+
+### [Long cold, cos'è il raffreddore che dura settimane: sintomi, cause e segnali d’allarme - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdjg3NzBRV1Z6dmQyX3Z3WDhTTVpWZTJ1TklwYlpEeTRGWl9nYXcxRHZfczdHbW9TeGl1ZGFnOWtKTmFfVEdSZHlDZFRWaWVaNklSekhGQTdlOGwyWTRaaDRSY0xBclVtVzVoQUp3RUlqaGNtMW9nREJMLU1QczhmTmVIX2toX0dUcDNxR3Y3bWhJOUVZN29ob20xWno0SFVxNEQtcThaeHlQQdIBpwFBVV95cUxPLTVoenlvSHhJODFiNTN1eUFuTWtFcUs1RWo3SHFfUWpKZkRtVEgyVXdBQlVWNDI2U2RzNzRYTE0tRjlXX0d4WkVsNUs3aDlhOFhoS1dDVEhGMW5tMWhiWU9YcjhXWnZRSl81UzFSSWRSOTAtbjdVdlVOdlM1MElFVjJBQVVQQzNXRVFmOVFPcEp6aWE3MFYwS01NaDBwZi1xLU5jWGctOA?oc=5)
+
+2026-10-30
+
+Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdjg3NzBRV1Z6dmQyX3Z3WDhTTVpWZTJ1TklwYlpEeTRGWl9nYXcxRHZfczdHbW9TeGl1ZGFnOWtKTmFfVEdSZHlDZFRWaWVaNklSekhGQTdlOGwyWTRaaDRSY0xBclVtVzVoQUp3RUlqaGNtMW9nREJMLU1QczhmTmVIX2toX0dUcDNxR3Y3bWhJOUVZN29ob20xWno0SFVxNEQtcThaeHlQQdIBpwFBVV95cUxPLTVoenlvSHhJODFiNTN1eUFuTWtFcUs1RWo3SHFfUWpKZkRtVEgyVXdBQlVWNDI2U2RzNzRYTE0tRjlXX0d4WkVsNUs3aDlhOFhoS1dDVEhGMW5tMWhiWU9YcjhXWnZRSl81UzFSSWRSOTAtbjdVdlVOdlM1MElFVjJBQVVQQzNXRVFmOVFPcEp6aWE3MFYwS01NaDBwZi1xLU5jWGctOA?oc=5)
+
+---
+
+### [The Treatment Window For Some Strokes May Be Far Longer Than We Thought, But There's a Catch](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3NLdUoyNkVQbWVlU3JvOV8xWVpPY05BTjZpMTluSVJnejVpYm5HRWxXMmtWM3BWSFZtLUlTUDdhaURlUXV5T0dxem1DcW1SS0VTUWxMUVBkOUlWTU1saEtKcklmb2YtV2NuNGhTYm8yclgwazRiTnlGQU9tV2FiaGJJaThYVmZLTkZfd2JoMGgzdUpqakxCN3N4VWRVR3EzMUt2a2VKaHhvazhuWnp4ZXVqVE56cWY0NWdZ?oc=5)
+
+2026-10-30
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3NLdUoyNkVQbWVlU3JvOV8xWVpPY05BTjZpMTluSVJnejVpYm5HRWxXMmtWM3BWSFZtLUlTUDdhaURlUXV5T0dxem1DcW1SS0VTUWxMUVBkOUlWTU1saEtKcklmb2YtV2NuNGhTYm8yclgwazRiTnlGQU9tV2FiaGJJaThYVmZLTkZfd2JoMGgzdUpqakxCN3N4VWRVR3EzMUt2a2VKaHhvazhuWnp4ZXVqVE56cWY0NWdZ?oc=5)
 
 ---
 
@@ -125,27 +149,11 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMd
 
 ---
 
-### [Raffreddore che non passa, cosa fare: esperto svela le cause dei sintomi infiniti](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGNhQy1DLTRLWFNiTmtYZ1h3czZydURJN3RWQm1yMWJ4U3JjNGdzWThRTjBPWDhyVzYxVS1od25FX0RmQ0RLdnJ0YnlITVRQNm9ISnR2U1lmdXF6QnM1T2NkTnR4U25pOUl0ajhfbk52QTdrT3hYUU53WHYxUVhIdGVmU05mUlJGTTF6Z01TSHl4M3lkd2o5eTAxYmk?oc=5)
-
-2026-10-29
-
-Source: [Adnkronos](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGNhQy1DLTRLWFNiTmtYZ1h3czZydURJN3RWQm1yMWJ4U3JjNGdzWThRTjBPWDhyVzYxVS1od25FX0RmQ0RLdnJ0YnlITVRQNm9ISnR2U1lmdXF6QnM1T2NkTnR4U25pOUl0ajhfbk52QTdrT3hYUU53WHYxUVhIdGVmU05mUlJGTTF6Z01TSHl4M3lkd2o5eTAxYmk?oc=5)
-
----
-
 ### [Il caffè cambia anche l’intestino: e il decaffeinato ha un ruolo che va oltre la caffeina](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd3VQbld5Y1ZXQ0M4eVN3NXdnZnB2eVdHTlFPbUYwYWRwRjlNajlDNng1YnJSdS1DLS0wbG9RbjFmbEJTQ25WWVBnV3kwcXVST254VHB1UlNNWERkWmdTNERrMW1sQ3RLREZoZFBPaTEzWWpiZC02TW9selV6X3VWbDJkOWR4RGJYeUdLemd1UkxsbXRGNjBGVWFURVA3SFZVWGs0UDdpLVA0Y1hRNGtpSkJQcERGUUdjR1NsR04yU2kzRno2OGhvNGFkX2N0eElaM0ZlNw?oc=5)
 
 2026-10-29
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd3VQbld5Y1ZXQ0M4eVN3NXdnZnB2eVdHTlFPbUYwYWRwRjlNajlDNng1YnJSdS1DLS0wbG9RbjFmbEJTQ25WWVBnV3kwcXVST254VHB1UlNNWERkWmdTNERrMW1sQ3RLREZoZFBPaTEzWWpiZC02TW9selV6X3VWbDJkOWR4RGJYeUdLemd1UkxsbXRGNjBGVWFURVA3SFZVWGs0UDdpLVA0Y1hRNGtpSkJQcERGUUdjR1NsR04yU2kzRno2OGhvNGFkX2N0eElaM0ZlNw?oc=5)
-
----
-
-### [Doctors discover 'rugby-ball-sized' tumour after grandad visits GP with one symptom - Manchester Evening News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVZzVTZ6dmEwZjlvSnJkdW1vR3ZrR05HMWJHSkU0bG1QWDlOYkMzUktmWFBWTXJuWENxTFFaNmVaNURPZFdZZ2VFM1RqXzI3VDRJRjE4NjdaenZwYUZCT1JqSXNSdmRuVGlQd3RqQ1E4S1g1TWN2R1BZMjVMZGU5VkZxbXB2dGNpMXFwQzRhNDlnS0Ezci1uMzhvcHRZM21MdEh5LVBsM2NwUmFDUEROY9IBtgFBVV95cUxOeVJLazBGam5zdURjOGY2cGtCczZFLTZqU3luQWcwZjdkWmF5NUV6cHVvNjNhRHgzMWJ2NV9CTGFKNjVfQ1Z0ZGcxTFY1REJjNU9GZkRlV254QWtNZU9BTUpCZEN6Um5TMmplczU0bnFTTjNVTFk5cmpjS2t0eFE5RElNRUlQZHF4Qm5GYXltb1hPSEM3VlpvYU83YVo5YkJXS2FPeE1Cc1VEbU1FX01aX0E4ZzJXdw?oc=5)
-
-2026-10-29
-
-Source: [Manchester Evening News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVZzVTZ6dmEwZjlvSnJkdW1vR3ZrR05HMWJHSkU0bG1QWDlOYkMzUktmWFBWTXJuWENxTFFaNmVaNURPZFdZZ2VFM1RqXzI3VDRJRjE4NjdaenZwYUZCT1JqSXNSdmRuVGlQd3RqQ1E4S1g1TWN2R1BZMjVMZGU5VkZxbXB2dGNpMXFwQzRhNDlnS0Ezci1uMzhvcHRZM21MdEh5LVBsM2NwUmFDUEROY9IBtgFBVV95cUxOeVJLazBGam5zdURjOGY2cGtCczZFLTZqU3luQWcwZjdkWmF5NUV6cHVvNjNhRHgzMWJ2NV9CTGFKNjVfQ1Z0ZGcxTFY1REJjNU9GZkRlV254QWtNZU9BTUpCZEN6Um5TMmplczU0bnFTTjNVTFk5cmpjS2t0eFE5RElNRUlQZHF4Qm5GYXltb1hPSEM3VlpvYU83YVo5YkJXS2FPeE1Cc1VEbU1FX01aX0E4ZzJXdw?oc=5)
 
 ---
 
@@ -173,14 +181,6 @@ Source: [ConSalud](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUW14ZklC
 
 ---
 
-### [First-of-its-kind food pyramid with international seal of approval released - and counters Trump advice - The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdUJTaEZrSXUybmNZZVdBZEpnRldqcTFneFBOV3A4RkNtYm9vWUpYelhzbVNha2hEcGcwVFlPZmN2THYwMEtBYXliaXlIQVExOVVGeEFSODJoTmRrelpXbEhnM0E5eUVPb3VRajFSVU5jd0dkN2d4dDU0QlBZaWt5SFl4UzNwcXNqOXlUUC11a0RCa3ZLdTBZeVFvakhRNjlEc3E0?oc=5)
-
-2026-10-29
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdUJTaEZrSXUybmNZZVdBZEpnRldqcTFneFBOV3A4RkNtYm9vWUpYelhzbVNha2hEcGcwVFlPZmN2THYwMEtBYXliaXlIQVExOVVGeEFSODJoTmRrelpXbEhnM0E5eUVPb3VRajFSVU5jd0dkN2d4dDU0QlBZaWt5SFl4UzNwcXNqOXlUUC11a0RCa3ZLdTBZeVFvakhRNjlEc3E0?oc=5)
-
----
-
 ### [La artritis psoriásica afecta a más de 230.000 personas en España](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkRDZG5sN1dhWUNyWDR5Rkg3bl8tZTAzZEZPUFl1djVERFNLU25RUlV1aGhnV0Y1WEs3bThSNWhYa29SbTdqckVPZk9CTTJ4ZThJRWV0c0lQaHNsbnNxdjVYR3NYQ3N0T0ZrNUN2cDhwODl3ckJLN2E2OC1GMFRDRGRTdGVyelhxeFJaQVBhdGNpVlBNZGdpbmVIWTRfR2wt?oc=5)
 
 2026-10-29
@@ -197,14 +197,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxPLVYwdmFN
 
 ---
 
-### [Wechseljahre: Die Menopause verändert den ganzen Körper schlagartig - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2ZDRHI2YUVCZjRzQ293RElxSmF3NmUxLUFjM0pzTmhqYkpGVFUtbG04OEhCOTAwZmNONGUtQmRfU2F4RG5yV2VJR0l1am1Sai04dXdSeXZzWXBybkk1T0ZmMEIwWEtWU1dqbERjT0NaZzFrQmY3TDYwOWN3WVJMNk5KTHN6bzItQkM5cGVMWmo5Q0ZDbERxTTMtWDlaREhIOUlB?oc=5)
-
-2026-10-29
-
-Source: [Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2ZDRHI2YUVCZjRzQ293RElxSmF3NmUxLUFjM0pzTmhqYkpGVFUtbG04OEhCOTAwZmNONGUtQmRfU2F4RG5yV2VJR0l1am1Sai04dXdSeXZzWXBybkk1T0ZmMEIwWEtWU1dqbERjT0NaZzFrQmY3TDYwOWN3WVJMNk5KTHN6bzItQkM5cGVMWmo5Q0ZDbERxTTMtWDlaREhIOUlB?oc=5)
-
----
-
 ### [„Zombiezellen”: Warum Krebs nach der Chemotherapie oft wiederkommt - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1JWV2ROdDJfUXAxNUNsYUxtRHlJcjIwRThkblB6dDJtT1NvdUJFNEdzSlFsRDBnZlpyeGc5SFh0VzZnXzZIcW9uYVYxV3h1NEllY3JHQ2dGWWlHTzFoUE1Edld4WW5qMmFKVVVJWFdkak52Z2pCM0wycWlCTWlpSzFrXzdCV0xPWG1nNWs4dTlQNk43T3hYbFFUZw?oc=5)
 
 2026-10-29
@@ -218,6 +210,14 @@ Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMimwFBVV9
 2026-10-29
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMNWFzZTJBV2xnY184VmdJbl9DclhOeWcxWDhiTEpVa1B2NFl4azVsU3hHRUNlQnZWMjd3MkQwc3dodTFrdzR3Y2l0djNvNUdFaE9reDlNZmFlemN4OGxR?oc=5)
+
+---
+
+### [Abrupte Veränderungen! Studie identifiziert Menopause als „biologische Klippe“](https://news.google.com/rss/articles/CBMidEFVX3lxTFBQaXBMUVAzMGVTcUpYdHJQbk5NdEpTa29Cang1R0NINW1Dc2pvUG5remhxVGhSai1SSXBBRUVMeXk4OXE5eHNsbjF0aTFLWXU0TDdXZFU2TE1nSGhacC12azFNWmxsYW54RG9WaWl0aGIwNG1G?oc=5)
+
+2026-10-28
+
+Source: [FITBOOK](https://news.google.com/rss/articles/CBMidEFVX3lxTFBQaXBMUVAzMGVTcUpYdHJQbk5NdEpTa29Cang1R0NINW1Dc2pvUG5remhxVGhSai1SSXBBRUVMeXk4OXE5eHNsbjF0aTFLWXU0TDdXZFU2TE1nSGhacC12azFNWmxsYW54RG9WaWl0aGIwNG1G?oc=5)
 
 ---
 
@@ -269,27 +269,19 @@ Source: [The i Paper](https://news.google.com/rss/articles/CBMie0FVX3lxTE80bHREW
 
 ---
 
-### [Langzeitfolgen der Affenpocken: Narben, Inkontinenz und Probleme beim Sex?](https://news.google.com/rss/articles/CBMi3gFBVV95cUxObWxadTVvQ19nU3dWS3RydU9lazRPOG94eHFpMExNWWhEbFR4TTVUWUc2aXh6TEZGYlY3OTNZNk83cXYyLU9sQ2xnbnNlV0NkQzA4d2ZFZHVCdXZnYzJOV2VkV2ZzQTh1SDdZazZFM0M3b05VNEhua2EtQVNPd2R5cV9Td3lSX1ZTNWN1YjcwMWlxWHVldXdocWpCdS1JM0pFNlN0bWREMGlwbnBIb2tpb290SzBOODdWdnJQa1BNLUdRZUh3czVIZUdrVE8zR05FNG1fa3hVNmI5djl1dGc?oc=5)
-
-2026-10-26
-
-Source: [esanum](https://news.google.com/rss/articles/CBMi3gFBVV95cUxObWxadTVvQ19nU3dWS3RydU9lazRPOG94eHFpMExNWWhEbFR4TTVUWUc2aXh6TEZGYlY3OTNZNk83cXYyLU9sQ2xnbnNlV0NkQzA4d2ZFZHVCdXZnYzJOV2VkV2ZzQTh1SDdZazZFM0M3b05VNEhua2EtQVNPd2R5cV9Td3lSX1ZTNWN1YjcwMWlxWHVldXdocWpCdS1JM0pFNlN0bWREMGlwbnBIb2tpb290SzBOODdWdnJQa1BNLUdRZUh3czVIZUdrVE8zR05FNG1fa3hVNmI5djl1dGc?oc=5)
-
----
-
-### [Menopause: How GLP-1s and Hormone Therapy Can Affect Weight Loss](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdjFDeFlyekdZeXpJMUFRRzZEamRHUE8tdFRrNVh5cGxGemc3a1NIdl9LZ1ZYVmVWengyZnJPZWxHQ2xXNk9QYWJxSmZvRmdyQXptTUdNcUowd3hmOXZhQUxrRjNPM29laWNDeU90djl4VGxUSXdEdmpvWG92c2Q3SlBxRTBoZEFmREZCbDFkMU1FMmtvRWlSVTZKOUs4UlFZOFlFenpERQ?oc=5)
-
-2026-10-26
-
-Source: [Healthline](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdjFDeFlyekdZeXpJMUFRRzZEamRHUE8tdFRrNVh5cGxGemc3a1NIdl9LZ1ZYVmVWengyZnJPZWxHQ2xXNk9QYWJxSmZvRmdyQXptTUdNcUowd3hmOXZhQUxrRjNPM29laWNDeU90djl4VGxUSXdEdmpvWG92c2Q3SlBxRTBoZEFmREZCbDFkMU1FMmtvRWlSVTZKOUs4UlFZOFlFenpERQ?oc=5)
-
----
-
 ### [Mum had pain after giving birth 'then passed out at home' before doctors gave her news - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5qQmRlYUdISEJic3BaWFRFcm5mV3lvdGt3YkVMWTZKNnFCM05oNE10SmgyVk1WOGRiYXhKRXY0V2wyODFtaGNqZVozZW9sbDdSSGpLMVJNQzJiUlBVb2pxOVAzVHI1ZXBwVTlBbjRWSFA1a1dkaXQya01vWXJXQdIBgwFBVV95cUxQOUhuRmhrNzZDN0tqS2dWcm92X2lWQmJnNnVnd3hObm9mUFo0eUdWelNnZjRGTmNSLVFSZnVVNGVzbG53UGFoSy11alhCM29QdGwtNi1Ubnh5Uml1SzNkSS1Qb0p1dVMwbE0tS1dQNXhnekpCaW5mcFBrdVdOMXhmOG9HYw?oc=5)
 
 2026-10-26
 
 Source: [The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5qQmRlYUdISEJic3BaWFRFcm5mV3lvdGt3YkVMWTZKNnFCM05oNE10SmgyVk1WOGRiYXhKRXY0V2wyODFtaGNqZVozZW9sbDdSSGpLMVJNQzJiUlBVb2pxOVAzVHI1ZXBwVTlBbjRWSFA1a1dkaXQya01vWXJXQdIBgwFBVV95cUxQOUhuRmhrNzZDN0tqS2dWcm92X2lWQmJnNnVnd3hObm9mUFo0eUdWelNnZjRGTmNSLVFSZnVVNGVzbG53UGFoSy11alhCM29QdGwtNi1Ubnh5Uml1SzNkSS1Qb0p1dVMwbE0tS1dQNXhnekpCaW5mcFBrdVdOMXhmOG9HYw?oc=5)
+
+---
+
+### [Uraltes Virus kann Gehirnunterschiede zwischen Mensch und Schimpanse erklären](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanpDR0JaaUJUeXRLUjR0ODdMNXhIb1p2anJLZ1g0bldnNTRJR1dLMURzMTFQdW5qam1uQ2FydzZvVVNwMExlV3E5SWFKLUVmbWcwUklsR2ZkODVhb1prb2lROWR6LTF4cHJkTkUxYXJuSDF0QlBmclZBZ3FhSEVnaWM1ZS05Zm5ad01qc1JGbXpNMVVldDRRRk1DQWxNTk9hbTYxTEdmWHFra2pZN0w4bXd2bVBiaGNa?oc=5)
+
+2026-10-24
+
+Source: [Scinexx](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanpDR0JaaUJUeXRLUjR0ODdMNXhIb1p2anJLZ1g0bldnNTRJR1dLMURzMTFQdW5qam1uQ2FydzZvVVNwMExlV3E5SWFKLUVmbWcwUklsR2ZkODVhb1prb2lROWR6LTF4cHJkTkUxYXJuSDF0QlBmclZBZ3FhSEVnaWM1ZS05Zm5ad01qc1JGbXpNMVVldDRRRk1DQWxNTk9hbTYxTEdmWHFra2pZN0w4bXd2bVBiaGNa?oc=5)
 
 ---
 

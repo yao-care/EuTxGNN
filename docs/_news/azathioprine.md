@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Azathioprine. 7 predicted indications."
 permalink: /news/azathioprine/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Azathioprine News
@@ -41,19 +41,19 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 
 ## Related News (5)
 
-### [Psoriasis-Arthritis: Diagnose dauert oft vier bis fünf Jahre](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
+### [Identifican una posible diana terapéutica para combatir la osteoartritis - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTktDUFlTcFpDeUwtQXo3ZXE2OTlzSUV5V0xsbXJWbVNGc3lsUXBMcEw3bGZFbEZ1enB5ZFdkNF9UQWRDUjNYLVNKSGZIZ01VV3RYS3UtZjROSERoZkpnM3ZkV0hHX0cwY3VUOTZZeWJjUTgtSUQxQUZNZXRmdk1LOElxOHpWalNTMUc1WVZsY3kyOFFqVGhfdV9vLTRJRkcySWtHSXVrMVg0ajdEWDZiV3hkNlpCTmFPd0JtQ25ZdFYtUdIBvAFBVV95cUxOZ1ZLMnlySjY1UUlIQ3BEcWdQZmlwYXBlMmdWVE5Jb0wxYXZENmlYeDliZWczSTJnR0M3VExlTTh1WUFzX2xFOFRBdTEyaXJLdG1LMHJRWXRUWU05ME50NmZTXzFuaGZFa1JwTzl0TDdKREk2U1k3ZmlVMnVqX0Q5ajY3R0RuUXgtT0pfQVhLUnRGTmtkMFhZT0NZa0UyMUwwYlMxaG1wX2piRk9haGVERG1GOVRjeDllM2Z0Yg?oc=5)
 
-2026-10-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+2026-10-29 <span class="news-indication-tag">artritis</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTktDUFlTcFpDeUwtQXo3ZXE2OTlzSUV5V0xsbXJWbVNGc3lsUXBMcEw3bGZFbEZ1enB5ZFdkNF9UQWRDUjNYLVNKSGZIZ01VV3RYS3UtZjROSERoZkpnM3ZkV0hHX0cwY3VUOTZZeWJjUTgtSUQxQUZNZXRmdk1LOElxOHpWalNTMUc1WVZsY3kyOFFqVGhfdV9vLTRJRkcySWtHSXVrMVg0ajdEWDZiV3hkNlpCTmFPd0JtQ25ZdFYtUdIBvAFBVV95cUxOZ1ZLMnlySjY1UUlIQ3BEcWdQZmlwYXBlMmdWVE5Jb0wxYXZENmlYeDliZWczSTJnR0M3VExlTTh1WUFzX2xFOFRBdTEyaXJLdG1LMHJRWXRUWU05ME50NmZTXzFuaGZFa1JwTzl0TDdKREk2U1k3ZmlVMnVqX0Q5ajY3R0RuUXgtT0pfQVhLUnRGTmtkMFhZT0NZa0UyMUwwYlMxaG1wX2piRk9haGVERG1GOVRjeDllM2Z0Yg?oc=5)
 
 ---
 
-### [Psoriasisarthritis: Kombinationstherapie erreicht bei 31,7 Prozent Doppelziel](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hXYjI2dlAya0NyVV9fVV9NS3h3Rkk1NVVtakloTk1nTUdrNnpCcjJmNjZ3WGRYWUtmaU1CdDhYVm50ZENwWE5KTmRNYkFhWHBKRzNNWlVKU0U2SEljWmVBNl9fMDJUNnNMeUZudDJkM2ZwYkZ2T3B1QndmalRnYkM1TzNRSzY5RlFYdm9DVnY4RnV5YzI1ellBTnNMcEdqUVJpd0k3UWFWU0JpaGw0RG5rYmprVTYzcWdoRG5FaHBHdWc?oc=5)
+### [Psoriasisarthritis und Adipositas zusammen behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHY0UHNSUTM3VUlLWG5TX1VRekZSc09mUmktOGJxaGRuU3pibFhtbms5TEpoWFpnSG9xWlQ3YXgxbnJXc0x4NUxOZEI1YzhHQW9QQklLbzRhcWU2TlhRbHIzYWxCMlRubVdrOXJSN3k3RmxaZzY0Z2RIWUZpY2R0WEdEdmsxSzNNWGtSZXZmYlIxRHJTbXdKcmozd1V5cmJWV1gwajd3?oc=5)
 
-2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hXYjI2dlAya0NyVV9fVV9NS3h3Rkk1NVVtakloTk1nTUdrNnpCcjJmNjZ3WGRYWUtmaU1CdDhYVm50ZENwWE5KTmRNYkFhWHBKRzNNWlVKU0U2SEljWmVBNl9fMDJUNnNMeUZudDJkM2ZwYkZ2T3B1QndmalRnYkM1TzNRSzY5RlFYdm9DVnY4RnV5YzI1ellBTnNMcEdqUVJpd0k3UWFWU0JpaGw0RG5rYmprVTYzcWdoRG5FaHBHdWc?oc=5)
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHY0UHNSUTM3VUlLWG5TX1VRekZSc09mUmktOGJxaGRuU3pibFhtbms5TEpoWFpnSG9xWlQ3YXgxbnJXc0x4NUxOZEI1YzhHQW9QQklLbzRhcWU2TlhRbHIzYWxCMlRubVdrOXJSN3k3RmxaZzY0Z2RIWUZpY2R0WEdEdmsxSzNNWGtSZXZmYlIxRHJTbXdKcmozd1V5cmJWV1gwajd3?oc=5)
 
 ---
 
@@ -65,11 +65,11 @@ Source: [Servimedia](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkRDZG
 
 ---
 
-### [Descubren una nueva vía para frenar la inflamación de la artritis](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWx1RjhUVi1yT0loa29QUkZlZHZXMTNxZVllMk9wUmEtalhMS1paN3BzNlJJTlpnR202QjBBVFNCcGVqbmpCT1lCTkRjRm1Zc3p5S1JzampOOXZyQVVMVGNsNGNhVHRzNEQ4ZEk2VGNyb3pSMV9yN1FQRkNFdjN2MjJOOUFfYmZGTmNaN2ExTjhDZzFMdml1QmxNa3ZoaEYyckR6bFFoN3hzSVVQOEZncHppbUowMHpPajFsdEt3?oc=5)
+### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
 
-2026-10-29 <span class="news-indication-tag">artritis</span>
+2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWx1RjhUVi1yT0loa29QUkZlZHZXMTNxZVllMk9wUmEtalhMS1paN3BzNlJJTlpnR202QjBBVFNCcGVqbmpCT1lCTkRjRm1Zc3p5S1JzampOOXZyQVVMVGNsNGNhVHRzNEQ4ZEk2VGNyb3pSMV9yN1FQRkNFdjN2MjJOOUFfYmZGTmNaN2ExTjhDZzFMdml1QmxNa3ZoaEYyckR6bFFoN3hzSVVQOEZncHppbUowMHpPajFsdEt3?oc=5)
+Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
 
 ---
 

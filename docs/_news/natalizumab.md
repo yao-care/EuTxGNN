@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Natalizumab. 5 predicted indications."
 permalink: /news/natalizumab/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Natalizumab News
@@ -39,6 +39,14 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 
 ## Related News (19)
 
+### [Typ-2-Diabetes: Herzinsuffizienzrisiko liegt bis zu doppelt so hoch](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXpPT256YTdrOUdKWlI5QmROUmZyeWtFQ0xseGVaRjBpMzlGTTNweTlraXRta0V5UGJvcllPdjRNcFlUN0g3bjZSNGc3OWtiR1luTmp2TkpoS2JVTjdlSzl6OGFLN3l2SURHaUMyelR4VnQ4eWlURGVuRThJeEZhNEJ5eldyeWM0OERuYk5uY1o3cjQ0NjVPd0dlWG1fYXJjVlQ1MVQtQXBpQi1YTThVMExOVFNnZw?oc=5)
+
+2026-10-31 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXpPT256YTdrOUdKWlI5QmROUmZyeWtFQ0xseGVaRjBpMzlGTTNweTlraXRta0V5UGJvcllPdjRNcFlUN0g3bjZSNGc3OWtiR1luTmp2TkpoS2JVTjdlSzl6OGFLN3l2SURHaUMyelR4VnQ4eWlURGVuRThJeEZhNEJ5eldyeWM0OERuYk5uY1o3cjQ0NjVPd0dlWG1fYXJjVlQ1MVQtQXBpQi1YTThVMExOVFNnZw?oc=5)
+
+---
+
 ### [Psoriasi, non solo pelle: lo studio su 2 milioni di persone rivela una rete di rischi per la salute](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN25YSDZNRzZBOTJXLVhFdl9YclhrQTVBbnp5aUtmcjc1b3NENlFXYjhGUXlsM1lwb2lkS29tZmdEZ3FIaTBaQWxMQ3c2UVJKbDV0WDRDeUkzVEZkLThsbnBUNVNCNlBIeTVSakViMnl2Uk5QLXpGVFl5ZUhjdWw2V25zSU5idU1pSkZJUGJhRW9SNkphUFdrWmFsMlg1UFRyWE9aWTZRVDFTUDZ5eFJqWnFIT2FyeGhmMFlWN3F1YzNOYkdWY3JIZkdwSkE3eUJUSGZmNTRBZVFqeUxCVmhvOUJEZG55R0V5alRZZE5n?oc=5)
 
 2026-10-30 <span class="news-indication-tag">soriasi</span>
@@ -71,14 +79,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTX
 
 ---
 
-### [Psoriasis-Arthritis: Diagnose dauert oft vier bis fünf Jahre](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
-
-2026-10-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
-
----
-
 ### [Experte warnt: „Diabetes bleibt oft jahrelang unbemerkt“](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTE1NOXFOek4xTEppN3JiVHR5S0dWS3I1R1diOWVfOGNBbzRveUhCb2UxQzRLRG5BdWdnMHdjdllzMC13VUVkTDFOanpmQTBQWi00NjJGdVJyT19PallQQ3E5SEpmZFp3ZS0wSlpERFVzcGFsVjFkZk1DUHJsckZRNVRDRDlUNDNiQ0JxVmhWMEhQM1JZZkR2MnRVRlAxSndDM3Y1d1RWSHVTdTJldVN2OGhnQ0hEN2tlNlN5R09vcndsd0hjd3Q5OEVHUHpGQnRf?oc=5)
 
 2026-10-30 <span class="news-indication-tag">diabetes</span>
@@ -92,14 +92,6 @@ Source: [Merkur](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTE1NOXFOek
 2026-10-29 <span class="news-indication-tag">diabetes</span>
 
 Source: [Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQUdNUUIxc3BWaWxtc3BHSGRtSHVyZXFLTk1xcDNpaDhqVWVhU3dOY3NuNVF6akdVWlJfeGFwakE5ZEtnMmlZbVU0VnIwYWxPeFM2QVV2WFZLMWlhVUoxVlE5VWN2aXFkYXByZzl4ODRfQkRacmt4N0ZkbUQ1VTgwYTVrdmJuTVpENnZUNWFRUDhIVVZBa3dTQVhXa2lQQlp5cExOemowR04?oc=5)
-
----
-
-### [Psoriasis : ces 5 gestes d'hiver que les dermatologues recommandent pour calmer les plaques - Le Tribunal du Net](https://news.google.com/rss/articles/CBMilgFBVV95cUxNUkg0X0g4dlpWd2NHZENtbG1GMkcwc2lqQlM2dmtaaUpHZnNrX01lTDZRci15eGEyYnJ4cFF6X3QwQ3N4NzFVTHNIRjRtd0V5OTVXX3VTLWhuQzd5RF9HcldiU0Q0QzBfWTRpNVY1Ujh3OWdFbC1LMjFOa3VXS0FmRV9XUnMxWHZjUUZDRXhjMGtGdjJkLWc?oc=5)
-
-2026-10-29 <span class="news-indication-tag">psoriasis</span>
-
-Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilgFBVV95cUxNUkg0X0g4dlpWd2NHZENtbG1GMkcwc2lqQlM2dmtaaUpHZnNrX01lTDZRci15eGEyYnJ4cFF6X3QwQ3N4NzFVTHNIRjRtd0V5OTVXX3VTLWhuQzd5RF9HcldiU0Q0QzBfWTRpNVY1Ujh3OWdFbC1LMjFOa3VXS0FmRV9XUnMxWHZjUUZDRXhjMGtGdjJkLWc?oc=5)
 
 ---
 
@@ -135,11 +127,11 @@ Source: [transkript.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNVk
 
 ---
 
-### [Psoriasisarthritis: Kombinationstherapie erreicht bei 31,7 Prozent Doppelziel](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hXYjI2dlAya0NyVV9fVV9NS3h3Rkk1NVVtakloTk1nTUdrNnpCcjJmNjZ3WGRYWUtmaU1CdDhYVm50ZENwWE5KTmRNYkFhWHBKRzNNWlVKU0U2SEljWmVBNl9fMDJUNnNMeUZudDJkM2ZwYkZ2T3B1QndmalRnYkM1TzNRSzY5RlFYdm9DVnY4RnV5YzI1ellBTnNMcEdqUVJpd0k3UWFWU0JpaGw0RG5rYmprVTYzcWdoRG5FaHBHdWc?oc=5)
+### [Psoriasisarthritis und Adipositas zusammen behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHY0UHNSUTM3VUlLWG5TX1VRekZSc09mUmktOGJxaGRuU3pibFhtbms5TEpoWFpnSG9xWlQ3YXgxbnJXc0x4NUxOZEI1YzhHQW9QQklLbzRhcWU2TlhRbHIzYWxCMlRubVdrOXJSN3k3RmxaZzY0Z2RIWUZpY2R0WEdEdmsxSzNNWGtSZXZmYlIxRHJTbXdKcmozd1V5cmJWV1gwajd3?oc=5)
 
-2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3hXYjI2dlAya0NyVV9fVV9NS3h3Rkk1NVVtakloTk1nTUdrNnpCcjJmNjZ3WGRYWUtmaU1CdDhYVm50ZENwWE5KTmRNYkFhWHBKRzNNWlVKU0U2SEljWmVBNl9fMDJUNnNMeUZudDJkM2ZwYkZ2T3B1QndmalRnYkM1TzNRSzY5RlFYdm9DVnY4RnV5YzI1ellBTnNMcEdqUVJpd0k3UWFWU0JpaGw0RG5rYmprVTYzcWdoRG5FaHBHdWc?oc=5)
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHY0UHNSUTM3VUlLWG5TX1VRekZSc09mUmktOGJxaGRuU3pibFhtbms5TEpoWFpnSG9xWlQ3YXgxbnJXc0x4NUxOZEI1YzhHQW9QQklLbzRhcWU2TlhRbHIzYWxCMlRubVdrOXJSN3k3RmxaZzY0Z2RIWUZpY2R0WEdEdmsxSzNNWGtSZXZmYlIxRHJTbXdKcmozd1V5cmJWV1gwajd3?oc=5)
 
 ---
 
@@ -151,11 +143,27 @@ Source: [Servimedia](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkRDZG
 
 ---
 
-### [Adipositas und Typ-1-Diabetes: Operation schlägt Medikamente bei Gewichtsverlust](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
+### [Diabète : cet implant révolutionnaire pourrait éliminer une partie du sucre en excès dans le sang](https://news.google.com/rss/articles/CBMikgFBVV95cUxPS2Q2OTlPa2dJWmxSTGZ5RzYwV0U1YXV3SzNoLXQ5b0hXQUxScE5hSDlEYTQ2ZDJ3cUFSVDZzODVGdjJxQ2p1OVEzTFhBeW1ZelBabGMycVduSEpDVTBFNFphNHI4cUlWVWpFZUV4NXJoU2pqeGlNZE1mVF8yczJpM3QxTFhVanpsMGU4cUp4a3ZSZw?oc=5)
 
-2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-10-29 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
+Source: [PasseportSanté](https://news.google.com/rss/articles/CBMikgFBVV95cUxPS2Q2OTlPa2dJWmxSTGZ5RzYwV0U1YXV3SzNoLXQ5b0hXQUxScE5hSDlEYTQ2ZDJ3cUFSVDZzODVGdjJxQ2p1OVEzTFhBeW1ZelBabGMycVduSEpDVTBFNFphNHI4cUlWVWpFZUV4NXJoU2pqeGlNZE1mVF8yczJpM3QxTFhVanpsMGU4cUp4a3ZSZw?oc=5)
+
+---
+
+### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Operation erreicht 58 Prozent Remission, Medikamente nur 3](https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0I3WmM4VUh2TGkzTmhhdk9FNTN3RGpIT1ZQTmxEYnpYTndpc04wZEJnRGNUcFpDcEg4MHcxRGRNU2tieUZaTnVRQXJRNGd3cFN1QkxsR05tY0pJaDl5UzZubWE1NHItS09hLWtueDhHazd4VGFSNjVoVHJWOVVReS1tV3RoRlkteDBwbDVIRWdGakxCTTRnNXhZZEdoZDRBWk5OWmZPSjhsXzdVdUZlRVpzdmNpLUlLLXh3SHZn?oc=5)
+
+2026-10-29 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0I3WmM4VUh2TGkzTmhhdk9FNTN3RGpIT1ZQTmxEYnpYTndpc04wZEJnRGNUcFpDcEg4MHcxRGRNU2tieUZaTnVRQXJRNGd3cFN1QkxsR05tY0pJaDl5UzZubWE1NHItS09hLWtueDhHazd4VGFSNjVoVHJWOVVReS1tV3RoRlkteDBwbDVIRWdGakxCTTRnNXhZZEdoZDRBWk5OWmZPSjhsXzdVdUZlRVpzdmNpLUlLLXh3SHZn?oc=5)
 
 ---
 
@@ -172,14 +180,6 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2dCbGlS
 2026-10-28 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
 
 Source: [Irish Mirror](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkVBejNRSjMxVTJVdDlySFNZYmdLZGJLdjJIOVd5Si1XQlhlZjBqeDVUMW1lMDVXMXF2UWRlUHY3Z3o1Z19SYy1Bd0lhZERNQ01lTnNDaW1ibVVWN1ZiTUtqdV9NcXQ4VmZUc1FFZGRxZVlQY1QzUlVwcXFWUGVaNUdKeXBVNGxQNWtUS2I0UmQ4NGtyRzBzMy1HMnZWamRHZnfSAacBQVVfeXFMTWk1cWxSdXgwS0lTeHpQWTFNQ3BGRjJySDFFSnRsY19NcGdURXI4bmktb1NIbS14Zm0tSmhrd1FDcXIwRzRodWN6Z2dOZW41X044bDc2WFA1V2VadzVwLTQxb3hqTWlEdS1zY01kSzNlenkwU2RlTWZVOXJzYUw3eWJaa2thckk1YlRtak9XcDEwelg1MXU1SVpyTkVTdkVYYkxxOWI0dmc?oc=5)
-
----
-
-### [Kardiometabolische Therapien bei Lebererkrankungen](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnhSNXlPZ0NjUnhHTTA3ZGFMdVh4YkJyYjlVUmRNZFVHVlNLb1JDRGpKYkRoYmpUTFl4Ty1zUEZwdmZudEo3ckFJeGZCeFdkbDd0UzNMbzRuUEtScnVZQUhkaTFrSkNqSGF2d3hyUE9tU0FoRWJ6ZWRvSFVJOUtHLWRuanhkWlVpY2VTUHkyNmhKeFFwR29US1gyVGQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">diabetes</span>
-
-Source: [medonline](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnhSNXlPZ0NjUnhHTTA3ZGFMdVh4YkJyYjlVUmRNZFVHVlNLb1JDRGpKYkRoYmpUTFl4Ty1zUEZwdmZudEo3ckFJeGZCeFdkbDd0UzNMbzRuUEtScnVZQUhkaTFrSkNqSGF2d3hyUE9tU0FoRWJ6ZWRvSFVJOUtHLWRuanhkWlVpY2VTUHkyNmhKeFFwR29US1gyVGQ?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tasimelteon. 9 predicted indications."
 permalink: /news/tasimelteon/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Tasimelteon News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Tasimelteon?">
-<strong>Tasimelteon</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
+<strong>Tasimelteon</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,17 +41,9 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Depressione, non è uguale per tutti: uno studio individua un possibile sottotipo legato all’orologio biologico](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUGNOVzRqSDlhUk9NNlVvUmJLZjgwYjRRcHBLbVJDczBwMVFJaHk0cnlkRm1BQVdqWXIta2ZoWjVER19XQnI0UGVjdWVyc3NvUm9UYUhlNlV0VmNWRUNES1NBcmE3SzlLRjA2RHNKc2ZQZXdvLXFhRVd6Mjd3YWp1MzRjbUppX3hvWm5sUHVXQVYyOXBZZzBaVzhVa21Oc0E3MXFzWE4zYnZ4amxHMGk5RGpiM0pXV21BMHhHck5QcWU0eFRYSEhrOTdFdlJNOGFNWk9YcTN1NWhTWEF1ell4QkJmbGU3RGZYYWxib3NPMA?oc=5)
-
-2026-10-29 <span class="news-indication-tag">depression</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUGNOVzRqSDlhUk9NNlVvUmJLZjgwYjRRcHBLbVJDczBwMVFJaHk0cnlkRm1BQVdqWXIta2ZoWjVER19XQnI0UGVjdWVyc3NvUm9UYUhlNlV0VmNWRUNES1NBcmE3SzlLRjA2RHNKc2ZQZXdvLXFhRVd6Mjd3YWp1MzRjbUppX3hvWm5sUHVXQVYyOXBZZzBaVzhVa21Oc0E3MXFzWE4zYnZ4amxHMGk5RGpiM0pXV21BMHhHck5QcWU0eFRYSEhrOTdFdlJNOGFNWk9YcTN1NWhTWEF1ell4QkJmbGU3RGZYYWxib3NPMA?oc=5)
-
----
-
-### [Depression: Ein Präparat mit Lavendelöl überrascht im Vergleich zu Sertralin](https://news.google.com/rss/articles/CBMiswFBVV95cUxPV091TnFPVnlFWVZDTS1wWTBiVGxsYmVlNXBNR3pycUJHem1BZ0FuQU1IRDdVMV8wZjdhZE1PMmFaS1F4cVJCVnA1QkVhZHpmWVo0MWdpLUN2RkFWUmhReDRLNnlUQi1kZjIxSmZUNHdoRmJ4TFRtVVFIdmhFVjZnVUFRTjVRaVk4MnNkMjVIVFRSWWo5YW5XbUlrWkFMZngyMEZJN0N6bEFXOG01N0I4LTI2RQ?oc=5)
+### [Depression: Lavendelöl überrascht im Vergleich zu Sertralin](https://news.google.com/rss/articles/CBMiswFBVV95cUxPV091TnFPVnlFWVZDTS1wWTBiVGxsYmVlNXBNR3pycUJHem1BZ0FuQU1IRDdVMV8wZjdhZE1PMmFaS1F4cVJCVnA1QkVhZHpmWVo0MWdpLUN2RkFWUmhReDRLNnlUQi1kZjIxSmZUNHdoRmJ4TFRtVVFIdmhFVjZnVUFRTjVRaVk4MnNkMjVIVFRSWWo5YW5XbUlrWkFMZngyMEZJN0N6bEFXOG01N0I4LTI2RQ?oc=5)
 
 2026-10-29 <span class="news-indication-tag">depression</span>
 

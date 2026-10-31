@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Evinacumab. 0 predicted indications."
 permalink: /news/evinacumab/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Evinacumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Evinacumab?">
-<strong>Evinacumab</strong> currently has <strong>14 news articles</strong>, with 0 predicted indications.
+<strong>Evinacumab</strong> currently has <strong>15 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Evinacumab with the latest h
 <p><a href="{{ '/drugs/evinacumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (15)
+
+### [Typ-2-Diabetes: Herzinsuffizienzrisiko liegt bis zu doppelt so hoch](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXpPT256YTdrOUdKWlI5QmROUmZyeWtFQ0xseGVaRjBpMzlGTTNweTlraXRta0V5UGJvcllPdjRNcFlUN0g3bjZSNGc3OWtiR1luTmp2TkpoS2JVTjdlSzl6OGFLN3l2SURHaUMyelR4VnQ4eWlURGVuRThJeEZhNEJ5eldyeWM0OERuYk5uY1o3cjQ0NjVPd0dlWG1fYXJjVlQ1MVQtQXBpQi1YTThVMExOVFNnZw?oc=5)
+
+2026-10-31 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXpPT256YTdrOUdKWlI5QmROUmZyeWtFQ0xseGVaRjBpMzlGTTNweTlraXRta0V5UGJvcllPdjRNcFlUN0g3bjZSNGc3OWtiR1luTmp2TkpoS2JVTjdlSzl6OGFLN3l2SURHaUMyelR4VnQ4eWlURGVuRThJeEZhNEJ5eldyeWM0OERuYk5uY1o3cjQ0NjVPd0dlWG1fYXJjVlQ1MVQtQXBpQi1YTThVMExOVFNnZw?oc=5)
+
+---
 
 ### [Pflanzenextrakte bei Prädiabetes: Große Studie zeigt Blutzuckersenkung](https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDY2eTdvSDdvcThoellROXpwVEFXRzdQNzAzcFJmd1hEaS1UNGpjaDEzV0NsWGtoY3E1VHg2bzhWMHkxZE5TLUJ6X3NvaExMd3RyUnJySklGYmVyb05Fcm52aGloVnhzODN2ZkNwUEJ1dG8tMkNoaGFRRmNhdVBhaGdfMlZLSVJfaHNoeVdIX2NXMUlfbjJQazR2RU1vSGlZN0JkRGZsc1RJdUM3b0M3OEhDSUVtUWtxZHVIS210SEhKNTJDVnlr?oc=5)
 
@@ -104,11 +112,19 @@ Source: [transkript.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNVk
 
 ---
 
-### [Adipositas und Typ-1-Diabetes: Operation schlägt Medikamente bei Gewichtsverlust](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
+### [Diabète : cet implant révolutionnaire pourrait éliminer une partie du sucre en excès dans le sang](https://news.google.com/rss/articles/CBMikgFBVV95cUxPS2Q2OTlPa2dJWmxSTGZ5RzYwV0U1YXV3SzNoLXQ5b0hXQUxScE5hSDlEYTQ2ZDJ3cUFSVDZzODVGdjJxQ2p1OVEzTFhBeW1ZelBabGMycVduSEpDVTBFNFphNHI4cUlWVWpFZUV4NXJoU2pqeGlNZE1mVF8yczJpM3QxTFhVanpsMGU4cUp4a3ZSZw?oc=5)
 
-2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-10-29 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
+Source: [PasseportSanté](https://news.google.com/rss/articles/CBMikgFBVV95cUxPS2Q2OTlPa2dJWmxSTGZ5RzYwV0U1YXV3SzNoLXQ5b0hXQUxScE5hSDlEYTQ2ZDJ3cUFSVDZzODVGdjJxQ2p1OVEzTFhBeW1ZelBabGMycVduSEpDVTBFNFphNHI4cUlWVWpFZUV4NXJoU2pqeGlNZE1mVF8yczJpM3QxTFhVanpsMGU4cUp4a3ZSZw?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Operation erreicht 58 Prozent Remission, Medikamente nur 3](https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0I3WmM4VUh2TGkzTmhhdk9FNTN3RGpIT1ZQTmxEYnpYTndpc04wZEJnRGNUcFpDcEg4MHcxRGRNU2tieUZaTnVRQXJRNGd3cFN1QkxsR05tY0pJaDl5UzZubWE1NHItS09hLWtueDhHazd4VGFSNjVoVHJWOVVReS1tV3RoRlkteDBwbDVIRWdGakxCTTRnNXhZZEdoZDRBWk5OWmZPSjhsXzdVdUZlRVpzdmNpLUlLLXh3SHZn?oc=5)
+
+2026-10-29 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0I3WmM4VUh2TGkzTmhhdk9FNTN3RGpIT1ZQTmxEYnpYTndpc04wZEJnRGNUcFpDcEg4MHcxRGRNU2tieUZaTnVRQXJRNGd3cFN1QkxsR05tY0pJaDl5UzZubWE1NHItS09hLWtueDhHazd4VGFSNjVoVHJWOVVReS1tV3RoRlkteDBwbDVIRWdGakxCTTRnNXhZZEdoZDRBWk5OWmZPSjhsXzdVdUZlRVpzdmNpLUlLLXh3SHZn?oc=5)
 
 ---
 
@@ -125,14 +141,6 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2dCbGlS
 2026-10-28 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
 
 Source: [Irish Mirror](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkVBejNRSjMxVTJVdDlySFNZYmdLZGJLdjJIOVd5Si1XQlhlZjBqeDVUMW1lMDVXMXF2UWRlUHY3Z3o1Z19SYy1Bd0lhZERNQ01lTnNDaW1ibVVWN1ZiTUtqdV9NcXQ4VmZUc1FFZGRxZVlQY1QzUlVwcXFWUGVaNUdKeXBVNGxQNWtUS2I0UmQ4NGtyRzBzMy1HMnZWamRHZnfSAacBQVVfeXFMTWk1cWxSdXgwS0lTeHpQWTFNQ3BGRjJySDFFSnRsY19NcGdURXI4bmktb1NIbS14Zm0tSmhrd1FDcXIwRzRodWN6Z2dOZW41X044bDc2WFA1V2VadzVwLTQxb3hqTWlEdS1zY01kSzNlenkwU2RlTWZVOXJzYUw3eWJaa2thckk1YlRtak9XcDEwelg1MXU1SVpyTkVTdkVYYkxxOWI0dmc?oc=5)
-
----
-
-### [Kardiometabolische Therapien bei Lebererkrankungen](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnhSNXlPZ0NjUnhHTTA3ZGFMdVh4YkJyYjlVUmRNZFVHVlNLb1JDRGpKYkRoYmpUTFl4Ty1zUEZwdmZudEo3ckFJeGZCeFdkbDd0UzNMbzRuUEtScnVZQUhkaTFrSkNqSGF2d3hyUE9tU0FoRWJ6ZWRvSFVJOUtHLWRuanhkWlVpY2VTUHkyNmhKeFFwR29US1gyVGQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">diabetes</span>
-
-Source: [medonline](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnhSNXlPZ0NjUnhHTTA3ZGFMdVh4YkJyYjlVUmRNZFVHVlNLb1JDRGpKYkRoYmpUTFl4Ty1zUEZwdmZudEo3ckFJeGZCeFdkbDd0UzNMbzRuUEtScnVZQUhkaTFrSkNqSGF2d3hyUE9tU0FoRWJ6ZWRvSFVJOUtHLWRuanhkWlVpY2VTUHkyNmhKeFFwR29US1gyVGQ?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 6 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 8 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # MS (multiple sclerosis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>6 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>8 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,7 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (6)
+## Related News (8)
 
 ### [Kent GP's verdict on 'American Covid' and the symptoms to look for - Kent Online](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzNxQjRQaG4zbE9hLU1qMHdEOHdjVGJta0J4aHFYcjhxYjVXc3FoYk5ieG04MzlCQURQMGI3OFYxdUgtUDVTUkRmTzJBZ1VJX2xpX3R2TlNteExwNXI5X0o2c01IRnpzcmVTTlZaUlhSXzhIT0dKZ1kzRGU5WXpQODJ2dHRFc0tsU0tHcXFrajEzQzFZM3hvVXhPdTdDc0o4dlozNzY0NA?oc=5)
 
@@ -56,7 +56,15 @@ Source: [Kent Online](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzNxQ
 
 ---
 
-### [Empresas.- MSD anuncia que 'Keytruda' reduce un 43% el riesgo de progresión o muerte en cáncer de endometrio](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZUVCMW5LS19WVGh2NXpUUHZjR3poZGtJZ2RzNGtZSXQ2cnM1eDM1aFVvVlFpUV9ObXVJQ3d5bC05VTJ0WF81alE3TENQVXZBaG5wak5RMXhNYmdsWWVER3c2aU1qV29vd3Fuc2F1WXg5cmFhTUlFeWRXUzVHMU5nMENvdTQzd0JSeXJNQ1pQV3BaXzlURC1xcHJfc29la1hNLTUzX2o5OEowSG1Yc19nX2lVb3dMeFAzb0ZzeTBOOFYzQWhlZWhaVHlLejFHem1ONUxCZ0xGc1ZGeXBnSHc?oc=5)
+### [Scabies cases confirmed at Swansea hospital with visiting restrictions in place - Wales Online](https://news.google.com/rss/articles/CBMimwFBVV95cUxNYTFJbENLc0hRQ3JOX1AxQ2U1a0NCZFFCZHpITVkxbG1CMVR0MFhKQlI1bXdzVzB3Mk9UZ3F1QmVvNGw2NkxMTHBhVlR6a1o4NGVQRFkySHZ5Ym5GV21QWktNMlVFWXpjTW0wTVBFRzJsS2ZlNG4wOWRXaWM1WGFNbk81ZFlhRkVfU0JHQ2JocmctYTRSdDZWQWxGZ9IBoAFBVV95cUxPR1dGMUFBcTJTMmxHWDVTZmNtbG5nMkY0TVRFa2RGaGdGVzFHYkI1TXNQaHpJeDFTZFg0MkxKTGlCTWRLMEN4ei04OXhtRnlkZGlXY3FDa0xRdlhCdGNsYVVVNnFOYkIxRm96S2ltQ1pCN2FNQ3ZzX1EtRGgzZkJ6Q3dZVGdmV1lfUmxhcHVWZ0VtWVdmNjJ2MHVTcUVjLU9D?oc=5)
+
+2026-10-30
+
+Source: [Wales Online](https://news.google.com/rss/articles/CBMimwFBVV95cUxNYTFJbENLc0hRQ3JOX1AxQ2U1a0NCZFFCZHpITVkxbG1CMVR0MFhKQlI1bXdzVzB3Mk9UZ3F1QmVvNGw2NkxMTHBhVlR6a1o4NGVQRFkySHZ5Ym5GV21QWktNMlVFWXpjTW0wTVBFRzJsS2ZlNG4wOWRXaWM1WGFNbk81ZFlhRkVfU0JHQ2JocmctYTRSdDZWQWxGZ9IBoAFBVV95cUxPR1dGMUFBcTJTMmxHWDVTZmNtbG5nMkY0TVRFa2RGaGdGVzFHYkI1TXNQaHpJeDFTZFg0MkxKTGlCTWRLMEN4ei04OXhtRnlkZGlXY3FDa0xRdlhCdGNsYVVVNnFOYkIxRm96S2ltQ1pCN2FNQ3ZzX1EtRGgzZkJ6Q3dZVGdmV1lfUmxhcHVWZ0VtWVdmNjJ2MHVTcUVjLU9D?oc=5)
+
+---
+
+### [MSD anuncia que 'Keytruda' reduce un 43% el riesgo de progresión o muerte en cáncer de endometrio](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZUVCMW5LS19WVGh2NXpUUHZjR3poZGtJZ2RzNGtZSXQ2cnM1eDM1aFVvVlFpUV9ObXVJQ3d5bC05VTJ0WF81alE3TENQVXZBaG5wak5RMXhNYmdsWWVER3c2aU1qV29vd3Fuc2F1WXg5cmFhTUlFeWRXUzVHMU5nMENvdTQzd0JSeXJNQ1pQV3BaXzlURC1xcHJfc29la1hNLTUzX2o5OEowSG1Yc19nX2lVb3dMeFAzb0ZzeTBOOFYzQWhlZWhaVHlLejFHem1ONUxCZ0xGc1ZGeXBnSHc?oc=5)
 
 2026-10-30
 
@@ -77,6 +85,14 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNY
 2026-10-30
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
+
+---
+
+### [More greens, higher testosterone? What a Finnish study found](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnJlYk11ekVTZ29IeE5Qb2ZjWFJYZ0VBaGJmVHNGOGRuTlNOOVFpaktQanNjUXIzUmcydFd3VFVNcHV0UGdNOGlKQjBLWjBnLUh1UTMwM2toQTNtS05uZVUtMTBFel9OYTY0N2NCWlBvdVhhWGRRa0thYkY0VGdlUUF4NkJzaGJnOVBMSzJYd0VUTXZkWHA0S0tn?oc=5)
+
+2026-10-30
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnJlYk11ekVTZ29IeE5Qb2ZjWFJYZ0VBaGJmVHNGOGRuTlNOOVFpaktQanNjUXIzUmcydFd3VFVNcHV0UGdNOGlKQjBLWjBnLUh1UTMwM2toQTNtS05uZVUtMTBFel9OYTY0N2NCWlBvdVhhWGRRa0thYkY0VGdlUUF4NkJzaGJnOVBMSzJYd0VUTXZkWHA0S0tn?oc=5)
 
 ---
 

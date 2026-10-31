@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Semaglutide. 0 predicted indications."
 permalink: /news/semaglutide/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Semaglutide News
@@ -32,11 +32,11 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 ## Related News (2)
 
-### [Ce qu’il faut savoir sur l’arrivée du Wegovy en comprimés contre l’obésité - 20 Minutes](https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3AwWGtYQ2t2TTNaY2lLUDBDd3JERHZSdmltOXpsMGI5TnJKQ0NWWUhTV1NaRTd5U3NxOEstQkg1WjVuRnp5R1M5bjZWNWk4LWRNUURBbk5Ma3lLdVRnc256VlZ5NXdkb1FtNUhDakxIYWNIUGRYNnMwcWIwOWxodlRmSmxOYnBlaTdxQmdMNGNoU0RUT1lNaXVabXRIUVZwdDdlU0h1bzY5UUtiYlpjag?oc=5)
+### [Le Wegovy arrive en France sous forme de comprimé : prix, disponibilité, ordonnance… voici tout ce qu'il faut savoir sur ce traitement anti-obésité](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV29JcEZQLU1udm5DaXJ1RzFIX3VhSWdodk5mcGU1TlFKdUJvOWE0RldDWTJRakZBWWM3ZXo4TE1TNWFOaHNQVVZhemE0OVlyYUlvWXZvMGZ6VmpYNGpHWElNMDhJNlN5cS15WUY0WldtNGp0RlVYSkVMYWdfMmNybF93TkZwR0QtVlBRVVBxZDdsUW40Yks3Qml0RGJFdXEwZjR1QjBlQjhXMVdHYUYwMUlkWkQ4aXA4ODJNWkFRaFFmZFNrREJ6cWhoaw?oc=5)
 
-2026-10-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+2026-10-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
-Source: [20 Minutes](https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3AwWGtYQ2t2TTNaY2lLUDBDd3JERHZSdmltOXpsMGI5TnJKQ0NWWUhTV1NaRTd5U3NxOEstQkg1WjVuRnp5R1M5bjZWNWk4LWRNUURBbk5Ma3lLdVRnc256VlZ5NXdkb1FtNUhDakxIYWNIUGRYNnMwcWIwOWxodlRmSmxOYnBlaTdxQmdMNGNoU0RUT1lNaXVabXRIUVZwdDdlU0h1bzY5UUtiYlpjag?oc=5)
+Source: [Presse-citron](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV29JcEZQLU1udm5DaXJ1RzFIX3VhSWdodk5mcGU1TlFKdUJvOWE0RldDWTJRakZBWWM3ZXo4TE1TNWFOaHNQVVZhemE0OVlyYUlvWXZvMGZ6VmpYNGpHWElNMDhJNlN5cS15WUY0WldtNGp0RlVYSkVMYWdfMmNybF93TkZwR0QtVlBRVVBxZDdsUW40Yks3Qml0RGJFdXEwZjR1QjBlQjhXMVdHYUYwMUlkWkQ4aXA4ODJNWkFRaFFmZFNrREJ6cWhoaw?oc=5)
 
 ---
 
