@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 516
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Remdesivir"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
 description: "Remdesivir: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Veklury is indicated for the treatment of coronavirus disease 2019 (C…"
@@ -106,7 +106,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model (deep learning) score. There are no clinical trials or publications, no plausible mechanism links an antiviral polymerase inhibitor to a hereditary endocrine tumour syndrome, and the only EU authorization is cancelled.
+The prediction rests only on a TxGNN model (deep learning) score.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible biological rationale for multiple endocrine neoplasia

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 65
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Aspartic Acid: predicted new indication Renal tubular acidosis (evidence level L5). Approved use: Treatment of maple syrup urine disease (MSUD) presenting with an acut…"
 monitor_inn: "aspartic acid"
 predicted_indications: ["renal tubular acidosis"]
@@ -108,7 +108,7 @@ No drug interaction data were found. For authoritative warnings and contraindica
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (Evidence Level L5). No clinical trials exist, the literature contains no efficacy data for RTA, the mechanistic link is weak, and the only EU authorisation has been cancelled. Knowledge-graph contraindication signals involving kidney disease add further caution.
+The prediction rests on model output alone (Evidence Level L5). Knowledge-graph contraindication signals involving kidney disease add further caution.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank) to test whether any plausible pathway links aspartic acid to tubular acid-base handling

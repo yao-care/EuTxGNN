@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 309
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Idebenone: predicted new indication Hepatic porphyria (evidence level L5). Approved use: Treatment of visual impairment in adolescent and adult patients with…"
 monitor_inn: "Idebenone"
 predicted_indications: ["hepatic porphyria", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "immune-mediated necrotizing myopathy", "osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome", "antisynthetase syndrome", "focal myositis"]
@@ -85,7 +85,7 @@ Please refer to the SmPC for safety information. No warnings, contraindications,
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials, no literature, and no established mechanism. The only EU authorization (Raxone) is cancelled, and safety data could not be retrieved, so the candidate cannot advance to safety screening.
+The prediction rests only on a model score, with no clinical trials, no literature, and no established mechanism.
 
 **To proceed, the following is needed:**
 - Obtain the EMA product information (warnings and contraindications) to complete safety screening

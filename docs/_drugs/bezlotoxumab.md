@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Bezlotoxumab: predicted new indication Acute female pelvic peritonitis (evidence level L5). Approved use: Prevention of recurrence of Clostridium difficile infection (CDI) in…"
 monitor_inn: "Bezlotoxumab"
 predicted_indications: ["acute female pelvic peritonitis", "embryonic cyst of fallopian tube", "tubal pregnancy", "salpingitis isthmica nodosa", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "pelvic varices"]
@@ -84,7 +84,7 @@ Please refer to the SmPC for safety information. No drug interaction records wer
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score. There are no clinical trials or publications, and no plausible mechanistic link between toxin B neutralization and pelvic peritonitis. The only EU authorization has been cancelled, which further limits the practical feasibility of repurposing.
+The prediction is supported only by a model score. There are no clinical trials or publications, and no plausible mechanistic link between toxin B neutralization and pelvic peritonitis.
 
 **To proceed, the following is needed:**
 - Mechanism of action data to assess any biological link to the predicted indication

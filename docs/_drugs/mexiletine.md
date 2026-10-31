@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 404
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Mexiletine: predicted new indication hypertrichosis (disease) (evidence level L5). Approved use: Symptomatic treatment of myotonia in adult patients with non-dystroph…"
 monitor_inn: "Mexiletine"
 predicted_indications: ["hypertrichosis (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "migraine disorder", "isolated genetic hair shaft abnormality", "pulmonary hypertension", "migraine with brainstem aura", "headache disorder"]
@@ -88,7 +88,7 @@ Please refer to the SmPC for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for hypertrichosis rests on a model score alone. There are no clinical trials or literature, no plausible mechanism, and the only EU authorisation is cancelled. Taking on mexiletine's cardiac and interaction risks is not justified for this indication.
+The prediction for hypertrichosis rests on a model score alone. Taking on mexiletine's cardiac and interaction risks is not justified for this indication.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a plausible biological link between sodium channel blockade and hair growth

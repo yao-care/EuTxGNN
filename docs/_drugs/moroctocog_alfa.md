@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 417
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Moroctocog alfa"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "acquired coagulation factor deficiency", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency"]
 description: "Moroctocog Alfa: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia A…"
@@ -93,7 +93,7 @@ Note from the label: moroctocog alfa contains no von Willebrand factor and is no
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication has no clinical or published support (evidence level L5), and the mechanism does not fit. The disease is a platelet secretion defect, whereas the drug replaces FVIII. The only EU authorization is cancelled, and the safety data needed for screening are missing.
+The predicted indication has no clinical or published support (evidence level L5), and the mechanism does not fit. The disease is a platelet secretion defect, whereas the drug replaces FVIII.
 
 **To proceed, the following is needed:**
 - Safety information (warnings and contraindications) from the EMA product information, which is currently a blocking gap

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 546
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Salmeterol: predicted new indication Bronchitis (evidence level L1). Approved use: Regular treatment of asthma in adults and adolescents aged 12 years a…"
 monitor_inn: "salmeterol"
 predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
@@ -132,7 +132,6 @@ Please refer to the SmPC for the full warnings and contraindications.
 - Mechanism of action data confirmed from DrugBank.
 - Warnings and contraindications from the SmPC.
 - Clarification of the exact bronchitis population (chronic bronchitis within COPD vs. acute bronchitis), since the evidence does not address acute bronchitis.
-- Confirmation of the regulatory pathway, given that the only EU license is cancelled.
 - A safety plan covering LABA use with inhaled corticosteroids, cardiovascular risk, and interactions with strong CYP3A4 inhibitors such as clarithromycin.
 ## Disclaimer
 

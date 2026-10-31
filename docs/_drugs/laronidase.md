@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 352
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Laronidase: predicted new indication Lysosomal storage disease with skeletal involvement (evidence level L3). Approved use: Long-term enzyme replacement therapy in patients with a confirmed dia…"
 monitor_inn: "Laronidase"
 predicted_indications: ["lysosomal storage disease with skeletal involvement", "Sanfilippo syndrome"]
@@ -106,7 +106,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication essentially duplicates the approved MPS I indication, so it is not a genuine repurposing candidate. Evidence is limited to reviews, an in vitro study and a case report, with no registered trials. Bone penetration of intravenous enzyme replacement is also known to be limited, and the only EU authorization is cancelled.
+The predicted indication essentially duplicates the approved MPS I indication, so it is not a genuine repurposing candidate. Evidence is limited to reviews, an in vitro study and a case report, with no registered trials.
 
 **To proceed, the following is needed:**
 - Clarification of whether the prediction represents any use beyond the approved MPS I indication

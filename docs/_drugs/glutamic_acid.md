@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 290
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Glutamic Acid: predicted new indication Postmenopausal osteoporosis (evidence level L4). Approved use: Treatment of maple syrup urine disease (MSUD) presenting with an acut…"
 monitor_inn: "glutamic acid"
 predicted_indications: ["postmenopausal osteoporosis", "pregnancy associated osteoporosis", "primary hereditary glaucoma", "gastroparesis (disease)"]
@@ -121,7 +121,7 @@ Several of these signals, especially kidney disease, nephrolithiasis and calcium
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a computational score alone. There are no registered clinical trials, the only supportive literature is one animal study and one acute calcium-absorption study of a polymer derivative, and no mechanism links the original MSUD indication to bone metabolism. The only EU authorisation is cancelled, and the knowledge-graph contraindication signals (renal, calcium and cardiovascular disorders) need careful review.
+The prediction rests on a computational score alone. There are no registered clinical trials, the only supportive literature is one animal study and one acute calcium-absorption study of a polymer derivative, and no mechanism links the original MSUD indication to bone metabolism.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a plausible pathway linking glutamic acid to bone remodelling

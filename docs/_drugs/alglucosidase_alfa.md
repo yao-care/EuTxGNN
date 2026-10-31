@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 36
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Alglucosidase Alfa: predicted new indication Adult polyglucosan body disease (evidence level L5). Approved use: Long-term enzyme-replacement therapy (ERT) in patients with a confirm…"
 monitor_inn: "Alglucosidase alfa"
 predicted_indications: ["adult polyglucosan body disease", "congenital entropion", "congenital ectropion", "congenital Horner syndrome (disease)", "ptosis-vocal cord paralysis syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "epiblepharon", "ptosis-strabismus-ectopic pupils syndrome"]
@@ -101,14 +101,13 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials or publications, and the biology argues against it: the enzyme acts in lysosomes, the disease defect is cytosolic, and brain penetration is poor. The only EU authorization is cancelled.
+The prediction rests only on a model score. There are no clinical trials or publications, and the biology argues against it: the enzyme acts in lysosomes, the disease defect is cytosolic, and brain penetration is poor.
 
 **To proceed, the following is needed:**
 - Safety information (warnings and contraindications) from the SmPC or package insert
 - Mechanism of action data, to allow a proper mechanistic analysis
 - Preclinical evidence on whether lysosomal GAA can reduce cytosolic polyglucosan, including delivery to neural tissue
 - Review of the existing literature on enzyme replacement in glycogen branching enzyme deficiency
-- Clarification of the regulatory situation, given that the only EU authorization is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

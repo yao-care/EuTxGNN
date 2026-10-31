@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 78
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Azathioprine: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Prophylaxis of transplant rejection (kidney, liver, heart, lung…"
 monitor_inn: "Azathioprine"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
@@ -113,7 +113,6 @@ The prediction rests on the model score alone (evidence level L5), with no trial
 - Mechanism of action data and a biological rationale linking purine antimetabolite activity to this syndrome's pathology
 - Preclinical or case-level evidence of benefit in the condition
 - Label-level warnings and contraindications from the SmPC to support a safety screen
-- Confirmation of the product's current regulatory status in the EU, since the only authorization is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

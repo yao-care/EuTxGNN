@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 495
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Prasterone: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Treatment of vulvar and vaginal atrophy in postmenopausal women havin…"
 monitor_inn: "Prasterone"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "severe nonproliferative diabetic retinopathy", "thrombophilia due to protein S deficiency, autosomal recessive", "scleroderma (disease)", "complement component 4a deficiency", "pseudo-von Willebrand disease", "primary release disorder of platelets"]
@@ -82,7 +82,7 @@ Because the predicted indications are prothrombotic or bleeding disorders, the e
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (L5). There are no clinical trials or publications, no established mechanism, and the only EU authorisation has been cancelled. The biological link to heparin cofactor 2 deficiency is not supported, and a coagulation-related safety concern cannot be excluded.
+The prediction rests on a model score alone (L5). The biological link to heparin cofactor 2 deficiency is not supported, and a coagulation-related safety concern cannot be excluded.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for prasterone, and a plausible link to heparin cofactor 2 or the coagulation cascade

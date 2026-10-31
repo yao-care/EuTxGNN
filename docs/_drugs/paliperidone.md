@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 460
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Paliperidone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia in adults and adolescents 15 years and older"
 monitor_inn: "Paliperidone"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
@@ -110,7 +110,7 @@ Please refer to the SmPC for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score. There are no trials or publications, no plausible mechanistic link, and the only EU authorization is cancelled. The extensive safety signals (QT prolongation, metabolic effects, neutropenia) would also need justification in a non-psychiatric population.
+The prediction is supported only by a model score. The extensive safety signals (QT prolongation, metabolic effects, neutropenia) would also need justification in a non-psychiatric population.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a testable biological hypothesis linking paliperidone to retinal degeneration

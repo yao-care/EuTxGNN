@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 481
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel: predicted new indication Beta-ketothiolase deficiency (evidence level L5). Approved use: Fycompa is indicated for the adjunctive treatment of partial-onset se…"
@@ -122,7 +122,6 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-- The only EU authorization is cancelled, and safety label data could not be retrieved.
 
 **To proceed, the following is needed:**
 - Visual or photosensitive epilepsy data, such as photoparoxysmal response studies or case series with perampanel

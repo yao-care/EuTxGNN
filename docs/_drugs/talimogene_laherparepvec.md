@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 587
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Talimogene Laherparepvec: predicted new indication CMM7 (ambiguous label) (evidence level L5). Approved use: Unresectable melanoma that is regionally or distantly metastatic (Sta…"
 monitor_inn: "Talimogene laherparepvec"
 predicted_indications: ["CMM7", "glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma"]
@@ -116,7 +116,7 @@ For warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials or publications, the target label "CMM7" cannot be mapped to a defined disease, and the only EU authorization is cancelled.
+The prediction rests only on a model score.
 
 **To proceed, the following is needed:**
 - Clarify what "CMM7" refers to and map it to a defined clinical entity

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 209
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Eflornithine: predicted new indication Esotropia (evidence level L5). Approved use: Treatment of facial hirsutism in women"
 monitor_inn: "Eflornithine"
 predicted_indications: ["esotropia", "neurotrophic keratopathy"]
@@ -87,7 +87,7 @@ Please refer to the SmPC for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The esotropia prediction has no supporting trials or literature and no plausible mechanistic link (Evidence Level L5). The only EU authorisation has been cancelled.
+The esotropia prediction has no supporting trials or literature and no plausible mechanistic link (Evidence Level L5).
 
 **To proceed, the following is needed:**
 - A credible mechanistic hypothesis linking polyamine/ODC inhibition to ocular motility or binocular alignment, supported by preclinical data

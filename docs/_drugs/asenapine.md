@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 63
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Asenapine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Moderate to severe manic episodes associated with bipolar I disorder…"
 monitor_inn: "Asenapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "major affective disorder"]
@@ -105,7 +105,7 @@ Please refer to the SmPC for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no clinical, registered-trial or literature support, and no plausible mechanistic link between asenapine and inherited retinal dystrophy. The only authorization is cancelled, and the drug's safety profile (cardiovascular, metabolic and haematological signals, plus a heavy interaction burden) makes speculative use in a non-psychiatric population hard to justify.
+The prediction has a high model score but no clinical, registered-trial or literature support, and no plausible mechanistic link between asenapine and inherited retinal dystrophy.
 
 A separate prediction for "major affective disorder" (rank 10) does have supporting literature, including a meta-analysis of randomized trials of asenapine in acute mania. That prediction is essentially the already-approved indication rather than a true repurposing finding, so it does not support the retinal dystrophy prediction.
 
@@ -113,7 +113,6 @@ A separate prediction for "major affective disorder" (rank 10) does have support
 - Preclinical or mechanistic evidence that asenapine's receptor activity could affect retinal degeneration pathways.
 - Detailed mechanism of action data for asenapine.
 - Complete SmPC warnings and contraindications.
-- Verification of the current regulatory and availability status, since the only EU authorization is cancelled.
 - Any supporting clinical or literature evidence, before reconsidering the decision.
 ## Disclaimer
 

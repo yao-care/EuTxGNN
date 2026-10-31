@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 358
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ledipasvir: predicted new indication Hepatitis B virus infection (evidence level L2). Approved use: Chronic hepatitis C (CHC) in adults and paediatric patients aged 3 ye…"
 monitor_inn: "Ledipasvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "chronic hepatitis B virus infection", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
@@ -123,7 +123,7 @@ For warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-There is a completed Phase 2 study in HBV-infected subjects (n=21), but it is small and uncontrolled. The mechanism is unclear, and sofosbuvir may account for any observed effect. HBV reactivation is a documented safety signal. The only EU authorization has been cancelled, which limits near-term regulatory options. The prediction is best treated as a research question for now.
+There is a completed Phase 2 study in HBV-infected subjects (n=21), but it is small and uncontrolled. The mechanism is unclear, and sofosbuvir may account for any observed effect. HBV reactivation is a documented safety signal. The prediction is best treated as a research question for now.
 
 **To proceed, the following is needed:**
 - Detailed results of the Phase 2 study (NCT03312023 / PMID 36045503), including HBsAg and HBV DNA changes

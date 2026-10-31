@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 236
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Erdafitinib: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Monotherapy for adult patients with unresectable or metastatic urothe…"
 monitor_inn: "Erdafitinib"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "amenorrhea (disease)", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "brachydactyly-syndactyly syndrome"]
@@ -100,7 +100,7 @@ Formal warnings and contraindications from the product information were not avai
 **Decision: Hold**
 
 **Rationale:**
-The prediction for pulmonary hypertension has no clinical trials or publications behind it and is supported only by a computational score and a loosely plausible pathway link. The mixed record of the TKI class in this disease adds uncertainty. The only EU authorization is also cancelled. The other nine predicted indications (including rheumatoid arthritis and the ALS entries) likewise have no meaningful supporting evidence.
+The prediction for pulmonary hypertension has no clinical trials or publications behind it and is supported only by a computational score and a loosely plausible pathway link. The mixed record of the TKI class in this disease adds uncertainty. The other nine predicted indications (including rheumatoid arthritis and the ALS entries) likewise have no meaningful supporting evidence.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for erdafitinib

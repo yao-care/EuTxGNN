@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 514
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Relebactam: predicted new indication Hyperamylasemia (evidence level L5). Approved use: Hospital-acquired pneumonia (HAP)…"
 monitor_inn: "Relebactam"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia"]
@@ -83,7 +83,7 @@ Please refer to the SmPC for safety information. No warnings, contraindications,
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication, hyperamylasemia, has no clinical trials, no literature, and no plausible mechanism, so the high score is most likely a TxGNN model (deep learning) artifact. The only EU authorization has been cancelled, which further limits practical feasibility.
+The predicted indication, hyperamylasemia, has no clinical trials, no literature, and no plausible mechanism, so the high score is most likely a TxGNN model (deep learning) artifact.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for relebactam, to allow a proper mechanistic cross-check

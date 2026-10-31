@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 11
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Abacavir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infection…"
 monitor_inn: "Abacavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -110,7 +110,6 @@ The only evidence for SIV infection is a single in vitro study, with no clinical
 - Treat this as a preclinical or model-use question only, with in vivo data in a primate model if it is pursued.
 - Detailed mechanism of action data (MOA).
 - EU label warnings and contraindications from the SmPC.
-- Clarification of current EU availability of abacavir products, since the only record found is cancelled.
 
 For reference, two other predictions for this drug have stronger support, but both fall within or near the approved HIV indication. **Congenital HIV** has a completed Phase 3 trial (NCT00102960, n=377), and **AIDS related complex** has a completed Phase 2 study (NCT00002364, n=40). If the goal is practical value, these are better candidates to review than SIV infection.
 ## Disclaimer

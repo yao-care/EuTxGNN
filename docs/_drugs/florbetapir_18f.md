@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Florbetapir 18F: predicted new indication Bronchitis (evidence level L5). Approved use: PET imaging of beta-amyloid neuritic plaque density in the brains of…"
 monitor_inn: "Florbetapir (18F)"
 predicted_indications: ["bronchitis"]
@@ -97,7 +97,7 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has only a model score, with no clinical trials, no publications, and no plausible mechanism. Florbetapir is a trace-dose diagnostic agent without therapeutic activity, and its only EU authorization is cancelled.
+The prediction has only a model score, with no clinical trials, no publications, and no plausible mechanism.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, to assess whether any biological link to bronchitis exists

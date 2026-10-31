@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 353
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Larotrectinib: predicted new indication Multiple endocrine neoplasia (evidence level L3). Approved use: Solid tumours with an NTRK gene fusion that are locally advanced…"
 monitor_inn: "Larotrectinib"
 predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]
@@ -110,7 +110,6 @@ The prediction score is high, but the evidence is indirect: one non-specific bas
 - Mechanism of action data and a clear rationale for TRK inhibition in RET-driven MEN
 - Larotrectinib-specific results from the NCI-MATCH NTRK arm, or other trials in MEN patients with NTRK fusions
 - Safety information from the SmPC (warnings and contraindications), which is currently a blocking gap
-- Clarification of the EU regulatory status, since the only authorization is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

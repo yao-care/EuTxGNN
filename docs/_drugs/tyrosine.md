@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 647
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tyrosine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Maple syrup urine disease (MSUD) presenting with an acute decompensat…"
 monitor_inn: "tyrosine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "traumatic glaucoma", "aqueous misdirection", "neovascular glaucoma"]
@@ -110,7 +110,7 @@ Please refer to the SmPC for safety information. No drug interaction records wer
 **Decision: Hold**
 
 **Rationale:**
-The prediction for cauda equina syndrome rests only on a model score, with no trials, no literature and no plausible mechanism. The only authorisation is cancelled, and safety data are missing. The other top-ranked predictions (thyroid-related and glaucoma conditions) also lack tyrosine-specific evidence, and some are mechanistically counterproductive, such as supplementing a thyroid hormone precursor in hyperthyroidism.
+The prediction for cauda equina syndrome rests only on a model score, with no trials, no literature and no plausible mechanism. The other top-ranked predictions (thyroid-related and glaucoma conditions) also lack tyrosine-specific evidence, and some are mechanistically counterproductive, such as supplementing a thyroid hormone precursor in hyperthyroidism.
 
 **To proceed, the following is needed:**
 - Safety information (warnings and contraindications) from the EMA product information

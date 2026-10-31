@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 508
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Ranolazine"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Ranolazine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Ranexa is indicated as add-on therapy for the symptomatic treatment o…"
@@ -90,7 +90,7 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN score (L5), with no clinical trials or literature and no plausible mechanistic link between late sodium current inhibition and AVPR2 gain-of-function. In addition, the only EU authorization has been cancelled, and the knowledge graph flags kidney disease as a contraindication.
+The prediction is supported only by the TxGNN score (L5), with no clinical trials or literature and no plausible mechanistic link between late sodium current inhibition and AVPR2 gain-of-function.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (for example from DrugBank) and a mechanistic analysis relevant to V2 receptor signalling

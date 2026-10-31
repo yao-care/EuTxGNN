@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 554
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Selpercatinib: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Advanced RET fusion-positive non-small cell lung cancer (NSCLC)"
 monitor_inn: "Selpercatinib"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura"]
@@ -103,7 +103,7 @@ Selpercatinib is also known to cause hypertension, which is a concern in a pulmo
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score (evidence level L5). There are no clinical trials, no relevant literature and no plausible mechanistic link between RET inhibition and pulmonary hypertension. The only EU authorization has been cancelled, and the interaction burden is substantial.
+The prediction is supported only by the model score (evidence level L5). There are no clinical trials, no relevant literature and no plausible mechanistic link between RET inhibition and pulmonary hypertension.
 
 **To proceed, the following is needed:**
 - Preclinical evidence that RET signalling contributes to pulmonary vascular remodelling

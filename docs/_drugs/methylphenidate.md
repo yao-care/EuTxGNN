@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 401
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Methylphenidate"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
 description: "Methylphenidate: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Tuzulby is indicated as part of a comprehensive treatment programme f…"
@@ -128,7 +128,7 @@ Please refer to the SmPC for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, faciodigitogenital syndrome, has a very high model score but no trials, no publications and no plausible mechanistic link (evidence level L5). The only EU authorisation is cancelled.
+The top prediction, faciodigitogenital syndrome, has a very high model score but no trials, no publications and no plausible mechanistic link (evidence level L5).
 
 **To proceed, the following is needed:**
 - Official EU label warnings and contraindications (safety screening cannot proceed without them)

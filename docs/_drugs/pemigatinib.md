@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 479
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Pemigatinib: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Locally advanced or metastatic cholangiocarcinoma with an FGFR2 fusio…"
 monitor_inn: "Pemigatinib"
 predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "HER2 positive breast carcinoma", "cytomegalovirus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "amyotrophic lateral sclerosis", "amyotrohpic lateral sclerosis type 22", "axial spondylometaphyseal dysplasia"]
@@ -108,7 +108,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone (L5). There are no clinical trials or literature, no verified mechanistic link to multiple endocrine neoplasia, and the only EU authorization is cancelled.
+The prediction rests on the model score alone (L5).
 
 **To proceed, the following is needed:**
 - Mechanism of action data to test whether FGFR inhibition is relevant to MEN1, RET, or CDKN1B-driven disease

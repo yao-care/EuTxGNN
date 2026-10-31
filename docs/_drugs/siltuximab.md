@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 562
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Siltuximab"
 predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "Kaposi's sarcoma (disease)", "autosomal recessive familial Mediterranean fever", "aggressive systemic mastocytosis", "autosomal dominant familial periodic fever"]
 description: "Siltuximab: predicted new indication Extracutaneous mastocytoma (evidence level L5). Approved use: Sylvant is indicated for the treatment of adult patients with multice…"
@@ -89,7 +89,7 @@ For warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for extracutaneous mastocytoma rests only on a model score. It has no clinical trials, no literature, and no clear mechanistic rationale. The only EU authorization is also cancelled.
+The prediction for extracutaneous mastocytoma rests only on a model score. It has no clinical trials, no literature, and no clear mechanistic rationale.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence linking IL-6 blockade to mast cell neoplasms, supported by preclinical or early clinical data

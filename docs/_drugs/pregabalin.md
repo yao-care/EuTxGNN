@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 498
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Pregabalin"
 predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 description: "Pregabalin: predicted new indication Tendinitis (evidence level L5). Approved use: Neuropathic painPregabalin Viatris Pharma is indicated for the treatm…"
@@ -135,7 +135,6 @@ Please refer to the SmPC for the official warnings and contraindications.
 
 **To proceed, the following is needed:**
 - Clinical studies of pregabalin specifically in tendinitis or tendinopathy pain, ideally in patients with a neuropathic or centrally sensitised component
-- Confirmation of current EU marketing status, since the data show only cancelled authorisations
 - Official SmPC warnings and contraindications, and detailed mechanism of action data
 - A safety plan covering sedation, abuse potential, opioid co-prescription, and renal impairment
 ## Disclaimer

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 280
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Gefitinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Locally advanced or metastatic NSCLC with activating EGFR tyrosine ki…"
 monitor_inn: "Gefitinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]
@@ -101,7 +101,7 @@ Official warnings and contraindications from the product information were not av
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-only (L5), with no trials or literature for gingival fibromatosis. The mechanistic link is speculative. The only EU authorization is cancelled, and the safety data compiled are incomplete.
+The prediction is model-only (L5), with no trials or literature for gingival fibromatosis. The mechanistic link is speculative.
 
 **To proceed, the following is needed:**
 - Any preclinical or clinical evidence on EGFR inhibition in gingival fibromatosis or related fibroproliferative conditions

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 174
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Darolutamide: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Non-metastatic castration-resistant prostate cancer (nmCRPC) at high…"
 monitor_inn: "Darolutamide"
 predicted_indications: ["homozygous familial hypercholesterolemia", "multiple endocrine neoplasia", "HIV infectious disease"]
@@ -101,7 +101,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanism linking androgen receptor antagonism to LDL receptor pathway defects. The interaction with rosuvastatin adds a further concern in a lipid-lowering setting. The only EU authorization is also cancelled.
+The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanism linking androgen receptor antagonism to LDL receptor pathway defects. The interaction with rosuvastatin adds a further concern in a lipid-lowering setting.
 
 **To proceed, the following is needed:**
 - Mechanistic data (MOA) and a plausible biological rationale linking androgen receptor blockade to LDL metabolism

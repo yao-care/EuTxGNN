@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 589
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tasonermin: predicted new indication Prostatic urethra urothelial carcinoma (evidence level L5). Approved use: Adjunct to surgery to prevent or delay amputation…"
 monitor_inn: "Tasonermin"
 predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "HER2 positive breast carcinoma", "uterine ligament adenocarcinoma", "endocervical carcinoma", "uterine ligament serous adenocarcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament clear cell adenocarcinoma"]
@@ -97,7 +97,7 @@ Please refer to the SmPC for safety information. Systemic TNF-alpha exposure is 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical or preclinical support (L5). The approved regional-perfusion delivery cannot be applied to a urethral tumour, systemic TNF-alpha toxicity is a concern, and the only EU authorization is cancelled.
+The prediction has no clinical or preclinical support (L5).
 
 **To proceed, the following is needed:**
 - Mechanism of action data linking tasonermin to urothelial carcinoma

@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 405
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Micafungin: predicted new indication Urinary tract infection (disease) (evidence level L3). Approved use: Invasive candidiasis"
 monitor_inn: "Micafungin"
 predicted_indications: ["urinary tract infection (disease)"]
@@ -99,7 +99,7 @@ Please refer to the SmPC for full safety information.
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic link for Candida UTI is plausible, and small case series and cohorts report successful treatment, including in fluconazole-resistant infections. However, the evidence is limited to observational data with no registered trials or randomized evidence. The only EU authorization is cancelled, and the label's liver-tumour warning and the kidney-related contraindication signals require careful weighing. The other nine predictions have no mechanistic or clinical support.
+The mechanistic link for Candida UTI is plausible, and small case series and cohorts report successful treatment, including in fluconazole-resistant infections. However, the evidence is limited to observational data with no registered trials or randomized evidence. The other nine predictions have no mechanistic or clinical support.
 
 **To proceed, the following is needed:**
 - The SmPC warnings and contraindications (a blocking gap for safety screening)

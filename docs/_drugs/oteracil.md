@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 455
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Oteracil: predicted new indication Colonic neoplasm (evidence level L1). Approved use: Advanced gastric cancer (with cisplatin)"
 monitor_inn: "Oteracil"
 predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "rectosigmoid junction neoplasm", "benign neoplasm of cecum", "colonic lymphangioma", "colon leiomyoma", "cavernous hemangioma of colon"]
@@ -113,7 +113,7 @@ Please refer to the SmPC for safety information. Published case reports of S-1-c
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-A completed Phase 3 RCT (NCT00660894, n=1535) and a large Phase 3 trial of unknown status (NCT03448549) support S-1-based therapy in colon cancer. However, the benefit comes from the S-1 combination rather than oteracil alone, the metastatic setting is already covered by the EU label, and the only EU authorization has been cancelled. Proceeding should be limited to the S-1 combination with careful safety monitoring.
+A completed Phase 3 RCT (NCT00660894, n=1535) and a large Phase 3 trial of unknown status (NCT03448549) support S-1-based therapy in colon cancer. Proceeding should be limited to the S-1 combination with careful safety monitoring.
 
 **To proceed, the following is needed:**
 - Warnings and contraindications from the SmPC (currently a blocking gap for safety screening)

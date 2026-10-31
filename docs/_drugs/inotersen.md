@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 322
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Inotersen: predicted new indication Acute intermittent porphyria (evidence level L4). Approved use: Treatment of stage 1 or stage 2 polyneuropathy in adult patients with…"
 monitor_inn: "Inotersen"
 predicted_indications: ["acute intermittent porphyria", "appendicitis", "IgG4-related pachymeningitis", "IgG4-related retroperitoneal fibrosis", "non-infectious meningitis", "peritonitis", "infectious meningitis", "IgG4-related mesenteritis", "IgG4-related mediastinitis", "eosinophilic angiocentric fibrosis"]
@@ -89,7 +89,7 @@ Please refer to the SmPC for the full label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-There are no clinical trials, and the only publication is a general review with no direct link to acute intermittent porphyria. The mechanism is not supported, and the only EU authorization has been cancelled. The prediction should stay at the research-question stage.
+There are no clinical trials, and the only publication is a general review with no direct link to acute intermittent porphyria. The prediction should stay at the research-question stage.
 
 **To proceed, the following is needed:**
 - Label warnings and contraindications from the EMA package insert, which are currently missing and block safety screening

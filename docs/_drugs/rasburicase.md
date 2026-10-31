@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 510
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Rasburicase: predicted new indication Hypouricemia, renal (evidence level L5). Approved use: Treatment and prophylaxis of acute hyperuricaemia…"
 monitor_inn: "Rasburicase"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "hepatic porphyria", "hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "renal tubular acidosis", "disorder of phenylalanine metabolism"]
@@ -80,14 +80,13 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported by a model score only (L5), with no clinical trials or literature. The mechanism argues against benefit, since lowering uric acid in a condition of already low uric acid could be harmful. The product's only EU authorization is also cancelled.
+The prediction is supported by a model score only (L5), with no clinical trials or literature. The mechanism argues against benefit, since lowering uric acid in a condition of already low uric acid could be harmful.
 
 **To proceed, the following is needed:**
 - A biological rationale that justifies the prediction, or a decision to deprioritize it because the TxGNN model (deep learning) score may only reflect learned similarities between related diseases, not biological evidence
 - Mechanism of action data from DrugBank
 - Warnings and contraindications from the SmPC
 - Review of lower-ranked or alternative predictions, such as partial HPRT deficiency, for acute severe hyperuricaemia use only
-- Clarification of the regulatory status, given that the only EU authorization is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

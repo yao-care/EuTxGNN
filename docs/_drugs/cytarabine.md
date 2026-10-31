@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 163
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cytarabine: predicted new indication Small cell lung carcinoma (evidence level L4). Approved use: Newly diagnosed therapy-related acute myeloid leukaemia (t-AML) or AM…"
 monitor_inn: "Cytarabine"
 predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
@@ -108,7 +108,7 @@ Please refer to the SmPC for full warnings and precautions.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no registered clinical trials and no supportive SCLC data beyond an old report without an available abstract. The NSCLC studies showed limited efficacy with significant toxicity, and the only EU authorisation has been cancelled. Evidence is at the L4 level.
+The prediction has no registered clinical trials and no supportive SCLC data beyond an old report without an available abstract. Evidence is at the L4 level.
 
 **To proceed, the following is needed:**
 - Retrieve and appraise the 1987 high-dose cytarabine SCLC report (PMID 3030547)

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 596
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Temoporfin: predicted new indication Nasopharyngeal teratoma (evidence level L5). Approved use: Palliative treatment of patients with advanced head and neck squamous…"
 monitor_inn: "Temoporfin"
 predicted_indications: ["nasopharyngeal teratoma", "odontogenic cyst", "pre-malignant neoplasm", "epiglottis neoplasm", "tumor of testis and paratestis", "cystic neoplasm", "benign neoplasm of floor of mouth", "benign neoplasm of tongue", "benign neoplasm of hypopharynx", "cervical neuroblastoma"]
@@ -113,7 +113,7 @@ Please refer to the SmPC for safety information. No drug interaction records wer
 **Decision: Hold**
 
 **Rationale:**
-The prediction for nasopharyngeal teratoma rests on a model score alone, with no trials or publications. The only EU authorization is cancelled, and warnings and contraindications from the label could not be obtained, so safety screening cannot proceed.
+The prediction for nasopharyngeal teratoma rests on a model score alone, with no trials or publications.
 
 **To proceed, the following is needed:**
 - Safety information (warnings and contraindications) from the EMA product information

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 461
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Palivizumab: predicted new indication Benign neoplasm of tongue (evidence level L5). Approved use: Prevention of serious lower-respiratory-tract disease requiring hospi…"
 monitor_inn: "Palivizumab"
 predicted_indications: ["benign neoplasm of tongue", "epiglottis neoplasm", "cervical neuroblastoma", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "tumor of testis and paratestis", "cystic neoplasm", "schwannoma of jugular foramen", "mesenchymoma", "thyroglossal duct cyst"]
@@ -87,7 +87,7 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials, no literature, and no plausible mechanistic link between an anti-RSV F-protein antibody and benign tongue neoplasms. The only EU authorization has been cancelled, and key safety information is missing.
+The prediction has no clinical trials, no literature, and no plausible mechanistic link between an anti-RSV F-protein antibody and benign tongue neoplasms.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank) and a rationale for any activity in tongue tissue

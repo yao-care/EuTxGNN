@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 463
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Panitumumab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Adult patients with wild-type RAS metastatic colorectal cancer (mCRC)…"
 monitor_inn: "Panitumumab"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy"]
@@ -113,7 +113,6 @@ The prediction rests only on a computational score, with no registered clinical 
 - Warnings and contraindications from the EMA product information, to allow safety screening
 - Preclinical or mechanistic studies of EGFR blockade in bone remodeling and osteoporosis models
 - A literature and trial search specific to drug-induced osteoporosis
-- Verification of the current EU marketing status of Vectibix, since only a cancelled authorization is recorded
 - A risk-benefit assessment, given systemic EGFR-inhibitor toxicity and the availability of established osteoporosis therapies
 ## Disclaimer
 

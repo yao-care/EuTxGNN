@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 666
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Vestronidase Alfa: predicted new indication Scheie syndrome (evidence level L5). Approved use: Treatment of non-neurological manifestations of Mucopolysaccharidosis…"
 monitor_inn: "Vestronidase alfa"
 predicted_indications: ["Scheie syndrome", "lysosomal storage disease with skeletal involvement", "Hurler syndrome", "Sanfilippo syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-vocal cord paralysis syndrome", "ptosis-strabismus-ectopic pupils syndrome", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "congenital Horner syndrome (disease)"]
@@ -84,7 +84,7 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The Scheie syndrome prediction is supported only by a model score. There are no trials or publications, and the drug's enzymatic target differs from the deficient enzyme in this disease. The only EU authorization has been cancelled.
+The Scheie syndrome prediction is supported only by a model score. There are no trials or publications, and the drug's enzymatic target differs from the deficient enzyme in this disease.
 
 **To proceed, the following is needed:**
 - Preclinical or mechanistic evidence that beta-glucuronidase can reduce GAG storage in alpha-L-iduronidase deficiency

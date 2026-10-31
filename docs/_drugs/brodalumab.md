@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 109
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Brodalumab: predicted new indication Strongyloidiasis (evidence level L5). Approved use: Moderate to severe plaque psoriasis in adult patients who are candida…"
 monitor_inn: "Brodalumab"
 predicted_indications: ["strongyloidiasis", "eye disease", "vitamin deficiency disorder", "von Hippel anomaly", "optic perineuritis", "isolated optic neuritis", "chronic relapsing inflammatory optic neuropathy", "recurrent idiopathic neuroretinitis", "episcleritis periodica fugax", "nodular episcleritis"]
@@ -94,7 +94,7 @@ Please refer to the SmPC for warnings and formal contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The strongyloidiasis prediction has a high model score but no clinical or literature support and no plausible mechanism, since helminth defense depends on type 2 rather than IL-17 immunity. Blocking IL-17 could even be undesirable in an infectious setting. In addition, the only EU authorization has been cancelled.
+The strongyloidiasis prediction has a high model score but no clinical or literature support and no plausible mechanism, since helminth defense depends on type 2 rather than IL-17 immunity. Blocking IL-17 could even be undesirable in an infectious setting.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (for example, from DrugBank) and a mechanistic assessment of IL-17RA blockade in helminth infection

@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 200
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Dronedarone: predicted new indication Stroke disorder (evidence level L3). Approved use: Maintenance of sinus rhythm after successful cardioversion in adult…"
 monitor_inn: "Dronedarone"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
@@ -103,7 +103,7 @@ Label-based warnings and contraindications were not available. Please refer to t
 **Decision: Hold**
 
 **Rationale:**
-The evidence is indirect (AF populations, post-hoc analyses, preclinical work), with no trial targeting stroke. The PALLAS result, the heart failure restrictions, the QT and conduction-related contraindications and the many interactions weigh against moving forward now. Dronedarone's only EU authorization is cancelled. The other predicted indications are prediction-only, and several (for example ABri amyloidosis, duodenal obstruction, Wildervanck syndrome) have no plausible mechanistic link.
+The evidence is indirect (AF populations, post-hoc analyses, preclinical work), with no trial targeting stroke. The PALLAS result, the heart failure restrictions, the QT and conduction-related contraindications and the many interactions weigh against moving forward now. The other predicted indications are prediction-only, and several (for example ABri amyloidosis, duodenal obstruction, Wildervanck syndrome) have no plausible mechanistic link.
 
 **To proceed, the following is needed:**
 - Label-based warnings and contraindications from the EMA product information (currently missing and blocking safety screening)

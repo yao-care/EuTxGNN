@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 29
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Alanine: predicted new indication Gastroparesis (evidence level L5). Approved use: Maple syrup urine disease (MSUD) presenting with an acute decompensat…"
 monitor_inn: "alanine"
 predicted_indications: ["gastroparesis (disease)"]
@@ -94,7 +94,7 @@ No drug interaction records were found. Please refer to the SmPC for label-based
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN score (L5). There are no clinical trials, no mechanistic rationale, and the retrieved literature does not address alanine for gastroparesis. The only EU authorization has been cancelled, so there is no currently marketed product to build on.
+The prediction is supported only by the TxGNN score (L5). There are no clinical trials, no mechanistic rationale, and the retrieved literature does not address alanine for gastroparesis.
 
 **To proceed, the following is needed:**
 - Mechanism of action data to assess any plausible link to gastric motility

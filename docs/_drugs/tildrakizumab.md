@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 614
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tildrakizumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Moderate to severe plaque psoriasis in adults who are candidates for…"
 monitor_inn: "Tildrakizumab"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "drug-induced osteoporosis"]
@@ -89,7 +89,7 @@ Other safety information (warnings and contraindications) is not available in th
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model score. There are no registered clinical trials or publications, the mechanism of action data are missing, and the only EU authorization is cancelled. The evidence level is L5.
+The prediction is supported only by the TxGNN model score. The evidence level is L5.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank) to support a mechanistic-link analysis

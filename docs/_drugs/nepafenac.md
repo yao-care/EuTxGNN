@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 424
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Nepafenac: predicted new indication Eye disease (evidence level L1). Approved use: Prevention and treatment of postoperative pain and inflammation assoc…"
 monitor_inn: "Nepafenac"
 predicted_indications: ["eye disease", "optic papillitis", "hypotrichosis simplex of the scalp", "seborrheic keratosis", "von Hippel anomaly", "congenital hypotrichosis milia", "mcpherson robertson cammarano syndrome", "lagophthalmos", "vulvar inverted follicular keratosis", "vitreous detachment"]
@@ -120,7 +120,6 @@ Please refer to the SmPC for the full warnings, contraindications, and drug inte
 Multiple completed Phase 3 trials support nepafenac in postoperative ocular inflammation, pain, and macular oedema in diabetic patients. However, this evidence mainly covers the already approved use rather than a new indication. The EU authorization is cancelled, and evidence for broader retinal uses is small and exploratory. The other predicted indications lack evidence and should stay on Hold.
 
 **To proceed, the following is needed:**
-- Confirm current market availability in the EU, since the only registered authorization is cancelled
 - Obtain and review the SmPC warnings and contraindications
 - Obtain detailed mechanism-of-action data from DrugBank
 - Review results from the trials in retinal surgery and diabetic macular oedema before pursuing those uses

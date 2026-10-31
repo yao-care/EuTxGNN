@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 672
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Vismodegib: predicted new indication Medulloblastoma with extensive nodularity (evidence level L5). Approved use: Symptomatic metastatic basal cell carcinoma…"
 monitor_inn: "Vismodegib"
 predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma pigmentosum", "annular epidermolytic ichthyosis", "epidermolysis bullosa simplex with mottled pigmentation", "Brenner tumor", "cutaneous adenocystic carcinoma", "prostate leiomyoma", "benign neoplasm of sweat gland"]
@@ -117,7 +117,7 @@ Please refer to the SmPC for full safety information.
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic link between SMO inhibition and SHH-driven medulloblastoma is plausible. However, there are no trials or publications for this specific entity, the evidence level is L5, and pediatric growth-plate toxicity is a significant concern. The only EU authorization is also cancelled.
+The mechanistic link between SMO inhibition and SHH-driven medulloblastoma is plausible. However, there are no trials or publications for this specific entity, the evidence level is L5, and pediatric growth-plate toxicity is a significant concern.
 
 **To proceed, the following is needed:**
 - Preclinical or clinical evidence in SHH-activated medulloblastoma, particularly the extensive nodularity subtype

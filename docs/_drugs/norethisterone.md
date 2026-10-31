@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 438
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Norethisterone: predicted new indication Amenorrhea (evidence level L4). Approved use: Treatment of moderate to severe symptoms of uterine fibroids in adult…"
 monitor_inn: "Norethisterone"
 predicted_indications: ["amenorrhea (disease)"]
@@ -111,7 +111,6 @@ The mechanism is plausible, but there are no registered clinical trials, and the
 - Mechanism of action data from DrugBank
 - Targeted literature review of norethisterone for primary and secondary amenorrhea, including established clinical use in progestin challenge
 - Review of the knowledge-graph contraindications (e.g. hypertension, liver disease, diabetes, breast carcinoma) against the target patient population
-- Clarification of why the only EU authorisation was cancelled and whether other norethisterone products are marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

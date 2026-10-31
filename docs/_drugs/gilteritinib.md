@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 282
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Gilteritinib: predicted new indication Bulbar polio (evidence level L5). Approved use: Monotherapy for adults with relapsed or refractory AML with a FLT3 mu…"
 monitor_inn: "Gilteritinib"
 predicted_indications: ["bulbar polio"]
@@ -115,7 +115,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model (deep learning) score. There are no trials or publications, and no plausible link between FLT3/AXL inhibition and a viral motor-neuron infection. The only EU authorization has been cancelled.
+The prediction rests only on a TxGNN model (deep learning) score. There are no trials or publications, and no plausible link between FLT3/AXL inhibition and a viral motor-neuron infection.
 
 **To proceed, the following is needed:**
 - A credible mechanistic hypothesis linking gilteritinib to bulbar polio, supported by preclinical data

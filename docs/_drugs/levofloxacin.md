@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 366
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Levofloxacin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Management of chronic pulmonary infections due to Pseudomonas aerugin…"
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
@@ -95,7 +95,7 @@ Label warnings and contraindications were not available. Please refer to the SmP
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a computational score alone. The single retrieved paper concerns a pathogen that fluoroquinolones do not treat, and no trials exist. The only EU authorization is cancelled, and the systemic safety profile raises concerns for any new use.
+The prediction rests on a computational score alone. The single retrieved paper concerns a pathogen that fluoroquinolones do not treat, and no trials exist.
 
 **To proceed, the following is needed:**
 - Evidence that bacterial pathogens susceptible to levofloxacin cause punctate epithelial keratoconjunctivitis, such as microbiological or ophthalmic clinical studies

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 28
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Agomelatine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Treatment of major depressive episodes in adults"
 monitor_inn: "Agomelatine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
@@ -89,7 +89,7 @@ For warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical, literature or clear mechanistic support. The only authorisation has been cancelled, and use in infants raises major safety concerns. This is a model output without actual evidence.
+The prediction has no clinical, literature or clear mechanistic support. This is a model output without actual evidence.
 
 **To proceed, the following is needed:**
 - A documented mechanistic rationale linking agomelatine to this condition

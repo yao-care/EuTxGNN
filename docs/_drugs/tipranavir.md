@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 617
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tipranavir: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV-1 infection in highly pretreated adults and adolescents aged 12 y…"
 monitor_inn: "Tipranavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
@@ -92,7 +92,7 @@ Please refer to the SmPC for the label warnings and contraindications, which wer
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or literature (Evidence Level L5). SIV infection is an animal-model disease with no human indication. In addition, the only EU authorization has been cancelled, and the drug carries significant hepatic and bleeding safety concerns.
+The prediction has no supporting clinical trials or literature (Evidence Level L5). SIV infection is an animal-model disease with no human indication.
 
 **To proceed, the following is needed:**
 - Retrieval and review of the SmPC warnings and contraindications (a blocking gap for safety screening)

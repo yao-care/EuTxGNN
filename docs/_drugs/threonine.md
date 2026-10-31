@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 610
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Threonine: predicted new indication gastroparesis (evidence level L5). Approved use: Treatment of maple syrup urine disease (MSUD) presenting with an acut…"
 monitor_inn: "threonine"
 predicted_indications: ["gastroparesis (disease)"]
@@ -86,7 +86,7 @@ Please refer to the SmPC for the remaining safety information, including warning
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials, no literature, and no mechanism data linking threonine to gastroparesis. The only EU authorisation is cancelled, and the label safety information has not been reviewed.
+The prediction rests only on a model score. There are no clinical trials, no literature, and no mechanism data linking threonine to gastroparesis.
 
 **To proceed, the following is needed:**
 - Label warnings and contraindications from the EMA documentation, which is needed before any safety screening

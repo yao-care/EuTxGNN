@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 64
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Asfotase Alfa: predicted new indication Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (evidence level L5). Approved use: Long-term enzyme replacement therapy in patients with…"
 monitor_inn: "Asfotase alfa"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Steel syndrome", "exocrine pancreatic insufficiency", "Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "familial apolipoprotein C-II deficiency", "esophageal varices without bleeding", "esophageal varices with bleeding", "cystinosis"]
@@ -85,7 +85,7 @@ Please refer to the SmPC for safety information. No drug interaction records wer
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score (Evidence Level L5). There are no clinical trials or publications, and the mechanism is implausible, since an extracellular bone-targeted enzyme is unlikely to correct an intracellular mitochondrial defect. In addition, the only EU authorization is cancelled.
+The prediction is supported only by a model score (Evidence Level L5). There are no clinical trials or publications, and the mechanism is implausible, since an extracellular bone-targeted enzyme is unlikely to correct an intracellular mitochondrial defect.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for asfotase alfa, to allow a proper mechanistic-link analysis

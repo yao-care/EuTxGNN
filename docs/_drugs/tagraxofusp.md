@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 585
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tagraxofusp: predicted new indication Esotropia (evidence level L5). Approved use: First-line monotherapy for adult patients with blastic plasmacytoid d…"
 monitor_inn: "Tagraxofusp"
 predicted_indications: ["esotropia", "pre-malignant neoplasm", "inner ear neoplasm", "benign neoplasm of tongue", "ductal or ductular proliferation", "bronchial adenomas/carcinoids childhood", "chondroid hamartoma", "non-seminomatous lesion", "cystic neoplasm", "thyroglossal duct cyst"]
@@ -120,7 +120,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials or publications, and no plausible mechanistic link between a CD123-directed cytotoxin and esotropia. The only EU authorisation is cancelled, and the drug carries serious toxicity risks.
+The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials or publications, and no plausible mechanistic link between a CD123-directed cytotoxin and esotropia.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (DrugBank) to allow a proper mechanistic-link analysis

@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 286
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Glecaprevir: predicted new indication HIV infectious disease (evidence level L5). Approved use: Chronic hepatitis C virus (HCV) infection in adults and children aged…"
 monitor_inn: "Glecaprevir"
 predicted_indications: ["HIV infectious disease", "hepatitis B virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -127,7 +127,6 @@ The evidence supports glecaprevir/pibrentasvir for HCV, including in people with
 **To proceed, the following is needed:**
 - Mechanism of action data and any in vitro evidence of anti-HIV activity
 - Warnings and contraindications from the EMA product information
-- Clarification of the EU market status, since the only authorization is listed as cancelled
 - Review of drug interaction management, particularly with HIV antiretrovirals, statins and edoxaban
 ## Disclaimer
 

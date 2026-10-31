@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 539
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Roxadustat"
 predicted_indications: ["dry eye syndrome", "bone Paget disease", "dentinogenesis imperfecta", "squamous cell carcinoma"]
 description: "Roxadustat: predicted new indication Dry eye syndrome (evidence level L5). Approved use: Evrenzo is indicated for treatment of adult patients with symptomatic…"
@@ -88,7 +88,7 @@ For warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The dry eye prediction is supported only by the TxGNN model, with no clinical trials or publications (Evidence Level L5). The effect direction is uncertain, and the only EU authorization has been cancelled.
+The dry eye prediction is supported only by the TxGNN model, with no clinical trials or publications (Evidence Level L5).
 
 **To proceed, the following is needed:**
 - Preclinical evidence (for example, ocular surface or corneal epithelial models) showing a beneficial effect of HIF-PH inhibition on dry eye

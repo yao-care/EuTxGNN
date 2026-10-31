@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 214
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Elbasvir: predicted new indication Hepatitis B virus infection (evidence level L4). Approved use: Chronic hepatitis C (CHC) in adults and paediatric patients 12 years…"
 monitor_inn: "Elbasvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -120,7 +120,6 @@ Please refer to the SmPC for warnings and contraindications.
 
 **Rationale:**
 - The TxGNN score for hepatitis B is high, but HBV has no NS5A target and there is no HBV-specific clinical or literature evidence for elbasvir. The linked trials and papers are all about HCV, so this is a model prediction only (L4 at most).
-- The product's only EU authorization is cancelled.
 
 **To proceed, the following is needed:**
 - In vitro evidence of anti-HBV activity (for example, in HBV replication cell systems).

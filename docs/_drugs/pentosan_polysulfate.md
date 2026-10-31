@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 480
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Pentosan polysulfate"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease"]
 description: "Pentosan Polysulfate: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Elmiron is indicated for the treatment of bladder pain syndrome chara…"
@@ -88,7 +88,7 @@ Official label warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5). There are no clinical trials and no supporting literature, and no plausible mechanism. The drug's anticoagulant activity and its association with HIT-like thrombocytopenia argue against use in platelet or bleeding disorders. In addition, the only EU authorisation is cancelled.
+The prediction rests on model output alone (L5). There are no clinical trials and no supporting literature, and no plausible mechanism. The drug's anticoagulant activity and its association with HIT-like thrombocytopenia argue against use in platelet or bleeding disorders.
 
 **To proceed, the following is needed:**
 - Label warnings and contraindications from the EMA package insert, which are currently missing and block safety screening

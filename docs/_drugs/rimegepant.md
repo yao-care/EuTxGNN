@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 524
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Rimegepant"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 description: "Rimegepant: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Vydura is indicated for the Acute treatment of migraine with or witho…"
@@ -102,7 +102,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The CGRP-pathway rationale is sound, since brainstem aura is a migraine subtype. However, no trials or subtype-specific literature exist. The only authorization is cancelled, and the label's warnings and contraindications could not be reviewed.
+The CGRP-pathway rationale is sound, since brainstem aura is a migraine subtype. However, no trials or subtype-specific literature exist.
 
 **To proceed, the following is needed:**
 - Safety information (warnings and contraindications) from the SmPC. This is currently a blocking gap.

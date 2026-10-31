@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 232
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Emergency treatment of allergic reactions (anaphylaxis) due to insect…"
 monitor_inn: "Epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
@@ -117,7 +117,6 @@ Several completed Phase 3 trials of inhaled epinephrine in asthma, including adu
 **To proceed, the following is needed:**
 - Label-based warnings and contraindications from the SmPC.
 - Mechanism of action data from DrugBank.
-- Clarification of the regulatory pathway, since the only EU authorisation is cancelled and covers a different indication.
 - Review of the completed Phase 3 results against current standard asthma therapy.
 ## Disclaimer
 

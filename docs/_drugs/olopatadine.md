@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 446
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Olopatadine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Treatment of ocular signs and symptoms of seasonal allergic conjuncti…"
 monitor_inn: "Olopatadine"
 predicted_indications: ["rosacea conjunctivitis"]
@@ -98,7 +98,7 @@ Please refer to the SmPC for warnings and contraindications from the product lab
 **Decision: Hold**
 
 **Rationale:**
-The prediction for rosacea conjunctivitis is supported only by the model score, with no clinical trials or literature. The mechanism of ocular rosacea (gland dysfunction, inflammation, microbial factors) is only partly addressed by antihistamine activity. The only EU authorization has been cancelled.
+The prediction for rosacea conjunctivitis is supported only by the model score, with no clinical trials or literature. The mechanism of ocular rosacea (gland dysfunction, inflammation, microbial factors) is only partly addressed by antihistamine activity.
 
 **To proceed, the following is needed:**
 - Label warnings and contraindications from the EMA package insert, which are currently missing

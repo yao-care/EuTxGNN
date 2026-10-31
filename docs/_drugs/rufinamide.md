@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 541
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Rufinamide"
 predicted_indications: ["perioral myoclonia with absences"]
 description: "Rufinamide: predicted new indication Perioral myoclonia with absences (evidence level L5). Approved use: Inovelon is indicated as adjunctive therapy in the treatment of seizu…"
@@ -92,7 +92,7 @@ Please refer to the SmPC for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5), with no trials or literature for FIRES. The mechanism is only partly aligned, because it addresses seizures but not neuroinflammation. The only EU authorisation is also cancelled, which may limit practical availability.
+The prediction rests on a model score alone (Evidence Level L5), with no trials or literature for FIRES. The mechanism is only partly aligned, because it addresses seizures but not neuroinflammation.
 
 **To proceed, the following is needed:**
 - Clinical or observational data on rufinamide in FIRES, such as case series or registry data.

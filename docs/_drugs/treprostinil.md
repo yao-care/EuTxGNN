@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 641
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Treprostinil"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita"]
 description: "Treprostinil: predicted new indication Pulmonary arteriovenous malformation (disease) (evidence level L5). Approved use: Treatment of adult patients with WHO Functional Class (FC) III or IV…"
@@ -102,7 +102,7 @@ Please refer to the SmPC for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible and there are small observational studies in CHD-PAH, but there are no registered trials, the evidence is indirect, and the only EU authorisation is cancelled. Safety review is also incomplete.
+Safety review is also incomplete.
 
 **To proceed, the following is needed:**
 - Label warnings and contraindications from the SmPC or package insert (currently missing and blocking the safety screen)

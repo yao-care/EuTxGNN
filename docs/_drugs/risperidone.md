@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 529
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
 description: "Risperidone: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5). Approved use: Treatment of schizophrenia in adults for whom tolerability and eff…"
@@ -106,7 +106,6 @@ Label-based warnings and contraindications were not available in the data compil
 
 **Rationale:**
 - The prediction has no trials, no literature and no plausible mechanistic link, so it is not actionable.
-- The only EU authorization is cancelled, which adds regulatory uncertainty.
 
 **To proceed, the following is needed:**
 - A credible mechanistic hypothesis linking D2/5-HT2A antagonism to ROBO3-related axon-guidance disease, plus preclinical data.

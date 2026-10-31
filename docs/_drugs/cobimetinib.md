@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 156
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cobimetinib: predicted new indication Amyotrophic lateral sclerosis (evidence level L5). Approved use: Use in combination with vemurafenib for adult patients with unresecta…"
 monitor_inn: "cobimetinib"
 predicted_indications: ["amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "Mills syndrome", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "amyotrohpic lateral sclerosis type 22", "monomelic amyotrophy"]
@@ -123,7 +123,7 @@ Please refer to the SmPC for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The ALS prediction has a very high model score but no registered trials, no literature and only a speculative mechanistic link (L5). The only EU authorization has been cancelled, and brain penetration and the toxicity profile raise concerns for a chronic neurodegenerative indication.
+The ALS prediction has a very high model score but no registered trials, no literature and only a speculative mechanistic link (L5).
 
 **To proceed, the following is needed:**
 - Preclinical evidence that MEK inhibition is beneficial in ALS models

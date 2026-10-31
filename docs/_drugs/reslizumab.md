@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 519
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Reslizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets"]
 description: "Reslizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Cinqaero is indicated as add-on therapy in adult patients with severe…"
@@ -99,7 +99,7 @@ Please refer to the SmPC for safety information. No drug interaction records wer
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication rests only on a TxGNN model (deep learning) score (L5). It has no clinical trials or publications, and its mechanistic rationale is weak. In addition, the only EU authorization has been cancelled.
+The predicted indication rests only on a TxGNN model (deep learning) score (L5). It has no clinical trials or publications, and its mechanistic rationale is weak.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data to assess whether any IL-5/eosinophil role exists in immune thrombocytopenia

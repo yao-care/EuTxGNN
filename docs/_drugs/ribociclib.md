@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 521
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ribociclib: predicted new indication Myeloid leukemia (evidence level L4). Approved use: HR-positive…"
 monitor_inn: "Ribociclib"
 predicted_indications: ["myeloid leukemia", "thrombocytopenia", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets"]
@@ -117,7 +117,7 @@ Myelosuppression is a particular concern in leukemia. The bone marrow is already
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a single in vitro study and a plausible but indirect mechanism, with no clinical trials in myeloid leukemia. Ribociclib's marked myelosuppression is a further concern in a bone-marrow malignancy. Its only EU authorization is cancelled.
+The prediction rests on a single in vitro study and a plausible but indirect mechanism, with no clinical trials in myeloid leukemia. Ribociclib's marked myelosuppression is a further concern in a bone-marrow malignancy.
 
 **To proceed, the following is needed:**
 - In vivo or ex vivo studies of ribociclib in myeloid leukemia models, including combination with standard AML therapy

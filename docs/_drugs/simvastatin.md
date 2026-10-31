@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 564
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: predicted new indication Brain stem infarction (evidence level L5). Approved use: Cholib is indicated as adjunctive therapy to diet and exercise in hig…"
@@ -118,7 +118,6 @@ Multiple completed Phase 3 trials (including the ENHANCE trial and an adolescent
 - Detailed mechanism-of-action data from DrugBank
 - A safety plan covering myopathy, hepatic risk, and interactions (especially amiodarone, amlodipine, fenofibrate, and CYP3A4 inhibitors)
 - Clarification of dosing and efficacy in homozygous FH, where benefit is limited
-- Confirmation of current EU regulatory status, since the only licence found is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

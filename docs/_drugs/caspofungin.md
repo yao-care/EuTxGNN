@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 133
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Caspofungin: predicted new indication Gastrin secretion abnormality (evidence level L5). Approved use: Invasive candidiasis"
 monitor_inn: "Caspofungin"
 predicted_indications: ["gastrin secretion abnormality"]
@@ -79,7 +79,6 @@ The prediction rests on a computational score alone. There are no registered tri
 **To proceed, the following is needed:**
 - A mechanistic hypothesis linking caspofungin to gastrin secretion, supported by preclinical data
 - Label-based safety data (warnings and contraindications) and mechanism of action data
-- Verification of the current regulatory and supply status in the EU, since the only authorization is cancelled
 
 **Note on other predictions:** This report covers the top-ranked prediction only. Other predictions in the same list have more support. Neonatal candidiasis in particular has two Phase 2 trials, a meta-analysis, and an extension-of-indication rationale that rated it "Proceed with Guardrails". If the goal is to find a repurposing opportunity for caspofungin, that candidate is a better one to evaluate.
 ## Disclaimer

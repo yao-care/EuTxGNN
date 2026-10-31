@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 255
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Fenfluramine: predicted new indication Proximal 16p11.2 microdeletion syndrome (evidence level L5). Approved use: Seizures associated with Dravet syndrome as add-on therapy to other a…"
 monitor_inn: "Fenfluramine"
 predicted_indications: ["proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "obsolete hypertelorism (disease)", "frontorhiny"]
@@ -85,7 +85,7 @@ Please also refer to the SmPC for the full safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no supporting clinical trials or literature (Evidence Level L5). The mechanistic link is speculative. The only EU authorization has been cancelled, and the drug carries known cardiopulmonary safety concerns.
+The prediction has a very high model score but no supporting clinical trials or literature (Evidence Level L5). The mechanistic link is speculative.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a mechanistic analysis linking fenfluramine to 16p11.2 deletion biology

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 51
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Andexanet Alfa: predicted new indication Glanzmann thrombasthenia (evidence level L5). Approved use: For adult patients treated with a direct factor Xa (FXa) inhibitor (a…"
 monitor_inn: "Andexanet alfa"
 predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "hemophilia"]
@@ -91,7 +91,7 @@ For other safety information, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on model scores. There are no clinical trials or publications for Glanzmann thrombasthenia, and no plausible mechanistic link exists, because andexanet alfa does not affect platelet integrin function. The only EU authorization is cancelled.
+The prediction rests only on model scores. There are no clinical trials or publications for Glanzmann thrombasthenia, and no plausible mechanistic link exists, because andexanet alfa does not affect platelet integrin function.
 
 **To proceed, the following is needed:**
 - Warnings and contraindications from the SmPC, which are currently missing and block safety screening

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 166
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Dalbavancin: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Acute bacterial skin and skin structure infections (ABSSSI) in adults…"
 monitor_inn: "Dalbavancin"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "otitis externa", "ophthalmic herpes zoster", "infectious mononucleosis", "orbital cellulitis"]
@@ -89,7 +89,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature (evidence level L5), and the mechanism is weak because postinfectious vasculitis is largely immune-mediated rather than driven by active Gram-positive infection. The product's only EU authorization is also cancelled.
+The prediction has no supporting trials or literature (evidence level L5), and the mechanism is weak because postinfectious vasculitis is largely immune-mediated rather than driven by active Gram-positive infection.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for dalbavancin

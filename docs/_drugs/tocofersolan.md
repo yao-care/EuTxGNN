@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 625
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tocofersolan: predicted new indication amenorrhea (disease) (evidence level L5). Approved use: Vitamin E deficiency due to digestive malabsorption in paediatric pat…"
 monitor_inn: "Tocofersolan"
 predicted_indications: ["amenorrhea (disease)", "acne (disease)"]
@@ -82,7 +82,7 @@ Please refer to the SmPC for safety information. No drug interaction records wer
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or publications (Evidence Level L5). The proposed mechanistic link to amenorrhea is speculative. The only EU authorization is cancelled, and safety and mechanism data are incomplete.
+The prediction has no supporting clinical trials or publications (Evidence Level L5). The proposed mechanistic link to amenorrhea is speculative.
 
 **To proceed, the following is needed:**
 - A systematic literature search on vitamin E and amenorrhea or menstrual disorders, and a check of trial registries

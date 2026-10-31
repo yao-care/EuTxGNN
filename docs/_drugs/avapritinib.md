@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 71
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Avapritinib: predicted new indication Axial spondylometaphyseal dysplasia (evidence level L5). Approved use: Unresectable or metastatic gastrointestinal stromal tumour (GIST) wit…"
 monitor_inn: "Avapritinib"
 predicted_indications: ["axial spondylometaphyseal dysplasia", "bilateral parasagittal parieto-occipital polymicrogyria", "amyotrophic lateral sclerosis", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "amyotrohpic lateral sclerosis type 22", "lower motor neuron syndrome with late-adult onset", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome"]
@@ -68,7 +68,6 @@ The high TxGNN score (0.9992) therefore reflects a computational prediction only
 |---------|------|------|-----------|
 | EMEA/H/C/005208 | Ayvakyt | Not specified | Unresectable or metastatic gastrointestinal stromal tumour (GIST) AYVAKYT is indicated as monotherapy for the treatment of adult patients with... |
 
-The only authorization is listed as cancelled.
 
 ## Cytotoxicity
 

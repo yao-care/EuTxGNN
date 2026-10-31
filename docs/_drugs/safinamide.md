@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 545
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Safinamide: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Add-on therapy to a stable dose of levodopa (alone or with other Park…"
 monitor_inn: "safinamide"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration"]
@@ -105,7 +105,6 @@ The prediction rests only on a score from the TxGNN model (deep learning), which
 - Mechanism of action data from DrugBank to test the proposed link
 - The SmPC warnings and contraindications from the EMA website for safety screening
 - A systematic literature and trial search for safinamide in Rasmussen encephalitis, including preclinical or case-level evidence
-- Clarification of the current EU authorization status, since the only license is cancelled
 - A review of the Major interaction (bupropion) and the Moderate interactions relevant to the target population
 ## Disclaimer
 

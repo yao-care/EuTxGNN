@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 268
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Fluticasone Furoate: predicted new indication Atopic eczema (evidence level L5). Approved use: Treatment of the symptoms of allergic rhinitis in adults…"
 monitor_inn: "Fluticasone furoate"
 predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis"]
@@ -93,7 +93,7 @@ Please refer to the SmPC for label warnings, contraindications and drug interact
 **Decision: Hold**
 
 **Rationale:**
-For atopic eczema, the prediction is supported only by a model score and a plausible class-level corticosteroid rationale. There are no trials, no efficacy literature, and no dermatologic formulation. The only EU authorization is cancelled.
+For atopic eczema, the prediction is supported only by a model score and a plausible class-level corticosteroid rationale. There are no trials, no efficacy literature, and no dermatologic formulation.
 
 For reference, the **obstructive lung disease** prediction (L1) is backed by several completed Phase 3 trials and RCTs such as FULFIL, IMPACT and CAPTAIN. Those studies tested fluticasone furoate in fixed-dose combinations (with vilanterol and umeclidinium), so the contribution of fluticasone furoate alone is not isolated. It could be considered **Proceed with Guardrails** in a separate evaluation.
 
@@ -101,7 +101,6 @@ For reference, the **obstructive lung disease** prediction (L1) is backed by sev
 - Mechanism of action data (MOA)
 - Label warnings and contraindications from the SmPC
 - A dermatologic formulation and route-compatibility assessment, followed by preclinical and early clinical studies in atopic eczema
-- Verification of current product availability, since the only EU authorization is cancelled
 - For the respiratory indication: a plan to isolate the contribution of fluticasone furoate from the combination products, plus pneumonia-risk monitoring
 ## Disclaimer
 

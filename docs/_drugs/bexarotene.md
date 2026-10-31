@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 92
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Bexarotene: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L5). Approved use: Skin manifestations of advanced-stage cutaneous T-cell lymphoma (CTCL…"
 monitor_inn: "Bexarotene"
 predicted_indications: ["primary cutaneous B-cell lymphoma", "Sezary syndrome", "lymphosarcoma"]
@@ -144,7 +144,7 @@ Please also refer to the SmPC for full label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for primary cutaneous B-cell lymphoma rests on model score alone (L5). There are no trials, no B-cell-specific mechanism, and the literature is general and T-cell focused. The only authorization is cancelled, and the label-level safety data were not available for review.
+The prediction for primary cutaneous B-cell lymphoma rests on model score alone (L5). There are no trials, no B-cell-specific mechanism, and the literature is general and T-cell focused.
 
 **To proceed, the following is needed:**
 - Mechanistic or preclinical evidence of RXR agonist activity in cutaneous B-cell lymphoma

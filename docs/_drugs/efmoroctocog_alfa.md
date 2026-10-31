@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 210
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Efmoroctocog Alfa: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia A…"
 monitor_inn: "Efmoroctocog alfa"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "fetal and neonatal alloimmune thrombocytopenia", "thrombotic thrombocytopenic purpura"]
@@ -108,7 +108,7 @@ No drug-drug interaction records were found in the data compiled for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score, but there are no clinical trials or publications, so evidence is at the lowest level (L5). The disease's mechanism (a platelet GPIbα/VWF defect) is not one that FVIII replacement would be expected to correct. The product's only EU authorization is also cancelled.
+The prediction has a very high model score, but there are no clinical trials or publications, so evidence is at the lowest level (L5). The disease's mechanism (a platelet GPIbα/VWF defect) is not one that FVIII replacement would be expected to correct.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for efmoroctocog alfa

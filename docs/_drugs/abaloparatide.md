@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 13
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Abaloparatide: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Treatment of osteoporosis in postmenopausal women at increased risk o…"
 monitor_inn: "Abaloparatide"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "amenorrhea (disease)", "esophageal ulcer"]
@@ -90,7 +90,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no clinical trials, no literature and no supported mechanistic link. The only EU authorization is cancelled, and warnings and contraindications are unavailable, so safety screening cannot proceed.
+The prediction is supported only by a model score, with no clinical trials, no literature and no supported mechanistic link.
 
 **To proceed, the following is needed:**
 - Warnings and contraindications from the EMA product information (blocking for safety screening)

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 295
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Granisetron"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
 description: "Granisetron: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Prevention of nausea and vomiting in patients receiving moderately or…"
@@ -89,7 +89,7 @@ Please refer to the SmPC for label-based warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model score (L5). There are no registered trials or publications, the mechanistic link is speculative, and the only EU authorization is cancelled. The cardiac contraindication signals and the many QT-related and serotonergic interactions also matter in a psychiatric population that often takes interacting drugs.
+The prediction is supported only by the TxGNN model score (L5). The cardiac contraindication signals and the many QT-related and serotonergic interactions also matter in a psychiatric population that often takes interacting drugs.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank)
