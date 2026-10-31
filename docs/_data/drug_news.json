@@ -44,12 +44,12 @@
     {
       "url": "/news/acalabrutinib/",
       "title": "Acalabrutinib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/adalimumab/": [
@@ -68,53 +68,53 @@
     {
       "url": "/news/afatinib/",
       "title": "Afatinib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/aflibercept/": [
     {
       "url": "/news/aflibercept/",
       "title": "Aflibercept News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/agomelatine/": [
     {
       "url": "/news/agomelatine/",
       "title": "Agomelatine News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/depression/",
       "title": "depression News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/alemtuzumab/": [
     {
       "url": "/news/alemtuzumab/",
       "title": "Alemtuzumab News",
-      "count": 35
+      "count": 37
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     }
   ],
   "/drugs/aliskiren/": [
@@ -126,12 +126,12 @@
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/stroke/",
       "title": "Schlaganfall (stroke) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/heart-disease/",
@@ -165,12 +165,12 @@
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/stroke/",
       "title": "Schlaganfall (stroke) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/heart-disease/",
@@ -182,12 +182,12 @@
     {
       "url": "/news/anagrelide/",
       "title": "Anagrelide News",
-      "count": 28
+      "count": 27
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/arthritis/",
@@ -257,12 +257,12 @@
     {
       "url": "/news/aprepitant/",
       "title": "Aprepitant News",
-      "count": 33
+      "count": 32
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/heart-disease/",
@@ -274,12 +274,12 @@
     {
       "url": "/news/aripiprazole/",
       "title": "Aripiprazole News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     }
   ],
   "/drugs/artenimol/": [
@@ -298,72 +298,72 @@
     {
       "url": "/news/atazanavir-as-sulfate/",
       "title": "Atazanavir (As Sulfate) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/atezolizumab/": [
     {
       "url": "/news/atezolizumab/",
       "title": "Atezolizumab News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/avelumab/": [
     {
       "url": "/news/avelumab/",
       "title": "Avelumab News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/avibactam/": [
     {
       "url": "/news/avibactam/",
       "title": "Avibactam News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/axitinib/": [
     {
       "url": "/news/axitinib/",
       "title": "Axitinib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/azacitidine/": [
     {
       "url": "/news/azacitidine/",
       "title": "Azacitidine News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/azathioprine/": [
@@ -382,12 +382,12 @@
     {
       "url": "/news/aztreonam/",
       "title": "Aztreonam News",
-      "count": 27
+      "count": 26
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/asthma/",
@@ -399,12 +399,12 @@
     {
       "url": "/news/baricitinib/",
       "title": "Baricitinib News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/arthritis/",
@@ -421,12 +421,12 @@
     {
       "url": "/news/basiliximab/",
       "title": "Basiliximab News",
-      "count": 29
+      "count": 28
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/asthma/",
@@ -443,17 +443,17 @@
     {
       "url": "/news/belatacept/",
       "title": "Belatacept News",
-      "count": 40
+      "count": 42
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     },
     {
       "url": "/news/asthma/",
@@ -482,84 +482,84 @@
     {
       "url": "/news/bevacizumab/",
       "title": "Bevacizumab News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/bexarotene/": [
     {
       "url": "/news/bexarotene/",
       "title": "Bexarotene News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/bimatoprost/": [
     {
       "url": "/news/bimatoprost/",
       "title": "Bimatoprost News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     }
   ],
   "/drugs/binimetinib/": [
     {
       "url": "/news/binimetinib/",
       "title": "Binimetinib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/bortezomib/": [
     {
       "url": "/news/bortezomib/",
       "title": "Bortezomib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/brexpiprazole/": [
     {
       "url": "/news/brexpiprazole/",
       "title": "Brexpiprazole News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/depression/",
       "title": "depression News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/brigatinib/": [
     {
       "url": "/news/brigatinib/",
       "title": "Brigatinib News",
-      "count": 25
+      "count": 24
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/alzheimer-disease/",
@@ -600,12 +600,12 @@
     {
       "url": "/news/bupropion/",
       "title": "Bupropion News",
-      "count": 6
+      "count": 8
     },
     {
       "url": "/news/obesity/",
-      "title": "obésité (obesity) News",
-      "count": 6
+      "title": "Adipositas (obesity) News",
+      "count": 8
     }
   ],
   "/drugs/burosumab/": [
@@ -624,12 +624,12 @@
     {
       "url": "/news/cabazitaxel/",
       "title": "Cabazitaxel News",
-      "count": 28
+      "count": 27
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/arthritis/",
@@ -663,12 +663,12 @@
     {
       "url": "/news/cabozantinib/",
       "title": "Cabozantinib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/cangrelor/": [
@@ -687,12 +687,12 @@
     {
       "url": "/news/capecitabine/",
       "title": "Capecitabine News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/carbidopa/": [
@@ -711,12 +711,12 @@
     {
       "url": "/news/carfilzomib/",
       "title": "Carfilzomib News",
-      "count": 27
+      "count": 26
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/asthma/",
@@ -728,24 +728,24 @@
     {
       "url": "/news/carmustine/",
       "title": "Carmustine News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/catumaxomab/": [
     {
       "url": "/news/catumaxomab/",
       "title": "Catumaxomab News",
-      "count": 38
+      "count": 37
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/diabetes-mellitus/",
@@ -769,12 +769,12 @@
     {
       "url": "/news/cemiplimab/",
       "title": "Cemiplimab News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/cenobamate/": [
@@ -793,12 +793,12 @@
     {
       "url": "/news/ceritinib/",
       "title": "Ceritinib News",
-      "count": 25
+      "count": 24
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/alzheimer-disease/",
@@ -810,12 +810,12 @@
     {
       "url": "/news/cetuximab/",
       "title": "Cetuximab News",
-      "count": 27
+      "count": 26
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/asthma/",
@@ -827,12 +827,12 @@
     {
       "url": "/news/cilastatin/",
       "title": "Cilastatin News",
-      "count": 30
+      "count": 29
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/arthritis/",
@@ -849,29 +849,29 @@
     {
       "url": "/news/cladribine/",
       "title": "Cladribine News",
-      "count": 35
+      "count": 37
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     }
   ],
   "/drugs/clofarabine/": [
     {
       "url": "/news/clofarabine/",
       "title": "Clofarabine News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/clopidogrel/": [
@@ -890,12 +890,12 @@
     {
       "url": "/news/crizotinib/",
       "title": "Crizotinib News",
-      "count": 25
+      "count": 24
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/alzheimer-disease/",
@@ -907,12 +907,12 @@
     {
       "url": "/news/cytarabine/",
       "title": "Cytarabine News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/daptomycin/": [
@@ -931,12 +931,12 @@
     {
       "url": "/news/daratumumab/",
       "title": "Daratumumab News",
-      "count": 27
+      "count": 26
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/asthma/",
@@ -948,72 +948,72 @@
     {
       "url": "/news/darolutamide/",
       "title": "Darolutamide News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/darunavir/": [
     {
       "url": "/news/darunavir/",
       "title": "Darunavir News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/daunorubicin/": [
     {
       "url": "/news/daunorubicin/",
       "title": "Daunorubicin News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/decitabine/": [
     {
       "url": "/news/decitabine/",
       "title": "Decitabine News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/deferasirox/": [
     {
       "url": "/news/deferasirox/",
       "title": "Deferasirox News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/degarelix/": [
     {
       "url": "/news/degarelix/",
       "title": "Degarelix News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     }
   ],
   "/drugs/denosumab/": [
@@ -1044,24 +1044,24 @@
     {
       "url": "/news/docetaxel/",
       "title": "Docetaxel News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/doravirine/": [
     {
       "url": "/news/doravirine/",
       "title": "Doravirine News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/dronedarone/": [
@@ -1073,12 +1073,12 @@
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/stroke/",
       "title": "Schlaganfall (stroke) News",
-      "count": 12
+      "count": 13
     }
   ],
   "/drugs/drospirenone/": [
@@ -1114,94 +1114,94 @@
     {
       "url": "/news/durvalumab/",
       "title": "Durvalumab News",
-      "count": 25
+      "count": 24
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/duvelisib/": [
     {
       "url": "/news/duvelisib/",
       "title": "Duvelisib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/efavirenz/": [
     {
       "url": "/news/efavirenz/",
       "title": "Efavirenz News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/eflornithine/": [
     {
       "url": "/news/eflornithine/",
       "title": "Eflornithine News",
-      "count": 52
+      "count": 51
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/elafibranor/": [
     {
       "url": "/news/elafibranor/",
       "title": "Elafibranor News",
-      "count": 52
+      "count": 51
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/elbasvir/": [
     {
       "url": "/news/elbasvir/",
       "title": "Elbasvir News",
-      "count": 11
+      "count": 15
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     }
   ],
   "/drugs/elotuzumab/": [
     {
       "url": "/news/elotuzumab/",
       "title": "Elotuzumab News",
-      "count": 27
+      "count": 26
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/asthma/",
@@ -1213,12 +1213,12 @@
     {
       "url": "/news/eltrombopag/",
       "title": "Eltrombopag News",
-      "count": 28
+      "count": 27
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/arthritis/",
@@ -1242,24 +1242,24 @@
     {
       "url": "/news/encorafenib/",
       "title": "Encorafenib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/enfuvirtide/": [
     {
       "url": "/news/enfuvirtide/",
       "title": "Enfuvirtide News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/entacapone/": [
@@ -1278,24 +1278,24 @@
     {
       "url": "/news/entrectinib/",
       "title": "Entrectinib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/enzalutamide/": [
     {
       "url": "/news/enzalutamide/",
       "title": "Enzalutamide News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/epinephrine/": [
@@ -1319,12 +1319,12 @@
     {
       "url": "/news/eptifibatide/",
       "title": "Eptifibatide News",
-      "count": 28
+      "count": 27
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/arthritis/",
@@ -1353,24 +1353,24 @@
     {
       "url": "/news/eribulin/",
       "title": "Eribulin News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/erlotinib/": [
     {
       "url": "/news/erlotinib/",
       "title": "Erlotinib News",
-      "count": 25
+      "count": 24
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/alzheimer-disease/",
@@ -1394,24 +1394,24 @@
     {
       "url": "/news/etravirine/",
       "title": "Etravirine News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/everolimus/": [
     {
       "url": "/news/everolimus/",
       "title": "Everolimus News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/evinacumab/": [
@@ -1430,12 +1430,12 @@
     {
       "url": "/news/faricimab/",
       "title": "Faricimab News",
-      "count": 41
+      "count": 40
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/diabetes-mellitus/",
@@ -1452,29 +1452,29 @@
     {
       "url": "/news/fentanyl/",
       "title": "Fentanyl News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     }
   ],
   "/drugs/fingolimod/": [
     {
       "url": "/news/fingolimod/",
       "title": "Fingolimod News",
-      "count": 35
+      "count": 37
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     }
   ],
   "/drugs/fulvestrant/": [
@@ -1493,12 +1493,12 @@
     {
       "url": "/news/gefitinib/",
       "title": "Gefitinib News",
-      "count": 25
+      "count": 24
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/alzheimer-disease/",
@@ -1510,24 +1510,24 @@
     {
       "url": "/news/gimeracil/",
       "title": "Gimeracil News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/glecaprevir/": [
     {
       "url": "/news/glecaprevir/",
       "title": "Glecaprevir News",
-      "count": 11
+      "count": 15
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     }
   ],
   "/drugs/glimepiride/": [
@@ -1570,12 +1570,12 @@
     {
       "url": "/news/granisetron/",
       "title": "Granisetron News",
-      "count": 33
+      "count": 32
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/copd/",
@@ -1587,24 +1587,24 @@
     {
       "url": "/news/grazoprevir/",
       "title": "Grazoprevir News",
-      "count": 11
+      "count": 15
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     }
   ],
   "/drugs/guanfacine/": [
     {
       "url": "/news/guanfacine-hydrochloride/",
       "title": "Guanfacine Hydrochloride News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     }
   ],
   "/drugs/guselkumab/": [
@@ -1628,12 +1628,12 @@
     {
       "url": "/news/hydrochlorothiazide/",
       "title": "Hydrochlorothiazide News",
-      "count": 26
+      "count": 25
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/heart-disease/",
@@ -1674,48 +1674,48 @@
     {
       "url": "/news/idelalisib/",
       "title": "Idelalisib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/imatinib/": [
     {
       "url": "/news/imatinib/",
       "title": "Imatinib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/imiglucerase/": [
     {
       "url": "/news/imiglucerase/",
       "title": "Imiglucerase News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/imipenem/": [
     {
       "url": "/news/imipenem/",
       "title": "Imipenem News",
-      "count": 28
+      "count": 27
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/arthritis/",
@@ -1727,24 +1727,24 @@
     {
       "url": "/news/imiquimod/",
       "title": "Imiquimod News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/inebilizumab/": [
     {
       "url": "/news/inebilizumab/",
       "title": "Inebilizumab News",
-      "count": 44
+      "count": 43
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/diabetes-mellitus/",
@@ -1778,24 +1778,24 @@
     {
       "url": "/news/ipilimumab/",
       "title": "Ipilimumab News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/irbesartan/": [
     {
       "url": "/news/irbesartan/",
       "title": "Irbesartan News",
-      "count": 40
+      "count": 39
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/diabetes-mellitus/",
@@ -1812,12 +1812,12 @@
     {
       "url": "/news/isatuximab/",
       "title": "Isatuximab News",
-      "count": 27
+      "count": 26
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/asthma/",
@@ -1846,24 +1846,24 @@
     {
       "url": "/news/ivosidenib/",
       "title": "Ivosidenib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/ixekizumab/": [
     {
       "url": "/news/ixekizumab/",
       "title": "Ixekizumab News",
-      "count": 28
+      "count": 27
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/arthritis/",
@@ -1887,24 +1887,24 @@
     {
       "url": "/news/lacosamide/",
       "title": "Lacosamide News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     }
   ],
   "/drugs/lapatinib/": [
     {
       "url": "/news/lapatinib/",
       "title": "Lapatinib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/laronidase/": [
@@ -1923,24 +1923,24 @@
     {
       "url": "/news/ledipasvir/",
       "title": "Ledipasvir News",
-      "count": 11
+      "count": 15
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     }
   ],
   "/drugs/leflunomide/": [
     {
       "url": "/news/leflunomide/",
       "title": "Leflunomide News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/arthritis/",
@@ -1957,24 +1957,24 @@
     {
       "url": "/news/lenalidomide/",
       "title": "Lenalidomide News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/letermovir/": [
     {
       "url": "/news/letermovir/",
       "title": "Letermovir News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/levetiracetam/": [
@@ -2005,12 +2005,12 @@
     {
       "url": "/news/levofloxacin/",
       "title": "Levofloxacin News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/lipegfilgrastim/": [
@@ -2058,12 +2058,12 @@
     {
       "url": "/news/lorlatinib/",
       "title": "Lorlatinib News",
-      "count": 25
+      "count": 24
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/alzheimer-disease/",
@@ -2075,17 +2075,17 @@
     {
       "url": "/news/loxapine/",
       "title": "Loxapine News",
-      "count": 40
+      "count": 42
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     }
   ],
   "/drugs/lumacaftor/": [
@@ -2109,29 +2109,29 @@
     {
       "url": "/news/lurasidone/",
       "title": "Lurasidone News",
-      "count": 40
+      "count": 42
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     }
   ],
   "/drugs/mannitol/": [
     {
       "url": "/news/mannitol/",
       "title": "Mannitol News",
-      "count": 26
+      "count": 25
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/heart-disease/",
@@ -2143,24 +2143,24 @@
     {
       "url": "/news/maraviroc/",
       "title": "Maraviroc News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/melatonin/": [
     {
       "url": "/news/melatonin/",
       "title": "Melatonin News",
-      "count": 6
+      "count": 8
     },
     {
       "url": "/news/obesity/",
-      "title": "obésité (obesity) News",
-      "count": 6
+      "title": "Adipositas (obesity) News",
+      "count": 8
     }
   ],
   "/drugs/meropenem/": [
@@ -2191,12 +2191,12 @@
     {
       "url": "/news/methotrexate/",
       "title": "Methotrexate News",
-      "count": 28
+      "count": 27
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/arthritis/",
@@ -2208,29 +2208,29 @@
     {
       "url": "/news/metreleptin/",
       "title": "Metreleptin News",
-      "count": 52
+      "count": 51
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/micafungin/": [
     {
       "url": "/news/micafungin/",
       "title": "Micafungin News",
-      "count": 27
+      "count": 26
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/asthma/",
@@ -2242,60 +2242,60 @@
     {
       "url": "/news/midostaurin/",
       "title": "Midostaurin News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/miglustat/": [
     {
       "url": "/news/miglustat/",
       "title": "Miglustat News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/mogamulizumab/": [
     {
       "url": "/news/mogamulizumab/",
       "title": "Mogamulizumab News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/mometasone/": [
     {
       "url": "/news/mometasone/",
       "title": "Mometasone News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/naltrexone/": [
     {
       "url": "/news/naltrexone/",
       "title": "Naltrexone News",
-      "count": 6
+      "count": 8
     },
     {
       "url": "/news/obesity/",
-      "title": "obésité (obesity) News",
-      "count": 6
+      "title": "Adipositas (obesity) News",
+      "count": 8
     }
   ],
   "/drugs/natalizumab/": [
@@ -2324,77 +2324,77 @@
     {
       "url": "/news/nelarabine/",
       "title": "Nelarabine News",
-      "count": 35
+      "count": 37
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     }
   ],
   "/drugs/neratinib/": [
     {
       "url": "/news/neratinib/",
       "title": "Neratinib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/nevirapine/": [
     {
       "url": "/news/nevirapine/",
       "title": "Nevirapine News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/nilotinib/": [
     {
       "url": "/news/nilotinib/",
       "title": "Nilotinib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/nintedanib/": [
     {
       "url": "/news/nintedanib/",
       "title": "Nintedanib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/nivolumab/": [
     {
       "url": "/news/nivolumab/",
       "title": "Nivolumab News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/norethisterone/": [
@@ -2413,36 +2413,36 @@
     {
       "url": "/news/obinutuzumab/",
       "title": "Obinutuzumab News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/ocrelizumab/": [
     {
       "url": "/news/ocrelizumab/",
       "title": "Ocrelizumab News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/ofatumumab/": [
     {
       "url": "/news/ofatumumab/",
       "title": "Ofatumumab News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/olanzapine/": [
@@ -2454,36 +2454,36 @@
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/depression/",
       "title": "depression News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/olaparib/": [
     {
       "url": "/news/olaparib/",
       "title": "Olaparib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/omalizumab/": [
     {
       "url": "/news/omalizumab/",
       "title": "Omalizumab News",
-      "count": 29
+      "count": 28
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/asthma/",
@@ -2512,53 +2512,53 @@
     {
       "url": "/news/orlistat/",
       "title": "Orlistat News",
-      "count": 18
+      "count": 21
     },
     {
       "url": "/news/stroke/",
       "title": "Schlaganfall (stroke) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/obesity/",
-      "title": "obésité (obesity) News",
-      "count": 6
+      "title": "Adipositas (obesity) News",
+      "count": 8
     }
   ],
   "/drugs/oteracil/": [
     {
       "url": "/news/oteracil/",
       "title": "Oteracil News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/paclitaxel/": [
     {
       "url": "/news/paclitaxel/",
       "title": "Paclitaxel News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/palbociclib/": [
     {
       "url": "/news/palbociclib/",
       "title": "Palbociclib News",
-      "count": 30
+      "count": 29
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/arthritis/",
@@ -2575,12 +2575,12 @@
     {
       "url": "/news/palivizumab/",
       "title": "Palivizumab News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/panitumumab/": [
@@ -2599,24 +2599,24 @@
     {
       "url": "/news/pazopanib/",
       "title": "Pazopanib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/pegaspargase/": [
     {
       "url": "/news/pegaspargase/",
       "title": "Pegaspargase News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/pegfilgrastim/": [
@@ -2647,12 +2647,12 @@
     {
       "url": "/news/pembrolizumab/",
       "title": "Pembrolizumab News",
-      "count": 26
+      "count": 25
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/alzheimer-disease/",
@@ -2664,24 +2664,24 @@
     {
       "url": "/news/pemetrexed/",
       "title": "Pemetrexed News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/pemigatinib/": [
     {
       "url": "/news/pemigatinib/",
       "title": "Pemigatinib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/perampanel/": [
@@ -2700,24 +2700,24 @@
     {
       "url": "/news/pertuzumab/",
       "title": "Pertuzumab News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/pibrentasvir/": [
     {
       "url": "/news/pibrentasvir/",
       "title": "Pibrentasvir News",
-      "count": 11
+      "count": 15
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     }
   ],
   "/drugs/pioglitazone/": [
@@ -2736,24 +2736,24 @@
     {
       "url": "/news/pirfenidone/",
       "title": "Pirfenidone News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/plerixafor/": [
     {
       "url": "/news/plerixafor/",
       "title": "Plerixafor News",
-      "count": 29
+      "count": 28
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/asthma/",
@@ -2770,12 +2770,12 @@
     {
       "url": "/news/pomalidomide/",
       "title": "Pomalidomide News",
-      "count": 27
+      "count": 26
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/asthma/",
@@ -2787,12 +2787,12 @@
     {
       "url": "/news/ponatinib/",
       "title": "Ponatinib News",
-      "count": 25
+      "count": 24
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/alzheimer-disease/",
@@ -2804,12 +2804,12 @@
     {
       "url": "/news/posaconazole/",
       "title": "Posaconazole News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     }
   ],
   "/drugs/prasterone/": [
@@ -2869,12 +2869,12 @@
     {
       "url": "/news/prilocaine/",
       "title": "Prilocaine News",
-      "count": 36
+      "count": 35
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/asthma/",
@@ -2891,12 +2891,12 @@
     {
       "url": "/news/ramucirumab/",
       "title": "Ramucirumab News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/ranibizumab/": [
@@ -2951,24 +2951,24 @@
     {
       "url": "/news/regorafenib/",
       "title": "Regorafenib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/relebactam/": [
     {
       "url": "/news/relebactam/",
       "title": "Relebactam News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/remdesivir/": [
@@ -3011,12 +3011,12 @@
     {
       "url": "/news/ripretinib/",
       "title": "Ripretinib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/risankizumab/": [
@@ -3040,12 +3040,12 @@
     {
       "url": "/news/risdiplam/",
       "title": "Risdiplam News",
-      "count": 27
+      "count": 26
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/asthma/",
@@ -3057,24 +3057,24 @@
     {
       "url": "/news/risperidone/",
       "title": "Risperidone News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     }
   ],
   "/drugs/rituximab/": [
     {
       "url": "/news/rituximab/",
       "title": "Rituximab News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/rivaroxaban/": [
@@ -3093,12 +3093,12 @@
     {
       "url": "/news/roflumilast/",
       "title": "Roflumilast News",
-      "count": 26
+      "count": 25
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/heart-disease/",
@@ -3122,41 +3122,41 @@
     {
       "url": "/news/rotigotine/",
       "title": "Rotigotine News",
-      "count": 11
+      "count": 15
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     }
   ],
   "/drugs/roxadustat/": [
     {
       "url": "/news/roxadustat/",
       "title": "Roxadustat News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/rufinamide/": [
     {
       "url": "/news/rufinamide/",
       "title": "Rufinamide News",
-      "count": 36
+      "count": 38
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     },
     {
       "url": "/news/epilepsy/",
@@ -3207,12 +3207,12 @@
     {
       "url": "/news/selinexor/",
       "title": "Selinexor News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/selpercatinib/": [
@@ -3231,48 +3231,48 @@
     {
       "url": "/news/silodosin/",
       "title": "Silodosin News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     }
   ],
   "/drugs/siltuximab/": [
     {
       "url": "/news/siltuximab/",
       "title": "Siltuximab News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/simvastatin/": [
     {
       "url": "/news/simvastatin/",
       "title": "Simvastatin News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/stroke/",
       "title": "Schlaganfall (stroke) News",
-      "count": 12
+      "count": 13
     }
   ],
   "/drugs/sirolimus/": [
     {
       "url": "/news/sirolimus/",
       "title": "Sirolimus News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/sitagliptin/": [
@@ -3291,36 +3291,36 @@
     {
       "url": "/news/sofosbuvir/",
       "title": "Sofosbuvir News",
-      "count": 11
+      "count": 15
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     }
   ],
   "/drugs/sorafenib/": [
     {
       "url": "/news/sorafenib/",
       "title": "Sorafenib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/sotatercept/": [
     {
       "url": "/news/sotatercept/",
       "title": "Sotatercept News",
-      "count": 38
+      "count": 37
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/diabetes-mellitus/",
@@ -3332,24 +3332,24 @@
     {
       "url": "/news/spironolactone/",
       "title": "Spironolactone News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/sunitinib/": [
     {
       "url": "/news/sunitinib/",
       "title": "Sunitinib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/tacrolimus/": [
@@ -3373,12 +3373,12 @@
     {
       "url": "/news/tadalafil/",
       "title": "Tadalafil News",
-      "count": 33
+      "count": 32
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/heart-disease/",
@@ -3390,12 +3390,12 @@
     {
       "url": "/news/tagraxofusp/",
       "title": "Tagraxofusp News",
-      "count": 27
+      "count": 26
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/asthma/",
@@ -3407,36 +3407,36 @@
     {
       "url": "/news/talazoparib/",
       "title": "Talazoparib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/tasimelteon/": [
     {
       "url": "/news/tasimelteon/",
       "title": "Tasimelteon News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/depression/",
       "title": "depression News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/tasonermin/": [
     {
       "url": "/news/tasonermin/",
       "title": "Tasonermin News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/tazobactam/": [
@@ -3460,36 +3460,36 @@
     {
       "url": "/news/tecovirimat/",
       "title": "Tecovirimat News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/tegafur/": [
     {
       "url": "/news/tegafur/",
       "title": "Tegafur News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/telmisartan/": [
     {
       "url": "/news/telmisartan/",
       "title": "Telmisartan News",
-      "count": 14
+      "count": 15
     },
     {
       "url": "/news/stroke/",
       "title": "Schlaganfall (stroke) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/heart-disease/",
@@ -3501,36 +3501,36 @@
     {
       "url": "/news/temoporfin/",
       "title": "Temoporfin News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/temozolomide/": [
     {
       "url": "/news/temozolomide/",
       "title": "Temozolomide News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/temsirolimus/": [
     {
       "url": "/news/temsirolimus/",
       "title": "Temsirolimus News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/tenecteplase/": [
@@ -3549,24 +3549,24 @@
     {
       "url": "/news/teriflunomide/",
       "title": "Teriflunomide News",
-      "count": 11
+      "count": 15
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     }
   ],
   "/drugs/tezacaftor/": [
     {
       "url": "/news/tezacaftor/",
       "title": "Tezacaftor News",
-      "count": 28
+      "count": 27
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/arthritis/",
@@ -3578,12 +3578,12 @@
     {
       "url": "/news/thalidomide/",
       "title": "Thalidomide News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/arthritis/",
@@ -3600,24 +3600,24 @@
     {
       "url": "/news/thiotepa/",
       "title": "Thiotepa News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/tigecycline/": [
     {
       "url": "/news/tigecycline/",
       "title": "Tigecycline News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/tildrakizumab/": [
@@ -3636,12 +3636,12 @@
     {
       "url": "/news/timolol/",
       "title": "Timolol News",
-      "count": 26
+      "count": 25
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/heart-disease/",
@@ -3653,12 +3653,12 @@
     {
       "url": "/news/tipranavir/",
       "title": "Tipranavir News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/tirzepatide/": [
@@ -3677,12 +3677,12 @@
     {
       "url": "/news/tivozanib/",
       "title": "Tivozanib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/tobramycin/": [
@@ -3713,24 +3713,24 @@
     {
       "url": "/news/tocofersolan/",
       "title": "Tocofersolan News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/tofacitinib/": [
     {
       "url": "/news/tofacitinib/",
       "title": "Tofacitinib News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/arthritis/",
@@ -3759,60 +3759,60 @@
     {
       "url": "/news/topotecan/",
       "title": "Topotecan News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/toremifene/": [
     {
       "url": "/news/toremifene/",
       "title": "Toremifene News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/trabectedin/": [
     {
       "url": "/news/trabectedin/",
       "title": "Trabectedin News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/trametinib/": [
     {
       "url": "/news/trametinib/",
       "title": "Trametinib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/trastuzumab/": [
     {
       "url": "/news/trastuzumab/",
       "title": "Trastuzumab News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/travoprost/": [
@@ -3894,12 +3894,12 @@
     {
       "url": "/news/valsartan/",
       "title": "Valsartan News",
-      "count": 26
+      "count": 25
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/heart-disease/",
@@ -3911,48 +3911,48 @@
     {
       "url": "/news/vandetanib/",
       "title": "Vandetanib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/velpatasvir/": [
     {
       "url": "/news/velpatasvir/",
       "title": "Velpatasvir News",
-      "count": 11
+      "count": 15
     },
     {
       "url": "/news/multiple-sclerosis/",
-      "title": "sclerosi multipla (multiple sclerosis) News",
-      "count": 11
+      "title": "MS (multiple sclerosis) News",
+      "count": 15
     }
   ],
   "/drugs/venetoclax/": [
     {
       "url": "/news/venetoclax/",
       "title": "Venetoclax News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/vilanterol/": [
     {
       "url": "/news/vilanterol/",
       "title": "Vilanterol News",
-      "count": 29
+      "count": 28
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/asthma/",
@@ -3981,12 +3981,12 @@
     {
       "url": "/news/vismodegib/",
       "title": "Vismodegib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/voclosporin/": [
@@ -4005,72 +4005,72 @@
     {
       "url": "/news/voriconazole/",
       "title": "Voriconazole News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     }
   ],
   "/drugs/vortioxetine/": [
     {
       "url": "/news/vortioxetine/",
       "title": "Vortioxetine News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/depression/",
       "title": "depression News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/zanubrutinib/": [
     {
       "url": "/news/zanubrutinib/",
       "title": "Zanubrutinib News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/ziconotide/": [
     {
       "url": "/news/ziconotide/",
       "title": "Ziconotide News",
-      "count": 6
+      "count": 8
     },
     {
       "url": "/news/obesity/",
-      "title": "obésité (obesity) News",
-      "count": 6
+      "title": "Adipositas (obesity) News",
+      "count": 8
     }
   ],
   "/drugs/zidovudine/": [
     {
       "url": "/news/zidovudine/",
       "title": "Zidovudine News",
-      "count": 24
+      "count": 23
     },
     {
       "url": "/news/cancer/",
       "title": "tumor (cancer) News",
-      "count": 24
+      "count": 23
     }
   ],
   "/drugs/zonisamide/": [
     {
       "url": "/news/zonisamide/",
       "title": "Zonisamide News",
-      "count": 34
+      "count": 33
     },
     {
       "url": "/news/atrial-fibrillation/",
       "title": "AF (atrial fibrillation) News",
-      "count": 31
+      "count": 30
     },
     {
       "url": "/news/heart-disease/",

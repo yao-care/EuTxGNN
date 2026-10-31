@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Granisetron?">
-<strong>Granisetron</strong> currently has <strong>33 news articles</strong>, with 10 predicted indications.
+<strong>Granisetron</strong> currently has <strong>32 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ This page combines the AI-predicted indications for Granisetron with the latest 
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (33)
+## Related News (32)
 
-### [BPCO: fiato corto nonostante gli inalatori, un esame del sangue può orientare nuove cure](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTV80dkpNeWZ4b3FFb3Z2R3AyOHJBZlNBQ0IwdEFkY1Zyck42S0VITVVIeFM2MEJrMXZTdjBJcXZLRkw0Q0ZsWFVoVE1TdzVSbHI0M3kwV2ljbERxQzVoQTZPMjVMMGZoQ3R2LXE4bU1kcTVGcWkwbS0zZHFxX29NMlF4TF9oU2k3SWpFdnFpTnk1d2VHRTlLS2JqaUtGbWpyWmhPV3RnUEZNUWxJNjROTFBpYWo0MGowSDVBdExhdlY0TDhRcUFOal8zWEQwck83Y2c5Z3dRdVotaFk3SjdF?oc=5)
+### [More than 5,000 die from Ebola in DR Congo's deadliest outbreak](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZeW1wVkxmVGNuYUZtRURyYmhWWXRGbnpjMDAxTmpva2YtTWhYRGZ1UzUyUE5weTRkU2h5U3RtT3FRNDFwbVpxMEZBa3RzOTJIbm01Wnp5ZG5LYW5kUWc?oc=5)
 
-2026-10-31 <span class="news-indication-tag">BPCO</span>
+2026-10-31 <span class="news-indication-tag">AF</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTV80dkpNeWZ4b3FFb3Z2R3AyOHJBZlNBQ0IwdEFkY1Zyck42S0VITVVIeFM2MEJrMXZTdjBJcXZLRkw0Q0ZsWFVoVE1TdzVSbHI0M3kwV2ljbERxQzVoQTZPMjVMMGZoQ3R2LXE4bU1kcTVGcWkwbS0zZHFxX29NMlF4TF9oU2k3SWpFdnFpTnk1d2VHRTlLS2JqaUtGbWpyWmhPV3RnUEZNUWxJNjROTFBpYWo0MGowSDVBdExhdlY0TDhRcUFOal8zWEQwck83Y2c5Z3dRdVotaFk3SjdF?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZeW1wVkxmVGNuYUZtRURyYmhWWXRGbnpjMDAxTmpva2YtTWhYRGZ1UzUyUE5weTRkU2h5U3RtT3FRNDFwbVpxMEZBa3RzOTJIbm01Wnp5ZG5LYW5kUWc?oc=5)
+
+---
+
+### [Retatrutide bei Schlafapnoe: Zwei Phase-3-Studien zeigen weniger Atempausen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVRlMm9hMUROUmlEUG1fY2h4aHVYZ3JuQlBNd2lKUURfeEFrMFMtdDlfRXBKRGhVbTNMZ3RGdVJQbDN2aHVMZHd3OEdTMWZIUVBZWGszMDh2bV9Fdjg4dlBUdXZEQmlXVVBvMFRMYXBJVjNnVjdCUGJPWlVyMUlKV2Z3LXJnU1otZ2hoS3U5SzVLWHVoWU51QURHakhmYktxSFNYV2ZkVEdlbHM1Z2hPd2NQTk84UmE3VVhHdm5XSjc?oc=5)
+
+2026-10-31 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVRlMm9hMUROUmlEUG1fY2h4aHVYZ3JuQlBNd2lKUURfeEFrMFMtdDlfRXBKRGhVbTNMZ3RGdVJQbDN2aHVMZHd3OEdTMWZIUVBZWGszMDh2bV9Fdjg4dlBUdXZEQmlXVVBvMFRMYXBJVjNnVjdCUGJPWlVyMUlKV2Z3LXJnU1otZ2hoS3U5SzVLWHVoWU51QURHakhmYktxSFNYV2ZkVEdlbHM1Z2hPd2NQTk84UmE3VVhHdm5XSjc?oc=5)
+
+---
+
+### [Apple Watch: Studie findet 21 Fälle von Vorhofflimmern bei 219 Trägern](https://news.google.com/rss/articles/CBMivAFBVV95cUxNek55eW9yeVNjOU5LZEd6Sm1RWFdyYnI4eWJtSE45NHk4eTNGclYxTHRpQ1Z2SGcyQWtVOGJ0MkRKb0dmUjh1dE9lbldsd2V3TnZYckxOTWktb0pmSGE3ZGdVNHN0R1M4X0R2aDZ3N0xlZC1KOGtaOEUwOTVzN2syRXh6REJ6MWxzTTBOZHpnVHFBRjY3U0VjMG83cmNPaExMYTExNUdDNHhpX3A4WWxDekFaMlNnQUJOS3J1RA?oc=5)
+
+2026-10-31 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNek55eW9yeVNjOU5LZEd6Sm1RWFdyYnI4eWJtSE45NHk4eTNGclYxTHRpQ1Z2SGcyQWtVOGJ0MkRKb0dmUjh1dE9lbldsd2V3TnZYckxOTWktb0pmSGE3ZGdVNHN0R1M4X0R2aDZ3N0xlZC1KOGtaOEUwOTVzN2syRXh6REJ6MWxzTTBOZHpnVHFBRjY3U0VjMG83cmNPaExMYTExNUdDNHhpX3A4WWxDekFaMlNnQUJOS3J1RA?oc=5)
 
 ---
 
@@ -68,11 +84,11 @@ Source: [Diario UNO](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQUs0aX
 
 ---
 
-### [Congo Ebola outbreak kills more than 5,000](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbllsVjgtOF8tYlNWQTMtSzkxZ1paY0Fud2RmVVRldXhsdi1ST3hDM2VyRHZIUUNHZjVOSHdSbHNOZE5nZ0I1NVRsT2lIS0N1dWllTm0yUThUVDVHcVNJZVZDdGljeUt4dGhYOTVsRy1FYlM1ZTJkMVZkTncwcHJGVmNvNDNYZnJBQUxvNnpvM1lLc0w1ZmVhVk5MUkt0YjAwZUFGYWZDczJSdUNJNWQ0djFDLW8tcjlJS0owaU4yZTRaZw?oc=5)
+### [BPCO: fiato corto nonostante gli inalatori, un esame del sangue può orientare nuove cure](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTV80dkpNeWZ4b3FFb3Z2R3AyOHJBZlNBQ0IwdEFkY1Zyck42S0VITVVIeFM2MEJrMXZTdjBJcXZLRkw0Q0ZsWFVoVE1TdzVSbHI0M3kwV2ljbERxQzVoQTZPMjVMMGZoQ3R2LXE4bU1kcTVGcWkwbS0zZHFxX29NMlF4TF9oU2k3SWpFdnFpTnk1d2VHRTlLS2JqaUtGbWpyWmhPV3RnUEZNUWxJNjROTFBpYWo0MGowSDVBdExhdlY0TDhRcUFOal8zWEQwck83Y2c5Z3dRdVotaFk3SjdF?oc=5)
 
-2026-10-30 <span class="news-indication-tag">AF</span>
+2026-10-30 <span class="news-indication-tag">BPCO</span>
 
-Source: [Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbllsVjgtOF8tYlNWQTMtSzkxZ1paY0Fud2RmVVRldXhsdi1ST3hDM2VyRHZIUUNHZjVOSHdSbHNOZE5nZ0I1NVRsT2lIS0N1dWllTm0yUThUVDVHcVNJZVZDdGljeUt4dGhYOTVsRy1FYlM1ZTJkMVZkTncwcHJGVmNvNDNYZnJBQUxvNnpvM1lLc0w1ZmVhVk5MUkt0YjAwZUFGYWZDczJSdUNJNWQ0djFDLW8tcjlJS0owaU4yZTRaZw?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTV80dkpNeWZ4b3FFb3Z2R3AyOHJBZlNBQ0IwdEFkY1Zyck42S0VITVVIeFM2MEJrMXZTdjBJcXZLRkw0Q0ZsWFVoVE1TdzVSbHI0M3kwV2ljbERxQzVoQTZPMjVMMGZoQ3R2LXE4bU1kcTVGcWkwbS0zZHFxX29NMlF4TF9oU2k3SWpFdnFpTnk1d2VHRTlLS2JqaUtGbWpyWmhPV3RnUEZNUWxJNjROTFBpYWo0MGowSDVBdExhdlY0TDhRcUFOal8zWEQwck83Y2c5Z3dRdVotaFk3SjdF?oc=5)
 
 ---
 
@@ -132,19 +148,19 @@ Source: [Quartz auf Deutsch](https://news.google.com/rss/articles/CBMihwFBVV95cU
 
 ---
 
-### [Fegato grasso: la novità per evitare l’ago e lo stress della biopsia - The Wom Healthy](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmRBM1ByalBVc2p0UTlnS3cwUVpfTFFzSk5taWR1bGxKWjBFTUhQaGdHZHU4Nkp2R3MwcjJxbWwxQXNXbWlKTnIwdi1qMzdtZmpnWF91RWhSMklKa0ZkS2Z2ZV81STlUdC1ZeTdKaVN1NU9NRTVrS1dnendiazJwbmZmdFlycXhTekFPeTcxLU94WndfejNrcWU2cXpQakZnNTBrZ2h2MTV3SEpJUUxj?oc=5)
-
-2026-10-30 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmRBM1ByalBVc2p0UTlnS3cwUVpfTFFzSk5taWR1bGxKWjBFTUhQaGdHZHU4Nkp2R3MwcjJxbWwxQXNXbWlKTnIwdi1qMzdtZmpnWF91RWhSMklKa0ZkS2Z2ZV81STlUdC1ZeTdKaVN1NU9NRTVrS1dnendiazJwbmZmdFlycXhTekFPeTcxLU94WndfejNrcWU2cXpQakZnNTBrZ2h2MTV3SEpJUUxj?oc=5)
-
----
-
 ### [Stille Atherosklerose: Bei 57,1 Prozent der Erwachsenen nachgewiesen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWNSbVlNQWlsdkd6cVFCMkNLSDhEQVN6XzJoVzJ4Sl93b00xeUY5NWlxS0JfSXhTLTVlUHJTb2Z0ZUJpVEM0NkhiREFoUDFEWDRfZ0JDd2lzcEo4R3dtaVJ1NjZrTlFiWjZlQVhtQWYyUkllUUhjaXBTcERBQzd0VEkwbFZPZnAtMHNjMWM2RlBFNXdBR2RqRDlmcld0ekp3aENJWGRtQ2RUVmZvQjF4ak9LaGRSSzg?oc=5)
 
 2026-10-30 <span class="news-indication-tag">AF</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWNSbVlNQWlsdkd6cVFCMkNLSDhEQVN6XzJoVzJ4Sl93b00xeUY5NWlxS0JfSXhTLTVlUHJTb2Z0ZUJpVEM0NkhiREFoUDFEWDRfZ0JDd2lzcEo4R3dtaVJ1NjZrTlFiWjZlQVhtQWYyUkllUUhjaXBTcERBQzd0VEkwbFZPZnAtMHNjMWM2RlBFNXdBR2RqRDlmcld0ekp3aENJWGRtQ2RUVmZvQjF4ak9LaGRSSzg?oc=5)
+
+---
+
+### [Deadly dog virus confirmed in town after healthy six-year-old pet dies - Northwich Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVNQTFk3eDhTTk00X20tczBoaGF3LS0wY2NjNm5IT0F6b08wQTJmQlJJTEgzLUl4b1h0SHR4bHY0YXNuMmx3WjNPQm9iek9zbXc3Y2J6eEJ5b0JrM19taEVoSzhCR2ZhNTE0UjhRRlk5MHg1M0stWGh5TDdYRmZLdWVQVE9PY190RWVza0pfbG1KcTFOcFpNUm9GVmM0WHNS?oc=5)
+
+2026-10-30 <span class="news-indication-tag">AF</span>
+
+Source: [Northwich Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVNQTFk3eDhTTk00X20tczBoaGF3LS0wY2NjNm5IT0F6b08wQTJmQlJJTEgzLUl4b1h0SHR4bHY0YXNuMmx3WjNPQm9iek9zbXc3Y2J6eEJ5b0JrM19taEVoSzhCR2ZhNTE0UjhRRlk5MHg1M0stWGh5TDdYRmZLdWVQVE9PY190RWVza0pfbG1KcTFOcFpNUm9GVmM0WHNS?oc=5)
 
 ---
 
@@ -212,27 +228,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd3VQ
 
 ---
 
-### [Older Adults With AF: Anticoagulant Use May Lower Death Risk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGozYV9zTW5aTmx1U0o5bVpkT1lnWXNEc1NRcmJLM2VwTzhBdHBIQWZlZFdzYkNQeU1aWVl2Q3hwRkgxX3pNRWZOeDdWNFZlZEM4WlZWZ0VIVFBCUlVnUHlLS3V6ekprMmRmRmE5Smh6dDZGSUI1MjRTY19oWjRubWU2ZkZ2TE1tN1dNTHdiakE3eEdiS3RQWXVOYlpjdzRHMG1tVWxWbWN5RHc?oc=5)
+### [OAC After Brain Bleed in AF Tied to Lower Stroke Risk](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGN6R0R1OTdwVHdhZmR5Nm1LYndFMTdWWDQ2Z2VuUnNRUklmdTJQVWNYTE8tWVQ2ekVrQUFCTTdzUlEzSXVxejVNUVJORGRpVVJJVURtVTdFalBZVE15TklvOUpyaFYta2QyenF4YmpLcF81bkEwNWVwcTRsMDdhejIwMkN3LXJWalZ6anRJQk9EQ0wweGgtWVl1cXplYjllOXc?oc=5)
 
 2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGozYV9zTW5aTmx1U0o5bVpkT1lnWXNEc1NRcmJLM2VwTzhBdHBIQWZlZFdzYkNQeU1aWVl2Q3hwRkgxX3pNRWZOeDdWNFZlZEM4WlZWZ0VIVFBCUlVnUHlLS3V6ekprMmRmRmE5Smh6dDZGSUI1MjRTY19oWjRubWU2ZkZ2TE1tN1dNTHdiakE3eEdiS3RQWXVOYlpjdzRHMG1tVWxWbWN5RHc?oc=5)
-
----
-
-### [Dr. Diego López de Lara, pediatra, sobre los disruptores endocrinos: "No hay que convertir la casa en un laboratorio ni conseguir que los padres miren con sospecha cada objeto que tocan sus hijos"](https://news.google.com/rss/articles/CBMi1wFBVV95cUxORXI4QlItd1dnT1FnNkx1WU9HWG1KcVQ3aGFGMl96TllPSlFnd0ljYldpQUtPazRobzZJaTRKazRsUHk3WFhSOV9MQl83OUx1d0xWdTZEaHUzX25XcXk5d3hZSkM2SGhRV3hQUjhnREF0VHF2ZEswSXd1TWRSNlh0QW5BQS02Wl8weExFcEplTVdTWGp4aERsN0xTaHRETTdGSXduajVQV3ZRU3dfajNSZ1lsdzMtdnAtTnJkVFRWTS1YdG1seUFhQXN0amJSdUdoREVjaGdDNA?oc=5)
-
-2026-10-29 <span class="news-indication-tag">AF</span>
-
-Source: [HOLA](https://news.google.com/rss/articles/CBMi1wFBVV95cUxORXI4QlItd1dnT1FnNkx1WU9HWG1KcVQ3aGFGMl96TllPSlFnd0ljYldpQUtPazRobzZJaTRKazRsUHk3WFhSOV9MQl83OUx1d0xWdTZEaHUzX25XcXk5d3hZSkM2SGhRV3hQUjhnREF0VHF2ZEswSXd1TWRSNlh0QW5BQS02Wl8weExFcEplTVdTWGp4aERsN0xTaHRETTdGSXduajVQV3ZRU3dfajNSZ1lsdzMtdnAtTnJkVFRWTS1YdG1seUFhQXN0amJSdUdoREVjaGdDNA?oc=5)
-
----
-
-### [A Long-Ignored Syndrome Is Drawing Unprecedented Attention](https://news.google.com/rss/articles/CBMipgFBVV95cUxPLVYwdmFNQmdtN2wyYzl2VDZReEFqQ0hCX1FwbVVOX0RxSlRlQ3cybHFsQUNxbWRxbWZJTm8wNmhjYVJ4amgzZktnN1J6ZU5COGFpaS1ERVFRSnJNd1JwXzFQenBlVXZRbWFmWGl6VXEwWmlHNWtkXzNvcVYtUHFmNDhMZlhmdk9ELUFqT25ZRDJzREt5T1JLVXFrSHFFNHpPaV80VW5n?oc=5)
-
-2026-10-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxPLVYwdmFNQmdtN2wyYzl2VDZReEFqQ0hCX1FwbVVOX0RxSlRlQ3cybHFsQUNxbWRxbWZJTm8wNmhjYVJ4amgzZktnN1J6ZU5COGFpaS1ERVFRSnJNd1JwXzFQenBlVXZRbWFmWGl6VXEwWmlHNWtkXzNvcVYtUHFmNDhMZlhmdk9ELUFqT25ZRDJzREt5T1JLVXFrSHFFNHpPaV80VW5n?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGN6R0R1OTdwVHdhZmR5Nm1LYndFMTdWWDQ2Z2VuUnNRUklmdTJQVWNYTE8tWVQ2ekVrQUFCTTdzUlEzSXVxejVNUVJORGRpVVJJVURtVTdFalBZVE15TklvOUpyaFYta2QyenF4YmpLcF81bkEwNWVwcTRsMDdhejIwMkN3LXJWalZ6anRJQk9EQ0wweGgtWVl1cXplYjllOXc?oc=5)
 
 ---
 
@@ -268,11 +268,11 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxP
 
 ---
 
-### [Woman died after one-year delay in cancer diagnosis](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5udExPVDFvMlFHQWh3YjBIZFlMUFZXbDJDczJmcXR2Qi15eXY1U0x5ZzAyeUQyaDZQZWgwOXdrQTluZWtsM2NrVGtidld3aW45UDdJdWVmcmZ5Z0NadEE?oc=5)
+### [Cataluña llama a los colectivos vulnerables a vacunarse contra la gripe y la COVID-19 - El Confidencial](https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkVyX2VBNVJFS0lHc3kwU2hVRDVfMDQ2VVhHOHNJVFY1MjRGRlMzVk45NjdJNU5hZ2FFUFc2ZF9NSlJaZVNOTHVkaWZjdVMyN1B6cFJOTTM3NXpxYktxQjhIWDd0UXM2VWt3QUtheEgxdTd3eHQ3alRXT2IxMTJqSU9GdFgzSXR3SVFjWm12TkJucHVJVU1QMkFOemVuNG53cHNQM1RnZw?oc=5)
 
-2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-10-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5udExPVDFvMlFHQWh3YjBIZFlMUFZXbDJDczJmcXR2Qi15eXY1U0x5ZzAyeUQyaDZQZWgwOXdrQTluZWtsM2NrVGtidld3aW45UDdJdWVmcmZ5Z0NadEE?oc=5)
+Source: [El Confidencial](https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkVyX2VBNVJFS0lHc3kwU2hVRDVfMDQ2VVhHOHNJVFY1MjRGRlMzVk45NjdJNU5hZ2FFUFc2ZF9NSlJaZVNOTHVkaWZjdVMyN1B6cFJOTTM3NXpxYktxQjhIWDd0UXM2VWt3QUtheEgxdTd3eHQ3alRXT2IxMTJqSU9GdFgzSXR3SVFjWm12TkJucHVJVU1QMkFOemVuNG53cHNQM1RnZw?oc=5)
 
 ---
 
@@ -297,14 +297,6 @@ Source: [L'essentiel](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGdUM
 2026-10-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMisAJBVV95cUxON05venIzY3l6cXpSakhDQ1lIQ1J4bGZtZkx0RzBnMWF1TWVfeGQtT01Zc19KNmUzVFBsWUlkbUU2ODgwRG9Ua0t6dUZTa3pZREFhS3NwVmJRelh3Vjg2el9KU2JGUDdTNUc1WkxrbEx5MFBnRWt0ZXB0dE9XbWRfNHJ1Y1FUakZTZW1UNEYxcFd0MmR4bVBERUpEYnVQNmhHUklwMDZGS00ybEZDczEyNE5xeS1kR3BXaGV4bXBwaVJCMU5oZE5GZERCc013NGwwZUtTallWSDJTZmhaWUhZazhRbl9LbDEyZklnWXZLb2YyWnp5TnpOdXhpWm9ITkNxeU9UQlFaRUhmQ0ZEUl9ueXAtakxENklYQ2QxNmdXWVU1ZEJsN2otbzZEa2o0Z2Zt0gG2AkFVX3lxTE9VamVVanVjZW11Wm9INklqN19EUXJoVjU5ak9XdE8xTUVWWjk2YkpGN0NSMUJBd1RaTC1NVkJGMUFLaGR1Ri1MSjlVVjQ3ZDZRUjRvc0RhalB1SXFFb2lqRF8zX2xNSTlnSGsxUWhJWE9DeXpZbDJYNlpGMVBUTXlXbkxJaFVDSEVEUHhYY0NFdGgzUG54dndQdVJEd3hFZWoyUHJpdHNfQXMyQkgwa2xjOVdSMWI3TTlTWUpxcE1DNDZDVFhyOXNQWUdPU2I4MHJHeDNoeFFfUUxNYjNHOXZhVVFhS3RNME9zVGU2SE9rQUx5Z1lwODZUb1NEZ1dueXRSQWRsblJvenhPeUREalB1V05ENV9wb3I0SFI0WXBoeUVwSWlwSDdrR01vdE9Xd0w4ZTU4bXc?oc=5)
-
----
-
-### [Uraltes Virus kann Gehirnunterschiede zwischen Mensch und Schimpanse erklären](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanpDR0JaaUJUeXRLUjR0ODdMNXhIb1p2anJLZ1g0bldnNTRJR1dLMURzMTFQdW5qam1uQ2FydzZvVVNwMExlV3E5SWFKLUVmbWcwUklsR2ZkODVhb1prb2lROWR6LTF4cHJkTkUxYXJuSDF0QlBmclZBZ3FhSEVnaWM1ZS05Zm5ad01qc1JGbXpNMVVldDRRRk1DQWxNTk9hbTYxTEdmWHFra2pZN0w4bXd2bVBiaGNa?oc=5)
-
-2026-10-24 <span class="news-indication-tag">AF</span>
-
-Source: [Scinexx](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanpDR0JaaUJUeXRLUjR0ODdMNXhIb1p2anJLZ1g0bldnNTRJR1dLMURzMTFQdW5qam1uQ2FydzZvVVNwMExlV3E5SWFKLUVmbWcwUklsR2ZkODVhb1prb2lROWR6LTF4cHJkTkUxYXJuSDF0QlBmclZBZ3FhSEVnaWM1ZS05Zm5ad01qc1JGbXpNMVVldDRRRk1DQWxNTk9hbTYxTEdmWHFra2pZN0w4bXd2bVBiaGNa?oc=5)
 
 ---
 

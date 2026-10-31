@@ -3,7 +3,7 @@ layout: default
 title: "depression News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depression. 3 articles, 7 related drugs."
+description: "Health news about depression. 4 articles, 7 related drugs."
 permalink: /news/depression/
 last_modified_at: 2026-10-31
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about depression?">
-<strong>depression</strong> currently has <strong>3 news articles</strong> and 7 related drugs.
+<strong>depression</strong> currently has <strong>4 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page brings together the latest health news about “depression” and list
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [Depressione, disturbo bipolare e schizofrenia: il segnale comune nelle onde cerebrali](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVc0V0htdlBVdjU4cUFzSFA3VzZySmswd01qZ01kMEhFR2xzRVMzbjkzZ1ZGOVdObDVYZGVPZlpyZlF5b3U3SjVLcUtGU1pXeFkwcEFyQ1paUHl5dlI2cUpZRmNSc0c3ZkREZnRtbklEUGxFVHRKNHhaNnZEbFBhQ2hMRGhKUGpEWjZYRjlFYVdicnBvR0NMSndjSlVEb1JtVnNVNzBqUVRZZHVlRlYyb2tjQzRQcHZteC1ya29JOXozcllieFFKUkx1T3dyTnlxU0JhR3hlMzVDR1U?oc=5)
 
@@ -49,6 +49,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVc0
 2026-10-29
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxPV091TnFPVnlFWVZDTS1wWTBiVGxsYmVlNXBNR3pycUJHem1BZ0FuQU1IRDdVMV8wZjdhZE1PMmFaS1F4cVJCVnA1QkVhZHpmWVo0MWdpLUN2RkFWUmhReDRLNnlUQi1kZjIxSmZUNHdoRmJ4TFRtVVFIdmhFVjZnVUFRTjVRaVk4MnNkMjVIVFRSWWo5YW5XbUlrWkFMZngyMEZJN0N6bEFXOG01N0I4LTI2RQ?oc=5)
+
+---
+
+### [Single dose of fast-acting psychedelic nasal spray shows promise for stubborn depression - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1dEeTN5QnAtTzVjbFpycWpIQXlMQzNQaFM0SHdTM0N3TEtkR25nTU9IR3ZaSWlFNkVjbVlrZzI5VEFkeTZSR29fZzJ5RjZwZTl4ZUwzc0ZQMFNodWFRN0loVXpCVVFqa09PMUI3enJIWXAxTEdqNzBsUUZnSC16b09DZw?oc=5)
+
+2026-10-28
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1dEeTN5QnAtTzVjbFpycWpIQXlMQzNQaFM0SHdTM0N3TEtkR25nTU9IR3ZaSWlFNkVjbVlrZzI5VEFkeTZSR29fZzJ5RjZwZTl4ZUwzc0ZQMFNodWFRN0loVXpCVVFqa09PMUI3enJIWXAxTEdqNzBsUUZnSC16b09DZw?oc=5)
 
 ---
 

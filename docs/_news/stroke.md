@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 12 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 13 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-10-31
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>12 news articles</strong> and 11 related drugs.
+<strong>Schlaganfall (stroke)</strong> currently has <strong>13 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (12)
+## Related News (13)
 
 ### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmowVk9KR29VWWRXWkZxcWhZUWx0VmtlRGxzNGNfdE1HNGZHdHRhNF9wUVo0RHdkdmhzdFVuOEg3cndrNXIwMjYzR241VUE2QmJEaFc1WklubU1QS3JHRDVXM1FVLTk5MEZZdFhVOFJDeThJc0ZzUzhCTzFLTzRiTTAtLVhHWjlKbEhfQ2hGd20yQ2ZOMDZyZVpJQndDZHd0WV9NZENPV3RpUWIxUzRhOHVnWkZDWGdGV1Fn?oc=5)
 
 2026-10-31
 
 Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmowVk9KR29VWWRXWkZxcWhZUWx0VmtlRGxzNGNfdE1HNGZHdHRhNF9wUVo0RHdkdmhzdFVuOEg3cndrNXIwMjYzR241VUE2QmJEaFc1WklubU1QS3JHRDVXM1FVLTk5MEZZdFhVOFJDeThJc0ZzUzhCTzFLTzRiTTAtLVhHWjlKbEhfQ2hGd20yQ2ZOMDZyZVpJQndDZHd0WV9NZENPV3RpUWIxUzRhOHVnWkZDWGdGV1Fn?oc=5)
+
+---
+
+### [Mar Freijo, neuróloga: «Entre un 80 y un 90 % de los ictus se podrían evitar» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUnVGT3BqWURGdE9xTGtPOXoxQ3dkZktsYU5ET2JNSEFSZXotXzlpZkFNMWtEMG82V2pRa0N6U2RCVXdyOENEMFBZNHBVdVZsTFRXNjl3R0lUWWVvU2dmQkZWRmg3NUNLZlJEQzVKLWNWZ2psRm1pN0ZyVVQ5NmJYNEVkaUpFU1NNZGkyZnhYUlJHeWxJd1RIY19HdXI3a1lVRUFjdjM3a0hyNkV1R1RaTGpKMzVkQThUcGlhV0RhMlRkblFkY28zc0NzWDhRbzdsWFJyOGtNODAwVHFL0gHiAUFVX3lxTE1pR1ExVWcxVUxCNUh0QjlmTFA3NDU0akREV20zZGtPMmZVTUpkMzFrSTlWT1RHWU00N3RXdlVPZ3B4X3NHZUVVYjRyOHVSVGJqRVNJOE9pb0hBTTRaNmFfS0FMNHBNTFRBXzFUcUFMOHA3TXJqZVFnWHlsekxkeWE4ZXpMZkhPdTlyaUJubG0wNmVtVUpuV2hlZ0xJMjB0RTJNNktRTE1FVlV0MU9wU0xEMmlwdDBaTkVoWXNfb3JVZXYwZTYxUS1ZM0dlU2xaelotUWh0SFpQWDhZZ3RqSHpQT1E?oc=5)
+
+2026-10-31
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUnVGT3BqWURGdE9xTGtPOXoxQ3dkZktsYU5ET2JNSEFSZXotXzlpZkFNMWtEMG82V2pRa0N6U2RCVXdyOENEMFBZNHBVdVZsTFRXNjl3R0lUWWVvU2dmQkZWRmg3NUNLZlJEQzVKLWNWZ2psRm1pN0ZyVVQ5NmJYNEVkaUpFU1NNZGkyZnhYUlJHeWxJd1RIY19HdXI3a1lVRUFjdjM3a0hyNkV1R1RaTGpKMzVkQThUcGlhV0RhMlRkblFkY28zc0NzWDhRbzdsWFJyOGtNODAwVHFL0gHiAUFVX3lxTE1pR1ExVWcxVUxCNUh0QjlmTFA3NDU0akREV20zZGtPMmZVTUpkMzFrSTlWT1RHWU00N3RXdlVPZ3B4X3NHZUVVYjRyOHVSVGJqRVNJOE9pb0hBTTRaNmFfS0FMNHBNTFRBXzFUcUFMOHA3TXJqZVFnWHlsekxkeWE4ZXpMZkhPdTlyaUJubG0wNmVtVUpuV2hlZ0xJMjB0RTJNNktRTE1FVlV0MU9wU0xEMmlwdDBaTkVoWXNfb3JVZXYwZTYxUS1ZM0dlU2xaelotUWh0SFpQWDhZZ3RqSHpQT1E?oc=5)
 
 ---
 
@@ -58,14 +66,6 @@ Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1gFBV
 2026-10-30
 
 Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMipwFBVV95cUxNVUl1WXFFaHFObWFIOWZReFR1aks2YzZpOWhiajdlR3BDcjFodktTZU92OXFMWFlicUlmRUd5TlQ4S01sWjZYV0VTQUN0eWgtUy13ZE5IeVFfdWNnWXZhM3pqWUg3Rl9ZN0pndW5pZDV5bnRmX2JWU2RCaDB3LUlVRExFWE5tNVhiTzJfOTYwT1ZxRGYwTGhDWTl2RFBfMlkwVndXU3FJSQ?oc=5)
-
----
-
-### [El Hospital público Gregorio Marañón realiza una jornada de concienciación para saber cómo detectar y actuar si una persona sufre un ictus - Comunidad de Madrid |](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWURfSlRuQ3Z2aXJDcDRNVnFFbFhEWTdYQlJ1YmFRdUtuY2dsRFV5SF9kclVPUllfOFdWeDNmVFVzcXRrNktOanRBRzVJRG83MXY5bXNsUUUxQ1R3RDBaeEZPNkhUblU0VnB4M3FweHlfMlhpWUNNYnZ0UDdndHZqaktkMjU0YUY2dWltWldiRkF2WjJJZTU4aV95cHphU0RUYTE4ckZRRGZ6OUZsN0YwNTVwUnJ3dHRLSXdQaDBIX0VwdVhhVFJ5cml4a1hBcmM4UmVTS3dLRjhLUGRmQ2JIbDVtVHlPbUdTcndwM3MxcDk?oc=5)
-
-2026-10-30
-
-Source: [Comunidad de Madrid |](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWURfSlRuQ3Z2aXJDcDRNVnFFbFhEWTdYQlJ1YmFRdUtuY2dsRFV5SF9kclVPUllfOFdWeDNmVFVzcXRrNktOanRBRzVJRG83MXY5bXNsUUUxQ1R3RDBaeEZPNkhUblU0VnB4M3FweHlfMlhpWUNNYnZ0UDdndHZqaktkMjU0YUY2dWltWldiRkF2WjJJZTU4aV95cHphU0RUYTE4ckZRRGZ6OUZsN0YwNTVwUnJ3dHRLSXdQaDBIX0VwdVhhVFJ5cml4a1hBcmM4UmVTS3dLRjhLUGRmQ2JIbDVtVHlPbUdTcndwM3MxcDk?oc=5)
 
 ---
 
@@ -93,27 +93,19 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMd
 
 ---
 
-### [Los casos de ictus crecen un 73% desde 1990 pese a caer las tasas de incidencia y mortalidad por edad](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTRybFpFdTk2WENHOGh1b2dRWDgtY0IzMjVNZURrZ3pDU0N4NnF0WUk2b2NmbWNreV9wRnpObVNmOUFSTm0zaXNfM1dGbHNabklZbmhqZDgtbE5iNTExNmdpcDh2NTQ2TWh0MWhLNXNZR25xTzRsTDg3bHhXMFhjTlNoQnNtbFdueXVNT1FJMHc5UTRnWWhTYlRFbW8yd3l6R3hwWEZZMzc4bW5SSU1Oc1h6NklUbFV1cFBzS2tNNFgxbHNzY19GaQ?oc=5)
+### [Los nuevos casos de ictus aumentaron un 73% desde 1990 en todo el mundo pese a descender su incidencia y mortalidad](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLVN1QjRhSVd1SVRSaXBOS2lUMHk4RDNqekFsMG13Ny1jSF93MnU5T1R6WGFtUzhEQ0ZLY0pwaDA3a0FKUXRRQ2F3Tm5qMm5zR3pWLTlSYkoyZHFzbzFaM0N0bEZMX3RBMGIzZzhhTFZFM2FWaDVTc2NURklvdXF6bEs2cDRaOVgxcm9XUk9SYTZ3Y1Z1UFd6bFF1M2FCZGY2UW5EZVE2WjBKaWJkbXZsTXNScks3bndwMG1FZktUU0JqOXh0R0sta0J6dzliQmxfYTRCTmVMUzEyMHRicTd0dw?oc=5)
 
 2026-10-29
 
-Source: [iSanidad](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTRybFpFdTk2WENHOGh1b2dRWDgtY0IzMjVNZURrZ3pDU0N4NnF0WUk2b2NmbWNreV9wRnpObVNmOUFSTm0zaXNfM1dGbHNabklZbmhqZDgtbE5iNTExNmdpcDh2NTQ2TWh0MWhLNXNZR25xTzRsTDg3bHhXMFhjTlNoQnNtbFdueXVNT1FJMHc5UTRnWWhTYlRFbW8yd3l6R3hwWEZZMzc4bW5SSU1Oc1h6NklUbFV1cFBzS2tNNFgxbHNzY19GaQ?oc=5)
+Source: [20Minutos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLVN1QjRhSVd1SVRSaXBOS2lUMHk4RDNqekFsMG13Ny1jSF93MnU5T1R6WGFtUzhEQ0ZLY0pwaDA3a0FKUXRRQ2F3Tm5qMm5zR3pWLTlSYkoyZHFzbzFaM0N0bEZMX3RBMGIzZzhhTFZFM2FWaDVTc2NURklvdXF6bEs2cDRaOVgxcm9XUk9SYTZ3Y1Z1UFd6bFF1M2FCZGY2UW5EZVE2WjBKaWJkbXZsTXNScks3bndwMG1FZktUU0JqOXh0R0sta0J6dzliQmxfYTRCTmVMUzEyMHRicTd0dw?oc=5)
 
 ---
 
-### [Older Adults With AF: Anticoagulant Use May Lower Death Risk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGozYV9zTW5aTmx1U0o5bVpkT1lnWXNEc1NRcmJLM2VwTzhBdHBIQWZlZFdzYkNQeU1aWVl2Q3hwRkgxX3pNRWZOeDdWNFZlZEM4WlZWZ0VIVFBCUlVnUHlLS3V6ekprMmRmRmE5Smh6dDZGSUI1MjRTY19oWjRubWU2ZkZ2TE1tN1dNTHdiakE3eEdiS3RQWXVOYlpjdzRHMG1tVWxWbWN5RHc?oc=5)
+### [OAC After Brain Bleed in AF Tied to Lower Stroke Risk](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGN6R0R1OTdwVHdhZmR5Nm1LYndFMTdWWDQ2Z2VuUnNRUklmdTJQVWNYTE8tWVQ2ekVrQUFCTTdzUlEzSXVxejVNUVJORGRpVVJJVURtVTdFalBZVE15TklvOUpyaFYta2QyenF4YmpLcF81bkEwNWVwcTRsMDdhejIwMkN3LXJWalZ6anRJQk9EQ0wweGgtWVl1cXplYjllOXc?oc=5)
 
 2026-10-29
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGozYV9zTW5aTmx1U0o5bVpkT1lnWXNEc1NRcmJLM2VwTzhBdHBIQWZlZFdzYkNQeU1aWVl2Q3hwRkgxX3pNRWZOeDdWNFZlZEM4WlZWZ0VIVFBCUlVnUHlLS3V6ekprMmRmRmE5Smh6dDZGSUI1MjRTY19oWjRubWU2ZkZ2TE1tN1dNTHdiakE3eEdiS3RQWXVOYlpjdzRHMG1tVWxWbWN5RHc?oc=5)
-
----
-
-### ["90 % des AVC sont évitables" : pour mieux se protéger, les bons conseils des professionnels soignants à l’hôpital de Niort](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZDJkOGc1ODlXS1doZjh1RE5PUHBCWDcxZWgwQ0MzZl9EeFFLdlpJVkRBaDF2WjJVNmRFNGVKOVVQejZkcmdlbXB1UEY2bWtXbTFpb1hlYzdQT3IyUjJzVlJhblVHX2NCNV9SNDFuRzF1blZRZHRJclE1eFVreXJWTmNUeThuenNENGRnazR6VHZkV2g1VjdxMW42NmtsMkdNZ3RhTlBoZUQwQ1hBc3JsOVkwMHhJUmxkM0xQeExsRjZ2XzJrOXVqc2NwZkNXT2Z2N2syTTZlTFhUZVRNUE5lUGpnUVdQQ09XQlUxcjc2bFRUWVMyZmlGLXdTTG0yQQ?oc=5)
-
-2026-10-29
-
-Source: [lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZDJkOGc1ODlXS1doZjh1RE5PUHBCWDcxZWgwQ0MzZl9EeFFLdlpJVkRBaDF2WjJVNmRFNGVKOVVQejZkcmdlbXB1UEY2bWtXbTFpb1hlYzdQT3IyUjJzVlJhblVHX2NCNV9SNDFuRzF1blZRZHRJclE1eFVreXJWTmNUeThuenNENGRnazR6VHZkV2g1VjdxMW42NmtsMkdNZ3RhTlBoZUQwQ1hBc3JsOVkwMHhJUmxkM0xQeExsRjZ2XzJrOXVqc2NwZkNXT2Z2N2syTTZlTFhUZVRNUE5lUGpnUVdQQ09XQlUxcjc2bFRUWVMyZmlGLXdTTG0yQQ?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGN6R0R1OTdwVHdhZmR5Nm1LYndFMTdWWDQ2Z2VuUnNRUklmdTJQVWNYTE8tWVQ2ekVrQUFCTTdzUlEzSXVxejVNUVJORGRpVVJJVURtVTdFalBZVE15TklvOUpyaFYta2QyenF4YmpLcF81bkEwNWVwcTRsMDdhejIwMkN3LXJWalZ6anRJQk9EQ0wweGgtWVl1cXplYjllOXc?oc=5)
 
 ---
 
@@ -130,6 +122,22 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFJ
 2026-10-29
 
 Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
+
+---
+
+### [« J’ai commencé à voir tout en vert de mon œil droit »… Pourquoi de plus en plus de jeunes font des AVC - 20 Minutes](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHFhcW96bG9RT05ZbVZxc1hTb09kS1E2YVJBcW9Gd0h2Sm90N3R0YXBqNGZ5MGctZlRmU19vOFhabFVHdUp6a1dyWGR6RGpjalBHS3ZtcVd4QWoyNGNEOFZmQk1HNk9IVE82aEJUYklIcTVEZUpRanhhWW04TmYwRnBBenlIRktWNGlxMU5nREE4dzJaaHJNanVuYm9aaF96dmxRcEhtRDNPbDE0eEZVUWVn?oc=5)
+
+2026-10-29
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHFhcW96bG9RT05ZbVZxc1hTb09kS1E2YVJBcW9Gd0h2Sm90N3R0YXBqNGZ5MGctZlRmU19vOFhabFVHdUp6a1dyWGR6RGpjalBHS3ZtcVd4QWoyNGNEOFZmQk1HNk9IVE82aEJUYklIcTVEZUpRanhhWW04TmYwRnBBenlIRktWNGlxMU5nREE4dzJaaHJNanVuYm9aaF96dmxRcEhtRDNPbDE0eEZVUWVn?oc=5)
+
+---
+
+### [Impfungen: Mehr als Schutz vor Infektionen? – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
+
+2026-10-28
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
 
 ---
 

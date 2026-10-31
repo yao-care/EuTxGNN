@@ -81,14 +81,6 @@ This page brings together the latest health news about “artritis” and lists 
 
 ## Related News (4)
 
-### [Psoriasis-Arthritis: Diagnose dauert oft vier bis fünf Jahre](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
-
-2026-10-30
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
-
----
-
 ### [Identifican una posible diana terapéutica para combatir la osteoartritis - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTktDUFlTcFpDeUwtQXo3ZXE2OTlzSUV5V0xsbXJWbVNGc3lsUXBMcEw3bGZFbEZ1enB5ZFdkNF9UQWRDUjNYLVNKSGZIZ01VV3RYS3UtZjROSERoZkpnM3ZkV0hHX0cwY3VUOTZZeWJjUTgtSUQxQUZNZXRmdk1LOElxOHpWalNTMUc1WVZsY3kyOFFqVGhfdV9vLTRJRkcySWtHSXVrMVg0ajdEWDZiV3hkNlpCTmFPd0JtQ25ZdFYtUdIBvAFBVV95cUxOZ1ZLMnlySjY1UUlIQ3BEcWdQZmlwYXBlMmdWVE5Jb0wxYXZENmlYeDliZWczSTJnR0M3VExlTTh1WUFzX2xFOFRBdTEyaXJLdG1LMHJRWXRUWU05ME50NmZTXzFuaGZFa1JwTzl0TDdKREk2U1k3ZmlVMnVqX0Q5ajY3R0RuUXgtT0pfQVhLUnRGTmtkMFhZT0NZa0UyMUwwYlMxaG1wX2piRk9haGVERG1GOVRjeDllM2Z0Yg?oc=5)
 
 2026-10-29
@@ -102,6 +94,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTktDUF
 2026-10-29
 
 Source: [Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHY0UHNSUTM3VUlLWG5TX1VRekZSc09mUmktOGJxaGRuU3pibFhtbms5TEpoWFpnSG9xWlQ3YXgxbnJXc0x4NUxOZEI1YzhHQW9QQklLbzRhcWU2TlhRbHIzYWxCMlRubVdrOXJSN3k3RmxaZzY0Z2RIWUZpY2R0WEdEdmsxSzNNWGtSZXZmYlIxRHJTbXdKcmozd1V5cmJWV1gwajd3?oc=5)
+
+---
+
+### [Stigmatisierung junger Psoriasis-Patienten: IFPA startet Kampagne - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN19GUHAyVE8tXzgxT19jUFFxY0wzc2pjS05EMUxXN0hRME1nOGg3d2xBeG1jMldIcGZ6aEkzNFlZTjA3MmxfWS1GRnhwd1RJa2pkb1RORDcxNlZSN0hfdnNWd1dja1pnX0lla1Y4M2JPUmZfMVJibldRcG1scjRTd2JuR1ZZYVJhV3NRT0lhNUtmNlFoZUtYM2RJZ1pqeko3ak5KbmNiM1N6MnEwa3RZWXU5bFM?oc=5)
+
+2026-10-28
+
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN19GUHAyVE8tXzgxT19jUFFxY0wzc2pjS05EMUxXN0hRME1nOGg3d2xBeG1jMldIcGZ6aEkzNFlZTjA3MmxfWS1GRnhwd1RJa2pkb1RORDcxNlZSN0hfdnNWd1dja1pnX0lla1Y4M2JPUmZfMVJibldRcG1scjRTd2JuR1ZZYVJhV3NRT0lhNUtmNlFoZUtYM2RJZ1pqeko3ak5KbmNiM1N6MnEwa3RZWXU5bFM?oc=5)
 
 ---
 

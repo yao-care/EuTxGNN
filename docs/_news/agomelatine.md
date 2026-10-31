@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>3 news articles</strong>, with 7 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>4 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [Depressione, disturbo bipolare e schizofrenia: il segnale comune nelle onde cerebrali](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVc0V0htdlBVdjU4cUFzSFA3VzZySmswd01qZ01kMEhFR2xzRVMzbjkzZ1ZGOVdObDVYZGVPZlpyZlF5b3U3SjVLcUtGU1pXeFkwcEFyQ1paUHl5dlI2cUpZRmNSc0c3ZkREZnRtbklEUGxFVHRKNHhaNnZEbFBhQ2hMRGhKUGpEWjZYRjlFYVdicnBvR0NMSndjSlVEb1JtVnNVNzBqUVRZZHVlRlYyb2tjQzRQcHZteC1ya29JOXozcllieFFKUkx1T3dyTnlxU0JhR3hlMzVDR1U?oc=5)
 
@@ -55,6 +55,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVc0
 2026-10-29 <span class="news-indication-tag">depression</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxPV091TnFPVnlFWVZDTS1wWTBiVGxsYmVlNXBNR3pycUJHem1BZ0FuQU1IRDdVMV8wZjdhZE1PMmFaS1F4cVJCVnA1QkVhZHpmWVo0MWdpLUN2RkFWUmhReDRLNnlUQi1kZjIxSmZUNHdoRmJ4TFRtVVFIdmhFVjZnVUFRTjVRaVk4MnNkMjVIVFRSWWo5YW5XbUlrWkFMZngyMEZJN0N6bEFXOG01N0I4LTI2RQ?oc=5)
+
+---
+
+### [Single dose of fast-acting psychedelic nasal spray shows promise for stubborn depression - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1dEeTN5QnAtTzVjbFpycWpIQXlMQzNQaFM0SHdTM0N3TEtkR25nTU9IR3ZaSWlFNkVjbVlrZzI5VEFkeTZSR29fZzJ5RjZwZTl4ZUwzc0ZQMFNodWFRN0loVXpCVVFqa09PMUI3enJIWXAxTEdqNzBsUUZnSC16b09DZw?oc=5)
+
+2026-10-28 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1dEeTN5QnAtTzVjbFpycWpIQXlMQzNQaFM0SHdTM0N3TEtkR25nTU9IR3ZaSWlFNkVjbVlrZzI5VEFkeTZSR29fZzJ5RjZwZTl4ZUwzc0ZQMFNodWFRN0loVXpCVVFqa09PMUI3enJIWXAxTEdqNzBsUUZnSC16b09DZw?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Bupropion?">
-<strong>Bupropion</strong> currently has <strong>6 news articles</strong>, with 0 predicted indications.
+<strong>Bupropion</strong> currently has <strong>8 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (8)
+
+### [Retatrutide bei Schlafapnoe: Zwei Phase-3-Studien zeigen weniger Atempausen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVRlMm9hMUROUmlEUG1fY2h4aHVYZ3JuQlBNd2lKUURfeEFrMFMtdDlfRXBKRGhVbTNMZ3RGdVJQbDN2aHVMZHd3OEdTMWZIUVBZWGszMDh2bV9Fdjg4dlBUdXZEQmlXVVBvMFRMYXBJVjNnVjdCUGJPWlVyMUlKV2Z3LXJnU1otZ2hoS3U5SzVLWHVoWU51QURHakhmYktxSFNYV2ZkVEdlbHM1Z2hPd2NQTk84UmE3VVhHdm5XSjc?oc=5)
+
+2026-10-31 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVRlMm9hMUROUmlEUG1fY2h4aHVYZ3JuQlBNd2lKUURfeEFrMFMtdDlfRXBKRGhVbTNMZ3RGdVJQbDN2aHVMZHd3OEdTMWZIUVBZWGszMDh2bV9Fdjg4dlBUdXZEQmlXVVBvMFRMYXBJVjNnVjdCUGJPWlVyMUlKV2Z3LXJnU1otZ2hoS3U5SzVLWHVoWU51QURHakhmYktxSFNYV2ZkVEdlbHM1Z2hPd2NQTk84UmE3VVhHdm5XSjc?oc=5)
+
+---
 
 ### [Le "Wegovy", médicament contre l'obésité, arrive en pharmacie : remboursement, effets secondaires... ce qu'il faut savoir sur le traitement vedette](https://news.google.com/rss/articles/CBMikgJBVV95cUxNRTVLMS04OV8yb3dxYXBCcW9KdlpRZVRaX2dCd0VNVVpsRTluV0U0Q0tjYUNLLWxMUWthUGx3WDVKLXc1bkM4UkZyYld5SjFQTl9YQXVHU0JUWTFSUzhoek1mamJyMDEybWRHYUZfaXFLLWo1eFlIelJXTkFCWnN0NGo1Z1ZOckpmUzFqaEZ6SW9idjhLT3B0dS1NR3NicXBVbk8tcVpFMDUyUlVRd1NvWGNfQjhBRFFtYVNDcGRldzAyaVJ5VTR5amplaWhGV0tEcXExbkRyQ0RhTDRlcElBX1ZrWmQ4X1Vid1N3clpMcjVZdHhZUWxyVWJYU3VPM2U3eGN1RUk4UkFsVU4yc1hRdEdB?oc=5)
 
@@ -53,6 +61,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2tXN1
 2026-10-30 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
+
+---
+
+### [La revolución del GLP-1 se queda corta: los expertos exigen un frente unido contra la obesidad](https://news.google.com/rss/articles/CBMizwFBVV95cUxOT0VBVnRpRnJTckVHUEpYdnF1b2EzaGtSbDloYXV0b25KakdfWkhkX2FQaWJoTlJycjQtRkpSMlJ5WHcyUnA5U2JCaWhuRVUzcXFSQTNnYWhYVWtZMVRYdExqb3lSZERMWXlKYXQ4dXlma29TWXdlN2NCUUNEaHBDOHRyNUhrOUE4MUs4d1EwLUpDdmozVzMyQnlPQmlyQlg2TjM1V3NtZ01PeWt5WDVZVjNiZk5nd2MwQzhFNzZMSG1INkxvQjdXdzBYeVAtVE0?oc=5)
+
+2026-10-30 <span class="news-indication-tag">obesidad</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMizwFBVV95cUxOT0VBVnRpRnJTckVHUEpYdnF1b2EzaGtSbDloYXV0b25KakdfWkhkX2FQaWJoTlJycjQtRkpSMlJ5WHcyUnA5U2JCaWhuRVUzcXFSQTNnYWhYVWtZMVRYdExqb3lSZERMWXlKYXQ4dXlma29TWXdlN2NCUUNEaHBDOHRyNUhrOUE4MUs4d1EwLUpDdmozVzMyQnlPQmlyQlg2TjM1V3NtZ01PeWt5WDVZVjNiZk5nd2MwQzhFNzZMSG1INkxvQjdXdzBYeVAtVE0?oc=5)
 
 ---
 
