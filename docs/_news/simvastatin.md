@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>13 news articles</strong>, with 5 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>12 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,21 +37,21 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (12)
+
+### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmowVk9KR29VWWRXWkZxcWhZUWx0VmtlRGxzNGNfdE1HNGZHdHRhNF9wUVo0RHdkdmhzdFVuOEg3cndrNXIwMjYzR241VUE2QmJEaFc1WklubU1QS3JHRDVXM1FVLTk5MEZZdFhVOFJDeThJc0ZzUzhCTzFLTzRiTTAtLVhHWjlKbEhfQ2hGd20yQ2ZOMDZyZVpJQndDZHd0WV9NZENPV3RpUWIxUzRhOHVnWkZDWGdGV1Fn?oc=5)
+
+2026-10-31 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmowVk9KR29VWWRXWkZxcWhZUWx0VmtlRGxzNGNfdE1HNGZHdHRhNF9wUVo0RHdkdmhzdFVuOEg3cndrNXIwMjYzR241VUE2QmJEaFc1WklubU1QS3JHRDVXM1FVLTk5MEZZdFhVOFJDeThJc0ZzUzhCTzFLTzRiTTAtLVhHWjlKbEhfQ2hGd20yQ2ZOMDZyZVpJQndDZHd0WV9NZENPV3RpUWIxUzRhOHVnWkZDWGdGV1Fn?oc=5)
+
+---
 
 ### [Cibi ultraprocessati, non contano solo le calorie: cosa succede al cervello e all'insulina - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1gFBVV95cUxObmFaYVFsdi04QXdIVDZkX1RTWVI0MTBTUjJoRXVYMTdkTkZNR3JVOGJFVjdHem9DNGg2dmxuRWY1SE5hRG9aNXdaYlJfTDE2MmIzdTJ1V093c29lOGJ6a2pPakxoR1FBVnl5eFFtNElLLXp1OWxWc1VGOU5ySXFVbTFFNlNlRXh6LURiQkRnOFVhemJXd3FRdG1xN0N6Zm9Qb2d3ZE44M0VrTjk2MkF3bHFrUk5XZ3lfaG5jNkduRDFQTThvajRHNTVhWVFPZno1SzhxLUt30gG8AUFVX3lxTE85MkFzRVRhcHd5ZGxrdTBxX0pQZDdpUUVPelhHU1pLOFJKY2hMLUFyb2ZNZ0RyU1czbGdUTXhWcjBfSzVMYjJ6c2JoOUpVMVVwWmNMSU5nSlFiUmZrdENHenp2NHhtODBhR1ZQbW9xRXlpVWxMeC1nWnl0SFgxSUZrdjZOTEtXN3VDdWhYNnVReTVmS3p3cDdHNDhhcEVWakl6RloyX01xcXZGOUs3UU02S291bHljSk1jNV9o?oc=5)
 
 2026-10-30 <span class="news-indication-tag">ictus</span>
 
 Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1gFBVV95cUxObmFaYVFsdi04QXdIVDZkX1RTWVI0MTBTUjJoRXVYMTdkTkZNR3JVOGJFVjdHem9DNGg2dmxuRWY1SE5hRG9aNXdaYlJfTDE2MmIzdTJ1V093c29lOGJ6a2pPakxoR1FBVnl5eFFtNElLLXp1OWxWc1VGOU5ySXFVbTFFNlNlRXh6LURiQkRnOFVhemJXd3FRdG1xN0N6Zm9Qb2d3ZE44M0VrTjk2MkF3bHFrUk5XZ3lfaG5jNkduRDFQTThvajRHNTVhWVFPZno1SzhxLUt30gG8AUFVX3lxTE85MkFzRVRhcHd5ZGxrdTBxX0pQZDdpUUVPelhHU1pLOFJKY2hMLUFyb2ZNZ0RyU1czbGdUTXhWcjBfSzVMYjJ6c2JoOUpVMVVwWmNMSU5nSlFiUmZrdENHenp2NHhtODBhR1ZQbW9xRXlpVWxMeC1nWnl0SFgxSUZrdjZOTEtXN3VDdWhYNnVReTVmS3p3cDdHNDhhcEVWakl6RloyX01xcXZGOUs3UU02S291bHljSk1jNV9o?oc=5)
-
----
-
-### [La vacunación antigripal puede reducir el riesgo de complicaciones cardiovasculares en adultos - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWlKcjdhMzBBNHVnSkF5WUxUSEtkUXB3VXRyRElWQk4wX2p6REZ6UXFfUnpXaHJmVVMtQ21HXzgzQ2tZaHU3ZlVvNkpQVzJBejNhbE9XVF9IRWYwSlQwSXRWMXBHa2ZvWURnUmUzbGdOLUhEaXIwTlF2eHdPb0YtWmpKM0RyZG44ZEh5YzBsbS1CRWlLWXdYZERybDJ4WTh4SXlKOE9HOThMLW9BbXRVWkx3R1U1NWFPUVVPcDJwejdsUdIBvAFBVV95cUxPUW1mSWlKMGVuc0FxTURuQVp1MkxlNVhxU0FCWnlSTG1GSlpnYklXS1NXQWFsTlMzRndCWWJfb0ZDUDk4WlprTS1ER3lVdFgxYkpENC1sdTROeXZTbUVibG5MSXlXaXVUYm1Pb3VxdzJJQzlfNmYzaWxhdFlRMWxzMHd4dldxNlZvZktRRTl0U1NLOW5zN1ZpaHFTRUNkWlFHX21MVGtmYy1uVEdiaFo5R0paMWl3azE1MmgycQ?oc=5)
-
-2026-10-30 <span class="news-indication-tag">ictus</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWlKcjdhMzBBNHVnSkF5WUxUSEtkUXB3VXRyRElWQk4wX2p6REZ6UXFfUnpXaHJmVVMtQ21HXzgzQ2tZaHU3ZlVvNkpQVzJBejNhbE9XVF9IRWYwSlQwSXRWMXBHa2ZvWURnUmUzbGdOLUhEaXIwTlF2eHdPb0YtWmpKM0RyZG44ZEh5YzBsbS1CRWlLWXdYZERybDJ4WTh4SXlKOE9HOThMLW9BbXRVWkx3R1U1NWFPUVVPcDJwejdsUdIBvAFBVV95cUxPUW1mSWlKMGVuc0FxTURuQVp1MkxlNVhxU0FCWnlSTG1GSlpnYklXS1NXQWFsTlMzRndCWWJfb0ZDUDk4WlprTS1ER3lVdFgxYkpENC1sdTROeXZTbUVibG5MSXlXaXVUYm1Pb3VxdzJJQzlfNmYzaWxhdFlRMWxzMHd4dldxNlZvZktRRTl0U1NLOW5zN1ZpaHFTRUNkWlFHX21MVGtmYy1uVEdiaFo5R0paMWl3azE1MmgycQ?oc=5)
 
 ---
 
@@ -103,14 +103,6 @@ Source: [iSanidad](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTRybFpF
 
 ---
 
-### [« Deux AVC à 28 ans, ça n’était pas du tout dans mon bingo de l’année 2026 » - TÉMOIGNAGE - Le HuffPost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmpoZ1NFMmJfVmNsR0NpVk9tU1hYdHFzUUlTQUdSeGZsTEtxU3BUUEw4NHpvRXExdXBhNHlWaENoOGMtNFlnYmdSdU5naG1UMFJXRzRpRnRiYWxLcEc4QjkzeFZNdW1VbzRNdTVhR1RibllTbFRERjJ3M21xLTNzaFNhZlFzS2lDcUttNG40M042Z2h5NkVZOU9lQmplNjZ6TzdMLVE5RkgyU2hvaTB3MTU3YXBUMEtyVF9YU015Wk5NdEFueDRnTXZ4dkMwOUZKMU9n?oc=5)
-
-2026-10-29 <span class="news-indication-tag">AVC</span>
-
-Source: [Le HuffPost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmpoZ1NFMmJfVmNsR0NpVk9tU1hYdHFzUUlTQUdSeGZsTEtxU3BUUEw4NHpvRXExdXBhNHlWaENoOGMtNFlnYmdSdU5naG1UMFJXRzRpRnRiYWxLcEc4QjkzeFZNdW1VbzRNdTVhR1RibllTbFRERjJ3M21xLTNzaFNhZlFzS2lDcUttNG40M042Z2h5NkVZOU9lQmplNjZ6TzdMLVE5RkgyU2hvaTB3MTU3YXBUMEtyVF9YU015Wk5NdEFueDRnTXZ4dkMwOUZKMU9n?oc=5)
-
----
-
 ### [Older Adults With AF: Anticoagulant Use May Lower Death Risk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGozYV9zTW5aTmx1U0o5bVpkT1lnWXNEc1NRcmJLM2VwTzhBdHBIQWZlZFdzYkNQeU1aWVl2Q3hwRkgxX3pNRWZOeDdWNFZlZEM4WlZWZ0VIVFBCUlVnUHlLS3V6ekprMmRmRmE5Smh6dDZGSUI1MjRTY19oWjRubWU2ZkZ2TE1tN1dNTHdiakE3eEdiS3RQWXVOYlpjdzRHMG1tVWxWbWN5RHc?oc=5)
 
 2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
@@ -119,11 +111,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGozYV9z
 
 ---
 
-### [Los agonistas de GLP-1 se asocian con menos ictus isquémicos](https://news.google.com/rss/articles/CBMilAFBVV95cUxPb3IwWnNBeHpTejRHVUJ1RHg1T0cwX29kSmVtWnlEc0JleVdCZ1hHYTdVM3JJci13QTFqbmFiNjYydTVEakdIMkZUTDd4TFJHdHdEbkFic0JKay1kU2k5cVFSOVRMMVNsY2l0WF9IZGctMzlRNkFKZmVqN3pQYjVJejFqY3YyemxuWWV2dWdxUWJWQ3ZF?oc=5)
+### ["90 % des AVC sont évitables" : pour mieux se protéger, les bons conseils des professionnels soignants à l’hôpital de Niort](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZDJkOGc1ODlXS1doZjh1RE5PUHBCWDcxZWgwQ0MzZl9EeFFLdlpJVkRBaDF2WjJVNmRFNGVKOVVQejZkcmdlbXB1UEY2bWtXbTFpb1hlYzdQT3IyUjJzVlJhblVHX2NCNV9SNDFuRzF1blZRZHRJclE1eFVreXJWTmNUeThuenNENGRnazR6VHZkV2g1VjdxMW42NmtsMkdNZ3RhTlBoZUQwQ1hBc3JsOVkwMHhJUmxkM0xQeExsRjZ2XzJrOXVqc2NwZkNXT2Z2N2syTTZlTFhUZVRNUE5lUGpnUVdQQ09XQlUxcjc2bFRUWVMyZmlGLXdTTG0yQQ?oc=5)
 
-2026-10-29 <span class="news-indication-tag">ictus</span>
+2026-10-29 <span class="news-indication-tag">AVC</span>
 
-Source: [Vademecum](https://news.google.com/rss/articles/CBMilAFBVV95cUxPb3IwWnNBeHpTejRHVUJ1RHg1T0cwX29kSmVtWnlEc0JleVdCZ1hHYTdVM3JJci13QTFqbmFiNjYydTVEakdIMkZUTDd4TFJHdHdEbkFic0JKay1kU2k5cVFSOVRMMVNsY2l0WF9IZGctMzlRNkFKZmVqN3pQYjVJejFqY3YyemxuWWV2dWdxUWJWQ3ZF?oc=5)
+Source: [lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZDJkOGc1ODlXS1doZjh1RE5PUHBCWDcxZWgwQ0MzZl9EeFFLdlpJVkRBaDF2WjJVNmRFNGVKOVVQejZkcmdlbXB1UEY2bWtXbTFpb1hlYzdQT3IyUjJzVlJhblVHX2NCNV9SNDFuRzF1blZRZHRJclE1eFVreXJWTmNUeThuenNENGRnazR6VHZkV2g1VjdxMW42NmtsMkdNZ3RhTlBoZUQwQ1hBc3JsOVkwMHhJUmxkM0xQeExsRjZ2XzJrOXVqc2NwZkNXT2Z2N2syTTZlTFhUZVRNUE5lUGpnUVdQQ09XQlUxcjc2bFRUWVMyZmlGLXdTTG0yQQ?oc=5)
 
 ---
 

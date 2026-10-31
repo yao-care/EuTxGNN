@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Sofosbuvir?">
-<strong>Sofosbuvir</strong> currently has <strong>9 news articles</strong>, with 8 predicted indications.
+<strong>Sofosbuvir</strong> currently has <strong>11 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Sofosbuvir with the latest h
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (11)
+
+### [Sclerosi multipla, una molecola sperimentale stimola la riparazione nervosa](https://news.google.com/rss/articles/CBMizwFBVV95cUxNN1hGTFllc1lrYmJnS3Q4c1hTeWJhMEV3SkxmanV0RkUyaHd1dURlZGxUc2tRUzE0S2MxVFJ2b0hwdE11eGxwMzJvSFVVY3VDZFdTZkFUc3gybnh1TlFZckJoMzJzZm82RFhkOUtGcHVnZUNWMjY2UC11eWJIUmhrSHhrLUo4ZkZtM0FTX0IyU1EzNG5Wa2Voams5VEhRQU1RRnNsM3VlRG15NVJybGp5OGIyTWxFYU0xU2prSTc4NXZtdGcxdl9YNWkzVWE0bXc?oc=5)
+
+2026-10-30 <span class="news-indication-tag">sclerosi multipla</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNN1hGTFllc1lrYmJnS3Q4c1hTeWJhMEV3SkxmanV0RkUyaHd1dURlZGxUc2tRUzE0S2MxVFJ2b0hwdE11eGxwMzJvSFVVY3VDZFdTZkFUc3gybnh1TlFZckJoMzJzZm82RFhkOUtGcHVnZUNWMjY2UC11eWJIUmhrSHhrLUo4ZkZtM0FTX0IyU1EzNG5Wa2Voams5VEhRQU1RRnNsM3VlRG15NVJybGp5OGIyTWxFYU0xU2prSTc4NXZtdGcxdl9YNWkzVWE0bXc?oc=5)
+
+---
+
+### [Influenza, vaccino potenziato dai 60 anni: cosa cambia quest’anno](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdjdhRHl5Z2c1WDlubzR4RUJaSFA1Z3A2V1kwVzJoVHJMQmJDXzA4aDV4SS14NDB0eC03WVk5Q3B2bTRpZ0E5OEo2Z1F4cDE2aU5kZnIzcXZWTElBWjYtNUJwYlFvTjluUkJSYk4yYTBvcTRUajdRTGM4ZXVuOXdzUDJObXg5TV9uVmhlNDdrNy1rcTVib2lkWnlMU0JvSDlhN09sb0Rtdnh2MUFhNm55TzhPcw?oc=5)
+
+2026-10-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdjdhRHl5Z2c1WDlubzR4RUJaSFA1Z3A2V1kwVzJoVHJMQmJDXzA4aDV4SS14NDB0eC03WVk5Q3B2bTRpZ0E5OEo2Z1F4cDE2aU5kZnIzcXZWTElBWjYtNUJwYlFvTjluUkJSYk4yYTBvcTRUajdRTGM4ZXVuOXdzUDJObXg5TV9uVmhlNDdrNy1rcTVib2lkWnlMU0JvSDlhN09sb0Rtdnh2MUFhNm55TzhPcw?oc=5)
+
+---
 
 ### [Kent GP's verdict on 'American Covid' and the symptoms to look for - Kent Online](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzNxQjRQaG4zbE9hLU1qMHdEOHdjVGJta0J4aHFYcjhxYjVXc3FoYk5ieG04MzlCQURQMGI3OFYxdUgtUDVTUkRmTzJBZ1VJX2xpX3R2TlNteExwNXI5X0o2c01IRnpzcmVTTlZaUlhSXzhIT0dKZ1kzRGU5WXpQODJ2dHRFc0tsU0tHcXFrajEzQzFZM3hvVXhPdTdDc0o4dlozNzY0NA?oc=5)
 
@@ -58,19 +74,19 @@ Source: [Wales Online](https://news.google.com/rss/articles/CBMimwFBVV95cUxNYTFJ
 
 ---
 
-### [Orléans : 500 patients de ce centre dentaire appelés à se faire dépister contre le VIH](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWxndlV6VTVGeXpZeG1ZcU0zaWRqLWRoeF9QeGkxcUc4M1JNYTh3ajdWSjNEejhnQkFfSjZrbmExc1RDdjFVWk82ZU12b1V3bGg5clA5dWJ5blBKOHNXU3BtdUw5SnZ5MWhYRzBGalktY18za0tGbTh4VnlPalB1THY1b21mSG91MFdOVHlnQlh0MlZ5emZ6UnVHS0VBdWc0UEFjWVZEaVNNUUtvSml0OG1WR0wzQXFwTnZwRA?oc=5)
-
-2026-10-30 <span class="news-indication-tag">hépatite</span>
-
-Source: [CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWxndlV6VTVGeXpZeG1ZcU0zaWRqLWRoeF9QeGkxcUc4M1JNYTh3ajdWSjNEejhnQkFfSjZrbmExc1RDdjFVWk82ZU12b1V3bGg5clA5dWJ5blBKOHNXU3BtdUw5SnZ5MWhYRzBGalktY18za0tGbTh4VnlPalB1THY1b21mSG91MFdOVHlnQlh0MlZ5emZ6UnVHS0VBdWc0UEFjWVZEaVNNUUtvSml0OG1WR0wzQXFwTnZwRA?oc=5)
-
----
-
 ### [MSD anuncia que 'Keytruda' reduce un 43% el riesgo de progresión o muerte en cáncer de endometrio](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZUVCMW5LS19WVGh2NXpUUHZjR3poZGtJZ2RzNGtZSXQ2cnM1eDM1aFVvVlFpUV9ObXVJQ3d5bC05VTJ0WF81alE3TENQVXZBaG5wak5RMXhNYmdsWWVER3c2aU1qV29vd3Fuc2F1WXg5cmFhTUlFeWRXUzVHMU5nMENvdTQzd0JSeXJNQ1pQV3BaXzlURC1xcHJfc29la1hNLTUzX2o5OEowSG1Yc19nX2lVb3dMeFAzb0ZzeTBOOFYzQWhlZWhaVHlLejFHem1ONUxCZ0xGc1ZGeXBnSHc?oc=5)
 
 2026-10-30 <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">MS</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZUVCMW5LS19WVGh2NXpUUHZjR3poZGtJZ2RzNGtZSXQ2cnM1eDM1aFVvVlFpUV9ObXVJQ3d5bC05VTJ0WF81alE3TENQVXZBaG5wak5RMXhNYmdsWWVER3c2aU1qV29vd3Fuc2F1WXg5cmFhTUlFeWRXUzVHMU5nMENvdTQzd0JSeXJNQ1pQV3BaXzlURC1xcHJfc29la1hNLTUzX2o5OEowSG1Yc19nX2lVb3dMeFAzb0ZzeTBOOFYzQWhlZWhaVHlLejFHem1ONUxCZ0xGc1ZGeXBnSHc?oc=5)
+
+---
+
+### [NHS issues warning over cough 'that isn't cold, flu or Covid' - Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcjhnODd6R0YzVW80dDh1OENILVZkMDZFQ1RtUFktaEtCbXQzYkNqaE1zZVVySDk3clNod3V3R3ZQNDJwR0R2eFlhM0kzRlU3dG5VclI4NHRzaG5BVGpOU2MyUlNUN3Y5ZkxEcmFDOWszYWctU1Bpd3pLVUpkRHhVVUFqY2lYRTdaQWpPcHBFRnE0OGYx0gGaAUFVX3lxTE5sVDYxejRiODgwMlUxYnJkSkhuVlo1X2laUGhXQzNSWjV2Sy1ZTTFONGJDLXl6cWR5ZUI0a1ZicEpyUDQ2eUdLc2cwa2xHcHdCb3VRVmVXN1ZyTUgtczJmYzlDYnZvT1dGcExIXzFQbDFBSU5xRGppeXF5QzBxaVVHVVY4eV9zcFhacnBZT0FTT1g0TDRrMnE0a3c?oc=5)
+
+2026-10-30 <span class="news-indication-tag">MS</span>
+
+Source: [Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcjhnODd6R0YzVW80dDh1OENILVZkMDZFQ1RtUFktaEtCbXQzYkNqaE1zZVVySDk3clNod3V3R3ZQNDJwR0R2eFlhM0kzRlU3dG5VclI4NHRzaG5BVGpOU2MyUlNUN3Y5ZkxEcmFDOWszYWctU1Bpd3pLVUpkRHhVVUFqY2lYRTdaQWpPcHBFRnE0OGYx0gGaAUFVX3lxTE5sVDYxejRiODgwMlUxYnJkSkhuVlo1X2laUGhXQzNSWjV2Sy1ZTTFONGJDLXl6cWR5ZUI0a1ZicEpyUDQ2eUdLc2cwa2xHcHdCb3VRVmVXN1ZyTUgtczJmYzlDYnZvT1dGcExIXzFQbDFBSU5xRGppeXF5QzBxaVVHVVY4eV9zcFhacnBZT0FTT1g0TDRrMnE0a3c?oc=5)
 
 ---
 

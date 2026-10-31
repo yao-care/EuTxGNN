@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "MS (multiple sclerosis) News"
+title: "sclerosi multipla (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 8 articles, 26 related drugs."
+description: "Health news about sclerosi multipla (multiple sclerosis). 11 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 last_modified_at: 2026-10-31
 ---
 
-# MS (multiple sclerosis) News
+# sclerosi multipla (multiple sclerosis) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>8 news articles</strong> and 26 related drugs.
+<p class="key-answer" data-question="What news is there about sclerosi multipla (multiple sclerosis)?">
+<strong>sclerosi multipla (multiple sclerosis)</strong> currently has <strong>11 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “MS” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “sclerosi multipla” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -46,7 +46,23 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (8)
+## Related News (11)
+
+### [Sclerosi multipla, una molecola sperimentale stimola la riparazione nervosa](https://news.google.com/rss/articles/CBMizwFBVV95cUxNN1hGTFllc1lrYmJnS3Q4c1hTeWJhMEV3SkxmanV0RkUyaHd1dURlZGxUc2tRUzE0S2MxVFJ2b0hwdE11eGxwMzJvSFVVY3VDZFdTZkFUc3gybnh1TlFZckJoMzJzZm82RFhkOUtGcHVnZUNWMjY2UC11eWJIUmhrSHhrLUo4ZkZtM0FTX0IyU1EzNG5Wa2Voams5VEhRQU1RRnNsM3VlRG15NVJybGp5OGIyTWxFYU0xU2prSTc4NXZtdGcxdl9YNWkzVWE0bXc?oc=5)
+
+2026-10-30
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNN1hGTFllc1lrYmJnS3Q4c1hTeWJhMEV3SkxmanV0RkUyaHd1dURlZGxUc2tRUzE0S2MxVFJ2b0hwdE11eGxwMzJvSFVVY3VDZFdTZkFUc3gybnh1TlFZckJoMzJzZm82RFhkOUtGcHVnZUNWMjY2UC11eWJIUmhrSHhrLUo4ZkZtM0FTX0IyU1EzNG5Wa2Voams5VEhRQU1RRnNsM3VlRG15NVJybGp5OGIyTWxFYU0xU2prSTc4NXZtdGcxdl9YNWkzVWE0bXc?oc=5)
+
+---
+
+### [Influenza, vaccino potenziato dai 60 anni: cosa cambia quest’anno](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdjdhRHl5Z2c1WDlubzR4RUJaSFA1Z3A2V1kwVzJoVHJMQmJDXzA4aDV4SS14NDB0eC03WVk5Q3B2bTRpZ0E5OEo2Z1F4cDE2aU5kZnIzcXZWTElBWjYtNUJwYlFvTjluUkJSYk4yYTBvcTRUajdRTGM4ZXVuOXdzUDJObXg5TV9uVmhlNDdrNy1rcTVib2lkWnlMU0JvSDlhN09sb0Rtdnh2MUFhNm55TzhPcw?oc=5)
+
+2026-10-30
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdjdhRHl5Z2c1WDlubzR4RUJaSFA1Z3A2V1kwVzJoVHJMQmJDXzA4aDV4SS14NDB0eC03WVk5Q3B2bTRpZ0E5OEo2Z1F4cDE2aU5kZnIzcXZWTElBWjYtNUJwYlFvTjluUkJSYk4yYTBvcTRUajdRTGM4ZXVuOXdzUDJObXg5TV9uVmhlNDdrNy1rcTVib2lkWnlMU0JvSDlhN09sb0Rtdnh2MUFhNm55TzhPcw?oc=5)
+
+---
 
 ### [Kent GP's verdict on 'American Covid' and the symptoms to look for - Kent Online](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzNxQjRQaG4zbE9hLU1qMHdEOHdjVGJta0J4aHFYcjhxYjVXc3FoYk5ieG04MzlCQURQMGI3OFYxdUgtUDVTUkRmTzJBZ1VJX2xpX3R2TlNteExwNXI5X0o2c01IRnpzcmVTTlZaUlhSXzhIT0dKZ1kzRGU5WXpQODJ2dHRFc0tsU0tHcXFrajEzQzFZM3hvVXhPdTdDc0o4dlozNzY0NA?oc=5)
 
@@ -69,6 +85,14 @@ Source: [Wales Online](https://news.google.com/rss/articles/CBMimwFBVV95cUxNYTFJ
 2026-10-30
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZUVCMW5LS19WVGh2NXpUUHZjR3poZGtJZ2RzNGtZSXQ2cnM1eDM1aFVvVlFpUV9ObXVJQ3d5bC05VTJ0WF81alE3TENQVXZBaG5wak5RMXhNYmdsWWVER3c2aU1qV29vd3Fuc2F1WXg5cmFhTUlFeWRXUzVHMU5nMENvdTQzd0JSeXJNQ1pQV3BaXzlURC1xcHJfc29la1hNLTUzX2o5OEowSG1Yc19nX2lVb3dMeFAzb0ZzeTBOOFYzQWhlZWhaVHlLejFHem1ONUxCZ0xGc1ZGeXBnSHc?oc=5)
+
+---
+
+### [NHS issues warning over cough 'that isn't cold, flu or Covid' - Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcjhnODd6R0YzVW80dDh1OENILVZkMDZFQ1RtUFktaEtCbXQzYkNqaE1zZVVySDk3clNod3V3R3ZQNDJwR0R2eFlhM0kzRlU3dG5VclI4NHRzaG5BVGpOU2MyUlNUN3Y5ZkxEcmFDOWszYWctU1Bpd3pLVUpkRHhVVUFqY2lYRTdaQWpPcHBFRnE0OGYx0gGaAUFVX3lxTE5sVDYxejRiODgwMlUxYnJkSkhuVlo1X2laUGhXQzNSWjV2Sy1ZTTFONGJDLXl6cWR5ZUI0a1ZicEpyUDQ2eUdLc2cwa2xHcHdCb3VRVmVXN1ZyTUgtczJmYzlDYnZvT1dGcExIXzFQbDFBSU5xRGppeXF5QzBxaVVHVVY4eV9zcFhacnBZT0FTT1g0TDRrMnE0a3c?oc=5)
+
+2026-10-30
+
+Source: [Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcjhnODd6R0YzVW80dDh1OENILVZkMDZFQ1RtUFktaEtCbXQzYkNqaE1zZVVySDk3clNod3V3R3ZQNDJwR0R2eFlhM0kzRlU3dG5VclI4NHRzaG5BVGpOU2MyUlNUN3Y5ZkxEcmFDOWszYWctU1Bpd3pLVUpkRHhVVUFqY2lYRTdaQWpPcHBFRnE0OGYx0gGaAUFVX3lxTE5sVDYxejRiODgwMlUxYnJkSkhuVlo1X2laUGhXQzNSWjV2Sy1ZTTFONGJDLXl6cWR5ZUI0a1ZicEpyUDQ2eUdLc2cwa2xHcHdCb3VRVmVXN1ZyTUgtczJmYzlDYnZvT1dGcExIXzFQbDFBSU5xRGppeXF5QzBxaVVHVVY4eV9zcFhacnBZT0FTT1g0TDRrMnE0a3c?oc=5)
 
 ---
 

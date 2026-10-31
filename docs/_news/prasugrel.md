@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Prasugrel?">
-<strong>Prasugrel</strong> currently has <strong>8 news articles</strong>, with 9 predicted indications.
+<strong>Prasugrel</strong> currently has <strong>6 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Prasugrel with the latest he
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (6)
+
+### [Psoriasis-Arthritis: Diagnose dauert oft vier bis fünf Jahre](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
+
+2026-10-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmpMRlFMOE1Xang4S0xLempIRTlqcl9wSG90OUdyX2ZzTmxmRkJFTzg5M3NpS0JjeU5tdnZqWVNwY3FuaXlpc0tFeEtETVFkTmhLZzk0bWhISjNkV01Idlh0dXJoVHlEVk03eTR1ZklBd3lMUEpiTnJxVzdveW5YQjNCUFdzNWdLa19iWjQ5eXE5bzVQMGU1OXRQNzM1WjZjTkFHQUtHOHlGd2puNGc?oc=5)
+
+---
 
 ### [Identifican una posible diana terapéutica para combatir la osteoartritis - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTktDUFlTcFpDeUwtQXo3ZXE2OTlzSUV5V0xsbXJWbVNGc3lsUXBMcEw3bGZFbEZ1enB5ZFdkNF9UQWRDUjNYLVNKSGZIZ01VV3RYS3UtZjROSERoZkpnM3ZkV0hHX0cwY3VUOTZZeWJjUTgtSUQxQUZNZXRmdk1LOElxOHpWalNTMUc1WVZsY3kyOFFqVGhfdV9vLTRJRkcySWtHSXVrMVg0ajdEWDZiV3hkNlpCTmFPd0JtQ25ZdFYtUdIBvAFBVV95cUxOZ1ZLMnlySjY1UUlIQ3BEcWdQZmlwYXBlMmdWVE5Jb0wxYXZENmlYeDliZWczSTJnR0M3VExlTTh1WUFzX2xFOFRBdTEyaXJLdG1LMHJRWXRUWU05ME50NmZTXzFuaGZFa1JwTzl0TDdKREk2U1k3ZmlVMnVqX0Q5ajY3R0RuUXgtT0pfQVhLUnRGTmtkMFhZT0NZa0UyMUwwYlMxaG1wX2piRk9haGVERG1GOVRjeDllM2Z0Yg?oc=5)
 
@@ -59,35 +67,11 @@ Source: [Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxQU
 
 ---
 
-### [La artritis psoriásica afecta a más de 230.000 personas en España](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkRDZG5sN1dhWUNyWDR5Rkg3bl8tZTAzZEZPUFl1djVERFNLU25RUlV1aGhnV0Y1WEs3bThSNWhYa29SbTdqckVPZk9CTTJ4ZThJRWV0c0lQaHNsbnNxdjVYR3NYQ3N0T0ZrNUN2cDhwODl3ckJLN2E2OC1GMFRDRGRTdGVyelhxeFJaQVBhdGNpVlBNZGdpbmVIWTRfR2wt?oc=5)
-
-2026-10-29 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">AF</span>
-
-Source: [Servimedia](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkRDZG5sN1dhWUNyWDR5Rkg3bl8tZTAzZEZPUFl1djVERFNLU25RUlV1aGhnV0Y1WEs3bThSNWhYa29SbTdqckVPZk9CTTJ4ZThJRWV0c0lQaHNsbnNxdjVYR3NYQ3N0T0ZrNUN2cDhwODl3ckJLN2E2OC1GMFRDRGRTdGVyelhxeFJaQVBhdGNpVlBNZGdpbmVIWTRfR2wt?oc=5)
-
----
-
 ### [À Besançon, le CHU se mobilise contre une maladie cardiaque méconnue - 20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2Y3RHZ4b0VhOUdnY2pjVkw4emRTUDhOZS12QWF4LWlFRVlGR0JPenFaRXpPNFptVXU4S0NDbTBJakp5Skx0MVVmLVlOSkVBdHZMTUYzbnBxWUM1ZlRmekRnNnU2YUNUdFFPNFhIdjFhWU0zWTVsQ3hMZDZCd21VWGQ5NmFSa2EtUG92d2JQTXhQSVZZcXc1ZllZQTk1U180YnJ5ZzJQLUZ3MTdIOUc0UTFSU2trQU8xa2c?oc=5)
 
 2026-10-29 <span class="news-indication-tag">maladie cardiaque</span>
 
 Source: [20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2Y3RHZ4b0VhOUdnY2pjVkw4emRTUDhOZS12QWF4LWlFRVlGR0JPenFaRXpPNFptVXU4S0NDbTBJakp5Skx0MVVmLVlOSkVBdHZMTUYzbnBxWUM1ZlRmekRnNnU2YUNUdFFPNFhIdjFhWU0zWTVsQ3hMZDZCd21VWGQ5NmFSa2EtUG92d2JQTXhQSVZZcXc1ZllZQTk1U180YnJ5ZzJQLUZ3MTdIOUc0UTFSU2trQU8xa2c?oc=5)
-
----
-
-### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
-
-2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
-
----
-
-### [Doctor issues warning to millions taking statins, ramipril and metformin over 'hospital admissions' - Irish Mirror](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkVBejNRSjMxVTJVdDlySFNZYmdLZGJLdjJIOVd5Si1XQlhlZjBqeDVUMW1lMDVXMXF2UWRlUHY3Z3o1Z19SYy1Bd0lhZERNQ01lTnNDaW1ibVVWN1ZiTUtqdV9NcXQ4VmZUc1FFZGRxZVlQY1QzUlVwcXFWUGVaNUdKeXBVNGxQNWtUS2I0UmQ4NGtyRzBzMy1HMnZWamRHZnfSAacBQVVfeXFMTWk1cWxSdXgwS0lTeHpQWTFNQ3BGRjJySDFFSnRsY19NcGdURXI4bmktb1NIbS14Zm0tSmhrd1FDcXIwRzRodWN6Z2dOZW41X044bDc2WFA1V2VadzVwLTQxb3hqTWlEdS1zY01kSzNlenkwU2RlTWZVOXJzYUw3eWJaa2thckk1YlRtak9XcDEwelg1MXU1SVpyTkVTdkVYYkxxOWI0dmc?oc=5)
-
-2026-10-28 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
-
-Source: [Irish Mirror](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkVBejNRSjMxVTJVdDlySFNZYmdLZGJLdjJIOVd5Si1XQlhlZjBqeDVUMW1lMDVXMXF2UWRlUHY3Z3o1Z19SYy1Bd0lhZERNQ01lTnNDaW1ibVVWN1ZiTUtqdV9NcXQ4VmZUc1FFZGRxZVlQY1QzUlVwcXFWUGVaNUdKeXBVNGxQNWtUS2I0UmQ4NGtyRzBzMy1HMnZWamRHZnfSAacBQVVfeXFMTWk1cWxSdXgwS0lTeHpQWTFNQ3BGRjJySDFFSnRsY19NcGdURXI4bmktb1NIbS14Zm0tSmhrd1FDcXIwRzRodWN6Z2dOZW41X044bDc2WFA1V2VadzVwLTQxb3hqTWlEdS1zY01kSzNlenkwU2RlTWZVOXJzYUw3eWJaa2thckk1YlRtak9XcDEwelg1MXU1SVpyTkVTdkVYYkxxOWI0dmc?oc=5)
 
 ---
 

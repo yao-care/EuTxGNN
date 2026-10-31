@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>1 news articles</strong>, with 7 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>3 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,29 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
 
-### [Depression: Lavendelöl überrascht im Vergleich zu Sertralin](https://news.google.com/rss/articles/CBMiswFBVV95cUxPV091TnFPVnlFWVZDTS1wWTBiVGxsYmVlNXBNR3pycUJHem1BZ0FuQU1IRDdVMV8wZjdhZE1PMmFaS1F4cVJCVnA1QkVhZHpmWVo0MWdpLUN2RkFWUmhReDRLNnlUQi1kZjIxSmZUNHdoRmJ4TFRtVVFIdmhFVjZnVUFRTjVRaVk4MnNkMjVIVFRSWWo5YW5XbUlrWkFMZngyMEZJN0N6bEFXOG01N0I4LTI2RQ?oc=5)
+### [Depressione, disturbo bipolare e schizofrenia: il segnale comune nelle onde cerebrali](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVc0V0htdlBVdjU4cUFzSFA3VzZySmswd01qZ01kMEhFR2xzRVMzbjkzZ1ZGOVdObDVYZGVPZlpyZlF5b3U3SjVLcUtGU1pXeFkwcEFyQ1paUHl5dlI2cUpZRmNSc0c3ZkREZnRtbklEUGxFVHRKNHhaNnZEbFBhQ2hMRGhKUGpEWjZYRjlFYVdicnBvR0NMSndjSlVEb1JtVnNVNzBqUVRZZHVlRlYyb2tjQzRQcHZteC1ya29JOXozcllieFFKUkx1T3dyTnlxU0JhR3hlMzVDR1U?oc=5)
+
+2026-10-30 <span class="news-indication-tag">depression</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVc0V0htdlBVdjU4cUFzSFA3VzZySmswd01qZ01kMEhFR2xzRVMzbjkzZ1ZGOVdObDVYZGVPZlpyZlF5b3U3SjVLcUtGU1pXeFkwcEFyQ1paUHl5dlI2cUpZRmNSc0c3ZkREZnRtbklEUGxFVHRKNHhaNnZEbFBhQ2hMRGhKUGpEWjZYRjlFYVdicnBvR0NMSndjSlVEb1JtVnNVNzBqUVRZZHVlRlYyb2tjQzRQcHZteC1ya29JOXozcllieFFKUkx1T3dyTnlxU0JhR3hlMzVDR1U?oc=5)
+
+---
+
+### [Depression: Ein Präparat mit Lavendelöl überrascht im Vergleich zu Sertralin](https://news.google.com/rss/articles/CBMiswFBVV95cUxPV091TnFPVnlFWVZDTS1wWTBiVGxsYmVlNXBNR3pycUJHem1BZ0FuQU1IRDdVMV8wZjdhZE1PMmFaS1F4cVJCVnA1QkVhZHpmWVo0MWdpLUN2RkFWUmhReDRLNnlUQi1kZjIxSmZUNHdoRmJ4TFRtVVFIdmhFVjZnVUFRTjVRaVk4MnNkMjVIVFRSWWo5YW5XbUlrWkFMZngyMEZJN0N6bEFXOG01N0I4LTI2RQ?oc=5)
 
 2026-10-29 <span class="news-indication-tag">depression</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxPV091TnFPVnlFWVZDTS1wWTBiVGxsYmVlNXBNR3pycUJHem1BZ0FuQU1IRDdVMV8wZjdhZE1PMmFaS1F4cVJCVnA1QkVhZHpmWVo0MWdpLUN2RkFWUmhReDRLNnlUQi1kZjIxSmZUNHdoRmJ4TFRtVVFIdmhFVjZnVUFRTjVRaVk4MnNkMjVIVFRSWWo5YW5XbUlrWkFMZngyMEZJN0N6bEFXOG01N0I4LTI2RQ?oc=5)
+
+---
+
+### [Zirkadiane Depression: Studie findet Hinweise auf neue Depressionsform](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGdUMVNVYnAwMU54Rkt1QzVmMU9kX245TG9tR1BtTEdFYWJneXJkb2haSGc0UV91bjJweGl4SGVGZjZFWDdQaU4zMVZaSW9od2tCdlNhOFFQb2ZLWHJUR1cwR1BCNjFxYTlRclNLRVhQcnN6aDVxVTlOQjFIckNwVmE5Zk9DTmhmMW01TjZsSWZFbDNlT0JnLVBnUElZa0loNkFNdFBaXzgxSGNnSEIyeF9B?oc=5)
+
+2026-10-26 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+Source: [L'essentiel](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGdUMVNVYnAwMU54Rkt1QzVmMU9kX245TG9tR1BtTEdFYWJneXJkb2haSGc0UV91bjJweGl4SGVGZjZFWDdQaU4zMVZaSW9od2tCdlNhOFFQb2ZLWHJUR1cwR1BCNjFxYTlRclNLRVhQcnN6aDVxVTlOQjFIckNwVmE5Zk9DTmhmMW01TjZsSWZFbDNlT0JnLVBnUElZa0loNkFNdFBaXzgxSGNnSEIyeF9B?oc=5)
 
 ---
 

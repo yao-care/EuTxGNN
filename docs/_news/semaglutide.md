@@ -32,11 +32,11 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 ## Related News (2)
 
-### [Le Wegovy arrive en France sous forme de comprimé : prix, disponibilité, ordonnance… voici tout ce qu'il faut savoir sur ce traitement anti-obésité](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV29JcEZQLU1udm5DaXJ1RzFIX3VhSWdodk5mcGU1TlFKdUJvOWE0RldDWTJRakZBWWM3ZXo4TE1TNWFOaHNQVVZhemE0OVlyYUlvWXZvMGZ6VmpYNGpHWElNMDhJNlN5cS15WUY0WldtNGp0RlVYSkVMYWdfMmNybF93TkZwR0QtVlBRVVBxZDdsUW40Yks3Qml0RGJFdXEwZjR1QjBlQjhXMVdHYUYwMUlkWkQ4aXA4ODJNWkFRaFFmZFNrREJ6cWhoaw?oc=5)
+### [Le "Wegovy", médicament contre l'obésité, arrive en pharmacie : remboursement, effets secondaires... ce qu'il faut savoir sur le traitement vedette](https://news.google.com/rss/articles/CBMikgJBVV95cUxNRTVLMS04OV8yb3dxYXBCcW9KdlpRZVRaX2dCd0VNVVpsRTluV0U0Q0tjYUNLLWxMUWthUGx3WDVKLXc1bkM4UkZyYld5SjFQTl9YQXVHU0JUWTFSUzhoek1mamJyMDEybWRHYUZfaXFLLWo1eFlIelJXTkFCWnN0NGo1Z1ZOckpmUzFqaEZ6SW9idjhLT3B0dS1NR3NicXBVbk8tcVpFMDUyUlVRd1NvWGNfQjhBRFFtYVNDcGRldzAyaVJ5VTR5amplaWhGV0tEcXExbkRyQ0RhTDRlcElBX1ZrWmQ4X1Vid1N3clpMcjVZdHhZUWxyVWJYU3VPM2U3eGN1RUk4UkFsVU4yc1hRdEdB?oc=5)
 
-2026-10-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+2026-10-31 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
-Source: [Presse-citron](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV29JcEZQLU1udm5DaXJ1RzFIX3VhSWdodk5mcGU1TlFKdUJvOWE0RldDWTJRakZBWWM3ZXo4TE1TNWFOaHNQVVZhemE0OVlyYUlvWXZvMGZ6VmpYNGpHWElNMDhJNlN5cS15WUY0WldtNGp0RlVYSkVMYWdfMmNybF93TkZwR0QtVlBRVVBxZDdsUW40Yks3Qml0RGJFdXEwZjR1QjBlQjhXMVdHYUYwMUlkWkQ4aXA4ODJNWkFRaFFmZFNrREJ6cWhoaw?oc=5)
+Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMikgJBVV95cUxNRTVLMS04OV8yb3dxYXBCcW9KdlpRZVRaX2dCd0VNVVpsRTluV0U0Q0tjYUNLLWxMUWthUGx3WDVKLXc1bkM4UkZyYld5SjFQTl9YQXVHU0JUWTFSUzhoek1mamJyMDEybWRHYUZfaXFLLWo1eFlIelJXTkFCWnN0NGo1Z1ZOckpmUzFqaEZ6SW9idjhLT3B0dS1NR3NicXBVbk8tcVpFMDUyUlVRd1NvWGNfQjhBRFFtYVNDcGRldzAyaVJ5VTR5amplaWhGV0tEcXExbkRyQ0RhTDRlcElBX1ZrWmQ4X1Vid1N3clpMcjVZdHhZUWxyVWJYU3VPM2U3eGN1RUk4UkFsVU4yc1hRdEdB?oc=5)
 
 ---
 
