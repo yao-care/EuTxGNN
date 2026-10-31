@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "artritis (arthritis) News"
+title: "arthritis News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about artritis (arthritis). 4 articles, 73 related drugs."
+description: "Health news about arthritis. 3 articles, 73 related drugs."
 permalink: /news/arthritis/
 last_modified_at: 2026-10-31
 ---
 
-# artritis (arthritis) News
+# arthritis News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about artritis (arthritis)?">
-<strong>artritis (arthritis)</strong> currently has <strong>4 news articles</strong> and 73 related drugs.
+<p class="key-answer" data-question="What news is there about arthritis?">
+<strong>arthritis</strong> currently has <strong>3 news articles</strong> and 73 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “artritis” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “arthritis” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -79,15 +79,7 @@ This page brings together the latest health news about “artritis” and lists 
 </ul>
 </div>
 
-## Related News (4)
-
-### [Identifican una posible diana terapéutica para combatir la osteoartritis - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTktDUFlTcFpDeUwtQXo3ZXE2OTlzSUV5V0xsbXJWbVNGc3lsUXBMcEw3bGZFbEZ1enB5ZFdkNF9UQWRDUjNYLVNKSGZIZ01VV3RYS3UtZjROSERoZkpnM3ZkV0hHX0cwY3VUOTZZeWJjUTgtSUQxQUZNZXRmdk1LOElxOHpWalNTMUc1WVZsY3kyOFFqVGhfdV9vLTRJRkcySWtHSXVrMVg0ajdEWDZiV3hkNlpCTmFPd0JtQ25ZdFYtUdIBvAFBVV95cUxOZ1ZLMnlySjY1UUlIQ3BEcWdQZmlwYXBlMmdWVE5Jb0wxYXZENmlYeDliZWczSTJnR0M3VExlTTh1WUFzX2xFOFRBdTEyaXJLdG1LMHJRWXRUWU05ME50NmZTXzFuaGZFa1JwTzl0TDdKREk2U1k3ZmlVMnVqX0Q5ajY3R0RuUXgtT0pfQVhLUnRGTmtkMFhZT0NZa0UyMUwwYlMxaG1wX2piRk9haGVERG1GOVRjeDllM2Z0Yg?oc=5)
-
-2026-10-29
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTktDUFlTcFpDeUwtQXo3ZXE2OTlzSUV5V0xsbXJWbVNGc3lsUXBMcEw3bGZFbEZ1enB5ZFdkNF9UQWRDUjNYLVNKSGZIZ01VV3RYS3UtZjROSERoZkpnM3ZkV0hHX0cwY3VUOTZZeWJjUTgtSUQxQUZNZXRmdk1LOElxOHpWalNTMUc1WVZsY3kyOFFqVGhfdV9vLTRJRkcySWtHSXVrMVg0ajdEWDZiV3hkNlpCTmFPd0JtQ25ZdFYtUdIBvAFBVV95cUxOZ1ZLMnlySjY1UUlIQ3BEcWdQZmlwYXBlMmdWVE5Jb0wxYXZENmlYeDliZWczSTJnR0M3VExlTTh1WUFzX2xFOFRBdTEyaXJLdG1LMHJRWXRUWU05ME50NmZTXzFuaGZFa1JwTzl0TDdKREk2U1k3ZmlVMnVqX0Q5ajY3R0RuUXgtT0pfQVhLUnRGTmtkMFhZT0NZa0UyMUwwYlMxaG1wX2piRk9haGVERG1GOVRjeDllM2Z0Yg?oc=5)
-
----
+## Related News (3)
 
 ### [Psoriasisarthritis und Adipositas zusammen behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHY0UHNSUTM3VUlLWG5TX1VRekZSc09mUmktOGJxaGRuU3pibFhtbms5TEpoWFpnSG9xWlQ3YXgxbnJXc0x4NUxOZEI1YzhHQW9QQklLbzRhcWU2TlhRbHIzYWxCMlRubVdrOXJSN3k3RmxaZzY0Z2RIWUZpY2R0WEdEdmsxSzNNWGtSZXZmYlIxRHJTbXdKcmozd1V5cmJWV1gwajd3?oc=5)
 

@@ -43,6 +43,22 @@ This page combines the AI-predicted indications for Loxapine with the latest hea
 
 ## Related News (42)
 
+### [Stimmstörungen als KI-Signal: Studie verknüpft Stimme, Hörverlust und Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkpVb0hnMVlDdktNUU5PWHllS1ExRUNGZVR2WWRVZVlwQm16SG44UjhwYnVxYW5ibDI0aFVmY19ZaDM0SllsVE5BOUJuX0k2VFd1akhaMjVoRTlWVnpreHRCQTlOZW9pMDhpc29tRDZ4aU5hSVVTTFlRM1hIR3UzdkZaRE94cmxZam5adWxIUHdSejFDc3lFNGQ3MlN2dFhNRWhwV3ZvX0U3WWhINWdjS2pmSkIxUQ?oc=5)
+
+2026-10-31 <span class="news-indication-tag">MS</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkpVb0hnMVlDdktNUU5PWHllS1ExRUNGZVR2WWRVZVlwQm16SG44UjhwYnVxYW5ibDI0aFVmY19ZaDM0SllsVE5BOUJuX0k2VFd1akhaMjVoRTlWVnpreHRCQTlOZW9pMDhpc29tRDZ4aU5hSVVTTFlRM1hIR3UzdkZaRE94cmxZam5adWxIUHdSejFDc3lFNGQ3MlN2dFhNRWhwV3ZvX0U3WWhINWdjS2pmSkIxUQ?oc=5)
+
+---
+
+### [Kaffee, Darmflora und Stimmung: Studie sieht Effekte – aber nur vorläufig - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0dqcWdNdWJHdFJMckd2VmluRWhDYTBmNUlpOHhhcEt2OE8za3M0RjRWOG1Yd1RHNUlDLTR6MlczcjNvdTMzdllzeDJCeFk5RFF6WUppQno2SG9PYUVZZjQzdG5ISzRwQmJHbVFkektKNk9qTzJxYUhEWGxIRWZCZWY1ZGlBbktkNEc5LUExQWdJZDRvMUcxZldpbEh6dk9vcEdrUA?oc=5)
+
+2026-10-31 <span class="news-indication-tag">AF</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0dqcWdNdWJHdFJMckd2VmluRWhDYTBmNUlpOHhhcEt2OE8za3M0RjRWOG1Yd1RHNUlDLTR6MlczcjNvdTMzdllzeDJCeFk5RFF6WUppQno2SG9PYUVZZjQzdG5ISzRwQmJHbVFkektKNk9qTzJxYUhEWGxIRWZCZWY1ZGlBbktkNEc5LUExQWdJZDRvMUcxZldpbEh6dk9vcEdrUA?oc=5)
+
+---
+
 ### [More than 5,000 die from Ebola in DR Congo's deadliest outbreak](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZeW1wVkxmVGNuYUZtRURyYmhWWXRGbnpjMDAxTmpva2YtTWhYRGZ1UzUyUE5weTRkU2h5U3RtT3FRNDFwbVpxMEZBa3RzOTJIbm01Wnp5ZG5LYW5kUWc?oc=5)
 
 2026-10-31 <span class="news-indication-tag">AF</span>
@@ -59,11 +75,11 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZV
 
 ---
 
-### [Apple Watch: Studie findet 21 Fälle von Vorhofflimmern bei 219 Trägern](https://news.google.com/rss/articles/CBMivAFBVV95cUxNek55eW9yeVNjOU5LZEd6Sm1RWFdyYnI4eWJtSE45NHk4eTNGclYxTHRpQ1Z2SGcyQWtVOGJ0MkRKb0dmUjh1dE9lbldsd2V3TnZYckxOTWktb0pmSGE3ZGdVNHN0R1M4X0R2aDZ3N0xlZC1KOGtaOEUwOTVzN2syRXh6REJ6MWxzTTBOZHpnVHFBRjY3U0VjMG83cmNPaExMYTExNUdDNHhpX3A4WWxDekFaMlNnQUJOS3J1RA?oc=5)
+### [My girl, 25, died after docs said don't worry about flu - it was hideous disease - The Sun](https://news.google.com/rss/articles/CBMifEFVX3lxTFBRXzE2X3dIYVljdmxseHIzSTU2d2VOWDhZY1lidlpieGZhMmFfVWR2QU9jald0TjF4LUNvRWQtMXRfSXhUd05Dd1E5eXVRenNmZjNIZ2dEeWNTZWVObWxCWDFnWmlrMmdCNzIyQUcwazhiQWRtSlBFMVZfNnQ?oc=5)
 
-2026-10-31 <span class="news-indication-tag">Vorhofflimmern</span>
+2026-10-31 <span class="news-indication-tag">AF</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNek55eW9yeVNjOU5LZEd6Sm1RWFdyYnI4eWJtSE45NHk4eTNGclYxTHRpQ1Z2SGcyQWtVOGJ0MkRKb0dmUjh1dE9lbldsd2V3TnZYckxOTWktb0pmSGE3ZGdVNHN0R1M4X0R2aDZ3N0xlZC1KOGtaOEUwOTVzN2syRXh6REJ6MWxzTTBOZHpnVHFBRjY3U0VjMG83cmNPaExMYTExNUdDNHhpX3A4WWxDekFaMlNnQUJOS3J1RA?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMifEFVX3lxTFBRXzE2X3dIYVljdmxseHIzSTU2d2VOWDhZY1lidlpieGZhMmFfVWR2QU9jald0TjF4LUNvRWQtMXRfSXhUd05Dd1E5eXVRenNmZjNIZ2dEeWNTZWVObWxCWDFnWmlrMmdCNzIyQUcwazhiQWRtSlBFMVZfNnQ?oc=5)
 
 ---
 
@@ -179,14 +195,6 @@ Source: [Wales Online](https://news.google.com/rss/articles/CBMimwFBVV95cUxNYTFJ
 
 ---
 
-### [Deadly dog virus confirmed in town after healthy six-year-old pet dies - Northwich Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVNQTFk3eDhTTk00X20tczBoaGF3LS0wY2NjNm5IT0F6b08wQTJmQlJJTEgzLUl4b1h0SHR4bHY0YXNuMmx3WjNPQm9iek9zbXc3Y2J6eEJ5b0JrM19taEVoSzhCR2ZhNTE0UjhRRlk5MHg1M0stWGh5TDdYRmZLdWVQVE9PY190RWVza0pfbG1KcTFOcFpNUm9GVmM0WHNS?oc=5)
-
-2026-10-30 <span class="news-indication-tag">AF</span>
-
-Source: [Northwich Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVNQTFk3eDhTTk00X20tczBoaGF3LS0wY2NjNm5IT0F6b08wQTJmQlJJTEgzLUl4b1h0SHR4bHY0YXNuMmx3WjNPQm9iek9zbXc3Y2J6eEJ5b0JrM19taEVoSzhCR2ZhNTE0UjhRRlk5MHg1M0stWGh5TDdYRmZLdWVQVE9PY190RWVza0pfbG1KcTFOcFpNUm9GVmM0WHNS?oc=5)
-
----
-
 ### ['No one should feel safe': 5 dead as Amish country measles horror explodes past 1,350 cases - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZGNUbHpQOG5WbVZtMHNTazF1YkRFQ2dtTzJDcjBIV0pvbjVpTXZQY3FFTUhSSnl5WUR2VUp0VlZveHdTd1ZtRDl3ZXdfeUlPRlVFTUlVX1BXVndGcWtjVDRiSVdNMlFiQm1aMWVNeDVVQWc0MjFGNC1YRWRnZGdKZGdQSnpJMUhjOGZ2MnA2WnNSTEtkVGxkZU1hNndSWTNGMHJ1TzdTWURxRVE?oc=5)
 
 2026-10-30 <span class="news-indication-tag">AF</span>
@@ -235,14 +243,6 @@ Source: [Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxPc
 
 ---
 
-### [Vitamine in der Schwangerschaft: Welche braucht der Körper? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiugFBVV95cUxPazN6RWJiZEZCRnNRQ2c5RUE2N2dOei1MMzNXaXFqRUNuc2YxdjRWSE5vU1laaWNiellfcDVHRzh6NU9xWkVCOTdxeF9qUmN0Y1Ezd2hYX2cxWjRMN3dWeVlMaG9qSjdqcXNrRmRwSlZ2NmJoVkFpdXlGSzdSZ2JyUDY0LUp1NFdIZ3o4R19FZXRHWmYycG9EWFBpTDRmeXdZZFBWZ2w4VGIxNjVMUnh0SjRNUWI3cW1oOGc?oc=5)
-
-2026-10-30 <span class="news-indication-tag">AF</span>
-
-Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiugFBVV95cUxPazN6RWJiZEZCRnNRQ2c5RUE2N2dOei1MMzNXaXFqRUNuc2YxdjRWSE5vU1laaWNiellfcDVHRzh6NU9xWkVCOTdxeF9qUmN0Y1Ezd2hYX2cxWjRMN3dWeVlMaG9qSjdqcXNrRmRwSlZ2NmJoVkFpdXlGSzdSZ2JyUDY0LUp1NFdIZ3o4R19FZXRHWmYycG9EWFBpTDRmeXdZZFBWZ2w4VGIxNjVMUnh0SjRNUWI3cW1oOGc?oc=5)
-
----
-
 ### [Study unravels healing powers of cold temperatures and say they could even help us live longer - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlFfejQyRkFhVGVmTXJpMFpqeTlJV09HX2xmYllpWk9YYWJFQm1reUFhR01YRGVTOWgwUm5NV29nOGt5bTdvYXlyY2o5OVZfV2pscHJid3pDbF9EUGxLMjB5bWU2d0xQbTIwazJtRnBEaTctSU9xODdhcEM3VXFlaW82emxjZHNfRmZwa1pabUFzWXNzZ3d0UEh5VlhmbjQ?oc=5)
 
 2026-10-30 <span class="news-indication-tag">MS</span>
@@ -267,14 +267,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZy
 
 ---
 
-### [More greens, higher testosterone? What a Finnish study found](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnJlYk11ekVTZ29IeE5Qb2ZjWFJYZ0VBaGJmVHNGOGRuTlNOOVFpaktQanNjUXIzUmcydFd3VFVNcHV0UGdNOGlKQjBLWjBnLUh1UTMwM2toQTNtS05uZVUtMTBFel9OYTY0N2NCWlBvdVhhWGRRa0thYkY0VGdlUUF4NkJzaGJnOVBMSzJYd0VUTXZkWHA0S0tn?oc=5)
-
-2026-10-30 <span class="news-indication-tag">MS</span>
-
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnJlYk11ekVTZ29IeE5Qb2ZjWFJYZ0VBaGJmVHNGOGRuTlNOOVFpaktQanNjUXIzUmcydFd3VFVNcHV0UGdNOGlKQjBLWjBnLUh1UTMwM2toQTNtS05uZVUtMTBFel9OYTY0N2NCWlBvdVhhWGRRa0thYkY0VGdlUUF4NkJzaGJnOVBMSzJYd0VUTXZkWHA0S0tn?oc=5)
-
----
-
 ### [Il caffè cambia anche l’intestino: e il decaffeinato ha un ruolo che va oltre la caffeina](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd3VQbld5Y1ZXQ0M4eVN3NXdnZnB2eVdHTlFPbUYwYWRwRjlNajlDNng1YnJSdS1DLS0wbG9RbjFmbEJTQ25WWVBnV3kwcXVST254VHB1UlNNWERkWmdTNERrMW1sQ3RLREZoZFBPaTEzWWpiZC02TW9selV6X3VWbDJkOWR4RGJYeUdLemd1UkxsbXRGNjBGVWFURVA3SFZVWGs0UDdpLVA0Y1hRNGtpSkJQcERGUUdjR1NsR04yU2kzRno2OGhvNGFkX2N0eElaM0ZlNw?oc=5)
 
 2026-10-29 <span class="news-indication-tag">AF</span>
@@ -291,11 +283,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGN6R0R1
 
 ---
 
-### [Dengue comes back even in vaccinated people — new clues](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMNWFzZTJBV2xnY184VmdJbl9DclhOeWcxWDhiTEpVa1B2NFl4azVsU3hHRUNlQnZWMjd3MkQwc3dodTFrdzR3Y2l0djNvNUdFaE9reDlNZmFlemN4OGxR?oc=5)
+### [„Zombiezellen”: Warum Krebs nach der Chemotherapie oft wiederkommt - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1JWV2ROdDJfUXAxNUNsYUxtRHlJcjIwRThkblB6dDJtT1NvdUJFNEdzSlFsRDBnZlpyeGc5SFh0VzZnXzZIcW9uYVYxV3h1NEllY3JHQ2dGWWlHTzFoUE1Edld4WW5qMmFKVVVJWFdkak52Z2pCM0wycWlCTWlpSzFrXzdCV0xPWG1nNWs4dTlQNk43T3hYbFFUZw?oc=5)
 
-2026-10-29 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">AF</span>
+2026-10-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMNWFzZTJBV2xnY184VmdJbl9DclhOeWcxWDhiTEpVa1B2NFl4azVsU3hHRUNlQnZWMjd3MkQwc3dodTFrdzR3Y2l0djNvNUdFaE9reDlNZmFlemN4OGxR?oc=5)
+Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1JWV2ROdDJfUXAxNUNsYUxtRHlJcjIwRThkblB6dDJtT1NvdUJFNEdzSlFsRDBnZlpyeGc5SFh0VzZnXzZIcW9uYVYxV3h1NEllY3JHQ2dGWWlHTzFoUE1Edld4WW5qMmFKVVVJWFdkak52Z2pCM0wycWlCTWlpSzFrXzdCV0xPWG1nNWs4dTlQNk43T3hYbFFUZw?oc=5)
 
 ---
 
@@ -312,6 +304,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QMFkwaVp5Z3
 2026-10-28 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1dEeTN5QnAtTzVjbFpycWpIQXlMQzNQaFM0SHdTM0N3TEtkR25nTU9IR3ZaSWlFNkVjbVlrZzI5VEFkeTZSR29fZzJ5RjZwZTl4ZUwzc0ZQMFNodWFRN0loVXpCVVFqa09PMUI3enJIWXAxTEdqNzBsUUZnSC16b09DZw?oc=5)
+
+---
+
+### [Hilft mir meine Smartwatch dabei, Herzprobleme zu erkennen? - Traunsteiner Tagblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWVRCUlNJQTMyRFh1QW0tU0x6aml4T09WRTlOQ1ZvVjF6NUZNMHpVdGpxQmc3STZ6UVRVSFF1Z0VQR0ZjaGhkVnE0V1pMVXBZaGZqMzROVHpiaFFVRXNRbmROODVSTjkwakNJT0c2cld1UmdCcENHRjR5RGpTa3ZSbWpjRHhfaU9SX0RpcDZXMFdzekNHZG9kN1FMSzFmU2tNRmhXcEttU294aWZGUEw0MjNkOGQ5VWVKSXdhX2Q0YUc2U2F5Vll1SDU3Tmd2QQ?oc=5)
+
+2026-10-28 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Traunsteiner Tagblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWVRCUlNJQTMyRFh1QW0tU0x6aml4T09WRTlOQ1ZvVjF6NUZNMHpVdGpxQmc3STZ6UVRVSFF1Z0VQR0ZjaGhkVnE0V1pMVXBZaGZqMzROVHpiaFFVRXNRbmROODVSTjkwakNJT0c2cld1UmdCcENHRjR5RGpTa3ZSbWpjRHhfaU9SX0RpcDZXMFdzekNHZG9kN1FMSzFmU2tNRmhXcEttU294aWZGUEw0MjNkOGQ5VWVKSXdhX2Q0YUc2U2F5Vll1SDU3Tmd2QQ?oc=5)
 
 ---
 

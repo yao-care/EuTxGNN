@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Pegfilgrastim?">
-<strong>Pegfilgrastim</strong> currently has <strong>14 news articles</strong>, with 2 predicted indications.
+<strong>Pegfilgrastim</strong> currently has <strong>13 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,23 @@ This page combines the AI-predicted indications for Pegfilgrastim with the lates
 <p><a href="{{ '/drugs/pegfilgrastim/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (13)
+
+### [Blutfette nach Erdnussverzehr mit geringerem Diabetesrisiko verbunden](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdXBCdS1Yd2VwcW94R2J3TFAtcW1ZS3ltRUs3bnBESTd0QVBUVEwybzg4dWoySkdJSnBoOFRlTjdMbXdyMHQ0REM5d21QTUlXcFRubC1HOHJ0TXhKWnJERC1WbEN0TkFfYjZGRjJtMm92WnRfVEhsZ1lhNzFpTFVDVElINGxyS2RldW9leGNCM2NrQlREaDZVRlFIeWRSSkNIcEJ2R2ZoTWxXUQ?oc=5)
+
+2026-10-31 <span class="news-indication-tag">diabetes</span>
+
+Source: [Scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdXBCdS1Yd2VwcW94R2J3TFAtcW1ZS3ltRUs3bnBESTd0QVBUVEwybzg4dWoySkdJSnBoOFRlTjdMbXdyMHQ0REM5d21QTUlXcFRubC1HOHJ0TXhKWnJERC1WbEN0TkFfYjZGRjJtMm92WnRfVEhsZ1lhNzFpTFVDVElINGxyS2RldW9leGNCM2NrQlREaDZVRlFIeWRSSkNIcEJ2R2ZoTWxXUQ?oc=5)
+
+---
+
+### [Fettleber: Jeder vierte Erwachsene in Deutschland ist betroffen](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNBMTRGYUJ3SHd2eG9Rb3RJUzU0NkFpNXpmTW9YMnhRaXk5ZFJkZUhMTGRnZXZUa3ZTOEFGaC1nVThROFlFSFRqQmRrOHFSX2s1bkM2Ykp6Ti1tQnVHdEFuVk1XNFhvTm9wQi1nMXVzQW8ydWxGeksyd3hnRG1BOW5kNTF2d3VTaVhCZzFDem5zMUc2RHd0TF9FMjNqTlo3cVdtMmhEY1ZjOGo4eWl4LQ?oc=5)
+
+2026-10-31 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNBMTRGYUJ3SHd2eG9Rb3RJUzU0NkFpNXpmTW9YMnhRaXk5ZFJkZUhMTGRnZXZUa3ZTOEFGaC1nVThROFlFSFRqQmRrOHFSX2s1bkM2Ykp6Ti1tQnVHdEFuVk1XNFhvTm9wQi1nMXVzQW8ydWxGeksyd3hnRG1BOW5kNTF2d3VTaVhCZzFDem5zMUc2RHd0TF9FMjNqTlo3cVdtMmhEY1ZjOGo4eWl4LQ?oc=5)
+
+---
 
 ### [Prädiabetes: Intensive Lebensstiländerung senkt bei Hochrisiko Leberfett](https://news.google.com/rss/articles/CBMivwFBVV95cUxONURySllHVDFqeDdUQm1heDloRnZjaFBfbFhiUlFBWmoySVlZR3pPOExuM043MnJQS09URWVCOVVqRzBybW5WUkRXeWRVNzliT1p0N3JRRkd1dTA4c05CZGR0RHgxRk5OU0FrX2dEM0JyWUJoTWZBdU1TUm9JTHZ1dGd3Nzl5UmpvbWJlMkpOcEduLWQ5V1lSUjIwY3ZCVmFPdHhtNVdJb1cwS2IxSnNLTXo3Z0VkRi1FOWJUcW1yMA?oc=5)
 
@@ -52,35 +68,11 @@ Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMirwFBVV95cUxNM
 
 ---
 
-### [Mit Strom: Schweizer Forscher filtern überschüssigen Zucker aus Blut](https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1p2a3FuY0gwN3pwU0ZVS3JPbV9xTzNJYjRlTFNaTFZ2ZDdqR1FpN2M3VlZETHNwdTZnWG5mRm1hSHZxRDI3aEF6U093cE1uVmkxVVI0UjdxVG1Pd3p2WEJUbDZHbkVEaVFOaEJOOUFpSFFvcjR1MThISVdUM2RaY004RVNqenhyMUdYU2tQRmhEZC1ZY3VxUHU2djRRTkVKWi1nVFZYcERzOC1hRklOYmRmVU5tQQ?oc=5)
+### [ECHO-Implantat: ETH Zürich reguliert Blutzucker bei Mäusen elektrisch](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ29KUExjY1BYQ2h3N25hUEpTMWdmakVURFBMLWZEemlLVmRVWEhiVk10ZkcyNjlFUGNlYXBPLVhGWE8zX0lLalJGNnhRenVmSWF3ai0ybWF5RkJyaktMN1FXNWhCemJDa3B2a0ZyOFo5NWlLUFNEcjRuemRGTW03MFBkU3ZaMWtfUmI4U2hIUWxsR1ZnVm40YUNFUEVlSTJDMkdUamltT0czMzZHV0RiWk9CSEhsOUY1d2gw?oc=5)
 
 2026-10-30 <span class="news-indication-tag">diabetes</span>
 
-Source: [TARA24](https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1p2a3FuY0gwN3pwU0ZVS3JPbV9xTzNJYjRlTFNaTFZ2ZDdqR1FpN2M3VlZETHNwdTZnWG5mRm1hSHZxRDI3aEF6U093cE1uVmkxVVI0UjdxVG1Pd3p2WEJUbDZHbkVEaVFOaEJOOUFpSFFvcjR1MThISVdUM2RaY004RVNqenhyMUdYU2tQRmhEZC1ZY3VxUHU2djRRTkVKWi1nVFZYcERzOC1hRklOYmRmVU5tQQ?oc=5)
-
----
-
-### [Pflanzenextrakte bei Prädiabetes: Große Studie zeigt Blutzuckersenkung](https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDY2eTdvSDdvcThoellROXpwVEFXRzdQNzAzcFJmd1hEaS1UNGpjaDEzV0NsWGtoY3E1VHg2bzhWMHkxZE5TLUJ6X3NvaExMd3RyUnJySklGYmVyb05Fcm52aGloVnhzODN2ZkNwUEJ1dG8tMkNoaGFRRmNhdVBhaGdfMlZLSVJfaHNoeVdIX2NXMUlfbjJQazR2RU1vSGlZN0JkRGZsc1RJdUM3b0M3OEhDSUVtUWtxZHVIS210SEhKNTJDVnlr?oc=5)
-
-2026-10-30 <span class="news-indication-tag">diabetes</span>
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDY2eTdvSDdvcThoellROXpwVEFXRzdQNzAzcFJmd1hEaS1UNGpjaDEzV0NsWGtoY3E1VHg2bzhWMHkxZE5TLUJ6X3NvaExMd3RyUnJySklGYmVyb05Fcm52aGloVnhzODN2ZkNwUEJ1dG8tMkNoaGFRRmNhdVBhaGdfMlZLSVJfaHNoeVdIX2NXMUlfbjJQazR2RU1vSGlZN0JkRGZsc1RJdUM3b0M3OEhDSUVtUWtxZHVIS210SEhKNTJDVnlr?oc=5)
-
----
-
-### [Das Diabetes- und Fußzentrum Kösching ist auf schwierige Fälle spezialisiert](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRDRFcGM4WmJaOU1mOEZ4eVlicVQxcHJ0ODRvMmZ2V01seEpzeHpadHRsVFNiYnNDc2o3SG4tX2E5ZDI1dHFkNHZpaE5NWUh6S1R6Ym9mT1Y5UTF1UmZ4Tnd2ekhaT2JCNnFraW10ZVlMRG5NNVI5ZTNrRDZQNXVYOEdYbE9zdHdzWkhTNjVaU0NWdGVoRXBfUVFjcEFyckllR3lubGdOODJ5QlFKaXZKeUJNbjJIUjZxWEdxb0x6aWJUNEtTa1hiRUNsSU9JYzJJUjBBcm1mQmI1Qnc?oc=5)
-
-2026-10-30 <span class="news-indication-tag">diabetes</span>
-
-Source: [Donaukurier](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRDRFcGM4WmJaOU1mOEZ4eVlicVQxcHJ0ODRvMmZ2V01seEpzeHpadHRsVFNiYnNDc2o3SG4tX2E5ZDI1dHFkNHZpaE5NWUh6S1R6Ym9mT1Y5UTF1UmZ4Tnd2ekhaT2JCNnFraW10ZVlMRG5NNVI5ZTNrRDZQNXVYOEdYbE9zdHdzWkhTNjVaU0NWdGVoRXBfUVFjcEFyckllR3lubGdOODJ5QlFKaXZKeUJNbjJIUjZxWEdxb0x6aWJUNEtTa1hiRUNsSU9JYzJJUjBBcm1mQmI1Qnc?oc=5)
-
----
-
-### [Fettleber bei Diabetes: MASLD betrifft bis zu 70 Prozent der Patienten](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXhhMno0MEpJUEp5Tm5RQUNkSE9KY2RkblJaRTlPRWFMaGg2WnFjS0kyb1BEVmYxVDhOVV91TTI1OEpXajhuSi02VW54SEVremZKbDh4QUlkcElOU1djdVdrWkVDMVhLNXU3NE84cWRQNGdvQjZkRWpDcHgtbGh5Y0UxZll0aDJZU1ZoVkszZlRfTWtBaTNGZ1duRzFBZ2t1MzhRVV9IRWIyMlVRWW1KMmpuQnZWWEhKV2c?oc=5)
-
-2026-10-30 <span class="news-indication-tag">diabetes</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXhhMno0MEpJUEp5Tm5RQUNkSE9KY2RkblJaRTlPRWFMaGg2WnFjS0kyb1BEVmYxVDhOVV91TTI1OEpXajhuSi02VW54SEVremZKbDh4QUlkcElOU1djdVdrWkVDMVhLNXU3NE84cWRQNGdvQjZkRWpDcHgtbGh5Y0UxZll0aDJZU1ZoVkszZlRfTWtBaTNGZ1duRzFBZ2t1MzhRVV9IRWIyMlVRWW1KMmpuQnZWWEhKV2c?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ29KUExjY1BYQ2h3N25hUEpTMWdmakVURFBMLWZEemlLVmRVWEhiVk10ZkcyNjlFUGNlYXBPLVhGWE8zX0lLalJGNnhRenVmSWF3ai0ybWF5RkJyaktMN1FXNWhCemJDa3B2a0ZyOFo5NWlLUFNEcjRuemRGTW03MFBkU3ZaMWtfUmI4U2hIUWxsR1ZnVm40YUNFUEVlSTJDMkdUamltT0czMzZHV0RiWk9CSEhsOUY1d2gw?oc=5)
 
 ---
 
@@ -97,14 +89,6 @@ Source: [Merkur](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTE1NOXFOek
 2026-10-29 <span class="news-indication-tag">diabetes</span>
 
 Source: [Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQUdNUUIxc3BWaWxtc3BHSGRtSHVyZXFLTk1xcDNpaDhqVWVhU3dOY3NuNVF6akdVWlJfeGFwakE5ZEtnMmlZbVU0VnIwYWxPeFM2QVV2WFZLMWlhVUoxVlE5VWN2aXFkYXByZzl4ODRfQkRacmt4N0ZkbUQ1VTgwYTVrdmJuTVpENnZUNWFRUDhIVVZBa3dTQVhXa2lQQlp5cExOemowR04?oc=5)
-
----
-
-### [Sistemas de asa cerrada completa: la paradoja de “desaprender” para simplificar el manejo de la diabetes tipo 1](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSzFUNnN3NVFZM2ltdWhvcDRUY3dfODV2NUJsVjJ2eXFPZHYzSTJFR3N3aExHYXBUTi1MLWlxcEJxQ3RNeGJnZUduaTUzeUNjSllCSlY4WW9HRndOYmNzTHE4WnNUckloc05WNUlFNUQwVl9BOU5TWW03ZmRidWEyTGxzQkE5UVQ1bWtkaE5OV1N3NUQwbnRNSjRzVlNqWjZoVXE2bU9ZYjB4a19VTFJWR2pmRTYxczQ4dFB2bHo4NlYwUFEydEotTDZ0eVBvN19PTnE0?oc=5)
-
-2026-10-29 <span class="news-indication-tag">diabetes</span>
-
-Source: [iSanidad](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSzFUNnN3NVFZM2ltdWhvcDRUY3dfODV2NUJsVjJ2eXFPZHYzSTJFR3N3aExHYXBUTi1MLWlxcEJxQ3RNeGJnZUduaTUzeUNjSllCSlY4WW9HRndOYmNzTHE4WnNUckloc05WNUlFNUQwVl9BOU5TWW03ZmRidWEyTGxzQkE5UVQ1bWtkaE5OV1N3NUQwbnRNSjRzVlNqWjZoVXE2bU9ZYjB4a19VTFJWR2pmRTYxczQ4dFB2bHo4NlYwUFEydEotTDZ0eVBvN19PTnE0?oc=5)
 
 ---
 
@@ -145,6 +129,14 @@ Source: [medonline](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnhSNXl
 2026-10-27 <span class="news-indication-tag">diabetes</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxOcTlCa3MtcmhUWWdkbkxYWVRzMEprRE50VDBPLW5QcWs4QTFGV0RKbzZQdS0zUFJ3NzBqMFJjTjNmeERsc255OGVLRXJZVllYWWtLMHZraUxfU3hIOFFKaG8zamRDQWd5OHR5NFdLV2pHQUNIaTBTX1VfTFdrdzRjeVlyM3Awam94V0JyYTZ1YXlVNVVqR1E?oc=5)
+
+---
+
+### [Un aceite de oliva para mejorar el funcionamiento del riñón en personas con diabetes tipo 2 - The Conversation](https://news.google.com/rss/articles/CBMixAFBVV95cUxORTZ2a2MycmJPbTNseG40enJyZzVfREdFWVBwSHZsdGVWYVVQdkpvVEx3WHIxbVJIM0dtcUg3NEVsZ1JfZ0tSWm44dXotcHVVWjBLRzBZOE1mZFJVRDU0OHJLZjgtZDlNcFRMbldPTFZKd2x1bFQ2SGxQc0h1YmpBMUI3cjk2RjFTYkJ4U3ZXUUE3bVc3eXo5bERkVWVxWGE2eVRtSjVrc3lqcUwxcVFtMUlpbXd1YU1GYWtjTzU2amtfM21Z?oc=5)
+
+2026-10-26 <span class="news-indication-tag">diabetes</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMixAFBVV95cUxORTZ2a2MycmJPbTNseG40enJyZzVfREdFWVBwSHZsdGVWYVVQdkpvVEx3WHIxbVJIM0dtcUg3NEVsZ1JfZ0tSWm44dXotcHVVWjBLRzBZOE1mZFJVRDU0OHJLZjgtZDlNcFRMbldPTFZKd2x1bFQ2SGxQc0h1YmpBMUI3cjk2RjFTYkJ4U3ZXUUE3bVc3eXo5bERkVWVxWGE2eVRtSjVrc3lqcUwxcVFtMUlpbXd1YU1GYWtjTzU2amtfM21Z?oc=5)
 
 ---
 

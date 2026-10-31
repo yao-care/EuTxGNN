@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Granisetron?">
-<strong>Granisetron</strong> currently has <strong>32 news articles</strong>, with 10 predicted indications.
+<strong>Granisetron</strong> currently has <strong>31 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Granisetron with the latest 
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (32)
+## Related News (31)
+
+### [Kaffee, Darmflora und Stimmung: Studie sieht Effekte – aber nur vorläufig - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0dqcWdNdWJHdFJMckd2VmluRWhDYTBmNUlpOHhhcEt2OE8za3M0RjRWOG1Yd1RHNUlDLTR6MlczcjNvdTMzdllzeDJCeFk5RFF6WUppQno2SG9PYUVZZjQzdG5ISzRwQmJHbVFkektKNk9qTzJxYUhEWGxIRWZCZWY1ZGlBbktkNEc5LUExQWdJZDRvMUcxZldpbEh6dk9vcEdrUA?oc=5)
+
+2026-10-31 <span class="news-indication-tag">AF</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0dqcWdNdWJHdFJMckd2VmluRWhDYTBmNUlpOHhhcEt2OE8za3M0RjRWOG1Yd1RHNUlDLTR6MlczcjNvdTMzdllzeDJCeFk5RFF6WUppQno2SG9PYUVZZjQzdG5ISzRwQmJHbVFkektKNk9qTzJxYUhEWGxIRWZCZWY1ZGlBbktkNEc5LUExQWdJZDRvMUcxZldpbEh6dk9vcEdrUA?oc=5)
+
+---
 
 ### [More than 5,000 die from Ebola in DR Congo's deadliest outbreak](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZeW1wVkxmVGNuYUZtRURyYmhWWXRGbnpjMDAxTmpva2YtTWhYRGZ1UzUyUE5weTRkU2h5U3RtT3FRNDFwbVpxMEZBa3RzOTJIbm01Wnp5ZG5LYW5kUWc?oc=5)
 
@@ -60,11 +68,11 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZV
 
 ---
 
-### [Apple Watch: Studie findet 21 Fälle von Vorhofflimmern bei 219 Trägern](https://news.google.com/rss/articles/CBMivAFBVV95cUxNek55eW9yeVNjOU5LZEd6Sm1RWFdyYnI4eWJtSE45NHk4eTNGclYxTHRpQ1Z2SGcyQWtVOGJ0MkRKb0dmUjh1dE9lbldsd2V3TnZYckxOTWktb0pmSGE3ZGdVNHN0R1M4X0R2aDZ3N0xlZC1KOGtaOEUwOTVzN2syRXh6REJ6MWxzTTBOZHpnVHFBRjY3U0VjMG83cmNPaExMYTExNUdDNHhpX3A4WWxDekFaMlNnQUJOS3J1RA?oc=5)
+### [My girl, 25, died after docs said don't worry about flu - it was hideous disease - The Sun](https://news.google.com/rss/articles/CBMifEFVX3lxTFBRXzE2X3dIYVljdmxseHIzSTU2d2VOWDhZY1lidlpieGZhMmFfVWR2QU9jald0TjF4LUNvRWQtMXRfSXhUd05Dd1E5eXVRenNmZjNIZ2dEeWNTZWVObWxCWDFnWmlrMmdCNzIyQUcwazhiQWRtSlBFMVZfNnQ?oc=5)
 
-2026-10-31 <span class="news-indication-tag">Vorhofflimmern</span>
+2026-10-31 <span class="news-indication-tag">AF</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNek55eW9yeVNjOU5LZEd6Sm1RWFdyYnI4eWJtSE45NHk4eTNGclYxTHRpQ1Z2SGcyQWtVOGJ0MkRKb0dmUjh1dE9lbldsd2V3TnZYckxOTWktb0pmSGE3ZGdVNHN0R1M4X0R2aDZ3N0xlZC1KOGtaOEUwOTVzN2syRXh6REJ6MWxzTTBOZHpnVHFBRjY3U0VjMG83cmNPaExMYTExNUdDNHhpX3A4WWxDekFaMlNnQUJOS3J1RA?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMifEFVX3lxTFBRXzE2X3dIYVljdmxseHIzSTU2d2VOWDhZY1lidlpieGZhMmFfVWR2QU9jald0TjF4LUNvRWQtMXRfSXhUd05Dd1E5eXVRenNmZjNIZ2dEeWNTZWVObWxCWDFnWmlrMmdCNzIyQUcwazhiQWRtSlBFMVZfNnQ?oc=5)
 
 ---
 
@@ -156,14 +164,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVW
 
 ---
 
-### [Deadly dog virus confirmed in town after healthy six-year-old pet dies - Northwich Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVNQTFk3eDhTTk00X20tczBoaGF3LS0wY2NjNm5IT0F6b08wQTJmQlJJTEgzLUl4b1h0SHR4bHY0YXNuMmx3WjNPQm9iek9zbXc3Y2J6eEJ5b0JrM19taEVoSzhCR2ZhNTE0UjhRRlk5MHg1M0stWGh5TDdYRmZLdWVQVE9PY190RWVza0pfbG1KcTFOcFpNUm9GVmM0WHNS?oc=5)
-
-2026-10-30 <span class="news-indication-tag">AF</span>
-
-Source: [Northwich Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVNQTFk3eDhTTk00X20tczBoaGF3LS0wY2NjNm5IT0F6b08wQTJmQlJJTEgzLUl4b1h0SHR4bHY0YXNuMmx3WjNPQm9iek9zbXc3Y2J6eEJ5b0JrM19taEVoSzhCR2ZhNTE0UjhRRlk5MHg1M0stWGh5TDdYRmZLdWVQVE9PY190RWVza0pfbG1KcTFOcFpNUm9GVmM0WHNS?oc=5)
-
----
-
 ### ['No one should feel safe': 5 dead as Amish country measles horror explodes past 1,350 cases - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZGNUbHpQOG5WbVZtMHNTazF1YkRFQ2dtTzJDcjBIV0pvbjVpTXZQY3FFTUhSSnl5WUR2VUp0VlZveHdTd1ZtRDl3ZXdfeUlPRlVFTUlVX1BXVndGcWtjVDRiSVdNMlFiQm1aMWVNeDVVQWc0MjFGNC1YRWRnZGdKZGdQSnpJMUhjOGZ2MnA2WnNSTEtkVGxkZU1hNndSWTNGMHJ1TzdTWURxRVE?oc=5)
 
 2026-10-30 <span class="news-indication-tag">AF</span>
@@ -188,27 +188,11 @@ Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/C
 
 ---
 
-### [Ceux qui parlent souvent aux caissiers ou aux serveurs possèdent cette caractéristique](https://news.google.com/rss/articles/CBMifEFVX3lxTE1wOWwwRW5QTW1KRkFXTURBaFJCUll2YVRRODhGZU91NVE3c053SW5hdkZpamdnM1J1RlVuNVdRTzRRbFdWNWdYZDNYbXdhRjRSbFhUc0xxYW1ncDJ4bTA3cHVzLS1NOXF1LUx3OVNPMEpxeDE2cHNYek9QY1o?oc=5)
-
-2026-10-30 <span class="news-indication-tag">EPOC</span>
-
-Source: [Linternaute.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE1wOWwwRW5QTW1KRkFXTURBaFJCUll2YVRRODhGZU91NVE3c053SW5hdkZpamdnM1J1RlVuNVdRTzRRbFdWNWdYZDNYbXdhRjRSbFhUc0xxYW1ncDJ4bTA3cHVzLS1NOXF1LUx3OVNPMEpxeDE2cHNYek9QY1o?oc=5)
-
----
-
 ### [The Treatment Window For Some Strokes May Be Far Longer Than We Thought, But There's a Catch](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3NLdUoyNkVQbWVlU3JvOV8xWVpPY05BTjZpMTluSVJnejVpYm5HRWxXMmtWM3BWSFZtLUlTUDdhaURlUXV5T0dxem1DcW1SS0VTUWxMUVBkOUlWTU1saEtKcklmb2YtV2NuNGhTYm8yclgwazRiTnlGQU9tV2FiaGJJaThYVmZLTkZfd2JoMGgzdUpqakxCN3N4VWRVR3EzMUt2a2VKaHhvazhuWnp4ZXVqVE56cWY0NWdZ?oc=5)
 
 2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3NLdUoyNkVQbWVlU3JvOV8xWVpPY05BTjZpMTluSVJnejVpYm5HRWxXMmtWM3BWSFZtLUlTUDdhaURlUXV5T0dxem1DcW1SS0VTUWxMUVBkOUlWTU1saEtKcklmb2YtV2NuNGhTYm8yclgwazRiTnlGQU9tV2FiaGJJaThYVmZLTkZfd2JoMGgzdUpqakxCN3N4VWRVR3EzMUt2a2VKaHhvazhuWnp4ZXVqVE56cWY0NWdZ?oc=5)
-
----
-
-### [Vitamine in der Schwangerschaft: Welche braucht der Körper? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiugFBVV95cUxPazN6RWJiZEZCRnNRQ2c5RUE2N2dOei1MMzNXaXFqRUNuc2YxdjRWSE5vU1laaWNiellfcDVHRzh6NU9xWkVCOTdxeF9qUmN0Y1Ezd2hYX2cxWjRMN3dWeVlMaG9qSjdqcXNrRmRwSlZ2NmJoVkFpdXlGSzdSZ2JyUDY0LUp1NFdIZ3o4R19FZXRHWmYycG9EWFBpTDRmeXdZZFBWZ2w4VGIxNjVMUnh0SjRNUWI3cW1oOGc?oc=5)
-
-2026-10-30 <span class="news-indication-tag">AF</span>
-
-Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiugFBVV95cUxPazN6RWJiZEZCRnNRQ2c5RUE2N2dOei1MMzNXaXFqRUNuc2YxdjRWSE5vU1laaWNiellfcDVHRzh6NU9xWkVCOTdxeF9qUmN0Y1Ezd2hYX2cxWjRMN3dWeVlMaG9qSjdqcXNrRmRwSlZ2NmJoVkFpdXlGSzdSZ2JyUDY0LUp1NFdIZ3o4R19FZXRHWmYycG9EWFBpTDRmeXdZZFBWZ2w4VGIxNjVMUnh0SjRNUWI3cW1oOGc?oc=5)
 
 ---
 
@@ -236,11 +220,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGN6R0R1
 
 ---
 
-### [Dengue comes back even in vaccinated people — new clues](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMNWFzZTJBV2xnY184VmdJbl9DclhOeWcxWDhiTEpVa1B2NFl4azVsU3hHRUNlQnZWMjd3MkQwc3dodTFrdzR3Y2l0djNvNUdFaE9reDlNZmFlemN4OGxR?oc=5)
+### [„Zombiezellen”: Warum Krebs nach der Chemotherapie oft wiederkommt - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1JWV2ROdDJfUXAxNUNsYUxtRHlJcjIwRThkblB6dDJtT1NvdUJFNEdzSlFsRDBnZlpyeGc5SFh0VzZnXzZIcW9uYVYxV3h1NEllY3JHQ2dGWWlHTzFoUE1Edld4WW5qMmFKVVVJWFdkak52Z2pCM0wycWlCTWlpSzFrXzdCV0xPWG1nNWs4dTlQNk43T3hYbFFUZw?oc=5)
 
-2026-10-29 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">AF</span>
+2026-10-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMNWFzZTJBV2xnY184VmdJbl9DclhOeWcxWDhiTEpVa1B2NFl4azVsU3hHRUNlQnZWMjd3MkQwc3dodTFrdzR3Y2l0djNvNUdFaE9reDlNZmFlemN4OGxR?oc=5)
+Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1JWV2ROdDJfUXAxNUNsYUxtRHlJcjIwRThkblB6dDJtT1NvdUJFNEdzSlFsRDBnZlpyeGc5SFh0VzZnXzZIcW9uYVYxV3h1NEllY3JHQ2dGWWlHTzFoUE1Edld4WW5qMmFKVVVJWFdkak52Z2pCM0wycWlCTWlpSzFrXzdCV0xPWG1nNWs4dTlQNk43T3hYbFFUZw?oc=5)
 
 ---
 
@@ -249,6 +233,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMNWFzZTJBV2
 2026-10-28 <span class="news-indication-tag">AF</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QMFkwaVp5Z3FmQkxmY29vUkM1a3ByOGFnQld5bkdzMTdJandsVy1PUEhWV0JhRHJpYU1udk1sdW1yWkZCaWFSaHl0ZHVDYnRPVXBTd2lvRFVJcG0wSUFR?oc=5)
+
+---
+
+### [Hilft mir meine Smartwatch dabei, Herzprobleme zu erkennen? - Traunsteiner Tagblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWVRCUlNJQTMyRFh1QW0tU0x6aml4T09WRTlOQ1ZvVjF6NUZNMHpVdGpxQmc3STZ6UVRVSFF1Z0VQR0ZjaGhkVnE0V1pMVXBZaGZqMzROVHpiaFFVRXNRbmROODVSTjkwakNJT0c2cld1UmdCcENHRjR5RGpTa3ZSbWpjRHhfaU9SX0RpcDZXMFdzekNHZG9kN1FMSzFmU2tNRmhXcEttU294aWZGUEw0MjNkOGQ5VWVKSXdhX2Q0YUc2U2F5Vll1SDU3Tmd2QQ?oc=5)
+
+2026-10-28 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Traunsteiner Tagblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWVRCUlNJQTMyRFh1QW0tU0x6aml4T09WRTlOQ1ZvVjF6NUZNMHpVdGpxQmc3STZ6UVRVSFF1Z0VQR0ZjaGhkVnE0V1pMVXBZaGZqMzROVHpiaFFVRXNRbmROODVSTjkwakNJT0c2cld1UmdCcENHRjR5RGpTa3ZSbWpjRHhfaU9SX0RpcDZXMFdzekNHZG9kN1FMSzFmU2tNRmhXcEttU294aWZGUEw0MjNkOGQ5VWVKSXdhX2Q0YUc2U2F5Vll1SDU3Tmd2QQ?oc=5)
 
 ---
 

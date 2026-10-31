@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Rituximab?">
-<strong>Rituximab</strong> currently has <strong>23 news articles</strong>, with 0 predicted indications.
+<strong>Rituximab</strong> currently has <strong>25 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Rituximab with the latest he
 <p><a href="{{ '/drugs/rituximab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (23)
+## Related News (25)
+
+### [Quarter of women still missing breast cancer screening](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLYWI4UFF3bi1LWWVLdlliREJTQkU3Ym5EaWw1dmJvN2VabGZ2a0tfSEI2eENNcUdpc1N4blpLRUI1YmFZTGtjTTJ3clpVUXlLclh0NXFuR2lFNkxBbEE?oc=5)
+
+2026-10-31 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLYWI4UFF3bi1LWWVLdlliREJTQkU3Ym5EaWw1dmJvN2VabGZ2a0tfSEI2eENNcUdpc1N4blpLRUI1YmFZTGtjTTJ3clpVUXlLclh0NXFuR2lFNkxBbEE?oc=5)
+
+---
 
 ### [Tumore alla prostata, a Livorno l'intervento in chirurgia robotica mininvasiva: i benefici per il paziente - Il Tirreno](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLW5VbE9yMmtGMzd2N0NXbnpBWERPajJMTDhVeHV3eUFVMC1UYnJqWS11YzlPQ3h5X3h6cmpNbkVvVXVMQUJRUVRyb1BQVWwxZWRLNEFOZEtCUUh6OVZGYmVrRlR5d3g1WlVRRjdOQzF5WGVJemZER0dlT1g1M1RSLU10VDFPSG9sdW9nWkdXOGdwOGVLMzJEVGdQaFRKc1FicTFnYU5ZeHhzV0JuVnMwcEthUzY2UXNYNlpVeXVlb29OM080dTBrN3VZRUNGLXpxcUNJSWZnSzZkMml2?oc=5)
 
@@ -45,6 +53,14 @@ Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLW5VbE
 2026-10-31 <span class="news-indication-tag">cancer</span>
 
 Source: [La Provence](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQc3AyRmpaekVtdkdURnNWU2tBU0pCVW1NTmVnNkZvMDRCblRrLV9NVWxNZXRmR0o1eWpGYWtRb2FCUVU1X2JWcjMxbWdkTXZtWF8yT1g0UU9fWG1EOExPTUJWMlh1eUlZM0c4dEhhdW1vVUVUYmNLcmg3VHVKY2FUZ0lFMWVtVTFVcVZ3T0hlUjYwNXpBSVBidUF1a0ktVFR2Qm1qRmZtNnB6NllYUjhhay1UUmFVZjBIdkdyb2drbnZHUnFvaGVudUs1czhhSEI3cTYtZWN6NFozcTNRUFRpdXktMEtILW4xS2UxaFFjU293aTNjQWRmZi1LVFNZZDVLdWdtRnJHbTM?oc=5)
+
+---
+
+### [Dépistage du cancer du sein : en Loire-Atlantique, les délais pour obtenir une mammographie découragent les femmes](https://news.google.com/rss/articles/CBMikwJBVV95cUxQbWh3YmE1ejVuMlJpaTJmVExDTkM1TjFUMmhkZjlRZU1PM0dmTUNjV2hTLThFQlljdWlJNjdweUpJcjBMYnBWYzFHNzdvLVhMUUVuRVpGb0tzRVFmWTVoR3AzUmJodTh4S0ZDVGlsNkJxTGJfR0JFb0hybVd1djlRQjEyNXFCVENNeVNQX19NcTI4MEZQTnlJZmlua2w1eG42MzE0YzVzRHIyaGhtU0RNc2JwSU96Vzhja3ZpN3gtZU1OTkxJdFJpTUM1ZFhsZDkxekJJcjlubm1zQ25Kdm1YWDJtdUJUSTVCd25qQlBxUWk2XzFKRGdPeTFHdWV0UVFFM2ozX1p6eVhCcWc4V0FMdzZFQQ?oc=5)
+
+2026-10-31 <span class="news-indication-tag">cancer</span>
+
+Source: [Ouest-France](https://news.google.com/rss/articles/CBMikwJBVV95cUxQbWh3YmE1ejVuMlJpaTJmVExDTkM1TjFUMmhkZjlRZU1PM0dmTUNjV2hTLThFQlljdWlJNjdweUpJcjBMYnBWYzFHNzdvLVhMUUVuRVpGb0tzRVFmWTVoR3AzUmJodTh4S0ZDVGlsNkJxTGJfR0JFb0hybVd1djlRQjEyNXFCVENNeVNQX19NcTI4MEZQTnlJZmlua2w1eG42MzE0YzVzRHIyaGhtU0RNc2JwSU96Vzhja3ZpN3gtZU1OTkxJdFJpTUM1ZFhsZDkxekJJcjlubm1zQ25Kdm1YWDJtdUJUSTVCd25qQlBxUWk2XzFKRGdPeTFHdWV0UVFFM2ozX1p6eVhCcWc4V0FMdzZFQQ?oc=5)
 
 ---
 
@@ -168,19 +184,19 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3
 
 ---
 
-### [DARUM kommt Krebs nach der Chemo oft zurück](https://news.google.com/rss/articles/CBMiggFBVV95cUxObzJacnN1NUJlMDF0T1VTZjAxQUdLYmFmZFpHelRGR2oyXzBOWFI2N1YzZHAwU0NWU1JnTERYRnptNVNiOHlVTGRzcXZ1QWRnTFFDX2xlY3NxSFpoeThUVHdDaXdrOE5xLWpwMU5nU0czMjlodmVKWm1aaUROOHFDZkZ30gGHAUFVX3lxTFBwSk9HUVVWOFRTdGpQRlIzQ2hzam9XYXE2V0N3aHM2MlE0WVA4bWdKREVWVW56ZVMxTmZDYkJERmZBZjBtWkYwX0lEcjgyejlvR2FEOWRHcF9ZajZMa2EyY0UyTU14Z0xwS3ZfVE9VYUJLbmg5QkRpdzNwUEVLWTVsSFFUcXFWWQ?oc=5)
-
-2026-10-29 <span class="news-indication-tag">Krebs</span>
-
-Source: [oe24](https://news.google.com/rss/articles/CBMiggFBVV95cUxObzJacnN1NUJlMDF0T1VTZjAxQUdLYmFmZFpHelRGR2oyXzBOWFI2N1YzZHAwU0NWU1JnTERYRnptNVNiOHlVTGRzcXZ1QWRnTFFDX2xlY3NxSFpoeThUVHdDaXdrOE5xLWpwMU5nU0czMjlodmVKWm1aaUROOHFDZkZ30gGHAUFVX3lxTFBwSk9HUVVWOFRTdGpQRlIzQ2hzam9XYXE2V0N3aHM2MlE0WVA4bWdKREVWVW56ZVMxTmZDYkJERmZBZjBtWkYwX0lEcjgyejlvR2FEOWRHcF9ZajZMa2EyY0UyTU14Z0xwS3ZfVE9VYUJLbmg5QkRpdzNwUEVLWTVsSFFUcXFWWQ?oc=5)
-
----
-
 ### [Tumore del colon-retto nei giovani, una mappa di 850mila cellule rivela cosa cambia](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWnpkaVpJLWQ2VFhORmtTOGRXdGpoR3dWZlZZLWFZX3pXMERZYmh6LWk1RHJiV3pJTk5lbHd3cUNBRk0yaWRrZG1YRWVEU0FnTzFKZ3laSDdmUkx5RXZqcU9hMHNManp6Rk8wb3FmSHl3ZG9NWHE5elJnYl96TFV1ZWhsbk5FRUxuSmJ2MHF0OHVVV2FPaGtUZ0tPN3N0MVI4QndUeEtuUlRodUdzVldSOEh6NGJYNG1Mck5NWlpRYTdIRmlpa2o0Nmp3aVdObE4wYWVJbmNJeUFRUQ?oc=5)
 
 2026-10-29 <span class="news-indication-tag">tumor</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWnpkaVpJLWQ2VFhORmtTOGRXdGpoR3dWZlZZLWFZX3pXMERZYmh6LWk1RHJiV3pJTk5lbHd3cUNBRk0yaWRrZG1YRWVEU0FnTzFKZ3laSDdmUkx5RXZqcU9hMHNManp6Rk8wb3FmSHl3ZG9NWHE5elJnYl96TFV1ZWhsbk5FRUxuSmJ2MHF0OHVVV2FPaGtUZ0tPN3N0MVI4QndUeEtuUlRodUdzVldSOEh6NGJYNG1Mck5NWlpRYTdIRmlpa2o0Nmp3aVdObE4wYWVJbmNJeUFRUQ?oc=5)
+
+---
+
+### [„Zombiezellen”: Warum Krebs nach der Chemotherapie oft wiederkommt - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1JWV2ROdDJfUXAxNUNsYUxtRHlJcjIwRThkblB6dDJtT1NvdUJFNEdzSlFsRDBnZlpyeGc5SFh0VzZnXzZIcW9uYVYxV3h1NEllY3JHQ2dGWWlHTzFoUE1Edld4WW5qMmFKVVVJWFdkak52Z2pCM0wycWlCTWlpSzFrXzdCV0xPWG1nNWs4dTlQNk43T3hYbFFUZw?oc=5)
+
+2026-10-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1JWV2ROdDJfUXAxNUNsYUxtRHlJcjIwRThkblB6dDJtT1NvdUJFNEdzSlFsRDBnZlpyeGc5SFh0VzZnXzZIcW9uYVYxV3h1NEllY3JHQ2dGWWlHTzFoUE1Edld4WW5qMmFKVVVJWFdkak52Z2pCM0wycWlCTWlpSzFrXzdCV0xPWG1nNWs4dTlQNk43T3hYbFFUZw?oc=5)
 
 ---
 
@@ -202,7 +218,7 @@ Source: [Pleine Vie](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRDllWF
 
 ### [Tumore dell'endometrio, il quarto più frequente fra le donne (e in aumento). Nuove cure efficaci per chi è già in stadio avanzato - Corriere della Sera](https://news.google.com/rss/articles/CBMizwJBVV95cUxQRVlscEM4YlBmWXktUXk5UkNCd21BRGs4RTdEY3NwZFFnMXZ6bjRxX0JGbmYza2x3NHNqUWNyLThsZmJJYjNJM0F0Wm43cGtXbzBDLWNqSjFxVjNVZGo1bDJ0VXMtTGZjS09ta2xPdnFHb3NTQ3p2UGd3VnUxTnZxV19XbGFmOUdoY0NBMXFNX1NoX3oxdm16cU5lSm9YeWZGMFp2NDVSdm1pWGswYll2bTNLd0lOSmhXU1J3b1lqVGdJT21RUjFtTDZCNWVfYktFemJHY2Q1aVlmSWU2ekVKdTgtR2ZrcWNnMkdsaDhCSDlBX1ZCa0pqWmx1UXVhN3ZoX2FTdHItMkRQOE9aRFA5eWU4N2JGaWVXdnQyXzNqam44Zzc3bmN4V1ZTRUl3SzZFWXRBUm5sR1Y5SVVaNG9kclprUEpWRWhhbGRrZVBwTdIB1AJBVV95cUxNUVB4M09KQWNFQkJhRW9yOENyWkw5cEtHYlFScFU4MjNVM3FhaVc1Y09JdjBiX194U0Nhb0lTUGI5X09wODRoRHR5QVE2eGFOV0RxTklXY0VPazlZbklvXzBydEttYVBhd3Zha2JtYksxM3ZnZm5zY0dfTlRtUHZueWhYOGR6ZnFNeVBKOGEtNUszb0hwOE9oUkRVVEZHendMNm44NGs3YXk5b2p6T1JPUHJ5bTVsdWlwWEgwc002RTlkWmZ6OGtQNjh2NG8ydnk4cnlPTGxCTWNtNTlqUVF6dWVzVk9Mc0Npd2dPWTFDWE5saDB2TVEzU1lkUTdLVkRYREV6Y3diQVhqTHFGTm5OQWZQMmIzN1NyeXhqbU9xdENYdEV5N1Vva25rMkhPLVpyQlRseHo4Y2xUTHJQMkJVd2JYMmhaaHVtcVl5bk0waUoyS19w?oc=5)
 
-2026-10-27 <span class="news-indication-tag">tumor</span>
+2026-10-27 <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">tumor</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMizwJBVV95cUxQRVlscEM4YlBmWXktUXk5UkNCd21BRGs4RTdEY3NwZFFnMXZ6bjRxX0JGbmYza2x3NHNqUWNyLThsZmJJYjNJM0F0Wm43cGtXbzBDLWNqSjFxVjNVZGo1bDJ0VXMtTGZjS09ta2xPdnFHb3NTQ3p2UGd3VnUxTnZxV19XbGFmOUdoY0NBMXFNX1NoX3oxdm16cU5lSm9YeWZGMFp2NDVSdm1pWGswYll2bTNLd0lOSmhXU1J3b1lqVGdJT21RUjFtTDZCNWVfYktFemJHY2Q1aVlmSWU2ekVKdTgtR2ZrcWNnMkdsaDhCSDlBX1ZCa0pqWmx1UXVhN3ZoX2FTdHItMkRQOE9aRFA5eWU4N2JGaWVXdnQyXzNqam44Zzc3bmN4V1ZTRUl3SzZFWXRBUm5sR1Y5SVVaNG9kclprUEpWRWhhbGRrZVBwTdIB1AJBVV95cUxNUVB4M09KQWNFQkJhRW9yOENyWkw5cEtHYlFScFU4MjNVM3FhaVc1Y09JdjBiX194U0Nhb0lTUGI5X09wODRoRHR5QVE2eGFOV0RxTklXY0VPazlZbklvXzBydEttYVBhd3Zha2JtYksxM3ZnZm5zY0dfTlRtUHZueWhYOGR6ZnFNeVBKOGEtNUszb0hwOE9oUkRVVEZHendMNm44NGs3YXk5b2p6T1JPUHJ5bTVsdWlwWEgwc002RTlkWmZ6OGtQNjh2NG8ydnk4cnlPTGxCTWNtNTlqUVF6dWVzVk9Mc0Npd2dPWTFDWE5saDB2TVEzU1lkUTdLVkRYREV6Y3diQVhqTHFGTm5OQWZQMmIzN1NyeXhqbU9xdENYdEV5N1Vva25rMkhPLVpyQlRseHo4Y2xUTHJQMkJVd2JYMmhaaHVtcVl5bk0waUoyS19w?oc=5)
 

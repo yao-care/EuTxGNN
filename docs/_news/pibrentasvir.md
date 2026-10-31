@@ -44,6 +44,14 @@ This page combines the AI-predicted indications for Pibrentasvir with the latest
 
 ## Related News (15)
 
+### [Stimmstörungen als KI-Signal: Studie verknüpft Stimme, Hörverlust und Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkpVb0hnMVlDdktNUU5PWHllS1ExRUNGZVR2WWRVZVlwQm16SG44UjhwYnVxYW5ibDI0aFVmY19ZaDM0SllsVE5BOUJuX0k2VFd1akhaMjVoRTlWVnpreHRCQTlOZW9pMDhpc29tRDZ4aU5hSVVTTFlRM1hIR3UzdkZaRE94cmxZam5adWxIUHdSejFDc3lFNGQ3MlN2dFhNRWhwV3ZvX0U3WWhINWdjS2pmSkIxUQ?oc=5)
+
+2026-10-31 <span class="news-indication-tag">MS</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkpVb0hnMVlDdktNUU5PWHllS1ExRUNGZVR2WWRVZVlwQm16SG44UjhwYnVxYW5ibDI0aFVmY19ZaDM0SllsVE5BOUJuX0k2VFd1akhaMjVoRTlWVnpreHRCQTlOZW9pMDhpc29tRDZ4aU5hSVVTTFlRM1hIR3UzdkZaRE94cmxZam5adWxIUHdSejFDc3lFNGQ3MlN2dFhNRWhwV3ZvX0U3WWhINWdjS2pmSkIxUQ?oc=5)
+
+---
+
 ### [Retatrutide bei Schlafapnoe: Zwei Phase-3-Studien zeigen weniger Atempausen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVRlMm9hMUROUmlEUG1fY2h4aHVYZ3JuQlBNd2lKUURfeEFrMFMtdDlfRXBKRGhVbTNMZ3RGdVJQbDN2aHVMZHd3OEdTMWZIUVBZWGszMDh2bV9Fdjg4dlBUdXZEQmlXVVBvMFRMYXBJVjNnVjdCUGJPWlVyMUlKV2Z3LXJnU1otZ2hoS3U5SzVLWHVoWU51QURHakhmYktxSFNYV2ZkVEdlbHM1Z2hPd2NQTk84UmE3VVhHdm5XSjc?oc=5)
 
 2026-10-31 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -121,14 +129,6 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNY
 2026-10-30 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
-
----
-
-### [More greens, higher testosterone? What a Finnish study found](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnJlYk11ekVTZ29IeE5Qb2ZjWFJYZ0VBaGJmVHNGOGRuTlNOOVFpaktQanNjUXIzUmcydFd3VFVNcHV0UGdNOGlKQjBLWjBnLUh1UTMwM2toQTNtS05uZVUtMTBFel9OYTY0N2NCWlBvdVhhWGRRa0thYkY0VGdlUUF4NkJzaGJnOVBMSzJYd0VUTXZkWHA0S0tn?oc=5)
-
-2026-10-30 <span class="news-indication-tag">MS</span>
-
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnJlYk11ekVTZ29IeE5Qb2ZjWFJYZ0VBaGJmVHNGOGRuTlNOOVFpaktQanNjUXIzUmcydFd3VFVNcHV0UGdNOGlKQjBLWjBnLUh1UTMwM2toQTNtS05uZVUtMTBFel9OYTY0N2NCWlBvdVhhWGRRa0thYkY0VGdlUUF4NkJzaGJnOVBMSzJYd0VUTXZkWHA0S0tn?oc=5)
 
 ---
 

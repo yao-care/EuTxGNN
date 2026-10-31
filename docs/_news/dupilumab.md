@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Dupilumab?">
-<strong>Dupilumab</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
+<strong>Dupilumab</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ This page combines the AI-predicted indications for Dupilumab with the latest he
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [BPCO: fiato corto nonostante gli inalatori, un esame del sangue può orientare nuove cure](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTV80dkpNeWZ4b3FFb3Z2R3AyOHJBZlNBQ0IwdEFkY1Zyck42S0VITVVIeFM2MEJrMXZTdjBJcXZLRkw0Q0ZsWFVoVE1TdzVSbHI0M3kwV2ljbERxQzVoQTZPMjVMMGZoQ3R2LXE4bU1kcTVGcWkwbS0zZHFxX29NMlF4TF9oU2k3SWpFdnFpTnk1d2VHRTlLS2JqaUtGbWpyWmhPV3RnUEZNUWxJNjROTFBpYWo0MGowSDVBdExhdlY0TDhRcUFOal8zWEQwck83Y2c5Z3dRdVotaFk3SjdF?oc=5)
 
 2026-10-30 <span class="news-indication-tag">BPCO</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTV80dkpNeWZ4b3FFb3Z2R3AyOHJBZlNBQ0IwdEFkY1Zyck42S0VITVVIeFM2MEJrMXZTdjBJcXZLRkw0Q0ZsWFVoVE1TdzVSbHI0M3kwV2ljbERxQzVoQTZPMjVMMGZoQ3R2LXE4bU1kcTVGcWkwbS0zZHFxX29NMlF4TF9oU2k3SWpFdnFpTnk1d2VHRTlLS2JqaUtGbWpyWmhPV3RnUEZNUWxJNjROTFBpYWo0MGowSDVBdExhdlY0TDhRcUFOal8zWEQwck83Y2c5Z3dRdVotaFk3SjdF?oc=5)
-
----
-
-### [Ceux qui parlent souvent aux caissiers ou aux serveurs possèdent cette caractéristique](https://news.google.com/rss/articles/CBMifEFVX3lxTE1wOWwwRW5QTW1KRkFXTURBaFJCUll2YVRRODhGZU91NVE3c053SW5hdkZpamdnM1J1RlVuNVdRTzRRbFdWNWdYZDNYbXdhRjRSbFhUc0xxYW1ncDJ4bTA3cHVzLS1NOXF1LUx3OVNPMEpxeDE2cHNYek9QY1o?oc=5)
-
-2026-10-30 <span class="news-indication-tag">EPOC</span>
-
-Source: [Linternaute.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE1wOWwwRW5QTW1KRkFXTURBaFJCUll2YVRRODhGZU91NVE3c053SW5hdkZpamdnM1J1RlVuNVdRTzRRbFdWNWdYZDNYbXdhRjRSbFhUc0xxYW1ncDJ4bTA3cHVzLS1NOXF1LUx3OVNPMEpxeDE2cHNYek9QY1o?oc=5)
 
 ---
 

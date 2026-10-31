@@ -39,6 +39,14 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 
 ## Related News (13)
 
+### [« Deux AVC à 28 ans, ça n’était pas du tout dans mon bingo de l’année 2026 » - TÉMOIGNAGE - Le HuffPost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmpoZ1NFMmJfVmNsR0NpVk9tU1hYdHFzUUlTQUdSeGZsTEtxU3BUUEw4NHpvRXExdXBhNHlWaENoOGMtNFlnYmdSdU5naG1UMFJXRzRpRnRiYWxLcEc4QjkzeFZNdW1VbzRNdTVhR1RibllTbFRERjJ3M21xLTNzaFNhZlFzS2lDcUttNG40M042Z2h5NkVZOU9lQmplNjZ6TzdMLVE5RkgyU2hvaTB3MTU3YXBUMEtyVF9YU015Wk5NdEFueDRnTXZ4dkMwOUZKMU9n?oc=5)
+
+2026-10-31 <span class="news-indication-tag">accident vasculaire cérébral</span>
+
+Source: [Le HuffPost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmpoZ1NFMmJfVmNsR0NpVk9tU1hYdHFzUUlTQUdSeGZsTEtxU3BUUEw4NHpvRXExdXBhNHlWaENoOGMtNFlnYmdSdU5naG1UMFJXRzRpRnRiYWxLcEc4QjkzeFZNdW1VbzRNdTVhR1RibllTbFRERjJ3M21xLTNzaFNhZlFzS2lDcUttNG40M042Z2h5NkVZOU9lQmplNjZ6TzdMLVE5RkgyU2hvaTB3MTU3YXBUMEtyVF9YU015Wk5NdEFueDRnTXZ4dkMwOUZKMU9n?oc=5)
+
+---
+
 ### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmowVk9KR29VWWRXWkZxcWhZUWx0VmtlRGxzNGNfdE1HNGZHdHRhNF9wUVo0RHdkdmhzdFVuOEg3cndrNXIwMjYzR241VUE2QmJEaFc1WklubU1QS3JHRDVXM1FVLTk5MEZZdFhVOFJDeThJc0ZzUzhCTzFLTzRiTTAtLVhHWjlKbEhfQ2hGd20yQ2ZOMDZyZVpJQndDZHd0WV9NZENPV3RpUWIxUzRhOHVnWkZDWGdGV1Fn?oc=5)
 
 2026-10-31 <span class="news-indication-tag">Schlaganfall</span>
@@ -47,11 +55,11 @@ Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV9
 
 ---
 
-### [Mar Freijo, neuróloga: «Entre un 80 y un 90 % de los ictus se podrían evitar» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUnVGT3BqWURGdE9xTGtPOXoxQ3dkZktsYU5ET2JNSEFSZXotXzlpZkFNMWtEMG82V2pRa0N6U2RCVXdyOENEMFBZNHBVdVZsTFRXNjl3R0lUWWVvU2dmQkZWRmg3NUNLZlJEQzVKLWNWZ2psRm1pN0ZyVVQ5NmJYNEVkaUpFU1NNZGkyZnhYUlJHeWxJd1RIY19HdXI3a1lVRUFjdjM3a0hyNkV1R1RaTGpKMzVkQThUcGlhV0RhMlRkblFkY28zc0NzWDhRbzdsWFJyOGtNODAwVHFL0gHiAUFVX3lxTE1pR1ExVWcxVUxCNUh0QjlmTFA3NDU0akREV20zZGtPMmZVTUpkMzFrSTlWT1RHWU00N3RXdlVPZ3B4X3NHZUVVYjRyOHVSVGJqRVNJOE9pb0hBTTRaNmFfS0FMNHBNTFRBXzFUcUFMOHA3TXJqZVFnWHlsekxkeWE4ZXpMZkhPdTlyaUJubG0wNmVtVUpuV2hlZ0xJMjB0RTJNNktRTE1FVlV0MU9wU0xEMmlwdDBaTkVoWXNfb3JVZXYwZTYxUS1ZM0dlU2xaelotUWh0SFpQWDhZZ3RqSHpQT1E?oc=5)
+### [Mar Freijo, neuróloga: «Entre un 80 y un 90 % de los ictus se podrían evitar» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUnVGT3BqWURGdE9xTGtPOXoxQ3dkZktsYU5ET2JNSEFSZXotXzlpZkFNMWtEMG82V2pRa0N6U2RCVXdyOENEMFBZNHBVdVZsTFRXNjl3R0lUWWVvU2dmQkZWRmg3NUNLZlJEQzVKLWNWZ2psRm1pN0ZyVVQ5NmJYNEVkaUpFU1NNZGkyZnhYUlJHeWxJd1RIY19HdXI3a1lVRUFjdjM3a0hyNkV1R1RaTGpKMzVkQThUcGlhV0RhMlRkblFkY28zc0NzWDhRbzdsWFJyOGtNODAwVHFL?oc=5)
 
 2026-10-31 <span class="news-indication-tag">ictus</span>
 
-Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUnVGT3BqWURGdE9xTGtPOXoxQ3dkZktsYU5ET2JNSEFSZXotXzlpZkFNMWtEMG82V2pRa0N6U2RCVXdyOENEMFBZNHBVdVZsTFRXNjl3R0lUWWVvU2dmQkZWRmg3NUNLZlJEQzVKLWNWZ2psRm1pN0ZyVVQ5NmJYNEVkaUpFU1NNZGkyZnhYUlJHeWxJd1RIY19HdXI3a1lVRUFjdjM3a0hyNkV1R1RaTGpKMzVkQThUcGlhV0RhMlRkblFkY28zc0NzWDhRbzdsWFJyOGtNODAwVHFL0gHiAUFVX3lxTE1pR1ExVWcxVUxCNUh0QjlmTFA3NDU0akREV20zZGtPMmZVTUpkMzFrSTlWT1RHWU00N3RXdlVPZ3B4X3NHZUVVYjRyOHVSVGJqRVNJOE9pb0hBTTRaNmFfS0FMNHBNTFRBXzFUcUFMOHA3TXJqZVFnWHlsekxkeWE4ZXpMZkhPdTlyaUJubG0wNmVtVUpuV2hlZ0xJMjB0RTJNNktRTE1FVlV0MU9wU0xEMmlwdDBaTkVoWXNfb3JVZXYwZTYxUS1ZM0dlU2xaelotUWh0SFpQWDhZZ3RqSHpQT1E?oc=5)
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUnVGT3BqWURGdE9xTGtPOXoxQ3dkZktsYU5ET2JNSEFSZXotXzlpZkFNMWtEMG82V2pRa0N6U2RCVXdyOENEMFBZNHBVdVZsTFRXNjl3R0lUWWVvU2dmQkZWRmg3NUNLZlJEQzVKLWNWZ2psRm1pN0ZyVVQ5NmJYNEVkaUpFU1NNZGkyZnhYUlJHeWxJd1RIY19HdXI3a1lVRUFjdjM3a0hyNkV1R1RaTGpKMzVkQThUcGlhV0RhMlRkblFkY28zc0NzWDhRbzdsWFJyOGtNODAwVHFL?oc=5)
 
 ---
 
@@ -124,14 +132,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFJ
 2026-10-29 <span class="news-indication-tag">ictus</span>
 
 Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
-
----
-
-### [« J’ai commencé à voir tout en vert de mon œil droit »… Pourquoi de plus en plus de jeunes font des AVC - 20 Minutes](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHFhcW96bG9RT05ZbVZxc1hTb09kS1E2YVJBcW9Gd0h2Sm90N3R0YXBqNGZ5MGctZlRmU19vOFhabFVHdUp6a1dyWGR6RGpjalBHS3ZtcVd4QWoyNGNEOFZmQk1HNk9IVE82aEJUYklIcTVEZUpRanhhWW04TmYwRnBBenlIRktWNGlxMU5nREE4dzJaaHJNanVuYm9aaF96dmxRcEhtRDNPbDE0eEZVUWVn?oc=5)
-
-2026-10-29 <span class="news-indication-tag">accident vasculaire cérébral</span>
-
-Source: [20 Minutes](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHFhcW96bG9RT05ZbVZxc1hTb09kS1E2YVJBcW9Gd0h2Sm90N3R0YXBqNGZ5MGctZlRmU19vOFhabFVHdUp6a1dyWGR6RGpjalBHS3ZtcVd4QWoyNGNEOFZmQk1HNk9IVE82aEJUYklIcTVEZUpRanhhWW04TmYwRnBBenlIRktWNGlxMU5nREE4dzJaaHJNanVuYm9aaF96dmxRcEhtRDNPbDE0eEZVUWVn?oc=5)
 
 ---
 

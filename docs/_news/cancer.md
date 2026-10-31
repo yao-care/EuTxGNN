@@ -3,7 +3,7 @@ layout: default
 title: "tumor (cancer) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 23 articles, 229 related drugs."
+description: "Health news about tumor (cancer). 25 articles, 229 related drugs."
 permalink: /news/cancer/
 last_modified_at: 2026-10-31
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>23 news articles</strong> and 229 related drugs.
+<strong>tumor (cancer)</strong> currently has <strong>25 news articles</strong> and 229 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -190,7 +190,15 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (23)
+## Related News (25)
+
+### [Quarter of women still missing breast cancer screening](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLYWI4UFF3bi1LWWVLdlliREJTQkU3Ym5EaWw1dmJvN2VabGZ2a0tfSEI2eENNcUdpc1N4blpLRUI1YmFZTGtjTTJ3clpVUXlLclh0NXFuR2lFNkxBbEE?oc=5)
+
+2026-10-31
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLYWI4UFF3bi1LWWVLdlliREJTQkU3Ym5EaWw1dmJvN2VabGZ2a0tfSEI2eENNcUdpc1N4blpLRUI1YmFZTGtjTTJ3clpVUXlLclh0NXFuR2lFNkxBbEE?oc=5)
+
+---
 
 ### [Tumore alla prostata, a Livorno l'intervento in chirurgia robotica mininvasiva: i benefici per il paziente - Il Tirreno](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLW5VbE9yMmtGMzd2N0NXbnpBWERPajJMTDhVeHV3eUFVMC1UYnJqWS11YzlPQ3h5X3h6cmpNbkVvVXVMQUJRUVRyb1BQVWwxZWRLNEFOZEtCUUh6OVZGYmVrRlR5d3g1WlVRRjdOQzF5WGVJemZER0dlT1g1M1RSLU10VDFPSG9sdW9nWkdXOGdwOGVLMzJEVGdQaFRKc1FicTFnYU5ZeHhzV0JuVnMwcEthUzY2UXNYNlpVeXVlb29OM080dTBrN3VZRUNGLXpxcUNJSWZnSzZkMml2?oc=5)
 
@@ -205,6 +213,14 @@ Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLW5VbE
 2026-10-31
 
 Source: [La Provence](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQc3AyRmpaekVtdkdURnNWU2tBU0pCVW1NTmVnNkZvMDRCblRrLV9NVWxNZXRmR0o1eWpGYWtRb2FCUVU1X2JWcjMxbWdkTXZtWF8yT1g0UU9fWG1EOExPTUJWMlh1eUlZM0c4dEhhdW1vVUVUYmNLcmg3VHVKY2FUZ0lFMWVtVTFVcVZ3T0hlUjYwNXpBSVBidUF1a0ktVFR2Qm1qRmZtNnB6NllYUjhhay1UUmFVZjBIdkdyb2drbnZHUnFvaGVudUs1czhhSEI3cTYtZWN6NFozcTNRUFRpdXktMEtILW4xS2UxaFFjU293aTNjQWRmZi1LVFNZZDVLdWdtRnJHbTM?oc=5)
+
+---
+
+### [Dépistage du cancer du sein : en Loire-Atlantique, les délais pour obtenir une mammographie découragent les femmes](https://news.google.com/rss/articles/CBMikwJBVV95cUxQbWh3YmE1ejVuMlJpaTJmVExDTkM1TjFUMmhkZjlRZU1PM0dmTUNjV2hTLThFQlljdWlJNjdweUpJcjBMYnBWYzFHNzdvLVhMUUVuRVpGb0tzRVFmWTVoR3AzUmJodTh4S0ZDVGlsNkJxTGJfR0JFb0hybVd1djlRQjEyNXFCVENNeVNQX19NcTI4MEZQTnlJZmlua2w1eG42MzE0YzVzRHIyaGhtU0RNc2JwSU96Vzhja3ZpN3gtZU1OTkxJdFJpTUM1ZFhsZDkxekJJcjlubm1zQ25Kdm1YWDJtdUJUSTVCd25qQlBxUWk2XzFKRGdPeTFHdWV0UVFFM2ozX1p6eVhCcWc4V0FMdzZFQQ?oc=5)
+
+2026-10-31
+
+Source: [Ouest-France](https://news.google.com/rss/articles/CBMikwJBVV95cUxQbWh3YmE1ejVuMlJpaTJmVExDTkM1TjFUMmhkZjlRZU1PM0dmTUNjV2hTLThFQlljdWlJNjdweUpJcjBMYnBWYzFHNzdvLVhMUUVuRVpGb0tzRVFmWTVoR3AzUmJodTh4S0ZDVGlsNkJxTGJfR0JFb0hybVd1djlRQjEyNXFCVENNeVNQX19NcTI4MEZQTnlJZmlua2w1eG42MzE0YzVzRHIyaGhtU0RNc2JwSU96Vzhja3ZpN3gtZU1OTkxJdFJpTUM1ZFhsZDkxekJJcjlubm1zQ25Kdm1YWDJtdUJUSTVCd25qQlBxUWk2XzFKRGdPeTFHdWV0UVFFM2ozX1p6eVhCcWc4V0FMdzZFQQ?oc=5)
 
 ---
 
@@ -328,19 +344,19 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3
 
 ---
 
-### [DARUM kommt Krebs nach der Chemo oft zurück](https://news.google.com/rss/articles/CBMiggFBVV95cUxObzJacnN1NUJlMDF0T1VTZjAxQUdLYmFmZFpHelRGR2oyXzBOWFI2N1YzZHAwU0NWU1JnTERYRnptNVNiOHlVTGRzcXZ1QWRnTFFDX2xlY3NxSFpoeThUVHdDaXdrOE5xLWpwMU5nU0czMjlodmVKWm1aaUROOHFDZkZ30gGHAUFVX3lxTFBwSk9HUVVWOFRTdGpQRlIzQ2hzam9XYXE2V0N3aHM2MlE0WVA4bWdKREVWVW56ZVMxTmZDYkJERmZBZjBtWkYwX0lEcjgyejlvR2FEOWRHcF9ZajZMa2EyY0UyTU14Z0xwS3ZfVE9VYUJLbmg5QkRpdzNwUEVLWTVsSFFUcXFWWQ?oc=5)
-
-2026-10-29
-
-Source: [oe24](https://news.google.com/rss/articles/CBMiggFBVV95cUxObzJacnN1NUJlMDF0T1VTZjAxQUdLYmFmZFpHelRGR2oyXzBOWFI2N1YzZHAwU0NWU1JnTERYRnptNVNiOHlVTGRzcXZ1QWRnTFFDX2xlY3NxSFpoeThUVHdDaXdrOE5xLWpwMU5nU0czMjlodmVKWm1aaUROOHFDZkZ30gGHAUFVX3lxTFBwSk9HUVVWOFRTdGpQRlIzQ2hzam9XYXE2V0N3aHM2MlE0WVA4bWdKREVWVW56ZVMxTmZDYkJERmZBZjBtWkYwX0lEcjgyejlvR2FEOWRHcF9ZajZMa2EyY0UyTU14Z0xwS3ZfVE9VYUJLbmg5QkRpdzNwUEVLWTVsSFFUcXFWWQ?oc=5)
-
----
-
 ### [Tumore del colon-retto nei giovani, una mappa di 850mila cellule rivela cosa cambia](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWnpkaVpJLWQ2VFhORmtTOGRXdGpoR3dWZlZZLWFZX3pXMERZYmh6LWk1RHJiV3pJTk5lbHd3cUNBRk0yaWRrZG1YRWVEU0FnTzFKZ3laSDdmUkx5RXZqcU9hMHNManp6Rk8wb3FmSHl3ZG9NWHE5elJnYl96TFV1ZWhsbk5FRUxuSmJ2MHF0OHVVV2FPaGtUZ0tPN3N0MVI4QndUeEtuUlRodUdzVldSOEh6NGJYNG1Mck5NWlpRYTdIRmlpa2o0Nmp3aVdObE4wYWVJbmNJeUFRUQ?oc=5)
 
 2026-10-29
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWnpkaVpJLWQ2VFhORmtTOGRXdGpoR3dWZlZZLWFZX3pXMERZYmh6LWk1RHJiV3pJTk5lbHd3cUNBRk0yaWRrZG1YRWVEU0FnTzFKZ3laSDdmUkx5RXZqcU9hMHNManp6Rk8wb3FmSHl3ZG9NWHE5elJnYl96TFV1ZWhsbk5FRUxuSmJ2MHF0OHVVV2FPaGtUZ0tPN3N0MVI4QndUeEtuUlRodUdzVldSOEh6NGJYNG1Mck5NWlpRYTdIRmlpa2o0Nmp3aVdObE4wYWVJbmNJeUFRUQ?oc=5)
+
+---
+
+### [„Zombiezellen”: Warum Krebs nach der Chemotherapie oft wiederkommt - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1JWV2ROdDJfUXAxNUNsYUxtRHlJcjIwRThkblB6dDJtT1NvdUJFNEdzSlFsRDBnZlpyeGc5SFh0VzZnXzZIcW9uYVYxV3h1NEllY3JHQ2dGWWlHTzFoUE1Edld4WW5qMmFKVVVJWFdkak52Z2pCM0wycWlCTWlpSzFrXzdCV0xPWG1nNWs4dTlQNk43T3hYbFFUZw?oc=5)
+
+2026-10-29
+
+Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1JWV2ROdDJfUXAxNUNsYUxtRHlJcjIwRThkblB6dDJtT1NvdUJFNEdzSlFsRDBnZlpyeGc5SFh0VzZnXzZIcW9uYVYxV3h1NEllY3JHQ2dGWWlHTzFoUE1Edld4WW5qMmFKVVVJWFdkak52Z2pCM0wycWlCTWlpSzFrXzdCV0xPWG1nNWs4dTlQNk43T3hYbFFUZw?oc=5)
 
 ---
 
