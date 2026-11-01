@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Varenicline?">
-<strong>Varenicline</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Varenicline</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Varenicline with the latest 
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (4)
+
+### [Longevity: Zwei Werte zeigen, wie gut Sie altern – und jeder kann sie selbst messen - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisAFBVV95cUxQenVaY2VhVlo5TUt3R2V1UlcyeXRza3d6ZVotRUpQazcyTTdXRHhDWkNxMUJ4TVVNRjNEejJISzlfNWVmTnc5eHV6d3cwSXFEQjVPd3pnYlZrVkVWcnplMS1ycE5XdERtbFhEOU9yWVZrVUUzZmg3V0tzUzhaR2Rza0RwaG83RDdQZm9iNjRnWG1uTlZMX0xHTDk1cHNZYmxDUFhRSldKOUpIWTdOYVJrZg?oc=5)
+
+2026-11-01 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisAFBVV95cUxQenVaY2VhVlo5TUt3R2V1UlcyeXRza3d6ZVotRUpQazcyTTdXRHhDWkNxMUJ4TVVNRjNEejJISzlfNWVmTnc5eHV6d3cwSXFEQjVPd3pnYlZrVkVWcnplMS1ycE5XdERtbFhEOU9yWVZrVUUzZmg3V0tzUzhaR2Rza0RwaG83RDdQZm9iNjRnWG1uTlZMX0xHTDk1cHNZYmxDUFhRSldKOUpIWTdOYVJrZg?oc=5)
+
+---
+
+### [Ictus, troppo sale e ipertensione. Gli italiani non si controllano - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlFZNVppUWZtT01DWmE5ajN2ZEFoNUxERDNVZXZTQklLTWFtdkhaQXVoWkZIbzVOeTBTVHJoQnJJY3FDeEczQWNDVmZaOXJvcy11RnVPZ2FZZHJ5SU1HSG1XdzJ3eHhiT3NkNkxjYmc1azFaRzBzMDhvTmN0aVJJYWR0dmNGRXgxZHBJa21vakhHZzNoRllnOFdtVWQ4WFEtblhOYUhDcnRrZV82cHRRdGp2Z29PWE1RMElVQ1pEZk5KMTd5ZnJTcllhZFI?oc=5)
+
+2026-11-01 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
+
+Source: [L'Eco di Bergamo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlFZNVppUWZtT01DWmE5ajN2ZEFoNUxERDNVZXZTQklLTWFtdkhaQXVoWkZIbzVOeTBTVHJoQnJJY3FDeEczQWNDVmZaOXJvcy11RnVPZ2FZZHJ5SU1HSG1XdzJ3eHhiT3NkNkxjYmc1azFaRzBzMDhvTmN0aVJJYWR0dmNGRXgxZHBJa21vakhHZzNoRllnOFdtVWQ4WFEtblhOYUhDcnRrZV82cHRRdGp2Z29PWE1RMElVQ1pEZk5KMTd5ZnJTcllhZFI?oc=5)
+
+---
 
 ### [My agonising migraines left me bedbound for decades and broke my marriage - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHkzVFJFeGphVXlON0k5UHZVM0RjWWxZQjU5VDhJUktsdU1waGt4bDBXVGx3TG5hRmtoRm1uRXdMVjFuR0x1OWpKQU8zWHRlZkdFaUZvRzRRNlNZMHhVUmd1UnI5R210TUd6V0c5Szk1d3ZBWDl3amRuOGNwQ2YxYk5yeXlwc1pkSjJRZDFYejgzeEJSdVRTR1pGYkt3YTQ?oc=5)
 
@@ -52,11 +68,11 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHk
 
 ---
 
-### [Giornata mondiale ictus cerebrale, come prevenirlo e come riconoscere i primi segnali - Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
+### ['A stroke aged 43 changed my sense of who I was,' says Oxford man](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
-2026-10-29 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
+2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
 
-Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
 ---
 

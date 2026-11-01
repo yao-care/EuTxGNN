@@ -39,11 +39,19 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 
 ## Related News (11)
 
-### [Ces habitants de Dordogne, victimes d’un AVC, témoignent : Jean-Louis avait 72 ans, Olivier 22 ans - Sud Ouest](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkh2NmlPU3JRWkprV1JKN0I1M0l2OVNLeUdfNzN5Z0p2RHk4aU4xRGhhalUtVE9Qd1JlWU5Mc1hYVEVoOUpVTWtJYWItOW9EbGFNOEctOFhuRWZWM2Jfa08yRXdtRGpSNDdDU3pJOU9BMDlYYVhyaW1zZ2hJTkRKZjVNU0xic1dpeEtKdnUyMkJ6MF91Mm5IY1N1VVR5eHhDQk1ybUoxMEVxVHRGUnYydlBmZTBGdnpaSkV1VzNtZkVsalVYd0ZQTHRpMjQwa1pFR1E?oc=5)
+### [Nueve de cada diez ictus podrían prevenirse controlando los factores de riesgo - Cadena SER](https://news.google.com/rss/articles/CBMizAFBVV95cUxOSW1rQjdDS0hINk4xTWZwZ1NqVEdwdFRwOUJKZnJKRm0xQjdZNHF5QUlmeXlBYnppWlphWV8wQmxqZEtxaXNKWElLSkVwSlJ5ejZVcmM1UFZvTzhQSEVWZ2U2UmxXc0dlcjR3a2t4eHFOeWo4STlJV2RzTEp3eXJlRjNoZTcxTllyQ2RsRXJ0WFdhd1UyWFZWSXQ3WGh4blFVQndHRWVBYkVBWk5sQ1J3b3B2Rkh6ek0xaExxQ3RGNWJWQkV0ZmQ0dld0M2fSAeABQVVfeXFMUGlhLUdUVC0zcC12RXBxUUFyQ0tRbHN2RjV5QThwQ05TUjNOU3QyMjJHQkgtaHhIcE5EMmNQX3A4bnE0cGpQSWlsaWd3N3BldW9DeDlwb0ZxeHpEOUt1R1Zsd2xnWXhVeXliOWJ6d0ZMd3JMN0ItdU4ycGZET0E3aFlSalUyNTlsUFBxdUp6aTFqMTBtVEpwZ3VYRE1LTWxsek51eFhMcU0zV1VuQTVhUnlQSEVGblhpQWJQT2M4Qi1DbDZqbUFTSGs4UHVxYVJEV2xKVF9idFRFREVvQ1JjbEc?oc=5)
 
-2026-11-01 <span class="news-indication-tag">AVC</span>
+2026-11-01 <span class="news-indication-tag">ictus</span>
 
-Source: [Sud Ouest](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkh2NmlPU3JRWkprV1JKN0I1M0l2OVNLeUdfNzN5Z0p2RHk4aU4xRGhhalUtVE9Qd1JlWU5Mc1hYVEVoOUpVTWtJYWItOW9EbGFNOEctOFhuRWZWM2Jfa08yRXdtRGpSNDdDU3pJOU9BMDlYYVhyaW1zZ2hJTkRKZjVNU0xic1dpeEtKdnUyMkJ6MF91Mm5IY1N1VVR5eHhDQk1ybUoxMEVxVHRGUnYydlBmZTBGdnpaSkV1VzNtZkVsalVYd0ZQTHRpMjQwa1pFR1E?oc=5)
+Source: [Cadena SER](https://news.google.com/rss/articles/CBMizAFBVV95cUxOSW1rQjdDS0hINk4xTWZwZ1NqVEdwdFRwOUJKZnJKRm0xQjdZNHF5QUlmeXlBYnppWlphWV8wQmxqZEtxaXNKWElLSkVwSlJ5ejZVcmM1UFZvTzhQSEVWZ2U2UmxXc0dlcjR3a2t4eHFOeWo4STlJV2RzTEp3eXJlRjNoZTcxTllyQ2RsRXJ0WFdhd1UyWFZWSXQ3WGh4blFVQndHRWVBYkVBWk5sQ1J3b3B2Rkh6ek0xaExxQ3RGNWJWQkV0ZmQ0dld0M2fSAeABQVVfeXFMUGlhLUdUVC0zcC12RXBxUUFyQ0tRbHN2RjV5QThwQ05TUjNOU3QyMjJHQkgtaHhIcE5EMmNQX3A4bnE0cGpQSWlsaWd3N3BldW9DeDlwb0ZxeHpEOUt1R1Zsd2xnWXhVeXliOWJ6d0ZMd3JMN0ItdU4ycGZET0E3aFlSalUyNTlsUFBxdUp6aTFqMTBtVEpwZ3VYRE1LTWxsek51eFhMcU0zV1VuQTVhUnlQSEVGblhpQWJQT2M4Qi1DbDZqbUFTSGs4UHVxYVJEV2xKVF9idFRFREVvQ1JjbEc?oc=5)
+
+---
+
+### [Ictus, troppo sale e ipertensione. Gli italiani non si controllano - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlFZNVppUWZtT01DWmE5ajN2ZEFoNUxERDNVZXZTQklLTWFtdkhaQXVoWkZIbzVOeTBTVHJoQnJJY3FDeEczQWNDVmZaOXJvcy11RnVPZ2FZZHJ5SU1HSG1XdzJ3eHhiT3NkNkxjYmc1azFaRzBzMDhvTmN0aVJJYWR0dmNGRXgxZHBJa21vakhHZzNoRllnOFdtVWQ4WFEtblhOYUhDcnRrZV82cHRRdGp2Z29PWE1RMElVQ1pEZk5KMTd5ZnJTcllhZFI?oc=5)
+
+2026-11-01 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
+
+Source: [L'Eco di Bergamo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlFZNVppUWZtT01DWmE5ajN2ZEFoNUxERDNVZXZTQklLTWFtdkhaQXVoWkZIbzVOeTBTVHJoQnJJY3FDeEczQWNDVmZaOXJvcy11RnVPZ2FZZHJ5SU1HSG1XdzJ3eHhiT3NkNkxjYmc1azFaRzBzMDhvTmN0aVJJYWR0dmNGRXgxZHBJa21vakhHZzNoRllnOFdtVWQ4WFEtblhOYUhDcnRrZV82cHRRdGp2Z29PWE1RMElVQ1pEZk5KMTd5ZnJTcllhZFI?oc=5)
 
 ---
 
@@ -63,22 +71,6 @@ Source: [Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbG1
 
 ---
 
-### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmowVk9KR29VWWRXWkZxcWhZUWx0VmtlRGxzNGNfdE1HNGZHdHRhNF9wUVo0RHdkdmhzdFVuOEg3cndrNXIwMjYzR241VUE2QmJEaFc1WklubU1QS3JHRDVXM1FVLTk5MEZZdFhVOFJDeThJc0ZzUzhCTzFLTzRiTTAtLVhHWjlKbEhfQ2hGd20yQ2ZOMDZyZVpJQndDZHd0WV9NZENPV3RpUWIxUzRhOHVnWkZDWGdGV1Fn?oc=5)
-
-2026-10-31 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmowVk9KR29VWWRXWkZxcWhZUWx0VmtlRGxzNGNfdE1HNGZHdHRhNF9wUVo0RHdkdmhzdFVuOEg3cndrNXIwMjYzR241VUE2QmJEaFc1WklubU1QS3JHRDVXM1FVLTk5MEZZdFhVOFJDeThJc0ZzUzhCTzFLTzRiTTAtLVhHWjlKbEhfQ2hGd20yQ2ZOMDZyZVpJQndDZHd0WV9NZENPV3RpUWIxUzRhOHVnWkZDWGdGV1Fn?oc=5)
-
----
-
-### [Mar Freijo, neuróloga: «Entre un 80 y un 90 % de los ictus se podrían evitar» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUnVGT3BqWURGdE9xTGtPOXoxQ3dkZktsYU5ET2JNSEFSZXotXzlpZkFNMWtEMG82V2pRa0N6U2RCVXdyOENEMFBZNHBVdVZsTFRXNjl3R0lUWWVvU2dmQkZWRmg3NUNLZlJEQzVKLWNWZ2psRm1pN0ZyVVQ5NmJYNEVkaUpFU1NNZGkyZnhYUlJHeWxJd1RIY19HdXI3a1lVRUFjdjM3a0hyNkV1R1RaTGpKMzVkQThUcGlhV0RhMlRkblFkY28zc0NzWDhRbzdsWFJyOGtNODAwVHFL?oc=5)
-
-2026-10-31 <span class="news-indication-tag">ictus</span>
-
-Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUnVGT3BqWURGdE9xTGtPOXoxQ3dkZktsYU5ET2JNSEFSZXotXzlpZkFNMWtEMG82V2pRa0N6U2RCVXdyOENEMFBZNHBVdVZsTFRXNjl3R0lUWWVvU2dmQkZWRmg3NUNLZlJEQzVKLWNWZ2psRm1pN0ZyVVQ5NmJYNEVkaUpFU1NNZGkyZnhYUlJHeWxJd1RIY19HdXI3a1lVRUFjdjM3a0hyNkV1R1RaTGpKMzVkQThUcGlhV0RhMlRkblFkY28zc0NzWDhRbzdsWFJyOGtNODAwVHFL?oc=5)
-
----
-
 ### [Cibi ultraprocessati, non contano solo le calorie: cosa succede al cervello e all'insulina - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1gFBVV95cUxObmFaYVFsdi04QXdIVDZkX1RTWVI0MTBTUjJoRXVYMTdkTkZNR3JVOGJFVjdHem9DNGg2dmxuRWY1SE5hRG9aNXdaYlJfTDE2MmIzdTJ1V093c29lOGJ6a2pPakxoR1FBVnl5eFFtNElLLXp1OWxWc1VGOU5ySXFVbTFFNlNlRXh6LURiQkRnOFVhemJXd3FRdG1xN0N6Zm9Qb2d3ZE44M0VrTjk2MkF3bHFrUk5XZ3lfaG5jNkduRDFQTThvajRHNTVhWVFPZno1SzhxLUt30gG8AUFVX3lxTE85MkFzRVRhcHd5ZGxrdTBxX0pQZDdpUUVPelhHU1pLOFJKY2hMLUFyb2ZNZ0RyU1czbGdUTXhWcjBfSzVMYjJ6c2JoOUpVMVVwWmNMSU5nSlFiUmZrdENHenp2NHhtODBhR1ZQbW9xRXlpVWxMeC1nWnl0SFgxSUZrdjZOTEtXN3VDdWhYNnVReTVmS3p3cDdHNDhhcEVWakl6RloyX01xcXZGOUs3UU02S291bHljSk1jNV9o?oc=5)
 
 2026-10-30 <span class="news-indication-tag">ictus</span>
@@ -89,33 +81,41 @@ Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1gFBV
 
 ### ['A stroke aged 43 changed my sense of who I was,' says Oxford man](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
-2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
 ---
 
-### [OAC After Brain Bleed in AF Tied to Lower Stroke Risk](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGN6R0R1OTdwVHdhZmR5Nm1LYndFMTdWWDQ2Z2VuUnNRUklmdTJQVWNYTE8tWVQ2ekVrQUFCTTdzUlEzSXVxejVNUVJORGRpVVJJVURtVTdFalBZVE15TklvOUpyaFYta2QyenF4YmpLcF81bkEwNWVwcTRsMDdhejIwMkN3LXJWalZ6anRJQk9EQ0wweGgtWVl1cXplYjllOXc?oc=5)
+### [Detectar a tiempo la arritmia cardíaca más frecuente previene el ictus en mujeres de más de 65 años - El Periódico](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN2RzZHBQZ21ILXhtOFlYY183cW5ycF96MTQ3RlVQVDdaLWtEdnBrWlFkVVRpTzVWR3VQcFduNHJSUUhvTk9oeDdUQjdnQlZZV0hrR0UtLUVOdXpDcWhjbGdaOWlDR1NBUlBvNDkxclBiRXFWdFRQakQ0UHAzQjBCb29jOHp1V2d3Z1NkVnVGNWpaRmVNZGNiTnp0YUJTVVh4WlZvMUxJa3pmWVZBb2NKZDZzYzZtVlpNYy1qT01CTl9fbTRUMU4ybGFFSHhwVl9KWTY4dk5neGFQdXF0NHfSAd4BQVVfeXFMUDBiWkJWVHFweDBKVm5aTGJxckRWZGh0TDViQWZkTTNuZDI4UkNKNFJDMHNOU0Yta3J4T01rbXpLU21JenBZeWxhTnZsTVlCZkpXckpSZm9MMGlheVlFenFfRENnSE5aclRnaG81RWdkZ2tuOUM1OUdrNmtrUTV5SVY1MnRsUV9RWFpPazFVVy1LbnhIejRmMnhxQnVocTlhUk5OaDFGX3p0WmFwVFFldnZDTWFFY3l3d3ZFRUU1Q0NqdkxiazhmVk4zeGcwOWZqN21lQlEzWmNFS2dfT3Vn?oc=5)
 
-2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-10-29 <span class="news-indication-tag">ictus</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGN6R0R1OTdwVHdhZmR5Nm1LYndFMTdWWDQ2Z2VuUnNRUklmdTJQVWNYTE8tWVQ2ekVrQUFCTTdzUlEzSXVxejVNUVJORGRpVVJJVURtVTdFalBZVE15TklvOUpyaFYta2QyenF4YmpLcF81bkEwNWVwcTRsMDdhejIwMkN3LXJWalZ6anRJQk9EQ0wweGgtWVl1cXplYjllOXc?oc=5)
-
----
-
-### [Santé. Paralysie faciale, perte de vue... Voici les cinq symptômes d'un accident vasculaire cérébral (AVC) - Le Progrès](https://news.google.com/rss/articles/CBMivgFBVV95cUxPaG9TNEVDMndqRmxBbXd6Sk9fZXdYTlBTdzkwa3piRzJFcmZWbTlfbGk4MFN6aERaSUN4X20zdkk2SDlPUkFwSm9uQTBKckptYmJjMDJjUFZJdUhuVVhHX2puVkZITlNxU190QnRhVUJ0VjQyOVZucmRvVnFlbHVrOS1UUUx2MFZJRzVzMmZYVXBET3pkel9yb01aQnllME54NHVSdlZaa3g5dW42X21MWFlhSUJ4TjRYNnJkRFp3?oc=5)
-
-2026-10-29 <span class="news-indication-tag">accident vasculaire cérébral</span>
-
-Source: [Le Progrès](https://news.google.com/rss/articles/CBMivgFBVV95cUxPaG9TNEVDMndqRmxBbXd6Sk9fZXdYTlBTdzkwa3piRzJFcmZWbTlfbGk4MFN6aERaSUN4X20zdkk2SDlPUkFwSm9uQTBKckptYmJjMDJjUFZJdUhuVVhHX2puVkZITlNxU190QnRhVUJ0VjQyOVZucmRvVnFlbHVrOS1UUUx2MFZJRzVzMmZYVXBET3pkel9yb01aQnllME54NHVSdlZaa3g5dW42X21MWFlhSUJ4TjRYNnJkRFp3?oc=5)
+Source: [El Periódico](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN2RzZHBQZ21ILXhtOFlYY183cW5ycF96MTQ3RlVQVDdaLWtEdnBrWlFkVVRpTzVWR3VQcFduNHJSUUhvTk9oeDdUQjdnQlZZV0hrR0UtLUVOdXpDcWhjbGdaOWlDR1NBUlBvNDkxclBiRXFWdFRQakQ0UHAzQjBCb29jOHp1V2d3Z1NkVnVGNWpaRmVNZGNiTnp0YUJTVVh4WlZvMUxJa3pmWVZBb2NKZDZzYzZtVlpNYy1qT01CTl9fbTRUMU4ybGFFSHhwVl9KWTY4dk5neGFQdXF0NHfSAd4BQVVfeXFMUDBiWkJWVHFweDBKVm5aTGJxckRWZGh0TDViQWZkTTNuZDI4UkNKNFJDMHNOU0Yta3J4T01rbXpLU21JenBZeWxhTnZsTVlCZkpXckpSZm9MMGlheVlFenFfRENnSE5aclRnaG81RWdkZ2tuOUM1OUdrNmtrUTV5SVY1MnRsUV9RWFpPazFVVy1LbnhIejRmMnhxQnVocTlhUk5OaDFGX3p0WmFwVFFldnZDTWFFY3l3d3ZFRUU1Q0NqdkxiazhmVk4zeGcwOWZqN21lQlEzWmNFS2dfT3Vn?oc=5)
 
 ---
 
-### [Giornata mondiale ictus cerebrale, come prevenirlo e come riconoscere i primi segnali - Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
+### [Los ictus aumentan pese a bajar las tasas por edad: investigadores explican esta contradicción](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdUN2WlVEY1ZUc2NGQnVtQnNMX1ZvZVRRLUw1VlhudFc1VFFkaW5IVXhubWFMd3JSTVVCUDNjdmFBbDAxRGZtM2x5NkdKYm83OVJqOTl5Mm1GTHpnSmJfaTY3WnpnaERNUkQzb1RtV0FaRWJfSFNqZzc2Mm13bFROSGUtV25waThwNDFmNHctb3hhR21IVHdleGhxM0l4UXdSVXVESFRzdURHRXQxMkY4Y202MmhQVU95WDAybnoxQVhaYi1jMFZYVVhwZFkyWXR2bU9vSk5VM2E1eEdsQWNibHdB?oc=5)
 
-2026-10-29 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
+2026-10-29 <span class="news-indication-tag">ictus</span>
 
-Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdUN2WlVEY1ZUc2NGQnVtQnNMX1ZvZVRRLUw1VlhudFc1VFFkaW5IVXhubWFMd3JSTVVCUDNjdmFBbDAxRGZtM2x5NkdKYm83OVJqOTl5Mm1GTHpnSmJfaTY3WnpnaERNUkQzb1RtV0FaRWJfSFNqZzc2Mm13bFROSGUtV25waThwNDFmNHctb3hhR21IVHdleGhxM0l4UXdSVXVESFRzdURHRXQxMkY4Y202MmhQVU95WDAybnoxQVhaYi1jMFZYVVhwZFkyWXR2bU9vSk5VM2E1eEdsQWNibHdB?oc=5)
+
+---
+
+### ["90 % des AVC sont évitables" : pour mieux se protéger, les bons conseils des professionnels soignants à l’hôpital de Niort](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZDJkOGc1ODlXS1doZjh1RE5PUHBCWDcxZWgwQ0MzZl9EeFFLdlpJVkRBaDF2WjJVNmRFNGVKOVVQejZkcmdlbXB1UEY2bWtXbTFpb1hlYzdQT3IyUjJzVlJhblVHX2NCNV9SNDFuRzF1blZRZHRJclE1eFVreXJWTmNUeThuenNENGRnazR6VHZkV2g1VjdxMW42NmtsMkdNZ3RhTlBoZUQwQ1hBc3JsOVkwMHhJUmxkM0xQeExsRjZ2XzJrOXVqc2NwZkNXT2Z2N2syTTZlTFhUZVRNUE5lUGpnUVdQQ09XQlUxcjc2bFRUWVMyZmlGLXdTTG0yQQ?oc=5)
+
+2026-10-29 <span class="news-indication-tag">AVC</span>
+
+Source: [lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZDJkOGc1ODlXS1doZjh1RE5PUHBCWDcxZWgwQ0MzZl9EeFFLdlpJVkRBaDF2WjJVNmRFNGVKOVVQejZkcmdlbXB1UEY2bWtXbTFpb1hlYzdQT3IyUjJzVlJhblVHX2NCNV9SNDFuRzF1blZRZHRJclE1eFVreXJWTmNUeThuenNENGRnazR6VHZkV2g1VjdxMW42NmtsMkdNZ3RhTlBoZUQwQ1hBc3JsOVkwMHhJUmxkM0xQeExsRjZ2XzJrOXVqc2NwZkNXT2Z2N2syTTZlTFhUZVRNUE5lUGpnUVdQQ09XQlUxcjc2bFRUWVMyZmlGLXdTTG0yQQ?oc=5)
+
+---
+
+### [Impfungen: Mehr als Schutz vor Infektionen? – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
+
+2026-10-28 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
 
 ---
 

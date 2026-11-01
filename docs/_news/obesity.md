@@ -3,7 +3,7 @@ layout: default
 title: "obésité (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obésité (obesity). 5 articles, 8 related drugs."
+description: "Health news about obésité (obesity). 4 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-11-01
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about obésité (obesity)?">
-<strong>obésité (obesity)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<strong>obésité (obesity)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,29 +34,21 @@ This page brings together the latest health news about “obésité” and lists
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [Prix, effets secondaires, remboursement… Tout ce qu’il faut savoir sur le Wegovy, traitement contre l'obésité qui arrive lundi en comprimé dans les pharmacies](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmpNbGtPUFk0LUEwLUlhSVJ1Rnlfa3lCX1RSbW5DNnZLaENyckQ0WjdPSVAxV3VOajUtOHFKanY4RVRGWkxkX3JuaFM2ay1MTjdrb0pFRHdoTTJlNThDLVhjTlgxLWNkV1A3MmtHU0VZR1lJTTg4MTF0bmM2ZjUxX25ZRkE3dXdBdkVMUm5oMUs4NW9nYXg3SHlRNC1IV2lGNG9wNTRPNndxRWNqZWVwSWpFS0U?oc=5)
+### [Santé. Jusqu'à « 18 mois de délai » pour les médicaments anti-obésité : les consultations prises d’assaut - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUtCMlRnZWpGNHJJSHVFbWc5X3ZnNzF2U0R0X2lPOGl3TXR1aWVYOW4xaWN5WW5mTmVaRlpmalh2dXEyUnlDVFEzcjZNSGJ3SzJOa2xwOFRHWmE2YUhVQmVfZlgzTko2MzExemdfTC1xZ2pFN0lUdk9xTTExaTNyelZHMFhzMm03dHlWT2hXbENiS0N0Z1FJdDluUDg0SUd2d0hLQnFFbF9iOUpaS2tMdk4zVFFQdWdHX0xRZlJ2MUR3TkpOVkFSNW5jR2ZLSjJfT3c?oc=5)
 
 2026-11-01
 
-Source: [CNews](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmpNbGtPUFk0LUEwLUlhSVJ1Rnlfa3lCX1RSbW5DNnZLaENyckQ0WjdPSVAxV3VOajUtOHFKanY4RVRGWkxkX3JuaFM2ay1MTjdrb0pFRHdoTTJlNThDLVhjTlgxLWNkV1A3MmtHU0VZR1lJTTg4MTF0bmM2ZjUxX25ZRkE3dXdBdkVMUm5oMUs4NW9nYXg3SHlRNC1IV2lGNG9wNTRPNndxRWNqZWVwSWpFS0U?oc=5)
+Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUtCMlRnZWpGNHJJSHVFbWc5X3ZnNzF2U0R0X2lPOGl3TXR1aWVYOW4xaWN5WW5mTmVaRlpmalh2dXEyUnlDVFEzcjZNSGJ3SzJOa2xwOFRHWmE2YUhVQmVfZlgzTko2MzExemdfTC1xZ2pFN0lUdk9xTTExaTNyelZHMFhzMm03dHlWT2hXbENiS0N0Z1FJdDluUDg0SUd2d0hLQnFFbF9iOUpaS2tMdk4zVFFQdWdHX0xRZlJ2MUR3TkpOVkFSNW5jR2ZLSjJfT3c?oc=5)
 
 ---
 
-### [Fettleber: Jeder vierte Erwachsene in Deutschland ist betroffen](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNBMTRGYUJ3SHd2eG9Rb3RJUzU0NkFpNXpmTW9YMnhRaXk5ZFJkZUhMTGRnZXZUa3ZTOEFGaC1nVThROFlFSFRqQmRrOHFSX2s1bkM2Ykp6Ti1tQnVHdEFuVk1XNFhvTm9wQi1nMXVzQW8ydWxGeksyd3hnRG1BOW5kNTF2d3VTaVhCZzFDem5zMUc2RHd0TF9FMjNqTlo3cVdtMmhEY1ZjOGo4eWl4LQ?oc=5)
+### [Il farmaco anti-obesità Wegovy in compresse: data, prezzo, rimborso… tutto sull’arrivo del trattamento in Italia.](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdjVVNy1oRzNIdDVtNkxsQ1lQbVUtQXJtWTZoSXg3a0xOdVBjaGRmNk92Vy01ZHhsSnBJMjl2ME9mSElncjBYNnJwQlF5c0twQ2o4c1RQTkYzeEZZd0Y0d1R6VFAzMHRfaFBrakRCbXFmNzZOako3bEc1VEl6MEZmalJ0RnR1WTNKZ0ZOWEpCcVhONDdNYVZHN1ZIMjBDWFJuTzVBOTNVM1JmT2dzXzNHaU9LOFE4dXZvd3dCcFYwbE14a3NWcERfX1g5RmdxR00zV2o5cUZ4SzVmWTA2ZlZ1QjlLLXRELUE?oc=5)
 
-2026-10-31
+2026-10-30
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNBMTRGYUJ3SHd2eG9Rb3RJUzU0NkFpNXpmTW9YMnhRaXk5ZFJkZUhMTGRnZXZUa3ZTOEFGaC1nVThROFlFSFRqQmRrOHFSX2s1bkM2Ykp6Ti1tQnVHdEFuVk1XNFhvTm9wQi1nMXVzQW8ydWxGeksyd3hnRG1BOW5kNTF2d3VTaVhCZzFDem5zMUc2RHd0TF9FMjNqTlo3cVdtMmhEY1ZjOGo4eWl4LQ?oc=5)
-
----
-
-### [Retatrutide bei Schlafapnoe: Zwei Phase-3-Studien zeigen weniger Atempausen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVRlMm9hMUROUmlEUG1fY2h4aHVYZ3JuQlBNd2lKUURfeEFrMFMtdDlfRXBKRGhVbTNMZ3RGdVJQbDN2aHVMZHd3OEdTMWZIUVBZWGszMDh2bV9Fdjg4dlBUdXZEQmlXVVBvMFRMYXBJVjNnVjdCUGJPWlVyMUlKV2Z3LXJnU1otZ2hoS3U5SzVLWHVoWU51QURHakhmYktxSFNYV2ZkVEdlbHM1Z2hPd2NQTk84UmE3VVhHdm5XSjc?oc=5)
-
-2026-10-31
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVRlMm9hMUROUmlEUG1fY2h4aHVYZ3JuQlBNd2lKUURfeEFrMFMtdDlfRXBKRGhVbTNMZ3RGdVJQbDN2aHVMZHd3OEdTMWZIUVBZWGszMDh2bV9Fdjg4dlBUdXZEQmlXVVBvMFRMYXBJVjNnVjdCUGJPWlVyMUlKV2Z3LXJnU1otZ2hoS3U5SzVLWHVoWU51QURHakhmYktxSFNYV2ZkVEdlbHM1Z2hPd2NQTk84UmE3VVhHdm5XSjc?oc=5)
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdjVVNy1oRzNIdDVtNkxsQ1lQbVUtQXJtWTZoSXg3a0xOdVBjaGRmNk92Vy01ZHhsSnBJMjl2ME9mSElncjBYNnJwQlF5c0twQ2o4c1RQTkYzeEZZd0Y0d1R6VFAzMHRfaFBrakRCbXFmNzZOako3bEc1VEl6MEZmalJ0RnR1WTNKZ0ZOWEpCcVhONDdNYVZHN1ZIMjBDWFJuTzVBOTNVM1JmT2dzXzNHaU9LOFE4dXZvd3dCcFYwbE14a3NWcERfX1g5RmdxR00zV2o5cUZ4SzVmWTA2ZlZ1QjlLLXRELUE?oc=5)
 
 ---
 

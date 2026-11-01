@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Iloprost?">
-<strong>Iloprost</strong> currently has <strong>1 news articles</strong>, with 4 predicted indications.
+<strong>Iloprost</strong> currently has <strong>2 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ This page combines the AI-predicted indications for Iloprost with the latest hea
 <p><a href="{{ '/drugs/iloprost/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Giornata mondiale ictus cerebrale, come prevenirlo e come riconoscere i primi segnali - Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
+### [Longevity: Zwei Werte zeigen, wie gut Sie altern – und jeder kann sie selbst messen - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisAFBVV95cUxQenVaY2VhVlo5TUt3R2V1UlcyeXRza3d6ZVotRUpQazcyTTdXRHhDWkNxMUJ4TVVNRjNEejJISzlfNWVmTnc5eHV6d3cwSXFEQjVPd3pnYlZrVkVWcnplMS1ycE5XdERtbFhEOU9yWVZrVUUzZmg3V0tzUzhaR2Rza0RwaG83RDdQZm9iNjRnWG1uTlZMX0xHTDk1cHNZYmxDUFhRSldKOUpIWTdOYVJrZg?oc=5)
 
-2026-10-29 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
+2026-11-01 <span class="news-indication-tag">Bluthochdruck</span>
 
-Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
+Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisAFBVV95cUxQenVaY2VhVlo5TUt3R2V1UlcyeXRza3d6ZVotRUpQazcyTTdXRHhDWkNxMUJ4TVVNRjNEejJISzlfNWVmTnc5eHV6d3cwSXFEQjVPd3pnYlZrVkVWcnplMS1ycE5XdERtbFhEOU9yWVZrVUUzZmg3V0tzUzhaR2Rza0RwaG83RDdQZm9iNjRnWG1uTlZMX0xHTDk1cHNZYmxDUFhRSldKOUpIWTdOYVJrZg?oc=5)
+
+---
+
+### [Ictus, troppo sale e ipertensione. Gli italiani non si controllano - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlFZNVppUWZtT01DWmE5ajN2ZEFoNUxERDNVZXZTQklLTWFtdkhaQXVoWkZIbzVOeTBTVHJoQnJJY3FDeEczQWNDVmZaOXJvcy11RnVPZ2FZZHJ5SU1HSG1XdzJ3eHhiT3NkNkxjYmc1azFaRzBzMDhvTmN0aVJJYWR0dmNGRXgxZHBJa21vakhHZzNoRllnOFdtVWQ4WFEtblhOYUhDcnRrZV82cHRRdGp2Z29PWE1RMElVQ1pEZk5KMTd5ZnJTcllhZFI?oc=5)
+
+2026-11-01 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
+
+Source: [L'Eco di Bergamo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlFZNVppUWZtT01DWmE5ajN2ZEFoNUxERDNVZXZTQklLTWFtdkhaQXVoWkZIbzVOeTBTVHJoQnJJY3FDeEczQWNDVmZaOXJvcy11RnVPZ2FZZHJ5SU1HSG1XdzJ3eHhiT3NkNkxjYmc1azFaRzBzMDhvTmN0aVJJYWR0dmNGRXgxZHBJa21vakhHZzNoRllnOFdtVWQ4WFEtblhOYUhDcnRrZV82cHRRdGp2Z29PWE1RMElVQ1pEZk5KMTd5ZnJTcllhZFI?oc=5)
 
 ---
 

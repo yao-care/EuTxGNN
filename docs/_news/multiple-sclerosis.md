@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 14 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 11 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 last_modified_at: 2026-11-01
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>14 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>11 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -46,13 +46,13 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (14)
+## Related News (11)
 
-### [El SMS realiza 135.000 revisiones infantiles al año en los 86 centros de salud de la Región de Murcia - Cartagena Actualidad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEhuYkpWb0lFTFJXV05pV1ZaR29oUk13dmVBTjN2TWdBa2ZaRDBCUHVGMWZlVmdkMEdtVDhqWlpiX1I5UGtnd3hYTjV0b090dG1UWFRJREl2TWNrNVVidUNyUnpibU9sOHFtVC02dktLUGVpS0t6bVlzZXVsOUg3ekJrSWpOX2dkeS1ST09Pa25ybkZZUndkYlMwVFUtNW56T3gzVC1xUGZDMFNfUkVOMjZZZU5WS3hKaG95cW1LeC1weGNUcW95YkxxOHdLS3AxeXViZzgzQmZKLVXSAeABQVVfeXFMUHk2OG5SS2dBMUx2VmFjbzJqdzJEQWFDMWFhZTNMS0lIYTdLVkZIOW92OU1xdzI4UWZtZDM3djhCTXRQU0Mxc29Kc3JQcnJ4VVdpaTdzOXNHcjYxY3VuWFNUa2hKUzZGQ29vN2E1Z1FtUnFMZFhvWUs3YXhZTm1Pa1R0YWdLMkZ1aF9GSmV3NlRBM3J4N0FXV3VwajRDVE1TMjNabGU2X1RxTkU4c01MMGJxV3ctU3ZhUTlOUlFScjFFUzhyMmFGSEl3bVdyMGtjNkJrcDNfeDNTUXBiZmdvS3E?oc=5)
+### [Shamonda “no cumple criterios” para su declaración obligatoria pero la OMS Animal ya trabaja en más planes de prevención - Redacción médica](https://news.google.com/rss/articles/CBMilAJBVV95cUxNUVM4NGtMTlA3SXMxUkhFSEpUR1E3VXRHRDZqTE5IZ3dBQ1VaemV5c0hLTnZaN0VuV0Z2Ni1QYVFaak1ONUFPel9BQ3JQbzN5NUFXampyOHp3WmdFNklYdEhBN0F1ZW9ueDhPZk9EN0xqV01veUZCWEZ3VXRoT1c5ZTZYM0lGV0I1bXl1R1FJdVIxbkFQMGhZb3RBYWFEQndodWpBcFRQbVRQVl9UbEZlUE55ZnI3c2hPQUtqS3gzUVhlRVByME9zek1LN1UyNmV4M3IzUFVtb1NUSEgycEJpUkNPSjAyTmhfX0V1RE1FbWxWdF9IeXJndkRHOWxjQU8xc2ZKR3RWXzdNNmlYeEpaQ2FuNDbSAZoCQVVfeXFMTVN6cEdVS2dpbHVIajRpWjJVLUVmV2FUR19GdkY0TWNoOTFPbnRlOUsyaW1BVlRpN0NZbDRGeEZ3a05MNnhhOGxscl9IVWl6MEpHenVSS1hVYUpyYXdEUTZXcW1vR2FXYm5pcUdmWS1lT2hOOUlrRXhoLUIyVEwyR3NHTkR0anVBRldYMmVzQ2tGVEd3Y2czWUN4c0tpZXN6dkU4d09IXzlUeU1vbE1tSmtOYzVweXNFMUNvWGplbGtzNzBqcVVXaHF2emNrdFFUdkZGZndjUm1DQ3RnXzhOeUJpRmZTTXlzQllEeTFiQmRHS3hRV0t4TTZuM3QtWnVfWDZQTzQxdlRvTmpqUmd0cGNnZTBUVU8zdURn?oc=5)
 
 2026-11-01
 
-Source: [Cartagena Actualidad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEhuYkpWb0lFTFJXV05pV1ZaR29oUk13dmVBTjN2TWdBa2ZaRDBCUHVGMWZlVmdkMEdtVDhqWlpiX1I5UGtnd3hYTjV0b090dG1UWFRJREl2TWNrNVVidUNyUnpibU9sOHFtVC02dktLUGVpS0t6bVlzZXVsOUg3ekJrSWpOX2dkeS1ST09Pa25ybkZZUndkYlMwVFUtNW56T3gzVC1xUGZDMFNfUkVOMjZZZU5WS3hKaG95cW1LeC1weGNUcW95YkxxOHdLS3AxeXViZzgzQmZKLVXSAeABQVVfeXFMUHk2OG5SS2dBMUx2VmFjbzJqdzJEQWFDMWFhZTNMS0lIYTdLVkZIOW92OU1xdzI4UWZtZDM3djhCTXRQU0Mxc29Kc3JQcnJ4VVdpaTdzOXNHcjYxY3VuWFNUa2hKUzZGQ29vN2E1Z1FtUnFMZFhvWUs3YXhZTm1Pa1R0YWdLMkZ1aF9GSmV3NlRBM3J4N0FXV3VwajRDVE1TMjNabGU2X1RxTkU4c01MMGJxV3ctU3ZhUTlOUlFScjFFUzhyMmFGSEl3bVdyMGtjNkJrcDNfeDNTUXBiZmdvS3E?oc=5)
+Source: [Redacción médica](https://news.google.com/rss/articles/CBMilAJBVV95cUxNUVM4NGtMTlA3SXMxUkhFSEpUR1E3VXRHRDZqTE5IZ3dBQ1VaemV5c0hLTnZaN0VuV0Z2Ni1QYVFaak1ONUFPel9BQ3JQbzN5NUFXampyOHp3WmdFNklYdEhBN0F1ZW9ueDhPZk9EN0xqV01veUZCWEZ3VXRoT1c5ZTZYM0lGV0I1bXl1R1FJdVIxbkFQMGhZb3RBYWFEQndodWpBcFRQbVRQVl9UbEZlUE55ZnI3c2hPQUtqS3gzUVhlRVByME9zek1LN1UyNmV4M3IzUFVtb1NUSEgycEJpUkNPSjAyTmhfX0V1RE1FbWxWdF9IeXJndkRHOWxjQU8xc2ZKR3RWXzdNNmlYeEpaQ2FuNDbSAZoCQVVfeXFMTVN6cEdVS2dpbHVIajRpWjJVLUVmV2FUR19GdkY0TWNoOTFPbnRlOUsyaW1BVlRpN0NZbDRGeEZ3a05MNnhhOGxscl9IVWl6MEpHenVSS1hVYUpyYXdEUTZXcW1vR2FXYm5pcUdmWS1lT2hOOUlrRXhoLUIyVEwyR3NHTkR0anVBRldYMmVzQ2tGVEd3Y2czWUN4c0tpZXN6dkU4d09IXzlUeU1vbE1tSmtOYzVweXNFMUNvWGplbGtzNzBqcVVXaHF2emNrdFFUdkZGZndjUm1DQ3RnXzhOeUJpRmZTTXlzQllEeTFiQmRHS3hRV0t4TTZuM3QtWnVfWDZQTzQxdlRvTmpqUmd0cGNnZTBUVU8zdURn?oc=5)
 
 ---
 
@@ -69,14 +69,6 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEhpRmpYa
 2026-10-31
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxPS01waEdPZU9jMGdyM1VpQk1EVlppMFZ1TUxSeHBRaVNFczJla3p3SFlQVU0zUVZUTUVZalJ4NVVXNy1OTG93ZGxxZXQxX2phUUJBeGR0QWNOS29ubmRxR3MyanNCV1hjcGRWUnVVTGQzLUR0bm01YmVVVy1KRmtUcl9ubWxfelc5ZGFWUFcwclhIVnZiYVFEbmFsdUVfN0V0Y2ZONW5KZm5NNGtkS2RRS2h3?oc=5)
-
----
-
-### [Stimmstörungen als KI-Signal: Studie verknüpft Stimme, Hörverlust und Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkpVb0hnMVlDdktNUU5PWHllS1ExRUNGZVR2WWRVZVlwQm16SG44UjhwYnVxYW5ibDI0aFVmY19ZaDM0SllsVE5BOUJuX0k2VFd1akhaMjVoRTlWVnpreHRCQTlOZW9pMDhpc29tRDZ4aU5hSVVTTFlRM1hIR3UzdkZaRE94cmxZam5adWxIUHdSejFDc3lFNGQ3MlN2dFhNRWhwV3ZvX0U3WWhINWdjS2pmSkIxUQ?oc=5)
-
-2026-10-31
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkpVb0hnMVlDdktNUU5PWHllS1ExRUNGZVR2WWRVZVlwQm16SG44UjhwYnVxYW5ibDI0aFVmY19ZaDM0SllsVE5BOUJuX0k2VFd1akhaMjVoRTlWVnpreHRCQTlOZW9pMDhpc29tRDZ4aU5hSVVTTFlRM1hIR3UzdkZaRE94cmxZam5adWxIUHdSejFDc3lFNGQ3MlN2dFhNRWhwV3ZvX0U3WWhINWdjS2pmSkIxUQ?oc=5)
 
 ---
 
@@ -104,22 +96,6 @@ Source: [Reuters](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGhJWWhSQ
 
 ---
 
-### [What is American Covid strain that is sweeping UK and how worried should we be? - Belfast Telegraph](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUlM2a25sMHBNa1A0Ym9xN2hzLW1wV2RyY2VBRWs0XzUzVURsdHdQUWZ1TWJlZDItVWtMRE5VY01WLUdWNi1BUk5FeUZaYVRtT0hMa2YwYzVOX053SkRZTVZqRVJ3aHpuM1VIZFYzOWU3UHdQSmZRckFzRTktSE1lalZIWmo0WEtIQVdtLV9xS2FZTVU5RUQ3THVJMllaNk1YM3hacnRYZUE0a2ZvbUhjSUdFT1VxQkw1REFWRkFySnRzQWZBNHh5Y1VEREo2UHNkbm1BVF84anJfdw?oc=5)
-
-2026-10-31
-
-Source: [Belfast Telegraph](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUlM2a25sMHBNa1A0Ym9xN2hzLW1wV2RyY2VBRWs0XzUzVURsdHdQUWZ1TWJlZDItVWtMRE5VY01WLUdWNi1BUk5FeUZaYVRtT0hMa2YwYzVOX053SkRZTVZqRVJ3aHpuM1VIZFYzOWU3UHdQSmZRckFzRTktSE1lalZIWmo0WEtIQVdtLV9xS2FZTVU5RUQ3THVJMllaNk1YM3hacnRYZUE0a2ZvbUhjSUdFT1VxQkw1REFWRkFySnRzQWZBNHh5Y1VEREo2UHNkbm1BVF84anJfdw?oc=5)
-
----
-
-### [Monifieth dad’s shock stage three bowel cancer diagnosis: ‘I had no symptoms’ - The Courier](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUm1HQVRaTFp6MmI0Q21pZUN2bnBkOGhYZ0VXcUx6WXFBX1NibFF4WEsxWlVCYmFxM2ptcDhSeGhoVWVtZGY4NWU0d3I1ZlRCRU9NcG9QNmN3NDZXU2t1N2JMQ3A3RGp5RTQyN0FyVi1NR2FwU3BMUkpOYkthQk14T1Jad2VqbzVURm9GcFAtQURiR05ia05CNnNuVmEyeEphRGEyU1NNTU5IZklSQ3I1YWF0elRZYTZSTVd3ZWM4MnlfTHdzMERmVjZPOGVXaHI0S0tMOFNsaTI?oc=5)
-
-2026-10-31
-
-Source: [The Courier](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUm1HQVRaTFp6MmI0Q21pZUN2bnBkOGhYZ0VXcUx6WXFBX1NibFF4WEsxWlVCYmFxM2ptcDhSeGhoVWVtZGY4NWU0d3I1ZlRCRU9NcG9QNmN3NDZXU2t1N2JMQ3A3RGp5RTQyN0FyVi1NR2FwU3BMUkpOYkthQk14T1Jad2VqbzVURm9GcFAtQURiR05ia05CNnNuVmEyeEphRGEyU1NNTU5IZklSQ3I1YWF0elRZYTZSTVd3ZWM4MnlfTHdzMERmVjZPOGVXaHI0S0tMOFNsaTI?oc=5)
-
----
-
 ### [Sclerosi multipla, una molecola sperimentale stimola la riparazione nervosa](https://news.google.com/rss/articles/CBMizwFBVV95cUxNN1hGTFllc1lrYmJnS3Q4c1hTeWJhMEV3SkxmanV0RkUyaHd1dURlZGxUc2tRUzE0S2MxVFJ2b0hwdE11eGxwMzJvSFVVY3VDZFdTZkFUc3gybnh1TlFZckJoMzJzZm82RFhkOUtGcHVnZUNWMjY2UC11eWJIUmhrSHhrLUo4ZkZtM0FTX0IyU1EzNG5Wa2Voams5VEhRQU1RRnNsM3VlRG15NVJybGp5OGIyTWxFYU0xU2prSTc4NXZtdGcxdl9YNWkzVWE0bXc?oc=5)
 
 2026-10-30
@@ -136,11 +112,11 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQXg3VU9QT
 
 ---
 
-### [UK government’s obesity plan ‘doomed to fail’, MPs warn - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
+### ['A stroke aged 43 changed my sense of who I was,' says Oxford man](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
 2026-10-30
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
 ---
 

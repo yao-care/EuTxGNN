@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Cabotegravir?">
-<strong>Cabotegravir</strong> currently has <strong>17 news articles</strong>, with 5 predicted indications.
+<strong>Cabotegravir</strong> currently has <strong>15 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Cabotegravir with the latest
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (15)
+
+### [Un nuevo aceite enriquecido promete frenar el daño renal en diabéticos: por qué es una buena noticia y por qué no sirve tu aceite del supermercado](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPblBFand6WGQ5SlJaVmxRd2ZwMWFjTGllWWdXaEozdGRRUXE2Mm5TY0I0WGE0TnBXWkRvXzF2WUNNUm5zeFNxSFRnT0wwV0dkNFAyS05ieHg0aC1sMjVLd1RuaVFmaWdoT3dGMkRfQTJVR1o2V0pFVDkyVkstUllBMThhVDMySzh4N3Q0MjUwc0I2U1ktUUpqSnFva2V6M0pxa0xWZE5pVlRraFg2TDFTSmMtdWFOdldOSVBHS2l2M0lvNEZGbnVCbXNIcjVwTmpTV04wQlZnMmhaM0U1NWtVamk3d1Z3SVg1Y2930gHwAUFVX3lxTE9NSm1aMEU1dktYNHZmSkpnRGhPcjZMX1J0bXFwUV9tYVhTcDI0SmFPU0FGbkZkVkdCaVhWazZGSk9iam9iMHN3TTB6eVJjbnJjdm5oMkg5cWpETGdlUThFREFBT0Z6dHdzTV93bkUyOWR4UnhqQm5jYklzT1VqUGhUSG5jY010a1dPZ0ZGUUFDa0VWODBGM0M1U2dhWXpobjdZMVlWMGEzaUhlMFlScDhsNUZBQTZ1M1ZtNHl3c0Fjd0VBUXRQaER2em9KMEdKUVVpd3JjVGFJQ0lQRzF0VEFfWEFHNjREOG1lOG1UY1I5RA?oc=5)
+
+2026-11-01 <span class="news-indication-tag">diabetes</span>
+
+Source: [Xataka](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPblBFand6WGQ5SlJaVmxRd2ZwMWFjTGllWWdXaEozdGRRUXE2Mm5TY0I0WGE0TnBXWkRvXzF2WUNNUm5zeFNxSFRnT0wwV0dkNFAyS05ieHg0aC1sMjVLd1RuaVFmaWdoT3dGMkRfQTJVR1o2V0pFVDkyVkstUllBMThhVDMySzh4N3Q0MjUwc0I2U1ktUUpqSnFva2V6M0pxa0xWZE5pVlRraFg2TDFTSmMtdWFOdldOSVBHS2l2M0lvNEZGbnVCbXNIcjVwTmpTV04wQlZnMmhaM0U1NWtVamk3d1Z3SVg1Y2930gHwAUFVX3lxTE9NSm1aMEU1dktYNHZmSkpnRGhPcjZMX1J0bXFwUV9tYVhTcDI0SmFPU0FGbkZkVkdCaVhWazZGSk9iam9iMHN3TTB6eVJjbnJjdm5oMkg5cWpETGdlUThFREFBT0Z6dHdzTV93bkUyOWR4UnhqQm5jYklzT1VqUGhUSG5jY010a1dPZ0ZGUUFDa0VWODBGM0M1U2dhWXpobjdZMVlWMGEzaUhlMFlScDhsNUZBQTZ1M1ZtNHl3c0Fjd0VBUXRQaER2em9KMEdKUVVpd3JjVGFJQ0lQRzF0VEFfWEFHNjREOG1lOG1UY1I5RA?oc=5)
+
+---
 
 ### [Artritis psoriásica: más allá de la piel - Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
 
@@ -57,7 +65,7 @@ Source: [Denkstrom](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWUQ1R0Z
 
 ### [Fettleber: Jeder vierte Erwachsene in Deutschland ist betroffen](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNBMTRGYUJ3SHd2eG9Rb3RJUzU0NkFpNXpmTW9YMnhRaXk5ZFJkZUhMTGRnZXZUa3ZTOEFGaC1nVThROFlFSFRqQmRrOHFSX2s1bkM2Ykp6Ti1tQnVHdEFuVk1XNFhvTm9wQi1nMXVzQW8ydWxGeksyd3hnRG1BOW5kNTF2d3VTaVhCZzFDem5zMUc2RHd0TF9FMjNqTlo3cVdtMmhEY1ZjOGo4eWl4LQ?oc=5)
 
-2026-10-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-10-31 <span class="news-indication-tag">diabetes</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNBMTRGYUJ3SHd2eG9Rb3RJUzU0NkFpNXpmTW9YMnhRaXk5ZFJkZUhMTGRnZXZUa3ZTOEFGaC1nVThROFlFSFRqQmRrOHFSX2s1bkM2Ykp6Ti1tQnVHdEFuVk1XNFhvTm9wQi1nMXVzQW8ydWxGeksyd3hnRG1BOW5kNTF2d3VTaVhCZzFDem5zMUc2RHd0TF9FMjNqTlo3cVdtMmhEY1ZjOGo4eWl4LQ?oc=5)
 
@@ -87,22 +95,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcX
 
 ---
 
-### [BPCO: fiato corto nonostante gli inalatori, un esame del sangue può orientare nuove cure](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTV80dkpNeWZ4b3FFb3Z2R3AyOHJBZlNBQ0IwdEFkY1Zyck42S0VITVVIeFM2MEJrMXZTdjBJcXZLRkw0Q0ZsWFVoVE1TdzVSbHI0M3kwV2ljbERxQzVoQTZPMjVMMGZoQ3R2LXE4bU1kcTVGcWkwbS0zZHFxX29NMlF4TF9oU2k3SWpFdnFpTnk1d2VHRTlLS2JqaUtGbWpyWmhPV3RnUEZNUWxJNjROTFBpYWo0MGowSDVBdExhdlY0TDhRcUFOal8zWEQwck83Y2c5Z3dRdVotaFk3SjdF?oc=5)
-
-2026-10-30 <span class="news-indication-tag">BPCO</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTV80dkpNeWZ4b3FFb3Z2R3AyOHJBZlNBQ0IwdEFkY1Zyck42S0VITVVIeFM2MEJrMXZTdjBJcXZLRkw0Q0ZsWFVoVE1TdzVSbHI0M3kwV2ljbERxQzVoQTZPMjVMMGZoQ3R2LXE4bU1kcTVGcWkwbS0zZHFxX29NMlF4TF9oU2k3SWpFdnFpTnk1d2VHRTlLS2JqaUtGbWpyWmhPV3RnUEZNUWxJNjROTFBpYWo0MGowSDVBdExhdlY0TDhRcUFOal8zWEQwck83Y2c5Z3dRdVotaFk3SjdF?oc=5)
-
----
-
-### [Fegato grasso: la novità per evitare l’ago e lo stress della biopsia - The Wom Healthy](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmRBM1ByalBVc2p0UTlnS3cwUVpfTFFzSk5taWR1bGxKWjBFTUhQaGdHZHU4Nkp2R3MwcjJxbWwxQXNXbWlKTnIwdi1qMzdtZmpnWF91RWhSMklKa0ZkS2Z2ZV81STlUdC1ZeTdKaVN1NU9NRTVrS1dnendiazJwbmZmdFlycXhTekFPeTcxLU94WndfejNrcWU2cXpQakZnNTBrZ2h2MTV3SEpJUUxj?oc=5)
-
-2026-10-30 <span class="news-indication-tag">diabetic</span>
-
-Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmRBM1ByalBVc2p0UTlnS3cwUVpfTFFzSk5taWR1bGxKWjBFTUhQaGdHZHU4Nkp2R3MwcjJxbWwxQXNXbWlKTnIwdi1qMzdtZmpnWF91RWhSMklKa0ZkS2Z2ZV81STlUdC1ZeTdKaVN1NU9NRTVrS1dnendiazJwbmZmdFlycXhTekFPeTcxLU94WndfejNrcWU2cXpQakZnNTBrZ2h2MTV3SEpJUUxj?oc=5)
-
----
-
 ### [Diabetes Herbsttagung 2026: Programm und Highlights - Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQUdNUUIxc3BWaWxtc3BHSGRtSHVyZXFLTk1xcDNpaDhqVWVhU3dOY3NuNVF6akdVWlJfeGFwakE5ZEtnMmlZbVU0VnIwYWxPeFM2QVV2WFZLMWlhVUoxVlE5VWN2aXFkYXByZzl4ODRfQkRacmt4N0ZkbUQ1VTgwYTVrdmJuTVpENnZUNWFRUDhIVVZBa3dTQVhXa2lQQlp5cExOemowR04?oc=5)
 
 2026-10-29 <span class="news-indication-tag">diabetes</span>
@@ -111,11 +103,11 @@ Source: [Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ
 
 ---
 
-### [Diabète : cet implant révolutionnaire pourrait éliminer une partie du sucre en excès dans le sang](https://news.google.com/rss/articles/CBMikgFBVV95cUxPS2Q2OTlPa2dJWmxSTGZ5RzYwV0U1YXV3SzNoLXQ5b0hXQUxScE5hSDlEYTQ2ZDJ3cUFSVDZzODVGdjJxQ2p1OVEzTFhBeW1ZelBabGMycVduSEpDVTBFNFphNHI4cUlWVWpFZUV4NXJoU2pqeGlNZE1mVF8yczJpM3QxTFhVanpsMGU4cUp4a3ZSZw?oc=5)
+### [Sistemas de asa cerrada completa: la paradoja de “desaprender” para simplificar el manejo de la diabetes tipo 1](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSzFUNnN3NVFZM2ltdWhvcDRUY3dfODV2NUJsVjJ2eXFPZHYzSTJFR3N3aExHYXBUTi1MLWlxcEJxQ3RNeGJnZUduaTUzeUNjSllCSlY4WW9HRndOYmNzTHE4WnNUckloc05WNUlFNUQwVl9BOU5TWW03ZmRidWEyTGxzQkE5UVQ1bWtkaE5OV1N3NUQwbnRNSjRzVlNqWjZoVXE2bU9ZYjB4a19VTFJWR2pmRTYxczQ4dFB2bHo4NlYwUFEydEotTDZ0eVBvN19PTnE0?oc=5)
 
-2026-10-29 <span class="news-indication-tag">diabète</span>
+2026-10-29 <span class="news-indication-tag">diabetes</span>
 
-Source: [PasseportSanté](https://news.google.com/rss/articles/CBMikgFBVV95cUxPS2Q2OTlPa2dJWmxSTGZ5RzYwV0U1YXV3SzNoLXQ5b0hXQUxScE5hSDlEYTQ2ZDJ3cUFSVDZzODVGdjJxQ2p1OVEzTFhBeW1ZelBabGMycVduSEpDVTBFNFphNHI4cUlWVWpFZUV4NXJoU2pqeGlNZE1mVF8yczJpM3QxTFhVanpsMGU4cUp4a3ZSZw?oc=5)
+Source: [iSanidad](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSzFUNnN3NVFZM2ltdWhvcDRUY3dfODV2NUJsVjJ2eXFPZHYzSTJFR3N3aExHYXBUTi1MLWlxcEJxQ3RNeGJnZUduaTUzeUNjSllCSlY4WW9HRndOYmNzTHE4WnNUckloc05WNUlFNUQwVl9BOU5TWW03ZmRidWEyTGxzQkE5UVQ1bWtkaE5OV1N3NUQwbnRNSjRzVlNqWjZoVXE2bU9ZYjB4a19VTFJWR2pmRTYxczQ4dFB2bHo4NlYwUFEydEotTDZ0eVBvN19PTnE0?oc=5)
 
 ---
 
@@ -156,14 +148,6 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV9
 2026-10-27 <span class="news-indication-tag">diabetes</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxOcTlCa3MtcmhUWWdkbkxYWVRzMEprRE50VDBPLW5QcWs4QTFGV0RKbzZQdS0zUFJ3NzBqMFJjTjNmeERsc255OGVLRXJZVllYWWtLMHZraUxfU3hIOFFKaG8zamRDQWd5OHR5NFdLV2pHQUNIaTBTX1VfTFdrdzRjeVlyM3Awam94V0JyYTZ1YXlVNVVqR1E?oc=5)
-
----
-
-### [Un aceite de oliva para mejorar el funcionamiento del riñón en personas con diabetes tipo 2 - The Conversation](https://news.google.com/rss/articles/CBMixAFBVV95cUxORTZ2a2MycmJPbTNseG40enJyZzVfREdFWVBwSHZsdGVWYVVQdkpvVEx3WHIxbVJIM0dtcUg3NEVsZ1JfZ0tSWm44dXotcHVVWjBLRzBZOE1mZFJVRDU0OHJLZjgtZDlNcFRMbldPTFZKd2x1bFQ2SGxQc0h1YmpBMUI3cjk2RjFTYkJ4U3ZXUUE3bVc3eXo5bERkVWVxWGE2eVRtSjVrc3lqcUwxcVFtMUlpbXd1YU1GYWtjTzU2amtfM21Z?oc=5)
-
-2026-10-26 <span class="news-indication-tag">diabetes</span>
-
-Source: [The Conversation](https://news.google.com/rss/articles/CBMixAFBVV95cUxORTZ2a2MycmJPbTNseG40enJyZzVfREdFWVBwSHZsdGVWYVVQdkpvVEx3WHIxbVJIM0dtcUg3NEVsZ1JfZ0tSWm44dXotcHVVWjBLRzBZOE1mZFJVRDU0OHJLZjgtZDlNcFRMbldPTFZKd2x1bFQ2SGxQc0h1YmpBMUI3cjk2RjFTYkJ4U3ZXUUE3bVc3eXo5bERkVWVxWGE2eVRtSjVrc3lqcUwxcVFtMUlpbXd1YU1GYWtjTzU2amtfM21Z?oc=5)
 
 ---
 

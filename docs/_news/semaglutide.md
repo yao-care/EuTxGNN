@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Prix, effets secondaires, remboursement… Tout ce qu’il faut savoir sur le Wegovy, traitement contre l'obésité qui arrive lundi en comprimé dans les pharmacies](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmpNbGtPUFk0LUEwLUlhSVJ1Rnlfa3lCX1RSbW5DNnZLaENyckQ0WjdPSVAxV3VOajUtOHFKanY4RVRGWkxkX3JuaFM2ay1MTjdrb0pFRHdoTTJlNThDLVhjTlgxLWNkV1A3MmtHU0VZR1lJTTg4MTF0bmM2ZjUxX25ZRkE3dXdBdkVMUm5oMUs4NW9nYXg3SHlRNC1IV2lGNG9wNTRPNndxRWNqZWVwSWpFS0U?oc=5)
+### [Santé. Jusqu'à « 18 mois de délai » pour les médicaments anti-obésité : les consultations prises d’assaut - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUtCMlRnZWpGNHJJSHVFbWc5X3ZnNzF2U0R0X2lPOGl3TXR1aWVYOW4xaWN5WW5mTmVaRlpmalh2dXEyUnlDVFEzcjZNSGJ3SzJOa2xwOFRHWmE2YUhVQmVfZlgzTko2MzExemdfTC1xZ2pFN0lUdk9xTTExaTNyelZHMFhzMm03dHlWT2hXbENiS0N0Z1FJdDluUDg0SUd2d0hLQnFFbF9iOUpaS2tMdk4zVFFQdWdHX0xRZlJ2MUR3TkpOVkFSNW5jR2ZLSjJfT3c?oc=5)
 
 2026-11-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
-Source: [CNews](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmpNbGtPUFk0LUEwLUlhSVJ1Rnlfa3lCX1RSbW5DNnZLaENyckQ0WjdPSVAxV3VOajUtOHFKanY4RVRGWkxkX3JuaFM2ay1MTjdrb0pFRHdoTTJlNThDLVhjTlgxLWNkV1A3MmtHU0VZR1lJTTg4MTF0bmM2ZjUxX25ZRkE3dXdBdkVMUm5oMUs4NW9nYXg3SHlRNC1IV2lGNG9wNTRPNndxRWNqZWVwSWpFS0U?oc=5)
+Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUtCMlRnZWpGNHJJSHVFbWc5X3ZnNzF2U0R0X2lPOGl3TXR1aWVYOW4xaWN5WW5mTmVaRlpmalh2dXEyUnlDVFEzcjZNSGJ3SzJOa2xwOFRHWmE2YUhVQmVfZlgzTko2MzExemdfTC1xZ2pFN0lUdk9xTTExaTNyelZHMFhzMm03dHlWT2hXbENiS0N0Z1FJdDluUDg0SUd2d0hLQnFFbF9iOUpaS2tMdk4zVFFQdWdHX0xRZlJ2MUR3TkpOVkFSNW5jR2ZLSjJfT3c?oc=5)
+
+---
+
+### [Il farmaco anti-obesità Wegovy in compresse: data, prezzo, rimborso… tutto sull’arrivo del trattamento in Italia.](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdjVVNy1oRzNIdDVtNkxsQ1lQbVUtQXJtWTZoSXg3a0xOdVBjaGRmNk92Vy01ZHhsSnBJMjl2ME9mSElncjBYNnJwQlF5c0twQ2o4c1RQTkYzeEZZd0Y0d1R6VFAzMHRfaFBrakRCbXFmNzZOako3bEc1VEl6MEZmalJ0RnR1WTNKZ0ZOWEpCcVhONDdNYVZHN1ZIMjBDWFJuTzVBOTNVM1JmT2dzXzNHaU9LOFE4dXZvd3dCcFYwbE14a3NWcERfX1g5RmdxR00zV2o5cUZ4SzVmWTA2ZlZ1QjlLLXRELUE?oc=5)
+
+2026-10-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdjVVNy1oRzNIdDVtNkxsQ1lQbVUtQXJtWTZoSXg3a0xOdVBjaGRmNk92Vy01ZHhsSnBJMjl2ME9mSElncjBYNnJwQlF5c0twQ2o4c1RQTkYzeEZZd0Y0d1R6VFAzMHRfaFBrakRCbXFmNzZOako3bEc1VEl6MEZmalJ0RnR1WTNKZ0ZOWEpCcVhONDdNYVZHN1ZIMjBDWFJuTzVBOTNVM1JmT2dzXzNHaU9LOFE4dXZvd3dCcFYwbE14a3NWcERfX1g5RmdxR00zV2o5cUZ4SzVmWTA2ZlZ1QjlLLXRELUE?oc=5)
 
 ---
 

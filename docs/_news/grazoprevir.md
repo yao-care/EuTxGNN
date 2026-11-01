@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Grazoprevir?">
-<strong>Grazoprevir</strong> currently has <strong>15 news articles</strong>, with 10 predicted indications.
+<strong>Grazoprevir</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ This page combines the AI-predicted indications for Grazoprevir with the latest 
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (12)
 
-### [El SMS realiza 135.000 revisiones infantiles al año en los 86 centros de salud de la Región de Murcia - Cartagena Actualidad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEhuYkpWb0lFTFJXV05pV1ZaR29oUk13dmVBTjN2TWdBa2ZaRDBCUHVGMWZlVmdkMEdtVDhqWlpiX1I5UGtnd3hYTjV0b090dG1UWFRJREl2TWNrNVVidUNyUnpibU9sOHFtVC02dktLUGVpS0t6bVlzZXVsOUg3ekJrSWpOX2dkeS1ST09Pa25ybkZZUndkYlMwVFUtNW56T3gzVC1xUGZDMFNfUkVOMjZZZU5WS3hKaG95cW1LeC1weGNUcW95YkxxOHdLS3AxeXViZzgzQmZKLVXSAeABQVVfeXFMUHk2OG5SS2dBMUx2VmFjbzJqdzJEQWFDMWFhZTNMS0lIYTdLVkZIOW92OU1xdzI4UWZtZDM3djhCTXRQU0Mxc29Kc3JQcnJ4VVdpaTdzOXNHcjYxY3VuWFNUa2hKUzZGQ29vN2E1Z1FtUnFMZFhvWUs3YXhZTm1Pa1R0YWdLMkZ1aF9GSmV3NlRBM3J4N0FXV3VwajRDVE1TMjNabGU2X1RxTkU4c01MMGJxV3ctU3ZhUTlOUlFScjFFUzhyMmFGSEl3bVdyMGtjNkJrcDNfeDNTUXBiZmdvS3E?oc=5)
+### [Shamonda “no cumple criterios” para su declaración obligatoria pero la OMS Animal ya trabaja en más planes de prevención - Redacción médica](https://news.google.com/rss/articles/CBMilAJBVV95cUxNUVM4NGtMTlA3SXMxUkhFSEpUR1E3VXRHRDZqTE5IZ3dBQ1VaemV5c0hLTnZaN0VuV0Z2Ni1QYVFaak1ONUFPel9BQ3JQbzN5NUFXampyOHp3WmdFNklYdEhBN0F1ZW9ueDhPZk9EN0xqV01veUZCWEZ3VXRoT1c5ZTZYM0lGV0I1bXl1R1FJdVIxbkFQMGhZb3RBYWFEQndodWpBcFRQbVRQVl9UbEZlUE55ZnI3c2hPQUtqS3gzUVhlRVByME9zek1LN1UyNmV4M3IzUFVtb1NUSEgycEJpUkNPSjAyTmhfX0V1RE1FbWxWdF9IeXJndkRHOWxjQU8xc2ZKR3RWXzdNNmlYeEpaQ2FuNDbSAZoCQVVfeXFMTVN6cEdVS2dpbHVIajRpWjJVLUVmV2FUR19GdkY0TWNoOTFPbnRlOUsyaW1BVlRpN0NZbDRGeEZ3a05MNnhhOGxscl9IVWl6MEpHenVSS1hVYUpyYXdEUTZXcW1vR2FXYm5pcUdmWS1lT2hOOUlrRXhoLUIyVEwyR3NHTkR0anVBRldYMmVzQ2tGVEd3Y2czWUN4c0tpZXN6dkU4d09IXzlUeU1vbE1tSmtOYzVweXNFMUNvWGplbGtzNzBqcVVXaHF2emNrdFFUdkZGZndjUm1DQ3RnXzhOeUJpRmZTTXlzQllEeTFiQmRHS3hRV0t4TTZuM3QtWnVfWDZQTzQxdlRvTmpqUmd0cGNnZTBUVU8zdURn?oc=5)
 
 2026-11-01 <span class="news-indication-tag">MS</span>
 
-Source: [Cartagena Actualidad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEhuYkpWb0lFTFJXV05pV1ZaR29oUk13dmVBTjN2TWdBa2ZaRDBCUHVGMWZlVmdkMEdtVDhqWlpiX1I5UGtnd3hYTjV0b090dG1UWFRJREl2TWNrNVVidUNyUnpibU9sOHFtVC02dktLUGVpS0t6bVlzZXVsOUg3ekJrSWpOX2dkeS1ST09Pa25ybkZZUndkYlMwVFUtNW56T3gzVC1xUGZDMFNfUkVOMjZZZU5WS3hKaG95cW1LeC1weGNUcW95YkxxOHdLS3AxeXViZzgzQmZKLVXSAeABQVVfeXFMUHk2OG5SS2dBMUx2VmFjbzJqdzJEQWFDMWFhZTNMS0lIYTdLVkZIOW92OU1xdzI4UWZtZDM3djhCTXRQU0Mxc29Kc3JQcnJ4VVdpaTdzOXNHcjYxY3VuWFNUa2hKUzZGQ29vN2E1Z1FtUnFMZFhvWUs3YXhZTm1Pa1R0YWdLMkZ1aF9GSmV3NlRBM3J4N0FXV3VwajRDVE1TMjNabGU2X1RxTkU4c01MMGJxV3ctU3ZhUTlOUlFScjFFUzhyMmFGSEl3bVdyMGtjNkJrcDNfeDNTUXBiZmdvS3E?oc=5)
+Source: [Redacción médica](https://news.google.com/rss/articles/CBMilAJBVV95cUxNUVM4NGtMTlA3SXMxUkhFSEpUR1E3VXRHRDZqTE5IZ3dBQ1VaemV5c0hLTnZaN0VuV0Z2Ni1QYVFaak1ONUFPel9BQ3JQbzN5NUFXampyOHp3WmdFNklYdEhBN0F1ZW9ueDhPZk9EN0xqV01veUZCWEZ3VXRoT1c5ZTZYM0lGV0I1bXl1R1FJdVIxbkFQMGhZb3RBYWFEQndodWpBcFRQbVRQVl9UbEZlUE55ZnI3c2hPQUtqS3gzUVhlRVByME9zek1LN1UyNmV4M3IzUFVtb1NUSEgycEJpUkNPSjAyTmhfX0V1RE1FbWxWdF9IeXJndkRHOWxjQU8xc2ZKR3RWXzdNNmlYeEpaQ2FuNDbSAZoCQVVfeXFMTVN6cEdVS2dpbHVIajRpWjJVLUVmV2FUR19GdkY0TWNoOTFPbnRlOUsyaW1BVlRpN0NZbDRGeEZ3a05MNnhhOGxscl9IVWl6MEpHenVSS1hVYUpyYXdEUTZXcW1vR2FXYm5pcUdmWS1lT2hOOUlrRXhoLUIyVEwyR3NHTkR0anVBRldYMmVzQ2tGVEd3Y2czWUN4c0tpZXN6dkU4d09IXzlUeU1vbE1tSmtOYzVweXNFMUNvWGplbGtzNzBqcVVXaHF2emNrdFFUdkZGZndjUm1DQ3RnXzhOeUJpRmZTTXlzQllEeTFiQmRHS3hRV0t4TTZuM3QtWnVfWDZQTzQxdlRvTmpqUmd0cGNnZTBUVU8zdURn?oc=5)
 
 ---
 
@@ -68,14 +68,6 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxPS01wa
 
 ---
 
-### [Stimmstörungen als KI-Signal: Studie verknüpft Stimme, Hörverlust und Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkpVb0hnMVlDdktNUU5PWHllS1ExRUNGZVR2WWRVZVlwQm16SG44UjhwYnVxYW5ibDI0aFVmY19ZaDM0SllsVE5BOUJuX0k2VFd1akhaMjVoRTlWVnpreHRCQTlOZW9pMDhpc29tRDZ4aU5hSVVTTFlRM1hIR3UzdkZaRE94cmxZam5adWxIUHdSejFDc3lFNGQ3MlN2dFhNRWhwV3ZvX0U3WWhINWdjS2pmSkIxUQ?oc=5)
-
-2026-10-31 <span class="news-indication-tag">MS</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkpVb0hnMVlDdktNUU5PWHllS1ExRUNGZVR2WWRVZVlwQm16SG44UjhwYnVxYW5ibDI0aFVmY19ZaDM0SllsVE5BOUJuX0k2VFd1akhaMjVoRTlWVnpreHRCQTlOZW9pMDhpc29tRDZ4aU5hSVVTTFlRM1hIR3UzdkZaRE94cmxZam5adWxIUHdSejFDc3lFNGQ3MlN2dFhNRWhwV3ZvX0U3WWhINWdjS2pmSkIxUQ?oc=5)
-
----
-
 ### [Après 18 ans de traitements, une femme apprend qu'elle n'a jamais été atteinte de sclérose en plaques - Yahoo Actualités](https://news.google.com/rss/articles/CBMidEFVX3lxTE9EM2FEOVR1Sk5KZW1EckhBNW5KYjNrYkx4dVpwMURfSV9abnNtYWI3cUxPWUplNDZMZFJHUWJLdG0yMExFTF9FU2RRNVpoUTNwT2xoa0VMMUVVNm9tZWxSVHQ4anVjdXFIdEwyd010YUJ3V2h3?oc=5)
 
 2026-10-31 <span class="news-indication-tag">sclérose en plaques</span>
@@ -86,7 +78,7 @@ Source: [Yahoo Actualités](https://news.google.com/rss/articles/CBMidEFVX3lxTE9
 
 ### [Retatrutide bei Schlafapnoe: Zwei Phase-3-Studien zeigen weniger Atempausen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVRlMm9hMUROUmlEUG1fY2h4aHVYZ3JuQlBNd2lKUURfeEFrMFMtdDlfRXBKRGhVbTNMZ3RGdVJQbDN2aHVMZHd3OEdTMWZIUVBZWGszMDh2bV9Fdjg4dlBUdXZEQmlXVVBvMFRMYXBJVjNnVjdCUGJPWlVyMUlKV2Z3LXJnU1otZ2hoS3U5SzVLWHVoWU51QURHakhmYktxSFNYV2ZkVEdlbHM1Z2hPd2NQTk84UmE3VVhHdm5XSjc?oc=5)
 
-2026-10-31 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVRlMm9hMUROUmlEUG1fY2h4aHVYZ3JuQlBNd2lKUURfeEFrMFMtdDlfRXBKRGhVbTNMZ3RGdVJQbDN2aHVMZHd3OEdTMWZIUVBZWGszMDh2bV9Fdjg4dlBUdXZEQmlXVVBvMFRMYXBJVjNnVjdCUGJPWlVyMUlKV2Z3LXJnU1otZ2hoS3U5SzVLWHVoWU51QURHakhmYktxSFNYV2ZkVEdlbHM1Z2hPd2NQTk84UmE3VVhHdm5XSjc?oc=5)
 
@@ -97,22 +89,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZV
 2026-10-31 <span class="news-indication-tag">MS</span>
 
 Source: [Reuters](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGhJWWhSQmlnbnVWNzVkN18yWnhPUEg5LTlOZVpQQXZVcF8yWU5CMGJ6QVVUbzJUa2UwXzlJeS1TU1IteEdfdGVIVmRZcTJuSDllOE96YjAtLWlfR3JvblFzZE9tenFGRVdwdkMtYzU4bldVS2ZzX3NxaEF5Q2x5RS1MVVl2OTdsTG5peGd0VlJDYWgtOUZ4Q3dKb01KTE1pYzJ5Sjljdk1WajJRR1VOVGIzMkNpcmd2QkV3RTVMbW9qS20xTkZuYUFGaFd4bFFwNWc?oc=5)
-
----
-
-### [What is American Covid strain that is sweeping UK and how worried should we be? - Belfast Telegraph](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUlM2a25sMHBNa1A0Ym9xN2hzLW1wV2RyY2VBRWs0XzUzVURsdHdQUWZ1TWJlZDItVWtMRE5VY01WLUdWNi1BUk5FeUZaYVRtT0hMa2YwYzVOX053SkRZTVZqRVJ3aHpuM1VIZFYzOWU3UHdQSmZRckFzRTktSE1lalZIWmo0WEtIQVdtLV9xS2FZTVU5RUQ3THVJMllaNk1YM3hacnRYZUE0a2ZvbUhjSUdFT1VxQkw1REFWRkFySnRzQWZBNHh5Y1VEREo2UHNkbm1BVF84anJfdw?oc=5)
-
-2026-10-31 <span class="news-indication-tag">MS</span>
-
-Source: [Belfast Telegraph](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUlM2a25sMHBNa1A0Ym9xN2hzLW1wV2RyY2VBRWs0XzUzVURsdHdQUWZ1TWJlZDItVWtMRE5VY01WLUdWNi1BUk5FeUZaYVRtT0hMa2YwYzVOX053SkRZTVZqRVJ3aHpuM1VIZFYzOWU3UHdQSmZRckFzRTktSE1lalZIWmo0WEtIQVdtLV9xS2FZTVU5RUQ3THVJMllaNk1YM3hacnRYZUE0a2ZvbUhjSUdFT1VxQkw1REFWRkFySnRzQWZBNHh5Y1VEREo2UHNkbm1BVF84anJfdw?oc=5)
-
----
-
-### [Monifieth dad’s shock stage three bowel cancer diagnosis: ‘I had no symptoms’ - The Courier](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUm1HQVRaTFp6MmI0Q21pZUN2bnBkOGhYZ0VXcUx6WXFBX1NibFF4WEsxWlVCYmFxM2ptcDhSeGhoVWVtZGY4NWU0d3I1ZlRCRU9NcG9QNmN3NDZXU2t1N2JMQ3A3RGp5RTQyN0FyVi1NR2FwU3BMUkpOYkthQk14T1Jad2VqbzVURm9GcFAtQURiR05ia05CNnNuVmEyeEphRGEyU1NNTU5IZklSQ3I1YWF0elRZYTZSTVd3ZWM4MnlfTHdzMERmVjZPOGVXaHI0S0tMOFNsaTI?oc=5)
-
-2026-10-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-Source: [The Courier](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUm1HQVRaTFp6MmI0Q21pZUN2bnBkOGhYZ0VXcUx6WXFBX1NibFF4WEsxWlVCYmFxM2ptcDhSeGhoVWVtZGY4NWU0d3I1ZlRCRU9NcG9QNmN3NDZXU2t1N2JMQ3A3RGp5RTQyN0FyVi1NR2FwU3BMUkpOYkthQk14T1Jad2VqbzVURm9GcFAtQURiR05ia05CNnNuVmEyeEphRGEyU1NNTU5IZklSQ3I1YWF0elRZYTZSTVd3ZWM4MnlfTHdzMERmVjZPOGVXaHI0S0tMOFNsaTI?oc=5)
 
 ---
 
@@ -132,25 +108,25 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQXg3VU9QT
 
 ---
 
-### [UK government’s obesity plan ‘doomed to fail’, MPs warn - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
+### ['A stroke aged 43 changed my sense of who I was,' says Oxford man](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
-2026-10-30 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
 ---
 
-### [Environ 500 patients de ce centre dentaire appelés à se faire dépister contre les virus du VIH et des hépatites B et C - France 3 Régions](https://news.google.com/rss/articles/CBMirAJBVV95cUxQdzJHT1l4ZVpzaU5wNmNfY0xiLXhlYnRhNEo2c19jVEQxU3FmOFl1ZV9DSXNrN0FqQWhXZjNma18yMV9iR29LdWxqc0lJUFRkSUMyMHgwd3dZN01oVi1rTGVPUzZiUDRTb1RicFR3akdhand2N05uc3p2ZkZBaW5aWnh4b1BrR25hT0NicnFaNVBqS0J3UHB2TXNLRWJmNS1xYTNYRTlqbXduNXRWNF9aWTI3MWthMHBpYUNSN2Y5ZWpsUmQ5RDI4MnRRdGtRZ1h5blJXLXRwaVUwYmJSbTZEUHU4YzRnTmZNc3AtNldhM0VTanZOeFFjZ01kQTNubkJ0S2RWRmxiaVhKVUk5d1g5clJJYndtWlhvQno5Y2xLcDdVZzBWQk9kZVBlbkU?oc=5)
+### [Centre dentaire suspendu à Orléans : des dépistages des virus du VIH et des hépatites B et C recommandés pour 500 patients - La République du Centre](https://news.google.com/rss/articles/CBMihwJBVV95cUxQRms3Z1BVSEVrMjFIRGdhb2gxZ1VRRjhNZmNGY1hzMnZhdlB3Y2lGUmg1VWhqU0lVZUJ0bTVPWnVBd2Z2d1ZQaGRwZkFxd0lIWENkNFhqdW1jLWhyWktSbEszZkk2X1laMkpQNFhEbzJqRjZRbDJZYlRhOFRVWWM0V1FDOTlOZUV4QS1lVW04VVRLWUUwYzNDTkdIOGd4MnA5U0pGMnpTMnlKY2tMZlBoNGdyaGJJMzdSQVBVSHVSOHVBdlc3Q1ZnQjlpd2pJUDVFQkpraHlQd2w4dlIwaGJybXkwT2gzVjR3Z2tobnVsZllLT0cyWGhNbkRFeFZ3SVlkN0RQQWFJbw?oc=5)
 
 2026-10-29 <span class="news-indication-tag">hépatite</span>
 
-Source: [France 3 Régions](https://news.google.com/rss/articles/CBMirAJBVV95cUxQdzJHT1l4ZVpzaU5wNmNfY0xiLXhlYnRhNEo2c19jVEQxU3FmOFl1ZV9DSXNrN0FqQWhXZjNma18yMV9iR29LdWxqc0lJUFRkSUMyMHgwd3dZN01oVi1rTGVPUzZiUDRTb1RicFR3akdhand2N05uc3p2ZkZBaW5aWnh4b1BrR25hT0NicnFaNVBqS0J3UHB2TXNLRWJmNS1xYTNYRTlqbXduNXRWNF9aWTI3MWthMHBpYUNSN2Y5ZWpsUmQ5RDI4MnRRdGtRZ1h5blJXLXRwaVUwYmJSbTZEUHU4YzRnTmZNc3AtNldhM0VTanZOeFFjZ01kQTNubkJ0S2RWRmxiaVhKVUk5d1g5clJJYndtWlhvQno5Y2xLcDdVZzBWQk9kZVBlbkU?oc=5)
+Source: [La République du Centre](https://news.google.com/rss/articles/CBMihwJBVV95cUxQRms3Z1BVSEVrMjFIRGdhb2gxZ1VRRjhNZmNGY1hzMnZhdlB3Y2lGUmg1VWhqU0lVZUJ0bTVPWnVBd2Z2d1ZQaGRwZkFxd0lIWENkNFhqdW1jLWhyWktSbEszZkk2X1laMkpQNFhEbzJqRjZRbDJZYlRhOFRVWWM0V1FDOTlOZUV4QS1lVW04VVRLWUUwYzNDTkdIOGd4MnA5U0pGMnpTMnlKY2tMZlBoNGdyaGJJMzdSQVBVSHVSOHVBdlc3Q1ZnQjlpd2pJUDVFQkpraHlQd2w4dlIwaGJybXkwT2gzVjR3Z2tobnVsZllLT0cyWGhNbkRFeFZ3SVlkN0RQQWFJbw?oc=5)
 
 ---
 
 ### [‘Ferritin face’: are social media claims about iron deficiency fact – or fiction? - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2J4QmM3eTRVWlNuYVJ4WGJyU3phN1p4WElxREl2TU96TmdpdlRkbzhkdkxJNi1PTmwzWHBjcHJOUlFCYmZQUUE1MzdYcTNlcVJ0QXpaNUt5TUkwNFJZb3o5cm9WaWJYZEswM25YYWVpS3FJRmJGaDN5d1BhckFEZXFWdVRBXzVoSUMyU1BuMHVoSnJqRW5fZ2xXN0RKZw?oc=5)
 
-2026-10-28 <span class="news-indication-tag">MS</span>
+2026-10-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2J4QmM3eTRVWlNuYVJ4WGJyU3phN1p4WElxREl2TU96TmdpdlRkbzhkdkxJNi1PTmwzWHBjcHJOUlFCYmZQUUE1MzdYcTNlcVJ0QXpaNUt5TUkwNFJZb3o5cm9WaWJYZEswM25YYWVpS3FJRmJGaDN5d1BhckFEZXFWdVRBXzVoSUMyU1BuMHVoSnJqRW5fZ2xXN0RKZw?oc=5)
 
