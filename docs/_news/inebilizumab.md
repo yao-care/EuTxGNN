@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Inebilizumab. 0 predicted indications."
 permalink: /news/inebilizumab/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # Inebilizumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Inebilizumab?">
-<strong>Inebilizumab</strong> currently has <strong>44 news articles</strong>, with 0 predicted indications.
+<strong>Inebilizumab</strong> currently has <strong>46 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,29 @@ This page combines the AI-predicted indications for Inebilizumab with the latest
 <p><a href="{{ '/drugs/inebilizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (44)
+## Related News (46)
 
-### [Blutfette nach Erdnussverzehr mit geringerem Diabetesrisiko verbunden](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdXBCdS1Yd2VwcW94R2J3TFAtcW1ZS3ltRUs3bnBESTd0QVBUVEwybzg4dWoySkdJSnBoOFRlTjdMbXdyMHQ0REM5d21QTUlXcFRubC1HOHJ0TXhKWnJERC1WbEN0TkFfYjZGRjJtMm92WnRfVEhsZ1lhNzFpTFVDVElINGxyS2RldW9leGNCM2NrQlREaDZVRlFIeWRSSkNIcEJ2R2ZoTWxXUQ?oc=5)
+### [Fresh warning over lesser-known cancer linked to sex as UK cases DOUBLE - key symptoms to look out for - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEhpRmpYaGM4M1VERlktZktQREdxRG5jZ09aclk3bzQ0LVYtU2JiR0NkbTdBd3V1cDNqTS1Pa2NLS0dZR3Q3UVpybkI0TXR2Zy1lUFJhMjBERFNZamJYNjBvOTl6MWlxMGdQTm9qMmIyREJDNldObHQyRE9PYmY4ampMeUlOcnpWVVBPSmF3?oc=5)
 
-2026-10-31 <span class="news-indication-tag">diabetes</span>
+2026-11-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-Source: [Scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdXBCdS1Yd2VwcW94R2J3TFAtcW1ZS3ltRUs3bnBESTd0QVBUVEwybzg4dWoySkdJSnBoOFRlTjdMbXdyMHQ0REM5d21QTUlXcFRubC1HOHJ0TXhKWnJERC1WbEN0TkFfYjZGRjJtMm92WnRfVEhsZ1lhNzFpTFVDVElINGxyS2RldW9leGNCM2NrQlREaDZVRlFIeWRSSkNIcEJ2R2ZoTWxXUQ?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEhpRmpYaGM4M1VERlktZktQREdxRG5jZ09aclk3bzQ0LVYtU2JiR0NkbTdBd3V1cDNqTS1Pa2NLS0dZR3Q3UVpybkI0TXR2Zy1lUFJhMjBERFNZamJYNjBvOTl6MWlxMGdQTm9qMmIyREJDNldObHQyRE9PYmY4ampMeUlOcnpWVVBPSmF3?oc=5)
 
 ---
 
 ### [Fettleber: Jeder vierte Erwachsene in Deutschland ist betroffen](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNBMTRGYUJ3SHd2eG9Rb3RJUzU0NkFpNXpmTW9YMnhRaXk5ZFJkZUhMTGRnZXZUa3ZTOEFGaC1nVThROFlFSFRqQmRrOHFSX2s1bkM2Ykp6Ti1tQnVHdEFuVk1XNFhvTm9wQi1nMXVzQW8ydWxGeksyd3hnRG1BOW5kNTF2d3VTaVhCZzFDem5zMUc2RHd0TF9FMjNqTlo3cVdtMmhEY1ZjOGo4eWl4LQ?oc=5)
 
-2026-10-31 <span class="news-indication-tag">diabetes</span>
+2026-10-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNBMTRGYUJ3SHd2eG9Rb3RJUzU0NkFpNXpmTW9YMnhRaXk5ZFJkZUhMTGRnZXZUa3ZTOEFGaC1nVThROFlFSFRqQmRrOHFSX2s1bkM2Ykp6Ti1tQnVHdEFuVk1XNFhvTm9wQi1nMXVzQW8ydWxGeksyd3hnRG1BOW5kNTF2d3VTaVhCZzFDem5zMUc2RHd0TF9FMjNqTlo3cVdtMmhEY1ZjOGo4eWl4LQ?oc=5)
+
+---
+
+### [Una colla radioattiva per colpire il tumore al pancreas: la prima volta al mondo è al Gemelli](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTlFBSEc0NHhXekxfdF95UEI2NUtFdVJkZUtqbFNOSW1aelFObWU0d29mSk9kMXV0cWtZdmVCeFdHd0F1YWIxMkE0b2o2UEhkS1pocU9ZMUZuaURucGI4QWNYX1N3RktsMlhlSXJhX0d1M0Y3Y2xPTXZZTEJTcFJjZzEyYzdOM0FoclNZdXpha0lHam1FSVZ6eUFmZTR2ZFJFRjFSTE5STXM3NU5vQmJvMjhxMDB4cWE2Q2U4OVFBNE01THl1dkFtczZtWXdJQkJEUktTNEZzWENVM2s?oc=5)
+
+2026-10-31 <span class="news-indication-tag">tumor</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTlFBSEc0NHhXekxfdF95UEI2NUtFdVJkZUtqbFNOSW1aelFObWU0d29mSk9kMXV0cWtZdmVCeFdHd0F1YWIxMkE0b2o2UEhkS1pocU9ZMUZuaURucGI4QWNYX1N3RktsMlhlSXJhX0d1M0Y3Y2xPTXZZTEJTcFJjZzEyYzdOM0FoclNZdXpha0lHam1FSVZ6eUFmZTR2ZFJFRjFSTE5STXM3NU5vQmJvMjhxMDB4cWE2Q2U4OVFBNE01THl1dkFtczZtWXdJQkJEUktTNEZzWENVM2s?oc=5)
 
 ---
 
@@ -80,6 +88,14 @@ Source: [Ouest-France](https://news.google.com/rss/articles/CBMikwJBVV95cUxQbWh3
 
 ---
 
+### [El ayuno intermitente y la restricción calórica, nuevas vías de investigación frente al cáncer de hígado](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR3dDQ0F5TkRRMWZZLVduWlpMUDBhSGNnNzdyTjI5RDlSZFJHY3VVZ0Q4YnRqeVBnTmphT1NDcnEwVE1lXzZmNVIwUlJkcjJaU2tiWFhxdG5aTE5veEI0OFFsZldkX3dBc01CcWNyX2t4bXhLMDZCT3BmS2ZxcGNxZGoyQkdIWTFURm9FZ2FubG5FQlNJMGV5SlRWVWdKUGs1SXVnQXlDNzJRYVlXTVpBTjM2cnBnMnF5blpXVzEyb2g1S09WRWJoWkg2b0NMQ2cwUklJa3ltZzVnUzZkajRzdlpfUzRwUkhmX0hVaUlUNlFVZw?oc=5)
+
+2026-10-31 <span class="news-indication-tag">tumor</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR3dDQ0F5TkRRMWZZLVduWlpMUDBhSGNnNzdyTjI5RDlSZFJHY3VVZ0Q4YnRqeVBnTmphT1NDcnEwVE1lXzZmNVIwUlJkcjJaU2tiWFhxdG5aTE5veEI0OFFsZldkX3dBc01CcWNyX2t4bXhLMDZCT3BmS2ZxcGNxZGoyQkdIWTFURm9FZ2FubG5FQlNJMGV5SlRWVWdKUGs1SXVnQXlDNzJRYVlXTVpBTjM2cnBnMnF5blpXVzEyb2g1S09WRWJoWkg2b0NMQ2cwUklJa3ltZzVnUzZkajRzdlpfUzRwUkhmX0hVaUlUNlFVZw?oc=5)
+
+---
+
 ### [Monifieth dad’s shock stage three bowel cancer diagnosis: ‘I had no symptoms’ - The Courier](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUm1HQVRaTFp6MmI0Q21pZUN2bnBkOGhYZ0VXcUx6WXFBX1NibFF4WEsxWlVCYmFxM2ptcDhSeGhoVWVtZGY4NWU0d3I1ZlRCRU9NcG9QNmN3NDZXU2t1N2JMQ3A3RGp5RTQyN0FyVi1NR2FwU3BMUkpOYkthQk14T1Jad2VqbzVURm9GcFAtQURiR05ia05CNnNuVmEyeEphRGEyU1NNTU5IZklSQ3I1YWF0elRZYTZSTVd3ZWM4MnlfTHdzMERmVjZPOGVXaHI0S0tMOFNsaTI?oc=5)
 
 2026-10-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -96,11 +112,19 @@ Source: [Actu.fr](https://news.google.com/rss/articles/CBMijAJBVV95cUxPUmpwdFlpe
 
 ---
 
-### [Una combinación de dos inmunoterapias logra controlar el cáncer de hígado en pacientes de mal pronóstico - Libertad Digital](https://news.google.com/rss/articles/CBMijgJBVV95cUxNZDh4ZzEzc1ltLTY2NU1HTWZuLW9oZW04QS1oYzNiTmdqNUdaaDV3Zzcxd1Y3dG5ObnY5UlJoRlNYSnZzQXNXclp6b0ttejN4RHAzM3ktV093UHQ0ZnVkdlB4bjl5T3p0NlVGbi1sSmJ2RTFvVnpBcnV3YmN4UHBMTnFER05wN014Q1JhUDMtYjY3SW55MkdqUUd6cDI0Tk5ZNHg0UURhaFZtdHQ1bWE2ZlRMOXpoQndKUHNtNzJGNWdXcUNfakQtQ2lYVUZmcmtNd2M0NUtPREd1dnNvdTdZdGlYdDVzaklaeVEzZ1Z1NUFSdnotdTNMQ0llTzlHNERyZkIxcEtoRjBWRkx0c2fSAZgCQVVfeXFMUDNteHFnald3NDFpbld5dlgxZ3ljcjBoc3VLcTRWakotNW84eUpNUmNhcGJUdHFxa2ptTTh5VnU4b3JrVWlvQ1BtcGZnMnlMejBQV20zM3o3TTNBRElXWWpQM1hzYTFsY3hENlNlMUtubFZBWmdiWlNGMTVqcVg4YUVZMWhfRUNmN2g5WVF5TkVENWFsTE42dk9waEtGSzc0YkREV1hDbE93RjR3RGVpNFdxWEhxNl9rcVBpby1uQVFpbUp0WnhwcV9IdkZwRUNrckNRNDRnalloc3Q1ems0b0d5NXBmMTBHNkFDT05ZbkM1c1dBMk9zeUNjNmFCckFVNEFQSm5TSXhXR3h1cE5nZmpHVjFrUVE4dw?oc=5)
+### [Diabetes doesn't stop at the pancreas: 7 organs that pay when blood sugar stays high - The Times of India](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQUhKZUEzTTBmU0V2dUFOZG13bXFLZGpnb215U0VUZ0ZhbF9ORWxadGhFQ19XcGV0WUVsRXVpUHRZM0RpSThzMmgxQ3lhZkhqbDZLdV80WGV0eFIxRGpyckRpNFBzNUVkeXJmVWhGXzJOdm5kRlRNNGxQWG5sRHF1VnZtMHpyaXExVjJ2aFl4bC0xYi1vNjdkWGJ3Q3BfUDNiUUNNU3RtU1MySUhmYnBvY3ZHZFNnTkdoU2tUNjJMaFh2cTFQS3EwZHd6aEMydnAybGZxWVg2V2x4b3VOMkFXLTZDWlTSAewBQVVfeXFMTVRZdFZvZlJ5RDFUMVJIeE1nQWNMQ0YxZ005R29mam5scXgta3NEcm44MWdwZUFSemo1eVNPam91OVI1eXZEY2x6UElseTNJOWhidWFIaHFKRkhzVDIwRFpianllTFRJbV9VNHJkbnlJZWQ1cnlULTQxUTZqX2ptbmNENFAwOHFTLVI1Z2dyeXg0amRGNkRBZ0FnazRBYmcwVWFKUE50RlpkQk1yRndqc1ZvQ3ZmSHZMSUxZdVVfcjI2dmZMcXBvSXBVSEowY0lKcjF3NVZpTTVyeGRoczN1Z20yN0ttNzBETW1SZGU?oc=5)
 
-2026-10-31 <span class="news-indication-tag">cancer</span>
+2026-10-31 <span class="news-indication-tag">diabetes</span>
 
-Source: [Libertad Digital](https://news.google.com/rss/articles/CBMijgJBVV95cUxNZDh4ZzEzc1ltLTY2NU1HTWZuLW9oZW04QS1oYzNiTmdqNUdaaDV3Zzcxd1Y3dG5ObnY5UlJoRlNYSnZzQXNXclp6b0ttejN4RHAzM3ktV093UHQ0ZnVkdlB4bjl5T3p0NlVGbi1sSmJ2RTFvVnpBcnV3YmN4UHBMTnFER05wN014Q1JhUDMtYjY3SW55MkdqUUd6cDI0Tk5ZNHg0UURhaFZtdHQ1bWE2ZlRMOXpoQndKUHNtNzJGNWdXcUNfakQtQ2lYVUZmcmtNd2M0NUtPREd1dnNvdTdZdGlYdDVzaklaeVEzZ1Z1NUFSdnotdTNMQ0llTzlHNERyZkIxcEtoRjBWRkx0c2fSAZgCQVVfeXFMUDNteHFnald3NDFpbld5dlgxZ3ljcjBoc3VLcTRWakotNW84eUpNUmNhcGJUdHFxa2ptTTh5VnU4b3JrVWlvQ1BtcGZnMnlMejBQV20zM3o3TTNBRElXWWpQM1hzYTFsY3hENlNlMUtubFZBWmdiWlNGMTVqcVg4YUVZMWhfRUNmN2g5WVF5TkVENWFsTE42dk9waEtGSzc0YkREV1hDbE93RjR3RGVpNFdxWEhxNl9rcVBpby1uQVFpbUp0WnhwcV9IdkZwRUNrckNRNDRnalloc3Q1ems0b0d5NXBmMTBHNkFDT05ZbkM1c1dBMk9zeUNjNmFCckFVNEFQSm5TSXhXR3h1cE5nZmpHVjFrUVE4dw?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQUhKZUEzTTBmU0V2dUFOZG13bXFLZGpnb215U0VUZ0ZhbF9ORWxadGhFQ19XcGV0WUVsRXVpUHRZM0RpSThzMmgxQ3lhZkhqbDZLdV80WGV0eFIxRGpyckRpNFBzNUVkeXJmVWhGXzJOdm5kRlRNNGxQWG5sRHF1VnZtMHpyaXExVjJ2aFl4bC0xYi1vNjdkWGJ3Q3BfUDNiUUNNU3RtU1MySUhmYnBvY3ZHZFNnTkdoU2tUNjJMaFh2cTFQS3EwZHd6aEMydnAybGZxWVg2V2x4b3VOMkFXLTZDWlTSAewBQVVfeXFMTVRZdFZvZlJ5RDFUMVJIeE1nQWNMQ0YxZ005R29mam5scXgta3NEcm44MWdwZUFSemo1eVNPam91OVI1eXZEY2x6UElseTNJOWhidWFIaHFKRkhzVDIwRFpianllTFRJbV9VNHJkbnlJZWQ1cnlULTQxUTZqX2ptbmNENFAwOHFTLVI1Z2dyeXg0amRGNkRBZ0FnazRBYmcwVWFKUE50RlpkQk1yRndqc1ZvQ3ZmSHZMSUxZdVVfcjI2dmZMcXBvSXBVSEowY0lKcjF3NVZpTTVyeGRoczN1Z20yN0ttNzBETW1SZGU?oc=5)
+
+---
+
+### [Vegane, fettarme Kost verbessert Leberfett und HbA1c bei Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxQeEJxSml5WVZWVmlDZUZMRnRzMURNV0dfNnp4T3E1cG5PMkx3U1RVZGRKQTF4V093YVQ3b3draUpzZEhuMXdIeHdLbW93cEhTV3dqY2p6MU84U2syWEUzVTE1d21ndFY1ekVfaTJVZnVWMTdrV2Nvc3dCT1pMcXNpeGR2eFJkNlJ1WTVmUXdGbUdQSjBHblNwSnRzWG9EcTBqVnRrYw?oc=5)
+
+2026-10-31 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxQeEJxSml5WVZWVmlDZUZMRnRzMURNV0dfNnp4T3E1cG5PMkx3U1RVZGRKQTF4V093YVQ3b3draUpzZEhuMXdIeHdLbW93cEhTV3dqY2p6MU84U2syWEUzVTE1d21ndFY1ekVfaTJVZnVWMTdrV2Nvc3dCT1pMcXNpeGR2eFJkNlJ1WTVmUXdGbUdQSjBHblNwSnRzWG9EcTBqVnRrYw?oc=5)
 
 ---
 
@@ -152,11 +176,19 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN25Y
 
 ---
 
-### [Colorectal cancer rates surge across all adults, new study shows - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZV9EM3Z0WGtDZ1pnVlJ3WGlJWmlkUm1aaWNqWUwzZGpTLUNLVkl1U0hzUU13YmJzSGpWYk1NaW5QWEVJZUdfZGJoQmFjaGxPSHFUR3ViU0d5el85TkhkRURJUU5vMDZDVi1RMmN4SzVlSGRJTk1NZzVobVg0WUEtWWV1dFFrWGhYVTdsZUM5c3JWSlBMbElMTFg2eXl1TzNxdWUzTw?oc=5)
+### [Diabetes und Herz: Das Risiko für Infarkt und Schlaganfall ist bis zu vierfach erhöht](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR1NVaDRFMVFhclNtVkZQN3JSOHVJUmkxamN6cWFfUFdKa0VEbUR1QWF0RjhleGZYU25FTFhLLXlXaWpfalYxOFhwTDFrak1qRnRZN1dLc3hfYjktQnRMV3I1VDV3V0RVVDNRRTdjanVXc2RjX0lTWURSNUJwTm9EaFd2S09CMHlZQnJXeVJCclJ6QjVIN0djNmZjQ0o1bnpFRTJBZWwxZ2tGQU5xWVVXNTNwQnpXU0lkYXkwT1FJekc1dmt5T2gwM05SY3dLVzNz?oc=5)
+
+2026-10-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR1NVaDRFMVFhclNtVkZQN3JSOHVJUmkxamN6cWFfUFdKa0VEbUR1QWF0RjhleGZYU25FTFhLLXlXaWpfalYxOFhwTDFrak1qRnRZN1dLc3hfYjktQnRMV3I1VDV3V0RVVDNRRTdjanVXc2RjX0lTWURSNUJwTm9EaFd2S09CMHlZQnJXeVJCclJ6QjVIN0djNmZjQ0o1bnpFRTJBZWwxZ2tGQU5xWVVXNTNwQnpXU0lkYXkwT1FJekc1dmt5T2gwM05SY3dLVzNz?oc=5)
+
+---
+
+### [NEWSLETTER: Rise in US colon cancer rates not limited to young adults, analysis finds](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMTBnaUt4NS1DVko2SjFqSnlOUVNKbzJTLTlqYWp3eUFta0NpX0RXR0RWRkdDUUhpY05pWDR6bEx3WElKbTJKcEE0U0lidF81TkJWZVZRblM3eF9MZUtsb25lVVEwR1YxY0pNYUkyTHRfbmlXSm1qeXNVTmFnTFExRHN1cTdzVDg5X2VNRnZiMVZtSW1YT2hJeE1zakI0T1JJVGFsdUY5TzZSR2FiZUtfSmpVMGItM0ZDb0NRSEtVSDk4OTI4RExXTmdPaW5yREc5V3dQOQ?oc=5)
 
 2026-10-30 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">cancer</span>
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZV9EM3Z0WGtDZ1pnVlJ3WGlJWmlkUm1aaWNqWUwzZGpTLUNLVkl1U0hzUU13YmJzSGpWYk1NaW5QWEVJZUdfZGJoQmFjaGxPSHFUR3ViU0d5el85TkhkRURJUU5vMDZDVi1RMmN4SzVlSGRJTk1NZzVobVg0WUEtWWV1dFFrWGhYVTdsZUM5c3JWSlBMbElMTFg2eXl1TzNxdWUzTw?oc=5)
+Source: [Reuters](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMTBnaUt4NS1DVko2SjFqSnlOUVNKbzJTLTlqYWp3eUFta0NpX0RXR0RWRkdDUUhpY05pWDR6bEx3WElKbTJKcEE0U0lidF81TkJWZVZRblM3eF9MZUtsb25lVVEwR1YxY0pNYUkyTHRfbmlXSm1qeXNVTmFnTFExRHN1cTdzVDg5X2VNRnZiMVZtSW1YT2hJeE1zakI0T1JJVGFsdUY5TzZSR2FiZUtfSmpVMGItM0ZDb0NRSEtVSDk4OTI4RExXTmdPaW5yREc5V3dQOQ?oc=5)
 
 ---
 
@@ -264,22 +296,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3
 
 ---
 
-### [Tumore del colon-retto nei giovani, una mappa di 850mila cellule rivela cosa cambia](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWnpkaVpJLWQ2VFhORmtTOGRXdGpoR3dWZlZZLWFZX3pXMERZYmh6LWk1RHJiV3pJTk5lbHd3cUNBRk0yaWRrZG1YRWVEU0FnTzFKZ3laSDdmUkx5RXZqcU9hMHNManp6Rk8wb3FmSHl3ZG9NWHE5elJnYl96TFV1ZWhsbk5FRUxuSmJ2MHF0OHVVV2FPaGtUZ0tPN3N0MVI4QndUeEtuUlRodUdzVldSOEh6NGJYNG1Mck5NWlpRYTdIRmlpa2o0Nmp3aVdObE4wYWVJbmNJeUFRUQ?oc=5)
-
-2026-10-29 <span class="news-indication-tag">tumor</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWnpkaVpJLWQ2VFhORmtTOGRXdGpoR3dWZlZZLWFZX3pXMERZYmh6LWk1RHJiV3pJTk5lbHd3cUNBRk0yaWRrZG1YRWVEU0FnTzFKZ3laSDdmUkx5RXZqcU9hMHNManp6Rk8wb3FmSHl3ZG9NWHE5elJnYl96TFV1ZWhsbk5FRUxuSmJ2MHF0OHVVV2FPaGtUZ0tPN3N0MVI4QndUeEtuUlRodUdzVldSOEh6NGJYNG1Mck5NWlpRYTdIRmlpa2o0Nmp3aVdObE4wYWVJbmNJeUFRUQ?oc=5)
-
----
-
-### [Psoriasisarthritis und Adipositas zusammen behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHY0UHNSUTM3VUlLWG5TX1VRekZSc09mUmktOGJxaGRuU3pibFhtbms5TEpoWFpnSG9xWlQ3YXgxbnJXc0x4NUxOZEI1YzhHQW9QQklLbzRhcWU2TlhRbHIzYWxCMlRubVdrOXJSN3k3RmxaZzY0Z2RIWUZpY2R0WEdEdmsxSzNNWGtSZXZmYlIxRHJTbXdKcmozd1V5cmJWV1gwajd3?oc=5)
-
-2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHY0UHNSUTM3VUlLWG5TX1VRekZSc09mUmktOGJxaGRuU3pibFhtbms5TEpoWFpnSG9xWlQ3YXgxbnJXc0x4NUxOZEI1YzhHQW9QQklLbzRhcWU2TlhRbHIzYWxCMlRubVdrOXJSN3k3RmxaZzY0Z2RIWUZpY2R0WEdEdmsxSzNNWGtSZXZmYlIxRHJTbXdKcmozd1V5cmJWV1gwajd3?oc=5)
-
----
-
 ### [Diabète : cet implant révolutionnaire pourrait éliminer une partie du sucre en excès dans le sang](https://news.google.com/rss/articles/CBMikgFBVV95cUxPS2Q2OTlPa2dJWmxSTGZ5RzYwV0U1YXV3SzNoLXQ5b0hXQUxScE5hSDlEYTQ2ZDJ3cUFSVDZzODVGdjJxQ2p1OVEzTFhBeW1ZelBabGMycVduSEpDVTBFNFphNHI4cUlWVWpFZUV4NXJoU2pqeGlNZE1mVF8yczJpM3QxTFhVanpsMGU4cUp4a3ZSZw?oc=5)
 
 2026-10-29 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
@@ -301,14 +317,6 @@ Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMimwFBVV9
 2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
-
----
-
-### [Fundraising appeal for devoted Donegal mum-of-two with stage four cancer - Donegal Daily](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjA2TFBjRklVUWllS1Fza0p4ZF9ObkUzXzhnQjlVZ3RmQ3RxM2ZiNHMzWHNxYnRIUXJyMmltOVJXSTdzVlFrbmdWWUN5bHQ4UHZ3d21mZDloeFNydS1MNHVnMkJDaHVxVDdsbDROMnVLaUpzaHR6UTZERW5wOFNtVHB6ZFk1bmt4N2x0eVJXWlR2azJnVWptWGNZNk9tWWhnNVE3S3Y3YURRNVZ6RndmMHR0SQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">cancer</span>
-
-Source: [Donegal Daily](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjA2TFBjRklVUWllS1Fza0p4ZF9ObkUzXzhnQjlVZ3RmQ3RxM2ZiNHMzWHNxYnRIUXJyMmltOVJXSTdzVlFrbmdWWUN5bHQ4UHZ3d21mZDloeFNydS1MNHVnMkJDaHVxVDdsbDROMnVLaUpzaHR6UTZERW5wOFNtVHB6ZFk1bmt4N2x0eVJXWlR2azJnVWptWGNZNk9tWWhnNVE3S3Y3YURRNVZ6RndmMHR0SQ?oc=5)
 
 ---
 
@@ -373,6 +381,14 @@ Source: [ZWP online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzRuLW
 2026-10-26 <span class="news-indication-tag">diabetes</span>
 
 Source: [The Conversation](https://news.google.com/rss/articles/CBMixAFBVV95cUxORTZ2a2MycmJPbTNseG40enJyZzVfREdFWVBwSHZsdGVWYVVQdkpvVEx3WHIxbVJIM0dtcUg3NEVsZ1JfZ0tSWm44dXotcHVVWjBLRzBZOE1mZFJVRDU0OHJLZjgtZDlNcFRMbldPTFZKd2x1bFQ2SGxQc0h1YmpBMUI3cjk2RjFTYkJ4U3ZXUUE3bVc3eXo5bERkVWVxWGE2eVRtSjVrc3lqcUwxcVFtMUlpbXd1YU1GYWtjTzU2amtfM21Z?oc=5)
+
+---
+
+### [Prediabetes: los tres hábitos que recomienda una cardióloga para mejorar la salud metabólica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmRvZ3lXWTl4S2lFYXRTVEgxckY3Y2FDdWRwcTBfMkQ3QzhZSXA4V3FuLTBSNkZ4bGFUMnExT3FKVWZVYWVzQWQxQ2FTMXlObnNjc19BYThHMHNUc3FaR2JHdi1UZFVURHhKRGxSRjY1QUd6M3JMeWZrOFpuT1Vjenc4LWFta0ViU0hNSnNYZXVtbFIyV0d4ZUQ5eFhKSkZSZ1pDczRjSkRXRkJMQWR5aVR30gG3AUFVX3lxTFBIVGFwQ3pTU1o4eEZ5aFUxbmtVQlFWY2p0bVRwSlNQazBQWHpLSWt5S1I1bk5sZEV6SDhlYnRmay1LRHpwdUY0S3JlNVF0ZDFzWDc0LVliRlYxMHBGdy01TVBubmdZdC1rOEpJOTJKeVFYNFg3US1kQWtCdTFEN1dMUjV1ejQ3N3lHb2VteG1aN3EtNHh1ZERSQl9xQ0V5Tm1aUi1kUGFlNGowaGxzMG83LS05UVNBYw?oc=5)
+
+2026-10-26 <span class="news-indication-tag">diabetes</span>
+
+Source: [Deia](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmRvZ3lXWTl4S2lFYXRTVEgxckY3Y2FDdWRwcTBfMkQ3QzhZSXA4V3FuLTBSNkZ4bGFUMnExT3FKVWZVYWVzQWQxQ2FTMXlObnNjc19BYThHMHNUc3FaR2JHdi1UZFVURHhKRGxSRjY1QUd6M3JMeWZrOFpuT1Vjenc4LWFta0ViU0hNSnNYZXVtbFIyV0d4ZUQ5eFhKSkZSZ1pDczRjSkRXRkJMQWR5aVR30gG3AUFVX3lxTFBIVGFwQ3pTU1o4eEZ5aFUxbmtVQlFWY2p0bVRwSlNQazBQWHpLSWt5S1I1bk5sZEV6SDhlYnRmay1LRHpwdUY0S3JlNVF0ZDFzWDc0LVliRlYxMHBGdy01TVBubmdZdC1rOEpJOTJKeVFYNFg3US1kQWtCdTFEN1dMUjV1ejQ3N3lHb2VteG1aN3EtNHh1ZERSQl9xQ0V5Tm1aUi1kUGFlNGowaGxzMG83LS05UVNBYw?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Naltrexone. 0 predicted indications."
 permalink: /news/naltrexone/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # Naltrexone News
@@ -31,6 +31,14 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 </div>
 
 ## Related News (8)
+
+### [Fettleber: Jeder vierte Erwachsene in Deutschland ist betroffen](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNBMTRGYUJ3SHd2eG9Rb3RJUzU0NkFpNXpmTW9YMnhRaXk5ZFJkZUhMTGRnZXZUa3ZTOEFGaC1nVThROFlFSFRqQmRrOHFSX2s1bkM2Ykp6Ti1tQnVHdEFuVk1XNFhvTm9wQi1nMXVzQW8ydWxGeksyd3hnRG1BOW5kNTF2d3VTaVhCZzFDem5zMUc2RHd0TF9FMjNqTlo3cVdtMmhEY1ZjOGo4eWl4LQ?oc=5)
+
+2026-10-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNBMTRGYUJ3SHd2eG9Rb3RJUzU0NkFpNXpmTW9YMnhRaXk5ZFJkZUhMTGRnZXZUa3ZTOEFGaC1nVThROFlFSFRqQmRrOHFSX2s1bkM2Ykp6Ti1tQnVHdEFuVk1XNFhvTm9wQi1nMXVzQW8ydWxGeksyd3hnRG1BOW5kNTF2d3VTaVhCZzFDem5zMUc2RHd0TF9FMjNqTlo3cVdtMmhEY1ZjOGo4eWl4LQ?oc=5)
+
+---
 
 ### [Retatrutide bei Schlafapnoe: Zwei Phase-3-Studien zeigen weniger Atempausen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVRlMm9hMUROUmlEUG1fY2h4aHVYZ3JuQlBNd2lKUURfeEFrMFMtdDlfRXBKRGhVbTNMZ3RGdVJQbDN2aHVMZHd3OEdTMWZIUVBZWGszMDh2bV9Fdjg4dlBUdXZEQmlXVVBvMFRMYXBJVjNnVjdCUGJPWlVyMUlKV2Z3LXJnU1otZ2hoS3U5SzVLWHVoWU51QURHakhmYktxSFNYV2ZkVEdlbHM1Z2hPd2NQTk84UmE3VVhHdm5XSjc?oc=5)
 
@@ -69,14 +77,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZy
 2026-10-30 <span class="news-indication-tag">obesidad</span>
 
 Source: [ConSalud](https://news.google.com/rss/articles/CBMizwFBVV95cUxOT0VBVnRpRnJTckVHUEpYdnF1b2EzaGtSbDloYXV0b25KakdfWkhkX2FQaWJoTlJycjQtRkpSMlJ5WHcyUnA5U2JCaWhuRVUzcXFSQTNnYWhYVWtZMVRYdExqb3lSZERMWXlKYXQ4dXlma29TWXdlN2NCUUNEaHBDOHRyNUhrOUE4MUs4d1EwLUpDdmozVzMyQnlPQmlyQlg2TjM1V3NtZ01PeWt5WDVZVjNiZk5nd2MwQzhFNzZMSG1INkxvQjdXdzBYeVAtVE0?oc=5)
-
----
-
-### [Psoriasisarthritis und Adipositas zusammen behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHY0UHNSUTM3VUlLWG5TX1VRekZSc09mUmktOGJxaGRuU3pibFhtbms5TEpoWFpnSG9xWlQ3YXgxbnJXc0x4NUxOZEI1YzhHQW9QQklLbzRhcWU2TlhRbHIzYWxCMlRubVdrOXJSN3k3RmxaZzY0Z2RIWUZpY2R0WEdEdmsxSzNNWGtSZXZmYlIxRHJTbXdKcmozd1V5cmJWV1gwajd3?oc=5)
-
-2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHY0UHNSUTM3VUlLWG5TX1VRekZSc09mUmktOGJxaGRuU3pibFhtbms5TEpoWFpnSG9xWlQ3YXgxbnJXc0x4NUxOZEI1YzhHQW9QQklLbzRhcWU2TlhRbHIzYWxCMlRubVdrOXJSN3k3RmxaZzY0Z2RIWUZpY2R0WEdEdmsxSzNNWGtSZXZmYlIxRHJTbXdKcmozd1V5cmJWV1gwajd3?oc=5)
 
 ---
 

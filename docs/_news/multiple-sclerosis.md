@@ -3,9 +3,9 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 15 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 14 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # MS (multiple sclerosis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>15 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>14 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,15 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (15)
+## Related News (14)
+
+### [Fresh warning over lesser-known cancer linked to sex as UK cases DOUBLE - key symptoms to look out for - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEhpRmpYaGM4M1VERlktZktQREdxRG5jZ09aclk3bzQ0LVYtU2JiR0NkbTdBd3V1cDNqTS1Pa2NLS0dZR3Q3UVpybkI0TXR2Zy1lUFJhMjBERFNZamJYNjBvOTl6MWlxMGdQTm9qMmIyREJDNldObHQyRE9PYmY4ampMeUlOcnpWVVBPSmF3?oc=5)
+
+2026-11-01
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEhpRmpYaGM4M1VERlktZktQREdxRG5jZ09aclk3bzQ0LVYtU2JiR0NkbTdBd3V1cDNqTS1Pa2NLS0dZR3Q3UVpybkI0TXR2Zy1lUFJhMjBERFNZamJYNjBvOTl6MWlxMGdQTm9qMmIyREJDNldObHQyRE9PYmY4ampMeUlOcnpWVVBPSmF3?oc=5)
+
+---
 
 ### [Stimmstörungen als KI-Signal: Studie verknüpft Stimme, Hörverlust und Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkpVb0hnMVlDdktNUU5PWHllS1ExRUNGZVR2WWRVZVlwQm16SG44UjhwYnVxYW5ibDI0aFVmY19ZaDM0SllsVE5BOUJuX0k2VFd1akhaMjVoRTlWVnpreHRCQTlOZW9pMDhpc29tRDZ4aU5hSVVTTFlRM1hIR3UzdkZaRE94cmxZam5adWxIUHdSejFDc3lFNGQ3MlN2dFhNRWhwV3ZvX0U3WWhINWdjS2pmSkIxUQ?oc=5)
 
@@ -88,6 +96,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdjdh
 
 ---
 
+### ['Highly contagious' Victorian disease confirmed at UK hospital as warning issued to patients and visitors - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQXg3VU9QTWtQc2EtdGpyMkpGU2QzX1VlTUV5SFhPVzAtdlN1YUU1aXBYRkRoTkIzM2wydDVIc08welZkdVk5QVFDbVc3NjBxVUZNa0ZKZEJWR3VOZjFFeDJ1VzBlRHBHd1FHaHdGMkZjb3owcGFNSmh1U3dDUUtnSmMxeVRkQnRu?oc=5)
+
+2026-10-30
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQXg3VU9QTWtQc2EtdGpyMkpGU2QzX1VlTUV5SFhPVzAtdlN1YUU1aXBYRkRoTkIzM2wydDVIc08welZkdVk5QVFDbVc3NjBxVUZNa0ZKZEJWR3VOZjFFeDJ1VzBlRHBHd1FHaHdGMkZjb3owcGFNSmh1U3dDUUtnSmMxeVRkQnRu?oc=5)
+
+---
+
 ### [Kent GP's verdict on 'American Covid' and the symptoms to look for - Kent Online](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzNxQjRQaG4zbE9hLU1qMHdEOHdjVGJta0J4aHFYcjhxYjVXc3FoYk5ieG04MzlCQURQMGI3OFYxdUgtUDVTUkRmTzJBZ1VJX2xpX3R2TlNteExwNXI5X0o2c01IRnpzcmVTTlZaUlhSXzhIT0dKZ1kzRGU5WXpQODJ2dHRFc0tsU0tHcXFrajEzQzFZM3hvVXhPdTdDc0o4dlozNzY0NA?oc=5)
 
 2026-10-30
@@ -96,35 +112,11 @@ Source: [Kent Online](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzNxQ
 
 ---
 
-### [Scabies cases confirmed at Swansea hospital with visiting restrictions in place - Wales Online](https://news.google.com/rss/articles/CBMimwFBVV95cUxNYTFJbENLc0hRQ3JOX1AxQ2U1a0NCZFFCZHpITVkxbG1CMVR0MFhKQlI1bXdzVzB3Mk9UZ3F1QmVvNGw2NkxMTHBhVlR6a1o4NGVQRFkySHZ5Ym5GV21QWktNMlVFWXpjTW0wTVBFRzJsS2ZlNG4wOWRXaWM1WGFNbk81ZFlhRkVfU0JHQ2JocmctYTRSdDZWQWxGZ9IBoAFBVV95cUxPR1dGMUFBcTJTMmxHWDVTZmNtbG5nMkY0TVRFa2RGaGdGVzFHYkI1TXNQaHpJeDFTZFg0MkxKTGlCTWRLMEN4ei04OXhtRnlkZGlXY3FDa0xRdlhCdGNsYVVVNnFOYkIxRm96S2ltQ1pCN2FNQ3ZzX1EtRGgzZkJ6Q3dZVGdmV1lfUmxhcHVWZ0VtWVdmNjJ2MHVTcUVjLU9D?oc=5)
-
-2026-10-30
-
-Source: [Wales Online](https://news.google.com/rss/articles/CBMimwFBVV95cUxNYTFJbENLc0hRQ3JOX1AxQ2U1a0NCZFFCZHpITVkxbG1CMVR0MFhKQlI1bXdzVzB3Mk9UZ3F1QmVvNGw2NkxMTHBhVlR6a1o4NGVQRFkySHZ5Ym5GV21QWktNMlVFWXpjTW0wTVBFRzJsS2ZlNG4wOWRXaWM1WGFNbk81ZFlhRkVfU0JHQ2JocmctYTRSdDZWQWxGZ9IBoAFBVV95cUxPR1dGMUFBcTJTMmxHWDVTZmNtbG5nMkY0TVRFa2RGaGdGVzFHYkI1TXNQaHpJeDFTZFg0MkxKTGlCTWRLMEN4ei04OXhtRnlkZGlXY3FDa0xRdlhCdGNsYVVVNnFOYkIxRm96S2ltQ1pCN2FNQ3ZzX1EtRGgzZkJ6Q3dZVGdmV1lfUmxhcHVWZ0VtWVdmNjJ2MHVTcUVjLU9D?oc=5)
-
----
-
 ### [MSD anuncia que 'Keytruda' reduce un 43% el riesgo de progresión o muerte en cáncer de endometrio](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZUVCMW5LS19WVGh2NXpUUHZjR3poZGtJZ2RzNGtZSXQ2cnM1eDM1aFVvVlFpUV9ObXVJQ3d5bC05VTJ0WF81alE3TENQVXZBaG5wak5RMXhNYmdsWWVER3c2aU1qV29vd3Fuc2F1WXg5cmFhTUlFeWRXUzVHMU5nMENvdTQzd0JSeXJNQ1pQV3BaXzlURC1xcHJfc29la1hNLTUzX2o5OEowSG1Yc19nX2lVb3dMeFAzb0ZzeTBOOFYzQWhlZWhaVHlLejFHem1ONUxCZ0xGc1ZGeXBnSHc?oc=5)
 
 2026-10-30
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZUVCMW5LS19WVGh2NXpUUHZjR3poZGtJZ2RzNGtZSXQ2cnM1eDM1aFVvVlFpUV9ObXVJQ3d5bC05VTJ0WF81alE3TENQVXZBaG5wak5RMXhNYmdsWWVER3c2aU1qV29vd3Fuc2F1WXg5cmFhTUlFeWRXUzVHMU5nMENvdTQzd0JSeXJNQ1pQV3BaXzlURC1xcHJfc29la1hNLTUzX2o5OEowSG1Yc19nX2lVb3dMeFAzb0ZzeTBOOFYzQWhlZWhaVHlLejFHem1ONUxCZ0xGc1ZGeXBnSHc?oc=5)
-
----
-
-### [NHS issues warning over cough 'that isn't cold, flu or Covid' - Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcjhnODd6R0YzVW80dDh1OENILVZkMDZFQ1RtUFktaEtCbXQzYkNqaE1zZVVySDk3clNod3V3R3ZQNDJwR0R2eFlhM0kzRlU3dG5VclI4NHRzaG5BVGpOU2MyUlNUN3Y5ZkxEcmFDOWszYWctU1Bpd3pLVUpkRHhVVUFqY2lYRTdaQWpPcHBFRnE0OGYx0gGaAUFVX3lxTE5sVDYxejRiODgwMlUxYnJkSkhuVlo1X2laUGhXQzNSWjV2Sy1ZTTFONGJDLXl6cWR5ZUI0a1ZicEpyUDQ2eUdLc2cwa2xHcHdCb3VRVmVXN1ZyTUgtczJmYzlDYnZvT1dGcExIXzFQbDFBSU5xRGppeXF5QzBxaVVHVVY4eV9zcFhacnBZT0FTT1g0TDRrMnE0a3c?oc=5)
-
-2026-10-30
-
-Source: [Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcjhnODd6R0YzVW80dDh1OENILVZkMDZFQ1RtUFktaEtCbXQzYkNqaE1zZVVySDk3clNod3V3R3ZQNDJwR0R2eFlhM0kzRlU3dG5VclI4NHRzaG5BVGpOU2MyUlNUN3Y5ZkxEcmFDOWszYWctU1Bpd3pLVUpkRHhVVUFqY2lYRTdaQWpPcHBFRnE0OGYx0gGaAUFVX3lxTE5sVDYxejRiODgwMlUxYnJkSkhuVlo1X2laUGhXQzNSWjV2Sy1ZTTFONGJDLXl6cWR5ZUI0a1ZicEpyUDQ2eUdLc2cwa2xHcHdCb3VRVmVXN1ZyTUgtczJmYzlDYnZvT1dGcExIXzFQbDFBSU5xRGppeXF5QzBxaVVHVVY4eV9zcFhacnBZT0FTT1g0TDRrMnE0a3c?oc=5)
-
----
-
-### [Study unravels healing powers of cold temperatures and say they could even help us live longer - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlFfejQyRkFhVGVmTXJpMFpqeTlJV09HX2xmYllpWk9YYWJFQm1reUFhR01YRGVTOWgwUm5NV29nOGt5bTdvYXlyY2o5OVZfV2pscHJid3pDbF9EUGxLMjB5bWU2d0xQbTIwazJtRnBEaTctSU9xODdhcEM3VXFlaW82emxjZHNfRmZwa1pabUFzWXNzZ3d0UEh5VlhmbjQ?oc=5)
-
-2026-10-30
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlFfejQyRkFhVGVmTXJpMFpqeTlJV09HX2xmYllpWk9YYWJFQm1reUFhR01YRGVTOWgwUm5NV29nOGt5bTdvYXlyY2o5OVZfV2pscHJid3pDbF9EUGxLMjB5bWU2d0xQbTIwazJtRnBEaTctSU9xODdhcEM3VXFlaW82emxjZHNfRmZwa1pabUFzWXNzZ3d0UEh5VlhmbjQ?oc=5)
 
 ---
 

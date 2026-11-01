@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Bimatoprost. 10 predicted indications."
 permalink: /news/bimatoprost/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # Bimatoprost News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Bimatoprost?">
-<strong>Bimatoprost</strong> currently has <strong>30 news articles</strong>, with 10 predicted indications.
+<strong>Bimatoprost</strong> currently has <strong>27 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,21 @@ This page combines the AI-predicted indications for Bimatoprost with the latest 
 <p><a href="{{ '/drugs/bimatoprost/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (30)
+## Related News (27)
+
+### [Smartwatch-Warnungen: Über 90 Prozent Genauigkeit ersetzen keine Diagnose](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEVuN2ozR3hiUlFpTkVjMmRwanQxSk5iNGp4V2NQU2gyN2N5UTViejVsV3BTZkkzeWlObU9PcVlfeXZJUTVyQS0tanFoUFZmclhEdmZpQnlhUmhnX0dJVXZfX1hMVE9hbW5qaHlTZlpPVDJqbjJ5eE9HYVY3dTVDamJDalprUy14TEtnNllTcTQxWklYaGJYLVY0eFptOGRycjg2Z2FrblNHYjBwQnFlMlppSGlmTUlZMzhoQl9ZZw?oc=5)
+
+2026-10-31 <span class="news-indication-tag">AF</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEVuN2ozR3hiUlFpTkVjMmRwanQxSk5iNGp4V2NQU2gyN2N5UTViejVsV3BTZkkzeWlObU9PcVlfeXZJUTVyQS0tanFoUFZmclhEdmZpQnlhUmhnX0dJVXZfX1hMVE9hbW5qaHlTZlpPVDJqbjJ5eE9HYVY3dTVDamJDalprUy14TEtnNllTcTQxWklYaGJYLVY0eFptOGRycjg2Z2FrblNHYjBwQnFlMlppSGlmTUlZMzhoQl9ZZw?oc=5)
+
+---
 
 ### [Kaffee, Darmflora und Stimmung: Studie sieht Effekte – aber nur vorläufig - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0dqcWdNdWJHdFJMckd2VmluRWhDYTBmNUlpOHhhcEt2OE8za3M0RjRWOG1Yd1RHNUlDLTR6MlczcjNvdTMzdllzeDJCeFk5RFF6WUppQno2SG9PYUVZZjQzdG5ISzRwQmJHbVFkektKNk9qTzJxYUhEWGxIRWZCZWY1ZGlBbktkNEc5LUExQWdJZDRvMUcxZldpbEh6dk9vcEdrUA?oc=5)
 
 2026-10-31 <span class="news-indication-tag">AF</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0dqcWdNdWJHdFJMckd2VmluRWhDYTBmNUlpOHhhcEt2OE8za3M0RjRWOG1Yd1RHNUlDLTR6MlczcjNvdTMzdllzeDJCeFk5RFF6WUppQno2SG9PYUVZZjQzdG5ISzRwQmJHbVFkektKNk9qTzJxYUhEWGxIRWZCZWY1ZGlBbktkNEc5LUExQWdJZDRvMUcxZldpbEh6dk9vcEdrUA?oc=5)
-
----
-
-### [More than 5,000 die from Ebola in DR Congo's deadliest outbreak](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZeW1wVkxmVGNuYUZtRURyYmhWWXRGbnpjMDAxTmpva2YtTWhYRGZ1UzUyUE5weTRkU2h5U3RtT3FRNDFwbVpxMEZBa3RzOTJIbm01Wnp5ZG5LYW5kUWc?oc=5)
-
-2026-10-31 <span class="news-indication-tag">AF</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZeW1wVkxmVGNuYUZtRURyYmhWWXRGbnpjMDAxTmpva2YtTWhYRGZ1UzUyUE5weTRkU2h5U3RtT3FRNDFwbVpxMEZBa3RzOTJIbm01Wnp5ZG5LYW5kUWc?oc=5)
 
 ---
 
@@ -68,19 +68,19 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZV
 
 ---
 
-### [My girl, 25, died after docs said don't worry about flu - it was hideous disease - The Sun](https://news.google.com/rss/articles/CBMifEFVX3lxTFBRXzE2X3dIYVljdmxseHIzSTU2d2VOWDhZY1lidlpieGZhMmFfVWR2QU9jald0TjF4LUNvRWQtMXRfSXhUd05Dd1E5eXVRenNmZjNIZ2dEeWNTZWVObWxCWDFnWmlrMmdCNzIyQUcwazhiQWRtSlBFMVZfNnQ?oc=5)
-
-2026-10-31 <span class="news-indication-tag">AF</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMifEFVX3lxTFBRXzE2X3dIYVljdmxseHIzSTU2d2VOWDhZY1lidlpieGZhMmFfVWR2QU9jald0TjF4LUNvRWQtMXRfSXhUd05Dd1E5eXVRenNmZjNIZ2dEeWNTZWVObWxCWDFnWmlrMmdCNzIyQUcwazhiQWRtSlBFMVZfNnQ?oc=5)
-
----
-
 ### [Afrontar el cáncer de mama también exige cuidar la salud mental - Teulada Moraira DigitaL](https://news.google.com/rss/articles/CBMigAFBVV95cUxPRGU1dGtZRjk4VHR6WTRhZDI2TXF5Z1A1SXZ5d3N2RE0xZDVhNDFnV093YTdOd0FWUGdDNUpTRDZlVm1JamNuRlNsRy1ickdZQlVPT2p2ekJRQVplU20zVEFUUUZJeS1iU1ZvQ250akNWNlFHS0tHcHVRempPVVZkRg?oc=5)
 
 2026-10-31 <span class="news-indication-tag">AF</span>
 
 Source: [Teulada Moraira DigitaL](https://news.google.com/rss/articles/CBMigAFBVV95cUxPRGU1dGtZRjk4VHR6WTRhZDI2TXF5Z1A1SXZ5d3N2RE0xZDVhNDFnV093YTdOd0FWUGdDNUpTRDZlVm1JamNuRlNsRy1ickdZQlVPT2p2ekJRQVplU20zVEFUUUZJeS1iU1ZvQ250akNWNlFHS0tHcHVRempPVVZkRg?oc=5)
+
+---
+
+### [Cos'è la fenilchetonuria e perché le proteine sono un (grande) pericolo per chi ha questa malattia rara - Corriere della Sera](https://news.google.com/rss/articles/CBMiqwJBVV95cUxNUzJZMWpwZ201N2NNT3FGOTYwYk9OWE14VFRqS0xBNXp4Sm1QNFBWcnlJU2Q1N2dUNWZtUk5zX0xkcHpXMjR5ZVNvY1owSUx3Mk5zREMzbkV4QjJsbWZ3Vm9DTFl1RXRvRmQxdE5CUHp4RklMeEQ2VEthSmtPNE9SUnkzc2JhZFJva3Fwal9qNi1VbWNUTERQbHdnbW01QlNKZGYza2J4a3ZoLUJuSGNoWWFVUVhseFlYb2s5bU9lam5XckFURDBGUWtkLWFrWUg0V3BVT3NVS2xQZHlWbEp5VV9jbUZtM1pDOE1zd3hhMXlkeVJ1bHhGNTQwNVgwQWtCVG5HNWFtZ2Zub0JIV3UxVVJrb05pZVBIRndkMFRyamZoSk9fcC1qSnZlVdIBsAJBVV95cUxOUzk5bHl6bk5QelpXeFpPeVM0Q19CbEF4VF84ZVFDOFZsN0pSNXNrenc3b3E4WC1FOFZMZjhUVk5LanFVZnZHT0tGak9lbkJkeDE4YjQxeEZnUlhWUDJBYWVJUUFzYXFKcnF1T0dhSjR3NmduZWhVaGRSa1AzS0pPRnd5SWpRaTdJN09zYm43MXNrVmw1UW1CU0hVMVZfRnpvczlPRDFTaWgydVB0dGNhd3dyRWZISkg5MTZvMm5MVVE5OUt5RDgzVnFrdlNoV2NSWlE2UUQ5UEhqeE45M0hIajYxYlRDdnFwU2RmcE5lX2JMLVNpTlh0UklGTXJxczFqeTEySENXZW0zWnJCazkybWViQkZWX0trQTJ1RU5wT1RMQUVyRU1IbkxJOE1Pa09y?oc=5)
+
+2026-10-31 <span class="news-indication-tag">AF</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiqwJBVV95cUxNUzJZMWpwZ201N2NNT3FGOTYwYk9OWE14VFRqS0xBNXp4Sm1QNFBWcnlJU2Q1N2dUNWZtUk5zX0xkcHpXMjR5ZVNvY1owSUx3Mk5zREMzbkV4QjJsbWZ3Vm9DTFl1RXRvRmQxdE5CUHp4RklMeEQ2VEthSmtPNE9SUnkzc2JhZFJva3Fwal9qNi1VbWNUTERQbHdnbW01QlNKZGYza2J4a3ZoLUJuSGNoWWFVUVhseFlYb2s5bU9lam5XckFURDBGUWtkLWFrWUg0V3BVT3NVS2xQZHlWbEp5VV9jbUZtM1pDOE1zd3hhMXlkeVJ1bHhGNTQwNVgwQWtCVG5HNWFtZ2Zub0JIV3UxVVJrb05pZVBIRndkMFRyamZoSk9fcC1qSnZlVdIBsAJBVV95cUxOUzk5bHl6bk5QelpXeFpPeVM0Q19CbEF4VF84ZVFDOFZsN0pSNXNrenc3b3E4WC1FOFZMZjhUVk5LanFVZnZHT0tGak9lbkJkeDE4YjQxeEZnUlhWUDJBYWVJUUFzYXFKcnF1T0dhSjR3NmduZWhVaGRSa1AzS0pPRnd5SWpRaTdJN09zYm43MXNrVmw1UW1CU0hVMVZfRnpvczlPRDFTaWgydVB0dGNhd3dyRWZISkg5MTZvMm5MVVE5OUt5RDgzVnFrdlNoV2NSWlE2UUQ5UEhqeE45M0hIajYxYlRDdnFwU2RmcE5lX2JMLVNpTlh0UklGTXJxczFqeTEySENXZW0zWnJCazkybWViQkZWX0trQTJ1RU5wT1RMQUVyRU1IbkxJOE1Pa09y?oc=5)
 
 ---
 
@@ -148,19 +148,11 @@ Source: [Quartz auf Deutsch](https://news.google.com/rss/articles/CBMihwFBVV95cU
 
 ---
 
-### [Stille Atherosklerose: Bei 57,1 Prozent der Erwachsenen nachgewiesen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWNSbVlNQWlsdkd6cVFCMkNLSDhEQVN6XzJoVzJ4Sl93b00xeUY5NWlxS0JfSXhTLTVlUHJTb2Z0ZUJpVEM0NkhiREFoUDFEWDRfZ0JDd2lzcEo4R3dtaVJ1NjZrTlFiWjZlQVhtQWYyUkllUUhjaXBTcERBQzd0VEkwbFZPZnAtMHNjMWM2RlBFNXdBR2RqRDlmcld0ekp3aENJWGRtQ2RUVmZvQjF4ak9LaGRSSzg?oc=5)
+### ["Tengo una afección en la zona genital de la que a muchas personas les da vergüenza hablar" - La Prensa Gráfica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQampna29kandZcXF6Ri1QQ2pIbkFwVjlsM1VEZHRuV0Nka0F0TVRSRzdlYTJralFBN0ZhOVA3U0hHS21IMXd1aUNid3Y2YWJUaWNsQllhTUJORTFTWHNEM0tzT1VjbUx3ZmZ5cWc3WHgtSUdtbGpjWF9nckc3VTdXOFR6ckZfMi0tU1dNcnZ1NGNOaTZ1WkZDdVBnNnN3QWhrbUJpZVBuaGhQZzR6cUFLZ1YyTTRvQjRyaFBEWUlzS01FUEZQYlRibHBwbTUxblg4MzFQZUIyeHFObnF1aXBB?oc=5)
 
 2026-10-30 <span class="news-indication-tag">AF</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWNSbVlNQWlsdkd6cVFCMkNLSDhEQVN6XzJoVzJ4Sl93b00xeUY5NWlxS0JfSXhTLTVlUHJTb2Z0ZUJpVEM0NkhiREFoUDFEWDRfZ0JDd2lzcEo4R3dtaVJ1NjZrTlFiWjZlQVhtQWYyUkllUUhjaXBTcERBQzd0VEkwbFZPZnAtMHNjMWM2RlBFNXdBR2RqRDlmcld0ekp3aENJWGRtQ2RUVmZvQjF4ak9LaGRSSzg?oc=5)
-
----
-
-### ['No one should feel safe': 5 dead as Amish country measles horror explodes past 1,350 cases - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZGNUbHpQOG5WbVZtMHNTazF1YkRFQ2dtTzJDcjBIV0pvbjVpTXZQY3FFTUhSSnl5WUR2VUp0VlZveHdTd1ZtRDl3ZXdfeUlPRlVFTUlVX1BXVndGcWtjVDRiSVdNMlFiQm1aMWVNeDVVQWc0MjFGNC1YRWRnZGdKZGdQSnpJMUhjOGZ2MnA2WnNSTEtkVGxkZU1hNndSWTNGMHJ1TzdTWURxRVE?oc=5)
-
-2026-10-30 <span class="news-indication-tag">AF</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZGNUbHpQOG5WbVZtMHNTazF1YkRFQ2dtTzJDcjBIV0pvbjVpTXZQY3FFTUhSSnl5WUR2VUp0VlZveHdTd1ZtRDl3ZXdfeUlPRlVFTUlVX1BXVndGcWtjVDRiSVdNMlFiQm1aMWVNeDVVQWc0MjFGNC1YRWRnZGdKZGdQSnpJMUhjOGZ2MnA2WnNSTEtkVGxkZU1hNndSWTNGMHJ1TzdTWURxRVE?oc=5)
+Source: [La Prensa Gráfica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQampna29kandZcXF6Ri1QQ2pIbkFwVjlsM1VEZHRuV0Nka0F0TVRSRzdlYTJralFBN0ZhOVA3U0hHS21IMXd1aUNid3Y2YWJUaWNsQllhTUJORTFTWHNEM0tzT1VjbUx3ZmZ5cWc3WHgtSUdtbGpjWF9nckc3VTdXOFR6ckZfMi0tU1dNcnZ1NGNOaTZ1WkZDdVBnNnN3QWhrbUJpZVBuaGhQZzR6cUFLZ1YyTTRvQjRyaFBEWUlzS01FUEZQYlRibHBwbTUxblg4MzFQZUIyeHFObnF1aXBB?oc=5)
 
 ---
 
@@ -177,14 +169,6 @@ Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdjg
 2026-10-30 <span class="news-indication-tag">AF</span>
 
 Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuM09JMU1yTlhGb3RKaGFQSEZqN3VvZ0xOc0ZMa0RPV3dhM2gwdXhwVi1OV0lRQkJJLXdZeGtUX0g5TnlCbS1lMklyZw?oc=5)
-
----
-
-### [The Treatment Window For Some Strokes May Be Far Longer Than We Thought, But There's a Catch](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3NLdUoyNkVQbWVlU3JvOV8xWVpPY05BTjZpMTluSVJnejVpYm5HRWxXMmtWM3BWSFZtLUlTUDdhaURlUXV5T0dxem1DcW1SS0VTUWxMUVBkOUlWTU1saEtKcklmb2YtV2NuNGhTYm8yclgwazRiTnlGQU9tV2FiaGJJaThYVmZLTkZfd2JoMGgzdUpqakxCN3N4VWRVR3EzMUt2a2VKaHhvazhuWnp4ZXVqVE56cWY0NWdZ?oc=5)
-
-2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3NLdUoyNkVQbWVlU3JvOV8xWVpPY05BTjZpMTluSVJnejVpYm5HRWxXMmtWM3BWSFZtLUlTUDdhaURlUXV5T0dxem1DcW1SS0VTUWxMUVBkOUlWTU1saEtKcklmb2YtV2NuNGhTYm8yclgwazRiTnlGQU9tV2FiaGJJaThYVmZLTkZfd2JoMGgzdUpqakxCN3N4VWRVR3EzMUt2a2VKaHhvazhuWnp4ZXVqVE56cWY0NWdZ?oc=5)
 
 ---
 
@@ -225,14 +209,6 @@ Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMimwFBVV9
 2026-10-28 <span class="news-indication-tag">AF</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QMFkwaVp5Z3FmQkxmY29vUkM1a3ByOGFnQld5bkdzMTdJandsVy1PUEhWV0JhRHJpYU1udk1sdW1yWkZCaWFSaHl0ZHVDYnRPVXBTd2lvRFVJcG0wSUFR?oc=5)
-
----
-
-### [Hilft mir meine Smartwatch dabei, Herzprobleme zu erkennen? - Traunsteiner Tagblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWVRCUlNJQTMyRFh1QW0tU0x6aml4T09WRTlOQ1ZvVjF6NUZNMHpVdGpxQmc3STZ6UVRVSFF1Z0VQR0ZjaGhkVnE0V1pMVXBZaGZqMzROVHpiaFFVRXNRbmROODVSTjkwakNJT0c2cld1UmdCcENHRjR5RGpTa3ZSbWpjRHhfaU9SX0RpcDZXMFdzekNHZG9kN1FMSzFmU2tNRmhXcEttU294aWZGUEw0MjNkOGQ5VWVKSXdhX2Q0YUc2U2F5Vll1SDU3Tmd2QQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">Vorhofflimmern</span>
-
-Source: [Traunsteiner Tagblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWVRCUlNJQTMyRFh1QW0tU0x6aml4T09WRTlOQ1ZvVjF6NUZNMHpVdGpxQmc3STZ6UVRVSFF1Z0VQR0ZjaGhkVnE0V1pMVXBZaGZqMzROVHpiaFFVRXNRbmROODVSTjkwakNJT0c2cld1UmdCcENHRjR5RGpTa3ZSbWpjRHhfaU9SX0RpcDZXMFdzekNHZG9kN1FMSzFmU2tNRmhXcEttU294aWZGUEw0MjNkOGQ5VWVKSXdhX2Q0YUc2U2F5Vll1SDU3Tmd2QQ?oc=5)
 
 ---
 

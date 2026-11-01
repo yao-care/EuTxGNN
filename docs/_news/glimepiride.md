@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Glimepiride. 9 predicted indications."
 permalink: /news/glimepiride/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # Glimepiride News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Glimepiride?">
-<strong>Glimepiride</strong> currently has <strong>13 news articles</strong>, with 9 predicted indications.
+<strong>Glimepiride</strong> currently has <strong>16 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,29 @@ This page combines the AI-predicted indications for Glimepiride with the latest 
 <p><a href="{{ '/drugs/glimepiride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
-
-### [Blutfette nach Erdnussverzehr mit geringerem Diabetesrisiko verbunden](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdXBCdS1Yd2VwcW94R2J3TFAtcW1ZS3ltRUs3bnBESTd0QVBUVEwybzg4dWoySkdJSnBoOFRlTjdMbXdyMHQ0REM5d21QTUlXcFRubC1HOHJ0TXhKWnJERC1WbEN0TkFfYjZGRjJtMm92WnRfVEhsZ1lhNzFpTFVDVElINGxyS2RldW9leGNCM2NrQlREaDZVRlFIeWRSSkNIcEJ2R2ZoTWxXUQ?oc=5)
-
-2026-10-31 <span class="news-indication-tag">diabetes</span>
-
-Source: [Scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdXBCdS1Yd2VwcW94R2J3TFAtcW1ZS3ltRUs3bnBESTd0QVBUVEwybzg4dWoySkdJSnBoOFRlTjdMbXdyMHQ0REM5d21QTUlXcFRubC1HOHJ0TXhKWnJERC1WbEN0TkFfYjZGRjJtMm92WnRfVEhsZ1lhNzFpTFVDVElINGxyS2RldW9leGNCM2NrQlREaDZVRlFIeWRSSkNIcEJ2R2ZoTWxXUQ?oc=5)
-
----
+## Related News (16)
 
 ### [Fettleber: Jeder vierte Erwachsene in Deutschland ist betroffen](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNBMTRGYUJ3SHd2eG9Rb3RJUzU0NkFpNXpmTW9YMnhRaXk5ZFJkZUhMTGRnZXZUa3ZTOEFGaC1nVThROFlFSFRqQmRrOHFSX2s1bkM2Ykp6Ti1tQnVHdEFuVk1XNFhvTm9wQi1nMXVzQW8ydWxGeksyd3hnRG1BOW5kNTF2d3VTaVhCZzFDem5zMUc2RHd0TF9FMjNqTlo3cVdtMmhEY1ZjOGo4eWl4LQ?oc=5)
 
-2026-10-31 <span class="news-indication-tag">diabetes</span>
+2026-10-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNBMTRGYUJ3SHd2eG9Rb3RJUzU0NkFpNXpmTW9YMnhRaXk5ZFJkZUhMTGRnZXZUa3ZTOEFGaC1nVThROFlFSFRqQmRrOHFSX2s1bkM2Ykp6Ti1tQnVHdEFuVk1XNFhvTm9wQi1nMXVzQW8ydWxGeksyd3hnRG1BOW5kNTF2d3VTaVhCZzFDem5zMUc2RHd0TF9FMjNqTlo3cVdtMmhEY1ZjOGo4eWl4LQ?oc=5)
+
+---
+
+### [Diabetes doesn't stop at the pancreas: 7 organs that pay when blood sugar stays high - The Times of India](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQUhKZUEzTTBmU0V2dUFOZG13bXFLZGpnb215U0VUZ0ZhbF9ORWxadGhFQ19XcGV0WUVsRXVpUHRZM0RpSThzMmgxQ3lhZkhqbDZLdV80WGV0eFIxRGpyckRpNFBzNUVkeXJmVWhGXzJOdm5kRlRNNGxQWG5sRHF1VnZtMHpyaXExVjJ2aFl4bC0xYi1vNjdkWGJ3Q3BfUDNiUUNNU3RtU1MySUhmYnBvY3ZHZFNnTkdoU2tUNjJMaFh2cTFQS3EwZHd6aEMydnAybGZxWVg2V2x4b3VOMkFXLTZDWlTSAewBQVVfeXFMTVRZdFZvZlJ5RDFUMVJIeE1nQWNMQ0YxZ005R29mam5scXgta3NEcm44MWdwZUFSemo1eVNPam91OVI1eXZEY2x6UElseTNJOWhidWFIaHFKRkhzVDIwRFpianllTFRJbV9VNHJkbnlJZWQ1cnlULTQxUTZqX2ptbmNENFAwOHFTLVI1Z2dyeXg0amRGNkRBZ0FnazRBYmcwVWFKUE50RlpkQk1yRndqc1ZvQ3ZmSHZMSUxZdVVfcjI2dmZMcXBvSXBVSEowY0lKcjF3NVZpTTVyeGRoczN1Z20yN0ttNzBETW1SZGU?oc=5)
+
+2026-10-31 <span class="news-indication-tag">diabetes</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQUhKZUEzTTBmU0V2dUFOZG13bXFLZGpnb215U0VUZ0ZhbF9ORWxadGhFQ19XcGV0WUVsRXVpUHRZM0RpSThzMmgxQ3lhZkhqbDZLdV80WGV0eFIxRGpyckRpNFBzNUVkeXJmVWhGXzJOdm5kRlRNNGxQWG5sRHF1VnZtMHpyaXExVjJ2aFl4bC0xYi1vNjdkWGJ3Q3BfUDNiUUNNU3RtU1MySUhmYnBvY3ZHZFNnTkdoU2tUNjJMaFh2cTFQS3EwZHd6aEMydnAybGZxWVg2V2x4b3VOMkFXLTZDWlTSAewBQVVfeXFMTVRZdFZvZlJ5RDFUMVJIeE1nQWNMQ0YxZ005R29mam5scXgta3NEcm44MWdwZUFSemo1eVNPam91OVI1eXZEY2x6UElseTNJOWhidWFIaHFKRkhzVDIwRFpianllTFRJbV9VNHJkbnlJZWQ1cnlULTQxUTZqX2ptbmNENFAwOHFTLVI1Z2dyeXg0amRGNkRBZ0FnazRBYmcwVWFKUE50RlpkQk1yRndqc1ZvQ3ZmSHZMSUxZdVVfcjI2dmZMcXBvSXBVSEowY0lKcjF3NVZpTTVyeGRoczN1Z20yN0ttNzBETW1SZGU?oc=5)
+
+---
+
+### [Vegane, fettarme Kost verbessert Leberfett und HbA1c bei Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxQeEJxSml5WVZWVmlDZUZMRnRzMURNV0dfNnp4T3E1cG5PMkx3U1RVZGRKQTF4V093YVQ3b3draUpzZEhuMXdIeHdLbW93cEhTV3dqY2p6MU84U2syWEUzVTE1d21ndFY1ekVfaTJVZnVWMTdrV2Nvc3dCT1pMcXNpeGR2eFJkNlJ1WTVmUXdGbUdQSjBHblNwSnRzWG9EcTBqVnRrYw?oc=5)
+
+2026-10-31 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxQeEJxSml5WVZWVmlDZUZMRnRzMURNV0dfNnp4T3E1cG5PMkx3U1RVZGRKQTF4V093YVQ3b3draUpzZEhuMXdIeHdLbW93cEhTV3dqY2p6MU84U2syWEUzVTE1d21ndFY1ekVfaTJVZnVWMTdrV2Nvc3dCT1pMcXNpeGR2eFJkNlJ1WTVmUXdGbUdQSjBHblNwSnRzWG9EcTBqVnRrYw?oc=5)
 
 ---
 
@@ -72,6 +80,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxONU
 2026-10-30 <span class="news-indication-tag">diabetic</span>
 
 Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmRBM1ByalBVc2p0UTlnS3cwUVpfTFFzSk5taWR1bGxKWjBFTUhQaGdHZHU4Nkp2R3MwcjJxbWwxQXNXbWlKTnIwdi1qMzdtZmpnWF91RWhSMklKa0ZkS2Z2ZV81STlUdC1ZeTdKaVN1NU9NRTVrS1dnendiazJwbmZmdFlycXhTekFPeTcxLU94WndfejNrcWU2cXpQakZnNTBrZ2h2MTV3SEpJUUxj?oc=5)
+
+---
+
+### [Diabetes und Herz: Das Risiko für Infarkt und Schlaganfall ist bis zu vierfach erhöht](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR1NVaDRFMVFhclNtVkZQN3JSOHVJUmkxamN6cWFfUFdKa0VEbUR1QWF0RjhleGZYU25FTFhLLXlXaWpfalYxOFhwTDFrak1qRnRZN1dLc3hfYjktQnRMV3I1VDV3V0RVVDNRRTdjanVXc2RjX0lTWURSNUJwTm9EaFd2S09CMHlZQnJXeVJCclJ6QjVIN0djNmZjQ0o1bnpFRTJBZWwxZ2tGQU5xWVVXNTNwQnpXU0lkYXkwT1FJekc1dmt5T2gwM05SY3dLVzNz?oc=5)
+
+2026-10-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR1NVaDRFMVFhclNtVkZQN3JSOHVJUmkxamN6cWFfUFdKa0VEbUR1QWF0RjhleGZYU25FTFhLLXlXaWpfalYxOFhwTDFrak1qRnRZN1dLc3hfYjktQnRMV3I1VDV3V0RVVDNRRTdjanVXc2RjX0lTWURSNUJwTm9EaFd2S09CMHlZQnJXeVJCclJ6QjVIN0djNmZjQ0o1bnpFRTJBZWwxZ2tGQU5xWVVXNTNwQnpXU0lkYXkwT1FJekc1dmt5T2gwM05SY3dLVzNz?oc=5)
 
 ---
 
@@ -144,6 +160,14 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxOcTlCa3M
 2026-10-26 <span class="news-indication-tag">diabetes</span>
 
 Source: [The Conversation](https://news.google.com/rss/articles/CBMixAFBVV95cUxORTZ2a2MycmJPbTNseG40enJyZzVfREdFWVBwSHZsdGVWYVVQdkpvVEx3WHIxbVJIM0dtcUg3NEVsZ1JfZ0tSWm44dXotcHVVWjBLRzBZOE1mZFJVRDU0OHJLZjgtZDlNcFRMbldPTFZKd2x1bFQ2SGxQc0h1YmpBMUI3cjk2RjFTYkJ4U3ZXUUE3bVc3eXo5bERkVWVxWGE2eVRtSjVrc3lqcUwxcVFtMUlpbXd1YU1GYWtjTzU2amtfM21Z?oc=5)
+
+---
+
+### [Prediabetes: los tres hábitos que recomienda una cardióloga para mejorar la salud metabólica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmRvZ3lXWTl4S2lFYXRTVEgxckY3Y2FDdWRwcTBfMkQ3QzhZSXA4V3FuLTBSNkZ4bGFUMnExT3FKVWZVYWVzQWQxQ2FTMXlObnNjc19BYThHMHNUc3FaR2JHdi1UZFVURHhKRGxSRjY1QUd6M3JMeWZrOFpuT1Vjenc4LWFta0ViU0hNSnNYZXVtbFIyV0d4ZUQ5eFhKSkZSZ1pDczRjSkRXRkJMQWR5aVR30gG3AUFVX3lxTFBIVGFwQ3pTU1o4eEZ5aFUxbmtVQlFWY2p0bVRwSlNQazBQWHpLSWt5S1I1bk5sZEV6SDhlYnRmay1LRHpwdUY0S3JlNVF0ZDFzWDc0LVliRlYxMHBGdy01TVBubmdZdC1rOEpJOTJKeVFYNFg3US1kQWtCdTFEN1dMUjV1ejQ3N3lHb2VteG1aN3EtNHh1ZERSQl9xQ0V5Tm1aUi1kUGFlNGowaGxzMG83LS05UVNBYw?oc=5)
+
+2026-10-26 <span class="news-indication-tag">diabetes</span>
+
+Source: [Deia](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmRvZ3lXWTl4S2lFYXRTVEgxckY3Y2FDdWRwcTBfMkQ3QzhZSXA4V3FuLTBSNkZ4bGFUMnExT3FKVWZVYWVzQWQxQ2FTMXlObnNjc19BYThHMHNUc3FaR2JHdi1UZFVURHhKRGxSRjY1QUd6M3JMeWZrOFpuT1Vjenc4LWFta0ViU0hNSnNYZXVtbFIyV0d4ZUQ5eFhKSkZSZ1pDczRjSkRXRkJMQWR5aVR30gG3AUFVX3lxTFBIVGFwQ3pTU1o4eEZ5aFUxbmtVQlFWY2p0bVRwSlNQazBQWHpLSWt5S1I1bk5sZEV6SDhlYnRmay1LRHpwdUY0S3JlNVF0ZDFzWDc0LVliRlYxMHBGdy01TVBubmdZdC1rOEpJOTJKeVFYNFg3US1kQWtCdTFEN1dMUjV1ejQ3N3lHb2VteG1aN3EtNHh1ZERSQl9xQ0V5Tm1aUi1kUGFlNGowaGxzMG83LS05UVNBYw?oc=5)
 
 ---
 

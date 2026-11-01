@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tivozanib. 10 predicted indications."
 permalink: /news/tivozanib/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # Tivozanib News
@@ -44,6 +44,22 @@ This page combines the AI-predicted indications for Tivozanib with the latest he
 
 ## Related News (25)
 
+### [Fresh warning over lesser-known cancer linked to sex as UK cases DOUBLE - key symptoms to look out for - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEhpRmpYaGM4M1VERlktZktQREdxRG5jZ09aclk3bzQ0LVYtU2JiR0NkbTdBd3V1cDNqTS1Pa2NLS0dZR3Q3UVpybkI0TXR2Zy1lUFJhMjBERFNZamJYNjBvOTl6MWlxMGdQTm9qMmIyREJDNldObHQyRE9PYmY4ampMeUlOcnpWVVBPSmF3?oc=5)
+
+2026-11-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEhpRmpYaGM4M1VERlktZktQREdxRG5jZ09aclk3bzQ0LVYtU2JiR0NkbTdBd3V1cDNqTS1Pa2NLS0dZR3Q3UVpybkI0TXR2Zy1lUFJhMjBERFNZamJYNjBvOTl6MWlxMGdQTm9qMmIyREJDNldObHQyRE9PYmY4ampMeUlOcnpWVVBPSmF3?oc=5)
+
+---
+
+### [Una colla radioattiva per colpire il tumore al pancreas: la prima volta al mondo è al Gemelli](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTlFBSEc0NHhXekxfdF95UEI2NUtFdVJkZUtqbFNOSW1aelFObWU0d29mSk9kMXV0cWtZdmVCeFdHd0F1YWIxMkE0b2o2UEhkS1pocU9ZMUZuaURucGI4QWNYX1N3RktsMlhlSXJhX0d1M0Y3Y2xPTXZZTEJTcFJjZzEyYzdOM0FoclNZdXpha0lHam1FSVZ6eUFmZTR2ZFJFRjFSTE5STXM3NU5vQmJvMjhxMDB4cWE2Q2U4OVFBNE01THl1dkFtczZtWXdJQkJEUktTNEZzWENVM2s?oc=5)
+
+2026-10-31 <span class="news-indication-tag">tumor</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTlFBSEc0NHhXekxfdF95UEI2NUtFdVJkZUtqbFNOSW1aelFObWU0d29mSk9kMXV0cWtZdmVCeFdHd0F1YWIxMkE0b2o2UEhkS1pocU9ZMUZuaURucGI4QWNYX1N3RktsMlhlSXJhX0d1M0Y3Y2xPTXZZTEJTcFJjZzEyYzdOM0FoclNZdXpha0lHam1FSVZ6eUFmZTR2ZFJFRjFSTE5STXM3NU5vQmJvMjhxMDB4cWE2Q2U4OVFBNE01THl1dkFtczZtWXdJQkJEUktTNEZzWENVM2s?oc=5)
+
+---
+
 ### [Quarter of women still missing breast cancer screening](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLYWI4UFF3bi1LWWVLdlliREJTQkU3Ym5EaWw1dmJvN2VabGZ2a0tfSEI2eENNcUdpc1N4blpLRUI1YmFZTGtjTTJ3clpVUXlLclh0NXFuR2lFNkxBbEE?oc=5)
 
 2026-10-31 <span class="news-indication-tag">cancer</span>
@@ -76,6 +92,14 @@ Source: [Ouest-France](https://news.google.com/rss/articles/CBMikwJBVV95cUxQbWh3
 
 ---
 
+### [El ayuno intermitente y la restricción calórica, nuevas vías de investigación frente al cáncer de hígado](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR3dDQ0F5TkRRMWZZLVduWlpMUDBhSGNnNzdyTjI5RDlSZFJHY3VVZ0Q4YnRqeVBnTmphT1NDcnEwVE1lXzZmNVIwUlJkcjJaU2tiWFhxdG5aTE5veEI0OFFsZldkX3dBc01CcWNyX2t4bXhLMDZCT3BmS2ZxcGNxZGoyQkdIWTFURm9FZ2FubG5FQlNJMGV5SlRWVWdKUGs1SXVnQXlDNzJRYVlXTVpBTjM2cnBnMnF5blpXVzEyb2g1S09WRWJoWkg2b0NMQ2cwUklJa3ltZzVnUzZkajRzdlpfUzRwUkhmX0hVaUlUNlFVZw?oc=5)
+
+2026-10-31 <span class="news-indication-tag">tumor</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR3dDQ0F5TkRRMWZZLVduWlpMUDBhSGNnNzdyTjI5RDlSZFJHY3VVZ0Q4YnRqeVBnTmphT1NDcnEwVE1lXzZmNVIwUlJkcjJaU2tiWFhxdG5aTE5veEI0OFFsZldkX3dBc01CcWNyX2t4bXhLMDZCT3BmS2ZxcGNxZGoyQkdIWTFURm9FZ2FubG5FQlNJMGV5SlRWVWdKUGs1SXVnQXlDNzJRYVlXTVpBTjM2cnBnMnF5blpXVzEyb2g1S09WRWJoWkg2b0NMQ2cwUklJa3ltZzVnUzZkajRzdlpfUzRwUkhmX0hVaUlUNlFVZw?oc=5)
+
+---
+
 ### [Monifieth dad’s shock stage three bowel cancer diagnosis: ‘I had no symptoms’ - The Courier](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUm1HQVRaTFp6MmI0Q21pZUN2bnBkOGhYZ0VXcUx6WXFBX1NibFF4WEsxWlVCYmFxM2ptcDhSeGhoVWVtZGY4NWU0d3I1ZlRCRU9NcG9QNmN3NDZXU2t1N2JMQ3A3RGp5RTQyN0FyVi1NR2FwU3BMUkpOYkthQk14T1Jad2VqbzVURm9GcFAtQURiR05ia05CNnNuVmEyeEphRGEyU1NNTU5IZklSQ3I1YWF0elRZYTZSTVd3ZWM4MnlfTHdzMERmVjZPOGVXaHI0S0tMOFNsaTI?oc=5)
 
 2026-10-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -89,14 +113,6 @@ Source: [The Courier](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUm1HQ
 2026-10-31 <span class="news-indication-tag">cancer</span>
 
 Source: [Actu.fr](https://news.google.com/rss/articles/CBMijAJBVV95cUxPUmpwdFlpeEUxUTVxQWhrdjdhQVNJU1E0ZFNFcnd6UGM0c21UanlBNTNCS2NqM3JjQU4zRlRfdDJRenhWa245Tm1GcmRlSWZvUW5ZM3dIWkNJcTJxQjhEYzRhcnFWRWVVNU1ZdjlkSlI1cVRHUWw1MW9EdGtxbVpIZDNBVVI1dHZJZHB5MzY1UlRFOHgtcUNqQVd2WmxNYTkxZUllZDllc2hKNE1rbmM0Q0ttMWpiSE10R0NlVnNhNjBfWFExa3VJekQyTVBxc29LaXpGVTBSN1lSeV9yLVNSTmxMc2ZFbWpaNURJbnlacmpBR3FQWFlvZ2p6YkVJWElPc3RCT1U5QXNfbER0?oc=5)
-
----
-
-### [Una combinación de dos inmunoterapias logra controlar el cáncer de hígado en pacientes de mal pronóstico - Libertad Digital](https://news.google.com/rss/articles/CBMijgJBVV95cUxNZDh4ZzEzc1ltLTY2NU1HTWZuLW9oZW04QS1oYzNiTmdqNUdaaDV3Zzcxd1Y3dG5ObnY5UlJoRlNYSnZzQXNXclp6b0ttejN4RHAzM3ktV093UHQ0ZnVkdlB4bjl5T3p0NlVGbi1sSmJ2RTFvVnpBcnV3YmN4UHBMTnFER05wN014Q1JhUDMtYjY3SW55MkdqUUd6cDI0Tk5ZNHg0UURhaFZtdHQ1bWE2ZlRMOXpoQndKUHNtNzJGNWdXcUNfakQtQ2lYVUZmcmtNd2M0NUtPREd1dnNvdTdZdGlYdDVzaklaeVEzZ1Z1NUFSdnotdTNMQ0llTzlHNERyZkIxcEtoRjBWRkx0c2fSAZgCQVVfeXFMUDNteHFnald3NDFpbld5dlgxZ3ljcjBoc3VLcTRWakotNW84eUpNUmNhcGJUdHFxa2ptTTh5VnU4b3JrVWlvQ1BtcGZnMnlMejBQV20zM3o3TTNBRElXWWpQM1hzYTFsY3hENlNlMUtubFZBWmdiWlNGMTVqcVg4YUVZMWhfRUNmN2g5WVF5TkVENWFsTE42dk9waEtGSzc0YkREV1hDbE93RjR3RGVpNFdxWEhxNl9rcVBpby1uQVFpbUp0WnhwcV9IdkZwRUNrckNRNDRnalloc3Q1ems0b0d5NXBmMTBHNkFDT05ZbkM1c1dBMk9zeUNjNmFCckFVNEFQSm5TSXhXR3h1cE5nZmpHVjFrUVE4dw?oc=5)
-
-2026-10-31 <span class="news-indication-tag">cancer</span>
-
-Source: [Libertad Digital](https://news.google.com/rss/articles/CBMijgJBVV95cUxNZDh4ZzEzc1ltLTY2NU1HTWZuLW9oZW04QS1oYzNiTmdqNUdaaDV3Zzcxd1Y3dG5ObnY5UlJoRlNYSnZzQXNXclp6b0ttejN4RHAzM3ktV093UHQ0ZnVkdlB4bjl5T3p0NlVGbi1sSmJ2RTFvVnpBcnV3YmN4UHBMTnFER05wN014Q1JhUDMtYjY3SW55MkdqUUd6cDI0Tk5ZNHg0UURhaFZtdHQ1bWE2ZlRMOXpoQndKUHNtNzJGNWdXcUNfakQtQ2lYVUZmcmtNd2M0NUtPREd1dnNvdTdZdGlYdDVzaklaeVEzZ1Z1NUFSdnotdTNMQ0llTzlHNERyZkIxcEtoRjBWRkx0c2fSAZgCQVVfeXFMUDNteHFnald3NDFpbld5dlgxZ3ljcjBoc3VLcTRWakotNW84eUpNUmNhcGJUdHFxa2ptTTh5VnU4b3JrVWlvQ1BtcGZnMnlMejBQV20zM3o3TTNBRElXWWpQM1hzYTFsY3hENlNlMUtubFZBWmdiWlNGMTVqcVg4YUVZMWhfRUNmN2g5WVF5TkVENWFsTE42dk9waEtGSzc0YkREV1hDbE93RjR3RGVpNFdxWEhxNl9rcVBpby1uQVFpbUp0WnhwcV9IdkZwRUNrckNRNDRnalloc3Q1ems0b0d5NXBmMTBHNkFDT05ZbkM1c1dBMk9zeUNjNmFCckFVNEFQSm5TSXhXR3h1cE5nZmpHVjFrUVE4dw?oc=5)
 
 ---
 
@@ -124,11 +140,11 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOFJ4Ym
 
 ---
 
-### [Colorectal cancer rates surge across all adults, new study shows - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZV9EM3Z0WGtDZ1pnVlJ3WGlJWmlkUm1aaWNqWUwzZGpTLUNLVkl1U0hzUU13YmJzSGpWYk1NaW5QWEVJZUdfZGJoQmFjaGxPSHFUR3ViU0d5el85TkhkRURJUU5vMDZDVi1RMmN4SzVlSGRJTk1NZzVobVg0WUEtWWV1dFFrWGhYVTdsZUM5c3JWSlBMbElMTFg2eXl1TzNxdWUzTw?oc=5)
+### [NEWSLETTER: Rise in US colon cancer rates not limited to young adults, analysis finds](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMTBnaUt4NS1DVko2SjFqSnlOUVNKbzJTLTlqYWp3eUFta0NpX0RXR0RWRkdDUUhpY05pWDR6bEx3WElKbTJKcEE0U0lidF81TkJWZVZRblM3eF9MZUtsb25lVVEwR1YxY0pNYUkyTHRfbmlXSm1qeXNVTmFnTFExRHN1cTdzVDg5X2VNRnZiMVZtSW1YT2hJeE1zakI0T1JJVGFsdUY5TzZSR2FiZUtfSmpVMGItM0ZDb0NRSEtVSDk4OTI4RExXTmdPaW5yREc5V3dQOQ?oc=5)
 
 2026-10-30 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">cancer</span>
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZV9EM3Z0WGtDZ1pnVlJ3WGlJWmlkUm1aaWNqWUwzZGpTLUNLVkl1U0hzUU13YmJzSGpWYk1NaW5QWEVJZUdfZGJoQmFjaGxPSHFUR3ViU0d5el85TkhkRURJUU5vMDZDVi1RMmN4SzVlSGRJTk1NZzVobVg0WUEtWWV1dFFrWGhYVTdsZUM5c3JWSlBMbElMTFg2eXl1TzNxdWUzTw?oc=5)
+Source: [Reuters](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMTBnaUt4NS1DVko2SjFqSnlOUVNKbzJTLTlqYWp3eUFta0NpX0RXR0RWRkdDUUhpY05pWDR6bEx3WElKbTJKcEE0U0lidF81TkJWZVZRblM3eF9MZUtsb25lVVEwR1YxY0pNYUkyTHRfbmlXSm1qeXNVTmFnTFExRHN1cTdzVDg5X2VNRnZiMVZtSW1YT2hJeE1zakI0T1JJVGFsdUY5TzZSR2FiZUtfSmpVMGItM0ZDb0NRSEtVSDk4OTI4RExXTmdPaW5yREc5V3dQOQ?oc=5)
 
 ---
 
@@ -196,27 +212,11 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3
 
 ---
 
-### [Tumore del colon-retto nei giovani, una mappa di 850mila cellule rivela cosa cambia](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWnpkaVpJLWQ2VFhORmtTOGRXdGpoR3dWZlZZLWFZX3pXMERZYmh6LWk1RHJiV3pJTk5lbHd3cUNBRk0yaWRrZG1YRWVEU0FnTzFKZ3laSDdmUkx5RXZqcU9hMHNManp6Rk8wb3FmSHl3ZG9NWHE5elJnYl96TFV1ZWhsbk5FRUxuSmJ2MHF0OHVVV2FPaGtUZ0tPN3N0MVI4QndUeEtuUlRodUdzVldSOEh6NGJYNG1Mck5NWlpRYTdIRmlpa2o0Nmp3aVdObE4wYWVJbmNJeUFRUQ?oc=5)
-
-2026-10-29 <span class="news-indication-tag">tumor</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWnpkaVpJLWQ2VFhORmtTOGRXdGpoR3dWZlZZLWFZX3pXMERZYmh6LWk1RHJiV3pJTk5lbHd3cUNBRk0yaWRrZG1YRWVEU0FnTzFKZ3laSDdmUkx5RXZqcU9hMHNManp6Rk8wb3FmSHl3ZG9NWHE5elJnYl96TFV1ZWhsbk5FRUxuSmJ2MHF0OHVVV2FPaGtUZ0tPN3N0MVI4QndUeEtuUlRodUdzVldSOEh6NGJYNG1Mck5NWlpRYTdIRmlpa2o0Nmp3aVdObE4wYWVJbmNJeUFRUQ?oc=5)
-
----
-
 ### [„Zombiezellen”: Warum Krebs nach der Chemotherapie oft wiederkommt - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1JWV2ROdDJfUXAxNUNsYUxtRHlJcjIwRThkblB6dDJtT1NvdUJFNEdzSlFsRDBnZlpyeGc5SFh0VzZnXzZIcW9uYVYxV3h1NEllY3JHQ2dGWWlHTzFoUE1Edld4WW5qMmFKVVVJWFdkak52Z2pCM0wycWlCTWlpSzFrXzdCV0xPWG1nNWs4dTlQNk43T3hYbFFUZw?oc=5)
 
 2026-10-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1JWV2ROdDJfUXAxNUNsYUxtRHlJcjIwRThkblB6dDJtT1NvdUJFNEdzSlFsRDBnZlpyeGc5SFh0VzZnXzZIcW9uYVYxV3h1NEllY3JHQ2dGWWlHTzFoUE1Edld4WW5qMmFKVVVJWFdkak52Z2pCM0wycWlCTWlpSzFrXzdCV0xPWG1nNWs4dTlQNk43T3hYbFFUZw?oc=5)
-
----
-
-### [Fundraising appeal for devoted Donegal mum-of-two with stage four cancer - Donegal Daily](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjA2TFBjRklVUWllS1Fza0p4ZF9ObkUzXzhnQjlVZ3RmQ3RxM2ZiNHMzWHNxYnRIUXJyMmltOVJXSTdzVlFrbmdWWUN5bHQ4UHZ3d21mZDloeFNydS1MNHVnMkJDaHVxVDdsbDROMnVLaUpzaHR6UTZERW5wOFNtVHB6ZFk1bmt4N2x0eVJXWlR2azJnVWptWGNZNk9tWWhnNVE3S3Y3YURRNVZ6RndmMHR0SQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">cancer</span>
-
-Source: [Donegal Daily](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjA2TFBjRklVUWllS1Fza0p4ZF9ObkUzXzhnQjlVZ3RmQ3RxM2ZiNHMzWHNxYnRIUXJyMmltOVJXSTdzVlFrbmdWWUN5bHQ4UHZ3d21mZDloeFNydS1MNHVnMkJDaHVxVDdsbDROMnVLaUpzaHR6UTZERW5wOFNtVHB6ZFk1bmt4N2x0eVJXWlR2azJnVWptWGNZNk9tWWhnNVE3S3Y3YURRNVZ6RndmMHR0SQ?oc=5)
 
 ---
 
