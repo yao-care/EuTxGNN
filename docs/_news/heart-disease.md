@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "maladie cardiaque (heart disease) News"
+title: "heart disease News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about maladie cardiaque (heart disease). 2 articles, 57 related drugs."
+description: "Health news about heart disease. 2 articles, 57 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-01
 ---
 
-# maladie cardiaque (heart disease) News
+# heart disease News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about maladie cardiaque (heart disease)?">
-<strong>maladie cardiaque (heart disease)</strong> currently has <strong>2 news articles</strong> and 57 related drugs.
+<p class="key-answer" data-question="What news is there about heart disease?">
+<strong>heart disease</strong> currently has <strong>2 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “maladie cardiaque” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “heart disease” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -66,11 +66,11 @@ This page brings together the latest health news about “maladie cardiaque” a
 
 ## Related News (2)
 
-### [À Besançon, le CHU se mobilise contre une maladie cardiaque méconnue - 20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2Y3RHZ4b0VhOUdnY2pjVkw4emRTUDhOZS12QWF4LWlFRVlGR0JPenFaRXpPNFptVXU4S0NDbTBJakp5Skx0MVVmLVlOSkVBdHZMTUYzbnBxWUM1ZlRmekRnNnU2YUNUdFFPNFhIdjFhWU0zWTVsQ3hMZDZCd21VWGQ5NmFSa2EtUG92d2JQTXhQSVZZcXc1ZllZQTk1U180YnJ5ZzJQLUZ3MTdIOUc0UTFSU2trQU8xa2c?oc=5)
+### [Three ways to keep your heart healthy and cut the risk of cardiovascular disease - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzh2ZDlCN254SkVWTUt1SzJ4eURET3Y0Sm1XNVd5c1ItUGFkZWpHUkpUT1RtU3RlU3RrNUdJZDh5MEJTaC1RREF1MFl6cE94OWtQdWt2Rks4eUgtVWhFWHUwUTRhOEdmZ29jMUMxcGcyR1Y2bVBVc3BSbUVuM283YWoxVVM5dkpZYnZTRnFLanpwQ2FIXzA0?oc=5)
 
-2026-10-29
+2026-10-31
 
-Source: [20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2Y3RHZ4b0VhOUdnY2pjVkw4emRTUDhOZS12QWF4LWlFRVlGR0JPenFaRXpPNFptVXU4S0NDbTBJakp5Skx0MVVmLVlOSkVBdHZMTUYzbnBxWUM1ZlRmekRnNnU2YUNUdFFPNFhIdjFhWU0zWTVsQ3hMZDZCd21VWGQ5NmFSa2EtUG92d2JQTXhQSVZZcXc1ZllZQTk1U180YnJ5ZzJQLUZ3MTdIOUc0UTFSU2trQU8xa2c?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzh2ZDlCN254SkVWTUt1SzJ4eURET3Y0Sm1XNVd5c1ItUGFkZWpHUkpUT1RtU3RlU3RrNUdJZDh5MEJTaC1RREF1MFl6cE94OWtQdWt2Rks4eUgtVWhFWHUwUTRhOEdmZ29jMUMxcGcyR1Y2bVBVc3BSbUVuM283YWoxVVM5dkpZYnZTRnFLanpwQ2FIXzA0?oc=5)
 
 ---
 

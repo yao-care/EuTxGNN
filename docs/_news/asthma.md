@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "asma (asthma) News"
+title: "asthma News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about asma (asthma). 3 articles, 47 related drugs."
+description: "Health news about asthma. 1 articles, 47 related drugs."
 permalink: /news/asthma/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-01
 ---
 
-# asma (asthma) News
+# asthma News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about asma (asthma)?">
-<strong>asma (asthma)</strong> currently has <strong>3 news articles</strong> and 47 related drugs.
+<p class="key-answer" data-question="What news is there about asthma?">
+<strong>asthma</strong> currently has <strong>1 news articles</strong> and 47 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “asma” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “asthma” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -61,29 +61,13 @@ This page brings together the latest health news about “asma” and lists the 
 </ul>
 </div>
 
-## Related News (3)
-
-### [Los médicos se ponen de acuerdo: ir a la piscina durante la infancia se asocia con un mayor riesgo de tener asma, pero no hay evidencia para la dermatitis atópica ni la rinitis alérgica - Mundo Deportivo](https://news.google.com/rss/articles/CBMijwJBVV95cUxOdC0zT1ZfYWhqdUp4T2gxRFpSTERsN1BxYTdwdzdOQm9OOHM0aGVZdUhidmVyVUVHdEFtZEgxaG1hV3FraDRlTjVvUEgxUE5SM0pic1E1ZFlBTmlPY01KN1BnNjhlbGRiemZ5ZktCbjZYRW51X0hoVlVFQmVuQjlGektuUHp4anVxX1plbHlaUWgteEZtUlQwWXFtTWt1UDl4MmMwN0VkR2xBMlhneXpUZnRSd2xlZnYxazdtZGNIZTgtNGU4V01HUmt6YnF2a0pZZjNHS3NQVDBGNkd2cUtwM0dDaTY0aGtwb1BocW5SVy1TN3RLdk02ZkxZMXl5TnowVkJ1U3ZSRnV4ZWlIMF9v0gGcAkFVX3lxTE9xSDJBdy1LZ2J6MWZmanFSX0hUWG92Qk1wbElJT0ZJdXBvbFdSYUFHeXRxa3dLTlJMamxjeDJQTFpYQVRfdUtLc281OHU5dXZOQmh6R3UxNlFULUVXblg5ZG9uMTEtT2pKU0M3eW53NUtjYzRxUll1b2lnZ1hxRkNER3JkNmVNZm5xNTdoY0c2enBfOGFFU0Z5ZmJId0ZMWVpPcnVjeno4NzdibVZFNnlsd1o4ZmRfaEgxaHVTWVp0V2lBeUh4VUxBZktPbnlWSzBTc2xjTWJrbUp6S1hLX1dqTkxpaHVUeVBoTEttWkJRN1ZieFlZejludFpaNEdTQktMdHU5d3lGWUdYWEItWXZiNEd1ekVWaW9xSF9B?oc=5)
-
-2026-10-30
-
-Source: [Mundo Deportivo](https://news.google.com/rss/articles/CBMijwJBVV95cUxOdC0zT1ZfYWhqdUp4T2gxRFpSTERsN1BxYTdwdzdOQm9OOHM0aGVZdUhidmVyVUVHdEFtZEgxaG1hV3FraDRlTjVvUEgxUE5SM0pic1E1ZFlBTmlPY01KN1BnNjhlbGRiemZ5ZktCbjZYRW51X0hoVlVFQmVuQjlGektuUHp4anVxX1plbHlaUWgteEZtUlQwWXFtTWt1UDl4MmMwN0VkR2xBMlhneXpUZnRSd2xlZnYxazdtZGNIZTgtNGU4V01HUmt6YnF2a0pZZjNHS3NQVDBGNkd2cUtwM0dDaTY0aGtwb1BocW5SVy1TN3RLdk02ZkxZMXl5TnowVkJ1U3ZSRnV4ZWlIMF9v0gGcAkFVX3lxTE9xSDJBdy1LZ2J6MWZmanFSX0hUWG92Qk1wbElJT0ZJdXBvbFdSYUFHeXRxa3dLTlJMamxjeDJQTFpYQVRfdUtLc281OHU5dXZOQmh6R3UxNlFULUVXblg5ZG9uMTEtT2pKU0M3eW53NUtjYzRxUll1b2lnZ1hxRkNER3JkNmVNZm5xNTdoY0c2enBfOGFFU0Z5ZmJId0ZMWVpPcnVjeno4NzdibVZFNnlsd1o4ZmRfaEgxaHVTWVp0V2lBeUh4VUxBZktPbnlWSzBTc2xjTWJrbUp6S1hLX1dqTkxpaHVUeVBoTEttWkJRN1ZieFlZejludFpaNEdTQktMdHU5d3lGWUdYWEItWXZiNEd1ekVWaW9xSF9B?oc=5)
-
----
+## Related News (1)
 
 ### [Exazerbationen trotz Asthma-Therapie: Was dann nötig ist](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjJpc01FMjNCanlWUGR5V2FTVExRRE5tWHNtSUFibjRfNy1QUGlfZUNZN0xReGRZb2pTTC1HYk5lbHBrMXlaVXNvMWk4a3p2bFd6SWk5ZnRPbUtZcVFtSU05ZHBvMDU2YjUzUk1FNkRHSVhXckpLNng5MkJ4YUhIRlY1ZmxMZXNuYzNVSXN5eWxfRzB1RFY5XzEtak90WTVORnBSRQ?oc=5)
 
 2026-10-30
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjJpc01FMjNCanlWUGR5V2FTVExRRE5tWHNtSUFibjRfNy1QUGlfZUNZN0xReGRZb2pTTC1HYk5lbHBrMXlaVXNvMWk4a3p2bFd6SWk5ZnRPbUtZcVFtSU05ZHBvMDU2YjUzUk1FNkRHSVhXckpLNng5MkJ4YUhIRlY1ZmxMZXNuYzNVSXN5eWxfRzB1RFY5XzEtak90WTVORnBSRQ?oc=5)
-
----
-
-### [Asthma als möglicher Risikofaktor für Karies - ZWP online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzRuLWJqOXVTZUZiRnR5M0w1SWRsTTgzMTZfY1FSR0J6QmNuRkY2ampVSkU1bkNCNnZkVVVoM2hZLVhGclhUelhjQVM3ZkEtQmVRNGNwY04yZ0V5R090UlhRRWVOSXRuSk05d0ZHSFlJekZSeDVtRk9FeEVtWHZ1SnNEMFNaTl9DSVNMU0hwMFlDM25zSU5jMm03dUFVZ0Nzbm1qRFpZd2lmMm1lMXAxTXpSZ0VkejdfWXAw?oc=5)
-
-2026-10-27
-
-Source: [ZWP online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzRuLWJqOXVTZUZiRnR5M0w1SWRsTTgzMTZfY1FSR0J6QmNuRkY2ampVSkU1bkNCNnZkVVVoM2hZLVhGclhUelhjQVM3ZkEtQmVRNGNwY04yZ0V5R090UlhRRWVOSXRuSk05d0ZHSFlJekZSeDVtRk9FeEVtWHZ1SnNEMFNaTl9DSVNMU0hwMFlDM25zSU5jMm03dUFVZ0Nzbm1qRFpZd2lmMm1lMXAxTXpSZ0VkejdfWXAw?oc=5)
 
 ---
 

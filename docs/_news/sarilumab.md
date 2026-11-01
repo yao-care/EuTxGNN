@@ -32,19 +32,35 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 
 ## Related News (6)
 
+### [CED-Frühtests: Blutprofil erkennt Morbus Crohn mit AUC 0,90 - it boltwise](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeElxN2VaanREN0IzZ2dVOUE3N2JlWGVuMGpjeFIxaUY0anhrSktVcmtDZmVqdEpWU2t2aElMbFh4VjdHdjk3ZkRseWRVdndXLTNDVWlQbkFPM3N6eTZXaUp0dkRMUlkzLTJfck41NFgxSGMtR29tOFRhOUhPUDF4cTljcGJlVUhjbWxOeVp6RWsycFpi?oc=5)
+
+2026-11-01 <span class="news-indication-tag">Morbus Crohn</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeElxN2VaanREN0IzZ2dVOUE3N2JlWGVuMGpjeFIxaUY0anhrSktVcmtDZmVqdEpWU2t2aElMbFh4VjdHdjk3ZkRseWRVdndXLTNDVWlQbkFPM3N6eTZXaUp0dkRMUlkzLTJfck41NFgxSGMtR29tOFRhOUhPUDF4cTljcGJlVUhjbWxOeVp6RWsycFpi?oc=5)
+
+---
+
+### [Artritis psoriásica: más allá de la piel - Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
+
+2026-11-01 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">AF</span>
+
+Source: [Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
+
+---
+
+### [Schuppenflechte - Was moderne Therapien bei Psoriasis leisten können - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EbTN6NmltakVfS3U2SVdEdkFzSU1lSGM5RFBjOHFyNU13V213MDl5aUxtV1lVdTVORDZHUnB1ZjJjQQ?oc=5)
+
+2026-10-31 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EbTN6NmltakVfS3U2SVdEdkFzSU1lSGM5RFBjOHFyNU13V213MDl5aUxtV1lVdTVORDZHUnB1ZjJjQQ?oc=5)
+
+---
+
 ### [BPCO: fiato corto nonostante gli inalatori, un esame del sangue può orientare nuove cure](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTV80dkpNeWZ4b3FFb3Z2R3AyOHJBZlNBQ0IwdEFkY1Zyck42S0VITVVIeFM2MEJrMXZTdjBJcXZLRkw0Q0ZsWFVoVE1TdzVSbHI0M3kwV2ljbERxQzVoQTZPMjVMMGZoQ3R2LXE4bU1kcTVGcWkwbS0zZHFxX29NMlF4TF9oU2k3SWpFdnFpTnk1d2VHRTlLS2JqaUtGbWpyWmhPV3RnUEZNUWxJNjROTFBpYWo0MGowSDVBdExhdlY0TDhRcUFOal8zWEQwck83Y2c5Z3dRdVotaFk3SjdF?oc=5)
 
 2026-10-30 <span class="news-indication-tag">BPCO</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTV80dkpNeWZ4b3FFb3Z2R3AyOHJBZlNBQ0IwdEFkY1Zyck42S0VITVVIeFM2MEJrMXZTdjBJcXZLRkw0Q0ZsWFVoVE1TdzVSbHI0M3kwV2ljbERxQzVoQTZPMjVMMGZoQ3R2LXE4bU1kcTVGcWkwbS0zZHFxX29NMlF4TF9oU2k3SWpFdnFpTnk1d2VHRTlLS2JqaUtGbWpyWmhPV3RnUEZNUWxJNjROTFBpYWo0MGowSDVBdExhdlY0TDhRcUFOal8zWEQwck83Y2c5Z3dRdVotaFk3SjdF?oc=5)
-
----
-
-### [Los médicos se ponen de acuerdo: ir a la piscina durante la infancia se asocia con un mayor riesgo de tener asma, pero no hay evidencia para la dermatitis atópica ni la rinitis alérgica - Mundo Deportivo](https://news.google.com/rss/articles/CBMijwJBVV95cUxOdC0zT1ZfYWhqdUp4T2gxRFpSTERsN1BxYTdwdzdOQm9OOHM0aGVZdUhidmVyVUVHdEFtZEgxaG1hV3FraDRlTjVvUEgxUE5SM0pic1E1ZFlBTmlPY01KN1BnNjhlbGRiemZ5ZktCbjZYRW51X0hoVlVFQmVuQjlGektuUHp4anVxX1plbHlaUWgteEZtUlQwWXFtTWt1UDl4MmMwN0VkR2xBMlhneXpUZnRSd2xlZnYxazdtZGNIZTgtNGU4V01HUmt6YnF2a0pZZjNHS3NQVDBGNkd2cUtwM0dDaTY0aGtwb1BocW5SVy1TN3RLdk02ZkxZMXl5TnowVkJ1U3ZSRnV4ZWlIMF9v0gGcAkFVX3lxTE9xSDJBdy1LZ2J6MWZmanFSX0hUWG92Qk1wbElJT0ZJdXBvbFdSYUFHeXRxa3dLTlJMamxjeDJQTFpYQVRfdUtLc281OHU5dXZOQmh6R3UxNlFULUVXblg5ZG9uMTEtT2pKU0M3eW53NUtjYzRxUll1b2lnZ1hxRkNER3JkNmVNZm5xNTdoY0c2enBfOGFFU0Z5ZmJId0ZMWVpPcnVjeno4NzdibVZFNnlsd1o4ZmRfaEgxaHVTWVp0V2lBeUh4VUxBZktPbnlWSzBTc2xjTWJrbUp6S1hLX1dqTkxpaHVUeVBoTEttWkJRN1ZieFlZejludFpaNEdTQktMdHU5d3lGWUdYWEItWXZiNEd1ekVWaW9xSF9B?oc=5)
-
-2026-10-30 <span class="news-indication-tag">asma</span>
-
-Source: [Mundo Deportivo](https://news.google.com/rss/articles/CBMijwJBVV95cUxOdC0zT1ZfYWhqdUp4T2gxRFpSTERsN1BxYTdwdzdOQm9OOHM0aGVZdUhidmVyVUVHdEFtZEgxaG1hV3FraDRlTjVvUEgxUE5SM0pic1E1ZFlBTmlPY01KN1BnNjhlbGRiemZ5ZktCbjZYRW51X0hoVlVFQmVuQjlGektuUHp4anVxX1plbHlaUWgteEZtUlQwWXFtTWt1UDl4MmMwN0VkR2xBMlhneXpUZnRSd2xlZnYxazdtZGNIZTgtNGU4V01HUmt6YnF2a0pZZjNHS3NQVDBGNkd2cUtwM0dDaTY0aGtwb1BocW5SVy1TN3RLdk02ZkxZMXl5TnowVkJ1U3ZSRnV4ZWlIMF9v0gGcAkFVX3lxTE9xSDJBdy1LZ2J6MWZmanFSX0hUWG92Qk1wbElJT0ZJdXBvbFdSYUFHeXRxa3dLTlJMamxjeDJQTFpYQVRfdUtLc281OHU5dXZOQmh6R3UxNlFULUVXblg5ZG9uMTEtT2pKU0M3eW53NUtjYzRxUll1b2lnZ1hxRkNER3JkNmVNZm5xNTdoY0c2enBfOGFFU0Z5ZmJId0ZMWVpPcnVjeno4NzdibVZFNnlsd1o4ZmRfaEgxaHVTWVp0V2lBeUh4VUxBZktPbnlWSzBTc2xjTWJrbUp6S1hLX1dqTkxpaHVUeVBoTEttWkJRN1ZieFlZejludFpaNEdTQktMdHU5d3lGWUdYWEItWXZiNEd1ekVWaW9xSF9B?oc=5)
 
 ---
 
@@ -56,27 +72,11 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxO
 
 ---
 
-### [Stigmatisierung junger Psoriasis-Patienten: IFPA startet Kampagne - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN19GUHAyVE8tXzgxT19jUFFxY0wzc2pjS05EMUxXN0hRME1nOGg3d2xBeG1jMldIcGZ6aEkzNFlZTjA3MmxfWS1GRnhwd1RJa2pkb1RORDcxNlZSN0hfdnNWd1dja1pnX0lla1Y4M2JPUmZfMVJibldRcG1scjRTd2JuR1ZZYVJhV3NRT0lhNUtmNlFoZUtYM2RJZ1pqeko3ak5KbmNiM1N6MnEwa3RZWXU5bFM?oc=5)
-
-2026-10-28 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN19GUHAyVE8tXzgxT19jUFFxY0wzc2pjS05EMUxXN0hRME1nOGg3d2xBeG1jMldIcGZ6aEkzNFlZTjA3MmxfWS1GRnhwd1RJa2pkb1RORDcxNlZSN0hfdnNWd1dja1pnX0lla1Y4M2JPUmZfMVJibldRcG1scjRTd2JuR1ZZYVJhV3NRT0lhNUtmNlFoZUtYM2RJZ1pqeko3ak5KbmNiM1N6MnEwa3RZWXU5bFM?oc=5)
-
----
-
 ### [A simple daily fiber supplement reduced arthritis pain and improved strength - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
 
 2026-10-28 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
-
----
-
-### [Asthma als möglicher Risikofaktor für Karies - ZWP online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzRuLWJqOXVTZUZiRnR5M0w1SWRsTTgzMTZfY1FSR0J6QmNuRkY2ampVSkU1bkNCNnZkVVVoM2hZLVhGclhUelhjQVM3ZkEtQmVRNGNwY04yZ0V5R090UlhRRWVOSXRuSk05d0ZHSFlJekZSeDVtRk9FeEVtWHZ1SnNEMFNaTl9DSVNMU0hwMFlDM25zSU5jMm03dUFVZ0Nzbm1qRFpZd2lmMm1lMXAxTXpSZ0VkejdfWXAw?oc=5)
-
-2026-10-27 <span class="news-indication-tag">asthma</span>
-
-Source: [ZWP online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzRuLWJqOXVTZUZiRnR5M0w1SWRsTTgzMTZfY1FSR0J6QmNuRkY2ampVSkU1bkNCNnZkVVVoM2hZLVhGclhUelhjQVM3ZkEtQmVRNGNwY04yZ0V5R090UlhRRWVOSXRuSk05d0ZHSFlJekZSeDVtRk9FeEVtWHZ1SnNEMFNaTl9DSVNMU0hwMFlDM25zSU5jMm03dUFVZ0Nzbm1qRFpZd2lmMm1lMXAxTXpSZ0VkejdfWXAw?oc=5)
 
 ---
 

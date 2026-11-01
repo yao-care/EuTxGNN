@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Selpercatinib?">
-<strong>Selpercatinib</strong> currently has <strong>3 news articles</strong>, with 3 predicted indications.
+<strong>Selpercatinib</strong> currently has <strong>4 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Selpercatinib with the lates
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Three ways to keep your heart healthy and cut the risk of cardiovascular disease - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzh2ZDlCN254SkVWTUt1SzJ4eURET3Y0Sm1XNVd5c1ItUGFkZWpHUkpUT1RtU3RlU3RrNUdJZDh5MEJTaC1RREF1MFl6cE94OWtQdWt2Rks4eUgtVWhFWHUwUTRhOEdmZ29jMUMxcGcyR1Y2bVBVc3BSbUVuM283YWoxVVM5dkpZYnZTRnFLanpwQ2FIXzA0?oc=5)
+
+2026-10-31 <span class="news-indication-tag">heart disease</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzh2ZDlCN254SkVWTUt1SzJ4eURET3Y0Sm1XNVd5c1ItUGFkZWpHUkpUT1RtU3RlU3RrNUdJZDh5MEJTaC1RREF1MFl6cE94OWtQdWt2Rks4eUgtVWhFWHUwUTRhOEdmZ29jMUMxcGcyR1Y2bVBVc3BSbUVuM283YWoxVVM5dkpZYnZTRnFLanpwQ2FIXzA0?oc=5)
+
+---
 
 ### [My agonising migraines left me bedbound for decades and broke my marriage - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHkzVFJFeGphVXlON0k5UHZVM0RjWWxZQjU5VDhJUktsdU1waGt4bDBXVGx3TG5hRmtoRm1uRXdMVjFuR0x1OWpKQU8zWHRlZkdFaUZvRzRRNlNZMHhVUmd1UnI5R210TUd6V0c5Szk1d3ZBWDl3amRuOGNwQ2YxYk5yeXlwc1pkSjJRZDFYejgzeEJSdVRTR1pGYkt3YTQ?oc=5)
 
@@ -45,11 +53,11 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHk
 
 ---
 
-### [À Besançon, le CHU se mobilise contre une maladie cardiaque méconnue - 20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2Y3RHZ4b0VhOUdnY2pjVkw4emRTUDhOZS12QWF4LWlFRVlGR0JPenFaRXpPNFptVXU4S0NDbTBJakp5Skx0MVVmLVlOSkVBdHZMTUYzbnBxWUM1ZlRmekRnNnU2YUNUdFFPNFhIdjFhWU0zWTVsQ3hMZDZCd21VWGQ5NmFSa2EtUG92d2JQTXhQSVZZcXc1ZllZQTk1U180YnJ5ZzJQLUZ3MTdIOUc0UTFSU2trQU8xa2c?oc=5)
+### [Giornata mondiale ictus cerebrale, come prevenirlo e come riconoscere i primi segnali - Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
 
-2026-10-29 <span class="news-indication-tag">maladie cardiaque</span>
+2026-10-29 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
 
-Source: [20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2Y3RHZ4b0VhOUdnY2pjVkw4emRTUDhOZS12QWF4LWlFRVlGR0JPenFaRXpPNFptVXU4S0NDbTBJakp5Skx0MVVmLVlOSkVBdHZMTUYzbnBxWUM1ZlRmekRnNnU2YUNUdFFPNFhIdjFhWU0zWTVsQ3hMZDZCd21VWGQ5NmFSa2EtUG92d2JQTXhQSVZZcXc1ZllZQTk1U180YnJ5ZzJQLUZ3MTdIOUc0UTFSU2trQU8xa2c?oc=5)
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
 
 ---
 

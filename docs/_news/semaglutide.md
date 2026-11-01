@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Semaglutide. 0 predicted indications."
 permalink: /news/semaglutide/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # Semaglutide News
@@ -32,11 +32,11 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 ## Related News (2)
 
-### [Le "Wegovy", médicament contre l'obésité, arrive en pharmacie : remboursement, effets secondaires... ce qu'il faut savoir sur le traitement vedette](https://news.google.com/rss/articles/CBMikgJBVV95cUxNRTVLMS04OV8yb3dxYXBCcW9KdlpRZVRaX2dCd0VNVVpsRTluV0U0Q0tjYUNLLWxMUWthUGx3WDVKLXc1bkM4UkZyYld5SjFQTl9YQXVHU0JUWTFSUzhoek1mamJyMDEybWRHYUZfaXFLLWo1eFlIelJXTkFCWnN0NGo1Z1ZOckpmUzFqaEZ6SW9idjhLT3B0dS1NR3NicXBVbk8tcVpFMDUyUlVRd1NvWGNfQjhBRFFtYVNDcGRldzAyaVJ5VTR5amplaWhGV0tEcXExbkRyQ0RhTDRlcElBX1ZrWmQ4X1Vid1N3clpMcjVZdHhZUWxyVWJYU3VPM2U3eGN1RUk4UkFsVU4yc1hRdEdB?oc=5)
+### [Prix, effets secondaires, remboursement… Tout ce qu’il faut savoir sur le Wegovy, traitement contre l'obésité qui arrive lundi en comprimé dans les pharmacies](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmpNbGtPUFk0LUEwLUlhSVJ1Rnlfa3lCX1RSbW5DNnZLaENyckQ0WjdPSVAxV3VOajUtOHFKanY4RVRGWkxkX3JuaFM2ay1MTjdrb0pFRHdoTTJlNThDLVhjTlgxLWNkV1A3MmtHU0VZR1lJTTg4MTF0bmM2ZjUxX25ZRkE3dXdBdkVMUm5oMUs4NW9nYXg3SHlRNC1IV2lGNG9wNTRPNndxRWNqZWVwSWpFS0U?oc=5)
 
-2026-10-31 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+2026-11-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
-Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMikgJBVV95cUxNRTVLMS04OV8yb3dxYXBCcW9KdlpRZVRaX2dCd0VNVVpsRTluV0U0Q0tjYUNLLWxMUWthUGx3WDVKLXc1bkM4UkZyYld5SjFQTl9YQXVHU0JUWTFSUzhoek1mamJyMDEybWRHYUZfaXFLLWo1eFlIelJXTkFCWnN0NGo1Z1ZOckpmUzFqaEZ6SW9idjhLT3B0dS1NR3NicXBVbk8tcVpFMDUyUlVRd1NvWGNfQjhBRFFtYVNDcGRldzAyaVJ5VTR5amplaWhGV0tEcXExbkRyQ0RhTDRlcElBX1ZrWmQ4X1Vid1N3clpMcjVZdHhZUWxyVWJYU3VPM2U3eGN1RUk4UkFsVU4yc1hRdEdB?oc=5)
+Source: [CNews](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmpNbGtPUFk0LUEwLUlhSVJ1Rnlfa3lCX1RSbW5DNnZLaENyckQ0WjdPSVAxV3VOajUtOHFKanY4RVRGWkxkX3JuaFM2ay1MTjdrb0pFRHdoTTJlNThDLVhjTlgxLWNkV1A3MmtHU0VZR1lJTTg4MTF0bmM2ZjUxX25ZRkE3dXdBdkVMUm5oMUs4NW9nYXg3SHlRNC1IV2lGNG9wNTRPNndxRWNqZWVwSWpFS0U?oc=5)
 
 ---
 

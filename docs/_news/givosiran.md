@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Environ 500 patients de ce centre dentaire appelés à se faire dépister contre les virus du VIH et des hépatites B et C - France 3 Régions](https://news.google.com/rss/articles/CBMirAJBVV95cUxQdzJHT1l4ZVpzaU5wNmNfY0xiLXhlYnRhNEo2c19jVEQxU3FmOFl1ZV9DSXNrN0FqQWhXZjNma18yMV9iR29LdWxqc0lJUFRkSUMyMHgwd3dZN01oVi1rTGVPUzZiUDRTb1RicFR3akdhand2N05uc3p2ZkZBaW5aWnh4b1BrR25hT0NicnFaNVBqS0J3UHB2TXNLRWJmNS1xYTNYRTlqbXduNXRWNF9aWTI3MWthMHBpYUNSN2Y5ZWpsUmQ5RDI4MnRRdGtRZ1h5blJXLXRwaVUwYmJSbTZEUHU4YzRnTmZNc3AtNldhM0VTanZOeFFjZ01kQTNubkJ0S2RWRmxiaVhKVUk5d1g5clJJYndtWlhvQno5Y2xLcDdVZzBWQk9kZVBlbkU?oc=5)
 
 2026-10-29 <span class="news-indication-tag">hépatite</span>
 
 Source: [France 3 Régions](https://news.google.com/rss/articles/CBMirAJBVV95cUxQdzJHT1l4ZVpzaU5wNmNfY0xiLXhlYnRhNEo2c19jVEQxU3FmOFl1ZV9DSXNrN0FqQWhXZjNma18yMV9iR29LdWxqc0lJUFRkSUMyMHgwd3dZN01oVi1rTGVPUzZiUDRTb1RicFR3akdhand2N05uc3p2ZkZBaW5aWnh4b1BrR25hT0NicnFaNVBqS0J3UHB2TXNLRWJmNS1xYTNYRTlqbXduNXRWNF9aWTI3MWthMHBpYUNSN2Y5ZWpsUmQ5RDI4MnRRdGtRZ1h5blJXLXRwaVUwYmJSbTZEUHU4YzRnTmZNc3AtNldhM0VTanZOeFFjZ01kQTNubkJ0S2RWRmxiaVhKVUk5d1g5clJJYndtWlhvQno5Y2xLcDdVZzBWQk9kZVBlbkU?oc=5)
+
+---
+
+### [Giornata mondiale ictus cerebrale, come prevenirlo e come riconoscere i primi segnali - Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
+
+2026-10-29 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
 
 ---
 

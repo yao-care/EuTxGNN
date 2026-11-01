@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Lumacaftor?">
-<strong>Lumacaftor</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
+<strong>Lumacaftor</strong> currently has <strong>7 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,23 @@ This page combines the AI-predicted indications for Lumacaftor with the latest h
 <p><a href="{{ '/drugs/lumacaftor/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (7)
+
+### [Artritis psoriásica: más allá de la piel - Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
+
+2026-11-01 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">AF</span>
+
+Source: [Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
+
+---
+
+### [Three ways to keep your heart healthy and cut the risk of cardiovascular disease - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzh2ZDlCN254SkVWTUt1SzJ4eURET3Y0Sm1XNVd5c1ItUGFkZWpHUkpUT1RtU3RlU3RrNUdJZDh5MEJTaC1RREF1MFl6cE94OWtQdWt2Rks4eUgtVWhFWHUwUTRhOEdmZ29jMUMxcGcyR1Y2bVBVc3BSbUVuM283YWoxVVM5dkpZYnZTRnFLanpwQ2FIXzA0?oc=5)
+
+2026-10-31 <span class="news-indication-tag">heart disease</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzh2ZDlCN254SkVWTUt1SzJ4eURET3Y0Sm1XNVd5c1ItUGFkZWpHUkpUT1RtU3RlU3RrNUdJZDh5MEJTaC1RREF1MFl6cE94OWtQdWt2Rks4eUgtVWhFWHUwUTRhOEdmZ29jMUMxcGcyR1Y2bVBVc3BSbUVuM283YWoxVVM5dkpZYnZTRnFLanpwQ2FIXzA0?oc=5)
+
+---
 
 ### [My agonising migraines left me bedbound for decades and broke my marriage - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHkzVFJFeGphVXlON0k5UHZVM0RjWWxZQjU5VDhJUktsdU1waGt4bDBXVGx3TG5hRmtoRm1uRXdMVjFuR0x1OWpKQU8zWHRlZkdFaUZvRzRRNlNZMHhVUmd1UnI5R210TUd6V0c5Szk1d3ZBWDl3amRuOGNwQ2YxYk5yeXlwc1pkSjJRZDFYejgzeEJSdVRTR1pGYkt3YTQ?oc=5)
 
@@ -43,19 +59,19 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHk
 
 ---
 
-### [À Besançon, le CHU se mobilise contre une maladie cardiaque méconnue - 20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2Y3RHZ4b0VhOUdnY2pjVkw4emRTUDhOZS12QWF4LWlFRVlGR0JPenFaRXpPNFptVXU4S0NDbTBJakp5Skx0MVVmLVlOSkVBdHZMTUYzbnBxWUM1ZlRmekRnNnU2YUNUdFFPNFhIdjFhWU0zWTVsQ3hMZDZCd21VWGQ5NmFSa2EtUG92d2JQTXhQSVZZcXc1ZllZQTk1U180YnJ5ZzJQLUZ3MTdIOUc0UTFSU2trQU8xa2c?oc=5)
+### [Schuppenflechte - Was moderne Therapien bei Psoriasis leisten können - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EbTN6NmltakVfS3U2SVdEdkFzSU1lSGM5RFBjOHFyNU13V213MDl5aUxtV1lVdTVORDZHUnB1ZjJjQQ?oc=5)
 
-2026-10-29 <span class="news-indication-tag">maladie cardiaque</span>
+2026-10-31 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
 
-Source: [20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2Y3RHZ4b0VhOUdnY2pjVkw4emRTUDhOZS12QWF4LWlFRVlGR0JPenFaRXpPNFptVXU4S0NDbTBJakp5Skx0MVVmLVlOSkVBdHZMTUYzbnBxWUM1ZlRmekRnNnU2YUNUdFFPNFhIdjFhWU0zWTVsQ3hMZDZCd21VWGQ5NmFSa2EtUG92d2JQTXhQSVZZcXc1ZllZQTk1U180YnJ5ZzJQLUZ3MTdIOUc0UTFSU2trQU8xa2c?oc=5)
+Source: [Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EbTN6NmltakVfS3U2SVdEdkFzSU1lSGM5RFBjOHFyNU13V213MDl5aUxtV1lVdTVORDZHUnB1ZjJjQQ?oc=5)
 
 ---
 
-### [Stigmatisierung junger Psoriasis-Patienten: IFPA startet Kampagne - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN19GUHAyVE8tXzgxT19jUFFxY0wzc2pjS05EMUxXN0hRME1nOGg3d2xBeG1jMldIcGZ6aEkzNFlZTjA3MmxfWS1GRnhwd1RJa2pkb1RORDcxNlZSN0hfdnNWd1dja1pnX0lla1Y4M2JPUmZfMVJibldRcG1scjRTd2JuR1ZZYVJhV3NRT0lhNUtmNlFoZUtYM2RJZ1pqeko3ak5KbmNiM1N6MnEwa3RZWXU5bFM?oc=5)
+### [Giornata mondiale ictus cerebrale, come prevenirlo e come riconoscere i primi segnali - Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
 
-2026-10-28 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+2026-10-29 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
 
-Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN19GUHAyVE8tXzgxT19jUFFxY0wzc2pjS05EMUxXN0hRME1nOGg3d2xBeG1jMldIcGZ6aEkzNFlZTjA3MmxfWS1GRnhwd1RJa2pkb1RORDcxNlZSN0hfdnNWd1dja1pnX0lla1Y4M2JPUmZfMVJibldRcG1scjRTd2JuR1ZZYVJhV3NRT0lhNUtmNlFoZUtYM2RJZ1pqeko3ak5KbmNiM1N6MnEwa3RZWXU5bFM?oc=5)
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
 
 ---
 

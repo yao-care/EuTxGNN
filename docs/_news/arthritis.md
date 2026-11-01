@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "arthritis News"
+title: "artritis (arthritis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about arthritis. 2 articles, 73 related drugs."
+description: "Health news about artritis (arthritis). 3 articles, 73 related drugs."
 permalink: /news/arthritis/
 last_modified_at: 2026-11-01
 ---
 
-# arthritis News
+# artritis (arthritis) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about arthritis?">
-<strong>arthritis</strong> currently has <strong>2 news articles</strong> and 73 related drugs.
+<p class="key-answer" data-question="What news is there about artritis (arthritis)?">
+<strong>artritis (arthritis)</strong> currently has <strong>3 news articles</strong> and 73 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “arthritis” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “artritis” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -79,13 +79,21 @@ This page brings together the latest health news about “arthritis” and lists
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Stigmatisierung junger Psoriasis-Patienten: IFPA startet Kampagne - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN19GUHAyVE8tXzgxT19jUFFxY0wzc2pjS05EMUxXN0hRME1nOGg3d2xBeG1jMldIcGZ6aEkzNFlZTjA3MmxfWS1GRnhwd1RJa2pkb1RORDcxNlZSN0hfdnNWd1dja1pnX0lla1Y4M2JPUmZfMVJibldRcG1scjRTd2JuR1ZZYVJhV3NRT0lhNUtmNlFoZUtYM2RJZ1pqeko3ak5KbmNiM1N6MnEwa3RZWXU5bFM?oc=5)
+### [Artritis psoriásica: más allá de la piel - Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
 
-2026-10-28
+2026-11-01
 
-Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN19GUHAyVE8tXzgxT19jUFFxY0wzc2pjS05EMUxXN0hRME1nOGg3d2xBeG1jMldIcGZ6aEkzNFlZTjA3MmxfWS1GRnhwd1RJa2pkb1RORDcxNlZSN0hfdnNWd1dja1pnX0lla1Y4M2JPUmZfMVJibldRcG1scjRTd2JuR1ZZYVJhV3NRT0lhNUtmNlFoZUtYM2RJZ1pqeko3ak5KbmNiM1N6MnEwa3RZWXU5bFM?oc=5)
+Source: [Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
+
+---
+
+### [Schuppenflechte - Was moderne Therapien bei Psoriasis leisten können - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EbTN6NmltakVfS3U2SVdEdkFzSU1lSGM5RFBjOHFyNU13V213MDl5aUxtV1lVdTVORDZHUnB1ZjJjQQ?oc=5)
+
+2026-10-31
+
+Source: [Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EbTN6NmltakVfS3U2SVdEdkFzSU1lSGM5RFBjOHFyNU13V213MDl5aUxtV1lVdTVORDZHUnB1ZjJjQQ?oc=5)
 
 ---
 

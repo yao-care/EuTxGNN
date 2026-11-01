@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Idarucizumab?">
-<strong>Idarucizumab</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
+<strong>Idarucizumab</strong> currently has <strong>4 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,29 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Artritis psoriásica: más allá de la piel - Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
+
+2026-11-01 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">AF</span>
+
+Source: [Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
+
+---
+
+### [Schuppenflechte - Was moderne Therapien bei Psoriasis leisten können - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EbTN6NmltakVfS3U2SVdEdkFzSU1lSGM5RFBjOHFyNU13V213MDl5aUxtV1lVdTVORDZHUnB1ZjJjQQ?oc=5)
+
+2026-10-31 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EbTN6NmltakVfS3U2SVdEdkFzSU1lSGM5RFBjOHFyNU13V213MDl5aUxtV1lVdTVORDZHUnB1ZjJjQQ?oc=5)
+
+---
 
 ### [BPCO: fiato corto nonostante gli inalatori, un esame del sangue può orientare nuove cure](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTV80dkpNeWZ4b3FFb3Z2R3AyOHJBZlNBQ0IwdEFkY1Zyck42S0VITVVIeFM2MEJrMXZTdjBJcXZLRkw0Q0ZsWFVoVE1TdzVSbHI0M3kwV2ljbERxQzVoQTZPMjVMMGZoQ3R2LXE4bU1kcTVGcWkwbS0zZHFxX29NMlF4TF9oU2k3SWpFdnFpTnk1d2VHRTlLS2JqaUtGbWpyWmhPV3RnUEZNUWxJNjROTFBpYWo0MGowSDVBdExhdlY0TDhRcUFOal8zWEQwck83Y2c5Z3dRdVotaFk3SjdF?oc=5)
 
 2026-10-30 <span class="news-indication-tag">BPCO</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTV80dkpNeWZ4b3FFb3Z2R3AyOHJBZlNBQ0IwdEFkY1Zyck42S0VITVVIeFM2MEJrMXZTdjBJcXZLRkw0Q0ZsWFVoVE1TdzVSbHI0M3kwV2ljbERxQzVoQTZPMjVMMGZoQ3R2LXE4bU1kcTVGcWkwbS0zZHFxX29NMlF4TF9oU2k3SWpFdnFpTnk1d2VHRTlLS2JqaUtGbWpyWmhPV3RnUEZNUWxJNjROTFBpYWo0MGowSDVBdExhdlY0TDhRcUFOal8zWEQwck83Y2c5Z3dRdVotaFk3SjdF?oc=5)
-
----
-
-### [Stigmatisierung junger Psoriasis-Patienten: IFPA startet Kampagne - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN19GUHAyVE8tXzgxT19jUFFxY0wzc2pjS05EMUxXN0hRME1nOGg3d2xBeG1jMldIcGZ6aEkzNFlZTjA3MmxfWS1GRnhwd1RJa2pkb1RORDcxNlZSN0hfdnNWd1dja1pnX0lla1Y4M2JPUmZfMVJibldRcG1scjRTd2JuR1ZZYVJhV3NRT0lhNUtmNlFoZUtYM2RJZ1pqeko3ak5KbmNiM1N6MnEwa3RZWXU5bFM?oc=5)
-
-2026-10-28 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN19GUHAyVE8tXzgxT19jUFFxY0wzc2pjS05EMUxXN0hRME1nOGg3d2xBeG1jMldIcGZ6aEkzNFlZTjA3MmxfWS1GRnhwd1RJa2pkb1RORDcxNlZSN0hfdnNWd1dja1pnX0lla1Y4M2JPUmZfMVJibldRcG1scjRTd2JuR1ZZYVJhV3NRT0lhNUtmNlFoZUtYM2RJZ1pqeko3ak5KbmNiM1N6MnEwa3RZWXU5bFM?oc=5)
 
 ---
 

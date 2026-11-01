@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Inclisiran?">
-<strong>Inclisiran</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
+<strong>Inclisiran</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Inclisiran with the latest h
 <p><a href="{{ '/drugs/inclisiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Colesterolo alto: inclisiran e acido bempedoico a confronto nello studio ESC](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZnNGd29KRzBpR0J6cklFbHRJUE5VTGVlelpRTVpibnlqXzZFSlNjX2dBNWR6SUNuODZ3YUM2UzR3OW1qSURKWTBaYlhONzltMTRtLXFJV1RBYUtPRllkaGM1ZzB0T2hBWlF2ZDBia0Z4S1FsMHpBYTFhR0lBb1pERklqYTAxWnZjYllHekpoemxHSHVxUDdyZkhwa2FHUGJGc1dLMGgxcUgxU1NaQkZtOTNHZEs4OWxWMXMtU2hydV9SVlE?oc=5)
+
+2026-10-31 <span class="news-drug-tag">Inclisiran</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZnNGd29KRzBpR0J6cklFbHRJUE5VTGVlelpRTVpibnlqXzZFSlNjX2dBNWR6SUNuODZ3YUM2UzR3OW1qSURKWTBaYlhONzltMTRtLXFJV1RBYUtPRllkaGM1ZzB0T2hBWlF2ZDBia0Z4S1FsMHpBYTFhR0lBb1pERklqYTAxWnZjYllHekpoemxHSHVxUDdyZkhwa2FHUGJGc1dLMGgxcUgxU1NaQkZtOTNHZEs4OWxWMXMtU2hydV9SVlE?oc=5)
+
+---
 
 ### [My agonising migraines left me bedbound for decades and broke my marriage - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHkzVFJFeGphVXlON0k5UHZVM0RjWWxZQjU5VDhJUktsdU1waGt4bDBXVGx3TG5hRmtoRm1uRXdMVjFuR0x1OWpKQU8zWHRlZkdFaUZvRzRRNlNZMHhVUmd1UnI5R210TUd6V0c5Szk1d3ZBWDl3amRuOGNwQ2YxYk5yeXlwc1pkSjJRZDFYejgzeEJSdVRTR1pGYkt3YTQ?oc=5)
 

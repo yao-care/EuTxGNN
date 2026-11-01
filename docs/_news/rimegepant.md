@@ -39,19 +39,19 @@ This page combines the AI-predicted indications for Rimegepant with the latest h
 
 ## Related News (3)
 
+### [Three ways to keep your heart healthy and cut the risk of cardiovascular disease - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzh2ZDlCN254SkVWTUt1SzJ4eURET3Y0Sm1XNVd5c1ItUGFkZWpHUkpUT1RtU3RlU3RrNUdJZDh5MEJTaC1RREF1MFl6cE94OWtQdWt2Rks4eUgtVWhFWHUwUTRhOEdmZ29jMUMxcGcyR1Y2bVBVc3BSbUVuM283YWoxVVM5dkpZYnZTRnFLanpwQ2FIXzA0?oc=5)
+
+2026-10-31 <span class="news-indication-tag">heart disease</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzh2ZDlCN254SkVWTUt1SzJ4eURET3Y0Sm1XNVd5c1ItUGFkZWpHUkpUT1RtU3RlU3RrNUdJZDh5MEJTaC1RREF1MFl6cE94OWtQdWt2Rks4eUgtVWhFWHUwUTRhOEdmZ29jMUMxcGcyR1Y2bVBVc3BSbUVuM283YWoxVVM5dkpZYnZTRnFLanpwQ2FIXzA0?oc=5)
+
+---
+
 ### [My agonising migraines left me bedbound for decades and broke my marriage - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHkzVFJFeGphVXlON0k5UHZVM0RjWWxZQjU5VDhJUktsdU1waGt4bDBXVGx3TG5hRmtoRm1uRXdMVjFuR0x1OWpKQU8zWHRlZkdFaUZvRzRRNlNZMHhVUmd1UnI5R210TUd6V0c5Szk1d3ZBWDl3amRuOGNwQ2YxYk5yeXlwc1pkSjJRZDFYejgzeEJSdVRTR1pGYkt3YTQ?oc=5)
 
 2026-10-31 <span class="news-indication-tag">migraine</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHkzVFJFeGphVXlON0k5UHZVM0RjWWxZQjU5VDhJUktsdU1waGt4bDBXVGx3TG5hRmtoRm1uRXdMVjFuR0x1OWpKQU8zWHRlZkdFaUZvRzRRNlNZMHhVUmd1UnI5R210TUd6V0c5Szk1d3ZBWDl3amRuOGNwQ2YxYk5yeXlwc1pkSjJRZDFYejgzeEJSdVRTR1pGYkt3YTQ?oc=5)
-
----
-
-### [À Besançon, le CHU se mobilise contre une maladie cardiaque méconnue - 20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2Y3RHZ4b0VhOUdnY2pjVkw4emRTUDhOZS12QWF4LWlFRVlGR0JPenFaRXpPNFptVXU4S0NDbTBJakp5Skx0MVVmLVlOSkVBdHZMTUYzbnBxWUM1ZlRmekRnNnU2YUNUdFFPNFhIdjFhWU0zWTVsQ3hMZDZCd21VWGQ5NmFSa2EtUG92d2JQTXhQSVZZcXc1ZllZQTk1U180YnJ5ZzJQLUZ3MTdIOUc0UTFSU2trQU8xa2c?oc=5)
-
-2026-10-29 <span class="news-indication-tag">maladie cardiaque</span>
-
-Source: [20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2Y3RHZ4b0VhOUdnY2pjVkw4emRTUDhOZS12QWF4LWlFRVlGR0JPenFaRXpPNFptVXU4S0NDbTBJakp5Skx0MVVmLVlOSkVBdHZMTUYzbnBxWUM1ZlRmekRnNnU2YUNUdFFPNFhIdjFhWU0zWTVsQ3hMZDZCd21VWGQ5NmFSa2EtUG92d2JQTXhQSVZZcXc1ZllZQTk1U180YnJ5ZzJQLUZ3MTdIOUc0UTFSU2trQU8xa2c?oc=5)
 
 ---
 

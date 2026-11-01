@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "accident vasculaire cérébral (stroke) News"
+title: "AVC (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about accident vasculaire cérébral (stroke). 12 articles, 11 related drugs."
+description: "Health news about AVC (stroke). 11 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-01
 ---
 
-# accident vasculaire cérébral (stroke) News
+# AVC (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about accident vasculaire cérébral (stroke)?">
-<strong>accident vasculaire cérébral (stroke)</strong> currently has <strong>12 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about AVC (stroke)?">
+<strong>AVC (stroke)</strong> currently has <strong>11 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “accident vasculaire cérébral” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “AVC” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,13 +35,21 @@ This page brings together the latest health news about “accident vasculaire c�
 </ul>
 </div>
 
-## Related News (12)
+## Related News (11)
 
-### [« Deux AVC à 28 ans, ça n’était pas du tout dans mon bingo de l’année 2026 » - TÉMOIGNAGE - Le HuffPost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmpoZ1NFMmJfVmNsR0NpVk9tU1hYdHFzUUlTQUdSeGZsTEtxU3BUUEw4NHpvRXExdXBhNHlWaENoOGMtNFlnYmdSdU5naG1UMFJXRzRpRnRiYWxLcEc4QjkzeFZNdW1VbzRNdTVhR1RibllTbFRERjJ3M21xLTNzaFNhZlFzS2lDcUttNG40M042Z2h5NkVZOU9lQmplNjZ6TzdMLVE5RkgyU2hvaTB3MTU3YXBUMEtyVF9YU015Wk5NdEFueDRnTXZ4dkMwOUZKMU9n?oc=5)
+### [Ces habitants de Dordogne, victimes d’un AVC, témoignent : Jean-Louis avait 72 ans, Olivier 22 ans - Sud Ouest](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkh2NmlPU3JRWkprV1JKN0I1M0l2OVNLeUdfNzN5Z0p2RHk4aU4xRGhhalUtVE9Qd1JlWU5Mc1hYVEVoOUpVTWtJYWItOW9EbGFNOEctOFhuRWZWM2Jfa08yRXdtRGpSNDdDU3pJOU9BMDlYYVhyaW1zZ2hJTkRKZjVNU0xic1dpeEtKdnUyMkJ6MF91Mm5IY1N1VVR5eHhDQk1ybUoxMEVxVHRGUnYydlBmZTBGdnpaSkV1VzNtZkVsalVYd0ZQTHRpMjQwa1pFR1E?oc=5)
 
 2026-11-01
 
-Source: [Le HuffPost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmpoZ1NFMmJfVmNsR0NpVk9tU1hYdHFzUUlTQUdSeGZsTEtxU3BUUEw4NHpvRXExdXBhNHlWaENoOGMtNFlnYmdSdU5naG1UMFJXRzRpRnRiYWxLcEc4QjkzeFZNdW1VbzRNdTVhR1RibllTbFRERjJ3M21xLTNzaFNhZlFzS2lDcUttNG40M042Z2h5NkVZOU9lQmplNjZ6TzdMLVE5RkgyU2hvaTB3MTU3YXBUMEtyVF9YU015Wk5NdEFueDRnTXZ4dkMwOUZKMU9n?oc=5)
+Source: [Sud Ouest](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkh2NmlPU3JRWkprV1JKN0I1M0l2OVNLeUdfNzN5Z0p2RHk4aU4xRGhhalUtVE9Qd1JlWU5Mc1hYVEVoOUpVTWtJYWItOW9EbGFNOEctOFhuRWZWM2Jfa08yRXdtRGpSNDdDU3pJOU9BMDlYYVhyaW1zZ2hJTkRKZjVNU0xic1dpeEtKdnUyMkJ6MF91Mm5IY1N1VVR5eHhDQk1ybUoxMEVxVHRGUnYydlBmZTBGdnpaSkV1VzNtZkVsalVYd0ZQTHRpMjQwa1pFR1E?oc=5)
+
+---
+
+### [Vietnam senkt Salz: neue Leitlinie für Herzgesundheit und Nährwertkennzeichnung - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxPS01waEdPZU9jMGdyM1VpQk1EVlppMFZ1TUxSeHBRaVNFczJla3p3SFlQVU0zUVZUTUVZalJ4NVVXNy1OTG93ZGxxZXQxX2phUUJBeGR0QWNOS29ubmRxR3MyanNCV1hjcGRWUnVVTGQzLUR0bm01YmVVVy1KRmtUcl9ubWxfelc5ZGFWUFcwclhIVnZiYVFEbmFsdUVfN0V0Y2ZONW5KZm5NNGtkS2RRS2h3?oc=5)
+
+2026-10-31
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxPS01waEdPZU9jMGdyM1VpQk1EVlppMFZ1TUxSeHBRaVNFczJla3p3SFlQVU0zUVZUTUVZalJ4NVVXNy1OTG93ZGxxZXQxX2phUUJBeGR0QWNOS29ubmRxR3MyanNCV1hjcGRWUnVVTGQzLUR0bm01YmVVVy1KRmtUcl9ubWxfelc5ZGFWUFcwclhIVnZiYVFEbmFsdUVfN0V0Y2ZONW5KZm5NNGtkS2RRS2h3?oc=5)
 
 ---
 
@@ -77,35 +85,11 @@ Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1gFBV
 
 ---
 
-### [Diabetes und Herz: Das Risiko für Infarkt und Schlaganfall ist bis zu vierfach erhöht](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR1NVaDRFMVFhclNtVkZQN3JSOHVJUmkxamN6cWFfUFdKa0VEbUR1QWF0RjhleGZYU25FTFhLLXlXaWpfalYxOFhwTDFrak1qRnRZN1dLc3hfYjktQnRMV3I1VDV3V0RVVDNRRTdjanVXc2RjX0lTWURSNUJwTm9EaFd2S09CMHlZQnJXeVJCclJ6QjVIN0djNmZjQ0o1bnpFRTJBZWwxZ2tGQU5xWVVXNTNwQnpXU0lkYXkwT1FJekc1dmt5T2gwM05SY3dLVzNz?oc=5)
-
-2026-10-30
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR1NVaDRFMVFhclNtVkZQN3JSOHVJUmkxamN6cWFfUFdKa0VEbUR1QWF0RjhleGZYU25FTFhLLXlXaWpfalYxOFhwTDFrak1qRnRZN1dLc3hfYjktQnRMV3I1VDV3V0RVVDNRRTdjanVXc2RjX0lTWURSNUJwTm9EaFd2S09CMHlZQnJXeVJCclJ6QjVIN0djNmZjQ0o1bnpFRTJBZWwxZ2tGQU5xWVVXNTNwQnpXU0lkYXkwT1FJekc1dmt5T2gwM05SY3dLVzNz?oc=5)
-
----
-
-### [La inteligencia artificial puede anticipar el riesgo de ictus en mujeres mayores](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcGp4aTdCS1R5aV9WOTdTbDZUc0JzQmRlVTIxNDl3TTNIeEF0QmJ3N3RUcEl1bWZxOVpyTng4Q2xpb3U2ZUxZd18yYllDal9nTlg4bjlOQXpvckpYRXR0THZTSnFxbllNcFFWRG56X3A1R0g2SHh3eUo0OFdsRnhNRjdfdWxjaHV1MElOYmpTRFhWVmlidG5kd0o2M3BQTTgzQ25PMkJha3duV0VEUjljMg?oc=5)
-
-2026-10-30
-
-Source: [Geriatricarea](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcGp4aTdCS1R5aV9WOTdTbDZUc0JzQmRlVTIxNDl3TTNIeEF0QmJ3N3RUcEl1bWZxOVpyTng4Q2xpb3U2ZUxZd18yYllDal9nTlg4bjlOQXpvckpYRXR0THZTSnFxbllNcFFWRG56X3A1R0g2SHh3eUo0OFdsRnhNRjdfdWxjaHV1MElOYmpTRFhWVmlidG5kd0o2M3BQTTgzQ25PMkJha3duV0VEUjljMg?oc=5)
-
----
-
 ### ['A stroke aged 43 changed my sense of who I was,' says Oxford man](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
 2026-10-30
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
-
----
-
-### [Los nuevos casos de ictus aumentaron un 73% desde 1990 en todo el mundo pese a descender su incidencia y mortalidad](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLVN1QjRhSVd1SVRSaXBOS2lUMHk4RDNqekFsMG13Ny1jSF93MnU5T1R6WGFtUzhEQ0ZLY0pwaDA3a0FKUXRRQ2F3Tm5qMm5zR3pWLTlSYkoyZHFzbzFaM0N0bEZMX3RBMGIzZzhhTFZFM2FWaDVTc2NURklvdXF6bEs2cDRaOVgxcm9XUk9SYTZ3Y1Z1UFd6bFF1M2FCZGY2UW5EZVE2WjBKaWJkbXZsTXNScks3bndwMG1FZktUU0JqOXh0R0sta0J6dzliQmxfYTRCTmVMUzEyMHRicTd0dw?oc=5)
-
-2026-10-29
-
-Source: [20Minutos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLVN1QjRhSVd1SVRSaXBOS2lUMHk4RDNqekFsMG13Ny1jSF93MnU5T1R6WGFtUzhEQ0ZLY0pwaDA3a0FKUXRRQ2F3Tm5qMm5zR3pWLTlSYkoyZHFzbzFaM0N0bEZMX3RBMGIzZzhhTFZFM2FWaDVTc2NURklvdXF6bEs2cDRaOVgxcm9XUk9SYTZ3Y1Z1UFd6bFF1M2FCZGY2UW5EZVE2WjBKaWJkbXZsTXNScks3bndwMG1FZktUU0JqOXh0R0sta0J6dzliQmxfYTRCTmVMUzEyMHRicTd0dw?oc=5)
 
 ---
 
@@ -117,6 +101,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGN6R0R1
 
 ---
 
+### [Santé. Paralysie faciale, perte de vue... Voici les cinq symptômes d'un accident vasculaire cérébral (AVC) - Le Progrès](https://news.google.com/rss/articles/CBMivgFBVV95cUxPaG9TNEVDMndqRmxBbXd6Sk9fZXdYTlBTdzkwa3piRzJFcmZWbTlfbGk4MFN6aERaSUN4X20zdkk2SDlPUkFwSm9uQTBKckptYmJjMDJjUFZJdUhuVVhHX2puVkZITlNxU190QnRhVUJ0VjQyOVZucmRvVnFlbHVrOS1UUUx2MFZJRzVzMmZYVXBET3pkel9yb01aQnllME54NHVSdlZaa3g5dW42X21MWFlhSUJ4TjRYNnJkRFp3?oc=5)
+
+2026-10-29
+
+Source: [Le Progrès](https://news.google.com/rss/articles/CBMivgFBVV95cUxPaG9TNEVDMndqRmxBbXd6Sk9fZXdYTlBTdzkwa3piRzJFcmZWbTlfbGk4MFN6aERaSUN4X20zdkk2SDlPUkFwSm9uQTBKckptYmJjMDJjUFZJdUhuVVhHX2puVkZITlNxU190QnRhVUJ0VjQyOVZucmRvVnFlbHVrOS1UUUx2MFZJRzVzMmZYVXBET3pkel9yb01aQnllME54NHVSdlZaa3g5dW42X21MWFlhSUJ4TjRYNnJkRFp3?oc=5)
+
+---
+
 ### [Giornata mondiale ictus cerebrale, come prevenirlo e come riconoscere i primi segnali - Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5tMVdsRWxhQUlJdkZmOWZxOFUxQldaS0t2WlJ2Vy1Ta2RkcC1FRzVfVDVtY29yVmlJQy01R3JxV0pVX1hhdEthNFh5N0pZQ2RGZXVBdWZYQ2lSLTN1a0ZUNTJOLXhsWnd1RzZwQWpwTGR2T05iN3RyUHRLLWFScmFtd1kyNWhkQUswSkdvUWhiWUJjT2hR?oc=5)
 
 2026-10-29
@@ -125,11 +117,11 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWER1bk5t
 
 ---
 
-### [Un estudio impulsado por Philips supera los 320 pacientes para evaluar nuevas vías de atención al ictus - Europa Press](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRDhmVlltY01Jckd6ZW5SVmgtOFl3T1VxRHhnQXhMdFgwanlnSHZEU1BHR3J5QUpvdThvWnd6RFpmQXVYWGdxMDZCWGN1M3BnMFdCUG1KcElLeTBVUGRYSXRXdlVNdEpxYm9rc25wTmU4eVdza09iUC1MMXVBNF9GclRtSkZndmpfdEpvM3VGamFCUjRKVkk2OXdZSlA3b2JyelkzSWtONmlxSnJQUlJKMUxLM2czZFZFRHljZWU0Mm1rM2tWVU5OVVhEZWxQMWtneDV5QXJCM0V4cmlPMzN2a3JmcGpyd2hnTnpPRk1neFRVVXA3bmtaNlpQTi1Jc2s?oc=5)
+### [Un ensayo clínico de Philips rebasa los 320 pacientes para analizar nuevas vías de atención al ictus](https://news.google.com/rss/articles/CBMizwFBVV95cUxQOU1WQzFFSF9falAtektaNjNHeHBZay1QQWltMm5ROUhMTHplYm9UZGFzZVROOTY0Y1d3TWVUSGk2dmdDYXpPclRXWnBDT2RfWFB2TllWZnB4Y05PdTBLOFJQdEU2VXBfeEw0WTZoQktEWXVSRE5mRTZtbkFoWGlKUUZDRmJONXJZLUtZQ0hUUWFTZWJoajBMNzloWDhPZUlfOHpLRFRSOGlMOXZlUi1QWmVpdjEzNFZyVV9YRDNxRTBFU1hkUUVIeDBKaDdCZ2vSAdQBQVVfeXFMUE4tb1dvQnJIZXNKU2JqY3lfQ0pxUEFyRVVZX2RyaUhYY1JPY1pYcTUzUkNsd09GVk4zVHE5R2l1dUhZQlV2NWRZNjVxQkJxVllfSTRWYmlVcHRUSVA3YU9ORTZTVEdpcVJyc0ZLMUtTa2drcF9BSEdkdlhNNi14YmNwdGc0UjZvZ0NrLVp5a3hMUk5aN1NqdnJDSHRSRk9zMWRmTWpWaGphOGxINHN6RnhIRUFVNmNJeVdXSjUwWEZ5NEhoVHZUS0ktekYwbVYxU0hPbXE?oc=5)
 
 2026-10-28
 
-Source: [Europa Press](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRDhmVlltY01Jckd6ZW5SVmgtOFl3T1VxRHhnQXhMdFgwanlnSHZEU1BHR3J5QUpvdThvWnd6RFpmQXVYWGdxMDZCWGN1M3BnMFdCUG1KcElLeTBVUGRYSXRXdlVNdEpxYm9rc25wTmU4eVdza09iUC1MMXVBNF9GclRtSkZndmpfdEpvM3VGamFCUjRKVkk2OXdZSlA3b2JyelkzSWtONmlxSnJQUlJKMUxLM2czZFZFRHljZWU0Mm1rM2tWVU5OVVhEZWxQMWtneDV5QXJCM0V4cmlPMzN2a3JmcGpyd2hnTnpPRk1neFRVVXA3bmtaNlpQTi1Jc2s?oc=5)
+Source: [Demócrata](https://news.google.com/rss/articles/CBMizwFBVV95cUxQOU1WQzFFSF9falAtektaNjNHeHBZay1QQWltMm5ROUhMTHplYm9UZGFzZVROOTY0Y1d3TWVUSGk2dmdDYXpPclRXWnBDT2RfWFB2TllWZnB4Y05PdTBLOFJQdEU2VXBfeEw0WTZoQktEWXVSRE5mRTZtbkFoWGlKUUZDRmJONXJZLUtZQ0hUUWFTZWJoajBMNzloWDhPZUlfOHpLRFRSOGlMOXZlUi1QWmVpdjEzNFZyVV9YRDNxRTBFU1hkUUVIeDBKaDdCZ2vSAdQBQVVfeXFMUE4tb1dvQnJIZXNKU2JqY3lfQ0pxUEFyRVVZX2RyaUhYY1JPY1pYcTUzUkNsd09GVk4zVHE5R2l1dUhZQlV2NWRZNjVxQkJxVllfSTRWYmlVcHRUSVA3YU9ORTZTVEdpcVJyc0ZLMUtTa2drcF9BSEdkdlhNNi14YmNwdGc0UjZvZ0NrLVp5a3hMUk5aN1NqdnJDSHRSRk9zMWRmTWpWaGphOGxINHN6RnhIRUFVNmNJeVdXSjUwWEZ5NEhoVHZUS0ktekYwbVYxU0hPbXE?oc=5)
 
 ---
 
