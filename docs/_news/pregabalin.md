@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Pregabalin. 6 predicted indications."
 permalink: /news/pregabalin/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # Pregabalin News
@@ -42,17 +42,9 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 
 ### [Artritis psoriásica: más allá de la piel - Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
 
-2026-11-01 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">AF</span>
+2026-11-01 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
 
 Source: [Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
-
----
-
-### [My agonising migraines left me bedbound for decades and broke my marriage - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHkzVFJFeGphVXlON0k5UHZVM0RjWWxZQjU5VDhJUktsdU1waGt4bDBXVGx3TG5hRmtoRm1uRXdMVjFuR0x1OWpKQU8zWHRlZkdFaUZvRzRRNlNZMHhVUmd1UnI5R210TUd6V0c5Szk1d3ZBWDl3amRuOGNwQ2YxYk5yeXlwc1pkSjJRZDFYejgzeEJSdVRTR1pGYkt3YTQ?oc=5)
-
-2026-10-31 <span class="news-indication-tag">migraine</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHkzVFJFeGphVXlON0k5UHZVM0RjWWxZQjU5VDhJUktsdU1waGt4bDBXVGx3TG5hRmtoRm1uRXdMVjFuR0x1OWpKQU8zWHRlZkdFaUZvRzRRNlNZMHhVUmd1UnI5R210TUd6V0c5Szk1d3ZBWDl3amRuOGNwQ2YxYk5yeXlwc1pkSjJRZDFYejgzeEJSdVRTR1pGYkt3YTQ?oc=5)
 
 ---
 
@@ -64,9 +56,17 @@ Source: [Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EbT
 
 ---
 
+### [My agonising migraines left me bedbound for decades and broke my marriage - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHkzVFJFeGphVXlON0k5UHZVM0RjWWxZQjU5VDhJUktsdU1waGt4bDBXVGx3TG5hRmtoRm1uRXdMVjFuR0x1OWpKQU8zWHRlZkdFaUZvRzRRNlNZMHhVUmd1UnI5R210TUd6V0c5Szk1d3ZBWDl3amRuOGNwQ2YxYk5yeXlwc1pkSjJRZDFYejgzeEJSdVRTR1pGYkt3YTQ?oc=5)
+
+2026-10-31 <span class="news-indication-tag">migraine</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHkzVFJFeGphVXlON0k5UHZVM0RjWWxZQjU5VDhJUktsdU1waGt4bDBXVGx3TG5hRmtoRm1uRXdMVjFuR0x1OWpKQU8zWHRlZkdFaUZvRzRRNlNZMHhVUmd1UnI5R210TUd6V0c5Szk1d3ZBWDl3amRuOGNwQ2YxYk5yeXlwc1pkSjJRZDFYejgzeEJSdVRTR1pGYkt3YTQ?oc=5)
+
+---
+
 ### ['A stroke aged 43 changed my sense of who I was,' says Oxford man](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
-2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
@@ -74,7 +74,7 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMd
 
 ### [A simple daily fiber supplement reduced arthritis pain and improved strength - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
 
-2026-10-28 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+2026-10-28 <span class="news-indication-tag">arthritis</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
 

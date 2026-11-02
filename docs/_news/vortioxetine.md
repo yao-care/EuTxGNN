@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Vortioxetine. 2 predicted indications."
 permalink: /news/vortioxetine/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # Vortioxetine News
@@ -70,7 +70,7 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1
 
 ### [Zirkadiane Depression: Studie findet Hinweise auf neue Depressionsform](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGdUMVNVYnAwMU54Rkt1QzVmMU9kX245TG9tR1BtTEdFYWJneXJkb2haSGc0UV91bjJweGl4SGVGZjZFWDdQaU4zMVZaSW9od2tCdlNhOFFQb2ZLWHJUR1cwR1BCNjFxYTlRclNLRVhQcnN6aDVxVTlOQjFIckNwVmE5Zk9DTmhmMW01TjZsSWZFbDNlT0JnLVBnUElZa0loNkFNdFBaXzgxSGNnSEIyeF9B?oc=5)
 
-2026-10-26 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-10-26 <span class="news-indication-tag">depression</span>
 
 Source: [L'essentiel](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGdUMVNVYnAwMU54Rkt1QzVmMU9kX245TG9tR1BtTEdFYWJneXJkb2haSGc0UV91bjJweGl4SGVGZjZFWDdQaU4zMVZaSW9od2tCdlNhOFFQb2ZLWHJUR1cwR1BCNjFxYTlRclNLRVhQcnN6aDVxVTlOQjFIckNwVmE5Zk9DTmhmMW01TjZsSWZFbDNlT0JnLVBnUElZa0loNkFNdFBaXzgxSGNnSEIyeF9B?oc=5)
 

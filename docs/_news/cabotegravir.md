@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Cabotegravir. 5 predicted indications."
 permalink: /news/cabotegravir/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # Cabotegravir News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Cabotegravir?">
-<strong>Cabotegravir</strong> currently has <strong>15 news articles</strong>, with 5 predicted indications.
+<strong>Cabotegravir</strong> currently has <strong>17 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Cabotegravir with the latest
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (17)
+
+### [Sed, hambre y cansancio: señales de alerta para detectar la diabetes - La Región](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOWJ6djBvalUweExFZmdnLXVXT0JRSXFZZGROcE1YVlMwem45YmVuQWRRQVJyV0FKVmpabk5IY3lPOXVkZmpRVVJPSzNYSURlNDhrS2dUTlVKS3BaenJZUDdGUlZubzJXVHhJVVZ2M1JpaTdNcHZRT3JZZndxLW1Nd0dFV29ZREY3a1BpQ0kwWDFyUDg?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [La Región](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOWJ6djBvalUweExFZmdnLXVXT0JRSXFZZGROcE1YVlMwem45YmVuQWRRQVJyV0FKVmpabk5IY3lPOXVkZmpRVVJPSzNYSURlNDhrS2dUTlVKS3BaenJZUDdGUlZubzJXVHhJVVZ2M1JpaTdNcHZRT3JZZndxLW1Nd0dFV29ZREY3a1BpQ0kwWDFyUDg?oc=5)
+
+---
 
 ### [Un nuevo aceite enriquecido promete frenar el daño renal en diabéticos: por qué es una buena noticia y por qué no sirve tu aceite del supermercado](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPblBFand6WGQ5SlJaVmxRd2ZwMWFjTGllWWdXaEozdGRRUXE2Mm5TY0I0WGE0TnBXWkRvXzF2WUNNUm5zeFNxSFRnT0wwV0dkNFAyS05ieHg0aC1sMjVLd1RuaVFmaWdoT3dGMkRfQTJVR1o2V0pFVDkyVkstUllBMThhVDMySzh4N3Q0MjUwc0I2U1ktUUpqSnFva2V6M0pxa0xWZE5pVlRraFg2TDFTSmMtdWFOdldOSVBHS2l2M0lvNEZGbnVCbXNIcjVwTmpTV04wQlZnMmhaM0U1NWtVamk3d1Z3SVg1Y2930gHwAUFVX3lxTE9NSm1aMEU1dktYNHZmSkpnRGhPcjZMX1J0bXFwUV9tYVhTcDI0SmFPU0FGbkZkVkdCaVhWazZGSk9iam9iMHN3TTB6eVJjbnJjdm5oMkg5cWpETGdlUThFREFBT0Z6dHdzTV93bkUyOWR4UnhqQm5jYklzT1VqUGhUSG5jY010a1dPZ0ZGUUFDa0VWODBGM0M1U2dhWXpobjdZMVlWMGEzaUhlMFlScDhsNUZBQTZ1M1ZtNHl3c0Fjd0VBUXRQaER2em9KMEdKUVVpd3JjVGFJQ0lQRzF0VEFfWEFHNjREOG1lOG1UY1I5RA?oc=5)
 
@@ -49,7 +57,7 @@ Source: [Xataka](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPblBFand6WG
 
 ### [Artritis psoriásica: más allá de la piel - Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
 
-2026-11-01 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">AF</span>
+2026-11-01 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
 
 Source: [Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
 
@@ -127,9 +135,17 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2dCbGlS
 
 ---
 
+### [Kardiometabolische Therapien bei Lebererkrankungen](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnhSNXlPZ0NjUnhHTTA3ZGFMdVh4YkJyYjlVUmRNZFVHVlNLb1JDRGpKYkRoYmpUTFl4Ty1zUEZwdmZudEo3ckFJeGZCeFdkbDd0UzNMbzRuUEtScnVZQUhkaTFrSkNqSGF2d3hyUE9tU0FoRWJ6ZWRvSFVJOUtHLWRuanhkWlVpY2VTUHkyNmhKeFFwR29US1gyVGQ?oc=5)
+
+2026-10-28 <span class="news-indication-tag">diabetes</span>
+
+Source: [medonline](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnhSNXlPZ0NjUnhHTTA3ZGFMdVh4YkJyYjlVUmRNZFVHVlNLb1JDRGpKYkRoYmpUTFl4Ty1zUEZwdmZudEo3ckFJeGZCeFdkbDd0UzNMbzRuUEtScnVZQUhkaTFrSkNqSGF2d3hyUE9tU0FoRWJ6ZWRvSFVJOUtHLWRuanhkWlVpY2VTUHkyNmhKeFFwR29US1gyVGQ?oc=5)
+
+---
+
 ### [A simple daily fiber supplement reduced arthritis pain and improved strength - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
 
-2026-10-28 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+2026-10-28 <span class="news-indication-tag">arthritis</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
 

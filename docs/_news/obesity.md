@@ -3,9 +3,9 @@ layout: default
 title: "obésité (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obésité (obesity). 4 articles, 8 related drugs."
+description: "Health news about obésité (obesity). 5 articles, 8 related drugs."
 permalink: /news/obesity/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # obésité (obesity) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about obésité (obesity)?">
-<strong>obésité (obesity)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
+<strong>obésité (obesity)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “obésité” and lists
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Médicament anti-obésité : ce qu'il faut savoir sur le Wegovy en comprimé, disponible en pharmacie dès lundi - TF1 Info](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZW03eUpPdGY0Q1hsSzh4NHkzTnREelVMenN4Wl9xeDNBZFlQcndyQ19IWHlYeXJlVXZia2tubGIxbTJLc19vVkhWTmM5aVU1Nm42N1lCR09GRXRGOE5ndHF0dE5wajdJek9vcUxvTEwweDVNUUt4ZHNNdzBxR0JSSHp4eWlsOGl5djVIT0t2YzRlY25VRXhBTjhVMFBxUzVDRjdIcEF1ZWVtd29GYTVqSFZGdDdSUUZISGxjSnctbHU1bjV4TjE2YU14bGk4R29KU0JjRnVlT08zbnlqajJ3?oc=5)
+
+2026-11-01
+
+Source: [TF1 Info](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZW03eUpPdGY0Q1hsSzh4NHkzTnREelVMenN4Wl9xeDNBZFlQcndyQ19IWHlYeXJlVXZia2tubGIxbTJLc19vVkhWTmM5aVU1Nm42N1lCR09GRXRGOE5ndHF0dE5wajdJek9vcUxvTEwweDVNUUt4ZHNNdzBxR0JSSHp4eWlsOGl5djVIT0t2YzRlY25VRXhBTjhVMFBxUzVDRjdIcEF1ZWVtd29GYTVqSFZGdDdSUUZISGxjSnctbHU1bjV4TjE2YU14bGk4R29KU0JjRnVlT08zbnlqajJ3?oc=5)
+
+---
 
 ### [Santé. Jusqu'à « 18 mois de délai » pour les médicaments anti-obésité : les consultations prises d’assaut - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUtCMlRnZWpGNHJJSHVFbWc5X3ZnNzF2U0R0X2lPOGl3TXR1aWVYOW4xaWN5WW5mTmVaRlpmalh2dXEyUnlDVFEzcjZNSGJ3SzJOa2xwOFRHWmE2YUhVQmVfZlgzTko2MzExemdfTC1xZ2pFN0lUdk9xTTExaTNyelZHMFhzMm03dHlWT2hXbENiS0N0Z1FJdDluUDg0SUd2d0hLQnFFbF9iOUpaS2tMdk4zVFFQdWdHX0xRZlJ2MUR3TkpOVkFSNW5jR2ZLSjJfT3c?oc=5)
 

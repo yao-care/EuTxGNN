@@ -3,9 +3,9 @@ layout: default
 title: "tumor (cancer) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 25 articles, 229 related drugs."
+description: "Health news about tumor (cancer). 27 articles, 229 related drugs."
 permalink: /news/cancer/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # tumor (cancer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>25 news articles</strong> and 229 related drugs.
+<strong>tumor (cancer)</strong> currently has <strong>27 news articles</strong> and 229 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -190,7 +190,7 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (25)
+## Related News (27)
 
 ### [Tumore alla prostata, a Livorno il futuro della chirurgia è già realtà: meno dolore, più precisione e recupero rapido](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaThZUzBSMVFydlk5OXZsX05UUnVnS0UwTU44Zng2dlpUbnVnNmtTakJGSTRvNWJ2T0xTbFVzMkM5UlZ3Nms3Rmt6RGZ3c0drRk1reFlqdzRIalg2dUFScXZ3SHNNRVhURlF5eS1rWDhMN3BOM0liNFZRQmt3enB6Nkp4X1lxR0N0YldxZFVOelctMi04SHNmOXdLX2VqUEVhVWxKVE5saUV3RkJNbTlyYkh4R2tVMnBoclYxT3NzX3NucDZ3WU5pVlF4Q1M5SWxUNzl0NzNtelJJZnJUQkg5eWIyNGpTUGl0aldodldZT2pfWjdrd3hKcw?oc=5)
 
@@ -384,11 +384,27 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUHhf
 
 ---
 
-### [Cancer du côlon : cet oncologue recommande de bannir ces 2 produits courants de la salle de bains](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRDllWFNGRC1kRDlnVVBnLU8tQk5nbGZIM1JRNnhGdHVTdmlXNEZXSFBVRTNHSWxFZFA3Vm1WQ1l2T1N0Mnp4X0FuSkZPYlUtTXdvck5Sd3BXMDh4QlZmcTVaS01QMTZpLTUyVlVyYlBsN3RqMVppNmlUTGpEMW55MURjOU0xd2dzS3kyLUlUMGdTMThxMGIxS0NidHVUYTZEVDdmQUoxWmVSUlQ2Z29zY3ByT29yX1N1LTJfSlFCNnctbHk5a042SEJvNS1BWmdSdFd5U1ItWFFlUQ?oc=5)
+### [Cancer du côlon : cet oncologue recommande de bannir ces 2 produits courants de la salle de bains - Pleine Vie](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRDllWFNGRC1kRDlnVVBnLU8tQk5nbGZIM1JRNnhGdHVTdmlXNEZXSFBVRTNHSWxFZFA3Vm1WQ1l2T1N0Mnp4X0FuSkZPYlUtTXdvck5Sd3BXMDh4QlZmcTVaS01QMTZpLTUyVlVyYlBsN3RqMVppNmlUTGpEMW55MURjOU0xd2dzS3kyLUlUMGdTMThxMGIxS0NidHVUYTZEVDdmQUoxWmVSUlQ2Z29zY3ByT29yX1N1LTJfSlFCNnctbHk5a042SEJvNS1BWmdSdFd5U1ItWFFlUQ?oc=5)
 
 2026-10-27
 
-Source: [Pleinevie](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRDllWFNGRC1kRDlnVVBnLU8tQk5nbGZIM1JRNnhGdHVTdmlXNEZXSFBVRTNHSWxFZFA3Vm1WQ1l2T1N0Mnp4X0FuSkZPYlUtTXdvck5Sd3BXMDh4QlZmcTVaS01QMTZpLTUyVlVyYlBsN3RqMVppNmlUTGpEMW55MURjOU0xd2dzS3kyLUlUMGdTMThxMGIxS0NidHVUYTZEVDdmQUoxWmVSUlQ2Z29zY3ByT29yX1N1LTJfSlFCNnctbHk5a042SEJvNS1BWmdSdFd5U1ItWFFlUQ?oc=5)
+Source: [Pleine Vie](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRDllWFNGRC1kRDlnVVBnLU8tQk5nbGZIM1JRNnhGdHVTdmlXNEZXSFBVRTNHSWxFZFA3Vm1WQ1l2T1N0Mnp4X0FuSkZPYlUtTXdvck5Sd3BXMDh4QlZmcTVaS01QMTZpLTUyVlVyYlBsN3RqMVppNmlUTGpEMW55MURjOU0xd2dzS3kyLUlUMGdTMThxMGIxS0NidHVUYTZEVDdmQUoxWmVSUlQ2Z29zY3ByT29yX1N1LTJfSlFCNnctbHk5a042SEJvNS1BWmdSdFd5U1ItWFFlUQ?oc=5)
+
+---
+
+### [Tumore dell'endometrio, il quarto più frequente fra le donne (e in aumento). Nuove cure efficaci per chi è già in stadio avanzato - Corriere della Sera](https://news.google.com/rss/articles/CBMizwJBVV95cUxQRVlscEM4YlBmWXktUXk5UkNCd21BRGs4RTdEY3NwZFFnMXZ6bjRxX0JGbmYza2x3NHNqUWNyLThsZmJJYjNJM0F0Wm43cGtXbzBDLWNqSjFxVjNVZGo1bDJ0VXMtTGZjS09ta2xPdnFHb3NTQ3p2UGd3VnUxTnZxV19XbGFmOUdoY0NBMXFNX1NoX3oxdm16cU5lSm9YeWZGMFp2NDVSdm1pWGswYll2bTNLd0lOSmhXU1J3b1lqVGdJT21RUjFtTDZCNWVfYktFemJHY2Q1aVlmSWU2ekVKdTgtR2ZrcWNnMkdsaDhCSDlBX1ZCa0pqWmx1UXVhN3ZoX2FTdHItMkRQOE9aRFA5eWU4N2JGaWVXdnQyXzNqam44Zzc3bmN4V1ZTRUl3SzZFWXRBUm5sR1Y5SVVaNG9kclprUEpWRWhhbGRrZVBwTdIB1AJBVV95cUxNUVB4M09KQWNFQkJhRW9yOENyWkw5cEtHYlFScFU4MjNVM3FhaVc1Y09JdjBiX194U0Nhb0lTUGI5X09wODRoRHR5QVE2eGFOV0RxTklXY0VPazlZbklvXzBydEttYVBhd3Zha2JtYksxM3ZnZm5zY0dfTlRtUHZueWhYOGR6ZnFNeVBKOGEtNUszb0hwOE9oUkRVVEZHendMNm44NGs3YXk5b2p6T1JPUHJ5bTVsdWlwWEgwc002RTlkWmZ6OGtQNjh2NG8ydnk4cnlPTGxCTWNtNTlqUVF6dWVzVk9Mc0Npd2dPWTFDWE5saDB2TVEzU1lkUTdLVkRYREV6Y3diQVhqTHFGTm5OQWZQMmIzN1NyeXhqbU9xdENYdEV5N1Vva25rMkhPLVpyQlRseHo4Y2xUTHJQMkJVd2JYMmhaaHVtcVl5bk0waUoyS19w?oc=5)
+
+2026-10-27
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMizwJBVV95cUxQRVlscEM4YlBmWXktUXk5UkNCd21BRGs4RTdEY3NwZFFnMXZ6bjRxX0JGbmYza2x3NHNqUWNyLThsZmJJYjNJM0F0Wm43cGtXbzBDLWNqSjFxVjNVZGo1bDJ0VXMtTGZjS09ta2xPdnFHb3NTQ3p2UGd3VnUxTnZxV19XbGFmOUdoY0NBMXFNX1NoX3oxdm16cU5lSm9YeWZGMFp2NDVSdm1pWGswYll2bTNLd0lOSmhXU1J3b1lqVGdJT21RUjFtTDZCNWVfYktFemJHY2Q1aVlmSWU2ekVKdTgtR2ZrcWNnMkdsaDhCSDlBX1ZCa0pqWmx1UXVhN3ZoX2FTdHItMkRQOE9aRFA5eWU4N2JGaWVXdnQyXzNqam44Zzc3bmN4V1ZTRUl3SzZFWXRBUm5sR1Y5SVVaNG9kclprUEpWRWhhbGRrZVBwTdIB1AJBVV95cUxNUVB4M09KQWNFQkJhRW9yOENyWkw5cEtHYlFScFU4MjNVM3FhaVc1Y09JdjBiX194U0Nhb0lTUGI5X09wODRoRHR5QVE2eGFOV0RxTklXY0VPazlZbklvXzBydEttYVBhd3Zha2JtYksxM3ZnZm5zY0dfTlRtUHZueWhYOGR6ZnFNeVBKOGEtNUszb0hwOE9oUkRVVEZHendMNm44NGs3YXk5b2p6T1JPUHJ5bTVsdWlwWEgwc002RTlkWmZ6OGtQNjh2NG8ydnk4cnlPTGxCTWNtNTlqUVF6dWVzVk9Mc0Npd2dPWTFDWE5saDB2TVEzU1lkUTdLVkRYREV6Y3diQVhqTHFGTm5OQWZQMmIzN1NyeXhqbU9xdENYdEV5N1Vva25rMkhPLVpyQlRseHo4Y2xUTHJQMkJVd2JYMmhaaHVtcVl5bk0waUoyS19w?oc=5)
+
+---
+
+### [ESMO 2026: Los anticuerpos conjugados dirigidos y vacunas se perfilan como alternativa en distintos tumores - El médico interactivo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaUMzVm1MUnhubVh3M2l2UmZNMjktZ2xLaXpka2NHcXNEN1hiUDc4MzdOXzZaY210cGxzQ28xb21MZThmeHhuTm1fN3NUajV6SnRudDU2RGlvM0p2OVM3RlRjQVptQkhFYUdRWHhNN0pvNnhfZW1XLWNRa19FRERTU0hweDUxNUNubFh2MHh4cW5KN3lfVVpHTjAwSjdaOVJhYWhpVWYtMTZEaVNSanFwWW9wck0zdFphbmlYWkk5VTEtRGwzbnBRNEdRd2t3OER0aWZ6LTNB?oc=5)
+
+2026-10-26
+
+Source: [El médico interactivo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaUMzVm1MUnhubVh3M2l2UmZNMjktZ2xLaXpka2NHcXNEN1hiUDc4MzdOXzZaY210cGxzQ28xb21MZThmeHhuTm1fN3NUajV6SnRudDU2RGlvM0p2OVM3RlRjQVptQkhFYUdRWHhNN0pvNnhfZW1XLWNRa19FRERTU0hweDUxNUNubFh2MHh4cW5KN3lfVVpHTjAwSjdaOVJhYWhpVWYtMTZEaVNSanFwWW9wck0zdFphbmlYWkk5VTEtRGwzbnBRNEdRd2t3OER0aWZ6LTNB?oc=5)
 
 ---
 

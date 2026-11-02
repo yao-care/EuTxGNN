@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Abaloparatide. 4 predicted indications."
 permalink: /news/abaloparatide/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # Abaloparatide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>14 news articles</strong>, with 4 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>16 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (16)
+
+### [Sed, hambre y cansancio: señales de alerta para detectar la diabetes - La Región](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOWJ6djBvalUweExFZmdnLXVXT0JRSXFZZGROcE1YVlMwem45YmVuQWRRQVJyV0FKVmpabk5IY3lPOXVkZmpRVVJPSzNYSURlNDhrS2dUTlVKS3BaenJZUDdGUlZubzJXVHhJVVZ2M1JpaTdNcHZRT3JZZndxLW1Nd0dFV29ZREY3a1BpQ0kwWDFyUDg?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [La Región](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOWJ6djBvalUweExFZmdnLXVXT0JRSXFZZGROcE1YVlMwem45YmVuQWRRQVJyV0FKVmpabk5IY3lPOXVkZmpRVVJPSzNYSURlNDhrS2dUTlVKS3BaenJZUDdGUlZubzJXVHhJVVZ2M1JpaTdNcHZRT3JZZndxLW1Nd0dFV29ZREY3a1BpQ0kwWDFyUDg?oc=5)
+
+---
 
 ### [Un nuevo aceite enriquecido promete frenar el daño renal en diabéticos: por qué es una buena noticia y por qué no sirve tu aceite del supermercado](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPblBFand6WGQ5SlJaVmxRd2ZwMWFjTGllWWdXaEozdGRRUXE2Mm5TY0I0WGE0TnBXWkRvXzF2WUNNUm5zeFNxSFRnT0wwV0dkNFAyS05ieHg0aC1sMjVLd1RuaVFmaWdoT3dGMkRfQTJVR1o2V0pFVDkyVkstUllBMThhVDMySzh4N3Q0MjUwc0I2U1ktUUpqSnFva2V6M0pxa0xWZE5pVlRraFg2TDFTSmMtdWFOdldOSVBHS2l2M0lvNEZGbnVCbXNIcjVwTmpTV04wQlZnMmhaM0U1NWtVamk3d1Z3SVg1Y2930gHwAUFVX3lxTE9NSm1aMEU1dktYNHZmSkpnRGhPcjZMX1J0bXFwUV9tYVhTcDI0SmFPU0FGbkZkVkdCaVhWazZGSk9iam9iMHN3TTB6eVJjbnJjdm5oMkg5cWpETGdlUThFREFBT0Z6dHdzTV93bkUyOWR4UnhqQm5jYklzT1VqUGhUSG5jY010a1dPZ0ZGUUFDa0VWODBGM0M1U2dhWXpobjdZMVlWMGEzaUhlMFlScDhsNUZBQTZ1M1ZtNHl3c0Fjd0VBUXRQaER2em9KMEdKUVVpd3JjVGFJQ0lQRzF0VEFfWEFHNjREOG1lOG1UY1I5RA?oc=5)
 
@@ -88,7 +96,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcX
 
 ### ['A stroke aged 43 changed my sense of who I was,' says Oxford man](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
-2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
@@ -123,6 +131,14 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxN
 2026-10-28 <span class="news-indication-tag">diabetes</span>
 
 Source: [T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2dCbGlSalV1N3cyMXpNTWMwcjRZeE1qamxCS2FUZ1llQm03ZlVZbktNQUhjUjAyMWtteFR4R29wSVNibjFwbDd3Y1lkS3kxSk02NTg1OV9SVW9xUTFIWVFsVnVZdDIxZ0R4X0x3eWt3LUNTQjQ2TFdtNGZJaG5oWmcyYWpibC0zNXFNbmcydnFTdkxUb29XM3lHa1REYUI4VXBSdWJUMDNBUXFtMEpBZl9VclR0WlhKck5yY1NtczBZRGlkdWw5WkF0R1k?oc=5)
+
+---
+
+### [Kardiometabolische Therapien bei Lebererkrankungen](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnhSNXlPZ0NjUnhHTTA3ZGFMdVh4YkJyYjlVUmRNZFVHVlNLb1JDRGpKYkRoYmpUTFl4Ty1zUEZwdmZudEo3ckFJeGZCeFdkbDd0UzNMbzRuUEtScnVZQUhkaTFrSkNqSGF2d3hyUE9tU0FoRWJ6ZWRvSFVJOUtHLWRuanhkWlVpY2VTUHkyNmhKeFFwR29US1gyVGQ?oc=5)
+
+2026-10-28 <span class="news-indication-tag">diabetes</span>
+
+Source: [medonline](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnhSNXlPZ0NjUnhHTTA3ZGFMdVh4YkJyYjlVUmRNZFVHVlNLb1JDRGpKYkRoYmpUTFl4Ty1zUEZwdmZudEo3ckFJeGZCeFdkbDd0UzNMbzRuUEtScnVZQUhkaTFrSkNqSGF2d3hyUE9tU0FoRWJ6ZWRvSFVJOUtHLWRuanhkWlVpY2VTUHkyNmhKeFFwR29US1gyVGQ?oc=5)
 
 ---
 

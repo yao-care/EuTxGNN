@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Selpercatinib. 3 predicted indications."
 permalink: /news/selpercatinib/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # Selpercatinib News
@@ -71,7 +71,7 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHk
 
 ### ['A stroke aged 43 changed my sense of who I was,' says Oxford man](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
-2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 

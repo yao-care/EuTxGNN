@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Orlistat. 1 predicted indications."
 permalink: /news/orlistat/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # Orlistat News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>15 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>21 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (21)
+
+### [Médicament anti-obésité : ce qu'il faut savoir sur le Wegovy en comprimé, disponible en pharmacie dès lundi - TF1 Info](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZW03eUpPdGY0Q1hsSzh4NHkzTnREelVMenN4Wl9xeDNBZFlQcndyQ19IWHlYeXJlVXZia2tubGIxbTJLc19vVkhWTmM5aVU1Nm42N1lCR09GRXRGOE5ndHF0dE5wajdJek9vcUxvTEwweDVNUUt4ZHNNdzBxR0JSSHp4eWlsOGl5djVIT0t2YzRlY25VRXhBTjhVMFBxUzVDRjdIcEF1ZWVtd29GYTVqSFZGdDdSUUZISGxjSnctbHU1bjV4TjE2YU14bGk4R29KU0JjRnVlT08zbnlqajJ3?oc=5)
+
+2026-11-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [TF1 Info](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZW03eUpPdGY0Q1hsSzh4NHkzTnREelVMenN4Wl9xeDNBZFlQcndyQ19IWHlYeXJlVXZia2tubGIxbTJLc19vVkhWTmM5aVU1Nm42N1lCR09GRXRGOE5ndHF0dE5wajdJek9vcUxvTEwweDVNUUt4ZHNNdzBxR0JSSHp4eWlsOGl5djVIT0t2YzRlY25VRXhBTjhVMFBxUzVDRjdIcEF1ZWVtd29GYTVqSFZGdDdSUUZISGxjSnctbHU1bjV4TjE2YU14bGk4R29KU0JjRnVlT08zbnlqajJ3?oc=5)
+
+---
 
 ### [Santé. Jusqu'à « 18 mois de délai » pour les médicaments anti-obésité : les consultations prises d’assaut - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUtCMlRnZWpGNHJJSHVFbWc5X3ZnNzF2U0R0X2lPOGl3TXR1aWVYOW4xaWN5WW5mTmVaRlpmalh2dXEyUnlDVFEzcjZNSGJ3SzJOa2xwOFRHWmE2YUhVQmVfZlgzTko2MzExemdfTC1xZ2pFN0lUdk9xTTExaTNyelZHMFhzMm03dHlWT2hXbENiS0N0Z1FJdDluUDg0SUd2d0hLQnFFbF9iOUpaS2tMdk4zVFFQdWdHX0xRZlJ2MUR3TkpOVkFSNW5jR2ZLSjJfT3c?oc=5)
 
@@ -43,11 +51,27 @@ Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi0gFBVV9
 
 ---
 
+### [Clot removal days after a stroke could help more patients recover, but the procedure is not without risks - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0ZVV3pJZmtxX0pZQWN5dmF3czFpYVNVNFNHdlg5aFFXcjA3cUVYZzU4VnRoSTdDd0thUXpIeFUwSnJOYW9hUnFnbXZNY1phbTRiNmMxN2k5dlJNU1MzbWtFQ0k3LXR1VDZTRHQ3ZzB0N2x1TkdMNGd4T2RTRVdYd0poS1UwcVk?oc=5)
+
+2026-11-01 <span class="news-indication-tag">stroke</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0ZVV3pJZmtxX0pZQWN5dmF3czFpYVNVNFNHdlg5aFFXcjA3cUVYZzU4VnRoSTdDd0thUXpIeFUwSnJOYW9hUnFnbXZNY1phbTRiNmMxN2k5dlJNU1MzbWtFQ0k3LXR1VDZTRHQ3ZzB0N2x1TkdMNGd4T2RTRVdYd0poS1UwcVk?oc=5)
+
+---
+
 ### [Nueve de cada diez ictus podrían prevenirse controlando los factores de riesgo - Cadena SER](https://news.google.com/rss/articles/CBMizAFBVV95cUxOSW1rQjdDS0hINk4xTWZwZ1NqVEdwdFRwOUJKZnJKRm0xQjdZNHF5QUlmeXlBYnppWlphWV8wQmxqZEtxaXNKWElLSkVwSlJ5ejZVcmM1UFZvTzhQSEVWZ2U2UmxXc0dlcjR3a2t4eHFOeWo4STlJV2RzTEp3eXJlRjNoZTcxTllyQ2RsRXJ0WFdhd1UyWFZWSXQ3WGh4blFVQndHRWVBYkVBWk5sQ1J3b3B2Rkh6ek0xaExxQ3RGNWJWQkV0ZmQ0dld0M2fSAeABQVVfeXFMUGlhLUdUVC0zcC12RXBxUUFyQ0tRbHN2RjV5QThwQ05TUjNOU3QyMjJHQkgtaHhIcE5EMmNQX3A4bnE0cGpQSWlsaWd3N3BldW9DeDlwb0ZxeHpEOUt1R1Zsd2xnWXhVeXliOWJ6d0ZMd3JMN0ItdU4ycGZET0E3aFlSalUyNTlsUFBxdUp6aTFqMTBtVEpwZ3VYRE1LTWxsek51eFhMcU0zV1VuQTVhUnlQSEVGblhpQWJQT2M4Qi1DbDZqbUFTSGs4UHVxYVJEV2xKVF9idFRFREVvQ1JjbEc?oc=5)
 
 2026-11-01 <span class="news-indication-tag">ictus</span>
 
 Source: [Cadena SER](https://news.google.com/rss/articles/CBMizAFBVV95cUxOSW1rQjdDS0hINk4xTWZwZ1NqVEdwdFRwOUJKZnJKRm0xQjdZNHF5QUlmeXlBYnppWlphWV8wQmxqZEtxaXNKWElLSkVwSlJ5ejZVcmM1UFZvTzhQSEVWZ2U2UmxXc0dlcjR3a2t4eHFOeWo4STlJV2RzTEp3eXJlRjNoZTcxTllyQ2RsRXJ0WFdhd1UyWFZWSXQ3WGh4blFVQndHRWVBYkVBWk5sQ1J3b3B2Rkh6ek0xaExxQ3RGNWJWQkV0ZmQ0dld0M2fSAeABQVVfeXFMUGlhLUdUVC0zcC12RXBxUUFyQ0tRbHN2RjV5QThwQ05TUjNOU3QyMjJHQkgtaHhIcE5EMmNQX3A4bnE0cGpQSWlsaWd3N3BldW9DeDlwb0ZxeHpEOUt1R1Zsd2xnWXhVeXliOWJ6d0ZMd3JMN0ItdU4ycGZET0E3aFlSalUyNTlsUFBxdUp6aTFqMTBtVEpwZ3VYRE1LTWxsek51eFhMcU0zV1VuQTVhUnlQSEVGblhpQWJQT2M4Qi1DbDZqbUFTSGs4UHVxYVJEV2xKVF9idFRFREVvQ1JjbEc?oc=5)
+
+---
+
+### [Tre pazienti con ictus in contemporanea: il Santa Croce li salva con un grande lavoro di squadra](https://news.google.com/rss/articles/CBMiigJBVV95cUxPODNISUJwNHFFaHdsU2JrYXZ1SGNwNC00MHdQd2lBYUVneEYyeHpVaGlRVlBISThSVmRuellIRmtURFNMa3d4VGE0WExZMUp1dTRLUnlkaXpfOTBSMUJQX0E5RVV0OGxWT2tka1hPNGpsSHA0bFhNTGpVN0FmbDhnQlowSmhybVcwdm1qU0pUa3FtdW5lY20zbmJadnYteFY0cWRtSDRudV9KYjhrZUlraFNrb0hSN0Z5SUFtTGZEVGQ5VmJURE9Vb1g4cXJHekJTUk9qTkFIRDlvMUxjQ05JWVBhQTFlM2NwWS1VNTl3UHo3Wm1NRUdCUFpSQjNUdkNFNnBUZmRWMWgzQdIBigJBVV95cUxPODNISUJwNHFFaHdsU2JrYXZ1SGNwNC00MHdQd2lBYUVneEYyeHpVaGlRVlBISThSVmRuellIRmtURFNMa3d4VGE0WExZMUp1dTRLUnlkaXpfOTBSMUJQX0E5RVV0OGxWT2tka1hPNGpsSHA0bFhNTGpVN0FmbDhnQlowSmhybVcwdm1qU0pUa3FtdW5lY20zbmJadnYteFY0cWRtSDRudV9KYjhrZUlraFNrb0hSN0Z5SUFtTGZEVGQ5VmJURE9Vb1g4cXJHekJTUk9qTkFIRDlvMUxjQ05JWVBhQTFlM2NwWS1VNTl3UHo3Wm1NRUdCUFpSQjNUdkNFNnBUZmRWMWgzQQ?oc=5)
+
+2026-11-01 <span class="news-indication-tag">ictus</span>
+
+Source: [TargatoCN](https://news.google.com/rss/articles/CBMiigJBVV95cUxPODNISUJwNHFFaHdsU2JrYXZ1SGNwNC00MHdQd2lBYUVneEYyeHpVaGlRVlBISThSVmRuellIRmtURFNMa3d4VGE0WExZMUp1dTRLUnlkaXpfOTBSMUJQX0E5RVV0OGxWT2tka1hPNGpsSHA0bFhNTGpVN0FmbDhnQlowSmhybVcwdm1qU0pUa3FtdW5lY20zbmJadnYteFY0cWRtSDRudV9KYjhrZUlraFNrb0hSN0Z5SUFtTGZEVGQ5VmJURE9Vb1g4cXJHekJTUk9qTkFIRDlvMUxjQ05JWVBhQTFlM2NwWS1VNTl3UHo3Wm1NRUdCUFpSQjNUdkNFNnBUZmRWMWgzQdIBigJBVV95cUxPODNISUJwNHFFaHdsU2JrYXZ1SGNwNC00MHdQd2lBYUVneEYyeHpVaGlRVlBISThSVmRuellIRmtURFNMa3d4VGE0WExZMUp1dTRLUnlkaXpfOTBSMUJQX0E5RVV0OGxWT2tka1hPNGpsSHA0bFhNTGpVN0FmbDhnQlowSmhybVcwdm1qU0pUa3FtdW5lY20zbmJadnYteFY0cWRtSDRudV9KYjhrZUlraFNrb0hSN0Z5SUFtTGZEVGQ5VmJURE9Vb1g4cXJHekJTUk9qTkFIRDlvMUxjQ05JWVBhQTFlM2NwWS1VNTl3UHo3Wm1NRUdCUFpSQjNUdkNFNnBUZmRWMWgzQQ?oc=5)
 
 ---
 
@@ -61,9 +85,17 @@ Source: [L'Eco di Bergamo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQ
 
 ### [Vietnam senkt Salz: neue Leitlinie für Herzgesundheit und Nährwertkennzeichnung - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxPS01waEdPZU9jMGdyM1VpQk1EVlppMFZ1TUxSeHBRaVNFczJla3p3SFlQVU0zUVZUTUVZalJ4NVVXNy1OTG93ZGxxZXQxX2phUUJBeGR0QWNOS29ubmRxR3MyanNCV1hjcGRWUnVVTGQzLUR0bm01YmVVVy1KRmtUcl9ubWxfelc5ZGFWUFcwclhIVnZiYVFEbmFsdUVfN0V0Y2ZONW5KZm5NNGtkS2RRS2h3?oc=5)
 
-2026-10-31 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-10-31 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxPS01waEdPZU9jMGdyM1VpQk1EVlppMFZ1TUxSeHBRaVNFczJla3p3SFlQVU0zUVZUTUVZalJ4NVVXNy1OTG93ZGxxZXQxX2phUUJBeGR0QWNOS29ubmRxR3MyanNCV1hjcGRWUnVVTGQzLUR0bm01YmVVVy1KRmtUcl9ubWxfelc5ZGFWUFcwclhIVnZiYVFEbmFsdUVfN0V0Y2ZONW5KZm5NNGtkS2RRS2h3?oc=5)
+
+---
+
+### [« Deux AVC à 28 ans, ça n’était pas du tout dans mon bingo de l’année 2026 » - TÉMOIGNAGE - Le HuffPost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmpoZ1NFMmJfVmNsR0NpVk9tU1hYdHFzUUlTQUdSeGZsTEtxU3BUUEw4NHpvRXExdXBhNHlWaENoOGMtNFlnYmdSdU5naG1UMFJXRzRpRnRiYWxLcEc4QjkzeFZNdW1VbzRNdTVhR1RibllTbFRERjJ3M21xLTNzaFNhZlFzS2lDcUttNG40M042Z2h5NkVZOU9lQmplNjZ6TzdMLVE5RkgyU2hvaTB3MTU3YXBUMEtyVF9YU015Wk5NdEFueDRnTXZ4dkMwOUZKMU9n?oc=5)
+
+2026-10-31 <span class="news-indication-tag">AVC</span>
+
+Source: [Le HuffPost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmpoZ1NFMmJfVmNsR0NpVk9tU1hYdHFzUUlTQUdSeGZsTEtxU3BUUEw4NHpvRXExdXBhNHlWaENoOGMtNFlnYmdSdU5naG1UMFJXRzRpRnRiYWxLcEc4QjkzeFZNdW1VbzRNdTVhR1RibllTbFRERjJ3M21xLTNzaFNhZlFzS2lDcUttNG40M042Z2h5NkVZOU9lQmplNjZ6TzdMLVE5RkgyU2hvaTB3MTU3YXBUMEtyVF9YU015Wk5NdEFueDRnTXZ4dkMwOUZKMU9n?oc=5)
 
 ---
 
@@ -93,7 +125,7 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5wFBVV95cU
 
 ### ['A stroke aged 43 changed my sense of who I was,' says Oxford man](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
-2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
@@ -104,6 +136,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMd
 2026-10-30 <span class="news-indication-tag">obesity</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZyRnJTdTc5dURoeE5PUVEzSXA1NXN3WkRZRlZFT3ZqZzZuc1ctOXEtQnNvd0dUZmw1dEtuN2Fjc0NQZVQ4Qmxsc0pLV283ZW5BOTg2eEhoa0JxRlJiWXZiSVNrdVJpYU5HQzFhcXZ3MGloc2UzSmgzanRJaU1RUjR5MlFVbG1xSkktM01BMm10UWNS?oc=5)
+
+---
+
+### [Los casos de ictus crecen un 73% desde 1990 pese a caer las tasas de incidencia y mortalidad por edad](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTRybFpFdTk2WENHOGh1b2dRWDgtY0IzMjVNZURrZ3pDU0N4NnF0WUk2b2NmbWNreV9wRnpObVNmOUFSTm0zaXNfM1dGbHNabklZbmhqZDgtbE5iNTExNmdpcDh2NTQ2TWh0MWhLNXNZR25xTzRsTDg3bHhXMFhjTlNoQnNtbFdueXVNT1FJMHc5UTRnWWhTYlRFbW8yd3l6R3hwWEZZMzc4bW5SSU1Oc1h6NklUbFV1cFBzS2tNNFgxbHNzY19GaQ?oc=5)
+
+2026-10-29 <span class="news-indication-tag">ictus</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTRybFpFdTk2WENHOGh1b2dRWDgtY0IzMjVNZURrZ3pDU0N4NnF0WUk2b2NmbWNreV9wRnpObVNmOUFSTm0zaXNfM1dGbHNabklZbmhqZDgtbE5iNTExNmdpcDh2NTQ2TWh0MWhLNXNZR25xTzRsTDg3bHhXMFhjTlNoQnNtbFdueXVNT1FJMHc5UTRnWWhTYlRFbW8yd3l6R3hwWEZZMzc4bW5SSU1Oc1h6NklUbFV1cFBzS2tNNFgxbHNzY19GaQ?oc=5)
 
 ---
 
@@ -152,6 +192,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV9
 2026-10-28 <span class="news-indication-tag">ictus</span>
 
 Source: [Demócrata](https://news.google.com/rss/articles/CBMizwFBVV95cUxQOU1WQzFFSF9falAtektaNjNHeHBZay1QQWltMm5ROUhMTHplYm9UZGFzZVROOTY0Y1d3TWVUSGk2dmdDYXpPclRXWnBDT2RfWFB2TllWZnB4Y05PdTBLOFJQdEU2VXBfeEw0WTZoQktEWXVSRE5mRTZtbkFoWGlKUUZDRmJONXJZLUtZQ0hUUWFTZWJoajBMNzloWDhPZUlfOHpLRFRSOGlMOXZlUi1QWmVpdjEzNFZyVV9YRDNxRTBFU1hkUUVIeDBKaDdCZ2vSAdQBQVVfeXFMUE4tb1dvQnJIZXNKU2JqY3lfQ0pxUEFyRVVZX2RyaUhYY1JPY1pYcTUzUkNsd09GVk4zVHE5R2l1dUhZQlV2NWRZNjVxQkJxVllfSTRWYmlVcHRUSVA3YU9ORTZTVEdpcVJyc0ZLMUtTa2drcF9BSEdkdlhNNi14YmNwdGc0UjZvZ0NrLVp5a3hMUk5aN1NqdnJDSHRSRk9zMWRmTWpWaGphOGxINHN6RnhIRUFVNmNJeVdXSjUwWEZ5NEhoVHZUS0ktekYwbVYxU0hPbXE?oc=5)
+
+---
+
+### [Impfungen helfen: So gefährlich sind Corona und Grippe für das Herz](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdFdxYkl4am82MnlPVDh5VXZkUUdrU2V3MnBkV3cwX1MyNXpCaFhBNTl3anBVYlFGR2VjYUlCZUE2WWZsRER3bTdqU2lteFNFVXdJNDlrZWxRMUU2N0ZNNFBiZ0tXVzl2aXNXWjRmaTJmbF9zOFFKbGtaWS1nNHpacHFLY194T2lfMnhVYVh5Vk1iejM4SXE1RFQ4bUlVYVk4aUtsT1lZMVh3bmNsSlNpZXlvdG93WDRZSWp3N2Q1bHRsdi1S?oc=5)
+
+2026-10-28 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [BILD](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdFdxYkl4am82MnlPVDh5VXZkUUdrU2V3MnBkV3cwX1MyNXpCaFhBNTl3anBVYlFGR2VjYUlCZUE2WWZsRER3bTdqU2lteFNFVXdJNDlrZWxRMUU2N0ZNNFBiZ0tXVzl2aXNXWjRmaTJmbF9zOFFKbGtaWS1nNHpacHFLY194T2lfMnhVYVh5Vk1iejM4SXE1RFQ4bUlVYVk4aUtsT1lZMVh3bmNsSlNpZXlvdG93WDRZSWp3N2Q1bHRsdi1S?oc=5)
 
 ---
 

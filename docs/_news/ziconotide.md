@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ziconotide. 9 predicted indications."
 permalink: /news/ziconotide/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # Ziconotide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Ziconotide?">
-<strong>Ziconotide</strong> currently has <strong>6 news articles</strong>, with 9 predicted indications.
+<strong>Ziconotide</strong> currently has <strong>7 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Ziconotide with the latest h
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Médicament anti-obésité : ce qu'il faut savoir sur le Wegovy en comprimé, disponible en pharmacie dès lundi - TF1 Info](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZW03eUpPdGY0Q1hsSzh4NHkzTnREelVMenN4Wl9xeDNBZFlQcndyQ19IWHlYeXJlVXZia2tubGIxbTJLc19vVkhWTmM5aVU1Nm42N1lCR09GRXRGOE5ndHF0dE5wajdJek9vcUxvTEwweDVNUUt4ZHNNdzBxR0JSSHp4eWlsOGl5djVIT0t2YzRlY25VRXhBTjhVMFBxUzVDRjdIcEF1ZWVtd29GYTVqSFZGdDdSUUZISGxjSnctbHU1bjV4TjE2YU14bGk4R29KU0JjRnVlT08zbnlqajJ3?oc=5)
+
+2026-11-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [TF1 Info](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZW03eUpPdGY0Q1hsSzh4NHkzTnREelVMenN4Wl9xeDNBZFlQcndyQ19IWHlYeXJlVXZia2tubGIxbTJLc19vVkhWTmM5aVU1Nm42N1lCR09GRXRGOE5ndHF0dE5wajdJek9vcUxvTEwweDVNUUt4ZHNNdzBxR0JSSHp4eWlsOGl5djVIT0t2YzRlY25VRXhBTjhVMFBxUzVDRjdIcEF1ZWVtd29GYTVqSFZGdDdSUUZISGxjSnctbHU1bjV4TjE2YU14bGk4R29KU0JjRnVlT08zbnlqajJ3?oc=5)
+
+---
 
 ### [Santé. Jusqu'à « 18 mois de délai » pour les médicaments anti-obésité : les consultations prises d’assaut - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUtCMlRnZWpGNHJJSHVFbWc5X3ZnNzF2U0R0X2lPOGl3TXR1aWVYOW4xaWN5WW5mTmVaRlpmalh2dXEyUnlDVFEzcjZNSGJ3SzJOa2xwOFRHWmE2YUhVQmVfZlgzTko2MzExemdfTC1xZ2pFN0lUdk9xTTExaTNyelZHMFhzMm03dHlWT2hXbENiS0N0Z1FJdDluUDg0SUd2d0hLQnFFbF9iOUpaS2tMdk4zVFFQdWdHX0xRZlJ2MUR3TkpOVkFSNW5jR2ZLSjJfT3c?oc=5)
 
@@ -69,7 +77,7 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5wFBVV95cU
 
 ### ['A stroke aged 43 changed my sense of who I was,' says Oxford man](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
-2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
