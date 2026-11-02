@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Isavuconazole?">
-<strong>Isavuconazole</strong> currently has <strong>11 news articles</strong>, with 0 predicted indications.
+<strong>Isavuconazole</strong> currently has <strong>18 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,47 @@ This page combines the AI-predicted indications for Isavuconazole with the lates
 <p><a href="{{ '/drugs/isavuconazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (18)
+
+### [¿Riesgos del embarazo en las miocardiopatías?](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZmxXdllwSm54V1JBUzBWbS1fNmNfTmlPYkNFcWpxY0tMZUxOZmxYRDlnUzVWVEQ0WndldzlvaHhiMkh3Rm5CLWxfNWIzVFpWOUttLWtVMURiY1dnUE1RdTlvQmp0OWRzTWZaa0xySzFRWVFGRGxKT3NTdTlaUHl5VlFpNG00aXFMSHlYUVF3Z2pmUnJoZVhIemplSW1EVFVpRXBZTUdvZjAzRUo3a2xDYWs0b2tGRWlUa1lHRFlXOUdweTRzQnJLQUYyd1FNWnNvWE1URk80clJPd2R6ZzhfSzdBTQ?oc=5)
+
+2026-11-02 <span class="news-indication-tag">cardiopatía</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZmxXdllwSm54V1JBUzBWbS1fNmNfTmlPYkNFcWpxY0tMZUxOZmxYRDlnUzVWVEQ0WndldzlvaHhiMkh3Rm5CLWxfNWIzVFpWOUttLWtVMURiY1dnUE1RdTlvQmp0OWRzTWZaa0xySzFRWVFGRGxKT3NTdTlaUHl5VlFpNG00aXFMSHlYUVF3Z2pmUnJoZVhIemplSW1EVFVpRXBZTUdvZjAzRUo3a2xDYWs0b2tGRWlUa1lHRFlXOUdweTRzQnJLQUYyd1FNWnNvWE1URk80clJPd2R6ZzhfSzdBTQ?oc=5)
+
+---
+
+### [Blutdruck im Blick: Welche Werte als gut gelten – und was Sie selbst dafür tun können](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSTBIQ2I1SXM5Z3VTMmhqWDRfSXZDUF9fUkcwZDJlbThoRTBzNmZTRzNDR1o3VjJIc2JYMDBDaGl0ZWh6OUY2N2JVRVVieUYzZTg1VjdVRzRoSHJSVTJRbXVIM2ZDXzE5QW5ReWJ2UTVZam9fVHB6MHdkcUZGeWdsbFVtMWpWVVRNSkJtejd3S0lsaExGZlMxVWNyYUpydVp3d3VqSjZiUnBMOUlUNWJsZmVLaGhONUFEZm9kMHlRTldxWVZWVHlWc2RtVmlWT216Y3lQcEFEQ2tzSHgzekE?oc=5)
+
+2026-11-02 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [oekotest.de](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSTBIQ2I1SXM5Z3VTMmhqWDRfSXZDUF9fUkcwZDJlbThoRTBzNmZTRzNDR1o3VjJIc2JYMDBDaGl0ZWh6OUY2N2JVRVVieUYzZTg1VjdVRzRoSHJSVTJRbXVIM2ZDXzE5QW5ReWJ2UTVZam9fVHB6MHdkcUZGeWdsbFVtMWpWVVRNSkJtejd3S0lsaExGZlMxVWNyYUpydVp3d3VqSjZiUnBMOUlUNWJsZmVLaGhONUFEZm9kMHlRTldxWVZWVHlWc2RtVmlWT216Y3lQcEFEQ2tzSHgzekE?oc=5)
+
+---
+
+### [Cholestérol, tension, cœur : ces 9 fruits que les cardiologues conseillent de mettre plus souvent au menu - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOandPWEM0R282MV9Pd3NSeGVwZFpiT25nLWpkTjZCQmVseDhkMVU0b1lSWXVrOGI1WHdpS2hKMmdpWVdpUVpzSTlGLXBka3ZiMmhvdnl2endfMDh4Qk9Nc2tmX0VOSUVkUG1mRGV5ZDlOaFJWaE84SGlhNE13SXJuUzJEWF9RV3BEQ0ZRUVdwd1hJcHJPTDFIb2tuSmhJMHN3dk5DaFhUSEhzOGhkaDFVRHUzdE5ZVGQ1bEFDVmNnSXpXWGE3QUp6UUU1dVI2ck40aThtX042aHBzSnd4ZTVTcnRJbzFPZkVycXpuY2kxSlNsSjk0bFRBc3lMLTdLYlhDSEFvZk5VTEs?oc=5)
+
+2026-11-02 <span class="news-indication-tag">hypertension</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOandPWEM0R282MV9Pd3NSeGVwZFpiT25nLWpkTjZCQmVseDhkMVU0b1lSWXVrOGI1WHdpS2hKMmdpWVdpUVpzSTlGLXBka3ZiMmhvdnl2endfMDh4Qk9Nc2tmX0VOSUVkUG1mRGV5ZDlOaFJWaE84SGlhNE13SXJuUzJEWF9RV3BEQ0ZRUVdwd1hJcHJPTDFIb2tuSmhJMHN3dk5DaFhUSEhzOGhkaDFVRHUzdE5ZVGQ1bEFDVmNnSXpXWGE3QUp6UUU1dVI2ck40aThtX042aHBzSnd4ZTVTcnRJbzFPZkVycXpuY2kxSlNsSjk0bFRBc3lMLTdLYlhDSEFvZk5VTEs?oc=5)
+
+---
+
+### [Hypertonie: Wann können Blutdrucksenker im hohen Alter abgesetzt werden?](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVjA1Mm40V3ZtYVRVcmJQVGxRR2RHTjA5Ymt4S1lxTXl6TEVMTnoxLUJvNndhaVRyVmxnQkd3TVVHQ2dvd1dVS2tsU1ItVklPS0ZwS3RtNTVSaGtLdmI1UWJIMVE1SDlEbGl0Ym44RlVQcWhzMWQ4S0wxSTdmS3hPUm9sVjNnQnA4NVI1c1pKMk9nVjRzakFLRi1CTTFyVFlua1JOSEhzYm9IRlN0cXN5RzVFeVBDSnlQVnp5Uw?oc=5)
+
+2026-11-02 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVjA1Mm40V3ZtYVRVcmJQVGxRR2RHTjA5Ymt4S1lxTXl6TEVMTnoxLUJvNndhaVRyVmxnQkd3TVVHQ2dvd1dVS2tsU1ItVklPS0ZwS3RtNTVSaGtLdmI1UWJIMVE1SDlEbGl0Ym44RlVQcWhzMWQ4S0wxSTdmS3hPUm9sVjNnQnA4NVI1c1pKMk9nVjRzakFLRi1CTTFyVFlua1JOSEhzYm9IRlN0cXN5RzVFeVBDSnlQVnp5Uw?oc=5)
+
+---
+
+### [I'm a GP – here are three ways to reduce your risk of deadly coronary heart disease - Daily Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTgwMWNxUDZpX2ppM21IY3ZFMDRCQklMRS1DQWZyckVfbktVaV9mY1J6dERSSV92LTJ6aTNfVmxPNExmTGswSmpEWXVoSElQckNUM2hGRkNfMXlTWGF3Q0xlMkZyQ1dUaDVDZm9yZ0lmWnd6YnZCNWtoTDNCUV90ZjEyTGl1LW5LcnRtc2t4azNRTEdRc1BHN1kxTdIBoAFBVV95cUxOYi1zbjJSLTVTMGdGbGhFSnU3ZklzWTVRN0diWEQ0VTIwejNuTXNNQkRPU3EzNXR6eTNRUkRDN090RDl4N1NkcHd1UE8zZGtseEZ6SjhuYU8wVGQ5TnFnb1E2YVBQT2tmcWtfUWpmYktCYWc3ZkcwWmtXdktldzFEcEQ0Y3VYNXBzLWo4dHFubTJ1MGlvdDEyUk1zVGNVT3Rk?oc=5)
+
+2026-11-02 <span class="news-indication-tag">heart disease</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTgwMWNxUDZpX2ppM21IY3ZFMDRCQklMRS1DQWZyckVfbktVaV9mY1J6dERSSV92LTJ6aTNfVmxPNExmTGswSmpEWXVoSElQckNUM2hGRkNfMXlTWGF3Q0xlMkZyQ1dUaDVDZm9yZ0lmWnd6YnZCNWtoTDNCUV90ZjEyTGl1LW5LcnRtc2t4azNRTEdRc1BHN1kxTdIBoAFBVV95cUxOYi1zbjJSLTVTMGdGbGhFSnU3ZklzWTVRN0diWEQ0VTIwejNuTXNNQkRPU3EzNXR6eTNRUkRDN090RDl4N1NkcHd1UE8zZGtseEZ6SjhuYU8wVGQ5TnFnb1E2YVBQT2tmcWtfUWpmYktCYWc3ZkcwWmtXdktldzFEcEQ0Y3VYNXBzLWo4dHFubTJ1MGlvdDEyUk1zVGNVT3Rk?oc=5)
+
+---
 
 ### [Longevity: Zwei Werte zeigen, wie gut Sie altern – und jeder kann sie selbst messen - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisAFBVV95cUxQenVaY2VhVlo5TUt3R2V1UlcyeXRza3d6ZVotRUpQazcyTTdXRHhDWkNxMUJ4TVVNRjNEejJISzlfNWVmTnc5eHV6d3cwSXFEQjVPd3pnYlZrVkVWcnplMS1ycE5XdERtbFhEOU9yWVZrVUUzZmg3V0tzUzhaR2Rza0RwaG83RDdQZm9iNjRnWG1uTlZMX0xHTDk1cHNZYmxDUFhRSldKOUpIWTdOYVJrZg?oc=5)
 
@@ -80,6 +120,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHk
 
 ---
 
+### [Cardiologists Agree—This Common Food Is Fantastic for Lowering Blood Pressure](https://news.google.com/rss/articles/CBMid0FVX3lxTE5VdEY0RVNyTXVDM1dfeExMRGJfZXpWZVlHMWpqV1Rlamw2ZmFaX1ZEb1Zrc3JCQTVvbDktMENQSU14bjJRelFPTHBUUDl5MGdtUXB1Q2R2aU56THpYV1F1TmVZaUYzaktZRWFrWlhneW4wVm43cXc4?oc=5)
+
+2026-10-30 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMid0FVX3lxTE5VdEY0RVNyTXVDM1dfeExMRGJfZXpWZVlHMWpqV1Rlamw2ZmFaX1ZEb1Zrc3JCQTVvbDktMENQSU14bjJRelFPTHBUUDl5MGdtUXB1Q2R2aU56THpYV1F1TmVZaUYzaktZRWFrWlhneW4wVm43cXc4?oc=5)
+
+---
+
 ### ['A stroke aged 43 changed my sense of who I was,' says Oxford man](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
 2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
@@ -117,6 +165,14 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2J
 2026-10-28 <span class="news-indication-tag">heart disease</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
+
+---
+
+### [Deutscher Psoriasis-Tag 2026 in Erlangen: Was die Forschung für den Alltag mit Schuppenflechte bringt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUZVdGExczNSNV9hUWx4MHcwd0tPTUEyaUVlajZac0NjOEMxU3FYenhjWVFWN2gyem5Pa1NmQTAyODZnMU5qVU9PenBiNFNvSG1vUnRNWGlSSUtXUTNPbGFlZjBsLVRuLXdKU29rQThUekxKbjZGUkF0VWVST3NldjgwNldzaC1ZZk9FTWkzU1prN3lCbVlFeFQzcTFuNDQwSjA0ay1uZGlpRVZsT0QxM25NdEVsY0dhREpsVlJxUVc5YzFldkFMeFlDX2g2azRlSUV2NUZCeHRxVjE3c0RDaE1mNWpHTVFCSzdhS05B?oc=5)
+
+2026-10-26 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Psoriasis-Netz](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUZVdGExczNSNV9hUWx4MHcwd0tPTUEyaUVlajZac0NjOEMxU3FYenhjWVFWN2gyem5Pa1NmQTAyODZnMU5qVU9PenBiNFNvSG1vUnRNWGlSSUtXUTNPbGFlZjBsLVRuLXdKU29rQThUekxKbjZGUkF0VWVST3NldjgwNldzaC1ZZk9FTWkzU1prN3lCbVlFeFQzcTFuNDQwSjA0ay1uZGlpRVZsT0QxM25NdEVsY0dhREpsVlJxUVc5YzFldkFMeFlDX2g2azRlSUV2NUZCeHRxVjE3c0RDaE1mNWpHTVFCSzdhS05B?oc=5)
 
 ---
 

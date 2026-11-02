@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>16 news articles</strong>, with 4 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>21 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,23 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (21)
+
+### [Typ-2-Diabetes: Lebensstilprogramm führte bei jedem Zweiten zur Remission](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDBUZHZmcE84T3JsT0J5Ri1wcDE0c18tN1k1UnZ3T3hrZ3dfVEtvd1NJUkFlaUUtbGVsYnUwS3o2a3daZF9mTFNBMlBlRlI5V2lIZ21TU29kS21WcWZvbmtxUGw0bHlGUFRMTEtYUlhRT1pHTEFtSmhWMl9kbGdpT3FkZW83UXN3UkdLUlUybDN6OEZEY1dOMW5EUjk4eG5ZTGxzLVVNOWtmcld1MWc?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDBUZHZmcE84T3JsT0J5Ri1wcDE0c18tN1k1UnZ3T3hrZ3dfVEtvd1NJUkFlaUUtbGVsYnUwS3o2a3daZF9mTFNBMlBlRlI5V2lIZ21TU29kS21WcWZvbmtxUGw0bHlGUFRMTEtYUlhRT1pHTEFtSmhWMl9kbGdpT3FkZW83UXN3UkdLUlUybDN6OEZEY1dOMW5EUjk4eG5ZTGxzLVVNOWtmcld1MWc?oc=5)
+
+---
+
+### [Fettleber und Bewegung: Aktive Patienten haben 59 Prozent weniger Sterberisiko](https://news.google.com/rss/articles/CBMixAFBVV95cUxOamlKZTFFakFXUGNUQ28tUWwzRWZSNEpHRTJUNmVnQnVNbU1JSVNXNkpZZF9CaUFzdmdJbmRjQzUyM2dkS1ZmNUxwd05zUVpiRHE5dDJNTkZrT3BRSk9aS1VVY09PTGxRNnpIYWtPOXRkaTVGZVFGUHdUMDV3N1BFaXpjejdPRFFSUkdfMW9XZUI1UzEzbnlVWGVoNVhLSmZramc3cFRfOHZuXzVnRGxEN0drS1FyUzE5SW1VRUI3YjhSQWJL?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxOamlKZTFFakFXUGNUQ28tUWwzRWZSNEpHRTJUNmVnQnVNbU1JSVNXNkpZZF9CaUFzdmdJbmRjQzUyM2dkS1ZmNUxwd05zUVpiRHE5dDJNTkZrT3BRSk9aS1VVY09PTGxRNnpIYWtPOXRkaTVGZVFGUHdUMDV3N1BFaXpjejdPRFFSUkdfMW9XZUI1UzEzbnlVWGVoNVhLSmZramc3cFRfOHZuXzVnRGxEN0drS1FyUzE5SW1VRUI3YjhSQWJL?oc=5)
+
+---
 
 ### [Sed, hambre y cansancio: señales de alerta para detectar la diabetes - La Región](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOWJ6djBvalUweExFZmdnLXVXT0JRSXFZZGROcE1YVlMwem45YmVuQWRRQVJyV0FKVmpabk5IY3lPOXVkZmpRVVJPSzNYSURlNDhrS2dUTlVKS3BaenJZUDdGUlZubzJXVHhJVVZ2M1JpaTdNcHZRT3JZZndxLW1Nd0dFV29ZREY3a1BpQ0kwWDFyUDg?oc=5)
 
@@ -94,6 +110,22 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcX
 
 ---
 
+### [Type 2 diabetes breakthrough as 54% achieve remission in just 6 months - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFAtUWlYZGRHWW5LY2g5Nk1uLV9OVmN5MU9MbWJZMTE4UlJIQi1SQkYtcDlWa3g2YTFsN3JSRjZYb2c0QjJscEtXUUFOR2RfS3kwVnBUREw4bVhXbkN5RWJHZlFmNlpzeHVBaWNvZWIzTQ?oc=5)
+
+2026-10-30 <span class="news-indication-tag">diabetes</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFAtUWlYZGRHWW5LY2g5Nk1uLV9OVmN5MU9MbWJZMTE4UlJIQi1SQkYtcDlWa3g2YTFsN3JSRjZYb2c0QjJscEtXUUFOR2RfS3kwVnBUREw4bVhXbkN5RWJHZlFmNlpzeHVBaWNvZWIzTQ?oc=5)
+
+---
+
+### [Mit Strom: Schweizer Forscher filtern überschüssigen Zucker aus Blut](https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1p2a3FuY0gwN3pwU0ZVS3JPbV9xTzNJYjRlTFNaTFZ2ZDdqR1FpN2M3VlZETHNwdTZnWG5mRm1hSHZxRDI3aEF6U093cE1uVmkxVVI0UjdxVG1Pd3p2WEJUbDZHbkVEaVFOaEJOOUFpSFFvcjR1MThISVdUM2RaY004RVNqenhyMUdYU2tQRmhEZC1ZY3VxUHU2djRRTkVKWi1nVFZYcERzOC1hRklOYmRmVU5tQQ?oc=5)
+
+2026-10-30 <span class="news-indication-tag">diabetes</span>
+
+Source: [TARA24](https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1p2a3FuY0gwN3pwU0ZVS3JPbV9xTzNJYjRlTFNaTFZ2ZDdqR1FpN2M3VlZETHNwdTZnWG5mRm1hSHZxRDI3aEF6U093cE1uVmkxVVI0UjdxVG1Pd3p2WEJUbDZHbkVEaVFOaEJOOUFpSFFvcjR1MThISVdUM2RaY004RVNqenhyMUdYU2tQRmhEZC1ZY3VxUHU2djRRTkVKWi1nVFZYcERzOC1hRklOYmRmVU5tQQ?oc=5)
+
+---
+
 ### ['A stroke aged 43 changed my sense of who I was,' says Oxford man](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xR0FQV2lkQXVMdkpmeDE4VHN6b3VLY0hzUEJ0bEVPRkZlSnhaLVRpTGhZTDVpWnFqNVV3bWRBQnFORF9tV2VxNVpudmUxbjhwY01vZmRLMGhSSHRiYVE?oc=5)
 
 2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
@@ -123,6 +155,14 @@ Source: [iSanidad](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSzFUNnN3
 2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
+
+---
+
+### [Implantat baut überschüssige Glukose bei Typ-2-Diabetes ab](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbll6Y2F5VV9NNUpHRlFJSmJCVzc1eGI5QURCRkpzQWRhYnBIS3NHQWdpVzlBbW9fOWtQTEVyR0VMQlJqUzNiX3FaWmJDNlY1N1NFdFlUT3Y4UGdpM1dwUUxjZThYc08xVjJWelVybndvZzJUTTdyWEpNbFVZWm9SU2t1Y0FFR0p3VkR5SXE3b1JsZWti?oc=5)
+
+2026-10-28 <span class="news-indication-tag">diabetes</span>
+
+Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbll6Y2F5VV9NNUpHRlFJSmJCVzc1eGI5QURCRkpzQWRhYnBIS3NHQWdpVzlBbW9fOWtQTEVyR0VMQlJqUzNiX3FaWmJDNlY1N1NFdFlUT3Y4UGdpM1dwUUxjZThYc08xVjJWelVybndvZzJUTTdyWEpNbFVZWm9SU2t1Y0FFR0p3VkR5SXE3b1JsZWti?oc=5)
 
 ---
 

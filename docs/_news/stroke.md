@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "ictus (stroke) News"
+title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 16 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 22 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-02
 ---
 
-# ictus (stroke) News
+# Schlaganfall (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>16 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
+<strong>Schlaganfall (stroke)</strong> currently has <strong>22 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,23 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (16)
+## Related News (22)
+
+### ['I'm glad my stroke happened, I wouldn't change it'](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsanN4VTFEWlp6UzR1VDdPNmNBcFoxOHJDdFJueWV6WV9rMmE2cVlVbGZOa01pOXgydjY3cUR2QWFTelBFUmRjUkFuMnkxX0YxMW15X0hkR0hEajNTM3c?oc=5)
+
+2026-11-02
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsanN4VTFEWlp6UzR1VDdPNmNBcFoxOHJDdFJueWV6WV9rMmE2cVlVbGZOa01pOXgydjY3cUR2QWFTelBFUmRjUkFuMnkxX0YxMW15X0hkR0hEajNTM3c?oc=5)
+
+---
+
+### [Testosteron bei Postmenopause: Studie zeigt erhöhtes Risiko für Herzinfarkt und Schlaganfall - it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMV9LUmh6UlVkRVlITFZMU2NNc0IzZjdkOFpUUEVtVkkwNWFjZnJQOWRZUHZmWjZoaDN0YVZhbEU0Skl5T1RDUF8ySDFVbUpxeHVNTHBXQjhxdWVtdTJSSk5ZQk5QMlV5bGV3UlliMVh3U3dBcDJ4VU81ZWxkdzkwVjd0elYzMUZ5Y1NOQ0FtbnZhLTZvQ3Zxd0wzWE0wNDhUeThtRTE3UU9jZUQ1X1pyQ2RjeGp4UDV1NzNHcnZkSlZXT2c?oc=5)
+
+2026-11-01
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMV9LUmh6UlVkRVlITFZMU2NNc0IzZjdkOFpUUEVtVkkwNWFjZnJQOWRZUHZmWjZoaDN0YVZhbEU0Skl5T1RDUF8ySDFVbUpxeHVNTHBXQjhxdWVtdTJSSk5ZQk5QMlV5bGV3UlliMVh3U3dBcDJ4VU81ZWxkdzkwVjd0elYzMUZ5Y1NOQ0FtbnZhLTZvQ3Zxd0wzWE0wNDhUeThtRTE3UU9jZUQ1X1pyQ2RjeGp4UDV1NzNHcnZkSlZXT2c?oc=5)
+
+---
 
 ### [Clot removal days after a stroke could help more patients recover, but the procedure is not without risks - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0ZVV3pJZmtxX0pZQWN5dmF3czFpYVNVNFNHdlg5aFFXcjA3cUVYZzU4VnRoSTdDd0thUXpIeFUwSnJOYW9hUnFnbXZNY1phbTRiNmMxN2k5dlJNU1MzbWtFQ0k3LXR1VDZTRHQ3ZzB0N2x1TkdMNGd4T2RTRVdYd0poS1UwcVk?oc=5)
 
@@ -66,6 +82,14 @@ Source: [TargatoCN](https://news.google.com/rss/articles/CBMiigJBVV95cUxPODNISUJ
 2026-11-01
 
 Source: [L'Eco di Bergamo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlFZNVppUWZtT01DWmE5ajN2ZEFoNUxERDNVZXZTQklLTWFtdkhaQXVoWkZIbzVOeTBTVHJoQnJJY3FDeEczQWNDVmZaOXJvcy11RnVPZ2FZZHJ5SU1HSG1XdzJ3eHhiT3NkNkxjYmc1azFaRzBzMDhvTmN0aVJJYWR0dmNGRXgxZHBJa21vakhHZzNoRllnOFdtVWQ4WFEtblhOYUhDcnRrZV82cHRRdGp2Z29PWE1RMElVQ1pEZk5KMTd5ZnJTcllhZFI?oc=5)
+
+---
+
+### [Herpes zoster: Erhöhtes Schlaganfallrisiko nach Virusreaktivierung - Gelbe Liste](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVjU3OF9RRlF4MkZ2MGRabk1UZXM2ZDB2XzBsWmkwUkdjbTV6NTJBNVI3T1FoQ3dod2FsalNOb0pxZnlsUHhYajNUdWxFRkdnMHEyYlNaRmdZQTN5RnFSM3RSRVlwTlpWaHppRjFPMHBjWFNGeFlCc1FKeVEzS0RfendFeF91RVdmT2l1cExaWHU0NTdpU0g2R1IzWEZORzA?oc=5)
+
+2026-11-01
+
+Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVjU3OF9RRlF4MkZ2MGRabk1UZXM2ZDB2XzBsWmkwUkdjbTV6NTJBNVI3T1FoQ3dod2FsalNOb0pxZnlsUHhYajNUdWxFRkdnMHEyYlNaRmdZQTN5RnFSM3RSRVlwTlpWaHppRjFPMHBjWFNGeFlCc1FKeVEzS0RfendFeF91RVdmT2l1cExaWHU0NTdpU0g2R1IzWEZORzA?oc=5)
 
 ---
 
@@ -141,6 +165,22 @@ Source: [lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMi_gFBV
 
 ---
 
+### [Explosion des AVC chez les jeunes, un « tabou » persistant : « On ne pense pas que ça peut être grave » - Le Parisien](https://news.google.com/rss/articles/CBMihAJBVV95cUxPNDdlcUgwLXh2RHlTU2ZZQ3hwTVNXaTNtTk15RXRZV0N5R1lpeUNBWFlXS3Y4WU9XendUVGtBb3p3YlA3NXZRdnQtc1huaEFVSDlPdG5ybW5tTVNoNmc4Si1IcGJOU2VENTdFNXhWUXFFWmtqU1lvbnVBMHZtRWY2QTZxdHpBQ05ray1pQzJyNWVfQ1VpdGNEYnFQVXlPZkVpTkgwbVZSWnVhVjVncS11RExYOVFtMTBiSm9jMnVIaTJmV1NEVDRhdVJHczFTN3FkYWpqU2V4ajJHWTQ0TUxOZGhtYnJycHNRbDliSTFDWlZCdGRDZ3U1VFNWSWhrcmNmaXdkdg?oc=5)
+
+2026-10-29
+
+Source: [Le Parisien](https://news.google.com/rss/articles/CBMihAJBVV95cUxPNDdlcUgwLXh2RHlTU2ZZQ3hwTVNXaTNtTk15RXRZV0N5R1lpeUNBWFlXS3Y4WU9XendUVGtBb3p3YlA3NXZRdnQtc1huaEFVSDlPdG5ybW5tTVNoNmc4Si1IcGJOU2VENTdFNXhWUXFFWmtqU1lvbnVBMHZtRWY2QTZxdHpBQ05ray1pQzJyNWVfQ1VpdGNEYnFQVXlPZkVpTkgwbVZSWnVhVjVncS11RExYOVFtMTBiSm9jMnVIaTJmV1NEVDRhdVJHczFTN3FkYWpqU2V4ajJHWTQ0TUxOZGhtYnJycHNRbDliSTFDWlZCdGRDZ3U1VFNWSWhrcmNmaXdkdg?oc=5)
+
+---
+
+### [Micro-ictus silenti, il rischio sale se si eccede con alimenti ultraprocessati - la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXp5VGVuZmM0ckhSUExWYnlMNEtVeDZqODRkZmVpVFBWTWJIUk1QQWNaaXc4NDJNTUQtWFBYem96UlBYZWxadGxJQU1vWDQtRHI3OW5pRkRwai13emE1UzNxT1hSdHRwbUpMWEVlQzdHYW93cTRLVk5rOVVaVlVoOS1Ka29ZRUlHeFBPMFl3SU4wWktlRFFYY1VjRjRMRmlnVmtFV0tXbXdNSTI3dGEzZmF6M2NXTXFPR1ZmVWJsb0ZVUDgtM280eFBuU2lWZ0xKdk4zRDlqbUxQRWxjMHFxTlhaV09HeXltamtrZ9IB8gFBVV95cUxOTlZGWVNNWDZYdGNhSV8zMFh4ejNRNWI4bEpVR3E5elhwZmlJVlNZNVM5NDd6REtka29rNFMyNDIyVU9HMjFYOXJ1Mmdodk5OWE95YTNfRk0zQlpudGM3RVN2ZGJqS0hqSGlhWm95cHJZYmx4ZldLUTlzNjhzNkFYOEtPOGlILUdobVRBdkFsN09Ydy0zZFUwTTJnUjVQWnlzQlI4RU5nckhUdUk2RGNrZUt4UUFCejR1SFhzWTRfVG9ZMVFvOVoyLVI2Sk9QUnVhR21lU1hLd3pKYzVZRktkYWN6SnB3cG9pRGs0U1hVZXQ0dw?oc=5)
+
+2026-10-28
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXp5VGVuZmM0ckhSUExWYnlMNEtVeDZqODRkZmVpVFBWTWJIUk1QQWNaaXc4NDJNTUQtWFBYem96UlBYZWxadGxJQU1vWDQtRHI3OW5pRkRwai13emE1UzNxT1hSdHRwbUpMWEVlQzdHYW93cTRLVk5rOVVaVlVoOS1Ka29ZRUlHeFBPMFl3SU4wWktlRFFYY1VjRjRMRmlnVmtFV0tXbXdNSTI3dGEzZmF6M2NXTXFPR1ZmVWJsb0ZVUDgtM280eFBuU2lWZ0xKdk4zRDlqbUxQRWxjMHFxTlhaV09HeXltamtrZ9IB8gFBVV95cUxOTlZGWVNNWDZYdGNhSV8zMFh4ejNRNWI4bEpVR3E5elhwZmlJVlNZNVM5NDd6REtka29rNFMyNDIyVU9HMjFYOXJ1Mmdodk5OWE95YTNfRk0zQlpudGM3RVN2ZGJqS0hqSGlhWm95cHJZYmx4ZldLUTlzNjhzNkFYOEtPOGlILUdobVRBdkFsN09Ydy0zZFUwTTJnUjVQWnlzQlI4RU5nckhUdUk2RGNrZUt4UUFCejR1SFhzWTRfVG9ZMVFvOVoyLVI2Sk9QUnVhR21lU1hLd3pKYzVZRktkYWN6SnB3cG9pRGs0U1hVZXQ0dw?oc=5)
+
+---
+
 ### [Impfungen: Mehr als Schutz vor Infektionen? – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
 
 2026-10-28
@@ -154,6 +194,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV9
 2026-10-28
 
 Source: [Demócrata](https://news.google.com/rss/articles/CBMizwFBVV95cUxQOU1WQzFFSF9falAtektaNjNHeHBZay1QQWltMm5ROUhMTHplYm9UZGFzZVROOTY0Y1d3TWVUSGk2dmdDYXpPclRXWnBDT2RfWFB2TllWZnB4Y05PdTBLOFJQdEU2VXBfeEw0WTZoQktEWXVSRE5mRTZtbkFoWGlKUUZDRmJONXJZLUtZQ0hUUWFTZWJoajBMNzloWDhPZUlfOHpLRFRSOGlMOXZlUi1QWmVpdjEzNFZyVV9YRDNxRTBFU1hkUUVIeDBKaDdCZ2vSAdQBQVVfeXFMUE4tb1dvQnJIZXNKU2JqY3lfQ0pxUEFyRVVZX2RyaUhYY1JPY1pYcTUzUkNsd09GVk4zVHE5R2l1dUhZQlV2NWRZNjVxQkJxVllfSTRWYmlVcHRUSVA3YU9ORTZTVEdpcVJyc0ZLMUtTa2drcF9BSEdkdlhNNi14YmNwdGc0UjZvZ0NrLVp5a3hMUk5aN1NqdnJDSHRSRk9zMWRmTWpWaGphOGxINHN6RnhIRUFVNmNJeVdXSjUwWEZ5NEhoVHZUS0ktekYwbVYxU0hPbXE?oc=5)
+
+---
+
+### [Un modelo internacional para el ictus isquémico busca ahorrar minutos vitales en el hospital](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFk2Z1RwMnJ2bXNJLURTYmsyLVEtc2x4WlhLWHl2Mk9iZU9LdUNSSDI5TUs4VXRFenk3eGVFVDFUSXRTcHFvVHFGdVU4TzdvUEdBUUZ6Z0RHSG5QcUNMVVduRnAzdEkyNktuOEk1QVh1REpRekdNSTFNUlFSWWtZZHNDaUhnd3BYLW80SDRwNkRoQ0NnNWtJWU9keWFqdUJiR2dzS0N0ano0WWxGOHhSRGxqRGlkYUE0WHFQVVhPNzdLcXJpYnNIdUdrd3RHS2oweWZ1UTE5UmdGX0JCdHR4YXFoTVM5Njdr?oc=5)
+
+2026-10-28
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFk2Z1RwMnJ2bXNJLURTYmsyLVEtc2x4WlhLWHl2Mk9iZU9LdUNSSDI5TUs4VXRFenk3eGVFVDFUSXRTcHFvVHFGdVU4TzdvUEdBUUZ6Z0RHSG5QcUNMVVduRnAzdEkyNktuOEk1QVh1REpRekdNSTFNUlFSWWtZZHNDaUhnd3BYLW80SDRwNkRoQ0NnNWtJWU9keWFqdUJiR2dzS0N0ano0WWxGOHhSRGxqRGlkYUE0WHFQVVhPNzdLcXJpYnNIdUdrd3RHS2oweWZ1UTE5UmdGX0JCdHR4YXFoTVM5Njdr?oc=5)
 
 ---
 

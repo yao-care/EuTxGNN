@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Brexpiprazole?">
-<strong>Brexpiprazole</strong> currently has <strong>5 news articles</strong>, with 0 predicted indications.
+<strong>Brexpiprazole</strong> currently has <strong>7 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Brexpiprazole with the lates
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (7)
 
 ### [La depresión eleva un 81% la mortalidad por cualquier causa y un 101% por enfermedad cardiovascular - Redacción médica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZE9mYlZSbmNMbEVlMVZjY0xYMllWSmtyWGsyVjlXWGZrRzB5S2hOb1ZkTGNrd2gxbTJJMEU3QXlGTHJGVmxGd0J4WnFrLUFrOHVwU2E2bTlmWl9wZlJSMFBMWW5SU0RsZ2VMZmZrc1VQcnRWN1BydTc3T1RRbTZmR0RLbnE5YmtaYUVpMzltbGYxSGpXbUFLbVlOLUlOTnpoRkpVdGJpamllUUdPVUdWOWp6UmRibXpZUnY0SjNYd201X3VtbkthSlVHX1Y3b1MwWWd6b2lnY01HRHh4XzBCRFJWNGphRVZqcW440gHwAUFVX3lxTFBsZi03STVFZ2g3bkZyQ3FMc0ptcGswS1ZFanNiUFBoc19JTFgxakVhS3RCX1luMlBiY0RBa1RILUpmdlpBNHhCR3RnWkRSLTI2LXYzX0FMYjV4aGFCR2dYQmdtRW9kRmVGYzdXTGtpVFlNMDVkRGNmVHpWZXhTc2g0MHF5Z3NpM0RLS2RBSHFZeGtTbllWRHR6VVU5cklFU3ZJdV9rR0x5M0RSVTBvN0FpdVVFdWhkQ3pJdWVjekVwR1E3am5XU0gyVlhKdUwtQk1VSXU1WklBWnhTQnRfSkxIVEY2bTkwQVlZZWJiS3p2QQ?oc=5)
 
@@ -61,6 +61,22 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxPV091TnFP
 2026-10-28 <span class="news-indication-tag">depression</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1dEeTN5QnAtTzVjbFpycWpIQXlMQzNQaFM0SHdTM0N3TEtkR25nTU9IR3ZaSWlFNkVjbVlrZzI5VEFkeTZSR29fZzJ5RjZwZTl4ZUwzc0ZQMFNodWFRN0loVXpCVVFqa09PMUI3enJIWXAxTEdqNzBsUUZnSC16b09DZw?oc=5)
+
+---
+
+### [Innere Uhr aus dem Takt: Neuer Subtyp der Depression? - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmNVbXFGR3k4Sk56d0FZd25CbHo5aW1ScGVqQVd1NHlLNi01YXdxU3VvRDkwazdMYkZLZmhYUDlvOGp4bzVwZ1Vab3RRakp5T21VTm82NWFnZ2NPUGd4QTNQX0ltTzlNaFJocG5ZdVVHNFdNeGNjS3FseVgzdVQyNWNEVE1HenRNQng0?oc=5)
+
+2026-10-28 <span class="news-indication-tag">depression</span>
+
+Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmNVbXFGR3k4Sk56d0FZd25CbHo5aW1ScGVqQVd1NHlLNi01YXdxU3VvRDkwazdMYkZLZmhYUDlvOGp4bzVwZ1Vab3RRakp5T21VTm82NWFnZ2NPUGd4QTNQX0ltTzlNaFJocG5ZdVVHNFdNeGNjS3FseVgzdVQyNWNEVE1HenRNQng0?oc=5)
+
+---
+
+### [¿Qué es el entrenamiento en compasión? Así ayuda en el tratamiento del cáncer - La Razón](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbjlYbEtXLUNxN1JldC0wdjB1Z3lCcFZvODFDVW93VDI1RVpkemNwVThNUEdtRzFXcHdzdTM2WmEya1V4V1B0alNqSi0wQWJVWjRZUXZGUlZEMFFwaWJYdXh6R081OWxJcS1nX25YdTdmX244b25PRTRPR0RtblR0bFhzLXQtTU5YSGl2MWI2Zm10TWJTYldjeThSZ2t6M2dRR2xtaHpoMkNRSjZ2MUpUVXh0bkxJUkViZGRDOTVhN1_SAdQBQVVfeXFMTWZFbHhMeEhxSUFmMGdHUDR4QVMxWFZDQm5qb3RzdndDTG5RWUFGY1ZvY1FmMzc0RHVJbVFXTFBBNXNmWEFuZXpuR21NbDI5TXVpdDZYcjhzZ1R3aE9fb19nUlVLcEJCNzVLVnJKZWxFRFZNQUZPYXRHWVpjNGVrLUV4eG82WWh5XzVHTkdxRjdXV0VuVlp0c0pSSGZEd0o3dXZ3ZUxMblBUS202d1VjeEo3Rk9iOTNKQ2NFdkd3dElYQk1vMHUyWW45MVcyVjNOYnM1Mk4?oc=5)
+
+2026-10-27 <span class="news-indication-tag">depresión</span>
+
+Source: [La Razón](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbjlYbEtXLUNxN1JldC0wdjB1Z3lCcFZvODFDVW93VDI1RVpkemNwVThNUEdtRzFXcHdzdTM2WmEya1V4V1B0alNqSi0wQWJVWjRZUXZGUlZEMFFwaWJYdXh6R081OWxJcS1nX25YdTdmX244b25PRTRPR0RtblR0bFhzLXQtTU5YSGl2MWI2Zm10TWJTYldjeThSZ2t6M2dRR2xtaHpoMkNRSjZ2MUpUVXh0bkxJUkViZGRDOTVhN1_SAdQBQVVfeXFMTWZFbHhMeEhxSUFmMGdHUDR4QVMxWFZDQm5qb3RzdndDTG5RWUFGY1ZvY1FmMzc0RHVJbVFXTFBBNXNmWEFuZXpuR21NbDI5TXVpdDZYcjhzZ1R3aE9fb19nUlVLcEJCNzVLVnJKZWxFRFZNQUZPYXRHWVpjNGVrLUV4eG82WWh5XzVHTkdxRjdXV0VuVlp0c0pSSGZEd0o3dXZ3ZUxMblBUS202d1VjeEo3Rk9iOTNKQ2NFdkd3dElYQk1vMHUyWW45MVcyVjNOYnM1Mk4?oc=5)
 
 ---
 

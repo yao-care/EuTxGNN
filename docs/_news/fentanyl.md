@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Fentanyl?">
-<strong>Fentanyl</strong> currently has <strong>4 news articles</strong>, with 2 predicted indications.
+<strong>Fentanyl</strong> currently has <strong>5 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Fentanyl with the latest hea
 <p><a href="{{ '/drugs/fentanyl/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Smartwatch-Warnungen: Über 90 Prozent Genauigkeit ersetzen keine Diagnose](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEVuN2ozR3hiUlFpTkVjMmRwanQxSk5iNGp4V2NQU2gyN2N5UTViejVsV3BTZkkzeWlObU9PcVlfeXZJUTVyQS0tanFoUFZmclhEdmZpQnlhUmhnX0dJVXZfX1hMVE9hbW5qaHlTZlpPVDJqbjJ5eE9HYVY3dTVDamJDalprUy14TEtnNllTcTQxWklYaGJYLVY0eFptOGRycjg2Z2FrblNHYjBwQnFlMlppSGlmTUlZMzhoQl9ZZw?oc=5)
+
+2026-10-31 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEVuN2ozR3hiUlFpTkVjMmRwanQxSk5iNGp4V2NQU2gyN2N5UTViejVsV3BTZkkzeWlObU9PcVlfeXZJUTVyQS0tanFoUFZmclhEdmZpQnlhUmhnX0dJVXZfX1hMVE9hbW5qaHlTZlpPVDJqbjJ5eE9HYVY3dTVDamJDalprUy14TEtnNllTcTQxWklYaGJYLVY0eFptOGRycjg2Z2FrblNHYjBwQnFlMlppSGlmTUlZMzhoQl9ZZw?oc=5)
+
+---
 
 ### [Apple Watch: Studie findet 21 Fälle von Vorhofflimmern bei 219 Trägern](https://news.google.com/rss/articles/CBMivAFBVV95cUxNek55eW9yeVNjOU5LZEd6Sm1RWFdyYnI4eWJtSE45NHk4eTNGclYxTHRpQ1Z2SGcyQWtVOGJ0MkRKb0dmUjh1dE9lbldsd2V3TnZYckxOTWktb0pmSGE3ZGdVNHN0R1M4X0R2aDZ3N0xlZC1KOGtaOEUwOTVzN2syRXh6REJ6MWxzTTBOZHpnVHFBRjY3U0VjMG83cmNPaExMYTExNUdDNHhpX3A4WWxDekFaMlNnQUJOS3J1RA?oc=5)
 

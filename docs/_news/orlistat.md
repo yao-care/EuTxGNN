@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>21 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>29 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,39 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (21)
+## Related News (29)
+
+### [GLP-1-basierte Therapien als mögliche Therapieoption bei Adipositas und resistenter Hypertonie - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNm0zNXp3X09UWF90aTR6X2NrTVU0RFMteVRTN1FORC13RnNpYXdFUWJCbkM3dVJnTC10QXJidW80cGZYWlh1WVh1RzZGRTRBSjFnQTU3bS1KZHB3Y2xqd01SbjR3dWVyVHMxeTVBOERRZnNVTmR3cVRyajJPdFZHb2wzczlNZmFmTGFpRk5wSHhObXZxZ3NWeWgySnJfMXRZclJySGo3U2FMZmNLYi1DUVh4Z3RQeWxTZW5sTUV2R3VKWG85ZkJ2aWZzeXhmZ3FFT2tBRkl1TElPaDVKZVlIRll5NEl3eDJLWTVBRi1kR1JBTWctTmc?oc=5)
+
+2026-11-02 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNm0zNXp3X09UWF90aTR6X2NrTVU0RFMteVRTN1FORC13RnNpYXdFUWJCbkM3dVJnTC10QXJidW80cGZYWlh1WVh1RzZGRTRBSjFnQTU3bS1KZHB3Y2xqd01SbjR3dWVyVHMxeTVBOERRZnNVTmR3cVRyajJPdFZHb2wzczlNZmFmTGFpRk5wSHhObXZxZ3NWeWgySnJfMXRZclJySGo3U2FMZmNLYi1DUVh4Z3RQeWxTZW5sTUV2R3VKWG85ZkJ2aWZzeXhmZ3FFT2tBRkl1TElPaDVKZVlIRll5NEl3eDJLWTVBRi1kR1JBTWctTmc?oc=5)
+
+---
+
+### [Le traitement anti-obésité Wegovy disponible dans les pharmacies de France sous forme de comprimé](https://news.google.com/rss/articles/CBMihgJBVV95cUxOOTh0UGF5ZEpRbUVaenhMS1RuUDBwY0RuZEhSaVpjOXhDVnRTVVdGbkJ0ZENRN3dtYk80VzRvYjFTT0p0YmRQenBGOEtZVmQ5aHFGWm9zVG1XUktWRHR0dHdMbVBMZlVTS0F2SUdIZHJJcDc0bS1VZ0V2SWkwSEt4RkVnV2RvRFdZMGpsUUgxNG1kcG1YdG5lVi1WcTE5QzhiUm11UGRDN3lxMVpxakp1dGc1VDNsdXBOQXJkVFBJQkNUQlRBLVJ1cjNWSjV4RGN5ZDJEUGEyLS1FMmh1Qno0WnpuVlJWTFByZ25HU3dIMlE0Tk9maHBoVEZVdFF4dFlPZ3lzQmJ3?oc=5)
+
+2026-11-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Ouest-France](https://news.google.com/rss/articles/CBMihgJBVV95cUxOOTh0UGF5ZEpRbUVaenhMS1RuUDBwY0RuZEhSaVpjOXhDVnRTVVdGbkJ0ZENRN3dtYk80VzRvYjFTT0p0YmRQenBGOEtZVmQ5aHFGWm9zVG1XUktWRHR0dHdMbVBMZlVTS0F2SUdIZHJJcDc0bS1VZ0V2SWkwSEt4RkVnV2RvRFdZMGpsUUgxNG1kcG1YdG5lVi1WcTE5QzhiUm11UGRDN3lxMVpxakp1dGc1VDNsdXBOQXJkVFBJQkNUQlRBLVJ1cjNWSjV4RGN5ZDJEUGEyLS1FMmh1Qno0WnpuVlJWTFByZ25HU3dIMlE0Tk9maHBoVEZVdFF4dFlPZ3lzQmJ3?oc=5)
+
+---
+
+### ['I'm glad my stroke happened, I wouldn't change it'](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsanN4VTFEWlp6UzR1VDdPNmNBcFoxOHJDdFJueWV6WV9rMmE2cVlVbGZOa01pOXgydjY3cUR2QWFTelBFUmRjUkFuMnkxX0YxMW15X0hkR0hEajNTM3c?oc=5)
+
+2026-11-02 <span class="news-indication-tag">stroke</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsanN4VTFEWlp6UzR1VDdPNmNBcFoxOHJDdFJueWV6WV9rMmE2cVlVbGZOa01pOXgydjY3cUR2QWFTelBFUmRjUkFuMnkxX0YxMW15X0hkR0hEajNTM3c?oc=5)
+
+---
+
+### [Testosteron bei Postmenopause: Studie zeigt erhöhtes Risiko für Herzinfarkt und Schlaganfall - it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMV9LUmh6UlVkRVlITFZMU2NNc0IzZjdkOFpUUEVtVkkwNWFjZnJQOWRZUHZmWjZoaDN0YVZhbEU0Skl5T1RDUF8ySDFVbUpxeHVNTHBXQjhxdWVtdTJSSk5ZQk5QMlV5bGV3UlliMVh3U3dBcDJ4VU81ZWxkdzkwVjd0elYzMUZ5Y1NOQ0FtbnZhLTZvQ3Zxd0wzWE0wNDhUeThtRTE3UU9jZUQ1X1pyQ2RjeGp4UDV1NzNHcnZkSlZXT2c?oc=5)
+
+2026-11-01 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMV9LUmh6UlVkRVlITFZMU2NNc0IzZjdkOFpUUEVtVkkwNWFjZnJQOWRZUHZmWjZoaDN0YVZhbEU0Skl5T1RDUF8ySDFVbUpxeHVNTHBXQjhxdWVtdTJSSk5ZQk5QMlV5bGV3UlliMVh3U3dBcDJ4VU81ZWxkdzkwVjd0elYzMUZ5Y1NOQ0FtbnZhLTZvQ3Zxd0wzWE0wNDhUeThtRTE3UU9jZUQ1X1pyQ2RjeGp4UDV1NzNHcnZkSlZXT2c?oc=5)
+
+---
 
 ### [Médicament anti-obésité : ce qu'il faut savoir sur le Wegovy en comprimé, disponible en pharmacie dès lundi - TF1 Info](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZW03eUpPdGY0Q1hsSzh4NHkzTnREelVMenN4Wl9xeDNBZFlQcndyQ19IWHlYeXJlVXZia2tubGIxbTJLc19vVkhWTmM5aVU1Nm42N1lCR09GRXRGOE5ndHF0dE5wajdJek9vcUxvTEwweDVNUUt4ZHNNdzBxR0JSSHp4eWlsOGl5djVIT0t2YzRlY25VRXhBTjhVMFBxUzVDRjdIcEF1ZWVtd29GYTVqSFZGdDdSUUZISGxjSnctbHU1bjV4TjE2YU14bGk4R29KU0JjRnVlT08zbnlqajJ3?oc=5)
 
@@ -80,6 +112,14 @@ Source: [TargatoCN](https://news.google.com/rss/articles/CBMiigJBVV95cUxPODNISUJ
 2026-11-01 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
 
 Source: [L'Eco di Bergamo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlFZNVppUWZtT01DWmE5ajN2ZEFoNUxERDNVZXZTQklLTWFtdkhaQXVoWkZIbzVOeTBTVHJoQnJJY3FDeEczQWNDVmZaOXJvcy11RnVPZ2FZZHJ5SU1HSG1XdzJ3eHhiT3NkNkxjYmc1azFaRzBzMDhvTmN0aVJJYWR0dmNGRXgxZHBJa21vakhHZzNoRllnOFdtVWQ4WFEtblhOYUhDcnRrZV82cHRRdGp2Z29PWE1RMElVQ1pEZk5KMTd5ZnJTcllhZFI?oc=5)
+
+---
+
+### [Herpes zoster: Erhöhtes Schlaganfallrisiko nach Virusreaktivierung - Gelbe Liste](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVjU3OF9RRlF4MkZ2MGRabk1UZXM2ZDB2XzBsWmkwUkdjbTV6NTJBNVI3T1FoQ3dod2FsalNOb0pxZnlsUHhYajNUdWxFRkdnMHEyYlNaRmdZQTN5RnFSM3RSRVlwTlpWaHppRjFPMHBjWFNGeFlCc1FKeVEzS0RfendFeF91RVdmT2l1cExaWHU0NTdpU0g2R1IzWEZORzA?oc=5)
+
+2026-11-01 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVjU3OF9RRlF4MkZ2MGRabk1UZXM2ZDB2XzBsWmkwUkdjbTV6NTJBNVI3T1FoQ3dod2FsalNOb0pxZnlsUHhYajNUdWxFRkdnMHEyYlNaRmdZQTN5RnFSM3RSRVlwTlpWaHppRjFPMHBjWFNGeFlCc1FKeVEzS0RfendFeF91RVdmT2l1cExaWHU0NTdpU0g2R1IzWEZORzA?oc=5)
 
 ---
 
@@ -171,11 +211,27 @@ Source: [lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMi_gFBV
 
 ---
 
+### [Explosion des AVC chez les jeunes, un « tabou » persistant : « On ne pense pas que ça peut être grave » - Le Parisien](https://news.google.com/rss/articles/CBMihAJBVV95cUxPNDdlcUgwLXh2RHlTU2ZZQ3hwTVNXaTNtTk15RXRZV0N5R1lpeUNBWFlXS3Y4WU9XendUVGtBb3p3YlA3NXZRdnQtc1huaEFVSDlPdG5ybW5tTVNoNmc4Si1IcGJOU2VENTdFNXhWUXFFWmtqU1lvbnVBMHZtRWY2QTZxdHpBQ05ray1pQzJyNWVfQ1VpdGNEYnFQVXlPZkVpTkgwbVZSWnVhVjVncS11RExYOVFtMTBiSm9jMnVIaTJmV1NEVDRhdVJHczFTN3FkYWpqU2V4ajJHWTQ0TUxOZGhtYnJycHNRbDliSTFDWlZCdGRDZ3U1VFNWSWhrcmNmaXdkdg?oc=5)
+
+2026-10-29 <span class="news-indication-tag">AVC</span>
+
+Source: [Le Parisien](https://news.google.com/rss/articles/CBMihAJBVV95cUxPNDdlcUgwLXh2RHlTU2ZZQ3hwTVNXaTNtTk15RXRZV0N5R1lpeUNBWFlXS3Y4WU9XendUVGtBb3p3YlA3NXZRdnQtc1huaEFVSDlPdG5ybW5tTVNoNmc4Si1IcGJOU2VENTdFNXhWUXFFWmtqU1lvbnVBMHZtRWY2QTZxdHpBQ05ray1pQzJyNWVfQ1VpdGNEYnFQVXlPZkVpTkgwbVZSWnVhVjVncS11RExYOVFtMTBiSm9jMnVIaTJmV1NEVDRhdVJHczFTN3FkYWpqU2V4ajJHWTQ0TUxOZGhtYnJycHNRbDliSTFDWlZCdGRDZ3U1VFNWSWhrcmNmaXdkdg?oc=5)
+
+---
+
 ### [Adipositas und Typ-1-Diabetes: Operation schlägt Medikamente bei Gewichtsverlust](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
 
 2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
+
+---
+
+### [Micro-ictus silenti, il rischio sale se si eccede con alimenti ultraprocessati - la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXp5VGVuZmM0ckhSUExWYnlMNEtVeDZqODRkZmVpVFBWTWJIUk1QQWNaaXc4NDJNTUQtWFBYem96UlBYZWxadGxJQU1vWDQtRHI3OW5pRkRwai13emE1UzNxT1hSdHRwbUpMWEVlQzdHYW93cTRLVk5rOVVaVlVoOS1Ka29ZRUlHeFBPMFl3SU4wWktlRFFYY1VjRjRMRmlnVmtFV0tXbXdNSTI3dGEzZmF6M2NXTXFPR1ZmVWJsb0ZVUDgtM280eFBuU2lWZ0xKdk4zRDlqbUxQRWxjMHFxTlhaV09HeXltamtrZ9IB8gFBVV95cUxOTlZGWVNNWDZYdGNhSV8zMFh4ejNRNWI4bEpVR3E5elhwZmlJVlNZNVM5NDd6REtka29rNFMyNDIyVU9HMjFYOXJ1Mmdodk5OWE95YTNfRk0zQlpudGM3RVN2ZGJqS0hqSGlhWm95cHJZYmx4ZldLUTlzNjhzNkFYOEtPOGlILUdobVRBdkFsN09Ydy0zZFUwTTJnUjVQWnlzQlI4RU5nckhUdUk2RGNrZUt4UUFCejR1SFhzWTRfVG9ZMVFvOVoyLVI2Sk9QUnVhR21lU1hLd3pKYzVZRktkYWN6SnB3cG9pRGs0U1hVZXQ0dw?oc=5)
+
+2026-10-28 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXp5VGVuZmM0ckhSUExWYnlMNEtVeDZqODRkZmVpVFBWTWJIUk1QQWNaaXc4NDJNTUQtWFBYem96UlBYZWxadGxJQU1vWDQtRHI3OW5pRkRwai13emE1UzNxT1hSdHRwbUpMWEVlQzdHYW93cTRLVk5rOVVaVlVoOS1Ka29ZRUlHeFBPMFl3SU4wWktlRFFYY1VjRjRMRmlnVmtFV0tXbXdNSTI3dGEzZmF6M2NXTXFPR1ZmVWJsb0ZVUDgtM280eFBuU2lWZ0xKdk4zRDlqbUxQRWxjMHFxTlhaV09HeXltamtrZ9IB8gFBVV95cUxOTlZGWVNNWDZYdGNhSV8zMFh4ejNRNWI4bEpVR3E5elhwZmlJVlNZNVM5NDd6REtka29rNFMyNDIyVU9HMjFYOXJ1Mmdodk5OWE95YTNfRk0zQlpudGM3RVN2ZGJqS0hqSGlhWm95cHJZYmx4ZldLUTlzNjhzNkFYOEtPOGlILUdobVRBdkFsN09Ydy0zZFUwTTJnUjVQWnlzQlI4RU5nckhUdUk2RGNrZUt4UUFCejR1SFhzWTRfVG9ZMVFvOVoyLVI2Sk9QUnVhR21lU1hLd3pKYzVZRktkYWN6SnB3cG9pRGs0U1hVZXQ0dw?oc=5)
 
 ---
 
@@ -192,6 +248,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV9
 2026-10-28 <span class="news-indication-tag">ictus</span>
 
 Source: [Demócrata](https://news.google.com/rss/articles/CBMizwFBVV95cUxQOU1WQzFFSF9falAtektaNjNHeHBZay1QQWltMm5ROUhMTHplYm9UZGFzZVROOTY0Y1d3TWVUSGk2dmdDYXpPclRXWnBDT2RfWFB2TllWZnB4Y05PdTBLOFJQdEU2VXBfeEw0WTZoQktEWXVSRE5mRTZtbkFoWGlKUUZDRmJONXJZLUtZQ0hUUWFTZWJoajBMNzloWDhPZUlfOHpLRFRSOGlMOXZlUi1QWmVpdjEzNFZyVV9YRDNxRTBFU1hkUUVIeDBKaDdCZ2vSAdQBQVVfeXFMUE4tb1dvQnJIZXNKU2JqY3lfQ0pxUEFyRVVZX2RyaUhYY1JPY1pYcTUzUkNsd09GVk4zVHE5R2l1dUhZQlV2NWRZNjVxQkJxVllfSTRWYmlVcHRUSVA3YU9ORTZTVEdpcVJyc0ZLMUtTa2drcF9BSEdkdlhNNi14YmNwdGc0UjZvZ0NrLVp5a3hMUk5aN1NqdnJDSHRSRk9zMWRmTWpWaGphOGxINHN6RnhIRUFVNmNJeVdXSjUwWEZ5NEhoVHZUS0ktekYwbVYxU0hPbXE?oc=5)
+
+---
+
+### [Un modelo internacional para el ictus isquémico busca ahorrar minutos vitales en el hospital](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFk2Z1RwMnJ2bXNJLURTYmsyLVEtc2x4WlhLWHl2Mk9iZU9LdUNSSDI5TUs4VXRFenk3eGVFVDFUSXRTcHFvVHFGdVU4TzdvUEdBUUZ6Z0RHSG5QcUNMVVduRnAzdEkyNktuOEk1QVh1REpRekdNSTFNUlFSWWtZZHNDaUhnd3BYLW80SDRwNkRoQ0NnNWtJWU9keWFqdUJiR2dzS0N0ano0WWxGOHhSRGxqRGlkYUE0WHFQVVhPNzdLcXJpYnNIdUdrd3RHS2oweWZ1UTE5UmdGX0JCdHR4YXFoTVM5Njdr?oc=5)
+
+2026-10-28 <span class="news-indication-tag">ictus</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFk2Z1RwMnJ2bXNJLURTYmsyLVEtc2x4WlhLWHl2Mk9iZU9LdUNSSDI5TUs4VXRFenk3eGVFVDFUSXRTcHFvVHFGdVU4TzdvUEdBUUZ6Z0RHSG5QcUNMVVduRnAzdEkyNktuOEk1QVh1REpRekdNSTFNUlFSWWtZZHNDaUhnd3BYLW80SDRwNkRoQ0NnNWtJWU9keWFqdUJiR2dzS0N0ano0WWxGOHhSRGxqRGlkYUE0WHFQVVhPNzdLcXJpYnNIdUdrd3RHS2oweWZ1UTE5UmdGX0JCdHR4YXFoTVM5Njdr?oc=5)
 
 ---
 

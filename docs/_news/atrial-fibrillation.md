@@ -3,7 +3,7 @@ layout: default
 title: "Vorhofflimmern (atrial fibrillation) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Vorhofflimmern (atrial fibrillation). 2 articles, 39 related drugs."
+description: "Health news about Vorhofflimmern (atrial fibrillation). 3 articles, 39 related drugs."
 permalink: /news/atrial-fibrillation/
 last_modified_at: 2026-11-02
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Vorhofflimmern (atrial fibrillation)?">
-<strong>Vorhofflimmern (atrial fibrillation)</strong> currently has <strong>2 news articles</strong> and 39 related drugs.
+<strong>Vorhofflimmern (atrial fibrillation)</strong> currently has <strong>3 news articles</strong> and 39 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,15 @@ This page brings together the latest health news about “Vorhofflimmern” and 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Smartwatch-Warnungen: Über 90 Prozent Genauigkeit ersetzen keine Diagnose](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEVuN2ozR3hiUlFpTkVjMmRwanQxSk5iNGp4V2NQU2gyN2N5UTViejVsV3BTZkkzeWlObU9PcVlfeXZJUTVyQS0tanFoUFZmclhEdmZpQnlhUmhnX0dJVXZfX1hMVE9hbW5qaHlTZlpPVDJqbjJ5eE9HYVY3dTVDamJDalprUy14TEtnNllTcTQxWklYaGJYLVY0eFptOGRycjg2Z2FrblNHYjBwQnFlMlppSGlmTUlZMzhoQl9ZZw?oc=5)
+
+2026-10-31
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEVuN2ozR3hiUlFpTkVjMmRwanQxSk5iNGp4V2NQU2gyN2N5UTViejVsV3BTZkkzeWlObU9PcVlfeXZJUTVyQS0tanFoUFZmclhEdmZpQnlhUmhnX0dJVXZfX1hMVE9hbW5qaHlTZlpPVDJqbjJ5eE9HYVY3dTVDamJDalprUy14TEtnNllTcTQxWklYaGJYLVY0eFptOGRycjg2Z2FrblNHYjBwQnFlMlppSGlmTUlZMzhoQl9ZZw?oc=5)
+
+---
 
 ### [Apple Watch: Studie findet 21 Fälle von Vorhofflimmern bei 219 Trägern](https://news.google.com/rss/articles/CBMivAFBVV95cUxNek55eW9yeVNjOU5LZEd6Sm1RWFdyYnI4eWJtSE45NHk4eTNGclYxTHRpQ1Z2SGcyQWtVOGJ0MkRKb0dmUjh1dE9lbldsd2V3TnZYckxOTWktb0pmSGE3ZGdVNHN0R1M4X0R2aDZ3N0xlZC1KOGtaOEUwOTVzN2syRXh6REJ6MWxzTTBOZHpnVHFBRjY3U0VjMG83cmNPaExMYTExNUdDNHhpX3A4WWxDekFaMlNnQUJOS3J1RA?oc=5)
 

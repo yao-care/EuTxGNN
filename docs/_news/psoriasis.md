@@ -3,9 +3,9 @@ layout: default
 title: "soriasi (psoriasis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about soriasi (psoriasis). 3 articles, 11 related drugs."
+description: "Health news about soriasi (psoriasis). 4 articles, 11 related drugs."
 permalink: /news/psoriasis/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # soriasi (psoriasis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about soriasi (psoriasis)?">
-<strong>soriasi (psoriasis)</strong> currently has <strong>3 news articles</strong> and 11 related drugs.
+<strong>soriasi (psoriasis)</strong> currently has <strong>4 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ This page brings together the latest health news about “soriasi” and lists t
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [Artritis psoriásica: más allá de la piel - Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
 
@@ -58,6 +58,14 @@ Source: [Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EbT
 2026-10-30
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN25YSDZNRzZBOTJXLVhFdl9YclhrQTVBbnp5aUtmcjc1b3NENlFXYjhGUXlsM1lwb2lkS29tZmdEZ3FIaTBaQWxMQ3c2UVJKbDV0WDRDeUkzVEZkLThsbnBUNVNCNlBIeTVSakViMnl2Uk5QLXpGVFl5ZUhjdWw2V25zSU5idU1pSkZJUGJhRW9SNkphUFdrWmFsMlg1UFRyWE9aWTZRVDFTUDZ5eFJqWnFIT2FyeGhmMFlWN3F1YzNOYkdWY3JIZkdwSkE3eUJUSGZmNTRBZVFqeUxCVmhvOUJEZG55R0V5alRZZE5n?oc=5)
+
+---
+
+### [Deutscher Psoriasis-Tag 2026 in Erlangen: Was die Forschung für den Alltag mit Schuppenflechte bringt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUZVdGExczNSNV9hUWx4MHcwd0tPTUEyaUVlajZac0NjOEMxU3FYenhjWVFWN2gyem5Pa1NmQTAyODZnMU5qVU9PenBiNFNvSG1vUnRNWGlSSUtXUTNPbGFlZjBsLVRuLXdKU29rQThUekxKbjZGUkF0VWVST3NldjgwNldzaC1ZZk9FTWkzU1prN3lCbVlFeFQzcTFuNDQwSjA0ay1uZGlpRVZsT0QxM25NdEVsY0dhREpsVlJxUVc5YzFldkFMeFlDX2g2azRlSUV2NUZCeHRxVjE3c0RDaE1mNWpHTVFCSzdhS05B?oc=5)
+
+2026-10-26
+
+Source: [Psoriasis-Netz](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUZVdGExczNSNV9hUWx4MHcwd0tPTUEyaUVlajZac0NjOEMxU3FYenhjWVFWN2gyem5Pa1NmQTAyODZnMU5qVU9PenBiNFNvSG1vUnRNWGlSSUtXUTNPbGFlZjBsLVRuLXdKU29rQThUekxKbjZGUkF0VWVST3NldjgwNldzaC1ZZk9FTWkzU1prN3lCbVlFeFQzcTFuNDQwSjA0ay1uZGlpRVZsT0QxM25NdEVsY0dhREpsVlJxUVc5YzFldkFMeFlDX2g2azRlSUV2NUZCeHRxVjE3c0RDaE1mNWpHTVFCSzdhS05B?oc=5)
 
 ---
 

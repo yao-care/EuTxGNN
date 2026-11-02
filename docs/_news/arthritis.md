@@ -3,9 +3,9 @@ layout: default
 title: "artritis (arthritis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about artritis (arthritis). 3 articles, 73 related drugs."
+description: "Health news about artritis (arthritis). 4 articles, 73 related drugs."
 permalink: /news/arthritis/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # artritis (arthritis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about artritis (arthritis)?">
-<strong>artritis (arthritis)</strong> currently has <strong>3 news articles</strong> and 73 related drugs.
+<strong>artritis (arthritis)</strong> currently has <strong>4 news articles</strong> and 73 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -79,7 +79,7 @@ This page brings together the latest health news about “artritis” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [Artritis psoriásica: más allá de la piel - Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
 
@@ -102,6 +102,14 @@ Source: [Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EbT
 2026-10-28
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
+
+---
+
+### [Deutscher Psoriasis-Tag 2026 in Erlangen: Was die Forschung für den Alltag mit Schuppenflechte bringt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUZVdGExczNSNV9hUWx4MHcwd0tPTUEyaUVlajZac0NjOEMxU3FYenhjWVFWN2gyem5Pa1NmQTAyODZnMU5qVU9PenBiNFNvSG1vUnRNWGlSSUtXUTNPbGFlZjBsLVRuLXdKU29rQThUekxKbjZGUkF0VWVST3NldjgwNldzaC1ZZk9FTWkzU1prN3lCbVlFeFQzcTFuNDQwSjA0ay1uZGlpRVZsT0QxM25NdEVsY0dhREpsVlJxUVc5YzFldkFMeFlDX2g2azRlSUV2NUZCeHRxVjE3c0RDaE1mNWpHTVFCSzdhS05B?oc=5)
+
+2026-10-26
+
+Source: [Psoriasis-Netz](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUZVdGExczNSNV9hUWx4MHcwd0tPTUEyaUVlajZac0NjOEMxU3FYenhjWVFWN2gyem5Pa1NmQTAyODZnMU5qVU9PenBiNFNvSG1vUnRNWGlSSUtXUTNPbGFlZjBsLVRuLXdKU29rQThUekxKbjZGUkF0VWVST3NldjgwNldzaC1ZZk9FTWkzU1prN3lCbVlFeFQzcTFuNDQwSjA0ay1uZGlpRVZsT0QxM25NdEVsY0dhREpsVlJxUVc5YzFldkFMeFlDX2g2azRlSUV2NUZCeHRxVjE3c0RDaE1mNWpHTVFCSzdhS05B?oc=5)
 
 ---
 

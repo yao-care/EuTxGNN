@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>5 news articles</strong>, with 0 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>7 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (7)
+
+### [GLP-1-basierte Therapien als mögliche Therapieoption bei Adipositas und resistenter Hypertonie - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNm0zNXp3X09UWF90aTR6X2NrTVU0RFMteVRTN1FORC13RnNpYXdFUWJCbkM3dVJnTC10QXJidW80cGZYWlh1WVh1RzZGRTRBSjFnQTU3bS1KZHB3Y2xqd01SbjR3dWVyVHMxeTVBOERRZnNVTmR3cVRyajJPdFZHb2wzczlNZmFmTGFpRk5wSHhObXZxZ3NWeWgySnJfMXRZclJySGo3U2FMZmNLYi1DUVh4Z3RQeWxTZW5sTUV2R3VKWG85ZkJ2aWZzeXhmZ3FFT2tBRkl1TElPaDVKZVlIRll5NEl3eDJLWTVBRi1kR1JBTWctTmc?oc=5)
+
+2026-11-02 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNm0zNXp3X09UWF90aTR6X2NrTVU0RFMteVRTN1FORC13RnNpYXdFUWJCbkM3dVJnTC10QXJidW80cGZYWlh1WVh1RzZGRTRBSjFnQTU3bS1KZHB3Y2xqd01SbjR3dWVyVHMxeTVBOERRZnNVTmR3cVRyajJPdFZHb2wzczlNZmFmTGFpRk5wSHhObXZxZ3NWeWgySnJfMXRZclJySGo3U2FMZmNLYi1DUVh4Z3RQeWxTZW5sTUV2R3VKWG85ZkJ2aWZzeXhmZ3FFT2tBRkl1TElPaDVKZVlIRll5NEl3eDJLWTVBRi1kR1JBTWctTmc?oc=5)
+
+---
+
+### [Le traitement anti-obésité Wegovy disponible dans les pharmacies de France sous forme de comprimé](https://news.google.com/rss/articles/CBMihgJBVV95cUxOOTh0UGF5ZEpRbUVaenhMS1RuUDBwY0RuZEhSaVpjOXhDVnRTVVdGbkJ0ZENRN3dtYk80VzRvYjFTT0p0YmRQenBGOEtZVmQ5aHFGWm9zVG1XUktWRHR0dHdMbVBMZlVTS0F2SUdIZHJJcDc0bS1VZ0V2SWkwSEt4RkVnV2RvRFdZMGpsUUgxNG1kcG1YdG5lVi1WcTE5QzhiUm11UGRDN3lxMVpxakp1dGc1VDNsdXBOQXJkVFBJQkNUQlRBLVJ1cjNWSjV4RGN5ZDJEUGEyLS1FMmh1Qno0WnpuVlJWTFByZ25HU3dIMlE0Tk9maHBoVEZVdFF4dFlPZ3lzQmJ3?oc=5)
+
+2026-11-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Ouest-France](https://news.google.com/rss/articles/CBMihgJBVV95cUxOOTh0UGF5ZEpRbUVaenhMS1RuUDBwY0RuZEhSaVpjOXhDVnRTVVdGbkJ0ZENRN3dtYk80VzRvYjFTT0p0YmRQenBGOEtZVmQ5aHFGWm9zVG1XUktWRHR0dHdMbVBMZlVTS0F2SUdIZHJJcDc0bS1VZ0V2SWkwSEt4RkVnV2RvRFdZMGpsUUgxNG1kcG1YdG5lVi1WcTE5QzhiUm11UGRDN3lxMVpxakp1dGc1VDNsdXBOQXJkVFBJQkNUQlRBLVJ1cjNWSjV4RGN5ZDJEUGEyLS1FMmh1Qno0WnpuVlJWTFByZ25HU3dIMlE0Tk9maHBoVEZVdFF4dFlPZ3lzQmJ3?oc=5)
+
+---
 
 ### [Médicament anti-obésité : ce qu'il faut savoir sur le Wegovy en comprimé, disponible en pharmacie dès lundi - TF1 Info](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZW03eUpPdGY0Q1hsSzh4NHkzTnREelVMenN4Wl9xeDNBZFlQcndyQ19IWHlYeXJlVXZia2tubGIxbTJLc19vVkhWTmM5aVU1Nm42N1lCR09GRXRGOE5ndHF0dE5wajdJek9vcUxvTEwweDVNUUt4ZHNNdzBxR0JSSHp4eWlsOGl5djVIT0t2YzRlY25VRXhBTjhVMFBxUzVDRjdIcEF1ZWVtd29GYTVqSFZGdDdSUUZISGxjSnctbHU1bjV4TjE2YU14bGk4R29KU0JjRnVlT08zbnlqajJ3?oc=5)
 

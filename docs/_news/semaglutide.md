@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>4 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>6 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (4)
+## Related News (6)
+
+### [Le traitement anti-obésité Wegovy disponible dans les pharmacies de France sous forme de comprimé](https://news.google.com/rss/articles/CBMihgJBVV95cUxOOTh0UGF5ZEpRbUVaenhMS1RuUDBwY0RuZEhSaVpjOXhDVnRTVVdGbkJ0ZENRN3dtYk80VzRvYjFTT0p0YmRQenBGOEtZVmQ5aHFGWm9zVG1XUktWRHR0dHdMbVBMZlVTS0F2SUdIZHJJcDc0bS1VZ0V2SWkwSEt4RkVnV2RvRFdZMGpsUUgxNG1kcG1YdG5lVi1WcTE5QzhiUm11UGRDN3lxMVpxakp1dGc1VDNsdXBOQXJkVFBJQkNUQlRBLVJ1cjNWSjV4RGN5ZDJEUGEyLS1FMmh1Qno0WnpuVlJWTFByZ25HU3dIMlE0Tk9maHBoVEZVdFF4dFlPZ3lzQmJ3?oc=5)
+
+2026-11-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Ouest-France](https://news.google.com/rss/articles/CBMihgJBVV95cUxOOTh0UGF5ZEpRbUVaenhMS1RuUDBwY0RuZEhSaVpjOXhDVnRTVVdGbkJ0ZENRN3dtYk80VzRvYjFTT0p0YmRQenBGOEtZVmQ5aHFGWm9zVG1XUktWRHR0dHdMbVBMZlVTS0F2SUdIZHJJcDc0bS1VZ0V2SWkwSEt4RkVnV2RvRFdZMGpsUUgxNG1kcG1YdG5lVi1WcTE5QzhiUm11UGRDN3lxMVpxakp1dGc1VDNsdXBOQXJkVFBJQkNUQlRBLVJ1cjNWSjV4RGN5ZDJEUGEyLS1FMmh1Qno0WnpuVlJWTFByZ25HU3dIMlE0Tk9maHBoVEZVdFF4dFlPZ3lzQmJ3?oc=5)
+
+---
+
+### [I lost 10st on Mounjaro but made a mistake in the first eight months - now experts warn of the common GLP-1 trap - The Sun](https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMkwxYlZYQkEyWUNMQ2JtaEZXSk5KbENGMkJlY3phUzB5RkZOZUhzcllvOUppeEhJMlp6V2hiR2dBTHVCMFJZcnZ4WllkY2pQTVpNMTUtT0ItQkdmUE4xTm9IRUw2WnhPX2dNS01tWVRxSHFKVXc?oc=5)
+
+2026-11-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMkwxYlZYQkEyWUNMQ2JtaEZXSk5KbENGMkJlY3phUzB5RkZOZUhzcllvOUppeEhJMlp6V2hiR2dBTHVCMFJZcnZ4WllkY2pQTVpNMTUtT0ItQkdmUE4xTm9IRUw2WnhPX2dNS01tWVRxSHFKVXc?oc=5)
+
+---
 
 ### [Médicament anti-obésité : ce qu'il faut savoir sur le Wegovy en comprimé, disponible en pharmacie dès lundi - TF1 Info](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZW03eUpPdGY0Q1hsSzh4NHkzTnREelVMenN4Wl9xeDNBZFlQcndyQ19IWHlYeXJlVXZia2tubGIxbTJLc19vVkhWTmM5aVU1Nm42N1lCR09GRXRGOE5ndHF0dE5wajdJek9vcUxvTEwweDVNUUt4ZHNNdzBxR0JSSHp4eWlsOGl5djVIT0t2YzRlY25VRXhBTjhVMFBxUzVDRjdIcEF1ZWVtd29GYTVqSFZGdDdSUUZISGxjSnctbHU1bjV4TjE2YU14bGk4R29KU0JjRnVlT08zbnlqajJ3?oc=5)
 

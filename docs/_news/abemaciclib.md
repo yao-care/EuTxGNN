@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>7 news articles</strong>, with 0 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>10 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (10)
+
+### [¿Riesgos del embarazo en las miocardiopatías?](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZmxXdllwSm54V1JBUzBWbS1fNmNfTmlPYkNFcWpxY0tMZUxOZmxYRDlnUzVWVEQ0WndldzlvaHhiMkh3Rm5CLWxfNWIzVFpWOUttLWtVMURiY1dnUE1RdTlvQmp0OWRzTWZaa0xySzFRWVFGRGxKT3NTdTlaUHl5VlFpNG00aXFMSHlYUVF3Z2pmUnJoZVhIemplSW1EVFVpRXBZTUdvZjAzRUo3a2xDYWs0b2tGRWlUa1lHRFlXOUdweTRzQnJLQUYyd1FNWnNvWE1URk80clJPd2R6ZzhfSzdBTQ?oc=5)
+
+2026-11-02 <span class="news-indication-tag">cardiopatía</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZmxXdllwSm54V1JBUzBWbS1fNmNfTmlPYkNFcWpxY0tMZUxOZmxYRDlnUzVWVEQ0WndldzlvaHhiMkh3Rm5CLWxfNWIzVFpWOUttLWtVMURiY1dnUE1RdTlvQmp0OWRzTWZaa0xySzFRWVFGRGxKT3NTdTlaUHl5VlFpNG00aXFMSHlYUVF3Z2pmUnJoZVhIemplSW1EVFVpRXBZTUdvZjAzRUo3a2xDYWs0b2tGRWlUa1lHRFlXOUdweTRzQnJLQUYyd1FNWnNvWE1URk80clJPd2R6ZzhfSzdBTQ?oc=5)
+
+---
+
+### [I'm a GP – here are three ways to reduce your risk of deadly coronary heart disease - Daily Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTgwMWNxUDZpX2ppM21IY3ZFMDRCQklMRS1DQWZyckVfbktVaV9mY1J6dERSSV92LTJ6aTNfVmxPNExmTGswSmpEWXVoSElQckNUM2hGRkNfMXlTWGF3Q0xlMkZyQ1dUaDVDZm9yZ0lmWnd6YnZCNWtoTDNCUV90ZjEyTGl1LW5LcnRtc2t4azNRTEdRc1BHN1kxTdIBoAFBVV95cUxOYi1zbjJSLTVTMGdGbGhFSnU3ZklzWTVRN0diWEQ0VTIwejNuTXNNQkRPU3EzNXR6eTNRUkRDN090RDl4N1NkcHd1UE8zZGtseEZ6SjhuYU8wVGQ5TnFnb1E2YVBQT2tmcWtfUWpmYktCYWc3ZkcwWmtXdktldzFEcEQ0Y3VYNXBzLWo4dHFubTJ1MGlvdDEyUk1zVGNVT3Rk?oc=5)
+
+2026-11-02 <span class="news-indication-tag">heart disease</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTgwMWNxUDZpX2ppM21IY3ZFMDRCQklMRS1DQWZyckVfbktVaV9mY1J6dERSSV92LTJ6aTNfVmxPNExmTGswSmpEWXVoSElQckNUM2hGRkNfMXlTWGF3Q0xlMkZyQ1dUaDVDZm9yZ0lmWnd6YnZCNWtoTDNCUV90ZjEyTGl1LW5LcnRtc2t4azNRTEdRc1BHN1kxTdIBoAFBVV95cUxOYi1zbjJSLTVTMGdGbGhFSnU3ZklzWTVRN0diWEQ0VTIwejNuTXNNQkRPU3EzNXR6eTNRUkRDN090RDl4N1NkcHd1UE8zZGtseEZ6SjhuYU8wVGQ5TnFnb1E2YVBQT2tmcWtfUWpmYktCYWc3ZkcwWmtXdktldzFEcEQ0Y3VYNXBzLWo4dHFubTJ1MGlvdDEyUk1zVGNVT3Rk?oc=5)
+
+---
 
 ### [Artritis psoriásica: más allá de la piel - Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
 
@@ -85,6 +101,14 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2J
 2026-10-28 <span class="news-indication-tag">heart disease</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
+
+---
+
+### [Deutscher Psoriasis-Tag 2026 in Erlangen: Was die Forschung für den Alltag mit Schuppenflechte bringt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUZVdGExczNSNV9hUWx4MHcwd0tPTUEyaUVlajZac0NjOEMxU3FYenhjWVFWN2gyem5Pa1NmQTAyODZnMU5qVU9PenBiNFNvSG1vUnRNWGlSSUtXUTNPbGFlZjBsLVRuLXdKU29rQThUekxKbjZGUkF0VWVST3NldjgwNldzaC1ZZk9FTWkzU1prN3lCbVlFeFQzcTFuNDQwSjA0ay1uZGlpRVZsT0QxM25NdEVsY0dhREpsVlJxUVc5YzFldkFMeFlDX2g2azRlSUV2NUZCeHRxVjE3c0RDaE1mNWpHTVFCSzdhS05B?oc=5)
+
+2026-10-26 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Psoriasis-Netz](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUZVdGExczNSNV9hUWx4MHcwd0tPTUEyaUVlajZac0NjOEMxU3FYenhjWVFWN2gyem5Pa1NmQTAyODZnMU5qVU9PenBiNFNvSG1vUnRNWGlSSUtXUTNPbGFlZjBsLVRuLXdKU29rQThUekxKbjZGUkF0VWVST3NldjgwNldzaC1ZZk9FTWkzU1prN3lCbVlFeFQzcTFuNDQwSjA0ay1uZGlpRVZsT0QxM25NdEVsY0dhREpsVlJxUVc5YzFldkFMeFlDX2g2azRlSUV2NUZCeHRxVjE3c0RDaE1mNWpHTVFCSzdhS05B?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Sacubitril?">
-<strong>Sacubitril</strong> currently has <strong>17 news articles</strong>, with 5 predicted indications.
+<strong>Sacubitril</strong> currently has <strong>23 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,23 @@ This page combines the AI-predicted indications for Sacubitril with the latest h
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (23)
+
+### [Typ-2-Diabetes: Lebensstilprogramm führte bei jedem Zweiten zur Remission](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDBUZHZmcE84T3JsT0J5Ri1wcDE0c18tN1k1UnZ3T3hrZ3dfVEtvd1NJUkFlaUUtbGVsYnUwS3o2a3daZF9mTFNBMlBlRlI5V2lIZ21TU29kS21WcWZvbmtxUGw0bHlGUFRMTEtYUlhRT1pHTEFtSmhWMl9kbGdpT3FkZW83UXN3UkdLUlUybDN6OEZEY1dOMW5EUjk4eG5ZTGxzLVVNOWtmcld1MWc?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDBUZHZmcE84T3JsT0J5Ri1wcDE0c18tN1k1UnZ3T3hrZ3dfVEtvd1NJUkFlaUUtbGVsYnUwS3o2a3daZF9mTFNBMlBlRlI5V2lIZ21TU29kS21WcWZvbmtxUGw0bHlGUFRMTEtYUlhRT1pHTEFtSmhWMl9kbGdpT3FkZW83UXN3UkdLUlUybDN6OEZEY1dOMW5EUjk4eG5ZTGxzLVVNOWtmcld1MWc?oc=5)
+
+---
+
+### [Fettleber und Bewegung: Aktive Patienten haben 59 Prozent weniger Sterberisiko](https://news.google.com/rss/articles/CBMixAFBVV95cUxOamlKZTFFakFXUGNUQ28tUWwzRWZSNEpHRTJUNmVnQnVNbU1JSVNXNkpZZF9CaUFzdmdJbmRjQzUyM2dkS1ZmNUxwd05zUVpiRHE5dDJNTkZrT3BRSk9aS1VVY09PTGxRNnpIYWtPOXRkaTVGZVFGUHdUMDV3N1BFaXpjejdPRFFSUkdfMW9XZUI1UzEzbnlVWGVoNVhLSmZramc3cFRfOHZuXzVnRGxEN0drS1FyUzE5SW1VRUI3YjhSQWJL?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxOamlKZTFFakFXUGNUQ28tUWwzRWZSNEpHRTJUNmVnQnVNbU1JSVNXNkpZZF9CaUFzdmdJbmRjQzUyM2dkS1ZmNUxwd05zUVpiRHE5dDJNTkZrT3BRSk9aS1VVY09PTGxRNnpIYWtPOXRkaTVGZVFGUHdUMDV3N1BFaXpjejdPRFFSUkdfMW9XZUI1UzEzbnlVWGVoNVhLSmZramc3cFRfOHZuXzVnRGxEN0drS1FyUzE5SW1VRUI3YjhSQWJL?oc=5)
+
+---
 
 ### [Sed, hambre y cansancio: señales de alerta para detectar la diabetes - La Región](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOWJ6djBvalUweExFZmdnLXVXT0JRSXFZZGROcE1YVlMwem45YmVuQWRRQVJyV0FKVmpabk5IY3lPOXVkZmpRVVJPSzNYSURlNDhrS2dUTlVKS3BaenJZUDdGUlZubzJXVHhJVVZ2M1JpaTdNcHZRT3JZZndxLW1Nd0dFV29ZREY3a1BpQ0kwWDFyUDg?oc=5)
 
@@ -103,6 +119,22 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcX
 
 ---
 
+### [Type 2 diabetes breakthrough as 54% achieve remission in just 6 months - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFAtUWlYZGRHWW5LY2g5Nk1uLV9OVmN5MU9MbWJZMTE4UlJIQi1SQkYtcDlWa3g2YTFsN3JSRjZYb2c0QjJscEtXUUFOR2RfS3kwVnBUREw4bVhXbkN5RWJHZlFmNlpzeHVBaWNvZWIzTQ?oc=5)
+
+2026-10-30 <span class="news-indication-tag">diabetes</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFAtUWlYZGRHWW5LY2g5Nk1uLV9OVmN5MU9MbWJZMTE4UlJIQi1SQkYtcDlWa3g2YTFsN3JSRjZYb2c0QjJscEtXUUFOR2RfS3kwVnBUREw4bVhXbkN5RWJHZlFmNlpzeHVBaWNvZWIzTQ?oc=5)
+
+---
+
+### [Mit Strom: Schweizer Forscher filtern überschüssigen Zucker aus Blut](https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1p2a3FuY0gwN3pwU0ZVS3JPbV9xTzNJYjRlTFNaTFZ2ZDdqR1FpN2M3VlZETHNwdTZnWG5mRm1hSHZxRDI3aEF6U093cE1uVmkxVVI0UjdxVG1Pd3p2WEJUbDZHbkVEaVFOaEJOOUFpSFFvcjR1MThISVdUM2RaY004RVNqenhyMUdYU2tQRmhEZC1ZY3VxUHU2djRRTkVKWi1nVFZYcERzOC1hRklOYmRmVU5tQQ?oc=5)
+
+2026-10-30 <span class="news-indication-tag">diabetes</span>
+
+Source: [TARA24](https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1p2a3FuY0gwN3pwU0ZVS3JPbV9xTzNJYjRlTFNaTFZ2ZDdqR1FpN2M3VlZETHNwdTZnWG5mRm1hSHZxRDI3aEF6U093cE1uVmkxVVI0UjdxVG1Pd3p2WEJUbDZHbkVEaVFOaEJOOUFpSFFvcjR1MThISVdUM2RaY004RVNqenhyMUdYU2tQRmhEZC1ZY3VxUHU2djRRTkVKWi1nVFZYcERzOC1hRklOYmRmVU5tQQ?oc=5)
+
+---
+
 ### [Diabetes Herbsttagung 2026: Programm und Highlights - Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQUdNUUIxc3BWaWxtc3BHSGRtSHVyZXFLTk1xcDNpaDhqVWVhU3dOY3NuNVF6akdVWlJfeGFwakE5ZEtnMmlZbVU0VnIwYWxPeFM2QVV2WFZLMWlhVUoxVlE5VWN2aXFkYXByZzl4ODRfQkRacmt4N0ZkbUQ1VTgwYTVrdmJuTVpENnZUNWFRUDhIVVZBa3dTQVhXa2lQQlp5cExOemowR04?oc=5)
 
 2026-10-29 <span class="news-indication-tag">diabetes</span>
@@ -124,6 +156,14 @@ Source: [iSanidad](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSzFUNnN3
 2026-10-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZEV013VkdyRmg1SDBnVHNZdHlaOVFSU0dPNDRQMHJhWjVBNXRRY3BiMk5ZejFZM0VpM2VhdXRzQ3ZtdGxzTlBFZXFCVkJRR2F0Z003dDdtUTZNOEMxOU9fQTc2UDNZTDlfQzJPeWREcGM5eG8xS0xTejFLblpBRTk2eTVZcmJKUlBWZmtQTDdTa2FuQmhBbE0tdm5VVmNE?oc=5)
+
+---
+
+### [Implantat baut überschüssige Glukose bei Typ-2-Diabetes ab](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbll6Y2F5VV9NNUpHRlFJSmJCVzc1eGI5QURCRkpzQWRhYnBIS3NHQWdpVzlBbW9fOWtQTEVyR0VMQlJqUzNiX3FaWmJDNlY1N1NFdFlUT3Y4UGdpM1dwUUxjZThYc08xVjJWelVybndvZzJUTTdyWEpNbFVZWm9SU2t1Y0FFR0p3VkR5SXE3b1JsZWti?oc=5)
+
+2026-10-28 <span class="news-indication-tag">diabetes</span>
+
+Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbll6Y2F5VV9NNUpHRlFJSmJCVzc1eGI5QURCRkpzQWRhYnBIS3NHQWdpVzlBbW9fOWtQTEVyR0VMQlJqUzNiX3FaWmJDNlY1N1NFdFlUT3Y4UGdpM1dwUUxjZThYc08xVjJWelVybndvZzJUTTdyWEpNbFVZWm9SU2t1Y0FFR0p3VkR5SXE3b1JsZWti?oc=5)
 
 ---
 
@@ -164,6 +204,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV9
 2026-10-27 <span class="news-indication-tag">diabetes</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxOcTlCa3MtcmhUWWdkbkxYWVRzMEprRE50VDBPLW5QcWs4QTFGV0RKbzZQdS0zUFJ3NzBqMFJjTjNmeERsc255OGVLRXJZVllYWWtLMHZraUxfU3hIOFFKaG8zamRDQWd5OHR5NFdLV2pHQUNIaTBTX1VfTFdrdzRjeVlyM3Awam94V0JyYTZ1YXlVNVVqR1E?oc=5)
+
+---
+
+### [Deutscher Psoriasis-Tag 2026 in Erlangen: Was die Forschung für den Alltag mit Schuppenflechte bringt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUZVdGExczNSNV9hUWx4MHcwd0tPTUEyaUVlajZac0NjOEMxU3FYenhjWVFWN2gyem5Pa1NmQTAyODZnMU5qVU9PenBiNFNvSG1vUnRNWGlSSUtXUTNPbGFlZjBsLVRuLXdKU29rQThUekxKbjZGUkF0VWVST3NldjgwNldzaC1ZZk9FTWkzU1prN3lCbVlFeFQzcTFuNDQwSjA0ay1uZGlpRVZsT0QxM25NdEVsY0dhREpsVlJxUVc5YzFldkFMeFlDX2g2azRlSUV2NUZCeHRxVjE3c0RDaE1mNWpHTVFCSzdhS05B?oc=5)
+
+2026-10-26 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Psoriasis-Netz](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUZVdGExczNSNV9hUWx4MHcwd0tPTUEyaUVlajZac0NjOEMxU3FYenhjWVFWN2gyem5Pa1NmQTAyODZnMU5qVU9PenBiNFNvSG1vUnRNWGlSSUtXUTNPbGFlZjBsLVRuLXdKU29rQThUekxKbjZGUkF0VWVST3NldjgwNldzaC1ZZk9FTWkzU1prN3lCbVlFeFQzcTFuNDQwSjA0ay1uZGlpRVZsT0QxM25NdEVsY0dhREpsVlJxUVc5YzFldkFMeFlDX2g2azRlSUV2NUZCeHRxVjE3c0RDaE1mNWpHTVFCSzdhS05B?oc=5)
 
 ---
 
