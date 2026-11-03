@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 422
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "Nelarabine"
 predicted_indications: ["relapsing-remitting multiple sclerosis"]
 description: "Nelarabine: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). Approved use: Nelarabine is indicated for the treatment of patients with T-cell acu…"
@@ -110,6 +110,7 @@ Nine further predictions were reviewed. All are rated **Hold**.
 
 | Predicted Indication | TxGNN Score | Evidence Level | Comment |
 |------|------|------|------|
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

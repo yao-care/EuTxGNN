@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 131
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Cariprazine: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Cariprazine, but every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for this drug. The one known use is schizophrenia, which is covered by a licence in the European Union.
 
 ## Quick overview
+
 | Item | Content |
 |------|------|
 | New predicted indications | None (all traceable model candidates are known uses) |
@@ -52,16 +53,19 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Cariprazi
 ## Known uses among the model's candidates
 
 ### Approved (supported by a licence or label)
+
 | Indication | Source |
 |------|------|
 | schizophrenia | licence in the European Union (approved indication: reagila is indicated for the treatment of schizophrenia in adult patients) |
 
 ### Related to an approved indication (same disease category)
+
 | Indication | Approved category |
 |------|------|
 | none | none |
 
 ### Relations recorded in the knowledge graph (no approval found)
+
 | Indication |
 |------|
 | none |

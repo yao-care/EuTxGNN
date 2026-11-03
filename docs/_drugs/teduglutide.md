@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 593
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Teduglutide: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 The TxGNN model's candidates for Teduglutide are all known uses. Every candidate that can be traced to a source is already a known use, so there is currently no new predicted indication. The one known use, short bowel syndrome, is covered by a licence in the European Union.
 
 ## Quick overview
+
 | Item | Content |
 |------|------|
 | New predicted indications | None (all traceable model candidates are known uses) |
@@ -52,16 +53,19 @@ The TxGNN model's candidates for Teduglutide are all known uses. Every candidate
 ## Known uses among the model's candidates
 
 ### Approved (supported by a licence or label)
+
 | Indication | Source |
 |------|------|
 | short bowel syndrome | licence in the European Union (approved indication: teduglutide viatris is indicated for the treatment of patients 4 months corrected gestational age and above with short bowel syndrome (sbs). patients should be stable following a period of intestinal adaptation after surgery) |
 
 ### Related to an approved indication (same disease category)
+
 | Indication | Approved category |
 |------|------|
 | none | none |
 
 ### Relations recorded in the knowledge graph (no approval found)
+
 | Indication |
 |------|
 | none |

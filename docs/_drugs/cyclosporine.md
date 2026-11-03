@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 162
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Cyclosporine: predicted new indication Granulomatous disease, chronic, autosomal recessive (evidence level L4). Approved use: Treatment of moderate to severe dry eye disease (keratoconjunctivitis…"
 monitor_inn: "cyclosporine"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
@@ -129,6 +129,7 @@ The prediction rests on a computational score alone. There are no clinical trial
 | Fetal erythroblastosis | 0.9937 | L5 | Only an in vitro bilirubin transport study |
 | Brachydactyly-syndactyly syndrome | 0.9931 | L5 | Prediction only |
 | Prolapse of lacrimal gland | 0.9908 | L5 | Prediction only; structural problem with loose proximity to approved eye indications |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

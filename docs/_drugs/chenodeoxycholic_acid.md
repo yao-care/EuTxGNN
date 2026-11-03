@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 145
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Chenodeoxycholic Acid: predicted new indication Homozygous familial hypercholesterolemia (evidence level L4). Approved use: Inborn errors of primary bile acid synthesis due to sterol 27-hydroxy…"
 monitor_inn: "Chenodeoxycholic acid"
 predicted_indications: ["homozygous familial hypercholesterolemia", "brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "obsolete familial combined hyperlipidemia", "obsolete hyperuricemia (disease)"]
@@ -127,6 +127,7 @@ The prediction has no clinical trials and no disease-specific literature. The me
 |---|---|---|---|---|
 | 4 | Familial combined hyperlipidemia (obsolete term) | 0.9934 | L5 | Plausible but unsupported; the disease term is obsolete. |
 | 2, 3, 5, 6, 8, 9, 10 | COL4A1-related disorders, hyperuricemia (obsolete term) | 0.9927–0.9943 | L5 | No identified mechanistic link; the scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

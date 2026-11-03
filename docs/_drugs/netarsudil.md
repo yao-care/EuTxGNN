@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 426
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Netarsudil: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 The TxGNN model's candidates for Netarsudil are all known uses, so there is currently no new predicted indication. Both traceable candidates are either an approved indication in the European Union or belong to the same disease category as one. This page lists them for reference only.
 
 ## Quick overview
+
 | Item | Content |
 |------|------|
 | New predicted indications | None (all traceable model candidates are known uses) |
@@ -52,16 +53,19 @@ The TxGNN model's candidates for Netarsudil are all known uses, so there is curr
 ## Known uses among the model's candidates
 
 ### Approved (supported by a licence or label)
+
 | Indication | Source |
 |------|------|
 | glaucoma | licence in the European Union; approved indication: reduction of elevated intraocular pressure (iop) in adult patients with primary open-angle glaucoma or ocular hypertension |
 
 ### Related to an approved indication (same disease category)
+
 | Indication | Approved category |
 |------|------|
 | primary hereditary glaucoma | glaucoma |
 
 ### Relations recorded in the knowledge graph (no approval found)
+
 | Indication |
 |------|
 | none |

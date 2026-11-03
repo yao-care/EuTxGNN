@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 34
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Alendronic Acid: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 All candidates that the TxGNN deep-learning model produced for Alendronic Acid (score ≥ 0.99) that can be traced to a source are already known uses. There is therefore currently no new predicted indication for this drug. The one known use found among the candidates is a relation recorded in the knowledge graph.
 
 ## Quick overview
+
 | Item | Content |
 |------|------|
 | New predicted indications | None (all traceable model candidates are known uses) |
@@ -52,16 +53,19 @@ All candidates that the TxGNN deep-learning model produced for Alendronic Acid (
 ## Known uses among the model's candidates
 
 ### Approved (supported by a licence or label)
+
 | Indication | Source |
 |------|------|
 | none | none |
 
 ### Related to an approved indication (same disease category)
+
 | Indication | Approved category |
 |------|------|
 | none | none |
 
 ### Relations recorded in the knowledge graph (no approval found)
+
 | Indication |
 |------|
 | bone Paget disease |

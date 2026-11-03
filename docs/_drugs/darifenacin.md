@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 173
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Darifenacin: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Darifenacin, but every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for this drug. The one known use is overactive bladder, which is covered by a licence in the European Union.
 
 ## Quick overview
+
 | Item | Content |
 |------|------|
 | New predicted indications | None (all traceable model candidates are known uses) |
@@ -52,16 +53,19 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Darifenac
 ## Known uses among the model's candidates
 
 ### Approved (supported by a licence or label)
+
 | Indication | Source |
 |------|------|
 | overactive bladder (disease) | licence in the European Union; approved indication: symptomatic treatment of urge incontinence and/or increased urinary frequency and urgency as may occur in adult patients with overactive bladder syndrome |
 
 ### Related to an approved indication (same disease category)
+
 | Indication | Approved category |
 |------|------|
 | none | none |
 
 ### Relations recorded in the knowledge graph (no approval found)
+
 | Indication |
 |------|
 | none |

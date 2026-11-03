@@ -3,7 +3,7 @@ layout: default
 title: Azacitidine
 parent: Known Uses Only (No New Predictions)
 nav_order: 77
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Azacitidine: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 The TxGNN deep-learning model has no candidate with a score of 0.99 or higher for Azacitidine, so there is currently no new predicted indication. The drug's recorded uses are listed below.
 
 ## Quick overview
+
 | Item | Content |
 |------|------|
 | Known uses recorded for this drug | 15 |
@@ -50,6 +51,7 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 ## Known uses recorded for this drug
 
 ### Approved (supported by a licence or label)
+
 | Indication | Source |
 |------|------|
 | leukemia, myeloid, acute | licence in another country |
@@ -57,11 +59,13 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 | myelodysplastic syndromes | licence in another country |
 
 ### Related to an approved indication (same disease category)
+
 | Indication | Approved category |
 |------|------|
 | none | none |
 
 ### Relations recorded in the knowledge graph (no approval found)
+
 | Indication |
 |------|
 | acute myeloblastic leukemia with maturation |

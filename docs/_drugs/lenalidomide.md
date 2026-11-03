@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 361
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Lenalidomide: predicted new indication Myeloid leukemia (evidence level L2). Approved use: Multiple myeloma (maintenance after transplant…"
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
@@ -161,6 +161,7 @@ Please refer to the SmPC for the full warnings, as label text was not available 
 | Refractory cytopenia of childhood | 0.9935 | L5 | Research Question |
 | Aregenerative anemia | 0.9932 | L5 | Research Question |
 | Severe congenital hypochromic anemia with ringed sideroblasts | 0.9928 | L5 | Hold |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
