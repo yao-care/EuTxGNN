@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Eptifibatide"
 predicted_indications: ["rheumatoid arthritis", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin d disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "hemoglobinopathy", "female breast carcinoma", "beta-thalassemia with other manifestations", "partial deletion of the short arm of chromosome 16"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Eptifibatide: predicted new indication rheumatoid arthritis (evidence level L5). Approved use: Eptifibatide Accord is intended for use with acetylsalicylic acid and…"
 ---
 
@@ -32,11 +32,6 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## Pharmacist Assessment Report
 
 </div>
-
-## Eptifibatide: GPIIb/IIIa (αIIbβ3) platelet aggregation inhibitor → rheumatoid arthritis (rheumatoid arthritis)
-{: .text-alpha }
-
-Per the rules, the page language is English, so the name appears once without parentheses. The H1 is therefore:
 
 ## Eptifibatide: GPIIb/IIIa (αIIbβ3) platelet aggregation inhibitor → rheumatoid arthritis
 {: .text-alpha }
