@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tasimelteon. 9 predicted indications."
 permalink: /news/tasimelteon/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Tasimelteon News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Tasimelteon?">
-<strong>Tasimelteon</strong> currently has <strong>7 news articles</strong>, with 9 predicted indications.
+<strong>Tasimelteon</strong> currently has <strong>8 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Depression bei Kindern: Was mehr über das spätere Risiko verrät als die Gene - smart up news](https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2FXdmZqNVd1UlFOX1VHOUFUS0dPd25YVk54c2FzdjIxSk14TEVueFFKUmVBX0hZbUh1NTFDVTFZX0ZhZVU5RnhfOWZZdmJEcFpERS1HRU5uQlBHVzd1c1NzazdYS0d4QmtBTlFHYV8tY29DTnZ0ZE5ldFQ2bk5WUVpEUXZoWWVMOFJHWFBDU3pkSFdMUG1EVWMtLXB5N3FXaEVvYzZselRudm5TcVJCb1ptVVI?oc=5)
+
+2026-11-02 <span class="news-indication-tag">depression</span>
+
+Source: [smart up news](https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2FXdmZqNVd1UlFOX1VHOUFUS0dPd25YVk54c2FzdjIxSk14TEVueFFKUmVBX0hZbUh1NTFDVTFZX0ZhZVU5RnhfOWZZdmJEcFpERS1HRU5uQlBHVzd1c1NzazdYS0d4QmtBTlFHYV8tY29DTnZ0ZE5ldFQ2bk5WUVpEUXZoWWVMOFJHWFBDU3pkSFdMUG1EVWMtLXB5N3FXaEVvYzZselRudm5TcVJCb1ptVVI?oc=5)
+
+---
 
 ### [La depresión eleva un 81% la mortalidad por cualquier causa y un 101% por enfermedad cardiovascular - Redacción médica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZE9mYlZSbmNMbEVlMVZjY0xYMllWSmtyWGsyVjlXWGZrRzB5S2hOb1ZkTGNrd2gxbTJJMEU3QXlGTHJGVmxGd0J4WnFrLUFrOHVwU2E2bTlmWl9wZlJSMFBMWW5SU0RsZ2VMZmZrc1VQcnRWN1BydTc3T1RRbTZmR0RLbnE5YmtaYUVpMzltbGYxSGpXbUFLbVlOLUlOTnpoRkpVdGJpamllUUdPVUdWOWp6UmRibXpZUnY0SjNYd201X3VtbkthSlVHX1Y3b1MwWWd6b2lnY01HRHh4XzBCRFJWNGphRVZqcW440gHwAUFVX3lxTFBsZi03STVFZ2g3bkZyQ3FMc0ptcGswS1ZFanNiUFBoc19JTFgxakVhS3RCX1luMlBiY0RBa1RILUpmdlpBNHhCR3RnWkRSLTI2LXYzX0FMYjV4aGFCR2dYQmdtRW9kRmVGYzdXTGtpVFlNMDVkRGNmVHpWZXhTc2g0MHF5Z3NpM0RLS2RBSHFZeGtTbllWRHR6VVU5cklFU3ZJdV9rR0x5M0RSVTBvN0FpdVVFdWhkQ3pJdWVjekVwR1E3am5XU0gyVlhKdUwtQk1VSXU1WklBWnhTQnRfSkxIVEY2bTkwQVlZZWJiS3p2QQ?oc=5)
 

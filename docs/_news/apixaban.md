@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Apixaban. 1 predicted indications."
 permalink: /news/apixaban/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Apixaban News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Apixaban?">
-<strong>Apixaban</strong> currently has <strong>18 news articles</strong>, with 1 predicted indications.
+<strong>Apixaban</strong> currently has <strong>20 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Apixaban with the latest hea
 <p><a href="{{ '/drugs/apixaban/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (20)
+
+### [La transición al genérico de tofacitinib preserva el control de la artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFk5TGFSVGVWUUNiU1B1SFBoVGw4UkhJbjhNY1hWYnpGQXlETGE2YjlaUnVXUE9QeGgzbmpfODhEbS1PSEYtR0RiWkNqaUpMaEh0aURENDJTZFFwRnFfQnV2ZmZReUoxRWZhOHJ3RUVXN29HbEkwSjBKNmhxNmJCWktMeFBYNF92TGQ4OHIyUmR3bkwxM0JlcjVwcEItd3F2YzBIYnE4MkRtWHMzcmRqYjZGWlprWFkxTVlCRFljb3jSAbsBQVVfeXFMTm5BT3ZtS3lac3pRN0JCRlNzdVA3YlMtSVhqTkZ5clBNSGlTTlZYWkZDblpaRlNiZ2lTeVhlZEZEbkVXUXEzaWlHb0tyZjBVY0llTGxGYXlETWtFaFQ2Mmh6b0lISTFXcXZYSmtlZXVCY3U3TzMtcmRlWjFsUGdfOFZZTVpBQXVOTVpOdzJKRzlVM2s5QXhwU3N6VzhtU2YxSGpVSkFMeDZ1NXlrNzFQMy1TZHl2UkRHN0R6cw?oc=5)
+
+2026-11-02 <span class="news-drug-tag">Tofacitinib</span> <span class="news-indication-tag">artritis</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFk5TGFSVGVWUUNiU1B1SFBoVGw4UkhJbjhNY1hWYnpGQXlETGE2YjlaUnVXUE9QeGgzbmpfODhEbS1PSEYtR0RiWkNqaUpMaEh0aURENDJTZFFwRnFfQnV2ZmZReUoxRWZhOHJ3RUVXN29HbEkwSjBKNmhxNmJCWktMeFBYNF92TGQ4OHIyUmR3bkwxM0JlcjVwcEItd3F2YzBIYnE4MkRtWHMzcmRqYjZGWlprWFkxTVlCRFljb3jSAbsBQVVfeXFMTm5BT3ZtS3lac3pRN0JCRlNzdVA3YlMtSVhqTkZ5clBNSGlTTlZYWkZDblpaRlNiZ2lTeVhlZEZEbkVXUXEzaWlHb0tyZjBVY0llTGxGYXlETWtFaFQ2Mmh6b0lISTFXcXZYSmtlZXVCY3U3TzMtcmRlWjFsUGdfOFZZTVpBQXVOTVpOdzJKRzlVM2s5QXhwU3N6VzhtU2YxSGpVSkFMeDZ1NXlrNzFQMy1TZHl2UkRHN0R6cw?oc=5)
+
+---
 
 ### [¿Riesgos del embarazo en las miocardiopatías?](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZmxXdllwSm54V1JBUzBWbS1fNmNfTmlPYkNFcWpxY0tMZUxOZmxYRDlnUzVWVEQ0WndldzlvaHhiMkh3Rm5CLWxfNWIzVFpWOUttLWtVMURiY1dnUE1RdTlvQmp0OWRzTWZaa0xySzFRWVFGRGxKT3NTdTlaUHl5VlFpNG00aXFMSHlYUVF3Z2pmUnJoZVhIemplSW1EVFVpRXBZTUdvZjAzRUo3a2xDYWs0b2tGRWlUa1lHRFlXOUdweTRzQnJLQUYyd1FNWnNvWE1URk80clJPd2R6ZzhfSzdBTQ?oc=5)
 
@@ -152,6 +160,14 @@ Source: [EatingWell](https://news.google.com/rss/articles/CBMid0FVX3lxTE52NkFySk
 2026-10-29 <span class="news-indication-tag">cardiopatía</span>
 
 Source: [Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
+
+---
+
+### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
 
 ---
 

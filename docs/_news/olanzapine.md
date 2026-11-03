@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Olanzapine. 2 predicted indications."
 permalink: /news/olanzapine/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Olanzapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>10 news articles</strong>, with 2 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>12 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (12)
+
+### [Depression bei Kindern: Was mehr über das spätere Risiko verrät als die Gene - smart up news](https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2FXdmZqNVd1UlFOX1VHOUFUS0dPd25YVk54c2FzdjIxSk14TEVueFFKUmVBX0hZbUh1NTFDVTFZX0ZhZVU5RnhfOWZZdmJEcFpERS1HRU5uQlBHVzd1c1NzazdYS0d4QmtBTlFHYV8tY29DTnZ0ZE5ldFQ2bk5WUVpEUXZoWWVMOFJHWFBDU3pkSFdMUG1EVWMtLXB5N3FXaEVvYzZselRudm5TcVJCb1ptVVI?oc=5)
+
+2026-11-02 <span class="news-indication-tag">depression</span>
+
+Source: [smart up news](https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2FXdmZqNVd1UlFOX1VHOUFUS0dPd25YVk54c2FzdjIxSk14TEVueFFKUmVBX0hZbUh1NTFDVTFZX0ZhZVU5RnhfOWZZdmJEcFpERS1HRU5uQlBHVzd1c1NzazdYS0d4QmtBTlFHYV8tY29DTnZ0ZE5ldFQ2bk5WUVpEUXZoWWVMOFJHWFBDU3pkSFdMUG1EVWMtLXB5N3FXaEVvYzZselRudm5TcVJCb1ptVVI?oc=5)
+
+---
 
 ### [La depresión eleva un 81% la mortalidad por cualquier causa y un 101% por enfermedad cardiovascular - Redacción médica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZE9mYlZSbmNMbEVlMVZjY0xYMllWSmtyWGsyVjlXWGZrRzB5S2hOb1ZkTGNrd2gxbTJJMEU3QXlGTHJGVmxGd0J4WnFrLUFrOHVwU2E2bTlmWl9wZlJSMFBMWW5SU0RsZ2VMZmZrc1VQcnRWN1BydTc3T1RRbTZmR0RLbnE5YmtaYUVpMzltbGYxSGpXbUFLbVlOLUlOTnpoRkpVdGJpamllUUdPVUdWOWp6UmRibXpZUnY0SjNYd201X3VtbkthSlVHX1Y3b1MwWWd6b2lnY01HRHh4XzBCRFJWNGphRVZqcW440gHwAUFVX3lxTFBsZi03STVFZ2g3bkZyQ3FMc0ptcGswS1ZFanNiUFBoc19JTFgxakVhS3RCX1luMlBiY0RBa1RILUpmdlpBNHhCR3RnWkRSLTI2LXYzX0FMYjV4aGFCR2dYQmdtRW9kRmVGYzdXTGtpVFlNMDVkRGNmVHpWZXhTc2g0MHF5Z3NpM0RLS2RBSHFZeGtTbllWRHR6VVU5cklFU3ZJdV9rR0x5M0RSVTBvN0FpdVVFdWhkQ3pJdWVjekVwR1E3am5XU0gyVlhKdUwtQk1VSXU1WklBWnhTQnRfSkxIVEY2bTkwQVlZZWJiS3p2QQ?oc=5)
 
@@ -105,6 +113,14 @@ Source: [Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV9
 2026-10-27 <span class="news-indication-tag">depresión</span>
 
 Source: [La Razón](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbjlYbEtXLUNxN1JldC0wdjB1Z3lCcFZvODFDVW93VDI1RVpkemNwVThNUEdtRzFXcHdzdTM2WmEya1V4V1B0alNqSi0wQWJVWjRZUXZGUlZEMFFwaWJYdXh6R081OWxJcS1nX25YdTdmX244b25PRTRPR0RtblR0bFhzLXQtTU5YSGl2MWI2Zm10TWJTYldjeThSZ2t6M2dRR2xtaHpoMkNRSjZ2MUpUVXh0bkxJUkViZGRDOTVhN1_SAdQBQVVfeXFMTWZFbHhMeEhxSUFmMGdHUDR4QVMxWFZDQm5qb3RzdndDTG5RWUFGY1ZvY1FmMzc0RHVJbVFXTFBBNXNmWEFuZXpuR21NbDI5TXVpdDZYcjhzZ1R3aE9fb19nUlVLcEJCNzVLVnJKZWxFRFZNQUZPYXRHWVpjNGVrLUV4eG82WWh5XzVHTkdxRjdXV0VuVlp0c0pSSGZEd0o3dXZ3ZUxMblBUS202d1VjeEo3Rk9iOTNKQ2NFdkd3dElYQk1vMHUyWW45MVcyVjNOYnM1Mk4?oc=5)
+
+---
+
+### [Vorhofflimmern erkennen: Was taugen Smartwatches und andere Wearables? - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaE1fRzZsdjl3WGpoWEJHQ1NVNDBqZ2x3aUhsY3M1dGllWDlpWTBGWWtaekV6ZThKT1FUT0EyeldEblZDdFluS2JNYThzNTFyZHhFZTdxaXk2cGJjRWpqLTNBSzFCX3habk5UenpNZU94b1V5eEktT2RoV3ZiNHM4c25KeWVNQ3pxd1NJdXUtUTBfT0NMdHhfcFQ4b296NVBfRGNBdy12TWNmdFkzY0o1THNqbw?oc=5)
+
+2026-10-27 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaE1fRzZsdjl3WGpoWEJHQ1NVNDBqZ2x3aUhsY3M1dGllWDlpWTBGWWtaekV6ZThKT1FUT0EyeldEblZDdFluS2JNYThzNTFyZHhFZTdxaXk2cGJjRWpqLTNBSzFCX3habk5UenpNZU94b1V5eEktT2RoV3ZiNHM4c25KeWVNQ3pxd1NJdXUtUTBfT0NMdHhfcFQ4b296NVBfRGNBdy12TWNmdFkzY0o1THNqbw?oc=5)
 
 ---
 

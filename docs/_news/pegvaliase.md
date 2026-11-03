@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Pegvaliase. 3 predicted indications."
 permalink: /news/pegvaliase/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Pegvaliase News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Pegvaliase?">
-<strong>Pegvaliase</strong> currently has <strong>19 news articles</strong>, with 3 predicted indications.
+<strong>Pegvaliase</strong> currently has <strong>24 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,23 @@ This page combines the AI-predicted indications for Pegvaliase with the latest h
 <p><a href="{{ '/drugs/pegvaliase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (24)
+
+### [Typ-2-Diabetes: ETH-Implantat senkt Mäuse-Blutzucker binnen einer Stunde](https://news.google.com/rss/articles/CBMivgFBVV95cUxPdEFhOFZfRnZCS0NQQ1d1Tlp6Vm5FMmpkbWduMzVFT29kRlFZbWgtWkp6Z1VCRDhEOElicmNWb19GNmlrR2docjlUWFI4YVhJQ3JoWl9kMHE4S1M5YXRQN3ZmNklRWldKdXQ5TF9TM2wxUEFPM2xJR2lpTDhCU1pjeEhfOU5Pazlnb29kX0hTM19LQnotNUNFWnozYWNLRjlHWUtCN093T2EzU2RVNUtJWEtGd0FXeHZ4S1IwTTJR?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPdEFhOFZfRnZCS0NQQ1d1Tlp6Vm5FMmpkbWduMzVFT29kRlFZbWgtWkp6Z1VCRDhEOElicmNWb19GNmlrR2docjlUWFI4YVhJQ3JoWl9kMHE4S1M5YXRQN3ZmNklRWldKdXQ5TF9TM2wxUEFPM2xJR2lpTDhCU1pjeEhfOU5Pazlnb29kX0hTM19LQnotNUNFWnozYWNLRjlHWUtCN093T2EzU2RVNUtJWEtGd0FXeHZ4S1IwTTJR?oc=5)
+
+---
+
+### [Giornata mondiale del Diabete, dagli screening gratuiti ai convegni: tutte le iniziative](https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2I4ZkdYR25IcUJ6bzN2eWFFUDFnRzhJVmFXWjFyTkNzR0hHZFZXX1hDLVJqai0wa2VBMVZqazJOYUk1RjhTek9UczJXdy1wb25Rdk9YUHp2am82cFI5QTBPUkdLWVNTaVlpU09WU21taE0zRWZpejlsS2k5VUhwUVVWZHZZSVJYWXNJcndMV2ZJX2xTWlFMZDQ5V25VUEtpZkczQXhoVdIBrAFBVV95cUxNYzVZelk4RE95VzV4NVR5a3ptc0FEaUdrbVlGaVdTdi11NlNlSHg4aER4TTN3dWtQbVRaSTFjd0tSd0EtcnJqN3JzYVl1aTlnNldOVlBmRHVmZzhSeVlKTVZ6d1ZvNERBWFhyVzdTTnNpNXpwX2pRU1l3eS1lZ2xscmNTd2ZmekphSUhMUml3aHY0a0pSRGIteV95Vl95Y0Vvc0NYRzZPOEg1MlBh?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabete</span>
+
+Source: [L'Arena](https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2I4ZkdYR25IcUJ6bzN2eWFFUDFnRzhJVmFXWjFyTkNzR0hHZFZXX1hDLVJqai0wa2VBMVZqazJOYUk1RjhTek9UczJXdy1wb25Rdk9YUHp2am82cFI5QTBPUkdLWVNTaVlpU09WU21taE0zRWZpejlsS2k5VUhwUVVWZHZZSVJYWXNJcndMV2ZJX2xTWlFMZDQ5V25VUEtpZkczQXhoVdIBrAFBVV95cUxNYzVZelk4RE95VzV4NVR5a3ptc0FEaUdrbVlGaVdTdi11NlNlSHg4aER4TTN3dWtQbVRaSTFjd0tSd0EtcnJqN3JzYVl1aTlnNldOVlBmRHVmZzhSeVlKTVZ6d1ZvNERBWFhyVzdTTnNpNXpwX2pRU1l3eS1lZ2xscmNTd2ZmekphSUhMUml3aHY0a0pSRGIteV95Vl95Y0Vvc0NYRzZPOEg1MlBh?oc=5)
+
+---
 
 ### [Typ-2-Diabetes: Lebensstilprogramm führte bei jedem Zweiten zur Remission](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDBUZHZmcE84T3JsT0J5Ri1wcDE0c18tN1k1UnZ3T3hrZ3dfVEtvd1NJUkFlaUUtbGVsYnUwS3o2a3daZF9mTFNBMlBlRlI5V2lIZ21TU29kS21WcWZvbmtxUGw0bHlGUFRMTEtYUlhRT1pHTEFtSmhWMl9kbGdpT3FkZW83UXN3UkdLUlUybDN6OEZEY1dOMW5EUjk4eG5ZTGxzLVVNOWtmcld1MWc?oc=5)
 
@@ -45,11 +61,27 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDBUZHZ
 
 ---
 
+### [New diabetes implant uses electricity to lower blood sugar and promote weight loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXR2RUtGWWZHUU45ODgyNF9IQm9BWlo0Q184UTlyenY5RjVVLWo2NmtKdWRkWDVCbmE5M2ZXOVZHTmN6YkFuSUtJbGc4aXItUkoxcGRmQ1lMazlWQ3RBVWlsVV9WaHp5SlcxV2tLOA?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXR2RUtGWWZHUU45ODgyNF9IQm9BWlo0Q184UTlyenY5RjVVLWo2NmtKdWRkWDVCbmE5M2ZXOVZHTmN6YkFuSUtJbGc4aXItUkoxcGRmQ1lMazlWQ3RBVWlsVV9WaHp5SlcxV2tLOA?oc=5)
+
+---
+
 ### [Fettleber und Bewegung: Aktive Patienten haben 59 Prozent weniger Sterberisiko](https://news.google.com/rss/articles/CBMixAFBVV95cUxOamlKZTFFakFXUGNUQ28tUWwzRWZSNEpHRTJUNmVnQnVNbU1JSVNXNkpZZF9CaUFzdmdJbmRjQzUyM2dkS1ZmNUxwd05zUVpiRHE5dDJNTkZrT3BRSk9aS1VVY09PTGxRNnpIYWtPOXRkaTVGZVFGUHdUMDV3N1BFaXpjejdPRFFSUkdfMW9XZUI1UzEzbnlVWGVoNVhLSmZramc3cFRfOHZuXzVnRGxEN0drS1FyUzE5SW1VRUI3YjhSQWJL?oc=5)
 
 2026-11-02 <span class="news-indication-tag">diabetes</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxOamlKZTFFakFXUGNUQ28tUWwzRWZSNEpHRTJUNmVnQnVNbU1JSVNXNkpZZF9CaUFzdmdJbmRjQzUyM2dkS1ZmNUxwd05zUVpiRHE5dDJNTkZrT3BRSk9aS1VVY09PTGxRNnpIYWtPOXRkaTVGZVFGUHdUMDV3N1BFaXpjejdPRFFSUkdfMW9XZUI1UzEzbnlVWGVoNVhLSmZramc3cFRfOHZuXzVnRGxEN0drS1FyUzE5SW1VRUI3YjhSQWJL?oc=5)
+
+---
+
+### [A partir de los 65 años, comer dos latas de sardinas a la semana puede reducir el riesgo de padecer diabetes, según un farmacéutico - El Economista](https://news.google.com/rss/articles/CBMitwJBVV95cUxQTjNBMVFyRGN3YmdleWw5NWNCc3AzZGl1MDY0emRub21wbDhIZlphVEpNVUh1cWx5SjNwazJ5aFVXdUNpNjJVdURSR2VnanV1dlM0YUJKV3ZjUXhoc1U3dnRfWHZBM1lLeFRFUExoUWx0dzBQZWRXWmJJSVVLYkJEanB4bUdZLWhMTHpBSzdfWFI1VzBGRXJhTGVldHpBRGtvd2pzOWtXbTBIeUpwU2NtOExDTmU3dHA1UVN3MjhZME9XS2Nfa2ZQY09nZW1Qc3AxeHFpVXBrbXkzeFh2VUlUcDYzeXozTVlMeDE1dTNYdWdqblRJSXYyczJqVXlnRkxkdTlNejB4bFJiNzhlM0dhblhoUlRaOE1jSzIxc2dlN2pBTUppel9udDNNTlhoZHB5RFhIeDVLRQ?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [El Economista](https://news.google.com/rss/articles/CBMitwJBVV95cUxQTjNBMVFyRGN3YmdleWw5NWNCc3AzZGl1MDY0emRub21wbDhIZlphVEpNVUh1cWx5SjNwazJ5aFVXdUNpNjJVdURSR2VnanV1dlM0YUJKV3ZjUXhoc1U3dnRfWHZBM1lLeFRFUExoUWx0dzBQZWRXWmJJSVVLYkJEanB4bUdZLWhMTHpBSzdfWFI1VzBGRXJhTGVldHpBRGtvd2pzOWtXbTBIeUpwU2NtOExDTmU3dHA1UVN3MjhZME9XS2Nfa2ZQY09nZW1Qc3AxeHFpVXBrbXkzeFh2VUlUcDYzeXozTVlMeDE1dTNYdWdqblRJSXYyczJqVXlnRkxkdTlNejB4bFJiNzhlM0dhblhoUlRaOE1jSzIxc2dlN2pBTUppel9udDNNTlhoZHB5RFhIeDVLRQ?oc=5)
 
 ---
 
@@ -98,6 +130,14 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi5AFBVV95cU
 2026-10-31 <span class="news-indication-tag">diabetes</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXpPT256YTdrOUdKWlI5QmROUmZyeWtFQ0xseGVaRjBpMzlGTTNweTlraXRta0V5UGJvcllPdjRNcFlUN0g3bjZSNGc3OWtiR1luTmp2TkpoS2JVTjdlSzl6OGFLN3l2SURHaUMyelR4VnQ4eWlURGVuRThJeEZhNEJ5eldyeWM0OERuYk5uY1o3cjQ0NjVPd0dlWG1fYXJjVlQ1MVQtQXBpQi1YTThVMExOVFNnZw?oc=5)
+
+---
+
+### [Dietitians Reveal the Dinner Formula They Recommend Most for Better Blood Sugar](https://news.google.com/rss/articles/CBMifkFVX3lxTFA3MzM0cjJPSnkwd0tXSnpGRGRXaHJLMUQ4b1JxZTl1R2h5Z29kbVp1Q2Q2MGl5RjdsTWNfRGdpUDVmZTZSX21yaVp5XzROQVpFMzJTNVBwbDVLMk9DRVE0RmtDaEZlbEtSLVNNaHJwRnVMLUZTczZLWEFSVGwtUQ?oc=5)
+
+2026-10-30 <span class="news-indication-tag">diabetes</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMifkFVX3lxTFA3MzM0cjJPSnkwd0tXSnpGRGRXaHJLMUQ4b1JxZTl1R2h5Z29kbVp1Q2Q2MGl5RjdsTWNfRGdpUDVmZTZSX21yaVp5XzROQVpFMzJTNVBwbDVLMk9DRVE0RmtDaEZlbEtSLVNNaHJwRnVMLUZTczZLWEFSVGwtUQ?oc=5)
 
 ---
 

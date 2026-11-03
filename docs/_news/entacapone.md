@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Entacapone. 10 predicted indications."
 permalink: /news/entacapone/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Entacapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [First patient undergoes pioneering stem-cell treatment for Parkinson's - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUU5iNnJ4dTk5Z3c5TGN3VXloVmtaMUJROXh1YWZSdkNYcDMwaTRIVjZrN0FsYUw0S2phakh0SFFKZHlUeDE4X3ByVUNUZG5CUHRuV0dkR3AxY2tqVUZaSG5VNXJMUFFtaExWcUNvSnNlMGxpam9PUzlqR0syX21vYXN5cjNLM2Vk?oc=5)
+
+2026-10-30 <span class="news-indication-tag">Parkinson's</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUU5iNnJ4dTk5Z3c5TGN3VXloVmtaMUJROXh1YWZSdkNYcDMwaTRIVjZrN0FsYUw0S2phakh0SFFKZHlUeDE4X3ByVUNUZG5CUHRuV0dkR3AxY2tqVUZaSG5VNXJMUFFtaExWcUNvSnNlMGxpam9PUzlqR0syX21vYXN5cjNLM2Vk?oc=5)
+
+---
 
 ### [These 1970s Kids Had to Stay in School For 1 Year Longer. Decades Later, The Results Are Dramatic.](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTZiSGNzM0pSOVZpRVlsWEt3YUpsTkFEcmVWMjlPYTNudnMwZWZ4VjBPbEgwQVVEM2dyc1czMEZndUhvWTV0ZnNEZld4SHc4dklZQlNNcDVyNTRZU0lfaWRBWEh0bHByTDFxcjdGcURvazFQQkd5Z3ZOYnUtSUZMTTE5UzZoRnFnNUdlZDYzZU1VZGlzdDlDU0djenFYSWk0MGJfN1N2SUhfckFFLVR3a3BNUWZqeXk5blFURnZWUTduZw?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Simvastatin. 5 predicted indications."
 permalink: /news/simvastatin/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Simvastatin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>22 news articles</strong>, with 5 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>28 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,31 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (22)
+## Related News (28)
+
+### [Un coagulo nel cuore può arrivare al cervello: il legame nascosto che può provocare un ictus](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS25lTHZoVTJaOFRjNXhJemM3dTBaa1BwVGwxazV2V0h3NjVUNk9PVjdzMjFoSUIxeFRBNFF2eThWcWZuandiS1VDYjU4SWZVb19zN0ZlNHlrYlpWTm40TGpYQ3dTNmNseDVUU1FhaFZWR3p2QUF3WjNjZzlkRFFWbW5BNUlLQzYwSl9nYUlEZUlKT0Q2OE1Fb2ZZR1UwbS12ZmpmYS1TaDRvLWJGQ3FIODFLN2RhTm9RenZNQWRFV19zSWxZUHdiT3V0cDZQNUVwOFhMZmQyTkVBdw?oc=5)
+
+2026-11-02 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS25lTHZoVTJaOFRjNXhJemM3dTBaa1BwVGwxazV2V0h3NjVUNk9PVjdzMjFoSUIxeFRBNFF2eThWcWZuandiS1VDYjU4SWZVb19zN0ZlNHlrYlpWTm40TGpYQ3dTNmNseDVUU1FhaFZWR3p2QUF3WjNjZzlkRFFWbW5BNUlLQzYwSl9nYUlEZUlKT0Q2OE1Fb2ZZR1UwbS12ZmpmYS1TaDRvLWJGQ3FIODFLN2RhTm9RenZNQWRFV19zSWxZUHdiT3V0cDZQNUVwOFhMZmQyTkVBdw?oc=5)
+
+---
+
+### [Zum morgigen Weltmännertag: Regelmäßig Blutdruck messen, um Schlaganfall vorzubeugen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUW9qS0Z2eXEtN01OM1E5MVhWQzYyTUJkYjBPQlZvcXhWc0dzOG1JLW1ybnJjam5DY2RaM0pHc01iTVJMQk9tOHFQQ2tuVGZLUFRWdDMxcHpLNDV5LVBUOFAtb0FLUmhoS3VDdExsb01DRG5PaGM3RTZISE9XQjZucVp5RVc0Y0ZOVngzTlZHck01dS0xbXhObUkzRFB1eGRRSFhodDNJOGJqMEJXelRnbEJ5QnR4aXNXUjB0UUJxb3I4SklqQk0yZE13?oc=5)
+
+2026-11-02 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUW9qS0Z2eXEtN01OM1E5MVhWQzYyTUJkYjBPQlZvcXhWc0dzOG1JLW1ybnJjam5DY2RaM0pHc01iTVJMQk9tOHFQQ2tuVGZLUFRWdDMxcHpLNDV5LVBUOFAtb0FLUmhoS3VDdExsb01DRG5PaGM3RTZISE9XQjZucVp5RVc0Y0ZOVngzTlZHck01dS0xbXhObUkzRFB1eGRRSFhodDNJOGJqMEJXelRnbEJ5QnR4aXNXUjB0UUJxb3I4SklqQk0yZE13?oc=5)
+
+---
+
+### [¿Cómo se recupera la vida después de un ictus? - Canal Sur](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTGVDS2dyYzJNUFdHbkVKYXNQVGF6bklEZlhEY2p1ckpYMmFLcVJ6ZE5OU3U3RHZPajZSZE1feVFxRFlwNmltSGticFhIaGIyd1ZXeHQwcmh5b1d4ZDREMEVwMk5wbUt2OGhtR1poLW1NVE1DeXhqWFZmMHc4TkZBRkgtODVYcnNFMEE?oc=5)
+
+2026-11-02 <span class="news-indication-tag">ictus</span>
+
+Source: [Canal Sur](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTGVDS2dyYzJNUFdHbkVKYXNQVGF6bklEZlhEY2p1ckpYMmFLcVJ6ZE5OU3U3RHZPajZSZE1feVFxRFlwNmltSGticFhIaGIyd1ZXeHQwcmh5b1d4ZDREMEVwMk5wbUt2OGhtR1poLW1NVE1DeXhqWFZmMHc4TkZBRkgtODVYcnNFMEE?oc=5)
+
+---
 
 ### ['I'm glad my stroke happened, I wouldn't change it'](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsanN4VTFEWlp6UzR1VDdPNmNBcFoxOHJDdFJueWV6WV9rMmE2cVlVbGZOa01pOXgydjY3cUR2QWFTelBFUmRjUkFuMnkxX0YxMW15X0hkR0hEajNTM3c?oc=5)
 
@@ -167,6 +191,14 @@ Source: [lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMi_gFBV
 
 ---
 
+### [Professeur Cordonnier, neurologue : "Un AVC peut passer inaperçu quand on dort mais 3 signes alertent au réveil" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMieEFVX3lxTFAwUU9VRjJWRG5RN2k1ck5HS1VmV2NoZUFyZUlsSnB4Wmc3YmJsMWJqN2JWZU1takxscDlmSXlOckp4TFlfX054ZW83enA2ZVBSSF9iM3lWR0JWdG5yd1BFdXZnVnd4OEJ6VTlzeTF2cFlvcUpzN1JSeA?oc=5)
+
+2026-10-29 <span class="news-indication-tag">AVC</span>
+
+Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMieEFVX3lxTFAwUU9VRjJWRG5RN2k1ck5HS1VmV2NoZUFyZUlsSnB4Wmc3YmJsMWJqN2JWZU1takxscDlmSXlOckp4TFlfX054ZW83enA2ZVBSSF9iM3lWR0JWdG5yd1BFdXZnVnd4OEJ6VTlzeTF2cFlvcUpzN1JSeA?oc=5)
+
+---
+
 ### [Explosion des AVC chez les jeunes, un « tabou » persistant : « On ne pense pas que ça peut être grave » - Le Parisien](https://news.google.com/rss/articles/CBMihAJBVV95cUxPNDdlcUgwLXh2RHlTU2ZZQ3hwTVNXaTNtTk15RXRZV0N5R1lpeUNBWFlXS3Y4WU9XendUVGtBb3p3YlA3NXZRdnQtc1huaEFVSDlPdG5ybW5tTVNoNmc4Si1IcGJOU2VENTdFNXhWUXFFWmtqU1lvbnVBMHZtRWY2QTZxdHpBQ05ray1pQzJyNWVfQ1VpdGNEYnFQVXlPZkVpTkgwbVZSWnVhVjVncS11RExYOVFtMTBiSm9jMnVIaTJmV1NEVDRhdVJHczFTN3FkYWpqU2V4ajJHWTQ0TUxOZGhtYnJycHNRbDliSTFDWlZCdGRDZ3U1VFNWSWhrcmNmaXdkdg?oc=5)
 
 2026-10-29 <span class="news-indication-tag">AVC</span>
@@ -175,11 +207,27 @@ Source: [Le Parisien](https://news.google.com/rss/articles/CBMihAJBVV95cUxPNDdlc
 
 ---
 
+### [Ictus: che cos'è, sintomi e cosa fare, le cure. In 9 casi su 10 si può prevenire: ecco come ridurre il rischio - Corriere della Sera](https://news.google.com/rss/articles/CBMirwJBVV95cUxPMUh5emxQa3VjcmtLRHV1VDdieXZ6cWpSb3IzV2JQaGNvSnFLR3dvM1RidXlreWcyRkNybTFMbThjVXpLY1cyYmNHREc0STQ3OGc2aU5WY3R0bW9jYjZHZ0tFdy0tZk04eEZ1a0NndGlxS2xTcGp4RWtXWlh2MHlORlNzMTZQTGxLMENMWnpGdUdTSXd5dm1zU3dsaG1BTHRKRVlKbWJnR09qSFRfcE42Z2UxUWNnUjY2eFdEUzc4blF6NXZPTS1oM3FEY255TUMxUFg5ZDRTMndSOGNuSW44OXRTU1A4TVh6dVVsb2N0YUNUNFM0YUJYc0Mxd2FzVWozajBXdDQ0aDVSRl9CS0NjRWFTb3JWakFZcnd5ZzdmR2xRUWUwR1lOdTZORTh3UDjSAbQCQVVfeXFMT3BCU2tfN3NMWFY0QzMwRWZNWTZnQnZNZ1I0QnZ3YW9FX25kNkRBOC1nSGxSR1R4alc1WGhBeGZLTGUtLXpyaEp6bUh1c05DbXdYWGxBOUZHUGdGT2lhYjI2Zk9CSVBrV0cybkJubmg4T0tTTXlReFo4YzJFZmJYWUhUdkFfR1dMTUZoUTlHYnNXYjUzNlNudVFnUkxpNjBsS1l3WDhMbDhLbTFpQWRSMzBZbGptaURIQmlZSWhzcjdSQlRFTFBkeWxHRjBJcFdndG9FRGZrY2pMX3dyUjhVN3dKeE1WZEhJNm5MX2d4MmZfQkktMG9JajFYenpZTXN3QW5UVmcwd0w5Q1FJSWtmQTVEcFFzYllybEhHdEJkcXpOUEFWMldhZmY2eDdTMEhUQm1kNUk?oc=5)
+
+2026-10-29 <span class="news-indication-tag">ictus</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMirwJBVV95cUxPMUh5emxQa3VjcmtLRHV1VDdieXZ6cWpSb3IzV2JQaGNvSnFLR3dvM1RidXlreWcyRkNybTFMbThjVXpLY1cyYmNHREc0STQ3OGc2aU5WY3R0bW9jYjZHZ0tFdy0tZk04eEZ1a0NndGlxS2xTcGp4RWtXWlh2MHlORlNzMTZQTGxLMENMWnpGdUdTSXd5dm1zU3dsaG1BTHRKRVlKbWJnR09qSFRfcE42Z2UxUWNnUjY2eFdEUzc4blF6NXZPTS1oM3FEY255TUMxUFg5ZDRTMndSOGNuSW44OXRTU1A4TVh6dVVsb2N0YUNUNFM0YUJYc0Mxd2FzVWozajBXdDQ0aDVSRl9CS0NjRWFTb3JWakFZcnd5ZzdmR2xRUWUwR1lOdTZORTh3UDjSAbQCQVVfeXFMT3BCU2tfN3NMWFY0QzMwRWZNWTZnQnZNZ1I0QnZ3YW9FX25kNkRBOC1nSGxSR1R4alc1WGhBeGZLTGUtLXpyaEp6bUh1c05DbXdYWGxBOUZHUGdGT2lhYjI2Zk9CSVBrV0cybkJubmg4T0tTTXlReFo4YzJFZmJYWUhUdkFfR1dMTUZoUTlHYnNXYjUzNlNudVFnUkxpNjBsS1l3WDhMbDhLbTFpQWRSMzBZbGptaURIQmlZSWhzcjdSQlRFTFBkeWxHRjBJcFdndG9FRGZrY2pMX3dyUjhVN3dKeE1WZEhJNm5MX2d4MmZfQkktMG9JajFYenpZTXN3QW5UVmcwd0w5Q1FJSWtmQTVEcFFzYllybEhHdEJkcXpOUEFWMldhZmY2eDdTMEhUQm1kNUk?oc=5)
+
+---
+
 ### [Micro-ictus silenti, il rischio sale se si eccede con alimenti ultraprocessati - la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXp5VGVuZmM0ckhSUExWYnlMNEtVeDZqODRkZmVpVFBWTWJIUk1QQWNaaXc4NDJNTUQtWFBYem96UlBYZWxadGxJQU1vWDQtRHI3OW5pRkRwai13emE1UzNxT1hSdHRwbUpMWEVlQzdHYW93cTRLVk5rOVVaVlVoOS1Ka29ZRUlHeFBPMFl3SU4wWktlRFFYY1VjRjRMRmlnVmtFV0tXbXdNSTI3dGEzZmF6M2NXTXFPR1ZmVWJsb0ZVUDgtM280eFBuU2lWZ0xKdk4zRDlqbUxQRWxjMHFxTlhaV09HeXltamtrZ9IB8gFBVV95cUxOTlZGWVNNWDZYdGNhSV8zMFh4ejNRNWI4bEpVR3E5elhwZmlJVlNZNVM5NDd6REtka29rNFMyNDIyVU9HMjFYOXJ1Mmdodk5OWE95YTNfRk0zQlpudGM3RVN2ZGJqS0hqSGlhWm95cHJZYmx4ZldLUTlzNjhzNkFYOEtPOGlILUdobVRBdkFsN09Ydy0zZFUwTTJnUjVQWnlzQlI4RU5nckhUdUk2RGNrZUt4UUFCejR1SFhzWTRfVG9ZMVFvOVoyLVI2Sk9QUnVhR21lU1hLd3pKYzVZRktkYWN6SnB3cG9pRGs0U1hVZXQ0dw?oc=5)
 
 2026-10-28 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span>
 
 Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXp5VGVuZmM0ckhSUExWYnlMNEtVeDZqODRkZmVpVFBWTWJIUk1QQWNaaXc4NDJNTUQtWFBYem96UlBYZWxadGxJQU1vWDQtRHI3OW5pRkRwai13emE1UzNxT1hSdHRwbUpMWEVlQzdHYW93cTRLVk5rOVVaVlVoOS1Ka29ZRUlHeFBPMFl3SU4wWktlRFFYY1VjRjRMRmlnVmtFV0tXbXdNSTI3dGEzZmF6M2NXTXFPR1ZmVWJsb0ZVUDgtM280eFBuU2lWZ0xKdk4zRDlqbUxQRWxjMHFxTlhaV09HeXltamtrZ9IB8gFBVV95cUxOTlZGWVNNWDZYdGNhSV8zMFh4ejNRNWI4bEpVR3E5elhwZmlJVlNZNVM5NDd6REtka29rNFMyNDIyVU9HMjFYOXJ1Mmdodk5OWE95YTNfRk0zQlpudGM3RVN2ZGJqS0hqSGlhWm95cHJZYmx4ZldLUTlzNjhzNkFYOEtPOGlILUdobVRBdkFsN09Ydy0zZFUwTTJnUjVQWnlzQlI4RU5nckhUdUk2RGNrZUt4UUFCejR1SFhzWTRfVG9ZMVFvOVoyLVI2Sk9QUnVhR21lU1hLd3pKYzVZRktkYWN6SnB3cG9pRGs0U1hVZXQ0dw?oc=5)
+
+---
+
+### [El ensayo We-trust supera los 320 pacientes para evaluar un nuevo circuito de atención al ictus isquémico agudo](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFl2YTZBNkhIT29PcG5BRkZSS1VzWWJIOUdDWlRGb3NIS256bXJBdVd3bTRXS1pHMTB0UFZZczBPS1hqMzRVM20zQWJwbXJLUXFjekV1VXFMTUgyZnFYa28za1FaWTRKUGJmeG1uRnlRd2x1cXAzN2dkSk1iNkNtV1p2V0JjZ1g4c2pHLUdYRFJHVXFMdXk5ZTI1aXhvUV9CdHBOcVJOeEpSUmFEU1BIb2gyUUlwQ2x5dU1hTG1FcFVNVW9FLWh0MllLV3EzamtOQTdyaWlrUQ?oc=5)
+
+2026-10-28 <span class="news-indication-tag">ictus</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFl2YTZBNkhIT29PcG5BRkZSS1VzWWJIOUdDWlRGb3NIS256bXJBdVd3bTRXS1pHMTB0UFZZczBPS1hqMzRVM20zQWJwbXJLUXFjekV1VXFMTUgyZnFYa28za1FaWTRKUGJmeG1uRnlRd2x1cXAzN2dkSk1iNkNtV1p2V0JjZ1g4c2pHLUdYRFJHVXFMdXk5ZTI1aXhvUV9CdHBOcVJOeEpSUmFEU1BIb2gyUUlwQ2x5dU1hTG1FcFVNVW9FLWh0MllLV3EzamtOQTdyaWlrUQ?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Sacubitril. 5 predicted indications."
 permalink: /news/sacubitril/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Sacubitril News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Sacubitril?">
-<strong>Sacubitril</strong> currently has <strong>23 news articles</strong>, with 5 predicted indications.
+<strong>Sacubitril</strong> currently has <strong>30 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,31 @@ This page combines the AI-predicted indications for Sacubitril with the latest h
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (23)
+## Related News (30)
+
+### [La transición al genérico de tofacitinib preserva el control de la artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFk5TGFSVGVWUUNiU1B1SFBoVGw4UkhJbjhNY1hWYnpGQXlETGE2YjlaUnVXUE9QeGgzbmpfODhEbS1PSEYtR0RiWkNqaUpMaEh0aURENDJTZFFwRnFfQnV2ZmZReUoxRWZhOHJ3RUVXN29HbEkwSjBKNmhxNmJCWktMeFBYNF92TGQ4OHIyUmR3bkwxM0JlcjVwcEItd3F2YzBIYnE4MkRtWHMzcmRqYjZGWlprWFkxTVlCRFljb3jSAbsBQVVfeXFMTm5BT3ZtS3lac3pRN0JCRlNzdVA3YlMtSVhqTkZ5clBNSGlTTlZYWkZDblpaRlNiZ2lTeVhlZEZEbkVXUXEzaWlHb0tyZjBVY0llTGxGYXlETWtFaFQ2Mmh6b0lISTFXcXZYSmtlZXVCY3U3TzMtcmRlWjFsUGdfOFZZTVpBQXVOTVpOdzJKRzlVM2s5QXhwU3N6VzhtU2YxSGpVSkFMeDZ1NXlrNzFQMy1TZHl2UkRHN0R6cw?oc=5)
+
+2026-11-02 <span class="news-drug-tag">Tofacitinib</span> <span class="news-indication-tag">artritis</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFk5TGFSVGVWUUNiU1B1SFBoVGw4UkhJbjhNY1hWYnpGQXlETGE2YjlaUnVXUE9QeGgzbmpfODhEbS1PSEYtR0RiWkNqaUpMaEh0aURENDJTZFFwRnFfQnV2ZmZReUoxRWZhOHJ3RUVXN29HbEkwSjBKNmhxNmJCWktMeFBYNF92TGQ4OHIyUmR3bkwxM0JlcjVwcEItd3F2YzBIYnE4MkRtWHMzcmRqYjZGWlprWFkxTVlCRFljb3jSAbsBQVVfeXFMTm5BT3ZtS3lac3pRN0JCRlNzdVA3YlMtSVhqTkZ5clBNSGlTTlZYWkZDblpaRlNiZ2lTeVhlZEZEbkVXUXEzaWlHb0tyZjBVY0llTGxGYXlETWtFaFQ2Mmh6b0lISTFXcXZYSmtlZXVCY3U3TzMtcmRlWjFsUGdfOFZZTVpBQXVOTVpOdzJKRzlVM2s5QXhwU3N6VzhtU2YxSGpVSkFMeDZ1NXlrNzFQMy1TZHl2UkRHN0R6cw?oc=5)
+
+---
+
+### [Typ-2-Diabetes: ETH-Implantat senkt Mäuse-Blutzucker binnen einer Stunde](https://news.google.com/rss/articles/CBMivgFBVV95cUxPdEFhOFZfRnZCS0NQQ1d1Tlp6Vm5FMmpkbWduMzVFT29kRlFZbWgtWkp6Z1VCRDhEOElicmNWb19GNmlrR2docjlUWFI4YVhJQ3JoWl9kMHE4S1M5YXRQN3ZmNklRWldKdXQ5TF9TM2wxUEFPM2xJR2lpTDhCU1pjeEhfOU5Pazlnb29kX0hTM19LQnotNUNFWnozYWNLRjlHWUtCN093T2EzU2RVNUtJWEtGd0FXeHZ4S1IwTTJR?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPdEFhOFZfRnZCS0NQQ1d1Tlp6Vm5FMmpkbWduMzVFT29kRlFZbWgtWkp6Z1VCRDhEOElicmNWb19GNmlrR2docjlUWFI4YVhJQ3JoWl9kMHE4S1M5YXRQN3ZmNklRWldKdXQ5TF9TM2wxUEFPM2xJR2lpTDhCU1pjeEhfOU5Pazlnb29kX0hTM19LQnotNUNFWnozYWNLRjlHWUtCN093T2EzU2RVNUtJWEtGd0FXeHZ4S1IwTTJR?oc=5)
+
+---
+
+### [Giornata mondiale del Diabete, dagli screening gratuiti ai convegni: tutte le iniziative](https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2I4ZkdYR25IcUJ6bzN2eWFFUDFnRzhJVmFXWjFyTkNzR0hHZFZXX1hDLVJqai0wa2VBMVZqazJOYUk1RjhTek9UczJXdy1wb25Rdk9YUHp2am82cFI5QTBPUkdLWVNTaVlpU09WU21taE0zRWZpejlsS2k5VUhwUVVWZHZZSVJYWXNJcndMV2ZJX2xTWlFMZDQ5V25VUEtpZkczQXhoVdIBrAFBVV95cUxNYzVZelk4RE95VzV4NVR5a3ptc0FEaUdrbVlGaVdTdi11NlNlSHg4aER4TTN3dWtQbVRaSTFjd0tSd0EtcnJqN3JzYVl1aTlnNldOVlBmRHVmZzhSeVlKTVZ6d1ZvNERBWFhyVzdTTnNpNXpwX2pRU1l3eS1lZ2xscmNTd2ZmekphSUhMUml3aHY0a0pSRGIteV95Vl95Y0Vvc0NYRzZPOEg1MlBh?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabete</span>
+
+Source: [L'Arena](https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2I4ZkdYR25IcUJ6bzN2eWFFUDFnRzhJVmFXWjFyTkNzR0hHZFZXX1hDLVJqai0wa2VBMVZqazJOYUk1RjhTek9UczJXdy1wb25Rdk9YUHp2am82cFI5QTBPUkdLWVNTaVlpU09WU21taE0zRWZpejlsS2k5VUhwUVVWZHZZSVJYWXNJcndMV2ZJX2xTWlFMZDQ5V25VUEtpZkczQXhoVdIBrAFBVV95cUxNYzVZelk4RE95VzV4NVR5a3ptc0FEaUdrbVlGaVdTdi11NlNlSHg4aER4TTN3dWtQbVRaSTFjd0tSd0EtcnJqN3JzYVl1aTlnNldOVlBmRHVmZzhSeVlKTVZ6d1ZvNERBWFhyVzdTTnNpNXpwX2pRU1l3eS1lZ2xscmNTd2ZmekphSUhMUml3aHY0a0pSRGIteV95Vl95Y0Vvc0NYRzZPOEg1MlBh?oc=5)
+
+---
 
 ### [Typ-2-Diabetes: Lebensstilprogramm führte bei jedem Zweiten zur Remission](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDBUZHZmcE84T3JsT0J5Ri1wcDE0c18tN1k1UnZ3T3hrZ3dfVEtvd1NJUkFlaUUtbGVsYnUwS3o2a3daZF9mTFNBMlBlRlI5V2lIZ21TU29kS21WcWZvbmtxUGw0bHlGUFRMTEtYUlhRT1pHTEFtSmhWMl9kbGdpT3FkZW83UXN3UkdLUlUybDN6OEZEY1dOMW5EUjk4eG5ZTGxzLVVNOWtmcld1MWc?oc=5)
 
@@ -47,11 +71,27 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDBUZHZ
 
 ---
 
+### [New diabetes implant uses electricity to lower blood sugar and promote weight loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXR2RUtGWWZHUU45ODgyNF9IQm9BWlo0Q184UTlyenY5RjVVLWo2NmtKdWRkWDVCbmE5M2ZXOVZHTmN6YkFuSUtJbGc4aXItUkoxcGRmQ1lMazlWQ3RBVWlsVV9WaHp5SlcxV2tLOA?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXR2RUtGWWZHUU45ODgyNF9IQm9BWlo0Q184UTlyenY5RjVVLWo2NmtKdWRkWDVCbmE5M2ZXOVZHTmN6YkFuSUtJbGc4aXItUkoxcGRmQ1lMazlWQ3RBVWlsVV9WaHp5SlcxV2tLOA?oc=5)
+
+---
+
 ### [Fettleber und Bewegung: Aktive Patienten haben 59 Prozent weniger Sterberisiko](https://news.google.com/rss/articles/CBMixAFBVV95cUxOamlKZTFFakFXUGNUQ28tUWwzRWZSNEpHRTJUNmVnQnVNbU1JSVNXNkpZZF9CaUFzdmdJbmRjQzUyM2dkS1ZmNUxwd05zUVpiRHE5dDJNTkZrT3BRSk9aS1VVY09PTGxRNnpIYWtPOXRkaTVGZVFGUHdUMDV3N1BFaXpjejdPRFFSUkdfMW9XZUI1UzEzbnlVWGVoNVhLSmZramc3cFRfOHZuXzVnRGxEN0drS1FyUzE5SW1VRUI3YjhSQWJL?oc=5)
 
 2026-11-02 <span class="news-indication-tag">diabetes</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxOamlKZTFFakFXUGNUQ28tUWwzRWZSNEpHRTJUNmVnQnVNbU1JSVNXNkpZZF9CaUFzdmdJbmRjQzUyM2dkS1ZmNUxwd05zUVpiRHE5dDJNTkZrT3BRSk9aS1VVY09PTGxRNnpIYWtPOXRkaTVGZVFGUHdUMDV3N1BFaXpjejdPRFFSUkdfMW9XZUI1UzEzbnlVWGVoNVhLSmZramc3cFRfOHZuXzVnRGxEN0drS1FyUzE5SW1VRUI3YjhSQWJL?oc=5)
+
+---
+
+### [A partir de los 65 años, comer dos latas de sardinas a la semana puede reducir el riesgo de padecer diabetes, según un farmacéutico - El Economista](https://news.google.com/rss/articles/CBMitwJBVV95cUxQTjNBMVFyRGN3YmdleWw5NWNCc3AzZGl1MDY0emRub21wbDhIZlphVEpNVUh1cWx5SjNwazJ5aFVXdUNpNjJVdURSR2VnanV1dlM0YUJKV3ZjUXhoc1U3dnRfWHZBM1lLeFRFUExoUWx0dzBQZWRXWmJJSVVLYkJEanB4bUdZLWhMTHpBSzdfWFI1VzBGRXJhTGVldHpBRGtvd2pzOWtXbTBIeUpwU2NtOExDTmU3dHA1UVN3MjhZME9XS2Nfa2ZQY09nZW1Qc3AxeHFpVXBrbXkzeFh2VUlUcDYzeXozTVlMeDE1dTNYdWdqblRJSXYyczJqVXlnRkxkdTlNejB4bFJiNzhlM0dhblhoUlRaOE1jSzIxc2dlN2pBTUppel9udDNNTlhoZHB5RFhIeDVLRQ?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [El Economista](https://news.google.com/rss/articles/CBMitwJBVV95cUxQTjNBMVFyRGN3YmdleWw5NWNCc3AzZGl1MDY0emRub21wbDhIZlphVEpNVUh1cWx5SjNwazJ5aFVXdUNpNjJVdURSR2VnanV1dlM0YUJKV3ZjUXhoc1U3dnRfWHZBM1lLeFRFUExoUWx0dzBQZWRXWmJJSVVLYkJEanB4bUdZLWhMTHpBSzdfWFI1VzBGRXJhTGVldHpBRGtvd2pzOWtXbTBIeUpwU2NtOExDTmU3dHA1UVN3MjhZME9XS2Nfa2ZQY09nZW1Qc3AxeHFpVXBrbXkzeFh2VUlUcDYzeXozTVlMeDE1dTNYdWdqblRJSXYyczJqVXlnRkxkdTlNejB4bFJiNzhlM0dhblhoUlRaOE1jSzIxc2dlN2pBTUppel9udDNNTlhoZHB5RFhIeDVLRQ?oc=5)
 
 ---
 
@@ -119,6 +159,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcX
 
 ---
 
+### [Dietitians Reveal the Dinner Formula They Recommend Most for Better Blood Sugar](https://news.google.com/rss/articles/CBMifkFVX3lxTFA3MzM0cjJPSnkwd0tXSnpGRGRXaHJLMUQ4b1JxZTl1R2h5Z29kbVp1Q2Q2MGl5RjdsTWNfRGdpUDVmZTZSX21yaVp5XzROQVpFMzJTNVBwbDVLMk9DRVE0RmtDaEZlbEtSLVNNaHJwRnVMLUZTczZLWEFSVGwtUQ?oc=5)
+
+2026-10-30 <span class="news-indication-tag">diabetes</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMifkFVX3lxTFA3MzM0cjJPSnkwd0tXSnpGRGRXaHJLMUQ4b1JxZTl1R2h5Z29kbVp1Q2Q2MGl5RjdsTWNfRGdpUDVmZTZSX21yaVp5XzROQVpFMzJTNVBwbDVLMk9DRVE0RmtDaEZlbEtSLVNNaHJwRnVMLUZTczZLWEFSVGwtUQ?oc=5)
+
+---
+
 ### [Type 2 diabetes breakthrough as 54% achieve remission in just 6 months - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFAtUWlYZGRHWW5LY2g5Nk1uLV9OVmN5MU9MbWJZMTE4UlJIQi1SQkYtcDlWa3g2YTFsN3JSRjZYb2c0QjJscEtXUUFOR2RfS3kwVnBUREw4bVhXbkN5RWJHZlFmNlpzeHVBaWNvZWIzTQ?oc=5)
 
 2026-10-30 <span class="news-indication-tag">diabetes</span>
@@ -148,6 +196,14 @@ Source: [Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ
 2026-10-29 <span class="news-indication-tag">diabetes</span>
 
 Source: [iSanidad](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSzFUNnN3NVFZM2ltdWhvcDRUY3dfODV2NUJsVjJ2eXFPZHYzSTJFR3N3aExHYXBUTi1MLWlxcEJxQ3RNeGJnZUduaTUzeUNjSllCSlY4WW9HRndOYmNzTHE4WnNUckloc05WNUlFNUQwVl9BOU5TWW03ZmRidWEyTGxzQkE5UVQ1bWtkaE5OV1N3NUQwbnRNSjRzVlNqWjZoVXE2bU9ZYjB4a19VTFJWR2pmRTYxczQ4dFB2bHo4NlYwUFEydEotTDZ0eVBvN19PTnE0?oc=5)
+
+---
+
+### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
 
 ---
 
