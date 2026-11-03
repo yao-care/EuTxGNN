@@ -71,6 +71,8 @@ The European Medicines Agency provides data on centrally authorized medicines.
 ### Access
 
 - **EMA Website**: [Download Medicine Data](https://www.ema.europa.eu/en/medicines/download-medicine-data)
+- **Medicines report (Excel)**: <https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx>
+- **Updates**: the medicine status shown on drug pages (Authorised, Withdrawn, Lapsed, Expired …) is refreshed automatically every Monday from the medicines report, keyed by EMA product number (EMEA/H/C/…); a number missing from the new file keeps its previous status
 
 ---
 

@@ -48,7 +48,7 @@ TxGNN model predictions without clinical evidence - research hypotheses for expl
 | Metric | Value |
 |--------|-------|
 | Total L5 Drugs | {{ l5_drugs.size }} |
-| Total Predictions | 32,368 |
+| Total Predictions | {{ site.data.drug_stats.total_indications }} |
 | Unique Indications | 4,570 |
 
 ---

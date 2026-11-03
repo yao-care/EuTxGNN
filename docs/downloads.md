@@ -62,11 +62,14 @@ Open data for research use under CC BY 4.0 license.
 
 FHIR R4 resources are available at:
 
+{% assign fhir_mk = site.static_files | where_exp: "f", "f.path contains '/fhir/MedicationKnowledge/'" %}
+{% assign fhir_cud = site.static_files | where_exp: "f", "f.path contains '/fhir/ClinicalUseDefinition/'" %}
+
 | Resource | Endpoint | Count |
 |----------|----------|-------|
 | CapabilityStatement | [/fhir/metadata](/fhir/metadata) | 1 |
-| MedicationKnowledge | /fhir/MedicationKnowledge/ | 733 |
-| ClinicalUseDefinition | /fhir/ClinicalUseDefinition/ | 32,368 |
+| MedicationKnowledge | /fhir/MedicationKnowledge/ | {{ fhir_mk.size }} |
+| ClinicalUseDefinition | /fhir/ClinicalUseDefinition/ | {{ fhir_cud.size }} |
 
 ---
 
