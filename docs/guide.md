@@ -99,7 +99,7 @@ FHIR resources are available in JSON format via the API.
 1. **Research Only**: Not for clinical decision-making
 2. **Validation Required**: All predictions need clinical validation
 3. **Coverage**: Limited to EMA-approved drugs with DrugBank mappings
-4. **Evidence Levels**: Currently all L5 (AI prediction only)
+4. **Evidence Levels**: Graded L1 (multiple Phase 3 RCTs / systematic reviews) to L5 (AI prediction only) per drug; see the methodology page
 
 ---
 
