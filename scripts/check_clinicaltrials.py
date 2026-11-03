@@ -18,39 +18,50 @@ import requests
 from github_utils import create_issue, close_older_clinicaltrials_issues
 
 
-_KNOWN_STOPWORDS = {"of", "the", "and", "or", "with", "to", "in", "by", "for", "an", "due",  # 不含 "a"：hepatitis A
-                    "disease", "disorder", "syndrome"}
-_SPELLING = (("aemia", "emia"), ("haem", "hem"), ("oesoph", "esoph"), ("tumour", "tumor"),
-             ("oedema", "edema"), ("paediatr", "pediatr"))
+# 2026-11-03：已核准用途排除改成嚴格比對。原本的關鍵字比對會誤殺（例如 amlodipine 的
+# pulmonary hypertension 因為 hypertension 被排除）；現在只認兩種情形：
+#   1. 正規化後名稱完全相同
+#   2. 一方是另一方前後加上限定詞（type 2、subtype A、form、variant 等）
+# approved_indication 是 extract_drug_list.py 輸出的「; 」分隔已知適應症（英文疾病名）。
+_QUALIFIER_WORDS = {"type", "subtype", "form", "variant", "group", "class", "grade", "stage"}
 
 
-def _known_tokens(text: str) -> list:
-    t = re.sub(r"\((disease|disorder)\)", " ", (text or "").lower())
-    for a, b in _SPELLING:
-        t = t.replace(a, b)
-    return [w[:-1] if len(w) > 3 and w.endswith("s") and not w.endswith("ss") else w
-            for w in re.findall(r"[a-z0-9]+", t)]
+def _norm_indication(name: str) -> list:
+    name = re.sub(r"\((disease|disorder)\)", " ", (name or "").lower())
+    return re.sub(r"[^\w]+", " ", name).split()
+
+
+def _is_qualifier(words: list) -> bool:
+    # 限定詞要以 type／subtype 等字開頭（"type 2"、"subtype a"）；單獨的字母不算（hepatitis b ≠ hepatitis）
+    return bool(words) and words[0] in _QUALIFIER_WORDS and all(
+        w in _QUALIFIER_WORDS or re.fullmatch(r"\d+[a-z]?|[ivx]+|[a-z]", w) for w in words)
+
+
+def _same_or_qualified(a: list, b: list) -> bool:
+    if a == b:
+        return True
+    short, long_ = (a, b) if len(a) < len(b) else (b, a)
+    if not short or len(short) == len(long_):
+        return False
+    n = len(short)
+    for i in range(len(long_) - n + 1):
+        if long_[i:i + n] == short and _is_qualifier(long_[:i] + long_[i + n:]) \
+                and (i == 0 or i + n == len(long_)):
+            return True
+    return False
 
 
 def is_known_indication(approved_indication: str, predicted_indication: str) -> bool:
-    """Check if predicted indication is already an approved/known indication.
+    """Is the predicted indication one of the drug's known (approved) indications?
 
-    2026-11-03：改成「預測適應症的每個關鍵詞（含 B、C、2 這類短字）都出現在原適應症的同一段」才算已核准
-    （段落以「；」「;」或句點分隔）。舊版只要一個長字（例：hypertension、hepatitis）對到就排除，
-    會把 amlodipine→pulmonary hypertension、sofosbuvir→hepatitis B 這類真正的新用途也排除掉。
+    Strict match against each '; '-separated known indication: identical after
+    normalization, or one is the other plus a qualifier (e.g. 'type 2', 'subtype A').
     """
     if not approved_indication or not predicted_indication:
         return False
-    need = {w for w in _known_tokens(predicted_indication) if w not in _KNOWN_STOPWORDS}
-    if not need:
-        return False
-    for segment in re.split(r"[；;]|\.\s", approved_indication):
-        have = set(_known_tokens(segment))
-        if "non" in have and "non" not in need:
-            continue  # 「Lymphoma, Non-Hodgkin」不等於 Hodgkin lymphoma
-        if need <= have:
-            return True
-    return False
+    pred = _norm_indication(predicted_indication)
+    return any(_same_or_qualified(pred, _norm_indication(k))
+               for k in re.split(r"[;；]", approved_indication) if k.strip())
 
 # Configuration
 API_BASE = "https://clinicaltrials.gov/api/v2/studies"
