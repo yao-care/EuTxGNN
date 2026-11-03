@@ -132,7 +132,7 @@ window.TXGNN_ANALYTICS = {
       "description": {{ page.description | default: page.title | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-03-01",
-      "dateModified": "2026-03-03",
+      "dateModified": "{{ page.last_modified_at | default: '2026-03-03' | date: '%Y-%m-%d' }}",
       "lastReviewed": "2026-03-03",
       "reviewedBy": {
         "@id": "https://www.yao.care/#organization"
@@ -225,7 +225,7 @@ window.TXGNN_ANALYTICS = {
         "@id": "https://www.yao.care/#organization"
       },
       "datePublished": "2026-03-01",
-      "dateModified": "2026-03-03",
+      "dateModified": "{{ page.last_modified_at | default: '2026-03-03' | date: '%Y-%m-%d' }}",
       "mainEntityOfPage": "https://eutxgnn.yao.care/",
       "isAccessibleForFree": true,
       "isPartOf": {
@@ -275,7 +275,7 @@ window.TXGNN_ANALYTICS = {
       "description": "EuTxGNN drug repurposing reports - project overview, data sources, and citation information",
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-03-01",
-      "dateModified": "2026-03-03",
+      "dateModified": "{{ page.last_modified_at | default: '2026-03-03' | date: '%Y-%m-%d' }}",
       "mainEntity": {
         "@id": "https://www.yao.care/#organization"
       }
@@ -512,7 +512,7 @@ window.TXGNN_ANALYTICS = {
       "description": {{ page.description | default: page.title | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-03-01",
-      "dateModified": "2026-03-03",
+      "dateModified": "{{ page.last_modified_at | default: '2026-03-03' | date: '%Y-%m-%d' }}",
       "author": {
         "@id": "https://www.yao.care/#organization"
       },
