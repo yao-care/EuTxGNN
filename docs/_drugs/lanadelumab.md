@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lanadelumab
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 350
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 monitor_inn: "Lanadelumab"
-predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
-last_modified_at: 2026-10-28
-description: "Lanadelumab: predicted new indication C1 抑制劑缺乏症 (C1 inhibitor deficiency) (evidence level L1). Approved use: Takhzyro is indicated for routine prevention of recurrent attacks of…"
+predicted_indications: ["serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
+last_modified_at: 2026-11-03
+description: "Lanadelumab: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). Approved use: Takhzyro is indicated for routine prevention of recurrent attacks of…"
 ---
 
 # Lanadelumab
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,21 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Lanadelumab: plasma kallikrein inhibitor monoclonal antibody → C1 抑制劑缺乏症 (C1 inhibitor deficiency)
+## Lanadelumab: Serpinopathy with toxic serpin polymerization
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Lanadelumab is a fully human monoclonal antibody that inhibits plasma kallikrein. The TxGNN model predicts it may be effective for **C1 inhibitor deficiency**, and the data compiled for this report include **5 clinical trial records** (3 completed Phase 3 studies) and **20 publications**, including a randomized placebo-controlled trial, supporting this direction.
+Lanadelumab is a fully human monoclonal antibody that inhibits plasma kallikrein.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
 | Original Indication | Takhzyro is indicated for routine prevention of recurrent attacks of hereditary angioedema (HAE) in patients aged 2 years and older. |
-| Predicted New Indication | C1 抑制劑缺乏症 (C1 inhibitor deficiency) |
+| Predicted New Indication | Serpinopathy with toxic serpin polymerization |
 | TxGNN Prediction Score | 0.9999 |
-| Evidence Level | L1 |
+| Evidence Level | L5 |
 | EU Market Status | Marketed (valid licences: 1 of 1) |
 | Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |

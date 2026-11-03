@@ -4,17 +4,17 @@ title: Ferric Maltol
 parent: AI Predictions (L5)
 nav_order: 258
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 monitor_inn: "Ferric maltol"
-predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "IRIDA syndrome"]
-last_modified_at: 2026-10-28
-description: "Ferric Maltol: predicted new indication Plummer-Vinson syndrome (evidence level L5). Approved use: Feraccru is indicated in adults for the treatment of iron deficiency"
+predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "IRIDA syndrome"]
+last_modified_at: 2026-11-03
+description: "Ferric Maltol: predicted new indication Vitamin B12- and folate-independent constitutional megaloblastic anemia (evidence level L5)."
 ---
 
 # Ferric Maltol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,19 +33,19 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Ferric maltol: Oral iron replacement → Plummer-Vinson syndrome
+## Ferric Maltol: Vitamin B12- and folate-independent constitutional megaloblastic anemia
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Ferric maltol is an oral iron replacement medicine for adults with iron deficiency. The TxGNN model predicts it may be useful for **Plummer-Vinson syndrome**, a condition marked by iron deficiency anemia, difficulty swallowing and esophageal webs. There are currently **no clinical trials and no publications** supporting this direction, so it remains a model prediction only.
+Ferric maltol is an oral iron replacement medicine for adults with iron deficiency. There are currently **no clinical trials and no publications** supporting this direction, so it remains a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
 | Original Indication | Feraccru is indicated in adults for the treatment of iron deficiency. |
-| Predicted New Indication | Plummer-Vinson syndrome |
+| Predicted New Indication | Vitamin B12- and folate-independent constitutional megaloblastic anemia |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
 | EU Market Status | Marketed (valid licences: 1 of 1) |

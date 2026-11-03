@@ -4,17 +4,17 @@ title: Talimogene Laherparepvec
 parent: AI Predictions (L5)
 nav_order: 587
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-31
-description: "Talimogene Laherparepvec: predicted new indication CMM7 (ambiguous label) (evidence level L5). Approved use: Unresectable melanoma that is regionally or distantly metastatic (Sta…"
+indication_count: 4
+last_modified_at: 2026-11-03
 monitor_inn: "Talimogene laherparepvec"
-predicted_indications: ["CMM7", "glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma"]
+predicted_indications: ["glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma"]
+description: "Talimogene Laherparepvec: predicted new indication Glottis squamous cell carcinoma (evidence level L5). Approved use: Imlygic is indicated for the treatment of adults with unresectable me…"
 ---
 
 # Talimogene Laherparepvec
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Talimogene laherparepvec: From Unresectable Metastatic Melanoma to CMM7
+## Talimogene Laherparepvec: Glottis squamous cell carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Talimogene laherparepvec (Imlygic) is an oncolytic virus therapy originally used to treat adults with unresectable melanoma that has spread regionally or to distant sites, without bone, brain, lung or other visceral disease.
-The TxGNN model predicts it may be effective for **CMM7**, a disease label that could not be mapped to a defined clinical entity.
 At present, **no clinical trials and no publications** support this direction, so the prediction is purely computational.
 
 ---
@@ -48,9 +47,9 @@ At present, **no clinical trials and no publications** support this direction, s
 
 | Item | Content |
 |------|------|
-| Original Indication | Unresectable melanoma that is regionally or distantly metastatic (Stage IIIB, IIIC and IVM1a) with no bone, brain, lung or other visceral disease |
-| Predicted New Indication | CMM7 (ambiguous label) |
-| TxGNN Prediction Score | 0.9920 |
+| Original Indication | Imlygic is indicated for the treatment of adults with unresectable melanoma that is regionally or distantly metastatic (Stage IIIB, IIIC and IVM1a) with no bone, brain, lung or other visceral disease. |
+| Predicted New Indication | Glottis squamous cell carcinoma |
+| TxGNN Prediction Score | 0.9907 |
 | Evidence Level | L5 |
 | EU Market Status | Marketed (valid licences: 1 of 1) |
 | Number of Authorizations | 1 (valid: 1) |
@@ -62,7 +61,7 @@ At present, **no clinical trials and no publications** support this direction, s
 
 Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known information, talimogene laherparepvec is an oncolytic virus given by injection directly into tumour lesions, and its efficacy in melanoma is the basis of its approval. The analysis of the rationale suggests it acts through direct tumour-cell destruction and immune stimulation, which is not specific to one tumour histology.
 
-The predicted disease label "CMM7" is ambiguous and could not be matched to a defined clinical entity. If it refers to a cutaneous melanoma subtype, the link to the approved indication would be biologically plausible, since the same type of tumour would be treated by direct injection. This link is inferred only. No trial or publication supports it, and the high TxGNN score (0.992) is a computational prediction, not evidence of efficacy.
+If it refers to a cutaneous melanoma subtype, the link to the approved indication would be biologically plausible, since the same type of tumour would be treated by direct injection. This link is inferred only.
 
 Other top-ranked predictions are also supported only by the model. They include pediatric leptomeningeal melanoma, epithelioid cell uveal melanoma, glottis squamous cell carcinoma, lung occult squamous cell carcinoma, rectal cloacogenic carcinoma, gallbladder adenosquamous carcinoma, non-small cell squamous lung carcinoma, external ear basal cell carcinoma and urethral verrucous carcinoma. Many of these involve visceral, lung or central nervous system disease, which the current label excludes, or sites where injection is difficult or carries added safety concerns.
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Salmeterol
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 546
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-31
-description: "Salmeterol: predicted new indication Bronchitis (evidence level L1). Approved use: Regular treatment of asthma in adults and adolescents aged 12 years a…"
+evidence_level: L5
+indication_count: 3
+last_modified_at: 2026-11-03
 monitor_inn: "salmeterol"
-predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
+description: "Salmeterol: predicted new indication Respiratory malformation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Salmeterol
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Evidence Level: **L1** | Predicted Indications: **5**
 
 </div>
 
-## Salmeterol: From Asthma to Bronchitis
+## Salmeterol: Respiratory malformation
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Salmeterol is a long-acting beta2-agonist, originally used (in the combination product Seffalair Spiromax) for the regular treatment of asthma.
-The TxGNN model predicts it may be effective for **bronchitis**, with **9 clinical trials** and **20 publications** compiled for this prediction. The evidence mostly concerns COPD with chronic bronchitis, where salmeterol (alone or with fluticasone) is already an established therapy.
+The evidence mostly concerns COPD with chronic bronchitis, where salmeterol (alone or with fluticasone) is already an established therapy.
 
 ---
 
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **bronchitis**, with **9 clinic
 
 | Item | Content |
 |------|------|
-| Original Indication | Regular treatment of asthma in adults and adolescents aged 12 years and older not adequately controlled with inhaled corticosteroids and "as needed" inhaled short-acting beta2 agonists |
-| Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 0.9992 |
-| Evidence Level | L1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Respiratory malformation |
+| TxGNN Prediction Score | 0.9991 |
+| Evidence Level | L5 |
 | EU Market Status | Marketed (valid licences: 1 of 1) |
 | Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |

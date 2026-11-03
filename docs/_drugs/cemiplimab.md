@@ -4,17 +4,17 @@ title: Cemiplimab
 parent: AI Predictions (L5)
 nav_order: 138
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-28
+indication_count: 5
+last_modified_at: 2026-11-03
 description: "Cemiplimab: predicted new indication Gallbladder adenosquamous carcinoma (evidence level L5). Approved use: Metastatic or locally advanced cutaneous squamous cell carcinoma (not…"
 monitor_inn: "Cemiplimab"
-predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "external ear basal cell carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]
+predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]
 ---
 
 # Cemiplimab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---

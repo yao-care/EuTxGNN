@@ -4,17 +4,17 @@ title: Bexarotene
 parent: AI Predictions (L5)
 nav_order: 92
 evidence_level: L5
-indication_count: 3
-last_modified_at: 2026-10-31
-description: "Bexarotene: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L5). Approved use: Skin manifestations of advanced-stage cutaneous T-cell lymphoma (CTCL…"
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "Bexarotene"
-predicted_indications: ["primary cutaneous B-cell lymphoma", "Sezary syndrome", "lymphosarcoma"]
+predicted_indications: ["primary cutaneous B-cell lymphoma", "lymphosarcoma"]
+description: "Bexarotene: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L5). Approved use: Targretin capsules are indicated for the treatment of skin manifestat…"
 ---
 
 # Bexarotene
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Bexarotene: From Cutaneous T-Cell Lymphoma to Primary Cutaneous B-Cell Lymphoma
+## Bexarotene: Primary cutaneous B-cell lymphoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,7 +48,7 @@ The evidence for this top-ranked prediction is therefore model-based only, and t
 
 | Item | Content |
 |------|------|
-| Original Indication | Skin manifestations of advanced-stage cutaneous T-cell lymphoma (CTCL) in patients refractory to at least one systemic treatment |
+| Original Indication | Targretin capsules are indicated for the treatment of skin manifestations of advanced stage cutaneous T-cell lymphoma (CTCL) patients refractory to at least one systemic treatment. |
 | Predicted New Indication | Primary cutaneous B-cell lymphoma |
 | TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 |
@@ -68,7 +68,6 @@ The high score for primary cutaneous B-cell lymphoma comes from the TxGNN model 
 
 | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Sezary syndrome | 0.9929 | L1 | Largely on-label use (leukemic CTCL), not true repurposing. Includes a Phase 3 trial (terminated early) and several Phase 2 trials |
 | Lymphosarcoma | 0.9912 | L5 | Mapping of CTCL data. Not evidence for lymphosarcoma as a distinct entity |
 
 ---
@@ -77,7 +76,6 @@ The high score for primary cutaneous B-cell lymphoma comes from the TxGNN model 
 
 Currently no related clinical trials are registered for primary cutaneous B-cell lymphoma.
 
-For reference, the trials below were retrieved for the closely related, better-supported prediction **Sezary syndrome / CTCL**:
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -151,7 +149,6 @@ The prediction for primary cutaneous B-cell lymphoma rests on model score alone 
 - Mechanism of action (MOA) data from DrugBank
 - EMA SmPC warnings and contraindications (a blocking data gap for safety screening)
 - Clarification of the cancelled EU authorization status and available formulations
-- If a related direction is pursued, the better-supported predictions (Sezary syndrome and folliculotropic mycosis fungoides) could proceed with guardrails: monitoring of lipids, thyroid and liver function, teratogenicity precautions, and review of the interaction burden
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

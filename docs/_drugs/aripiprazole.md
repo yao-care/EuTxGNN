@@ -4,17 +4,17 @@ title: Aripiprazole
 parent: AI Predictions (L5)
 nav_order: 59
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-28
-description: "Aripiprazole: predicted new indication Major affective disorder (evidence level L1). Approved use: Schizophrenia in adults and adolescents aged 15 years and older"
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "Aripiprazole"
-predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+description: "Aripiprazole: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5)."
 ---
 
 # Aripiprazole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,20 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Aripiprazole: From Schizophrenia and Bipolar I Disorder to Major Affective Disorder
+## Aripiprazole: Gaze palsy, familial horizontal, with progressive scoliosis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Aripiprazole is an atypical antipsychotic originally used to treat schizophrenia and manic episodes in Bipolar I Disorder.
-The TxGNN model predicts it may be effective for **Major Affective Disorder** (mainly adjunctive use in unipolar major depressive disorder), with **35 clinical trials** and **18 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia in adults and adolescents aged 15 years and older; moderate to severe manic episodes in Bipolar I Disorder |
-| Predicted New Indication | Major affective disorder |
-| TxGNN Prediction Score | 0.9962 |
+| Original Indication | Aripiprazole Zentiva is indicated for the treatment of schizophrenia in adults and in adolescents aged 15 years and older. Aripiprazole Zentiva is indicated for the treatment of moderate to severe manic episodes in Bipolar I Disorder and for the prevention of a new manic episode in adults who experi |
+| Predicted New Indication | Gaze palsy, familial horizontal, with progressive scoliosis |
+| TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 |
 | EU Market Status | Marketed (valid licences: 6 of 6) |
 | Number of Authorizations | 6 (valid: 6) |

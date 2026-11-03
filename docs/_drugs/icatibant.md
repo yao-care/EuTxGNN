@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Icatibant
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 306
-evidence_level: L1
-indication_count: 7
-last_modified_at: 2026-10-28
-description: "Icatibant: predicted new indication C1 inhibitor deficiency (evidence level L1). Approved use: Symptomatic treatment of acute attacks of hereditary angioedema (HAE)…"
+evidence_level: L5
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "Icatibant"
-predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
+predicted_indications: ["serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
+description: "Icatibant: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). Approved use: Firazyr is indicated for symptomatic treatment of acute attacks of he…"
 ---
 
 # Icatibant
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,22 @@ Evidence Level: **L1** | Predicted Indications: **7**
 
 </div>
 
-## Icatibant: From Hereditary Angioedema to C1 Inhibitor Deficiency
+## Icatibant: Serpinopathy with toxic serpin polymerization
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Icatibant is a bradykinin B2 receptor antagonist, originally used to treat acute attacks of hereditary angioedema (HAE) with C1-esterase-inhibitor deficiency.
-The TxGNN model predicts it may be effective for **C1 inhibitor deficiency**. This is essentially an on-label use rather than true repurposing, supported by **11 clinical trials** and **20 publications**.
+This is essentially an on-label use rather than true repurposing, supported by **11 clinical trials** and **20 publications**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Symptomatic treatment of acute attacks of hereditary angioedema (HAE) in adults (with C1-esterase-inhibitor deficiency) |
-| Predicted New Indication | C1 inhibitor deficiency |
+| Original Indication | Firazyr is indicated for symptomatic treatment of acute attacks of hereditary angioedema (HAE) in adults (with C1-esterase-inhibitor deficiency).; Icatibant Accord is indicated for symptomatic treatment of acute attacks of hereditary angioedema (HAE) in adults, adolescents and children aged 2 years  |
+| Predicted New Indication | Serpinopathy with toxic serpin polymerization |
 | TxGNN Prediction Score | 0.9999 |
-| Evidence Level | L1 |
+| Evidence Level | L5 |
 | EU Market Status | Marketed (valid licences: 2 of 2) |
 | Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |

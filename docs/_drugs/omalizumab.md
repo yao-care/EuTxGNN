@@ -4,17 +4,17 @@ title: Omalizumab
 parent: High Evidence (L1-L2)
 nav_order: 447
 evidence_level: L2
-indication_count: 10
-last_modified_at: 2026-10-28
-description: "Omalizumab: predicted new indication Bronchitis (evidence level L2). Approved use: Allergic asthma (adults…"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Omalizumab"
-predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
+predicted_indications: ["bronchitis", "atopic eczema", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
+description: "Omalizumab: predicted new indication Bronchitis (evidence level L2). Approved use: Allergic asthma Omlyclo is indicated in adults…"
 ---
 
 # Omalizumab
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Omalizumab: From Allergic Asthma to Bronchitis
+## Omalizumab: Bronchitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,7 +48,7 @@ The trials appear to be asthma or urticaria studies that were mapped onto this t
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic asthma (adults, adolescents and children aged 6 to <12 years), chronic rhinosinusitis with nasal polyps, chronic spontaneous urticaria |
+| Original Indication | Allergic asthma Omlyclo is indicated in adults, adolescents and children (6 to &lt;12 years of age).&nbsp; Omlyclo treatment should only be considered for patients with convincing IgE (immunoglobulin E) mediated asthma (see section 4.2). Adults and adolescents (12 years of age and older) Omlyclo is  |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L2 |

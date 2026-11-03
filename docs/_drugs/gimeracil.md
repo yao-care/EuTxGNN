@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Gimeracil
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 283
-evidence_level: L1
-indication_count: 7
-last_modified_at: 2026-10-28
-description: "Gimeracil: predicted new indication Colonic neoplasm (evidence level L5). Approved use: Advanced gastric cancer (with cisplatin)"
+evidence_level: L5
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "Gimeracil"
-predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
+predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
+description: "Gimeracil: predicted new indication Cecum villous adenoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Gimeracil
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,22 @@ Evidence Level: **L1** | Predicted Indications: **7**
 
 </div>
 
-## Gimeracil: From Gastric and Metastatic Colorectal Cancer to Colonic Neoplasm
+## Gimeracil: Cecum villous adenoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Gimeracil is a component of the S-1 combination (tegafur/gimeracil/oteracil), originally used for advanced gastric cancer and, in specific settings, metastatic colorectal cancer.
-The TxGNN model predicts it may be effective for **colonic neoplasm**, with **6 clinical trials** and **12 publications** currently supporting this direction. Note that the trial evidence concerns the S-1 combination, not gimeracil alone.
+Note that the trial evidence concerns the S-1 combination, not gimeracil alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Advanced gastric cancer (with cisplatin); metastatic colorectal cancer in patients who cannot continue another fluoropyrimidine because of hand-foot syndrome or cardiovascular toxicity |
-| Predicted New Indication | Colonic neoplasm |
-| TxGNN Prediction Score | 0.9988 |
-| Evidence Level | L1 (see note below) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Cecum villous adenoma |
+| TxGNN Prediction Score | 0.9982 |
+| Evidence Level | L5 (see note below) |
 | EU Market Status | Marketed (valid licences: 1 of 1) |
 | Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |

@@ -4,17 +4,17 @@ title: Ertapenem
 parent: AI Predictions (L5)
 nav_order: 240
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 monitor_inn: "Ertapenem"
-predicted_indications: ["bacterial arthritis", "staphylococcus aureus infection"]
-last_modified_at: 2026-10-28
+predicted_indications: ["bacterial arthritis"]
+last_modified_at: 2026-11-03
 description: "Ertapenem: predicted new indication bacterial arthritis (evidence level L5). Approved use: Treatment Ertapenem SUN is indicated in paediatric patients (3 months…"
 ---
 
 # Ertapenem
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---

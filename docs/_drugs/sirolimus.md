@@ -4,17 +4,17 @@ title: Sirolimus
 parent: High Evidence (L1-L2)
 nav_order: 565
 evidence_level: L2
-indication_count: 7
-last_modified_at: 2026-10-28
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "Sirolimus"
-predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lung PEComa", "vulva sarcoma"]
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
 description: "Sirolimus: predicted new indication Liposarcoma (evidence level L2). Approved use: Hyftor is indicated for the treatment of facial angiofibroma associat…"
 ---
 
 # Sirolimus
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **7** 
+Evidence Level: **L2** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---

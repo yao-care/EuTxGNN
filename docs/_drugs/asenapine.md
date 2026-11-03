@@ -4,17 +4,17 @@ title: Asenapine
 parent: AI Predictions (L5)
 nav_order: 63
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Asenapine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Moderate to severe manic episodes associated with bipolar I disorder…"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Asenapine"
-predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "major affective disorder"]
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
+description: "Asenapine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Sycrest is indicated for the treatment of moderate to severe manic ep…"
 ---
 
 # Asenapine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Asenapine: From Bipolar I Manic Episodes to retinal dystrophy with or without extraocular anomalies
+## Asenapine: Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,7 +48,7 @@ However, there are **0 clinical trials** and **0 publications** supporting this 
 
 | Item | Content |
 |------|------|
-| Original Indication | Moderate to severe manic episodes associated with bipolar I disorder in adults |
+| Original Indication | Sycrest is indicated for the treatment of moderate to severe manic episodes associated with bipolar I disorder in adults. |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
@@ -107,7 +107,7 @@ Please refer to the SmPC for full warnings and contraindications.
 **Rationale:**
 The prediction has a high model score but no clinical, registered-trial or literature support, and no plausible mechanistic link between asenapine and inherited retinal dystrophy.
 
-A separate prediction for "major affective disorder" (rank 10) does have supporting literature, including a meta-analysis of randomized trials of asenapine in acute mania. That prediction is essentially the already-approved indication rather than a true repurposing finding, so it does not support the retinal dystrophy prediction.
+That prediction is essentially the already-approved indication rather than a true repurposing finding, so it does not support the retinal dystrophy prediction.
 
 **To proceed, the following is needed:**
 - Preclinical or mechanistic evidence that asenapine's receptor activity could affect retinal degeneration pathways.

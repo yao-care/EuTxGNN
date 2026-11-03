@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dexamethasone
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 187
-evidence_level: L2
-indication_count: 10
-last_modified_at: 2026-10-28
-description: "Dexamethasone: predicted new indication Alopecia areata (evidence level L2). Approved use: Macular oedema following BRVO/CRVO, non-infectious posterior uveitis…"
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Dexamethasone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
+description: "Dexamethasone: predicted new indication Alopecia mucinosa (evidence level L5). Approved use: Ozurdex is indicated for the treatment of adult patients with macular…"
 ---
 
 # Dexamethasone
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Dexamethasone: From Retinal Vein Occlusion Macular Oedema and Multiple Myeloma to Alopecia Areata
+## Dexamethasone: Alopecia mucinosa
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Dexamethasone is a potent glucocorticoid, originally authorised in the EU for macular oedema after retinal vein occlusion, non-infectious posterior uveitis, diabetic macular oedema (Ozurdex) and multiple myeloma (Neofordex).
-The TxGNN model predicts it may be effective for **alopecia areata**, with **no registered clinical trials** but **about 20 publications** retrieved, including one randomised controlled trial in children and several cohort studies.
 Evidence is mostly small and heterogeneous, so the prediction is plausible but not yet confirmed by large trials.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Macular oedema following BRVO/CRVO, non-infectious posterior uveitis, diabetic macular oedema (Ozurdex); multiple myeloma (Neofordex) |
-| Predicted New Indication | Alopecia areata |
+| Original Indication | Ozurdex is indicated for the treatment of adult patients with macular oedema following either branch retinal-vein occlusion (BRVO) or central retinal-vein occlusion (CRVO). Ozurdex is indicated for the treatment of adult patients with inflammation of the posterior segment of the eye presenting as no |
+| Predicted New Indication | Alopecia mucinosa |
 | TxGNN Prediction Score | 0.9999 |
-| Evidence Level | L2 |
+| Evidence Level | L5 |
 | EU Market Status | Marketed (valid licences: 2 of 2) |
 | Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Oteracil
-parent: High Evidence (L1-L2)
+parent: AI Predictions (L5)
 nav_order: 455
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Oteracil: predicted new indication Colonic neoplasm (evidence level L1). Approved use: Advanced gastric cancer (with cisplatin)"
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Oteracil"
-predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "rectosigmoid junction neoplasm", "benign neoplasm of cecum", "colonic lymphangioma", "colon leiomyoma", "cavernous hemangioma of colon"]
+predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "rectosigmoid junction neoplasm", "benign neoplasm of cecum", "colonic lymphangioma", "colon leiomyoma", "cavernous hemangioma of colon"]
+description: "Oteracil: predicted new indication Cecum villous adenoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Oteracil
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Oteracil: From Advanced Gastric Cancer to Colonic Neoplasm
+## Oteracil: Cecum villous adenoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Oteracil is a component of the S-1 combination (tegafur/gimeracil/oteracil), originally used to treat advanced gastric cancer and, in certain patients, metastatic colorectal cancer.
-The TxGNN model predicts it may be relevant to **colonic neoplasm**, with **6 clinical trials** and **10 publications** currently linked to this direction.
 Most of this evidence concerns the S-1 combination as a whole, not oteracil alone, and the colorectal use partly overlaps with the existing EU label.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Advanced gastric cancer (with cisplatin); metastatic colorectal cancer in patients who cannot continue another fluoropyrimidine because of hand-foot syndrome or cardiovascular toxicity |
-| Predicted New Indication | Colonic neoplasm |
-| TxGNN Prediction Score | 0.9999 |
-| Evidence Level | L1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Cecum villous adenoma |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 |
 | EU Market Status | Marketed (valid licences: 1 of 1) |
 | Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
