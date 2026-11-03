@@ -38,9 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Bexarotene is an oral rexinoid originally used to treat the skin manifestations of advanced cutaneous T-cell lymphoma (CTCL) that has not responded to at least one systemic treatment.
-The TxGNN model predicts it may be effective for **primary cutaneous B-cell lymphoma**, but **no clinical trials** and only **10 general publications** (mostly cutaneous lymphoma reviews and case reports focused on T-cell disease) support this specific prediction.
-The evidence for this top-ranked prediction is therefore model-based only, and the drug is better supported in related T-cell lymphoma subtypes (see below).
+Bexarotene is an oral rexinoid that selectively activates retinoid X receptors (RXRs) and is marketed in the EU as Targretin. The TxGNN model predicts it may be useful for **primary cutaneous B-cell lymphoma** (score 0.9944). However, **no clinical trials** and only **10 general publications** (reviews, case series and case reports, none testing bexarotene in this disease) are linked to this prediction, so it rests essentially on the model alone.
 
 ---
 
@@ -60,57 +58,44 @@ The evidence for this top-ranked prediction is therefore model-based only, and t
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the retrieved evidence, bexarotene is an RXR-selective rexinoid that regulates gene transcription through RXR heterodimers and induces apoptosis and differentiation in malignant T cells. Its efficacy in CTCL is the basis of its approval.
+Bexarotene activates RXRs, which are ligand-activated transcription factors. Through them it modulates gene expression, cell growth, differentiation and apoptosis. In malignant T cells, this RXR-mediated pro-apoptotic and differentiating activity is the established basis of its use. Detailed mechanism-of-action data were not available in the data compiled for this report.
 
-The high score for primary cutaneous B-cell lymphoma comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as CTCL, since both are primary cutaneous lymphomas, not biological evidence. No B-cell-specific mechanism or clinical data were found. The retrieved literature consists of general cutaneous lymphoma reviews and case series, mostly about T-cell subtypes. The prediction should therefore be treated as a hypothesis, not as supported evidence.
-
-**Other predictions in the same disease family are better supported:**
-
-| Predicted Indication | Score | Evidence Level | Assessment |
-|------|------|------|------|
-| Lymphosarcoma | 0.9912 | L5 | Mapping of CTCL data. Not evidence for lymphosarcoma as a distinct entity |
+The high score most likely reflects the close biological and clinical proximity of cutaneous lymphoma subtypes. Both T-cell and B-cell forms are skin-limited lymphoproliferative disorders and are often discussed together in classification schemes and treatment reviews. No B-cell-specific mechanism for bexarotene has been shown. The retrieved literature consists of general cutaneous lymphoma reviews and case reports that mostly concern T-cell subtypes. The mechanistic link to B-cell disease therefore remains a hypothesis.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials are registered for primary cutaneous B-cell lymphoma.
-
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00056056](https://clinicaltrials.gov/study/NCT00056056) | Phase 3 | Terminated | 93 | Randomized trial of bexarotene plus PUVA vs PUVA alone in mycosis fungoides. Terminated early, so conclusions are limited |
-| [NCT00306969](https://clinicaltrials.gov/study/NCT00306969) | Phase 1/2 | Completed | 18 | Oral bexarotene with photopheresis in CTCL; safety and tolerability pilot |
-| [NCT00030589](https://clinicaltrials.gov/study/NCT00030589) | Phase 2 | Unknown | Not reported | Dose-randomized bexarotene plus PUVA in stage IB–IIA CTCL |
-| [NCT00660231](https://clinicaltrials.gov/study/NCT00660231) | Phase 2 | Completed | 36 | Gemcitabine plus bexarotene in progressive or refractory CTCL |
-| [NCT01134341](https://clinicaltrials.gov/study/NCT01134341) | Phase 1 | Completed | 34 | Dose-finding of pralatrexate plus oral bexarotene in relapsed or refractory CTCL |
-| [NCT00255801](https://clinicaltrials.gov/study/NCT00255801) | Phase 2 | Completed | 37 | Liposomal doxorubicin followed by bexarotene in advanced CTCL (bexarotene not the primary studied agent) |
-| [NCT00178841](https://clinicaltrials.gov/study/NCT00178841) | Phase 2 | Completed | 4 | Small pilot of rosiglitazone plus bexarotene in CTCL |
+Currently no related clinical trials registered for primary cutaneous B-cell lymphoma.
 
 ---
 
 ## Literature Evidence
 
-Literature retrieved for primary cutaneous B-cell lymphoma (general cutaneous lymphoma reviews, case reports):
+None of these publications tests bexarotene in primary cutaneous B-cell lymphoma. They provide background on cutaneous lymphomas and their management.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [14616487](https://pubmed.ncbi.nlm.nih.gov/14616487/) | 2003 | Review | Australas J Dermatol | Management of primary cutaneous lymphomas (T- and B-cell); retinoids listed among classical options |
-| [20806174](https://pubmed.ncbi.nlm.nih.gov/20806174/) | 2010 | Review | Ther Umsch | Overview of cutaneous lymphomas and the WHO/EORTC classification |
-| [31932947](https://pubmed.ncbi.nlm.nih.gov/31932947/) | 2020 | Review | Der Pathologe | Systemic therapies for advanced disease and Sezary syndrome include bexarotene |
-| [19786826](https://pubmed.ncbi.nlm.nih.gov/19786826/) | 2009 | Review | Skin Pharmacol Physiol | New skin-directed therapies for cutaneous lymphomas |
-| [29881891](https://pubmed.ncbi.nlm.nih.gov/29881891/) | 2018 | Case series | Hautarzt | Case series of 163 patients with primary cutaneous lymphoma |
-| [15861527](https://pubmed.ncbi.nlm.nih.gov/15861527/) | 2005 | Case report | Croat Med J | EBV-associated cutaneous B-cell lymphoma in a patient with mycosis fungoides, treated with topical acyclovir (no bexarotene data) |
-
-None of these provides bexarotene treatment data in B-cell lymphoma.
+| [14616487](https://pubmed.ncbi.nlm.nih.gov/14616487/) | 2003 | Review | Australas J Dermatol | Management of primary cutaneous lymphomas of T- and B-cell type; therapies include corticosteroids, phototherapy, radiotherapy, retinoids and systemic chemotherapy |
+| [19786826](https://pubmed.ncbi.nlm.nih.gov/19786826/) | 2009 | Review | Skin Pharmacol Physiol | New and experimental skin-directed therapies; cure is often not possible, so the aim is disease control and symptom relief |
+| [20806174](https://pubmed.ncbi.nlm.nih.gov/20806174/) | 2010 | Review | Ther Umsch | Overview of cutaneous T- and B-cell lymphomas and the WHO/EORTC classification |
+| [31511903](https://pubmed.ncbi.nlm.nih.gov/31511903/) | 2019 | Review | Hautarzt | Clinical presentation, diagnosis and stage-based treatment; bexarotene is named among systemic options for later-stage T-cell disease |
+| [31932947](https://pubmed.ncbi.nlm.nih.gov/31932947/) | 2020 | Review | Pathologe | Same overview as above, with systemic options including bexarotene, interferon and brentuximab vedotin for advanced T-cell disease |
+| [29881891](https://pubmed.ncbi.nlm.nih.gov/29881891/) | 2018 | Case series | Hautarzt | 163 patients with primary cutaneous lymphoma from routine practice |
+| [22508770](https://pubmed.ncbi.nlm.nih.gov/22508770/) | 2012 | Case series | Arch Dermatol | Five cases of a follicular helper T-cell lymphoma subtype |
+| [23941646](https://pubmed.ncbi.nlm.nih.gov/23941646/) | 2013 | Case report | J Cutan Pathol | Diagnostic pitfalls; a case first misdiagnosed as follicle-centre B-cell lymphoma, with rituximab failure |
+| [15861527](https://pubmed.ncbi.nlm.nih.gov/15861527/) | 2005 | Case report | Croat Med J | Epstein-Barr virus-associated cutaneous B-cell lymphoma treated with topical acyclovir; bexarotene not studied |
+| [15636695](https://pubmed.ncbi.nlm.nih.gov/15636695/) | 2004 | Case report | Clin Lymphoma | Lymphomatoid papulosis from childhood with a small-bowel large-cell lymphoma |
 
 ---
 
 ## EU Market Information
 
+Bexarotene is currently marketed in the EU, with one valid licence.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/000326 (cancelled) | Targretin | Not specified | Targretin capsules are indicated for the treatment of skin manifestations of advanced stage cutaneous T-cell lymphoma (CTCL) patients refractory to at least one systemic treatment. |
+| EMEA/H/C/000326 | Targretin | Not specified | Targretin capsules are indicated for the treatment of skin manifestations of advanced stage cutaneous T-cell lymphoma (CTCL) patients refractory to at least one systemic treatment. |
 
 ---
 
@@ -118,22 +103,21 @@ None of these provides bexarotene treatment data in B-cell lymphoma.
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (oral rexinoid, RXR agonist; described in the literature as non-cytotoxic) |
-| Myelosuppression Risk | Please refer to the SmPC warnings and precautions (the knowledge graph lists leukopenia as a contraindication-related condition) |
+| Cytotoxicity Classification | Targeted therapy (rexinoid, RXR agonist) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | Lipids, thyroid function, liver function, and blood counts (based on the literature on dyslipidemia and central hypothyroidism with bexarotene) |
-| Handling Protection | Please refer to the SmPC warnings and precautions. Teratogenicity precautions apply |
+| Monitoring Items | Please refer to the SmPC warnings and precautions (typically blood counts, liver function, lipids and thyroid function) |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
-- **Contraindication-related conditions (from the knowledge graph, not label text):** liver failure, liver disease, pancreatitis, gallbladder disease, biliary tract disease, obstructive jaundice, hypothyroidism, myxedema, congenital hypothyroidism, diabetes mellitus, diabetic ketoacidosis, substance abuse/dependence, leukopenia.
-- **Known adverse effects from the literature:** dyslipidemia (more than one-third of patients show triglyceride abnormalities) and central hypothyroidism, which often needs levothyroxine. Teratogenicity is also a key concern.
-- **Extracutaneous progression:** case reports describe progression of internal or nodal disease, including Hodgkin lymphoma, during bexarotene treatment despite skin improvement. Lymph node surveillance is advisable.
-- **Drug interactions:** 100 interactions were identified. Major interactions include GLP-1 receptor agonists and related antidiabetic drugs (albiglutide, dulaglutide, exenatide, alogliptin) and eluxadoline. Moderate interactions include corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone), sulfonylureas (glimepiride, glipizide, glyburide, chlorpropamide, acetohexamide), cisapride, eliglustat, and granisetron. Minor interactions include aprepitant, clarithromycin, and clotrimazole. CYP3A4-related interactions should be considered.
+- **Drug Interactions**: 100 interactions are recorded. The main ones are:
+  - **Major**: albiglutide, alogliptin, dulaglutide, exenatide, eluxadoline.
+  - **Moderate**: corticosteroids (hydrocortisone, triamcinolone, dexamethasone, betamethasone), sulfonylureas (acetohexamide, chlorpropamide, glimepiride, glipizide, glyburide), cisapride, eliglustat and granisetron.
 
-Please also refer to the SmPC for full label warnings and contraindications.
+Package-insert warnings and contraindications were not available in the data compiled for this report. Please refer to the SmPC for full safety information.
 
 ---
 
@@ -142,13 +126,15 @@ Please also refer to the SmPC for full label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for primary cutaneous B-cell lymphoma rests on model score alone (L5). There are no trials, no B-cell-specific mechanism, and the literature is general and T-cell focused.
+The prediction score is high (0.9944), but no clinical trial and no publication directly tests bexarotene in primary cutaneous B-cell lymphoma. The evidence level is therefore L5, model prediction only. A mechanistic extrapolation from T-cell disease is not enough to support further development.
 
 **To proceed, the following is needed:**
-- Mechanistic or preclinical evidence of RXR agonist activity in cutaneous B-cell lymphoma
-- Mechanism of action (MOA) data from DrugBank
-- EMA SmPC warnings and contraindications (a blocking data gap for safety screening)
-- Clarification of the cancelled EU authorization status and available formulations
+- Preclinical or mechanistic data showing that RXR activation has an effect in malignant B cells
+- Any clinical case series or early-phase study of bexarotene in cutaneous B-cell lymphoma
+- Detailed mechanism-of-action data
+- Review of the SmPC warnings and contraindications, including the recorded interactions, to define a safety plan
+- Assessment of how bexarotene compares with the current standard options for this B-cell disease
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

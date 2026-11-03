@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 ## One-Sentence Summary
 
-Aripiprazole is an atypical antipsychotic originally used to treat schizophrenia and manic episodes in Bipolar I Disorder.
+Aripiprazole is an antipsychotic medicine that is currently marketed in the European Union. The TxGNN model predicts it may be relevant for **gaze palsy, familial horizontal, with progressive scoliosis**, a rare genetic disorder. **No clinical trials and no publications** were found for this prediction, so it rests on the model output alone.
 
 ## Quick Overview
 
@@ -50,53 +50,23 @@ Aripiprazole is an atypical antipsychotic originally used to treat schizophrenia
 | Evidence Level | L5 |
 | EU Market Status | Marketed (valid licences: 6 of 6) |
 | Number of Authorizations | 6 (valid: 6) |
-| Recommended Decision | Proceed with Guardrails |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Aripiprazole is a dopamine D2 / 5-HT1A partial agonist and a 5-HT2A antagonist. This profile supports mood stabilization in bipolar mania, which is an approved use, and also adjunctive augmentation of antidepressants in major depressive disorder (MDD).
+Currently, detailed mechanism of action data for aripiprazole is not available in the data compiled for this report. Aripiprazole is generally classed as an atypical antipsychotic, acting mainly on dopamine and serotonin receptors.
 
-The bipolar I manic-episode indication is already on the label. The repurposing signal therefore applies mainly to adjunctive use in unipolar MDD, especially in patients who respond inadequately to antidepressants. "Major affective disorder" is a broad label that covers both. Several Phase 3 placebo-controlled trials and multiple systematic reviews and network meta-analyses support this direction.
-
-Note that formal mechanism-of-action data were not available in the data compiled for this report. The mechanistic description above is based on the drug's generally known pharmacology.
+The predicted condition is a rare genetic disorder of axon guidance, linked to the ROBO3 gene. It causes impaired horizontal eye movement and progressive scoliosis. No mechanistic rationale connecting aripiprazole's pharmacology to this disorder could be identified. The high score (0.9960) is a computational output of the model, and no trial or publication supports it. This prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
-Of the registered trials, those with the highest relevance are listed below (up to 10).
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00095823](https://clinicaltrials.gov/study/NCT00095823) | Phase 3 | Completed | 1200 | 14-week randomized, double-blind, placebo-controlled study of adjunctive aripiprazole in MDD |
-| [NCT00095758](https://clinicaltrials.gov/study/NCT00095758) | Phase 3 | Completed | 1151 | 14-week randomized, double-blind, placebo-controlled study of adjunctive aripiprazole in MDD |
-| [NCT01421342](https://clinicaltrials.gov/study/NCT01421342) | Phase 3 | Completed | 1522 | VA VAST-D: aripiprazole or bupropion augmentation vs. switching to bupropion in antidepressant-resistant MDD |
-| [NCT00683852](https://clinicaltrials.gov/study/NCT00683852) | Phase 3 | Completed | 225 | Double-blind, placebo-controlled study of reduced-dose aripiprazole adjunctive to antidepressant therapy in MDD |
-| [NCT00876343](https://clinicaltrials.gov/study/NCT00876343) | Phase 3 | Completed | 586 | Placebo-controlled study of adjunctive aripiprazole with SSRI/SNRI in MDD |
-| [NCT00105196](https://clinicaltrials.gov/study/NCT00105196) | Phase 3 | Completed | 349 | 14-week double-blind, placebo-controlled adjunctive study in MDD with incomplete antidepressant response |
-| [NCT00095745](https://clinicaltrials.gov/study/NCT00095745) | Phase 3 | Completed | 1002 | 52-week open-label safety and tolerability study of adjunctive aripiprazole in MDD |
-| [NCT01111539](https://clinicaltrials.gov/study/NCT01111539) | Phase 3 | Terminated | 211 | Double-blind aripiprazole/escitalopram combination study in MDD; terminated early |
-| [NCT00080314](https://clinicaltrials.gov/study/NCT00080314) | Phase 3 | Completed | 400 | Aripiprazole vs. placebo in bipolar I disorder with a major depressive episode |
-| [NCT02960763](https://clinicaltrials.gov/study/NCT02960763) | Phase 4 | Completed | 742 | Comparison of antidepressant strategies in older adults with treatment-resistant depression |
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [42090141](https://pubmed.ncbi.nlm.nih.gov/42090141/) | 2026 | Systematic review / network meta-analysis | JAMA Psychiatry | Adjunctive antipsychotics in MDD; the FDA has approved 5 atypical antipsychotics on the basis of efficacy and safety evidence |
-| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Systematic review / network meta-analysis | J Affect Disord | Comparison of augmentation agents in treatment-resistant depression |
-| [39739012](https://pubmed.ncbi.nlm.nih.gov/39739012/) | 2025 | Systematic review / network meta-analysis | Neuropsychopharmacology | Relative effectiveness of antidepressant treatments in treatment-resistant depression |
-| [35861202](https://pubmed.ncbi.nlm.nih.gov/35861202/) | 2023 | Systematic review / meta-analysis | J Psychopharmacol | Augmentation and combination treatments for early-stage treatment-resistant depression |
-| [34238049](https://pubmed.ncbi.nlm.nih.gov/34238049/) | 2021 | Systematic review / meta-analysis | J Psychopharmacol | Antidepressants plus second-generation antipsychotics vs. esketamine vs. lithium |
-| [38454079](https://pubmed.ncbi.nlm.nih.gov/38454079/) | 2024 | RCT | Mol Psychiatry | ASCERTAIN-TRD: aripiprazole or rTMS augmentation vs. switching to venlafaxine |
-| [36855876](https://pubmed.ncbi.nlm.nih.gov/36855876/) | 2023 | Review | Am J Psychiatry | Role of antipsychotics in the evolving treatment landscape for treatment-resistant depression |
-| [37149344](https://pubmed.ncbi.nlm.nih.gov/37149344/) | 2023 | Review | Psychiatr Clin North Am | Antidepressants and atypical antipsychotics in treatment-resistant depression |
-| [42283956](https://pubmed.ncbi.nlm.nih.gov/42283956/) | 2026 | Network meta-analysis | Adv Ther | Efficacy and safety of lumateperone vs. other approved atypical antipsychotics as adjunctive MDD treatment |
-| [37815563](https://pubmed.ncbi.nlm.nih.gov/37815563/) | 2023 | Review | JAMA | Diagnosis and treatment of bipolar disorder |
-
-One further paper (PMID 38669232), a meta-analysis of aripiprazole or bupropion augmentation, has been retracted and should not be relied upon.
+Currently no related literature available.
 
 ## EU Market Information
-
-All six authorizations are valid, so aripiprazole is currently marketed under valid EU marketing authorizations.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -108,33 +78,22 @@ All six authorizations are valid, so aripiprazole is currently marketed under va
 
 ## Safety Considerations
 
-- **Disease-level contraindication signals (from the knowledge graph, not label text)**: Aripiprazole is linked to contraindications or cautions in the following groups:
-  - Cardiovascular: orthostatic hypotension, hypotensive disorder, myocardial infarction, myocardial ischemia, coronary artery disease, sudden cardiac arrest, heart conduction disease, cerebrovascular disorder
-  - Metabolic: diabetes mellitus, hyperglycemia, diabetic ketoacidosis, hyperlipidemia, obesity
-  - Haematological: neutropenia, agranulocytosis, leukopenia, severe congenital neutropenia
-  - Neurological: epilepsy, neuroleptic malignant syndrome, multiple system atrophy
-- **Drug Interactions**: 100 interactions were identified. The sample reviewed shows mostly Moderate-level interactions, including:
-  - Antidiabetic agents (metformin, pioglitazone, alogliptin, canagliflozin, acarbose), which may be relevant given aripiprazole's glycaemic effects
-  - Anticholinergics (atropine, hyoscyamine, clidinium)
-  - CYP-related agents (clarithromycin, cimetidine)
-  - **Bupropion is the only Major-level interaction in the reviewed sample** (relevant because it is commonly used in depression)
-- **Other safety signal**: A 2024 systematic review reports impulsive-compulsive behaviors associated with aripiprazole.
+- **Drug Interactions**: The interaction query returned 100 records; the first 20 are summarised here. The most significant is **Bupropion (Major)**. Moderate-level interactions include antidiabetic agents (acarbose, albiglutide, alogliptin, metformin, pioglitazone, canagliflozin, acetohexamide, chlorpropamide), anticholinergic or antispasmodic agents (atropine, hyoscyamine, clidinium), and others such as epinephrine, famotidine, cimetidine, loperamide, aprepitant, cisapride, clarithromycin and clotrimazole.
 
-Please refer to the SmPC for formal warnings and contraindications.
+Warnings and contraindications from the product information were not available in the compiled data. Please refer to the SmPC for full safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Several large Phase 3 placebo-controlled trials and multiple network meta-analyses support adjunctive aripiprazole in major depressive disorder, giving an evidence level of L1. However, the bipolar component is already on the label, and all six EU authorizations are currently valid.
+The prediction is supported only by a model score, with no trials, no publications and no identifiable mechanistic link. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- Clarify the target indication (adjunctive treatment in unipolar MDD or treatment-resistant depression) rather than the broad "major affective disorder" label
-- Obtain label-based warnings and contraindications from the SmPC, because they were unavailable for this report
-- Obtain formal mechanism-of-action data
-- Review the regulatory path in the EU given the cancelled authorizations
-- Establish a monitoring plan for metabolic, cardiovascular, haematological and drug-interaction risks, with particular attention to bupropion co-prescription
+- Any preclinical or clinical evidence linking aripiprazole to ROBO3-related horizontal gaze palsy
+- Mechanism of action data for aripiprazole to assess biological plausibility
+- Safety information from the SmPC (warnings and contraindications), including a review of the interaction profile for the target population
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

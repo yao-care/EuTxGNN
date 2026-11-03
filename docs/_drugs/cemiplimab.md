@@ -6,9 +6,9 @@ nav_order: 138
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-11-03
-description: "Cemiplimab: predicted new indication Gallbladder adenosquamous carcinoma (evidence level L5). Approved use: Metastatic or locally advanced cutaneous squamous cell carcinoma (not…"
 monitor_inn: "Cemiplimab"
 predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]
+description: "Cemiplimab: predicted new indication Gallbladder adenosquamous carcinoma (evidence level L5). Approved use: Cutaneous Squamous Cell Carcinoma Libtayo as monotherapy is indicated…"
 ---
 
 # Cemiplimab
@@ -33,19 +33,20 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Cemiplimab: From Cutaneous Squamous Cell Carcinoma to Gallbladder Adenosquamous Carcinoma
+## Cemiplimab: Gallbladder adenosquamous carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Cemiplimab is a PD-1 blocking antibody originally used to treat cutaneous squamous cell carcinoma (CSCC), basal cell carcinoma, non-small cell lung cancer and cervical cancer.
-The TxGNN model predicts it may be effective for **gallbladder adenosquamous carcinoma**, but currently **0 clinical trials** and **0 publications** support this specific prediction. It is a model-only prediction.
+Cemiplimab is a PD-1 blocking antibody used in oncology.
+The TxGNN model predicts it may be relevant for **gallbladder adenosquamous carcinoma**,
+but **no clinical trials and no publications** were found in the data compiled for this report, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Metastatic or locally advanced cutaneous squamous cell carcinoma (not candidates for curative surgery or radiation); also adjuvant CSCC, basal cell carcinoma, NSCLC and cervical cancer |
+| Original Indication | Cutaneous Squamous Cell Carcinoma Libtayo as monotherapy is indicated for the treatment of adult patients with metastatic or locally advanced cutaneous squamous cell carcinoma (mCSCC or laCSCC) who are not candidates for curative surgery or curative radiation. Libtayo as monotherapy is indicated for |
 | Predicted New Indication | Gallbladder adenosquamous carcinoma |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
@@ -55,19 +56,17 @@ The TxGNN model predicts it may be effective for **gallbladder adenosquamous car
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, cemiplimab is a monoclonal antibody that targets human PD-1 (PDCD1/CD279). It blocks the PD-1/PD-L1 interaction (IC50 below 1 nM in an ELISA), which is expected to restore T-cell antitumour activity. Its efficacy in CSCC has been demonstrated: in early trials about 50% of patients with advanced CSCC responded, with durable responses in 82% of responders with metastatic disease.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Pharmacology data indicate that cemiplimab is an antibody directed at human PD-1 (PDCD1, CD279). It blocks the PD-1/PD-L1 interaction with an IC50 below 1 nM in an ELISA. Blocking this pathway can restore T-cell activity against tumour cells.
 
-The link to gallbladder adenosquamous carcinoma is speculative. The tumour has a squamous component, which may share some biology with CSCC. However, PD-L1 status and tumour mutational burden in this rare tumour are not established by the available data, and no clinical evidence was found. The prediction should be treated as a hypothesis only.
-
-Other high-scoring predictions follow a similar pattern, with scores of about 0.9999. They include glottis squamous cell carcinoma, supraglottis squamous cell carcinoma, non-keratinizing sinonasal squamous cell carcinoma, rectal cloacogenic carcinoma and lung occult squamous cell carcinoma. Most of these also have no supporting evidence. External ear basal cell carcinoma is the only one with any publication, and it is largely covered by the existing basal cell carcinoma indication.
+The link to gallbladder adenosquamous carcinoma is speculative. The tumour has a squamous component, and cemiplimab is already used in a squamous-cell skin cancer. However, PD-L1 status and tumour mutational burden in this rare tumour are not established by the available data. The prediction should therefore be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for gallbladder adenosquamous carcinoma.
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for gallbladder adenosquamous carcinoma.
+Currently no related literature available.
 
 ## EU Market Information
 
@@ -79,7 +78,7 @@ Currently no related literature available for gallbladder adenosquamous carcinom
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Immunotherapy (anti-PD-1 monoclonal antibody), not a conventional cytotoxic |
+| Cytotoxicity Classification | Immunotherapy (PD-1 checkpoint inhibitor) |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
 | Monitoring Items | Please refer to the SmPC warnings and precautions |
@@ -87,7 +86,7 @@ Currently no related literature available for gallbladder adenosquamous carcinom
 
 ## Safety Considerations
 
-- **Drug Interactions**: 10 interactions were identified. Nine are rated Moderate and involve corticosteroids: hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisolone, prednisone, methylprednisolone and deflazacort. The tenth is the pharmacological target entry (PD-1), which is not a clinical interaction.
+- **Drug Interactions**: Moderate-level interactions are listed with corticosteroids: hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisolone, prednisone, methylprednisolone and deflazacort. Systemic corticosteroids may counteract the immune activation that PD-1 blockade relies on, so their use needs review.
 
 For warnings and contraindications, please refer to the SmPC.
 
@@ -96,14 +95,14 @@ For warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone (L5), with no clinical trials or literature for gallbladder adenosquamous carcinoma. The EU authorization is currently cancelled, and safety label data is incomplete.
+The prediction is supported only by a very high model score (0.9999). No trial or publication addresses gallbladder adenosquamous carcinoma, so the evidence level is L5.
 
 **To proceed, the following is needed:**
-- Systematic search for clinical or real-world data on PD-1 inhibitors in gallbladder and biliary adenosquamous carcinoma
-- PD-L1 expression, mismatch repair/MSI and tumour mutational burden data for this tumour type
-- Detailed mechanism of action data
-- Warnings and contraindications from the SmPC, and clarification of the current EU authorization status
-- Clinical review of the corticosteroid interactions, given that steroids are commonly used to manage immune-related adverse events
+- Published or registered studies of PD-1 blockade in gallbladder adenosquamous carcinoma
+- PD-L1 expression and tumour mutational burden data for this tumour type
+- Review of SmPC warnings and contraindications to complete safety screening
+- Detailed mechanism-of-action data
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

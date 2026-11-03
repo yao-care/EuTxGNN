@@ -38,7 +38,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Ferric maltol is an oral iron replacement medicine for adults with iron deficiency. There are currently **no clinical trials and no publications** supporting this direction, so it remains a model prediction only.
+Ferric maltol is an oral iron replacement used in adults for iron deficiency.
+The TxGNN model predicts it may be relevant to **vitamin B12- and folate-independent constitutional megaloblastic anemia**, but **no clinical trials and no publications** were found to support this direction.
 
 ## Quick Overview
 
@@ -54,11 +55,9 @@ Ferric maltol is an oral iron replacement medicine for adults with iron deficien
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Ferric maltol is an oral iron replacement, so it supplies iron to the body.
+Currently, detailed mechanism of action data is not available. Ferric maltol is an oral iron preparation that supplies iron to the body.
 
-Plummer-Vinson syndrome is characterized by iron deficiency anemia, dysphagia and esophageal webs. Correcting iron deficiency is therefore a plausible mechanistic link, and the high TxGNN score probably reflects this overlap with the drug's approved use.
-
-There is an important limit. The esophageal web component is not expected to respond to iron repletion alone, so any benefit would likely be confined to the anemia part of the condition. No trials or literature were provided, so this remains a hypothesis.
+The predicted condition is a megaloblastic anemia that does not depend on vitamin B12 or folate. It is not primarily an iron-deficiency state, so the mechanistic rationale for iron supplementation is weak. The prediction most likely reflects a general association between anemias and iron-related treatments in the model's training data rather than a specific biological link. No clinical evidence for this disease was found in the data compiled for this report.
 
 ## Clinical Trial Evidence
 
@@ -76,22 +75,27 @@ Currently no related literature available.
 
 ## Safety Considerations
 
-- **Disease-level cautions (from model data, not label text)**: The data compiled for this report flag possible contraindications in hereditary hemochromatosis, hemosiderosis, iron metabolism disease and Wilson disease. These are not confirmed by label text and should be checked against the SmPC.
+Diseases for which the model's data record a contraindication relationship with this drug (not taken from label text):
+- Hereditary hemochromatosis
+- Hemosiderosis
+- Iron metabolism disease
+- Wilson disease
 
-No drug interaction records were found in the data compiled for this report. Please refer to the SmPC for warnings, contraindications and interaction information.
+No drug interaction records were found. Please refer to the SmPC for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score and a plausible link through iron deficiency. No trials or publications address Plummer-Vinson syndrome directly, so the evidence level is L5. The esophageal web feature is unlikely to respond to iron alone.
+The prediction score is high, but it rests on model output alone (evidence level L5). There are no trials or publications for this disease, and the biological rationale is weak because this anemia is not driven by iron deficiency.
 
 **To proceed, the following is needed:**
-- Published case series or clinical studies of oral iron in Plummer-Vinson syndrome
+- Clinical or mechanistic evidence linking iron supplementation to this specific anemia
 - Mechanism of action data for ferric maltol
-- Safety information parsed from the SmPC (warnings and contraindications)
-- Assessment of whether the anemia component alone would justify a new indication, given that the esophageal webs would need separate management
+- Full safety information from the SmPC, including warnings and contraindications
+- Confirmation of route and dosage-form compatibility for the proposed use
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

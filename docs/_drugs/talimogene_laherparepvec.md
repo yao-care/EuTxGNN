@@ -38,10 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Talimogene laherparepvec (Imlygic) is an oncolytic virus therapy originally used to treat adults with unresectable melanoma that has spread regionally or to distant sites, without bone, brain, lung or other visceral disease.
-At present, **no clinical trials and no publications** support this direction, so the prediction is purely computational.
-
----
+Talimogene laherparepvec is an oncolytic herpes simplex virus that is injected directly into tumours. The TxGNN model predicts it may be useful for **glottis squamous cell carcinoma**, but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
@@ -55,75 +52,59 @@ At present, **no clinical trials and no publications** support this direction, s
 | Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known information, talimogene laherparepvec is an oncolytic virus given by injection directly into tumour lesions, and its efficacy in melanoma is the basis of its approval. The analysis of the rationale suggests it acts through direct tumour-cell destruction and immune stimulation, which is not specific to one tumour histology.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on what is known about the product class, talimogene laherparepvec is an oncolytic herpes simplex virus engineered to express GM-CSF. It is designed to replicate in tumour tissue and stimulate an immune response. This approach is not specific to one tumour histology.
 
-If it refers to a cutaneous melanoma subtype, the link to the approved indication would be biologically plausible, since the same type of tumour would be treated by direct injection. This link is inferred only.
-
-Other top-ranked predictions are also supported only by the model. They include pediatric leptomeningeal melanoma, epithelioid cell uveal melanoma, glottis squamous cell carcinoma, lung occult squamous cell carcinoma, rectal cloacogenic carcinoma, gallbladder adenosquamous carcinoma, non-small cell squamous lung carcinoma, external ear basal cell carcinoma and urethral verrucous carcinoma. Many of these involve visceral, lung or central nervous system disease, which the current label excludes, or sites where injection is difficult or carries added safety concerns.
-
----
+Glottis squamous cell carcinoma is a head and neck tumour that can, in principle, be reached for direct injection. This makes the general oncolytic and immune-stimulating mechanism conceivably applicable. However, the link is theoretical: no trials or literature were supplied. Injection into the larynx also raises airway-related safety concerns.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| EMEA/H/C/002771 (cancelled) | Imlygic | Not specified | Treatment of adults with unresectable melanoma that is regionally or distantly metastatic (Stage IIIB, IIIC and IVM1a) with no bone, brain, lung or other visc... |
-
----
+| EMEA/H/C/002771 | Imlygic | Not specified | Treatment of adults with unresectable melanoma that is regionally or distantly metastatic (Stage IIIB, IIIC and IVM1a) with no bone, brain, lung or other visc... |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Immunotherapy (oncolytic virus) |
+| Cytotoxicity Classification | Immunotherapy (oncolytic viral therapy), not a conventional cytotoxic agent |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
 | Monitoring Items | Please refer to the SmPC warnings and precautions |
-| Handling Protection | Please refer to the SmPC warnings and precautions; as a live, genetically modified herpes simplex virus, it requires appropriate biosafety handling |
-
----
+| Handling Protection | Please refer to the SmPC; as a live viral product it needs biosafety precautions during preparation and administration |
 
 ## Safety Considerations
 
-- **Drug Interactions**: The interaction screening found 100 potential interactions. The main ones are:
-  - **Major**: corticosteroids (hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisone, prednisolone), dexrazoxane, radiopharmaceuticals and radioimmunotherapies (iobenguane I-131, ibritumomab tiuxetan, tositumomab), levamisole, trimetrexate, mercaptopurine and dupilumab.
-  - **Moderate**: antivirals such as acyclovir (including topical) and penciclovir (topical). These are relevant because the product is a live herpes simplex virus.
-- **Considerations for the predicted indications**: Injection into the central nervous system (leptomeningeal disease) raises concerns about neurotoxicity and herpes encephalitis. Laryngeal and urethral injection raise airway and feasibility concerns.
+- **Drug Interactions**: 100 interactions were found in the interaction screen. The main ones are rated Major:
+  - Corticosteroids: hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisone, prednisolone
+  - Radiopharmaceuticals and related agents: iobenguane (I-131), ibritumomab tiuxetan, tositumomab
+  - Other agents: dexrazoxane, levamisole, trimetrexate, mercaptopurine, dupilumab
+  - Moderate-level interactions include aciclovir and penciclovir (topical). These antivirals may act against the herpes-virus-based product.
 
 For warnings and contraindications, please refer to the SmPC.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score.
+The prediction is supported only by the TxGNN model, with no clinical trials or publications for this tumour. Safety concerns about injecting into the airway add to the uncertainty.
 
 **To proceed, the following is needed:**
-- Clarify what "CMM7" refers to and map it to a defined clinical entity
-- Obtain the SmPC warnings and contraindications for a safety screening
-- Obtain detailed mechanism of action data
-- Search for clinical and preclinical evidence in the predicted indications, starting with the melanoma-related ones
-- Assess route of administration and feasibility of injection for each predicted site
-- Clarify the reason for the cancelled EU authorization and the current regulatory status
+- Preclinical or early clinical evidence of oncolytic virus activity in glottis squamous cell carcinoma
+- Mechanism of action data and the SmPC warnings and contraindications
+- Assessment of the feasibility and airway safety of laryngeal injection
+- Review of the interaction risk with corticosteroids and antivirals
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
