@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Glecaprevir
-parent: Medium Evidence (L3-L4)
+parent: AI Predictions (L5)
 nav_order: 286
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
-description: "Glecaprevir: predicted new indication HIV infectious disease (evidence level L5). Approved use: Chronic hepatitis C virus (HCV) infection in adults and children aged…"
+last_modified_at: 2026-11-03
 monitor_inn: "Glecaprevir"
 predicted_indications: ["HIV infectious disease", "hepatitis B virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Glecaprevir: predicted new indication HIV infectious disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Glecaprevir
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,68 +33,57 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Glecaprevir: From Chronic Hepatitis C to HIV Infectious Disease
+## Glecaprevir: HIV infectious disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Glecaprevir is an HCV NS3/4A protease inhibitor, originally used (as part of glecaprevir/pibrentasvir, Maviret) to treat chronic hepatitis C in adults and children aged 3 years and older.
-The TxGNN model predicts it may be effective for **HIV infectious disease**, but the **6 clinical trials** and **19 publications** linked to this prediction are almost entirely about treating HCV in people who also have HIV, not about treating HIV itself.
-This prediction is best viewed as a research question rather than a true repurposing opportunity.
-
----
+Glecaprevir is a hepatitis C virus (HCV) protease inhibitor used in the glecaprevir/pibrentasvir combination.
+The TxGNN model lists **HIV infectious disease** as its top prediction, but the studies found concern HCV treatment in people who also have HIV, not treatment of HIV itself.
+Evidence for HIV as a treatment target is at **Level L5 (model prediction only)**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic hepatitis C virus (HCV) infection in adults and children aged 3 years and older |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 0.9987 |
-| Evidence Level | L3 (observational and review literature only; the Phase 3 trials address HCV, not HIV) |
+| Evidence Level | L5 |
 | EU Market Status | Marketed (valid licences: 1 of 1) |
 | Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, glecaprevir is an HCV NS3/4A protease inhibitor used together with pibrentasvir (an NS5A inhibitor). Its efficacy in chronic hepatitis C is well established, but it has no known direct anti-HIV activity.
+Detailed mechanism of action data is not available for glecaprevir in the data compiled for this report. It is known to be an inhibitor of the HCV NS3/4A protease, and it is used together with pibrentasvir, an NS5A inhibitor.
 
-The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as the frequent co-infection of HIV and HCV, not biological evidence of a genuine antiviral effect against HIV. HIV and HCV are different viruses with different protease targets and replication strategies. Any clinical value in HIV-positive patients lies in treating their HCV, which is already covered by the approved indication. This is therefore not true repurposing for HIV.
-
----
+HIV uses a different protease and a different replication strategy from HCV, so direct anti-HIV activity is not expected. The high score most likely reflects shared features among antiviral drugs and the frequent co-occurrence of HIV and HCV in the same patients. The trials found enrol people with both infections, and in them glecaprevir/pibrentasvir treats the hepatitis C component. This is not evidence that the drug treats HIV.
 
 ## Clinical Trial Evidence
 
+The trials below involve HCV treatment, with or without HIV co-infection. None tests glecaprevir as a treatment for HIV infection.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02738138](https://clinicaltrials.gov/study/NCT02738138) | Phase 3 | Completed | 153 | EXPEDITION-2: glecaprevir/pibrentasvir in adults with HCV genotype 1-6 and HIV-1 co-infection; measures HCV outcomes |
-| [NCT03222583](https://clinicaltrials.gov/study/NCT03222583) | Phase 3 | Completed | 546 | Randomized, double-blind, placebo-controlled study in non-cirrhotic Asian adults with HCV, with or without HIV co-infection |
-| [NCT03235349](https://clinicaltrials.gov/study/NCT03235349) | Phase 3 | Completed | 160 | Open-label study in Asian adults with HCV and compensated cirrhosis, with or without HIV co-infection |
-| [NCT02634008](https://clinicaltrials.gov/study/NCT02634008) | Phase 3 | Completed | 83 | Pilot study of DAA regimens, including glecaprevir/pibrentasvir, in recently acquired HCV with or without HIV |
+| [NCT02738138](https://clinicaltrials.gov/study/NCT02738138) | Phase 3 | Completed | 153 | EXPEDITION-2: efficacy and safety of glecaprevir/pibrentasvir for HCV in adults with HIV-1 co-infection |
+| [NCT03222583](https://clinicaltrials.gov/study/NCT03222583) | Phase 3 | Completed | 546 | Placebo-controlled HCV study in non-cirrhotic Asian adults, with or without HIV co-infection |
+| [NCT03235349](https://clinicaltrials.gov/study/NCT03235349) | Phase 3 | Completed | 160 | HCV study in Asian adults with compensated cirrhosis, with or without HIV co-infection |
+| [NCT02634008](https://clinicaltrials.gov/study/NCT02634008) | Phase 3 | Completed | 83 | Pilot of direct-acting antivirals for recently acquired HCV, with or without HIV co-infection |
 | [NCT04042740](https://clinicaltrials.gov/study/NCT04042740) | Phase 2 | Completed | 45 | PURGE-C: 4-week glecaprevir/pibrentasvir for acute HCV, with or without HIV-1 co-infection |
-| [NCT03823911](https://clinicaltrials.gov/study/NCT03823911) | Phase 4 | Completed | 87 | Cardiovascular risk after HCV eradication in people with HIV and HCV |
-| [NCT07040319](https://clinicaltrials.gov/study/NCT07040319) | Phase 1/2 | Recruiting | 30 | Pharmacokinetics and safety of glecaprevir/pibrentasvir started in pregnancy in women with HCV, with or without HIV |
-
-All of these trials measure HCV outcomes. None tests glecaprevir as a treatment for HIV.
-
----
+| [NCT03823911](https://clinicaltrials.gov/study/NCT03823911) | Phase 4 | Completed | 87 | Cardiovascular risk after HCV cure in people with HIV and HCV |
+| [NCT07040319](https://clinicaltrials.gov/study/NCT07040319) | Phase 1/2 | Recruiting | 30 | Pharmacokinetics and safety of glecaprevir/pibrentasvir started in pregnancy, with or without HIV |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38293756](https://pubmed.ncbi.nlm.nih.gov/38293756/) | 2024 | Systematic Review | Liver Int | Efficacy and safety of DAAs, including glecaprevir/pibrentasvir, in children and adolescents with chronic HCV |
-| [41297677](https://pubmed.ncbi.nlm.nih.gov/41297677/) | 2026 | Single-arm Phase IIIb | J Hepatol | 8-week glecaprevir/pibrentasvir in adults with acute HCV |
 | [37671831](https://pubmed.ncbi.nlm.nih.gov/37671831/) | 2023 | Cohort | J Antimicrob Chemother | Real-world response to glecaprevir/pibrentasvir in HIV/HCV-coinfected patients (HCV outcome) |
-| [30499343](https://pubmed.ncbi.nlm.nih.gov/30499343/) | 2019 | Review | Future Microbiol | Glecaprevir/pibrentasvir for chronic HCV infection |
-| [30982721](https://pubmed.ncbi.nlm.nih.gov/30982721/) | 2019 | Review | Lancet Gastroenterol Hepatol | HCV infection in children and adolescents |
+| [39697370](https://pubmed.ncbi.nlm.nih.gov/39697370/) | 2024 | Observational | Clin Exp Hepatol | Glecaprevir/pibrentasvir effectiveness in HIV/HCV patients on bictegravir/emtricitabine/tenofovir alafenamide |
+| [38293756](https://pubmed.ncbi.nlm.nih.gov/38293756/) | 2024 | Systematic review | Liver Int | Efficacy and safety of direct-acting antivirals in children and adolescents with HCV |
+| [30499343](https://pubmed.ncbi.nlm.nih.gov/30499343/) | 2019 | Review | Future Microbiol | Overview of glecaprevir/pibrentasvir for chronic HCV |
 | [41311021](https://pubmed.ncbi.nlm.nih.gov/41311021/) | 2026 | Review | Curr Opin HIV AIDS | Recently acquired HCV infection in people with HIV |
-| [39697370](https://pubmed.ncbi.nlm.nih.gov/39697370/) | 2024 | Observational | Clin Exp Hepatol | Glecaprevir/pibrentasvir in HIV/HCV-coinfected patients on bictegravir/emtricitabine/tenofovir alafenamide |
-
----
+| [29595065](https://pubmed.ncbi.nlm.nih.gov/29595065/) | 2018 | Review | Expert Opin Pharmacother | Protease inhibitor therapy for HCV, including HIV co-infection |
 
 ## EU Market Information
 
@@ -102,32 +91,24 @@ All of these trials measure HCV outcomes. None tests glecaprevir as a treatment 
 |---------|------|------|-----------|
 | EMEA/H/C/004430 | Maviret | Not specified | Maviret is indicated for the treatment of chronic hepatitis C virus (HCV) infection in adults and children aged 3 years and older. Mav... |
 
-The authorization is listed as cancelled.
-
----
-
 ## Safety Considerations
 
-- **Drug Interactions**: 57 interactions were identified. Examples include:
-  - **Major**: rosuvastatin, simvastatin, edoxaban
-  - **Moderate**: dexamethasone, esomeprazole, omeprazole, apixaban, betrixaban, cobicistat, deferasirox, metreleptin, naldemedine, lusutrombopag, revefenacin, griseofulvin, troglitazone
-  - **Minor**: fidaxomicin, naloxegol, prucalopride, indacaterol
+- **Drug Interactions**: 57 interacting drugs were recorded. Major-level interactions include rosuvastatin, simvastatin and edoxaban. Moderate-level interactions include dexamethasone, esomeprazole, omeprazole, cobicistat, apixaban, betrixaban, deferasirox and lusutrombopag.
 
 Please refer to the SmPC for warnings and contraindications.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence supports glecaprevir/pibrentasvir for HCV, including in people with HIV co-infection, which is already within the approved indication. There is no evidence of anti-HIV activity, and the TxGNN score appears to reflect network features rather than a real mechanistic link.
+The studies found treat hepatitis C in people who also have HIV. They do not study HIV infection as a treatment target, and glecaprevir has no established anti-HIV activity. The evidence level is L5 and the high TxGNN score is not supported by direct evidence.
 
 **To proceed, the following is needed:**
-- Mechanism of action data and any in vitro evidence of anti-HIV activity
-- Warnings and contraindications from the EMA product information
-- Review of drug interaction management, particularly with HIV antiretrovirals, statins and edoxaban
+- Laboratory data showing whether glecaprevir has any antiviral activity against HIV
+- Mechanism of action data linking glecaprevir to an HIV target
+- Review of the full SmPC warnings and contraindications
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
