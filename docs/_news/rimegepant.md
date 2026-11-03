@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Rimegepant. 5 predicted indications."
 permalink: /news/rimegepant/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Rimegepant News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Rimegepant?">
-<strong>Rimegepant</strong> currently has <strong>8 news articles</strong>, with 5 predicted indications.
+<strong>Rimegepant</strong> currently has <strong>9 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Rimegepant with the latest h
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [How You Drink Your Tea Could Affect Your Heart Disease Risk, New Study Says](https://news.google.com/rss/articles/CBMid0FVX3lxTFBqRmtDTldGTXBqLXBlaHJXeFN2UVY0UEVNZzNUSGVNZmZEWklPc052X2JsSzYxVXNlVTV2R21QWURmSEFtbGFfeHdDcFMzM1EySGVyQmI2QW9ERndtYTNIMG1ScUx5X2RTQUpJdkdFVjN2RXpPNXBR?oc=5)
+
+2026-11-03 <span class="news-indication-tag">heart disease</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMid0FVX3lxTFBqRmtDTldGTXBqLXBlaHJXeFN2UVY0UEVNZzNUSGVNZmZEWklPc052X2JsSzYxVXNlVTV2R21QWURmSEFtbGFfeHdDcFMzM1EySGVyQmI2QW9ERndtYTNIMG1ScUx5X2RTQUpJdkdFVjN2RXpPNXBR?oc=5)
+
+---
 
 ### [¿Riesgos del embarazo en las miocardiopatías?](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZmxXdllwSm54V1JBUzBWbS1fNmNfTmlPYkNFcWpxY0tMZUxOZmxYRDlnUzVWVEQ0WndldzlvaHhiMkh3Rm5CLWxfNWIzVFpWOUttLWtVMURiY1dnUE1RdTlvQmp0OWRzTWZaa0xySzFRWVFGRGxKT3NTdTlaUHl5VlFpNG00aXFMSHlYUVF3Z2pmUnJoZVhIemplSW1EVFVpRXBZTUdvZjAzRUo3a2xDYWs0b2tGRWlUa1lHRFlXOUdweTRzQnJLQUYyd1FNWnNvWE1URk80clJPd2R6ZzhfSzdBTQ?oc=5)
 

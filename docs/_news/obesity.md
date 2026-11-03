@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Adipositas (obesity). 8 articles, 8 related drugs."
+description: "Health news about Adipositas (obesity). 9 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
-<strong>Adipositas (obesity)</strong> currently has <strong>8 news articles</strong> and 8 related drugs.
+<strong>Adipositas (obesity)</strong> currently has <strong>9 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page brings together the latest health news about “Adipositas” and list
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
 
 ### [GLP-1-basierte Therapien als mögliche Therapieoption bei Adipositas und resistenter Hypertonie – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNm0zNXp3X09UWF90aTR6X2NrTVU0RFMteVRTN1FORC13RnNpYXdFUWJCbkM3dVJnTC10QXJidW80cGZYWlh1WVh1RzZGRTRBSjFnQTU3bS1KZHB3Y2xqd01SbjR3dWVyVHMxeTVBOERRZnNVTmR3cVRyajJPdFZHb2wzczlNZmFmTGFpRk5wSHhObXZxZ3NWeWgySnJfMXRZclJySGo3U2FMZmNLYi1DUVh4Z3RQeWxTZW5sTUV2R3VKWG85ZkJ2aWZzeXhmZ3FFT2tBRkl1TElPaDVKZVlIRll5NEl3eDJLWTVBRi1kR1JBTWctTmc?oc=5)
 
@@ -49,6 +49,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9gFBVV9
 2026-11-02
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXR2RUtGWWZHUU45ODgyNF9IQm9BWlo0Q184UTlyenY5RjVVLWo2NmtKdWRkWDVCbmE5M2ZXOVZHTmN6YkFuSUtJbGc4aXItUkoxcGRmQ1lMazlWQ3RBVWlsVV9WaHp5SlcxV2tLOA?oc=5)
+
+---
+
+### [Wegovy, le médicamentanti-obésité, maintenantdisponible en comprimé](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWJDeXdVVnBZeEFaNDdqUnNBcm5kb09GZXBSTS1MWWFlNTIyb2FTVGFYTlBvZEV0U0ZPdG5mRmRlQ3RpWmFCR2tQeDhDd1B0NEN4Z3pUUl9jSFY3ZGh3WGVTaFlQUWUtU2hjaTA2R1J1RlRtZ3BET3Mwb0xuVTFpc1NRNWZtY2N0U0lhRnFERHRpT2lWVE9fTkw1NkkzQ0x5Z1lxOUxmVkExSnFkb015Ymd3?oc=5)
+
+2026-11-02
+
+Source: [franceinfo](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWJDeXdVVnBZeEFaNDdqUnNBcm5kb09GZXBSTS1MWWFlNTIyb2FTVGFYTlBvZEV0U0ZPdG5mRmRlQ3RpWmFCR2tQeDhDd1B0NEN4Z3pUUl9jSFY3ZGh3WGVTaFlQUWUtU2hjaTA2R1J1RlRtZ3BET3Mwb0xuVTFpc1NRNWZtY2N0U0lhRnFERHRpT2lWVE9fTkw1NkkzQ0x5Z1lxOUxmVkExSnFkb015Ymd3?oc=5)
 
 ---
 

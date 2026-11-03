@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Isavuconazole?">
-<strong>Isavuconazole</strong> currently has <strong>20 news articles</strong>, with 0 predicted indications.
+<strong>Isavuconazole</strong> currently has <strong>27 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,61 @@ This page combines the AI-predicted indications for Isavuconazole with the lates
 <p><a href="{{ '/drugs/isavuconazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (20)
+## Related News (27)
+
+### [Expertos proponen un abordaje multidisciplinar de la enfermedad psoriásica que anticipe su progresión y mejore la calidad de vida de los pacientes - Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeExsUUx5Y2Y2V3NRRzlOaGJFRFNqZDZDQ0lPNW1yTjZGX2JEMC1FUVlSWENkUkdjNl9PenNMQXIzY3FVLUR6b3VQTjhqaVBsTS00bGs5QWFMZXB1dE9mQ3laVzFQQWtfSFhOLWxWdE95MWs0S2lQQm5qMy1LSFYyMmJrU2ppWWtiVFRFSm1lYmRycFdzWXdUZ0dVdjN5bTBIbER2MGNLVHl1dXVBZE1IVjZNMzZ5OUdCcnhYSFBKMTE5dXBuM3B2QWln?oc=5)
+
+2026-11-03 <span class="news-indication-tag">artritis</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeExsUUx5Y2Y2V3NRRzlOaGJFRFNqZDZDQ0lPNW1yTjZGX2JEMC1FUVlSWENkUkdjNl9PenNMQXIzY3FVLUR6b3VQTjhqaVBsTS00bGs5QWFMZXB1dE9mQ3laVzFQQWtfSFhOLWxWdE95MWs0S2lQQm5qMy1LSFYyMmJrU2ppWWtiVFRFSm1lYmRycFdzWXdUZ0dVdjN5bTBIbER2MGNLVHl1dXVBZE1IVjZNMzZ5OUdCcnhYSFBKMTE5dXBuM3B2QWln?oc=5)
+
+---
+
+### [Ceva Salud Animal reúne a veterinarios en Valencia para profundizar en el diagnóstico oftalmológico de la hipertensión felina](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMzdYVEYwLXE5SWFuWHRXM0NPd0pOdTRLb3dGeFBRbFVpME1KVGtqTk9LZ1ZNVzQ1NU1hLTYyaW1mejE3YXNLdzdZNlctaW5ZUlVhZVF2NWxVT1Q5bElZQ3JZcUZONEN2c192WDVQT0xtTENKNGVDWTA2N2oyTllXWWdjUnpvTDU4YU4yWk14THRNU21EOUlSNURaT3ozUmgtcUkzZW8xeGhYSXVwYzhrRlhUUTJpTVBEbzN0VFlZcVE2ZzBTWFFZeXl4VTMxZ0RNdWZ5N3djQlPSAd4BQVVfeXFMT2VoeTlBcjViUzhaZHRSZkFnc3NCZEZrckJVRm90SGdKUHYzdVdYVW0zQ2pDQkgtd0dDYjh4WnkzNUJ6TU8zWmM0blg1VFU4U2hsVVl5b0JQVGFfVGI4TGh1UFRfRGNoZWNGY2ZrcFRxQVkwLU1mYzBRWkpIQjEtUXgwYW4xc01YUXMzb0VjTkx1X3ZsN1B1TC1OVHR4TnNHWTVyQXF0V3NXU1JqMG9XZVJMWGstcnlhRGJlSXdiZUtZV1l5dFhUdG9ybGdzNERWUjVJVFJWZWxZUUR0R0JR?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMzdYVEYwLXE5SWFuWHRXM0NPd0pOdTRLb3dGeFBRbFVpME1KVGtqTk9LZ1ZNVzQ1NU1hLTYyaW1mejE3YXNLdzdZNlctaW5ZUlVhZVF2NWxVT1Q5bElZQ3JZcUZONEN2c192WDVQT0xtTENKNGVDWTA2N2oyTllXWWdjUnpvTDU4YU4yWk14THRNU21EOUlSNURaT3ozUmgtcUkzZW8xeGhYSXVwYzhrRlhUUTJpTVBEbzN0VFlZcVE2ZzBTWFFZeXl4VTMxZ0RNdWZ5N3djQlPSAd4BQVVfeXFMT2VoeTlBcjViUzhaZHRSZkFnc3NCZEZrckJVRm90SGdKUHYzdVdYVW0zQ2pDQkgtd0dDYjh4WnkzNUJ6TU8zWmM0blg1VFU4U2hsVVl5b0JQVGFfVGI4TGh1UFRfRGNoZWNGY2ZrcFRxQVkwLU1mYzBRWkpIQjEtUXgwYW4xc01YUXMzb0VjTkx1X3ZsN1B1TC1OVHR4TnNHWTVyQXF0V3NXU1JqMG9XZVJMWGstcnlhRGJlSXdiZUtZV1l5dFhUdG9ybGdzNERWUjVJVFJWZWxZUUR0R0JR?oc=5)
+
+---
+
+### [How You Drink Your Tea Could Affect Your Heart Disease Risk, New Study Says](https://news.google.com/rss/articles/CBMid0FVX3lxTFBqRmtDTldGTXBqLXBlaHJXeFN2UVY0UEVNZzNUSGVNZmZEWklPc052X2JsSzYxVXNlVTV2R21QWURmSEFtbGFfeHdDcFMzM1EySGVyQmI2QW9ERndtYTNIMG1ScUx5X2RTQUpJdkdFVjN2RXpPNXBR?oc=5)
+
+2026-11-03 <span class="news-indication-tag">heart disease</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMid0FVX3lxTFBqRmtDTldGTXBqLXBlaHJXeFN2UVY0UEVNZzNUSGVNZmZEWklPc052X2JsSzYxVXNlVTV2R21QWURmSEFtbGFfeHdDcFMzM1EySGVyQmI2QW9ERndtYTNIMG1ScUx5X2RTQUpJdkdFVjN2RXpPNXBR?oc=5)
+
+---
+
+### [Hipertensión en el embarazo y menopausia precoz: el corazón de la mujer entra en las guías médicas - El Confidencial](https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0dTcHFGWnBYcVJRaFp0empJQ1BPVjdtQmhBMWpiQmJKQmh0VklIVUdEbGg3SUU0NjVnMDRkMW5xQWUtalY5TU5URFFvcHlUd0RnSXhZWFdrMW9BLU52dXYyS0VFYmlxd0VQVTk2YmUtTC1lNEdCM1BUMGM3SDlocXJMcThDc0NGTVpyd0FwYXhzLXZNN0l2bXNuZ1ctUGluV1dmVkdaS2tpZXMweFM4Z2dOYVhNNHc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [El Confidencial](https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0dTcHFGWnBYcVJRaFp0empJQ1BPVjdtQmhBMWpiQmJKQmh0VklIVUdEbGg3SUU0NjVnMDRkMW5xQWUtalY5TU5URFFvcHlUd0RnSXhZWFdrMW9BLU52dXYyS0VFYmlxd0VQVTk2YmUtTC1lNEdCM1BUMGM3SDlocXJMcThDc0NGTVpyd0FwYXhzLXZNN0l2bXNuZ1ctUGluV1dmVkdaS2tpZXMweFM4Z2dOYVhNNHc?oc=5)
+
+---
+
+### [Bluthochdruck: Bericht fordert Kombi-Strategie aus Natrium runter und Kalium rauf - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVB3TmZJNFNuNXhwLW5YN3ZhcHdURVRRcWIzbUNBUW52YVdYdGVvdUhQTGFuTnNDUXhEbU1UZFpsaFBQTHZLNnd0aThqUzFtX1lfdUtFa0ZaM2ZScU1CbnItMk14OUJ5TGhhMjN1cW80Qm1oeE9TR2VTQUZVSnZlQkJvOGFtX2JycmRfUTJrZU9memRNTVk5QTJXdWVfcEUwbHY0YmN0anNXOEJ6ZDVSSm9R?oc=5)
+
+2026-11-03 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVB3TmZJNFNuNXhwLW5YN3ZhcHdURVRRcWIzbUNBUW52YVdYdGVvdUhQTGFuTnNDUXhEbU1UZFpsaFBQTHZLNnd0aThqUzFtX1lfdUtFa0ZaM2ZScU1CbnItMk14OUJ5TGhhMjN1cW80Qm1oeE9TR2VTQUZVSnZlQkJvOGFtX2JycmRfUTJrZU9memRNTVk5QTJXdWVfcEUwbHY0YmN0anNXOEJ6ZDVSSm9R?oc=5)
+
+---
 
 ### [La transición al genérico de tofacitinib preserva el control de la artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFk5TGFSVGVWUUNiU1B1SFBoVGw4UkhJbjhNY1hWYnpGQXlETGE2YjlaUnVXUE9QeGgzbmpfODhEbS1PSEYtR0RiWkNqaUpMaEh0aURENDJTZFFwRnFfQnV2ZmZReUoxRWZhOHJ3RUVXN29HbEkwSjBKNmhxNmJCWktMeFBYNF92TGQ4OHIyUmR3bkwxM0JlcjVwcEItd3F2YzBIYnE4MkRtWHMzcmRqYjZGWlprWFkxTVlCRFljb3jSAbsBQVVfeXFMTm5BT3ZtS3lac3pRN0JCRlNzdVA3YlMtSVhqTkZ5clBNSGlTTlZYWkZDblpaRlNiZ2lTeVhlZEZEbkVXUXEzaWlHb0tyZjBVY0llTGxGYXlETWtFaFQ2Mmh6b0lISTFXcXZYSmtlZXVCY3U3TzMtcmRlWjFsUGdfOFZZTVpBQXVOTVpOdzJKRzlVM2s5QXhwU3N6VzhtU2YxSGpVSkFMeDZ1NXlrNzFQMy1TZHl2UkRHN0R6cw?oc=5)
 
 2026-11-02 <span class="news-drug-tag">Tofacitinib</span> <span class="news-indication-tag">artritis</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFk5TGFSVGVWUUNiU1B1SFBoVGw4UkhJbjhNY1hWYnpGQXlETGE2YjlaUnVXUE9QeGgzbmpfODhEbS1PSEYtR0RiWkNqaUpMaEh0aURENDJTZFFwRnFfQnV2ZmZReUoxRWZhOHJ3RUVXN29HbEkwSjBKNmhxNmJCWktMeFBYNF92TGQ4OHIyUmR3bkwxM0JlcjVwcEItd3F2YzBIYnE4MkRtWHMzcmRqYjZGWlprWFkxTVlCRFljb3jSAbsBQVVfeXFMTm5BT3ZtS3lac3pRN0JCRlNzdVA3YlMtSVhqTkZ5clBNSGlTTlZYWkZDblpaRlNiZ2lTeVhlZEZEbkVXUXEzaWlHb0tyZjBVY0llTGxGYXlETWtFaFQ2Mmh6b0lISTFXcXZYSmtlZXVCY3U3TzMtcmRlWjFsUGdfOFZZTVpBQXVOTVpOdzJKRzlVM2s5QXhwU3N6VzhtU2YxSGpVSkFMeDZ1NXlrNzFQMy1TZHl2UkRHN0R6cw?oc=5)
+
+---
+
+### [Experts say high blood pressure guidelines are missing half the equation - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1OeHM1anU3ekdQR0s2S1ZaLWxqVVRUSFBTR3EwY1djMGVnWloyRkpmMzBZYjZiemZaN19mR1hBOUpILXh4Ujk5RmpHSl9SdmQ4SWkwNkZ3WXhZRHBydjhJNEFIR1I1UHBHM2lDNmtZUQ?oc=5)
+
+2026-11-02 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1OeHM1anU3ekdQR0s2S1ZaLWxqVVRUSFBTR3EwY1djMGVnWloyRkpmMzBZYjZiemZaN19mR1hBOUpILXh4Ujk5RmpHSl9SdmQ4SWkwNkZ3WXhZRHBydjhJNEFIR1I1UHBHM2lDNmtZUQ?oc=5)
 
 ---
 
@@ -165,6 +213,14 @@ Source: [Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUD
 2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
 
 Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+---
+
+### [Ictus, si può prevenire? Siate veloci a cogliere i sei segnali d’allarme - la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR4RlJrRmI3WVZLdWtJV25PVzZfek5Ob3VQa21JaVpqV1VMZ05Rb3hRd3M2TjI0cmJ3cl8zOVhKY2UzUlp1T0NmUEtXV0hfc1dVazB3TFlMdlBXWVJXRURrOG92NFRTM2luNldqRVRuaUdGTmxXRGJFTUVuU01VR3h3Xy1JdFhiQkoyTXJZNkhBams1S0ZvWGxXYkg1TS1kbEd4bVM1RWJXWU0tMFB3YWlrenpCa05qRURqOTVZR0hkc2Zkd1ctZ2ln0gHPAUFVX3lxTE82ano2ZHlOTU5hYW42NENjVzF4WTFqZ2RaYWFOeGZHeElDbGE4TmxaZ0hOUDBQQTg0eWs4Q3IydU96UVp3Nml4MjIxLUlYQkdZRU5iRmV4WThSMUN5SDl4WUdrSnNqMTBiMWp3anBjVmFNSTJKVW9uZXhvbF9IVFl2bzg2RW5Wejd1SkdiVy11alg5RkxpaWtCeHQ3Um9sNThkOTFzd2Zyc1g4YzUycFVkYWhSZHhWXzFFZDItS3VtckpxYjkxVjI0S3FtVlhkOA?oc=5)
+
+2026-10-28 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR4RlJrRmI3WVZLdWtJV25PVzZfek5Ob3VQa21JaVpqV1VMZ05Rb3hRd3M2TjI0cmJ3cl8zOVhKY2UzUlp1T0NmUEtXV0hfc1dVazB3TFlMdlBXWVJXRURrOG92NFRTM2luNldqRVRuaUdGTmxXRGJFTUVuU01VR3h3Xy1JdFhiQkoyTXJZNkhBams1S0ZvWGxXYkg1TS1kbEd4bVM1RWJXWU0tMFB3YWlrenpCa05qRURqOTVZR0hkc2Zkd1ctZ2ln0gHPAUFVX3lxTE82ano2ZHlOTU5hYW42NENjVzF4WTFqZ2RaYWFOeGZHeElDbGE4TmxaZ0hOUDBQQTg0eWs4Q3IydU96UVp3Nml4MjIxLUlYQkdZRU5iRmV4WThSMUN5SDl4WUdrSnNqMTBiMWp3anBjVmFNSTJKVW9uZXhvbF9IVFl2bzg2RW5Wejd1SkdiVy11alg5RkxpaWtCeHQ3Um9sNThkOTFzd2Zyc1g4YzUycFVkYWhSZHhWXzFFZDItS3VtckpxYjkxVjI0S3FtVlhkOA?oc=5)
 
 ---
 

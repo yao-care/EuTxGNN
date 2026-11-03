@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Vortioxetine?">
-<strong>Vortioxetine</strong> currently has <strong>8 news articles</strong>, with 2 predicted indications.
+<strong>Vortioxetine</strong> currently has <strong>9 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [How your body clock affects your mental health and ways to keep it in sync - The Conversation](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEt5V016QVdoNWpvdzhicVEyOF9hS1NobVp1MEZ6SmpBVlN4Z3VXTlhMNjBwazNWRWxXaDk5TE8tQXE3TEhiakNRRGRwX2hOTVRnakFtOWFaQy10bXVhNTdnTFdNVDNLX3IyaUNOdnhQcVpNR3Vuc1I3STNSUDRkYkVXRUhreWVnNk1PWnRIZlpYdUpoS3Bpc2NHRzRYZ1kzNzExLUpRdXV1eTQ0LWc?oc=5)
+
+2026-11-02 <span class="news-indication-tag">depression</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEt5V016QVdoNWpvdzhicVEyOF9hS1NobVp1MEZ6SmpBVlN4Z3VXTlhMNjBwazNWRWxXaDk5TE8tQXE3TEhiakNRRGRwX2hOTVRnakFtOWFaQy10bXVhNTdnTFdNVDNLX3IyaUNOdnhQcVpNR3Vuc1I3STNSUDRkYkVXRUhreWVnNk1PWnRIZlpYdUpoS3Bpc2NHRzRYZ1kzNzExLUpRdXV1eTQ0LWc?oc=5)
+
+---
 
 ### [Depression bei Kindern: Was mehr über das spätere Risiko verrät als die Gene - smart up news](https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2FXdmZqNVd1UlFOX1VHOUFUS0dPd25YVk54c2FzdjIxSk14TEVueFFKUmVBX0hZbUh1NTFDVTFZX0ZhZVU5RnhfOWZZdmJEcFpERS1HRU5uQlBHVzd1c1NzazdYS0d4QmtBTlFHYV8tY29DTnZ0ZE5ldFQ2bk5WUVpEUXZoWWVMOFJHWFBDU3pkSFdMUG1EVWMtLXB5N3FXaEVvYzZselRudm5TcVJCb1ptVVI?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "Norethisterone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Norethisterone. 1 predicted indications."
+description: "Health news related to Norethisterone. 0 predicted indications."
 permalink: /news/norethisterone/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-03
 ---
 
 # Norethisterone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Norethisterone?">
-<strong>Norethisterone</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Norethisterone</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,9 +26,6 @@ This page combines the AI-predicted indications for Norethisterone with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>amenorrhea (disease)</li>
-</ul></li>
 </ul>
 <p><a href="{{ '/drugs/norethisterone/' | relative_url }}">View full drug report →</a></p>
 </div>

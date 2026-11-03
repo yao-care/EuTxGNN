@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>39 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>50 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,63 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (39)
+## Related News (50)
+
+### [Ceva Salud Animal reúne a veterinarios en Valencia para profundizar en el diagnóstico oftalmológico de la hipertensión felina](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMzdYVEYwLXE5SWFuWHRXM0NPd0pOdTRLb3dGeFBRbFVpME1KVGtqTk9LZ1ZNVzQ1NU1hLTYyaW1mejE3YXNLdzdZNlctaW5ZUlVhZVF2NWxVT1Q5bElZQ3JZcUZONEN2c192WDVQT0xtTENKNGVDWTA2N2oyTllXWWdjUnpvTDU4YU4yWk14THRNU21EOUlSNURaT3ozUmgtcUkzZW8xeGhYSXVwYzhrRlhUUTJpTVBEbzN0VFlZcVE2ZzBTWFFZeXl4VTMxZ0RNdWZ5N3djQlPSAd4BQVVfeXFMT2VoeTlBcjViUzhaZHRSZkFnc3NCZEZrckJVRm90SGdKUHYzdVdYVW0zQ2pDQkgtd0dDYjh4WnkzNUJ6TU8zWmM0blg1VFU4U2hsVVl5b0JQVGFfVGI4TGh1UFRfRGNoZWNGY2ZrcFRxQVkwLU1mYzBRWkpIQjEtUXgwYW4xc01YUXMzb0VjTkx1X3ZsN1B1TC1OVHR4TnNHWTVyQXF0V3NXU1JqMG9XZVJMWGstcnlhRGJlSXdiZUtZV1l5dFhUdG9ybGdzNERWUjVJVFJWZWxZUUR0R0JR?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMzdYVEYwLXE5SWFuWHRXM0NPd0pOdTRLb3dGeFBRbFVpME1KVGtqTk9LZ1ZNVzQ1NU1hLTYyaW1mejE3YXNLdzdZNlctaW5ZUlVhZVF2NWxVT1Q5bElZQ3JZcUZONEN2c192WDVQT0xtTENKNGVDWTA2N2oyTllXWWdjUnpvTDU4YU4yWk14THRNU21EOUlSNURaT3ozUmgtcUkzZW8xeGhYSXVwYzhrRlhUUTJpTVBEbzN0VFlZcVE2ZzBTWFFZeXl4VTMxZ0RNdWZ5N3djQlPSAd4BQVVfeXFMT2VoeTlBcjViUzhaZHRSZkFnc3NCZEZrckJVRm90SGdKUHYzdVdYVW0zQ2pDQkgtd0dDYjh4WnkzNUJ6TU8zWmM0blg1VFU4U2hsVVl5b0JQVGFfVGI4TGh1UFRfRGNoZWNGY2ZrcFRxQVkwLU1mYzBRWkpIQjEtUXgwYW4xc01YUXMzb0VjTkx1X3ZsN1B1TC1OVHR4TnNHWTVyQXF0V3NXU1JqMG9XZVJMWGstcnlhRGJlSXdiZUtZV1l5dFhUdG9ybGdzNERWUjVJVFJWZWxZUUR0R0JR?oc=5)
+
+---
+
+### [Mireia Illueca, neurocirujana: “Cada minuto que se pierde tras un ictus es tejido cerebral que no se recupera” - Diario AS](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLXpXV0VVck5weVdiSkVCaDEtblZ1a1EyXzRXczlENzA1Q3dxSy1EajFnRlA3SFFZVEJpbWxTckhndUF0b0thWW1Tc200QzVzbmh6YlJWTk1COXlDaVZ2a3RkektHN1lfZlVyZS1YMEJJd3Y2QjdRWHlGTVc3WUR4TC1LNXdsaGFVcmtEZ2VxVGhJWkFmNmZZZlhxVV9TY3h2cVhhcWFtbGxNU1hQcmFGMnBuZmp4b29OUy14WGt3cFhaQ0ZnU1FkVXVOeUhZWlNGNl9DZFFBdHBkRWdiSFYtOWdn0gH2AUFVX3lxTE9tUWFfSkJsSTlRVS1RMmZGY0RnamExS3F2WGtfZmF3bTY1aVZsWnQ3MXNUVkxPTTRiYUxuRGlvbXhXbUJBTzA3RkFHbXNjSFNXWDVKV0IwZlFFejdGVnpfTG5KOTBmclpYRzRndDc5NERJNzhoVERmbmR2ZjdMMjdrSnE1a19mcGQzNk9Rb3pUcy1leE9jOC1kYjQxZG5rMGRTUTNnV2thT2xHbXoxcjBSSUpiWEp6U0lYY0xpMnBLTVRuWm1SQ21WUHR4dC1OamhySjlMb1J2LVVjcHdaTnlxR1ZRODhsOHotQXpOUnBEZDBmZHJQQQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">ictus</span>
+
+Source: [Diario AS](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLXpXV0VVck5weVdiSkVCaDEtblZ1a1EyXzRXczlENzA1Q3dxSy1EajFnRlA3SFFZVEJpbWxTckhndUF0b0thWW1Tc200QzVzbmh6YlJWTk1COXlDaVZ2a3RkektHN1lfZlVyZS1YMEJJd3Y2QjdRWHlGTVc3WUR4TC1LNXdsaGFVcmtEZ2VxVGhJWkFmNmZZZlhxVV9TY3h2cVhhcWFtbGxNU1hQcmFGMnBuZmp4b29OUy14WGt3cFhaQ0ZnU1FkVXVOeUhZWlNGNl9DZFFBdHBkRWdiSFYtOWdn0gH2AUFVX3lxTE9tUWFfSkJsSTlRVS1RMmZGY0RnamExS3F2WGtfZmF3bTY1aVZsWnQ3MXNUVkxPTTRiYUxuRGlvbXhXbUJBTzA3RkFHbXNjSFNXWDVKV0IwZlFFejdGVnpfTG5KOTBmclpYRzRndDc5NERJNzhoVERmbmR2ZjdMMjdrSnE1a19mcGQzNk9Rb3pUcy1leE9jOC1kYjQxZG5rMGRTUTNnV2thT2xHbXoxcjBSSUpiWEp6U0lYY0xpMnBLTVRuWm1SQ21WUHR4dC1OamhySjlMb1J2LVVjcHdaTnlxR1ZRODhsOHotQXpOUnBEZDBmZHJQQQ?oc=5)
+
+---
+
+### [¿El cannabis aumenta el riesgo de accidentes cerebrovasculares? La ciencia se acerca a una respuesta - National Geographic España](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOS05UFNXYlRqclJROC01OUdqZ2V1dl9lQkpQWVRYZ05XWTRlY0tTb1ZPNU5VX1VJVXJtWTdOcmo1WFJtYjJ2ZVp1VTJ2VFFhaTNKSkt4Q2NVNl9RdUpnY2puTF9PNHFqLUNleHVZLTRjNFdscUZBSWVPNVpocVU2UFdNeFpoUjBORzd6LTJNeGE2RmUybHVWb1hHdGtDSmMxUFc3Z1FNUlh1Qmh1X1Npd2l3TWdPaWlkcmZCVi0ycm91WWNhLW5MelVUeWppRTM2RzVWS1dndHNHd2p5YkVIa0g1STFZTXlTWUI4NDNXcmVMZXM?oc=5)
+
+2026-11-03 <span class="news-indication-tag">ictus</span>
+
+Source: [National Geographic España](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOS05UFNXYlRqclJROC01OUdqZ2V1dl9lQkpQWVRYZ05XWTRlY0tTb1ZPNU5VX1VJVXJtWTdOcmo1WFJtYjJ2ZVp1VTJ2VFFhaTNKSkt4Q2NVNl9RdUpnY2puTF9PNHFqLUNleHVZLTRjNFdscUZBSWVPNVpocVU2UFdNeFpoUjBORzd6LTJNeGE2RmUybHVWb1hHdGtDSmMxUFc3Z1FNUlh1Qmh1X1Npd2l3TWdPaWlkcmZCVi0ycm91WWNhLW5MelVUeWppRTM2RzVWS1dndHNHd2p5YkVIa0g1STFZTXlTWUI4NDNXcmVMZXM?oc=5)
+
+---
+
+### [How You Drink Your Tea Could Affect Your Heart Disease Risk, New Study Says](https://news.google.com/rss/articles/CBMid0FVX3lxTFBqRmtDTldGTXBqLXBlaHJXeFN2UVY0UEVNZzNUSGVNZmZEWklPc052X2JsSzYxVXNlVTV2R21QWURmSEFtbGFfeHdDcFMzM1EySGVyQmI2QW9ERndtYTNIMG1ScUx5X2RTQUpJdkdFVjN2RXpPNXBR?oc=5)
+
+2026-11-03 <span class="news-indication-tag">heart disease</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMid0FVX3lxTFBqRmtDTldGTXBqLXBlaHJXeFN2UVY0UEVNZzNUSGVNZmZEWklPc052X2JsSzYxVXNlVTV2R21QWURmSEFtbGFfeHdDcFMzM1EySGVyQmI2QW9ERndtYTNIMG1ScUx5X2RTQUpJdkdFVjN2RXpPNXBR?oc=5)
+
+---
+
+### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQjlETENCOWdpMkNkN1pTVjdPQ1diaEkwZThYLWFySEYxQTVVZkJCdEg5Rnp0Y0t0bWFBUk5QVnRqbmNWM2ROTzNDM1o0UGU5Sy03aFBiTXFNRDRyWl8tS2xZOURCSzg4V2NGenFfVnV2X3V6NFNISnhERVM2enFEa1lIUnJMdnA1dUdrMV9jZ2xuZmJDbWpQQWFYblEybEw4RWJ1dUFJZGxlUDdqLWVUMkxxVExyVHdWRWsw?oc=5)
+
+2026-11-03 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQjlETENCOWdpMkNkN1pTVjdPQ1diaEkwZThYLWFySEYxQTVVZkJCdEg5Rnp0Y0t0bWFBUk5QVnRqbmNWM2ROTzNDM1o0UGU5Sy03aFBiTXFNRDRyWl8tS2xZOURCSzg4V2NGenFfVnV2X3V6NFNISnhERVM2enFEa1lIUnJMdnA1dUdrMV9jZ2xuZmJDbWpQQWFYblEybEw4RWJ1dUFJZGxlUDdqLWVUMkxxVExyVHdWRWsw?oc=5)
+
+---
+
+### [Hipertensión en el embarazo y menopausia precoz: el corazón de la mujer entra en las guías médicas - El Confidencial](https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0dTcHFGWnBYcVJRaFp0empJQ1BPVjdtQmhBMWpiQmJKQmh0VklIVUdEbGg3SUU0NjVnMDRkMW5xQWUtalY5TU5URFFvcHlUd0RnSXhZWFdrMW9BLU52dXYyS0VFYmlxd0VQVTk2YmUtTC1lNEdCM1BUMGM3SDlocXJMcThDc0NGTVpyd0FwYXhzLXZNN0l2bXNuZ1ctUGluV1dmVkdaS2tpZXMweFM4Z2dOYVhNNHc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [El Confidencial](https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0dTcHFGWnBYcVJRaFp0empJQ1BPVjdtQmhBMWpiQmJKQmh0VklIVUdEbGg3SUU0NjVnMDRkMW5xQWUtalY5TU5URFFvcHlUd0RnSXhZWFdrMW9BLU52dXYyS0VFYmlxd0VQVTk2YmUtTC1lNEdCM1BUMGM3SDlocXJMcThDc0NGTVpyd0FwYXhzLXZNN0l2bXNuZ1ctUGluV1dmVkdaS2tpZXMweFM4Z2dOYVhNNHc?oc=5)
+
+---
+
+### [Bluthochdruck: Bericht fordert Kombi-Strategie aus Natrium runter und Kalium rauf - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVB3TmZJNFNuNXhwLW5YN3ZhcHdURVRRcWIzbUNBUW52YVdYdGVvdUhQTGFuTnNDUXhEbU1UZFpsaFBQTHZLNnd0aThqUzFtX1lfdUtFa0ZaM2ZScU1CbnItMk14OUJ5TGhhMjN1cW80Qm1oeE9TR2VTQUZVSnZlQkJvOGFtX2JycmRfUTJrZU9memRNTVk5QTJXdWVfcEUwbHY0YmN0anNXOEJ6ZDVSSm9R?oc=5)
+
+2026-11-03 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVB3TmZJNFNuNXhwLW5YN3ZhcHdURVRRcWIzbUNBUW52YVdYdGVvdUhQTGFuTnNDUXhEbU1UZFpsaFBQTHZLNnd0aThqUzFtX1lfdUtFa0ZaM2ZScU1CbnItMk14OUJ5TGhhMjN1cW80Qm1oeE9TR2VTQUZVSnZlQkJvOGFtX2JycmRfUTJrZU9memRNTVk5QTJXdWVfcEUwbHY0YmN0anNXOEJ6ZDVSSm9R?oc=5)
+
+---
 
 ### [Un coagulo nel cuore può arrivare al cervello: il legame nascosto che può provocare un ictus](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS25lTHZoVTJaOFRjNXhJemM3dTBaa1BwVGwxazV2V0h3NjVUNk9PVjdzMjFoSUIxeFRBNFF2eThWcWZuandiS1VDYjU4SWZVb19zN0ZlNHlrYlpWTm40TGpYQ3dTNmNseDVUU1FhaFZWR3p2QUF3WjNjZzlkRFFWbW5BNUlLQzYwSl9nYUlEZUlKT0Q2OE1Fb2ZZR1UwbS12ZmpmYS1TaDRvLWJGQ3FIODFLN2RhTm9RenZNQWRFV19zSWxZUHdiT3V0cDZQNUVwOFhMZmQyTkVBdw?oc=5)
 
@@ -64,6 +120,22 @@ Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/C
 2026-11-02 <span class="news-indication-tag">ictus</span>
 
 Source: [Canal Sur](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTGVDS2dyYzJNUFdHbkVKYXNQVGF6bklEZlhEY2p1ckpYMmFLcVJ6ZE5OU3U3RHZPajZSZE1feVFxRFlwNmltSGticFhIaGIyd1ZXeHQwcmh5b1d4ZDREMEVwMk5wbUt2OGhtR1poLW1NVE1DeXhqWFZmMHc4TkZBRkgtODVYcnNFMEE?oc=5)
+
+---
+
+### [How changing your bedtime by just 30 minutes could impact your health - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa1B6aVExNmN0bFI0dkdhVTJyTW9vZEVPcXhKalJPYy1OWXY1azl1djhWWV85RDYyb0RwUDNXbmRGZi1zUlBJZUtyNnpxWkZwWUt0Sm1EZXZucENsNEZHbmZmZkJ3S3FEUTJjdE5XUEtJaG41M3lEZlU5S0x1Y2JuUy1rQmNsUU81cXplLWZySWpoZmNKUElaSWpwNnZmem96UkhmSg?oc=5)
+
+2026-11-02 <span class="news-indication-tag">stroke</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa1B6aVExNmN0bFI0dkdhVTJyTW9vZEVPcXhKalJPYy1OWXY1azl1djhWWV85RDYyb0RwUDNXbmRGZi1zUlBJZUtyNnpxWkZwWUt0Sm1EZXZucENsNEZHbmZmZkJ3S3FEUTJjdE5XUEtJaG41M3lEZlU5S0x1Y2JuUy1rQmNsUU81cXplLWZySWpoZmNKUElaSWpwNnZmem96UkhmSg?oc=5)
+
+---
+
+### [Experts say high blood pressure guidelines are missing half the equation - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1OeHM1anU3ekdQR0s2S1ZaLWxqVVRUSFBTR3EwY1djMGVnWloyRkpmMzBZYjZiemZaN19mR1hBOUpILXh4Ujk5RmpHSl9SdmQ4SWkwNkZ3WXhZRHBydjhJNEFIR1I1UHBHM2lDNmtZUQ?oc=5)
+
+2026-11-02 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1OeHM1anU3ekdQR0s2S1ZaLWxqVVRUSFBTR3EwY1djMGVnWloyRkpmMzBZYjZiemZaN19mR1hBOUpILXh4Ujk5RmpHSl9SdmQ4SWkwNkZ3WXhZRHBydjhJNEFIR1I1UHBHM2lDNmtZUQ?oc=5)
 
 ---
 
@@ -203,6 +275,14 @@ Source: [Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbG1
 
 ---
 
+### [Über die glykämische Kontrolle hinaus: kardiovaskuläre Endpunkte im Fokus – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGlkTGJCQU9zSWMwNGJ3YVI2MDl6OERBb0dpU19XOHNLaDdUcjVOQWlCU3kxcXdLWVd2ZDZIczZ2czluMXhhMVBpV3FuRTItVGdpd2daZnlwMGdKb01rLWFBenVSNHZ1a0pXanhDTlN2cXpjNENIZkZzYzJDWHpBc00tSTBEeDlhYnRhM2hFMnhhdTd2Vmp1YkRoQ2txVHNxTl9mTW42U1F2M0F5MzZFemdrWXlWOUFONC1ZandQRUJrV3JmM1BVNVBjLTRFY0hnLVBIaEhiY2I?oc=5)
+
+2026-10-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGlkTGJCQU9zSWMwNGJ3YVI2MDl6OERBb0dpU19XOHNLaDdUcjVOQWlCU3kxcXdLWVd2ZDZIczZ2czluMXhhMVBpV3FuRTItVGdpd2daZnlwMGdKb01rLWFBenVSNHZ1a0pXanhDTlN2cXpjNENIZkZzYzJDWHpBc00tSTBEeDlhYnRhM2hFMnhhdTd2Vmp1YkRoQ2txVHNxTl9mTW42U1F2M0F5MzZFemdrWXlWOUFONC1ZandQRUJrV3JmM1BVNVBjLTRFY0hnLVBIaEhiY2I?oc=5)
+
+---
+
 ### [Cibi ultraprocessati, non contano solo le calorie: cosa succede al cervello e all'insulina - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1gFBVV95cUxObmFaYVFsdi04QXdIVDZkX1RTWVI0MTBTUjJoRXVYMTdkTkZNR3JVOGJFVjdHem9DNGg2dmxuRWY1SE5hRG9aNXdaYlJfTDE2MmIzdTJ1V093c29lOGJ6a2pPakxoR1FBVnl5eFFtNElLLXp1OWxWc1VGOU5ySXFVbTFFNlNlRXh6LURiQkRnOFVhemJXd3FRdG1xN0N6Zm9Qb2d3ZE44M0VrTjk2MkF3bHFrUk5XZ3lfaG5jNkduRDFQTThvajRHNTVhWVFPZno1SzhxLUt30gG8AUFVX3lxTE85MkFzRVRhcHd5ZGxrdTBxX0pQZDdpUUVPelhHU1pLOFJKY2hMLUFyb2ZNZ0RyU1czbGdUTXhWcjBfSzVMYjJ6c2JoOUpVMVVwWmNMSU5nSlFiUmZrdENHenp2NHhtODBhR1ZQbW9xRXlpVWxMeC1nWnl0SFgxSUZrdjZOTEtXN3VDdWhYNnVReTVmS3p3cDdHNDhhcEVWakl6RloyX01xcXZGOUs3UU02S291bHljSk1jNV9o?oc=5)
 
 2026-10-30 <span class="news-indication-tag">ictus</span>
@@ -328,6 +408,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV9
 2026-10-28 <span class="news-indication-tag">ictus</span>
 
 Source: [Demócrata](https://news.google.com/rss/articles/CBMizwFBVV95cUxQOU1WQzFFSF9falAtektaNjNHeHBZay1QQWltMm5ROUhMTHplYm9UZGFzZVROOTY0Y1d3TWVUSGk2dmdDYXpPclRXWnBDT2RfWFB2TllWZnB4Y05PdTBLOFJQdEU2VXBfeEw0WTZoQktEWXVSRE5mRTZtbkFoWGlKUUZDRmJONXJZLUtZQ0hUUWFTZWJoajBMNzloWDhPZUlfOHpLRFRSOGlMOXZlUi1QWmVpdjEzNFZyVV9YRDNxRTBFU1hkUUVIeDBKaDdCZ2vSAdQBQVVfeXFMUE4tb1dvQnJIZXNKU2JqY3lfQ0pxUEFyRVVZX2RyaUhYY1JPY1pYcTUzUkNsd09GVk4zVHE5R2l1dUhZQlV2NWRZNjVxQkJxVllfSTRWYmlVcHRUSVA3YU9ORTZTVEdpcVJyc0ZLMUtTa2drcF9BSEdkdlhNNi14YmNwdGc0UjZvZ0NrLVp5a3hMUk5aN1NqdnJDSHRSRk9zMWRmTWpWaGphOGxINHN6RnhIRUFVNmNJeVdXSjUwWEZ5NEhoVHZUS0ktekYwbVYxU0hPbXE?oc=5)
+
+---
+
+### [Ictus, si può prevenire? Siate veloci a cogliere i sei segnali d’allarme - la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR4RlJrRmI3WVZLdWtJV25PVzZfek5Ob3VQa21JaVpqV1VMZ05Rb3hRd3M2TjI0cmJ3cl8zOVhKY2UzUlp1T0NmUEtXV0hfc1dVazB3TFlMdlBXWVJXRURrOG92NFRTM2luNldqRVRuaUdGTmxXRGJFTUVuU01VR3h3Xy1JdFhiQkoyTXJZNkhBams1S0ZvWGxXYkg1TS1kbEd4bVM1RWJXWU0tMFB3YWlrenpCa05qRURqOTVZR0hkc2Zkd1ctZ2ln0gHPAUFVX3lxTE82ano2ZHlOTU5hYW42NENjVzF4WTFqZ2RaYWFOeGZHeElDbGE4TmxaZ0hOUDBQQTg0eWs4Q3IydU96UVp3Nml4MjIxLUlYQkdZRU5iRmV4WThSMUN5SDl4WUdrSnNqMTBiMWp3anBjVmFNSTJKVW9uZXhvbF9IVFl2bzg2RW5Wejd1SkdiVy11alg5RkxpaWtCeHQ3Um9sNThkOTFzd2Zyc1g4YzUycFVkYWhSZHhWXzFFZDItS3VtckpxYjkxVjI0S3FtVlhkOA?oc=5)
+
+2026-10-28 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR4RlJrRmI3WVZLdWtJV25PVzZfek5Ob3VQa21JaVpqV1VMZ05Rb3hRd3M2TjI0cmJ3cl8zOVhKY2UzUlp1T0NmUEtXV0hfc1dVazB3TFlMdlBXWVJXRURrOG92NFRTM2luNldqRVRuaUdGTmxXRGJFTUVuU01VR3h3Xy1JdFhiQkoyTXJZNkhBams1S0ZvWGxXYkg1TS1kbEd4bVM1RWJXWU0tMFB3YWlrenpCa05qRURqOTVZR0hkc2Zkd1ctZ2ln0gHPAUFVX3lxTE82ano2ZHlOTU5hYW42NENjVzF4WTFqZ2RaYWFOeGZHeElDbGE4TmxaZ0hOUDBQQTg0eWs4Q3IydU96UVp3Nml4MjIxLUlYQkdZRU5iRmV4WThSMUN5SDl4WUdrSnNqMTBiMWp3anBjVmFNSTJKVW9uZXhvbF9IVFl2bzg2RW5Wejd1SkdiVy11alg5RkxpaWtCeHQ3Um9sNThkOTFzd2Zyc1g4YzUycFVkYWhSZHhWXzFFZDItS3VtckpxYjkxVjI0S3FtVlhkOA?oc=5)
 
 ---
 

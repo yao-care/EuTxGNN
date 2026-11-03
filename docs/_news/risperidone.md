@@ -3,7 +3,7 @@ layout: default
 title: "Risperidone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Risperidone. 5 predicted indications."
+description: "Health news related to Risperidone. 4 predicted indications."
 permalink: /news/risperidone/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Risperidone?">
-<strong>Risperidone</strong> currently has <strong>4 news articles</strong>, with 5 predicted indications.
+<strong>Risperidone</strong> currently has <strong>4 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,11 @@ This page combines the AI-predicted indications for Risperidone with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
+<li><strong>Predicted indications (4)</strong>:<ul>
 <li>gaze palsy, familial horizontal, with progressive scoliosis</li>
 <li>amelocerebrohypohidrotic syndrome</li>
 <li>Phelan-McDermid syndrome</li>
 <li>trichotillomania</li>
-<li>major affective disorder</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/risperidone/' | relative_url }}">View full drug report →</a></p>

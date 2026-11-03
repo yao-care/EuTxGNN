@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Semaglutide. 0 predicted indications."
 permalink: /news/semaglutide/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Semaglutide News
@@ -32,19 +32,19 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 ## Related News (6)
 
+### [Wegovy, le médicamentanti-obésité, maintenantdisponible en comprimé](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWJDeXdVVnBZeEFaNDdqUnNBcm5kb09GZXBSTS1MWWFlNTIyb2FTVGFYTlBvZEV0U0ZPdG5mRmRlQ3RpWmFCR2tQeDhDd1B0NEN4Z3pUUl9jSFY3ZGh3WGVTaFlQUWUtU2hjaTA2R1J1RlRtZ3BET3Mwb0xuVTFpc1NRNWZtY2N0U0lhRnFERHRpT2lWVE9fTkw1NkkzQ0x5Z1lxOUxmVkExSnFkb015Ymd3?oc=5)
+
+2026-11-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [franceinfo](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWJDeXdVVnBZeEFaNDdqUnNBcm5kb09GZXBSTS1MWWFlNTIyb2FTVGFYTlBvZEV0U0ZPdG5mRmRlQ3RpWmFCR2tQeDhDd1B0NEN4Z3pUUl9jSFY3ZGh3WGVTaFlQUWUtU2hjaTA2R1J1RlRtZ3BET3Mwb0xuVTFpc1NRNWZtY2N0U0lhRnFERHRpT2lWVE9fTkw1NkkzQ0x5Z1lxOUxmVkExSnFkb015Ymd3?oc=5)
+
+---
+
 ### [Le traitement anti-obésité Wegovy disponible dans les pharmacies de France sous forme de comprimé](https://news.google.com/rss/articles/CBMihgJBVV95cUxOOTh0UGF5ZEpRbUVaenhMS1RuUDBwY0RuZEhSaVpjOXhDVnRTVVdGbkJ0ZENRN3dtYk80VzRvYjFTT0p0YmRQenBGOEtZVmQ5aHFGWm9zVG1XUktWRHR0dHdMbVBMZlVTS0F2SUdIZHJJcDc0bS1VZ0V2SWkwSEt4RkVnV2RvRFdZMGpsUUgxNG1kcG1YdG5lVi1WcTE5QzhiUm11UGRDN3lxMVpxakp1dGc1VDNsdXBOQXJkVFBJQkNUQlRBLVJ1cjNWSjV4RGN5ZDJEUGEyLS1FMmh1Qno0WnpuVlJWTFByZ25HU3dIMlE0Tk9maHBoVEZVdFF4dFlPZ3lzQmJ3?oc=5)
 
 2026-11-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
 Source: [Ouest-France](https://news.google.com/rss/articles/CBMihgJBVV95cUxOOTh0UGF5ZEpRbUVaenhMS1RuUDBwY0RuZEhSaVpjOXhDVnRTVVdGbkJ0ZENRN3dtYk80VzRvYjFTT0p0YmRQenBGOEtZVmQ5aHFGWm9zVG1XUktWRHR0dHdMbVBMZlVTS0F2SUdIZHJJcDc0bS1VZ0V2SWkwSEt4RkVnV2RvRFdZMGpsUUgxNG1kcG1YdG5lVi1WcTE5QzhiUm11UGRDN3lxMVpxakp1dGc1VDNsdXBOQXJkVFBJQkNUQlRBLVJ1cjNWSjV4RGN5ZDJEUGEyLS1FMmh1Qno0WnpuVlJWTFByZ25HU3dIMlE0Tk9maHBoVEZVdFF4dFlPZ3lzQmJ3?oc=5)
-
----
-
-### [I lost 10st on Mounjaro but made a mistake in the first eight months - now experts warn of the common GLP-1 trap - The Sun](https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMkwxYlZYQkEyWUNMQ2JtaEZXSk5KbENGMkJlY3phUzB5RkZOZUhzcllvOUppeEhJMlp6V2hiR2dBTHVCMFJZcnZ4WllkY2pQTVpNMTUtT0ItQkdmUE4xTm9IRUw2WnhPX2dNS01tWVRxSHFKVXc?oc=5)
-
-2026-11-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMkwxYlZYQkEyWUNMQ2JtaEZXSk5KbENGMkJlY3phUzB5RkZOZUhzcllvOUppeEhJMlp6V2hiR2dBTHVCMFJZcnZ4WllkY2pQTVpNMTUtT0ItQkdmUE4xTm9IRUw2WnhPX2dNS01tWVRxSHFKVXc?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Anakinra News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Anakinra. 10 predicted indications."
+description: "Health news related to Anakinra. 9 predicted indications."
 permalink: /news/anakinra/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Anakinra?">
-<strong>Anakinra</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
+<strong>Anakinra</strong> currently has <strong>7 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,10 +26,9 @@ This page combines the AI-predicted indications for Anakinra with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
+<li><strong>Predicted indications (9)</strong>:<ul>
 <li>extracutaneous mastocytoma</li>
 <li>hepatic infarction</li>
-<li>autosomal recessive familial Mediterranean fever</li>
 <li>aggressive systemic mastocytosis</li>
 <li>hepatic veno-occlusive disease</li>
 <li>peliosis hepatis</li>
@@ -42,7 +41,15 @@ This page combines the AI-predicted indications for Anakinra with the latest hea
 <p><a href="{{ '/drugs/anakinra/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Expertos proponen un abordaje multidisciplinar de la enfermedad psoriásica que anticipe su progresión y mejore la calidad de vida de los pacientes - Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeExsUUx5Y2Y2V3NRRzlOaGJFRFNqZDZDQ0lPNW1yTjZGX2JEMC1FUVlSWENkUkdjNl9PenNMQXIzY3FVLUR6b3VQTjhqaVBsTS00bGs5QWFMZXB1dE9mQ3laVzFQQWtfSFhOLWxWdE95MWs0S2lQQm5qMy1LSFYyMmJrU2ppWWtiVFRFSm1lYmRycFdzWXdUZ0dVdjN5bTBIbER2MGNLVHl1dXVBZE1IVjZNMzZ5OUdCcnhYSFBKMTE5dXBuM3B2QWln?oc=5)
+
+2026-11-03 <span class="news-indication-tag">artritis</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeExsUUx5Y2Y2V3NRRzlOaGJFRFNqZDZDQ0lPNW1yTjZGX2JEMC1FUVlSWENkUkdjNl9PenNMQXIzY3FVLUR6b3VQTjhqaVBsTS00bGs5QWFMZXB1dE9mQ3laVzFQQWtfSFhOLWxWdE95MWs0S2lQQm5qMy1LSFYyMmJrU2ppWWtiVFRFSm1lYmRycFdzWXdUZ0dVdjN5bTBIbER2MGNLVHl1dXVBZE1IVjZNMzZ5OUdCcnhYSFBKMTE5dXBuM3B2QWln?oc=5)
+
+---
 
 ### [La transición al genérico de tofacitinib preserva el control de la artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFk5TGFSVGVWUUNiU1B1SFBoVGw4UkhJbjhNY1hWYnpGQXlETGE2YjlaUnVXUE9QeGgzbmpfODhEbS1PSEYtR0RiWkNqaUpMaEh0aURENDJTZFFwRnFfQnV2ZmZReUoxRWZhOHJ3RUVXN29HbEkwSjBKNmhxNmJCWktMeFBYNF92TGQ4OHIyUmR3bkwxM0JlcjVwcEItd3F2YzBIYnE4MkRtWHMzcmRqYjZGWlprWFkxTVlCRFljb3jSAbsBQVVfeXFMTm5BT3ZtS3lac3pRN0JCRlNzdVA3YlMtSVhqTkZ5clBNSGlTTlZYWkZDblpaRlNiZ2lTeVhlZEZEbkVXUXEzaWlHb0tyZjBVY0llTGxGYXlETWtFaFQ2Mmh6b0lISTFXcXZYSmtlZXVCY3U3TzMtcmRlWjFsUGdfOFZZTVpBQXVOTVpOdzJKRzlVM2s5QXhwU3N6VzhtU2YxSGpVSkFMeDZ1NXlrNzFQMy1TZHl2UkRHN0R6cw?oc=5)
 

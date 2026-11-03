@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Panitumumab?">
-<strong>Panitumumab</strong> currently has <strong>24 news articles</strong>, with 2 predicted indications.
+<strong>Panitumumab</strong> currently has <strong>27 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,23 @@ This page combines the AI-predicted indications for Panitumumab with the latest 
 <p><a href="{{ '/drugs/panitumumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (24)
+## Related News (27)
+
+### [hkk-Gesundheitsreport: Neue Diabetesmedikamente auf dem Vormarsch - Versorgungspotenziale bleiben - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMiigJBVV95cUxPUm54aENlYmVYbGhYWDRRSG1tWnA0eWxGc296MmlONWZjalAydDY5ZUhla0JTUjc4MndtemVSTm9wZENaRmt6d2R6MG44OU10UWIzR1RiVmlCSGdMZ0RpaXg2c1RIbWVtQUtUOC1SNVRYcUhXVG9xb05vWGlzZWRzOEdFd3ZMU1dMX1ZGQ0RRNW1IREhQdUo5MTNLYzAzWWdJc1hmSTVJYy1QbExxMzZFR3ZjWUk4ZjRoNm9mbzd2dlFhaEdMMGFfREdCamdyTU4yZ2pxSEVrWmJCR3FITUlEZHY0WjlFWU1tYXhJOTQtMXhlTU5KUDZCZVNYdGtURDBoREI1a1ViVUpFQQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">diabetes</span>
+
+Source: [Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMiigJBVV95cUxPUm54aENlYmVYbGhYWDRRSG1tWnA0eWxGc296MmlONWZjalAydDY5ZUhla0JTUjc4MndtemVSTm9wZENaRmt6d2R6MG44OU10UWIzR1RiVmlCSGdMZ0RpaXg2c1RIbWVtQUtUOC1SNVRYcUhXVG9xb05vWGlzZWRzOEdFd3ZMU1dMX1ZGQ0RRNW1IREhQdUo5MTNLYzAzWWdJc1hmSTVJYy1QbExxMzZFR3ZjWUk4ZjRoNm9mbzd2dlFhaEdMMGFfREdCamdyTU4yZ2pxSEVrWmJCR3FITUlEZHY0WjlFWU1tYXhJOTQtMXhlTU5KUDZCZVNYdGtURDBoREI1a1ViVUpFQQ?oc=5)
+
+---
+
+### [Diabetes-Implant: Strom wandelt Glukose um und senkt Werte bei Mäusen - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWVZGRTg2SFNuOUR2aGJxX19pRk1adVltekpnMzZQcHVFbUhON0pSRTRkMHE1b0tDVDFzbHF4SFljcWZ4VE16UU00c3ZrTUZ2MC1iTlN3OGxwaUNieEtaeUNQRzJnTURZLTVPUFZtalJuQ28xOFc3SmEwZmdFR2wxeExTM2c3MVF3Q0VvZGhhX0ltcGM5Ul85LUxPOUx5VW1VVm53?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWVZGRTg2SFNuOUR2aGJxX19pRk1adVltekpnMzZQcHVFbUhON0pSRTRkMHE1b0tDVDFzbHF4SFljcWZ4VE16UU00c3ZrTUZ2MC1iTlN3OGxwaUNieEtaeUNQRzJnTURZLTVPUFZtalJuQ28xOFc3SmEwZmdFR2wxeExTM2c3MVF3Q0VvZGhhX0ltcGM5Ul85LUxPOUx5VW1VVm53?oc=5)
+
+---
 
 ### [Typ-2-Diabetes: ETH-Implantat senkt Mäuse-Blutzucker binnen einer Stunde](https://news.google.com/rss/articles/CBMivgFBVV95cUxPdEFhOFZfRnZCS0NQQ1d1Tlp6Vm5FMmpkbWduMzVFT29kRlFZbWgtWkp6Z1VCRDhEOElicmNWb19GNmlrR2docjlUWFI4YVhJQ3JoWl9kMHE4S1M5YXRQN3ZmNklRWldKdXQ5TF9TM2wxUEFPM2xJR2lpTDhCU1pjeEhfOU5Pazlnb29kX0hTM19LQnotNUNFWnozYWNLRjlHWUtCN093T2EzU2RVNUtJWEtGd0FXeHZ4S1IwTTJR?oc=5)
 
@@ -73,6 +89,14 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXR
 2026-11-02 <span class="news-indication-tag">diabetes</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxOamlKZTFFakFXUGNUQ28tUWwzRWZSNEpHRTJUNmVnQnVNbU1JSVNXNkpZZF9CaUFzdmdJbmRjQzUyM2dkS1ZmNUxwd05zUVpiRHE5dDJNTkZrT3BRSk9aS1VVY09PTGxRNnpIYWtPOXRkaTVGZVFGUHdUMDV3N1BFaXpjejdPRFFSUkdfMW9XZUI1UzEzbnlVWGVoNVhLSmZramc3cFRfOHZuXzVnRGxEN0drS1FyUzE5SW1VRUI3YjhSQWJL?oc=5)
+
+---
+
+### [A partir de los 65 años, comer dos latas de sardinas a la semana puede reducir el riesgo de padecer diabetes, según un farmacéutico - El Economista](https://news.google.com/rss/articles/CBMitwJBVV95cUxQTjNBMVFyRGN3YmdleWw5NWNCc3AzZGl1MDY0emRub21wbDhIZlphVEpNVUh1cWx5SjNwazJ5aFVXdUNpNjJVdURSR2VnanV1dlM0YUJKV3ZjUXhoc1U3dnRfWHZBM1lLeFRFUExoUWx0dzBQZWRXWmJJSVVLYkJEanB4bUdZLWhMTHpBSzdfWFI1VzBGRXJhTGVldHpBRGtvd2pzOWtXbTBIeUpwU2NtOExDTmU3dHA1UVN3MjhZME9XS2Nfa2ZQY09nZW1Qc3AxeHFpVXBrbXkzeFh2VUlUcDYzeXozTVlMeDE1dTNYdWdqblRJSXYyczJqVXlnRkxkdTlNejB4bFJiNzhlM0dhblhoUlRaOE1jSzIxc2dlN2pBTUppel9udDNNTlhoZHB5RFhIeDVLRdIBogJBVV95cUxORzRPczdqMkZObVJRZEt4dkJOVm1fS19TUnJNcmtPcTdWYmtzNlFPakpWNG55cUlFc0VuSWJZMy1yR2F5VVR0SG9YMmpuUFZsNUZtVzEyRXlPMTBYYWpnUjJTNGRubFg3V2NkVkZMdUQteHZtczJpQ2psVWxOa0lnMkRkOEdNSTRfdkJPRzdScmFCOThBbjBFQnJJd25VMndmTkMyQWVGdTZaWEtvNERSdEVvTkhCVW84MGVWU2ZtTk9MLW1tQ0VQbDM5ekhaR3haOHRnY2wydl9ma0pZc3NucVQtNF91bVJNa1JZTl8xNUZYVTJJb1BHTk1tc19CVkVhM0xGeDdsN3NYaDBoZ3NCUjdRT01hTVBIN29TU0xWOEJJZw?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [El Economista](https://news.google.com/rss/articles/CBMitwJBVV95cUxQTjNBMVFyRGN3YmdleWw5NWNCc3AzZGl1MDY0emRub21wbDhIZlphVEpNVUh1cWx5SjNwazJ5aFVXdUNpNjJVdURSR2VnanV1dlM0YUJKV3ZjUXhoc1U3dnRfWHZBM1lLeFRFUExoUWx0dzBQZWRXWmJJSVVLYkJEanB4bUdZLWhMTHpBSzdfWFI1VzBGRXJhTGVldHpBRGtvd2pzOWtXbTBIeUpwU2NtOExDTmU3dHA1UVN3MjhZME9XS2Nfa2ZQY09nZW1Qc3AxeHFpVXBrbXkzeFh2VUlUcDYzeXozTVlMeDE1dTNYdWdqblRJSXYyczJqVXlnRkxkdTlNejB4bFJiNzhlM0dhblhoUlRaOE1jSzIxc2dlN2pBTUppel9udDNNTlhoZHB5RFhIeDVLRdIBogJBVV95cUxORzRPczdqMkZObVJRZEt4dkJOVm1fS19TUnJNcmtPcTdWYmtzNlFPakpWNG55cUlFc0VuSWJZMy1yR2F5VVR0SG9YMmpuUFZsNUZtVzEyRXlPMTBYYWpnUjJTNGRubFg3V2NkVkZMdUQteHZtczJpQ2psVWxOa0lnMkRkOEdNSTRfdkJPRzdScmFCOThBbjBFQnJJd25VMndmTkMyQWVGdTZaWEtvNERSdEVvTkhCVW84MGVWU2ZtTk9MLW1tQ0VQbDM5ekhaR3haOHRnY2wydl9ma0pZc3NucVQtNF91bVJNa1JZTl8xNUZYVTJJb1BHTk1tc19CVkVhM0xGeDdsN3NYaDBoZ3NCUjdRT01hTVBIN29TU0xWOEJJZw?oc=5)
 
 ---
 
@@ -121,6 +145,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLT
 2026-10-31 <span class="news-indication-tag">diabetes</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQUhKZUEzTTBmU0V2dUFOZG13bXFLZGpnb215U0VUZ0ZhbF9ORWxadGhFQ19XcGV0WUVsRXVpUHRZM0RpSThzMmgxQ3lhZkhqbDZLdV80WGV0eFIxRGpyckRpNFBzNUVkeXJmVWhGXzJOdm5kRlRNNGxQWG5sRHF1VnZtMHpyaXExVjJ2aFl4bC0xYi1vNjdkWGJ3Q3BfUDNiUUNNU3RtU1MySUhmYnBvY3ZHZFNnTkdoU2tUNjJMaFh2cTFQS3EwZHd6aEMydnAybGZxWVg2V2x4b3VOMkFXLTZDWlTSAewBQVVfeXFMTVRZdFZvZlJ5RDFUMVJIeE1nQWNMQ0YxZ005R29mam5scXgta3NEcm44MWdwZUFSemo1eVNPam91OVI1eXZEY2x6UElseTNJOWhidWFIaHFKRkhzVDIwRFpianllTFRJbV9VNHJkbnlJZWQ1cnlULTQxUTZqX2ptbmNENFAwOHFTLVI1Z2dyeXg0amRGNkRBZ0FnazRBYmcwVWFKUE50RlpkQk1yRndqc1ZvQ3ZmSHZMSUxZdVVfcjI2dmZMcXBvSXBVSEowY0lKcjF3NVZpTTVyeGRoczN1Z20yN0ttNzBETW1SZGU?oc=5)
+
+---
+
+### [Über die glykämische Kontrolle hinaus: kardiovaskuläre Endpunkte im Fokus – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGlkTGJCQU9zSWMwNGJ3YVI2MDl6OERBb0dpU19XOHNLaDdUcjVOQWlCU3kxcXdLWVd2ZDZIczZ2czluMXhhMVBpV3FuRTItVGdpd2daZnlwMGdKb01rLWFBenVSNHZ1a0pXanhDTlN2cXpjNENIZkZzYzJDWHpBc00tSTBEeDlhYnRhM2hFMnhhdTd2Vmp1YkRoQ2txVHNxTl9mTW42U1F2M0F5MzZFemdrWXlWOUFONC1ZandQRUJrV3JmM1BVNVBjLTRFY0hnLVBIaEhiY2I?oc=5)
+
+2026-10-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGlkTGJCQU9zSWMwNGJ3YVI2MDl6OERBb0dpU19XOHNLaDdUcjVOQWlCU3kxcXdLWVd2ZDZIczZ2czluMXhhMVBpV3FuRTItVGdpd2daZnlwMGdKb01rLWFBenVSNHZ1a0pXanhDTlN2cXpjNENIZkZzYzJDWHpBc00tSTBEeDlhYnRhM2hFMnhhdTd2Vmp1YkRoQ2txVHNxTl9mTW42U1F2M0F5MzZFemdrWXlWOUFONC1ZandQRUJrV3JmM1BVNVBjLTRFY0hnLVBIaEhiY2I?oc=5)
 
 ---
 
@@ -201,14 +233,6 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2dCbGlS
 2026-10-28 <span class="news-indication-tag">diabetes</span>
 
 Source: [medonline](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnhSNXlPZ0NjUnhHTTA3ZGFMdVh4YkJyYjlVUmRNZFVHVlNLb1JDRGpKYkRoYmpUTFl4Ty1zUEZwdmZudEo3ckFJeGZCeFdkbDd0UzNMbzRuUEtScnVZQUhkaTFrSkNqSGF2d3hyUE9tU0FoRWJ6ZWRvSFVJOUtHLWRuanhkWlVpY2VTUHkyNmhKeFFwR29US1gyVGQ?oc=5)
-
----
-
-### [Diabesity: Elektronisches Implantat baut Blutzucker ab und senkt Körpergewicht bei Mäusen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZmhIbDBEMzc4elgydUJ0Z3RJVEM1Q3hCUmJQNFhRNzlnRE5abDAwclBFd0ZqZG95UjBSX0xSMWVKX3dmWmxGQ1NmUUxkb1JnZmJ4eUZqSF81dnU1OGFtOXhqQjUwS3MwbG9CSTFrTXY5N3h3a0kyVUNpdGFpSms1U2h2LTNZTHo1TWhLNnEwU0pMSktRRElEcm82bDJmZFctVTVXbF8xOEE1M2ZVVUNWNTBxaDcyWVNnd180RWZMWG52V2dwcTNlYW5nRnZnc0R5SEYyQTFQazB0bmZ6QnVJZXJEcno0RzZ0Z0JteHVn?oc=5)
-
-2026-10-27 <span class="news-indication-tag">diabetes</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZmhIbDBEMzc4elgydUJ0Z3RJVEM1Q3hCUmJQNFhRNzlnRE5abDAwclBFd0ZqZG95UjBSX0xSMWVKX3dmWmxGQ1NmUUxkb1JnZmJ4eUZqSF81dnU1OGFtOXhqQjUwS3MwbG9CSTFrTXY5N3h3a0kyVUNpdGFpSms1U2h2LTNZTHo1TWhLNnEwU0pMSktRRElEcm82bDJmZFctVTVXbF8xOEE1M2ZVVUNWNTBxaDcyWVNnd180RWZMWG52V2dwcTNlYW5nRnZnc0R5SEYyQTFQazB0bmZ6QnVJZXJEcno0RzZ0Z0JteHVn?oc=5)
 
 ---
 

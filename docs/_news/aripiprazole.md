@@ -3,7 +3,7 @@ layout: default
 title: "Aripiprazole News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Aripiprazole. 9 predicted indications."
+description: "Health news related to Aripiprazole. 8 predicted indications."
 permalink: /news/aripiprazole/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Aripiprazole?">
-<strong>Aripiprazole</strong> currently has <strong>4 news articles</strong>, with 9 predicted indications.
+<strong>Aripiprazole</strong> currently has <strong>4 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,7 @@ This page combines the AI-predicted indications for Aripiprazole with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>major affective disorder</li>
+<li><strong>Predicted indications (8)</strong>:<ul>
 <li>gaze palsy, familial horizontal, with progressive scoliosis</li>
 <li>Phelan-McDermid syndrome</li>
 <li>amelocerebrohypohidrotic syndrome</li>
