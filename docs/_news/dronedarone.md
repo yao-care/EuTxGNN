@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>38 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>37 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (38)
+## Related News (37)
 
 ### [Mireia Illueca, neurocirujana: “Cada minuto que se pierde tras un ictus es tejido cerebral que no se recupera” - Diario AS](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLXpXV0VVck5weVdiSkVCaDEtblZ1a1EyXzRXczlENzA1Q3dxSy1EajFnRlA3SFFZVEJpbWxTckhndUF0b0thWW1Tc200QzVzbmh6YlJWTk1COXlDaVZ2a3RkektHN1lfZlVyZS1YMEJJd3Y2QjdRWHlGTVc3WUR4TC1LNXdsaGFVcmtEZ2VxVGhJWkFmNmZZZlhxVV9TY3h2cVhhcWFtbGxNU1hQcmFGMnBuZmp4b29OUy14WGt3cFhaQ0ZnU1FkVXVOeUhZWlNGNl9DZFFBdHBkRWdiSFYtOWdn0gH2AUFVX3lxTE9tUWFfSkJsSTlRVS1RMmZGY0RnamExS3F2WGtfZmF3bTY1aVZsWnQ3MXNUVkxPTTRiYUxuRGlvbXhXbUJBTzA3RkFHbXNjSFNXWDVKV0IwZlFFejdGVnpfTG5KOTBmclpYRzRndDc5NERJNzhoVERmbmR2ZjdMMjdrSnE1a19mcGQzNk9Rb3pUcy1leE9jOC1kYjQxZG5rMGRTUTNnV2thT2xHbXoxcjBSSUpiWEp6U0lYY0xpMnBLTVRuWm1SQ21WUHR4dC1OamhySjlMb1J2LVVjcHdaTnlxR1ZRODhsOHotQXpOUnBEZDBmZHJQQQ?oc=5)
 
@@ -77,7 +77,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS25l
 
 ### [Zum morgigen Weltmännertag: Regelmäßig Blutdruck messen, um Schlaganfall vorzubeugen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUW9qS0Z2eXEtN01OM1E5MVhWQzYyTUJkYjBPQlZvcXhWc0dzOG1JLW1ybnJjam5DY2RaM0pHc01iTVJMQk9tOHFQQ2tuVGZLUFRWdDMxcHpLNDV5LVBUOFAtb0FLUmhoS3VDdExsb01DRG5PaGM3RTZISE9XQjZucVp5RVc0Y0ZOVngzTlZHck01dS0xbXhObUkzRFB1eGRRSFhodDNJOGJqMEJXelRnbEJ5QnR4aXNXUjB0UUJxb3I4SklqQk0yZE13?oc=5)
 
-2026-11-02 <span class="news-indication-tag">Schlaganfall</span>
+2026-11-02 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUW9qS0Z2eXEtN01OM1E5MVhWQzYyTUJkYjBPQlZvcXhWc0dzOG1JLW1ybnJjam5DY2RaM0pHc01iTVJMQk9tOHFQQ2tuVGZLUFRWdDMxcHpLNDV5LVBUOFAtb0FLUmhoS3VDdExsb01DRG5PaGM3RTZISE9XQjZucVp5RVc0Y0ZOVngzTlZHck01dS0xbXhObUkzRFB1eGRRSFhodDNJOGJqMEJXelRnbEJ5QnR4aXNXUjB0UUJxb3I4SklqQk0yZE13?oc=5)
 
@@ -205,7 +205,7 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV9
 
 ### [Cibi ultraprocessati, non contano solo le calorie: cosa succede al cervello e all'insulina - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1gFBVV95cUxObmFaYVFsdi04QXdIVDZkX1RTWVI0MTBTUjJoRXVYMTdkTkZNR3JVOGJFVjdHem9DNGg2dmxuRWY1SE5hRG9aNXdaYlJfTDE2MmIzdTJ1V093c29lOGJ6a2pPakxoR1FBVnl5eFFtNElLLXp1OWxWc1VGOU5ySXFVbTFFNlNlRXh6LURiQkRnOFVhemJXd3FRdG1xN0N6Zm9Qb2d3ZE44M0VrTjk2MkF3bHFrUk5XZ3lfaG5jNkduRDFQTThvajRHNTVhWVFPZno1SzhxLUt30gG8AUFVX3lxTE85MkFzRVRhcHd5ZGxrdTBxX0pQZDdpUUVPelhHU1pLOFJKY2hMLUFyb2ZNZ0RyU1czbGdUTXhWcjBfSzVMYjJ6c2JoOUpVMVVwWmNMSU5nSlFiUmZrdENHenp2NHhtODBhR1ZQbW9xRXlpVWxMeC1nWnl0SFgxSUZrdjZOTEtXN3VDdWhYNnVReTVmS3p3cDdHNDhhcEVWakl6RloyX01xcXZGOUs3UU02S291bHljSk1jNV9o?oc=5)
 
-2026-10-30 <span class="news-indication-tag">ictus</span>
+2026-10-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span>
 
 Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1gFBVV95cUxObmFaYVFsdi04QXdIVDZkX1RTWVI0MTBTUjJoRXVYMTdkTkZNR3JVOGJFVjdHem9DNGg2dmxuRWY1SE5hRG9aNXdaYlJfTDE2MmIzdTJ1V093c29lOGJ6a2pPakxoR1FBVnl5eFFtNElLLXp1OWxWc1VGOU5ySXFVbTFFNlNlRXh6LURiQkRnOFVhemJXd3FRdG1xN0N6Zm9Qb2d3ZE44M0VrTjk2MkF3bHFrUk5XZ3lfaG5jNkduRDFQTThvajRHNTVhWVFPZno1SzhxLUt30gG8AUFVX3lxTE85MkFzRVRhcHd5ZGxrdTBxX0pQZDdpUUVPelhHU1pLOFJKY2hMLUFyb2ZNZ0RyU1czbGdUTXhWcjBfSzVMYjJ6c2JoOUpVMVVwWmNMSU5nSlFiUmZrdENHenp2NHhtODBhR1ZQbW9xRXlpVWxMeC1nWnl0SFgxSUZrdjZOTEtXN3VDdWhYNnVReTVmS3p3cDdHNDhhcEVWakl6RloyX01xcXZGOUs3UU02S291bHljSk1jNV9o?oc=5)
 
@@ -288,14 +288,6 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXp
 2026-10-28 <span class="news-indication-tag">ictus</span>
 
 Source: [iSanidad](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFl2YTZBNkhIT29PcG5BRkZSS1VzWWJIOUdDWlRGb3NIS256bXJBdVd3bTRXS1pHMTB0UFZZczBPS1hqMzRVM20zQWJwbXJLUXFjekV1VXFMTUgyZnFYa28za1FaWTRKUGJmeG1uRnlRd2x1cXAzN2dkSk1iNkNtV1p2V0JjZ1g4c2pHLUdYRFJHVXFMdXk5ZTI1aXhvUV9CdHBOcVJOeEpSUmFEU1BIb2gyUUlwQ2x5dU1hTG1FcFVNVW9FLWh0MllLV3EzamtOQTdyaWlrUQ?oc=5)
-
----
-
-### [Impfungen: Mehr als Schutz vor Infektionen? – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
-
-2026-10-28 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>50 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>51 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (50)
+## Related News (51)
+
+### [La vacunación de adultos, herramienta clave para prevenir las enfermedades cardiovasculares en Europa - Gaceta Médica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWdBakpEeWJ0aGxqZ3RkeGR0dS1tWXJwemNRd1BiLXRoWVNlYTJTdFN6Z0xWcUtabzBEYl9adjdneG5PM0FZRUFBSEUyREEwbzJDNi1JS0JSRmhjNmphaU1NWVZHOWp0bEZCVmNCdlp2Y0d0dFNWQW50UU1kME8wMW5Fei1rU2xzbC1ZVDhQVmYyWkl6WlAtUnBhc3AxVG1iUkhLWU5nUlNiLU4xOGFWbmVGckMtNldGaGlUY3J0VQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">cardiopatía</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWdBakpEeWJ0aGxqZ3RkeGR0dS1tWXJwemNRd1BiLXRoWVNlYTJTdFN6Z0xWcUtabzBEYl9adjdneG5PM0FZRUFBSEUyREEwbzJDNi1JS0JSRmhjNmphaU1NWVZHOWp0bEZCVmNCdlp2Y0d0dFNWQW50UU1kME8wMW5Fei1rU2xzbC1ZVDhQVmYyWkl6WlAtUnBhc3AxVG1iUkhLWU5nUlNiLU4xOGFWbmVGckMtNldGaGlUY3J0VQ?oc=5)
+
+---
+
+### [Hallan el origen de las alteraciones de memoria y atención en pacientes con hipertensión pulmonar](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZFNieVBFbmdKRGh3SXgwdXFQUU9OdWxxOVlKUGR4cG90U2ExcllyclpmcHVXeTVNa1lvSnV6R0xlN0ZhQ294Y2RJemF0a0NPRUYtWUFwUWZlUzZhdm14NWN3WkZtS1FNbmxBbGVUTm1hd3FzREFvQnZTSzVORzFWdllkWU81ZFFycWNZd1VzRGpjMUhrWEJsc1VReXhudHZFb2hlR1FaU0szOXd6V1Q1YzBxcndkSVlPcl9IWjltYV9Yck04YzhuMVp3azdReWlVeTJZSGFRcTVtT09rTEE?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZFNieVBFbmdKRGh3SXgwdXFQUU9OdWxxOVlKUGR4cG90U2ExcllyclpmcHVXeTVNa1lvSnV6R0xlN0ZhQ294Y2RJemF0a0NPRUYtWUFwUWZlUzZhdm14NWN3WkZtS1FNbmxBbGVUTm1hd3FzREFvQnZTSzVORzFWdllkWU81ZFFycWNZd1VzRGpjMUhrWEJsc1VReXhudHZFb2hlR1FaU0szOXd6V1Q1YzBxcndkSVlPcl9IWjltYV9Yck04YzhuMVp3azdReWlVeTJZSGFRcTVtT09rTEE?oc=5)
+
+---
 
 ### [Ceva Salud Animal reúne a veterinarios en Valencia para profundizar en el diagnóstico oftalmológico de la hipertensión felina](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMzdYVEYwLXE5SWFuWHRXM0NPd0pOdTRLb3dGeFBRbFVpME1KVGtqTk9LZ1ZNVzQ1NU1hLTYyaW1mejE3YXNLdzdZNlctaW5ZUlVhZVF2NWxVT1Q5bElZQ3JZcUZONEN2c192WDVQT0xtTENKNGVDWTA2N2oyTllXWWdjUnpvTDU4YU4yWk14THRNU21EOUlSNURaT3ozUmgtcUkzZW8xeGhYSXVwYzhrRlhUUTJpTVBEbzN0VFlZcVE2ZzBTWFFZeXl4VTMxZ0RNdWZ5N3djQlPSAd4BQVVfeXFMT2VoeTlBcjViUzhaZHRSZkFnc3NCZEZrckJVRm90SGdKUHYzdVdYVW0zQ2pDQkgtd0dDYjh4WnkzNUJ6TU8zWmM0blg1VFU4U2hsVVl5b0JQVGFfVGI4TGh1UFRfRGNoZWNGY2ZrcFRxQVkwLU1mYzBRWkpIQjEtUXgwYW4xc01YUXMzb0VjTkx1X3ZsN1B1TC1OVHR4TnNHWTVyQXF0V3NXU1JqMG9XZVJMWGstcnlhRGJlSXdiZUtZV1l5dFhUdG9ybGdzNERWUjVJVFJWZWxZUUR0R0JR?oc=5)
 
@@ -109,7 +125,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS25l
 
 ### [Zum morgigen Weltmännertag: Regelmäßig Blutdruck messen, um Schlaganfall vorzubeugen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUW9qS0Z2eXEtN01OM1E5MVhWQzYyTUJkYjBPQlZvcXhWc0dzOG1JLW1ybnJjam5DY2RaM0pHc01iTVJMQk9tOHFQQ2tuVGZLUFRWdDMxcHpLNDV5LVBUOFAtb0FLUmhoS3VDdExsb01DRG5PaGM3RTZISE9XQjZucVp5RVc0Y0ZOVngzTlZHck01dS0xbXhObUkzRFB1eGRRSFhodDNJOGJqMEJXelRnbEJ5QnR4aXNXUjB0UUJxb3I4SklqQk0yZE13?oc=5)
 
-2026-11-02 <span class="news-indication-tag">Schlaganfall</span>
+2026-11-02 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUW9qS0Z2eXEtN01OM1E5MVhWQzYyTUJkYjBPQlZvcXhWc0dzOG1JLW1ybnJjam5DY2RaM0pHc01iTVJMQk9tOHFQQ2tuVGZLUFRWdDMxcHpLNDV5LVBUOFAtb0FLUmhoS3VDdExsb01DRG5PaGM3RTZISE9XQjZucVp5RVc0Y0ZOVngzTlZHck01dS0xbXhObUkzRFB1eGRRSFhodDNJOGJqMEJXelRnbEJ5QnR4aXNXUjB0UUJxb3I4SklqQk0yZE13?oc=5)
 
@@ -285,7 +301,7 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV9
 
 ### [Cibi ultraprocessati, non contano solo le calorie: cosa succede al cervello e all'insulina - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1gFBVV95cUxObmFaYVFsdi04QXdIVDZkX1RTWVI0MTBTUjJoRXVYMTdkTkZNR3JVOGJFVjdHem9DNGg2dmxuRWY1SE5hRG9aNXdaYlJfTDE2MmIzdTJ1V093c29lOGJ6a2pPakxoR1FBVnl5eFFtNElLLXp1OWxWc1VGOU5ySXFVbTFFNlNlRXh6LURiQkRnOFVhemJXd3FRdG1xN0N6Zm9Qb2d3ZE44M0VrTjk2MkF3bHFrUk5XZ3lfaG5jNkduRDFQTThvajRHNTVhWVFPZno1SzhxLUt30gG8AUFVX3lxTE85MkFzRVRhcHd5ZGxrdTBxX0pQZDdpUUVPelhHU1pLOFJKY2hMLUFyb2ZNZ0RyU1czbGdUTXhWcjBfSzVMYjJ6c2JoOUpVMVVwWmNMSU5nSlFiUmZrdENHenp2NHhtODBhR1ZQbW9xRXlpVWxMeC1nWnl0SFgxSUZrdjZOTEtXN3VDdWhYNnVReTVmS3p3cDdHNDhhcEVWakl6RloyX01xcXZGOUs3UU02S291bHljSk1jNV9o?oc=5)
 
-2026-10-30 <span class="news-indication-tag">ictus</span>
+2026-10-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span>
 
 Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1gFBVV95cUxObmFaYVFsdi04QXdIVDZkX1RTWVI0MTBTUjJoRXVYMTdkTkZNR3JVOGJFVjdHem9DNGg2dmxuRWY1SE5hRG9aNXdaYlJfTDE2MmIzdTJ1V093c29lOGJ6a2pPakxoR1FBVnl5eFFtNElLLXp1OWxWc1VGOU5ySXFVbTFFNlNlRXh6LURiQkRnOFVhemJXd3FRdG1xN0N6Zm9Qb2d3ZE44M0VrTjk2MkF3bHFrUk5XZ3lfaG5jNkduRDFQTThvajRHNTVhWVFPZno1SzhxLUt30gG8AUFVX3lxTE85MkFzRVRhcHd5ZGxrdTBxX0pQZDdpUUVPelhHU1pLOFJKY2hMLUFyb2ZNZ0RyU1czbGdUTXhWcjBfSzVMYjJ6c2JoOUpVMVVwWmNMSU5nSlFiUmZrdENHenp2NHhtODBhR1ZQbW9xRXlpVWxMeC1nWnl0SFgxSUZrdjZOTEtXN3VDdWhYNnVReTVmS3p3cDdHNDhhcEVWakl6RloyX01xcXZGOUs3UU02S291bHljSk1jNV9o?oc=5)
 
@@ -392,14 +408,6 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXp
 2026-10-28 <span class="news-indication-tag">ictus</span>
 
 Source: [iSanidad](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFl2YTZBNkhIT29PcG5BRkZSS1VzWWJIOUdDWlRGb3NIS256bXJBdVd3bTRXS1pHMTB0UFZZczBPS1hqMzRVM20zQWJwbXJLUXFjekV1VXFMTUgyZnFYa28za1FaWTRKUGJmeG1uRnlRd2x1cXAzN2dkSk1iNkNtV1p2V0JjZ1g4c2pHLUdYRFJHVXFMdXk5ZTI1aXhvUV9CdHBOcVJOeEpSUmFEU1BIb2gyUUlwQ2x5dU1hTG1FcFVNVW9FLWh0MllLV3EzamtOQTdyaWlrUQ?oc=5)
-
----
-
-### [Impfungen: Mehr als Schutz vor Infektionen? – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
-
-2026-10-28 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>3 news articles</strong>, with 6 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>4 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [The common nut that could protect against Alzheimer’s if eaten daily - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNXBtbTc0OE1HOGJjN2k2N1FDeF9aSXBNVEdIWktHX3N1YUp3OFVzdGlUc1d2WHZvcXNyOUFkSGJwT1FPQlZnZUhhcnZjcDh3SzZ3TFdBMVc4NXBvaElPTUhpTVdqUWdjUGVPclpvQ3R5OXJoT0oyQm1leDlQSlVwWUoteTEwcmlUUlJFYjl2WHVXcGl1TC1CeGNCY1VvSkVmaGc?oc=5)
+
+2026-11-02 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNXBtbTc0OE1HOGJjN2k2N1FDeF9aSXBNVEdIWktHX3N1YUp3OFVzdGlUc1d2WHZvcXNyOUFkSGJwT1FPQlZnZUhhcnZjcDh3SzZ3TFdBMVc4NXBvaElPTUhpTVdqUWdjUGVPclpvQ3R5OXJoT0oyQm1leDlQSlVwWUoteTEwcmlUUlJFYjl2WHVXcGl1TC1CeGNCY1VvSkVmaGc?oc=5)
+
+---
 
 ### [First patient undergoes pioneering stem-cell treatment for Parkinson's - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUU5iNnJ4dTk5Z3c5TGN3VXloVmtaMUJROXh1YWZSdkNYcDMwaTRIVjZrN0FsYUw0S2phakh0SFFKZHlUeDE4X3ByVUNUZG5CUHRuV0dkR3AxY2tqVUZaSG5VNXJMUFFtaExWcUNvSnNlMGxpam9PUzlqR0syX21vYXN5cjNLM2Vk?oc=5)
 

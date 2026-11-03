@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Rimegepant?">
-<strong>Rimegepant</strong> currently has <strong>9 news articles</strong>, with 5 predicted indications.
+<strong>Rimegepant</strong> currently has <strong>10 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Rimegepant with the latest h
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [La vacunación de adultos, herramienta clave para prevenir las enfermedades cardiovasculares en Europa - Gaceta Médica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWdBakpEeWJ0aGxqZ3RkeGR0dS1tWXJwemNRd1BiLXRoWVNlYTJTdFN6Z0xWcUtabzBEYl9adjdneG5PM0FZRUFBSEUyREEwbzJDNi1JS0JSRmhjNmphaU1NWVZHOWp0bEZCVmNCdlp2Y0d0dFNWQW50UU1kME8wMW5Fei1rU2xzbC1ZVDhQVmYyWkl6WlAtUnBhc3AxVG1iUkhLWU5nUlNiLU4xOGFWbmVGckMtNldGaGlUY3J0VQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">cardiopatía</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWdBakpEeWJ0aGxqZ3RkeGR0dS1tWXJwemNRd1BiLXRoWVNlYTJTdFN6Z0xWcUtabzBEYl9adjdneG5PM0FZRUFBSEUyREEwbzJDNi1JS0JSRmhjNmphaU1NWVZHOWp0bEZCVmNCdlp2Y0d0dFNWQW50UU1kME8wMW5Fei1rU2xzbC1ZVDhQVmYyWkl6WlAtUnBhc3AxVG1iUkhLWU5nUlNiLU4xOGFWbmVGckMtNldGaGlUY3J0VQ?oc=5)
+
+---
 
 ### [How You Drink Your Tea Could Affect Your Heart Disease Risk, New Study Says](https://news.google.com/rss/articles/CBMid0FVX3lxTFBqRmtDTldGTXBqLXBlaHJXeFN2UVY0UEVNZzNUSGVNZmZEWklPc052X2JsSzYxVXNlVTV2R21QWURmSEFtbGFfeHdDcFMzM1EySGVyQmI2QW9ERndtYTNIMG1ScUx5X2RTQUpJdkdFVjN2RXpPNXBR?oc=5)
 

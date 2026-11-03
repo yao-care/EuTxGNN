@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>6 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>7 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Médicaments anti-obésité GLP-1 : près d'un Français sur cinq prêt à en prendre pour maigrir, pourquoi ce chiffre inquiète - Yahoo Life France](https://news.google.com/rss/articles/CBMifEFVX3lxTE1HWjIwcGprTEJnTDJNVEp4TTZ3Z1MzRXZWU05wMGZNWEN6dTlqWFFxa1VuOUNXazd6cV95NC1tcXd6MDU2RjB3MmxmR2tfN1lXTlJ6MTdnZ2x1N21QbkFkMkhBbXg1RWNpU3JuaEV0WmV0Z2pGWmxYSVc3bHM?oc=5)
+
+2026-11-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Yahoo Life France](https://news.google.com/rss/articles/CBMifEFVX3lxTE1HWjIwcGprTEJnTDJNVEp4TTZ3Z1MzRXZWU05wMGZNWEN6dTlqWFFxa1VuOUNXazd6cV95NC1tcXd6MDU2RjB3MmxmR2tfN1lXTlJ6MTdnZ2x1N21QbkFkMkhBbXg1RWNpU3JuaEV0WmV0Z2pGWmxYSVc3bHM?oc=5)
+
+---
 
 ### [Wegovy, le médicamentanti-obésité, maintenantdisponible en comprimé](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWJDeXdVVnBZeEFaNDdqUnNBcm5kb09GZXBSTS1MWWFlNTIyb2FTVGFYTlBvZEV0U0ZPdG5mRmRlQ3RpWmFCR2tQeDhDd1B0NEN4Z3pUUl9jSFY3ZGh3WGVTaFlQUWUtU2hjaTA2R1J1RlRtZ3BET3Mwb0xuVTFpc1NRNWZtY2N0U0lhRnFERHRpT2lWVE9fTkw1NkkzQ0x5Z1lxOUxmVkExSnFkb015Ymd3?oc=5)
 

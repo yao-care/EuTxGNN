@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Bupropion?">
-<strong>Bupropion</strong> currently has <strong>9 news articles</strong>, with 0 predicted indications.
+<strong>Bupropion</strong> currently has <strong>10 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Médicaments anti-obésité GLP-1 : près d'un Français sur cinq prêt à en prendre pour maigrir, pourquoi ce chiffre inquiète - Yahoo Life France](https://news.google.com/rss/articles/CBMifEFVX3lxTE1HWjIwcGprTEJnTDJNVEp4TTZ3Z1MzRXZWU05wMGZNWEN6dTlqWFFxa1VuOUNXazd6cV95NC1tcXd6MDU2RjB3MmxmR2tfN1lXTlJ6MTdnZ2x1N21QbkFkMkhBbXg1RWNpU3JuaEV0WmV0Z2pGWmxYSVc3bHM?oc=5)
+
+2026-11-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Yahoo Life France](https://news.google.com/rss/articles/CBMifEFVX3lxTE1HWjIwcGprTEJnTDJNVEp4TTZ3Z1MzRXZWU05wMGZNWEN6dTlqWFFxa1VuOUNXazd6cV95NC1tcXd6MDU2RjB3MmxmR2tfN1lXTlJ6MTdnZ2x1N21QbkFkMkhBbXg1RWNpU3JuaEV0WmV0Z2pGWmxYSVc3bHM?oc=5)
+
+---
 
 ### [GLP-1-basierte Therapien als mögliche Therapieoption bei Adipositas und resistenter Hypertonie – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNm0zNXp3X09UWF90aTR6X2NrTVU0RFMteVRTN1FORC13RnNpYXdFUWJCbkM3dVJnTC10QXJidW80cGZYWlh1WVh1RzZGRTRBSjFnQTU3bS1KZHB3Y2xqd01SbjR3dWVyVHMxeTVBOERRZnNVTmR3cVRyajJPdFZHb2wzczlNZmFmTGFpRk5wSHhObXZxZ3NWeWgySnJfMXRZclJySGo3U2FMZmNLYi1DUVh4Z3RQeWxTZW5sTUV2R3VKWG85ZkJ2aWZzeXhmZ3FFT2tBRkl1TElPaDVKZVlIRll5NEl3eDJLWTVBRi1kR1JBTWctTmc?oc=5)
 

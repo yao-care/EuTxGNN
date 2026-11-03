@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Aprepitant?">
-<strong>Aprepitant</strong> currently has <strong>22 news articles</strong>, with 10 predicted indications.
+<strong>Aprepitant</strong> currently has <strong>25 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Aprepitant with the latest h
 <p><a href="{{ '/drugs/aprepitant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (22)
+## Related News (25)
+
+### [La vacunación de adultos, herramienta clave para prevenir las enfermedades cardiovasculares en Europa - Gaceta Médica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWdBakpEeWJ0aGxqZ3RkeGR0dS1tWXJwemNRd1BiLXRoWVNlYTJTdFN6Z0xWcUtabzBEYl9adjdneG5PM0FZRUFBSEUyREEwbzJDNi1JS0JSRmhjNmphaU1NWVZHOWp0bEZCVmNCdlp2Y0d0dFNWQW50UU1kME8wMW5Fei1rU2xzbC1ZVDhQVmYyWkl6WlAtUnBhc3AxVG1iUkhLWU5nUlNiLU4xOGFWbmVGckMtNldGaGlUY3J0VQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">cardiopatía</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWdBakpEeWJ0aGxqZ3RkeGR0dS1tWXJwemNRd1BiLXRoWVNlYTJTdFN6Z0xWcUtabzBEYl9adjdneG5PM0FZRUFBSEUyREEwbzJDNi1JS0JSRmhjNmphaU1NWVZHOWp0bEZCVmNCdlp2Y0d0dFNWQW50UU1kME8wMW5Fei1rU2xzbC1ZVDhQVmYyWkl6WlAtUnBhc3AxVG1iUkhLWU5nUlNiLU4xOGFWbmVGckMtNldGaGlUY3J0VQ?oc=5)
+
+---
+
+### [Hallan el origen de las alteraciones de memoria y atención en pacientes con hipertensión pulmonar](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZFNieVBFbmdKRGh3SXgwdXFQUU9OdWxxOVlKUGR4cG90U2ExcllyclpmcHVXeTVNa1lvSnV6R0xlN0ZhQ294Y2RJemF0a0NPRUYtWUFwUWZlUzZhdm14NWN3WkZtS1FNbmxBbGVUTm1hd3FzREFvQnZTSzVORzFWdllkWU81ZFFycWNZd1VzRGpjMUhrWEJsc1VReXhudHZFb2hlR1FaU0szOXd6V1Q1YzBxcndkSVlPcl9IWjltYV9Yck04YzhuMVp3azdReWlVeTJZSGFRcTVtT09rTEE?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZFNieVBFbmdKRGh3SXgwdXFQUU9OdWxxOVlKUGR4cG90U2ExcllyclpmcHVXeTVNa1lvSnV6R0xlN0ZhQ294Y2RJemF0a0NPRUYtWUFwUWZlUzZhdm14NWN3WkZtS1FNbmxBbGVUTm1hd3FzREFvQnZTSzVORzFWdllkWU81ZFFycWNZd1VzRGpjMUhrWEJsc1VReXhudHZFb2hlR1FaU0szOXd6V1Q1YzBxcndkSVlPcl9IWjltYV9Yck04YzhuMVp3azdReWlVeTJZSGFRcTVtT09rTEE?oc=5)
+
+---
 
 ### [Ceva Salud Animal reúne a veterinarios en Valencia para profundizar en el diagnóstico oftalmológico de la hipertensión felina](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMzdYVEYwLXE5SWFuWHRXM0NPd0pOdTRLb3dGeFBRbFVpME1KVGtqTk9LZ1ZNVzQ1NU1hLTYyaW1mejE3YXNLdzdZNlctaW5ZUlVhZVF2NWxVT1Q5bElZQ3JZcUZONEN2c192WDVQT0xtTENKNGVDWTA2N2oyTllXWWdjUnpvTDU4YU4yWk14THRNU21EOUlSNURaT3ozUmgtcUkzZW8xeGhYSXVwYzhrRlhUUTJpTVBEbzN0VFlZcVE2ZzBTWFFZeXl4VTMxZ0RNdWZ5N3djQlPSAd4BQVVfeXFMT2VoeTlBcjViUzhaZHRSZkFnc3NCZEZrckJVRm90SGdKUHYzdVdYVW0zQ2pDQkgtd0dDYjh4WnkzNUJ6TU8zWmM0blg1VFU4U2hsVVl5b0JQVGFfVGI4TGh1UFRfRGNoZWNGY2ZrcFRxQVkwLU1mYzBRWkpIQjEtUXgwYW4xc01YUXMzb0VjTkx1X3ZsN1B1TC1OVHR4TnNHWTVyQXF0V3NXU1JqMG9XZVJMWGstcnlhRGJlSXdiZUtZV1l5dFhUdG9ybGdzNERWUjVJVFJWZWxZUUR0R0JR?oc=5)
 
@@ -73,6 +89,14 @@ Source: [El Confidencial](https://news.google.com/rss/articles/CBMitwFBVV95cUxPc
 2026-11-03 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVB3TmZJNFNuNXhwLW5YN3ZhcHdURVRRcWIzbUNBUW52YVdYdGVvdUhQTGFuTnNDUXhEbU1UZFpsaFBQTHZLNnd0aThqUzFtX1lfdUtFa0ZaM2ZScU1CbnItMk14OUJ5TGhhMjN1cW80Qm1oeE9TR2VTQUZVSnZlQkJvOGFtX2JycmRfUTJrZU9memRNTVk5QTJXdWVfcEUwbHY0YmN0anNXOEJ6ZDVSSm9R?oc=5)
+
+---
+
+### [Zum morgigen Weltmännertag: Regelmäßig Blutdruck messen, um Schlaganfall vorzubeugen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUW9qS0Z2eXEtN01OM1E5MVhWQzYyTUJkYjBPQlZvcXhWc0dzOG1JLW1ybnJjam5DY2RaM0pHc01iTVJMQk9tOHFQQ2tuVGZLUFRWdDMxcHpLNDV5LVBUOFAtb0FLUmhoS3VDdExsb01DRG5PaGM3RTZISE9XQjZucVp5RVc0Y0ZOVngzTlZHck01dS0xbXhObUkzRFB1eGRRSFhodDNJOGJqMEJXelRnbEJ5QnR4aXNXUjB0UUJxb3I4SklqQk0yZE13?oc=5)
+
+2026-11-02 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUW9qS0Z2eXEtN01OM1E5MVhWQzYyTUJkYjBPQlZvcXhWc0dzOG1JLW1ybnJjam5DY2RaM0pHc01iTVJMQk9tOHFQQ2tuVGZLUFRWdDMxcHpLNDV5LVBUOFAtb0FLUmhoS3VDdExsb01DRG5PaGM3RTZISE9XQjZucVp5RVc0Y0ZOVngzTlZHck01dS0xbXhObUkzRFB1eGRRSFhodDNJOGJqMEJXelRnbEJ5QnR4aXNXUjB0UUJxb3I4SklqQk0yZE13?oc=5)
 
 ---
 

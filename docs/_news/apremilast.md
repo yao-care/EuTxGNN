@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Apremilast?">
-<strong>Apremilast</strong> currently has <strong>27 news articles</strong>, with 0 predicted indications.
+<strong>Apremilast</strong> currently has <strong>30 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ This page combines the AI-predicted indications for Apremilast with the latest h
 <p><a href="{{ '/drugs/apremilast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (27)
+## Related News (30)
+
+### [La vacunación de adultos, herramienta clave para prevenir las enfermedades cardiovasculares en Europa - Gaceta Médica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWdBakpEeWJ0aGxqZ3RkeGR0dS1tWXJwemNRd1BiLXRoWVNlYTJTdFN6Z0xWcUtabzBEYl9adjdneG5PM0FZRUFBSEUyREEwbzJDNi1JS0JSRmhjNmphaU1NWVZHOWp0bEZCVmNCdlp2Y0d0dFNWQW50UU1kME8wMW5Fei1rU2xzbC1ZVDhQVmYyWkl6WlAtUnBhc3AxVG1iUkhLWU5nUlNiLU4xOGFWbmVGckMtNldGaGlUY3J0VQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">cardiopatía</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWdBakpEeWJ0aGxqZ3RkeGR0dS1tWXJwemNRd1BiLXRoWVNlYTJTdFN6Z0xWcUtabzBEYl9adjdneG5PM0FZRUFBSEUyREEwbzJDNi1JS0JSRmhjNmphaU1NWVZHOWp0bEZCVmNCdlp2Y0d0dFNWQW50UU1kME8wMW5Fei1rU2xzbC1ZVDhQVmYyWkl6WlAtUnBhc3AxVG1iUkhLWU5nUlNiLU4xOGFWbmVGckMtNldGaGlUY3J0VQ?oc=5)
+
+---
 
 ### [Expertos proponen un abordaje multidisciplinar de la enfermedad psoriásica que anticipe su progresión y mejore la calidad de vida de los pacientes - Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeExsUUx5Y2Y2V3NRRzlOaGJFRFNqZDZDQ0lPNW1yTjZGX2JEMC1FUVlSWENkUkdjNl9PenNMQXIzY3FVLUR6b3VQTjhqaVBsTS00bGs5QWFMZXB1dE9mQ3laVzFQQWtfSFhOLWxWdE95MWs0S2lQQm5qMy1LSFYyMmJrU2ppWWtiVFRFSm1lYmRycFdzWXdUZ0dVdjN5bTBIbER2MGNLVHl1dXVBZE1IVjZNMzZ5OUdCcnhYSFBKMTE5dXBuM3B2QWln?oc=5)
 
 2026-11-03 <span class="news-indication-tag">artritis</span>
 
 Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeExsUUx5Y2Y2V3NRRzlOaGJFRFNqZDZDQ0lPNW1yTjZGX2JEMC1FUVlSWENkUkdjNl9PenNMQXIzY3FVLUR6b3VQTjhqaVBsTS00bGs5QWFMZXB1dE9mQ3laVzFQQWtfSFhOLWxWdE95MWs0S2lQQm5qMy1LSFYyMmJrU2ppWWtiVFRFSm1lYmRycFdzWXdUZ0dVdjN5bTBIbER2MGNLVHl1dXVBZE1IVjZNMzZ5OUdCcnhYSFBKMTE5dXBuM3B2QWln?oc=5)
+
+---
+
+### [Hallan el origen de las alteraciones de memoria y atención en pacientes con hipertensión pulmonar](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZFNieVBFbmdKRGh3SXgwdXFQUU9OdWxxOVlKUGR4cG90U2ExcllyclpmcHVXeTVNa1lvSnV6R0xlN0ZhQ294Y2RJemF0a0NPRUYtWUFwUWZlUzZhdm14NWN3WkZtS1FNbmxBbGVUTm1hd3FzREFvQnZTSzVORzFWdllkWU81ZFFycWNZd1VzRGpjMUhrWEJsc1VReXhudHZFb2hlR1FaU0szOXd6V1Q1YzBxcndkSVlPcl9IWjltYV9Yck04YzhuMVp3azdReWlVeTJZSGFRcTVtT09rTEE?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZFNieVBFbmdKRGh3SXgwdXFQUU9OdWxxOVlKUGR4cG90U2ExcllyclpmcHVXeTVNa1lvSnV6R0xlN0ZhQ294Y2RJemF0a0NPRUYtWUFwUWZlUzZhdm14NWN3WkZtS1FNbmxBbGVUTm1hd3FzREFvQnZTSzVORzFWdllkWU81ZFFycWNZd1VzRGpjMUhrWEJsc1VReXhudHZFb2hlR1FaU0szOXd6V1Q1YzBxcndkSVlPcl9IWjltYV9Yck04YzhuMVp3azdReWlVeTJZSGFRcTVtT09rTEE?oc=5)
 
 ---
 
@@ -77,6 +93,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVB3T
 2026-11-02 <span class="news-drug-tag">Tofacitinib</span> <span class="news-indication-tag">artritis</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFk5TGFSVGVWUUNiU1B1SFBoVGw4UkhJbjhNY1hWYnpGQXlETGE2YjlaUnVXUE9QeGgzbmpfODhEbS1PSEYtR0RiWkNqaUpMaEh0aURENDJTZFFwRnFfQnV2ZmZReUoxRWZhOHJ3RUVXN29HbEkwSjBKNmhxNmJCWktMeFBYNF92TGQ4OHIyUmR3bkwxM0JlcjVwcEItd3F2YzBIYnE4MkRtWHMzcmRqYjZGWlprWFkxTVlCRFljb3jSAbsBQVVfeXFMTm5BT3ZtS3lac3pRN0JCRlNzdVA3YlMtSVhqTkZ5clBNSGlTTlZYWkZDblpaRlNiZ2lTeVhlZEZEbkVXUXEzaWlHb0tyZjBVY0llTGxGYXlETWtFaFQ2Mmh6b0lISTFXcXZYSmtlZXVCY3U3TzMtcmRlWjFsUGdfOFZZTVpBQXVOTVpOdzJKRzlVM2s5QXhwU3N6VzhtU2YxSGpVSkFMeDZ1NXlrNzFQMy1TZHl2UkRHN0R6cw?oc=5)
+
+---
+
+### [Zum morgigen Weltmännertag: Regelmäßig Blutdruck messen, um Schlaganfall vorzubeugen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUW9qS0Z2eXEtN01OM1E5MVhWQzYyTUJkYjBPQlZvcXhWc0dzOG1JLW1ybnJjam5DY2RaM0pHc01iTVJMQk9tOHFQQ2tuVGZLUFRWdDMxcHpLNDV5LVBUOFAtb0FLUmhoS3VDdExsb01DRG5PaGM3RTZISE9XQjZucVp5RVc0Y0ZOVngzTlZHck01dS0xbXhObUkzRFB1eGRRSFhodDNJOGJqMEJXelRnbEJ5QnR4aXNXUjB0UUJxb3I4SklqQk0yZE13?oc=5)
+
+2026-11-02 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUW9qS0Z2eXEtN01OM1E5MVhWQzYyTUJkYjBPQlZvcXhWc0dzOG1JLW1ybnJjam5DY2RaM0pHc01iTVJMQk9tOHFQQ2tuVGZLUFRWdDMxcHpLNDV5LVBUOFAtb0FLUmhoS3VDdExsb01DRG5PaGM3RTZISE9XQjZucVp5RVc0Y0ZOVngzTlZHck01dS0xbXhObUkzRFB1eGRRSFhodDNJOGJqMEJXelRnbEJ5QnR4aXNXUjB0UUJxb3I4SklqQk0yZE13?oc=5)
 
 ---
 

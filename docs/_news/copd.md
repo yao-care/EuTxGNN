@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "copd News"
+title: "BPCO (copd) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about copd. 1 articles, 26 related drugs."
+description: "Health news about BPCO (copd). 2 articles, 26 related drugs."
 permalink: /news/copd/
 last_modified_at: 2026-11-03
 ---
 
-# copd News
+# BPCO (copd) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about copd?">
-<strong>copd</strong> currently has <strong>1 news articles</strong> and 26 related drugs.
+<p class="key-answer" data-question="What news is there about BPCO (copd)?">
+<strong>BPCO (copd)</strong> currently has <strong>2 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “copd” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “BPCO” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -43,13 +43,21 @@ This page brings together the latest health news about “copd” and lists the 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [COPD: Spaziergänge können auch bei hoher Luftbelastung Exazerbationen vermeiden – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRG1iRkV6YWxJSGhRanYwMlpaRGN6emtjU3JmXzhVRlhUcFFDUzhOTjhmQzJFbVFzX05xOC1remFXemtqNlBpWk9NTzE3bVkzR294ZnVIUmdCbHBtRU03TWJ3S2ZqY2dYRzlNTHB6ZkpNT3ZGUEtYdUNDZVpHaS1vM2hFanpTR1N4REdtWjd6Z1RIVkpFSHhTS3A0SGNDZlp0VmFoUGw5b1NJczFhc3hNczVVaF9XNF84eF8tQ01XT1prS01iVHN6V0lXOFVaLURvZW4xT0MtdFptTHdDd0tCZQ?oc=5)
 
 2026-11-03
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRG1iRkV6YWxJSGhRanYwMlpaRGN6emtjU3JmXzhVRlhUcFFDUzhOTjhmQzJFbVFzX05xOC1remFXemtqNlBpWk9NTzE3bVkzR294ZnVIUmdCbHBtRU03TWJ3S2ZqY2dYRzlNTHB6ZkpNT3ZGUEtYdUNDZVpHaS1vM2hFanpTR1N4REdtWjd6Z1RIVkpFSHhTS3A0SGNDZlp0VmFoUGw5b1NJczFhc3hNczVVaF9XNF84eF8tQ01XT1prS01iVHN6V0lXOFVaLURvZW4xT0MtdFptTHdDd0tCZQ?oc=5)
+
+---
+
+### [BPCO, arriva una nuova cura biologica rimborsata dal SSN: meno crisi respiratorie, ma non è per tutti](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcXA4QUdVVTFRZjVLUWw2UW95OE9WU0hCOEVNWDNZRDAtRWhxNVQzQjRiVmhFNnVQamZFcDdscEhQd3VVam42dUl5eXZLV1h2OEpfbkxMaUpGYjV4YjFTd0M3MW5Ya3EzYnEyX0l0QnNKUDNpSFBsajR4Z0J3NkJWVVQwR3dtYUtRbE15U3hOUXJ4VUpvSWR6UXpCeWxhRUdETkc5NXZNV1I5c1hja1liQXdXVzFrcGE4bE9YWjhsUDFqLTNtXzNFV1pSUHNrZHMxMG1IYUk0V0kzcmtGWU1wMzhHcw?oc=5)
+
+2026-11-03
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcXA4QUdVVTFRZjVLUWw2UW95OE9WU0hCOEVNWDNZRDAtRWhxNVQzQjRiVmhFNnVQamZFcDdscEhQd3VVam42dUl5eXZLV1h2OEpfbkxMaUpGYjV4YjFTd0M3MW5Ya3EzYnEyX0l0QnNKUDNpSFBsajR4Z0J3NkJWVVQwR3dtYUtRbE15U3hOUXJ4VUpvSWR6UXpCeWxhRUdETkc5NXZNV1I5c1hja1liQXdXVzFrcGE4bE9YWjhsUDFqLTNtXzNFV1pSUHNrZHMxMG1IYUk0V0kzcmtGWU1wMzhHcw?oc=5)
 
 ---
 

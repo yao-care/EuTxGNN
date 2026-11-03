@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Budesonide?">
-<strong>Budesonide</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Budesonide</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ This page combines the AI-predicted indications for Budesonide with the latest h
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [COPD: Spaziergänge können auch bei hoher Luftbelastung Exazerbationen vermeiden – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRG1iRkV6YWxJSGhRanYwMlpaRGN6emtjU3JmXzhVRlhUcFFDUzhOTjhmQzJFbVFzX05xOC1remFXemtqNlBpWk9NTzE3bVkzR294ZnVIUmdCbHBtRU03TWJ3S2ZqY2dYRzlNTHB6ZkpNT3ZGUEtYdUNDZVpHaS1vM2hFanpTR1N4REdtWjd6Z1RIVkpFSHhTS3A0SGNDZlp0VmFoUGw5b1NJczFhc3hNczVVaF9XNF84eF8tQ01XT1prS01iVHN6V0lXOFVaLURvZW4xT0MtdFptTHdDd0tCZQ?oc=5)
 
 2026-11-03 <span class="news-indication-tag">copd</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRG1iRkV6YWxJSGhRanYwMlpaRGN6emtjU3JmXzhVRlhUcFFDUzhOTjhmQzJFbVFzX05xOC1remFXemtqNlBpWk9NTzE3bVkzR294ZnVIUmdCbHBtRU03TWJ3S2ZqY2dYRzlNTHB6ZkpNT3ZGUEtYdUNDZVpHaS1vM2hFanpTR1N4REdtWjd6Z1RIVkpFSHhTS3A0SGNDZlp0VmFoUGw5b1NJczFhc3hNczVVaF9XNF84eF8tQ01XT1prS01iVHN6V0lXOFVaLURvZW4xT0MtdFptTHdDd0tCZQ?oc=5)
+
+---
+
+### [BPCO, arriva una nuova cura biologica rimborsata dal SSN: meno crisi respiratorie, ma non è per tutti](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcXA4QUdVVTFRZjVLUWw2UW95OE9WU0hCOEVNWDNZRDAtRWhxNVQzQjRiVmhFNnVQamZFcDdscEhQd3VVam42dUl5eXZLV1h2OEpfbkxMaUpGYjV4YjFTd0M3MW5Ya3EzYnEyX0l0QnNKUDNpSFBsajR4Z0J3NkJWVVQwR3dtYUtRbE15U3hOUXJ4VUpvSWR6UXpCeWxhRUdETkc5NXZNV1I5c1hja1liQXdXVzFrcGE4bE9YWjhsUDFqLTNtXzNFV1pSUHNrZHMxMG1IYUk0V0kzcmtGWU1wMzhHcw?oc=5)
+
+2026-11-03 <span class="news-indication-tag">BPCO</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcXA4QUdVVTFRZjVLUWw2UW95OE9WU0hCOEVNWDNZRDAtRWhxNVQzQjRiVmhFNnVQamZFcDdscEhQd3VVam42dUl5eXZLV1h2OEpfbkxMaUpGYjV4YjFTd0M3MW5Ya3EzYnEyX0l0QnNKUDNpSFBsajR4Z0J3NkJWVVQwR3dtYUtRbE15U3hOUXJ4VUpvSWR6UXpCeWxhRUdETkc5NXZNV1I5c1hja1liQXdXVzFrcGE4bE9YWjhsUDFqLTNtXzNFV1pSUHNrZHMxMG1IYUk0V0kzcmtGWU1wMzhHcw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 9 articles, 7 related drugs."
+description: "Health news about depresión (depression). 11 articles, 7 related drugs."
 permalink: /news/depression/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>9 news articles</strong> and 7 related drugs.
+<strong>depresión (depression)</strong> currently has <strong>11 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,23 @@ This page brings together the latest health news about “depresión” and list
 </ul>
 </div>
 
-## Related News (9)
+## Related News (11)
+
+### [«Il medico mi disse che ero troppo giovane per un tumore e riconduceva tutto alla depressione post parto» - Il Mattino](https://news.google.com/rss/articles/CBMijwFBVV95cUxNNVN0aFpTYXFQRG9mNWNZYVczRXdVQmU4WGp2WXZMOWo2c25mOUREMWtFa3BuOE9uYm5reWNjS0ZpRU54NnMtd05SMDBuLXZZSzI3WEc4cWsyTm01dk16RExjVVZZQkY2cXZ6NU5fWk5QYUtTV3FWMDBocm9tTlEySF9tOEE4MEhMMFMyU0llONIBlAFBVV95cUxNUlpBN3l4RjBMNGlDQU9FVG44Qjdfc2VSYTljeWRQU203TEgwaUxvV2h6UkJPTG9Ta3BaVWpfZUJkalR3SWc1S0EzeXA0dm9FYlNzSnIweG1nQ1BQOEh0dl9GUjRKRUprd2V3UmxuV2RkbEROWjRXLUpDOVV6cHRfTUZoWTljZFlxR3NfdlVZVWJVMW5y?oc=5)
+
+2026-11-03
+
+Source: [Il Mattino](https://news.google.com/rss/articles/CBMijwFBVV95cUxNNVN0aFpTYXFQRG9mNWNZYVczRXdVQmU4WGp2WXZMOWo2c25mOUREMWtFa3BuOE9uYm5reWNjS0ZpRU54NnMtd05SMDBuLXZZSzI3WEc4cWsyTm01dk16RExjVVZZQkY2cXZ6NU5fWk5QYUtTV3FWMDBocm9tTlEySF9tOEE4MEhMMFMyU0llONIBlAFBVV95cUxNUlpBN3l4RjBMNGlDQU9FVG44Qjdfc2VSYTljeWRQU203TEgwaUxvV2h6UkJPTG9Ta3BaVWpfZUJkalR3SWc1S0EzeXA0dm9FYlNzSnIweG1nQ1BQOEh0dl9GUjRKRUprd2V3UmxuV2RkbEROWjRXLUpDOVV6cHRfTUZoWTljZFlxR3NfdlVZVWJVMW5y?oc=5)
+
+---
+
+### [El ejercicio mejora la memoria y reduce los síntomas depresivos: expertos piden darle más peso en consulta](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcWI0MGZzYTFockJtTEc2dmJXLUl3NWdSaENJb1RDZGUxMFB0S004WEFSdzdVMXU4SUJZd2c3NzdkMm9pN0hqX21BSEZXTmhyX3VJaFE4ZFFFU3VIckpGR1RtQjNmdkIwME4yZVd4TVZuLVVwdVdTMl9CUWVrQ0s5Q1R4UFBkWTg3Sm5kZTZJVktEVXM2TGF4VDYyQkVyaGRNTFZWd2QxeHBOdHE0dWZxSm05eE9fVjBkLTVPRHJWeUIwWWp6d3M5VUlMWjVsM2c1aEhkUTFtRHFjaHVr?oc=5)
+
+2026-11-03
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcWI0MGZzYTFockJtTEc2dmJXLUl3NWdSaENJb1RDZGUxMFB0S004WEFSdzdVMXU4SUJZd2c3NzdkMm9pN0hqX21BSEZXTmhyX3VJaFE4ZFFFU3VIckpGR1RtQjNmdkIwME4yZVd4TVZuLVVwdVdTMl9CUWVrQ0s5Q1R4UFBkWTg3Sm5kZTZJVktEVXM2TGF4VDYyQkVyaGRNTFZWd2QxeHBOdHE0dWZxSm05eE9fVjBkLTVPRHJWeUIwWWp6d3M5VUlMWjVsM2c1aEhkUTFtRHFjaHVr?oc=5)
+
+---
 
 ### [How your body clock affects your mental health and ways to keep it in sync - The Conversation](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEt5V016QVdoNWpvdzhicVEyOF9hS1NobVp1MEZ6SmpBVlN4Z3VXTlhMNjBwazNWRWxXaDk5TE8tQXE3TEhiakNRRGRwX2hOTVRnakFtOWFaQy10bXVhNTdnTFdNVDNLX3IyaUNOdnhQcVpNR3Vuc1I3STNSUDRkYkVXRUhreWVnNk1PWnRIZlpYdUpoS3Bpc2NHRzRYZ1kzNzExLUpRdXV1eTQ0LWc?oc=5)
 

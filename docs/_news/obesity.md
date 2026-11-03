@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Adipositas (obesity) News"
+title: "obésité (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Adipositas (obesity). 9 articles, 8 related drugs."
+description: "Health news about obésité (obesity). 10 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-11-03
 ---
 
-# Adipositas (obesity) News
+# obésité (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
-<strong>Adipositas (obesity)</strong> currently has <strong>9 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obésité (obesity)?">
+<strong>obésité (obesity)</strong> currently has <strong>10 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Adipositas” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obésité” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “Adipositas” and list
 </ul>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Médicaments anti-obésité GLP-1 : près d'un Français sur cinq prêt à en prendre pour maigrir, pourquoi ce chiffre inquiète - Yahoo Life France](https://news.google.com/rss/articles/CBMifEFVX3lxTE1HWjIwcGprTEJnTDJNVEp4TTZ3Z1MzRXZWU05wMGZNWEN6dTlqWFFxa1VuOUNXazd6cV95NC1tcXd6MDU2RjB3MmxmR2tfN1lXTlJ6MTdnZ2x1N21QbkFkMkhBbXg1RWNpU3JuaEV0WmV0Z2pGWmxYSVc3bHM?oc=5)
+
+2026-11-02
+
+Source: [Yahoo Life France](https://news.google.com/rss/articles/CBMifEFVX3lxTE1HWjIwcGprTEJnTDJNVEp4TTZ3Z1MzRXZWU05wMGZNWEN6dTlqWFFxa1VuOUNXazd6cV95NC1tcXd6MDU2RjB3MmxmR2tfN1lXTlJ6MTdnZ2x1N21QbkFkMkhBbXg1RWNpU3JuaEV0WmV0Z2pGWmxYSVc3bHM?oc=5)
+
+---
 
 ### [GLP-1-basierte Therapien als mögliche Therapieoption bei Adipositas und resistenter Hypertonie – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNm0zNXp3X09UWF90aTR6X2NrTVU0RFMteVRTN1FORC13RnNpYXdFUWJCbkM3dVJnTC10QXJidW80cGZYWlh1WVh1RzZGRTRBSjFnQTU3bS1KZHB3Y2xqd01SbjR3dWVyVHMxeTVBOERRZnNVTmR3cVRyajJPdFZHb2wzczlNZmFmTGFpRk5wSHhObXZxZ3NWeWgySnJfMXRZclJySGo3U2FMZmNLYi1DUVh4Z3RQeWxTZW5sTUV2R3VKWG85ZkJ2aWZzeXhmZ3FFT2tBRkl1TElPaDVKZVlIRll5NEl3eDJLWTVBRi1kR1JBTWctTmc?oc=5)
 

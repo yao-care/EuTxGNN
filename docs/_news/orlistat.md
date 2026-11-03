@@ -69,7 +69,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS25l
 
 ### [Zum morgigen Weltmännertag: Regelmäßig Blutdruck messen, um Schlaganfall vorzubeugen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUW9qS0Z2eXEtN01OM1E5MVhWQzYyTUJkYjBPQlZvcXhWc0dzOG1JLW1ybnJjam5DY2RaM0pHc01iTVJMQk9tOHFQQ2tuVGZLUFRWdDMxcHpLNDV5LVBUOFAtb0FLUmhoS3VDdExsb01DRG5PaGM3RTZISE9XQjZucVp5RVc0Y0ZOVngzTlZHck01dS0xbXhObUkzRFB1eGRRSFhodDNJOGJqMEJXelRnbEJ5QnR4aXNXUjB0UUJxb3I4SklqQk0yZE13?oc=5)
 
-2026-11-02 <span class="news-indication-tag">Schlaganfall</span>
+2026-11-02 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUW9qS0Z2eXEtN01OM1E5MVhWQzYyTUJkYjBPQlZvcXhWc0dzOG1JLW1ybnJjam5DY2RaM0pHc01iTVJMQk9tOHFQQ2tuVGZLUFRWdDMxcHpLNDV5LVBUOFAtb0FLUmhoS3VDdExsb01DRG5PaGM3RTZISE9XQjZucVp5RVc0Y0ZOVngzTlZHck01dS0xbXhObUkzRFB1eGRRSFhodDNJOGJqMEJXelRnbEJ5QnR4aXNXUjB0UUJxb3I4SklqQk0yZE13?oc=5)
 
@@ -80,6 +80,14 @@ Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/C
 2026-11-02 <span class="news-indication-tag">ictus</span>
 
 Source: [Canal Sur](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTGVDS2dyYzJNUFdHbkVKYXNQVGF6bklEZlhEY2p1ckpYMmFLcVJ6ZE5OU3U3RHZPajZSZE1feVFxRFlwNmltSGticFhIaGIyd1ZXeHQwcmh5b1d4ZDREMEVwMk5wbUt2OGhtR1poLW1NVE1DeXhqWFZmMHc4TkZBRkgtODVYcnNFMEE?oc=5)
+
+---
+
+### [Médicaments anti-obésité GLP-1 : près d'un Français sur cinq prêt à en prendre pour maigrir, pourquoi ce chiffre inquiète - Yahoo Life France](https://news.google.com/rss/articles/CBMifEFVX3lxTE1HWjIwcGprTEJnTDJNVEp4TTZ3Z1MzRXZWU05wMGZNWEN6dTlqWFFxa1VuOUNXazd6cV95NC1tcXd6MDU2RjB3MmxmR2tfN1lXTlJ6MTdnZ2x1N21QbkFkMkhBbXg1RWNpU3JuaEV0WmV0Z2pGWmxYSVc3bHM?oc=5)
+
+2026-11-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Yahoo Life France](https://news.google.com/rss/articles/CBMifEFVX3lxTE1HWjIwcGprTEJnTDJNVEp4TTZ3Z1MzRXZWU05wMGZNWEN6dTlqWFFxa1VuOUNXazd6cV95NC1tcXd6MDU2RjB3MmxmR2tfN1lXTlJ6MTdnZ2x1N21QbkFkMkhBbXg1RWNpU3JuaEV0WmV0Z2pGWmxYSVc3bHM?oc=5)
 
 ---
 
@@ -229,7 +237,7 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV9
 
 ### [Cibi ultraprocessati, non contano solo le calorie: cosa succede al cervello e all'insulina - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1gFBVV95cUxObmFaYVFsdi04QXdIVDZkX1RTWVI0MTBTUjJoRXVYMTdkTkZNR3JVOGJFVjdHem9DNGg2dmxuRWY1SE5hRG9aNXdaYlJfTDE2MmIzdTJ1V093c29lOGJ6a2pPakxoR1FBVnl5eFFtNElLLXp1OWxWc1VGOU5ySXFVbTFFNlNlRXh6LURiQkRnOFVhemJXd3FRdG1xN0N6Zm9Qb2d3ZE44M0VrTjk2MkF3bHFrUk5XZ3lfaG5jNkduRDFQTThvajRHNTVhWVFPZno1SzhxLUt30gG8AUFVX3lxTE85MkFzRVRhcHd5ZGxrdTBxX0pQZDdpUUVPelhHU1pLOFJKY2hMLUFyb2ZNZ0RyU1czbGdUTXhWcjBfSzVMYjJ6c2JoOUpVMVVwWmNMSU5nSlFiUmZrdENHenp2NHhtODBhR1ZQbW9xRXlpVWxMeC1nWnl0SFgxSUZrdjZOTEtXN3VDdWhYNnVReTVmS3p3cDdHNDhhcEVWakl6RloyX01xcXZGOUs3UU02S291bHljSk1jNV9o?oc=5)
 
-2026-10-30 <span class="news-indication-tag">ictus</span>
+2026-10-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span>
 
 Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1gFBVV95cUxObmFaYVFsdi04QXdIVDZkX1RTWVI0MTBTUjJoRXVYMTdkTkZNR3JVOGJFVjdHem9DNGg2dmxuRWY1SE5hRG9aNXdaYlJfTDE2MmIzdTJ1V093c29lOGJ6a2pPakxoR1FBVnl5eFFtNElLLXp1OWxWc1VGOU5ySXFVbTFFNlNlRXh6LURiQkRnOFVhemJXd3FRdG1xN0N6Zm9Qb2d3ZE44M0VrTjk2MkF3bHFrUk5XZ3lfaG5jNkduRDFQTThvajRHNTVhWVFPZno1SzhxLUt30gG8AUFVX3lxTE85MkFzRVRhcHd5ZGxrdTBxX0pQZDdpUUVPelhHU1pLOFJKY2hMLUFyb2ZNZ0RyU1czbGdUTXhWcjBfSzVMYjJ6c2JoOUpVMVVwWmNMSU5nSlFiUmZrdENHenp2NHhtODBhR1ZQbW9xRXlpVWxMeC1nWnl0SFgxSUZrdjZOTEtXN3VDdWhYNnVReTVmS3p3cDdHNDhhcEVWakl6RloyX01xcXZGOUs3UU02S291bHljSk1jNV9o?oc=5)
 
@@ -336,14 +344,6 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXp
 2026-10-28 <span class="news-indication-tag">ictus</span>
 
 Source: [iSanidad](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFl2YTZBNkhIT29PcG5BRkZSS1VzWWJIOUdDWlRGb3NIS256bXJBdVd3bTRXS1pHMTB0UFZZczBPS1hqMzRVM20zQWJwbXJLUXFjekV1VXFMTUgyZnFYa28za1FaWTRKUGJmeG1uRnlRd2x1cXAzN2dkSk1iNkNtV1p2V0JjZ1g4c2pHLUdYRFJHVXFMdXk5ZTI1aXhvUV9CdHBOcVJOeEpSUmFEU1BIb2gyUUlwQ2x5dU1hTG1FcFVNVW9FLWh0MllLV3EzamtOQTdyaWlrUQ?oc=5)
-
----
-
-### [Impfungen: Mehr als Schutz vor Infektionen? – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
-
-2026-10-28 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
 
 ---
 

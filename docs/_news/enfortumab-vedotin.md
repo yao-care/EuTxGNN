@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Enfortumab Vedotin?">
-<strong>Enfortumab Vedotin</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
+<strong>Enfortumab Vedotin</strong> currently has <strong>3 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Enfortumab Vedotin with the 
 
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [La CE aprueba pembrolizumab y enfortumab vedotin como tratamiento perioperatorio del cáncer de vejiga músculo-invasivo - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUldEdnJmajJDQ1doS0R4U1hNVGFVSEdNVWZXbVhhZktEQzhqcmlkTjVWb0Rfa3VIMER6eXhXNUo0R3pHS2JVYTltWGJWYVlLZm9RQlBTQkd3d0NHdEczZUt2dUoyRWxyYXotR3VHcUs0bTRid1lkME01T2NCMjZvN2F6S1I5dGpseWVfQmpIUjRJMjhQRnE1Ry1fU2NlQmw0NW1oOXhTelZyMjhKdGdkM3E2ay1FbFEyUjNEelJSSTZ2bFXSAb4BQVVfeXFMTUpHUk5paFlmalJHemNPRzRRSVp2dEVNOGNFOV94eDd5ZzR5YXYxY3A2TG9GRHJuZ1Z3UFp6WWlPN0dDelFLSEpuQjZEd1FyVFc1YVVxaWRBVWc1NFNsb2hUNnFmeXBNTzFLTE8xS2NGNkZJMks5a3A3bExIUXJtZWhZQXdsSEFIc1JKX1JjTkRFSFhvaGtRUFVaY3A2eDEzNUp3OTUtQ0dOUGt2TUo5R3hEQ2dVclRob0F4SG1rZw?oc=5)
+
+2026-11-03 <span class="news-drug-tag">Enfortumab Vedotin</span> <span class="news-drug-tag">Pembrolizumab</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUldEdnJmajJDQ1doS0R4U1hNVGFVSEdNVWZXbVhhZktEQzhqcmlkTjVWb0Rfa3VIMER6eXhXNUo0R3pHS2JVYTltWGJWYVlLZm9RQlBTQkd3d0NHdEczZUt2dUoyRWxyYXotR3VHcUs0bTRid1lkME01T2NCMjZvN2F6S1I5dGpseWVfQmpIUjRJMjhQRnE1Ry1fU2NlQmw0NW1oOXhTelZyMjhKdGdkM3E2ay1FbFEyUjNEelJSSTZ2bFXSAb4BQVVfeXFMTUpHUk5paFlmalJHemNPRzRRSVp2dEVNOGNFOV94eDd5ZzR5YXYxY3A2TG9GRHJuZ1Z3UFp6WWlPN0dDelFLSEpuQjZEd1FyVFc1YVVxaWRBVWc1NFNsb2hUNnFmeXBNTzFLTE8xS2NGNkZJMks5a3A3bExIUXJtZWhZQXdsSEFIc1JKX1JjTkRFSFhvaGtRUFVaY3A2eDEzNUp3OTUtQ0dOUGt2TUo5R3hEQ2dVclRob0F4SG1rZw?oc=5)
+
+---
 
 ### [Empresas.- LA CE aprueba 'Keytruda' más 'Padcev' como tratamiento perioperatorio para cáncer de vejiga músculo-invasivo](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb3cxWU9KckQ4U0NQdGU2Y0NDdWZnajVpMHc1MnotUDZrTHhOU0N3d0MtSlZXR0NDbnh5YlUwdjBHRU56TExqNlNuT2Jpb2RXUUl2R0lfMTZkRTRXNS1adHFkNllZSjVuSUZDTktsa0xUZVRoSHB1OXdNU2sxeFVCVzNQX25FVXJvYXpsQTR5Wl9JbnNSeWtHQkl6MTc1Ukt2Y1B0SThNcF9STTl4SWQxbm9aYWl0X2dtY0xUS19jR1M4Vkl3eHFEVEctTXN1R0Y3WjQwQnRQOXNnZTBMeUxtY19jbmtTQ2xjTEswQkhnd2hOZw?oc=5)
 
