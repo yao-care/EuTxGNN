@@ -67,7 +67,7 @@ window.TXGNN_ANALYTICS = {
 <link rel="alternate" type="application/rss+xml" title="EuTxGNN Updates" href="{{ '/feed.xml' | absolute_url }}">
 
 <!-- YMYL 審核資訊 Meta -->
-<meta name="last-reviewed" content="2026-03-03">
+<meta name="last-reviewed" content="{{ page.last_modified_at | default: '2026-03-03' | date: '%Y-%m-%d' }}">
 <meta name="reviewed-by" content="藥提醒科技有限公司 (yao.care)">
 
 <script type="application/ld+json">
@@ -133,7 +133,7 @@ window.TXGNN_ANALYTICS = {
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-03-01",
       "dateModified": "{{ page.last_modified_at | default: '2026-03-03' | date: '%Y-%m-%d' }}",
-      "lastReviewed": "2026-03-03",
+      "lastReviewed": "{{ page.last_modified_at | default: '2026-03-03' | date: '%Y-%m-%d' }}",
       "reviewedBy": {
         "@id": "https://www.yao.care/#organization"
       },
