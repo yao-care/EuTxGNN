@@ -38,9 +38,38 @@ def extract_predicted_indication(content: str) -> str:
     return ""
 
 
+def load_original_indications() -> tuple:
+    """2026-11-03：原適應症（已知適應症）取自 docs/data/search-index.json 的 original 欄。
+
+    本站該欄是 EMA 核准適應症英文原文（docs/data 產生時截到 200 字並加「...」，截掉的部分不會被排除），
+    供檢查腳本把預測清單裡其實已核准的用途排除。檔案不存在或讀不到時回傳空表（排除不作用）。
+    """
+    path = Path(__file__).parent.parent / "docs" / "data" / "search-index.json"
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}, {}
+    by_slug, by_name = {}, {}
+    for d in data.get("drugs", []):
+        original = re.sub(r"\s*(\.\.\.|…)$", "", (d.get("original") or "").strip())
+        if original:
+            by_slug[d.get("slug", "")] = original
+            by_name[(d.get("name") or "").lower()] = original
+    return by_slug, by_name
+
+
+def page_slug(md_file: Path, front_matter: dict) -> str:
+    """與 search-index 相同的網址 slug：明寫 permalink 者以它為準，否則檔名 slugify。"""
+    m = re.match(r"^/drugs/([^/]+)/?$", front_matter.get("permalink", ""))
+    if m:
+        return m.group(1)
+    return re.sub(r"[\W_]+", "-", md_file.stem, flags=re.U).strip("-").lower()
+
+
 def main():
     drugs_dir = Path(__file__).parent.parent / "docs" / "_drugs"
     output_file = Path(__file__).parent / "drug_list.json"
+    original_by_slug, original_by_name = load_original_indications()
 
     drugs = []
 
@@ -73,6 +102,8 @@ def main():
             "predicted_indication": predicted_indication,
             "inn": monitor_inn,
             "predicted_indications": predicted_indications,
+            "approved_indication": original_by_slug.get(page_slug(md_file, front_matter))
+            or original_by_name.get(drug_name.lower(), ""),
         })
 
     # Save to JSON
@@ -84,6 +115,7 @@ def main():
         }, f, indent=2, ensure_ascii=False)
 
     print(f"Extracted {len(drugs)} drugs to {output_file}")
+    print(f"With approved_indication: {sum(1 for d in drugs if d['approved_indication'])}")
 
     # Print summary
     level_counts = {}

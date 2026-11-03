@@ -14,13 +14,38 @@ GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 GITHUB_REPO = os.environ.get("GITHUB_REPOSITORY", "yao-care/EuTxGNN")
 
 
+# Monitor issue titles: "🔬 New Clinical Trials: Drug (N trials) → …" / "📚 New Publications: Drug (N papers) → …"
+# 2026-11-03：半形／全形冒號都接受（別站曾因冒號寫法不同而永遠比對不到），並要求括號內是數量。
+TITLE_DRUG_RE = re.compile(r'[:：]\s*(.+?)\s*\(\d+')
+
+
 def get_headers() -> dict:
     """Get GitHub API headers."""
-    return {
-        "Authorization": f"Bearer {GITHUB_TOKEN}",
+    headers = {
         "Accept": "application/vnd.github+json",
         "X-GitHub-Api-Version": "2022-11-28"
     }
+    if GITHUB_TOKEN:
+        headers["Authorization"] = f"Bearer {GITHUB_TOKEN}"
+    return headers
+
+
+def list_issues(params: dict, max_pages: int = 100) -> List[dict]:
+    """Fetch all issues matching params (paginated; pull requests excluded).
+
+    2026-11-03：原本只看第一頁 100 筆，issue 多的站去重與 close-older 會漏看。
+    """
+    url = f"https://api.github.com/repos/{GITHUB_REPO}/issues"
+    out = []
+    for page in range(1, max_pages + 1):
+        q = dict(params, per_page=100, page=page)
+        response = requests.get(url, headers=get_headers(), params=q, timeout=30)
+        response.raise_for_status()
+        batch = response.json()
+        out.extend(i for i in batch if "pull_request" not in i)
+        if len(batch) < 100:
+            break
+    return out
 
 
 def issue_exists(title: str, state: str = "all") -> bool:
@@ -38,19 +63,14 @@ def issue_exists(title: str, state: str = "all") -> bool:
         print(f"[DRY RUN] Would check for existing issue: {title}")
         return False
 
-    url = f"https://api.github.com/repos/{GITHUB_REPO}/issues"
-
     # Search for issues with exact title match
     params = {
         "state": state,
         "labels": "auto-detected",
-        "per_page": 100
     }
 
     try:
-        response = requests.get(url, headers=get_headers(), params=params, timeout=30)
-        response.raise_for_status()
-        issues = response.json()
+        issues = list_issues(params)
 
         # Check for exact title match
         for issue in issues:
@@ -81,17 +101,13 @@ def find_existing_issues_by_label(drug_name: str, label: str, state: str = "open
         print(f"[DRY RUN] Would search for {label} issues: {drug_name}")
         return []
 
-    url = f"https://api.github.com/repos/{GITHUB_REPO}/issues"
     params = {
         "state": state,
         "labels": label,
-        "per_page": 100
     }
 
     try:
-        response = requests.get(url, headers=get_headers(), params=params, timeout=30)
-        response.raise_for_status()
-        issues = response.json()
+        issues = list_issues(params)
 
         # Filter issues matching the drug name pattern
         # Title formats:
@@ -101,7 +117,7 @@ def find_existing_issues_by_label(drug_name: str, label: str, state: str = "open
         drug_name_lower = drug_name.lower()
         for issue in issues:
             title = issue.get("title", "")
-            match = re.search(r':\s*(.+?)\s*\(', title)
+            match = TITLE_DRUG_RE.search(title)
             if match:
                 issue_drug = match.group(1).strip().lower()
                 if issue_drug == drug_name_lower:
@@ -120,13 +136,14 @@ def find_existing_issues_by_label(drug_name: str, label: str, state: str = "open
         return []
 
 
-def close_issue(issue_number: int, comment: str = None) -> bool:
+def close_issue(issue_number: int, comment: str = None, state_reason: str = None) -> bool:
     """
     Close a GitHub issue with an optional comment.
 
     Args:
         issue_number: The issue number to close
         comment: Optional comment to add before closing
+        state_reason: Optional "completed" / "not_planned"
 
     Returns:
         True if successful, False otherwise
@@ -143,7 +160,10 @@ def close_issue(issue_number: int, comment: str = None) -> bool:
 
         # Close the issue
         url = f"https://api.github.com/repos/{GITHUB_REPO}/issues/{issue_number}"
-        response = requests.patch(url, headers=get_headers(), json={"state": "closed"}, timeout=30)
+        payload = {"state": "closed"}
+        if state_reason:
+            payload["state_reason"] = state_reason
+        response = requests.patch(url, headers=get_headers(), json=payload, timeout=30)
         response.raise_for_status()
         print(f"  → Closed issue #{issue_number}")
         return True

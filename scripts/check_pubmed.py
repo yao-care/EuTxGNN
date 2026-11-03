@@ -18,90 +18,44 @@ import requests
 from github_utils import create_issue, close_older_pubmed_issues
 
 
-def is_known_indication(approved_indication: str, predicted_indication: str) -> bool:
-    """Check if predicted indication overlaps with approved indication.
+_KNOWN_STOPWORDS = {"of", "the", "and", "or", "with", "to", "in", "by", "for", "an", "due",  # 不含 "a"：hepatitis A
+                    "disease", "disorder", "syndrome"}
+_SPELLING = (("aemia", "emia"), ("haem", "hem"), ("oesoph", "esoph"), ("tumour", "tumor"),
+             ("oedema", "edema"), ("paediatr", "pediatr"))
 
-    Uses keyword matching to detect if the predicted indication is likely
-    already approved for the drug.
+
+def _known_tokens(text: str) -> list:
+    t = re.sub(r"\((disease|disorder)\)", " ", (text or "").lower())
+    for a, b in _SPELLING:
+        t = t.replace(a, b)
+    return [w[:-1] if len(w) > 3 and w.endswith("s") and not w.endswith("ss") else w
+            for w in re.findall(r"[a-z0-9]+", t)]
+
+
+def is_known_indication(approved_indication: str, predicted_indication: str) -> bool:
+    """Check if predicted indication is already an approved/known indication.
+
+    2026-11-03：改成「預測適應症的每個關鍵詞（含 B、C、2 這類短字）都出現在原適應症的同一段」才算已核准
+    （段落以「；」「;」或句點分隔）。舊版只要一個長字（例：hypertension、hepatitis）對到就排除，
+    會把 amlodipine→pulmonary hypertension、sofosbuvir→hepatitis B 這類真正的新用途也排除掉。
     """
     if not approved_indication or not predicted_indication:
         return False
-
-    approved_lower = approved_indication.lower()
-    predicted_lower = predicted_indication.lower()
-
-    # Extract meaningful keywords from predicted indication
-    cleaned = re.sub(r'\s*\(disease\)\s*', ' ', predicted_lower)
-    cleaned = re.sub(r'\s*\(disorder\)\s*', ' ', cleaned)
-    cleaned = re.sub(r'[^\w\s]', ' ', cleaned)
-
-    words = cleaned.split()
-
-    # Generic medical terms that are too broad for matching
-    generic_terms = {
-        'disease', 'disorder', 'syndrome', 'type', 'of', 'the', 'and', 'or',
-        'with', 'due', 'to', 'in', 'by', 'for', 'as', 'is', 'a', 'an',
-        'primary', 'secondary', 'chronic', 'acute', 'severe', 'mild',
-        'familial', 'hereditary', 'congenital', 'acquired', 'idiopathic',
-        'cancer', 'tumor', 'carcinoma', 'neoplasm', 'infection', 'infectious',
-        'deficiency', 'failure', 'insufficiency', 'inflammation',
-        'cell', 'cells', 'blood', 'bone', 'muscle', 'nerve', 'skin',
-    }
-
-    # Keep important acronyms even if short
-    important_acronyms = {
-        'hiv', 'aids', 'copd', 'adhd', 'als', 'ms', 'ibd', 'ibs',
-        'hcv', 'hbv', 'tb', 'ra', 'sle', 'ckd', 'chf', 'cad',
-    }
-
-    # Expanded forms for acronyms
-    expanded_terms = {
-        'hiv': 'immunodeficiency virus',
-        'aids': 'acquired immunodeficiency',
-        'copd': 'chronic obstructive pulmonary',
-        'adhd': 'attention deficit',
-        'als': 'amyotrophic lateral sclerosis',
-    }
-
-    keywords = []
-    for w in words:
-        w_lower = w.lower()
-        if w_lower in important_acronyms:
-            keywords.append(w_lower)
-        elif w_lower not in generic_terms and len(w) > 4:
-            keywords.append(w_lower)
-
-    if not keywords:
+    need = {w for w in _known_tokens(predicted_indication) if w not in _KNOWN_STOPWORDS}
+    if not need:
         return False
-
-    # Check if specific keywords appear in approved indication
-    matches = 0
-    for kw in keywords:
-        pattern = r'\b' + re.escape(kw) + r'\b'
-        if re.search(pattern, approved_lower):
-            matches += 1
-        elif kw in expanded_terms:
-            if expanded_terms[kw] in approved_lower:
-                matches += 1
-
-    # Need majority of specific keywords to match
-    if len(keywords) >= 2 and matches >= len(keywords) * 0.6:
-        return True
-
-    # Single very specific keyword match
-    for kw in keywords:
-        if len(kw) > 8:
-            pattern = r'\b' + re.escape(kw) + r'\b'
-            if re.search(pattern, approved_lower):
-                return True
-        elif kw in expanded_terms and expanded_terms[kw] in approved_lower:
+    for segment in re.split(r"[；;]|\.\s", approved_indication):
+        have = set(_known_tokens(segment))
+        if "non" in have and "non" not in need:
+            continue  # 「Lymphoma, Non-Hodgkin」不等於 Hodgkin lymphoma
+        if need <= have:
             return True
-
     return False
 
 # Configuration
 ESEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 ESUMMARY_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
+EFETCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 CACHE_FILE = Path(__file__).parent.parent / "data" / "cache" / "pubmed_cache.json"
 DRUG_LIST_FILE = Path(__file__).parent / "drug_list.json"
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
@@ -216,9 +170,49 @@ def _role_flags(text: str) -> str:
 
 
 def matched_indications(papers: list, indications: list) -> list:
-    """以論文標題比對命中哪些預測新適應症；比對不到就回傳空串列。"""
-    titles = " ".join(p.get("title", "") for p in papers).lower()
-    return [i for i in indications if _clean_indication(i).lower() in titles]
+    """以論文標題（與摘要，有抓到時）比對命中哪些預測新適應症；比對不到就回傳空串列。"""
+    hits = []
+    for p in papers:
+        hits += [i for i in paper_hits(p, indications) if i not in hits]
+    return hits
+
+
+def _norm_text(text: str) -> str:
+    return re.sub(r"\s+", " ", re.sub(r"[^\w]+", " ", (text or "").lower())).strip()
+
+
+def paper_hits(paper: dict, indications: list) -> list:
+    """2026-11-03：論文標題或摘要直接出現哪個預測新適應症（標點與空白正規化後比對片語）。"""
+    text = " " + _norm_text(paper.get("title", "") + " " + paper.get("abstract", "")) + " "
+    hits = []
+    for i in indications or []:
+        ci = _norm_text(_clean_indication(i))
+        if ci and f" {ci} " in text and i not in hits:
+            hits.append(i)
+    return hits
+
+
+def fetch_abstracts(papers: list) -> None:
+    """用 efetch 補上摘要（只對準備開 issue 的論文呼叫）；失敗時維持只用標題比對。"""
+    if not papers:
+        return
+    params = {"db": "pubmed", "id": ",".join(p["pmid"] for p in papers), "retmode": "xml", "rettype": "abstract"}
+    if NCBI_API_KEY:
+        params["api_key"] = NCBI_API_KEY
+    try:
+        import xml.etree.ElementTree as ET
+        response = requests.get(EFETCH_URL, params=params, timeout=60)
+        response.raise_for_status()
+        root = ET.fromstring(response.content)
+        abstracts = {}
+        for art in root.iter("PubmedArticle"):
+            pmid = art.findtext(".//MedlineCitation/PMID", default="")
+            parts = ["".join(a.itertext()) for a in art.iter("AbstractText")]
+            abstracts[pmid] = " ".join(parts)
+        for p in papers:
+            p["abstract"] = abstracts.get(p["pmid"], "")
+    except (requests.RequestException, ValueError) as e:  # ET.ParseError 是 ValueError 的子類別
+        print(f"Error fetching abstracts: {e}")
 
 
 def get_paper_details(pmids: list) -> list:
@@ -260,8 +254,12 @@ def get_paper_details(pmids: list) -> list:
         return []
 
 
-def create_github_issue(drug_name: str, new_papers: list, indications: list = None):
-    """Create a GitHub Issue for new papers found."""
+def create_github_issue(drug_name: str, new_papers: list, indications: list = None, skipped: int = 0):
+    """Create a GitHub Issue for new papers found.
+
+    2026-11-03：new_papers 只含標題／摘要直接命中預測適應症的論文，indications 只含真正命中的預測；
+    skipped＝同一輪沒有直接命中的新論文數（只寫入快取）。
+    """
     indications = indications or []
     ind_label = "; ".join(indications[:2]) + (" …" if len(indications) > 2 else "")
     title = f"📚 New Publications: {drug_name} ({len(new_papers)} papers)"
@@ -283,18 +281,22 @@ def create_github_issue(drug_name: str, new_papers: list, indications: list = No
     paper_details = []
     for paper in new_papers:
         authors = ", ".join(paper["authors"]) + (" et al." if len(paper["authors"]) >= 3 else "")
-        hit = [i for i in indications if _clean_indication(i).lower() in paper["title"].lower()]
+        hit = paper_hits(paper, indications)
+        where = "title" if paper_hits({"title": paper["title"]}, hit) else "abstract"
         role = _role_flags(paper["title"])
         paper_details.append(
             f"### PMID: {paper['pmid']}\n"
             f"- **Title**: {paper['title']}\n"
-            f"- **Matched predicted indication**: {'; '.join(hit) if hit else '(not in title — check abstract)'}\n"
+            f"- **Matched predicted indication**: {'; '.join(hit) + f' (in {where})' if hit else '-'}\n"
             + (f"- **⚠ Role flag**: {role}\n" if role else "")
             + f"- **Journal**: {paper['source']}\n"
             f"- **Publication Date**: {paper['pubdate']}\n"
             f"- **Authors**: {authors}\n"
             f"- **Link**: https://pubmed.ncbi.nlm.nih.gov/{paper['pmid']}/\n"
         )
+
+    skipped_note = (f"_{skipped} other new publication(s) without the predicted indication in the title or abstract "
+                    f"were recorded in the cache only._\n") if skipped else ""
 
     body = f"""## 📚 New Publications Detected
 
@@ -316,10 +318,10 @@ PubMed
 New Academic Publications
 
 ### Details
-Found **{len(new_papers)}** new publications:
+Found **{len(new_papers)}** new publications mentioning a predicted indication in the title or abstract:
 
 {"".join(paper_details)}
-
+{skipped_note}
 ### Suggested Actions
 - [ ] Review paper abstracts
 - [ ] Evaluate publication type (RCT, observational, case report, etc.)
@@ -360,15 +362,17 @@ def main():
         indication = drug.get("predicted_indication", "")
         approved_indication = drug.get("approved_indication", "")
 
-        # Skip if predicted indication is a known/approved indication
-        if indication and approved_indication:
-            if is_known_indication(approved_indication, indication):
+        predicted = drug.get("predicted_indications") or []
+        # 2026-11-03：已核准用途排除逐一套在預測清單上（drug_list 有 approved_indication 時才會作用）
+        if approved_indication:
+            known = [x for x in predicted if is_known_indication(approved_indication, x)]
+            predicted = [x for x in predicted if x not in known]
+            if known and not predicted:
                 skipped_known += 1
                 continue
 
         print(f"\n[{i+1}/{len(drugs)}] Checking: {drug_name}")
 
-        predicted = drug.get("predicted_indications") or []
         if not predicted or not drug.get("inn"):
             continue
         pmids = search_pubmed_predicted(drug["inn"], predicted, days_back=7)
@@ -395,12 +399,21 @@ def main():
                 elif len(papers) < 2:
                     print(f"  Only {len(papers)} paper found - below threshold")
                 else:
-                    print(f"  Found {len(papers)} new papers!")
-                    new_findings.append({
-                        "drug": drug_name,
-                        "papers": papers,
-                        "indications": matched_indications(papers, predicted) or predicted,
-                    })
+                    # 2026-11-03：標題或摘要直接命中預測適應症的論文才開 issue；其餘只寫入快取
+                    fetch_abstracts(papers)
+                    time.sleep(RATE_LIMIT_DELAY)
+                    hit_papers = [p for p in papers if paper_hits(p, predicted)]
+                    if not hit_papers:
+                        print(f"  {len(papers)} new papers, none directly mention a predicted indication - cache only")
+                    else:
+                        hits = matched_indications(hit_papers, predicted)
+                        print(f"  Found {len(hit_papers)} new papers matching {hits}!")
+                        new_findings.append({
+                            "drug": drug_name,
+                            "papers": hit_papers,
+                            "indications": hits,
+                            "skipped": len(papers) - len(hit_papers),
+                        })
 
             # Update seen PMIDs
             drug_seen.extend(new_pmids)
@@ -421,7 +434,7 @@ def main():
         print(f"New findings: {len(new_findings)}")
         print("\nCreating Issues...")
         for finding in new_findings:
-            create_github_issue(finding["drug"], finding["papers"], finding["indications"])
+            create_github_issue(finding["drug"], finding["papers"], finding["indications"], finding.get("skipped", 0))
     else:
         print("No new papers found.")
 

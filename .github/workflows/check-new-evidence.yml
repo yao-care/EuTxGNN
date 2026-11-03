@@ -30,6 +30,14 @@ jobs:
       - name: Extract drug list
         run: python scripts/extract_drug_list.py
 
+      # 2026-11-03：預測清單改過後，關閉內容已不在頁面上的舊監測 issue（每次最多 50 筆，每筆間隔 2.5 秒）
+      - name: Reconcile stale evidence issues
+        run: python scripts/reconcile_evidence_issues.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        continue-on-error: true
+
       - name: Check ClinicalTrials.gov
         run: python scripts/check_clinicaltrials.py
         env:
