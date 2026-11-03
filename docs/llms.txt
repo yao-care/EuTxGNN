@@ -14,6 +14,7 @@
 - Drug Repurposing Reports: https://eutxgnn.yao.care/
 - Drug List: https://eutxgnn.yao.care/drugs/
 - High Evidence (L1-L2): https://eutxgnn.yao.care/evidence-high/
+- EU Medicines with Trial Evidence for a New Indication: https://eutxgnn.yao.care/clinical-trial-evidence/
 - Medium Evidence (L3-L4): https://eutxgnn.yao.care/evidence-medium/
 - AI Predictions (L5): https://eutxgnn.yao.care/evidence-low/
 - Methodology: https://eutxgnn.yao.care/methodology/

@@ -12,6 +12,8 @@ permalink: /evidence-high/
 
 Candidates with strong clinical trial evidence for priority evaluation
 
+Which of these drugs have trial evidence for their predicted new indication, and how many registered trials are cited? See [EU medicines with clinical-trial evidence for a new indication]({{ '/clinical-trial-evidence/' | relative_url }}).
+
 ---
 
 ## Evidence Standards
