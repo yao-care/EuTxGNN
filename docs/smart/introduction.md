@@ -38,7 +38,7 @@ To accelerate drug repurposing research by:
 
 - **TxGNN Model**: Graph neural network trained on biomedical knowledge
 - **{{ site.data.drug_stats.total_drugs }} Drugs**: EMA-approved medications analyzed
-- **32,368 Predictions**: Potential new therapeutic uses
+- **{{ site.data.drug_stats.total_indications }} Predicted New Indications**: Listed on the drug pages
 
 ### Evidence Integration
 
@@ -70,7 +70,7 @@ To accelerate drug repurposing research by:
          ↓
 ┌─────────────────┐
 │   Predictions   │
-│  (32,368 pairs) │
+│ (drug–disease)  │
 └────────┬────────┘
          ↓
 ┌─────────────────┐
@@ -88,13 +88,17 @@ To accelerate drug repurposing research by:
 
 ## Evidence Levels
 
-| Level | Description | Count |
+{% comment %}Counts come from docs/_data/drug_stats.json (scripts/generate_drug_stats.py); do not hard-code them.{% endcomment %}
+{% assign lc = site.data.drug_stats.level_counts %}{% assign n_lv = lc.L1 | plus: lc.L2 | plus: lc.L3 | plus: lc.L4 | plus: lc.L5 %}{% assign n_na = site.data.drug_stats.total_drugs | minus: n_lv %}
+
+| Level | Description | Drug Count |
 |-------|-------------|-------|
-| L1 | Multiple RCTs | 12 |
-| L2 | Single RCT | 28 |
-| L3 | Observational | 45 |
-| L4 | Preclinical | 89 |
-| L5 | AI Only | 468 |
+| L1 | Multiple RCTs | {{ lc.L1 }} |
+| L2 | Single RCT | {{ lc.L2 }} |
+| L3 | Observational | {{ lc.L3 }} |
+| L4 | Preclinical | {{ lc.L4 }} |
+| L5 | AI Only | {{ lc.L5 }} |
+| N/A | [Known uses only (no new prediction)]({{ '/known-uses/' | relative_url }}) | {{ n_na }} |
 
 ---
 
