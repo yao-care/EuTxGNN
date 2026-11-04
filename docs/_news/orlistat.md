@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Orlistat. 1 predicted indications."
 permalink: /news/orlistat/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Orlistat News
@@ -43,14 +43,6 @@ Source: [Diario AS](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLXpXV0V
 
 ---
 
-### [¿El cannabis aumenta el riesgo de accidentes cerebrovasculares? La ciencia se acerca a una respuesta - National Geographic España](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOS05UFNXYlRqclJROC01OUdqZ2V1dl9lQkpQWVRYZ05XWTRlY0tTb1ZPNU5VX1VJVXJtWTdOcmo1WFJtYjJ2ZVp1VTJ2VFFhaTNKSkt4Q2NVNl9RdUpnY2puTF9PNHFqLUNleHVZLTRjNFdscUZBSWVPNVpocVU2UFdNeFpoUjBORzd6LTJNeGE2RmUybHVWb1hHdGtDSmMxUFc3Z1FNUlh1Qmh1X1Npd2l3TWdPaWlkcmZCVi0ycm91WWNhLW5MelVUeWppRTM2RzVWS1dndHNHd2p5YkVIa0g1STFZTXlTWUI4NDNXcmVMZXM?oc=5)
-
-2026-11-03 <span class="news-indication-tag">ictus</span>
-
-Source: [National Geographic España](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOS05UFNXYlRqclJROC01OUdqZ2V1dl9lQkpQWVRYZ05XWTRlY0tTb1ZPNU5VX1VJVXJtWTdOcmo1WFJtYjJ2ZVp1VTJ2VFFhaTNKSkt4Q2NVNl9RdUpnY2puTF9PNHFqLUNleHVZLTRjNFdscUZBSWVPNVpocVU2UFdNeFpoUjBORzd6LTJNeGE2RmUybHVWb1hHdGtDSmMxUFc3Z1FNUlh1Qmh1X1Npd2l3TWdPaWlkcmZCVi0ycm91WWNhLW5MelVUeWppRTM2RzVWS1dndHNHd2p5YkVIa0g1STFZTXlTWUI4NDNXcmVMZXM?oc=5)
-
----
-
 ### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQjlETENCOWdpMkNkN1pTVjdPQ1diaEkwZThYLWFySEYxQTVVZkJCdEg5Rnp0Y0t0bWFBUk5QVnRqbmNWM2ROTzNDM1o0UGU5Sy03aFBiTXFNRDRyWl8tS2xZOURCSzg4V2NGenFfVnV2X3V6NFNISnhERVM2enFEa1lIUnJMdnA1dUdrMV9jZ2xuZmJDbWpQQWFYblEybEw4RWJ1dUFJZGxlUDdqLWVUMkxxVExyVHdWRWsw?oc=5)
 
 2026-11-03 <span class="news-indication-tag">Schlaganfall</span>
@@ -72,6 +64,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS25l
 2026-11-02 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUW9qS0Z2eXEtN01OM1E5MVhWQzYyTUJkYjBPQlZvcXhWc0dzOG1JLW1ybnJjam5DY2RaM0pHc01iTVJMQk9tOHFQQ2tuVGZLUFRWdDMxcHpLNDV5LVBUOFAtb0FLUmhoS3VDdExsb01DRG5PaGM3RTZISE9XQjZucVp5RVc0Y0ZOVngzTlZHck01dS0xbXhObUkzRFB1eGRRSFhodDNJOGJqMEJXelRnbEJ5QnR4aXNXUjB0UUJxb3I4SklqQk0yZE13?oc=5)
+
+---
+
+### [Coupe-faim : le marché explose, les effets indésirables aussi - Les Echos](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGtXcnZhaW5NYlNjX042VUxtRDVxRkI3cDZmNzlHOWE5Snk0d3BmVmxzZmMtX1gtR1o2aHdZcEhLWmdSU1VtcnJfU2RpazNFcVlNYkgwTllTMXJ0NUNTS1dVNm8ycG5IQnZOSzBfclQzMjhZVzZPVXppTTA4aGg0X2wtaGtVaG9EMFBPMThxb3N4V0UzYXlwOElYRFlIZXVLSWxESzROMA?oc=5)
+
+2026-11-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Les Echos](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGtXcnZhaW5NYlNjX042VUxtRDVxRkI3cDZmNzlHOWE5Snk0d3BmVmxzZmMtX1gtR1o2aHdZcEhLWmdSU1VtcnJfU2RpazNFcVlNYkgwTllTMXJ0NUNTS1dVNm8ycG5IQnZOSzBfclQzMjhZVzZPVXppTTA4aGg0X2wtaGtVaG9EMFBPMThxb3N4V0UzYXlwOElYRFlIZXVLSWxESzROMA?oc=5)
 
 ---
 

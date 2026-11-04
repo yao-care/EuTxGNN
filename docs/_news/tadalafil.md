@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tadalafil. 8 predicted indications."
 permalink: /news/tadalafil/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Tadalafil News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Tadalafil?">
-<strong>Tadalafil</strong> currently has <strong>28 news articles</strong>, with 8 predicted indications.
+<strong>Tadalafil</strong> currently has <strong>29 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ This page combines the AI-predicted indications for Tadalafil with the latest he
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (28)
+## Related News (29)
 
 ### [Cousin du Viagra, le tadalafil stimule en labo les cellules qui réparent le muscle : l'étude de Rome - Le Tribunal du Net](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFVpdnhRV1pSRTI0Q3FNZlNvSnhTNWZ0eC1Mdy1qOHBidmVZU1hDYkpvUl9aQVdzR3ZBWE04STFGUzBjSGdEYVNhWjEtN09vMllDSmx1WEQ1SGlxUC1kX0xFUUNielN0Tmc3MEFveXp1ZElmMlJSanFiSHloMFctOWVicHRlQnhCVzVF?oc=5)
 
 2026-11-03 <span class="news-drug-tag">Tadalafil</span>
 
 Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFVpdnhRV1pSRTI0Q3FNZlNvSnhTNWZ0eC1Mdy1qOHBidmVZU1hDYkpvUl9aQVdzR3ZBWE04STFGUzBjSGdEYVNhWjEtN09vMllDSmx1WEQ1SGlxUC1kX0xFUUNielN0Tmc3MEFveXp1ZElmMlJSanFiSHloMFctOWVicHRlQnhCVzVF?oc=5)
+
+---
+
+### [Exploran más allá del vínculo entre hipertensión pulmonar y deterioro cognitivo - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
 
 ---
 

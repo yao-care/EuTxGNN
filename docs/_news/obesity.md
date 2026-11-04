@@ -3,9 +3,9 @@ layout: default
 title: "obésité (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obésité (obesity). 10 articles, 8 related drugs."
+description: "Health news about obésité (obesity). 11 articles, 8 related drugs."
 permalink: /news/obesity/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # obésité (obesity) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about obésité (obesity)?">
-<strong>obésité (obesity)</strong> currently has <strong>10 news articles</strong> and 8 related drugs.
+<strong>obésité (obesity)</strong> currently has <strong>11 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “obésité” and lists
 </ul>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Coupe-faim : le marché explose, les effets indésirables aussi - Les Echos](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGtXcnZhaW5NYlNjX042VUxtRDVxRkI3cDZmNzlHOWE5Snk0d3BmVmxzZmMtX1gtR1o2aHdZcEhLWmdSU1VtcnJfU2RpazNFcVlNYkgwTllTMXJ0NUNTS1dVNm8ycG5IQnZOSzBfclQzMjhZVzZPVXppTTA4aGg0X2wtaGtVaG9EMFBPMThxb3N4V0UzYXlwOElYRFlIZXVLSWxESzROMA?oc=5)
+
+2026-11-02
+
+Source: [Les Echos](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGtXcnZhaW5NYlNjX042VUxtRDVxRkI3cDZmNzlHOWE5Snk0d3BmVmxzZmMtX1gtR1o2aHdZcEhLWmdSU1VtcnJfU2RpazNFcVlNYkgwTllTMXJ0NUNTS1dVNm8ycG5IQnZOSzBfclQzMjhZVzZPVXppTTA4aGg0X2wtaGtVaG9EMFBPMThxb3N4V0UzYXlwOElYRFlIZXVLSWxESzROMA?oc=5)
+
+---
 
 ### [Médicaments anti-obésité GLP-1 : près d'un Français sur cinq prêt à en prendre pour maigrir, pourquoi ce chiffre inquiète - Yahoo Life France](https://news.google.com/rss/articles/CBMifEFVX3lxTE1HWjIwcGprTEJnTDJNVEp4TTZ3Z1MzRXZWU05wMGZNWEN6dTlqWFFxa1VuOUNXazd6cV95NC1tcXd6MDU2RjB3MmxmR2tfN1lXTlJ6MTdnZ2x1N21QbkFkMkhBbXg1RWNpU3JuaEV0WmV0Z2pGWmxYSVc3bHM?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Idarucizumab. 0 predicted indications."
 permalink: /news/idarucizumab/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Idarucizumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Idarucizumab?">
-<strong>Idarucizumab</strong> currently has <strong>9 news articles</strong>, with 0 predicted indications.
+<strong>Idarucizumab</strong> currently has <strong>10 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Partizipative Therapieentscheidung bei rheumatoider Arthritis: weniger Nebenwirkungen - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
+
+2026-11-03 <span class="news-indication-tag">arthritis</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
+
+---
 
 ### [Expertos proponen un abordaje multidisciplinar de la enfermedad psoriásica que anticipe su progresión y mejore la calidad de vida de los pacientes - Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeExsUUx5Y2Y2V3NRRzlOaGJFRFNqZDZDQ0lPNW1yTjZGX2JEMC1FUVlSWENkUkdjNl9PenNMQXIzY3FVLUR6b3VQTjhqaVBsTS00bGs5QWFMZXB1dE9mQ3laVzFQQWtfSFhOLWxWdE95MWs0S2lQQm5qMy1LSFYyMmJrU2ppWWtiVFRFSm1lYmRycFdzWXdUZ0dVdjN5bTBIbER2MGNLVHl1dXVBZE1IVjZNMzZ5OUdCcnhYSFBKMTE5dXBuM3B2QWln?oc=5)
 

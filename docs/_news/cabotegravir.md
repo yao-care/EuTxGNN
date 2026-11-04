@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Cabotegravir. 5 predicted indications."
 permalink: /news/cabotegravir/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Cabotegravir News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Cabotegravir?">
-<strong>Cabotegravir</strong> currently has <strong>41 news articles</strong>, with 5 predicted indications.
+<strong>Cabotegravir</strong> currently has <strong>44 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Cabotegravir with the latest
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (41)
+## Related News (44)
+
+### [Partizipative Therapieentscheidung bei rheumatoider Arthritis: weniger Nebenwirkungen - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
+
+2026-11-03 <span class="news-indication-tag">arthritis</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
+
+---
 
 ### [El horario de sueño puede ser un objetivo revelador en la prevención de la diabetes - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdy1pTjZ2WlZabldqU3drdF8zZlJ4YnI4WjZqSm5xd1MzdlNjXzd1OEpzdFp6NFBEdjVKcnVTbDFGTFZ6ZjRHdHhCRW5rSmxIVTdzMjhyYjZfLUpaWHI1NHFuSWN2X3RaYWNwUGxQS21KaHo2ektCV0pTX3VXb0Y4aDZoalp5Sm1GaTZKTW1wbExxT3gyRk83RE5BelBEOTNiRDRpaHhUZDRIUy01Q1drV0VfUFVkZDR4aFBLbE85U3DSAbsBQVVfeXFMTWFnT2RSUnhFTDVGamdHOEk5WFE5MEU2NzRZTXc4dEdSZTVuMkpzQkVmRThqU0RtZG1RRTVJdEYyTGltY1RQcmtadzZXTHN6dkYxYUdRM2FCeWc1aE5nYV9hbEg2dnRMZkY5emZlLWhGVDRSQW9EYXpnLVU0Ry01Tl9KLU5ySU9HMHNvbl9BVjNHdkJaQzdYOE8yYVJTd1BuelZyMDBabE14OFhlckNlbW1lcDIydXFnVDhtYw?oc=5)
 
@@ -60,6 +68,14 @@ Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMinAFBVV9
 2026-11-03 <span class="news-indication-tag">diabete</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWjZfWXV5MmNmSnRUSlFSbFJTME1uT29Ceml6bDlUdXc1bWt6UzAtTUlpUDFGNVNPaGRTUW1wZkRENEI3cklNckRYM1RxM0VERGpKaGIzamQ1cnF0RTBESEgtal9SZ0dTME1jbkItZVZTcTBnT0t5OFJxYzF0X3V3SEFadHhsOVdoRC1PX1o5eUZaWDlwc3A3VjVxVktObklwU1RtdGtoeVhCT3RSQ3daUE5RVHVESFJqVTlCcnZYQ3BrTnJHckdqdnNaalZnOEltaUU5eVlZRHZFYmtoc2lHV25nUURocU1vUlRyWGYtSDhYenV1MEdz?oc=5)
+
+---
+
+### [Ojo si tienes sed constantemente: el síntoma silencioso de la diabetes](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0JWVFh4QktLUGZtZzAwZThsYkxoT2d6c0xRdE1JeUNBRUxicWRaRjhXQ2tmd2VOTTdhem5ZNFl0UE1aaUZNY3plLWlGU1FBT0IwQndyZUJJOWE0ZVJWWHpZX2RaSklybS00VDZPVXFmZGJNcWRlZlh1eU1JbFoyU0hUdGJsZlhu0gGOAUFVX3lxTFByOGpJSXlPT2lfVnM4SnhDbDZYYUpabHZjQk9CeGVZZTBRMmp6MU9USlZRUmlfQXVsV0FYS3RwWjk4WGZXelY4dDBmbWkzVkJiYllpNWQyOW84aVJrMkRNME9vMEd1TlBCenpORG80UzlFM1RVV3hrcVRmSzd0NWZJem5KOEtpRkZkeXY2MXc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">diabetes</span>
+
+Source: [24horas](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0JWVFh4QktLUGZtZzAwZThsYkxoT2d6c0xRdE1JeUNBRUxicWRaRjhXQ2tmd2VOTTdhem5ZNFl0UE1aaUZNY3plLWlGU1FBT0IwQndyZUJJOWE0ZVJWWHpZX2RaSklybS00VDZPVXFmZGJNcWRlZlh1eU1JbFoyU0hUdGJsZlhu0gGOAUFVX3lxTFByOGpJSXlPT2lfVnM4SnhDbDZYYUpabHZjQk9CeGVZZTBRMmp6MU9USlZRUmlfQXVsV0FYS3RwWjk4WGZXelY4dDBmbWkzVkJiYllpNWQyOW84aVJrMkRNME9vMEd1TlBCenpORG80UzlFM1RVV3hrcVRmSzd0NWZJem5KOEtpRkZkeXY2MXc?oc=5)
 
 ---
 
@@ -92,6 +108,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV9
 2026-11-03 <span class="news-indication-tag">BPCO</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcXA4QUdVVTFRZjVLUWw2UW95OE9WU0hCOEVNWDNZRDAtRWhxNVQzQjRiVmhFNnVQamZFcDdscEhQd3VVam42dUl5eXZLV1h2OEpfbkxMaUpGYjV4YjFTd0M3MW5Ya3EzYnEyX0l0QnNKUDNpSFBsajR4Z0J3NkJWVVQwR3dtYUtRbE15U3hOUXJ4VUpvSWR6UXpCeWxhRUdETkc5NXZNV1I5c1hja1liQXdXVzFrcGE4bE9YWjhsUDFqLTNtXzNFV1pSUHNrZHMxMG1IYUk0V0kzcmtGWU1wMzhHcw?oc=5)
+
+---
+
+### [Acostarse más temprano se asocia con la reducción de peso en personas con prediabetes](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX0dGRUVXQlg4bGNKZFlfMkNiUm5fQ3NhTXRCWDhrX2hjWWotdFVNVnk5OWtvVnI0VGFYZ1paRnpXWnFJaW9HS2Q2TXZ5eENIOExNTjdqMFZMeEQtTXVYZlQwcUNqRWkxZlZqSmFoSGNoQnphVEVTRVFSSklWN1o4c2ZrREVReEIxM2dmRmEySm5BZFNXNzcyM2hodTdyNXJyQVF2NUJEVzNDdC00akRxQmo0bzk5c0FWTVdCemg4T3YxMUhpaWY4emE5ZzJ4Qm5Vb2JvNQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">diabetes</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX0dGRUVXQlg4bGNKZFlfMkNiUm5fQ3NhTXRCWDhrX2hjWWotdFVNVnk5OWtvVnI0VGFYZ1paRnpXWnFJaW9HS2Q2TXZ5eENIOExNTjdqMFZMeEQtTXVYZlQwcUNqRWkxZlZqSmFoSGNoQnphVEVTRVFSSklWN1o4c2ZrREVReEIxM2dmRmEySm5BZFNXNzcyM2hodTdyNXJyQVF2NUJEVzNDdC00akRxQmo0bzk5c0FWTVdCemg4T3YxMUhpaWY4emE5ZzJ4Qm5Vb2JvNQ?oc=5)
 
 ---
 

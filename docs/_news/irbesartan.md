@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Irbesartan. Original indication: There are important caveats. Malignant hypertensio.... 3 predicted indications."
 permalink: /news/irbesartan/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Irbesartan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Irbesartan?">
-<strong>Irbesartan</strong> currently has <strong>130 news articles</strong>, with 3 predicted indications.
+<strong>Irbesartan</strong> currently has <strong>134 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,29 @@ This page combines the AI-predicted indications for Irbesartan with the latest h
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (130)
+## Related News (134)
+
+### ['Multi-cancer' blood tests coming to some GP surgeries soon](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtVkw4YzFEYUFQdktPUUttUF9sMFVxYk1CM0JsTjdrQXNfWmNxaWtkX21LSThXUFRxcFdxd3NtVFFFQ0ZraU5RNnZHc1lfQjNNcG9yMWFtR0NWVU5iSEE?oc=5)
+
+2026-11-04 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtVkw4YzFEYUFQdktPUUttUF9sMFVxYk1CM0JsTjdrQXNfWmNxaWtkX21LSThXUFRxcFdxd3NtVFFFQ0ZraU5RNnZHc1lfQjNNcG9yMWFtR0NWVU5iSEE?oc=5)
+
+---
 
 ### [Krebs: 200.000 Fälle könnten vermieden werden – doch viele unterschätzen diese Gefahr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU1VNMzdnR2MxTHNLMlhpRXZBNGpSRDRzam14WU5Ka2F6VHZTcnJ1dndvWFViaTRaYnlKN2pmUnVpWXIyV2FEdEQ4Ujd6Vy1VcHVHckRrUWEwYU1aTHR3ck5ldjVpUlQ2NHhOclJHdElwbmVVMlJQcTJTYmxQWExhVmtuejJsV1B2Z25tY1loRGdTbG5jLU14Q1pQRS1PZHcwYTVRNlAyMWlwM0I0N05OQjNETUcxbGVGOXAzQUViTEJYWHdzNUVCa0syaXVIMnZDWlNOVEQxYWt6S29rdkFpWnZTLW0?oc=5)
 
 2026-11-03 <span class="news-indication-tag">Krebs</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU1VNMzdnR2MxTHNLMlhpRXZBNGpSRDRzam14WU5Ka2F6VHZTcnJ1dndvWFViaTRaYnlKN2pmUnVpWXIyV2FEdEQ4Ujd6Vy1VcHVHckRrUWEwYU1aTHR3ck5ldjVpUlQ2NHhOclJHdElwbmVVMlJQcTJTYmxQWExhVmtuejJsV1B2Z25tY1loRGdTbG5jLU14Q1pQRS1PZHcwYTVRNlAyMWlwM0I0N05OQjNETUcxbGVGOXAzQUViTEJYWHdzNUVCa0syaXVIMnZDWlNOVEQxYWt6S29rdkFpWnZTLW0?oc=5)
+
+---
+
+### [Exploran más allá del vínculo entre hipertensión pulmonar y deterioro cognitivo - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
 
 ---
 
@@ -83,6 +99,14 @@ Source: [Il Mattino](https://news.google.com/rss/articles/CBMijwFBVV95cUxNNVN0aF
 2026-11-03 <span class="news-indication-tag">diabete</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWjZfWXV5MmNmSnRUSlFSbFJTME1uT29Ceml6bDlUdXc1bWt6UzAtTUlpUDFGNVNPaGRTUW1wZkRENEI3cklNckRYM1RxM0VERGpKaGIzamQ1cnF0RTBESEgtal9SZ0dTME1jbkItZVZTcTBnT0t5OFJxYzF0X3V3SEFadHhsOVdoRC1PX1o5eUZaWDlwc3A3VjVxVktObklwU1RtdGtoeVhCT3RSQ3daUE5RVHVESFJqVTlCcnZYQ3BrTnJHckdqdnNaalZnOEltaUU5eVlZRHZFYmtoc2lHV25nUURocU1vUlRyWGYtSDhYenV1MEdz?oc=5)
+
+---
+
+### [Ojo si tienes sed constantemente: el síntoma silencioso de la diabetes](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0JWVFh4QktLUGZtZzAwZThsYkxoT2d6c0xRdE1JeUNBRUxicWRaRjhXQ2tmd2VOTTdhem5ZNFl0UE1aaUZNY3plLWlGU1FBT0IwQndyZUJJOWE0ZVJWWHpZX2RaSklybS00VDZPVXFmZGJNcWRlZlh1eU1JbFoyU0hUdGJsZlhu0gGOAUFVX3lxTFByOGpJSXlPT2lfVnM4SnhDbDZYYUpabHZjQk9CeGVZZTBRMmp6MU9USlZRUmlfQXVsV0FYS3RwWjk4WGZXelY4dDBmbWkzVkJiYllpNWQyOW84aVJrMkRNME9vMEd1TlBCenpORG80UzlFM1RVV3hrcVRmSzd0NWZJem5KOEtpRkZkeXY2MXc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">diabetes</span>
+
+Source: [24horas](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0JWVFh4QktLUGZtZzAwZThsYkxoT2d6c0xRdE1JeUNBRUxicWRaRjhXQ2tmd2VOTTdhem5ZNFl0UE1aaUZNY3plLWlGU1FBT0IwQndyZUJJOWE0ZVJWWHpZX2RaSklybS00VDZPVXFmZGJNcWRlZlh1eU1JbFoyU0hUdGJsZlhu0gGOAUFVX3lxTFByOGpJSXlPT2lfVnM4SnhDbDZYYUpabHZjQk9CeGVZZTBRMmp6MU9USlZRUmlfQXVsV0FYS3RwWjk4WGZXelY4dDBmbWkzVkJiYllpNWQyOW84aVJrMkRNME9vMEd1TlBCenpORG80UzlFM1RVV3hrcVRmSzd0NWZJem5KOEtpRkZkeXY2MXc?oc=5)
 
 ---
 
@@ -131,6 +155,14 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMijgJBVV95c
 2026-11-03 <span class="news-indication-tag">hipertensión</span>
 
 Source: [ConSalud](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZFNieVBFbmdKRGh3SXgwdXFQUU9OdWxxOVlKUGR4cG90U2ExcllyclpmcHVXeTVNa1lvSnV6R0xlN0ZhQ294Y2RJemF0a0NPRUYtWUFwUWZlUzZhdm14NWN3WkZtS1FNbmxBbGVUTm1hd3FzREFvQnZTSzVORzFWdllkWU81ZFFycWNZd1VzRGpjMUhrWEJsc1VReXhudHZFb2hlR1FaU0szOXd6V1Q1YzBxcndkSVlPcl9IWjltYV9Yck04YzhuMVp3azdReWlVeTJZSGFRcTVtT09rTEE?oc=5)
+
+---
+
+### [Acostarse más temprano se asocia con la reducción de peso en personas con prediabetes](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX0dGRUVXQlg4bGNKZFlfMkNiUm5fQ3NhTXRCWDhrX2hjWWotdFVNVnk5OWtvVnI0VGFYZ1paRnpXWnFJaW9HS2Q2TXZ5eENIOExNTjdqMFZMeEQtTXVYZlQwcUNqRWkxZlZqSmFoSGNoQnphVEVTRVFSSklWN1o4c2ZrREVReEIxM2dmRmEySm5BZFNXNzcyM2hodTdyNXJyQVF2NUJEVzNDdC00akRxQmo0bzk5c0FWTVdCemg4T3YxMUhpaWY4emE5ZzJ4Qm5Vb2JvNQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">diabetes</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX0dGRUVXQlg4bGNKZFlfMkNiUm5fQ3NhTXRCWDhrX2hjWWotdFVNVnk5OWtvVnI0VGFYZ1paRnpXWnFJaW9HS2Q2TXZ5eENIOExNTjdqMFZMeEQtTXVYZlQwcUNqRWkxZlZqSmFoSGNoQnphVEVTRVFSSklWN1o4c2ZrREVReEIxM2dmRmEySm5BZFNXNzcyM2hodTdyNXJyQVF2NUJEVzNDdC00akRxQmo0bzk5c0FWTVdCemg4T3YxMUhpaWY4emE5ZzJ4Qm5Vb2JvNQ?oc=5)
 
 ---
 
@@ -422,14 +454,6 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxOREtBQjN2V
 
 ---
 
-### [Des chercheurs de l’ULB identifient un mécanisme clé des métastases dans le cancer](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENyYzdTNnBtOVg5REg2Q2xaSzVkZUE3Qk1SYVUtaGRtRUVRUld6ai1xR2RkdmpVXzg3ZDZZSVZwcEtsZ1JnQ0dlcTl6WF9rSTctSlZ4T1RMdEEwLWJWLVp5U2hlUXgySWl6OGlhekt3SVI3RUQtcjM4ai1SbWpxVk5ISkZKblU4ekJZWUF6YktURzJwdjdrWFFTa0NsRXJ2TnVZeFZtY2gzOUYzaHBXd0swRGc1MUFjSndz?oc=5)
-
-2026-11-02 <span class="news-indication-tag">cancer</span>
-
-Source: [RTBF](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENyYzdTNnBtOVg5REg2Q2xaSzVkZUE3Qk1SYVUtaGRtRUVRUld6ai1xR2RkdmpVXzg3ZDZZSVZwcEtsZ1JnQ0dlcTl6WF9rSTctSlZ4T1RMdEEwLWJWLVp5U2hlUXgySWl6OGlhekt3SVI3RUQtcjM4ai1SbWpxVk5ISkZKblU4ekJZWUF6YktURzJwdjdrWFFTa0NsRXJ2TnVZeFZtY2gzOUYzaHBXd0swRGc1MUFjSndz?oc=5)
-
----
-
 ### [Trous de mémoire : ce n'est pas forcément la vitamine D, une autre carence, fréquente après 60 ans, peut en être la cause - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZ2dJUVFyLU0teUFpSkFtUGVJN0NkNl9YeXJGUUR5N2F5cDBuLUFnWjB5M0ZYM0NYdklUY1pkY0hkeHEyLXBjcEhKaGpta3lLQlliQ2JSdFhWSnhUNXBFT0ZETmhyV0NDMEVSZ2JzcG5OLXdDYjE4XzVLeVRfeldkNlFfZldOcUhzeklUVVAyeVFiVTJhVGwxMG9FMno3ZVRra29PTk5SSGh3MzdmYmtlemJBOWhQbkVYNEZQb3R0eFQ4YnpJVmF4OGFycHYwYjVUd3k0YkxMSmNvdFprZXZGbVVpMnQ4T1dZS1NqN2U0VHhlQXdpU3Zv?oc=5)
 
 2026-11-02 <span class="news-indication-tag">cancer</span>
@@ -443,6 +467,14 @@ Source: [Futura, le média qui explore le monde](https://news.google.com/rss/art
 2026-11-02 <span class="news-indication-tag">cancer</span>
 
 Source: [Hit West](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEwxWXhGY0txVVdPczR2QkxnbmtOOFQ1VG5JVkxqNUxHZXpVYlNtVTFGOUJmTlE5enE5VUl0SWVlcFdUcVMyQUNNNlAwcVQxeFdzOXNhYnByd0NsazdreXJNdk1qVTh5clVaU0ZlbllTUlQwNVIyeXQxVzdyUzFXNmNCaklxNXVoS016MWV3Ym1sVTQ5WnZ0X3VtcTNBUWo3S1IzUjFuQURlMWc?oc=5)
+
+---
+
+### [Des chercheurs de l’ULB identifient un mécanisme clé des métastases dans le cancer](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENyYzdTNnBtOVg5REg2Q2xaSzVkZUE3Qk1SYVUtaGRtRUVRUld6ai1xR2RkdmpVXzg3ZDZZSVZwcEtsZ1JnQ0dlcTl6WF9rSTctSlZ4T1RMdEEwLWJWLVp5U2hlUXgySWl6OGlhekt3SVI3RUQtcjM4ai1SbWpxVk5ISkZKblU4ekJZWUF6YktURzJwdjdrWFFTa0NsRXJ2TnVZeFZtY2gzOUYzaHBXd0swRGc1MUFjSndz?oc=5)
+
+2026-11-02 <span class="news-indication-tag">cancer</span>
+
+Source: [RTBF](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENyYzdTNnBtOVg5REg2Q2xaSzVkZUE3Qk1SYVUtaGRtRUVRUld6ai1xR2RkdmpVXzg3ZDZZSVZwcEtsZ1JnQ0dlcTl6WF9rSTctSlZ4T1RMdEEwLWJWLVp5U2hlUXgySWl6OGlhekt3SVI3RUQtcjM4ai1SbWpxVk5ISkZKblU4ekJZWUF6YktURzJwdjdrWFFTa0NsRXJ2TnVZeFZtY2gzOUYzaHBXd0swRGc1MUFjSndz?oc=5)
 
 ---
 

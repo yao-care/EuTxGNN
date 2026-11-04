@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Abemaciclib. 0 predicted indications."
 permalink: /news/abemaciclib/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Abemaciclib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>15 news articles</strong>, with 0 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>16 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (16)
+
+### [Partizipative Therapieentscheidung bei rheumatoider Arthritis: weniger Nebenwirkungen - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
+
+2026-11-03 <span class="news-indication-tag">arthritis</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
+
+---
 
 ### [La vacunación de adultos, herramienta clave para prevenir las enfermedades cardiovasculares en Europa - Gaceta Médica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWdBakpEeWJ0aGxqZ3RkeGR0dS1tWXJwemNRd1BiLXRoWVNlYTJTdFN6Z0xWcUtabzBEYl9adjdneG5PM0FZRUFBSEUyREEwbzJDNi1JS0JSRmhjNmphaU1NWVZHOWp0bEZCVmNCdlp2Y0d0dFNWQW50UU1kME8wMW5Fei1rU2xzbC1ZVDhQVmYyWkl6WlAtUnBhc3AxVG1iUkhLWU5nUlNiLU4xOGFWbmVGckMtNldGaGlUY3J0VQ?oc=5)
 

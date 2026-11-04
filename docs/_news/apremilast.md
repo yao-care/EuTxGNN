@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Apremilast. 0 predicted indications."
 permalink: /news/apremilast/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Apremilast News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Apremilast?">
-<strong>Apremilast</strong> currently has <strong>30 news articles</strong>, with 0 predicted indications.
+<strong>Apremilast</strong> currently has <strong>32 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Apremilast with the latest h
 <p><a href="{{ '/drugs/apremilast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (30)
+## Related News (32)
+
+### [Partizipative Therapieentscheidung bei rheumatoider Arthritis: weniger Nebenwirkungen - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
+
+2026-11-03 <span class="news-indication-tag">arthritis</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
+
+---
+
+### [Exploran más allá del vínculo entre hipertensión pulmonar y deterioro cognitivo - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
+
+---
 
 ### [La vacunación de adultos, herramienta clave para prevenir las enfermedades cardiovasculares en Europa - Gaceta Médica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWdBakpEeWJ0aGxqZ3RkeGR0dS1tWXJwemNRd1BiLXRoWVNlYTJTdFN6Z0xWcUtabzBEYl9adjdneG5PM0FZRUFBSEUyREEwbzJDNi1JS0JSRmhjNmphaU1NWVZHOWp0bEZCVmNCdlp2Y0d0dFNWQW50UU1kME8wMW5Fei1rU2xzbC1ZVDhQVmYyWkl6WlAtUnBhc3AxVG1iUkhLWU5nUlNiLU4xOGFWbmVGckMtNldGaGlUY3J0VQ?oc=5)
 

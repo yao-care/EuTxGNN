@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Roflumilast. 0 predicted indications."
 permalink: /news/roflumilast/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Roflumilast News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Roflumilast?">
-<strong>Roflumilast</strong> currently has <strong>99 news articles</strong>, with 0 predicted indications.
+<strong>Roflumilast</strong> currently has <strong>101 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ This page combines the AI-predicted indications for Roflumilast with the latest 
 <p><a href="{{ '/drugs/roflumilast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (99)
+## Related News (101)
+
+### ['Multi-cancer' blood tests coming to some GP surgeries soon](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtVkw4YzFEYUFQdktPUUttUF9sMFVxYk1CM0JsTjdrQXNfWmNxaWtkX21LSThXUFRxcFdxd3NtVFFFQ0ZraU5RNnZHc1lfQjNNcG9yMWFtR0NWVU5iSEE?oc=5)
+
+2026-11-04 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtVkw4YzFEYUFQdktPUUttUF9sMFVxYk1CM0JsTjdrQXNfWmNxaWtkX21LSThXUFRxcFdxd3NtVFFFQ0ZraU5RNnZHc1lfQjNNcG9yMWFtR0NWVU5iSEE?oc=5)
+
+---
 
 ### [Krebs: 200.000 Fälle könnten vermieden werden – doch viele unterschätzen diese Gefahr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU1VNMzdnR2MxTHNLMlhpRXZBNGpSRDRzam14WU5Ka2F6VHZTcnJ1dndvWFViaTRaYnlKN2pmUnVpWXIyV2FEdEQ4Ujd6Vy1VcHVHckRrUWEwYU1aTHR3ck5ldjVpUlQ2NHhOclJHdElwbmVVMlJQcTJTYmxQWExhVmtuejJsV1B2Z25tY1loRGdTbG5jLU14Q1pQRS1PZHcwYTVRNlAyMWlwM0I0N05OQjNETUcxbGVGOXAzQUViTEJYWHdzNUVCa0syaXVIMnZDWlNOVEQxYWt6S29rdkFpWnZTLW0?oc=5)
 
 2026-11-03 <span class="news-indication-tag">Krebs</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU1VNMzdnR2MxTHNLMlhpRXZBNGpSRDRzam14WU5Ka2F6VHZTcnJ1dndvWFViaTRaYnlKN2pmUnVpWXIyV2FEdEQ4Ujd6Vy1VcHVHckRrUWEwYU1aTHR3ck5ldjVpUlQ2NHhOclJHdElwbmVVMlJQcTJTYmxQWExhVmtuejJsV1B2Z25tY1loRGdTbG5jLU14Q1pQRS1PZHcwYTVRNlAyMWlwM0I0N05OQjNETUcxbGVGOXAzQUViTEJYWHdzNUVCa0syaXVIMnZDWlNOVEQxYWt6S29rdkFpWnZTLW0?oc=5)
+
+---
+
+### [Exploran más allá del vínculo entre hipertensión pulmonar y deterioro cognitivo - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
 
 ---
 
@@ -328,14 +344,6 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxOREtBQjN2V
 
 ---
 
-### [Des chercheurs de l’ULB identifient un mécanisme clé des métastases dans le cancer](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENyYzdTNnBtOVg5REg2Q2xaSzVkZUE3Qk1SYVUtaGRtRUVRUld6ai1xR2RkdmpVXzg3ZDZZSVZwcEtsZ1JnQ0dlcTl6WF9rSTctSlZ4T1RMdEEwLWJWLVp5U2hlUXgySWl6OGlhekt3SVI3RUQtcjM4ai1SbWpxVk5ISkZKblU4ekJZWUF6YktURzJwdjdrWFFTa0NsRXJ2TnVZeFZtY2gzOUYzaHBXd0swRGc1MUFjSndz?oc=5)
-
-2026-11-02 <span class="news-indication-tag">cancer</span>
-
-Source: [RTBF](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENyYzdTNnBtOVg5REg2Q2xaSzVkZUE3Qk1SYVUtaGRtRUVRUld6ai1xR2RkdmpVXzg3ZDZZSVZwcEtsZ1JnQ0dlcTl6WF9rSTctSlZ4T1RMdEEwLWJWLVp5U2hlUXgySWl6OGlhekt3SVI3RUQtcjM4ai1SbWpxVk5ISkZKblU4ekJZWUF6YktURzJwdjdrWFFTa0NsRXJ2TnVZeFZtY2gzOUYzaHBXd0swRGc1MUFjSndz?oc=5)
-
----
-
 ### [Trous de mémoire : ce n'est pas forcément la vitamine D, une autre carence, fréquente après 60 ans, peut en être la cause - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZ2dJUVFyLU0teUFpSkFtUGVJN0NkNl9YeXJGUUR5N2F5cDBuLUFnWjB5M0ZYM0NYdklUY1pkY0hkeHEyLXBjcEhKaGpta3lLQlliQ2JSdFhWSnhUNXBFT0ZETmhyV0NDMEVSZ2JzcG5OLXdDYjE4XzVLeVRfeldkNlFfZldOcUhzeklUVVAyeVFiVTJhVGwxMG9FMno3ZVRra29PTk5SSGh3MzdmYmtlemJBOWhQbkVYNEZQb3R0eFQ4YnpJVmF4OGFycHYwYjVUd3k0YkxMSmNvdFprZXZGbVVpMnQ4T1dZS1NqN2U0VHhlQXdpU3Zv?oc=5)
 
 2026-11-02 <span class="news-indication-tag">cancer</span>
@@ -349,6 +357,14 @@ Source: [Futura, le média qui explore le monde](https://news.google.com/rss/art
 2026-11-02 <span class="news-indication-tag">cancer</span>
 
 Source: [Hit West](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEwxWXhGY0txVVdPczR2QkxnbmtOOFQ1VG5JVkxqNUxHZXpVYlNtVTFGOUJmTlE5enE5VUl0SWVlcFdUcVMyQUNNNlAwcVQxeFdzOXNhYnByd0NsazdreXJNdk1qVTh5clVaU0ZlbllTUlQwNVIyeXQxVzdyUzFXNmNCaklxNXVoS016MWV3Ym1sVTQ5WnZ0X3VtcTNBUWo3S1IzUjFuQURlMWc?oc=5)
+
+---
+
+### [Des chercheurs de l’ULB identifient un mécanisme clé des métastases dans le cancer](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENyYzdTNnBtOVg5REg2Q2xaSzVkZUE3Qk1SYVUtaGRtRUVRUld6ai1xR2RkdmpVXzg3ZDZZSVZwcEtsZ1JnQ0dlcTl6WF9rSTctSlZ4T1RMdEEwLWJWLVp5U2hlUXgySWl6OGlhekt3SVI3RUQtcjM4ai1SbWpxVk5ISkZKblU4ekJZWUF6YktURzJwdjdrWFFTa0NsRXJ2TnVZeFZtY2gzOUYzaHBXd0swRGc1MUFjSndz?oc=5)
+
+2026-11-02 <span class="news-indication-tag">cancer</span>
+
+Source: [RTBF](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENyYzdTNnBtOVg5REg2Q2xaSzVkZUE3Qk1SYVUtaGRtRUVRUld6ai1xR2RkdmpVXzg3ZDZZSVZwcEtsZ1JnQ0dlcTl6WF9rSTctSlZ4T1RMdEEwLWJWLVp5U2hlUXgySWl6OGlhekt3SVI3RUQtcjM4ai1SbWpxVk5ISkZKblU4ekJZWUF6YktURzJwdjdrWFFTa0NsRXJ2TnVZeFZtY2gzOUYzaHBXd0swRGc1MUFjSndz?oc=5)
 
 ---
 

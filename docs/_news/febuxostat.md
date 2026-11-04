@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Febuxostat. 3 predicted indications."
 permalink: /news/febuxostat/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Febuxostat News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Febuxostat?">
-<strong>Febuxostat</strong> currently has <strong>13 news articles</strong>, with 3 predicted indications.
+<strong>Febuxostat</strong> currently has <strong>14 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Febuxostat with the latest h
 <p><a href="{{ '/drugs/febuxostat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### [Exploran más allá del vínculo entre hipertensión pulmonar y deterioro cognitivo - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
+
+---
 
 ### [Hallan el origen de las alteraciones de memoria y atención en pacientes con hipertensión pulmonar](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZFNieVBFbmdKRGh3SXgwdXFQUU9OdWxxOVlKUGR4cG90U2ExcllyclpmcHVXeTVNa1lvSnV6R0xlN0ZhQ294Y2RJemF0a0NPRUYtWUFwUWZlUzZhdm14NWN3WkZtS1FNbmxBbGVUTm1hd3FzREFvQnZTSzVORzFWdllkWU81ZFFycWNZd1VzRGpjMUhrWEJsc1VReXhudHZFb2hlR1FaU0szOXd6V1Q1YzBxcndkSVlPcl9IWjltYV9Yck04YzhuMVp3azdReWlVeTJZSGFRcTVtT09rTEE?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "hipertensión (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hipertensión (hypertension). 13 articles, 55 related drugs."
+description: "Health news about hipertensión (hypertension). 14 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # hipertensión (hypertension) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about hipertensión (hypertension)?">
-<strong>hipertensión (hypertension)</strong> currently has <strong>13 news articles</strong> and 55 related drugs.
+<strong>hipertensión (hypertension)</strong> currently has <strong>14 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -60,7 +60,15 @@ This page brings together the latest health news about “hipertensión” and l
 </ul>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### [Exploran más allá del vínculo entre hipertensión pulmonar y deterioro cognitivo - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
+
+2026-11-03
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
+
+---
 
 ### [Hallan el origen de las alteraciones de memoria y atención en pacientes con hipertensión pulmonar](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZFNieVBFbmdKRGh3SXgwdXFQUU9OdWxxOVlKUGR4cG90U2ExcllyclpmcHVXeTVNa1lvSnV6R0xlN0ZhQ294Y2RJemF0a0NPRUYtWUFwUWZlUzZhdm14NWN3WkZtS1FNbmxBbGVUTm1hd3FzREFvQnZTSzVORzFWdllkWU81ZFFycWNZd1VzRGpjMUhrWEJsc1VReXhudHZFb2hlR1FaU0szOXd6V1Q1YzBxcndkSVlPcl9IWjltYV9Yck04YzhuMVp3azdReWlVeTJZSGFRcTVtT09rTEE?oc=5)
 

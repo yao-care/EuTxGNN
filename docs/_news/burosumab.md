@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Burosumab. 0 predicted indications."
 permalink: /news/burosumab/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Burosumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Burosumab?">
-<strong>Burosumab</strong> currently has <strong>31 news articles</strong>, with 0 predicted indications.
+<strong>Burosumab</strong> currently has <strong>33 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Burosumab with the latest he
 <p><a href="{{ '/drugs/burosumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (31)
+## Related News (33)
 
 ### [El horario de sueño puede ser un objetivo revelador en la prevención de la diabetes - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdy1pTjZ2WlZabldqU3drdF8zZlJ4YnI4WjZqSm5xd1MzdlNjXzd1OEpzdFp6NFBEdjVKcnVTbDFGTFZ6ZjRHdHhCRW5rSmxIVTdzMjhyYjZfLUpaWHI1NHFuSWN2X3RaYWNwUGxQS21KaHo2ektCV0pTX3VXb0Y4aDZoalp5Sm1GaTZKTW1wbExxT3gyRk83RE5BelBEOTNiRDRpaHhUZDRIUy01Q1drV0VfUFVkZDR4aFBLbE85U3DSAbsBQVVfeXFMTWFnT2RSUnhFTDVGamdHOEk5WFE5MEU2NzRZTXc4dEdSZTVuMkpzQkVmRThqU0RtZG1RRTVJdEYyTGltY1RQcmtadzZXTHN6dkYxYUdRM2FCeWc1aE5nYV9hbEg2dnRMZkY5emZlLWhGVDRSQW9EYXpnLVU0Ry01Tl9KLU5ySU9HMHNvbl9BVjNHdkJaQzdYOE8yYVJTd1BuelZyMDBabE14OFhlckNlbW1lcDIydXFnVDhtYw?oc=5)
 
@@ -56,11 +56,27 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWjZf
 
 ---
 
+### [Ojo si tienes sed constantemente: el síntoma silencioso de la diabetes](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0JWVFh4QktLUGZtZzAwZThsYkxoT2d6c0xRdE1JeUNBRUxicWRaRjhXQ2tmd2VOTTdhem5ZNFl0UE1aaUZNY3plLWlGU1FBT0IwQndyZUJJOWE0ZVJWWHpZX2RaSklybS00VDZPVXFmZGJNcWRlZlh1eU1JbFoyU0hUdGJsZlhu0gGOAUFVX3lxTFByOGpJSXlPT2lfVnM4SnhDbDZYYUpabHZjQk9CeGVZZTBRMmp6MU9USlZRUmlfQXVsV0FYS3RwWjk4WGZXelY4dDBmbWkzVkJiYllpNWQyOW84aVJrMkRNME9vMEd1TlBCenpORG80UzlFM1RVV3hrcVRmSzd0NWZJem5KOEtpRkZkeXY2MXc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">diabetes</span>
+
+Source: [24horas](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0JWVFh4QktLUGZtZzAwZThsYkxoT2d6c0xRdE1JeUNBRUxicWRaRjhXQ2tmd2VOTTdhem5ZNFl0UE1aaUZNY3plLWlGU1FBT0IwQndyZUJJOWE0ZVJWWHpZX2RaSklybS00VDZPVXFmZGJNcWRlZlh1eU1JbFoyU0hUdGJsZlhu0gGOAUFVX3lxTFByOGpJSXlPT2lfVnM4SnhDbDZYYUpabHZjQk9CeGVZZTBRMmp6MU9USlZRUmlfQXVsV0FYS3RwWjk4WGZXelY4dDBmbWkzVkJiYllpNWQyOW84aVJrMkRNME9vMEd1TlBCenpORG80UzlFM1RVV3hrcVRmSzd0NWZJem5KOEtpRkZkeXY2MXc?oc=5)
+
+---
+
 ### [Ovaio policistico e diabete tipo 1, il legame emerge in uno studio su quasi 2mila donne](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXQ0UnJqcnhNU1hpdlFTdDRBaHB6ME5GSy1YcktNR0d4ME9DMUE0ODlwMWRxYm9xa2pJVXJyYmNBcmVzZkYtX3p5b0ZqLUI3TUo5RUtEcjkwcjYyN05FNkNOTFotWXZITFNNUXdJOUxUSkt1V0ttcmhsbVowNHFsdUp1Y2Z5OU95NFJYV3RHYlZ5dGpRbVJWOTF6QW01UVpMb0IzdzBzX0tYMEZTV3VMcTZJbG8zc1cyTnFadFZFZ2N3RGdLaTdwLU53OHcwNGE5VG9yTGVkZExCNDVHbE9z?oc=5)
 
 2026-11-03 <span class="news-indication-tag">diabete</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXQ0UnJqcnhNU1hpdlFTdDRBaHB6ME5GSy1YcktNR0d4ME9DMUE0ODlwMWRxYm9xa2pJVXJyYmNBcmVzZkYtX3p5b0ZqLUI3TUo5RUtEcjkwcjYyN05FNkNOTFotWXZITFNNUXdJOUxUSkt1V0ttcmhsbVowNHFsdUp1Y2Z5OU95NFJYV3RHYlZ5dGpRbVJWOTF6QW01UVpMb0IzdzBzX0tYMEZTV3VMcTZJbG8zc1cyTnFadFZFZ2N3RGdLaTdwLU53OHcwNGE5VG9yTGVkZExCNDVHbE9z?oc=5)
+
+---
+
+### [Acostarse más temprano se asocia con la reducción de peso en personas con prediabetes](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX0dGRUVXQlg4bGNKZFlfMkNiUm5fQ3NhTXRCWDhrX2hjWWotdFVNVnk5OWtvVnI0VGFYZ1paRnpXWnFJaW9HS2Q2TXZ5eENIOExNTjdqMFZMeEQtTXVYZlQwcUNqRWkxZlZqSmFoSGNoQnphVEVTRVFSSklWN1o4c2ZrREVReEIxM2dmRmEySm5BZFNXNzcyM2hodTdyNXJyQVF2NUJEVzNDdC00akRxQmo0bzk5c0FWTVdCemg4T3YxMUhpaWY4emE5ZzJ4Qm5Vb2JvNQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">diabetes</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX0dGRUVXQlg4bGNKZFlfMkNiUm5fQ3NhTXRCWDhrX2hjWWotdFVNVnk5OWtvVnI0VGFYZ1paRnpXWnFJaW9HS2Q2TXZ5eENIOExNTjdqMFZMeEQtTXVYZlQwcUNqRWkxZlZqSmFoSGNoQnphVEVTRVFSSklWN1o4c2ZrREVReEIxM2dmRmEySm5BZFNXNzcyM2hodTdyNXJyQVF2NUJEVzNDdC00akRxQmo0bzk5c0FWTVdCemg4T3YxMUhpaWY4emE5ZzJ4Qm5Vb2JvNQ?oc=5)
 
 ---
 

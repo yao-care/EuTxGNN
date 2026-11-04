@@ -3,9 +3,9 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 33 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 32 articles, 11 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # ictus (stroke) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>33 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>32 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (33)
+## Related News (32)
 
 ### [Mireia Illueca, neurocirujana: “Cada minuto que se pierde tras un ictus es tejido cerebral que no se recupera” - Diario AS](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLXpXV0VVck5weVdiSkVCaDEtblZ1a1EyXzRXczlENzA1Q3dxSy1EajFnRlA3SFFZVEJpbWxTckhndUF0b0thWW1Tc200QzVzbmh6YlJWTk1COXlDaVZ2a3RkektHN1lfZlVyZS1YMEJJd3Y2QjdRWHlGTVc3WUR4TC1LNXdsaGFVcmtEZ2VxVGhJWkFmNmZZZlhxVV9TY3h2cVhhcWFtbGxNU1hQcmFGMnBuZmp4b29OUy14WGt3cFhaQ0ZnU1FkVXVOeUhZWlNGNl9DZFFBdHBkRWdiSFYtOWdn0gH2AUFVX3lxTE9tUWFfSkJsSTlRVS1RMmZGY0RnamExS3F2WGtfZmF3bTY1aVZsWnQ3MXNUVkxPTTRiYUxuRGlvbXhXbUJBTzA3RkFHbXNjSFNXWDVKV0IwZlFFejdGVnpfTG5KOTBmclpYRzRndDc5NERJNzhoVERmbmR2ZjdMMjdrSnE1a19mcGQzNk9Rb3pUcy1leE9jOC1kYjQxZG5rMGRTUTNnV2thT2xHbXoxcjBSSUpiWEp6U0lYY0xpMnBLTVRuWm1SQ21WUHR4dC1OamhySjlMb1J2LVVjcHdaTnlxR1ZRODhsOHotQXpOUnBEZDBmZHJQQQ?oc=5)
 
 2026-11-03
 
 Source: [Diario AS](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLXpXV0VVck5weVdiSkVCaDEtblZ1a1EyXzRXczlENzA1Q3dxSy1EajFnRlA3SFFZVEJpbWxTckhndUF0b0thWW1Tc200QzVzbmh6YlJWTk1COXlDaVZ2a3RkektHN1lfZlVyZS1YMEJJd3Y2QjdRWHlGTVc3WUR4TC1LNXdsaGFVcmtEZ2VxVGhJWkFmNmZZZlhxVV9TY3h2cVhhcWFtbGxNU1hQcmFGMnBuZmp4b29OUy14WGt3cFhaQ0ZnU1FkVXVOeUhZWlNGNl9DZFFBdHBkRWdiSFYtOWdn0gH2AUFVX3lxTE9tUWFfSkJsSTlRVS1RMmZGY0RnamExS3F2WGtfZmF3bTY1aVZsWnQ3MXNUVkxPTTRiYUxuRGlvbXhXbUJBTzA3RkFHbXNjSFNXWDVKV0IwZlFFejdGVnpfTG5KOTBmclpYRzRndDc5NERJNzhoVERmbmR2ZjdMMjdrSnE1a19mcGQzNk9Rb3pUcy1leE9jOC1kYjQxZG5rMGRTUTNnV2thT2xHbXoxcjBSSUpiWEp6U0lYY0xpMnBLTVRuWm1SQ21WUHR4dC1OamhySjlMb1J2LVVjcHdaTnlxR1ZRODhsOHotQXpOUnBEZDBmZHJQQQ?oc=5)
-
----
-
-### [¿El cannabis aumenta el riesgo de accidentes cerebrovasculares? La ciencia se acerca a una respuesta - National Geographic España](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOS05UFNXYlRqclJROC01OUdqZ2V1dl9lQkpQWVRYZ05XWTRlY0tTb1ZPNU5VX1VJVXJtWTdOcmo1WFJtYjJ2ZVp1VTJ2VFFhaTNKSkt4Q2NVNl9RdUpnY2puTF9PNHFqLUNleHVZLTRjNFdscUZBSWVPNVpocVU2UFdNeFpoUjBORzd6LTJNeGE2RmUybHVWb1hHdGtDSmMxUFc3Z1FNUlh1Qmh1X1Npd2l3TWdPaWlkcmZCVi0ycm91WWNhLW5MelVUeWppRTM2RzVWS1dndHNHd2p5YkVIa0g1STFZTXlTWUI4NDNXcmVMZXM?oc=5)
-
-2026-11-03
-
-Source: [National Geographic España](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOS05UFNXYlRqclJROC01OUdqZ2V1dl9lQkpQWVRYZ05XWTRlY0tTb1ZPNU5VX1VJVXJtWTdOcmo1WFJtYjJ2ZVp1VTJ2VFFhaTNKSkt4Q2NVNl9RdUpnY2puTF9PNHFqLUNleHVZLTRjNFdscUZBSWVPNVpocVU2UFdNeFpoUjBORzd6LTJNeGE2RmUybHVWb1hHdGtDSmMxUFc3Z1FNUlh1Qmh1X1Npd2l3TWdPaWlkcmZCVi0ycm91WWNhLW5MelVUeWppRTM2RzVWS1dndHNHd2p5YkVIa0g1STFZTXlTWUI4NDNXcmVMZXM?oc=5)
 
 ---
 

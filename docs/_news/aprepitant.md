@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Aprepitant. 10 predicted indications."
 permalink: /news/aprepitant/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Aprepitant News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Aprepitant?">
-<strong>Aprepitant</strong> currently has <strong>25 news articles</strong>, with 10 predicted indications.
+<strong>Aprepitant</strong> currently has <strong>26 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Aprepitant with the latest h
 <p><a href="{{ '/drugs/aprepitant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (25)
+## Related News (26)
+
+### [Exploran más allá del vínculo entre hipertensión pulmonar y deterioro cognitivo - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
+
+---
 
 ### [La vacunación de adultos, herramienta clave para prevenir las enfermedades cardiovasculares en Europa - Gaceta Médica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWdBakpEeWJ0aGxqZ3RkeGR0dS1tWXJwemNRd1BiLXRoWVNlYTJTdFN6Z0xWcUtabzBEYl9adjdneG5PM0FZRUFBSEUyREEwbzJDNi1JS0JSRmhjNmphaU1NWVZHOWp0bEZCVmNCdlp2Y0d0dFNWQW50UU1kME8wMW5Fei1rU2xzbC1ZVDhQVmYyWkl6WlAtUnBhc3AxVG1iUkhLWU5nUlNiLU4xOGFWbmVGckMtNldGaGlUY3J0VQ?oc=5)
 

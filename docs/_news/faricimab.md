@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Faricimab. 0 predicted indications."
 permalink: /news/faricimab/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Faricimab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Faricimab?">
-<strong>Faricimab</strong> currently has <strong>110 news articles</strong>, with 0 predicted indications.
+<strong>Faricimab</strong> currently has <strong>113 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Faricimab with the latest he
 <p><a href="{{ '/drugs/faricimab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (110)
+## Related News (113)
+
+### ['Multi-cancer' blood tests coming to some GP surgeries soon](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtVkw4YzFEYUFQdktPUUttUF9sMFVxYk1CM0JsTjdrQXNfWmNxaWtkX21LSThXUFRxcFdxd3NtVFFFQ0ZraU5RNnZHc1lfQjNNcG9yMWFtR0NWVU5iSEE?oc=5)
+
+2026-11-04 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtVkw4YzFEYUFQdktPUUttUF9sMFVxYk1CM0JsTjdrQXNfWmNxaWtkX21LSThXUFRxcFdxd3NtVFFFQ0ZraU5RNnZHc1lfQjNNcG9yMWFtR0NWVU5iSEE?oc=5)
+
+---
 
 ### [Krebs: 200.000 Fälle könnten vermieden werden – doch viele unterschätzen diese Gefahr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU1VNMzdnR2MxTHNLMlhpRXZBNGpSRDRzam14WU5Ka2F6VHZTcnJ1dndvWFViaTRaYnlKN2pmUnVpWXIyV2FEdEQ4Ujd6Vy1VcHVHckRrUWEwYU1aTHR3ck5ldjVpUlQ2NHhOclJHdElwbmVVMlJQcTJTYmxQWExhVmtuejJsV1B2Z25tY1loRGdTbG5jLU14Q1pQRS1PZHcwYTVRNlAyMWlwM0I0N05OQjNETUcxbGVGOXAzQUViTEJYWHdzNUVCa0syaXVIMnZDWlNOVEQxYWt6S29rdkFpWnZTLW0?oc=5)
 
@@ -80,6 +88,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWjZf
 
 ---
 
+### [Ojo si tienes sed constantemente: el síntoma silencioso de la diabetes](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0JWVFh4QktLUGZtZzAwZThsYkxoT2d6c0xRdE1JeUNBRUxicWRaRjhXQ2tmd2VOTTdhem5ZNFl0UE1aaUZNY3plLWlGU1FBT0IwQndyZUJJOWE0ZVJWWHpZX2RaSklybS00VDZPVXFmZGJNcWRlZlh1eU1JbFoyU0hUdGJsZlhu0gGOAUFVX3lxTFByOGpJSXlPT2lfVnM4SnhDbDZYYUpabHZjQk9CeGVZZTBRMmp6MU9USlZRUmlfQXVsV0FYS3RwWjk4WGZXelY4dDBmbWkzVkJiYllpNWQyOW84aVJrMkRNME9vMEd1TlBCenpORG80UzlFM1RVV3hrcVRmSzd0NWZJem5KOEtpRkZkeXY2MXc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">diabetes</span>
+
+Source: [24horas](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0JWVFh4QktLUGZtZzAwZThsYkxoT2d6c0xRdE1JeUNBRUxicWRaRjhXQ2tmd2VOTTdhem5ZNFl0UE1aaUZNY3plLWlGU1FBT0IwQndyZUJJOWE0ZVJWWHpZX2RaSklybS00VDZPVXFmZGJNcWRlZlh1eU1JbFoyU0hUdGJsZlhu0gGOAUFVX3lxTFByOGpJSXlPT2lfVnM4SnhDbDZYYUpabHZjQk9CeGVZZTBRMmp6MU9USlZRUmlfQXVsV0FYS3RwWjk4WGZXelY4dDBmbWkzVkJiYllpNWQyOW84aVJrMkRNME9vMEd1TlBCenpORG80UzlFM1RVV3hrcVRmSzd0NWZJem5KOEtpRkZkeXY2MXc?oc=5)
+
+---
+
 ### [Ovaio policistico e diabete tipo 1, il legame emerge in uno studio su quasi 2mila donne](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXQ0UnJqcnhNU1hpdlFTdDRBaHB6ME5GSy1YcktNR0d4ME9DMUE0ODlwMWRxYm9xa2pJVXJyYmNBcmVzZkYtX3p5b0ZqLUI3TUo5RUtEcjkwcjYyN05FNkNOTFotWXZITFNNUXdJOUxUSkt1V0ttcmhsbVowNHFsdUp1Y2Z5OU95NFJYV3RHYlZ5dGpRbVJWOTF6QW01UVpMb0IzdzBzX0tYMEZTV3VMcTZJbG8zc1cyTnFadFZFZ2N3RGdLaTdwLU53OHcwNGE5VG9yTGVkZExCNDVHbE9z?oc=5)
 
 2026-11-03 <span class="news-indication-tag">diabete</span>
@@ -109,6 +125,14 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1dhRWM
 2026-11-03 <span class="news-indication-tag">cancro</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMijgJBVV95cUxQMS1QaXJldk1RcDBDOXVGaXRiYnZxT0VJMjJ0ZEJCbWtUNTcwc3JFaE1KdUMyTkFEcHplMk9rdklqQVIzSDF0X0xWVFVEUXhPRmRoV1RlSEtUU3BGZmlCYXZzTE5GakduaTdULW5OTUtsaXJYS3dodkNPZWg1T3BBTklwNWZmcl9qSjF5c3FTZFRZcm1ET0ctR2NEN0xUVFBTbURPN0FBU3R2S1A1QUdlNXFTdFdVdUdKQm0xU0tNOU1talNQckYyZlpjckRuR3dLSlQ5eUY3bW5DbDdxeG1jclhUckxtaUFaYWwtYVBWVFFBWEFZcmVOME9rbm1rS1VSNHQ5aW4yeWFaYmljbEHSAZMCQVVfeXFMTzdTaVBxUktsZVF3N1JpdU9fdHJ4QjdtYXJadEhuWWJOb3NjVmV0VnkzU213c001M1NUQkdReW1UOU5hamlDbVZrc1cyYm0yZWRZS05sd3ZSNDl0ZGVreFJCOTNCcklyNFdMdTE1ZmxEQUNnd0ZHWmg3MkhoQW9qbzdsOHZzaVV4YkhfUVZXZWp2SEhhWDRBbmp1ZXcwOExUR2wyYjY4Z1pEUlFpZTNYaXExMTFja0ZDYWlhRTVrUVhGWXU0R0VHOC1Zc0ViVWRMeThwamc4aDVQVjhDUGw5Q1VLTjhhekMydEJBNldjZHVtTC01OENSNDJEeFpqdjRRSkVqMElhZjBpam9EbllxZXNpLWc?oc=5)
+
+---
+
+### [Acostarse más temprano se asocia con la reducción de peso en personas con prediabetes](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX0dGRUVXQlg4bGNKZFlfMkNiUm5fQ3NhTXRCWDhrX2hjWWotdFVNVnk5OWtvVnI0VGFYZ1paRnpXWnFJaW9HS2Q2TXZ5eENIOExNTjdqMFZMeEQtTXVYZlQwcUNqRWkxZlZqSmFoSGNoQnphVEVTRVFSSklWN1o4c2ZrREVReEIxM2dmRmEySm5BZFNXNzcyM2hodTdyNXJyQVF2NUJEVzNDdC00akRxQmo0bzk5c0FWTVdCemg4T3YxMUhpaWY4emE5ZzJ4Qm5Vb2JvNQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">diabetes</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX0dGRUVXQlg4bGNKZFlfMkNiUm5fQ3NhTXRCWDhrX2hjWWotdFVNVnk5OWtvVnI0VGFYZ1paRnpXWnFJaW9HS2Q2TXZ5eENIOExNTjdqMFZMeEQtTXVYZlQwcUNqRWkxZlZqSmFoSGNoQnphVEVTRVFSSklWN1o4c2ZrREVReEIxM2dmRmEySm5BZFNXNzcyM2hodTdyNXJyQVF2NUJEVzNDdC00akRxQmo0bzk5c0FWTVdCemg4T3YxMUhpaWY4emE5ZzJ4Qm5Vb2JvNQ?oc=5)
 
 ---
 
@@ -344,14 +368,6 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxOREtBQjN2V
 
 ---
 
-### [Des chercheurs de l’ULB identifient un mécanisme clé des métastases dans le cancer](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENyYzdTNnBtOVg5REg2Q2xaSzVkZUE3Qk1SYVUtaGRtRUVRUld6ai1xR2RkdmpVXzg3ZDZZSVZwcEtsZ1JnQ0dlcTl6WF9rSTctSlZ4T1RMdEEwLWJWLVp5U2hlUXgySWl6OGlhekt3SVI3RUQtcjM4ai1SbWpxVk5ISkZKblU4ekJZWUF6YktURzJwdjdrWFFTa0NsRXJ2TnVZeFZtY2gzOUYzaHBXd0swRGc1MUFjSndz?oc=5)
-
-2026-11-02 <span class="news-indication-tag">cancer</span>
-
-Source: [RTBF](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENyYzdTNnBtOVg5REg2Q2xaSzVkZUE3Qk1SYVUtaGRtRUVRUld6ai1xR2RkdmpVXzg3ZDZZSVZwcEtsZ1JnQ0dlcTl6WF9rSTctSlZ4T1RMdEEwLWJWLVp5U2hlUXgySWl6OGlhekt3SVI3RUQtcjM4ai1SbWpxVk5ISkZKblU4ekJZWUF6YktURzJwdjdrWFFTa0NsRXJ2TnVZeFZtY2gzOUYzaHBXd0swRGc1MUFjSndz?oc=5)
-
----
-
 ### [Trous de mémoire : ce n'est pas forcément la vitamine D, une autre carence, fréquente après 60 ans, peut en être la cause - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZ2dJUVFyLU0teUFpSkFtUGVJN0NkNl9YeXJGUUR5N2F5cDBuLUFnWjB5M0ZYM0NYdklUY1pkY0hkeHEyLXBjcEhKaGpta3lLQlliQ2JSdFhWSnhUNXBFT0ZETmhyV0NDMEVSZ2JzcG5OLXdDYjE4XzVLeVRfeldkNlFfZldOcUhzeklUVVAyeVFiVTJhVGwxMG9FMno3ZVRra29PTk5SSGh3MzdmYmtlemJBOWhQbkVYNEZQb3R0eFQ4YnpJVmF4OGFycHYwYjVUd3k0YkxMSmNvdFprZXZGbVVpMnQ4T1dZS1NqN2U0VHhlQXdpU3Zv?oc=5)
 
 2026-11-02 <span class="news-indication-tag">cancer</span>
@@ -365,6 +381,14 @@ Source: [Futura, le média qui explore le monde](https://news.google.com/rss/art
 2026-11-02 <span class="news-indication-tag">cancer</span>
 
 Source: [Hit West](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEwxWXhGY0txVVdPczR2QkxnbmtOOFQ1VG5JVkxqNUxHZXpVYlNtVTFGOUJmTlE5enE5VUl0SWVlcFdUcVMyQUNNNlAwcVQxeFdzOXNhYnByd0NsazdreXJNdk1qVTh5clVaU0ZlbllTUlQwNVIyeXQxVzdyUzFXNmNCaklxNXVoS016MWV3Ym1sVTQ5WnZ0X3VtcTNBUWo3S1IzUjFuQURlMWc?oc=5)
+
+---
+
+### [Des chercheurs de l’ULB identifient un mécanisme clé des métastases dans le cancer](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENyYzdTNnBtOVg5REg2Q2xaSzVkZUE3Qk1SYVUtaGRtRUVRUld6ai1xR2RkdmpVXzg3ZDZZSVZwcEtsZ1JnQ0dlcTl6WF9rSTctSlZ4T1RMdEEwLWJWLVp5U2hlUXgySWl6OGlhekt3SVI3RUQtcjM4ai1SbWpxVk5ISkZKblU4ekJZWUF6YktURzJwdjdrWFFTa0NsRXJ2TnVZeFZtY2gzOUYzaHBXd0swRGc1MUFjSndz?oc=5)
+
+2026-11-02 <span class="news-indication-tag">cancer</span>
+
+Source: [RTBF](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTENyYzdTNnBtOVg5REg2Q2xaSzVkZUE3Qk1SYVUtaGRtRUVRUld6ai1xR2RkdmpVXzg3ZDZZSVZwcEtsZ1JnQ0dlcTl6WF9rSTctSlZ4T1RMdEEwLWJWLVp5U2hlUXgySWl6OGlhekt3SVI3RUQtcjM4ai1SbWpxVk5ISkZKblU4ekJZWUF6YktURzJwdjdrWFFTa0NsRXJ2TnVZeFZtY2gzOUYzaHBXd0swRGc1MUFjSndz?oc=5)
 
 ---
 

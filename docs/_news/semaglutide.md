@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Semaglutide. 0 predicted indications."
 permalink: /news/semaglutide/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Semaglutide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>7 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>8 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Coupe-faim : le marché explose, les effets indésirables aussi - Les Echos](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGtXcnZhaW5NYlNjX042VUxtRDVxRkI3cDZmNzlHOWE5Snk0d3BmVmxzZmMtX1gtR1o2aHdZcEhLWmdSU1VtcnJfU2RpazNFcVlNYkgwTllTMXJ0NUNTS1dVNm8ycG5IQnZOSzBfclQzMjhZVzZPVXppTTA4aGg0X2wtaGtVaG9EMFBPMThxb3N4V0UzYXlwOElYRFlIZXVLSWxESzROMA?oc=5)
+
+2026-11-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Les Echos](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGtXcnZhaW5NYlNjX042VUxtRDVxRkI3cDZmNzlHOWE5Snk0d3BmVmxzZmMtX1gtR1o2aHdZcEhLWmdSU1VtcnJfU2RpazNFcVlNYkgwTllTMXJ0NUNTS1dVNm8ycG5IQnZOSzBfclQzMjhZVzZPVXppTTA4aGg0X2wtaGtVaG9EMFBPMThxb3N4V0UzYXlwOElYRFlIZXVLSWxESzROMA?oc=5)
+
+---
 
 ### [Médicaments anti-obésité GLP-1 : près d'un Français sur cinq prêt à en prendre pour maigrir, pourquoi ce chiffre inquiète - Yahoo Life France](https://news.google.com/rss/articles/CBMifEFVX3lxTE1HWjIwcGprTEJnTDJNVEp4TTZ3Z1MzRXZWU05wMGZNWEN6dTlqWFFxa1VuOUNXazd6cV95NC1tcXd6MDU2RjB3MmxmR2tfN1lXTlJ6MTdnZ2x1N21QbkFkMkhBbXg1RWNpU3JuaEV0WmV0Z2pGWmxYSVc3bHM?oc=5)
 
