@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>8 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>9 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [Wegovy : tout comprendre en dix questions sur ce médicament en vogue](https://news.google.com/rss/articles/CBMickFVX3lxTE9oZXVZMi1GUTB0akNfZE94azNDMzlNTll2YlI2anppMXE0d09HNXF1QkJ2dGdDVW5nNmRBdFp5OFd0NUdlcm5MMEdqQ0tWbFFHNmI3MnFuUWdyeEJ1Y1VvbEViTGxLYUNPUTFWQmh5a3RDZw?oc=5)
+
+2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMickFVX3lxTE9oZXVZMi1GUTB0akNfZE94azNDMzlNTll2YlI2anppMXE0d09HNXF1QkJ2dGdDVW5nNmRBdFp5OFd0NUdlcm5MMEdqQ0tWbFFHNmI3MnFuUWdyeEJ1Y1VvbEViTGxLYUNPUTFWQmh5a3RDZw?oc=5)
+
+---
 
 ### [Coupe-faim : le marché explose, les effets indésirables aussi - Les Echos](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGtXcnZhaW5NYlNjX042VUxtRDVxRkI3cDZmNzlHOWE5Snk0d3BmVmxzZmMtX1gtR1o2aHdZcEhLWmdSU1VtcnJfU2RpazNFcVlNYkgwTllTMXJ0NUNTS1dVNm8ycG5IQnZOSzBfclQzMjhZVzZPVXppTTA4aGg0X2wtaGtVaG9EMFBPMThxb3N4V0UzYXlwOElYRFlIZXVLSWxESzROMA?oc=5)
 

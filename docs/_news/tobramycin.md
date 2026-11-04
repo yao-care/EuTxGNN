@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tobramycin. 10 predicted indications."
 permalink: /news/tobramycin/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Tobramycin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Tobramycin?">
-<strong>Tobramycin</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
+<strong>Tobramycin</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Tobramycin with the latest h
 <p><a href="{{ '/drugs/tobramycin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [Heart failure hospitalisations surge as woman, 35, tells of shock at life-threatening diagnosis - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1BXY2dodmM1X0dROFR1OC1VbThoSHhxMDI2X04xUmFaUC1jOVotWnVjTVpFdnVweVVTM01vRXR4MmJvbWE3ZjM3QWRIZU5mSHc3VmJlQmZzX01acHNPLUpYZEw2aE5YMDVGY05MRzQwY05ZU0FNVm5UV0VUaFFMMk41cDlqZ2lr0gGOAUFVX3lxTFBJZmUxTGhRN3JlS1kwY0w0QkZEQUNtTkkyOUtLZTh0S3N3VEVhRTA5RzQwaWUzZDJJNk9pUjJHbFlZeEZYVTBremRqUXdjM3o0STg0SXF5YnM5Q0Q1TEJjUEdWeWRwVEFDdkJhZDBKdlRUaWg0RFlrQ1NmaXV0MDgtTVpxV1VXdFJaTzI2cmc?oc=5)
+
+2026-11-04 <span class="news-indication-tag">heart disease</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1BXY2dodmM1X0dROFR1OC1VbThoSHhxMDI2X04xUmFaUC1jOVotWnVjTVpFdnVweVVTM01vRXR4MmJvbWE3ZjM3QWRIZU5mSHc3VmJlQmZzX01acHNPLUpYZEw2aE5YMDVGY05MRzQwY05ZU0FNVm5UV0VUaFFMMk41cDlqZ2lr0gGOAUFVX3lxTFBJZmUxTGhRN3JlS1kwY0w0QkZEQUNtTkkyOUtLZTh0S3N3VEVhRTA5RzQwaWUzZDJJNk9pUjJHbFlZeEZYVTBremRqUXdjM3o0STg0SXF5YnM5Q0Q1TEJjUEdWeWRwVEFDdkJhZDBKdlRUaWg0RFlrQ1NmaXV0MDgtTVpxV1VXdFJaTzI2cmc?oc=5)
+
+---
 
 ### [La vacunación de adultos, herramienta clave para prevenir las enfermedades cardiovasculares en Europa - Gaceta Médica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWdBakpEeWJ0aGxqZ3RkeGR0dS1tWXJwemNRd1BiLXRoWVNlYTJTdFN6Z0xWcUtabzBEYl9adjdneG5PM0FZRUFBSEUyREEwbzJDNi1JS0JSRmhjNmphaU1NWVZHOWp0bEZCVmNCdlp2Y0d0dFNWQW50UU1kME8wMW5Fei1rU2xzbC1ZVDhQVmYyWkl6WlAtUnBhc3AxVG1iUkhLWU5nUlNiLU4xOGFWbmVGckMtNldGaGlUY3J0VQ?oc=5)
 

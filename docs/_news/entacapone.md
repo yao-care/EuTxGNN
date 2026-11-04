@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Entacapone. 10 predicted indications."
 permalink: /news/entacapone/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Entacapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (7)
+
+### [Alzheimer's symptom in nose may start 'way before' memory loss - Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUFmTk5sMTRlU1JUXy1CbW1vSmI2Z3VSXzRVX1JLaTZEWEJSUTNEc0tvXzJKNHBaUzVXckJDb09IV1FUYlJ5YTdoVmF6QzZucFZtbU84eUxpUEdDRkdvOVVLMDI4OS1QN0dNVzNPWHNmQk9NbFIzZmNqVjNqRXVQdjgwR3MyVkcxVUFXadIBkgFBVV95cUxNbkZUUFVmOWpObmZ2QVA5eEtGQ0p6Vk83Y0VnNmlQdFFTS0NLSzdNMi1aTDZtWk1kWlB5LV8tRzRvWDZvaWJObFd1c0R0SGtBMVZNTmFMbm4wYlJoU212ak5aVVRlSkY1TkFDZzZCZFJDTjhPcDRIZ2ZGWEg0TTBDTktsdnE5ZkV5R0N6RTZRYlk3UQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUFmTk5sMTRlU1JUXy1CbW1vSmI2Z3VSXzRVX1JLaTZEWEJSUTNEc0tvXzJKNHBaUzVXckJDb09IV1FUYlJ5YTdoVmF6QzZucFZtbU84eUxpUEdDRkdvOVVLMDI4OS1QN0dNVzNPWHNmQk9NbFIzZmNqVjNqRXVQdjgwR3MyVkcxVUFXadIBkgFBVV95cUxNbkZUUFVmOWpObmZ2QVA5eEtGQ0p6Vk83Y0VnNmlQdFFTS0NLSzdNMi1aTDZtWk1kWlB5LV8tRzRvWDZvaWJObFd1c0R0SGtBMVZNTmFMbm4wYlJoU212ak5aVVRlSkY1TkFDZzZCZFJDTjhPcDRIZ2ZGWEg0TTBDTktsdnE5ZkV5R0N6RTZRYlk3UQ?oc=5)
+
+---
+
+### [Researchers Think Gut Supplements Could Have Anti-Dementia Benefits - HuffPost UK](https://news.google.com/rss/articles/CBMingFBVV95cUxOeFl5a1RzUkFOb2JybGw5M0xaeTdHRElMeklyMVR4bTVmR0hEb2VfWkxhemJVQVRwMGJxb20tSm1fMDgwX2hDTnA4MGh3T2xiUktsUXZCQ19ERTU1X2RfUlpTeU11bFB1MEd1Q2M3NXFYa2ppdU5abENaWFVDRW1mdnQtd3hWVGI0Z0szcWZuWF8zb2w5a0NQNEJxN3RUUQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">dementia</span>
+
+Source: [HuffPost UK](https://news.google.com/rss/articles/CBMingFBVV95cUxOeFl5a1RzUkFOb2JybGw5M0xaeTdHRElMeklyMVR4bTVmR0hEb2VfWkxhemJVQVRwMGJxb20tSm1fMDgwX2hDTnA4MGh3T2xiUktsUXZCQ19ERTU1X2RfUlpTeU11bFB1MEd1Q2M3NXFYa2ppdU5abENaWFVDRW1mdnQtd3hWVGI0Z0szcWZuWF8zb2w5a0NQNEJxN3RUUQ?oc=5)
+
+---
+
+### [Cholesterol transport protein emerges as possible target for Parkinson's treatment - Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaGVoUjhMeHlDT1NEOVVfeHFod3VPUjJrOGVfTG1QNkg0bXZLajd3R2VjUHpJVm8xWndFYmg1VjgzTWlGaC0xOHpIQ0VTVm9CNUJiQnBkT3dOZ09ub2hxU0NVWnZFRXo1a0NJa0pVTm55R1c3Wlh2dGtGdzZybF9CY0pVVTlNcWh2VGlkeDNkcjFlT0lmX3c?oc=5)
+
+2026-11-02 <span class="news-indication-tag">Parkinson's</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaGVoUjhMeHlDT1NEOVVfeHFod3VPUjJrOGVfTG1QNkg0bXZLajd3R2VjUHpJVm8xWndFYmg1VjgzTWlGaC0xOHpIQ0VTVm9CNUJiQnBkT3dOZ09ub2hxU0NVWnZFRXo1a0NJa0pVTm55R1c3Wlh2dGtGdzZybF9CY0pVVTlNcWh2VGlkeDNkcjFlT0lmX3c?oc=5)
+
+---
 
 ### [The common nut that could protect against Alzheimer’s if eaten daily - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNXBtbTc0OE1HOGJjN2k2N1FDeF9aSXBNVEdIWktHX3N1YUp3OFVzdGlUc1d2WHZvcXNyOUFkSGJwT1FPQlZnZUhhcnZjcDh3SzZ3TFdBMVc4NXBvaElPTUhpTVdqUWdjUGVPclpvQ3R5OXJoT0oyQm1leDlQSlVwWUoteTEwcmlUUlJFYjl2WHVXcGl1TC1CeGNCY1VvSkVmaGc?oc=5)
 

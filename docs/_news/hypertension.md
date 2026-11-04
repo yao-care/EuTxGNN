@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "hipertensión (hypertension) News"
+title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hipertensión (hypertension). 14 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 16 articles, 55 related drugs."
 permalink: /news/hypertension/
 last_modified_at: 2026-11-04
 ---
 
-# hipertensión (hypertension) News
+# Bluthochdruck (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about hipertensión (hypertension)?">
-<strong>hipertensión (hypertension)</strong> currently has <strong>14 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>16 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “hipertensión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -60,7 +60,23 @@ This page brings together the latest health news about “hipertensión” and l
 </ul>
 </div>
 
-## Related News (14)
+## Related News (16)
+
+### [Bluthochdruck: Schon 5 mm Hg weniger senken das Herz-Kreislauf-Risiko](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUhSLXhqQ2VGZ3FjR1NBYXVPNXl2LWI4WUZZYUV6ZURUNGhreDZLOHFkc1dZbXdyTnhNUnpHbTFqZXlaMndTVXVOd0J3SlBTbW9rRTNPYnRPNzhhaFZRc3JQYjg0R3ZYSFVPQWxhRXJ1Y21tZm9ZR2dEcXVMRHpDaWtJZDB0eEhjcmlYa0pMMWRraUlHLURNUzFOQUlyVm9kMW5SdWh2Q3dxelpMMDRPOV9LNFRnVGdl?oc=5)
+
+2026-11-04
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUhSLXhqQ2VGZ3FjR1NBYXVPNXl2LWI4WUZZYUV6ZURUNGhreDZLOHFkc1dZbXdyTnhNUnpHbTFqZXlaMndTVXVOd0J3SlBTbW9rRTNPYnRPNzhhaFZRc3JQYjg0R3ZYSFVPQWxhRXJ1Y21tZm9ZR2dEcXVMRHpDaWtJZDB0eEhjcmlYa0pMMWRraUlHLURNUzFOQUlyVm9kMW5SdWh2Q3dxelpMMDRPOV9LNFRnVGdl?oc=5)
+
+---
+
+### [Why more younger Americans are having strokes - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHF6YWQ5dFpvTkwySjItNEZHRm1xREE4NGlvYjBob2lybTZETEx1SlpXTi1VazF4MDI0WEFXLWZaRHpKZDRDXzktTVB6MEtvRUowc0UwYVVnTWtQX0dwNHJ5YlZOSHh5cUFzSHltNmhDcW5IUDlkY1V4Y05aRzJtaFo3UWdMUXRIYWR4MTFiNU16d0Zqb2IyX0VNcGlRZWc?oc=5)
+
+2026-11-03
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHF6YWQ5dFpvTkwySjItNEZHRm1xREE4NGlvYjBob2lybTZETEx1SlpXTi1VazF4MDI0WEFXLWZaRHpKZDRDXzktTVB6MEtvRUowc0UwYVVnTWtQX0dwNHJ5YlZOSHh5cUFzSHltNmhDcW5IUDlkY1V4Y05aRzJtaFo3UWdMUXRIYWR4MTFiNU16d0Zqb2IyX0VNcGlRZWc?oc=5)
+
+---
 
 ### [Exploran más allá del vínculo entre hipertensión pulmonar y deterioro cognitivo - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
 

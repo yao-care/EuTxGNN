@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Selpercatinib?">
-<strong>Selpercatinib</strong> currently has <strong>24 news articles</strong>, with 3 predicted indications.
+<strong>Selpercatinib</strong> currently has <strong>27 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,31 @@ This page combines the AI-predicted indications for Selpercatinib with the lates
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (24)
+## Related News (27)
+
+### [Bluthochdruck: Schon 5 mm Hg weniger senken das Herz-Kreislauf-Risiko](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUhSLXhqQ2VGZ3FjR1NBYXVPNXl2LWI4WUZZYUV6ZURUNGhreDZLOHFkc1dZbXdyTnhNUnpHbTFqZXlaMndTVXVOd0J3SlBTbW9rRTNPYnRPNzhhaFZRc3JQYjg0R3ZYSFVPQWxhRXJ1Y21tZm9ZR2dEcXVMRHpDaWtJZDB0eEhjcmlYa0pMMWRraUlHLURNUzFOQUlyVm9kMW5SdWh2Q3dxelpMMDRPOV9LNFRnVGdl?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUhSLXhqQ2VGZ3FjR1NBYXVPNXl2LWI4WUZZYUV6ZURUNGhreDZLOHFkc1dZbXdyTnhNUnpHbTFqZXlaMndTVXVOd0J3SlBTbW9rRTNPYnRPNzhhaFZRc3JQYjg0R3ZYSFVPQWxhRXJ1Y21tZm9ZR2dEcXVMRHpDaWtJZDB0eEhjcmlYa0pMMWRraUlHLURNUzFOQUlyVm9kMW5SdWh2Q3dxelpMMDRPOV9LNFRnVGdl?oc=5)
+
+---
+
+### [Heart failure hospitalisations surge as woman, 35, tells of shock at life-threatening diagnosis - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1BXY2dodmM1X0dROFR1OC1VbThoSHhxMDI2X04xUmFaUC1jOVotWnVjTVpFdnVweVVTM01vRXR4MmJvbWE3ZjM3QWRIZU5mSHc3VmJlQmZzX01acHNPLUpYZEw2aE5YMDVGY05MRzQwY05ZU0FNVm5UV0VUaFFMMk41cDlqZ2lr0gGOAUFVX3lxTFBJZmUxTGhRN3JlS1kwY0w0QkZEQUNtTkkyOUtLZTh0S3N3VEVhRTA5RzQwaWUzZDJJNk9pUjJHbFlZeEZYVTBremRqUXdjM3o0STg0SXF5YnM5Q0Q1TEJjUEdWeWRwVEFDdkJhZDBKdlRUaWg0RFlrQ1NmaXV0MDgtTVpxV1VXdFJaTzI2cmc?oc=5)
+
+2026-11-04 <span class="news-indication-tag">heart disease</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1BXY2dodmM1X0dROFR1OC1VbThoSHhxMDI2X04xUmFaUC1jOVotWnVjTVpFdnVweVVTM01vRXR4MmJvbWE3ZjM3QWRIZU5mSHc3VmJlQmZzX01acHNPLUpYZEw2aE5YMDVGY05MRzQwY05ZU0FNVm5UV0VUaFFMMk41cDlqZ2lr0gGOAUFVX3lxTFBJZmUxTGhRN3JlS1kwY0w0QkZEQUNtTkkyOUtLZTh0S3N3VEVhRTA5RzQwaWUzZDJJNk9pUjJHbFlZeEZYVTBremRqUXdjM3o0STg0SXF5YnM5Q0Q1TEJjUEdWeWRwVEFDdkJhZDBKdlRUaWg0RFlrQ1NmaXV0MDgtTVpxV1VXdFJaTzI2cmc?oc=5)
+
+---
+
+### [Why more younger Americans are having strokes - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHF6YWQ5dFpvTkwySjItNEZHRm1xREE4NGlvYjBob2lybTZETEx1SlpXTi1VazF4MDI0WEFXLWZaRHpKZDRDXzktTVB6MEtvRUowc0UwYVVnTWtQX0dwNHJ5YlZOSHh5cUFzSHltNmhDcW5IUDlkY1V4Y05aRzJtaFo3UWdMUXRIYWR4MTFiNU16d0Zqb2IyX0VNcGlRZWc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHF6YWQ5dFpvTkwySjItNEZHRm1xREE4NGlvYjBob2lybTZETEx1SlpXTi1VazF4MDI0WEFXLWZaRHpKZDRDXzktTVB6MEtvRUowc0UwYVVnTWtQX0dwNHJ5YlZOSHh5cUFzSHltNmhDcW5IUDlkY1V4Y05aRzJtaFo3UWdMUXRIYWR4MTFiNU16d0Zqb2IyX0VNcGlRZWc?oc=5)
+
+---
 
 ### [Exploran más allá del vínculo entre hipertensión pulmonar y deterioro cognitivo - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
 

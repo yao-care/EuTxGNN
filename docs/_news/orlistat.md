@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>43 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>50 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,55 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (43)
+## Related News (50)
+
+### [Alejo Efeyan, investigador: “El alcohol genera inflamación en el tejido hepático y favorece manifiestamente el desarrollo de tumores” - La Vanguardia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVXVTb0FjOFl2QU9aaFdMVWxKY1lFRkxoTmlCMzR4SXFKcTMyUGc4S2taaDhZNGlzSE1VS3R2T3FQd2pnTjZidFJxemo0QWhjalBJSXdwaW1vQ2JLX3BLTmlubGM3a3lFNV9aVVFuR0h5NE1zYXFtMExnY1FRLTJySGMtMXZXMmUxdGdSQURQQ3lJajRJQWdYQVp4Z1Y3aWQ0amJQQnMtM0dPaWR0WXdNSk9kN24ydE8xMi1YY2NZRzlwTEJDWUo3WXd2a1E1REJvaTdNM3lXVzRrWVNvb0FXWnlaa19pbXAzakVBUUFTY3Vyby1pZUpHYm9jeW1tb3pEdnM4MGFJclZkdFnSAZACQVVfeXFMTnV0akV0Q3YwQUQ0eTZYM0g0MU5MczdiOFZkX1Rva2dzN1lHYWxVeHhnZzhfUDlnZFotcWFzY2daRnpac1VLV0dyZmFFS1Nyb1g2VXJBT1hhMzFzZDh4VEtZZnp1b3I2VUh5dVNsdGxUeHI0ZnhIREwwdFVlRW9Od0RvLWlMTUFVcXozaVpiNjI5YkdlU2JYdWc2WGw3RzVWYTRhdDZRUEVOQkxJcU1lV3duMzhzY01RSzNnbDlkUWZFZzEtTXU3aVVSQjVEN2lwZ0VUU2lpTkZ1Q1hhXzhZY2R3ZmpNUE41RExWMk5VeVloczlSYjFhRFpMaUo2Rm1RNTU3N21RSXp5cFhuY0pIUHk?oc=5)
+
+2026-11-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVXVTb0FjOFl2QU9aaFdMVWxKY1lFRkxoTmlCMzR4SXFKcTMyUGc4S2taaDhZNGlzSE1VS3R2T3FQd2pnTjZidFJxemo0QWhjalBJSXdwaW1vQ2JLX3BLTmlubGM3a3lFNV9aVVFuR0h5NE1zYXFtMExnY1FRLTJySGMtMXZXMmUxdGdSQURQQ3lJajRJQWdYQVp4Z1Y3aWQ0amJQQnMtM0dPaWR0WXdNSk9kN24ydE8xMi1YY2NZRzlwTEJDWUo3WXd2a1E1REJvaTdNM3lXVzRrWVNvb0FXWnlaa19pbXAzakVBUUFTY3Vyby1pZUpHYm9jeW1tb3pEdnM4MGFJclZkdFnSAZACQVVfeXFMTnV0akV0Q3YwQUQ0eTZYM0g0MU5MczdiOFZkX1Rva2dzN1lHYWxVeHhnZzhfUDlnZFotcWFzY2daRnpac1VLV0dyZmFFS1Nyb1g2VXJBT1hhMzFzZDh4VEtZZnp1b3I2VUh5dVNsdGxUeHI0ZnhIREwwdFVlRW9Od0RvLWlMTUFVcXozaVpiNjI5YkdlU2JYdWc2WGw3RzVWYTRhdDZRUEVOQkxJcU1lV3duMzhzY01RSzNnbDlkUWZFZzEtTXU3aVVSQjVEN2lwZ0VUU2lpTkZ1Q1hhXzhZY2R3ZmpNUE41RExWMk5VeVloczlSYjFhRFpMaUo2Rm1RNTU3N21RSXp5cFhuY0pIUHk?oc=5)
+
+---
+
+### [Un estudio plantea una nueva estrategia que podría ayudar a prevenir los ictus en mujeres mayores - 65 y más](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzNycWM0elltMnRjTEJ3ZzMxckN4dGJfUUgzWnhJNVdLbk1TTzIwSnZyUFJlQks5aEpRNVAwYk82dHg0YjI0X3hMU3pzTFJGaE9lZHBtXzNzQl9kQmliN1lfcjlrRmVGTzNQR2x1ZS1FOUpvWmk1OTcwSkJVY3JkNTFHbGg4YU1QUm56UWE4aTg3LUtvUGVKLWQ4WFlkNWVwLWJBRVctamlQYTlxNlpYUkRvTWpJNUVyQkRDaFBIUjR5UQ?oc=5)
+
+2026-11-04 <span class="news-indication-tag">ictus</span>
+
+Source: [65 y más](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzNycWM0elltMnRjTEJ3ZzMxckN4dGJfUUgzWnhJNVdLbk1TTzIwSnZyUFJlQks5aEpRNVAwYk82dHg0YjI0X3hMU3pzTFJGaE9lZHBtXzNzQl9kQmliN1lfcjlrRmVGTzNQR2x1ZS1FOUpvWmk1OTcwSkJVY3JkNTFHbGg4YU1QUm56UWE4aTg3LUtvUGVKLWQ4WFlkNWVwLWJBRVctamlQYTlxNlpYUkRvTWpJNUVyQkRDaFBIUjR5UQ?oc=5)
+
+---
+
+### [Why more younger Americans are having strokes - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHF6YWQ5dFpvTkwySjItNEZHRm1xREE4NGlvYjBob2lybTZETEx1SlpXTi1VazF4MDI0WEFXLWZaRHpKZDRDXzktTVB6MEtvRUowc0UwYVVnTWtQX0dwNHJ5YlZOSHh5cUFzSHltNmhDcW5IUDlkY1V4Y05aRzJtaFo3UWdMUXRIYWR4MTFiNU16d0Zqb2IyX0VNcGlRZWc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHF6YWQ5dFpvTkwySjItNEZHRm1xREE4NGlvYjBob2lybTZETEx1SlpXTi1VazF4MDI0WEFXLWZaRHpKZDRDXzktTVB6MEtvRUowc0UwYVVnTWtQX0dwNHJ5YlZOSHh5cUFzSHltNmhDcW5IUDlkY1V4Y05aRzJtaFo3UWdMUXRIYWR4MTFiNU16d0Zqb2IyX0VNcGlRZWc?oc=5)
+
+---
+
+### [El Virgen del Rocío pone en marcha una nueva consulta para prevenir recaídas por ictus - Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlcybURoWHA2N2d6aEp5YUtVWkZDNE05c1NNM0UwenAtZ0FyV0RDdjF3R202MjRoLVVrTW1wOVFDQ1NzSE5IYzVWVzhKejhvWm5UN3NpNzNWNER1Yi1lSzdrMUZPakdrcE05X256Y2k2RmpFQ0puNk1JTEM3NXlpay1wRndJVGVzWkg0UTJHcDJMOEhBMUNsRTkxNmFKVDQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">ictus</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlcybURoWHA2N2d6aEp5YUtVWkZDNE05c1NNM0UwenAtZ0FyV0RDdjF3R202MjRoLVVrTW1wOVFDQ1NzSE5IYzVWVzhKejhvWm5UN3NpNzNWNER1Yi1lSzdrMUZPakdrcE05X256Y2k2RmpFQ0puNk1JTEM3NXlpay1wRndJVGVzWkg0UTJHcDJMOEhBMUNsRTkxNmFKVDQ?oc=5)
+
+---
+
+### [Wegovy : tout comprendre en dix questions sur ce médicament en vogue](https://news.google.com/rss/articles/CBMickFVX3lxTE9oZXVZMi1GUTB0akNfZE94azNDMzlNTll2YlI2anppMXE0d09HNXF1QkJ2dGdDVW5nNmRBdFp5OFd0NUdlcm5MMEdqQ0tWbFFHNmI3MnFuUWdyeEJ1Y1VvbEViTGxLYUNPUTFWQmh5a3RDZw?oc=5)
+
+2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMickFVX3lxTE9oZXVZMi1GUTB0akNfZE94azNDMzlNTll2YlI2anppMXE0d09HNXF1QkJ2dGdDVW5nNmRBdFp5OFd0NUdlcm5MMEdqQ0tWbFFHNmI3MnFuUWdyeEJ1Y1VvbEViTGxLYUNPUTFWQmh5a3RDZw?oc=5)
+
+---
+
+### [Prediabete, i farmaci per il peso proteggono anche il cuore? Il grande studio che apre nuove prospettive](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU2pTaWthRjdlMk1RTnB4WklMcEdvaXYxOUhMVVpYZ2t0cU5mS2U3dTN3Vm5LR3doRk9GTnlXelJubnVUTDBJaXkzaEVyenE0MUNtUzFyaVo3eWF5cVZGVzJsRng3ekd1WEFyMVVXUVpOMldXYVdDQ1ZQZExfRk5vTm1IbEdPWVVTa19UTmFfX0RsTWhSNHdPdHNFQVZlbC1lbk5Qd09Qa0w0WG92SVNSVDFPY2RwNjNJQUNPWlBCWHhob3pxVFd5QVp2MzFMVlQ4alVsbWxaYXFRWVgtalJMenBXZ05hVG1G?oc=5)
+
+2026-11-03 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU2pTaWthRjdlMk1RTnB4WklMcEdvaXYxOUhMVVpYZ2t0cU5mS2U3dTN3Vm5LR3doRk9GTnlXelJubnVUTDBJaXkzaEVyenE0MUNtUzFyaVo3eWF5cVZGVzJsRng3ekd1WEFyMVVXUVpOMldXYVdDQ1ZQZExfRk5vTm1IbEdPWVVTa19UTmFfX0RsTWhSNHdPdHNFQVZlbC1lbk5Qd09Qa0w0WG92SVNSVDFPY2RwNjNJQUNPWlBCWHhob3pxVFd5QVp2MzFMVlQ4alVsbWxaYXFRWVgtalJMenBXZ05hVG1G?oc=5)
+
+---
 
 ### [Mireia Illueca, neurocirujana: “Cada minuto que se pierde tras un ictus es tejido cerebral que no se recupera” - Diario AS](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLXpXV0VVck5weVdiSkVCaDEtblZ1a1EyXzRXczlENzA1Q3dxSy1EajFnRlA3SFFZVEJpbWxTckhndUF0b0thWW1Tc200QzVzbmh6YlJWTk1COXlDaVZ2a3RkektHN1lfZlVyZS1YMEJJd3Y2QjdRWHlGTVc3WUR4TC1LNXdsaGFVcmtEZ2VxVGhJWkFmNmZZZlhxVV9TY3h2cVhhcWFtbGxNU1hQcmFGMnBuZmp4b29OUy14WGt3cFhaQ0ZnU1FkVXVOeUhZWlNGNl9DZFFBdHBkRWdiSFYtOWdn0gH2AUFVX3lxTE9tUWFfSkJsSTlRVS1RMmZGY0RnamExS3F2WGtfZmF3bTY1aVZsWnQ3MXNUVkxPTTRiYUxuRGlvbXhXbUJBTzA3RkFHbXNjSFNXWDVKV0IwZlFFejdGVnpfTG5KOTBmclpYRzRndDc5NERJNzhoVERmbmR2ZjdMMjdrSnE1a19mcGQzNk9Rb3pUcy1leE9jOC1kYjQxZG5rMGRTUTNnV2thT2xHbXoxcjBSSUpiWEp6U0lYY0xpMnBLTVRuWm1SQ21WUHR4dC1OamhySjlMb1J2LVVjcHdaTnlxR1ZRODhsOHotQXpOUnBEZDBmZHJQQQ?oc=5)
 
@@ -232,6 +280,14 @@ Source: [Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbG1
 2026-10-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGlkTGJCQU9zSWMwNGJ3YVI2MDl6OERBb0dpU19XOHNLaDdUcjVOQWlCU3kxcXdLWVd2ZDZIczZ2czluMXhhMVBpV3FuRTItVGdpd2daZnlwMGdKb01rLWFBenVSNHZ1a0pXanhDTlN2cXpjNENIZkZzYzJDWHpBc00tSTBEeDlhYnRhM2hFMnhhdTd2Vmp1YkRoQ2txVHNxTl9mTW42U1F2M0F5MzZFemdrWXlWOUFONC1ZandQRUJrV3JmM1BVNVBjLTRFY0hnLVBIaEhiY2I?oc=5)
+
+---
+
+### [Mar Freijo, neuróloga: «Entre un 80 y un 90 % de los ictus se podrían evitar» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUnVGT3BqWURGdE9xTGtPOXoxQ3dkZktsYU5ET2JNSEFSZXotXzlpZkFNMWtEMG82V2pRa0N6U2RCVXdyOENEMFBZNHBVdVZsTFRXNjl3R0lUWWVvU2dmQkZWRmg3NUNLZlJEQzVKLWNWZ2psRm1pN0ZyVVQ5NmJYNEVkaUpFU1NNZGkyZnhYUlJHeWxJd1RIY19HdXI3a1lVRUFjdjM3a0hyNkV1R1RaTGpKMzVkQThUcGlhV0RhMlRkblFkY28zc0NzWDhRbzdsWFJyOGtNODAwVHFL?oc=5)
+
+2026-10-31 <span class="news-indication-tag">ictus</span>
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUnVGT3BqWURGdE9xTGtPOXoxQ3dkZktsYU5ET2JNSEFSZXotXzlpZkFNMWtEMG82V2pRa0N6U2RCVXdyOENEMFBZNHBVdVZsTFRXNjl3R0lUWWVvU2dmQkZWRmg3NUNLZlJEQzVKLWNWZ2psRm1pN0ZyVVQ5NmJYNEVkaUpFU1NNZGkyZnhYUlJHeWxJd1RIY19HdXI3a1lVRUFjdjM3a0hyNkV1R1RaTGpKMzVkQThUcGlhV0RhMlRkblFkY28zc0NzWDhRbzdsWFJyOGtNODAwVHFL?oc=5)
 
 ---
 

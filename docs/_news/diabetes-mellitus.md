@@ -3,7 +3,7 @@ layout: default
 title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 33 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 38 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 last_modified_at: 2026-11-04
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>33 news articles</strong> and 86 related drugs.
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>38 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,7 +64,31 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (33)
+## Related News (38)
+
+### [Prädiabetes: Abnehmspritzen mit 31 Prozent geringerem Diabetesrisiko verbunden](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
+
+2026-11-04
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
+
+---
+
+### [Typ-1-Diabetes: Zyklus verändert den Insulinbedarf trotz AID](https://news.google.com/rss/articles/CBMingFBVV95cUxOdTRDZkx3V1MwcDdOSmNySnRLU25XYmZDbDlmc2xJT2FVdmt5VGZsZzZKd0VqUHd1LTkzcGJfbDU0S1Nzc1BIekgxVGNRUURFR0cyTk1wV1lFNGtqQkZhMWp3T3JLZS1lbnh1Z2FMUnNCSTlacE52Q0ZxUzZrMWp0QUliR1hyMlJITFFYMmpuVDhDVGV5VHcyLU56VFBrUQ?oc=5)
+
+2026-11-04
+
+Source: [food-monitor](https://news.google.com/rss/articles/CBMingFBVV95cUxOdTRDZkx3V1MwcDdOSmNySnRLU25XYmZDbDlmc2xJT2FVdmt5VGZsZzZKd0VqUHd1LTkzcGJfbDU0S1Nzc1BIekgxVGNRUURFR0cyTk1wV1lFNGtqQkZhMWp3T3JLZS1lbnh1Z2FMUnNCSTlacE52Q0ZxUzZrMWp0QUliR1hyMlJITFFYMmpuVDhDVGV5VHcyLU56VFBrUQ?oc=5)
+
+---
+
+### [Prädiabetes: 58 Prozent weniger Typ-2-Risiko durch Bewegung und Gewichtsverlust](https://news.google.com/rss/articles/CBMixwFBVV95cUxNU21mWFRDS3FPdEtvaWJNalNXel90ZWJxZnhTM29Ic2Y4UGxzeUxvY0Z1aTFIZnQ4eHpJdGlzQTExZjU4SVBoXzF4RzhadERmQTdZUmlPck9xRURyOU9Ra2JTc0c1VVN4bmxLN3FTZTZtanlzbU00NnhvZEFEQ1p4NW42MzZLaDdySUNZaWxaMGhKaGhwa01Lb3dtR0hRaV9CblFWak5tOVd0RmdjQ3RkSjFYd3F5cGs4Wko0LUlMZ3dfeW5OZnI0?oc=5)
+
+2026-11-04
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNU21mWFRDS3FPdEtvaWJNalNXel90ZWJxZnhTM29Ic2Y4UGxzeUxvY0Z1aTFIZnQ4eHpJdGlzQTExZjU4SVBoXzF4RzhadERmQTdZUmlPck9xRURyOU9Ra2JTc0c1VVN4bmxLN3FTZTZtanlzbU00NnhvZEFEQ1p4NW42MzZLaDdySUNZaWxaMGhKaGhwa01Lb3dtR0hRaV9CblFWak5tOVd0RmdjQ3RkSjFYd3F5cGs4Wko0LUlMZ3dfeW5OZnI0?oc=5)
+
+---
 
 ### [El horario de sueño puede ser un objetivo revelador en la prevención de la diabetes - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdy1pTjZ2WlZabldqU3drdF8zZlJ4YnI4WjZqSm5xd1MzdlNjXzd1OEpzdFp6NFBEdjVKcnVTbDFGTFZ6ZjRHdHhCRW5rSmxIVTdzMjhyYjZfLUpaWHI1NHFuSWN2X3RaYWNwUGxQS21KaHo2ektCV0pTX3VXb0Y4aDZoalp5Sm1GaTZKTW1wbExxT3gyRk83RE5BelBEOTNiRDRpaHhUZDRIUy01Q1drV0VfUFVkZDR4aFBLbE85U3DSAbsBQVVfeXFMTWFnT2RSUnhFTDVGamdHOEk5WFE5MEU2NzRZTXc4dEdSZTVuMkpzQkVmRThqU0RtZG1RRTVJdEYyTGltY1RQcmtadzZXTHN6dkYxYUdRM2FCeWc1aE5nYV9hbEg2dnRMZkY5emZlLWhGVDRSQW9EYXpnLVU0Ry01Tl9KLU5ySU9HMHNvbl9BVjNHdkJaQzdYOE8yYVJTd1BuelZyMDBabE14OFhlckNlbW1lcDIydXFnVDhtYw?oc=5)
 
@@ -106,6 +130,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXQ0
 
 ---
 
+### [Prediabete, i farmaci per il peso proteggono anche il cuore? Il grande studio che apre nuove prospettive](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU2pTaWthRjdlMk1RTnB4WklMcEdvaXYxOUhMVVpYZ2t0cU5mS2U3dTN3Vm5LR3doRk9GTnlXelJubnVUTDBJaXkzaEVyenE0MUNtUzFyaVo3eWF5cVZGVzJsRng3ekd1WEFyMVVXUVpOMldXYVdDQ1ZQZExfRk5vTm1IbEdPWVVTa19UTmFfX0RsTWhSNHdPdHNFQVZlbC1lbk5Qd09Qa0w0WG92SVNSVDFPY2RwNjNJQUNPWlBCWHhob3pxVFd5QVp2MzFMVlQ4alVsbWxaYXFRWVgtalJMenBXZ05hVG1G?oc=5)
+
+2026-11-03
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU2pTaWthRjdlMk1RTnB4WklMcEdvaXYxOUhMVVpYZ2t0cU5mS2U3dTN3Vm5LR3doRk9GTnlXelJubnVUTDBJaXkzaEVyenE0MUNtUzFyaVo3eWF5cVZGVzJsRng3ekd1WEFyMVVXUVpOMldXYVdDQ1ZQZExfRk5vTm1IbEdPWVVTa19UTmFfX0RsTWhSNHdPdHNFQVZlbC1lbk5Qd09Qa0w0WG92SVNSVDFPY2RwNjNJQUNPWlBCWHhob3pxVFd5QVp2MzFMVlQ4alVsbWxaYXFRWVgtalJMenBXZ05hVG1G?oc=5)
+
+---
+
 ### [Acostarse más temprano se asocia con la reducción de peso en personas con prediabetes](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX0dGRUVXQlg4bGNKZFlfMkNiUm5fQ3NhTXRCWDhrX2hjWWotdFVNVnk5OWtvVnI0VGFYZ1paRnpXWnFJaW9HS2Q2TXZ5eENIOExNTjdqMFZMeEQtTXVYZlQwcUNqRWkxZlZqSmFoSGNoQnphVEVTRVFSSklWN1o4c2ZrREVReEIxM2dmRmEySm5BZFNXNzcyM2hodTdyNXJyQVF2NUJEVzNDdC00akRxQmo0bzk5c0FWTVdCemg4T3YxMUhpaWY4emE5ZzJ4Qm5Vb2JvNQ?oc=5)
 
 2026-11-03
@@ -119,6 +151,14 @@ Source: [ConSalud](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX0dGRUVX
 2026-11-03
 
 Source: [Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMiigJBVV95cUxPUm54aENlYmVYbGhYWDRRSG1tWnA0eWxGc296MmlONWZjalAydDY5ZUhla0JTUjc4MndtemVSTm9wZENaRmt6d2R6MG44OU10UWIzR1RiVmlCSGdMZ0RpaXg2c1RIbWVtQUtUOC1SNVRYcUhXVG9xb05vWGlzZWRzOEdFd3ZMU1dMX1ZGQ0RRNW1IREhQdUo5MTNLYzAzWWdJc1hmSTVJYy1QbExxMzZFR3ZjWUk4ZjRoNm9mbzd2dlFhaEdMMGFfREdCamdyTU4yZ2pxSEVrWmJCR3FITUlEZHY0WjlFWU1tYXhJOTQtMXhlTU5KUDZCZVNYdGtURDBoREI1a1ViVUpFQQ?oc=5)
+
+---
+
+### [hkk-Gesundheitsreport: Neue Diabetesmedikamente auf dem Vormarsch - Versorgungspotenziale bleiben](https://news.google.com/rss/articles/CBMiV0FVX3lxTE04bS1pNEo3cjBRTDFWWk1DZG5JZlNybFFXcVZJRV9xMWk1b1BLLXRHZjVXLXJsdFNnUTdrVno3TmlIakRPcFVsN3h1VUp3MUw3RGhoeFFscw?oc=5)
+
+2026-11-03
+
+Source: [Presseportal](https://news.google.com/rss/articles/CBMiV0FVX3lxTE04bS1pNEo3cjBRTDFWWk1DZG5JZlNybFFXcVZJRV9xMWk1b1BLLXRHZjVXLXJsdFNnUTdrVno3TmlIakRPcFVsN3h1VUp3MUw3RGhoeFFscw?oc=5)
 
 ---
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "obésité (obesity) News"
+title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obésité (obesity). 11 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 14 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-11-04
 ---
 
-# obésité (obesity) News
+# obesidad (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about obésité (obesity)?">
-<strong>obésité (obesity)</strong> currently has <strong>11 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obesidad (obesity)?">
+<strong>obesidad (obesity)</strong> currently has <strong>14 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “obésité” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obesidad” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -34,7 +34,31 @@ This page brings together the latest health news about “obésité” and lists
 </ul>
 </div>
 
-## Related News (11)
+## Related News (14)
+
+### [Alejo Efeyan, investigador: “El alcohol genera inflamación en el tejido hepático y favorece manifiestamente el desarrollo de tumores” - La Vanguardia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVXVTb0FjOFl2QU9aaFdMVWxKY1lFRkxoTmlCMzR4SXFKcTMyUGc4S2taaDhZNGlzSE1VS3R2T3FQd2pnTjZidFJxemo0QWhjalBJSXdwaW1vQ2JLX3BLTmlubGM3a3lFNV9aVVFuR0h5NE1zYXFtMExnY1FRLTJySGMtMXZXMmUxdGdSQURQQ3lJajRJQWdYQVp4Z1Y3aWQ0amJQQnMtM0dPaWR0WXdNSk9kN24ydE8xMi1YY2NZRzlwTEJDWUo3WXd2a1E1REJvaTdNM3lXVzRrWVNvb0FXWnlaa19pbXAzakVBUUFTY3Vyby1pZUpHYm9jeW1tb3pEdnM4MGFJclZkdFnSAZACQVVfeXFMTnV0akV0Q3YwQUQ0eTZYM0g0MU5MczdiOFZkX1Rva2dzN1lHYWxVeHhnZzhfUDlnZFotcWFzY2daRnpac1VLV0dyZmFFS1Nyb1g2VXJBT1hhMzFzZDh4VEtZZnp1b3I2VUh5dVNsdGxUeHI0ZnhIREwwdFVlRW9Od0RvLWlMTUFVcXozaVpiNjI5YkdlU2JYdWc2WGw3RzVWYTRhdDZRUEVOQkxJcU1lV3duMzhzY01RSzNnbDlkUWZFZzEtTXU3aVVSQjVEN2lwZ0VUU2lpTkZ1Q1hhXzhZY2R3ZmpNUE41RExWMk5VeVloczlSYjFhRFpMaUo2Rm1RNTU3N21RSXp5cFhuY0pIUHk?oc=5)
+
+2026-11-04
+
+Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVXVTb0FjOFl2QU9aaFdMVWxKY1lFRkxoTmlCMzR4SXFKcTMyUGc4S2taaDhZNGlzSE1VS3R2T3FQd2pnTjZidFJxemo0QWhjalBJSXdwaW1vQ2JLX3BLTmlubGM3a3lFNV9aVVFuR0h5NE1zYXFtMExnY1FRLTJySGMtMXZXMmUxdGdSQURQQ3lJajRJQWdYQVp4Z1Y3aWQ0amJQQnMtM0dPaWR0WXdNSk9kN24ydE8xMi1YY2NZRzlwTEJDWUo3WXd2a1E1REJvaTdNM3lXVzRrWVNvb0FXWnlaa19pbXAzakVBUUFTY3Vyby1pZUpHYm9jeW1tb3pEdnM4MGFJclZkdFnSAZACQVVfeXFMTnV0akV0Q3YwQUQ0eTZYM0g0MU5MczdiOFZkX1Rva2dzN1lHYWxVeHhnZzhfUDlnZFotcWFzY2daRnpac1VLV0dyZmFFS1Nyb1g2VXJBT1hhMzFzZDh4VEtZZnp1b3I2VUh5dVNsdGxUeHI0ZnhIREwwdFVlRW9Od0RvLWlMTUFVcXozaVpiNjI5YkdlU2JYdWc2WGw3RzVWYTRhdDZRUEVOQkxJcU1lV3duMzhzY01RSzNnbDlkUWZFZzEtTXU3aVVSQjVEN2lwZ0VUU2lpTkZ1Q1hhXzhZY2R3ZmpNUE41RExWMk5VeVloczlSYjFhRFpMaUo2Rm1RNTU3N21RSXp5cFhuY0pIUHk?oc=5)
+
+---
+
+### [Wegovy : tout comprendre en dix questions sur ce médicament en vogue](https://news.google.com/rss/articles/CBMickFVX3lxTE9oZXVZMi1GUTB0akNfZE94azNDMzlNTll2YlI2anppMXE0d09HNXF1QkJ2dGdDVW5nNmRBdFp5OFd0NUdlcm5MMEdqQ0tWbFFHNmI3MnFuUWdyeEJ1Y1VvbEViTGxLYUNPUTFWQmh5a3RDZw?oc=5)
+
+2026-11-03
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMickFVX3lxTE9oZXVZMi1GUTB0akNfZE94azNDMzlNTll2YlI2anppMXE0d09HNXF1QkJ2dGdDVW5nNmRBdFp5OFd0NUdlcm5MMEdqQ0tWbFFHNmI3MnFuUWdyeEJ1Y1VvbEViTGxLYUNPUTFWQmh5a3RDZw?oc=5)
+
+---
+
+### [Prediabete, i farmaci per il peso proteggono anche il cuore? Il grande studio che apre nuove prospettive](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU2pTaWthRjdlMk1RTnB4WklMcEdvaXYxOUhMVVpYZ2t0cU5mS2U3dTN3Vm5LR3doRk9GTnlXelJubnVUTDBJaXkzaEVyenE0MUNtUzFyaVo3eWF5cVZGVzJsRng3ekd1WEFyMVVXUVpOMldXYVdDQ1ZQZExfRk5vTm1IbEdPWVVTa19UTmFfX0RsTWhSNHdPdHNFQVZlbC1lbk5Qd09Qa0w0WG92SVNSVDFPY2RwNjNJQUNPWlBCWHhob3pxVFd5QVp2MzFMVlQ4alVsbWxaYXFRWVgtalJMenBXZ05hVG1G?oc=5)
+
+2026-11-03
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU2pTaWthRjdlMk1RTnB4WklMcEdvaXYxOUhMVVpYZ2t0cU5mS2U3dTN3Vm5LR3doRk9GTnlXelJubnVUTDBJaXkzaEVyenE0MUNtUzFyaVo3eWF5cVZGVzJsRng3ekd1WEFyMVVXUVpOMldXYVdDQ1ZQZExfRk5vTm1IbEdPWVVTa19UTmFfX0RsTWhSNHdPdHNFQVZlbC1lbk5Qd09Qa0w0WG92SVNSVDFPY2RwNjNJQUNPWlBCWHhob3pxVFd5QVp2MzFMVlQ4alVsbWxaYXFRWVgtalJMenBXZ05hVG1G?oc=5)
+
+---
 
 ### [Coupe-faim : le marché explose, les effets indésirables aussi - Les Echos](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGtXcnZhaW5NYlNjX042VUxtRDVxRkI3cDZmNzlHOWE5Snk0d3BmVmxzZmMtX1gtR1o2aHdZcEhLWmdSU1VtcnJfU2RpazNFcVlNYkgwTllTMXJ0NUNTS1dVNm8ycG5IQnZOSzBfclQzMjhZVzZPVXppTTA4aGg0X2wtaGtVaG9EMFBPMThxb3N4V0UzYXlwOElYRFlIZXVLSWxESzROMA?oc=5)
 

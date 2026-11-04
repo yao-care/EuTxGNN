@@ -3,7 +3,7 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 32 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 36 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-04
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>32 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>36 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,31 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (32)
+## Related News (36)
+
+### [Un estudio plantea una nueva estrategia que podría ayudar a prevenir los ictus en mujeres mayores - 65 y más](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzNycWM0elltMnRjTEJ3ZzMxckN4dGJfUUgzWnhJNVdLbk1TTzIwSnZyUFJlQks5aEpRNVAwYk82dHg0YjI0X3hMU3pzTFJGaE9lZHBtXzNzQl9kQmliN1lfcjlrRmVGTzNQR2x1ZS1FOUpvWmk1OTcwSkJVY3JkNTFHbGg4YU1QUm56UWE4aTg3LUtvUGVKLWQ4WFlkNWVwLWJBRVctamlQYTlxNlpYUkRvTWpJNUVyQkRDaFBIUjR5UQ?oc=5)
+
+2026-11-04
+
+Source: [65 y más](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzNycWM0elltMnRjTEJ3ZzMxckN4dGJfUUgzWnhJNVdLbk1TTzIwSnZyUFJlQks5aEpRNVAwYk82dHg0YjI0X3hMU3pzTFJGaE9lZHBtXzNzQl9kQmliN1lfcjlrRmVGTzNQR2x1ZS1FOUpvWmk1OTcwSkJVY3JkNTFHbGg4YU1QUm56UWE4aTg3LUtvUGVKLWQ4WFlkNWVwLWJBRVctamlQYTlxNlpYUkRvTWpJNUVyQkRDaFBIUjR5UQ?oc=5)
+
+---
+
+### [Why more younger Americans are having strokes - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHF6YWQ5dFpvTkwySjItNEZHRm1xREE4NGlvYjBob2lybTZETEx1SlpXTi1VazF4MDI0WEFXLWZaRHpKZDRDXzktTVB6MEtvRUowc0UwYVVnTWtQX0dwNHJ5YlZOSHh5cUFzSHltNmhDcW5IUDlkY1V4Y05aRzJtaFo3UWdMUXRIYWR4MTFiNU16d0Zqb2IyX0VNcGlRZWc?oc=5)
+
+2026-11-03
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHF6YWQ5dFpvTkwySjItNEZHRm1xREE4NGlvYjBob2lybTZETEx1SlpXTi1VazF4MDI0WEFXLWZaRHpKZDRDXzktTVB6MEtvRUowc0UwYVVnTWtQX0dwNHJ5YlZOSHh5cUFzSHltNmhDcW5IUDlkY1V4Y05aRzJtaFo3UWdMUXRIYWR4MTFiNU16d0Zqb2IyX0VNcGlRZWc?oc=5)
+
+---
+
+### [El Virgen del Rocío pone en marcha una nueva consulta para prevenir recaídas por ictus - Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlcybURoWHA2N2d6aEp5YUtVWkZDNE05c1NNM0UwenAtZ0FyV0RDdjF3R202MjRoLVVrTW1wOVFDQ1NzSE5IYzVWVzhKejhvWm5UN3NpNzNWNER1Yi1lSzdrMUZPakdrcE05X256Y2k2RmpFQ0puNk1JTEM3NXlpay1wRndJVGVzWkg0UTJHcDJMOEhBMUNsRTkxNmFKVDQ?oc=5)
+
+2026-11-03
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlcybURoWHA2N2d6aEp5YUtVWkZDNE05c1NNM0UwenAtZ0FyV0RDdjF3R202MjRoLVVrTW1wOVFDQ1NzSE5IYzVWVzhKejhvWm5UN3NpNzNWNER1Yi1lSzdrMUZPakdrcE05X256Y2k2RmpFQ0puNk1JTEM3NXlpay1wRndJVGVzWkg0UTJHcDJMOEhBMUNsRTkxNmFKVDQ?oc=5)
+
+---
 
 ### [Mireia Illueca, neurocirujana: “Cada minuto que se pierde tras un ictus es tejido cerebral que no se recupera” - Diario AS](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLXpXV0VVck5weVdiSkVCaDEtblZ1a1EyXzRXczlENzA1Q3dxSy1EajFnRlA3SFFZVEJpbWxTckhndUF0b0thWW1Tc200QzVzbmh6YlJWTk1COXlDaVZ2a3RkektHN1lfZlVyZS1YMEJJd3Y2QjdRWHlGTVc3WUR4TC1LNXdsaGFVcmtEZ2VxVGhJWkFmNmZZZlhxVV9TY3h2cVhhcWFtbGxNU1hQcmFGMnBuZmp4b29OUy14WGt3cFhaQ0ZnU1FkVXVOeUhZWlNGNl9DZFFBdHBkRWdiSFYtOWdn0gH2AUFVX3lxTE9tUWFfSkJsSTlRVS1RMmZGY0RnamExS3F2WGtfZmF3bTY1aVZsWnQ3MXNUVkxPTTRiYUxuRGlvbXhXbUJBTzA3RkFHbXNjSFNXWDVKV0IwZlFFejdGVnpfTG5KOTBmclpYRzRndDc5NERJNzhoVERmbmR2ZjdMMjdrSnE1a19mcGQzNk9Rb3pUcy1leE9jOC1kYjQxZG5rMGRTUTNnV2thT2xHbXoxcjBSSUpiWEp6U0lYY0xpMnBLTVRuWm1SQ21WUHR4dC1OamhySjlMb1J2LVVjcHdaTnlxR1ZRODhsOHotQXpOUnBEZDBmZHJQQQ?oc=5)
 
@@ -170,6 +194,14 @@ Source: [Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbG1
 2026-10-31
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGlkTGJCQU9zSWMwNGJ3YVI2MDl6OERBb0dpU19XOHNLaDdUcjVOQWlCU3kxcXdLWVd2ZDZIczZ2czluMXhhMVBpV3FuRTItVGdpd2daZnlwMGdKb01rLWFBenVSNHZ1a0pXanhDTlN2cXpjNENIZkZzYzJDWHpBc00tSTBEeDlhYnRhM2hFMnhhdTd2Vmp1YkRoQ2txVHNxTl9mTW42U1F2M0F5MzZFemdrWXlWOUFONC1ZandQRUJrV3JmM1BVNVBjLTRFY0hnLVBIaEhiY2I?oc=5)
+
+---
+
+### [Mar Freijo, neuróloga: «Entre un 80 y un 90 % de los ictus se podrían evitar» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUnVGT3BqWURGdE9xTGtPOXoxQ3dkZktsYU5ET2JNSEFSZXotXzlpZkFNMWtEMG82V2pRa0N6U2RCVXdyOENEMFBZNHBVdVZsTFRXNjl3R0lUWWVvU2dmQkZWRmg3NUNLZlJEQzVKLWNWZ2psRm1pN0ZyVVQ5NmJYNEVkaUpFU1NNZGkyZnhYUlJHeWxJd1RIY19HdXI3a1lVRUFjdjM3a0hyNkV1R1RaTGpKMzVkQThUcGlhV0RhMlRkblFkY28zc0NzWDhRbzdsWFJyOGtNODAwVHFL?oc=5)
+
+2026-10-31
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUnVGT3BqWURGdE9xTGtPOXoxQ3dkZktsYU5ET2JNSEFSZXotXzlpZkFNMWtEMG82V2pRa0N6U2RCVXdyOENEMFBZNHBVdVZsTFRXNjl3R0lUWWVvU2dmQkZWRmg3NUNLZlJEQzVKLWNWZ2psRm1pN0ZyVVQ5NmJYNEVkaUpFU1NNZGkyZnhYUlJHeWxJd1RIY19HdXI3a1lVRUFjdjM3a0hyNkV1R1RaTGpKMzVkQThUcGlhV0RhMlRkblFkY28zc0NzWDhRbzdsWFJyOGtNODAwVHFL?oc=5)
 
 ---
 

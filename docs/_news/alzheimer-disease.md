@@ -3,9 +3,9 @@ layout: default
 title: "Alzheimer's (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Alzheimer's (alzheimer disease). 3 articles, 16 related drugs."
+description: "Health news about Alzheimer's (alzheimer disease). 5 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Alzheimer's (alzheimer disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
-<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>3 news articles</strong> and 16 related drugs.
+<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>5 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,23 @@ This page brings together the latest health news about “Alzheimer's” and lis
 </ul>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [Alzheimer's symptom in nose may start 'way before' memory loss - Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUFmTk5sMTRlU1JUXy1CbW1vSmI2Z3VSXzRVX1JLaTZEWEJSUTNEc0tvXzJKNHBaUzVXckJDb09IV1FUYlJ5YTdoVmF6QzZucFZtbU84eUxpUEdDRkdvOVVLMDI4OS1QN0dNVzNPWHNmQk9NbFIzZmNqVjNqRXVQdjgwR3MyVkcxVUFXadIBkgFBVV95cUxNbkZUUFVmOWpObmZ2QVA5eEtGQ0p6Vk83Y0VnNmlQdFFTS0NLSzdNMi1aTDZtWk1kWlB5LV8tRzRvWDZvaWJObFd1c0R0SGtBMVZNTmFMbm4wYlJoU212ak5aVVRlSkY1TkFDZzZCZFJDTjhPcDRIZ2ZGWEg0TTBDTktsdnE5ZkV5R0N6RTZRYlk3UQ?oc=5)
+
+2026-11-03
+
+Source: [Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUFmTk5sMTRlU1JUXy1CbW1vSmI2Z3VSXzRVX1JLaTZEWEJSUTNEc0tvXzJKNHBaUzVXckJDb09IV1FUYlJ5YTdoVmF6QzZucFZtbU84eUxpUEdDRkdvOVVLMDI4OS1QN0dNVzNPWHNmQk9NbFIzZmNqVjNqRXVQdjgwR3MyVkcxVUFXadIBkgFBVV95cUxNbkZUUFVmOWpObmZ2QVA5eEtGQ0p6Vk83Y0VnNmlQdFFTS0NLSzdNMi1aTDZtWk1kWlB5LV8tRzRvWDZvaWJObFd1c0R0SGtBMVZNTmFMbm4wYlJoU212ak5aVVRlSkY1TkFDZzZCZFJDTjhPcDRIZ2ZGWEg0TTBDTktsdnE5ZkV5R0N6RTZRYlk3UQ?oc=5)
+
+---
+
+### [Researchers Think Gut Supplements Could Have Anti-Dementia Benefits - HuffPost UK](https://news.google.com/rss/articles/CBMingFBVV95cUxOeFl5a1RzUkFOb2JybGw5M0xaeTdHRElMeklyMVR4bTVmR0hEb2VfWkxhemJVQVRwMGJxb20tSm1fMDgwX2hDTnA4MGh3T2xiUktsUXZCQ19ERTU1X2RfUlpTeU11bFB1MEd1Q2M3NXFYa2ppdU5abENaWFVDRW1mdnQtd3hWVGI0Z0szcWZuWF8zb2w5a0NQNEJxN3RUUQ?oc=5)
+
+2026-11-03
+
+Source: [HuffPost UK](https://news.google.com/rss/articles/CBMingFBVV95cUxOeFl5a1RzUkFOb2JybGw5M0xaeTdHRElMeklyMVR4bTVmR0hEb2VfWkxhemJVQVRwMGJxb20tSm1fMDgwX2hDTnA4MGh3T2xiUktsUXZCQ19ERTU1X2RfUlpTeU11bFB1MEd1Q2M3NXFYa2ppdU5abENaWFVDRW1mdnQtd3hWVGI0Z0szcWZuWF8zb2w5a0NQNEJxN3RUUQ?oc=5)
+
+---
 
 ### [The common nut that could protect against Alzheimer’s if eaten daily - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNXBtbTc0OE1HOGJjN2k2N1FDeF9aSXBNVEdIWktHX3N1YUp3OFVzdGlUc1d2WHZvcXNyOUFkSGJwT1FPQlZnZUhhcnZjcDh3SzZ3TFdBMVc4NXBvaElPTUhpTVdqUWdjUGVPclpvQ3R5OXJoT0oyQm1leDlQSlVwWUoteTEwcmlUUlJFYjl2WHVXcGl1TC1CeGNCY1VvSkVmaGc?oc=5)
 
