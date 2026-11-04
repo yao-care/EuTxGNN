@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Loxapine. 9 predicted indications."
 permalink: /news/loxapine/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Loxapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Loxapine?">
-<strong>Loxapine</strong> currently has <strong>6 news articles</strong>, with 9 predicted indications.
+<strong>Loxapine</strong> currently has <strong>7 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Loxapine with the latest hea
 <p><a href="{{ '/drugs/loxapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [El seguimiento de los niveles de neurofilamento puede ayudar a detectar actividad de la esclerosis múltiple que no se ve en las pruebas convencionales - Gaceta Médica](https://news.google.com/rss/articles/CBMirAFBVV95cUxPejI3MVZHZG1PUUpnSFJwb0RaaXRDQksxalN2VU1xNHhsWWp5eXNrS28wMHlVeDZQbHhBZ0sxY1doRnRUQ0EzenRQckdzclBQa2k5a3U3LUlwdkc0WFJMTVRuVmFRWTVncUIzeE43MldYcXlLOUk0d3hhSzdYNHRKT0Y2cmIwQkZ1UmNrb2hrZHJpQXBxdnVlSFZkNldnbGM1bXAtNjZvcXlEZlRC?oc=5)
+
+2026-11-04 <span class="news-indication-tag">esclerosis múltiple</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMirAFBVV95cUxPejI3MVZHZG1PUUpnSFJwb0RaaXRDQksxalN2VU1xNHhsWWp5eXNrS28wMHlVeDZQbHhBZ0sxY1doRnRUQ0EzenRQckdzclBQa2k5a3U3LUlwdkc0WFJMTVRuVmFRWTVncUIzeE43MldYcXlLOUk0d3hhSzdYNHRKT0Y2cmIwQkZ1UmNrb2hrZHJpQXBxdnVlSFZkNldnbGM1bXAtNjZvcXlEZlRC?oc=5)
+
+---
 
 ### [Smartwatch-Warnungen: Über 90 Prozent Genauigkeit ersetzen keine Diagnose](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEVuN2ozR3hiUlFpTkVjMmRwanQxSk5iNGp4V2NQU2gyN2N5UTViejVsV3BTZkkzeWlObU9PcVlfeXZJUTVyQS0tanFoUFZmclhEdmZpQnlhUmhnX0dJVXZfX1hMVE9hbW5qaHlTZlpPVDJqbjJ5eE9HYVY3dTVDamJDalprUy14TEtnNllTcTQxWklYaGJYLVY0eFptOGRycjg2Z2FrblNHYjBwQnFlMlppSGlmTUlZMzhoQl9ZZw?oc=5)
 

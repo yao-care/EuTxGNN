@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>50 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>59 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,55 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (50)
+## Related News (59)
+
+### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
+
+---
+
+### [Trévenans. Journée de dépistage de l’hypertension artérielle : « Un tiers des patients ne savent pas qu’ils en ont » - L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3FpQmMzSnBlQlBRZHJ6d1FmcnhfWU9fU1NKcnBUcDA3ampUZTItMGVZMjA0NHdaUmdwQTRuYmdfVFJlSnFzT0J4SVV0cHVfSGliT2pjSGhhdXV3eU0wc08wNkkyMjBUZ1NOY29xS1NlNEZLYm1rQm9UZ1RCNl9hSFprX1FFUDBFdnJXMTZVY0liM04tRXVGODJYenVHLTZ3am1KY2dKRFlETVpJaXpTMmNEYlpOSm82UWpfN01CTnd2QVNsbjV2NEdZTDJ5MFE1akFENjRoYW92M2JXRmI4?oc=5)
+
+2026-11-04 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+Source: [L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3FpQmMzSnBlQlBRZHJ6d1FmcnhfWU9fU1NKcnBUcDA3ampUZTItMGVZMjA0NHdaUmdwQTRuYmdfVFJlSnFzT0J4SVV0cHVfSGliT2pjSGhhdXV3eU0wc08wNkkyMjBUZ1NOY29xS1NlNEZLYm1rQm9UZ1RCNl9hSFprX1FFUDBFdnJXMTZVY0liM04tRXVGODJYenVHLTZ3am1KY2dKRFlETVpJaXpTMmNEYlpOSm82UWpfN01CTnd2QVNsbjV2NEdZTDJ5MFE1akFENjRoYW92M2JXRmI4?oc=5)
+
+---
+
+### [Un Café con Ciencia acerca los avances en rehabilitación neurológica tras sufrir un ictus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR2hMV29SeHdZVjZnbkRBVEF0aVZIQklKOHVDOFBFazBwckVpZnZKcmNYdGJqMGtrMXBvMHRsWGhXYmxQOURjT2xXYjVOZTNGMlk2MnI0X3hDcHBIX1JZVl9RVkt2WjlGT0E3d2lscjUxNzhaT0xyaFlVMk9KVGxNejU5emJ3VXM1OFd5SFdFRTFVQzBxQWNPMHRzY1hZOHlzYTFfMmdkUXE3OFVsd19paTRtMV8ybGROLUtnTFRNOVR0Rjk0VmF0bVJsZVdVYnRyR0p6WHBubXJoVzBkYTJ3T1V1NG1ObExCbUN5aUFQeW5YcGlu?oc=5)
+
+2026-11-04 <span class="news-indication-tag">ictus</span>
+
+Source: [iDescubre](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR2hMV29SeHdZVjZnbkRBVEF0aVZIQklKOHVDOFBFazBwckVpZnZKcmNYdGJqMGtrMXBvMHRsWGhXYmxQOURjT2xXYjVOZTNGMlk2MnI0X3hDcHBIX1JZVl9RVkt2WjlGT0E3d2lscjUxNzhaT0xyaFlVMk9KVGxNejU5emJ3VXM1OFd5SFdFRTFVQzBxQWNPMHRzY1hZOHlzYTFfMmdkUXE3OFVsd19paTRtMV8ybGROLUtnTFRNOVR0Rjk0VmF0bVJsZVdVYnRyR0p6WHBubXJoVzBkYTJ3T1V1NG1ObExCbUN5aUFQeW5YcGlu?oc=5)
+
+---
+
+### [Healthier salt could prevent millions of deaths from heart disease and stroke, study finds](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
+
+2026-11-04 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
+
+---
+
+### [Cannabis e rischio ictus: lo studio che preoccupa i medici](https://news.google.com/rss/articles/CBMiigFBVV95cUxOa19oZXEzVEVfQjI5M3hUUjVqQmxfSGpVZXIzWHlfbFlFQ0lfbEdyY3J4UzlGSVN6RkU4RGNXMnktYTNPaktNTW5FVGxkYWRNWU9ZQnNtNmFtVFByYTRMUnZCUW03UXRiMmI3ZXVBcXl1QXZJZ2FRNEQwYU9FbXgxVVJfQkN6NFFkd3fSAY8BQVVfeXFMTlJFUE5jclB6dXVUc0NaSlVScEJNcTBWbjNreHVwalVKWFdOVVBmX0MzZDJyTUd2LXZzdkYwTGZaWXJrUzc1QkNnb2ZabW5pclFiRVc3cHBYaTZQZmZxZGpMeDRuOTBxbGpoYjQzOW1WdzFQbjZZbzZpczFSZ002aUhfdURVX094YS1HN1Y0Nzg?oc=5)
+
+2026-11-04 <span class="news-indication-tag">ictus</span>
+
+Source: [AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxOa19oZXEzVEVfQjI5M3hUUjVqQmxfSGpVZXIzWHlfbFlFQ0lfbEdyY3J4UzlGSVN6RkU4RGNXMnktYTNPaktNTW5FVGxkYWRNWU9ZQnNtNmFtVFByYTRMUnZCUW03UXRiMmI3ZXVBcXl1QXZJZ2FRNEQwYU9FbXgxVVJfQkN6NFFkd3fSAY8BQVVfeXFMTlJFUE5jclB6dXVUc0NaSlVScEJNcTBWbjNreHVwalVKWFdOVVBmX0MzZDJyTUd2LXZzdkYwTGZaWXJrUzc1QkNnb2ZabW5pclFiRVc3cHBYaTZQZmZxZGpMeDRuOTBxbGpoYjQzOW1WdzFQbjZZbzZpczFSZ002aUhfdURVX094YS1HN1Y0Nzg?oc=5)
+
+---
+
+### [Più cibi ultraprocessati, più polipi del colon: lo studio sulle donne](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGNqeENFVXhmNXRNNGZRVjBGYWVQeEdncjB2VnVrNjNHc0VqNTJwUXlRN1AwdXdNVHlxQUI2UXl6a2VfLXRSYWI5bktuQjQ1a0tBV3JfbktRRksySzRJSWh6ZlFVaGlwMjh5MGxENjd1clp4ekl5VC1obFZLMWctZm05MFBpOVYzVnQ2OUkxS0lQYV9lUkUzeG1aSXUyZkZZX01adTZJNm9KR0ExZFg4VzNCZ1Y1dXpzV0E?oc=5)
+
+2026-11-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGNqeENFVXhmNXRNNGZRVjBGYWVQeEdncjB2VnVrNjNHc0VqNTJwUXlRN1AwdXdNVHlxQUI2UXl6a2VfLXRSYWI5bktuQjQ1a0tBV3JfbktRRksySzRJSWh6ZlFVaGlwMjh5MGxENjd1clp4ekl5VC1obFZLMWctZm05MFBpOVYzVnQ2OUkxS0lQYV9lUkUzeG1aSXUyZkZZX01adTZJNm9KR0ExZFg4VzNCZ1Y1dXpzV0E?oc=5)
+
+---
 
 ### [Alejo Efeyan, investigador: “El alcohol genera inflamación en el tejido hepático y favorece manifiestamente el desarrollo de tumores” - La Vanguardia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVXVTb0FjOFl2QU9aaFdMVWxKY1lFRkxoTmlCMzR4SXFKcTMyUGc4S2taaDhZNGlzSE1VS3R2T3FQd2pnTjZidFJxemo0QWhjalBJSXdwaW1vQ2JLX3BLTmlubGM3a3lFNV9aVVFuR0h5NE1zYXFtMExnY1FRLTJySGMtMXZXMmUxdGdSQURQQ3lJajRJQWdYQVp4Z1Y3aWQ0amJQQnMtM0dPaWR0WXdNSk9kN24ydE8xMi1YY2NZRzlwTEJDWUo3WXd2a1E1REJvaTdNM3lXVzRrWVNvb0FXWnlaa19pbXAzakVBUUFTY3Vyby1pZUpHYm9jeW1tb3pEdnM4MGFJclZkdFnSAZACQVVfeXFMTnV0akV0Q3YwQUQ0eTZYM0g0MU5MczdiOFZkX1Rva2dzN1lHYWxVeHhnZzhfUDlnZFotcWFzY2daRnpac1VLV0dyZmFFS1Nyb1g2VXJBT1hhMzFzZDh4VEtZZnp1b3I2VUh5dVNsdGxUeHI0ZnhIREwwdFVlRW9Od0RvLWlMTUFVcXozaVpiNjI5YkdlU2JYdWc2WGw3RzVWYTRhdDZRUEVOQkxJcU1lV3duMzhzY01RSzNnbDlkUWZFZzEtTXU3aVVSQjVEN2lwZ0VUU2lpTkZ1Q1hhXzhZY2R3ZmpNUE41RExWMk5VeVloczlSYjFhRFpMaUo2Rm1RNTU3N21RSXp5cFhuY0pIUHk?oc=5)
 
@@ -59,11 +107,27 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNW
 
 ---
 
+### [The forgotten drug that ‘could torch body fat by 37%’ when used with fat jabs - The Sun](https://news.google.com/rss/articles/CBMidEFVX3lxTE1aQnJVXzhaRjA2NGY4dWwweHVuSzJzaGhDNmNwM0NSb2lGbG9Ua1ZKbmtyTXU2MlhhbzllLWZ0OXh0czJwMEJOUzhFUTVrb05MeHBCZUZaR1FVWW92SDR1M244Sk5YMUNob1NjeWhFZE16QkZu?oc=5)
+
+2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMidEFVX3lxTE1aQnJVXzhaRjA2NGY4dWwweHVuSzJzaGhDNmNwM0NSb2lGbG9Ua1ZKbmtyTXU2MlhhbzllLWZ0OXh0czJwMEJOUzhFUTVrb05MeHBCZUZaR1FVWW92SDR1M244Sk5YMUNob1NjeWhFZE16QkZu?oc=5)
+
+---
+
 ### [El Virgen del Rocío pone en marcha una nueva consulta para prevenir recaídas por ictus - Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlcybURoWHA2N2d6aEp5YUtVWkZDNE05c1NNM0UwenAtZ0FyV0RDdjF3R202MjRoLVVrTW1wOVFDQ1NzSE5IYzVWVzhKejhvWm5UN3NpNzNWNER1Yi1lSzdrMUZPakdrcE05X256Y2k2RmpFQ0puNk1JTEM3NXlpay1wRndJVGVzWkg0UTJHcDJMOEhBMUNsRTkxNmFKVDQ?oc=5)
 
 2026-11-03 <span class="news-indication-tag">ictus</span>
 
 Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlcybURoWHA2N2d6aEp5YUtVWkZDNE05c1NNM0UwenAtZ0FyV0RDdjF3R202MjRoLVVrTW1wOVFDQ1NzSE5IYzVWVzhKejhvWm5UN3NpNzNWNER1Yi1lSzdrMUZPakdrcE05X256Y2k2RmpFQ0puNk1JTEM3NXlpay1wRndJVGVzWkg0UTJHcDJMOEhBMUNsRTkxNmFKVDQ?oc=5)
+
+---
+
+### [Adipositas: DDG fordert Kostenübernahme für Abnehm-Medikamente](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
+
+2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [AOK](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
 
 ---
 
@@ -208,6 +272,14 @@ Source: [TF1 Info](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZW03eUpP
 2026-11-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
 Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUtCMlRnZWpGNHJJSHVFbWc5X3ZnNzF2U0R0X2lPOGl3TXR1aWVYOW4xaWN5WW5mTmVaRlpmalh2dXEyUnlDVFEzcjZNSGJ3SzJOa2xwOFRHWmE2YUhVQmVfZlgzTko2MzExemdfTC1xZ2pFN0lUdk9xTTExaTNyelZHMFhzMm03dHlWT2hXbENiS0N0Z1FJdDluUDg0SUd2d0hLQnFFbF9iOUpaS2tMdk4zVFFQdWdHX0xRZlJ2MUR3TkpOVkFSNW5jR2ZLSjJfT3c?oc=5)
+
+---
+
+### [Coupe-faim : non remboursable, le Wegovy oral arrive lundi dans les pharmacies et électrise le marché français - Les Echos](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMHVuOHhHa0xjT0pFczU0X2hPRVZKLTRqOUQ3NEItNEpJak84b3BVSnhuYTJNbnNmN19qckRxR096ZzZSRFphellBV1NpejA5bmNJVUhwMVhVZ01wOWJ4dlFEYXBCdDJCbWpwYndwTi1jNzNvMmRudE53VEhqbW85TVRjSjladEN3bTlIbEttMHozRldJZEpwNzA0UGFiYndRcUthb2V0dTZnamFDWGpiM2FNTU1WR2FUdFBMM2RCbmFqdGFJWm02enlKZ1NfM280VjJYRGZONWJCeWt3Ry0zdVJsQUV1OVFGbnAwc1BCVWZaeWs?oc=5)
+
+2026-11-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Les Echos](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMHVuOHhHa0xjT0pFczU0X2hPRVZKLTRqOUQ3NEItNEpJak84b3BVSnhuYTJNbnNmN19qckRxR096ZzZSRFphellBV1NpejA5bmNJVUhwMVhVZ01wOWJ4dlFEYXBCdDJCbWpwYndwTi1jNzNvMmRudE53VEhqbW85TVRjSjladEN3bTlIbEttMHozRldJZEpwNzA0UGFiYndRcUthb2V0dTZnamFDWGpiM2FNTU1WR2FUdFBMM2RCbmFqdGFJWm02enlKZ1NfM280VjJYRGZONWJCeWt3Ry0zdVJsQUV1OVFGbnAwc1BCVWZaeWs?oc=5)
 
 ---
 

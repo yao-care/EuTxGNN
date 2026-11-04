@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "sclérose en plaques (multiple sclerosis) News"
+title: "esclerosis múltiple (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about sclérose en plaques (multiple sclerosis). 2 articles, 26 related drugs."
+description: "Health news about esclerosis múltiple (multiple sclerosis). 3 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-04
 ---
 
-# sclérose en plaques (multiple sclerosis) News
+# esclerosis múltiple (multiple sclerosis) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about sclérose en plaques (multiple sclerosis)?">
-<strong>sclérose en plaques (multiple sclerosis)</strong> currently has <strong>2 news articles</strong> and 26 related drugs.
+<p class="key-answer" data-question="What news is there about esclerosis múltiple (multiple sclerosis)?">
+<strong>esclerosis múltiple (multiple sclerosis)</strong> currently has <strong>3 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “sclérose en plaques” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “esclerosis múltiple” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -46,7 +46,15 @@ This page brings together the latest health news about “sclérose en plaques�
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [El seguimiento de los niveles de neurofilamento puede ayudar a detectar actividad de la esclerosis múltiple que no se ve en las pruebas convencionales - Gaceta Médica](https://news.google.com/rss/articles/CBMirAFBVV95cUxPejI3MVZHZG1PUUpnSFJwb0RaaXRDQksxalN2VU1xNHhsWWp5eXNrS28wMHlVeDZQbHhBZ0sxY1doRnRUQ0EzenRQckdzclBQa2k5a3U3LUlwdkc0WFJMTVRuVmFRWTVncUIzeE43MldYcXlLOUk0d3hhSzdYNHRKT0Y2cmIwQkZ1UmNrb2hrZHJpQXBxdnVlSFZkNldnbGM1bXAtNjZvcXlEZlRC?oc=5)
+
+2026-11-04
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMirAFBVV95cUxPejI3MVZHZG1PUUpnSFJwb0RaaXRDQksxalN2VU1xNHhsWWp5eXNrS28wMHlVeDZQbHhBZ0sxY1doRnRUQ0EzenRQckdzclBQa2k5a3U3LUlwdkc0WFJMTVRuVmFRWTVncUIzeE43MldYcXlLOUk0d3hhSzdYNHRKT0Y2cmIwQkZ1UmNrb2hrZHJpQXBxdnVlSFZkNldnbGM1bXAtNjZvcXlEZlRC?oc=5)
+
+---
 
 ### [Après 18 ans de traitements, une femme apprend qu'elle n'a jamais été atteinte de sclérose en plaques - Yahoo Actualités](https://news.google.com/rss/articles/CBMidEFVX3lxTE9EM2FEOVR1Sk5KZW1EckhBNW5KYjNrYkx4dVpwMURfSV9abnNtYWI3cUxPWUplNDZMZFJHUWJLdG0yMExFTF9FU2RRNVpoUTNwT2xoa0VMMUVVNm9tZWxSVHQ4anVjdXFIdEwyd010YUJ3V2h3?oc=5)
 

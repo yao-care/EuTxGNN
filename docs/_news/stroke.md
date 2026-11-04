@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "ictus (stroke) News"
+title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 36 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 42 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-04
 ---
 
-# ictus (stroke) News
+# Schlaganfall (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>36 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
+<strong>Schlaganfall (stroke)</strong> currently has <strong>42 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,55 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (36)
+## Related News (42)
+
+### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
+
+2026-11-04
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
+
+---
+
+### [Trévenans. Journée de dépistage de l’hypertension artérielle : « Un tiers des patients ne savent pas qu’ils en ont » - L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3FpQmMzSnBlQlBRZHJ6d1FmcnhfWU9fU1NKcnBUcDA3ampUZTItMGVZMjA0NHdaUmdwQTRuYmdfVFJlSnFzT0J4SVV0cHVfSGliT2pjSGhhdXV3eU0wc08wNkkyMjBUZ1NOY29xS1NlNEZLYm1rQm9UZ1RCNl9hSFprX1FFUDBFdnJXMTZVY0liM04tRXVGODJYenVHLTZ3am1KY2dKRFlETVpJaXpTMmNEYlpOSm82UWpfN01CTnd2QVNsbjV2NEdZTDJ5MFE1akFENjRoYW92M2JXRmI4?oc=5)
+
+2026-11-04
+
+Source: [L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3FpQmMzSnBlQlBRZHJ6d1FmcnhfWU9fU1NKcnBUcDA3ampUZTItMGVZMjA0NHdaUmdwQTRuYmdfVFJlSnFzT0J4SVV0cHVfSGliT2pjSGhhdXV3eU0wc08wNkkyMjBUZ1NOY29xS1NlNEZLYm1rQm9UZ1RCNl9hSFprX1FFUDBFdnJXMTZVY0liM04tRXVGODJYenVHLTZ3am1KY2dKRFlETVpJaXpTMmNEYlpOSm82UWpfN01CTnd2QVNsbjV2NEdZTDJ5MFE1akFENjRoYW92M2JXRmI4?oc=5)
+
+---
+
+### [Un Café con Ciencia acerca los avances en rehabilitación neurológica tras sufrir un ictus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR2hMV29SeHdZVjZnbkRBVEF0aVZIQklKOHVDOFBFazBwckVpZnZKcmNYdGJqMGtrMXBvMHRsWGhXYmxQOURjT2xXYjVOZTNGMlk2MnI0X3hDcHBIX1JZVl9RVkt2WjlGT0E3d2lscjUxNzhaT0xyaFlVMk9KVGxNejU5emJ3VXM1OFd5SFdFRTFVQzBxQWNPMHRzY1hZOHlzYTFfMmdkUXE3OFVsd19paTRtMV8ybGROLUtnTFRNOVR0Rjk0VmF0bVJsZVdVYnRyR0p6WHBubXJoVzBkYTJ3T1V1NG1ObExCbUN5aUFQeW5YcGlu?oc=5)
+
+2026-11-04
+
+Source: [iDescubre](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR2hMV29SeHdZVjZnbkRBVEF0aVZIQklKOHVDOFBFazBwckVpZnZKcmNYdGJqMGtrMXBvMHRsWGhXYmxQOURjT2xXYjVOZTNGMlk2MnI0X3hDcHBIX1JZVl9RVkt2WjlGT0E3d2lscjUxNzhaT0xyaFlVMk9KVGxNejU5emJ3VXM1OFd5SFdFRTFVQzBxQWNPMHRzY1hZOHlzYTFfMmdkUXE3OFVsd19paTRtMV8ybGROLUtnTFRNOVR0Rjk0VmF0bVJsZVdVYnRyR0p6WHBubXJoVzBkYTJ3T1V1NG1ObExCbUN5aUFQeW5YcGlu?oc=5)
+
+---
+
+### [Healthier salt could prevent millions of deaths from heart disease and stroke, study finds](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
+
+2026-11-04
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
+
+---
+
+### [Cannabis e rischio ictus: lo studio che preoccupa i medici](https://news.google.com/rss/articles/CBMiigFBVV95cUxOa19oZXEzVEVfQjI5M3hUUjVqQmxfSGpVZXIzWHlfbFlFQ0lfbEdyY3J4UzlGSVN6RkU4RGNXMnktYTNPaktNTW5FVGxkYWRNWU9ZQnNtNmFtVFByYTRMUnZCUW03UXRiMmI3ZXVBcXl1QXZJZ2FRNEQwYU9FbXgxVVJfQkN6NFFkd3fSAY8BQVVfeXFMTlJFUE5jclB6dXVUc0NaSlVScEJNcTBWbjNreHVwalVKWFdOVVBmX0MzZDJyTUd2LXZzdkYwTGZaWXJrUzc1QkNnb2ZabW5pclFiRVc3cHBYaTZQZmZxZGpMeDRuOTBxbGpoYjQzOW1WdzFQbjZZbzZpczFSZ002aUhfdURVX094YS1HN1Y0Nzg?oc=5)
+
+2026-11-04
+
+Source: [AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxOa19oZXEzVEVfQjI5M3hUUjVqQmxfSGpVZXIzWHlfbFlFQ0lfbEdyY3J4UzlGSVN6RkU4RGNXMnktYTNPaktNTW5FVGxkYWRNWU9ZQnNtNmFtVFByYTRMUnZCUW03UXRiMmI3ZXVBcXl1QXZJZ2FRNEQwYU9FbXgxVVJfQkN6NFFkd3fSAY8BQVVfeXFMTlJFUE5jclB6dXVUc0NaSlVScEJNcTBWbjNreHVwalVKWFdOVVBmX0MzZDJyTUd2LXZzdkYwTGZaWXJrUzc1QkNnb2ZabW5pclFiRVc3cHBYaTZQZmZxZGpMeDRuOTBxbGpoYjQzOW1WdzFQbjZZbzZpczFSZ002aUhfdURVX094YS1HN1Y0Nzg?oc=5)
+
+---
+
+### [Più cibi ultraprocessati, più polipi del colon: lo studio sulle donne](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGNqeENFVXhmNXRNNGZRVjBGYWVQeEdncjB2VnVrNjNHc0VqNTJwUXlRN1AwdXdNVHlxQUI2UXl6a2VfLXRSYWI5bktuQjQ1a0tBV3JfbktRRksySzRJSWh6ZlFVaGlwMjh5MGxENjd1clp4ekl5VC1obFZLMWctZm05MFBpOVYzVnQ2OUkxS0lQYV9lUkUzeG1aSXUyZkZZX01adTZJNm9KR0ExZFg4VzNCZ1Y1dXpzV0E?oc=5)
+
+2026-11-04
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGNqeENFVXhmNXRNNGZRVjBGYWVQeEdncjB2VnVrNjNHc0VqNTJwUXlRN1AwdXdNVHlxQUI2UXl6a2VfLXRSYWI5bktuQjQ1a0tBV3JfbktRRksySzRJSWh6ZlFVaGlwMjh5MGxENjd1clp4ekl5VC1obFZLMWctZm05MFBpOVYzVnQ2OUkxS0lQYV9lUkUzeG1aSXUyZkZZX01adTZJNm9KR0ExZFg4VzNCZ1Y1dXpzV0E?oc=5)
+
+---
 
 ### [Un estudio plantea una nueva estrategia que podría ayudar a prevenir los ictus en mujeres mayores - 65 y más](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzNycWM0elltMnRjTEJ3ZzMxckN4dGJfUUgzWnhJNVdLbk1TTzIwSnZyUFJlQks5aEpRNVAwYk82dHg0YjI0X3hMU3pzTFJGaE9lZHBtXzNzQl9kQmliN1lfcjlrRmVGTzNQR2x1ZS1FOUpvWmk1OTcwSkJVY3JkNTFHbGg4YU1QUm56UWE4aTg3LUtvUGVKLWQ4WFlkNWVwLWJBRVctamlQYTlxNlpYUkRvTWpJNUVyQkRDaFBIUjR5UQ?oc=5)
 

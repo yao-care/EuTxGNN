@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Alpelisib?">
-<strong>Alpelisib</strong> currently has <strong>35 news articles</strong>, with 1 predicted indications.
+<strong>Alpelisib</strong> currently has <strong>38 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,31 @@ This page combines the AI-predicted indications for Alpelisib with the latest he
 <p><a href="{{ '/drugs/alpelisib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (35)
+## Related News (38)
+
+### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
+
+---
+
+### [Trévenans. Journée de dépistage de l’hypertension artérielle : « Un tiers des patients ne savent pas qu’ils en ont » - L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3FpQmMzSnBlQlBRZHJ6d1FmcnhfWU9fU1NKcnBUcDA3ampUZTItMGVZMjA0NHdaUmdwQTRuYmdfVFJlSnFzT0J4SVV0cHVfSGliT2pjSGhhdXV3eU0wc08wNkkyMjBUZ1NOY29xS1NlNEZLYm1rQm9UZ1RCNl9hSFprX1FFUDBFdnJXMTZVY0liM04tRXVGODJYenVHLTZ3am1KY2dKRFlETVpJaXpTMmNEYlpOSm82UWpfN01CTnd2QVNsbjV2NEdZTDJ5MFE1akFENjRoYW92M2JXRmI4?oc=5)
+
+2026-11-04 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+Source: [L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3FpQmMzSnBlQlBRZHJ6d1FmcnhfWU9fU1NKcnBUcDA3ampUZTItMGVZMjA0NHdaUmdwQTRuYmdfVFJlSnFzT0J4SVV0cHVfSGliT2pjSGhhdXV3eU0wc08wNkkyMjBUZ1NOY29xS1NlNEZLYm1rQm9UZ1RCNl9hSFprX1FFUDBFdnJXMTZVY0liM04tRXVGODJYenVHLTZ3am1KY2dKRFlETVpJaXpTMmNEYlpOSm82UWpfN01CTnd2QVNsbjV2NEdZTDJ5MFE1akFENjRoYW92M2JXRmI4?oc=5)
+
+---
+
+### [Healthier salt could prevent millions of deaths from heart disease and stroke, study finds](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
+
+2026-11-04 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
+
+---
 
 ### [Bluthochdruck: Schon 5 mm Hg weniger senken das Herz-Kreislauf-Risiko](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUhSLXhqQ2VGZ3FjR1NBYXVPNXl2LWI4WUZZYUV6ZURUNGhreDZLOHFkc1dZbXdyTnhNUnpHbTFqZXlaMndTVXVOd0J3SlBTbW9rRTNPYnRPNzhhaFZRc3JQYjg0R3ZYSFVPQWxhRXJ1Y21tZm9ZR2dEcXVMRHpDaWtJZDB0eEhjcmlYa0pMMWRraUlHLURNUzFOQUlyVm9kMW5SdWh2Q3dxelpMMDRPOV9LNFRnVGdl?oc=5)
 

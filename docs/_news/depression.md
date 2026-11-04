@@ -36,7 +36,7 @@ This page brings together the latest health news about “dépression” and lis
 
 ## Related News (14)
 
-### [Bientôt un spray nasal psychédélique contre la dépression résistante](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEZpWlF6Ykt1LVpfVlpGZ2d0SlVscFRVeWNjeHd4dkhHci1zU3pBQmpEQVB4ZVR3WFpjcjBKSWc4dy1XQk5BdXI1LV9Xd3BydG1FaUV3QU1jN3JsRTd1bFQ0NjQ0VVVsREZFY1l0Yk8zY0Iza3d3N2Y2bVVoQzF2OEpR?oc=5)
+### [Dépression résistante : un spray nasal psychédélique à l’essai](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEZpWlF6Ykt1LVpfVlpGZ2d0SlVscFRVeWNjeHd4dkhHci1zU3pBQmpEQVB4ZVR3WFpjcjBKSWc4dy1XQk5BdXI1LV9Xd3BydG1FaUV3QU1jN3JsRTd1bFQ0NjQ0VVVsREZFY1l0Yk8zY0Iza3d3N2Y2bVVoQzF2OEpR?oc=5)
 
 2026-11-04
 

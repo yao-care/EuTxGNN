@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Panitumumab?">
-<strong>Panitumumab</strong> currently has <strong>38 news articles</strong>, with 2 predicted indications.
+<strong>Panitumumab</strong> currently has <strong>42 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,11 +34,19 @@ This page combines the AI-predicted indications for Panitumumab with the latest 
 <p><a href="{{ '/drugs/panitumumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (38)
+## Related News (42)
+
+### [Typ-2-Diabetes ohne Insulin: Sensoren bringen fünf Stunden mehr im Zielbereich](https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHFGcnI5YXJoYmNpUzRiOUd2ZHRGcThITGtmMmNJUEN6OUU2SFgyalo0cGVUN2FJZ3lYSjhPZVJ0ZThTVk95V0dpWV9RZ1MydU5ud2hRZW90SjBRbGU2UjJvWXNkYWtFX1NFLUhKUzVBdWRjNndlU1ZVN0E1b1U1VVo1N0Uxb25ZUnpDQTNuRzNodUt6VURLYjNiN2F0TzdUYmlUVWZ2S25BV0xjYzVtQ0hPVzVraU5QYWp0d0tzNnNoQzBSQ1E?oc=5)
+
+2026-11-04 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHFGcnI5YXJoYmNpUzRiOUd2ZHRGcThITGtmMmNJUEN6OUU2SFgyalo0cGVUN2FJZ3lYSjhPZVJ0ZThTVk95V0dpWV9RZ1MydU5ud2hRZW90SjBRbGU2UjJvWXNkYWtFX1NFLUhKUzVBdWRjNndlU1ZVN0E1b1U1VVo1N0Uxb25ZUnpDQTNuRzNodUt6VURLYjNiN2F0TzdUYmlUVWZ2S25BV0xjYzVtQ0hPVzVraU5QYWp0d0tzNnNoQzBSQ1E?oc=5)
+
+---
 
 ### [Prädiabetes: Abnehmspritzen mit 31 Prozent geringerem Diabetesrisiko verbunden](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
 
-2026-11-04 <span class="news-indication-tag">diabetes</span>
+2026-11-04 <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
 
@@ -49,6 +57,14 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFh
 2026-11-04 <span class="news-indication-tag">diabetes</span>
 
 Source: [food-monitor](https://news.google.com/rss/articles/CBMingFBVV95cUxOdTRDZkx3V1MwcDdOSmNySnRLU25XYmZDbDlmc2xJT2FVdmt5VGZsZzZKd0VqUHd1LTkzcGJfbDU0S1Nzc1BIekgxVGNRUURFR0cyTk1wV1lFNGtqQkZhMWp3T3JLZS1lbnh1Z2FMUnNCSTlacE52Q0ZxUzZrMWp0QUliR1hyMlJITFFYMmpuVDhDVGV5VHcyLU56VFBrUQ?oc=5)
+
+---
+
+### [Diabetes in the Hills - Managing a Hyperglycaemic Casualty](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFZURUtmN09hVVlEc0tVVXFjd1FhMUUzS2VkdjN5c0h0bVMwRWlYR2YtTTZrTUFWWFNVYS1semRQa05vd2FYSURIQkVmZnEwTUpIQV9yTzhsN2hLa09KeEJ4SFJNanZzdF80bm81M0NYd045MUd2UnNEdGNTN2VxdmR0cE5kNXhkQU5CZGJIamJTX0M3RGpuYXZSVzh5aFJqbUdVX2JuUUVtYm8tcGIwWkNuOUVYVWpzVnM2TjAxZUVaa2xVV285aTh5dw?oc=5)
+
+2026-11-04 <span class="news-indication-tag">diabetes</span>
+
+Source: [UKClimbing](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFZURUtmN09hVVlEc0tVVXFjd1FhMUUzS2VkdjN5c0h0bVMwRWlYR2YtTTZrTUFWWFNVYS1semRQa05vd2FYSURIQkVmZnEwTUpIQV9yTzhsN2hLa09KeEJ4SFJNanZzdF80bm81M0NYd045MUd2UnNEdGNTN2VxdmR0cE5kNXhkQU5CZGJIamJTX0M3RGpuYXZSVzh5aFJqbUdVX2JuUUVtYm8tcGIwWkNuOUVYVWpzVnM2TjAxZUVaa2xVV285aTh5dw?oc=5)
 
 ---
 
@@ -97,6 +113,22 @@ Source: [24horas](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0JWVFh4Q
 2026-11-03 <span class="news-indication-tag">diabete</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXQ0UnJqcnhNU1hpdlFTdDRBaHB6ME5GSy1YcktNR0d4ME9DMUE0ODlwMWRxYm9xa2pJVXJyYmNBcmVzZkYtX3p5b0ZqLUI3TUo5RUtEcjkwcjYyN05FNkNOTFotWXZITFNNUXdJOUxUSkt1V0ttcmhsbVowNHFsdUp1Y2Z5OU95NFJYV3RHYlZ5dGpRbVJWOTF6QW01UVpMb0IzdzBzX0tYMEZTV3VMcTZJbG8zc1cyTnFadFZFZ2N3RGdLaTdwLU53OHcwNGE5VG9yTGVkZExCNDVHbE9z?oc=5)
+
+---
+
+### [Adipositas: DDG fordert Kostenübernahme für Abnehm-Medikamente](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
+
+2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [AOK](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
+
+---
+
+### [Melilla acoge el Día Mundial de la Diabetes 2026 - Canal Diabetes](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IYUtXRllOdC1md2hQb2RjcjYwREJNZl9SS0k2U1J5MWg5MmRROGo3MllVRFRPbkRqQTVNaFpoak9IU0t0b3FFY1pIM0gxbjRXMy1RY0lORkhOZnJW?oc=5)
+
+2026-11-03 <span class="news-indication-tag">diabetes</span>
+
+Source: [Canal Diabetes](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IYUtXRllOdC1md2hQb2RjcjYwREJNZl9SS0k2U1J5MWg5MmRROGo3MllVRFRPbkRqQTVNaFpoak9IU0t0b3FFY1pIM0gxbjRXMy1RY0lORkhOZnJW?oc=5)
 
 ---
 
