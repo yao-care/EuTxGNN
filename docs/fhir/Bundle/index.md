@@ -29,5 +29,6 @@ Bundle resources are available for bulk data access.
 ## Related Resources
 
 - [FHIR CapabilityStatement](/fhir/metadata)
-- [MedicationKnowledge Resources](/fhir/MedicationKnowledge/)
-- [ClinicalUseDefinition Resources](/fhir/ClinicalUseDefinition/)
+- MedicationKnowledge resources: `/fhir/MedicationKnowledge/{drug}.json` (example: [metformin.json](/fhir/MedicationKnowledge/metformin.json))
+- ClinicalUseDefinition resources: `/fhir/ClinicalUseDefinition/{drug}-{disease}.json` (example: [metformin-classic-stiff-person-syndrome.json](/fhir/ClinicalUseDefinition/metformin-classic-stiff-person-syndrome.json))
+- [FHIR API Specification](/smart/fhir-api/)
