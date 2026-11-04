@@ -1,6 +1,6 @@
 {
   "total": 440,
-  "generated_at": "2026-11-03T18:45:11.657759",
+  "generated_at": "2026-11-04T03:43:16.080229",
   "drugs": [
     {
       "name": "Abacavir",
@@ -2925,7 +2925,7 @@
     {
       "name": "Glecaprevir",
       "file": "glecaprevir.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "Glecaprevir",
