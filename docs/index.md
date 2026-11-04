@@ -3,13 +3,14 @@ layout: default
 title: Drug Repurposing Reports
 nav_order: 1
 description: "AI-powered drug repurposing predictions for 560 EMA-approved drugs. TxGNN model identifies potential new therapeutic uses with evidence-based validation."
+last_modified_at: 2026-11-04
 permalink: /
 ---
 
 # Drug Repurposing: From AI to Evidence
 {: .fs-9 }
 
-**EuTxGNN** uses the Harvard TxGNN model to predict drug repurposing candidates for **{{ site.data.drug_stats.total_drugs }}** EMA-approved drugs, generating **2,613** potential new therapeutic uses.
+**EuTxGNN** uses the Harvard TxGNN model to predict drug repurposing candidates for **{{ site.data.drug_stats.total_drugs }}** EMA-approved drugs, generating **{{ site.data.drug_stats.total_indications }}** potential new therapeutic uses.
 {: .fs-6 .fw-300 }
 
 [Browse Drug Reports](/drugs/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -22,22 +23,35 @@ permalink: /
 
 This site publishes reports for **{{ site.data.drug_stats.total_drugs }}** medicines listed in the registration data of [EMA](https://www.ema.europa.eu/) (European Union).
 
-Reports by evidence level: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+Dataset: [EMA Medicines report](https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx), downloaded and compared automatically every week (Mondays). Details: [Data Sources]({{ '/sources/' | relative_url }}).
+
+Reports by evidence level:
+
+| Evidence level | Reports | Share |
+|---|---|---|
+| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+
+8 predicted drug–disease pairs on this site appear on no other of the 30 TxGNN sites.
 
 ### Highest evidence levels on this site
 
 | Medicine | Evidence level |
 |---|---|
 | [Busulfan](/drugs/busulfan/) | L1 |
-| [Lanadelumab](/drugs/lanadelumab/) | L1 |
 | [Nepafenac](/drugs/nepafenac/) | L1 |
-| [Oteracil](/drugs/oteracil/) | L1 |
-| [Solriamfetol](/drugs/solriamfetol/) | L1 |
-| [Tegafur](/drugs/tegafur/) | L1 |
-| [Hydrocortisone](/drugs/hydrocortisone/) | L1 |
 | [Peginterferon Alfa-2A](/drugs/peginterferon-alfa-2a/) | L1 |
 | [Clofarabine](/drugs/clofarabine/) | L1 |
 | [Doxorubicin](/drugs/doxorubicin/) | L1 |
+| [Ketorolac](/drugs/ketorolac/) | L1 |
+| [Tacrolimus](/drugs/tacrolimus/) | L1 |
+| [Ledipasvir](/drugs/ledipasvir/) | L2 |
+| [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L2 |
+| [Risankizumab](/drugs/risankizumab/) | L2 |
 
 ### Medicines covered only by this site among the 30 TxGNN sites
 
@@ -144,7 +158,7 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #FB8C00;">
     <strong style="font-size: 1.1rem;">EMA Drug Coverage</strong><br>
-    <span style="color: #666;">Focused on {{ site.data.drug_stats.total_drugs }} EMA centrally-authorized medicines with 2,613 repurposing predictions ready for research.</span>
+    <span style="color: #666;">Focused on {{ site.data.drug_stats.total_drugs }} EMA centrally-authorized medicines with {{ site.data.drug_stats.total_indications }} repurposing predictions ready for research.</span>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #9B59B6;">
     <strong style="font-size: 1.1rem;">FHIR Integration</strong><br>
@@ -265,8 +279,7 @@ EuTxGNN uses the **TxGNN** deep learning model published by Harvard's Zitnik Lab
 | Item | Count |
 |------|-------|
 | Drug Reports | {{ site.data.drug_stats.total_drugs }} |
-| Repurposing Predictions | 2,613 |
-| Unique Indications | 4,570 |
+| Repurposing Predictions | {{ site.data.drug_stats.total_indications }} |
 
 [Learn More](/about/) | [Methodology](/methodology/) | [Data Sources](/sources/)
 
@@ -317,22 +330,11 @@ EuTxGNN uses the **TxGNN** deep learning model published by Harvard's Zitnik Lab
 <strong>Disclaimer</strong><br>
 This report is for <strong>research purposes only</strong> and does not constitute medical advice. Drug use should follow physician guidance. Any drug repurposing decisions require complete clinical validation and regulatory review.
 <br><br>
-<small>Last updated: 2026-03-05 | Maintainer: 藥提醒科技有限公司 (yao.care)</small>
+<small>Last updated: {{ page.last_modified_at | date: "%Y-%m-%d" }} | Maintainer: 藥提醒科技有限公司 (yao.care)</small>
 </div>
 
 ---
 
 ## About the Developer
 
-This platform is developed and operated by **藥提醒科技有限公司** (yao.care, company registration
-number 83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan).
-
-EuTxGNN is the the European Union site of the company's "TxGNN Drug Repurposing" product line.
-The same system is deployed across 30 countries and regions, each named `{CC}TxGNN`
-(JpTxGNN, UsTxGNN, DETxGNN, and so on) at `{cc}txgnn.yao.care`.
-Product overview: <https://www.yao.care/medical/txgnn/>.
-
-The TxGNN model itself was developed by the Zitnik Lab at Harvard Medical School and published
-in *Nature Medicine*. This platform is the production system 藥提醒科技有限公司 built on top of that
-model, covering national drug-registration data integration, deep-learning prediction that excludes uses already recorded in the knowledge graph, PubMed / ClinicalTrials evidence grading, and SMART on FHIR
-electronic health record integration.
+This platform is developed and operated by **藥提醒科技有限公司** (yao.care). See the <a href="{{ '/about/' | relative_url }}">About</a> page for the full company and methodology background.

@@ -38,12 +38,11 @@ OUT = ROOT / "docs" / "_data" / "drug_stats.json"
 # (檔案, 正則（group 2 是數字）, 數字來源)；每條必須剛好命中一處
 COUNT_SPOTS = [
     ("docs/index.md", r'(^description: "AI-powered drug repurposing predictions for )(\d+)( EMA-approved drugs)', "total"),
-    ("docs/index.md", r'(generating \*\*)([\d,]+)(\*\* potential new therapeutic uses)', "indications"),
-    ("docs/index.md", r'(medicines with )([\d,]+)( repurposing predictions)', "indications"),
-    ("docs/index.md", r'(^\| Repurposing Predictions \| )([\d,]+)( \|)', "indications"),
     ("docs/llms-full.txt", r'(AI-powered drug repurposing predictions for )(\d+)( EMA-approved drugs)', "total"),
     ("README.md", r'(^\| \*\*Drug Reports\*\* \| )(\d+)( \|)', "total"),
 ]
+
+# 2026-11-04：首頁內文的預測適應症數改用 Liquid（site.data.drug_stats.total_indications），不再列在這裡。
 
 # Liquid 可用的檔案裡不得再出現寫死的藥物總數（出現就要改成 {{ site.data.drug_stats.total_drugs }}）
 HARDCODE_PATTERNS = [
@@ -136,6 +135,26 @@ def hardcode_problems():
     return errs
 
 
+INDEX = ROOT / "docs" / "index.md"
+
+
+def index_date_problems(stats, fix=False):
+    """首頁「Last updated」與首頁 JSON-LD dateModified 都讀 docs/index.md front matter 的 last_modified_at
+    （2026-11-04 起；原本手寫 2026-03-05，之後首頁與資料都改過）。這個日期要等於 drug_stats.json 的
+    generated：藥物數、等級分布或適應症數真的變了，本支才會換日期。front matter 沒有這個欄位就不管。"""
+    if not INDEX.exists() or not stats.get("generated"):
+        return []
+    raw = INDEX.read_bytes().decode("utf-8")
+    m = re.match(r"(\ufeff?---\r?\n)(.*?)(\r?\n---\r?\n)", raw, re.S)
+    lm = re.search(r"^last_modified_at:[ \t]*(\S*)[ \t]*$", m.group(2), re.M) if m else None
+    if not lm or lm.group(1) == stats["generated"]:
+        return []
+    if fix:
+        a = m.start(2) + lm.start(1)
+        INDEX.write_bytes((raw[:a] + stats["generated"] + raw[m.start(2) + lm.end(1):]).encode("utf-8"))
+    return [f"docs/index.md：front matter last_modified_at {lm.group(1)} 應為 {stats['generated']}（drug_stats.json 的 generated）"]
+
+
 def main():
     check = "--check" in sys.argv[1:]
     drugs = listed_drugs()
@@ -154,6 +173,7 @@ def main():
             OUT.write_text(json.dumps(stats, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         print(f"drug_stats.json：{stats['total_drugs']} 個藥，{stats['total_indications']} 個預測適應症，{stats['level_counts']}")
     errs += count_spot_problems(stats, fix=not check)
+    errs += index_date_problems(stats, fix=not check)
     errs += hardcode_problems()
     if check:
         if errs:
