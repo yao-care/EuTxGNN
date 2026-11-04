@@ -4,10 +4,10 @@
   "total_indications": 2613,
   "level_counts": {
     "L1": 7,
-    "L2": 17,
-    "L3": 14,
+    "L2": 16,
+    "L3": 13,
     "L4": 30,
-    "L5": 372
+    "L5": 374
   },
   "all_drugs": [
     {
@@ -2209,7 +2209,7 @@
     {
       "name": "Omalizumab",
       "slug": "omalizumab",
-      "level": "L2",
+      "level": "L5",
       "indication_count": 9
     },
     {
@@ -2815,7 +2815,7 @@
     {
       "name": "Sirolimus",
       "slug": "sirolimus",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 6
     },
     {
