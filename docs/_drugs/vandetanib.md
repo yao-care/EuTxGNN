@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Vandetanib
-parent: High Evidence (L1-L2)
+parent: Medium Evidence (L3-L4)
 nav_order: 656
-evidence_level: L2
+evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-04
 monitor_inn: "Vandetanib"
 predicted_indications: ["renal cell carcinoma (disease)", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
-description: "Vandetanib: predicted new indication Renal cell carcinoma (disease) (evidence level L2). Approved use: Caprelsa is indicated for the treatment of aggressive and symptomatic…"
+description: "Vandetanib: predicted new indication Renal cell carcinoma (disease) (evidence level L3). Approved use: Caprelsa is indicated for the treatment of aggressive and symptomatic…"
 ---
 
 # Vandetanib
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,10 +38,9 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Vandetanib (Caprelsa) was originally approved to treat aggressive, symptomatic medullary thyroid cancer (MTC).
-The TxGNN model predicts it may be effective for **Renal Cell Carcinoma (RCC)**, but the support so far is limited to **4 small Phase 1/2 clinical trials** (two terminated early) and literature that is mostly safety reviews and preclinical work, with **no Phase 3 data**.
-
----
+Vandetanib is an oral multi-kinase inhibitor that is already authorised in the EU.
+The TxGNN model predicts it may be useful for **renal cell carcinoma**, with a prediction score of 0.9992.
+Support so far is limited: **4 small Phase 1/2 or Phase 2 clinical trials** (two terminated early) and **5 publications**, mostly reviews and class-level safety analyses. The evidence level is **L3**.
 
 ## Quick Overview
 
@@ -50,52 +49,37 @@ The TxGNN model predicts it may be effective for **Renal Cell Carcinoma (RCC)**,
 | Original Indication | Caprelsa is indicated for the treatment of aggressive and symptomatic medullary thyroid cancer (MTC) in patients with unresectable locally advanced or metastatic disease. Caprelsa is indicated in adults, children and adolescents aged 5 years and older. For patients in whom re-arranged-during-transfe |
 | Predicted New Indication | Renal cell carcinoma (disease) |
 | TxGNN Prediction Score | 0.9992 |
-| Evidence Level | L2 (one completed Phase 2 trial with a strong mechanistic fit; no Phase 3 data) |
+| Evidence Level | L3 |
 | EU Market Status | Marketed (valid licences: 1 of 1) |
 | Number of Authorizations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the trial and literature information, vandetanib is a multi-target tyrosine kinase inhibitor that blocks VEGFR2, EGFR and RET. Its efficacy in MTC rests largely on RET inhibition.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Vandetanib is known to inhibit VEGFR2, EGFR and RET. VEGFR-driven angiogenesis is an established target in renal cell carcinoma, and other VEGFR-targeting tyrosine kinase inhibitors are approved for it.
 
-The link to RCC comes mainly from VEGFR. Clear cell RCC is typically characterized by loss of the VHL gene, stabilization of HIF and overproduction of VEGF, so tumor growth depends heavily on angiogenesis. Other VEGFR-targeting kinase inhibitors are already approved for RCC, which makes this a plausible mechanistic extension.
+Clear cell renal cell carcinoma is typically characterised by VHL loss, HIF stabilisation and VEGF overexpression. Blocking VEGFR2 therefore has a plausible mechanistic link to this disease. The same reasoning fits von Hippel-Lindau disease with renal tumours, where the most informative trial was run.
 
-Several limits apply. The available Phase 2 trials are small, and two were terminated early. Vandetanib is also not a standard option compared with the approved RCC kinase inhibitors. The other predicted indications (TFE3-translocation RCC, unclassified RCC, renal pelvis carcinoma, childhood kidney carcinoma, angiolipoma, familial spontaneous pneumothorax and others) rest on model prediction alone or on indirect evidence, and are not recommended for further pursuit at this time.
-
----
+There are limits. The available trials are small, there are no Phase 3 data, and vandetanib is not a standard option compared with approved renal cell carcinoma TKIs. The current literature supports plausibility and safety management, not proven efficacy.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00566995](https://clinicaltrials.gov/study/NCT00566995) | Phase 2 | Completed | 37 | Vandetanib in Von Hippel-Lindau disease with renal tumors. Strong VEGF-pathway rationale; the most informative trial for this indication. Efficacy results are not available in the data compiled. |
-| [NCT01372813](https://clinicaltrials.gov/study/NCT01372813) | Phase 2 | Terminated | 3 | Vandetanib in advanced clear cell renal carcinoma. Terminated after 3 patients, so no interpretable efficacy signal. |
-| [NCT02495103](https://clinicaltrials.gov/study/NCT02495103) | Phase 1/2 | Terminated | 7 | Vandetanib plus metformin in HLRCC/SDH-associated kidney cancer or sporadic papillary RCC. Relevant to a rare subtype but underpowered. |
-| [NCT01191892](https://clinicaltrials.gov/study/NCT01191892) | Phase 2 | Completed | 82 | Randomized trial of carboplatin and gemcitabine with or without vandetanib in advanced urothelial cancer. Only indirectly relevant to RCC. |
-
----
+| [NCT00566995](https://clinicaltrials.gov/study/NCT00566995) | Phase 2 | Completed | 37 | Vandetanib in von Hippel-Lindau disease with renal tumours. Strong VEGF-pathway rationale and the most informative trial; no efficacy results are given in the data compiled |
+| [NCT01372813](https://clinicaltrials.gov/study/NCT01372813) | Phase 2 | Terminated | 3 | Vandetanib in advanced clear cell renal carcinoma. Stopped after 3 patients, so no usable efficacy signal |
+| [NCT02495103](https://clinicaltrials.gov/study/NCT02495103) | Phase 1/2 | Terminated | 7 | Vandetanib plus metformin in HLRCC/SDH-associated kidney cancer or sporadic papillary renal cell carcinoma. Mechanistically relevant for a rare subtype but underpowered |
+| [NCT01191892](https://clinicaltrials.gov/study/NCT01191892) | Phase 2 | Completed | 82 | Randomised study of carboplatin and gemcitabine with or without vandetanib in advanced urothelial cancer. Only indirectly relevant to renal cell carcinoma |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [40779213](https://pubmed.ncbi.nlm.nih.gov/40779213/) | 2025 | Review | Clin Exp Metastasis | Targeted therapy combinations in metastatic fumarate hydratase-deficient RCC; no standard regimen exists and several Phase 2 trials are ongoing |
-| [32691271](https://pubmed.ncbi.nlm.nih.gov/32691271/) | 2021 | Cohort | Endocrine | Long-term follow-up and safety of vandetanib in advanced MTC |
-| [32105149](https://pubmed.ncbi.nlm.nih.gov/32105149/) | 2020 | Meta-analysis (safety) | Expert Rev Clin Pharmacol | Incidence and risk of proteinuria with VEGFR TKIs, including vandetanib |
-| [23981115](https://pubmed.ncbi.nlm.nih.gov/23981115/) | 2014 | Meta-analysis (safety) | Br J Clin Pharmacol | Incidence and relative risk of hepatic toxicity with anti-angiogenic TKIs |
-| [22651902](https://pubmed.ncbi.nlm.nih.gov/22651902/) | 2012 | Meta-analysis (safety) | Cancer Treat Rev | Treatment-related mortality with VEGFR TKI therapy in advanced solid tumors |
-| [26677336](https://pubmed.ncbi.nlm.nih.gov/26677336/) | 2015 | Review | OncoTargets Ther | Anti-angiogenic agents in solid tumors, including vandetanib |
-| [24451769](https://pubmed.ncbi.nlm.nih.gov/24451769/) | 2012 | Review | ASCO Educ Book | Systemic therapies for advanced thyroid cancers; vandetanib as a RET kinase inhibitor |
-| [31043488](https://pubmed.ncbi.nlm.nih.gov/31043488/) | 2019 | Preclinical (mouse model) | Mol Cancer Res | TFE3-translocation RCC mouse model identifying therapeutic targets and a diagnostic marker |
-| [30860683](https://pubmed.ncbi.nlm.nih.gov/30860683/) | 2019 | Preclinical (in vitro) | Neuro Endocrinol Lett | Vandetanib, lenvatinib and cabozantinib modulate cytochrome P450 oxidation of ellipticine |
-| [23185843](https://pubmed.ncbi.nlm.nih.gov/23185843/) | 2012 | Commentary | Prescrire Int | Critical appraisal of vandetanib in MTC, concluding the risk-benefit balance was unfavorable |
-
-The literature supports plausibility and safety management, but it does not provide efficacy evidence in RCC.
-
----
+| [40779213](https://pubmed.ncbi.nlm.nih.gov/40779213/) | 2025 | Review | Clin Exp Metastasis | Targeted-therapy combinations under study in metastatic fumarate hydratase-deficient renal cell carcinoma; no standard regimen exists |
+| [23981115](https://pubmed.ncbi.nlm.nih.gov/23981115/) | 2014 | Meta-analysis (safety) | Br J Clin Pharmacol | Incidence and risk of liver toxicity with anti-angiogenic TKIs |
+| [22651902](https://pubmed.ncbi.nlm.nih.gov/22651902/) | 2012 | Meta-analysis (safety) | Cancer Treat Rev | Treatment-related mortality with VEGFR TKIs in advanced solid tumours |
+| [32105149](https://pubmed.ncbi.nlm.nih.gov/32105149/) | 2020 | Meta-analysis of RCTs (safety) | Expert Rev Clin Pharmacol | Incidence and risk of proteinuria with newer VEGFR TKIs, including vandetanib |
+| [26677336](https://pubmed.ncbi.nlm.nih.gov/26677336/) | 2015 | Review | OncoTargets Ther | Overview of anti-angiogenic agents, including vandetanib, in solid tumours |
 
 ## EU Market Information
 
@@ -103,51 +87,37 @@ The literature supports plausibility and safety management, but it does not prov
 |---------|------|------|-----------|
 | EMEA/H/C/002315 | Caprelsa | Not specified | Aggressive and symptomatic medullary thyroid cancer (MTC) in patients with unresectable locally advanced or metastatic disease. Caprelsa is indicated in adults, ch... |
 
-
----
-
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (multi-target tyrosine kinase inhibitor against VEGFR2, EGFR and RET) |
+| Cytotoxicity Classification | Targeted therapy (multi-kinase inhibitor) |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Handling Protection | Please refer to the SmPC warnings and precautions |
-
----
+| Monitoring Items | Please refer to the SmPC. Class-level data suggest monitoring liver function and urine protein |
+| Handling Protection | Follow local handling rules for oral anticancer drugs; please refer to the SmPC |
 
 ## Safety Considerations
 
-- **Contraindication signals (from the knowledge graph, not label text)**:
-  - Cardiovascular: long QT syndrome (including familial), torsades de pointes, hypertension, congestive heart failure
-  - Endocrine/metabolic: hypothyroidism, potassium deficiency, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease
-  - Organ-related: impaired renal function, interstitial lung disease
-  - Neurological: brain ischemia, transient ischemic attack, posterior leukoencephalopathy syndrome
-- **Drug Interactions**: 100 interactions were found; the first 20 reviewed include these.
-  - **Major**: clarithromycin, levofloxacin, dolasetron, palonosetron, picosulfuric acid, sodium sulfate, polyethylene glycol (3350 with electrolytes). Several of these are QT-prolonging or electrolyte-altering agents, which matches the QT-related signals above.
-  - **Moderate**: famotidine, metformin, loperamide, dexamethasone, bisacodyl, lactitol.
-  - **Minor**: ranitidine, rabeprazole, omeprazole, lansoprazole, dexlansoprazole, metronidazole, naloxegol.
-- **Class-level safety literature**: VEGFR TKIs are associated with hepatotoxicity, proteinuria and treatment-related mortality. A critical commentary also judged vandetanib's risk-benefit balance in MTC to be unfavorable.
+- **Drug Interactions:** 100 interactions were found in the interaction screening. Examples of those rated **Major** are clarithromycin, levofloxacin, dolasetron, palonosetron, picosulfuric acid, sodium sulfate and polyethylene glycol (3350 with electrolytes). Examples rated **Moderate** are famotidine, metformin, loperamide, dexamethasone, bisacodyl and lactitol.
+- **Class-level safety signals for VEGFR TKIs:** published meta-analyses report liver toxicity, proteinuria and treatment-related mortality.
 
-Label warnings and contraindications were not available in the data compiled. Please refer to the SmPC for the full safety information.
-
----
+Please refer to the SmPC for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The VEGFR mechanism gives a plausible rationale for RCC, but the clinical evidence is thin: one completed Phase 2 trial in VHL-associated renal tumors (n=37) with no efficacy results available here, two trials terminated with 3 and 7 patients, and no Phase 3 data. Vandetanib is also not a standard option next to approved RCC kinase inhibitors, and its safety profile (QT prolongation, hypertension, hepatic and renal effects) is demanding. The EU authorization is cancelled, and label safety data are missing.
+The mechanistic rationale is plausible and one completed Phase 2 trial exists in von Hippel-Lindau disease with renal tumours, supporting an evidence level of L3. However, the other renal cell carcinoma trials were terminated with very few patients, there are no Phase 3 data, and no efficacy results are available in the data compiled. The evidence does not yet justify moving forward.
 
 **To proceed, the following is needed:**
-- Published efficacy results (response rate, progression-free survival) from the completed VHL Phase 2 trial (NCT00566995)
-- Label warnings and contraindications from the SmPC, which are currently missing and block safety screening
-- Mechanism of action data from DrugBank
-- A comparison against approved RCC kinase inhibitors to show a distinct advantage, for example in a rare molecular subtype such as VHL-associated or HLRCC-associated RCC
-- A QT, blood pressure and electrolyte monitoring plan, together with a drug-interaction review
-- Clarification of the cancelled EU authorization status and the regulatory pathway for any new indication
+- Published efficacy results from the completed von Hippel-Lindau Phase 2 trial (NCT00566995)
+- A comparison of vandetanib against approved renal cell carcinoma TKIs
+- Detailed mechanism-of-action data
+- A review of the SmPC warnings and contraindications, since label-level safety data were not available
+- A safety monitoring plan covering liver function, proteinuria and interacting medicines
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

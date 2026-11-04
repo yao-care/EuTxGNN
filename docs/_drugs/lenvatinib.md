@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lenvatinib
-parent: High Evidence (L1-L2)
+parent: Medium Evidence (L3-L4)
 nav_order: 362
-evidence_level: L2
+evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-10-28
-description: "Lenvatinib: predicted new indication Liposarcoma (evidence level L5). Approved use: Advanced renal cell carcinoma (in combination with pembrolizumab as f…"
+last_modified_at: 2026-11-04
 monitor_inn: "lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
+description: "Lenvatinib: predicted new indication Liposarcoma (evidence level L3). Approved use: Kisplyx is indicated for the treatment of adults with advanced renal…"
 ---
 
 # Lenvatinib
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **5** 
+Evidence Level: **L3** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,59 +33,45 @@ Evidence Level: **L2** | Predicted Indications: **5**
 
 </div>
 
-## Lenvatinib: From Renal Cell Carcinoma, Thyroid Carcinoma and Hepatocellular Carcinoma to Liposarcoma
+## Lenvatinib: Liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Lenvatinib is an oral multi-kinase inhibitor, originally used for advanced renal cell carcinoma (in combination with pembrolizumab or everolimus), radioiodine-refractory differentiated thyroid carcinoma and unresectable hepatocellular carcinoma.
-The TxGNN model predicts it may be effective for **liposarcoma**, with **1 clinical trial** (a completed Phase 1b/2 single-arm study) and **4 publications** (only one of them a clinical study) currently supporting this direction.
-Evidence is early-stage and comes from a single small, non-randomized study.
-
----
+Lenvatinib is an oral multi-kinase inhibitor that blocks tumour blood-vessel growth and related growth signalling. The TxGNN model predicts it may be useful in **liposarcoma**, mainly in combination with eribulin. The evidence is **1 completed single-arm Phase 1b/2 trial** and **4 publications**, one of which reports that trial. No randomized trial exists, so the evidence level is **L3**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Advanced renal cell carcinoma (in combination with pembrolizumab as first-line treatment, or with everolimus after one prior VEGF-targeted therapy) |
+| Original Indication | Kisplyx is indicated for the treatment of adults with advanced renal cell carcinoma (RCC): in combination with pembrolizumab, as first-line treatment (see section 5.1). in combination with everolimus, following one prior vascular endothelial growth factor (VEGF)-targeted therapy.; Lenvima&nbsp;is in |
 | Predicted New Indication | Liposarcoma |
 | TxGNN Prediction Score | 0.9951 |
-| Evidence Level | L2 (one completed Phase 1b/2 study; no randomized evidence) |
+| Evidence Level | L3 |
 | EU Market Status | Marketed (valid licences: 2 of 2) |
 | Number of Authorizations | 2 (valid: 2) |
-| Recommended Decision | Hold (research question; see rationale below) |
-
----
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for lenvatinib was not available in the data compiled for this report. Based on the information that was compiled, lenvatinib inhibits VEGFR1-3, FGFR1-4, PDGFRα, KIT and RET. These pathways drive tumour angiogenesis and growth signalling, which is the basis of its use in renal, thyroid and liver cancers.
+Lenvatinib inhibits VEGFR1-3, FGFR1-4, PDGFRα, KIT and RET. These receptors drive tumour angiogenesis and growth signalling, which are also relevant in soft tissue sarcomas. Detailed mechanism-of-action data for the drug are not otherwise available in the data compiled for this report.
 
-Liposarcoma is a soft tissue sarcoma. Anti-angiogenic therapy is mechanistically plausible there. Eribulin, a microtubule inhibitor, already has activity in liposarcoma, so combining it with lenvatinib is a logical approach. Preclinical work on eribulin combinations and a CDK4 biomarker study in dedifferentiated liposarcoma support a rationale for combination therapy.
-
-The link is plausible but indirect. Liposarcoma is biologically different from the carcinomas for which lenvatinib is approved, and the supporting data are early-phase.
-
----
+Eribulin is a microtubule inhibitor with known activity in liposarcoma. Combining it with an anti-angiogenic kinase inhibitor is therefore mechanistically plausible. Preclinical work on eribulin combinations and a CDK4 biomarker study in dedifferentiated liposarcoma give additional background for combination approaches. This is supporting context rather than direct proof that lenvatinib works in liposarcoma.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03526679](https://clinicaltrials.gov/study/NCT03526679) | Phase 1/2 | Completed | 30 | Single-arm study (LEADER) of lenvatinib plus eribulin in inoperable or metastatic adipocytic sarcoma and leiomyosarcoma; tests safety and efficacy, with no randomized comparator |
-
----
+| [NCT03526679](https://clinicaltrials.gov/study/NCT03526679) | Phase 1/Phase 2 | Completed | 30 | LEADER study: single-arm test of lenvatinib plus eribulin in inoperable or metastatic adipocytic sarcoma and leiomyosarcoma, assessing safety and efficacy. No randomized comparator. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [36129471](https://pubmed.ncbi.nlm.nih.gov/36129471/) | 2022 | Phase 1b/2 single-arm trial | Clin Cancer Res | LEADER study of lenvatinib plus eribulin in advanced liposarcoma and leiomyosarcoma, where treatment options are limited |
-| [39103896](https://pubmed.ncbi.nlm.nih.gov/39103896/) | 2024 | Preclinical/biomarker study | Exp Hematol Oncol | CDK4 as a prognostic biomarker in soft tissue sarcoma; synergy of CDK4 inhibition in sequential treatment of dedifferentiated liposarcoma |
-| [29848686](https://pubmed.ncbi.nlm.nih.gov/29848686/) | 2018 | Preclinical review | Anticancer Res | Eribulin combined with mechanistically different anticancer agents showed broad-spectrum preclinical activity |
-| [34326745](https://pubmed.ncbi.nlm.nih.gov/34326745/) | 2021 | Case report | Case Rep Oncol | Marked tumour shrinkage in a dedifferentiated liposarcoma patient with lung metastasis on individualized combined treatment |
-
----
+| [36129471](https://pubmed.ncbi.nlm.nih.gov/36129471/) | 2022 | Phase 1b/2 single-arm trial | Clinical Cancer Research | Report of the LEADER study (lenvatinib plus eribulin) in advanced liposarcoma and leiomyosarcoma, a setting with limited treatment options. |
+| [39103896](https://pubmed.ncbi.nlm.nih.gov/39103896/) | 2024 | Preclinical / biomarker study | Experimental Hematology & Oncology | CDK4 as a prognostic biomarker in soft tissue sarcoma, with a synergistic effect of CDK4 inhibition in sequential treatment of dedifferentiated liposarcoma. |
+| [29848686](https://pubmed.ncbi.nlm.nih.gov/29848686/) | 2018 | Preclinical review | Anticancer Research | Broad preclinical antitumour activity of eribulin in combination with agents of differing mechanisms. |
+| [34326745](https://pubmed.ncbi.nlm.nih.gov/34326745/) | 2021 | Case report | Case Reports in Oncology | Marked tumour reduction in a patient with dedifferentiated liposarcoma and lung metastasis receiving individualized comprehensive treatment. |
 
 ## EU Market Information
 
@@ -94,47 +80,56 @@ The link is plausible but indirect. Liposarcoma is biologically different from t
 | EMEA/H/C/004224 | Kisplyx | Not specified | Advanced renal cell carcinoma (RCC): in combination with pembrolizumab, as first-line treatment; in combination with everolimus, following one prior VEGF-targeted therapy |
 | EMEA/H/C/003727 | Lenvima | Not specified | Monotherapy for progressive, locally advanced or metastatic differentiated thyroid carcinoma refractory to radioactive iodine; monotherapy for advanced or unresectable hepatocellular carcinoma with no prior systemic therapy |
 
-Both authorizations are listed as cancelled in the data compiled for this report.
-
----
+Both authorizations are currently valid.
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (multi-kinase inhibitor) |
+| Cytotoxicity Classification | Targeted therapy (multi-kinase inhibitor). Eribulin, the proposed combination partner, is a conventional cytotoxic agent. |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | Please refer to the SmPC warnings and precautions |
-| Handling Protection | Please refer to the SmPC warnings and precautions |
-
----
+| Monitoring Items | Please refer to the SmPC warnings and precautions. Haematological parameters and liver and renal function are generally followed in oncology use. |
+| Handling Protection | Please refer to the SmPC; follow local rules for handling antineoplastic drugs. |
 
 ## Safety Considerations
 
-- **Drug Interactions**: 260 interactions were identified. Examples include:
-  - **Major**: dolasetron, cisapride
-  - **Moderate**: clarithromycin, levofloxacin, famotidine, loperamide, granisetron, palonosetron, naltrexone, and several laxatives (bisacodyl, lactulose, magnesium citrate, polyethylene glycol, among others)
-  - **Minor**: metronidazole
+- **Drug Interactions**: The interaction screen returned 260 entries. The first 20 reviewed include two **Major** interactions, with dolasetron and cisapride. Most of the others are Moderate:
+  - famotidine
+  - loperamide
+  - bisacodyl
+  - clarithromycin
+  - picosulfuric acid
+  - polyethylene glycol (3350 with electrolytes)
+  - palonosetron
+  - sodium sulfate
+  - naltrexone
+  - castor oil
+  - glycerin
+  - granisetron
+  - lactitol
+  - lactulose
+  - levofloxacin
+  - magnesium citrate
+  - magnesium hydroxide
 
-Please refer to the SmPC for warnings and contraindications.
+  Metronidazole is the only Minor one in this subset. Several of these are QT-prolonging or gastrointestinal agents, so combination use should be checked against the full interaction list.
 
----
+For warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold (research question)**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-Support for liposarcoma comes from one small, single-arm Phase 1b/2 study (n=30) that also included leiomyosarcoma, with no randomized evidence. Mechanistic reasoning is plausible but indirect. The EU authorizations are listed as cancelled in the compiled data, and safety label data is missing.
-
-Other predictions were also reviewed. Renal carcinoma (rank 7) has the strongest evidence (L1, including the Phase 3 CLEAR trial), but this is already an approved indication and is not a new repurposing opportunity. Non-clear-cell and TFE3-rearranged RCC have early-phase data only. The remaining predictions (including ovarian myxoid liposarcoma, childhood kidney carcinoma, angiolipoma, familial spontaneous pneumothorax and endocrine-cerebro-osteodysplasia syndrome) rest on model scores alone and should be held.
+The main prediction (TxGNN score 0.9951) is supported by one completed single-arm Phase 1b/2 study (n=30; PMID 36129471, NCT03526679) of lenvatinib plus eribulin. Supporting material is preclinical or anecdotal, and no randomized trial exists. Further work should therefore stay within a controlled research setting.
 
 **To proceed, the following is needed:**
-- Efficacy and safety results specific to the liposarcoma subgroup of the LEADER study, and ideally a randomized trial
-- Warnings and contraindications from the SmPC, and clarification of the EU authorization status (cancelled)
-- Detailed mechanism of action data
-- A safety monitoring plan, given the many major and moderate drug interactions
+- Randomized or larger controlled data in liposarcoma, ideally by subtype (for example, dedifferentiated versus well-differentiated)
+- Parsed SmPC warnings and contraindications to complete the safety review
+- Detailed mechanism-of-action data
+- A monitoring plan for the lenvatinib–eribulin combination, including the interaction checks above
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
