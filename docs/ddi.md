@@ -26,7 +26,7 @@ Drug-drug interactions are a critical consideration in drug repurposing. When a 
 | Source | Records | Drugs | Version |
 |--------|---------|-------|---------|
 | DDInter (`ddinter_code_*.csv` download files) | 222,383 drug–drug interaction rows (160,235 unique drug pairs) | 1,939 drug names | Files in the EuTxGNN data release [data-20261031-060230](https://github.com/yao-care/EuTxGNN/releases/tag/data-20261031-060230) |
-| Guide to PHARMACOLOGY | 4,799 approved-drug target rows (drug–target data, not drug–drug interactions; no severity levels) | 2,248 ligands | GtoPdb 2026.3 |
+| Guide to PHARMACOLOGY | 4,808 approved-drug target rows (drug–target data, not drug–drug interactions; no severity levels) | 2,253 ligands | GtoPdb 2026.3.1 (published 2026-10-12) |
 
 Counts are taken from the files in the EuTxGNN data release (`data/external/ddi/`).
 
