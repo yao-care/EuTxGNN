@@ -3,9 +3,9 @@ layout: default
 title: "Parkinson's (parkinson disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Parkinson's (parkinson disease). 2 articles, 7 related drugs."
+description: "Health news about Parkinson's (parkinson disease). 3 articles, 7 related drugs."
 permalink: /news/parkinson-disease/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Parkinson's (parkinson disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Parkinson's (parkinson disease)?">
-<strong>Parkinson's (parkinson disease)</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
+<strong>Parkinson's (parkinson disease)</strong> currently has <strong>3 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “Parkinson's” and lis
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Parkinson’s: beyond the brain](https://news.google.com/rss/articles/CBMiX0FVX3lxTE05eHJMOFd1aWFGNloyMHNqbDdUZkxMMHhOajlTNndFLTIyWmhYOHEyUEZlMEIyaUR6VzRMWS02ZU1yX0JaWnlhbUliZXNRdDlnYWxHMktNeExCYWJJVHdV?oc=5)
+
+2026-11-04
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE05eHJMOFd1aWFGNloyMHNqbDdUZkxMMHhOajlTNndFLTIyWmhYOHEyUEZlMEIyaUR6VzRMWS02ZU1yX0JaWnlhbUliZXNRdDlnYWxHMktNeExCYWJJVHdV?oc=5)
+
+---
 
 ### [Cholesterol transport protein emerges as possible target for Parkinson's treatment - Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaGVoUjhMeHlDT1NEOVVfeHFod3VPUjJrOGVfTG1QNkg0bXZLajd3R2VjUHpJVm8xWndFYmg1VjgzTWlGaC0xOHpIQ0VTVm9CNUJiQnBkT3dOZ09ub2hxU0NVWnZFRXo1a0NJa0pVTm55R1c3Wlh2dGtGdzZybF9CY0pVVTlNcWh2VGlkeDNkcjFlT0lmX3c?oc=5)
 

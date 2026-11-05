@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>12 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>15 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,31 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (12)
+## Related News (15)
+
+### [Adipositasmedikamente: DDG fordert Kassen-Erstattung für Risikopatienten](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5)
+
+2026-11-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5)
+
+---
+
+### [Llega a España el primer medicamento GLP-1 en pastillas contra la obesidad](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmZuX1FuMHJXZkswQkZvenRXRXc2TVJyX1V5TGFzUzFZaVJJQlROaEprWXNzYkJvTkVnX3JTQkM2ekhGQnNLUG1lamdXWktHNjZjbzU0VkkyQjVPYl9tbEdsa0dPbUcxSktidkZGakNmMkpHZVpFYTBqaWtUUlAzVERQdWlaVmp4NV9CZHdzWjFibURvdVpCLW1uTnBRQ1ZVNjdkcXJ3aFo5anFzLUNaWXBrMlo4LWc?oc=5)
+
+2026-11-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [elDiario.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmZuX1FuMHJXZkswQkZvenRXRXc2TVJyX1V5TGFzUzFZaVJJQlROaEprWXNzYkJvTkVnX3JTQkM2ekhGQnNLUG1lamdXWktHNjZjbzU0VkkyQjVPYl9tbEdsa0dPbUcxSktidkZGakNmMkpHZVpFYTBqaWtUUlAzVERQdWlaVmp4NV9CZHdzWjFibURvdVpCLW1uTnBRQ1ZVNjdkcXJ3aFo5anFzLUNaWXBrMlo4LWc?oc=5)
+
+---
+
+### [Corsa a Ozempic & Co. per perdere peso, ecco come su telegram te li offrono anche senza ricetta - la Repubblica](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWZhcTRIaWNTUC1iVnpKZ3gtZFd6Z2ppdlp2NE15TU54Tk42OVVtbXotOFpyMUFtdE0yUmo2NzdCUUtjV1g3Y09wRU9yMExrbWpFNTRVNWlDU21TaVZOQWN3TWlSNXotUkhEOHgxQ2x0RVhtMjhGVllYelZkX0V5c0l2ZWdFLVJzdHUtR21MZ281Y0xqNHhIMXZLemVMOTVxa0dyYzgxQndfb0hlZHRMSTI0VXRLMkZQX29paGJB0gHDAUFVX3lxTE42RnE4bWFhNzlBZ2Y5VzBEM0w2X3dXcW9OQlFVb0k4Y0I2WHgtNG5ncEYzUTNzVUFVaHlNLXR3VFd5d2czZHdybU1GRU9BOFF3c0JUVmstUXBFeGJLZ0J2MUtqYmtQb2h0T0dzS0RXSUdMMGloR2pJRm02S3BwNlc4Mk9aNEI3MndkTUdYWDhGOGUwS0NMc3lCQVlLRFhObGlLdDZnYmRoZEZvZFBHS2I2bXNVRmQya2s5RWlxcXFnRjRScw?oc=5)
+
+2026-11-05 <span class="news-drug-tag">Semaglutide</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWZhcTRIaWNTUC1iVnpKZ3gtZFd6Z2ppdlp2NE15TU54Tk42OVVtbXotOFpyMUFtdE0yUmo2NzdCUUtjV1g3Y09wRU9yMExrbWpFNTRVNWlDU21TaVZOQWN3TWlSNXotUkhEOHgxQ2x0RVhtMjhGVllYelZkX0V5c0l2ZWdFLVJzdHUtR21MZ281Y0xqNHhIMXZLemVMOTVxa0dyYzgxQndfb0hlZHRMSTI0VXRLMkZQX29paGJB0gHDAUFVX3lxTE42RnE4bWFhNzlBZ2Y5VzBEM0w2X3dXcW9OQlFVb0k4Y0I2WHgtNG5ncEYzUTNzVUFVaHlNLXR3VFd5d2czZHdybU1GRU9BOFF3c0JUVmstUXBFeGJLZ0J2MUtqYmtQb2h0T0dzS0RXSUdMMGloR2pJRm02S3BwNlc4Mk9aNEI3MndkTUdYWDhGOGUwS0NMc3lCQVlLRFhObGlLdDZnYmRoZEZvZFBHS2I2bXNVRmQya2s5RWlxcXFnRjRScw?oc=5)
+
+---
 
 ### [Semaglutida y daño ocular: los especialistas piden prudencia al interpretar los estudios - Redacción médica](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOM1djWjJhU2V3NVhpVmpUbjJlMU1PSHVUakFsYTVfWjZvRnAxSy1fZndreUZZTl85X2F0bmZSTXozTHNObE5GaFBTbjNjV3dQVG9YWlVLSkNEQ3NEOVdub3pBSm5UbkcxN3d3R0xCMGJLTTVRdGEzOGZKZjNZZXhMRnlRdHZWNlFsaVhNNGV4c3hrSTNwTFFEcDhlT25JcjJrbnkxZ3IzdHp2MXdwWXFwd2VTUkRpelY0OW0zOHU2Sl9yUmhsUGxwT0wwTlRaUTRnWWFGckZyb1VNa3dRUlVBUXpGQ0xURXQwNkpfS2ZUZW9SVDFmNzJRMGVHVFbSAYICQVVfeXFMTWZ0Q3NwMVJnWW9xckdpR2FNamVDRS1pbExuV25uaWRKbjd3S1kwLUZqbjNOdlU0ZGhBNVBqZWFobERtMkk1aXl6V0NXQzFTZ2NkVG9jRkNtaUlva0xmT25BQmJNcEtXUnNjWXVsNHo5VEkyVzk1WEQ4WjJpMEtXVkpKRUpHN0xmaTVYZUFHREdqNXFWbjJOSldfU2R3QjdEMW1xNGZ6Qm50Q1pTalNfakxNZ2JqMWktWWF1ZktOcHFpWGZvM0JabFJMZjFKa2ZIdndRTExxZV9iQ09WY1J5bnJhaXFvY0gxc0tFU3oyY3VoYTJ1X2VmQmZWS2RzbHdLbjB3?oc=5)
 

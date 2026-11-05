@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>13 news articles</strong>, with 0 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>14 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### [Santé. Maladie de Crohn : le système immunitaire donne l’alerte 10 ans avant le diagnostic - Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxONG1vTWxvT0ZJUDA5VTk0TVhyZ3pSNWJzUTl4bnMyRGZnMWdEclgyY19ORzNSTFNWYW14eGZKTEMtbi1Ja0doX3hVYkNha0FweWF4dm9ZTFhzTGZqbHpBMGpDY3g1Y2VSWE1jTXF6ZGNMU1FNcWZFX0N2N0FYczFNbzZCd2R4OW04a3BuN0szNDZ0alYtVUM5OEJPOFVQSXFmdkhzWkhzbHdMT3N6Y08yM2Rsbk1aNHVucEhERy1wWFJBZzRGTVlMWTNXckE?oc=5)
+
+2026-11-05 <span class="news-indication-tag">maladie de Crohn</span>
+
+Source: [Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxONG1vTWxvT0ZJUDA5VTk0TVhyZ3pSNWJzUTl4bnMyRGZnMWdEclgyY19ORzNSTFNWYW14eGZKTEMtbi1Ja0doX3hVYkNha0FweWF4dm9ZTFhzTGZqbHpBMGpDY3g1Y2VSWE1jTXF6ZGNMU1FNcWZFX0N2N0FYczFNbzZCd2R4OW04a3BuN0szNDZ0alYtVUM5OEJPOFVQSXFmdkhzWkhzbHdMT3N6Y08yM2Rsbk1aNHVucEhERy1wWFJBZzRGTVlMWTNXckE?oc=5)
+
+---
 
 ### [Partizipative Therapieentscheidung bei rheumatoider Arthritis: weniger Nebenwirkungen - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
 

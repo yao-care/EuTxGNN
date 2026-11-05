@@ -3,7 +3,7 @@ layout: default
 title: "esclerosis múltiple (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about esclerosis múltiple (multiple sclerosis). 4 articles, 26 related drugs."
+description: "Health news about esclerosis múltiple (multiple sclerosis). 5 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 last_modified_at: 2026-11-05
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about esclerosis múltiple (multiple sclerosis)?">
-<strong>esclerosis múltiple (multiple sclerosis)</strong> currently has <strong>4 news articles</strong> and 26 related drugs.
+<strong>esclerosis múltiple (multiple sclerosis)</strong> currently has <strong>5 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,15 @@ This page brings together the latest health news about “esclerosis múltiple�
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Los probióticos pueden ayudar a reducir la fatiga y el dolor en personas con esclerosis múltiple - Malaga Actualidad](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNekFnN3V5MFAxX3R3N2dmU3JmT3RKazhtRV80NGFzbWxwX0hkVmxCTGpQS1Byc1FXWWtSNXY4UFFlZjNacWd0b1VEWF9PcU04RHNMd1pmY1hVM0pxMnphODZ3ZlJlTGdqX1V0eVFfVHYyUnJtal9qaVBrZ2JKdTlFSGs5Ni1wLVN5VEQzUFQyNVh2azd5cGhVZHdiS3pyTkt6Ql9vSVdsZy12RXlXY3R3N1B0MENZZkRiNXlpUm5tTXdOV3dUcHBjaW5KQWJ5ckRPU1p3?oc=5)
+
+2026-11-05
+
+Source: [Malaga Actualidad](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNekFnN3V5MFAxX3R3N2dmU3JmT3RKazhtRV80NGFzbWxwX0hkVmxCTGpQS1Byc1FXWWtSNXY4UFFlZjNacWd0b1VEWF9PcU04RHNMd1pmY1hVM0pxMnphODZ3ZlJlTGdqX1V0eVFfVHYyUnJtal9qaVBrZ2JKdTlFSGs5Ni1wLVN5VEQzUFQyNVh2azd5cGhVZHdiS3pyTkt6Ql9vSVdsZy12RXlXY3R3N1B0MENZZkRiNXlpUm5tTXdOV3dUcHBjaW5KQWJ5ckRPU1p3?oc=5)
+
+---
 
 ### [Los probióticos pueden ayudar a reducir la fatiga, el dolor y la inflamación de la esclerosis múltiple - Cadena SER](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSjdZZThWRXU0Mm5BdG51bEQxaEM1TTFoYmo1Uml5TDZscE9nUkFmSUwyazhUUGNlUFJCLXpnYUtJOE11TnI4Vjk0UE9MRk41UExVV2xZQzNqaVJwbzMtTXR0aW5RNjZJdkNUM0hieThHdmk2cFJtS0V6elFjeDh0b1U1RDhDLXg3RmIxaXNkMnBSTkFEMXpVVm9pZ25ITDkyUmI1N2M1VVF2ZzJoR1RGb0lOZ1ltX2ZFdXdVbm9lYWFYWmktejBkcTdhcFJvS05qeEhVWW5rN0tUb1JleW52bFZJTTRDRUM3RER6NdIBgAJBVV95cUxPdEdCY2FKMHN4elBSRzU5VU5IVUlROVNxZTBOY09nWldyYWNSbnRHTUo3VnliWGF6aERLR1ppVU1zS2JyY2Z0bTl0cy12XzNBY09FbFdUaFh3cHhabW1UUDlZb1R2TE1FTjQ0Skc1bHlYRHU4R0pVMFZvaEdtV0Y5T0FndHRvU2ExN21fSUpQNk50Yno5YmFxa0VFdm56Z3kyQUJnU0lKa3FfMHBSUkFnMUJGYlFNWTVNVTI5RDZqdzNabXo3NlhKTFBWbEF2aDZFVXR6OVQxLXdnYTBTdTRld1BVdy0yNmFuNjNfb09ta2lHZEhna1ZiaTZ3dXRNOEo0?oc=5)
 

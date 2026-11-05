@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Lixisenatide?">
-<strong>Lixisenatide</strong> currently has <strong>45 news articles</strong>, with 0 predicted indications.
+<strong>Lixisenatide</strong> currently has <strong>48 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,31 @@ This page combines the AI-predicted indications for Lixisenatide with the latest
 <p><a href="{{ '/drugs/lixisenatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (45)
+## Related News (48)
+
+### [Diabetes: Neues Implantat wirkt schon nach einer Stunde – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBhYm5WOWMwbjRuX1p1MXBIeG9uSXJTenhMUXRJRjU3MVQ0X2xOVS0xVnR5UHl4ZGl3eVg1MmJqbjRma0NzSlJlR0RuU1NSaUhVcEZMdk1iMklqalIxSzJYVGJUaFZEMXZyRzRjQ2p4ejdxY041NVVpMXhiYXk1SnlLb1NacVI4OXZ0RlYzUy1peXFaNWxOcEl1MFRiSFZSc0FTcTRXZTl3Vnh2bzJPTG92R0Q5c1VJVlVWZGl3RDFOdFBIMWlrUkVrV1Z1SzlYQldtRENCdGg3RE5NOA?oc=5)
+
+2026-11-05 <span class="news-indication-tag">diabetes</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBhYm5WOWMwbjRuX1p1MXBIeG9uSXJTenhMUXRJRjU3MVQ0X2xOVS0xVnR5UHl4ZGl3eVg1MmJqbjRma0NzSlJlR0RuU1NSaUhVcEZMdk1iMklqalIxSzJYVGJUaFZEMXZyRzRjQ2p4ejdxY041NVVpMXhiYXk1SnlLb1NacVI4OXZ0RlYzUy1peXFaNWxOcEl1MFRiSFZSc0FTcTRXZTl3Vnh2bzJPTG92R0Q5c1VJVlVWZGl3RDFOdFBIMWlrUkVrV1Z1SzlYQldtRENCdGg3RE5NOA?oc=5)
+
+---
+
+### [Diabete, il cromo negli alimenti potrebbe avere effetti diversi secondo il DNA](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQlN4UUozZk9nZFg2djNtcVlha3Y5YVlwdlhoU3JpSkNMLWctY2REQWI4d0RpOTBKeVZybERiODJJaDJMeW8zTFRfeUF3ZFBBeXRmYXRTMmtGNUdlVFJoMWRfcWcxbDBEVXdmcVVqM3dwTmlvbDZtV2JqTkNBbnBGQ0hmc2Q2UzlzNFc0MGRiSllnd3pyT2RoajZFd2h6Y2xSZGp4WEZLRUZUSjRxeTRldnRDYkxLTHFIZjdreXlsWG5aQzNzOFJlNldrZDhxYlk1aGY0?oc=5)
+
+2026-11-05 <span class="news-indication-tag">diabete</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQlN4UUozZk9nZFg2djNtcVlha3Y5YVlwdlhoU3JpSkNMLWctY2REQWI4d0RpOTBKeVZybERiODJJaDJMeW8zTFRfeUF3ZFBBeXRmYXRTMmtGNUdlVFJoMWRfcWcxbDBEVXdmcVVqM3dwTmlvbDZtV2JqTkNBbnBGQ0hmc2Q2UzlzNFc0MGRiSllnd3pyT2RoajZFd2h6Y2xSZGp4WEZLRUZUSjRxeTRldnRDYkxLTHFIZjdreXlsWG5aQzNzOFJlNldrZDhxYlk1aGY0?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Strenge Diät und Training führen bei 54 Prozent zur Remission](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeHVERFh6X21KREFuQUZOUXdtc0lNdlVlem9oTWMyVm1ydnJwZktuUi1SZ1NWeV92OTlycW5mWUdNXzMwNlRrTldsamV5SXoxVWJ6Q0o1RGdzRXhQVEVjMDQ3U2I4S215U0JPYVhVWmdxMXprTmJUcEYzb0FnbVo0YXhsMkZ6VUNyUVMydEpXc2Y5QVhtUUk1WnV5WHliWm9XR0NjVExhQXZwYUl1RWR0QTBFR1B6cWpsTzdTUFZNWHhtODJncHc?oc=5)
+
+2026-11-05 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeHVERFh6X21KREFuQUZOUXdtc0lNdlVlem9oTWMyVm1ydnJwZktuUi1SZ1NWeV92OTlycW5mWUdNXzMwNlRrTldsamV5SXoxVWJ6Q0o1RGdzRXhQVEVjMDQ3U2I4S215U0JPYVhVWmdxMXprTmJUcEYzb0FnbVo0YXhsMkZ6VUNyUVMydEpXc2Y5QVhtUUk1WnV5WHliWm9XR0NjVExhQXZwYUl1RWR0QTBFR1B6cWpsTzdTUFZNWHhtODJncHc?oc=5)
+
+---
 
 ### [Diabetes und Gürtelrose: Erkrankungsrisiko steigt um bis zu 45 Prozent](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUl1cDlsOGZvclNMQnlSU0tVclR5SDlaV2s3Q1ZseDJkWEdZTVhMVjhvV1hVUjNHZFhUdWNjZjVOaDNJQk0yZkd2OFFWY0xtczZNc3RHRkZuWkxYc01maHJfOC1fNEsyYXNGNERZbzNIWHphUm1VeDlZMkJ2TVpqT0ZReXVaVm1ndUlWZV82bG9oYlRUWXNfNGhMb0ZrWmZBX0I2VVgyeEVERUo3UWpzM1ZmeHdpZmhDS2F3?oc=5)
 

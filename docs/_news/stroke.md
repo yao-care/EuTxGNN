@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Schlaganfall (stroke) News"
+title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 46 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 51 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-05
 ---
 
-# Schlaganfall (stroke) News
+# ictus (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>46 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about ictus (stroke)?">
+<strong>ictus (stroke)</strong> currently has <strong>51 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,39 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (46)
+## Related News (51)
+
+### [Desarrollan una estrategia con IA para prevenir el ictus en mujeres mayores](https://news.google.com/rss/articles/CBMizgFBVV95cUxQcXZFRUJTQkJqd25EcWE1ZFpULUcxWGw3ZWJKVWl1cVV6RHRCaXVlUHdOUHV0c2t4X2pfOXFLZ01zTnZzZmpVajd1ZjMwSndCb2FzMk5VMzBrbDBKYWpJRm80TDFxdXpPRjRKLVFiaWEzQjYzTDAyaGNjZW5heDhjY29DVjVia0xxWkFleUh0UEtwSGJKS3ZXYzVLMWc1cTQ3dU9XOVYzZ0NiYXlYQWpjWWpaYkRXclFfNGdhLXRGckFTQi1vd0Z3VmpxZnRhQQ?oc=5)
+
+2026-11-05
+
+Source: [Telecinco](https://news.google.com/rss/articles/CBMizgFBVV95cUxQcXZFRUJTQkJqd25EcWE1ZFpULUcxWGw3ZWJKVWl1cVV6RHRCaXVlUHdOUHV0c2t4X2pfOXFLZ01zTnZzZmpVajd1ZjMwSndCb2FzMk5VMzBrbDBKYWpJRm80TDFxdXpPRjRKLVFiaWEzQjYzTDAyaGNjZW5heDhjY29DVjVia0xxWkFleUh0UEtwSGJKS3ZXYzVLMWc1cTQ3dU9XOVYzZ0NiYXlYQWpjWWpaYkRXclFfNGdhLXRGckFTQi1vd0Z3VmpxZnRhQQ?oc=5)
+
+---
+
+### [Ictus, in Italia 100mila casi: come si può riconoscere tempestivamente? - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU0NJb2JlSTc0Z21vd3RRMlJad1kzeEJyb29QSFFPM3NTcEJSaGJWZm9VM3RoWGpvMER4eGhiMUE4SjJaR2VTeEdaYzhRLUZGd29sN2hxT0RsSUppc1ItN0FyUlFUa1VmZGlpMmJGdVZGQmlHYk03RGFaVnkyMzlMV2lRbkx3cFJSRzMwM1pNeTRJSF8tTGk0OTI4Rkt2eGhyVVVNU2VkVkRmSFZmMXVJVVBVSTM1dHdRQUpfWTIyOXQ3TFVlXy1LbjhOSXd2aDlBd2hDLWtia0tuZVlKVFJmb1d6dnVJVkN5RGxj0gHGAUFVX3lxTFBSMEJzSTFqMlNHQ0hjUzlBYUpBZDBld3hQYk5Xc3l4Qi1TTzQ2ZENVOE5tUmlJN0xwS3VKeWxYcUktN2lEVEJlSEc5dElLTTE2dF94bVFONHdWakw0ZWltMEpxbUlnYjl5M0U5TTZXV0pFQi1SNHRUM0JzQlFQQjlLMnljWktweXJxZFlaSk42Rk1jTmpJMGNJZldKT0dIampKckVWNUFDR2hXck9rTG53RzBtYm1YYjV5S3RvVlMzUFlfaEhWZw?oc=5)
+
+2026-11-05
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU0NJb2JlSTc0Z21vd3RRMlJad1kzeEJyb29QSFFPM3NTcEJSaGJWZm9VM3RoWGpvMER4eGhiMUE4SjJaR2VTeEdaYzhRLUZGd29sN2hxT0RsSUppc1ItN0FyUlFUa1VmZGlpMmJGdVZGQmlHYk03RGFaVnkyMzlMV2lRbkx3cFJSRzMwM1pNeTRJSF8tTGk0OTI4Rkt2eGhyVVVNU2VkVkRmSFZmMXVJVVBVSTM1dHdRQUpfWTIyOXQ3TFVlXy1LbjhOSXd2aDlBd2hDLWtia0tuZVlKVFJmb1d6dnVJVkN5RGxj0gHGAUFVX3lxTFBSMEJzSTFqMlNHQ0hjUzlBYUpBZDBld3hQYk5Xc3l4Qi1TTzQ2ZENVOE5tUmlJN0xwS3VKeWxYcUktN2lEVEJlSEc5dElLTTE2dF94bVFONHdWakw0ZWltMEpxbUlnYjl5M0U5TTZXV0pFQi1SNHRUM0JzQlFQQjlLMnljWktweXJxZFlaSk42Rk1jTmpJMGNJZldKT0dIampKckVWNUFDR2hXck9rTG53RzBtYm1YYjV5S3RvVlMzUFlfaEhWZw?oc=5)
+
+---
+
+### [Neuroimmunologie: Schlaganfall verändert das Immunsystem langfristig](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWdpQzFkVnNnVDhFRmpocmNOdWRyNzFQWFUxYTNwb2RfOC12X2l4UGFYSERqN3FXdGJLTXU4a1pqU3JUNGo1ZEhjWEVLT1BwWU9NMGZ6dnd5UllSeVNHdTV5Q0gtTDVHbENVX3VvNXc1VGZVVFVMLWNwWTRmV2NqaGVZOEttOG8y?oc=5)
+
+2026-11-05
+
+Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWdpQzFkVnNnVDhFRmpocmNOdWRyNzFQWFUxYTNwb2RfOC12X2l4UGFYSERqN3FXdGJLTXU4a1pqU3JUNGo1ZEhjWEVLT1BwWU9NMGZ6dnd5UllSeVNHdTV5Q0gtTDVHbENVX3VvNXc1VGZVVFVMLWNwWTRmV2NqaGVZOEttOG8y?oc=5)
+
+---
+
+### ["Mi hígado dijo hasta aquí he llegado": así es la enfermedad silenciosa que puede acabar en cáncer y con necesidad de un trasplante - Andalucía Información](https://news.google.com/rss/articles/CBMimAJBVV95cUxPd1Z3UHAyT0dwQURzNUV5U0ZKbGltZFlvTVVMZjlIR2xTYU9Cb1pvSnMwRjFSaEY1dGdibDQxNmJDQ2ZJZWd1cDZoMjdTQUFWSFQ3b0JoalQtak5Hdjd0dWV5Y0VRUFpPSkhiVDhyS0sxRzZReUEydjJEUF9BVVMybnhZTUlETFhHNE1SWjJndXJTeDVVVzJic0lNUGl0d1FqZDY4blAteHRNb2tJR1ZXaFBOZUFXcEpxMUdURkEzZDMwMzR2cmh0UjVUbmRNc21MQnZKRjdqWHV6NVBwT2taVmY2NjRpSWp3SUxTcXNyNDNYS1Raa3R5bmJhOGF0eE40ZXV4YngyVm5xRkNTQlg5NjVPcWFDUm1I0gGeAkFVX3lxTE4tVERLVko0YWFNajNPeGVERThqRHp1RTFGd0lnRWY4UE9vbDZsa19MSFdZZ1M1RzU4ZnE1aTAwcWRfMm5fVU01YnNFYVFmdW9TQlV2NU95RHM3bmttZE5IbjUzeE9QZkJKdU1RYnVBQ25XeW9qREU0eDhzc0ctR2l0dWdhVFFjUGg5dUt0dEJoeDU5SEMzalhwT3JnYUhIdXlRSV8zZzlESWR1NE5lbWVyUXB6cVQtM2NQcDZfUXphbGpMTzBhUlVUcVF4UUVudVBJbVgyUTBQbHBYUGtpZ2RJdWJyTGN0VUM3UEp0VF9yYnQ2ZlQyaktya2NkcW5zUm10Y0lRcXpRNjViODlJUGJRTFVSQmJ2VWJBRElSaHc?oc=5)
+
+2026-11-05
+
+Source: [Andalucía Información](https://news.google.com/rss/articles/CBMimAJBVV95cUxPd1Z3UHAyT0dwQURzNUV5U0ZKbGltZFlvTVVMZjlIR2xTYU9Cb1pvSnMwRjFSaEY1dGdibDQxNmJDQ2ZJZWd1cDZoMjdTQUFWSFQ3b0JoalQtak5Hdjd0dWV5Y0VRUFpPSkhiVDhyS0sxRzZReUEydjJEUF9BVVMybnhZTUlETFhHNE1SWjJndXJTeDVVVzJic0lNUGl0d1FqZDY4blAteHRNb2tJR1ZXaFBOZUFXcEpxMUdURkEzZDMwMzR2cmh0UjVUbmRNc21MQnZKRjdqWHV6NVBwT2taVmY2NjRpSWp3SUxTcXNyNDNYS1Raa3R5bmJhOGF0eE40ZXV4YngyVm5xRkNTQlg5NjVPcWFDUm1I0gGeAkFVX3lxTE4tVERLVko0YWFNajNPeGVERThqRHp1RTFGd0lnRWY4UE9vbDZsa19MSFdZZ1M1RzU4ZnE1aTAwcWRfMm5fVU01YnNFYVFmdW9TQlV2NU95RHM3bmttZE5IbjUzeE9QZkJKdU1RYnVBQ25XeW9qREU0eDhzc0ctR2l0dWdhVFFjUGg5dUt0dEJoeDU5SEMzalhwT3JnYUhIdXlRSV8zZzlESWR1NE5lbWVyUXB6cVQtM2NQcDZfUXphbGpMTzBhUlVUcVF4UUVudVBJbVgyUTBQbHBYUGtpZ2RJdWJyTGN0VUM3UEp0VF9yYnQ2ZlQyaktya2NkcW5zUm10Y0lRcXpRNjViODlJUGJRTFVSQmJ2VWJBRElSaHc?oc=5)
+
+---
 
 ### [Goole mum raises awareness over her newborn baby's stroke](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhRFQ4cjhybFpmMklwUWJicm5VNlRYelpFcWVJd2VfcW5tejl2S0NIcTBPWUdvd3EzVGZTU3FiNExUd1hrSVRUeUZFV3U2TDFsSDJPM1NnSDFNZHVvR1E?oc=5)
 
@@ -61,6 +93,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2tzS
 
 ---
 
+### [Zweiten Schlaganfall vorbeugen: Diese Medikamente empfiehlt ein Neurologe - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUVFKZUNJNVFnY3JTcWdMSmVVbEN5eUZOdzlaeUtQSGRaTEROeTZXbTB6Y09XUTB6NGxDd2s4UFFpRmJEUTdkSTY3dXNwblNlX2dxZlVRbGdKN3Zob05QcHNKM0RfUkxWWkFuNXc2WGtGRV9xLXlUMVBtajdjLTFDMnpvbU9IRkpZZlJZMW5fSXozTjJUcjhYU2RmQkZWajZueEVZTTFUblVfYktvQlVETVF0VlVsNVZNVU5wRVdwM2FNMUdXTWhGZWlVcXBzYlFqZFpjRHkzM3VHYTZZLVZTc1VlWkJBbk9V?oc=5)
+
+2026-11-04
+
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUVFKZUNJNVFnY3JTcWdMSmVVbEN5eUZOdzlaeUtQSGRaTEROeTZXbTB6Y09XUTB6NGxDd2s4UFFpRmJEUTdkSTY3dXNwblNlX2dxZlVRbGdKN3Zob05QcHNKM0RfUkxWWkFuNXc2WGtGRV9xLXlUMVBtajdjLTFDMnpvbU9IRkpZZlJZMW5fSXozTjJUcjhYU2RmQkZWajZueEVZTTFUblVfYktvQlVETVF0VlVsNVZNVU5wRVdwM2FNMUdXTWhGZWlVcXBzYlFqZFpjRHkzM3VHYTZZLVZTc1VlWkJBbk9V?oc=5)
+
+---
+
 ### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
 2026-11-04
@@ -74,14 +114,6 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc
 2026-11-04
 
 Source: [il Giornale](https://news.google.com/rss/articles/CBMiuAJBVV95cUxON2xOb0QzTWdrcEZ4N3VXREZiMGF6bC1iaTRWR01BMnRwenJVZzRGNHhVTzl3ZlI3NEQzbWpKNW5HNlBDTnE2WTRFeE1IRnRMOGJKMXVQTnhQZFBsaHBNbEN0dU5rc3J1azNSV3R3Q0VmWTdLOVl6ZVllUXJGcXpVWU1tdFJjdElxOW5UZFBGa1h0MUxUbU5tYXVYRXc2WVlfUzVvOGRPOGJWTkkxQ3U2X0owb0ZIUzQ0NEEwTGg1VjVkRXJOeTFwaWxMeXB6bmFlMFVqcjJud19aaWxuYjYwSXQtV2JsTExoVE9odUNmckRaYlFKd0ZaSTk1a1lPaC1RWDBSRUxCNU05SVprUFRjRzVjWVFHWl9mR2VYV0ZyZjU2cW5OZ3JmUjdhaGdZakdXd1VNMElOY00?oc=5)
-
----
-
-### [Trévenans. Journée de dépistage de l’hypertension artérielle : « Un tiers des patients ne savent pas qu’ils en ont » - L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3FpQmMzSnBlQlBRZHJ6d1FmcnhfWU9fU1NKcnBUcDA3ampUZTItMGVZMjA0NHdaUmdwQTRuYmdfVFJlSnFzT0J4SVV0cHVfSGliT2pjSGhhdXV3eU0wc08wNkkyMjBUZ1NOY29xS1NlNEZLYm1rQm9UZ1RCNl9hSFprX1FFUDBFdnJXMTZVY0liM04tRXVGODJYenVHLTZ3am1KY2dKRFlETVpJaXpTMmNEYlpOSm82UWpfN01CTnd2QVNsbjV2NEdZTDJ5MFE1akFENjRoYW92M2JXRmI4?oc=5)
-
-2026-11-04
-
-Source: [L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3FpQmMzSnBlQlBRZHJ6d1FmcnhfWU9fU1NKcnBUcDA3ampUZTItMGVZMjA0NHdaUmdwQTRuYmdfVFJlSnFzT0J4SVV0cHVfSGliT2pjSGhhdXV3eU0wc08wNkkyMjBUZ1NOY29xS1NlNEZLYm1rQm9UZ1RCNl9hSFprX1FFUDBFdnJXMTZVY0liM04tRXVGODJYenVHLTZ3am1KY2dKRFlETVpJaXpTMmNEYlpOSm82UWpfN01CTnd2QVNsbjV2NEdZTDJ5MFE1akFENjRoYW92M2JXRmI4?oc=5)
 
 ---
 
@@ -154,6 +186,14 @@ Source: [Diario AS](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLXpXV0V
 2026-11-03
 
 Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQjlETENCOWdpMkNkN1pTVjdPQ1diaEkwZThYLWFySEYxQTVVZkJCdEg5Rnp0Y0t0bWFBUk5QVnRqbmNWM2ROTzNDM1o0UGU5Sy03aFBiTXFNRDRyWl8tS2xZOURCSzg4V2NGenFfVnV2X3V6NFNISnhERVM2enFEa1lIUnJMdnA1dUdrMV9jZ2xuZmJDbWpQQWFYblEybEw4RWJ1dUFJZGxlUDdqLWVUMkxxVExyVHdWRWsw?oc=5)
+
+---
+
+### [The Best Time to Go to Bed to Reduce Blood Pressure](https://news.google.com/rss/articles/CBMifEFVX3lxTFBfMWxQOVRUWEZWQ24wUXNOaEhteHB3Q0NnXzZKQ2RIMjdZUnZJWWxMSm5QM1BocVcyN1FEWE9CcXBPZ0VLOVFtZHhJNFJkRkYtUk1ZSlp6STQ0cTBmd3hfS0MxWUgwOHVfTVF4OHhodTlMWFRES28yTWhZUDQ?oc=5)
+
+2026-11-03
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMifEFVX3lxTFBfMWxQOVRUWEZWQ24wUXNOaEhteHB3Q0NnXzZKQ2RIMjdZUnZJWWxMSm5QM1BocVcyN1FEWE9CcXBPZ0VLOVFtZHhJNFJkRkYtUk1ZSlp6STQ0cTBmd3hfS0MxWUgwOHVfTVF4OHhodTlMWFRES28yTWhZUDQ?oc=5)
 
 ---
 

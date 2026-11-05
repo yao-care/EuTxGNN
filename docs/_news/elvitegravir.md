@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Elvitegravir. 3 predicted indications."
 permalink: /news/elvitegravir/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-05
 ---
 
 # Elvitegravir News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Elvitegravir?">
-<strong>Elvitegravir</strong> currently has <strong>1 news articles</strong>, with 3 predicted indications.
+<strong>Elvitegravir</strong> currently has <strong>2 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Elvitegravir with the latest
 <p><a href="{{ '/drugs/elvitegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies - Al Jazeera](https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1laRGZHY1N5OGs3Y1NVcDFzcFk1UVh5WlpSbllkaDZXSUE4TkQtY1lrM05PcVVhWjg4UlpWSjVJbGRwd0JHZnhaVkNPenpCX2lfUmFkTFVCY3B4NWdHdDFSTmJyeXhUZmduTzhRR21Ybmx0MllsODUzcjBlZHpZSnU4bGRGWFYtbDh5WDVIbVpqbHhVbW1LZlZpM2JPRDJpZ1FVT3IzTnp4YzVQVjRsb1pWOU4zelXSAbwBQVVfeXFMTnBNNVFHUFBrSGlHSjg1cjBYY09CTnJLa0tNRGpib3ZlTkM5ZEtia3dZbVFQcHJUa3J3dzZnU2k3cjdsR2puOVBXT3hnWHplcHN4OThuRm5JSUtWSE9maGxMckVFb1hrc3kxaXR3OTRoRnB6X2hlV3Z3aTRkdWVKbkZvTGRJMEhxWE5UX0FaSjI5cEdLc2tadkwzN29QeVJzQ2dnNGF3eGYwNVN3ZlFMaVItUUttWFRxTUdIYVE?oc=5)
+
+2026-11-05 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Al Jazeera](https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1laRGZHY1N5OGs3Y1NVcDFzcFk1UVh5WlpSbllkaDZXSUE4TkQtY1lrM05PcVVhWjg4UlpWSjVJbGRwd0JHZnhaVkNPenpCX2lfUmFkTFVCY3B4NWdHdDFSTmJyeXhUZmduTzhRR21Ybmx0MllsODUzcjBlZHpZSnU4bGRGWFYtbDh5WDVIbVpqbHhVbW1LZlZpM2JPRDJpZ1FVT3IzTnp4YzVQVjRsb1pWOU4zelXSAbwBQVVfeXFMTnBNNVFHUFBrSGlHSjg1cjBYY09CTnJLa0tNRGpib3ZlTkM5ZEtia3dZbVFQcHJUa3J3dzZnU2k3cjdsR2puOVBXT3hnWHplcHN4OThuRm5JSUtWSE9maGxMckVFb1hrc3kxaXR3OTRoRnB6X2hlV3Z3aTRkdWVKbkZvTGRJMEhxWE5UX0FaSjI5cEdLc2tadkwzN29QeVJzQ2dnNGF3eGYwNVN3ZlFMaVItUUttWFRxTUdIYVE?oc=5)
+
+---
 
 ### [Centre dentaire suspendu à Orléans : des dépistages des virus du VIH et des hépatites B et C recommandés pour 500 patients - La République du Centre](https://news.google.com/rss/articles/CBMihwJBVV95cUxQRms3Z1BVSEVrMjFIRGdhb2gxZ1VRRjhNZmNGY1hzMnZhdlB3Y2lGUmg1VWhqU0lVZUJ0bTVPWnVBd2Z2d1ZQaGRwZkFxd0lIWENkNFhqdW1jLWhyWktSbEszZkk2X1laMkpQNFhEbzJqRjZRbDJZYlRhOFRVWWM0V1FDOTlOZUV4QS1lVW04VVRLWUUwYzNDTkdIOGd4MnA5U0pGMnpTMnlKY2tMZlBoNGdyaGJJMzdSQVBVSHVSOHVBdlc3Q1ZnQjlpd2pJUDVFQkpraHlQd2w4dlIwaGJybXkwT2gzVjR3Z2tobnVsZllLT0cyWGhNbkRFeFZ3SVlkN0RQQWFJbw?oc=5)
 
