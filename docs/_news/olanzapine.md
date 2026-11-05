@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>18 news articles</strong>, with 2 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>17 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,7 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
-
-### [Early Rhythm Control May Cut Recurrent Stroke Risk in AF](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
-
-2026-11-04 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
-
----
+## Related News (17)
 
 ### [Dépression résistante : un spray nasal psychédélique à l’essai](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEZpWlF6Ykt1LVpfVlpGZ2d0SlVscFRVeWNjeHd4dkhHci1zU3pBQmpEQVB4ZVR3WFpjcjBKSWc4dy1XQk5BdXI1LV9Xd3BydG1FaUV3QU1jN3JsRTd1bFQ0NjQ0VVVsREZFY1l0Yk8zY0Iza3d3N2Y2bVVoQzF2OEpR?oc=5)
 

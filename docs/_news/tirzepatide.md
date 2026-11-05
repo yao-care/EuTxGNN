@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>13 news articles</strong>, with 0 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>11 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,7 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
-
-### [Prädiabetes: Abnehmspritzen mit 31 Prozent geringerem Diabetesrisiko verbunden](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
-
-2026-11-04 <span class="news-indication-tag">diabetes</span> <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Tirzepatide</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
-
----
+## Related News (11)
 
 ### [Partizipative Therapieentscheidung bei rheumatoider Arthritis: weniger Nebenwirkungen - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
 
@@ -53,14 +45,6 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXM
 2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMidEFVX3lxTE1aQnJVXzhaRjA2NGY4dWwweHVuSzJzaGhDNmNwM0NSb2lGbG9Ua1ZKbmtyTXU2MlhhbzllLWZ0OXh0czJwMEJOUzhFUTVrb05MeHBCZUZaR1FVWW92SDR1M244Sk5YMUNob1NjeWhFZE16QkZu?oc=5)
-
----
-
-### [Adipositas: DDG fordert Kostenübernahme für Abnehm-Medikamente](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
-
-2026-11-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-drug-tag">Tirzepatide</span>
-
-Source: [AOK](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Trastuzumab Deruxtecan. 1 predicted indications."
 permalink: /news/trastuzumab-deruxtecan/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Trastuzumab Deruxtecan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Trastuzumab Deruxtecan?">
-<strong>Trastuzumab Deruxtecan</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Trastuzumab Deruxtecan</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,21 @@ This page combines the AI-predicted indications for Trastuzumab Deruxtecan with 
 
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Europa aprueba un nuevo medicamento para un subtipo agresivo de cáncer de mama - Redacción médica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPanV1UmlQUmd2amFDRkRZYnRBUVpzVFdJcXVKZ0NZZ29RdC1ienY2b096bFpUSWNWTmZWOEYtdVZxeVZSVDJMc0w4cFB0c05ONmpockU4N3I4NnBQeklMQ2YzM2xiX0pHNmVKUm5OeC1hUkd2WmxxQmhtUHdVVE45c0dyM09SQ1QwZ1RJcVhzNmN2eFpMbTQ0NEVRYjJBa1FRWUY5a0NLU1ptVUl5ZnlqZzFXVDduemstWHphN25WT1BCZkhDemJZdTFvNHh6QXE1M192ZzhFakU2dHF5Zkdn0gHkAUFVX3lxTE9qZlNBN2ttcm9fbGhyTWlHV2NRUEd5RlF2U0pTdVBQWGNMd2tWV0pieE16azFGY2tTZWZaNG5hUWRjOTdBTHdwaWtNdGk2eFZWbW9TdFVCMVJSVGp4YkJDN0ZYbHVmZ1NGVUlUUHZXa3RwQmoxcG53Z2ppWjF0QzZ4N2xLdEZtNDZhVHZrN2hITjdmZjQ2VFliQ1NZVG1uQ0Rkb3dValV0bXZPODhKak1rM2g3eTFIb19RTnd5anM1SXpnam81NlhDUlc5OThqM0c3bG1hd0lXcnlHNlpZU3gzcXNQaQ?oc=5)
 
 2026-11-04 <span class="news-drug-tag">Trastuzumab</span> <span class="news-drug-tag">Trastuzumab Deruxtecan</span>
 
 Source: [Redacción médica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPanV1UmlQUmd2amFDRkRZYnRBUVpzVFdJcXVKZ0NZZ29RdC1ienY2b096bFpUSWNWTmZWOEYtdVZxeVZSVDJMc0w4cFB0c05ONmpockU4N3I4NnBQeklMQ2YzM2xiX0pHNmVKUm5OeC1hUkd2WmxxQmhtUHdVVE45c0dyM09SQ1QwZ1RJcVhzNmN2eFpMbTQ0NEVRYjJBa1FRWUY5a0NLU1ptVUl5ZnlqZzFXVDduemstWHphN25WT1BCZkhDemJZdTFvNHh6QXE1M192ZzhFakU2dHF5Zkdn0gHkAUFVX3lxTE9qZlNBN2ttcm9fbGhyTWlHV2NRUEd5RlF2U0pTdVBQWGNMd2tWV0pieE16azFGY2tTZWZaNG5hUWRjOTdBTHdwaWtNdGk2eFZWbW9TdFVCMVJSVGp4YkJDN0ZYbHVmZ1NGVUlUUHZXa3RwQmoxcG53Z2ppWjF0QzZ4N2xLdEZtNDZhVHZrN2hITjdmZjQ2VFliQ1NZVG1uQ0Rkb3dValV0bXZPODhKak1rM2g3eTFIb19RTnd5anM1SXpnam81NlhDUlc5OThqM0c3bG1hd0lXcnlHNlpZU3gzcXNQaQ?oc=5)
+
+---
+
+### [La UE aprueba trastuzumab deruxtecán para el cáncer de mama HER2 positivo temprano con enfermedad residual - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWXVxUDZLNWctdmFVVkhMMzFRcV9UNzg4Y2ZlRUxoNGJCVV9WRTRqcy1sNzFYWHM3b2pQTXNuX0s5WEFpNWx1WUpLQ3pDclpGWkVJakJFZ0EyMVNWR2REdzU2QjZDcGU0YUg3R3ZQUTA5RVZHVEVQc1pteVY5RHRLYjJnSWFsNEMyM1lXMHFrR1loaGNaSFdib0ptTHVrejJzdlAyYi1GR0xnQzBpd3dRRmJJaS1IUUtjbjNJT01RSDfSAbsBQVVfeXFMTVJfem9OaTdYWW94clQwbFlPRklBZ3BoeHlJZFhmVi1JV3A3SXFtMnlaOFJJWnRkUWZRaHN4anZLYXJlRmdxRXk2WE15NXg1akppdkcxT3AwcTBBS0dPNWp0Nk9aV19kZUFMR09HTEZ4dXUzbjlYakk1b0d6Tlo3Rmh6VWNDUm5VZ0pwV3VPNGo1UTZXaktzeUd3bER4UHpvYmhZenRzQll3NVRoV2I1QlJ0cEJNYVJ5SEpqWQ?oc=5)
+
+2026-11-04 <span class="news-drug-tag">Trastuzumab</span> <span class="news-drug-tag">Trastuzumab Deruxtecan</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWXVxUDZLNWctdmFVVkhMMzFRcV9UNzg4Y2ZlRUxoNGJCVV9WRTRqcy1sNzFYWHM3b2pQTXNuX0s5WEFpNWx1WUpLQ3pDclpGWkVJakJFZ0EyMVNWR2REdzU2QjZDcGU0YUg3R3ZQUTA5RVZHVEVQc1pteVY5RHRLYjJnSWFsNEMyM1lXMHFrR1loaGNaSFdib0ptTHVrejJzdlAyYi1GR0xnQzBpd3dRRmJJaS1IUUtjbjNJT01RSDfSAbsBQVVfeXFMTVJfem9OaTdYWW94clQwbFlPRklBZ3BoeHlJZFhmVi1JV3A3SXFtMnlaOFJJWnRkUWZRaHN4anZLYXJlRmdxRXk2WE15NXg1akppdkcxT3AwcTBBS0dPNWp0Nk9aV19kZUFMR09HTEZ4dXUzbjlYakk1b0d6Tlo3Rmh6VWNDUm5VZ0pwV3VPNGo1UTZXaktzeUd3bER4UHpvYmhZenRzQll3NVRoV2I1QlJ0cEJNYVJ5SEpqWQ?oc=5)
 
 ---
 

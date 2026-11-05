@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
 
 ### [The 6 midlife symptoms of Alzheimer's that have nothing to do with memory as early-onset disease 'spreads faster' - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQR28ySy15RXM4akNYakFmbE1EUTZNUVRCbkFMeFdmVlpXNGdOMGQwQ3lRc0F1VHdqeV9tYVBvX0JqNlRsN2JTZGUzYndNQnJNYUR5djAtSDMtTHdpVXpScXNMYjRmTlRoVEgtR1hhWWRYMUhiNkhKVTk2dUJZUXBUaC04WGdEQXc?oc=5)
 
 2026-11-04 <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQR28ySy15RXM4akNYakFmbE1EUTZNUVRCbkFMeFdmVlpXNGdOMGQwQ3lRc0F1VHdqeV9tYVBvX0JqNlRsN2JTZGUzYndNQnJNYUR5djAtSDMtTHdpVXpScXNMYjRmTlRoVEgtR1hhWWRYMUhiNkhKVTk2dUJZUXBUaC04WGdEQXc?oc=5)
+
+---
+
+### [Alzheimer's symptom in your nose could start 'way before' memory loss - Liverpool Echo](https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1JMSU5IM3JLME51YTVIYjAxOU5xbkdDR0ZNT0M3LUZ4VV9faDl6SWVXUEszMHJDTm5jbDRRZHBJRDZ0bHZpcnhKQ1c5aTNndHMySjBQbVF3MFJJbGlGRzBfYlR3SFVkZnRGTXQ4cHZnSElNUm1YUzlUYVlFS2tXcVFKcGhPbTgwSEVSOGZUdVNUVGc2eUZ0YWJn0gGfAUFVX3lxTFBwSGJHR3B0WFJxRURNM1RCOXJTRzhrRFdEZzR1R1gxdnAzbWpnTU9IMTRibXRoeUhJQWxnU1VEbWtKelp1cVloRHBkb2haWTdwSDRROGFhdl80WjByd3locnREQ3lBdVE0M0Vhc3NYYjZHQmk2aW83VVNnWVBIQjI2TWxuTC1LSFdpVGRsR3RYZkdHcVcwcDdxWVZRM2pLMA?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Liverpool Echo](https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1JMSU5IM3JLME51YTVIYjAxOU5xbkdDR0ZNT0M3LUZ4VV9faDl6SWVXUEszMHJDTm5jbDRRZHBJRDZ0bHZpcnhKQ1c5aTNndHMySjBQbVF3MFJJbGlGRzBfYlR3SFVkZnRGTXQ4cHZnSElNUm1YUzlUYVlFS2tXcVFKcGhPbTgwSEVSOGZUdVNUVGc2eUZ0YWJn0gGfAUFVX3lxTFBwSGJHR3B0WFJxRURNM1RCOXJTRzhrRFdEZzR1R1gxdnAzbWpnTU9IMTRibXRoeUhJQWxnU1VEbWtKelp1cVloRHBkb2haWTdwSDRROGFhdl80WjByd3locnREQ3lBdVE0M0Vhc3NYYjZHQmk2aW83VVNnWVBIQjI2TWxuTC1LSFdpVGRsR3RYZkdHcVcwcDdxWVZRM2pLMA?oc=5)
 
 ---
 

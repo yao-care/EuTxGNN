@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Eflornithine?">
-<strong>Eflornithine</strong> currently has <strong>116 news articles</strong>, with 2 predicted indications.
+<strong>Eflornithine</strong> currently has <strong>119 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,31 @@ This page combines the AI-predicted indications for Eflornithine with the latest
 <p><a href="{{ '/drugs/eflornithine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (116)
+## Related News (119)
+
+### [Tumore del colon-retto nei giovani, scoperto un legame inatteso con la placenta](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRWtNSUE0cWFWS2VELWpGc2FsWmdDakpxVEEwRWRscGZWWmFSZ24zcVc5RFZ6MDVPdnctZ09rX3FTNFdnZ3lTQktFUVpJZnJoMXJITzMxZGg4QjZKbmRkVlR1SGNzUXotU2NTdXVhYnJVUXhncUwyVWl3LXpfR3NYM2thZVRRSDdyaXBVLWtOdnlGdjhaOEZKTUZNV1RMdTI1S1Q1TFhPZV9oeDdmSXBlRThWdi1kQ09kVW8zNGNTMW5qRFZrajVyN3ZMUjVtVDJpRVFLdA?oc=5)
+
+2026-11-05 <span class="news-indication-tag">tumor</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRWtNSUE0cWFWS2VELWpGc2FsWmdDakpxVEEwRWRscGZWWmFSZ24zcVc5RFZ6MDVPdnctZ09rX3FTNFdnZ3lTQktFUVpJZnJoMXJITzMxZGg4QjZKbmRkVlR1SGNzUXotU2NTdXVhYnJVUXhncUwyVWl3LXpfR3NYM2thZVRRSDdyaXBVLWtOdnlGdjhaOEZKTUZNV1RMdTI1S1Q1TFhPZV9oeDdmSXBlRThWdi1kQ09kVW8zNGNTMW5qRFZrajVyN3ZMUjVtVDJpRVFLdA?oc=5)
+
+---
+
+### [Sterbezahlen bei Gebärmutterhalskrebs könnten stark steigen](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGtRcFZfdEtBd1FaSm4ybXNiQTFhNzlDLTUzYjdzaFl3dzRGOXBDajlPczVZc0xyYWIzY2hMTXM0cmp3UFYtZVdQS1AtNWthMXo5RzY1MDBuWkFmRmRrQ0RvRjF2NlFHMmllZXhCU1BqYS10RnpZbUpMd0RxMnNvbzRHQnVPUEp3UDh0NA?oc=5)
+
+2026-11-05 <span class="news-indication-tag">Krebs</span>
+
+Source: [WEB.DE](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGtRcFZfdEtBd1FaSm4ybXNiQTFhNzlDLTUzYjdzaFl3dzRGOXBDajlPczVZc0xyYWIzY2hMTXM0cmp3UFYtZVdQS1AtNWthMXo5RzY1MDBuWkFmRmRrQ0RvRjF2NlFHMmllZXhCU1BqYS10RnpZbUpMd0RxMnNvbzRHQnVPUEp3UDh0NA?oc=5)
+
+---
+
+### [Silice : 365 000 salariés obtiennent une présomption légale pour le cancer du poumon](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaDdjT0xKQzM2V05aOUNvNm1WQXJrMzN5WkFwOHZwZXlnYXl3QnRnc2NvdmV4VkFycFMzbHcyNEFSWGZSYVoyNXFxdGZ4blA1eTcxWDloNjVaa3N3LUotTUVEVzlwTTRBZTRXdVJObTFxR2hCR29Rc3l6REZxMnpPbUNYMVd1YWRYYTdaYzJPMzMtUzZWTzJfa1Q1UkRqR2lTYUtCQ1RsQndxQl9NdnR1NWxR?oc=5)
+
+2026-11-05 <span class="news-indication-tag">cancer</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaDdjT0xKQzM2V05aOUNvNm1WQXJrMzN5WkFwOHZwZXlnYXl3QnRnc2NvdmV4VkFycFMzbHcyNEFSWGZSYVoyNXFxdGZ4blA1eTcxWDloNjVaa3N3LUotTUVEVzlwTTRBZTRXdVJObTFxR2hCR29Rc3l6REZxMnpPbUNYMVd1YWRYYTdaYzJPMzMtUzZWTzJfa1Q1UkRqR2lTYUtCQ1RsQndxQl9NdnR1NWxR?oc=5)
+
+---
 
 ### [Doctors in England launch primary-care trial of blood tests for spotting cancer early](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
 
@@ -84,6 +108,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVU1rT2
 
 ---
 
+### [Moderate drinking carries health risks even within UK alcohol guidelines - The Conversation](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTlOQU1BLTEwN2pCMUMteGJIMXpMdHpwVzJJWm9Dd2U4V3dVelFTQ0RrOHJDcjQ2QnZmUDllcmJFeEY5MzlfNGxNOXVuNFZKUUdBcy1zVEl6X21JdXRSS2gxT3BiT3Z2cElnYU1QLWFLbkFOM1prNmdkRlBwTWx5bEJST2NuWE5ROTJ3aE9FWXRJemt0Uk5wU1k0endjYTdnRG9icFByQWR1MkU?oc=5)
+
+2026-11-04 <span class="news-indication-tag">cancer</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTlOQU1BLTEwN2pCMUMteGJIMXpMdHpwVzJJWm9Dd2U4V3dVelFTQ0RrOHJDcjQ2QnZmUDllcmJFeEY5MzlfNGxNOXVuNFZKUUdBcy1zVEl6X21JdXRSS2gxT3BiT3Z2cElnYU1QLWFLbkFOM1prNmdkRlBwTWx5bEJST2NuWE5ROTJ3aE9FWXRJemt0Uk5wU1k0endjYTdnRG9icFByQWR1MkU?oc=5)
+
+---
+
 ### [Midwife's world turned upside down after 'invisible' cancer diagnosis weeks after successful surgery - Teesside Live](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTVVLMlBpVVU0Mkp2dGdrY3FiUzVHay1Gb3RIaExfSnM5LVJfei1wdmhqVVVkUE1ibzNoUXR5cmFWblo2aVlzRm15ZWl0Z0hhc3M1WV9YR0RtWGJqSDQ4Q2lwWmNjQm1xeVFSMHM0aEU0ZExpOXZMRFhJUnlIMWlCTUZ0bWhQeFVpVGYyUUJfR3JmdGlRQ3dqSmpOenBqUEXSAaQBQVVfeXFMTlhSbXk4bWZ4dUh4RzBFV0ZMSXJiN3M5SkIxd1lTbmNfcVBQMkRpUm5pbjlBN21sRUpFbktEZFVqZWE3R0NtR1h1bV80dW9kUnBiZ2tXR0lqbEdiYnRjMnVPZC1NVFJzd3pMM2VicHRWQjlGbmRsU3phVjhSMDVpOXpaREtuYUFtVHpFQnJSNTRBRHlDakhXelRSVG53WHJEUE93LTM?oc=5)
 
 2026-11-04 <span class="news-indication-tag">cancer</span>
@@ -105,14 +137,6 @@ Source: [TF1 Info](https://news.google.com/rss/articles/CBMingJBVV95cUxNZ0U3WERB
 2026-11-04 <span class="news-indication-tag">cancer</span>
 
 Source: [rts.ch](https://news.google.com/rss/articles/CBMitwFBVV95cUxONjUySzRGeHQ5T1hSS19OZDhqWnRNTVhEd2NxcFF2U2FnWVZaZFEtMFcyZHR3QlZrU29sUVVsVUt4UExINjNUQzNIWTBMLS1rejZEM1NCa0o1RldLM3IzSklzTTlMMTlDMlpWV2poZU92M3hpQlp1a1pYVE1wVDhhNHVYeHlQMlVmczRqSGhNSlJpQXFXTlE2bG5peWZpQUJoRlYzeDJYdThlY21NTWxVdmFocEt4YnM?oc=5)
-
----
-
-### [Early Rhythm Control May Cut Recurrent Stroke Risk in AF](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
-
-2026-11-04 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
 
 ---
 
@@ -174,7 +198,7 @@ Source: [smart up news](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTN
 
 ### [Più cibi ultraprocessati, più polipi del colon: lo studio sulle donne](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGNqeENFVXhmNXRNNGZRVjBGYWVQeEdncjB2VnVrNjNHc0VqNTJwUXlRN1AwdXdNVHlxQUI2UXl6a2VfLXRSYWI5bktuQjQ1a0tBV3JfbktRRksySzRJSWh6ZlFVaGlwMjh5MGxENjd1clp4ekl5VC1obFZLMWctZm05MFBpOVYzVnQ2OUkxS0lQYV9lUkUzeG1aSXUyZkZZX01adTZJNm9KR0ExZFg4VzNCZ1Y1dXpzV0E?oc=5)
 
-2026-11-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span>
+2026-11-04 <span class="news-indication-tag">tumor</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGNqeENFVXhmNXRNNGZRVjBGYWVQeEdncjB2VnVrNjNHc0VqNTJwUXlRN1AwdXdNVHlxQUI2UXl6a2VfLXRSYWI5bktuQjQ1a0tBV3JfbktRRksySzRJSWh6ZlFVaGlwMjh5MGxENjd1clp4ekl5VC1obFZLMWctZm05MFBpOVYzVnQ2OUkxS0lQYV9lUkUzeG1aSXUyZkZZX01adTZJNm9KR0ExZFg4VzNCZ1Y1dXpzV0E?oc=5)
 

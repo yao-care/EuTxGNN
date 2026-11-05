@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>44 news articles</strong>, with 5 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>46 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,23 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (44)
+## Related News (46)
+
+### [Goole mum raises awareness over her newborn baby's stroke](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhRFQ4cjhybFpmMklwUWJicm5VNlRYelpFcWVJd2VfcW5tejl2S0NIcTBPWUdvd3EzVGZTU3FiNExUd1hrSVRUeUZFV3U2TDFsSDJPM1NnSDFNZHVvR1E?oc=5)
+
+2026-11-05 <span class="news-indication-tag">stroke</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhRFQ4cjhybFpmMklwUWJicm5VNlRYelpFcWVJd2VfcW5tejl2S0NIcTBPWUdvd3EzVGZTU3FiNExUd1hrSVRUeUZFV3U2TDFsSDJPM1NnSDFNZHVvR1E?oc=5)
+
+---
+
+### [Schlaganfall-Nachsorge: 19,4 Prozent erleiden binnen fünf Jahren ein Rezidiv](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeVNQQzlnMDBDZm03WWhJeXZQWUF5V2w1TDhpZmNiVEtpODZ6MmZZbkgyMDNrRXNnenhkYmRneWZGNjFwcC1oUnlQVDMxaElNNDNWRmVIMG91TDFFTGZVNU9tUl83RnNabE80R1NWQXl3U2RmbzAwQ29xdG5iVGdjX0E2RWdFVFlocWg2WG02cF9FSUw5OXVMN2xlTUdoeUc2X2ZLTzViWEFiQkpZRFJDdEhvNTI5dzM4Q0xZUW54ZHo4NVU?oc=5)
+
+2026-11-05 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeVNQQzlnMDBDZm03WWhJeXZQWUF5V2w1TDhpZmNiVEtpODZ6MmZZbkgyMDNrRXNnenhkYmRneWZGNjFwcC1oUnlQVDMxaElNNDNWRmVIMG91TDFFTGZVNU9tUl83RnNabE80R1NWQXl3U2RmbzAwQ29xdG5iVGdjX0E2RWdFVFlocWg2WG02cF9FSUw5OXVMN2xlTUdoeUc2X2ZLTzViWEFiQkpZRFJDdEhvNTI5dzM4Q0xZUW54ZHo4NVU?oc=5)
+
+---
 
 ### [Akkermansia muciniphila: Wie das Darmmikrobiom die Schlaganfall-Erholung beeinflusst - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2tzSk4zR0FTQURFZzVLYTZsSVRnVG1WaVl1Zy1tSy1qdWQ1NHJPamVGYlNrLWpGMHBLUVljblk4N1B6S1hjcDlGOXJwY1hqZUw5SVFSbC1ZS1hCNnVhaTVjdUw3Uk1mVVUyT0t2cHJGd0ZYWDIzN0ZEYUg2TlpuT0Via1lOMURwNkVFX1RkNXVZdDNDSVRSTFpZTzU2dE5GUV9PVm9jb0QxUHFQVUFzaWVzQVhnZw?oc=5)
 
@@ -55,6 +71,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc
 
 ---
 
+### [Ictus: quanto si può recuperare? Perché alcuni recuperano più di altri? La risposta potrebbe essere nel “rumore” del cervello, su Stroke lo studio dell’IRCCS San Raffaele - il Giornale](https://news.google.com/rss/articles/CBMiuAJBVV95cUxON2xOb0QzTWdrcEZ4N3VXREZiMGF6bC1iaTRWR01BMnRwenJVZzRGNHhVTzl3ZlI3NEQzbWpKNW5HNlBDTnE2WTRFeE1IRnRMOGJKMXVQTnhQZFBsaHBNbEN0dU5rc3J1azNSV3R3Q0VmWTdLOVl6ZVllUXJGcXpVWU1tdFJjdElxOW5UZFBGa1h0MUxUbU5tYXVYRXc2WVlfUzVvOGRPOGJWTkkxQ3U2X0owb0ZIUzQ0NEEwTGg1VjVkRXJOeTFwaWxMeXB6bmFlMFVqcjJud19aaWxuYjYwSXQtV2JsTExoVE9odUNmckRaYlFKd0ZaSTk1a1lPaC1RWDBSRUxCNU05SVprUFRjRzVjWVFHWl9mR2VYV0ZyZjU2cW5OZ3JmUjdhaGdZakdXd1VNMElOY00?oc=5)
+
+2026-11-04 <span class="news-indication-tag">stroke</span>
+
+Source: [il Giornale](https://news.google.com/rss/articles/CBMiuAJBVV95cUxON2xOb0QzTWdrcEZ4N3VXREZiMGF6bC1iaTRWR01BMnRwenJVZzRGNHhVTzl3ZlI3NEQzbWpKNW5HNlBDTnE2WTRFeE1IRnRMOGJKMXVQTnhQZFBsaHBNbEN0dU5rc3J1azNSV3R3Q0VmWTdLOVl6ZVllUXJGcXpVWU1tdFJjdElxOW5UZFBGa1h0MUxUbU5tYXVYRXc2WVlfUzVvOGRPOGJWTkkxQ3U2X0owb0ZIUzQ0NEEwTGg1VjVkRXJOeTFwaWxMeXB6bmFlMFVqcjJud19aaWxuYjYwSXQtV2JsTExoVE9odUNmckRaYlFKd0ZaSTk1a1lPaC1RWDBSRUxCNU05SVprUFRjRzVjWVFHWl9mR2VYV0ZyZjU2cW5OZ3JmUjdhaGdZakdXd1VNMElOY00?oc=5)
+
+---
+
 ### [Trévenans. Journée de dépistage de l’hypertension artérielle : « Un tiers des patients ne savent pas qu’ils en ont » - L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3FpQmMzSnBlQlBRZHJ6d1FmcnhfWU9fU1NKcnBUcDA3ampUZTItMGVZMjA0NHdaUmdwQTRuYmdfVFJlSnFzT0J4SVV0cHVfSGliT2pjSGhhdXV3eU0wc08wNkkyMjBUZ1NOY29xS1NlNEZLYm1rQm9UZ1RCNl9hSFprX1FFUDBFdnJXMTZVY0liM04tRXVGODJYenVHLTZ3am1KY2dKRFlETVpJaXpTMmNEYlpOSm82UWpfN01CTnd2QVNsbjV2NEdZTDJ5MFE1akFENjRoYW92M2JXRmI4?oc=5)
 
 2026-11-04 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
@@ -63,9 +87,9 @@ Source: [L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cU
 
 ---
 
-### [Early Rhythm Control May Cut Recurrent Stroke Risk in AF](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
+### [Early Heart Rhythm Control Tied to Lower Stroke Recurrence](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
 
-2026-11-04 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-11-04 <span class="news-indication-tag">stroke</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
 
@@ -81,7 +105,7 @@ Source: [iDescubre](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR2hMV29
 
 ### [Healthier salt could prevent millions of deaths from heart disease and stroke, study finds](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
 
-2026-11-04 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+2026-11-04 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">high blood pressure</span>
 
 Source: [Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
 
@@ -92,14 +116,6 @@ Source: [Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0Zz
 2026-11-04 <span class="news-indication-tag">ictus</span>
 
 Source: [AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxOa19oZXEzVEVfQjI5M3hUUjVqQmxfSGpVZXIzWHlfbFlFQ0lfbEdyY3J4UzlGSVN6RkU4RGNXMnktYTNPaktNTW5FVGxkYWRNWU9ZQnNtNmFtVFByYTRMUnZCUW03UXRiMmI3ZXVBcXl1QXZJZ2FRNEQwYU9FbXgxVVJfQkN6NFFkd3fSAY8BQVVfeXFMTlJFUE5jclB6dXVUc0NaSlVScEJNcTBWbjNreHVwalVKWFdOVVBmX0MzZDJyTUd2LXZzdkYwTGZaWXJrUzc1QkNnb2ZabW5pclFiRVc3cHBYaTZQZmZxZGpMeDRuOTBxbGpoYjQzOW1WdzFQbjZZbzZpczFSZ002aUhfdURVX094YS1HN1Y0Nzg?oc=5)
-
----
-
-### [Più cibi ultraprocessati, più polipi del colon: lo studio sulle donne](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGNqeENFVXhmNXRNNGZRVjBGYWVQeEdncjB2VnVrNjNHc0VqNTJwUXlRN1AwdXdNVHlxQUI2UXl6a2VfLXRSYWI5bktuQjQ1a0tBV3JfbktRRksySzRJSWh6ZlFVaGlwMjh5MGxENjd1clp4ekl5VC1obFZLMWctZm05MFBpOVYzVnQ2OUkxS0lQYV9lUkUzeG1aSXUyZkZZX01adTZJNm9KR0ExZFg4VzNCZ1Y1dXpzV0E?oc=5)
-
-2026-11-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGNqeENFVXhmNXRNNGZRVjBGYWVQeEdncjB2VnVrNjNHc0VqNTJwUXlRN1AwdXdNVHlxQUI2UXl6a2VfLXRSYWI5bktuQjQ1a0tBV3JfbktRRksySzRJSWh6ZlFVaGlwMjh5MGxENjd1clp4ekl5VC1obFZLMWctZm05MFBpOVYzVnQ2OUkxS0lQYV9lUkUzeG1aSXUyZkZZX01adTZJNm9KR0ExZFg4VzNCZ1Y1dXpzV0E?oc=5)
 
 ---
 

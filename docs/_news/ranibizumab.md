@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Ranibizumab?">
-<strong>Ranibizumab</strong> currently has <strong>42 news articles</strong>, with 9 predicted indications.
+<strong>Ranibizumab</strong> currently has <strong>45 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Ranibizumab with the latest 
 <p><a href="{{ '/drugs/ranibizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (42)
+## Related News (45)
+
+### [Diabetes und Gürtelrose: Erkrankungsrisiko steigt um bis zu 45 Prozent](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUl1cDlsOGZvclNMQnlSU0tVclR5SDlaV2s3Q1ZseDJkWEdZTVhMVjhvV1hVUjNHZFhUdWNjZjVOaDNJQk0yZkd2OFFWY0xtczZNc3RHRkZuWkxYc01maHJfOC1fNEsyYXNGNERZbzNIWHphUm1VeDlZMkJ2TVpqT0ZReXVaVm1ndUlWZV82bG9oYlRUWXNfNGhMb0ZrWmZBX0I2VVgyeEVERUo3UWpzM1ZmeHdpZmhDS2F3?oc=5)
+
+2026-11-05 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUl1cDlsOGZvclNMQnlSU0tVclR5SDlaV2s3Q1ZseDJkWEdZTVhMVjhvV1hVUjNHZFhUdWNjZjVOaDNJQk0yZkd2OFFWY0xtczZNc3RHRkZuWkxYc01maHJfOC1fNEsyYXNGNERZbzNIWHphUm1VeDlZMkJ2TVpqT0ZReXVaVm1ndUlWZV82bG9oYlRUWXNfNGhMb0ZrWmZBX0I2VVgyeEVERUo3UWpzM1ZmeHdpZmhDS2F3?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Operation führt bei 58 Prozent zur Remission statt 3 Prozent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWFLdnlJV2pEd01VT0V0WHFodjdyVTE5VHF3ZmxDS2xQbkpNV3lHWnNpREFrUkNMRlU2alZISGEwTmhERFI2anpPSmFJLUV6a0FXS3RnR2VyNzBLbDIxV0RvbXdKcHdzRWhHamoxNGNIOEpld3NQbmdwQzMwTzRodG5GS2EtOFlYN09JWklHOVhKcHhweHpRdlZHeWptUWV4SWtsZlhMMGMyQUp2RFhwQnlxajRNUFJxcWt6VU9PODNyN00?oc=5)
+
+2026-11-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWFLdnlJV2pEd01VT0V0WHFodjdyVTE5VHF3ZmxDS2xQbkpNV3lHWnNpREFrUkNMRlU2alZISGEwTmhERFI2anpPSmFJLUV6a0FXS3RnR2VyNzBLbDIxV0RvbXdKcHdzRWhHamoxNGNIOEpld3NQbmdwQzMwTzRodG5GS2EtOFlYN09JWklHOVhKcHhweHpRdlZHeWptUWV4SWtsZlhMMGMyQUp2RFhwQnlxajRNUFJxcWt6VU9PODNyN00?oc=5)
+
+---
 
 ### [Typ-2-Diabetes ohne Insulin: Sensoren bringen fünf Stunden mehr im Zielbereich](https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHFGcnI5YXJoYmNpUzRiOUd2ZHRGcThITGtmMmNJUEN6OUU2SFgyalo0cGVUN2FJZ3lYSjhPZVJ0ZThTVk95V0dpWV9RZ1MydU5ud2hRZW90SjBRbGU2UjJvWXNkYWtFX1NFLUhKUzVBdWRjNndlU1ZVN0E1b1U1VVo1N0Uxb25ZUnpDQTNuRzNodUt6VURLYjNiN2F0TzdUYmlUVWZ2S25BV0xjYzVtQ0hPVzVraU5QYWp0d0tzNnNoQzBSQ1E?oc=5)
 
@@ -53,7 +69,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPSH
 
 ### [Prädiabetes: Abnehmspritzen mit 31 Prozent geringerem Diabetesrisiko verbunden](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
 
-2026-11-04 <span class="news-indication-tag">diabetes</span> <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-11-04 <span class="news-indication-tag">diabetes</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
 
@@ -91,6 +107,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdy1pTj
 
 ---
 
+### [Foundayo: EMA empfiehlt Orforglipron gegen Adipositas und Typ-2-Diabetes](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWE2UWlaTDM4Ml82NENYR2hLbmxPNmlHYmxCVGt4Ymd2aGhpNVlaMHcwbTN5c0ZOcEFFWTJEbWQwMTRKOG84SW5ZRm9ueG9LZ0hRV0pBRlVQajdPdHNkcHJaMV9NRm02Z2M4emFxV0ZNeHJTYnQyNkRnR2k3TEl1c05ZXzlwWm0zQzRKNU1XOC1CVWxFM2l0Snc4QWFHbjBpSFI5MFVUeE56WnRJeW5mblBwQmltcGZJSHZJag?oc=5)
+
+2026-11-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWE2UWlaTDM4Ml82NENYR2hLbmxPNmlHYmxCVGt4Ymd2aGhpNVlaMHcwbTN5c0ZOcEFFWTJEbWQwMTRKOG84SW5ZRm9ueG9LZ0hRV0pBRlVQajdPdHNkcHJaMV9NRm02Z2M4emFxV0ZNeHJTYnQyNkRnR2k3TEl1c05ZXzlwWm0zQzRKNU1XOC1CVWxFM2l0Snc4QWFHbjBpSFI5MFVUeE56WnRJeW5mblBwQmltcGZJSHZJag?oc=5)
+
+---
+
 ### [Blutzucker senken ohne Insulin: Kabelloses Implantat soll die Werte in nur einer Stunde normalisieren - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXo2enlRSW4xazMtNmY0QWtGMkVLVDRpbVRRUzY4amJjeWZoRDd0Q1lmblJZUE5yRVZfZFNmZ29VZUdjSHBUZm1sYnl5cmJVTU1BYzgzVHJGNXo1ZkFoOEdtVmNiWUwzSnFVMDZDYmVFSFQ5ejI0SHRkdzA5dWJTWUx4Y1JxTGN3SjZSanF0RnBzN1hFYWxWUnA5NTA?oc=5)
 
 2026-11-03 <span class="news-indication-tag">diabetes</span>
@@ -125,7 +149,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXQ0
 
 ### [Adipositas: DDG fordert Kostenübernahme für Abnehm-Medikamente](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
 
-2026-11-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-11-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [AOK](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "dépression (depression) News"
+title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 13 articles, 7 related drugs."
+description: "Health news about depresión (depression). 13 articles, 7 related drugs."
 permalink: /news/depression/
 last_modified_at: 2026-11-05
 ---
 
-# dépression (depression) News
+# depresión (depression) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>13 news articles</strong> and 7 related drugs.
+<p class="key-answer" data-question="What news is there about depresión (depression)?">
+<strong>depresión (depression)</strong> currently has <strong>13 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dépression” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “depresión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">

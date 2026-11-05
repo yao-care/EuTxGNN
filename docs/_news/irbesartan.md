@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Irbesartan?">
-<strong>Irbesartan</strong> currently has <strong>182 news articles</strong>, with 3 predicted indications.
+<strong>Irbesartan</strong> currently has <strong>191 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,63 @@ This page combines the AI-predicted indications for Irbesartan with the latest h
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (182)
+## Related News (191)
+
+### [Diabetes und Gürtelrose: Erkrankungsrisiko steigt um bis zu 45 Prozent](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUl1cDlsOGZvclNMQnlSU0tVclR5SDlaV2s3Q1ZseDJkWEdZTVhMVjhvV1hVUjNHZFhUdWNjZjVOaDNJQk0yZkd2OFFWY0xtczZNc3RHRkZuWkxYc01maHJfOC1fNEsyYXNGNERZbzNIWHphUm1VeDlZMkJ2TVpqT0ZReXVaVm1ndUlWZV82bG9oYlRUWXNfNGhMb0ZrWmZBX0I2VVgyeEVERUo3UWpzM1ZmeHdpZmhDS2F3?oc=5)
+
+2026-11-05 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUl1cDlsOGZvclNMQnlSU0tVclR5SDlaV2s3Q1ZseDJkWEdZTVhMVjhvV1hVUjNHZFhUdWNjZjVOaDNJQk0yZkd2OFFWY0xtczZNc3RHRkZuWkxYc01maHJfOC1fNEsyYXNGNERZbzNIWHphUm1VeDlZMkJ2TVpqT0ZReXVaVm1ndUlWZV82bG9oYlRUWXNfNGhMb0ZrWmZBX0I2VVgyeEVERUo3UWpzM1ZmeHdpZmhDS2F3?oc=5)
+
+---
+
+### [A partir de los 65 años, comer cacahuetes a diario está muy bien, pero solo funciona si lo consumes de esta forma para evitar la hipertensión - El Economista](https://news.google.com/rss/articles/CBMixwJBVV95cUxOZm9wUmxWdkEzU3N2MGJYVG92QkoxTjVBSU9YaXBfQkpiSGltZmVkQi1ZY3BMZ1lFUkNxaGVCUmRoNF9GbXVheU1Qc0FleFBqSEVDQkwxVmE2c1VoQkhCSVZ4eVFMdFl3S1dVaEdjX1RlaVdXWE5xeWU1enVEVmlPajRaM0JvS19FX1hGOUhZeHVtVUlfbVlSYUdmVWJkNVJxeEJ0N1h4Y3YtYTdSSTUxeXg5b05wQ3V4VXhwNWk3cGtPcFZnZDFHeEZwaGQ0cUV1cWhmQnRGRkFIRVNzemNKSXp1eE9NTERRNWY3aUdUR3pkcnpZdklVdjNRLTFRTTh4VzNKM2RFVHloeFNkdzMwNDV0am9WenpFZUpscVk0MjJXUWNYanRTVVFCOXMtUFlYNmZsYm9OOG5TNEEtdFViZnFnWFFlQ1HSAbICQVVfeXFMTTAxUjBKY1ZYcDM5dXhGdG9zeWVBeXBzNzdiSk1tNlBtYXVHU292bC1fMEkzNlFqUVQ2RldSQS1WdkUwcFdoekRCclFPYnAwdlpiN3VkR0hnSFJ1YTFVYWlIVm41bEF1R1BDT2dxTkUwRUhIWmljMXhrM1dJaGJJd0tQVkpoVE4zenR4d3p6ZHlNcjhVNWZ4WHhuUFNVSE5VdW5oSGx0VG56eWdYbXVSbWh0NzNzSG90Q2J1ZENtT3g0R0lpekZyTG1hNTNXVEV0WEl0VnNTbFk0S0NxTEJQUWtkOHRkUkdDUUJ3emYydlRCUFdUQzJvOUZ1YV8xOVp2UXB1ek5sX0lMazJONmdUSmNfeFEwZzRFd0tVX0dOaUJQbWhXWnpfMjhRbHNvU09NMUp3?oc=5)
+
+2026-11-05 <span class="news-indication-tag">hipertensión</span>
+
+Source: [El Economista](https://news.google.com/rss/articles/CBMixwJBVV95cUxOZm9wUmxWdkEzU3N2MGJYVG92QkoxTjVBSU9YaXBfQkpiSGltZmVkQi1ZY3BMZ1lFUkNxaGVCUmRoNF9GbXVheU1Qc0FleFBqSEVDQkwxVmE2c1VoQkhCSVZ4eVFMdFl3S1dVaEdjX1RlaVdXWE5xeWU1enVEVmlPajRaM0JvS19FX1hGOUhZeHVtVUlfbVlSYUdmVWJkNVJxeEJ0N1h4Y3YtYTdSSTUxeXg5b05wQ3V4VXhwNWk3cGtPcFZnZDFHeEZwaGQ0cUV1cWhmQnRGRkFIRVNzemNKSXp1eE9NTERRNWY3aUdUR3pkcnpZdklVdjNRLTFRTTh4VzNKM2RFVHloeFNkdzMwNDV0am9WenpFZUpscVk0MjJXUWNYanRTVVFCOXMtUFlYNmZsYm9OOG5TNEEtdFViZnFnWFFlQ1HSAbICQVVfeXFMTTAxUjBKY1ZYcDM5dXhGdG9zeWVBeXBzNzdiSk1tNlBtYXVHU292bC1fMEkzNlFqUVQ2RldSQS1WdkUwcFdoekRCclFPYnAwdlpiN3VkR0hnSFJ1YTFVYWlIVm41bEF1R1BDT2dxTkUwRUhIWmljMXhrM1dJaGJJd0tQVkpoVE4zenR4d3p6ZHlNcjhVNWZ4WHhuUFNVSE5VdW5oSGx0VG56eWdYbXVSbWh0NzNzSG90Q2J1ZENtT3g0R0lpekZyTG1hNTNXVEV0WEl0VnNTbFk0S0NxTEJQUWtkOHRkUkdDUUJ3emYydlRCUFdUQzJvOUZ1YV8xOVp2UXB1ek5sX0lMazJONmdUSmNfeFEwZzRFd0tVX0dOaUJQbWhXWnpfMjhRbHNvU09NMUp3?oc=5)
+
+---
+
+### [Tumore del colon-retto nei giovani, scoperto un legame inatteso con la placenta](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRWtNSUE0cWFWS2VELWpGc2FsWmdDakpxVEEwRWRscGZWWmFSZ24zcVc5RFZ6MDVPdnctZ09rX3FTNFdnZ3lTQktFUVpJZnJoMXJITzMxZGg4QjZKbmRkVlR1SGNzUXotU2NTdXVhYnJVUXhncUwyVWl3LXpfR3NYM2thZVRRSDdyaXBVLWtOdnlGdjhaOEZKTUZNV1RMdTI1S1Q1TFhPZV9oeDdmSXBlRThWdi1kQ09kVW8zNGNTMW5qRFZrajVyN3ZMUjVtVDJpRVFLdA?oc=5)
+
+2026-11-05 <span class="news-indication-tag">tumor</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRWtNSUE0cWFWS2VELWpGc2FsWmdDakpxVEEwRWRscGZWWmFSZ24zcVc5RFZ6MDVPdnctZ09rX3FTNFdnZ3lTQktFUVpJZnJoMXJITzMxZGg4QjZKbmRkVlR1SGNzUXotU2NTdXVhYnJVUXhncUwyVWl3LXpfR3NYM2thZVRRSDdyaXBVLWtOdnlGdjhaOEZKTUZNV1RMdTI1S1Q1TFhPZV9oeDdmSXBlRThWdi1kQ09kVW8zNGNTMW5qRFZrajVyN3ZMUjVtVDJpRVFLdA?oc=5)
+
+---
+
+### [La hipertensión pulmonar también puede afectar a la memoria y la atención](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHdDdVJDSEJtTDFfSktzejl2d1BUV1BVUlBDNGZOeDdRWHZEZkhpcm9CeUF5bXdqWHRVOHVUMHM4LUkzNGtIU1pNSm5aRFVSanBublVkaTV4bS0yRmh0RnZhU3pnQzhPRTloR01SMWhtQkVvbUhDakMzVy0tZGsxeHVvZnNBUXRXS2U4eFJ4bXdUOTJyQmJOQW5nVmE3Q1ZPanhMQnEtdTBiRXRmYkZ5SElFWmJkbFZSVlNmTUkyZ2xJaERTZkV0bHJIVG1wVTQ?oc=5)
+
+2026-11-05 <span class="news-indication-tag">hipertensión</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHdDdVJDSEJtTDFfSktzejl2d1BUV1BVUlBDNGZOeDdRWHZEZkhpcm9CeUF5bXdqWHRVOHVUMHM4LUkzNGtIU1pNSm5aRFVSanBublVkaTV4bS0yRmh0RnZhU3pnQzhPRTloR01SMWhtQkVvbUhDakMzVy0tZGsxeHVvZnNBUXRXS2U4eFJ4bXdUOTJyQmJOQW5nVmE3Q1ZPanhMQnEtdTBiRXRmYkZ5SElFWmJkbFZSVlNmTUkyZ2xJaERTZkV0bHJIVG1wVTQ?oc=5)
+
+---
+
+### [Sterbezahlen bei Gebärmutterhalskrebs könnten stark steigen](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGtRcFZfdEtBd1FaSm4ybXNiQTFhNzlDLTUzYjdzaFl3dzRGOXBDajlPczVZc0xyYWIzY2hMTXM0cmp3UFYtZVdQS1AtNWthMXo5RzY1MDBuWkFmRmRrQ0RvRjF2NlFHMmllZXhCU1BqYS10RnpZbUpMd0RxMnNvbzRHQnVPUEp3UDh0NA?oc=5)
+
+2026-11-05 <span class="news-indication-tag">Krebs</span>
+
+Source: [WEB.DE](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGtRcFZfdEtBd1FaSm4ybXNiQTFhNzlDLTUzYjdzaFl3dzRGOXBDajlPczVZc0xyYWIzY2hMTXM0cmp3UFYtZVdQS1AtNWthMXo5RzY1MDBuWkFmRmRrQ0RvRjF2NlFHMmllZXhCU1BqYS10RnpZbUpMd0RxMnNvbzRHQnVPUEp3UDh0NA?oc=5)
+
+---
+
+### [Silice : 365 000 salariés obtiennent une présomption légale pour le cancer du poumon](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaDdjT0xKQzM2V05aOUNvNm1WQXJrMzN5WkFwOHZwZXlnYXl3QnRnc2NvdmV4VkFycFMzbHcyNEFSWGZSYVoyNXFxdGZ4blA1eTcxWDloNjVaa3N3LUotTUVEVzlwTTRBZTRXdVJObTFxR2hCR29Rc3l6REZxMnpPbUNYMVd1YWRYYTdaYzJPMzMtUzZWTzJfa1Q1UkRqR2lTYUtCQ1RsQndxQl9NdnR1NWxR?oc=5)
+
+2026-11-05 <span class="news-indication-tag">cancer</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaDdjT0xKQzM2V05aOUNvNm1WQXJrMzN5WkFwOHZwZXlnYXl3QnRnc2NvdmV4VkFycFMzbHcyNEFSWGZSYVoyNXFxdGZ4blA1eTcxWDloNjVaa3N3LUotTUVEVzlwTTRBZTRXdVJObTFxR2hCR29Rc3l6REZxMnpPbUNYMVd1YWRYYTdaYzJPMzMtUzZWTzJfa1Q1UkRqR2lTYUtCQ1RsQndxQl9NdnR1NWxR?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Operation führt bei 58 Prozent zur Remission statt 3 Prozent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWFLdnlJV2pEd01VT0V0WHFodjdyVTE5VHF3ZmxDS2xQbkpNV3lHWnNpREFrUkNMRlU2alZISGEwTmhERFI2anpPSmFJLUV6a0FXS3RnR2VyNzBLbDIxV0RvbXdKcHdzRWhHamoxNGNIOEpld3NQbmdwQzMwTzRodG5GS2EtOFlYN09JWklHOVhKcHhweHpRdlZHeWptUWV4SWtsZlhMMGMyQUp2RFhwQnlxajRNUFJxcWt6VU9PODNyN00?oc=5)
+
+2026-11-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWFLdnlJV2pEd01VT0V0WHFodjdyVTE5VHF3ZmxDS2xQbkpNV3lHWnNpREFrUkNMRlU2alZISGEwTmhERFI2anpPSmFJLUV6a0FXS3RnR2VyNzBLbDIxV0RvbXdKcHdzRWhHamoxNGNIOEpld3NQbmdwQzMwTzRodG5GS2EtOFlYN09JWklHOVhKcHhweHpRdlZHeWptUWV4SWtsZlhMMGMyQUp2RFhwQnlxajRNUFJxcWt6VU9PODNyN00?oc=5)
+
+---
 
 ### [Doctors in England launch primary-care trial of blood tests for spotting cancer early](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
 
@@ -110,6 +166,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVU1rT2
 
 ---
 
+### [Moderate drinking carries health risks even within UK alcohol guidelines - The Conversation](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTlOQU1BLTEwN2pCMUMteGJIMXpMdHpwVzJJWm9Dd2U4V3dVelFTQ0RrOHJDcjQ2QnZmUDllcmJFeEY5MzlfNGxNOXVuNFZKUUdBcy1zVEl6X21JdXRSS2gxT3BiT3Z2cElnYU1QLWFLbkFOM1prNmdkRlBwTWx5bEJST2NuWE5ROTJ3aE9FWXRJemt0Uk5wU1k0endjYTdnRG9icFByQWR1MkU?oc=5)
+
+2026-11-04 <span class="news-indication-tag">cancer</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTlOQU1BLTEwN2pCMUMteGJIMXpMdHpwVzJJWm9Dd2U4V3dVelFTQ0RrOHJDcjQ2QnZmUDllcmJFeEY5MzlfNGxNOXVuNFZKUUdBcy1zVEl6X21JdXRSS2gxT3BiT3Z2cElnYU1QLWFLbkFOM1prNmdkRlBwTWx5bEJST2NuWE5ROTJ3aE9FWXRJemt0Uk5wU1k0endjYTdnRG9icFByQWR1MkU?oc=5)
+
+---
+
 ### [Midwife's world turned upside down after 'invisible' cancer diagnosis weeks after successful surgery - Teesside Live](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTVVLMlBpVVU0Mkp2dGdrY3FiUzVHay1Gb3RIaExfSnM5LVJfei1wdmhqVVVkUE1ibzNoUXR5cmFWblo2aVlzRm15ZWl0Z0hhc3M1WV9YR0RtWGJqSDQ4Q2lwWmNjQm1xeVFSMHM0aEU0ZExpOXZMRFhJUnlIMWlCTUZ0bWhQeFVpVGYyUUJfR3JmdGlRQ3dqSmpOenBqUEXSAaQBQVVfeXFMTlhSbXk4bWZ4dUh4RzBFV0ZMSXJiN3M5SkIxd1lTbmNfcVBQMkRpUm5pbjlBN21sRUpFbktEZFVqZWE3R0NtR1h1bV80dW9kUnBiZ2tXR0lqbEdiYnRjMnVPZC1NVFJzd3pMM2VicHRWQjlGbmRsU3phVjhSMDVpOXpaREtuYUFtVHpFQnJSNTRBRHlDakhXelRSVG53WHJEUE93LTM?oc=5)
 
 2026-11-04 <span class="news-indication-tag">cancer</span>
@@ -128,7 +192,7 @@ Source: [TF1 Info](https://news.google.com/rss/articles/CBMingJBVV95cUxNZ0U3WERB
 
 ### [Prädiabetes: Abnehmspritzen mit 31 Prozent geringerem Diabetesrisiko verbunden](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
 
-2026-11-04 <span class="news-indication-tag">diabetes</span> <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-11-04 <span class="news-indication-tag">diabetes</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
 
@@ -168,7 +232,7 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZEY5aEM4a
 
 ### [Healthier salt could prevent millions of deaths from heart disease and stroke, study finds](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
 
-2026-11-04 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+2026-11-04 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">high blood pressure</span>
 
 Source: [Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
 
@@ -240,7 +304,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNU
 
 ### [Più cibi ultraprocessati, più polipi del colon: lo studio sulle donne](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGNqeENFVXhmNXRNNGZRVjBGYWVQeEdncjB2VnVrNjNHc0VqNTJwUXlRN1AwdXdNVHlxQUI2UXl6a2VfLXRSYWI5bktuQjQ1a0tBV3JfbktRRksySzRJSWh6ZlFVaGlwMjh5MGxENjd1clp4ekl5VC1obFZLMWctZm05MFBpOVYzVnQ2OUkxS0lQYV9lUkUzeG1aSXUyZkZZX01adTZJNm9KR0ExZFg4VzNCZ1Y1dXpzV0E?oc=5)
 
-2026-11-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span>
+2026-11-04 <span class="news-indication-tag">tumor</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGNqeENFVXhmNXRNNGZRVjBGYWVQeEdncjB2VnVrNjNHc0VqNTJwUXlRN1AwdXdNVHlxQUI2UXl6a2VfLXRSYWI5bktuQjQ1a0tBV3JfbktRRksySzRJSWh6ZlFVaGlwMjh5MGxENjd1clp4ekl5VC1obFZLMWctZm05MFBpOVYzVnQ2OUkxS0lQYV9lUkUzeG1aSXUyZkZZX01adTZJNm9KR0ExZFg4VzNCZ1Y1dXpzV0E?oc=5)
 
@@ -286,11 +350,11 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2
 
 ---
 
-### [Heart failure hospitalisations surge as woman, 35, tells of shock at life-threatening diagnosis - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1BXY2dodmM1X0dROFR1OC1VbThoSHhxMDI2X04xUmFaUC1jOVotWnVjTVpFdnVweVVTM01vRXR4MmJvbWE3ZjM3QWRIZU5mSHc3VmJlQmZzX01acHNPLUpYZEw2aE5YMDVGY05MRzQwY05ZU0FNVm5UV0VUaFFMMk41cDlqZ2lr0gGOAUFVX3lxTFBJZmUxTGhRN3JlS1kwY0w0QkZEQUNtTkkyOUtLZTh0S3N3VEVhRTA5RzQwaWUzZDJJNk9pUjJHbFlZeEZYVTBremRqUXdjM3o0STg0SXF5YnM5Q0Q1TEJjUEdWeWRwVEFDdkJhZDBKdlRUaWg0RFlrQ1NmaXV0MDgtTVpxV1VXdFJaTzI2cmc?oc=5)
+### [Heart failure hospitalisations surge as woman, 35, tells of shock at life-threatening diagnosis](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1BXY2dodmM1X0dROFR1OC1VbThoSHhxMDI2X04xUmFaUC1jOVotWnVjTVpFdnVweVVTM01vRXR4MmJvbWE3ZjM3QWRIZU5mSHc3VmJlQmZzX01acHNPLUpYZEw2aE5YMDVGY05MRzQwY05ZU0FNVm5UV0VUaFFMMk41cDlqZ2lr0gGOAUFVX3lxTFBJZmUxTGhRN3JlS1kwY0w0QkZEQUNtTkkyOUtLZTh0S3N3VEVhRTA5RzQwaWUzZDJJNk9pUjJHbFlZeEZYVTBremRqUXdjM3o0STg0SXF5YnM5Q0Q1TEJjUEdWeWRwVEFDdkJhZDBKdlRUaWg0RFlrQ1NmaXV0MDgtTVpxV1VXdFJaTzI2cmc?oc=5)
 
 2026-11-04 <span class="news-indication-tag">heart disease</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1BXY2dodmM1X0dROFR1OC1VbThoSHhxMDI2X04xUmFaUC1jOVotWnVjTVpFdnVweVVTM01vRXR4MmJvbWE3ZjM3QWRIZU5mSHc3VmJlQmZzX01acHNPLUpYZEw2aE5YMDVGY05MRzQwY05ZU0FNVm5UV0VUaFFMMk41cDlqZ2lr0gGOAUFVX3lxTFBJZmUxTGhRN3JlS1kwY0w0QkZEQUNtTkkyOUtLZTh0S3N3VEVhRTA5RzQwaWUzZDJJNk9pUjJHbFlZeEZYVTBremRqUXdjM3o0STg0SXF5YnM5Q0Q1TEJjUEdWeWRwVEFDdkJhZDBKdlRUaWg0RFlrQ1NmaXV0MDgtTVpxV1VXdFJaTzI2cmc?oc=5)
+Source: [Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1BXY2dodmM1X0dROFR1OC1VbThoSHhxMDI2X04xUmFaUC1jOVotWnVjTVpFdnVweVVTM01vRXR4MmJvbWE3ZjM3QWRIZU5mSHc3VmJlQmZzX01acHNPLUpYZEw2aE5YMDVGY05MRzQwY05ZU0FNVm5UV0VUaFFMMk41cDlqZ2lr0gGOAUFVX3lxTFBJZmUxTGhRN3JlS1kwY0w0QkZEQUNtTkkyOUtLZTh0S3N3VEVhRTA5RzQwaWUzZDJJNk9pUjJHbFlZeEZYVTBremRqUXdjM3o0STg0SXF5YnM5Q0Q1TEJjUEdWeWRwVEFDdkJhZDBKdlRUaWg0RFlrQ1NmaXV0MDgtTVpxV1VXdFJaTzI2cmc?oc=5)
 
 ---
 
@@ -350,6 +414,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdy1pTj
 
 ---
 
+### [Foundayo: EMA empfiehlt Orforglipron gegen Adipositas und Typ-2-Diabetes](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWE2UWlaTDM4Ml82NENYR2hLbmxPNmlHYmxCVGt4Ymd2aGhpNVlaMHcwbTN5c0ZOcEFFWTJEbWQwMTRKOG84SW5ZRm9ueG9LZ0hRV0pBRlVQajdPdHNkcHJaMV9NRm02Z2M4emFxV0ZNeHJTYnQyNkRnR2k3TEl1c05ZXzlwWm0zQzRKNU1XOC1CVWxFM2l0Snc4QWFHbjBpSFI5MFVUeE56WnRJeW5mblBwQmltcGZJSHZJag?oc=5)
+
+2026-11-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWE2UWlaTDM4Ml82NENYR2hLbmxPNmlHYmxCVGt4Ymd2aGhpNVlaMHcwbTN5c0ZOcEFFWTJEbWQwMTRKOG84SW5ZRm9ueG9LZ0hRV0pBRlVQajdPdHNkcHJaMV9NRm02Z2M4emFxV0ZNeHJTYnQyNkRnR2k3TEl1c05ZXzlwWm0zQzRKNU1XOC1CVWxFM2l0Snc4QWFHbjBpSFI5MFVUeE56WnRJeW5mblBwQmltcGZJSHZJag?oc=5)
+
+---
+
 ### [Leben mit metastasiertem Brustkrebs - | inpactmedia.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPWmZXQXNlOWQtRGduT3NkZlk5aHl5cFd1X0o4OVp2X3oyYTNBSzFkZ3RjRWJLZTNuWk1BMXRlU1FQRmJWMkZtbDBNak44a1Njd2szVUhWdGM3eDItcVRfLWxCbmlqZERuSXFNcVBQbGk4dHgwUEZxN3BNMFo1c245cFpIYThoMlRsREFsV0hkQXQ?oc=5)
 
 2026-11-03 <span class="news-indication-tag">Krebs</span>
@@ -400,7 +472,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXQ0
 
 ### [Adipositas: DDG fordert Kostenübernahme für Abnehm-Medikamente](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
 
-2026-11-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-11-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [AOK](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
 

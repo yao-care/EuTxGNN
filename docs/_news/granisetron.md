@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Granisetron?">
-<strong>Granisetron</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
+<strong>Granisetron</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ This page combines the AI-predicted indications for Granisetron with the latest 
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
-
-### [Early Rhythm Control May Cut Recurrent Stroke Risk in AF](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
-
-2026-11-04 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
-
----
+## Related News (7)
 
 ### [COPD: Spaziergänge können auch bei hoher Luftbelastung Exazerbationen vermeiden – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRG1iRkV6YWxJSGhRanYwMlpaRGN6emtjU3JmXzhVRlhUcFFDUzhOTjhmQzJFbVFzX05xOC1remFXemtqNlBpWk9NTzE3bVkzR294ZnVIUmdCbHBtRU03TWJ3S2ZqY2dYRzlNTHB6ZkpNT3ZGUEtYdUNDZVpHaS1vM2hFanpTR1N4REdtWjd6Z1RIVkpFSHhTS3A0SGNDZlp0VmFoUGw5b1NJczFhc3hNczVVaF9XNF84eF8tQ01XT1prS01iVHN6V0lXOFVaLURvZW4xT0MtdFptTHdDd0tCZQ?oc=5)
 

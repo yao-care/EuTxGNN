@@ -3,9 +3,9 @@ layout: default
 title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 42 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 45 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # diabetes (diabetes mellitus) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>42 news articles</strong> and 86 related drugs.
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>45 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,7 +64,23 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (42)
+## Related News (45)
+
+### [Diabetes und Gürtelrose: Erkrankungsrisiko steigt um bis zu 45 Prozent](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUl1cDlsOGZvclNMQnlSU0tVclR5SDlaV2s3Q1ZseDJkWEdZTVhMVjhvV1hVUjNHZFhUdWNjZjVOaDNJQk0yZkd2OFFWY0xtczZNc3RHRkZuWkxYc01maHJfOC1fNEsyYXNGNERZbzNIWHphUm1VeDlZMkJ2TVpqT0ZReXVaVm1ndUlWZV82bG9oYlRUWXNfNGhMb0ZrWmZBX0I2VVgyeEVERUo3UWpzM1ZmeHdpZmhDS2F3?oc=5)
+
+2026-11-05
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUl1cDlsOGZvclNMQnlSU0tVclR5SDlaV2s3Q1ZseDJkWEdZTVhMVjhvV1hVUjNHZFhUdWNjZjVOaDNJQk0yZkd2OFFWY0xtczZNc3RHRkZuWkxYc01maHJfOC1fNEsyYXNGNERZbzNIWHphUm1VeDlZMkJ2TVpqT0ZReXVaVm1ndUlWZV82bG9oYlRUWXNfNGhMb0ZrWmZBX0I2VVgyeEVERUo3UWpzM1ZmeHdpZmhDS2F3?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Operation führt bei 58 Prozent zur Remission statt 3 Prozent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWFLdnlJV2pEd01VT0V0WHFodjdyVTE5VHF3ZmxDS2xQbkpNV3lHWnNpREFrUkNMRlU2alZISGEwTmhERFI2anpPSmFJLUV6a0FXS3RnR2VyNzBLbDIxV0RvbXdKcHdzRWhHamoxNGNIOEpld3NQbmdwQzMwTzRodG5GS2EtOFlYN09JWklHOVhKcHhweHpRdlZHeWptUWV4SWtsZlhMMGMyQUp2RFhwQnlxajRNUFJxcWt6VU9PODNyN00?oc=5)
+
+2026-11-05
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWFLdnlJV2pEd01VT0V0WHFodjdyVTE5VHF3ZmxDS2xQbkpNV3lHWnNpREFrUkNMRlU2alZISGEwTmhERFI2anpPSmFJLUV6a0FXS3RnR2VyNzBLbDIxV0RvbXdKcHdzRWhHamoxNGNIOEpld3NQbmdwQzMwTzRodG5GS2EtOFlYN09JWklHOVhKcHhweHpRdlZHeWptUWV4SWtsZlhMMGMyQUp2RFhwQnlxajRNUFJxcWt6VU9PODNyN00?oc=5)
+
+---
 
 ### [Typ-2-Diabetes ohne Insulin: Sensoren bringen fünf Stunden mehr im Zielbereich](https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHFGcnI5YXJoYmNpUzRiOUd2ZHRGcThITGtmMmNJUEN6OUU2SFgyalo0cGVUN2FJZ3lYSjhPZVJ0ZThTVk95V0dpWV9RZ1MydU5ud2hRZW90SjBRbGU2UjJvWXNkYWtFX1NFLUhKUzVBdWRjNndlU1ZVN0E1b1U1VVo1N0Uxb25ZUnpDQTNuRzNodUt6VURLYjNiN2F0TzdUYmlUVWZ2S25BV0xjYzVtQ0hPVzVraU5QYWp0d0tzNnNoQzBSQ1E?oc=5)
 
@@ -111,6 +127,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2
 2026-11-03
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdy1pTjZ2WlZabldqU3drdF8zZlJ4YnI4WjZqSm5xd1MzdlNjXzd1OEpzdFp6NFBEdjVKcnVTbDFGTFZ6ZjRHdHhCRW5rSmxIVTdzMjhyYjZfLUpaWHI1NHFuSWN2X3RaYWNwUGxQS21KaHo2ektCV0pTX3VXb0Y4aDZoalp5Sm1GaTZKTW1wbExxT3gyRk83RE5BelBEOTNiRDRpaHhUZDRIUy01Q1drV0VfUFVkZDR4aFBLbE85U3DSAbsBQVVfeXFMTWFnT2RSUnhFTDVGamdHOEk5WFE5MEU2NzRZTXc4dEdSZTVuMkpzQkVmRThqU0RtZG1RRTVJdEYyTGltY1RQcmtadzZXTHN6dkYxYUdRM2FCeWc1aE5nYV9hbEg2dnRMZkY5emZlLWhGVDRSQW9EYXpnLVU0Ry01Tl9KLU5ySU9HMHNvbl9BVjNHdkJaQzdYOE8yYVJTd1BuelZyMDBabE14OFhlckNlbW1lcDIydXFnVDhtYw?oc=5)
+
+---
+
+### [Foundayo: EMA empfiehlt Orforglipron gegen Adipositas und Typ-2-Diabetes](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWE2UWlaTDM4Ml82NENYR2hLbmxPNmlHYmxCVGt4Ymd2aGhpNVlaMHcwbTN5c0ZOcEFFWTJEbWQwMTRKOG84SW5ZRm9ueG9LZ0hRV0pBRlVQajdPdHNkcHJaMV9NRm02Z2M4emFxV0ZNeHJTYnQyNkRnR2k3TEl1c05ZXzlwWm0zQzRKNU1XOC1CVWxFM2l0Snc4QWFHbjBpSFI5MFVUeE56WnRJeW5mblBwQmltcGZJSHZJag?oc=5)
+
+2026-11-03
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWE2UWlaTDM4Ml82NENYR2hLbmxPNmlHYmxCVGt4Ymd2aGhpNVlaMHcwbTN5c0ZOcEFFWTJEbWQwMTRKOG84SW5ZRm9ueG9LZ0hRV0pBRlVQajdPdHNkcHJaMV9NRm02Z2M4emFxV0ZNeHJTYnQyNkRnR2k3TEl1c05ZXzlwWm0zQzRKNU1XOC1CVWxFM2l0Snc4QWFHbjBpSFI5MFVUeE56WnRJeW5mblBwQmltcGZJSHZJag?oc=5)
 
 ---
 

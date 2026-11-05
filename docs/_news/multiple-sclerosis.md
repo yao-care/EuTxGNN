@@ -3,9 +3,9 @@ layout: default
 title: "esclerosis múltiple (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about esclerosis múltiple (multiple sclerosis). 3 articles, 26 related drugs."
+description: "Health news about esclerosis múltiple (multiple sclerosis). 4 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # esclerosis múltiple (multiple sclerosis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about esclerosis múltiple (multiple sclerosis)?">
-<strong>esclerosis múltiple (multiple sclerosis)</strong> currently has <strong>3 news articles</strong> and 26 related drugs.
+<strong>esclerosis múltiple (multiple sclerosis)</strong> currently has <strong>4 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,15 @@ This page brings together the latest health news about “esclerosis múltiple�
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Los probióticos pueden ayudar a reducir la fatiga, el dolor y la inflamación de la esclerosis múltiple - Cadena SER](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSjdZZThWRXU0Mm5BdG51bEQxaEM1TTFoYmo1Uml5TDZscE9nUkFmSUwyazhUUGNlUFJCLXpnYUtJOE11TnI4Vjk0UE9MRk41UExVV2xZQzNqaVJwbzMtTXR0aW5RNjZJdkNUM0hieThHdmk2cFJtS0V6elFjeDh0b1U1RDhDLXg3RmIxaXNkMnBSTkFEMXpVVm9pZ25ITDkyUmI1N2M1VVF2ZzJoR1RGb0lOZ1ltX2ZFdXdVbm9lYWFYWmktejBkcTdhcFJvS05qeEhVWW5rN0tUb1JleW52bFZJTTRDRUM3RER6NdIBgAJBVV95cUxPdEdCY2FKMHN4elBSRzU5VU5IVUlROVNxZTBOY09nWldyYWNSbnRHTUo3VnliWGF6aERLR1ppVU1zS2JyY2Z0bTl0cy12XzNBY09FbFdUaFh3cHhabW1UUDlZb1R2TE1FTjQ0Skc1bHlYRHU4R0pVMFZvaEdtV0Y5T0FndHRvU2ExN21fSUpQNk50Yno5YmFxa0VFdm56Z3kyQUJnU0lKa3FfMHBSUkFnMUJGYlFNWTVNVTI5RDZqdzNabXo3NlhKTFBWbEF2aDZFVXR6OVQxLXdnYTBTdTRld1BVdy0yNmFuNjNfb09ta2lHZEhna1ZiaTZ3dXRNOEo0?oc=5)
+
+2026-11-05
+
+Source: [Cadena SER](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSjdZZThWRXU0Mm5BdG51bEQxaEM1TTFoYmo1Uml5TDZscE9nUkFmSUwyazhUUGNlUFJCLXpnYUtJOE11TnI4Vjk0UE9MRk41UExVV2xZQzNqaVJwbzMtTXR0aW5RNjZJdkNUM0hieThHdmk2cFJtS0V6elFjeDh0b1U1RDhDLXg3RmIxaXNkMnBSTkFEMXpVVm9pZ25ITDkyUmI1N2M1VVF2ZzJoR1RGb0lOZ1ltX2ZFdXdVbm9lYWFYWmktejBkcTdhcFJvS05qeEhVWW5rN0tUb1JleW52bFZJTTRDRUM3RER6NdIBgAJBVV95cUxPdEdCY2FKMHN4elBSRzU5VU5IVUlROVNxZTBOY09nWldyYWNSbnRHTUo3VnliWGF6aERLR1ppVU1zS2JyY2Z0bTl0cy12XzNBY09FbFdUaFh3cHhabW1UUDlZb1R2TE1FTjQ0Skc1bHlYRHU4R0pVMFZvaEdtV0Y5T0FndHRvU2ExN21fSUpQNk50Yno5YmFxa0VFdm56Z3kyQUJnU0lKa3FfMHBSUkFnMUJGYlFNWTVNVTI5RDZqdzNabXo3NlhKTFBWbEF2aDZFVXR6OVQxLXdnYTBTdTRld1BVdy0yNmFuNjNfb09ta2lHZEhna1ZiaTZ3dXRNOEo0?oc=5)
+
+---
 
 ### [El seguimiento de los niveles de neurofilamento puede ayudar a detectar actividad de la esclerosis múltiple que no se ve en las pruebas convencionales - Gaceta Médica](https://news.google.com/rss/articles/CBMirAFBVV95cUxPejI3MVZHZG1PUUpnSFJwb0RaaXRDQksxalN2VU1xNHhsWWp5eXNrS28wMHlVeDZQbHhBZ0sxY1doRnRUQ0EzenRQckdzclBQa2k5a3U3LUlwdkc0WFJMTVRuVmFRWTVncUIzeE43MldYcXlLOUk0d3hhSzdYNHRKT0Y2cmIwQkZ1UmNrb2hrZHJpQXBxdnVlSFZkNldnbGM1bXAtNjZvcXlEZlRC?oc=5)
 

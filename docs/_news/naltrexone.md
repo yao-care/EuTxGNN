@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>17 news articles</strong>, with 0 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>19 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (19)
+
+### [Typ-2-Diabetes: Operation führt bei 58 Prozent zur Remission statt 3 Prozent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWFLdnlJV2pEd01VT0V0WHFodjdyVTE5VHF3ZmxDS2xQbkpNV3lHWnNpREFrUkNMRlU2alZISGEwTmhERFI2anpPSmFJLUV6a0FXS3RnR2VyNzBLbDIxV0RvbXdKcHdzRWhHamoxNGNIOEpld3NQbmdwQzMwTzRodG5GS2EtOFlYN09JWklHOVhKcHhweHpRdlZHeWptUWV4SWtsZlhMMGMyQUp2RFhwQnlxajRNUFJxcWt6VU9PODNyN00?oc=5)
+
+2026-11-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWFLdnlJV2pEd01VT0V0WHFodjdyVTE5VHF3ZmxDS2xQbkpNV3lHWnNpREFrUkNMRlU2alZISGEwTmhERFI2anpPSmFJLUV6a0FXS3RnR2VyNzBLbDIxV0RvbXdKcHdzRWhHamoxNGNIOEpld3NQbmdwQzMwTzRodG5GS2EtOFlYN09JWklHOVhKcHhweHpRdlZHeWptUWV4SWtsZlhMMGMyQUp2RFhwQnlxajRNUFJxcWt6VU9PODNyN00?oc=5)
+
+---
 
 ### [Alejo Efeyan, investigador: “El alcohol genera inflamación en el tejido hepático y favorece manifiestamente el desarrollo de tumores” - La Vanguardia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVXVTb0FjOFl2QU9aaFdMVWxKY1lFRkxoTmlCMzR4SXFKcTMyUGc4S2taaDhZNGlzSE1VS3R2T3FQd2pnTjZidFJxemo0QWhjalBJSXdwaW1vQ2JLX3BLTmlubGM3a3lFNV9aVVFuR0h5NE1zYXFtMExnY1FRLTJySGMtMXZXMmUxdGdSQURQQ3lJajRJQWdYQVp4Z1Y3aWQ0amJQQnMtM0dPaWR0WXdNSk9kN24ydE8xMi1YY2NZRzlwTEJDWUo3WXd2a1E1REJvaTdNM3lXVzRrWVNvb0FXWnlaa19pbXAzakVBUUFTY3Vyby1pZUpHYm9jeW1tb3pEdnM4MGFJclZkdFnSAZACQVVfeXFMTnV0akV0Q3YwQUQ0eTZYM0g0MU5MczdiOFZkX1Rva2dzN1lHYWxVeHhnZzhfUDlnZFotcWFzY2daRnpac1VLV0dyZmFFS1Nyb1g2VXJBT1hhMzFzZDh4VEtZZnp1b3I2VUh5dVNsdGxUeHI0ZnhIREwwdFVlRW9Od0RvLWlMTUFVcXozaVpiNjI5YkdlU2JYdWc2WGw3RzVWYTRhdDZRUEVOQkxJcU1lV3duMzhzY01RSzNnbDlkUWZFZzEtTXU3aVVSQjVEN2lwZ0VUU2lpTkZ1Q1hhXzhZY2R3ZmpNUE41RExWMk5VeVloczlSYjFhRFpMaUo2Rm1RNTU3N21RSXp5cFhuY0pIUHk?oc=5)
 
@@ -48,9 +56,17 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMidEFVX3lxTE1aQnJVXzhaR
 
 ---
 
+### [Foundayo: EMA empfiehlt Orforglipron gegen Adipositas und Typ-2-Diabetes](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWE2UWlaTDM4Ml82NENYR2hLbmxPNmlHYmxCVGt4Ymd2aGhpNVlaMHcwbTN5c0ZOcEFFWTJEbWQwMTRKOG84SW5ZRm9ueG9LZ0hRV0pBRlVQajdPdHNkcHJaMV9NRm02Z2M4emFxV0ZNeHJTYnQyNkRnR2k3TEl1c05ZXzlwWm0zQzRKNU1XOC1CVWxFM2l0Snc4QWFHbjBpSFI5MFVUeE56WnRJeW5mblBwQmltcGZJSHZJag?oc=5)
+
+2026-11-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWE2UWlaTDM4Ml82NENYR2hLbmxPNmlHYmxCVGt4Ymd2aGhpNVlaMHcwbTN5c0ZOcEFFWTJEbWQwMTRKOG84SW5ZRm9ueG9LZ0hRV0pBRlVQajdPdHNkcHJaMV9NRm02Z2M4emFxV0ZNeHJTYnQyNkRnR2k3TEl1c05ZXzlwWm0zQzRKNU1XOC1CVWxFM2l0Snc4QWFHbjBpSFI5MFVUeE56WnRJeW5mblBwQmltcGZJSHZJag?oc=5)
+
+---
+
 ### [Adipositas: DDG fordert Kostenübernahme für Abnehm-Medikamente](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
 
-2026-11-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-11-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [AOK](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
 

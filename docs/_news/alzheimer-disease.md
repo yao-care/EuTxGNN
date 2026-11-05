@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer's (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Alzheimer's (alzheimer disease). 6 articles, 16 related drugs."
+description: "Health news about Alzheimer's (alzheimer disease). 7 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 last_modified_at: 2026-11-05
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
-<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>6 news articles</strong> and 16 related drugs.
+<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>7 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,13 +43,21 @@ This page brings together the latest health news about “Alzheimer's” and lis
 </ul>
 </div>
 
-## Related News (6)
+## Related News (7)
 
 ### [The 6 midlife symptoms of Alzheimer's that have nothing to do with memory as early-onset disease 'spreads faster' - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQR28ySy15RXM4akNYakFmbE1EUTZNUVRCbkFMeFdmVlpXNGdOMGQwQ3lRc0F1VHdqeV9tYVBvX0JqNlRsN2JTZGUzYndNQnJNYUR5djAtSDMtTHdpVXpScXNMYjRmTlRoVEgtR1hhWWRYMUhiNkhKVTk2dUJZUXBUaC04WGdEQXc?oc=5)
 
 2026-11-04
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQR28ySy15RXM4akNYakFmbE1EUTZNUVRCbkFMeFdmVlpXNGdOMGQwQ3lRc0F1VHdqeV9tYVBvX0JqNlRsN2JTZGUzYndNQnJNYUR5djAtSDMtTHdpVXpScXNMYjRmTlRoVEgtR1hhWWRYMUhiNkhKVTk2dUJZUXBUaC04WGdEQXc?oc=5)
+
+---
+
+### [Alzheimer's symptom in your nose could start 'way before' memory loss - Liverpool Echo](https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1JMSU5IM3JLME51YTVIYjAxOU5xbkdDR0ZNT0M3LUZ4VV9faDl6SWVXUEszMHJDTm5jbDRRZHBJRDZ0bHZpcnhKQ1c5aTNndHMySjBQbVF3MFJJbGlGRzBfYlR3SFVkZnRGTXQ4cHZnSElNUm1YUzlUYVlFS2tXcVFKcGhPbTgwSEVSOGZUdVNUVGc2eUZ0YWJn0gGfAUFVX3lxTFBwSGJHR3B0WFJxRURNM1RCOXJTRzhrRFdEZzR1R1gxdnAzbWpnTU9IMTRibXRoeUhJQWxnU1VEbWtKelp1cVloRHBkb2haWTdwSDRROGFhdl80WjByd3locnREQ3lBdVE0M0Vhc3NYYjZHQmk2aW83VVNnWVBIQjI2TWxuTC1LSFdpVGRsR3RYZkdHcVcwcDdxWVZRM2pLMA?oc=5)
+
+2026-11-04
+
+Source: [Liverpool Echo](https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1JMSU5IM3JLME51YTVIYjAxOU5xbkdDR0ZNT0M3LUZ4VV9faDl6SWVXUEszMHJDTm5jbDRRZHBJRDZ0bHZpcnhKQ1c5aTNndHMySjBQbVF3MFJJbGlGRzBfYlR3SFVkZnRGTXQ4cHZnSElNUm1YUzlUYVlFS2tXcVFKcGhPbTgwSEVSOGZUdVNUVGc2eUZ0YWJn0gGfAUFVX3lxTFBwSGJHR3B0WFJxRURNM1RCOXJTRzhrRFdEZzR1R1gxdnAzbWpnTU9IMTRibXRoeUhJQWxnU1VEbWtKelp1cVloRHBkb2haWTdwSDRROGFhdl80WjByd3locnREQ3lBdVE0M0Vhc3NYYjZHQmk2aW83VVNnWVBIQjI2TWxuTC1LSFdpVGRsR3RYZkdHcVcwcDdxWVZRM2pLMA?oc=5)
 
 ---
 
