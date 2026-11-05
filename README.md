@@ -20,38 +20,39 @@ Drug repurposing predictions for European Union EMA-approved drugs using the TxG
 | Item | Count |
 |------|------|
 | **Drug Reports** | 560 |
-| **Total Predictions** | 2,122,856 |
-| **Unique Drugs** | 609 |
+| **Total Predictions** | 2,608,762 |
+| **Unique Drugs** | 669 |
 | **Unique Indications** | 17,041 |
 | **DDI Data** | 160,235 |
-| **FHIR Resources** | 644 MK / 32,362 CUD |
+| **FHIR Resources** | 664 MK / 2,613 CUD |
 
 ### Evidence Level Distribution
 
 | Evidence Level | Report Count | Description |
 |---------|-------|------|
-| **L1** | 33 | Multiple Phase 3 RCTs |
-| **L2** | 17 | Single RCT or multiple Phase 2 |
-| **L3** | 1 | Observational studies |
-| **L4** | 3 | Preclinical / mechanistic studies |
-| **L5** | 588 | Computational prediction only |
+| **L1** | 7 | Multiple Phase 3 RCTs |
+| **L2** | 16 | Single RCT or multiple Phase 2 |
+| **L3** | 13 | Observational studies |
+| **L4** | 30 | Preclinical / mechanistic studies |
+| **L5** | 374 | Computational prediction only |
+| **N/A** | 120 | Known uses only (no new prediction) |
 
 ### By Source
 
 | Source | Predictions |
 |------|------|
-| DL | 2,121,365 |
-| KG + DL | 1,154 |
-| KG | 337 |
+| DL | 2,607,271 |
+| KG + DL | 1,327 |
+| KG | 164 |
 
 ### By Confidence
 
 | Confidence | Predictions |
 |------|------|
-| very_high | 840 |
-| high | 100,983 |
-| medium | 195,730 |
-| low | 1,825,303 |
+| very_high | 979 |
+| high | 122,092 |
+| medium | 242,523 |
+| low | 2,243,168 |
 
 ---
 
@@ -70,8 +71,8 @@ uv run python scripts/run_kg_prediction.py
 
 | Metric | Value |
 |------|------|
-| EMA Total Drugs | 1,543 |
-| Mapped to DrugBank | 1,013 (65.7%) |
+| EMA Total Drugs | 1,698 |
+| Mapped to DrugBank | 1,360 (80.1%) |
 | Repurposing Candidates | 1,491 |
 
 ### Deep Learning Method
@@ -83,8 +84,8 @@ PYTHONPATH=src python -m eutxgnn.predict.txgnn_model
 
 | Metric | Value |
 |------|------|
-| Total DL Predictions | 1,364,530 |
-| Unique Drugs | 609 |
+| Total DL Predictions | 1,540,909 |
+| Unique Drugs | 669 |
 | Unique Indications | 17,041 |
 
 ### Score Interpretation
