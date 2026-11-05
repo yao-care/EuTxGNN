@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Belatacept. 0 predicted indications."
 permalink: /news/belatacept/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Belatacept News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Belatacept?">
-<strong>Belatacept</strong> currently has <strong>123 news articles</strong>, with 0 predicted indications.
+<strong>Belatacept</strong> currently has <strong>125 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Belatacept with the latest h
 <p><a href="{{ '/drugs/belatacept/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (123)
+## Related News (125)
+
+### [Doctors in England launch primary-care trial of blood tests for spotting cancer early](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
+
+2026-11-04 <span class="news-indication-tag">cancer</span>
+
+Source: [Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
+
+---
 
 ### [Decoding the regulatory programs governing glioblastoma plasticity](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSVjREOWM1TGdqb1hZMmpIUlpsTW1OMG9HbzhuYVJaVHpiTzZlRUF0QVdVSGpCMnlXZzhJa3VFenRIOW13RVByR3Z2WVRSY0l5S1A2bEJPdTQ4anhGZFVR?oc=5)
 
@@ -64,6 +72,14 @@ Source: [Cordoba Hoy](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd1NlZ
 
 ---
 
+### [Meyer, rimosso dal naso un craniofaringioma a un bimbo di 5 anni - The Wom Healthy](https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVVEZUNPMkM4c1RXWnpWa3kzWS11LXVCV05iMlpFOEVYS2xjOVpfckxFQjZZNmZKdXZOU1VDd1hPbFdNOWtyT1ZfRjE0MmJ0R09mdUZISTdVLUlfdVhQTTdaUzhyRk9PMXJHSVVlOHhQQTlXNUhCellQXzlwdFBoT3ozZzBsZG1lTTVGT25UZmhoRzlvRF9HQTdmYw?oc=5)
+
+2026-11-04 <span class="news-indication-tag">tumor</span>
+
+Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVVEZUNPMkM4c1RXWnpWa3kzWS11LXVCV05iMlpFOEVYS2xjOVpfckxFQjZZNmZKdXZOU1VDd1hPbFdNOWtyT1ZfRjE0MmJ0R09mdUZISTdVLUlfdVhQTTdaUzhyRk9PMXJHSVVlOHhQQTlXNUhCellQXzlwdFBoT3ozZzBsZG1lTTVGT25UZmhoRzlvRF9HQTdmYw?oc=5)
+
+---
+
 ### [El cutavirus emerge como marcador pronóstico en carcinoma orofaríngeo - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVU1rT2dCYV91bHplTXNsRTh5c29iMUVMdGhVSjM1elVsYTBSM09zODFJdXZ2Ul9XSVA4U0owOGFQWC04ZDVKZ1poTHFUUUVpVmlyM0w2TWVDeW9DS2RlcnNZSUlnN3AtYVNjYkE3MEhFWnNfNUx3RUJ1UUxXLXFRZ0Q1cGl4bFU1c3A0LVRzZlQxSnVMR3g4WGZINU5zOFB6UEFmS1ppX2Nzcjk2aUh0cUZuVDJZNk9icGJwSVR1LUXSAbsBQVVfeXFMUG5Gb1dPWTZjSGlVRHRqbVVPMjJpWTdOa3QxUlZSVm9OZFhjV2RGQzNMN0hyTnYyOFFINk5fSDhWdGFkX3RrZzYyTnR6VVdOb0ZNYnF6U01kVVNGb0lLVmpHbGljZFQ1TGpGMmZXZF9fWWtFY01CdzM3OVlXVWFOSmtLcThoVm5pU1FNWGFBbzdtbzc4THJCT0JRRXJMaWkyRzdpWllYMFFwRVl5Vm1jSWpsVXZsWllxVWhwUQ?oc=5)
 
 2026-11-04 <span class="news-indication-tag">carcinoma</span>
@@ -93,14 +109,6 @@ Source: [TF1 Info](https://news.google.com/rss/articles/CBMingJBVV95cUxNZ0U3WERB
 2026-11-04 <span class="news-indication-tag">cancer</span>
 
 Source: [rts.ch](https://news.google.com/rss/articles/CBMitwFBVV95cUxONjUySzRGeHQ5T1hSS19OZDhqWnRNTVhEd2NxcFF2U2FnWVZaZFEtMFcyZHR3QlZrU29sUVVsVUt4UExINjNUQzNIWTBMLS1rejZEM1NCa0o1RldLM3IzSklzTTlMMTlDMlpWV2poZU92M3hpQlp1a1pYVE1wVDhhNHVYeHlQMlVmczRqSGhNSlJpQXFXTlE2bG5peWZpQUJoRlYzeDJYdThlY21NTWxVdmFocEt4YnM?oc=5)
-
----
-
-### [Family doctors in England to use blood tests to spot cancer early in world first](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
-
-2026-11-04 <span class="news-indication-tag">cancer</span>
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
 
 ---
 
@@ -141,6 +149,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdm9hRmJ4
 2026-11-04 <span class="news-indication-tag">tumor</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNm9RNFRkb0FlSTlkQlFUVk5GbXNUaFIxM1VMM2t4REY3WjduRE5DODZGclBDMUFPRnlzVUJ2QnNwOHdiYVBLUEJrcWw2WDBZVGFJNlhPNHk5N3lkalI5SUNNeTM4MV9YbzFXai1Vcmt4alRoQ1U5QUo4UlVOX250TzI0LTJMbWdlZW9yX28tVkFZek5KVlBDekF1MzNYZzNTcXBnY0RrRHBlUEsxdi12WjhBWXAybTjSAbIBQVVfeXFMTWphX1gxbExYR1ZDMTdZZmdYQm1ybW5uaDZBOERydmd5VHFWT0Y4Q2dza0lMQ05tbTN3TW9RX2prVFFkRHBvT0s5eWY1V0R6ZVJLemNjVF9wcHVQaHBLVU5PY3NfaGM0dFpZNkFCZ3RXaExGeGVCLW9Wb1ZUWm9tMGdiTzUxbk11T0xiRk9FdDEzZzdnMk16dFY4V1dqSld5aGhoQ1Rxa3ZfTWN5VlR0N3JNZw?oc=5)
+
+---
+
+### [Sterbezahlen bei Gebärmutterhalskrebs könnten stark steigen](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSDRXVmVvb0RYcTRqa0FnanZ2VW5MeXZMVUhNUngySGNhbmF0MHEtVTQ1MTVZTTBzNmZOYWFQcTl0YlVNUHpyOU5zSlZEVVhscGEtRjFVODZpa3BDdGFSdWtXOVRIS3NnaTVEeDc1d0dNVy1UZk5vd0NxWENjQjZsMmFfSV85cFl4bk5HUg?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Krebs</span>
+
+Source: [WEB.DE](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSDRXVmVvb0RYcTRqa0FnanZ2VW5MeXZMVUhNUngySGNhbmF0MHEtVTQ1MTVZTTBzNmZOYWFQcTl0YlVNUHpyOU5zSlZEVVhscGEtRjFVODZpa3BDdGFSdWtXOVRIS3NnaTVEeDc1d0dNVy1UZk5vd0NxWENjQjZsMmFfSV85cFl4bk5HUg?oc=5)
 
 ---
 

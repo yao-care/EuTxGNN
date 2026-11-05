@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Bluthochdruck (hypertension) News"
+title: "hipertensión (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 19 articles, 55 related drugs."
+description: "Health news about hipertensión (hypertension). 20 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
-# Bluthochdruck (hypertension) News
+# hipertensión (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>19 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about hipertensión (hypertension)?">
+<strong>hipertensión (hypertension)</strong> currently has <strong>20 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “hipertensión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -60,7 +60,15 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (19)
+## Related News (20)
+
+### [Expertos recomiendan a los mayores comer cacahuetes a diario: «Un puñado tostados y con piel protege la memoria frente al envejecimiento» - El Diario Vasco](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTG5wdnFZaVpTckticGctel9kMlJ2VW54MHlIY2owLVhlTmtyd0tzaldObXVtN2dUMVdLN2xXbU1VblBRVWhiWGpDN0huLVJIckxsYXMxbmFKR1ZadHZSOGtEZ0NvaUp1VzJxdVZrRzYwZmtVdk9KaGpUZ18yd19WbklsclZlaUpPcU9kdkE3MjQyeERCenltWjU0RVdZVWcxNUowZXRyRTR5eVZZRlZ4RzFqZkV3NG9oREpzbEFiWFJmdkpXbHg2WGo0OGZZNFcxeDl6cWVEOWJsUzBa0gHiAUFVX3lxTE5JZ18xTXFoV3Y5OUJGNVE3cFFMQjU4TlVNTkRxYll5UFNYWTdUcFR6eW9uZkNiLXpmWkxkbjdCSzVyMXphUF8wSHJNN1JhblhlYVg4V0RXdUlEclRabDBob1ZCRkFzSDN0d19kRm5NX2xiaFpCanlEVmRVUGVDaTYyaV82Nzkyb0VrWnk1UHRuTnQwa0xPUjRtTzRpRHNwdEkwZ0NEMTYzdUdBcTY1TUtxTVMtMHg1YkJwamJfNExkclBRbG9GeE92dGREcVRuRU9TS2VQLVRrX1dGVDNhYXQ5Qnc?oc=5)
+
+2026-11-04
+
+Source: [El Diario Vasco](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTG5wdnFZaVpTckticGctel9kMlJ2VW54MHlIY2owLVhlTmtyd0tzaldObXVtN2dUMVdLN2xXbU1VblBRVWhiWGpDN0huLVJIckxsYXMxbmFKR1ZadHZSOGtEZ0NvaUp1VzJxdVZrRzYwZmtVdk9KaGpUZ18yd19WbklsclZlaUpPcU9kdkE3MjQyeERCenltWjU0RVdZVWcxNUowZXRyRTR5eVZZRlZ4RzFqZkV3NG9oREpzbEFiWFJmdkpXbHg2WGo0OGZZNFcxeDl6cWVEOWJsUzBa0gHiAUFVX3lxTE5JZ18xTXFoV3Y5OUJGNVE3cFFMQjU4TlVNTkRxYll5UFNYWTdUcFR6eW9uZkNiLXpmWkxkbjdCSzVyMXphUF8wSHJNN1JhblhlYVg4V0RXdUlEclRabDBob1ZCRkFzSDN0d19kRm5NX2xiaFpCanlEVmRVUGVDaTYyaV82Nzkyb0VrWnk1UHRuTnQwa0xPUjRtTzRpRHNwdEkwZ0NEMTYzdUdBcTY1TUtxTVMtMHg1YkJwamJfNExkclBRbG9GeE92dGREcVRuRU9TS2VQLVRrX1dGVDNhYXQ5Qnc?oc=5)
+
+---
 
 ### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 

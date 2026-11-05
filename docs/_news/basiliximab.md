@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Basiliximab. 0 predicted indications."
 permalink: /news/basiliximab/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Basiliximab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Basiliximab?">
-<strong>Basiliximab</strong> currently has <strong>112 news articles</strong>, with 0 predicted indications.
+<strong>Basiliximab</strong> currently has <strong>115 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Basiliximab with the latest 
 <p><a href="{{ '/drugs/basiliximab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (112)
+## Related News (115)
+
+### [Doctors in England launch primary-care trial of blood tests for spotting cancer early](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
+
+2026-11-04 <span class="news-indication-tag">cancer</span>
+
+Source: [Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
+
+---
 
 ### [Decoding the regulatory programs governing glioblastoma plasticity](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSVjREOWM1TGdqb1hZMmpIUlpsTW1OMG9HbzhuYVJaVHpiTzZlRUF0QVdVSGpCMnlXZzhJa3VFenRIOW13RVByR3Z2WVRSY0l5S1A2bEJPdTQ4anhGZFVR?oc=5)
 
@@ -53,6 +61,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUFM
 2026-11-04 <span class="news-indication-tag">tumor</span>
 
 Source: [Cordoba Hoy](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd1NlZHRxTGc2RldiaV80c1F0azNnN3N0bFk4OU1vUWRvUFBpenJMX19sMlJ1Nmw5a3lyUGgzYWZPbDZHRHN2eWx3bk41QjBkT1lLdWpjc3B4bl84c2QwQUFRb3VSaVRxalhJTGVXeG1DejZRcE9Hd0FsdHM1RkR5Q2VpQ3ZVS3YtU0hLLV9UdGhBb3l5NGFzUlRBLWUwLWRya3VxeXRxUDJWeHRPajU1VU93aDFGbXlnY0tFUHB3WUJXZ3FOSGV0X1Frd01VRU01dGhnZ2ZScVFwcDF2SndiUXpR0gHnAUFVX3lxTFBVT1AtVUNfNUt2alFjVENQaTlaOVJ4clJreWxrU0tFdEpIbFowWDdXRzdlUzJOTlhhQWxvWlBYb256ajFFQ000azhscDVkckJNQm1Mbmp3VG02TlBtak50cGd5NHo3a3VrSVNVVUI2MlNieWpTUnV4LTlaZnlaQ1lGel8xWTVmTFVhdU9jd2w5ajJBb2xlWXB3M05tNzhyRXlYbDZ4WUVMWHlVZDkzRzJfZE1tdlhIYkJvM0NLUVJ6b09VdmVKSEx3eU9QbWg4ZWkwZVlVM2FKRDhXVE9PRVpVNzZpY2tHdw?oc=5)
+
+---
+
+### [Meyer, rimosso dal naso un craniofaringioma a un bimbo di 5 anni - The Wom Healthy](https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVVEZUNPMkM4c1RXWnpWa3kzWS11LXVCV05iMlpFOEVYS2xjOVpfckxFQjZZNmZKdXZOU1VDd1hPbFdNOWtyT1ZfRjE0MmJ0R09mdUZISTdVLUlfdVhQTTdaUzhyRk9PMXJHSVVlOHhQQTlXNUhCellQXzlwdFBoT3ozZzBsZG1lTTVGT25UZmhoRzlvRF9HQTdmYw?oc=5)
+
+2026-11-04 <span class="news-indication-tag">tumor</span>
+
+Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVVEZUNPMkM4c1RXWnpWa3kzWS11LXVCV05iMlpFOEVYS2xjOVpfckxFQjZZNmZKdXZOU1VDd1hPbFdNOWtyT1ZfRjE0MmJ0R09mdUZISTdVLUlfdVhQTTdaUzhyRk9PMXJHSVVlOHhQQTlXNUhCellQXzlwdFBoT3ozZzBsZG1lTTVGT25UZmhoRzlvRF9HQTdmYw?oc=5)
 
 ---
 
@@ -88,14 +104,6 @@ Source: [rts.ch](https://news.google.com/rss/articles/CBMitwFBVV95cUxONjUySzRGeH
 
 ---
 
-### [Family doctors in England to use blood tests to spot cancer early in world first](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
-
-2026-11-04 <span class="news-indication-tag">cancer</span>
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
-
----
-
 ### [I had to have my whole nose reconstructed - how to tell if your spots are cancer - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZEY5aEM4a1hOMGdDYkhhRnFZQ1hzOEFKVGRBc0lqanFMRDRkRlBkaEZleE5TSEVHN1RyRUhnRDBCSll5NVJWdWJ0X2VuekwyQmltRVR6RU5iS1NQWDQyLWhEYXZBaFA5dXRNVG9YTWlHVUIzZ1ZKQk9oUFozZm40SUhlVVQ3Q2tIUW42dXc5SQ?oc=5)
 
 2026-11-04 <span class="news-indication-tag">cancer</span>
@@ -125,6 +133,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdm9hRmJ4
 2026-11-04 <span class="news-indication-tag">tumor</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNm9RNFRkb0FlSTlkQlFUVk5GbXNUaFIxM1VMM2t4REY3WjduRE5DODZGclBDMUFPRnlzVUJ2QnNwOHdiYVBLUEJrcWw2WDBZVGFJNlhPNHk5N3lkalI5SUNNeTM4MV9YbzFXai1Vcmt4alRoQ1U5QUo4UlVOX250TzI0LTJMbWdlZW9yX28tVkFZek5KVlBDekF1MzNYZzNTcXBnY0RrRHBlUEsxdi12WjhBWXAybTjSAbIBQVVfeXFMTWphX1gxbExYR1ZDMTdZZmdYQm1ybW5uaDZBOERydmd5VHFWT0Y4Q2dza0lMQ05tbTN3TW9RX2prVFFkRHBvT0s5eWY1V0R6ZVJLemNjVF9wcHVQaHBLVU5PY3NfaGM0dFpZNkFCZ3RXaExGeGVCLW9Wb1ZUWm9tMGdiTzUxbk11T0xiRk9FdDEzZzdnMk16dFY4V1dqSld5aGhoQ1Rxa3ZfTWN5VlR0N3JNZw?oc=5)
+
+---
+
+### [Sterbezahlen bei Gebärmutterhalskrebs könnten stark steigen](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSDRXVmVvb0RYcTRqa0FnanZ2VW5MeXZMVUhNUngySGNhbmF0MHEtVTQ1MTVZTTBzNmZOYWFQcTl0YlVNUHpyOU5zSlZEVVhscGEtRjFVODZpa3BDdGFSdWtXOVRIS3NnaTVEeDc1d0dNVy1UZk5vd0NxWENjQjZsMmFfSV85cFl4bk5HUg?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Krebs</span>
+
+Source: [WEB.DE](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSDRXVmVvb0RYcTRqa0FnanZ2VW5MeXZMVUhNUngySGNhbmF0MHEtVTQ1MTVZTTBzNmZOYWFQcTl0YlVNUHpyOU5zSlZEVVhscGEtRjFVODZpa3BDdGFSdWtXOVRIS3NnaTVEeDc1d0dNVy1UZk5vd0NxWENjQjZsMmFfSV85cFl4bk5HUg?oc=5)
 
 ---
 
@@ -253,6 +269,14 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1dhRWM
 2026-11-03 <span class="news-indication-tag">copd</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRG1iRkV6YWxJSGhRanYwMlpaRGN6emtjU3JmXzhVRlhUcFFDUzhOTjhmQzJFbVFzX05xOC1remFXemtqNlBpWk9NTzE3bVkzR294ZnVIUmdCbHBtRU03TWJ3S2ZqY2dYRzlNTHB6ZkpNT3ZGUEtYdUNDZVpHaS1vM2hFanpTR1N4REdtWjd6Z1RIVkpFSHhTS3A0SGNDZlp0VmFoUGw5b1NJczFhc3hNczVVaF9XNF84eF8tQ01XT1prS01iVHN6V0lXOFVaLURvZW4xT0MtdFptTHdDd0tCZQ?oc=5)
+
+---
+
+### [El peligro de normalizar síntomas respiratorios: “No hay que esperar a que sean intensos para pedir ayuda](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMUJoVGNTWVJ2bklWSk5udXlFZ005QzQxa1lOTWxQblpBeHlmTXFVV3UtRklOZ0I0OXNIZ3VHRUo0Rm1wbXlFRVp0bEM1ejVFU2o1ZDR5bjN3a0d4RkNiQzB6V0VXYjZGQTJrX0dWQkZnVnc5OWVlcVF3a2JvekJZWWlEMGVYZ0hZZ0I3dzEzWk43M0NsZ1hOVjRxbEttRUgtb3F5QW5EUEhjZXotYTVxUHVKMmFQWE9VSXhFbWpqSzlfdU16ZkhocnZwZDFJT3ZwV3JaQ0F1S29wNW5jMlZxTEZGaGluMGFWOUpGT01yamN4eThCdXpxeFdsTHQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">EPOC</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMUJoVGNTWVJ2bklWSk5udXlFZ005QzQxa1lOTWxQblpBeHlmTXFVV3UtRklOZ0I0OXNIZ3VHRUo0Rm1wbXlFRVp0bEM1ejVFU2o1ZDR5bjN3a0d4RkNiQzB6V0VXYjZGQTJrX0dWQkZnVnc5OWVlcVF3a2JvekJZWWlEMGVYZ0hZZ0I3dzEzWk43M0NsZ1hOVjRxbEttRUgtb3F5QW5EUEhjZXotYTVxUHVKMmFQWE9VSXhFbWpqSzlfdU16ZkhocnZwZDFJT3ZwV3JaQ0F1S29wNW5jMlZxTEZGaGluMGFWOUpGT01yamN4eThCdXpxeFdsTHQ?oc=5)
 
 ---
 

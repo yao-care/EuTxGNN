@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Opicapone. 0 predicted indications."
 permalink: /news/opicapone/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Opicapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Opicapone?">
-<strong>Opicapone</strong> currently has <strong>7 news articles</strong>, with 0 predicted indications.
+<strong>Opicapone</strong> currently has <strong>8 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [The 6 midlife symptoms of Alzheimer's that have nothing to do with memory as early-onset disease 'spreads faster' - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQR28ySy15RXM4akNYakFmbE1EUTZNUVRCbkFMeFdmVlpXNGdOMGQwQ3lRc0F1VHdqeV9tYVBvX0JqNlRsN2JTZGUzYndNQnJNYUR5djAtSDMtTHdpVXpScXNMYjRmTlRoVEgtR1hhWWRYMUhiNkhKVTk2dUJZUXBUaC04WGdEQXc?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQR28ySy15RXM4akNYakFmbE1EUTZNUVRCbkFMeFdmVlpXNGdOMGQwQ3lRc0F1VHdqeV9tYVBvX0JqNlRsN2JTZGUzYndNQnJNYUR5djAtSDMtTHdpVXpScXNMYjRmTlRoVEgtR1hhWWRYMUhiNkhKVTk2dUJZUXBUaC04WGdEQXc?oc=5)
+
+---
 
 ### [Alzheimer's symptom in nose may start 'way before' memory loss - Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUFmTk5sMTRlU1JUXy1CbW1vSmI2Z3VSXzRVX1JLaTZEWEJSUTNEc0tvXzJKNHBaUzVXckJDb09IV1FUYlJ5YTdoVmF6QzZucFZtbU84eUxpUEdDRkdvOVVLMDI4OS1QN0dNVzNPWHNmQk9NbFIzZmNqVjNqRXVQdjgwR3MyVkcxVUFXadIBkgFBVV95cUxNbkZUUFVmOWpObmZ2QVA5eEtGQ0p6Vk83Y0VnNmlQdFFTS0NLSzdNMi1aTDZtWk1kWlB5LV8tRzRvWDZvaWJObFd1c0R0SGtBMVZNTmFMbm4wYlJoU212ak5aVVRlSkY1TkFDZzZCZFJDTjhPcDRIZ2ZGWEg0TTBDTktsdnE5ZkV5R0N6RTZRYlk3UQ?oc=5)
 

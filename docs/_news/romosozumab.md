@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Romosozumab. 0 predicted indications."
 permalink: /news/romosozumab/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Romosozumab News
@@ -42,7 +42,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPSH
 
 ### [Prädiabetes: Abnehmspritzen mit 31 Prozent geringerem Diabetesrisiko verbunden](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
 
-2026-11-04 <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
+2026-11-04 <span class="news-indication-tag">diabetes</span> <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
 
@@ -114,7 +114,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXQ0
 
 ### [Adipositas: DDG fordert Kostenübernahme für Abnehm-Medikamente](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
 
-2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-11-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [AOK](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
 

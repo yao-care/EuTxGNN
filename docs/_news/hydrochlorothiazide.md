@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Hydrochlorothiazide. 0 predicted indications."
 permalink: /news/hydrochlorothiazide/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Hydrochlorothiazide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Hydrochlorothiazide?">
-<strong>Hydrochlorothiazide</strong> currently has <strong>137 news articles</strong>, with 0 predicted indications.
+<strong>Hydrochlorothiazide</strong> currently has <strong>140 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Hydrochlorothiazide with the
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (137)
+## Related News (140)
+
+### [Doctors in England launch primary-care trial of blood tests for spotting cancer early](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
+
+2026-11-04 <span class="news-indication-tag">cancer</span>
+
+Source: [Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
+
+---
 
 ### [Decoding the regulatory programs governing glioblastoma plasticity](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSVjREOWM1TGdqb1hZMmpIUlpsTW1OMG9HbzhuYVJaVHpiTzZlRUF0QVdVSGpCMnlXZzhJa3VFenRIOW13RVByR3Z2WVRSY0l5S1A2bEJPdTQ4anhGZFVR?oc=5)
 
@@ -48,6 +56,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUFM
 
 ---
 
+### [Expertos recomiendan a los mayores comer cacahuetes a diario: «Un puñado tostados y con piel protege la memoria frente al envejecimiento» - El Diario Vasco](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTG5wdnFZaVpTckticGctel9kMlJ2VW54MHlIY2owLVhlTmtyd0tzaldObXVtN2dUMVdLN2xXbU1VblBRVWhiWGpDN0huLVJIckxsYXMxbmFKR1ZadHZSOGtEZ0NvaUp1VzJxdVZrRzYwZmtVdk9KaGpUZ18yd19WbklsclZlaUpPcU9kdkE3MjQyeERCenltWjU0RVdZVWcxNUowZXRyRTR5eVZZRlZ4RzFqZkV3NG9oREpzbEFiWFJmdkpXbHg2WGo0OGZZNFcxeDl6cWVEOWJsUzBa0gHiAUFVX3lxTE5JZ18xTXFoV3Y5OUJGNVE3cFFMQjU4TlVNTkRxYll5UFNYWTdUcFR6eW9uZkNiLXpmWkxkbjdCSzVyMXphUF8wSHJNN1JhblhlYVg4V0RXdUlEclRabDBob1ZCRkFzSDN0d19kRm5NX2xiaFpCanlEVmRVUGVDaTYyaV82Nzkyb0VrWnk1UHRuTnQwa0xPUjRtTzRpRHNwdEkwZ0NEMTYzdUdBcTY1TUtxTVMtMHg1YkJwamJfNExkclBRbG9GeE92dGREcVRuRU9TS2VQLVRrX1dGVDNhYXQ5Qnc?oc=5)
+
+2026-11-04 <span class="news-indication-tag">hipertensión</span>
+
+Source: [El Diario Vasco](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTG5wdnFZaVpTckticGctel9kMlJ2VW54MHlIY2owLVhlTmtyd0tzaldObXVtN2dUMVdLN2xXbU1VblBRVWhiWGpDN0huLVJIckxsYXMxbmFKR1ZadHZSOGtEZ0NvaUp1VzJxdVZrRzYwZmtVdk9KaGpUZ18yd19WbklsclZlaUpPcU9kdkE3MjQyeERCenltWjU0RVdZVWcxNUowZXRyRTR5eVZZRlZ4RzFqZkV3NG9oREpzbEFiWFJmdkpXbHg2WGo0OGZZNFcxeDl6cWVEOWJsUzBa0gHiAUFVX3lxTE5JZ18xTXFoV3Y5OUJGNVE3cFFMQjU4TlVNTkRxYll5UFNYWTdUcFR6eW9uZkNiLXpmWkxkbjdCSzVyMXphUF8wSHJNN1JhblhlYVg4V0RXdUlEclRabDBob1ZCRkFzSDN0d19kRm5NX2xiaFpCanlEVmRVUGVDaTYyaV82Nzkyb0VrWnk1UHRuTnQwa0xPUjRtTzRpRHNwdEkwZ0NEMTYzdUdBcTY1TUtxTVMtMHg1YkJwamJfNExkclBRbG9GeE92dGREcVRuRU9TS2VQLVRrX1dGVDNhYXQ5Qnc?oc=5)
+
+---
+
 ### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
 2026-11-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
@@ -61,6 +77,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc
 2026-11-04 <span class="news-indication-tag">tumor</span>
 
 Source: [Cordoba Hoy](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd1NlZHRxTGc2RldiaV80c1F0azNnN3N0bFk4OU1vUWRvUFBpenJMX19sMlJ1Nmw5a3lyUGgzYWZPbDZHRHN2eWx3bk41QjBkT1lLdWpjc3B4bl84c2QwQUFRb3VSaVRxalhJTGVXeG1DejZRcE9Hd0FsdHM1RkR5Q2VpQ3ZVS3YtU0hLLV9UdGhBb3l5NGFzUlRBLWUwLWRya3VxeXRxUDJWeHRPajU1VU93aDFGbXlnY0tFUHB3WUJXZ3FOSGV0X1Frd01VRU01dGhnZ2ZScVFwcDF2SndiUXpR0gHnAUFVX3lxTFBVT1AtVUNfNUt2alFjVENQaTlaOVJ4clJreWxrU0tFdEpIbFowWDdXRzdlUzJOTlhhQWxvWlBYb256ajFFQ000azhscDVkckJNQm1Mbmp3VG02TlBtak50cGd5NHo3a3VrSVNVVUI2MlNieWpTUnV4LTlaZnlaQ1lGel8xWTVmTFVhdU9jd2w5ajJBb2xlWXB3M05tNzhyRXlYbDZ4WUVMWHlVZDkzRzJfZE1tdlhIYkJvM0NLUVJ6b09VdmVKSEx3eU9QbWg4ZWkwZVlVM2FKRDhXVE9PRVpVNzZpY2tHdw?oc=5)
+
+---
+
+### [Meyer, rimosso dal naso un craniofaringioma a un bimbo di 5 anni - The Wom Healthy](https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVVEZUNPMkM4c1RXWnpWa3kzWS11LXVCV05iMlpFOEVYS2xjOVpfckxFQjZZNmZKdXZOU1VDd1hPbFdNOWtyT1ZfRjE0MmJ0R09mdUZISTdVLUlfdVhQTTdaUzhyRk9PMXJHSVVlOHhQQTlXNUhCellQXzlwdFBoT3ozZzBsZG1lTTVGT25UZmhoRzlvRF9HQTdmYw?oc=5)
+
+2026-11-04 <span class="news-indication-tag">tumor</span>
+
+Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVVEZUNPMkM4c1RXWnpWa3kzWS11LXVCV05iMlpFOEVYS2xjOVpfckxFQjZZNmZKdXZOU1VDd1hPbFdNOWtyT1ZfRjE0MmJ0R09mdUZISTdVLUlfdVhQTTdaUzhyRk9PMXJHSVVlOHhQQTlXNUhCellQXzlwdFBoT3ozZzBsZG1lTTVGT25UZmhoRzlvRF9HQTdmYw?oc=5)
 
 ---
 
@@ -104,14 +128,6 @@ Source: [L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cU
 
 ---
 
-### [Family doctors in England to use blood tests to spot cancer early in world first](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
-
-2026-11-04 <span class="news-indication-tag">cancer</span>
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
-
----
-
 ### [I had to have my whole nose reconstructed - how to tell if your spots are cancer - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZEY5aEM4a1hOMGdDYkhhRnFZQ1hzOEFKVGRBc0lqanFMRDRkRlBkaEZleE5TSEVHN1RyRUhnRDBCSll5NVJWdWJ0X2VuekwyQmltRVR6RU5iS1NQWDQyLWhEYXZBaFA5dXRNVG9YTWlHVUIzZ1ZKQk9oUFozZm40SUhlVVQ3Q2tIUW42dXc5SQ?oc=5)
 
 2026-11-04 <span class="news-indication-tag">cancer</span>
@@ -149,6 +165,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdm9hRmJ4
 2026-11-04 <span class="news-indication-tag">tumor</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNm9RNFRkb0FlSTlkQlFUVk5GbXNUaFIxM1VMM2t4REY3WjduRE5DODZGclBDMUFPRnlzVUJ2QnNwOHdiYVBLUEJrcWw2WDBZVGFJNlhPNHk5N3lkalI5SUNNeTM4MV9YbzFXai1Vcmt4alRoQ1U5QUo4UlVOX250TzI0LTJMbWdlZW9yX28tVkFZek5KVlBDekF1MzNYZzNTcXBnY0RrRHBlUEsxdi12WjhBWXAybTjSAbIBQVVfeXFMTWphX1gxbExYR1ZDMTdZZmdYQm1ybW5uaDZBOERydmd5VHFWT0Y4Q2dza0lMQ05tbTN3TW9RX2prVFFkRHBvT0s5eWY1V0R6ZVJLemNjVF9wcHVQaHBLVU5PY3NfaGM0dFpZNkFCZ3RXaExGeGVCLW9Wb1ZUWm9tMGdiTzUxbk11T0xiRk9FdDEzZzdnMk16dFY4V1dqSld5aGhoQ1Rxa3ZfTWN5VlR0N3JNZw?oc=5)
+
+---
+
+### [Sterbezahlen bei Gebärmutterhalskrebs könnten stark steigen](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSDRXVmVvb0RYcTRqa0FnanZ2VW5MeXZMVUhNUngySGNhbmF0MHEtVTQ1MTVZTTBzNmZOYWFQcTl0YlVNUHpyOU5zSlZEVVhscGEtRjFVODZpa3BDdGFSdWtXOVRIS3NnaTVEeDc1d0dNVy1UZk5vd0NxWENjQjZsMmFfSV85cFl4bk5HUg?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Krebs</span>
+
+Source: [WEB.DE](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSDRXVmVvb0RYcTRqa0FnanZ2VW5MeXZMVUhNUngySGNhbmF0MHEtVTQ1MTVZTTBzNmZOYWFQcTl0YlVNUHpyOU5zSlZEVVhscGEtRjFVODZpa3BDdGFSdWtXOVRIS3NnaTVEeDc1d0dNVy1UZk5vd0NxWENjQjZsMmFfSV85cFl4bk5HUg?oc=5)
 
 ---
 

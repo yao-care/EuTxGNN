@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Vortioxetine. 2 predicted indications."
 permalink: /news/vortioxetine/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Vortioxetine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Vortioxetine?">
-<strong>Vortioxetine</strong> currently has <strong>14 news articles</strong>, with 2 predicted indications.
+<strong>Vortioxetine</strong> currently has <strong>13 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,21 +34,13 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (13)
 
 ### [Dépression résistante : un spray nasal psychédélique à l’essai](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEZpWlF6Ykt1LVpfVlpGZ2d0SlVscFRVeWNjeHd4dkhHci1zU3pBQmpEQVB4ZVR3WFpjcjBKSWc4dy1XQk5BdXI1LV9Xd3BydG1FaUV3QU1jN3JsRTd1bFQ0NjQ0VVVsREZFY1l0Yk8zY0Iza3d3N2Y2bVVoQzF2OEpR?oc=5)
 
 2026-11-04 <span class="news-indication-tag">dépression</span>
 
 Source: [ma-sante.news](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEZpWlF6Ykt1LVpfVlpGZ2d0SlVscFRVeWNjeHd4dkhHci1zU3pBQmpEQVB4ZVR3WFpjcjBKSWc4dy1XQk5BdXI1LV9Xd3BydG1FaUV3QU1jN3JsRTd1bFQ0NjQ0VVVsREZFY1l0Yk8zY0Iza3d3N2Y2bVVoQzF2OEpR?oc=5)
-
----
-
-### [Autism diagnoses surge 10-fold in 13 years as study finds 'characteristics' have shifted over time - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxQbm5IbFI2cVRoczJtenVWdGdxR1cwYXlXUXBVVkdVOVFmenZxWWJVQjR0X2lqR0RjWTFwLVhwOE5YMXNHS3d2aDNRakx2MThJY0tEalA4Vi1HaEdBcjg2LTYxQmtodm9zbDFlNXd4Y1lBTmJKeHdYWWdjZG96NVpHZDZ0dG1MZ3Z0ZzF3UUIxWWprM3hfdUtFRXRWTDFDc3M?oc=5)
-
-2026-11-03 <span class="news-indication-tag">depression</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxQbm5IbFI2cVRoczJtenVWdGdxR1cwYXlXUXBVVkdVOVFmenZxWWJVQjR0X2lqR0RjWTFwLVhwOE5YMXNHS3d2aDNRakx2MThJY0tEalA4Vi1HaEdBcjg2LTYxQmtodm9zbDFlNXd4Y1lBTmJKeHdYWWdjZG96NVpHZDZ0dG1MZ3Z0ZzF3UUIxWWprM3hfdUtFRXRWTDFDc3M?oc=5)
 
 ---
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Vorhofflimmern (atrial fibrillation) News"
+title: "AF (atrial fibrillation) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Vorhofflimmern (atrial fibrillation). 4 articles, 39 related drugs."
+description: "Health news about AF (atrial fibrillation). 5 articles, 39 related drugs."
 permalink: /news/atrial-fibrillation/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-05
 ---
 
-# Vorhofflimmern (atrial fibrillation) News
+# AF (atrial fibrillation) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Vorhofflimmern (atrial fibrillation)?">
-<strong>Vorhofflimmern (atrial fibrillation)</strong> currently has <strong>4 news articles</strong> and 39 related drugs.
+<p class="key-answer" data-question="What news is there about AF (atrial fibrillation)?">
+<strong>AF (atrial fibrillation)</strong> currently has <strong>5 news articles</strong> and 39 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Vorhofflimmern” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “AF” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -51,7 +51,15 @@ This page brings together the latest health news about “Vorhofflimmern” and 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Early Rhythm Control May Cut Recurrent Stroke Risk in AF](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
+
+2026-11-04
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
+
+---
 
 ### [Smartwatch-Warnungen: Über 90 Prozent Genauigkeit ersetzen keine Diagnose](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEVuN2ozR3hiUlFpTkVjMmRwanQxSk5iNGp4V2NQU2gyN2N5UTViejVsV3BTZkkzeWlObU9PcVlfeXZJUTVyQS0tanFoUFZmclhEdmZpQnlhUmhnX0dJVXZfX1hMVE9hbW5qaHlTZlpPVDJqbjJ5eE9HYVY3dTVDamJDalprUy14TEtnNllTcTQxWklYaGJYLVY0eFptOGRycjg2Z2FrblNHYjBwQnFlMlppSGlmTUlZMzhoQl9ZZw?oc=5)
 

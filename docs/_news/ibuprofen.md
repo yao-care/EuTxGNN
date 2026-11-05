@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ibuprofen. 7 predicted indications."
 permalink: /news/ibuprofen/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Ibuprofen News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>8 news articles</strong>, with 7 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>9 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [3 piante spontanee superano l’ibuprofene in test contro il dolore](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDJzaDEweHY0OVZ1d2EwUG9VS3dyU2pVcGJfOFI1STJQSXBQZ3hNWGdpZTN6WG5ad2lweXREYmgtaDkzalNyeDhuN1RxcGlfeWxCWmsxTWRMYVNNWUtnLTE0cDc4eXhHZjZZcVpyMXJKaC0wLS1jeG42ejBNcXN2SFBTcEFkQkYyTVl4eVkwLXZYOGxSU2YtUFNXRG53bXdMQjA1MWl3aU0wV1ItN0dtd0x1ekJ4SEJf?oc=5)
+
+2026-11-04 <span class="news-drug-tag">Ibuprofen</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDJzaDEweHY0OVZ1d2EwUG9VS3dyU2pVcGJfOFI1STJQSXBQZ3hNWGdpZTN6WG5ad2lweXREYmgtaDkzalNyeDhuN1RxcGlfeWxCWmsxTWRMYVNNWUtnLTE0cDc4eXhHZjZZcVpyMXJKaC0wLS1jeG42ejBNcXN2SFBTcEFkQkYyTVl4eVkwLXZYOGxSU2YtUFNXRG53bXdMQjA1MWl3aU0wV1ItN0dtd0x1ekJ4SEJf?oc=5)
+
+---
 
 ### [Partizipative Therapieentscheidung bei rheumatoider Arthritis: weniger Nebenwirkungen - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
 
