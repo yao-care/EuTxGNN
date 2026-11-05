@@ -55,6 +55,8 @@ For research or administrative use:
 
 ### Pattern 3: CDS Integration
 
+> **Note**: This pattern is planned; EuTxGNN has no CDS Hooks service deployed.
+
 Clinical Decision Support integration via CDS Hooks:
 
 ```

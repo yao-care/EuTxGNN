@@ -10,7 +10,7 @@ permalink: /privacy-policy/
 # Privacy Policy
 {: .fs-9 }
 
-Last updated: March 2026
+Last updated: 5 November 2026
 {: .fs-6 .fw-300 }
 
 ---
@@ -25,7 +25,7 @@ EuTxGNN ("we", "our", or "the platform") is committed to protecting your privacy
 
 ### Automatically Collected Information
 
-When you visit EuTxGNN, we may automatically collect:
+When you visit EuTxGNN, Google Analytics 4 collects the following through analytics cookies, which are set when a page loads:
 
 - **Technical data**: Browser type, operating system, IP address
 - **Usage data**: Pages visited, time spent, navigation patterns
@@ -35,11 +35,11 @@ When you visit EuTxGNN, we may automatically collect:
 
 If you use the SMART on FHIR application:
 
-- **Patient context**: Only the patient ID provided by your EHR
+- **Patient context**: The patient ID, name, birth date and gender read from your EHR, shown in the app
 - **Medication data**: Current medications for repurposing lookup
 - **Session data**: Temporary session tokens for EHR integration
 
-**Note**: We do not store patient health information. All SMART on FHIR data is processed in real-time and not retained.
+**Note**: We do not store patient health information. Patient identity and EHR data are not sent to this site's servers (this is a static site with no backend) and are not retained. To match drug names, the app sends the medications' RxNorm codes (no patient identifiers) to the US National Library of Medicine's RxNav service; when you ask for clinical trials, the drug and indication names are sent to ClinicalTrials.gov. The SMART on FHIR client library keeps the EHR authorisation state in the browser's sessionStorage, which is cleared when the tab is closed.
 
 ---
 
@@ -66,11 +66,7 @@ We do not sell personal information. We may share data with:
 
 ## Cookies and Tracking
 
-We use minimal cookies for:
-
-- Session management
-- User preferences
-- Analytics (optional)
+The only cookies on this site are the Google Analytics 4 analytics cookies (such as `_ga`), used to compile usage statistics. They are set when a page loads. The site sets no cookies of its own for sessions or preferences.
 
 You can disable cookies in your browser settings.
 
