@@ -25,8 +25,8 @@ Drug-drug interactions are a critical consideration in drug repurposing. When a 
 
 | Source | Records | Drugs | Version |
 |--------|---------|-------|---------|
-| DDInter (`ddinter_code_*.csv` download files) | 222,383 drug–drug interaction rows (160,235 unique drug pairs) | 1,939 drug names | Files in the EuTxGNN data release [data-20261031-060230](https://github.com/yao-care/EuTxGNN/releases/tag/data-20261031-060230) |
-| Guide to PHARMACOLOGY | 4,808 approved-drug target rows (drug–target data, not drug–drug interactions; no severity levels) | 2,253 ligands | GtoPdb 2026.3.1 (published 2026-10-12) |
+| DDInter (`ddinter_code_*.csv` download files) | {{ site.data.ddi_sources.display.ddinter_rows }} drug–drug interaction rows ({{ site.data.ddi_sources.display.ddinter_unique_pairs }} unique drug pairs) | {{ site.data.ddi_sources.display.ddinter_drug_names }} drug names | Files in the EuTxGNN data release [data-20261031-060230](https://github.com/yao-care/EuTxGNN/releases/tag/data-20261031-060230) |
+| Guide to PHARMACOLOGY | {{ site.data.ddi_sources.display.gtopdb_drug_target_records }} approved-drug target rows (drug–target data, not drug–drug interactions; no severity levels) | {{ site.data.ddi_sources.display.gtopdb_ligands }} ligands | GtoPdb {{ site.data.ddi_sources.gtopdb_version }} (published {{ site.data.ddi_sources.gtopdb_published }}) |
 
 Counts are taken from the files in the EuTxGNN data release (`data/external/ddi/`).
 
