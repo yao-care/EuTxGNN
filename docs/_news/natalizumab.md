@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Natalizumab. 5 predicted indications."
 permalink: /news/natalizumab/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Natalizumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Natalizumab?">
-<strong>Natalizumab</strong> currently has <strong>49 news articles</strong>, with 5 predicted indications.
+<strong>Natalizumab</strong> currently has <strong>50 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (49)
+## Related News (50)
 
 ### [Typ-2-Diabetes ohne Insulin: Sensoren bringen fünf Stunden mehr im Zielbereich](https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHFGcnI5YXJoYmNpUzRiOUd2ZHRGcThITGtmMmNJUEN6OUU2SFgyalo0cGVUN2FJZ3lYSjhPZVJ0ZThTVk95V0dpWV9RZ1MydU5ud2hRZW90SjBRbGU2UjJvWXNkYWtFX1NFLUhKUzVBdWRjNndlU1ZVN0E1b1U1VVo1N0Uxb25ZUnpDQTNuRzNodUt6VURLYjNiN2F0TzdUYmlUVWZ2S25BV0xjYzVtQ0hPVzVraU5QYWp0d0tzNnNoQzBSQ1E?oc=5)
 
@@ -49,7 +49,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPSH
 
 ### [Prädiabetes: Abnehmspritzen mit 31 Prozent geringerem Diabetesrisiko verbunden](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
 
-2026-11-04 <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
+2026-11-04 <span class="news-indication-tag">diabetes</span> <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
 
@@ -121,7 +121,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXQ0
 
 ### [Adipositas: DDG fordert Kostenübernahme für Abnehm-Medikamente](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
 
-2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-11-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [AOK](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
 
@@ -140,6 +140,14 @@ Source: [Canal Diabetes](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IYU
 2026-11-03 <span class="news-indication-tag">copd</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRG1iRkV6YWxJSGhRanYwMlpaRGN6emtjU3JmXzhVRlhUcFFDUzhOTjhmQzJFbVFzX05xOC1remFXemtqNlBpWk9NTzE3bVkzR294ZnVIUmdCbHBtRU03TWJ3S2ZqY2dYRzlNTHB6ZkpNT3ZGUEtYdUNDZVpHaS1vM2hFanpTR1N4REdtWjd6Z1RIVkpFSHhTS3A0SGNDZlp0VmFoUGw5b1NJczFhc3hNczVVaF9XNF84eF8tQ01XT1prS01iVHN6V0lXOFVaLURvZW4xT0MtdFptTHdDd0tCZQ?oc=5)
+
+---
+
+### [El peligro de normalizar síntomas respiratorios: “No hay que esperar a que sean intensos para pedir ayuda](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMUJoVGNTWVJ2bklWSk5udXlFZ005QzQxa1lOTWxQblpBeHlmTXFVV3UtRklOZ0I0OXNIZ3VHRUo0Rm1wbXlFRVp0bEM1ejVFU2o1ZDR5bjN3a0d4RkNiQzB6V0VXYjZGQTJrX0dWQkZnVnc5OWVlcVF3a2JvekJZWWlEMGVYZ0hZZ0I3dzEzWk43M0NsZ1hOVjRxbEttRUgtb3F5QW5EUEhjZXotYTVxUHVKMmFQWE9VSXhFbWpqSzlfdU16ZkhocnZwZDFJT3ZwV3JaQ0F1S29wNW5jMlZxTEZGaGluMGFWOUpGT01yamN4eThCdXpxeFdsTHQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">EPOC</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMUJoVGNTWVJ2bklWSk5udXlFZ005QzQxa1lOTWxQblpBeHlmTXFVV3UtRklOZ0I0OXNIZ3VHRUo0Rm1wbXlFRVp0bEM1ejVFU2o1ZDR5bjN3a0d4RkNiQzB6V0VXYjZGQTJrX0dWQkZnVnc5OWVlcVF3a2JvekJZWWlEMGVYZ0hZZ0I3dzEzWk43M0NsZ1hOVjRxbEttRUgtb3F5QW5EUEhjZXotYTVxUHVKMmFQWE9VSXhFbWpqSzlfdU16ZkhocnZwZDFJT3ZwV3JaQ0F1S29wNW5jMlZxTEZGaGluMGFWOUpGT01yamN4eThCdXpxeFdsTHQ?oc=5)
 
 ---
 

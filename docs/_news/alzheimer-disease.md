@@ -3,9 +3,9 @@ layout: default
 title: "Alzheimer's (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Alzheimer's (alzheimer disease). 5 articles, 16 related drugs."
+description: "Health news about Alzheimer's (alzheimer disease). 6 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Alzheimer's (alzheimer disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
-<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>5 news articles</strong> and 16 related drugs.
+<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>6 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “Alzheimer's” and lis
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [The 6 midlife symptoms of Alzheimer's that have nothing to do with memory as early-onset disease 'spreads faster' - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQR28ySy15RXM4akNYakFmbE1EUTZNUVRCbkFMeFdmVlpXNGdOMGQwQ3lRc0F1VHdqeV9tYVBvX0JqNlRsN2JTZGUzYndNQnJNYUR5djAtSDMtTHdpVXpScXNMYjRmTlRoVEgtR1hhWWRYMUhiNkhKVTk2dUJZUXBUaC04WGdEQXc?oc=5)
+
+2026-11-04
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQR28ySy15RXM4akNYakFmbE1EUTZNUVRCbkFMeFdmVlpXNGdOMGQwQ3lRc0F1VHdqeV9tYVBvX0JqNlRsN2JTZGUzYndNQnJNYUR5djAtSDMtTHdpVXpScXNMYjRmTlRoVEgtR1hhWWRYMUhiNkhKVTk2dUJZUXBUaC04WGdEQXc?oc=5)
+
+---
 
 ### [Alzheimer's symptom in nose may start 'way before' memory loss - Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUFmTk5sMTRlU1JUXy1CbW1vSmI2Z3VSXzRVX1JLaTZEWEJSUTNEc0tvXzJKNHBaUzVXckJDb09IV1FUYlJ5YTdoVmF6QzZucFZtbU84eUxpUEdDRkdvOVVLMDI4OS1QN0dNVzNPWHNmQk9NbFIzZmNqVjNqRXVQdjgwR3MyVkcxVUFXadIBkgFBVV95cUxNbkZUUFVmOWpObmZ2QVA5eEtGQ0p6Vk83Y0VnNmlQdFFTS0NLSzdNMi1aTDZtWk1kWlB5LV8tRzRvWDZvaWJObFd1c0R0SGtBMVZNTmFMbm4wYlJoU212ak5aVVRlSkY1TkFDZzZCZFJDTjhPcDRIZ2ZGWEg0TTBDTktsdnE5ZkV5R0N6RTZRYlk3UQ?oc=5)
 

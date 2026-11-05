@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "BPCO (copd) News"
+title: "EPOC (copd) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about BPCO (copd). 2 articles, 26 related drugs."
+description: "Health news about EPOC (copd). 3 articles, 26 related drugs."
 permalink: /news/copd/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-05
 ---
 
-# BPCO (copd) News
+# EPOC (copd) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about BPCO (copd)?">
-<strong>BPCO (copd)</strong> currently has <strong>2 news articles</strong> and 26 related drugs.
+<p class="key-answer" data-question="What news is there about EPOC (copd)?">
+<strong>EPOC (copd)</strong> currently has <strong>3 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “BPCO” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “EPOC” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -43,13 +43,21 @@ This page brings together the latest health news about “BPCO” and lists the 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [COPD: Spaziergänge können auch bei hoher Luftbelastung Exazerbationen vermeiden – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRG1iRkV6YWxJSGhRanYwMlpaRGN6emtjU3JmXzhVRlhUcFFDUzhOTjhmQzJFbVFzX05xOC1remFXemtqNlBpWk9NTzE3bVkzR294ZnVIUmdCbHBtRU03TWJ3S2ZqY2dYRzlNTHB6ZkpNT3ZGUEtYdUNDZVpHaS1vM2hFanpTR1N4REdtWjd6Z1RIVkpFSHhTS3A0SGNDZlp0VmFoUGw5b1NJczFhc3hNczVVaF9XNF84eF8tQ01XT1prS01iVHN6V0lXOFVaLURvZW4xT0MtdFptTHdDd0tCZQ?oc=5)
 
 2026-11-03
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRG1iRkV6YWxJSGhRanYwMlpaRGN6emtjU3JmXzhVRlhUcFFDUzhOTjhmQzJFbVFzX05xOC1remFXemtqNlBpWk9NTzE3bVkzR294ZnVIUmdCbHBtRU03TWJ3S2ZqY2dYRzlNTHB6ZkpNT3ZGUEtYdUNDZVpHaS1vM2hFanpTR1N4REdtWjd6Z1RIVkpFSHhTS3A0SGNDZlp0VmFoUGw5b1NJczFhc3hNczVVaF9XNF84eF8tQ01XT1prS01iVHN6V0lXOFVaLURvZW4xT0MtdFptTHdDd0tCZQ?oc=5)
+
+---
+
+### [El peligro de normalizar síntomas respiratorios: “No hay que esperar a que sean intensos para pedir ayuda](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMUJoVGNTWVJ2bklWSk5udXlFZ005QzQxa1lOTWxQblpBeHlmTXFVV3UtRklOZ0I0OXNIZ3VHRUo0Rm1wbXlFRVp0bEM1ejVFU2o1ZDR5bjN3a0d4RkNiQzB6V0VXYjZGQTJrX0dWQkZnVnc5OWVlcVF3a2JvekJZWWlEMGVYZ0hZZ0I3dzEzWk43M0NsZ1hOVjRxbEttRUgtb3F5QW5EUEhjZXotYTVxUHVKMmFQWE9VSXhFbWpqSzlfdU16ZkhocnZwZDFJT3ZwV3JaQ0F1S29wNW5jMlZxTEZGaGluMGFWOUpGT01yamN4eThCdXpxeFdsTHQ?oc=5)
+
+2026-11-03
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMUJoVGNTWVJ2bklWSk5udXlFZ005QzQxa1lOTWxQblpBeHlmTXFVV3UtRklOZ0I0OXNIZ3VHRUo0Rm1wbXlFRVp0bEM1ejVFU2o1ZDR5bjN3a0d4RkNiQzB6V0VXYjZGQTJrX0dWQkZnVnc5OWVlcVF3a2JvekJZWWlEMGVYZ0hZZ0I3dzEzWk43M0NsZ1hOVjRxbEttRUgtb3F5QW5EUEhjZXotYTVxUHVKMmFQWE9VSXhFbWpqSzlfdU16ZkhocnZwZDFJT3ZwV3JaQ0F1S29wNW5jMlZxTEZGaGluMGFWOUpGT01yamN4eThCdXpxeFdsTHQ?oc=5)
 
 ---
 

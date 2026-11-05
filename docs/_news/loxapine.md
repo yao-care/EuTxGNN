@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Loxapine. 9 predicted indications."
 permalink: /news/loxapine/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Loxapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Loxapine?">
-<strong>Loxapine</strong> currently has <strong>7 news articles</strong>, with 9 predicted indications.
+<strong>Loxapine</strong> currently has <strong>8 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ This page combines the AI-predicted indications for Loxapine with the latest hea
 <p><a href="{{ '/drugs/loxapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
 
 ### [El seguimiento de los niveles de neurofilamento puede ayudar a detectar actividad de la esclerosis múltiple que no se ve en las pruebas convencionales - Gaceta Médica](https://news.google.com/rss/articles/CBMirAFBVV95cUxPejI3MVZHZG1PUUpnSFJwb0RaaXRDQksxalN2VU1xNHhsWWp5eXNrS28wMHlVeDZQbHhBZ0sxY1doRnRUQ0EzenRQckdzclBQa2k5a3U3LUlwdkc0WFJMTVRuVmFRWTVncUIzeE43MldYcXlLOUk0d3hhSzdYNHRKT0Y2cmIwQkZ1UmNrb2hrZHJpQXBxdnVlSFZkNldnbGM1bXAtNjZvcXlEZlRC?oc=5)
 
 2026-11-04 <span class="news-indication-tag">esclerosis múltiple</span>
 
 Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMirAFBVV95cUxPejI3MVZHZG1PUUpnSFJwb0RaaXRDQksxalN2VU1xNHhsWWp5eXNrS28wMHlVeDZQbHhBZ0sxY1doRnRUQ0EzenRQckdzclBQa2k5a3U3LUlwdkc0WFJMTVRuVmFRWTVncUIzeE43MldYcXlLOUk0d3hhSzdYNHRKT0Y2cmIwQkZ1UmNrb2hrZHJpQXBxdnVlSFZkNldnbGM1bXAtNjZvcXlEZlRC?oc=5)
+
+---
+
+### [Early Rhythm Control May Cut Recurrent Stroke Risk in AF](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
+
+2026-11-04 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Simvastatin. 5 predicted indications."
 permalink: /news/simvastatin/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Simvastatin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>42 news articles</strong>, with 5 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>44 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (42)
+## Related News (44)
+
+### [Akkermansia muciniphila: Wie das Darmmikrobiom die Schlaganfall-Erholung beeinflusst - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2tzSk4zR0FTQURFZzVLYTZsSVRnVG1WaVl1Zy1tSy1qdWQ1NHJPamVGYlNrLWpGMHBLUVljblk4N1B6S1hjcDlGOXJwY1hqZUw5SVFSbC1ZS1hCNnVhaTVjdUw3Uk1mVVUyT0t2cHJGd0ZYWDIzN0ZEYUg2TlpuT0Via1lOMURwNkVFX1RkNXVZdDNDSVRSTFpZTzU2dE5GUV9PVm9jb0QxUHFQVUFzaWVzQVhnZw?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2tzSk4zR0FTQURFZzVLYTZsSVRnVG1WaVl1Zy1tSy1qdWQ1NHJPamVGYlNrLWpGMHBLUVljblk4N1B6S1hjcDlGOXJwY1hqZUw5SVFSbC1ZS1hCNnVhaTVjdUw3Uk1mVVUyT0t2cHJGd0ZYWDIzN0ZEYUg2TlpuT0Via1lOMURwNkVFX1RkNXVZdDNDSVRSTFpZTzU2dE5GUV9PVm9jb0QxUHFQVUFzaWVzQVhnZw?oc=5)
+
+---
 
 ### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
@@ -52,6 +60,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc
 2026-11-04 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
 
 Source: [L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3FpQmMzSnBlQlBRZHJ6d1FmcnhfWU9fU1NKcnBUcDA3ampUZTItMGVZMjA0NHdaUmdwQTRuYmdfVFJlSnFzT0J4SVV0cHVfSGliT2pjSGhhdXV3eU0wc08wNkkyMjBUZ1NOY29xS1NlNEZLYm1rQm9UZ1RCNl9hSFprX1FFUDBFdnJXMTZVY0liM04tRXVGODJYenVHLTZ3am1KY2dKRFlETVpJaXpTMmNEYlpOSm82UWpfN01CTnd2QVNsbjV2NEdZTDJ5MFE1akFENjRoYW92M2JXRmI4?oc=5)
+
+---
+
+### [Early Rhythm Control May Cut Recurrent Stroke Risk in AF](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
+
+2026-11-04 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
 
 ---
 

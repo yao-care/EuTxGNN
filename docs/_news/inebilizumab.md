@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Inebilizumab. 0 predicted indications."
 permalink: /news/inebilizumab/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Inebilizumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Inebilizumab?">
-<strong>Inebilizumab</strong> currently has <strong>157 news articles</strong>, with 0 predicted indications.
+<strong>Inebilizumab</strong> currently has <strong>159 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Inebilizumab with the latest
 <p><a href="{{ '/drugs/inebilizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (157)
+## Related News (159)
+
+### [Doctors in England launch primary-care trial of blood tests for spotting cancer early](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
+
+2026-11-04 <span class="news-indication-tag">cancer</span>
+
+Source: [Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
+
+---
 
 ### [Decoding the regulatory programs governing glioblastoma plasticity](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSVjREOWM1TGdqb1hZMmpIUlpsTW1OMG9HbzhuYVJaVHpiTzZlRUF0QVdVSGpCMnlXZzhJa3VFenRIOW13RVByR3Z2WVRSY0l5S1A2bEJPdTQ4anhGZFVR?oc=5)
 
@@ -64,6 +72,14 @@ Source: [Cordoba Hoy](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd1NlZ
 
 ---
 
+### [Meyer, rimosso dal naso un craniofaringioma a un bimbo di 5 anni - The Wom Healthy](https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVVEZUNPMkM4c1RXWnpWa3kzWS11LXVCV05iMlpFOEVYS2xjOVpfckxFQjZZNmZKdXZOU1VDd1hPbFdNOWtyT1ZfRjE0MmJ0R09mdUZISTdVLUlfdVhQTTdaUzhyRk9PMXJHSVVlOHhQQTlXNUhCellQXzlwdFBoT3ozZzBsZG1lTTVGT25UZmhoRzlvRF9HQTdmYw?oc=5)
+
+2026-11-04 <span class="news-indication-tag">tumor</span>
+
+Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVVEZUNPMkM4c1RXWnpWa3kzWS11LXVCV05iMlpFOEVYS2xjOVpfckxFQjZZNmZKdXZOU1VDd1hPbFdNOWtyT1ZfRjE0MmJ0R09mdUZISTdVLUlfdVhQTTdaUzhyRk9PMXJHSVVlOHhQQTlXNUhCellQXzlwdFBoT3ozZzBsZG1lTTVGT25UZmhoRzlvRF9HQTdmYw?oc=5)
+
+---
+
 ### [El cutavirus emerge como marcador pronóstico en carcinoma orofaríngeo - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVU1rT2dCYV91bHplTXNsRTh5c29iMUVMdGhVSjM1elVsYTBSM09zODFJdXZ2Ul9XSVA4U0owOGFQWC04ZDVKZ1poTHFUUUVpVmlyM0w2TWVDeW9DS2RlcnNZSUlnN3AtYVNjYkE3MEhFWnNfNUx3RUJ1UUxXLXFRZ0Q1cGl4bFU1c3A0LVRzZlQxSnVMR3g4WGZINU5zOFB6UEFmS1ppX2Nzcjk2aUh0cUZuVDJZNk9icGJwSVR1LUXSAbsBQVVfeXFMUG5Gb1dPWTZjSGlVRHRqbVVPMjJpWTdOa3QxUlZSVm9OZFhjV2RGQzNMN0hyTnYyOFFINk5fSDhWdGFkX3RrZzYyTnR6VVdOb0ZNYnF6U01kVVNGb0lLVmpHbGljZFQ1TGpGMmZXZF9fWWtFY01CdzM3OVlXVWFOSmtLcThoVm5pU1FNWGFBbzdtbzc4THJCT0JRRXJMaWkyRzdpWllYMFFwRVl5Vm1jSWpsVXZsWllxVWhwUQ?oc=5)
 
 2026-11-04 <span class="news-indication-tag">carcinoma</span>
@@ -90,7 +106,7 @@ Source: [TF1 Info](https://news.google.com/rss/articles/CBMingJBVV95cUxNZ0U3WERB
 
 ### [Prädiabetes: Abnehmspritzen mit 31 Prozent geringerem Diabetesrisiko verbunden](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
 
-2026-11-04 <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
+2026-11-04 <span class="news-indication-tag">diabetes</span> <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
 
@@ -109,14 +125,6 @@ Source: [rts.ch](https://news.google.com/rss/articles/CBMitwFBVV95cUxONjUySzRGeH
 2026-11-04 <span class="news-indication-tag">diabetes</span>
 
 Source: [food-monitor](https://news.google.com/rss/articles/CBMingFBVV95cUxOdTRDZkx3V1MwcDdOSmNySnRLU25XYmZDbDlmc2xJT2FVdmt5VGZsZzZKd0VqUHd1LTkzcGJfbDU0S1Nzc1BIekgxVGNRUURFR0cyTk1wV1lFNGtqQkZhMWp3T3JLZS1lbnh1Z2FMUnNCSTlacE52Q0ZxUzZrMWp0QUliR1hyMlJITFFYMmpuVDhDVGV5VHcyLU56VFBrUQ?oc=5)
-
----
-
-### [Family doctors in England to use blood tests to spot cancer early in world first](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
-
-2026-11-04 <span class="news-indication-tag">cancer</span>
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)
 
 ---
 
@@ -157,6 +165,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNm9RNF
 2026-11-04 <span class="news-indication-tag">diabetes</span>
 
 Source: [UKClimbing](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFZURUtmN09hVVlEc0tVVXFjd1FhMUUzS2VkdjN5c0h0bVMwRWlYR2YtTTZrTUFWWFNVYS1semRQa05vd2FYSURIQkVmZnEwTUpIQV9yTzhsN2hLa09KeEJ4SFJNanZzdF80bm81M0NYd045MUd2UnNEdGNTN2VxdmR0cE5kNXhkQU5CZGJIamJTX0M3RGpuYXZSVzh5aFJqbUdVX2JuUUVtYm8tcGIwWkNuOUVYVWpzVnM2TjAxZUVaa2xVV285aTh5dw?oc=5)
+
+---
+
+### [Sterbezahlen bei Gebärmutterhalskrebs könnten stark steigen](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSDRXVmVvb0RYcTRqa0FnanZ2VW5MeXZMVUhNUngySGNhbmF0MHEtVTQ1MTVZTTBzNmZOYWFQcTl0YlVNUHpyOU5zSlZEVVhscGEtRjFVODZpa3BDdGFSdWtXOVRIS3NnaTVEeDc1d0dNVy1UZk5vd0NxWENjQjZsMmFfSV85cFl4bk5HUg?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Krebs</span>
+
+Source: [WEB.DE](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSDRXVmVvb0RYcTRqa0FnanZ2VW5MeXZMVUhNUngySGNhbmF0MHEtVTQ1MTVZTTBzNmZOYWFQcTl0YlVNUHpyOU5zSlZEVVhscGEtRjFVODZpa3BDdGFSdWtXOVRIS3NnaTVEeDc1d0dNVy1UZk5vd0NxWENjQjZsMmFfSV85cFl4bk5HUg?oc=5)
 
 ---
 
@@ -314,7 +330,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXQ0
 
 ### [Adipositas: DDG fordert Kostenübernahme für Abnehm-Medikamente](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
 
-2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-11-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [AOK](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
 

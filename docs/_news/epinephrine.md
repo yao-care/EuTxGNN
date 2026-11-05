@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Epinephrine. 3 predicted indications."
 permalink: /news/epinephrine/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-05
 ---
 
 # Epinephrine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Epinephrine?">
-<strong>Epinephrine</strong> currently has <strong>3 news articles</strong>, with 3 predicted indications.
+<strong>Epinephrine</strong> currently has <strong>4 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [COPD: Spaziergänge können auch bei hoher Luftbelastung Exazerbationen vermeiden – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRG1iRkV6YWxJSGhRanYwMlpaRGN6emtjU3JmXzhVRlhUcFFDUzhOTjhmQzJFbVFzX05xOC1remFXemtqNlBpWk9NTzE3bVkzR294ZnVIUmdCbHBtRU03TWJ3S2ZqY2dYRzlNTHB6ZkpNT3ZGUEtYdUNDZVpHaS1vM2hFanpTR1N4REdtWjd6Z1RIVkpFSHhTS3A0SGNDZlp0VmFoUGw5b1NJczFhc3hNczVVaF9XNF84eF8tQ01XT1prS01iVHN6V0lXOFVaLURvZW4xT0MtdFptTHdDd0tCZQ?oc=5)
 
 2026-11-03 <span class="news-indication-tag">copd</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRG1iRkV6YWxJSGhRanYwMlpaRGN6emtjU3JmXzhVRlhUcFFDUzhOTjhmQzJFbVFzX05xOC1remFXemtqNlBpWk9NTzE3bVkzR294ZnVIUmdCbHBtRU03TWJ3S2ZqY2dYRzlNTHB6ZkpNT3ZGUEtYdUNDZVpHaS1vM2hFanpTR1N4REdtWjd6Z1RIVkpFSHhTS3A0SGNDZlp0VmFoUGw5b1NJczFhc3hNczVVaF9XNF84eF8tQ01XT1prS01iVHN6V0lXOFVaLURvZW4xT0MtdFptTHdDd0tCZQ?oc=5)
+
+---
+
+### [El peligro de normalizar síntomas respiratorios: “No hay que esperar a que sean intensos para pedir ayuda](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMUJoVGNTWVJ2bklWSk5udXlFZ005QzQxa1lOTWxQblpBeHlmTXFVV3UtRklOZ0I0OXNIZ3VHRUo0Rm1wbXlFRVp0bEM1ejVFU2o1ZDR5bjN3a0d4RkNiQzB6V0VXYjZGQTJrX0dWQkZnVnc5OWVlcVF3a2JvekJZWWlEMGVYZ0hZZ0I3dzEzWk43M0NsZ1hOVjRxbEttRUgtb3F5QW5EUEhjZXotYTVxUHVKMmFQWE9VSXhFbWpqSzlfdU16ZkhocnZwZDFJT3ZwV3JaQ0F1S29wNW5jMlZxTEZGaGluMGFWOUpGT01yamN4eThCdXpxeFdsTHQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">EPOC</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMUJoVGNTWVJ2bklWSk5udXlFZ005QzQxa1lOTWxQblpBeHlmTXFVV3UtRklOZ0I0OXNIZ3VHRUo0Rm1wbXlFRVp0bEM1ejVFU2o1ZDR5bjN3a0d4RkNiQzB6V0VXYjZGQTJrX0dWQkZnVnc5OWVlcVF3a2JvekJZWWlEMGVYZ0hZZ0I3dzEzWk43M0NsZ1hOVjRxbEttRUgtb3F5QW5EUEhjZXotYTVxUHVKMmFQWE9VSXhFbWpqSzlfdU16ZkhocnZwZDFJT3ZwV3JaQ0F1S29wNW5jMlZxTEZGaGluMGFWOUpGT01yamN4eThCdXpxeFdsTHQ?oc=5)
 
 ---
 

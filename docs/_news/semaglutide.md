@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Semaglutide. 0 predicted indications."
 permalink: /news/semaglutide/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Semaglutide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>13 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>12 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,13 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (13)
+## Related News (12)
 
-### [Prädiabetes: Abnehmspritzen mit 31 Prozent geringerem Diabetesrisiko verbunden](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
+### [Semaglutida y daño ocular: los especialistas piden prudencia al interpretar los estudios - Redacción médica](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOM1djWjJhU2V3NVhpVmpUbjJlMU1PSHVUakFsYTVfWjZvRnAxSy1fZndreUZZTl85X2F0bmZSTXozTHNObE5GaFBTbjNjV3dQVG9YWlVLSkNEQ3NEOVdub3pBSm5UbkcxN3d3R0xCMGJLTTVRdGEzOGZKZjNZZXhMRnlRdHZWNlFsaVhNNGV4c3hrSTNwTFFEcDhlT25JcjJrbnkxZ3IzdHp2MXdwWXFwd2VTUkRpelY0OW0zOHU2Sl9yUmhsUGxwT0wwTlRaUTRnWWFGckZyb1VNa3dRUlVBUXpGQ0xURXQwNkpfS2ZUZW9SVDFmNzJRMGVHVFbSAYICQVVfeXFMTWZ0Q3NwMVJnWW9xckdpR2FNamVDRS1pbExuV25uaWRKbjd3S1kwLUZqbjNOdlU0ZGhBNVBqZWFobERtMkk1aXl6V0NXQzFTZ2NkVG9jRkNtaUlva0xmT25BQmJNcEtXUnNjWXVsNHo5VEkyVzk1WEQ4WjJpMEtXVkpKRUpHN0xmaTVYZUFHREdqNXFWbjJOSldfU2R3QjdEMW1xNGZ6Qm50Q1pTalNfakxNZ2JqMWktWWF1ZktOcHFpWGZvM0JabFJMZjFKa2ZIdndRTExxZV9iQ09WY1J5bnJhaXFvY0gxc0tFU3oyY3VoYTJ1X2VmQmZWS2RzbHdLbjB3?oc=5)
 
-2026-11-04 <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
+2026-11-04 <span class="news-drug-tag">Semaglutide</span>
 
-Source: [aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFhZZmRSM2VWTVRfT0xJcXJQNTV0SUFHSjhJSXktUUVCR3pPUkJyWld0N3Vzdkk3eXFSZ24wek1IcnE3bG45VUFvc09JZkkxUlRDeV9UY1g5X2JDejhQSlY2QTNBVjlLOWV2anpLbUY1UWxJQWJyNWkwbjQ2QktESDN1dG1Nb1lvbWJCNEtGeE5kak45SlVqTEZpTzRGWl8wNlI0cjl5WHFFdHR3MHVhR1g?oc=5)
+Source: [Redacción médica](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOM1djWjJhU2V3NVhpVmpUbjJlMU1PSHVUakFsYTVfWjZvRnAxSy1fZndreUZZTl85X2F0bmZSTXozTHNObE5GaFBTbjNjV3dQVG9YWlVLSkNEQ3NEOVdub3pBSm5UbkcxN3d3R0xCMGJLTTVRdGEzOGZKZjNZZXhMRnlRdHZWNlFsaVhNNGV4c3hrSTNwTFFEcDhlT25JcjJrbnkxZ3IzdHp2MXdwWXFwd2VTUkRpelY0OW0zOHU2Sl9yUmhsUGxwT0wwTlRaUTRnWWFGckZyb1VNa3dRUlVBUXpGQ0xURXQwNkpfS2ZUZW9SVDFmNzJRMGVHVFbSAYICQVVfeXFMTWZ0Q3NwMVJnWW9xckdpR2FNamVDRS1pbExuV25uaWRKbjd3S1kwLUZqbjNOdlU0ZGhBNVBqZWFobERtMkk1aXl6V0NXQzFTZ2NkVG9jRkNtaUlva0xmT25BQmJNcEtXUnNjWXVsNHo5VEkyVzk1WEQ4WjJpMEtXVkpKRUpHN0xmaTVYZUFHREdqNXFWbjJOSldfU2R3QjdEMW1xNGZ6Qm50Q1pTalNfakxNZ2JqMWktWWF1ZktOcHFpWGZvM0JabFJMZjFKa2ZIdndRTExxZV9iQ09WY1J5bnJhaXFvY0gxc0tFU3oyY3VoYTJ1X2VmQmZWS2RzbHdLbjB3?oc=5)
 
 ---
 
@@ -45,14 +45,6 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm5fTFh
 2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMidEFVX3lxTE1aQnJVXzhaRjA2NGY4dWwweHVuSzJzaGhDNmNwM0NSb2lGbG9Ua1ZKbmtyTXU2MlhhbzllLWZ0OXh0czJwMEJOUzhFUTVrb05MeHBCZUZaR1FVWW92SDR1M244Sk5YMUNob1NjeWhFZE16QkZu?oc=5)
-
----
-
-### [Adipositas: DDG fordert Kostenübernahme für Abnehm-Medikamente](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
-
-2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-Source: [AOK](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb2VvUDVmbC1MbjdhdWd3QlZzeU1zNHZEeFN0QW1vZmdfUEVWUzVwYVBTN3BmRWplUzZ2TWVDQUZKOWJOVmUwRjd2SDZZcHEweWJBVi1lUnFjM1ZkWFE?oc=5)
 
 ---
 

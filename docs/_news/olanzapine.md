@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Olanzapine. 2 predicted indications."
 permalink: /news/olanzapine/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Olanzapine News
@@ -36,19 +36,19 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 
 ## Related News (18)
 
+### [Early Rhythm Control May Cut Recurrent Stroke Risk in AF](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
+
+2026-11-04 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUJOOGtrOU1MQjQ3cVBidWxKX3ktanYyWVhRbzlxaXM3YXRSbF9ZY25zRzZmUGRKU2pwLWxNc3h6NjhwX2dBWDM2dEl1ZWdPUlRIVzFJcFU5T2doak80QUJ3RU50NTR3TXgyM1dWQ3BWZ2NGQXZab1VzUUx6YUVOSnZNZEtfcXJWM0VVMmpuU3VjMnRxRWdqVWRsWUdYcG1zRHdUQUxycE5fZDQ?oc=5)
+
+---
+
 ### [Dépression résistante : un spray nasal psychédélique à l’essai](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEZpWlF6Ykt1LVpfVlpGZ2d0SlVscFRVeWNjeHd4dkhHci1zU3pBQmpEQVB4ZVR3WFpjcjBKSWc4dy1XQk5BdXI1LV9Xd3BydG1FaUV3QU1jN3JsRTd1bFQ0NjQ0VVVsREZFY1l0Yk8zY0Iza3d3N2Y2bVVoQzF2OEpR?oc=5)
 
 2026-11-04 <span class="news-indication-tag">dépression</span>
 
 Source: [ma-sante.news](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEZpWlF6Ykt1LVpfVlpGZ2d0SlVscFRVeWNjeHd4dkhHci1zU3pBQmpEQVB4ZVR3WFpjcjBKSWc4dy1XQk5BdXI1LV9Xd3BydG1FaUV3QU1jN3JsRTd1bFQ0NjQ0VVVsREZFY1l0Yk8zY0Iza3d3N2Y2bVVoQzF2OEpR?oc=5)
-
----
-
-### [Autism diagnoses surge 10-fold in 13 years as study finds 'characteristics' have shifted over time - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxQbm5IbFI2cVRoczJtenVWdGdxR1cwYXlXUXBVVkdVOVFmenZxWWJVQjR0X2lqR0RjWTFwLVhwOE5YMXNHS3d2aDNRakx2MThJY0tEalA4Vi1HaEdBcjg2LTYxQmtodm9zbDFlNXd4Y1lBTmJKeHdYWWdjZG96NVpHZDZ0dG1MZ3Z0ZzF3UUIxWWprM3hfdUtFRXRWTDFDc3M?oc=5)
-
-2026-11-03 <span class="news-indication-tag">depression</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxQbm5IbFI2cVRoczJtenVWdGdxR1cwYXlXUXBVVkdVOVFmenZxWWJVQjR0X2lqR0RjWTFwLVhwOE5YMXNHS3d2aDNRakx2MThJY0tEalA4Vi1HaEdBcjg2LTYxQmtodm9zbDFlNXd4Y1lBTmJKeHdYWWdjZG96NVpHZDZ0dG1MZ3Z0ZzF3UUIxWWprM3hfdUtFRXRWTDFDc3M?oc=5)
 
 ---
 
