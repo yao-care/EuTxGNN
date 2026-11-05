@@ -188,7 +188,8 @@ def main():
     # Create directories
     (fhir_dir / "MedicationKnowledge").mkdir(parents=True, exist_ok=True)
     (fhir_dir / "ClinicalUseDefinition").mkdir(parents=True, exist_ok=True)
-    (fhir_dir / "Bundle").mkdir(parents=True, exist_ok=True)
+    # No Bundle/ here: this site publishes no Bundle resources; docs/fhir/Bundle/index.md
+    # (a page saying so) is maintained by hand and is not touched by this script.
 
     # 1. Generate CapabilityStatement
     print("1. Generating CapabilityStatement...")
