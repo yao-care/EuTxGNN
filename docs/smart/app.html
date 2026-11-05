@@ -12,343 +12,102 @@
     window.TXGNN_ANALYTICS = Object.assign({"measurementId": "G-W7ZNBYKJHJ", "contentGroup": "EuTxGNN", "language": "en", "citationHosts": ["ema.europa.eu"], "linkerDomains": ["yao.care", "www.yao.care", "eutxgnn.yao.care", "www.ods.yao.care", "app.ods.yao.care"], "pageType": "smart", "pagePath": "/smart/app.html"}, { pageTitle: document.title });
   </script>
   <script src="/assets/js/analytics.js" defer></script>
-    <style>
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            background: #f5f5f5;
-            min-height: 100vh;
-        }
-        .header {
-            background: linear-gradient(135deg, #003399 0%, #004db3 100%);
-            color: white;
-            padding: 20px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-        }
-        .logo {
-            font-size: 1.5rem;
-            font-weight: bold;
-        }
-        .logo span {
-            color: #ffcc00;
-        }
-        .patient-info {
-            background: rgba(255,255,255,0.1);
-            padding: 10px 20px;
-            border-radius: 5px;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        .card {
-            background: white;
-            border-radius: 10px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            margin-bottom: 20px;
-            overflow: hidden;
-        }
-        .card-header {
-            background: #f8f9fa;
-            padding: 15px 20px;
-            border-bottom: 1px solid #e9ecef;
-            font-weight: 600;
-        }
-        .card-body {
-            padding: 20px;
-        }
-        .medication-list {
-            list-style: none;
-        }
-        .medication-item {
-            padding: 15px;
-            border-bottom: 1px solid #e9ecef;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        .medication-item:last-child {
-            border-bottom: none;
-        }
-        .medication-name {
-            font-weight: 600;
-            color: #333;
-        }
-        .medication-dose {
-            color: #666;
-            font-size: 0.9rem;
-        }
-        .btn {
-            padding: 8px 16px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            font-size: 0.9rem;
-            transition: background 0.2s;
-        }
-        .btn-primary {
-            background: #003399;
-            color: white;
-        }
-        .btn-primary:hover {
-            background: #002266;
-        }
-        .btn-outline {
-            background: transparent;
-            border: 1px solid #003399;
-            color: #003399;
-        }
-        .btn-outline:hover {
-            background: #003399;
-            color: white;
-        }
-        .repurposing-results {
-            margin-top: 20px;
-        }
-        .result-item {
-            padding: 15px;
-            border: 1px solid #e9ecef;
-            border-radius: 8px;
-            margin-bottom: 10px;
-            background: #fafafa;
-        }
-        .result-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 10px;
-        }
-        .result-drug {
-            font-weight: 600;
-            color: #003399;
-        }
-        .result-score {
-            background: #28a745;
-            color: white;
-            padding: 3px 10px;
-            border-radius: 15px;
-            font-size: 0.85rem;
-        }
-        .result-score.medium {
-            background: #ffc107;
-            color: #333;
-        }
-        .result-score.low {
-            background: #6c757d;
-        }
-        .result-indication {
-            color: #666;
-            margin-bottom: 5px;
-        }
-        .result-source {
-            font-size: 0.8rem;
-            color: #999;
-        }
-        .loading {
-            text-align: center;
-            padding: 40px;
-            color: #666;
-        }
-        .spinner {
-            width: 40px;
-            height: 40px;
-            border: 3px solid #e9ecef;
-            border-top-color: #003399;
-            border-radius: 50%;
-            animation: spin 1s linear infinite;
-            margin: 0 auto 15px;
-        }
-        @keyframes spin {
-            to { transform: rotate(360deg); }
-        }
-        .disclaimer {
-            background: #fff3cd;
-            border: 1px solid #ffc107;
-            border-radius: 5px;
-            padding: 15px;
-            margin-bottom: 20px;
-            font-size: 0.9rem;
-            color: #856404;
-        }
-        .error {
-            background: #f8d7da;
-            border: 1px solid #f5c6cb;
-            border-radius: 5px;
-            padding: 15px;
-            color: #721c24;
-        }
-        .no-data {
-            text-align: center;
-            padding: 40px;
-            color: #666;
-        }
-    </style>
+
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f5f5f5; color: #222; min-height: 100vh; line-height: 1.5; }
+    .header { background: linear-gradient(135deg, #003399 0%, #004db3 100%); color: #fff; padding: 20px; }
+    .header h1 { font-size: 1.5rem; }
+    .header p { opacity: 0.9; font-size: 0.95rem; }
+    .container { max-width: 960px; margin: 0 auto; padding: 20px; }
+    .loading { display: flex; flex-direction: column; align-items: center; padding: 48px 0; color: #555; }
+    .spinner { width: 36px; height: 36px; border: 4px solid #ddd; border-top-color: #555; border-radius: 50%; animation: spin 1s linear infinite; margin-bottom: 12px; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .error { display: none; background: #fdecea; border: 1px solid #f5c2c0; color: #8a1c1c; padding: 16px; border-radius: 8px; }
+    .error-title { font-size: 1.1rem; margin-bottom: 6px; }
+    .content { display: none; }
+    .card { background: #fff; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); padding: 16px 20px; margin-bottom: 20px; }
+    .section-title { font-size: 1.1rem; margin-bottom: 12px; }
+    .patient-card .patient-name { font-weight: 600; font-size: 1.05rem; }
+    .patient-card .patient-details span { margin-right: 16px; color: #555; font-size: 0.9rem; }
+    .med-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+    .btn { border: 0; border-radius: 6px; padding: 8px 14px; cursor: pointer; font-size: 0.9rem; }
+    .btn-primary { background: #1565c0; color: #fff; }
+    .btn-secondary { background: #e0e0e0; color: #222; }
+    .med-item { border: 1px solid #e0e0e0; border-radius: 6px; padding: 10px 12px; margin-bottom: 8px; }
+    .med-item.no-match { opacity: 0.7; }
+    .med-label { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .med-name { font-weight: 500; }
+    .match-badge { font-size: 0.75rem; padding: 2px 8px; border-radius: 10px; }
+    .match-badge.matched { background: #e8f5e9; color: #2e7d32; }
+    .match-badge.unmatched { background: #eee; color: #666; }
+    .med-mapping { margin-left: 26px; font-size: 0.85rem; color: #555; }
+    .level-badge { display: inline-block; font-size: 0.75rem; font-weight: 600; padding: 1px 6px; border-radius: 4px; background: #eceff1; color: #37474f; margin-left: 4px; }
+    .level-L1 { background: #c8e6c9; color: #1b5e20; } .level-L2 { background: #dcedc8; color: #33691e; }
+    .level-L3 { background: #fff9c4; color: #f57f17; } .level-L4 { background: #ffe0b2; color: #e65100; }
+    .level-L5 { background: #eceff1; color: #455a64; }
+    .drug-result-card { border: 1px solid #e0e0e0; border-radius: 8px; padding: 14px; margin-bottom: 12px; }
+    .drug-header { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 8px; }
+    .drug-header h3 { font-size: 1.05rem; }
+    .drug-original, .drug-indications { margin-top: 8px; font-size: 0.9rem; }
+    .indication-item { display: flex; gap: 8px; align-items: center; padding: 3px 0; }
+    .ind-score { margin-left: auto; color: #666; font-size: 0.85rem; }
+    .more-indications, .no-indications, .empty-state { color: #666; font-size: 0.9rem; padding: 6px 0; }
+    .disclaimer { background: #fff3cd; border: 1px solid #ffe69c; color: #664d03; padding: 12px 16px; border-radius: 8px; font-size: 0.85rem; }
+    a { color: #1565c0; }
+  </style>
 </head>
 <body>
-    <div class="header">
-        <div class="logo">Eu<span>TxGNN</span></div>
-        <div class="patient-info" id="patient-info">Loading patient...</div>
+  <header class="header">
+    <h1>EuTxGNN SMART App</h1>
+    <p>Drug repurposing candidates for the patient's medications (EMA-approved medicines)</p>
+  </header>
+
+  <div class="container">
+    <!-- Loading -->
+    <div class="loading" id="loading">
+      <div class="spinner"></div>
+      <div class="loading-text">Loading...</div>
     </div>
 
-    <div class="container">
-        <div class="disclaimer">
-            <strong>Research Use Only:</strong> These predictions are for research purposes only and do not constitute medical advice. All candidates require clinical validation.
-        </div>
-
-        <div class="card">
-            <div class="card-header">Current Medications</div>
-            <div class="card-body" id="medications-container">
-                <div class="loading">
-                    <div class="spinner"></div>
-                    <p>Loading medications...</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="card">
-            <div class="card-header">Drug Repurposing Opportunities</div>
-            <div class="card-body" id="repurposing-container">
-                <div class="loading">
-                    <div class="spinner"></div>
-                    <p>Analyzing repurposing candidates...</p>
-                </div>
-            </div>
-        </div>
+    <!-- Error -->
+    <div class="error" id="error">
+      <h2 class="error-title">An error occurred</h2>
+      <p class="error-message"></p>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/fhirclient@2.5.4/build/fhir-client.min.js" integrity="sha384-oPoE+RWX2AZE9PQcDKKsuPU0dLmhGHCmCScrIneODytrl3mhPoRcGbDXVJyt0Q1t" crossorigin="anonymous"></script>
-    <script>
-        // Sample repurposing data (in production, this would come from API)
-        // 2026-10-20：取自 EuTxGNN 藥物頁的實際預測（DL 分數 ≥ 0.99、已排除知識圖譜已知用途）
-        const REPURPOSING_DATA = {
-            "metformin": [
-                { indication: "Focal stiff limb syndrome", score: 0.9945, source: "TxGNN Deep Learning" },
-                { indication: "Classic stiff person syndrome", score: 0.9945, source: "TxGNN Deep Learning" }
-            ],
-            "simvastatin": [
-                { indication: "Brain stem infarction", score: 0.9941, source: "TxGNN Deep Learning" }
-            ],
-            "clopidogrel": [
-                { indication: "Migraine with brainstem aura", score: 0.9944, source: "TxGNN Deep Learning" }
-            ],
-            "esomeprazole": [
-                { indication: "Duodenal obstruction", score: 0.9945, source: "TxGNN Deep Learning" }
-            ]
-        };
+    <!-- Main content, filled by /assets/js/smart-app.js -->
+    <main class="content" id="content">
+      <div class="card" id="patient-info"></div>
 
-        function renderMedications(medications) {
-            const container = document.getElementById("medications-container");
+      <section class="card">
+        <h2 class="section-title">Patient medication list (from the EHR)</h2>
+        <div class="med-actions">
+          <button class="btn btn-secondary" id="select-all-btn">Select / deselect all</button>
+          <button class="btn btn-primary" id="query-btn">Search repurposing candidates for selected drugs</button>
+        </div>
+        <div id="medication-list"></div>
+      </section>
 
-            if (!medications || medications.length === 0) {
-                container.innerHTML = '<div class="no-data">No active medications found.</div>';
-                return;
-            }
+      <section class="card">
+        <h2 class="section-title">Repurposing candidates</h2>
+        <div id="repurposing-results">
+          <div class="empty-state">
+            <p>Select drugs and click the search button. Medications are matched by exact name or synonym against this site's drug list; drugs that cannot be matched are shown as "No predictions".</p>
+          </div>
+        </div>
+      </section>
 
-            let html = '<ul class="medication-list">';
-            medications.forEach(med => {
-                const name = med.medicationCodeableConcept?.text ||
-                             med.medicationCodeableConcept?.coding?.[0]?.display ||
-                             "Unknown medication";
-                const dose = med.dosageInstruction?.[0]?.text || "";
+      <div class="disclaimer">
+        <strong>Research Use Only:</strong> These predictions are for research purposes only and do not constitute medical advice. All candidates require clinical validation.
+        This app does not store any patient data. <a href="/privacy-policy/">Privacy policy</a>
+      </div>
+    </main>
+  </div>
 
-                html += `
-                    <li class="medication-item">
-                        <div>
-                            <div class="medication-name">${name}</div>
-                            <div class="medication-dose">${dose}</div>
-                        </div>
-                        <button class="btn btn-outline" onclick="checkRepurposing('${name}')">
-                            Check Repurposing
-                        </button>
-                    </li>
-                `;
-            });
-            html += '</ul>';
-            container.innerHTML = html;
-        }
-
-        function renderRepurposingResults(drugName, results) {
-            const container = document.getElementById("repurposing-container");
-
-            if (!results || results.length === 0) {
-                container.innerHTML = `<div class="no-data">No repurposing candidates found for ${drugName}.</div>`;
-                return;
-            }
-
-            let html = `<h4 style="margin-bottom: 15px;">Results for ${drugName}</h4><div class="repurposing-results">`;
-            results.forEach(result => {
-                html += `
-                    <div class="result-item">
-                        <div class="result-header">
-                            <span class="result-drug">${drugName}</span>
-                            <span class="result-score" title="Ranking value inside the model, not a probability">score ${result.score.toFixed(4)}</span>
-                        </div>
-                        <div class="result-indication">Potential indication: <strong>${result.indication}</strong></div>
-                        <div class="result-source">Source: ${result.source}</div>
-                    </div>
-                `;
-            });
-            html += '</div>';
-            container.innerHTML = html;
-        }
-
-        function checkRepurposing(drugName) {
-            const normalizedName = drugName.toLowerCase();
-            const results = REPURPOSING_DATA[normalizedName] || [];
-            renderRepurposingResults(drugName, results);
-        }
-
-        // Initialize SMART on FHIR
-        FHIR.oauth2.ready()
-            .then(function(client) {
-                // Update patient info
-                client.patient.read().then(function(patient) {
-                    const name = patient.name?.[0];
-                    const displayName = name ?
-                        `${name.given?.[0] || ""} ${name.family || ""}`.trim() :
-                        "Unknown Patient";
-                    document.getElementById("patient-info").textContent = `Patient: ${displayName}`;
-                }).catch(function() {
-                    document.getElementById("patient-info").textContent = "Patient: Unknown";
-                });
-
-                // Fetch medications
-                client.request("MedicationRequest?status=active", { flat: true })
-                    .then(function(medications) {
-                        renderMedications(medications);
-
-                        // Show initial repurposing analysis
-                        const container = document.getElementById("repurposing-container");
-                        container.innerHTML = '<div class="no-data">Select a medication above to check repurposing opportunities.</div>';
-                    })
-                    .catch(function(error) {
-                        document.getElementById("medications-container").innerHTML =
-                            '<div class="error">Error loading medications: ' + error.message + '</div>';
-                    });
-            })
-            .catch(function(error) {
-                // Demo mode when not launched from EHR
-                document.getElementById("patient-info").textContent = "Demo Mode";
-
-                // Show demo medications
-                const demoMeds = [
-                    { medicationCodeableConcept: { text: "Metformin 500mg" }, dosageInstruction: [{ text: "Twice daily" }] },
-                    { medicationCodeableConcept: { text: "Atorvastatin 20mg" }, dosageInstruction: [{ text: "Once daily at bedtime" }] },
-                    { medicationCodeableConcept: { text: "Lisinopril 10mg" }, dosageInstruction: [{ text: "Once daily" }] },
-                    { medicationCodeableConcept: { text: "Omeprazole 20mg" }, dosageInstruction: [{ text: "Once daily before breakfast" }] }
-                ];
-                renderMedications(demoMeds);
-
-                const container = document.getElementById("repurposing-container");
-                container.innerHTML = '<div class="no-data">Select a medication above to check repurposing opportunities.</div>';
-            });
-    </script>
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js" integrity="sha384-PCSoOZTpbkikBEtd/+uV3WNdc676i9KUf01KOA8CnJotvlx8rRrETbDuwdjqTYvt" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/fhirclient@2.5.4/build/fhir-client.min.js" integrity="sha384-oPoE+RWX2AZE9PQcDKKsuPU0dLmhGHCmCScrIneODytrl3mhPoRcGbDXVJyt0Q1t" crossorigin="anonymous"></script>
+  <script src="/assets/js/smart-fhir-mapper.js"></script>
+  <script src="/assets/js/smart-app.js"></script>
 </body>
 </html>

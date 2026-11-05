@@ -77,14 +77,14 @@
 
 <div class="d3-tooltip" style="display: none;"></div>
 
-<script src="https://d3js.org/d3.v7.min.js" integrity="sha384-CjloA8y00+1SDAUkjs099PVfnY2KmDC2BZnws9kh8D/lX1s46w6EPhpXdqMfjK6i" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js" integrity="sha384-CjloA8y00+1SDAUkjs099PVfnY2KmDC2BZnws9kh8D/lX1s46w6EPhpXdqMfjK6i" crossorigin="anonymous"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   // 2026-10-16：檔名→實際網址（Jekyll :name 會把 _ 轉成 -；明寫 permalink 者照 permalink）
   const drugUrls = { {% for d in site.drugs %}{{ d.slug | jsonify }}: {{ d.url | relative_url | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %} };
   const drugData = {{ site.data.drug_stats.all_drugs | jsonify }};
-  const levelColors = { 'L1': '#2E7D32', 'L2': '#66BB6A', 'L3': '#FDD835', 'L4': '#FB8C00', 'L5': '#9E9E9E' };
-  const levelLabels = { 'L1': 'Multiple Phase 3 RCTs', 'L2': 'Single RCT', 'L3': 'Observational', 'L4': 'Preclinical', 'L5': 'AI prediction' };
+  const levelColors = { 'L1': '#2E7D32', 'L2': '#66BB6A', 'L3': '#FDD835', 'L4': '#FB8C00', 'L5': '#9E9E9E', 'N/A': '#BDBDBD' };
+  const levelLabels = { 'L1': 'Multiple Phase 3 RCTs', 'L2': 'Single RCT', 'L3': 'Observational', 'L4': 'Preclinical', 'L5': 'AI prediction', 'N/A': 'Known uses only' };
   const tooltip = d3.select('.d3-tooltip');
   let currentFilter = 'all';
 
@@ -96,7 +96,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const width = Math.min(800, container.node().getBoundingClientRect().width) - margin.left - margin.right;
     const height = 300 - margin.top - margin.bottom;
     const svg = container.append('svg').attr('class', 'd3-scatter').attr('width', width + margin.left + margin.right).attr('height', height + margin.top + margin.bottom).append('g').attr('transform', `translate(${margin.left},${margin.top})`);
-    const x = d3.scalePoint().domain(['L1', 'L2', 'L3', 'L4', 'L5']).range([30, width - 30]).padding(0.5);
+    // N/A = drug pages with known uses only (no remaining prediction); plotted in their own column
+    const x = d3.scalePoint().domain(['L1', 'L2', 'L3', 'L4', 'L5', 'N/A']).range([30, width - 30]).padding(0.5);
     const y = d3.scaleLinear().domain([0, d3.max(filteredData, d => d.indication_count) + 1]).nice().range([height, 0]);
     svg.append('g').attr('class', 'grid').attr('opacity', 0.1).call(d3.axisLeft(y).tickSize(-width).tickFormat(''));
     svg.append('g').attr('transform', `translate(0,${height})`).call(d3.axisBottom(x));

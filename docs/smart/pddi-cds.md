@@ -163,24 +163,13 @@ For interaction knowledge base:
 
 ---
 
-## EuTxGNN DDI Integration
+## EuTxGNN DDI Status
 
-### Data Sources
-
-| Source | Coverage | Update Frequency |
-|--------|----------|------------------|
-| DrugBank | 2.5M+ interactions | Quarterly |
-| DDInter | 220,000+ pairs | Monthly |
-
-### API Endpoint
-
-```http
-GET /fhir/ClinicalUseDefinition?type=interaction&subject=MedicationKnowledge/{drug1}
-```
+EuTxGNN does not check drug–drug interactions: the standalone page and the SMART app show repurposing predictions only, and this static site has no CDS service and no interaction API (FHIR files can only be read, not searched). Interaction information, where available, is on the drug reports and the [DDI page](/ddi/).
 
 ---
 
-## Implementation Architecture
+## Implementation Architecture (concept, not implemented)
 
 ```
 ┌─────────────────┐     ┌─────────────────┐
