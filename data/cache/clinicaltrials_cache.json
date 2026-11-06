@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-11-06T04:03:37.986947",
+  "last_check": "2026-11-06T18:42:12.512804",
   "seen_trials": {
     "Abatacept": [
       "NCT07388563",
@@ -1797,7 +1797,8 @@
       "NCT05192889",
       "NCT07875608",
       "NCT05656248",
-      "NCT07387926"
+      "NCT07387926",
+      "NCT05998642"
     ],
     "Methylphenidate Hydrochloride": [
       "NCT03525873",
@@ -3560,7 +3561,8 @@
     ],
     "Clofarabine": [
       "NCT00641030",
-      "NCT02727803"
+      "NCT02727803",
+      "NCT01885689"
     ],
     "Panobinostat": [
       "NCT02386800"
