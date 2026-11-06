@@ -25,8 +25,8 @@ Candidates with preliminary evidence requiring further validation
 
 ## Drug List
 
-{% assign l3_drugs = site.drugs | where: "evidence_level", "L3" | sort: "title" %}
-{% assign l4_drugs = site.drugs | where: "evidence_level", "L4" | sort: "title" %}
+{% assign l3_drugs = site.drugs | where: "evidence_level", "L3" | where_exp: "d", "d.noindex != true" | sort: "title" %}
+{% assign l4_drugs = site.drugs | where: "evidence_level", "L4" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
 ### L3 Level ({{ l3_drugs.size }} drugs)
 

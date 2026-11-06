@@ -28,7 +28,7 @@ TxGNN model predictions without clinical evidence - research hypotheses for expl
 
 ## Drug List
 
-{% assign l5_drugs = site.drugs | where: "evidence_level", "L5" | sort: "title" %}
+{% assign l5_drugs = site.drugs | where: "evidence_level", "L5" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
 ### L5 Level ({{ l5_drugs.size }} drugs)
 
