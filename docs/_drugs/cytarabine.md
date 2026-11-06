@@ -85,7 +85,7 @@ Currently no related clinical trials registered.
 | EMEA/H/C/004282 | Vyxeos liposomal | daunorubicin hydrochloride; cytarabine | Valid |
 | EMEA/H/C/000317 | DepoCyte | cytarabine | Withdrawn |
 
-This drug is marketed in this country; 1 of 1 licence is valid.
+This drug is marketed in this country.
 
 ## Cytotoxicity
 

@@ -121,7 +121,7 @@ Trials for cerebral artery occlusion (indirect evidence):
 
 ## EU Market Information
 
-The drug is marketed in this country, with all 8 of 8 licences valid.
+The drug is marketed in this country.
 
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|

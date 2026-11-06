@@ -103,7 +103,7 @@ For warnings and contraindications, please refer to the SmPC. The prediction ana
 **Decision: Hold**
 
 **Rationale:**
-The pneumocystosis prediction has a high model score but no direct clinical evidence and no sound mechanistic basis, because Pneumocystis lacks ergosterol. The only trial found tests a different drug. Posaconazole is marketed, with 3 of 3 licences valid.
+The pneumocystosis prediction has a high model score but no direct clinical evidence and no sound mechanistic basis, because Pneumocystis lacks ergosterol. The only trial found tests a different drug. Posaconazole is marketed.
 
 **To proceed, the following is needed:**
 - Mechanism of action data to confirm or refute any anti-Pneumocystis activity

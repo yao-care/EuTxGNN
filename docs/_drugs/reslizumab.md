@@ -90,7 +90,7 @@ Currently no related literature available for immune thrombocytopenia.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. No drug interaction records were found in the data compiled for this report. Because the product's EU authorization has been cancelled, any use would need to rely on the previously approved labeling and on new safety assessment.
+Please refer to the SmPC for safety information. No drug interaction records were found in the data compiled for this report.
 
 ---
 

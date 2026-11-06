@@ -87,7 +87,7 @@ For context, the lower-ranked predictions of migraine disorder and migraine with
 | EMEA/H/C/004666 | Tadalafil Lilly | tadalafil | Valid |
 | EMEA/H/C/005001 | Yuvanci | macitentan; tadalafil | Valid |
 
-The drug is marketed in this country: all 5 of 5 licences are valid.
+The drug is marketed in this country.
 
 ## Safety Considerations
 

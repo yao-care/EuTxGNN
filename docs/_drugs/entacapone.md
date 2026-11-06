@@ -101,7 +101,7 @@ Please refer to the SmPC for full safety information, since label warnings and c
 **Decision: Hold**
 
 **Rationale:**
-The prediction for PLA2G6-associated neurodegeneration is supported only by a model score (L5), with no trials, no literature, and only a speculative mechanistic link. All four EU authorizations are valid, and the drug is marketed.
+The prediction for PLA2G6-associated neurodegeneration is supported only by a model score (L5), with no trials, no literature, and only a speculative mechanistic link. The drug is marketed.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for entacapone

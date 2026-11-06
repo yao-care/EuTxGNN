@@ -84,7 +84,7 @@ Please refer to the SmPC for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score. There are no clinical trials or publications, no plausible mechanistic link to a GDF5-related skeletal disorder, and both EU authorisations have been cancelled.
+The prediction is supported only by the model score. There are no clinical trials or publications, no plausible mechanistic link to a GDF5-related skeletal disorder.
 
 **To proceed, the following is needed:**
 - A credible mechanistic hypothesis connecting COX inhibition to the GDF5/BMP signalling defect, tested in preclinical models

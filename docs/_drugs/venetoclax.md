@@ -118,7 +118,7 @@ Warnings and contraindications from the product label were not available. Please
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The predicted indication is a molecular subset of CLL/SLL, a disease for which venetoclax is already approved and supported by Phase 3 evidence. However, no trials or efficacy studies exist specifically for this subtype, and the EU authorisation is recorded as cancelled.
+The predicted indication is a molecular subset of CLL/SLL, a disease for which venetoclax is already approved and supported by Phase 3 evidence. However, no trials or efficacy studies exist specifically for this subtype.
 
 **To proceed, the following is needed:**
 - Safety information from the SmPC (warnings and contraindications), which is currently a blocking gap

@@ -114,7 +114,7 @@ The prediction rests only on a model score. No clinical trials or publications s
 - Mechanism of action data for insulin human, to assess any link to ovarian autoimmunity
 - Systematic literature and trial searches for insulin in autoimmune oophoritis
 - Warnings and contraindications from the SmPC, which are currently missing
-- Confirmation of the current regulatory status, since 5 of 5 licences are valid
+- Confirmation of the current regulatory status
 - Supporting preclinical or mechanistic evidence before any clinical development
 ## Disclaimer
 

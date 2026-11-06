@@ -112,7 +112,7 @@ Label warnings and contraindications were not available. Please refer to the SmP
 **Decision: Hold**
 
 **Rationale:**
-The biological rationale is credible (DNA-repair interference, BRCA-deficiency sensitivity), and Phase 2 data exist in advanced breast cancer, so the evidence level is L2. However, the only registered trial is a safety study, there is no completed Phase 3 evidence, and both EU authorizations are cancelled. Label safety data are also missing, so the safety review cannot yet proceed.
+The biological rationale is credible (DNA-repair interference, BRCA-deficiency sensitivity), and Phase 2 data exist in advanced breast cancer, so the evidence level is L2. However, the only registered trial is a safety study, there is no completed Phase 3 evidence. Label safety data are also missing, so the safety review cannot yet proceed.
 
 **To proceed, the following is needed:**
 - Review of the Phase 2 results (PMIDs 25239225, 24692579, 27266804) to judge response rates and benefit in breast cancer, especially in BRCA-mutated and XPG-stratified subgroups

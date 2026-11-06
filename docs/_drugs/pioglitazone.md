@@ -135,7 +135,7 @@ Label-level warnings and contraindications were not available. Please refer to t
 **Decision: Hold**
 
 **Rationale:**
-The prediction for opsismodysplasia is supported only by a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications, and the mechanistic link is speculative. Pioglitazone is marketed in this country, with 3 of 3 licences valid.
+The prediction for opsismodysplasia is supported only by a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications, and the mechanistic link is speculative. Pioglitazone is marketed in this country.
 
 **To proceed, the following is needed:**
 - Mechanism of action data to assess whether PPAR-gamma activity could plausibly affect INPPL1/PI3K-related bone biology

@@ -125,7 +125,7 @@ Label-based warnings and contraindications were not available; please refer to t
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Active peptic ulcer disease is a core acid-related indication. A completed Phase 3 randomized trial and a substantial body of ulcer-related literature (including randomized duodenal ulcer trials) support it, so the evidence level is L1. The guardrails reflect that all three EU centrally authorized products are cancelled, that the Phase 3 trial is a comparison of PPI-based H. pylori triple therapy rather than a pantoprazole-versus-placebo ulcer-healing study, and that safety label data are missing.
+Active peptic ulcer disease is a core acid-related indication. A completed Phase 3 randomized trial and a substantial body of ulcer-related literature (including randomized duodenal ulcer trials) support it, so the evidence level is L1. The guardrails reflect that the Phase 3 trial is a comparison of PPI-based H. pylori triple therapy rather than a pantoprazole-versus-placebo ulcer-healing study, and that safety label data are missing.
 
 Other predictions in the ranking vary widely:
 - **Duodenal ulcer and gastric ulcer**: L1, Proceed with Guardrails.

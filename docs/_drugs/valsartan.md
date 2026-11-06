@@ -84,7 +84,7 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-The drug is marketed in this country: 9 of 9 licences are valid. The five main ones are listed below.
+The drug is marketed in this country. The five main ones are listed below.
 
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
@@ -117,7 +117,7 @@ Please refer to the SmPC for the full warnings and contraindications, because la
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high and the AT1-blockade mechanism is plausible. However, there are no clinical trials, the only paper concerns a different drug, and all EU authorizations for valsartan-containing products are cancelled. Evidence is limited to model prediction and indirect preclinical support (L4).
+The prediction score is high and the AT1-blockade mechanism is plausible. However, there are no clinical trials, the only paper concerns a different drug. Evidence is limited to model prediction and indirect preclinical support (L4).
 
 **To proceed, the following is needed:**
 - Mechanism of action data for valsartan

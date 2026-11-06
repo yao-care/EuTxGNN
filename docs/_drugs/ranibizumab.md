@@ -88,7 +88,7 @@ Currently no related clinical trials are registered for mature cataract.
 | EMEA/H/C/006634 | Rexatilux | ranibizumab | Valid |
 | EMEA/H/C/006926 | Vislyfa | ranibizumab | Valid |
 
-The list shows 5 of 7 authorizations. The other two are Ranluspec (EMEA/H/C/006502) and Epruvy, previously Ranibizumab Midas (EMEA/H/C/006528), with the same retinal indications. None of the authorizations covers cataract.
+None of the authorizations covers cataract.
 
 ## Safety Considerations
 

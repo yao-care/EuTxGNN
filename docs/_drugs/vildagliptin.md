@@ -81,8 +81,6 @@ Currently no related literature available.
 
 ## EU Market Information
 
-All three authorizations are currently valid.
-
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000771 | Galvus | vildagliptin | Valid |

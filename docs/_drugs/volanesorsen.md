@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Volanesorsen is an antisense oligonucleotide originally used as an add-on to diet in adults with genetically confirmed familial chylomicronemia syndrome (FCS) who are at high risk of pancreatitis.
-The TxGNN model predicts it may be effective for **megaloblastic anemia**, but **no clinical trials and no publications** currently support this prediction, and the EU authorization has been cancelled.
+The TxGNN model predicts it may be effective for **megaloblastic anemia**, but **no clinical trials and no publications** currently support this prediction.
 
 ## Quick Overview
 

@@ -117,7 +117,7 @@ Currently no related clinical trials registered.
 **Decision: Hold**
 
 **Rationale:**
-The very high model score rests only on animal-model data and indirect reviews. There are no human rheumatoid arthritis trials, and the EU authorizations are currently cancelled. The liver and embryo-fetal toxicity profile and the many drug interactions raise the bar for a chronic inflammatory indication.
+The very high model score rests only on animal-model data and indirect reviews. There are no human rheumatoid arthritis trials. The liver and embryo-fetal toxicity profile and the many drug interactions raise the bar for a chronic inflammatory indication.
 
 **To proceed, the following is needed:**
 - Human proof-of-concept evidence in rheumatoid arthritis (for example, a pilot or Phase 2 trial)

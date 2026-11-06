@@ -154,14 +154,14 @@ Label-based warnings and contraindications were not available in the data compil
 **Decision: Hold**
 
 **Rationale:**
-The exact predicted term, unclassified MDS, has a very high model score (0.9993) but no linked trials or literature (L5). Evidence for the broader MDS category exists (L2) but is limited to small, early-phase or terminated trials with modest response rates and no Phase 3 trial. Advancing MDS as a research question is reasonable, but the current evidence does not justify progression for the exact term. The drug is marketed, with 3 of 3 licences valid.
+The exact predicted term, unclassified MDS, has a very high model score (0.9993) but no linked trials or literature (L5). Evidence for the broader MDS category exists (L2) but is limited to small, early-phase or terminated trials with modest response rates and no Phase 3 trial. Advancing MDS as a research question is reasonable, but the current evidence does not justify progression for the exact term. The drug is marketed.
 
 **To proceed, the following is needed:**
 - Mapping of "unclassified MDS" to the MDS trial and literature evidence, to confirm whether the broader evidence applies to this subtype
 - Randomised, adequately powered trials of arsenic trioxide in defined MDS risk groups (for example the TP53-mutated and low-risk populations in ongoing studies NCT06778187 and NCT06670222)
 - Label-based safety data (SmPC warnings and contraindications), with an ECG and electrolyte monitoring plan for QT risk
 - Detailed mechanism-of-action data
-- Clarification of regulatory and supply status (3 of 3 licences are valid), and consideration of the oral formulation under study
+- Clarification of regulatory and supply status, and consideration of the oral formulation under study
 - Mechanistic and route-compatibility assessment, which is still pending
 ## Disclaimer
 

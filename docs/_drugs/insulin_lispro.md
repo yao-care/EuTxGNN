@@ -98,13 +98,13 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature (Evidence Level L5). The link between insulin lispro and autoimmune oophoritis is a comorbidity association rather than a plausible treatment effect. The drug is marketed, with all 4 of 4 EU authorizations valid.
+The prediction has no supporting trials or literature (Evidence Level L5). The link between insulin lispro and autoimmune oophoritis is a comorbidity association rather than a plausible treatment effect. The drug is marketed.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible biological rationale for insulin lispro in autoimmune oophoritis
 - Preclinical or clinical evidence specific to this indication
 - Safety information from the SmPC (warnings and contraindications), which is not available in the data compiled for this report
-- Clarification of the current EU regulatory status: the drug is marketed, with 4 of 4 licenses valid
+- Clarification of the current EU regulatory status: the drug is marketed
 - Review of other predicted indications. Pancreatic agenesis is the only one with any literature, but it is indirect and amounts to standard insulin replacement rather than repurposing.
 ## Disclaimer
 
