@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Enoxaparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Enoxaparin: predicted new indication thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). Approved use: Inhixa is indicated for adults for: Prophylaxis of venous thromb…"
 ---
 
@@ -50,8 +50,8 @@ but **no clinical trials and no publications** are currently available to suppor
 | Predicted New Indication | thrombophilia due to protein C deficiency, autosomal recessive |
 | TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -72,9 +72,10 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004264 | Inhixa | Not recorded | Prophylaxis of venous thromboembolism in surgical and bedridden medical patients; treatment of deep vein thrombosis... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004264 | Inhixa | enoxaparin sodium | Valid |
+| EMEA/H/C/003795 | Thorinane | enoxaparin sodium | Lapsed |
 
 ## Safety Considerations
 

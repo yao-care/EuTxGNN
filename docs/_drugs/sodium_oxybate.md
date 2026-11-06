@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 567
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Sodium Oxybate: predicted new indication Insomnia (evidence level L2). Approved use: Treatment of narcolepsy with cataplexy in adult patients"
 monitor_inn: "Sodium oxybate"
 predicted_indications: ["insomnia (disease)", "obsolete neurogenic bladder (disease)", "sleep disorder, initiating and maintaining sleep", "cauda equina syndrome", "Wernicke-Korsakoff syndrome", "restless legs syndrome"]
@@ -86,9 +86,9 @@ Other predicted indications are much weaker. "Sleep disorder, initiating and mai
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000593 (cancelled) | Xyrem | Not specified | Treatment of narcolepsy with cataplexy in adult patients. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000593 | Xyrem | sodium oxybate | Valid |
 
 ## Safety Considerations
 
@@ -110,14 +110,14 @@ Please refer to the SmPC for formal warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The only directly relevant evidence is one small Phase 2 insomnia trial (n=48) with no Phase 3 confirmation. The EU authorisation has been cancelled. The central nervous system depressant risk, abuse potential, many major interactions and several knowledge-graph contraindications (including sleep apnoea and respiratory failure) call for strict guardrails. Insomnia is a large population, so the risk-benefit balance must be well established first.
+The only directly relevant evidence is one small Phase 2 insomnia trial (n=48) with no Phase 3 confirmation. The central nervous system depressant risk, abuse potential, many major interactions and several knowledge-graph contraindications (including sleep apnoea and respiratory failure) call for strict guardrails. Insomnia is a large population, so the risk-benefit balance must be well established first.
 
 **To proceed, the following is needed:**
 - Results and full analysis of NCT00383643, followed by an adequately powered Phase 3 insomnia programme
 - Detailed mechanism of action data
 - Warnings and contraindications from the SmPC
 - A risk-management plan covering abuse, respiratory depression, and co-medication with alcohol, opioids and sedatives
-- Confirmation of the regulatory and supply route, given that the EU authorisation is cancelled
+- Confirmation of the regulatory and supply route
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

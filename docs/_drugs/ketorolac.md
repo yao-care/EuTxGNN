@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 3
 monitor_inn: "Ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ketorolac: predicted new indication Headache disorder (evidence level L1). Approved use: Omidria is indicated in adults for maintenance of intraoperative mydr…"
 ---
 
@@ -92,9 +92,9 @@ The clinical literature supports this link. Guideline-level assessments and seve
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003702 | Omidria | Not recorded | Authorised for intraocular lens replacement surgery in adults (mydriasis, miosis, postoperative ocular pain) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003702 | Omidria | ketorolac; phenylephrine | Valid |
 
 ## Safety Considerations
 

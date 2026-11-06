@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 488
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Pirfenidone: predicted new indication Extracutaneous mastocytoma (evidence level L5). Approved use: Idiopathic pulmonary fibrosis (IPF) in adults (mild to moderate IPF f…"
 monitor_inn: "Pirfenidone"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
@@ -81,11 +81,11 @@ No literature is available for extracutaneous mastocytoma. For reference, the ta
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002154 | Esbriet | Not specified | Treatment of idiopathic pulmonary fibrosis in adults (valid) |
-| EMEA/H/C/005873 | Pirfenidone axunio (previously Pirfenidone AET) | Not specified | Treatment of mild to moderate idiopathic pulmonary fibrosis (IPF) in adults (valid) |
-| EMEA/H/C/005862 | Pirfenidone Viatris | Not specified | Treatment of mild to moderate idiopathic pulmonary fibrosis (IPF) in adults (valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002154 | Esbriet | Pirfenidone | Valid |
+| EMEA/H/C/005862 | Pirfenidone Viatris | Pirfenidone | Valid |
+| EMEA/H/C/005873 | Pirfenidone axunio | Pirfenidone | Valid |
 
 ## Safety Considerations
 

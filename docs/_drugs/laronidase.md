@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 352
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Laronidase"
 predicted_indications: ["Sanfilippo syndrome"]
 description: "Laronidase: predicted new indication Sanfilippo syndrome (evidence level L5). Approved use: Aldurazyme is indicated for long-term enzyme replacement therapy in p…"
@@ -86,9 +86,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000477 (cancelled) | Aldurazyme | Not specified | Long-term enzyme replacement therapy in patients with a confirmed diagnosis of mucopolysaccharidosis I (MPS I; alpha-L-iduronidase deficiency) to tre... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000477 | Aldurazyme | laronidase | Valid |
 
 ---
 

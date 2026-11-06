@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 200
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "Dronedarone"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
 description: "Dronedarone: predicted new indication Stroke disorder (evidence level L4). Approved use: Multaq is indicated for the maintenance of sinus rhythm after success…"
@@ -84,9 +84,9 @@ Stroke appears in these publications only as an outcome within AF studies, not a
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001043 | Multaq | Not specified | Maintenance of sinus rhythm after successful cardioversion in adult clinically stable patients with paroxysmal or persistent atrial fibrillation (AF). Due to its safety pro... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001043 | Multaq | dronedarone | Valid |
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 166
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Dalbavancin: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Acute bacterial skin and skin structure infections (ABSSSI) in adults…"
 monitor_inn: "Dalbavancin"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "otitis externa", "ophthalmic herpes zoster", "infectious mononucleosis", "orbital cellulitis"]
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002840 (cancelled) | Xydalba | Not specified | Treatment of acute bacterial skin and skin structure infections (ABSSSI) in adults and paediatric patients from birth (see sections 4.4 and 5.1).Consid... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002840 | Xydalba | dalbavancin hydrochloride | Valid |
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Lonafarnib"
 predicted_indications: ["leprosy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Lonafarnib: predicted new indication leprosy (evidence level L5). Approved use: Zokinvy is indicated for the treatment of patients 12 months of age a…"
 ---
 
@@ -68,9 +68,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005271 | Zokinvy | Not recorded | Zokinvy is indicated for the treatment of patients 12 months of age and older with a genetically confirmed diagnosis of Hutchinson-Gilford... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005271 | Zokinvy | Lonafarnib | Valid |
 
 ## Safety Considerations
 

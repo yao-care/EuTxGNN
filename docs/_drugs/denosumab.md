@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Denosumab"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Denosumab: predicted new indication severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Treatment of osteoporosis in postmenopausal women and in men at incre…"
 ---
 
@@ -48,8 +48,8 @@ Denosumab is a monoclonal antibody that targets RANKL and is used in bone-relate
 | Predicted New Indication | severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences on record: at least 20) |
-| Number of Authorizations | at least 20 |
+| EU Market Status | Marketed (valid licences: 32 of 32) |
+| Number of Authorizations | 32 (valid: 32) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -70,13 +70,30 @@ Currently no related literature available for severe nonproliferative diabetic r
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001120 | Prolia | – | Treatment of osteoporosis in postmenopausal women and in men at increased risk of fractures. In postmenopausal women Prolia significantly reduces the ri... |
-| EMEA/H/C/002173 | Xgeva | – | Prevention of skeletal related events (pathological fracture, radiation to bone, spinal cord compression or surgery to bone) in adults with advance... |
-| EMEA/H/C/006507 | Rolcya | – | Treatment of osteoporosis in postmenopausal women and in men at increased risk of fractures. In postmenopausal women denosumab significantly reduces... |
-| EMEA/H/C/006157 | Osenvelt | – | Prevention of skeletal related events (pathological fracture, radiation to bone, spinal cord compression or surgery to bone) in adults with advance... |
-| EMEA/H/C/006399 | Osvyrti | – | Treatment of osteoporosis in postmenopausal women and in men at increased risk of fractures. In postmenopausal women denosumab significantly reduces... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001120 | Prolia | denosumab | Valid |
+| EMEA/H/C/002173 | Xgeva | denosumab | Valid |
+| EMEA/H/C/005964 | Jubbonti | denosumab | Valid |
+| EMEA/H/C/006152 | Izamby | denosumab | Valid |
+| EMEA/H/C/006156 | Stoboclo | denosumab | Valid |
+| EMEA/H/C/006157 | Osenvelt | denosumab | Valid |
+| EMEA/H/C/006199 | Denbrayce | denosumab | Valid |
+| EMEA/H/C/006238 | Ponlimsi | denosumab | Valid |
+| EMEA/H/C/006239 | Degevma | denosumab | Valid |
+| EMEA/H/C/006268 | Conexxence | denosumab | Valid |
+| EMEA/H/C/006269 | Bomyntra | denosumab | Valid |
+| EMEA/H/C/006376 | Enwylma |  | Valid |
+| EMEA/H/C/006377 | Zadenvi | denosumab | Valid |
+| EMEA/H/C/006378 | Wyost | denosumab | Valid |
+| EMEA/H/C/006398 | Jubereq | denosumab | Valid |
+| EMEA/H/C/006399 | Osvyrti |  | Valid |
+| EMEA/H/C/006424 | Obodence | denosumab | Valid |
+| EMEA/H/C/006434 | Bildyos | denosumab | Valid |
+| EMEA/H/C/006435 | Bilprevda | denosumab | Valid |
+| EMEA/H/C/006436 | Junod | denosumab | Valid |
+
+Showing 20 of 32 EMA authorisations.
 
 The licence list is partial; more records exist in the local data.
 

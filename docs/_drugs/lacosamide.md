@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Lacosamide: predicted new indication manic bipolar affective disorder (evidence level L5). Approved use: Lacosamide UCB is indicated as monotherapy and adjunctive therapy in…"
 ---
 
@@ -79,12 +79,12 @@ No retrieved study directly tests lacosamide in a manic episode of bipolar disor
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005243 | Lacosamide UCB | Not recorded | Lacosamide UCB is indicated as monotherapy and adjunctive therapy in the treatment of partial-onset seizures with or without secon... |
-| EMEA/H/C/000863 | Vimpat | Not recorded | Vimpat is indicated as monotherapy and adjunctive therapy in the treatment of partial-onset seizures with or without secondary g... |
-| EMEA/H/C/006047 | Lacosamide Adroiq | Not recorded | Lacosamide Adroiq is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary generalisatio... |
-| EMEA/H/C/004443 | Lacosamide Accord | Not recorded | Lacosamide Accord is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary generalisati... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000863 | Vimpat | lacosamide | Valid |
+| EMEA/H/C/004443 | Lacosamide Accord | lacosamide | Valid |
+| EMEA/H/C/005243 | Lacosamide UCB | lacosamide | Valid |
+| EMEA/H/C/006047 | Lacosamide Adroiq | lacosamide | Valid |
 
 ## Safety Considerations
 

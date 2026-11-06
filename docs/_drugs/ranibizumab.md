@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ranibizumab"
 predicted_indications: ["mature cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "tetanic cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "hemorrhagic disease of newborn"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ranibizumab: predicted new indication Mature cataract (evidence level L5). Approved use: Neovascular (wet) age-related macular degeneration (AMD)…"
 ---
 
@@ -50,8 +50,8 @@ The prediction is best treated as a model artefact rather than a real therapeuti
 | Predicted New Indication | Mature cataract |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 7 of 7) |
-| Number of Authorizations | 7 (valid: 7) |
+| EU Market Status | Marketed (valid licences: 10 of 10) |
+| Number of Authorizations | 10 (valid: 10) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -75,13 +75,18 @@ Currently no related clinical trials are registered for mature cataract.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000715 | Lucentis | Not specified | Adults: neovascular (wet) AMD, visual impairment due to choroidal neovascularisation (CNV), diabetic macular oedema (DME), macular oedema secondary to retinal vein occlusion... |
-| EMEA/H/C/005019 | Ranivisio | Not specified | Adults: neovascular (wet) AMD, DME, proliferative diabetic retinopathy (PDR), macular oedema secondary to retinal vein occlusion... |
-| EMEA/H/C/005617 | Ximluci | Not specified | Adults: neovascular (wet) AMD, DME, PDR, macular oedema secondary to retinal vein occlusion... |
-| EMEA/H/C/005545 | Byooviz | Not specified | Adults: neovascular (wet) AMD, DME, PDR, macular oedema secondary to retinal vein occlusion... |
-| EMEA/H/C/006055 | Rimmyrah | Not specified | Adults: neovascular (wet) AMD, DME, PDR, macular oedema secondary to retinal vein occlusion... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000715 | Lucentis | ranibizumab | Valid |
+| EMEA/H/C/005019 | Ranivisio | ranibizumab | Valid |
+| EMEA/H/C/005545 | Byooviz | ranibizumab | Valid |
+| EMEA/H/C/005617 | Ximluci |  | Valid |
+| EMEA/H/C/006055 | Rimmyrah | ranibizumab | Valid |
+| EMEA/H/C/006502 | Ranluspec | ranibizumab | Valid |
+| EMEA/H/C/006527 | Susvimo | ranibizumab | Valid |
+| EMEA/H/C/006528 | Epruvy | ranibizumab | Valid |
+| EMEA/H/C/006634 | Rexatilux | ranibizumab | Valid |
+| EMEA/H/C/006926 | Vislyfa | ranibizumab | Valid |
 
 The list shows 5 of 7 authorizations. The other two are Ranluspec (EMEA/H/C/006502) and Epruvy, previously Ranibizumab Midas (EMEA/H/C/006528), with the same retinal indications. None of the authorizations covers cataract.
 

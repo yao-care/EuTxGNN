@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 645
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Turoctocog Alfa: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia A…"
 monitor_inn: "Turoctocog alfa"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency", "thrombotic thrombocytopenic purpura", "hereditary thrombocytosis with transverse limb defect"]
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002719 (cancelled) | NovoEight | Not specified | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Novoeight can be used for all age groups. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002719 | NovoEight | turoctocog alfa | Valid |
 
 ## Safety Considerations
 
@@ -87,7 +87,7 @@ Safety-relevant points from the prediction review:
 **Decision: Hold**
 
 **Rationale:**
-The prediction is based only on a network score. There are no clinical trials or publications, and the proposed mechanism does not hold, because platelet release defects are not caused by FVIII deficiency. The product's EU authorization is also cancelled.
+The prediction is based only on a network score. There are no clinical trials or publications, and the proposed mechanism does not hold, because platelet release defects are not caused by FVIII deficiency.
 
 **To proceed, the following is needed:**
 - Mechanism of action data from DrugBank

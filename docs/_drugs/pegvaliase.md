@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 475
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Pegvaliase: predicted new indication Diabetic retinopathy (evidence level L5). Approved use: Treatment of patients with phenylketonuria (PKU) aged 16 years and ol…"
 monitor_inn: "Pegvaliase"
 predicted_indications: ["diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "diabetic cataract"]
@@ -75,14 +75,14 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or literature (Evidence Level L5), and no plausible mechanistic link between phenylalanine depletion and diabetic retinopathy has been identified. The EU authorization for the original indication is also cancelled.
+The prediction has no supporting clinical trials or literature (Evidence Level L5), and no plausible mechanistic link between phenylalanine depletion and diabetic retinopathy has been identified.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, to assess whether any biological link to diabetic retinal disease exists
 - Warnings and contraindications from the SmPC, which are required for safety screening and are currently missing
 - Preclinical or literature evidence supporting a role in diabetic retinopathy
 - Assessment of route and formulation compatibility for ocular or diabetic use
-- Clarification of why the EU authorization was cancelled and of the current regulatory status
+- Clarification of the current regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

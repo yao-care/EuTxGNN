@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 635
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Trastuzumab"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 description: "Trastuzumab: predicted new indication Malignant cutaneous granular cell skin tumor (evidence level L5). Approved use: Metastatic breast cancer (MBC) For the treatment of adult patients wi…"
@@ -51,8 +51,8 @@ with **14 clinical trials** and **20 publications** currently linked to this pre
 | Predicted New Indication | Malignant cutaneous granular cell skin tumor |
 | TxGNN Prediction Score | 0.9948 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 10 of 10) |
-| Number of Authorizations | 10 (valid: 10) |
+| EU Market Status | Marketed (valid licences: 11 of 11) |
+| Number of Authorizations | 11 (valid: 11) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -107,14 +107,19 @@ The pivotal adjuvant trial of trastuzumab with chemotherapy in HER2-positive bre
 
 ## EU Market Information
 
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000278 | Herceptin | Not specified | HER2-positive metastatic breast cancer, early breast cancer, and metastatic gastric cancer... |
-| EMEA/H/C/004323 | Ontruzant | Not specified | Breast cancer, metastatic breast cancer: HER2 positive metastatic breast cancer (MBC) as monotherapy... |
-| EMEA/H/C/004361 | Kanjinti | Not specified | Metastatic breast cancer Kanjinti is indicated for the treatment of adult patients with HER2 positive... |
-| EMEA/H/C/004463 | Trazimera | Not specified | Breast cancer Metastatic breast cancer Trazimera is indicated for the treatment of adult patients with... |
-| EMEA/H/C/002575 | Herzuma | Not specified | Breast cancer Metastatic breast cancer Herzuma is indicated for the treatment of adult patients with... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000278 | Herceptin | trastuzumab | Valid |
+| EMEA/H/C/002575 | Herzuma | trastuzumab | Valid |
+| EMEA/H/C/004323 | Ontruzant | trastuzumab | Valid |
+| EMEA/H/C/004361 | Kanjinti | trastuzumab | Valid |
+| EMEA/H/C/004463 | Trazimera | trastuzumab | Valid |
+| EMEA/H/C/004916 | Ogivri | trastuzumab | Valid |
+| EMEA/H/C/005209 | Zercepac | trastuzumab | Valid |
+| EMEA/H/C/005769 | Herwenda | trastuzumab | Valid |
+| EMEA/H/C/006219 | Dazublys | trastuzumab | Valid |
+| EMEA/H/C/006252 | Tuznue | trastuzumab | Valid |
+| EMEA/H/C/005386 | Phesgo | pertuzumab; trastuzumab | Valid |
 
 Five further cancelled authorizations are on record: Tuznue, Herwenda, Zercepac, Ogivri and Dazublys.
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 392
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Memantine: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Treatment of patients with moderate to severe Alzheimer's disease"
 monitor_inn: "Memantine"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
@@ -48,8 +48,8 @@ Memantine was originally authorised in the EU for moderate to severe Alzheimer's
 | Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 (model prediction only) |
-| EU Market Status | Marketed (valid licences: 8 of 8) |
-| Number of Authorizations | 8 (valid: 8) |
+| EU Market Status | Marketed (valid licences: 8 of 9) |
+| Number of Authorizations | 9 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -84,15 +84,17 @@ For reference, the only completed trial identified across the predicted indicati
 
 ## EU Market Information
 
-The drug is marketed; all 8 licences are currently valid (8 of 8).
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002660 | Memantine Mylan | Not specified | Treatment of patients with moderate to severe Alzheimer's disease. |
-| EMEA/H/C/002711 | Memantine Merz | Not specified | Treatment of patients with moderate to severe Alzheimer's disease. |
-| EMEA/H/C/002671 | Memantine ratiopharm | Not specified | Treatment of patients with moderate to severe Alzheimer's disease |
-| EMEA/H/C/002766 | Memantine Accord | Not specified | Treatment of patients with moderate to severe Alzheimer's disease. |
-| EMEA/H/C/002680 | Nemdatine | Not specified | Treatment of patients with moderate to severe Alzheimer's disease. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000378 | Axura | memantine hydrochloride | Valid |
+| EMEA/H/C/000463 | Ebixa | memantine hydrochloride | Valid |
+| EMEA/H/C/002658 | Marixino | memantine hydrochloride | Valid |
+| EMEA/H/C/002660 | Memantine Mylan | memantine hydrochloride | Valid |
+| EMEA/H/C/002671 | Memantine ratiopharm | memantine hydrochloride | Valid |
+| EMEA/H/C/002680 | Nemdatine | memantine | Valid |
+| EMEA/H/C/002711 | Memantine Merz | memantine hydrochloride | Valid |
+| EMEA/H/C/002766 | Memantine Accord | memantine hydrochloride | Valid |
+| EMEA/H/C/002630 | Memantine LEK | memantine hydrochloride | Withdrawn |
 
 The remaining three authorisations (Axura, Ebixa, Marixino) carry the same indication and are also cancelled.
 

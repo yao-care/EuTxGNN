@@ -5,7 +5,7 @@ layout: default
 title: Amifampridine Phosphate
 parent: Known Uses Only (No New Predictions)
 nav_order: 43
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,6 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |------|---------|
 | Original Indication | Symptomatic treatment of Lambert-Eaton myasthenic syndrome (LEMS) in adults. |
 | EU Market Status | Marketed (valid licences: 2 of 2) |
-| Taiwan Market Status | Not marketed |
 | Number of Authorizations | 2 (valid: 2) |
 
 ---

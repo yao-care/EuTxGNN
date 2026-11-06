@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 472
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Pegfilgrastim"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
 description: "Pegfilgrastim: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Reduction in the duration of neutropenia and the incidence of febrile…"
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 11 of 11) |
-| Number of Authorizations | 11 (valid: 11) |
+| EU Market Status | Marketed (valid licences: 13 of 16) |
+| Number of Authorizations | 16 (valid: 13) |
 | Recommended Decision | Hold |
 
 ---
@@ -81,15 +81,26 @@ Currently no related literature available.
 
 ## EU Market Information
 
-The drug is marketed in this country: all 11 authorizations below are valid (11 valid licences of 11). Dosage form data are not available.
+Dosage form data are not available.
 
-| Authorization Number | Product Name | Status | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000420 | Neulasta | Valid | Reduction in the duration of neutropenia and the incidence of febrile neutropenia in patients treated with cytotoxic chemotherapy for malignancy (with the exc... |
-| EMEA/H/C/006739 | Vivlipeg | Valid | Reduction in the duration of neutropenia and the incidence of febrile neutropenia in adult patients treated with cytotoxic chemotherapy for malignancy (wi... |
-| EMEA/H/C/004700 | Pelmeg | Valid | To reduce the duration of neutropenia and the incidence of febrile neutropenia due to chemotherapy. |
-| EMEA/H/C/004556 | Grasustek | Valid | Reduction in the duration of neutropenia and the incidence of febrile neutropenia in adult patients treated with cytotoxic chemotherapy for malignancy (wi... |
-| EMEA/H/C/004780 | Stimufend | Valid | Reduction in the duration of neutropenia and the incidence of febrile neutropenia in adult patients treated with cytotoxic chemotherapy for malignancy (wi... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000420 | Neulasta | pegfilgrastim | Valid |
+| EMEA/H/C/003961 | Pelgraz | pegfilgrastim | Valid |
+| EMEA/H/C/004556 | Grasustek | pegfilgrastim | Valid |
+| EMEA/H/C/004700 | Pelmeg | pegfilgrastim | Valid |
+| EMEA/H/C/004780 | Stimufend | pegfilgrastim | Valid |
+| EMEA/H/C/004802 | Ziextenzo | pegfilgrastim | Valid |
+| EMEA/H/C/004915 | Fulphila | pegfilgrastim | Valid |
+| EMEA/H/C/005085 | Nyvepria | pegfilgrastim | Valid |
+| EMEA/H/C/005312 | Cegfila | pegfilgrastim | Valid |
+| EMEA/H/C/006085 | Nylaspeg | pegfilgrastim | Valid |
+| EMEA/H/C/006407 | Dyrupeg | pegfilgrastim | Valid |
+| EMEA/H/C/006739 | Vivlipeg | pegfilgrastim | Valid |
+| EMEA/H/C/006937 | Cavoley | pegfilgrastim | Valid |
+| EMEA/H/C/000422 | Neupopeg | pegfilgrastim | Withdrawn |
+| EMEA/H/C/003910 | Ristempa | pegfilgrastim | Withdrawn |
+| EMEA/H/C/004413 | Udenyca | pegfilgrastim | Withdrawn |
 
 ---
 
@@ -109,7 +120,7 @@ For warnings and contraindications, please refer to the SmPC for safety informat
 **Decision: Hold**
 
 **Rationale:**
-The prediction for severe nonproliferative diabetic retinopathy rests only on a model score. There are no registered trials, no publications, and no supported mechanistic link (Evidence Level L5). In addition, the drug is marketed in this country, with all 11 authorizations valid (11 valid licences of 11).
+The prediction for severe nonproliferative diabetic retinopathy rests only on a model score. There are no registered trials, no publications, and no supported mechanistic link (Evidence Level L5).
 
 **To proceed, the following is needed:**
 - Mechanism of action data, and a mechanistic analysis of whether G-CSF activity could plausibly affect retinal vascular disease

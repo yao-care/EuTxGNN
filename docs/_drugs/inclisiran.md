@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 318
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Inclisiran: predicted new indication Potassium deficiency disease (evidence level L5). Approved use: Primary hypercholesterolaemia (heterozygous familial and non-familial…"
 monitor_inn: "Inclisiran"
 predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005333 (cancelled) | Leqvio | Not specified | Adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct to diet: in combination with a statin or statin with other lipid-lowering therapies in patients unable to reach LDL-C goals with the maximum tolerated dose of a statin... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005333 | Leqvio | inclisiran | Valid |
 
 ## Safety Considerations
 
@@ -84,7 +84,7 @@ Please refer to the SmPC for safety information. No drug-interaction records wer
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There is no mechanistic link, no clinical trials, and no publications for potassium deficiency disease. The EU authorization for the original indication is also listed as cancelled.
+The prediction rests only on a model score. There is no mechanistic link, no clinical trials, and no publications for potassium deficiency disease.
 
 **To proceed, the following is needed:**
 - Verified mechanism of action data for inclisiran from DrugBank

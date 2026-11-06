@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Everolimus: predicted new indication liposarcoma (evidence level L2). Approved use: Hormone-receptor-positive advanced breast cancer Afinitor is indicate…"
 ---
 
@@ -76,10 +76,10 @@ Dedifferentiated liposarcoma is characterized by CDK4/MDM2 amplification and fre
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001038 | Afinitor | Not recorded | Hormone-receptor-positive advanced breast cancer, neuroendocrine tumours of pancreatic origin, neuroendocrine tumours of gastrointestinal or lung origin... |
-| EMEA/H/C/002311 | Votubia | Not recorded | Renal angiomyolipoma associated with tuberous sclerosis complex (TSC), subependymal giant cell astrocytoma (SEGA) associated with TSC... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001038 | Afinitor | everolimus | Valid |
+| EMEA/H/C/002311 | Votubia | everolimus | Valid |
 
 ## Cytotoxicity
 

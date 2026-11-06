@@ -5,7 +5,7 @@ layout: default
 title: Tezepelumab
 parent: Known Uses Only (No New Predictions)
 nav_order: 607
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Tezepelumab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Tezepelumab"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005588 | Tezspire | Not specified | Add-on maintenance treatment of severe asthma in adults and adolescents 12 years and older inadequately controlled despite high-dose inhaled corticosteroids plus another maintenance medicine; add-on therapy with intranasal corticosteroids... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005588 | Tezspire | tezepelumab | Valid |
 
 The only authorization on record has a cancelled status.
 

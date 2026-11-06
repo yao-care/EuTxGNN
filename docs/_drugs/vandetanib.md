@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 656
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "Vandetanib"
 predicted_indications: ["renal cell carcinoma (disease)", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
 description: "Vandetanib: predicted new indication Renal cell carcinoma (disease) (evidence level L3). Approved use: Caprelsa is indicated for the treatment of aggressive and symptomatic…"
@@ -83,9 +83,9 @@ There are limits. The available trials are small, there are no Phase 3 data, and
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002315 | Caprelsa | Not specified | Aggressive and symptomatic medullary thyroid cancer (MTC) in patients with unresectable locally advanced or metastatic disease. Caprelsa is indicated in adults, ch... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002315 | Caprelsa | vandetanib | Valid |
 
 ## Cytotoxicity
 

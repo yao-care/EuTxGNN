@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 100
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Bosentan: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Pulmonary arterial hypertension (WHO functional class III…"
 monitor_inn: "Bosentan"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
@@ -93,10 +93,10 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Status | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002644 | Stayveer | Valid | Treatment of pulmonary arterial hypertension (PAH) to improve exercise capacity and symptoms in patients with World Health Organizat... |
-| EMEA/H/C/000401 | Tracleer | Valid | Treatment of pulmonary arterial hypertension (PAH) to improve exercise capacity and symptoms in patients with WHO functional class... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000401 | Tracleer | bosentan (as monohydrate) | Valid |
+| EMEA/H/C/002644 | Stayveer | bosentan (as monohydrate) | Valid |
 
 ---
 

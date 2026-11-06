@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 580
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Susoctocog Alfa: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Treatment of bleeding episodes in patients with acquired haemophilia…"
 monitor_inn: "Susoctocog alfa"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "congenital factor XIII deficiency", "adenosine deaminase deficiency"]
@@ -66,7 +66,6 @@ The same applies to most other top-10 predictions:
 - **Congenital factor XIII deficiency:** a defect downstream of FVIII, treated with FXIII concentrates.
 - **Adenosine deaminase deficiency:** a purine metabolism disorder with no biological link to FVIII; the score from the TxGNN model (deep learning) may reflect similarities the model learned between related diseases, not biological evidence.
 
-
 ## Clinical Trial Evidence
 
 No clinical trials are registered for the top-ranked prediction (primary release disorder of platelets). The only trial linked to any prediction is listed below (hemophilia, rank 4).
@@ -94,9 +93,9 @@ No literature is available for the top-ranked prediction.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002792 | Obizur | Not specified | Treatment of bleeding episodes in patients with acquired haemophilia caused by antibodies to Factor VIII. Obizur is indicated in adults. (status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002792 | Obizur | susoctocog alfa | Valid |
 
 ## Safety Considerations
 
@@ -112,7 +111,6 @@ The top-ranked prediction (primary release disorder of platelets) has no clinica
 **To proceed, the following is needed:**
 - Mechanism of action data (DrugBank)
 - Warnings and contraindications from the SmPC, which are currently missing and block safety screening
-- Clarification of why the EU authorization was cancelled and whether any marketed supply remains
 - For congenital haemophilia A with inhibitors, dedicated data beyond the single-arm surgical study (PMID 38317504), including a regulatory assessment
 - No further work on the platelet and other non-FVIII-related predictions unless a plausible biological rationale emerges
 ## Disclaimer

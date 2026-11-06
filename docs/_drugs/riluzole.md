@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 523
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Riluzole: predicted new indication Bilateral parasagittal parieto-occipital polymicrogyria (evidence level L5). Approved use: Extending life or time to mechanical ventilation in amyotrophic later…"
 monitor_inn: "Riluzole"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
@@ -88,10 +88,10 @@ No publications were found for the top-ranked prediction. The table below shows 
 
 Both authorizations are cancelled.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000109 | Rilutek | Not specified | Rilutek is indicated to extend life or the time to mechanical ventilation for patients with amyotrophic lateral sclerosis (ALS). Clinical trials have de... |
-| EMEA/H/C/002622 | Riluzole Zentiva | Not specified | Riluzole Zentiva is indicated to extend life or the time to mechanical ventilation for patients with amyotrophic lateral sclerosis (ALS). Clinical trials... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000109 | Rilutek | riluzole | Valid |
+| EMEA/H/C/002622 | Riluzole Zentiva | riluzole | Valid |
 
 ## Safety Considerations
 

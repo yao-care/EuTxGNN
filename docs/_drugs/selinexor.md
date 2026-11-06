@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 553
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Selinexor: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Multiple myeloma: in combination with bortezomib and dexamethasone af…"
 monitor_inn: "Selinexor"
 predicted_indications: ["drug-induced osteoporosis"]
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005127 (cancelled) | Nexpovio | Not specified | NEXPOVIO is indicated in combination with bortezomib and dexamethasone for the treatment of adult patients with multiple myeloma who have received at le... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005127 | Nexpovio | selinexor | Valid |
 
 ## Cytotoxicity
 

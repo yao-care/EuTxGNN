@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 84
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Bazedoxifene: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 3 |
 | Evidence level | Not applicable |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 
 ## Known uses recorded for this drug
 
@@ -74,9 +74,10 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/000913 | Conbriza |  | Valid |
+| EMEA/H/C/000913 | Conbriza | bazedoxifene | Valid |
+| EMEA/H/C/002314 | Duavive | oestrogens conjugated; bazedoxifene | Valid |
 
 ## Safety Considerations
 

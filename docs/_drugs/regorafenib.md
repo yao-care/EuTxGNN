@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 513
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "Regorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
 description: "Regorafenib: predicted new indication Liposarcoma (evidence level L2). Approved use: Stivarga is indicated as monotherapy for the treatment of adult patie…"
@@ -79,9 +79,9 @@ The clinical evidence is more cautious than the model score suggests. In the pla
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002573 (status: cancelled) | Stivarga | Not specified | Monotherapy for adults with previously treated metastatic colorectal cancer, unresectable or metastatic GIST after imatinib and sunitinib, and hepatocellular carcinoma previously treated with sorafenib... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002573 | Stivarga | regorafenib | Valid |
 
 ## Cytotoxicity
 

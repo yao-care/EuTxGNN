@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 505
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Raltegravir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: Treatment of HIV-1 infection…"
 monitor_inn: "Raltegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -84,11 +84,10 @@ The 15 retrieved publications are mostly preclinical. Selected key papers:
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000860 | Isentress | Not specified | Isentress is indicated in combination with other anti-retroviral medicinal products for the treatment of human immunodeficiency virus (HIV 1) infection. |
-
-This authorization is recorded as cancelled.
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000860 | Isentress | raltegravir | Valid |
+| EMEA/H/C/003823 | Dutrebis | lamivudine; raltegravir potassium | Withdrawn |
 
 ## Safety Considerations
 
@@ -111,7 +110,6 @@ The only support for the simian immunodeficiency virus infection prediction is p
 - A defined purpose for the prediction (for example, use as a nonhuman primate research tool versus a human indication)
 - Mechanism of action data (MOA)
 - The SmPC warnings and contraindications, which are required for safety screening
-- Clarification of the cancelled EU authorization status and of any current market availability
 - Review of the other predicted indications, since congenital HIV and AIDS-related complex overlap with the original HIV indication and are not true repurposing
 ## Disclaimer
 

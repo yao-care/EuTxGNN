@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Selumetinib"
 predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "rhabdoid tumor", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "acromelanosis", "Moynahan syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "peripheral nerve schwannoma", "trigeminal schwannoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Selumetinib: predicted new indication Familial generalized lentiginosis (evidence level L5). Approved use: Symptomatic…"
 ---
 
@@ -104,9 +104,9 @@ For context, the key publications for the secondary candidates are listed below.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005244 | Koselugo | Not specified | Monotherapy for symptomatic, inoperable plexiform neurofibromas (PN) in paediatric patients with neurofibromatosis type 1 (NF1) aged 3 years and above |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005244 | Koselugo | selumetinib sulfate | Valid |
 
 ## Cytotoxicity
 

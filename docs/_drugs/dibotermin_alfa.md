@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Dibotermin Alfa: predicted new indication Esotropia (evidence level L5). Approved use: Single-level lumbar interbody spine fusion in adults with degenerativ…"
 monitor_inn: "Dibotermin alfa"
 predicted_indications: ["esotropia", "HER2 positive breast carcinoma", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer", "non-syndromic esophageal malformation", "multifocal choroiditis", "atypical coarctation of aorta"]
@@ -87,9 +87,9 @@ One publication was found for a lower-ranked prediction (breast tumor luminal A 
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000408 (cancelled) | Inductos | Not specified | Single level lumbar interbody spine fusion as a substitute for autogenous bone graft in adults with degenerative disc disease who have had at least 6 months of non operative... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000408 | Inductos | dibotermin alfa | Valid |
 
 ---
 
@@ -104,7 +104,6 @@ The esotropia prediction is supported only by a model score, with no trials, no 
 - Safety information (warnings, contraindications) from the product information, which is currently missing
 - Mechanism of action data
 - Any preclinical or clinical evidence linking BMP-2 to esotropia, or a re-evaluation of the prediction against other candidates
-- Clarification of why the EU authorization was cancelled
 - Tumor-promotion risk assessment before any consideration of oncology-related indications
 ## Disclaimer
 

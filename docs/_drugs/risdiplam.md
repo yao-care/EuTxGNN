@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 528
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Risdiplam"
 predicted_indications: ["acne (disease)"]
 description: "Risdiplam: predicted new indication Acne (disease) (evidence level L5). Approved use: Evrysdi is indicated for the treatment of 5q spinal muscular atrophy…"
@@ -60,13 +60,11 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 No documented link connects this mechanism to acne, which involves sebum production, *C. acnes* colonization, follicular hyperkeratinization and inflammation. A possible effect through off-target splicing changes in skin or follicular cells is speculative. The high TxGNN score (0.9945) is a TxGNN model (deep learning) prediction only and is not backed by any trial or literature data.
 
-
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005145 | Evrysdi | Not specified | Evrysdi is indicated for the treatment of 5q spinal muscular atrophy (SMA) in patients with a clinical diagnosis of SMA Type 1, Type 2 or Type 3 or with one to four SMN2 copies. |
-
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005145 | Evrysdi | risdiplam | Valid |
 
 ## Safety Considerations
 
@@ -81,7 +79,7 @@ Please refer to the SmPC for other safety information, including warnings and co
 **Decision: Hold**
 
 **Rationale:**
-The acne prediction is supported only by the TxGNN model, with no clinical trials, literature or documented mechanistic link. The EU authorization is also listed as cancelled, and the safety review cannot be completed.
+The acne prediction is supported only by the TxGNN model, with no clinical trials, literature or documented mechanistic link. The safety review cannot be completed.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a plausible biological rationale connecting SMN2 splicing modulation to acne

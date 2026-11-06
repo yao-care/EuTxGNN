@@ -5,7 +5,7 @@ layout: default
 title: Ospemifene
 parent: Known Uses Only (No New Predictions)
 nav_order: 454
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ospemifene: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Ospemifene"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002780 (cancelled) | Senshio | Not specified | Treatment of moderate to severe symptomatic vulvar and vaginal atrophy (VVA) in post-menopausal women. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002780 | Senshio | ospemifene | Valid |
 
 ## Safety Considerations
 

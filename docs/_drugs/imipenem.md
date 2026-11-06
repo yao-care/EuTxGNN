@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 315
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Imipenem: predicted new indication Diffuse scleroderma (evidence level L5). Approved use: Hospital-acquired pneumonia (including ventilator-associated pneumoni…"
 monitor_inn: "Imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
@@ -98,9 +98,9 @@ For reference, the most relevant publications among the other predicted indicati
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004808 (cancelled) | Recarbrio | Not specified | Recarbrio is indicated for:- Treatment of hospital-acquired pneumonia (HAP), including ventilator associated pneumonia (VAP), in adults (see sections 4.4 and 5.1).... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004808 | Recarbrio | imipenem monohydrate; cilastatin sodium; relebactam monohydrate | Valid |
 
 ## Safety Considerations
 
@@ -114,7 +114,7 @@ Please refer to the SmPC for the approved warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (diffuse scleroderma) has no mechanistic rationale, no trials and no literature, so it is supported by the model score alone. The EU authorization is also cancelled. Among the other predictions, typhoid fever (XDR cases) and *S. aureus* combination therapy are the most plausible research questions, but the evidence is observational or small-scale.
+The top-ranked prediction (diffuse scleroderma) has no mechanistic rationale, no trials and no literature, so it is supported by the model score alone. Among the other predictions, typhoid fever (XDR cases) and *S. aureus* combination therapy are the most plausible research questions, but the evidence is observational or small-scale.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for imipenem

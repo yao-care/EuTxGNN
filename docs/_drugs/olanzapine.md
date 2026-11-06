@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 444
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Olanzapine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Olanzapine is indicated for the treatment of schizophrenia. Olanzapin…"
@@ -52,8 +52,8 @@ Of the other top-ranked predictions, agoraphobia and the depression-related term
 | Predicted New Indication | Benign paroxysmal torticollis of infancy |
 | TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 9 of 9) |
-| Number of Authorizations | 9 (valid: 9) |
+| EU Market Status | Marketed (valid licences: 10 of 13) |
+| Number of Authorizations | 13 (valid: 10) |
 | Recommended Decision | Hold |
 
 ---
@@ -99,15 +99,21 @@ For reference, the strongest literature found for the more plausible alternative
 
 ## EU Market Information
 
-All nine EU authorizations for olanzapine are valid (9 valid licences of 9).
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000115 | Zyprexa | Coated tablets and powder for solution for injection | Schizophrenia, manic episodes, prevention of bipolar recurrence; injection for rapid control of agitation... |
-| EMEA/H/C/000287 | Zyprexa Velotab | Orodispersible tablet | Adults: schizophrenia, moderate to severe manic episodes, prevention of recurrence in bipolar disorder |
-| EMEA/H/C/000792 | Zalasta | Not specified | Schizophrenia, moderate to severe manic episodes, prevention of recurrence in bipolar disorder |
-| EMEA/H/C/000810 | Olanzapine Teva | Not specified | Adults: schizophrenia, moderate to severe manic episodes, prevention of recurrence in bipolar disorder |
-| EMEA/H/C/000961 | Olanzapine Viatris (previously Olanzapine Mylan) | Not specified | Adults: schizophrenia, moderate to severe manic episodes, prevention of recurrence in bipolar disorder |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000115 | Zyprexa | olanzapine | Valid |
+| EMEA/H/C/000287 | Zyprexa Velotab | olanzapine | Valid |
+| EMEA/H/C/000792 | Zalasta | olanzapine | Valid |
+| EMEA/H/C/000810 | Olanzapine Teva | olanzapine | Valid |
+| EMEA/H/C/000890 | Zypadhera | olanzapine pamoate | Valid |
+| EMEA/H/C/000961 | Olanzapine Viatris | olanzapine | Valid |
+| EMEA/H/C/001085 | Olanzapine Glenmark | olanzapine | Valid |
+| EMEA/H/C/001086 | Olanzapine Glenmark Europe | olanzapine | Valid |
+| EMEA/H/C/001087 | Olazax | olanzapine | Valid |
+| EMEA/H/C/001088 | Olazax Disperzi | olanzapine | Valid |
+| EMEA/H/C/000114 | Olansek | olanzapine | Withdrawn |
+| EMEA/H/C/000793 | Olanzapine Cipla | olanzapine | Withdrawn |
+| EMEA/H/C/001178 | Olanzapine Apotex | olanzapine | Withdrawn |
 
 Four further cancelled authorizations are on record: Olazax Disperzi, Olazax, Olanzapine Glenmark and Olanzapine Glenmark Europe.
 
@@ -136,13 +142,13 @@ The data compiled for this report also flag metabolic burden and sedation as key
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, benign paroxysmal torticollis of infancy, rests only on a computational score. It has no trials, no literature, no plausible mechanism, and a serious paediatric safety concern. Olanzapine is currently marketed, with 9 valid licences of 9.
+The top-ranked prediction, benign paroxysmal torticollis of infancy, rests only on a computational score. It has no trials, no literature, no plausible mechanism, and a serious paediatric safety concern.
 
 **To proceed, the following is needed:**
 - Re-prioritising the candidate list. Neurotic depression and melancholia (L3, class-level evidence from several network meta-analyses) and agoraphobia (L3, an open-label trial in panic disorder) are better-supported research questions. They should be assessed as separate candidates, with metabolic guardrails.
 - Detailed mechanism of action data
 - Label-based warnings and contraindications from the SmPC
-- Clarification of the regulatory status of olanzapine in the EU, which is currently marketed with 9 valid licences of 9.
+- Clarification of the regulatory status of olanzapine in the EU, which is currently marketed.
 - For any paediatric indication, a dedicated paediatric safety assessment before any further work
 ## Disclaimer
 

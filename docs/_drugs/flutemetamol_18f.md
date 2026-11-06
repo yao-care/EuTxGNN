@@ -5,7 +5,7 @@ layout: default
 title: Flutemetamol 18F
 parent: Known Uses Only (No New Predictions)
 nav_order: 267
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Flutemetamol 18F: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Flutemetamol (18F)"
 predicted_indications: []
@@ -50,9 +50,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002557 (cancelled) | Vizamyl | Not specified | Diagnostic use only. PET imaging of β-amyloid neuritic plaque density in adult patients with cognitive impairment being evaluated for Alzheimer's disease and other causes of cognitive impairment... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002557 | Vizamyl | flutemetamol (18F) | Valid |
 
 ---
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 29
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Alanine: predicted new indication Gastroparesis (evidence level L5). Approved use: Maple syrup urine disease (MSUD) presenting with an acute decompensat…"
 monitor_inn: "alanine"
 predicted_indications: ["gastroparesis (disease)"]
@@ -75,9 +75,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005557 (cancelled) | Maapliv | Not specified | Maple syrup urine disease (MSUD) presenting with an acute decompensation episode in patients from birth who are not eligible for an oral and... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005557 | Maapliv | glycine,L-alanine,L-arginine,L-aspartic acid,L-cysteine hydrochloride monohydra… | Valid |
 
 ## Safety Considerations
 

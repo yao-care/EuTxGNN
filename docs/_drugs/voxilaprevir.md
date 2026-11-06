@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 679
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "voxilaprevir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "chronic hepatitis B virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Voxilaprevir: predicted new indication Hepatitis B virus infection (evidence level L4). Approved use: Vosevi is indicated for the treatment of chronic hepatitis C virus (H…"
@@ -93,10 +93,9 @@ None of these publications evaluates voxilaprevir against HBV. They describe HCV
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004350 | Vosevi | Not specified | Treatment of chronic hepatitis C virus (HCV) infection in patients aged 12 years and older and weighing at least 30 kg. (see sections 4.2, 4.4 and 5.1). |
-
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004350 | Vosevi | sofosbuvir; velpatasvir; voxilaprevi | Valid |
 
 ---
 
@@ -119,7 +118,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but there is no plausible mechanism (HBV lacks an NS3/4A protease target), no clinical trials and no literature showing anti-HBV activity. The evidence is indirect only. The EU authorization is also cancelled.
+The prediction score is high, but there is no plausible mechanism (HBV lacks an NS3/4A protease target), no clinical trials and no literature showing anti-HBV activity. The evidence is indirect only.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for voxilaprevir

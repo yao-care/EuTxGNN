@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 107
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Brinzolamide: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN model's candidates for Brinzolamide are all already known uses. There 
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 
 ## Known uses among the model's candidates
 
@@ -72,9 +72,11 @@ The TxGNN model's candidates for Brinzolamide are all already known uses. There 
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/000267 | Azopt |  | Valid |
+| EMEA/H/C/000267 | Azopt | brinzolamide | Valid |
+| EMEA/H/C/000960 | Azarga | brinzolamide; timolol maleate | Valid |
+| EMEA/H/C/003698 | Simbrinza | brinzolamide; brimonidine tartrate | Valid |
 
 ## Safety Considerations
 

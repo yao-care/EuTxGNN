@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 527
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Risankizumab: predicted new indication Dermatitis (evidence level L2). Approved use: Moderate to severe plaque psoriasis in adults who are candidates for…"
 monitor_inn: "Risankizumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
@@ -86,9 +86,9 @@ The published literature suggests risankizumab may be most relevant to psoriasis
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004759 (cancelled) | Skyrizi | Not specified | Moderate to severe plaque psoriasis in adults who are candidates for systemic therapy; active psoriatic arthritis... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004759 | Skyrizi | risankizumab | Valid |
 
 ## Safety Considerations
 

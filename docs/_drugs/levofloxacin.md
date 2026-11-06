@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 366
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Levofloxacin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Management of chronic pulmonary infections due to Pseudomonas aerugin…"
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
@@ -71,9 +71,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002789 (status: cancelled) | Quinsair | Not specified | Management of chronic pulmonary infections due to *Pseudomonas aeruginosa* in adult patients with cystic fibrosis. Consideration should be given to official guidance on the... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002789 | Quinsair | levofloxacin | Valid |
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Golimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Golimumab: predicted new indication hypermobility of coccyx (evidence level L5). Approved use: Rheumatoid arthritis (RA) Simponi…"
 ---
 
@@ -69,11 +69,11 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000992 | Simponi | Not recorded | Rheumatoid arthritis (RA) Simponi, in combination with methotrexate (MTX), is indicated for:  the treatment of mod... |
-| EMEA/H/C/006621 | Gotenfia | Not recorded | Rheumatoid arthritis (RA)Gotenfia, in combination with methotrexate (MTX), is indicated for:- the treatment of mo... |
-| EMEA/H/C/006560 | Gobivaz | Not recorded | Rheumatoid arthritis (RA) Gobivaz, in combination with methotrexate (MTX), is indicated for:  the treatment of mo... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000992 | Simponi | golimumab | Valid |
+| EMEA/H/C/006560 | Gobivaz | golimumab | Valid |
+| EMEA/H/C/006621 | Gotenfia | golimumab | Valid |
 
 ## Safety Considerations
 

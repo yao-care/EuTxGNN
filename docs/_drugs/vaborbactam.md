@@ -5,7 +5,7 @@ layout: default
 title: Vaborbactam
 parent: Known Uses Only (No New Predictions)
 nav_order: 654
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Vaborbactam: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Vaborbactam"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004669 (cancelled) | Vaborem | Not specified | Treatment of cUTI including pyelonephritis, cIAI, HAP/VAP and associated bacteraemia in adults; infections due to aerobic Gram-negative organisms in adults with limited... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004669 | Vaborem | meropenem trihydrate; vaborbactam | Valid |
 
 ## Safety Considerations
 

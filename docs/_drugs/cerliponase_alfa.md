@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 141
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Cerliponase Alfa: predicted new indication Scheie syndrome (evidence level L5). Approved use: Neuronal ceroid lipofuscinosis type 2 (CLN2) disease…"
 monitor_inn: "Cerliponase alfa"
 predicted_indications: ["Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "cholesteryl ester storage disease", "Gaucher disease", "familial encephalopathy with neuroserpin inclusion bodies", "Wolman disease with hypolipoproteinemia and acanthocytosis", "proximal myopathy with extrapyramidal signs", "autosomal ichthyosis syndrome with fatal disease course"]
@@ -72,9 +72,9 @@ Currently no related literature available for Scheie syndrome.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004065 | Brineura | Not specified | Treatment of neuronal ceroid lipofuscinosis type 2 (CLN2) disease, also known as tripeptidyl peptidase 1 (TPP1) deficiency (status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004065 | Brineura | cerliponase alfa | Valid |
 
 ## Safety Considerations
 
@@ -85,7 +85,7 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials or literature behind it, and the deficient enzyme in Scheie syndrome differs from the one cerliponase alfa supplies. The only EU authorization is also listed as cancelled.
+The prediction has no clinical trials or literature behind it, and the deficient enzyme in Scheie syndrome differs from the one cerliponase alfa supplies.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for cerliponase alfa

@@ -5,7 +5,7 @@ layout: default
 title: Saxagliptin
 parent: Known Uses Only (No New Predictions)
 nav_order: 549
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Saxagliptin: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Saxagliptin"
 predicted_indications: []
@@ -43,14 +43,17 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Add-on combination therapy Onglyza is indicated in adult patients aged 18 years and older with type-2 diabetes mellitus to improve glycaemic control: as monotherapy: in patients inadequately controlled by diet and exercise alone and for whom metformin is inappropriate due to contraindications or int |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 3 of 4) |
+| Number of Authorizations | 4 (valid: 3) |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001039 (cancelled) | Onglyza | Not specified | Add-on combination therapy Onglyza is indicated in adult patients aged 18 years and older with type-2 diabetes mellitus to improve glycaemic control: as monotherapy... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001039 | Onglyza | saxagliptin | Valid |
+| EMEA/H/C/002059 | Komboglyze | metformin hydrochloride; saxagliptin hydrochloride | Valid |
+| EMEA/H/C/004057 | Qtern | saxagliptin; dapagliflozin propanediol monohydrate | Valid |
+| EMEA/H/C/004910 | Qtrilmet | metformin hydrochloride; saxagliptin; dapagliflozin | Withdrawn |
 
 ## Safety Considerations
 

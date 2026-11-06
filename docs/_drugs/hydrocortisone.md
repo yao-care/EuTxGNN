@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 302
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "Hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Hydrocortisone: predicted new indication Alopecia areata (evidence level L2). Approved use: Replacement therapy of adrenal insufficiency in infants…"
@@ -79,11 +79,11 @@ An important caveat: in the one randomized trial, hydrocortisone 1% was the weak
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004416 | Alkindi (valid) | Not specified | Replacement therapy of adrenal insufficiency in infants, children and adolescents (from birth to < 18 years old). |
-| EMEA/H/C/002185 | Plenadren (valid) | Not specified | Treatment of adrenal insufficiency in adults. |
-| EMEA/H/C/005105 | Efmody (valid) | Not specified | Treatment of congenital adrenal hyperplasia (CAH) in adolescents aged 12 years and over and adults. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002185 | Plenadren | hydrocortisone | Valid |
+| EMEA/H/C/004416 | Alkindi | hydrocortisone | Valid |
+| EMEA/H/C/005105 | Efmody | hydrocortisone | Valid |
 
 ## Safety Considerations
 

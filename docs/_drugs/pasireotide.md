@@ -5,7 +5,7 @@ layout: default
 title: Pasireotide
 parent: Known Uses Only (No New Predictions)
 nav_order: 468
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Pasireotide: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Pasireotide"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002052 (cancelled) | Signifor | Not specified | Adult Cushing's disease for whom surgery is not an option or has failed; adult acromegaly for whom surgery is not an option or has not been curative and who are inadequately controlled on another somatostatin analogue |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002052 | Signifor | pasireotide | Valid |
 
 ## Cytotoxicity
 

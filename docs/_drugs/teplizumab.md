@@ -5,7 +5,7 @@ layout: default
 title: Teplizumab
 parent: Known Uses Only (No New Predictions)
 nav_order: 602
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Teplizumab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Teplizumab"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005496 | Teizeild | Not specified | Teizeild is indicated to delay the onset of stage 3 type 1 diabetes (T1D) in adult and paediatric patients 8 years of age and older with stage 2 T1D. (status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005496 | Teizeild | teplizumab | Valid |
 
 ## Safety Considerations
 

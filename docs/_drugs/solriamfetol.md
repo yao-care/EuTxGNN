@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 570
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "Solriamfetol"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "attention deficit hyperactivity disorder, inattentive type", "chondromyxoid fibroma", "specific developmental disorder", "variably protease-sensitive prionopathy", "multiple system atrophy", "postural orthostatic tachycardia syndrome", "disorder of peroxisomal alpha-, beta- and omega-oxidation"]
 description: "Solriamfetol: predicted new indication Attention deficit-hyperactivity disorder (evidence level L2). Approved use: Sunosi is indicated to improve wakefulness and reduce excessive dayti…"
@@ -82,9 +82,9 @@ The ongoing development programme, including adult, adolescent and paediatric tr
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004893 | Sunosi (status: valid) | Not specified | Improves wakefulness and reduces excessive daytime sleepiness in adults with narcolepsy (with or without cataplexy), and in adults with OSA whose sleepiness is not sat... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004893 | Sunosi | solriamfetol hydrochloride | Valid |
 
 ## Safety Considerations
 

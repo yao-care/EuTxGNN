@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 595
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Telmisartan"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
 description: "Telmisartan: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Hypertension Treatment of essential hypertension in adults. Cardiovas…"
@@ -52,8 +52,8 @@ Among the other top-ranked predictions, **intracerebral hemorrhage** has the str
 | Predicted New Indication | Prinzmetal angina |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 4 of 6) |
-| Number of Authorizations | 6 (valid: 4) |
+| EU Market Status | Marketed (valid licences: 8 of 14) |
+| Number of Authorizations | 14 (valid: 8) |
 | Recommended Decision | Hold |
 
 ---
@@ -119,15 +119,22 @@ For reference, the most relevant publications among the other predicted indicati
 
 ## EU Market Information
 
-All six EU authorizations for telmisartan single-agent products are cancelled.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000209 | Micardis | Not specified | Hypertension: treatment of essential hypertension in adults. Cardiovascular prevention: reduction of cardiovascular... |
-| EMEA/H/C/000210 | Pritor | Not specified | Hypertension: treatment of essential hypertension in adults. Cardiovascular prevention: reduction of cardiovascular... |
-| EMEA/H/C/000211 | Kinzalmono | Not specified | Hypertension: treatment of essential hypertension in adults. Cardiovascular prevention: reduction of cardiovascular... |
-| EMEA/H/C/001168 | Telmisartan Actavis | Not specified | Hypertension: treatment of essential hypertension in adults. Cardiovascular prevention: reduction of cardiovascular... |
-| EMEA/H/C/001196 | Tolura | Not specified | Hypertension: treatment of essential hypertension in adults. Cardiovascular prevention: reduction of cardiovascular... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000209 | Micardis | telmisartan | Valid |
+| EMEA/H/C/001168 | Telmisartan Actavis | telmisartan | Valid |
+| EMEA/H/C/001196 | Tolura | telmisartan | Valid |
+| EMEA/H/C/002511 | Telmisartan Teva Pharma | telmisartan | Valid |
+| EMEA/H/C/000413 | MicardisPlus | telmisartan; hydrochlorothiazide | Valid |
+| EMEA/H/C/001224 | Twynsta | telmisartan; amlodipine | Valid |
+| EMEA/H/C/002549 | Tolucombi | telmisartan; hydrochlorothiazide | Valid |
+| EMEA/H/C/002676 | Actelsar HCT | telmisartan; hydrochlorothiazide | Valid |
+| EMEA/H/C/000210 | Pritor | telmisartan | Withdrawn |
+| EMEA/H/C/000211 | Kinzalmono | telmisartan | Withdrawn |
+| EMEA/H/C/001146 | Telmisartan Teva | telmisartan | Withdrawn |
+| EMEA/H/C/002118 | Onduarp | telmisartan | Withdrawn |
+| EMEA/H/C/000414 | PritorPlus | telmisartan; hydrochlorothiazide | Withdrawn |
+| EMEA/H/C/000415 | Kinzalkomb | telmisartan; hydrochlorothiazide | Withdrawn |
 
 A sixth authorization, Telmisartan Teva Pharma (EMEA/H/C/002511), covered treatment of essential hypertension in adults and is also cancelled.
 
@@ -154,7 +161,7 @@ Label-based warnings and contraindications were not available in the data compil
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, Prinzmetal angina, rests on model score alone (L5) with no trials or literature. Telmisartan is marketed in this country, with 6 valid licences of 6, but label-based safety data is missing. The strongest signal lies in intracerebral hemorrhage (L2), but that evidence comes from a combination regimen and cannot be attributed to telmisartan alone.
+The top prediction, Prinzmetal angina, rests on model score alone (L5) with no trials or literature. Telmisartan is marketed in this country, but label-based safety data is missing. The strongest signal lies in intracerebral hemorrhage (L2), but that evidence comes from a combination regimen and cannot be attributed to telmisartan alone.
 
 **To proceed, the following is needed:**
 - Mechanism-of-action data (e.g., from DrugBank)

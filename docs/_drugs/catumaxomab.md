@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 135
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Catumaxomab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Intraperitoneal treatment of malignant ascites in adults with EpCAM-p…"
 monitor_inn: "Catumaxomab"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "drug-induced osteoporosis", "diabetic retinopathy"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,6 @@ Currently, detailed mechanism of action data is not available in a structured fo
 This mechanism does not fit the predicted indication. Diabetic retinopathy is a non-neoplastic microvascular disease driven by hyperglycaemia-related vascular damage, VEGF signalling and inflammation, not by EpCAM-positive cell populations. Immune-mediated cytotoxic killing is not a plausible therapy for it. Intraperitoneal dosing and the risk of cytokine release also make use in a chronic eye condition unrealistic.
 
 The high TxGNN score (0.9964) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Without supporting trials or literature, it should be treated as a model artefact rather than a credible lead.
-
 
 ## Clinical Trial Evidence
 
@@ -72,11 +71,12 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005697 (cancelled) | Korjuny | Not specified | Intraperitoneal treatment of malignant ascites in adults with epithelial cellular adhesion molecule (EpCAM)-positive carcinomas, who are not eligible for further... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005697 | Korjuny | catumaxomab | Valid |
+| EMEA/H/C/000972 | Removab | catumaxomab | Withdrawn |
 
-Reference data note that an earlier EMA approval (as Removab) was withdrawn at the marketing authorisation holder's request in 2017 for commercial reasons, and that the drug was re-authorised in early 2025. The compiled regulatory record, however, currently shows the license as cancelled.
+Reference data note that an earlier EMA approval (as Removab) was withdrawn at the marketing authorisation holder's request in 2017 for commercial reasons, and that the drug was re-authorised in early 2025.
 
 ## Cytotoxicity
 
@@ -100,7 +100,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone. There are no trials or publications, the mechanism (T-cell redirection against EpCAM-positive cells) does not match the biology of diabetic retinopathy, and the safety profile is unfavourable. The only EU authorisation on record is cancelled, which also limits practical access.
+The prediction rests on a model score alone. There are no trials or publications, the mechanism (T-cell redirection against EpCAM-positive cells) does not match the biology of diabetic retinopathy, and the safety profile is unfavourable.
 
 **To proceed, the following is needed:**
 - Any preclinical or mechanistic evidence linking EpCAM/CD3 engagement to retinal disease (none is currently identified)

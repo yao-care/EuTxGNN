@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 362
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
 description: "Lenvatinib: predicted new indication Liposarcoma (evidence level L3). Approved use: Kisplyx is indicated for the treatment of adults with advanced renal…"
@@ -75,10 +75,10 @@ Eribulin is a microtubule inhibitor with known activity in liposarcoma. Combinin
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004224 | Kisplyx | Not specified | Advanced renal cell carcinoma (RCC): in combination with pembrolizumab, as first-line treatment; in combination with everolimus, following one prior VEGF-targeted therapy |
-| EMEA/H/C/003727 | Lenvima | Not specified | Monotherapy for progressive, locally advanced or metastatic differentiated thyroid carcinoma refractory to radioactive iodine; monotherapy for advanced or unresectable hepatocellular carcinoma with no prior systemic therapy |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003727 | Lenvima | lenvatinib mesilate | Valid |
+| EMEA/H/C/004224 | Kisplyx | lenvatinib mesilate | Valid |
 
 Both authorizations are currently valid.
 

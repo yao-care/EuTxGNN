@@ -5,7 +5,7 @@ layout: default
 title: Anidulafungin
 parent: Known Uses Only (No New Predictions)
 nav_order: 53
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Anidulafungin: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Anidulafungin"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000788 (cancelled) | Ecalta | Not specified | Treatment of invasive candidiasis in adults and paediatric patients aged 1 month to < 18 years. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000788 | Ecalta | anidulafungin | Valid |
 
 ## Safety Considerations
 

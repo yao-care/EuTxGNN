@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Eltrombopag"
 predicted_indications: ["HIV infectious disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Eltrombopag: predicted new indication HIV infectious disease (evidence level L5). Approved use: Revolade is indicated for the treatment of adult patients with primar…"
 ---
 
@@ -50,8 +50,8 @@ The available studies address HIV-associated thrombocytopenia and related cytope
 | Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 0.9926 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -85,9 +85,11 @@ Note on the evidence level: none of the cited studies directly tests eltrombopag
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001110 | Revolade | Not recorded | Revolade is indicated for the treatment of adult patients with primary immune thrombocytopenia (ITP) who are refractory to other... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001110 | Revolade | eltrombopag | Valid |
+| EMEA/H/C/006417 | Eltrombopag Viatris | eltrombopag olamine | Valid |
+| EMEA/H/C/006459 | Eltrombopag Accord | eltrombopag olamine | Valid |
 
 ## Safety Considerations
 

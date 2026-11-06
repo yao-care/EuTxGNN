@@ -5,7 +5,7 @@ layout: default
 title: Macitentan
 parent: Known Uses Only (No New Predictions)
 nav_order: 385
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Macitentan: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Macitentan"
 predicted_indications: []
@@ -43,18 +43,19 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | AdultsMacitentan Accord as monotherapy is indicated for the long-term treatment of pulmonary arterialhypertension (PAH) in adult patients of WHO Functional Class (FC) II to III (see section 5.1). Paediatric populationMacitentan Accord as monotherapy is indicated for the long-term treatment of pulmon |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 
 ---
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006524 | Macitentan Accord (valid) | Not specified | Adults: monotherapy for the long-term treatment of pulmonary arterial hypertension (PAH) in adult patients of WHO Function... |
-| EMEA/H/C/002697 | Opsumit (valid) | Not specified | Adults: monotherapy or in combination for the long-term treatment of pulmonary arterial hypertension (PAH) in adult patie... |
-| EMEA/H/C/006523 | Macitentan AccordPharma (valid) | Not specified | Adults: monotherapy or in combination for the long-term treatment of pulmonary arterial hypertension (PAH) in adult patie... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002697 | Opsumit | macitentan | Valid |
+| EMEA/H/C/006523 | Macitentan AccordPharma | macitentan | Valid |
+| EMEA/H/C/006524 | Macitentan Accord | macitentan | Valid |
+| EMEA/H/C/005001 | Yuvanci | macitentan; tadalafil | Valid |
 
 ---
 

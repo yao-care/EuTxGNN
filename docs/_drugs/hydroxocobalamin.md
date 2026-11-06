@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Hydroxocobalamin"
 predicted_indications: ["esophageal varices without bleeding", "esophageal varices with bleeding"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Hydroxocobalamin: predicted new indication Esophageal varices without bleeding (evidence level L5). Approved use: Treatment of known or suspected cyanide poisoning (given together wit…"
 ---
 
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000806 | Cyanokit | Not specified | Treatment of known or suspected cyanide poisoning. Cyanokit is to be administered together with appropriate decontamination and supportive measures. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000806 | Cyanokit | hydroxocobalamin | Valid |
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Avatrombopag"
 predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "transient neonatal thrombocytopenia", "dense granule disease", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "lower motor neuron syndrome with late-adult onset", "Mills syndrome", "monomelic amyotrophy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Avatrombopag: predicted new indication marcothrombocytopenia with mitral valve insufficiency (evidence level L5). Approved use: Doptelet is indicated for the treatment of severe thrombocytopenia in…"
 ---
 
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004722 | Doptelet | Not recorded | Severe thrombocytopenia in adults with chronic liver disease scheduled for an invasive procedure; primary chronic immune thrombocytopenia (ITP) in adults refractory to other treatments... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004722 | Doptelet | avatrombopag maleate | Valid |
 
 ## Cytotoxicity
 

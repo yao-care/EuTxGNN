@@ -5,7 +5,7 @@ layout: default
 title: Sildenafil
 parent: Known Uses Only (No New Predictions)
 nav_order: 560
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Sildenafil: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Sildenafil"
 predicted_indications: []
@@ -43,18 +43,22 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Treatment of adult patients with pulmonary arterial hypertension classified as World Health Organization (WHO) functional class II and III, to improve exercise capacity. Efficacy has been shown in primary pulmonary hypertension and pulmonary hypertension associated with connective tissue disease. Pa |
-| EU Market Status | Marketed (valid licences: 8 of 8) |
-| Number of Authorizations | 8 (valid: 8) |
+| EU Market Status | Marketed (valid licences: 8 of 9) |
+| Number of Authorizations | 9 (valid: 8) |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
-|---------|------|------|-----------|------|
-| EMEA/H/C/000638 | Revatio | Not specified | Pulmonary arterial hypertension (WHO class II and III), adults and children aged 1 to 17 years; injection for patients temporarily unable to take oral therapy... | Valid |
-| EMEA/H/C/004289 | Granpidam | Not specified | Pulmonary arterial hypertension (WHO class II and III), adults and children aged 1 to 17 years... | Valid |
-| EMEA/H/C/004186 | Mysildecard | Not specified | Pulmonary arterial hypertension (WHO class II and III), adults and children aged 1 to 17 years... | Valid |
-| EMEA/H/C/000202 | Viagra | Not specified | Erectile dysfunction in men; sexual stimulation is required for effectiveness | Valid |
-| EMEA/H/C/001090 | Sildenafil Actavis | Not specified | Erectile dysfunction in men; sexual stimulation is required for effectiveness | Valid |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000202 | Viagra | sildenafil | Valid |
+| EMEA/H/C/000638 | Revatio | sildenafil | Valid |
+| EMEA/H/C/001073 | Sildenafil Teva | sildenafil | Valid |
+| EMEA/H/C/001076 | Vizarsin | sildenafil | Valid |
+| EMEA/H/C/001080 | Sildenafil ratiopharm | sildenafil | Valid |
+| EMEA/H/C/001090 | Sildenafil Actavis | sildenafil | Valid |
+| EMEA/H/C/004186 | Mysildecard | sildenafil | Valid |
+| EMEA/H/C/004289 | Granpidam | sildenafil citrate | Valid |
+| EMEA/H/C/000204 | Patrex | sildenafil | Withdrawn |
 
 ## Safety Considerations
 

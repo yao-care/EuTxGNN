@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "formoterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Formoterol: predicted new indication respiratory malformation (evidence level L5). Approved use: Asthma BiResp Spiromax is indicated in adults and adolescents (12 yea…"
 ---
 
@@ -48,8 +48,8 @@ Formoterol is a long-acting beta2-adrenergic agonist used as an inhaled bronchod
 | Predicted New Indication | respiratory malformation |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 10 of 10) |
-| Number of Authorizations | 10 (valid: 10) |
+| EU Market Status | Marketed (valid licences: 10 of 14) |
+| Number of Authorizations | 14 (valid: 10) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -82,13 +82,22 @@ None of the publications below directly studies respiratory malformation. They a
 
 Formoterol is marketed in the European Union (10 licences recorded). All licences listed are combination products containing formoterol, so they do not describe the approval of formoterol as a single ingredient.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003890 | BiResp Spiromax | Not recorded | Asthma (adults and adolescents 12+) and COPD (adults)... |
-| EMEA/H/C/002348 | DuoResp Spiromax | Not recorded | Asthma (adults and adolescents 12+) and COPD (adults)... |
-| EMEA/H/C/004882 | GoResp Digihaler (previously Budesonide/Formoterol Teva Pharma B.V.) | Not recorded | Asthma and COPD in adults 18 years and older... |
-| EMEA/H/C/004257 | Trimbow | Not recorded | Maintenance treatment of asthma and COPD in adults not adequately controlled... |
-| EMEA/H/C/004983 | Trixeo Aerosphere | Not recorded | Maintenance treatment in adults with moderate to severe COPD... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002348 | DuoResp Spiromax | budesonide; formoterol fumarate dihydrate | Valid |
+| EMEA/H/C/003745 | Duaklir Genuair | aclidinium bromide; formoterol fumarate dihydrate | Valid |
+| EMEA/H/C/003890 | BiResp Spiromax | budesonide; formoterol fumarate dihydrate | Valid |
+| EMEA/H/C/003969 | Brimica Genuair | formoterol fumarate dihydrate; aclidinium bromide | Valid |
+| EMEA/H/C/004245 | Bevespi Aerosphere | glycopyrronium; formoterol fumarate dihydrate | Valid |
+| EMEA/H/C/004257 | Trimbow | beclometasone dipropionate; formoterol fumarate dihydrate; glycopyrronium bromi… | Valid |
+| EMEA/H/C/004702 | Trydonis | beclometasone dipropionate; formoterol fumarate dihydrate; glycopyrronium | Valid |
+| EMEA/H/C/004882 | GoResp Digihaler | budesonide; formoterol fumarate dihydrate | Valid |
+| EMEA/H/C/004983 | Trixeo Aerosphere | formoterol fumarate dihydrate; glycopyrronium bromide; budesonide | Valid |
+| EMEA/H/C/005311 | Riltrava Aerosphere | budesonide; formoterol fumarate dihydrate; glycopyrronium bromide | Valid |
+| EMEA/H/C/003951 | Budesonide/Formoterol Teva | budesonide; formoterol fumarate dihydrate | Withdrawn |
+| EMEA/H/C/003952 | Vylaer Spiromax | budesonide; formoterol fumarate dihydrate | Withdrawn |
+| EMEA/H/C/003953 | Budesonide/Formoterol Teva Pharma B.V. | budesonide; formoterol | Withdrawn |
+| EMEA/H/C/004836 | Riarify | formoterol fumarate dihydrate; glycopyrronium; beclometasone dipropionate | Withdrawn |
 
 ## Safety Considerations
 

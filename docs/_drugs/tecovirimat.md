@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Tecovirimat"
 predicted_indications: ["hordeolum", "vibrio infectious disease", "Klebsiella infectious disease", "noma", "coinfection", "escherichia coli infection", "hookworm infectious disease", "mumps infectious disease", "polyomavirus infectious disease", "Proteus infectious disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Tecovirimat: predicted new indication Hordeolum (evidence level L5). Approved use: Smallpox…"
 ---
 
@@ -89,9 +89,9 @@ These do not address hordeolum.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005248 | Tecovirimat SIGA | Not specified | Tecovirimat SIGA is indicated for the treatment of the following viral infections in adults and children with body weight at least 13 kg: Smallpox Monkeypox... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005248 | Tecovirimat SIGA | tecovirimat | Valid |
 
 ---
 

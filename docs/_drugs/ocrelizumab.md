@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 441
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ocrelizumab: predicted new indication HER2 positive breast carcinoma (evidence level L5). Approved use: Relapsing forms of multiple sclerosis (RMS) with active disease"
 monitor_inn: "Ocrelizumab"
 predicted_indications: ["HER2 positive breast carcinoma", "progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer"]
@@ -73,9 +73,9 @@ Publications were retrieved only for the fourth-ranked prediction (breast tumor 
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004043 (cancelled) | Ocrevus | Not specified | Treatment of adult patients with relapsing forms of multiple sclerosis (RMS) with active disease defined by clinical or imaging features. Treatment of adu... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004043 | Ocrevus | ocrelizumab | Valid |
 
 ## Safety Considerations
 
@@ -90,7 +90,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score. No clinical trials or literature address HER2-positive breast carcinoma, and no mechanistic link is established. The only EU authorization is recorded as cancelled.
+The prediction is supported only by the model score. No clinical trials or literature address HER2-positive breast carcinoma, and no mechanistic link is established.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, and a scientific case for how CD20+ B-cell depletion could affect HER2-positive breast cancer

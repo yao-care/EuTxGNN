@@ -5,7 +5,7 @@ layout: default
 title: Alogliptin
 parent: Known Uses Only (No New Predictions)
 nav_order: 39
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Alogliptin: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Alogliptin"
 predicted_indications: []
@@ -43,14 +43,16 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Vipidia is indicated in adults aged 18 years and older with type 2 diabetes mellitus to improve glycaemic control in combination with other glucose lowering medicinal products including insulin, when these, together with diet and exercise, do not provide adequate glycaemic control (see sections 4.4, |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002182 (cancelled) | Vipidia | Not specified | Vipidia is indicated in adults aged 18 years and older with type 2 diabetes mellitus to improve glycaemic control in comb... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002182 | Vipidia | alogliptin | Valid |
+| EMEA/H/C/002178 | Incresync | alogliptin; pioglitazone | Valid |
+| EMEA/H/C/002654 | Vipdomet | alogliptin benzoate; metformin hydrochloride | Valid |
 
 ## Safety Considerations
 

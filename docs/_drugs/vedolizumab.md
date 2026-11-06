@@ -5,7 +5,7 @@ layout: default
 title: Vedolizumab
 parent: Known Uses Only (No New Predictions)
 nav_order: 659
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Vedolizumab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Vedolizumab"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002782 (status: cancelled) | Entyvio | Not specified | Ulcerative colitis, Crohn's disease and chronic pouchitis in adults after inadequate response, loss of response or intolerance to conventional therapy or a TNF-alpha antagonist... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002782 | Entyvio | vedolizumab | Valid |
 
 ## Safety Considerations
 

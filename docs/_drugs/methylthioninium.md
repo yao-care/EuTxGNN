@@ -5,7 +5,7 @@ layout: default
 title: Methylthioninium
 parent: Known Uses Only (No New Predictions)
 nav_order: 402
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Methylthioninium: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Methylthioninium"
 predicted_indications: []
@@ -50,10 +50,10 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
-|---------|------|------|-----------|------|
-| EMEA/H/C/002776 | Lumeblue (previously Methylthioninium chloride Cosmo) | Not specified | Diagnostic agent enhancing visualisation of colorectal lesions in adult patients undergoing screening or surveillance colonoscopy. | Valid |
-| EMEA/H/C/002108 | Methylthioninium chloride Proveblue | Not specified | Acute symptomatic treatment of medicinal and chemical products-induced methaemoglobinaemia, in adults, children and adolescents (0 to 17 years)... | Valid |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002108 | Methylthioninium chloride Proveblue | methylthioninium chloride | Valid |
+| EMEA/H/C/002776 | Lumeblue | methylthioninium chloride | Valid |
 
 ---
 

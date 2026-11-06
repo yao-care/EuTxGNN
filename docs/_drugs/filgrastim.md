@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 262
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Filgrastim: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Reduction in the duration of neutropenia and the incidence of febrile…"
 monitor_inn: "Filgrastim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
@@ -49,8 +49,8 @@ The TxGNN model (deep learning) predicts it may be effective for **primary relea
 | Predicted New Indication | Primary release disorder of platelets |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 7 of 7) |
-| Number of Authorizations | 7 (valid: 7) |
+| EU Market Status | Marketed (valid licences: 7 of 10) |
+| Number of Authorizations | 10 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -77,15 +77,18 @@ For context, seven trials were retrieved for a lower-ranked prediction, platelet
 
 ## EU Market Information
 
-The drug is marketed: all 7 of 7 EU authorisations are valid.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000825 | Ratiograstim | Not specified | Reduction in duration of neutropenia and febrile neutropenia in patients on cytotoxic chemotherapy; PBPC mobilisation; sever... |
-| EMEA/H/C/000827 | Tevagrastim | Not specified | Reduction in duration of neutropenia and febrile neutropenia in patients on cytotoxic chemotherapy; PBPC mobilisation; sever... |
-| EMEA/H/C/006400 | Zefylti | Not specified | Reduction in duration of neutropenia and febrile neutropenia in patients on cytotoxic chemotherapy; PBPC mobilisation; sever... |
-| EMEA/H/C/000918 | Filgrastim Hexal | Not specified | Reduction in duration of neutropenia and febrile neutropenia in patients on cytotoxic chemotherapy; PBPC mobilisation; sever... |
-| EMEA/H/C/003956 | Accofil | Not specified | Reduction in duration of neutropenia and febrile neutropenia in patients on cytotoxic chemotherapy; PBPC mobilisation; sever... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000825 | Ratiograstim | filgrastim | Valid |
+| EMEA/H/C/000827 | Tevagrastim | filgrastim | Valid |
+| EMEA/H/C/000917 | Zarzio | filgrastim | Valid |
+| EMEA/H/C/000918 | Filgrastim Hexal | filgrastim | Valid |
+| EMEA/H/C/001142 | Nivestim | filgrastim | Valid |
+| EMEA/H/C/003956 | Accofil | filgrastim | Valid |
+| EMEA/H/C/006400 | Zefylti | filgrastim | Valid |
+| EMEA/H/C/000824 | Filgrastim ratiopharm | filgrastim | Withdrawn |
+| EMEA/H/C/000826 | Biograstim | filgrastim | Withdrawn |
+| EMEA/H/C/002150 | Grastofil | filgrastim | Withdrawn |
 
 ## Safety Considerations
 

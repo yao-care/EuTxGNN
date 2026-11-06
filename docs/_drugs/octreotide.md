@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Octreotide"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Octreotide: predicted new indication vulvar inverted follicular keratosis (evidence level L5). Approved use: Oczyesa is indicated for maintenance treatment in adult patients with…"
 ---
 
@@ -48,8 +48,8 @@ Octreotide is a somatostatin analogue with a product authorized in the European 
 | Predicted New Indication | vulvar inverted follicular keratosis |
 | TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -68,9 +68,10 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006322 | Oczyesa | Not recorded | Oczyesa is indicated for maintenance treatment in adult patients with acromegaly who have responded to and tolerated treatment with somatostatin analogues. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/006322 | Oczyesa | octreotide hydrochloride | Valid |
+| EMEA/H/C/005826 | Mycapssa | octreotide acetate | Withdrawn |
 
 ## Cytotoxicity
 

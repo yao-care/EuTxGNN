@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Insulin detemir"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Insulin Detemir: predicted new indication autoimmune oophoritis (evidence level L5). Approved use: Treatment of diabetes mellitus in adults…"
 ---
 
@@ -69,9 +69,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000528 | Levemir | Not recorded | Treatment of diabetes mellitus in adults, adolescents and children aged 1 year and above. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000528 | Levemir | Insulin detemir | Valid |
 
 ## Safety Considerations
 

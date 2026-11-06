@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 614
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Tildrakizumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Moderate to severe plaque psoriasis in adults who are candidates for…"
 monitor_inn: "Tildrakizumab"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "drug-induced osteoporosis"]
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004514 | Ilumetri (status: valid) | Not specified | Ilumetri is indicated for the treatment of adults with moderate to severe plaque psoriasis who are candidates for systemic therapy. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004514 | Ilumetri | tildrakizumab | Valid |
 
 ## Safety Considerations
 
@@ -96,7 +96,6 @@ The prediction is supported only by the TxGNN model score. The evidence level is
 - Warnings and contraindications from the SmPC or package insert, which are needed for safety screening
 - A literature and trial search for IL-23 pathway involvement in diabetic retinopathy, and preclinical (L4) evidence in retinal models
 - An assessment of route and delivery feasibility (systemic vs. intravitreal) for retinal disease
-- Clarification of why the EU authorization was cancelled (e.g., commercial or safety reasons)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

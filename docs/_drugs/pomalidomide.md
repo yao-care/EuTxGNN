@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 492
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Pomalidomide: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,14 +72,14 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Pomalidomide
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/006294 | Pomalidomide Zentiva |  | Valid |
-| EMEA/H/C/006273 | Pomalidomide Accord |  | Valid |
-| EMEA/H/C/002682 | Imnovid (previously Pomalidomide Celgene) |  | Valid |
-| EMEA/H/C/006195 | Pomalidomide Viatris |  | Valid |
-| EMEA/H/C/006302 | Pomalidomide Teva |  | Valid |
-| EMEA/H/C/006314 | Pomalidomide Krka |  | Valid |
+| EMEA/H/C/002682 | Imnovid | Pomalidomide | Valid |
+| EMEA/H/C/006195 | Pomalidomide Viatris | Pomalidomide | Valid |
+| EMEA/H/C/006273 | Pomalidomide Accord | Pomalidomide | Valid |
+| EMEA/H/C/006294 | Pomalidomide Zentiva | Pomalidomide | Valid |
+| EMEA/H/C/006302 | Pomalidomide Teva | Pomalidomide | Valid |
+| EMEA/H/C/006314 | Pomalidomide Krka | Pomalidomide | Valid |
 
 ## Cytotoxicity
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 401
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "Methylphenidate"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
 description: "Methylphenidate: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Tuzulby is indicated as part of a comprehensive treatment programme f…"
@@ -100,14 +100,13 @@ No publications were retrieved for faciodigitogenital syndrome. The table below 
 | [42218703](https://pubmed.ncbi.nlm.nih.gov/42218703/) | 2026 | Systematic review | J Cutan Med Surg | Hair loss in patients with ADHD (trichotillomania). |
 | [16087769](https://pubmed.ncbi.nlm.nih.gov/16087769/) | 2005 | Imaging study | Arch Neurol | DAT PET in spinocerebellar ataxias 1, 2, 3 and 6 (ataxias). Pathophysiology only, not treatment. |
 
-
 ---
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005975 (cancelled) | Tuzulby | Not specified | ADHD in children and adolescents 6-17 years old as part of a comprehensive treatment programme when remedial measures alone prove insufficient. Treatment must be under the supervision of a spe... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005975 | Tuzulby |  | Valid |
 
 ---
 

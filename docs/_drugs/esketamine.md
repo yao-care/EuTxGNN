@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 241
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Esketamine: predicted new indication Agoraphobia (evidence level L5). Approved use: Treatment-resistant Major Depressive Disorder in adults who have not…"
 monitor_inn: "Esketamine"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
@@ -80,9 +80,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004535 (cancelled) | Spravato | Not specified | Spravato, in combination with a SSRI or SNRI, is indicated for adults with treatment-resistant Major Depressive Disorder, who have not responded to at least two different... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004535 | Spravato | esketamine hydrochloride | Valid |
 
 ---
 
@@ -102,7 +102,7 @@ Please refer to the SmPC for label warnings and contraindications, which were no
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but there are no clinical trials or publications for agoraphobia (evidence level L5). The only mechanistic argument is a plausible NMDA-antagonism link to anxiety symptoms, so there is not yet a basis for further development. In addition, the only EU authorization on record is cancelled.
+The prediction score is very high, but there are no clinical trials or publications for agoraphobia (evidence level L5). The only mechanistic argument is a plausible NMDA-antagonism link to anxiety symptoms, so there is not yet a basis for further development.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) to support the mechanistic-link analysis

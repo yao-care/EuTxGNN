@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 393
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Mepolizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
 description: "Mepolizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Severe eosinophilic asthmaNucala is indicated as an add-on treatment…"
@@ -79,9 +79,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003860 (cancelled) | Nucala | Not specified | Severe eosinophilic asthma, chronic rhinosinusitis with nasal polyps (CRSwNP), eosinophilic granulomatosis with polyangiitis (EGPA), hypereosinophilic syndrome (HES)... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003860 | Nucala | Mepolizumab | Valid |
 
 ## Safety Considerations
 
@@ -92,7 +92,7 @@ Please refer to the SmPC for safety information. No drug interaction records wer
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a high computational score and a single indirect case report in an eosinophil-driven setting. There are no clinical trials, and the mechanism is not plausible for most predicted platelet disorders. The EU authorization is also listed as cancelled.
+The prediction rests on a high computational score and a single indirect case report in an eosinophil-driven setting. There are no clinical trials, and the mechanism is not plausible for most predicted platelet disorders.
 
 **To proceed, the following is needed:**
 - Safety information (warnings, contraindications) from the SmPC, since this is currently a blocking gap

@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 655
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Valsartan: predicted new indication Malignant hypertensive renal disease (evidence level L4). Approved use: Paediatric and adult symptomatic chronic heart failure (Entresto…"
 monitor_inn: "Valsartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
@@ -52,8 +52,8 @@ The prediction rests mainly on the model score and mechanistic plausibility.
 | Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L4 |
-| EU Market Status | Marketed (valid licences: 9 of 9) |
-| Number of Authorizations | 9 (valid: 9) |
+| EU Market Status | Marketed (valid licences: 9 of 11) |
+| Number of Authorizations | 11 (valid: 9) |
 | Recommended Decision | Hold |
 
 ---
@@ -86,13 +86,19 @@ Currently no related clinical trials registered.
 
 The drug is marketed in this country: 9 of 9 licences are valid. The five main ones are listed below.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004062 | Entresto | Not specified | Paediatric heart failure Entresto is indicated in children and adolescents aged one year or older for tr... |
-| EMEA/H/C/004343 | Neparvis | Not specified | Paediatric heart failure Neparvis is indicated in children and adolescents aged one year or older for tr... |
-| EMEA/H/C/000776 | Dafiro | Not specified | Treatment of essential hypertension. Dafiro is indicated in patients whose blood pressure is not adequa... |
-| EMEA/H/C/000774 | Copalia | Not specified | Treatment of essential hypertension. Copalia is indicated in patients whose blood pressure is not adequa... |
-| EMEA/H/C/000716 | Exforge | Not specified | Treatment of essential hypertension. Exforge is indicated in patients whose blood pressure is not adequa... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000716 | Exforge | valsartan; amlodipine (as amlodipine besilate) | Valid |
+| EMEA/H/C/000774 | Copalia | valsartan; amlodipine (as amlodipine besilate) | Valid |
+| EMEA/H/C/000776 | Dafiro | amlodipine; valsartan | Valid |
+| EMEA/H/C/001068 | Exforge HCT | valsartan; hydrochlorothiazide; amlodipine besilate | Valid |
+| EMEA/H/C/001159 | Copalia HCT | amlodipine; valsartan; hydrochlorothiazide | Valid |
+| EMEA/H/C/001160 | Dafiro HCT | valsartan; hydrochlorothiazide; amlodipine besilate | Valid |
+| EMEA/H/C/004037 | Amlodipine / Valsartan Mylan | amlodipine besilate; valsartan | Valid |
+| EMEA/H/C/004062 | Entresto | sacubitril; valsartan | Valid |
+| EMEA/H/C/004343 | Neparvis | sacubitril; valsartan | Valid |
+| EMEA/H/C/000775 | Imprida | valsartan; amlodipine (as amlodipine besilate) | Withdrawn |
+| EMEA/H/C/001161 | Imprida HCT | amlodipine; valsartan; hydrochlorothiazide | Lapsed |
 
 ---
 
@@ -117,7 +123,6 @@ The prediction score is high and the AT1-blockade mechanism is plausible. Howeve
 - Mechanism of action data for valsartan
 - Label-based warnings and contraindications from the SmPC
 - Direct evidence for valsartan, or other AT1 receptor blockers, in malignant hypertensive renal disease (preclinical or clinical)
-- Review of the current regulatory status, given that all nine licences are valid
 - A renal safety plan covering renal artery stenosis, potassium and renal function monitoring
 ## Disclaimer
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 314
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Imiglucerase: predicted new indication Hurler syndrome (evidence level L4). Approved use: Long-term enzyme replacement therapy for non-neuronopathic (Type 1) o…"
 monitor_inn: "Imiglucerase"
 predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
@@ -73,9 +73,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000157 (cancelled) | Cerezyme | Not specified | Cerezyme (imiglucerase) is indicated for use as longterm enzyme replacement therapy in patients with a confirmed diagnosis of non-neuronopathic (Type 1) or chro... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000157 | Cerezyme | imiglucerase | Valid |
 
 ## Safety Considerations
 
@@ -88,7 +88,7 @@ Please refer to the SmPC for other safety information, including warnings and co
 **Decision: Hold**
 
 **Rationale:**
-There is no clinical trial evidence, and the only supporting publication is a general review that does not test imiglucerase in Hurler syndrome. Imiglucerase does not replace the missing enzyme (alpha-L-iduronidase) in MPS I, so the high model score lacks a mechanistic basis. Hurler syndrome already has disease-specific enzyme replacement therapy. In addition, the only EU authorization for imiglucerase is cancelled.
+There is no clinical trial evidence, and the only supporting publication is a general review that does not test imiglucerase in Hurler syndrome. Imiglucerase does not replace the missing enzyme (alpha-L-iduronidase) in MPS I, so the high model score lacks a mechanistic basis. Hurler syndrome already has disease-specific enzyme replacement therapy.
 
 **To proceed, the following is needed:**
 - Preclinical or mechanistic evidence that glucocerebrosidase could affect glycosaminoglycan accumulation in MPS I

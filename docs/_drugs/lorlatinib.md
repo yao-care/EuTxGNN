@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Lorlatinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Lorlatinib: predicted new indication Gingival fibromatosis (evidence level L5). Approved use: Lorviqua as monotherapy is indicated for the treatment of adult patie…"
 ---
 
@@ -62,9 +62,9 @@ No ALK-driven mechanism is established for gingival fibromatosis, a condition ma
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004646 | Lorviqua | Not recorded | Monotherapy for adults with ALK-positive advanced non-small cell lung cancer, either not previously treated with an ALK inhibitor or progressed after prior ALK inhibitors... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004646 | Lorviqua | Lorlatinib | Valid |
 
 ## Cytotoxicity
 

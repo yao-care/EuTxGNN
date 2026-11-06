@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 462
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Palonosetron"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Palonosetron: predicted new indication Migraine disorder (evidence level L4). Approved use: Aloxi is indicated in adults for: the prevention of acute nausea and…"
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L4 |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 3 of 4) |
+| Number of Authorizations | 4 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -85,10 +85,12 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000563 (cancelled) | Aloxi | Not specified | Prevention of acute nausea and vomiting associated with highly emetogenic cancer chemotherapy, and of nausea and vomiting with moderately... |
-| EMEA/H/C/004129 (cancelled) | Palonosetron Accord | Not specified | Prevention of acute nausea and vomiting associated with highly emetogenic cancer chemotherapy, and of nausea and vomiting with moderately... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000563 | Aloxi | palonosetron hydrochloride | Valid |
+| EMEA/H/C/004129 | Palonosetron Accord | palonosetron | Valid |
+| EMEA/H/C/003728 | Akynzeo | netupitant; palonosetron hydrochloride | Valid |
+| EMEA/H/C/004069 | Palonosetron Hospira | palonosetron hydrochloride | Withdrawn |
 
 ---
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 477
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Pembrolizumab: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Advanced (unresectable or metastatic) melanoma…"
 monitor_inn: "Pembrolizumab"
 predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "lung germ cell tumor", "pulmonary sulcus neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
@@ -80,9 +80,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003820 (status: cancelled) | Keytruda | Not specified | Melanoma: monotherapy for advanced (unresectable or metastatic) melanoma in adults and adolescents aged 12 years and older... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003820 | Keytruda | pembrolizumab | Valid |
 
 ---
 
@@ -114,7 +114,7 @@ Please refer to the SmPC for warnings and contraindications. Label-based safety 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. No clinical trials or publications address gingival fibromatosis, and no biological link to PD-1 blockade is known. Pembrolizumab is also an immune-activating cancer drug with significant immune-related toxicity, which is hard to justify for a benign condition. The only EU authorisation on record is cancelled.
+The prediction rests only on a model score. No clinical trials or publications address gingival fibromatosis, and no biological link to PD-1 blockade is known. Pembrolizumab is also an immune-activating cancer drug with significant immune-related toxicity, which is hard to justify for a benign condition.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence that PD-1/PD-L1 signalling plays a role in gingival fibromatosis (for example, tissue expression studies or preclinical models)

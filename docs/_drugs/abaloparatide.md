@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 13
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Abaloparatide: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Treatment of osteoporosis in postmenopausal women at increased risk o…"
 monitor_inn: "Abaloparatide"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "amenorrhea (disease)", "esophageal ulcer"]
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005928 | Eladynos | Not specified | Treatment of osteoporosis in postmenopausal women at increased risk of fracture. (Status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005928 | Eladynos | abaloparatide | Valid |
 
 ## Safety Considerations
 
@@ -96,7 +96,7 @@ The prediction is supported only by a model score, with no clinical trials, no l
 - Warnings and contraindications from the EMA product information (blocking for safety screening)
 - Detailed mechanism of action data
 - Preclinical or mechanistic studies showing a role for PTH1R signaling in esophageal development or repair
-- Clarification of why the EU authorization was cancelled, and of the current regulatory status
+- Clarification of the current regulatory status
 - Evaluation of whether the prediction is clinically meaningful for a congenital malformation, or whether a more plausible candidate from the other ranked predictions should be prioritized
 ## Disclaimer
 

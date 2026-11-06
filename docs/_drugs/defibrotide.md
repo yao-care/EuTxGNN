@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 181
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Defibrotide: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Severe hepatic veno-occlusive disease (VOD/SOS) in HSCT therapy…"
 monitor_inn: "Defibrotide"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "thrombotic thrombocytopenic purpura", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "congenital factor V deficiency", "fetal and neonatal alloimmune thrombocytopenia", "thrombocytopenic purpura"]
@@ -82,9 +82,9 @@ The table below covers TTP. The broader entry "thrombocytopenic purpura" shares 
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002393 (status: cancelled) | Defitelio | Not specified | Treatment of severe hepatic veno-occlusive disease (VOD) also known as sinusoidal obstructive syndrome (SOS) in haematopoietic stem-cell transplantation (HSCT) therapy... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002393 | Defitelio | defibrotide | Valid |
 
 ## Safety Considerations
 
@@ -106,7 +106,7 @@ Please refer to the SmPC for warnings and contraindications, as this information
 - Mechanism of action data for defibrotide
 - Warnings and contraindications from the SmPC, which are required for safety screening
 - A focused review of defibrotide in refractory TTP and TA-TMA after HSCT, including the post-defibrotide TTP report
-- Clarification of the EU regulatory status (the authorisation is cancelled)
+- Clarification of the EU regulatory status
 - A prospective study or registry in TA-TMA, with bleeding monitoring and a review of interactions with anticoagulants and antiplatelet agents
 ## Disclaimer
 

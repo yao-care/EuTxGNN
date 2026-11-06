@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "Tenofovir alafenamide"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Tenofovir Alafenamide: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: Chronic hepatitis B (CHB) in adults and paediatric patients 6 years a…"
 ---
 
@@ -50,8 +50,8 @@ Support consists of **0 clinical trials** and **8 publications**, all preclinica
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L4 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 8 of 8) |
+| Number of Authorizations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -83,9 +83,16 @@ All publications are preclinical. Several test combination products (for example
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004169 | Vemlidy | Not specified | Treatment of chronic hepatitis B (CHB) in adults and paediatric patients 6 years of age and older weighing at least 25 kg (see section 5.1). |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004169 | Vemlidy | tenofovir alafenamide fumarate | Valid |
+| EMEA/H/C/004042 | Genvoya | elvitegravir; cobicistat; emtricitabine; tenofovir alafenamide | Valid |
+| EMEA/H/C/004094 | Descovy | emtricitabine; tenofovir alafenamide | Valid |
+| EMEA/H/C/004156 | Odefsey | emtricitabine; rilpivirine hydrochloride; tenofovir alafenamide | Valid |
+| EMEA/H/C/004391 | Symtuza | darunavir; cobicistat; emtricitabine; tenofovir alafenamide | Valid |
+| EMEA/H/C/004449 | Biktarvy | bictegravir; emtricitabine; tenofovir alafenamide; fumarate | Valid |
+| EMEA/H/C/006469 | Emtricitabine / Tenofovir alafenamide Viatris | emtricitabine; tenofovir alafenamide fumarate | Valid |
+| EMEA/H/C/006491 | Emtricitabine / Rilpivirine / Tenofovir Alafenamide Viatris | emtricitabine; rilpivirine hydrochloride; tenofovir alafenamide fumarate | Valid |
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 466
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Parathyroid Hormone: predicted new indication Migraine disorder (evidence level L4). Approved use: Adjunctive treatment of adult patients with chronic hypoparathyroidis…"
 monitor_inn: "Parathyroid hormone"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "amenorrhea (disease)", "Raynaud disease", "non-syndromic esophageal malformation", "esophageal disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "erectile dysfunction (disease)"]
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L4 |
-| EU Market Status | Not marketed (licences cancelled: 1 of 1) |
-| Number of Authorizations | 1 (valid: 0) |
+| EU Market Status | Not marketed (licences cancelled: 2 of 2) |
+| Number of Authorizations | 2 (valid: 0) |
 | Recommended Decision | Hold |
 
 ---
@@ -87,9 +87,10 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003861 | Natpar | Not specified | Adjunctive treatment of adult patients with chronic hypoparathyroidism who cannot be adequately controlled with standard therapy alone (authorisation valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000659 | Preotact | parathyroid hormone (rDNA) | Withdrawn |
+| EMEA/H/C/003861 | Natpar | parathyroid hormone | Withdrawn |
 
 ---
 

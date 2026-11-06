@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 333
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ipilimumab: predicted new indication Choroideremia (evidence level L5). Approved use: Advanced (unresectable or metastatic) melanoma…"
 monitor_inn: "Ipilimumab"
 predicted_indications: ["choroideremia"]
@@ -70,7 +70,6 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 **Choroideremia (rank 1):** Currently no related clinical trials registered.
 
-
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
 | [NCT02626962](https://clinicaltrials.gov/study/NCT02626962) | Phase 2 | Completed | 52 | Nivolumab plus ipilimumab in previously untreated metastatic uveal melanoma (single arm); most direct evidence |
@@ -101,7 +100,6 @@ Many of the trials above test other agents, with ipilimumab as a comparator or a
 
 **Choroideremia (rank 1):** Currently no related literature available.
 
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [24999899](https://pubmed.ncbi.nlm.nih.gov/24999899/) | 2014 | Cohort | Med J Aust | Ipilimumab in pretreated cutaneous, uveal and mucosal melanoma; efficacy and tolerability in routine care |
@@ -117,9 +115,9 @@ No randomized controlled trial publications are included for any prediction.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002213 | Yervoy | Not specified | Advanced melanoma (monotherapy or with nivolumab), renal cell carcinoma, NSCLC, malignant pleural mesothelioma, dMMR/MSI-H colorectal cancer, oesophageal squamous cell carcinoma, hepatocellular carcinoma... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002213 | Yervoy | Ipilimumab | Valid |
 
 This authorization is recorded as valid: the drug is marketed in this country, with 1 valid licence out of 1.
 

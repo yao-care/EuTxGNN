@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 628
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 description: "Tolvaptan: predicted new indication Renal-hepatic-pancreatic dysplasia (evidence level L5). Approved use: Tolvaptan is indicated in adults for the treatment of hyponatremia se…"
@@ -82,11 +82,11 @@ Currently no related clinical trials registered for this specific subtype. The p
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005961 | Tolvaptan Accord (valid) | Not specified | Hyponatraemia secondary to SIADH in adults |
-| EMEA/H/C/000980 | Samsca (valid) | Not specified | Hyponatraemia secondary to SIADH in adults |
-| EMEA/H/C/002788 | Jinarc (valid) | Not specified | Slowing progression of cyst development and renal insufficiency of ADPKD in adults with CKD stage 1 to 3 with evidence of rapidly progressing disease |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000980 | Samsca | tolvaptan | Valid |
+| EMEA/H/C/002788 | Jinarc | tolvaptan | Valid |
+| EMEA/H/C/005961 | Tolvaptan Accord | tolvaptan | Valid |
 
 ## Safety Considerations
 

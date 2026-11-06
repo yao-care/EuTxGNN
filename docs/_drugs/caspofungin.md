@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 133
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Caspofungin: predicted new indication Gastrin secretion abnormality (evidence level L5). Approved use: Invasive candidiasis"
 monitor_inn: "Caspofungin"
 predicted_indications: ["gastrin secretion abnormality"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **gastrin secretion abnormality
 | Predicted New Indication | Gastrin secretion abnormality |
 | TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 (model prediction only) |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -74,7 +74,7 @@ Label warnings and contraindications were not available for this report. Please 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a computational score alone. There are no registered trials and no publications, and no plausible mechanistic link to gastrin regulation. The EU authorization for the product is also cancelled.
+The prediction rests on a computational score alone. There are no registered trials and no publications, and no plausible mechanistic link to gastrin regulation.
 
 **To proceed, the following is needed:**
 - A mechanistic hypothesis linking caspofungin to gastrin secretion, supported by preclinical data

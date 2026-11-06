@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 189
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Dexrazoxane: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Treatment of anthracycline extravasation"
 monitor_inn: "Dexrazoxane"
 predicted_indications: ["sclerosing cholangitis", "bronchitis", "paratyphoid fever", "conjunctivitis", "epiglottitis", "peritonitis", "laryngitis", "urinary tract infection (disease)", "pyelonephritis", "cystitis"]
@@ -71,9 +71,9 @@ Currently no related literature available for sclerosing cholangitis.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000682 (cancelled) | Savene | Not specified | Savene is indicated for the treatment of anthracycline extravasation. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000682 | Savene | dexrazoxane hydrochloride | Valid |
 
 ## Cytotoxicity
 
@@ -93,7 +93,7 @@ Please refer to the SmPC for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for sclerosing cholangitis rests on the model score alone, with no clinical trials or literature (Evidence Level L5). The sole EU authorization has been cancelled, and the mechanistic link is speculative.
+The prediction for sclerosing cholangitis rests on the model score alone, with no clinical trials or literature (Evidence Level L5). The mechanistic link is speculative.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data for dexrazoxane

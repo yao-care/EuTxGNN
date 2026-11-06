@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 674
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Volanesorsen: predicted new indication megaloblastic anemia (disease) (evidence level L5). Approved use: Adjunct to diet in adult patients with genetically confirmed familial…"
 monitor_inn: "Volanesorsen"
 predicted_indications: ["megaloblastic anemia (disease)", "sclerosing cholangitis", "sickle cell disease and related diseases", "sickle cell-hemoglobin c disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "meningococcal infection", "paroxysmal nocturnal hemoglobinuria"]
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004538 (cancelled) | Waylivra | Not specified | Adjunct to diet in adult patients with genetically confirmed familial chylomicronemia syndrome (FCS) and at high risk for pan... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004538 | Waylivra | volanesorsen sodium | Valid |
 
 ## Cytotoxicity
 
@@ -90,14 +90,14 @@ Please refer to the SmPC for full safety information, including warnings, contra
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a model score, with no clinical trials, no literature and no plausible mechanistic link between APOC3 knockdown and megaloblastic anemia. In addition, the EU authorization is cancelled and the thrombocytopenia signal is a concern in hematologic patients.
+The prediction rests solely on a model score, with no clinical trials, no literature and no plausible mechanistic link between APOC3 knockdown and megaloblastic anemia. In addition, the thrombocytopenia signal is a concern in hematologic patients.
 
 **To proceed, the following is needed:**
 - Mechanism-of-action data from DrugBank, to assess any biological connection
 - Warnings and contraindications from the EMA product information (SmPC), to enable safety screening
 - Any preclinical or clinical evidence linking APOC3 inhibition to megaloblastic anemia
 - A review of the thrombocytopenia risk in the target population
-- Clarification of the regulatory and supply status, given that the EU authorization is cancelled
+- Clarification of the regulatory and supply status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 46
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Amlodipine: predicted new indication Brain stem infarction . Intracerebral hemorrhage is the best-supporte… (evidence level L4). Approved use: Essential hypertension (patients not adequately controll…"
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
@@ -52,8 +52,8 @@ The best-supported prediction in the data compiled for this report is **Intracer
 | Predicted New Indication | Brain stem infarction (top-ranked prediction). Intracerebral hemorrhage is the best-supported one (see below). |
 | TxGNN Prediction Score | 0.9994 (brain stem infarction); 0.9979 (intracerebral hemorrhage) |
 | Evidence Level | L5 (brain stem infarction); L1 (intracerebral hemorrhage) |
-| EU Market Status | Marketed (valid licences: 8 of 8) |
-| Number of Authorizations | 8 (valid: 8) |
+| EU Market Status | Marketed (valid licences: 8 of 12) |
+| Number of Authorizations | 12 (valid: 8) |
 | Recommended Decision | Hold (brain stem infarction); Proceed with Guardrails (intracerebral hemorrhage) |
 
 **Note:** The top-ranked prediction, brain stem infarction, is a model output only. The sections below therefore focus on intracerebral hemorrhage, the prediction with real clinical evidence, and briefly summarize the other predictions.
@@ -123,13 +123,20 @@ Trials for cerebral artery occlusion (indirect evidence):
 
 The drug is marketed in this country, with all 8 of 8 licences valid.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000776 | Dafiro | Not specified | Essential hypertension not adequately controlled on amlodipine or valsartan monotherapy (valid) |
-| EMEA/H/C/000774 | Copalia | Not specified | Essential hypertension not adequately controlled on amlodipine or valsartan monotherapy (valid) |
-| EMEA/H/C/000716 | Exforge | Not specified | Essential hypertension not adequately controlled on amlodipine or valsartan monotherapy (valid) |
-| EMEA/H/C/004037 | Amlodipine / Valsartan Mylan | Not specified | Essential hypertension in adults not adequately controlled on monotherapy (valid) |
-| EMEA/H/C/001224 | Twynsta | Not specified | Essential hypertension in adults: add-on or replacement therapy with telmisartan and amlodipine (valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000716 | Exforge | valsartan; amlodipine (as amlodipine besilate) | Valid |
+| EMEA/H/C/000774 | Copalia | valsartan; amlodipine (as amlodipine besilate) | Valid |
+| EMEA/H/C/000776 | Dafiro | amlodipine; valsartan | Valid |
+| EMEA/H/C/001068 | Exforge HCT | valsartan; hydrochlorothiazide; amlodipine besilate | Valid |
+| EMEA/H/C/001159 | Copalia HCT | amlodipine; valsartan; hydrochlorothiazide | Valid |
+| EMEA/H/C/001160 | Dafiro HCT | valsartan; hydrochlorothiazide; amlodipine besilate | Valid |
+| EMEA/H/C/001224 | Twynsta | telmisartan; amlodipine | Valid |
+| EMEA/H/C/004037 | Amlodipine / Valsartan Mylan | amlodipine besilate; valsartan | Valid |
+| EMEA/H/C/000775 | Imprida | valsartan; amlodipine (as amlodipine besilate) | Withdrawn |
+| EMEA/H/C/001161 | Imprida HCT | amlodipine; valsartan; hydrochlorothiazide | Lapsed |
+| EMEA/H/C/002017 | Rasitrio | aliskiren; amlodipine; hydrochlorothiazide | Withdrawn |
+| EMEA/H/C/002073 | Rasilamlo | aliskiren; amlodipine | Withdrawn |
 
 Three further cancelled authorizations (Exforge HCT, Dafiro HCT, Copalia HCT) cover substitution therapy with the amlodipine, valsartan and hydrochlorothiazide combination.
 

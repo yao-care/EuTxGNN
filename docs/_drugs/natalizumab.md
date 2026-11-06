@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 421
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Natalizumab: predicted new indication Bronchitis (evidence level L5). Approved use: Highly active relapsing remitting multiple sclerosis (RRMS) in adults…"
 monitor_inn: "Natalizumab"
 predicted_indications: ["bronchitis", "parapsoriasis", "psoriasis", "severe nonproliferative diabetic retinopathy", "acute lichenoid pityriasis"]
@@ -83,10 +83,10 @@ Currently no related literature available for bronchitis.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
-|---------|------|------|-----------|------|
-| EMEA/H/C/000603 | Tysabri | Not specified | Single disease modifying therapy in adults with highly active relapsing remitting multiple sclerosis (RRMS) in patients with high disease activity despite at least one DMT, or with rapidly evolving severe... | Valid |
-| EMEA/H/C/005752 | Tyruko | Not specified | Single disease modifying therapy in adults with highly active RRMS in patients with high disease activity despite at least one DMT, or with rapidly evolving severe RRMS... | Valid |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000603 | Tysabri | natalizumab | Valid |
+| EMEA/H/C/005752 | Tyruko | natalizumab | Valid |
 
 ## Safety Considerations
 

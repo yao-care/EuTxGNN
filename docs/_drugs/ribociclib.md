@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 521
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Ribociclib: predicted new indication Myeloid leukemia (evidence level L4). Approved use: HR-positive…"
 monitor_inn: "Ribociclib"
 predicted_indications: ["myeloid leukemia", "thrombocytopenia", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets"]
@@ -85,9 +85,9 @@ A second publication returned for this prediction is a case report of vulvar ade
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004213 (cancelled) | Kisqali | Not specified | Early breast cancerKisqali in combination with an aromatase inhibitor is indicated for the adjuvant treatment of pa... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004213 | Kisqali | ribociclib succinate | Valid |
 
 ---
 

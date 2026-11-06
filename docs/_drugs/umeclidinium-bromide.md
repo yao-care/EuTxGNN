@@ -6,7 +6,7 @@ title: Umeclidinium Bromide
 description: "Umeclidinium Bromide: known uses and market status in the European Union; currently no new candidate indication"
 parent: Known Uses Only (No New Predictions)
 nav_order: 615
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -22,8 +22,8 @@ evidence_level: N/A
 
 | Item | Value |
 |------|-------|
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 6 of 7) |
+| Number of Authorizations | 7 (valid: 6) |
 | Drug Name | Umeclidinium Bromide |
 | DrugBank ID | [DB09076](https://go.drugbank.com/drugs/DB09076) |
 | Brand Names (EU) | Rolufta Ellipta (previously Rolufta) |

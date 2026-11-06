@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "Axitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Axitinib: predicted new indication liposarcoma (evidence level L4). Approved use: Axitinib Accord is indicated for the treatment of adult patients with…"
 ---
 
@@ -74,10 +74,10 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006206 | Axitinib Accord | Not recorded | Advanced renal cell carcinoma (RCC) after failure of prior treatment with sunitinib or a cytokine. |
-| EMEA/H/C/002406 | Inlyta | Not recorded | Advanced renal cell carcinoma (RCC) after failure of prior treatment with sunitinib or a cytokine. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002406 | Inlyta | axitinib | Valid |
+| EMEA/H/C/006206 | Axitinib Accord | axitinib | Valid |
 
 ## Cytotoxicity
 

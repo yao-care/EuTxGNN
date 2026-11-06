@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Florbetaben (18F)"
 predicted_indications: ["migraine disorder", "rheumatoid arthritis", "migraine with brainstem aura"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Florbetaben 18F: predicted new indication migraine disorder (evidence level L5). Approved use: This medicinal product is for diagnostic use only. Neuraceq is a radi…"
 ---
 
@@ -69,9 +69,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002553 | Neuraceq | Not recorded | This medicinal product is for diagnostic use only. Neuraceq is a radiopharmaceutical indicated for Positron Emission Tomography (PET) imaging of ? amyloid neuritic plaque... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002553 | Neuraceq | florbetaben (18F) | Valid |
 
 ## Safety Considerations
 

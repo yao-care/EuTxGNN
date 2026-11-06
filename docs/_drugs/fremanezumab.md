@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Fremanezumab"
 predicted_indications: ["atrophoderma vermiculata"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Fremanezumab: predicted new indication atrophoderma vermiculata (evidence level L5). Approved use: Ajovy is indicated for prophylaxis of migraine in adults who have at…"
 ---
 
@@ -69,9 +69,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004833 | Ajovy | Not recorded | Ajovy is indicated for prophylaxis of migraine in adults who have at least 4 migraine days per month. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004833 | Ajovy | fremanezumab | Valid |
 
 ## Safety Considerations
 

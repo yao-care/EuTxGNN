@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 473
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Peginterferon alfa-2a"
 predicted_indications: ["hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "heart conduction disease", "heart neoplasm", "heart valve disease", "congenital anomaly of ventricular septum"]
 description: "Peginterferon Alfa-2A: predicted new indication Hepatitis E virus infection (evidence level L1). Approved use: Polycythaemia veraPegasys is indicated as monotherapy in adults for t…"
@@ -105,9 +105,9 @@ Note on evidence level: the data assign L1, but the listed Phase 3 trials are sm
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000395 (status: cancelled) | Pegasys | Not specified | Polycythaemia vera and essential thrombocythaemia (monotherapy in adults), chronic hepatitis B and chronic hepatitis C... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000395 | Pegasys | peginterferon alfa-2a | Valid |
 
 ---
 
@@ -126,7 +126,7 @@ Key warnings and contraindications were not available in the data compiled for t
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Chronic hepatitis B is an already approved indication, and Phase 3/4 trials plus published RCTs and meta-analyses directly support it. This is label confirmation rather than new repurposing, and the EU authorisation is currently cancelled, so market availability needs clarification.
+Chronic hepatitis B is an already approved indication, and Phase 3/4 trials plus published RCTs and meta-analyses directly support it. This is label confirmation rather than new repurposing.
 
 The other predicted indications (hepatitis E, hepatitis A, animal viral hepatitis, Omsk haemorrhagic fever, Kyasanur forest disease and the cardiac conditions) have no direct evidence and are recommended as **Hold**.
 

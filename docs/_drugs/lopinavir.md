@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "Lopinavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Lopinavir: predicted new indication simian immunodeficiency virus infection (evidence level L4). Approved use: Kaletra is indicated in combination with other antiretroviral medicin…"
 ---
 
@@ -73,10 +73,10 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000368 | Kaletra | Not recorded | Treatment of HIV-1 infected adults, adolescents and children aged from 14 days and older, in combination with other antiretroviral medicinal products... |
-| EMEA/H/C/004025 | Lopinavir/Ritonavir Viatris (previously Ritonavir Mylan) | Not recorded | Treatment of HIV-1 infected adults, adolescents and children above the age of 2 years, in combination with other antiretroviral medicinal products... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000368 | Kaletra | lopinavir; ritonavir | Valid |
+| EMEA/H/C/004025 | Lopinavir/Ritonavir Viatris | lopinavir; ritonavir | Valid |
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ layout: default
 title: Tipiracil
 parent: Known Uses Only (No New Predictions)
 nav_order: 616
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Tipiracil: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Tipiracil"
 predicted_indications: []
@@ -50,9 +50,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003897 (status: cancelled) | Lonsurf | Not specified | Colorectal cancer: in combination with bevacizumab, or as monotherapy, for adult patients with metastatic disease previously treated with... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003897 | Lonsurf | trifluridine; tipiracil hydrochloride | Valid |
 
 ---
 

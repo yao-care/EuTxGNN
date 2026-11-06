@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 250
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Evolocumab: predicted new indication Symptomatic form of hemophilia in female carriers (evidence level L5). Approved use: Hypercholesterolaemia and mixed dyslipidaemia"
 monitor_inn: "Evolocumab"
 predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity"]
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003766 (status: cancelled) | Repatha | Not specified | Hypercholesterolaemia and mixed dyslipidaemia: adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct to diet... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003766 | Repatha | Evolocumab | Valid |
 
 ## Safety Considerations
 
@@ -87,7 +87,7 @@ The only drug interaction record is a pharmacology entry linking evolocumab to i
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score (L5), with no clinical trials or literature. The pharmacology gives no plausible link between PCSK9 inhibition and the factor VIII/IX deficiency behind symptomatic hemophilia in female carriers. The EU authorization is also listed as cancelled.
+The prediction is supported only by a model score (L5), with no clinical trials or literature. The pharmacology gives no plausible link between PCSK9 inhibition and the factor VIII/IX deficiency behind symptomatic hemophilia in female carriers.
 
 **To proceed, the following is needed:**
 - Mechanism of action data from DrugBank

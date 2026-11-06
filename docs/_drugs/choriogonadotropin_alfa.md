@@ -5,7 +5,7 @@ layout: default
 title: Choriogonadotropin Alfa
 parent: Known Uses Only (No New Predictions)
 nav_order: 148
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Choriogonadotropin Alfa: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Choriogonadotropin alfa"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000320 (cancelled) | Ovitrelle | Not specified | Ovitrelle is indicated in the treatment of: women undergoing superovulation prior to assisted reproductive techniques such as in vitro fertilisation (IVF): Ovitrelle is administered to trigger final... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000320 | Ovitrelle | choriogonadotropin alfa | Valid |
 
 ## Safety Considerations
 

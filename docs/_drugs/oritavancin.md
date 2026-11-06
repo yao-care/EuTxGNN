@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 450
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Oritavancin"
 predicted_indications: ["Bacteroidaceae infectious disease", "ophthalmic herpes zoster", "Mycoplasma pneumoniae pneumonia"]
 description: "Oritavancin: predicted new indication Bacteroidaceae infectious disease (evidence level L5). Approved use: Tenkasi is indicated for the treatment of acute bacterial skin and sk…"
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
-|---------|------|------|-----------|------|
-| EMEA/H/C/003785 | Tenkasi (previously Orbactiv) | Not specified | Treatment of acute bacterial skin and skin structure infections (ABSSSI) in adults and paediatric patients aged 3 months and older... | Valid |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003785 | Tenkasi | oritavancin (diphosphate) | Valid |
 
 ## Safety Considerations
 
@@ -87,7 +87,7 @@ Package-insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature, and the mechanism is poorly matched. Oritavancin mainly acts on Gram-positive bacteria, while Bacteroidaceae are Gram-negative anaerobes. The EU authorization is also cancelled.
+The prediction has no supporting trials or literature, and the mechanism is poorly matched. Oritavancin mainly acts on Gram-positive bacteria, while Bacteroidaceae are Gram-negative anaerobes.
 
 **To proceed, the following is needed:**
 - In vitro susceptibility data for oritavancin against *Bacteroides* and other anaerobes

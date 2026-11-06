@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 60
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Arsenic Trioxide: predicted new indication Unclassified myelodysplastic syndrome (evidence level L5). Approved use: Induction of remission and consolidation in adults with newly diagnos…"
 monitor_inn: "Arsenic trioxide"
 predicted_indications: ["unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "partial deletion of the long arm of chromosome 5", "myelodysplastic syndrome", "Ewing sarcoma", "dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
@@ -52,8 +52,8 @@ The better-supported neighbouring prediction is the broader category **myelodysp
 | Predicted New Indication | Unclassified myelodysplastic syndrome |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 for the exact term (model prediction only); L2 for the broader MDS category |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 3 of 4) |
+| Number of Authorizations | 4 (valid: 3) |
 | Recommended Decision | Hold (for the exact predicted term); the broader MDS indication is a research question |
 
 ---
@@ -110,13 +110,12 @@ No publications are linked to "unclassified myelodysplastic syndrome" itself. Th
 
 ## EU Market Information
 
-Arsenic trioxide is marketed: all 3 of 3 licences are valid in the data compiled for this report.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005218 | Arsenic trioxide medac | Not specified | Induction of remission and consolidation in adults with newly diagnosed low-to-intermediate risk acute promyelocytic leukaemia (APL)... |
-| EMEA/H/C/005175 | Arsenic trioxide Accord | Not specified | Induction of remission and consolidation in adults with newly diagnosed low-to-intermediate risk acute promyelocytic leukaemia (APL)... |
-| EMEA/H/C/000388 | Trisenox | Not specified | Induction of remission and consolidation in adults with newly diagnosed low-to-intermediate risk acute promyelocytic leukaemia (APL)... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000388 | Trisenox | arsenic trioxide | Valid |
+| EMEA/H/C/005175 | Arsenic trioxide Accord | arsenic trioxide | Valid |
+| EMEA/H/C/005218 | Arsenic trioxide medac | arsenic trioxide | Valid |
+| EMEA/H/C/005235 | Arsenic trioxide Mylan | arsenic trioxide | Withdrawn |
 
 ---
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 493
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Ponatinib"
 predicted_indications: ["fibromatosis, gingival", "liposarcoma"]
 description: "Ponatinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Iclusig is indicated in adult patients with chronic phase…"
@@ -72,10 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002695 | Iclusig | Not specified | Adult patients with chronic phase, accelerated phase, or blast phase chronic myeloid leukaemia (CML) who are resistant to dasatinib or nilotinib; who are intolerant... |
-
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002695 | Iclusig | ponatinib | Valid |
 
 ## Cytotoxicity
 

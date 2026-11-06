@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 534
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Roflumilast: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Roflumilast,
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 1 |
 | Evidence level | Not applicable |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 3) |
+| Number of Authorizations | 3 (valid: 1) |
 
 ## Known uses recorded for this drug
 
@@ -72,9 +72,11 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Roflumilast,
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/001179 | Daxas |  | Valid |
+| EMEA/H/C/001179 | Daxas | roflumilast | Valid |
+| EMEA/H/C/002398 | Daliresp | roflumilast | Withdrawn |
+| EMEA/H/C/002399 | Libertek | roflumilast | Withdrawn |
 
 ## Safety Considerations
 

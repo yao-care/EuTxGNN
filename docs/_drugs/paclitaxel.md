@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 458
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Paclitaxel: predicted new indication Parameningeal embryonal rhabdomyosarcoma (evidence level L5). Approved use: Pazenir monotherapy is indicated for the treatment of metastatic brea…"
@@ -51,8 +51,8 @@ This prediction largely overlaps with the approved use, so it is closer to an on
 | Predicted New Indication | Parameningeal embryonal rhabdomyosarcoma |
 | TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 (see note under Clinical Trial Evidence) |
-| EU Market Status | Marketed (valid licences: 4 of 4) |
-| Number of Authorizations | 4 (valid: 4) |
+| EU Market Status | Marketed (valid licences: 4 of 6) |
+| Number of Authorizations | 6 (valid: 4) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -105,13 +105,14 @@ The 10 most relevant trials are listed below. The supplied list for this indicat
 
 ## EU Market Information
 
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000778 | Abraxane | Not specified | Metastatic breast cancer after first-line failure; metastatic pancreatic adenocarcinoma (with gemcitabine); non-small cell lung cancer (with carboplatin) |
-| EMEA/H/C/005997 | Apexelsin | Not specified | Metastatic breast cancer after first-line failure; metastatic pancreatic adenocarcinoma (with gemcitabine); non-small cell lung cancer (with carboplatin) |
-| EMEA/H/C/006173 | Naveruclif | Not specified | Metastatic breast cancer after first-line failure; metastatic pancreatic adenocarcinoma (with gemcitabine); non-small cell lung cancer (with carboplatin) |
-| EMEA/H/C/004441 | Pazenir | Not specified | Metastatic breast cancer after first-line failure; non-small cell lung cancer (with carboplatin) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000778 | Abraxane | paclitaxel | Valid |
+| EMEA/H/C/004441 | Pazenir | paclitaxel | Valid |
+| EMEA/H/C/005997 | Apexelsin | paclitaxel | Valid |
+| EMEA/H/C/006173 | Naveruclif | paclitaxel | Valid |
+| EMEA/H/C/000216 | Paxene | paclitaxel | Withdrawn |
+| EMEA/H/C/004154 | Apealea | paclitaxel | Withdrawn |
 
 ---
 

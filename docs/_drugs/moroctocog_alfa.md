@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 417
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "Moroctocog alfa"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "acquired coagulation factor deficiency", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency"]
 description: "Moroctocog Alfa: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia A…"
@@ -78,9 +78,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000232 (cancelled) | ReFacto AF | Not specified | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor-VIII deficiency). ReFacto AF is appropriate for use in adults and children of all ages, inc... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000232 | ReFacto AF | moroctocog alfa | Valid |
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Belimumab"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "severe nonproliferative diabetic retinopathy", "autosomal dominant macrothrombocytopenia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Belimumab: predicted new indication primary release disorder of platelets (evidence level L5). Approved use: Benlysta is indicated as add-on therapy in patients aged 5 years and…"
 ---
 
@@ -69,9 +69,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002015 | Benlysta | Not recorded | Add-on therapy for active, autoantibody-positive systemic lupus erythematosus and, with background immunosuppressive therapy, active lupus nephritis... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002015 | Benlysta | belimumab | Valid |
 
 ## Safety Considerations
 

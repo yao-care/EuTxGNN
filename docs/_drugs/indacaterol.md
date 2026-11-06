@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 319
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Indacaterol: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Maintenance bronchodilator treatment of airflow obstruction in adults…"
 monitor_inn: "Indacaterol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "bronchial disease", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **nephrogenic syndrome of inapp
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 (model prediction only) |
-| EU Market Status | Marketed (valid licences: 1 of 3) |
-| Number of Authorizations | 3 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 8 of 10) |
+| Number of Authorizations | 10 (valid: 8) |
 | Recommended Decision | Hold |
 
 ---
@@ -79,11 +79,18 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001211 | Hirobriz Breezhaler | — | Maintenance bronchodilator treatment of airflow obstruction in adults with COPD (valid) |
-| EMEA/H/C/001114 | Onbrez Breezhaler | — | Maintenance bronchodilator treatment of airflow obstruction in adults with COPD (valid) |
-| EMEA/H/C/001210 | Oslif Breezhaler | — | Maintenance bronchodilator treatment of airflow obstruction in adults with COPD (valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001114 | Onbrez Breezhaler | indacaterol maleate | Valid |
+| EMEA/H/C/002679 | Ultibro Breezhaler | indacaterol; glycopyrronium bromide | Valid |
+| EMEA/H/C/003755 | Xoterna Breezhaler | indacaterol; glycopyrronium bromide | Valid |
+| EMEA/H/C/003875 | Ulunar Breezhaler | glycopyrronium bromide; indacaterol maleate | Valid |
+| EMEA/H/C/005061 | Enerzair Breezhaler | indacaterol; glycopyrronium bromide; mometasone | Valid |
+| EMEA/H/C/005067 | Atectura Breezhaler | indacaterol acetate; mometasone furoate | Valid |
+| EMEA/H/C/005516 | Bemrist Breezhaler | indacaterol; mometasone furoate | Valid |
+| EMEA/H/C/005518 | Zimbus Breezhaler | glycopyrronium bromide; Indacaterol (acetate); mometasone furoate | Valid |
+| EMEA/H/C/001210 | Oslif Breezhaler | indacaterol maleate | Withdrawn |
+| EMEA/H/C/001211 | Hirobriz Breezhaler | indacaterol maleate | Withdrawn |
 
 ---
 

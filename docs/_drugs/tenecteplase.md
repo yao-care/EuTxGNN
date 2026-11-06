@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 599
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Tenecteplase"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
 description: "Tenecteplase: predicted new indication Congenital coronary artery anomaly (evidence level L5). Approved use: Metalyse is indicated for the thrombolytic treatment of suspected myo…"
@@ -49,8 +49,8 @@ but **no clinical trials** and **no publications** specific to this subtype are 
 | Predicted New Indication | Congenital coronary artery anomaly |
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 (no direct studies; indirect support from the approved parent indication) |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -73,11 +73,10 @@ For context, other predicted indications have some indirect literature. For coro
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000306 | Metalyse | Not specified | Thrombolytic treatment of suspected myocardial infarction with persistent ST elevation or recent left-bundle-branch block within six hours after the onset of... |
-
-The authorization status is cancelled.
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000306 | Metalyse | tenecteplase | Valid |
+| EMEA/H/C/000307 | Tenecteplase Boehringer Ingelheim Pharma GmbH Co. KG | tenecteplase | Withdrawn |
 
 ## Safety Considerations
 
@@ -92,7 +91,7 @@ Please refer to the SmPC for warnings and contraindications, as these were not a
 **Decision: Hold**
 
 **Rationale:**
-There is no direct trial or literature evidence, and the EU authorization is recorded as cancelled. Safety label data, a blocking gap, is also missing.
+There is no direct trial or literature evidence. Safety label data, a blocking gap, is also missing.
 
 **To proceed, the following is needed:**
 - Confirm the current EU authorization status of Metalyse

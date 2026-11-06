@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 424
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Nepafenac: predicted new indication Eye disease (evidence level L1). Approved use: Prevention and treatment of postoperative pain and inflammation assoc…"
 monitor_inn: "Nepafenac"
 predicted_indications: ["eye disease", "optic papillitis", "hypotrichosis simplex of the scalp", "seborrheic keratosis", "von Hippel anomaly", "congenital hypotrichosis milia", "mcpherson robertson cammarano syndrome", "lagophthalmos", "vulvar inverted follicular keratosis", "vitreous detachment"]
@@ -101,9 +101,9 @@ Other registered trials explore off-label retinal uses, for example epiretinal m
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000818 (cancelled) | Nevanac | Not stated | Prevention and treatment of postoperative pain and inflammation associated with cataract surgery; reduction in the risk of postoperative macular oedema associated with cataract su... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000818 | Nevanac | nepafenac | Valid |
 
 ## Safety Considerations
 
@@ -117,7 +117,7 @@ Please refer to the SmPC for the full warnings, contraindications, and drug inte
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple completed Phase 3 trials support nepafenac in postoperative ocular inflammation, pain, and macular oedema in diabetic patients. However, this evidence mainly covers the already approved use rather than a new indication. The EU authorization is cancelled, and evidence for broader retinal uses is small and exploratory. The other predicted indications lack evidence and should stay on Hold.
+Multiple completed Phase 3 trials support nepafenac in postoperative ocular inflammation, pain, and macular oedema in diabetic patients. However, this evidence mainly covers the already approved use rather than a new indication. Evidence for broader retinal uses is small and exploratory. The other predicted indications lack evidence and should stay on Hold.
 
 **To proceed, the following is needed:**
 - Obtain and review the SmPC warnings and contraindications

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Mecasermin"
 predicted_indications: ["monosomy X", "Wolman disease with hypolipoproteinemia and acanthocytosis", "esophageal varices with bleeding", "esophageal varices without bleeding"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Mecasermin: predicted new indication monosomy X (evidence level L5). Approved use: For the long-term treatment of growth failure in children and adolesc…"
 ---
 
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000704 | Increlex | Not recorded | For the long-term treatment of growth failure in children and adolescents with severe primary insulin-like-growth-factor-1 deficiency (primary IGFD)... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000704 | Increlex | Mecasermin | Valid |
 
 ## Safety Considerations
 

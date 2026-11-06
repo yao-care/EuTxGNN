@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Temozolomide"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Temozolomide: predicted new indication Cauda equina neoplasm (evidence level L5). Approved use: Newly diagnosed glioblastoma multiforme (with radiotherapy…"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **cauda equina neoplasm**, but 
 | Predicted New Indication | Cauda equina neoplasm |
 | TxGNN Prediction Score | 0.9930 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 5 of 5) |
-| Number of Authorizations | 5 (valid: 5) |
+| EU Market Status | Marketed (valid licences: 5 of 7) |
+| Number of Authorizations | 7 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -75,13 +75,15 @@ The evidence level is L5 because no cited clinical trial or publication provides
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002198 | Temozolomide Sun | Not specified | Newly diagnosed glioblastoma multiforme with radiotherapy, then monotherapy; recurrent or progressive malignant glioma in children from 3 years, adolescents and adults... |
-| EMEA/H/C/001126 | Temozolomide Teva | Not specified | Newly diagnosed glioblastoma multiforme with radiotherapy, then monotherapy; recurrent or progressive malignant glioma in children from 3 years, adolescents and adults... |
-| EMEA/H/C/001124 | Temomedac | Not specified | Newly diagnosed glioblastoma multiforme with radiotherapy, then monotherapy; recurrent or progressive malignant glioma in children from 3 years, adolescents and adults... |
-| EMEA/H/C/000229 | Temodal | Not specified | Newly diagnosed glioblastoma multiforme with radiotherapy, then monotherapy; recurrent or progressive malignant glioma in children from 3 years, adolescents and adults... |
-| EMEA/H/C/001125 | Temozolomide Accord | Not specified | Newly diagnosed glioblastoma multiforme with radiotherapy, then monotherapy; recurrent or progressive malignant glioma in children from 3 years, adolescents and adults... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000229 | Temodal | temozolomide | Valid |
+| EMEA/H/C/001124 | Temomedac | temozolomide | Valid |
+| EMEA/H/C/001125 | Temozolomide Accord | temozolomide | Valid |
+| EMEA/H/C/001126 | Temozolomide Teva | temozolomide | Valid |
+| EMEA/H/C/002198 | Temozolomide Sun | temozolomide | Valid |
+| EMEA/H/C/001127 | Temozolomide Hexal | temozolomide | Withdrawn |
+| EMEA/H/C/001128 | Temozolomide Sandoz | temozolomide | Withdrawn |
 
 ## Cytotoxicity
 

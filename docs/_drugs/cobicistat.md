@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 155
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Cobicistat: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: Pharmacokinetic enhancer of atazanavir 300 mg or darunavir 800 mg onc…"
 monitor_inn: "Cobicistat"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -52,8 +52,8 @@ The model score appears to reflect similarity to HIV-1 rather than any real anti
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Authorizations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ---
@@ -88,11 +88,14 @@ Currently no related literature available for simian immunodeficiency virus infe
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002572 | Tybost | Not specified | Pharmacokinetic enhancer of atazanavir 300 mg once daily or darunavir 800 mg once daily as part of antiretroviral combination therapy in HIV-1... |
-
-This authorization is recorded as valid, and the drug is marketed in this country (1 valid licence of 1).
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002572 | Tybost | cobicistat | Valid |
+| EMEA/H/C/002574 | Stribild | elvitegravir; cobicistat; emtricitabine; tenofovir disoproxil fumarate | Valid |
+| EMEA/H/C/002819 | Rezolsta | darunavir; cobicistat | Valid |
+| EMEA/H/C/003904 | Evotaz | cobicistat; atazanavir | Valid |
+| EMEA/H/C/004042 | Genvoya | elvitegravir; cobicistat; emtricitabine; tenofovir alafenamide | Valid |
+| EMEA/H/C/004391 | Symtuza | darunavir; cobicistat; emtricitabine; tenofovir alafenamide | Valid |
 
 ---
 

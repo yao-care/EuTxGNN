@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 322
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Inotersen: predicted new indication Acute intermittent porphyria (evidence level L4). Approved use: Treatment of stage 1 or stage 2 polyneuropathy in adult patients with…"
 monitor_inn: "Inotersen"
 predicted_indications: ["acute intermittent porphyria", "appendicitis", "IgG4-related pachymeningitis", "IgG4-related retroperitoneal fibrosis", "non-infectious meningitis", "peritonitis", "infectious meningitis", "IgG4-related mesenteritis", "IgG4-related mediastinitis", "eosinophilic angiocentric fibrosis"]
@@ -71,9 +71,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004782 | Tegsedi | Not specified | Treatment of stage 1 or Stage 2 polyneuropathy in adult patients with hereditary transthyretin amyloidosis (hATTR). (status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004782 | Tegsedi | inotersen sodium | Valid |
 
 ## Safety Considerations
 
@@ -96,7 +96,6 @@ There are no clinical trials, and the only publication is a general review with 
 - Detailed mechanism-of-action data
 - Preclinical evidence on whether TTR knockdown affects heme biosynthesis or porphyria attacks
 - A safety review for thrombocytopenia and glomerulonephritis, which are flagged as contraindicated in the knowledge graph
-- Clarification of why the EU authorization was cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

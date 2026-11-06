@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Atezolizumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Atezolizumab: predicted new indication Uterine ligament adenocarcinoma (evidence level L5). Approved use: Locally advanced or metastatic urothelial carcinoma (after prior plat…"
 ---
 
@@ -70,9 +70,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004143 | Tecentriq | — | Urothelial carcinoma: Tecentriq as monotherapy is indicated for the treatment of adult patients with locally adv... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004143 | Tecentriq | atezolizumab | Valid |
 
 The authorisation covers single-agent use of Tecentriq in several cancers (urothelial carcinoma, early-stage and advanced NSCLC, ES-SCLC, TNBC, HCC). The uterine ligament adenocarcinoma prediction is not part of any of these approved indications.
 

@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 593
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Teduglutide: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,10 +72,10 @@ The TxGNN model's candidates for Teduglutide are all known uses. Every candidate
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/002345 | Revestive |  | Valid |
-| EMEA/H/C/006564 | Teduglutide Viatris |  | Valid |
+| EMEA/H/C/002345 | Revestive | teduglutide | Valid |
+| EMEA/H/C/006564 | Teduglutide Viatris | teduglutide | Valid |
 
 ## Safety Considerations
 

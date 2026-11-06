@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Bezlotoxumab: predicted new indication Acute female pelvic peritonitis (evidence level L5). Approved use: Prevention of recurrence of Clostridium difficile infection (CDI) in…"
 monitor_inn: "Bezlotoxumab"
 predicted_indications: ["acute female pelvic peritonitis", "embryonic cyst of fallopian tube", "tubal pregnancy", "salpingitis isthmica nodosa", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "pelvic varices"]
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004136 (cancelled) | Zinplava | Not specified | Prevention of recurrence of Clostridium difficile infection (CDI) in adults at high risk for recurrence of CDI. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004136 | Zinplava | Bezlotoxumab | Withdrawn |
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 452
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Oseltamivir: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -74,10 +74,10 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Oseltamivir,
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/000402 | Tamiflu |  | Valid |
-| EMEA/H/C/003717 | Ebilfumin |  | Valid |
+| EMEA/H/C/000402 | Tamiflu | oseltamivir | Valid |
+| EMEA/H/C/003717 | Ebilfumin | oseltamivir | Valid |
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Darunavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Darunavir: predicted new indication feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Darunavir…"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **feline acquired immunodeficie
 | Predicted New Indication | feline acquired immunodeficiency syndrome |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 5 of 6) |
+| Number of Authorizations | 6 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -69,11 +69,14 @@ Currently no related literature available for this prediction.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004068 | Darunavir Viatris (previously Darunavir Mylan) | Not recorded | Darunavir, co-administered with low dose ritonavir is indicated in combination with other antiretroviral medicinal... |
-| EMEA/H/C/000707 | Prezista | Not recorded | PREZISTA, co administered with low dose ritonavir is indicated in combination with other antiretroviral medicinal... |
-| EMEA/H/C/004273 | Darunavir Krka | Not recorded | 400 and 800 mg Darunavir Krka, co-administered with low dose ritonavir is indicated in combination with other ant... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000707 | Prezista | darunavir | Valid |
+| EMEA/H/C/004068 | Darunavir Viatris | darunavir | Valid |
+| EMEA/H/C/004273 | Darunavir Krka | darunavir | Valid |
+| EMEA/H/C/002819 | Rezolsta | darunavir; cobicistat | Valid |
+| EMEA/H/C/004391 | Symtuza | darunavir; cobicistat; emtricitabine; tenofovir alafenamide | Valid |
+| EMEA/H/C/004891 | Darunavir Krka d.d. | darunavir | Expired |
 
 ## Safety Considerations
 

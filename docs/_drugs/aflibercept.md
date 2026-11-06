@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 26
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Aflibercept: predicted new indication Esotropia (evidence level L5). Approved use: Neovascular (wet) age-related macular degeneration (AMD)…"
 monitor_inn: "Aflibercept"
 predicted_indications: ["esotropia"]
@@ -59,11 +59,9 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Esotropia is a disorder of ocular alignment (strabismus), mainly neuromuscular or refractive in origin. No established VEGF-driven mechanism is known for it. The very high score (0.9938) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered for esotropia.
-
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -77,13 +75,22 @@ Currently no related literature available.
 
 All 14 listed authorisations are valid. Dosage form was not recorded.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002392 | Eylea | Not specified | Adult wet AMD, macular oedema secondary to RVO, diabetic macular oedema, myopic CNV |
-| EMEA/H/C/002532 | Zaltrap | Not specified | Treatment of metastatic colorectal cancer (MCRC). |
-| EMEA/H/C/006607 | Ahzantive | Not specified | Adult wet AMD, macular oedema secondary to RVO, diabetic macular oedema, myopic CNV |
-| EMEA/H/C/006339 | Pavblu | Not specified | Adult wet AMD, macular oedema secondary to RVO, diabetic macular oedema, myopic CNV |
-| EMEA/H/C/006056 | Opuviz | Not specified | Adult wet AMD, macular oedema secondary to RVO, diabetic macular oedema, myopic CNV |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002392 | Eylea | aflibercept | Valid |
+| EMEA/H/C/002532 | Zaltrap | aflibercept | Valid |
+| EMEA/H/C/005899 | Eydenzelt | aflibercept | Valid |
+| EMEA/H/C/005980 | Baiama | aflibercept | Valid |
+| EMEA/H/C/006022 | Yesafili | aflibercept | Valid |
+| EMEA/H/C/006056 | Opuviz | aflibercept | Valid |
+| EMEA/H/C/006150 | Afqlir | aflibercept | Valid |
+| EMEA/H/C/006192 | Vgenfli | aflibercept | Valid |
+| EMEA/H/C/006282 | Eyluxvi | aflibercept | Valid |
+| EMEA/H/C/006339 | Pavblu | aflibercept | Valid |
+| EMEA/H/C/006438 | Mynzepli | aflibercept | Valid |
+| EMEA/H/C/006607 | Ahzantive | aflibercept | Valid |
+| EMEA/H/C/006745 | Eiyzey | aflibercept | Valid |
+| EMEA/H/C/006761 | Afiveg | aflibercept | Valid |
 
 Nine further biosimilar authorisations (Afiveg, Afqlir, Yesafili, Vgenfli, Eydenzelt, Mynzepli, Eyluxvi, Eiyzey, Baiama) carry the same retinal indications and are also cancelled.
 

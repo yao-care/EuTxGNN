@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 630
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Toremifene: predicted new indication HIV infectious disease (evidence level L5). Approved use: First line hormone treatment of hormone-dependent metastatic breast c…"
 monitor_inn: "Toremifene"
 predicted_indications: ["HIV infectious disease"]
@@ -64,7 +64,6 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 The only linked paper (PMID 24520056) shows that estrogen receptor antagonists, including toremifene, have antifungal activity against *Cryptococcus*. They act by binding EF-hand proteins such as calmodulin and work together with fluconazole in the laboratory. This is relevant to an opportunistic fungal infection that affects people with HIV, not to HIV replication or disease progression. The high score of 0.9941 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-
 ---
 
 ## Clinical Trial Evidence
@@ -83,9 +82,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000091 (cancelled) | Fareston | Not specified | First line hormone treatment of hormone-dependent metastatic breast cancer in postmenopausal patients.Fareston is not recommended for pa... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000091 | Fareston | toremifene | Valid |
 
 ---
 
@@ -115,7 +114,7 @@ Please refer to the SmPC for the full label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The HIV prediction has a very high model score but no clinical trials and no evidence of anti-HIV activity. The single linked paper concerns an antifungal effect. The EU authorization is cancelled, and the QT-related and interaction risks are significant in a population that often takes many medicines.
+The HIV prediction has a very high model score but no clinical trials and no evidence of anti-HIV activity. The single linked paper concerns an antifungal effect. The QT-related and interaction risks are significant in a population that often takes many medicines.
 
 **To proceed, the following is needed:**
 - Laboratory evidence that toremifene directly inhibits HIV replication, or a defined mechanism linking it to HIV disease

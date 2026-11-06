@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 163
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Cytarabine: predicted new indication Small cell lung carcinoma (evidence level L4). Approved use: Newly diagnosed therapy-related acute myeloid leukaemia (t-AML) or AM…"
 monitor_inn: "Cytarabine"
 predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **small cell lung carcinoma**, 
 | Predicted New Indication | Small cell lung carcinoma |
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -80,9 +80,10 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004282 | Vyxeos liposomal (previously Vyxeos) | Not specified | Vyxeos liposomal is indicated for the treatment of adults with newly diagnosed, therapy-related acute myeloid leukaemia (t-AML) or AML with myelodysplasia-related... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004282 | Vyxeos liposomal | daunorubicin hydrochloride; cytarabine | Valid |
+| EMEA/H/C/000317 | DepoCyte | cytarabine | Withdrawn |
 
 This drug is marketed in this country; 1 of 1 licence is valid.
 

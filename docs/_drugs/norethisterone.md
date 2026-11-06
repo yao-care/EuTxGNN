@@ -3,7 +3,7 @@ layout: default
 title: Norethisterone
 parent: Known Uses Only (No New Predictions)
 nav_order: 438
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Norethisterone: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Norethisterone"
 predicted_indications: []
@@ -46,9 +46,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005267 | Ryeqo | Not specified | Ryeqo is indicated in adult women of reproductive age for: - treatment of moderate to severe symptoms of uterine fibroids, - sympto... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005267 | Ryeqo | relugolix; norethisterone acetate; estradiol hemihydrate | Valid |
 
 This authorisation has a cancelled status.
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 80
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Aztreonam: predicted new indication Hyperamylasemia (evidence level L5). Approved use: Suppressive therapy of chronic pulmonary infections due to Pseudomona…"
 monitor_inn: "Aztreonam"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "gonococcal urethritis", "Ureaplasma urethritis", "blood group incompatibility", "premalignant hematological system disease", "epiglottitis", "monoclonal gammopathy", "xanthogranulomatous pyelonephritis"]
@@ -97,10 +97,10 @@ Currently no related literature is available for hyperamylasemia. The table belo
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
-|---------|------|------|-----------|------|
-| EMEA/H/C/000996 | Cayston | Not specified | Suppressive therapy of chronic pulmonary infections due to Pseudomonas aeruginosa in patients with cystic fibrosis (CF) aged 6 years and older. Consideration should be given to... | Valid |
-| EMEA/H/C/006113 | Emblaveo | Not specified | Complicated intra-abdominal infection (cIAI), hospital-acquired pneumonia (HAP) including VAP, complicated urinary tract infection (cUTI) including pyelonephritis, and infections due to aerobic Gram-negative organisms in adult patients with limited... | Valid |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000996 | Cayston | aztreonam lysine | Valid |
+| EMEA/H/C/006113 | Emblaveo | avibactam; aztreonam | Valid |
 
 ---
 

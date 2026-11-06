@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ticagrelor"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "fibrocartilaginous embolism"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ticagrelor: predicted new indication Intracranial arteriosclerosis (evidence level L3). Approved use: Prevention of atherothrombotic events in adults with acute coronary s…"
 ---
 
@@ -50,8 +50,8 @@ Evidence is early: **2 related clinical trials** (one large Phase 3 still ongoin
 | Predicted New Indication | Intracranial arteriosclerosis |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -78,9 +78,10 @@ Direct evidence for ticagrelor in this disease is limited. In the main Phase 3 t
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001241 | Brilique | — | Brilique, co administered with acetylsalicylic acid (ASA), is indicated for the prevention of atheroth... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001241 | Brilique | ticagrelor | Valid |
+| EMEA/H/C/002303 | Possia | ticagrelor | Withdrawn |
 
 The approved indication covers ACS and prior MI, not intracranial arteriosclerosis.
 

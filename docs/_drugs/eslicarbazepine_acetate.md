@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 242
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Eslicarbazepine Acetate: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 3 |
 | Evidence level | Not applicable |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 
 ## Known uses recorded for this drug
 
@@ -73,9 +73,10 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/000988 | Zebinix |  | Valid |
+| EMEA/H/C/000988 | Zebinix | eslicarbazepine acetate | Valid |
+| EMEA/H/C/000987 | Exalief | eslicarbazepine acetate | Lapsed |
 
 ## Safety Considerations
 

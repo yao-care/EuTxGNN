@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Catridecacog"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Catridecacog: predicted new indication primary release disorder of platelets (evidence level L5). Approved use: Long-term prophylactic treatment of bleeding in adult and paediatric…"
 ---
 
@@ -68,9 +68,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002284 | NovoThirteen | Not recorded | Long-term prophylactic treatment of bleeding in adult and paediatric patients 6 years and above with congenital factor-XIII-A-subunit deficiency. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002284 | NovoThirteen | catridecacog | Valid |
 
 ## Safety Considerations
 

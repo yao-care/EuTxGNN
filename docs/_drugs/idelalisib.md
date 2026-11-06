@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 310
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Idelalisib: predicted new indication Mantle cell lymphoma (evidence level L5). Approved use: CLL (in combination with rituximab or ofatumumab) and refractory foll…"
 monitor_inn: "Idelalisib"
 predicted_indications: ["mantle cell lymphoma", "Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "small intestinal Burkitt lymphoma", "colon adenocarcinoma"]
@@ -40,7 +40,7 @@ Evidence Level: **L2** | Predicted Indications: **6**
 
 Idelalisib (Zydelig) is an oral PI3Kδ inhibitor, originally authorised in the EU for chronic lymphocytic leukaemia (CLL) and refractory follicular lymphoma (FL).
 The TxGNN model predicts it may be effective for **mantle cell lymphoma (MCL)**, with **5 clinical trials** (all early-phase or terminated) and **20 publications** (mostly reviews and preclinical work) supporting this direction.
-The EU authorisation is now cancelled, and serious toxicities limit any further development.
+Serious toxicities limit any further development.
 
 ---
 
@@ -103,9 +103,9 @@ No randomized controlled trials were identified for MCL.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003843 (cancelled) | Zydelig | Not specified | In combination with an anti-CD20 antibody (rituximab or ofatumumab) for adult CLL after at least one prior therapy, or first line in the presence of 17p deletion or TP53 mutation... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003843 | Zydelig | Idelalisib | Valid |
 
 ---
 
@@ -135,7 +135,7 @@ Label-based warnings and contraindications were not available in the data compil
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic link in MCL is plausible and early-phase combination studies exist, but there are no completed late-phase trials in MCL, and the preclinical data point to intrinsic resistance when idelalisib is used alone. The drug carries serious toxicity, its EU authorisation is cancelled, and newer agents are available for B-cell malignancies.
+The mechanistic link in MCL is plausible and early-phase combination studies exist, but there are no completed late-phase trials in MCL, and the preclinical data point to intrinsic resistance when idelalisib is used alone. The drug carries serious toxicity, and newer agents are available for B-cell malignancies.
 
 **To proceed, the following is needed:**
 - Full results from the MCL studies (especially NCT01838434 and NCT01088048) to establish efficacy and safety in MCL

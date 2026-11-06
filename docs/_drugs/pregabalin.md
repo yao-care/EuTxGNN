@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 498
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "Pregabalin"
 predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 description: "Pregabalin: predicted new indication Tendinitis (evidence level L5). Approved use: Neuropathic painPregabalin Viatris Pharma is indicated for the treatm…"
@@ -52,8 +52,8 @@ Of the other top-ranked predictions, **osteoarthritis** (L1), **headache disorde
 | Predicted New Indication | Tendinitis |
 | TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 (tendinitis); the higher-evidence alternatives are osteoarthritis and headache disorder (L1) |
-| EU Market Status | Marketed (valid licences: 6 of 6) |
-| Number of Authorizations | 6 (valid: 6) |
+| EU Market Status | Marketed (valid licences: 6 of 9) |
+| Number of Authorizations | 9 (valid: 6) |
 | Recommended Decision | Hold |
 
 ---
@@ -97,15 +97,17 @@ Currently no related clinical trials registered for tendinitis.
 
 ## EU Market Information
 
-All six authorisations are valid; the drug is marketed.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000546 | Lyrica | Not specified | Neuropathic pain, epilepsy (adjunctive, partial seizures), generalised anxiety disorder |
-| EMEA/H/C/003880 | Pregabalin Viatris Pharma (previously Pregabalin Pfizer) | Not specified | Neuropathic pain, epilepsy (adjunctive), generalised anxiety disorder |
-| EMEA/H/C/004024 | Pregabalin Accord | Not specified | Epilepsy (adjunctive, partial seizures), generalised anxiety disorder |
-| EMEA/H/C/003900 | Pregabalin Zentiva | Not specified | Neuropathic pain, epilepsy (adjunctive), generalised anxiety disorder |
-| EMEA/H/C/004010 | Pregabalin Sandoz | Not specified | Neuropathic pain, epilepsy (adjunctive), generalised anxiety disorder |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000546 | Lyrica | pregabalin | Valid |
+| EMEA/H/C/003880 | Pregabalin Viatris Pharma | pregabalin | Valid |
+| EMEA/H/C/003900 | Pregabalin Zentiva | pregabalin | Valid |
+| EMEA/H/C/004010 | Pregabalin Sandoz | pregabalin | Valid |
+| EMEA/H/C/004024 | Pregabalin Accord | pregabalin | Valid |
+| EMEA/H/C/004078 | Pregabalin Viatris | pregabalin | Valid |
+| EMEA/H/C/003962 | Pregabalin Mylan Pharma | pregabalin | Withdrawn |
+| EMEA/H/C/004070 | Pregabalin Sandoz GmbH | pregabalin | Withdrawn |
+| EMEA/H/C/004277 | Pregabalin Zentiva k.s. | pregabalin | Withdrawn |
 
 A sixth authorisation (EMEA/H/C/004078, Pregabalin Viatris, previously Pregabalin Mylan) is also cancelled, with the same three indications as above.
 
@@ -131,7 +133,6 @@ Please refer to the SmPC for the official warnings and contraindications.
 
 **Rationale:**
 - The tendinitis prediction relies on a high model score with no clinical trials, and the mechanistic link is indirect and limited to a possible neuropathic pain component. The literature retrieved does not address tendinitis treatment.
-- All six authorisations are valid, and the drug is marketed.
 
 **To proceed, the following is needed:**
 - Clinical studies of pregabalin specifically in tendinitis or tendinopathy pain, ideally in patients with a neuropathic or centrally sensitised component

@@ -7,7 +7,7 @@ parent: AI Predictions (L5)
 nav_order: 22
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ A full repurposing evaluation cannot be completed until these gaps are resolved.
 | Predicted New Indication | No predictions available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction only, but no predictions were returned |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 | Recommended Decision | **Hold** |
 
 ---
@@ -76,7 +76,7 @@ The `predicted_indications` array is empty, meaning TxGNN returned no repurposin
 - **Re-run TxGNN prediction** — the `predicted_indications` array is empty; confirm whether the drug was correctly matched to a DrugBank ID before re-running (DrugBank ID is currently null)
 - **Resolve DG001 (Blocking)** — obtain safety warnings and contraindications from the drug label to enable safety screening
 - **Resolve DG002 (High)** — retrieve mechanism of action from DrugBank to support mechanistic plausibility analysis
-- **Confirm market status** — aclidinium bromide is known to be authorized in multiple markets (e.g., Eklira Genuair in the EU); zero authorizations on record suggests a data ingestion issue that should be investigated before proceeding
+- **Confirm market status** — aclidinium bromide is known to be authorized in multiple markets (e.g., Eklira Genuair in the EU)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

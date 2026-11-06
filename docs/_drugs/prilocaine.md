@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 500
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Prilocaine: predicted new indication Papillary conjunctivitis (evidence level L5). Approved use: Treatment of primary premature ejaculation in adult men"
 monitor_inn: "Prilocaine"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
@@ -49,8 +49,8 @@ The TxGNN model's top-ranked prediction is **papillary conjunctivitis**, but tha
 | Predicted New Indication | Papillary conjunctivitis (top-ranked prediction); neuralgia is the best-supported candidate |
 | TxGNN Prediction Score | 0.9978 (papillary conjunctivitis); 0.9934 (neuralgia) |
 | Evidence Level | L5 (papillary conjunctivitis); L3 (neuralgia) |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Hold (papillary conjunctivitis); neuralgia is a research question |
 
 ## Why is This Prediction Reasonable?
@@ -102,9 +102,10 @@ Note that the neuralgia literature mostly describes EMLA used alone or as pre-tr
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002693 | Fortacin | Not specified | Treatment of primary premature ejaculation in adult men. (Status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002693 | Fortacin | lidocaine; prilocaine | Valid |
+| EMEA/H/C/005298 | Senstend | lidocaine; prilocaine | Withdrawn |
 
 ## Safety Considerations
 
@@ -123,7 +124,7 @@ Package-insert warnings and contraindications were not available in the data com
 **Decision: Hold** (papillary conjunctivitis, and all other predictions except neuralgia). Neuralgia is a research question and not yet ready for a Go.
 
 **Rationale:**
-- The top prediction, papillary conjunctivitis, is supported only by a model score, with no trials or literature (L5). Neuralgia is the only direction with a plausible mechanism and clinical reports (L3). That evidence is small, dated, mainly for the lidocaine/prilocaine combination, and symptomatic. The EU authorization is also cancelled, and the safety review is incomplete.
+- The top prediction, papillary conjunctivitis, is supported only by a model score, with no trials or literature (L5). Neuralgia is the only direction with a plausible mechanism and clinical reports (L3). That evidence is small, dated, mainly for the lidocaine/prilocaine combination, and symptomatic. The safety review is incomplete.
 
 **To proceed, the following is needed:**
 - The SmPC warnings and contraindications (the missing package-insert data).

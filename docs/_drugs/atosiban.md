@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 68
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Atosiban: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Delay of imminent pre-term birth in pregnant adult women (regular ute…"
 monitor_inn: "Atosiban"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "congenital hypotrichosis milia", "alopecia", "hypotrichosis simplex of the scalp", "vascular disease", "diffuse alopecia areata", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "visceral calciphylaxis"]
@@ -71,10 +71,10 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000253 (cancelled) | Tractocile | Not specified | Tractotile is indicated to delay imminent pre-term birth in pregnant adult women with: regular uterine contractions of at least 30 seconds duration at a rate of ? 4 per 30... |
-| EMEA/H/C/002329 (cancelled) | Atosiban SUN | Not specified | Atosiban is indicated to delay imminent pre-term birth in pregnant adult women with: regular uterine contractions of at least 30 seconds' duration at a rate of ? 4 per 30... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000253 | Tractocile | atosiban (as acetate) | Valid |
+| EMEA/H/C/002329 | Atosiban SUN | atosiban (as acetate) | Valid |
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ layout: default
 title: Perflutren
 parent: Known Uses Only (No New Predictions)
 nav_order: 482
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Perflutren: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Perflutren"
 predicted_indications: []
@@ -48,11 +48,10 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-
-| Authorization Number | Product Name | Approved Indication |
-|---------|------|-----------|
-| EMEA/H/C/000654 | Luminity (valid) | This medicinal product is for diagnostic use only. Luminity is an ultrasound contrast-enhancing agent... |
-| EMEA/H/C/000166 | Optison (valid) | This medicinal product is for diagnostic use only. Optison is a transpulmonary echocardiographic contrast agent... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000166 | Optison | perflutren | Valid |
+| EMEA/H/C/000654 | Luminity | perflutren | Valid |
 
 ## Safety Considerations
 

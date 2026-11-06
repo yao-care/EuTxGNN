@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 34
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Alendronic Acid: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,11 +72,11 @@ All candidates that the TxGNN deep-learning model produced for Alendronic Acid (
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/001180 | Vantavo (previously Alendronate sodium and colecalciferol, M |  | Valid |
-| EMEA/H/C/000759 | Adrovance |  | Valid |
-| EMEA/H/C/000619 | Fosavance |  | Valid |
+| EMEA/H/C/000619 | Fosavance | alendronic acid; colecalciferol | Valid |
+| EMEA/H/C/000759 | Adrovance | colecalciferol; alendronic acid (as sodium trihydrate) | Valid |
+| EMEA/H/C/001180 | Vantavo | alendronic acid; colecalciferol | Valid |
 
 ## Safety Considerations
 

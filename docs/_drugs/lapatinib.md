@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Lapatinib"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Lapatinib: predicted new indication dermatofibrosarcoma protuberans (evidence level L5). Approved use: Tyverb is indicated for the treatment of patients with breast cancer…"
 ---
 
@@ -70,9 +70,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000795 | Tyverb | Not recorded | Tyverb is indicated for the treatment of patients with breast cancer, whose tumours overexpress HER2 (ErbB2): in combination with capecitabine for... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000795 | Tyverb | lapatinib | Valid |
 
 ## Cytotoxicity
 

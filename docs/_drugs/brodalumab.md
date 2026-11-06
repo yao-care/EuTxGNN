@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 109
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Brodalumab: predicted new indication Strongyloidiasis (evidence level L5). Approved use: Moderate to severe plaque psoriasis in adult patients who are candida…"
 monitor_inn: "Brodalumab"
 predicted_indications: ["strongyloidiasis", "eye disease", "vitamin deficiency disorder", "von Hippel anomaly", "optic perineuritis", "isolated optic neuritis", "chronic relapsing inflammatory optic neuropathy", "recurrent idiopathic neuroretinitis", "episcleritis periodica fugax", "nodular episcleritis"]
@@ -74,9 +74,9 @@ Currently no related literature available for strongyloidiasis.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003959 (cancelled) | Kyntheum | Not specified | Moderate to severe plaque psoriasis in adult patients who are candidates for systemic therapy |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003959 | Kyntheum | brodalumab | Valid |
 
 ## Safety Considerations
 

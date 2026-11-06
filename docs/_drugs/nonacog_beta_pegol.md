@@ -5,7 +5,7 @@ layout: default
 title: Nonacog Beta Pegol
 parent: Known Uses Only (No New Predictions)
 nav_order: 436
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Nonacog Beta Pegol: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Nonacog beta pegol"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
-|---------|------|------|-----------|------|
-| EMEA/H/C/004178 | Refixia | Not specified | Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency). Refixia can be used for all age groups. | Valid |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004178 | Refixia | nonacog beta pegol | Valid |
 
 ## Safety Considerations
 

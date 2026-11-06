@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 59
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Aripiprazole"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 description: "Aripiprazole: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5)."
@@ -68,13 +68,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000471 | Abilify | Not specified | Schizophrenia in adults and adolescents aged 15+; moderate to severe manic episodes in Bipolar I Disorder and... |
-| EMEA/H/C/002755 | Abilify Maintena | Not specified | Maintenance treatment of schizophrenia in adult patients stabilised with oral aripiprazole. |
-| EMEA/H/C/003899 | Aripiprazole Zentiva | Not specified | Schizophrenia in adults and adolescents aged 15+; moderate to severe manic episodes in Bipolar I Disorder and... |
-| EMEA/H/C/003803 | Aripiprazole Mylan Pharma (previously Aripiprazole Pharmathen) | Not specified | Schizophrenia in adults and adolescents aged 15+; moderate to severe manic episodes in Bipolar I Disorder and... |
-| EMEA/H/C/004021 | Aripiprazole Accord | Not specified | Schizophrenia in adults and adolescents aged 15+; moderate to severe manic episodes in Bipolar I Disorder and... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000471 | Abilify | aripiprazole | Valid |
+| EMEA/H/C/002755 | Abilify Maintena | aripiprazole | Valid |
+| EMEA/H/C/003803 | Aripiprazole Mylan Pharma | aripiprazole | Valid |
+| EMEA/H/C/003899 | Aripiprazole Zentiva | aripiprazole | Valid |
+| EMEA/H/C/004008 | Aripiprazole Sandoz | aripiprazole | Valid |
+| EMEA/H/C/004021 | Aripiprazole Accord | aripiprazole | Valid |
 
 ## Safety Considerations
 

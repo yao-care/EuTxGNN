@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 422
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Nelarabine"
 predicted_indications: ["relapsing-remitting multiple sclerosis"]
 description: "Nelarabine: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). Approved use: Nelarabine is indicated for the treatment of patients with T-cell acu…"
@@ -71,9 +71,9 @@ Currently no related literature available for relapsing-remitting multiple scler
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000752 (cancelled) | Atriance | Not specified | Nelarabine is indicated for the treatment of patients with T-cell acute lymphoblastic leukaemia (T-ALL) and T-cell lymphoblastic lymphoma (T-LBL) whose d... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000752 | Atriance | nelarabine | Valid |
 
 ## Cytotoxicity
 
@@ -96,7 +96,7 @@ Label-based warnings and contraindications are not available in the compiled dat
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone, with no trials or literature. Nelarabine's neurotoxicity, including demyelination, runs directly against the proposed use in multiple sclerosis. The EU authorization is also cancelled.
+The prediction rests on a model score alone, with no trials or literature. Nelarabine's neurotoxicity, including demyelination, runs directly against the proposed use in multiple sclerosis.
 
 **To proceed, the following is needed:**
 - Label warnings and contraindications from the EMA product information

@@ -5,7 +5,7 @@ layout: default
 title: Tedizolid
 parent: Known Uses Only (No New Predictions)
 nav_order: 592
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Tedizolid: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Tedizolid"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002846 (cancelled) | Sivextro | Tablets; powder for concentrate for infusion solution | Acute bacterial skin and skin structure infections (ABSSSI) in adults, adolescents and children weighing at least 35 kg (tablets); ABSSSI from birth (infusion)... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002846 | Sivextro | tedizolid | Valid |
 
 ## Safety Considerations
 

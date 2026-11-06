@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 622
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Tivozanib: predicted new indication Endocervical carcinoma (evidence level L5). Approved use: First-line treatment of adult patients with advanced renal cell carci…"
 monitor_inn: "Tivozanib"
 predicted_indications: ["endocervical carcinoma", "uterine ligament adenocarcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "cervical adenosquamous carcinoma, glassy cell variant", "uterine ligament endometrioid adenocarcinoma", "uterine ligament mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma", "cervical mucinous adenocarcinoma, minimal deviation variant"]
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004131 (status: cancelled) | Fotivda | Not specified | First-line treatment of adult patients with advanced renal cell carcinoma (RCC) and for adult patients who are VEGFR and mTOR pathway inhibitor-naïve following disease progression after one prior treatm... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004131 | Fotivda | tivozanib | Valid |
 
 ## Cytotoxicity
 

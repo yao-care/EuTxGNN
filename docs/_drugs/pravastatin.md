@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 497
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
 description: "Pravastatin: predicted new indication HIV infectious disease (evidence level L4). Approved use: Pravafenix is indicated as an adjunct to diet and other non-pharmacol…"
@@ -83,9 +83,9 @@ None of these papers provides direct evidence of pravastatin efficacy in homozyg
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001243 (cancelled) | Pravafenix | Not specified | Adjunct to diet and other non-pharmacological treatment for mixed hyperlipidaemia in adult patients at high cardiovascular risk to reduce triglycerides and incr... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001243 | Pravafenix | fenofibrate; pravastatin | Valid |
 
 ## Safety Considerations
 
@@ -99,7 +99,7 @@ Package-insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The only support is a high model score. The one linked trial tests a different drug, the literature is largely about other lipid-lowering agents, and the biology of absent LDL receptor function argues against meaningful statin efficacy. The only EU authorisation for a pravastatin-containing product is cancelled.
+The only support is a high model score. The one linked trial tests a different drug, the literature is largely about other lipid-lowering agents, and the biology of absent LDL receptor function argues against meaningful statin efficacy.
 
 **To proceed, the following is needed:**
 - Direct pravastatin efficacy data in homozygous familial hypercholesterolemia (or a clear rationale for residual LDL receptor activity in the target patients)

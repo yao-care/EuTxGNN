@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 330
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Insulin Lispro: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Treatment of adults and children with diabetes mellitus who require i…"
 monitor_inn: "Insulin lispro"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **autoimmune oophoritis**, but 
 | Predicted New Indication | Autoimmune oophoritis |
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 4 of 4) |
-| Number of Authorizations | 4 (valid: 4) |
+| EU Market Status | Marketed (valid licences: 5 of 6) |
+| Number of Authorizations | 6 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -73,12 +73,14 @@ Currently no related literature available for autoimmune oophoritis.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000393 | Liprolog (valid) | Not specified | For the treatment of adults and children with diabetes mellitus who require insulin for the maintenance of normal glucose homeostasis. Liprolog is also... |
-| EMEA/H/C/004303 | Insulin lispro Sanofi (valid) | Not specified | For the treatment of adults and children with diabetes mellitus who require insulin for the maintenance of normal glucose homeostasis. Insulin lispro S... |
-| EMEA/H/C/005037 | Lyumjev (previously Liumjev) (valid) | Not specified | Treatment of diabetes mellitus in adults, adolescents and children aged 1 year and above. Treatment of diabetes mellitus in adults. |
-| EMEA/H/C/000088 | Humalog (valid) | Not specified | For the treatment of adults and children with diabetes mellitus who require insulin for the maintenance of normal glucose homeostasis. Humalog is also... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000088 | Humalog | insulin lispro | Valid |
+| EMEA/H/C/000393 | Liprolog | insulin lispro | Valid |
+| EMEA/H/C/004303 | Insulin lispro Sanofi | insulin lispro | Valid |
+| EMEA/H/C/005037 | Lyumjev | insulin lispro | Valid |
+| EMEA/H/C/006158 | Bysumlog | insulin lispro | Valid |
+| EMEA/H/C/000143 | Liprolog | insulin lispro | Withdrawn |
 
 ## Safety Considerations
 

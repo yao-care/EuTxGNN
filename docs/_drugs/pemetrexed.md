@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 478
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
 description: "Pemetrexed: predicted new indication Pleural adenomatoid tumor (evidence level L5). Approved use: Malignant pleural mesothelioma Pemetrexed Fresenius Kabi in combinati…"
@@ -51,8 +51,8 @@ with **7 clinical trials** and **20 publications** currently supporting this dir
 | Predicted New Indication | Pleural adenomatoid tumor |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 2 of 3) |
-| Number of Authorizations | 3 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 5 of 12) |
+| Number of Authorizations | 12 (valid: 5) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -100,12 +100,20 @@ Other predictions in the list fall into three groups. Pleural mesothelioma and i
 
 ## EU Market Information
 
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003895 | Pemetrexed Fresenius Kabi | Not specified | Malignant pleural mesothelioma (with cisplatin, chemotherapy-naïve, unresectable); non-squamous non-small cell lung cancer (first line with cisplatin, maintenance, s... |
-| EMEA/H/C/000564 | Alimta | Not specified | Malignant pleural mesothelioma (with cisplatin, chemotherapy-naïve, unresectable); non-squamous non-small-cell lung cancer (first line with cisplatin, maintenance, s... |
-| EMEA/H/C/003905 | Pemetrexed medac | Not specified | Malignant pleural mesothelioma (with cisplatin, chemotherapy-naïve, unresectable); non-squamous non-small cell lung cancer (first line with cisplatin, maintenance, s... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000564 | Alimta | pemetrexed | Valid |
+| EMEA/H/C/003895 | Pemetrexed Fresenius Kabi | pemetrexed | Valid |
+| EMEA/H/C/004072 | Pemetrexed Accord | pemetrexed disodium hemipentahydrate | Valid |
+| EMEA/H/C/004109 | Armisarte | pemetrexed diacid monohydrate | Valid |
+| EMEA/H/C/003970 | Pemetrexed Pfizer | pemetrexed disodium; pemetrexed disodium hemipentahydrate | Valid |
+| EMEA/H/C/003788 | Ciambra | pemetrexed disodium hemipentahydrate | Withdrawn |
+| EMEA/H/C/003905 | Pemetrexed medac | pemetrexed | Withdrawn |
+| EMEA/H/C/003958 | Pemetrexed Krka | pemetrexed disodium | Withdrawn |
+| EMEA/H/C/004011 | Pemetrexed Sandoz | pemetrexed disodium hemipentahydrate | Withdrawn |
+| EMEA/H/C/004114 | Pemetrexed Lilly | pemetrexed | Withdrawn |
+| EMEA/H/C/004488 | Pemetrexed Pfizer | pemetrexed ditromethamine | Withdrawn |
+| EMEA/H/C/005848 | Pemetrexed Baxter | pemetrexed disodium heptahydrate | Withdrawn |
 
 ---
 

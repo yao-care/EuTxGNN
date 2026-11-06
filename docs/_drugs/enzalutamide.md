@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Enzalutamide"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Enzalutamide: predicted new indication prostate leiomyoma (evidence level L5). Approved use: Enzalutamide Viatris is indicated:• as monotherapy or in combination…"
 ---
 
@@ -70,11 +70,11 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name |
-|---------|------|
-| EMEA/H/C/006299 | Enzalutamide Viatris |
-| EMEA/H/C/002639 | Xtandi |
-| EMEA/H/C/006612 | Enzalutamide Accordpharma |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002639 | Xtandi | enzalutamide | Valid |
+| EMEA/H/C/006299 | Enzalutamide Viatris | enzalutamide | Valid |
+| EMEA/H/C/006612 | Enzalutamide Accordpharma | enzalutamide | Valid |
 
 ## Cytotoxicity
 

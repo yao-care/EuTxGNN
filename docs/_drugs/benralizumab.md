@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Benralizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Benralizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: AsthmaFasenra is indicated as an add on maintenance treatment in adul…"
 ---
 
@@ -69,9 +69,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004433 | Fasenra | Not recorded | Severe eosinophilic asthma (add-on maintenance, adults); relapsing or refractory eosinophilic granulomatosis with polyangiitis (add-on, adults) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004433 | Fasenra | Benralizumab | Valid |
 
 ## Safety Considerations
 

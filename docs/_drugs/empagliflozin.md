@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Empagliflozin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Empagliflozin: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus Jardiance is indicated in adults and childre…"
 ---
 
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **focal stiff limb syndrome**, 
 | Predicted New Indication | Focal stiff limb syndrome |
 | TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 Two other predictions were also generated: classic stiff person syndrome (0.9906) and opsismodysplasia (0.9903). Both likewise have no clinical or literature support (L5, Hold).
@@ -73,9 +73,11 @@ For the third prediction, opsismodysplasia (a rare skeletal dysplasia linked to 
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002677 | Jardiance | Not specified | Type 2 diabetes mellitus in adults and children aged 10 years and above (as monotherapy when metformin is inappropriate, or in addition to other diabetes medicines); symptomatic chronic heart failure in adults; chronic kidney disease in adults |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002677 | Jardiance | empagliflozin | Valid |
+| EMEA/H/C/003770 | Synjardy | empagliflozin; metformin | Valid |
+| EMEA/H/C/003833 | Glyxambi | empagliflozin; linagliptin | Valid |
 
 The data compiled for this report list 1 authorization, a single-ingredient product with valid status. The list is not partial.
 

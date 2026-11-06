@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 564
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "Simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: predicted new indication Brain stem infarction (evidence level L5). Approved use: Cholib is indicated as adjunctive therapy to diet and exercise in hig…"
@@ -94,9 +94,9 @@ Only NCT00552097 and NCT00129402 evaluate simvastatin directly in FH. The remain
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002559 (cancelled) | Cholib | Not specified | Adjunctive therapy to diet and exercise in high cardiovascular risk adult patients with mixed dyslipidaemia to reduce triglycerides and increase HDL C levels when LDL C... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002559 | Cholib | fenofibrate; simvastatin | Valid |
 
 ## Safety Considerations
 
@@ -111,7 +111,7 @@ Label warnings and contraindications were not available in the data compiled for
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple completed Phase 3 trials (including the ENHANCE trial and an adolescent heterozygous FH trial) evaluate simvastatin in FH, and Cochrane reviews and guidelines support statin use. However, this is essentially an established lipid-lowering use, the EU authorisation is cancelled, and ENHANCE did not show an added imaging benefit from ezetimibe over simvastatin alone.
+Multiple completed Phase 3 trials (including the ENHANCE trial and an adolescent heterozygous FH trial) evaluate simvastatin in FH, and Cochrane reviews and guidelines support statin use. However, this is essentially an established lipid-lowering use, and ENHANCE did not show an added imaging benefit from ezetimibe over simvastatin alone.
 
 **To proceed, the following is needed:**
 - Official SmPC warnings and contraindications, which are currently missing

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 603
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Teprotumumab"
 predicted_indications: ["monosomy X", "esophageal varices without bleeding", "esophageal varices with bleeding", "mixed gonadal dysgenesis", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Turner syndrome due to structural X chromosome anomalies", "mosaic monosomy X", "sex chromosome disorder of sex development", "varicose disease", "X chromosome number anomaly"]
 description: "Teprotumumab: predicted new indication Monosomy X (evidence level L5). Approved use: Treatment of moderate to severe thyroid eye disease (TED)"
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006396 (status: cancelled) | Tepezza | Not specified | Treatment of moderate to severe thyroid eye disease (TED). |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/006396 | Tepezza | teprotumumab | Valid |
 
 ## Safety Considerations
 

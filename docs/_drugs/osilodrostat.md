@@ -5,7 +5,7 @@ layout: default
 title: Osilodrostat
 parent: Known Uses Only (No New Predictions)
 nav_order: 453
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Osilodrostat: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Osilodrostat"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004821 (cancelled) | Isturisa | Not specified | Treatment of endogenous Cushing's syndrome in adults |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004821 | Isturisa | osilodrostat phosphate | Valid |
 
 ## Safety Considerations
 

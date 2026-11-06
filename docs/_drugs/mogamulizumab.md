@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 414
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Mogamulizumab: predicted new indication Prostatic urethra urothelial carcinoma (evidence level L5). Approved use: Adult patients with mycosis fungoides (MF) or Sézary syndrome (SS) wh…"
 monitor_inn: "Mogamulizumab"
 predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "human herpesvirus 8-related tumor", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor"]
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004232 (status: cancelled) | Poteligeo | Not specified | Treatment of adult patients with mycosis fungoides (MF) or Sézary syndrome (SS) who have received at least one prior systemic therapy |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004232 | Poteligeo | mogamulizumab | Valid |
 
 ## Cytotoxicity
 
@@ -102,7 +102,7 @@ Many of these are immunosuppressants or vaccines, so combined immune effects war
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score (0.9944), with no clinical trials or literature (Evidence Level L5). The mechanistic link is hypothetical, and the EU authorization for the original indication is cancelled.
+The prediction is supported only by the model score (0.9944), with no clinical trials or literature (Evidence Level L5). The mechanistic link is hypothetical.
 
 **To proceed, the following is needed:**
 - Full mechanism of action data, and preclinical evidence of CCR4+ Treg involvement in urothelial carcinoma

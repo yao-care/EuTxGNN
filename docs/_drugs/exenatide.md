@@ -5,7 +5,7 @@ layout: default
 title: Exenatide
 parent: Known Uses Only (No New Predictions)
 nav_order: 251
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Exenatide: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Exenatide"
 predicted_indications: []
@@ -48,10 +48,10 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002020 (cancelled) | Bydureon | Not specified | Type 2 diabetes mellitus in adults 18 years and older, to improve glycaemic control in combination with other glucose... |
-| EMEA/H/C/000698 (cancelled) | Byetta | Not specified | Type 2 diabetes mellitus in combination with metformin, sulphonylureas, thiazolidinediones, or combinations of these... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000698 | Byetta | exenatide | Withdrawn |
+| EMEA/H/C/002020 | Bydureon | exenatide | Withdrawn |
 
 ## Safety Considerations
 

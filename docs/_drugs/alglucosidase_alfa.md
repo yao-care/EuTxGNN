@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 36
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Alglucosidase Alfa: predicted new indication Adult polyglucosan body disease (evidence level L5). Approved use: Long-term enzyme-replacement therapy (ERT) in patients with a confirm…"
 monitor_inn: "Alglucosidase alfa"
 predicted_indications: ["adult polyglucosan body disease", "congenital entropion", "congenital ectropion", "congenital Horner syndrome (disease)", "ptosis-vocal cord paralysis syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "epiblepharon", "ptosis-strabismus-ectopic pupils syndrome"]
@@ -84,9 +84,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000636 (cancelled) | Myozyme | Not specified | Long-term enzyme-replacement therapy (ERT) in patients with a confirmed diagnosis of Pompe disease (acid-α-glucosidase deficiency). In patients with late-onset Pompe disease the evidence of efficacy is limited. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000636 | Myozyme | alglucosidase alfa | Valid |
 
 ---
 

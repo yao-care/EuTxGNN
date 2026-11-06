@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 390
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Melatonin: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,11 +72,11 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Melatonin
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/004425 | Slenyto |  | Valid |
-| EMEA/H/C/000695 | Circadin |  | Valid |
-| EMEA/H/C/005603 | Melatonin Neurim |  | Valid |
+| EMEA/H/C/000695 | Circadin | melatonin | Valid |
+| EMEA/H/C/004425 | Slenyto | melatonin | Valid |
+| EMEA/H/C/005603 | Melatonin Neurim | melatonin | Valid |
 
 ## Safety Considerations
 

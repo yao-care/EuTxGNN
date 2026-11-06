@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 176
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Dasatinib: predicted new indication Ewing sarcoma (evidence level L5). Approved use: Paediatric and adult Ph+ CML (chronic phase…"
 monitor_inn: "Dasatinib"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
@@ -50,8 +50,8 @@ The clinical evidence for this specific disease is weak: single-agent dasatinib 
 | Predicted New Indication | Ewing sarcoma |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L2 (as assigned in the compiled data; see note below) |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 2 of 4) |
+| Number of Authorizations | 4 (valid: 2) |
 | Recommended Decision | Hold |
 
 *Note on evidence level:* The L2 grade is a generous reading. The only completed phase 2 trial covers mixed advanced sarcomas, and the literature indicates single-agent dasatinib failed in Ewing sarcoma. Given this, the practical strength of evidence is closer to L4 (preclinical and mechanistic support).
@@ -86,10 +86,12 @@ However, the original indication (a blood cancer driven by a fusion kinase) is b
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000709 | Sprycel | Not specified | Paediatric patients with newly diagnosed Ph+ CML in chronic phase or resistant/intolerant to prior therapy including imatinib; newly diagnosed Ph+ ALL with chemotherapy; adult Ph+ CML and Ph+ ALL... |
-| EMEA/H/C/006251 | Dasatinib Accord Healthcare | Not specified | Adults with newly diagnosed Ph+ CML in chronic phase; CML resistant or intolerant to prior therapy including imatinib; Ph+ ALL and lymphoid blast CML... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000709 | Sprycel | dasatinib | Valid |
+| EMEA/H/C/006251 | Dasatinib Accord Healthcare | Dasatinib monohydrate | Valid |
+| EMEA/H/C/005317 | Dasatinib Accordpharma | dasatinib | Withdrawn |
+| EMEA/H/C/005446 | Dasatinib Accord | dasatinib | Withdrawn |
 
 Both authorizations are listed as cancelled.
 

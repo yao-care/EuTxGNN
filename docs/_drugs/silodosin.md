@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 561
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Silodosin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Treatment of the signs and symptoms of benign prostatic hyperplasia (…"
 monitor_inn: "Silodosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
@@ -64,11 +64,11 @@ The high score (0.9999) comes from the TxGNN model (deep learning) and may refle
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001092 | Urorec | Not specified | Treatment of the signs and symptoms of benign prostatic hyperplasia (BPH). (Valid) |
-| EMEA/H/C/001209 | Silodyx | Not specified | Treatment of the signs and symptoms of benign prostatic hyperplasia (BPH) (Valid) |
-| EMEA/H/C/004964 | Silodosin Recordati | Not specified | Treatment of the signs and symptoms of benign prostatic hyperplasia (BPH) in adult men. (Valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001092 | Urorec | silodosin | Valid |
+| EMEA/H/C/001209 | Silodyx | silodosin | Valid |
+| EMEA/H/C/004964 | Silodosin Recordati | silodosin | Valid |
 
 ## Safety Considerations
 

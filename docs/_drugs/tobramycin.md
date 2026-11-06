@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 623
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Tobramycin: predicted new indication Exposure keratitis (evidence level L4). Approved use: Suppressive therapy of chronic pulmonary infection due to Pseudomonas…"
 monitor_inn: "Tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **exposure keratitis**, but **n
 | Predicted New Indication | Exposure keratitis |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L4 |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 2 of 3) |
+| Number of Authorizations | 3 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -80,10 +80,11 @@ Currently no related clinical trials registered for exposure keratitis.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002155 (cancelled) | Tobi Podhaler | Not specified | Suppressive therapy of chronic pulmonary infection due to *Pseudomonas aeruginosa* in adults and children aged 6 years and older with cystic fibrosis. See sections 4.4 and 5.1... |
-| EMEA/H/C/005086 (cancelled) | Vantobra (previously Tobramycin PARI) | Not specified | Management of chronic pulmonary infection due to *Pseudomonas aeruginosa* in patients aged 6 years and older with cystic fibrosis (CF). Consideration should be given to official guidance... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002155 | Tobi Podhaler | tobramycin | Valid |
+| EMEA/H/C/005086 | Vantobra | tobramycin | Valid |
+| EMEA/H/C/002633 | Vantobra | tobramycin | Withdrawn |
 
 ## Safety Considerations
 
@@ -97,7 +98,7 @@ Please refer to the SmPC for the label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but it comes from the TxGNN model (deep learning) alone and may reflect similarities the model learned between related diseases, not biological evidence. No trials exist for exposure keratitis, and the literature is indirect (case reports, susceptibility studies) and includes a corneal epithelial toxicity signal. Both EU authorizations for tobramycin are valid (2 valid licences of 2), and they cover inhaled products for cystic fibrosis rather than ocular use.
+The prediction score is very high, but it comes from the TxGNN model (deep learning) alone and may reflect similarities the model learned between related diseases, not biological evidence. No trials exist for exposure keratitis, and the literature is indirect (case reports, susceptibility studies) and includes a corneal epithelial toxicity signal.
 
 **To proceed, the following is needed:**
 - Controlled or at least well-designed observational studies of topical tobramycin in exposure keratitis, with attention to corneal epithelial toxicity

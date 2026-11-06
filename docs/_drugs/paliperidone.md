@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 460
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Paliperidone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia in adults and adolescents 15 years and older"
 monitor_inn: "Paliperidone"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
@@ -52,8 +52,8 @@ The prediction rests on the model score alone.
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Authorizations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ---
@@ -82,9 +82,13 @@ Currently no related literature available for retinal dystrophy.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000746 (cancelled) | Invega | Not specified | Invega is indicated for the treatment of schizophrenia in adults and in adolescents 15 years and older. Invega is indicated for the treatment of schizoaffective... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000746 | Invega | paliperidone | Valid |
+| EMEA/H/C/002105 | Xeplion | paliperidone palmitate | Valid |
+| EMEA/H/C/004066 | Trevicta | paliperidone palmitate | Valid |
+| EMEA/H/C/005486 | Byannli | paliperidone palmitate | Valid |
+| EMEA/H/C/006185 | Niapelf | paliperidone palmitate | Valid |
 
 ---
 

@@ -5,7 +5,7 @@ layout: default
 title: Tremelimumab
 parent: Known Uses Only (No New Predictions)
 nav_order: 639
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Tremelimumab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Tremelimumab"
 predicted_indications: []
@@ -43,16 +43,17 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Imjudo&nbsp;in combination with durvalumab is indicated for the first line treatment of adults with advanced or unresectable hepatocellular carcinoma (HCC). Imjudo&nbsp;in combination with durvalumab and platinum-based chemotherapy is indicated for the first-line treatment of adults with metastatic  |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 
 ---
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006016 (cancelled) | Imjudo | Not specified | Imjudo in combination with durvalumab is indicated for the first line treatment of adults with advanced or unresectable hepatocellular carcinoma (HCC). Imjudo in combin... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/006016 | Imjudo | tremelimumab | Valid |
+| EMEA/H/C/004650 | Tremelimumab AstraZeneca | tremelimumab | Withdrawn |
 
 ---
 

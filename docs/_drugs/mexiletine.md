@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 404
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Mexiletine: predicted new indication hypertrichosis (disease) (evidence level L5). Approved use: Symptomatic treatment of myotonia in adult patients with non-dystroph…"
 monitor_inn: "Mexiletine"
 predicted_indications: ["hypertrichosis (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "migraine disorder", "isolated genetic hair shaft abnormality", "pulmonary hypertension", "migraine with brainstem aura", "headache disorder"]
@@ -69,9 +69,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
-|---------|------|------|-----------|------|
-| EMEA/H/C/004584 | Namuscla | Not specified | Symptomatic treatment of myotonia in adult patients with non-dystrophic myotonic disorders. | Valid |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004584 | Namuscla | Mexiletine hydrochloride | Valid |
 
 ## Safety Considerations
 

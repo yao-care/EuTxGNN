@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 420
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Naltrexone: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -74,9 +74,9 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Naltrexone, 
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/003687 | Mysimba |  | Valid |
+| EMEA/H/C/003687 | Mysimba | bupropion hydrochloride; naltrexone hydrochloride | Valid |
 
 ## Safety Considerations
 

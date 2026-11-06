@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 222
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Emtricitabine: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: Treatment of HIV-1 infected adults and children…"
 monitor_inn: "Emtricitabine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L4 (preclinical studies) |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 18 of 19) |
+| Number of Authorizations | 19 (valid: 18) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -97,9 +97,27 @@ Selected publications for the top prediction (SIV infection), which are all prec
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000533 (cancelled) | Emtriva | Not specified | Treatment of HIV-1 infected adults and children in combination with other antiretroviral agents. This indication is based on studies in treatment-naive patients and... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000533 | Emtriva | emtricitabine | Valid |
+| EMEA/H/C/000594 | Truvada | emtricitabine; tenofovir disoproxil fumarate | Valid |
+| EMEA/H/C/002312 | Eviplera | emtricitabine; rilpivirine hydrochloride; tenofovir disoproxil fumarate | Valid |
+| EMEA/H/C/002574 | Stribild | elvitegravir; cobicistat; emtricitabine; tenofovir disoproxil fumarate | Valid |
+| EMEA/H/C/004042 | Genvoya | elvitegravir; cobicistat; emtricitabine; tenofovir alafenamide | Valid |
+| EMEA/H/C/004050 | Emtricitabine/Tenofovir disoproxil Mylan | emtricitabine; tenofovir disoproxil maleate | Valid |
+| EMEA/H/C/004094 | Descovy | emtricitabine; tenofovir alafenamide | Valid |
+| EMEA/H/C/004137 | Emtricitabine/Tenofovir disoproxil Zentiva | emtricitabine; tenofovir disoproxil phosphate | Valid |
+| EMEA/H/C/004156 | Odefsey | emtricitabine; rilpivirine hydrochloride; tenofovir alafenamide | Valid |
+| EMEA/H/C/004215 | Emtricitabine/Tenofovir disoproxil Krka | emtricitabine; tenofovir disoproxil succinate | Valid |
+| EMEA/H/C/004240 | Efavirenz/Emtricitabine/Tenofovir disoproxil Mylan | efavirenz; emtricitabine; tenofovir disoproxil maleate | Valid |
+| EMEA/H/C/004250 | Efavirenz/Emtricitabine/Tenofovir disoproxil Zentiva | efavirenz; emtricitabine; tenofovir disoproxil phosphate | Valid |
+| EMEA/H/C/004274 | Efavirenz/Emtricitabine/Tenofovir disoproxil Krka | efavirenz; emtricitabine; tenofovir disoproxil succinate | Valid |
+| EMEA/H/C/004391 | Symtuza | darunavir; cobicistat; emtricitabine; tenofovir alafenamide | Valid |
+| EMEA/H/C/004449 | Biktarvy | bictegravir; emtricitabine; tenofovir alafenamide; fumarate | Valid |
+| EMEA/H/C/004686 | Emtricitabine/Tenofovir disoproxil Krka d.d. | emtricitabine; tenofovir disoproxil succinate | Valid |
+| EMEA/H/C/006469 | Emtricitabine / Tenofovir alafenamide Viatris | emtricitabine; tenofovir alafenamide fumarate | Valid |
+| EMEA/H/C/006491 | Emtricitabine / Rilpivirine / Tenofovir Alafenamide Viatris | emtricitabine; rilpivirine hydrochloride; tenofovir alafenamide fumarate | Valid |
+| EMEA/H/C/000797 | Atripla | efavirenz; emtricitabine; tenofovir disoproxil fumarate | Withdrawn |
 
 ## Safety Considerations
 
@@ -113,7 +131,7 @@ Label warnings and contraindications were not available in the data compiled for
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, SIV infection, is an animal disease supported only by preclinical macaque studies, with no registered clinical trials, so it is not a human repurposing opportunity. The most plausible human-relevant candidates (AIDS related complex and congenital HIV) overlap the approved HIV-1 indication. The only EU authorization (Emtriva) is cancelled.
+The top prediction, SIV infection, is an animal disease supported only by preclinical macaque studies, with no registered clinical trials, so it is not a human repurposing opportunity. The most plausible human-relevant candidates (AIDS related complex and congenital HIV) overlap the approved HIV-1 indication.
 
 **To proceed, the following is needed:**
 - Clarify whether the objective is a human indication or use of SIV/SHIV models as a translational proxy for HIV prevention research

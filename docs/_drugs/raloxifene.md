@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 504
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Raloxifene: predicted new indication duodenal ulcer (disease) (evidence level L5). Approved use: Treatment and prevention of osteoporosis in postmenopausal women"
 monitor_inn: "Raloxifene"
 predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
@@ -69,13 +69,11 @@ Currently no related literature available for duodenal ulcer.
 
 ## EU Market Information
 
-All three authorizations are valid, and the drug is marketed.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001075 | Raloxifene Teva | Not specified | Treatment and prevention of osteoporosis in postmenopausal women. A significant reduction in the incidence of vertebral, but not hip... |
-| EMEA/H/C/000185 | Optruma | Not specified | Treatment and prevention of osteoporosis in post-menopausal women. A significant reduction in the incidence of vertebral, but not hip... |
-| EMEA/H/C/000184 | Evista | Not specified | Treatment and prevention of osteoporosis in post-menopausal women. A significant reduction in the incidence of vertebral, but not hip... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000184 | Evista | raloxifene hydrochloride | Valid |
+| EMEA/H/C/001075 | Raloxifene Teva | raloxifene hydrochloride | Valid |
+| EMEA/H/C/000185 | Optruma | raloxifene hydrochloride | Withdrawn |
 
 ## Safety Considerations
 
@@ -90,7 +88,7 @@ Please refer to the SmPC for the full warnings and contraindications, as label-l
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a TxGNN model (deep learning) score, with no clinical trials, no literature and no plausible mechanistic link to duodenal ulcer. The product is marketed, with 3 valid licences out of 3. The other nine predicted indications are likewise L5 and are at best loosely linked, for example lipid disorders. The closest, pregnancy-associated osteoporosis, applies to a population in which raloxifene is not suitable.
+The prediction is supported only by a TxGNN model (deep learning) score, with no clinical trials, no literature and no plausible mechanistic link to duodenal ulcer. The other nine predicted indications are likewise L5 and are at best loosely linked, for example lipid disorders. The closest, pregnancy-associated osteoporosis, applies to a population in which raloxifene is not suitable.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for raloxifene (currently missing) and a defined biological rationale for duodenal ulcer

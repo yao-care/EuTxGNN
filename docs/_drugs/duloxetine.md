@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 203
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Duloxetine: predicted new indication Top-ranked by TxGNN: benign paroxysmal torticollis of infancy . Best-… (evidence level L5). Approved use: Major depressive disorder, diabetic peripheral neuropath…"
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
@@ -52,8 +52,8 @@ This report covers the top-ranked prediction and the most evidence-supported one
 | Predicted New Indication | Top-ranked by TxGNN: benign paroxysmal torticollis of infancy (no evidence). Best-supported: obsessive-compulsive disorder (rank 3) |
 | TxGNN Prediction Score | 0.9985 (top-ranked); 0.9984 (OCD) |
 | Evidence Level | L5 for the top-ranked prediction; L2 for OCD |
-| EU Market Status | Marketed (valid licences: 5 of 5) |
-| Number of Authorizations | 5 (valid: 5) |
+| EU Market Status | Marketed (valid licences: 5 of 8) |
+| Number of Authorizations | 8 (valid: 5) |
 | Recommended Decision | Hold for the top-ranked prediction; Proceed with Guardrails for OCD (as a research question) |
 
 ---
@@ -107,13 +107,16 @@ For agoraphobia, indirect support comes from open-label work in panic disorder (
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000545 | Yentreve (valid) | Not specified | Moderate to severe stress urinary incontinence (SUI) in women |
-| EMEA/H/C/000572 | Cymbalta (valid) | Not specified | Major depressive disorder, diabetic peripheral neuropathic pain, generalised anxiety disorder (adults) |
-| EMEA/H/C/004000 | Duloxetine Lilly (valid) | Not specified | Major depressive disorder, diabetic peripheral neuropathic pain, generalised anxiety disorder (adults) |
-| EMEA/H/C/003981 | Duloxetine Viatris, previously Duloxetine Mylan (valid) | Not specified | Major depressive disorder, diabetic peripheral neuropathic pain, generalised anxiety disorder (adults) |
-| EMEA/H/C/003935 | Duloxetine Zentiva (valid) | Not specified | Depressive disorder, diabetic neuropathic pain, anxiety disorder (adults) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000545 | Yentreve | duloxetine hydrochloride | Valid |
+| EMEA/H/C/000572 | Cymbalta | duloxetine | Valid |
+| EMEA/H/C/003935 | Duloxetine Zentiva | duloxetine | Valid |
+| EMEA/H/C/003981 | Duloxetine Viatris | duloxetine | Valid |
+| EMEA/H/C/004000 | Duloxetine Lilly | duloxetine | Valid |
+| EMEA/H/C/000552 | Ariclaim | duloxetine | Withdrawn |
+| EMEA/H/C/000573 | Nodetrip | duloxetine | Withdrawn |
+| EMEA/H/C/001007 | Duloxetine Boehringer Ingelheim | duloxetine | Withdrawn |
 
 ---
 
@@ -136,13 +139,12 @@ Please refer to the SmPC for label warnings and contraindications.
 
 **Rationale:**
 - The top-ranked prediction has a very high model score but no trials, no literature and no plausible mechanism, so it should not advance.
-- OCD has a double-blind controlled trial, open-label studies and a completed Phase 4 trial, but all are small and heterogeneous. SSRIs and clomipramine remain first-line, and there is no Phase 3 confirmation. All five licences are currently valid.
+- OCD has a double-blind controlled trial, open-label studies and a completed Phase 4 trial, but all are small and heterogeneous. SSRIs and clomipramine remain first-line, and there is no Phase 3 confirmation.
 
 **To proceed, the following is needed:**
 - Adequately powered, controlled (ideally Phase 3) trials of duloxetine in OCD, particularly in SSRI-resistant patients
 - Mechanism of action data to support the mechanistic-link analysis
 - EU label warnings and contraindications (SmPC) to complete safety screening
-- Clarification of the regulatory and market situation, given that the drug is marketed and all five licences are valid
 - A safety monitoring plan covering the knowledge-graph contraindications and major drug interactions listed above
 ## Disclaimer
 

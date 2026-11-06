@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Eftrenonacog alfa"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Eftrenonacog Alfa: predicted new indication pseudo-von Willebrand disease (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia B…"
 ---
 
@@ -69,9 +69,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004142 | Alprolix | Not recorded | Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency). |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004142 | Alprolix | eftrenonacog alfa | Valid |
 
 ## Safety Considerations
 

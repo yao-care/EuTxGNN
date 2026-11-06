@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 517
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Remimazolam: predicted new indication Insomnia (evidence level L5). Approved use: Procedural sedation in adults"
 monitor_inn: "remimazolam"
 predicted_indications: ["insomnia (disease)", "alcohol withdrawal delirium"]
@@ -73,9 +73,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005246 (cancelled) | Byfavo | Not specified | Remimazolam is indicated in adults for procedural sedation. Remimazolam 50 mg is indicated in adults for intravenous induction and maintenance of general... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005246 | Byfavo | remimazolam besilate | Valid |
 
 ## Safety Considerations
 

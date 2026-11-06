@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 542
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ruxolitinib: predicted new indication Uterine corpus perivascular epithelioid cell tumor (evidence level L5). Approved use: Myelofibrosis (disease-related splenomegaly or symptoms)…"
 monitor_inn: "Ruxolitinib"
 predicted_indications: ["uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lymphangioleiomyomatosis", "liposarcoma", "familial rhabdoid tumor", "lung PEComa", "ovarian myxoid liposarcoma", "hemophagocytic syndrome associated with an infection", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **uterine corpus perivascular e
 | Predicted New Indication | Uterine corpus perivascular epithelioid cell tumor |
 | TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -69,10 +69,11 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002464 (cancelled) | Jakavi | Not specified | Myelofibrosis (MF)Jakavi is indicated for the treatment of disease related splenomegaly or symptoms in adult pa... |
-| EMEA/H/C/005843 (cancelled) | Opzelura | Not specified | Opzelura is indicated for the treatment of non-segmental vitiligo with facial involvement in adults and adolesc... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002464 | Jakavi | ruxolitinib phosphate | Valid |
+| EMEA/H/C/005843 | Opzelura | ruxolitinib | Valid |
+| EMEA/H/C/006618 | Ruxolitinib Viatris | ruxolitinib hemifumarate | Valid |
 
 ## Safety Considerations
 
@@ -87,7 +88,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a TxGNN model (deep learning) score alone, with no trials, no literature, and a mechanism (mTOR-driven PEComa) that does not point to JAK inhibition. Both EU authorisations are currently valid.
+The prediction rests on a TxGNN model (deep learning) score alone, with no trials, no literature, and a mechanism (mTOR-driven PEComa) that does not point to JAK inhibition.
 
 **To proceed, the following is needed:**
 - Preclinical evidence of JAK/STAT involvement in PEComa, or any clinical report of ruxolitinib use in this tumour

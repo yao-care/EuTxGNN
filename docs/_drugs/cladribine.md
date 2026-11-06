@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 151
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Cladribine: predicted new indication Parameningeal embryonal rhabdomyosarcoma (evidence level L5). Approved use: Treatment of adult patients with highly active relapsing multiple scl…"
 monitor_inn: "Cladribine"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "liver sarcoma"]
@@ -74,10 +74,10 @@ Among the lower-ranked predictions, the only publication found is PMID [15241520
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004230 | Mavenclad | Not specified | Treatment of adult patients with highly active relapsing multiple sclerosis (MS) as defined by clinical or imaging features. |
-| EMEA/H/C/000504 | Litak | Not specified | Litak is indicated for the treatment of hairy-cell leukaemia. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000504 | Litak | cladribine | Valid |
+| EMEA/H/C/004230 | Mavenclad | cladribine | Valid |
 
 Both authorizations are listed as cancelled in the data compiled for this report.
 

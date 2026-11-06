@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Apixaban"
 predicted_indications: ["migraine disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Apixaban: predicted new indication migraine disorder (evidence level L5). Approved use: Treatment of venous thromboembolism (VTE) and prevention of recurrent…"
 ---
 
@@ -76,10 +76,10 @@ However, nothing shows that apixaban acts on core migraine pathophysiology such 
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002148 | Eliquis | Not recorded | Treatment of venous thromboembolism (VTE) and prevention of recurrent VTE in paediatric patients from 28 days to less than 18 years of age. Adults Prevention of venous thromboembolic events (VTE)... |
-| EMEA/H/C/005358 | Apixaban Accord | Not recorded | Adults Prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation (NVAF), with one or more risk factors, such as... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002148 | Eliquis | apixaban | Valid |
+| EMEA/H/C/005358 | Apixaban Accord | apixaban | Valid |
 
 ## Safety Considerations
 

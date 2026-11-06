@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Cetuximab"
 predicted_indications: ["chondroid hamartoma", "ductal or ductular proliferation", "non-seminomatous lesion", "bronchial adenomas/carcinoids childhood", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "cystic neoplasm", "epiglottis neoplasm", "pre-malignant neoplasm"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Cetuximab: predicted new indication Chondroid hamartoma (evidence level L5). Approved use: EGFR-expressing, RAS wild-type metastatic colorectal cancer"
 ---
 
@@ -70,9 +70,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorisation Number | Product Name | Approved Indication |
-|---------|------|-----------|
-| EMEA/H/C/000558 | Erbitux | EGFR-expressing, RAS wild-type metastatic colorectal cancer (with irinotecan-based chemotherapy, first-line with FOLFOX, or as a single agent after failure of oxaliplatin- and irinotecan-based therapy)... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000558 | Erbitux | cetuximab | Valid |
 
 The same authorisation also covers squamous cell cancer of the head and neck: in combination with radiation therapy for locally advanced disease, and with platinum-based chemotherapy for recurrent and/or metastatic disease.
 

@@ -5,7 +5,7 @@ layout: default
 title: Elexacaftor
 parent: Known Uses Only (No New Predictions)
 nav_order: 215
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Elexacaftor: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Elexacaftor"
 predicted_indications: []
@@ -50,9 +50,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005269 (status: cancelled) | Kaftrio | Tablets and granules | Kaftrio tablets are indicated in a combination regimen with ivacaftor for the treatment of cystic fibrosis (CF) in patients aged 6 years and older who have at least one non-Class I mutation in the... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005269 | Kaftrio | ivacaftor; tezacaftor; elexacaftor | Valid |
 
 ---
 

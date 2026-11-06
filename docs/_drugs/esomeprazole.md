@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Esomeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Esomeprazole: predicted new indication duodenal obstruction (evidence level L5). Approved use: Nexium Control is indicated for the short-term treatment of reflux sy…"
 ---
 
@@ -69,9 +69,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002618 | Nexium Control | Not recorded | Short-term treatment of reflux symptoms (e.g. heartburn and acid regurgitation) in adults |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002618 | Nexium Control | esomeprazole | Valid |
 
 The EU authorization record for this single-ingredient product is marked as cancelled in the compiled licence list, while the overall market status is recorded as marketed.
 

@@ -5,7 +5,7 @@ layout: default
 title: Amikacin Sulfate
 parent: Known Uses Only (No New Predictions)
 nav_order: 45
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,6 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |------|---------|
 | Original Indication | Arikayce liposomal is indicated for the treatment of non-tuberculous mycobacterial (NTM) lung infections caused by Mycobacterium avium Complex (MAC) in adults with limited treatment options who do not have cystic fibrosis. |
 | EU Market Status | Marketed (valid licences: 1 of 1) |
-| Market Status (Taiwan) | Not marketed |
 | Number of Authorizations | 1 (valid: 1) |
 
 ---

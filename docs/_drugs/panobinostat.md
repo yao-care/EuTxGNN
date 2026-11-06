@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 464
 evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Panobinostat: predicted new indication Myeloid leukemia (evidence level L2). Approved use: Relapsed and/or refractory multiple myeloma (with bortezomib and dexa…"
 monitor_inn: "panobinostat"
 predicted_indications: ["myeloid leukemia"]
@@ -108,9 +108,9 @@ The table lists the 10 most relevant of the 17 trials compiled.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003725 (cancelled) | Farydak | Not specified | In combination with bortezomib and dexamethasone for adults with relapsed and/or refractory multiple myeloma who have received at least two prior regimens including bortezomi... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003725 | Farydak | panobinostat lactate anhydrous | Valid |
 
 ---
 
@@ -144,7 +144,7 @@ For warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The evidence is L2: several completed Phase 1/2 trials of panobinostat in AML/MDS, but no completed randomised Phase 3 evidence. The only Phase 3 trial (NCT04326764) was terminated after 52 patients. The EU authorisation has been cancelled, so no marketed product is currently available. The label safety data (warnings and contraindications) could not be retrieved, so safety screening cannot proceed. The high TxGNN score (0.9970) is a prediction only and does not change this assessment.
+The evidence is L2: several completed Phase 1/2 trials of panobinostat in AML/MDS, but no completed randomised Phase 3 evidence. The only Phase 3 trial (NCT04326764) was terminated after 52 patients. The label safety data (warnings and contraindications) could not be retrieved, so safety screening cannot proceed. The high TxGNN score (0.9970) is a prediction only and does not change this assessment.
 
 **To proceed, the following is needed:**
 - Retrieve and parse the SmPC (warnings and contraindications) to complete safety screening

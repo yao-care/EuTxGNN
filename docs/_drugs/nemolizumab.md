@@ -5,7 +5,7 @@ layout: default
 title: Nemolizumab
 parent: Known Uses Only (No New Predictions)
 nav_order: 423
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Nemolizumab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Nemolizumab"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006149 | Nemluvio | Not specified | Atopic dermatitis: moderate-to-severe, patients aged 12 years and older who are candidates for systemic therapy. Prurigo nodularis: moderate-to-severe, adults who are candidates for systemic therapy. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/006149 | Nemluvio | nemolizumab | Valid |
 
 The only EU authorization is listed with a cancelled status.
 

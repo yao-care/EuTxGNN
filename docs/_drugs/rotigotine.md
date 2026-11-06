@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 538
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Rotigotine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Parkinson's disease (early to late stage…"
 monitor_inn: "Rotigotine"
 predicted_indications: ["attention deficit-hyperactivity disorder", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "faciodigitogenital syndrome", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "atypical glycine encephalopathy", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 (model prediction with no direct studies; the data compiled for this report lists L4 because of the mechanistic papers) |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -77,9 +77,10 @@ None of these studies tested rotigotine in ADHD.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000626 (cancelled) | Neupro | Not specified | Parkinson's disease: Neupro is indicated for the treatment of the signs and symptoms of early-stage idiopathic Parkinson's disease as monotherapy... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000626 | Neupro | rotigotine | Valid |
+| EMEA/H/C/002380 | Leganto | rotigotine | Withdrawn |
 
 ## Safety Considerations
 

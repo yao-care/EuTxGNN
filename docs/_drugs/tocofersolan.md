@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 625
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Tocofersolan: predicted new indication amenorrhea (disease) (evidence level L5). Approved use: Vitamin E deficiency due to digestive malabsorption in paediatric pat…"
 monitor_inn: "Tocofersolan"
 predicted_indications: ["amenorrhea (disease)", "acne (disease)"]
@@ -69,9 +69,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000920 (cancelled) | Vedrop | Not specified | Vitamin E deficiency due to digestive malabsorption in paediatric patients suffering from congenital chronic cholestasis or hereditary chronic cholestasis, from birth (in term newborns) to 16 or 1... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000920 | Vedrop | tocofersolan | Valid |
 
 ## Safety Considerations
 

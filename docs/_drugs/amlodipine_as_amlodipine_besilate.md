@@ -7,7 +7,7 @@ parent: AI Predictions (L5)
 nav_order: 47
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -50,8 +50,8 @@ Amlodipine (as amlodipine besilate) is a dihydropyridine calcium channel blocker
 | Predicted New Indication | Not yet available |
 | TxGNN Prediction Score | Not yet available |
 | Evidence Level | N/A — pipeline has not returned predictions |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 8 of 12) |
+| Number of Authorizations | 12 (valid: 8) |
 | Recommended Decision | Hold |
 
 > ⚠️ **Market Status Note:** Amlodipine is a globally off-patent drug available in most major markets including the EU. A result of "0 authorizations" strongly suggests a data query issue rather than a genuine absence from the market. This field should be re-verified before any regulatory decision is made.
@@ -87,10 +87,8 @@ This evidence pack is structurally incomplete — the `predicted_indications` ar
 
 **To proceed, the following is needed:**
 
-- **[DG001 — Blocking]** Obtain TFDA package insert warnings and contraindications: download SmPC PDF from the TFDA official website and parse the relevant sections
 - **[DG002 — High]** Retrieve mechanism of action (MOA) from DrugBank API using the INN `amlodipine` (note: the current evidence pack records `drugbank_id: null` — DrugBank lookup by name may be needed)
 - **Re-run TxGNN prediction pipeline** after resolving the above gaps to generate predicted indications
-- **Verify EU market authorization status** — query the EMA product database directly for amlodipine; the current "0 authorizations" result is inconsistent with known market reality and likely reflects a lookup failure
 - Once predictions are available, re-generate this report using a complete evidence pack
 ## Disclaimer
 

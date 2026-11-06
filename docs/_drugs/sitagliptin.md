@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 566
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Sitagliptin: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 3 |
 | Evidence level | Not applicable |
-| EU Market Status | Marketed (valid licences: 6 of 6) |
-| Number of Authorizations | 6 (valid: 6) |
+| EU Market Status | Marketed (valid licences: 13 of 14) |
+| Number of Authorizations | 14 (valid: 13) |
 
 ## Known uses recorded for this drug
 
@@ -73,14 +73,22 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/000722 | Januvia |  | Valid |
-| EMEA/H/C/000762 | Xelevia |  | Valid |
-| EMEA/H/C/005598 | Sitagliptin Accord |  | Valid |
-| EMEA/H/C/001234 | Ristaben |  | Valid |
-| EMEA/H/C/000910 | Tesavel |  | Valid |
-| EMEA/H/C/005741 | Sitagliptin SUN |  | Valid |
+| EMEA/H/C/000722 | Januvia | sitagliptin | Valid |
+| EMEA/H/C/000762 | Xelevia | sitagliptin | Valid |
+| EMEA/H/C/000910 | Tesavel | sitagliptin | Valid |
+| EMEA/H/C/001234 | Ristaben | sitagliptin | Valid |
+| EMEA/H/C/005598 | Sitagliptin Accord | sitagliptin hydrochloride | Valid |
+| EMEA/H/C/005741 | Sitagliptin SUN | sitagliptin fumarate | Valid |
+| EMEA/H/C/000861 | Janumet | sitagliptin; metformin hydrochloride | Valid |
+| EMEA/H/C/000862 | Velmetia | sitagliptin; metformin hydrochloride | Valid |
+| EMEA/H/C/000896 | Efficib | sitagliptin; metformin hydrochloride | Valid |
+| EMEA/H/C/001235 | Ristfor | sitagliptin; metformin hydrochloride | Valid |
+| EMEA/H/C/004313 | Steglujan | ertugliflozin l-pyroglutamic acid; sitagliptin phosphate monohydrate | Valid |
+| EMEA/H/C/005678 | Sitagliptin / Metformin hydrochloride Mylan | sitagliptin hydrochloride monohydrate; metformin hydrochloride | Valid |
+| EMEA/H/C/005778 | Sitagliptin / Metformin hydrochloride Sun | sitagliptin fumarate; metformin hydrochloride | Valid |
+| EMEA/H/C/005850 | Sitagliptin / Metformin hydrochloride Accord | metformin hydrochloride; sitagliptin hydrochloride monohydrate | Lapsed |
 
 ## Safety Considerations
 

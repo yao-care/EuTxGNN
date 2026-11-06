@@ -5,7 +5,7 @@ layout: default
 title: Concizumab
 parent: Known Uses Only (No New Predictions)
 nav_order: 159
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Concizumab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Concizumab"
 predicted_indications: []
@@ -50,11 +50,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005938 | Alhemo | Not specified | Routine prophylaxis of bleeding in patients 12 years of age or more with haemophilia A (with FVIII inhibitors; or severe without inhibitors) and haemophilia B (with FIX inhibitors; or moderate/severe without inhibitors)... |
-
-The only EU authorization is listed as cancelled in the compiled data.
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005938 | Alhemo | concizumab | Valid |
 
 ---
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 589
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Tasonermin: predicted new indication Prostatic urethra urothelial carcinoma (evidence level L5). Approved use: Adjunct to surgery to prevent or delay amputation…"
 monitor_inn: "Tasonermin"
 predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "HER2 positive breast carcinoma", "uterine ligament adenocarcinoma", "endocervical carcinoma", "uterine ligament serous adenocarcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament clear cell adenocarcinoma"]
@@ -74,9 +74,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000206 (cancelled) | Beromun | Not specified | Adjunct to surgery for subsequent removal of the tumour so as to prevent or delay amputation, or in the palliative situation, for irresect... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000206 | Beromun | tasonermin | Valid |
 
 ## Cytotoxicity
 

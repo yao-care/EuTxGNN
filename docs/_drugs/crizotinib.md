@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Crizotinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Crizotinib: predicted new indication Gingival fibromatosis (fibromatosis, gingival) (evidence level L5). Approved use: Xalkori as monotherapy is indicated for: The first line treatment of…"
 ---
 
@@ -70,9 +70,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002489 | Xalkori | Not recorded | ALK-positive advanced non-small cell lung cancer (first-line and previously treated), ROS1-positive advanced NSCLC, paediatric ALK-positive ALCL and IMT... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002489 | Xalkori | crizotinib | Valid |
 
 ## Cytotoxicity
 

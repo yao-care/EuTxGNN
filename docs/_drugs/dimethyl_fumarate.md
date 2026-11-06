@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 192
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Dimethyl Fumarate: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 3 |
 | Evidence level | Not applicable |
-| EU Market Status | Marketed (valid licences: 5 of 5) |
-| Number of Authorizations | 5 (valid: 5) |
+| EU Market Status | Marketed (valid licences: 5 of 10) |
+| Number of Authorizations | 10 (valid: 5) |
 
 ## Known uses recorded for this drug
 
@@ -73,13 +73,18 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/002157 | Skilarence |  | Valid |
-| EMEA/H/C/006397 | Dimethyl fumarate Mylan |  | Valid |
-| EMEA/H/C/006500 | Dimethyl fumarate Neuraxpharm |  | Valid |
-| EMEA/H/C/006471 | Dimethyl fumarate Accord |  | Valid |
-| EMEA/H/C/002601 | Tecfidera |  | Valid |
+| EMEA/H/C/002157 | Skilarence | dimethyl fumarate | Valid |
+| EMEA/H/C/002601 | Tecfidera | dimethyl fumarate | Valid |
+| EMEA/H/C/006397 | Dimethyl fumarate Mylan | dimethyl fumarate | Valid |
+| EMEA/H/C/006471 | Dimethyl fumarate Accord | dimethyl fumarate | Valid |
+| EMEA/H/C/006500 | Dimethyl fumarate Neuraxpharm | dimethyl fumarate | Valid |
+| EMEA/H/C/005950 | Dimethyl fumarate Accord | dimethyl fumarate | Revoked |
+| EMEA/H/C/005955 | Dimethyl fumarate Polpharma | dimethyl fumarate | Revoked |
+| EMEA/H/C/005956 | Dimethyl fumarate Mylan | dimethyl fumarate | Revoked |
+| EMEA/H/C/005963 | Dimethyl fumarate Teva | dimethyl fumarate | Revoked |
+| EMEA/H/C/006039 | Dimethyl fumarate Neuraxpharm | dimethyl fumarate | Revoked |
 
 ## Safety Considerations
 

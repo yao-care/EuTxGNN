@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 394
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "mercaptopurine"
 predicted_indications: ["myeloid leukemia", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
 description: "Mercaptopurine: predicted new indication Myeloid leukemia (evidence level L3). Approved use: Xaluprine is indicated for the treatment of acute lymphoblastic leuka…"
@@ -107,9 +107,9 @@ Most registered trials below are multi-agent protocols in which mercaptopurine's
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002022 (status: cancelled) | Xaluprine (previously Mercaptopurine Nova Laboratories) | Not specified | Treatment of acute lymphoblastic leukaemia (ALL) in adults, adolescents and children |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002022 | Xaluprine | 6-mercaptopurine monohydrate | Valid |
 
 ---
 

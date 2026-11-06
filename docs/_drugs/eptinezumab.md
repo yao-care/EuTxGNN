@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 234
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Eptinezumab: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,9 +72,9 @@ All candidates that the TxGNN model produced for Eptinezumab and that can be tra
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/005287 | Vyepti |  | Valid |
+| EMEA/H/C/005287 | Vyepti | Eptinezumab | Valid |
 
 ## Safety Considerations
 

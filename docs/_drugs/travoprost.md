@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 638
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Travoprost: predicted new indication Visceral calciphylaxis (evidence level L5). Approved use: Decrease of elevated intraocular pressure in adult patients with ocul…"
 monitor_inn: "Travoprost"
 predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
@@ -50,8 +50,8 @@ The prediction rests on the model score alone.
 | Predicted New Indication | Visceral calciphylaxis |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -101,10 +101,11 @@ None of these tests travoprost for a non-ocular vascular condition.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000390 (cancelled) | Travatan | Not specified | Decrease of elevated intraocular pressure in adult patients with ocular hypertension or open-angle glaucoma (see section 5.1). Decrease of elevated intraocular p... |
-| EMEA/H/C/002738 (cancelled) | Izba | Not specified | Decrease of elevated intraocular pressure in adult patients with ocular hypertension or open-angle glaucoma (see section 5.1). Decrease of elevated intraocular p... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000390 | Travatan | travoprost | Valid |
+| EMEA/H/C/002738 | Izba | travoprost | Valid |
+| EMEA/H/C/000665 | DuoTrav | travoprost; timolol | Valid |
 
 ## Safety Considerations
 

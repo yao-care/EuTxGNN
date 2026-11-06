@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 459
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Palbociclib"
 predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
 description: "Palbociclib: predicted new indication Hyperthyroidism (evidence level L5). Approved use: Ibrance is indicated for the treatment of hormone receptor (HR) posit…"
@@ -51,8 +51,8 @@ Other predictions have more support, notably **myeloid leukemia** (4 registered 
 | Predicted New Indication | Hyperthyroidism |
 | TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -73,7 +73,6 @@ Among the ten predictions, three are worth noting:
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered for hyperthyroidism.
-
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -104,11 +103,10 @@ For reference, selected publications for the alternative predictions:
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003853 | Ibrance | Not specified | Ibrance is indicated for the treatment of hormone receptor (HR) positive, human epidermal growth factor receptor 2 (HER2) negative locally advanced or metastatic breast cancer:  in comb... |
-
-The authorization is recorded as cancelled.
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003853 | Ibrance | Palbociclib | Valid |
+| EMEA/H/C/006624 | Palbociclib Viatris | Palbociclib | Valid |
 
 ---
 
@@ -138,7 +136,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The hyperthyroidism prediction has no clinical, literature or mechanistic support. Its score is a computational artifact only (Level L5). The EU authorization is also recorded as cancelled, which limits near-term regulatory pathways.
+The hyperthyroidism prediction has no clinical, literature or mechanistic support. Its score is a computational artifact only (Level L5).
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a mechanistic rationale linking CDK4/6 inhibition to thyroid hormone excess

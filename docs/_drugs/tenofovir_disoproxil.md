@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 601
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Tenofovir disoproxil"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 description: "Tenofovir Disoproxil: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV?1 infection Tenofovir disoproxil Zentiva is indicated in combinat…"
@@ -52,8 +52,8 @@ but there are **no registered clinical trials** and only **1 publication**, a ve
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 14 of 15) |
+| Number of Authorizations | 15 (valid: 14) |
 | Recommended Decision | Hold |
 
 ---
@@ -84,11 +84,23 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Approved Indication |
-|---------|------|-----------|
-| EMEA/H/C/004120 (cancelled) | Tenofovir disoproxil Zentiva | HIV-1 infection in combination with other antiretroviral medicinal products, for treatment of HIV-1 infected adults. In adults, the demonstrat... |
-| EMEA/H/C/004049 (cancelled) | Tenofovir disoproxil Viatris (previously Tenofovir disoproxil Mylan) | HIV-1 infection Tenofovir disoproxil 245 mg film-coated tablets are indicated in combination with other ant... |
-| EMEA/H/C/000419 (cancelled) | Viread | HIV-1 infection Viread 123 mg film coated tablets are indicated in combination with other antiretroviral me... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000419 | Viread | tenofovir disoproxil fumarate | Valid |
+| EMEA/H/C/004049 | Tenofovir disoproxil Viatris | tenofovir disoproxil | Valid |
+| EMEA/H/C/004120 | Tenofovir disoproxil Zentiva | tenofovir disoproxil phosphate | Valid |
+| EMEA/H/C/000594 | Truvada | emtricitabine; tenofovir disoproxil fumarate | Valid |
+| EMEA/H/C/002312 | Eviplera | emtricitabine; rilpivirine hydrochloride; tenofovir disoproxil fumarate | Valid |
+| EMEA/H/C/002574 | Stribild | elvitegravir; cobicistat; emtricitabine; tenofovir disoproxil fumarate | Valid |
+| EMEA/H/C/004050 | Emtricitabine/Tenofovir disoproxil Mylan | emtricitabine; tenofovir disoproxil maleate | Valid |
+| EMEA/H/C/004137 | Emtricitabine/Tenofovir disoproxil Zentiva | emtricitabine; tenofovir disoproxil phosphate | Valid |
+| EMEA/H/C/004215 | Emtricitabine/Tenofovir disoproxil Krka | emtricitabine; tenofovir disoproxil succinate | Valid |
+| EMEA/H/C/004240 | Efavirenz/Emtricitabine/Tenofovir disoproxil Mylan | efavirenz; emtricitabine; tenofovir disoproxil maleate | Valid |
+| EMEA/H/C/004250 | Efavirenz/Emtricitabine/Tenofovir disoproxil Zentiva | efavirenz; emtricitabine; tenofovir disoproxil phosphate | Valid |
+| EMEA/H/C/004274 | Efavirenz/Emtricitabine/Tenofovir disoproxil Krka | efavirenz; emtricitabine; tenofovir disoproxil succinate | Valid |
+| EMEA/H/C/004686 | Emtricitabine/Tenofovir disoproxil Krka d.d. | emtricitabine; tenofovir disoproxil succinate | Valid |
+| EMEA/H/C/004746 | Delstrigo | doravirine; lamivudine; tenofovir disoproxil fumarate | Valid |
+| EMEA/H/C/000797 | Atripla | efavirenz; emtricitabine; tenofovir disoproxil fumarate | Withdrawn |
 
 ---
 

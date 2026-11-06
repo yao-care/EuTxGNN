@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 483
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Pertuzumab"
 predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
 description: "Pertuzumab: predicted new indication Ectomesenchymoma (evidence level L5). Approved use: Metastatic Breast Cancer: Perjeta is indicated for use in combination…"
@@ -49,8 +49,8 @@ This is best understood as a subpopulation of the already approved HER2-positive
 | Predicted New Indication | Ectomesenchymoma |
 | TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -58,7 +58,6 @@ This is best understood as a subpopulation of the already approved HER2-positive
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, pertuzumab binds HER2 and blocks its heterodimerization with partners such as HER3 and EGFR. It is additive with trastuzumab, and its efficacy in HER2-positive breast cancer is established.
 
 HER2-positive tumors that also express PR (HR+/HER2+) are covered by this mechanism. Crosstalk between HER2 and hormone receptor signaling supports combining anti-HER2 therapy with endocrine therapy, as tested in the WSG-TP-II trial. The prediction is therefore reasonable only for the HER2-positive subset of PR-positive disease. Most PR-positive breast cancers are HER2-negative, and for them there is no clear mechanistic rationale.
-
 
 ## Clinical Trial Evidence
 
@@ -83,9 +82,11 @@ HER2-positive tumors that also express PR (HR+/HER2+) are covered by this mechan
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002547 (cancelled) | Perjeta | Not specified | Metastatic breast cancer: in combination with trastuzumab and docetaxel in adult patients with HER2-positive metastatic or locally recurrent... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002547 | Perjeta | pertuzumab | Valid |
+| EMEA/H/C/006583 | Poherdy | pertuzumab | Valid |
+| EMEA/H/C/005386 | Phesgo | pertuzumab; trastuzumab | Valid |
 
 ## Cytotoxicity
 
@@ -113,7 +114,7 @@ A completed Phase 3 trial and multiple randomized studies, including NeoSphere, 
 **To proceed, the following is needed:**
 - Confirmation of HER2-positive status as a mandatory eligibility criterion; PR status alone does not indicate benefit
 - Mechanism of action data and package insert warnings and contraindications (currently missing, and the missing safety data is a blocking gap for safety screening)
-- Clarification of EU regulatory status, since the only EU authorization on record is cancelled
+- Clarification of EU regulatory status
 - Cardiac safety monitoring plan for dual HER2 blockade combined with chemotherapy
 - Review of the other predictions: "normal breast-like subtype," "luminal A or B," and the non-breast tumors lack supporting trials or a clear HER2-based rationale, and should remain on Hold or be treated as research questions
 ## Disclaimer

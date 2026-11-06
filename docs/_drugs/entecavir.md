@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 229
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Entecavir: predicted new indication Chronic hepatitis C virus infection (evidence level L4). Approved use: Chronic hepatitis B virus (HBV) infection in adults with compensated…"
 monitor_inn: "Entecavir"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
@@ -98,11 +98,11 @@ The literature is centred on HBV and co-infection, and none of it shows entecavi
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004377 | Entecavir Viatris (previously Entecavir Mylan) | Not specified | Chronic HBV infection in adults with compensated or decompensated liver disease; also nucleoside-naive paediatric patients aged 2 to <18 years... |
-| EMEA/H/C/004458 | Entecavir Accord | Not specified | Chronic HBV infection in adults with compensated or decompensated liver disease; also nucleoside-naive paediatric patients aged 2 to <18 years... |
-| EMEA/H/C/000623 | Baraclude | Not specified | Chronic HBV infection in adults with compensated liver disease and active viral replication, or decompensated liver disease... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000623 | Baraclude | Entecavir | Valid |
+| EMEA/H/C/004377 | Entecavir Viatris | entecavir monohydrate | Valid |
+| EMEA/H/C/004458 | Entecavir Accord | Entecavir | Valid |
 
 All three authorizations are recorded as valid, which should be verified against the current register.
 

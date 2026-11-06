@@ -5,7 +5,7 @@ layout: default
 title: Blinatumomab
 parent: Known Uses Only (No New Predictions)
 nav_order: 98
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Blinatumomab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Blinatumomab"
 predicted_indications: []
@@ -50,9 +50,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003731 (cancelled) | Blincyto | Not specified | Monotherapy for CD19-positive relapsed or refractory B-cell precursor acute lymphoblastic leukaemia (ALL) in adults. Patients with Philadelphia chromosome-positive... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003731 | Blincyto | blinatumomab | Valid |
 
 ---
 

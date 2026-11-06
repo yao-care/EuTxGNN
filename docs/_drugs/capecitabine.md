@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Capecitabine: predicted new indication Gastric adenocarcinoma and proximal polyposis of the stomach (GAPPS) (evidence level L5). Approved use: Adjuvant treatment of stage III (Dukes' stage C) colon c…"
 ---
 
@@ -50,8 +50,8 @@ but the data compiled for this report contain **no clinical trials and no public
 | Predicted New Indication | Gastric adenocarcinoma and proximal polyposis of the stomach (GAPPS) |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 5 of 5) |
-| Number of Authorizations | 5 (valid: 5) |
+| EU Market Status | Marketed (valid licences: 5 of 6) |
+| Number of Authorizations | 6 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -70,13 +70,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002605 | Ecansya (previously Capecitabine Krka) | Not specified | Adjuvant stage III colon cancer, metastatic colorectal cancer, first-line advanced gastric cancer (with platinum), breast cancer... |
-| EMEA/H/C/002568 | Capecitabine Medac | Not specified | Adjuvant stage III colon cancer, metastatic colorectal cancer, first-line advanced gastric cancer (with platinum), breast cancer... |
-| EMEA/H/C/000316 | Xeloda | Not specified | Adjuvant stage III colon cancer, metastatic colorectal cancer, first-line advanced gastric cancer (with platinum), breast cancer... |
-| EMEA/H/C/002386 | Capecitabine Accord | Not specified | Adjuvant stage III colon cancer, metastatic colorectal cancer, first-line advanced gastric cancer (with platinum), breast cancer... |
-| EMEA/H/C/002362 | Capecitabine Teva | Not specified | Adjuvant stage III colon cancer, metastatic colorectal cancer, first-line advanced gastric cancer (with platinum), breast cancer... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000316 | Xeloda | capecitabine | Valid |
+| EMEA/H/C/002362 | Capecitabine Teva | capecitabine | Valid |
+| EMEA/H/C/002386 | Capecitabine Accord | capecitabine | Valid |
+| EMEA/H/C/002568 | Capecitabine Medac | capecitabine | Valid |
+| EMEA/H/C/002605 | Ecansya | capecitabine | Valid |
+| EMEA/H/C/002050 | Capecitabine SUN | capecitabine | Withdrawn |
 
 ## Cytotoxicity
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 58
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Aprepitant: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Prevention of postoperative nausea and vomiting (PONV) in adults"
 monitor_inn: "Aprepitant"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "hypertrichosis (disease)", "pulmonary hypertension", "leprosy", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "kyphoscoliotic heart disease", "syndrome with a Dandy-Walker malformation as major feature", "subarachnoid hemorrhage (disease)", "isolated genetic hair shaft abnormality"]
@@ -74,9 +74,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000527 (cancelled) | Emend | Not specified | Emend 40 mg hard capsules is indicated for the prevention of postoperative nausea and vomiting (PONV) in adults. Emend is also available as 80 mg and 125 m... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000527 | Emend | aprepitant | Valid |
 
 ## Safety Considerations
 
@@ -95,7 +95,7 @@ Please refer to the SmPC for warnings and precautions.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trial or literature support (evidence level L5). The proposed mechanism is speculative, because the cause of nephrogenic SIAD lies downstream of NK1 signalling. The EU authorization is also cancelled.
+The prediction has no clinical trial or literature support (evidence level L5). The proposed mechanism is speculative, because the cause of nephrogenic SIAD lies downstream of NK1 signalling.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data for aprepitant

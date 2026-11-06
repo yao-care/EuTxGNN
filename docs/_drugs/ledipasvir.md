@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 358
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Ledipasvir: predicted new indication Hepatitis B virus infection (evidence level L2). Approved use: Chronic hepatitis C (CHC) in adults and paediatric patients aged 3 ye…"
 monitor_inn: "Ledipasvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "chronic hepatitis B virus infection", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
@@ -99,9 +99,9 @@ Safety is a further concern. HBV reactivation during HCV direct-acting antiviral
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003850 (cancelled) | Harvoni | Not specified | Treatment of chronic hepatitis C (CHC) in adult and paediatric patients aged 3 years and above (see sections 4.2, 4.4 and 5.1). For hepatitis C... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003850 | Harvoni | ledipasvir; sofosbuvir | Valid |
 
 ---
 

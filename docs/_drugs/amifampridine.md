@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Amifampridine"
 predicted_indications: ["glaucoma", "acute intermittent porphyria"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Amifampridine: predicted new indication glaucoma (evidence level L5). Approved use: Symptomatic treatment of Lambert-Eaton myasthenic syndrome (LEMS) in…"
 ---
 
@@ -60,10 +60,10 @@ No established link was identified between this mechanism and the regulation of 
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005839 | Amifampridine SERB | Not recorded | Symptomatic treatment of Lambert-Eaton myasthenic syndrome (LEMS) in adults. |
-| EMEA/H/C/001032 | Firdapse (previously Zenas) | Not recorded | Symptomatic treatment of Lambert-Eaton myasthenic syndrome (LEMS) in adults. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001032 | Firdapse | amifampridine | Valid |
+| EMEA/H/C/005839 | Amifampridine SERB | amifampridine phosphate | Valid |
 
 ## Safety Considerations
 

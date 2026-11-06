@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 92
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Bexarotene"
 predicted_indications: ["primary cutaneous B-cell lymphoma", "lymphosarcoma"]
 description: "Bexarotene: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L5). Approved use: Targretin capsules are indicated for the treatment of skin manifestat…"
@@ -93,9 +93,9 @@ None of these publications tests bexarotene in primary cutaneous B-cell lymphoma
 
 Bexarotene is currently marketed in the EU, with one valid licence.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000326 | Targretin | Not specified | Targretin capsules are indicated for the treatment of skin manifestations of advanced stage cutaneous T-cell lymphoma (CTCL) patients refractory to at least one systemic treatment. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000326 | Targretin | bexarotene | Valid |
 
 ---
 

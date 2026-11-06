@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 71
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Avapritinib: predicted new indication Axial spondylometaphyseal dysplasia (evidence level L5). Approved use: Unresectable or metastatic gastrointestinal stromal tumour (GIST) wit…"
 monitor_inn: "Avapritinib"
 predicted_indications: ["axial spondylometaphyseal dysplasia", "bilateral parasagittal parieto-occipital polymicrogyria", "amyotrophic lateral sclerosis", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "amyotrohpic lateral sclerosis type 22", "lower motor neuron syndrome with late-adult onset", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome"]
@@ -64,10 +64,9 @@ The high TxGNN score (0.9992) therefore reflects a computational prediction only
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005208 | Ayvakyt | Not specified | Unresectable or metastatic gastrointestinal stromal tumour (GIST) AYVAKYT is indicated as monotherapy for the treatment of adult patients with... |
-
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005208 | Ayvakyt | avapritinib | Valid |
 
 ## Cytotoxicity
 
@@ -90,7 +89,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on the model score. There are no registered clinical trials or publications, and no plausible mechanistic link between KIT/PDGFRA inhibition and this skeletal dysplasia. The EU authorization is also listed as cancelled.
+The prediction rests only on the model score. There are no registered clinical trials or publications, and no plausible mechanistic link between KIT/PDGFRA inhibition and this skeletal dysplasia.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible biological rationale linking KIT/PDGFRA inhibition to the disease

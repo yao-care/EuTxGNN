@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 606
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Tezacaftor: predicted new indication HIV infectious disease (evidence level L5). Approved use: Cystic fibrosis (CF) in patients aged 6 years and older with specific…"
 monitor_inn: "Tezacaftor"
 predicted_indications: ["HIV infectious disease", "leprosy", "multiple endocrine neoplasia"]
@@ -70,11 +70,11 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004682 | Symkevi | Not specified | Cystic fibrosis in patients aged 6 years and older, homozygous for F508del or heterozygous with one of several listed residual-function mutations, in combination with ivacaftor tablets... |
-| EMEA/H/C/006382 | Alyftrek | Tablet | Cystic fibrosis in people aged 6 years and older with at least one non-Class I CFTR mutation |
-| EMEA/H/C/005269 | Kaftrio | Tablet, granules | Cystic fibrosis in patients aged 2 years and older with at least one non-Class I CFTR mutation, in combination with ivacaftor |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004682 | Symkevi | tezacaftor; ivacaftor | Valid |
+| EMEA/H/C/005269 | Kaftrio | ivacaftor; tezacaftor; elexacaftor | Valid |
+| EMEA/H/C/006382 | Alyftrek | deutivacaftor; tezacaftor; vanzacaftor calcium dihydrate | Valid |
 
 All three licences are valid, and the drug is marketed.
 

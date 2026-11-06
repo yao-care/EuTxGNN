@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 680
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Zanamivir: predicted new indication Pyelonephritis (evidence level L5). Approved use: Treatment of complicated and potentially life-threatening influenza A…"
 monitor_inn: "Zanamivir"
 predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
@@ -62,9 +62,9 @@ Pyelonephritis is a kidney infection caused predominantly by bacteria such as *E
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004102 (cancelled) | Dectova | Not specified | Treatment of complicated and potentially life-threatening influenza A or B virus infection in adult and paediatric patients (aged ≥6 months) when the patient's influenza virus is known or suspected to be resistant to... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004102 | Dectova | zanamivir | Valid |
 
 ## Safety Considerations
 
@@ -78,7 +78,7 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on the TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. Zanamivir acts on viral neuraminidase and has no known antibacterial activity, and no clinical trials or relevant publications support its use in pyelonephritis. The EU authorization is also cancelled.
+The prediction rests only on the TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. Zanamivir acts on viral neuraminidase and has no known antibacterial activity, and no clinical trials or relevant publications support its use in pyelonephritis.
 
 **To proceed, the following is needed:**
 - Any preclinical evidence of activity against uropathogenic bacteria or a relevant mechanism

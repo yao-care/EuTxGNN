@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 395
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L5). Approved use: Complicated urinary tract infection (cUTI) including pyelonephritis…"
 monitor_inn: "Meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "Ureaplasma urethritis", "gonococcal urethritis"]
@@ -113,9 +113,9 @@ For the related cUTI indication, higher-quality evidence exists:
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004669 | Vaborem | Not specified | Complicated UTI including pyelonephritis, complicated intra-abdominal infection, hospital-acquired pneumonia including VAP, bacteraemia associated with these infections, and infections due to aerobic Gram-negative organisms in adults with limited treatment options... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004669 | Vaborem | meropenem trihydrate; vaborbactam | Valid |
 
 This authorization has a **valid** status. The drug is marketed, with 1 valid licence out of 1.
 

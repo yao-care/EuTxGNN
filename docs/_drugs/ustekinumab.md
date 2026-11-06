@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 653
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Ustekinumab: predicted new indication Dermatitis (evidence level L2). Approved use: Moderate to severe plaque psoriasis in adults who failed…"
 monitor_inn: "Ustekinumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **dermatitis**, with **6 relate
 | Predicted New Indication | Dermatitis |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
-| EU Market Status | Marketed (valid licences: 12 of 13) |
-| Number of Authorizations | 13 (valid: 12) |
+| EU Market Status | Marketed (valid licences: 12 of 15) |
+| Number of Authorizations | 15 (valid: 12) |
 | Recommended Decision | Hold |
 
 ---
@@ -97,15 +97,25 @@ The link to dermatitis is only partial. Atopic dermatitis is driven mainly by Th
 
 ## EU Market Information
 
-All 13 authorizations are currently valid. Main entries:
+Main entries:
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000958 | Stelara | — | Adult and paediatric Crohn's disease, ulcerative colitis, plaque psoriasis, psoriatic arthritis |
-| EMEA/H/C/006544 | Otulfi | — | Plaque psoriasis, paediatric plaque psoriasis, psoriatic arthritis, adult Crohn's disease... |
-| EMEA/H/C/006183 | Pyzchiva | — | Crohn's disease, plaque psoriasis, paediatric plaque psoriasis, psoriatic arthritis... |
-| EMEA/H/C/006444 | Yesintek | — | Plaque psoriasis, paediatric plaque psoriasis, psoriatic arthritis, Crohn's disease... |
-| EMEA/H/C/006132 | Wezenla | — | Crohn's disease, paediatric Crohn's disease, plaque psoriasis, paediatric plaque psoriasis... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000958 | Stelara | ustekinumab | Valid |
+| EMEA/H/C/005805 | Fymskina | ustekinumab | Valid |
+| EMEA/H/C/005918 | Steqeyma | ustekinumab | Valid |
+| EMEA/H/C/006101 | Uzpruvo | ustekinumab | Valid |
+| EMEA/H/C/006132 | Wezenla | ustekinumab | Valid |
+| EMEA/H/C/006183 | Pyzchiva | ustekinumab | Valid |
+| EMEA/H/C/006221 | Imuldosa | ustekinumab | Valid |
+| EMEA/H/C/006444 | Yesintek | ustekinumab | Valid |
+| EMEA/H/C/006467 | Usymro | ustekinumab | Valid |
+| EMEA/H/C/006544 | Otulfi | ustekinumab | Valid |
+| EMEA/H/C/006667 | Usgena | ustekinumab | Valid |
+| EMEA/H/C/006794 | Usrenty | ustekinumab | Valid |
+| EMEA/H/C/006448 | Eksunbi | ustekinumab | Withdrawn |
+| EMEA/H/C/006585 | Absimky | ustekinumab | Withdrawn |
+| EMEA/H/C/006649 | Qoyvolma | ustekinumab | Withdrawn |
 
 ---
 
@@ -124,7 +134,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-Two randomized Phase 2 trials of ustekinumab in atopic dermatitis exist, but their sample sizes are small and the published efficacy is modest or inconsistent. The mechanism only partially fits the Th2-driven disease. In addition, the drug is currently marketed, with 13 valid licences out of 13.
+Two randomized Phase 2 trials of ustekinumab in atopic dermatitis exist, but their sample sizes are small and the published efficacy is modest or inconsistent. The mechanism only partially fits the Th2-driven disease.
 
 **To proceed, the following is needed:**
 - Warnings and contraindications from the SmPC, and the mechanism of action data

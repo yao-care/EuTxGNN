@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 545
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Safinamide: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Add-on therapy to a stable dose of levodopa (alone or with other Park…"
 monitor_inn: "safinamide"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration"]
@@ -75,9 +75,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002396 | Xadago | Not specified | Xadago is indicated for the treatment of adult patients with idiopathic Parkinson's disease (PD) as add-on therapy to a stable dose of Levodopa (L-dopa) alone or in... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002396 | Xadago | safinamide methanesulfonate | Valid |
 
 The only authorization on record has a cancelled status.
 

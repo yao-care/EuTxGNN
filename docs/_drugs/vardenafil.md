@@ -5,7 +5,7 @@ layout: default
 title: Vardenafil
 parent: Known Uses Only (No New Predictions)
 nav_order: 657
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Vardenafil: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Vardenafil"
 predicted_indications: []
@@ -43,8 +43,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Treatment of erectile dysfunction in adult men. Erectile dysfunction is the inability to achieve or maintain a penile erection sufficient for satisfactory sexual performance. In order for Levitra to be effective, sexual stimulation is required. Levitra is not indicated for use by women. |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 
 ## Disclaimer
 

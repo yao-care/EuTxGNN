@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 147
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Cholic Acid: predicted new indication HIV infectious disease (evidence level L4). Approved use: Inborn errors in primary bile acid synthesis due to 3β-hydroxy-Δ5-C27…"
 monitor_inn: "Cholic Acid"
 predicted_indications: ["HIV infectious disease", "obsolete familial combined hyperlipidemia", "homozygous familial hypercholesterolemia", "biotin metabolic disease", "vitamin deficiency disorder", "hereditary hemochromatosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hemosiderosis", "disorder of phenylalanine metabolism", "bone Paget disease"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **HIV infectious disease** with
 | Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L4 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -77,9 +77,10 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001250 (cancelled) | Orphacol | Not specified | Inborn errors in primary bile acid synthesis due to 3β-Hydroxy-Δ5-C27-steroid oxidoreductase deficiency or Δ4-3-Oxosteroid-5β-reductase def... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001250 | Orphacol | cholic acid | Valid |
+| EMEA/H/C/002081 | Kolbam | cholic acid | Withdrawn |
 
 ## Safety Considerations
 
@@ -100,13 +101,12 @@ Please refer to the SmPC for warnings and formal contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a high model score, but there are no clinical trials, and the literature consists of dated in vitro work, one study suggesting cholic acid derivatives may enhance HIV replication, and an unrelated bile acid association study. The product's EU authorisation is also cancelled.
+The prediction rests on a high model score, but there are no clinical trials, and the literature consists of dated in vitro work, one study suggesting cholic acid derivatives may enhance HIV replication, and an unrelated bile acid association study.
 
 **To proceed, the following is needed:**
 - Mechanistic and in vitro studies with cholic acid itself (not derivatives) testing any anti-HIV effect
 - Mechanism of action data and the SmPC warnings and contraindications
 - Review of the interaction with tipranavir and other HIV protease inhibitors, including hepatotoxicity risk
-- Clarification of why the authorisation was cancelled and whether a valid marketed product exists
 
 ## Other Predicted Indications (Brief Note)
 

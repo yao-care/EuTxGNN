@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Adalimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Adalimumab: predicted new indication hypermobility of coccyx (evidence level L5). Approved use: Rheumatoid arthritis Amsparity in combination with methotrexate…"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be useful for **hypermobility of coccyx**, but *
 | Predicted New Indication | hypermobility of coccyx |
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 11 of 11) |
-| Number of Authorizations | 11 (valid: 11) |
+| EU Market Status | Marketed (valid licences: 11 of 16) |
+| Number of Authorizations | 16 (valid: 11) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

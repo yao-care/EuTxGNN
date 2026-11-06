@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 562
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "Siltuximab"
 predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "Kaposi's sarcoma (disease)", "autosomal recessive familial Mediterranean fever", "aggressive systemic mastocytosis", "autosomal dominant familial periodic fever"]
 description: "Siltuximab: predicted new indication Extracutaneous mastocytoma (evidence level L5). Approved use: Sylvant is indicated for the treatment of adult patients with multice…"
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003708 (cancelled) | Sylvant | Not specified | Sylvant is indicated for the treatment of adult patients with multicentric Castleman's disease (MCD who are human immunodeficiency virus (HIV) neg... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003708 | Sylvant | siltuximab | Valid |
 
 ## Safety Considerations
 

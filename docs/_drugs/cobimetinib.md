@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 156
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Cobimetinib: predicted new indication Amyotrophic lateral sclerosis (evidence level L5). Approved use: Use in combination with vemurafenib for adult patients with unresecta…"
 monitor_inn: "cobimetinib"
 predicted_indications: ["amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "Mills syndrome", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "amyotrohpic lateral sclerosis type 22", "monomelic amyotrophy"]
@@ -84,9 +84,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003960 (cancelled) | Cotellic | Not specified | Use in combination with vemurafenib for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600 mutation. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003960 | Cotellic | cobimetinib hemifumarate | Valid |
 
 ---
 

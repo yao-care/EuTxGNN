@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Icosapent ethyl"
 predicted_indications: ["hemoglobinopathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Icosapent Ethyl: predicted new indication hemoglobinopathy (evidence level L5). Approved use: Indicated to reduce cardiovascular risk as an adjunct to statin thera…"
 ---
 
@@ -82,9 +82,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005398 | Vazkepa | Not specified | Indicated to reduce cardiovascular risk as an adjunct to statin therapy. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005398 | Vazkepa | Icosapent ethyl | Valid |
 
 ---
 

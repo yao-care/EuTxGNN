@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Ambrisentan"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ambrisentan: predicted new indication pulmonary arteriovenous malformation (evidence level L5). Approved use: Ambrisentan Mylan is indicated for the treatment of pulmonary arteria…"
 ---
 
@@ -72,10 +72,10 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004985 | Ambrisentan Viatris (previously Ambrisentan Mylan) | Not recorded | Pulmonary arterial hypertension (PAH) in adults of WHO Functional Class II to III, including combination use... |
-| EMEA/H/C/000839 | Volibris | Not recorded | Pulmonary arterial hypertension (PAH) in adults and in children aged 8 to under 18 of WHO Functional Class II to III... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000839 | Volibris | ambrisentan | Valid |
+| EMEA/H/C/004985 | Ambrisentan Viatris | ambrisentan | Valid |
 
 ## Safety Considerations
 

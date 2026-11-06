@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Delamanid"
 predicted_indications: ["allergic urticaria"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Delamanid: predicted new indication allergic urticaria (evidence level L5). Approved use: Deltyba is indicated for use as part of an appropriate combination re…"
 ---
 
@@ -71,9 +71,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002552 | Deltyba | Not recorded | Deltyba is indicated for use as part of an appropriate combination regimen for pulmonary multi-drug resistant tuberculosis (MDR-TB) in adults, adolescents, c... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002552 | Deltyba | Delamanid | Valid |
 
 ## Safety Considerations
 

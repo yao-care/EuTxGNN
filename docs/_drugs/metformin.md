@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 396
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Metformin: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus (adjunct to diet and exercise to improve gly…"
 monitor_inn: "Metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Focal stiff limb syndrome |
 | TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 19 of 19) |
-| Number of Authorizations | 19 (valid: 19) |
+| EU Market Status | Marketed (valid licences: 19 of 23) |
+| Number of Authorizations | 23 (valid: 19) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -81,15 +81,32 @@ Currently no related literature available for focal stiff limb syndrome.
 
 ## EU Market Information
 
-The drug is marketed: all 19 licences (19 of 19) are valid. The five main entries are listed below.
+The five main entries are listed below.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002279 | Jentadueto | Not specified | Type 2 diabetes mellitus, as an adjunct to diet and exercise (linagliptin + metformin combination)... |
-| EMEA/H/C/002672 | Xigduo | Not specified | Type 2 diabetes mellitus in adults, as an adjunct to diet and exercise (dapagliflozin + metformin)... |
-| EMEA/H/C/000807 | Eucreas | Not specified | Type 2 diabetes mellitus in adults, as an adjunct to diet and exercise (vildagliptin + metformin)... |
-| EMEA/H/C/000862 | Velmetia | Not specified | Type 2 diabetes mellitus, as an adjunct to diet and exercise (sitagliptin + metformin)... |
-| EMEA/H/C/003770 | Synjardy | Not specified | Type 2 diabetes mellitus in adults and children aged 10 years and above (empagliflozin + metformin)... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000655 | Competact | pioglitazone; metformin hydrochloride | Valid |
+| EMEA/H/C/000807 | Eucreas | vildagliptin; metformin hydrochloride | Valid |
+| EMEA/H/C/000861 | Janumet | sitagliptin; metformin hydrochloride | Valid |
+| EMEA/H/C/000862 | Velmetia | sitagliptin; metformin hydrochloride | Valid |
+| EMEA/H/C/000896 | Efficib | sitagliptin; metformin hydrochloride | Valid |
+| EMEA/H/C/001049 | Zomarist | vildagliptin; metformin hydrochloride | Valid |
+| EMEA/H/C/001050 | Icandra | vildagliptin; metformin hydrochloride | Valid |
+| EMEA/H/C/001235 | Ristfor | sitagliptin; metformin hydrochloride | Valid |
+| EMEA/H/C/002059 | Komboglyze | metformin hydrochloride; saxagliptin hydrochloride | Valid |
+| EMEA/H/C/002279 | Jentadueto | linagliptin; metformin | Valid |
+| EMEA/H/C/002654 | Vipdomet | alogliptin benzoate; metformin hydrochloride | Valid |
+| EMEA/H/C/002656 | Vokanamet | canagliflozin; metformin hydrochloride | Valid |
+| EMEA/H/C/002672 | Xigduo | metformin hydrochloride; dapagliflozin propanediol monohydrate | Valid |
+| EMEA/H/C/003770 | Synjardy | empagliflozin; metformin | Valid |
+| EMEA/H/C/004162 | Ebymect | dapagliflozin propanediol monohydrate; metformin hydrochloride | Valid |
+| EMEA/H/C/004314 | Segluromet | ertugliflozin l-pyroglutamic acid; metformin hydrochloride | Valid |
+| EMEA/H/C/005678 | Sitagliptin / Metformin hydrochloride Mylan | sitagliptin hydrochloride monohydrate; metformin hydrochloride | Valid |
+| EMEA/H/C/005738 | Vildagliptin / Metformin hydrochloride Accord | metformin hydrochloride; vildagliptin | Valid |
+| EMEA/H/C/005778 | Sitagliptin / Metformin hydrochloride Sun | sitagliptin fumarate; metformin hydrochloride | Valid |
+| EMEA/H/C/000522 | Avandamet | rosiglitazone; metformin hydrochloride | Expired |
+
+Showing 20 of 23 EMA authorisations.
 
 ## Safety Considerations
 

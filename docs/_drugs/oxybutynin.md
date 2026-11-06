@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 456
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
 description: "Oxybutynin: predicted new indication Restless legs syndrome (evidence level L5). Approved use: Symptomatic treatment of urge incontinence and/or increased urinary f…"
@@ -84,9 +84,9 @@ Currently no related literature available for restless legs syndrome.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
-|---------|------|------|-----------|------|
-| EMEA/H/C/000532 | Kentera (previously Oxybutynin Nicobrand) | Not specified | Symptomatic treatment of urge incontinence and/or increased urinary frequency and urgency as may occur in adult patients with unstable bladder. | Valid |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000532 | Kentera | oxybutynin | Valid |
 
 ---
 

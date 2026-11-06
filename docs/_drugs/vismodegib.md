@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 672
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Vismodegib: predicted new indication Medulloblastoma with extensive nodularity (evidence level L5). Approved use: Symptomatic metastatic basal cell carcinoma…"
 monitor_inn: "Vismodegib"
 predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma pigmentosum", "annular epidermolytic ichthyosis", "epidermolysis bullosa simplex with mottled pigmentation", "Brenner tumor", "cutaneous adenocystic carcinoma", "prostate leiomyoma", "benign neoplasm of sweat gland"]
@@ -85,9 +85,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002602 (cancelled) | Erivedge | Not specified | Adult patients with symptomatic metastatic basal cell carcinoma, or locally advanced basal cell carcinoma inappropriate for surgery or radiotherapy |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002602 | Erivedge | vismodegib | Valid |
 
 ---
 

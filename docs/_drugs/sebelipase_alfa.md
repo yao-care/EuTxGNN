@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 550
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Sebelipase alfa"
 predicted_indications: ["Scheie syndrome", "Hurler syndrome", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "Gaucher disease", "lysosomal storage disease with skeletal involvement", "autosomal ichthyosis syndrome with fatal disease course", "Tay-Sachs disease", "benign neoplasm of adrenal gland"]
 description: "Sebelipase Alfa: predicted new indication Scheie syndrome (evidence level L5). Approved use: Kanuma is indicated for long-term enzyme replacement therapy (ERT) in…"
@@ -71,9 +71,9 @@ Currently no related literature available for Scheie syndrome.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004004 | Kanuma | Not specified | Long-term enzyme replacement therapy (ERT) in patients of all ages with lysosomal acid lipase (LAL) deficiency. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004004 | Kanuma | sebelipase alfa | Valid |
 
 ## Safety Considerations
 

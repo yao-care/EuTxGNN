@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Fentanyl"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Fentanyl: predicted new indication nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Instanyl is indicated for the management of breakthrough pain in adul…"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be relevant to **nephrogenic syndrome of inappro
 | Predicted New Indication | nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 3 of 5) |
+| Number of Authorizations | 5 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -69,11 +69,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000959 | Instanyl | Not recorded | Management of breakthrough pain in adults already receiving maintenance opioid therapy for chronic cancer pain. Breakthrough pain is a transitory... |
-| EMEA/H/C/001164 | PecFent | Not recorded | Management of breakthrough pain in adults who are already receiving maintenance opioid therapy for chronic cancer pain. Breakthrough pain is a... |
-| EMEA/H/C/000833 | Effentora | Not recorded | Treatment of breakthrough pain (BTP) in adults with cancer who are already receiving maintenance opioid therapy for chronic cancer pain. BTP is a... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000833 | Effentora | fentanyl | Valid |
+| EMEA/H/C/000959 | Instanyl | Fentanyl citrate | Valid |
+| EMEA/H/C/001164 | PecFent | fentanyl | Valid |
+| EMEA/H/C/000612 | Ionsys | fentanyl hydrochloride | Withdrawn |
+| EMEA/H/C/002715 | Ionsys | fentanyl hydrochloride | Withdrawn |
 
 ## Cytotoxicity
 

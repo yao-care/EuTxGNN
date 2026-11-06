@@ -5,7 +5,7 @@ layout: default
 title: Patisiran
 parent: Known Uses Only (No New Predictions)
 nav_order: 469
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Patisiran: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Patisiran"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004699 (Cancelled) | Onpattro | Not specified | Treatment of hereditary transthyretin-mediated amyloidosis (hATTR amyloidosis) in adult patients with stage 1 or stage 2 polyneuropathy. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004699 | Onpattro | patisiran sodium | Valid |
 
 ## Safety Considerations
 

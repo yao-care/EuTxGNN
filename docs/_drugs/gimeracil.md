@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 283
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Gimeracil"
 predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
 description: "Gimeracil: predicted new indication Cecum villous adenoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -68,9 +68,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001242 | Teysuno | Not specified | Adults: advanced gastric cancer in combination with cisplatin; metastatic colorectal cancer as monotherapy or combined with oxaliplatin or irinotecan, with or without bevacizumab, when another fluoropyrimidine cannot be continued... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001242 | Teysuno | tegafur; gimeracil; oteracil | Valid |
 
 ## Cytotoxicity
 

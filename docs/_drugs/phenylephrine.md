@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 485
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "Phenylephrine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Phenylephrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Omidria is indicated in adults for maintenance of intraoperative mydr…"
@@ -80,9 +80,9 @@ No outcome data were available in the compiled data.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003702 (cancelled) | Omidria | Not specified | Omidria is indicated in adults for maintenance of intraoperative mydriasis, prevention of intraoperative miosis and reduction of acute postoperative ocular pain in intraocula... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003702 | Omidria | ketorolac; phenylephrine | Valid |
 
 ## Safety Considerations
 

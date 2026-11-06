@@ -5,7 +5,7 @@ layout: default
 title: Liraglutide
 parent: Known Uses Only (No New Predictions)
 nav_order: 371
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Liraglutide: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Liraglutide"
 predicted_indications: []
@@ -43,18 +43,20 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Victoza is indicated for the treatment of adults, adolescents and children aged 10 years and above with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise as monotherapy when metformin is considered inappropriate due to intolerance or contraindications in addition  |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Authorizations | 5 (valid: 5) |
 
 ---
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001026 | Victoza | — | Victoza is indicated for the treatment of adults, adolescents and children aged 10 years and above with insufficiently controlled type 2 diabetes... |
-| EMEA/H/C/003780 | Saxenda | — | Saxenda is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management in adult patients with an initial Body Mass Index... |
-
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001026 | Victoza | liraglutide | Valid |
+| EMEA/H/C/003780 | Saxenda | liraglutide | Valid |
+| EMEA/H/C/006615 | Liraglutide STADA | liraglutide | Valid |
+| EMEA/H/C/006620 | Ablymico | liraglutide | Valid |
+| EMEA/H/C/002647 | Xultophy | insulin degludec; liraglutide | Valid |
 
 ---
 

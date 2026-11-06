@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 432
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Nitisinone"
 predicted_indications: ["renal tubular acidosis", "galactosemia", "serpinopathy with toxic serpin polymerization", "C1 inhibitor deficiency", "glycogen storage disease", "adult polyglucosan body disease", "glycogen storage disease due to glucose-6-phosphatase deficiency", "Griscelli syndrome", "granulomatous disease, chronic, X-linked", "ermine phenotype"]
 description: "Nitisinone: predicted new indication Renal tubular acidosis (evidence level L5). Approved use: Hereditary tyrosinemia type 1 (HT 1)Orfadin is indicated for the trea…"
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **renal tubular acidosis**, but
 | Predicted New Indication | Renal tubular acidosis |
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 2 of 3) |
+| Number of Authorizations | 3 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -79,10 +79,11 @@ Currently no related literature available for renal tubular acidosis.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000555 (cancelled) | Orfadin | Not specified | Hereditary tyrosinemia type 1 (HT 1) in adult and paediatric patients, in combination with dietary restriction of tyrosine and phenylalanine. Alkaptonuria (AKU) in adults... |
-| EMEA/H/C/004582 (cancelled) | Nityr | Not specified | Adult and paediatric patients with confirmed hereditary tyrosinemia type 1 (HT-1), in combination with dietary restriction of tyrosine and phenylalanine. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000555 | Orfadin | nitisinone | Valid |
+| EMEA/H/C/004582 | Nityr | nitisinone | Valid |
+| EMEA/H/C/004281 | Nitisinone MDK | nitisinone | Withdrawn |
 
 ---
 

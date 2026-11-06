@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Avelumab"
 predicted_indications: ["human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "adenosine deaminase deficiency", "reticular dysgenesis", "Immunoerythromyeloid hypoplasia", "non-severe combined immunodeficiency", "kidney pelvis sarcomatoid transitional cell carcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Avelumab: predicted new indication human herpesvirus 8-related tumor (evidence level L5). Approved use: Bavencio is indicated as monotherapy for the treatment of adult patie…"
 ---
 
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004338 | Bavencio | Not recorded | Metastatic Merkel cell carcinoma (monotherapy); advanced renal cell carcinoma (with axitinib); first-line maintenance of urothelial carcinoma... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004338 | Bavencio |  | Valid |
 
 ## Cytotoxicity
 

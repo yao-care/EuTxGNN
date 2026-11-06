@@ -5,7 +5,7 @@ layout: default
 title: Tafasitamab
 parent: Known Uses Only (No New Predictions)
 nav_order: 584
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Tafasitamab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Tafasitamab"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005436 | Minjuvi (status: valid) | Not specified | Minjuvi is indicated in combination with lenalidomide followed by Minjuvi monotherapy for the treatment of adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL)... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005436 | Minjuvi | tafasitamab | Valid |
 
 ## Cytotoxicity
 

@@ -5,7 +5,7 @@ layout: default
 title: Ixazomib Citrate
 parent: Known Uses Only (No New Predictions)
 nav_order: 343
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -43,7 +43,6 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Original Indication | Ninlaro in combination with lenalidomide and dexamethasone is indicated for the treatment of adult patients with multiple myeloma who have received at least one prior therapy. |
 | EU Market Status | Marketed (valid licences: 1 of 1) |
 | Number of Authorizations | 1 (valid: 1) |
-| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Authorizations (Taiwan) | 0 |
 
 ---

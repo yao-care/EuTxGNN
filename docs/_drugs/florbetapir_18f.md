@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Florbetapir 18F: predicted new indication Bronchitis (evidence level L5). Approved use: PET imaging of beta-amyloid neuritic plaque density in the brains of…"
 monitor_inn: "Florbetapir (18F)"
 predicted_indications: ["bronchitis"]
@@ -63,7 +63,6 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 The original indication (brain amyloid imaging) and the predicted indication (bronchitis, an inflammatory airway condition) have no apparent biological connection. No antimicrobial, anti-inflammatory, or other therapeutic activity has been documented for this agent. The high score of 0.9966 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so this prediction should be treated as a weak, hypothesis-only signal.
 
-
 ---
 
 ## Clinical Trial Evidence
@@ -80,9 +79,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002422 (cancelled) | Amyvid | Not specified | Diagnostic use only. PET imaging of beta-amyloid neuritic plaque density in the brains of adult patients with cognitive impairment who are being evaluated for Alzheimer's disease (AD) and other causes of cognitive... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002422 | Amyvid | florbetapir (18F) | Valid |
 
 ---
 

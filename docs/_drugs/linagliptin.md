@@ -5,7 +5,7 @@ layout: default
 title: Linagliptin
 parent: Known Uses Only (No New Predictions)
 nav_order: 369
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Linagliptin: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Linagliptin"
 predicted_indications: []
@@ -43,14 +43,16 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Trajenta is indicated in the treatment of type 2 diabetes mellitus to improve glycaemic control in adults: as monotherapy in patients inadequately controlled by diet and exercise alone and for whom metformin is inappropriate due to intolerance, or contraindicated due to renal impairment. as combinat |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002110 (status: cancelled) | Trajenta | Not specified | Type 2 diabetes mellitus to improve glycaemic control in adults: as monotherapy when metformin is inappropriate or contraindicated, and in combination with metformin, a sulphonylurea and metformin, or insulin with or without metformin... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002110 | Trajenta | linagliptin | Valid |
+| EMEA/H/C/002279 | Jentadueto | linagliptin; metformin | Valid |
+| EMEA/H/C/003833 | Glyxambi | empagliflozin; linagliptin | Valid |
 
 ## Safety Considerations
 

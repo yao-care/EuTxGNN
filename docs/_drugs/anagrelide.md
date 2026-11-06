@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 48
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Anagrelide: predicted new indication Reactive thrombocytosis (evidence level L4). Approved use: Reduction of elevated platelet counts in at-risk essential thrombocyt…"
 monitor_inn: "Anagrelide"
 predicted_indications: ["reactive thrombocytosis", "inverse Klippel-Trenaunay syndrome"]
@@ -79,10 +79,10 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000480 | Xagrid (valid) | Not specified | Reduction of elevated platelet counts in at-risk essential thrombocythaemia patients who are intolerant to their current therapy or ... |
-| EMEA/H/C/004585 | Anagrelide Viatris, previously Anagrelide Mylan (valid) | Not specified | Reduction of elevated platelet counts in at risk essential thrombocythaemia patients who are intolerant to their current therapy or ... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000480 | Xagrid | anagrelide | Valid |
+| EMEA/H/C/004585 | Anagrelide Viatris | anagrelide hydrochloride | Valid |
 
 ## Cytotoxicity
 

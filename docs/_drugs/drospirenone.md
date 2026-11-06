@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 201
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Drospirenone: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,10 +72,10 @@ The TxGNN model produced candidates for Drospirenone with a score of at least 0.
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/005382 | Lydisilka |  | Valid |
-| EMEA/H/C/005336 | Drovelis |  | Valid |
+| EMEA/H/C/005336 | Drovelis | drospirenone; estetrol monohydrate | Valid |
+| EMEA/H/C/005382 | Lydisilka | estetrol monohydrate; drospirenone | Valid |
 
 ## Safety Considerations
 

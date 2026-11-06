@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Levetiracetam: predicted new indication beta-ketothiolase deficiency (evidence level L5). Approved use: Keppra is indicated as monotherapy in the treatment of partial-onset…"
 ---
 
@@ -72,13 +72,17 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000277 | Keppra | Not recorded | Keppra is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary generalisation in pa... |
-| EMEA/H/C/002051 | Levetiracetam Sun | Not recorded | Levetiracetam Sun is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary general... |
-| EMEA/H/C/002355 | Levetiracetam Actavis | Not recorded | Levetiracetam Actavis is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary gen... |
-| EMEA/H/C/002024 | Matever | Not recorded | Matever is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary generalisation in... |
-| EMEA/H/C/002244 | Levetiracetam ratiopharm | Not recorded | Levetiracetam ratiopharm is indicated as monotherapy in the treatment of partial onset seizures with or without secondary ... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000277 | Keppra | levetiracetam | Valid |
+| EMEA/H/C/002024 | Matever | levetiracetam | Valid |
+| EMEA/H/C/002051 | Levetiracetam Sun | levetiracetam | Valid |
+| EMEA/H/C/002244 | Levetiracetam ratiopharm | levetiracetam | Valid |
+| EMEA/H/C/002290 | Levetiracetam Accord | levetiracetam | Valid |
+| EMEA/H/C/002305 | Levetiracetam Actavis Group | levetiracetam | Valid |
+| EMEA/H/C/002316 | Levetiracetam Teva | levetiracetam | Valid |
+| EMEA/H/C/002355 | Levetiracetam Actavis | levetiracetam | Valid |
+| EMEA/H/C/002783 | Levetiracetam Hospira | levetiracetam | Valid |
 
 ## Safety Considerations
 

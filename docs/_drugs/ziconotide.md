@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 682
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ziconotide: predicted new indication Migraine disorder (evidence level L4). Approved use: Treatment of severe…"
 monitor_inn: "Ziconotide"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "obesity disorder", "transient ischemic attack (disease)", "open-angle glaucoma", "obsolete neurogenic bladder (disease)", "primary hereditary glaucoma", "preeclampsia"]
@@ -76,9 +76,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000551 | Prialt (status: valid) | Not specified | Ziconotide is indicated for the treatment of severe, chronic pain in patients who require intrathecal (IT) analgesia. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000551 | Prialt | ziconotide | Valid |
 
 ## Safety Considerations
 
@@ -93,7 +93,7 @@ Please also refer to the SmPC for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic link between N-type calcium channel blockade and migraine is plausible, but support is limited to a case report and hypothesis-generating articles with no controlled trials. The EU authorization has been cancelled, and the intrathecal route, narrow therapeutic index and neuropsychiatric risks (with knowledge-graph contraindication signals for psychiatric disorders) make the benefit-risk balance hard to justify without stronger evidence. It remains a research question rather than a candidate for development.
+The mechanistic link between N-type calcium channel blockade and migraine is plausible, but support is limited to a case report and hypothesis-generating articles with no controlled trials. The intrathecal route, narrow therapeutic index and neuropsychiatric risks (with knowledge-graph contraindication signals for psychiatric disorders) make the benefit-risk balance hard to justify without stronger evidence. It remains a research question rather than a candidate for development.
 
 **To proceed, the following is needed:**
 - Controlled or prospective clinical data (at least a well-designed Phase 2 study) in refractory chronic migraine

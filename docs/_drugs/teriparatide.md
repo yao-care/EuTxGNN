@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 605
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Teriparatide: predicted new indication Duodenal ulcer (evidence level L5). Approved use: Treatment of osteoporosis in postmenopausal women and in men at incre…"
 monitor_inn: "Teriparatide"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **duodenal ulcer**, but **no cl
 | Predicted New Indication | Duodenal ulcer |
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 (model prediction only) |
-| EU Market Status | Marketed (valid licences: 7 of 7) |
-| Number of Authorizations | 7 (valid: 7) |
+| EU Market Status | Marketed (valid licences: 8 of 9) |
+| Number of Authorizations | 9 (valid: 8) |
 | Recommended Decision | Hold |
 
 ---
@@ -79,15 +79,19 @@ Currently no related literature available.
 
 ## EU Market Information
 
-All seven EU centralized authorizations are valid. The table lists five of them.
+The table lists five of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005793 | Teriparatide Sun | Not specified | Teriparatide SUN is indicated in adults. Treatment of osteoporosis in postmenopausal women and in men at... |
-| EMEA/H/C/003916 | Terrosa | Not specified | Terrosa is indicated in adults. Treatment of osteoporosis in postmenopausal women and in men at increase... |
-| EMEA/H/C/005827 | Sondelbay | Not specified | Sondelbay is indicated in adults. Treatment of osteoporosis in postmenopausal women and in men at incre... |
-| EMEA/H/C/004932 | Kauliv | Not specified | Kauliv is indicated in adults. Treatment of osteoporosis in postmenopausal women and in men at increase... |
-| EMEA/H/C/000425 | Forsteo | Not specified | Treatment of osteoporosis in postmenopausal women and in men at increased risk of fracture. In postmenop... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000425 | Forsteo | teriparatide | Valid |
+| EMEA/H/C/003916 | Terrosa | teriparatide | Valid |
+| EMEA/H/C/004368 | Movymia | teriparatide | Valid |
+| EMEA/H/C/004932 | Kauliv | teriparatide | Valid |
+| EMEA/H/C/005087 | Livogiva | teriparatide | Valid |
+| EMEA/H/C/005793 | Teriparatide Sun | teriparatide | Valid |
+| EMEA/H/C/005827 | Sondelbay | teriparatide | Valid |
+| EMEA/H/C/006688 | Zandoriah | teriparatide | Valid |
+| EMEA/H/C/005388 | Qutavina | teriparatide | Withdrawn |
 
 ---
 

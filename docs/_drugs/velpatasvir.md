@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 661
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Velpatasvir: predicted new indication Hepatitis B virus infection (evidence level L3). Approved use: Chronic hepatitis C virus (HCV) infection in patients 3 years of age…"
 monitor_inn: "Velpatasvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -88,10 +88,10 @@ The clinically relevant connection is narrower. In patients co-infected with HCV
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004210 | Epclusa (valid) | Not specified | Chronic hepatitis C virus (HCV) infection in patients 3 years of age and older |
-| EMEA/H/C/004350 | Vosevi (valid) | Not specified | Chronic hepatitis C virus (HCV) infection in patients aged 12 years and older and weighing at least 30 kg |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004210 | Epclusa | sofosbuvir; velpatasvir | Valid |
+| EMEA/H/C/004350 | Vosevi | sofosbuvir; velpatasvir; voxilaprevi | Valid |
 
 ## Safety Considerations
 

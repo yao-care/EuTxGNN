@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 387
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Maraviroc: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Treatment of treatment-experienced adults…"
 monitor_inn: "Maraviroc"
 predicted_indications: ["multiple endocrine neoplasia", "acne (disease)", "primary cutaneous T-cell lymphoma", "pediatric systemic lupus erythematosus", "primary cutaneous T-cell non-Hodgkin lymphoma", "primary cutaneous B-cell lymphoma", "candidiasis", "complement component 4a deficiency", "cytomegalovirus infection", "HER2 positive breast carcinoma"]
@@ -79,9 +79,9 @@ Currently no related literature available for multiple endocrine neoplasia.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000811 (cancelled) | Celsentri | Not specified | Celsentri, in combination with other antiretroviral medicinal products, is indicated for treatment experienced adults, adolescents and children of 2 years of age and older and weighing at least 10 kg infected with only CCR5-tropic HIV-1 detectable |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000811 | Celsentri | maraviroc | Valid |
 
 ## Safety Considerations
 
@@ -95,7 +95,7 @@ Please refer to the SmPC for the full safety information, including warnings and
 **Decision: Hold**
 
 **Rationale:**
-The prediction for multiple endocrine neoplasia rests only on a computational score, with no clinical trials, no literature and no established mechanistic link. In addition, the only EU authorization for maraviroc has been cancelled.
+The prediction for multiple endocrine neoplasia rests only on a computational score, with no clinical trials, no literature and no established mechanistic link.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence linking CCR5 signalling to multiple endocrine neoplasia (MEN1 or RET-driven disease)

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 398
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Methotrexate: predicted new indication Pulmonary blastoma (evidence level L5). Approved use: In rheumatological and dermatological diseases Active rheumatoid arth…"
@@ -109,11 +109,10 @@ No literature was retrieved for pulmonary blastoma. Selected publications for ot
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003756 | Jylamvo (valid) | Not specified | In rheumatological and dermatological diseases Active rheumatoid arthritis in adult patients. Polyarthritic forms of active, sev... |
-| EMEA/H/C/003983 | Nordimet (valid) | Not specified | Nordimet is indicated for the treatment of: active rheumatoid arthritis in adult patients, polyarthritic forms of severe, activ... |
-
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003756 | Jylamvo | methotrexate | Valid |
+| EMEA/H/C/003983 | Nordimet | methotrexate | Valid |
 
 ---
 

@@ -5,7 +5,7 @@ layout: default
 title: Maribavir
 parent: Known Uses Only (No New Predictions)
 nav_order: 388
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Maribavir: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Maribavir"
 predicted_indications: []
@@ -50,9 +50,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005787 (status: cancelled) | Livtencity | Not specified | Treatment of CMV infection and/or disease refractory (with or without resistance) to one or more prior therapies, including ganciclovir, valganciclovir, cidofovir or foscarnet, in adult HSCT or SOT recipients... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005787 | Livtencity | Maribavir | Valid |
 
 ---
 

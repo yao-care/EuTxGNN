@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 11
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Abacavir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infection…"
 monitor_inn: "Abacavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---
@@ -83,9 +83,12 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000252 (cancelled) | Ziagen | — | Ziagen is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficienc... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000252 | Ziagen | abacavir | Valid |
+| EMEA/H/C/000338 | Trizivir | abacavir (as sulfate); lamivudine; zidovudine | Valid |
+| EMEA/H/C/000581 | Kivexa | abacavir; lamivudine | Valid |
+| EMEA/H/C/002754 | Triumeq | dolutegravir sodium; lamivudine; abacavir (as sulfate) | Valid |
 
 The approved indication text also states that HLA-B*5701 screening must be performed before starting treatment. Abacavir must not be used in patients known to carry this allele.
 
@@ -104,7 +107,7 @@ The approved indication text also states that HLA-B*5701 screening must be perfo
 **Decision: Hold**
 
 **Rationale:**
-The only evidence for SIV infection is a single in vitro study, with no clinical trials. SIV is a non-human primate infection, so it is not a meaningful new indication for patients. The EU authorization for the reference product is also cancelled.
+The only evidence for SIV infection is a single in vitro study, with no clinical trials. SIV is a non-human primate infection, so it is not a meaningful new indication for patients.
 
 **To proceed, the following is needed:**
 - Treat this as a preclinical or model-use question only, with in vivo data in a primate model if it is pursued.

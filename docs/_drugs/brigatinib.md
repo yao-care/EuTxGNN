@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 105
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Brigatinib: predicted new indication fibromatosis, gingival (evidence level L5). Approved use: ALK-positive advanced NSCLC (first-line, and after prior crizotinib)"
 monitor_inn: "Brigatinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "pulmonary sulcus neoplasm", "lung germ cell tumor", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
@@ -97,9 +97,9 @@ For reference, the literature that surfaced under other predicted terms is summa
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004248 | Alunbrig | Not specified | Monotherapy for adults with ALK-positive advanced NSCLC not previously treated with an ALK inhibitor, or previously treated with crizotinib. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004248 | Alunbrig | brigatinib | Valid |
 
 The authorization status is **cancelled**.
 
@@ -136,7 +136,7 @@ Please refer to the SmPC for the full safety information, including contraindica
 **Decision: Hold**
 
 **Rationale:**
-- The prediction for gingival fibromatosis rests only on a model score, with no trials, no literature and no plausible mechanism. The EU authorization is also cancelled.
+- The prediction for gingival fibromatosis rests only on a model score, with no trials, no literature and no plausible mechanism.
 - The NF2-related schwannomatosis signal is more promising but is small, non-randomized, and tied to a mismatched disease label.
 
 **To proceed, the following is needed:**

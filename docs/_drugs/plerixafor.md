@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 490
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Plerixafor"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
 description: "Plerixafor: predicted new indication CMM7 (evidence level L5). Approved use: Mozobil is indicated in combination with granulocyte-colony-stimulati…"
@@ -101,10 +101,10 @@ For reference, key publications for myeloid leukemia (10 of 20 listed):
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001030 (cancelled) | Mozobil | Not specified | Mozobil is indicated in combination with granulocyte-colony-stimulating factor to enhance mobilisation of haematopoietic stem cells to th... |
-| EMEA/H/C/005943 (cancelled) | Plerixafor Accord | Not specified | Adult patients Plerixafor Accord is indicated in combination with granulocyte-colony stimulating factor (G-CSF) to enhance mobilisat... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001030 | Mozobil | Plerixafor | Valid |
+| EMEA/H/C/005943 | Plerixafor Accord | Plerixafor | Valid |
 
 ## Cytotoxicity
 

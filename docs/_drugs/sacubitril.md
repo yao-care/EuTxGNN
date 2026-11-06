@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 544
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Sacubitril"
 predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
 description: "Sacubitril: predicted new indication Brain small vessel disease 1 with or without ocular anomalies (evidence level L5). Approved use: Paediatric heart failure Entresto is indicated in children and ad…"
@@ -97,10 +97,10 @@ Important caveats: the drug is given as a combination with valsartan, so the con
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004062 (cancelled) | Entresto | Not specified | Paediatric heart failure (children and adolescents aged ≥1 year with symptomatic chronic heart failure with left ventricular systolic dysfunction); adult sym... |
-| EMEA/H/C/004343 (cancelled) | Neparvis | Not specified | Paediatric heart failure (children and adolescents aged ≥1 year with symptomatic chronic heart failure with left ventricular systolic dysfunction); adult sym... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004062 | Entresto | sacubitril; valsartan | Valid |
+| EMEA/H/C/004343 | Neparvis | sacubitril; valsartan | Valid |
 
 ---
 

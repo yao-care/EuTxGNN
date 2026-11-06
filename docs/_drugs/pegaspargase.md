@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Pegaspargase"
 predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "follicular lymphoma", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Pegaspargase: predicted new indication Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (evidence level L5). Approved use: Oncaspar is indicated as a component of antineopla…"
 ---
 
@@ -101,9 +101,9 @@ Related literature in NK/T-cell lymphoma, which is the Hodgkin lymphoma entry's 
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003789 | Oncaspar | Not specified | Component of antineoplastic combination therapy in acute lymphoblastic leukaemia (ALL) in paediatric patients from birth to 18 years, and adult patients. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003789 | Oncaspar | pegaspargase | Valid |
 
 ## Cytotoxicity
 

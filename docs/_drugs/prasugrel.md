@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 496
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Prasugrel: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Prevention of atherothrombotic events in acute coronary syndrome (UA/…"
 monitor_inn: "Prasugrel"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
@@ -50,8 +50,8 @@ The best-supported alternative direction is **migraine** (especially with patent
 | Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -90,9 +90,10 @@ Literature for the migraine predictions (indirect):
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000984 | Efient (status: valid) | Not specified | Efient, co-administered with acetylsalicylic acid (ASA), is indicated for the prevention of atherothrombotic events in patients with acute coronary syndrome (i.e. unst... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000984 | Efient | prasugrel | Valid |
+| EMEA/H/C/004644 | Prasugrel Viatris | prasugrel besilate | Valid |
 
 ## Safety Considerations
 
@@ -114,7 +115,7 @@ The top-ranked prediction, pulmonary hypertension, has only a model score with n
 - Mechanism of action data and the SmPC warnings and contraindications (currently missing and blocking safety screening)
 - Prasugrel-specific preclinical or clinical studies in pulmonary hypertension
 - For migraine, a randomized, controlled prasugrel study in PFO-associated migraine, with a bleeding-risk assessment
-- Clarification of the EU regulatory status (the sole authorization is cancelled)
+- Clarification of the EU regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

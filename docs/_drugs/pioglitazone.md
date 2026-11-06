@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 487
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Pioglitazone: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 2 diabetes mellitus (monotherapy, dual or triple oral therapy…"
 monitor_inn: "Pioglitazone"
 predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
@@ -52,8 +52,8 @@ but **no clinical trials and no publications** currently support this specific p
 | Predicted New Indication | Opsismodysplasia |
 | TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 6 of 14) |
+| Number of Authorizations | 14 (valid: 6) |
 | Recommended Decision | Hold |
 
 ---
@@ -102,11 +102,22 @@ For reference, seven publications were retrieved for the rank-9 prediction (panc
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002277 | Pioglitazone Accord (valid) | Not specified | Type 2 diabetes mellitus as monotherapy in adults inadequately controlled by diet and exercise, for whom metformin is inappropriate... |
-| EMEA/H/C/002324 | Pioglitazone Actavis (valid) | Not specified | Second or third line treatment of type 2 diabetes mellitus as monotherapy, dual or triple oral therapy, or with insulin... |
-| EMEA/H/C/000285 | Actos (valid) | Not specified | Type 2 diabetes mellitus as monotherapy, dual or triple oral therapy, or with insulin... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000285 | Actos | pioglitazone hydrochloride | Valid |
+| EMEA/H/C/002277 | Pioglitazone Accord | pioglitazone hydrochloride | Valid |
+| EMEA/H/C/002324 | Pioglitazone Actavis | pioglitazone hydrochloride | Valid |
+| EMEA/H/C/000655 | Competact | pioglitazone; metformin hydrochloride | Valid |
+| EMEA/H/C/000680 | Tandemact | pioglitazone; glimepiride | Valid |
+| EMEA/H/C/002178 | Incresync | alogliptin; pioglitazone | Valid |
+| EMEA/H/C/000286 | Glustin | pioglitazone hydrochloride | Withdrawn |
+| EMEA/H/C/002021 | Sepioglin | pioglitazone hydrochloride | Withdrawn |
+| EMEA/H/C/002297 | Pioglitazone Teva | pioglitazone hydrochloride | Withdrawn |
+| EMEA/H/C/002309 | Paglitaz | pioglitazone hydrochloride | Lapsed |
+| EMEA/H/C/002410 | Pioglitazone Teva Pharma | pioglitazone hydrochloride | Withdrawn |
+| EMEA/H/C/002453 | Pioglitazone Krka | pioglitazone hydrochloride | Withdrawn |
+| EMEA/H/C/002558 | Glidipion | pioglitazone hydrochloride | Withdrawn |
+| EMEA/H/C/000893 | Glubrava | metformin hydrochloride; pioglitazone hydrochloride | Withdrawn |
 
 ---
 

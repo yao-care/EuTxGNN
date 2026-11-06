@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 228
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Entacapone: predicted new indication PLA2G6-associated neurodegeneration (evidence level L5). Approved use: Adjunct to standard levodopa/benserazide or levodopa/carbidopa in adu…"
 monitor_inn: "Entacapone"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and **0 publications** directly su
 | Predicted New Indication | PLA2G6-associated neurodegeneration |
 | TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 4 of 4) |
-| Number of Authorizations | 4 (valid: 4) |
+| EU Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Authorizations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -72,12 +72,15 @@ Currently no related literature available for PLA2G6-associated neurodegeneratio
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002075 (cancelled) | Entacapone Teva | Not specified | Adjunct to levodopa/benserazide or levodopa/carbidopa in adult Parkinson's disease with end-of-dose motor fluctuations... |
-| EMEA/H/C/000171 (cancelled) | Comtan | Not specified | Adjunct to levodopa/benserazide or levodopa/carbidopa in adult Parkinson's disease with end-of-dose motor fluctuations... |
-| EMEA/H/C/000170 (cancelled) | Comtess | Not specified | Adjunct to levodopa/benserazide or levodopa/carbidopa in Parkinson's disease with end-of-dose motor fluctuations... |
-| EMEA/H/C/002440 (cancelled) | Entacapone Orion | Not specified | Adjunct to levodopa/benserazide or levodopa/carbidopa in adult Parkinson's disease with end-of-dose motor fluctuations... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000170 | Comtess | entacapone | Valid |
+| EMEA/H/C/000171 | Comtan | entacapone | Valid |
+| EMEA/H/C/002075 | Entacapone Teva | entacapone | Valid |
+| EMEA/H/C/002440 | Entacapone Orion | entacapone | Valid |
+| EMEA/H/C/000511 | Stalevo | levodopa; carbidopa; entacapone | Valid |
+| EMEA/H/C/002441 | Levodopa/Carbidopa/Entacapone Orion | levodopa; carbidopa; entacapone | Valid |
+| EMEA/H/C/002785 | Corbilta | levodopa; carbidopa; entacapone | Valid |
 
 ## Safety Considerations
 

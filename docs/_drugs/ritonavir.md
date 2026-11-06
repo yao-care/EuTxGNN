@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Ritonavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ritonavir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV-1 infection…"
 ---
 
@@ -50,8 +50,8 @@ The evidence therefore rests on the model prediction alone.
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 5 of 6) |
+| Number of Authorizations | 6 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -84,10 +84,14 @@ For context, the closest related literature concerns SIV infection (a different 
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004549 | Ritonavir Viatris (previously Ritonavir Mylan) | Not specified | HIV-1 infection, in combination with other antiretroviral agents (adults and children aged 2 years and older) |
-| EMEA/H/C/000127 | Norvir | Not specified | HIV-1 infection, in combination with other antiretroviral agents (adults and children aged 2 years and older) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000127 | Norvir | ritonavir | Valid |
+| EMEA/H/C/004549 | Ritonavir Viatris | ritonavir | Valid |
+| EMEA/H/C/000368 | Kaletra | lopinavir; ritonavir | Valid |
+| EMEA/H/C/004025 | Lopinavir/Ritonavir Viatris | lopinavir; ritonavir | Valid |
+| EMEA/H/C/005973 | Paxlovid | nirmatrelvir; ritonavir | Valid |
+| EMEA/H/C/003839 | Viekirax | ombitasvir; paritaprevir; ritonavir | Withdrawn |
 
 ## Safety Considerations
 

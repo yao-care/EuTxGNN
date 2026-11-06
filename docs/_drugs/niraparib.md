@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Niraparib"
 predicted_indications: ["epiglottis neoplasm", "cystic neoplasm", "benign neoplasm of hypopharynx", "benign neoplasm of tongue", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "tumor of testis and paratestis", "inner ear neoplasm", "pre-malignant neoplasm", "schwannoma of jugular foramen"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Niraparib: predicted new indication epiglottis neoplasm (evidence level L5). Approved use: Zejula is indicated: as monotherapy for the maintenance treatment of…"
 ---
 
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **epiglottis neoplasm**, but **
 | Predicted New Indication | epiglottis neoplasm |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -71,9 +71,10 @@ Currently no related literature available for epiglottis neoplasm.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004249 | Zejula | Not recorded | Zejula is indicated: as monotherapy for the maintenance treatment of adult patients with advanced epithelial (FIGO Stages III and IV) high-grade ovarian... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004249 | Zejula | niraparib (tosilate monohydrate) | Valid |
+| EMEA/H/C/005932 | Akeega | abiraterone acetate; niraparib (tosilate monohydrate) | Valid |
 
 ## Cytotoxicity
 

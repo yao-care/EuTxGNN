@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 327
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Insulin Glargine: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Treatment of diabetes mellitus in adults…"
 monitor_inn: "Insulin glargine"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
@@ -50,8 +50,8 @@ It is a prediction from the TxGNN model (deep learning) only. The score may refl
 | Predicted New Indication | Autoimmune oophoritis |
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 4 of 4) |
-| Number of Authorizations | 4 (valid: 4) |
+| EU Market Status | Marketed (valid licences: 6 of 7) |
+| Number of Authorizations | 7 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -83,14 +83,15 @@ None of these studies tests insulin glargine in pancreatic agenesis or in autoim
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002835 | Abasaglar (previously Abasria) | Not specified | Treatment of diabetes mellitus in adults, adolescents and children aged 2 years and above. |
-| EMEA/H/C/004280 | Semglee | Not specified | Treatment of diabetes mellitus in adults, adolescents and children aged 2 years and above. |
-| EMEA/H/C/000284 | Lantus | Not specified | Treatment of diabetes mellitus in adults, adolescents and children aged two years and above |
-| EMEA/H/C/000309 | Toujeo (previously Optisulin) | Not specified | Treatment of diabetes mellitus in adults, adolescents and children from the age of 6 years. |
-
-All four authorizations are valid (4 valid licences of 4).
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000284 | Lantus | insulin glargine | Valid |
+| EMEA/H/C/000309 | Toujeo | insulin glargine | Valid |
+| EMEA/H/C/002835 | Abasaglar | insulin glargine | Valid |
+| EMEA/H/C/004280 | Semglee | insulin glargine | Valid |
+| EMEA/H/C/006136 | Ondibta | insulin glargine | Valid |
+| EMEA/H/C/004243 | Suliqua | insulin glargine; lixisenatide | Valid |
+| EMEA/H/C/004101 | Lusduna | insulin glargine | Withdrawn |
 
 ## Safety Considerations
 

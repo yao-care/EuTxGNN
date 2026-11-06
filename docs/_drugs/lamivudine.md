@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Lamivudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Lamivudine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Chronic hepatitis B in adults with compensated liver disease (also HI…"
 ---
 
@@ -50,8 +50,8 @@ Support is limited to **3 publications** (two cohort studies in cats and one in 
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 4 of 4) |
-| Number of Authorizations | 4 (valid: 4) |
+| EU Market Status | Marketed (valid licences: 10 of 12) |
+| Number of Authorizations | 12 (valid: 10) |
 | Recommended Decision | Hold |
 
 The evidence level is L5 because none of the cited studies tests lamivudine in a human population for the predicted disease. The three papers are feline or in vitro studies of FIV. They cannot support L1 to L4 under the rules for this report.
@@ -78,12 +78,20 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001113 | Lamivudine Teva | Not specified | Chronic hepatitis B in adults with compensated liver disease with active viral replication, persistently elevated ALT and histological evidence of active inflammation and / or fibrosis... |
-| EMEA/H/C/000242 | Zeffix | Not specified | Chronic hepatitis B in adults with compensated liver disease with active viral replication, persistently elevated ALT and histological evidence of active inflammation and / or fibrosis... |
-| EMEA/H/C/001111 | Lamivudine Teva Pharma B.V. | Not specified | Part of antiretroviral combination therapy for HIV-infected adults and children |
-| EMEA/H/C/000107 | Epivir | Not specified | Part of antiretroviral combination therapy for HIV-infected adults and children |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000107 | Epivir | lamivudine | Valid |
+| EMEA/H/C/000242 | Zeffix | lamivudine | Valid |
+| EMEA/H/C/001111 | Lamivudine Teva Pharma B.V. | lamivudine | Valid |
+| EMEA/H/C/001113 | Lamivudine Teva | lamivudine | Valid |
+| EMEA/H/C/000190 | Combivir | lamivudine; zidovudine | Valid |
+| EMEA/H/C/000338 | Trizivir | abacavir (as sulfate); lamivudine; zidovudine | Valid |
+| EMEA/H/C/000581 | Kivexa | abacavir; lamivudine | Valid |
+| EMEA/H/C/002754 | Triumeq | dolutegravir sodium; lamivudine; abacavir (as sulfate) | Valid |
+| EMEA/H/C/004746 | Delstrigo | doravirine; lamivudine; tenofovir disoproxil fumarate | Valid |
+| EMEA/H/C/004909 | Dovato | dolutegravir sodium; lamivudine | Valid |
+| EMEA/H/C/001236 | Lamivudine/Zidovudine Teva | lamivudine; zidovudine | Withdrawn |
+| EMEA/H/C/003823 | Dutrebis | lamivudine; raltegravir potassium | Withdrawn |
 
 ## Safety Considerations
 

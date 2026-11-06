@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 573
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Sotatercept: predicted new indication acute lymphoblastic leukemia (disease) (evidence level L5). Approved use: PAH in adult patients with WHO Functional Class II to III…"
 monitor_inn: "Sotatercept"
 predicted_indications: ["acute lymphoblastic leukemia (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis", "diabetic cataract", "HER2 positive breast carcinoma", "transitional cell carcinoma", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant"]
@@ -76,9 +76,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005647 | Winrevair | Not specified | PAH in adult patients with WHO FC II to III, in combination with other PAH therapies, to improve exercise capacity (see section 5.1). |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005647 | Winrevair |  | Valid |
 
 The only authorization is recorded with a status of cancelled.
 
@@ -93,7 +93,7 @@ The one drug-specific concern noted in the rationale for the retinopathy predict
 **Decision: Hold**
 
 **Rationale:**
-The prediction for acute lymphoblastic leukemia rests solely on a model score. There are no trials, no literature, and no verified mechanism. The EU authorization is recorded as cancelled, which also needs clarification. Safety data for the label are missing.
+The prediction for acute lymphoblastic leukemia rests solely on a model score. There are no trials, no literature, and no verified mechanism. Safety data for the label are missing.
 
 **To proceed, the following is needed:**
 - Safety data (warnings and contraindications) from the EMA product information, which is currently blocking safety screening

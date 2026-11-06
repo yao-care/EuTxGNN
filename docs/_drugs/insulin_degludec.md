@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Insulin degludec"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Insulin Degludec: predicted new indication autoimmune oophoritis (evidence level L5). Approved use: Treatment of diabetes mellitus in adults"
 ---
 
@@ -50,8 +50,8 @@ The TxGNN model predicts it may be relevant to **autoimmune oophoritis**, with a
 | Predicted New Indication | autoimmune oophoritis |
 | TxGNN Prediction Score | 0.9923 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -70,9 +70,11 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| EMEA/H/C/002498 | Tresiba | Not recorded |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002498 | Tresiba | insulin degludec | Valid |
+| EMEA/H/C/002499 | Ryzodeg | insulin aspart; insulin degludec | Valid |
+| EMEA/H/C/002647 | Xultophy | insulin degludec; liraglutide | Valid |
 
 ## Safety Considerations
 

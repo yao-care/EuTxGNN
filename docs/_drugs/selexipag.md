@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 552
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Selexipag: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,9 +72,9 @@ The TxGNN deep-learning model produced no candidate indication with a score of 0
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/003774 | Uptravi |  | Valid |
+| EMEA/H/C/003774 | Uptravi | selexipag | Valid |
 
 ## Safety Considerations
 

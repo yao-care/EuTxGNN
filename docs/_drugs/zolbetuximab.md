@@ -5,7 +5,7 @@ layout: default
 title: Zolbetuximab
 parent: Known Uses Only (No New Predictions)
 nav_order: 685
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Zolbetuximab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Zolbetuximab"
 predicted_indications: []
@@ -48,11 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005868 | Vyloy | Not specified | Vyloy, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first line treatment of adult patients with locally... |
-
-The only authorization on record is listed as cancelled.
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005868 | Vyloy | zolbetuximab | Valid |
 
 ## Cytotoxicity
 

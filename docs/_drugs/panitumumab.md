@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 463
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Panitumumab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Adult patients with wild-type RAS metastatic colorectal cancer (mCRC)…"
 monitor_inn: "Panitumumab"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy"]
@@ -64,14 +64,13 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 The link to drug-induced osteoporosis is speculative. In preclinical settings, EGFR signaling has a role in osteoblast differentiation and bone remodeling, so a theoretical connection exists. However, no clinical or literature evidence was provided to support it, and the relationship between a colorectal cancer therapy and a bone-loss condition has not been characterized. The high TxGNN score (0.9913) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-
 ---
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000741 (cancelled) | Vectibix | Not specified | Vectibix is indicated for the treatment of adult patients with wild-type RAS metastatic colorectal cancer (mCRC): in first-line in combination with Folfox or Folfiri. in sec... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000741 | Vectibix | panitumumab | Valid |
 
 ---
 
@@ -106,7 +105,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a computational score, with no registered clinical trials and no publications. The EU authorization in the data is cancelled, and mechanism of action, warnings, and contraindications are missing.
+The prediction rests only on a computational score, with no registered clinical trials and no publications. Mechanism of action, warnings, and contraindications are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank)

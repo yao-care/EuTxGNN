@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 236
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Erdafitinib: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Monotherapy for adult patients with unresectable or metastatic urothe…"
 monitor_inn: "Erdafitinib"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "amenorrhea (disease)", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "brachydactyly-syndactyly syndrome"]
@@ -72,9 +72,9 @@ Currently no related literature available for pulmonary hypertension.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006050 (cancelled) | Balversa | Not specified | Monotherapy for adult patients with unresectable or metastatic urothelial carcinoma (UC), harbouring susceptible FGFR3 genetic alterations who have previously received at least one line... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/006050 | Balversa | Erdafitinib | Valid |
 
 ## Cytotoxicity
 

@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 180
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Deferiprone: predicted new indication Hepatic porphyria (evidence level L4). Approved use: Iron overload in patients with thalassaemia major when current chelat…"
 monitor_inn: "Deferiprone"
 predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
@@ -74,10 +74,10 @@ Currently no related clinical trials are registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004710 (cancelled) | Deferiprone Lipomed | Not specified | Monotherapy for iron overload in thalassaemia major when current chelation therapy is contraindicated or inadequate; in combination with another chelator when monotherapy is ineffective... |
-| EMEA/H/C/000236 (cancelled) | Ferriprox | Not specified | Monotherapy for iron overload in thalassaemia major when current chelation therapy is contraindicated or inadequate; in combination with another chelator when monotherapy is ineffective... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000236 | Ferriprox | Deferiprone | Valid |
+| EMEA/H/C/004710 | Deferiprone Lipomed | Deferiprone | Valid |
 
 ## Safety Considerations
 

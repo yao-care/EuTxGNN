@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 7
 monitor_inn: "Docetaxel"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Docetaxel: predicted new indication Ewing sarcoma (evidence level L2). Approved use: Breast cancer Docetaxel Kabi in combination with doxorubicin and cycl…"
 ---
 
@@ -50,8 +50,8 @@ with **8 clinical trials** and **20 publications** currently supporting this dir
 | Predicted New Indication | Ewing sarcoma |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L2 |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 3 of 9) |
+| Number of Authorizations | 9 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -90,11 +90,17 @@ Laboratory work has shown synergy when gemcitabine is followed by docetaxel in s
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002325 | Docetaxel Kabi | Not recorded | Breast cancer Docetaxel Kabi in combination with doxorubicin and cyclophosphamide is indicated for the adjuvant treatment of... |
-| EMEA/H/C/000073 | Taxotere | Not recorded | Breast cancer Taxotere in combination with doxorubicin and cyclophosphamide is indicated for the adjuvant treatment of pat... |
-| EMEA/H/C/002539 | Docetaxel Accord | Not recorded | Breast cancer Docetaxel Accord in combination with doxorubicin and cyclophosphamide is indicated for the adjuvant treatmen... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000073 | Taxotere | docetaxel | Valid |
+| EMEA/H/C/002325 | Docetaxel Kabi | docetaxel | Valid |
+| EMEA/H/C/002539 | Docetaxel Accord | docetaxel | Valid |
+| EMEA/H/C/000808 | Docetaxel Zentiva | docetaxel | Withdrawn |
+| EMEA/H/C/001074 | Docefrez | docetaxel | Withdrawn |
+| EMEA/H/C/001107 | Docetaxel Teva | docetaxel | Withdrawn |
+| EMEA/H/C/002032 | Docetaxel Teva Pharma | docetaxel | Lapsed |
+| EMEA/H/C/002317 | Docetaxel Mylan | docetaxel | Lapsed |
+| EMEA/H/C/003925 | Taxespira | docetaxel trihydrate | Withdrawn |
 
 ## Cytotoxicity
 

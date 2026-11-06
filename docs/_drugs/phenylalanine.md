@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 484
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Phenylalanine: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Maple syrup urine disease (MSUD) presenting with an acute decompensat…"
 monitor_inn: "phenylalanine"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
@@ -76,9 +76,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005557 (cancelled) | Maapliv | Not specified | Maapliv is indicated for the treatment of maple syrup urine disease (MSUD) presenting with an acute decompensation episode in patients from birth who are not eligible for an oral and enteral branched-chain amino acids free (BCAA- free)... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005557 | Maapliv | glycine,L-alanine,L-arginine,L-aspartic acid,L-cysteine hydrochloride monohydra… | Valid |
 
 ## Safety Considerations
 
@@ -100,7 +100,7 @@ These are computational associations and need verification against authoritative
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a high model score. There are no clinical trials, and the retrieved literature is tangential and does not test phenylalanine as a treatment. No mechanistic link is established, and the EU authorisation is cancelled.
+The prediction rests only on a high model score. There are no clinical trials, and the retrieved literature is tangential and does not test phenylalanine as a treatment. No mechanistic link is established.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g. from DrugBank) and a plausible rationale for biliary disease

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 446
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Olopatadine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Treatment of ocular signs and symptoms of seasonal allergic conjuncti…"
 monitor_inn: "Olopatadine"
 predicted_indications: ["rosacea conjunctivitis"]
@@ -82,9 +82,9 @@ No literature is available for the top-ranked prediction (rosacea conjunctivitis
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000407 | Opatanol | Not specified | Treatment of ocular signs and symptoms of seasonal allergic conjunctivitis. (Status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000407 | Opatanol | olopatadine hydrochloride | Valid |
 
 ## Safety Considerations
 

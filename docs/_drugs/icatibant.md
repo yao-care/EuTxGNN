@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 306
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Icatibant"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
 description: "Icatibant: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). Approved use: Firazyr is indicated for symptomatic treatment of acute attacks of he…"
@@ -72,10 +72,10 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000899 | Firazyr | Not specified | Symptomatic treatment of acute attacks of hereditary angioedema (HAE) in adults (with C1-esterase-inhibitor deficiency). |
-| EMEA/H/C/005083 | Icatibant Accord | Not specified | Symptomatic treatment of acute attacks of hereditary angioedema (HAE) in adults, adolescents and children aged 2 years and older, with C1 esterase inhibitor deficiency. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000899 | Firazyr | icatibant | Valid |
+| EMEA/H/C/005083 | Icatibant Accord | icatibant acetate | Valid |
 
 ## Safety Considerations
 

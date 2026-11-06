@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Bedaquiline"
 predicted_indications: ["vulvovaginal candidiasis", "fascioliasis", "urea cycle disorder", "esophageal candidiasis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Bedaquiline: predicted new indication Vulvovaginal candidiasis (evidence level L5). Approved use: Pulmonary tuberculosis due to Mycobacterium tuberculosis resistant to…"
 ---
 
@@ -62,9 +62,9 @@ Other predictions in the list (fascioliasis 0.9988, urea cycle disorder 0.9978, 
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002614 | Sirturo | Not specified | Use as part of an appropriate combination regimen in adult and paediatric patients (2 years to less than 18 years of age and weighing at least 7 kg) with pulmonary tuberc... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002614 | Sirturo | bedaquiline fumarate | Valid |
 
 ## Safety Considerations
 

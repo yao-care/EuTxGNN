@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 557
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "serine"
 predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "myopathic intestinal pseudoobstruction", "unclassified intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]
 description: "Serine: predicted new indication Familial visceral myopathy (evidence level L5). Approved use: Maapliv is indicated for the treatment of maple syrup urine disease (…"
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005557 (cancelled) | Maapliv | Not specified | Maapliv is indicated for the treatment of maple syrup urine disease (MSUD) presenting with an acute decompensation episode in patients from birth who are not eligib... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005557 | Maapliv | glycine,L-alanine,L-arginine,L-aspartic acid,L-cysteine hydrochloride monohydra… | Valid |
 
 ## Safety Considerations
 
@@ -98,7 +98,7 @@ The prediction rests on model score alone (L5), with no trials, no relevant lite
 - Mechanism of action data and a plausible biological rationale linking serine to visceral smooth muscle function
 - Targeted literature review that excludes serine protease and serine/threonine kinase false matches
 - Label-based safety data from the EMA product information, including warnings and contraindications
-- Review of why the authorization was cancelled, and of dosage form and route compatibility with the proposed use (chronic, not acute, treatment)
+- Review of dosage form and route compatibility with the proposed use (chronic, not acute, treatment)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

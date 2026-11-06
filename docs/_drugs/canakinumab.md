@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 122
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Canakinumab: predicted new indication Hepatic infarction (evidence level L5). Approved use: Autoinflammatory periodic fever syndromes (CAPS, TRAPS, HIDS/MKD…"
 monitor_inn: "Canakinumab"
 predicted_indications: ["hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "syndrome with combined immunodeficiency", "periodic fever-infantile enterocolitis-autoinflammatory syndrome", "extracutaneous mastocytoma", "Blau syndrome", "monosomy X", "liver angiosarcoma"]
@@ -80,9 +80,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001109 (status: cancelled) | Ilaris | — | Periodic fever syndromes Ilaris is indicated for the treatment of the following autoinflammatory periodic fever syn... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001109 | Ilaris | canakinumab | Valid |
 
 ---
 
@@ -104,7 +104,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score. There are no trials or publications, and the mechanistic link to an ischemic or vascular liver event is speculative. The EU authorization is also recorded as cancelled.
+The prediction is supported only by the model score. There are no trials or publications, and the mechanistic link to an ischemic or vascular liver event is speculative.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence for IL-1β involvement in hepatic infarction, and a completed similarity analysis against the original indications

@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 434
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Nivolumab: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 13 |
 | Evidence level | Not applicable |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 2 of 3) |
+| Number of Authorizations | 3 (valid: 2) |
 
 ## Known uses recorded for this drug
 
@@ -83,9 +83,11 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/003985 | Opdivo |  | Valid |
+| EMEA/H/C/003985 | Opdivo | nivolumab | Valid |
+| EMEA/H/C/005481 | Opdualag | nivolumab; relatlimab | Valid |
+| EMEA/H/C/003840 | Nivolumab BMS | nivolumab | Withdrawn |
 
 ## Cytotoxicity
 

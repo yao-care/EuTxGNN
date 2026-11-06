@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Lumacaftor"
 predicted_indications: ["leprosy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Lumacaftor: predicted new indication leprosy (evidence level L5). Approved use: Orkambi tablets are indicated for the treatment of cystic fibrosis (C…"
 ---
 
@@ -69,9 +69,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003954 | Orkambi | Not recorded | Orkambi tablets are indicated for the treatment of cystic fibrosis (CF) in patients aged 6 years and older who are homozy... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003954 | Orkambi | Lumacaftor; ivacaftor | Valid |
 
 ## Safety Considerations
 

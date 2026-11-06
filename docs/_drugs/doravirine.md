@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 197
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Doravirine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV-1 infection in adults and adolescents aged 12 years and older wei…"
 monitor_inn: "Doravirine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -77,9 +77,10 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004747 | Pifeltro (status: valid) | Not specified | Pifeltro is indicated, in combination with other antiretroviral medicinal products, for the treatment of adults, and adolescents aged 12 years and older weighing... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004747 | Pifeltro | doravirine | Valid |
+| EMEA/H/C/004746 | Delstrigo | doravirine; lamivudine; tenofovir disoproxil fumarate | Valid |
 
 ## Safety Considerations
 
@@ -95,7 +96,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone. SIV is an animal-model pathogen rather than a human indication, NNRTIs are naturally poorly active against SIV, and the single paper concerns a different drug. In addition, the only EU authorization on record is cancelled.
+The prediction rests on model output alone. SIV is an animal-model pathogen rather than a human indication, NNRTIs are naturally poorly active against SIV, and the single paper concerns a different drug.
 
 **To proceed, the following is needed:**
 - Preclinical (in vitro or primate model) data on doravirine activity against SIV

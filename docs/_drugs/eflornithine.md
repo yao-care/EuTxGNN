@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 209
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Eflornithine: predicted new indication Esotropia (evidence level L5). Approved use: Treatment of facial hirsutism in women"
 monitor_inn: "Eflornithine"
 predicted_indications: ["esotropia", "neurotrophic keratopathy"]
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000325 | Vaniqa | Not specified | Treatment of facial hirsutism in women. (Status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000325 | Vaniqa | eflornithine | Valid |
 
 ## Safety Considerations
 

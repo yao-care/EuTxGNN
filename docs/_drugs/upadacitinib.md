@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 651
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Upadacitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
 description: "Upadacitinib: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Rheumatoid arthritisRINVOQ is indicated for the treatment of modera…"
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004760 | Rinvoq | Not specified | Rheumatoid arthritis: moderate to severe active disease in adults who responded inadequately to, or are intolerant to, one or more DMARDs... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004760 | Rinvoq | upadacitinib | Valid |
 
 The data compiled for this report list this single authorization as cancelled. Since the same record carries a current indication text, the status should be verified against the EMA register before any decision relies on it.
 

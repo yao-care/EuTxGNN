@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 519
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "Reslizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets"]
 description: "Reslizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Cinqaero is indicated as add-on therapy in adult patients with severe…"
@@ -82,9 +82,9 @@ Currently no related literature available for immune thrombocytopenia.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003912 (cancelled) | Cinqaero | Not specified | Add-on therapy in adult patients with severe eosinophilic asthma inadequately controlled despite high dose inhaled corticosteroids plus another medicinal product for maintenance treatment. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003912 | Cinqaero | reslizumab | Valid |
 
 ---
 

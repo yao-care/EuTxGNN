@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 624
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "Tocilizumab"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
 description: "Tocilizumab: predicted new indication Ankylosing spondylitis (evidence level L5). Approved use: Avtozma, in combination with methotrexate (MTX)…"
@@ -48,8 +48,8 @@ Tocilizumab is an IL-6 receptor-blocking antibody used in rheumatology and relat
 | Predicted New Indication | Ankylosing spondylitis |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 4 of 4) |
-| Number of Authorizations | 4 (valid: 4) |
+| EU Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Authorizations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -80,12 +80,13 @@ In practice this link has not held up. Two Phase 3 placebo-controlled trials in 
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000955 | RoActemra | Not specified | RA, sJIA, pJIA, giant cell arteritis, COVID-19, CAR-T-induced cytokine release syndrome (valid) |
-| EMEA/H/C/005781 | Tyenne | Not specified | RA, COVID-19, sJIA, pJIA, CAR-T-induced CRS, giant cell arteritis (valid) |
-| EMEA/H/C/006196 | Avtozma | Not specified | RA, COVID-19, sJIA, pJIA, CAR-T-induced CRS, giant cell arteritis (valid) |
-| EMEA/H/C/005984 | Tocilizumab STADA (previously Tofidence) | Not specified | RA, COVID-19, pJIA, sJIA (valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000955 | RoActemra | tocilizumab | Valid |
+| EMEA/H/C/005781 | Tyenne | tocilizumab | Valid |
+| EMEA/H/C/005984 | Tosmova | tocilizumab | Valid |
+| EMEA/H/C/006196 | Avtozma | tocilizumab | Valid |
+| EMEA/H/C/006416 | Tuyory |  | Valid |
 
 ## Safety Considerations
 

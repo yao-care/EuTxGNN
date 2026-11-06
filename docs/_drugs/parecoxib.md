@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 467
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Parecoxib: predicted new indication Migraine disorder (evidence level L3). Approved use: Short-term treatment of postoperative pain in adults"
 monitor_inn: "Parecoxib"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension"]
@@ -52,8 +52,8 @@ Support is limited: **0 registered clinical trials** and **1 clinical comparison
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9955 |
 | Evidence Level | L3 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 3) |
+| Number of Authorizations | 3 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -86,9 +86,11 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000381 | Dynastat | Not specified | For the short-term treatment of postoperative pain in adults. (status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000381 | Dynastat | parecoxib sodium | Valid |
+| EMEA/H/C/000380 | Xapit | parecoxib | Withdrawn |
+| EMEA/H/C/000382 | Rayzon | parecoxib | Withdrawn |
 
 ---
 
@@ -105,7 +107,7 @@ Please refer to the SmPC for full warnings, contraindications and drug interacti
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high and a plausible trigeminovascular mechanism exists. However, the clinical evidence is a single pilot comparison of unconfirmed design, there are no registered trials, and the EU authorisation is cancelled. The class carries known cardiovascular and skin safety concerns, which matter for a recurrent condition such as migraine.
+The prediction score is high and a plausible trigeminovascular mechanism exists. However, the clinical evidence is a single pilot comparison of unconfirmed design, there are no registered trials. The class carries known cardiovascular and skin safety concerns, which matter for a recurrent condition such as migraine.
 
 **To proceed, the following is needed:**
 - Full review of the 2011 pilot study (design, sample size, endpoints, outcomes)

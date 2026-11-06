@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 604
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Teriflunomide: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,11 +72,11 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Terifluno
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/005960 | Teriflunomide Accord |  | Valid |
-| EMEA/H/C/002514 | Aubagio |  | Valid |
-| EMEA/H/C/005962 | Teriflunomide Viatris (previously Teriflunomide Mylan) |  | Valid |
+| EMEA/H/C/002514 | Aubagio | teriflunomide | Valid |
+| EMEA/H/C/005960 | Teriflunomide Accord | teriflunomide | Valid |
+| EMEA/H/C/005962 | Teriflunomide Viatris | teriflunomide | Valid |
 
 ## Safety Considerations
 

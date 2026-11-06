@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 359
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Lefamulin: predicted new indication Leishmaniasis, diffuse cutaneous (evidence level L5). Approved use: Community-acquired pneumonia (CAP) in adults…"
 monitor_inn: "Lefamulin"
 predicted_indications: ["leishmaniasis, diffuse cutaneous", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005048 (cancelled) | Xenleta | Not specified | Treatment of community-acquired pneumonia (CAP) in adults when it is considered inappropriate to use antibacterial agents that are commonly recommended for the initial treatment of CAP or when these have failed... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005048 | Xenleta | lefamulin acetate | Valid |
 
 ## Safety Considerations
 

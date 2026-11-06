@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Eptifibatide"
 predicted_indications: ["rheumatoid arthritis", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin d disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "hemoglobinopathy", "female breast carcinoma", "beta-thalassemia with other manifestations", "partial deletion of the short arm of chromosome 16"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Eptifibatide: predicted new indication rheumatoid arthritis (evidence level L5). Approved use: Eptifibatide Accord is intended for use with acetylsalicylic acid and…"
 ---
 
@@ -70,10 +70,10 @@ Currently no related literature available for rheumatoid arthritis.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004104 | Eptifibatide Accord | Not recorded | Intended for use with acetylsalicylic acid and unfractionated heparin; prevention of early myocardial infarction in adults presenting with unstable angina or non-Q-wave myocardial infarction... |
-| EMEA/H/C/000230 | Integrilin | Not recorded | Intended for use with acetylsalicylic acid and unfractionated heparin; prevention of early myocardial infarction in patients presenting with unstable angina or non-Q-wave myocardial infarction... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004104 | Eptifibatide Accord | eptifibatide | Valid |
+| EMEA/H/C/000230 | Integrilin | eptifibatide | Withdrawn |
 
 ## Safety Considerations
 

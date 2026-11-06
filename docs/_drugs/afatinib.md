@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 25
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Afatinib: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,9 +72,9 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Afatinib, so
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/002280 | Giotrif |  | Valid |
+| EMEA/H/C/002280 | Giotrif | afatinib | Valid |
 
 ## Cytotoxicity
 

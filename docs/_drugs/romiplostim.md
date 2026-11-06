@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 535
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Romiplostim: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Primary immune thrombocytopenia (ITP) in adults refractory to other t…"
 monitor_inn: "Romiplostim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "platelet-type bleeding disorder", "autosomal dominant macrothrombocytopenia", "Ehlers-Danlos syndrome, fibronectinemic type"]
@@ -73,9 +73,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000942 (cancelled) | Nplate | Not specified | Adults: primary immune thrombocytopenia (ITP) in patients refractory to other treatments (e.g. corticosteroids, immunoglobulins). Paediatrics: chronic primary ITP in patients aged 1 year and older refractory... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000942 | Nplate | romiplostim | Valid |
 
 ## Safety Considerations
 
@@ -88,7 +88,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is computational only (L5). There are no registered trials, the single publication does not address platelet release disorders, and the mechanism (raising platelet count) does not match a functional platelet defect. The EU authorization is also cancelled.
+The prediction is computational only (L5). There are no registered trials, the single publication does not address platelet release disorders, and the mechanism (raising platelet count) does not match a functional platelet defect.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence that increasing platelet number benefits platelet release disorders

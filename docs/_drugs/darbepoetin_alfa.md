@@ -5,7 +5,7 @@ layout: default
 title: Darbepoetin Alfa
 parent: Known Uses Only (No New Predictions)
 nav_order: 172
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Darbepoetin Alfa: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Darbepoetin alfa"
 predicted_indications: []
@@ -43,14 +43,15 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Treatment of symptomatic anaemia associated with chronic renal failure (CRF) in adults and paediatric patients. Treatment of symptomatic anaemia in adult cancer patients with non-myeloid malignancies receiving chemotherapy. |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000332 (cancelled) | Aranesp | Not specified | Treatment of symptomatic anaemia associated with chronic renal failure (CRF) in adults and paediatric patients. Treatment of symptomatic anaemia in adult can... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000332 | Aranesp | darbepoetin alfa | Valid |
+| EMEA/H/C/000333 | Nespo | darbepoetin alfa | Withdrawn |
 
 ## Cytotoxicity
 

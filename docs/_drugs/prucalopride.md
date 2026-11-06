@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 502
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Prucalopride: predicted new indication Hypoalphalipoproteinemia (evidence level L5). Approved use: Symptomatic treatment of chronic constipation in adults in whom laxat…"
 monitor_inn: "Prucalopride"
 predicted_indications: ["hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "duodenal ulcer (disease)", "oral candidiasis", "obsolete familial combined hyperlipidemia", "amyloidosis (disease)", "strongyloidiasis", "HIV infectious disease", "primary amyloidosis", "acquired amyloid peripheral neuropathy"]
@@ -81,9 +81,9 @@ For context, literature was found only for the amyloidosis-related predictions (
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001012 (cancelled) | Resolor | Not specified | Resolor is indicated for symptomatic treatment of chronic constipation in adults in whom laxatives fail to provide adequate relief. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001012 | Resolor | prucalopride succinate | Valid |
 
 ## Safety Considerations
 

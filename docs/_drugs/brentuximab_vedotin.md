@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 103
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Brentuximab Vedotin: predicted new indication Follicular lymphoma (evidence level L3). Approved use: Hodgkin lymphoma (CD30+ Hodgkin lymphoma…"
 monitor_inn: "Brentuximab vedotin"
 predicted_indications: ["follicular lymphoma", "myeloid leukemia", "acute lymphoblastic/lymphocytic leukemia", "B-cell neoplasm", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "Richter syndrome", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
@@ -86,11 +86,9 @@ Follicular lymphoma is a B-cell lymphoma, and the link to the original indicatio
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002455 | Adcetris | Not specified | Hodgkin lymphoma (untreated stage IV, or stage IIB with risk factors/III/IV in combination regimens; post-ASCT; relapsed/refractory), systemic anaplastic large cell lymphoma... |
-
-This authorization is recorded as cancelled.
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002455 | Adcetris | Brentuximab vedotin | Valid |
 
 ## Cytotoxicity
 

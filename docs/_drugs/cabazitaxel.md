@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Cabazitaxel"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin d disease syndrome", "HIV infectious disease", "hyperthyroidism", "neuroblastoma", "rheumatoid arthritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Cabazitaxel: predicted new indication female breast carcinoma (evidence level L5). Approved use: Treatment of patients with hormone refractory metastatic prostate can…"
 ---
 
@@ -81,10 +81,10 @@ Several publications address cabazitaxel in breast cancer directly. The most rel
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005178 | Cabazitaxel Accord | Not recorded | Treatment of patients with hormone refractory metastatic prostate cancer previously treated with a docetaxel-containing regimen. |
-| EMEA/H/C/002018 | Jevtana | Not recorded | Jevtana in combination with prednisone or prednisolone is indicated for the treatment of patients with hormone-refractory metastatic prostate cancer previously treated with a docetaxel-containing regimen. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002018 | Jevtana | cabazitaxel | Valid |
+| EMEA/H/C/005178 | Cabazitaxel Accord | cabazitaxel | Valid |
 
 ## Cytotoxicity
 

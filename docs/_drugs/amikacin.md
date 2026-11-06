@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 44
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Amikacin: predicted new indication Paratyphoid fever (evidence level L4). Approved use: NTM lung infections caused by Mycobacterium avium Complex (MAC) in ad…"
 monitor_inn: "Amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "meningococcemia"]
@@ -90,9 +90,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005264 (cancelled) | Arikayce liposomal | Not specified | Treatment of non-tuberculous mycobacterial (NTM) lung infections caused by *Mycobacterium avium* Complex (MAC) in adults with limited... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005264 | Arikayce liposomal | amikacin sulfate | Valid |
 
 ---
 

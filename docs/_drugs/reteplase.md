@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 520
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Reteplase"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "heparin cofactor 2 deficiency", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "antithrombin deficiency type 2", "hemolytic anemia due to glucophosphate isomerase deficiency"]
 description: "Reteplase: predicted new indication Congenital coronary artery anomaly (evidence level L5). Approved use: Rapilysin is indicated for the thrombolytic treatment of suspected my…"
@@ -49,8 +49,8 @@ Currently there are **0 registered clinical trials** and **1 publication** (a ca
 | Predicted New Indication | Congenital coronary artery anomaly |
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed (licences cancelled: 1 of 1) |
-| Number of Authorizations | 1 (valid: 0) |
+| EU Market Status | Not marketed (licences cancelled: 2 of 2) |
+| Number of Authorizations | 2 (valid: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -77,9 +77,10 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000105 | Rapilysin | Not specified | Thrombolytic treatment of suspected myocardial infarction with persistent ST elevation or recent left bundle branch block within 12 hours after the onset of acute-myocardial-infarction (AMI) symptoms. (status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000105 | Rapilysin | reteplase | Withdrawn |
+| EMEA/H/C/000106 | Ecokinase | reteplase | Withdrawn |
 
 ## Safety Considerations
 

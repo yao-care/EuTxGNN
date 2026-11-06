@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "Busulfan"
 predicted_indications: ["myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "seborrheic keratosis", "feline acquired immunodeficiency syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Busulfan: predicted new indication Myelodysplastic syndrome (evidence level L1). Approved use: Conditioning treatment before conventional HPCT (BuCy2 in adults"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be useful in **myelodysplastic syndrome (MDS)**,
 | Predicted New Indication | Myelodysplastic syndrome |
 | TxGNN Prediction Score | 0.9962 |
 | Evidence Level | L1 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -97,9 +97,10 @@ In most of these trials busulfan is one part of a combination regimen, so its in
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Approved Indication |
-|---------|------|-----------|
-| EMEA/H/C/002806 | Busulfan Fresenius Kabi | Busulfan Fresenius Kabi followed by cyclophosphamide (BuCy2) is indicated as conditioning treatment prior to conv... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002806 | Busulfan Fresenius Kabi | busulfan | Valid |
+| EMEA/H/C/000472 | Busilvex | busulfan | Withdrawn |
 
 ## Cytotoxicity
 

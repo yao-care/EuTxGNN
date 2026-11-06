@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 470
 evidence_level: L3
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Pazopanib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
 description: "Pazopanib: predicted new indication Liposarcoma (evidence level L3). Approved use: Renal-cell carcinoma (RCC) Votrient is indicated in adults for the fi…"
@@ -102,9 +102,9 @@ For reference, the most relevant trials for the liposarcoma prediction, the stro
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001141 | Votrient (status: valid) | Not specified | Advanced renal-cell carcinoma (first-line or after prior cytokine therapy); selective subtypes of advanced soft-tissue sarcoma after prior chemo... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001141 | Votrient | pazopanib | Valid |
 
 ---
 
@@ -140,7 +140,7 @@ Label-based warnings and contraindications were not available. Please refer to t
 - Liposarcoma has stronger support (several completed Phase II trials, L2). In contrast, the Xp11.2/TFE3 RCC, neuroblastoma-associated RCC, childhood kidney carcinoma, ovarian myxoid liposarcoma, heart fibrosarcoma and kidney fibrosarcoma predictions are model-only (Hold). Fibroblastic neoplasm and DFSP remain research questions.
 
 **To proceed, the following is needed:**
-- Review of the SmPC for warnings and contraindications (a blocking data gap), noting that the only EU authorization on record is cancelled.
+- Review of the SmPC for warnings and contraindications (a blocking data gap).
 - Mechanism of action data from DrugBank.
 - Prospective or comparative data in non-clear-cell and unclassified RCC, ideally with histology-specific outcomes.
 - A safety monitoring plan covering hepatotoxicity, hypertension, QT prolongation and key drug interactions (acid suppressants, CYP3A4 inhibitors such as clarithromycin).

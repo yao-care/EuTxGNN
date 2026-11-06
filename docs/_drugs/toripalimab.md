@@ -5,7 +5,7 @@ layout: default
 title: Toripalimab
 parent: Known Uses Only (No New Predictions)
 nav_order: 631
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Toripalimab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Toripalimab"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006120 (status: cancelled) | Loqtorzi | Not specified | Loqtorzi, in combination with cisplatin and gemcitabine, is indicated for the first-line treatment of adult patients with recurrent, not amenable to surgery or radi... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/006120 | Loqtorzi | toripalimab | Valid |
 
 ## Cytotoxicity
 

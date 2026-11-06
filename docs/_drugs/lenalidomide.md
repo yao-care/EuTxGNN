@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 361
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Lenalidomide: predicted new indication Myeloid leukemia (evidence level L2). Approved use: Multiple myeloma (maintenance after transplant…"
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
@@ -52,8 +52,8 @@ The evidence is early-stage and largely single-arm, so the prediction remains a 
 | Predicted New Indication | Myeloid leukemia |
 | TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L2 |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 5 of 6) |
+| Number of Authorizations | 6 (valid: 5) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -106,13 +106,14 @@ No randomised controlled trial in myeloid leukemia appears among the retrieved p
 
 ## EU Market Information
 
-All three EU authorisations for lenalidomide are currently cancelled.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000717 | Revlimid | Not specified | Multiple myeloma, del(5q) myelodysplastic syndromes, mantle cell lymphoma, follicular lymphoma (with rituximab) |
-| EMEA/H/C/004857 | Lenalidomide Accord | Not specified | Multiple myeloma (maintenance and combination therapy); follicular lymphoma (with rituximab) |
-| EMEA/H/C/005306 | Lenalidomide Mylan | Not specified | Multiple myeloma (maintenance and combination therapy); follicular lymphoma (with rituximab) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000717 | Revlimid | lenalidomide | Valid |
+| EMEA/H/C/004857 | Lenalidomide Accord | lenalidomide | Valid |
+| EMEA/H/C/005306 | Lenalidomide Mylan | lenalidomide | Valid |
+| EMEA/H/C/005348 | Lenalidomide Krka | lenalidomide hydrochloride monohydrate | Valid |
+| EMEA/H/C/005734 | Lenalidomide Krka d.d. Novo mesto | lenalidomide hydrochloride monohydrate | Valid |
+| EMEA/H/C/005729 | Lenalidomide Krka d.d. | lenalidomide hydrochloride hydrate | Withdrawn |
 
 ---
 
@@ -143,12 +144,12 @@ Please refer to the SmPC for the full warnings, as label text was not available 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-- Many small Phase 1/2 trials and a strong mechanistic basis, especially for del(5q) disease, support the prediction. No randomised Phase 3 trial confirms benefit in myeloid leukemia. The drug is marketed in this country, with 3 valid licences of 3.
+- Many small Phase 1/2 trials and a strong mechanistic basis, especially for del(5q) disease, support the prediction. No randomised Phase 3 trial confirms benefit in myeloid leukemia.
 
 **To proceed, the following is needed:**
 - Restrict any further work to biomarker-defined populations (for example del(5q)) and to well-designed randomised studies in AML
 - Review the EMA product information for warnings and contraindications, which were not available in the data compiled for this report
-- Confirm the current availability. The drug is marketed in this country, with 3 valid licences of 3
+- Confirm the current availability.
 - Include a plan for monitoring blood counts, thromboembolism and secondary malignancies
 - Obtain detailed mechanism-of-action data from DrugBank
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 670
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Vildagliptin"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 description: "Vildagliptin: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Vildagliptin is indicated as an adjunct to diet and exercise to impro…"
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **classic stiff person syndrome
 | Predicted New Indication | Classic stiff person syndrome |
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Authorizations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ---
@@ -83,11 +83,15 @@ Currently no related literature available.
 
 All three authorizations are currently valid.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000771 | Galvus | Not specified | Vildagliptin is indicated as an adjunct to diet and exercise to improve glycaemic control in adults with type 2 diabetes... |
-| EMEA/H/C/001051 | Xiliarx | Not specified | Vildagliptin is indicated as an adjunct to diet and exercise to improve glycaemic control in adults with type 2 diabetes... |
-| EMEA/H/C/001048 | Jalra | Not specified | Vildagliptin is indicated as an adjunct to diet and exercise to improve glycaemic control in adults with type 2 diabetes... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000771 | Galvus | vildagliptin | Valid |
+| EMEA/H/C/001048 | Jalra | vildagliptin | Valid |
+| EMEA/H/C/001051 | Xiliarx | vildagliptin | Valid |
+| EMEA/H/C/000807 | Eucreas | vildagliptin; metformin hydrochloride | Valid |
+| EMEA/H/C/001049 | Zomarist | vildagliptin; metformin hydrochloride | Valid |
+| EMEA/H/C/001050 | Icandra | vildagliptin; metformin hydrochloride | Valid |
+| EMEA/H/C/005738 | Vildagliptin / Metformin hydrochloride Accord | metformin hydrochloride; vildagliptin | Valid |
 
 ---
 

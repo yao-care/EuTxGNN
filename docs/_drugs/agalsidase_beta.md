@@ -5,7 +5,7 @@ layout: default
 title: Agalsidase Beta
 parent: Known Uses Only (No New Predictions)
 nav_order: 27
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Agalsidase Beta: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Agalsidase beta"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000370 | Fabrazyme | Not specified | Long-term enzyme replacement therapy in patients with a confirmed diagnosis of Fabry disease (alpha-galactosidase A deficiency). (Status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000370 | Fabrazyme | agalsidase beta | Valid |
 
 ## Safety Considerations
 

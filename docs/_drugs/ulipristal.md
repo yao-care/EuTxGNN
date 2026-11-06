@@ -5,7 +5,7 @@ layout: default
 title: Ulipristal
 parent: Known Uses Only (No New Predictions)
 nav_order: 649
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ulipristal: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Ulipristal"
 predicted_indications: []
@@ -43,14 +43,16 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Emergency contraception within 120 hours (five days) of unprotected sexual intercourse or contraceptive failure. |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 3) |
+| Number of Authorizations | 3 (valid: 1) |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001027 (cancelled) | ellaOne | Not specified | Emergency contraception within 120 hours (five days) of unprotected sexual intercourse or contraceptive failure. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001027 | ellaOne | ulipristal | Valid |
+| EMEA/H/C/002041 | Esmya | ulipristal acetate | Withdrawn |
+| EMEA/H/C/005017 | Ulipristal Acetate Gedeon Richter | ulipristal acetate | Withdrawn |
 
 ## Safety Considerations
 

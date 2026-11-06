@@ -5,7 +5,7 @@ layout: default
 title: Mirvetuximab Soravtansine
 parent: Known Uses Only (No New Predictions)
 nav_order: 412
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Mirvetuximab Soravtansine: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Mirvetuximab Soravtansine"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005036 (status: cancelled) | Elahere | Not specified | Monotherapy for adult patients with folate receptor-alpha (FRα) positive, platinum-resistant high grade serous epithelial ovarian, fallopian tube, or primary peritoneal cancer who have received one to three prior systemic treatment regimens. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005036 | Elahere | mirvetuximab soravtansine | Valid |
 
 ## Cytotoxicity
 

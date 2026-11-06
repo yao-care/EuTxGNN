@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 554
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Selpercatinib: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Advanced RET fusion-positive non-small cell lung cancer (NSCLC)"
 monitor_inn: "Selpercatinib"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura"]
@@ -74,9 +74,9 @@ Clinical trials: currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005375 (cancelled) | Retsevmo | Not specified | Monotherapy for adults with advanced RET fusion-positive NSCLC not previously treated with a RET inhibitor; advanced RET fusion-positive solid tumours... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005375 | Retsevmo | selpercatinib | Valid |
 
 ## Cytotoxicity
 

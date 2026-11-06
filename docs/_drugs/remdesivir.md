@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 516
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "Remdesivir"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
 description: "Remdesivir: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Veklury is indicated for the treatment of coronavirus disease 2019 (C…"
@@ -82,10 +82,9 @@ Currently no related literature available for multiple endocrine neoplasia.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005622 | Veklury | Not specified | Treatment of COVID-19 in adults and paediatric patients (at least 4 weeks of age and weighing at least 3 kg) with pneumonia requiring supplemental oxygen... |
-
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005622 | Veklury | remdesivir | Valid |
 
 ---
 

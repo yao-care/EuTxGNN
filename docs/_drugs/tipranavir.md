@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 617
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Tipranavir: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV-1 infection in highly pretreated adults and adolescents aged 12 y…"
 monitor_inn: "Tipranavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
@@ -74,9 +74,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000631 (cancelled) | Aptivus | Not specified | Aptivus, co-administered with low-dose ritonavir, is indicated for combination antiretroviral treatment of HIV-1 infection in highly pretreated adults and adolescents 12 years of age or older with virus resistant to... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000631 | Aptivus | tipranavir | Valid |
 
 ## Safety Considerations
 

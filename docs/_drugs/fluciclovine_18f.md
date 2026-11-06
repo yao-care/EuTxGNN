@@ -5,7 +5,7 @@ layout: default
 title: Fluciclovine 18F
 parent: Known Uses Only (No New Predictions)
 nav_order: 266
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Fluciclovine 18F: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Fluciclovine (18F)"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004197 (cancelled) | Axumin | Not specified | This medicinal product is for diagnostic use only. Axumin is indicated for Positron Emission Tomography (PET) imaging to detect recurrence of... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004197 | Axumin | fluciclovine (18F) | Valid |
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ layout: default
 title: Tralokinumab
 parent: Known Uses Only (No New Predictions)
 nav_order: 633
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Tralokinumab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Tralokinumab"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005255 (cancelled) | Adtralza | Not specified | Moderate to severe atopic dermatitis in adult and adolescent patients 12 years and older who are candidates for systemic therapy. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005255 | Adtralza |  | Valid |
 
 ## Safety Considerations
 

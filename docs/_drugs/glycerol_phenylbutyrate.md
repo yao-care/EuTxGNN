@@ -5,7 +5,7 @@ layout: default
 title: Glycerol Phenylbutyrate
 parent: Known Uses Only (No New Predictions)
 nav_order: 291
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Glycerol Phenylbutyrate: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Glycerol phenylbutyrate"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003822 (cancelled) | Ravicti | Not specified | Adjunctive therapy for chronic management of urea cycle disorders (UCDs) including deficiencies of CPS, OTC, ASS, ASL, ARG and HHH syndrome... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003822 | Ravicti | glycerol phenylbutyrate | Valid |
 
 ## Safety Considerations
 

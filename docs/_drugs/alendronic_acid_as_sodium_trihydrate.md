@@ -5,7 +5,7 @@ layout: default
 title: Alendronic Acid As Sodium Trihydrate
 parent: Known Uses Only (No New Predictions)
 nav_order: 35
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,9 +41,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|---------|
 | Original Indication | Not recorded in the local data |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Taiwan Market Status | Not marketed (0 authorizations on record) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Authorizations | 3 (valid: 3) |
 
 ---
 

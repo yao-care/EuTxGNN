@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Desloratadine: predicted new indication nasal cavity disease (evidence level L5). Approved use: Desloratadine ratiopharm is indicated in adults for the relief of sym…"
 ---
 
@@ -50,8 +50,8 @@ but only **0 clinical trials** and **2 preclinical publications** (none testing 
 | Predicted New Indication | nasal cavity disease |
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 7 of 7) |
-| Number of Authorizations | 7 (valid: 7) |
+| EU Market Status | Marketed (valid licences: 8 of 10) |
+| Number of Authorizations | 10 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -75,13 +75,18 @@ Both publications are animal studies. Neither directly studies desloratadine in 
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002404 | Desloratadine ratiopharm | Not recorded | Relief of symptoms of allergic rhinitis and chronic idiopathic urticaria in adults |
-| EMEA/H/C/000313 | Aerius | Not recorded | Relief of symptoms of allergic rhinitis and urticaria |
-| EMEA/H/C/002435 | Desloratadine Actavis | Not recorded | Treatment of allergic rhinitis and urticaria |
-| EMEA/H/C/000314 | Neoclarityn | Not recorded | Relief of symptoms of allergic rhinitis and urticaria |
-| EMEA/H/C/002419 | Desloratadine Teva | Not recorded | Relief of symptoms of allergic rhinitis and urticaria |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000310 | Azomyr | desloratadine | Valid |
+| EMEA/H/C/000313 | Aerius | desloratadine | Valid |
+| EMEA/H/C/000314 | Neoclarityn | desloratadine | Valid |
+| EMEA/H/C/002310 | Dasselta | desloratadine | Valid |
+| EMEA/H/C/002404 | Desloratadine ratiopharm | desloratadine | Valid |
+| EMEA/H/C/002419 | Desloratadine Teva | desloratadine | Valid |
+| EMEA/H/C/002435 | Desloratadine Actavis | desloratadine | Valid |
+| EMEA/H/C/000772 | Aerinaze | desloratadine; pseudophedrine sulfate | Valid |
+| EMEA/H/C/000311 | Opulis | desloratadine | Withdrawn |
+| EMEA/H/C/000312 | Allex | desloratadine | Withdrawn |
 
 ## Safety Considerations
 

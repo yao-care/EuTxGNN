@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 331
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Interferon Beta-1A: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,10 +72,10 @@ The TxGNN model produced candidates for Interferon Beta-1A, but every candidate 
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/000136 | Rebif |  | Valid |
 | EMEA/H/C/000102 | Avonex |  | Valid |
+| EMEA/H/C/000136 | Rebif | interferon beta-1a | Valid |
 
 ## Safety Considerations
 

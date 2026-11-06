@@ -5,7 +5,7 @@ layout: default
 title: Angiotensin Ii
 parent: Known Uses Only (No New Predictions)
 nav_order: 52
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Angiotensin Ii: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Angiotensin II"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004930 (cancelled) | Giapreza | Not specified | Giapreza is indicated for the treatment of refractory hypotension in adults with septic or other distributive shock who remain hypotensive despite adequate volume restitution and appl... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004930 | Giapreza | angiotensin II acetate | Valid |
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 508
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "Ranolazine"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Ranolazine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Ranexa is indicated as add-on therapy for the symptomatic treatment o…"
@@ -60,7 +60,6 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 This condition is driven by gain-of-function variants of the vasopressin V2 receptor (AVPR2), which is a renal water-handling problem. It differs fundamentally from angina, a cardiac ischaemic condition. The high TxGNN score is a TxGNN model (deep learning) prediction only. No mechanistic rationale is supported by the available data, and the prediction should be treated as a hypothesis.
 
-
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
@@ -71,9 +70,9 @@ Currently no related literature available for nephrogenic syndrome of inappropri
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000805 (status: cancelled) | Ranexa (previously Latixa) | Not specified | Add-on therapy for the symptomatic treatment of patients with stable angina pectoris who are inadequately controlled or intolerant to first-line anti-anginal therapies (such as beta-blockers and / or calcium antagonists). |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000805 | Ranexa | ranolazine | Valid |
 
 ## Safety Considerations
 

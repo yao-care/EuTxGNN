@@ -5,7 +5,7 @@ layout: default
 title: Tislelizumab
 parent: Known Uses Only (No New Predictions)
 nav_order: 621
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Tislelizumab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Tislelizumab"
 predicted_indications: []
@@ -43,14 +43,15 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Non-small cell lung cancer (NSCLC) Tevimbra, in combination with platinum-containing chemotherapy as neoadjuvant treatment and then continued as monotherapy as adjuvant treatment, is indicated for the treatment of adult patients with resectable NSCLC at high risk of recurrence (for selection criteri |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005919 (cancelled) | Tevimbra | Not specified | Non-small cell lung cancer (NSCLC): neoadjuvant/adjuvant treatment of resectable NSCLC at high risk of recurrence, first-line combination therapy for non-squamous and squamous NSCLC, and monotherapy after prior platinum-based therapy... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005919 | Tevimbra | tislelizumab | Valid |
+| EMEA/H/C/005542 | Tizveni | tislelizumab | Withdrawn |
 
 ## Cytotoxicity
 

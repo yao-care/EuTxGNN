@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 455
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Oteracil"
 predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "rectosigmoid junction neoplasm", "benign neoplasm of cecum", "colonic lymphangioma", "colon leiomyoma", "cavernous hemangioma of colon"]
 description: "Oteracil: predicted new indication Cecum villous adenoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -89,9 +89,9 @@ Most of the available literature consists of case reports and one retrospective 
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001242 (cancelled) | Teysuno | Not specified | Teysuno is indicated in adults: - for the treatment of advanced gastric cancer when given in combination with cisplatin (see section 5.1). - as monotherapy or in comb... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001242 | Teysuno | tegafur; gimeracil; oteracil | Valid |
 
 ## Cytotoxicity
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Interferon beta-1b"
 predicted_indications: ["hairy cell leukemia", "autoimmune disease of central nervous system"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Interferon Beta-1B: predicted new indication hairy cell leukemia (evidence level L5). Approved use: Betaferon is indicated for the treatment of patients with a single de…"
 ---
 
@@ -48,8 +48,8 @@ Interferon beta-1b is a type I interferon immunomodulator. The TxGNN model predi
 | Predicted New Indication | hairy cell leukemia |
 | TxGNN Prediction Score | 0.9916 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -68,9 +68,10 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000081 | Betaferon | Not recorded | Single demyelinating event at high risk of clinically definite multiple sclerosis; relapsing-remitting multiple sclerosis; secondary progressive multiple sclerosis with active disease... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000081 | Betaferon | interferon beta-1b | Valid |
+| EMEA/H/C/000933 | Extavia | interferon beta-1b | Withdrawn |
 
 ## Cytotoxicity
 

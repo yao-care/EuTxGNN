@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 305
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ibuprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Treatment of a haemodynamically significant patent ductus arteriosus…"
 monitor_inn: "Ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
@@ -64,10 +64,10 @@ The very high TxGNN score is a TxGNN model (deep learning) prediction. It is mos
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
-|---------|------|------|-----------|------|
-| EMEA/H/C/006129 | Ibuprofen Gen.Orph | Not specified | Treatment of a haemodynamically significant patent ductus arteriosus in preterm newborn infants less than 34 weeks of gestational age | Valid |
-| EMEA/H/C/000549 | Pedea | Not specified | Treatment of a haemodynamically significant patent ductus arteriosus in preterm newborn infants less than 34 weeks of gestational age. | Valid |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000549 | Pedea | Ibuprofen | Valid |
+| EMEA/H/C/006129 | Vlustozik | Ibuprofen | Valid |
 
 ## Safety Considerations
 

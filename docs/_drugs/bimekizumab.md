@@ -5,7 +5,7 @@ layout: default
 title: Bimekizumab
 parent: Known Uses Only (No New Predictions)
 nav_order: 96
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Bimekizumab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Bimekizumab"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005316 | Bimzelx | Not specified | Plaque psoriasis, psoriatic arthritis, non-radiographic axial spondyloarthritis, ankylosing spondylitis, hidradenitis suppurativa... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005316 | Bimzelx | bimekizumab | Valid |
 
 This status should be verified against the current EMA register before any planning.
 

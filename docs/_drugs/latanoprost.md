@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Latanoprost"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Latanoprost: predicted new indication visceral calciphylaxis (evidence level L5). Approved use: Catiolanze is indicated for the reduction of elevated intraocular pre…"
 ---
 
@@ -48,8 +48,8 @@ Latanoprost is a prostaglandin analogue used as an eye drop. The TxGNN model pre
 | Predicted New Indication | visceral calciphylaxis (visceral calciphylaxis) |
 | TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -68,9 +68,10 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005933 | Catiolanze | Not recorded | Reduction of elevated intraocular pressure in adults with open angle glaucoma or ocular hypertension, and in children from 4 years of age and adolescents with paediatric glaucoma |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005933 | Catiolanze | Latanoprost | Valid |
+| EMEA/H/C/005107 | Roclanda | Latanoprost; netarsudil mesilate | Valid |
 
 ## Safety Considerations
 

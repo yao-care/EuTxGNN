@@ -3,7 +3,7 @@ layout: default
 title: Azacitidine
 parent: Known Uses Only (No New Predictions)
 nav_order: 77
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Azacitidine: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0
@@ -45,8 +45,8 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 | Item | Content |
 |------|------|
 | Known uses recorded for this drug | 15 |
-| EU Market Status | Marketed (valid licences: 6 of 6) |
-| Number of Authorizations | 6 (valid: 6) |
+| EU Market Status | Marketed (valid licences: 6 of 7) |
+| Number of Authorizations | 7 (valid: 6) |
 
 ## Known uses recorded for this drug
 
@@ -83,14 +83,15 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/004984 | Azacitidine Mylan |  | Valid |
-| EMEA/H/C/000978 | Vidaza |  | Valid |
-| EMEA/H/C/005075 | Azacitidine betapharm |  | Valid |
-| EMEA/H/C/005147 | Azacitidine Accord |  | Valid |
-| EMEA/H/C/004761 | Onureg |  | Valid |
-| EMEA/H/C/006154 | Azacitidine Kabi |  | Valid |
+| EMEA/H/C/000978 | Vidaza | azacitidine | Valid |
+| EMEA/H/C/004761 | Onureg | azacitidine | Valid |
+| EMEA/H/C/004984 | Azacitidine Mylan | azacitidine | Valid |
+| EMEA/H/C/005075 | Azacitidine betapharm | azacitidine | Valid |
+| EMEA/H/C/005147 | Azacitidine Accord | azacitidine | Valid |
+| EMEA/H/C/006154 | Azacitidine Kabi | azacitidine | Valid |
+| EMEA/H/C/005300 | Azacitidine Celgene | azacitidine | Withdrawn |
 
 ## Cytotoxicity
 

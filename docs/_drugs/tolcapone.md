@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 627
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Tolcapone: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Adjunct to levodopa/benserazide or levodopa/carbidopa in levodopa-res…"
 monitor_inn: "Tolcapone"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "Lewy body dementia", "X-linked intellectual disability-ataxia-apraxia syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "X-linked intellectual disability-cerebellar hypoplasia syndrome", "paralysis agitans, juvenile, of Hunt"]
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000132 (cancelled) | Tasmar | Not specified | Tasmar is indicated in combination with levodopa / benserazide or levodopa / carbidopa for use in patients with levodopa-res... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000132 | Tasmar | tolcapone | Valid |
 
 ## Safety Considerations
 
@@ -99,7 +99,7 @@ The prediction is supported only by a computational score, with no clinical tria
 - Mechanism of action data, and a biological rationale linking COMT inhibition to Rasmussen encephalitis
 - Preclinical or clinical evidence in Rasmussen encephalitis
 - Full safety information from the SmPC, especially liver monitoring requirements
-- Clarification of the regulatory status, since the EU authorization is cancelled
+- Clarification of the regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

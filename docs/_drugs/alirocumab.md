@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 37
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Alirocumab: predicted new indication Ichthyosis, X-linked, without steroid sulfatase deficiency (evidence level L5). Approved use: Primary hypercholesterolaemia and mixed dyslipidaemia"
 monitor_inn: "Alirocumab"
 predicted_indications: ["ichthyosis, X-linked, without steroid sulfatase deficiency", "disorder of other vitamins and cofactors metabolism and transport", "xanthomatosis (disease)", "46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect", "cholesterol catabolic process disease", "46,XY disorder of sex development due to a cholesterol synthesis defect", "dappled diaphyseal dysplasia", "neutral lipid storage disease", "3-hydroxyacyl-CoA dehydrogenase deficiency", "spastic paraplegia-optic atrophy-neuropathy and spastic paraplegia-optic atrophy-neuropathy-related disorder"]
@@ -75,9 +75,9 @@ Currently no related literature available for the predicted indication.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003882 (cancelled) | Praluent | Not specified | Primary hypercholesterolaemia and mixed dyslipidaemia in adults and in paediatric patients aged 8 years and older with HeFH, as an adjunct to diet...  |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003882 | Praluent | alirocumab | Valid |
 
 ## Safety Considerations
 

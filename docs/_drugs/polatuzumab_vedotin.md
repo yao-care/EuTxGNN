@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 491
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Polatuzumab Vedotin: predicted new indication HER2 positive breast carcinoma (evidence level L5). Approved use: Relapsed/refractory DLBCL (with bendamustine and rituximab) in adults…"
 monitor_inn: "Polatuzumab vedotin"
 predicted_indications: ["HER2 positive breast carcinoma"]
@@ -59,7 +59,6 @@ Currently, detailed mechanism of action data is not available in the compiled da
 
 The link to HER2 positive breast carcinoma is weak. CD79b is a component of the B-cell receptor and is restricted to B-lineage cells. It is not a recognized target in HER2 positive breast cancer. The only conceivable connection is the generic cytotoxicity of MMAE, which would not be tumour-selective in this setting. The high score of 0.9934 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
@@ -83,9 +82,9 @@ No publications directly address HER2-positive breast carcinoma. The compiled da
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004870 | Polivy | Not specified | Polivy in combination with bendamustine and rituximab is indicated for the treatment of adult patients with relapsed/refractory diffuse large B-cell lymphoma (DLBCL) who are not candidates for... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004870 | Polivy | polatuzumab vedotin | Valid |
 
 The authorization status in the compiled data is "cancelled". Verify the current status against the official EMA register before relying on it.
 

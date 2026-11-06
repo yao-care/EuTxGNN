@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 565
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "Sirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
 description: "Sirolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Hyftor is indicated for the treatment of facial angiofibroma associat…"
@@ -76,10 +76,10 @@ This gives a plausible biological rationale for the prediction. However, the ava
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005896 | Hyftor | Not stated | Facial angiofibroma associated with tuberous sclerosis complex in adults and paediatric patients aged 6 years and older. |
-| EMEA/H/C/000273 | Rapamune | Not stated | Prophylaxis of organ rejection in adult patients at low to moderate immunological risk receiving a renal transplant. It is recommended that Rapamune be used initially in comb... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000273 | Rapamune | sirolimus | Valid |
+| EMEA/H/C/005896 | Hyftor | sirolimus | Valid |
 
 ## Safety Considerations
 

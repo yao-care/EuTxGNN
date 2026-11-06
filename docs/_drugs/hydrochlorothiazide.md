@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 301
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Hydrochlorothiazide: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 5 |
 | Evidence level | Not applicable |
-| EU Market Status | Marketed (valid licences: 11 of 13) |
-| Number of Authorizations | 13 (valid: 11) |
+| EU Market Status | Marketed (valid licences: 11 of 19) |
+| Number of Authorizations | 19 (valid: 11) |
 
 ## Known uses recorded for this drug
 
@@ -75,21 +75,27 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/000783 | Irbesartan Hydrochlorothiazide Zentiva (previously Irbesarta |  | Valid |
-| EMEA/H/C/002302 | Ifirmacombi |  | Valid |
-| EMEA/H/C/001112 | Irbesartan/Hydrochlorothiazide Teva |  | Valid |
-| EMEA/H/C/000221 | Karvezide |  | Valid |
-| EMEA/H/C/000222 | CoAprovel |  | Valid |
-| EMEA/H/C/002549 | Tolucombi |  | Valid |
-| EMEA/H/C/002676 | Actelsar HCT |  | Valid |
-| EMEA/H/C/000413 | MicardisPlus |  | Valid |
-| EMEA/H/C/000415 | Kinzalkomb |  | Withdrawn |
-| EMEA/H/C/000414 | PritorPlus |  | Withdrawn |
-| EMEA/H/C/001068 | Exforge HCT |  | Valid |
-| EMEA/H/C/001160 | Dafiro HCT |  | Valid |
-| EMEA/H/C/001159 | Copalia HCT |  | Valid |
+| EMEA/H/C/000221 | Karvezide | irbesartan; hydrochlorothiazide | Valid |
+| EMEA/H/C/000222 | CoAprovel | irbesartan; hydrochlorothiazide | Valid |
+| EMEA/H/C/000413 | MicardisPlus | telmisartan; hydrochlorothiazide | Valid |
+| EMEA/H/C/000783 | Irbesartan Hydrochlorothiazide Zentiva | irbesartan; hydrochlorothiazide | Valid |
+| EMEA/H/C/001068 | Exforge HCT | valsartan; hydrochlorothiazide; amlodipine besilate | Valid |
+| EMEA/H/C/001112 | Irbesartan/Hydrochlorothiazide Teva | irbesartan; hydrochlorothiazide | Valid |
+| EMEA/H/C/001159 | Copalia HCT | amlodipine; valsartan; hydrochlorothiazide | Valid |
+| EMEA/H/C/001160 | Dafiro HCT | valsartan; hydrochlorothiazide; amlodipine besilate | Valid |
+| EMEA/H/C/002302 | Ifirmacombi | irbesartan; hydrochlorothiazide | Valid |
+| EMEA/H/C/002549 | Tolucombi | telmisartan; hydrochlorothiazide | Valid |
+| EMEA/H/C/002676 | Actelsar HCT | telmisartan; hydrochlorothiazide | Valid |
+| EMEA/H/C/000414 | PritorPlus | telmisartan; hydrochlorothiazide | Withdrawn |
+| EMEA/H/C/000415 | Kinzalkomb | telmisartan; hydrochlorothiazide | Withdrawn |
+| EMEA/H/C/000784 | Irbesartan Hydrochlorothiazide BMS | irbesartan; hydrochlorothiazide | Withdrawn |
+| EMEA/H/C/000964 | Rasilez HCT | aliskiren; hydrochlorothiazide | Withdrawn |
+| EMEA/H/C/001161 | Imprida HCT | amlodipine; valsartan; hydrochlorothiazide | Lapsed |
+| EMEA/H/C/002017 | Rasitrio | aliskiren; amlodipine; hydrochlorothiazide | Withdrawn |
+| EMEA/H/C/002420 | Riprazo HCT | aliskiren; hydrochlorothiazide | Withdrawn |
+| EMEA/H/C/002421 | Sprimeo HCT | aliskiren; hydrochlorothiazide | Withdrawn |
 
 ## Safety Considerations
 

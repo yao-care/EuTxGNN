@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Cabotegravir"
 predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "bronchitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Cabotegravir: predicted new indication rheumatoid arthritis (evidence level L5). Approved use: Apretude is indicated in combination with safer sex practices for pre…"
 ---
 
@@ -48,8 +48,8 @@ Cabotegravir is an HIV-1 integrase strand transfer inhibitor. The TxGNN model pr
 | Predicted New Indication | rheumatoid arthritis |
 | TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -70,9 +70,10 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005756 | Apretude | Not recorded | Apretude is indicated in combination with safer sex practices for pre-exposure prophylaxis (PrEP) to reduce the risk of sexually acquired HIV-1 infection in high-risk... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005756 | Apretude | cabotegravir | Valid |
+| EMEA/H/C/004976 | Vocabria | cabotegavir sodium; cabotegravir | Valid |
 
 ## Safety Considerations
 

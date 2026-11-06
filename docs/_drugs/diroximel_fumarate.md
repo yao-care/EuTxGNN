@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 193
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Diroximel Fumarate: predicted new indication Diabetic cataract (evidence level L5). Approved use: Treatment of adult patients with relapsing remitting multiple scleros…"
 monitor_inn: "Diroximel fumarate"
 predicted_indications: ["diabetic cataract", "diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "immature cataract", "nuclear senile cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "cortical cataract", "mature cataract"]
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005437 (cancelled) | Vumerity | Not specified | Treatment of adult patients with relapsing remitting multiple sclerosis (see Section 5.1 for important information on the populations for which...) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005437 | Vumerity | Diroximel fumarate (BIIB098) | Valid |
 
 ## Safety Considerations
 

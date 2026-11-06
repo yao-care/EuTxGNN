@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Doxorubicin: predicted new indication Ewing sarcoma (evidence level L1). Approved use: Caelyx&nbsp"
 ---
 
@@ -48,8 +48,8 @@ Doxorubicin is an anthracycline chemotherapy drug that acts as a topoisomerase I
 | Predicted New Indication | Ewing sarcoma |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L1 |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 3 of 4) |
+| Number of Authorizations | 4 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -92,10 +92,12 @@ The table lists the most relevant trials from those compiled. Several are multi-
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000089 | Caelyx pegylated liposomal | Not recorded | Caelyx pegylated liposomal is indicated: as monotherapy for patients with metastatic breast cancer, where there is an incr... |
-| EMEA/H/C/000297 | Myocet liposomal (previously Myocet) | Not recorded | Myocet liposomal, in combination with cyclophosphamide, is indicated for the first-line treatment of metastatic breast ca... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000089 | Caelyx pegylated liposomal | doxorubicin hydrochloride | Valid |
+| EMEA/H/C/000297 | Myocet liposomal | doxorubicin hydrochloride | Valid |
+| EMEA/H/C/005320 | Zolsketil pegylated liposomal | doxorubicin hydrochloride, liposomal | Valid |
+| EMEA/H/C/005330 | Celdoxome pegylated liposomal | doxorubicin hydrochloride | Lapsed |
 
 Both authorisations are for liposomal formulations, so they do not describe the approval of conventional doxorubicin.
 

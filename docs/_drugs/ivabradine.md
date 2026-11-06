@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 338
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ivabradine: predicted new indication hypertrichosis (disease) (evidence level L5). Approved use: Symptomatic treatment of chronic stable angina pectoris"
 monitor_inn: "Ivabradine"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis"]
@@ -52,8 +52,8 @@ The high score most likely reflects a computational artifact rather than a biolo
 | Predicted New Indication | Hypertrichosis |
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 5 of 5) |
-| Number of Authorizations | 5 (valid: 5) |
+| EU Market Status | Marketed (valid licences: 5 of 6) |
+| Number of Authorizations | 6 (valid: 5) |
 | Recommended Decision | Hold |
 
 ---
@@ -82,13 +82,14 @@ Currently no related literature available.
 
 All five authorizations are listed as valid. Dosage form was not specified in the data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000597 | Procoralan | — | Symptomatic treatment of chronic stable angina pectoris Ivabradine is indicated for the symptomatic treatm... |
-| EMEA/H/C/000598 | Corlentor | — | Symptomatic treatment of chronic stable angina pectoris Ivabradine is indicated for the symptomatic treatm... |
-| EMEA/H/C/004117 | Ivabradine Zentiva | — | Symptomatic treatment of chronic stable angina pectoris Ivabradine is indicated for the symptomatic treatm... |
-| EMEA/H/C/004187 | Ivabradine Anpharm | — | Symptomatic treatment of chronic stable angina pectoris Ivabradine is indicated for the symptomatic treatm... |
-| EMEA/H/C/004241 | Ivabradine Accord | — | Symptomatic treatment of chronic stable angina pectoris Ivabradine is indicated for the symptomatic treatm... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000597 | Procoralan | ivabradine hydrochloride | Valid |
+| EMEA/H/C/000598 | Corlentor | ivabradine hydrochloride | Valid |
+| EMEA/H/C/004117 | Ivabradine Zentiva | ivabradine hydrochloride | Valid |
+| EMEA/H/C/004187 | Ivabradine Anpharm | ivabradine | Valid |
+| EMEA/H/C/004241 | Ivabradine Accord | ivabradine hydrochloride | Valid |
+| EMEA/H/C/004217 | Ivabradine JensonR | ivabradine hydrochloride | Withdrawn |
 
 ---
 

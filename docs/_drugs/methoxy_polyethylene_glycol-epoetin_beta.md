@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Methoxy polyethylene glycol-epoetin beta"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Methoxy Polyethylene Glycol-Epoetin Beta: predicted new indication primary release disorder of platelets (evidence level L5). Approved use: Treatment of symptomatic anaemia associated with chronic ki…"
 ---
 
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000739 | Mircera | Not recorded | Treatment of symptomatic anaemia associated with chronic kidney disease (CKD) in adult patients (see section 5.1). Treatment of sympto... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000739 | Mircera | Methoxy polyethylene glycol-epoetin beta | Valid |
 
 ## Safety Considerations
 

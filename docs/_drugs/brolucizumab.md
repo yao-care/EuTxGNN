@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Brolucizumab"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices with bleeding", "esophageal varices without bleeding", "exocrine pancreatic insufficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Brolucizumab: predicted new indication mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (evidence level L5). Approved use: Beovu is indicated in adults for the treatment …"
 ---
 
@@ -68,9 +68,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004913 | Beovu | Not recorded | Beovu is indicated in adults for the treatment of neovascular (wet) age-related macular degeneration (AMD). |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004913 | Beovu | brolucizumab | Valid |
 
 ## Safety Considerations
 

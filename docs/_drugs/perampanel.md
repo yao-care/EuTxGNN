@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 481
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "Perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel: predicted new indication Beta-ketothiolase deficiency (evidence level L5). Approved use: Fycompa is indicated for the adjunctive treatment of partial-onset se…"
@@ -102,9 +102,9 @@ No visual-epilepsy-specific publications were found. The table below lists the m
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002434 | Fycompa | Not specified | Adjunctive treatment of partial-onset seizures with or without secondarily generalised seizures in adult and adolescent patients from 12 years... (status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002434 | Fycompa | perampanel | Valid |
 
 ---
 
@@ -126,7 +126,7 @@ Please refer to the SmPC for the full warnings and contraindications.
 **To proceed, the following is needed:**
 - Visual or photosensitive epilepsy data, such as photoparoxysmal response studies or case series with perampanel
 - Mechanism-of-action data in a structured source
-- Full warnings and contraindications from the SmPC, and clarification of why the EU authorization was cancelled
+- Full warnings and contraindications from the SmPC
 - For status epilepticus, results from the ongoing Phase 2 trial (NCT06401707) and an adequately powered randomized trial
 - A safety plan covering psychiatric adverse reactions and CNS-depressant interactions
 ## Disclaimer

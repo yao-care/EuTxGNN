@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 415
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Mometasone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L4). Approved use: Maintenance treatment of asthma in adults and adolescents 12 years of…"
 monitor_inn: "Mometasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma"]
@@ -77,12 +77,12 @@ Currently no related clinical trials registered.
 
 All four authorizations below are valid.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005067 | Atectura Breezhaler | Not specified | Maintenance treatment of asthma in adults and adolescents 12 years of age and older not adequately controlled with inhaled corticosteroids and inhaled short-acting beta2-agonists. |
-| EMEA/H/C/005516 | Bemrist Breezhaler | Not specified | Maintenance treatment of asthma in adults and adolescents 12 years of age and older not adequately controlled with inhaled corticosteroids and inhaled short-acting beta2-agonists. |
-| EMEA/H/C/005061 | Enerzair Breezhaler | Not specified | Maintenance treatment of asthma in adults not adequately controlled with a maintenance combination of a long-acting beta2 agonist and a high dose of an inhaled corticosteroid who had one or more exacerbations in the previous year. |
-| EMEA/H/C/005518 | Zimbus Breezhaler | Not specified | Maintenance treatment of asthma in adults whose disease is not adequately controlled. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005061 | Enerzair Breezhaler | indacaterol; glycopyrronium bromide; mometasone | Valid |
+| EMEA/H/C/005067 | Atectura Breezhaler | indacaterol acetate; mometasone furoate | Valid |
+| EMEA/H/C/005516 | Bemrist Breezhaler | indacaterol; mometasone furoate | Valid |
+| EMEA/H/C/005518 | Zimbus Breezhaler | glycopyrronium bromide; Indacaterol (acetate); mometasone furoate | Valid |
 
 ## Safety Considerations
 

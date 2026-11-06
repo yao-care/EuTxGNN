@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 120
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Caffeine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Treatment of primary apnoea of premature newborns"
 monitor_inn: "Caffeine"
 predicted_indications: ["nasal cavity disease", "thrombotic disease", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
@@ -76,10 +76,10 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001014 | Peyona (previously Nymusa) | Not specified | Treatment of primary apnoea of premature newborns. (valid) |
-| EMEA/H/C/005435 | Gencebok | Not specified | Treatment of primary apnoea of premature newborns. (valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001014 | Peyona | Caffeine citrate | Valid |
+| EMEA/H/C/005435 | Gencebok | Caffeine citrate | Valid |
 
 ## Safety Considerations
 

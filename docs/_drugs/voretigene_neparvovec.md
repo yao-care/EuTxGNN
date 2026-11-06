@@ -5,7 +5,7 @@ layout: default
 title: Voretigene Neparvovec
 parent: Known Uses Only (No New Predictions)
 nav_order: 676
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Voretigene Neparvovec: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Voretigene neparvovec"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004451 (cancelled) | Luxturna | Not specified | Treatment of adult and paediatric patients with vision loss due to inherited retinal dystrophy caused by confirmed biallelic RPE65 mutations and who have sufficient viable retinal cells. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004451 | Luxturna | voretigene neparvovec | Valid |
 
 ## Safety Considerations
 

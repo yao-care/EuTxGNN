@@ -5,7 +5,7 @@ layout: default
 title: Dapagliflozin
 parent: Known Uses Only (No New Predictions)
 nav_order: 169
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Dapagliflozin: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Dapagliflozin"
 predicted_indications: []
@@ -43,14 +43,20 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Type 2 diabetes mellitus Dapagliflozin Viatris is indicated in adults and children aged 10 years and above for the treatment of insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise - as monotherapy when metformin is considered inappropriate due to intolerance. - in a |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 6 of 7) |
+| Number of Authorizations | 7 (valid: 6) |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006006 (cancelled) | Dapagliflozin Viatris | Not specified | Type 2 diabetes mellitus in adults and children aged 10 years and above, as monotherapy when metformin is inappropriate or in addition to other medicinal products; symptomatic chronic heart failure with reduced ejection fraction; chronic kidney disease... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002322 | Forxiga | dapagliflozin propanediol monohydrate | Valid |
+| EMEA/H/C/004161 | Edistride | dapagliflozin propanediol monohydrate | Valid |
+| EMEA/H/C/006006 | Dapagliflozin Viatris | dapagliflozin | Valid |
+| EMEA/H/C/002672 | Xigduo | metformin hydrochloride; dapagliflozin propanediol monohydrate | Valid |
+| EMEA/H/C/004057 | Qtern | saxagliptin; dapagliflozin propanediol monohydrate | Valid |
+| EMEA/H/C/004162 | Ebymect | dapagliflozin propanediol monohydrate; metformin hydrochloride | Valid |
+| EMEA/H/C/004910 | Qtrilmet | metformin hydrochloride; saxagliptin; dapagliflozin | Withdrawn |
 
 ## Safety Considerations
 

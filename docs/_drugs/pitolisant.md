@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 489
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Pitolisant: predicted new indication insomnia (disease) (evidence level L4). Approved use: Improving wakefulness and reducing excessive daytime sleepiness (EDS)…"
 monitor_inn: "Pitolisant"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
@@ -95,10 +95,10 @@ None of these publications evaluates pitolisant for insomnia. They are listed as
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005117 | Ozawade | Not specified | Improve wakefulness and reduce excessive daytime sleepiness (EDS) in adult patients with obstructive sleep apnoea (OSA) |
-| EMEA/H/C/002616 | Wakix | Not specified | Treatment of narcolepsy with or without cataplexy in adults, adolescents and children from 6 years of age... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002616 | Wakix | pitolisant | Valid |
+| EMEA/H/C/005117 | Ozawade | pitolisant | Valid |
 
 Both authorisations are currently recorded as cancelled.
 

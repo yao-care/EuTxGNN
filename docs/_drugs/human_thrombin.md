@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 300
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Human Thrombin: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN model has no candidate indication with a score of 0.99 or higher for H
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 1 |
 | Evidence level | Not applicable |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 2 of 5) |
+| Number of Authorizations | 5 (valid: 2) |
 
 ## Known uses recorded for this drug
 
@@ -72,10 +72,13 @@ The TxGNN model has no candidate indication with a score of 0.99 or higher for H
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/000505 | TachoSil |  | Valid |
-| EMEA/H/C/004446 | VeraSeal |  | Valid |
+| EMEA/H/C/000505 | TachoSil | human fibrinogen; human thrombin | Valid |
+| EMEA/H/C/004446 | VeraSeal | human fibrinogen, human thrombin | Valid |
+| EMEA/H/C/000898 | Evicel | human fibrinogen; human thrombin | Withdrawn |
+| EMEA/H/C/002515 | Evarrest | human fibrinogen; human thrombin | Withdrawn |
+| EMEA/H/C/002807 | Raplixa | human fibrinogen; human thrombin | Withdrawn |
 
 ## Safety Considerations
 

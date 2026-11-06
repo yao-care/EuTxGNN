@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 636
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Trastuzumab deruxtecan"
 predicted_indications: ["drug-induced osteoporosis"]
 description: "Trastuzumab Deruxtecan: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Breast cancerHER2-positive breast cancerEnhertu as monotherapy is ind…"
@@ -77,14 +77,13 @@ Currently no related clinical trials registered.
 
 Currently no related literature available for drug-induced osteoporosis.
 
-
 ---
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005124 (cancelled) | Enhertu | Not stated | Breast cancer (HER2-positive, HER2-low and HER2-ultralow), HER2-mutant NSCLC, HER2-positive gastric or GEJ adenocarcinoma... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005124 | Enhertu | trastuzumab deruxtecan | Valid |
 
 ---
 
@@ -114,7 +113,7 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials or publications, and no plausible mechanism links a HER2-directed cytotoxic ADC to drug-induced osteoporosis. The EU license is also cancelled, and the safety profile is substantial.
+The prediction rests only on a model score. There are no clinical trials or publications, and no plausible mechanism links a HER2-directed cytotoxic ADC to drug-induced osteoporosis. The safety profile is substantial.
 
 **To proceed, the following is needed:**
 - A mechanistic rationale and preclinical evidence linking the drug to bone metabolism

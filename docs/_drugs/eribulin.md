@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Eribulin"
 predicted_indications: ["autosomal recessive familial Mediterranean fever", "dermatofibrosarcoma protuberans", "pleural mesothelioma", "malignant peritoneal mesothelioma", "pleural adenomatoid tumor", "pleural biphasic mesothelioma", "fibroblastic neoplasm", "pleural epithelioid mesothelioma", "heart fibrosarcoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Eribulin: predicted new indication autosomal recessive familial Mediterranean fever (evidence level L5). Approved use: Eribulin Baxter is indicated for the treatment of adult patients with…"
 ---
 
@@ -69,11 +69,11 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006191 | Eribulin Baxter | Not recorded | Locally advanced or metastatic breast cancer after at least one prior chemotherapy for advanced disease (prior anthracycline and taxane unless unsuitable); unresectable liposarcoma after prior anthracycline-containing therapy... |
-| EMEA/H/C/002084 | Halaven | Not recorded | Locally advanced or metastatic breast cancer after at least one prior chemotherapy for advanced disease (prior anthracycline and taxane unless unsuitable); unresectable liposarcoma after prior anthracycline-containing therapy... |
-| EMEA/H/C/006134 | Mevlyq | Not recorded | Locally advanced or metastatic breast cancer after at least one prior chemotherapy for advanced disease (prior anthracycline and taxane unless unsuitable); unresectable liposarcoma after prior anthracycline-containing therapy... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002084 | Halaven | Eribulin | Valid |
+| EMEA/H/C/006134 | Mevlyq | Eribulin mesylate | Valid |
+| EMEA/H/C/006191 | Eribulin Baxter | Eribulin mesylate | Valid |
 
 ## Cytotoxicity
 

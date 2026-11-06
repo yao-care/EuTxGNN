@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Aliskiren"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "cerebrovascular disorder"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Aliskiren: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Treatment of essential hypertension"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **pulmonary hypertension with u
 | Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 10) |
+| Number of Authorizations | 10 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -69,9 +69,18 @@ Currently no related literature available for this predicted indication.
 
 ## EU Market Information
 
-| Authorisation Number | Product Name | Approved Indication |
-|---------|------|-----------|
-| EMEA/H/C/000780 | Rasilez | Treatment of essential hypertension. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000780 | Rasilez | aliskiren | Valid |
+| EMEA/H/C/000850 | Enviage | aliskiren | Withdrawn |
+| EMEA/H/C/000851 | Sprimeo | aliskiren | Withdrawn |
+| EMEA/H/C/000852 | Tekturna | aliskiren | Withdrawn |
+| EMEA/H/C/000853 | Riprazo | aliskiren | Withdrawn |
+| EMEA/H/C/000964 | Rasilez HCT | aliskiren; hydrochlorothiazide | Withdrawn |
+| EMEA/H/C/002017 | Rasitrio | aliskiren; amlodipine; hydrochlorothiazide | Withdrawn |
+| EMEA/H/C/002073 | Rasilamlo | aliskiren; amlodipine | Withdrawn |
+| EMEA/H/C/002420 | Riprazo HCT | aliskiren; hydrochlorothiazide | Withdrawn |
+| EMEA/H/C/002421 | Sprimeo HCT | aliskiren; hydrochlorothiazide | Withdrawn |
 
 This is a single-ingredient product with a valid status.
 

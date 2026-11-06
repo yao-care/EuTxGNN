@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "Clofarabine"
 predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Clofarabine: predicted new indication myeloid leukemia (evidence level L1). Approved use: Treatment of acute lymphoblastic leukaemia (ALL) in paediatric patien…"
 ---
 
@@ -52,8 +52,8 @@ The data compiled for this report include **47 registered clinical trials** (two
 | Predicted New Indication | myeloid leukemia |
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L1 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -108,9 +108,10 @@ No randomized trial publications were identified. The table lists reviews first,
 
 ## EU Market Information
 
-| Authorization Number | Product Name |
-|---------|------|
-| EMEA/H/C/000613 | Evoltra |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000613 | Evoltra | clofarabine | Valid |
+| EMEA/H/C/005039 | Ivozall | clofarabine | Withdrawn |
 
 ---
 

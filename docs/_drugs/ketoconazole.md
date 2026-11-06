@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "Ketoconazole"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Ketoconazole: predicted new indication Acne (disease) (evidence level L4). Approved use: Ketoconazole Esteve is indicated for the treatment of endogenous Cush…"
 ---
 
@@ -82,9 +82,9 @@ The remaining literature is indirect. It concerns polycystic ovary syndrome with
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003906 | Ketoconazole Esteve (previously Ketoconazole HRA) | Not recorded | Treatment of endogenous Cushing's syndrome in adults and adolescents above the age of 12 years. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003906 | Ketoconazole Esteve | ketoconazole | Valid |
 
 ## Safety Considerations
 

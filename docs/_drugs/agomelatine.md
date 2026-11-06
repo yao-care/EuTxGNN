@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 28
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Agomelatine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Treatment of major depressive episodes in adults"
 monitor_inn: "Agomelatine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
@@ -50,8 +50,8 @@ but **no clinical trials and no publications** support this specific prediction;
 | Predicted New Indication | Benign paroxysmal torticollis of infancy |
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -74,9 +74,10 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000915 (status: cancelled) | Valdoxan | Not specified | Treatment of major depressive episodes in adults. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000915 | Valdoxan | agomelatine | Valid |
+| EMEA/H/C/000916 | Thymanax | agomelatine | Withdrawn |
 
 ## Safety Considerations
 

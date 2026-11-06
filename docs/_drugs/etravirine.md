@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Etravirine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Etravirine: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV-1 infection in antiretroviral-treatment-experienced adults and pa…"
 ---
 
@@ -73,9 +73,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000900 | Intelence | Not specified | Intelence, in combination with a boosted protease inhibitor and other antiretroviral medicinal products, is indicated for the treatment of human-immunodeficiency-virus-type-1 (HIV-1)... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000900 | Intelence | Etravirine | Valid |
 
 ## Safety Considerations
 

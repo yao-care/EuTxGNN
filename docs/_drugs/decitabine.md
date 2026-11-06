@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Decitabine"
 predicted_indications: ["refractory cytopenia of childhood"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Decitabine: predicted new indication refractory cytopenia of childhood (evidence level L5). Approved use: Treatment of adult patients with newly diagnosed de novo or secondary…"
 ---
 
@@ -50,8 +50,8 @@ but so far only **2 publications** (one cohort study and one case report) and **
 | Predicted New Indication | refractory cytopenia of childhood |
 | TxGNN Prediction Score | 0.9903 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -75,9 +75,10 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002221 | Dacogen | Not recorded | Treatment of adult patients with newly diagnosed de novo or secondary acute myeloid leukaemia (AML), according to the World Health Organization (WHO) classification, who are not candidates for standard induction chemotherapy. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002221 | Dacogen | decitabine | Valid |
+| EMEA/H/C/005823 | Inaqovi | cedazuridine; decitabine | Valid |
 
 ## Cytotoxicity
 

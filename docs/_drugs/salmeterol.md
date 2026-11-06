@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 546
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "salmeterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
 description: "Salmeterol: predicted new indication Respiratory malformation (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be relevant to **respiratory malformation**, but
 | Predicted New Indication | Respiratory malformation |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 4) |
+| Number of Authorizations | 4 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -85,9 +85,12 @@ None of these publications directly addresses respiratory malformation.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004881 | Seffalair Spiromax | Not specified | Seffalair Spiromax is indicated in the regular treatment of asthma in adults and adolescents aged 12 years and older not adequately controlled with inhaled... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004881 | Seffalair Spiromax | fluticasone propionate; salmeterol xinafoate | Valid |
+| EMEA/H/C/002752 | Aerivio Spiromax | salmeterol xinafoate; fluticasone propionate | Withdrawn |
+| EMEA/H/C/004267 | Airexar Spiromax | salmeterol; fluticasone propionate | Withdrawn |
+| EMEA/H/C/005591 | BroPair Spiromax | salmeterol xinafoate; fluticasone propionate | Withdrawn |
 
 ## Safety Considerations
 

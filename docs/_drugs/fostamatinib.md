@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 273
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Fostamatinib: predicted new indication Autosomal thrombocytopenia with normal platelets (evidence level L5). Approved use: Chronic immune thrombocytopenia (ITP) in adult patients who are refra…"
 monitor_inn: "Fostamatinib"
 predicted_indications: ["autosomal thrombocytopenia with normal platelets", "non-syndromic esophageal malformation"]
@@ -81,9 +81,9 @@ Publications retrieved for lower-ranked predictions are only indirectly relevant
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005012 (cancelled) | Tavlesse | Not specified | Tavlesse is indicated for the treatment of chronic immune thrombocytopenia (ITP) in adult patients who are refractory to other treatments. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005012 | Tavlesse | Fostamatinib disodium | Valid |
 
 ## Safety Considerations
 
@@ -98,13 +98,12 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no clinical trials or relevant literature (Evidence Level L5). Inherited thrombocytopenia is not driven by the immune-mediated platelet destruction that SYK inhibition addresses, so there is no clear mechanistic support. The EU authorization is also cancelled.
+The prediction has a high model score but no clinical trials or relevant literature (Evidence Level L5). Inherited thrombocytopenia is not driven by the immune-mediated platelet destruction that SYK inhibition addresses, so there is no clear mechanistic support.
 
 **To proceed, the following is needed:**
 - Detailed mechanism-of-action data and a plausible biological rationale linking SYK inhibition to the genetic defects in platelet production
 - Preclinical or clinical evidence in this indication
 - Warnings and contraindications from the EU product information, which are required before any safety screening
-- Clarification of why the EU authorization was cancelled and what that means for availability
 - A review of the interaction profile, especially the Major interaction with clarithromycin, for the intended patient population
 ## Disclaimer
 

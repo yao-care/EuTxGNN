@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 416
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Mometasone Furoate: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Mometason
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 2 |
 | Evidence level | Not applicable |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 
 ## Known uses among the model's candidates
 
@@ -73,11 +73,12 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Mometason
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/005067 | Atectura Breezhaler |  | Valid |
-| EMEA/H/C/005516 | Bemrist Breezhaler |  | Valid |
-| EMEA/H/C/005518 | Zimbus Breezhaler |  | Valid |
+| EMEA/H/C/005061 | Enerzair Breezhaler | indacaterol; glycopyrronium bromide; mometasone | Valid |
+| EMEA/H/C/005067 | Atectura Breezhaler | indacaterol acetate; mometasone furoate | Valid |
+| EMEA/H/C/005516 | Bemrist Breezhaler | indacaterol; mometasone furoate | Valid |
+| EMEA/H/C/005518 | Zimbus Breezhaler | glycopyrronium bromide; Indacaterol (acetate); mometasone furoate | Valid |
 
 ## Safety Considerations
 

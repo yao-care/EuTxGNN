@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Nitric Oxide"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with connective tissue disease", "pulmonary arterial hypertension associated with schistosomiasis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Nitric Oxide: predicted new indication Malformation syndrome with odontal and/or periodontal component (evidence level L5). Approved use: Newborns ≥34 weeks gestation with hypoxic respiratory failure…"
 ---
 
@@ -83,9 +83,9 @@ No retrieved paper directly studies the predicted syndrome. There are no RCTs, a
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Approved Indication |
-|---------|------|-----------|
-| EMEA/H/C/000337 | INOmax | INOmax, in conjunction with ventilatory support and other appropriate active substances, is indicated... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000337 | INOmax | nitric oxide | Valid |
 
 The list is complete (1 of 1 authorisation).
 

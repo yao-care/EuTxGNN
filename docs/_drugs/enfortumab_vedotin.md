@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 225
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Enfortumab Vedotin: predicted new indication Leprosy (evidence level L5). Approved use: Padcev, in combination with pembrolizumab…"
 monitor_inn: "Enfortumab vedotin"
 predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "malignant catarrh", "infectious bovine rhinotracheitis"]
@@ -66,7 +66,6 @@ For leprosy, no mechanistic rationale was identified. Leprosy is a bacterial inf
 
 The other top-ranked predictions are similarly weak. Multiple endocrine neoplasia, cerebral infarction, HIV infection, homozygous familial hypercholesterolemia, cytomegalovirus infection and candidiasis have no plausible therapeutic rationale. The cytomegalovirus and candidiasis literature consists of adverse-event reports (a case report of severe ulcerative esophagitis, and a pharmacovigilance study), not evidence of benefit. Infectious bovine rhinotracheitis and malignant catarrh are veterinary diseases, and their identical scores suggest a TxGNN model (deep learning) artifact.
 
-
 ---
 
 ## Clinical Trial Evidence
@@ -97,11 +96,9 @@ There is currently no related literature for leprosy. The literature below was r
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005392 | Padcev | Not specified | Padcev, in combination with pembrolizumab, is indicated for the first-line treatment of adult patients with unresectable or metastatic urothelial cancer who are eli... |
-
-This authorization is listed as cancelled in the data compiled for this report.
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005392 | Padcev | Enfortumab vedotin | Valid |
 
 ---
 

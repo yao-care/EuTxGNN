@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Dupilumab"
 predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Dupilumab: predicted new indication bronchitis (evidence level L5). Approved use: Atopic dermatitis Adults and adolescentsDupixent is indicated for the…"
 ---
 
@@ -84,9 +84,9 @@ However, the evidence is indirect. No cited trial or publication tests dupilumab
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004390 | Dupixent | Not recorded | Atopic dermatitis, asthma, chronic rhinosinusitis with nasal polyposis, prurigo nodularis, eosinophilic esophagitis, COPD, chronic spontaneous urticaria... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004390 | Dupixent | dupilumab | Valid |
 
 ## Safety Considerations
 

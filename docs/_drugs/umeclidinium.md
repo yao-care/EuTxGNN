@@ -5,7 +5,7 @@ layout: default
 title: Umeclidinium
 parent: Known Uses Only (No New Predictions)
 nav_order: 650
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Umeclidinium: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Umeclidinium"
 predicted_indications: []
@@ -43,15 +43,20 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Rolufta is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).; Indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD). |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 6 of 7) |
+| Number of Authorizations | 7 (valid: 6) |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
-|---------|------|------|-----------|------|
-| EMEA/H/C/004654 | Rolufta Ellipta (previously Rolufta) | Not specified | Maintenance bronchodilator treatment to relieve symptoms in adult patients with COPD | Valid |
-| EMEA/H/C/002809 | Incruse Ellipta (previously Incruse) | Not specified | Maintenance bronchodilator treatment to relieve symptoms in adult patients with COPD | Valid |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002809 | Incruse Ellipta | umeclidinium bromide | Valid |
+| EMEA/H/C/004654 | Rolufta Ellipta | umeclidinium bromide | Valid |
+| EMEA/H/C/002751 | Anoro Ellipta | umeclidinium bromide; vilanterol trifenatate | Valid |
+| EMEA/H/C/003754 | Laventair Ellipta | umeclidinium bromide; vilanterol | Valid |
+| EMEA/H/C/004363 | Trelegy Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Valid |
+| EMEA/H/C/004781 | Elebrato Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Valid |
+| EMEA/H/C/005254 | Temybric Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Lapsed |
 
 ## Safety Considerations
 

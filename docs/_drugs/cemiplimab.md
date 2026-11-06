@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 138
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Cemiplimab"
 predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]
 description: "Cemiplimab: predicted new indication Gallbladder adenosquamous carcinoma (evidence level L5). Approved use: Cutaneous Squamous Cell Carcinoma Libtayo as monotherapy is indicated…"
@@ -70,9 +70,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004844 (status: cancelled) | Libtayo | Not specified | Cutaneous squamous cell carcinoma (metastatic, locally advanced, and adjuvant); basal cell carcinoma after hedgehog pathway inhibitor; PD-L1-expressing NSCLC; recurrent or metastatic cervical cancer... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004844 | Libtayo | cemiplimab | Valid |
 
 ## Cytotoxicity
 

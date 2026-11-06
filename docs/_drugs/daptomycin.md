@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 170
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Daptomycin: predicted new indication Osteoarthritis (evidence level L4). Approved use: Complicated skin and soft-tissue infections (cSSTI) in adults and chi…"
 monitor_inn: "Daptomycin"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
@@ -85,10 +85,10 @@ None of these studies tests daptomycin as a treatment for degenerative osteoarth
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004310 | Daptomycin Hospira (valid) | Not specified | Daptomycin is indicated for the treatment of the following infections. Adult and paediatric (1 to 17 years of age) pat... |
-| EMEA/H/C/000637 | Cubicin (valid) | Not specified | Cubicin is indicated for the treatment of the following infections. Adult and paediatric (1 to 17 years of age) patien... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000637 | Cubicin | daptomycin | Valid |
+| EMEA/H/C/004310 | Daptomycin Hospira | daptomycin | Valid |
 
 ## Safety Considerations
 

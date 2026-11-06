@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 449
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Opicapone: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN model's candidates for Opicapone are all known uses. There is currentl
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 
 ## Known uses among the model's candidates
 
@@ -72,9 +72,10 @@ The TxGNN model's candidates for Opicapone are all known uses. There is currentl
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/002790 | Ongentys |  | Valid |
+| EMEA/H/C/002790 | Ongentys | opicapone | Valid |
+| EMEA/H/C/005782 | Ontilyv | opicapone | Lapsed |
 
 ## Safety Considerations
 

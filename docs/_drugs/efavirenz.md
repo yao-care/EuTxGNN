@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Efavirenz"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Efavirenz: predicted new indication feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Stocrin is indicated in antiviral combination treatment of human-immu…"
 ---
 
@@ -50,8 +50,8 @@ Support is thin: **0 clinical trials** and **1 publication** (a 2023 in vitro bi
 | Predicted New Indication | feline acquired immunodeficiency syndrome |
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 2) |
-| Number of Authorizations | 2 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 4 of 7) |
+| Number of Authorizations | 7 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -74,10 +74,15 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000250 | Stocrin | Not recorded | Antiviral combination treatment of HIV-1-infected adults, adolescents and children three years of age and older. Stocrin has not been adequately... |
-| EMEA/H/C/002352 | Efavirenz Teva | Not recorded | Antiviral combination treatment of HIV-1-infected adults, adolescents and children 3 years of age and older. Efavirenz has not been adequately... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002352 | Efavirenz Teva | efavirenz | Valid |
+| EMEA/H/C/004240 | Efavirenz/Emtricitabine/Tenofovir disoproxil Mylan | efavirenz; emtricitabine; tenofovir disoproxil maleate | Valid |
+| EMEA/H/C/004250 | Efavirenz/Emtricitabine/Tenofovir disoproxil Zentiva | efavirenz; emtricitabine; tenofovir disoproxil phosphate | Valid |
+| EMEA/H/C/004274 | Efavirenz/Emtricitabine/Tenofovir disoproxil Krka | efavirenz; emtricitabine; tenofovir disoproxil succinate | Valid |
+| EMEA/H/C/000249 | Sustiva | efavirenz | Withdrawn |
+| EMEA/H/C/000250 | Stocrin | efavirenz | Withdrawn |
+| EMEA/H/C/000797 | Atripla | efavirenz; emtricitabine; tenofovir disoproxil fumarate | Withdrawn |
 
 ## Safety Considerations
 

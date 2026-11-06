@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 465
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Pantoprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Pantoprazole: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Short-term treatment of reflux symptoms (e.g. heartburn…"
@@ -51,8 +51,8 @@ This is effectively an on-label class use of the drug rather than true repurposi
 | Predicted New Indication | Duodenal obstruction |
 | TxGNN Prediction Score | 0.9921 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 3 of 5) |
+| Number of Authorizations | 5 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -98,12 +98,13 @@ Most retrieved publications are reviews or comparisons among PPIs. Direct random
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001098 | Somac Control | Not specified | Short-term treatment of reflux symptoms (e.g. heartburn, acid regurgitation) in adults. (Valid) |
-| EMEA/H/C/001097 | Controloc Control | Not specified | Short-term treatment of reflux symptoms (e.g. heartburn, acid regurgitation) in adults. (Valid) |
-| EMEA/H/C/001013 | Pantozol Control | Not specified | Short-term treatment of reflux symptoms (e.g. heartburn, acid regurgitation) in adults. (Valid) |
-
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001013 | Pantozol Control | pantoprazole | Valid |
+| EMEA/H/C/001097 | Controloc Control | pantoprazole | Valid |
+| EMEA/H/C/001098 | Somac Control | pantoprazole | Valid |
+| EMEA/H/C/001099 | Pantecta Control | pantoprazole | Withdrawn |
+| EMEA/H/C/001100 | Pantoloc Control | pantoprazole | Withdrawn |
 
 ---
 

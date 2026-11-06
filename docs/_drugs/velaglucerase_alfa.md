@@ -5,7 +5,7 @@ layout: default
 title: Velaglucerase Alfa
 parent: Known Uses Only (No New Predictions)
 nav_order: 660
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Velaglucerase Alfa: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Velaglucerase alfa"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001249 (cancelled) | Vpriv | Not specified | Long-term enzyme replacement therapy (ERT) in patients with type 1 Gaucher disease. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001249 | Vpriv | velaglucerase alfa | Valid |
 
 ## Safety Considerations
 

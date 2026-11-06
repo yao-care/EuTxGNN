@@ -5,7 +5,7 @@ layout: default
 title: Migalastat
 parent: Known Uses Only (No New Predictions)
 nav_order: 409
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Migalastat: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Migalastat"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004059 (cancelled) | Galafold | Not specified | Galafold is indicated for long-term treatment of adults and adolescents aged 16 years and older with a confirmed diagnosis of Fabry disease (α-galactosidase A deficiency) and who have... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004059 | Galafold | migalastat hydrochloride | Valid |
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 174
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Darolutamide: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Non-metastatic castration-resistant prostate cancer (nmCRPC) at high…"
 monitor_inn: "Darolutamide"
 predicted_indications: ["homozygous familial hypercholesterolemia", "multiple endocrine neoplasia", "HIV infectious disease"]
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004790 (cancelled) | Nubeqa | Not specified | Adult men with non-metastatic castration-resistant prostate cancer (nmCRPC) at high risk of developing metastatic disease; metastatic hormone-sensitive prostate cancer (mHSPC) in combination with androgen deprivation therapy... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004790 | Nubeqa | darolutamide | Valid |
 
 ## Cytotoxicity
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 543
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Sacituzumab Govitecan: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Monotherapy for adult patients with unresectable or metastatic triple…"
 monitor_inn: "Sacituzumab govitecan"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract"]
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005182 (status: cancelled) | Trodelvy | Not specified | Trodelvy as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic triple-negative breast cancer (mTNBC) who have... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005182 | Trodelvy | sacituzumab govitecan | Valid |
 
 ## Cytotoxicity
 
@@ -103,13 +103,13 @@ For warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone, with no trials, no literature, and no plausible mechanism. The cytotoxic profile of the drug makes the risk-benefit balance unfavourable for drug-induced osteoporosis. The EU authorization is also cancelled.
+The prediction rests on a model score alone, with no trials, no literature, and no plausible mechanism. The cytotoxic profile of the drug makes the risk-benefit balance unfavourable for drug-induced osteoporosis.
 
 **To proceed, the following is needed:**
 - Mechanism of action data to assess any biological link to bone metabolism
 - Preclinical or observational evidence supporting a bone-related effect
 - Label warnings and contraindications from the SmPC to complete the safety review
-- Clarification of why the EU authorization was cancelled and of the current regulatory status
+- Clarification of the current regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

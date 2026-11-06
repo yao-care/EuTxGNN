@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 140
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ceritinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: ALK-positive advanced non-small cell lung cancer (NSCLC) previously t…"
 monitor_inn: "Ceritinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "junctional epidermolysis bullosa"]
@@ -81,9 +81,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003819 (cancelled) | Zykadia | Not specified | Treatment of adult patients with anaplastic lymphoma kinase (ALK) positive advanced non small cell lung cancer (NSCLC) previously treated with crizotinib. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003819 | Zykadia | ceritinib | Valid |
 
 ---
 
@@ -119,7 +119,7 @@ Please refer to the SmPC for the complete warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. No clinical trials or publications support ceritinib for gingival fibromatosis, and no biological link to ALK inhibition was identified. The only EU authorization for ceritinib is cancelled, and it carries a notable interaction and toxicity profile.
+The prediction rests only on a model score. No clinical trials or publications support ceritinib for gingival fibromatosis, and no biological link to ALK inhibition was identified. It carries a notable interaction and toxicity profile.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence for ALK pathway involvement in gingival fibromatosis, along with detailed mechanism of action data for ceritinib

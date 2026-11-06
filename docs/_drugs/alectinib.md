@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Alectinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Alectinib: predicted new indication fibromatosis, gingival (evidence level L5). Approved use: Adjuvant treatment of resected non small cell lung cancer (NSCLC)&nbsp"
 ---
 
@@ -69,9 +69,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004164 | Alecensa | Not recorded | Adjuvant treatment of resected ALK-positive NSCLC at high risk of recurrence; first-line treatment of ALK-positive advanced NSCLC; ALK-positive advanced NSCLC previously treated with crizotinib |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004164 | Alecensa | alectinib hydrochloride | Valid |
 
 ## Cytotoxicity
 

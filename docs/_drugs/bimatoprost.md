@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 95
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Bimatoprost: predicted new indication Malformation syndrome with odontal and/or periodontal component (evidence level L5). Approved use: Reduction of elevated intraocular pressure in chronic open-ang…"
 monitor_inn: "Bimatoprost"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **malformation syndrome with od
 | Predicted New Indication | Malformation syndrome with odontal and/or periodontal component |
 | TxGNN Prediction Score | 1.0000 (model rank 52) |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -79,9 +79,10 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000391 (cancelled) | Lumigan | Not specified | Reduction of elevated intraocular pressure in chronic open-angle glaucoma and ocular hypertension (as monotherapy or as adjunctive therapy to beta-blockers). |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000391 | Lumigan | bimatoprost | Valid |
+| EMEA/H/C/000668 | Ganfort | bimatoprost; timolol | Valid |
 
 ---
 
@@ -99,7 +100,7 @@ Please refer to the SmPC for authoritative warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical or literature support, and the drug's known pharmacology has no plausible connection to dental or periodontal malformation. The marketing authorization has also been cancelled.
+The prediction has no clinical or literature support, and the drug's known pharmacology has no plausible connection to dental or periodontal malformation.
 
 **To proceed, the following is needed:**
 - A credible biological rationale linking prostamide signaling to dental or periodontal development

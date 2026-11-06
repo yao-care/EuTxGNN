@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 681
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Zanubrutinib: predicted new indication Myeloid leukemia (evidence level L4). Approved use: Waldenström's macroglobulinaemia (WM) after at least one prior therap…"
 monitor_inn: "Zanubrutinib"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
@@ -96,9 +96,9 @@ None of these publications studies zanubrutinib in myeloid leukemia. They are th
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004978 (cancelled) | Brukinsa | Not specified | Monotherapy for WM after at least one prior therapy or first-line when unsuitable for chemo-immunotherapy; MZL after prior anti-CD20 therapy; CLL; with obinutuzumab for relapsed/refractory FL... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004978 | Brukinsa | zanubrutinib | Valid |
 
 ---
 

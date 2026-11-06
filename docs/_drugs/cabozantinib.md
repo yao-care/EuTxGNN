@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 119
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Cabozantinib: predicted new indication Liposarcoma (evidence level L3). Approved use: Progressive…"
 monitor_inn: "Cabozantinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "angiolipoma"]
@@ -52,8 +52,8 @@ Evidence for this top-ranked prediction is limited, and the data compiled for th
 | Predicted New Indication | Liposarcoma |
 | TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold (treat as a research question) |
 
 ---
@@ -86,11 +86,10 @@ Note that lower-ranked predictions have more evidence than the top-ranked one. U
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002640 | Cometriq | Not specified | Treatment of adult patients with progressive, unresectable locally advanced or metastatic medullary thyroid carcinoma. |
-
-The authorisation status is cancelled. The data compiled for this report suggest the "Cancelled only" status may reflect a labelling artefact for a specific product and should be verified.
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002640 | Cometriq | cabozantinib | Valid |
+| EMEA/H/C/004163 | Cabometyx | cabozantinib (s)-malate | Valid |
 
 ---
 

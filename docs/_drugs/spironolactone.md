@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 575
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "Spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 description: "Spironolactone: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: In the management of refractory oedema associated with congestive car…"
@@ -86,10 +86,9 @@ Use in men is limited by feminising effects.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005535 | Qaialdo | Not specified | Refractory oedema associated with congestive cardiac failure; hepatic cirrhosis with ascites and oedema, malignant ascites, nephrotic syndrome, diagnosis and treatm... |
-
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005535 | Qaialdo | spironolactone | Valid |
 
 ## Safety Considerations
 

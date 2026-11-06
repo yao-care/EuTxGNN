@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 531
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Rituximab: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Rituximab, s
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 14 |
 | Evidence level | Not applicable |
-| EU Market Status | Marketed (valid licences: 7 of 7) |
-| Number of Authorizations | 7 (valid: 7) |
+| EU Market Status | Marketed (valid licences: 7 of 9) |
+| Number of Authorizations | 9 (valid: 7) |
 
 ## Known uses recorded for this drug
 
@@ -84,15 +84,17 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Rituximab, s
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/003903 | Rixathon |  | Valid |
-| EMEA/H/C/004723 | Blitzima |  | Valid |
-| EMEA/H/C/004729 | Riximyo |  | Valid |
-| EMEA/H/C/004112 | Truxima |  | Valid |
-| EMEA/H/C/006224 | Ituxredi |  | Valid |
-| EMEA/H/C/000165 | MabThera |  | Valid |
-| EMEA/H/C/004696 | Ruxience |  | Valid |
+| EMEA/H/C/000165 | MabThera | rituximab | Valid |
+| EMEA/H/C/003903 | Rixathon | rituximab | Valid |
+| EMEA/H/C/004112 | Truxima | rituximab | Valid |
+| EMEA/H/C/004696 | Ruxience | rituximab | Valid |
+| EMEA/H/C/004723 | Blitzima | rituximab | Valid |
+| EMEA/H/C/004729 | Riximyo | rituximab | Valid |
+| EMEA/H/C/006224 | Ituxredi | rituximab | Valid |
+| EMEA/H/C/004724 | Rituzena | rituximab | Withdrawn |
+| EMEA/H/C/004725 | Ritemvia | rituximab | Withdrawn |
 
 ## Cytotoxicity
 

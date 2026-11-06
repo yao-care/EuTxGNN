@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 164
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Dabigatran Etexilate: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Primary prevention of venous thromboembolic events in adults after el…"
 monitor_inn: "dabigatran etexilate"
 predicted_indications: ["sclerosing cholangitis", "obsolete familial combined hyperlipidemia", "hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "primary release disorder of platelets"]
@@ -68,11 +68,11 @@ No direct mechanistic link to sclerosing cholangitis has been established. A rol
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000829 (cancelled) | Pradaxa | Not specified | Pradaxa 75 mg Primary prevention of venous thromboembolic events in adult patients who have undergone elective... |
-| EMEA/H/C/005639 (cancelled) | Dabigatran Etexilate Accord | Not specified | Prevention of venous thromboembolic events |
-| EMEA/H/C/005922 (cancelled) | Dabigatran etexilate Teva (previously Dabigatran etexilate Leon Farma) | Not specified | Dabigatran etexilate Leon Farma 75 mg Primary prevention of venous thromboembolic events (VTE) in adult pat... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000829 | Pradaxa | dabigatran etexilate mesilate | Valid |
+| EMEA/H/C/005639 | Dabigatran Etexilate Accord | dabigatran etexilate mesilate | Valid |
+| EMEA/H/C/005922 | Dabigatran etexilate Teva | dabigatran etexilate mesilate | Valid |
 
 ## Safety Considerations
 

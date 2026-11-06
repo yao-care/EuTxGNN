@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 292
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Glycine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Treatment of maple syrup urine disease (MSUD) presenting with an acut…"
 monitor_inn: "glycine"
 predicted_indications: ["nasal cavity disease"]
@@ -64,7 +64,6 @@ Currently, detailed mechanism of action data is not available. Glycine is a simp
 
 The data compiled for this report establish no credible mechanistic link between glycine and nasal cavity disease. The high TxGNN score (0.9985, rank 2574) comes from network-based modelling and is not backed by clinical or experimental evidence. The original and predicted indications (an inborn error of metabolism versus a disease of the upper airway) are biologically distant, and no similarity analysis could be supported.
 
-
 ---
 
 ## Clinical Trial Evidence
@@ -86,9 +85,9 @@ The data compiled for this report establish no credible mechanistic link between
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005557 (status: cancelled) | Maapliv | Not specified | Treatment of maple syrup urine disease (MSUD) presenting with an acute decompensation episode in patients from birth who are not eligible for an oral and e... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005557 | Maapliv | glycine,L-alanine,L-arginine,L-aspartic acid,L-cysteine hydrochloride monohydra… | Valid |
 
 ---
 
@@ -109,7 +108,7 @@ No drug-interaction records were found. Please refer to the SmPC for formal warn
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. The single related trial is an unrelated imaging study, the literature is basic or preclinical, and no mechanistic link to nasal cavity disease can be established. The only EU authorisation for glycine (Maapliv) has been cancelled.
+The prediction rests only on a model score. The single related trial is an unrelated imaging study, the literature is basic or preclinical, and no mechanistic link to nasal cavity disease can be established.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (for example from DrugBank) and a plausible biological rationale for nasal cavity disease

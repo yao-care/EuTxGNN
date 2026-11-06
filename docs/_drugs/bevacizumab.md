@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Bevacizumab"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Bevacizumab: predicted new indication epiglottis neoplasm (evidence level L5). Approved use: Alymsys in combination with fluoropyrimidine based chemotherapy is in…"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be relevant for **epiglottis neoplasm**, but **n
 | Predicted New Indication | epiglottis neoplasm |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 10 of 10) |
-| Number of Authorizations | 10 (valid: 10) |
+| EU Market Status | Marketed (valid licences: 10 of 13) |
+| Number of Authorizations | 13 (valid: 10) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -69,13 +69,21 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005286 | Alymsys | Not recorded | Alymsys in combination with fluoropyrimidine based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum. Alymsys in... |
-| EMEA/H/C/005723 | Lytenava | Not recorded | Lytenava is indicated in adults for treatment of neovascular (wet) age-related macular degeneration (nAMD). |
-| EMEA/H/C/005106 | Aybintio | Not recorded | Aybintio in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum. Aybintio... |
-| EMEA/H/C/004728 | Mvasi | Not recorded | Mvasi in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum. Mvasi in... |
-| EMEA/H/C/000582 | Avastin | Not recorded | Bevacizumab in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum. Bevacizumab in... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000582 | Avastin | bevacizumab | Valid |
+| EMEA/H/C/004697 | Zirabev | bevacizumab | Valid |
+| EMEA/H/C/004728 | Mvasi | bevacizumab | Valid |
+| EMEA/H/C/005106 | Aybintio | bevacizumab | Valid |
+| EMEA/H/C/005286 | Alymsys | bevacizumab | Valid |
+| EMEA/H/C/005327 | Abevmy | bevacizumab | Valid |
+| EMEA/H/C/005534 | Vegzelma | bevacizumab | Valid |
+| EMEA/H/C/005556 | Oyavas | bevacizumab | Valid |
+| EMEA/H/C/005574 | Avzivi | bevacizumab | Valid |
+| EMEA/H/C/005723 | Lytenava | bevacizumab | Valid |
+| EMEA/H/C/005181 | Equidacent | bevacizumab | Withdrawn |
+| EMEA/H/C/005611 | Lextemy | bevacizumab | Withdrawn |
+| EMEA/H/C/005640 | Onbevzi | bevacizumab | Withdrawn |
 
 ## Cytotoxicity
 

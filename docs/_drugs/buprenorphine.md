@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Buprenorphine"
 predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "benign shuddering attacks", "extrapyramidal and movement disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Buprenorphine: predicted new indication acute intermittent porphyria (evidence level L5). Approved use: Treatment of opioid dependence within a framework of medical…"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be relevant to **acute intermittent porphyria**,
 | Predicted New Indication | acute intermittent porphyria |
 | TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 3 of 5) |
+| Number of Authorizations | 5 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -73,10 +73,13 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004651 | Buvidal | – | Treatment of opioid dependence within a framework of medical, social and psychological treatment. Treatment is intended for use in adults and... |
-| EMEA/H/C/006188 | Buprenorphine Neuraxpharm | – | Substitution treatment of opioid drug dependence, within a comprehensive therapeutic monitoring framework of medical, social and... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004651 | Buvidal | buprenorphine | Valid |
+| EMEA/H/C/006188 | Buprenorphine Neuraxpharm | buprenorphine hydrochloride | Valid |
+| EMEA/H/C/004407 | Zubsolv | buprenorphine hydrochloride; naloxone hydrochloride dihydrate | Valid |
+| EMEA/H/C/004743 | Sixmo | buprenorphine hydrochloride | Withdrawn |
+| EMEA/H/C/000697 | Suboxone | buprenorphine; naloxone | Withdrawn |
 
 ## Safety Considerations
 

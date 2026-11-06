@@ -5,7 +5,7 @@ layout: default
 title: Azilsartan Medoxomil
 parent: Known Uses Only (No New Predictions)
 nav_order: 79
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Azilsartan Medoxomil: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Azilsartan medoxomil"
 predicted_indications: []
@@ -43,14 +43,15 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Edarbi is indicated for the treatment of essential hypertension in adults. |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002293 (cancelled) | Edarbi | Not specified | Edarbi is indicated for the treatment of essential hypertension in adults. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002293 | Edarbi | azilsartan medoxomil | Valid |
+| EMEA/H/C/002517 | Ipreziv | azilsartan medoxomil | Withdrawn |
 
 ## Safety Considerations
 

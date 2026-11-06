@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Leflunomide"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Leflunomide: predicted new indication brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Leflunomide is indicated for the treatment of adult patients with: ac…"
 ---
 
@@ -50,8 +50,8 @@ but this is a model prediction only, with **0 clinical trials** and **0 publicat
 | Predicted New Indication | brachydactyly-syndactyly syndrome |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 4 of 4) |
-| Number of Authorizations | 4 (valid: 4) |
+| EU Market Status | Marketed (valid licences: 4 of 6) |
+| Number of Authorizations | 6 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -70,12 +70,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001227 | Leflunomide medac | Not recorded | Active rheumatoid arthritis (DMARD). Recent or concurrent treatment with hepatotoxic or haematotoxic DMARDs... |
-| EMEA/H/C/001129 | Leflunomide Zentiva (previously Leflunomide Winthrop) | Not recorded | Active rheumatoid arthritis (DMARD); active psoriatic arthritis. Recent or concurrent treatment with hepatotoxic or haematotoxic DMARDs... |
-| EMEA/H/C/000235 | Arava | Not recorded | Active rheumatoid arthritis (DMARD); active psoriatic arthritis. Recent or concurrent treatment with hepatotoxic or haematotoxic DMARDs... |
-| EMEA/H/C/002035 | Leflunomide ratiopharm | Not recorded | Active rheumatoid arthritis (DMARD); active psoriatic arthritis. Recent or concurrent treatment with hepatotoxic or haematotoxic DMARDs... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000235 | Arava | leflunomide | Valid |
+| EMEA/H/C/001129 | Leflunomide Zentiva | leflunomide | Valid |
+| EMEA/H/C/001227 | Leflunomide medac | leflunomide | Valid |
+| EMEA/H/C/002035 | Leflunomide ratiopharm | leflunomide | Valid |
+| EMEA/H/C/001222 | Repso | leflunomide | Withdrawn |
+| EMEA/H/C/002356 | Leflunomide Teva | leflunomide | Lapsed |
 
 ## Safety Considerations
 

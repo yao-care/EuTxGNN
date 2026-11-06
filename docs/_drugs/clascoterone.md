@@ -5,7 +5,7 @@ layout: default
 title: Clascoterone
 parent: Known Uses Only (No New Predictions)
 nav_order: 152
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Clascoterone: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Clascoterone"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006138 (cancelled) | Winlevi | Not specified | Adults: acne vulgaris. Adolescents (12 to <18 years): facial acne vulgaris. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/006138 | Winlevi | clascoterone | Valid |
 
 ## Safety Considerations
 

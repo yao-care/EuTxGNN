@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 451
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Orlistat"
 predicted_indications: ["hypervitaminosis"]
 description: "Orlistat: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Xenical is indicated in conjunction with a mildly hypocaloric diet fo…"
@@ -80,11 +80,10 @@ Currently no related literature available.
 
 ## EU Market Information
 
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000154 | Xenical | Not specified | Treatment of obese patients with BMI ≥ 30 kg/m², or overweight patients (BMI > 28 kg/m²) with associated risk fact... |
-| EMEA/H/C/000854 | Alli (previously Orlistat GSK) | Not specified | Weight loss in adults who are overweight (BMI 28 kg/m²), taken with a mildly hypocaloric, lower-fat diet. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000154 | Xenical | orlistat | Valid |
+| EMEA/H/C/000854 | Alli | orlistat | Valid |
 
 ---
 

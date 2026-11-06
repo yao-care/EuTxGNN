@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 669
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Vilanterol"
 predicted_indications: ["hyperlucent lung", "tracheal stenosis", "bronchial neoplasm (disease)", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
 description: "Vilanterol: predicted new indication Hyperlucent lung (evidence level L5). Approved use: Laventair Ellipta is indicated as a maintenance bronchodilator treatm…"
@@ -49,8 +49,8 @@ This prediction largely matches the existing labelled uses (COPD and asthma), so
 | Predicted New Indication | Hyperlucent lung |
 | TxGNN Prediction Score | 0.9972 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 6 of 6) |
-| Number of Authorizations | 6 (valid: 6) |
+| EU Market Status | Marketed (valid licences: 6 of 7) |
+| Number of Authorizations | 7 (valid: 6) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -97,13 +97,15 @@ The compiled data contain many more trials than shown here. The table lists the 
 
 Dosage form and manufacturer were not available in the compiled data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003754 | Laventair Ellipta | Not available | Maintenance bronchodilator treatment to relieve symptoms in adults with COPD |
-| EMEA/H/C/002751 | Anoro Ellipta | Not available | Maintenance bronchodilator treatment to relieve symptoms in adults with COPD |
-| EMEA/H/C/002673 | Relvar Ellipta | Not available | Asthma in adults and adolescents aged 12 and over (ICS/LABA appropriate); COPD with FEV1 <70% predicted and exacerbation history... |
-| EMEA/H/C/002745 | Revinty Ellipta | Not available | Asthma in adults and adolescents aged 12 and over (ICS/LABA appropriate); COPD with FEV1 <70% predicted and exacerbation history... |
-| EMEA/H/C/004781 | Elebrato Ellipta | Not available | Maintenance treatment of moderate to severe COPD in adults not adequately treated by an ICS/LABA combination |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002673 | Relvar Ellipta | fluticasone furoate; vilanterol | Valid |
+| EMEA/H/C/002745 | Revinty Ellipta | fluticasone furoate; vilanterol trifenatate | Valid |
+| EMEA/H/C/002751 | Anoro Ellipta | umeclidinium bromide; vilanterol trifenatate | Valid |
+| EMEA/H/C/003754 | Laventair Ellipta | umeclidinium bromide; vilanterol | Valid |
+| EMEA/H/C/004363 | Trelegy Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Valid |
+| EMEA/H/C/004781 | Elebrato Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Valid |
+| EMEA/H/C/005254 | Temybric Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Lapsed |
 
 A sixth licence, Trelegy Ellipta (EMEA/H/C/004363), has the same COPD indication as Elebrato Ellipta and is also cancelled.
 

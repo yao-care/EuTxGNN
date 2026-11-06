@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 479
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Pemigatinib: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Locally advanced or metastatic cholangiocarcinoma with an FGFR2 fusio…"
 monitor_inn: "Pemigatinib"
 predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "HER2 positive breast carcinoma", "cytomegalovirus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "amyotrophic lateral sclerosis", "amyotrohpic lateral sclerosis type 22", "axial spondylometaphyseal dysplasia"]
@@ -71,9 +71,9 @@ Currently no related literature available for the top-ranked prediction (multipl
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005266 | Pemazyre | Not specified | Monotherapy for adults with locally advanced or metastatic cholangiocarcinoma with an FGFR2 fusion or rearrangement that have progressed after at least one prior line of systemic therapy (status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005266 | Pemazyre | pemigatinib | Valid |
 
 ## Cytotoxicity
 

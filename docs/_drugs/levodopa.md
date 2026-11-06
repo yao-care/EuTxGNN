@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Levodopa: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Inbrija is indicated for the intermittent treatment of episodic motor…"
 ---
 
@@ -48,8 +48,8 @@ Levodopa is a dopamine precursor used in Parkinson's disease treatment. The TxGN
 | Predicted New Indication | Rasmussen subacute encephalitis |
 | TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 6 of 7) |
+| Number of Authorizations | 7 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -68,9 +68,15 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004786 | Inbrija | Not recorded | Inbrija is indicated for the intermittent treatment of episodic motor fluctuations (OFF episodes) in adult patients with Parkinson's disease (PD) treated with a levodopa/dopa-decarboxylase inhibitor. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004786 | Inbrija | levodopa | Valid |
+| EMEA/H/C/000511 | Stalevo | levodopa; carbidopa; entacapone | Valid |
+| EMEA/H/C/002441 | Levodopa/Carbidopa/Entacapone Orion | levodopa; carbidopa; entacapone | Valid |
+| EMEA/H/C/002785 | Corbilta | levodopa; carbidopa; entacapone | Valid |
+| EMEA/H/C/006429 | Onerji | levodopa; carbidopa | Valid |
+| EMEA/H/C/006629 | Hopledo | carbidopa monohydrate; levodopa | Valid |
+| EMEA/H/C/002611 | Numient | levodopa; carbidopa | Withdrawn |
 
 The data compiled for this report list one authorization, and it is currently recorded as valid.
 

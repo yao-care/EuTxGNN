@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 410
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Miglustat: predicted new indication autosomal ichthyosis syndrome with fatal disease course (evidence level L2). Approved use: Mild to moderate type 1 Gaucher disease (when enzyme replacement ther…"
 monitor_inn: "Miglustat"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
@@ -100,13 +100,13 @@ The other nine top predictions have no trials or literature. Several have weak o
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004904 (cancelled) | Miglustat Dipharma | Not specified | Oral treatment of mild to moderate type 1 Gaucher disease when enzyme replacement therapy is unsuitable; progressive neurological manifestations of Niemann-Pick ty... |
-| EMEA/H/C/000435 (cancelled) | Zavesca | Not specified | Oral treatment of mild to moderate type-1 Gaucher disease when enzyme replacement therapy is unsuitable; progressive neurological manifestations of Niemann-Pick ty... |
-| EMEA/H/C/004016 (cancelled) | Yargesa | Not specified | Oral treatment of mild to moderate type 1 Gaucher disease when enzyme replacement therapy is unsuitable; progressive neurological manifestations of Niemann-Pick ty... |
-| EMEA/H/C/005695 (cancelled) | Opfolda | Not specified | Enzyme stabiliser of cipaglucosidase alfa long-term enzyme replacement therapy in adults with late-onset Pompe disease (acid α-glucosidase [GAA] deficiency) |
-| EMEA/H/C/004366 (cancelled) | Miglustat Gen.Orph | Not specified | Oral treatment of mild to moderate type 1 Gaucher disease when enzyme replacement therapy is unsuitable; progressive neurological manifestations of Niemann-Pick ty... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000435 | Zavesca | miglustat | Valid |
+| EMEA/H/C/004016 | Yargesa | miglustat | Valid |
+| EMEA/H/C/004366 | Veanibek | miglustat | Valid |
+| EMEA/H/C/004904 | Miglustat Dipharma | miglustat | Valid |
+| EMEA/H/C/005695 | Opfolda | miglustat | Valid |
 
 ---
 

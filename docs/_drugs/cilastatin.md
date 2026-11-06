@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "Cilastatin"
 predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "paratyphoid fever", "bronchitis", "diffuse scleroderma", "salmonellosis"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Cilastatin: predicted new indication Staphylococcus aureus infection (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
@@ -81,9 +81,9 @@ Older clinical reports show that imipenem-cilastatin was active against methicil
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004808 | Recarbrio | Not recorded | Hospital-acquired pneumonia including ventilator-associated pneumonia, bacteraemia associated with these, and infections due to aerobic Gram-negative organisms in adults with limited treatment options... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004808 | Recarbrio | imipenem monohydrate; cilastatin sodium; relebactam monohydrate | Valid |
 
 ## Safety Considerations
 

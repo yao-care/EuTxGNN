@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 437
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Norelgestromin"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Norelgestromin: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Female contraception. Evra is intended for women of fertile age. The…"
@@ -59,7 +59,6 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Hormonal agents can regulate the menstrual cycle or induce withdrawal bleeding, so a plausible class-level link exists. However, amenorrhea is also a known effect of hormonal contraceptives, so it is not a validated therapeutic target for this drug. No drug-specific trials or literature were found, so this is a model-derived hypothesis only.
 
-
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
@@ -70,10 +69,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000410 | Evra | Not specified | Female contraception. Evra is intended for women of fertile age. The safety and efficacy has been established in women aged 18 to 45 years. |
-
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000410 | Evra | norelgestromin; Ethinyl estradiol | Valid |
 
 ## Safety Considerations
 
@@ -93,7 +91,7 @@ Please refer to the SmPC for the official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for amenorrhea is supported only by the TxGNN model score, with no clinical trials or publications. Amenorrhea is also a recognized effect of hormonal contraception, the EU authorization is cancelled, and the knowledge graph lists many disease contraindications.
+The prediction for amenorrhea is supported only by the TxGNN model score, with no clinical trials or publications. Amenorrhea is also a recognized effect of hormonal contraception, and the knowledge graph lists many disease contraindications.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA)

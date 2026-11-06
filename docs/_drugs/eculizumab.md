@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 207
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Eculizumab: predicted new indication Cyclic hematopoiesis (evidence level L5). Approved use: Paroxysmal nocturnal haemoglobinuria (PNH) and atypical haemolytic ur…"
 monitor_inn: "Eculizumab"
 predicted_indications: ["cyclic hematopoiesis", "autosomal recessive severe congenital neutropenia due to JAGN1 deficiency", "X-linked severe congenital neutropenia", "congenital neutropenia-myelofibrosis-nephromegaly syndrome", "adult idiopathic neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "autosomal recessive severe congenital neutropenia due to CSF3R deficiency", "severe congenital neutropenia", "primary release disorder of platelets"]
@@ -71,11 +71,11 @@ No publications specific to cyclic hematopoiesis were found. The literature retr
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006036 (cancelled) | Epysqli | Not specified | PNH and aHUS in adults and children |
-| EMEA/H/C/000791 (cancelled) | Soliris | Not specified | PNH, aHUS, refractory generalized myasthenia gravis (anti-AChR positive), NMOSD (anti-AQP4 positive)... |
-| EMEA/H/C/005652 (cancelled) | Bekemv | Not specified | PNH in adults and children |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000791 | Soliris | Eculizumab | Valid |
+| EMEA/H/C/005652 | Bekemv | Eculizumab | Valid |
+| EMEA/H/C/006036 | Epysqli | Eculizumab | Valid |
 
 ## Cytotoxicity
 

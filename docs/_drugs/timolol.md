@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 615
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Timolol: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -75,11 +75,11 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Timolol, so 
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/000960 | Azarga |  | Valid |
-| EMEA/H/C/000665 | DuoTrav |  | Valid |
-| EMEA/H/C/000668 | Ganfort |  | Valid |
+| EMEA/H/C/000665 | DuoTrav | travoprost; timolol | Valid |
+| EMEA/H/C/000668 | Ganfort | bimatoprost; timolol | Valid |
+| EMEA/H/C/000960 | Azarga | brinzolamide; timolol maleate | Valid |
 
 ## Safety Considerations
 

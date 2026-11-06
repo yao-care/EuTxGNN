@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 686
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Zoledronic Acid: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN model produced candidates for Zoledronic Acid, but every candidate tha
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| EU Market Status | Marketed (valid licences: 4 of 7) |
-| Number of Authorizations | 7 (valid: 4) |
+| EU Market Status | Marketed (valid licences: 5 of 10) |
+| Number of Authorizations | 10 (valid: 5) |
 
 ## Known uses among the model's candidates
 
@@ -72,15 +72,18 @@ The TxGNN model produced candidates for Zoledronic Acid, but every candidate tha
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/002482 | Zoledronic acid Mylan |  | Valid |
-| EMEA/H/C/002667 | Zoledronic Acid Accord |  | Valid |
-| EMEA/H/C/002365 | Zoledronic Acid Hospira |  | Withdrawn |
-| EMEA/H/C/002439 | Zoledronic acid Teva |  | Valid |
-| EMEA/H/C/002359 | Zoledronic acid medac |  | Withdrawn |
-| EMEA/H/C/002488 | Zoledronic acid Actavis |  | Withdrawn |
-| EMEA/H/C/000595 | Aclasta |  | Valid |
+| EMEA/H/C/000595 | Aclasta | zoledronic acid | Valid |
+| EMEA/H/C/002439 | Zoledronic acid Teva | zoledronic acid | Valid |
+| EMEA/H/C/002482 | Zoledronic acid Mylan | zoledronic acid | Valid |
+| EMEA/H/C/002667 | Zoledronic Acid Accord | zoledronic acid monohydrate | Valid |
+| EMEA/H/C/000336 | Zometa | zoledronic acid; zoledronic acid monohydrate | Valid |
+| EMEA/H/C/002359 | Zoledronic acid medac | zoledronic acid monohydrate | Withdrawn |
+| EMEA/H/C/002365 | Zoledronic Acid Hospira | zoledronic acid monohydrate | Withdrawn |
+| EMEA/H/C/002437 | Zoledronic acid Teva Pharma | zoledronic acid | Withdrawn |
+| EMEA/H/C/002488 | Zoledronic acid Actavis | zoledronic acid monohydrate | Withdrawn |
+| EMEA/H/C/002805 | Zoledronic acid Teva Generics | zoledronic acid monohydrate | Withdrawn |
 
 ## Safety Considerations
 

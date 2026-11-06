@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 509
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Rasagiline"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"]
 description: "Rasagiline: predicted new indication PLA2G6-associated neurodegeneration (evidence level L5). Approved use: Rasagiline Viatris is indicated for the treatment of idiopathic Parki…"
@@ -83,11 +83,11 @@ For context, the closest related literature (found for other predicted indicatio
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004064 | Rasagiline Viatris (previously Rasagiline Mylan) | Not specified | Idiopathic Parkinson's disease as monotherapy or adjunct therapy with levodopa in patients with end of dose fluctuations |
-| EMEA/H/C/003957 | Rasagiline ratiopharm | Not specified | Idiopathic Parkinson's disease as monotherapy or adjunct therapy with levodopa in patients with end of dose fluctuations |
-| EMEA/H/C/000574 | Azilect | Not specified | Idiopathic Parkinson's disease as monotherapy or adjunct therapy with levodopa in patients with end-of-dose fluctuations |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000574 | Azilect | rasagiline | Valid |
+| EMEA/H/C/003957 | Rasagiline ratiopharm | rasagiline | Valid |
+| EMEA/H/C/004064 | Rasagiline Viatris | rasagiline tartrate | Valid |
 
 All three authorizations are listed as valid.
 

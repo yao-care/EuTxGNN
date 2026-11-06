@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 585
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Tagraxofusp: predicted new indication Esotropia (evidence level L5). Approved use: First-line monotherapy for adult patients with blastic plasmacytoid d…"
 monitor_inn: "Tagraxofusp"
 predicted_indications: ["esotropia", "pre-malignant neoplasm", "inner ear neoplasm", "benign neoplasm of tongue", "ductal or ductular proliferation", "bronchial adenomas/carcinoids childhood", "chondroid hamartoma", "non-seminomatous lesion", "cystic neoplasm", "thyroglossal duct cyst"]
@@ -82,9 +82,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005031 (cancelled) | Elzonris | Not specified | Monotherapy for the first-line treatment of adult patients with blastic plasmacytoid dendritic cell neoplasm (BPDCN). |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005031 | Elzonris | tagraxofusp | Valid |
 
 ---
 

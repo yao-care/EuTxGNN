@@ -5,7 +5,7 @@ layout: default
 title: Repaglinide
 parent: Known Uses Only (No New Predictions)
 nav_order: 518
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Repaglinide: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Repaglinide"
 predicted_indications: []
@@ -48,14 +48,14 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000187 | NovoNorm | Not specified | Type 2 diabetes (NIDDM) not controlled by diet, weight reduction and exercise; also in combination with metformin... |
-| EMEA/H/C/000362 | Prandin | Not specified | Type 2 diabetes (NIDDM) not controlled by diet, weight reduction and exercise; also in combination with metformin... |
-| EMEA/H/C/001065 | Enyglid | Not specified | Type 2 diabetes (NIDDM) not controlled by diet, weight reduction and exercise; also in combination with metformin... |
-| EMEA/H/C/001067 | Repaglinide Teva | Not specified | Type 2 diabetes (NIDDM) not controlled by diet, weight reduction and exercise; also in combination with metformin... |
-| EMEA/H/C/001066 | Repaglinide Krka | Not specified | Type 2 diabetes (NIDDM) not controlled by diet, weight reduction and exercise. Treatment should be initiated as an... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000187 | NovoNorm | repaglinide | Valid |
+| EMEA/H/C/000362 | Prandin | repaglinide | Valid |
+| EMEA/H/C/001065 | Enyglid | repaglinide | Valid |
+| EMEA/H/C/001066 | Repaglinide Krka | repaglinide | Valid |
+| EMEA/H/C/001067 | Repaglinide Teva | repaglinide | Valid |
+| EMEA/H/C/002318 | Repaglinide Accord | repaglinide | Withdrawn |
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ layout: default
 title: Apalutamide
 parent: Known Uses Only (No New Predictions)
 nav_order: 55
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Apalutamide: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Apalutamide"
 predicted_indications: []
@@ -50,11 +50,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004452 | Erleada (status: valid) | Not specified | Erleada is indicated: in adult men for the treatment of non metastatic castration resistant prostate cancer (nmCRPC) who are at high ri... |
-
-The only EU authorization is recorded as cancelled. This status should be verified against current regional labeling.
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004452 | Erleada | apalutamide | Valid |
 
 ---
 

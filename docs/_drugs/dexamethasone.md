@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 187
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
 description: "Dexamethasone: predicted new indication Alopecia mucinosa (evidence level L5). Approved use: Ozurdex is indicated for the treatment of adult patients with macular…"
@@ -81,10 +81,10 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001140 | Ozurdex | Not specified | Macular oedema after BRVO/CRVO; inflammation of the posterior segment of the eye (non-infectious uveitis); visual impairment due to diabetic macular oedema in selected patients... |
-| EMEA/H/C/004071 | Neofordex | Not specified | Treatment of multiple myeloma. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001140 | Ozurdex | dexamethasone | Valid |
+| EMEA/H/C/004071 | Neofordex | dexamethasone | Valid |
 
 Both authorizations are currently valid.
 

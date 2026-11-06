@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ezetimibe"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ezetimibe: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Primary hypercholesterolaemia (heterozygous familial and non-familial…"
 ---
 
@@ -77,9 +77,9 @@ Neither publication directly studies ezetimibe in CETP deficiency.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004959 | Nustendi | Not specified | Primary hypercholesterolaemia and mixed dyslipidaemia as an adjunct to diet (with a statin, alone in statin-intolerant patients, or in patients already on bempedoic acid and ezetimibe as separate tablets); reduction of cardiovascular risk in adults... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004959 | Nustendi | bempedoic acid; ezetimibe | Valid |
 
 Note: Nustendi is a combination product (bempedoic acid + ezetimibe). Its licence should not be taken to describe how ezetimibe alone is authorised.
 

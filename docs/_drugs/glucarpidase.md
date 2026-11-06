@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 289
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Glucarpidase: predicted new indication Diabetic cataract (evidence level L5). Approved use: Reduction of toxic plasma methotrexate concentration in adults and ch…"
 monitor_inn: "Glucarpidase"
 predicted_indications: ["diabetic cataract", "diabetic retinopathy", "immature cataract", "craniostenosis cataract", "tetanic cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "senile cataract"]
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005467 (cancelled) | Voraxaze | Not specified | Voraxaze is indicated to reduce toxic plasma methotrexate concentration in adults and children (aged 28 days and older) with delayed methotrexate elimination or at ris... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005467 | Voraxaze | glucarpidase | Valid |
 
 ## Safety Considerations
 

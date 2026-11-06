@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 406
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Midazolam: predicted new indication insomnia (evidence level L3). Approved use: Treatment of prolonged, acute…"
 monitor_inn: "Midazolam"
 predicted_indications: ["insomnia (disease)"]
@@ -92,9 +92,9 @@ There are limits. Midazolam has a short half-life, and benzodiazepines carry tol
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002267 (cancelled) | Buccolam | Not specified | Treatment of prolonged, acute, convulsive seizures in infants from 3 months to adults. BUCCOLAM must only be used by parents/carers where the patient has been d... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002267 | Buccolam | midazolam | Valid |
 
 ---
 

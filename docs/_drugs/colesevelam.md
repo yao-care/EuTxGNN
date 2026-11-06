@@ -5,7 +5,7 @@ layout: default
 title: Colesevelam
 parent: Known Uses Only (No New Predictions)
 nav_order: 157
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Colesevelam: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Colesevelam"
 predicted_indications: []
@@ -50,9 +50,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000512 (cancelled) | Cholestagel | Not specified | Cholestagel co-administered with a 3-hydroxy-3-methyl-glutaryl-coenzyme-A (HMG-CoA)-reductase inhibitor (statin) is indicated as adjunctive therapy... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000512 | Cholestagel | colesevelam (as hydrochloride) | Valid |
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Insulin aspart"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Insulin Aspart: predicted new indication autoimmune oophoritis (evidence level L5). Approved use: Insulin aspart Sanofi is indicated for the treatment of diabetes mell…"
 ---
 
@@ -48,8 +48,8 @@ Insulin aspart is a rapid-acting insulin analogue. The TxGNN model predicts it m
 | Predicted New Indication | autoimmune oophoritis |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 5 of 6) |
-| Number of Authorizations | 6 (valid: 5) |
+| EU Market Status | Marketed (valid licences: 7 of 8) |
+| Number of Authorizations | 8 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -68,13 +68,16 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005033 | Insulin aspart Sanofi | Not recorded | Treatment of diabetes mellitus in adults, adolescents and children aged 1 year and above. |
-| EMEA/H/C/004046 | Fiasp | Not recorded | Treatment of diabetes mellitus in adults, adolescents and children aged 1 year and above. |
-| EMEA/H/C/004965 | Kirsty (previously Kixelle) | Not recorded | Treatment of diabetes mellitus in adults, adolescents and children aged 1 year and above. |
-| EMEA/H/C/005635 | Truvelog Mix 30 | Not recorded | Treatment of diabetes mellitus in adults, adolescents and children aged 10 years and above. |
-| EMEA/H/C/000258 | NovoRapid | Not recorded | Treatment of diabetes mellitus in adults, adolescents and children aged 1 year and above. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000258 | NovoRapid | insulin aspart | Valid |
+| EMEA/H/C/000308 | NovoMix | insulin aspart | Valid |
+| EMEA/H/C/004046 | Fiasp | insulin aspart | Valid |
+| EMEA/H/C/004965 | Kirsty | insulin aspart | Valid |
+| EMEA/H/C/005033 | Insulin aspart Sanofi | insulin aspart | Valid |
+| EMEA/H/C/006187 | Dazparda | insulin aspart | Valid |
+| EMEA/H/C/002499 | Ryzodeg | insulin aspart; insulin degludec | Valid |
+| EMEA/H/C/005635 | Truvelog Mix 30 | insulin aspart | Withdrawn |
 
 ## Safety Considerations
 

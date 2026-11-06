@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Melphalan"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Melphalan: predicted new indication female breast carcinoma (evidence level L5). Approved use: High-dose of Phelinun used alone or in combination with other cytotox…"
 ---
 
@@ -85,9 +85,9 @@ High-dose melphalan has been studied with autologous stem cell support in high-r
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005173 | Phelinun | Not recorded | High-dose use alone or with other cytotoxic medicinal products and/or total body irradiation in multiple myeloma, malignant lymphoma, acute leukaemias, childhood neuroblastoma, ovarian cancer... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005173 | Phelinun | melphalan hydrochloride | Valid |
 
 ## Cytotoxicity
 

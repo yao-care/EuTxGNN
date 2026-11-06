@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 533
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Rivastigmine: predicted new indication Glaucoma (evidence level L4). Approved use: Symptomatic treatment of mild to moderately severe Alzheimer's dement…"
 monitor_inn: "Rivastigmine"
 predicted_indications: ["glaucoma"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **glaucoma**, but there are cur
 | Predicted New Indication | Glaucoma |
 | TxGNN Prediction Score | 0.9927 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 6 of 6) |
-| Number of Authorizations | 6 (valid: 6) |
+| EU Market Status | Marketed (valid licences: 7 of 9) |
+| Number of Authorizations | 9 (valid: 7) |
 | Recommended Decision | Hold (treated as a research question) |
 
 ## Why is This Prediction Reasonable?
@@ -75,15 +75,19 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-Rivastigmine is marketed in this country, with 6 valid licences out of 6. Dosage form is not available in the compiled data.
+Dosage form is not available in the compiled data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000169 | Exelon | Not available | Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately sev... |
-| EMEA/H/C/000255 | Prometax | Not available | Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately sev... |
-| EMEA/H/C/001029 | Nimvastid | Not available | Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately sev... |
-| EMEA/H/C/001181 | Rivastigmine 1 A Pharma | Not available | Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately sev... |
-| EMEA/H/C/001182 | Rivastigmine Hexal | Not available | Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately sev... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000169 | Exelon | rivastigmine | Valid |
+| EMEA/H/C/000255 | Prometax | rivastigmine | Valid |
+| EMEA/H/C/001029 | Nimvastid | rivastigmine | Valid |
+| EMEA/H/C/001181 | Rivastigmine 1 A Pharma | rivastigmine | Valid |
+| EMEA/H/C/001182 | Rivastigmine Hexal | rivastigmine | Valid |
+| EMEA/H/C/001183 | Rivastigmine Sandoz | rivastigmine | Valid |
+| EMEA/H/C/002036 | Rivastigmine Actavis | rivastigmine hydrogen tartrate | Valid |
+| EMEA/H/C/001044 | Rivastigmine Teva | rivastigmine | Withdrawn |
+| EMEA/H/C/003824 | Rivastigmine 3M Health Care Ltd | rivastigmine | Withdrawn |
 
 (A sixth cancelled authorization, Rivastigmine Sandoz, EMEA/H/C/001183, carries the same indication.)
 
@@ -109,7 +113,7 @@ Please refer to the SmPC for label warnings and contraindications.
 **Decision: Hold (research question)**
 
 **Rationale:**
-The glaucoma prediction has a plausible mechanism and one animal study showing IOP reduction. However, there are no human trials, and the evidence level is L4. The drug is marketed in this country with 6 valid licences out of 6, and the knowledge graph flags several relevant contraindications, especially cardiac conduction and respiratory disease, which are common in older glaucoma patients.
+The glaucoma prediction has a plausible mechanism and one animal study showing IOP reduction. However, there are no human trials, and the evidence level is L4. The drug is marketed in this country, and the knowledge graph flags several relevant contraindications, especially cardiac conduction and respiratory disease, which are common in older glaucoma patients.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and the SmPC warnings and contraindications (currently missing)

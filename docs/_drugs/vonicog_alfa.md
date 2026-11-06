@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Vonicog Alfa"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "hemophilia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Vonicog Alfa: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Prevention and treatment of haemorrhage or surgical bleeding in adult…"
 ---
 
@@ -81,9 +81,9 @@ No publications were found for the top-ranked prediction (primary release disord
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004454 | Veyvondi | Not specified | Prevention and treatment of haemorrhage or surgical bleeding in adults (age 18 years and older) with von Willebrand disease (VWD), when... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004454 | Veyvondi | vonicog alfa | Valid |
 
 ## Safety Considerations
 

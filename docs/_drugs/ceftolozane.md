@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Ceftolozane"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "urogenital tuberculosis", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ceftolozane: predicted new indication Ureaplasma urethritis (evidence level L5). Approved use: Complicated intra-abdominal infections"
 ---
 
@@ -87,9 +87,9 @@ No publications directly address ureaplasma urethritis. The only publication ret
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003772 | Zerbaxa | Not specified | Zerbaxa is indicated for the treatment of the following infections in adults: Complicated intra abdominal infections; Acute pyelonephritis; Complicated urinary tract infections; Hospital-acquired pneumonia (HAP)... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003772 | Zerbaxa | ceftolozane sulfate; tazobactam sodium | Valid |
 
 ## Safety Considerations
 

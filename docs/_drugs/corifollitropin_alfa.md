@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 160
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Corifollitropin Alfa: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Controlled Ovarian Stimulation (COS) in combination with a GnRH antag…"
 monitor_inn: "Corifollitropin alfa"
 predicted_indications: ["gastroduodenitis", "migraine disorder", "peptic ulcer disease", "migraine with brainstem aura", "Raynaud disease", "pulmonary hypertension", "kyphoscoliotic heart disease"]
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001106 (cancelled) | Elonva | Not specified | Controlled Ovarian Stimulation (COS) in combination with a GnRH antagonist for the development of multiple follicles in women participating in an Assisted Reproductive Technology (ART) program. Elonva is indicated for... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001106 | Elonva | corifollitropin alfa | Valid |
 
 ## Safety Considerations
 

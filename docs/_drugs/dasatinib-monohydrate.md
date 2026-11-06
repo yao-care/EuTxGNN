@@ -6,7 +6,7 @@ title: Dasatinib Monohydrate
 description: "Dasatinib Monohydrate: known uses and market status in the European Union; currently no new candidate indication"
 parent: Known Uses Only (No New Predictions)
 nav_order: 159
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -22,8 +22,8 @@ evidence_level: N/A
 
 | Item | Value |
 |------|-------|
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 2 of 4) |
+| Number of Authorizations | 4 (valid: 2) |
 | Drug Name | Dasatinib Monohydrate |
 | DrugBank ID | [DB01254](https://go.drugbank.com/drugs/DB01254) |
 | Brand Names (EU) | Dasatinib Accord Healthcare |

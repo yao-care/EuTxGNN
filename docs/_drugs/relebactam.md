@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 514
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Relebactam: predicted new indication Hyperamylasemia (evidence level L5). Approved use: Hospital-acquired pneumonia (HAP)…"
 monitor_inn: "Relebactam"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia"]
@@ -59,7 +59,6 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 No mechanistic link to hyperamylasemia has been identified. Relebactam has no known role in amylase regulation, and the high score comes from the TxGNN model (deep learning). It may reflect similarities the model learned between related diseases, not biological evidence. The other top-ranked predictions show the same pattern. Most involve haematological or immunological conditions (for example, polyclonal hyperviscosity syndrome, congenital analbuminemia), and none has a plausible mechanism or any supporting study.
 
-
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
@@ -70,9 +69,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004808 (cancelled) | Recarbrio | Not specified | Treatment of hospital-acquired pneumonia (HAP), including ventilator associated pneumonia (VAP), in adults; bacteraemia associated with HAP or VAP; infections due to aerobic Gram-negative organisms in adults with limited treatment options... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004808 | Recarbrio | imipenem monohydrate; cilastatin sodium; relebactam monohydrate | Valid |
 
 ## Safety Considerations
 

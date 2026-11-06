@@ -5,7 +5,7 @@ layout: default
 title: Abacavir As Sulfate
 parent: Known Uses Only (No New Predictions)
 nav_order: 12
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,9 +41,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|---------|
 | Original Indication | Not recorded in the local data |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 
 ---
 

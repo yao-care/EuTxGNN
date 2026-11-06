@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Atropine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Atropine: predicted new indication migraine disorder (evidence level L5). Approved use: Ryjunea is indicated for slowing the progression of myopia in paediat…"
 ---
 
@@ -80,9 +80,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006324 | Ryjunea | Not recorded | Ryjunea is indicated for slowing the progression of myopia in paediatric patients. Treatment may be initiated in children aged 3-14 years with a... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/006324 | Ryjunea | atropine sulfate | Valid |
 
 ## Safety Considerations
 

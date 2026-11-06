@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 563
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Simoctocog Alfa: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia A…"
 monitor_inn: "Simoctocog alfa"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "fetal and neonatal alloimmune thrombocytopenia", "thrombotic thrombocytopenic purpura"]
@@ -82,10 +82,10 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002813 | Nuwiq (valid) | Not specified | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Nuwiq can be used for all age groups. |
-| EMEA/H/C/004459 | Vihuma (valid) | Not specified | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency).Vihuma can be used for all age groups. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002813 | Nuwiq |  | Valid |
+| EMEA/H/C/004459 | Vihuma | simoctocog alfa | Valid |
 
 ## Safety Considerations
 

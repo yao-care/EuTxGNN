@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 541
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "Rufinamide"
 predicted_indications: ["perioral myoclonia with absences"]
 description: "Rufinamide: predicted new indication Perioral myoclonia with absences (evidence level L5). Approved use: Inovelon is indicated as adjunctive therapy in the treatment of seizu…"
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000660 (cancelled) | Inovelon | Not specified | Adjunctive therapy in the treatment of seizures associated with Lennox Gastaut syndrome in patients 4 years of age and older. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000660 | Inovelon | rufinamide | Valid |
 
 ## Safety Considerations
 

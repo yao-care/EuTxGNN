@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 195
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Dolutegravir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L4). Approved use: HIV infection…"
 monitor_inn: "Dolutegravir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -50,8 +50,8 @@ The evidence is indirect and comes from veterinary or preclinical work, so it is
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -74,9 +74,12 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002753 (cancelled) | Tivicay | Not specified | Tivicay is indicated in combination with other anti-retroviral medicinal products for the treatment of Human Immunodeficiency Virus (HIV) infected adults, adolescents and children of at least 6 years of age or older and weighing at least 14 kg... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002753 | Tivicay | dolutegravir | Valid |
+| EMEA/H/C/002754 | Triumeq | dolutegravir sodium; lamivudine; abacavir (as sulfate) | Valid |
+| EMEA/H/C/004427 | Juluca | dolutegravir sodium; rilpivirine hydrochloride | Valid |
+| EMEA/H/C/004909 | Dovato | dolutegravir sodium; lamivudine | Valid |
 
 ## Safety Considerations
 
@@ -89,7 +92,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score and a single indirect veterinary publication, with no clinical trials. Feline AIDS is not a human indication, so the finding is best treated as a research-model observation. In addition, the only EU authorization for dolutegravir in the compiled data is cancelled.
+The prediction rests on a model score and a single indirect veterinary publication, with no clinical trials. Feline AIDS is not a human indication, so the finding is best treated as a research-model observation.
 
 **To proceed, the following is needed:**
 - Dolutegravir-specific efficacy data in FIV models (the existing study used a combination regimen)

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 683
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Zidovudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 description: "Zidovudine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Combivir is indicated in antiretroviral combination therapy for the t…"
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **feline acquired immunodeficie
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 (preclinical/animal studies only) |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 2 of 3) |
+| Number of Authorizations | 3 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -84,10 +84,11 @@ No randomized trials or human studies were found. All entries below are studies 
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000190 (cancelled) | Combivir | Not stated | Antiretroviral combination therapy for the treatment of HIV infection |
-| EMEA/H/C/000338 (cancelled) | Trizivir | Not stated | Treatment of HIV infection in adults. This fixed combination replaces the three components (abacavir, lamivudine and zidovudine) used separately in similar dosages. It is recommended that treatment is sta... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000190 | Combivir | lamivudine; zidovudine | Valid |
+| EMEA/H/C/000338 | Trizivir | abacavir (as sulfate); lamivudine; zidovudine | Valid |
+| EMEA/H/C/001236 | Lamivudine/Zidovudine Teva | lamivudine; zidovudine | Withdrawn |
 
 ## Safety Considerations
 

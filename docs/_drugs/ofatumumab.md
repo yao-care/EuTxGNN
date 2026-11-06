@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "Ofatumumab"
 predicted_indications: ["follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma", "Langerhans cell histiocytosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ofatumumab: predicted new indication Follicular lymphoma (evidence level L2). Approved use: Treatment of adult patients with relapsing forms of multiple sclerosi…"
 ---
 
@@ -50,8 +50,8 @@ Of these, several Phase 2 studies directly address follicular lymphoma, but they
 | Predicted New Indication | Follicular lymphoma |
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L2 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -96,9 +96,10 @@ Two further trials (NCT01397591, terminated with 3 patients; NCT01263418, withdr
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005410 | Kesimpta | Not specified | Treatment of adult patients with relapsing forms of multiple sclerosis (RMS) with active disease defined by clinical or imaging features |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005410 | Kesimpta | ofatumumab | Valid |
+| EMEA/H/C/001131 | Arzerra | ofatumumab | Withdrawn |
 
 ## Safety Considerations
 

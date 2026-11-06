@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 232
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Emergency treatment of allergic reactions (anaphylaxis) due to insect…"
 monitor_inn: "Epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
@@ -91,9 +91,9 @@ The evidence is strongest for asthma, where several Phase 3 trials of an inhaled
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006139 (cancelled) | Eurneffy | Not specified | Emergency treatment of allergic reactions (anaphylaxis) due to insect stings or bites, foods, medicinal products and other allergens as well as idiop... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/006139 | Eurneffy | epinephrine | Valid |
 
 ## Safety Considerations
 
@@ -107,7 +107,7 @@ For label-based warnings and contraindications, please refer to the SmPC.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Several completed Phase 3 trials of inhaled epinephrine in asthma, including adult, adolescent and paediatric populations, support the prediction for obstructive lung disease. However, the cardiovascular risk signals are significant, the bronchiolitis evidence is inconsistent, and the only EU authorisation on record is cancelled.
+Several completed Phase 3 trials of inhaled epinephrine in asthma, including adult, adolescent and paediatric populations, support the prediction for obstructive lung disease. However, the cardiovascular risk signals are significant, the bronchiolitis evidence is inconsistent.
 
 **Guardrails:**
 - Restrict the scope to asthma and do not extend to bronchiolitis without further evidence.

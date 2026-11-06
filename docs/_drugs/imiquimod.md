@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Imiquimod: predicted new indication Pre-malignant neoplasm (evidence level L5). Approved use: External genital and perianal warts (condylomata acuminata)…"
 monitor_inn: "Imiquimod"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
@@ -50,8 +50,8 @@ with **2 clinical trials** (one small and completed, one terminated early) and *
 | Predicted New Indication | Pre-malignant neoplasm |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 (see note below) |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 2 of 3) |
+| Number of Authorizations | 3 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* Under the strict rule (≥2 completed Phase 3 RCTs), the evidence is weaker than L1. Only one Phase 3 trial is completed, and it is open-label and not randomized. The second Phase 3 RCT was terminated after 9 participants. The L1 label comes from the upstream scoring, but a conservative reading would place this closer to L2–L3. The decision below reflects that caution.
@@ -86,10 +86,11 @@ The supporting trials are small, and one was terminated early. Confirmatory evid
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000179 (cancelled) | Aldara | Cream | Imiquimod cream is indicated for the topical treatment of: External genital and perianal warts (condylomata acuminata) in adults. Small superficial basal... |
-| EMEA/H/C/002387 (cancelled) | Zyclara | Cream | Zyclara is indicated for the topical treatment of clinically typical, non-hyperkeratotic, non-hypertrophic, visible or palpable actinic keratosis of the... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000179 | Aldara | imiquimod | Valid |
+| EMEA/H/C/002387 | Zyclara | imiquimod | Valid |
+| EMEA/H/C/000180 | Zartra | imiquimod | Withdrawn |
 
 ## Safety Considerations
 

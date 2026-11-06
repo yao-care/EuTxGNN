@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 445
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Olaparib: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,9 +72,9 @@ All candidates that the TxGNN model produced for Olaparib (score ≥ 0.99) and t
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/003726 | Lynparza |  | Valid |
+| EMEA/H/C/003726 | Lynparza | olaparib | Valid |
 
 ## Cytotoxicity
 

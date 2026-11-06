@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Bictegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Bictegravir: predicted new indication simian immunodeficiency virus infection (evidence level L5). Approved use: Biktarvy is indicated for the treatment of human immunodeficiency vir…"
 ---
 
@@ -76,9 +76,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004449 | Biktarvy | Not recorded | Treatment of HIV-1 infection in adults and paediatric patients at least 2 years of age and weighing at least 14 kg, without present or past evidence of viral resistance to the integrase inhibitor class, emtricitabine or tenofovir... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004449 | Biktarvy | bictegravir; emtricitabine; tenofovir alafenamide; fumarate | Valid |
 
 ## Safety Considerations
 

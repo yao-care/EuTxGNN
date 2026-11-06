@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Mycophenolate mofetil"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Mycophenolate Mofetil: predicted new indication HIV infectious disease (evidence level L2). Approved use: Myfenax is indicated in combination with ciclosporin and corticostero…"
 ---
 
@@ -89,12 +89,12 @@ Detailed mechanism-of-action data were not available beyond the IMPDH-based reas
 
 Mycophenolate mofetil is marketed in the EU. All 4 authorisations are valid.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000884 | Myfenax | Not recorded | Prophylaxis of acute transplant rejection in allogeneic renal, cardiac or hepatic transplant patients, with ciclosporin and corticosteroids |
-| EMEA/H/C/000082 | CellCept | Not recorded | Prophylaxis of acute transplant rejection in adult and paediatric (1 to 18 years) allogeneic renal, cardiac or hepatic transplant patients... |
-| EMEA/H/C/000882 | Mycophenolate mofetil Teva | Not recorded | Prophylaxis of acute transplant rejection in allogeneic renal, cardiac or hepatic transplant patients, with ciclosporin and corticosteroids |
-| EMEA/H/C/001218 | Myclausen | Not recorded | Prophylaxis of acute transplant rejection in allogeneic renal, cardiac or hepatic transplant patients, with ciclosporin and corticosteroids |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000082 | CellCept | mycophenolate mofetil | Valid |
+| EMEA/H/C/000882 | Mycophenolate mofetil Teva | mycophenolate mofetil | Valid |
+| EMEA/H/C/000884 | Myfenax | mycophenolate mofetil | Valid |
+| EMEA/H/C/001218 | Myclausen | mycophenolate mofetil | Valid |
 
 ## Safety Considerations
 

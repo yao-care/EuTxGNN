@@ -5,7 +5,7 @@ layout: default
 title: Eravacycline
 parent: Known Uses Only (No New Predictions)
 nav_order: 235
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Eravacycline: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Eravacycline"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004237 (cancelled) | Xerava | Not specified | Xerava is indicated in adolescents from the age of 12 years weighing at least 50 kg, and in adults, for the treatment of complicated intra-abdominal infections (cIAI). Consideration should be given to official guidance on the ap... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004237 | Xerava | eravacycline | Valid |
 
 ## Safety Considerations
 

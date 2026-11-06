@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 430
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Nintedanib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L4). Approved use: Idiopathic pulmonary fibrosis (IPF) and other chronic fibrosing inter…"
 monitor_inn: "Nintedanib"
 predicted_indications: ["dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
@@ -76,12 +76,12 @@ Currently no related clinical trials registered.
 
 All four authorizations are currently valid.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006486 | Nintedanib Viatris | Not specified | IPF in adults; other chronic fibrosing ILDs with a progressive phenotype; progressive fibrosing ILDs in children... |
-| EMEA/H/C/002569 | Vargatef | Not specified | In combination with docetaxel for adult patients with locally advanced, metastatic or locally recurrent NSCLC of adenocarcinoma... |
-| EMEA/H/C/003821 | Ofev | Not specified | Idiopathic pulmonary fibrosis (IPF) in adults |
-| EMEA/H/C/006179 | Nintedanib Accord | Not specified | IPF in adults; other chronic fibrosing ILDs with a progressive phenotype; SSc-ILD in adults... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002569 | Vargatef | nintedanib | Valid |
+| EMEA/H/C/003821 | Ofev | nintedanib | Valid |
+| EMEA/H/C/006179 | Nintedanib Accord | nintedanib | Valid |
+| EMEA/H/C/006486 | Nintedanib Viatris | nintedanib | Valid |
 
 ## Cytotoxicity
 

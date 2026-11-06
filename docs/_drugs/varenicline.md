@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 658
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Varenicline: predicted new indication Migraine disorder (evidence level L5). Approved use: Smoking cessation in adults"
 monitor_inn: "Varenicline"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "alopecia", "open-angle glaucoma", "primary hereditary glaucoma", "headache disorder", "pulmonary hypertension"]
@@ -75,9 +75,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000699 | Champix | Not specified | Smoking cessation in adults (status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000699 | Champix | varenicline | Valid |
 
 ## Safety Considerations
 
@@ -99,7 +99,7 @@ The prediction is supported only by a model score. No trials exist, and the sing
 - Detailed mechanism of action data
 - Preclinical or early clinical evidence that varenicline reduces migraine, given that headache is a known adverse effect
 - A cardiovascular and neuropsychiatric risk assessment for a migraine population
-- Clarification of why the EU authorization was cancelled and of the regulatory pathway for any new use
+- Clarification of the regulatory pathway for any new use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

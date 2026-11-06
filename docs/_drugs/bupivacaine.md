@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Bupivacaine"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Bupivacaine: predicted new indication acrodermatitis chronica atrophicans (evidence level L5). Approved use: Exparel&nbsp"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be associated with **acrodermatitis chronica atr
 | Predicted New Indication | acrodermatitis chronica atrophicans |
 | TxGNN Prediction Score | 0.9923 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -69,9 +69,10 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004586 | Exparel liposomal | Not recorded | Exparel liposomal is indicated: in adults as a brachial plexus block or femoral nerve block for treatment of post-operative pain. in adults and children aged 6 years or older as a field block for... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004586 | Exparel liposomal | bupivacaine | Valid |
+| EMEA/H/C/005205 | Zynrelef | bupivacaine; meloxicam | Withdrawn |
 
 ## Safety Considerations
 

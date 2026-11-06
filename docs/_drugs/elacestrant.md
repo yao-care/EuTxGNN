@@ -5,7 +5,7 @@ layout: default
 title: Elacestrant
 parent: Known Uses Only (No New Predictions)
 nav_order: 212
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Elacestrant: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Elacestrant"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005898 (status: cancelled) | Orserdu | Not specified | Monotherapy for postmenopausal women, and men, with ER-positive, HER2-negative, locally advanced or metastatic breast cancer with an activating ESR1 mutation... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005898 | Orserdu | elacestrant | Valid |
 
 ## Cytotoxicity
 

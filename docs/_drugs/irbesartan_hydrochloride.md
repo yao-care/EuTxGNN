@@ -5,7 +5,7 @@ layout: default
 title: Irbesartan Hydrochloride
 parent: Known Uses Only (No New Predictions)
 nav_order: 335
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,9 +41,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|---------|
 | Original Indication | Treatment of essential hypertension. Treatment of renal disease in patients with hypertension and type-2 diabetes mellitus as part of an antihypertensive medicinal-product regimen.; Treatment of essential hypertension. Treatment of renal disease in patients with hypertension and type 2 diabetes mell |
-| EU Market Status | Marketed (valid licences: 5 of 5) |
-| Taiwan Market Status | Not marketed (0 licenses) |
-| Number of Authorizations | 5 (valid: 5) |
+| EU Market Status | Marketed (valid licences: 10 of 13) |
+| Number of Authorizations | 13 (valid: 10) |
 
 ---
 

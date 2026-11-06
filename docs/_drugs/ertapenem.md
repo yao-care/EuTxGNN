@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ertapenem"
 predicted_indications: ["bacterial arthritis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Ertapenem: predicted new indication bacterial arthritis (evidence level L5). Approved use: Treatment Ertapenem SUN is indicated in paediatric patients (3 months…"
 ---
 
@@ -80,10 +80,10 @@ Currently no related clinical trials registered for bacterial arthritis.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005815 | Ertapenem SUN | Not recorded | Treatment Ertapenem SUN is indicated in paediatric patients (3 months to 17 years of age) and in adults for the treatment of the... |
-| EMEA/H/C/000389 | Invanz | Not recorded | Treatment Treatment of the following infections when caused by bacteria known or very likely to be susceptible to ertapenem and... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000389 | Invanz | ertapenem sodium | Valid |
+| EMEA/H/C/005815 | Ertapenem SUN |  | Valid |
 
 ## Safety Considerations
 

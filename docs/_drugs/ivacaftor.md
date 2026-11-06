@@ -5,7 +5,7 @@ layout: default
 title: Ivacaftor
 parent: Known Uses Only (No New Predictions)
 nav_order: 340
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ivacaftor: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Ivacaftor"
 predicted_indications: []
@@ -43,14 +43,17 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Kalydeco tablets are indicated:&nbsp;&nbsp;- As monotherapy for the treatment of adults, adolescents, and children aged 6 years and older and weighing 25 kg or more with cystic fibrosis (CF) who have an R117H CFTR mutation or one of the following gating (Class III) mutations in the cystic fibrosis t |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002494 (cancelled) | Kalydeco | Not specified | Kalydeco tablets are indicated: As monotherapy for the treatment of adults, adolescents, and children aged 6 years and older and weig... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002494 | Kalydeco | ivacaftor | Valid |
+| EMEA/H/C/003954 | Orkambi | Lumacaftor; ivacaftor | Valid |
+| EMEA/H/C/004682 | Symkevi | tezacaftor; ivacaftor | Valid |
+| EMEA/H/C/005269 | Kaftrio | ivacaftor; tezacaftor; elexacaftor | Valid |
 
 ## Safety Considerations
 

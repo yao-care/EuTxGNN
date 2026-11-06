@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 634
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Trametinib: predicted new indication Choroideremia (evidence level L5). Approved use: Unresectable or metastatic BRAF V600-mutant melanoma"
 monitor_inn: "Trametinib"
 predicted_indications: ["choroideremia"]
@@ -52,8 +52,8 @@ Many of the other top-ranked predictions are melanoma subtypes, where evidence i
 | Predicted New Indication | Choroideremia |
 | TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -82,9 +82,10 @@ Currently no related literature available for choroideremia.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002643 (cancelled) | Mekinist | Not specified | Melanoma (BRAF V600), alone or with dabrafenib; adjuvant Stage III melanoma with dabrafenib; advanced BRAF V600 NSCLC with dabrafenib... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002643 | Mekinist | trametinib | Valid |
+| EMEA/H/C/005886 | Spexotras | trametinib dimethyl sulfoxide | Valid |
 
 ---
 
@@ -113,7 +114,7 @@ For warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The choroideremia prediction rests on a computational score alone. There are no trials or publications, and choroideremia is caused by CHM loss of function rather than MAPK signalling, so a mechanism for MEK inhibition is not apparent. The EU authorization is also cancelled.
+The choroideremia prediction rests on a computational score alone. There are no trials or publications, and choroideremia is caused by CHM loss of function rather than MAPK signalling, so a mechanism for MEK inhibition is not apparent.
 
 **To proceed, the following is needed:**
 - A biological rationale linking MEK/MAPK inhibition to choroideremia, tested in preclinical models (for example, retinal pigment epithelium or patient-derived cells)

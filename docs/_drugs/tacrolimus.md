@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 581
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Tacrolimus: predicted new indication Seborrheic dermatitis (evidence level L5). Approved use: Prophylaxis of transplant rejection in adult kidney or liver allograf…"
 monitor_inn: "Tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
@@ -50,8 +50,8 @@ with **2 clinical trials** (one completed Phase 3, one completed Phase 4) and **
 | Predicted New Indication | Seborrheic dermatitis |
 | TxGNN Prediction Score | 0.9926 |
 | Evidence Level | L1 (as assigned in the compiled data; see the note under Clinical Trial Evidence) |
-| EU Market Status | Marketed (valid licences: 5 of 5) |
-| Number of Authorizations | 5 (valid: 5) |
+| EU Market Status | Marketed (valid licences: 5 of 6) |
+| Number of Authorizations | 6 (valid: 5) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -86,13 +86,14 @@ Note: whether the Phase 3 trial was randomized or controlled cannot be confirmed
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002655 | Envarsus | Not specified | Prophylaxis of transplant rejection in adult kidney or liver allograft recipients. Treatment of allograft rejection resistant to treatment with... |
-| EMEA/H/C/000954 | Modigraf | Not specified | Prophylaxis of transplant rejection in adult and paediatric, kidney, liver or heart allograft recipients. Treatment of allograft rejection resistant... |
-| EMEA/H/C/000374 | Protopic | Not specified | Flare treatment of moderate to severe atopic dermatitis in adults and adolescents (16+) and children (2+); maintenance treatment to prevent flares... |
-| EMEA/H/C/000712 | Advagraf | Not specified | Prophylaxis of transplant rejection in adult kidney or liver allograft recipients. Treatment of allograft rejection resistant to treatment with... |
-| EMEA/H/C/004435 | Tacforius | Not specified | Prophylaxis of transplant rejection in adult kidney or liver allograft recipients. Treatment of allograft rejection resistant to treatment with... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000374 | Protopic | tacrolimus | Valid |
+| EMEA/H/C/000712 | Advagraf | tacrolimus | Valid |
+| EMEA/H/C/000954 | Modigraf | tacrolimus | Valid |
+| EMEA/H/C/002655 | Envarsus | tacrolimus | Valid |
+| EMEA/H/C/004435 | Tacforius | tacrolimus monohydrate | Valid |
+| EMEA/H/C/000375 | Protopy | tacrolimus | Withdrawn |
 
 All five authorizations are listed as valid.
 
@@ -114,7 +115,7 @@ Two completed trials (Phase 3 and Phase 4, 224 patients combined) test tacrolimu
 **To proceed, the following is needed:**
 - Published results and design details (randomization, control arm) of NCT02004860 and NCT01591070
 - Detailed mechanism of action data and the full SmPC warnings and contraindications (both missing from the compiled data)
-- Clarification of the EU regulatory status of topical tacrolimus products, since all five authorizations are valid
+- Clarification of the EU regulatory status of topical tacrolimus products
 - A long-term safety plan covering malignancy, infection and interacting medications, plus a limited-area, short-course use framework for facial skin
 ## Disclaimer
 

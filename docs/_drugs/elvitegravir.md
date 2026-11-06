@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 219
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Elvitegravir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV-1 infection in adults and adolescents (aged 12 years and older…"
 monitor_inn: "Elvitegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -50,8 +50,8 @@ but there are **0 registered clinical trials** and only **preclinical literature
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L4 |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 2 of 3) |
+| Number of Authorizations | 3 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -81,10 +81,11 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004042 | Genvoya (valid) | Not specified | Treatment of adults and adolescents (aged 12 years and older, body weight at least 35 kg) infected with HIV-1 without known mutations associated with resi... |
-| EMEA/H/C/002574 | Stribild (valid) | Not specified | Treatment of HIV-1 infection in adults aged 18 years and over who are antiretroviral treatment-naïve or are infected with HIV-1 without known mutatio... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002574 | Stribild | elvitegravir; cobicistat; emtricitabine; tenofovir disoproxil fumarate | Valid |
+| EMEA/H/C/004042 | Genvoya | elvitegravir; cobicistat; emtricitabine; tenofovir alafenamide | Valid |
+| EMEA/H/C/002577 | Vitekta | elvitegravir | Withdrawn |
 
 ## Safety Considerations
 

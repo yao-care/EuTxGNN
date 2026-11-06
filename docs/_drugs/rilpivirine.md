@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 522
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Rilpivirine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV-1 infection…"
 monitor_inn: "Rilpivirine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -50,8 +50,8 @@ Currently there are **0 registered clinical trials** and **5 publications**, all
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L4 |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Authorizations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -78,10 +78,14 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005060 | Rekambys (valid) | Not specified | In combination with cabotegravir injection for HIV-1 infection in virologically suppressed adults and adolescents (at least 12 years, ≥35 kg)... |
-| EMEA/H/C/002264 | Edurant (valid) | Not specified | In combination with other antiretrovirals for HIV-1 infection in paediatric patients 2 to <18 years and adults without known NNRTI resistance... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002264 | Edurant | rilpivirine hydrochloride | Valid |
+| EMEA/H/C/005060 | Rekambys | rilpivirine | Valid |
+| EMEA/H/C/002312 | Eviplera | emtricitabine; rilpivirine hydrochloride; tenofovir disoproxil fumarate | Valid |
+| EMEA/H/C/004156 | Odefsey | emtricitabine; rilpivirine hydrochloride; tenofovir alafenamide | Valid |
+| EMEA/H/C/004427 | Juluca | dolutegravir sodium; rilpivirine hydrochloride | Valid |
+| EMEA/H/C/006491 | Emtricitabine / Rilpivirine / Tenofovir Alafenamide Viatris | emtricitabine; rilpivirine hydrochloride; tenofovir alafenamide fumarate | Valid |
 
 ## Safety Considerations
 

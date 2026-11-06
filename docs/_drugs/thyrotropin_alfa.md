@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 611
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Thyrotropin Alfa: predicted new indication Migraine disorder (evidence level L5). Approved use: Use with serum thyroglobulin (Tg) testing…"
 monitor_inn: "Thyrotropin alfa"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Raynaud disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "postural orthostatic tachycardia syndrome", "hyperthyroidism"]
@@ -70,9 +70,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000220 (cancelled) | Thyrogen | Not specified | Thyrogen is indicated for use with serum thyroglobulin (Tg) testing with or without radioiodine imaging for the detection of thyroid remn... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000220 | Thyrogen | thyrotropin alfa | Valid |
 
 ## Safety Considerations
 

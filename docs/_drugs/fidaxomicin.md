@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 260
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Fidaxomicin: predicted new indication Staphylococcal scalded skin syndrome (evidence level L5). Approved use: Treatment of Clostridioides difficile infections (CDI…"
 monitor_inn: "Fidaxomicin"
 predicted_indications: ["staphylococcal scalded skin syndrome", "bullous impetigo", "inhalational botulism", "impetigo", "toxin-mediated infectious botulism", "vulvovaginal candidiasis", "hordeolum", "staphylococcus aureus pneumonia", "punctate epithelial keratoconjunctivitis"]
@@ -72,9 +72,9 @@ Currently no literature directly related to the predicted indication (staphyloco
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002087 (cancelled) | Dificlir | Film-coated tablets; granules for oral suspension | Treatment of *Clostridioides difficile* infections (CDI) in adult and paediatric patients with a body weight of at least 12.5 kg (tablets) and from birth to <18 years (granules)... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002087 | Dificlir | fidaxomicin | Valid |
 
 ## Safety Considerations
 

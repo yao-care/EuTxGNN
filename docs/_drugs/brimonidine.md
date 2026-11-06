@@ -3,7 +3,7 @@ layout: default
 title: Brimonidine
 parent: Known Uses Only (No New Predictions)
 nav_order: 106
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Brimonidine: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0
@@ -45,8 +45,8 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 | Item | Content |
 |------|------|
 | Known uses recorded for this drug | 5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 
 ## Known uses recorded for this drug
 
@@ -73,9 +73,10 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/002642 | Mirvaso |  | Valid |
+| EMEA/H/C/002642 | Mirvaso | brimonidine tartrate | Valid |
+| EMEA/H/C/003698 | Simbrinza | brinzolamide; brimonidine tartrate | Valid |
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ layout: default
 title: Eliglustat
 parent: Known Uses Only (No New Predictions)
 nav_order: 216
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Eliglustat: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Eliglustat"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003724 (cancelled) | Cerdelga | Not specified | Long-term treatment of adult patients with Gaucher disease type 1 (GD1), who are CYP2D6 poor metabolisers (PMs), intermediate metabolisers... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003724 | Cerdelga | Eliglustat (tartrate) | Valid |
 
 ## Safety Considerations
 

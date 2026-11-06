@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 608
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Thalidomide: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,10 +72,10 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Thalidomide,
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/000823 | Thalidomide BMS (previously Thalidomide Celgene) |  | Valid |
-| EMEA/H/C/005715 | Thalidomide Lipomed |  | Valid |
+| EMEA/H/C/000823 | Thalidomide BMS | thalidomide | Valid |
+| EMEA/H/C/005715 | Thalidomide Lipomed | thalidomide | Valid |
 
 ## Cytotoxicity
 

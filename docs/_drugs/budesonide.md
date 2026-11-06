@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 111
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Budesonide: predicted new indication Atopic eczema (evidence level L4). Approved use: Eosinophilic esophagitis (EoE) in adults (older than 18 years of age)"
 monitor_inn: "Budesonide"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
@@ -52,8 +52,8 @@ The evidence is essentially model-prediction level, so this direction is not yet
 | Predicted New Indication | Atopic eczema |
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 7 of 10) |
+| Number of Authorizations | 10 (valid: 7) |
 | Recommended Decision | Hold |
 
 ---
@@ -93,9 +93,18 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004655 | Jorveza | Not specified | Treatment of eosinophilic esophagitis (EoE) in adults (older than 18 years of age). (Status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004655 | Jorveza | budesonide | Valid |
+| EMEA/H/C/002348 | DuoResp Spiromax | budesonide; formoterol fumarate dihydrate | Valid |
+| EMEA/H/C/003890 | BiResp Spiromax | budesonide; formoterol fumarate dihydrate | Valid |
+| EMEA/H/C/004882 | GoResp Digihaler | budesonide; formoterol fumarate dihydrate | Valid |
+| EMEA/H/C/004983 | Trixeo Aerosphere | formoterol fumarate dihydrate; glycopyrronium bromide; budesonide | Valid |
+| EMEA/H/C/005311 | Riltrava Aerosphere | budesonide; formoterol fumarate dihydrate; glycopyrronium bromide | Valid |
+| EMEA/H/C/005653 | Kinpeygo | budesonide, micronised | Valid |
+| EMEA/H/C/003951 | Budesonide/Formoterol Teva | budesonide; formoterol fumarate dihydrate | Withdrawn |
+| EMEA/H/C/003952 | Vylaer Spiromax | budesonide; formoterol fumarate dihydrate | Withdrawn |
+| EMEA/H/C/003953 | Budesonide/Formoterol Teva Pharma B.V. | budesonide; formoterol | Withdrawn |
 
 ---
 
@@ -117,7 +126,7 @@ Please refer to the SmPC for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but there are no clinical trials and the literature is indirect or preclinical. Established topical corticosteroids already treat atopic eczema, and the only EU authorization for budesonide in this data has been cancelled.
+The prediction score is high, but there are no clinical trials and the literature is indirect or preclinical. Established topical corticosteroids already treat atopic eczema.
 
 **To proceed, the following is needed:**
 - Mechanism of action data to support the mechanistic-link analysis

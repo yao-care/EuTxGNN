@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 353
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Larotrectinib: predicted new indication Multiple endocrine neoplasia (evidence level L3). Approved use: Solid tumours with an NTRK gene fusion that are locally advanced…"
 monitor_inn: "Larotrectinib"
 predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]
@@ -76,9 +76,9 @@ Any benefit would probably be limited to the rare tumours in these patients that
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004919 (cancelled) | Vitrakvi | Not specified | Vitrakvi as monotherapy is indicated for the treatment of adult and paediatric patients with solid tumours that display a Neurotrophic Tyrosine Receptor Kinase (NTRK) gene fusion,... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004919 | Vitrakvi | larotrectinib sulfate | Valid |
 
 ## Cytotoxicity
 
@@ -104,7 +104,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but the evidence is indirect: one non-specific basket trial and two papers that do not test larotrectinib in multiple endocrine neoplasia. The disease is driven mainly by RET, not NTRK, and the only plausible benefit is in the rare NTRK fusion-positive tumours already covered by the existing indication. The EU authorization is also cancelled.
+The prediction score is high, but the evidence is indirect: one non-specific basket trial and two papers that do not test larotrectinib in multiple endocrine neoplasia. The disease is driven mainly by RET, not NTRK, and the only plausible benefit is in the rare NTRK fusion-positive tumours already covered by the existing indication.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a clear rationale for TRK inhibition in RET-driven MEN

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Iloprost"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Iloprost: predicted new indication hypotrichosis simplex of the scalp (evidence level L5). Approved use: Treatment of patients with primary pulmonary hypertension…"
 ---
 
@@ -69,9 +69,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000474 | Ventavis | Not recorded | Treatment of patients with primary pulmonary hypertension, classified as New York Heart Association functional class III, to improve exercise capacity and symptoms. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000474 | Ventavis | iloprost | Valid |
 
 ## Safety Considerations
 

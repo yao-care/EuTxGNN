@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Etanercept"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Etanercept: predicted new indication hypermobility of coccyx (evidence level L5). Approved use: Rheumatoid arthritis Enbrel in combination with methotrexate is indic…"
 ---
 
@@ -48,8 +48,8 @@ Etanercept is a soluble TNF receptor fusion protein that blocks tumour necrosis 
 | Predicted New Indication | hypermobility of coccyx |
 | TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 4 of 4) |
-| Number of Authorizations | 4 (valid: 4) |
+| EU Market Status | Marketed (valid licences: 5 of 6) |
+| Number of Authorizations | 6 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -68,14 +68,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name |
-|---------|------|
-| EMEA/H/C/000262 | Enbrel |
-| EMEA/H/C/004711 | Nepexto |
-| EMEA/H/C/004192 | Erelzi |
-| EMEA/H/C/004007 | Benepali |
-
-All four are single-ingredient etanercept products (the originator and biosimilars).
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000262 | Enbrel | etanercept | Valid |
+| EMEA/H/C/004007 | Benepali | etanercept | Valid |
+| EMEA/H/C/004192 | Erelzi | etanercept | Valid |
+| EMEA/H/C/004711 | Nepexto | etanercept | Valid |
+| EMEA/H/C/006738 | Fubelv |  | Valid |
+| EMEA/H/C/004167 | Lifmior | etanercept | Lapsed |
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 569
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "Sofosbuvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
 description: "Sofosbuvir: predicted new indication Hepatitis B virus infection (evidence level L3). Approved use: Sovaldi is indicated in combination with other medicinal products for…"
@@ -50,8 +50,8 @@ The other 11 registered trials and most of the 19 publications concern hepatitis
 | Predicted New Indication | Hepatitis B virus infection |
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L3 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Authorizations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -91,9 +91,12 @@ One signal does support further study. A retrospective observation in patients w
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002798 | Sovaldi | Not specified | Sovaldi is indicated in combination with other medicinal products for the treatment of chronic hepatitis C (CHC) in adult and paediatric patients aged 3 years and above... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002798 | Sovaldi | sofosbuvir | Valid |
+| EMEA/H/C/003850 | Harvoni | ledipasvir; sofosbuvir | Valid |
+| EMEA/H/C/004210 | Epclusa | sofosbuvir; velpatasvir | Valid |
+| EMEA/H/C/004350 | Vosevi | sofosbuvir; velpatasvir; voxilaprevi | Valid |
 
 ## Safety Considerations
 

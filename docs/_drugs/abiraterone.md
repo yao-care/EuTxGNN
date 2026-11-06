@@ -5,7 +5,7 @@ layout: default
 title: Abiraterone
 parent: Known Uses Only (No New Predictions)
 nav_order: 16
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Abiraterone: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Abiraterone"
 predicted_indications: []
@@ -43,20 +43,20 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Abiraterone Mylan is indicated with prednisone or prednisolone for: the treatment of newly diagnosed high risk metastatic hormone sensitive prostate cancer (mHSPC) in adult men in combination with androgen deprivation therapy (ADT). the treatment of metastatic castration resistant prostate cancer (m |
-| EU Market Status | Marketed (valid licences: 4 of 4) |
-| Number of Authorizations | 4 (valid: 4) |
+| EU Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Authorizations | 5 (valid: 5) |
 
 ---
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005368 | Abiraterone Mylan | – | With prednisone or prednisolone: newly diagnosed high-risk mHSPC with ADT; mCRPC (asymptomatic/mildly symptomatic after ADT failure, or after docetaxel)... |
-| EMEA/H/C/005408 | Abiraterone Accord | – | With prednisone or prednisolone: newly diagnosed high-risk mHSPC with ADT; mCRPC (asymptomatic/mildly symptomatic after ADT failure, or after docetaxel)... |
-| EMEA/H/C/002321 | Zytiga | – | With prednisone or prednisolone: mCRPC in men asymptomatic or mildly symptomatic after ADT failure, or after docetaxel... |
-| EMEA/H/C/005649 | Abiraterone Krka | – | With prednisone or prednisolone: newly diagnosed high-risk mHSPC with ADT; mCRPC (asymptomatic/mildly symptomatic after ADT failure, or after docetaxel)... |
-
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002321 | Zytiga | abiraterone acetate | Valid |
+| EMEA/H/C/005368 | Abiraterone Mylan | abiraterone acetate | Valid |
+| EMEA/H/C/005408 | Abiraterone Accord | abiraterone acetate | Valid |
+| EMEA/H/C/005649 | Abiraterone Krka | abiraterone acetate | Valid |
+| EMEA/H/C/005932 | Akeega | abiraterone acetate; niraparib (tosilate monohydrate) | Valid |
 
 ---
 

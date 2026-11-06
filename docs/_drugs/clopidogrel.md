@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 154
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Clopidogrel: predicted new indication migraine with brainstem aura (evidence level L2). Approved use: Secondary prevention of atherothrombotic events (myocardial infarctio…"
 monitor_inn: "Clopidogrel"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "rheumatoid arthritis"]
@@ -52,8 +52,8 @@ with **6 related clinical trials** and **20 publications** currently supporting 
 | Predicted New Indication | Migraine disorder (rank 2 prediction; the rank 1 prediction, migraine with brainstem aura, has less evidence) |
 | TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 12 of 12) |
-| Number of Authorizations | 12 (valid: 12) |
+| EU Market Status | Marketed (valid licences: 17 of 32) |
+| Number of Authorizations | 32 (valid: 17) |
 | Recommended Decision | Proceed with Guardrails |
 
 **Note on prediction selection:** Of the top 10 predictions, migraine disorder (rank 2) has by far the strongest evidence, so this report focuses on it. Migraine with brainstem aura (rank 1) is closely related, but its evidence is limited to migraine with aura in general. The remaining predictions (osteoarthritis, tendinitis, myositis fibrosa, idiopathic granulomatous myositis, rheumatoid arthritis, osteoarthritis susceptibility, pseudoachondroplasia, fibromyalgia) have no supporting clinical evidence and should be placed on Hold.
@@ -102,15 +102,32 @@ The link between the original indication (preventing vascular and thrombotic eve
 
 ## EU Market Information
 
-All 12 centralised authorisations in the data compiled are valid. The main ones are listed below (dosage forms are not recorded).
+The main ones are listed below (dosage forms are not recorded).
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000175 | Iscover | Not recorded | Secondary prevention of atherothrombotic events: myocardial infarction, ischaemic stroke, peripheral arterial disease; acute coro... |
-| EMEA/H/C/001058 | Zyllt | Not recorded | Prevention Secondary prevention of atherothrombotic events Clopidogrel is indicated in: Adult patients suffering from myoc... |
-| EMEA/H/C/002255 | Clopidogrel HCS | Not recorded | Secondary prevention of atherothrombotic events Clopidogrel is indicated in: Adult patients suffering from myocardial inf... |
-| EMEA/H/C/001056 | Clopidogrel Krka | Not recorded | Prevention of atherothrombotic events in patients with myocardial infarction, ischaemic stroke or established peripheral arterial disease |
-| EMEA/H/C/001059 | Grepid | Not recorded | Prevention of atherothrombotic events Clopidogrel is indicated in: adult patients suffering from myocardial infarction (from a f... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000174 | Plavix | clopidogrel hydrogen sulfate | Valid |
+| EMEA/H/C/000175 | Iscover | clopidogrel | Valid |
+| EMEA/H/C/000975 | Clopidogrel Zentiva | clopidogrel | Valid |
+| EMEA/H/C/001053 | Clopidogrel Teva (hydrogen sulphate) | clopidogrel (as hydrogen sulfate) | Valid |
+| EMEA/H/C/001056 | Clopidogrel Krka | clopidogrel (as hydrochloride) | Valid |
+| EMEA/H/C/001058 | Zyllt | clopidogrel (as hydrogen sulfate) | Valid |
+| EMEA/H/C/001059 | Grepid | clopidogrel (as besilate) | Valid |
+| EMEA/H/C/001134 | Clopidogrel Taw Pharma | clopidogrel hydrochloride | Valid |
+| EMEA/H/C/001136 | Clopidogrel TAD | clopidogrel (as hydrochloride) | Valid |
+| EMEA/H/C/001137 | Clopidogrel Krka d.d. | clopidogrel (as hydrochloride) | Valid |
+| EMEA/H/C/001138 | Clopidogrel BGR | clopidogrel (as hydrogen sulfate) | Valid |
+| EMEA/H/C/001189 | Clopidogrel Viatris | clopidogrel besilate | Valid |
+| EMEA/H/C/002255 | Clopidogrel HCS | clopidogrel (as hydrochloride) | Valid |
+| EMEA/H/C/004006 | Clopidogrel ratiopharm | clopidogrel (as hydrogen sulfate) | Valid |
+| EMEA/H/C/001143 | DuoPlavin | clopidogrel; acetylsalicylic acid | Valid |
+| EMEA/H/C/001144 | Clopidogrel/Acetylsalicylic acid Zentiva | clopidogrel; acetylsalicylic acid | Valid |
+| EMEA/H/C/004996 | Clopidogrel / Acetylsalicylic acid Viatris | acetylsalicylic acid; clopidogrel hydrogen sulfate | Valid |
+| EMEA/H/C/000974 | Clopidogrel BMS | clopidogrel (as hydrogen sulfate) | Withdrawn |
+| EMEA/H/C/001054 | Clopidogrel 1A Pharma | clopidogrel | Withdrawn |
+| EMEA/H/C/001132 | Clopidogrel DURA | clopidogrel (as hydrochloride) | Withdrawn |
+
+Showing 20 of 32 EMA authorisations.
 
 ---
 
@@ -140,7 +157,7 @@ Several randomised studies (CANOA, a pilot RCT, and a recently published multice
 - Bleeding-risk assessment and a patient-selection plan (for example, PFO or right-to-left shunt confirmed by imaging)
 - A drug-interaction management plan, especially for proton pump inhibitors and aspirin
 - Full review of the SmPC warnings and contraindications
-- Clarification of the market situation, since all 12 EU centralised authorisations in the data compiled are valid and the drug is marketed
+- Clarification of the market situation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

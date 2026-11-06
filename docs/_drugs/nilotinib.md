@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 429
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Nilotinib"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
 description: "Nilotinib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L5). Approved use: Tasigna is indicated for the treatment of: adult and paediatric patie…"
@@ -74,10 +74,10 @@ Currently no related clinical trials registered for dermatofibrosarcoma protuber
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000798 (cancelled) | Tasigna | Not specified | Tasigna is indicated for the treatment of: adult and paediatric patients with newly diagnosed Philadelphia chromosome positive chronic myelogenous leukaemia (CML) in the... |
-| EMEA/H/C/006315 (cancelled) | Nilotinib Accord | Not specified | Nilotinib Accord is indicated for the treatment of: - adult and paediatric patients with newly diagnosed Philadelphia chromosome positive chronic myelogenous leukaemia (CML) in the... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000798 | Tasigna | nilotinib | Valid |
+| EMEA/H/C/006315 | Nilotinib Accord | nilotinib | Valid |
 
 ## Cytotoxicity
 

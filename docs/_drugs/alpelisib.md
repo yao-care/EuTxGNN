@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Alpelisib"
 predicted_indications: ["pulmonary hypertension"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Alpelisib: predicted new indication pulmonary hypertension (evidence level L5). Approved use: Piqray is indicated in combination with fulvestrant for the treatment…"
 ---
 
@@ -48,8 +48,8 @@ Alpelisib is a drug authorized in the European Union for a breast cancer indicat
 | Predicted New Indication | pulmonary hypertension |
 | TxGNN Prediction Score | 0.9903 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Authorizations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -72,9 +72,10 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004804 | Piqray | Not recorded | Piqray is indicated in combination with fulvestrant for the treatment of postmenopausal women, and men, with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metast... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004804 | Piqray | alpelisib | Valid |
+| EMEA/H/C/006539 | Vijoice | alpelisib | Valid |
 
 ## Cytotoxicity
 

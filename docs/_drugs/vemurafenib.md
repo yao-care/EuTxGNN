@@ -5,7 +5,7 @@ layout: default
 title: Vemurafenib
 parent: Known Uses Only (No New Predictions)
 nav_order: 662
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Vemurafenib: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Vemurafenib"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002409 (cancelled) | Zelboraf | Not specified | Vemurafenib is indicated in monotherapy for the treatment of adult patients with BRAF-V600-mutation-positive unresectable or metastatic melanoma. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002409 | Zelboraf | vemurafenib | Valid |
 
 ## Cytotoxicity
 

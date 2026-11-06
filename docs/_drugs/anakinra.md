@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 50
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Anakinra"
 predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "aggressive systemic mastocytosis", "hepatic veno-occlusive disease", "peliosis hepatis", "oligoarticular juvenile idiopathic arthritis with anti-nuclear antibodies", "oligoarticular juvenile idiopathic arthritis without anti-nuclear antibodies", "pyogenic autoinflammatory syndrome", "unclassified autoinflammatory syndrome"]
 description: "Anakinra: predicted new indication Extracutaneous mastocytoma (evidence level L5). Approved use: Rheumatoid Arthritis (RA) Kineret is indicated in adults for the trea…"
@@ -70,9 +70,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000363 | Kineret | Not specified | Rheumatoid arthritis (with methotrexate), COVID-19 pneumonia, periodic fever syndromes (CAPS, FMF), Still's disease (SJIA, AOSD)... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000363 | Kineret | anakinra | Valid |
 
 ## Safety Considerations
 

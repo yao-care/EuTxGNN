@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 254
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Febuxostat: predicted new indication hypouricemia, renal (evidence level L4). Approved use: Treatment of chronic hyperuricaemia where urate deposition has alread…"
 monitor_inn: "Febuxostat"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
@@ -89,11 +89,11 @@ Other predictions in the list (HPRT partial deficiency and Lesch-Nyhan syndrome)
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000777 | Adenuric | Not specified | 80 mg: chronic hyperuricaemia with urate deposition (including tophus and/or gouty arthritis). 120 mg: the same, plus prevention and treatment of hyperuricaemia in adults undergoing chemotherapy for haematologic malignancies at intermediate to high ris... |
-| EMEA/H/C/004374 | Febuxostat Viatris (previously Febuxostat Mylan) | Not specified | Chronic hyperuricaemia with urate deposition (including tophus and/or gouty arthritis); prevention and treatment of hyperuricaemia in adults undergoing chemotherapy for haematologic malignan... |
-| EMEA/H/C/004773 | Febuxostat Krka | Not specified | Treatment of chronic hyperuricaemia in conditions where urate deposition has already occurred (including a history, or presence of, tophus and/or gouty arthritis). Indicated in adults. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000777 | Adenuric | febuxostat | Valid |
+| EMEA/H/C/004374 | Febuxostat Viatris | febuxostat | Valid |
+| EMEA/H/C/004773 | Febuxostat Krka | febuxostat | Valid |
 
 All three authorizations are valid.
 

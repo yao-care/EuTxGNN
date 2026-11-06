@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 255
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Fenfluramine: predicted new indication Proximal 16p11.2 microdeletion syndrome (evidence level L5). Approved use: Seizures associated with Dravet syndrome as add-on therapy to other a…"
 monitor_inn: "Fenfluramine"
 predicted_indications: ["proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "obsolete hypertelorism (disease)", "frontorhiny"]
@@ -69,9 +69,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003933 (cancelled) | Fintepla | Not specified | Seizures associated with Dravet syndrome as add-on therapy to other antiepileptic medicines for patients 2 years of age and older. Fintepla is indicated for... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003933 | Fintepla | fenfluramine hydrochloride | Valid |
 
 ## Safety Considerations
 

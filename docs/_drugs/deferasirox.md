@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 179
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Deferasirox"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
 description: "Deferasirox: predicted new indication HIV infectious disease (evidence level L4). Approved use: Deferasirox Mylan is indicated for the treatment of chronic iron over…"
@@ -81,11 +81,11 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005014 | Deferasirox Mylan | Not stated | Deferasirox Mylan is indicated for the treatment of chronic iron overload due to frequent blood transfusions (≥7 ml/kg/month of packed... |
-| EMEA/H/C/005156 | Deferasirox Accord | Not stated | Deferasirox Accord is indicated for the treatment of chronic iron overload due to frequent blood transfusions (≥7 ml/kg/month of packed... |
-| EMEA/H/C/000670 | Exjade | Not stated | Exjade is indicated for the treatment of chronic iron overload due to frequent blood transfusions (≥7 ml/kg/month of packed red blood... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000670 | Exjade | deferasirox | Valid |
+| EMEA/H/C/005014 | Deferasirox Mylan | deferasirox | Valid |
+| EMEA/H/C/005156 | Deferasirox Accord | deferasirox | Valid |
 
 All three authorizations are listed as valid.
 

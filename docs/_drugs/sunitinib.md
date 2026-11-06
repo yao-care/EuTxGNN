@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 579
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Sunitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
 description: "Sunitinib: predicted new indication Liposarcoma (evidence level L2). Approved use: Gastrointestinal stromal tumour (GIST) Sunitinib Accord is indicated…"
@@ -82,10 +82,10 @@ The clinical signal comes from small Phase 2 studies that pool several sarcoma h
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005419 | Sunitinib Accord | Not specified | Unresectable/metastatic GIST after imatinib failure, advanced/metastatic RCC, pancreatic NET... |
-| EMEA/H/C/000687 | Sutent | Not specified | Unresectable/metastatic GIST after imatinib failure, advanced/metastatic RCC, pancreatic NET... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000687 | Sutent | sunitinib | Valid |
+| EMEA/H/C/005419 | Sunitinib Accord | sunitinib | Valid |
 
 Both authorisations are currently cancelled.
 

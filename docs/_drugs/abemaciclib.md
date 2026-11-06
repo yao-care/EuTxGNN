@@ -3,7 +3,7 @@ layout: default
 title: Abemaciclib
 parent: Known Uses Only (No New Predictions)
 nav_order: 15
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Abemaciclib: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0
@@ -70,9 +70,9 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Abemaciclib,
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/004302 | Verzenios |  | Valid |
+| EMEA/H/C/004302 | Verzenios | abemaciclib | Valid |
 
 ## Cytotoxicity
 

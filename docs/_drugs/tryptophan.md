@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 643
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Tryptophan: predicted new indication Restless legs syndrome (evidence level L3). Approved use: Maple syrup urine disease (MSUD) presenting with an acute decompensat…"
 monitor_inn: "tryptophan"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
@@ -88,9 +88,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005557 (cancelled) | Maapliv | Not specified | Maple syrup urine disease (MSUD) presenting with an acute decompensation episode in patients from birth who are not eligible for an oral and enteral... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005557 | Maapliv | glycine,L-alanine,L-arginine,L-aspartic acid,L-cysteine hydrochloride monohydra… | Valid |
 
 ---
 
@@ -110,7 +110,7 @@ Please refer to the SmPC for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The RLS prediction has a very high model score, but the supporting evidence is limited to two small, dated clinical reports (1986–1987), with no registered trials. The product's EU authorisation is cancelled. Many serotonergic drug interactions, and the history of eosinophilia-myalgia syndrome, call for caution. At best this is a research question.
+The RLS prediction has a very high model score, but the supporting evidence is limited to two small, dated clinical reports (1986–1987), with no registered trials. Many serotonergic drug interactions, and the history of eosinophilia-myalgia syndrome, call for caution. At best this is a research question.
 
 **To proceed, the following is needed:**
 - Full text and critical appraisal of the 1986–1987 clinical studies, as no abstracts were available
@@ -119,7 +119,7 @@ The RLS prediction has a very high model score, but the supporting evidence is l
 - SmPC warnings and contraindications (the package insert is not yet parsed)
 - Confirmation of product quality and purity requirements, given the eosinophilia-myalgia syndrome history
 - A plan for managing serotonergic drug interactions
-- Clarification of why the authorisation was cancelled and what formulation would be used for RLS (route and dosage form compatibility not yet assessed)
+- Clarification of what formulation would be used for RLS (route and dosage form compatibility not yet assessed)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

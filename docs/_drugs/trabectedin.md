@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 632
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Trabectedin: predicted new indication Female breast carcinoma (evidence level L2). Approved use: Advanced soft-tissue sarcoma after failure of anthracyclines and ifos…"
 monitor_inn: "Trabectedin"
 predicted_indications: ["female breast carcinoma"]
@@ -85,10 +85,10 @@ The link remains plausible rather than proven. Clinical activity in breast cance
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000773 | Yondelis (valid) | Not specified | Advanced soft-tissue sarcoma after failure of anthracyclines and ifosfamide, or in patients unsuited to these agents. Efficacy data... |
-| EMEA/H/C/006433 | Trabectedin Accord (valid) | Not specified | Adult patients with advanced soft tissue sarcoma after failure of anthracyclines and ifosfamide, or unsuited to these agents. Efficacy... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000773 | Yondelis | trabectedin | Valid |
+| EMEA/H/C/006433 | Trabectedin Accord | trabectedin | Valid |
 
 ## Cytotoxicity
 

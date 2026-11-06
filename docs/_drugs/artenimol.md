@@ -3,7 +3,7 @@ layout: default
 title: Artenimol
 parent: Known Uses Only (No New Predictions)
 nav_order: 61
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Artenimol: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0
@@ -70,9 +70,9 @@ The TxGNN deep-learning model produced candidates for Artenimol, but every candi
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/001199 | Eurartesim |  | Valid |
+| EMEA/H/C/001199 | Eurartesim | piperaquine tetraphosphate; artenimol | Valid |
 
 ## Safety Considerations
 

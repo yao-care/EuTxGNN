@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 296
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "Grazoprevir"
 predicted_indications: ["HIV infectious disease", "hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Grazoprevir: predicted new indication HIV infectious disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -94,9 +94,9 @@ None of the trials below tested grazoprevir against HIV infection itself. All we
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004126 | Zepatier | Not specified | Chronic hepatitis C (CHC) in adult and paediatric patients 12 years of age and older who weigh at least 30 kg... (status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004126 | Zepatier | elbasvir; grazoprevir | Valid |
 
 ## Safety Considerations
 

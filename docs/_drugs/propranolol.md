@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 501
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Propranolol: predicted new indication Distal myopathy, Tateyama type (evidence level L5). Approved use: Proliferating infantile haemangioma requiring systemic therapy (life-…"
 monitor_inn: "Propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
@@ -99,9 +99,9 @@ No related literature is available for the top-ranked prediction (distal myopath
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002621 (cancelled) | Hemangiol | Not specified | Proliferating infantile haemangioma requiring systemic therapy: life- or function-threatening haemangioma, ulcerated haemangioma with pain and/or lack of respons... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002621 | Hemangiol | propranolol hydrochloride | Valid |
 
 ---
 
@@ -123,7 +123,7 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, distal myopathy, Tateyama type, rests on a model score alone (L5), with no trials, no publications and no plausible mechanism. The knowledge graph also flags myopathies and muscle diseases as contraindication signals for propranolol. The EU authorisation for the original indication is cancelled, and warnings and contraindications from the product information were not available.
+The top-ranked prediction, distal myopathy, Tateyama type, rests on a model score alone (L5), with no trials, no publications and no plausible mechanism. The knowledge graph also flags myopathies and muscle diseases as contraindication signals for propranolol. Warnings and contraindications from the product information were not available.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, and any biological rationale linking beta-blockade to distal myopathy, Tateyama type

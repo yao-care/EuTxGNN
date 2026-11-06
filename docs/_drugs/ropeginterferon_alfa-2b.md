@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 537
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Ropeginterferon alfa-2b"
 predicted_indications: ["Laubry-Pezzi syndrome", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "Jeune syndrome situs inversus", "partial deletion of the long arm of chromosome 22", "orofacial clefting syndrome", "pulmonary valve disease"]
 description: "Ropeginterferon Alfa-2B: predicted new indication Laubry-Pezzi syndrome (evidence level L5). Approved use: Besremi is indicated as monotherapy in adults for the treatment of po…"
@@ -81,10 +81,9 @@ Currently no related literature available for Laubry-Pezzi syndrome.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004128 | Besremi | Not specified | Besremi is indicated as monotherapy in adults for the treatment of polycythaemia vera without symptomatic splenomegaly. |
-
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004128 | Besremi | ropeginterferon alfa-2b | Valid |
 
 ---
 
@@ -111,7 +110,7 @@ Please refer to the SmPC for safety information. No warning, contraindication, o
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5). No clinical trials or literature support it, and there is no plausible mechanistic link between an interferon acting on myeloproliferative clones and a structural cardiac defect. The only publications linked to the top-ranked entries concern polycythaemia vera, the already-approved use, and do not support the predicted indication. The EU authorization is also cancelled.
+The prediction rests on model output alone (L5). No clinical trials or literature support it, and there is no plausible mechanistic link between an interferon acting on myeloproliferative clones and a structural cardiac defect. The only publications linked to the top-ranked entries concern polycythaemia vera, the already-approved use, and do not support the predicted indication.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, to allow a proper mechanistic assessment

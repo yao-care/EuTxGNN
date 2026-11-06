@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Brivaracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Brivaracetam: predicted new indication beta-ketothiolase deficiency (evidence level L5). Approved use: Briviact is indicated as adjunctive therapy in the treatment of parti…"
 ---
 
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003898 | Briviact (in Italy: Nubriveo) | Not recorded | Briviact is indicated as adjunctive therapy in the treatment of partial-onset seizures with or without secondary generalisation in adult and adolescent patients from 16 years of age with epilepsy. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003898 | Briviact (in Italy: Nubriveo) | Brivaracetam | Valid |
 
 ## Safety Considerations
 

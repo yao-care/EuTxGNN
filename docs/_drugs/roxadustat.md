@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 539
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "Roxadustat"
 predicted_indications: ["dry eye syndrome", "bone Paget disease", "dentinogenesis imperfecta", "squamous cell carcinoma"]
 description: "Roxadustat: predicted new indication Dry eye syndrome (evidence level L5). Approved use: Evrenzo is indicated for treatment of adult patients with symptomatic…"
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004871 (status: cancelled) | Evrenzo | Not specified | Treatment of adult patients with symptomatic anaemia associated with chronic kidney disease (CKD). |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004871 | Evrenzo | roxadustat | Valid |
 
 ## Safety Considerations
 

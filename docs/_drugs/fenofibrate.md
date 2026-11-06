@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Fenofibrate"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Fenofibrate: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Mixed dyslipidaemia in high cardiovascular risk adults (to reduce tri…"
 ---
 
@@ -77,10 +77,10 @@ None of these studies directly investigates fenofibrate in patients with CETP de
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002559 | Cholib | Not specified | Adjunct to diet and exercise in high cardiovascular risk adults with mixed dyslipidaemia, to reduce triglycerides and increase HDL-C when LDL-C is adequately controlled with... |
-| EMEA/H/C/001243 | Pravafenix | Not specified | Adjunct to diet and other non-pharmacological treatment for mixed hyperlipidaemia in adults at high cardiovascular risk, to reduce triglycerides and increase HDL-C when... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001243 | Pravafenix | fenofibrate; pravastatin | Valid |
+| EMEA/H/C/002559 | Cholib | fenofibrate; simvastatin | Valid |
 
 Both products are fixed-dose combinations of fenofibrate with a statin (simvastatin in Cholib, pravastatin in Pravafenix). Their approvals apply to those combinations and not to fenofibrate as a single ingredient.
 

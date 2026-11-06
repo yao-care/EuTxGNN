@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 665
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Verteporfin"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"]
 description: "Verteporfin: predicted new indication Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (evidence level L5). Approved use: Visudyne is indicated for the treatment of: adul…"
@@ -71,9 +71,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000305 (cancelled) | Visudyne | Not specified | Adults with exudative (wet) age-related macular degeneration (AMD) with predominantly classic subfoveal choroidal neovascularisation (CNV) or;... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000305 | Visudyne | verteporfin | Valid |
 
 ## Safety Considerations
 
@@ -96,7 +96,7 @@ The prediction rests only on a model score. No clinical trials or publications s
 - Mechanism of action data, to assess biological plausibility
 - Preclinical evidence in mitochondrial disease models, including the effect of reactive oxygen species generation
 - Label-based safety information (warnings and contraindications) from the SmPC
-- Clarification of why the EU authorization was cancelled and of the available routes of administration, including light delivery
+- Clarification of the available routes of administration, including light delivery
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 510
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Rasburicase: predicted new indication Hypouricemia, renal (evidence level L5). Approved use: Treatment and prophylaxis of acute hyperuricaemia…"
 monitor_inn: "Rasburicase"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "hepatic porphyria", "hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "renal tubular acidosis", "disorder of phenylalanine metabolism"]
@@ -64,9 +64,9 @@ Other top-ranked predictions are also weakly supported. Partial HPRT deficiency 
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000331 (cancelled) | Fasturtec | Not specified | Treatment and prophylaxis of acute hyperuricaemia, in order to prevent acute renal failure, in adults, children and adolescents (aged 0 to 17 years) with haem... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000331 | Fasturtec | rasburicase | Valid |
 
 ## Safety Considerations
 

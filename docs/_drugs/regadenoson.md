@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 512
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Regadenoson: predicted new indication Anaphylaxis (evidence level L5). Approved use: Pharmacological stress agent for radionuclide myocardial perfusion im…"
 monitor_inn: "Regadenoson"
 predicted_indications: ["anaphylaxis", "food-dependent exercise-induced anaphylaxis", "esotropia", "pseudoallergy"]
@@ -90,9 +90,9 @@ Literature exists only for other conditions, and it shows adverse effects rather
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001176 (cancelled) | Rapiscan | Not specified | Diagnostic use only. Selective coronary vasodilator used as a pharmacological stress agent for radionuclide myocardial perfusion imaging (MPI) in adult patients unable to undergo adequate exercise stress. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001176 | Rapiscan | regadenoson | Valid |
 
 ---
 
@@ -124,7 +124,7 @@ For label warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The anaphylaxis prediction has no clinical trial or literature support (Evidence Level L5). The drug's vasodilatory and hypotensive effects work against its use in a condition marked by circulatory collapse. The EU authorization is also cancelled.
+The anaphylaxis prediction has no clinical trial or literature support (Evidence Level L5). The drug's vasodilatory and hypotensive effects work against its use in a condition marked by circulatory collapse.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) and a clear rationale for how A2A agonism could benefit anaphylaxis without causing harmful hypotension

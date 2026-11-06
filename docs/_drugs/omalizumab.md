@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 447
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "Omalizumab"
 predicted_indications: ["bronchitis", "atopic eczema", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
 description: "Omalizumab: predicted new indication Bronchitis (evidence level L5). Approved use: Allergic asthma Omlyclo is indicated in adults…"
@@ -82,10 +82,10 @@ The two trials linked to this prediction do not directly show efficacy in bronch
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005958 | Omlyclo (status: valid) | Not specified | Allergic asthma (adults, adolescents and children 6 to <12 years), chronic rhinosinusitis with nasal polyps, chronic spontaneou... |
-| EMEA/H/C/000606 | Xolair (status: valid) | Not specified | Allergic asthma (adults, adolescents and children 6 to <12 years), chronic rhinosinusitis with nasal polyps, chronic spontaneou... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000606 | Xolair | omalizumab | Valid |
+| EMEA/H/C/005958 | Omlyclo | omalizumab | Valid |
 
 ## Safety Considerations
 

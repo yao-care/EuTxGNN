@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 678
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Vortioxetine"
 predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
 description: "Vortioxetine: predicted new indication Neurotic disorder (evidence level L5). Approved use: Treatment of major depressive episodes in adults"
@@ -77,9 +77,9 @@ Currently no related clinical trials are registered for neurotic disorder.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002717 | Brintellix | Not specified | Treatment of major depressive episodes in adults. (Status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002717 | Brintellix | vortioxetine | Valid |
 
 ## Safety Considerations
 

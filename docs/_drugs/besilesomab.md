@@ -5,7 +5,7 @@ layout: default
 title: Besilesomab
 parent: Known Uses Only (No New Predictions)
 nav_order: 90
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Besilesomab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Besilesomab"
 predicted_indications: []
@@ -50,9 +50,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001045 (cancelled) | Scintimun | Not specified | Diagnostic use only: scintigraphic imaging, in conjunction with other appropriate imaging modalities, to determine the location of inflammation/infection in peripheral bone in adults with suspected osteomyelitis... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001045 | Scintimun | besilesomab | Valid |
 
 ---
 

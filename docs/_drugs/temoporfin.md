@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 596
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Temoporfin: predicted new indication Nasopharyngeal teratoma (evidence level L5). Approved use: Palliative treatment of patients with advanced head and neck squamous…"
 monitor_inn: "Temoporfin"
 predicted_indications: ["nasopharyngeal teratoma", "odontogenic cyst", "pre-malignant neoplasm", "epiglottis neoplasm", "tumor of testis and paratestis", "cystic neoplasm", "benign neoplasm of floor of mouth", "benign neoplasm of tongue", "benign neoplasm of hypopharynx", "cervical neuroblastoma"]
@@ -90,9 +90,9 @@ Two publications were found for lower-ranked predictions. They offer only indire
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000318 (cancelled) | Foscan | Not specified | Palliative treatment of patients with advanced head and neck squamous cell carcinoma failing prior therapies and unsuitable for radiotherapy, surgery or systemic chemotherapy |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000318 | Foscan | temoporfin | Valid |
 
 ## Cytotoxicity
 
@@ -119,7 +119,6 @@ The prediction for nasopharyngeal teratoma rests on a model score alone, with no
 - Safety information (warnings and contraindications) from the EMA product information
 - Mechanism of action data, for example from DrugBank
 - Site-specific preclinical or clinical evidence for the predicted indication (the epiglottis neoplasm and pre-malignant neoplasm predictions may be better-aligned candidates to examine first)
-- Confirmation of why the EU authorization was cancelled and whether any formulation remains available
 - A route and light-delivery feasibility assessment
 ## Disclaimer
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 524
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "Rimegepant"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 description: "Rimegepant: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Vydura is indicated for the Acute treatment of migraine with or witho…"
@@ -84,9 +84,9 @@ The 10 most relevant publications are listed below. All concern general migraine
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005725 (cancelled) | Vydura | Not specified | Acute treatment of migraine with or without aura in adults; preventative treatment of episodic migraine in adults who have at least 4 migraine attacks per month |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005725 | Vydura | rimegepant | Valid |
 
 ## Safety Considerations
 
@@ -108,7 +108,7 @@ The CGRP-pathway rationale is sound, since brainstem aura is a migraine subtype.
 - Safety information (warnings and contraindications) from the SmPC. This is currently a blocking gap.
 - Mechanism of action data from DrugBank.
 - Subtype-specific evidence in brainstem aura, such as post-hoc analyses of existing migraine trials or case series.
-- Clarification of why the EU authorization was cancelled and of the current regulatory status.
+- Clarification of the current regulatory status.
 - Review of vascular safety, particularly in patients with cardiovascular risk.
 ## Disclaimer
 

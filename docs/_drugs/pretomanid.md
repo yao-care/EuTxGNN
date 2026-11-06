@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 499
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Pretomanid"
 predicted_indications: ["candidiasis", "leprosy", "coronary artery disease", "myocardial ischemia", "anomalous left coronary artery from the pulmonary artery"]
 description: "Pretomanid: predicted new indication Candidiasis (evidence level L5). Approved use: Dovprela is indicated in combination with bedaquiline and linezolid…"
@@ -80,9 +80,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005167 (cancelled) | Dovprela (previously Pretomanid FGK) | Not specified | Dovprela is indicated in combination with bedaquiline and linezolid, in adults, for the treatment of pulmonary extensively drug resistant (XDR), or treatment-intolerant or nonresponsive... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005167 | Dovprela | pretomanid | Valid |
 
 ---
 
@@ -108,7 +108,7 @@ Warnings and contraindications from the product information were not available. 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is based on the model score alone. There are no clinical trials or literature, and pretomanid's mechanism, which depends on a mycobacterial activation pathway, gives no reason to expect antifungal activity. The EU authorization is also cancelled.
+The prediction is based on the model score alone. There are no clinical trials or literature, and pretomanid's mechanism, which depends on a mycobacterial activation pathway, gives no reason to expect antifungal activity.
 
 **To proceed, the following is needed:**
 - In vitro antifungal susceptibility testing against *Candida* species as a first step

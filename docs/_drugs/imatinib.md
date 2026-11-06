@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Imatinib: predicted new indication heart fibrosarcoma (evidence level L5). Approved use: Imatinib Teva is indicated for the treatment of Adult and paediatric…"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **heart fibrosarcoma**, but **n
 | Predicted New Indication | heart fibrosarcoma |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 3 of 7) |
+| Number of Authorizations | 7 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -73,11 +73,15 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002585 | Imatinib Teva | Not recorded | Adult and paediatric patients with newly diagnosed Philadelphia chromosome (bcr?abl) positive (Ph+) chronic myeloid leukaemia (CML) for whom bone marrow tr... |
-| EMEA/H/C/000406 | Glivec | Not recorded | Adult and paediatric patients with newly diagnosed Philadelphia-chromosome (bcr-abl)-positive (Ph+) chronic myeloid leukaemia (CML) for whom bone-marrow... |
-| EMEA/H/C/002681 | Imatinib Accord | Not recorded | Adult and paediatric patients with newly diagnosed Philadelphia chromosome (bcr-abl) positive (Ph+) chronic myeloid leukaemia (CML) for whom bone marrow... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000406 | Glivec | imatinib | Valid |
+| EMEA/H/C/002585 | Imatinib Teva | imatinib | Valid |
+| EMEA/H/C/002681 | Imatinib Accord | imatinib | Valid |
+| EMEA/H/C/002594 | Imatinib Actavis | imatinib | Withdrawn |
+| EMEA/H/C/002692 | Imatinib medac | imatinib | Withdrawn |
+| EMEA/H/C/004748 | Imatinib Teva B.V. | imatinib mesilate | Withdrawn |
+| EMEA/H/C/005595 | Imatinib Koanaa | imatinib mesilate | Withdrawn |
 
 ## Cytotoxicity
 

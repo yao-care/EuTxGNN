@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 272
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Fosaprepitant: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Prevention of nausea and vomiting associated with highly and moderate…"
 monitor_inn: "Fosaprepitant"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "pneumocystosis", "leprosy", "Cryptococcal meningitis", "multiple endocrine neoplasia", "intracranial abscess", "retinitis", "Plasmodium falciparum malaria", "echinococcus granulosus infectious disease", "hyperargininemia"]
@@ -72,9 +72,9 @@ Currently no related literature available for nephrogenic syndrome of inappropri
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000743 | Ivemend (status: valid) | Not specified | Prevention of nausea and vomiting associated with highly and moderately emetogenic cancer chemotherapy in adults and paediatric patients aged 6 months and older. Ivemend 150 mg is given as part... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000743 | Ivemend | fosaprepitant | Valid |
 
 ## Safety Considerations
 

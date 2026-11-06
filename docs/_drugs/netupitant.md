@@ -5,7 +5,7 @@ layout: default
 title: Netupitant
 parent: Known Uses Only (No New Predictions)
 nav_order: 427
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Netupitant: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Netupitant"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003728 (status: cancelled) | Akynzeo | Not specified | Prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin based cancer chemotherapy. Prevention of acute and delayed nausea and vo... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003728 | Akynzeo | netupitant; palonosetron hydrochloride | Valid |
 
 ## Cytotoxicity
 

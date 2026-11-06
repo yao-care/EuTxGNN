@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 7
 monitor_inn: "Abatacept"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Abatacept: predicted new indication Ankylosing spondylitis (evidence level L3). Approved use: Rheumatoid arthritisOrencia, in combination with methotrexate…"
 ---
 
@@ -85,9 +85,9 @@ The only direct clinical evidence is a small, uncontrolled, open-label pilot pro
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000701 | Orencia | Not recorded | Rheumatoid arthritis, psoriatic arthritis and polyarticular juvenile idiopathic arthritis... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000701 | Orencia | abatacept | Valid |
 
 ## Safety Considerations
 

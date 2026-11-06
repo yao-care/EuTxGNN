@@ -5,7 +5,7 @@ layout: default
 title: Setmelanotide
 parent: Known Uses Only (No New Predictions)
 nav_order: 558
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Setmelanotide: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Setmelanotide"
 predicted_indications: []
@@ -50,9 +50,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005089 (status: cancelled) | Imcivree | Not specified | Treatment of obesity and control of hunger associated with genetically confirmed Bardet Biedl syndrome (BBS), loss-of-function biallelic pro-opiomelanocortin (POMC)... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005089 | Imcivree | setmelanotide | Valid |
 
 ---
 

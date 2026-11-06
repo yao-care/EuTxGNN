@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 280
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Gefitinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Locally advanced or metastatic NSCLC with activating EGFR tyrosine ki…"
 monitor_inn: "Gefitinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **gingival fibromatosis**, but 
 | Predicted New Indication | Fibromatosis, gingival |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 1 of 2) |
+| Number of Authorizations | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -71,9 +71,10 @@ Currently no related literature available for gingival fibromatosis.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001016 (cancelled) | Iressa | Not specified | Treatment of adult patients with locally advanced or metastatic non-small-cell lung cancer with activating mutations of epidermal-growth-factor-receptor tyrosine kinase. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001016 | Iressa | gefitinib | Valid |
+| EMEA/H/C/004826 | Gefitinib Mylan | gefitinib | Withdrawn |
 
 ## Cytotoxicity
 

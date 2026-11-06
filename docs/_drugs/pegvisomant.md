@@ -5,7 +5,7 @@ layout: default
 title: Pegvisomant
 parent: Known Uses Only (No New Predictions)
 nav_order: 476
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Pegvisomant: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Pegvisomant"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000409 (cancelled) | Somavert | Not specified | Treatment of adult patients with acromegaly who have had an inadequate response to surgery and/or radiation therapy and in whom an appropriate me... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000409 | Somavert | pegvisomant | Valid |
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 288
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "Glucagon"
 predicted_indications: ["irritable bowel syndrome"]
 description: "Glucagon: predicted new indication Irritable bowel syndrome (evidence level L5). Approved use: Ogluo is indicated for the treatment of severe hypoglycaemia in adult…"
@@ -81,10 +81,10 @@ None of these publications studies glucagon in irritable bowel syndrome.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005391 | Ogluo | Not specified | Severe hypoglycaemia in adults, adolescents, and children aged 2 years and over with diabetes mellitus. |
-| EMEA/H/C/003848 | Baqsimi | Not specified | Severe hypoglycaemia in adults, adolescents, and children aged 4 years and over with diabetes mellitus. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003848 | Baqsimi | Glucagon | Valid |
+| EMEA/H/C/005391 | Ogluo | Glucagon | Valid |
 
 Both authorizations are valid.
 

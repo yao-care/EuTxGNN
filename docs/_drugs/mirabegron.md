@@ -5,7 +5,7 @@ layout: default
 title: Mirabegron
 parent: Known Uses Only (No New Predictions)
 nav_order: 411
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Mirabegron: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Mirabegron"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/002388 (cancelled) | Betmiga | Prolonged-release tablet | Overactive bladder in adults; neurogenic detrusor overactivity in paediatric patients aged 3 to less than 18 years |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/002388 | Betmiga | mirabegron | Valid |
 
 ## Safety Considerations
 

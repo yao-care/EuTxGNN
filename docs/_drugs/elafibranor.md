@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 213
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Elafibranor: predicted new indication amenorrhea (evidence level L5). Approved use: Primary biliary cholangitis (PBC)…"
 monitor_inn: "Elafibranor"
 predicted_indications: ["amenorrhea (disease)"]
@@ -59,7 +59,6 @@ Elafibranor is a dual agonist of peroxisome proliferator-activated receptor alph
 
 No direct mechanistic link between PPARα/δ agonism and amenorrhea is established in the data compiled for this report. Any connection, such as metabolic or hormonal modulation through PPAR signalling, is speculative. The very high score (0.9986) is a computational output of the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence; it does not replace clinical or experimental evidence. Detailed mechanism-of-action data from DrugBank were also not available.
 
-
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
@@ -70,22 +69,22 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006231 (status: cancelled) | Iqirvo | Not specified | Treatment of primary biliary cholangitis (PBC) in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate res... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/006231 | Iqirvo | Elafibranor | Valid |
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
 
-Pharmacology records list the drug's targets as PPARα (PPARA) and PPARβ/δ (PPARD). No specific drug-drug interactions were identified in the data compiled for this report. Because the EU authorization is recorded as cancelled, current label information should be verified directly.
+Pharmacology records list the drug's targets as PPARα (PPARA) and PPARβ/δ (PPARD). No specific drug-drug interactions were identified in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a model score. There are no trials, no literature and no plausible mechanistic link to amenorrhea. In addition, the EU authorization for the original indication is recorded as cancelled, which needs clarifying.
+The prediction rests solely on a model score. There are no trials, no literature and no plausible mechanistic link to amenorrhea.
 
 **To proceed, the following is needed:**
 - A literature and trial search for PPAR agonists in amenorrhea or related reproductive endocrine conditions

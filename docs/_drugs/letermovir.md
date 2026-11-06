@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 363
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Letermovir: predicted new indication Vulvovaginal candidiasis (evidence level L5). Approved use: Prophylaxis of CMV reactivation and disease in CMV-seropositive allog…"
 monitor_inn: "Letermovir"
 predicted_indications: ["vulvovaginal candidiasis"]
@@ -82,9 +82,9 @@ Currently no related literature available for vulvovaginal candidiasis.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004536 | Prevymis | Not specified | Prophylaxis of cytomegalovirus (CMV) reactivation and disease in adult and paediatric patients weighing at least 5 kg who are CMV-seropositive... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004536 | Prevymis | Letermovir | Valid |
 
 This authorization is recorded as valid: the drug is marketed in this country, with 1 valid licence out of 1.
 

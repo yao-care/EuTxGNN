@@ -5,7 +5,7 @@ layout: default
 title: Sparsentan
 parent: Known Uses Only (No New Predictions)
 nav_order: 574
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Sparsentan: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Sparsentan"
 predicted_indications: []
@@ -50,9 +50,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005783 | Filspari | Not specified | Treatment of adults with primary immunoglobulin A nephropathy (IgAN) with a urine protein excretion > 1.0 g/day (or urine protein-to-creatinine ratio > 0.75 g/g, see section 5.1). (Status: valid) |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005783 | Filspari | sparsentan | Valid |
 
 ---
 

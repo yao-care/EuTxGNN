@@ -5,7 +5,7 @@ layout: default
 title: Filgotinib
 parent: Known Uses Only (No New Predictions)
 nav_order: 261
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Filgotinib: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Filgotinib"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005113 (cancelled) | Jyseleca | Not specified | Rheumatoid arthritis: moderate to severe active disease in adults with inadequate response or intolerance to one or more DMARDs, as monotherapy or with methotrexate. Ulcerative colitis... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005113 | Jyseleca | filgotinib maleate | Valid |
 
 ## Safety Considerations
 

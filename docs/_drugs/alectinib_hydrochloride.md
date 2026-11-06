@@ -5,7 +5,7 @@ layout: default
 title: Alectinib Hydrochloride
 parent: Known Uses Only (No New Predictions)
 nav_order: 32
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,6 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |------|---------|
 | Original Indication | Adjuvant treatment of resected non small cell lung cancer (NSCLC)&nbsp;Alecensa as monotherapy is indicated as adjuvant treatment following complete tumour resection for adult patients with ALK positive NSCLC at high risk of recurrence (see section 5.1 for selection criteria).Treatment of advanced N |
 | EU Market Status | Marketed (valid licences: 1 of 1) |
-| Taiwan Market Status | ✗ Not Marketed (0 TFDA licenses) |
 | Number of Authorizations | 1 (valid: 1) |
 
 ---

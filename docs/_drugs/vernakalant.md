@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 664
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Vernakalant"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "ABri amyloidosis"]
 description: "Vernakalant: predicted new indication Stroke disorder (evidence level L5). Approved use: Rapid conversion of recent onset atrial fibrillation to sinus rhythm…"
@@ -81,10 +81,9 @@ These publications concern AF in general. None demonstrates that vernakalant red
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/001215 | Brinavess | Not specified | Rapid conversion of recent onset atrial fibrillation to sinus rhythm in adults: for non-surgery patients: atrial fibrillation ≤ 7 days duration; for post-cardiac surgery patients... |
-
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/001215 | Brinavess | vernakalant hydrochloride | Valid |
 
 ## Safety Considerations
 
@@ -97,13 +96,12 @@ For context, the compiled rationale notes that vernakalant's labeling cautions a
 **Decision: Hold**
 
 **Rationale:**
-The stroke prediction rests on an indirect link through atrial fibrillation. There are no registered clinical trials and no publication showing a vernakalant effect on stroke. The only EU marketing authorization has been cancelled, and the cardioversion-related thromboembolic risk is an additional concern.
+The stroke prediction rests on an indirect link through atrial fibrillation. There are no registered clinical trials and no publication showing a vernakalant effect on stroke. The cardioversion-related thromboembolic risk is an additional concern.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data
 - Safety information from the EMA product information (warnings and contraindications), which is currently missing and blocks safety screening
 - Clinical or observational evidence on whether vernakalant affects stroke or thromboembolic outcomes
-- Clarification of why the EU authorization was cancelled and whether the drug is available in the EU
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 598
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Temsirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "vulva sarcoma"]
 description: "Temsirolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Renal-cell carcinoma Torisel is indicated for the first-line treatmen…"
@@ -79,11 +79,9 @@ The supporting evidence is still indirect. The listed trials enrolled mixed sarc
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000799 | Torisel | Not specified | Renal-cell carcinoma: first-line treatment of adult patients with advanced RCC who have at least three of six prognostic risk factors. Mantle-cell lymphoma: relapsed and/or refractory... |
-
-The only EU authorisation is recorded as cancelled.
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000799 | Torisel | temsirolimus | Valid |
 
 ## Cytotoxicity
 
@@ -124,7 +122,7 @@ The mTOR rationale for soft tissue sarcoma is plausible, but the available trial
 - Mechanism of action data (MOA) from DrugBank
 - Warnings and contraindications from the EMA package insert, which are a blocking gap for safety screening
 - Review of the knowledge-graph contraindication signals and the major drug interactions, especially bowel perforation risk
-- Clarification of why the EU authorisation was cancelled, and of the regulatory route for any new use
+- Clarification of the regulatory route for any new use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

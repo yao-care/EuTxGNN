@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Degarelix"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "malformation syndrome with odontal and/or periodontal component", "isolated genetic hair shaft abnormality", "allergic urticaria", "cold urticaria", "familial male-limited precocious puberty", "centra precocious puberty 1", "familial isolated trichomegaly"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Degarelix: predicted new indication Hypertrichosis (hypertrichosis (disease)) (evidence level L5). Approved use: FIRMAGON is a gonadotrophin releasing hormone (GnRH) antagonist indic…"
 ---
 
@@ -69,10 +69,10 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000986 | Firmagon | Not recorded | FIRMAGON is a gonadotrophin releasing hormone (GnRH) antagonist indicated: - for treatment of adult male patients with advanced hormone-dependent prostate cancer. - for treatment of high-risk localised and... |
-| EMEA/H/C/006048 | Degarelix Accord | Not recorded | Degarelix Accord is a gonadotrophin releasing hormone (GnRH) antagonist indicated: for treatment of adult male patients with advanced hormone-dependent prostate cancer. for treatment of high-risk localised and locally... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000986 | Firmagon | degarelix | Valid |
+| EMEA/H/C/006048 | Degarelix Accord | degarelix acetate | Valid |
 
 ## Cytotoxicity
 

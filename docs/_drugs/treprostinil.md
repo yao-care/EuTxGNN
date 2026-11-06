@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 641
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "Treprostinil"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita"]
 description: "Treprostinil: predicted new indication Pulmonary arteriovenous malformation (disease) (evidence level L5). Approved use: Treatment of adult patients with WHO Functional Class (FC) III or IV…"
@@ -84,11 +84,9 @@ Selected from the 19 publications retrieved. Evidence is mainly observational or
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005207 | Trepulmix | Not specified | Treatment of adult patients with WHO Functional Class (FC) III or IV and: inoperable chronic thromboembolic pulmonary hypertension (CTEPH), or persistent or... |
-
-This authorisation is cancelled.
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005207 | Trepulmix | treprostinil sodium | Valid |
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ layout: default
 title: Lecanemab
 parent: Known Uses Only (No New Predictions)
 nav_order: 357
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Lecanemab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Lecanemab"
 predicted_indications: []
@@ -48,11 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/005966 | Leqembi | Not specified | Treatment of adult patients with a clinical diagnosis of mild cognitive impairment and mild dementia due to Alzheimer's disease (Early Alzheimer's disease) who are apolipoprotein E 4 (ApoE ε4)... |
-
-The status of this authorization is cancelled.
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/005966 | Leqembi | Lecanemab | Valid |
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 559
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Sevelamer: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 2 |
 | Evidence level | Not applicable |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
+| EU Market Status | Marketed (valid licences: 3 of 4) |
+| Number of Authorizations | 4 (valid: 3) |
 
 ## Known uses recorded for this drug
 
@@ -73,9 +73,12 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/000254 | Renagel |  | Valid |
+| EMEA/H/C/000254 | Renagel | sevelamer | Valid |
+| EMEA/H/C/000993 | Renvela | sevelamer carbonate | Valid |
+| EMEA/H/C/003971 | Sevelamer carbonate Winthrop | sevelamer carbonate | Valid |
+| EMEA/H/C/003968 | Tasermity | sevelamer hydrochloride | Lapsed |
 
 ## Safety Considerations
 

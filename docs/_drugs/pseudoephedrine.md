@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 503
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Pseudoephedrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Symptomatic treatment of seasonal allergic rhinitis when accompanied…"
 monitor_inn: "pseudoephedrine"
 predicted_indications: ["nasal cavity disease", "allergic urticaria"]
@@ -89,9 +89,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000772 (cancelled) | Aerinaze | Not specified | Symptomatic treatment of seasonal allergic rhinitis when accompanied by nasal congestion. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000772 | Aerinaze | desloratadine; pseudophedrine sulfate | Valid |
 
 ---
 
@@ -113,7 +113,7 @@ Please refer to the SmPC for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for nasal cavity disease is mechanistically plausible but largely duplicates the existing label. No clinical trials exist, and the literature is mainly preclinical or review material. The EU authorisation is cancelled, and label-based safety information is unavailable. The other two predicted indications have no direct supporting evidence.
+The prediction for nasal cavity disease is mechanistically plausible but largely duplicates the existing label. No clinical trials exist, and the literature is mainly preclinical or review material. Label-based safety information is unavailable. The other two predicted indications have no direct supporting evidence.
 
 **To proceed, the following is needed:**
 - The SmPC warnings and contraindications, to allow safety screening

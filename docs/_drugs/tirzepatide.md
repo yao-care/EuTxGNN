@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 619
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Tirzepatide: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -74,9 +74,9 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/005620 | Mounjaro |  | Valid |
+| EMEA/H/C/005620 | Mounjaro | tirzepatide | Valid |
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ layout: default
 title: Stiripentol
 parent: Known Uses Only (No New Predictions)
 nav_order: 576
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Stiripentol: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Stiripentol"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000664 (cancelled) | Diacomit | Not specified | Diacomit is indicated for use in conjunction with clobazam and valproate as adjunctive therapy of refractory generalized... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000664 | Diacomit | stiripentol | Valid |
 
 ## Safety Considerations
 

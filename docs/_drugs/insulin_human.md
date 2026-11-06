@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 329
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Insulin Human: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Treatment of diabetes mellitus"
 monitor_inn: "Insulin human"
 predicted_indications: ["autoimmune oophoritis", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **autoimmune oophoritis**, but 
 | Predicted New Indication | Autoimmune oophoritis |
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 5 of 5) |
-| Number of Authorizations | 5 (valid: 5) |
+| EU Market Status | Marketed (valid licences: 6 of 12) |
+| Number of Authorizations | 12 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -75,15 +75,20 @@ Currently no related literature available.
 
 ## EU Market Information
 
-All five authorizations are valid.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000427 | Actraphane | Not specified | Treatment of diabetes mellitus. |
-| EMEA/H/C/000428 | Mixtard | Not specified | Treatment of diabetes mellitus. |
-| EMEA/H/C/000442 | Protaphane | Not specified | Treatment of diabetes mellitus. |
-| EMEA/H/C/000441 | Insulatard | Not specified | Treatment of diabetes mellitus. |
-| EMEA/H/C/000201 | Insuman | Not specified | Diabetes mellitus where treatment with insulin is required. Insuman Rapid is also suitable for the treatment of hyperglycaemic coma and ketoacidosis, as well as for achieving pre-, intra- and po... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000201 | Insuman | insulin human | Valid |
+| EMEA/H/C/000424 | Actrapid | insulin human | Valid |
+| EMEA/H/C/000427 | Actraphane | insulin human | Valid |
+| EMEA/H/C/000428 | Mixtard | insulin human | Valid |
+| EMEA/H/C/000441 | Insulatard | insulin human | Valid |
+| EMEA/H/C/000442 | Protaphane | insulin human | Valid |
+| EMEA/H/C/000423 | Velosulin | insulin human | Withdrawn |
+| EMEA/H/C/000439 | Ultratard | insulin human | Withdrawn |
+| EMEA/H/C/000440 | Monotard | insulin human | Withdrawn |
+| EMEA/H/C/000588 | Exubera | insulin human | Withdrawn |
+| EMEA/H/C/000761 | Insulin Human Winthrop | insulin human | Withdrawn |
+| EMEA/H/C/005331 | Inpremzia | insulin human (rDNA) | Withdrawn |
 
 ## Safety Considerations
 
@@ -103,7 +108,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. No clinical trials or publications support insulin for autoimmune oophoritis, and no direct mechanistic link is supported by the data. In addition, the drug is marketed in this country, with 5 valid licences of 5. The other top predictions are explained by comorbidity with diabetes or by insulin's own adverse effects, not by new therapeutic potential.
+The prediction rests only on a model score. No clinical trials or publications support insulin for autoimmune oophoritis, and no direct mechanistic link is supported by the data. The other top predictions are explained by comorbidity with diabetes or by insulin's own adverse effects, not by new therapeutic potential.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for insulin human, to assess any link to ovarian autoimmunity

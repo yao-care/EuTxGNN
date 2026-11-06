@@ -5,7 +5,7 @@ layout: default
 title: Ibrutinib
 parent: Known Uses Only (No New Predictions)
 nav_order: 304
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ibrutinib: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Ibrutinib"
 predicted_indications: []
@@ -48,9 +48,9 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Status | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003791 | Imbruvica | Valid | Previously untreated MCL eligible for ASCT (with R-CHOP/R-DHAP), relapsed or refractory MCL, CLL (untreated and previously treated), W... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003791 | Imbruvica |  | Valid |
 
 ## Cytotoxicity
 

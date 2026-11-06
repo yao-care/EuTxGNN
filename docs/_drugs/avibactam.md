@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Avibactam"
 predicted_indications: ["ureter tuberculosis", "urinary schistosomiasis", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Avibactam: predicted new indication Ureter tuberculosis (evidence level L5). Approved use: Complicated intra-abdominal infection (cIAI)…"
 ---
 
@@ -71,10 +71,10 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/006113 | Emblaveo | Not specified | Adults: cIAI, HAP/VAP, cUTI including pyelonephritis; infections due to aerobic Gram-negative organisms with limited treatment options... |
-| EMEA/H/C/004027 | Zavicefta | Not specified | Adults and children aged 3 months and older: cIAI, cUTI including pyelonephritis, HAP/VAP, bacteraemia associated with these infections... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004027 | Zavicefta | avibactam sodium; ceftazidime pentahydrate | Valid |
+| EMEA/H/C/006113 | Emblaveo | avibactam; aztreonam | Valid |
 
 ## Safety Considerations
 

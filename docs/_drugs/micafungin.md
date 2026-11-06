@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 405
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 description: "Micafungin: predicted new indication Urinary tract infection (disease) (evidence level L3). Approved use: Invasive candidiasis"
 monitor_inn: "Micafungin"
 predicted_indications: ["urinary tract infection (disease)"]
@@ -59,7 +59,6 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 
 Candida UTI (candiduria) is a fungal infection within the drug's spectrum, so the prediction is mechanistically plausible. Echinocandins have traditionally been considered poor options for urinary infections because little drug is excreted in urine. However, reports suggest urinary micafungin levels can exceed the MICs of many Candida species (PMID 27424599). This is especially relevant for fluconazole-resistant organisms such as *C. krusei* and *C. glabrata*, and for patients in whom amphotericin B or flucytosine is undesirable, such as transplant recipients.
 
-
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
@@ -82,9 +81,9 @@ These studies are small and non-randomized. No prospective randomized evidence i
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000734 (cancelled) | Mycamine | Not specified | Invasive candidiasis, oesophageal candidiasis, and prophylaxis of Candida infection in allogeneic HSCT or prolonged neutropenia (adults, adolescents, children, neonates)... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000734 | Mycamine | micafungin | Valid |
 
 ## Safety Considerations
 

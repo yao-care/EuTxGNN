@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 246
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "Etelcalcetide"
 predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "varicose disease"]
 description: "Etelcalcetide: predicted new indication Hyperphosphatemia (disease) (evidence level L4). Approved use: Parsabiv is indicated for the treatment of secondary hyperparathyroid…"
@@ -78,9 +78,9 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003995 | Parsabiv | Not specified | Treatment of secondary hyperparathyroidism (SHPT) in adult patients with chronic kidney disease (CKD) on haemodialysis therapy. |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003995 | Parsabiv | etelcalcetide hydrochloride | Valid |
 
 ## Safety Considerations
 

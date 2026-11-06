@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 494
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Posaconazole"
 predicted_indications: ["pneumocystosis"]
 description: "Posaconazole: predicted new indication Pneumocystosis (evidence level L5). Approved use: Noxafil gastro-resistant tablets are indicated for use in the treatme…"
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **pneumocystosis**, but the dat
 | Predicted New Indication | Pneumocystosis |
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 3 of 4) |
+| Number of Authorizations | 4 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -81,13 +81,12 @@ Other predictions in the top 10 are similarly weak:
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000610 | Noxafil | Not specified | Treatment of invasive aspergillosis, fusariosis, chromoblastomycosis and mycetoma, and coccidioidomycosis; prophylaxis of invasive fungal infections (tablets, infusion, oral suspension, powder for suspension)... |
-| EMEA/H/C/005028 | Posaconazole AHCL | Not specified | Oral suspension for invasive aspergillosis, fusariosis, chromoblastomycosis and mycetoma, coccidioidomycosis, oropharyngeal candidiasis, and prophylaxis... |
-| EMEA/H/C/005005 | Posaconazole Accord | Not specified | Invasive aspergillosis, fusariosis, chromoblastomycosis and mycetoma, coccidioidomycosis, and prophylaxis of invasive fungal infections... |
-
-All three authorizations are valid, so posaconazole is currently marketed with valid authorization in the data compiled for this report.
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000610 | Noxafil | posaconazole | Valid |
+| EMEA/H/C/005005 | Posaconazole Accord | posaconazole | Valid |
+| EMEA/H/C/005028 | Posaconazole AHCL | posaconazole | Valid |
+| EMEA/H/C/000611 | Posaconazole SP | posaconazole | Lapsed |
 
 ## Safety Considerations
 

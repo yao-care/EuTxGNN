@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 511
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ravulizumab: predicted new indication Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency (evidence level L5). Approved use: Paroxysmal nocturnal haemoglobinuria (PNH) in adult and…"
 monitor_inn: "Ravulizumab"
 predicted_indications: ["autosomal recessive severe congenital neutropenia due to G6PC3 deficiency", "cyclic hematopoiesis", "primary hyperoxaluria", "severe congenital neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "pseudo-von Willebrand disease", "X-linked severe congenital neutropenia", "primary release disorder of platelets", "megaloblastic anemia (disease)"]
@@ -72,9 +72,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/004954 (cancelled) | Ultomiris | Not specified | Paroxysmal nocturnal haemoglobinuria (PNH)Ultomiris is indicated in the treatment of adult and paediatric patients with a body weight of 10 kg or above with PNH:- in patients with haemo... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/004954 | Ultomiris | ravulizumab | Valid |
 
 ## Safety Considerations
 
@@ -89,7 +89,7 @@ Please also refer to the SmPC for full safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone. No trials or publications support it, no mechanistic link to complement is known, and the infection risk of complement inhibition is a safety concern in neutropenic patients. The EU authorization is also recorded as cancelled.
+The prediction rests on a model score alone. No trials or publications support it, no mechanistic link to complement is known, and the infection risk of complement inhibition is a safety concern in neutropenic patients.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) and a plausible biological link between C5 inhibition and G6PC3-deficiency neutropenia

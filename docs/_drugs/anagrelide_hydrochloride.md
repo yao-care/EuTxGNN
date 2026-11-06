@@ -5,7 +5,7 @@ layout: default
 title: Anagrelide Hydrochloride
 parent: Known Uses Only (No New Predictions)
 nav_order: 49
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,6 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |------|---------|
 | Original Indication | Xagrid is indicated for the reduction of elevated platelet counts in at-risk essential-thrombocythaemia (ET) patients who are intolerant to their current therapy or whose elevated platelet counts are not reduced to an acceptable level by their current therapy. An at-risk patient An at-risk ET is def |
 | EU Market Status | Marketed (valid licences: 2 of 2) |
-| Taiwan Market Status | Not marketed |
 | Number of Authorizations | 2 (valid: 2) |
 
 ---

@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 677
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Voriconazole: known uses and market status in the European Union; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,11 +72,11 @@ The TxGNN model's candidates for Voriconazole were all checked against known sou
 
 ## EU Market Information
 
-| Licence | Product | Dosage form | Status |
+| Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
-| EMEA/H/C/002669 | Voriconazole Accord |  | Valid |
-| EMEA/H/C/000387 | Vfend |  | Valid |
-| EMEA/H/C/003737 | Voriconazole Hikma (previously Voriconazole Hospira) |  | Valid |
+| EMEA/H/C/000387 | Vfend | voriconazole | Valid |
+| EMEA/H/C/002669 | Voriconazole Accord | voriconazole | Valid |
+| EMEA/H/C/003737 | Voriconazole Hikma | voriconazole | Valid |
 
 ## Safety Considerations
 

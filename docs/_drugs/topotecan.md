@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 629
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Topotecan: predicted new indication Female breast carcinoma (evidence level L3). Approved use: Relapsed small cell lung cancer (SCLC) and metastatic ovarian cancer…"
 monitor_inn: "Topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
@@ -48,8 +48,8 @@ Topotecan is a topoisomerase I inhibitor chemotherapy originally authorized in t
 | Predicted New Indication | Female breast carcinoma |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
+| EU Market Status | Marketed (valid licences: 3 of 7) |
+| Number of Authorizations | 7 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -85,13 +85,17 @@ The clinical signal is weak. An older phase 2 study of continuous infusional top
 
 ## EU Market Information
 
-All three licences are valid, and the product is marketed. The data compiled for this report do not list dosage forms.
+The data compiled for this report do not list dosage forms.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000123 | Hycamtin | Not listed | Relapsed SCLC (capsules) and metastatic ovarian cancer after failure of first-line or subsequent therapy... |
-| EMEA/H/C/002282 | Potactasol | Not listed | Metastatic ovarian cancer, relapsed SCLC, and recurrent or Stage IVB cervical cancer (with cisplatin)... |
-| EMEA/H/C/001192 | Topotecan Hospira | Not listed | Relapsed SCLC, and recurrent or Stage IVB cervical cancer (with cisplatin)... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000123 | Hycamtin | topotecan | Valid |
+| EMEA/H/C/001192 | Topotecan Hospira | topotecan | Valid |
+| EMEA/H/C/002282 | Potactasol | topotecan | Valid |
+| EMEA/H/C/000124 | Evotopin | topotecan | Withdrawn |
+| EMEA/H/C/001031 | Topotecan Actavis | topotecan | Withdrawn |
+| EMEA/H/C/001071 | Topotecan Teva | topotecan | Withdrawn |
+| EMEA/H/C/002261 | Topotecan Eagle | topotecan hydrochloride | Withdrawn |
 
 ## Cytotoxicity
 

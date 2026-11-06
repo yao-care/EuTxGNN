@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 588
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Tasimelteon: predicted new indication Bilateral parasagittal parieto-occipital polymicrogyria (evidence level L5). Approved use: Non-24-Hour Sleep-Wake Disorder (Non-24) in totally blind adults"
 monitor_inn: "Tasimelteon"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "insomnia (disease)", "amyotrophic lateral sclerosis", "endogenous depression", "axial spondylometaphyseal dysplasia", "monomelic amyotrophy", "lower motor neuron syndrome with late-adult onset", "Mills syndrome", "amyotrohpic lateral sclerosis type 22"]
@@ -82,9 +82,9 @@ Currently no related literature available.
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/003870 (cancelled) | Hetlioz | Not specified | Treatment of Non-24-Hour Sleep-Wake Disorder (Non-24) in totally blind adults |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/003870 | Hetlioz | tasimelteon | Valid |
 
 ---
 

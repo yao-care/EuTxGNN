@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 687
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 monitor_inn: "Zonisamide"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
 description: "Zonisamide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Zonegran is indicated as: monotherapy in the treatment of partial sei…"
@@ -69,7 +69,6 @@ For context, the other top-10 predictions fall into three groups:
 - **Plausible but with a safety signal:** manic bipolar affective disorder (score 0.9935, evidence level L4). Anticonvulsants are established mood stabilizers, and one open-label study examined bipolar depression (PMID 17163811). However, a case report describes zonisamide-induced mania (PMID 2109869).
 - **Likely model artifacts:** methemoglobinemia (three related entries), Prinzmetal angina, conjunctivitis and trichotillomania have no supporting data and no clear mechanistic link. Their TxGNN scores (deep learning model) may reflect similarities the model learned between related diseases, not biological evidence.
 
-
 ---
 
 ## Clinical Trial Evidence
@@ -107,10 +106,10 @@ The literature below relates to other predicted indications and is shown for con
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000577 (cancelled) | Zonegran | Not specified | Monotherapy in partial seizures in adults with newly diagnosed epilepsy; adjunctive therapy in partial seizures in adults, adolescents and children aged six years and above |
-| EMEA/H/C/004127 (cancelled) | Zonisamide Viatris (previously Zonisamide Mylan) | Not specified | Monotherapy in partial seizures in adults with newly diagnosed epilepsy; adjunctive therapy in partial seizures in adults, adolescents and children aged 6 years and above |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000577 | Zonegran | zonisamide | Valid |
+| EMEA/H/C/004127 | Zonisamide Viatris | zonisamide | Valid |
 
 ---
 

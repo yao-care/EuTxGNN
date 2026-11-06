@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 532
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Rivaroxaban: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Prevention of venous thromboembolism (VTE) in adults undergoing elect…"
 monitor_inn: "Rivaroxaban"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
@@ -77,12 +77,12 @@ Currently no related clinical trials registered.
 
 All four EU authorizations are valid.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000944 | Xarelto | Not specified | Prevention of atherothrombotic events after ACS (with ASA), in CAD/PAD, VTE prevention after hip or knee surgery, DVT/PE treatment... |
-| EMEA/H/C/005279 | Rivaroxaban Accord | Not specified | Prevention of VTE after hip or knee replacement surgery, DVT and PE treatment, stroke prevention in non-valvular AF... |
-| EMEA/H/C/005600 | Rivaroxaban Viatris (previously Rivaroxaban Mylan) | Not specified | Prevention of atherothrombotic events after ACS (with ASA), CAD/PAD, VTE prevention, DVT/PE treatment... |
-| EMEA/H/C/006643 | Rivaroxaban Koanaa | Not specified | Prevention of VTE in adults undergoing elective hip or knee replacement surgery; treatment of DVT and PE and prevention of recurrence |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000944 | Xarelto | rivaroxaban | Valid |
+| EMEA/H/C/005279 | Rivaroxaban Accord | rivaroxaban | Valid |
+| EMEA/H/C/005600 | Rivaroxaban Viatris | rivaroxaban | Valid |
+| EMEA/H/C/006643 | Svariya | rivaroxaban | Valid |
 
 ## Safety Considerations
 

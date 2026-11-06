@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 582
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Tadalafil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
 description: "Tadalafil: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Treatment of erectile dysfunction. In order for tadalafil to be effec…"
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 5 of 5) |
-| Number of Authorizations | 5 (valid: 5) |
+| EU Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Authorizations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -78,13 +78,14 @@ For context, the lower-ranked predictions of migraine disorder and migraine with
 
 ## EU Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| EMEA/H/C/000436 | Cialis | Not specified | Treatment of erectile dysfunction. In order for tadalafil to be effective, sexual stimulation is required. Cialis is not i... |
-| EMEA/H/C/004666 | Tadalafil Lilly | Not specified | Treatment of erectile dysfunction in adult males. In order for tadalafil to be effective, sexual stimulation is required. ... |
-| EMEA/H/C/001021 | Adcirca (previously Tadalafil Lilly) | Not specified | Adults: pulmonary arterial hypertension (PAH), WHO functional class II and III, to improve exercise capacity. Paediatric p... |
-| EMEA/H/C/003787 | Tadalafil Mylan | Not specified | Treatment of erectile dysfunction in adult males. In order for tadalafil to be effective, sexual stimulation is required. ... |
-| EMEA/H/C/004297 | Talmanco (previously Tadalafil Generics) | Not specified | Talmanco is indicated in adults for the treatment of pulmonary arterial hypertension (PAH) classified as WHO functional cl... |
+| Authorization Number | Product Name | Active Substance | Status |
+|------|------|------|------|
+| EMEA/H/C/000436 | Cialis | tadalafil | Valid |
+| EMEA/H/C/001021 | Adcirca | tadalafil | Valid |
+| EMEA/H/C/003787 | Tadalafil Mylan | tadalafil | Valid |
+| EMEA/H/C/004297 | Talmanco | tadalafil | Valid |
+| EMEA/H/C/004666 | Tadalafil Lilly | tadalafil | Valid |
+| EMEA/H/C/005001 | Yuvanci | macitentan; tadalafil | Valid |
 
 The drug is marketed in this country: all 5 of 5 licences are valid.
 
