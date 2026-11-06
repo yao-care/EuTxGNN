@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>81 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>82 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,29 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (81)
+## Related News (82)
+
+### [MASH o acumulación de grasa en el hígado: así es esta enfermedad que no deja de crecer y que, si no se trata, puede derivar en cirrosis, insuficiencia hepática o cáncer de hígado](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTWZweXhISEY5d1RSOFFRM0IxVjRiUFVhUzBqZzRSajlxSW9tU0ZtV1BtUTVfZktLLXpFcUZFS2ZKRGFOOTdUZWlzbUxSQ2lGZ1pyd1RLeC1mMXpuZW0xSnZWaF9XTmlDQklBZzd4ei1yUE4yWUNpSjdHVlk4NS03MVUxMHpFbTQ1cG1IUVVsUnJrR3NoLW41N0hyT2g3dUVXcGFVY1p2MlVSbWJPcnVQVS15OWZ6XzEwam1MYlc0c3p0N2piblZFNWpJU05NY2U3cldxZ0pWX1NMVmtDOFppeU9GM0dyWHhjWEY4YTV3MNIB9AFBVV95cUxOcGUxeWpJbXpBWHZxeXJQWEpUT2tDajJpLWpfWVl1SURENm9UalhuQVBTYnZ4TE1jNnFkcFktSUtRSi1FeExBM2JjbndrV2lKTkcxMHdnQ0xEOGlKTmhsZlBGdGprZmloenpmVjdvQ2ZZTFJnNEVHbll3S3QxbzdKVlFseHJ2bE96enpyYUN4ZEoyTE9Xd2ZaNXVISFhvNnllZWZ1TDQ3UG1nM1hFTmx5SHQtd1VXc2lMMEtpVkM5aV9BbElsOXNaMUpkWE9ONDFjaXh2QmdsMXp5aG1lenhlWWUwdVIxeXRGa28zVXhPZEJReTJu?oc=5)
+
+2026-11-06 <span class="news-indication-tag">ictus</span>
+
+Source: [CuídatePlus](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTWZweXhISEY5d1RSOFFRM0IxVjRiUFVhUzBqZzRSajlxSW9tU0ZtV1BtUTVfZktLLXpFcUZFS2ZKRGFOOTdUZWlzbUxSQ2lGZ1pyd1RLeC1mMXpuZW0xSnZWaF9XTmlDQklBZzd4ei1yUE4yWUNpSjdHVlk4NS03MVUxMHpFbTQ1cG1IUVVsUnJrR3NoLW41N0hyT2g3dUVXcGFVY1p2MlVSbWJPcnVQVS15OWZ6XzEwam1MYlc0c3p0N2piblZFNWpJU05NY2U3cldxZ0pWX1NMVmtDOFppeU9GM0dyWHhjWEY4YTV3MNIB9AFBVV95cUxOcGUxeWpJbXpBWHZxeXJQWEpUT2tDajJpLWpfWVl1SURENm9UalhuQVBTYnZ4TE1jNnFkcFktSUtRSi1FeExBM2JjbndrV2lKTkcxMHdnQ0xEOGlKTmhsZlBGdGprZmloenpmVjdvQ2ZZTFJnNEVHbll3S3QxbzdKVlFseHJ2bE96enpyYUN4ZEoyTE9Xd2ZaNXVISFhvNnllZWZ1TDQ3UG1nM1hFTmx5SHQtd1VXc2lMMEtpVkM5aV9BbElsOXNaMUpkWE9ONDFjaXh2QmdsMXp5aG1lenhlWWUwdVIxeXRGa28zVXhPZEJReTJu?oc=5)
+
+---
 
 ### [Un estudio relaciona la hipertensión pulmonar con alteraciones cerebrales que afectan a la memoria y la atención - Gaceta Médica](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEJTS1ZXaWdfSlpCWVEtV0FPOXdsMzY5TFpfUzB1QnJTUUREQ0FrbEhxOGNtN1dnLXZiNGFKX25iX3I5anN2cmExWWlMNUlBcTNCQnNDZDFGOUFWdXItRGhjMnFPRjZqU2hZRDVnZS1WVkxlMlZYcjZ5ZTVXUXdNSU9zSS1hOFp2VFgtT2hRTGhXaFpxaXpkb20xcE9NNFpManhCYV9UeTc2eURDNW9J?oc=5)
 
 2026-11-06 <span class="news-indication-tag">hipertensión</span>
 
 Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEJTS1ZXaWdfSlpCWVEtV0FPOXdsMzY5TFpfUzB1QnJTUUREQ0FrbEhxOGNtN1dnLXZiNGFKX25iX3I5anN2cmExWWlMNUlBcTNCQnNDZDFGOUFWdXItRGhjMnFPRjZqU2hZRDVnZS1WVkxlMlZYcjZ5ZTVXUXdNSU9zSS1hOFp2VFgtT2hRTGhXaFpxaXpkb20xcE9NNFpManhCYV9UeTc2eURDNW9J?oc=5)
+
+---
+
+### [Ménopause et prise de poids : les règles nutritionnelles à suivre pour prévenir le diabète et l’hypertension - Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNbGE5RDZVVkp5WllxdndYaXlHeGU3cVl6dFFkUGw1RFNUN0hRcEI1QjQ4eVVucTlkQldTU1hZZzEzNXBMTXFtVFRmNlJCanR1dTNna1VDQWswdFNLSmhlZnAwZkdfZzQ4ejV3SFRTV3F0c3g0cVI0V05hbzRLbV8tZkJCV3I1VVhGTUJSczBJcVh5aUI2NzNTeU1EbmZfRXlKaWN5SGhpa2ZsSXpHaFdyUFNYUXhMZWFiLXN5bzhlLTFNUTRSdm4xY25XSFRxaENyRDQzNnFKWVlFRm9pSS01Zk5yYXhtUTN5SmFKTXQyM3d3SklwU081Nk9RRXdaNW9I?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span>
+
+Source: [Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNbGE5RDZVVkp5WllxdndYaXlHeGU3cVl6dFFkUGw1RFNUN0hRcEI1QjQ4eVVucTlkQldTU1hZZzEzNXBMTXFtVFRmNlJCanR1dTNna1VDQWswdFNLSmhlZnAwZkdfZzQ4ejV3SFRTV3F0c3g0cVI0V05hbzRLbV8tZkJCV3I1VVhGTUJSczBJcVh5aUI2NzNTeU1EbmZfRXlKaWN5SGhpa2ZsSXpHaFdyUFNYUXhMZWFiLXN5bzhlLTFNUTRSdm4xY25XSFRxaENyRDQzNnFKWVlFRm9pSS01Zk5yYXhtUTN5SmFKTXQyM3d3SklwU081Nk9RRXdaNW9I?oc=5)
 
 ---
 
@@ -59,11 +75,11 @@ Source: [Telecinco](https://news.google.com/rss/articles/CBMizgFBVV95cUxQcXZFRUJ
 
 ---
 
-### [Más del 60% de pacientes con enfermedad renal crónica tiene obesidad pero el IMC solo la detecta en el 40%](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
+### [Congreso S.E.N.: La historia reproductiva de la mujer puede anticipar el riesgo cardiovascular y renal - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUpmZW9Ka3ZWcy14QlFZSDZPU1g5akM0S09MSk1MNzd3VkJCVTBYMnFlZVNEelFPYVRic3JValRUUldTNlVRUC1BcDRLZy1oWU5ic0VacGY0cnZGaU0xeTRCaWl6QlFfWXhZcHRzLUpDRXNpUEtPWTNPblA1LWRnbG9LUFpJNGt4bDFfQ2RkYl9xQjh5QVRmODZOMTUwMDctQXdMd0VJb2FKQWVmY1ZmZThpeFRwQm1aanAw0gG2AUFVX3lxTE51d1RQRlFua2ZtS2taYlIyWTQ1R0oycS1sWk93S0E2M2hDN2hGajdrMGFwTjVkMGkyMmxfQUpYQl9rM2ItdHhYeldxQzJheHVQMzdueDRlU2VjeUQ0eHloZUtUbnlXSG9rdDI3cER4ekVVbWxVU09oR3JTYlNlWkFFeUE4NWVvNWxJTzZmZDktbG9lNVZYdl9jTGNwdktNRm5aQkJFcWNGZVBsX2lYQV95WHhScFJ3?oc=5)
 
-2026-11-05 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+2026-11-05 <span class="news-indication-tag">hipertensión</span>
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUpmZW9Ka3ZWcy14QlFZSDZPU1g5akM0S09MSk1MNzd3VkJCVTBYMnFlZVNEelFPYVRic3JValRUUldTNlVRUC1BcDRLZy1oWU5ic0VacGY0cnZGaU0xeTRCaWl6QlFfWXhZcHRzLUpDRXNpUEtPWTNPblA1LWRnbG9LUFpJNGt4bDFfQ2RkYl9xQjh5QVRmODZOMTUwMDctQXdMd0VJb2FKQWVmY1ZmZThpeFRwQm1aanAw0gG2AUFVX3lxTE51d1RQRlFua2ZtS2taYlIyWTQ1R0oycS1sWk93S0E2M2hDN2hGajdrMGFwTjVkMGkyMmxfQUpYQl9rM2ItdHhYeldxQzJheHVQMzdueDRlU2VjeUQ0eHloZUtUbnlXSG9rdDI3cER4ekVVbWxVU09oR3JTYlNlWkFFeUE4NWVvNWxJTzZmZDktbG9lNVZYdl9jTGNwdktNRm5aQkJFcWNGZVBsX2lYQV95WHhScFJ3?oc=5)
 
 ---
 
@@ -520,14 +536,6 @@ Source: [Le HuffPost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmpoZ
 2026-10-31 <span class="news-indication-tag">stroke</span>
 
 Source: [Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbG1lWUJfZjQ0aGVUemszdXo1UXg5SzA1eVh5UWxxVURPRzZ5Ny05SUlsTkxfTWsxc1AwQ3ozeDBlRTh0QV91eEViSU4yQlBnVkFlTzJIQnQxWmhLb3pPRG1Lb1Y3aGo5VkdSX1FPRVhqVHFib3JzWkhpYmR6YnE5SS1wY3FhQ19kaXlET2FySDFaZEV40gGaAUFVX3lxTE93ZDVPMmZhV3lqR0hPS2dCQnJuOFJ4VGpwemdDVlNFa2JpM2MyTUxxZm5RVkRlcUQ4bGRVSE1Xb292OUpsT2pFZTNqWFVxYm40RVphVDZJRF8xeWUtdkJSWnVWYk1kMmVQS2pIQWRNS25rNUlrSWR3QUthb3dvMzFIa2hrSXAwQlZMdndtVWRvRkhyWDM2STV5MEE?oc=5)
-
----
-
-### [Über die glykämische Kontrolle hinaus: kardiovaskuläre Endpunkte im Fokus – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGlkTGJCQU9zSWMwNGJ3YVI2MDl6OERBb0dpU19XOHNLaDdUcjVOQWlCU3kxcXdLWVd2ZDZIczZ2czluMXhhMVBpV3FuRTItVGdpd2daZnlwMGdKb01rLWFBenVSNHZ1a0pXanhDTlN2cXpjNENIZkZzYzJDWHpBc00tSTBEeDlhYnRhM2hFMnhhdTd2Vmp1YkRoQ2txVHNxTl9mTW42U1F2M0F5MzZFemdrWXlWOUFONC1ZandQRUJrV3JmM1BVNVBjLTRFY0hnLVBIaEhiY2I?oc=5)
-
-2026-10-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGlkTGJCQU9zSWMwNGJ3YVI2MDl6OERBb0dpU19XOHNLaDdUcjVOQWlCU3kxcXdLWVd2ZDZIczZ2czluMXhhMVBpV3FuRTItVGdpd2daZnlwMGdKb01rLWFBenVSNHZ1a0pXanhDTlN2cXpjNENIZkZzYzJDWHpBc00tSTBEeDlhYnRhM2hFMnhhdTd2Vmp1YkRoQ2txVHNxTl9mTW42U1F2M0F5MzZFemdrWXlWOUFONC1ZandQRUJrV3JmM1BVNVBjLTRFY0hnLVBIaEhiY2I?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Vortioxetine. 2 predicted indications."
 permalink: /news/vortioxetine/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Vortioxetine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Vortioxetine?">
-<strong>Vortioxetine</strong> currently has <strong>13 news articles</strong>, with 2 predicted indications.
+<strong>Vortioxetine</strong> currently has <strong>16 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,37 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (16)
+
+### [UCLA researchers may be able to treat depression by stimulating the brain itself - Daily Bruin](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaFJRaEl0dXM1emNUaEE5eUF5bVlIUk8taDRfYmF3UW1kYjZOcmlKcHV1cnE5S2ZacXBRenlJNzlMQWdsQzFDUXI3RXZ4anVDbHBnTW9kTDB4VDlCNk5ULTBqcUZKSzV2RW5VeFdBQnJIVFYyOHZDTWVuZzk4ckc5dGhCM2dySnhmMjl5YklvRFoyN3pYdHJhZWJybktMc2Rka250Qlk0LUJZaEFuMVk5clV5WVY?oc=5)
+
+2026-11-06 <span class="news-indication-tag">depression</span>
+
+Source: [Daily Bruin](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaFJRaEl0dXM1emNUaEE5eUF5bVlIUk8taDRfYmF3UW1kYjZOcmlKcHV1cnE5S2ZacXBRenlJNzlMQWdsQzFDUXI3RXZ4anVDbHBnTW9kTDB4VDlCNk5ULTBqcUZKSzV2RW5VeFdBQnJIVFYyOHZDTWVuZzk4ckc5dGhCM2dySnhmMjl5YklvRFoyN3pYdHJhZWJybktMc2Rka250Qlk0LUJZaEFuMVk5clV5WVY?oc=5)
+
+---
+
+### [Depressione e orologio biologico: identificato un possibile sottotipo legato ai ritmi circadiani - Corriere della Sera](https://news.google.com/rss/articles/CBMikgJBVV95cUxQTnlJd0h0ZnM1a1hPTjlCeVNGSXhtNlk4WjlrZFZDSkh2QVRQUUlKVDQ5eVA1Z1dCTFhwM3R1UThjdkJvQ0gwMUd1VW03OW5iakIyUU1YMlNDVGNNM3ZrR0ZVUkxEM2pzMFFmWjVhQnd6NXA1ZzFaVVhYZDNlTlZlV1Y3MjkweTIyNTVYeWVNajQ4R201bGVfOGc4MkxJbTdoR0syOGh5T0luZUt0X25pSGFlM3o4RndGNFpIaWU3c0hBd1d3S1Z5RFdkblpDUjJKLVJtUGdJTEFXZGtpUUJaX1FKVVY3Z0hzUWpySjAzUVhmbmkyRThFUkQ2LTdPWk9JWEhmdllRWV9nMlQ2dVltbnFR0gGXAkFVX3lxTE1HTHV4bnMtRy1EbF92bHJtcHlNNWMwMlNDWjJxTG1ncGFITGltNXo1RXhvRU1UdWhoaUVST1pXWWtVQTRmd2JYYXFsRlJKSzdWci1HSW1sT1JrVDU0OFF2WmJGY0llU3hkNERfUW0wbTBxS2diV1ljSWI4d0s1VTI4NmwxVDRkY3FqeXd1RlZYQzlRamlqd09ONUxCUkJQdGhmSy1pSngzUjNmUTFYb1ZEMVNBSjM0N0Fkdm5wYUhuckJ6Ukl5MS0wQmdRcVlVcW4xdFZkYXZRMnlLREhiOWUyZGNXQzNxUng2NU9QUlhNQUR3VkxERFloR2lqVlhUNjJoQjVlQzNUb1VWaVRmRVZUemRmZUNVdw?oc=5)
+
+2026-11-06 <span class="news-indication-tag">depression</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMikgJBVV95cUxQTnlJd0h0ZnM1a1hPTjlCeVNGSXhtNlk4WjlrZFZDSkh2QVRQUUlKVDQ5eVA1Z1dCTFhwM3R1UThjdkJvQ0gwMUd1VW03OW5iakIyUU1YMlNDVGNNM3ZrR0ZVUkxEM2pzMFFmWjVhQnd6NXA1ZzFaVVhYZDNlTlZlV1Y3MjkweTIyNTVYeWVNajQ4R201bGVfOGc4MkxJbTdoR0syOGh5T0luZUt0X25pSGFlM3o4RndGNFpIaWU3c0hBd1d3S1Z5RFdkblpDUjJKLVJtUGdJTEFXZGtpUUJaX1FKVVY3Z0hzUWpySjAzUVhmbmkyRThFUkQ2LTdPWk9JWEhmdllRWV9nMlQ2dVltbnFR0gGXAkFVX3lxTE1HTHV4bnMtRy1EbF92bHJtcHlNNWMwMlNDWjJxTG1ncGFITGltNXo1RXhvRU1UdWhoaUVST1pXWWtVQTRmd2JYYXFsRlJKSzdWci1HSW1sT1JrVDU0OFF2WmJGY0llU3hkNERfUW0wbTBxS2diV1ljSWI4d0s1VTI4NmwxVDRkY3FqeXd1RlZYQzlRamlqd09ONUxCUkJQdGhmSy1pSngzUjNmUTFYb1ZEMVNBSjM0N0Fkdm5wYUhuckJ6Ukl5MS0wQmdRcVlVcW4xdFZkYXZRMnlLREhiOWUyZGNXQzNxUng2NU9QUlhNQUR3VkxERFloR2lqVlhUNjJoQjVlQzNUb1VWaVRmRVZUemRmZUNVdw?oc=5)
+
+---
 
 ### [Dépression résistante : un spray nasal psychédélique à l’essai](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEZpWlF6Ykt1LVpfVlpGZ2d0SlVscFRVeWNjeHd4dkhHci1zU3pBQmpEQVB4ZVR3WFpjcjBKSWc4dy1XQk5BdXI1LV9Xd3BydG1FaUV3QU1jN3JsRTd1bFQ0NjQ0VVVsREZFY1l0Yk8zY0Iza3d3N2Y2bVVoQzF2OEpR?oc=5)
 
 2026-11-04 <span class="news-indication-tag">dépression</span>
 
 Source: [ma-sante.news](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEZpWlF6Ykt1LVpfVlpGZ2d0SlVscFRVeWNjeHd4dkhHci1zU3pBQmpEQVB4ZVR3WFpjcjBKSWc4dy1XQk5BdXI1LV9Xd3BydG1FaUV3QU1jN3JsRTd1bFQ0NjQ0VVVsREZFY1l0Yk8zY0Iza3d3N2Y2bVVoQzF2OEpR?oc=5)
+
+---
+
+### [Erwartungen beeinflussen Therapieerfolg bei Depression stärker als gedacht - Medical Tribune](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPU0FVSEdwT0c4RjQ0YUZHN3hkSEU0bHdZRFdoRnlDcGN5OGJ5c2FwVkppUEJsb2FjQWpqenVhVnVGcDZwV1NxR3RwS1RrSjhRN1dHU2ZlWnlXZXhRZ2sxZUxIX1RTRHFlTHpQWXFFYnBGbzFNQXUxSk96WGdnRXJYZWhHT0thN3VPdlBBZURNVTk1aVl2andCT2VTaEV4TDBqX1h4aHNRZzNkeFpveFB4OUxBSUxkXzZQUF9fU3RJV0x5RFNUSVVZUHRkRTBOX0ExOWZKVUdDZnhwYjBOdlJoNzJoc3o5amx3dWdwZFpJRTFiSmhIT1pKNktR?oc=5)
+
+2026-11-04 <span class="news-indication-tag">depression</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPU0FVSEdwT0c4RjQ0YUZHN3hkSEU0bHdZRFdoRnlDcGN5OGJ5c2FwVkppUEJsb2FjQWpqenVhVnVGcDZwV1NxR3RwS1RrSjhRN1dHU2ZlWnlXZXhRZ2sxZUxIX1RTRHFlTHpQWXFFYnBGbzFNQXUxSk96WGdnRXJYZWhHT0thN3VPdlBBZURNVTk1aVl2andCT2VTaEV4TDBqX1h4aHNRZzNkeFpveFB4OUxBSUxkXzZQUF9fU3RJV0x5RFNUSVVZUHRkRTBOX0ExOWZKVUdDZnhwYjBOdlJoNzJoc3o5amx3dWdwZFpJRTFiSmhIT1pKNktR?oc=5)
 
 ---
 

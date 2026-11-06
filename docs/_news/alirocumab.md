@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,11 +42,19 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Congreso S.E.N.: España da el primer paso hacia un plan nacional de salud renal para frenar la enfermedad renal crónica - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
+
+2026-11-06 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
+
+---
 
 ### [Más del 60% de pacientes con enfermedad renal crónica tiene obesidad pero el IMC solo la detecta en el 40%](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
 
-2026-11-05 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+2026-11-05 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
 

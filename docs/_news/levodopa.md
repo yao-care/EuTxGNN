@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
+<strong>Levodopa</strong> currently has <strong>14 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,37 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (14)
 
-### [New Alzheimer's study discovers symptom starts in ear 10 years before memory loss](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
+### [7 signs you’re at risk of dementia — and they’re not about forgetting things - The Times](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSTVyVEZOX2hCM0dlS2dORy1ZQlJfYlVoY2diYWx3M1Q2QXR3MXZ4OGk1dE84Z1hzdWltQkwtbG9mWm1FZnpJZHE5clN3cVlvd0tBRFJLdGlzazlUS0ZYdXNQZ1lRNXBLTGFtSDJVV1N3ZE4xZURjcm9PSGxwTmtnSlhmNG5DSGxLakRTZ1lMWnZvQWRlOE10N01TdER6c3BnTjFHUFhiaHppYVBTTEdIblZGY1NqZ096WE81SVRpSFktbGM2YXlxN1M3ZjRScmZ0UGp5cWkteUc?oc=5)
+
+2026-11-06 <span class="news-indication-tag">dementia</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSTVyVEZOX2hCM0dlS2dORy1ZQlJfYlVoY2diYWx3M1Q2QXR3MXZ4OGk1dE84Z1hzdWltQkwtbG9mWm1FZnpJZHE5clN3cVlvd0tBRFJLdGlzazlUS0ZYdXNQZ1lRNXBLTGFtSDJVV1N3ZE4xZURjcm9PSGxwTmtnSlhmNG5DSGxLakRTZ1lMWnZvQWRlOE10N01TdER6c3BnTjFHUFhiaHppYVBTTEdIblZGY1NqZ096WE81SVRpSFktbGM2YXlxN1M3ZjRScmZ0UGp5cWkteUc?oc=5)
+
+---
+
+### [Exeter University-led £20m project to prevent and detect dementia](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
+
+2026-11-06 <span class="news-indication-tag">dementia</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
+
+---
+
+### [Engineered protein that cuts Alzheimer's-linked brain deposits opens potential therapeutic avenue - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2QtdGtBa0Nkc0JMYW50di12X3p4OXdIdDRzNDc5ZzRBWGoxTUF1WFlmVnBQSm1iaWU1czhGdmR4MkdoLXViMU9pejZoSVFZRFFQOUYwSnJTWk53S2lSUl8xQ25mN2MzcVBlcUdQTDdTOWowcnRnWDQtd2hzNTBUQmYwdDIxa1ltNFBZ?oc=5)
+
+2026-11-05 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2QtdGtBa0Nkc0JMYW50di12X3p4OXdIdDRzNDc5ZzRBWGoxTUF1WFlmVnBQSm1iaWU1czhGdmR4MkdoLXViMU9pejZoSVFZRFFQOUYwSnJTWk53S2lSUl8xQ25mN2MzcVBlcUdQTDdTOWowcnRnWDQtd2hzNTBUQmYwdDIxa1ltNFBZ?oc=5)
+
+---
+
+### [New Alzheimer's study discovers symptom starts in ear 10 years before memory loss - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
 
 2026-11-05 <span class="news-indication-tag">Alzheimer's</span>
 
-Source: [Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Erdafitinib?">
-<strong>Erdafitinib</strong> currently has <strong>43 news articles</strong>, with 6 predicted indications.
+<strong>Erdafitinib</strong> currently has <strong>44 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page combines the AI-predicted indications for Erdafitinib with the latest 
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (43)
+## Related News (44)
 
 ### [Un estudio relaciona la hipertensión pulmonar con alteraciones cerebrales que afectan a la memoria y la atención - Gaceta Médica](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEJTS1ZXaWdfSlpCWVEtV0FPOXdsMzY5TFpfUzB1QnJTUUREQ0FrbEhxOGNtN1dnLXZiNGFKX25iX3I5anN2cmExWWlMNUlBcTNCQnNDZDFGOUFWdXItRGhjMnFPRjZqU2hZRDVnZS1WVkxlMlZYcjZ5ZTVXUXdNSU9zSS1hOFp2VFgtT2hRTGhXaFpxaXpkb20xcE9NNFpManhCYV9UeTc2eURDNW9J?oc=5)
 
@@ -48,11 +48,19 @@ Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcE
 
 ---
 
-### [Más del 60% de pacientes con enfermedad renal crónica tiene obesidad pero el IMC solo la detecta en el 40%](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
+### [Ménopause et prise de poids : les règles nutritionnelles à suivre pour prévenir le diabète et l’hypertension - Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNbGE5RDZVVkp5WllxdndYaXlHeGU3cVl6dFFkUGw1RFNUN0hRcEI1QjQ4eVVucTlkQldTU1hZZzEzNXBMTXFtVFRmNlJCanR1dTNna1VDQWswdFNLSmhlZnAwZkdfZzQ4ejV3SFRTV3F0c3g0cVI0V05hbzRLbV8tZkJCV3I1VVhGTUJSczBJcVh5aUI2NzNTeU1EbmZfRXlKaWN5SGhpa2ZsSXpHaFdyUFNYUXhMZWFiLXN5bzhlLTFNUTRSdm4xY25XSFRxaENyRDQzNnFKWVlFRm9pSS01Zk5yYXhtUTN5SmFKTXQyM3d3SklwU081Nk9RRXdaNW9I?oc=5)
 
-2026-11-05 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+2026-11-06 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span>
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
+Source: [Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNbGE5RDZVVkp5WllxdndYaXlHeGU3cVl6dFFkUGw1RFNUN0hRcEI1QjQ4eVVucTlkQldTU1hZZzEzNXBMTXFtVFRmNlJCanR1dTNna1VDQWswdFNLSmhlZnAwZkdfZzQ4ejV3SFRTV3F0c3g0cVI0V05hbzRLbV8tZkJCV3I1VVhGTUJSczBJcVh5aUI2NzNTeU1EbmZfRXlKaWN5SGhpa2ZsSXpHaFdyUFNYUXhMZWFiLXN5bzhlLTFNUTRSdm4xY25XSFRxaENyRDQzNnFKWVlFRm9pSS01Zk5yYXhtUTN5SmFKTXQyM3d3SklwU081Nk9RRXdaNW9I?oc=5)
+
+---
+
+### [Congreso S.E.N.: La historia reproductiva de la mujer puede anticipar el riesgo cardiovascular y renal - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUpmZW9Ka3ZWcy14QlFZSDZPU1g5akM0S09MSk1MNzd3VkJCVTBYMnFlZVNEelFPYVRic3JValRUUldTNlVRUC1BcDRLZy1oWU5ic0VacGY0cnZGaU0xeTRCaWl6QlFfWXhZcHRzLUpDRXNpUEtPWTNPblA1LWRnbG9LUFpJNGt4bDFfQ2RkYl9xQjh5QVRmODZOMTUwMDctQXdMd0VJb2FKQWVmY1ZmZThpeFRwQm1aanAw0gG2AUFVX3lxTE51d1RQRlFua2ZtS2taYlIyWTQ1R0oycS1sWk93S0E2M2hDN2hGajdrMGFwTjVkMGkyMmxfQUpYQl9rM2ItdHhYeldxQzJheHVQMzdueDRlU2VjeUQ0eHloZUtUbnlXSG9rdDI3cER4ekVVbWxVU09oR3JTYlNlWkFFeUE4NWVvNWxJTzZmZDktbG9lNVZYdl9jTGNwdktNRm5aQkJFcWNGZVBsX2lYQV95WHhScFJ3?oc=5)
+
+2026-11-05 <span class="news-indication-tag">hipertensión</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUpmZW9Ka3ZWcy14QlFZSDZPU1g5akM0S09MSk1MNzd3VkJCVTBYMnFlZVNEelFPYVRic3JValRUUldTNlVRUC1BcDRLZy1oWU5ic0VacGY0cnZGaU0xeTRCaWl6QlFfWXhZcHRzLUpDRXNpUEtPWTNPblA1LWRnbG9LUFpJNGt4bDFfQ2RkYl9xQjh5QVRmODZOMTUwMDctQXdMd0VJb2FKQWVmY1ZmZThpeFRwQm1aanAw0gG2AUFVX3lxTE51d1RQRlFua2ZtS2taYlIyWTQ1R0oycS1sWk93S0E2M2hDN2hGajdrMGFwTjVkMGkyMmxfQUpYQl9rM2ItdHhYeldxQzJheHVQMzdueDRlU2VjeUQ0eHloZUtUbnlXSG9rdDI3cER4ekVVbWxVU09oR3JTYlNlWkFFeUE4NWVvNWxJTzZmZDktbG9lNVZYdl9jTGNwdktNRm5aQkJFcWNGZVBsX2lYQV95WHhScFJ3?oc=5)
 
 ---
 

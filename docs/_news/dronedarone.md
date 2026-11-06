@@ -43,6 +43,14 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 
 ## Related News (60)
 
+### [MASH o acumulación de grasa en el hígado: así es esta enfermedad que no deja de crecer y que, si no se trata, puede derivar en cirrosis, insuficiencia hepática o cáncer de hígado](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTWZweXhISEY5d1RSOFFRM0IxVjRiUFVhUzBqZzRSajlxSW9tU0ZtV1BtUTVfZktLLXpFcUZFS2ZKRGFOOTdUZWlzbUxSQ2lGZ1pyd1RLeC1mMXpuZW0xSnZWaF9XTmlDQklBZzd4ei1yUE4yWUNpSjdHVlk4NS03MVUxMHpFbTQ1cG1IUVVsUnJrR3NoLW41N0hyT2g3dUVXcGFVY1p2MlVSbWJPcnVQVS15OWZ6XzEwam1MYlc0c3p0N2piblZFNWpJU05NY2U3cldxZ0pWX1NMVmtDOFppeU9GM0dyWHhjWEY4YTV3MNIB9AFBVV95cUxOcGUxeWpJbXpBWHZxeXJQWEpUT2tDajJpLWpfWVl1SURENm9UalhuQVBTYnZ4TE1jNnFkcFktSUtRSi1FeExBM2JjbndrV2lKTkcxMHdnQ0xEOGlKTmhsZlBGdGprZmloenpmVjdvQ2ZZTFJnNEVHbll3S3QxbzdKVlFseHJ2bE96enpyYUN4ZEoyTE9Xd2ZaNXVISFhvNnllZWZ1TDQ3UG1nM1hFTmx5SHQtd1VXc2lMMEtpVkM5aV9BbElsOXNaMUpkWE9ONDFjaXh2QmdsMXp5aG1lenhlWWUwdVIxeXRGa28zVXhPZEJReTJu?oc=5)
+
+2026-11-06 <span class="news-indication-tag">ictus</span>
+
+Source: [CuídatePlus](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTWZweXhISEY5d1RSOFFRM0IxVjRiUFVhUzBqZzRSajlxSW9tU0ZtV1BtUTVfZktLLXpFcUZFS2ZKRGFOOTdUZWlzbUxSQ2lGZ1pyd1RLeC1mMXpuZW0xSnZWaF9XTmlDQklBZzd4ei1yUE4yWUNpSjdHVlk4NS03MVUxMHpFbTQ1cG1IUVVsUnJrR3NoLW41N0hyT2g3dUVXcGFVY1p2MlVSbWJPcnVQVS15OWZ6XzEwam1MYlc0c3p0N2piblZFNWpJU05NY2U3cldxZ0pWX1NMVmtDOFppeU9GM0dyWHhjWEY4YTV3MNIB9AFBVV95cUxOcGUxeWpJbXpBWHZxeXJQWEpUT2tDajJpLWpfWVl1SURENm9UalhuQVBTYnZ4TE1jNnFkcFktSUtRSi1FeExBM2JjbndrV2lKTkcxMHdnQ0xEOGlKTmhsZlBGdGprZmloenpmVjdvQ2ZZTFJnNEVHbll3S3QxbzdKVlFseHJ2bE96enpyYUN4ZEoyTE9Xd2ZaNXVISFhvNnllZWZ1TDQ3UG1nM1hFTmx5SHQtd1VXc2lMMEtpVkM5aV9BbElsOXNaMUpkWE9ONDFjaXh2QmdsMXp5aG1lenhlWWUwdVIxeXRGa28zVXhPZEJReTJu?oc=5)
+
+---
+
 ### [Desarrollan una estrategia con IA para prevenir el ictus en mujeres mayores](https://news.google.com/rss/articles/CBMizgFBVV95cUxQcXZFRUJTQkJqd25EcWE1ZFpULUcxWGw3ZWJKVWl1cVV6RHRCaXVlUHdOUHV0c2t4X2pfOXFLZ01zTnZzZmpVajd1ZjMwSndCb2FzMk5VMzBrbDBKYWpJRm80TDFxdXpPRjRKLVFiaWEzQjYzTDAyaGNjZW5heDhjY29DVjVia0xxWkFleUh0UEtwSGJKS3ZXYzVLMWc1cTQ3dU9XOVYzZ0NiYXlYQWpjWWpaYkRXclFfNGdhLXRGckFTQi1vd0Z3VmpxZnRhQQ?oc=5)
 
 2026-11-05 <span class="news-indication-tag">ictus</span>
@@ -91,7 +99,7 @@ Source: [Andalucía Información](https://news.google.com/rss/articles/CBMimAJBV
 
 ---
 
-### [Sleep Apnea Linked to Heart Risks in Atrial Fibrillation](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmRjZ1g3MnFWbVlFTzdSUVJkbFBxdG4wWGh5NTJ2djRGOXpHSWlITm1WaEI0SHREVE1ZWDdUclM3ZDZSaWFBOXFJYjFBVTRCdnc3ZmdMWGJKdlc5WjlCSHRLQ21ZRlZoY2VrTjRCRjd1WUdGNHNvblB3bEgxMmZRdFd2eU5iTkw1ZVBrX0ZjOWZULVVxbkZGWnluTXVUdWdIMFJBcQ?oc=5)
+### [Obstructive Sleep Apnea Linked to Increased Heart Risks in Patients With Atrial Fibrillation](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmRjZ1g3MnFWbVlFTzdSUVJkbFBxdG4wWGh5NTJ2djRGOXpHSWlITm1WaEI0SHREVE1ZWDdUclM3ZDZSaWFBOXFJYjFBVTRCdnc3ZmdMWGJKdlc5WjlCSHRLQ21ZRlZoY2VrTjRCRjd1WUdGNHNvblB3bEgxMmZRdFd2eU5iTkw1ZVBrX0ZjOWZULVVxbkZGWnluTXVUdWdIMFJBcQ?oc=5)
 
 2026-11-05 <span class="news-indication-tag">atrial fibrillation</span>
 
@@ -368,14 +376,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNek
 2026-10-31 <span class="news-indication-tag">stroke</span>
 
 Source: [Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbG1lWUJfZjQ0aGVUemszdXo1UXg5SzA1eVh5UWxxVURPRzZ5Ny05SUlsTkxfTWsxc1AwQ3ozeDBlRTh0QV91eEViSU4yQlBnVkFlTzJIQnQxWmhLb3pPRG1Lb1Y3aGo5VkdSX1FPRVhqVHFib3JzWkhpYmR6YnE5SS1wY3FhQ19kaXlET2FySDFaZEV40gGaAUFVX3lxTE93ZDVPMmZhV3lqR0hPS2dCQnJuOFJ4VGpwemdDVlNFa2JpM2MyTUxxZm5RVkRlcUQ4bGRVSE1Xb292OUpsT2pFZTNqWFVxYm40RVphVDZJRF8xeWUtdkJSWnVWYk1kMmVQS2pIQWRNS25rNUlrSWR3QUthb3dvMzFIa2hrSXAwQlZMdndtVWRvRkhyWDM2STV5MEE?oc=5)
-
----
-
-### [Über die glykämische Kontrolle hinaus: kardiovaskuläre Endpunkte im Fokus – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGlkTGJCQU9zSWMwNGJ3YVI2MDl6OERBb0dpU19XOHNLaDdUcjVOQWlCU3kxcXdLWVd2ZDZIczZ2czluMXhhMVBpV3FuRTItVGdpd2daZnlwMGdKb01rLWFBenVSNHZ1a0pXanhDTlN2cXpjNENIZkZzYzJDWHpBc00tSTBEeDlhYnRhM2hFMnhhdTd2Vmp1YkRoQ2txVHNxTl9mTW42U1F2M0F5MzZFemdrWXlWOUFONC1ZandQRUJrV3JmM1BVNVBjLTRFY0hnLVBIaEhiY2I?oc=5)
-
-2026-10-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGlkTGJCQU9zSWMwNGJ3YVI2MDl6OERBb0dpU19XOHNLaDdUcjVOQWlCU3kxcXdLWVd2ZDZIczZ2czluMXhhMVBpV3FuRTItVGdpd2daZnlwMGdKb01rLWFBenVSNHZ1a0pXanhDTlN2cXpjNENIZkZzYzJDWHpBc00tSTBEeDlhYnRhM2hFMnhhdTd2Vmp1YkRoQ2txVHNxTl9mTW42U1F2M0F5MzZFemdrWXlWOUFONC1ZandQRUJrV3JmM1BVNVBjLTRFY0hnLVBIaEhiY2I?oc=5)
 
 ---
 

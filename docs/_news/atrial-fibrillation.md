@@ -53,7 +53,7 @@ This page brings together the latest health news about “Vorhofflimmern” and 
 
 ## Related News (5)
 
-### [Sleep Apnea Linked to Heart Risks in Atrial Fibrillation](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmRjZ1g3MnFWbVlFTzdSUVJkbFBxdG4wWGh5NTJ2djRGOXpHSWlITm1WaEI0SHREVE1ZWDdUclM3ZDZSaWFBOXFJYjFBVTRCdnc3ZmdMWGJKdlc5WjlCSHRLQ21ZRlZoY2VrTjRCRjd1WUdGNHNvblB3bEgxMmZRdFd2eU5iTkw1ZVBrX0ZjOWZULVVxbkZGWnluTXVUdWdIMFJBcQ?oc=5)
+### [Obstructive Sleep Apnea Linked to Increased Heart Risks in Patients With Atrial Fibrillation](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmRjZ1g3MnFWbVlFTzdSUVJkbFBxdG4wWGh5NTJ2djRGOXpHSWlITm1WaEI0SHREVE1ZWDdUclM3ZDZSaWFBOXFJYjFBVTRCdnc3ZmdMWGJKdlc5WjlCSHRLQ21ZRlZoY2VrTjRCRjd1WUdGNHNvblB3bEgxMmZRdFd2eU5iTkw1ZVBrX0ZjOWZULVVxbkZGWnluTXVUdWdIMFJBcQ?oc=5)
 
 2026-11-05
 

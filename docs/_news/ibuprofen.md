@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ibuprofen. 7 predicted indications."
 permalink: /news/ibuprofen/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Ibuprofen News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>9 news articles</strong>, with 7 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>10 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Derby mum almost died after a 20-year addiction to ibuprofen - taking 32 at once - Derbyshire Live](https://news.google.com/rss/articles/CBMijgFBVV95cUxOd0xMSVdxNnhZd2R5b3JvVWtUdzdNNE43cC1FYUsxZ3JOQkNGSTd5ZzVyOFE5R29rSzN2QUZhRmp6blI2OHg3N24tbHJONVNablVlbi1GMmU4aENHajFJclJTZ294Z0t3UGo2SVNJWmM1anRxWThxS3VEZWVDOUJFMENvQURBUWZSS3BLazZB0gGTAUFVX3lxTE54ZU5rbElZWmtpdGZKal9HaUk5amdtZFpFX2ZleEttQm9QMFNnYzF5UjRhSk9RWGRzeTdFTlhZZEQ1bUJ6eUJmUmZfZmxoQVVRMnRoNUEtRjhGVlZxOG81RzBmRzlraWcxZDUycERjYl9nLUtuRGtWOFkwV1NJY296dmYwaks0czQ3Y29TY3poQWdHTQ?oc=5)
+
+2026-11-06 <span class="news-drug-tag">Ibuprofen</span>
+
+Source: [Derbyshire Live](https://news.google.com/rss/articles/CBMijgFBVV95cUxOd0xMSVdxNnhZd2R5b3JvVWtUdzdNNE43cC1FYUsxZ3JOQkNGSTd5ZzVyOFE5R29rSzN2QUZhRmp6blI2OHg3N24tbHJONVNablVlbi1GMmU4aENHajFJclJTZ294Z0t3UGo2SVNJWmM1anRxWThxS3VEZWVDOUJFMENvQURBUWZSS3BLazZB0gGTAUFVX3lxTE54ZU5rbElZWmtpdGZKal9HaUk5amdtZFpFX2ZleEttQm9QMFNnYzF5UjRhSk9RWGRzeTdFTlhZZEQ1bUJ6eUJmUmZfZmxoQVVRMnRoNUEtRjhGVlZxOG81RzBmRzlraWcxZDUycERjYl9nLUtuRGtWOFkwV1NJY296dmYwaks0czQ3Y29TY3poQWdHTQ?oc=5)
+
+---
 
 ### [3 piante spontanee superano l’ibuprofene in test contro il dolore](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDJzaDEweHY0OVZ1d2EwUG9VS3dyU2pVcGJfOFI1STJQSXBQZ3hNWGdpZTN6WG5ad2lweXREYmgtaDkzalNyeDhuN1RxcGlfeWxCWmsxTWRMYVNNWUtnLTE0cDc4eXhHZjZZcVpyMXJKaC0wLS1jeG42ejBNcXN2SFBTcEFkQkYyTVl4eVkwLXZYOGxSU2YtUFNXRG53bXdMQjA1MWl3aU0wV1ItN0dtd0x1ekJ4SEJf?oc=5)
 

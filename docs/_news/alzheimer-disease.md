@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Alzheimer's (alzheimer disease) News"
+title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Alzheimer's (alzheimer disease). 8 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 11 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 last_modified_at: 2026-11-06
 ---
 
-# Alzheimer's (alzheimer disease) News
+# dementia (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
-<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>8 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
+<strong>dementia (alzheimer disease)</strong> currently has <strong>11 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Alzheimer's” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -43,13 +43,37 @@ This page brings together the latest health news about “Alzheimer's” and lis
 </ul>
 </div>
 
-## Related News (8)
+## Related News (11)
 
-### [New Alzheimer's study discovers symptom starts in ear 10 years before memory loss](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
+### [7 signs you’re at risk of dementia — and they’re not about forgetting things - The Times](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSTVyVEZOX2hCM0dlS2dORy1ZQlJfYlVoY2diYWx3M1Q2QXR3MXZ4OGk1dE84Z1hzdWltQkwtbG9mWm1FZnpJZHE5clN3cVlvd0tBRFJLdGlzazlUS0ZYdXNQZ1lRNXBLTGFtSDJVV1N3ZE4xZURjcm9PSGxwTmtnSlhmNG5DSGxLakRTZ1lMWnZvQWRlOE10N01TdER6c3BnTjFHUFhiaHppYVBTTEdIblZGY1NqZ096WE81SVRpSFktbGM2YXlxN1M3ZjRScmZ0UGp5cWkteUc?oc=5)
+
+2026-11-06
+
+Source: [The Times](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSTVyVEZOX2hCM0dlS2dORy1ZQlJfYlVoY2diYWx3M1Q2QXR3MXZ4OGk1dE84Z1hzdWltQkwtbG9mWm1FZnpJZHE5clN3cVlvd0tBRFJLdGlzazlUS0ZYdXNQZ1lRNXBLTGFtSDJVV1N3ZE4xZURjcm9PSGxwTmtnSlhmNG5DSGxLakRTZ1lMWnZvQWRlOE10N01TdER6c3BnTjFHUFhiaHppYVBTTEdIblZGY1NqZ096WE81SVRpSFktbGM2YXlxN1M3ZjRScmZ0UGp5cWkteUc?oc=5)
+
+---
+
+### [Exeter University-led £20m project to prevent and detect dementia](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
+
+2026-11-06
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
+
+---
+
+### [Engineered protein that cuts Alzheimer's-linked brain deposits opens potential therapeutic avenue - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2QtdGtBa0Nkc0JMYW50di12X3p4OXdIdDRzNDc5ZzRBWGoxTUF1WFlmVnBQSm1iaWU1czhGdmR4MkdoLXViMU9pejZoSVFZRFFQOUYwSnJTWk53S2lSUl8xQ25mN2MzcVBlcUdQTDdTOWowcnRnWDQtd2hzNTBUQmYwdDIxa1ltNFBZ?oc=5)
 
 2026-11-05
 
-Source: [Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2QtdGtBa0Nkc0JMYW50di12X3p4OXdIdDRzNDc5ZzRBWGoxTUF1WFlmVnBQSm1iaWU1czhGdmR4MkdoLXViMU9pejZoSVFZRFFQOUYwSnJTWk53S2lSUl8xQ25mN2MzcVBlcUdQTDdTOWowcnRnWDQtd2hzNTBUQmYwdDIxa1ltNFBZ?oc=5)
+
+---
+
+### [New Alzheimer's study discovers symptom starts in ear 10 years before memory loss - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
+
+2026-11-05
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
 
 ---
 

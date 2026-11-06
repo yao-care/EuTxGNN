@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Lipegfilgrastim?">
-<strong>Lipegfilgrastim</strong> currently has <strong>55 news articles</strong>, with 5 predicted indications.
+<strong>Lipegfilgrastim</strong> currently has <strong>57 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,39 @@ This page combines the AI-predicted indications for Lipegfilgrastim with the lat
 <p><a href="{{ '/drugs/lipegfilgrastim/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (55)
+## Related News (57)
+
+### [Typ-2-Diabetes: ADA und EASD rücken moderne Wirkstoffe vor Metformin](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGJkOWpxM01kWUVjRlgxRGdURDBrTGJDSngtQnkxUGxicEUtR1lEMWhvalQ5UmlWQW9tcGpCN19HXzJKS1ljVWxVNFU2OUwybmFfVHYyQy02djd5Tk13ZkphNU9hbG5GV2xSMFNnU2FwdXZHNkczbXhtZURsSDRncGFDd2JBak5wM0VKQTZQSi1vakwyR1E1TFZubVhVbEFUZFpLZHFNUEFYbWdWeG5Ed3ZoTjdWQk5C?oc=5)
+
+2026-11-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGJkOWpxM01kWUVjRlgxRGdURDBrTGJDSngtQnkxUGxicEUtR1lEMWhvalQ5UmlWQW9tcGpCN19HXzJKS1ljVWxVNFU2OUwybmFfVHYyQy02djd5Tk13ZkphNU9hbG5GV2xSMFNnU2FwdXZHNkczbXhtZURsSDRncGFDd2JBak5wM0VKQTZQSi1vakwyR1E1TFZubVhVbEFUZFpLZHFNUEFYbWdWeG5Ed3ZoTjdWQk5C?oc=5)
+
+---
+
+### [Diabetes: Neues Implantat wirkt schon nach einer Stunde – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBhYm5WOWMwbjRuX1p1MXBIeG9uSXJTenhMUXRJRjU3MVQ0X2xOVS0xVnR5UHl4ZGl3eVg1MmJqbjRma0NzSlJlR0RuU1NSaUhVcEZMdk1iMklqalIxSzJYVGJUaFZEMXZyRzRjQ2p4ejdxY041NVVpMXhiYXk1SnlLb1NacVI4OXZ0RlYzUy1peXFaNWxOcEl1MFRiSFZSc0FTcTRXZTl3Vnh2bzJPTG92R0Q5c1VJVlVWZGl3RDFOdFBIMWlrUkVrV1Z1SzlYQldtRENCdGg3RE5NOA?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBhYm5WOWMwbjRuX1p1MXBIeG9uSXJTenhMUXRJRjU3MVQ0X2xOVS0xVnR5UHl4ZGl3eVg1MmJqbjRma0NzSlJlR0RuU1NSaUhVcEZMdk1iMklqalIxSzJYVGJUaFZEMXZyRzRjQ2p4ejdxY041NVVpMXhiYXk1SnlLb1NacVI4OXZ0RlYzUy1peXFaNWxOcEl1MFRiSFZSc0FTcTRXZTl3Vnh2bzJPTG92R0Q5c1VJVlVWZGl3RDFOdFBIMWlrUkVrV1Z1SzlYQldtRENCdGg3RE5NOA?oc=5)
+
+---
+
+### [What a new study reveals about reversing type 2 diabetes](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlg0dllnRGNQTHppV1JiSmZWZl9pQU1EYW9lakoydElQUkctVXpDUE5UR1EwZUNYS2h3X0FaaDRDWUhtcmtldzNqMWhzUTJ1LVBZYXpnUkZLUy01NVVGV0YtX0VUMG9qc1BNX0R4NDdnaV9PQU51cHMzd0dad3pFdHdrdGhSVnZDTDJzcXU5Y1BsUU9C?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span>
+
+Source: [CNN](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlg0dllnRGNQTHppV1JiSmZWZl9pQU1EYW9lakoydElQUkctVXpDUE5UR1EwZUNYS2h3X0FaaDRDWUhtcmtldzNqMWhzUTJ1LVBZYXpnUkZLUy01NVVGV0YtX0VUMG9qc1BNX0R4NDdnaV9PQU51cHMzd0dad3pFdHdrdGhSVnZDTDJzcXU5Y1BsUU9C?oc=5)
+
+---
+
+### [Gürtelrose trifft nicht nur Ältere: Warum chronische Erkrankungen das Risiko erhöhen](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoeEtnWG5aUFJITUdic214QWJNV2ZmOWV0NkpXWU1ld1B3VEdTR05KVVI2bnB5N3lXV3I3OHBXd3pfNlBWNUZHbXZ6WlU4ZzdPOTVDVkhrbl8?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span>
+
+Source: [Presseportal](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoeEtnWG5aUFJITUdic214QWJNV2ZmOWV0NkpXWU1ld1B3VEdTR05KVVI2bnB5N3lXV3I3OHBXd3pfNlBWNUZHbXZ6WlU4ZzdPOTVDVkhrbl8?oc=5)
+
+---
 
 ### [Sunderland project using AI to help eye tests detect diabetes](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxTEJMei1UZDZ6UUtsOGZZQXo1N0YybFIyRXVkS0x3djhxblAycmItVERGN1BVRlVZNHUtbnlOVTktWFl0NTZZY0dLN2ZIR1BIOHFpRV9JTy1ZMWU2ZEE?oc=5)
 
@@ -55,11 +87,11 @@ Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMimgFBVV9
 
 ---
 
-### [Diabetes: Neues Implantat wirkt schon nach einer Stunde – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBhYm5WOWMwbjRuX1p1MXBIeG9uSXJTenhMUXRJRjU3MVQ0X2xOVS0xVnR5UHl4ZGl3eVg1MmJqbjRma0NzSlJlR0RuU1NSaUhVcEZMdk1iMklqalIxSzJYVGJUaFZEMXZyRzRjQ2p4ejdxY041NVVpMXhiYXk1SnlLb1NacVI4OXZ0RlYzUy1peXFaNWxOcEl1MFRiSFZSc0FTcTRXZTl3Vnh2bzJPTG92R0Q5c1VJVlVWZGl3RDFOdFBIMWlrUkVrV1Z1SzlYQldtRENCdGg3RE5NOA?oc=5)
+### [Ménopause et prise de poids : les règles nutritionnelles à suivre pour prévenir le diabète et l’hypertension - Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNbGE5RDZVVkp5WllxdndYaXlHeGU3cVl6dFFkUGw1RFNUN0hRcEI1QjQ4eVVucTlkQldTU1hZZzEzNXBMTXFtVFRmNlJCanR1dTNna1VDQWswdFNLSmhlZnAwZkdfZzQ4ejV3SFRTV3F0c3g0cVI0V05hbzRLbV8tZkJCV3I1VVhGTUJSczBJcVh5aUI2NzNTeU1EbmZfRXlKaWN5SGhpa2ZsSXpHaFdyUFNYUXhMZWFiLXN5bzhlLTFNUTRSdm4xY25XSFRxaENyRDQzNnFKWVlFRm9pSS01Zk5yYXhtUTN5SmFKTXQyM3d3SklwU081Nk9RRXdaNW9I?oc=5)
 
-2026-11-06 <span class="news-indication-tag">diabetes</span>
+2026-11-06 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBhYm5WOWMwbjRuX1p1MXBIeG9uSXJTenhMUXRJRjU3MVQ0X2xOVS0xVnR5UHl4ZGl3eVg1MmJqbjRma0NzSlJlR0RuU1NSaUhVcEZMdk1iMklqalIxSzJYVGJUaFZEMXZyRzRjQ2p4ejdxY041NVVpMXhiYXk1SnlLb1NacVI4OXZ0RlYzUy1peXFaNWxOcEl1MFRiSFZSc0FTcTRXZTl3Vnh2bzJPTG92R0Q5c1VJVlVWZGl3RDFOdFBIMWlrUkVrV1Z1SzlYQldtRENCdGg3RE5NOA?oc=5)
+Source: [Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNbGE5RDZVVkp5WllxdndYaXlHeGU3cVl6dFFkUGw1RFNUN0hRcEI1QjQ4eVVucTlkQldTU1hZZzEzNXBMTXFtVFRmNlJCanR1dTNna1VDQWswdFNLSmhlZnAwZkdfZzQ4ejV3SFRTV3F0c3g0cVI0V05hbzRLbV8tZkJCV3I1VVhGTUJSczBJcVh5aUI2NzNTeU1EbmZfRXlKaWN5SGhpa2ZsSXpHaFdyUFNYUXhMZWFiLXN5bzhlLTFNUTRSdm4xY25XSFRxaENyRDQzNnFKWVlFRm9pSS01Zk5yYXhtUTN5SmFKTXQyM3d3SklwU081Nk9RRXdaNW9I?oc=5)
 
 ---
 
@@ -68,14 +100,6 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBh
 2026-11-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUHN5cm51NUZmcEU4dnlVd2xxRDJaOW9hc1lDdUMwdkh6cWNnTXllRlNOVmRYUUxRT1dJdjB0NkszM05ibmVuQnZKWlZxYnpVS055eGFtQjJVZE5EdlRvTkUtLWFmTkJGS2VkcGNFbmp2Njc2M2pZc1ZHTW1zRGJmdWQzU2xBck05ekZqZk9sQjl3R1ZoazAwZ0hOLVNzZ3lHR3pNNkJR?oc=5)
-
----
-
-### [Más del 60% de pacientes con enfermedad renal crónica tiene obesidad pero el IMC solo la detecta en el 40%](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
-
-2026-11-05 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
 
 ---
 
@@ -364,14 +388,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLT
 2026-10-31 <span class="news-indication-tag">diabetes</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQUhKZUEzTTBmU0V2dUFOZG13bXFLZGpnb215U0VUZ0ZhbF9ORWxadGhFQ19XcGV0WUVsRXVpUHRZM0RpSThzMmgxQ3lhZkhqbDZLdV80WGV0eFIxRGpyckRpNFBzNUVkeXJmVWhGXzJOdm5kRlRNNGxQWG5sRHF1VnZtMHpyaXExVjJ2aFl4bC0xYi1vNjdkWGJ3Q3BfUDNiUUNNU3RtU1MySUhmYnBvY3ZHZFNnTkdoU2tUNjJMaFh2cTFQS3EwZHd6aEMydnAybGZxWVg2V2x4b3VOMkFXLTZDWlTSAewBQVVfeXFMTVRZdFZvZlJ5RDFUMVJIeE1nQWNMQ0YxZ005R29mam5scXgta3NEcm44MWdwZUFSemo1eVNPam91OVI1eXZEY2x6UElseTNJOWhidWFIaHFKRkhzVDIwRFpianllTFRJbV9VNHJkbnlJZWQ1cnlULTQxUTZqX2ptbmNENFAwOHFTLVI1Z2dyeXg0amRGNkRBZ0FnazRBYmcwVWFKUE50RlpkQk1yRndqc1ZvQ3ZmSHZMSUxZdVVfcjI2dmZMcXBvSXBVSEowY0lKcjF3NVZpTTVyeGRoczN1Z20yN0ttNzBETW1SZGU?oc=5)
-
----
-
-### [Über die glykämische Kontrolle hinaus: kardiovaskuläre Endpunkte im Fokus – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGlkTGJCQU9zSWMwNGJ3YVI2MDl6OERBb0dpU19XOHNLaDdUcjVOQWlCU3kxcXdLWVd2ZDZIczZ2czluMXhhMVBpV3FuRTItVGdpd2daZnlwMGdKb01rLWFBenVSNHZ1a0pXanhDTlN2cXpjNENIZkZzYzJDWHpBc00tSTBEeDlhYnRhM2hFMnhhdTd2Vmp1YkRoQ2txVHNxTl9mTW42U1F2M0F5MzZFemdrWXlWOUFONC1ZandQRUJrV3JmM1BVNVBjLTRFY0hnLVBIaEhiY2I?oc=5)
-
-2026-10-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGlkTGJCQU9zSWMwNGJ3YVI2MDl6OERBb0dpU19XOHNLaDdUcjVOQWlCU3kxcXdLWVd2ZDZIczZ2czluMXhhMVBpV3FuRTItVGdpd2daZnlwMGdKb01rLWFBenVSNHZ1a0pXanhDTlN2cXpjNENIZkZzYzJDWHpBc00tSTBEeDlhYnRhM2hFMnhhdTd2Vmp1YkRoQ2txVHNxTl9mTW42U1F2M0F5MzZFemdrWXlWOUFONC1ZandQRUJrV3JmM1BVNVBjLTRFY0hnLVBIaEhiY2I?oc=5)
 
 ---
 
