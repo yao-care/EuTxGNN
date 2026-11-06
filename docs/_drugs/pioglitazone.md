@@ -141,7 +141,7 @@ The prediction for opsismodysplasia is supported only by a score from the TxGNN 
 - Mechanism of action data to assess whether PPAR-gamma activity could plausibly affect INPPL1/PI3K-related bone biology
 - Preclinical or case-level evidence in opsismodysplasia (cell or animal models)
 - Label-level warnings and contraindications from the SmPC, which are required before any safety screening
-- Clarification of current regulatory and supply status, given that the drug is marketed with 3 valid licences of 3
+- Clarification of current regulatory and supply status, given that the drug is marketed
 - Re-evaluation of the lower-ranked predictions only if direct evidence emerges, since none currently have supporting trials
 ## Disclaimer
 

@@ -113,7 +113,7 @@ The prediction is biologically plausible, but it concerns a veterinary disease a
 - Detailed mechanism of action data (MOA).
 - Label warnings and contraindications from the SmPC, which are currently missing.
 - For human use, attention to the other predicted HIV-related indications. Congenital HIV and AIDS-related complex are already supported by Phase 3 trials, but they fall within the existing HIV use and are not novel repurposing findings.
-- Verification of product availability: the drug is marketed, with 2 valid licences out of 2.
+- Verification of product availability: the drug is marketed.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

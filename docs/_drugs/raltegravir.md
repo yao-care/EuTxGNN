@@ -104,7 +104,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The only support for the simian immunodeficiency virus infection prediction is preclinical macaque and in vitro work, with no clinical trials. SIV is an animal-model extension of the existing HIV indication, not a human therapeutic need. The drug is marketed in this country, with 1 valid licence out of 1.
+The only support for the simian immunodeficiency virus infection prediction is preclinical macaque and in vitro work, with no clinical trials. SIV is an animal-model extension of the existing HIV indication, not a human therapeutic need. The drug is marketed in this country.
 
 **To proceed, the following is needed:**
 - A defined purpose for the prediction (for example, use as a nonhuman primate research tool versus a human indication)

@@ -115,14 +115,14 @@ For warnings and contraindications from the product label, please refer to the S
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a computational score alone. There are no trials or publications, and the proposed mechanism is implausible given that NSIAD is driven by a V2 receptor defect. The drug is marketed in this country, with 3 valid licences of 3.
+The prediction rests on a computational score alone. There are no trials or publications, and the proposed mechanism is implausible given that NSIAD is driven by a V2 receptor defect. The drug is marketed in this country.
 
 Among the other top-10 predictions, only **bronchial disease** (rank 7) has substantive supporting evidence, mainly published asthma Phase 3 data on indacaterol-containing combinations. That is largely an extension of the approved COPD use rather than a novel repurposing. If pursued, it would need to be as a fixed-dose combination with an inhaled corticosteroid, because LABA monotherapy is contraindicated in asthma.
 
 **To proceed, the following is needed:**
 - Mechanistic or preclinical evidence linking beta2-agonism to NSIAD pathophysiology
 - Mechanism of action data and warnings/contraindications from the SmPC
-- Verification of current regulatory and availability status, given that the drug is marketed in this country with 3 valid licences of 3
+- Verification of current regulatory and availability status, given that the drug is marketed in this country
 - A cardiovascular, metabolic and electrolyte (potassium) safety assessment for the target population
 ## Disclaimer
 

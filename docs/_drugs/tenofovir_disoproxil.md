@@ -123,7 +123,7 @@ The prediction rests on a single veterinary combination-therapy study with no re
 - Confirmation of whether a veterinary development path is in scope, since otherwise this prediction should be deprioritized
 - Detailed mechanism of action data (MOA)
 - Safety information from the SmPC (warnings, contraindications, drug interactions)
-- Verification of current regional approvals and available formulations, given that the drug is marketed here with 3 valid licences out of 3
+- Verification of current regional approvals and available formulations, given that the drug is marketed here
 - Review of the other predictions in the data, such as hepatitis B virus infection. That one has Phase 3 RCT support, but it is already a labeled indication and so confirms an existing use rather than a new one.
 ## Disclaimer
 

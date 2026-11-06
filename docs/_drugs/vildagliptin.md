@@ -104,7 +104,7 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no trials, no literature and no plausible mechanism. Vildagliptin is marketed here, with 3 valid licences out of 3. Evidence is at the lowest level (L5), so there is no basis to advance this indication.
+The prediction rests only on a model score, with no trials, no literature and no plausible mechanism. Vildagliptin is marketed here. Evidence is at the lowest level (L5), so there is no basis to advance this indication.
 
 **To proceed, the following is needed:**
 - A plausible mechanistic hypothesis linking DPP-4 inhibition to GABAergic or autoimmune pathways in stiff person syndrome

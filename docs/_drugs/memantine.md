@@ -113,7 +113,7 @@ Please refer to the SmPC for the full safety information, including warnings and
 **Decision: Hold**
 
 **Rationale:**
-The pulmonary hypertension prediction rests on a very high model score alone. No trials exist, and the two retrieved papers do not show that memantine itself works in this disease; one concerns a different compound. The evidence level is L5. In addition, the drug is marketed, with 8 valid licences out of 8.
+The pulmonary hypertension prediction rests on a very high model score alone. No trials exist, and the two retrieved papers do not show that memantine itself works in this disease; one concerns a different compound. The evidence level is L5. In addition, the drug is marketed.
 
 **To proceed, the following is needed:**
 - Preclinical studies of memantine itself in pulmonary hypertension models, and review of the MN-08 programme to judge whether it is relevant to memantine

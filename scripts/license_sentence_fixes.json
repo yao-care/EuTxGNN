@@ -40,6 +40,11 @@
    "sentence": "The drug is marketed in this country, with all 8 of 8 licences valid.",
    "cut": ", with all 8 of 8 licences valid",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可 12 張，有效 8 張、撤銷／失效 4 張；句子的總數／張數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "Regulatory status: marketed, with 8 valid licences out of 8",
+   "cut": ", with 8 valid licences out of 8",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可 12 張，有效 8 張、撤銷／失效 4 張；「N valid licences of N」的總數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
   }
  ],
  "amlodipine_as_amlodipine_besilate": [
@@ -522,6 +527,18 @@
    "cut": ", given the cancelled EU status"
   }
  ],
+ "indacaterol": [
+  {
+   "sentence": "The drug is marketed in this country, with 3 valid licences of 3.",
+   "cut": ", with 3 valid licences of 3",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可 10 張，有效 8 張、撤銷／失效 2 張；「N valid licences of N」的總數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "given that the drug is marketed in this country with 3 valid licences of 3",
+   "cut": " with 3 valid licences of 3",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可 10 張，有效 8 張、撤銷／失效 2 張；「N valid licences of N」的總數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
+  }
+ ],
  "insulin_glargine": [
   {
    "sentence": "The market status is also cancelled for all current EU licenses.",
@@ -629,6 +646,11 @@
    "sentence": "The remaining three authorisations (Axura, Ebixa, Marixino) carry the same indication and are also cancelled.",
    "cut": " and are also cancelled",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）句中列名的產品 EMA 狀態是 Authorised；只刪說它們已註銷的片段"
+  },
+  {
+   "sentence": "In addition, the drug is marketed, with 8 valid licences out of 8.",
+   "cut": ", with 8 valid licences out of 8",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可 9 張，有效 8 張、撤銷／失效 1 張；「N valid licences of N」的總數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
   }
  ],
  "mepolizumab": [
@@ -896,6 +918,11 @@
    "sentence": "Pioglitazone is marketed in this country, with 3 of 3 licences valid.",
    "cut": ", with 3 of 3 licences valid",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可 14 張，有效 6 張、撤銷／失效 8 張；句子的總數／張數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "given that the drug is marketed with 3 valid licences of 3",
+   "cut": " with 3 valid licences of 3",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可 14 張，有效 6 張、撤銷／失效 8 張；「N valid licences of N」的總數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
   }
  ],
  "pitolisant": [
@@ -987,6 +1014,11 @@
   {
    "sentence": "Clarification of the cancelled EU authorization status and of any current market availability",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；句子說本藥（唯一）的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "The drug is marketed in this country, with 1 valid licence out of 1.",
+   "cut": ", with 1 valid licence out of 1",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可 2 張，有效 1 張、撤銷／失效 1 張；「N valid licences of N」的總數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
   }
  ],
  "ranibizumab": [
@@ -1269,6 +1301,13 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
   }
  ],
+ "tenofovir_disoproxil": [
+  {
+   "sentence": "given that the drug is marketed here with 3 valid licences out of 3",
+   "cut": " with 3 valid licences out of 3",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可 15 張，有效 14 張、撤銷／失效 1 張；「N valid licences of N」的總數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
+  }
+ ],
  "teprotumumab": [
   {
    "sentence": "Clarification of the reason for the cancelled EU authorization",
@@ -1507,6 +1546,11 @@
   {
    "sentence": "All three authorizations are currently valid.",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可 7 張，有效 7 張、撤銷／失效 0 張；句子的總數／張數說法與事實不符（checker 總數說法規則）；句子只有張數說法（或主詞就是錯的張數），整句刪（2026-11-06 逐句核對）"
+  },
+  {
+   "sentence": "Vildagliptin is marketed here, with 3 valid licences out of 3.",
+   "cut": ", with 3 valid licences out of 3",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可 7 張，有效 7 張、撤銷／失效 0 張；「N valid licences of N」的總數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
   }
  ],
  "volanesorsen": [
@@ -1552,6 +1596,13 @@
    "cut": "The EU authorization has been cancelled, and ",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留",
    "capitalize": true
+  }
+ ],
+ "zidovudine": [
+  {
+   "sentence": "the drug is marketed, with 2 valid licences out of 2.",
+   "cut": ", with 2 valid licences out of 2",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可 3 張，有效 2 張、撤銷／失效 1 張；「N valid licences of N」的總數說法與事實不符（checker 總數說法規則）；只刪張數子句，其餘保留（2026-11-06 逐句核對）"
   }
  ],
  "zonisamide": [

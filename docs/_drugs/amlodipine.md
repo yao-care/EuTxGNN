@@ -163,7 +163,7 @@ Please refer to the SmPC for official warnings and contraindications.
 **To proceed, the following is needed:**
 - Review of the full TRIDENT results (effect size, safety, and the contribution of each component)
 - Mechanism of action data and the SmPC warnings and contraindications, which are missing here
-- Regulatory status: marketed, with 8 valid licences out of 8
+- Regulatory status: marketed
 - A safety plan for patients with the flagged comorbidities (angioedema, hepatic or renal impairment, hypotension)
 - Further evidence for any other predicted indication before reconsideration
 ## Disclaimer
