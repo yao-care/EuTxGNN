@@ -3,7 +3,7 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 53 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 55 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-06
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>53 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>55 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (53)
+## Related News (55)
 
 ### [Desarrollan una estrategia con IA para prevenir el ictus en mujeres mayores](https://news.google.com/rss/articles/CBMizgFBVV95cUxQcXZFRUJTQkJqd25EcWE1ZFpULUcxWGw3ZWJKVWl1cVV6RHRCaXVlUHdOUHV0c2t4X2pfOXFLZ01zTnZzZmpVajd1ZjMwSndCb2FzMk5VMzBrbDBKYWpJRm80TDFxdXpPRjRKLVFiaWEzQjYzTDAyaGNjZW5heDhjY29DVjVia0xxWkFleUh0UEtwSGJKS3ZXYzVLMWc1cTQ3dU9XOVYzZ0NiYXlYQWpjWWpaYkRXclFfNGdhLXRGckFTQi1vd0Z3VmpxZnRhQQ?oc=5)
 
@@ -69,6 +69,14 @@ Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMiiAFBVV9
 
 ---
 
+### [650 habitants du Tarn-et-Garonne ont été victimes d'un accident vasculaire cérébral en 2025 : comment le repérer et que faire en cas d'urgence](https://news.google.com/rss/articles/CBMilgJBVV95cUxOSkdNM0hVMndGVVgxX0hON1NrRTJ1Q0pyaE9RRTQ3dUtuLXZIY2Exd205SGdOd0Z1bUNvLTRRNEVDMnFmTXlSdDFKWmdEUTB5TVBXSy1sT2RydUxIZUJNd0h1c1A1Q05KSDVpWWFwTUlFcDFVNENPQmtIVW9ndHd2Z1RrdnpNMW5vMXVRRzhfNFhQMXYzWTBXbTVDNEVkaWtIV01WNkhyTUoxOW9MMG1CZUVVeVBKbkZ6V3B4aTRWNnY0MGhPQlVNaV9lMmFNX1hucHNScmVFSC1xd1JnWkM5N0JrZUdfdlZuUTlpdWVOVlRDV1BnTWNuTkpIRm5FcmRIVFcyOFdWcXBKSmNTOFBSempRUnJxUQ?oc=5)
+
+2026-11-05
+
+Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMilgJBVV95cUxOSkdNM0hVMndGVVgxX0hON1NrRTJ1Q0pyaE9RRTQ3dUtuLXZIY2Exd205SGdOd0Z1bUNvLTRRNEVDMnFmTXlSdDFKWmdEUTB5TVBXSy1sT2RydUxIZUJNd0h1c1A1Q05KSDVpWWFwTUlFcDFVNENPQmtIVW9ndHd2Z1RrdnpNMW5vMXVRRzhfNFhQMXYzWTBXbTVDNEVkaWtIV01WNkhyTUoxOW9MMG1CZUVVeVBKbkZ6V3B4aTRWNnY0MGhPQlVNaV9lMmFNX1hucHNScmVFSC1xd1JnWkM5N0JrZUdfdlZuUTlpdWVOVlRDV1BnTWNuTkpIRm5FcmRIVFcyOFdWcXBKSmNTOFBSempRUnJxUQ?oc=5)
+
+---
+
 ### ["Mi hígado dijo hasta aquí he llegado": así es la enfermedad silenciosa que puede acabar en cáncer y con necesidad de un trasplante - Andalucía Información](https://news.google.com/rss/articles/CBMimAJBVV95cUxPd1Z3UHAyT0dwQURzNUV5U0ZKbGltZFlvTVVMZjlIR2xTYU9Cb1pvSnMwRjFSaEY1dGdibDQxNmJDQ2ZJZWd1cDZoMjdTQUFWSFQ3b0JoalQtak5Hdjd0dWV5Y0VRUFpPSkhiVDhyS0sxRzZReUEydjJEUF9BVVMybnhZTUlETFhHNE1SWjJndXJTeDVVVzJic0lNUGl0d1FqZDY4blAteHRNb2tJR1ZXaFBOZUFXcEpxMUdURkEzZDMwMzR2cmh0UjVUbmRNc21MQnZKRjdqWHV6NVBwT2taVmY2NjRpSWp3SUxTcXNyNDNYS1Raa3R5bmJhOGF0eE40ZXV4YngyVm5xRkNTQlg5NjVPcWFDUm1I0gGeAkFVX3lxTE4tVERLVko0YWFNajNPeGVERThqRHp1RTFGd0lnRWY4UE9vbDZsa19MSFdZZ1M1RzU4ZnE1aTAwcWRfMm5fVU01YnNFYVFmdW9TQlV2NU95RHM3bmttZE5IbjUzeE9QZkJKdU1RYnVBQ25XeW9qREU0eDhzc0ctR2l0dWdhVFFjUGg5dUt0dEJoeDU5SEMzalhwT3JnYUhIdXlRSV8zZzlESWR1NE5lbWVyUXB6cVQtM2NQcDZfUXphbGpMTzBhUlVUcVF4UUVudVBJbVgyUTBQbHBYUGtpZ2RJdWJyTGN0VUM3UEp0VF9yYnQ2ZlQyaktya2NkcW5zUm10Y0lRcXpRNjViODlJUGJRTFVSQmJ2VWJBRElSaHc?oc=5)
 
 2026-11-05
@@ -82,6 +90,14 @@ Source: [Andalucía Información](https://news.google.com/rss/articles/CBMimAJBV
 2026-11-05
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhRFQ4cjhybFpmMklwUWJicm5VNlRYelpFcWVJd2VfcW5tejl2S0NIcTBPWUdvd3EzVGZTU3FiNExUd1hrSVRUeUZFV3U2TDFsSDJPM1NnSDFNZHVvR1E?oc=5)
+
+---
+
+### [Schlaganfall-Prävention: Zehn Risikofaktoren erklären rund 90 Prozent des Risikos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzF1Z192aVg0ckVBRUVZamVjaFhBckE1Z1JranVxN2FpWFNCVDQ1NkE2UGI4dko2Tlptc21oRGxtb3VJTVhmYl82MFRHOEJkRVptRjBYd01qaDJYX195WGVCM0ZRN19XWldYaWdXZ2UwRC1PMnF3N0dkaVYzSEFqYzdjM1ptV2VHUVdYRUFGSmdPaEM0SWJEdWxYcmRaSDlzUGFFMHdjZWgzYi1mLUhNczV2N0RMN3dEU05hYWthemZBWDJrN0pDcnVocw?oc=5)
+
+2026-11-05
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzF1Z192aVg0ckVBRUVZamVjaFhBckE1Z1JranVxN2FpWFNCVDQ1NkE2UGI4dko2Tlptc21oRGxtb3VJTVhmYl82MFRHOEJkRVptRjBYd01qaDJYX195WGVCM0ZRN19XWldYaWdXZ2UwRC1PMnF3N0dkaVYzSEFqYzdjM1ptV2VHUVdYRUFGSmdPaEM0SWJEdWxYcmRaSDlzUGFFMHdjZWgzYi1mLUhNczV2N0RMN3dEU05hYWthemZBWDJrN0pDcnVocw?oc=5)
 
 ---
 

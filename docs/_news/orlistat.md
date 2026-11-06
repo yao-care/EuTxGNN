@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>79 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>84 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,23 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (79)
+## Related News (84)
+
+### [Llega a España Wegovy oral, el primer tratamiento oral de la ‘familia del Ozempic’ contra la obesidad - Cadena Dial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHNqQURPOGxFX1ZEaDI0MHZScG1mNWJjb3hPemVWMHN1bGNUUXJTV3BTQTdaN1o5RGNrUkpBR2FNY2NFS2JCZk44SVc5c0h5SE5KZ3hPOHozUk5CY2FHU2I1RnhWRXUwYlNBaXdrVGwtdlRrcDc1dXFkQlAzRzlCSmlxS2wtdW9UUlFmcHJ4S00zM0J1UE1DY3kxcEEyMjlNRFF6cFVXVUJNZEZwYnBZWlFSazIzME1FODJ0d1RVOWtCc0hVUXdvbDFpY1hlTFA2akZyUUo3eTRUQdIB3wFBVV95cUxPdE9adzV2dXc2ckJEcmhfa0N1WnlmdEZkVjVVLW5CNXNETEFud1p2UDJTdkNMNDBQeFVFTkl5RUNzX2RMdVFPTmhYNUNIcVNjTkxCYkt5T3M5N1UwQUQtQmRFNlhJUUpueVhtVXFMT3k2Q29hSTdKTjltRzdCZUpCdmlTdUhkU3ZTRTQ2ZEV2ek9CbVdOTlR3RFBsTDJGMmdhaUtNTVZRN0FJbDhuN1VnMks5OHk3Y3lNbThrVW12M01jMW9iYkt2QVZrRDNwUzBPRUNuVmpHZjl1eVVEQ0M4?oc=5)
+
+2026-11-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Cadena Dial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHNqQURPOGxFX1ZEaDI0MHZScG1mNWJjb3hPemVWMHN1bGNUUXJTV3BTQTdaN1o5RGNrUkpBR2FNY2NFS2JCZk44SVc5c0h5SE5KZ3hPOHozUk5CY2FHU2I1RnhWRXUwYlNBaXdrVGwtdlRrcDc1dXFkQlAzRzlCSmlxS2wtdW9UUlFmcHJ4S00zM0J1UE1DY3kxcEEyMjlNRFF6cFVXVUJNZEZwYnBZWlFSazIzME1FODJ0d1RVOWtCc0hVUXdvbDFpY1hlTFA2akZyUUo3eTRUQdIB3wFBVV95cUxPdE9adzV2dXc2ckJEcmhfa0N1WnlmdEZkVjVVLW5CNXNETEFud1p2UDJTdkNMNDBQeFVFTkl5RUNzX2RMdVFPTmhYNUNIcVNjTkxCYkt5T3M5N1UwQUQtQmRFNlhJUUpueVhtVXFMT3k2Q29hSTdKTjltRzdCZUpCdmlTdUhkU3ZTRTQ2ZEV2ek9CbVdOTlR3RFBsTDJGMmdhaUtNTVZRN0FJbDhuN1VnMks5OHk3Y3lNbThrVW12M01jMW9iYkt2QVZrRDNwUzBPRUNuVmpHZjl1eVVEQ0M4?oc=5)
+
+---
+
+### [GLP-1 senken Risiko für Typ-2-Diabetes bei Prädiabetes und Adipositas - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUHN5cm51NUZmcEU4dnlVd2xxRDJaOW9hc1lDdUMwdkh6cWNnTXllRlNOVmRYUUxRT1dJdjB0NkszM05ibmVuQnZKWlZxYnpVS055eGFtQjJVZE5EdlRvTkUtLWFmTkJGS2VkcGNFbmp2Njc2M2pZc1ZHTW1zRGJmdWQzU2xBck05ekZqZk9sQjl3R1ZoazAwZ0hOLVNzZ3lHR3pNNkJR?oc=5)
+
+2026-11-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUHN5cm51NUZmcEU4dnlVd2xxRDJaOW9hc1lDdUMwdkh6cWNnTXllRlNOVmRYUUxRT1dJdjB0NkszM05ibmVuQnZKWlZxYnpVS055eGFtQjJVZE5EdlRvTkUtLWFmTkJGS2VkcGNFbmp2Njc2M2pZc1ZHTW1zRGJmdWQzU2xBck05ekZqZk9sQjl3R1ZoazAwZ0hOLVNzZ3lHR3pNNkJR?oc=5)
+
+---
 
 ### [Desarrollan una estrategia con IA para prevenir el ictus en mujeres mayores](https://news.google.com/rss/articles/CBMizgFBVV95cUxQcXZFRUJTQkJqd25EcWE1ZFpULUcxWGw3ZWJKVWl1cVV6RHRCaXVlUHdOUHV0c2t4X2pfOXFLZ01zTnZzZmpVajd1ZjMwSndCb2FzMk5VMzBrbDBKYWpJRm80TDFxdXpPRjRKLVFiaWEzQjYzTDAyaGNjZW5heDhjY29DVjVia0xxWkFleUh0UEtwSGJKS3ZXYzVLMWc1cTQ3dU9XOVYzZ0NiYXlYQWpjWWpaYkRXclFfNGdhLXRGckFTQi1vd0Z3VmpxZnRhQQ?oc=5)
 
@@ -53,7 +69,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm
 
 ### [Más del 60% de pacientes con enfermedad renal crónica tiene obesidad pero el IMC solo la detecta en el 40%](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
 
-2026-11-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+2026-11-05 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
 
@@ -91,11 +107,27 @@ Source: [Diario Enfermero](https://news.google.com/rss/articles/CBMieEFVX3lxTFBv
 
 ---
 
+### [Obesità, associazioni pazienti: "Servono fondi dedicati per garantire le cure" - Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdVh6Y3p4TmRHNFVJd2xmMzRLRjhVT052OS1WazRsSzc1Q1c5X2drUWJCdWdNNXhkek5zWlc1bDJScFNBazFidUpXa2ZKdGJzdVFIdXZmRjBaU2oyb0UyaG5Fa2RjbTY1Z3dEbjB4cHFoejFtOUdDcHJUaVNsRmhoZG9FVS1faVdZYi14cnNSWl9jazFOQzZxTGwxekxrS0NMZFBHeUdmLXp2WlQ2SzU4NWZBVGlrWVdxUTZ4cGJFY0YydlFuUU9aSlQzNERmSUpXeEpqN3NCbFR5UTBzSEVv?oc=5)
+
+2026-11-05 <span class="news-indication-tag">obesità</span>
+
+Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdVh6Y3p4TmRHNFVJd2xmMzRLRjhVT052OS1WazRsSzc1Q1c5X2drUWJCdWdNNXhkek5zWlc1bDJScFNBazFidUpXa2ZKdGJzdVFIdXZmRjBaU2oyb0UyaG5Fa2RjbTY1Z3dEbjB4cHFoejFtOUdDcHJUaVNsRmhoZG9FVS1faVdZYi14cnNSWl9jazFOQzZxTGwxekxrS0NMZFBHeUdmLXp2WlQ2SzU4NWZBVGlrWVdxUTZ4cGJFY0YydlFuUU9aSlQzNERmSUpXeEpqN3NCbFR5UTBzSEVv?oc=5)
+
+---
+
 ### [Neuroimmunologie: Schlaganfall verändert das Immunsystem langfristig](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWdpQzFkVnNnVDhFRmpocmNOdWRyNzFQWFUxYTNwb2RfOC12X2l4UGFYSERqN3FXdGJLTXU4a1pqU3JUNGo1ZEhjWEVLT1BwWU9NMGZ6dnd5UllSeVNHdTV5Q0gtTDVHbENVX3VvNXc1VGZVVFVMLWNwWTRmV2NqaGVZOEttOG8y?oc=5)
 
 2026-11-05 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWdpQzFkVnNnVDhFRmpocmNOdWRyNzFQWFUxYTNwb2RfOC12X2l4UGFYSERqN3FXdGJLTXU4a1pqU3JUNGo1ZEhjWEVLT1BwWU9NMGZ6dnd5UllSeVNHdTV5Q0gtTDVHbENVX3VvNXc1VGZVVFVMLWNwWTRmV2NqaGVZOEttOG8y?oc=5)
+
+---
+
+### [650 habitants du Tarn-et-Garonne ont été victimes d'un accident vasculaire cérébral en 2025 : comment le repérer et que faire en cas d'urgence](https://news.google.com/rss/articles/CBMilgJBVV95cUxOSkdNM0hVMndGVVgxX0hON1NrRTJ1Q0pyaE9RRTQ3dUtuLXZIY2Exd205SGdOd0Z1bUNvLTRRNEVDMnFmTXlSdDFKWmdEUTB5TVBXSy1sT2RydUxIZUJNd0h1c1A1Q05KSDVpWWFwTUlFcDFVNENPQmtIVW9ndHd2Z1RrdnpNMW5vMXVRRzhfNFhQMXYzWTBXbTVDNEVkaWtIV01WNkhyTUoxOW9MMG1CZUVVeVBKbkZ6V3B4aTRWNnY0MGhPQlVNaV9lMmFNX1hucHNScmVFSC1xd1JnWkM5N0JrZUdfdlZuUTlpdWVOVlRDV1BnTWNuTkpIRm5FcmRIVFcyOFdWcXBKSmNTOFBSempRUnJxUQ?oc=5)
+
+2026-11-05 <span class="news-indication-tag">accident vasculaire cérébral</span>
+
+Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMilgJBVV95cUxOSkdNM0hVMndGVVgxX0hON1NrRTJ1Q0pyaE9RRTQ3dUtuLXZIY2Exd205SGdOd0Z1bUNvLTRRNEVDMnFmTXlSdDFKWmdEUTB5TVBXSy1sT2RydUxIZUJNd0h1c1A1Q05KSDVpWWFwTUlFcDFVNENPQmtIVW9ndHd2Z1RrdnpNMW5vMXVRRzhfNFhQMXYzWTBXbTVDNEVkaWtIV01WNkhyTUoxOW9MMG1CZUVVeVBKbkZ6V3B4aTRWNnY0MGhPQlVNaV9lMmFNX1hucHNScmVFSC1xd1JnWkM5N0JrZUdfdlZuUTlpdWVOVlRDV1BnTWNuTkpIRm5FcmRIVFcyOFdWcXBKSmNTOFBSempRUnJxUQ?oc=5)
 
 ---
 
@@ -120,6 +152,14 @@ Source: [elDiario.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmZuX
 2026-11-05 <span class="news-indication-tag">stroke</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhRFQ4cjhybFpmMklwUWJicm5VNlRYelpFcWVJd2VfcW5tejl2S0NIcTBPWUdvd3EzVGZTU3FiNExUd1hrSVRUeUZFV3U2TDFsSDJPM1NnSDFNZHVvR1E?oc=5)
+
+---
+
+### [Schlaganfall-Prävention: Zehn Risikofaktoren erklären rund 90 Prozent des Risikos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzF1Z192aVg0ckVBRUVZamVjaFhBckE1Z1JranVxN2FpWFNCVDQ1NkE2UGI4dko2Tlptc21oRGxtb3VJTVhmYl82MFRHOEJkRVptRjBYd01qaDJYX195WGVCM0ZRN19XWldYaWdXZ2UwRC1PMnF3N0dkaVYzSEFqYzdjM1ptV2VHUVdYRUFGSmdPaEM0SWJEdWxYcmRaSDlzUGFFMHdjZWgzYi1mLUhNczV2N0RMN3dEU05hYWthemZBWDJrN0pDcnVocw?oc=5)
+
+2026-11-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzF1Z192aVg0ckVBRUVZamVjaFhBckE1Z1JranVxN2FpWFNCVDQ1NkE2UGI4dko2Tlptc21oRGxtb3VJTVhmYl82MFRHOEJkRVptRjBYd01qaDJYX195WGVCM0ZRN19XWldYaWdXZ2UwRC1PMnF3N0dkaVYzSEFqYzdjM1ptV2VHUVdYRUFGSmdPaEM0SWJEdWxYcmRaSDlzUGFFMHdjZWgzYi1mLUhNczV2N0RMN3dEU05hYWthemZBWDJrN0pDcnVocw?oc=5)
 
 ---
 

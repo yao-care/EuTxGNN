@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Rotigotine. 10 predicted indications."
 permalink: /news/rotigotine/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Rotigotine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Rotigotine?">
-<strong>Rotigotine</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
+<strong>Rotigotine</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Rotigotine with the latest h
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Los probióticos, aliados para la esclerosis múltiple: reducen la fatiga, dolor e inflamación](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdFlxZjFJbW9KTG4xcGM1UThFUG5qcjMyWGNxTmNJNEJmdkEwWXAxMmQzcG5WNmlJNUxpSlRoOGxsZHJXWGEyTFo5YzRfeHZ0MURBX2FqeXhCaEp2NW96YTU1U1drVXNfSkphNmRDQnZ4NDhLVWtlTjFIVjBvUTdVN3ctX0lUQm50SUtfQlJ6NC04dDdMT2ZLXzF3OFdDVkVBeVJWTTEyZU13TmZ5OVQyeDh1SlBiUnhuLUpDUE5yQ0w0Y3BYUjlxalk1WEhLMXNGRzNHV2wtWGh3a1ltbHZB?oc=5)
+
+2026-11-06 <span class="news-indication-tag">esclerosis múltiple</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdFlxZjFJbW9KTG4xcGM1UThFUG5qcjMyWGNxTmNJNEJmdkEwWXAxMmQzcG5WNmlJNUxpSlRoOGxsZHJXWGEyTFo5YzRfeHZ0MURBX2FqeXhCaEp2NW96YTU1U1drVXNfSkphNmRDQnZ4NDhLVWtlTjFIVjBvUTdVN3ctX0lUQm50SUtfQlJ6NC04dDdMT2ZLXzF3OFdDVkVBeVJWTTEyZU13TmZ5OVQyeDh1SlBiUnhuLUpDUE5yQ0w0Y3BYUjlxalk1WEhLMXNGRzNHV2wtWGh3a1ltbHZB?oc=5)
+
+---
 
 ### [Los probióticos pueden ayudar a reducir la fatiga y el dolor en personas con esclerosis múltiple - Malaga Actualidad](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNekFnN3V5MFAxX3R3N2dmU3JmT3RKazhtRV80NGFzbWxwX0hkVmxCTGpQS1Byc1FXWWtSNXY4UFFlZjNacWd0b1VEWF9PcU04RHNMd1pmY1hVM0pxMnphODZ3ZlJlTGdqX1V0eVFfVHYyUnJtal9qaVBrZ2JKdTlFSGs5Ni1wLVN5VEQzUFQyNVh2azd5cGhVZHdiS3pyTkt6Ql9vSVdsZy12RXlXY3R3N1B0MENZZkRiNXlpUm5tTXdOV3dUcHBjaW5KQWJ5ckRPU1p3?oc=5)
 

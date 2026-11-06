@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Granisetron. 10 predicted indications."
 permalink: /news/granisetron/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Granisetron News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Granisetron?">
-<strong>Granisetron</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
+<strong>Granisetron</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Granisetron with the latest 
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Sleep Apnea Linked to Heart Risks in Atrial Fibrillation](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmRjZ1g3MnFWbVlFTzdSUVJkbFBxdG4wWGh5NTJ2djRGOXpHSWlITm1WaEI0SHREVE1ZWDdUclM3ZDZSaWFBOXFJYjFBVTRCdnc3ZmdMWGJKdlc5WjlCSHRLQ21ZRlZoY2VrTjRCRjd1WUdGNHNvblB3bEgxMmZRdFd2eU5iTkw1ZVBrX0ZjOWZULVVxbkZGWnluTXVUdWdIMFJBcQ?oc=5)
+
+2026-11-05 <span class="news-indication-tag">atrial fibrillation</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmRjZ1g3MnFWbVlFTzdSUVJkbFBxdG4wWGh5NTJ2djRGOXpHSWlITm1WaEI0SHREVE1ZWDdUclM3ZDZSaWFBOXFJYjFBVTRCdnc3ZmdMWGJKdlc5WjlCSHRLQ21ZRlZoY2VrTjRCRjd1WUdGNHNvblB3bEgxMmZRdFd2eU5iTkw1ZVBrX0ZjOWZULVVxbkZGWnluTXVUdWdIMFJBcQ?oc=5)
+
+---
 
 ### [COPD: Spaziergänge können auch bei hoher Luftbelastung Exazerbationen vermeiden – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRG1iRkV6YWxJSGhRanYwMlpaRGN6emtjU3JmXzhVRlhUcFFDUzhOTjhmQzJFbVFzX05xOC1remFXemtqNlBpWk9NTzE3bVkzR294ZnVIUmdCbHBtRU03TWJ3S2ZqY2dYRzlNTHB6ZkpNT3ZGUEtYdUNDZVpHaS1vM2hFanpTR1N4REdtWjd6Z1RIVkpFSHhTS3A0SGNDZlp0VmFoUGw5b1NJczFhc3hNczVVaF9XNF84eF8tQ01XT1prS01iVHN6V0lXOFVaLURvZW4xT0MtdFptTHdDd0tCZQ?oc=5)
 

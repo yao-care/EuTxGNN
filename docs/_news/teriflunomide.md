@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Teriflunomide. 0 predicted indications."
 permalink: /news/teriflunomide/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Teriflunomide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Teriflunomide?">
-<strong>Teriflunomide</strong> currently has <strong>7 news articles</strong>, with 0 predicted indications.
+<strong>Teriflunomide</strong> currently has <strong>8 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,20 @@ This page combines the AI-predicted indications for Teriflunomide with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Evidence level</strong>: N/A</li>
 </ul>
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Los probióticos, aliados para la esclerosis múltiple: reducen la fatiga, dolor e inflamación](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdFlxZjFJbW9KTG4xcGM1UThFUG5qcjMyWGNxTmNJNEJmdkEwWXAxMmQzcG5WNmlJNUxpSlRoOGxsZHJXWGEyTFo5YzRfeHZ0MURBX2FqeXhCaEp2NW96YTU1U1drVXNfSkphNmRDQnZ4NDhLVWtlTjFIVjBvUTdVN3ctX0lUQm50SUtfQlJ6NC04dDdMT2ZLXzF3OFdDVkVBeVJWTTEyZU13TmZ5OVQyeDh1SlBiUnhuLUpDUE5yQ0w0Y3BYUjlxalk1WEhLMXNGRzNHV2wtWGh3a1ltbHZB?oc=5)
+
+2026-11-06 <span class="news-indication-tag">esclerosis múltiple</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdFlxZjFJbW9KTG4xcGM1UThFUG5qcjMyWGNxTmNJNEJmdkEwWXAxMmQzcG5WNmlJNUxpSlRoOGxsZHJXWGEyTFo5YzRfeHZ0MURBX2FqeXhCaEp2NW96YTU1U1drVXNfSkphNmRDQnZ4NDhLVWtlTjFIVjBvUTdVN3ctX0lUQm50SUtfQlJ6NC04dDdMT2ZLXzF3OFdDVkVBeVJWTTEyZU13TmZ5OVQyeDh1SlBiUnhuLUpDUE5yQ0w0Y3BYUjlxalk1WEhLMXNGRzNHV2wtWGh3a1ltbHZB?oc=5)
+
+---
 
 ### [Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies - Al Jazeera](https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1laRGZHY1N5OGs3Y1NVcDFzcFk1UVh5WlpSbllkaDZXSUE4TkQtY1lrM05PcVVhWjg4UlpWSjVJbGRwd0JHZnhaVkNPenpCX2lfUmFkTFVCY3B4NWdHdDFSTmJyeXhUZmduTzhRR21Ybmx0MllsODUzcjBlZHpZSnU4bGRGWFYtbDh5WDVIbVpqbHhVbW1LZlZpM2JPRDJpZ1FVT3IzTnp4YzVQVjRsb1pWOU4zelXSAbwBQVVfeXFMTnBNNVFHUFBrSGlHSjg1cjBYY09CTnJLa0tNRGpib3ZlTkM5ZEtia3dZbVFQcHJUa3J3dzZnU2k3cjdsR2puOVBXT3hnWHplcHN4OThuRm5JSUtWSE9maGxMckVFb1hrc3kxaXR3OTRoRnB6X2hlV3Z3aTRkdWVKbkZvTGRJMEhxWE5UX0FaSjI5cEdLc2tadkwzN29QeVJzQ2dnNGF3eGYwNVN3ZlFMaVItUUttWFRxTUdIYVE?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Infliximab. 0 predicted indications."
 permalink: /news/infliximab/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 ---
 
 # Infliximab News
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Infliximab with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: N/A</li>
 </ul>
 <p><a href="{{ '/drugs/infliximab/' | relative_url }}">View full drug report →</a></p>
 </div>

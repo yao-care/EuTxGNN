@@ -3,7 +3,7 @@ layout: default
 title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 50 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 55 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 last_modified_at: 2026-11-06
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>50 news articles</strong> and 86 related drugs.
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>55 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,13 +64,37 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (50)
+## Related News (55)
+
+### [Sunderland project using AI to help eye tests detect diabetes](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxTEJMei1UZDZ6UUtsOGZZQXo1N0YybFIyRXVkS0x3djhxblAycmItVERGN1BVRlVZNHUtbnlOVTktWFl0NTZZY0dLN2ZIR1BIOHFpRV9JTy1ZMWU2ZEE?oc=5)
+
+2026-11-06
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxTEJMei1UZDZ6UUtsOGZZQXo1N0YybFIyRXVkS0x3djhxblAycmItVERGN1BVRlVZNHUtbnlOVTktWFl0NTZZY0dLN2ZIR1BIOHFpRV9JTy1ZMWU2ZEE?oc=5)
+
+---
+
+### [Frauengesundheit: Menstruationszyklus beeinflusst Insulinbedarf bei Typ-1-Diabetes](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmZlR1VtdzdDdEc2VEFYU2RKZFVNRVE2S1E0Skxwd0tQLWZLdGw5NzUxdHE4RGdQRFl4NS1QU1pqTVZZVjF5WjF2LUc3cVoyS1U1ZkMxLV9vX0owRjFEVXpES2NKWHhDenA1TDNteG1rWEVGbW5vQ0V1NjZpSVowU1lfRVhkU0E1ODdaUmFZdVdfZk92TDFITzRB?oc=5)
+
+2026-11-06
+
+Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmZlR1VtdzdDdEc2VEFYU2RKZFVNRVE2S1E0Skxwd0tQLWZLdGw5NzUxdHE4RGdQRFl4NS1QU1pqTVZZVjF5WjF2LUc3cVoyS1U1ZkMxLV9vX0owRjFEVXpES2NKWHhDenA1TDNteG1rWEVGbW5vQ0V1NjZpSVowU1lfRVhkU0E1ODdaUmFZdVdfZk92TDFITzRB?oc=5)
+
+---
 
 ### [Diabetes: Neues Implantat wirkt schon nach einer Stunde – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBhYm5WOWMwbjRuX1p1MXBIeG9uSXJTenhMUXRJRjU3MVQ0X2xOVS0xVnR5UHl4ZGl3eVg1MmJqbjRma0NzSlJlR0RuU1NSaUhVcEZMdk1iMklqalIxSzJYVGJUaFZEMXZyRzRjQ2p4ejdxY041NVVpMXhiYXk1SnlLb1NacVI4OXZ0RlYzUy1peXFaNWxOcEl1MFRiSFZSc0FTcTRXZTl3Vnh2bzJPTG92R0Q5c1VJVlVWZGl3RDFOdFBIMWlrUkVrV1Z1SzlYQldtRENCdGg3RE5NOA?oc=5)
 
 2026-11-06
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBhYm5WOWMwbjRuX1p1MXBIeG9uSXJTenhMUXRJRjU3MVQ0X2xOVS0xVnR5UHl4ZGl3eVg1MmJqbjRma0NzSlJlR0RuU1NSaUhVcEZMdk1iMklqalIxSzJYVGJUaFZEMXZyRzRjQ2p4ejdxY041NVVpMXhiYXk1SnlLb1NacVI4OXZ0RlYzUy1peXFaNWxOcEl1MFRiSFZSc0FTcTRXZTl3Vnh2bzJPTG92R0Q5c1VJVlVWZGl3RDFOdFBIMWlrUkVrV1Z1SzlYQldtRENCdGg3RE5NOA?oc=5)
+
+---
+
+### [GLP-1 senken Risiko für Typ-2-Diabetes bei Prädiabetes und Adipositas - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUHN5cm51NUZmcEU4dnlVd2xxRDJaOW9hc1lDdUMwdkh6cWNnTXllRlNOVmRYUUxRT1dJdjB0NkszM05ibmVuQnZKWlZxYnpVS055eGFtQjJVZE5EdlRvTkUtLWFmTkJGS2VkcGNFbmp2Njc2M2pZc1ZHTW1zRGJmdWQzU2xBck05ekZqZk9sQjl3R1ZoazAwZ0hOLVNzZ3lHR3pNNkJR?oc=5)
+
+2026-11-05
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUHN5cm51NUZmcEU4dnlVd2xxRDJaOW9hc1lDdUMwdkh6cWNnTXllRlNOVmRYUUxRT1dJdjB0NkszM05ibmVuQnZKWlZxYnpVS055eGFtQjJVZE5EdlRvTkUtLWFmTkJGS2VkcGNFbmp2Njc2M2pZc1ZHTW1zRGJmdWQzU2xBck05ekZqZk9sQjl3R1ZoazAwZ0hOLVNzZ3lHR3pNNkJR?oc=5)
 
 ---
 
@@ -159,6 +183,14 @@ Source: [UKClimbing](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFZURU
 2026-11-04
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNU21mWFRDS3FPdEtvaWJNalNXel90ZWJxZnhTM29Ic2Y4UGxzeUxvY0Z1aTFIZnQ4eHpJdGlzQTExZjU4SVBoXzF4RzhadERmQTdZUmlPck9xRURyOU9Ra2JTc0c1VVN4bmxLN3FTZTZtanlzbU00NnhvZEFEQ1p4NW42MzZLaDdySUNZaWxaMGhKaGhwa01Lb3dtR0hRaV9CblFWak5tOVd0RmdjQ3RkSjFYd3F5cGs4Wko0LUlMZ3dfeW5OZnI0?oc=5)
+
+---
+
+### [Spendenaktion für Kinder mit Diabetes: diabetesDE startet #SüßesBewirken - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHJkZXRjTHVISGhoMFlGVS1rSkdfUVNUWHI3eHl6QVUzUnJtajRPdWtmckJIZzlPZDlEU1BRbmpMV1RnNHZVWDl5dlZqNERPSlZ1MDdza2lISHV6YjBJcEZwNlFtMG45YmVnRFJjeW9CZzBEOXVVYndZOU10bTBpdHgxN2lZZExTS0hmcFpQMmlqN01EckswbE1vb3BXYnpnak5kaTlyTUJhTDdBN2pHMjhKZzNwVGpMSU94eDc1ODA?oc=5)
+
+2026-11-03
+
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHJkZXRjTHVISGhoMFlGVS1rSkdfUVNUWHI3eHl6QVUzUnJtajRPdWtmckJIZzlPZDlEU1BRbmpMV1RnNHZVWDl5dlZqNERPSlZ1MDdza2lISHV6YjBJcEZwNlFtMG45YmVnRFJjeW9CZzBEOXVVYndZOU10bTBpdHgxN2lZZExTS0hmcFpQMmlqN01EckswbE1vb3BXYnpnak5kaTlyTUJhTDdBN2pHMjhKZzNwVGpMSU94eDc1ODA?oc=5)
 
 ---
 
@@ -383,6 +415,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcX
 2026-10-30
 
 Source: [EatingWell](https://news.google.com/rss/articles/CBMifkFVX3lxTFA3MzM0cjJPSnkwd0tXSnpGRGRXaHJLMUQ4b1JxZTl1R2h5Z29kbVp1Q2Q2MGl5RjdsTWNfRGdpUDVmZTZSX21yaVp5XzROQVpFMzJTNVBwbDVLMk9DRVE0RmtDaEZlbEtSLVNNaHJwRnVMLUZTczZLWEFSVGwtUQ?oc=5)
+
+---
+
+### [Studie RESET for Remission: 54% erreichen nach 6 Monaten Remission - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOMl9OazFZVzljSDdvM3Q4WFRpa1dHeFVUeHg4WjJrOVNMUk45TlhPTnloemM3YXNSUmlCSENYcjI1VlNXZlVHYTVIS3hLMjYyZ0JvTjFuVnB0RXV6VEVoMG5SVlJ3MVl0N1EzTWsyRWxKa0IzZkhWYnlTNGJlQV81Z3VtclQ4VnhjdlNKcU85YmwxbG5hWEE5eHBFR0k?oc=5)
+
+2026-10-30
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOMl9OazFZVzljSDdvM3Q4WFRpa1dHeFVUeHg4WjJrOVNMUk45TlhPTnloemM3YXNSUmlCSENYcjI1VlNXZlVHYTVIS3hLMjYyZ0JvTjFuVnB0RXV6VEVoMG5SVlJ3MVl0N1EzTWsyRWxKa0IzZkhWYnlTNGJlQV81Z3VtclQ4VnhjdlNKcU85YmwxbG5hWEE5eHBFR0k?oc=5)
 
 ---
 

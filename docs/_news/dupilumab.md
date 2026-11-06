@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Dupilumab. 9 predicted indications."
 permalink: /news/dupilumab/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Dupilumab News
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Dupilumab with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (9)</strong>:<ul>
 <li>bronchitis</li>
 <li>acne keloid</li>

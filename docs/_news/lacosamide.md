@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Lacosamide?">
-<strong>Lacosamide</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
+<strong>Lacosamide</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ This page combines the AI-predicted indications for Lacosamide with the latest h
 <p><a href="{{ '/drugs/lacosamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
 
 ### [Emicrania, un freno al dolore stimolando il nervo vago: che cosa dicono gli studi e quali cure sono disponibili](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYndHQV9jNnVrSmNjc2M1eVVUWE5FTkxvZlJ5a2JVM1dvbjNFTGJGamt5Z1BPVlVMUmtEeWRucDg0WGRQZVo3dGFUbkNBdG1hdXc1d1N4elhxcC1oR1hZV0QyRUE5eEtyLWQtV0t5bkQwR3pQODVpODNOcXZDbXhKd0lhM19DRXVYaW9wM2dzanpsSkhRWldLVkdtSHN2V0VVMVdacXJaVGFMN0QxbHNkOHNyQUVodFdTOWhydmd3T01QRDl1d1h0UENjb3pfMDFWbnZ3NGNmaG5hYXZ1djNCYnRYTWU0MlpMQUdYSlVEZElWQQ?oc=5)
 
 2026-11-05 <span class="news-indication-tag">emicrania</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYndHQV9jNnVrSmNjc2M1eVVUWE5FTkxvZlJ5a2JVM1dvbjNFTGJGamt5Z1BPVlVMUmtEeWRucDg0WGRQZVo3dGFUbkNBdG1hdXc1d1N4elhxcC1oR1hZV0QyRUE5eEtyLWQtV0t5bkQwR3pQODVpODNOcXZDbXhKd0lhM19DRXVYaW9wM2dzanpsSkhRWldLVkdtSHN2V0VVMVdacXJaVGFMN0QxbHNkOHNyQUVodFdTOWhydmd3T01QRDl1d1h0UENjb3pfMDFWbnZ3NGNmaG5hYXZ1djNCYnRYTWU0MlpMQUdYSlVEZElWQQ?oc=5)
+
+---
+
+### [Sleep Apnea Linked to Heart Risks in Atrial Fibrillation](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmRjZ1g3MnFWbVlFTzdSUVJkbFBxdG4wWGh5NTJ2djRGOXpHSWlITm1WaEI0SHREVE1ZWDdUclM3ZDZSaWFBOXFJYjFBVTRCdnc3ZmdMWGJKdlc5WjlCSHRLQ21ZRlZoY2VrTjRCRjd1WUdGNHNvblB3bEgxMmZRdFd2eU5iTkw1ZVBrX0ZjOWZULVVxbkZGWnluTXVUdWdIMFJBcQ?oc=5)
+
+2026-11-05 <span class="news-indication-tag">atrial fibrillation</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmRjZ1g3MnFWbVlFTzdSUVJkbFBxdG4wWGh5NTJ2djRGOXpHSWlITm1WaEI0SHREVE1ZWDdUclM3ZDZSaWFBOXFJYjFBVTRCdnc3ZmdMWGJKdlc5WjlCSHRLQ21ZRlZoY2VrTjRCRjd1WUdGNHNvblB3bEgxMmZRdFd2eU5iTkw1ZVBrX0ZjOWZULVVxbkZGWnluTXVUdWdIMFJBcQ?oc=5)
 
 ---
 

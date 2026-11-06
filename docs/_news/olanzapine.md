@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Olanzapine. 2 predicted indications."
 permalink: /news/olanzapine/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Olanzapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>17 news articles</strong>, with 2 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>18 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (18)
+
+### [Sleep Apnea Linked to Heart Risks in Atrial Fibrillation](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmRjZ1g3MnFWbVlFTzdSUVJkbFBxdG4wWGh5NTJ2djRGOXpHSWlITm1WaEI0SHREVE1ZWDdUclM3ZDZSaWFBOXFJYjFBVTRCdnc3ZmdMWGJKdlc5WjlCSHRLQ21ZRlZoY2VrTjRCRjd1WUdGNHNvblB3bEgxMmZRdFd2eU5iTkw1ZVBrX0ZjOWZULVVxbkZGWnluTXVUdWdIMFJBcQ?oc=5)
+
+2026-11-05 <span class="news-indication-tag">atrial fibrillation</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmRjZ1g3MnFWbVlFTzdSUVJkbFBxdG4wWGh5NTJ2djRGOXpHSWlITm1WaEI0SHREVE1ZWDdUclM3ZDZSaWFBOXFJYjFBVTRCdnc3ZmdMWGJKdlc5WjlCSHRLQ21ZRlZoY2VrTjRCRjd1WUdGNHNvblB3bEgxMmZRdFd2eU5iTkw1ZVBrX0ZjOWZULVVxbkZGWnluTXVUdWdIMFJBcQ?oc=5)
+
+---
 
 ### [Dépression résistante : un spray nasal psychédélique à l’essai](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEZpWlF6Ykt1LVpfVlpGZ2d0SlVscFRVeWNjeHd4dkhHci1zU3pBQmpEQVB4ZVR3WFpjcjBKSWc4dy1XQk5BdXI1LV9Xd3BydG1FaUV3QU1jN3JsRTd1bFQ0NjQ0VVVsREZFY1l0Yk8zY0Iza3d3N2Y2bVVoQzF2OEpR?oc=5)
 

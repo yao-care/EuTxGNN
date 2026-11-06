@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Capsaicin. 0 predicted indications."
 permalink: /news/capsaicin/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-06
 ---
 
 # Capsaicin News
@@ -25,7 +25,6 @@ This page combines the AI-predicted indications for Capsaicin with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L5</li>
 </ul>
 
 </div>

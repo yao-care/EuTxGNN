@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Abatacept. 7 predicted indications."
 permalink: /news/abatacept/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 ---
 
 # Abatacept News
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Abatacept with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (7)</strong>:<ul>
 <li>ankylosing spondylitis</li>
 <li>hypermobility of coccyx</li>

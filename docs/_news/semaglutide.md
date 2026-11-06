@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>16 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>17 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,19 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L5</li>
 </ul>
 
 </div>
 
-## Related News (16)
+## Related News (17)
+
+### [Llega a España Wegovy oral, el primer tratamiento oral de la ‘familia del Ozempic’ contra la obesidad - Cadena Dial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHNqQURPOGxFX1ZEaDI0MHZScG1mNWJjb3hPemVWMHN1bGNUUXJTV3BTQTdaN1o5RGNrUkpBR2FNY2NFS2JCZk44SVc5c0h5SE5KZ3hPOHozUk5CY2FHU2I1RnhWRXUwYlNBaXdrVGwtdlRrcDc1dXFkQlAzRzlCSmlxS2wtdW9UUlFmcHJ4S00zM0J1UE1DY3kxcEEyMjlNRFF6cFVXVUJNZEZwYnBZWlFSazIzME1FODJ0d1RVOWtCc0hVUXdvbDFpY1hlTFA2akZyUUo3eTRUQdIB3wFBVV95cUxPdE9adzV2dXc2ckJEcmhfa0N1WnlmdEZkVjVVLW5CNXNETEFud1p2UDJTdkNMNDBQeFVFTkl5RUNzX2RMdVFPTmhYNUNIcVNjTkxCYkt5T3M5N1UwQUQtQmRFNlhJUUpueVhtVXFMT3k2Q29hSTdKTjltRzdCZUpCdmlTdUhkU3ZTRTQ2ZEV2ek9CbVdOTlR3RFBsTDJGMmdhaUtNTVZRN0FJbDhuN1VnMks5OHk3Y3lNbThrVW12M01jMW9iYkt2QVZrRDNwUzBPRUNuVmpHZjl1eVVEQ0M4?oc=5)
+
+2026-11-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Cadena Dial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHNqQURPOGxFX1ZEaDI0MHZScG1mNWJjb3hPemVWMHN1bGNUUXJTV3BTQTdaN1o5RGNrUkpBR2FNY2NFS2JCZk44SVc5c0h5SE5KZ3hPOHozUk5CY2FHU2I1RnhWRXUwYlNBaXdrVGwtdlRrcDc1dXFkQlAzRzlCSmlxS2wtdW9UUlFmcHJ4S00zM0J1UE1DY3kxcEEyMjlNRFF6cFVXVUJNZEZwYnBZWlFSazIzME1FODJ0d1RVOWtCc0hVUXdvbDFpY1hlTFA2akZyUUo3eTRUQdIB3wFBVV95cUxPdE9adzV2dXc2ckJEcmhfa0N1WnlmdEZkVjVVLW5CNXNETEFud1p2UDJTdkNMNDBQeFVFTkl5RUNzX2RMdVFPTmhYNUNIcVNjTkxCYkt5T3M5N1UwQUQtQmRFNlhJUUpueVhtVXFMT3k2Q29hSTdKTjltRzdCZUpCdmlTdUhkU3ZTRTQ2ZEV2ek9CbVdOTlR3RFBsTDJGMmdhaUtNTVZRN0FJbDhuN1VnMks5OHk3Y3lNbThrVW12M01jMW9iYkt2QVZrRDNwUzBPRUNuVmpHZjl1eVVEQ0M4?oc=5)
+
+---
 
 ### [Adipositasmedikamente: DDG fordert Kassen-Erstattung für Risikopatienten](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5)
 

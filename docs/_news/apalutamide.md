@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Apalutamide. 0 predicted indications."
 permalink: /news/apalutamide/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 ---
 
 # Apalutamide News
@@ -25,7 +25,6 @@ This page combines the AI-predicted indications for Apalutamide with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L5</li>
 </ul>
 
 </div>

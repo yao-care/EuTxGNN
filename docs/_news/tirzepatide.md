@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tirzepatide. 0 predicted indications."
 permalink: /news/tirzepatide/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Tirzepatide News
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Evidence level</strong>: N/A</li>
 </ul>
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>

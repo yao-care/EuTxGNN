@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Más del 60% de pacientes con enfermedad renal crónica tiene obesidad pero el IMC solo la detecta en el 40%](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
 
-2026-11-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+2026-11-05 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
+
+---
+
+### [ASN: Elderly with chronic kidney disease benefit from SGLT2 inhibitors - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGJrVXpkZmZqajEtSFE2bUNob290dVBHaGFoUDY5RHVMM0dIc2NhZWt3NHNPUlJVV3VTVHhuanJhNS1KOS1wdHkwVG1fNGtXQlZQNncxUDkxbm5OVzhyU2pWdlZzVmZiVFBSTmRpcWhHbUE0UTNvVnpaSkc3S0ROSTFrdmI?oc=5)
+
+2026-11-03 <span class="news-indication-tag">chronic kidney disease</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGJrVXpkZmZqajEtSFE2bUNob290dVBHaGFoUDY5RHVMM0dIc2NhZWt3NHNPUlJVV3VTVHhuanJhNS1KOS1wdHkwVG1fNGtXQlZQNncxUDkxbm5OVzhyU2pWdlZzVmZiVFBSTmRpcWhHbUE0UTNvVnpaSkc3S0ROSTFrdmI?oc=5)
 
 ---
 

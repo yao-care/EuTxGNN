@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Meropenem. 7 predicted indications."
 permalink: /news/meropenem/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 ---
 
 # Meropenem News
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Meropenem with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (7)</strong>:<ul>
 <li>bacterial arthritis</li>
 <li>epiglottitis</li>

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Zonisamide. 9 predicted indications."
 permalink: /news/zonisamide/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Zonisamide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Zonisamide?">
-<strong>Zonisamide</strong> currently has <strong>16 news articles</strong>, with 9 predicted indications.
+<strong>Zonisamide</strong> currently has <strong>17 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ This page combines the AI-predicted indications for Zonisamide with the latest h
 <p><a href="{{ '/drugs/zonisamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (17)
 
 ### [Demencia de aparición temprana y epilepsia: ¿cuál es la relación?](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ1RvTl9OUlpFVkZxelN2WXIwRjFBSGVkMTI5U3g0VGttalBkM3g4QlVnQ29QSEg3SVBndkhFTHdhOVpxVEoxX0VpT2dBRlJ0ZWEzUEFlc21RckVqRk1mTnh6RWNFUjYzanh3OE9xbE1VMkt2ZGtSS2hYSHpxNDlkeVBqd2hKZl9WQTNqWlFGY0FKMTh1cnA4X1RqRlliQUk0OHk2VDF2dFl3d3dhRHo2Qw?oc=5)
 
 2026-11-05 <span class="news-indication-tag">epilepsia</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ1RvTl9OUlpFVkZxelN2WXIwRjFBSGVkMTI5U3g0VGttalBkM3g4QlVnQ29QSEg3SVBndkhFTHdhOVpxVEoxX0VpT2dBRlJ0ZWEzUEFlc21RckVqRk1mTnh6RWNFUjYzanh3OE9xbE1VMkt2ZGtSS2hYSHpxNDlkeVBqd2hKZl9WQTNqWlFGY0FKMTh1cnA4X1RqRlliQUk0OHk2VDF2dFl3d3dhRHo2Qw?oc=5)
+
+---
+
+### [Sleep Apnea Linked to Heart Risks in Atrial Fibrillation](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmRjZ1g3MnFWbVlFTzdSUVJkbFBxdG4wWGh5NTJ2djRGOXpHSWlITm1WaEI0SHREVE1ZWDdUclM3ZDZSaWFBOXFJYjFBVTRCdnc3ZmdMWGJKdlc5WjlCSHRLQ21ZRlZoY2VrTjRCRjd1WUdGNHNvblB3bEgxMmZRdFd2eU5iTkw1ZVBrX0ZjOWZULVVxbkZGWnluTXVUdWdIMFJBcQ?oc=5)
+
+2026-11-05 <span class="news-indication-tag">atrial fibrillation</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmRjZ1g3MnFWbVlFTzdSUVJkbFBxdG4wWGh5NTJ2djRGOXpHSWlITm1WaEI0SHREVE1ZWDdUclM3ZDZSaWFBOXFJYjFBVTRCdnc3ZmdMWGJKdlc5WjlCSHRLQ21ZRlZoY2VrTjRCRjd1WUdGNHNvblB3bEgxMmZRdFd2eU5iTkw1ZVBrX0ZjOWZULVVxbkZGWnluTXVUdWdIMFJBcQ?oc=5)
 
 ---
 
@@ -61,7 +69,7 @@ Source: [Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0Zz
 
 ### [Heart failure hospitalisations surge as woman, 35, tells of shock at life-threatening diagnosis - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1BXY2dodmM1X0dROFR1OC1VbThoSHhxMDI2X04xUmFaUC1jOVotWnVjTVpFdnVweVVTM01vRXR4MmJvbWE3ZjM3QWRIZU5mSHc3VmJlQmZzX01acHNPLUpYZEw2aE5YMDVGY05MRzQwY05ZU0FNVm5UV0VUaFFMMk41cDlqZ2lr0gGOAUFVX3lxTFBJZmUxTGhRN3JlS1kwY0w0QkZEQUNtTkkyOUtLZTh0S3N3VEVhRTA5RzQwaWUzZDJJNk9pUjJHbFlZeEZYVTBremRqUXdjM3o0STg0SXF5YnM5Q0Q1TEJjUEdWeWRwVEFDdkJhZDBKdlRUaWg0RFlrQ1NmaXV0MDgtTVpxV1VXdFJaTzI2cmc?oc=5)
 
-2026-11-04 <span class="news-indication-tag">heart disease</span>
+2026-11-04 <span class="news-indication-tag">heart failure</span>
 
 Source: [The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1BXY2dodmM1X0dROFR1OC1VbThoSHhxMDI2X04xUmFaUC1jOVotWnVjTVpFdnVweVVTM01vRXR4MmJvbWE3ZjM3QWRIZU5mSHc3VmJlQmZzX01acHNPLUpYZEw2aE5YMDVGY05MRzQwY05ZU0FNVm5UV0VUaFFMMk41cDlqZ2lr0gGOAUFVX3lxTFBJZmUxTGhRN3JlS1kwY0w0QkZEQUNtTkkyOUtLZTh0S3N3VEVhRTA5RzQwaWUzZDJJNk9pUjJHbFlZeEZYVTBremRqUXdjM3o0STg0SXF5YnM5Q0Q1TEJjUEdWeWRwVEFDdkJhZDBKdlRUaWg0RFlrQ1NmaXV0MDgtTVpxV1VXdFJaTzI2cmc?oc=5)
 

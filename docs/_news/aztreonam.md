@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Aztreonam?">
-<strong>Aztreonam</strong> currently has <strong>123 news articles</strong>, with 10 predicted indications.
+<strong>Aztreonam</strong> currently has <strong>126 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Aztreonam with the latest he
 <p><a href="{{ '/drugs/aztreonam/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (123)
+## Related News (126)
+
+### [Le docteur Brigitte Milhau explique la signification du «Movember» et l'origine de son symbole, la moustache](https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXJpVndiVnFVcTUxbnY1ZXB0U3F1ODV5MDdmWkI2TUgyWE5tNzc4WEFjOEdoZGxJbHNyLUtUQmoxNlNlR0FXNlplTWg5MjBNendzVWZNdzgzSU5KVG9QLV9YeUk2NEhMWi1mRUpiX2E2MF9ndU5keHdHV1FYV0ZqNkFSSmhBdVY3UW96aFhfX1BrZlI3YUVrV2JyS2gyUnZEN2FfRUNPaUhxOTIyUzdxME1uaU9sTWFubmfSAb8BQVVfeXFMUHFIem0tTFVsbkRpMk5YcGYwVGU1YmJNdjZzbmExc2laRHEyVVFFbmhYSEtjMkoyVnBuOG1maFhXVGVCdTY0VVFUZ1NPVFE2cnVZQk5KWU1oUHBTT2U1bk14bFg4NnBLLWFBb1BITm9ldXc5MHlyS1R6VzREWlNQV25vNEVwc0hvS0RSTHRuLXA3OHpkakJ2NXdyOTNvdTBOZ3o5NDVha3pOZ21oUXR2NDd3Zi00MzljSklJbGpRaFE?oc=5)
+
+2026-11-06 <span class="news-indication-tag">cancer</span>
+
+Source: [CNews](https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXJpVndiVnFVcTUxbnY1ZXB0U3F1ODV5MDdmWkI2TUgyWE5tNzc4WEFjOEdoZGxJbHNyLUtUQmoxNlNlR0FXNlplTWg5MjBNendzVWZNdzgzSU5KVG9QLV9YeUk2NEhMWi1mRUpiX2E2MF9ndU5keHdHV1FYV0ZqNkFSSmhBdVY3UW96aFhfX1BrZlI3YUVrV2JyS2gyUnZEN2FfRUNPaUhxOTIyUzdxME1uaU9sTWFubmfSAb8BQVVfeXFMUHFIem0tTFVsbkRpMk5YcGYwVGU1YmJNdjZzbmExc2laRHEyVVFFbmhYSEtjMkoyVnBuOG1maFhXVGVCdTY0VVFUZ1NPVFE2cnVZQk5KWU1oUHBTT2U1bk14bFg4NnBLLWFBb1BITm9ldXc5MHlyS1R6VzREWlNQV25vNEVwc0hvS0RSTHRuLXA3OHpkakJ2NXdyOTNvdTBOZ3o5NDVha3pOZ21oUXR2NDd3Zi00MzljSklJbGpRaFE?oc=5)
+
+---
 
 ### [Krebs: Dieser Lebensstil begünstigt Erkrankungen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSFBpN3JVaGY0cEdxRDFGN3JqSy03bnhKVjhrTmdLUGtrbjZrd1lQYnZ1UXh1c1d5UFRnYkJtcUtZbHBVS0NncXhBdVZETWQxZHZBcENpY25ZQ3lfUVpUZTNhWDBZYXZqcE8wYmkxcmxZT0YxSDF0djRlV3JoWUZSZHVLdWNsMUpHTGwyeUVoNUtaWmRhQXJuOWNHa1lMUDFieGltSUFEeVkwMjV2aUpXaEluQQ?oc=5)
 
@@ -57,6 +65,14 @@ Source: [WELT](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSFBpN3JVaGY0
 2026-11-05 <span class="news-indication-tag">tumor</span>
 
 Source: [Corriere Milano](https://news.google.com/rss/articles/CBMivgJBVV95cUxPNGs4N2w0cWYzMjA4SURGcnVfRjNWQlZuekpWam9ldWVRX0M2b2FpTk1TQTlOZmJic2VYc05ZX2pTVVRIYW9FM0R0NEE4YlpRTHJWRjBiUkMxdWdFalphREpKOWtKZVM4aUVESXFfVU5KVklIZzFYOXZYU01MMnZ2NlVhc3dHUG1RaDhwS05HbDFHZ0s2LVZ1SHRHUXFFM3BTVTB0ZG8xaC1FSFdReG5hNm84V21nbTJRSmJNT1NDQm9EaE11bUI5VHkwZlVDN2hzUmZtREJaSUF6YlV0Z1BYSjBVTExoZWlka01QTUxKQ1JFblhvZVRWRHNxaEFrSzg0VFRFd19lMFlaT2NZa0lIejh0NDc0MHdSVnRJR21KX1VwUmluZHVlLUV4NndBdjZmMVZwaUhRNEhLbUloU3fSAcMCQVVfeXFMTUJZS0Zmb0hISE5zZHF6Z2I4MC1rTXV3TWV5blR0d1p5blJvMDVOczJXbFdiTGp6VlNXWEtkSk45YXRIT1E1REEtY0F1UHYwNUtFOEhCX21RZVRwalBfMVNyT2dJQ2QxRU5MUlpvWmlMWFVBekJ5OFBKYXYzaHNFS0dnNXJwRHQ3UUloYXhjdHZTQ3JFalpUMG1fb055RWI0MnBPbTVuMDNiSFpCc3FtbkhBeUNUS3I0N3NhUUk0Wk84WGZ3YWJpZ2ZQb1dVbTlJVy1CeENTazRMYTJRWmdMdUdmcFR2VVp2dGtMelhEUkdkNThOYVJGWlJ1YXNfZExzYmU4NXZoVThldlA5WGdwZFZiOVVyOGdMNE1sanBCZnVJVnFzZzRsTUlHYUZEV3E3VTVrU1d3ZHRPMjhwc3FOUGpjRHM?oc=5)
+
+---
+
+### [Se lever la nuit pour faire pipi après 60 ans : ce signe qui n'est pas « juste l'âge », selon un gériatre - Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ09SUThLMEx0SllkSEsyRGhRLWdSQXV6a3pPVndwTkJuSVh4MG1JV2pvU19LYjI5QXhJYW5VWWoyTGtpZmI0c3c3VHR1ajJXaXFfQlM4S1dZRzlROFBwUUJIZ2tCTDl6NXZuX0J3TGU4clBQQXRsNWpFUTd5ZDNEYk1ibmRuQk1CeUxqZHJoUlNLeWttOEY4?oc=5)
+
+2026-11-05 <span class="news-indication-tag">cancer</span>
+
+Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ09SUThLMEx0SllkSEsyRGhRLWdSQXV6a3pPVndwTkJuSVh4MG1JV2pvU19LYjI5QXhJYW5VWWoyTGtpZmI0c3c3VHR1ajJXaXFfQlM4S1dZRzlROFBwUUJIZ2tCTDl6NXZuX0J3TGU4clBQQXRsNWpFUTd5ZDNEYk1ibmRuQk1CeUxqZHJoUlNLeWttOEY4?oc=5)
 
 ---
 
@@ -377,6 +393,14 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1dhRWM
 2026-11-03 <span class="news-indication-tag">cancro</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMijgJBVV95cUxQMS1QaXJldk1RcDBDOXVGaXRiYnZxT0VJMjJ0ZEJCbWtUNTcwc3JFaE1KdUMyTkFEcHplMk9rdklqQVIzSDF0X0xWVFVEUXhPRmRoV1RlSEtUU3BGZmlCYXZzTE5GakduaTdULW5OTUtsaXJYS3dodkNPZWg1T3BBTklwNWZmcl9qSjF5c3FTZFRZcm1ET0ctR2NEN0xUVFBTbURPN0FBU3R2S1A1QUdlNXFTdFdVdUdKQm0xU0tNOU1talNQckYyZlpjckRuR3dLSlQ5eUY3bW5DbDdxeG1jclhUckxtaUFaYWwtYVBWVFFBWEFZcmVOME9rbm1rS1VSNHQ5aW4yeWFaYmljbEHSAZMCQVVfeXFMTzdTaVBxUktsZVF3N1JpdU9fdHJ4QjdtYXJadEhuWWJOb3NjVmV0VnkzU213c001M1NUQkdReW1UOU5hamlDbVZrc1cyYm0yZWRZS05sd3ZSNDl0ZGVreFJCOTNCcklyNFdMdTE1ZmxEQUNnd0ZHWmg3MkhoQW9qbzdsOHZzaVV4YkhfUVZXZWp2SEhhWDRBbmp1ZXcwOExUR2wyYjY4Z1pEUlFpZTNYaXExMTFja0ZDYWlhRTVrUVhGWXU0R0VHOC1Zc0ViVWRMeThwamc4aDVQVjhDUGw5Q1VLTjhhekMydEJBNldjZHVtTC01OENSNDJEeFpqdjRRSkVqMElhZjBpam9EbllxZXNpLWc?oc=5)
+
+---
+
+### [Sterbezahlen bei bestimmtem Krebs könnten stark steigen](https://news.google.com/rss/articles/CBMihgFBVV95cUxPdjRNYXpWWXRLSlZXczdPMHZacHV5Q2Q0eGFhWGZlMmx6ck9xTmlYVldBYVJoelh6RTNUbWxKX0RHQVJhWVl2Q1dRYVoxcVhyM3JOZDE1NWJscVJCNmZUcWZtZWk0VUlZRGxrMUppWmdfdldrUzJzYkNmenlpSnhqeWdwQnhPQQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">Krebs</span>
+
+Source: [WEB.DE](https://news.google.com/rss/articles/CBMihgFBVV95cUxPdjRNYXpWWXRLSlZXczdPMHZacHV5Q2Q0eGFhWGZlMmx6ck9xTmlYVldBYVJoelh6RTNUbWxKX0RHQVJhWVl2Q1dRYVoxcVhyM3JOZDE1NWJscVJCNmZUcWZtZWk0VUlZRGxrMUppWmdfdldrUzJzYkNmenlpSnhqeWdwQnhPQQ?oc=5)
 
 ---
 

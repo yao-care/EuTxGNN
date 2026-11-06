@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tremelimumab. 0 predicted indications."
 permalink: /news/tremelimumab/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-06
 ---
 
 # Tremelimumab News
@@ -25,7 +25,6 @@ This page combines the AI-predicted indications for Tremelimumab with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L5</li>
 </ul>
 
 </div>

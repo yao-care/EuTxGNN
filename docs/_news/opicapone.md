@@ -25,18 +25,18 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: N/A</li>
 </ul>
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (11)
 
-### [New Alzheimer's study discovers symptom starts in ear 10 years before memory loss - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
+### [New Alzheimer's study discovers symptom starts in ear 10 years before memory loss](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
 
 2026-11-05 <span class="news-indication-tag">Alzheimer's</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
+Source: [Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
 
 ---
 

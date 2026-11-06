@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Bictegravir. 3 predicted indications."
 permalink: /news/bictegravir/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Bictegravir News
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Bictegravir with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (3)</strong>:<ul>
 <li>simian immunodeficiency virus infection</li>
 <li>feline acquired immunodeficiency syndrome</li>

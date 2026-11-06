@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Bupropion?">
-<strong>Bupropion</strong> currently has <strong>26 news articles</strong>, with 0 predicted indications.
+<strong>Bupropion</strong> currently has <strong>29 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,28 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: N/A</li>
 </ul>
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (26)
+## Related News (29)
+
+### [Llega a España Wegovy oral, el primer tratamiento oral de la ‘familia del Ozempic’ contra la obesidad - Cadena Dial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHNqQURPOGxFX1ZEaDI0MHZScG1mNWJjb3hPemVWMHN1bGNUUXJTV3BTQTdaN1o5RGNrUkpBR2FNY2NFS2JCZk44SVc5c0h5SE5KZ3hPOHozUk5CY2FHU2I1RnhWRXUwYlNBaXdrVGwtdlRrcDc1dXFkQlAzRzlCSmlxS2wtdW9UUlFmcHJ4S00zM0J1UE1DY3kxcEEyMjlNRFF6cFVXVUJNZEZwYnBZWlFSazIzME1FODJ0d1RVOWtCc0hVUXdvbDFpY1hlTFA2akZyUUo3eTRUQdIB3wFBVV95cUxPdE9adzV2dXc2ckJEcmhfa0N1WnlmdEZkVjVVLW5CNXNETEFud1p2UDJTdkNMNDBQeFVFTkl5RUNzX2RMdVFPTmhYNUNIcVNjTkxCYkt5T3M5N1UwQUQtQmRFNlhJUUpueVhtVXFMT3k2Q29hSTdKTjltRzdCZUpCdmlTdUhkU3ZTRTQ2ZEV2ek9CbVdOTlR3RFBsTDJGMmdhaUtNTVZRN0FJbDhuN1VnMks5OHk3Y3lNbThrVW12M01jMW9iYkt2QVZrRDNwUzBPRUNuVmpHZjl1eVVEQ0M4?oc=5)
+
+2026-11-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Cadena Dial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHNqQURPOGxFX1ZEaDI0MHZScG1mNWJjb3hPemVWMHN1bGNUUXJTV3BTQTdaN1o5RGNrUkpBR2FNY2NFS2JCZk44SVc5c0h5SE5KZ3hPOHozUk5CY2FHU2I1RnhWRXUwYlNBaXdrVGwtdlRrcDc1dXFkQlAzRzlCSmlxS2wtdW9UUlFmcHJ4S00zM0J1UE1DY3kxcEEyMjlNRFF6cFVXVUJNZEZwYnBZWlFSazIzME1FODJ0d1RVOWtCc0hVUXdvbDFpY1hlTFA2akZyUUo3eTRUQdIB3wFBVV95cUxPdE9adzV2dXc2ckJEcmhfa0N1WnlmdEZkVjVVLW5CNXNETEFud1p2UDJTdkNMNDBQeFVFTkl5RUNzX2RMdVFPTmhYNUNIcVNjTkxCYkt5T3M5N1UwQUQtQmRFNlhJUUpueVhtVXFMT3k2Q29hSTdKTjltRzdCZUpCdmlTdUhkU3ZTRTQ2ZEV2ek9CbVdOTlR3RFBsTDJGMmdhaUtNTVZRN0FJbDhuN1VnMks5OHk3Y3lNbThrVW12M01jMW9iYkt2QVZrRDNwUzBPRUNuVmpHZjl1eVVEQ0M4?oc=5)
+
+---
+
+### [GLP-1 senken Risiko für Typ-2-Diabetes bei Prädiabetes und Adipositas - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUHN5cm51NUZmcEU4dnlVd2xxRDJaOW9hc1lDdUMwdkh6cWNnTXllRlNOVmRYUUxRT1dJdjB0NkszM05ibmVuQnZKWlZxYnpVS055eGFtQjJVZE5EdlRvTkUtLWFmTkJGS2VkcGNFbmp2Njc2M2pZc1ZHTW1zRGJmdWQzU2xBck05ekZqZk9sQjl3R1ZoazAwZ0hOLVNzZ3lHR3pNNkJR?oc=5)
+
+2026-11-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUHN5cm51NUZmcEU4dnlVd2xxRDJaOW9hc1lDdUMwdkh6cWNnTXllRlNOVmRYUUxRT1dJdjB0NkszM05ibmVuQnZKWlZxYnpVS055eGFtQjJVZE5EdlRvTkUtLWFmTkJGS2VkcGNFbmp2Njc2M2pZc1ZHTW1zRGJmdWQzU2xBck05ekZqZk9sQjl3R1ZoazAwZ0hOLVNzZ3lHR3pNNkJR?oc=5)
+
+---
 
 ### [Adipositasmedikamente: DDG fordert Kassen-Erstattung für Risikopatienten](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5)
 
@@ -42,7 +58,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm
 
 ### [Más del 60% de pacientes con enfermedad renal crónica tiene obesidad pero el IMC solo la detecta en el 40%](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
 
-2026-11-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+2026-11-05 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
 
@@ -61,6 +77,14 @@ Source: [El Globalfarma](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdW
 2026-11-05 <span class="news-indication-tag">obesidad</span>
 
 Source: [Diario Enfermero](https://news.google.com/rss/articles/CBMieEFVX3lxTFBvQnhwcjB0RkM5d2w0a1VwZzdheEF5RzhFS3ZRekpFZ2lCamY0SU9fZGN3S0NZWlI0SWpYcDNrazBTXzdKaHQ4aTZiX09YUDFqc0hucWlTcFExM2FWeElhOUZRbUFjMDdpV3NkOW1VcHN4Zl9Ib09uQw?oc=5)
+
+---
+
+### [Obesità, associazioni pazienti: "Servono fondi dedicati per garantire le cure" - Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdVh6Y3p4TmRHNFVJd2xmMzRLRjhVT052OS1WazRsSzc1Q1c5X2drUWJCdWdNNXhkek5zWlc1bDJScFNBazFidUpXa2ZKdGJzdVFIdXZmRjBaU2oyb0UyaG5Fa2RjbTY1Z3dEbjB4cHFoejFtOUdDcHJUaVNsRmhoZG9FVS1faVdZYi14cnNSWl9jazFOQzZxTGwxekxrS0NMZFBHeUdmLXp2WlQ2SzU4NWZBVGlrWVdxUTZ4cGJFY0YydlFuUU9aSlQzNERmSUpXeEpqN3NCbFR5UTBzSEVv?oc=5)
+
+2026-11-05 <span class="news-indication-tag">obesità</span>
+
+Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdVh6Y3p4TmRHNFVJd2xmMzRLRjhVT052OS1WazRsSzc1Q1c5X2drUWJCdWdNNXhkek5zWlc1bDJScFNBazFidUpXa2ZKdGJzdVFIdXZmRjBaU2oyb0UyaG5Fa2RjbTY1Z3dEbjB4cHFoejFtOUdDcHJUaVNsRmhoZG9FVS1faVdZYi14cnNSWl9jazFOQzZxTGwxekxrS0NMZFBHeUdmLXp2WlQ2SzU4NWZBVGlrWVdxUTZ4cGJFY0YydlFuUU9aSlQzNERmSUpXeEpqN3NCbFR5UTBzSEVv?oc=5)
 
 ---
 

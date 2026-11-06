@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Budesonide. 10 predicted indications."
 permalink: /news/budesonide/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Budesonide News
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Budesonide with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>atopic eczema</li>
 <li>bronchitis</li>

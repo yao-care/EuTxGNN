@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about Alzheimer's (alzheimer disease). 8 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Alzheimer's (alzheimer disease) News
@@ -45,11 +45,11 @@ This page brings together the latest health news about “Alzheimer's” and lis
 
 ## Related News (8)
 
-### [New Alzheimer's study discovers symptom starts in ear 10 years before memory loss - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
+### [New Alzheimer's study discovers symptom starts in ear 10 years before memory loss](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
 
 2026-11-05
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
+Source: [Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
 
 ---
 

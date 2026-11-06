@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Brexpiprazole. 0 predicted indications."
 permalink: /news/brexpiprazole/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Brexpiprazole News
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Brexpiprazole with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: N/A</li>
 </ul>
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>

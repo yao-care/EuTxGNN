@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Epinephrine. 3 predicted indications."
 permalink: /news/epinephrine/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Epinephrine News
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (3)</strong>:<ul>
 <li>obstructive lung disease</li>
 <li>Rienhoff syndrome</li>

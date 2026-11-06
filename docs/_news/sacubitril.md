@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Sacubitril?">
-<strong>Sacubitril</strong> currently has <strong>58 news articles</strong>, with 5 predicted indications.
+<strong>Sacubitril</strong> currently has <strong>63 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Sacubitril with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
 <li>brain small vessel disease 1 with or without ocular anomalies</li>
 <li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome</li>
@@ -37,7 +37,23 @@ This page combines the AI-predicted indications for Sacubitril with the latest h
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (58)
+## Related News (63)
+
+### [Sunderland project using AI to help eye tests detect diabetes](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxTEJMei1UZDZ6UUtsOGZZQXo1N0YybFIyRXVkS0x3djhxblAycmItVERGN1BVRlVZNHUtbnlOVTktWFl0NTZZY0dLN2ZIR1BIOHFpRV9JTy1ZMWU2ZEE?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxTEJMei1UZDZ6UUtsOGZZQXo1N0YybFIyRXVkS0x3djhxblAycmItVERGN1BVRlVZNHUtbnlOVTktWFl0NTZZY0dLN2ZIR1BIOHFpRV9JTy1ZMWU2ZEE?oc=5)
+
+---
+
+### [Frauengesundheit: Menstruationszyklus beeinflusst Insulinbedarf bei Typ-1-Diabetes](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmZlR1VtdzdDdEc2VEFYU2RKZFVNRVE2S1E0Skxwd0tQLWZLdGw5NzUxdHE4RGdQRFl4NS1QU1pqTVZZVjF5WjF2LUc3cVoyS1U1ZkMxLV9vX0owRjFEVXpES2NKWHhDenA1TDNteG1rWEVGbW5vQ0V1NjZpSVowU1lfRVhkU0E1ODdaUmFZdVdfZk92TDFITzRB?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span>
+
+Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmZlR1VtdzdDdEc2VEFYU2RKZFVNRVE2S1E0Skxwd0tQLWZLdGw5NzUxdHE4RGdQRFl4NS1QU1pqTVZZVjF5WjF2LUc3cVoyS1U1ZkMxLV9vX0owRjFEVXpES2NKWHhDenA1TDNteG1rWEVGbW5vQ0V1NjZpSVowU1lfRVhkU0E1ODdaUmFZdVdfZk92TDFITzRB?oc=5)
+
+---
 
 ### [Diabetes: Neues Implantat wirkt schon nach einer Stunde – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBhYm5WOWMwbjRuX1p1MXBIeG9uSXJTenhMUXRJRjU3MVQ0X2xOVS0xVnR5UHl4ZGl3eVg1MmJqbjRma0NzSlJlR0RuU1NSaUhVcEZMdk1iMklqalIxSzJYVGJUaFZEMXZyRzRjQ2p4ejdxY041NVVpMXhiYXk1SnlLb1NacVI4OXZ0RlYzUy1peXFaNWxOcEl1MFRiSFZSc0FTcTRXZTl3Vnh2bzJPTG92R0Q5c1VJVlVWZGl3RDFOdFBIMWlrUkVrV1Z1SzlYQldtRENCdGg3RE5NOA?oc=5)
 
@@ -47,9 +63,17 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBh
 
 ---
 
+### [GLP-1 senken Risiko für Typ-2-Diabetes bei Prädiabetes und Adipositas - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUHN5cm51NUZmcEU4dnlVd2xxRDJaOW9hc1lDdUMwdkh6cWNnTXllRlNOVmRYUUxRT1dJdjB0NkszM05ibmVuQnZKWlZxYnpVS055eGFtQjJVZE5EdlRvTkUtLWFmTkJGS2VkcGNFbmp2Njc2M2pZc1ZHTW1zRGJmdWQzU2xBck05ekZqZk9sQjl3R1ZoazAwZ0hOLVNzZ3lHR3pNNkJR?oc=5)
+
+2026-11-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUHN5cm51NUZmcEU4dnlVd2xxRDJaOW9hc1lDdUMwdkh6cWNnTXllRlNOVmRYUUxRT1dJdjB0NkszM05ibmVuQnZKWlZxYnpVS055eGFtQjJVZE5EdlRvTkUtLWFmTkJGS2VkcGNFbmp2Njc2M2pZc1ZHTW1zRGJmdWQzU2xBck05ekZqZk9sQjl3R1ZoazAwZ0hOLVNzZ3lHR3pNNkJR?oc=5)
+
+---
+
 ### [Más del 60% de pacientes con enfermedad renal crónica tiene obesidad pero el IMC solo la detecta en el 40%](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
 
-2026-11-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+2026-11-05 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
 
@@ -140,6 +164,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2
 2026-11-03 <span class="news-indication-tag">arthritis</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
+
+---
+
+### [Spendenaktion für Kinder mit Diabetes: diabetesDE startet #SüßesBewirken - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHJkZXRjTHVISGhoMFlGVS1rSkdfUVNUWHI3eHl6QVUzUnJtajRPdWtmckJIZzlPZDlEU1BRbmpMV1RnNHZVWDl5dlZqNERPSlZ1MDdza2lISHV6YjBJcEZwNlFtMG45YmVnRFJjeW9CZzBEOXVVYndZOU10bTBpdHgxN2lZZExTS0hmcFpQMmlqN01EckswbE1vb3BXYnpnak5kaTlyTUJhTDdBN2pHMjhKZzNwVGpMSU94eDc1ODA?oc=5)
+
+2026-11-03 <span class="news-indication-tag">diabetes</span>
+
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHJkZXRjTHVISGhoMFlGVS1rSkdfUVNUWHI3eHl6QVUzUnJtajRPdWtmckJIZzlPZDlEU1BRbmpMV1RnNHZVWDl5dlZqNERPSlZ1MDdza2lISHV6YjBJcEZwNlFtMG45YmVnRFJjeW9CZzBEOXVVYndZOU10bTBpdHgxN2lZZExTS0hmcFpQMmlqN01EckswbE1vb3BXYnpnak5kaTlyTUJhTDdBN2pHMjhKZzNwVGpMSU94eDc1ODA?oc=5)
 
 ---
 
@@ -396,6 +428,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcX
 2026-10-30 <span class="news-indication-tag">diabetes</span>
 
 Source: [EatingWell](https://news.google.com/rss/articles/CBMifkFVX3lxTFA3MzM0cjJPSnkwd0tXSnpGRGRXaHJLMUQ4b1JxZTl1R2h5Z29kbVp1Q2Q2MGl5RjdsTWNfRGdpUDVmZTZSX21yaVp5XzROQVpFMzJTNVBwbDVLMk9DRVE0RmtDaEZlbEtSLVNNaHJwRnVMLUZTczZLWEFSVGwtUQ?oc=5)
+
+---
+
+### [Studie RESET for Remission: 54% erreichen nach 6 Monaten Remission - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOMl9OazFZVzljSDdvM3Q4WFRpa1dHeFVUeHg4WjJrOVNMUk45TlhPTnloemM3YXNSUmlCSENYcjI1VlNXZlVHYTVIS3hLMjYyZ0JvTjFuVnB0RXV6VEVoMG5SVlJ3MVl0N1EzTWsyRWxKa0IzZkhWYnlTNGJlQV81Z3VtclQ4VnhjdlNKcU85YmwxbG5hWEE5eHBFR0k?oc=5)
+
+2026-10-30 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOMl9OazFZVzljSDdvM3Q4WFRpa1dHeFVUeHg4WjJrOVNMUk45TlhPTnloemM3YXNSUmlCSENYcjI1VlNXZlVHYTVIS3hLMjYyZ0JvTjFuVnB0RXV6VEVoMG5SVlJ3MVl0N1EzTWsyRWxKa0IzZkhWYnlTNGJlQV81Z3VtclQ4VnhjdlNKcU85YmwxbG5hWEE5eHBFR0k?oc=5)
 
 ---
 

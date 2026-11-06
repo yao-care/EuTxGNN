@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Lamivudine. 5 predicted indications."
 permalink: /news/lamivudine/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Lamivudine News
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Lamivudine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
 <li>feline acquired immunodeficiency syndrome</li>
 <li>simian immunodeficiency virus infection</li>
