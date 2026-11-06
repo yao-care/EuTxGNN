@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Semaglutide. 0 predicted indications."
 permalink: /news/semaglutide/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Semaglutide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>15 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>16 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (15)
+## Related News (16)
 
 ### [Adipositasmedikamente: DDG fordert Kassen-Erstattung für Risikopatienten](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5)
 
@@ -109,6 +109,14 @@ Source: [franceinfo](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWJDeX
 2026-11-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
 Source: [Ouest-France](https://news.google.com/rss/articles/CBMihgJBVV95cUxOOTh0UGF5ZEpRbUVaenhMS1RuUDBwY0RuZEhSaVpjOXhDVnRTVVdGbkJ0ZENRN3dtYk80VzRvYjFTT0p0YmRQenBGOEtZVmQ5aHFGWm9zVG1XUktWRHR0dHdMbVBMZlVTS0F2SUdIZHJJcDc0bS1VZ0V2SWkwSEt4RkVnV2RvRFdZMGpsUUgxNG1kcG1YdG5lVi1WcTE5QzhiUm11UGRDN3lxMVpxakp1dGc1VDNsdXBOQXJkVFBJQkNUQlRBLVJ1cjNWSjV4RGN5ZDJEUGEyLS1FMmh1Qno0WnpuVlJWTFByZ25HU3dIMlE0Tk9maHBoVEZVdFF4dFlPZ3lzQmJ3?oc=5)
+
+---
+
+### [Santé : le traitement anti-obésité Wegovy arrive en comprimé dans les pharmacies françaises, il ne sera pas remboursé - Sud Ouest](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZzdxQklyaXlRbjRYRUQ3RkNuWmFIS1J5THNxUTJHdHl2aTFtOXhxOGFRcm8xZE1Gd0Y4b2lZUmVOVFJwZWlaSEpLNE9RUWZmN3U0M2dSVk1nNi1xZnk4RldGOUtHbVhITXBjdUtXVkNlS3ptbDNocEFKYnJrUE9IaEVEbW12VXhnRzNLQ2JsZnpVajBYc053aWFkZmtnQ3N2OWFQTGswZ0g1MzZJTmdmX2JtOGlTWmt5NDVQd3l2NTBENzhON0lrRE9QTTBlbGp6bHJxTHBrRjU0MEJzY3FwaUhXdmRWamZiZG9Zejln?oc=5)
+
+2026-11-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Sud Ouest](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZzdxQklyaXlRbjRYRUQ3RkNuWmFIS1J5THNxUTJHdHl2aTFtOXhxOGFRcm8xZE1Gd0Y4b2lZUmVOVFJwZWlaSEpLNE9RUWZmN3U0M2dSVk1nNi1xZnk4RldGOUtHbVhITXBjdUtXVkNlS3ptbDNocEFKYnJrUE9IaEVEbW12VXhnRzNLQ2JsZnpVajBYc053aWFkZmtnQ3N2OWFQTGswZ0g1MzZJTmdmX2JtOGlTWmt5NDVQd3l2NTBENzhON0lrRE9QTTBlbGp6bHJxTHBrRjU0MEJzY3FwaUhXdmRWamZiZG9Zejln?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "Adipositas (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Adipositas (obesity). 23 articles, 8 related drugs."
+description: "Health news about Adipositas (obesity). 26 articles, 8 related drugs."
 permalink: /news/obesity/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Adipositas (obesity) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
-<strong>Adipositas (obesity)</strong> currently has <strong>23 news articles</strong> and 8 related drugs.
+<strong>Adipositas (obesity)</strong> currently has <strong>26 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page brings together the latest health news about “Adipositas” and list
 </ul>
 </div>
 
-## Related News (23)
+## Related News (26)
 
 ### [Adipositasmedikamente: DDG fordert Kassen-Erstattung für Risikopatienten](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5)
 
@@ -60,6 +60,14 @@ Source: [El Globalfarma](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdW
 
 ---
 
+### [Las enfermeras comunitarias, un eslabón imprescindible para el abordaje y prevención de la obesidad - Diario Enfermero](https://news.google.com/rss/articles/CBMieEFVX3lxTFBvQnhwcjB0RkM5d2w0a1VwZzdheEF5RzhFS3ZRekpFZ2lCamY0SU9fZGN3S0NZWlI0SWpYcDNrazBTXzdKaHQ4aTZiX09YUDFqc0hucWlTcFExM2FWeElhOUZRbUFjMDdpV3NkOW1VcHN4Zl9Ib09uQw?oc=5)
+
+2026-11-05
+
+Source: [Diario Enfermero](https://news.google.com/rss/articles/CBMieEFVX3lxTFBvQnhwcjB0RkM5d2w0a1VwZzdheEF5RzhFS3ZRekpFZ2lCamY0SU9fZGN3S0NZWlI0SWpYcDNrazBTXzdKaHQ4aTZiX09YUDFqc0hucWlTcFExM2FWeElhOUZRbUFjMDdpV3NkOW1VcHN4Zl9Ib09uQw?oc=5)
+
+---
+
 ### [Llega a España el primer medicamento GLP-1 en pastillas contra la obesidad](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmZuX1FuMHJXZkswQkZvenRXRXc2TVJyX1V5TGFzUzFZaVJJQlROaEprWXNzYkJvTkVnX3JTQkM2ekhGQnNLUG1lamdXWktHNjZjbzU0VkkyQjVPYl9tbEdsa0dPbUcxSktidkZGakNmMkpHZVpFYTBqaWtUUlAzVERQdWlaVmp4NV9CZHdzWjFibURvdVpCLW1uTnBRQ1ZVNjdkcXJ3aFo5anFzLUNaWXBrMlo4LWc?oc=5)
 
 2026-11-05
@@ -73,6 +81,14 @@ Source: [elDiario.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmZuX
 2026-11-05
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWFLdnlJV2pEd01VT0V0WHFodjdyVTE5VHF3ZmxDS2xQbkpNV3lHWnNpREFrUkNMRlU2alZISGEwTmhERFI2anpPSmFJLUV6a0FXS3RnR2VyNzBLbDIxV0RvbXdKcHdzRWhHamoxNGNIOEpld3NQbmdwQzMwTzRodG5GS2EtOFlYN09JWklHOVhKcHhweHpRdlZHeWptUWV4SWtsZlhMMGMyQUp2RFhwQnlxajRNUFJxcWt6VU9PODNyN00?oc=5)
+
+---
+
+### [Combatir la obesidad desde un enfoque integral, en "Consumo Cuidado" - Canal Sur](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlMxcWJib0RzU3g4NFU3aUxlSjBpTktwdjZmSHJFbVpxVm9jbjBQZUtvM3JtQnhhZURIX1BiTlRqUVlyb3lfeXI4Zk13N3RwMjlEcFZBUGVGeVlLNF82b1NXcURuVWVmYV9fTUQ2OGpvbFR3SlhyV0xqdTYxU1Y4ZnZtMWZBSko1eDh1SXBUcEFiTk9mR1pPQ0ktaWRmTlBP?oc=5)
+
+2026-11-04
+
+Source: [Canal Sur](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlMxcWJib0RzU3g4NFU3aUxlSjBpTktwdjZmSHJFbVpxVm9jbjBQZUtvM3JtQnhhZURIX1BiTlRqUVlyb3lfeXI4Zk13N3RwMjlEcFZBUGVGeVlLNF82b1NXcURuVWVmYV9fTUQ2OGpvbFR3SlhyV0xqdTYxU1Y4ZnZtMWZBSko1eDh1SXBUcEFiTk9mR1pPQ0ktaWRmTlBP?oc=5)
 
 ---
 
@@ -169,6 +185,14 @@ Source: [franceinfo](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWJDeX
 2026-11-02
 
 Source: [Ouest-France](https://news.google.com/rss/articles/CBMihgJBVV95cUxOOTh0UGF5ZEpRbUVaenhMS1RuUDBwY0RuZEhSaVpjOXhDVnRTVVdGbkJ0ZENRN3dtYk80VzRvYjFTT0p0YmRQenBGOEtZVmQ5aHFGWm9zVG1XUktWRHR0dHdMbVBMZlVTS0F2SUdIZHJJcDc0bS1VZ0V2SWkwSEt4RkVnV2RvRFdZMGpsUUgxNG1kcG1YdG5lVi1WcTE5QzhiUm11UGRDN3lxMVpxakp1dGc1VDNsdXBOQXJkVFBJQkNUQlRBLVJ1cjNWSjV4RGN5ZDJEUGEyLS1FMmh1Qno0WnpuVlJWTFByZ25HU3dIMlE0Tk9maHBoVEZVdFF4dFlPZ3lzQmJ3?oc=5)
+
+---
+
+### [Santé : le traitement anti-obésité Wegovy arrive en comprimé dans les pharmacies françaises, il ne sera pas remboursé - Sud Ouest](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZzdxQklyaXlRbjRYRUQ3RkNuWmFIS1J5THNxUTJHdHl2aTFtOXhxOGFRcm8xZE1Gd0Y4b2lZUmVOVFJwZWlaSEpLNE9RUWZmN3U0M2dSVk1nNi1xZnk4RldGOUtHbVhITXBjdUtXVkNlS3ptbDNocEFKYnJrUE9IaEVEbW12VXhnRzNLQ2JsZnpVajBYc053aWFkZmtnQ3N2OWFQTGswZ0g1MzZJTmdmX2JtOGlTWmt5NDVQd3l2NTBENzhON0lrRE9QTTBlbGp6bHJxTHBrRjU0MEJzY3FwaUhXdmRWamZiZG9Zejln?oc=5)
+
+2026-11-02
+
+Source: [Sud Ouest](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZzdxQklyaXlRbjRYRUQ3RkNuWmFIS1J5THNxUTJHdHl2aTFtOXhxOGFRcm8xZE1Gd0Y4b2lZUmVOVFJwZWlaSEpLNE9RUWZmN3U0M2dSVk1nNi1xZnk4RldGOUtHbVhITXBjdUtXVkNlS3ptbDNocEFKYnJrUE9IaEVEbW12VXhnRzNLQ2JsZnpVajBYc053aWFkZmtnQ3N2OWFQTGswZ0g1MzZJTmdmX2JtOGlTWmt5NDVQd3l2NTBENzhON0lrRE9QTTBlbGp6bHJxTHBrRjU0MEJzY3FwaUhXdmRWamZiZG9Zejln?oc=5)
 
 ---
 

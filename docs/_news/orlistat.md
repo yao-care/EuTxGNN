@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Orlistat. 1 predicted indications."
 permalink: /news/orlistat/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Orlistat News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>74 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>79 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (74)
+## Related News (79)
 
 ### [Desarrollan una estrategia con IA para prevenir el ictus en mujeres mayores](https://news.google.com/rss/articles/CBMizgFBVV95cUxQcXZFRUJTQkJqd25EcWE1ZFpULUcxWGw3ZWJKVWl1cVV6RHRCaXVlUHdOUHV0c2t4X2pfOXFLZ01zTnZzZmpVajd1ZjMwSndCb2FzMk5VMzBrbDBKYWpJRm80TDFxdXpPRjRKLVFiaWEzQjYzTDAyaGNjZW5heDhjY29DVjVia0xxWkFleUh0UEtwSGJKS3ZXYzVLMWc1cTQ3dU9XOVYzZ0NiYXlYQWpjWWpaYkRXclFfNGdhLXRGckFTQi1vd0Z3VmpxZnRhQQ?oc=5)
 
@@ -53,7 +53,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm
 
 ### [Más del 60% de pacientes con enfermedad renal crónica tiene obesidad pero el IMC solo la detecta en el 40%](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
 
-2026-11-05 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+2026-11-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
 
@@ -67,11 +67,27 @@ Source: [El Globalfarma](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdW
 
 ---
 
+### [Bluthochdruck: Nur 27 Prozent der Hochrisikopatienten erreichen den Zielwert](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNempzZlRTc3dyT0FfdEJNai05SExrMXk3RUZfVXgwUC1DdDltbWFfY3NVOUpVWHhwR3k4R2EzOVpabDBXTU4tT29kMWMxTjFDNlpvR05WdG5udnk5amJ2VUdudUdKMDFQZm9iOWpGbHpRejJxMVpNcnBWUC0xN2h5TjJEY2FST0RWUzktYjA1QXA1VTQyVjExT0ZQNkQ2TklPcDZTUmVheEtxWEFuVkNmalFNb3RjYWJObnUteVd1T0ljQQ?oc=5)
+
+2026-11-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNempzZlRTc3dyT0FfdEJNai05SExrMXk3RUZfVXgwUC1DdDltbWFfY3NVOUpVWHhwR3k4R2EzOVpabDBXTU4tT29kMWMxTjFDNlpvR05WdG5udnk5amJ2VUdudUdKMDFQZm9iOWpGbHpRejJxMVpNcnBWUC0xN2h5TjJEY2FST0RWUzktYjA1QXA1VTQyVjExT0ZQNkQ2TklPcDZTUmVheEtxWEFuVkNmalFNb3RjYWJObnUteVd1T0ljQQ?oc=5)
+
+---
+
 ### [Ictus, in Italia 100mila casi: come si può riconoscere tempestivamente? - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU0NJb2JlSTc0Z21vd3RRMlJad1kzeEJyb29QSFFPM3NTcEJSaGJWZm9VM3RoWGpvMER4eGhiMUE4SjJaR2VTeEdaYzhRLUZGd29sN2hxT0RsSUppc1ItN0FyUlFUa1VmZGlpMmJGdVZGQmlHYk03RGFaVnkyMzlMV2lRbkx3cFJSRzMwM1pNeTRJSF8tTGk0OTI4Rkt2eGhyVVVNU2VkVkRmSFZmMXVJVVBVSTM1dHdRQUpfWTIyOXQ3TFVlXy1LbjhOSXd2aDlBd2hDLWtia0tuZVlKVFJmb1d6dnVJVkN5RGxj0gHGAUFVX3lxTFBSMEJzSTFqMlNHQ0hjUzlBYUpBZDBld3hQYk5Xc3l4Qi1TTzQ2ZENVOE5tUmlJN0xwS3VKeWxYcUktN2lEVEJlSEc5dElLTTE2dF94bVFONHdWakw0ZWltMEpxbUlnYjl5M0U5TTZXV0pFQi1SNHRUM0JzQlFQQjlLMnljWktweXJxZFlaSk42Rk1jTmpJMGNJZldKT0dIampKckVWNUFDR2hXck9rTG53RzBtYm1YYjV5S3RvVlMzUFlfaEhWZw?oc=5)
 
 2026-11-05 <span class="news-indication-tag">stroke</span>
 
 Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU0NJb2JlSTc0Z21vd3RRMlJad1kzeEJyb29QSFFPM3NTcEJSaGJWZm9VM3RoWGpvMER4eGhiMUE4SjJaR2VTeEdaYzhRLUZGd29sN2hxT0RsSUppc1ItN0FyUlFUa1VmZGlpMmJGdVZGQmlHYk03RGFaVnkyMzlMV2lRbkx3cFJSRzMwM1pNeTRJSF8tTGk0OTI4Rkt2eGhyVVVNU2VkVkRmSFZmMXVJVVBVSTM1dHdRQUpfWTIyOXQ3TFVlXy1LbjhOSXd2aDlBd2hDLWtia0tuZVlKVFJmb1d6dnVJVkN5RGxj0gHGAUFVX3lxTFBSMEJzSTFqMlNHQ0hjUzlBYUpBZDBld3hQYk5Xc3l4Qi1TTzQ2ZENVOE5tUmlJN0xwS3VKeWxYcUktN2lEVEJlSEc5dElLTTE2dF94bVFONHdWakw0ZWltMEpxbUlnYjl5M0U5TTZXV0pFQi1SNHRUM0JzQlFQQjlLMnljWktweXJxZFlaSk42Rk1jTmpJMGNJZldKT0dIampKckVWNUFDR2hXck9rTG53RzBtYm1YYjV5S3RvVlMzUFlfaEhWZw?oc=5)
+
+---
+
+### [Las enfermeras comunitarias, un eslabón imprescindible para el abordaje y prevención de la obesidad - Diario Enfermero](https://news.google.com/rss/articles/CBMieEFVX3lxTFBvQnhwcjB0RkM5d2w0a1VwZzdheEF5RzhFS3ZRekpFZ2lCamY0SU9fZGN3S0NZWlI0SWpYcDNrazBTXzdKaHQ4aTZiX09YUDFqc0hucWlTcFExM2FWeElhOUZRbUFjMDdpV3NkOW1VcHN4Zl9Ib09uQw?oc=5)
+
+2026-11-05 <span class="news-indication-tag">obesidad</span>
+
+Source: [Diario Enfermero](https://news.google.com/rss/articles/CBMieEFVX3lxTFBvQnhwcjB0RkM5d2w0a1VwZzdheEF5RzhFS3ZRekpFZ2lCamY0SU9fZGN3S0NZWlI0SWpYcDNrazBTXzdKaHQ4aTZiX09YUDFqc0hucWlTcFExM2FWeElhOUZRbUFjMDdpV3NkOW1VcHN4Zl9Ib09uQw?oc=5)
 
 ---
 
@@ -131,6 +147,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2tzS
 
 ---
 
+### [Combatir la obesidad desde un enfoque integral, en "Consumo Cuidado" - Canal Sur](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlMxcWJib0RzU3g4NFU3aUxlSjBpTktwdjZmSHJFbVpxVm9jbjBQZUtvM3JtQnhhZURIX1BiTlRqUVlyb3lfeXI4Zk13N3RwMjlEcFZBUGVGeVlLNF82b1NXcURuVWVmYV9fTUQ2OGpvbFR3SlhyV0xqdTYxU1Y4ZnZtMWZBSko1eDh1SXBUcEFiTk9mR1pPQ0ktaWRmTlBP?oc=5)
+
+2026-11-04 <span class="news-indication-tag">obesidad</span>
+
+Source: [Canal Sur](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlMxcWJib0RzU3g4NFU3aUxlSjBpTktwdjZmSHJFbVpxVm9jbjBQZUtvM3JtQnhhZURIX1BiTlRqUVlyb3lfeXI4Zk13N3RwMjlEcFZBUGVGeVlLNF82b1NXcURuVWVmYV9fTUQ2OGpvbFR3SlhyV0xqdTYxU1Y4ZnZtMWZBSko1eDh1SXBUcEFiTk9mR1pPQ0ktaWRmTlBP?oc=5)
+
+---
+
 ### [Zweiten Schlaganfall vorbeugen: Diese Medikamente empfiehlt ein Neurologe - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUVFKZUNJNVFnY3JTcWdMSmVVbEN5eUZOdzlaeUtQSGRaTEROeTZXbTB6Y09XUTB6NGxDd2s4UFFpRmJEUTdkSTY3dXNwblNlX2dxZlVRbGdKN3Zob05QcHNKM0RfUkxWWkFuNXc2WGtGRV9xLXlUMVBtajdjLTFDMnpvbU9IRkpZZlJZMW5fSXozTjJUcjhYU2RmQkZWajZueEVZTTFUblVfYktvQlVETVF0VlVsNVZNVU5wRVdwM2FNMUdXTWhGZWlVcXBzYlFqZFpjRHkzM3VHYTZZLVZTc1VlWkJBbk9V?oc=5)
 
 2026-11-04 <span class="news-indication-tag">Schlaganfall</span>
@@ -152,6 +176,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc
 2026-11-04 <span class="news-indication-tag">stroke</span>
 
 Source: [il Giornale](https://news.google.com/rss/articles/CBMiuAJBVV95cUxON2xOb0QzTWdrcEZ4N3VXREZiMGF6bC1iaTRWR01BMnRwenJVZzRGNHhVTzl3ZlI3NEQzbWpKNW5HNlBDTnE2WTRFeE1IRnRMOGJKMXVQTnhQZFBsaHBNbEN0dU5rc3J1azNSV3R3Q0VmWTdLOVl6ZVllUXJGcXpVWU1tdFJjdElxOW5UZFBGa1h0MUxUbU5tYXVYRXc2WVlfUzVvOGRPOGJWTkkxQ3U2X0owb0ZIUzQ0NEEwTGg1VjVkRXJOeTFwaWxMeXB6bmFlMFVqcjJud19aaWxuYjYwSXQtV2JsTExoVE9odUNmckRaYlFKd0ZaSTk1a1lPaC1RWDBSRUxCNU05SVprUFRjRzVjWVFHWl9mR2VYV0ZyZjU2cW5OZ3JmUjdhaGdZakdXd1VNMElOY00?oc=5)
+
+---
+
+### [Trévenans. Journée de dépistage de l’hypertension artérielle : « Un tiers des patients ne savent pas qu’ils en ont » - L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3FpQmMzSnBlQlBRZHJ6d1FmcnhfWU9fU1NKcnBUcDA3ampUZTItMGVZMjA0NHdaUmdwQTRuYmdfVFJlSnFzT0J4SVV0cHVfSGliT2pjSGhhdXV3eU0wc08wNkkyMjBUZ1NOY29xS1NlNEZLYm1rQm9UZ1RCNl9hSFprX1FFUDBFdnJXMTZVY0liM04tRXVGODJYenVHLTZ3am1KY2dKRFlETVpJaXpTMmNEYlpOSm82UWpfN01CTnd2QVNsbjV2NEdZTDJ5MFE1akFENjRoYW92M2JXRmI4?oc=5)
+
+2026-11-04 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+Source: [L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3FpQmMzSnBlQlBRZHJ6d1FmcnhfWU9fU1NKcnBUcDA3ampUZTItMGVZMjA0NHdaUmdwQTRuYmdfVFJlSnFzT0J4SVV0cHVfSGliT2pjSGhhdXV3eU0wc08wNkkyMjBUZ1NOY29xS1NlNEZLYm1rQm9UZ1RCNl9hSFprX1FFUDBFdnJXMTZVY0liM04tRXVGODJYenVHLTZ3am1KY2dKRFlETVpJaXpTMmNEYlpOSm82UWpfN01CTnd2QVNsbjV2NEdZTDJ5MFE1akFENjRoYW92M2JXRmI4?oc=5)
 
 ---
 
@@ -368,6 +400,14 @@ Source: [Ouest-France](https://news.google.com/rss/articles/CBMihgJBVV95cUxOOTh0
 2026-11-02 <span class="news-indication-tag">stroke</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsanN4VTFEWlp6UzR1VDdPNmNBcFoxOHJDdFJueWV6WV9rMmE2cVlVbGZOa01pOXgydjY3cUR2QWFTelBFUmRjUkFuMnkxX0YxMW15X0hkR0hEajNTM3c?oc=5)
+
+---
+
+### [Santé : le traitement anti-obésité Wegovy arrive en comprimé dans les pharmacies françaises, il ne sera pas remboursé - Sud Ouest](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZzdxQklyaXlRbjRYRUQ3RkNuWmFIS1J5THNxUTJHdHl2aTFtOXhxOGFRcm8xZE1Gd0Y4b2lZUmVOVFJwZWlaSEpLNE9RUWZmN3U0M2dSVk1nNi1xZnk4RldGOUtHbVhITXBjdUtXVkNlS3ptbDNocEFKYnJrUE9IaEVEbW12VXhnRzNLQ2JsZnpVajBYc053aWFkZmtnQ3N2OWFQTGswZ0g1MzZJTmdmX2JtOGlTWmt5NDVQd3l2NTBENzhON0lrRE9QTTBlbGp6bHJxTHBrRjU0MEJzY3FwaUhXdmRWamZiZG9Zejln?oc=5)
+
+2026-11-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Sud Ouest](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZzdxQklyaXlRbjRYRUQ3RkNuWmFIS1J5THNxUTJHdHl2aTFtOXhxOGFRcm8xZE1Gd0Y4b2lZUmVOVFJwZWlaSEpLNE9RUWZmN3U0M2dSVk1nNi1xZnk4RldGOUtHbVhITXBjdUtXVkNlS3ptbDNocEFKYnJrUE9IaEVEbW12VXhnRzNLQ2JsZnpVajBYc053aWFkZmtnQ3N2OWFQTGswZ0g1MzZJTmdmX2JtOGlTWmt5NDVQd3l2NTBENzhON0lrRE9QTTBlbGp6bHJxTHBrRjU0MEJzY3FwaUhXdmRWamZiZG9Zejln?oc=5)
 
 ---
 

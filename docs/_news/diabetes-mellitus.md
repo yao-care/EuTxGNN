@@ -3,9 +3,9 @@ layout: default
 title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 48 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 50 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # diabetes (diabetes mellitus) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>48 news articles</strong> and 86 related drugs.
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>50 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,13 +64,21 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (48)
+## Related News (50)
 
 ### [Diabetes: Neues Implantat wirkt schon nach einer Stunde – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBhYm5WOWMwbjRuX1p1MXBIeG9uSXJTenhMUXRJRjU3MVQ0X2xOVS0xVnR5UHl4ZGl3eVg1MmJqbjRma0NzSlJlR0RuU1NSaUhVcEZMdk1iMklqalIxSzJYVGJUaFZEMXZyRzRjQ2p4ejdxY041NVVpMXhiYXk1SnlLb1NacVI4OXZ0RlYzUy1peXFaNWxOcEl1MFRiSFZSc0FTcTRXZTl3Vnh2bzJPTG92R0Q5c1VJVlVWZGl3RDFOdFBIMWlrUkVrV1Z1SzlYQldtRENCdGg3RE5NOA?oc=5)
 
-2026-11-05
+2026-11-06
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBhYm5WOWMwbjRuX1p1MXBIeG9uSXJTenhMUXRJRjU3MVQ0X2xOVS0xVnR5UHl4ZGl3eVg1MmJqbjRma0NzSlJlR0RuU1NSaUhVcEZMdk1iMklqalIxSzJYVGJUaFZEMXZyRzRjQ2p4ejdxY041NVVpMXhiYXk1SnlLb1NacVI4OXZ0RlYzUy1peXFaNWxOcEl1MFRiSFZSc0FTcTRXZTl3Vnh2bzJPTG92R0Q5c1VJVlVWZGl3RDFOdFBIMWlrUkVrV1Z1SzlYQldtRENCdGg3RE5NOA?oc=5)
+
+---
+
+### [Más del 60% de pacientes con enfermedad renal crónica tiene obesidad pero el IMC solo la detecta en el 40%](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
+
+2026-11-05
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
 
 ---
 
@@ -103,6 +111,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeU
 2026-11-05
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWFLdnlJV2pEd01VT0V0WHFodjdyVTE5VHF3ZmxDS2xQbkpNV3lHWnNpREFrUkNMRlU2alZISGEwTmhERFI2anpPSmFJLUV6a0FXS3RnR2VyNzBLbDIxV0RvbXdKcHdzRWhHamoxNGNIOEpld3NQbmdwQzMwTzRodG5GS2EtOFlYN09JWklHOVhKcHhweHpRdlZHeWptUWV4SWtsZlhMMGMyQUp2RFhwQnlxajRNUFJxcWt6VU9PODNyN00?oc=5)
+
+---
+
+### [Prädiabetes: GLP-1-Medikamente senken Diabetesrisiko um 31 Prozent](https://news.google.com/rss/articles/CBMitgFBVV95cUxPOUFJQzhpRDB1ZXpJdkVkNUNjMTVNMUJHM3N5Y3JaQ1I5eGdEYmR6Tm5vbHR6MnVWSGtuTi0tcWdOYVprXy1XMl9Yc3FRcGVsNlJ3cV8wVWRpU1NxQkZZUXNvZV9pbGR1Vm10VWc5d1NPRWxxMzhPMWxfZ2N6d1dvTkxKbk92VmpFeXE0Q0dYdkUxMmJFc3BMOVJ2RG8xSDJTUktNcWp2WFc2Y2liNHVfLXlmelpNZw?oc=5)
+
+2026-11-05
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxPOUFJQzhpRDB1ZXpJdkVkNUNjMTVNMUJHM3N5Y3JaQ1I5eGdEYmR6Tm5vbHR6MnVWSGtuTi0tcWdOYVprXy1XMl9Yc3FRcGVsNlJ3cV8wVWRpU1NxQkZZUXNvZV9pbGR1Vm10VWc5d1NPRWxxMzhPMWxfZ2N6d1dvTkxKbk92VmpFeXE0Q0dYdkUxMmJFc3BMOVJ2RG8xSDJTUktNcWp2WFc2Y2liNHVfLXlmelpNZw?oc=5)
 
 ---
 

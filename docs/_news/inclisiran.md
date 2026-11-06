@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Inclisiran. 9 predicted indications."
 permalink: /news/inclisiran/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-06
 ---
 
 # Inclisiran News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Inclisiran?">
-<strong>Inclisiran</strong> currently has <strong>3 news articles</strong>, with 9 predicted indications.
+<strong>Inclisiran</strong> currently has <strong>4 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Inclisiran with the latest h
 <p><a href="{{ '/drugs/inclisiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Emicrania, un freno al dolore stimolando il nervo vago: che cosa dicono gli studi e quali cure sono disponibili](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYndHQV9jNnVrSmNjc2M1eVVUWE5FTkxvZlJ5a2JVM1dvbjNFTGJGamt5Z1BPVlVMUmtEeWRucDg0WGRQZVo3dGFUbkNBdG1hdXc1d1N4elhxcC1oR1hZV0QyRUE5eEtyLWQtV0t5bkQwR3pQODVpODNOcXZDbXhKd0lhM19DRXVYaW9wM2dzanpsSkhRWldLVkdtSHN2V0VVMVdacXJaVGFMN0QxbHNkOHNyQUVodFdTOWhydmd3T01QRDl1d1h0UENjb3pfMDFWbnZ3NGNmaG5hYXZ1djNCYnRYTWU0MlpMQUdYSlVEZElWQQ?oc=5)
+
+2026-11-05 <span class="news-indication-tag">emicrania</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYndHQV9jNnVrSmNjc2M1eVVUWE5FTkxvZlJ5a2JVM1dvbjNFTGJGamt5Z1BPVlVMUmtEeWRucDg0WGRQZVo3dGFUbkNBdG1hdXc1d1N4elhxcC1oR1hZV0QyRUE5eEtyLWQtV0t5bkQwR3pQODVpODNOcXZDbXhKd0lhM19DRXVYaW9wM2dzanpsSkhRWldLVkdtSHN2V0VVMVdacXJaVGFMN0QxbHNkOHNyQUVodFdTOWhydmd3T01QRDl1d1h0UENjb3pfMDFWbnZ3NGNmaG5hYXZ1djNCYnRYTWU0MlpMQUdYSlVEZElWQQ?oc=5)
+
+---
 
 ### [Colesterolo alto: inclisiran e acido bempedoico a confronto nello studio ESC](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZnNGd29KRzBpR0J6cklFbHRJUE5VTGVlelpRTVpibnlqXzZFSlNjX2dBNWR6SUNuODZ3YUM2UzR3OW1qSURKWTBaYlhONzltMTRtLXFJV1RBYUtPRllkaGM1ZzB0T2hBWlF2ZDBia0Z4S1FsMHpBYTFhR0lBb1pERklqYTAxWnZjYllHekpoemxHSHVxUDdyZkhwa2FHUGJGc1dLMGgxcUgxU1NaQkZtOTNHZEs4OWxWMXMtU2hydV9SVlE?oc=5)
 
