@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ustekinumab. Original indication: The link to dermatitis is only partial. Atopic der.... 10 predicted indications."
 permalink: /news/ustekinumab/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Ustekinumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Ustekinumab?">
-<strong>Ustekinumab</strong> currently has <strong>53 news articles</strong>, with 10 predicted indications.
+<strong>Ustekinumab</strong> currently has <strong>55 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -43,13 +43,21 @@ This page combines the AI-predicted indications for Ustekinumab with the latest 
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (53)
+## Related News (55)
 
 ### [Diabetes: Neues Implantat wirkt schon nach einer Stunde – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBhYm5WOWMwbjRuX1p1MXBIeG9uSXJTenhMUXRJRjU3MVQ0X2xOVS0xVnR5UHl4ZGl3eVg1MmJqbjRma0NzSlJlR0RuU1NSaUhVcEZMdk1iMklqalIxSzJYVGJUaFZEMXZyRzRjQ2p4ejdxY041NVVpMXhiYXk1SnlLb1NacVI4OXZ0RlYzUy1peXFaNWxOcEl1MFRiSFZSc0FTcTRXZTl3Vnh2bzJPTG92R0Q5c1VJVlVWZGl3RDFOdFBIMWlrUkVrV1Z1SzlYQldtRENCdGg3RE5NOA?oc=5)
 
-2026-11-05 <span class="news-indication-tag">diabetes</span>
+2026-11-06 <span class="news-indication-tag">diabetes</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBhYm5WOWMwbjRuX1p1MXBIeG9uSXJTenhMUXRJRjU3MVQ0X2xOVS0xVnR5UHl4ZGl3eVg1MmJqbjRma0NzSlJlR0RuU1NSaUhVcEZMdk1iMklqalIxSzJYVGJUaFZEMXZyRzRjQ2p4ejdxY041NVVpMXhiYXk1SnlLb1NacVI4OXZ0RlYzUy1peXFaNWxOcEl1MFRiSFZSc0FTcTRXZTl3Vnh2bzJPTG92R0Q5c1VJVlVWZGl3RDFOdFBIMWlrUkVrV1Z1SzlYQldtRENCdGg3RE5NOA?oc=5)
+
+---
+
+### [Más del 60% de pacientes con enfermedad renal crónica tiene obesidad pero el IMC solo la detecta en el 40%](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
+
+2026-11-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
 
 ---
 
@@ -82,6 +90,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeU
 2026-11-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWFLdnlJV2pEd01VT0V0WHFodjdyVTE5VHF3ZmxDS2xQbkpNV3lHWnNpREFrUkNMRlU2alZISGEwTmhERFI2anpPSmFJLUV6a0FXS3RnR2VyNzBLbDIxV0RvbXdKcHdzRWhHamoxNGNIOEpld3NQbmdwQzMwTzRodG5GS2EtOFlYN09JWklHOVhKcHhweHpRdlZHeWptUWV4SWtsZlhMMGMyQUp2RFhwQnlxajRNUFJxcWt6VU9PODNyN00?oc=5)
+
+---
+
+### [Prädiabetes: GLP-1-Medikamente senken Diabetesrisiko um 31 Prozent](https://news.google.com/rss/articles/CBMitgFBVV95cUxPOUFJQzhpRDB1ZXpJdkVkNUNjMTVNMUJHM3N5Y3JaQ1I5eGdEYmR6Tm5vbHR6MnVWSGtuTi0tcWdOYVprXy1XMl9Yc3FRcGVsNlJ3cV8wVWRpU1NxQkZZUXNvZV9pbGR1Vm10VWc5d1NPRWxxMzhPMWxfZ2N6d1dvTkxKbk92VmpFeXE0Q0dYdkUxMmJFc3BMOVJ2RG8xSDJTUktNcWp2WFc2Y2liNHVfLXlmelpNZw?oc=5)
+
+2026-11-05 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxPOUFJQzhpRDB1ZXpJdkVkNUNjMTVNMUJHM3N5Y3JaQ1I5eGdEYmR6Tm5vbHR6MnVWSGtuTi0tcWdOYVprXy1XMl9Yc3FRcGVsNlJ3cV8wVWRpU1NxQkZZUXNvZV9pbGR1Vm10VWc5d1NPRWxxMzhPMWxfZ2N6d1dvTkxKbk92VmpFeXE0Q0dYdkUxMmJFc3BMOVJ2RG8xSDJTUktNcWp2WFc2Y2liNHVfLXlmelpNZw?oc=5)
 
 ---
 

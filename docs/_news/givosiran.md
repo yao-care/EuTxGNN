@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Givosiran. 9 predicted indications."
 permalink: /news/givosiran/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Givosiran News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>24 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>26 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,29 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (24)
+## Related News (26)
+
+### [Más del 60% de pacientes con enfermedad renal crónica tiene obesidad pero el IMC solo la detecta en el 40%](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
+
+2026-11-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
+
+---
 
 ### [Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies - Al Jazeera](https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1laRGZHY1N5OGs3Y1NVcDFzcFk1UVh5WlpSbllkaDZXSUE4TkQtY1lrM05PcVVhWjg4UlpWSjVJbGRwd0JHZnhaVkNPenpCX2lfUmFkTFVCY3B4NWdHdDFSTmJyeXhUZmduTzhRR21Ybmx0MllsODUzcjBlZHpZSnU4bGRGWFYtbDh5WDVIbVpqbHhVbW1LZlZpM2JPRDJpZ1FVT3IzTnp4YzVQVjRsb1pWOU4zelXSAbwBQVVfeXFMTnBNNVFHUFBrSGlHSjg1cjBYY09CTnJLa0tNRGpib3ZlTkM5ZEtia3dZbVFQcHJUa3J3dzZnU2k3cjdsR2puOVBXT3hnWHplcHN4OThuRm5JSUtWSE9maGxMckVFb1hrc3kxaXR3OTRoRnB6X2hlV3Z3aTRkdWVKbkZvTGRJMEhxWE5UX0FaSjI5cEdLc2tadkwzN29QeVJzQ2dnNGF3eGYwNVN3ZlFMaVItUUttWFRxTUdIYVE?oc=5)
 
 2026-11-05 <span class="news-indication-tag">hepatitis</span>
 
 Source: [Al Jazeera](https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1laRGZHY1N5OGs3Y1NVcDFzcFk1UVh5WlpSbllkaDZXSUE4TkQtY1lrM05PcVVhWjg4UlpWSjVJbGRwd0JHZnhaVkNPenpCX2lfUmFkTFVCY3B4NWdHdDFSTmJyeXhUZmduTzhRR21Ybmx0MllsODUzcjBlZHpZSnU4bGRGWFYtbDh5WDVIbVpqbHhVbW1LZlZpM2JPRDJpZ1FVT3IzTnp4YzVQVjRsb1pWOU4zelXSAbwBQVVfeXFMTnBNNVFHUFBrSGlHSjg1cjBYY09CTnJLa0tNRGpib3ZlTkM5ZEtia3dZbVFQcHJUa3J3dzZnU2k3cjdsR2puOVBXT3hnWHplcHN4OThuRm5JSUtWSE9maGxMckVFb1hrc3kxaXR3OTRoRnB6X2hlV3Z3aTRkdWVKbkZvTGRJMEhxWE5UX0FaSjI5cEdLc2tadkwzN29QeVJzQ2dnNGF3eGYwNVN3ZlFMaVItUUttWFRxTUdIYVE?oc=5)
+
+---
+
+### [Bluthochdruck: Nur 27 Prozent der Hochrisikopatienten erreichen den Zielwert](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNempzZlRTc3dyT0FfdEJNai05SExrMXk3RUZfVXgwUC1DdDltbWFfY3NVOUpVWHhwR3k4R2EzOVpabDBXTU4tT29kMWMxTjFDNlpvR05WdG5udnk5amJ2VUdudUdKMDFQZm9iOWpGbHpRejJxMVpNcnBWUC0xN2h5TjJEY2FST0RWUzktYjA1QXA1VTQyVjExT0ZQNkQ2TklPcDZTUmVheEtxWEFuVkNmalFNb3RjYWJObnUteVd1T0ljQQ?oc=5)
+
+2026-11-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNempzZlRTc3dyT0FfdEJNai05SExrMXk3RUZfVXgwUC1DdDltbWFfY3NVOUpVWHhwR3k4R2EzOVpabDBXTU4tT29kMWMxTjFDNlpvR05WdG5udnk5amJ2VUdudUdKMDFQZm9iOWpGbHpRejJxMVpNcnBWUC0xN2h5TjJEY2FST0RWUzktYjA1QXA1VTQyVjExT0ZQNkQ2TklPcDZTUmVheEtxWEFuVkNmalFNb3RjYWJObnUteVd1T0ljQQ?oc=5)
 
 ---
 
@@ -85,7 +101,7 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc
 
 ### [Trévenans. Journée de dépistage de l’hypertension artérielle : « Un tiers des patients ne savent pas qu’ils en ont » - L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3FpQmMzSnBlQlBRZHJ6d1FmcnhfWU9fU1NKcnBUcDA3ampUZTItMGVZMjA0NHdaUmdwQTRuYmdfVFJlSnFzT0J4SVV0cHVfSGliT2pjSGhhdXV3eU0wc08wNkkyMjBUZ1NOY29xS1NlNEZLYm1rQm9UZ1RCNl9hSFprX1FFUDBFdnJXMTZVY0liM04tRXVGODJYenVHLTZ3am1KY2dKRFlETVpJaXpTMmNEYlpOSm82UWpfN01CTnd2QVNsbjV2NEdZTDJ5MFE1akFENjRoYW92M2JXRmI4?oc=5)
 
-2026-11-04 <span class="news-indication-tag">hypertension</span>
+2026-11-04 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
 
 Source: [L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3FpQmMzSnBlQlBRZHJ6d1FmcnhfWU9fU1NKcnBUcDA3ampUZTItMGVZMjA0NHdaUmdwQTRuYmdfVFJlSnFzT0J4SVV0cHVfSGliT2pjSGhhdXV3eU0wc08wNkkyMjBUZ1NOY29xS1NlNEZLYm1rQm9UZ1RCNl9hSFprX1FFUDBFdnJXMTZVY0liM04tRXVGODJYenVHLTZ3am1KY2dKRFlETVpJaXpTMmNEYlpOSm82UWpfN01CTnd2QVNsbjV2NEdZTDJ5MFE1akFENjRoYW92M2JXRmI4?oc=5)
 

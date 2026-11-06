@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "tumor (cancer) News"
+title: "Krebs (cancer) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 121 articles, 229 related drugs."
+description: "Health news about Krebs (cancer). 122 articles, 229 related drugs."
 permalink: /news/cancer/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
-# tumor (cancer) News
+# Krebs (cancer) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>121 news articles</strong> and 229 related drugs.
+<p class="key-answer" data-question="What news is there about Krebs (cancer)?">
+<strong>Krebs (cancer)</strong> currently has <strong>122 news articles</strong> and 229 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “tumor” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Krebs” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -190,7 +190,15 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (121)
+## Related News (122)
+
+### [Krebs: Dieser Lebensstil begünstigt Erkrankungen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSFBpN3JVaGY0cEdxRDFGN3JqSy03bnhKVjhrTmdLUGtrbjZrd1lQYnZ1UXh1c1d5UFRnYkJtcUtZbHBVS0NncXhBdVZETWQxZHZBcENpY25ZQ3lfUVpUZTNhWDBZYXZqcE8wYmkxcmxZT0YxSDF0djRlV3JoWUZSZHVLdWNsMUpHTGwyeUVoNUtaWmRhQXJuOWNHa1lMUDFieGltSUFEeVkwMjV2aUpXaEluQQ?oc=5)
+
+2026-11-06
+
+Source: [WELT](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSFBpN3JVaGY0cEdxRDFGN3JqSy03bnhKVjhrTmdLUGtrbjZrd1lQYnZ1UXh1c1d5UFRnYkJtcUtZbHBVS0NncXhBdVZETWQxZHZBcENpY25ZQ3lfUVpUZTNhWDBZYXZqcE8wYmkxcmxZT0YxSDF0djRlV3JoWUZSZHVLdWNsMUpHTGwyeUVoNUtaWmRhQXJuOWNHa1lMUDFieGltSUFEeVkwMjV2aUpXaEluQQ?oc=5)
+
+---
 
 ### [Jessica Scarpa, la Regione acquisterà dagli Usa il nuovo farmaco contro il tumore al pancreas: «Che gioia, ma non sia solo per me» - Corriere Milano](https://news.google.com/rss/articles/CBMivgJBVV95cUxPNGs4N2w0cWYzMjA4SURGcnVfRjNWQlZuekpWam9ldWVRX0M2b2FpTk1TQTlOZmJic2VYc05ZX2pTVVRIYW9FM0R0NEE4YlpRTHJWRjBiUkMxdWdFalphREpKOWtKZVM4aUVESXFfVU5KVklIZzFYOXZYU01MMnZ2NlVhc3dHUG1RaDhwS05HbDFHZ0s2LVZ1SHRHUXFFM3BTVTB0ZG8xaC1FSFdReG5hNm84V21nbTJRSmJNT1NDQm9EaE11bUI5VHkwZlVDN2hzUmZtREJaSUF6YlV0Z1BYSjBVTExoZWlka01QTUxKQ1JFblhvZVRWRHNxaEFrSzg0VFRFd19lMFlaT2NZa0lIejh0NDc0MHdSVnRJR21KX1VwUmluZHVlLUV4NndBdjZmMVZwaUhRNEhLbUloU3fSAcMCQVVfeXFMTUJZS0Zmb0hISE5zZHF6Z2I4MC1rTXV3TWV5blR0d1p5blJvMDVOczJXbFdiTGp6VlNXWEtkSk45YXRIT1E1REEtY0F1UHYwNUtFOEhCX21RZVRwalBfMVNyT2dJQ2QxRU5MUlpvWmlMWFVBekJ5OFBKYXYzaHNFS0dnNXJwRHQ3UUloYXhjdHZTQ3JFalpUMG1fb055RWI0MnBPbTVuMDNiSFpCc3FtbkhBeUNUS3I0N3NhUUk0Wk84WGZ3YWJpZ2ZQb1dVbTlJVy1CeENTazRMYTJRWmdMdUdmcFR2VVp2dGtMelhEUkdkNThOYVJGWlJ1YXNfZExzYmU4NXZoVThldlA5WGdwZFZiOVVyOGdMNE1sanBCZnVJVnFzZzRsTUlHYUZEV3E3VTVrU1d3ZHRPMjhwc3FOUGpjRHM?oc=5)
 

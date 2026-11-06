@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Entacapone. 10 predicted indications."
 permalink: /news/entacapone/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Entacapone News
@@ -86,7 +86,7 @@ Source: [Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUFm
 
 ### [Researchers Think Gut Supplements Could Have Anti-Dementia Benefits - HuffPost UK](https://news.google.com/rss/articles/CBMingFBVV95cUxOeFl5a1RzUkFOb2JybGw5M0xaeTdHRElMeklyMVR4bTVmR0hEb2VfWkxhemJVQVRwMGJxb20tSm1fMDgwX2hDTnA4MGh3T2xiUktsUXZCQ19ERTU1X2RfUlpTeU11bFB1MEd1Q2M3NXFYa2ppdU5abENaWFVDRW1mdnQtd3hWVGI0Z0szcWZuWF8zb2w5a0NQNEJxN3RUUQ?oc=5)
 
-2026-11-03 <span class="news-indication-tag">dementia</span>
+2026-11-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">Parkinson's</span>
 
 Source: [HuffPost UK](https://news.google.com/rss/articles/CBMingFBVV95cUxOeFl5a1RzUkFOb2JybGw5M0xaeTdHRElMeklyMVR4bTVmR0hEb2VfWkxhemJVQVRwMGJxb20tSm1fMDgwX2hDTnA4MGh3T2xiUktsUXZCQ19ERTU1X2RfUlpTeU11bFB1MEd1Q2M3NXFYa2ppdU5abENaWFVDRW1mdnQtd3hWVGI0Z0szcWZuWF8zb2w5a0NQNEJxN3RUUQ?oc=5)
 

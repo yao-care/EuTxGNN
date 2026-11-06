@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Olaparib. 0 predicted indications."
 permalink: /news/olaparib/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Olaparib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Olaparib?">
-<strong>Olaparib</strong> currently has <strong>121 news articles</strong>, with 0 predicted indications.
+<strong>Olaparib</strong> currently has <strong>123 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Olaparib with the latest hea
 <p><a href="{{ '/drugs/olaparib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (121)
+## Related News (123)
+
+### [Krebs: Dieser Lebensstil begünstigt Erkrankungen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSFBpN3JVaGY0cEdxRDFGN3JqSy03bnhKVjhrTmdLUGtrbjZrd1lQYnZ1UXh1c1d5UFRnYkJtcUtZbHBVS0NncXhBdVZETWQxZHZBcENpY25ZQ3lfUVpUZTNhWDBZYXZqcE8wYmkxcmxZT0YxSDF0djRlV3JoWUZSZHVLdWNsMUpHTGwyeUVoNUtaWmRhQXJuOWNHa1lMUDFieGltSUFEeVkwMjV2aUpXaEluQQ?oc=5)
+
+2026-11-06 <span class="news-indication-tag">Krebs</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSFBpN3JVaGY0cEdxRDFGN3JqSy03bnhKVjhrTmdLUGtrbjZrd1lQYnZ1UXh1c1d5UFRnYkJtcUtZbHBVS0NncXhBdVZETWQxZHZBcENpY25ZQ3lfUVpUZTNhWDBZYXZqcE8wYmkxcmxZT0YxSDF0djRlV3JoWUZSZHVLdWNsMUpHTGwyeUVoNUtaWmRhQXJuOWNHa1lMUDFieGltSUFEeVkwMjV2aUpXaEluQQ?oc=5)
+
+---
 
 ### [Jessica Scarpa, la Regione acquisterà dagli Usa il nuovo farmaco contro il tumore al pancreas: «Che gioia, ma non sia solo per me» - Corriere Milano](https://news.google.com/rss/articles/CBMivgJBVV95cUxPNGs4N2w0cWYzMjA4SURGcnVfRjNWQlZuekpWam9ldWVRX0M2b2FpTk1TQTlOZmJic2VYc05ZX2pTVVRIYW9FM0R0NEE4YlpRTHJWRjBiUkMxdWdFalphREpKOWtKZVM4aUVESXFfVU5KVklIZzFYOXZYU01MMnZ2NlVhc3dHUG1RaDhwS05HbDFHZ0s2LVZ1SHRHUXFFM3BTVTB0ZG8xaC1FSFdReG5hNm84V21nbTJRSmJNT1NDQm9EaE11bUI5VHkwZlVDN2hzUmZtREJaSUF6YlV0Z1BYSjBVTExoZWlka01QTUxKQ1JFblhvZVRWRHNxaEFrSzg0VFRFd19lMFlaT2NZa0lIejh0NDc0MHdSVnRJR21KX1VwUmluZHVlLUV4NndBdjZmMVZwaUhRNEhLbUloU3fSAcMCQVVfeXFMTUJZS0Zmb0hISE5zZHF6Z2I4MC1rTXV3TWV5blR0d1p5blJvMDVOczJXbFdiTGp6VlNXWEtkSk45YXRIT1E1REEtY0F1UHYwNUtFOEhCX21RZVRwalBfMVNyT2dJQ2QxRU5MUlpvWmlMWFVBekJ5OFBKYXYzaHNFS0dnNXJwRHQ3UUloYXhjdHZTQ3JFalpUMG1fb055RWI0MnBPbTVuMDNiSFpCc3FtbkhBeUNUS3I0N3NhUUk0Wk84WGZ3YWJpZ2ZQb1dVbTlJVy1CeENTazRMYTJRWmdMdUdmcFR2VVp2dGtMelhEUkdkNThOYVJGWlJ1YXNfZExzYmU4NXZoVThldlA5WGdwZFZiOVVyOGdMNE1sanBCZnVJVnFzZzRsTUlHYUZEV3E3VTVrU1d3ZHRPMjhwc3FOUGpjRHM?oc=5)
 
@@ -69,6 +77,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSk4
 2026-11-05 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">tumor</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSjhER0kwVmtHWlY1R2FQUkF2LWRnS3UxQlJQekkyR3VHYTh0OHFpeGdUUmxqc3UtaVpTZFRUOHZ5SWFsekNGZzZMdzZzSTRNSDJVWW5lOGJ1RXc1UkFOMGNtQm1sbXc2WXFNU1FwUk1kZkRVek5WS2NISnIydUJtVndzUldtZDRBN2Ewd1R4Rks2Y2RtR3ZWc0k0eGtZOTBFeWFaLTd6X0Y3Rm0xNXdFZ2ZKX1ZCZEloVDV6YkY1ai1QZ9IBvAFBVV95cUxOSG9pN0hHNzRrcWhwclNuZlFPR2R0TlFQd3BiWjI1Nms4X1c0YXlQSFpLX0dmb0tLZDZpRHg3SWlLTWFlMlhqVzh1U2hxd2RicWNSVlh4cUdTRzFGY0dKbzl5VVVrRmFaazRFb0p6b1IzVkpXTWZRdTAtQml2V2pIYUo3RVZKY0ZURmNzUHFPeUlQTkFXby1IaTJaZWxOQUZGS3F4WlVZTjE1M2stYW9INVR5YmxCZE96X05pcg?oc=5)
+
+---
+
+### [Mögliche genabhängige Wirksamkeit von Olaparib plus Abirateron - Gelbe Liste](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXNtNG1VUXQwVWxrSy1mME1YVHB5S0dDOW1ZUXN3bGl5cFNUNzFSczNDLU5LeHFsYUQtS3M0MF9nUnNFY0Rtd1ZuVU1DaDkxZWlQQjVpQUowSmJRbDlSVXhubTZFdTQxdGc4NEljQVVMeHg3STZ6LXZsVUM1OG02STRCNHhvRTl0S2p6QklOWGRKNUpxZGhqMWsxbktGLUdtckE?oc=5)
+
+2026-11-05 <span class="news-drug-tag">Olaparib</span>
+
+Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXNtNG1VUXQwVWxrSy1mME1YVHB5S0dDOW1ZUXN3bGl5cFNUNzFSczNDLU5LeHFsYUQtS3M0MF9nUnNFY0Rtd1ZuVU1DaDkxZWlQQjVpQUowSmJRbDlSVXhubTZFdTQxdGc4NEljQVVMeHg3STZ6LXZsVUM1OG02STRCNHhvRTl0S2p6QklOWGRKNUpxZGhqMWsxbktGLUdtckE?oc=5)
 
 ---
 

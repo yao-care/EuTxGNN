@@ -3,9 +3,9 @@ layout: default
 title: "hipertensión (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hipertensión (hypertension). 22 articles, 55 related drugs."
+description: "Health news about hipertensión (hypertension). 24 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # hipertensión (hypertension) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about hipertensión (hypertension)?">
-<strong>hipertensión (hypertension)</strong> currently has <strong>22 news articles</strong> and 55 related drugs.
+<strong>hipertensión (hypertension)</strong> currently has <strong>24 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -60,7 +60,23 @@ This page brings together the latest health news about “hipertensión” and l
 </ul>
 </div>
 
-## Related News (22)
+## Related News (24)
+
+### [Más del 60% de pacientes con enfermedad renal crónica tiene obesidad pero el IMC solo la detecta en el 40%](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
+
+2026-11-05
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
+
+---
+
+### [Bluthochdruck: Nur 27 Prozent der Hochrisikopatienten erreichen den Zielwert](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNempzZlRTc3dyT0FfdEJNai05SExrMXk3RUZfVXgwUC1DdDltbWFfY3NVOUpVWHhwR3k4R2EzOVpabDBXTU4tT29kMWMxTjFDNlpvR05WdG5udnk5amJ2VUdudUdKMDFQZm9iOWpGbHpRejJxMVpNcnBWUC0xN2h5TjJEY2FST0RWUzktYjA1QXA1VTQyVjExT0ZQNkQ2TklPcDZTUmVheEtxWEFuVkNmalFNb3RjYWJObnUteVd1T0ljQQ?oc=5)
+
+2026-11-05
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNempzZlRTc3dyT0FfdEJNai05SExrMXk3RUZfVXgwUC1DdDltbWFfY3NVOUpVWHhwR3k4R2EzOVpabDBXTU4tT29kMWMxTjFDNlpvR05WdG5udnk5amJ2VUdudUdKMDFQZm9iOWpGbHpRejJxMVpNcnBWUC0xN2h5TjJEY2FST0RWUzktYjA1QXA1VTQyVjExT0ZQNkQ2TklPcDZTUmVheEtxWEFuVkNmalFNb3RjYWJObnUteVd1T0ljQQ?oc=5)
+
+---
 
 ### [A partir de los 65 años, comer cacahuetes a diario está muy bien, pero solo funciona si lo consumes de esta forma para evitar la hipertensión - El Economista](https://news.google.com/rss/articles/CBMixwJBVV95cUxOZm9wUmxWdkEzU3N2MGJYVG92QkoxTjVBSU9YaXBfQkpiSGltZmVkQi1ZY3BMZ1lFUkNxaGVCUmRoNF9GbXVheU1Qc0FleFBqSEVDQkwxVmE2c1VoQkhCSVZ4eVFMdFl3S1dVaEdjX1RlaVdXWE5xeWU1enVEVmlPajRaM0JvS19FX1hGOUhZeHVtVUlfbVlSYUdmVWJkNVJxeEJ0N1h4Y3YtYTdSSTUxeXg5b05wQ3V4VXhwNWk3cGtPcFZnZDFHeEZwaGQ0cUV1cWhmQnRGRkFIRVNzemNKSXp1eE9NTERRNWY3aUdUR3pkcnpZdklVdjNRLTFRTTh4VzNKM2RFVHloeFNkdzMwNDV0am9WenpFZUpscVk0MjJXUWNYanRTVVFCOXMtUFlYNmZsYm9OOG5TNEEtdFViZnFnWFFlQ1HSAbICQVVfeXFMTTAxUjBKY1ZYcDM5dXhGdG9zeWVBeXBzNzdiSk1tNlBtYXVHU292bC1fMEkzNlFqUVQ2RldSQS1WdkUwcFdoekRCclFPYnAwdlpiN3VkR0hnSFJ1YTFVYWlIVm41bEF1R1BDT2dxTkUwRUhIWmljMXhrM1dJaGJJd0tQVkpoVE4zenR4d3p6ZHlNcjhVNWZ4WHhuUFNVSE5VdW5oSGx0VG56eWdYbXVSbWh0NzNzSG90Q2J1ZENtT3g0R0lpekZyTG1hNTNXVEV0WEl0VnNTbFk0S0NxTEJQUWtkOHRkUkdDUUJ3emYydlRCUFdUQzJvOUZ1YV8xOVp2UXB1ek5sX0lMazJONmdUSmNfeFEwZzRFd0tVX0dOaUJQbWhXWnpfMjhRbHNvU09NMUp3?oc=5)
 
