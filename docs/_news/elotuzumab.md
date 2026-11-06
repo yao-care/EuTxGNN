@@ -3,7 +3,7 @@ layout: default
 title: "Elotuzumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Elotuzumab. Original indication: However, the high score (0.986) mostly reflects cl.... 0 predicted indications."
+description: "Health news related to Elotuzumab. 0 predicted indications."
 permalink: /news/elotuzumab/
 last_modified_at: 2026-11-06
 ---
@@ -25,8 +25,7 @@ This page combines the AI-predicted indications for Elotuzumab with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: However, the high score (0.986) mostly reflects closeness to the existing label rather than a new repurposing signal. The one supporting paper is a general review of multiple myeloma and offers only...</li>
-<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Evidence level</strong>: N/A</li>
 </ul>
 <p><a href="{{ '/drugs/elotuzumab/' | relative_url }}">View full drug report →</a></p>
 </div>

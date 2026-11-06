@@ -3,9 +3,9 @@ layout: default
 title: "Reteplase News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Reteplase. Original indication: urrently there are **0 registered clinical trials*.... 7 predicted indications."
+description: "Health news related to Reteplase. 7 predicted indications."
 permalink: /news/reteplase/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Reteplase News
@@ -25,8 +25,7 @@ This page combines the AI-predicted indications for Reteplase with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: urrently there are **0 registered clinical trials** and **1 publication** (a case report) directly supporting this prediction.</li>
-<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (7)</strong>:<ul>
 <li>congenital coronary artery anomaly</li>
 <li>coronary stenosis</li>

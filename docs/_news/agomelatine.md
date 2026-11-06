@@ -3,9 +3,9 @@ layout: default
 title: "Agomelatine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Agomelatine. Original indication: For context, other top-ranked predictions are more.... 7 predicted indications."
+description: "Health news related to Agomelatine. 7 predicted indications."
 permalink: /news/agomelatine/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Agomelatine News
@@ -25,7 +25,6 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: For context, other top-ranked predictions are more plausible. Agoraphobia (score 99.95%) has an indirect anxiolytic rationale. Melancholia, neurotic depression and dysthymic disorder are depressive...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (7)</strong>:<ul>
 <li>benign paroxysmal torticollis of infancy</li>

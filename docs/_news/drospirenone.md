@@ -3,9 +3,9 @@ layout: default
 title: "Drospirenone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Drospirenone. Original indication: For full warnings and contraindications, please re.... 0 predicted indications."
+description: "Health news related to Drospirenone. 0 predicted indications."
 permalink: /news/drospirenone/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 ---
 
 # Drospirenone News
@@ -25,8 +25,7 @@ This page combines the AI-predicted indications for Drospirenone with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: For full warnings and contraindications, please refer to the SmPC.</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: N/A</li>
 </ul>
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">View full drug report →</a></p>
 </div>

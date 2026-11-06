@@ -3,7 +3,7 @@ layout: default
 title: "Enzalutamide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Enzalutamide. Original indication: For \"benign neoplasm of prostate\", androgen signal.... 5 predicted indications."
+description: "Health news related to Enzalutamide. 5 predicted indications."
 permalink: /news/enzalutamide/
 last_modified_at: 2026-11-06
 ---
@@ -25,7 +25,6 @@ This page combines the AI-predicted indications for Enzalutamide with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: For "benign neoplasm of prostate", androgen signalling is biologically plausible, but the available literature concerns prostate cancer, and no trials exist for benign disease.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
 <li>prostate leiomyoma</li>

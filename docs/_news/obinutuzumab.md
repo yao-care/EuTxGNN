@@ -3,7 +3,7 @@ layout: default
 title: "Obinutuzumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Obinutuzumab. Original indication: This is not a true repurposing opportunity. No tri.... 0 predicted indications."
+description: "Health news related to Obinutuzumab. 0 predicted indications."
 permalink: /news/obinutuzumab/
 last_modified_at: 2026-11-06
 ---
@@ -25,8 +25,7 @@ This page combines the AI-predicted indications for Obinutuzumab with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: This is not a true repurposing opportunity. No trials or publications specific to this subtype were found, and the high TxGNN score reflects a model prediction rather than new clinical evidence.</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: N/A</li>
 </ul>
 <p><a href="{{ '/drugs/obinutuzumab/' | relative_url }}">View full drug report →</a></p>
 </div>

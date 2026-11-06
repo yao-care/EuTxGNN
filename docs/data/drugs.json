@@ -118,7 +118,7 @@
       "name": "Agomelatine",
       "evidence_level": "L5",
       "indication_count": 7,
-      "original_indication": "For context, other top-ranked predictions are more plausible. Agoraphobia (score 0.9995) has an indirect anxiolytic rationale. Melancholia, neurotic depression and dysthymic disorder are depressive...",
+      "original_indication": "",
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/agomelatine/"
@@ -1558,7 +1558,7 @@
       "name": "Drospirenone",
       "evidence_level": "N/A",
       "indication_count": 0,
-      "original_indication": "For full warnings and contraindications, please refer to the SmPC.",
+      "original_indication": "",
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/drospirenone/"
@@ -2748,7 +2748,7 @@
       "name": "Irbesartan",
       "evidence_level": "L5",
       "indication_count": 3,
-      "original_indication": "There are important caveats. Malignant hypertension is a hypertensive emergency, usually managed with intravenous agents. ARBs also carry risks of acute kidney injury and hyperkalaemia in this...",
+      "original_indication": "",
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/irbesartan/"
@@ -2958,7 +2958,7 @@
       "name": "Lenalidomide",
       "evidence_level": "L2",
       "indication_count": 4,
-      "original_indication": "MDS and acute myeloid leukemia (AML) are closely related myeloid malignancies, and MDS frequently progresses to AML. The rationale is strongest for del(5q) disease. Evidence in non-del(5q) AML is...",
+      "original_indication": "",
       "predicted_indication": "Predicted Indication",
       "txgnn_score": "",
       "url": "/drugs/lenalidomide/"
@@ -3208,7 +3208,7 @@
       "name": "Mepolizumab",
       "evidence_level": "L5",
       "indication_count": 5,
-      "original_indication": "The only supporting report is a single case (PMID 28648630). It describes a steroid-resistant hypereosinophilic immune diathesis that resolved with mepolizumab, together with improvement of a mixed...",
+      "original_indication": "",
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/mepolizumab/"
@@ -3748,7 +3748,7 @@
       "name": "Paclitaxel",
       "evidence_level": "L5",
       "indication_count": 2,
-      "original_indication": "These are not discussed further here.",
+      "original_indication": "",
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/paclitaxel/"
@@ -3858,7 +3858,7 @@
       "name": "Pegaspargase",
       "evidence_level": "L5",
       "indication_count": 7,
-      "original_indication": "The other predictions in the data are weaker. Chronic lymphocytic leukaemia variants and follicular lymphoma have no trials or literature. Methylcobalamin deficiency type cblE has no plausible link...",
+      "original_indication": "",
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/pegaspargase/"
@@ -3878,7 +3878,7 @@
       "name": "Peginterferon Alfa-2A",
       "evidence_level": "L1",
       "indication_count": 9,
-      "original_indication": "The other predicted indications (hepatitis E, hepatitis A, animal viral hepatitis, Omsk haemorrhagic fever, Kyasanur forest disease and the cardiac conditions) have no direct evidence and are...",
+      "original_indication": "",
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/peginterferon-alfa-2a/"
@@ -3918,7 +3918,7 @@
       "name": "Pemetrexed",
       "evidence_level": "L5",
       "indication_count": 3,
-      "original_indication": "Other predictions in the list fall into three groups. Pleural mesothelioma and its epithelioid, sarcomatoid and biphasic subtypes are already covered by the approved indication, so they are on-label...",
+      "original_indication": "",
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/pemetrexed/"
@@ -4448,7 +4448,7 @@
       "name": "Romiplostim",
       "evidence_level": "L5",
       "indication_count": 10,
-      "original_indication": "Other top-ranked predictions show the same pattern. Pseudo-von Willebrand disease, Glanzmann thrombasthenia, Scott syndrome, and collagen receptor defects are mostly functional platelet disorders...",
+      "original_indication": "",
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/romiplostim/"
@@ -4908,7 +4908,7 @@
       "name": "Temoporfin",
       "evidence_level": "L5",
       "indication_count": 10,
-      "original_indication": "Other predictions in the top 10 list (all also without direct clinical trial support) are:",
+      "original_indication": "",
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/temoporfin/"
@@ -4938,7 +4938,7 @@
       "name": "Tenecteplase",
       "evidence_level": "L5",
       "indication_count": 7,
-      "original_indication": "Because no trials or literature specific to this subtype were provided, the support is indirect. Other predictions among the top 10 (for example chromosomal deletion and red-cell enzyme disorders)...",
+      "original_indication": "",
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/tenecteplase/"
@@ -5348,7 +5348,7 @@
       "name": "Ustekinumab",
       "evidence_level": "L2",
       "indication_count": 10,
-      "original_indication": "The link to dermatitis is only partial. Atopic dermatitis is driven mainly by Th2 (IL-4/IL-13) signaling, with variable Th17/Th22 involvement. Contact dermatitis has Th1/Th17 components, which gives...",
+      "original_indication": "",
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/ustekinumab/"

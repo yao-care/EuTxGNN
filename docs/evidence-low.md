@@ -34,12 +34,8 @@ TxGNN model predictions without clinical evidence - research hypotheses for expl
 
 | Drug Name | Indications | Link |
 |-----------|-------------|------|
-{% for drug in l5_drugs limit:100 %}| **{{ drug.title }}** | {{ drug.indication_count }} | [View Report]({{ drug.url | relative_url }}) |
+{% for drug in l5_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [View Report]({{ drug.url | relative_url }}) |
 {% endfor %}
-
-{% if l5_drugs.size > 100 %}
-*Showing first 100 of {{ l5_drugs.size }} drugs. See [Full Drug List](/drugs/) for all.*
-{% endif %}
 
 ---
 

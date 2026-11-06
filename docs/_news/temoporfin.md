@@ -3,7 +3,7 @@ layout: default
 title: "Temoporfin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Temoporfin. Original indication: Other predictions in the top 10 list (all also wit.... 10 predicted indications."
+description: "Health news related to Temoporfin. 10 predicted indications."
 permalink: /news/temoporfin/
 last_modified_at: 2026-11-06
 ---
@@ -25,7 +25,6 @@ This page combines the AI-predicted indications for Temoporfin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Other predictions in the top 10 list (all also without direct clinical trial support) are:</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>nasopharyngeal teratoma</li>

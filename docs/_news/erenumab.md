@@ -3,7 +3,7 @@ layout: default
 title: "Erenumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Erenumab. Original indication: However, none of these studies specifically enroll.... 0 predicted indications."
+description: "Health news related to Erenumab. 0 predicted indications."
 permalink: /news/erenumab/
 last_modified_at: 2026-11-06
 ---
@@ -25,8 +25,7 @@ This page combines the AI-predicted indications for Erenumab with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: However, none of these studies specifically enrolled or analyzed patients with brainstem aura (formerly basilar-type migraine). The evidence is therefore indirect, extrapolated from broader migraine...</li>
-<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Evidence level</strong>: N/A</li>
 </ul>
 <p><a href="{{ '/drugs/erenumab/' | relative_url }}">View full drug report →</a></p>
 </div>

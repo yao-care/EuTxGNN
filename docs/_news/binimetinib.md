@@ -3,7 +3,7 @@ layout: default
 title: "Binimetinib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Binimetinib. Original indication: The sections below cover the **rank 1 prediction (.... 0 predicted indications."
+description: "Health news related to Binimetinib. 0 predicted indications."
 permalink: /news/binimetinib/
 last_modified_at: 2026-11-06
 ---
@@ -25,8 +25,7 @@ This page combines the AI-predicted indications for Binimetinib with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: The sections below cover the **rank 1 prediction (choroideremia)**, which has no evidence. Evidence for the next-best-supported prediction, **non-cutaneous melanoma**, is shown separately for context.</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: N/A</li>
 </ul>
 <p><a href="{{ '/drugs/binimetinib/' | relative_url }}">View full drug report →</a></p>
 </div>

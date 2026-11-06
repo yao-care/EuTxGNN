@@ -3,7 +3,7 @@ layout: default
 title: "Ustekinumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ustekinumab. Original indication: The link to dermatitis is only partial. Atopic der.... 10 predicted indications."
+description: "Health news related to Ustekinumab. 10 predicted indications."
 permalink: /news/ustekinumab/
 last_modified_at: 2026-11-06
 ---
@@ -25,7 +25,6 @@ This page combines the AI-predicted indications for Ustekinumab with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: The link to dermatitis is only partial. Atopic dermatitis is driven mainly by Th2 (IL-4/IL-13) signaling, with variable Th17/Th22 involvement. Contact dermatitis has Th1/Th17 components, which gives...</li>
 <li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>dermatitis</li>

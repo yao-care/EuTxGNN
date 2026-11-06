@@ -3,7 +3,7 @@ layout: default
 title: "Eptinezumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Eptinezumab. Original indication: There are important limits. A randomized trial fou.... 0 predicted indications."
+description: "Health news related to Eptinezumab. 0 predicted indications."
 permalink: /news/eptinezumab/
 last_modified_at: 2026-11-06
 ---
@@ -25,8 +25,7 @@ This page combines the AI-predicted indications for Eptinezumab with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: There are important limits. A randomized trial found that PACAP38-induced migraine attacks are independent of CGRP signaling, which suggests CGRP blockade may not cover all migraine pathways. No...</li>
-<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Evidence level</strong>: N/A</li>
 </ul>
 <p><a href="{{ '/drugs/eptinezumab/' | relative_url }}">View full drug report →</a></p>
 </div>

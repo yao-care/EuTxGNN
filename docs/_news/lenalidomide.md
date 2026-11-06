@@ -3,7 +3,7 @@ layout: default
 title: "Lenalidomide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Lenalidomide. Original indication: MDS and acute myeloid leukemia (AML) are closely r.... 4 predicted indications."
+description: "Health news related to Lenalidomide. 4 predicted indications."
 permalink: /news/lenalidomide/
 last_modified_at: 2026-11-06
 ---
@@ -25,7 +25,6 @@ This page combines the AI-predicted indications for Lenalidomide with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: MDS and acute myeloid leukemia (AML) are closely related myeloid malignancies, and MDS frequently progresses to AML. The rationale is strongest for del(5q) disease. Evidence in non-del(5q) AML is...</li>
 <li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (4)</strong>:<ul>
 <li>myeloid leukemia</li>

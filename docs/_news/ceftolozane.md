@@ -3,9 +3,9 @@ layout: default
 title: "Ceftolozane News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ceftolozane. Original indication: Because gonococcal urethritis is a gram-negative b.... 10 predicted indications."
+description: "Health news related to Ceftolozane. 10 predicted indications."
 permalink: /news/ceftolozane/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-06
 ---
 
 # Ceftolozane News
@@ -25,7 +25,6 @@ This page combines the AI-predicted indications for Ceftolozane with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Because gonococcal urethritis is a gram-negative bacterial infection of the urinary tract, a cephalosporin class effect against *Neisseria gonorrhoeae* is plausible. However, ceftolozane is not an...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>Ureaplasma urethritis</li>
