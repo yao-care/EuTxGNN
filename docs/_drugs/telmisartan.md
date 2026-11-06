@@ -165,7 +165,7 @@ The top prediction, Prinzmetal angina, rests on model score alone (L5) with no t
 - Mechanism-of-action data (e.g., from DrugBank)
 - SmPC warnings and contraindications to complete safety screening
 - For Prinzmetal angina: any clinical or mechanistic evidence on telmisartan in coronary vasospasm
-- For intracerebral hemorrhage: TRIDENT results broken down by component, to isolate telmisartan's contribution, and a prospective-use plan given the cancelled EU authorizations
+- For intracerebral hemorrhage: TRIDENT results broken down by component, to isolate telmisartan's contribution, and a prospective-use plan
 - A specific review of renal risk before considering renovascular or malignant hypertensive indications
 ## Disclaimer
 

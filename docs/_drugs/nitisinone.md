@@ -107,7 +107,6 @@ The prediction has a high model score but no trials or literature, and the mecha
 - Official product information (warnings and contraindications) from the EMA, which is a blocking gap for safety screening
 - Detailed mechanism of action data (for example from DrugBank)
 - A literature search specific to renal tubular acidosis or Fanconi-type tubulopathy, to see whether any supportive data exist
-- Clarification of why both EU authorizations are cancelled (for example commercial withdrawal versus a safety reason)
 - Review of the safety flags for kidney disease, hypophosphatemia and blood cell counts (thrombocytopenia, leukopenia) before any study in a kidney population
 
 **Other predictions in this analysis:** The remaining top-ranked predictions are galactosemia, serpinopathy with toxic serpin polymerization, C1 inhibitor deficiency, glycogen storage disease, adult polyglucosan body disease, glycogen storage disease due to glucose-6-phosphatase deficiency, Griscelli syndrome, X-linked chronic granulomatous disease and ermine phenotype. All were judged Hold. They have no trials, and the only supporting literature is general reviews of pediatric liver disease, with no mechanistic rationale linking HPPD inhibition to these conditions.

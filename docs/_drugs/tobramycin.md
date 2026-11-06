@@ -104,7 +104,7 @@ The prediction score is very high, but it comes from the TxGNN model (deep learn
 - Controlled or at least well-designed observational studies of topical tobramycin in exposure keratitis, with attention to corneal epithelial toxicity
 - Mechanism of action data (MOA) for the mechanistic-link analysis
 - Warnings and contraindications from the SmPC, since this safety data is missing and blocks safety screening
-- Clarification of the route of administration and available ophthalmic formulations in the EU, because the cancelled authorizations are inhalation products
+- Clarification of the route of administration and available ophthalmic formulations in the EU, because the authorizations are inhalation products
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -118,7 +118,7 @@ The glaucoma prediction has a plausible mechanism and one animal study showing I
 - Confirmation of the pharmacology and efficacy in human or additional preclinical models, including dose-response
 - A topical ophthalmic formulation and its local and systemic tolerability, including ocular safety
 - A plan for managing the cardiac, respiratory and gastrointestinal risks and the interaction with bupropion
-- Clarification of why the EU authorizations were cancelled, and of the regulatory pathway for any new use
+- Clarification of the regulatory pathway for any new use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

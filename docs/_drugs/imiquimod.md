@@ -105,14 +105,14 @@ Please refer to the SmPC for the full label warnings and contraindications.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The TxGNN score is very high and the mechanism is plausible. Pre-malignant lesions, such as actinic keratosis, are already within the approved use. However, the direct trial evidence is thin: one small open-label Phase 3 study that is largely an approved-indication trial, and one randomized trial terminated at 9 patients. Both EU authorizations are cancelled, so any development would need a new regulatory pathway.
+The TxGNN score is very high and the mechanism is plausible. Pre-malignant lesions, such as actinic keratosis, are already within the approved use. However, the direct trial evidence is thin: one small open-label Phase 3 study that is largely an approved-indication trial, and one randomized trial terminated at 9 patients.
 
 **To proceed, the following is needed:**
 - Adequately powered randomized trials in a defined off-label pre-malignant setting (for example, high-grade cervical, vulvar or anal intraepithelial neoplasia)
 - Mechanism-of-action data from DrugBank to complete the mechanistic analysis
 - EMA label warnings and contraindications, which are required for safety screening
 - Review of the knowledge-graph contraindication flags (photosensitivity, autoimmune disease, graft versus host disease)
-- Clarification of the regulatory route, given the cancelled EU status
+- Clarification of the regulatory route
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

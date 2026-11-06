@@ -109,7 +109,7 @@ The prediction is model-only (L5), with no trials or literature for gingival fib
 - Mechanism of action data for gefitinib and a review of how it would apply to this disease
 - Official SmPC warnings and contraindications, including the interstitial lung disease and liver risks
 - A benefit-risk assessment for a non-oncology population, since gefitinib is a cancer drug with notable skin and lung toxicity
-- Clarification of the regulatory status, given the cancelled EU authorization
+- Clarification of the regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -94,7 +94,6 @@ The prediction is supported only by a TxGNN model (deep learning) score, with no
 - Mechanism of action data for raloxifene (currently missing) and a defined biological rationale for duodenal ulcer
 - Label warnings and contraindications from the EMA package insert
 - Preclinical or observational evidence of effect in duodenal ulcer or related gastric mucosal models
-- Clarification of the cancelled EU status, including whether other marketing routes exist
 - A benefit-risk review, given the thromboembolic and cardiovascular safety signals
 ## Disclaimer
 

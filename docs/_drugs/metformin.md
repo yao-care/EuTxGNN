@@ -123,7 +123,7 @@ Label-based warnings and contraindications were not available in the data compil
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score of 0.9945, with no clinical trials or publications. The mechanistic link, through shared autoimmune and diabetes associations, is indirect and unproven. In addition, all EU authorizations for metformin-containing products are currently cancelled.
+The prediction rests only on a model score of 0.9945, with no clinical trials or publications. The mechanistic link, through shared autoimmune and diabetes associations, is indirect and unproven.
 
 **To proceed, the following is needed:**
 - Targeted literature review on metformin or AMPK modulators in stiff-person spectrum disorders and autoimmune neurological conditions

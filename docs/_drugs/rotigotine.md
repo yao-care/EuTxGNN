@@ -98,7 +98,7 @@ Label warnings and contraindications were not available. Please refer to the SmP
 **Decision: Hold**
 
 **Rationale:**
-The ADHD prediction rests on a network-based score and indirect receptor-level and restless-legs literature. There are no clinical trials and no rotigotine-specific ADHD data. Rotigotine's EU authorisation is also cancelled in the data compiled for this report.
+The ADHD prediction rests on a network-based score and indirect receptor-level and restless-legs literature. There are no clinical trials and no rotigotine-specific ADHD data.
 
 **To proceed, the following is needed:**
 - Rotigotine-specific preclinical or clinical studies in ADHD

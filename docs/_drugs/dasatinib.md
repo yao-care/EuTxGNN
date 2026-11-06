@@ -93,8 +93,6 @@ However, the original indication (a blood cancer driven by a fusion kinase) is b
 | EMEA/H/C/005317 | Dasatinib Accordpharma | dasatinib | Withdrawn |
 | EMEA/H/C/005446 | Dasatinib Accord | dasatinib | Withdrawn |
 
-Both authorizations are listed as cancelled.
-
 ## Cytotoxicity
 
 | Item | Content |
@@ -118,14 +116,14 @@ Please also refer to the SmPC for full safety information.
 **Decision: Hold**
 
 **Rationale:**
-The SRC-based preclinical rationale for Ewing sarcoma is coherent, but there is no clinical proof of benefit. The only sizeable phase 2 study mixed several sarcoma subtypes, single-agent dasatinib is reported to have failed in Ewing sarcoma, and the one dedicated trial was terminated after 7 patients. Both EU authorizations are also cancelled.
+The SRC-based preclinical rationale for Ewing sarcoma is coherent, but there is no clinical proof of benefit. The only sizeable phase 2 study mixed several sarcoma subtypes, single-agent dasatinib is reported to have failed in Ewing sarcoma, and the one dedicated trial was terminated after 7 patients.
 
 **To proceed, the following is needed:**
 - Ewing-specific results from NCT00464620 and the terminated NCT00788125 trial
 - Prospective data on combination regimens (for example, RIST) in relapsed Ewing sarcoma
 - Detailed mechanism of action data and SmPC warnings and contraindications, which are missing from the compiled data
 - Cardiac and pleural safety monitoring plan, plus a drug-interaction review for the paediatric and young adult population
-- Clarification of the EU regulatory status given that both authorizations are cancelled
+- Clarification of the EU regulatory status
 
 **Other predictions:** A phase 3 study of dasatinib in core-binding factor AML (PMID 41490515, 2026) may be worth following up. The remaining predictions (liposarcoma, dermatofibrosarcoma protuberans, and others) have only preclinical or no supporting evidence and are on Hold.
 ## Disclaimer

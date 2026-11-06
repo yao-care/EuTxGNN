@@ -96,7 +96,6 @@ The prediction has no clinical, literature or clear mechanistic support. This is
 - A documented mechanistic rationale linking agomelatine to this condition
 - Warnings and contraindications from the SmPC, and mechanism-of-action data
 - Any preclinical or clinical evidence in the target condition, plus a paediatric safety assessment
-- Clarification of the cancelled EU authorisation status
 - Consider prioritising better-supported candidates (e.g. dysthymic disorder, agoraphobia) for further evaluation, which would still need agomelatine-specific evidence
 ## Disclaimer
 

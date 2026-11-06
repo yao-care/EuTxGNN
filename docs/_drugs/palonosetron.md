@@ -120,7 +120,7 @@ The prediction rests only on a model score. The single linked publication is a c
 - Preclinical or early clinical studies showing a therapeutic effect in migraine
 - A review of whether palonosetron-associated headache outweighs any possible benefit
 - Safety information from the SmPC (warnings and contraindications) for safety screening
-- Clarification of EU regulatory status, since both authorizations are cancelled, and of route and formulation compatibility
+- Clarification of EU regulatory status and of route and formulation compatibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

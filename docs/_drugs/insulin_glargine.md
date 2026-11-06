@@ -109,13 +109,13 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials or publications and no plausible direct mechanism. The market status is also cancelled for all current EU licenses. Insulin glargine would at most manage co-existing diabetes in these conditions.
+The prediction rests only on a model score, with no clinical trials or publications and no plausible direct mechanism. Insulin glargine would at most manage co-existing diabetes in these conditions.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a mechanistic rationale for ovarian autoimmunity
 - Warnings and contraindications from the SmPC
 - Literature or trial evidence in autoimmune oophoritis
-- Clarification of the cancelled EU market status and of available routes and formulations
+- Clarification of available routes and formulations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

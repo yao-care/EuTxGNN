@@ -136,7 +136,7 @@ Other predictions in the ranking vary widely:
 **To proceed, the following is needed:**
 - Warnings and contraindications from the current SmPC, since this information was not available for this report
 - Confirmation of the comparator and endpoints of NCT02084420
-- Clarification of the regulatory route, since the EU centrally authorized licences are all cancelled (national authorizations should be checked)
+- Clarification of the regulatory route
 - Review of long-term safety concerns (bone health, vitamin B12 status) and the major drug interactions listed above
 - Detailed mechanism of action data from DrugBank to complete the mechanistic analysis
 ## Disclaimer

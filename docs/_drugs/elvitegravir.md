@@ -100,12 +100,12 @@ Please also refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The only supporting evidence is preclinical (in vitro and animal models). SIV infects non-human primates, so there is no human clinical use case. Both EU authorizations are cancelled, and the high TxGNN score reflects the biological similarity of SIV to HIV rather than a new treatment opportunity.
+The only supporting evidence is preclinical (in vitro and animal models). SIV infects non-human primates, so there is no human clinical use case. The high TxGNN score reflects the biological similarity of SIV to HIV rather than a new treatment opportunity.
 
 **To proceed, the following is needed:**
 - A defined research purpose (for example, use as a tool compound in SIV/SHIV macaque prevention models) rather than a human indication
 - Mechanism of action data and SmPC warnings and contraindications
-- Clarification of the regulatory status given that both EU authorizations are cancelled
+- Clarification of the regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

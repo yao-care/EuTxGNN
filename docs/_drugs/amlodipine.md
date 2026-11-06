@@ -158,7 +158,7 @@ Please refer to the SmPC for official warnings and contraindications.
 
 **Rationale:**
 - Brain stem infarction is a model prediction only, with no trials or literature, so it cannot be advanced.
-- Intracerebral hemorrhage has a completed Phase 3 trial (TRIDENT, N=1,671) and a 2026 NEJM publication. However, the intervention is a three-drug pill, the benefit works through blood pressure lowering, and all EU licenses for amlodipine-containing products are cancelled.
+- Intracerebral hemorrhage has a completed Phase 3 trial (TRIDENT, N=1,671) and a 2026 NEJM publication. However, the intervention is a three-drug pill, the benefit works through blood pressure lowering.
 
 **To proceed, the following is needed:**
 - Review of the full TRIDENT results (effect size, safety, and the contribution of each component)
