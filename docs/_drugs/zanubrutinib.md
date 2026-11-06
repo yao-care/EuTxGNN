@@ -130,7 +130,7 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high, but no zanubrutinib clinical data in myeloid leukemia exist. The only linked trial studies a different agent, and all literature concerns B-cell malignancies. The compiled data also show the EU authorization as cancelled, which should be verified.
+The TxGNN score is very high, but no zanubrutinib clinical data in myeloid leukemia exist. The only linked trial studies a different agent, and all literature concerns B-cell malignancies.
 
 For comparison, a different prediction in the same output, familial non-Hodgkin lymphoma, has far stronger support, including Phase 2 and Phase 3 trials and RCT-level literature. It was rated "Proceed with Guardrails" and may deserve its own evaluation. The B-cell lymphoma subtypes it covers are largely already labeled indications.
 
@@ -138,7 +138,6 @@ For comparison, a different prediction in the same output, familial non-Hodgkin 
 - Preclinical or clinical data on zanubrutinib or BTK inhibition in specific myeloid leukemia subtypes
 - Detailed mechanism of action data (MOA)
 - Warnings and contraindications from the SmPC
-- Verification of the current EU marketing authorization status, since the data show it as cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

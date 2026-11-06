@@ -138,7 +138,7 @@ The drug is marketed in this country, with all 8 of 8 licences valid.
 | EMEA/H/C/002017 | Rasitrio | aliskiren; amlodipine; hydrochlorothiazide | Withdrawn |
 | EMEA/H/C/002073 | Rasilamlo | aliskiren; amlodipine | Withdrawn |
 
-Three further cancelled authorizations (Exforge HCT, Dafiro HCT, Copalia HCT) cover substitution therapy with the amlodipine, valsartan and hydrochlorothiazide combination.
+Three further authorizations (Exforge HCT, Dafiro HCT, Copalia HCT) cover substitution therapy with the amlodipine, valsartan and hydrochlorothiazide combination.
 
 ---
 

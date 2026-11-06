@@ -107,7 +107,7 @@ The prediction for PLA2G6-associated neurodegeneration is supported only by a mo
 - Mechanism of action data for entacapone
 - EMA label warnings and contraindications
 - Preclinical or case-level evidence of benefit in the parkinsonian subtype of PLA2G6-associated neurodegeneration
-- Clarification of why the EU authorizations were cancelled and of the current regulatory pathway
+- Clarification of the current regulatory pathway
 - A review of higher-plausibility alternatives, such as Lewy body dementia (L4, "Research Question") and juvenile parkinsonism, before investing in the top-ranked prediction
 ## Disclaimer
 

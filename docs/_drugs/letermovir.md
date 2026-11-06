@@ -111,7 +111,6 @@ No trials or literature support letermovir for vulvovaginal candidiasis. The dru
 - A credible mechanistic hypothesis for antifungal activity, with in vitro data against *Candida* species
 - Mechanism of action data from DrugBank
 - Safety information (warnings and contraindications) from the EMA product information
-- Clarification of the cancelled EU authorization status
 
 ## Disclaimer
 

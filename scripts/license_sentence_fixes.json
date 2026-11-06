@@ -12,6 +12,20 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
   }
  ],
+ "aflibercept": [
+  {
+   "sentence": "Nine further biosimilar authorisations (Afiveg, Afqlir, Yesafili, Vgenfli, Eydenzelt, Mynzepli, Eyluxvi, Eiyzey, Baiama) carry the same retinal indications and are also cancelled.",
+   "cut": " and are also cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "amlodipine": [
+  {
+   "sentence": "Three further cancelled authorizations (Exforge HCT, Dafiro HCT, Copalia HCT) cover",
+   "cut": " cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）句中列名的產品 EMA 狀態是 Authorised；只刪說它們已註銷的片段"
+  }
+ ],
  "amlodipine_as_amlodipine_besilate": [
   {
    "sentence": "**Verify EU market authorization status** — query the EMA product database directly for amlodipine; the current \"0 authorizations\" result is inconsistent",
@@ -24,6 +38,13 @@
    "reason": "緊接在被刪句（The only EU authorization is recorded as cancelled.）後、以 This status 指涉前句；前句與事實矛盾已刪，一併刪除"
   }
  ],
+ "aprepitant": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization status and available dosage forms",
+   "cut": "the cancelled EU authorization status and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
  "asfotase_alfa": [
   {
    "sentence": "Clarification of the EU regulatory status, since the sole authorization is cancelled",
@@ -31,16 +52,62 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
   }
  ],
+ "aspartic_acid": [
+  {
+   "sentence": "Review of the reasons for the cancellation of the marketing authorisation, and assessment of route and formulation compatibility with the new indication",
+   "cut": "the reasons for the cancellation of the marketing authorisation, and assessment of ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "aztreonam": [
+  {
+   "sentence": "Both EU authorizations are cancelled, so there is no currently marketed product.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Clarification of why EU authorizations were cancelled and whether any alternative supply exists",
+   "cut": "why EU authorizations were cancelled and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
  "bempedoic_acid": [
   {
    "sentence": "The EU authorization is also currently cancelled.",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；句子說本藥（唯一）的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Clarification of the regulatory status of the cancelled EU authorization",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
   }
  ],
  "bimatoprost": [
   {
    "sentence": "The marketing authorization has also been cancelled.",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；句子說本藥（唯一）的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "bimekizumab": [
+  {
+   "sentence": "This status should be verified against the current EMA register before any planning.",
+   "reason": "前一句（說本藥 EU 許可已註銷）與事實矛盾已刪；本句以「This status／the status」指涉那個已刪除的狀態說法（EMA 現況是 Authorised），一併刪除"
+  }
+ ],
+ "bosentan": [
+  {
+   "sentence": "Confirmation of current product availability, given the cancelled EU status",
+   "cut": ", given the cancelled EU status",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "brigatinib": [
+  {
+   "sentence": "The authorization status is **cancelled**.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Clarify the reason for the cancelled EU authorization and the availability of the drug in the EU.",
+   "cut": "the reason for the cancelled EU authorization and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
  "budesonide": [
@@ -54,6 +121,22 @@
   {
    "sentence": "The data compiled for this report suggest the \"Cancelled only\" status may reflect a labelling artefact for a specific product and should be verified.",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可（Cometriq、Cabometyx），句子講的「Cancelled only」狀態已不是事實，整句刪"
+  },
+  {
+   "sentence": "Verification of the \"Cancelled only\" EU market status",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "caffeine": [
+  {
+   "sentence": "In addition, all EU authorisations for caffeine in this dataset are cancelled, and label safety data were not available.",
+   "cut": "all EU authorisations for caffeine in this dataset are cancelled, and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  },
+  {
+   "sentence": "Assessment of route and formulation, since the cancelled products' dosage forms are not recorded",
+   "cut": ", since the cancelled products' dosage forms are not recorded",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
  "caspofungin": [
@@ -78,6 +161,25 @@
    "cut": "The only EU authorization for ceritinib is cancelled, and ",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留",
    "capitalize": true
+  },
+  {
+   "sentence": "Clarification of the cancelled EU authorization status and the available dosage forms and routes of administration",
+   "cut": "the cancelled EU authorization status and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "cetrorelix": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization status and any route or formulation requirements",
+   "cut": "the cancelled EU authorization status and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "chenodeoxycholic_acid": [
+  {
+   "sentence": "Current EU label warnings and contraindications (the cancelled SmPC) for a full safety assessment",
+   "cut": " (the cancelled SmPC)",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
  "cholic_acid": [
@@ -88,6 +190,23 @@
   {
    "sentence": "Clarification of why the authorisation was cancelled and whether a valid marketed product exists",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；句子說本藥（唯一）的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "cladribine": [
+  {
+   "sentence": "Both authorizations are listed as cancelled in the data compiled for this report.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Both EU authorizations are cancelled, and the safety profile includes significant myelosuppression risk.",
+   "cut": "Both EU authorizations are cancelled, and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留",
+   "capitalize": true
+  },
+  {
+   "sentence": "Clarification of the current EU regulatory status, since both authorizations are cancelled",
+   "cut": ", since both authorizations are cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
  "clopidogrel": [
@@ -107,11 +226,64 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可的筆數／狀態與句中張數不符；句子只有許可說法，整句刪"
   }
  ],
+ "cobimetinib": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization status and of the product's availability",
+   "cut": "the cancelled EU authorization status and of ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "cyclosporine": [
+  {
+   "sentence": "The EU authorizations are all cancelled, and the label safety data is unavailable.",
+   "cut": "The EU authorizations are all cancelled, and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留",
+   "capitalize": true
+  },
+  {
+   "sentence": "Clarification of why the EU authorizations were cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "dalbavancin": [
+  {
+   "sentence": "Clarification of the regulatory status of the cancelled EU authorization",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "darolutamide": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization status",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "deferasirox": [
+  {
+   "sentence": "Clarification of why the EU authorizations were cancelled and whether this affects feasibility",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "deferiprone": [
+  {
+   "sentence": "The EU authorizations are also all cancelled.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Verification of the current EU regulatory status, since both authorizations are listed as cancelled",
+   "cut": ", since both authorizations are listed as cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
  "defibrotide": [
   {
    "sentence": "Clarification of the EU regulatory status (the authorisation is cancelled)",
    "cut": " (the authorisation is cancelled)",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
+  },
+  {
+   "sentence": "Standard therapies are well established, and the single EU authorisation is cancelled.",
+   "cut": ", and the single EU authorisation is cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
  "dexrazoxane": [
@@ -120,6 +292,20 @@
    "cut": "The sole EU authorization has been cancelled, and ",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留",
    "capitalize": true
+  }
+ ],
+ "diflunisal": [
+  {
+   "sentence": "Clarification of the reasons for the cancelled Attrogy authorisation and of the current availability of diflunisal in the EU",
+   "cut": "the reasons for the cancelled Attrogy authorisation and of ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "diroximel_fumarate": [
+  {
+   "sentence": "Clarification of the reasons for the cancelled EU authorization and the current regulatory pathway",
+   "cut": "the reasons for the cancelled EU authorization and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
  "dolutegravir": [
@@ -134,10 +320,41 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；句子說本藥（唯一）的 EU 許可已註銷，與事實矛盾，整句刪"
   }
  ],
+ "eculizumab": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization status and the current availability of the product",
+   "cut": "the cancelled EU authorization status and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "emicizumab": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization status.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
  "emtricitabine": [
   {
    "sentence": "The only EU authorization (Emtriva) is cancelled.",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；句子說本藥（唯一）的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "enfortumab_vedotin": [
+  {
+   "sentence": "The Padcev EU marketing authorization is also cancelled.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "SmPC warnings and contraindications, and clarification of the reasons for and implications of the cancelled EU authorization",
+   "cut": ", and clarification of the reasons for and implications of the cancelled EU authorization",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "entacapone": [
+  {
+   "sentence": "Clarification of why the EU authorizations were cancelled and of the current regulatory pathway",
+   "cut": "why the EU authorizations were cancelled and of ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
  "epinephrine": [
@@ -147,10 +364,50 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
   }
  ],
+ "erdafitinib": [
+  {
+   "sentence": "Clarification of the reason for the EU authorization cancellation",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "esomeprazole": [
+  {
+   "sentence": "The EU authorization record for this single-ingredient product is marked as cancelled in the compiled licence list, while the overall market status is recorded as marketed.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
  "etanercept": [
   {
    "sentence": "All four are single-ingredient etanercept products (the originator and biosimilars).",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥許可 6 筆（有效 5；單方 6），句中「All four」與事實不符；句子只有許可說法，整句刪"
+  }
+ ],
+ "fenfluramine": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization status and the available dosage forms and routes",
+   "cut": "the cancelled EU authorization status and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "florbetapir_18f": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization status and the available dosage forms and routes",
+   "cut": "the cancelled EU authorization status and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "fosaprepitant": [
+  {
+   "sentence": "Clarification of the current EU regulatory status, given the cancelled authorization",
+   "cut": ", given the cancelled authorization",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "gilteritinib": [
+  {
+   "sentence": "Clarification of the EU regulatory status, given the cancelled authorization",
+   "cut": ", given the cancelled authorization",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
  "idelalisib": [
@@ -182,11 +439,41 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥許可 12 筆（有效 6；單方 12），句中「five authorizations」；「All five」與事實不符；句子只有許可說法，整句刪"
   }
  ],
+ "ipilimumab": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization status and whether other valid products exist.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
  "irbesartan": [
   {
    "sentence": "The condition is a hypertensive emergency where ARBs carry notable renal and potassium risks, and the drug is marketed, with all 5 authorizations currently valid.",
    "cut": ", with all 5 authorizations currently valid",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可的筆數／狀態與句中張數不符；只刪張數片段，臨床理由與下一步說明保留"
+  }
+ ],
+ "lebrikizumab": [
+  {
+   "sentence": "The single authorization is recorded as cancelled in the compiled data.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "ledipasvir": [
+  {
+   "sentence": "Clarification of the EU regulatory status, since the Harvoni authorization is cancelled",
+   "cut": ", since the Harvoni authorization is cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "lefamulin": [
+  {
+   "sentence": "The product's only EU authorization has also been cancelled.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Clarification of the regulatory and supply situation, given the cancelled EU authorization",
+   "cut": ", given the cancelled EU authorization",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
  "lenalidomide": [
@@ -199,11 +486,81 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可的筆數／狀態與句中張數不符；句子只有許可說法，整句刪"
   }
  ],
+ "letermovir": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization status",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "maraviroc": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization status and the available dosage forms and routes",
+   "cut": "the cancelled EU authorization status and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "memantine": [
+  {
+   "sentence": "The remaining three authorisations (Axura, Ebixa, Marixino) carry the same indication and are also cancelled.",
+   "cut": " and are also cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）句中列名的產品 EMA 狀態是 Authorised；只刪說它們已註銷的片段"
+  }
+ ],
+ "mepolizumab": [
+  {
+   "sentence": "Confirmation of the current EU authorization status, given that it is listed as cancelled",
+   "cut": ", given that it is listed as cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "methotrexate": [
+  {
+   "sentence": "In addition, both EU authorizations are cancelled, and the label safety data are unavailable.",
+   "cut": " both EU authorizations are cancelled, and",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "mexiletine": [
+  {
+   "sentence": "Clarification of current EU availability, given the cancelled authorisation",
+   "cut": ", given the cancelled authorisation",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "micafungin": [
+  {
+   "sentence": "Clarification of the regulatory status given the cancelled EU authorization",
+   "cut": " given the cancelled EU authorization",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
  "mogamulizumab": [
   {
    "sentence": "The mechanistic link is hypothetical, and the EU authorization for the original indication is cancelled",
    "cut": ", and the EU authorization for the original indication is cancelled",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
+  },
+  {
+   "sentence": "Clarification of the reason for the cancelled EU authorization and current availability",
+   "cut": "the reason for the cancelled EU authorization and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "natalizumab": [
+  {
+   "sentence": "Both EU authorizations are cancelled.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Confirmation of the reasons for the authorization cancellations and the current availability of natalizumab products in the EU",
+   "cut": "the reasons for the authorization cancellations and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "nemolizumab": [
+  {
+   "sentence": "The only EU authorization is listed with a cancelled status.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
   }
  ],
  "nepafenac": [
@@ -214,11 +571,30 @@
    "capitalize": true
   }
  ],
+ "nilotinib": [
+  {
+   "sentence": "Clarification of the EU regulatory and market status, since both authorizations are cancelled",
+   "cut": ", since both authorizations are cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
  "norelgestromin": [
   {
    "sentence": "hormonal contraception, the EU authorization is cancelled, and the knowledge graph",
    "cut": " the EU authorization is cancelled,",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
+  }
+ ],
+ "norethisterone": [
+  {
+   "sentence": "This authorisation has a cancelled status.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "ocrelizumab": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization status",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
   }
  ],
  "olanzapine": [
@@ -232,8 +608,34 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可的筆數／狀態與句中張數不符；只刪張數片段，臨床理由與下一步說明保留"
   },
   {
+   "sentence": "Four further cancelled authorizations are on record: Olazax Disperzi",
+   "cut": " cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）句中列名的產品 EMA 狀態是 Authorised；只刪說它們已註銷的片段"
+  },
+  {
    "sentence": "All nine EU authorizations for olanzapine are valid (9 valid licences of 9).",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥許可 13 筆（有效 10；單方 13），句中「nine EU authorizations」；「9 valid licences」；「All nine」與事實不符；句子只有許可說法，整句刪"
+  }
+ ],
+ "olopatadine": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization status and of available formulations and routes",
+   "cut": "the cancelled EU authorization status and of ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "oritavancin": [
+  {
+   "sentence": "Clarification of the current regulatory and supply status, given the cancelled EU authorization",
+   "cut": ", given the cancelled EU authorization",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "oteracil": [
+  {
+   "sentence": "Clarification of the regulatory pathway given the cancelled EU authorization",
+   "cut": " given the cancelled EU authorization",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
  "palbociclib": [
@@ -246,12 +648,26 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；句子說本藥（唯一）的 EU 許可已註銷，與事實矛盾，整句刪"
   }
  ],
+ "palivizumab": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization status and available formulations/routes",
+   "cut": "the cancelled EU authorization status and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
  "panitumumab": [
   {
    "sentence": "The EU authorization in the data is cancelled, and mechanism of action",
    "cut": "The EU authorization in the data is cancelled, and ",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留",
    "capitalize": true
+  }
+ ],
+ "panobinostat": [
+  {
+   "sentence": "Confirm the regulatory pathway and product availability, given the cancelled EU authorisation",
+   "cut": ", given the cancelled EU authorisation",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
  "parecoxib": [
@@ -279,6 +695,10 @@
    "sentence": "This is label confirmation rather than new repurposing, and the EU authorisation is currently cancelled, so market availability needs clarification",
    "cut": ", and the EU authorisation is currently cancelled, so market availability needs clarification",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
+  },
+  {
+   "sentence": "Clarification of the reason for the cancelled EU authorisation and confirmation of current availability",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
   }
  ],
  "pegvaliase": [
@@ -286,6 +706,12 @@
    "sentence": "Clarification of why the EU authorization was cancelled and of the current regulatory status",
    "cut": "why the EU authorization was cancelled and of ",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
+  }
+ ],
+ "pemigatinib": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization status",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
   }
  ],
  "perampanel": [
@@ -309,11 +735,38 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
   }
  ],
+ "pitolisant": [
+  {
+   "sentence": "Both authorisations are currently recorded as cancelled.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Confirmation of regulatory and formulation status, given the \"cancelled only\" EU market status",
+   "cut": ", given the \"cancelled only\" EU market status",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "polatuzumab_vedotin": [
+  {
+   "sentence": "The authorization status in the compiled data is \"cancelled\".",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Verify the current status against the official EMA register before relying on it.",
+   "reason": "前一句（說本藥 EU 許可已註銷）與事實矛盾已刪；本句以「This status／the status」指涉那個已刪除的狀態說法（EMA 現況是 Authorised），一併刪除"
+  }
+ ],
  "prasugrel": [
   {
    "sentence": "Clarification of the EU regulatory status (the sole authorization is cancelled)",
    "cut": " (the sole authorization is cancelled)",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
+  }
+ ],
+ "pretomanid": [
+  {
+   "sentence": "Clarification of the status of the cancelled EU authorization",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
   }
  ],
  "prilocaine": [
@@ -322,6 +775,11 @@
    "cut": "The EU authorization is also cancelled, and ",
    "capitalize": true,
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
+  },
+  {
+   "sentence": "Clarification of why the Fortacin authorization was cancelled, and whether an alternative authorized topical anesthetic is available.",
+   "cut": "why the Fortacin authorization was cancelled, and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）句中列名的產品 EMA 狀態是 Authorised；只刪說它們已註銷的片段"
   }
  ],
  "propranolol": [
@@ -338,6 +796,11 @@
    "cut": "The EU authorisation is cancelled, and ",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留",
    "capitalize": true
+  },
+  {
+   "sentence": "A defined target condition and formulation, given the cancelled authorisation",
+   "cut": ", given the cancelled authorisation",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
  "raltegravir": [
@@ -350,11 +813,53 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；句子說本藥（唯一）的 EU 許可已註銷，與事實矛盾，整句刪"
   }
  ],
+ "relebactam": [
+  {
+   "sentence": "Clarification of the reason for the authorization cancellation and the current regulatory pathway",
+   "cut": "the reason for the authorization cancellation and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "reslizumab": [
+  {
+   "sentence": "Safety information from the SmPC, plus clarification of the reasons for and implications of the authorization cancellation",
+   "cut": ", plus clarification of the reasons for and implications of the authorization cancellation",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "rilpivirine": [
+  {
+   "sentence": "Both EU authorizations are cancelled, and official safety label data are missing.",
+   "cut": "Both EU authorizations are cancelled, and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留",
+   "capitalize": true
+  }
+ ],
+ "riluzole": [
+  {
+   "sentence": "Both authorizations are cancelled.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Both EU authorizations are cancelled.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
  "rimegepant": [
   {
    "sentence": "Clarification of why the EU authorization was cancelled and of the current regulatory status",
    "cut": "why the EU authorization was cancelled and of ",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
+  }
+ ],
+ "risankizumab": [
+  {
+   "sentence": "The market authorisation is also recorded as cancelled.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Clarification of the cancelled EU authorisation status",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
   }
  ],
  "risdiplam": [
@@ -372,8 +877,25 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可的筆數／狀態與句中張數不符；只刪張數片段，臨床理由與下一步說明保留"
   },
   {
+   "sentence": "(A sixth cancelled authorization, Rivastigmine Sandoz, EMEA/H/C/001183, carries the same indication.)",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）Rivastigmine Sandoz 的 EMA 狀態是 Authorised；句子只有許可說法，整句刪"
+  },
+  {
    "sentence": "Rivastigmine is marketed in this country, with 6 valid licences out of 6.",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥許可 9 筆（有效 7；單方 9），句中「6 valid licences」與事實不符；句子只有許可說法，整句刪"
+  }
+ ],
+ "romiplostim": [
+  {
+   "sentence": "Clarification of the EU authorization status (cancelled)",
+   "cut": " (cancelled)",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "ropeginterferon_alfa-2b": [
+  {
+   "sentence": "Clarification of the reasons for and the status of the cancelled EU authorization",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
   }
  ],
  "ruxolitinib": [
@@ -389,11 +911,53 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
   }
  ],
+ "sacubitril": [
+  {
+   "sentence": "However, the human evidence is not yet confirmatory, the effect cannot be attributed to sacubitril separately from valsartan, and the EU authorizations for both products are cancelled.",
+   "cut": ", and the EU authorizations for both products are cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  },
+  {
+   "sentence": "Clarification of the current EU regulatory pathway given that both authorizations are cancelled",
+   "cut": " given that both authorizations are cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "safinamide": [
+  {
+   "sentence": "The only authorization on record has a cancelled status.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "selpercatinib": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization status",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
  "serine": [
   {
    "sentence": "Review of why the authorization was cancelled, and of dosage form",
    "cut": "why the authorization was cancelled, and of ",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
+  }
+ ],
+ "siltuximab": [
+  {
+   "sentence": "Clarification of the cancelled EU authorization and the current availability of the product",
+   "cut": "the cancelled EU authorization and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "simoctocog_alfa": [
+  {
+   "sentence": "Both EU authorizations are cancelled, which further limits practical availability.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Confirmation of product availability, given the cancelled authorizations",
+   "cut": ", given the cancelled authorizations",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
  "simvastatin": [
@@ -410,6 +974,42 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
   }
  ],
+ "sotatercept": [
+  {
+   "sentence": "The only authorization is recorded with a status of cancelled.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "sunitinib": [
+  {
+   "sentence": "Both authorisations are currently cancelled.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "In addition, the EU authorisations are currently cancelled, and label-based safety data are not yet available.",
+   "cut": " the EU authorisations are currently cancelled, and",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "tacrolimus": [
+  {
+   "sentence": "the Phase 3 design is unconfirmed, and the only EU topical product (Protopic) is currently cancelled.",
+   "cut": ", and the only EU topical product (Protopic) is currently cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）句中列名的產品 EMA 狀態是 Authorised；只刪說它們已註銷的片段"
+  }
+ ],
+ "tasimelteon": [
+  {
+   "sentence": "Clarification of the regulatory status of the cancelled authorisation",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "tasonermin": [
+  {
+   "sentence": "A review of the regulatory status of the cancelled authorization",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
  "telmisartan": [
   {
    "sentence": "All six EU authorizations for telmisartan single-agent products are cancelled.",
@@ -419,6 +1019,10 @@
    "sentence": "Telmisartan is marketed in this country, with 6 valid licences of 6, but label-based safety data is missing.",
    "cut": ", with 6 valid licences of 6",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥 EMA 集中許可的筆數／狀態與句中張數不符；只刪張數片段，臨床理由與下一步說明保留"
+  },
+  {
+   "sentence": "A sixth authorization, Telmisartan Teva Pharma (EMEA/H/C/002511), covered treatment of essential hypertension in adults and is also cancelled.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）Telmisartan Teva Pharma 的 EMA 狀態是 Authorised；句子只有許可說法（適應症與表上其他產品相同），整句刪"
   }
  ],
  "temsirolimus": [
@@ -426,6 +1030,12 @@
    "sentence": "Clarification of why the EU authorisation was cancelled, and of the regulatory route",
    "cut": "why the EU authorisation was cancelled, and of ",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
+  },
+  {
+   "sentence": "Temsirolimus's EU authorisation is cancelled, and label-level safety data are missing.",
+   "cut": "Temsirolimus's EU authorisation is cancelled, and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留",
+   "capitalize": true
   }
  ],
  "tenecteplase": [
@@ -439,10 +1049,53 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
   }
  ],
+ "teprotumumab": [
+  {
+   "sentence": "Clarification of the reason for the cancelled EU authorization",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
  "teriparatide": [
   {
    "sentence": "All seven EU centralized authorizations are valid.",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥許可 9 筆（有效 8；單方 9），句中「seven EU centralized authorizations」；「All seven」與事實不符；句子只有許可說法，整句刪"
+  }
+ ],
+ "tezacaftor": [
+  {
+   "sentence": "Verification of the reason for the cancelled EU authorization status",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "tezepelumab": [
+  {
+   "sentence": "The only authorization on record has a cancelled status.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "thyrotropin_alfa": [
+  {
+   "sentence": "Confirmation of the regulatory status and available formulations and routes, given the cancelled authorization",
+   "cut": ", given the cancelled authorization",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "tivozanib": [
+  {
+   "sentence": "In addition, the only EU marketing authorization for tivozanib is cancelled.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Clarification of the reason for the cancelled EU authorization and the current regulatory status",
+   "cut": "the reason for the cancelled EU authorization and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "tocofersolan": [
+  {
+   "sentence": "Clarification of the cancelled authorization status and available dosage forms and routes",
+   "cut": "the cancelled authorization status and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
  "tolcapone": [
@@ -460,12 +1113,35 @@
    "capitalize": true
   }
  ],
+ "trabectedin": [
+  {
+   "sentence": "Clarification of the cancelled EU status, including whether any product remains available",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "trastuzumab": [
+  {
+   "sentence": "Five further cancelled authorizations are on record: Tuznue, Herwenda, Zercepac, Ogivri and Dazublys.",
+   "cut": " cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
  "trastuzumab_deruxtecan": [
   {
    "sentence": "The EU license is also cancelled, and the safety profile",
    "cut": "The EU license is also cancelled, and ",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留",
    "capitalize": true
+  },
+  {
+   "sentence": "Clarification of the cancelled EU license status",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "travoprost": [
+  {
+   "sentence": "In addition, both EU authorizations are cancelled.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
   }
  ],
  "treosulfan": [
@@ -473,6 +1149,13 @@
    "sentence": "makes use in this setting inappropriate, and the EU authorization is cancelled",
    "cut": ", and the EU authorization is cancelled",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
+  }
+ ],
+ "treprostinil": [
+  {
+   "sentence": "Clarification of current regulatory status, given the cancelled authorisation",
+   "cut": ", given the cancelled authorisation",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
  "tryptophan": [
@@ -489,6 +1172,23 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
   }
  ],
+ "tyrosine": [
+  {
+   "sentence": "Clarification of why the Maapliv authorisation was cancelled, and of the route of administration, since the product was intended for acute use in patients who cannot take enteral formulations",
+   "cut": "why the Maapliv authorisation was cancelled, and of ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
+  }
+ ],
+ "upadacitinib": [
+  {
+   "sentence": "The data compiled for this report list this single authorization as cancelled.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Since the same record carries a current indication text, the status should be verified against the EMA register before any decision relies on it.",
+   "reason": "前一句（說本藥 EU 許可已註銷）與事實矛盾已刪；本句以「This status／the status」指涉那個已刪除的狀態說法（EMA 現況是 Authorised），一併刪除"
+  }
+ ],
  "ustekinumab": [
   {
    "sentence": "All 13 authorizations are currently valid.",
@@ -500,6 +1200,23 @@
    "sentence": "Clarification of why the EU authorization was cancelled and of the regulatory pathway",
    "cut": "why the EU authorization was cancelled and of ",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
+  },
+  {
+   "sentence": "Varenicline's EU authorization is cancelled, and the knowledge graph flags psychiatric and cardiovascular cautions, so there is no basis to advance.",
+   "cut": "Varenicline's EU authorization is cancelled, and ",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留",
+   "capitalize": true
+  }
+ ],
+ "velpatasvir": [
+  {
+   "sentence": "Both EU authorizations are also cancelled.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Clarification of the current EU regulatory status, given that both authorizations are cancelled",
+   "cut": ", given that both authorizations are cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
  "vernakalant": [
@@ -515,6 +1232,10 @@
    "sentence": "Clarification of why the EU authorization was cancelled and of the available routes",
    "cut": "why the EU authorization was cancelled and of ",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
+  },
+  {
+   "sentence": "The EU authorization has also been cancelled.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
   }
  ],
  "vestronidase_alfa": [
@@ -522,6 +1243,13 @@
    "sentence": "Clarification of the regulatory and supply situation, since the EU authorization is cancelled",
    "cut": ", since the EU authorization is cancelled",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
+  }
+ ],
+ "vilanterol": [
+  {
+   "sentence": "has the same COPD indication as Elebrato Ellipta and is also cancelled.",
+   "cut": " and is also cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）句中列名的產品 EMA 狀態是 Authorised；只刪說它們已註銷的片段"
   }
  ],
  "volanesorsen": [
@@ -536,12 +1264,39 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留"
   }
  ],
+ "vortioxetine": [
+  {
+   "sentence": "Vortioxetine's EU authorization is also cancelled, which adds a regulatory hurdle.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Clarification of the cancelled EU authorization status and its reasons.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
+ "zanubrutinib": [
+  {
+   "sentence": "The compiled data also show the EU authorization as cancelled, which should be verified.",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  },
+  {
+   "sentence": "Verification of the current EU marketing authorization status, since the data show it as cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；句子說本藥的 EU 許可已註銷，與事實矛盾，整句刪"
+  }
+ ],
  "ziconotide": [
   {
    "sentence": "The EU authorization has been cancelled, and the intrathecal route",
    "cut": "The EU authorization has been cancelled, and ",
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥有有效的 EMA 集中許可；只刪說（唯一）EU 許可已註銷的片段，其餘證據與下一步說明保留",
    "capitalize": true
+  }
+ ],
+ "zonisamide": [
+  {
+   "sentence": "Clarification of the market status, since both EU authorizations are cancelled",
+   "cut": ", since both EU authorizations are cancelled",
+   "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ]
 }

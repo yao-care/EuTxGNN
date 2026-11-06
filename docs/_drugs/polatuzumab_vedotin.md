@@ -86,8 +86,6 @@ No publications directly address HER2-positive breast carcinoma. The compiled da
 |------|------|------|------|
 | EMEA/H/C/004870 | Polivy | polatuzumab vedotin | Valid |
 
-The authorization status in the compiled data is "cancelled". Verify the current status against the official EMA register before relying on it.
-
 ## Cytotoxicity
 
 | Item | Content |

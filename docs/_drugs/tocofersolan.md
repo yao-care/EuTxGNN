@@ -88,7 +88,7 @@ The prediction has no supporting clinical trials or publications (Evidence Level
 - A systematic literature search on vitamin E and amenorrhea or menstrual disorders, and a check of trial registries
 - Mechanism of action data (for example from DrugBank)
 - Warnings and contraindications from the SmPC or product information, which are currently missing
-- Clarification of the cancelled authorization status and available dosage forms and routes
+- Clarification of available dosage forms and routes
 - A clinical rationale showing why amenorrhea is a suitable target compared with existing treatments
 
 *Another prediction (acne) also has score-only support.*

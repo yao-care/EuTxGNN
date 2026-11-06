@@ -93,7 +93,7 @@ The prediction has no clinical trials, no literature, and no plausible mechanist
 - Mechanism of action data (e.g., from DrugBank) and a rationale for any activity in tongue tissue
 - Safety information from the EMA product information (warnings and contraindications)
 - Preclinical or mechanistic studies showing a biological effect in the predicted disease
-- Clarification of the cancelled EU authorization status and available formulations/routes
+- Clarification of available formulations/routes
 - A check of whether the uniformly high scores across unrelated tumour types reflect a model artifact
 ## Disclaimer
 

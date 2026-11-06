@@ -150,7 +150,7 @@ The evidence is L2: several completed Phase 1/2 trials of panobinostat in AML/MD
 - Retrieve and parse the SmPC (warnings and contraindications) to complete safety screening
 - Obtain mechanism-of-action data from DrugBank
 - Check why NCT04326764 was terminated and whether any results were reported for it and the completed Phase 2 trials (e.g. NCT00946647, NCT00880269)
-- Confirm the regulatory pathway and product availability, given the cancelled EU authorisation
+- Confirm the regulatory pathway and product availability
 - Assess the QT and drug-interaction risks of combination regimens with standard AML chemotherapy and supportive care
 ## Disclaimer
 

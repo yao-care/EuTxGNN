@@ -96,7 +96,6 @@ The prediction has no supporting trials or literature (evidence level L5), and t
 - Warnings and contraindications from the SmPC, to allow safety screening
 - A literature and trial search for postinfectious vasculitis, and a documented link to a Gram-positive trigger
 - Consideration of prioritizing orbital cellulitis, with studies of orbital tissue penetration and paediatric use
-- Clarification of the regulatory status of the cancelled EU authorization
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

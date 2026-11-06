@@ -102,13 +102,12 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-A completed Phase 2 RCT (n=172) exists for atopic dermatitis, which supports an L2 evidence level, but its efficacy results are not available in the compiled data. Atopic dermatitis is mainly Th2-driven, and there are reports of eczema arising during risankizumab treatment. The market authorisation is also recorded as cancelled. This is best treated as a research question until the trial results are reviewed.
+A completed Phase 2 RCT (n=172) exists for atopic dermatitis, which supports an L2 evidence level, but its efficacy results are not available in the compiled data. Atopic dermatitis is mainly Th2-driven, and there are reports of eczema arising during risankizumab treatment. This is best treated as a research question until the trial results are reviewed.
 
 **To proceed, the following is needed:**
 - Efficacy and safety results of NCT03706040 and PMID 36588137
 - Mechanism of action data
 - Warnings and contraindications from the SmPC
-- Clarification of the cancelled EU authorisation status
 - Assessment of whether the psoriasis-overlap or paradoxical eczema phenotype is a better target than classical atopic dermatitis
 
 **Other predictions:** Predictions ranked 2 to 10 (including neonatal dermatomyositis, amyopathic dermatomyositis, acrodermatitis chronica atrophicans, acne keloid and pityriasis lichenoides) have no clinical trials or literature, rest only on the model score (Evidence Level L5), and are recommended as **Hold**.

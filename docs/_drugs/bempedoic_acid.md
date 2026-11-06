@@ -107,7 +107,6 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 - Mechanistic evidence linking the drug's pharmacology to thyroid hormone excess, supported by preclinical or mechanism studies
 - Detailed mechanism of action data
 - Warnings and contraindications from the SmPC for the safety screen
-- Clarification of the regulatory status of the cancelled EU authorization
 - A separate evaluation of the better-supported HoFH prediction, if a candidate with real-world evidence is preferred
 ## Disclaimer
 

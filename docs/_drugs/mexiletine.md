@@ -94,7 +94,7 @@ The prediction for hypertrichosis rests on a model score alone. Taking on mexile
 - Mechanism of action data and a plausible biological link between sodium channel blockade and hair growth
 - Any preclinical or clinical evidence in hypertrichosis
 - Label-based warnings and contraindications from the SmPC, and a safety review (cardiac risk, interaction burden)
-- Clarification of current EU availability, given the cancelled authorisation
+- Clarification of current EU availability
 
 **Note on other predicted indications:** In the same prediction list, **headache disorder** (rank 10, L3) and **migraine disorder** (rank 6, L4) have more support. They rest on small, uncontrolled reports of mexiletine in trigeminal autonomic cephalalgias, refractory chronic daily headache and SUNCT/SUNA. These are better candidates for further research than hypertrichosis, but they still lack controlled trials.
 ## Disclaimer

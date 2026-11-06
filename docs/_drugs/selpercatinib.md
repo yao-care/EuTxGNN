@@ -109,7 +109,6 @@ The prediction is supported only by the model score (evidence level L5). There a
 - Preclinical evidence that RET signalling contributes to pulmonary vascular remodelling
 - Mechanism of action data (MOA) and a documented rationale linking it to pulmonary hypertension
 - Label warnings and contraindications from the SmPC, to assess safety in this population (especially hypertension)
-- Clarification of the cancelled EU authorization status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -101,13 +101,13 @@ Please refer to the SmPC for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The bronchitis prediction rests on a high model score alone, with no trials or publications. Natalizumab's immunosuppressive profile and PML risk argue against use in an infection-prone airway condition. Both EU authorizations are cancelled.
+The bronchitis prediction rests on a high model score alone, with no trials or publications. Natalizumab's immunosuppressive profile and PML risk argue against use in an infection-prone airway condition.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a clear mechanistic rationale for airway disease
 - Preclinical or observational evidence of benefit in bronchitis
 - Full safety information from the SmPC, including a PML risk assessment
-- Confirmation of the reasons for the authorization cancellations and the current availability of natalizumab products in the EU
+- Confirmation of the current availability of natalizumab products in the EU
 - Reassessment of other candidates, such as psoriasis, only if prospective evidence resolves the conflicting case reports
 ## Disclaimer
 

@@ -114,7 +114,7 @@ The PDGFR-driven mechanism of DFSP makes the prediction plausible, but there are
 - Nilotinib-specific preclinical or clinical data in DFSP, including comparison with imatinib, the established treatment
 - Detailed mechanism of action data (MOA)
 - Official warnings and contraindications from the SmPC, to allow safety screening
-- Clarification of the EU regulatory and market status, since both authorizations are cancelled
+- Clarification of the EU regulatory and market status
 - A cardiac safety plan (QT monitoring), given the long QT and torsades de pointes signals and the major interaction with clarithromycin
 
 ---

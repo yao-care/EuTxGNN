@@ -121,7 +121,7 @@ Please refer to the SmPC for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for visceral calciphylaxis is supported only by the model score (L5), with no trials or publications, no documented mechanistic link, and minimal systemic exposure from the eye-drop formulation. The ophthalmic evidence found supports only the original glaucoma indication. In addition, both EU authorizations are cancelled.
+The prediction for visceral calciphylaxis is supported only by the model score (L5), with no trials or publications, no documented mechanistic link, and minimal systemic exposure from the eye-drop formulation. The ophthalmic evidence found supports only the original glaucoma indication.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, and a mechanistic rationale connecting FP receptor agonism to calcification or vascular pathways

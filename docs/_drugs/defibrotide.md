@@ -100,7 +100,7 @@ Please refer to the SmPC for warnings and contraindications, as this information
 
 **Rationale:**
 - The top predictions rest on model scores alone (L5). There is no trial or literature support, the mechanism does not fit, and there is a plausible bleeding risk.
-- For TTP, the evidence (L3) is limited to small, dated, uncontrolled reports and an in vitro study. Standard therapies are well established, and the single EU authorisation is cancelled.
+- For TTP, the evidence (L3) is limited to small, dated, uncontrolled reports and an in vitro study. Standard therapies are well established.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for defibrotide

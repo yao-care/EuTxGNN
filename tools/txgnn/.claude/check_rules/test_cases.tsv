@@ -273,3 +273,8 @@ M3V	en	The EU authorization is also currently cancelled.	hit	site=EuTxGNN;ms=Mar
 M3V	en	In addition, the only EU authorization on record is cancelled.	hit	site=EuTxGNN;ms=Marketed;valid=2;cancelled=0
 M3V	en	Reference data note that an earlier EMA approval (as Removab) was withdrawn at the marketing authorisation holder's request in 2017 for commercial reasons, and that the drug was re-authorised in early 2025.	miss	site=EuTxGNN;ms=Marketed;valid=1;cancelled=1
 M3V	en	The EU authorization is also cancelled.	miss	site=EuTxGNN;ms=Cancelled only;valid=0;cancelled=1
+M3V	en	Clarification of the cancelled EU authorization status and the available dosage forms and routes	hit	site=EuTxGNN;ms=Marketed;valid=1;cancelled=0
+M3V	en	Both EU authorizations are cancelled.	hit	site=EuTxGNN;ms=Marketed;valid=2;cancelled=0
+M3V	en	There are no cancelled authorizations.	miss	site=EuTxGNN;ms=Marketed;valid=4;cancelled=0
+M3V	en	Fenfluramine was historically withdrawn from the market as an appetite suppressant because of valvular heart disease.	miss	site=EuTxGNN;ms=Marketed;valid=1;cancelled=0
+M3V	en	Both EU authorizations are cancelled.	miss	site=EuTxGNN;ms=Marketed;valid=2;cancelled=1

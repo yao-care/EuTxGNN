@@ -52,8 +52,6 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |------|------|------|------|
 | EMEA/H/C/005588 | Tezspire | tezepelumab | Valid |
 
-The only authorization on record has a cancelled status.
-
 ## Safety Considerations
 
 No warnings, contraindications or drug interaction data were available in the data compiled for this report. Please refer to the SmPC for safety information.

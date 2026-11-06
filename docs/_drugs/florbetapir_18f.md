@@ -102,7 +102,7 @@ The prediction has only a model score, with no clinical trials, no publications,
 - Mechanism of action data, to assess whether any biological link to bronchitis exists
 - Safety information from the product label (warnings and contraindications), which is currently missing and blocks safety screening
 - Any preclinical or clinical evidence supporting a therapeutic effect in bronchitis
-- Clarification of the cancelled EU authorization status and the available dosage forms and routes
+- Clarification of the available dosage forms and routes
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

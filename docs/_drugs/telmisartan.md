@@ -136,8 +136,6 @@ For reference, the most relevant publications among the other predicted indicati
 | EMEA/H/C/000414 | PritorPlus | telmisartan; hydrochlorothiazide | Withdrawn |
 | EMEA/H/C/000415 | Kinzalkomb | telmisartan; hydrochlorothiazide | Withdrawn |
 
-A sixth authorization, Telmisartan Teva Pharma (EMEA/H/C/002511), covered treatment of essential hypertension in adults and is also cancelled.
-
 ---
 
 ## Safety Considerations

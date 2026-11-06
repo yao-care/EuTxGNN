@@ -89,8 +89,6 @@ Dosage form is not available in the compiled data.
 | EMEA/H/C/001044 | Rivastigmine Teva | rivastigmine | Withdrawn |
 | EMEA/H/C/003824 | Rivastigmine 3M Health Care Ltd | rivastigmine | Withdrawn |
 
-(A sixth cancelled authorization, Rivastigmine Sandoz, EMEA/H/C/001183, carries the same indication.)
-
 ## Safety Considerations
 
 - **Disease-level contraindication signals (knowledge graph, not label text):** The TxGNN knowledge graph links rivastigmine to contraindications in several conditions. These include:

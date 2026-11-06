@@ -95,13 +95,12 @@ Please refer to the SmPC for warnings and contraindications, which were not avai
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, neurotic disorder, is a historical umbrella term with no vortioxetine-specific trials or literature, so it is not a distinct, testable repurposing opportunity. Vortioxetine's EU authorization is also cancelled, which adds a regulatory hurdle.
+The top-ranked prediction, neurotic disorder, is a historical umbrella term with no vortioxetine-specific trials or literature, so it is not a distinct, testable repurposing opportunity.
 
 **To proceed, the following is needed:**
 - Mechanism of action data from DrugBank.
 - Warnings and contraindications from the EMA product information, to allow safety screening.
 - Re-mapping of "neurotic disorder" to current diagnoses (depressive, anxiety or dysthymic disorders), and prioritising better-supported candidates such as melancholia (post hoc subgroup analysis of existing MDD trials) and anxiety disorders (controlled trials).
-- Clarification of the cancelled EU authorization status and its reasons.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

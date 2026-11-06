@@ -76,8 +76,6 @@ Currently no related literature available.
 |------|------|------|------|
 | EMEA/H/C/004760 | Rinvoq | upadacitinib | Valid |
 
-The data compiled for this report list this single authorization as cancelled. Since the same record carries a current indication text, the status should be verified against the EMA register before any decision relies on it.
-
 ## Safety Considerations
 
 - **Drug Interactions**: 100 interactions were identified in total. Representative major interactions include:

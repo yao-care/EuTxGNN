@@ -87,8 +87,6 @@ The clinical signal comes from small Phase 2 studies that pool several sarcoma h
 | EMEA/H/C/000687 | Sutent | sunitinib | Valid |
 | EMEA/H/C/005419 | Sunitinib Accord | sunitinib | Valid |
 
-Both authorisations are currently cancelled.
-
 ## Cytotoxicity
 
 | Item | Content |
@@ -114,7 +112,7 @@ Please refer to the SmPC for complete safety information.
 **Decision: Hold**
 
 **Rationale:**
-Evidence for liposarcoma consists of two small, pooled-histology Phase 2 trials, one published Phase 2 report and a single case report, with no Phase 3 confirmation. In addition, the EU authorisations are currently cancelled, and label-based safety data are not yet available. The data are not enough to move forward.
+Evidence for liposarcoma consists of two small, pooled-histology Phase 2 trials, one published Phase 2 report and a single case report, with no Phase 3 confirmation. In addition, label-based safety data are not yet available. The data are not enough to move forward.
 
 **To proceed, the following is needed:**
 - EU SmPC warnings and contraindications (currently a blocking data gap)

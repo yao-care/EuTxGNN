@@ -119,7 +119,6 @@ The prediction rests only on a model score. There are no clinical trials or publ
 - A mechanistic rationale and preclinical evidence linking the drug to bone metabolism
 - Detailed mechanism of action data
 - Label warnings and contraindications (SmPC) for a formal safety screen
-- Clarification of the cancelled EU license status
 - A benefit-risk assessment against existing osteoporosis therapies
 ## Disclaimer
 

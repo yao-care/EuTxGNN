@@ -92,7 +92,7 @@ For full warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score. No trials exist, and the single linked paper is a cardiac safety case report. Varenicline's EU authorization is cancelled, and the knowledge graph flags psychiatric and cardiovascular cautions, so there is no basis to advance.
+The prediction is supported only by a model score. No trials exist, and the single linked paper is a cardiac safety case report. The knowledge graph flags psychiatric and cardiovascular cautions, so there is no basis to advance.
 
 **To proceed, the following is needed:**
 - Official EU safety information (warnings and contraindications from the SmPC), which is currently missing and blocks safety screening

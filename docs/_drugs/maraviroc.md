@@ -102,7 +102,7 @@ The prediction for multiple endocrine neoplasia rests only on a computational sc
 - Preclinical or clinical studies of maraviroc in this indication
 - Detailed mechanism of action data
 - Warnings and contraindications from the SmPC to enable safety screening
-- Clarification of the cancelled EU authorization status and the available dosage forms and routes
+- Clarification of the available dosage forms and routes
 - Consideration of prioritising HER2-positive breast carcinoma (CCR5/CCL5-mediated trastuzumab resistance) as a better-supported research question
 ## Disclaimer
 

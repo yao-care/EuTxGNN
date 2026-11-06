@@ -125,7 +125,7 @@ The prediction rests only on a model score. No clinical trials or publications s
 - Mechanistic evidence for ALK pathway involvement in gingival fibromatosis, along with detailed mechanism of action data for ceritinib
 - Preclinical or exploratory studies showing activity in relevant models
 - Safety information from the SmPC (warnings and contraindications), and a risk-benefit assessment for a benign condition
-- Clarification of the cancelled EU authorization status and the available dosage forms and routes of administration
+- Clarification of the available dosage forms and routes of administration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

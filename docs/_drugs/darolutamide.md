@@ -107,7 +107,6 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 - Mechanistic data (MOA) and a plausible biological rationale linking androgen receptor blockade to LDL metabolism
 - Preclinical evidence, such as lipid or LDL receptor models
 - Warnings and contraindications from the SmPC, with a safety review of interactions with lipid-lowering drugs
-- Clarification of the cancelled EU authorization status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

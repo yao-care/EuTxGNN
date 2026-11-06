@@ -121,7 +121,7 @@ The prediction rests only on a TxGNN model (deep learning) score. There are no t
 - A credible mechanistic hypothesis linking gilteritinib to bulbar polio, supported by preclinical data
 - Detailed mechanism of action data (MOA)
 - Safety information from the SmPC (warnings and contraindications)
-- Clarification of the EU regulatory status, given the cancelled authorization
+- Clarification of the EU regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

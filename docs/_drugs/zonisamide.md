@@ -140,7 +140,7 @@ The Tourette syndrome prediction rests on the model score alone, with no trials 
 - Mechanism of action data from DrugBank to assess the mechanistic link
 - Label warnings and contraindications from the SmPC for safety screening
 - Preclinical or clinical evidence in Tourette syndrome, and an assessment of the tic-induction signal
-- Clarification of the market status, since both EU authorizations are cancelled
+- Clarification of the market status
 - If a nearer-term opportunity is wanted, evaluate **absence epilepsy** first, as it is an adjacent indication with small supportive studies, and compare it with controlled evidence in the guideline sources
 ## Disclaimer
 

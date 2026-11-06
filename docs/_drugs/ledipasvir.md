@@ -130,7 +130,7 @@ There is a completed Phase 2 study in HBV-infected subjects (n=21), but it is sm
 - Mechanism of action data and studies separating ledipasvir's contribution from sofosbuvir's
 - Larger controlled studies in HBV-infected patients
 - Warnings and contraindications from the SmPC, and a monitoring plan for HBV reactivation
-- Clarification of the EU regulatory status, since the Harvoni authorization is cancelled
+- Clarification of the EU regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -104,7 +104,7 @@ The prediction for rosacea conjunctivitis is supported only by the model score, 
 - Label warnings and contraindications from the EMA package insert, which are currently missing
 - Detailed mechanism of action data (MOA)
 - Preclinical or clinical studies of olopatadine in ocular rosacea, at least for symptom relief such as itch and redness
-- Clarification of the cancelled EU authorization status and of available formulations and routes
+- Clarification of available formulations and routes
 - Review of the knowledge-graph respiratory contraindication signals, and of the interaction severity for the listed drugs
 ## Disclaimer
 

@@ -52,8 +52,6 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |------|------|------|------|
 | EMEA/H/C/006149 | Nemluvio | nemolizumab | Valid |
 
-The only EU authorization is listed with a cancelled status.
-
 ## Safety Considerations
 
 - **Drug Interactions**: The interaction query completed with one entry. It is a pharmacology entry showing that nemolizumab targets the IL-31 receptor alpha subunit (IL31RA), not a drug-drug interaction. A phase 1 study reported no serious adverse events among its subjects.

@@ -95,7 +95,6 @@ The prediction for HIV infectious disease rests only on a TxGNN model (deep lear
 - Mechanism of action data for tezacaftor (for example from DrugBank)
 - Warnings and contraindications from the SmPC, which are currently missing
 - Preclinical evidence (for example in vitro antiviral assays) showing any anti-HIV activity
-- Verification of the reason for the cancelled EU authorization status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -115,7 +115,6 @@ The prediction rests on the model score alone (L5).
 - Preclinical or early clinical studies in multiple endocrine neoplasia
 - Warnings and contraindications from the SmPC, which are currently missing and block safety screening
 - A review of the interaction profile (especially strong CYP3A inhibitors) for the target population
-- Clarification of the cancelled EU authorization status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

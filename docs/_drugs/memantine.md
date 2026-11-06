@@ -96,7 +96,7 @@ For reference, the only completed trial identified across the predicted indicati
 | EMEA/H/C/002766 | Memantine Accord | memantine hydrochloride | Valid |
 | EMEA/H/C/002630 | Memantine LEK | memantine hydrochloride | Withdrawn |
 
-The remaining three authorisations (Axura, Ebixa, Marixino) carry the same indication and are also cancelled.
+The remaining three authorisations (Axura, Ebixa, Marixino) carry the same indication.
 
 ## Safety Considerations
 

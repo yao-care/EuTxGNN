@@ -86,8 +86,6 @@ No publications were found for the top-ranked prediction. The table below shows 
 
 ## EU Market Information
 
-Both authorizations are cancelled.
-
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000109 | Rilutek | riluzole | Valid |
@@ -106,7 +104,7 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, polymicrogyria, rests only on a TxGNN score, with no trials, no literature and no supported mechanism. All predictions other than the ALS-related ones lack supporting evidence. The ALS-related ones are either label-concordant or lack subtype-specific data. Both EU authorizations are cancelled.
+The top-ranked prediction, polymicrogyria, rests only on a TxGNN score, with no trials, no literature and no supported mechanism. All predictions other than the ALS-related ones lack supporting evidence. The ALS-related ones are either label-concordant or lack subtype-specific data.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for riluzole

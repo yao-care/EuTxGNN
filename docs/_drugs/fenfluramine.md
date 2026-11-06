@@ -91,7 +91,7 @@ The prediction has a very high model score but no supporting clinical trials or 
 - Mechanism of action data and a mechanistic analysis linking fenfluramine to 16p11.2 deletion biology
 - Preclinical or clinical studies of fenfluramine in 16p11.2 microdeletion syndrome
 - Warnings and contraindications from the SmPC, especially cardiac valve and pulmonary hypertension monitoring
-- Clarification of the cancelled EU authorization status and the available dosage forms and routes
+- Clarification of the available dosage forms and routes
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

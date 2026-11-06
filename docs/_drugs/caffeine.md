@@ -101,13 +101,13 @@ Label-based warnings and contraindications were not available; please refer to t
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a high model score (L5). There are no clinical trials, and the literature does not show a therapeutic effect in nasal cavity disease. In addition, all EU authorisations for caffeine in this dataset are cancelled, and label safety data were not available.
+The prediction is supported only by a high model score (L5). There are no clinical trials, and the literature does not show a therapeutic effect in nasal cavity disease. In addition, label safety data were not available.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a clear rationale linking caffeine to nasal cavity disease
 - Label warnings and contraindications from the SmPC
 - Preclinical or early clinical evidence in a defined nasal condition (for example, allergic or inflammatory rhinitis)
-- Assessment of route and formulation, since the cancelled products' dosage forms are not recorded
+- Assessment of route and formulation
 - Review of the cardiovascular, neurological and interaction risks, particularly with nasal cocaine
 
 ### Other Predicted Indications Reviewed (for reference)

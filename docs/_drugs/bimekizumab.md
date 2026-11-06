@@ -52,8 +52,6 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |------|------|------|------|
 | EMEA/H/C/005316 | Bimzelx | bimekizumab | Valid |
 
-This status should be verified against the current EMA register before any planning.
-
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.

@@ -117,7 +117,7 @@ The prediction for cauda equina syndrome rests only on a model score, with no tr
 - Mechanism of action data for tyrosine
 - A biological rationale linking tyrosine to cauda equina syndrome, or a review of other predicted indications for more plausible candidates
 - Preclinical or exploratory clinical evidence of benefit
-- Clarification of why the Maapliv authorisation was cancelled, and of the route of administration, since the product was intended for acute use in patients who cannot take enteral formulations
+- Clarification of the route of administration, since the product was intended for acute use in patients who cannot take enteral formulations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

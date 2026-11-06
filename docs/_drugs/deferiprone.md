@@ -95,13 +95,13 @@ Warnings and contraindications were not available in the data compiled for this 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, and the biology of iron-driven porphyrin accumulation is plausible. However, support is limited to two mouse studies in other porphyria subtypes, with no human data. The EU authorizations are also all cancelled.
+The prediction score is high, and the biology of iron-driven porphyrin accumulation is plausible. However, support is limited to two mouse studies in other porphyria subtypes, with no human data.
 
 **To proceed, the following is needed:**
 - Clarify which hepatic porphyria subtype is targeted (for example PCT-type versus CEP) and whether iron is a disease driver in it
 - Human clinical data, or a well-designed proof-of-concept trial, in the target subtype
 - Mechanism of action data and SmPC warnings and contraindications for a full safety review, including a monitoring plan for agranulocytosis and neutropenia
-- Verification of the current EU regulatory status, since both authorizations are listed as cancelled
+- Verification of the current EU regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

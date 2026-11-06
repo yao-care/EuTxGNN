@@ -134,7 +134,6 @@ The liposarcoma prediction has a high model score, but its supporting evidence i
 - Liposarcoma-specific efficacy data, such as subtype-stratified results from NCT05836571 or a dedicated liposarcoma trial
 - Detailed mechanism of action data (MOA)
 - EU safety information (warnings and contraindications) from the SmPC
-- Verification of the "Cancelled only" EU market status
 - A separate evaluation of the renal cell carcinoma indications. Unclassified RCC has Phase 2 evidence and could be considered "Proceed with Guardrails", while renal carcinoma overall has Phase 3 evidence but is not a true repurposing case.
 ## Disclaimer
 

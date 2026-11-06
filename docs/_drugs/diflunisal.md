@@ -124,7 +124,7 @@ The top-ranked prediction (acromesomelic dysplasia, Hunter-Thompson type) has no
 - Mechanism of action data for diflunisal
 - Label-based warnings and contraindications from the EMA product information (currently missing, which blocks safety screening)
 - If pursuing ankylosing spondylitis, a critical review of the 1986 diflunisal vs phenylbutazone trial and a comparison with current standard-of-care NSAIDs and biologics
-- Clarification of the reasons for the cancelled Attrogy authorisation and of the current availability of diflunisal in the EU
+- Clarification of the current availability of diflunisal in the EU
 - Route and dosage form compatibility assessment for any proposed indication
 ## Disclaimer
 

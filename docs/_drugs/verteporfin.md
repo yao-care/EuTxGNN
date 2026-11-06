@@ -90,7 +90,7 @@ For label-based warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. No clinical trials or publications support it, and there is no plausible mechanistic link. The photosensitizer's reactive oxygen species may even be harmful in mitochondrial disease. The EU authorization has also been cancelled.
+The prediction rests only on a model score. No clinical trials or publications support it, and there is no plausible mechanistic link. The photosensitizer's reactive oxygen species may even be harmful in mitochondrial disease.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, to assess biological plausibility

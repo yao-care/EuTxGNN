@@ -99,7 +99,7 @@ The prediction is supported only by a model score. There are no clinical trials 
 - Mechanistic evidence for complement involvement in cyclic hematopoiesis (ELANE-related neutropenia)
 - Mechanism of action data for the drug
 - Warnings and contraindications from the SmPC, followed by a safety review that addresses meningococcal infection risk in neutropenic patients
-- Clarification of the cancelled EU authorization status and the current availability of the product
+- Clarification of the current availability of the product
 - Preclinical or early clinical data before any further consideration
 ## Disclaimer
 

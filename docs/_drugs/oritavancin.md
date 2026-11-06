@@ -93,7 +93,7 @@ The prediction has no supporting trials or literature, and the mechanism is poor
 - In vitro susceptibility data for oritavancin against *Bacteroides* and other anaerobes
 - Mechanism of action data and SmPC warnings and contraindications
 - Tissue penetration data for any alternative site of infection
-- Clarification of the current regulatory and supply status, given the cancelled EU authorization
+- Clarification of the current regulatory and supply status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

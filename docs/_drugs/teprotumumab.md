@@ -99,7 +99,6 @@ The prediction is supported only by a network score, with no trials or publicati
 - The EU product information (warnings and contraindications) for safety screening
 - Preclinical or mechanistic evidence that IGF-1R inhibition could benefit, and not harm, patients with Turner syndrome
 - A literature and trial search specific to the predicted indication
-- Clarification of the reason for the cancelled EU authorization
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

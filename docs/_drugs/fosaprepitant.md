@@ -99,7 +99,7 @@ The prediction has no supporting trials or publications (evidence level L5), and
 - Preclinical or case-level evidence in NSIAD or related V2 receptor models
 - SmPC warnings and contraindications to complete safety screening
 - Review of liver-failure contraindication and the Major interactions (eliglustat, naloxegol) if any development is considered
-- Clarification of the current EU regulatory status, given the cancelled authorization
+- Clarification of the current EU regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

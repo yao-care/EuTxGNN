@@ -144,7 +144,7 @@ Label-based warnings and contraindications were not available in the data compil
 **Decision: Hold**
 
 **Rationale:**
-- The top prediction, pulmonary blastoma, has no trials and no literature (evidence level L5), so only a model score supports it. In addition, both EU authorizations are cancelled, and the label safety data are unavailable.
+- The top prediction, pulmonary blastoma, has no trials and no literature (evidence level L5), so only a model score supports it. In addition, the label safety data are unavailable.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) from DrugBank

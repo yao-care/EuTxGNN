@@ -108,7 +108,7 @@ Safety review is also incomplete.
 - Review of the two CHD-PAH cohort studies for design and outcomes, with particular attention to shunt-related risk
 - Controlled or registry-based evidence specific to CHD-PAH
 - Assessment of route of administration and formulation, since none was specified in the available data
-- Clarification of current regulatory status, given the cancelled authorisation
+- Clarification of current regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

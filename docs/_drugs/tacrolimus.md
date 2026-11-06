@@ -110,7 +110,7 @@ Please also refer to the SmPC for the full warnings and contraindications, which
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Two completed trials (Phase 3 and Phase 4, 224 patients combined) test tacrolimus ointment directly in facial seborrheic dermatitis. These are supported by a maintenance-therapy clinical study and several reviews, and the mechanism is plausible and matches the approved topical use in atopic dermatitis. However, results from the trials are not provided, the Phase 3 design is unconfirmed, and the only EU topical product (Protopic) is currently cancelled.
+Two completed trials (Phase 3 and Phase 4, 224 patients combined) test tacrolimus ointment directly in facial seborrheic dermatitis. These are supported by a maintenance-therapy clinical study and several reviews, and the mechanism is plausible and matches the approved topical use in atopic dermatitis. However, results from the trials are not provided, the Phase 3 design is unconfirmed.
 
 **To proceed, the following is needed:**
 - Published results and design details (randomization, control arm) of NCT02004860 and NCT01591070

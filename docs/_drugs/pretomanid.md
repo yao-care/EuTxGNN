@@ -114,7 +114,6 @@ The prediction is based on the model score alone. There are no clinical trials o
 - In vitro antifungal susceptibility testing against *Candida* species as a first step
 - Evidence that fungi have a pathway able to activate pretomanid
 - Mechanism of action data and the product information warnings and contraindications (SmPC)
-- Clarification of the status of the cancelled EU authorization
 
 ---
 

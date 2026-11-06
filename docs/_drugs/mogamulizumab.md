@@ -107,7 +107,7 @@ The prediction is supported only by the model score (0.9944), with no clinical t
 **To proceed, the following is needed:**
 - Full mechanism of action data, and preclinical evidence of CCR4+ Treg involvement in urothelial carcinoma
 - Package insert warnings and contraindications (blocking for safety screening)
-- Clarification of the reason for the cancelled EU authorization and current availability
+- Clarification of current availability
 - Literature and trial registry searches targeted at CCR4 or Treg depletion in urothelial tumours
 - Assessment of route and formulation compatibility for the new indication
 ## Disclaimer

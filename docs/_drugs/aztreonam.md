@@ -124,7 +124,6 @@ For label-based warnings and contraindications, please refer to the SmPC.
 
 **Rationale:**
 - The top-ranked prediction (hyperamylasemia) has no clinical or literature support and no plausible antibacterial mechanism. Its high TxGNN score (0.9973) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
-- Both EU authorizations are cancelled, so there is no currently marketed product.
 - Gonococcal urethritis (L3) is the only prediction worth a follow-up research question. Its evidence is limited to small, mostly 1980s studies and one 2020 single-arm trial.
 
 **To proceed, the following is needed:**
@@ -132,7 +131,7 @@ For label-based warnings and contraindications, please refer to the SmPC.
 - Label-based warnings and contraindications from the SmPC
 - For gonococcal urethritis: confirmatory controlled trials against current first-line regimens, and an assessment of resistance data
 - Route and formulation compatibility assessment for any pursued indication
-- Clarification of why EU authorizations were cancelled and whether any alternative supply exists
+- Clarification of whether any alternative supply exists
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -128,13 +128,13 @@ For warnings and contraindications, please refer to the SmPC.
 **Decision: Hold**
 
 **Rationale:**
-The leprosy prediction rests only on a model score of 0.9953, with no clinical trials, no literature and no plausible mechanistic link. The Padcev EU marketing authorization is also cancelled. The same applies to the other top-ranked predictions. HER2-positive breast carcinoma is the only one with a plausible rationale and a registered trial, but that evidence is indirect and rated L4.
+The leprosy prediction rests only on a model score of 0.9953, with no clinical trials, no literature and no plausible mechanistic link. The same applies to the other top-ranked predictions. HER2-positive breast carcinoma is the only one with a plausible rationale and a registered trial, but that evidence is indirect and rated L4.
 
 **To proceed, the following is needed:**
 - Confirmation of whether NCT04225117 includes a breast cancer cohort, and its results if available
 - Nectin-4 expression data in the proposed target tissue (for example HER2-positive and triple-negative breast cancer)
 - Detailed mechanism of action data
-- SmPC warnings and contraindications, and clarification of the reasons for and implications of the cancelled EU authorization
+- SmPC warnings and contraindications
 - A safety review of the Major clarithromycin interaction and the many antidiabetic interactions before any new use is considered
 ## Disclaimer
 

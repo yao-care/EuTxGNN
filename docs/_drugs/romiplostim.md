@@ -93,7 +93,7 @@ The prediction is computational only (L5). There are no registered trials, the s
 **To proceed, the following is needed:**
 - Mechanistic evidence that increasing platelet number benefits platelet release disorders
 - Retrieval and review of the SmPC warnings and contraindications
-- Clarification of the EU authorization status (cancelled)
+- Clarification of the EU authorization status
 - Consideration of reprioritizing FNAIT, which has the most plausible mechanistic link, and subtype-specific inherited thrombocytopenias, with placental transfer, fetal safety, and neonatal dosing assessed first
 ## Disclaimer
 

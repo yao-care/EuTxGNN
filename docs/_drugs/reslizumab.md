@@ -104,7 +104,7 @@ The predicted indication rests only on a TxGNN model (deep learning) score (L5).
 **To proceed, the following is needed:**
 - Detailed mechanism of action data to assess whether any IL-5/eosinophil role exists in immune thrombocytopenia
 - Preclinical or observational evidence linking IL-5 blockade to platelet destruction
-- Safety information from the SmPC, plus clarification of the reasons for and implications of the authorization cancellation
+- Safety information from the SmPC
 - A completed Phase 2 randomized, placebo-controlled pilot ([NCT01111305](https://clinicaltrials.gov/study/NCT01111305), n=31) tested single-dose reslizumab for reducing eosinophilia after diethylcarbamazine treatment of Loa loa infection. It was published as an RCT ([PMID 32910141](https://pubmed.ncbi.nlm.nih.gov/32910141/), 2021). A related review is also available ([PMID 33326992](https://pubmed.ncbi.nlm.nih.gov/33326992/), 2021). The study is small and a pilot, so efficacy as a therapeutic indication is not established.
 ## Disclaimer
 

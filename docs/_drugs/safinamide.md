@@ -79,8 +79,6 @@ Currently no related literature available.
 |------|------|------|------|
 | EMEA/H/C/002396 | Xadago | safinamide methanesulfonate | Valid |
 
-The only authorization on record has a cancelled status.
-
 ## Safety Considerations
 
 - **Drug Interactions**: The interaction screening returned 110 interacting drugs in total. Among the entries compiled for this report, the one rated **Major** is:

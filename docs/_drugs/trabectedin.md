@@ -118,7 +118,6 @@ The biological rationale is credible (DNA-repair interference, BRCA-deficiency s
 - Review of the Phase 2 results (PMIDs 25239225, 24692579, 27266804) to judge response rates and benefit in breast cancer, especially in BRCA-mutated and XPG-stratified subgroups
 - SmPC warnings and contraindications from the EMA product information, which are currently missing
 - Detailed mechanism-of-action data from DrugBank
-- Clarification of the cancelled EU status, including whether any product remains available
 - A defined target population (for example BRCA-mutated or triple-negative breast cancer) and a plan for a controlled efficacy trial
 - A safety monitoring plan covering myelosuppression, liver toxicity, and interactions with CYP3A4 modulators
 ## Disclaimer

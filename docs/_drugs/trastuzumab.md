@@ -121,7 +121,7 @@ The pivotal adjuvant trial of trastuzumab with chemotherapy in HER2-positive bre
 | EMEA/H/C/006252 | Tuznue | trastuzumab | Valid |
 | EMEA/H/C/005386 | Phesgo | pertuzumab; trastuzumab | Valid |
 
-Five further cancelled authorizations are on record: Tuznue, Herwenda, Zercepac, Ogivri and Dazublys.
+Five further authorizations are on record: Tuznue, Herwenda, Zercepac, Ogivri and Dazublys.
 
 ---
 

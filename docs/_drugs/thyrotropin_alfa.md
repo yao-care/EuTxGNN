@@ -96,7 +96,7 @@ The prediction rests only on a score from the TxGNN model (deep learning), which
 - Mechanism of action data and a plausible biological rationale linking TSH receptor signalling to migraine
 - A literature and trial search specific to migraine (preclinical or observational)
 - Warnings and contraindications from the SmPC, to complete safety screening
-- Confirmation of the regulatory status and available formulations and routes, given the cancelled authorization
+- Confirmation of the regulatory status and available formulations and routes
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

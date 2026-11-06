@@ -128,7 +128,6 @@ The prediction rests only on a score from the TxGNN model (deep learning), which
 - Mechanistic or preclinical evidence connecting MT1/MT2 signalling to the pathology of polymicrogyria
 - Mechanism of action data for tasimelteon
 - Parsed safety information (warnings and contraindications) from the EU product information
-- Clarification of the regulatory status of the cancelled authorisation
 
 **Note on other predictions:** Among the other predicted indications, **insomnia** is far better supported. It has a Phase 3 randomised, double-blind, placebo-controlled trial of tasimelteon in paediatric insomnia ([NCT06953869](https://clinicaltrials.gov/study/NCT06953869), n=420, recruiting, no results yet). It also has supporting review literature and a clear mechanistic rationale. Prioritising insomnia for further evaluation would be more productive than pursuing polymicrogyria.
 ## Disclaimer

@@ -123,7 +123,7 @@ The very high model score rests only on animal-model data and indirect reviews. 
 - Human proof-of-concept evidence in rheumatoid arthritis (for example, a pilot or Phase 2 trial)
 - Confirmation of mechanism-of-action data and the SmPC warnings and contraindications
 - A benefit-risk assessment against existing rheumatoid arthritis therapies, including liver monitoring and contraception requirements
-- Confirmation of current product availability, given the cancelled EU status
+- Confirmation of current product availability
 - Direct verification of the underlying trials for the systemic sclerosis use, if that on-label indication is pursued separately
 ## Disclaimer
 

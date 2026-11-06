@@ -104,7 +104,6 @@ The prediction has no clinical or preclinical support (L5).
 - Preclinical evidence of efficacy in urothelial carcinoma models
 - A feasible regional delivery route and a toxicity assessment for the target site
 - Safety information from the SmPC (warnings and contraindications)
-- A review of the regulatory status of the cancelled authorization
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -96,7 +96,6 @@ The prediction is supported only by the model score. No clinical trials or liter
 - Mechanism of action data, and a scientific case for how CD20+ B-cell depletion could affect HER2-positive breast cancer
 - Preclinical or early clinical evidence in breast cancer
 - Warnings and contraindications from the SmPC, to allow safety screening
-- Clarification of the cancelled EU authorization status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

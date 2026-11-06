@@ -101,8 +101,6 @@ For reference, the literature that surfaced under other predicted terms is summa
 |------|------|------|------|
 | EMEA/H/C/004248 | Alunbrig | brigatinib | Valid |
 
-The authorization status is **cancelled**.
-
 ---
 
 ## Cytotoxicity
@@ -143,7 +141,7 @@ Please refer to the SmPC for the full safety information, including contraindica
 - Remap the disease label to NF2-related schwannomatosis and reassess the evidence level for that indication.
 - Obtain detailed mechanism of action data (MOA).
 - Retrieve warnings and contraindications from the SmPC, which is currently missing and blocks safety screening.
-- Clarify the reason for the cancelled EU authorization and the availability of the drug in the EU.
+- Clarify the availability of the drug in the EU.
 - Define a safety monitoring plan, including tumour lysis syndrome and cardiac risks.
 ## Disclaimer
 

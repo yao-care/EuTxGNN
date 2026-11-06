@@ -73,8 +73,6 @@ Currently no related literature available.
 |------|------|------|------|
 | EMEA/H/C/002618 | Nexium Control | esomeprazole | Valid |
 
-The EU authorization record for this single-ingredient product is marked as cancelled in the compiled licence list, while the overall market status is recorded as marketed.
-
 ## Safety Considerations
 
 - **Drug Interactions**: 100 interactions were found in the interaction query. Examples of those listed:

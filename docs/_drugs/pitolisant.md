@@ -100,8 +100,6 @@ None of these publications evaluates pitolisant for insomnia. They are listed as
 | EMEA/H/C/002616 | Wakix | pitolisant | Valid |
 | EMEA/H/C/005117 | Ozawade | pitolisant | Valid |
 
-Both authorisations are currently recorded as cancelled.
-
 ---
 
 ## Safety Considerations
@@ -130,7 +128,7 @@ The H3 inverse agonist mechanism promotes wakefulness, which runs counter to ins
 - The SmPC warnings and contraindications, which are missing from the compiled data
 - Redirecting evaluation to the hypersomnia prediction, including:
   - Confirmation of the populations and indications of NCT05156047 and NCT05458128
-  - Confirmation of regulatory and formulation status, given the "cancelled only" EU market status
+  - Confirmation of regulatory and formulation status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -117,13 +117,13 @@ For warnings and contraindications, please refer to the SmPC for safety informat
 **Decision: Hold**
 
 **Rationale:**
-Diabetic nephropathy has the best support among the predictions: one Phase 4 randomized trial (status unknown, no results), supportive preclinical data, and a PARADIGM-HF secondary analysis. However, the human evidence is not yet confirmatory, the effect cannot be attributed to sacubitril separately from valsartan, and the EU authorizations for both products are cancelled. Safety data for this report are also incomplete.
+Diabetic nephropathy has the best support among the predictions: one Phase 4 randomized trial (status unknown, no results), supportive preclinical data, and a PARADIGM-HF secondary analysis. However, the human evidence is not yet confirmatory, the effect cannot be attributed to sacubitril separately from valsartan. Safety data for this report are also incomplete.
 
 **To proceed, the following is needed:**
 - Results or an updated status for NCT06501651, and ideally adequately powered Phase 3 trials with renal endpoints
 - Mechanism of action data (MOA) from DrugBank
 - Warnings and contraindications from the EMA product information
-- Clarification of the current EU regulatory pathway given that both authorizations are cancelled
+- Clarification of the current EU regulatory pathway
 - Analysis to separate the sacubitril contribution from valsartan, and a safety plan for patients with diabetic kidney disease (e.g., renal function, potassium, blood pressure)
 ## Disclaimer
 

@@ -132,7 +132,7 @@ Package-insert warnings and contraindications were not available in the data com
 - A controlled study of prilocaine, or of lidocaine/prilocaine, in neuralgia such as PHN, with a defined route and formulation.
 - A route and formulation compatibility assessment, since this has not been completed for any predicted indication.
 - A safety plan covering methemoglobinemia risk, the interactions above, and use on compromised skin.
-- Clarification of why the Fortacin authorization was cancelled, and whether an alternative authorized topical anesthetic is available.
+- Clarification of whether an alternative authorized topical anesthetic is available.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

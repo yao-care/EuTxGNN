@@ -115,7 +115,7 @@ Label-based warnings and contraindications were not available in the data compil
 **Decision: Hold**
 
 **Rationale:**
-The mTOR rationale for soft tissue sarcoma is plausible, but the available trials are mixed-population, combination-based and not specific to liposarcoma. No liposarcoma-specific efficacy data exist. Temsirolimus's EU authorisation is cancelled, and label-level safety data are missing. Clinical development is not supported on the current evidence, though liposarcoma remains a reasonable research question.
+The mTOR rationale for soft tissue sarcoma is plausible, but the available trials are mixed-population, combination-based and not specific to liposarcoma. No liposarcoma-specific efficacy data exist. Label-level safety data are missing. Clinical development is not supported on the current evidence, though liposarcoma remains a reasonable research question.
 
 **To proceed, the following is needed:**
 - Subtype-level (liposarcoma) results from NCT00949325 and the published soft-tissue sarcoma Phase 2 data

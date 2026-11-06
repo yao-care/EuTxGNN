@@ -106,7 +106,6 @@ The prediction for pulmonary hypertension has no clinical trials or publications
 - Mechanism of action data for erdafitinib
 - Preclinical evidence in pulmonary hypertension models (FGFR inhibition effect on vascular remodeling, and whether it helps or harms)
 - Warnings and contraindications from the product information, to allow a proper safety screen
-- Clarification of the reason for the EU authorization cancellation
 - A review of the cardiopulmonary safety profile and interaction management plan
 ## Disclaimer
 

@@ -92,7 +92,7 @@ All 14 listed authorisations are valid. Dosage form was not recorded.
 | EMEA/H/C/006745 | Eiyzey | aflibercept | Valid |
 | EMEA/H/C/006761 | Afiveg | aflibercept | Valid |
 
-Nine further biosimilar authorisations (Afiveg, Afqlir, Yesafili, Vgenfli, Eydenzelt, Mynzepli, Eyluxvi, Eiyzey, Baiama) carry the same retinal indications and are also cancelled.
+Nine further biosimilar authorisations (Afiveg, Afqlir, Yesafili, Vgenfli, Eydenzelt, Mynzepli, Eyluxvi, Eiyzey, Baiama) carry the same retinal indications.
 
 ## Cytotoxicity
 

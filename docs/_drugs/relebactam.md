@@ -88,7 +88,7 @@ The predicted indication, hyperamylasemia, has no clinical trials, no literature
 - Mechanism of action data for relebactam, to allow a proper mechanistic cross-check
 - Warnings and contraindications from the product information, which are required before any safety screening
 - Any preclinical or clinical evidence linking relebactam to the predicted indication
-- Clarification of the reason for the authorization cancellation and the current regulatory pathway
+- Clarification of the current regulatory pathway
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

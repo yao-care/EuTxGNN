@@ -107,7 +107,7 @@ Dosage form and manufacturer were not available in the compiled data.
 | EMEA/H/C/004781 | Elebrato Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Valid |
 | EMEA/H/C/005254 | Temybric Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Lapsed |
 
-A sixth licence, Trelegy Ellipta (EMEA/H/C/004363), has the same COPD indication as Elebrato Ellipta and is also cancelled.
+A sixth licence, Trelegy Ellipta (EMEA/H/C/004363), has the same COPD indication as Elebrato Ellipta.
 
 ## Safety Considerations
 

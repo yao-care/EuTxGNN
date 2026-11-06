@@ -115,7 +115,7 @@ For reference, the strongest literature found for the more plausible alternative
 | EMEA/H/C/000793 | Olanzapine Cipla | olanzapine | Withdrawn |
 | EMEA/H/C/001178 | Olanzapine Apotex | olanzapine | Withdrawn |
 
-Four further cancelled authorizations are on record: Olazax Disperzi, Olazax, Olanzapine Glenmark and Olanzapine Glenmark Europe.
+Four further authorizations are on record: Olazax Disperzi, Olazax, Olanzapine Glenmark and Olanzapine Glenmark Europe.
 
 ---
 

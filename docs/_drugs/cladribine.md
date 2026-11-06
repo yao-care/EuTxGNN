@@ -79,8 +79,6 @@ Among the lower-ranked predictions, the only publication found is PMID [15241520
 | EMEA/H/C/000504 | Litak | cladribine | Valid |
 | EMEA/H/C/004230 | Mavenclad | cladribine | Valid |
 
-Both authorizations are listed as cancelled in the data compiled for this report.
-
 ## Cytotoxicity
 
 | Item | Content |
@@ -105,13 +103,13 @@ Label-based warnings and contraindications were not available. Please refer to t
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a TxGNN model (deep learning) score. There are no clinical trials or publications for rhabdomyosarcoma, and the pharmacology of cladribine (selective for lymphoid cells) does not clearly fit this tumour type. Both EU authorizations are cancelled, and the safety profile includes significant myelosuppression risk.
+The prediction is supported only by a TxGNN model (deep learning) score. There are no clinical trials or publications for rhabdomyosarcoma, and the pharmacology of cladribine (selective for lymphoid cells) does not clearly fit this tumour type. The safety profile includes significant myelosuppression risk.
 
 **To proceed, the following is needed:**
 - Preclinical data on cladribine in rhabdomyosarcoma cell lines or models, including dCK and 5'-nucleotidase expression
 - Mechanism of action data (MOA)
 - Label-based warnings and contraindications from the SmPC
-- Clarification of the current EU regulatory status, since both authorizations are cancelled
+- Clarification of the current EU regulatory status
 - Comparison against established rhabdomyosarcoma chemotherapy regimens
 - A myelosuppression and immunosuppression risk assessment for a paediatric and young adult population
 ## Disclaimer

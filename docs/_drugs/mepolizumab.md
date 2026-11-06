@@ -97,7 +97,7 @@ The prediction rests on a high computational score and a single indirect case re
 **To proceed, the following is needed:**
 - Safety information (warnings, contraindications) from the SmPC, since this is currently a blocking gap
 - Mechanism of action data to support a mechanistic-link analysis
-- Confirmation of the current EU authorization status, given that it is listed as cancelled
+- Confirmation of the current EU authorization status
 - Further evidence on whether any ITP subset is eosinophil-driven, such as case series or a pilot study
 - Direct clinical data in immune thrombocytopenia before any further consideration
 ## Disclaimer

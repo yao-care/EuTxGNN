@@ -99,7 +99,7 @@ Please refer to the SmPC for the official warnings and contraindications, which 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but the evidence is entirely preclinical (macaque studies), with no registered clinical trials. SIV infection is an animal disease model of the approved HIV-1 indication, not a distinct human indication. Both EU authorizations are cancelled, and official safety label data are missing.
+The prediction score is high, but the evidence is entirely preclinical (macaque studies), with no registered clinical trials. SIV infection is an animal disease model of the approved HIV-1 indication, not a distinct human indication. Official safety label data are missing.
 
 **To proceed, the following is needed:**
 - Clear definition of the intended use: a research model of HIV or a veterinary application

@@ -108,13 +108,13 @@ Please refer to the SmPC for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-Velpatasvir targets HCV NS5A, which HBV lacks, and none of the retrieved trials or publications tests it against HBV. The high TxGNN score appears to reflect network proximity among viral hepatitis diseases. The evidence supports only managing HBV reactivation risk during HCV therapy. Both EU authorizations are also cancelled.
+Velpatasvir targets HCV NS5A, which HBV lacks, and none of the retrieved trials or publications tests it against HBV. The high TxGNN score appears to reflect network proximity among viral hepatitis diseases. The evidence supports only managing HBV reactivation risk during HCV therapy.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, and in vitro evidence of any velpatasvir activity against HBV
 - Results of NCT04997564 on HBV reactivation outcomes in HCV/HBV co-infection
 - Safety information (warnings and contraindications) from the SmPC
-- Clarification of the current EU regulatory status, given that both authorizations are cancelled
+- Clarification of the current EU regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

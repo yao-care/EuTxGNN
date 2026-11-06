@@ -50,8 +50,6 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |------|------|------|------|
 | EMEA/H/C/005267 | Ryeqo | relugolix; norethisterone acetate; estradiol hemihydrate | Valid |
 
-This authorisation has a cancelled status.
-
 ## Safety Considerations
 
 - **Contraindications suggested by the knowledge graph** (derived from drug-disease relationships in the model's knowledge graph, not from label text): hypertension, epilepsy, anxiety and neurotic disorders, porphyria, kidney disease, liver disease, gallbladder disease, hyperglycaemia and diabetes mellitus (including diabetic ketoacidosis), hypothyroidism, systemic lupus erythematosus, asthma, hypertriglyceridaemia, hypercalcaemia, and female breast carcinoma.

@@ -118,7 +118,7 @@ A completed Phase 3 RCT (NCT00660894, n=1535) and a large Phase 3 trial of unkno
 - Warnings and contraindications from the SmPC (currently a blocking gap for safety screening)
 - Detailed mechanism-of-action data from DrugBank
 - Verified results for NCT03448549 and NCT00660894 in the adjuvant stage III colon cancer setting
-- Clarification of the regulatory pathway given the cancelled EU authorization
+- Clarification of the regulatory pathway
 - A safety monitoring plan covering haematological, dermatological and cardiovascular toxicity
 ## Disclaimer
 

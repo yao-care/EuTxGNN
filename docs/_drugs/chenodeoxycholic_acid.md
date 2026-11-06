@@ -116,7 +116,7 @@ The prediction has no clinical trials and no disease-specific literature. The me
 **To proceed, the following is needed:**
 - Mechanistic data (MOA) and an analysis of how FXR-mediated effects would affect LDL-C in familial hypercholesterolemia
 - Preclinical or early clinical studies of CDCA in lipid disorders
-- Current EU label warnings and contraindications (the cancelled SmPC) for a full safety assessment
+- Current EU label warnings and contraindications for a full safety assessment
 - A hepatotoxicity risk assessment and a plan for managing the interactions with lipid-lowering drugs and bile acid sequestrants
 
 ---

@@ -105,7 +105,7 @@ The mechanistic link for Candida UTI is plausible, and small case series and coh
 - Detailed mechanism-of-action data
 - A systematic review of the candiduria and Candida UTI literature, followed by a prospective study comparing micafungin with standard therapy
 - Pharmacokinetic data on urinary concentrations to define dosing, especially in renal impairment
-- Clarification of the regulatory status given the cancelled EU authorization
+- Clarification of the regulatory status
 - A defined patient population (for example, fluconazole-resistant symptomatic Candida UTI) to avoid overtreating asymptomatic candiduria
 ## Disclaimer
 

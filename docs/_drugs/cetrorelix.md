@@ -95,7 +95,7 @@ The prediction rests only on a score from the TxGNN model (deep learning), which
 - Product label warnings and contraindications from the SmPC
 - A literature and trial search for hypertrichosis and androgen-related hair disorders
 - If a research question is pursued, prioritize central precocious puberty, with a pediatric safety and formulation assessment
-- Clarification of the cancelled EU authorization status and any route or formulation requirements
+- Clarification of any route or formulation requirements
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

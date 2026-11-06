@@ -131,7 +131,7 @@ The ALS prediction has a very high model score but no registered trials, no lite
 - Detailed mechanism of action data
 - Warnings and contraindications from the SmPC, to support safety screening
 - A risk-benefit assessment for long-term use in ALS, considering ocular, dermatologic, hepatic and cardiac toxicity
-- Clarification of the cancelled EU authorization status and of the product's availability
+- Clarification of the product's availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

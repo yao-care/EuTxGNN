@@ -101,7 +101,6 @@ Among the other candidates predicted for emicizumab, **acquired coagulation fact
 - A mechanistic or preclinical study showing that emicizumab-mediated tenase activity could plausibly benefit pseudo-von Willebrand disease.
 - Any case reports or clinical data in platelet-type disorders.
 - Safety information from the SmPC, covering warnings and contraindications.
-- Clarification of the cancelled EU authorization status.
 - A separate evaluation of the acquired coagulation factor deficiency indication, if the goal is a candidate with real evidence.
 ## Disclaimer
 

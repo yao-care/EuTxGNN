@@ -95,7 +95,7 @@ The prediction for extracutaneous mastocytoma rests only on a model score. It ha
 - Mechanistic evidence linking IL-6 blockade to mast cell neoplasms, supported by preclinical or early clinical data
 - Detailed mechanism of action data
 - Warnings and contraindications from the SmPC, to allow a safety screening
-- Clarification of the cancelled EU authorization and the current availability of the product
+- Clarification of the current availability of the product
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

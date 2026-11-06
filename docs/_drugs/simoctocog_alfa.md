@@ -98,14 +98,14 @@ For thrombotic thrombocytopenic purpura specifically, FVIII administration could
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, pseudo-von Willebrand disease, has a high model score but no clinical or literature support. Its mechanism (a platelet receptor defect) is not addressed by FVIII replacement. Both EU authorizations are cancelled, which further limits practical availability.
+The top-ranked prediction, pseudo-von Willebrand disease, has a high model score but no clinical or literature support. Its mechanism (a platelet receptor defect) is not addressed by FVIII replacement.
 
 **To proceed, the following is needed:**
 - Safety information from the SmPC (warnings and contraindications), which is currently missing and blocks safety screening
 - Mechanism of action data from DrugBank
 - A systematic literature and trial search for the predicted indications
 - If any direction is pursued, a narrowly defined research question, such as FVIII-specific acquired deficiency without inhibitors (rank 5) or the haemophilia A with vascular abnormality variant (rank 9), which are the most biologically plausible
-- Confirmation of product availability, given the cancelled authorizations
+- Confirmation of product availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

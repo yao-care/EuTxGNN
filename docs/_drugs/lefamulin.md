@@ -92,14 +92,14 @@ For warnings and contraindications, please refer to the SmPC for safety informat
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model score (Evidence Level L5). There are no clinical trials or publications, and there is no plausible mechanism linking a bacterial ribosome inhibitor to a protozoan disease. The product's only EU authorization has also been cancelled.
+The prediction is supported only by the TxGNN model score (Evidence Level L5). There are no clinical trials or publications, and there is no plausible mechanism linking a bacterial ribosome inhibitor to a protozoan disease.
 
 **To proceed, the following is needed:**
 - In vitro activity data of lefamulin against Leishmania species
 - Preclinical (animal model) evidence of efficacy in cutaneous leishmaniasis
 - Mechanism of action data to support a plausible biological link
 - Warnings and contraindications from the SmPC, which were not available for this report
-- Clarification of the regulatory and supply situation, given the cancelled EU authorization
+- Clarification of the regulatory and supply situation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

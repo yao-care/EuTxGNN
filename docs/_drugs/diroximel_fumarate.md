@@ -96,7 +96,7 @@ The prediction rests only on a model score, with no clinical trials or publicati
 - Preclinical studies in diabetic lens or retinal models
 - Safety information from the SmPC (warnings and contraindications)
 - Assessment of route and formulation suitability for an eye condition
-- Clarification of the reasons for the cancelled EU authorization and the current regulatory pathway
+- Clarification of the current regulatory pathway
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

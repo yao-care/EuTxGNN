@@ -99,13 +99,13 @@ Other safety information (warnings and contraindications) was not available; ple
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN score. There are no clinical trials or publications for endocervical carcinoma, and the mechanistic rationale (anti-angiogenesis) is indirect. In addition, the only EU marketing authorization for tivozanib is cancelled.
+The prediction rests only on a TxGNN score. There are no clinical trials or publications for endocervical carcinoma, and the mechanistic rationale (anti-angiogenesis) is indirect.
 
 **To proceed, the following is needed:**
 - A systematic search for clinical and preclinical evidence of tivozanib or other VEGFR inhibitors in cervical and endocervical carcinoma
 - Preclinical data (cell line or xenograft models) showing VEGFR pathway dependence in endocervical carcinoma
 - Detailed mechanism of action data and SmPC safety information (warnings and contraindications)
-- Clarification of the reason for the cancelled EU authorization and the current regulatory status
+- Clarification of the current regulatory status
 - A review of whether the predicted indication differs meaningfully from related histologies in the list, since the top predictions are closely related rare gynaecological subtypes
 ## Disclaimer
 

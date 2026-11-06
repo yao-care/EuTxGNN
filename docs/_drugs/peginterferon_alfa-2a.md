@@ -131,7 +131,6 @@ Chronic hepatitis B is an already approved indication, and Phase 3/4 trials plus
 The other predicted indications (hepatitis E, hepatitis A, animal viral hepatitis, Omsk haemorrhagic fever, Kyasanur forest disease and the cardiac conditions) have no direct evidence and are recommended as **Hold**.
 
 **To proceed, the following is needed:**
-- Clarification of the reason for the cancelled EU authorisation and confirmation of current availability
 - Warnings and contraindications from the SmPC (currently missing, and a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Patient selection criteria (compensated liver disease, raised ALT, viral replication), stopping rules and a monitoring plan for interferon-related toxicity

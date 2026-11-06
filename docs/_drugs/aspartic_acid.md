@@ -115,7 +115,7 @@ The prediction rests on model output alone (Evidence Level L5). Knowledge-graph 
 - Package insert warnings and contraindications from the EMA SmPC, which are required before any safety screening
 - Preclinical or mechanistic studies showing an effect of aspartate on bicarbonate reabsorption or H+ secretion in RTA models
 - Clarification of whether acid-load effects make aspartic acid unsuitable in RTA
-- Review of the reasons for the cancellation of the marketing authorisation, and assessment of route and formulation compatibility with the new indication
+- Review of route and formulation compatibility with the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

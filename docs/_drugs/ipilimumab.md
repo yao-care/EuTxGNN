@@ -161,7 +161,6 @@ Warnings and contraindications from the product label were not available. Please
 - Do not pursue choroideremia unless a credible biological rationale emerges.
 - Mechanism of action data (MOA) for ipilimumab.
 - Warnings and contraindications from the SmPC (currently a blocking gap for safety screening).
-- Clarification of the cancelled EU authorization status and whether other valid products exist.
 - For melanoma subtypes: subtype-specific efficacy data, ideally from randomized trials, and an immune-related adverse event monitoring plan, including ocular toxicity.
 ## Disclaimer
 

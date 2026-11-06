@@ -80,8 +80,6 @@ Currently no related literature available.
 |------|------|------|------|
 | EMEA/H/C/005647 | Winrevair |  | Valid |
 
-The only authorization is recorded with a status of cancelled.
-
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.

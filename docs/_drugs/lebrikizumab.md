@@ -52,8 +52,6 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |------|------|------|------|
 | EMEA/H/C/005894 | Ebglyss | Lebrikizumab | Valid |
 
-The single authorization is recorded as cancelled in the compiled data. This status should be verified against the current EMA register before any decision is made.
-
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.

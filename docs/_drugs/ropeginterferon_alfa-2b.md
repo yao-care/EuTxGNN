@@ -116,7 +116,6 @@ The prediction rests on model output alone (L5). No clinical trials or literatur
 - Mechanism of action data, to allow a proper mechanistic assessment
 - Warnings and contraindications from the SmPC, which are a blocking gap for safety screening
 - Any preclinical or clinical evidence that interferon-alpha has a role in Laubry-Pezzi syndrome or related cardiac structural conditions
-- Clarification of the reasons for and the status of the cancelled EU authorization
 - Review of whether the high TxGNN scores for structural and developmental conditions reflect a model artefact rather than true biological signal
 ## Disclaimer
 

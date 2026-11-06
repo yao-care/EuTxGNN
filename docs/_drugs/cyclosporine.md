@@ -108,14 +108,13 @@ Please refer to the SmPC for the full label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a computational score alone. There are no clinical trials, and the single publication concerns stem cell transplantation, not cyclosporine treatment. The EU authorizations are all cancelled, and the label safety data is unavailable.
+The prediction rests on a computational score alone. There are no clinical trials, and the single publication concerns stem cell transplantation, not cyclosporine treatment. The label safety data is unavailable.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) to enable a mechanistic analysis
 - Label warnings and contraindications from the EU product information
 - Direct preclinical or clinical evidence of cyclosporine in CGD
 - Assessment of route and formulation compatibility, since existing EU products are ophthalmic and CGD would likely need systemic exposure
-- Clarification of why the EU authorizations were cancelled
 
 ---
 

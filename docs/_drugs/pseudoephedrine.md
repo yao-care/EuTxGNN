@@ -119,7 +119,7 @@ The prediction for nasal cavity disease is mechanistically plausible but largely
 - The SmPC warnings and contraindications, to allow safety screening
 - Mechanism of action data from DrugBank
 - Clinical studies of pseudoephedrine in specific nasal cavity disorders (for example nonallergic rhinitis)
-- A defined target condition and formulation, given the cancelled authorisation
+- A defined target condition and formulation
 - A cardiovascular and metabolic safety review, given the many knowledge-graph contraindications and antidiabetic interactions
 ## Disclaimer
 

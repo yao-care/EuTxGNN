@@ -108,7 +108,6 @@ The HIV prediction has a high model score but no clinical trials, and its only s
 - Label warnings and contraindications from the SmPC (for safety screening)
 - Direct preclinical data on deferasirox in HIV models, to establish the direction and size of any effect
 - A safety assessment for people living with HIV, given the liver, kidney and blood-cell disorder signals and the major interactions listed above
-- Clarification of why the EU authorizations were cancelled and whether this affects feasibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

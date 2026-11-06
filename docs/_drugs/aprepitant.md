@@ -101,7 +101,7 @@ The prediction has no clinical trial or literature support (evidence level L5). 
 - Detailed mechanism of action data for aprepitant
 - Preclinical or mechanistic studies testing whether NK1 antagonism affects V2 receptor-mediated water handling
 - Label warnings and contraindications from the current SmPC, to allow safety screening
-- Clarification of the cancelled EU authorization status and available dosage forms
+- Clarification of available dosage forms
 - Comparison with other predicted indications, such as subarachnoid haemorrhage, where the biological rationale is more plausible
 ## Disclaimer
 
