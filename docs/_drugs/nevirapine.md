@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "Nevirapine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 last_modified_at: 2026-11-06
-description: "Nevirapine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L4). Approved use: HIV-1 infection (in combination with other antiretroviral medicines)…"
+description: "Nevirapine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV-1 infection (in combination with other antiretroviral medicines)…"
 ---
 
 # Nevirapine

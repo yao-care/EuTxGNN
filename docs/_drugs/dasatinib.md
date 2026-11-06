@@ -6,7 +6,7 @@ nav_order: 176
 evidence_level: L2
 indication_count: 9
 last_modified_at: 2026-11-06
-description: "Dasatinib: predicted new indication Ewing sarcoma (evidence level L5). Approved use: Paediatric and adult Ph+ CML (chronic phase…"
+description: "Dasatinib: predicted new indication Ewing sarcoma (evidence level L2). Approved use: Paediatric and adult Ph+ CML (chronic phase…"
 monitor_inn: "Dasatinib"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
 ---

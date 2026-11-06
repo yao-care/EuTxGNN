@@ -6,7 +6,7 @@ nav_order: 232
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-11-06
-description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Emergency treatment of allergic reactions (anaphylaxis) due to insect…"
+description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L5). Approved use: Emergency treatment of allergic reactions (anaphylaxis) due to insect…"
 monitor_inn: "Epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 ---

@@ -6,7 +6,7 @@ nav_order: 503
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-11-06
-description: "Pseudoephedrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Symptomatic treatment of seasonal allergic rhinitis when accompanied…"
+description: "Pseudoephedrine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Symptomatic treatment of seasonal allergic rhinitis when accompanied…"
 monitor_inn: "pseudoephedrine"
 predicted_indications: ["nasal cavity disease", "allergic urticaria"]
 ---

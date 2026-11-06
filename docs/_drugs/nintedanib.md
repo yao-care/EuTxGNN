@@ -6,7 +6,7 @@ nav_order: 430
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-11-06
-description: "Nintedanib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L4). Approved use: Idiopathic pulmonary fibrosis (IPF) and other chronic fibrosing inter…"
+description: "Nintedanib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L5). Approved use: Idiopathic pulmonary fibrosis (IPF) and other chronic fibrosing inter…"
 monitor_inn: "Nintedanib"
 predicted_indications: ["dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
 ---

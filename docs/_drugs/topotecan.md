@@ -6,7 +6,7 @@ nav_order: 629
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-11-06
-description: "Topotecan: predicted new indication Female breast carcinoma (evidence level L3). Approved use: Relapsed small cell lung cancer (SCLC) and metastatic ovarian cancer…"
+description: "Topotecan: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Relapsed small cell lung cancer (SCLC) and metastatic ovarian cancer…"
 monitor_inn: "Topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
 ---

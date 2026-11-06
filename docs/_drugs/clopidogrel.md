@@ -6,7 +6,7 @@ nav_order: 154
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-11-06
-description: "Clopidogrel: predicted new indication migraine with brainstem aura (evidence level L2). Approved use: Secondary prevention of atherothrombotic events (myocardial infarctio…"
+description: "Clopidogrel: predicted new indication migraine with brainstem aura (evidence level L5). Approved use: Secondary prevention of atherothrombotic events (myocardial infarctio…"
 monitor_inn: "Clopidogrel"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "rheumatoid arthritis"]
 ---

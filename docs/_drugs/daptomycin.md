@@ -6,7 +6,7 @@ nav_order: 170
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-11-06
-description: "Daptomycin: predicted new indication Osteoarthritis (evidence level L4). Approved use: Complicated skin and soft-tissue infections (cSSTI) in adults and chi…"
+description: "Daptomycin: predicted new indication Osteoarthritis (evidence level L5). Approved use: Complicated skin and soft-tissue infections (cSSTI) in adults and chi…"
 monitor_inn: "Daptomycin"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
 ---

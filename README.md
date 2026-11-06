@@ -24,7 +24,7 @@ Drug repurposing predictions for European Union EMA-approved drugs using the TxG
 | **Unique Drugs** | 669 |
 | **Unique Indications** | 17,041 |
 | **DDI Data** | 160,235 |
-| **FHIR Resources** | 664 MK / 2,613 CUD |
+| **FHIR Resources** | 560 MK / 2,613 CUD |
 
 ### Evidence Level Distribution
 

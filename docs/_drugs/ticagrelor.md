@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Ticagrelor"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "fibrocartilaginous embolism"]
 last_modified_at: 2026-11-06
-description: "Ticagrelor: predicted new indication Intracranial arteriosclerosis (evidence level L3). Approved use: Prevention of atherothrombotic events in adults with acute coronary s…"
+description: "Ticagrelor: predicted new indication Intracranial arteriosclerosis (evidence level L5). Approved use: Prevention of atherothrombotic events in adults with acute coronary s…"
 ---
 
 # Ticagrelor

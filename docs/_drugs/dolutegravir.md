@@ -6,7 +6,7 @@ nav_order: 195
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-11-06
-description: "Dolutegravir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L4). Approved use: HIV infection…"
+description: "Dolutegravir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV infection…"
 monitor_inn: "Dolutegravir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---

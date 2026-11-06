@@ -6,7 +6,7 @@ nav_order: 197
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-11-06
-description: "Doravirine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV-1 infection in adults and adolescents aged 12 years and older wei…"
+description: "Doravirine: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV-1 infection in adults and adolescents aged 12 years and older wei…"
 monitor_inn: "Doravirine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---

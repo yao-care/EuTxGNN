@@ -1,0 +1,253 @@
+{
+  "_note": "藥物頁 front matter description 的證據等級字樣改成頁首等級的紀錄（母目錄 .claude/sync_description_levels.py 追加；只換等級字樣，其他文字不動）。還原：把 original_description 寫回該頁 description。",
+  "entries": [
+    {
+      "page": "docs/_drugs/abacavir.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Abacavir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infection…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/amikacin.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Amikacin: predicted new indication Paratyphoid fever (evidence level L4). Approved use: NTM lung infections caused by Mycobacterium avium Complex (MAC) in ad…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/amlodipine.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Amlodipine: predicted new indication Brain stem infarction . Intracerebral hemorrhage is the best-supporte… (evidence level L4). Approved use: Essential hypertension (patients not adequately controll…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/bosentan.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L4",
+      "original_description": "\"Bosentan: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Pulmonary arterial hypertension (WHO functional class III…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/budesonide.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Budesonide: predicted new indication Atopic eczema (evidence level L4). Approved use: Eosinophilic esophagitis (EoE) in adults (older than 18 years of age)\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/cabozantinib.md",
+      "date": "2026-11-06",
+      "from": "L3",
+      "to": "L5",
+      "original_description": "\"Cabozantinib: predicted new indication Liposarcoma (evidence level L3). Approved use: Progressive…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/chenodeoxycholic_acid.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Chenodeoxycholic Acid: predicted new indication Homozygous familial hypercholesterolemia (evidence level L4). Approved use: Inborn errors of primary bile acid synthesis due to sterol 27-hydroxy…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/clopidogrel.md",
+      "date": "2026-11-06",
+      "from": "L2",
+      "to": "L5",
+      "original_description": "\"Clopidogrel: predicted new indication migraine with brainstem aura (evidence level L2). Approved use: Secondary prevention of atherothrombotic events (myocardial infarctio…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/daptomycin.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Daptomycin: predicted new indication Osteoarthritis (evidence level L4). Approved use: Complicated skin and soft-tissue infections (cSSTI) in adults and chi…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/dasatinib.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L2",
+      "original_description": "\"Dasatinib: predicted new indication Ewing sarcoma (evidence level L5). Approved use: Paediatric and adult Ph+ CML (chronic phase…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/dolutegravir.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Dolutegravir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L4). Approved use: HIV infection…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/doravirine.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Doravirine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV-1 infection in adults and adolescents aged 12 years and older wei…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/emtricitabine.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L4",
+      "original_description": "\"Emtricitabine: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: Treatment of HIV-1 infected adults and children…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/epinephrine.md",
+      "date": "2026-11-06",
+      "from": "L1",
+      "to": "L5",
+      "original_description": "\"Epinephrine: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Emergency treatment of allergic reactions (anaphylaxis) due to insect…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/idelalisib.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L2",
+      "original_description": "\"Idelalisib: predicted new indication Mantle cell lymphoma (evidence level L5). Approved use: CLL (in combination with rituximab or ofatumumab) and refractory foll…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/imiglucerase.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Imiglucerase: predicted new indication Hurler syndrome (evidence level L4). Approved use: Long-term enzyme replacement therapy for non-neuronopathic (Type 1) o…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/inotersen.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Inotersen: predicted new indication Acute intermittent porphyria (evidence level L4). Approved use: Treatment of stage 1 or stage 2 polyneuropathy in adult patients with…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/larotrectinib.md",
+      "date": "2026-11-06",
+      "from": "L3",
+      "to": "L5",
+      "original_description": "\"Larotrectinib: predicted new indication Multiple endocrine neoplasia (evidence level L3). Approved use: Solid tumours with an NTRK gene fusion that are locally advanced…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/meropenem.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L4",
+      "original_description": "\"Meropenem: predicted new indication Bacterial arthritis (evidence level L5). Approved use: Complicated urinary tract infection (cUTI) including pyelonephritis…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/miglustat.md",
+      "date": "2026-11-06",
+      "from": "L2",
+      "to": "L5",
+      "original_description": "\"Miglustat: predicted new indication autosomal ichthyosis syndrome with fatal disease course (evidence level L2). Approved use: Mild to moderate type 1 Gaucher disease (when enzyme replacement ther…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/mometasone.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Mometasone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L4). Approved use: Maintenance treatment of asthma in adults and adolescents 12 years of…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/nevirapine.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Nevirapine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L4). Approved use: HIV-1 infection (in combination with other antiretroviral medicines)…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/nintedanib.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Nintedanib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L4). Approved use: Idiopathic pulmonary fibrosis (IPF) and other chronic fibrosing inter…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/pitolisant.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Pitolisant: predicted new indication insomnia (disease) (evidence level L4). Approved use: Improving wakefulness and reducing excessive daytime sleepiness (EDS)…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/pseudoephedrine.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Pseudoephedrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Symptomatic treatment of seasonal allergic rhinitis when accompanied…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/rivastigmine.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Rivastigmine: predicted new indication Glaucoma (evidence level L4). Approved use: Symptomatic treatment of mild to moderately severe Alzheimer's dement…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/tacrolimus.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L1",
+      "original_description": "\"Tacrolimus: predicted new indication Seborrheic dermatitis (evidence level L5). Approved use: Prophylaxis of transplant rejection in adult kidney or liver allograf…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/ticagrelor.md",
+      "date": "2026-11-06",
+      "from": "L3",
+      "to": "L5",
+      "original_description": "\"Ticagrelor: predicted new indication Intracranial arteriosclerosis (evidence level L3). Approved use: Prevention of atherothrombotic events in adults with acute coronary s…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/topotecan.md",
+      "date": "2026-11-06",
+      "from": "L3",
+      "to": "L5",
+      "original_description": "\"Topotecan: predicted new indication Female breast carcinoma (evidence level L3). Approved use: Relapsed small cell lung cancer (SCLC) and metastatic ovarian cancer…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/trabectedin.md",
+      "date": "2026-11-06",
+      "from": "L2",
+      "to": "L5",
+      "original_description": "\"Trabectedin: predicted new indication Female breast carcinoma (evidence level L2). Approved use: Advanced soft-tissue sarcoma after failure of anthracyclines and ifos…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/zanubrutinib.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Zanubrutinib: predicted new indication Myeloid leukemia (evidence level L4). Approved use: Waldenström's macroglobulinaemia (WM) after at least one prior therap…\"",
+      "tool": ".claude/sync_description_levels.py"
+    }
+  ]
+}

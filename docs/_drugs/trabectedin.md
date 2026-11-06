@@ -6,7 +6,7 @@ nav_order: 632
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-11-06
-description: "Trabectedin: predicted new indication Female breast carcinoma (evidence level L2). Approved use: Advanced soft-tissue sarcoma after failure of anthracyclines and ifos…"
+description: "Trabectedin: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Advanced soft-tissue sarcoma after failure of anthracyclines and ifos…"
 monitor_inn: "Trabectedin"
 predicted_indications: ["female breast carcinoma"]
 ---
