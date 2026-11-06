@@ -1209,7 +1209,7 @@
       "evidence_level": "L4",
       "indication_count": 7,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/cyclosporine/"
     },
@@ -1729,7 +1729,7 @@
       "evidence_level": "L4",
       "indication_count": 3,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/emtricitabine/"
     },
@@ -2359,7 +2359,7 @@
       "evidence_level": "L4",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/glutamic-acid/"
     },
@@ -2959,7 +2959,7 @@
       "evidence_level": "L2",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/lenalidomide/"
     },
@@ -3449,7 +3449,7 @@
       "evidence_level": "L5",
       "indication_count": 1,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/nelarabine/"
     },
@@ -3659,7 +3659,7 @@
       "evidence_level": "L5",
       "indication_count": 1,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/olopatadine/"
     },
@@ -4109,7 +4109,7 @@
       "evidence_level": "L5",
       "indication_count": 6,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/pregabalin/"
     },
@@ -4929,7 +4929,7 @@
       "evidence_level": "L5",
       "indication_count": 3,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/temsirolimus/"
     },
