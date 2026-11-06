@@ -43,7 +43,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Bydureon is indicated in adults 18 years and older with type 2 diabetes mellitus to improve glycaemic control in combination with other glucose lowering medicinal products when the therapy in use, together with diet and exercise, does not provide adequate glycaemic control (see section 4.4, 4.5 and  |
-| EU Market Status | Not marketed (licences cancelled: 2 of 2) |
+| EU Market Status | No valid EMA central authorisation (withdrawn, lapsed or expired: 2 of 2) – national authorisations in EU member states are not included in this data |
 | Number of Authorizations | 2 (valid: 0) |
 
 ## EU Market Information

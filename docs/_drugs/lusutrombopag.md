@@ -50,7 +50,7 @@ but at present there are **0 clinical trials** and **0 publications** supporting
 | Predicted New Indication | Hereditary thrombocytopenia with normal platelets |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed (licences cancelled: 1 of 1) |
+| EU Market Status | No valid EMA central authorisation (withdrawn, lapsed or expired: 1 of 1) – national authorisations in EU member states are not included in this data |
 | Number of Authorizations | 1 (valid: 0) |
 | Recommended Decision | Hold |
 

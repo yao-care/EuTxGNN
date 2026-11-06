@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L4 |
-| EU Market Status | Not marketed (licences cancelled: 2 of 2) |
+| EU Market Status | No valid EMA central authorisation (withdrawn, lapsed or expired: 2 of 2) – national authorisations in EU member states are not included in this data |
 | Number of Authorizations | 2 (valid: 0) |
 | Recommended Decision | Hold |
 

@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **Hodgkins lymphoma**, but none
 | Predicted New Indication | Hodgkins lymphoma |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed (licences cancelled: 1 of 1) |
+| EU Market Status | No valid EMA central authorisation (withdrawn, lapsed or expired: 1 of 1) – national authorisations in EU member states are not included in this data |
 | Number of Authorizations | 1 (valid: 0) |
 | Recommended Decision | Hold |
 

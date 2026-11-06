@@ -49,7 +49,7 @@ Currently there are **0 registered clinical trials** and **1 publication** (a ca
 | Predicted New Indication | Congenital coronary artery anomaly |
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed (licences cancelled: 2 of 2) |
+| EU Market Status | No valid EMA central authorisation (withdrawn, lapsed or expired: 2 of 2) – national authorisations in EU member states are not included in this data |
 | Number of Authorizations | 2 (valid: 0) |
 | Recommended Decision | Hold |
 
@@ -95,7 +95,7 @@ Warnings and contraindications were not available in the data compiled for this 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication is essentially a subtype of the approved ST-elevation MI indication. No registered trials exist, and the only supporting paper is an indirect case report. The sole EU authorization is cancelled, and label safety data are missing.
+The predicted indication is essentially a subtype of the approved ST-elevation MI indication. No registered trials exist, and the only supporting paper is an indirect case report. The EU authorization is cancelled, and label safety data are missing.
 
 **To proceed, the following is needed:**
 - Safety information from the SmPC (warnings and contraindications), currently a blocking gap

@@ -278,3 +278,22 @@ M3V	en	Both EU authorizations are cancelled.	hit	site=EuTxGNN;ms=Marketed;valid=
 M3V	en	There are no cancelled authorizations.	miss	site=EuTxGNN;ms=Marketed;valid=4;cancelled=0
 M3V	en	Fenfluramine was historically withdrawn from the market as an appetite suppressant because of valvular heart disease.	miss	site=EuTxGNN;ms=Marketed;valid=1;cancelled=0
 M3V	en	Both EU authorizations are cancelled.	miss	site=EuTxGNN;ms=Marketed;valid=2;cancelled=1
+ROW_STATUS	en	UsTxGNN|| NDA208743 (cancelled) | Tymlos (Radius Health, Inc.) | Injection, solution | Not listed in the license record |	hit	NDA208743=valid
+ROW_STATUS	en	UsTxGNN|| ANDA077449 (Ingenus), cancelled | Fentanyl | Injection | Not available |	hit	ANDA077449=valid
+ROW_STATUS	en	UsTxGNN|| NDA020764 | Lamictal | Tablet | Not specified (valid) |	hit	NDA020764=cancelled
+ROW_STATUS	en	UsTxGNN|| NDA 020764 | Lamictal | Tablet | Not specified (status: valid) |	hit	NDA020764=cancelled
+ROW_STATUS	en	UsTxGNN|| NDA208743 | TYMLOS | RADIUS | Solution; subcutaneous | Valid |	miss	NDA208743=valid
+ROW_STATUS	en	UsTxGNN|| ANDA080384 | PROCAINE HYDROCHLORIDE | ABRAXIS PHARM | Injectable; injection | Discontinued in Drugs@FDA |	miss	ANDA080384=cancelled
+ROW_STATUS	en	UsTxGNN|| NDA208743 (cancelled) | Tymlos | Injection | Not listed |	miss	NDA208743=cancelled
+ROW_STATUS	en	KrTxGNN|| 200812345 (cancelled) | X | Tablet | Valid |	miss	200812345=valid
+M3	en	All four licences are valid, and none has been cancelled.	miss	valid=4
+M3	en	All 12 centralised authorisations are valid; none were withdrawn.	miss	valid=12
+M3	es	Todos los registros están vigentes y ninguno fue cancelado.	miss	valid=3
+M3	de	Alle Zulassungen sind gültig, keine wurde widerrufen.	miss	valid=2
+M3	en	All three licences have been cancelled.	hit	valid=2
+M3	en	All EU authorisations for this drug were withdrawn in 2019.	hit	valid=1
+M3	es	Todos los registros fueron cancelados.	hit	valid=1
+M3V	en	The drug is therefore not marketed in the EU, which limits any repurposing plan.	hit	site=EuTxGNN;ms=Cancelled only;valid=0;cancelled=2
+M3V	en	The EU authorization is cancelled.	miss	site=EuTxGNN;ms=Cancelled only;valid=0;cancelled=1
+M3V	en	Duloxetine is not currently available in Singapore.	hit	site=SgTxGNN;ms=Not marketed;valid=0;cancelled=0
+M3V	en	A suitable topical or vaginal formulation and route, since none is currently registered in Singapore	miss	site=SgTxGNN;ms=Not marketed;valid=0;cancelled=0

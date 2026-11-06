@@ -925,6 +925,13 @@
    "reason": "依成分重建後（EMA medicines report 2026-11-06）本藥的 EMA 集中許可全部有效、沒有註銷；只刪說 EU 許可已註銷的片段，其餘（安全性、下一步需要的資料）保留"
   }
  ],
+ "reteplase": [
+  {
+   "sentence": "The sole EU authorization is cancelled, and label safety data are missing.",
+   "cut": "sole ",
+   "reason": "依 EMA medicines report（2026-11-06）本藥有 2 筆 EMA 集中許可（Rapilysin、Ecokinase）都已撤銷；「唯一一張」與張數不符，只刪 sole，已撤銷的說法屬實保留"
+  }
+ ],
  "rilpivirine": [
   {
    "sentence": "Both EU authorizations are cancelled, and official safety label data are missing.",
