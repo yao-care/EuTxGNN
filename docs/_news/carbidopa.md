@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Carbidopa?">
-<strong>Carbidopa</strong> currently has <strong>15 news articles</strong>, with 0 predicted indications.
+<strong>Carbidopa</strong> currently has <strong>16 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (16)
+
+### [Maladie de Parkinson : l’activité physique associée à une progression plus lente des symptômes - Charente Libre](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdXNfUGJGWV8zNzNaQ1lpYkN1S0ItSzk1eFVsTGw3RlNYRVVyWVBuaTVoSDAtSkU3Sll6N18xWU83T29MRFNVNm1uMWQtWWhOSzNaVjlScXpxT1BYTkNyWmg2YVdOQWYwWVhnamRTd0lVNkFONFpCTU5WQlF3RWx4QXk2c0FrWGViWDM5OW1xVXpqM0NXZEtvSzJOcC1ueWVTZVNBcGRmTmRDbERKUjNxUUs5eFp6UjRlMWJxcWxiMUF0WmRXSl9WQVZTZWdQR2NRbDFNLWlIdw?oc=5)
+
+2026-11-07 <span class="news-indication-tag">maladie de Parkinson</span>
+
+Source: [Charente Libre](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdXNfUGJGWV8zNzNaQ1lpYkN1S0ItSzk1eFVsTGw3RlNYRVVyWVBuaTVoSDAtSkU3Sll6N18xWU83T29MRFNVNm1uMWQtWWhOSzNaVjlScXpxT1BYTkNyWmg2YVdOQWYwWVhnamRTd0lVNkFONFpCTU5WQlF3RWx4QXk2c0FrWGViWDM5OW1xVXpqM0NXZEtvSzJOcC1ueWVTZVNBcGRmTmRDbERKUjNxUUs5eFp6UjRlMWJxcWxiMUF0WmRXSl9WQVZTZWdQR2NRbDFNLWlIdw?oc=5)
+
+---
 
 ### [7 signs you’re at risk of dementia — and they’re not about forgetting things - The Times](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSTVyVEZOX2hCM0dlS2dORy1ZQlJfYlVoY2diYWx3M1Q2QXR3MXZ4OGk1dE84Z1hzdWltQkwtbG9mWm1FZnpJZHE5clN3cVlvd0tBRFJLdGlzazlUS0ZYdXNQZ1lRNXBLTGFtSDJVV1N3ZE4xZURjcm9PSGxwTmtnSlhmNG5DSGxLakRTZ1lMWnZvQWRlOE10N01TdER6c3BnTjFHUFhiaHppYVBTTEdIblZGY1NqZ096WE81SVRpSFktbGM2YXlxN1M3ZjRScmZ0UGp5cWkteUc?oc=5)
 
@@ -72,6 +80,14 @@ Source: [Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYz
 
 ---
 
+### [Alzheimer's symptom in nose may start 'way before' memory loss - Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUFmTk5sMTRlU1JUXy1CbW1vSmI2Z3VSXzRVX1JLaTZEWEJSUTNEc0tvXzJKNHBaUzVXckJDb09IV1FUYlJ5YTdoVmF6QzZucFZtbU84eUxpUEdDRkdvOVVLMDI4OS1QN0dNVzNPWHNmQk9NbFIzZmNqVjNqRXVQdjgwR3MyVkcxVUFXadIBkgFBVV95cUxNbkZUUFVmOWpObmZ2QVA5eEtGQ0p6Vk83Y0VnNmlQdFFTS0NLSzdNMi1aTDZtWk1kWlB5LV8tRzRvWDZvaWJObFd1c0R0SGtBMVZNTmFMbm4wYlJoU212ak5aVVRlSkY1TkFDZzZCZFJDTjhPcDRIZ2ZGWEg0TTBDTktsdnE5ZkV5R0N6RTZRYlk3UQ?oc=5)
+
+2026-11-05 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUFmTk5sMTRlU1JUXy1CbW1vSmI2Z3VSXzRVX1JLaTZEWEJSUTNEc0tvXzJKNHBaUzVXckJDb09IV1FUYlJ5YTdoVmF6QzZucFZtbU84eUxpUEdDRkdvOVVLMDI4OS1QN0dNVzNPWHNmQk9NbFIzZmNqVjNqRXVQdjgwR3MyVkcxVUFXadIBkgFBVV95cUxNbkZUUFVmOWpObmZ2QVA5eEtGQ0p6Vk83Y0VnNmlQdFFTS0NLSzdNMi1aTDZtWk1kWlB5LV8tRzRvWDZvaWJObFd1c0R0SGtBMVZNTmFMbm4wYlJoU212ak5aVVRlSkY1TkFDZzZCZFJDTjhPcDRIZ2ZGWEg0TTBDTktsdnE5ZkV5R0N6RTZRYlk3UQ?oc=5)
+
+---
+
 ### [Parkinson’s: beyond the brain](https://news.google.com/rss/articles/CBMiX0FVX3lxTE05eHJMOFd1aWFGNloyMHNqbDdUZkxMMHhOajlTNndFLTIyWmhYOHEyUEZlMEIyaUR6VzRMWS02ZU1yX0JaWnlhbUliZXNRdDlnYWxHMktNeExCYWJJVHdV?oc=5)
 
 2026-11-04 <span class="news-indication-tag">Parkinson's</span>
@@ -93,14 +109,6 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQR28ySy15R
 2026-11-04 <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [Liverpool Echo](https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1JMSU5IM3JLME51YTVIYjAxOU5xbkdDR0ZNT0M3LUZ4VV9faDl6SWVXUEszMHJDTm5jbDRRZHBJRDZ0bHZpcnhKQ1c5aTNndHMySjBQbVF3MFJJbGlGRzBfYlR3SFVkZnRGTXQ4cHZnSElNUm1YUzlUYVlFS2tXcVFKcGhPbTgwSEVSOGZUdVNUVGc2eUZ0YWJn0gGfAUFVX3lxTFBwSGJHR3B0WFJxRURNM1RCOXJTRzhrRFdEZzR1R1gxdnAzbWpnTU9IMTRibXRoeUhJQWxnU1VEbWtKelp1cVloRHBkb2haWTdwSDRROGFhdl80WjByd3locnREQ3lBdVE0M0Vhc3NYYjZHQmk2aW83VVNnWVBIQjI2TWxuTC1LSFdpVGRsR3RYZkdHcVcwcDdxWVZRM2pLMA?oc=5)
-
----
-
-### [Alzheimer's symptom in nose may start 'way before' memory loss - Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUFmTk5sMTRlU1JUXy1CbW1vSmI2Z3VSXzRVX1JLaTZEWEJSUTNEc0tvXzJKNHBaUzVXckJDb09IV1FUYlJ5YTdoVmF6QzZucFZtbU84eUxpUEdDRkdvOVVLMDI4OS1QN0dNVzNPWHNmQk9NbFIzZmNqVjNqRXVQdjgwR3MyVkcxVUFXadIBkgFBVV95cUxNbkZUUFVmOWpObmZ2QVA5eEtGQ0p6Vk83Y0VnNmlQdFFTS0NLSzdNMi1aTDZtWk1kWlB5LV8tRzRvWDZvaWJObFd1c0R0SGtBMVZNTmFMbm4wYlJoU212ak5aVVRlSkY1TkFDZzZCZFJDTjhPcDRIZ2ZGWEg0TTBDTktsdnE5ZkV5R0N6RTZRYlk3UQ?oc=5)
-
-2026-11-03 <span class="news-indication-tag">Alzheimer's</span>
-
-Source: [Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUFmTk5sMTRlU1JUXy1CbW1vSmI2Z3VSXzRVX1JLaTZEWEJSUTNEc0tvXzJKNHBaUzVXckJDb09IV1FUYlJ5YTdoVmF6QzZucFZtbU84eUxpUEdDRkdvOVVLMDI4OS1QN0dNVzNPWHNmQk9NbFIzZmNqVjNqRXVQdjgwR3MyVkcxVUFXadIBkgFBVV95cUxNbkZUUFVmOWpObmZ2QVA5eEtGQ0p6Vk83Y0VnNmlQdFFTS0NLSzdNMi1aTDZtWk1kWlB5LV8tRzRvWDZvaWJObFd1c0R0SGtBMVZNTmFMbm4wYlJoU212ak5aVVRlSkY1TkFDZzZCZFJDTjhPcDRIZ2ZGWEg0TTBDTktsdnE5ZkV5R0N6RTZRYlk3UQ?oc=5)
 
 ---
 

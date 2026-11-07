@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>58 news articles</strong>, with 5 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>57 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (58)
+## Related News (57)
 
 ### [Weekend habits that are wrecking your heart health - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPXy1vTHFDX1AwbkxHYkJlRm85a1NzOXMtYzBPZGxUMnAxLUNQTWNTQmROTHlSZVVVdFdXWUhkaS0yTzd6OHNWLS1md2RMSXZUY2JIamdWNk55MFBwdE5ySjcxbFhHQkRFNWMxenE2a0xIV2lnWlRuOXF5UUFWRWJzTUV1SkhlbmxzMVB5VVlWeUg0VDVmUTJDcTliLUs4eU13RWFJeGRybw?oc=5)
 
@@ -68,14 +68,6 @@ Source: [CuídatePlus](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTWZw
 2026-11-05 <span class="news-indication-tag">ictus</span>
 
 Source: [Telecinco](https://news.google.com/rss/articles/CBMizgFBVV95cUxQcXZFRUJTQkJqd25EcWE1ZFpULUcxWGw3ZWJKVWl1cVV6RHRCaXVlUHdOUHV0c2t4X2pfOXFLZ01zTnZzZmpVajd1ZjMwSndCb2FzMk5VMzBrbDBKYWpJRm80TDFxdXpPRjRKLVFiaWEzQjYzTDAyaGNjZW5heDhjY29DVjVia0xxWkFleUh0UEtwSGJKS3ZXYzVLMWc1cTQ3dU9XOVYzZ0NiYXlYQWpjWWpaYkRXclFfNGdhLXRGckFTQi1vd0Z3VmpxZnRhQQ?oc=5)
-
----
-
-### [Bluthochdruck: Nur 27 Prozent der Hochrisikopatienten erreichen den Zielwert](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNempzZlRTc3dyT0FfdEJNai05SExrMXk3RUZfVXgwUC1DdDltbWFfY3NVOUpVWHhwR3k4R2EzOVpabDBXTU4tT29kMWMxTjFDNlpvR05WdG5udnk5amJ2VUdudUdKMDFQZm9iOWpGbHpRejJxMVpNcnBWUC0xN2h5TjJEY2FST0RWUzktYjA1QXA1VTQyVjExT0ZQNkQ2TklPcDZTUmVheEtxWEFuVkNmalFNb3RjYWJObnUteVd1T0ljQQ?oc=5)
-
-2026-11-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNempzZlRTc3dyT0FfdEJNai05SExrMXk3RUZfVXgwUC1DdDltbWFfY3NVOUpVWHhwR3k4R2EzOVpabDBXTU4tT29kMWMxTjFDNlpvR05WdG5udnk5amJ2VUdudUdKMDFQZm9iOWpGbHpRejJxMVpNcnBWUC0xN2h5TjJEY2FST0RWUzktYjA1QXA1VTQyVjExT0ZQNkQ2TklPcDZTUmVheEtxWEFuVkNmalFNb3RjYWJObnUteVd1T0ljQQ?oc=5)
 
 ---
 

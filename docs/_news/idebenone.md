@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Idebenone?">
-<strong>Idebenone</strong> currently has <strong>30 news articles</strong>, with 10 predicted indications.
+<strong>Idebenone</strong> currently has <strong>32 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ This page combines the AI-predicted indications for Idebenone with the latest he
 <p><a href="{{ '/drugs/idebenone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (30)
+## Related News (32)
 
 ### [KI von Google erkennt Bluthochdruck nur mit Puls- und Bewegungssensor einer Smartwatch - The Decoder](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1JXeFlFYjZ2LWRvSVVoeXlQUDdlZFY5QjEwRmFZYlQyNnA3Q0FqcFRTaGdlQk1tM2NzdzlEZUVSYTBQXzBKeXJLcWlnVW0tWmFQSXFTQmpWbkFwQ0VVdXZqeVg2VlNFU3pWOXUzaG44MHZPTkZDQk50ZFhYeGlCYmNDUGE3NmczV2djZE1BT19GOTQ1cVFrREw5UXY1djFfQ19DZ2VvczdvOHVHOFE?oc=5)
 
 2026-11-07 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [The Decoder](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1JXeFlFYjZ2LWRvSVVoeXlQUDdlZFY5QjEwRmFZYlQyNnA3Q0FqcFRTaGdlQk1tM2NzdzlEZUVSYTBQXzBKeXJLcWlnVW0tWmFQSXFTQmpWbkFwQ0VVdXZqeVg2VlNFU3pWOXUzaG44MHZPTkZDQk50ZFhYeGlCYmNDUGE3NmczV2djZE1BT19GOTQ1cVFrREw5UXY1djFfQ19DZ2VvczdvOHVHOFE?oc=5)
+
+---
+
+### [Congreso S.E.N.: El objetivo del 30 % de diálisis domiciliaria exige cambiar cómo se elige y organiza el tratamiento renal - IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWdVay1qOWVhZFNmZGdrM0s3My1DenBZcC1rZjZrUk52R0RCamhSbW1nLVlscUlUR284eUdiSFJRRUJRU09sb1RSODVWWnRzVUwzbmQ3NVROWUlUb3ZmdHJLTTkxV1FqdFhVX1JXNVBuWk9xVHY4X0UyS0VhbDE1WFNKMnBSaWlDV2ZLZkZUWTZvTmVMOG1ra2ZndXptdkllcXNyNDNqQmh4YXprVk1Lc3l1Tjd2UzDSAbIBQVVfeXFMTzEtWlQ5STUycmhlekdORE5iUWdsc2V6U0pUalIxNnlUc2xPSDM3cW9oWXQ5dFF2WGtfU2RDcTNNU2NKVDNLNlJuX0M4VWl5cmtDWFpEQ3N5RmpBOVRQRDN6YnZ1M0xNVERJYWdQampmZG01Ty03TjhNQm9RNEFranQtT2xBZ2NwN0w3ZHlkWlFzZkJLMFRZR1RsaWxwUk5pMTNRZjdJejZBRFhpdWlfVmQ3dw?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWdVay1qOWVhZFNmZGdrM0s3My1DenBZcC1rZjZrUk52R0RCamhSbW1nLVlscUlUR284eUdiSFJRRUJRU09sb1RSODVWWnRzVUwzbmQ3NVROWUlUb3ZmdHJLTTkxV1FqdFhVX1JXNVBuWk9xVHY4X0UyS0VhbDE1WFNKMnBSaWlDV2ZLZkZUWTZvTmVMOG1ra2ZndXptdkllcXNyNDNqQmh4YXprVk1Lc3l1Tjd2UzDSAbIBQVVfeXFMTzEtWlQ5STUycmhlekdORE5iUWdsc2V6U0pUalIxNnlUc2xPSDM3cW9oWXQ5dFF2WGtfU2RDcTNNU2NKVDNLNlJuX0M4VWl5cmtDWFpEQ3N5RmpBOVRQRDN6YnZ1M0xNVERJYWdQampmZG01Ty03TjhNQm9RNEFranQtT2xBZ2NwN0w3ZHlkWlFzZkJLMFRZR1RsaWxwUk5pMTNRZjdJejZBRFhpdWlfVmQ3dw?oc=5)
 
 ---
 
@@ -86,7 +94,7 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUpmZW
 
 ### [Bluthochdruck: Nur 27 Prozent der Hochrisikopatienten erreichen den Zielwert](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNempzZlRTc3dyT0FfdEJNai05SExrMXk3RUZfVXgwUC1DdDltbWFfY3NVOUpVWHhwR3k4R2EzOVpabDBXTU4tT29kMWMxTjFDNlpvR05WdG5udnk5amJ2VUdudUdKMDFQZm9iOWpGbHpRejJxMVpNcnBWUC0xN2h5TjJEY2FST0RWUzktYjA1QXA1VTQyVjExT0ZQNkQ2TklPcDZTUmVheEtxWEFuVkNmalFNb3RjYWJObnUteVd1T0ljQQ?oc=5)
 
-2026-11-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-11-05 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNempzZlRTc3dyT0FfdEJNai05SExrMXk3RUZfVXgwUC1DdDltbWFfY3NVOUpVWHhwR3k4R2EzOVpabDBXTU4tT29kMWMxTjFDNlpvR05WdG5udnk5amJ2VUdudUdKMDFQZm9iOWpGbHpRejJxMVpNcnBWUC0xN2h5TjJEY2FST0RWUzktYjA1QXA1VTQyVjExT0ZQNkQ2TklPcDZTUmVheEtxWEFuVkNmalFNb3RjYWJObnUteVd1T0ljQQ?oc=5)
 
@@ -121,6 +129,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRz
 2026-11-04 <span class="news-indication-tag">hipertensión</span>
 
 Source: [El Diario Vasco](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTG5wdnFZaVpTckticGctel9kMlJ2VW54MHlIY2owLVhlTmtyd0tzaldObXVtN2dUMVdLN2xXbU1VblBRVWhiWGpDN0huLVJIckxsYXMxbmFKR1ZadHZSOGtEZ0NvaUp1VzJxdVZrRzYwZmtVdk9KaGpUZ18yd19WbklsclZlaUpPcU9kdkE3MjQyeERCenltWjU0RVdZVWcxNUowZXRyRTR5eVZZRlZ4RzFqZkV3NG9oREpzbEFiWFJmdkpXbHg2WGo0OGZZNFcxeDl6cWVEOWJsUzBa0gHiAUFVX3lxTE5JZ18xTXFoV3Y5OUJGNVE3cFFMQjU4TlVNTkRxYll5UFNYWTdUcFR6eW9uZkNiLXpmWkxkbjdCSzVyMXphUF8wSHJNN1JhblhlYVg4V0RXdUlEclRabDBob1ZCRkFzSDN0d19kRm5NX2xiaFpCanlEVmRVUGVDaTYyaV82Nzkyb0VrWnk1UHRuTnQwa0xPUjRtTzRpRHNwdEkwZ0NEMTYzdUdBcTY1TUtxTVMtMHg1YkJwamJfNExkclBRbG9GeE92dGREcVRuRU9TS2VQLVRrX1dGVDNhYXQ5Qnc?oc=5)
+
+---
+
+### [elEconomista.es | A partir de los 65 años, comer cacahuetes a diario está muy bien, pero solo funciona si lo consumes de esta forma para evitar la hipertensión - El Economista](https://news.google.com/rss/articles/CBMixAJBVV95cUxQSUR6ZTZ0SFp6N3I1VGwxcmYybFFQcE5kZFhoZGZYeVdJU29LN2x3WWwxSzNOLWFoMjFEWEFNV3lROENsVk85dFNMOFB2YWZaQlJUQ2RpMTRsa3JYblEyU292QVpfR05KOGJ5aC1IZ0V3ZVVncE1Mc1VqOWJLQzY1VVk0SzR0MmtSbkk2N0Z1WkhkMHZtbk9QN25BU1J1RExDbFdIMFZmZFcyRzFOOFY2UnY3ckg1ZHBMNzZMTVAwYUVDck1jOHp1N2VpbUp4Mm9hSkwzQUxwT3Z4amY0SlJEcFVnYkIySy1IVWVUTV9BNUxiRjhtTm1mazBaNUx4aXJMc0lESGpTZVBVTXpSeHZTT0FCUl9YTXFFejRhWVN4UzRwZkpuNXpDckNYTFhCVVpJUWN2YkZzaGo3WUdMQzl6cm9LUlLSAa8CQVVfeXFMTTF3QmlTMkVYZnBUeEkxNDYybE1pNU1FQWstQ01GeW1OMzh4ZU9nSkdqYWpLV0FWOWxRcnNzSUU0cENzMVBZclBET3ltQ0tkRXRadlVmRHV1UDBuSl9mMzd0Y29LbDZzaWNSQ21NejhtTXdGWHhESXczb3hPMFlITjZyZjBoX2Y3dzJWd0oyT0YyUTZycWpnelAzSW9PMlhOU1pPMXd3aFFOUzZPMWFXOF90dVZFSFE0Y0tQOWJPLTJoUlhNUTJoTzg4NWZJR3VJN2JKZGRQTFdMeV9fZ0JFV2VwNzZ5eFhDdV9sT05sS1JZWG5BNHFpdTgycS1EM2xfREREZmdydFk4WVZqbWV6SnhpcDBhbkp4RTlGeUEybDJ6aG04UTdoa29tR0QzOFU4?oc=5)
+
+2026-11-04 <span class="news-indication-tag">hipertensión</span>
+
+Source: [El Economista](https://news.google.com/rss/articles/CBMixAJBVV95cUxQSUR6ZTZ0SFp6N3I1VGwxcmYybFFQcE5kZFhoZGZYeVdJU29LN2x3WWwxSzNOLWFoMjFEWEFNV3lROENsVk85dFNMOFB2YWZaQlJUQ2RpMTRsa3JYblEyU292QVpfR05KOGJ5aC1IZ0V3ZVVncE1Mc1VqOWJLQzY1VVk0SzR0MmtSbkk2N0Z1WkhkMHZtbk9QN25BU1J1RExDbFdIMFZmZFcyRzFOOFY2UnY3ckg1ZHBMNzZMTVAwYUVDck1jOHp1N2VpbUp4Mm9hSkwzQUxwT3Z4amY0SlJEcFVnYkIySy1IVWVUTV9BNUxiRjhtTm1mazBaNUx4aXJMc0lESGpTZVBVTXpSeHZTT0FCUl9YTXFFejRhWVN4UzRwZkpuNXpDckNYTFhCVVpJUWN2YkZzaGo3WUdMQzl6cm9LUlLSAa8CQVVfeXFMTTF3QmlTMkVYZnBUeEkxNDYybE1pNU1FQWstQ01GeW1OMzh4ZU9nSkdqYWpLV0FWOWxRcnNzSUU0cENzMVBZclBET3ltQ0tkRXRadlVmRHV1UDBuSl9mMzd0Y29LbDZzaWNSQ21NejhtTXdGWHhESXczb3hPMFlITjZyZjBoX2Y3dzJWd0oyT0YyUTZycWpnelAzSW9PMlhOU1pPMXd3aFFOUzZPMWFXOF90dVZFSFE0Y0tQOWJPLTJoUlhNUTJoTzg4NWZJR3VJN2JKZGRQTFdMeV9fZ0JFV2VwNzZ5eFhDdV9sT05sS1JZWG5BNHFpdTgycS1EM2xfREREZmdydFk4WVZqbWV6SnhpcDBhbkp4RTlGeUEybDJ6aG04UTdoa29tR0QzOFU4?oc=5)
 
 ---
 

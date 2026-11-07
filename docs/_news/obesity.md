@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "obesidad (obesity) News"
+title: "obésité (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 36 articles, 8 related drugs."
+description: "Health news about obésité (obesity). 38 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-11-07
 ---
 
-# obesidad (obesity) News
+# obésité (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>36 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obésité (obesity)?">
+<strong>obésité (obesity)</strong> currently has <strong>38 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “obesidad” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obésité” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -34,7 +34,23 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (36)
+## Related News (38)
+
+### [Remboursement de l'obésité : l'enveloppe de 100 millions annoncée par la ministre finance au mieux 1 patient éligible sur 15](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk1TYmJZaDZSb2VsQ1BwVF9sZ2NVMTBnOEEyN0h6NFVxazlPdzdRWWR5TTdJdWZYRUQ5bDZsUlJwRGhNZVQzeURhSy1wZlhrOFBWdGNtVzBmakEwQkczNmFKcmJuYVlOT2tXenRncl9iYnZQbGI3bmRoVW5jdXc1dUJOMklpYnFJQXp0aGx2TFg1QUZpTkUwX243NVB5WUtJcDQ5SHlTR045dkhQQ0NZQ01QT2djQzUt?oc=5)
+
+2026-11-07
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk1TYmJZaDZSb2VsQ1BwVF9sZ2NVMTBnOEEyN0h6NFVxazlPdzdRWWR5TTdJdWZYRUQ5bDZsUlJwRGhNZVQzeURhSy1wZlhrOFBWdGNtVzBmakEwQkczNmFKcmJuYVlOT2tXenRncl9iYnZQbGI3bmRoVW5jdXc1dUJOMklpYnFJQXp0aGx2TFg1QUZpTkUwX243NVB5WUtJcDQ5SHlTR045dkhQQ0NZQ01QT2djQzUt?oc=5)
+
+---
+
+### [Congreso S.E.N.: El objetivo del 30 % de diálisis domiciliaria exige cambiar cómo se elige y organiza el tratamiento renal - IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWdVay1qOWVhZFNmZGdrM0s3My1DenBZcC1rZjZrUk52R0RCamhSbW1nLVlscUlUR284eUdiSFJRRUJRU09sb1RSODVWWnRzVUwzbmQ3NVROWUlUb3ZmdHJLTTkxV1FqdFhVX1JXNVBuWk9xVHY4X0UyS0VhbDE1WFNKMnBSaWlDV2ZLZkZUWTZvTmVMOG1ra2ZndXptdkllcXNyNDNqQmh4YXprVk1Lc3l1Tjd2UzDSAbIBQVVfeXFMTzEtWlQ5STUycmhlekdORE5iUWdsc2V6U0pUalIxNnlUc2xPSDM3cW9oWXQ5dFF2WGtfU2RDcTNNU2NKVDNLNlJuX0M4VWl5cmtDWFpEQ3N5RmpBOVRQRDN6YnZ1M0xNVERJYWdQampmZG01Ty03TjhNQm9RNEFranQtT2xBZ2NwN0w3ZHlkWlFzZkJLMFRZR1RsaWxwUk5pMTNRZjdJejZBRFhpdWlfVmQ3dw?oc=5)
+
+2026-11-06
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWdVay1qOWVhZFNmZGdrM0s3My1DenBZcC1rZjZrUk52R0RCamhSbW1nLVlscUlUR284eUdiSFJRRUJRU09sb1RSODVWWnRzVUwzbmQ3NVROWUlUb3ZmdHJLTTkxV1FqdFhVX1JXNVBuWk9xVHY4X0UyS0VhbDE1WFNKMnBSaWlDV2ZLZkZUWTZvTmVMOG1ra2ZndXptdkllcXNyNDNqQmh4YXprVk1Lc3l1Tjd2UzDSAbIBQVVfeXFMTzEtWlQ5STUycmhlekdORE5iUWdsc2V6U0pUalIxNnlUc2xPSDM3cW9oWXQ5dFF2WGtfU2RDcTNNU2NKVDNLNlJuX0M4VWl5cmtDWFpEQ3N5RmpBOVRQRDN6YnZ1M0xNVERJYWdQampmZG01Ty03TjhNQm9RNEFranQtT2xBZ2NwN0w3ZHlkWlFzZkJLMFRZR1RsaWxwUk5pMTNRZjdJejZBRFhpdWlfVmQ3dw?oc=5)
+
+---
 
 ### [Congreso S.E.N.: España da el primer paso hacia un plan nacional de salud renal para frenar la enfermedad renal crónica - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
 

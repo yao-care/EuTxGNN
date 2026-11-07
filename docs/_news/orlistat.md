@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>94 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>95 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (94)
+## Related News (95)
+
+### [Remboursement de l'obésité : l'enveloppe de 100 millions annoncée par la ministre finance au mieux 1 patient éligible sur 15](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk1TYmJZaDZSb2VsQ1BwVF9sZ2NVMTBnOEEyN0h6NFVxazlPdzdRWWR5TTdJdWZYRUQ5bDZsUlJwRGhNZVQzeURhSy1wZlhrOFBWdGNtVzBmakEwQkczNmFKcmJuYVlOT2tXenRncl9iYnZQbGI3bmRoVW5jdXc1dUJOMklpYnFJQXp0aGx2TFg1QUZpTkUwX243NVB5WUtJcDQ5SHlTR045dkhQQ0NZQ01QT2djQzUt?oc=5)
+
+2026-11-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk1TYmJZaDZSb2VsQ1BwVF9sZ2NVMTBnOEEyN0h6NFVxazlPdzdRWWR5TTdJdWZYRUQ5bDZsUlJwRGhNZVQzeURhSy1wZlhrOFBWdGNtVzBmakEwQkczNmFKcmJuYVlOT2tXenRncl9iYnZQbGI3bmRoVW5jdXc1dUJOMklpYnFJQXp0aGx2TFg1QUZpTkUwX243NVB5WUtJcDQ5SHlTR045dkhQQ0NZQ01QT2djQzUt?oc=5)
+
+---
 
 ### [Weekend habits that are wrecking your heart health - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPXy1vTHFDX1AwbkxHYkJlRm85a1NzOXMtYzBPZGxUMnAxLUNQTWNTQmROTHlSZVVVdFdXWUhkaS0yTzd6OHNWLS1md2RMSXZUY2JIamdWNk55MFBwdE5ySjcxbFhHQkRFNWMxenE2a0xIV2lnWlRuOXF5UUFWRWJzTUV1SkhlbmxzMVB5VVlWeUg0VDVmUTJDcTliLUs4eU13RWFJeGRybw?oc=5)
 
@@ -48,6 +56,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPXy1
 2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajRaZkpKVmNiNVV3UUdUZG56Wl9VSmhuNlRrWWJTM2JscDJoLUdsY1h4QkFZWTl0T0RRY3pWbkpydnpmaFpXQWk1OGFHOXZjQ3JIWnNabGR6eG9QWTVfcFY1c09DekFSVGZJc29FR2JUbW1EbEV1TWhkdmNLSldLMmRBdTk1QUhaQ1ZDRThxcEVSWklTOHVQOG1aNnpneXFlMFhTQXVjNGNRYUhEZGhGelRQTGxfWWhPTDlB?oc=5)
+
+---
+
+### [Congreso S.E.N.: El objetivo del 30 % de diálisis domiciliaria exige cambiar cómo se elige y organiza el tratamiento renal - IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWdVay1qOWVhZFNmZGdrM0s3My1DenBZcC1rZjZrUk52R0RCamhSbW1nLVlscUlUR284eUdiSFJRRUJRU09sb1RSODVWWnRzVUwzbmQ3NVROWUlUb3ZmdHJLTTkxV1FqdFhVX1JXNVBuWk9xVHY4X0UyS0VhbDE1WFNKMnBSaWlDV2ZLZkZUWTZvTmVMOG1ra2ZndXptdkllcXNyNDNqQmh4YXprVk1Lc3l1Tjd2UzDSAbIBQVVfeXFMTzEtWlQ5STUycmhlekdORE5iUWdsc2V6U0pUalIxNnlUc2xPSDM3cW9oWXQ5dFF2WGtfU2RDcTNNU2NKVDNLNlJuX0M4VWl5cmtDWFpEQ3N5RmpBOVRQRDN6YnZ1M0xNVERJYWdQampmZG01Ty03TjhNQm9RNEFranQtT2xBZ2NwN0w3ZHlkWlFzZkJLMFRZR1RsaWxwUk5pMTNRZjdJejZBRFhpdWlfVmQ3dw?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWdVay1qOWVhZFNmZGdrM0s3My1DenBZcC1rZjZrUk52R0RCamhSbW1nLVlscUlUR284eUdiSFJRRUJRU09sb1RSODVWWnRzVUwzbmQ3NVROWUlUb3ZmdHJLTTkxV1FqdFhVX1JXNVBuWk9xVHY4X0UyS0VhbDE1WFNKMnBSaWlDV2ZLZkZUWTZvTmVMOG1ra2ZndXptdkllcXNyNDNqQmh4YXprVk1Lc3l1Tjd2UzDSAbIBQVVfeXFMTzEtWlQ5STUycmhlekdORE5iUWdsc2V6U0pUalIxNnlUc2xPSDM3cW9oWXQ5dFF2WGtfU2RDcTNNU2NKVDNLNlJuX0M4VWl5cmtDWFpEQ3N5RmpBOVRQRDN6YnZ1M0xNVERJYWdQampmZG01Ty03TjhNQm9RNEFranQtT2xBZ2NwN0w3ZHlkWlFzZkJLMFRZR1RsaWxwUk5pMTNRZjdJejZBRFhpdWlfVmQ3dw?oc=5)
 
 ---
 
@@ -144,14 +160,6 @@ Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnN
 2026-11-05 <span class="news-indication-tag">obesidad</span>
 
 Source: [El Globalfarma](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdWIzOWhtVDN1cHM4RkxjeGdnb2YtTlFuODZZandMMzhpWVA3T0N3X2ZuclZSOGNpUEN1dGZoOGdFOTJuZVdRaUIxU2VzNEpYNU5qeFNMS2lNOEZpSHJBUFVXMGdEUUdtenZReUxYY3I4QXBGS18wdEVPTmUteFoyalRPZnRtRlE?oc=5)
-
----
-
-### [Bluthochdruck: Nur 27 Prozent der Hochrisikopatienten erreichen den Zielwert](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNempzZlRTc3dyT0FfdEJNai05SExrMXk3RUZfVXgwUC1DdDltbWFfY3NVOUpVWHhwR3k4R2EzOVpabDBXTU4tT29kMWMxTjFDNlpvR05WdG5udnk5amJ2VUdudUdKMDFQZm9iOWpGbHpRejJxMVpNcnBWUC0xN2h5TjJEY2FST0RWUzktYjA1QXA1VTQyVjExT0ZQNkQ2TklPcDZTUmVheEtxWEFuVkNmalFNb3RjYWJObnUteVd1T0ljQQ?oc=5)
-
-2026-11-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNempzZlRTc3dyT0FfdEJNai05SExrMXk3RUZfVXgwUC1DdDltbWFfY3NVOUpVWHhwR3k4R2EzOVpabDBXTU4tT29kMWMxTjFDNlpvR05WdG5udnk5amJ2VUdudUdKMDFQZm9iOWpGbHpRejJxMVpNcnBWUC0xN2h5TjJEY2FST0RWUzktYjA1QXA1VTQyVjExT0ZQNkQ2TklPcDZTUmVheEtxWEFuVkNmalFNb3RjYWJObnUteVd1T0ljQQ?oc=5)
 
 ---
 

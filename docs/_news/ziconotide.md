@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Ziconotide?">
-<strong>Ziconotide</strong> currently has <strong>39 news articles</strong>, with 9 predicted indications.
+<strong>Ziconotide</strong> currently has <strong>41 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Ziconotide with the latest h
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (39)
+## Related News (41)
+
+### [Remboursement de l'obésité : l'enveloppe de 100 millions annoncée par la ministre finance au mieux 1 patient éligible sur 15](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk1TYmJZaDZSb2VsQ1BwVF9sZ2NVMTBnOEEyN0h6NFVxazlPdzdRWWR5TTdJdWZYRUQ5bDZsUlJwRGhNZVQzeURhSy1wZlhrOFBWdGNtVzBmakEwQkczNmFKcmJuYVlOT2tXenRncl9iYnZQbGI3bmRoVW5jdXc1dUJOMklpYnFJQXp0aGx2TFg1QUZpTkUwX243NVB5WUtJcDQ5SHlTR045dkhQQ0NZQ01QT2djQzUt?oc=5)
+
+2026-11-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk1TYmJZaDZSb2VsQ1BwVF9sZ2NVMTBnOEEyN0h6NFVxazlPdzdRWWR5TTdJdWZYRUQ5bDZsUlJwRGhNZVQzeURhSy1wZlhrOFBWdGNtVzBmakEwQkczNmFKcmJuYVlOT2tXenRncl9iYnZQbGI3bmRoVW5jdXc1dUJOMklpYnFJQXp0aGx2TFg1QUZpTkUwX243NVB5WUtJcDQ5SHlTR045dkhQQ0NZQ01QT2djQzUt?oc=5)
+
+---
+
+### [Congreso S.E.N.: El objetivo del 30 % de diálisis domiciliaria exige cambiar cómo se elige y organiza el tratamiento renal - IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWdVay1qOWVhZFNmZGdrM0s3My1DenBZcC1rZjZrUk52R0RCamhSbW1nLVlscUlUR284eUdiSFJRRUJRU09sb1RSODVWWnRzVUwzbmQ3NVROWUlUb3ZmdHJLTTkxV1FqdFhVX1JXNVBuWk9xVHY4X0UyS0VhbDE1WFNKMnBSaWlDV2ZLZkZUWTZvTmVMOG1ra2ZndXptdkllcXNyNDNqQmh4YXprVk1Lc3l1Tjd2UzDSAbIBQVVfeXFMTzEtWlQ5STUycmhlekdORE5iUWdsc2V6U0pUalIxNnlUc2xPSDM3cW9oWXQ5dFF2WGtfU2RDcTNNU2NKVDNLNlJuX0M4VWl5cmtDWFpEQ3N5RmpBOVRQRDN6YnZ1M0xNVERJYWdQampmZG01Ty03TjhNQm9RNEFranQtT2xBZ2NwN0w3ZHlkWlFzZkJLMFRZR1RsaWxwUk5pMTNRZjdJejZBRFhpdWlfVmQ3dw?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWdVay1qOWVhZFNmZGdrM0s3My1DenBZcC1rZjZrUk52R0RCamhSbW1nLVlscUlUR284eUdiSFJRRUJRU09sb1RSODVWWnRzVUwzbmQ3NVROWUlUb3ZmdHJLTTkxV1FqdFhVX1JXNVBuWk9xVHY4X0UyS0VhbDE1WFNKMnBSaWlDV2ZLZkZUWTZvTmVMOG1ra2ZndXptdkllcXNyNDNqQmh4YXprVk1Lc3l1Tjd2UzDSAbIBQVVfeXFMTzEtWlQ5STUycmhlekdORE5iUWdsc2V6U0pUalIxNnlUc2xPSDM3cW9oWXQ5dFF2WGtfU2RDcTNNU2NKVDNLNlJuX0M4VWl5cmtDWFpEQ3N5RmpBOVRQRDN6YnZ1M0xNVERJYWdQampmZG01Ty03TjhNQm9RNEFranQtT2xBZ2NwN0w3ZHlkWlFzZkJLMFRZR1RsaWxwUk5pMTNRZjdJejZBRFhpdWlfVmQ3dw?oc=5)
+
+---
 
 ### [Congreso S.E.N.: España da el primer paso hacia un plan nacional de salud renal para frenar la enfermedad renal crónica - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
 

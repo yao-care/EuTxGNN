@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Parkinson's (parkinson disease) News"
+title: "maladie de Parkinson (parkinson disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Parkinson's (parkinson disease). 4 articles, 7 related drugs."
+description: "Health news about maladie de Parkinson (parkinson disease). 5 articles, 7 related drugs."
 permalink: /news/parkinson-disease/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
-# Parkinson's (parkinson disease) News
+# maladie de Parkinson (parkinson disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Parkinson's (parkinson disease)?">
-<strong>Parkinson's (parkinson disease)</strong> currently has <strong>4 news articles</strong> and 7 related drugs.
+<p class="key-answer" data-question="What news is there about maladie de Parkinson (parkinson disease)?">
+<strong>maladie de Parkinson (parkinson disease)</strong> currently has <strong>5 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Parkinson's” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “maladie de Parkinson” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “Parkinson's” and lis
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Maladie de Parkinson : l’activité physique associée à une progression plus lente des symptômes - Charente Libre](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdXNfUGJGWV8zNzNaQ1lpYkN1S0ItSzk1eFVsTGw3RlNYRVVyWVBuaTVoSDAtSkU3Sll6N18xWU83T29MRFNVNm1uMWQtWWhOSzNaVjlScXpxT1BYTkNyWmg2YVdOQWYwWVhnamRTd0lVNkFONFpCTU5WQlF3RWx4QXk2c0FrWGViWDM5OW1xVXpqM0NXZEtvSzJOcC1ueWVTZVNBcGRmTmRDbERKUjNxUUs5eFp6UjRlMWJxcWxiMUF0WmRXSl9WQVZTZWdQR2NRbDFNLWlIdw?oc=5)
+
+2026-11-07
+
+Source: [Charente Libre](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdXNfUGJGWV8zNzNaQ1lpYkN1S0ItSzk1eFVsTGw3RlNYRVVyWVBuaTVoSDAtSkU3Sll6N18xWU83T29MRFNVNm1uMWQtWWhOSzNaVjlScXpxT1BYTkNyWmg2YVdOQWYwWVhnamRTd0lVNkFONFpCTU5WQlF3RWx4QXk2c0FrWGViWDM5OW1xVXpqM0NXZEtvSzJOcC1ueWVTZVNBcGRmTmRDbERKUjNxUUs5eFp6UjRlMWJxcWxiMUF0WmRXSl9WQVZTZWdQR2NRbDFNLWlIdw?oc=5)
+
+---
 
 ### [Parkinson’s: beyond the brain](https://news.google.com/rss/articles/CBMiX0FVX3lxTE05eHJMOFd1aWFGNloyMHNqbDdUZkxMMHhOajlTNndFLTIyWmhYOHEyUEZlMEIyaUR6VzRMWS02ZU1yX0JaWnlhbUliZXNRdDlnYWxHMktNeExCYWJJVHdV?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Metformin?">
-<strong>Metformin</strong> currently has <strong>62 news articles</strong>, with 5 predicted indications.
+<strong>Metformin</strong> currently has <strong>65 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Metformin with the latest he
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (62)
+## Related News (65)
 
 ### [Diabetes: Implantat wirkt schon nach einer Stunde – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWG01QUUxeHRhUDZaY2dOX2pKQnFDVUtyVXVfTld3ZGRxNXlQYk8tNThpMk1mdDJGNThuT2ZISU91SFdkalFTd2VEcVd3aE1LdWZpOU05elVmeEJLU19LcjAzeW1feXRtOUpKNkFPRmxUNFdKa1VETWRkT2NYOUI5WHptNzBJMlV3UERCMUJWTjdtdFFWSTdRcVdwb0tLRzk0MjZuVTVZaHZoTm9DSVVQQVZ1UlhGR1lPMEdDN0tmR2R4YTdhaXlRamhhclFlQ3JqT0JYeWhubmpNTUE?oc=5)
 
@@ -79,6 +79,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObG
 
 ---
 
+### [Congreso S.E.N.: El objetivo del 30 % de diálisis domiciliaria exige cambiar cómo se elige y organiza el tratamiento renal - IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWdVay1qOWVhZFNmZGdrM0s3My1DenBZcC1rZjZrUk52R0RCamhSbW1nLVlscUlUR284eUdiSFJRRUJRU09sb1RSODVWWnRzVUwzbmQ3NVROWUlUb3ZmdHJLTTkxV1FqdFhVX1JXNVBuWk9xVHY4X0UyS0VhbDE1WFNKMnBSaWlDV2ZLZkZUWTZvTmVMOG1ra2ZndXptdkllcXNyNDNqQmh4YXprVk1Lc3l1Tjd2UzDSAbIBQVVfeXFMTzEtWlQ5STUycmhlekdORE5iUWdsc2V6U0pUalIxNnlUc2xPSDM3cW9oWXQ5dFF2WGtfU2RDcTNNU2NKVDNLNlJuX0M4VWl5cmtDWFpEQ3N5RmpBOVRQRDN6YnZ1M0xNVERJYWdQampmZG01Ty03TjhNQm9RNEFranQtT2xBZ2NwN0w3ZHlkWlFzZkJLMFRZR1RsaWxwUk5pMTNRZjdJejZBRFhpdWlfVmQ3dw?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWdVay1qOWVhZFNmZGdrM0s3My1DenBZcC1rZjZrUk52R0RCamhSbW1nLVlscUlUR284eUdiSFJRRUJRU09sb1RSODVWWnRzVUwzbmQ3NVROWUlUb3ZmdHJLTTkxV1FqdFhVX1JXNVBuWk9xVHY4X0UyS0VhbDE1WFNKMnBSaWlDV2ZLZkZUWTZvTmVMOG1ra2ZndXptdkllcXNyNDNqQmh4YXprVk1Lc3l1Tjd2UzDSAbIBQVVfeXFMTzEtWlQ5STUycmhlekdORE5iUWdsc2V6U0pUalIxNnlUc2xPSDM3cW9oWXQ5dFF2WGtfU2RDcTNNU2NKVDNLNlJuX0M4VWl5cmtDWFpEQ3N5RmpBOVRQRDN6YnZ1M0xNVERJYWdQampmZG01Ty03TjhNQm9RNEFranQtT2xBZ2NwN0w3ZHlkWlFzZkJLMFRZR1RsaWxwUk5pMTNRZjdJejZBRFhpdWlfVmQ3dw?oc=5)
+
+---
+
 ### [Congreso S.E.N.: España da el primer paso hacia un plan nacional de salud renal para frenar la enfermedad renal crónica - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
 
 2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
@@ -100,6 +108,14 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBh
 2026-11-06 <span class="news-indication-tag">diabetes</span>
 
 Source: [CNN](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlg0dllnRGNQTHppV1JiSmZWZl9pQU1EYW9lakoydElQUkctVXpDUE5UR1EwZUNYS2h3X0FaaDRDWUhtcmtldzNqMWhzUTJ1LVBZYXpnUkZLUy01NVVGV0YtX0VUMG9qc1BNX0R4NDdnaV9PQU51cHMzd0dad3pFdHdrdGhSVnZDTDJzcXU5Y1BsUU9C?oc=5)
+
+---
+
+### [Gürtelrose trifft nicht nur Ältere: Warum chronische Erkrankungen das Risiko erhöhen](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoeEtnWG5aUFJITUdic214QWJNV2ZmOWV0NkpXWU1ld1B3VEdTR05KVVI2bnB5N3lXV3I3OHBXd3pfNlBWNUZHbXZ6WlU4ZzdPOTVDVkhrbl8?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span>
+
+Source: [Presseportal](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoeEtnWG5aUFJITUdic214QWJNV2ZmOWV0NkpXWU1ld1B3VEdTR05KVVI2bnB5N3lXV3I3OHBXd3pfNlBWNUZHbXZ6WlU4ZzdPOTVDVkhrbl8?oc=5)
 
 ---
 
@@ -388,6 +404,14 @@ Source: [El Economista](https://news.google.com/rss/articles/CBMitwJBVV95cUxQTjN
 2026-11-02 <span class="news-indication-tag">diabetes</span>
 
 Source: [El Economista](https://news.google.com/rss/articles/CBMitwJBVV95cUxQTjNBMVFyRGN3YmdleWw5NWNCc3AzZGl1MDY0emRub21wbDhIZlphVEpNVUh1cWx5SjNwazJ5aFVXdUNpNjJVdURSR2VnanV1dlM0YUJKV3ZjUXhoc1U3dnRfWHZBM1lLeFRFUExoUWx0dzBQZWRXWmJJSVVLYkJEanB4bUdZLWhMTHpBSzdfWFI1VzBGRXJhTGVldHpBRGtvd2pzOWtXbTBIeUpwU2NtOExDTmU3dHA1UVN3MjhZME9XS2Nfa2ZQY09nZW1Qc3AxeHFpVXBrbXkzeFh2VUlUcDYzeXozTVlMeDE1dTNYdWdqblRJSXYyczJqVXlnRkxkdTlNejB4bFJiNzhlM0dhblhoUlRaOE1jSzIxc2dlN2pBTUppel9udDNNTlhoZHB5RFhIeDVLRQ?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Kombi-Training versetzt viele in Remission – was dahinter steckt - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZnl2STBBazVRU2FlQ2FmSDZYSHU2WGQwdWw3dXJtOU9MLUZLSlVzWnotRWx1N3RYbzZrU1daNXJpOEtNZzJMWXpZcUozdHFHcGdOOHpjMFYxMjY3Y0M5NmZEMFU0SnkzUm5JR3RJaW9MR0pQdE1KZDV3TWZMVVQ1dnNXLV80bnFNMjdRRjB1UG5kRXphWlhaa0toN0swX1Frck94WWVqeGNRS3JKRkE?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZnl2STBBazVRU2FlQ2FmSDZYSHU2WGQwdWw3dXJtOU9MLUZLSlVzWnotRWx1N3RYbzZrU1daNXJpOEtNZzJMWXpZcUozdHFHcGdOOHpjMFYxMjY3Y0M5NmZEMFU0SnkzUm5JR3RJaW9MR0pQdE1KZDV3TWZMVVQ1dnNXLV80bnFNMjdRRjB1UG5kRXphWlhaa0toN0swX1Frck94WWVqeGNRS3JKRkE?oc=5)
 
 ---
 
