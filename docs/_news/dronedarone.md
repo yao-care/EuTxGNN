@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Dronedarone. 9 predicted indications."
 permalink: /news/dronedarone/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Dronedarone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>60 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>63 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (60)
+## Related News (63)
+
+### [Weekend habits that are wrecking your heart health - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPXy1vTHFDX1AwbkxHYkJlRm85a1NzOXMtYzBPZGxUMnAxLUNQTWNTQmROTHlSZVVVdFdXWUhkaS0yTzd6OHNWLS1md2RMSXZUY2JIamdWNk55MFBwdE5ySjcxbFhHQkRFNWMxenE2a0xIV2lnWlRuOXF5UUFWRWJzTUV1SkhlbmxzMVB5VVlWeUg0VDVmUTJDcTliLUs4eU13RWFJeGRybw?oc=5)
+
+2026-11-07 <span class="news-indication-tag">stroke</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPXy1vTHFDX1AwbkxHYkJlRm85a1NzOXMtYzBPZGxUMnAxLUNQTWNTQmROTHlSZVVVdFdXWUhkaS0yTzd6OHNWLS1md2RMSXZUY2JIamdWNk55MFBwdE5ySjcxbFhHQkRFNWMxenE2a0xIV2lnWlRuOXF5UUFWRWJzTUV1SkhlbmxzMVB5VVlWeUg0VDVmUTJDcTliLUs4eU13RWFJeGRybw?oc=5)
+
+---
+
+### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajRaZkpKVmNiNVV3UUdUZG56Wl9VSmhuNlRrWWJTM2JscDJoLUdsY1h4QkFZWTl0T0RRY3pWbkpydnpmaFpXQWk1OGFHOXZjQ3JIWnNabGR6eG9QWTVfcFY1c09DekFSVGZJc29FR2JUbW1EbEV1TWhkdmNLSldLMmRBdTk1QUhaQ1ZDRThxcEVSWklTOHVQOG1aNnpneXFlMFhTQXVjNGNRYUhEZGhGelRQTGxfWWhPTDlB?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajRaZkpKVmNiNVV3UUdUZG56Wl9VSmhuNlRrWWJTM2JscDJoLUdsY1h4QkFZWTl0T0RRY3pWbkpydnpmaFpXQWk1OGFHOXZjQ3JIWnNabGR6eG9QWTVfcFY1c09DekFSVGZJc29FR2JUbW1EbEV1TWhkdmNLSldLMmRBdTk1QUhaQ1ZDRThxcEVSWklTOHVQOG1aNnpneXFlMFhTQXVjNGNRYUhEZGhGelRQTGxfWWhPTDlB?oc=5)
+
+---
 
 ### [MASH o acumulación de grasa en el hígado: así es esta enfermedad que no deja de crecer y que, si no se trata, puede derivar en cirrosis, insuficiencia hepática o cáncer de hígado](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTWZweXhISEY5d1RSOFFRM0IxVjRiUFVhUzBqZzRSajlxSW9tU0ZtV1BtUTVfZktLLXpFcUZFS2ZKRGFOOTdUZWlzbUxSQ2lGZ1pyd1RLeC1mMXpuZW0xSnZWaF9XTmlDQklBZzd4ei1yUE4yWUNpSjdHVlk4NS03MVUxMHpFbTQ1cG1IUVVsUnJrR3NoLW41N0hyT2g3dUVXcGFVY1p2MlVSbWJPcnVQVS15OWZ6XzEwam1MYlc0c3p0N2piblZFNWpJU05NY2U3cldxZ0pWX1NMVmtDOFppeU9GM0dyWHhjWEY4YTV3MNIB9AFBVV95cUxOcGUxeWpJbXpBWHZxeXJQWEpUT2tDajJpLWpfWVl1SURENm9UalhuQVBTYnZ4TE1jNnFkcFktSUtRSi1FeExBM2JjbndrV2lKTkcxMHdnQ0xEOGlKTmhsZlBGdGprZmloenpmVjdvQ2ZZTFJnNEVHbll3S3QxbzdKVlFseHJ2bE96enpyYUN4ZEoyTE9Xd2ZaNXVISFhvNnllZWZ1TDQ3UG1nM1hFTmx5SHQtd1VXc2lMMEtpVkM5aV9BbElsOXNaMUpkWE9ONDFjaXh2QmdsMXp5aG1lenhlWWUwdVIxeXRGa28zVXhPZEJReTJu?oc=5)
 
@@ -224,6 +240,14 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNW
 2026-11-03 <span class="news-indication-tag">ictus</span>
 
 Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlcybURoWHA2N2d6aEp5YUtVWkZDNE05c1NNM0UwenAtZ0FyV0RDdjF3R202MjRoLVVrTW1wOVFDQ1NzSE5IYzVWVzhKejhvWm5UN3NpNzNWNER1Yi1lSzdrMUZPakdrcE05X256Y2k2RmpFQ0puNk1JTEM3NXlpay1wRndJVGVzWkg0UTJHcDJMOEhBMUNsRTkxNmFKVDQ?oc=5)
+
+---
+
+### [99. DGN-Kongress: Neue Perspektiven für die Schlaganfallmedizin - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaW1RT0QwUWU0ZzhjT1JXY0dWN0tIYi1CbWV4VUxKc25rdW8wbTh6aFIxeU1kbWJ1SlZ1bkVpQlR4OVhXblg4LUNlMU1DZEh3QVQyUmotQlBmTG9EeDcxYlYxWUF0YS1lbFNVVFdwX21YNGpxYnY3dDZqT09LbHJIaUpsTVN5aXYwYlB0VmhwcGNEYWtWSHJMWDQteUxWOWxJcE5WczljeFRWbTQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaW1RT0QwUWU0ZzhjT1JXY0dWN0tIYi1CbWV4VUxKc25rdW8wbTh6aFIxeU1kbWJ1SlZ1bkVpQlR4OVhXblg4LUNlMU1DZEh3QVQyUmotQlBmTG9EeDcxYlYxWUF0YS1lbFNVVFdwX21YNGpxYnY3dDZqT09LbHJIaUpsTVN5aXYwYlB0VmhwcGNEYWtWSHJMWDQteUxWOWxJcE5WczljeFRWbTQ?oc=5)
 
 ---
 

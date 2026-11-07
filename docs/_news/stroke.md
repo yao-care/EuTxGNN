@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "ictus (stroke) News"
+title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 55 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 58 articles, 11 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
-# ictus (stroke) News
+# Schlaganfall (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>55 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
+<strong>Schlaganfall (stroke)</strong> currently has <strong>58 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,23 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (55)
+## Related News (58)
+
+### [Weekend habits that are wrecking your heart health - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPXy1vTHFDX1AwbkxHYkJlRm85a1NzOXMtYzBPZGxUMnAxLUNQTWNTQmROTHlSZVVVdFdXWUhkaS0yTzd6OHNWLS1md2RMSXZUY2JIamdWNk55MFBwdE5ySjcxbFhHQkRFNWMxenE2a0xIV2lnWlRuOXF5UUFWRWJzTUV1SkhlbmxzMVB5VVlWeUg0VDVmUTJDcTliLUs4eU13RWFJeGRybw?oc=5)
+
+2026-11-07
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPXy1vTHFDX1AwbkxHYkJlRm85a1NzOXMtYzBPZGxUMnAxLUNQTWNTQmROTHlSZVVVdFdXWUhkaS0yTzd6OHNWLS1md2RMSXZUY2JIamdWNk55MFBwdE5ySjcxbFhHQkRFNWMxenE2a0xIV2lnWlRuOXF5UUFWRWJzTUV1SkhlbmxzMVB5VVlWeUg0VDVmUTJDcTliLUs4eU13RWFJeGRybw?oc=5)
+
+---
+
+### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajRaZkpKVmNiNVV3UUdUZG56Wl9VSmhuNlRrWWJTM2JscDJoLUdsY1h4QkFZWTl0T0RRY3pWbkpydnpmaFpXQWk1OGFHOXZjQ3JIWnNabGR6eG9QWTVfcFY1c09DekFSVGZJc29FR2JUbW1EbEV1TWhkdmNLSldLMmRBdTk1QUhaQ1ZDRThxcEVSWklTOHVQOG1aNnpneXFlMFhTQXVjNGNRYUhEZGhGelRQTGxfWWhPTDlB?oc=5)
+
+2026-11-07
+
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajRaZkpKVmNiNVV3UUdUZG56Wl9VSmhuNlRrWWJTM2JscDJoLUdsY1h4QkFZWTl0T0RRY3pWbkpydnpmaFpXQWk1OGFHOXZjQ3JIWnNabGR6eG9QWTVfcFY1c09DekFSVGZJc29FR2JUbW1EbEV1TWhkdmNLSldLMmRBdTk1QUhaQ1ZDRThxcEVSWklTOHVQOG1aNnpneXFlMFhTQXVjNGNRYUhEZGhGelRQTGxfWWhPTDlB?oc=5)
+
+---
 
 ### [MASH o acumulación de grasa en el hígado: así es esta enfermedad que no deja de crecer y que, si no se trata, puede derivar en cirrosis, insuficiencia hepática o cáncer de hígado](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTWZweXhISEY5d1RSOFFRM0IxVjRiUFVhUzBqZzRSajlxSW9tU0ZtV1BtUTVfZktLLXpFcUZFS2ZKRGFOOTdUZWlzbUxSQ2lGZ1pyd1RLeC1mMXpuZW0xSnZWaF9XTmlDQklBZzd4ei1yUE4yWUNpSjdHVlk4NS03MVUxMHpFbTQ1cG1IUVVsUnJrR3NoLW41N0hyT2g3dUVXcGFVY1p2MlVSbWJPcnVQVS15OWZ6XzEwam1MYlc0c3p0N2piblZFNWpJU05NY2U3cldxZ0pWX1NMVmtDOFppeU9GM0dyWHhjWEY4YTV3MNIB9AFBVV95cUxOcGUxeWpJbXpBWHZxeXJQWEpUT2tDajJpLWpfWVl1SURENm9UalhuQVBTYnZ4TE1jNnFkcFktSUtRSi1FeExBM2JjbndrV2lKTkcxMHdnQ0xEOGlKTmhsZlBGdGprZmloenpmVjdvQ2ZZTFJnNEVHbll3S3QxbzdKVlFseHJ2bE96enpyYUN4ZEoyTE9Xd2ZaNXVISFhvNnllZWZ1TDQ3UG1nM1hFTmx5SHQtd1VXc2lMMEtpVkM5aV9BbElsOXNaMUpkWE9ONDFjaXh2QmdsMXp5aG1lenhlWWUwdVIxeXRGa28zVXhPZEJReTJu?oc=5)
 
@@ -210,6 +226,14 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNW
 2026-11-03
 
 Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlcybURoWHA2N2d6aEp5YUtVWkZDNE05c1NNM0UwenAtZ0FyV0RDdjF3R202MjRoLVVrTW1wOVFDQ1NzSE5IYzVWVzhKejhvWm5UN3NpNzNWNER1Yi1lSzdrMUZPakdrcE05X256Y2k2RmpFQ0puNk1JTEM3NXlpay1wRndJVGVzWkg0UTJHcDJMOEhBMUNsRTkxNmFKVDQ?oc=5)
+
+---
+
+### [99. DGN-Kongress: Neue Perspektiven für die Schlaganfallmedizin - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaW1RT0QwUWU0ZzhjT1JXY0dWN0tIYi1CbWV4VUxKc25rdW8wbTh6aFIxeU1kbWJ1SlZ1bkVpQlR4OVhXblg4LUNlMU1DZEh3QVQyUmotQlBmTG9EeDcxYlYxWUF0YS1lbFNVVFdwX21YNGpxYnY3dDZqT09LbHJIaUpsTVN5aXYwYlB0VmhwcGNEYWtWSHJMWDQteUxWOWxJcE5WczljeFRWbTQ?oc=5)
+
+2026-11-03
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaW1RT0QwUWU0ZzhjT1JXY0dWN0tIYi1CbWV4VUxKc25rdW8wbTh6aFIxeU1kbWJ1SlZ1bkVpQlR4OVhXblg4LUNlMU1DZEh3QVQyUmotQlBmTG9EeDcxYlYxWUF0YS1lbFNVVFdwX21YNGpxYnY3dDZqT09LbHJIaUpsTVN5aXYwYlB0VmhwcGNEYWtWSHJMWDQteUxWOWxJcE5WczljeFRWbTQ?oc=5)
 
 ---
 

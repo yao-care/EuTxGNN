@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>31 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>34 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (31)
+## Related News (34)
+
+### [KI von Google erkennt Bluthochdruck nur mit Puls- und Bewegungssensor einer Smartwatch - The Decoder](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1JXeFlFYjZ2LWRvSVVoeXlQUDdlZFY5QjEwRmFZYlQyNnA3Q0FqcFRTaGdlQk1tM2NzdzlEZUVSYTBQXzBKeXJLcWlnVW0tWmFQSXFTQmpWbkFwQ0VVdXZqeVg2VlNFU3pWOXUzaG44MHZPTkZDQk50ZFhYeGlCYmNDUGE3NmczV2djZE1BT19GOTQ1cVFrREw5UXY1djFfQ19DZ2VvczdvOHVHOFE?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [The Decoder](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1JXeFlFYjZ2LWRvSVVoeXlQUDdlZFY5QjEwRmFZYlQyNnA3Q0FqcFRTaGdlQk1tM2NzdzlEZUVSYTBQXzBKeXJLcWlnVW0tWmFQSXFTQmpWbkFwQ0VVdXZqeVg2VlNFU3pWOXUzaG44MHZPTkZDQk50ZFhYeGlCYmNDUGE3NmczV2djZE1BT19GOTQ1cVFrREw5UXY1djFfQ19DZ2VvczdvOHVHOFE?oc=5)
+
+---
 
 ### [Congreso S.E.N.: España da el primer paso hacia un plan nacional de salud renal para frenar la enfermedad renal crónica - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
 
@@ -123,6 +131,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRz
 
 ---
 
+### [US-funded vaccine trial on babies cancelled in Guinea-Bissau after uproar](https://news.google.com/rss/articles/CBMiXkFVX3lxTE43SGpXaUwxdWtPeF9NUWctM0xrdlc5S0xNNmJGVXVMbTc5MDF1WThWa20xQlczRmJuejgxWjVuX0kzaHVuUGh6VFVCLUxodDBDalFLNE80MFFwQWJHTmc?oc=5)
+
+2026-11-05 <span class="news-indication-tag">hepatitis</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE43SGpXaUwxdWtPeF9NUWctM0xrdlc5S0xNNmJGVXVMbTc5MDF1WThWa20xQlczRmJuejgxWjVuX0kzaHVuUGh6VFVCLUxodDBDalFLNE80MFFwQWJHTmc?oc=5)
+
+---
+
 ### [Expertos recomiendan a los mayores comer cacahuetes a diario: «Un puñado tostados y con piel protege la memoria frente al envejecimiento» - El Diario Vasco](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTG5wdnFZaVpTckticGctel9kMlJ2VW54MHlIY2owLVhlTmtyd0tzaldObXVtN2dUMVdLN2xXbU1VblBRVWhiWGpDN0huLVJIckxsYXMxbmFKR1ZadHZSOGtEZ0NvaUp1VzJxdVZrRzYwZmtVdk9KaGpUZ18yd19WbklsclZlaUpPcU9kdkE3MjQyeERCenltWjU0RVdZVWcxNUowZXRyRTR5eVZZRlZ4RzFqZkV3NG9oREpzbEFiWFJmdkpXbHg2WGo0OGZZNFcxeDl6cWVEOWJsUzBa0gHiAUFVX3lxTE5JZ18xTXFoV3Y5OUJGNVE3cFFMQjU4TlVNTkRxYll5UFNYWTdUcFR6eW9uZkNiLXpmWkxkbjdCSzVyMXphUF8wSHJNN1JhblhlYVg4V0RXdUlEclRabDBob1ZCRkFzSDN0d19kRm5NX2xiaFpCanlEVmRVUGVDaTYyaV82Nzkyb0VrWnk1UHRuTnQwa0xPUjRtTzRpRHNwdEkwZ0NEMTYzdUdBcTY1TUtxTVMtMHg1YkJwamJfNExkclBRbG9GeE92dGREcVRuRU9TS2VQLVRrX1dGVDNhYXQ5Qnc?oc=5)
 
 2026-11-04 <span class="news-indication-tag">hipertensión</span>
@@ -176,6 +192,14 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNW
 2026-11-03 <span class="news-indication-tag">hipertensión</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
+
+---
+
+### [99. DGN-Kongress: Neue Perspektiven für die Schlaganfallmedizin - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaW1RT0QwUWU0ZzhjT1JXY0dWN0tIYi1CbWV4VUxKc25rdW8wbTh6aFIxeU1kbWJ1SlZ1bkVpQlR4OVhXblg4LUNlMU1DZEh3QVQyUmotQlBmTG9EeDcxYlYxWUF0YS1lbFNVVFdwX21YNGpxYnY3dDZqT09LbHJIaUpsTVN5aXYwYlB0VmhwcGNEYWtWSHJMWDQteUxWOWxJcE5WczljeFRWbTQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaW1RT0QwUWU0ZzhjT1JXY0dWN0tIYi1CbWV4VUxKc25rdW8wbTh6aFIxeU1kbWJ1SlZ1bkVpQlR4OVhXblg4LUNlMU1DZEh3QVQyUmotQlBmTG9EeDcxYlYxWUF0YS1lbFNVVFdwX21YNGpxYnY3dDZqT09LbHJIaUpsTVN5aXYwYlB0VmhwcGNEYWtWSHJMWDQteUxWOWxJcE5WczljeFRWbTQ?oc=5)
 
 ---
 

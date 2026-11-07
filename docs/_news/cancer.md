@@ -3,9 +3,9 @@ layout: default
 title: "tumor (cancer) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 134 articles, 229 related drugs."
+description: "Health news about tumor (cancer). 138 articles, 229 related drugs."
 permalink: /news/cancer/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # tumor (cancer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>134 news articles</strong> and 229 related drugs.
+<strong>tumor (cancer)</strong> currently has <strong>138 news articles</strong> and 229 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -190,13 +190,37 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (134)
+## Related News (138)
 
 ### [Prevenzione urologica maschile: quali esami fare in base all’età e le malattie più a rischio - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZWlHYmxiRE10dDRCQVhWdnAtNEtYMU9uaU5hVzNjQlUzdW9iT3hqRDJXZGpYdnIxbGU2Vm9CZHJlTHNHT2pmTFA0X01nYUYzaXRCR1A4MkhoYjBWNnc4OHRwU09XMW4taG9NRERmWDJUY3F6SUdhRjhMd3lGVFAxczF3aTNQeTdGQlNJVkFLUWtRYVMzSG1SR29yTGpOZ0R2Zm1MQXR2Y2s4alc5d2VLM1VpZDBoVTdJNmRRTU84R05iNW5zekl5VjRmTjNLYWlpa3pJRGVHbUxNSU1FSXFFM1piTTZmXzJBMXc3U280bEkyVTNCa3VoRXd2cWVzLVRO0gHAAUFVX3lxTE1vdWg0ZGhuYmVTWTc2UkRqVERNdlpPTDJFaktCaEZqVFhTYXZBdExIWklqa2h6UzBHVW1OemVqRGtwOWtCQ2RWSTZSYV93UkZ2Y1FhQWJlU0w2Z1dxaHdJcExoVmM4aDJ6eGNpb083ZS1zOEJyc1puamp0Q2puT0JXYjlnaFBLOVEtdWIzQzZSMEhJQThnQndvV1dHNzJva29TZ2liTnVvbC0xZWZsNXVlZ2ZUQTYzUEpVVV95T2J5Zw?oc=5)
 
-2026-11-06
+2026-11-07
 
 Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZWlHYmxiRE10dDRCQVhWdnAtNEtYMU9uaU5hVzNjQlUzdW9iT3hqRDJXZGpYdnIxbGU2Vm9CZHJlTHNHT2pmTFA0X01nYUYzaXRCR1A4MkhoYjBWNnc4OHRwU09XMW4taG9NRERmWDJUY3F6SUdhRjhMd3lGVFAxczF3aTNQeTdGQlNJVkFLUWtRYVMzSG1SR29yTGpOZ0R2Zm1MQXR2Y2s4alc5d2VLM1VpZDBoVTdJNmRRTU84R05iNW5zekl5VjRmTjNLYWlpa3pJRGVHbUxNSU1FSXFFM1piTTZmXzJBMXc3U280bEkyVTNCa3VoRXd2cWVzLVRO0gHAAUFVX3lxTE1vdWg0ZGhuYmVTWTc2UkRqVERNdlpPTDJFaktCaEZqVFhTYXZBdExIWklqa2h6UzBHVW1OemVqRGtwOWtCQ2RWSTZSYV93UkZ2Y1FhQWJlU0w2Z1dxaHdJcExoVmM4aDJ6eGNpb083ZS1zOEJyc1puamp0Q2puT0JXYjlnaFBLOVEtdWIzQzZSMEhJQThnQndvV1dHNzJva29TZ2liTnVvbC0xZWZsNXVlZ2ZUQTYzUEpVVV95T2J5Zw?oc=5)
+
+---
+
+### [HPV schützt vor Krebs – doch nur 20% Jungen, 35% Mädchen geimpft: Warum bleibt die Impflücke so groß?](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRFJMN2lzY0Y4NkpQdXJodnBtY0NDcXhTSU9Yb3N2Nk03TzBJeUF1M0ZyUmdrRWN4MnhZTzFaSGtCazZDRXFPWk1DYU1oN3o0djkxVG5RYVh3ZjJjQmZZX19rdXRQcUF2NWVYOGwtbWlhd2NOZ2hINWhrRWNTTFNqOEJJd2pkMTBjcWlmYk1Ic1dCcUN5ZTZNdUVVZ3NsMFU0aG01SWVJSEtaSm8wTXJtX3c1TWZ1dnprY2pJV3VBLWMzVGdkenRBYVJ6Ykt1WFZHUDU1V1kxZFdGQkVObTBORw?oc=5)
+
+2026-11-07
+
+Source: [Schwäbische.de](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRFJMN2lzY0Y4NkpQdXJodnBtY0NDcXhTSU9Yb3N2Nk03TzBJeUF1M0ZyUmdrRWN4MnhZTzFaSGtCazZDRXFPWk1DYU1oN3o0djkxVG5RYVh3ZjJjQmZZX19rdXRQcUF2NWVYOGwtbWlhd2NOZ2hINWhrRWNTTFNqOEJJd2pkMTBjcWlmYk1Ic1dCcUN5ZTZNdUVVZ3NsMFU0aG01SWVJSEtaSm8wTXJtX3c1TWZ1dnprY2pJV3VBLWMzVGdkenRBYVJ6Ykt1WFZHUDU1V1kxZFdGQkVObTBORw?oc=5)
+
+---
+
+### ["Grazie alla Regione avrò più tempo con i miei bambini": Jessica riceverà il farmaco contro il tumore al pancreas](https://news.google.com/rss/articles/CBMihgFBVV95cUxPclc2RWctRHBTZzRsejJuNXdNUFdaQTNfUTdaVm04enhZUHBTb3NuMGZpV2RKLXlTeTYxVnNBdk5qVExsYXVadHdCeEdHcW51N0VQRHVKUTJTekw3RDFETU1KMndQOXd4RzBhdlFONkg5Y3V5Q1pnMHR0cG1jWFoxbjVndWtqdw?oc=5)
+
+2026-11-07
+
+Source: [MilanoToday](https://news.google.com/rss/articles/CBMihgFBVV95cUxPclc2RWctRHBTZzRsejJuNXdNUFdaQTNfUTdaVm04enhZUHBTb3NuMGZpV2RKLXlTeTYxVnNBdk5qVExsYXVadHdCeEdHcW51N0VQRHVKUTJTekw3RDFETU1KMndQOXd4RzBhdlFONkg5Y3V5Q1pnMHR0cG1jWFoxbjVndWtqdw?oc=5)
+
+---
+
+### [Garston mum says 'I'm a cancer patient not an unpaid safety inspector' - Liverpool Echo](https://news.google.com/rss/articles/CBMikAFBVV95cUxON1lpbTNYQTV1czJGaHNzeGRDeDhvaWZxTXRGSkRGeGN1T0tXNm9Ub0tlaWtESDJtZUk0NmpYWl9YaC00blE4QV9HOFBJMWNkanVqcGNCZGdlVFVTRVhmZEIzNHZPYVVZVTFNaDBsR3BWNGhydmRsQU1VSGQ1b3hCWElwUFBGNnRYYnZONkFxY1rSAZYBQVVfeXFMTjNvaTRoX2lOUy1tMm8zX0wtZHdpbnd6WVBlemh6Sl80WTA3bUF3NzVZZ2pER0hnbVhMYzJvR0hzN2dEZG9BSGpNZ1JHRUNXVUN3UXFoZDRNMVJRWUJXMkNFSDNvWjdkbzctRW1QZVIyUnpQMXREVXdqaDR3dW9wbmhsTU5sZkc3UVpoSFdTSmdsd0lGZEZR?oc=5)
+
+2026-11-07
+
+Source: [Liverpool Echo](https://news.google.com/rss/articles/CBMikAFBVV95cUxON1lpbTNYQTV1czJGaHNzeGRDeDhvaWZxTXRGSkRGeGN1T0tXNm9Ub0tlaWtESDJtZUk0NmpYWl9YaC00blE4QV9HOFBJMWNkanVqcGNCZGdlVFVTRVhmZEIzNHZPYVVZVTFNaDBsR3BWNGhydmRsQU1VSGQ1b3hCWElwUFBGNnRYYnZONkFxY1rSAZYBQVVfeXFMTjNvaTRoX2lOUy1tMm8zX0wtZHdpbnd6WVBlemh6Sl80WTA3bUF3NzVZZ2pER0hnbVhMYzJvR0hzN2dEZG9BSGpNZ1JHRUNXVUN3UXFoZDRNMVJRWUJXMkNFSDNvWjdkbzctRW1QZVIyUnpQMXREVXdqaDR3dW9wbmhsTU5sZkc3UVpoSFdTSmdsd0lGZEZR?oc=5)
 
 ---
 
@@ -245,6 +269,14 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi_gFBVV95cU
 2026-11-06
 
 Source: [WELT](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSFBpN3JVaGY0cEdxRDFGN3JqSy03bnhKVjhrTmdLUGtrbjZrd1lQYnZ1UXh1c1d5UFRnYkJtcUtZbHBVS0NncXhBdVZETWQxZHZBcENpY25ZQ3lfUVpUZTNhWDBZYXZqcE8wYmkxcmxZT0YxSDF0djRlV3JoWUZSZHVLdWNsMUpHTGwyeUVoNUtaWmRhQXJuOWNHa1lMUDFieGltSUFEeVkwMjV2aUpXaEluQQ?oc=5)
+
+---
+
+### [Malva findet krebstypische RNA-Muster in Sekunden](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRWVhM1hzN1V2eDh4MVJWNUpObjduYkR3bDlUMldtZTloTWhfTVk5bHhBTy10YUg3SVdDRnNScGlWaEhiZzl5cG5qWEhhazY0M0cwZm5XV3BxcTFXU1RkU2tzcDhIOGZ3RXhhT25VU2Q5VThGc0tCeWl0YUl0ZU1rN0lJRHNfVnNWYjlDVllHbXZOc2lhRFVUS3Y5QVNFLURsUmppYTlfemJTVDVNcXBsQnNIbjIwSGdMOElDUHFOUlpqUDdmZlVXZmxvZHFibkh3MW1WLW0wT1lBVmhjR3c?oc=5)
+
+2026-11-05
+
+Source: [https://www.dekade-gegen-krebs.de/](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRWVhM1hzN1V2eDh4MVJWNUpObjduYkR3bDlUMldtZTloTWhfTVk5bHhBTy10YUg3SVdDRnNScGlWaEhiZzl5cG5qWEhhazY0M0cwZm5XV3BxcTFXU1RkU2tzcDhIOGZ3RXhhT25VU2Q5VThGc0tCeWl0YUl0ZU1rN0lJRHNfVnNWYjlDVllHbXZOc2lhRFVUS3Y5QVNFLURsUmppYTlfemJTVDVNcXBsQnNIbjIwSGdMOElDUHFOUlpqUDdmZlVXZmxvZHFibkh3MW1WLW0wT1lBVmhjR3c?oc=5)
 
 ---
 

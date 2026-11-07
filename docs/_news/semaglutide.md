@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>17 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>18 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (17)
+## Related News (18)
+
+### [Retatrutida y CagriSema: la nueva generación antiobesidad - El Ecosistema Startup](https://news.google.com/rss/articles/CBMikAFBVV95cUxOaFlHWUpvaXJVWjFHNnJybTI3dWNRSWFWUlB4azlVTU9XVDVVUGNRMnlTcV9xc05UVGtrUUZYN0NnSVdlOVh2bTcySzJvZ3BqTWt2V09zdVFTaGp0ZWNOdl9jWDFCWE93ZnFQVlZCS2RuUDEzaF9QMXFfTXE2Sk9oU0FsSzFweXBTYmlBYWpvT0s?oc=5)
+
+2026-11-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [El Ecosistema Startup](https://news.google.com/rss/articles/CBMikAFBVV95cUxOaFlHWUpvaXJVWjFHNnJybTI3dWNRSWFWUlB4azlVTU9XVDVVUGNRMnlTcV9xc05UVGtrUUZYN0NnSVdlOVh2bTcySzJvZ3BqTWt2V09zdVFTaGp0ZWNOdl9jWDFCWE93ZnFQVlZCS2RuUDEzaF9QMXFfTXE2Sk9oU0FsSzFweXBTYmlBYWpvT0s?oc=5)
+
+---
 
 ### [Llega a España Wegovy oral, el primer tratamiento oral de la ‘familia del Ozempic’ contra la obesidad - Cadena Dial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHNqQURPOGxFX1ZEaDI0MHZScG1mNWJjb3hPemVWMHN1bGNUUXJTV3BTQTdaN1o5RGNrUkpBR2FNY2NFS2JCZk44SVc5c0h5SE5KZ3hPOHozUk5CY2FHU2I1RnhWRXUwYlNBaXdrVGwtdlRrcDc1dXFkQlAzRzlCSmlxS2wtdW9UUlFmcHJ4S00zM0J1UE1DY3kxcEEyMjlNRFF6cFVXVUJNZEZwYnBZWlFSazIzME1FODJ0d1RVOWtCc0hVUXdvbDFpY1hlTFA2akZyUUo3eTRUQdIB3wFBVV95cUxPdE9adzV2dXc2ckJEcmhfa0N1WnlmdEZkVjVVLW5CNXNETEFud1p2UDJTdkNMNDBQeFVFTkl5RUNzX2RMdVFPTmhYNUNIcVNjTkxCYkt5T3M5N1UwQUQtQmRFNlhJUUpueVhtVXFMT3k2Q29hSTdKTjltRzdCZUpCdmlTdUhkU3ZTRTQ2ZEV2ek9CbVdOTlR3RFBsTDJGMmdhaUtNTVZRN0FJbDhuN1VnMks5OHk3Y3lNbThrVW12M01jMW9iYkt2QVZrRDNwUzBPRUNuVmpHZjl1eVVEQ0M4?oc=5)
 

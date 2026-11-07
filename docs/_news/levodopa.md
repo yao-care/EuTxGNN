@@ -45,7 +45,7 @@ Source: [The Times](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSTVyVEZ
 
 ### [Exeter University-led £20m project to prevent and detect dementia](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
 
-2026-11-06 <span class="news-indication-tag">dementia</span>
+2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
 
@@ -67,11 +67,11 @@ Source: [HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSFNwa
 
 ---
 
-### [New Alzheimer's study discovers symptom starts in ear 10 years before memory loss - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
+### [New Alzheimer's study discovers symptom starts in ear 10 years before memory loss](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
 
 2026-11-05 <span class="news-indication-tag">Alzheimer's</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
+Source: [Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtKZjhwYzBPSEZxYThDREdEa3V2MV90X3NwYzdVVE52TTVrSUVvZ1JONTVydmlUeFlHR3o3Si1JbjRFOEhnWFdkdW1XLUhFNVQ1RDVxb0NGbU9DTTNpbFNvVzc4ak83emdsMHRobEtDTm0yWWJtLXR3WmYxcVp6YUdCNW1uVGg0TzdWStIBkgFBVV95cUxQZmtnWDdBbnluZGNvMjZKcDh5cUhIMkFqbENSbUJLY0J4VHczSXlMb3BvNzh0S0JSSHJKYnIzMU5QaWoyM21OYlJmaDJ5eDlQMjBPY2ZvNm1JQ3lsb1ZQZ1ZVR3N1RmU2TmUtWGJTZ2Nvc0JzZlMzUzB2NXFJNGhRcU1GeW5MOWJTNDVIUmYxd1RmZw?oc=5)
 
 ---
 

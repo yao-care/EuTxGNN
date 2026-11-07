@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Pibrentasvir?">
-<strong>Pibrentasvir</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
+<strong>Pibrentasvir</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Pibrentasvir with the latest
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (11)
+
+### [Wards at two Carmarthenshire hospitals shut due to scabies outbreak - Wales Online](https://news.google.com/rss/articles/CBMimwFBVV95cUxNeUd1S3pvT0p3LWtoYWMxcjZwZEdaMlNvZnhhdzdxXzcxNjhOd0FzanMtU2gxMzZUZUtRNmhzNFEyWUpLYktGSHd1UHNpcmNONlM2Wmc5Y25NYUgwYWVJbEV1cTlwUXpWc2NxbjRtQ0NGQXlodTY4MUtzQWJmSXlUOEhNWkkwUXBBT0t1QWZSX0wwbkxZeVpNN29pONIBoAFBVV95cUxOempXSWxNeXAtMFl0WnhhX1pibXVqcVdUWlpGSVVuWjBBdFh2OEN4NXRuS3UwYTd6YjA0S0NMaXhmamdqdHJMV0hDNUdjU3JTaVp1akNxY3pxR0RVbHAwOFhqV2FsbTVOTHBFdG9mTUY4YVJmQzhMX1A2ZUZydEN6RjRwV3pEV0dIYUhLWVo5OTYwSjJ4eHVTS2pmSnRza29z?oc=5)
+
+2026-11-06 <span class="news-indication-tag">MS</span>
+
+Source: [Wales Online](https://news.google.com/rss/articles/CBMimwFBVV95cUxNeUd1S3pvT0p3LWtoYWMxcjZwZEdaMlNvZnhhdzdxXzcxNjhOd0FzanMtU2gxMzZUZUtRNmhzNFEyWUpLYktGSHd1UHNpcmNONlM2Wmc5Y25NYUgwYWVJbEV1cTlwUXpWc2NxbjRtQ0NGQXlodTY4MUtzQWJmSXlUOEhNWkkwUXBBT0t1QWZSX0wwbkxZeVpNN29pONIBoAFBVV95cUxOempXSWxNeXAtMFl0WnhhX1pibXVqcVdUWlpGSVVuWjBBdFh2OEN4NXRuS3UwYTd6YjA0S0NMaXhmamdqdHJMV0hDNUdjU3JTaVp1akNxY3pxR0RVbHAwOFhqV2FsbTVOTHBFdG9mTUY4YVJmQzhMX1A2ZUZydEN6RjRwV3pEV0dIYUhLWVo5OTYwSjJ4eHVTS2pmSnRza29z?oc=5)
+
+---
 
 ### [Los probióticos, aliados para la esclerosis múltiple: reducen la fatiga, dolor e inflamación](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdFlxZjFJbW9KTG4xcGM1UThFUG5qcjMyWGNxTmNJNEJmdkEwWXAxMmQzcG5WNmlJNUxpSlRoOGxsZHJXWGEyTFo5YzRfeHZ0MURBX2FqeXhCaEp2NW96YTU1U1drVXNfSkphNmRDQnZ4NDhLVWtlTjFIVjBvUTdVN3ctX0lUQm50SUtfQlJ6NC04dDdMT2ZLXzF3OFdDVkVBeVJWTTEyZU13TmZ5OVQyeDh1SlBiUnhuLUpDUE5yQ0w0Y3BYUjlxalk1WEhLMXNGRzNHV2wtWGh3a1ltbHZB?oc=5)
 
@@ -81,6 +89,14 @@ Source: [Cadena SER](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSjdZZT
 2026-11-05 <span class="news-indication-tag">hepatitis</span>
 
 Source: [Business Insider Africa](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS3gxTFRSMTloZ1VlcVd5UTJRVi04WU5lYlhoTTZNTWRuNjVIOUdlakozcVBiaDNIblBKSzhuU2Viei0ySnpHUHJOQkwwSHV3eWFVYzJlcEhMT2M0UFJOcEtDb3ZUckJBNHNYNTZyTEVqUTRxa3VvVFlHU2pEMklUNDk2ckcybnZsRVVSM2dFQ3JZVFVRUmJIYjZHdkltck9MdHUxZTFHUjZ0TUo4MmtJV2F2WldZaGhIVEZYcVRiWnVQV0FuWFFteHF4eXhJaGZfSnVJYVBwYk1teGM?oc=5)
+
+---
+
+### [US-funded vaccine trial on babies cancelled in Guinea-Bissau after uproar](https://news.google.com/rss/articles/CBMiXkFVX3lxTE43SGpXaUwxdWtPeF9NUWctM0xrdlc5S0xNNmJGVXVMbTc5MDF1WThWa20xQlczRmJuejgxWjVuX0kzaHVuUGh6VFVCLUxodDBDalFLNE80MFFwQWJHTmc?oc=5)
+
+2026-11-05 <span class="news-indication-tag">hepatitis</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE43SGpXaUwxdWtPeF9NUWctM0xrdlc5S0xNNmJGVXVMbTc5MDF1WThWa20xQlczRmJuejgxWjVuX0kzaHVuUGh6VFVCLUxodDBDalFLNE80MFFwQWJHTmc?oc=5)
 
 ---
 

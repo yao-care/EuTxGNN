@@ -3,9 +3,9 @@ layout: default
 title: "epilepsia (epilepsy) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about epilepsia (epilepsy). 2 articles, 10 related drugs."
+description: "Health news about epilepsia (epilepsy). 3 articles, 10 related drugs."
 permalink: /news/epilepsy/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-07
 ---
 
 # epilepsia (epilepsy) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about epilepsia (epilepsy)?">
-<strong>epilepsia (epilepsy)</strong> currently has <strong>2 news articles</strong> and 10 related drugs.
+<strong>epilepsia (epilepsy)</strong> currently has <strong>3 news articles</strong> and 10 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ This page brings together the latest health news about “epilepsia” and lists
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Demencia de aparición temprana y epilepsia: ¿cuál es la relación?](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ1RvTl9OUlpFVkZxelN2WXIwRjFBSGVkMTI5U3g0VGttalBkM3g4QlVnQ29QSEg3SVBndkhFTHdhOVpxVEoxX0VpT2dBRlJ0ZWEzUEFlc21RckVqRk1mTnh6RWNFUjYzanh3OE9xbE1VMkt2ZGtSS2hYSHpxNDlkeVBqd2hKZl9WQTNqWlFGY0FKMTh1cnA4X1RqRlliQUk0OHk2VDF2dFl3d3dhRHo2Qw?oc=5)
 
 2026-11-05
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ1RvTl9OUlpFVkZxelN2WXIwRjFBSGVkMTI5U3g0VGttalBkM3g4QlVnQ29QSEg3SVBndkhFTHdhOVpxVEoxX0VpT2dBRlJ0ZWEzUEFlc21RckVqRk1mTnh6RWNFUjYzanh3OE9xbE1VMkt2ZGtSS2hYSHpxNDlkeVBqd2hKZl9WQTNqWlFGY0FKMTh1cnA4X1RqRlliQUk0OHk2VDF2dFl3d3dhRHo2Qw?oc=5)
+
+---
+
+### [Epileptic seizures nearly vanish after people receive experimental gene therapy in their brains](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xdVprV3pDSFNwNHNPV2RYVHJmRTFfck1kYm9kcTdaa2FaZ0FzUllMb0ZCMlppLVFIVEk1QnhaZGdBeWEzamw1aEQ0MUo1X3FBYmtCOFRGOVA5S0F2aE9N?oc=5)
+
+2026-11-05
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xdVprV3pDSFNwNHNPV2RYVHJmRTFfck1kYm9kcTdaa2FaZ0FzUllMb0ZCMlppLVFIVEk1QnhaZGdBeWEzamw1aEQ0MUo1X3FBYmtCOFRGOVA5S0F2aE9N?oc=5)
 
 ---
 

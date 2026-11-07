@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Idarucizumab. 0 predicted indications."
 permalink: /news/idarucizumab/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Idarucizumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Idarucizumab?">
-<strong>Idarucizumab</strong> currently has <strong>11 news articles</strong>, with 0 predicted indications.
+<strong>Idarucizumab</strong> currently has <strong>12 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [Juan, con EPOC, oxígeno domiciliario y un 70% de discapacidad: «Fui a vacunarme de la gripe y tuve que aparcar a 400 metros cargando con la bombona»](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmhQakpjeVplSUlBaXFCcF8zdmNnQWx6NkJPcGtpSm0xRmpJb0NKVGw1UklQT2V0Q0hOWkhjSHlfTjBGM25Ca1VPQmJuRVlEVkZRRldBTU1QR2pBYlUtVVVSZnREU2tGaEw0ZUwzNW9KeDRGdG1YdnRoQUE0bk1faGF0SEFiQjNaZ19xWGVkOC1tZDZpZVJkSXhiR0lsU0tOZ1djM0tVRQ?oc=5)
+
+2026-11-07 <span class="news-indication-tag">EPOC</span>
+
+Source: [Tododisca](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmhQakpjeVplSUlBaXFCcF8zdmNnQWx6NkJPcGtpSm0xRmpJb0NKVGw1UklQT2V0Q0hOWkhjSHlfTjBGM25Ca1VPQmJuRVlEVkZRRldBTU1QR2pBYlUtVVVSZnREU2tGaEw0ZUwzNW9KeDRGdG1YdnRoQUE0bk1faGF0SEFiQjNaZ19xWGVkOC1tZDZpZVJkSXhiR0lsU0tOZ1djM0tVRQ?oc=5)
+
+---
 
 ### [Partizipative Therapieentscheidung bei rheumatoider Arthritis: weniger Nebenwirkungen - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
 

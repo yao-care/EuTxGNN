@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Prilocaine. 10 predicted indications."
 permalink: /news/prilocaine/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Prilocaine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Prilocaine?">
-<strong>Prilocaine</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
+<strong>Prilocaine</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Prilocaine with the latest h
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (13)
+
+### [Juan, con EPOC, oxígeno domiciliario y un 70% de discapacidad: «Fui a vacunarme de la gripe y tuve que aparcar a 400 metros cargando con la bombona»](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmhQakpjeVplSUlBaXFCcF8zdmNnQWx6NkJPcGtpSm0xRmpJb0NKVGw1UklQT2V0Q0hOWkhjSHlfTjBGM25Ca1VPQmJuRVlEVkZRRldBTU1QR2pBYlUtVVVSZnREU2tGaEw0ZUwzNW9KeDRGdG1YdnRoQUE0bk1faGF0SEFiQjNaZ19xWGVkOC1tZDZpZVJkSXhiR0lsU0tOZ1djM0tVRQ?oc=5)
+
+2026-11-07 <span class="news-indication-tag">EPOC</span>
+
+Source: [Tododisca](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmhQakpjeVplSUlBaXFCcF8zdmNnQWx6NkJPcGtpSm0xRmpJb0NKVGw1UklQT2V0Q0hOWkhjSHlfTjBGM25Ca1VPQmJuRVlEVkZRRldBTU1QR2pBYlUtVVVSZnREU2tGaEw0ZUwzNW9KeDRGdG1YdnRoQUE0bk1faGF0SEFiQjNaZ19xWGVkOC1tZDZpZVJkSXhiR0lsU0tOZ1djM0tVRQ?oc=5)
+
+---
 
 ### [Emicrania, un freno al dolore stimolando il nervo vago: che cosa dicono gli studi e quali cure sono disponibili](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYndHQV9jNnVrSmNjc2M1eVVUWE5FTkxvZlJ5a2JVM1dvbjNFTGJGamt5Z1BPVlVMUmtEeWRucDg0WGRQZVo3dGFUbkNBdG1hdXc1d1N4elhxcC1oR1hZV0QyRUE5eEtyLWQtV0t5bkQwR3pQODVpODNOcXZDbXhKd0lhM19DRXVYaW9wM2dzanpsSkhRWldLVkdtSHN2V0VVMVdacXJaVGFMN0QxbHNkOHNyQUVodFdTOWhydmd3T01QRDl1d1h0UENjb3pfMDFWbnZ3NGNmaG5hYXZ1djNCYnRYTWU0MlpMQUdYSlVEZElWQQ?oc=5)
 

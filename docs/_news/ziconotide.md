@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Ziconotide?">
-<strong>Ziconotide</strong> currently has <strong>36 news articles</strong>, with 9 predicted indications.
+<strong>Ziconotide</strong> currently has <strong>39 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ This page combines the AI-predicted indications for Ziconotide with the latest h
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (36)
+## Related News (39)
 
 ### [Congreso S.E.N.: España da el primer paso hacia un plan nacional de salud renal para frenar la enfermedad renal crónica - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
 
 2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
+
+---
+
+### [Retatrutida y CagriSema: la nueva generación antiobesidad - El Ecosistema Startup](https://news.google.com/rss/articles/CBMikAFBVV95cUxOaFlHWUpvaXJVWjFHNnJybTI3dWNRSWFWUlB4azlVTU9XVDVVUGNRMnlTcV9xc05UVGtrUUZYN0NnSVdlOVh2bTcySzJvZ3BqTWt2V09zdVFTaGp0ZWNOdl9jWDFCWE93ZnFQVlZCS2RuUDEzaF9QMXFfTXE2Sk9oU0FsSzFweXBTYmlBYWpvT0s?oc=5)
+
+2026-11-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [El Ecosistema Startup](https://news.google.com/rss/articles/CBMikAFBVV95cUxOaFlHWUpvaXJVWjFHNnJybTI3dWNRSWFWUlB4azlVTU9XVDVVUGNRMnlTcV9xc05UVGtrUUZYN0NnSVdlOVh2bTcySzJvZ3BqTWt2V09zdVFTaGp0ZWNOdl9jWDFCWE93ZnFQVlZCS2RuUDEzaF9QMXFfTXE2Sk9oU0FsSzFweXBTYmlBYWpvT0s?oc=5)
 
 ---
 
@@ -93,7 +101,7 @@ Source: [Libertad Digital](https://news.google.com/rss/articles/CBMigAJBVV95cUxN
 
 ### [Adipositasmedikamente: DDG fordert Kassen-Erstattung für Risikopatienten](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5)
 
-2026-11-05 <span class="news-indication-tag">Adipositas</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-11-05 <span class="news-indication-tag">Adipositas</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5)
 
@@ -168,6 +176,14 @@ Source: [Canal Sur](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlMxcWJ
 2026-11-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVXVTb0FjOFl2QU9aaFdMVWxKY1lFRkxoTmlCMzR4SXFKcTMyUGc4S2taaDhZNGlzSE1VS3R2T3FQd2pnTjZidFJxemo0QWhjalBJSXdwaW1vQ2JLX3BLTmlubGM3a3lFNV9aVVFuR0h5NE1zYXFtMExnY1FRLTJySGMtMXZXMmUxdGdSQURQQ3lJajRJQWdYQVp4Z1Y3aWQ0amJQQnMtM0dPaWR0WXdNSk9kN24ydE8xMi1YY2NZRzlwTEJDWUo3WXd2a1E1REJvaTdNM3lXVzRrWVNvb0FXWnlaa19pbXAzakVBUUFTY3Vyby1pZUpHYm9jeW1tb3pEdnM4MGFJclZkdFnSAZACQVVfeXFMTnV0akV0Q3YwQUQ0eTZYM0g0MU5MczdiOFZkX1Rva2dzN1lHYWxVeHhnZzhfUDlnZFotcWFzY2daRnpac1VLV0dyZmFFS1Nyb1g2VXJBT1hhMzFzZDh4VEtZZnp1b3I2VUh5dVNsdGxUeHI0ZnhIREwwdFVlRW9Od0RvLWlMTUFVcXozaVpiNjI5YkdlU2JYdWc2WGw3RzVWYTRhdDZRUEVOQkxJcU1lV3duMzhzY01RSzNnbDlkUWZFZzEtTXU3aVVSQjVEN2lwZ0VUU2lpTkZ1Q1hhXzhZY2R3ZmpNUE41RExWMk5VeVloczlSYjFhRFpMaUo2Rm1RNTU3N21RSXp5cFhuY0pIUHk?oc=5)
+
+---
+
+### [Peso e glicemia nel diabete tipo 2: i risultati di uno studio su farmaco sperimentale](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdi1ReWxFd0ltellkYkpmYjh0dnA5WUo4QjhnblBhdU4zbFFXSW44NnhHNzZfZlRpbVNvWTdjc19nanFIaGxpOUhXSzNlYTFKVkY1b3JXRjJEOUFRMXo3VVBPT3RXa1pwa2o5QUZzX1VjR3NXR3hxQm5MYm1Lb1gwX2FwcHhCNjE3REJHUHpVNVI0bkFhSUhpNzRkSkc2S0ZQekgxc3VSeGxoNmxFLVFPeFhuZw?oc=5)
+
+2026-11-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+Source: [FarmaciaVirtuale.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdi1ReWxFd0ltellkYkpmYjh0dnA5WUo4QjhnblBhdU4zbFFXSW44NnhHNzZfZlRpbVNvWTdjc19nanFIaGxpOUhXSzNlYTFKVkY1b3JXRjJEOUFRMXo3VVBPT3RXa1pwa2o5QUZzX1VjR3NXR3hxQm5MYm1Lb1gwX2FwcHhCNjE3REJHUHpVNVI0bkFhSUhpNzRkSkc2S0ZQekgxc3VSeGxoNmxFLVFPeFhuZw?oc=5)
 
 ---
 
@@ -288,6 +304,14 @@ Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi0gFBVV9
 2026-11-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
 Source: [Les Echos](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMHVuOHhHa0xjT0pFczU0X2hPRVZKLTRqOUQ3NEItNEpJak84b3BVSnhuYTJNbnNmN19qckRxR096ZzZSRFphellBV1NpejA5bmNJVUhwMVhVZ01wOWJ4dlFEYXBCdDJCbWpwYndwTi1jNzNvMmRudE53VEhqbW85TVRjSjladEN3bTlIbEttMHozRldJZEpwNzA0UGFiYndRcUthb2V0dTZnamFDWGpiM2FNTU1WR2FUdFBMM2RCbmFqdGFJWm02enlKZ1NfM280VjJYRGZONWJCeWt3Ry0zdVJsQUV1OVFGbnAwc1BCVWZaeWs?oc=5)
+
+---
+
+### [Neue Generation von Abnehm-Medikamenten: Das sollen sie können](https://news.google.com/rss/articles/CBMipgFBVV95cUxPOXRtTHNOZ25DR0ZHd3ZkUEEwZml4M0ppdW5KRE1PanI5NnRLanA4WVV3ZEtJTkd1Nlg0WXBDTUpJaE1JZVFwMmJQU0ZaSWk0ako0aVRHOS1WbXBRQkstY3VKUGFUdmtXU0dXWUpjcWRkcDhxWmFiVmNYNU9nQlZoMlRvZGpyTzBHNkE4TjVMaS0tWTdzWlpiRE85aXp1c3ozc2xKWHZ3?oc=5)
+
+2026-10-31 <span class="news-indication-tag">Adipositas</span>
+
+Source: [BR](https://news.google.com/rss/articles/CBMipgFBVV95cUxPOXRtTHNOZ25DR0ZHd3ZkUEEwZml4M0ppdW5KRE1PanI5NnRLanA4WVV3ZEtJTkd1Nlg0WXBDTUpJaE1JZVFwMmJQU0ZaSWk0ako0aVRHOS1WbXBRQkstY3VKUGFUdmtXU0dXWUpjcWRkcDhxWmFiVmNYNU9nQlZoMlRvZGpyTzBHNkE4TjVMaS0tWTdzWlpiRE85aXp1c3ozc2xKWHZ3?oc=5)
 
 ---
 

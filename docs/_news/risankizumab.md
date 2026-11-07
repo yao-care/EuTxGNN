@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Risankizumab?">
-<strong>Risankizumab</strong> currently has <strong>65 news articles</strong>, with 10 predicted indications.
+<strong>Risankizumab</strong> currently has <strong>67 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ This page combines the AI-predicted indications for Risankizumab with the latest
 <p><a href="{{ '/drugs/risankizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (65)
+## Related News (67)
 
 ### [Diabetes: Implantat wirkt schon nach einer Stunde – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWG01QUUxeHRhUDZaY2dOX2pKQnFDVUtyVXVfTld3ZGRxNXlQYk8tNThpMk1mdDJGNThuT2ZISU91SFdkalFTd2VEcVd3aE1LdWZpOU05elVmeEJLU19LcjAzeW1feXRtOUpKNkFPRmxUNFdKa1VETWRkT2NYOUI5WHptNzBJMlV3UERCMUJWTjdtdFFWSTdRcVdwb0tLRzk0MjZuVTVZaHZoTm9DSVVQQVZ1UlhGR1lPMEdDN0tmR2R4YTdhaXlRamhhclFlQ3JqT0JYeWhubmpNTUE?oc=5)
 
 2026-11-07 <span class="news-indication-tag">diabetes</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWG01QUUxeHRhUDZaY2dOX2pKQnFDVUtyVXVfTld3ZGRxNXlQYk8tNThpMk1mdDJGNThuT2ZISU91SFdkalFTd2VEcVd3aE1LdWZpOU05elVmeEJLU19LcjAzeW1feXRtOUpKNkFPRmxUNFdKa1VETWRkT2NYOUI5WHptNzBJMlV3UERCMUJWTjdtdFFWSTdRcVdwb0tLRzk0MjZuVTVZaHZoTm9DSVVQQVZ1UlhGR1lPMEdDN0tmR2R4YTdhaXlRamhhclFlQ3JqT0JYeWhubmpNTUE?oc=5)
+
+---
+
+### [Neue Typ-2-Diabetes-Studie: Kampfansage mit Sport und Ernährung](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUUo5UjRhREF6ZGpzNDlOWkdKMjJzdkI4NVpjM0k0dVZwcTZBR1ZnMEpTdjVQVHNDQ1VsaTZlVWJEcW91V2plZWtWc0JVbXlkWUItdXQzNlNPODdUTHdaX09ua1pJdVEyTFVPYWxBOFJ1cXhvMHdHaEpyWS1PTUxNa2NpNHRtYmszN25MYndjNVlrY1MtNGFNQW9IQUlDa2lhdHpSbUxKLS1lN1VQSmlYRHNac0NkNlE0R042WXA1b1FZVjhVZzZZNg?oc=5)
+
+2026-11-07 <span class="news-indication-tag">diabetes</span>
+
+Source: [BILD](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUUo5UjRhREF6ZGpzNDlOWkdKMjJzdkI4NVpjM0k0dVZwcTZBR1ZnMEpTdjVQVHNDQ1VsaTZlVWJEcW91V2plZWtWc0JVbXlkWUItdXQzNlNPODdUTHdaX09ua1pJdVEyTFVPYWxBOFJ1cXhvMHdHaEpyWS1PTUxNa2NpNHRtYmszN25MYndjNVlrY1MtNGFNQW9IQUlDa2lhdHpSbUxKLS1lN1VQSmlYRHNac0NkNlE0R042WXA1b1FZVjhVZzZZNg?oc=5)
+
+---
+
+### [Exeter University-led £20m project to prevent and detect dementia](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
 
 ---
 
@@ -89,14 +105,6 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBh
 2026-11-06 <span class="news-indication-tag">diabetes</span>
 
 Source: [CNN](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlg0dllnRGNQTHppV1JiSmZWZl9pQU1EYW9lakoydElQUkctVXpDUE5UR1EwZUNYS2h3X0FaaDRDWUhtcmtldzNqMWhzUTJ1LVBZYXpnUkZLUy01NVVGV0YtX0VUMG9qc1BNX0R4NDdnaV9PQU51cHMzd0dad3pFdHdrdGhSVnZDTDJzcXU5Y1BsUU9C?oc=5)
-
----
-
-### [Gürtelrose trifft nicht nur Ältere: Warum chronische Erkrankungen das Risiko erhöhen](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoeEtnWG5aUFJITUdic214QWJNV2ZmOWV0NkpXWU1ld1B3VEdTR05KVVI2bnB5N3lXV3I3OHBXd3pfNlBWNUZHbXZ6WlU4ZzdPOTVDVkhrbl8?oc=5)
-
-2026-11-06 <span class="news-indication-tag">diabetes</span>
-
-Source: [Presseportal](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoeEtnWG5aUFJITUdic214QWJNV2ZmOWV0NkpXWU1ld1B3VEdTR05KVVI2bnB5N3lXV3I3OHBXd3pfNlBWNUZHbXZ6WlU4ZzdPOTVDVkhrbl8?oc=5)
 
 ---
 
@@ -201,6 +209,14 @@ Source: [food-monitor](https://news.google.com/rss/articles/CBMingFBVV95cUxOdTRD
 2026-11-04 <span class="news-indication-tag">diabetes</span>
 
 Source: [UKClimbing](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFZURUtmN09hVVlEc0tVVXFjd1FhMUUzS2VkdjN5c0h0bVMwRWlYR2YtTTZrTUFWWFNVYS1semRQa05vd2FYSURIQkVmZnEwTUpIQV9yTzhsN2hLa09KeEJ4SFJNanZzdF80bm81M0NYd045MUd2UnNEdGNTN2VxdmR0cE5kNXhkQU5CZGJIamJTX0M3RGpuYXZSVzh5aFJqbUdVX2JuUUVtYm8tcGIwWkNuOUVYVWpzVnM2TjAxZUVaa2xVV285aTh5dw?oc=5)
+
+---
+
+### [Peso e glicemia nel diabete tipo 2: i risultati di uno studio su farmaco sperimentale](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdi1ReWxFd0ltellkYkpmYjh0dnA5WUo4QjhnblBhdU4zbFFXSW44NnhHNzZfZlRpbVNvWTdjc19nanFIaGxpOUhXSzNlYTFKVkY1b3JXRjJEOUFRMXo3VVBPT3RXa1pwa2o5QUZzX1VjR3NXR3hxQm5MYm1Lb1gwX2FwcHhCNjE3REJHUHpVNVI0bkFhSUhpNzRkSkc2S0ZQekgxc3VSeGxoNmxFLVFPeFhuZw?oc=5)
+
+2026-11-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+Source: [FarmaciaVirtuale.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdi1ReWxFd0ltellkYkpmYjh0dnA5WUo4QjhnblBhdU4zbFFXSW44NnhHNzZfZlRpbVNvWTdjc19nanFIaGxpOUhXSzNlYTFKVkY1b3JXRjJEOUFRMXo3VVBPT3RXa1pwa2o5QUZzX1VjR3NXR3hxQm5MYm1Lb1gwX2FwcHhCNjE3REJHUHpVNVI0bkFhSUhpNzRkSkc2S0ZQekgxc3VSeGxoNmxFLVFPeFhuZw?oc=5)
 
 ---
 
