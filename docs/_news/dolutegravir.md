@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Dolutegravir. 3 predicted indications."
 permalink: /news/dolutegravir/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Dolutegravir News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Dolutegravir?">
-<strong>Dolutegravir</strong> currently has <strong>2 news articles</strong>, with 3 predicted indications.
+<strong>Dolutegravir</strong> currently has <strong>3 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ This page combines the AI-predicted indications for Dolutegravir with the latest
 <p><a href="{{ '/drugs/dolutegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies - Al Jazeera](https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1laRGZHY1N5OGs3Y1NVcDFzcFk1UVh5WlpSbllkaDZXSUE4TkQtY1lrM05PcVVhWjg4UlpWSjVJbGRwd0JHZnhaVkNPenpCX2lfUmFkTFVCY3B4NWdHdDFSTmJyeXhUZmduTzhRR21Ybmx0MllsODUzcjBlZHpZSnU4bGRGWFYtbDh5WDVIbVpqbHhVbW1LZlZpM2JPRDJpZ1FVT3IzTnp4YzVQVjRsb1pWOU4zelXSAbwBQVVfeXFMTnBNNVFHUFBrSGlHSjg1cjBYY09CTnJLa0tNRGpib3ZlTkM5ZEtia3dZbVFQcHJUa3J3dzZnU2k3cjdsR2puOVBXT3hnWHplcHN4OThuRm5JSUtWSE9maGxMckVFb1hrc3kxaXR3OTRoRnB6X2hlV3Z3aTRkdWVKbkZvTGRJMEhxWE5UX0FaSjI5cEdLc2tadkwzN29QeVJzQ2dnNGF3eGYwNVN3ZlFMaVItUUttWFRxTUdIYVE?oc=5)
 
 2026-11-05 <span class="news-indication-tag">hepatitis</span>
 
 Source: [Al Jazeera](https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1laRGZHY1N5OGs3Y1NVcDFzcFk1UVh5WlpSbllkaDZXSUE4TkQtY1lrM05PcVVhWjg4UlpWSjVJbGRwd0JHZnhaVkNPenpCX2lfUmFkTFVCY3B4NWdHdDFSTmJyeXhUZmduTzhRR21Ybmx0MllsODUzcjBlZHpZSnU4bGRGWFYtbDh5WDVIbVpqbHhVbW1LZlZpM2JPRDJpZ1FVT3IzTnp4YzVQVjRsb1pWOU4zelXSAbwBQVVfeXFMTnBNNVFHUFBrSGlHSjg1cjBYY09CTnJLa0tNRGpib3ZlTkM5ZEtia3dZbVFQcHJUa3J3dzZnU2k3cjdsR2puOVBXT3hnWHplcHN4OThuRm5JSUtWSE9maGxMckVFb1hrc3kxaXR3OTRoRnB6X2hlV3Z3aTRkdWVKbkZvTGRJMEhxWE5UX0FaSjI5cEdLc2tadkwzN29QeVJzQ2dnNGF3eGYwNVN3ZlFMaVItUUttWFRxTUdIYVE?oc=5)
+
+---
+
+### [A controversial US-backed $1.6 million vaccine trial involving 14,000 newborns in West Africa has been cancelled - Business Insider Africa](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS3gxTFRSMTloZ1VlcVd5UTJRVi04WU5lYlhoTTZNTWRuNjVIOUdlakozcVBiaDNIblBKSzhuU2Viei0ySnpHUHJOQkwwSHV3eWFVYzJlcEhMT2M0UFJOcEtDb3ZUckJBNHNYNTZyTEVqUTRxa3VvVFlHU2pEMklUNDk2ckcybnZsRVVSM2dFQ3JZVFVRUmJIYjZHdkltck9MdHUxZTFHUjZ0TUo4MmtJV2F2WldZaGhIVEZYcVRiWnVQV0FuWFFteHF4eXhJaGZfSnVJYVBwYk1teGM?oc=5)
+
+2026-11-05 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Business Insider Africa](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS3gxTFRSMTloZ1VlcVd5UTJRVi04WU5lYlhoTTZNTWRuNjVIOUdlakozcVBiaDNIblBKSzhuU2Viei0ySnpHUHJOQkwwSHV3eWFVYzJlcEhMT2M0UFJOcEtDb3ZUckJBNHNYNTZyTEVqUTRxa3VvVFlHU2pEMklUNDk2ckcybnZsRVVSM2dFQ3JZVFVRUmJIYjZHdkltck9MdHUxZTFHUjZ0TUo4MmtJV2F2WldZaGhIVEZYcVRiWnVQV0FuWFFteHF4eXhJaGZfSnVJYVBwYk1teGM?oc=5)
 
 ---
 

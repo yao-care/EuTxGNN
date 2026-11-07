@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Deferasirox. 5 predicted indications."
 permalink: /news/deferasirox/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Deferasirox News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Deferasirox?">
-<strong>Deferasirox</strong> currently has <strong>136 news articles</strong>, with 5 predicted indications.
+<strong>Deferasirox</strong> currently has <strong>137 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Deferasirox with the latest 
 <p><a href="{{ '/drugs/deferasirox/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (136)
+## Related News (137)
 
 ### [Prevenzione urologica maschile: quali esami fare in base all’età e le malattie più a rischio - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZWlHYmxiRE10dDRCQVhWdnAtNEtYMU9uaU5hVzNjQlUzdW9iT3hqRDJXZGpYdnIxbGU2Vm9CZHJlTHNHT2pmTFA0X01nYUYzaXRCR1A4MkhoYjBWNnc4OHRwU09XMW4taG9NRERmWDJUY3F6SUdhRjhMd3lGVFAxczF3aTNQeTdGQlNJVkFLUWtRYVMzSG1SR29yTGpOZ0R2Zm1MQXR2Y2s4alc5d2VLM1VpZDBoVTdJNmRRTU84R05iNW5zekl5VjRmTjNLYWlpa3pJRGVHbUxNSU1FSXFFM1piTTZmXzJBMXc3U280bEkyVTNCa3VoRXd2cWVzLVRO0gHAAUFVX3lxTE1vdWg0ZGhuYmVTWTc2UkRqVERNdlpPTDJFaktCaEZqVFhTYXZBdExIWklqa2h6UzBHVW1OemVqRGtwOWtCQ2RWSTZSYV93UkZ2Y1FhQWJlU0w2Z1dxaHdJcExoVmM4aDJ6eGNpb083ZS1zOEJyc1puamp0Q2puT0JXYjlnaFBLOVEtdWIzQzZSMEhJQThnQndvV1dHNzJva29TZ2liTnVvbC0xZWZsNXVlZ2ZUQTYzUEpVVV95T2J5Zw?oc=5)
 
@@ -188,6 +188,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRWtN
 2026-11-05 <span class="news-indication-tag">cancro</span>
 
 Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdHBNWGlhY2hSUUJwWjlYUEpQVmpEMG0tWHF3YVlZTHBIWVhOSmpBd1ViUXZlQ2tKSFgxUDl5MkdyY3ZXOEhWN0RZT29DaklKZEp1WWhGdDlnSDhJX3V6WTBuQk1IZDhOVHhkSXJWaVJ6RHZscXlPUXcwek5yenJxQ3g5c2I0NXN5UmtMMno1OTFubmw2Zk95c29KOEwwZU9UcldQeUJhUmR1MjZITHB3ZnVSOTVlRzVHRlNzelkwQnRIMjVIY0tnMVVEV0NqY3RhNVp0dzFBMjFmSUNZU3pObG1OemxsZGZDczNlMTZaMNIB9AFBVV95cUxOTXBuOGlFcGZWS3ZqTXZXQkMxSEh1R3NGazVVdE5zTEZXUDNXVV81LThSRHV6R1FPV2Nqa0lnS0UtYXZ1a0JSTUJIZFo2c0VMR042SV9pbWRSS3ktdzBMVUVzWERDdEtMbWhjYlFicnJJamcwVl84VnRWWkVwaC1XQlFpUTB3dHh4RWdlTFAzbFJoVVdHU0RDeFlxdFFySnIxU0hQYURHTGREUHlWc2ZURkVFUDRZWWtRNl8wVVhrY1dxNnk2SFpGZDJtVVdIXzhsRVpEazUySnhNMGxUaXprQWpJX295X2RJV0c3MHJpanpCeERZ?oc=5)
+
+---
+
+### [A controversial US-backed $1.6 million vaccine trial involving 14,000 newborns in West Africa has been cancelled - Business Insider Africa](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS3gxTFRSMTloZ1VlcVd5UTJRVi04WU5lYlhoTTZNTWRuNjVIOUdlakozcVBiaDNIblBKSzhuU2Viei0ySnpHUHJOQkwwSHV3eWFVYzJlcEhMT2M0UFJOcEtDb3ZUckJBNHNYNTZyTEVqUTRxa3VvVFlHU2pEMklUNDk2ckcybnZsRVVSM2dFQ3JZVFVRUmJIYjZHdkltck9MdHUxZTFHUjZ0TUo4MmtJV2F2WldZaGhIVEZYcVRiWnVQV0FuWFFteHF4eXhJaGZfSnVJYVBwYk1teGM?oc=5)
+
+2026-11-05 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Business Insider Africa](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS3gxTFRSMTloZ1VlcVd5UTJRVi04WU5lYlhoTTZNTWRuNjVIOUdlakozcVBiaDNIblBKSzhuU2Viei0ySnpHUHJOQkwwSHV3eWFVYzJlcEhMT2M0UFJOcEtDb3ZUckJBNHNYNTZyTEVqUTRxa3VvVFlHU2pEMklUNDk2ckcybnZsRVVSM2dFQ3JZVFVRUmJIYjZHdkltck9MdHUxZTFHUjZ0TUo4MmtJV2F2WldZaGhIVEZYcVRiWnVQV0FuWFFteHF4eXhJaGZfSnVJYVBwYk1teGM?oc=5)
 
 ---
 

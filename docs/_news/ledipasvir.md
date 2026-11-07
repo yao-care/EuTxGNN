@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ledipasvir. 10 predicted indications."
 permalink: /news/ledipasvir/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Ledipasvir News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Ledipasvir?">
-<strong>Ledipasvir</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
+<strong>Ledipasvir</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Ledipasvir with the latest h
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
 
 ### [Los probióticos, aliados para la esclerosis múltiple: reducen la fatiga, dolor e inflamación](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdFlxZjFJbW9KTG4xcGM1UThFUG5qcjMyWGNxTmNJNEJmdkEwWXAxMmQzcG5WNmlJNUxpSlRoOGxsZHJXWGEyTFo5YzRfeHZ0MURBX2FqeXhCaEp2NW96YTU1U1drVXNfSkphNmRDQnZ4NDhLVWtlTjFIVjBvUTdVN3ctX0lUQm50SUtfQlJ6NC04dDdMT2ZLXzF3OFdDVkVBeVJWTTEyZU13TmZ5OVQyeDh1SlBiUnhuLUpDUE5yQ0w0Y3BYUjlxalk1WEhLMXNGRzNHV2wtWGh3a1ltbHZB?oc=5)
 
@@ -73,6 +73,14 @@ Source: [Malaga Actualidad](https://news.google.com/rss/articles/CBMi0wFBVV95cUx
 2026-11-05 <span class="news-indication-tag">esclerosis múltiple</span>
 
 Source: [Cadena SER](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSjdZZThWRXU0Mm5BdG51bEQxaEM1TTFoYmo1Uml5TDZscE9nUkFmSUwyazhUUGNlUFJCLXpnYUtJOE11TnI4Vjk0UE9MRk41UExVV2xZQzNqaVJwbzMtTXR0aW5RNjZJdkNUM0hieThHdmk2cFJtS0V6elFjeDh0b1U1RDhDLXg3RmIxaXNkMnBSTkFEMXpVVm9pZ25ITDkyUmI1N2M1VVF2ZzJoR1RGb0lOZ1ltX2ZFdXdVbm9lYWFYWmktejBkcTdhcFJvS05qeEhVWW5rN0tUb1JleW52bFZJTTRDRUM3RER6NdIBgAJBVV95cUxPdEdCY2FKMHN4elBSRzU5VU5IVUlROVNxZTBOY09nWldyYWNSbnRHTUo3VnliWGF6aERLR1ppVU1zS2JyY2Z0bTl0cy12XzNBY09FbFdUaFh3cHhabW1UUDlZb1R2TE1FTjQ0Skc1bHlYRHU4R0pVMFZvaEdtV0Y5T0FndHRvU2ExN21fSUpQNk50Yno5YmFxa0VFdm56Z3kyQUJnU0lKa3FfMHBSUkFnMUJGYlFNWTVNVTI5RDZqdzNabXo3NlhKTFBWbEF2aDZFVXR6OVQxLXdnYTBTdTRld1BVdy0yNmFuNjNfb09ta2lHZEhna1ZiaTZ3dXRNOEo0?oc=5)
+
+---
+
+### [A controversial US-backed $1.6 million vaccine trial involving 14,000 newborns in West Africa has been cancelled - Business Insider Africa](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS3gxTFRSMTloZ1VlcVd5UTJRVi04WU5lYlhoTTZNTWRuNjVIOUdlakozcVBiaDNIblBKSzhuU2Viei0ySnpHUHJOQkwwSHV3eWFVYzJlcEhMT2M0UFJOcEtDb3ZUckJBNHNYNTZyTEVqUTRxa3VvVFlHU2pEMklUNDk2ckcybnZsRVVSM2dFQ3JZVFVRUmJIYjZHdkltck9MdHUxZTFHUjZ0TUo4MmtJV2F2WldZaGhIVEZYcVRiWnVQV0FuWFFteHF4eXhJaGZfSnVJYVBwYk1teGM?oc=5)
+
+2026-11-05 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Business Insider Africa](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS3gxTFRSMTloZ1VlcVd5UTJRVi04WU5lYlhoTTZNTWRuNjVIOUdlakozcVBiaDNIblBKSzhuU2Viei0ySnpHUHJOQkwwSHV3eWFVYzJlcEhMT2M0UFJOcEtDb3ZUckJBNHNYNTZyTEVqUTRxa3VvVFlHU2pEMklUNDk2ckcybnZsRVVSM2dFQ3JZVFVRUmJIYjZHdkltck9MdHUxZTFHUjZ0TUo4MmtJV2F2WldZaGhIVEZYcVRiWnVQV0FuWFFteHF4eXhJaGZfSnVJYVBwYk1teGM?oc=5)
 
 ---
 

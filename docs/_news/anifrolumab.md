@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Anifrolumab. 0 predicted indications."
 permalink: /news/anifrolumab/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Anifrolumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Anifrolumab?">
-<strong>Anifrolumab</strong> currently has <strong>57 news articles</strong>, with 0 predicted indications.
+<strong>Anifrolumab</strong> currently has <strong>60 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,37 @@ This page combines the AI-predicted indications for Anifrolumab with the latest 
 <p><a href="{{ '/drugs/anifrolumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (57)
+## Related News (60)
+
+### [Diabetes: Implantat wirkt schon nach einer Stunde – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWG01QUUxeHRhUDZaY2dOX2pKQnFDVUtyVXVfTld3ZGRxNXlQYk8tNThpMk1mdDJGNThuT2ZISU91SFdkalFTd2VEcVd3aE1LdWZpOU05elVmeEJLU19LcjAzeW1feXRtOUpKNkFPRmxUNFdKa1VETWRkT2NYOUI5WHptNzBJMlV3UERCMUJWTjdtdFFWSTdRcVdwb0tLRzk0MjZuVTVZaHZoTm9DSVVQQVZ1UlhGR1lPMEdDN0tmR2R4YTdhaXlRamhhclFlQ3JqT0JYeWhubmpNTUE?oc=5)
+
+2026-11-07 <span class="news-indication-tag">diabetes</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWG01QUUxeHRhUDZaY2dOX2pKQnFDVUtyVXVfTld3ZGRxNXlQYk8tNThpMk1mdDJGNThuT2ZISU91SFdkalFTd2VEcVd3aE1LdWZpOU05elVmeEJLU19LcjAzeW1feXRtOUpKNkFPRmxUNFdKa1VETWRkT2NYOUI5WHptNzBJMlV3UERCMUJWTjdtdFFWSTdRcVdwb0tLRzk0MjZuVTVZaHZoTm9DSVVQQVZ1UlhGR1lPMEdDN0tmR2R4YTdhaXlRamhhclFlQ3JqT0JYeWhubmpNTUE?oc=5)
+
+---
+
+### [Carrot tops, apple cores: why you shouldn’t throw away scraps - The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkRwdTVFcktwdThHRURNYTZUX1pPZW5YYlJWOXVVTWVJWjY2b1BFbzlJUzBDMVRtcjRKSWhYMWV6aWI2QnJfN1VVbTNBbk1vaEV5X2Z1dGRZcWg4RVVzU0RWS2VXODE2V2VOd0kzZTYzcmlHeWNrYy1IM09hSXduWV8wc0dobXlFejNud2pfenc2NmFuNG91VmNjaFJZMlZMMllBWFhuUTVEbDk5UUhvV29vMS1BcHlXb3h3dDVKSS0?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkRwdTVFcktwdThHRURNYTZUX1pPZW5YYlJWOXVVTWVJWjY2b1BFbzlJUzBDMVRtcjRKSWhYMWV6aWI2QnJfN1VVbTNBbk1vaEV5X2Z1dGRZcWg4RVVzU0RWS2VXODE2V2VOd0kzZTYzcmlHeWNrYy1IM09hSXduWV8wc0dobXlFejNud2pfenc2NmFuNG91VmNjaFJZMlZMMllBWFhuUTVEbDk5UUhvV29vMS1BcHlXb3h3dDVKSS0?oc=5)
+
+---
 
 ### [Typ-2-Diabetes: ADA und EASD rücken moderne Wirkstoffe vor Metformin](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGJkOWpxM01kWUVjRlgxRGdURDBrTGJDSngtQnkxUGxicEUtR1lEMWhvalQ5UmlWQW9tcGpCN19HXzJKS1ljVWxVNFU2OUwybmFfVHYyQy02djd5Tk13ZkphNU9hbG5GV2xSMFNnU2FwdXZHNkczbXhtZURsSDRncGFDd2JBak5wM0VKQTZQSi1vakwyR1E1TFZubVhVbEFUZFpLZHFNUEFYbWdWeG5Ed3ZoTjdWQk5C?oc=5)
 
 2026-11-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGJkOWpxM01kWUVjRlgxRGdURDBrTGJDSngtQnkxUGxicEUtR1lEMWhvalQ5UmlWQW9tcGpCN19HXzJKS1ljVWxVNFU2OUwybmFfVHYyQy02djd5Tk13ZkphNU9hbG5GV2xSMFNnU2FwdXZHNkczbXhtZURsSDRncGFDd2JBak5wM0VKQTZQSi1vakwyR1E1TFZubVhVbEFUZFpLZHFNUEFYbWdWeG5Ed3ZoTjdWQk5C?oc=5)
+
+---
+
+### [Congreso S.E.N.: España da el primer paso hacia un plan nacional de salud renal para frenar la enfermedad renal crónica - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
 
 ---
 

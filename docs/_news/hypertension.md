@@ -3,9 +3,9 @@ layout: default
 title: "hipertensión (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hipertensión (hypertension). 27 articles, 55 related drugs."
+description: "Health news about hipertensión (hypertension). 28 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # hipertensión (hypertension) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about hipertensión (hypertension)?">
-<strong>hipertensión (hypertension)</strong> currently has <strong>27 news articles</strong> and 55 related drugs.
+<strong>hipertensión (hypertension)</strong> currently has <strong>28 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -60,7 +60,15 @@ This page brings together the latest health news about “hipertensión” and l
 </ul>
 </div>
 
-## Related News (27)
+## Related News (28)
+
+### [Congreso S.E.N.: España da el primer paso hacia un plan nacional de salud renal para frenar la enfermedad renal crónica - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
+
+2026-11-06
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
+
+---
 
 ### [Un estudio relaciona la hipertensión pulmonar con alteraciones cerebrales que afectan a la memoria y la atención - Gaceta Médica](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEJTS1ZXaWdfSlpCWVEtV0FPOXdsMzY5TFpfUzB1QnJTUUREQ0FrbEhxOGNtN1dnLXZiNGFKX25iX3I5anN2cmExWWlMNUlBcTNCQnNDZDFGOUFWdXItRGhjMnFPRjZqU2hZRDVnZS1WVkxlMlZYcjZ5ZTVXUXdNSU9zSS1hOFp2VFgtT2hRTGhXaFpxaXpkb20xcE9NNFpManhCYV9UeTc2eURDNW9J?oc=5)
 

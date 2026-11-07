@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Crizotinib. 9 predicted indications."
 permalink: /news/crizotinib/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Crizotinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Crizotinib?">
-<strong>Crizotinib</strong> currently has <strong>145 news articles</strong>, with 9 predicted indications.
+<strong>Crizotinib</strong> currently has <strong>146 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Crizotinib with the latest h
 <p><a href="{{ '/drugs/crizotinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (145)
+## Related News (146)
 
 ### [7 signs you’re at risk of dementia — and they’re not about forgetting things - The Times](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSTVyVEZOX2hCM0dlS2dORy1ZQlJfYlVoY2diYWx3M1Q2QXR3MXZ4OGk1dE84Z1hzdWltQkwtbG9mWm1FZnpJZHE5clN3cVlvd0tBRFJLdGlzazlUS0ZYdXNQZ1lRNXBLTGFtSDJVV1N3ZE4xZURjcm9PSGxwTmtnSlhmNG5DSGxLakRTZ1lMWnZvQWRlOE10N01TdER6c3BnTjFHUFhiaHppYVBTTEdIblZGY1NqZ096WE81SVRpSFktbGM2YXlxN1M3ZjRScmZ0UGp5cWkteUc?oc=5)
 
@@ -176,6 +176,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSk4
 2026-11-05 <span class="news-drug-tag">Enzalutamide</span> <span class="news-indication-tag">cancer</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGFXWDBSd19oblUxZ2preUU2T0h1ejFfTXQxVnVLLXV4bEo0cnU4YnoySWlBY2dtdkNWYUlZbktuYS01RjVxZFhQRjF3WVdmZC1rMzE5T2VPZjMwaDA1QzUyeVkwdERfYXhicFpSRmhEZGpvVUpkLXNQd2xXMUFoWWtpUXVHbkd4Z2pXelJhdTctU3R6YW41R3dKS2d4bjBUeEpXOHM2VFZkUQ?oc=5)
+
+---
+
+### [5 Habits That May Raise Your Dementia Risk, And 7 That Could Lower It - HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSFNwa0t5bHpIX3ZVczg4NmtUaFFGMi1kMkxObEZuY0xZMFZ4a0cwaHM4dS1YVENoSnV3dlM5VVZZRklucllYV3B5MF9oRWdXem9xNkFlTm1paGUzYXpYUFdzZ3JXNUlrVjZKdzFUb2RJXzJiVDREMGlRNGpyOEdpRE5OZmwzN0ZBU3p1TzVBWG9QYllpcEtSS0JGNVRYa2c?oc=5)
+
+2026-11-05 <span class="news-indication-tag">dementia</span>
+
+Source: [HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSFNwa0t5bHpIX3ZVczg4NmtUaFFGMi1kMkxObEZuY0xZMFZ4a0cwaHM4dS1YVENoSnV3dlM5VVZZRklucllYV3B5MF9oRWdXem9xNkFlTm1paGUzYXpYUFdzZ3JXNUlrVjZKdzFUb2RJXzJiVDREMGlRNGpyOEdpRE5OZmwzN0ZBU3p1TzVBWG9QYllpcEtSS0JGNVRYa2c?oc=5)
 
 ---
 

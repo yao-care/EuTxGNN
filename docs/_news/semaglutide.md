@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Semaglutide. 0 predicted indications."
 permalink: /news/semaglutide/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Semaglutide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>18 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>17 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (18)
+## Related News (17)
 
 ### [Llega a España Wegovy oral, el primer tratamiento oral de la ‘familia del Ozempic’ contra la obesidad - Cadena Dial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHNqQURPOGxFX1ZEaDI0MHZScG1mNWJjb3hPemVWMHN1bGNUUXJTV3BTQTdaN1o5RGNrUkpBR2FNY2NFS2JCZk44SVc5c0h5SE5KZ3hPOHozUk5CY2FHU2I1RnhWRXUwYlNBaXdrVGwtdlRrcDc1dXFkQlAzRzlCSmlxS2wtdW9UUlFmcHJ4S00zM0J1UE1DY3kxcEEyMjlNRFF6cFVXVUJNZEZwYnBZWlFSazIzME1FODJ0d1RVOWtCc0hVUXdvbDFpY1hlTFA2akZyUUo3eTRUQdIB3wFBVV95cUxPdE9adzV2dXc2ckJEcmhfa0N1WnlmdEZkVjVVLW5CNXNETEFud1p2UDJTdkNMNDBQeFVFTkl5RUNzX2RMdVFPTmhYNUNIcVNjTkxCYkt5T3M5N1UwQUQtQmRFNlhJUUpueVhtVXFMT3k2Q29hSTdKTjltRzdCZUpCdmlTdUhkU3ZTRTQ2ZEV2ek9CbVdOTlR3RFBsTDJGMmdhaUtNTVZRN0FJbDhuN1VnMks5OHk3Y3lNbThrVW12M01jMW9iYkt2QVZrRDNwUzBPRUNuVmpHZjl1eVVEQ0M4?oc=5)
 
@@ -44,14 +44,6 @@ Source: [Cadena Dial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHNqQ
 2026-11-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Libertad Digital](https://news.google.com/rss/articles/CBMigAJBVV95cUxNX3JpZktxNjM1QkFnMWQ3Vm9KaDd4b0JEeXQ2RkJFWWhSUHlTT3E4UVJnOU1IOFFSSm9zRDdWMUtUc0Z5c0xiM1djRkhNQmZ2M3pWX2FRVWhlbU1XYmdSRGo5TnVsTEpzMThCeFdFZnkxZVpzTDN1SGxYVW41MVJIbEgwSFVsNmNrQW1KTF9xa1FHcEpzNENOSENJUG9BY2JoY3N2T2JZWG94bGVJcW1BZk5PTHNqQ21sOEtvUDg2LUNQZl9sRmlfMFlwcWc0anRSME93SDdaZG8ta1BVS1VtaFFlVHFreWFoM2tGTk1GNFNvanc2VmFBT1YySFJtc0FK0gGLAkFVX3lxTE50WnFPYk9yWmxxVnl1UFp0dDdDTDh5dzdEX3Q0RVZENTFSWlF2a2xVYlF3Y09STjRURzNqRldIMGdpQUp5X3NqTkllOWxwVkEwaVlpeWFLUTZyMXR1VmpPcks0eWVCS2l5OW1EV1dzbG1yRXJleGl5cEhMbncyMVptRG1QZFdHYW8yc3ZRbVEwS2pIQUVtX0ctc3hoVTlOTkkwRV95X0FxLWNFcl90VzZFNVVFeURlZjVCSVBDU2FibHJJQ25uZGhqODdfQlc0bFM4M1VDN1FDODhxQ3VFa3Fta0ZsMzJhTWhoUVRvRXFXNVppeGpmOVNOZlJIRFNMM3NkamcxZDZOamYzQQ?oc=5)
-
----
-
-### [Adipositasmedikamente: DDG fordert Kassen-Erstattung für Risikopatienten](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5)
-
-2026-11-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Adipositas</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5)
 
 ---
 

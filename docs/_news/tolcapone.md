@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tolcapone. 10 predicted indications."
 permalink: /news/tolcapone/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Tolcapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Tolcapone?">
-<strong>Tolcapone</strong> currently has <strong>14 news articles</strong>, with 10 predicted indications.
+<strong>Tolcapone</strong> currently has <strong>15 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Tolcapone with the latest he
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (15)
 
 ### [7 signs you’re at risk of dementia — and they’re not about forgetting things - The Times](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSTVyVEZOX2hCM0dlS2dORy1ZQlJfYlVoY2diYWx3M1Q2QXR3MXZ4OGk1dE84Z1hzdWltQkwtbG9mWm1FZnpJZHE5clN3cVlvd0tBRFJLdGlzazlUS0ZYdXNQZ1lRNXBLTGFtSDJVV1N3ZE4xZURjcm9PSGxwTmtnSlhmNG5DSGxLakRTZ1lMWnZvQWRlOE10N01TdER6c3BnTjFHUFhiaHppYVBTTEdIblZGY1NqZ096WE81SVRpSFktbGM2YXlxN1M3ZjRScmZ0UGp5cWkteUc?oc=5)
 
@@ -65,6 +65,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZ
 2026-11-05 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2QtdGtBa0Nkc0JMYW50di12X3p4OXdIdDRzNDc5ZzRBWGoxTUF1WFlmVnBQSm1iaWU1czhGdmR4MkdoLXViMU9pejZoSVFZRFFQOUYwSnJTWk53S2lSUl8xQ25mN2MzcVBlcUdQTDdTOWowcnRnWDQtd2hzNTBUQmYwdDIxa1ltNFBZ?oc=5)
+
+---
+
+### [5 Habits That May Raise Your Dementia Risk, And 7 That Could Lower It - HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSFNwa0t5bHpIX3ZVczg4NmtUaFFGMi1kMkxObEZuY0xZMFZ4a0cwaHM4dS1YVENoSnV3dlM5VVZZRklucllYV3B5MF9oRWdXem9xNkFlTm1paGUzYXpYUFdzZ3JXNUlrVjZKdzFUb2RJXzJiVDREMGlRNGpyOEdpRE5OZmwzN0ZBU3p1TzVBWG9QYllpcEtSS0JGNVRYa2c?oc=5)
+
+2026-11-05 <span class="news-indication-tag">dementia</span>
+
+Source: [HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSFNwa0t5bHpIX3ZVczg4NmtUaFFGMi1kMkxObEZuY0xZMFZ4a0cwaHM4dS1YVENoSnV3dlM5VVZZRklucllYV3B5MF9oRWdXem9xNkFlTm1paGUzYXpYUFdzZ3JXNUlrVjZKdzFUb2RJXzJiVDREMGlRNGpyOEdpRE5OZmwzN0ZBU3p1TzVBWG9QYllpcEtSS0JGNVRYa2c?oc=5)
 
 ---
 

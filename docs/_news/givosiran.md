@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Givosiran. 9 predicted indications."
 permalink: /news/givosiran/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Givosiran News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>29 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>31 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (29)
+## Related News (31)
+
+### [Congreso S.E.N.: España da el primer paso hacia un plan nacional de salud renal para frenar la enfermedad renal crónica - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
+
+---
 
 ### [Un estudio relaciona la hipertensión pulmonar con alteraciones cerebrales que afectan a la memoria y la atención - Gaceta Médica](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEJTS1ZXaWdfSlpCWVEtV0FPOXdsMzY5TFpfUzB1QnJTUUREQ0FrbEhxOGNtN1dnLXZiNGFKX25iX3I5anN2cmExWWlMNUlBcTNCQnNDZDFGOUFWdXItRGhjMnFPRjZqU2hZRDVnZS1WVkxlMlZYcjZ5ZTVXUXdNSU9zSS1hOFp2VFgtT2hRTGhXaFpxaXpkb20xcE9NNFpManhCYV9UeTc2eURDNW9J?oc=5)
 
@@ -88,6 +96,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNem
 2026-11-05 <span class="news-indication-tag">hipertensión</span>
 
 Source: [El Economista](https://news.google.com/rss/articles/CBMixwJBVV95cUxOZm9wUmxWdkEzU3N2MGJYVG92QkoxTjVBSU9YaXBfQkpiSGltZmVkQi1ZY3BMZ1lFUkNxaGVCUmRoNF9GbXVheU1Qc0FleFBqSEVDQkwxVmE2c1VoQkhCSVZ4eVFMdFl3S1dVaEdjX1RlaVdXWE5xeWU1enVEVmlPajRaM0JvS19FX1hGOUhZeHVtVUlfbVlSYUdmVWJkNVJxeEJ0N1h4Y3YtYTdSSTUxeXg5b05wQ3V4VXhwNWk3cGtPcFZnZDFHeEZwaGQ0cUV1cWhmQnRGRkFIRVNzemNKSXp1eE9NTERRNWY3aUdUR3pkcnpZdklVdjNRLTFRTTh4VzNKM2RFVHloeFNkdzMwNDV0am9WenpFZUpscVk0MjJXUWNYanRTVVFCOXMtUFlYNmZsYm9OOG5TNEEtdFViZnFnWFFlQ1HSAbICQVVfeXFMTTAxUjBKY1ZYcDM5dXhGdG9zeWVBeXBzNzdiSk1tNlBtYXVHU292bC1fMEkzNlFqUVQ2RldSQS1WdkUwcFdoekRCclFPYnAwdlpiN3VkR0hnSFJ1YTFVYWlIVm41bEF1R1BDT2dxTkUwRUhIWmljMXhrM1dJaGJJd0tQVkpoVE4zenR4d3p6ZHlNcjhVNWZ4WHhuUFNVSE5VdW5oSGx0VG56eWdYbXVSbWh0NzNzSG90Q2J1ZENtT3g0R0lpekZyTG1hNTNXVEV0WEl0VnNTbFk0S0NxTEJQUWtkOHRkUkdDUUJ3emYydlRCUFdUQzJvOUZ1YV8xOVp2UXB1ek5sX0lMazJONmdUSmNfeFEwZzRFd0tVX0dOaUJQbWhXWnpfMjhRbHNvU09NMUp3?oc=5)
+
+---
+
+### [A controversial US-backed $1.6 million vaccine trial involving 14,000 newborns in West Africa has been cancelled - Business Insider Africa](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS3gxTFRSMTloZ1VlcVd5UTJRVi04WU5lYlhoTTZNTWRuNjVIOUdlakozcVBiaDNIblBKSzhuU2Viei0ySnpHUHJOQkwwSHV3eWFVYzJlcEhMT2M0UFJOcEtDb3ZUckJBNHNYNTZyTEVqUTRxa3VvVFlHU2pEMklUNDk2ckcybnZsRVVSM2dFQ3JZVFVRUmJIYjZHdkltck9MdHUxZTFHUjZ0TUo4MmtJV2F2WldZaGhIVEZYcVRiWnVQV0FuWFFteHF4eXhJaGZfSnVJYVBwYk1teGM?oc=5)
+
+2026-11-05 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Business Insider Africa](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS3gxTFRSMTloZ1VlcVd5UTJRVi04WU5lYlhoTTZNTWRuNjVIOUdlakozcVBiaDNIblBKSzhuU2Viei0ySnpHUHJOQkwwSHV3eWFVYzJlcEhMT2M0UFJOcEtDb3ZUckJBNHNYNTZyTEVqUTRxa3VvVFlHU2pEMklUNDk2ckcybnZsRVVSM2dFQ3JZVFVRUmJIYjZHdkltck9MdHUxZTFHUjZ0TUo4MmtJV2F2WldZaGhIVEZYcVRiWnVQV0FuWFFteHF4eXhJaGZfSnVJYVBwYk1teGM?oc=5)
 
 ---
 

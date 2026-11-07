@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Capsaicin. 0 predicted indications."
 permalink: /news/capsaicin/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Capsaicin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Capsaicin?">
-<strong>Capsaicin</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Capsaicin</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Capsaicin with the latest he
 
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Capsaicin-Präparat: Kleine Studie untersucht Gefäßreaktionen und Denkleistung](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQlVjV0pnRjZueHF0bmdfVVprZEpTUHJramNGZ196SGh5NnRvSGx2ZDRPaDNjWlU2U0xqSW5UYURFU1B3bWtlcVFPS2hMWkIteE1GeTdMUGdscjJFbGtxLTFNcUMzaFFDbXJSaVg3TVVWQUhxYjJDdFdjdi1STVhHN2dabUJVMnFscWlvbUhTSkxGS3Q1dkw3T09CRWZYNFJYVGZWalE0S2tYTXB5MWZTSVdlNXZLTU0?oc=5)
+
+2026-11-06 <span class="news-drug-tag">Capsaicin</span>
+
+Source: [food-monitor](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQlVjV0pnRjZueHF0bmdfVVprZEpTUHJramNGZ196SGh5NnRvSGx2ZDRPaDNjWlU2U0xqSW5UYURFU1B3bWtlcVFPS2hMWkIteE1GeTdMUGdscjJFbGtxLTFNcUMzaFFDbXJSaVg3TVVWQUhxYjJDdFdjdi1STVhHN2dabUJVMnFscWlvbUhTSkxGS3Q1dkw3T09CRWZYNFJYVGZWalE0S2tYTXB5MWZTSVdlNXZLTU0?oc=5)
+
+---
 
 ### [Peperoncino e memoria, la capsaicina migliora alcuni test cognitivi: il piccolo trial](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbHcwQ3RxWDBtMHYxaF9namRsVzNVMlpaQUpZUXZ1RGw5UkNaaFBwaE03SXNhV0E0SmUwZHhMVWpRbDE0RnFFZ3k1Y3VOUTU0OGdwT2pVNW5UeDBmS0paaDVETk1IUjJEVG9fT2VOd0xNU2xJb3FFc3VHMkxPZHgwOTJuZ0d4WEw4Z25CS3RwTElvbFNqNnZzRXVhMjNzQzR4T1pnTEcwTkpySmQyMXAybFBVTlJONlBYU281a08wVV9ycGVyNzdKQjdvYWw4WTJMX0loMG1nXzNmMjA?oc=5)
 
