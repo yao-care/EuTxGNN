@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Sarilumab. 0 predicted indications."
 permalink: /news/sarilumab/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # Sarilumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>16 news articles</strong>, with 0 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>17 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (17)
 
 ### [Oxford-Studie enthüllt: Ein Antikörper sabotiert den Schutzschild des Darms](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWstc1VHWjNaMlBqZnFBUUF5MW1LcTl5NjU3UjJOLXo4dTUxNklrVDBsQWtvVkJ2dU5vNF9NNFA0dWtPdDhWYS11S1hRQURfOEs3bHVEQjQxYXZNTk1KaTIwd3lQSTh4VjJOZ1h4Sm0xVkNKcjdMV3JwNmZrUElfVDRBSE1iODc2ZzVkR0lROS1YMXFiSGFTTGc5OVdmTmJxZGJ2Vk9NeWpnOWxaUUdGYXEycEZoeHVXQ1pYZ0RXbmVBVzhGOUE?oc=5)
 
@@ -45,6 +45,14 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWstc1VH
 2026-11-07 <span class="news-indication-tag">EPOC</span>
 
 Source: [Tododisca](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmhQakpjeVplSUlBaXFCcF8zdmNnQWx6NkJPcGtpSm0xRmpJb0NKVGw1UklQT2V0Q0hOWkhjSHlfTjBGM25Ca1VPQmJuRVlEVkZRRldBTU1QR2pBYlUtVVVSZnREU2tGaEw0ZUwzNW9KeDRGdG1YdnRoQUE0bk1faGF0SEFiQjNaZ19xWGVkOC1tZDZpZVJkSXhiR0lsU0tOZ1djM0tVRQ?oc=5)
+
+---
+
+### [Sicuri che sia mal di schiena? Che fare se è spondiloartrite assiale - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+2026-11-06 <span class="news-indication-tag">artrite</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
 
 ---
 

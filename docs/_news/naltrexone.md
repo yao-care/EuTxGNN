@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Naltrexone. 0 predicted indications."
 permalink: /news/naltrexone/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # Naltrexone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>38 news articles</strong>, with 0 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>40 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (38)
+## Related News (40)
 
 ### [Remboursement de l'obésité : l'enveloppe de 100 millions annoncée par la ministre finance au mieux 1 patient éligible sur 15](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk1TYmJZaDZSb2VsQ1BwVF9sZ2NVMTBnOEEyN0h6NFVxazlPdzdRWWR5TTdJdWZYRUQ5bDZsUlJwRGhNZVQzeURhSy1wZlhrOFBWdGNtVzBmakEwQkczNmFKcmJuYVlOT2tXenRncl9iYnZQbGI3bmRoVW5jdXc1dUJOMklpYnFJQXp0aGx2TFg1QUZpTkUwX243NVB5WUtJcDQ5SHlTR045dkhQQ0NZQ01QT2djQzUt?oc=5)
 
 2026-11-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
 Source: [JeChange](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk1TYmJZaDZSb2VsQ1BwVF9sZ2NVMTBnOEEyN0h6NFVxazlPdzdRWWR5TTdJdWZYRUQ5bDZsUlJwRGhNZVQzeURhSy1wZlhrOFBWdGNtVzBmakEwQkczNmFKcmJuYVlOT2tXenRncl9iYnZQbGI3bmRoVW5jdXc1dUJOMklpYnFJQXp0aGx2TFg1QUZpTkUwX243NVB5WUtJcDQ5SHlTR045dkhQQ0NZQ01QT2djQzUt?oc=5)
+
+---
+
+### [Un experto en salud pública de Andalucía advierte sobre Wegovy, la nueva pastilla para adelgazar: "No es milagrosa" - La Voz del Sur](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX2Fha3l6cF9BREtKT0FsaFh3UmQyWHlwaEhBUWJwYTRHQU52dHhXUzBkRmJJSW0wRGRKNHNETDRGQ2hWS2Z6dF9GWldiOHRSemIzWkg1NDg0N1p1Y01GUS1VVVdKRVUzX2h5TFVaUVpKNkVLM2VEY3ZCMWJhWkVPWlNwdE1ETDZnQzd6MHVHS2R0ZEJUaVdiZ2JDUjQteFRlb1pRYklKYnlUaW1xUkZnUnBqYWw2cmZMeHoxQUJBZVdabkk1bnZkcjBFN3JsWkc1bDlWR1ZzSENsMTVQbE9CS2ZoU2Jsc2dBcHZfTTJqZXQ0dw?oc=5)
+
+2026-11-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [La Voz del Sur](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX2Fha3l6cF9BREtKT0FsaFh3UmQyWHlwaEhBUWJwYTRHQU52dHhXUzBkRmJJSW0wRGRKNHNETDRGQ2hWS2Z6dF9GWldiOHRSemIzWkg1NDg0N1p1Y01GUS1VVVdKRVUzX2h5TFVaUVpKNkVLM2VEY3ZCMWJhWkVPWlNwdE1ETDZnQzd6MHVHS2R0ZEJUaVdiZ2JDUjQteFRlb1pRYklKYnlUaW1xUkZnUnBqYWw2cmZMeHoxQUJBZVdabkk1bnZkcjBFN3JsWkc1bDlWR1ZzSENsMTVQbE9CS2ZoU2Jsc2dBcHZfTTJqZXQ0dw?oc=5)
 
 ---
 
@@ -181,6 +189,14 @@ Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVXV
 2026-11-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [FarmaciaVirtuale.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdi1ReWxFd0ltellkYkpmYjh0dnA5WUo4QjhnblBhdU4zbFFXSW44NnhHNzZfZlRpbVNvWTdjc19nanFIaGxpOUhXSzNlYTFKVkY1b3JXRjJEOUFRMXo3VVBPT3RXa1pwa2o5QUZzX1VjR3NXR3hxQm5MYm1Lb1gwX2FwcHhCNjE3REJHUHpVNVI0bkFhSUhpNzRkSkc2S0ZQekgxc3VSeGxoNmxFLVFPeFhuZw?oc=5)
+
+---
+
+### [Obesidad y envejecimiento prematuro: el caso de la rata obesa Zucker - The Conversation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGRhVmVXVTA1SFlLdDV4WmJzdUJralhsUUVOeUxWY1UtVTVWRGNmUFVKTzZScC1nSExmQkRhYjBEdjctZHdIMmhhTmN0eW84emk4RXRxNzBuSi00bjh2akhwZFkzZDNBY2NyQWZlQ0ROREtTT3ppeGZfSHFjWnB5WWpSUEZ6YnpZeUJ1djI2T2RoZW9DWDR3UDFjM3RDNTEtN0JvZQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">obesidad</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGRhVmVXVTA1SFlLdDV4WmJzdUJralhsUUVOeUxWY1UtVTVWRGNmUFVKTzZScC1nSExmQkRhYjBEdjctZHdIMmhhTmN0eW84emk4RXRxNzBuSi00bjh2akhwZFkzZDNBY2NyQWZlQ0ROREtTT3ppeGZfSHFjWnB5WWpSUEZ6YnpZeUJ1djI2T2RoZW9DWDR3UDFjM3RDNTEtN0JvZQ?oc=5)
 
 ---
 

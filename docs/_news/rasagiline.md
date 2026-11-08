@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Rasagiline. 6 predicted indications."
 permalink: /news/rasagiline/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # Rasagiline News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>16 news articles</strong>, with 6 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>17 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,21 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (17)
 
 ### [Maladie de Parkinson : l’activité physique associée à une progression plus lente des symptômes - Charente Libre](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdXNfUGJGWV8zNzNaQ1lpYkN1S0ItSzk1eFVsTGw3RlNYRVVyWVBuaTVoSDAtSkU3Sll6N18xWU83T29MRFNVNm1uMWQtWWhOSzNaVjlScXpxT1BYTkNyWmg2YVdOQWYwWVhnamRTd0lVNkFONFpCTU5WQlF3RWx4QXk2c0FrWGViWDM5OW1xVXpqM0NXZEtvSzJOcC1ueWVTZVNBcGRmTmRDbERKUjNxUUs5eFp6UjRlMWJxcWxiMUF0WmRXSl9WQVZTZWdQR2NRbDFNLWlIdw?oc=5)
 
 2026-11-07 <span class="news-indication-tag">maladie de Parkinson</span>
 
 Source: [Charente Libre](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdXNfUGJGWV8zNzNaQ1lpYkN1S0ItSzk1eFVsTGw3RlNYRVVyWVBuaTVoSDAtSkU3Sll6N18xWU83T29MRFNVNm1uMWQtWWhOSzNaVjlScXpxT1BYTkNyWmg2YVdOQWYwWVhnamRTd0lVNkFONFpCTU5WQlF3RWx4QXk2c0FrWGViWDM5OW1xVXpqM0NXZEtvSzJOcC1ueWVTZVNBcGRmTmRDbERKUjNxUUs5eFp6UjRlMWJxcWxiMUF0WmRXSl9WQVZTZWdQR2NRbDFNLWlIdw?oc=5)
+
+---
+
+### [Early dementia sign is often ignored but people spot when walking upstairs - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkZjYmpaZG9zZnFBdVgzSHpVaGlra3EyLW1YVjVDOE55OHRpZzU4Qk9VazZteDZacTF3NmVHcXVwWVEwcmJyVGlVRTc2QkZLX0pYWjJpMjN3Q1VpcWNESVAwdVNROWV5Y09qRWQzRlp0dnAwMV81TEwwNldQYkxFRVBqREZwUdIBiwFBVV95cUxQVGRTeUczMzFGVV8yNmZiVnc4OUg2ai1SbjVydC1odHg3XzRpTVhCSTZ0U1B2Qkhvc0x6VEpwRjVCQzU1cklMNkFRemNGOHpyUVBLRVZsZTFoTk50Umxab3V0R1pEZ2U1WGNmaFZSVEVoWkwyMjJqWDQtZUpSOHdBWVlac3h2UUhyXzJ3?oc=5)
+
+2026-11-07 <span class="news-indication-tag">dementia</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkZjYmpaZG9zZnFBdVgzSHpVaGlra3EyLW1YVjVDOE55OHRpZzU4Qk9VazZteDZacTF3NmVHcXVwWVEwcmJyVGlVRTc2QkZLX0pYWjJpMjN3Q1VpcWNESVAwdVNROWV5Y09qRWQzRlp0dnAwMV81TEwwNldQYkxFRVBqREZwUdIBiwFBVV95cUxQVGRTeUczMzFGVV8yNmZiVnc4OUg2ai1SbjVydC1odHg3XzRpTVhCSTZ0U1B2Qkhvc0x6VEpwRjVCQzU1cklMNkFRemNGOHpyUVBLRVZsZTFoTk50Umxab3V0R1pEZ2U1WGNmaFZSVEVoWkwyMjJqWDQtZUpSOHdBWVlac3h2UUhyXzJ3?oc=5)
 
 ---
 

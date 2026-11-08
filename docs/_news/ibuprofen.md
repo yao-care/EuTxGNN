@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ibuprofen. 7 predicted indications."
 permalink: /news/ibuprofen/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-08
 ---
 
 # Ibuprofen News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>10 news articles</strong>, with 7 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>11 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Sicuri che sia mal di schiena? Che fare se è spondiloartrite assiale - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+2026-11-06 <span class="news-indication-tag">artrite</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+---
 
 ### [Derby mum almost died after a 20-year addiction to ibuprofen - taking 32 at once - Derbyshire Live](https://news.google.com/rss/articles/CBMijgFBVV95cUxOd0xMSVdxNnhZd2R5b3JvVWtUdzdNNE43cC1FYUsxZ3JOQkNGSTd5ZzVyOFE5R29rSzN2QUZhRmp6blI2OHg3N24tbHJONVNablVlbi1GMmU4aENHajFJclJTZ294Z0t3UGo2SVNJWmM1anRxWThxS3VEZWVDOUJFMENvQURBUWZSS3BLazZB0gGTAUFVX3lxTE54ZU5rbElZWmtpdGZKal9HaUk5amdtZFpFX2ZleEttQm9QMFNnYzF5UjRhSk9RWGRzeTdFTlhZZEQ1bUJ6eUJmUmZfZmxoQVVRMnRoNUEtRjhGVlZxOG81RzBmRzlraWcxZDUycERjYl9nLUtuRGtWOFkwV1NJY296dmYwaks0czQ3Y29TY3poQWdHTQ?oc=5)
 

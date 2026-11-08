@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Valsartan. 6 predicted indications."
 permalink: /news/valsartan/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # Valsartan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Valsartan?">
-<strong>Valsartan</strong> currently has <strong>190 news articles</strong>, with 6 predicted indications.
+<strong>Valsartan</strong> currently has <strong>192 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,21 @@ This page combines the AI-predicted indications for Valsartan with the latest he
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (190)
+## Related News (192)
 
 ### [Análisis moleculares de tumores mamarios ayuda a precisar tratamiento oncológico - Noticias Venevisión](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHZEdDNmanpvYXhZeGljRE42UE8zc29qQUtFZVo2RXpjQjdHaEdDcjBnd3F0Vy1XOHJtejl5NUJBTmtHNzlGWnpneFRZUEVocVo4ZDZPYktvX08xbVc2NmNmcnh6VFVkQXpYRUFKUC1QQnZsUEZQTW1jYXVpVG8zN0IxeUxXY0FjT29TZlNMaV9qakdhRDhaRElBMVRTeVhaZXVfWEdaSV9jUkFUczBEemhhVmxoZEg0TEhzMURRMGhldzVK?oc=5)
 
-2026-11-07 <span class="news-indication-tag">tumor</span>
+2026-11-08 <span class="news-indication-tag">tumor</span>
 
 Source: [Noticias Venevisión](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHZEdDNmanpvYXhZeGljRE42UE8zc29qQUtFZVo2RXpjQjdHaEdDcjBnd3F0Vy1XOHJtejl5NUJBTmtHNzlGWnpneFRZUEVocVo4ZDZPYktvX08xbVc2NmNmcnh6VFVkQXpYRUFKUC1QQnZsUEZQTW1jYXVpVG8zN0IxeUxXY0FjT29TZlNMaV9qakdhRDhaRElBMVRTeVhaZXVfWEdaSV9jUkFUczBEemhhVmxoZEg0TEhzMURRMGhldzVK?oc=5)
 
 ---
 
-### ["Grazie alla Regione avrò più tempo con i miei bambini": Jessica riceverà il farmaco contro il tumore al pancreas](https://news.google.com/rss/articles/CBMihgFBVV95cUxPclc2RWctRHBTZzRsejJuNXdNUFdaQTNfUTdaVm04enhZUHBTb3NuMGZpV2RKLXlTeTYxVnNBdk5qVExsYXVadHdCeEdHcW51N0VQRHVKUTJTekw3RDFETU1KMndQOXd4RzBhdlFONkg5Y3V5Q1pnMHR0cG1jWFoxbjVndWtqdw?oc=5)
+### [New drug that could permanently cure high blood pressure coming to UK by 2027 - The i Paper](https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZGZKdG82RGs1ZTdhVzU4S1BsWUtjdmZMUmNkbllFcDJfVk5mb3IzYkVybmJQOFd1UnpBWi1rcnBfeUJPdDBZaWx3a1hTN1RzZV9HRDdkNXBuaW1LU21GazBscnJKd2J0ekxua0NSU0VWZFd2a0E?oc=5)
 
-2026-11-07 <span class="news-indication-tag">tumor</span>
+2026-11-07 <span class="news-indication-tag">high blood pressure</span>
 
-Source: [MilanoToday](https://news.google.com/rss/articles/CBMihgFBVV95cUxPclc2RWctRHBTZzRsejJuNXdNUFdaQTNfUTdaVm04enhZUHBTb3NuMGZpV2RKLXlTeTYxVnNBdk5qVExsYXVadHdCeEdHcW51N0VQRHVKUTJTekw3RDFETU1KMndQOXd4RzBhdlFONkg5Y3V5Q1pnMHR0cG1jWFoxbjVndWtqdw?oc=5)
+Source: [The i Paper](https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZGZKdG82RGs1ZTdhVzU4S1BsWUtjdmZMUmNkbllFcDJfVk5mb3IzYkVybmJQOFd1UnpBWi1rcnBfeUJPdDBZaWx3a1hTN1RzZV9HRDdkNXBuaW1LU21GazBscnJKd2J0ekxua0NSU0VWZFd2a0E?oc=5)
 
 ---
 
@@ -93,6 +93,14 @@ Source: [Schwäbische.de](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR
 2026-11-07 <span class="news-indication-tag">tumor</span>
 
 Source: [ANSA](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLUtFQm9tcUhrWmZ2MDRWQkY5ZGVkUk9oZUZsd0lKZ19MNjh2Q1ZRQm5nUEVndXdLUXpDNUlXbGNwcG9qZ1hOcU0zRW5UYnd4WHlaa0YyTHI4WmpxN3VJamhpOWJJbk82bXIyckJneENyZm1yM0xQNGY3b2F0c3ZRVDFZYmRMTmZHa1FPQUU2UjF6Z1A3M1RoMU9YY1FvdmZ5Q1JhQzRDcTQxbmJ2V1J2eW5qZlJkbkFkLVg3ejNWaVg5U3doVHBxRUdzTnZ3TjFrcEFYOVRSR2FodF91SktGZEx6WnFhZkpFdGRKQdIB8gFBVV95cUxPbEZZbTZwWGJyX244c0FwMTFzYy1sTFBMYUN5UjQ4R1lXWVY4dmZiU1ZOdkNaRWs4QVZYOWRQdWxReEJNMnZ4WVp4ZkJsVmplZ3JEenB6RGxpVHk2bzBGeDhjR1BjSHk2Q0hBYWJBRkVsdmlCMnF5bDBWdzBKUkhROS1nWmJrM01FdElkMXREU016M1JPUXI5NXNLTXVIOGlpemJFa1NiMDRkTVZ4T3h2MW8xbVYzeGVQbjRfQzdoQWYxZTRrWmxDcWJNdHRfZXlqblplRXV1YVlLeF8zd2JUUTljTXBLd1NlQS1JS1NEcFhyZw?oc=5)
+
+---
+
+### ["Grazie alla Regione avrò più tempo con i miei bambini": Jessica riceverà il farmaco contro il tumore al pancreas](https://news.google.com/rss/articles/CBMihgFBVV95cUxPclc2RWctRHBTZzRsejJuNXdNUFdaQTNfUTdaVm04enhZUHBTb3NuMGZpV2RKLXlTeTYxVnNBdk5qVExsYXVadHdCeEdHcW51N0VQRHVKUTJTekw3RDFETU1KMndQOXd4RzBhdlFONkg5Y3V5Q1pnMHR0cG1jWFoxbjVndWtqdw?oc=5)
+
+2026-11-07 <span class="news-indication-tag">tumor</span>
+
+Source: [MilanoToday](https://news.google.com/rss/articles/CBMihgFBVV95cUxPclc2RWctRHBTZzRsejJuNXdNUFdaQTNfUTdaVm04enhZUHBTb3NuMGZpV2RKLXlTeTYxVnNBdk5qVExsYXVadHdCeEdHcW51N0VQRHVKUTJTekw3RDFETU1KMndQOXd4RzBhdlFONkg5Y3V5Q1pnMHR0cG1jWFoxbjVndWtqdw?oc=5)
 
 ---
 
@@ -165,6 +173,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kaj
 2026-11-06 <span class="news-indication-tag">tumor</span>
 
 Source: [greenMe](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUnVuUnhScXRFUDdmV01ERUFFTV9yU3RSd3p2NXpXQ1J3b05nYV9nLUJTZzlWbmY4bk5UbUx5RzFhcC1YSWtYQVZtbW5fZ3dmLUZkOFJsazEzLWQ1bTZ0d3FFRkVPYVh0cGhhOEtrNE9ZRzJMU1g3MmZCM1Bob1pqZlZQU1hJTVBYaU9JcG5vTl9YU2o3aTNvNDhWSldBRjQycVJiaHR4QlVKZUFJMmRkZ3ExenRRX3NZU0JzbmtZcmZBLUlkU1BaMW4wd0Z4bDlRc0dhU09PbGlXckxQbTFEUmZmWXhtNFZ0?oc=5)
+
+---
+
+### [Bluthochdruck unter 40: Bei jedem Vierten steckt mehr als Vererbung dahinter](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDJYX1gtLXlXajJBMUViTm9Qa0pNRUdEX0NieXN5R0RqQTBuOHpxRVZZQUZ3RVloOGlNNEZZNVlGYmU3SUVBaGN4Z3kzUkJQd2Z0dVFPY1VCazI2WnBzVi1YbTdPbzFwWkxBRnFicDBYbWdHRDBtTDY1Rjh2RVpDcWFfMUF2Nzg4aUxRSFhWRFFLejBnTEU0dEFTZEZsblRqbGRMVGdRazRrS1BCeW5PYW5jTllOb2stT3hnWkEwUHhNdw?oc=5)
+
+2026-11-06 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDJYX1gtLXlXajJBMUViTm9Qa0pNRUdEX0NieXN5R0RqQTBuOHpxRVZZQUZ3RVloOGlNNEZZNVlGYmU3SUVBaGN4Z3kzUkJQd2Z0dVFPY1VCazI2WnBzVi1YbTdPbzFwWkxBRnFicDBYbWdHRDBtTDY1Rjh2RVpDcWFfMUF2Nzg4aUxRSFhWRFFLejBnTEU0dEFTZEZsblRqbGRMVGdRazRrS1BCeW5PYW5jTllOb2stT3hnWkEwUHhNdw?oc=5)
 
 ---
 
@@ -426,7 +442,7 @@ Source: [El Economista](https://news.google.com/rss/articles/CBMixAJBVV95cUxQSUR
 
 ### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
-2026-11-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-11-04 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 

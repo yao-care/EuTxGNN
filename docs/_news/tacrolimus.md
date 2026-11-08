@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tacrolimus. 2 predicted indications."
 permalink: /news/tacrolimus/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-08
 ---
 
 # Tacrolimus News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Tacrolimus?">
-<strong>Tacrolimus</strong> currently has <strong>9 news articles</strong>, with 2 predicted indications.
+<strong>Tacrolimus</strong> currently has <strong>10 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Sicuri che sia mal di schiena? Che fare se è spondiloartrite assiale - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+2026-11-06 <span class="news-indication-tag">artrite</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+---
 
 ### [Partizipative Therapieentscheidung bei rheumatoider Arthritis: weniger Nebenwirkungen - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
 

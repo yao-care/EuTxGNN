@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Idarucizumab. 0 predicted indications."
 permalink: /news/idarucizumab/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # Idarucizumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Idarucizumab?">
-<strong>Idarucizumab</strong> currently has <strong>12 news articles</strong>, with 0 predicted indications.
+<strong>Idarucizumab</strong> currently has <strong>13 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (13)
 
 ### [Juan, con EPOC, oxígeno domiciliario y un 70% de discapacidad: «Fui a vacunarme de la gripe y tuve que aparcar a 400 metros cargando con la bombona»](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmhQakpjeVplSUlBaXFCcF8zdmNnQWx6NkJPcGtpSm0xRmpJb0NKVGw1UklQT2V0Q0hOWkhjSHlfTjBGM25Ca1VPQmJuRVlEVkZRRldBTU1QR2pBYlUtVVVSZnREU2tGaEw0ZUwzNW9KeDRGdG1YdnRoQUE0bk1faGF0SEFiQjNaZ19xWGVkOC1tZDZpZVJkSXhiR0lsU0tOZ1djM0tVRQ?oc=5)
 
 2026-11-07 <span class="news-indication-tag">EPOC</span>
 
 Source: [Tododisca](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmhQakpjeVplSUlBaXFCcF8zdmNnQWx6NkJPcGtpSm0xRmpJb0NKVGw1UklQT2V0Q0hOWkhjSHlfTjBGM25Ca1VPQmJuRVlEVkZRRldBTU1QR2pBYlUtVVVSZnREU2tGaEw0ZUwzNW9KeDRGdG1YdnRoQUE0bk1faGF0SEFiQjNaZ19xWGVkOC1tZDZpZVJkSXhiR0lsU0tOZ1djM0tVRQ?oc=5)
+
+---
+
+### [Sicuri che sia mal di schiena? Che fare se è spondiloartrite assiale - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+2026-11-06 <span class="news-indication-tag">artrite</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
 
 ---
 

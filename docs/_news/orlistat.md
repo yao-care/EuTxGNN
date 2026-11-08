@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Orlistat. 1 predicted indications."
 permalink: /news/orlistat/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # Orlistat News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>95 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>97 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (95)
+## Related News (97)
 
 ### [Remboursement de l'obésité : l'enveloppe de 100 millions annoncée par la ministre finance au mieux 1 patient éligible sur 15](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk1TYmJZaDZSb2VsQ1BwVF9sZ2NVMTBnOEEyN0h6NFVxazlPdzdRWWR5TTdJdWZYRUQ5bDZsUlJwRGhNZVQzeURhSy1wZlhrOFBWdGNtVzBmakEwQkczNmFKcmJuYVlOT2tXenRncl9iYnZQbGI3bmRoVW5jdXc1dUJOMklpYnFJQXp0aGx2TFg1QUZpTkUwX243NVB5WUtJcDQ5SHlTR045dkhQQ0NZQ01QT2djQzUt?oc=5)
 
@@ -56,6 +56,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPXy1
 2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajRaZkpKVmNiNVV3UUdUZG56Wl9VSmhuNlRrWWJTM2JscDJoLUdsY1h4QkFZWTl0T0RRY3pWbkpydnpmaFpXQWk1OGFHOXZjQ3JIWnNabGR6eG9QWTVfcFY1c09DekFSVGZJc29FR2JUbW1EbEV1TWhkdmNLSldLMmRBdTk1QUhaQ1ZDRThxcEVSWklTOHVQOG1aNnpneXFlMFhTQXVjNGNRYUhEZGhGelRQTGxfWWhPTDlB?oc=5)
+
+---
+
+### [Un experto en salud pública de Andalucía advierte sobre Wegovy, la nueva pastilla para adelgazar: "No es milagrosa" - La Voz del Sur](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX2Fha3l6cF9BREtKT0FsaFh3UmQyWHlwaEhBUWJwYTRHQU52dHhXUzBkRmJJSW0wRGRKNHNETDRGQ2hWS2Z6dF9GWldiOHRSemIzWkg1NDg0N1p1Y01GUS1VVVdKRVUzX2h5TFVaUVpKNkVLM2VEY3ZCMWJhWkVPWlNwdE1ETDZnQzd6MHVHS2R0ZEJUaVdiZ2JDUjQteFRlb1pRYklKYnlUaW1xUkZnUnBqYWw2cmZMeHoxQUJBZVdabkk1bnZkcjBFN3JsWkc1bDlWR1ZzSENsMTVQbE9CS2ZoU2Jsc2dBcHZfTTJqZXQ0dw?oc=5)
+
+2026-11-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [La Voz del Sur](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX2Fha3l6cF9BREtKT0FsaFh3UmQyWHlwaEhBUWJwYTRHQU52dHhXUzBkRmJJSW0wRGRKNHNETDRGQ2hWS2Z6dF9GWldiOHRSemIzWkg1NDg0N1p1Y01GUS1VVVdKRVUzX2h5TFVaUVpKNkVLM2VEY3ZCMWJhWkVPWlNwdE1ETDZnQzd6MHVHS2R0ZEJUaVdiZ2JDUjQteFRlb1pRYklKYnlUaW1xUkZnUnBqYWw2cmZMeHoxQUJBZVdabkk1bnZkcjBFN3JsWkc1bDlWR1ZzSENsMTVQbE9CS2ZoU2Jsc2dBcHZfTTJqZXQ0dw?oc=5)
 
 ---
 
@@ -96,6 +104,14 @@ Source: [El Diario Vasco](https://news.google.com/rss/articles/CBMivAFBVV95cUxQa
 2026-11-06 <span class="news-indication-tag">ictus</span>
 
 Source: [CuídatePlus](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTWZweXhISEY5d1RSOFFRM0IxVjRiUFVhUzBqZzRSajlxSW9tU0ZtV1BtUTVfZktLLXpFcUZFS2ZKRGFOOTdUZWlzbUxSQ2lGZ1pyd1RLeC1mMXpuZW0xSnZWaF9XTmlDQklBZzd4ei1yUE4yWUNpSjdHVlk4NS03MVUxMHpFbTQ1cG1IUVVsUnJrR3NoLW41N0hyT2g3dUVXcGFVY1p2MlVSbWJPcnVQVS15OWZ6XzEwam1MYlc0c3p0N2piblZFNWpJU05NY2U3cldxZ0pWX1NMVmtDOFppeU9GM0dyWHhjWEY4YTV3MNIB9AFBVV95cUxOcGUxeWpJbXpBWHZxeXJQWEpUT2tDajJpLWpfWVl1SURENm9UalhuQVBTYnZ4TE1jNnFkcFktSUtRSi1FeExBM2JjbndrV2lKTkcxMHdnQ0xEOGlKTmhsZlBGdGprZmloenpmVjdvQ2ZZTFJnNEVHbll3S3QxbzdKVlFseHJ2bE96enpyYUN4ZEoyTE9Xd2ZaNXVISFhvNnllZWZ1TDQ3UG1nM1hFTmx5SHQtd1VXc2lMMEtpVkM5aV9BbElsOXNaMUpkWE9ONDFjaXh2QmdsMXp5aG1lenhlWWUwdVIxeXRGa28zVXhPZEJReTJu?oc=5)
+
+---
+
+### [Bluthochdruck unter 40: Bei jedem Vierten steckt mehr als Vererbung dahinter](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDJYX1gtLXlXajJBMUViTm9Qa0pNRUdEX0NieXN5R0RqQTBuOHpxRVZZQUZ3RVloOGlNNEZZNVlGYmU3SUVBaGN4Z3kzUkJQd2Z0dVFPY1VCazI2WnBzVi1YbTdPbzFwWkxBRnFicDBYbWdHRDBtTDY1Rjh2RVpDcWFfMUF2Nzg4aUxRSFhWRFFLejBnTEU0dEFTZEZsblRqbGRMVGdRazRrS1BCeW5PYW5jTllOb2stT3hnWkEwUHhNdw?oc=5)
+
+2026-11-06 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDJYX1gtLXlXajJBMUViTm9Qa0pNRUdEX0NieXN5R0RqQTBuOHpxRVZZQUZ3RVloOGlNNEZZNVlGYmU3SUVBaGN4Z3kzUkJQd2Z0dVFPY1VCazI2WnBzVi1YbTdPbzFwWkxBRnFicDBYbWdHRDBtTDY1Rjh2RVpDcWFfMUF2Nzg4aUxRSFhWRFFLejBnTEU0dEFTZEZsblRqbGRMVGdRazRrS1BCeW5PYW5jTllOb2stT3hnWkEwUHhNdw?oc=5)
 
 ---
 
@@ -275,14 +291,6 @@ Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMi6AFBVV95c
 
 ---
 
-### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
-
-2026-11-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
-
----
-
 ### [Ictus: quanto si può recuperare? Perché alcuni recuperano più di altri? La risposta potrebbe essere nel “rumore” del cervello, su Stroke lo studio dell’IRCCS San Raffaele - il Giornale](https://news.google.com/rss/articles/CBMiuAJBVV95cUxON2xOb0QzTWdrcEZ4N3VXREZiMGF6bC1iaTRWR01BMnRwenJVZzRGNHhVTzl3ZlI3NEQzbWpKNW5HNlBDTnE2WTRFeE1IRnRMOGJKMXVQTnhQZFBsaHBNbEN0dU5rc3J1azNSV3R3Q0VmWTdLOVl6ZVllUXJGcXpVWU1tdFJjdElxOW5UZFBGa1h0MUxUbU5tYXVYRXc2WVlfUzVvOGRPOGJWTkkxQ3U2X0owb0ZIUzQ0NEEwTGg1VjVkRXJOeTFwaWxMeXB6bmFlMFVqcjJud19aaWxuYjYwSXQtV2JsTExoVE9odUNmckRaYlFKd0ZaSTk1a1lPaC1RWDBSRUxCNU05SVprUFRjRzVjWVFHWl9mR2VYV0ZyZjU2cW5OZ3JmUjdhaGdZakdXd1VNMElOY00?oc=5)
 
 2026-11-04 <span class="news-indication-tag">stroke</span>
@@ -360,6 +368,14 @@ Source: [FarmaciaVirtuale.it](https://news.google.com/rss/articles/CBMiswFBVV95c
 2026-11-03 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHF6YWQ5dFpvTkwySjItNEZHRm1xREE4NGlvYjBob2lybTZETEx1SlpXTi1VazF4MDI0WEFXLWZaRHpKZDRDXzktTVB6MEtvRUowc0UwYVVnTWtQX0dwNHJ5YlZOSHh5cUFzSHltNmhDcW5IUDlkY1V4Y05aRzJtaFo3UWdMUXRIYWR4MTFiNU16d0Zqb2IyX0VNcGlRZWc?oc=5)
+
+---
+
+### [Obesidad y envejecimiento prematuro: el caso de la rata obesa Zucker - The Conversation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGRhVmVXVTA1SFlLdDV4WmJzdUJralhsUUVOeUxWY1UtVTVWRGNmUFVKTzZScC1nSExmQkRhYjBEdjctZHdIMmhhTmN0eW84emk4RXRxNzBuSi00bjh2akhwZFkzZDNBY2NyQWZlQ0ROREtTT3ppeGZfSHFjWnB5WWpSUEZ6YnpZeUJ1djI2T2RoZW9DWDR3UDFjM3RDNTEtN0JvZQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">obesidad</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGRhVmVXVTA1SFlLdDV4WmJzdUJralhsUUVOeUxWY1UtVTVWRGNmUFVKTzZScC1nSExmQkRhYjBEdjctZHdIMmhhTmN0eW84emk4RXRxNzBuSi00bjh2akhwZFkzZDNBY2NyQWZlQ0ROREtTT3ppeGZfSHFjWnB5WWpSUEZ6YnpZeUJ1djI2T2RoZW9DWDR3UDFjM3RDNTEtN0JvZQ?oc=5)
 
 ---
 

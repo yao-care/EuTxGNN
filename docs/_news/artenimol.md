@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Artenimol. 0 predicted indications."
 permalink: /news/artenimol/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-08
 ---
 
 # Artenimol News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Artenimol?">
-<strong>Artenimol</strong> currently has <strong>8 news articles</strong>, with 0 predicted indications.
+<strong>Artenimol</strong> currently has <strong>9 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Artenimol with the latest he
 <p><a href="{{ '/drugs/artenimol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [Sicuri che sia mal di schiena? Che fare se è spondiloartrite assiale - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+2026-11-06 <span class="news-indication-tag">artrite</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+---
 
 ### [Partizipative Therapieentscheidung bei rheumatoider Arthritis: weniger Nebenwirkungen - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
 

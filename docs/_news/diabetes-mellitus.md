@@ -3,9 +3,9 @@ layout: default
 title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 65 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 66 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # diabetes (diabetes mellitus) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>65 news articles</strong> and 86 related drugs.
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>66 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,11 +64,11 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (65)
+## Related News (66)
 
 ### [Diabetes: Implantat wirkt schon nach einer Stunde – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWG01QUUxeHRhUDZaY2dOX2pKQnFDVUtyVXVfTld3ZGRxNXlQYk8tNThpMk1mdDJGNThuT2ZISU91SFdkalFTd2VEcVd3aE1LdWZpOU05elVmeEJLU19LcjAzeW1feXRtOUpKNkFPRmxUNFdKa1VETWRkT2NYOUI5WHptNzBJMlV3UERCMUJWTjdtdFFWSTdRcVdwb0tLRzk0MjZuVTVZaHZoTm9DSVVQQVZ1UlhGR1lPMEdDN0tmR2R4YTdhaXlRamhhclFlQ3JqT0JYeWhubmpNTUE?oc=5)
 
-2026-11-07
+2026-11-08
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWG01QUUxeHRhUDZaY2dOX2pKQnFDVUtyVXVfTld3ZGRxNXlQYk8tNThpMk1mdDJGNThuT2ZISU91SFdkalFTd2VEcVd3aE1LdWZpOU05elVmeEJLU19LcjAzeW1feXRtOUpKNkFPRmxUNFdKa1VETWRkT2NYOUI5WHptNzBJMlV3UERCMUJWTjdtdFFWSTdRcVdwb0tLRzk0MjZuVTVZaHZoTm9DSVVQQVZ1UlhGR1lPMEdDN0tmR2R4YTdhaXlRamhhclFlQ3JqT0JYeWhubmpNTUE?oc=5)
 
@@ -79,6 +79,14 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWG01QUUxeHRh
 2026-11-07
 
 Source: [BILD](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUUo5UjRhREF6ZGpzNDlOWkdKMjJzdkI4NVpjM0k0dVZwcTZBR1ZnMEpTdjVQVHNDQ1VsaTZlVWJEcW91V2plZWtWc0JVbXlkWUItdXQzNlNPODdUTHdaX09ua1pJdVEyTFVPYWxBOFJ1cXhvMHdHaEpyWS1PTUxNa2NpNHRtYmszN25MYndjNVlrY1MtNGFNQW9IQUlDa2lhdHpSbUxKLS1lN1VQSmlYRHNac0NkNlE0R042WXA1b1FZVjhVZzZZNg?oc=5)
+
+---
+
+### [Could Type 2 Diabetes Be Reversed? 14-Year Study Reveals Remarkable Results](https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNhSVdkTHRJcVhXb3JtMEcyZEM0VzRrd0V1TXRiNndsa3VIY20xcHJyN2dYTHNWTDRxQWJKMVRaajNwX0JmazVPaFYzcnd5NTV1Tmpob241aXBHaWpjUkpFRlhYdzhsX0lFYlR3bGlhZ0ZOeTQ5b2VQSVRPQ096MnJxeEYyQ0RGa0lzUERhVHFXb1U4Q1kyZHNVb3BSUmtOVmc?oc=5)
+
+2026-11-06
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNhSVdkTHRJcVhXb3JtMEcyZEM0VzRrd0V1TXRiNndsa3VIY20xcHJyN2dYTHNWTDRxQWJKMVRaajNwX0JmazVPaFYzcnd5NTV1Tmpob241aXBHaWpjUkpFRlhYdzhsX0lFYlR3bGlhZ0ZOeTQ5b2VQSVRPQ096MnJxeEYyQ0RGa0lzUERhVHFXb1U4Q1kyZHNVb3BSUmtOVmc?oc=5)
 
 ---
 

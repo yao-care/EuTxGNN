@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Varenicline. 10 predicted indications."
 permalink: /news/varenicline/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # Varenicline News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Varenicline?">
-<strong>Varenicline</strong> currently has <strong>35 news articles</strong>, with 10 predicted indications.
+<strong>Varenicline</strong> currently has <strong>37 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Varenicline with the latest 
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (35)
+## Related News (37)
+
+### [New drug that could permanently cure high blood pressure coming to UK by 2027 - The i Paper](https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZGZKdG82RGs1ZTdhVzU4S1BsWUtjdmZMUmNkbllFcDJfVk5mb3IzYkVybmJQOFd1UnpBWi1rcnBfeUJPdDBZaWx3a1hTN1RzZV9HRDdkNXBuaW1LU21GazBscnJKd2J0ekxua0NSU0VWZFd2a0E?oc=5)
+
+2026-11-07 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [The i Paper](https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZGZKdG82RGs1ZTdhVzU4S1BsWUtjdmZMUmNkbllFcDJfVk5mb3IzYkVybmJQOFd1UnpBWi1rcnBfeUJPdDBZaWx3a1hTN1RzZV9HRDdkNXBuaW1LU21GazBscnJKd2J0ekxua0NSU0VWZFd2a0E?oc=5)
+
+---
 
 ### [KI von Google erkennt Bluthochdruck nur mit Puls- und Bewegungssensor einer Smartwatch - The Decoder](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1JXeFlFYjZ2LWRvSVVoeXlQUDdlZFY5QjEwRmFZYlQyNnA3Q0FqcFRTaGdlQk1tM2NzdzlEZUVSYTBQXzBKeXJLcWlnVW0tWmFQSXFTQmpWbkFwQ0VVdXZqeVg2VlNFU3pWOXUzaG44MHZPTkZDQk50ZFhYeGlCYmNDUGE3NmczV2djZE1BT19GOTQ1cVFrREw5UXY1djFfQ19DZ2VvczdvOHVHOFE?oc=5)
 
@@ -65,6 +73,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWdVay
 2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
+
+---
+
+### [Bluthochdruck unter 40: Bei jedem Vierten steckt mehr als Vererbung dahinter](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDJYX1gtLXlXajJBMUViTm9Qa0pNRUdEX0NieXN5R0RqQTBuOHpxRVZZQUZ3RVloOGlNNEZZNVlGYmU3SUVBaGN4Z3kzUkJQd2Z0dVFPY1VCazI2WnBzVi1YbTdPbzFwWkxBRnFicDBYbWdHRDBtTDY1Rjh2RVpDcWFfMUF2Nzg4aUxRSFhWRFFLejBnTEU0dEFTZEZsblRqbGRMVGdRazRrS1BCeW5PYW5jTllOb2stT3hnWkEwUHhNdw?oc=5)
+
+2026-11-06 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDJYX1gtLXlXajJBMUViTm9Qa0pNRUdEX0NieXN5R0RqQTBuOHpxRVZZQUZ3RVloOGlNNEZZNVlGYmU3SUVBaGN4Z3kzUkJQd2Z0dVFPY1VCazI2WnBzVi1YbTdPbzFwWkxBRnFicDBYbWdHRDBtTDY1Rjh2RVpDcWFfMUF2Nzg4aUxRSFhWRFFLejBnTEU0dEFTZEZsblRqbGRMVGdRazRrS1BCeW5PYW5jTllOb2stT3hnWkEwUHhNdw?oc=5)
 
 ---
 
@@ -150,7 +166,7 @@ Source: [El Economista](https://news.google.com/rss/articles/CBMixAJBVV95cUxQSUR
 
 ### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
-2026-11-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-11-04 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 

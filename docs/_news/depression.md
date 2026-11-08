@@ -3,9 +3,9 @@ layout: default
 title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 20 articles, 7 related drugs."
+description: "Health news about depresión (depression). 21 articles, 7 related drugs."
 permalink: /news/depression/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # depresión (depression) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>20 news articles</strong> and 7 related drugs.
+<strong>depresión (depression)</strong> currently has <strong>21 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “depresión” and list
 </ul>
 </div>
 
-## Related News (20)
+## Related News (21)
+
+### [Alzheimer, Depressionen, Ängste: So wirksam ist Ginseng](https://news.google.com/rss/articles/CBMirwFBVV95cUxNR19nN3NBLXBnVkZ3dFpvNzY1cmlueFo0bXFTejFVNmxMeERZYVBWWjNiaVotX0lhSDhURHdETXB5LVFlRDNOSGRmbUxWS3NRM2hUQUVNZVBqZ1U0X1RZbFZfdExZelo0LUNqb0lvdG5ncXA4VFh6bUdJbmx6T3lMTVJHalYyQ0RWSmxUZmlKWWYyYktkdTJJaWxkbFozMkJxNGV3ckk4WUM1ekRwOVJz?oc=5)
+
+2026-11-07
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMirwFBVV95cUxNR19nN3NBLXBnVkZ3dFpvNzY1cmlueFo0bXFTejFVNmxMeERZYVBWWjNiaVotX0lhSDhURHdETXB5LVFlRDNOSGRmbUxWS3NRM2hUQUVNZVBqZ1U0X1RZbFZfdExZelo0LUNqb0lvdG5ncXA4VFh6bUdJbmx6T3lMTVJHalYyQ0RWSmxUZmlKWWYyYktkdTJJaWxkbFozMkJxNGV3ckk4WUM1ekRwOVJz?oc=5)
+
+---
 
 ### ['Good' Body Fat Is Linked to Fewer Anxiety And Depression Diagnoses](https://news.google.com/rss/articles/CBMimgFBVV95cUxPczFHN3Y2RFhwZ1hxc2ZpeGJhNVE4UmVKcUhwZVZFNzdSdGc3WTJ2bno1Nl9vSVg0bURibDIzWjRmYkZjdGNXM2l3ZzhMMEhHcVlDcWtRVzR2VXVUeTk1QXVjSm1NU182ZmdFYjlQWGFXWDJKNWU1bFBaal9nT3NmY2FTOTF5RGprX3V3NkRvTFl4N0MyR1hBQlRR?oc=5)
 

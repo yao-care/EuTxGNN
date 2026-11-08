@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "artritis (arthritis) News"
+title: "artrite (arthritis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about artritis (arthritis). 8 articles, 73 related drugs."
+description: "Health news about artrite (arthritis). 9 articles, 73 related drugs."
 permalink: /news/arthritis/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-08
 ---
 
-# artritis (arthritis) News
+# artrite (arthritis) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about artritis (arthritis)?">
-<strong>artritis (arthritis)</strong> currently has <strong>8 news articles</strong> and 73 related drugs.
+<p class="key-answer" data-question="What news is there about artrite (arthritis)?">
+<strong>artrite (arthritis)</strong> currently has <strong>9 news articles</strong> and 73 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “artritis” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “artrite” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -79,7 +79,15 @@ This page brings together the latest health news about “artritis” and lists 
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [Sicuri che sia mal di schiena? Che fare se è spondiloartrite assiale - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+2026-11-06
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+---
 
 ### [Partizipative Therapieentscheidung bei rheumatoider Arthritis: weniger Nebenwirkungen - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
 

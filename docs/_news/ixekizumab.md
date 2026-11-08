@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ixekizumab. 0 predicted indications."
 permalink: /news/ixekizumab/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # Ixekizumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Ixekizumab?">
-<strong>Ixekizumab</strong> currently has <strong>157 news articles</strong>, with 0 predicted indications.
+<strong>Ixekizumab</strong> currently has <strong>158 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ This page combines the AI-predicted indications for Ixekizumab with the latest h
 <p><a href="{{ '/drugs/ixekizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (157)
+## Related News (158)
 
 ### [Análisis moleculares de tumores mamarios ayuda a precisar tratamiento oncológico - Noticias Venevisión](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHZEdDNmanpvYXhZeGljRE42UE8zc29qQUtFZVo2RXpjQjdHaEdDcjBnd3F0Vy1XOHJtejl5NUJBTmtHNzlGWnpneFRZUEVocVo4ZDZPYktvX08xbVc2NmNmcnh6VFVkQXpYRUFKUC1QQnZsUEZQTW1jYXVpVG8zN0IxeUxXY0FjT29TZlNMaV9qakdhRDhaRElBMVRTeVhaZXVfWEdaSV9jUkFUczBEemhhVmxoZEg0TEhzMURRMGhldzVK?oc=5)
 
-2026-11-07 <span class="news-indication-tag">tumor</span>
+2026-11-08 <span class="news-indication-tag">tumor</span>
 
 Source: [Noticias Venevisión](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHZEdDNmanpvYXhZeGljRE42UE8zc29qQUtFZVo2RXpjQjdHaEdDcjBnd3F0Vy1XOHJtejl5NUJBTmtHNzlGWnpneFRZUEVocVo4ZDZPYktvX08xbVc2NmNmcnh6VFVkQXpYRUFKUC1QQnZsUEZQTW1jYXVpVG8zN0IxeUxXY0FjT29TZlNMaV9qakdhRDhaRElBMVRTeVhaZXVfWEdaSV9jUkFUczBEemhhVmxoZEg0TEhzMURRMGhldzVK?oc=5)
-
----
-
-### ["Grazie alla Regione avrò più tempo con i miei bambini": Jessica riceverà il farmaco contro il tumore al pancreas](https://news.google.com/rss/articles/CBMihgFBVV95cUxPclc2RWctRHBTZzRsejJuNXdNUFdaQTNfUTdaVm04enhZUHBTb3NuMGZpV2RKLXlTeTYxVnNBdk5qVExsYXVadHdCeEdHcW51N0VQRHVKUTJTekw3RDFETU1KMndQOXd4RzBhdlFONkg5Y3V5Q1pnMHR0cG1jWFoxbjVndWtqdw?oc=5)
-
-2026-11-07 <span class="news-indication-tag">tumor</span>
-
-Source: [MilanoToday](https://news.google.com/rss/articles/CBMihgFBVV95cUxPclc2RWctRHBTZzRsejJuNXdNUFdaQTNfUTdaVm04enhZUHBTb3NuMGZpV2RKLXlTeTYxVnNBdk5qVExsYXVadHdCeEdHcW51N0VQRHVKUTJTekw3RDFETU1KMndQOXd4RzBhdlFONkg5Y3V5Q1pnMHR0cG1jWFoxbjVndWtqdw?oc=5)
 
 ---
 
@@ -80,6 +72,14 @@ Source: [ANSA](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLUtFQm9tcUhr
 
 ---
 
+### ["Grazie alla Regione avrò più tempo con i miei bambini": Jessica riceverà il farmaco contro il tumore al pancreas](https://news.google.com/rss/articles/CBMihgFBVV95cUxPclc2RWctRHBTZzRsejJuNXdNUFdaQTNfUTdaVm04enhZUHBTb3NuMGZpV2RKLXlTeTYxVnNBdk5qVExsYXVadHdCeEdHcW51N0VQRHVKUTJTekw3RDFETU1KMndQOXd4RzBhdlFONkg5Y3V5Q1pnMHR0cG1jWFoxbjVndWtqdw?oc=5)
+
+2026-11-07 <span class="news-indication-tag">tumor</span>
+
+Source: [MilanoToday](https://news.google.com/rss/articles/CBMihgFBVV95cUxPclc2RWctRHBTZzRsejJuNXdNUFdaQTNfUTdaVm04enhZUHBTb3NuMGZpV2RKLXlTeTYxVnNBdk5qVExsYXVadHdCeEdHcW51N0VQRHVKUTJTekw3RDFETU1KMndQOXd4RzBhdlFONkg5Y3V5Q1pnMHR0cG1jWFoxbjVndWtqdw?oc=5)
+
+---
+
 ### [À Royan, la clinique Pasteur fait essayer son robot chirurgical Da Vinci X aux visiteurs dans le cadre de Movember - Sud Ouest](https://news.google.com/rss/articles/CBMihAJBVV95cUxPOTVhQUZ6TVM1RG1MUFVBaG0wVlZMeUJwS1VhTDNyalUyVzA3bWphc1M3d25FQllzV3MzLU9UWUZROVBPSWN6RHd2RktrclF6dVJFR3ozTThjQW5DcWpmRkIzNkZCX0ppaGdKMU5yZDVqbFg2MTN5a0hzUVgwQlVwck5NY2lxUmFQLU9GVG9NdU1qRkhpcjJzeUNua1VmblVxUUZ1ejRrY2FiOTZuMllUWklqMlNkNXRObjNWdW5TWUZ4ZEVxbXBYd0hnUjVveWpvR3g5MkxiZ1FQazQyT3FzVXZlM1lmTjdrZExOS2UzdjBSNE9Kc05IS09DSDhURy1USWFDUw?oc=5)
 
 2026-11-07 <span class="news-indication-tag">cancer</span>
@@ -109,6 +109,14 @@ Source: [Liverpool Echo](https://news.google.com/rss/articles/CBMikAFBVV95cUxON1
 2026-11-06 <span class="news-indication-tag">tumor</span>
 
 Source: [Adnkronos](https://news.google.com/rss/articles/CBMimgFBVV95cUxNazl2NkFYejd1NTQxdzZnSzlJZzEwLU80eDRxdEJDeTV6WEtrZHhoX19kUVlDcG9aUjhDRllJVlFIUTFRWWtJWE9mQkpGbmJ5cGhSdllHaTFHV0xVb080enVOaHozTVpHVTRQQlhfQy01Z000R1huSG5HN1NZMFNaQTRIYnlXLWdyM1d4UDFzUW5TQXA3NWc5bzR3?oc=5)
+
+---
+
+### [Sicuri che sia mal di schiena? Che fare se è spondiloartrite assiale - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+2026-11-06 <span class="news-indication-tag">artrite</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
 
 ---
 

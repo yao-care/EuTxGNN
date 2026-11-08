@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Bluthochdruck (hypertension) News"
+title: "high blood pressure (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 32 articles, 55 related drugs."
+description: "Health news about high blood pressure (hypertension). 34 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
-# Bluthochdruck (hypertension) News
+# high blood pressure (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>32 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
+<strong>high blood pressure (hypertension)</strong> currently has <strong>34 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “high blood pressure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -60,7 +60,15 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (32)
+## Related News (34)
+
+### [New drug that could permanently cure high blood pressure coming to UK by 2027 - The i Paper](https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZGZKdG82RGs1ZTdhVzU4S1BsWUtjdmZMUmNkbllFcDJfVk5mb3IzYkVybmJQOFd1UnpBWi1rcnBfeUJPdDBZaWx3a1hTN1RzZV9HRDdkNXBuaW1LU21GazBscnJKd2J0ekxua0NSU0VWZFd2a0E?oc=5)
+
+2026-11-07
+
+Source: [The i Paper](https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZGZKdG82RGs1ZTdhVzU4S1BsWUtjdmZMUmNkbllFcDJfVk5mb3IzYkVybmJQOFd1UnpBWi1rcnBfeUJPdDBZaWx3a1hTN1RzZV9HRDdkNXBuaW1LU21GazBscnJKd2J0ekxua0NSU0VWZFd2a0E?oc=5)
+
+---
 
 ### [KI von Google erkennt Bluthochdruck nur mit Puls- und Bewegungssensor einer Smartwatch - The Decoder](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1JXeFlFYjZ2LWRvSVVoeXlQUDdlZFY5QjEwRmFZYlQyNnA3Q0FqcFRTaGdlQk1tM2NzdzlEZUVSYTBQXzBKeXJLcWlnVW0tWmFQSXFTQmpWbkFwQ0VVdXZqeVg2VlNFU3pWOXUzaG44MHZPTkZDQk50ZFhYeGlCYmNDUGE3NmczV2djZE1BT19GOTQ1cVFrREw5UXY1djFfQ19DZ2VvczdvOHVHOFE?oc=5)
 
@@ -83,6 +91,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWdVay
 2026-11-06
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
+
+---
+
+### [Bluthochdruck unter 40: Bei jedem Vierten steckt mehr als Vererbung dahinter](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDJYX1gtLXlXajJBMUViTm9Qa0pNRUdEX0NieXN5R0RqQTBuOHpxRVZZQUZ3RVloOGlNNEZZNVlGYmU3SUVBaGN4Z3kzUkJQd2Z0dVFPY1VCazI2WnBzVi1YbTdPbzFwWkxBRnFicDBYbWdHRDBtTDY1Rjh2RVpDcWFfMUF2Nzg4aUxRSFhWRFFLejBnTEU0dEFTZEZsblRqbGRMVGdRazRrS1BCeW5PYW5jTllOb2stT3hnWkEwUHhNdw?oc=5)
+
+2026-11-06
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDJYX1gtLXlXajJBMUViTm9Qa0pNRUdEX0NieXN5R0RqQTBuOHpxRVZZQUZ3RVloOGlNNEZZNVlGYmU3SUVBaGN4Z3kzUkJQd2Z0dVFPY1VCazI2WnBzVi1YbTdPbzFwWkxBRnFicDBYbWdHRDBtTDY1Rjh2RVpDcWFfMUF2Nzg4aUxRSFhWRFFLejBnTEU0dEFTZEZsblRqbGRMVGdRazRrS1BCeW5PYW5jTllOb2stT3hnWkEwUHhNdw?oc=5)
 
 ---
 

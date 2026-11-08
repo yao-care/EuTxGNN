@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Vortioxetine. 2 predicted indications."
 permalink: /news/vortioxetine/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # Vortioxetine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Vortioxetine?">
-<strong>Vortioxetine</strong> currently has <strong>20 news articles</strong>, with 2 predicted indications.
+<strong>Vortioxetine</strong> currently has <strong>21 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (20)
+## Related News (21)
+
+### [Alzheimer, Depressionen, Ängste: So wirksam ist Ginseng](https://news.google.com/rss/articles/CBMirwFBVV95cUxNR19nN3NBLXBnVkZ3dFpvNzY1cmlueFo0bXFTejFVNmxMeERZYVBWWjNiaVotX0lhSDhURHdETXB5LVFlRDNOSGRmbUxWS3NRM2hUQUVNZVBqZ1U0X1RZbFZfdExZelo0LUNqb0lvdG5ncXA4VFh6bUdJbmx6T3lMTVJHalYyQ0RWSmxUZmlKWWYyYktkdTJJaWxkbFozMkJxNGV3ckk4WUM1ekRwOVJz?oc=5)
+
+2026-11-07 <span class="news-indication-tag">depression</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMirwFBVV95cUxNR19nN3NBLXBnVkZ3dFpvNzY1cmlueFo0bXFTejFVNmxMeERZYVBWWjNiaVotX0lhSDhURHdETXB5LVFlRDNOSGRmbUxWS3NRM2hUQUVNZVBqZ1U0X1RZbFZfdExZelo0LUNqb0lvdG5ncXA4VFh6bUdJbmx6T3lMTVJHalYyQ0RWSmxUZmlKWWYyYktkdTJJaWxkbFozMkJxNGV3ckk4WUM1ekRwOVJz?oc=5)
+
+---
 
 ### ['Good' Body Fat Is Linked to Fewer Anxiety And Depression Diagnoses](https://news.google.com/rss/articles/CBMimgFBVV95cUxPczFHN3Y2RFhwZ1hxc2ZpeGJhNVE4UmVKcUhwZVZFNzdSdGc3WTJ2bno1Nl9vSVg0bURibDIzWjRmYkZjdGNXM2l3ZzhMMEhHcVlDcWtRVzR2VXVUeTk1QXVjSm1NU182ZmdFYjlQWGFXWDJKNWU1bFBaal9nT3NmY2FTOTF5RGprX3V3NkRvTFl4N0MyR1hBQlRR?oc=5)
 

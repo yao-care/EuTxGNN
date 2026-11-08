@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Pregabalin. 6 predicted indications."
 permalink: /news/pregabalin/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-08
 ---
 
 # Pregabalin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Pregabalin?">
-<strong>Pregabalin</strong> currently has <strong>11 news articles</strong>, with 6 predicted indications.
+<strong>Pregabalin</strong> currently has <strong>12 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [Sicuri che sia mal di schiena? Che fare se è spondiloartrite assiale - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+2026-11-06 <span class="news-indication-tag">artrite</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+---
 
 ### [Emicrania, un freno al dolore stimolando il nervo vago: che cosa dicono gli studi e quali cure sono disponibili](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYndHQV9jNnVrSmNjc2M1eVVUWE5FTkxvZlJ5a2JVM1dvbjNFTGJGamt5Z1BPVlVMUmtEeWRucDg0WGRQZVo3dGFUbkNBdG1hdXc1d1N4elhxcC1oR1hZV0QyRUE5eEtyLWQtV0t5bkQwR3pQODVpODNOcXZDbXhKd0lhM19DRXVYaW9wM2dzanpsSkhRWldLVkdtSHN2V0VVMVdacXJaVGFMN0QxbHNkOHNyQUVodFdTOWhydmd3T01QRDl1d1h0UENjb3pfMDFWbnZ3NGNmaG5hYXZ1djNCYnRYTWU0MlpMQUdYSlVEZElWQQ?oc=5)
 

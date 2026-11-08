@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Brigatinib. 9 predicted indications."
 permalink: /news/brigatinib/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # Brigatinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Brigatinib?">
-<strong>Brigatinib</strong> currently has <strong>161 news articles</strong>, with 9 predicted indications.
+<strong>Brigatinib</strong> currently has <strong>162 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ This page combines the AI-predicted indications for Brigatinib with the latest h
 <p><a href="{{ '/drugs/brigatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (161)
+## Related News (162)
 
 ### [Análisis moleculares de tumores mamarios ayuda a precisar tratamiento oncológico - Noticias Venevisión](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHZEdDNmanpvYXhZeGljRE42UE8zc29qQUtFZVo2RXpjQjdHaEdDcjBnd3F0Vy1XOHJtejl5NUJBTmtHNzlGWnpneFRZUEVocVo4ZDZPYktvX08xbVc2NmNmcnh6VFVkQXpYRUFKUC1QQnZsUEZQTW1jYXVpVG8zN0IxeUxXY0FjT29TZlNMaV9qakdhRDhaRElBMVRTeVhaZXVfWEdaSV9jUkFUczBEemhhVmxoZEg0TEhzMURRMGhldzVK?oc=5)
 
-2026-11-07 <span class="news-indication-tag">tumor</span>
+2026-11-08 <span class="news-indication-tag">tumor</span>
 
 Source: [Noticias Venevisión](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHZEdDNmanpvYXhZeGljRE42UE8zc29qQUtFZVo2RXpjQjdHaEdDcjBnd3F0Vy1XOHJtejl5NUJBTmtHNzlGWnpneFRZUEVocVo4ZDZPYktvX08xbVc2NmNmcnh6VFVkQXpYRUFKUC1QQnZsUEZQTW1jYXVpVG8zN0IxeUxXY0FjT29TZlNMaV9qakdhRDhaRElBMVRTeVhaZXVfWEdaSV9jUkFUczBEemhhVmxoZEg0TEhzMURRMGhldzVK?oc=5)
-
----
-
-### ["Grazie alla Regione avrò più tempo con i miei bambini": Jessica riceverà il farmaco contro il tumore al pancreas](https://news.google.com/rss/articles/CBMihgFBVV95cUxPclc2RWctRHBTZzRsejJuNXdNUFdaQTNfUTdaVm04enhZUHBTb3NuMGZpV2RKLXlTeTYxVnNBdk5qVExsYXVadHdCeEdHcW51N0VQRHVKUTJTekw3RDFETU1KMndQOXd4RzBhdlFONkg5Y3V5Q1pnMHR0cG1jWFoxbjVndWtqdw?oc=5)
-
-2026-11-07 <span class="news-indication-tag">tumor</span>
-
-Source: [MilanoToday](https://news.google.com/rss/articles/CBMihgFBVV95cUxPclc2RWctRHBTZzRsejJuNXdNUFdaQTNfUTdaVm04enhZUHBTb3NuMGZpV2RKLXlTeTYxVnNBdk5qVExsYXVadHdCeEdHcW51N0VQRHVKUTJTekw3RDFETU1KMndQOXd4RzBhdlFONkg5Y3V5Q1pnMHR0cG1jWFoxbjVndWtqdw?oc=5)
 
 ---
 
@@ -75,6 +67,14 @@ Source: [La Stampa](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOFB4eHl
 
 ---
 
+### [Early dementia sign is often ignored but people spot when walking upstairs - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkZjYmpaZG9zZnFBdVgzSHpVaGlra3EyLW1YVjVDOE55OHRpZzU4Qk9VazZteDZacTF3NmVHcXVwWVEwcmJyVGlVRTc2QkZLX0pYWjJpMjN3Q1VpcWNESVAwdVNROWV5Y09qRWQzRlp0dnAwMV81TEwwNldQYkxFRVBqREZwUdIBiwFBVV95cUxQVGRTeUczMzFGVV8yNmZiVnc4OUg2ai1SbjVydC1odHg3XzRpTVhCSTZ0U1B2Qkhvc0x6VEpwRjVCQzU1cklMNkFRemNGOHpyUVBLRVZsZTFoTk50Umxab3V0R1pEZ2U1WGNmaFZSVEVoWkwyMjJqWDQtZUpSOHdBWVlac3h2UUhyXzJ3?oc=5)
+
+2026-11-07 <span class="news-indication-tag">dementia</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkZjYmpaZG9zZnFBdVgzSHpVaGlra3EyLW1YVjVDOE55OHRpZzU4Qk9VazZteDZacTF3NmVHcXVwWVEwcmJyVGlVRTc2QkZLX0pYWjJpMjN3Q1VpcWNESVAwdVNROWV5Y09qRWQzRlp0dnAwMV81TEwwNldQYkxFRVBqREZwUdIBiwFBVV95cUxQVGRTeUczMzFGVV8yNmZiVnc4OUg2ai1SbjVydC1odHg3XzRpTVhCSTZ0U1B2Qkhvc0x6VEpwRjVCQzU1cklMNkFRemNGOHpyUVBLRVZsZTFoTk50Umxab3V0R1pEZ2U1WGNmaFZSVEVoWkwyMjJqWDQtZUpSOHdBWVlac3h2UUhyXzJ3?oc=5)
+
+---
+
 ### [HPV schützt vor Krebs – doch nur 20% Jungen, 35% Mädchen geimpft: Warum bleibt die Impflücke so groß?](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRFJMN2lzY0Y4NkpQdXJodnBtY0NDcXhTSU9Yb3N2Nk03TzBJeUF1M0ZyUmdrRWN4MnhZTzFaSGtCazZDRXFPWk1DYU1oN3o0djkxVG5RYVh3ZjJjQmZZX19rdXRQcUF2NWVYOGwtbWlhd2NOZ2hINWhrRWNTTFNqOEJJd2pkMTBjcWlmYk1Ic1dCcUN5ZTZNdUVVZ3NsMFU0aG01SWVJSEtaSm8wTXJtX3c1TWZ1dnprY2pJV3VBLWMzVGdkenRBYVJ6Ykt1WFZHUDU1V1kxZFdGQkVObTBORw?oc=5)
 
 2026-11-07 <span class="news-indication-tag">Krebs</span>
@@ -88,6 +88,14 @@ Source: [Schwäbische.de](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR
 2026-11-07 <span class="news-indication-tag">tumor</span>
 
 Source: [ANSA](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLUtFQm9tcUhrWmZ2MDRWQkY5ZGVkUk9oZUZsd0lKZ19MNjh2Q1ZRQm5nUEVndXdLUXpDNUlXbGNwcG9qZ1hOcU0zRW5UYnd4WHlaa0YyTHI4WmpxN3VJamhpOWJJbk82bXIyckJneENyZm1yM0xQNGY3b2F0c3ZRVDFZYmRMTmZHa1FPQUU2UjF6Z1A3M1RoMU9YY1FvdmZ5Q1JhQzRDcTQxbmJ2V1J2eW5qZlJkbkFkLVg3ejNWaVg5U3doVHBxRUdzTnZ3TjFrcEFYOVRSR2FodF91SktGZEx6WnFhZkpFdGRKQdIB8gFBVV95cUxPbEZZbTZwWGJyX244c0FwMTFzYy1sTFBMYUN5UjQ4R1lXWVY4dmZiU1ZOdkNaRWs4QVZYOWRQdWxReEJNMnZ4WVp4ZkJsVmplZ3JEenB6RGxpVHk2bzBGeDhjR1BjSHk2Q0hBYWJBRkVsdmlCMnF5bDBWdzBKUkhROS1nWmJrM01FdElkMXREU016M1JPUXI5NXNLTXVIOGlpemJFa1NiMDRkTVZ4T3h2MW8xbVYzeGVQbjRfQzdoQWYxZTRrWmxDcWJNdHRfZXlqblplRXV1YVlLeF8zd2JUUTljTXBLd1NlQS1JS1NEcFhyZw?oc=5)
+
+---
+
+### ["Grazie alla Regione avrò più tempo con i miei bambini": Jessica riceverà il farmaco contro il tumore al pancreas](https://news.google.com/rss/articles/CBMihgFBVV95cUxPclc2RWctRHBTZzRsejJuNXdNUFdaQTNfUTdaVm04enhZUHBTb3NuMGZpV2RKLXlTeTYxVnNBdk5qVExsYXVadHdCeEdHcW51N0VQRHVKUTJTekw3RDFETU1KMndQOXd4RzBhdlFONkg5Y3V5Q1pnMHR0cG1jWFoxbjVndWtqdw?oc=5)
+
+2026-11-07 <span class="news-indication-tag">tumor</span>
+
+Source: [MilanoToday](https://news.google.com/rss/articles/CBMihgFBVV95cUxPclc2RWctRHBTZzRsejJuNXdNUFdaQTNfUTdaVm04enhZUHBTb3NuMGZpV2RKLXlTeTYxVnNBdk5qVExsYXVadHdCeEdHcW51N0VQRHVKUTJTekw3RDFETU1KMndQOXd4RzBhdlFONkg5Y3V5Q1pnMHR0cG1jWFoxbjVndWtqdw?oc=5)
 
 ---
 

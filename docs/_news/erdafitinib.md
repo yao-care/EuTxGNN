@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Erdafitinib. 6 predicted indications."
 permalink: /news/erdafitinib/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # Erdafitinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Erdafitinib?">
-<strong>Erdafitinib</strong> currently has <strong>49 news articles</strong>, with 6 predicted indications.
+<strong>Erdafitinib</strong> currently has <strong>52 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,29 @@ This page combines the AI-predicted indications for Erdafitinib with the latest 
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (49)
+## Related News (52)
+
+### [New drug that could permanently cure high blood pressure coming to UK by 2027 - The i Paper](https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZGZKdG82RGs1ZTdhVzU4S1BsWUtjdmZMUmNkbllFcDJfVk5mb3IzYkVybmJQOFd1UnpBWi1rcnBfeUJPdDBZaWx3a1hTN1RzZV9HRDdkNXBuaW1LU21GazBscnJKd2J0ekxua0NSU0VWZFd2a0E?oc=5)
+
+2026-11-07 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [The i Paper](https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZGZKdG82RGs1ZTdhVzU4S1BsWUtjdmZMUmNkbllFcDJfVk5mb3IzYkVybmJQOFd1UnpBWi1rcnBfeUJPdDBZaWx3a1hTN1RzZV9HRDdkNXBuaW1LU21GazBscnJKd2J0ekxua0NSU0VWZFd2a0E?oc=5)
+
+---
 
 ### [KI von Google erkennt Bluthochdruck nur mit Puls- und Bewegungssensor einer Smartwatch - The Decoder](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1JXeFlFYjZ2LWRvSVVoeXlQUDdlZFY5QjEwRmFZYlQyNnA3Q0FqcFRTaGdlQk1tM2NzdzlEZUVSYTBQXzBKeXJLcWlnVW0tWmFQSXFTQmpWbkFwQ0VVdXZqeVg2VlNFU3pWOXUzaG44MHZPTkZDQk50ZFhYeGlCYmNDUGE3NmczV2djZE1BT19GOTQ1cVFrREw5UXY1djFfQ19DZ2VvczdvOHVHOFE?oc=5)
 
 2026-11-07 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [The Decoder](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1JXeFlFYjZ2LWRvSVVoeXlQUDdlZFY5QjEwRmFZYlQyNnA3Q0FqcFRTaGdlQk1tM2NzdzlEZUVSYTBQXzBKeXJLcWlnVW0tWmFQSXFTQmpWbkFwQ0VVdXZqeVg2VlNFU3pWOXUzaG44MHZPTkZDQk50ZFhYeGlCYmNDUGE3NmczV2djZE1BT19GOTQ1cVFrREw5UXY1djFfQ19DZ2VvczdvOHVHOFE?oc=5)
+
+---
+
+### [Sicuri che sia mal di schiena? Che fare se è spondiloartrite assiale - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+2026-11-06 <span class="news-indication-tag">artrite</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
 
 ---
 
@@ -61,6 +77,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWdVay
 2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
+
+---
+
+### [Bluthochdruck unter 40: Bei jedem Vierten steckt mehr als Vererbung dahinter](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDJYX1gtLXlXajJBMUViTm9Qa0pNRUdEX0NieXN5R0RqQTBuOHpxRVZZQUZ3RVloOGlNNEZZNVlGYmU3SUVBaGN4Z3kzUkJQd2Z0dVFPY1VCazI2WnBzVi1YbTdPbzFwWkxBRnFicDBYbWdHRDBtTDY1Rjh2RVpDcWFfMUF2Nzg4aUxRSFhWRFFLejBnTEU0dEFTZEZsblRqbGRMVGdRazRrS1BCeW5PYW5jTllOb2stT3hnWkEwUHhNdw?oc=5)
+
+2026-11-06 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDJYX1gtLXlXajJBMUViTm9Qa0pNRUdEX0NieXN5R0RqQTBuOHpxRVZZQUZ3RVloOGlNNEZZNVlGYmU3SUVBaGN4Z3kzUkJQd2Z0dVFPY1VCazI2WnBzVi1YbTdPbzFwWkxBRnFicDBYbWdHRDBtTDY1Rjh2RVpDcWFfMUF2Nzg4aUxRSFhWRFFLejBnTEU0dEFTZEZsblRqbGRMVGdRazRrS1BCeW5PYW5jTllOb2stT3hnWkEwUHhNdw?oc=5)
 
 ---
 
@@ -138,7 +162,7 @@ Source: [El Economista](https://news.google.com/rss/articles/CBMixAJBVV95cUxQSUR
 
 ### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
-2026-11-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-11-04 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 

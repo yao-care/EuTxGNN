@@ -3,9 +3,9 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 12 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 13 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # dementia (alzheimer disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>12 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>13 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (12)
+## Related News (13)
+
+### [Early dementia sign is often ignored but people spot when walking upstairs - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkZjYmpaZG9zZnFBdVgzSHpVaGlra3EyLW1YVjVDOE55OHRpZzU4Qk9VazZteDZacTF3NmVHcXVwWVEwcmJyVGlVRTc2QkZLX0pYWjJpMjN3Q1VpcWNESVAwdVNROWV5Y09qRWQzRlp0dnAwMV81TEwwNldQYkxFRVBqREZwUdIBiwFBVV95cUxQVGRTeUczMzFGVV8yNmZiVnc4OUg2ai1SbjVydC1odHg3XzRpTVhCSTZ0U1B2Qkhvc0x6VEpwRjVCQzU1cklMNkFRemNGOHpyUVBLRVZsZTFoTk50Umxab3V0R1pEZ2U1WGNmaFZSVEVoWkwyMjJqWDQtZUpSOHdBWVlac3h2UUhyXzJ3?oc=5)
+
+2026-11-07
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkZjYmpaZG9zZnFBdVgzSHpVaGlra3EyLW1YVjVDOE55OHRpZzU4Qk9VazZteDZacTF3NmVHcXVwWVEwcmJyVGlVRTc2QkZLX0pYWjJpMjN3Q1VpcWNESVAwdVNROWV5Y09qRWQzRlp0dnAwMV81TEwwNldQYkxFRVBqREZwUdIBiwFBVV95cUxQVGRTeUczMzFGVV8yNmZiVnc4OUg2ai1SbjVydC1odHg3XzRpTVhCSTZ0U1B2Qkhvc0x6VEpwRjVCQzU1cklMNkFRemNGOHpyUVBLRVZsZTFoTk50Umxab3V0R1pEZ2U1WGNmaFZSVEVoWkwyMjJqWDQtZUpSOHdBWVlac3h2UUhyXzJ3?oc=5)
+
+---
 
 ### [7 signs you’re at risk of dementia — and they’re not about forgetting things - The Times](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSTVyVEZOX2hCM0dlS2dORy1ZQlJfYlVoY2diYWx3M1Q2QXR3MXZ4OGk1dE84Z1hzdWltQkwtbG9mWm1FZnpJZHE5clN3cVlvd0tBRFJLdGlzazlUS0ZYdXNQZ1lRNXBLTGFtSDJVV1N3ZE4xZURjcm9PSGxwTmtnSlhmNG5DSGxLakRTZ1lMWnZvQWRlOE10N01TdER6c3BnTjFHUFhiaHppYVBTTEdIblZGY1NqZ096WE81SVRpSFktbGM2YXlxN1M3ZjRScmZ0UGp5cWkteUc?oc=5)
 
