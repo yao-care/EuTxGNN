@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>27 news articles</strong>, with 2 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>28 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (27)
+## Related News (28)
+
+### [Depression bei Kindern: Was mehr über das spätere Risiko verrät als die Gene - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTBud3V5RjlLQTJEX3BuUkpxTHh5UUZMa09Kdkk4VzZXaUpoZE04cmlkQXBFbUJidUdpeXNzZDRremw4cGRqSlZKRkgycGZVZmh1MXB2Nl8tZVIwbHVSSkdkT0RQdmpXYkY4YTdkMEZ1RlRybWowSDJLb1NYdk95V1BKS2ZqUkZINkFuNHVNZ19CMGNheHFsenY1SHhfRllRVHlockRLT2NtUnN2eGRpU1VNYXJHSXIyWl9fbA?oc=5)
+
+2026-11-08 <span class="news-indication-tag">depression</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTBud3V5RjlLQTJEX3BuUkpxTHh5UUZMa09Kdkk4VzZXaUpoZE04cmlkQXBFbUJidUdpeXNzZDRremw4cGRqSlZKRkgycGZVZmh1MXB2Nl8tZVIwbHVSSkdkT0RQdmpXYkY4YTdkMEZ1RlRybWowSDJLb1NYdk95V1BKS2ZqUkZINkFuNHVNZ19CMGNheHFsenY1SHhfRllRVHlockRLT2NtUnN2eGRpU1VNYXJHSXIyWl9fbA?oc=5)
+
+---
 
 ### [La clave contra la depresión hereditaria podría estar en la actividad física - 65 y más](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVp3QnRwczhXRTNvMUpZdnhsZzhtRndFNm1hOGxmWFZnYVlPSzFYd0k4b2JGVTZpMDg5ZWduQjFYR2hlZGUwMzdKa25hWGZkcjZZS0stUWdHWmZnMmhoOUdpRVlJcldtUlZZeWFJUWd2OWhpY2xmbDhxbklrQldUV084Z3g2Mk1UYnNqTVg0dkVFVC11QWEyc2xTYUx1LWFMamdyS2tZaVltSU1fVTBYdQ?oc=5)
 

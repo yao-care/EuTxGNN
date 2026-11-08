@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Tasimelteon?">
-<strong>Tasimelteon</strong> currently has <strong>22 news articles</strong>, with 9 predicted indications.
+<strong>Tasimelteon</strong> currently has <strong>23 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (22)
+## Related News (23)
+
+### [Depression bei Kindern: Was mehr über das spätere Risiko verrät als die Gene - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTBud3V5RjlLQTJEX3BuUkpxTHh5UUZMa09Kdkk4VzZXaUpoZE04cmlkQXBFbUJidUdpeXNzZDRremw4cGRqSlZKRkgycGZVZmh1MXB2Nl8tZVIwbHVSSkdkT0RQdmpXYkY4YTdkMEZ1RlRybWowSDJLb1NYdk95V1BKS2ZqUkZINkFuNHVNZ19CMGNheHFsenY1SHhfRllRVHlockRLT2NtUnN2eGRpU1VNYXJHSXIyWl9fbA?oc=5)
+
+2026-11-08 <span class="news-indication-tag">depression</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTBud3V5RjlLQTJEX3BuUkpxTHh5UUZMa09Kdkk4VzZXaUpoZE04cmlkQXBFbUJidUdpeXNzZDRremw4cGRqSlZKRkgycGZVZmh1MXB2Nl8tZVIwbHVSSkdkT0RQdmpXYkY4YTdkMEZ1RlRybWowSDJLb1NYdk95V1BKS2ZqUkZINkFuNHVNZ19CMGNheHFsenY1SHhfRllRVHlockRLT2NtUnN2eGRpU1VNYXJHSXIyWl9fbA?oc=5)
+
+---
 
 ### [La clave contra la depresión hereditaria podría estar en la actividad física - 65 y más](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVp3QnRwczhXRTNvMUpZdnhsZzhtRndFNm1hOGxmWFZnYVlPSzFYd0k4b2JGVTZpMDg5ZWduQjFYR2hlZGUwMzdKa25hWGZkcjZZS0stUWdHWmZnMmhoOUdpRVlJcldtUlZZeWFJUWd2OWhpY2xmbDhxbklrQldUV084Z3g2Mk1UYnNqTVg0dkVFVC11QWEyc2xTYUx1LWFMamdyS2tZaVltSU1fVTBYdQ?oc=5)
 

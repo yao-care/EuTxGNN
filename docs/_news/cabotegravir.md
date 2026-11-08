@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Cabotegravir?">
-<strong>Cabotegravir</strong> currently has <strong>84 news articles</strong>, with 5 predicted indications.
+<strong>Cabotegravir</strong> currently has <strong>88 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,37 @@ This page combines the AI-predicted indications for Cabotegravir with the latest
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (84)
+## Related News (88)
+
+### [Llegan esperanzadores avances que transforman la enfermedad renal crónica - La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRIblROOFoyLVE1SHVXQk1CTEp0cDJZdk45NU1TaTlPa0Z5N21pT0swZjlTNDEzMkZWdk5hdkVXdTV3QmhScXZackNtQ2tzajNER0J3aGgyVDU1czMwdzNvejNDX002WEJBeExiU0tXRldHZ0xrTElzTHA0VXlEQmltMVFJX1RveDJjSGVyVnZhTHRIYUQzNExnaDNRTjVPZXFUUDFVaUFFb19qNFk5Y1doc0ZaSUQ3b3RZakxRWHZaczFrLUcxcVJQNWpUU1h6V1lR0gHnAUFVX3lxTE9ZbG51eG0zMm5SekhjamFpa1N4QzZQNGR2cno5OFpmRzlZZEZFQk55VFp5dUhORzU4SEViYVdVdk1wdkRtODlKNDMyMjFyVU5rTURKZkJoV010VzRrNUhHVFhNTmhPZXhzaGRfUUo1Z0pCNnMzci1Gd2hRZTBzUjlZRGpYNnVITjdKeXhwcjJkcmdsdG5uMkdDZkRqejNxX0R4TEFRRXJDb0RRYlpNYUFXWHFwUXpxN3BqSTc3NmpRZzZtdF91RnV6RWRHc1N3RmZTUnQ0TFUtMWVvbm1wM2VJYUliQnQ0bw?oc=5)
+
+2026-11-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRIblROOFoyLVE1SHVXQk1CTEp0cDJZdk45NU1TaTlPa0Z5N21pT0swZjlTNDEzMkZWdk5hdkVXdTV3QmhScXZackNtQ2tzajNER0J3aGgyVDU1czMwdzNvejNDX002WEJBeExiU0tXRldHZ0xrTElzTHA0VXlEQmltMVFJX1RveDJjSGVyVnZhTHRIYUQzNExnaDNRTjVPZXFUUDFVaUFFb19qNFk5Y1doc0ZaSUQ3b3RZakxRWHZaczFrLUcxcVJQNWpUU1h6V1lR0gHnAUFVX3lxTE9ZbG51eG0zMm5SekhjamFpa1N4QzZQNGR2cno5OFpmRzlZZEZFQk55VFp5dUhORzU4SEViYVdVdk1wdkRtODlKNDMyMjFyVU5rTURKZkJoV010VzRrNUhHVFhNTmhPZXhzaGRfUUo1Z0pCNnMzci1Gd2hRZTBzUjlZRGpYNnVITjdKeXhwcjJkcmdsdG5uMkdDZkRqejNxX0R4TEFRRXJDb0RRYlpNYUFXWHFwUXpxN3BqSTc3NmpRZzZtdF91RnV6RWRHc1N3RmZTUnQ0TFUtMWVvbm1wM2VJYUliQnQ0bw?oc=5)
+
+---
+
+### [Acostarse antes podría ayudar a perder peso: un estudio descubre una relación entre el horario del sueño y el adelgazamiento](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZlpOd0RNLXhCVUwydVZxOEZmbExfYjdUX1VWVi1IZEhUdW8yQTZiR01tc0kwcVVVRDZlVFFVZDI0RmR0ZTkyak9TR3ZaNnB3VmNtZjVMUkhxY2Vua0ROdUtJR0pvMXZsSTdqXzB2RzBvV1NhOFFWaTBlWU9YOTRpWHBJWG00VjFVWTVFSk1iWmRWWXktczZYWEp3aHlLZUR1eTA3eGkxam4zaV8wd1VqbXdlRjZEWkRFNkxiTkhKTFF2UlFtSHNYVkxob0FHX29DbnhDNHpXTkl4TERFTzVoRGxUWmF6TFViR3hxVWhyTG13YWQ0?oc=5)
+
+2026-11-08 <span class="news-indication-tag">diabetes</span>
+
+Source: [PozueloIN](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZlpOd0RNLXhCVUwydVZxOEZmbExfYjdUX1VWVi1IZEhUdW8yQTZiR01tc0kwcVVVRDZlVFFVZDI0RmR0ZTkyak9TR3ZaNnB3VmNtZjVMUkhxY2Vua0ROdUtJR0pvMXZsSTdqXzB2RzBvV1NhOFFWaTBlWU9YOTRpWHBJWG00VjFVWTVFSk1iWmRWWXktczZYWEp3aHlLZUR1eTA3eGkxam4zaV8wd1VqbXdlRjZEWkRFNkxiTkhKTFF2UlFtSHNYVkxob0FHX29DbnhDNHpXTkl4TERFTzVoRGxUWmF6TFViR3hxVWhyTG13YWQ0?oc=5)
+
+---
 
 ### ["ConCiencia" aborda los nuevos tratamientos para la diabetes y un hallazgo histórico sobre los exoplanetas - Canal Sur](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcS1PXzJBbmpYS05ENlkweFRLTjBPWnlLOXhpcHFpeFpraXEwdWd2MU1XQjhSYy10Z3FsbUdDQTVVb2dKYWZwWlEzb295SWV3cWl1WmJIZmRiMXl1YWk3OWpQTHJMV1dZamtMak8xaEh0QnhJUzJWOUdFc3RReFlnVlRSa3BLMDNJWVpUWnB1eUZWb1JCOVB2cWtoRHI5dzVTTGtWMHBR?oc=5)
 
 2026-11-08 <span class="news-indication-tag">diabetes</span>
 
 Source: [Canal Sur](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcS1PXzJBbmpYS05ENlkweFRLTjBPWnlLOXhpcHFpeFpraXEwdWd2MU1XQjhSYy10Z3FsbUdDQTVVb2dKYWZwWlEzb295SWV3cWl1WmJIZmRiMXl1YWk3OWpQTHJMV1dZamtMak8xaEh0QnhJUzJWOUdFc3RReFlnVlRSa3BLMDNJWVpUWnB1eUZWb1JCOVB2cWtoRHI5dzVTTGtWMHBR?oc=5)
+
+---
+
+### [I diabetici dovrebbero saperlo: mangiare verdure prima dei carboidrati fa bene, ma non abbassa la glicemia!](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWjJLRkpZNEJ0NzR1TVVHZWpPWVBlV21pSmFMZjgxQVE4UlhWS3M1NWdOQzBZMnR6Y1EtQTRnc2tJR2xzbDJVQkVjYk1rX2gwXzh3aTNLYTZ0U3Z3bllVUlJ0cHBOZnJia2RPQ0RrdWRnVEdhZTA4c1pTS1pEOUZNQTUtU0QwWmlacHQ5T3NDNWxsdG5xMnpaZ0lYZmVUcHYtSGVEU2dWa3NkYllYWFZCc2RyejJvS3pKRk1wcU5EcmYyREVvNkJ0SkU4WGlwN3JLRHB1QmkyYTRjZXgyMWVVUV9STlVaVmhCVHEtcFlR?oc=5)
+
+2026-11-08 <span class="news-indication-tag">diabetic</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWjJLRkpZNEJ0NzR1TVVHZWpPWVBlV21pSmFMZjgxQVE4UlhWS3M1NWdOQzBZMnR6Y1EtQTRnc2tJR2xzbDJVQkVjYk1rX2gwXzh3aTNLYTZ0U3Z3bllVUlJ0cHBOZnJia2RPQ0RrdWRnVEdhZTA4c1pTS1pEOUZNQTUtU0QwWmlacHQ5T3NDNWxsdG5xMnpaZ0lYZmVUcHYtSGVEU2dWa3NkYllYWFZCc2RyejJvS3pKRk1wcU5EcmYyREVvNkJ0SkU4WGlwN3JLRHB1QmkyYTRjZXgyMWVVUV9STlVaVmhCVHEtcFlR?oc=5)
 
 ---
 
@@ -159,6 +183,14 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWtQclQ5WXBh
 
 ---
 
+### [Can diet and exercise reverse type 2 diabetes? What a new study found](https://news.google.com/rss/articles/CBMijwFBVV95cUxOTDE3WDZTcXhuQ2ZPM1hYNFVHUm1MaEdRbU9fdGlGTE1JdWItMnozSVJjZGpHeDRhYUtkTk5vOW0xWTNlaFg0TjNxOXFDc1BsaWlBVTFIS2JWMDljN2hxUktKZjRPaU9mTXA5SkZ4MUV0U1Z6LUp2WHptQzhDRGxEdmN3dG1ZLW9xYTl6NkdJcw?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span>
+
+Source: [CNN](https://news.google.com/rss/articles/CBMijwFBVV95cUxOTDE3WDZTcXhuQ2ZPM1hYNFVHUm1MaEdRbU9fdGlGTE1JdWItMnozSVJjZGpHeDRhYUtkTk5vOW0xWTNlaFg0TjNxOXFDc1BsaWlBVTFIS2JWMDljN2hxUktKZjRPaU9mTXA5SkZ4MUV0U1Z6LUp2WHptQzhDRGxEdmN3dG1ZLW9xYTl6NkdJcw?oc=5)
+
+---
+
 ### [What a new study reveals about reversing type 2 diabetes](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlg0dllnRGNQTHppV1JiSmZWZl9pQU1EYW9lakoydElQUkctVXpDUE5UR1EwZUNYS2h3X0FaaDRDWUhtcmtldzNqMWhzUTJ1LVBZYXpnUkZLUy01NVVGV0YtX0VUMG9qc1BNX0R4NDdnaV9PQU51cHMzd0dad3pFdHdrdGhSVnZDTDJzcXU5Y1BsUU9C?oc=5)
 
 2026-11-06 <span class="news-indication-tag">diabetes</span>
@@ -271,6 +303,14 @@ Source: [food-monitor](https://news.google.com/rss/articles/CBMingFBVV95cUxOdTRD
 
 ---
 
+### [AID-Systeme bei Typ-1-Diabetes: Zyklus bleibt bei der Insulinsteuerung außen vor](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODNWdF9pLTk1MHFoRWtsd2tWSGdpRUljQ0ZIRDBvWHRyYW5GdHBISU1kbW5Id2pka2VzNGtzaDFnczZTOVc4SHdseS1xVU9McTdMVVZrR3o2eWg4MnNQOUhSRnlTc0VHOXV1SElRQkVSYUtsUzY2dUctbS1zMEc3NUVTOVpIUHVzVERHSTFSci1CTTZQc1FZZS1DMTNCVHU3b2o5ZGdwOWFVOWFxM3NnTXZ0cUZRZUd2TEFFcmVDLXFpTF9tRmZ3Xw?oc=5)
+
+2026-11-04 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODNWdF9pLTk1MHFoRWtsd2tWSGdpRUljQ0ZIRDBvWHRyYW5GdHBISU1kbW5Id2pka2VzNGtzaDFnczZTOVc4SHdseS1xVU9McTdMVVZrR3o2eWg4MnNQOUhSRnlTc0VHOXV1SElRQkVSYUtsUzY2dUctbS1zMEc3NUVTOVpIUHVzVERHSTFSci1CTTZQc1FZZS1DMTNCVHU3b2o5ZGdwOWFVOWFxM3NnTXZ0cUZRZUd2TEFFcmVDLXFpTF9tRmZ3Xw?oc=5)
+
+---
+
 ### [Diabetes in the Hills - Managing a Hyperglycaemic Casualty](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFZURUtmN09hVVlEc0tVVXFjd1FhMUUzS2VkdjN5c0h0bVMwRWlYR2YtTTZrTUFWWFNVYS1semRQa05vd2FYSURIQkVmZnEwTUpIQV9yTzhsN2hLa09KeEJ4SFJNanZzdF80bm81M0NYd045MUd2UnNEdGNTN2VxdmR0cE5kNXhkQU5CZGJIamJTX0M3RGpuYXZSVzh5aFJqbUdVX2JuUUVtYm8tcGIwWkNuOUVYVWpzVnM2TjAxZUVaa2xVV285aTh5dw?oc=5)
 
 2026-11-04 <span class="news-indication-tag">diabetes</span>
@@ -324,14 +364,6 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdy1pTj
 2026-11-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWE2UWlaTDM4Ml82NENYR2hLbmxPNmlHYmxCVGt4Ymd2aGhpNVlaMHcwbTN5c0ZOcEFFWTJEbWQwMTRKOG84SW5ZRm9ueG9LZ0hRV0pBRlVQajdPdHNkcHJaMV9NRm02Z2M4emFxV0ZNeHJTYnQyNkRnR2k3TEl1c05ZXzlwWm0zQzRKNU1XOC1CVWxFM2l0Snc4QWFHbjBpSFI5MFVUeE56WnRJeW5mblBwQmltcGZJSHZJag?oc=5)
-
----
-
-### [Blutzucker senken ohne Insulin: Kabelloses Implantat soll die Werte in nur einer Stunde normalisieren - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXo2enlRSW4xazMtNmY0QWtGMkVLVDRpbVRRUzY4amJjeWZoRDd0Q1lmblJZUE5yRVZfZFNmZ29VZUdjSHBUZm1sYnl5cmJVTU1BYzgzVHJGNXo1ZkFoOEdtVmNiWUwzSnFVMDZDYmVFSFQ5ejI0SHRkdzA5dWJTWUx4Y1JxTGN3SjZSanF0RnBzN1hFYWxWUnA5NTA?oc=5)
-
-2026-11-03 <span class="news-indication-tag">diabetes</span>
-
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXo2enlRSW4xazMtNmY0QWtGMkVLVDRpbVRRUzY4amJjeWZoRDd0Q1lmblJZUE5yRVZfZFNmZ29VZUdjSHBUZm1sYnl5cmJVTU1BYzgzVHJGNXo1ZkFoOEdtVmNiWUwzSnFVMDZDYmVFSFQ5ejI0SHRkdzA5dWJTWUx4Y1JxTGN3SjZSanF0RnBzN1hFYWxWUnA5NTA?oc=5)
 
 ---
 

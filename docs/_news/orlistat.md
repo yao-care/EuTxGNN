@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>100 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>104 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (100)
+## Related News (104)
+
+### [Llegan esperanzadores avances que transforman la enfermedad renal crónica - La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRIblROOFoyLVE1SHVXQk1CTEp0cDJZdk45NU1TaTlPa0Z5N21pT0swZjlTNDEzMkZWdk5hdkVXdTV3QmhScXZackNtQ2tzajNER0J3aGgyVDU1czMwdzNvejNDX002WEJBeExiU0tXRldHZ0xrTElzTHA0VXlEQmltMVFJX1RveDJjSGVyVnZhTHRIYUQzNExnaDNRTjVPZXFUUDFVaUFFb19qNFk5Y1doc0ZaSUQ3b3RZakxRWHZaczFrLUcxcVJQNWpUU1h6V1lR0gHnAUFVX3lxTE9ZbG51eG0zMm5SekhjamFpa1N4QzZQNGR2cno5OFpmRzlZZEZFQk55VFp5dUhORzU4SEViYVdVdk1wdkRtODlKNDMyMjFyVU5rTURKZkJoV010VzRrNUhHVFhNTmhPZXhzaGRfUUo1Z0pCNnMzci1Gd2hRZTBzUjlZRGpYNnVITjdKeXhwcjJkcmdsdG5uMkdDZkRqejNxX0R4TEFRRXJDb0RRYlpNYUFXWHFwUXpxN3BqSTc3NmpRZzZtdF91RnV6RWRHc1N3RmZTUnQ0TFUtMWVvbm1wM2VJYUliQnQ0bw?oc=5)
+
+2026-11-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRIblROOFoyLVE1SHVXQk1CTEp0cDJZdk45NU1TaTlPa0Z5N21pT0swZjlTNDEzMkZWdk5hdkVXdTV3QmhScXZackNtQ2tzajNER0J3aGgyVDU1czMwdzNvejNDX002WEJBeExiU0tXRldHZ0xrTElzTHA0VXlEQmltMVFJX1RveDJjSGVyVnZhTHRIYUQzNExnaDNRTjVPZXFUUDFVaUFFb19qNFk5Y1doc0ZaSUQ3b3RZakxRWHZaczFrLUcxcVJQNWpUU1h6V1lR0gHnAUFVX3lxTE9ZbG51eG0zMm5SekhjamFpa1N4QzZQNGR2cno5OFpmRzlZZEZFQk55VFp5dUhORzU4SEViYVdVdk1wdkRtODlKNDMyMjFyVU5rTURKZkJoV010VzRrNUhHVFhNTmhPZXhzaGRfUUo1Z0pCNnMzci1Gd2hRZTBzUjlZRGpYNnVITjdKeXhwcjJkcmdsdG5uMkdDZkRqejNxX0R4TEFRRXJDb0RRYlpNYUFXWHFwUXpxN3BqSTc3NmpRZzZtdF91RnV6RWRHc1N3RmZTUnQ0TFUtMWVvbm1wM2VJYUliQnQ0bw?oc=5)
+
+---
 
 ### [Medizinischer Fortschritt: Weniger Todesfälle durch Herzinfarkt und Schlaganfall](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWxya0J2NDZLV1pEMXlaZEE5YkRlU3pxSkY4bGFseU9UN0JaUjlLcHM1NDFsSmZCY3oxUWdFcVVmbUNjQURBZ09JelY5WTRHaG5qck00YnJwdzRGeWFvNWJ5WGFVcHRtd000YTRYQk9pUWcwTXhJVlFaM0FKMElBTDZlckxsOHhtNngzdDZfbkM1dUhoY1BXYnJDOENWamJVeTBpSEZDa0g2WmFTal9xcVBGOVVqTXBoMXdRVGd6cw?oc=5)
 
@@ -51,19 +59,27 @@ Source: [Slate.fr](https://news.google.com/rss/articles/CBMiogFBVV95cUxQR25lU2pB
 
 ---
 
+### [Obésité : "Ils s'orientent vers des marchés parallèles", ces Français prêts à contourner les prescriptions médicales pour perdre du poids](https://news.google.com/rss/articles/CBMijAJBVV95cUxQbVBub2gwcW5xV0hDbGFUNXZjcUJTajl1amlwRXNNTmMyWEo4REh2Ri1EakR1OUdQWHliUXZlQjBJSkpmckNNUXp1OUtuUWtBSDg2b1plS0JlT0djNllWS3AtVUJrcWg2Q2tKQjZWM3F5YkJmN2padUdWMW8zVXZqcHA1dm5USVl0amV2Q2VNNjBoZDhCeW9SSFlTZmZhVXZ1SnNSd0kxMU85cVNQcDV0Y0tVUHVvT0p1WW5MckdTOEoxRThhSm95UjZLdmMtUjNZSUo4TkdSQ25RZmZzdUlDRnBqVUZFVEZqTmk5a1g2VzVmVmp3V2tIUzVpRmRaUTRoem1GOVZKZ3RKVkNH?oc=5)
+
+2026-11-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMijAJBVV95cUxQbVBub2gwcW5xV0hDbGFUNXZjcUJTajl1amlwRXNNTmMyWEo4REh2Ri1EakR1OUdQWHliUXZlQjBJSkpmckNNUXp1OUtuUWtBSDg2b1plS0JlT0djNllWS3AtVUJrcWg2Q2tKQjZWM3F5YkJmN2padUdWMW8zVXZqcHA1dm5USVl0amV2Q2VNNjBoZDhCeW9SSFlTZmZhVXZ1SnNSd0kxMU85cVNQcDV0Y0tVUHVvT0p1WW5MckdTOEoxRThhSm95UjZLdmMtUjNZSUo4TkdSQ25RZmZzdUlDRnBqVUZFVEZqTmk5a1g2VzVmVmp3V2tIUzVpRmRaUTRoem1GOVZKZ3RKVkNH?oc=5)
+
+---
+
+### [¿Es este el mejor medicamento antiobesidad de la historia? - La Razón](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmU2Ulh1ME1fWnJfQmZCNExjYVRZbW82VXMxQjZiWmNNcmQ0SUtwcWRZdzhOQ1k0YlltSnBTZjNlV0tabHFyR3FQUlFBaWpTUXRONEJkWnBoR3lUeDNXemRHR0pmY1NDV2RlYW1CNmIxVktlQWhmY1UyYTlTNFZLX1BoMTgxc2p1V0drdWxNSDB2Xy1vSGRZTTFjU2I0SndSSHhuTVQyQk5fNFZ4MW5yYmlqdmPSAcgBQVVfeXFMTUhER283c0F5NkVMeHBFRm1PWm01ci1hQ2NhckI1QlhoRVlQMTNlREx4Q0VHeG5TbHQ5RkF6OU5nMDU4TzE4djJBVm9wa1RsWVN0OFNicEM4M1NrRmNpWEJad2lmTmNkb2pMc1NsUUFhbEwxaXltRHVBQnJTeVVMT19CNWZJc3RYMm5yMVJpcXgwazd1UkJ3M3ZIWEJNRVpFSHhwXzJNOEdRZEl5bEthTnVtSmxWMlo2cHZTZF8tR3BFaDh0SFJnLWM?oc=5)
+
+2026-11-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [La Razón](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmU2Ulh1ME1fWnJfQmZCNExjYVRZbW82VXMxQjZiWmNNcmQ0SUtwcWRZdzhOQ1k0YlltSnBTZjNlV0tabHFyR3FQUlFBaWpTUXRONEJkWnBoR3lUeDNXemRHR0pmY1NDV2RlYW1CNmIxVktlQWhmY1UyYTlTNFZLX1BoMTgxc2p1V0drdWxNSDB2Xy1vSGRZTTFjU2I0SndSSHhuTVQyQk5fNFZ4MW5yYmlqdmPSAcgBQVVfeXFMTUhER283c0F5NkVMeHBFRm1PWm01ci1hQ2NhckI1QlhoRVlQMTNlREx4Q0VHeG5TbHQ5RkF6OU5nMDU4TzE4djJBVm9wa1RsWVN0OFNicEM4M1NrRmNpWEJad2lmTmNkb2pMc1NsUUFhbEwxaXltRHVBQnJTeVVMT19CNWZJc3RYMm5yMVJpcXgwazd1UkJ3M3ZIWEJNRVpFSHhwXzJNOEdRZEl5bEthTnVtSmxWMlo2cHZTZF8tR3BFaDh0SFJnLWM?oc=5)
+
+---
+
 ### [Remboursement de l'obésité : l'enveloppe de 100 millions annoncée par la ministre finance au mieux 1 patient éligible sur 15](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk1TYmJZaDZSb2VsQ1BwVF9sZ2NVMTBnOEEyN0h6NFVxazlPdzdRWWR5TTdJdWZYRUQ5bDZsUlJwRGhNZVQzeURhSy1wZlhrOFBWdGNtVzBmakEwQkczNmFKcmJuYVlOT2tXenRncl9iYnZQbGI3bmRoVW5jdXc1dUJOMklpYnFJQXp0aGx2TFg1QUZpTkUwX243NVB5WUtJcDQ5SHlTR045dkhQQ0NZQ01QT2djQzUt?oc=5)
 
 2026-11-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
 Source: [JeChange](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk1TYmJZaDZSb2VsQ1BwVF9sZ2NVMTBnOEEyN0h6NFVxazlPdzdRWWR5TTdJdWZYRUQ5bDZsUlJwRGhNZVQzeURhSy1wZlhrOFBWdGNtVzBmakEwQkczNmFKcmJuYVlOT2tXenRncl9iYnZQbGI3bmRoVW5jdXc1dUJOMklpYnFJQXp0aGx2TFg1QUZpTkUwX243NVB5WUtJcDQ5SHlTR045dkhQQ0NZQ01QT2djQzUt?oc=5)
-
----
-
-### [Weekend habits that are wrecking your heart health - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPXy1vTHFDX1AwbkxHYkJlRm85a1NzOXMtYzBPZGxUMnAxLUNQTWNTQmROTHlSZVVVdFdXWUhkaS0yTzd6OHNWLS1md2RMSXZUY2JIamdWNk55MFBwdE5ySjcxbFhHQkRFNWMxenE2a0xIV2lnWlRuOXF5UUFWRWJzTUV1SkhlbmxzMVB5VVlWeUg0VDVmUTJDcTliLUs4eU13RWFJeGRybw?oc=5)
-
-2026-11-07 <span class="news-indication-tag">stroke</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPXy1vTHFDX1AwbkxHYkJlRm85a1NzOXMtYzBPZGxUMnAxLUNQTWNTQmROTHlSZVVVdFdXWUhkaS0yTzd6OHNWLS1md2RMSXZUY2JIamdWNk55MFBwdE5ySjcxbFhHQkRFNWMxenE2a0xIV2lnWlRuOXF5UUFWRWJzTUV1SkhlbmxzMVB5VVlWeUg0VDVmUTJDcTliLUs4eU13RWFJeGRybw?oc=5)
 
 ---
 
@@ -275,6 +291,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeV
 
 ---
 
+### [Los nefrólogos detectan en las consultas un 27% de obesidad oculta: el índice de masa corporal dificulta el acceso al tratamiento - EL PAÍS](https://news.google.com/rss/articles/CBMijAJBVV95cUxQRWxyMXAzRnhHZFhQNnJxVll5YjFLWWpIZzRLcUF6ZGpfaXBieEtPV0xUUDlwZ1I1d2VHUVBTWnhrN3Z6WjBFcXdZTWUzeFVnUk1pNG1xSWExZ19VUVBTRzRIeFhnd2I3QWQ2ZEEyeVh6SmlyQ1FaVnpvY2ZaZmM1dzhibkdaTGgtOEpUODc5Yll3NThJa1JTN2dZTUJ2bnUwRkpVNDRMSEFiV2lCTkhScVdWTS1leWQ5VnYyR0JIajUtUVZvbm9ibEc5MXpmT0J2emxBQUwzMWRWNWRhenFYbGI5cGRNdTBfYTRfbWZVTThFZEhpQXpsM2pjSkkyWnVvRU5iRDE2bXZGVEoz?oc=5)
+
+2026-11-05 <span class="news-indication-tag">obesidad</span>
+
+Source: [EL PAÍS](https://news.google.com/rss/articles/CBMijAJBVV95cUxQRWxyMXAzRnhHZFhQNnJxVll5YjFLWWpIZzRLcUF6ZGpfaXBieEtPV0xUUDlwZ1I1d2VHUVBTWnhrN3Z6WjBFcXdZTWUzeFVnUk1pNG1xSWExZ19VUVBTRzRIeFhnd2I3QWQ2ZEEyeVh6SmlyQ1FaVnpvY2ZaZmM1dzhibkdaTGgtOEpUODc5Yll3NThJa1JTN2dZTUJ2bnUwRkpVNDRMSEFiV2lCTkhScVdWTS1leWQ5VnYyR0JIajUtUVZvbm9ibEc5MXpmT0J2emxBQUwzMWRWNWRhenFYbGI5cGRNdTBfYTRfbWZVTThFZEhpQXpsM2pjSkkyWnVvRU5iRDE2bXZGVEoz?oc=5)
+
+---
+
 ### [Typ-2-Diabetes: Operation führt bei 58 Prozent zur Remission statt 3 Prozent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWFLdnlJV2pEd01VT0V0WHFodjdyVTE5VHF3ZmxDS2xQbkpNV3lHWnNpREFrUkNMRlU2alZISGEwTmhERFI2anpPSmFJLUV6a0FXS3RnR2VyNzBLbDIxV0RvbXdKcHdzRWhHamoxNGNIOEpld3NQbmdwQzMwTzRodG5GS2EtOFlYN09JWklHOVhKcHhweHpRdlZHeWptUWV4SWtsZlhMMGMyQUp2RFhwQnlxajRNUFJxcWt6VU9PODNyN00?oc=5)
 
 2026-11-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
@@ -392,6 +416,14 @@ Source: [FarmaciaVirtuale.it](https://news.google.com/rss/articles/CBMiswFBVV95c
 2026-11-03 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHF6YWQ5dFpvTkwySjItNEZHRm1xREE4NGlvYjBob2lybTZETEx1SlpXTi1VazF4MDI0WEFXLWZaRHpKZDRDXzktTVB6MEtvRUowc0UwYVVnTWtQX0dwNHJ5YlZOSHh5cUFzSHltNmhDcW5IUDlkY1V4Y05aRzJtaFo3UWdMUXRIYWR4MTFiNU16d0Zqb2IyX0VNcGlRZWc?oc=5)
+
+---
+
+### [Wegovy en pastillas llega a España: precio, requisitos y cómo usar el tratamiento 'tipo Ozempic' sin pinchazos contra la obesidad - Redacción médica](https://news.google.com/rss/articles/CBMisgJBVV95cUxQRl9jdjRCbThoS3h4dDY3dm1QVlU0d1hxX3VOYmdWekF6QjhvNnV0dUJmZFdUZ3lGbWp3OFprN25la3pGdTR2czBsVDdiT3plX2tZMGRJYVNVRjVOa2JpTEtlZlMtc3hGVXJOYVJmdl9lSjYyWUVGQjN1ZkdKOWZkUFB5Q3YyU3BxQnhjZEJ2NzNUNkx5WW43dWRLLUVlUnNJVWw3eWxmcGhQVWxYaVJBY2tlZnVuM2MzVlFTYjlFaFBuSVJoWGFDMTMyb25SclpnUWVTMXFFTmZES1NvcC1XLVQwZjdLWW1Nd2lhNnEtU2RPUXBUZFZjaXRMYVp2Ti1HQWRJWFpXQ2hld1B1MmpvaE5YMF91RFFHc0NZYjVtMl9wSG5iOVZsZDlUc29sdTFoZWfSAbcCQVVfeXFMTXRtbkUzVmNPc0ZjckpTOXM0RWswdmZZTXhzR1A5VW9mZUM0WEJfWTN0R2hFcU5RZy1lMEgwNElBTG5iTDJ6bVl0MFJDVmJuV3F2cnV0WWtNUEZPVUNnZHRBbl9iVFhRTWx6Mko3WVhwaVRZTkZXU0ZTQlMzVHVxZUdIdjR4UEZrLTdCdlY5Q21BVWd4MWZzV040WllHbEFFbUlzQ3JZd2NoQ0JNM0tsU2p2RHZqX3d5VWN6eWVkQ3lFUldwWUFZNjBGM2tWT1M3ODBCc1o0MGJlRkttYzNRMy1TZVhaODRwOV9sODByU3QwMlIxbjVBY1FvODVyeDhtcGpYQUk3ekp5VDhhZTdNWmVISjdhWFYyc05vVmdobnFzSS1lQ0JqSElBUlBmLUp5YzRuekdqSms?oc=5)
+
+2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Redacción médica](https://news.google.com/rss/articles/CBMisgJBVV95cUxQRl9jdjRCbThoS3h4dDY3dm1QVlU0d1hxX3VOYmdWekF6QjhvNnV0dUJmZFdUZ3lGbWp3OFprN25la3pGdTR2czBsVDdiT3plX2tZMGRJYVNVRjVOa2JpTEtlZlMtc3hGVXJOYVJmdl9lSjYyWUVGQjN1ZkdKOWZkUFB5Q3YyU3BxQnhjZEJ2NzNUNkx5WW43dWRLLUVlUnNJVWw3eWxmcGhQVWxYaVJBY2tlZnVuM2MzVlFTYjlFaFBuSVJoWGFDMTMyb25SclpnUWVTMXFFTmZES1NvcC1XLVQwZjdLWW1Nd2lhNnEtU2RPUXBUZFZjaXRMYVp2Ti1HQWRJWFpXQ2hld1B1MmpvaE5YMF91RFFHc0NZYjVtMl9wSG5iOVZsZDlUc29sdTFoZWfSAbcCQVVfeXFMTXRtbkUzVmNPc0ZjckpTOXM0RWswdmZZTXhzR1A5VW9mZUM0WEJfWTN0R2hFcU5RZy1lMEgwNElBTG5iTDJ6bVl0MFJDVmJuV3F2cnV0WWtNUEZPVUNnZHRBbl9iVFhRTWx6Mko3WVhwaVRZTkZXU0ZTQlMzVHVxZUdIdjR4UEZrLTdCdlY5Q21BVWd4MWZzV040WllHbEFFbUlzQ3JZd2NoQ0JNM0tsU2p2RHZqX3d5VWN6eWVkQ3lFUldwWUFZNjBGM2tWT1M3ODBCc1o0MGJlRkttYzNRMy1TZVhaODRwOV9sODByU3QwMlIxbjVBY1FvODVyeDhtcGpYQUk3ekp5VDhhZTdNWmVISjdhWFYyc05vVmdobnFzSS1lQ0JqSElBUlBmLUp5YzRuekdqSms?oc=5)
 
 ---
 

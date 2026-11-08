@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Amlodipine?">
-<strong>Amlodipine</strong> currently has <strong>248 news articles</strong>, with 9 predicted indications.
+<strong>Amlodipine</strong> currently has <strong>258 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,61 @@ This page combines the AI-predicted indications for Amlodipine with the latest h
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (248)
+## Related News (258)
+
+### [New drug could be cure for common cause of high blood pressure - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
+
+2026-11-08 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
+
+---
+
+### [«A 47 anni mangiavo bio e facevo pilates, la mia vita era sanissima. Poi ho scoperto di avere un tumore al seno». Il racconto di Michelle - Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk5SZ3RETm9ENEM1MnFBSHhJbEZqbFAwWjNtMTlnSWw1M0dPUDV3TDhLdTZOQWx2YTJEcHJFV0hsY3B5cVR1UldvRkQ3d0poNHFQNFkwYnItZVYycHo2WFhHZ3pPT1djajZWcmV6SU5nRWl0eDhtNzVDZm9SUkZteHR2Nzd4QU5sOVZ4Vko0b1hna25mcmRFa3FTbzVWR0lFS0dMZmhVQ3kxdERhZGlqZdIBpgFBVV95cUxOZjRNeWN1VEJLYTZXUUtib2FCd01ZWWNsYUtscHkydWtHeFBYT0N4d0lNTUJKZURLSG1valBEVHpwSVVmZzZDUEk1bm93Skh2MVVRelRteENxU09XNEFBV3FOUHN5WDk2R2NJaWlUcWVBeGhrZXNKdDR0NC1ydTBBTXlDS3lKbWpra1FxNjVZSGdmX1F4SjRPYXJWWE1kdjV2Tl9KUC1n?oc=5)
+
+2026-11-08 <span class="news-indication-tag">tumor</span>
+
+Source: [Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk5SZ3RETm9ENEM1MnFBSHhJbEZqbFAwWjNtMTlnSWw1M0dPUDV3TDhLdTZOQWx2YTJEcHJFV0hsY3B5cVR1UldvRkQ3d0poNHFQNFkwYnItZVYycHo2WFhHZ3pPT1djajZWcmV6SU5nRWl0eDhtNzVDZm9SUkZteHR2Nzd4QU5sOVZ4Vko0b1hna25mcmRFa3FTbzVWR0lFS0dMZmhVQ3kxdERhZGlqZdIBpgFBVV95cUxOZjRNeWN1VEJLYTZXUUtib2FCd01ZWWNsYUtscHkydWtHeFBYT0N4d0lNTUJKZURLSG1valBEVHpwSVVmZzZDUEk1bm93Skh2MVVRelRteENxU09XNEFBV3FOUHN5WDk2R2NJaWlUcWVBeGhrZXNKdDR0NC1ydTBBTXlDS3lKbWpra1FxNjVZSGdmX1F4SjRPYXJWWE1kdjV2Tl9KUC1n?oc=5)
+
+---
+
+### [Changer de sel pourrait éviter près de trois millions de morts par an - Journal du Geek](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3E5aEtrN0xBTFRKS3pPSzZpV3RaTXpwVWFLa0RkWHpUMFI5V21qQm1zdTE2ZHdsMXF0RkVSZVFxTnhoWWM1WUFNN01ucnlHeHpTbW5HSmtfemR4VlQ4S3Q2eDJSMklJZ0U2cC03MmxubGRDY212QXFDblJnaUpPd2p4a1VoVWpmOUo1OVNMQWNPSU9YZlY3LVBUc0wxQjlmR2xGb1lDS1ZoUHRtYmFPcg?oc=5)
+
+2026-11-08 <span class="news-indication-tag">hypertension</span>
+
+Source: [Journal du Geek](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3E5aEtrN0xBTFRKS3pPSzZpV3RaTXpwVWFLa0RkWHpUMFI5V21qQm1zdTE2ZHdsMXF0RkVSZVFxTnhoWWM1WUFNN01ucnlHeHpTbW5HSmtfemR4VlQ4S3Q2eDJSMklJZ0U2cC03MmxubGRDY212QXFDblJnaUpPd2p4a1VoVWpmOUo1OVNMQWNPSU9YZlY3LVBUc0wxQjlmR2xGb1lDS1ZoUHRtYmFPcg?oc=5)
+
+---
+
+### [Llegan esperanzadores avances que transforman la enfermedad renal crónica - La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRIblROOFoyLVE1SHVXQk1CTEp0cDJZdk45NU1TaTlPa0Z5N21pT0swZjlTNDEzMkZWdk5hdkVXdTV3QmhScXZackNtQ2tzajNER0J3aGgyVDU1czMwdzNvejNDX002WEJBeExiU0tXRldHZ0xrTElzTHA0VXlEQmltMVFJX1RveDJjSGVyVnZhTHRIYUQzNExnaDNRTjVPZXFUUDFVaUFFb19qNFk5Y1doc0ZaSUQ3b3RZakxRWHZaczFrLUcxcVJQNWpUU1h6V1lR0gHnAUFVX3lxTE9ZbG51eG0zMm5SekhjamFpa1N4QzZQNGR2cno5OFpmRzlZZEZFQk55VFp5dUhORzU4SEViYVdVdk1wdkRtODlKNDMyMjFyVU5rTURKZkJoV010VzRrNUhHVFhNTmhPZXhzaGRfUUo1Z0pCNnMzci1Gd2hRZTBzUjlZRGpYNnVITjdKeXhwcjJkcmdsdG5uMkdDZkRqejNxX0R4TEFRRXJDb0RRYlpNYUFXWHFwUXpxN3BqSTc3NmpRZzZtdF91RnV6RWRHc1N3RmZTUnQ0TFUtMWVvbm1wM2VJYUliQnQ0bw?oc=5)
+
+2026-11-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRIblROOFoyLVE1SHVXQk1CTEp0cDJZdk45NU1TaTlPa0Z5N21pT0swZjlTNDEzMkZWdk5hdkVXdTV3QmhScXZackNtQ2tzajNER0J3aGgyVDU1czMwdzNvejNDX002WEJBeExiU0tXRldHZ0xrTElzTHA0VXlEQmltMVFJX1RveDJjSGVyVnZhTHRIYUQzNExnaDNRTjVPZXFUUDFVaUFFb19qNFk5Y1doc0ZaSUQ3b3RZakxRWHZaczFrLUcxcVJQNWpUU1h6V1lR0gHnAUFVX3lxTE9ZbG51eG0zMm5SekhjamFpa1N4QzZQNGR2cno5OFpmRzlZZEZFQk55VFp5dUhORzU4SEViYVdVdk1wdkRtODlKNDMyMjFyVU5rTURKZkJoV010VzRrNUhHVFhNTmhPZXhzaGRfUUo1Z0pCNnMzci1Gd2hRZTBzUjlZRGpYNnVITjdKeXhwcjJkcmdsdG5uMkdDZkRqejNxX0R4TEFRRXJDb0RRYlpNYUFXWHFwUXpxN3BqSTc3NmpRZzZtdF91RnV6RWRHc1N3RmZTUnQ0TFUtMWVvbm1wM2VJYUliQnQ0bw?oc=5)
+
+---
+
+### [Cancer du cerveau : une percée dans le décodage du glioblastome - Le Figaro Santé](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWhoNXgzakJZa29lMXNuajRxd1VVc2RrbVA4T3FhNExGZFJsQ1plZFQzdEtkNjh5NEoxWFZvbEstNGpmWlduNkd5MGVzNFZzdVlVSVAybjhUWEU4MTQ1cEowalF0V1g0b29KQzk3QmxiUnBWcXVhMnhxdndSbmZNZkhzUjV1ajQycXNmd0VJSm44RzhtbzdTei1OYzBMU0VEVklFMUVIMko?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cancer</span>
+
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWhoNXgzakJZa29lMXNuajRxd1VVc2RrbVA4T3FhNExGZFJsQ1plZFQzdEtkNjh5NEoxWFZvbEstNGpmWlduNkd5MGVzNFZzdVlVSVAybjhUWEU4MTQ1cEowalF0V1g0b29KQzk3QmxiUnBWcXVhMnhxdndSbmZNZkhzUjV1ajQycXNmd0VJSm44RzhtbzdTei1OYzBMU0VEVklFMUVIMko?oc=5)
+
+---
 
 ### [Medizinischer Fortschritt: Weniger Todesfälle durch Herzinfarkt und Schlaganfall](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWxya0J2NDZLV1pEMXlaZEE5YkRlU3pxSkY4bGFseU9UN0JaUjlLcHM1NDFsSmZCY3oxUWdFcVVmbUNjQURBZ09JelY5WTRHaG5qck00YnJwdzRGeWFvNWJ5WGFVcHRtd000YTRYQk9pUWcwTXhJVlFaM0FKMElBTDZlckxsOHhtNngzdDZfbkM1dUhoY1BXYnJDOENWamJVeTBpSEZDa0g2WmFTal9xcVBGOVVqTXBoMXdRVGd6cw?oc=5)
 
 2026-11-08 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [OSTHESSEN|NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWxya0J2NDZLV1pEMXlaZEE5YkRlU3pxSkY4bGFseU9UN0JaUjlLcHM1NDFsSmZCY3oxUWdFcVVmbUNjQURBZ09JelY5WTRHaG5qck00YnJwdzRGeWFvNWJ5WGFVcHRtd000YTRYQk9pUWcwTXhJVlFaM0FKMElBTDZlckxsOHhtNngzdDZfbkM1dUhoY1BXYnJDOENWamJVeTBpSEZDa0g2WmFTal9xcVBGOVVqTXBoMXdRVGd6cw?oc=5)
+
+---
+
+### [Mese della prevenzione oncologica maschile, le regole da seguire](https://news.google.com/rss/articles/CBMipAFBVV95cUxNMHVRaXB3NVM1Q1FTZThERFJZQVp5Nnh4UmdrUVZ5WXhybG5ZSDl3cGg0UEJyUkVYbWJrRDlkMzBmbUtrOEN1eHgtSEc3eG5xdHhEWGpxN1JBZnl6SmlFVUhEOFFoZ1hFcUliUkVGc2wzcUhTUEpBUGJUdEdwXzR4RGxyTkVWNnZMQWZNRzZNVnZmQzlKc2VVU1NPQlJrNnhFalU5UA?oc=5)
+
+2026-11-08 <span class="news-indication-tag">tumor</span>
+
+Source: [Cremonaoggi](https://news.google.com/rss/articles/CBMipAFBVV95cUxNMHVRaXB3NVM1Q1FTZThERFJZQVp5Nnh4UmdrUVZ5WXhybG5ZSDl3cGg0UEJyUkVYbWJrRDlkMzBmbUtrOEN1eHgtSEc3eG5xdHhEWGpxN1JBZnl6SmlFVUhEOFFoZ1hFcUliUkVGc2wzcUhTUEpBUGJUdEdwXzR4RGxyTkVWNnZMQWZNRzZNVnZmQzlKc2VVU1NPQlJrNnhFalU5UA?oc=5)
 
 ---
 
@@ -67,6 +115,14 @@ Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiuAFBVV95
 
 ---
 
+### [Raffreddore, tosse e virus intestinale: è boom fra i bambini sotto i 5 anni](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUGFiVWRYZTltWHBmaWlxVnpMUG9MdDllVlhDWFhzMUhQYVNTMEIzSzYyVXYyMnhqajRRZzUzQjFnekRySlE0amo0SXBaVVowdnFUZVc1Umx2MmVVLVgzcjJYNXhIWmFPSVVvYmxqSlp1VVpHb3RWU1Z1Tl9tejg0d2JFUnUxbVNrV09uWWthaXBmcWtkck9WNGR2TmlxczNJdmZEM0kxdkpORDFlN0hkZFpUejVYTUk3U0RLMHBaWVBTbWF4MlZpV2E2V2Rza3FwdmdSbU5jMHRFNmQyRS0xQjFEcS1OUmxwMEZr0gHwAUFVX3lxTE9fdWpONTJzRzFwM24tdEo2TlJyQjVHVlRsR1VtSHdYTUktbEdhcXp3X291czE5LURsRkdRdlV0bDhCazlHNG41NWlGN0o2QWphNnl3eTdCUlVvTV9fbGtfQ0thdVhrVjFiRUw1U2RMTzhoR1RXcWIwSU9wSGl4UFFPdlRhRzZ2X3MtZmVDV1B0V1pRTFlDcTUzUjZCRFRlSGRTTVNFRVI0Ql9mdkY0dGVKcGJpU090UktWc3U2aW52dE93NmRkbXZ2UDlEY3V5RVRKZUowMEdNaDlfSEVnUkRnbzdfT3QtRFo0UkJVeUQ0Qw?oc=5)
+
+2026-11-08 <span class="news-drug-tag">Amlodipine</span>
+
+Source: [RaiNews](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUGFiVWRYZTltWHBmaWlxVnpMUG9MdDllVlhDWFhzMUhQYVNTMEIzSzYyVXYyMnhqajRRZzUzQjFnekRySlE0amo0SXBaVVowdnFUZVc1Umx2MmVVLVgzcjJYNXhIWmFPSVVvYmxqSlp1VVpHb3RWU1Z1Tl9tejg0d2JFUnUxbVNrV09uWWthaXBmcWtkck9WNGR2TmlxczNJdmZEM0kxdkpORDFlN0hkZFpUejVYTUk3U0RLMHBaWVBTbWF4MlZpV2E2V2Rza3FwdmdSbU5jMHRFNmQyRS0xQjFEcS1OUmxwMEZr0gHwAUFVX3lxTE9fdWpONTJzRzFwM24tdEo2TlJyQjVHVlRsR1VtSHdYTUktbEdhcXp3X291czE5LURsRkdRdlV0bDhCazlHNG41NWlGN0o2QWphNnl3eTdCUlVvTV9fbGtfQ0thdVhrVjFiRUw1U2RMTzhoR1RXcWIwSU9wSGl4UFFPdlRhRzZ2X3MtZmVDV1B0V1pRTFlDcTUzUjZCRFRlSGRTTVNFRVI0Ql9mdkY0dGVKcGJpU090UktWc3U2aW52dE93NmRkbXZ2UDlEY3V5RVRKZUowMEdNaDlfSEVnUkRnbzdfT3QtRFo0UkJVeUQ0Qw?oc=5)
+
+---
+
 ### [Análisis moleculares de tumores mamarios ayuda a precisar tratamiento oncológico - Noticias Venevisión](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHZEdDNmanpvYXhZeGljRE42UE8zc29qQUtFZVo2RXpjQjdHaEdDcjBnd3F0Vy1XOHJtejl5NUJBTmtHNzlGWnpneFRZUEVocVo4ZDZPYktvX08xbVc2NmNmcnh6VFVkQXpYRUFKUC1QQnZsUEZQTW1jYXVpVG8zN0IxeUxXY0FjT29TZlNMaV9qakdhRDhaRElBMVRTeVhaZXVfWEdaSV9jUkFUczBEemhhVmxoZEg0TEhzMURRMGhldzVK?oc=5)
 
 2026-11-08 <span class="news-indication-tag">tumor</span>
@@ -80,6 +136,22 @@ Source: [Noticias Venevisión](https://news.google.com/rss/articles/CBMixAFBVV95
 2026-11-08 <span class="news-indication-tag">cancer</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52dU9VbUFFQ2V1MGx1cFE0dlJJcERsc3I5NE9wQTluaUR0a3VCWUlkVkdoc1VYempjVjNRNEtMMGFHdGJLRmE2NjhnaWc5YjkwelNlRTJyc1lUdERfMVE?oc=5)
+
+---
+
+### [A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1JjOWhQZ1hGLUJuUW16RkM1WC1ST0hhdlpyd192QWFtWWdmNkE2YUlWOHo0N1FQb1lGSjRwZ1drYjAwaDQ4YVNrMS1EVjZVNzJJd0c0Z1ZXUm5uSWpMdl81Z3cxZzFpTlpiTC04Um9ZdXJNZnFsTDdaLWRmSFhQRy1UcDltMmFhM0d5UU10blZIM2RyX3VYWkhVcmZPZ3REYWRGZTQ2NUVVN1RBWG5UODRROVc?oc=5)
+
+2026-11-07 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1JjOWhQZ1hGLUJuUW16RkM1WC1ST0hhdlpyd192QWFtWWdmNkE2YUlWOHo0N1FQb1lGSjRwZ1drYjAwaDQ4YVNrMS1EVjZVNzJJd0c0Z1ZXUm5uSWpMdl81Z3cxZzFpTlpiTC04Um9ZdXJNZnFsTDdaLWRmSFhQRy1UcDltMmFhM0d5UU10blZIM2RyX3VYWkhVcmZPZ3REYWRGZTQ2NUVVN1RBWG5UODRROVc?oc=5)
+
+---
+
+### [Cancer-beating grandmother helps fight disease which affected three generations of her family - Hull Live](https://news.google.com/rss/articles/CBMirgFBVV95cUxQazBQRkZIdzhFYlpDNVZmdU9qdGVGS0RpMzVyM3JHdUtNVmt5NWpSZlp3blJ4ZEx5NUdHNmh0U2p3SUJlZEkxWENwU1I0b1RLa3h6U2FKcXhoemxuUTJYbU55d0NnSEpwMnA2S1M3RGRwVFpVUHNGRkU4TUwzMVBuZWh6RVphcjQ2SkNyUW5OQUZCbGxNVVhJMVdRdUdTcllOMXFNZlM3VDJUV2J1aWfSAbMBQVVfeXFMTk5pS294ZDlET2l4eFQzS1pSYld4MVdQQVlyMmU3M293THBhcnJnZFhyQXFuSTJUN0tSRVo5RlVWSlp3Y1NmMVdnVVdaRVhVVXVZNGlGSF9NVjJMeTVJQ3h0VTB2X2Y5ZTRPNGFQbXZkMVJwOXJRNVVhYkRyVXVfNUdfLURfNVJVT2V4amhXcC1BOV8tbXNzblVGRTVGR1Rhd0pwdGQtUklEdVVGeGVqQTIzSU0?oc=5)
+
+2026-11-07 <span class="news-indication-tag">cancer</span>
+
+Source: [Hull Live](https://news.google.com/rss/articles/CBMirgFBVV95cUxQazBQRkZIdzhFYlpDNVZmdU9qdGVGS0RpMzVyM3JHdUtNVmt5NWpSZlp3blJ4ZEx5NUdHNmh0U2p3SUJlZEkxWENwU1I0b1RLa3h6U2FKcXhoemxuUTJYbU55d0NnSEpwMnA2S1M3RGRwVFpVUHNGRkU4TUwzMVBuZWh6RVphcjQ2SkNyUW5OQUZCbGxNVVhJMVdRdUdTcllOMXFNZlM3VDJUV2J1aWfSAbMBQVVfeXFMTk5pS294ZDlET2l4eFQzS1pSYld4MVdQQVlyMmU3M293THBhcnJnZFhyQXFuSTJUN0tSRVo5RlVWSlp3Y1NmMVdnVVdaRVhVVXVZNGlGSF9NVjJMeTVJQ3h0VTB2X2Y5ZTRPNGFQbXZkMVJwOXJRNVVhYkRyVXVfNUdfLURfNVJVT2V4amhXcC1BOV8tbXNzblVGRTVGR1Rhd0pwdGQtUklEdVVGeGVqQTIzSU0?oc=5)
 
 ---
 
@@ -152,14 +224,6 @@ Source: [ANSA](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLUtFQm9tcUhr
 2026-11-07 <span class="news-indication-tag">tumor</span>
 
 Source: [MilanoToday](https://news.google.com/rss/articles/CBMihgFBVV95cUxPclc2RWctRHBTZzRsejJuNXdNUFdaQTNfUTdaVm04enhZUHBTb3NuMGZpV2RKLXlTeTYxVnNBdk5qVExsYXVadHdCeEdHcW51N0VQRHVKUTJTekw3RDFETU1KMndQOXd4RzBhdlFONkg5Y3V5Q1pnMHR0cG1jWFoxbjVndWtqdw?oc=5)
-
----
-
-### [Weekend habits that are wrecking your heart health - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPXy1vTHFDX1AwbkxHYkJlRm85a1NzOXMtYzBPZGxUMnAxLUNQTWNTQmROTHlSZVVVdFdXWUhkaS0yTzd6OHNWLS1md2RMSXZUY2JIamdWNk55MFBwdE5ySjcxbFhHQkRFNWMxenE2a0xIV2lnWlRuOXF5UUFWRWJzTUV1SkhlbmxzMVB5VVlWeUg0VDVmUTJDcTliLUs4eU13RWFJeGRybw?oc=5)
-
-2026-11-07 <span class="news-indication-tag">stroke</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPXy1vTHFDX1AwbkxHYkJlRm85a1NzOXMtYzBPZGxUMnAxLUNQTWNTQmROTHlSZVVVdFdXWUhkaS0yTzd6OHNWLS1md2RMSXZUY2JIamdWNk55MFBwdE5ySjcxbFhHQkRFNWMxenE2a0xIV2lnWlRuOXF5UUFWRWJzTUV1SkhlbmxzMVB5VVlWeUg0VDVmUTJDcTliLUs4eU13RWFJeGRybw?oc=5)
 
 ---
 
@@ -248,6 +312,14 @@ Source: [greenMe](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUnVuUnhSc
 2026-11-06 <span class="news-indication-tag">ictus</span>
 
 Source: [CuídatePlus](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTWZweXhISEY5d1RSOFFRM0IxVjRiUFVhUzBqZzRSajlxSW9tU0ZtV1BtUTVfZktLLXpFcUZFS2ZKRGFOOTdUZWlzbUxSQ2lGZ1pyd1RLeC1mMXpuZW0xSnZWaF9XTmlDQklBZzd4ei1yUE4yWUNpSjdHVlk4NS03MVUxMHpFbTQ1cG1IUVVsUnJrR3NoLW41N0hyT2g3dUVXcGFVY1p2MlVSbWJPcnVQVS15OWZ6XzEwam1MYlc0c3p0N2piblZFNWpJU05NY2U3cldxZ0pWX1NMVmtDOFppeU9GM0dyWHhjWEY4YTV3MNIB9AFBVV95cUxOcGUxeWpJbXpBWHZxeXJQWEpUT2tDajJpLWpfWVl1SURENm9UalhuQVBTYnZ4TE1jNnFkcFktSUtRSi1FeExBM2JjbndrV2lKTkcxMHdnQ0xEOGlKTmhsZlBGdGprZmloenpmVjdvQ2ZZTFJnNEVHbll3S3QxbzdKVlFseHJ2bE96enpyYUN4ZEoyTE9Xd2ZaNXVISFhvNnllZWZ1TDQ3UG1nM1hFTmx5SHQtd1VXc2lMMEtpVkM5aV9BbElsOXNaMUpkWE9ONDFjaXh2QmdsMXp5aG1lenhlWWUwdVIxeXRGa28zVXhPZEJReTJu?oc=5)
+
+---
+
+### [Tous les hommes de plus de 50 ans devraient se faire dépister pour éviter ce cancer « tabou » dont les symptômes sont invisibles - RTL Info](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMDZSb0R5SXlIVmxJdnZjY1ZWbVFlNzJILUdGN0trOS0tME5TZW0yWFh2a0JXUG9Yc1JCOFUzcGJwVmpoUlVJTUkzSko3aHg5cllnSEMtSlp1b3VfS013UTVPZE90Z3FmaDdlY2lqRTYzRWFUc0FGcjZvVFFrQWF1QXBYclZTc3hXMTg2S0tuQzZUV1JBWGFaaGFCNV9pNFF2TGxpVkxJRVhqZE1JLW51c2d6akllZk0wZ1YxYjd0S09wcERvblRTa216Z3hFTXplVjdxeENXY18?oc=5)
+
+2026-11-06 <span class="news-indication-tag">cancer</span>
+
+Source: [RTL Info](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMDZSb0R5SXlIVmxJdnZjY1ZWbVFlNzJILUdGN0trOS0tME5TZW0yWFh2a0JXUG9Yc1JCOFUzcGJwVmpoUlVJTUkzSko3aHg5cllnSEMtSlp1b3VfS013UTVPZE90Z3FmaDdlY2lqRTYzRWFUc0FGcjZvVFFrQWF1QXBYclZTc3hXMTg2S0tuQzZUV1JBWGFaaGFCNV9pNFF2TGxpVkxJRVhqZE1JLW51c2d6akllZk0wZ1YxYjd0S09wcERvblRTa216Z3hFTXplVjdxeENXY18?oc=5)
 
 ---
 
@@ -379,7 +451,7 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnBKZ2xVM
 
 ---
 
-### [Fragen, die Patienten mit Krebs nach der Diagnose den Onkologen stellen sollten – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUjhOMVVUNUc1bE9FQWlORnVwdWFPN2VUaVZVTW9RTDF3VjUtakVuUDJBRE0tbFVLQnNtWW1rc0RFMENmOHhsMHRob3QweElQc0tOZ2dTNkNvQXBfYnBVTWFtNXhGd0NQT0s5LWJDbU9VbzBjUFJBeWpUTnhmd3haNS1wY19aWGdxb3J5UlBac0UyY2NEOGt0elFQSXAzR091em9XYk1QRXFrQkRzSDZKN1NUWG40Uk1YdlgtOU5RUmlZTlpqRjlNRDY2b0otTkl5Nkw1dEtoSlRBTm9fWWMyRQ?oc=5)
+### [Fragen, die Patienten mit Krebs nach der Diagnose den Onkologen stellen sollten – Deutsches Ärzteblatt - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUjhOMVVUNUc1bE9FQWlORnVwdWFPN2VUaVZVTW9RTDF3VjUtakVuUDJBRE0tbFVLQnNtWW1rc0RFMENmOHhsMHRob3QweElQc0tOZ2dTNkNvQXBfYnBVTWFtNXhGd0NQT0s5LWJDbU9VbzBjUFJBeWpUTnhmd3haNS1wY19aWGdxb3J5UlBac0UyY2NEOGt0elFQSXAzR091em9XYk1QRXFrQkRzSDZKN1NUWG40Uk1YdlgtOU5RUmlZTlpqRjlNRDY2b0otTkl5Nkw1dEtoSlRBTm9fWWMyRQ?oc=5)
 
 2026-11-05 <span class="news-indication-tag">Krebs</span>
 
@@ -608,6 +680,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc
 2026-11-04 <span class="news-indication-tag">tumor</span>
 
 Source: [Cordoba Hoy](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd1NlZHRxTGc2RldiaV80c1F0azNnN3N0bFk4OU1vUWRvUFBpenJMX19sMlJ1Nmw5a3lyUGgzYWZPbDZHRHN2eWx3bk41QjBkT1lLdWpjc3B4bl84c2QwQUFRb3VSaVRxalhJTGVXeG1DejZRcE9Hd0FsdHM1RkR5Q2VpQ3ZVS3YtU0hLLV9UdGhBb3l5NGFzUlRBLWUwLWRya3VxeXRxUDJWeHRPajU1VU93aDFGbXlnY0tFUHB3WUJXZ3FOSGV0X1Frd01VRU01dGhnZ2ZScVFwcDF2SndiUXpR0gHnAUFVX3lxTFBVT1AtVUNfNUt2alFjVENQaTlaOVJ4clJreWxrU0tFdEpIbFowWDdXRzdlUzJOTlhhQWxvWlBYb256ajFFQ000azhscDVkckJNQm1Mbmp3VG02TlBtak50cGd5NHo3a3VrSVNVVUI2MlNieWpTUnV4LTlaZnlaQ1lGel8xWTVmTFVhdU9jd2w5ajJBb2xlWXB3M05tNzhyRXlYbDZ4WUVMWHlVZDkzRzJfZE1tdlhIYkJvM0NLUVJ6b09VdmVKSEx3eU9QbWg4ZWkwZVlVM2FKRDhXVE9PRVpVNzZpY2tHdw?oc=5)
+
+---
+
+### [Un tratamiento experimental duplica la supervivencia en pacientes con cáncer gástrico avanzado - Antena 3 Noticias](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaUlhMy03YmpueFFGZFpVbmxvbDhVOVp1QVFNV184Z0JmV2tDV21XcTh2cldKdUd6ZzhqMTZsaFFkb0VCS3g3M21ZaVNHS0ptNDdoMTVORF9KUzU1ZWZCWjVWeEpHVmVwaGhJS0w2aTcybmZXRlFUUl9IbDJHdHNQRHlPWDlkMXZQMGNVUF9BS0V0dE5QQTRCYkpmM05OMFVST0hmVmp0S3pOUXQ4XzViQkk4c3RZSkJnc0FuWXhKUTM1Q3JJbTZsSHlfb25NaXFHYmdyX283QlJQMEtTRTdLNmR3LWgwOGFFWnlzQWZZcm1IZ9IB8gFBVV95cUxOZjREekpMYXZ1MVlzOW1FWEdyXzhKOGFoVUUzVEhXSTdIX3dOZV9GUEhzQUFIcmt0NjgzOXFGbndMRXdBY0lIZEJ2RS1RY0ZJbnVUSXJSUjlLT0R2Rjd1RkVYZ1U4VUJFcHZnMklqUnV3b00xbVltcUVHWnFWVlQ0cElJRi10NnRSdUJIMGNUNWxzX1ZCTk9IakEzVzd3aVU5ZUZmcDNvalFCMmZHMWxfTTlpWHMxYks0aldIVDJGcnkzcTdfZS1CVGVxV0V2NzZENll4Z2gxZ29xUHI0WFpjWlBQTVZvWHBKUGlTOVpSbHlQUQ?oc=5)
+
+2026-11-04 <span class="news-indication-tag">tumor</span>
+
+Source: [Antena 3 Noticias](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaUlhMy03YmpueFFGZFpVbmxvbDhVOVp1QVFNV184Z0JmV2tDV21XcTh2cldKdUd6ZzhqMTZsaFFkb0VCS3g3M21ZaVNHS0ptNDdoMTVORF9KUzU1ZWZCWjVWeEpHVmVwaGhJS0w2aTcybmZXRlFUUl9IbDJHdHNQRHlPWDlkMXZQMGNVUF9BS0V0dE5QQTRCYkpmM05OMFVST0hmVmp0S3pOUXQ4XzViQkk4c3RZSkJnc0FuWXhKUTM1Q3JJbTZsSHlfb25NaXFHYmdyX283QlJQMEtTRTdLNmR3LWgwOGFFWnlzQWZZcm1IZ9IB8gFBVV95cUxOZjREekpMYXZ1MVlzOW1FWEdyXzhKOGFoVUUzVEhXSTdIX3dOZV9GUEhzQUFIcmt0NjgzOXFGbndMRXdBY0lIZEJ2RS1RY0ZJbnVUSXJSUjlLT0R2Rjd1RkVYZ1U4VUJFcHZnMklqUnV3b00xbVltcUVHWnFWVlQ0cElJRi10NnRSdUJIMGNUNWxzX1ZCTk9IakEzVzd3aVU5ZUZmcDNvalFCMmZHMWxfTTlpWHMxYks0aldIVDJGcnkzcTdfZS1CVGVxV0V2NzZENll4Z2gxZ29xUHI0WFpjWlBQTVZvWHBKUGlTOVpSbHlQUQ?oc=5)
 
 ---
 

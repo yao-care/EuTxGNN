@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 13 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 15 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 last_modified_at: 2026-11-08
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>13 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>15 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,23 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (13)
+## Related News (15)
+
+### [New dementia study reveals unexpected medication link to better brain health - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTdzVTJFYlNYM2d6WkRsNzdIaWVRRDFnN0txeU1rUklhSTBzVklIVDB4bDM2aHNHeW90ZW9iRTBYTkJJUHd5Q0U2S2lqMGM2OUQ4QXJDZFZUdWFfbmNCUUFXUTY1UEZJRzVfZWdQWERzbkVLOU96cW1EaEpvS2xnV0hGdGszM1A5czZz0gGQAUFVX3lxTE80TU43YjYyLTc5MW5Hak5xQV9CVV95eEZhRDFhUkpzNV9HZG1oTnZpVG5oekRvbEtRc1pZVWlHMDBLOEgyaUNoaDdXX3ZaOTRmWWVtQ3BGalI0T2dHYmE3c0gxNE5DT0Uxc1Y4S2RhSmVieHgtQUVwa2ZDNmVjekszRmg1bDhPZkVxWnBWeWdvQw?oc=5)
+
+2026-11-08
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTdzVTJFYlNYM2d6WkRsNzdIaWVRRDFnN0txeU1rUklhSTBzVklIVDB4bDM2aHNHeW90ZW9iRTBYTkJJUHd5Q0U2S2lqMGM2OUQ4QXJDZFZUdWFfbmNCUUFXUTY1UEZJRzVfZWdQWERzbkVLOU96cW1EaEpvS2xnV0hGdGszM1A5czZz0gGQAUFVX3lxTE80TU43YjYyLTc5MW5Hak5xQV9CVV95eEZhRDFhUkpzNV9HZG1oTnZpVG5oekRvbEtRc1pZVWlHMDBLOEgyaUNoaDdXX3ZaOTRmWWVtQ3BGalI0T2dHYmE3c0gxNE5DT0Uxc1Y4S2RhSmVieHgtQUVwa2ZDNmVjekszRmg1bDhPZkVxWnBWeWdvQw?oc=5)
+
+---
+
+### [Swansea mum tries to raise £2.95m for son's dementia treatment](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xZmlEdE5sU3k3OHZyeTh4QjJfelZMUHVubHJqSl9CbVQtVEdyNFdISmtjMGtBWG9xOHVydDRTOGFzeE04VEc4NnROSGdWZ29YaGJ6MFRDNG1Cakp6NEE?oc=5)
+
+2026-11-07
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xZmlEdE5sU3k3OHZyeTh4QjJfelZMUHVubHJqSl9CbVQtVEdyNFdISmtjMGtBWG9xOHVydDRTOGFzeE04VEc4NnROSGdWZ29YaGJ6MFRDNG1Cakp6NEE?oc=5)
+
+---
 
 ### [Early dementia sign is often ignored but people spot when walking upstairs - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkZjYmpaZG9zZnFBdVgzSHpVaGlra3EyLW1YVjVDOE55OHRpZzU4Qk9VazZteDZacTF3NmVHcXVwWVEwcmJyVGlVRTc2QkZLX0pYWjJpMjN3Q1VpcWNESVAwdVNROWV5Y09qRWQzRlp0dnAwMV81TEwwNldQYkxFRVBqREZwUdIBiwFBVV95cUxQVGRTeUczMzFGVV8yNmZiVnc4OUg2ai1SbjVydC1odHg3XzRpTVhCSTZ0U1B2Qkhvc0x6VEpwRjVCQzU1cklMNkFRemNGOHpyUVBLRVZsZTFoTk50Umxab3V0R1pEZ2U1WGNmaFZSVEVoWkwyMjJqWDQtZUpSOHdBWVlac3h2UUhyXzJ3?oc=5)
 

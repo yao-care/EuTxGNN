@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>17 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>19 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (19)
+
+### [New dementia study reveals unexpected medication link to better brain health - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTdzVTJFYlNYM2d6WkRsNzdIaWVRRDFnN0txeU1rUklhSTBzVklIVDB4bDM2aHNHeW90ZW9iRTBYTkJJUHd5Q0U2S2lqMGM2OUQ4QXJDZFZUdWFfbmNCUUFXUTY1UEZJRzVfZWdQWERzbkVLOU96cW1EaEpvS2xnV0hGdGszM1A5czZz0gGQAUFVX3lxTE80TU43YjYyLTc5MW5Hak5xQV9CVV95eEZhRDFhUkpzNV9HZG1oTnZpVG5oekRvbEtRc1pZVWlHMDBLOEgyaUNoaDdXX3ZaOTRmWWVtQ3BGalI0T2dHYmE3c0gxNE5DT0Uxc1Y4S2RhSmVieHgtQUVwa2ZDNmVjekszRmg1bDhPZkVxWnBWeWdvQw?oc=5)
+
+2026-11-08 <span class="news-indication-tag">dementia</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTdzVTJFYlNYM2d6WkRsNzdIaWVRRDFnN0txeU1rUklhSTBzVklIVDB4bDM2aHNHeW90ZW9iRTBYTkJJUHd5Q0U2S2lqMGM2OUQ4QXJDZFZUdWFfbmNCUUFXUTY1UEZJRzVfZWdQWERzbkVLOU96cW1EaEpvS2xnV0hGdGszM1A5czZz0gGQAUFVX3lxTE80TU43YjYyLTc5MW5Hak5xQV9CVV95eEZhRDFhUkpzNV9HZG1oTnZpVG5oekRvbEtRc1pZVWlHMDBLOEgyaUNoaDdXX3ZaOTRmWWVtQ3BGalI0T2dHYmE3c0gxNE5DT0Uxc1Y4S2RhSmVieHgtQUVwa2ZDNmVjekszRmg1bDhPZkVxWnBWeWdvQw?oc=5)
+
+---
+
+### [Swansea mum tries to raise £2.95m for son's dementia treatment](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xZmlEdE5sU3k3OHZyeTh4QjJfelZMUHVubHJqSl9CbVQtVEdyNFdISmtjMGtBWG9xOHVydDRTOGFzeE04VEc4NnROSGdWZ29YaGJ6MFRDNG1Cakp6NEE?oc=5)
+
+2026-11-07 <span class="news-indication-tag">dementia</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xZmlEdE5sU3k3OHZyeTh4QjJfelZMUHVubHJqSl9CbVQtVEdyNFdISmtjMGtBWG9xOHVydDRTOGFzeE04VEc4NnROSGdWZ29YaGJ6MFRDNG1Cakp6NEE?oc=5)
+
+---
 
 ### [Maladie de Parkinson : l’activité physique associée à une progression plus lente des symptômes - Charente Libre](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdXNfUGJGWV8zNzNaQ1lpYkN1S0ItSzk1eFVsTGw3RlNYRVVyWVBuaTVoSDAtSkU3Sll6N18xWU83T29MRFNVNm1uMWQtWWhOSzNaVjlScXpxT1BYTkNyWmg2YVdOQWYwWVhnamRTd0lVNkFONFpCTU5WQlF3RWx4QXk2c0FrWGViWDM5OW1xVXpqM0NXZEtvSzJOcC1ueWVTZVNBcGRmTmRDbERKUjNxUUs5eFp6UjRlMWJxcWxiMUF0WmRXSl9WQVZTZWdQR2NRbDFNLWlIdw?oc=5)
 

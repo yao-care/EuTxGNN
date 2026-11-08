@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Ipilimumab?">
-<strong>Ipilimumab</strong> currently has <strong>156 news articles</strong>, with 1 predicted indications.
+<strong>Ipilimumab</strong> currently has <strong>162 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,31 @@ This page combines the AI-predicted indications for Ipilimumab with the latest h
 <p><a href="{{ '/drugs/ipilimumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (156)
+## Related News (162)
+
+### [«A 47 anni mangiavo bio e facevo pilates, la mia vita era sanissima. Poi ho scoperto di avere un tumore al seno». Il racconto di Michelle - Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk5SZ3RETm9ENEM1MnFBSHhJbEZqbFAwWjNtMTlnSWw1M0dPUDV3TDhLdTZOQWx2YTJEcHJFV0hsY3B5cVR1UldvRkQ3d0poNHFQNFkwYnItZVYycHo2WFhHZ3pPT1djajZWcmV6SU5nRWl0eDhtNzVDZm9SUkZteHR2Nzd4QU5sOVZ4Vko0b1hna25mcmRFa3FTbzVWR0lFS0dMZmhVQ3kxdERhZGlqZdIBpgFBVV95cUxOZjRNeWN1VEJLYTZXUUtib2FCd01ZWWNsYUtscHkydWtHeFBYT0N4d0lNTUJKZURLSG1valBEVHpwSVVmZzZDUEk1bm93Skh2MVVRelRteENxU09XNEFBV3FOUHN5WDk2R2NJaWlUcWVBeGhrZXNKdDR0NC1ydTBBTXlDS3lKbWpra1FxNjVZSGdmX1F4SjRPYXJWWE1kdjV2Tl9KUC1n?oc=5)
+
+2026-11-08 <span class="news-indication-tag">tumor</span>
+
+Source: [Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk5SZ3RETm9ENEM1MnFBSHhJbEZqbFAwWjNtMTlnSWw1M0dPUDV3TDhLdTZOQWx2YTJEcHJFV0hsY3B5cVR1UldvRkQ3d0poNHFQNFkwYnItZVYycHo2WFhHZ3pPT1djajZWcmV6SU5nRWl0eDhtNzVDZm9SUkZteHR2Nzd4QU5sOVZ4Vko0b1hna25mcmRFa3FTbzVWR0lFS0dMZmhVQ3kxdERhZGlqZdIBpgFBVV95cUxOZjRNeWN1VEJLYTZXUUtib2FCd01ZWWNsYUtscHkydWtHeFBYT0N4d0lNTUJKZURLSG1valBEVHpwSVVmZzZDUEk1bm93Skh2MVVRelRteENxU09XNEFBV3FOUHN5WDk2R2NJaWlUcWVBeGhrZXNKdDR0NC1ydTBBTXlDS3lKbWpra1FxNjVZSGdmX1F4SjRPYXJWWE1kdjV2Tl9KUC1n?oc=5)
+
+---
+
+### [Cancer du cerveau : une percée dans le décodage du glioblastome - Le Figaro Santé](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWhoNXgzakJZa29lMXNuajRxd1VVc2RrbVA4T3FhNExGZFJsQ1plZFQzdEtkNjh5NEoxWFZvbEstNGpmWlduNkd5MGVzNFZzdVlVSVAybjhUWEU4MTQ1cEowalF0V1g0b29KQzk3QmxiUnBWcXVhMnhxdndSbmZNZkhzUjV1ajQycXNmd0VJSm44RzhtbzdTei1OYzBMU0VEVklFMUVIMko?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cancer</span>
+
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWhoNXgzakJZa29lMXNuajRxd1VVc2RrbVA4T3FhNExGZFJsQ1plZFQzdEtkNjh5NEoxWFZvbEstNGpmWlduNkd5MGVzNFZzdVlVSVAybjhUWEU4MTQ1cEowalF0V1g0b29KQzk3QmxiUnBWcXVhMnhxdndSbmZNZkhzUjV1ajQycXNmd0VJSm44RzhtbzdTei1OYzBMU0VEVklFMUVIMko?oc=5)
+
+---
+
+### [Mese della prevenzione oncologica maschile, le regole da seguire](https://news.google.com/rss/articles/CBMipAFBVV95cUxNMHVRaXB3NVM1Q1FTZThERFJZQVp5Nnh4UmdrUVZ5WXhybG5ZSDl3cGg0UEJyUkVYbWJrRDlkMzBmbUtrOEN1eHgtSEc3eG5xdHhEWGpxN1JBZnl6SmlFVUhEOFFoZ1hFcUliUkVGc2wzcUhTUEpBUGJUdEdwXzR4RGxyTkVWNnZMQWZNRzZNVnZmQzlKc2VVU1NPQlJrNnhFalU5UA?oc=5)
+
+2026-11-08 <span class="news-indication-tag">tumor</span>
+
+Source: [Cremonaoggi](https://news.google.com/rss/articles/CBMipAFBVV95cUxNMHVRaXB3NVM1Q1FTZThERFJZQVp5Nnh4UmdrUVZ5WXhybG5ZSDl3cGg0UEJyUkVYbWJrRDlkMzBmbUtrOEN1eHgtSEc3eG5xdHhEWGpxN1JBZnl6SmlFVUhEOFFoZ1hFcUliUkVGc2wzcUhTUEpBUGJUdEdwXzR4RGxyTkVWNnZMQWZNRzZNVnZmQzlKc2VVU1NPQlJrNnhFalU5UA?oc=5)
+
+---
 
 ### ['Cancer treatment plummeted me into menopause'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wd282c042WC1fSG11U3NUSGNIT2E4VERlSXliV0h3OHRxZFNUcjVNUVZNaWtZOFN2NEdvZk1iNkgxamhDR08wRVpiUjNxQnhYNkFkZ04tM0tEQnlXX3c?oc=5)
 
@@ -64,6 +88,14 @@ Source: [Noticias Venevisión](https://news.google.com/rss/articles/CBMixAFBVV95
 2026-11-08 <span class="news-indication-tag">cancer</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52dU9VbUFFQ2V1MGx1cFE0dlJJcERsc3I5NE9wQTluaUR0a3VCWUlkVkdoc1VYempjVjNRNEtMMGFHdGJLRmE2NjhnaWc5YjkwelNlRTJyc1lUdERfMVE?oc=5)
+
+---
+
+### [Cancer-beating grandmother helps fight disease which affected three generations of her family - Hull Live](https://news.google.com/rss/articles/CBMirgFBVV95cUxQazBQRkZIdzhFYlpDNVZmdU9qdGVGS0RpMzVyM3JHdUtNVmt5NWpSZlp3blJ4ZEx5NUdHNmh0U2p3SUJlZEkxWENwU1I0b1RLa3h6U2FKcXhoemxuUTJYbU55d0NnSEpwMnA2S1M3RGRwVFpVUHNGRkU4TUwzMVBuZWh6RVphcjQ2SkNyUW5OQUZCbGxNVVhJMVdRdUdTcllOMXFNZlM3VDJUV2J1aWfSAbMBQVVfeXFMTk5pS294ZDlET2l4eFQzS1pSYld4MVdQQVlyMmU3M293THBhcnJnZFhyQXFuSTJUN0tSRVo5RlVWSlp3Y1NmMVdnVVdaRVhVVXVZNGlGSF9NVjJMeTVJQ3h0VTB2X2Y5ZTRPNGFQbXZkMVJwOXJRNVVhYkRyVXVfNUdfLURfNVJVT2V4amhXcC1BOV8tbXNzblVGRTVGR1Rhd0pwdGQtUklEdVVGeGVqQTIzSU0?oc=5)
+
+2026-11-07 <span class="news-indication-tag">cancer</span>
+
+Source: [Hull Live](https://news.google.com/rss/articles/CBMirgFBVV95cUxQazBQRkZIdzhFYlpDNVZmdU9qdGVGS0RpMzVyM3JHdUtNVmt5NWpSZlp3blJ4ZEx5NUdHNmh0U2p3SUJlZEkxWENwU1I0b1RLa3h6U2FKcXhoemxuUTJYbU55d0NnSEpwMnA2S1M3RGRwVFpVUHNGRkU4TUwzMVBuZWh6RVphcjQ2SkNyUW5OQUZCbGxNVVhJMVdRdUdTcllOMXFNZlM3VDJUV2J1aWfSAbMBQVVfeXFMTk5pS294ZDlET2l4eFQzS1pSYld4MVdQQVlyMmU3M293THBhcnJnZFhyQXFuSTJUN0tSRVo5RlVWSlp3Y1NmMVdnVVdaRVhVVXVZNGlGSF9NVjJMeTVJQ3h0VTB2X2Y5ZTRPNGFQbXZkMVJwOXJRNVVhYkRyVXVfNUdfLURfNVJVT2V4amhXcC1BOV8tbXNzblVGRTVGR1Rhd0pwdGQtUklEdVVGeGVqQTIzSU0?oc=5)
 
 ---
 
@@ -179,6 +211,14 @@ Source: [greenMe](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUnVuUnhSc
 
 ---
 
+### [Tous les hommes de plus de 50 ans devraient se faire dépister pour éviter ce cancer « tabou » dont les symptômes sont invisibles - RTL Info](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMDZSb0R5SXlIVmxJdnZjY1ZWbVFlNzJILUdGN0trOS0tME5TZW0yWFh2a0JXUG9Yc1JCOFUzcGJwVmpoUlVJTUkzSko3aHg5cllnSEMtSlp1b3VfS013UTVPZE90Z3FmaDdlY2lqRTYzRWFUc0FGcjZvVFFrQWF1QXBYclZTc3hXMTg2S0tuQzZUV1JBWGFaaGFCNV9pNFF2TGxpVkxJRVhqZE1JLW51c2d6akllZk0wZ1YxYjd0S09wcERvblRTa216Z3hFTXplVjdxeENXY18?oc=5)
+
+2026-11-06 <span class="news-indication-tag">cancer</span>
+
+Source: [RTL Info](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMDZSb0R5SXlIVmxJdnZjY1ZWbVFlNzJILUdGN0trOS0tME5TZW0yWFh2a0JXUG9Yc1JCOFUzcGJwVmpoUlVJTUkzSko3aHg5cllnSEMtSlp1b3VfS013UTVPZE90Z3FmaDdlY2lqRTYzRWFUc0FGcjZvVFFrQWF1QXBYclZTc3hXMTg2S0tuQzZUV1JBWGFaaGFCNV9pNFF2TGxpVkxJRVhqZE1JLW51c2d6akllZk0wZ1YxYjd0S09wcERvblRTa216Z3hFTXplVjdxeENXY18?oc=5)
+
+---
+
 ### [« C’est encore tabou. Tu vas voir l’urologue quand ça va mal, quand tu as le cancer » : il a fait d’un village du Périgord un bastion de Movember - Sud Ouest](https://news.google.com/rss/articles/CBMimgJBVV95cUxOOXNiSUxIR3A1VzdLc2R2Z21tWm4zbGZPdFZnN3FhWHBkdFg0bzFkVTIwM3F6OEpzR0VsekZkTjh3MWZsS2J4UU13aU1CeDFiRndYS3BZVlBSMXY2b1ZiVjFodnk0aWREcjhTM3l2YXJCeEtWRHp3bFVyZ2Fxd0U2SmpoZEYzU3BtSEFsNE1UQ09PTFAzalRfc3FaVlA3b3NlZmkzSFhDUFpaSzNWQ2plMkVmaGhXVHNVbGRNZVZUWDZUVGVwQW5xdXJUZEFSUDhpaGZ2enhiazl0YnZ3MlJHdHdHRUJzekk3Z0RscWNtR1NQc2VjM3RFYU8zNnFxbWkzUE9vb1ZraURoWW9udGRYZ1BBSmk5YzdOSnc?oc=5)
 
 2026-11-06 <span class="news-indication-tag">cancer</span>
@@ -267,7 +307,7 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnBKZ2xVM
 
 ---
 
-### [Fragen, die Patienten mit Krebs nach der Diagnose den Onkologen stellen sollten – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUjhOMVVUNUc1bE9FQWlORnVwdWFPN2VUaVZVTW9RTDF3VjUtakVuUDJBRE0tbFVLQnNtWW1rc0RFMENmOHhsMHRob3QweElQc0tOZ2dTNkNvQXBfYnBVTWFtNXhGd0NQT0s5LWJDbU9VbzBjUFJBeWpUTnhmd3haNS1wY19aWGdxb3J5UlBac0UyY2NEOGt0elFQSXAzR091em9XYk1QRXFrQkRzSDZKN1NUWG40Uk1YdlgtOU5RUmlZTlpqRjlNRDY2b0otTkl5Nkw1dEtoSlRBTm9fWWMyRQ?oc=5)
+### [Fragen, die Patienten mit Krebs nach der Diagnose den Onkologen stellen sollten – Deutsches Ärzteblatt - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUjhOMVVUNUc1bE9FQWlORnVwdWFPN2VUaVZVTW9RTDF3VjUtakVuUDJBRE0tbFVLQnNtWW1rc0RFMENmOHhsMHRob3QweElQc0tOZ2dTNkNvQXBfYnBVTWFtNXhGd0NQT0s5LWJDbU9VbzBjUFJBeWpUTnhmd3haNS1wY19aWGdxb3J5UlBac0UyY2NEOGt0elFQSXAzR091em9XYk1QRXFrQkRzSDZKN1NUWG40Uk1YdlgtOU5RUmlZTlpqRjlNRDY2b0otTkl5Nkw1dEtoSlRBTm9fWWMyRQ?oc=5)
 
 2026-11-05 <span class="news-indication-tag">Krebs</span>
 
@@ -376,6 +416,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUFM
 2026-11-04 <span class="news-indication-tag">tumor</span>
 
 Source: [Cordoba Hoy](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd1NlZHRxTGc2RldiaV80c1F0azNnN3N0bFk4OU1vUWRvUFBpenJMX19sMlJ1Nmw5a3lyUGgzYWZPbDZHRHN2eWx3bk41QjBkT1lLdWpjc3B4bl84c2QwQUFRb3VSaVRxalhJTGVXeG1DejZRcE9Hd0FsdHM1RkR5Q2VpQ3ZVS3YtU0hLLV9UdGhBb3l5NGFzUlRBLWUwLWRya3VxeXRxUDJWeHRPajU1VU93aDFGbXlnY0tFUHB3WUJXZ3FOSGV0X1Frd01VRU01dGhnZ2ZScVFwcDF2SndiUXpR0gHnAUFVX3lxTFBVT1AtVUNfNUt2alFjVENQaTlaOVJ4clJreWxrU0tFdEpIbFowWDdXRzdlUzJOTlhhQWxvWlBYb256ajFFQ000azhscDVkckJNQm1Mbmp3VG02TlBtak50cGd5NHo3a3VrSVNVVUI2MlNieWpTUnV4LTlaZnlaQ1lGel8xWTVmTFVhdU9jd2w5ajJBb2xlWXB3M05tNzhyRXlYbDZ4WUVMWHlVZDkzRzJfZE1tdlhIYkJvM0NLUVJ6b09VdmVKSEx3eU9QbWg4ZWkwZVlVM2FKRDhXVE9PRVpVNzZpY2tHdw?oc=5)
+
+---
+
+### [Un tratamiento experimental duplica la supervivencia en pacientes con cáncer gástrico avanzado - Antena 3 Noticias](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaUlhMy03YmpueFFGZFpVbmxvbDhVOVp1QVFNV184Z0JmV2tDV21XcTh2cldKdUd6ZzhqMTZsaFFkb0VCS3g3M21ZaVNHS0ptNDdoMTVORF9KUzU1ZWZCWjVWeEpHVmVwaGhJS0w2aTcybmZXRlFUUl9IbDJHdHNQRHlPWDlkMXZQMGNVUF9BS0V0dE5QQTRCYkpmM05OMFVST0hmVmp0S3pOUXQ4XzViQkk4c3RZSkJnc0FuWXhKUTM1Q3JJbTZsSHlfb25NaXFHYmdyX283QlJQMEtTRTdLNmR3LWgwOGFFWnlzQWZZcm1IZ9IB8gFBVV95cUxOZjREekpMYXZ1MVlzOW1FWEdyXzhKOGFoVUUzVEhXSTdIX3dOZV9GUEhzQUFIcmt0NjgzOXFGbndMRXdBY0lIZEJ2RS1RY0ZJbnVUSXJSUjlLT0R2Rjd1RkVYZ1U4VUJFcHZnMklqUnV3b00xbVltcUVHWnFWVlQ0cElJRi10NnRSdUJIMGNUNWxzX1ZCTk9IakEzVzd3aVU5ZUZmcDNvalFCMmZHMWxfTTlpWHMxYks0aldIVDJGcnkzcTdfZS1CVGVxV0V2NzZENll4Z2gxZ29xUHI0WFpjWlBQTVZvWHBKUGlTOVpSbHlQUQ?oc=5)
+
+2026-11-04 <span class="news-indication-tag">tumor</span>
+
+Source: [Antena 3 Noticias](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaUlhMy03YmpueFFGZFpVbmxvbDhVOVp1QVFNV184Z0JmV2tDV21XcTh2cldKdUd6ZzhqMTZsaFFkb0VCS3g3M21ZaVNHS0ptNDdoMTVORF9KUzU1ZWZCWjVWeEpHVmVwaGhJS0w2aTcybmZXRlFUUl9IbDJHdHNQRHlPWDlkMXZQMGNVUF9BS0V0dE5QQTRCYkpmM05OMFVST0hmVmp0S3pOUXQ4XzViQkk4c3RZSkJnc0FuWXhKUTM1Q3JJbTZsSHlfb25NaXFHYmdyX283QlJQMEtTRTdLNmR3LWgwOGFFWnlzQWZZcm1IZ9IB8gFBVV95cUxOZjREekpMYXZ1MVlzOW1FWEdyXzhKOGFoVUUzVEhXSTdIX3dOZV9GUEhzQUFIcmt0NjgzOXFGbndMRXdBY0lIZEJ2RS1RY0ZJbnVUSXJSUjlLT0R2Rjd1RkVYZ1U4VUJFcHZnMklqUnV3b00xbVltcUVHWnFWVlQ0cElJRi10NnRSdUJIMGNUNWxzX1ZCTk9IakEzVzd3aVU5ZUZmcDNvalFCMmZHMWxfTTlpWHMxYks0aldIVDJGcnkzcTdfZS1CVGVxV0V2NzZENll4Z2gxZ29xUHI0WFpjWlBQTVZvWHBKUGlTOVpSbHlQUQ?oc=5)
 
 ---
 
