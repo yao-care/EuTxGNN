@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>17 news articles</strong>, with 0 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>18 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (18)
+
+### [Enfermedad de Crohn en jóvenes: un 30% de los pacientes tiene menos de 20 años - Noticias de Navarra](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVTFkYjdjSXg4c3pMT2FXWU1MeTdtbElRZlU2MlFXMC1LY2NFRmxQTmFIdHBfOEFQRU03OV91WUVGVGRrbm94MWpVUjRPNTNDOGZVMjVjR3dMYndQdEFTaUZDVXBZTlhRWXBHejRHR2M4NWlMS1d1UTdMUjBuVEF2cURFS3huMlBQa3E3UGc1RXhPbzN4MWlsdzUzdzBTODFSLXNiQm91TlF3ZjlabzNxX01qaFg0ZVhKR2RkQmNpZUPSAcYBQVVfeXFMT05IcVdOUEVuUG1NWlJlSHljejc3b1cyUlFnWkJpSjZCa29Ob09sYklwVThEX3dGZ0VnYjdLQXVSZ2oxS3J3Tk15Q2pSQVdiQjVuYmE2eXpaWWVraEVDckFqbXhfVWxhQTZTZkVaQ3RNYkJMaFdtU3FLLU92c2gxUm8yeXRRckpDMnRjaVB3aUdMckFOMUNfTnJqUDdWYTZlTWtKM0JEN1NGS1Fja1djVEFSMjlsckFYTVFjNGhPakdhd1hOYUln?oc=5)
+
+2026-11-08 <span class="news-indication-tag">enfermedad de Crohn</span>
+
+Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVTFkYjdjSXg4c3pMT2FXWU1MeTdtbElRZlU2MlFXMC1LY2NFRmxQTmFIdHBfOEFQRU03OV91WUVGVGRrbm94MWpVUjRPNTNDOGZVMjVjR3dMYndQdEFTaUZDVXBZTlhRWXBHejRHR2M4NWlMS1d1UTdMUjBuVEF2cURFS3huMlBQa3E3UGc1RXhPbzN4MWlsdzUzdzBTODFSLXNiQm91TlF3ZjlabzNxX01qaFg0ZVhKR2RkQmNpZUPSAcYBQVVfeXFMT05IcVdOUEVuUG1NWlJlSHljejc3b1cyUlFnWkJpSjZCa29Ob09sYklwVThEX3dGZ0VnYjdLQXVSZ2oxS3J3Tk15Q2pSQVdiQjVuYmE2eXpaWWVraEVDckFqbXhfVWxhQTZTZkVaQ3RNYkJMaFdtU3FLLU92c2gxUm8yeXRRckpDMnRjaVB3aUdMckFOMUNfTnJqUDdWYTZlTWtKM0JEN1NGS1Fja1djVEFSMjlsckFYTVFjNGhPakdhd1hOYUln?oc=5)
+
+---
 
 ### [Oxford-Studie enthüllt: Ein Antikörper sabotiert den Schutzschild des Darms](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWstc1VHWjNaMlBqZnFBUUF5MW1LcTl5NjU3UjJOLXo4dTUxNklrVDBsQWtvVkJ2dU5vNF9NNFA0dWtPdDhWYS11S1hRQURfOEs3bHVEQjQxYXZNTk1KaTIwd3lQSTh4VjJOZ1h4Sm0xVkNKcjdMV3JwNmZrUElfVDRBSE1iODc2ZzVkR0lROS1YMXFiSGFTTGc5OVdmTmJxZGJ2Vk9NeWpnOWxaUUdGYXEycEZoeHVXQ1pYZ0RXbmVBVzhGOUE?oc=5)
 

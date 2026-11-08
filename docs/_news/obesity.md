@@ -3,7 +3,7 @@ layout: default
 title: "obésité (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obésité (obesity). 40 articles, 8 related drugs."
+description: "Health news about obésité (obesity). 41 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-11-08
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about obésité (obesity)?">
-<strong>obésité (obesity)</strong> currently has <strong>40 news articles</strong> and 8 related drugs.
+<strong>obésité (obesity)</strong> currently has <strong>41 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “obésité” and lists
 </ul>
 </div>
 
-## Related News (40)
+## Related News (41)
+
+### [Les médicaments contre l'obésité comme Ozempic mènent-ils au divorce?](https://news.google.com/rss/articles/CBMiogFBVV95cUxQR25lU2pBeVVrTlRJenJiWTRaVUhjM3pQVTdNQ1VmZ1RKTV9jYURqMTZzcGM0Z2xJdmpLMS1sNzdCRUF4YWl0YTQ0bk5iUUN5MXBsZUpiTmpha0RtZEVrdGpHcjFPMXluVDVRelRFMnh3WE0zN2hpWi1uMWtnckxDeDBPTG54MHBMUUxTbU1VYlZWd25BYndYd0YxbmhQZG45cXc?oc=5)
+
+2026-11-08
+
+Source: [Slate.fr](https://news.google.com/rss/articles/CBMiogFBVV95cUxQR25lU2pBeVVrTlRJenJiWTRaVUhjM3pQVTdNQ1VmZ1RKTV9jYURqMTZzcGM0Z2xJdmpLMS1sNzdCRUF4YWl0YTQ0bk5iUUN5MXBsZUpiTmpha0RtZEVrdGpHcjFPMXluVDVRelRFMnh3WE0zN2hpWi1uMWtnckxDeDBPTG54MHBMUUxTbU1VYlZWd25BYndYd0YxbmhQZG45cXc?oc=5)
+
+---
 
 ### [Remboursement de l'obésité : l'enveloppe de 100 millions annoncée par la ministre finance au mieux 1 patient éligible sur 15](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk1TYmJZaDZSb2VsQ1BwVF9sZ2NVMTBnOEEyN0h6NFVxazlPdzdRWWR5TTdJdWZYRUQ5bDZsUlJwRGhNZVQzeURhSy1wZlhrOFBWdGNtVzBmakEwQkczNmFKcmJuYVlOT2tXenRncl9iYnZQbGI3bmRoVW5jdXc1dUJOMklpYnFJQXp0aGx2TFg1QUZpTkUwX243NVB5WUtJcDQ5SHlTR045dkhQQ0NZQ01QT2djQzUt?oc=5)
 

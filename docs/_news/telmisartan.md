@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>91 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>92 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (91)
+## Related News (92)
+
+### [Medizinischer Fortschritt: Weniger Todesfälle durch Herzinfarkt und Schlaganfall](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWxya0J2NDZLV1pEMXlaZEE5YkRlU3pxSkY4bGFseU9UN0JaUjlLcHM1NDFsSmZCY3oxUWdFcVVmbUNjQURBZ09JelY5WTRHaG5qck00YnJwdzRGeWFvNWJ5WGFVcHRtd000YTRYQk9pUWcwTXhJVlFaM0FKMElBTDZlckxsOHhtNngzdDZfbkM1dUhoY1BXYnJDOENWamJVeTBpSEZDa0g2WmFTal9xcVBGOVVqTXBoMXdRVGd6cw?oc=5)
+
+2026-11-08 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [OSTHESSEN|NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWxya0J2NDZLV1pEMXlaZEE5YkRlU3pxSkY4bGFseU9UN0JaUjlLcHM1NDFsSmZCY3oxUWdFcVVmbUNjQURBZ09JelY5WTRHaG5qck00YnJwdzRGeWFvNWJ5WGFVcHRtd000YTRYQk9pUWcwTXhJVlFaM0FKMElBTDZlckxsOHhtNngzdDZfbkM1dUhoY1BXYnJDOENWamJVeTBpSEZDa0g2WmFTal9xcVBGOVVqTXBoMXdRVGd6cw?oc=5)
+
+---
 
 ### [New drug that could permanently cure high blood pressure coming to UK by 2027 - The i Paper](https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZGZKdG82RGs1ZTdhVzU4S1BsWUtjdmZMUmNkbllFcDJfVk5mb3IzYkVybmJQOFd1UnpBWi1rcnBfeUJPdDBZaWx3a1hTN1RzZV9HRDdkNXBuaW1LU21GazBscnJKd2J0ekxua0NSU0VWZFd2a0E?oc=5)
 
@@ -253,7 +261,7 @@ Source: [El Economista](https://news.google.com/rss/articles/CBMixAJBVV95cUxQSUR
 
 ### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
-2026-11-04 <span class="news-indication-tag">Bluthochdruck</span>
+2026-11-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Encorafenib?">
-<strong>Encorafenib</strong> currently has <strong>149 news articles</strong>, with 0 predicted indications.
+<strong>Encorafenib</strong> currently has <strong>156 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,37 @@ This page combines the AI-predicted indications for Encorafenib with the latest 
 <p><a href="{{ '/drugs/encorafenib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (149)
+## Related News (156)
+
+### ['Cancer treatment plummeted me into menopause'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wd282c042WC1fSG11U3NUSGNIT2E4VERlSXliV0h3OHRxZFNUcjVNUVZNaWtZOFN2NEdvZk1iNkgxamhDR08wRVpiUjNxQnhYNkFkZ04tM0tEQnlXX3c?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wd282c042WC1fSG11U3NUSGNIT2E4VERlSXliV0h3OHRxZFNUcjVNUVZNaWtZOFN2NEdvZk1iNkgxamhDR08wRVpiUjNxQnhYNkFkZ04tM0tEQnlXX3c?oc=5)
+
+---
+
+### [Sport bremst das biologische Altern nach Brustkrebs - Forschung und Wissen](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc29rek0zRy1xb3VYWlJxS3c1dy0xWVptLUpkcVA4bFEtRHp6clIxUWNFZEIxOXpzOFRGbWVEUTRSUDBUc2U0bEJ4Z0FDRjBRSkVMUFVMTFlLbjFYa0JpVVRFYmdPdWtxdkNTVWN6bUM2V0YzM0VJd2N4bUZwN1VTU0R5RkhCNV81bm9UVm1DRVBMN3RyUTQ0VGJyQ2pZeEtjcGdfOUtoX3B1ZnhiTkVTQTJTZ3hZWHVP?oc=5)
+
+2026-11-08 <span class="news-indication-tag">Krebs</span>
+
+Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc29rek0zRy1xb3VYWlJxS3c1dy0xWVptLUpkcVA4bFEtRHp6clIxUWNFZEIxOXpzOFRGbWVEUTRSUDBUc2U0bEJ4Z0FDRjBRSkVMUFVMTFlLbjFYa0JpVVRFYmdPdWtxdkNTVWN6bUM2V0YzM0VJd2N4bUZwN1VTU0R5RkhCNV81bm9UVm1DRVBMN3RyUTQ0VGJyQ2pZeEtjcGdfOUtoX3B1ZnhiTkVTQTJTZ3hZWHVP?oc=5)
+
+---
 
 ### [Análisis moleculares de tumores mamarios ayuda a precisar tratamiento oncológico - Noticias Venevisión](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHZEdDNmanpvYXhZeGljRE42UE8zc29qQUtFZVo2RXpjQjdHaEdDcjBnd3F0Vy1XOHJtejl5NUJBTmtHNzlGWnpneFRZUEVocVo4ZDZPYktvX08xbVc2NmNmcnh6VFVkQXpYRUFKUC1QQnZsUEZQTW1jYXVpVG8zN0IxeUxXY0FjT29TZlNMaV9qakdhRDhaRElBMVRTeVhaZXVfWEdaSV9jUkFUczBEemhhVmxoZEg0TEhzMURRMGhldzVK?oc=5)
 
 2026-11-08 <span class="news-indication-tag">tumor</span>
 
 Source: [Noticias Venevisión](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHZEdDNmanpvYXhZeGljRE42UE8zc29qQUtFZVo2RXpjQjdHaEdDcjBnd3F0Vy1XOHJtejl5NUJBTmtHNzlGWnpneFRZUEVocVo4ZDZPYktvX08xbVc2NmNmcnh6VFVkQXpYRUFKUC1QQnZsUEZQTW1jYXVpVG8zN0IxeUxXY0FjT29TZlNMaV9qakdhRDhaRElBMVRTeVhaZXVfWEdaSV9jUkFUczBEemhhVmxoZEg0TEhzMURRMGhldzVK?oc=5)
+
+---
+
+### [DIY Dalek to be auctioned for Yorkshire Cancer Research](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52dU9VbUFFQ2V1MGx1cFE0dlJJcERsc3I5NE9wQTluaUR0a3VCWUlkVkdoc1VYempjVjNRNEtMMGFHdGJLRmE2NjhnaWc5YjkwelNlRTJyc1lUdERfMVE?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52dU9VbUFFQ2V1MGx1cFE0dlJJcERsc3I5NE9wQTluaUR0a3VCWUlkVkdoc1VYempjVjNRNEtMMGFHdGJLRmE2NjhnaWc5YjkwelNlRTJyc1lUdERfMVE?oc=5)
 
 ---
 
@@ -56,11 +80,27 @@ Source: [La Stampa](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOFB4eHl
 
 ---
 
+### [Tumore al pancreas, la Lombardia compra negli Usa il farmaco "che raddoppia la sopravvivenza" - The Wom Healthy](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWJUSnpXYnQ0WXRrQnFzRkFXellfNGZETHpzSjlLdkowOE91UlBfZkdKQXBNUGlfOUFYQkxPQVFUMFZkWno3VnJsYWZiUnBlVk9BZGNvS2x2dUpDb0U5Slo4RUdyWnk1SWxYVTZneVdOZlJSeVViRWh0bU55YU5xSnpwNkVNbVQzWk9jTmNSMGRHMXA3b09BalpDVEt1VFN2MGo5YkhBSlp1bHd4NEpEV3JjQTkwbDZTSjVob0ZNNDFGTnpOMWVtRndR?oc=5)
+
+2026-11-07 <span class="news-indication-tag">tumor</span>
+
+Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWJUSnpXYnQ0WXRrQnFzRkFXellfNGZETHpzSjlLdkowOE91UlBfZkdKQXBNUGlfOUFYQkxPQVFUMFZkWno3VnJsYWZiUnBlVk9BZGNvS2x2dUpDb0U5Slo4RUdyWnk1SWxYVTZneVdOZlJSeVViRWh0bU55YU5xSnpwNkVNbVQzWk9jTmNSMGRHMXA3b09BalpDVEt1VFN2MGo5YkhBSlp1bHd4NEpEV3JjQTkwbDZTSjVob0ZNNDFGTnpOMWVtRndR?oc=5)
+
+---
+
 ### [HPV schützt vor Krebs – doch nur 20% Jungen, 35% Mädchen geimpft: Warum bleibt die Impflücke so groß?](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRFJMN2lzY0Y4NkpQdXJodnBtY0NDcXhTSU9Yb3N2Nk03TzBJeUF1M0ZyUmdrRWN4MnhZTzFaSGtCazZDRXFPWk1DYU1oN3o0djkxVG5RYVh3ZjJjQmZZX19rdXRQcUF2NWVYOGwtbWlhd2NOZ2hINWhrRWNTTFNqOEJJd2pkMTBjcWlmYk1Ic1dCcUN5ZTZNdUVVZ3NsMFU0aG01SWVJSEtaSm8wTXJtX3c1TWZ1dnprY2pJV3VBLWMzVGdkenRBYVJ6Ykt1WFZHUDU1V1kxZFdGQkVObTBORw?oc=5)
 
 2026-11-07 <span class="news-indication-tag">Krebs</span>
 
 Source: [Schwäbische.de](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRFJMN2lzY0Y4NkpQdXJodnBtY0NDcXhTSU9Yb3N2Nk03TzBJeUF1M0ZyUmdrRWN4MnhZTzFaSGtCazZDRXFPWk1DYU1oN3o0djkxVG5RYVh3ZjJjQmZZX19rdXRQcUF2NWVYOGwtbWlhd2NOZ2hINWhrRWNTTFNqOEJJd2pkMTBjcWlmYk1Ic1dCcUN5ZTZNdUVVZ3NsMFU0aG01SWVJSEtaSm8wTXJtX3c1TWZ1dnprY2pJV3VBLWMzVGdkenRBYVJ6Ykt1WFZHUDU1V1kxZFdGQkVObTBORw?oc=5)
+
+---
+
+### [Woman who lost mum and gran to cancer keeps their charity going](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Xak9MSjhvemRpakFRbVVTMWJpMzN5dy1aZk9KUEVoT2MyZHpUU1JYalR3OGs3emZtMUpMMC1ueTlpanRMUzN1c1BvQ3ZmMFhRLWdQclU1Vi1mTEVQNnc?oc=5)
+
+2026-11-07 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Xak9MSjhvemRpakFRbVVTMWJpMzN5dy1aZk9KUEVoT2MyZHpUU1JYalR3OGs3emZtMUpMMC1ueTlpanRMUzN1c1BvQ3ZmMFhRLWdQclU1Vi1mTEVQNnc?oc=5)
 
 ---
 
@@ -205,6 +245,14 @@ Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cU
 2026-11-05 <span class="news-indication-tag">cancer</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1BrSVVDd3FEZ3BFNldwN2puNEk5SHZrM3R2VVVudVluaEkwbF9fcUFNSE9DaHJOOXo3aksycjZNdGhyWW5xS0ItXzN0VmFZd1NzcDFrZmFFMVZzYmtHN2pRQndjV3JsNEFQZ1VGeHlWUWtyalNpM1haa3cyX0stWDdLNVFySzdlQk1WU25IcGF4ZzhIal9LOWIwUFhGaG1waEMxT2htcmVBUGpHX3JCMzhvNWtVQjJ1N2g2Wg?oc=5)
+
+---
+
+### [La Marató de 3Cat 2025 permite impulsar 38 proyectos de investigación de 91 equipos expertos en cáncer - Europa Press](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORnVFZUFRdHNjR3BxS1EweUpzZXoyWHdfRDFUdzZlNEIyWUI2NFZNQTZNOWk1NDF1VnZaYnIySjNVTUxya01lSzN0eHkxMG53cGN5cHFlN0tKR19hSENQZGZrY05DcUFEMWI5RTZmRGZjOGY3NEpkSXc1OVpsT3g2dWotdUJubDZYN1B4S3MtNWVwMmtJbjdmb2Q3T3VhUk4wTE1RaW1IR3ZzZ2ZJeklBQlZFbF8ybFF3U0xoT3VnRmpSMG95QWdhbUNWN1BlOWFnLVcyRE03WU9vRHJHQW1odUxESHlmQ3M?oc=5)
+
+2026-11-05 <span class="news-indication-tag">cancer</span>
+
+Source: [Europa Press](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORnVFZUFRdHNjR3BxS1EweUpzZXoyWHdfRDFUdzZlNEIyWUI2NFZNQTZNOWk1NDF1VnZaYnIySjNVTUxya01lSzN0eHkxMG53cGN5cHFlN0tKR19hSENQZGZrY05DcUFEMWI5RTZmRGZjOGY3NEpkSXc1OVpsT3g2dWotdUJubDZYN1B4S3MtNWVwMmtJbjdmb2Q3T3VhUk4wTE1RaW1IR3ZzZ2ZJeklBQlZFbF8ybFF3U0xoT3VnRmpSMG95QWdhbUNWN1BlOWFnLVcyRE03WU9vRHJHQW1odUxESHlmQ3M?oc=5)
 
 ---
 
@@ -581,6 +629,14 @@ Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/C
 2026-11-03 <span class="news-indication-tag">tumor</span>
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMixAFBVV95cUxPY3lub3JTcnNHODBaRUVlYmN3R2JuMHBUSy12d3Zad3p2SUR6M09JYlJwZXNJSTRULU9jWm8wVEJWYkptZnllR2FzbjQzSU1TejZXblR0QVRUMUFjN21XQlQtLXBhUkFTODUwOGpTVzRMVzRBR3dGR3ZuNVVzRHExN3FQTmtzNWlEN2tEMUtwZWtJZ2thd1JvNmxpSWpjaU5hdnROM0dQY0NGajYzemVnZi02d0VvVVlES20tS1AyckdLRE9j?oc=5)
+
+---
+
+### [Los expertos oncólogos españoles hallan una nueva terapia para frenar el tumor de hígado más común - El Economista](https://news.google.com/rss/articles/CBMikgJBVV95cUxQTkJXZlkxOTlxWVItM3lPTGpkYjVoVEIyM2JhdTBEcjRCNDQxZUdLdmFKT0dGMXRtSmltTDBCWVM4Umt4cUNtb3NSQTRVc3BHUGpCSkxBTG05U2FBTkc2MW56RXRpTHB0MGFnVm10UXdURWFsQUdpVklySmhYZmdnUUdnUkVZOHQyT3ZieXJlUHBGZkNBa3YtbFNBMERhaWtsQmdqSTRkUGU1Nks2MXk2N3VhdGJBX191ZUZwT3pNTFJldVJUNVpJMWpQZzBNOU5YTUtEVUQzZnJHWVRPaWpLSEg0aE5sRDRWd3ZEemw5QVM0QnVndWVyeG1XelBvSVpfMks3UWtfT0FIZkxkQ29RTmRR0gH8AUFVX3lxTE1JbEt6azRnQjJjTVgzU1pXQUdiNlBlaFYwdkhjdEdib0dwTENieHAtczBhcmJ4Y0h0RGx4VlVEdGdQb01xT1lucHRYZ0pkV3dTZWRsZV9zTVlmNWVKcnU5YnBiZVM3UjFmOGRBdUNCYUt6ZkwzYUtZM3ZESnNOSlNOcGpxMnVnbUEzVHRtbGk2bnVITzh5WkJFTXgxaDdHWFNjSFJMSWM0S29OSXJPd05NMV90aE8tMXpwTTdnTXoyMmxGTnMxaEpxVzc2MU5ZNVpYY2U3X3BTZE9XQ3ZlRUl0blhieHdoVFhmSVljek5GQ1MzYkxId1FGd3dLTA?oc=5)
+
+2026-11-03 <span class="news-indication-tag">carcinoma</span>
+
+Source: [El Economista](https://news.google.com/rss/articles/CBMikgJBVV95cUxQTkJXZlkxOTlxWVItM3lPTGpkYjVoVEIyM2JhdTBEcjRCNDQxZUdLdmFKT0dGMXRtSmltTDBCWVM4Umt4cUNtb3NSQTRVc3BHUGpCSkxBTG05U2FBTkc2MW56RXRpTHB0MGFnVm10UXdURWFsQUdpVklySmhYZmdnUUdnUkVZOHQyT3ZieXJlUHBGZkNBa3YtbFNBMERhaWtsQmdqSTRkUGU1Nks2MXk2N3VhdGJBX191ZUZwT3pNTFJldVJUNVpJMWpQZzBNOU5YTUtEVUQzZnJHWVRPaWpLSEg0aE5sRDRWd3ZEemw5QVM0QnVndWVyeG1XelBvSVpfMks3UWtfT0FIZkxkQ29RTmRR0gH8AUFVX3lxTE1JbEt6azRnQjJjTVgzU1pXQUdiNlBlaFYwdkhjdEdib0dwTENieHAtczBhcmJ4Y0h0RGx4VlVEdGdQb01xT1lucHRYZ0pkV3dTZWRsZV9zTVlmNWVKcnU5YnBiZVM3UjFmOGRBdUNCYUt6ZkwzYUtZM3ZESnNOSlNOcGpxMnVnbUEzVHRtbGk2bnVITzh5WkJFTXgxaDdHWFNjSFJMSWM0S29OSXJPd05NMV90aE8tMXpwTTdnTXoyMmxGTnMxaEpxVzc2MU5ZNVpYY2U3X3BTZE9XQ3ZlRUl0blhieHdoVFhmSVljek5GQ1MzYkxId1FGd3dLTA?oc=5)
 
 ---
 

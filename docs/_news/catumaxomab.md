@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Catumaxomab?">
-<strong>Catumaxomab</strong> currently has <strong>215 news articles</strong>, with 3 predicted indications.
+<strong>Catumaxomab</strong> currently has <strong>226 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,55 @@ This page combines the AI-predicted indications for Catumaxomab with the latest 
 <p><a href="{{ '/drugs/catumaxomab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (215)
+## Related News (226)
+
+### ['Cancer treatment plummeted me into menopause'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wd282c042WC1fSG11U3NUSGNIT2E4VERlSXliV0h3OHRxZFNUcjVNUVZNaWtZOFN2NEdvZk1iNkgxamhDR08wRVpiUjNxQnhYNkFkZ04tM0tEQnlXX3c?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wd282c042WC1fSG11U3NUSGNIT2E4VERlSXliV0h3OHRxZFNUcjVNUVZNaWtZOFN2NEdvZk1iNkgxamhDR08wRVpiUjNxQnhYNkFkZ04tM0tEQnlXX3c?oc=5)
+
+---
+
+### [Sport bremst das biologische Altern nach Brustkrebs - Forschung und Wissen](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc29rek0zRy1xb3VYWlJxS3c1dy0xWVptLUpkcVA4bFEtRHp6clIxUWNFZEIxOXpzOFRGbWVEUTRSUDBUc2U0bEJ4Z0FDRjBRSkVMUFVMTFlLbjFYa0JpVVRFYmdPdWtxdkNTVWN6bUM2V0YzM0VJd2N4bUZwN1VTU0R5RkhCNV81bm9UVm1DRVBMN3RyUTQ0VGJyQ2pZeEtjcGdfOUtoX3B1ZnhiTkVTQTJTZ3hZWHVP?oc=5)
+
+2026-11-08 <span class="news-indication-tag">Krebs</span>
+
+Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc29rek0zRy1xb3VYWlJxS3c1dy0xWVptLUpkcVA4bFEtRHp6clIxUWNFZEIxOXpzOFRGbWVEUTRSUDBUc2U0bEJ4Z0FDRjBRSkVMUFVMTFlLbjFYa0JpVVRFYmdPdWtxdkNTVWN6bUM2V0YzM0VJd2N4bUZwN1VTU0R5RkhCNV81bm9UVm1DRVBMN3RyUTQ0VGJyQ2pZeEtjcGdfOUtoX3B1ZnhiTkVTQTJTZ3hZWHVP?oc=5)
+
+---
+
+### [Análisis moleculares de tumores mamarios ayuda a precisar tratamiento oncológico - Noticias Venevisión](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHZEdDNmanpvYXhZeGljRE42UE8zc29qQUtFZVo2RXpjQjdHaEdDcjBnd3F0Vy1XOHJtejl5NUJBTmtHNzlGWnpneFRZUEVocVo4ZDZPYktvX08xbVc2NmNmcnh6VFVkQXpYRUFKUC1QQnZsUEZQTW1jYXVpVG8zN0IxeUxXY0FjT29TZlNMaV9qakdhRDhaRElBMVRTeVhaZXVfWEdaSV9jUkFUczBEemhhVmxoZEg0TEhzMURRMGhldzVK?oc=5)
+
+2026-11-08 <span class="news-indication-tag">tumor</span>
+
+Source: [Noticias Venevisión](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHZEdDNmanpvYXhZeGljRE42UE8zc29qQUtFZVo2RXpjQjdHaEdDcjBnd3F0Vy1XOHJtejl5NUJBTmtHNzlGWnpneFRZUEVocVo4ZDZPYktvX08xbVc2NmNmcnh6VFVkQXpYRUFKUC1QQnZsUEZQTW1jYXVpVG8zN0IxeUxXY0FjT29TZlNMaV9qakdhRDhaRElBMVRTeVhaZXVfWEdaSV9jUkFUczBEemhhVmxoZEg0TEhzMURRMGhldzVK?oc=5)
+
+---
+
+### [DIY Dalek to be auctioned for Yorkshire Cancer Research](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52dU9VbUFFQ2V1MGx1cFE0dlJJcERsc3I5NE9wQTluaUR0a3VCWUlkVkdoc1VYempjVjNRNEtMMGFHdGJLRmE2NjhnaWc5YjkwelNlRTJyc1lUdERfMVE?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52dU9VbUFFQ2V1MGx1cFE0dlJJcERsc3I5NE9wQTluaUR0a3VCWUlkVkdoc1VYempjVjNRNEtMMGFHdGJLRmE2NjhnaWc5YjkwelNlRTJyc1lUdERfMVE?oc=5)
+
+---
+
+### ["ConCiencia" aborda los nuevos tratamientos para la diabetes y un hallazgo histórico sobre los exoplanetas - Canal Sur](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcS1PXzJBbmpYS05ENlkweFRLTjBPWnlLOXhpcHFpeFpraXEwdWd2MU1XQjhSYy10Z3FsbUdDQTVVb2dKYWZwWlEzb295SWV3cWl1WmJIZmRiMXl1YWk3OWpQTHJMV1dZamtMak8xaEh0QnhJUzJWOUdFc3RReFlnVlRSa3BLMDNJWVpUWnB1eUZWb1JCOVB2cWtoRHI5dzVTTGtWMHBR?oc=5)
+
+2026-11-08 <span class="news-indication-tag">diabetes</span>
+
+Source: [Canal Sur](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcS1PXzJBbmpYS05ENlkweFRLTjBPWnlLOXhpcHFpeFpraXEwdWd2MU1XQjhSYy10Z3FsbUdDQTVVb2dKYWZwWlEzb295SWV3cWl1WmJIZmRiMXl1YWk3OWpQTHJMV1dZamtMak8xaEh0QnhJUzJWOUdFc3RReFlnVlRSa3BLMDNJWVpUWnB1eUZWb1JCOVB2cWtoRHI5dzVTTGtWMHBR?oc=5)
+
+---
+
+### [Diabete tipo 2, remissione nel 54% dei partecipanti: cosa hanno fatto davvero](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd0haVzRNeDFEb0dOcGxVclpPemhZQlpLVTlTbzVGeDdXSmtJd2hHazg1R3dGRC1oT0psWXFMQmc4M0VyZEQ4NVFzYnhvY3JRbkgzSWJaR3NGM2dMcVBPdDF6cmlSanJRQTc4Q1ZhTnkxSDlmclBsVDRNMzhwRHA4aC05LUdvWnJVZWZLNWF3ckcwOFNTYVZvVXV2X0FQZlRzRGFuRGdJMWRvWXlUZ3hsT2NBWjRZTWprM2JDLS0zdXZGaTg?oc=5)
+
+2026-11-08 <span class="news-indication-tag">diabete</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd0haVzRNeDFEb0dOcGxVclpPemhZQlpLVTlTbzVGeDdXSmtJd2hHazg1R3dGRC1oT0psWXFMQmc4M0VyZEQ4NVFzYnhvY3JRbkgzSWJaR3NGM2dMcVBPdDF6cmlSanJRQTc4Q1ZhTnkxSDlmclBsVDRNMzhwRHA4aC05LUdvWnJVZWZLNWF3ckcwOFNTYVZvVXV2X0FQZlRzRGFuRGdJMWRvWXlUZ3hsT2NBWjRZTWprM2JDLS0zdXZGaTg?oc=5)
+
+---
 
 ### [Diabetes: Implantat wirkt schon nach einer Stunde – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWG01QUUxeHRhUDZaY2dOX2pKQnFDVUtyVXVfTld3ZGRxNXlQYk8tNThpMk1mdDJGNThuT2ZISU91SFdkalFTd2VEcVd3aE1LdWZpOU05elVmeEJLU19LcjAzeW1feXRtOUpKNkFPRmxUNFdKa1VETWRkT2NYOUI5WHptNzBJMlV3UERCMUJWTjdtdFFWSTdRcVdwb0tLRzk0MjZuVTVZaHZoTm9DSVVQQVZ1UlhGR1lPMEdDN0tmR2R4YTdhaXlRamhhclFlQ3JqT0JYeWhubmpNTUE?oc=5)
 
@@ -45,11 +93,19 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWG01QUUxeHRh
 
 ---
 
-### [Análisis moleculares de tumores mamarios ayuda a precisar tratamiento oncológico - Noticias Venevisión](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHZEdDNmanpvYXhZeGljRE42UE8zc29qQUtFZVo2RXpjQjdHaEdDcjBnd3F0Vy1XOHJtejl5NUJBTmtHNzlGWnpneFRZUEVocVo4ZDZPYktvX08xbVc2NmNmcnh6VFVkQXpYRUFKUC1QQnZsUEZQTW1jYXVpVG8zN0IxeUxXY0FjT29TZlNMaV9qakdhRDhaRElBMVRTeVhaZXVfWEdaSV9jUkFUczBEemhhVmxoZEg0TEhzMURRMGhldzVK?oc=5)
+### [Un estudio revela que un simple cambio en la hora de acostarse podría ayudar a algunas personas a perder peso - Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPRldXU3ZfQk8xeGduTjdSYlZiQnpWd3h2a3h3Y3NSZ0tjMVlZTmFVYTAtZndHWlRhZ0d2VlZIQzMydHFlcTV1a0hNOWs5Q3RETDdzY2IwUElxZUVmQnMwSExrWW1LN0NON1NvVDF1Qm43bElHRHU2ZjVreEg1cDhKNEZ2VmhXTXh0OHVYSGRRVWRzdzNJSXNITXBOMzdtcEnSAaQBQVVfeXFMTjBTM1JtNGd4eXZnQXNtWHpfdDUyUjNIQ3NNbUFwcFgzMm1BU05hejVoZ0t5RGJFeElUaU90ejdVYlVVdGRuYTFhWjBYUmsyNWtpVmtfdDZqR3VxanItaXJTYlRVcWhmZXlCQkpnbll4aEkwY3lxYUExUm5fcEMwc21reV9nSFZjbEN0ZV9BQzBMbGZBRFZITDZEeVJ1ZnJEQ3hsYUI?oc=5)
 
-2026-11-08 <span class="news-indication-tag">tumor</span>
+2026-11-07 <span class="news-indication-tag">diabetes</span>
 
-Source: [Noticias Venevisión](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHZEdDNmanpvYXhZeGljRE42UE8zc29qQUtFZVo2RXpjQjdHaEdDcjBnd3F0Vy1XOHJtejl5NUJBTmtHNzlGWnpneFRZUEVocVo4ZDZPYktvX08xbVc2NmNmcnh6VFVkQXpYRUFKUC1QQnZsUEZQTW1jYXVpVG8zN0IxeUxXY0FjT29TZlNMaV9qakdhRDhaRElBMVRTeVhaZXVfWEdaSV9jUkFUczBEemhhVmxoZEg0TEhzMURRMGhldzVK?oc=5)
+Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPRldXU3ZfQk8xeGduTjdSYlZiQnpWd3h2a3h3Y3NSZ0tjMVlZTmFVYTAtZndHWlRhZ0d2VlZIQzMydHFlcTV1a0hNOWs5Q3RETDdzY2IwUElxZUVmQnMwSExrWW1LN0NON1NvVDF1Qm43bElHRHU2ZjVreEg1cDhKNEZ2VmhXTXh0OHVYSGRRVWRzdzNJSXNITXBOMzdtcEnSAaQBQVVfeXFMTjBTM1JtNGd4eXZnQXNtWHpfdDUyUjNIQ3NNbUFwcFgzMm1BU05hejVoZ0t5RGJFeElUaU90ejdVYlVVdGRuYTFhWjBYUmsyNWtpVmtfdDZqR3VxanItaXJTYlRVcWhmZXlCQkpnbll4aEkwY3lxYUExUm5fcEMwc21reV9nSFZjbEN0ZV9BQzBMbGZBRFZITDZEeVJ1ZnJEQ3hsYUI?oc=5)
+
+---
+
+### [From kiwis to squash, the fruits and vegetables you should be eating from root to tip to boost health and stop waste - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWh2VnNEdmpKNFhLNk55amQ4UXV6WktWc3JmN0dIVDNDRTJsVng4NFNYSE16cWVGOVhkaTV3alBFUjlmS0hSV0EybnpLRlBqQWRaNnhtb3FIUndjWms3bzd4TFpnTjRzTmhmTnBPNFRNdUluUUJWSm1MTUhzbjFWMklLdUxsWUwyM3VaRTJrbw?oc=5)
+
+2026-11-07 <span class="news-indication-tag">diabetes</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWh2VnNEdmpKNFhLNk55amQ4UXV6WktWc3JmN0dIVDNDRTJsVng4NFNYSE16cWVGOVhkaTV3alBFUjlmS0hSV0EybnpLRlBqQWRaNnhtb3FIUndjWms3bzd4TFpnTjRzTmhmTnBPNFRNdUluUUJWSm1MTUhzbjFWMklLdUxsWUwyM3VaRTJrbw?oc=5)
 
 ---
 
@@ -69,6 +125,14 @@ Source: [La Stampa](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOFB4eHl
 
 ---
 
+### [Tumore al pancreas, la Lombardia compra negli Usa il farmaco "che raddoppia la sopravvivenza" - The Wom Healthy](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWJUSnpXYnQ0WXRrQnFzRkFXellfNGZETHpzSjlLdkowOE91UlBfZkdKQXBNUGlfOUFYQkxPQVFUMFZkWno3VnJsYWZiUnBlVk9BZGNvS2x2dUpDb0U5Slo4RUdyWnk1SWxYVTZneVdOZlJSeVViRWh0bU55YU5xSnpwNkVNbVQzWk9jTmNSMGRHMXA3b09BalpDVEt1VFN2MGo5YkhBSlp1bHd4NEpEV3JjQTkwbDZTSjVob0ZNNDFGTnpOMWVtRndR?oc=5)
+
+2026-11-07 <span class="news-indication-tag">tumor</span>
+
+Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWJUSnpXYnQ0WXRrQnFzRkFXellfNGZETHpzSjlLdkowOE91UlBfZkdKQXBNUGlfOUFYQkxPQVFUMFZkWno3VnJsYWZiUnBlVk9BZGNvS2x2dUpDb0U5Slo4RUdyWnk1SWxYVTZneVdOZlJSeVViRWh0bU55YU5xSnpwNkVNbVQzWk9jTmNSMGRHMXA3b09BalpDVEt1VFN2MGo5YkhBSlp1bHd4NEpEV3JjQTkwbDZTSjVob0ZNNDFGTnpOMWVtRndR?oc=5)
+
+---
+
 ### [Neue Typ-2-Diabetes-Studie: Kampfansage mit Sport und Ernährung](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUUo5UjRhREF6ZGpzNDlOWkdKMjJzdkI4NVpjM0k0dVZwcTZBR1ZnMEpTdjVQVHNDQ1VsaTZlVWJEcW91V2plZWtWc0JVbXlkWUItdXQzNlNPODdUTHdaX09ua1pJdVEyTFVPYWxBOFJ1cXhvMHdHaEpyWS1PTUxNa2NpNHRtYmszN25MYndjNVlrY1MtNGFNQW9IQUlDa2lhdHpSbUxKLS1lN1VQSmlYRHNac0NkNlE0R042WXA1b1FZVjhVZzZZNg?oc=5)
 
 2026-11-07 <span class="news-indication-tag">diabetes</span>
@@ -82,6 +146,14 @@ Source: [BILD](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUUo5UjRhREF6
 2026-11-07 <span class="news-indication-tag">Krebs</span>
 
 Source: [Schwäbische.de](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRFJMN2lzY0Y4NkpQdXJodnBtY0NDcXhTSU9Yb3N2Nk03TzBJeUF1M0ZyUmdrRWN4MnhZTzFaSGtCazZDRXFPWk1DYU1oN3o0djkxVG5RYVh3ZjJjQmZZX19rdXRQcUF2NWVYOGwtbWlhd2NOZ2hINWhrRWNTTFNqOEJJd2pkMTBjcWlmYk1Ic1dCcUN5ZTZNdUVVZ3NsMFU0aG01SWVJSEtaSm8wTXJtX3c1TWZ1dnprY2pJV3VBLWMzVGdkenRBYVJ6Ykt1WFZHUDU1V1kxZFdGQkVObTBORw?oc=5)
+
+---
+
+### [Woman who lost mum and gran to cancer keeps their charity going](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Xak9MSjhvemRpakFRbVVTMWJpMzN5dy1aZk9KUEVoT2MyZHpUU1JYalR3OGs3emZtMUpMMC1ueTlpanRMUzN1c1BvQ3ZmMFhRLWdQclU1Vi1mTEVQNnc?oc=5)
+
+2026-11-07 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Xak9MSjhvemRpakFRbVVTMWJpMzN5dy1aZk9KUEVoT2MyZHpUU1JYalR3OGs3emZtMUpMMC1ueTlpanRMUzN1c1BvQ3ZmMFhRLWdQclU1Vi1mTEVQNnc?oc=5)
 
 ---
 
@@ -330,6 +402,14 @@ Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cU
 2026-11-05 <span class="news-indication-tag">cancer</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1BrSVVDd3FEZ3BFNldwN2puNEk5SHZrM3R2VVVudVluaEkwbF9fcUFNSE9DaHJOOXo3aksycjZNdGhyWW5xS0ItXzN0VmFZd1NzcDFrZmFFMVZzYmtHN2pRQndjV3JsNEFQZ1VGeHlWUWtyalNpM1haa3cyX0stWDdLNVFySzdlQk1WU25IcGF4ZzhIal9LOWIwUFhGaG1waEMxT2htcmVBUGpHX3JCMzhvNWtVQjJ1N2g2Wg?oc=5)
+
+---
+
+### [La Marató de 3Cat 2025 permite impulsar 38 proyectos de investigación de 91 equipos expertos en cáncer - Europa Press](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORnVFZUFRdHNjR3BxS1EweUpzZXoyWHdfRDFUdzZlNEIyWUI2NFZNQTZNOWk1NDF1VnZaYnIySjNVTUxya01lSzN0eHkxMG53cGN5cHFlN0tKR19hSENQZGZrY05DcUFEMWI5RTZmRGZjOGY3NEpkSXc1OVpsT3g2dWotdUJubDZYN1B4S3MtNWVwMmtJbjdmb2Q3T3VhUk4wTE1RaW1IR3ZzZ2ZJeklBQlZFbF8ybFF3U0xoT3VnRmpSMG95QWdhbUNWN1BlOWFnLVcyRE03WU9vRHJHQW1odUxESHlmQ3M?oc=5)
+
+2026-11-05 <span class="news-indication-tag">cancer</span>
+
+Source: [Europa Press](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORnVFZUFRdHNjR3BxS1EweUpzZXoyWHdfRDFUdzZlNEIyWUI2NFZNQTZNOWk1NDF1VnZaYnIySjNVTUxya01lSzN0eHkxMG53cGN5cHFlN0tKR19hSENQZGZrY05DcUFEMWI5RTZmRGZjOGY3NEpkSXc1OVpsT3g2dWotdUJubDZYN1B4S3MtNWVwMmtJbjdmb2Q3T3VhUk4wTE1RaW1IR3ZzZ2ZJeklBQlZFbF8ybFF3U0xoT3VnRmpSMG95QWdhbUNWN1BlOWFnLVcyRE03WU9vRHJHQW1odUxESHlmQ3M?oc=5)
 
 ---
 
@@ -898,6 +978,14 @@ Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/C
 2026-11-03 <span class="news-indication-tag">tumor</span>
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMixAFBVV95cUxPY3lub3JTcnNHODBaRUVlYmN3R2JuMHBUSy12d3Zad3p2SUR6M09JYlJwZXNJSTRULU9jWm8wVEJWYkptZnllR2FzbjQzSU1TejZXblR0QVRUMUFjN21XQlQtLXBhUkFTODUwOGpTVzRMVzRBR3dGR3ZuNVVzRHExN3FQTmtzNWlEN2tEMUtwZWtJZ2thd1JvNmxpSWpjaU5hdnROM0dQY0NGajYzemVnZi02d0VvVVlES20tS1AyckdLRE9j?oc=5)
+
+---
+
+### [Los expertos oncólogos españoles hallan una nueva terapia para frenar el tumor de hígado más común - El Economista](https://news.google.com/rss/articles/CBMikgJBVV95cUxQTkJXZlkxOTlxWVItM3lPTGpkYjVoVEIyM2JhdTBEcjRCNDQxZUdLdmFKT0dGMXRtSmltTDBCWVM4Umt4cUNtb3NSQTRVc3BHUGpCSkxBTG05U2FBTkc2MW56RXRpTHB0MGFnVm10UXdURWFsQUdpVklySmhYZmdnUUdnUkVZOHQyT3ZieXJlUHBGZkNBa3YtbFNBMERhaWtsQmdqSTRkUGU1Nks2MXk2N3VhdGJBX191ZUZwT3pNTFJldVJUNVpJMWpQZzBNOU5YTUtEVUQzZnJHWVRPaWpLSEg0aE5sRDRWd3ZEemw5QVM0QnVndWVyeG1XelBvSVpfMks3UWtfT0FIZkxkQ29RTmRR0gH8AUFVX3lxTE1JbEt6azRnQjJjTVgzU1pXQUdiNlBlaFYwdkhjdEdib0dwTENieHAtczBhcmJ4Y0h0RGx4VlVEdGdQb01xT1lucHRYZ0pkV3dTZWRsZV9zTVlmNWVKcnU5YnBiZVM3UjFmOGRBdUNCYUt6ZkwzYUtZM3ZESnNOSlNOcGpxMnVnbUEzVHRtbGk2bnVITzh5WkJFTXgxaDdHWFNjSFJMSWM0S29OSXJPd05NMV90aE8tMXpwTTdnTXoyMmxGTnMxaEpxVzc2MU5ZNVpYY2U3X3BTZE9XQ3ZlRUl0blhieHdoVFhmSVljek5GQ1MzYkxId1FGd3dLTA?oc=5)
+
+2026-11-03 <span class="news-indication-tag">carcinoma</span>
+
+Source: [El Economista](https://news.google.com/rss/articles/CBMikgJBVV95cUxQTkJXZlkxOTlxWVItM3lPTGpkYjVoVEIyM2JhdTBEcjRCNDQxZUdLdmFKT0dGMXRtSmltTDBCWVM4Umt4cUNtb3NSQTRVc3BHUGpCSkxBTG05U2FBTkc2MW56RXRpTHB0MGFnVm10UXdURWFsQUdpVklySmhYZmdnUUdnUkVZOHQyT3ZieXJlUHBGZkNBa3YtbFNBMERhaWtsQmdqSTRkUGU1Nks2MXk2N3VhdGJBX191ZUZwT3pNTFJldVJUNVpJMWpQZzBNOU5YTUtEVUQzZnJHWVRPaWpLSEg0aE5sRDRWd3ZEemw5QVM0QnVndWVyeG1XelBvSVpfMks3UWtfT0FIZkxkQ29RTmRR0gH8AUFVX3lxTE1JbEt6azRnQjJjTVgzU1pXQUdiNlBlaFYwdkhjdEdib0dwTENieHAtczBhcmJ4Y0h0RGx4VlVEdGdQb01xT1lucHRYZ0pkV3dTZWRsZV9zTVlmNWVKcnU5YnBiZVM3UjFmOGRBdUNCYUt6ZkwzYUtZM3ZESnNOSlNOcGpxMnVnbUEzVHRtbGk2bnVITzh5WkJFTXgxaDdHWFNjSFJMSWM0S29OSXJPd05NMV90aE8tMXpwTTdnTXoyMmxGTnMxaEpxVzc2MU5ZNVpYY2U3X3BTZE9XQ3ZlRUl0blhieHdoVFhmSVljek5GQ1MzYkxId1FGd3dLTA?oc=5)
 
 ---
 

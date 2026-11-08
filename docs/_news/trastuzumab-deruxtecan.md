@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Trastuzumab Deruxtecan. 1 predicted indications."
 permalink: /news/trastuzumab-deruxtecan/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # Trastuzumab Deruxtecan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Trastuzumab Deruxtecan?">
-<strong>Trastuzumab Deruxtecan</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
+<strong>Trastuzumab Deruxtecan</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,7 @@ This page combines the AI-predicted indications for Trastuzumab Deruxtecan with 
 
 </div>
 
-## Related News (5)
-
-### [La Oncología española, lista para incorporar el nuevo fármaco que reduce un 50% las recaídas en cáncer de mama - Redacción médica](https://news.google.com/rss/articles/CBMijgJBVV95cUxNZkE2UklZTzdiSktTMnlfU0lCcXRqbV9ZUHVIT0V3VWRHUEhFUk1tOE9vWUtmQ1htQjJSMXhFaW5UQ2w0Rm5GSmRVd1Y4TkZraGRjZlVJLVdQMUVxTHR2aHRWUzVua3Q5UGpiTDBpTS12d2FxN0FTV3MyX3pIQnh1TENXRGNGd24zQkdETGk1d0NZTG1GclBwVF9UdFFqTS1PcW5uYS0yaXktdVdUeTlyT3hDaWM4bzhGWTFZWmJMMlRxY2xsUXYtZ2oyakh6RDlSaFVzenR4eHh3bC1tVHRlb1BNV2VaX2RhZXFnWUdrVnZHSjR3YWY1R3A5SzhsTlpEWDhpSGZTVnFyUDRWaHfSAZMCQVVfeXFMUDNaR052TXgxSG9BdG5Xd3ZMZ3hueHpyUTBjNzQwRUZJazF2T2E1VzRXUk1EeGxpTFdidjEwU05wbV9TTEdsdlNYRFJtR0xqSkZPemlvVHR1RU5jUUxmcmpjZ2l1QzBxM3kzRkNjUE16anRyLTVQQXJTSEtyd0tWdmxyVzNLeWdJRmF4LVU4RjZpZTVpRzV6eHU5bDF1Ykh0X3poeEJRU2JMc2M1elBWR1E4Zi1WYjV6ZEZ5c012dDZFVjRzVnBOb0JrbEdFSnpmc3RWTFV5M3VqazlTYV82SWJ2c0lUaGN5UmJQYmR5REdRRHRta050ZVFiT3NwSHZhZXFwczJ6VFBZbmpSNjNDRm8zUUE?oc=5)
-
-2026-11-06 <span class="news-drug-tag">Trastuzumab</span> <span class="news-drug-tag">Trastuzumab Deruxtecan</span>
-
-Source: [Redacción médica](https://news.google.com/rss/articles/CBMijgJBVV95cUxNZkE2UklZTzdiSktTMnlfU0lCcXRqbV9ZUHVIT0V3VWRHUEhFUk1tOE9vWUtmQ1htQjJSMXhFaW5UQ2w0Rm5GSmRVd1Y4TkZraGRjZlVJLVdQMUVxTHR2aHRWUzVua3Q5UGpiTDBpTS12d2FxN0FTV3MyX3pIQnh1TENXRGNGd24zQkdETGk1d0NZTG1GclBwVF9UdFFqTS1PcW5uYS0yaXktdVdUeTlyT3hDaWM4bzhGWTFZWmJMMlRxY2xsUXYtZ2oyakh6RDlSaFVzenR4eHh3bC1tVHRlb1BNV2VaX2RhZXFnWUdrVnZHSjR3YWY1R3A5SzhsTlpEWDhpSGZTVnFyUDRWaHfSAZMCQVVfeXFMUDNaR052TXgxSG9BdG5Xd3ZMZ3hueHpyUTBjNzQwRUZJazF2T2E1VzRXUk1EeGxpTFdidjEwU05wbV9TTEdsdlNYRFJtR0xqSkZPemlvVHR1RU5jUUxmcmpjZ2l1QzBxM3kzRkNjUE16anRyLTVQQXJTSEtyd0tWdmxyVzNLeWdJRmF4LVU4RjZpZTVpRzV6eHU5bDF1Ykh0X3poeEJRU2JMc2M1elBWR1E4Zi1WYjV6ZEZ5c012dDZFVjRzVnBOb0JrbEdFSnpmc3RWTFV5M3VqazlTYV82SWJ2c0lUaGN5UmJQYmR5REdRRHRta050ZVFiT3NwSHZhZXFwczJ6VFBZbmpSNjNDRm8zUUE?oc=5)
-
----
+## Related News (4)
 
 ### [Un hito que acerca la cronificación del cáncer de mama metastásico: un nuevo avance en primera línea en más de una década](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdkhocHg4eWFsanloczN2MWdaUlNEQ3JVTDNlcEJ4QnNOZVpWdFVnaGE3ZmwwNEtocjdfZDB3aXFpdlhaNDZWMk5ab1FoY0s0Sm1sdmFndkpxTC1yU1RZOVFHcGx2ZTVoVHdFa2RTMVlwN0MxelBNR2FIN1lXY2k3NHlLbW1wbHBCelpSUnc1UHM4Qmtvb3lpLTlCY1JaRkg1VFR5Vk1LaDE5Y3gwWWlwLTZCUGZtaXliMmVzalh0WEhmdFNSbXFIcjlQT1FKWTZHeW5wNms0bXJnMGJSREQteQ?oc=5)
 

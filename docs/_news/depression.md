@@ -3,7 +3,7 @@ layout: default
 title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 21 articles, 7 related drugs."
+description: "Health news about depresión (depression). 22 articles, 7 related drugs."
 permalink: /news/depression/
 last_modified_at: 2026-11-08
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>21 news articles</strong> and 7 related drugs.
+<strong>depresión (depression)</strong> currently has <strong>22 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “depresión” and list
 </ul>
 </div>
 
-## Related News (21)
+## Related News (22)
+
+### [La clave contra la depresión hereditaria podría estar en la actividad física - 65 y más](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVp3QnRwczhXRTNvMUpZdnhsZzhtRndFNm1hOGxmWFZnYVlPSzFYd0k4b2JGVTZpMDg5ZWduQjFYR2hlZGUwMzdKa25hWGZkcjZZS0stUWdHWmZnMmhoOUdpRVlJcldtUlZZeWFJUWd2OWhpY2xmbDhxbklrQldUV084Z3g2Mk1UYnNqTVg0dkVFVC11QWEyc2xTYUx1LWFMamdyS2tZaVltSU1fVTBYdQ?oc=5)
+
+2026-11-08
+
+Source: [65 y más](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVp3QnRwczhXRTNvMUpZdnhsZzhtRndFNm1hOGxmWFZnYVlPSzFYd0k4b2JGVTZpMDg5ZWduQjFYR2hlZGUwMzdKa25hWGZkcjZZS0stUWdHWmZnMmhoOUdpRVlJcldtUlZZeWFJUWd2OWhpY2xmbDhxbklrQldUV084Z3g2Mk1UYnNqTVg0dkVFVC11QWEyc2xTYUx1LWFMamdyS2tZaVltSU1fVTBYdQ?oc=5)
+
+---
 
 ### [Alzheimer, Depressionen, Ängste: So wirksam ist Ginseng](https://news.google.com/rss/articles/CBMirwFBVV95cUxNR19nN3NBLXBnVkZ3dFpvNzY1cmlueFo0bXFTejFVNmxMeERZYVBWWjNiaVotX0lhSDhURHdETXB5LVFlRDNOSGRmbUxWS3NRM2hUQUVNZVBqZ1U0X1RZbFZfdExZelo0LUNqb0lvdG5ncXA4VFh6bUdJbmx6T3lMTVJHalYyQ0RWSmxUZmlKWWYyYktkdTJJaWxkbFozMkJxNGV3ckk4WUM1ekRwOVJz?oc=5)
 

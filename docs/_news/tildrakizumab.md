@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Tildrakizumab?">
-<strong>Tildrakizumab</strong> currently has <strong>66 news articles</strong>, with 4 predicted indications.
+<strong>Tildrakizumab</strong> currently has <strong>70 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,45 @@ This page combines the AI-predicted indications for Tildrakizumab with the lates
 <p><a href="{{ '/drugs/tildrakizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (66)
+## Related News (70)
+
+### ["ConCiencia" aborda los nuevos tratamientos para la diabetes y un hallazgo histórico sobre los exoplanetas - Canal Sur](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcS1PXzJBbmpYS05ENlkweFRLTjBPWnlLOXhpcHFpeFpraXEwdWd2MU1XQjhSYy10Z3FsbUdDQTVVb2dKYWZwWlEzb295SWV3cWl1WmJIZmRiMXl1YWk3OWpQTHJMV1dZamtMak8xaEh0QnhJUzJWOUdFc3RReFlnVlRSa3BLMDNJWVpUWnB1eUZWb1JCOVB2cWtoRHI5dzVTTGtWMHBR?oc=5)
+
+2026-11-08 <span class="news-indication-tag">diabetes</span>
+
+Source: [Canal Sur](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcS1PXzJBbmpYS05ENlkweFRLTjBPWnlLOXhpcHFpeFpraXEwdWd2MU1XQjhSYy10Z3FsbUdDQTVVb2dKYWZwWlEzb295SWV3cWl1WmJIZmRiMXl1YWk3OWpQTHJMV1dZamtMak8xaEh0QnhJUzJWOUdFc3RReFlnVlRSa3BLMDNJWVpUWnB1eUZWb1JCOVB2cWtoRHI5dzVTTGtWMHBR?oc=5)
+
+---
+
+### [Diabete tipo 2, remissione nel 54% dei partecipanti: cosa hanno fatto davvero](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd0haVzRNeDFEb0dOcGxVclpPemhZQlpLVTlTbzVGeDdXSmtJd2hHazg1R3dGRC1oT0psWXFMQmc4M0VyZEQ4NVFzYnhvY3JRbkgzSWJaR3NGM2dMcVBPdDF6cmlSanJRQTc4Q1ZhTnkxSDlmclBsVDRNMzhwRHA4aC05LUdvWnJVZWZLNWF3ckcwOFNTYVZvVXV2X0FQZlRzRGFuRGdJMWRvWXlUZ3hsT2NBWjRZTWprM2JDLS0zdXZGaTg?oc=5)
+
+2026-11-08 <span class="news-indication-tag">diabete</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd0haVzRNeDFEb0dOcGxVclpPemhZQlpLVTlTbzVGeDdXSmtJd2hHazg1R3dGRC1oT0psWXFMQmc4M0VyZEQ4NVFzYnhvY3JRbkgzSWJaR3NGM2dMcVBPdDF6cmlSanJRQTc4Q1ZhTnkxSDlmclBsVDRNMzhwRHA4aC05LUdvWnJVZWZLNWF3ckcwOFNTYVZvVXV2X0FQZlRzRGFuRGdJMWRvWXlUZ3hsT2NBWjRZTWprM2JDLS0zdXZGaTg?oc=5)
+
+---
 
 ### [Diabetes: Implantat wirkt schon nach einer Stunde – doch es gibt einen Haken](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWG01QUUxeHRhUDZaY2dOX2pKQnFDVUtyVXVfTld3ZGRxNXlQYk8tNThpMk1mdDJGNThuT2ZISU91SFdkalFTd2VEcVd3aE1LdWZpOU05elVmeEJLU19LcjAzeW1feXRtOUpKNkFPRmxUNFdKa1VETWRkT2NYOUI5WHptNzBJMlV3UERCMUJWTjdtdFFWSTdRcVdwb0tLRzk0MjZuVTVZaHZoTm9DSVVQQVZ1UlhGR1lPMEdDN0tmR2R4YTdhaXlRamhhclFlQ3JqT0JYeWhubmpNTUE?oc=5)
 
 2026-11-08 <span class="news-indication-tag">diabetes</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWG01QUUxeHRhUDZaY2dOX2pKQnFDVUtyVXVfTld3ZGRxNXlQYk8tNThpMk1mdDJGNThuT2ZISU91SFdkalFTd2VEcVd3aE1LdWZpOU05elVmeEJLU19LcjAzeW1feXRtOUpKNkFPRmxUNFdKa1VETWRkT2NYOUI5WHptNzBJMlV3UERCMUJWTjdtdFFWSTdRcVdwb0tLRzk0MjZuVTVZaHZoTm9DSVVQQVZ1UlhGR1lPMEdDN0tmR2R4YTdhaXlRamhhclFlQ3JqT0JYeWhubmpNTUE?oc=5)
+
+---
+
+### [Un estudio revela que un simple cambio en la hora de acostarse podría ayudar a algunas personas a perder peso - Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPRldXU3ZfQk8xeGduTjdSYlZiQnpWd3h2a3h3Y3NSZ0tjMVlZTmFVYTAtZndHWlRhZ0d2VlZIQzMydHFlcTV1a0hNOWs5Q3RETDdzY2IwUElxZUVmQnMwSExrWW1LN0NON1NvVDF1Qm43bElHRHU2ZjVreEg1cDhKNEZ2VmhXTXh0OHVYSGRRVWRzdzNJSXNITXBOMzdtcEnSAaQBQVVfeXFMTjBTM1JtNGd4eXZnQXNtWHpfdDUyUjNIQ3NNbUFwcFgzMm1BU05hejVoZ0t5RGJFeElUaU90ejdVYlVVdGRuYTFhWjBYUmsyNWtpVmtfdDZqR3VxanItaXJTYlRVcWhmZXlCQkpnbll4aEkwY3lxYUExUm5fcEMwc21reV9nSFZjbEN0ZV9BQzBMbGZBRFZITDZEeVJ1ZnJEQ3hsYUI?oc=5)
+
+2026-11-07 <span class="news-indication-tag">diabetes</span>
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPRldXU3ZfQk8xeGduTjdSYlZiQnpWd3h2a3h3Y3NSZ0tjMVlZTmFVYTAtZndHWlRhZ0d2VlZIQzMydHFlcTV1a0hNOWs5Q3RETDdzY2IwUElxZUVmQnMwSExrWW1LN0NON1NvVDF1Qm43bElHRHU2ZjVreEg1cDhKNEZ2VmhXTXh0OHVYSGRRVWRzdzNJSXNITXBOMzdtcEnSAaQBQVVfeXFMTjBTM1JtNGd4eXZnQXNtWHpfdDUyUjNIQ3NNbUFwcFgzMm1BU05hejVoZ0t5RGJFeElUaU90ejdVYlVVdGRuYTFhWjBYUmsyNWtpVmtfdDZqR3VxanItaXJTYlRVcWhmZXlCQkpnbll4aEkwY3lxYUExUm5fcEMwc21reV9nSFZjbEN0ZV9BQzBMbGZBRFZITDZEeVJ1ZnJEQ3hsYUI?oc=5)
+
+---
+
+### [From kiwis to squash, the fruits and vegetables you should be eating from root to tip to boost health and stop waste - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWh2VnNEdmpKNFhLNk55amQ4UXV6WktWc3JmN0dIVDNDRTJsVng4NFNYSE16cWVGOVhkaTV3alBFUjlmS0hSV0EybnpLRlBqQWRaNnhtb3FIUndjWms3bzd4TFpnTjRzTmhmTnBPNFRNdUluUUJWSm1MTUhzbjFWMklLdUxsWUwyM3VaRTJrbw?oc=5)
+
+2026-11-07 <span class="news-indication-tag">diabetes</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWh2VnNEdmpKNFhLNk55amQ4UXV6WktWc3JmN0dIVDNDRTJsVng4NFNYSE16cWVGOVhkaTV3alBFUjlmS0hSV0EybnpLRlBqQWRaNnhtb3FIUndjWms3bzd4TFpnTjRzTmhmTnBPNFRNdUluUUJWSm1MTUhzbjFWMklLdUxsWUwyM3VaRTJrbw?oc=5)
 
 ---
 

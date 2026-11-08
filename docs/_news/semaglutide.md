@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>20 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>21 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (20)
+## Related News (21)
+
+### [Les médicaments contre l'obésité comme Ozempic mènent-ils au divorce?](https://news.google.com/rss/articles/CBMiogFBVV95cUxQR25lU2pBeVVrTlRJenJiWTRaVUhjM3pQVTdNQ1VmZ1RKTV9jYURqMTZzcGM0Z2xJdmpLMS1sNzdCRUF4YWl0YTQ0bk5iUUN5MXBsZUpiTmpha0RtZEVrdGpHcjFPMXluVDVRelRFMnh3WE0zN2hpWi1uMWtnckxDeDBPTG54MHBMUUxTbU1VYlZWd25BYndYd0YxbmhQZG45cXc?oc=5)
+
+2026-11-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Slate.fr](https://news.google.com/rss/articles/CBMiogFBVV95cUxQR25lU2pBeVVrTlRJenJiWTRaVUhjM3pQVTdNQ1VmZ1RKTV9jYURqMTZzcGM0Z2xJdmpLMS1sNzdCRUF4YWl0YTQ0bk5iUUN5MXBsZUpiTmpha0RtZEVrdGpHcjFPMXluVDVRelRFMnh3WE0zN2hpWi1uMWtnckxDeDBPTG54MHBMUUxTbU1VYlZWd25BYndYd0YxbmhQZG45cXc?oc=5)
+
+---
 
 ### [Remboursement de l'obésité : l'enveloppe de 100 millions annoncée par la ministre finance au mieux 1 patient éligible sur 15](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk1TYmJZaDZSb2VsQ1BwVF9sZ2NVMTBnOEEyN0h6NFVxazlPdzdRWWR5TTdJdWZYRUQ5bDZsUlJwRGhNZVQzeURhSy1wZlhrOFBWdGNtVzBmakEwQkczNmFKcmJuYVlOT2tXenRncl9iYnZQbGI3bmRoVW5jdXc1dUJOMklpYnFJQXp0aGx2TFg1QUZpTkUwX243NVB5WUtJcDQ5SHlTR045dkhQQ0NZQ01QT2djQzUt?oc=5)
 

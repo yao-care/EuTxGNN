@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>97 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>100 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,23 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (97)
+## Related News (100)
+
+### [Medizinischer Fortschritt: Weniger Todesfälle durch Herzinfarkt und Schlaganfall](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWxya0J2NDZLV1pEMXlaZEE5YkRlU3pxSkY4bGFseU9UN0JaUjlLcHM1NDFsSmZCY3oxUWdFcVVmbUNjQURBZ09JelY5WTRHaG5qck00YnJwdzRGeWFvNWJ5WGFVcHRtd000YTRYQk9pUWcwTXhJVlFaM0FKMElBTDZlckxsOHhtNngzdDZfbkM1dUhoY1BXYnJDOENWamJVeTBpSEZDa0g2WmFTal9xcVBGOVVqTXBoMXdRVGd6cw?oc=5)
+
+2026-11-08 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [OSTHESSEN|NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWxya0J2NDZLV1pEMXlaZEE5YkRlU3pxSkY4bGFseU9UN0JaUjlLcHM1NDFsSmZCY3oxUWdFcVVmbUNjQURBZ09JelY5WTRHaG5qck00YnJwdzRGeWFvNWJ5WGFVcHRtd000YTRYQk9pUWcwTXhJVlFaM0FKMElBTDZlckxsOHhtNngzdDZfbkM1dUhoY1BXYnJDOENWamJVeTBpSEZDa0g2WmFTal9xcVBGOVVqTXBoMXdRVGd6cw?oc=5)
+
+---
+
+### [Les médicaments contre l'obésité comme Ozempic mènent-ils au divorce?](https://news.google.com/rss/articles/CBMiogFBVV95cUxQR25lU2pBeVVrTlRJenJiWTRaVUhjM3pQVTdNQ1VmZ1RKTV9jYURqMTZzcGM0Z2xJdmpLMS1sNzdCRUF4YWl0YTQ0bk5iUUN5MXBsZUpiTmpha0RtZEVrdGpHcjFPMXluVDVRelRFMnh3WE0zN2hpWi1uMWtnckxDeDBPTG54MHBMUUxTbU1VYlZWd25BYndYd0YxbmhQZG45cXc?oc=5)
+
+2026-11-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Slate.fr](https://news.google.com/rss/articles/CBMiogFBVV95cUxQR25lU2pBeVVrTlRJenJiWTRaVUhjM3pQVTdNQ1VmZ1RKTV9jYURqMTZzcGM0Z2xJdmpLMS1sNzdCRUF4YWl0YTQ0bk5iUUN5MXBsZUpiTmpha0RtZEVrdGpHcjFPMXluVDVRelRFMnh3WE0zN2hpWi1uMWtnckxDeDBPTG54MHBMUUxTbU1VYlZWd25BYndYd0YxbmhQZG45cXc?oc=5)
+
+---
 
 ### [Remboursement de l'obésité : l'enveloppe de 100 millions annoncée par la ministre finance au mieux 1 patient éligible sur 15](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk1TYmJZaDZSb2VsQ1BwVF9sZ2NVMTBnOEEyN0h6NFVxazlPdzdRWWR5TTdJdWZYRUQ5bDZsUlJwRGhNZVQzeURhSy1wZlhrOFBWdGNtVzBmakEwQkczNmFKcmJuYVlOT2tXenRncl9iYnZQbGI3bmRoVW5jdXc1dUJOMklpYnFJQXp0aGx2TFg1QUZpTkUwX243NVB5WUtJcDQ5SHlTR045dkhQQ0NZQ01QT2djQzUt?oc=5)
 
@@ -288,6 +304,14 @@ Source: [Canal Sur](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlMxcWJ
 2026-11-04 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUVFKZUNJNVFnY3JTcWdMSmVVbEN5eUZOdzlaeUtQSGRaTEROeTZXbTB6Y09XUTB6NGxDd2s4UFFpRmJEUTdkSTY3dXNwblNlX2dxZlVRbGdKN3Zob05QcHNKM0RfUkxWWkFuNXc2WGtGRV9xLXlUMVBtajdjLTFDMnpvbU9IRkpZZlJZMW5fSXozTjJUcjhYU2RmQkZWajZueEVZTTFUblVfYktvQlVETVF0VlVsNVZNVU5wRVdwM2FNMUdXTWhGZWlVcXBzYlFqZFpjRHkzM3VHYTZZLVZTc1VlWkJBbk9V?oc=5)
+
+---
+
+### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
 ---
 

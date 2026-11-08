@@ -152,7 +152,7 @@ Source: [El Economista](https://news.google.com/rss/articles/CBMixAJBVV95cUxQSUR
 
 ### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
-2026-11-04 <span class="news-indication-tag">Bluthochdruck</span>
+2026-11-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
