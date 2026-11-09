@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>97 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>103 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (97)
+## Related News (103)
+
+### [Kälteeinbruch: Herzrisiko steigt in den ersten 48 Stunden besonders stark](https://news.google.com/rss/articles/CBMivwFBVV95cUxQajVlekRuREF4NFBOcFgtRTBNVGxlRDlzSEVBLUZkLWF3MEo4b3RhM281bXlFak0wRVctS1V2cWMyb2N3bHBPckxKd0RNU1NGcmxGWWJKU3ZWcXNuaVdKejdNUW5pLUJ2S0hmX0g3d2NfTkEzT2wteDhKMWhxX0JCR3ByN3Nmc0hHVnhETjh6Wm5VOGtSSGIwRlI3OVhMc09ZVXdVRFN6VnpTV3Jlc3dEckN6QXZMVEs2MnZiM2xfTQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQajVlekRuREF4NFBOcFgtRTBNVGxlRDlzSEVBLUZkLWF3MEo4b3RhM281bXlFak0wRVctS1V2cWMyb2N3bHBPckxKd0RNU1NGcmxGWWJKU3ZWcXNuaVdKejdNUW5pLUJ2S0hmX0g3d2NfTkEzT2wteDhKMWhxX0JCR3ByN3Nmc0hHVnhETjh6Wm5VOGtSSGIwRlI3OVhMc09ZVXdVRFN6VnpTV3Jlc3dEckN6QXZMVEs2MnZiM2xfTQ?oc=5)
+
+---
+
+### [Mantener un horario regular de sueño ayuda a proteger la salud del corazón](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">ictus</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
+
+---
 
 ### [Bluthochdruck: Einzelpillen senken den systolischen Wert um 10,1 mm Hg stärker](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDhhOWFndWctbTRQdEdyeXlfaVBvMjhid2hfand4LW1CS004R3Q2ZFdLcU9IUDF1c3dNSVlGdHJNOHRpSnhCeW5VWk80dEVWWkdTNlB5Q0RCY2QtVmN3cnJaSFp6Nl9peXNYOXM2eVh2M2dpcWk5d1BudTBrLXd6RmdxZUFPOHFzc1drdXVEQURzQ2dJU1FUbmVOTGFvYmI4NTdWTzdJT2VydU15b3BjbHI3ejVkOEwtVE8wSUVNR0FwR25fS1E?oc=5)
 
@@ -56,6 +72,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSD
 2026-11-08 <span class="news-indication-tag">high blood pressure</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
+
+---
+
+### [Mammograms May Offer Early Insight Into Cardiovascular Disease](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVRDVDdtU21oRGZrQ01Zb3FBX1ZGSm5RZTlQVGZ3Si01NTlXbjhPMFVjMW5GTzZrV2RuMnVPMlVFc3I2M2tnVy02c3d3NGk2TmNJMTloemJTclhDdVAwRjBJcmVVTm1HRjdtbERneWlhQ1hBNEFuSGo2eGRPOXJuRzZGNGFEbHQ5WGMzVkZOcWd6cElrS0VWWjh6bWc1dVk?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cardiovascular disease</span>
+
+Source: [Healthline](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVRDVDdtU21oRGZrQ01Zb3FBX1ZGSm5RZTlQVGZ3Si01NTlXbjhPMFVjMW5GTzZrV2RuMnVPMlVFc3I2M2tnVy02c3d3NGk2TmNJMTloemJTclhDdVAwRjBJcmVVTm1HRjdtbERneWlhQ1hBNEFuSGo2eGRPOXJuRzZGNGFEbHQ5WGMzVkZOcWd6cElrS0VWWjh6bWc1dVk?oc=5)
 
 ---
 
@@ -80,6 +104,22 @@ Source: [La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRIblR
 2026-11-08 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [OSTHESSEN|NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWxya0J2NDZLV1pEMXlaZEE5YkRlU3pxSkY4bGFseU9UN0JaUjlLcHM1NDFsSmZCY3oxUWdFcVVmbUNjQURBZ09JelY5WTRHaG5qck00YnJwdzRGeWFvNWJ5WGFVcHRtd000YTRYQk9pUWcwTXhJVlFaM0FKMElBTDZlckxsOHhtNngzdDZfbkM1dUhoY1BXYnJDOENWamJVeTBpSEZDa0g2WmFTal9xcVBGOVVqTXBoMXdRVGd6cw?oc=5)
+
+---
+
+### [AVC : comment reconnaître les signes et pourquoi agir rapidement est la clé](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQdUJHRjJmY3pid0tENlhqWTR4VXNkSUJjaDdxZEVUcjU5cnpUaWJXaDlEMWpiSnFRNV9QRllqcUxENk84TXd1cHZQNDZJTGVJaXpiVlc0OHBrMjFWVUtpdzlsOHdZa0RPUGNtdWxwWjZUc3c?oc=5)
+
+2026-11-08 <span class="news-indication-tag">accident vasculaire cérébral</span>
+
+Source: [Linternaute.com](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQdUJHRjJmY3pid0tENlhqWTR4VXNkSUJjaDdxZEVUcjU5cnpUaWJXaDlEMWpiSnFRNV9QRllqcUxENk84TXd1cHZQNDZJTGVJaXpiVlc0OHBrMjFWVUtpdzlsOHdZa0RPUGNtdWxwWjZUc3c?oc=5)
+
+---
+
+### [Schlaganfall-Prävention: Zehn beeinflussbare Faktoren hängen mit 90,7 Prozent zusammen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
 
 ---
 
@@ -301,7 +341,7 @@ Source: [El Economista](https://news.google.com/rss/articles/CBMixAJBVV95cUxQSUR
 
 ### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
-2026-11-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-11-04 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
@@ -480,6 +520,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVB3T
 2026-11-03 <span class="news-indication-tag">stroke</span>
 
 Source: [EatingWell](https://news.google.com/rss/articles/CBMifEFVX3lxTFBfMWxQOVRUWEZWQ24wUXNOaEhteHB3Q0NnXzZKQ2RIMjdZUnZJWWxMSm5QM1BocVcyN1FEWE9CcXBPZ0VLOVFtZHhJNFJkRkYtUk1ZSlp6STQ0cTBmd3hfS0MxWUgwOHVfTVF4OHhodTlMWFRES28yTWhZUDQ?oc=5)
+
+---
+
+### [Blutdruck-Check ab 35: Gesetzlich Versicherte haben alle drei Jahre Anspruch](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFNvRXRIbDdELUcwUFRBQWp2Wk1ubkhMZllDVHpXWHBhdjBwWWU0X0tkd0tJX0lqbEFTYUhnS2M2WU9DMHRibXRQaDRiTjNTZGNnWk1VM0djMmZXZFFSVDlNWDFCY1Jicm1haFhKUEJla2c3aEtRN25wd1R1VzV1OHA1THliQ19TajlPcE5KdGtIa25qa2JHblZIaU0yaFdyN0pKUkRMYm9sQk1XRmpDSUVid3ZrejctVU1fQWx4V2JWQQ?oc=5)
+
+2026-11-02 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFNvRXRIbDdELUcwUFRBQWp2Wk1ubkhMZllDVHpXWHBhdjBwWWU0X0tkd0tJX0lqbEFTYUhnS2M2WU9DMHRibXRQaDRiTjNTZGNnWk1VM0djMmZXZFFSVDlNWDFCY1Jicm1haFhKUEJla2c3aEtRN25wd1R1VzV1OHA1THliQ19TajlPcE5KdGtIa25qa2JHblZIaU0yaFdyN0pKUkRMYm9sQk1XRmpDSUVid3ZrejctVU1fQWx4V2JWQQ?oc=5)
 
 ---
 

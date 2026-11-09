@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Idebenone?">
-<strong>Idebenone</strong> currently has <strong>39 news articles</strong>, with 10 predicted indications.
+<strong>Idebenone</strong> currently has <strong>41 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Idebenone with the latest he
 <p><a href="{{ '/drugs/idebenone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (39)
+## Related News (41)
+
+### [Kälteeinbruch: Herzrisiko steigt in den ersten 48 Stunden besonders stark](https://news.google.com/rss/articles/CBMivwFBVV95cUxQajVlekRuREF4NFBOcFgtRTBNVGxlRDlzSEVBLUZkLWF3MEo4b3RhM281bXlFak0wRVctS1V2cWMyb2N3bHBPckxKd0RNU1NGcmxGWWJKU3ZWcXNuaVdKejdNUW5pLUJ2S0hmX0g3d2NfTkEzT2wteDhKMWhxX0JCR3ByN3Nmc0hHVnhETjh6Wm5VOGtSSGIwRlI3OVhMc09ZVXdVRFN6VnpTV3Jlc3dEckN6QXZMVEs2MnZiM2xfTQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQajVlekRuREF4NFBOcFgtRTBNVGxlRDlzSEVBLUZkLWF3MEo4b3RhM281bXlFak0wRVctS1V2cWMyb2N3bHBPckxKd0RNU1NGcmxGWWJKU3ZWcXNuaVdKejdNUW5pLUJ2S0hmX0g3d2NfTkEzT2wteDhKMWhxX0JCR3ByN3Nmc0hHVnhETjh6Wm5VOGtSSGIwRlI3OVhMc09ZVXdVRFN6VnpTV3Jlc3dEckN6QXZMVEs2MnZiM2xfTQ?oc=5)
+
+---
 
 ### [Bluthochdruck: Einzelpillen senken den systolischen Wert um 10,1 mm Hg stärker](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDhhOWFndWctbTRQdEdyeXlfaVBvMjhid2hfand4LW1CS004R3Q2ZFdLcU9IUDF1c3dNSVlGdHJNOHRpSnhCeW5VWk80dEVWWkdTNlB5Q0RCY2QtVmN3cnJaSFp6Nl9peXNYOXM2eVh2M2dpcWk5d1BudTBrLXd6RmdxZUFPOHFzc1drdXVEQURzQ2dJU1FUbmVOTGFvYmI4NTdWTzdJT2VydU15b3BjbHI3ejVkOEwtVE8wSUVNR0FwR25fS1E?oc=5)
 
@@ -198,7 +206,7 @@ Source: [El Economista](https://news.google.com/rss/articles/CBMixAJBVV95cUxQSUR
 
 ### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
-2026-11-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-11-04 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
@@ -281,6 +289,14 @@ Source: [El Confidencial](https://news.google.com/rss/articles/CBMitwFBVV95cUxPc
 2026-11-03 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVB3TmZJNFNuNXhwLW5YN3ZhcHdURVRRcWIzbUNBUW52YVdYdGVvdUhQTGFuTnNDUXhEbU1UZFpsaFBQTHZLNnd0aThqUzFtX1lfdUtFa0ZaM2ZScU1CbnItMk14OUJ5TGhhMjN1cW80Qm1oeE9TR2VTQUZVSnZlQkJvOGFtX2JycmRfUTJrZU9memRNTVk5QTJXdWVfcEUwbHY0YmN0anNXOEJ6ZDVSSm9R?oc=5)
+
+---
+
+### [Blutdruck-Check ab 35: Gesetzlich Versicherte haben alle drei Jahre Anspruch](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFNvRXRIbDdELUcwUFRBQWp2Wk1ubkhMZllDVHpXWHBhdjBwWWU0X0tkd0tJX0lqbEFTYUhnS2M2WU9DMHRibXRQaDRiTjNTZGNnWk1VM0djMmZXZFFSVDlNWDFCY1Jicm1haFhKUEJla2c3aEtRN25wd1R1VzV1OHA1THliQ19TajlPcE5KdGtIa25qa2JHblZIaU0yaFdyN0pKUkRMYm9sQk1XRmpDSUVid3ZrejctVU1fQWx4V2JWQQ?oc=5)
+
+2026-11-02 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFNvRXRIbDdELUcwUFRBQWp2Wk1ubkhMZllDVHpXWHBhdjBwWWU0X0tkd0tJX0lqbEFTYUhnS2M2WU9DMHRibXRQaDRiTjNTZGNnWk1VM0djMmZXZFFSVDlNWDFCY1Jicm1haFhKUEJla2c3aEtRN25wd1R1VzV1OHA1THliQ19TajlPcE5KdGtIa25qa2JHblZIaU0yaFdyN0pKUkRMYm9sQk1XRmpDSUVid3ZrejctVU1fQWx4V2JWQQ?oc=5)
 
 ---
 

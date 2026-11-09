@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>107 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>112 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,31 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (107)
+## Related News (112)
+
+### [Enfermedades cardíacas en perros: Veterinarios explican los síntomas de alerta y las patologías más frecuentes](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1hUUm9YaXBDR1E0SzBhdUFtZHdieDZWbmVpTU84NGg3UlkwVlVJNUd1LV9lWFpOb1YwdmE3bkdKRDRpSVRmNjNfSmRGWUpPd0ZBUVdVRlg5blRTWlRGS1g1cktQVkZ0Q29tb1NObHlOQWJuZU8wVEU0d01lV3NBbk9CSTF3eUFjVmcwcEdPSEVvd0tqS3MtUGlCOVBxQUhRNDhRbmVIU2VhOWZLb1NQWUJDTHgtSzA5cFNGRW5fUld1cjVjYVHSAcsBQVVfeXFMTjdBQjFRb196dTVETlRvbnhmSTI5eDdnQlhRZTI1R09fNzhieDV2bUJwT1h3ZHJzTmhtUWhGMzN1a2dPcGktT0VMcDNjMG10SGxoSWVoamUzTDdodG03UDd3YXBIRzhVX2h2cXFxRUNvWTROVWRNMkhHeHQ1dHVkaDhEMlc0WW5ydk1zenhMbHFjWHJmeVBZaWJjVHNDcGoxZjVmTHhXdlN0bjBHRDg0eGpBdHBXT3JxMjZ2VnhIS18weVo2OTlvTXhDQTQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">obesidad</span>
+
+Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1hUUm9YaXBDR1E0SzBhdUFtZHdieDZWbmVpTU84NGg3UlkwVlVJNUd1LV9lWFpOb1YwdmE3bkdKRDRpSVRmNjNfSmRGWUpPd0ZBUVdVRlg5blRTWlRGS1g1cktQVkZ0Q29tb1NObHlOQWJuZU8wVEU0d01lV3NBbk9CSTF3eUFjVmcwcEdPSEVvd0tqS3MtUGlCOVBxQUhRNDhRbmVIU2VhOWZLb1NQWUJDTHgtSzA5cFNGRW5fUld1cjVjYVHSAcsBQVVfeXFMTjdBQjFRb196dTVETlRvbnhmSTI5eDdnQlhRZTI1R09fNzhieDV2bUJwT1h3ZHJzTmhtUWhGMzN1a2dPcGktT0VMcDNjMG10SGxoSWVoamUzTDdodG03UDd3YXBIRzhVX2h2cXFxRUNvWTROVWRNMkhHeHQ1dHVkaDhEMlc0WW5ydk1zenhMbHFjWHJmeVBZaWJjVHNDcGoxZjVmTHhXdlN0bjBHRDg0eGpBdHBXT3JxMjZ2VnhIS18weVo2OTlvTXhDQTQ?oc=5)
+
+---
+
+### [Mantener un horario regular de sueño ayuda a proteger la salud del corazón](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">ictus</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
+
+---
+
+### [La pastilla contra la obesidad llega a las farmacias canarias, pero sin financiación pública](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjYzRG9EcDB2X0lPOGhvSVp1Y0NyMHNUOTlDZUhjVUxHM013bFBYb21ET0h2MEh6VG9QeThHM29TT3BaQWVHYnZuZkl4WUtOVzdnN29GV3NEN1EtR2F5OGNRWWNqTmVLQXpKS3NfOVN3S3hEUWNKQ2R5UHVHWWhwdFQ5eHFYOEx3VlpPS0tRdkVaZXFUaXBnYUZucUF4aGRxbXltTHBKelN6SUhLaTU3QTJUQWZ5R21qWG9SajUxY2lYQW1m0gHKAUFVX3lxTFBNcHNJR2loQ19kTkhSNV9vT0Q4WTVSdHczVGgwNzU1ZWR4NjRSQ2lvMFpFaTBHNU5qMHdOcTBEMVVETkdwLWdQNXNmcHFBcFQyX1NGVVBYTFpBVEswNkVIcTUxVWFFZFFUSzJLNzJLYXA3cXBfd2JXVmQ4bG5nRzFtOHZmVzhld2t4R2lDc1ozYXhYU3duUXZMeG5jNW9uYUxTVzhtcnNWTjVTRThVQk15WC14b1Myd1ZQcjgwRm9LaVdfVm0tMGtMTXc?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Canarias7](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjYzRG9EcDB2X0lPOGhvSVp1Y0NyMHNUOTlDZUhjVUxHM013bFBYb21ET0h2MEh6VG9QeThHM29TT3BaQWVHYnZuZkl4WUtOVzdnN29GV3NEN1EtR2F5OGNRWWNqTmVLQXpKS3NfOVN3S3hEUWNKQ2R5UHVHWWhwdFQ5eHFYOEx3VlpPS0tRdkVaZXFUaXBnYUZucUF4aGRxbXltTHBKelN6SUhLaTU3QTJUQWZ5R21qWG9SajUxY2lYQW1m0gHKAUFVX3lxTFBNcHNJR2loQ19kTkhSNV9vT0Q4WTVSdHczVGgwNzU1ZWR4NjRSQ2lvMFpFaTBHNU5qMHdOcTBEMVVETkdwLWdQNXNmcHFBcFQyX1NGVVBYTFpBVEswNkVIcTUxVWFFZFFUSzJLNzJLYXA3cXBfd2JXVmQ4bG5nRzFtOHZmVzhld2t4R2lDc1ozYXhYU3duUXZMeG5jNW9uYUxTVzhtcnNWTjVTRThVQk15WC14b1Myd1ZQcjgwRm9LaVdfVm0tMGtMTXc?oc=5)
+
+---
 
 ### ["Un pansement sur une hémorragie" : sur M6, Bruno Mougenot, qui a perdu 100 kilos sans médicament, alerte sur l'effet "dévastateur" du Wegovy](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3ZtbHNYNDZrY2I0SmRjYW00dExMaGd4anFOaHZ2Nl9sdkRNanp0X1BKSV9mR1dhY2VsVnZBMXBGZ3RsMW94b201R25mQ0JpalZTUjR1dXp0dzJqTWVjaE40VWdzN3c5WGRNZ2tHWnVxQ0FRYUZ6N2F4YVFtb2RvNEFWWUJDVDI4UkJmTXlMbTVMbE1XMlZHdzBhSXVlWG8ySmJxbWtXQjY0TXlBXzcxLXZiOWVXLVNRM0VGLWRZM1hWSkFHclcxdUpxbXJPYnprRURyNDRUMlp4RlFLTjFvRWY5ejlkeTZCajBGeDBFTzMtTmZ6TTl5Nlp3?oc=5)
 
@@ -67,6 +91,14 @@ Source: [Slate.fr](https://news.google.com/rss/articles/CBMiogFBVV95cUxQR25lU2pB
 
 ---
 
+### [AVC : comment reconnaître les signes et pourquoi agir rapidement est la clé](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQdUJHRjJmY3pid0tENlhqWTR4VXNkSUJjaDdxZEVUcjU5cnpUaWJXaDlEMWpiSnFRNV9QRllqcUxENk84TXd1cHZQNDZJTGVJaXpiVlc0OHBrMjFWVUtpdzlsOHdZa0RPUGNtdWxwWjZUc3c?oc=5)
+
+2026-11-08 <span class="news-indication-tag">accident vasculaire cérébral</span>
+
+Source: [Linternaute.com](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQdUJHRjJmY3pid0tENlhqWTR4VXNkSUJjaDdxZEVUcjU5cnpUaWJXaDlEMWpiSnFRNV9QRllqcUxENk84TXd1cHZQNDZJTGVJaXpiVlc0OHBrMjFWVUtpdzlsOHdZa0RPUGNtdWxwWjZUc3c?oc=5)
+
+---
+
 ### [Obésité : "Ils s'orientent vers des marchés parallèles", ces Français prêts à contourner les prescriptions médicales pour perdre du poids](https://news.google.com/rss/articles/CBMijAJBVV95cUxQbVBub2gwcW5xV0hDbGFUNXZjcUJTajl1amlwRXNNTmMyWEo4REh2Ri1EakR1OUdQWHliUXZlQjBJSkpmckNNUXp1OUtuUWtBSDg2b1plS0JlT0djNllWS3AtVUJrcWg2Q2tKQjZWM3F5YkJmN2padUdWMW8zVXZqcHA1dm5USVl0amV2Q2VNNjBoZDhCeW9SSFlTZmZhVXZ1SnNSd0kxMU85cVNQcDV0Y0tVUHVvT0p1WW5MckdTOEoxRThhSm95UjZLdmMtUjNZSUo4TkdSQ25RZmZzdUlDRnBqVUZFVEZqTmk5a1g2VzVmVmp3V2tIUzVpRmRaUTRoem1GOVZKZ3RKVkNH?oc=5)
 
 2026-11-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
@@ -80,6 +112,14 @@ Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMijAJBVV95cUxQbVBu
 2026-11-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [La Razón](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmU2Ulh1ME1fWnJfQmZCNExjYVRZbW82VXMxQjZiWmNNcmQ0SUtwcWRZdzhOQ1k0YlltSnBTZjNlV0tabHFyR3FQUlFBaWpTUXRONEJkWnBoR3lUeDNXemRHR0pmY1NDV2RlYW1CNmIxVktlQWhmY1UyYTlTNFZLX1BoMTgxc2p1V0drdWxNSDB2Xy1vSGRZTTFjU2I0SndSSHhuTVQyQk5fNFZ4MW5yYmlqdmPSAcgBQVVfeXFMTUhER283c0F5NkVMeHBFRm1PWm01ci1hQ2NhckI1QlhoRVlQMTNlREx4Q0VHeG5TbHQ5RkF6OU5nMDU4TzE4djJBVm9wa1RsWVN0OFNicEM4M1NrRmNpWEJad2lmTmNkb2pMc1NsUUFhbEwxaXltRHVBQnJTeVVMT19CNWZJc3RYMm5yMVJpcXgwazd1UkJ3M3ZIWEJNRVpFSHhwXzJNOEdRZEl5bEthTnVtSmxWMlo2cHZTZF8tR3BFaDh0SFJnLWM?oc=5)
+
+---
+
+### [Schlaganfall-Prävention: Zehn beeinflussbare Faktoren hängen mit 90,7 Prozent zusammen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
 
 ---
 
@@ -184,6 +224,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUHN5c
 2026-11-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Libertad Digital](https://news.google.com/rss/articles/CBMigAJBVV95cUxNX3JpZktxNjM1QkFnMWQ3Vm9KaDd4b0JEeXQ2RkJFWWhSUHlTT3E4UVJnOU1IOFFSSm9zRDdWMUtUc0Z5c0xiM1djRkhNQmZ2M3pWX2FRVWhlbU1XYmdSRGo5TnVsTEpzMThCeFdFZnkxZVpzTDN1SGxYVW41MVJIbEgwSFVsNmNrQW1KTF9xa1FHcEpzNENOSENJUG9BY2JoY3N2T2JZWG94bGVJcW1BZk5PTHNqQ21sOEtvUDg2LUNQZl9sRmlfMFlwcWc0anRSME93SDdaZG8ta1BVS1VtaFFlVHFreWFoM2tGTk1GNFNvanc2VmFBT1YySFJtc0FK0gGLAkFVX3lxTE50WnFPYk9yWmxxVnl1UFp0dDdDTDh5dzdEX3Q0RVZENTFSWlF2a2xVYlF3Y09STjRURzNqRldIMGdpQUp5X3NqTkllOWxwVkEwaVlpeWFLUTZyMXR1VmpPcks0eWVCS2l5OW1EV1dzbG1yRXJleGl5cEhMbncyMVptRG1QZFdHYW8yc3ZRbVEwS2pIQUVtX0ctc3hoVTlOTkkwRV95X0FxLWNFcl90VzZFNVVFeURlZjVCSVBDU2FibHJJQ25uZGhqODdfQlc0bFM4M1VDN1FDODhxQ3VFa3Fta0ZsMzJhTWhoUVRvRXFXNVppeGpmOVNOZlJIRFNMM3NkamcxZDZOamYzQQ?oc=5)
+
+---
+
+### [Los fármacos que vienen después del Ozempic: buscan adelgazar más, perder menos músculo y evitar el efecto rebote - EL PAÍS](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdkZVdjdYamo5Q05MMlRZNkZFb2dfVmFYT2MwNUFMMGFfbU5SN1A2YVNtcklobU9JT2JWZ3duNUlCOHJYTVZnLTA0cFdPUFNtc3VWT2RDUjJXellhNXhBdmJsV1BrS0lHNWhSb1hQcVRZUmVlLWF5SnlCTTRNYzI5X0ZkZUhtTjk3WDhwTnZsM3o5dDlzR0pyMXptZ3p3VU4xSzRWZ2g0RUdzNnFGTjZZem9IejJIZk9PUFhsLVJoWXVnZ2lWT1pjb3I4M3JaVGNnQkE0b1hjcWQwNFlKYlVfV1B5SWVHTUVfUXfSAf4BQVVfeXFMTWtYemZ2YkEtamY5bWxmb1Q5TGxoUkxIVGtYdHY0ZGFqODRoZHRkSGpZMGE4UTl5OWV0M1MzTktCaUFaSE9nM2Q0eFZrTXBsWUNWQmg1cFJVOHJ3ZGsyX2ZOUlV4NUtaclRRdjJsQ2lYOHRuTDhXalB3ZW1ZS3ZIa011U0lQdzFGUTJyNUJTbHFFaWJIQkk0NjJ5enJZVlA0US1ITW4zNzd4bWRibkZ1MlhrMjNIcnFpNmk3WUtnbmcyd3JfQ2cwT1lDeVBUdFo0V3VudENBOEQ1bUhjZUdIMmlQZElaMWZJRDFsWDRKb0hVbld6d1UxS2xVMF84Nmc?oc=5)
+
+2026-11-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [EL PAÍS](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdkZVdjdYamo5Q05MMlRZNkZFb2dfVmFYT2MwNUFMMGFfbU5SN1A2YVNtcklobU9JT2JWZ3duNUlCOHJYTVZnLTA0cFdPUFNtc3VWT2RDUjJXellhNXhBdmJsV1BrS0lHNWhSb1hQcVRZUmVlLWF5SnlCTTRNYzI5X0ZkZUhtTjk3WDhwTnZsM3o5dDlzR0pyMXptZ3p3VU4xSzRWZ2g0RUdzNnFGTjZZem9IejJIZk9PUFhsLVJoWXVnZ2lWT1pjb3I4M3JaVGNnQkE0b1hjcWQwNFlKYlVfV1B5SWVHTUVfUXfSAf4BQVVfeXFMTWtYemZ2YkEtamY5bWxmb1Q5TGxoUkxIVGtYdHY0ZGFqODRoZHRkSGpZMGE4UTl5OWV0M1MzTktCaUFaSE9nM2Q0eFZrTXBsWUNWQmg1cFJVOHJ3ZGsyX2ZOUlV4NUtaclRRdjJsQ2lYOHRuTDhXalB3ZW1ZS3ZIa011U0lQdzFGUTJyNUJTbHFFaWJIQkk0NjJ5enJZVlA0US1ITW4zNzd4bWRibkZ1MlhrMjNIcnFpNmk3WUtnbmcyd3JfQ2cwT1lDeVBUdFo0V3VudENBOEQ1bUhjZUdIMmlQZElaMWZJRDFsWDRKb0hVbld6d1UxS2xVMF84Nmc?oc=5)
 
 ---
 
@@ -344,14 +392,6 @@ Source: [Canal Sur](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlMxcWJ
 2026-11-04 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUVFKZUNJNVFnY3JTcWdMSmVVbEN5eUZOdzlaeUtQSGRaTEROeTZXbTB6Y09XUTB6NGxDd2s4UFFpRmJEUTdkSTY3dXNwblNlX2dxZlVRbGdKN3Zob05QcHNKM0RfUkxWWkFuNXc2WGtGRV9xLXlUMVBtajdjLTFDMnpvbU9IRkpZZlJZMW5fSXozTjJUcjhYU2RmQkZWajZueEVZTTFUblVfYktvQlVETVF0VlVsNVZNVU5wRVdwM2FNMUdXTWhGZWlVcXBzYlFqZFpjRHkzM3VHYTZZLVZTc1VlWkJBbk9V?oc=5)
-
----
-
-### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
-
-2026-11-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
 ---
 

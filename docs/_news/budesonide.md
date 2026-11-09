@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Budesonide. 10 predicted indications."
 permalink: /news/budesonide/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-09
 ---
 
 # Budesonide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Budesonide?">
-<strong>Budesonide</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
+<strong>Budesonide</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ This page combines the AI-predicted indications for Budesonide with the latest h
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (8)
+
+### [RSV-Impfung bei COPD: Schutz vor Exazerbation und Herzrisiko - Medical Tribune](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcE1tcVloT0o4UllpMXZBRG9RRHViM1pUcG12RFFWM041Y0VvY3YwaW1zdUxwQ25QSi1IRU1NTllLT0RleFc4YXVoaU5UNlpsaXlWMm42bWJVNzg1R3B2VHY4dVRmdUxrNE5hQkRfSHNLY0dNZDFRZW15MnZndjBTRUZMUGIxU0ZBemZsN18waGNpWE9vaUF5TDY2aFpITnZfSl9MVXRaWHlxN2NGd09DS2NnbUJHdXFZUDcyT1pvbw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">copd</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcE1tcVloT0o4UllpMXZBRG9RRHViM1pUcG12RFFWM041Y0VvY3YwaW1zdUxwQ25QSi1IRU1NTllLT0RleFc4YXVoaU5UNlpsaXlWMm42bWJVNzg1R3B2VHY4dVRmdUxrNE5hQkRfSHNLY0dNZDFRZW15MnZndjBTRUZMUGIxU0ZBemZsN18waGNpWE9vaUF5TDY2aFpITnZfSl9MVXRaWHlxN2NGd09DS2NnbUJHdXFZUDcyT1pvbw?oc=5)
+
+---
+
+### [Claves para frenar la EPOC, que afecta al 12% de los mayores de 40 años - Revista Pharma Market](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3F4ektaR2FwODNuM1lzZTNWdFVCSE1KMGZPUWhldWl5UDF6bnY5TnhOQmFBRFBZSERFZ0lianJKQkdpLVFxWW9MdV9XUlJvVlZ6anZaSlFmMFM1bWctdGFXVWlaRzY4akk3bTdjRVhuZW5KSVJ2VzBnUERzTS1MRHo3YUpaUUxoaXpIUUs0VWlLZ296VnNrWQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">EPOC</span>
+
+Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3F4ektaR2FwODNuM1lzZTNWdFVCSE1KMGZPUWhldWl5UDF6bnY5TnhOQmFBRFBZSERFZ0lianJKQkdpLVFxWW9MdV9XUlJvVlZ6anZaSlFmMFM1bWctdGFXVWlaRzY4akk3bTdjRVhuZW5KSVJ2VzBnUERzTS1MRHo3YUpaUUxoaXpIUUs0VWlLZ296VnNrWQ?oc=5)
+
+---
 
 ### [Juan, con EPOC, oxígeno domiciliario y un 70% de discapacidad: «Fui a vacunarme de la gripe y tuve que aparcar a 400 metros cargando con la bombona»](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmhQakpjeVplSUlBaXFCcF8zdmNnQWx6NkJPcGtpSm0xRmpJb0NKVGw1UklQT2V0Q0hOWkhjSHlfTjBGM25Ca1VPQmJuRVlEVkZRRldBTU1QR2pBYlUtVVVSZnREU2tGaEw0ZUwzNW9KeDRGdG1YdnRoQUE0bk1faGF0SEFiQjNaZ19xWGVkOC1tZDZpZVJkSXhiR0lsU0tOZ1djM0tVRQ?oc=5)
 
 2026-11-07 <span class="news-indication-tag">EPOC</span>
 
 Source: [Tododisca](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmhQakpjeVplSUlBaXFCcF8zdmNnQWx6NkJPcGtpSm0xRmpJb0NKVGw1UklQT2V0Q0hOWkhjSHlfTjBGM25Ca1VPQmJuRVlEVkZRRldBTU1QR2pBYlUtVVVSZnREU2tGaEw0ZUwzNW9KeDRGdG1YdnRoQUE0bk1faGF0SEFiQjNaZ19xWGVkOC1tZDZpZVJkSXhiR0lsU0tOZ1djM0tVRQ?oc=5)
+
+---
+
+### [Santé. Quelle est cette maladie respiratoire mortelle largement sous-diagnostiquée ? - Le Progrès](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ25MdGpMb09SclpLVHB6NmtCclFZMnBvMHVjdkhhX24xbWltMzNOenRTQmgxUTlYZDhGTDBOZU8wTDc2cTMxUVZ1X1FFQjY2eTF3MU5KZzJGZU1zVHF3cXNZejBuQ3BDNlZBTThHeFlVN05MemhTMXREVzhwQmhKeGU4MUNBbGdZQnBEbXIta2NiZm9WZWlmcmx1RHB2N2c2dUk4SnIxSTlQQ3poWUdwLUU4OFl0amp4aHczZGp2QnBRZGhnem9yX2d3d0RFbVNWZlE?oc=5)
+
+2026-11-04 <span class="news-indication-tag">BPCO</span>
+
+Source: [Le Progrès](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ25MdGpMb09SclpLVHB6NmtCclFZMnBvMHVjdkhhX24xbWltMzNOenRTQmgxUTlYZDhGTDBOZU8wTDc2cTMxUVZ1X1FFQjY2eTF3MU5KZzJGZU1zVHF3cXNZejBuQ3BDNlZBTThHeFlVN05MemhTMXREVzhwQmhKeGU4MUNBbGdZQnBEbXIta2NiZm9WZWlmcmx1RHB2N2c2dUk4SnIxSTlQQ3poWUdwLUU4OFl0amp4aHczZGp2QnBRZGhnem9yX2d3d0RFbVNWZlE?oc=5)
 
 ---
 

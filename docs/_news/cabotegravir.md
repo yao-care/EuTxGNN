@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Cabotegravir?">
-<strong>Cabotegravir</strong> currently has <strong>88 news articles</strong>, with 5 predicted indications.
+<strong>Cabotegravir</strong> currently has <strong>97 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,71 @@ This page combines the AI-predicted indications for Cabotegravir with the latest
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (88)
+## Related News (97)
+
+### [Slowenien rollt Diabetes-Früherkennung auf alle 212 Gemeinden aus - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOHpmU0xEajBYZ2xmYTd5VUt0MXJJazFpb1lzamdGVkFZZ3B6VE9DSEgxREVvNXBVNzJMNTNTR3pnOXRZS0pTMHdkT19GWGNMay1JcEhhRExYNHBzMkFLWGZkYzBONWV5QkQ3VFpodWpmYnMtS1ZrUTBHYXhnRGo3aklHNW16dDdudDFudThtMmwzUTBWbzJtLVhKbTVWN3c?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOHpmU0xEajBYZ2xmYTd5VUt0MXJJazFpb1lzamdGVkFZZ3B6VE9DSEgxREVvNXBVNzJMNTNTR3pnOXRZS0pTMHdkT19GWGNMay1JcEhhRExYNHBzMkFLWGZkYzBONWV5QkQ3VFpodWpmYnMtS1ZrUTBHYXhnRGo3aklHNW16dDdudDFudThtMmwzUTBWbzJtLVhKbTVWN3c?oc=5)
+
+---
+
+### [Statinbeginn bei Typ-2-Diabetes: Zusammenhang mit geringerem Demenzrisiko](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUhpQVhHMjJmWENuLXFkbkZINF9TQnVZYnBNODhsYTBkdmYySUdMZFpEbkR4ZW1YUnZLb1B1TV9JMDJMZml6aFdJODhoY0stTURRVElCRUNqWGNBZlB6UE85RU9TYXZnWXNPanVDMkhqbjA0Nm9Pd0hEcms5OC1nZHU5R3BzU1JMbEtDX1RKQXJVS3JhMGR0ZWUwcmd0Yms5YUdVdzhEdXNzdUtEdVE?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [food-monitor](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUhpQVhHMjJmWENuLXFkbkZINF9TQnVZYnBNODhsYTBkdmYySUdMZFpEbkR4ZW1YUnZLb1B1TV9JMDJMZml6aFdJODhoY0stTURRVElCRUNqWGNBZlB6UE85RU9TYXZnWXNPanVDMkhqbjA0Nm9Pd0hEcms5OC1nZHU5R3BzU1JMbEtDX1RKQXJVS3JhMGR0ZWUwcmd0Yms5YUdVdzhEdXNzdUtEdVE?oc=5)
+
+---
+
+### [RSV-Impfung bei COPD: Schutz vor Exazerbation und Herzrisiko - Medical Tribune](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcE1tcVloT0o4UllpMXZBRG9RRHViM1pUcG12RFFWM041Y0VvY3YwaW1zdUxwQ25QSi1IRU1NTllLT0RleFc4YXVoaU5UNlpsaXlWMm42bWJVNzg1R3B2VHY4dVRmdUxrNE5hQkRfSHNLY0dNZDFRZW15MnZndjBTRUZMUGIxU0ZBemZsN18waGNpWE9vaUF5TDY2aFpITnZfSl9MVXRaWHlxN2NGd09DS2NnbUJHdXFZUDcyT1pvbw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">copd</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcE1tcVloT0o4UllpMXZBRG9RRHViM1pUcG12RFFWM041Y0VvY3YwaW1zdUxwQ25QSi1IRU1NTllLT0RleFc4YXVoaU5UNlpsaXlWMm42bWJVNzg1R3B2VHY4dVRmdUxrNE5hQkRfSHNLY0dNZDFRZW15MnZndjBTRUZMUGIxU0ZBemZsN18waGNpWE9vaUF5TDY2aFpITnZfSl9MVXRaWHlxN2NGd09DS2NnbUJHdXFZUDcyT1pvbw?oc=5)
+
+---
+
+### [Claves para frenar la EPOC, que afecta al 12% de los mayores de 40 años - Revista Pharma Market](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3F4ektaR2FwODNuM1lzZTNWdFVCSE1KMGZPUWhldWl5UDF6bnY5TnhOQmFBRFBZSERFZ0lianJKQkdpLVFxWW9MdV9XUlJvVlZ6anZaSlFmMFM1bWctdGFXVWlaRzY4akk3bTdjRVhuZW5KSVJ2VzBnUERzTS1MRHo3YUpaUUxoaXpIUUs0VWlLZ296VnNrWQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">EPOC</span>
+
+Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3F4ektaR2FwODNuM1lzZTNWdFVCSE1KMGZPUWhldWl5UDF6bnY5TnhOQmFBRFBZSERFZ0lianJKQkdpLVFxWW9MdV9XUlJvVlZ6anZaSlFmMFM1bWctdGFXVWlaRzY4akk3bTdjRVhuZW5KSVJ2VzBnUERzTS1MRHo3YUpaUUxoaXpIUUs0VWlLZ296VnNrWQ?oc=5)
+
+---
+
+### [Nuevas evidencias profundizan en la relación entre microbioma intestinal y diabetes en perros y gatos](https://news.google.com/rss/articles/CBMivAFBVV95cUxOalgxTTN4OHoxR25QcjNjVEJQemZxa1k2LVpCMERrSXlyOXNDS3VQUGZxRkQ5V1d0QVQyTTRnZGRPZTNZdHFkdkdnemtkZGNFY1gtam90Tk5ubzBJaHFROVRFYXZWaEh3TGNOWU5kbFBVd3BXYU1waXE2THhWYnBSWWNaZW1UX2xUYmZJV0xhc3hBSXlxcUg4Wnc2ZXFDbW52OWRwNm9QQ2VfbXZHenBoYWJZX3lycEVzYVlpd9IBwgFBVV95cUxNRWF1b1hzN2o5OER5Nk56WTBXZEZWQUZhckRxLTFsLXBEOVRpRlJtalpTclY0LWJ1QnZfNjRQeEVsYzFoMnN3eGNDTGVIZ0FLWVZWN21udWZFOU9Bcm5lYWpHeGpjSXMzVmVUb2VhTDhKUkFmYkF2Zjhjb3dxRjEtM2pHZVNLcWQ4X2R1cFFNTXFQZ1NYN3V2bm4xVjJMeXc2eHNRY3dfcDFDMTh5eG5nTFZoNEJ3cmQ4VzRNamhEX2Nadw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMivAFBVV95cUxOalgxTTN4OHoxR25QcjNjVEJQemZxa1k2LVpCMERrSXlyOXNDS3VQUGZxRkQ5V1d0QVQyTTRnZGRPZTNZdHFkdkdnemtkZGNFY1gtam90Tk5ubzBJaHFROVRFYXZWaEh3TGNOWU5kbFBVd3BXYU1waXE2THhWYnBSWWNaZW1UX2xUYmZJV0xhc3hBSXlxcUg4Wnc2ZXFDbW52OWRwNm9QQ2VfbXZHenBoYWJZX3lycEVzYVlpd9IBwgFBVV95cUxNRWF1b1hzN2o5OER5Nk56WTBXZEZWQUZhckRxLTFsLXBEOVRpRlJtalpTclY0LWJ1QnZfNjRQeEVsYzFoMnN3eGNDTGVIZ0FLWVZWN21udWZFOU9Bcm5lYWpHeGpjSXMzVmVUb2VhTDhKUkFmYkF2Zjhjb3dxRjEtM2pHZVNLcWQ4X2R1cFFNTXFQZ1NYN3V2bm4xVjJMeXc2eHNRY3dfcDFDMTh5eG5nTFZoNEJ3cmQ4VzRNamhEX2Nadw?oc=5)
+
+---
+
+### [Ponferrada inicia las rutas para combatir la diabetes y celebra una jornada abierta](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tRkhtYTRxbGw1dGR4d2RVZkRPbUoySGVlS1dBUHhsV2xZQ0tjQ2ZPV3JFSkhIekVndDNsQ3VGYUtLZ3hkVHlMa1pmcUw3UQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [BierzoDiario](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tRkhtYTRxbGw1dGR4d2RVZkRPbUoySGVlS1dBUHhsV2xZQ0tjQ2ZPV3JFSkhIekVndDNsQ3VGYUtLZ3hkVHlMa1pmcUw3UQ?oc=5)
+
+---
+
+### [Diabetes: Deutschland verschenkt die Chance auf millionenfache Rückbildung](https://news.google.com/rss/articles/CBMihAJBVV95cUxQUHNhWGRIRmRfVGptOXJFeG9NUkJjMUdXTmpDZ1pnRXpiMklGQlNyUW95Q1RFTEo0Z0xMMVpBNm5VYlhhSF8wTHFYMGh0WmQyOWZBaDFmVnVPSElHUGs5bmZPVjlWSTd1clA0QlliSmhoZWRDOTJMVlc4ckdPVk9oNzBycndXNi1TUHhPQmt3aVhuMEs0YUFheUdhdkR0b3JWSGR3XzZHUkw4TDVjam5WU1dhN1J2Wm5waWtGWmhaMThPdGpPY2REN29zXzFUQXc3N0ExU25TelJwajBtOUJKaHVzVGN1REZ4MVZVeGY1bEV0YmtCZ21ISDJuXzJXRmpaWWc3eA?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [lifePR](https://news.google.com/rss/articles/CBMihAJBVV95cUxQUHNhWGRIRmRfVGptOXJFeG9NUkJjMUdXTmpDZ1pnRXpiMklGQlNyUW95Q1RFTEo0Z0xMMVpBNm5VYlhhSF8wTHFYMGh0WmQyOWZBaDFmVnVPSElHUGs5bmZPVjlWSTd1clA0QlliSmhoZWRDOTJMVlc4ckdPVk9oNzBycndXNi1TUHhPQmt3aVhuMEs0YUFheUdhdkR0b3JWSGR3XzZHUkw4TDVjam5WU1dhN1J2Wm5waWtGWmhaMThPdGpPY2REN29zXzFUQXc3N0ExU25TelJwajBtOUJKaHVzVGN1REZ4MVZVeGY1bEV0YmtCZ21ISDJuXzJXRmpaWWc3eA?oc=5)
+
+---
+
+### [Frühe Menopause vor 45: Diabetesrisiko für Frauen steigt um rund 30 Prozent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPejNtX1c0NE5FVzFoX3BOUGx4WExzYjRBcmlRdXBpVXNGUzdOT1djaGswdzZIUzhyWnpIR0FuMWp4aDVxbUU2cG5MQWZiVmN4WmR2bWlZWllaVi0taXZTdm5mS1ltT1ZfR0drWnZxRmFCcDhCVnNZNV9WdXV2Z1JIc0hVTDlsZkV2aV9xNkNNR21pb0RjVG5hdTFzVmFpbnI0bDNrakM3MTJMMW1FLV9PZGpjQWZyRVFNcFZEQkVtWEZ3aTA?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPejNtX1c0NE5FVzFoX3BOUGx4WExzYjRBcmlRdXBpVXNGUzdOT1djaGswdzZIUzhyWnpIR0FuMWp4aDVxbUU2cG5MQWZiVmN4WmR2bWlZWllaVi0taXZTdm5mS1ltT1ZfR0drWnZxRmFCcDhCVnNZNV9WdXV2Z1JIc0hVTDlsZkV2aV9xNkNNR21pb0RjVG5hdTFzVmFpbnI0bDNrakM3MTJMMW1FLV9PZGpjQWZyRVFNcFZEQkVtWEZ3aTA?oc=5)
+
+---
 
 ### [Llegan esperanzadores avances que transforman la enfermedad renal crónica - La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRIblROOFoyLVE1SHVXQk1CTEp0cDJZdk45NU1TaTlPa0Z5N21pT0swZjlTNDEzMkZWdk5hdkVXdTV3QmhScXZackNtQ2tzajNER0J3aGgyVDU1czMwdzNvejNDX002WEJBeExiU0tXRldHZ0xrTElzTHA0VXlEQmltMVFJX1RveDJjSGVyVnZhTHRIYUQzNExnaDNRTjVPZXFUUDFVaUFFb19qNFk5Y1doc0ZaSUQ3b3RZakxRWHZaczFrLUcxcVJQNWpUU1h6V1lR0gHnAUFVX3lxTE9ZbG51eG0zMm5SekhjamFpa1N4QzZQNGR2cno5OFpmRzlZZEZFQk55VFp5dUhORzU4SEViYVdVdk1wdkRtODlKNDMyMjFyVU5rTURKZkJoV010VzRrNUhHVFhNTmhPZXhzaGRfUUo1Z0pCNnMzci1Gd2hRZTBzUjlZRGpYNnVITjdKeXhwcjJkcmdsdG5uMkdDZkRqejNxX0R4TEFRRXJDb0RRYlpNYUFXWHFwUXpxN3BqSTc3NmpRZzZtdF91RnV6RWRHc1N3RmZTUnQ0TFUtMWVvbm1wM2VJYUliQnQ0bw?oc=5)
 
@@ -129,7 +193,7 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNh
 
 ### [Exeter University-led £20m project to prevent and detect dementia](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
 
-2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
+2026-11-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
 
@@ -308,6 +372,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOD
 2026-11-04 <span class="news-indication-tag">diabetes</span>
 
 Source: [UKClimbing](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFZURUtmN09hVVlEc0tVVXFjd1FhMUUzS2VkdjN5c0h0bVMwRWlYR2YtTTZrTUFWWFNVYS1semRQa05vd2FYSURIQkVmZnEwTUpIQV9yTzhsN2hLa09KeEJ4SFJNanZzdF80bm81M0NYd045MUd2UnNEdGNTN2VxdmR0cE5kNXhkQU5CZGJIamJTX0M3RGpuYXZSVzh5aFJqbUdVX2JuUUVtYm8tcGIwWkNuOUVYVWpzVnM2TjAxZUVaa2xVV285aTh5dw?oc=5)
+
+---
+
+### [Santé. Quelle est cette maladie respiratoire mortelle largement sous-diagnostiquée ? - Le Progrès](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ25MdGpMb09SclpLVHB6NmtCclFZMnBvMHVjdkhhX24xbWltMzNOenRTQmgxUTlYZDhGTDBOZU8wTDc2cTMxUVZ1X1FFQjY2eTF3MU5KZzJGZU1zVHF3cXNZejBuQ3BDNlZBTThHeFlVN05MemhTMXREVzhwQmhKeGU4MUNBbGdZQnBEbXIta2NiZm9WZWlmcmx1RHB2N2c2dUk4SnIxSTlQQ3poWUdwLUU4OFl0amp4aHczZGp2QnBRZGhnem9yX2d3d0RFbVNWZlE?oc=5)
+
+2026-11-04 <span class="news-indication-tag">BPCO</span>
+
+Source: [Le Progrès](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ25MdGpMb09SclpLVHB6NmtCclFZMnBvMHVjdkhhX24xbWltMzNOenRTQmgxUTlYZDhGTDBOZU8wTDc2cTMxUVZ1X1FFQjY2eTF3MU5KZzJGZU1zVHF3cXNZejBuQ3BDNlZBTThHeFlVN05MemhTMXREVzhwQmhKeGU4MUNBbGdZQnBEbXIta2NiZm9WZWlmcmx1RHB2N2c2dUk4SnIxSTlQQ3poWUdwLUU4OFl0amp4aHczZGp2QnBRZGhnem9yX2d3d0RFbVNWZlE?oc=5)
 
 ---
 

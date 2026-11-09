@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Cilastatin?">
-<strong>Cilastatin</strong> currently has <strong>176 news articles</strong>, with 9 predicted indications.
+<strong>Cilastatin</strong> currently has <strong>187 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,71 @@ This page combines the AI-predicted indications for Cilastatin with the latest h
 <p><a href="{{ '/drugs/cilastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (176)
+## Related News (187)
+
+### [Männer untersucht: Studie findet erschreckenden Zusammenhang zwischen Hormonwert und Krebstod - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3NCRElhRDhoaWYybFZ2N0Z2UHc1bk53S1ZEZFFmSmwxbjcxUFRTci1ubE1lT1FxV3F4aDBVdmkxM1lRVlg3NTZ6T3E5TlctUHJfM0RMdUtjTFoyV2stMlFEbzlyQXFKNlZLV0ZmcjBiNC13TWZ6STRwYzlfSEEwUmEwbGF5UkRjZlctS1BhZXhIcnhvbXZNWnozNmZsVkd0NWNyYUNXQm9yQVU?oc=5)
+
+2026-11-09 <span class="news-indication-tag">Krebs</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3NCRElhRDhoaWYybFZ2N0Z2UHc1bk53S1ZEZFFmSmwxbjcxUFRTci1ubE1lT1FxV3F4aDBVdmkxM1lRVlg3NTZ6T3E5TlctUHJfM0RMdUtjTFoyV2stMlFEbzlyQXFKNlZLV0ZmcjBiNC13TWZ6STRwYzlfSEEwUmEwbGF5UkRjZlctS1BhZXhIcnhvbXZNWnozNmZsVkd0NWNyYUNXQm9yQVU?oc=5)
+
+---
+
+### [RSV-Impfung bei COPD: Schutz vor Exazerbation und Herzrisiko - Medical Tribune](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcE1tcVloT0o4UllpMXZBRG9RRHViM1pUcG12RFFWM041Y0VvY3YwaW1zdUxwQ25QSi1IRU1NTllLT0RleFc4YXVoaU5UNlpsaXlWMm42bWJVNzg1R3B2VHY4dVRmdUxrNE5hQkRfSHNLY0dNZDFRZW15MnZndjBTRUZMUGIxU0ZBemZsN18waGNpWE9vaUF5TDY2aFpITnZfSl9MVXRaWHlxN2NGd09DS2NnbUJHdXFZUDcyT1pvbw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">copd</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcE1tcVloT0o4UllpMXZBRG9RRHViM1pUcG12RFFWM041Y0VvY3YwaW1zdUxwQ25QSi1IRU1NTllLT0RleFc4YXVoaU5UNlpsaXlWMm42bWJVNzg1R3B2VHY4dVRmdUxrNE5hQkRfSHNLY0dNZDFRZW15MnZndjBTRUZMUGIxU0ZBemZsN18waGNpWE9vaUF5TDY2aFpITnZfSl9MVXRaWHlxN2NGd09DS2NnbUJHdXFZUDcyT1pvbw?oc=5)
+
+---
+
+### [Claves para frenar la EPOC, que afecta al 12% de los mayores de 40 años - Revista Pharma Market](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3F4ektaR2FwODNuM1lzZTNWdFVCSE1KMGZPUWhldWl5UDF6bnY5TnhOQmFBRFBZSERFZ0lianJKQkdpLVFxWW9MdV9XUlJvVlZ6anZaSlFmMFM1bWctdGFXVWlaRzY4akk3bTdjRVhuZW5KSVJ2VzBnUERzTS1MRHo3YUpaUUxoaXpIUUs0VWlLZ296VnNrWQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">EPOC</span>
+
+Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3F4ektaR2FwODNuM1lzZTNWdFVCSE1KMGZPUWhldWl5UDF6bnY5TnhOQmFBRFBZSERFZ0lianJKQkdpLVFxWW9MdV9XUlJvVlZ6anZaSlFmMFM1bWctdGFXVWlaRzY4akk3bTdjRVhuZW5KSVJ2VzBnUERzTS1MRHo3YUpaUUxoaXpIUUs0VWlLZ296VnNrWQ?oc=5)
+
+---
+
+### [« Il ne sentait presque rien » : après une opération de la prostate de 700 grammes à Antibes, l’alerte d’un médecin aux plus de 50 ans](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZDd0VS1Ial9zY3gxR0xuZ0Vjam9BLU1ITU1Zal91Q3ZOaWNRX0YtV0dPNThjeXBqTVpRNlZndjBrTE9IRThIcWRueU9DdURPV1ppd1BhZ3dFZzZUOUlJT1pfazlXQkg0MFdFb2FqVF9LVDViWk16NTlMU3NvQVkzc0VyTHd0QXJKdEN2cGkyRkdLVGpGR2hFc0lVOXBidmRuVi1TbWFiQktfOUxWSjhIdlZHR1hRbmNXSENFLUNJUE1TTHdwZnNqdm9mR2k5aThjTFZiakZZWGNkaTNmR2dkWEkySmhNZGpNaGgwMXBpQWxvMXBsb2ZTME80YWw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">cancer</span>
+
+Source: [Nice-Matin](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZDd0VS1Ial9zY3gxR0xuZ0Vjam9BLU1ITU1Zal91Q3ZOaWNRX0YtV0dPNThjeXBqTVpRNlZndjBrTE9IRThIcWRueU9DdURPV1ppd1BhZ3dFZzZUOUlJT1pfazlXQkg0MFdFb2FqVF9LVDViWk16NTlMU3NvQVkzc0VyTHd0QXJKdEN2cGkyRkdLVGpGR2hFc0lVOXBidmRuVi1TbWFiQktfOUxWSjhIdlZHR1hRbmNXSENFLUNJUE1TTHdwZnNqdm9mR2k5aThjTFZiakZZWGNkaTNmR2dkWEkySmhNZGpNaGgwMXBpQWxvMXBsb2ZTME80YWw?oc=5)
+
+---
+
+### [«Era una enfermedad propia de mayores»: el motivo por el que el cáncer ha crecido entre los jóvenes - El Debate](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXFzOWFtRG9IbVBlOWZfRGtIUGpfNzFXRGd0dVdxdU5IdERlbzhHOTlUaEhGVEpWMHBZZWhJUHh1TzZJZjg1OUFxTWlYejREVWplczBndHYycGJIUGMzQjZLaDRUNEtFN29vcjA2T05BX3RiSVZXcXBNV0JhOVBpMHhlOExtVk1Yb3pfR3NJdUZlVkdzLWdodF9ocUdMOF9PV1MxZmhrNlpwMDlYd2k3a01BX0t1ODTSAbwBQVVfeXFMTnJ2WXg1YTE2d2RBVUdvbFZBVGVQUHRUbkxOSW9lc25UcHJRZ3puZ01NZ0ZxdURhTUZZbF95SW9JbE1IeHN5Z19mZU56eC1ORlpodkNIQkFzOXcwcGZ3VVU5Q0ZCNVh5QWdvQ3VIczNyNWxtVndDcVg4bzN6T3lRNm96UllCd2tpdkhZRmpPeVZmVmlFUHpGcWtPTmZIZVMySWpVVWlLN3MxaGZKRk5EcXhpOC0xUFpLblpFWnU?oc=5)
+
+2026-11-09 <span class="news-indication-tag">tumor</span>
+
+Source: [El Debate](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXFzOWFtRG9IbVBlOWZfRGtIUGpfNzFXRGd0dVdxdU5IdERlbzhHOTlUaEhGVEpWMHBZZWhJUHh1TzZJZjg1OUFxTWlYejREVWplczBndHYycGJIUGMzQjZLaDRUNEtFN29vcjA2T05BX3RiSVZXcXBNV0JhOVBpMHhlOExtVk1Yb3pfR3NJdUZlVkdzLWdodF9ocUdMOF9PV1MxZmhrNlpwMDlYd2k3a01BX0t1ODTSAbwBQVVfeXFMTnJ2WXg1YTE2d2RBVUdvbFZBVGVQUHRUbkxOSW9lc25UcHJRZ3puZ01NZ0ZxdURhTUZZbF95SW9JbE1IeHN5Z19mZU56eC1ORlpodkNIQkFzOXcwcGZ3VVU5Q0ZCNVh5QWdvQ3VIczNyNWxtVndDcVg4bzN6T3lRNm96UllCd2tpdkhZRmpPeVZmVmlFUHpGcWtPTmZIZVMySWpVVWlLN3MxaGZKRk5EcXhpOC0xUFpLblpFWnU?oc=5)
+
+---
+
+### [Tumore al seno, più varietà a tavola fa la differenza? Cosa emerge da 983 donne](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWHhqREt0V0wzUjd6X2l3MmhkamVoQTJvQk85YTRoQzdIc1I4Ymg1SWl3dElQX3lveWFzQW9nMThMSm9DYnZQeFFhZmFBODBUTkRxcmRJNGN2eVA1UjFnYVUxcEVUWHhhY1FETmJBZkZmaTJpbXJqODdtZ1FUbm9UOWljaTZOMXM2YXlXczB6M2NIdkZlRU80QjhtenpsRFhkNmpvX2lGdjRpXzcwd3VHUU1Od2k3UHdyM1Y1WV9la2FYZVBnQ0VJU2Z4c0ktdk1VTXBr?oc=5)
+
+2026-11-08 <span class="news-indication-tag">tumor</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWHhqREt0V0wzUjd6X2l3MmhkamVoQTJvQk85YTRoQzdIc1I4Ymg1SWl3dElQX3lveWFzQW9nMThMSm9DYnZQeFFhZmFBODBUTkRxcmRJNGN2eVA1UjFnYVUxcEVUWHhhY1FETmJBZkZmaTJpbXJqODdtZ1FUbm9UOWljaTZOMXM2YXlXczB6M2NIdkZlRU80QjhtenpsRFhkNmpvX2lGdjRpXzcwd3VHUU1Od2k3UHdyM1Y1WV9la2FYZVBnQ0VJU2Z4c0ktdk1VTXBr?oc=5)
+
+---
+
+### [« Je me doutais qu’il y aurait des remarques homophobes » : l’ancien élu parisien Jean-Luc Romero-Michel révèle être atteint d’un cancer de l’anus - Le Parisien](https://news.google.com/rss/articles/CBMiuAJBVV95cUxQZE5wS1d4bkdsVllJTzFlamMtU01mN3hTRkJwVVU5WDNUYWVDYndMQzcyN25qVF84d252bHZvRFJSbG42dTR4YzNVZEkxc0NQei04VnF1bDE1cHNReDVXMGhOOUVYcjJOR3BIQVpPMDQ1SUR5czVRc2w0MHItdG9QT1FYOXA2Tm41S3JlR2FXck5yeFFlRnZNd29zWGNwcGNaRnpPbzIxZEJZTDU1VG1LNUFzUWw0N09SX3JwUm9VU1pwSjdCbHdhOFBmemVSQ0ZCLWYxQjBYR3JlWmdMQjN0c1RfV3RvU1BtR2p4akM5bXVEalV1dkVHbXZqSVNQU001Mk1hRW1uNnU1WElOaTlEenBwQl83X0J5aDJkQUFOdmVkbVlfcHRTckwwZHBrUWJaQklNeGN4NVA?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cancer</span>
+
+Source: [Le Parisien](https://news.google.com/rss/articles/CBMiuAJBVV95cUxQZE5wS1d4bkdsVllJTzFlamMtU01mN3hTRkJwVVU5WDNUYWVDYndMQzcyN25qVF84d252bHZvRFJSbG42dTR4YzNVZEkxc0NQei04VnF1bDE1cHNReDVXMGhOOUVYcjJOR3BIQVpPMDQ1SUR5czVRc2w0MHItdG9QT1FYOXA2Tm41S3JlR2FXck5yeFFlRnZNd29zWGNwcGNaRnpPbzIxZEJZTDU1VG1LNUFzUWw0N09SX3JwUm9VU1pwSjdCbHdhOFBmemVSQ0ZCLWYxQjBYR3JlWmdMQjN0c1RfV3RvU1BtR2p4akM5bXVEalV1dkVHbXZqSVNQU001Mk1hRW1uNnU1WElOaTlEenBwQl83X0J5aDJkQUFOdmVkbVlfcHRTckwwZHBrUWJaQklNeGN4NVA?oc=5)
+
+---
+
+### [12 fontaines illuminées en bleu à Toulouse : quelle est cette action menée tout au long du mois de novembre ?](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeUV5T1loeUpzSE91bThnQUNBSE5kN251V0kzYnNFemtEQkhoRVRVRkRpdDd1MVFmSVpGZDcyaUNOZ3Rid2dWVTJEbEh5QUZJTkg5LXZ6SDJXMEk4YzF1ODNVU3dETDlBclY1MVQ4YXYyd2FNYjBId01BLV9XZlYxekxxMjZweVVTZnRfbUt5eXFHMmRTTzNXc1pnMHpQSURzdDFzdlh3clhiWTI0Q09hVU5nd054MHdnQVhiRTl2Z20wa2lpTVRCRFZXd0Q4MG9FeXNaVTlyZVFKckFseHlGRjlJM240Ukl1eU05SFllZ19fdw?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cancer</span>
+
+Source: [Actu.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeUV5T1loeUpzSE91bThnQUNBSE5kN251V0kzYnNFemtEQkhoRVRVRkRpdDd1MVFmSVpGZDcyaUNOZ3Rid2dWVTJEbEh5QUZJTkg5LXZ6SDJXMEk4YzF1ODNVU3dETDlBclY1MVQ4YXYyd2FNYjBId01BLV9XZlYxekxxMjZweVVTZnRfbUt5eXFHMmRTTzNXc1pnMHpQSURzdDFzdlh3clhiWTI0Q09hVU5nd054MHdnQVhiRTl2Z20wa2lpTVRCRFZXd0Q4MG9FeXNaVTlyZVFKckFseHlGRjlJM240Ukl1eU05SFllZ19fdw?oc=5)
+
+---
 
 ### [«A 47 anni mangiavo bio e facevo pilates, la mia vita era sanissima. Poi ho scoperto di avere un tumore al seno». Il racconto di Michelle - Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk5SZ3RETm9ENEM1MnFBSHhJbEZqbFAwWjNtMTlnSWw1M0dPUDV3TDhLdTZOQWx2YTJEcHJFV0hsY3B5cVR1UldvRkQ3d0poNHFQNFkwYnItZVYycHo2WFhHZ3pPT1djajZWcmV6SU5nRWl0eDhtNzVDZm9SUkZteHR2Nzd4QU5sOVZ4Vko0b1hna25mcmRFa3FTbzVWR0lFS0dMZmhVQ3kxdERhZGlqZdIBpgFBVV95cUxOZjRNeWN1VEJLYTZXUUtib2FCd01ZWWNsYUtscHkydWtHeFBYT0N4d0lNTUJKZURLSG1valBEVHpwSVVmZzZDUEk1bm93Skh2MVVRelRteENxU09XNEFBV3FOUHN5WDk2R2NJaWlUcWVBeGhrZXNKdDR0NC1ydTBBTXlDS3lKbWpra1FxNjVZSGdmX1F4SjRPYXJWWE1kdjV2Tl9KUC1n?oc=5)
 
@@ -72,6 +136,14 @@ Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiqAFBVV95cUxO
 2026-11-08 <span class="news-indication-tag">tumor</span>
 
 Source: [Cremonaoggi](https://news.google.com/rss/articles/CBMipAFBVV95cUxNMHVRaXB3NVM1Q1FTZThERFJZQVp5Nnh4UmdrUVZ5WXhybG5ZSDl3cGg0UEJyUkVYbWJrRDlkMzBmbUtrOEN1eHgtSEc3eG5xdHhEWGpxN1JBZnl6SmlFVUhEOFFoZ1hFcUliUkVGc2wzcUhTUEpBUGJUdEdwXzR4RGxyTkVWNnZMQWZNRzZNVnZmQzlKc2VVU1NPQlJrNnhFalU5UA?oc=5)
+
+---
+
+### [Salute maschile, visite urologiche gratis e senza prenotazione negli ospedali di Genova: dove e quando](https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzd2RVY2VE5xc1psdDRtVW55RFFkQmJHeVhFRDk1WlJiSjFiR0xNbWZoNGU2SFNmbk1faE1hTkVFWVVULXBKcGNPVUFBN3V1RzZTWndIaGl3dzNjbHdLR0FvV2hlNlRmVVJWTXUxN1dabFdGaXp5YXVQbm1ZQjd3ZXFRYVZvNzJhYWd4bDBqbFBxWUM1U21Zbl9MUFB3ckZhSlYwTTBib29EVDVq?oc=5)
+
+2026-11-08 <span class="news-indication-tag">tumor</span>
+
+Source: [GenovaToday](https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzd2RVY2VE5xc1psdDRtVW55RFFkQmJHeVhFRDk1WlJiSjFiR0xNbWZoNGU2SFNmbk1faE1hTkVFWVVULXBKcGNPVUFBN3V1RzZTWndIaGl3dzNjbHdLR0FvV2hlNlRmVVJWTXUxN1dabFdGaXp5YXVQbm1ZQjd3ZXFRYVZvNzJhYWd4bDBqbFBxWUM1U21Zbl9MUFB3ckZhSlYwTTBib29EVDVq?oc=5)
 
 ---
 
@@ -555,6 +627,14 @@ Source: [smart up news](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTN
 
 ---
 
+### [Santé. Quelle est cette maladie respiratoire mortelle largement sous-diagnostiquée ? - Le Progrès](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ25MdGpMb09SclpLVHB6NmtCclFZMnBvMHVjdkhhX24xbWltMzNOenRTQmgxUTlYZDhGTDBOZU8wTDc2cTMxUVZ1X1FFQjY2eTF3MU5KZzJGZU1zVHF3cXNZejBuQ3BDNlZBTThHeFlVN05MemhTMXREVzhwQmhKeGU4MUNBbGdZQnBEbXIta2NiZm9WZWlmcmx1RHB2N2c2dUk4SnIxSTlQQ3poWUdwLUU4OFl0amp4aHczZGp2QnBRZGhnem9yX2d3d0RFbVNWZlE?oc=5)
+
+2026-11-04 <span class="news-indication-tag">BPCO</span>
+
+Source: [Le Progrès](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ25MdGpMb09SclpLVHB6NmtCclFZMnBvMHVjdkhhX24xbWltMzNOenRTQmgxUTlYZDhGTDBOZU8wTDc2cTMxUVZ1X1FFQjY2eTF3MU5KZzJGZU1zVHF3cXNZejBuQ3BDNlZBTThHeFlVN05MemhTMXREVzhwQmhKeGU4MUNBbGdZQnBEbXIta2NiZm9WZWlmcmx1RHB2N2c2dUk4SnIxSTlQQ3poWUdwLUU4OFl0amp4aHczZGp2QnBRZGhnem9yX2d3d0RFbVNWZlE?oc=5)
+
+---
+
 ### [Più cibi ultraprocessati, più polipi del colon: lo studio sulle donne](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGNqeENFVXhmNXRNNGZRVjBGYWVQeEdncjB2VnVrNjNHc0VqNTJwUXlRN1AwdXdNVHlxQUI2UXl6a2VfLXRSYWI5bktuQjQ1a0tBV3JfbktRRksySzRJSWh6ZlFVaGlwMjh5MGxENjd1clp4ekl5VC1obFZLMWctZm05MFBpOVYzVnQ2OUkxS0lQYV9lUkUzeG1aSXUyZkZZX01adTZJNm9KR0ExZFg4VzNCZ1Y1dXpzV0E?oc=5)
 
 2026-11-04 <span class="news-indication-tag">tumor</span>
@@ -592,6 +672,14 @@ Source: [The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxPbzlaUG1
 2026-11-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVXVTb0FjOFl2QU9aaFdMVWxKY1lFRkxoTmlCMzR4SXFKcTMyUGc4S2taaDhZNGlzSE1VS3R2T3FQd2pnTjZidFJxemo0QWhjalBJSXdwaW1vQ2JLX3BLTmlubGM3a3lFNV9aVVFuR0h5NE1zYXFtMExnY1FRLTJySGMtMXZXMmUxdGdSQURQQ3lJajRJQWdYQVp4Z1Y3aWQ0amJQQnMtM0dPaWR0WXdNSk9kN24ydE8xMi1YY2NZRzlwTEJDWUo3WXd2a1E1REJvaTdNM3lXVzRrWVNvb0FXWnlaa19pbXAzakVBUUFTY3Vyby1pZUpHYm9jeW1tb3pEdnM4MGFJclZkdFnSAZACQVVfeXFMTnV0akV0Q3YwQUQ0eTZYM0g0MU5MczdiOFZkX1Rva2dzN1lHYWxVeHhnZzhfUDlnZFotcWFzY2daRnpac1VLV0dyZmFFS1Nyb1g2VXJBT1hhMzFzZDh4VEtZZnp1b3I2VUh5dVNsdGxUeHI0ZnhIREwwdFVlRW9Od0RvLWlMTUFVcXozaVpiNjI5YkdlU2JYdWc2WGw3RzVWYTRhdDZRUEVOQkxJcU1lV3duMzhzY01RSzNnbDlkUWZFZzEtTXU3aVVSQjVEN2lwZ0VUU2lpTkZ1Q1hhXzhZY2R3ZmpNUE41RExWMk5VeVloczlSYjFhRFpMaUo2Rm1RNTU3N21RSXp5cFhuY0pIUHk?oc=5)
+
+---
+
+### [Fraunhofer ITWM forscht an KI-Modellen für die Sporttherapie bei Bauchspeicheldrüsenkrebs](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbG1SXzdNTEx1UWpaUnpWUEc1bGZNdlNMVGJBc1Frb2ZpOC1OaklFNWhRLVBTaXlJUEpqTWh1MVZnWV9iM1pCSW1zZGFJN3FYbXhhNFE2OUdEWVh2WGZwbng2cEh5UE5pbExFQ2lTWjlsOGJFbWJTSUdQc2w5ckoyd0cwYVZWcnd2QjZDX29wSmczSW1NZ1g4MUswZGtZTUhmbW9jOVlfeFV3MXdMUzVtdVd4SFA?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Krebs</span>
+
+Source: [medinfoweb](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbG1SXzdNTEx1UWpaUnpWUEc1bGZNdlNMVGJBc1Frb2ZpOC1OaklFNWhRLVBTaXlJUEpqTWh1MVZnWV9iM1pCSW1zZGFJN3FYbXhhNFE2OUdEWVh2WGZwbng2cEh5UE5pbExFQ2lTWjlsOGJFbWJTSUdQc2w5ckoyd0cwYVZWcnd2QjZDX29wSmczSW1NZ1g4MUswZGtZTUhmbW9jOVlfeFV3MXdMUzVtdVd4SFA?oc=5)
 
 ---
 
@@ -725,7 +813,7 @@ Source: [WEB.DE](https://news.google.com/rss/articles/CBMihgFBVV95cUxPdjRNYXpWWX
 
 ### [Punto débil del cáncer de hígado: la inactivación simultánea de CDK16 y CDK18 provoca la muerte de las células tumorales - Gaceta Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUtvTzZGLXo0cEFTaHlJUkV0eTBaT0lWSEhnMXhGTndUOTZjbWkxVDBUV1N1bTlEZGlYOG1VU0syVWp1QVMtVHYxdU5CX2NtMXFiNGJGUExTUndLNTNhc3NtTFp1RkphLVBEQmpJd2FwQVhsQlNiNDJZMnNGZDY1cnZfeFZ1aWZ0NjVucmxyRVE4M1ZSLWwzaHBCLVBXd3pjWndKVVNOalNKd1RKRVotRzBjTzNuUV9jYjR4bGpLc2s?oc=5)
 
-2026-11-03 <span class="news-indication-tag">carcinoma</span>
+2026-11-03 <span class="news-indication-tag">tumor</span>
 
 Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUtvTzZGLXo0cEFTaHlJUkV0eTBaT0lWSEhnMXhGTndUOTZjbWkxVDBUV1N1bTlEZGlYOG1VU0syVWp1QVMtVHYxdU5CX2NtMXFiNGJGUExTUndLNTNhc3NtTFp1RkphLVBEQmpJd2FwQVhsQlNiNDJZMnNGZDY1cnZfeFZ1aWZ0NjVucmxyRVE4M1ZSLWwzaHBCLVBXd3pjWndKVVNOalNKd1RKRVotRzBjTzNuUV9jYjR4bGpLc2s?oc=5)
 

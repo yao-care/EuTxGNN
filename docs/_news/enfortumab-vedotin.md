@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Enfortumab Vedotin. 9 predicted indications."
 permalink: /news/enfortumab-vedotin/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-09
 ---
 
 # Enfortumab Vedotin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Enfortumab Vedotin?">
-<strong>Enfortumab Vedotin</strong> currently has <strong>3 news articles</strong>, with 9 predicted indications.
+<strong>Enfortumab Vedotin</strong> currently has <strong>4 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Enfortumab Vedotin with the 
 
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Muskelinvasives Urothelkarzinom: Neue perioperative Therapieoption mit guten Ergebnissen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeFd6VWZYM3FBbnk1VkpQTTdtVnRQSTd3ZXF3Ql9oamQ0QjdmcC0wYVhXSC12NktYLVU5MXVsdWpzdTNNcU5nT0V2Ml84cWlZMTV0QnNLd0l3WGRfd0RocUJnaE15dF84NWtPNFNqQk1Xd1J5QTR6RGo4Nzc0aG1GRy1oOGR0dWVfcW9oWl9FSzItVl9Zam5yTnFjcGZDZXpVOUFJdUQwTjkyUTR4aVRKWFljc2dpbnd0Qy1zOTduWUNOczlvaVdzdUNsblpwbndVemN5WkllUkNCU2xmNk5GNkowSmhIby1CSDdVTg?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Enfortumab Vedotin</span> <span class="news-drug-tag">Pembrolizumab</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeFd6VWZYM3FBbnk1VkpQTTdtVnRQSTd3ZXF3Ql9oamQ0QjdmcC0wYVhXSC12NktYLVU5MXVsdWpzdTNNcU5nT0V2Ml84cWlZMTV0QnNLd0l3WGRfd0RocUJnaE15dF84NWtPNFNqQk1Xd1J5QTR6RGo4Nzc0aG1GRy1oOGR0dWVfcW9oWl9FSzItVl9Zam5yTnFjcGZDZXpVOUFJdUQwTjkyUTR4aVRKWFljc2dpbnd0Qy1zOTduWUNOczlvaVdzdUNsblpwbndVemN5WkllUkNCU2xmNk5GNkowSmhIby1CSDdVTg?oc=5)
+
+---
 
 ### [La CE aprueba pembrolizumab y enfortumab vedotin como tratamiento perioperatorio del cáncer de vejiga músculo-invasivo - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUldEdnJmajJDQ1doS0R4U1hNVGFVSEdNVWZXbVhhZktEQzhqcmlkTjVWb0Rfa3VIMER6eXhXNUo0R3pHS2JVYTltWGJWYVlLZm9RQlBTQkd3d0NHdEczZUt2dUoyRWxyYXotR3VHcUs0bTRid1lkME01T2NCMjZvN2F6S1I5dGpseWVfQmpIUjRJMjhQRnE1Ry1fU2NlQmw0NW1oOXhTelZyMjhKdGdkM3E2ay1FbFEyUjNEelJSSTZ2bFXSAb4BQVVfeXFMTUpHUk5paFlmalJHemNPRzRRSVp2dEVNOGNFOV94eDd5ZzR5YXYxY3A2TG9GRHJuZ1Z3UFp6WWlPN0dDelFLSEpuQjZEd1FyVFc1YVVxaWRBVWc1NFNsb2hUNnFmeXBNTzFLTE8xS2NGNkZJMks5a3A3bExIUXJtZWhZQXdsSEFIc1JKX1JjTkRFSFhvaGtRUFVaY3A2eDEzNUp3OTUtQ0dOUGt2TUo5R3hEQ2dVclRob0F4SG1rZw?oc=5)
 

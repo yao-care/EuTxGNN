@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "chronische Nierenerkrankung (chronic kidney disease) News"
+title: "enfermedad renal crónica (chronic kidney disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about chronische Nierenerkrankung (chronic kidney disease). 6 articles, 1 related drugs."
+description: "Health news about enfermedad renal crónica (chronic kidney disease). 6 articles, 1 related drugs."
 permalink: /news/chronic-kidney-disease/
 last_modified_at: 2026-11-09
 ---
 
-# chronische Nierenerkrankung (chronic kidney disease) News
+# enfermedad renal crónica (chronic kidney disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about chronische Nierenerkrankung (chronic kidney disease)?">
-<strong>chronische Nierenerkrankung (chronic kidney disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about enfermedad renal crónica (chronic kidney disease)?">
+<strong>enfermedad renal crónica (chronic kidney disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “chronische Nierenerkrankung” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “enfermedad renal crónica” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">

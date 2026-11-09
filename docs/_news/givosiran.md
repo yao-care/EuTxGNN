@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>43 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>46 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (43)
+## Related News (46)
+
+### [Kälteeinbruch: Herzrisiko steigt in den ersten 48 Stunden besonders stark](https://news.google.com/rss/articles/CBMivwFBVV95cUxQajVlekRuREF4NFBOcFgtRTBNVGxlRDlzSEVBLUZkLWF3MEo4b3RhM281bXlFak0wRVctS1V2cWMyb2N3bHBPckxKd0RNU1NGcmxGWWJKU3ZWcXNuaVdKejdNUW5pLUJ2S0hmX0g3d2NfTkEzT2wteDhKMWhxX0JCR3ByN3Nmc0hHVnhETjh6Wm5VOGtSSGIwRlI3OVhMc09ZVXdVRFN6VnpTV3Jlc3dEckN6QXZMVEs2MnZiM2xfTQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQajVlekRuREF4NFBOcFgtRTBNVGxlRDlzSEVBLUZkLWF3MEo4b3RhM281bXlFak0wRVctS1V2cWMyb2N3bHBPckxKd0RNU1NGcmxGWWJKU3ZWcXNuaVdKejdNUW5pLUJ2S0hmX0g3d2NfTkEzT2wteDhKMWhxX0JCR3ByN3Nmc0hHVnhETjh6Wm5VOGtSSGIwRlI3OVhMc09ZVXdVRFN6VnpTV3Jlc3dEckN6QXZMVEs2MnZiM2xfTQ?oc=5)
+
+---
+
+### [Los bancos de sangre desechan una de cada mil donaciones por infecciones como sífilis, malaria, hepatitis y VIH: “No se nos puede escapar ni una” - EL PAÍS](https://news.google.com/rss/articles/CBMikgJBVV95cUxQQ2NxeE9KMXJnM08ta3BoZGJ6TlBZS0dpdjNGYmhrb1I1akh2N2F0VWFZWmpRdGFSSGFkN0Jwd2R1eFhtUzJPeVVlbUxxVWJsMzluV083U1laSjdBa085OVZNajl6SDktNGluOUlWZmJ6V0hTRGktSXNMZ2lNQ2M3THdxd1VnbVZBQ0VpUzV6ZlQyYkJLTEliZTcxNWl0bkRBRGgwMjFIMTBrUnd0SnZTc0N6clZIbmk4R0JDYU4xUjhlNXBRR3lwTVc0WnAxZmttcUFCQXdPT0w5ZlJJZWlZeFZxS0V2Vmx6dXlucVlHQ1I0a1cyMktBeWNYRUlXWHFpRkNHV01DeG15OXBiMkRmUHN30gGmAkFVX3lxTFA2TzRtTUtwS1lURzE5aWlQUVpyNkJVc1JqV0RLRnE1UV9qSlBvOGxoU05NMk9oTEVESXBheE85ckVPTkhrMjlnY0Juc2c2ajNIUlJhMzRFaUFucEhwREFUODZyWW9WTFV2WDJ1WnA5ektBQkROMWxuVnR6NHFEcGRqOW1mYXdLTU1hR3ZLT2Jla1E2UGV0Z0lqZ0VNRVdYNnIydHhvcVhHLUxrTHE0TUVJWW1YM3A3N0JsSkpMT0ZhaEtDaE1zaUMzVWNvR2tHR25rbzdyMllwY2Q5ak1WdEhHaXNXMHFWamFHT29CWEVseDA1SUtPbEpLaHFBTy1QODg0RmoyREF1alNrRlBvdTlWQ2RiMHJHM0E2cTF1cldkR040N0Mtdw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">hepatitis</span>
+
+Source: [EL PAÍS](https://news.google.com/rss/articles/CBMikgJBVV95cUxQQ2NxeE9KMXJnM08ta3BoZGJ6TlBZS0dpdjNGYmhrb1I1akh2N2F0VWFZWmpRdGFSSGFkN0Jwd2R1eFhtUzJPeVVlbUxxVWJsMzluV083U1laSjdBa085OVZNajl6SDktNGluOUlWZmJ6V0hTRGktSXNMZ2lNQ2M3THdxd1VnbVZBQ0VpUzV6ZlQyYkJLTEliZTcxNWl0bkRBRGgwMjFIMTBrUnd0SnZTc0N6clZIbmk4R0JDYU4xUjhlNXBRR3lwTVc0WnAxZmttcUFCQXdPT0w5ZlJJZWlZeFZxS0V2Vmx6dXlucVlHQ1I0a1cyMktBeWNYRUlXWHFpRkNHV01DeG15OXBiMkRmUHN30gGmAkFVX3lxTFA2TzRtTUtwS1lURzE5aWlQUVpyNkJVc1JqV0RLRnE1UV9qSlBvOGxoU05NMk9oTEVESXBheE85ckVPTkhrMjlnY0Juc2c2ajNIUlJhMzRFaUFucEhwREFUODZyWW9WTFV2WDJ1WnA5ektBQkROMWxuVnR6NHFEcGRqOW1mYXdLTU1hR3ZLT2Jla1E2UGV0Z0lqZ0VNRVdYNnIydHhvcVhHLUxrTHE0TUVJWW1YM3A3N0JsSkpMT0ZhaEtDaE1zaUMzVWNvR2tHR25rbzdyMllwY2Q5ak1WdEhHaXNXMHFWamFHT29CWEVseDA1SUtPbEpLaHFBTy1QODg0RmoyREF1alNrRlBvdTlWQ2RiMHJHM0E2cTF1cldkR040N0Mtdw?oc=5)
+
+---
 
 ### [Bluthochdruck: Einzelpillen senken den systolischen Wert um 10,1 mm Hg stärker](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDhhOWFndWctbTRQdEdyeXlfaVBvMjhid2hfand4LW1CS004R3Q2ZFdLcU9IUDF1c3dNSVlGdHJNOHRpSnhCeW5VWk80dEVWWkdTNlB5Q0RCY2QtVmN3cnJaSFp6Nl9peXNYOXM2eVh2M2dpcWk5d1BudTBrLXd6RmdxZUFPOHFzc1drdXVEQURzQ2dJU1FUbmVOTGFvYmI4NTdWTzdJT2VydU15b3BjbHI3ejVkOEwtVE8wSUVNR0FwR25fS1E?oc=5)
 
@@ -221,7 +237,7 @@ Source: [El Economista](https://news.google.com/rss/articles/CBMixAJBVV95cUxQSUR
 
 ### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
-2026-11-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-11-04 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
@@ -304,6 +320,14 @@ Source: [El Confidencial](https://news.google.com/rss/articles/CBMitwFBVV95cUxPc
 2026-11-03 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVB3TmZJNFNuNXhwLW5YN3ZhcHdURVRRcWIzbUNBUW52YVdYdGVvdUhQTGFuTnNDUXhEbU1UZFpsaFBQTHZLNnd0aThqUzFtX1lfdUtFa0ZaM2ZScU1CbnItMk14OUJ5TGhhMjN1cW80Qm1oeE9TR2VTQUZVSnZlQkJvOGFtX2JycmRfUTJrZU9memRNTVk5QTJXdWVfcEUwbHY0YmN0anNXOEJ6ZDVSSm9R?oc=5)
+
+---
+
+### [Blutdruck-Check ab 35: Gesetzlich Versicherte haben alle drei Jahre Anspruch](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFNvRXRIbDdELUcwUFRBQWp2Wk1ubkhMZllDVHpXWHBhdjBwWWU0X0tkd0tJX0lqbEFTYUhnS2M2WU9DMHRibXRQaDRiTjNTZGNnWk1VM0djMmZXZFFSVDlNWDFCY1Jicm1haFhKUEJla2c3aEtRN25wd1R1VzV1OHA1THliQ19TajlPcE5KdGtIa25qa2JHblZIaU0yaFdyN0pKUkRMYm9sQk1XRmpDSUVid3ZrejctVU1fQWx4V2JWQQ?oc=5)
+
+2026-11-02 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFNvRXRIbDdELUcwUFRBQWp2Wk1ubkhMZllDVHpXWHBhdjBwWWU0X0tkd0tJX0lqbEFTYUhnS2M2WU9DMHRibXRQaDRiTjNTZGNnWk1VM0djMmZXZFFSVDlNWDFCY1Jicm1haFhKUEJla2c3aEtRN25wd1R1VzV1OHA1THliQ19TajlPcE5KdGtIa25qa2JHblZIaU0yaFdyN0pKUkRMYm9sQk1XRmpDSUVid3ZrejctVU1fQWx4V2JWQQ?oc=5)
 
 ---
 

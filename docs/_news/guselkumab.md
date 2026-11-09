@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Guselkumab?">
-<strong>Guselkumab</strong> currently has <strong>80 news articles</strong>, with 8 predicted indications.
+<strong>Guselkumab</strong> currently has <strong>86 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,55 @@ This page combines the AI-predicted indications for Guselkumab with the latest h
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (80)
+## Related News (86)
+
+### [Slowenien rollt Diabetes-Früherkennung auf alle 212 Gemeinden aus - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOHpmU0xEajBYZ2xmYTd5VUt0MXJJazFpb1lzamdGVkFZZ3B6VE9DSEgxREVvNXBVNzJMNTNTR3pnOXRZS0pTMHdkT19GWGNMay1JcEhhRExYNHBzMkFLWGZkYzBONWV5QkQ3VFpodWpmYnMtS1ZrUTBHYXhnRGo3aklHNW16dDdudDFudThtMmwzUTBWbzJtLVhKbTVWN3c?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOHpmU0xEajBYZ2xmYTd5VUt0MXJJazFpb1lzamdGVkFZZ3B6VE9DSEgxREVvNXBVNzJMNTNTR3pnOXRZS0pTMHdkT19GWGNMay1JcEhhRExYNHBzMkFLWGZkYzBONWV5QkQ3VFpodWpmYnMtS1ZrUTBHYXhnRGo3aklHNW16dDdudDFudThtMmwzUTBWbzJtLVhKbTVWN3c?oc=5)
+
+---
+
+### [Statinbeginn bei Typ-2-Diabetes: Zusammenhang mit geringerem Demenzrisiko](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUhpQVhHMjJmWENuLXFkbkZINF9TQnVZYnBNODhsYTBkdmYySUdMZFpEbkR4ZW1YUnZLb1B1TV9JMDJMZml6aFdJODhoY0stTURRVElCRUNqWGNBZlB6UE85RU9TYXZnWXNPanVDMkhqbjA0Nm9Pd0hEcms5OC1nZHU5R3BzU1JMbEtDX1RKQXJVS3JhMGR0ZWUwcmd0Yms5YUdVdzhEdXNzdUtEdVE?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [food-monitor](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUhpQVhHMjJmWENuLXFkbkZINF9TQnVZYnBNODhsYTBkdmYySUdMZFpEbkR4ZW1YUnZLb1B1TV9JMDJMZml6aFdJODhoY0stTURRVElCRUNqWGNBZlB6UE85RU9TYXZnWXNPanVDMkhqbjA0Nm9Pd0hEcms5OC1nZHU5R3BzU1JMbEtDX1RKQXJVS3JhMGR0ZWUwcmd0Yms5YUdVdzhEdXNzdUtEdVE?oc=5)
+
+---
+
+### [Nuevas evidencias profundizan en la relación entre microbioma intestinal y diabetes en perros y gatos](https://news.google.com/rss/articles/CBMivAFBVV95cUxOalgxTTN4OHoxR25QcjNjVEJQemZxa1k2LVpCMERrSXlyOXNDS3VQUGZxRkQ5V1d0QVQyTTRnZGRPZTNZdHFkdkdnemtkZGNFY1gtam90Tk5ubzBJaHFROVRFYXZWaEh3TGNOWU5kbFBVd3BXYU1waXE2THhWYnBSWWNaZW1UX2xUYmZJV0xhc3hBSXlxcUg4Wnc2ZXFDbW52OWRwNm9QQ2VfbXZHenBoYWJZX3lycEVzYVlpd9IBwgFBVV95cUxNRWF1b1hzN2o5OER5Nk56WTBXZEZWQUZhckRxLTFsLXBEOVRpRlJtalpTclY0LWJ1QnZfNjRQeEVsYzFoMnN3eGNDTGVIZ0FLWVZWN21udWZFOU9Bcm5lYWpHeGpjSXMzVmVUb2VhTDhKUkFmYkF2Zjhjb3dxRjEtM2pHZVNLcWQ4X2R1cFFNTXFQZ1NYN3V2bm4xVjJMeXc2eHNRY3dfcDFDMTh5eG5nTFZoNEJ3cmQ4VzRNamhEX2Nadw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMivAFBVV95cUxOalgxTTN4OHoxR25QcjNjVEJQemZxa1k2LVpCMERrSXlyOXNDS3VQUGZxRkQ5V1d0QVQyTTRnZGRPZTNZdHFkdkdnemtkZGNFY1gtam90Tk5ubzBJaHFROVRFYXZWaEh3TGNOWU5kbFBVd3BXYU1waXE2THhWYnBSWWNaZW1UX2xUYmZJV0xhc3hBSXlxcUg4Wnc2ZXFDbW52OWRwNm9QQ2VfbXZHenBoYWJZX3lycEVzYVlpd9IBwgFBVV95cUxNRWF1b1hzN2o5OER5Nk56WTBXZEZWQUZhckRxLTFsLXBEOVRpRlJtalpTclY0LWJ1QnZfNjRQeEVsYzFoMnN3eGNDTGVIZ0FLWVZWN21udWZFOU9Bcm5lYWpHeGpjSXMzVmVUb2VhTDhKUkFmYkF2Zjhjb3dxRjEtM2pHZVNLcWQ4X2R1cFFNTXFQZ1NYN3V2bm4xVjJMeXc2eHNRY3dfcDFDMTh5eG5nTFZoNEJ3cmQ4VzRNamhEX2Nadw?oc=5)
+
+---
+
+### [Ponferrada inicia las rutas para combatir la diabetes y celebra una jornada abierta](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tRkhtYTRxbGw1dGR4d2RVZkRPbUoySGVlS1dBUHhsV2xZQ0tjQ2ZPV3JFSkhIekVndDNsQ3VGYUtLZ3hkVHlMa1pmcUw3UQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [BierzoDiario](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tRkhtYTRxbGw1dGR4d2RVZkRPbUoySGVlS1dBUHhsV2xZQ0tjQ2ZPV3JFSkhIekVndDNsQ3VGYUtLZ3hkVHlMa1pmcUw3UQ?oc=5)
+
+---
+
+### [Diabetes: Deutschland verschenkt die Chance auf millionenfache Rückbildung](https://news.google.com/rss/articles/CBMihAJBVV95cUxQUHNhWGRIRmRfVGptOXJFeG9NUkJjMUdXTmpDZ1pnRXpiMklGQlNyUW95Q1RFTEo0Z0xMMVpBNm5VYlhhSF8wTHFYMGh0WmQyOWZBaDFmVnVPSElHUGs5bmZPVjlWSTd1clA0QlliSmhoZWRDOTJMVlc4ckdPVk9oNzBycndXNi1TUHhPQmt3aVhuMEs0YUFheUdhdkR0b3JWSGR3XzZHUkw4TDVjam5WU1dhN1J2Wm5waWtGWmhaMThPdGpPY2REN29zXzFUQXc3N0ExU25TelJwajBtOUJKaHVzVGN1REZ4MVZVeGY1bEV0YmtCZ21ISDJuXzJXRmpaWWc3eA?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [lifePR](https://news.google.com/rss/articles/CBMihAJBVV95cUxQUHNhWGRIRmRfVGptOXJFeG9NUkJjMUdXTmpDZ1pnRXpiMklGQlNyUW95Q1RFTEo0Z0xMMVpBNm5VYlhhSF8wTHFYMGh0WmQyOWZBaDFmVnVPSElHUGs5bmZPVjlWSTd1clA0QlliSmhoZWRDOTJMVlc4ckdPVk9oNzBycndXNi1TUHhPQmt3aVhuMEs0YUFheUdhdkR0b3JWSGR3XzZHUkw4TDVjam5WU1dhN1J2Wm5waWtGWmhaMThPdGpPY2REN29zXzFUQXc3N0ExU25TelJwajBtOUJKaHVzVGN1REZ4MVZVeGY1bEV0YmtCZ21ISDJuXzJXRmpaWWc3eA?oc=5)
+
+---
+
+### [Frühe Menopause vor 45: Diabetesrisiko für Frauen steigt um rund 30 Prozent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPejNtX1c0NE5FVzFoX3BOUGx4WExzYjRBcmlRdXBpVXNGUzdOT1djaGswdzZIUzhyWnpIR0FuMWp4aDVxbUU2cG5MQWZiVmN4WmR2bWlZWllaVi0taXZTdm5mS1ltT1ZfR0drWnZxRmFCcDhCVnNZNV9WdXV2Z1JIc0hVTDlsZkV2aV9xNkNNR21pb0RjVG5hdTFzVmFpbnI0bDNrakM3MTJMMW1FLV9PZGpjQWZyRVFNcFZEQkVtWEZ3aTA?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPejNtX1c0NE5FVzFoX3BOUGx4WExzYjRBcmlRdXBpVXNGUzdOT1djaGswdzZIUzhyWnpIR0FuMWp4aDVxbUU2cG5MQWZiVmN4WmR2bWlZWllaVi0taXZTdm5mS1ltT1ZfR0drWnZxRmFCcDhCVnNZNV9WdXV2Z1JIc0hVTDlsZkV2aV9xNkNNR21pb0RjVG5hdTFzVmFpbnI0bDNrakM3MTJMMW1FLV9PZGpjQWZyRVFNcFZEQkVtWEZ3aTA?oc=5)
+
+---
 
 ### [Psoriasis: cómo tratarla y evitar que afecte otras partes del organismo - Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 
@@ -124,7 +172,7 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNh
 
 ### [Exeter University-led £20m project to prevent and detect dementia](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
 
-2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
+2026-11-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
 

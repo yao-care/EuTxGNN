@@ -3,7 +3,7 @@ layout: default
 title: "enfermedad de Crohn (crohn disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about enfermedad de Crohn (crohn disease). 5 articles, 1 related drugs."
+description: "Health news about enfermedad de Crohn (crohn disease). 6 articles, 1 related drugs."
 permalink: /news/crohn-disease/
 last_modified_at: 2026-11-09
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about enfermedad de Crohn (crohn disease)?">
-<strong>enfermedad de Crohn (crohn disease)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<strong>enfermedad de Crohn (crohn disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “enfermedad de Crohn”
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Enfermedad de Crohn en jóvenes: un 30% de los pacientes tiene menos de 20 años - Onda Vasca](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUExQi05Y1VJc1Jsc0cwVkJTSi1YOXdJMWNGRXlSblBMRG1nVG9saGlSRjltcHFfSGxSU3ZoWmoyYW5tMGhXUHpWaHRZNjV2Rmt0UlRUUG5hREVOT2d3ZzV4MlZOd2RzaWVNVWVxaFZuOHRpdkJLTDR3bHVOOXhCUnFBS21lWDY0V1gxYW9saGs3WFJGTXFxOGhubEJxSEJyQ0hrc1h30gGrAUFVX3lxTE1jVC0yaV93SHZSeUZCcS16bGhnZUswX3p5cFg4dXFaWXZkbHJVTEtmb0plT0UxWm5kdUVuemVKYklrRmxsYUhoTy03RzN6NVlURjd0VDZ1eWRTaU1jTHU4MkJWU19OZ0lhSC1RbmQ0cHphRzZUdE9FRWpEQTdSeFlKcENyQkwwYTBCcnVBR0JYNl84TnpHQVBFVVQtbDRxX0JpTmlaUUV2RlZFdw?oc=5)
+
+2026-11-09
+
+Source: [Onda Vasca](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUExQi05Y1VJc1Jsc0cwVkJTSi1YOXdJMWNGRXlSblBMRG1nVG9saGlSRjltcHFfSGxSU3ZoWmoyYW5tMGhXUHpWaHRZNjV2Rmt0UlRUUG5hREVOT2d3ZzV4MlZOd2RzaWVNVWVxaFZuOHRpdkJLTDR3bHVOOXhCUnFBS21lWDY0V1gxYW9saGs3WFJGTXFxOGhubEJxSEJyQ0hrc1h30gGrAUFVX3lxTE1jVC0yaV93SHZSeUZCcS16bGhnZUswX3p5cFg4dXFaWXZkbHJVTEtmb0plT0UxWm5kdUVuemVKYklrRmxsYUhoTy03RzN6NVlURjd0VDZ1eWRTaU1jTHU4MkJWU19OZ0lhSC1RbmQ0cHphRzZUdE9FRWpEQTdSeFlKcENyQkwwYTBCcnVBR0JYNl84TnpHQVBFVVQtbDRxX0JpTmlaUUV2RlZFdw?oc=5)
+
+---
 
 ### [Enfermedad de Crohn en jóvenes: un 30% de los pacientes tiene menos de 20 años - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGZMYk5NVE5mcXBlTDNTc3ZaZnNTQjQyN2pJV056WWVGQk9maTVEZF95MEZUUHU4ZWdFcGhmOE1JV1dXNnV1alB5RDhja1RzWnI5X1RJeFJ0SU53cDhISE5ydzNza0NHLTBGcUJrSnBaamNsc2I3Zk1YNmhqdGxaM1h4Z3F0VHVfX3ZEWkJhYXFtblVOcEJiNHlqU0NMUEJfcXRMdkozUFBoQlVVY2hFNlExSUNfRXJObi1DUUxB0gHDAUFVX3lxTFBOU1p4V0haZVV0cEd1U0VNWlIzX2gtTm5RZS15VTY3NVlTRVNlcUlkT0ZzaVR0NXB2THdyWFNPNjlvcVBXYTQ0Y0JJT0NybXZVQ2dwSHA5aEUyejE1QVd6ZjZGZ3R5S3lIM0NBb2lCVk1tWmd3Q1g0MzhqR0VmZDFPNVV1OVF0Ylo0Vk9IX1htR0t2WlJKb1QwLVVGS2toTWNLTEVCVUpXTUg5ai13eC02dTNwaWt0SWxWb3h6WDEyRnprYw?oc=5)
 

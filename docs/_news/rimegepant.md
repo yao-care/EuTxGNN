@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Rimegepant. 5 predicted indications."
 permalink: /news/rimegepant/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Rimegepant News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Rimegepant?">
-<strong>Rimegepant</strong> currently has <strong>14 news articles</strong>, with 5 predicted indications.
+<strong>Rimegepant</strong> currently has <strong>15 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Rimegepant with the latest h
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (15)
+
+### [Mammograms May Offer Early Insight Into Cardiovascular Disease](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVRDVDdtU21oRGZrQ01Zb3FBX1ZGSm5RZTlQVGZ3Si01NTlXbjhPMFVjMW5GTzZrV2RuMnVPMlVFc3I2M2tnVy02c3d3NGk2TmNJMTloemJTclhDdVAwRjBJcmVVTm1HRjdtbERneWlhQ1hBNEFuSGo2eGRPOXJuRzZGNGFEbHQ5WGMzVkZOcWd6cElrS0VWWjh6bWc1dVk?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cardiovascular disease</span>
+
+Source: [Healthline](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVRDVDdtU21oRGZrQ01Zb3FBX1ZGSm5RZTlQVGZ3Si01NTlXbjhPMFVjMW5GTzZrV2RuMnVPMlVFc3I2M2tnVy02c3d3NGk2TmNJMTloemJTclhDdVAwRjBJcmVVTm1HRjdtbERneWlhQ1hBNEFuSGo2eGRPOXJuRzZGNGFEbHQ5WGMzVkZOcWd6cElrS0VWWjh6bWc1dVk?oc=5)
+
+---
 
 ### [A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1JjOWhQZ1hGLUJuUW16RkM1WC1ST0hhdlpyd192QWFtWWdmNkE2YUlWOHo0N1FQb1lGSjRwZ1drYjAwaDQ4YVNrMS1EVjZVNzJJd0c0Z1ZXUm5uSWpMdl81Z3cxZzFpTlpiTC04Um9ZdXJNZnFsTDdaLWRmSFhQRy1UcDltMmFhM0d5UU10blZIM2RyX3VYWkhVcmZPZ3REYWRGZTQ2NUVVN1RBWG5UODRROVc?oc=5)
 

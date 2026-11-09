@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Cobicistat. 3 predicted indications."
 permalink: /news/cobicistat/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-09
 ---
 
 # Cobicistat News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Cobicistat?">
-<strong>Cobicistat</strong> currently has <strong>4 news articles</strong>, with 3 predicted indications.
+<strong>Cobicistat</strong> currently has <strong>5 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Cobicistat with the latest h
 <p><a href="{{ '/drugs/cobicistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Los bancos de sangre desechan una de cada mil donaciones por infecciones como sífilis, malaria, hepatitis y VIH: “No se nos puede escapar ni una” - EL PAÍS](https://news.google.com/rss/articles/CBMikgJBVV95cUxQQ2NxeE9KMXJnM08ta3BoZGJ6TlBZS0dpdjNGYmhrb1I1akh2N2F0VWFZWmpRdGFSSGFkN0Jwd2R1eFhtUzJPeVVlbUxxVWJsMzluV083U1laSjdBa085OVZNajl6SDktNGluOUlWZmJ6V0hTRGktSXNMZ2lNQ2M3THdxd1VnbVZBQ0VpUzV6ZlQyYkJLTEliZTcxNWl0bkRBRGgwMjFIMTBrUnd0SnZTc0N6clZIbmk4R0JDYU4xUjhlNXBRR3lwTVc0WnAxZmttcUFCQXdPT0w5ZlJJZWlZeFZxS0V2Vmx6dXlucVlHQ1I0a1cyMktBeWNYRUlXWHFpRkNHV01DeG15OXBiMkRmUHN30gGmAkFVX3lxTFA2TzRtTUtwS1lURzE5aWlQUVpyNkJVc1JqV0RLRnE1UV9qSlBvOGxoU05NMk9oTEVESXBheE85ckVPTkhrMjlnY0Juc2c2ajNIUlJhMzRFaUFucEhwREFUODZyWW9WTFV2WDJ1WnA5ektBQkROMWxuVnR6NHFEcGRqOW1mYXdLTU1hR3ZLT2Jla1E2UGV0Z0lqZ0VNRVdYNnIydHhvcVhHLUxrTHE0TUVJWW1YM3A3N0JsSkpMT0ZhaEtDaE1zaUMzVWNvR2tHR25rbzdyMllwY2Q5ak1WdEhHaXNXMHFWamFHT29CWEVseDA1SUtPbEpLaHFBTy1QODg0RmoyREF1alNrRlBvdTlWQ2RiMHJHM0E2cTF1cldkR040N0Mtdw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">hepatitis</span>
+
+Source: [EL PAÍS](https://news.google.com/rss/articles/CBMikgJBVV95cUxQQ2NxeE9KMXJnM08ta3BoZGJ6TlBZS0dpdjNGYmhrb1I1akh2N2F0VWFZWmpRdGFSSGFkN0Jwd2R1eFhtUzJPeVVlbUxxVWJsMzluV083U1laSjdBa085OVZNajl6SDktNGluOUlWZmJ6V0hTRGktSXNMZ2lNQ2M3THdxd1VnbVZBQ0VpUzV6ZlQyYkJLTEliZTcxNWl0bkRBRGgwMjFIMTBrUnd0SnZTc0N6clZIbmk4R0JDYU4xUjhlNXBRR3lwTVc0WnAxZmttcUFCQXdPT0w5ZlJJZWlZeFZxS0V2Vmx6dXlucVlHQ1I0a1cyMktBeWNYRUlXWHFpRkNHV01DeG15OXBiMkRmUHN30gGmAkFVX3lxTFA2TzRtTUtwS1lURzE5aWlQUVpyNkJVc1JqV0RLRnE1UV9qSlBvOGxoU05NMk9oTEVESXBheE85ckVPTkhrMjlnY0Juc2c2ajNIUlJhMzRFaUFucEhwREFUODZyWW9WTFV2WDJ1WnA5ektBQkROMWxuVnR6NHFEcGRqOW1mYXdLTU1hR3ZLT2Jla1E2UGV0Z0lqZ0VNRVdYNnIydHhvcVhHLUxrTHE0TUVJWW1YM3A3N0JsSkpMT0ZhaEtDaE1zaUMzVWNvR2tHR25rbzdyMllwY2Q5ak1WdEhHaXNXMHFWamFHT29CWEVseDA1SUtPbEpLaHFBTy1QODg0RmoyREF1alNrRlBvdTlWQ2RiMHJHM0E2cTF1cldkR040N0Mtdw?oc=5)
+
+---
 
 ### [Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies - Al Jazeera](https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1laRGZHY1N5OGs3Y1NVcDFzcFk1UVh5WlpSbllkaDZXSUE4TkQtY1lrM05PcVVhWjg4UlpWSjVJbGRwd0JHZnhaVkNPenpCX2lfUmFkTFVCY3B4NWdHdDFSTmJyeXhUZmduTzhRR21Ybmx0MllsODUzcjBlZHpZSnU4bGRGWFYtbDh5WDVIbVpqbHhVbW1LZlZpM2JPRDJpZ1FVT3IzTnp4YzVQVjRsb1pWOU4zelXSAbwBQVVfeXFMTnBNNVFHUFBrSGlHSjg1cjBYY09CTnJLa0tNRGpib3ZlTkM5ZEtia3dZbVFQcHJUa3J3dzZnU2k3cjdsR2puOVBXT3hnWHplcHN4OThuRm5JSUtWSE9maGxMckVFb1hrc3kxaXR3OTRoRnB6X2hlV3Z3aTRkdWVKbkZvTGRJMEhxWE5UX0FaSjI5cEdLc2tadkwzN29QeVJzQ2dnNGF3eGYwNVN3ZlFMaVItUUttWFRxTUdIYVE?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>19 news articles</strong>, with 0 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>23 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,31 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (23)
+
+### [RSV-Impfung bei COPD: Schutz vor Exazerbation und Herzrisiko - Medical Tribune](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcE1tcVloT0o4UllpMXZBRG9RRHViM1pUcG12RFFWM041Y0VvY3YwaW1zdUxwQ25QSi1IRU1NTllLT0RleFc4YXVoaU5UNlpsaXlWMm42bWJVNzg1R3B2VHY4dVRmdUxrNE5hQkRfSHNLY0dNZDFRZW15MnZndjBTRUZMUGIxU0ZBemZsN18waGNpWE9vaUF5TDY2aFpITnZfSl9MVXRaWHlxN2NGd09DS2NnbUJHdXFZUDcyT1pvbw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">copd</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcE1tcVloT0o4UllpMXZBRG9RRHViM1pUcG12RFFWM041Y0VvY3YwaW1zdUxwQ25QSi1IRU1NTllLT0RleFc4YXVoaU5UNlpsaXlWMm42bWJVNzg1R3B2VHY4dVRmdUxrNE5hQkRfSHNLY0dNZDFRZW15MnZndjBTRUZMUGIxU0ZBemZsN18waGNpWE9vaUF5TDY2aFpITnZfSl9MVXRaWHlxN2NGd09DS2NnbUJHdXFZUDcyT1pvbw?oc=5)
+
+---
+
+### [Claves para frenar la EPOC, que afecta al 12% de los mayores de 40 años - Revista Pharma Market](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3F4ektaR2FwODNuM1lzZTNWdFVCSE1KMGZPUWhldWl5UDF6bnY5TnhOQmFBRFBZSERFZ0lianJKQkdpLVFxWW9MdV9XUlJvVlZ6anZaSlFmMFM1bWctdGFXVWlaRzY4akk3bTdjRVhuZW5KSVJ2VzBnUERzTS1MRHo3YUpaUUxoaXpIUUs0VWlLZ296VnNrWQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">EPOC</span>
+
+Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3F4ektaR2FwODNuM1lzZTNWdFVCSE1KMGZPUWhldWl5UDF6bnY5TnhOQmFBRFBZSERFZ0lianJKQkdpLVFxWW9MdV9XUlJvVlZ6anZaSlFmMFM1bWctdGFXVWlaRzY4akk3bTdjRVhuZW5KSVJ2VzBnUERzTS1MRHo3YUpaUUxoaXpIUUs0VWlLZ296VnNrWQ?oc=5)
+
+---
+
+### [Enfermedad de Crohn en jóvenes: un 30% de los pacientes tiene menos de 20 años - Onda Vasca](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUExQi05Y1VJc1Jsc0cwVkJTSi1YOXdJMWNGRXlSblBMRG1nVG9saGlSRjltcHFfSGxSU3ZoWmoyYW5tMGhXUHpWaHRZNjV2Rmt0UlRUUG5hREVOT2d3ZzV4MlZOd2RzaWVNVWVxaFZuOHRpdkJLTDR3bHVOOXhCUnFBS21lWDY0V1gxYW9saGs3WFJGTXFxOGhubEJxSEJyQ0hrc1h30gGrAUFVX3lxTE1jVC0yaV93SHZSeUZCcS16bGhnZUswX3p5cFg4dXFaWXZkbHJVTEtmb0plT0UxWm5kdUVuemVKYklrRmxsYUhoTy03RzN6NVlURjd0VDZ1eWRTaU1jTHU4MkJWU19OZ0lhSC1RbmQ0cHphRzZUdE9FRWpEQTdSeFlKcENyQkwwYTBCcnVBR0JYNl84TnpHQVBFVVQtbDRxX0JpTmlaUUV2RlZFdw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">enfermedad de Crohn</span>
+
+Source: [Onda Vasca](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUExQi05Y1VJc1Jsc0cwVkJTSi1YOXdJMWNGRXlSblBMRG1nVG9saGlSRjltcHFfSGxSU3ZoWmoyYW5tMGhXUHpWaHRZNjV2Rmt0UlRUUG5hREVOT2d3ZzV4MlZOd2RzaWVNVWVxaFZuOHRpdkJLTDR3bHVOOXhCUnFBS21lWDY0V1gxYW9saGs3WFJGTXFxOGhubEJxSEJyQ0hrc1h30gGrAUFVX3lxTE1jVC0yaV93SHZSeUZCcS16bGhnZUswX3p5cFg4dXFaWXZkbHJVTEtmb0plT0UxWm5kdUVuemVKYklrRmxsYUhoTy03RzN6NVlURjd0VDZ1eWRTaU1jTHU4MkJWU19OZ0lhSC1RbmQ0cHphRzZUdE9FRWpEQTdSeFlKcENyQkwwYTBCcnVBR0JYNl84TnpHQVBFVVQtbDRxX0JpTmlaUUV2RlZFdw?oc=5)
+
+---
 
 ### [Enfermedad de Crohn en jóvenes: un 30% de los pacientes tiene menos de 20 años - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGZMYk5NVE5mcXBlTDNTc3ZaZnNTQjQyN2pJV056WWVGQk9maTVEZF95MEZUUHU4ZWdFcGhmOE1JV1dXNnV1alB5RDhja1RzWnI5X1RJeFJ0SU53cDhISE5ydzNza0NHLTBGcUJrSnBaamNsc2I3Zk1YNmhqdGxaM1h4Z3F0VHVfX3ZEWkJhYXFtblVOcEJiNHlqU0NMUEJfcXRMdkozUFBoQlVVY2hFNlExSUNfRXJObi1DUUxB0gHDAUFVX3lxTFBOU1p4V0haZVV0cEd1U0VNWlIzX2gtTm5RZS15VTY3NVlTRVNlcUlkT0ZzaVR0NXB2THdyWFNPNjlvcVBXYTQ0Y0JJT0NybXZVQ2dwSHA5aEUyejE1QVd6ZjZGZ3R5S3lIM0NBb2lCVk1tWmd3Q1g0MzhqR0VmZDFPNVV1OVF0Ylo0Vk9IX1htR0t2WlJKb1QwLVVGS2toTWNLTEVCVUpXTUg5ai13eC02dTNwaWt0SWxWb3h6WDEyRnprYw?oc=5)
 
@@ -77,6 +101,14 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVn
 2026-11-05 <span class="news-indication-tag">maladie de Crohn</span>
 
 Source: [Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxONG1vTWxvT0ZJUDA5VTk0TVhyZ3pSNWJzUTl4bnMyRGZnMWdEclgyY19ORzNSTFNWYW14eGZKTEMtbi1Ja0doX3hVYkNha0FweWF4dm9ZTFhzTGZqbHpBMGpDY3g1Y2VSWE1jTXF6ZGNMU1FNcWZFX0N2N0FYczFNbzZCd2R4OW04a3BuN0szNDZ0alYtVUM5OEJPOFVQSXFmdkhzWkhzbHdMT3N6Y08yM2Rsbk1aNHVucEhERy1wWFJBZzRGTVlMWTNXckE?oc=5)
+
+---
+
+### [Santé. Quelle est cette maladie respiratoire mortelle largement sous-diagnostiquée ? - Le Progrès](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ25MdGpMb09SclpLVHB6NmtCclFZMnBvMHVjdkhhX24xbWltMzNOenRTQmgxUTlYZDhGTDBOZU8wTDc2cTMxUVZ1X1FFQjY2eTF3MU5KZzJGZU1zVHF3cXNZejBuQ3BDNlZBTThHeFlVN05MemhTMXREVzhwQmhKeGU4MUNBbGdZQnBEbXIta2NiZm9WZWlmcmx1RHB2N2c2dUk4SnIxSTlQQ3poWUdwLUU4OFl0amp4aHczZGp2QnBRZGhnem9yX2d3d0RFbVNWZlE?oc=5)
+
+2026-11-04 <span class="news-indication-tag">BPCO</span>
+
+Source: [Le Progrès](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ25MdGpMb09SclpLVHB6NmtCclFZMnBvMHVjdkhhX24xbWltMzNOenRTQmgxUTlYZDhGTDBOZU8wTDc2cTMxUVZ1X1FFQjY2eTF3MU5KZzJGZU1zVHF3cXNZejBuQ3BDNlZBTThHeFlVN05MemhTMXREVzhwQmhKeGU4MUNBbGdZQnBEbXIta2NiZm9WZWlmcmx1RHB2N2c2dUk4SnIxSTlQQ3poWUdwLUU4OFl0amp4aHczZGp2QnBRZGhnem9yX2d3d0RFbVNWZlE?oc=5)
 
 ---
 

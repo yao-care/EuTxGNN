@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Elbasvir. 10 predicted indications."
 permalink: /news/elbasvir/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-09
 ---
 
 # Elbasvir News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Elbasvir?">
-<strong>Elbasvir</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
+<strong>Elbasvir</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Elbasvir with the latest hea
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [Los bancos de sangre desechan una de cada mil donaciones por infecciones como sífilis, malaria, hepatitis y VIH: “No se nos puede escapar ni una” - EL PAÍS](https://news.google.com/rss/articles/CBMikgJBVV95cUxQQ2NxeE9KMXJnM08ta3BoZGJ6TlBZS0dpdjNGYmhrb1I1akh2N2F0VWFZWmpRdGFSSGFkN0Jwd2R1eFhtUzJPeVVlbUxxVWJsMzluV083U1laSjdBa085OVZNajl6SDktNGluOUlWZmJ6V0hTRGktSXNMZ2lNQ2M3THdxd1VnbVZBQ0VpUzV6ZlQyYkJLTEliZTcxNWl0bkRBRGgwMjFIMTBrUnd0SnZTc0N6clZIbmk4R0JDYU4xUjhlNXBRR3lwTVc0WnAxZmttcUFCQXdPT0w5ZlJJZWlZeFZxS0V2Vmx6dXlucVlHQ1I0a1cyMktBeWNYRUlXWHFpRkNHV01DeG15OXBiMkRmUHN30gGmAkFVX3lxTFA2TzRtTUtwS1lURzE5aWlQUVpyNkJVc1JqV0RLRnE1UV9qSlBvOGxoU05NMk9oTEVESXBheE85ckVPTkhrMjlnY0Juc2c2ajNIUlJhMzRFaUFucEhwREFUODZyWW9WTFV2WDJ1WnA5ektBQkROMWxuVnR6NHFEcGRqOW1mYXdLTU1hR3ZLT2Jla1E2UGV0Z0lqZ0VNRVdYNnIydHhvcVhHLUxrTHE0TUVJWW1YM3A3N0JsSkpMT0ZhaEtDaE1zaUMzVWNvR2tHR25rbzdyMllwY2Q5ak1WdEhHaXNXMHFWamFHT29CWEVseDA1SUtPbEpLaHFBTy1QODg0RmoyREF1alNrRlBvdTlWQ2RiMHJHM0E2cTF1cldkR040N0Mtdw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">hepatitis</span>
+
+Source: [EL PAÍS](https://news.google.com/rss/articles/CBMikgJBVV95cUxQQ2NxeE9KMXJnM08ta3BoZGJ6TlBZS0dpdjNGYmhrb1I1akh2N2F0VWFZWmpRdGFSSGFkN0Jwd2R1eFhtUzJPeVVlbUxxVWJsMzluV083U1laSjdBa085OVZNajl6SDktNGluOUlWZmJ6V0hTRGktSXNMZ2lNQ2M3THdxd1VnbVZBQ0VpUzV6ZlQyYkJLTEliZTcxNWl0bkRBRGgwMjFIMTBrUnd0SnZTc0N6clZIbmk4R0JDYU4xUjhlNXBRR3lwTVc0WnAxZmttcUFCQXdPT0w5ZlJJZWlZeFZxS0V2Vmx6dXlucVlHQ1I0a1cyMktBeWNYRUlXWHFpRkNHV01DeG15OXBiMkRmUHN30gGmAkFVX3lxTFA2TzRtTUtwS1lURzE5aWlQUVpyNkJVc1JqV0RLRnE1UV9qSlBvOGxoU05NMk9oTEVESXBheE85ckVPTkhrMjlnY0Juc2c2ajNIUlJhMzRFaUFucEhwREFUODZyWW9WTFV2WDJ1WnA5ektBQkROMWxuVnR6NHFEcGRqOW1mYXdLTU1hR3ZLT2Jla1E2UGV0Z0lqZ0VNRVdYNnIydHhvcVhHLUxrTHE0TUVJWW1YM3A3N0JsSkpMT0ZhaEtDaE1zaUMzVWNvR2tHR25rbzdyMllwY2Q5ak1WdEhHaXNXMHFWamFHT29CWEVseDA1SUtPbEpLaHFBTy1QODg0RmoyREF1alNrRlBvdTlWQ2RiMHJHM0E2cTF1cldkR040N0Mtdw?oc=5)
+
+---
 
 ### [Wards at two Carmarthenshire hospitals shut due to scabies outbreak - Wales Online](https://news.google.com/rss/articles/CBMimwFBVV95cUxNeUd1S3pvT0p3LWtoYWMxcjZwZEdaMlNvZnhhdzdxXzcxNjhOd0FzanMtU2gxMzZUZUtRNmhzNFEyWUpLYktGSHd1UHNpcmNONlM2Wmc5Y25NYUgwYWVJbEV1cTlwUXpWc2NxbjRtQ0NGQXlodTY4MUtzQWJmSXlUOEhNWkkwUXBBT0t1QWZSX0wwbkxZeVpNN29pONIBoAFBVV95cUxOempXSWxNeXAtMFl0WnhhX1pibXVqcVdUWlpGSVVuWjBBdFh2OEN4NXRuS3UwYTd6YjA0S0NMaXhmamdqdHJMV0hDNUdjU3JTaVp1akNxY3pxR0RVbHAwOFhqV2FsbTVOTHBFdG9mTUY4YVJmQzhMX1A2ZUZydEN6RjRwV3pEV0dIYUhLWVo5OTYwSjJ4eHVTS2pmSnRza29z?oc=5)
 

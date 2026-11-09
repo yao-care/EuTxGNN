@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 16 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 17 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 last_modified_at: 2026-11-09
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>16 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>17 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (16)
+## Related News (17)
+
+### [David Cameron calls for end to NHS block on Alzheimer’s drugs - The Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3BUSzhBcTZjT0N2djd5WHFRV2R5emR0czE2b3FrdWxQdThNX08xUVdpM0xnbE9JdWVtdUltQVdTQ3hfMjJoSW1waDBlRlp3WHJSZVJaSHFzejJXLUFubnA2WEVfUXV0YUU0bjVDVnQ5TDZHZ2VFeTJLVTh4XzJUTGdBcW5VeXdfNDB1SDVGbEQ5Zk5ZT3pJbVUtUjloQ0ptRnRmRGM0T2g3Y3hPYlJQQWQ1dEtib2RS?oc=5)
+
+2026-11-09
+
+Source: [The Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3BUSzhBcTZjT0N2djd5WHFRV2R5emR0czE2b3FrdWxQdThNX08xUVdpM0xnbE9JdWVtdUltQVdTQ3hfMjJoSW1waDBlRlp3WHJSZVJaSHFzejJXLUFubnA2WEVfUXV0YUU0bjVDVnQ5TDZHZ2VFeTJLVTh4XzJUTGdBcW5VeXdfNDB1SDVGbEQ5Zk5ZT3pJbVUtUjloQ0ptRnRmRGM0T2g3Y3hPYlJQQWQ1dEtib2RS?oc=5)
+
+---
 
 ### [David Cameron: End NHS dementia drug block - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUhCVDBVX3FTVVB1clNaUHo5UkdQM0xVVU9xMVdySUZ4QktETy16YVo0UXVKbDN2NXZ6cWc1bzk4d0RRQzg4bWh6eWlfeXpRUW5fOGdNLUozd2NscUFmWEtCT1pYc29mMmEyMlBvVTdmTzJuWDBZQlB0VnRUOWs4WTNwNktUMzVrbml1b3k0TQ?oc=5)
 

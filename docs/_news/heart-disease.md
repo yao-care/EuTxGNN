@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "heart failure (heart disease) News"
+title: "cardiovascular disease (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about heart failure (heart disease). 11 articles, 57 related drugs."
+description: "Health news about cardiovascular disease (heart disease). 12 articles, 57 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
-# heart failure (heart disease) News
+# cardiovascular disease (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about heart failure (heart disease)?">
-<strong>heart failure (heart disease)</strong> currently has <strong>11 news articles</strong> and 57 related drugs.
+<p class="key-answer" data-question="What news is there about cardiovascular disease (heart disease)?">
+<strong>cardiovascular disease (heart disease)</strong> currently has <strong>12 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “heart failure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “cardiovascular disease” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -64,7 +64,15 @@ This page brings together the latest health news about “heart failure” and l
 </ul>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [Mammograms May Offer Early Insight Into Cardiovascular Disease](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVRDVDdtU21oRGZrQ01Zb3FBX1ZGSm5RZTlQVGZ3Si01NTlXbjhPMFVjMW5GTzZrV2RuMnVPMlVFc3I2M2tnVy02c3d3NGk2TmNJMTloemJTclhDdVAwRjBJcmVVTm1HRjdtbERneWlhQ1hBNEFuSGo2eGRPOXJuRzZGNGFEbHQ5WGMzVkZOcWd6cElrS0VWWjh6bWc1dVk?oc=5)
+
+2026-11-08
+
+Source: [Healthline](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVRDVDdtU21oRGZrQ01Zb3FBX1ZGSm5RZTlQVGZ3Si01NTlXbjhPMFVjMW5GTzZrV2RuMnVPMlVFc3I2M2tnVy02c3d3NGk2TmNJMTloemJTclhDdVAwRjBJcmVVTm1HRjdtbERneWlhQ1hBNEFuSGo2eGRPOXJuRzZGNGFEbHQ5WGMzVkZOcWd6cElrS0VWWjh6bWc1dVk?oc=5)
+
+---
 
 ### [A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1JjOWhQZ1hGLUJuUW16RkM1WC1ST0hhdlpyd192QWFtWWdmNkE2YUlWOHo0N1FQb1lGSjRwZ1drYjAwaDQ4YVNrMS1EVjZVNzJJd0c0Z1ZXUm5uSWpMdl81Z3cxZzFpTlpiTC04Um9ZdXJNZnFsTDdaLWRmSFhQRy1UcDltMmFhM0d5UU10blZIM2RyX3VYWkhVcmZPZ3REYWRGZTQ2NUVVN1RBWG5UODRROVc?oc=5)
 

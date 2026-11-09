@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>20 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>21 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (20)
+## Related News (21)
+
+### [David Cameron calls for end to NHS block on Alzheimer’s drugs - The Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3BUSzhBcTZjT0N2djd5WHFRV2R5emR0czE2b3FrdWxQdThNX08xUVdpM0xnbE9JdWVtdUltQVdTQ3hfMjJoSW1waDBlRlp3WHJSZVJaSHFzejJXLUFubnA2WEVfUXV0YUU0bjVDVnQ5TDZHZ2VFeTJLVTh4XzJUTGdBcW5VeXdfNDB1SDVGbEQ5Zk5ZT3pJbVUtUjloQ0ptRnRmRGM0T2g3Y3hPYlJQQWQ1dEtib2RS?oc=5)
+
+2026-11-09 <span class="news-indication-tag">dementia</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3BUSzhBcTZjT0N2djd5WHFRV2R5emR0czE2b3FrdWxQdThNX08xUVdpM0xnbE9JdWVtdUltQVdTQ3hfMjJoSW1waDBlRlp3WHJSZVJaSHFzejJXLUFubnA2WEVfUXV0YUU0bjVDVnQ5TDZHZ2VFeTJLVTh4XzJUTGdBcW5VeXdfNDB1SDVGbEQ5Zk5ZT3pJbVUtUjloQ0ptRnRmRGM0T2g3Y3hPYlJQQWQ1dEtib2RS?oc=5)
+
+---
 
 ### [David Cameron: End NHS dementia drug block - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUhCVDBVX3FTVVB1clNaUHo5UkdQM0xVVU9xMVdySUZ4QktETy16YVo0UXVKbDN2NXZ6cWc1bzk4d0RRQzg4bWh6eWlfeXpRUW5fOGdNLUozd2NscUFmWEtCT1pYc29mMmEyMlBvVTdmTzJuWDBZQlB0VnRUOWs4WTNwNktUMzVrbml1b3k0TQ?oc=5)
 
@@ -94,7 +102,7 @@ Source: [The Times](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSTVyVEZ
 
 ### [Exeter University-led £20m project to prevent and detect dementia](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
 
-2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
+2026-11-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
 

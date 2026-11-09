@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>59 news articles</strong>, with 5 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>61 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,37 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (59)
+## Related News (61)
+
+### [Mantener un horario regular de sueño ayuda a proteger la salud del corazón](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">ictus</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
+
+---
 
 ### [Medizinischer Fortschritt: Weniger Todesfälle durch Herzinfarkt und Schlaganfall](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWxya0J2NDZLV1pEMXlaZEE5YkRlU3pxSkY4bGFseU9UN0JaUjlLcHM1NDFsSmZCY3oxUWdFcVVmbUNjQURBZ09JelY5WTRHaG5qck00YnJwdzRGeWFvNWJ5WGFVcHRtd000YTRYQk9pUWcwTXhJVlFaM0FKMElBTDZlckxsOHhtNngzdDZfbkM1dUhoY1BXYnJDOENWamJVeTBpSEZDa0g2WmFTal9xcVBGOVVqTXBoMXdRVGd6cw?oc=5)
 
 2026-11-08 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [OSTHESSEN|NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWxya0J2NDZLV1pEMXlaZEE5YkRlU3pxSkY4bGFseU9UN0JaUjlLcHM1NDFsSmZCY3oxUWdFcVVmbUNjQURBZ09JelY5WTRHaG5qck00YnJwdzRGeWFvNWJ5WGFVcHRtd000YTRYQk9pUWcwTXhJVlFaM0FKMElBTDZlckxsOHhtNngzdDZfbkM1dUhoY1BXYnJDOENWamJVeTBpSEZDa0g2WmFTal9xcVBGOVVqTXBoMXdRVGd6cw?oc=5)
+
+---
+
+### [AVC : comment reconnaître les signes et pourquoi agir rapidement est la clé](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQdUJHRjJmY3pid0tENlhqWTR4VXNkSUJjaDdxZEVUcjU5cnpUaWJXaDlEMWpiSnFRNV9QRllqcUxENk84TXd1cHZQNDZJTGVJaXpiVlc0OHBrMjFWVUtpdzlsOHdZa0RPUGNtdWxwWjZUc3c?oc=5)
+
+2026-11-08 <span class="news-indication-tag">accident vasculaire cérébral</span>
+
+Source: [Linternaute.com](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQdUJHRjJmY3pid0tENlhqWTR4VXNkSUJjaDdxZEVUcjU5cnpUaWJXaDlEMWpiSnFRNV9QRllqcUxENk84TXd1cHZQNDZJTGVJaXpiVlc0OHBrMjFWVUtpdzlsOHdZa0RPUGNtdWxwWjZUc3c?oc=5)
+
+---
+
+### [Schlaganfall-Prävention: Zehn beeinflussbare Faktoren hängen mit 90,7 Prozent zusammen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
 
 ---
 
@@ -156,14 +180,6 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2tzS
 2026-11-04 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUVFKZUNJNVFnY3JTcWdMSmVVbEN5eUZOdzlaeUtQSGRaTEROeTZXbTB6Y09XUTB6NGxDd2s4UFFpRmJEUTdkSTY3dXNwblNlX2dxZlVRbGdKN3Zob05QcHNKM0RfUkxWWkFuNXc2WGtGRV9xLXlUMVBtajdjLTFDMnpvbU9IRkpZZlJZMW5fSXozTjJUcjhYU2RmQkZWajZueEVZTTFUblVfYktvQlVETVF0VlVsNVZNVU5wRVdwM2FNMUdXTWhGZWlVcXBzYlFqZFpjRHkzM3VHYTZZLVZTc1VlWkJBbk9V?oc=5)
-
----
-
-### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
-
-2026-11-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
 
 ---
 

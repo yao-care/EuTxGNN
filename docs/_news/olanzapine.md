@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Olanzapine. 2 predicted indications."
 permalink: /news/olanzapine/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Olanzapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>28 news articles</strong>, with 2 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>29 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (28)
+## Related News (29)
+
+### [Was der Menstruationszyklus über Depressionen und ADHS verrät](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3NXV3g0bnRDaDBxUmJ5Y3N0NmRoWldITmVFa0YzS08wcXFPRkFUUjV3Qkp5UXVUNFJOUFhadGtmdjVBVEFaU19yZGQ5dTVjV2hicGxMc1hnaE02Nl9lRW1IUGg3eDRZOXhXYmlqc192dUlJWU9HV0lKMXprUzlrQmdfVHVWUF9JcTFfRTExMkdwd1Q4QU9RM1lTaXlQY014eWM4dXU4VzdsV0Vpcnc?oc=5)
+
+2026-11-09 <span class="news-indication-tag">depression</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3NXV3g0bnRDaDBxUmJ5Y3N0NmRoWldITmVFa0YzS08wcXFPRkFUUjV3Qkp5UXVUNFJOUFhadGtmdjVBVEFaU19yZGQ5dTVjV2hicGxMc1hnaE02Nl9lRW1IUGg3eDRZOXhXYmlqc192dUlJWU9HV0lKMXprUzlrQmdfVHVWUF9JcTFfRTExMkdwd1Q4QU9RM1lTaXlQY014eWM4dXU4VzdsV0Vpcnc?oc=5)
+
+---
 
 ### [Depression bei Kindern: Was mehr über das spätere Risiko verrät als die Gene - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTBud3V5RjlLQTJEX3BuUkpxTHh5UUZMa09Kdkk4VzZXaUpoZE04cmlkQXBFbUJidUdpeXNzZDRremw4cGRqSlZKRkgycGZVZmh1MXB2Nl8tZVIwbHVSSkdkT0RQdmpXYkY4YTdkMEZ1RlRybWowSDJLb1NYdk95V1BKS2ZqUkZINkFuNHVNZ19CMGNheHFsenY1SHhfRllRVHlockRLT2NtUnN2eGRpU1VNYXJHSXIyWl9fbA?oc=5)
 
