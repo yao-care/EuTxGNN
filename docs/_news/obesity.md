@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "obesidad (obesity) News"
+title: "obésité (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 46 articles, 8 related drugs."
+description: "Health news about obésité (obesity). 48 articles, 8 related drugs."
 permalink: /news/obesity/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
-# obesidad (obesity) News
+# obésité (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>46 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obésité (obesity)?">
+<strong>obésité (obesity)</strong> currently has <strong>48 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “obesidad” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obésité” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (46)
+## Related News (48)
+
+### ["Un pansement sur une hémorragie" : sur M6, Bruno Mougenot, qui a perdu 100 kilos sans médicament, alerte sur l'effet "dévastateur" du Wegovy](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3ZtbHNYNDZrY2I0SmRjYW00dExMaGd4anFOaHZ2Nl9sdkRNanp0X1BKSV9mR1dhY2VsVnZBMXBGZ3RsMW94b201R25mQ0JpalZTUjR1dXp0dzJqTWVjaE40VWdzN3c5WGRNZ2tHWnVxQ0FRYUZ6N2F4YVFtb2RvNEFWWUJDVDI4UkJmTXlMbTVMbE1XMlZHdzBhSXVlWG8ySmJxbWtXQjY0TXlBXzcxLXZiOWVXLVNRM0VGLWRZM1hWSkFHclcxdUpxbXJPYnprRURyNDRUMlp4RlFLTjFvRWY5ejlkeTZCajBGeDBFTzMtTmZ6TTl5Nlp3?oc=5)
+
+2026-11-08
+
+Source: [RTL](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3ZtbHNYNDZrY2I0SmRjYW00dExMaGd4anFOaHZ2Nl9sdkRNanp0X1BKSV9mR1dhY2VsVnZBMXBGZ3RsMW94b201R25mQ0JpalZTUjR1dXp0dzJqTWVjaE40VWdzN3c5WGRNZ2tHWnVxQ0FRYUZ6N2F4YVFtb2RvNEFWWUJDVDI4UkJmTXlMbTVMbE1XMlZHdzBhSXVlWG8ySmJxbWtXQjY0TXlBXzcxLXZiOWVXLVNRM0VGLWRZM1hWSkFHclcxdUpxbXJPYnprRURyNDRUMlp4RlFLTjFvRWY5ejlkeTZCajBGeDBFTzMtTmZ6TTl5Nlp3?oc=5)
+
+---
 
 ### [Llegan esperanzadores avances que transforman la enfermedad renal crónica - La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRIblROOFoyLVE1SHVXQk1CTEp0cDJZdk45NU1TaTlPa0Z5N21pT0swZjlTNDEzMkZWdk5hdkVXdTV3QmhScXZackNtQ2tzajNER0J3aGgyVDU1czMwdzNvejNDX002WEJBeExiU0tXRldHZ0xrTElzTHA0VXlEQmltMVFJX1RveDJjSGVyVnZhTHRIYUQzNExnaDNRTjVPZXFUUDFVaUFFb19qNFk5Y1doc0ZaSUQ3b3RZakxRWHZaczFrLUcxcVJQNWpUU1h6V1lR0gHnAUFVX3lxTE9ZbG51eG0zMm5SekhjamFpa1N4QzZQNGR2cno5OFpmRzlZZEZFQk55VFp5dUhORzU4SEViYVdVdk1wdkRtODlKNDMyMjFyVU5rTURKZkJoV010VzRrNUhHVFhNTmhPZXhzaGRfUUo1Z0pCNnMzci1Gd2hRZTBzUjlZRGpYNnVITjdKeXhwcjJkcmdsdG5uMkdDZkRqejNxX0R4TEFRRXJDb0RRYlpNYUFXWHFwUXpxN3BqSTc3NmpRZzZtdF91RnV6RWRHc1N3RmZTUnQ0TFUtMWVvbm1wM2VJYUliQnQ0bw?oc=5)
 
@@ -289,6 +297,14 @@ Source: [ma-sante.news](https://news.google.com/rss/articles/CBMickFVX3lxTE9oZXV
 2026-11-03
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU2pTaWthRjdlMk1RTnB4WklMcEdvaXYxOUhMVVpYZ2t0cU5mS2U3dTN3Vm5LR3doRk9GTnlXelJubnVUTDBJaXkzaEVyenE0MUNtUzFyaVo3eWF5cVZGVzJsRng3ekd1WEFyMVVXUVpOMldXYVdDQ1ZQZExfRk5vTm1IbEdPWVVTa19UTmFfX0RsTWhSNHdPdHNFQVZlbC1lbk5Qd09Qa0w0WG92SVNSVDFPY2RwNjNJQUNPWlBCWHhob3pxVFd5QVp2MzFMVlQ4alVsbWxaYXFRWVgtalJMenBXZ05hVG1G?oc=5)
+
+---
+
+### [Disponible en España el primer tratamiento oral GLP-1 para el control de peso - La Rioja](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTB5WWVXcUVjaS1jYWp1Sm5CM0hoS1p0bWVQZnhWTTdRdkNPWVVtVUpMS29FdjgyaTk4U0dLRi1rSEVNVUhydzBBTm43RG5pcWw5eHJyVU5xTHRIdzNESVNsb1NTMDVmUUQzaXQ1Y0dMQ3o4V1N3ZkNVamRVSUtYX3VvSDUta28xSUVXa3pZT1ItMFRiTVAzU01KNmNpQmExR0VJSVFNdVlDS0UzamVN0gG0AUFVX3lxTE93U1lkSUR3QUFtOE9fMXNLcFFUY1FHRlpoLUpkRW8tZVBZdE13Q2luWTBscENWS0E2cDZ1cjJra1ZXZ2hYQU4yQ0JVVUdRaVRIQTFudWhlVEJEMDFEd2tvR2NRb2tMREdXcE5iTWE4VHd1aE5jVGxTWjlyc0FFcmJqbkM2My1uY0lfUlRzZ2N5TnZXdEx3cGdyenpaS0Q5X3JRQWliR0N5SnQtcTdLT3lUblEwcQ?oc=5)
+
+2026-11-03
+
+Source: [La Rioja](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTB5WWVXcUVjaS1jYWp1Sm5CM0hoS1p0bWVQZnhWTTdRdkNPWVVtVUpMS29FdjgyaTk4U0dLRi1rSEVNVUhydzBBTm43RG5pcWw5eHJyVU5xTHRIdzNESVNsb1NTMDVmUUQzaXQ1Y0dMQ3o4V1N3ZkNVamRVSUtYX3VvSDUta28xSUVXa3pZT1ItMFRiTVAzU01KNmNpQmExR0VJSVFNdVlDS0UzamVN0gG0AUFVX3lxTE93U1lkSUR3QUFtOE9fMXNLcFFUY1FHRlpoLUpkRW8tZVBZdE13Q2luWTBscENWS0E2cDZ1cjJra1ZXZ2hYQU4yQ0JVVUdRaVRIQTFudWhlVEJEMDFEd2tvR2NRb2tMREdXcE5iTWE4VHd1aE5jVGxTWjlyc0FFcmJqbkM2My1uY0lfUlRzZ2N5TnZXdEx3cGdyenpaS0Q5X3JRQWliR0N5SnQtcTdLT3lUblEwcQ?oc=5)
 
 ---
 

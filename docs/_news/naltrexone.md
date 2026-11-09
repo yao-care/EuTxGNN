@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Naltrexone. 0 predicted indications."
 permalink: /news/naltrexone/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Naltrexone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>46 news articles</strong>, with 0 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>48 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (46)
+## Related News (48)
+
+### ["Un pansement sur une hémorragie" : sur M6, Bruno Mougenot, qui a perdu 100 kilos sans médicament, alerte sur l'effet "dévastateur" du Wegovy](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3ZtbHNYNDZrY2I0SmRjYW00dExMaGd4anFOaHZ2Nl9sdkRNanp0X1BKSV9mR1dhY2VsVnZBMXBGZ3RsMW94b201R25mQ0JpalZTUjR1dXp0dzJqTWVjaE40VWdzN3c5WGRNZ2tHWnVxQ0FRYUZ6N2F4YVFtb2RvNEFWWUJDVDI4UkJmTXlMbTVMbE1XMlZHdzBhSXVlWG8ySmJxbWtXQjY0TXlBXzcxLXZiOWVXLVNRM0VGLWRZM1hWSkFHclcxdUpxbXJPYnprRURyNDRUMlp4RlFLTjFvRWY5ejlkeTZCajBGeDBFTzMtTmZ6TTl5Nlp3?oc=5)
+
+2026-11-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [RTL](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3ZtbHNYNDZrY2I0SmRjYW00dExMaGd4anFOaHZ2Nl9sdkRNanp0X1BKSV9mR1dhY2VsVnZBMXBGZ3RsMW94b201R25mQ0JpalZTUjR1dXp0dzJqTWVjaE40VWdzN3c5WGRNZ2tHWnVxQ0FRYUZ6N2F4YVFtb2RvNEFWWUJDVDI4UkJmTXlMbTVMbE1XMlZHdzBhSXVlWG8ySmJxbWtXQjY0TXlBXzcxLXZiOWVXLVNRM0VGLWRZM1hWSkFHclcxdUpxbXJPYnprRURyNDRUMlp4RlFLTjFvRWY5ejlkeTZCajBGeDBFTzMtTmZ6TTl5Nlp3?oc=5)
+
+---
 
 ### [Llegan esperanzadores avances que transforman la enfermedad renal crónica - La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRIblROOFoyLVE1SHVXQk1CTEp0cDJZdk45NU1TaTlPa0Z5N21pT0swZjlTNDEzMkZWdk5hdkVXdTV3QmhScXZackNtQ2tzajNER0J3aGgyVDU1czMwdzNvejNDX002WEJBeExiU0tXRldHZ0xrTElzTHA0VXlEQmltMVFJX1RveDJjSGVyVnZhTHRIYUQzNExnaDNRTjVPZXFUUDFVaUFFb19qNFk5Y1doc0ZaSUQ3b3RZakxRWHZaczFrLUcxcVJQNWpUU1h6V1lR0gHnAUFVX3lxTE9ZbG51eG0zMm5SekhjamFpa1N4QzZQNGR2cno5OFpmRzlZZEZFQk55VFp5dUhORzU4SEViYVdVdk1wdkRtODlKNDMyMjFyVU5rTURKZkJoV010VzRrNUhHVFhNTmhPZXhzaGRfUUo1Z0pCNnMzci1Gd2hRZTBzUjlZRGpYNnVITjdKeXhwcjJkcmdsdG5uMkdDZkRqejNxX0R4TEFRRXJDb0RRYlpNYUFXWHFwUXpxN3BqSTc3NmpRZzZtdF91RnV6RWRHc1N3RmZTUnQ0TFUtMWVvbm1wM2VJYUliQnQ0bw?oc=5)
 
@@ -285,6 +293,14 @@ Source: [ma-sante.news](https://news.google.com/rss/articles/CBMickFVX3lxTE9oZXV
 2026-11-03 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU2pTaWthRjdlMk1RTnB4WklMcEdvaXYxOUhMVVpYZ2t0cU5mS2U3dTN3Vm5LR3doRk9GTnlXelJubnVUTDBJaXkzaEVyenE0MUNtUzFyaVo3eWF5cVZGVzJsRng3ekd1WEFyMVVXUVpOMldXYVdDQ1ZQZExfRk5vTm1IbEdPWVVTa19UTmFfX0RsTWhSNHdPdHNFQVZlbC1lbk5Qd09Qa0w0WG92SVNSVDFPY2RwNjNJQUNPWlBCWHhob3pxVFd5QVp2MzFMVlQ4alVsbWxaYXFRWVgtalJMenBXZ05hVG1G?oc=5)
+
+---
+
+### [Disponible en España el primer tratamiento oral GLP-1 para el control de peso - La Rioja](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTB5WWVXcUVjaS1jYWp1Sm5CM0hoS1p0bWVQZnhWTTdRdkNPWVVtVUpMS29FdjgyaTk4U0dLRi1rSEVNVUhydzBBTm43RG5pcWw5eHJyVU5xTHRIdzNESVNsb1NTMDVmUUQzaXQ1Y0dMQ3o4V1N3ZkNVamRVSUtYX3VvSDUta28xSUVXa3pZT1ItMFRiTVAzU01KNmNpQmExR0VJSVFNdVlDS0UzamVN0gG0AUFVX3lxTE93U1lkSUR3QUFtOE9fMXNLcFFUY1FHRlpoLUpkRW8tZVBZdE13Q2luWTBscENWS0E2cDZ1cjJra1ZXZ2hYQU4yQ0JVVUdRaVRIQTFudWhlVEJEMDFEd2tvR2NRb2tMREdXcE5iTWE4VHd1aE5jVGxTWjlyc0FFcmJqbkM2My1uY0lfUlRzZ2N5TnZXdEx3cGdyenpaS0Q5X3JRQWliR0N5SnQtcTdLT3lUblEwcQ?oc=5)
+
+2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [La Rioja](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTB5WWVXcUVjaS1jYWp1Sm5CM0hoS1p0bWVQZnhWTTdRdkNPWVVtVUpMS29FdjgyaTk4U0dLRi1rSEVNVUhydzBBTm43RG5pcWw5eHJyVU5xTHRIdzNESVNsb1NTMDVmUUQzaXQ1Y0dMQ3o4V1N3ZkNVamRVSUtYX3VvSDUta28xSUVXa3pZT1ItMFRiTVAzU01KNmNpQmExR0VJSVFNdVlDS0UzamVN0gG0AUFVX3lxTE93U1lkSUR3QUFtOE9fMXNLcFFUY1FHRlpoLUpkRW8tZVBZdE13Q2luWTBscENWS0E2cDZ1cjJra1ZXZ2hYQU4yQ0JVVUdRaVRIQTFudWhlVEJEMDFEd2tvR2NRb2tMREdXcE5iTWE4VHd1aE5jVGxTWjlyc0FFcmJqbkM2My1uY0lfUlRzZ2N5TnZXdEx3cGdyenpaS0Q5X3JRQWliR0N5SnQtcTdLT3lUblEwcQ?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Mogamulizumab. 7 predicted indications."
 permalink: /news/mogamulizumab/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Mogamulizumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Mogamulizumab?">
-<strong>Mogamulizumab</strong> currently has <strong>162 news articles</strong>, with 7 predicted indications.
+<strong>Mogamulizumab</strong> currently has <strong>163 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,21 @@ This page combines the AI-predicted indications for Mogamulizumab with the lates
 <p><a href="{{ '/drugs/mogamulizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (162)
+## Related News (163)
 
 ### [«A 47 anni mangiavo bio e facevo pilates, la mia vita era sanissima. Poi ho scoperto di avere un tumore al seno». Il racconto di Michelle - Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk5SZ3RETm9ENEM1MnFBSHhJbEZqbFAwWjNtMTlnSWw1M0dPUDV3TDhLdTZOQWx2YTJEcHJFV0hsY3B5cVR1UldvRkQ3d0poNHFQNFkwYnItZVYycHo2WFhHZ3pPT1djajZWcmV6SU5nRWl0eDhtNzVDZm9SUkZteHR2Nzd4QU5sOVZ4Vko0b1hna25mcmRFa3FTbzVWR0lFS0dMZmhVQ3kxdERhZGlqZdIBpgFBVV95cUxOZjRNeWN1VEJLYTZXUUtib2FCd01ZWWNsYUtscHkydWtHeFBYT0N4d0lNTUJKZURLSG1valBEVHpwSVVmZzZDUEk1bm93Skh2MVVRelRteENxU09XNEFBV3FOUHN5WDk2R2NJaWlUcWVBeGhrZXNKdDR0NC1ydTBBTXlDS3lKbWpra1FxNjVZSGdmX1F4SjRPYXJWWE1kdjV2Tl9KUC1n?oc=5)
 
 2026-11-08 <span class="news-indication-tag">tumor</span>
 
 Source: [Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk5SZ3RETm9ENEM1MnFBSHhJbEZqbFAwWjNtMTlnSWw1M0dPUDV3TDhLdTZOQWx2YTJEcHJFV0hsY3B5cVR1UldvRkQ3d0poNHFQNFkwYnItZVYycHo2WFhHZ3pPT1djajZWcmV6SU5nRWl0eDhtNzVDZm9SUkZteHR2Nzd4QU5sOVZ4Vko0b1hna25mcmRFa3FTbzVWR0lFS0dMZmhVQ3kxdERhZGlqZdIBpgFBVV95cUxOZjRNeWN1VEJLYTZXUUtib2FCd01ZWWNsYUtscHkydWtHeFBYT0N4d0lNTUJKZURLSG1valBEVHpwSVVmZzZDUEk1bm93Skh2MVVRelRteENxU09XNEFBV3FOUHN5WDk2R2NJaWlUcWVBeGhrZXNKdDR0NC1ydTBBTXlDS3lKbWpra1FxNjVZSGdmX1F4SjRPYXJWWE1kdjV2Tl9KUC1n?oc=5)
+
+---
+
+### [Papilloma virus, boom di casi. Il vaccino arma di prevenzione - il Giornale](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmIyOHBjbmJIeVBHWHhuSVdTaXNOLXNhMm1VQ0NHeUEzRUNjZHMteUUwNlNCalRMUDZVT1RieVJwZmNxb3JaeTV5RTVTT2hncUFXSElSeWJIUm5GLUV0aV94Z1A0bTdwUlZhMU5nWjRjYWtIWDgwZzd5V3VldHZrN0NWaWxVUFhWSDFGQkFCdGE3Zmhael9VemNoZDgyMk9XUElZ?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cancro</span>
+
+Source: [il Giornale](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmIyOHBjbmJIeVBHWHhuSVdTaXNOLXNhMm1VQ0NHeUEzRUNjZHMteUUwNlNCalRMUDZVT1RieVJwZmNxb3JaeTV5RTVTT2hncUFXSElSeWJIUm5GLUV0aV94Z1A0bTdwUlZhMU5nWjRjYWtIWDgwZzd5V3VldHZrN0NWaWxVUFhWSDFGQkFCdGE3Zmhael9VemNoZDgyMk9XUElZ?oc=5)
 
 ---
 
@@ -297,14 +305,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1Br
 
 ---
 
-### [La Marató de 3Cat 2025 permite impulsar 38 proyectos de investigación de 91 equipos expertos en cáncer - Europa Press](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORnVFZUFRdHNjR3BxS1EweUpzZXoyWHdfRDFUdzZlNEIyWUI2NFZNQTZNOWk1NDF1VnZaYnIySjNVTUxya01lSzN0eHkxMG53cGN5cHFlN0tKR19hSENQZGZrY05DcUFEMWI5RTZmRGZjOGY3NEpkSXc1OVpsT3g2dWotdUJubDZYN1B4S3MtNWVwMmtJbjdmb2Q3T3VhUk4wTE1RaW1IR3ZzZ2ZJeklBQlZFbF8ybFF3U0xoT3VnRmpSMG95QWdhbUNWN1BlOWFnLVcyRE03WU9vRHJHQW1odUxESHlmQ3M?oc=5)
-
-2026-11-05 <span class="news-indication-tag">cancer</span>
-
-Source: [Europa Press](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORnVFZUFRdHNjR3BxS1EweUpzZXoyWHdfRDFUdzZlNEIyWUI2NFZNQTZNOWk1NDF1VnZaYnIySjNVTUxya01lSzN0eHkxMG53cGN5cHFlN0tKR19hSENQZGZrY05DcUFEMWI5RTZmRGZjOGY3NEpkSXc1OVpsT3g2dWotdUJubDZYN1B4S3MtNWVwMmtJbjdmb2Q3T3VhUk4wTE1RaW1IR3ZzZ2ZJeklBQlZFbF8ybFF3U0xoT3VnRmpSMG95QWdhbUNWN1BlOWFnLVcyRE03WU9vRHJHQW1odUxESHlmQ3M?oc=5)
-
----
-
 ### [One thousand people diagnosed with cancer a DAY in 'record high' - the 5 biggest causes of disease - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnBKZ2xVMTRPZ183M00yWWVEOVpYNzdhUzF6Y0RXeXJhd01wREsxcGxkUDIxLWRGdWRpelVSdF9kZGtxa1hLcW5iNDJ5bmFDcVdkRXpOc3RBUG1XT1RnS3hCcDAwRDZOTlJQSVFjVGlWN2p6dnBtYmR6R2VoZnBHdkFBQXI5Qm1IUzhDSHZrOTJ4dHhrWVRwOQ?oc=5)
 
 2026-11-05 <span class="news-indication-tag">cancer</span>
@@ -313,7 +313,7 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnBKZ2xVM
 
 ---
 
-### [Fragen, die Patienten mit Krebs nach der Diagnose den Onkologen stellen sollten – Deutsches Ärzteblatt - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUjhOMVVUNUc1bE9FQWlORnVwdWFPN2VUaVZVTW9RTDF3VjUtakVuUDJBRE0tbFVLQnNtWW1rc0RFMENmOHhsMHRob3QweElQc0tOZ2dTNkNvQXBfYnBVTWFtNXhGd0NQT0s5LWJDbU9VbzBjUFJBeWpUTnhmd3haNS1wY19aWGdxb3J5UlBac0UyY2NEOGt0elFQSXAzR091em9XYk1QRXFrQkRzSDZKN1NUWG40Uk1YdlgtOU5RUmlZTlpqRjlNRDY2b0otTkl5Nkw1dEtoSlRBTm9fWWMyRQ?oc=5)
+### [Fragen, die Patienten mit Krebs nach der Diagnose den Onkologen stellen sollten – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUjhOMVVUNUc1bE9FQWlORnVwdWFPN2VUaVZVTW9RTDF3VjUtakVuUDJBRE0tbFVLQnNtWW1rc0RFMENmOHhsMHRob3QweElQc0tOZ2dTNkNvQXBfYnBVTWFtNXhGd0NQT0s5LWJDbU9VbzBjUFJBeWpUTnhmd3haNS1wY19aWGdxb3J5UlBac0UyY2NEOGt0elFQSXAzR091em9XYk1QRXFrQkRzSDZKN1NUWG40Uk1YdlgtOU5RUmlZTlpqRjlNRDY2b0otTkl5Nkw1dEtoSlRBTm9fWWMyRQ?oc=5)
 
 2026-11-05 <span class="news-indication-tag">Krebs</span>
 
@@ -590,6 +590,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtVkw4YzFEYUFQd
 2026-11-03 <span class="news-indication-tag">Krebs</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU1VNMzdnR2MxTHNLMlhpRXZBNGpSRDRzam14WU5Ka2F6VHZTcnJ1dndvWFViaTRaYnlKN2pmUnVpWXIyV2FEdEQ4Ujd6Vy1VcHVHckRrUWEwYU1aTHR3ck5ldjVpUlQ2NHhOclJHdElwbmVVMlJQcTJTYmxQWExhVmtuejJsV1B2Z25tY1loRGdTbG5jLU14Q1pQRS1PZHcwYTVRNlAyMWlwM0I0N05OQjNETUcxbGVGOXAzQUViTEJYWHdzNUVCa0syaXVIMnZDWlNOVEQxYWt6S29rdkFpWnZTLW0?oc=5)
+
+---
+
+### [“Tras un año, el 38% de pacientes con cáncer gástrico tratados con sonesitatug vedotin sobreviven, frente al 18% con quimioterapia estándar”](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUkRSTmhScTlWUTdQZXVfblFweE9sS0RnU1FkOWpQRnQxaFI2Rzd2VzVuTnJzanA0dmlmWDFJZXBXOFlUY0dfSnY4LUJ1ejhQRzRJa2ozaW04SUpmeE9GUUJ4V2tBbVZubXYzcHNZdnZLVkdST0RNN2Z2RG1yRzdOZmV1anJnOXVrRzROZVZEVzk5aHlQYkZRcmx1eTZCSTFOQk5la1dJZDMwTl94VkdLT3NkODlsNUNyeVZTQkRnTzlybldnZ2xpRTRkMVY5VDgwNVlIYm4wcnctNXRyOHhZdHdmQ01PcFZCZFQ3aktGNTdVM1dmc2c?oc=5)
+
+2026-11-03 <span class="news-drug-tag">Regorafenib</span> <span class="news-indication-tag">tumor</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUkRSTmhScTlWUTdQZXVfblFweE9sS0RnU1FkOWpQRnQxaFI2Rzd2VzVuTnJzanA0dmlmWDFJZXBXOFlUY0dfSnY4LUJ1ejhQRzRJa2ozaW04SUpmeE9GUUJ4V2tBbVZubXYzcHNZdnZLVkdST0RNN2Z2RG1yRzdOZmV1anJnOXVrRzROZVZEVzk5aHlQYkZRcmx1eTZCSTFOQk5la1dJZDMwTl94VkdLT3NkODlsNUNyeVZTQkRnTzlybldnZ2xpRTRkMVY5VDgwNVlIYm4wcnctNXRyOHhZdHdmQ01PcFZCZFQ3aktGNTdVM1dmc2c?oc=5)
 
 ---
 

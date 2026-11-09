@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Sotatercept. 10 predicted indications."
 permalink: /news/sotatercept/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Sotatercept News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Sotatercept?">
-<strong>Sotatercept</strong> currently has <strong>236 news articles</strong>, with 10 predicted indications.
+<strong>Sotatercept</strong> currently has <strong>237 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Sotatercept with the latest 
 <p><a href="{{ '/drugs/sotatercept/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (236)
+## Related News (237)
 
 ### [«A 47 anni mangiavo bio e facevo pilates, la mia vita era sanissima. Poi ho scoperto di avere un tumore al seno». Il racconto di Michelle - Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk5SZ3RETm9ENEM1MnFBSHhJbEZqbFAwWjNtMTlnSWw1M0dPUDV3TDhLdTZOQWx2YTJEcHJFV0hsY3B5cVR1UldvRkQ3d0poNHFQNFkwYnItZVYycHo2WFhHZ3pPT1djajZWcmV6SU5nRWl0eDhtNzVDZm9SUkZteHR2Nzd4QU5sOVZ4Vko0b1hna25mcmRFa3FTbzVWR0lFS0dMZmhVQ3kxdERhZGlqZdIBpgFBVV95cUxOZjRNeWN1VEJLYTZXUUtib2FCd01ZWWNsYUtscHkydWtHeFBYT0N4d0lNTUJKZURLSG1valBEVHpwSVVmZzZDUEk1bm93Skh2MVVRelRteENxU09XNEFBV3FOUHN5WDk2R2NJaWlUcWVBeGhrZXNKdDR0NC1ydTBBTXlDS3lKbWpra1FxNjVZSGdmX1F4SjRPYXJWWE1kdjV2Tl9KUC1n?oc=5)
 
@@ -57,6 +57,14 @@ Source: [Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk5
 2026-11-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
 
 Source: [La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRIblROOFoyLVE1SHVXQk1CTEp0cDJZdk45NU1TaTlPa0Z5N21pT0swZjlTNDEzMkZWdk5hdkVXdTV3QmhScXZackNtQ2tzajNER0J3aGgyVDU1czMwdzNvejNDX002WEJBeExiU0tXRldHZ0xrTElzTHA0VXlEQmltMVFJX1RveDJjSGVyVnZhTHRIYUQzNExnaDNRTjVPZXFUUDFVaUFFb19qNFk5Y1doc0ZaSUQ3b3RZakxRWHZaczFrLUcxcVJQNWpUU1h6V1lR0gHnAUFVX3lxTE9ZbG51eG0zMm5SekhjamFpa1N4QzZQNGR2cno5OFpmRzlZZEZFQk55VFp5dUhORzU4SEViYVdVdk1wdkRtODlKNDMyMjFyVU5rTURKZkJoV010VzRrNUhHVFhNTmhPZXhzaGRfUUo1Z0pCNnMzci1Gd2hRZTBzUjlZRGpYNnVITjdKeXhwcjJkcmdsdG5uMkdDZkRqejNxX0R4TEFRRXJDb0RRYlpNYUFXWHFwUXpxN3BqSTc3NmpRZzZtdF91RnV6RWRHc1N3RmZTUnQ0TFUtMWVvbm1wM2VJYUliQnQ0bw?oc=5)
+
+---
+
+### [Papilloma virus, boom di casi. Il vaccino arma di prevenzione - il Giornale](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmIyOHBjbmJIeVBHWHhuSVdTaXNOLXNhMm1VQ0NHeUEzRUNjZHMteUUwNlNCalRMUDZVT1RieVJwZmNxb3JaeTV5RTVTT2hncUFXSElSeWJIUm5GLUV0aV94Z1A0bTdwUlZhMU5nWjRjYWtIWDgwZzd5V3VldHZrN0NWaWxVUFhWSDFGQkFCdGE3Zmhael9VemNoZDgyMk9XUElZ?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cancro</span>
+
+Source: [il Giornale](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmIyOHBjbmJIeVBHWHhuSVdTaXNOLXNhMm1VQ0NHeUEzRUNjZHMteUUwNlNCalRMUDZVT1RieVJwZmNxb3JaeTV5RTVTT2hncUFXSElSeWJIUm5GLUV0aV94Z1A0bTdwUlZhMU5nWjRjYWtIWDgwZzd5V3VldHZrN0NWaWxVUFhWSDFGQkFCdGE3Zmhael9VemNoZDgyMk9XUElZ?oc=5)
 
 ---
 
@@ -153,14 +161,6 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWG01QUUxeHRh
 2026-11-07 <span class="news-indication-tag">diabetes</span>
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPRldXU3ZfQk8xeGduTjdSYlZiQnpWd3h2a3h3Y3NSZ0tjMVlZTmFVYTAtZndHWlRhZ0d2VlZIQzMydHFlcTV1a0hNOWs5Q3RETDdzY2IwUElxZUVmQnMwSExrWW1LN0NON1NvVDF1Qm43bElHRHU2ZjVreEg1cDhKNEZ2VmhXTXh0OHVYSGRRVWRzdzNJSXNITXBOMzdtcEnSAaQBQVVfeXFMTjBTM1JtNGd4eXZnQXNtWHpfdDUyUjNIQ3NNbUFwcFgzMm1BU05hejVoZ0t5RGJFeElUaU90ejdVYlVVdGRuYTFhWjBYUmsyNWtpVmtfdDZqR3VxanItaXJTYlRVcWhmZXlCQkpnbll4aEkwY3lxYUExUm5fcEMwc21reV9nSFZjbEN0ZV9BQzBMbGZBRFZITDZEeVJ1ZnJEQ3hsYUI?oc=5)
-
----
-
-### [From kiwis to squash, the fruits and vegetables you should be eating from root to tip to boost health and stop waste - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWh2VnNEdmpKNFhLNk55amQ4UXV6WktWc3JmN0dIVDNDRTJsVng4NFNYSE16cWVGOVhkaTV3alBFUjlmS0hSV0EybnpLRlBqQWRaNnhtb3FIUndjWms3bzd4TFpnTjRzTmhmTnBPNFRNdUluUUJWSm1MTUhzbjFWMklLdUxsWUwyM3VaRTJrbw?oc=5)
-
-2026-11-07 <span class="news-indication-tag">diabetes</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWh2VnNEdmpKNFhLNk55amQ4UXV6WktWc3JmN0dIVDNDRTJsVng4NFNYSE16cWVGOVhkaTV3alBFUjlmS0hSV0EybnpLRlBqQWRaNnhtb3FIUndjWms3bzd4TFpnTjRzTmhmTnBPNFRNdUluUUJWSm1MTUhzbjFWMklLdUxsWUwyM3VaRTJrbw?oc=5)
 
 ---
 
@@ -484,14 +484,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1Br
 
 ---
 
-### [La Marató de 3Cat 2025 permite impulsar 38 proyectos de investigación de 91 equipos expertos en cáncer - Europa Press](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORnVFZUFRdHNjR3BxS1EweUpzZXoyWHdfRDFUdzZlNEIyWUI2NFZNQTZNOWk1NDF1VnZaYnIySjNVTUxya01lSzN0eHkxMG53cGN5cHFlN0tKR19hSENQZGZrY05DcUFEMWI5RTZmRGZjOGY3NEpkSXc1OVpsT3g2dWotdUJubDZYN1B4S3MtNWVwMmtJbjdmb2Q3T3VhUk4wTE1RaW1IR3ZzZ2ZJeklBQlZFbF8ybFF3U0xoT3VnRmpSMG95QWdhbUNWN1BlOWFnLVcyRE03WU9vRHJHQW1odUxESHlmQ3M?oc=5)
-
-2026-11-05 <span class="news-indication-tag">cancer</span>
-
-Source: [Europa Press](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORnVFZUFRdHNjR3BxS1EweUpzZXoyWHdfRDFUdzZlNEIyWUI2NFZNQTZNOWk1NDF1VnZaYnIySjNVTUxya01lSzN0eHkxMG53cGN5cHFlN0tKR19hSENQZGZrY05DcUFEMWI5RTZmRGZjOGY3NEpkSXc1OVpsT3g2dWotdUJubDZYN1B4S3MtNWVwMmtJbjdmb2Q3T3VhUk4wTE1RaW1IR3ZzZ2ZJeklBQlZFbF8ybFF3U0xoT3VnRmpSMG95QWdhbUNWN1BlOWFnLVcyRE03WU9vRHJHQW1odUxESHlmQ3M?oc=5)
-
----
-
 ### [One thousand people diagnosed with cancer a DAY in 'record high' - the 5 biggest causes of disease - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnBKZ2xVMTRPZ183M00yWWVEOVpYNzdhUzF6Y0RXeXJhd01wREsxcGxkUDIxLWRGdWRpelVSdF9kZGtxa1hLcW5iNDJ5bmFDcVdkRXpOc3RBUG1XT1RnS3hCcDAwRDZOTlJQSVFjVGlWN2p6dnBtYmR6R2VoZnBHdkFBQXI5Qm1IUzhDSHZrOTJ4dHhrWVRwOQ?oc=5)
 
 2026-11-05 <span class="news-indication-tag">cancer</span>
@@ -500,7 +492,7 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnBKZ2xVM
 
 ---
 
-### [Fragen, die Patienten mit Krebs nach der Diagnose den Onkologen stellen sollten – Deutsches Ärzteblatt - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUjhOMVVUNUc1bE9FQWlORnVwdWFPN2VUaVZVTW9RTDF3VjUtakVuUDJBRE0tbFVLQnNtWW1rc0RFMENmOHhsMHRob3QweElQc0tOZ2dTNkNvQXBfYnBVTWFtNXhGd0NQT0s5LWJDbU9VbzBjUFJBeWpUTnhmd3haNS1wY19aWGdxb3J5UlBac0UyY2NEOGt0elFQSXAzR091em9XYk1QRXFrQkRzSDZKN1NUWG40Uk1YdlgtOU5RUmlZTlpqRjlNRDY2b0otTkl5Nkw1dEtoSlRBTm9fWWMyRQ?oc=5)
+### [Fragen, die Patienten mit Krebs nach der Diagnose den Onkologen stellen sollten – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUjhOMVVUNUc1bE9FQWlORnVwdWFPN2VUaVZVTW9RTDF3VjUtakVuUDJBRE0tbFVLQnNtWW1rc0RFMENmOHhsMHRob3QweElQc0tOZ2dTNkNvQXBfYnBVTWFtNXhGd0NQT0s5LWJDbU9VbzBjUFJBeWpUTnhmd3haNS1wY19aWGdxb3J5UlBac0UyY2NEOGt0elFQSXAzR091em9XYk1QRXFrQkRzSDZKN1NUWG40Uk1YdlgtOU5RUmlZTlpqRjlNRDY2b0otTkl5Nkw1dEtoSlRBTm9fWWMyRQ?oc=5)
 
 2026-11-05 <span class="news-indication-tag">Krebs</span>
 
@@ -873,6 +865,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtVkw4YzFEYUFQd
 2026-11-03 <span class="news-indication-tag">Krebs</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU1VNMzdnR2MxTHNLMlhpRXZBNGpSRDRzam14WU5Ka2F6VHZTcnJ1dndvWFViaTRaYnlKN2pmUnVpWXIyV2FEdEQ4Ujd6Vy1VcHVHckRrUWEwYU1aTHR3ck5ldjVpUlQ2NHhOclJHdElwbmVVMlJQcTJTYmxQWExhVmtuejJsV1B2Z25tY1loRGdTbG5jLU14Q1pQRS1PZHcwYTVRNlAyMWlwM0I0N05OQjNETUcxbGVGOXAzQUViTEJYWHdzNUVCa0syaXVIMnZDWlNOVEQxYWt6S29rdkFpWnZTLW0?oc=5)
+
+---
+
+### [“Tras un año, el 38% de pacientes con cáncer gástrico tratados con sonesitatug vedotin sobreviven, frente al 18% con quimioterapia estándar”](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUkRSTmhScTlWUTdQZXVfblFweE9sS0RnU1FkOWpQRnQxaFI2Rzd2VzVuTnJzanA0dmlmWDFJZXBXOFlUY0dfSnY4LUJ1ejhQRzRJa2ozaW04SUpmeE9GUUJ4V2tBbVZubXYzcHNZdnZLVkdST0RNN2Z2RG1yRzdOZmV1anJnOXVrRzROZVZEVzk5aHlQYkZRcmx1eTZCSTFOQk5la1dJZDMwTl94VkdLT3NkODlsNUNyeVZTQkRnTzlybldnZ2xpRTRkMVY5VDgwNVlIYm4wcnctNXRyOHhZdHdmQ01PcFZCZFQ3aktGNTdVM1dmc2c?oc=5)
+
+2026-11-03 <span class="news-drug-tag">Regorafenib</span> <span class="news-indication-tag">tumor</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUkRSTmhScTlWUTdQZXVfblFweE9sS0RnU1FkOWpQRnQxaFI2Rzd2VzVuTnJzanA0dmlmWDFJZXBXOFlUY0dfSnY4LUJ1ejhQRzRJa2ozaW04SUpmeE9GUUJ4V2tBbVZubXYzcHNZdnZLVkdST0RNN2Z2RG1yRzdOZmV1anJnOXVrRzROZVZEVzk5aHlQYkZRcmx1eTZCSTFOQk5la1dJZDMwTl94VkdLT3NkODlsNUNyeVZTQkRnTzlybldnZ2xpRTRkMVY5VDgwNVlIYm4wcnctNXRyOHhZdHdmQ01PcFZCZFQ3aktGNTdVM1dmc2c?oc=5)
 
 ---
 
@@ -1441,6 +1441,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2lxQzg1
 2026-11-02 <span class="news-indication-tag">cancer</span>
 
 Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN2szZXZNSjctYjlWa3hCdmdLSTVzUFdIT0tYOFNUQjlZOXRPZFFYNXozazdwdWEzbTVkMjF1X1B3cGwteUhKTDV1Nk1uRmlvYkNvYXF3eXNNNUJVd1c2NDg3YUFkY0RuZDFJM2M4dTQ0TmJYa3Q4VGVFaTh5Yk1YSzhJWWpKaFVZWUxLaDlRRWZPVzFONGQtV3owUnpBQ3dydUtFS28yWGNLdERPVEExbGFueTJfY0pWUmZNZGE1dUs?oc=5)
+
+---
+
+### [Herpes zoster: Später Gruß der Windpocken: 8 Fragen zur Gürtelrose](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1ROaExGUnhMQTZ4UEplOHhqUVJlelJpWURNTElnMEs1Y1lhd1l5Y2M4aFdsWUlIdUsxdk8weUtCa19hcXVMR3BBT3gzSEdXRDNtY0hWUXZmTFY2dXhrN1drSHQ1dFZiZ3kxNWdwOUVEcGRaUjRnYVpkcWYtbEZTN0VzODhfTWRYRHpaR2ZnYnYzbGY3Q19RaXlnQlFhc1c2SHhRYS1Zbm01WHlnX0c2S3dBQVJIMTdwUzVjNlhTY2N3Zw?oc=5)
+
+2026-11-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [WirtschaftsWoche](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1ROaExGUnhMQTZ4UEplOHhqUVJlelJpWURNTElnMEs1Y1lhd1l5Y2M4aFdsWUlIdUsxdk8weUtCa19hcXVMR3BBT3gzSEdXRDNtY0hWUXZmTFY2dXhrN1drSHQ1dFZiZ3kxNWdwOUVEcGRaUjRnYVpkcWYtbEZTN0VzODhfTWRYRHpaR2ZnYnYzbGY3Q19RaXlnQlFhc1c2SHhRYS1Zbm01WHlnX0c2S3dBQVJIMTdwUzVjNlhTY2N3Zw?oc=5)
 
 ---
 

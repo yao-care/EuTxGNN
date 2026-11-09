@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Semaglutide. 0 predicted indications."
 permalink: /news/semaglutide/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Semaglutide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>24 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>26 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (24)
+## Related News (26)
+
+### ["Un pansement sur une hémorragie" : sur M6, Bruno Mougenot, qui a perdu 100 kilos sans médicament, alerte sur l'effet "dévastateur" du Wegovy](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3ZtbHNYNDZrY2I0SmRjYW00dExMaGd4anFOaHZ2Nl9sdkRNanp0X1BKSV9mR1dhY2VsVnZBMXBGZ3RsMW94b201R25mQ0JpalZTUjR1dXp0dzJqTWVjaE40VWdzN3c5WGRNZ2tHWnVxQ0FRYUZ6N2F4YVFtb2RvNEFWWUJDVDI4UkJmTXlMbTVMbE1XMlZHdzBhSXVlWG8ySmJxbWtXQjY0TXlBXzcxLXZiOWVXLVNRM0VGLWRZM1hWSkFHclcxdUpxbXJPYnprRURyNDRUMlp4RlFLTjFvRWY5ejlkeTZCajBGeDBFTzMtTmZ6TTl5Nlp3?oc=5)
+
+2026-11-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [RTL](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3ZtbHNYNDZrY2I0SmRjYW00dExMaGd4anFOaHZ2Nl9sdkRNanp0X1BKSV9mR1dhY2VsVnZBMXBGZ3RsMW94b201R25mQ0JpalZTUjR1dXp0dzJqTWVjaE40VWdzN3c5WGRNZ2tHWnVxQ0FRYUZ6N2F4YVFtb2RvNEFWWUJDVDI4UkJmTXlMbTVMbE1XMlZHdzBhSXVlWG8ySmJxbWtXQjY0TXlBXzcxLXZiOWVXLVNRM0VGLWRZM1hWSkFHclcxdUpxbXJPYnprRURyNDRUMlp4RlFLTjFvRWY5ejlkeTZCajBGeDBFTzMtTmZ6TTl5Nlp3?oc=5)
+
+---
 
 ### [Les médicaments contre l'obésité comme Ozempic mènent-ils au divorce?](https://news.google.com/rss/articles/CBMiogFBVV95cUxQR25lU2pBeVVrTlRJenJiWTRaVUhjM3pQVTdNQ1VmZ1RKTV9jYURqMTZzcGM0Z2xJdmpLMS1sNzdCRUF4YWl0YTQ0bk5iUUN5MXBsZUpiTmpha0RtZEVrdGpHcjFPMXluVDVRelRFMnh3WE0zN2hpWi1uMWtnckxDeDBPTG54MHBMUUxTbU1VYlZWd25BYndYd0YxbmhQZG45cXc?oc=5)
 
@@ -140,6 +148,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMidEFVX3lxTE1aQnJVXzhaR
 2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
 Source: [ma-sante.news](https://news.google.com/rss/articles/CBMickFVX3lxTE9oZXVZMi1GUTB0akNfZE94azNDMzlNTll2YlI2anppMXE0d09HNXF1QkJ2dGdDVW5nNmRBdFp5OFd0NUdlcm5MMEdqQ0tWbFFHNmI3MnFuUWdyeEJ1Y1VvbEViTGxLYUNPUTFWQmh5a3RDZw?oc=5)
+
+---
+
+### [Disponible en España el primer tratamiento oral GLP-1 para el control de peso - La Rioja](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTB5WWVXcUVjaS1jYWp1Sm5CM0hoS1p0bWVQZnhWTTdRdkNPWVVtVUpMS29FdjgyaTk4U0dLRi1rSEVNVUhydzBBTm43RG5pcWw5eHJyVU5xTHRIdzNESVNsb1NTMDVmUUQzaXQ1Y0dMQ3o4V1N3ZkNVamRVSUtYX3VvSDUta28xSUVXa3pZT1ItMFRiTVAzU01KNmNpQmExR0VJSVFNdVlDS0UzamVN0gG0AUFVX3lxTE93U1lkSUR3QUFtOE9fMXNLcFFUY1FHRlpoLUpkRW8tZVBZdE13Q2luWTBscENWS0E2cDZ1cjJra1ZXZ2hYQU4yQ0JVVUdRaVRIQTFudWhlVEJEMDFEd2tvR2NRb2tMREdXcE5iTWE4VHd1aE5jVGxTWjlyc0FFcmJqbkM2My1uY0lfUlRzZ2N5TnZXdEx3cGdyenpaS0Q5X3JRQWliR0N5SnQtcTdLT3lUblEwcQ?oc=5)
+
+2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [La Rioja](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTB5WWVXcUVjaS1jYWp1Sm5CM0hoS1p0bWVQZnhWTTdRdkNPWVVtVUpMS29FdjgyaTk4U0dLRi1rSEVNVUhydzBBTm43RG5pcWw5eHJyVU5xTHRIdzNESVNsb1NTMDVmUUQzaXQ1Y0dMQ3o4V1N3ZkNVamRVSUtYX3VvSDUta28xSUVXa3pZT1ItMFRiTVAzU01KNmNpQmExR0VJSVFNdVlDS0UzamVN0gG0AUFVX3lxTE93U1lkSUR3QUFtOE9fMXNLcFFUY1FHRlpoLUpkRW8tZVBZdE13Q2luWTBscENWS0E2cDZ1cjJra1ZXZ2hYQU4yQ0JVVUdRaVRIQTFudWhlVEJEMDFEd2tvR2NRb2tMREdXcE5iTWE4VHd1aE5jVGxTWjlyc0FFcmJqbkM2My1uY0lfUlRzZ2N5TnZXdEx3cGdyenpaS0Q5X3JRQWliR0N5SnQtcTdLT3lUblEwcQ?oc=5)
 
 ---
 

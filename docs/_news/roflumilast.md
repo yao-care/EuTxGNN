@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Roflumilast. 0 predicted indications."
 permalink: /news/roflumilast/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Roflumilast News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Roflumilast?">
-<strong>Roflumilast</strong> currently has <strong>209 news articles</strong>, with 0 predicted indications.
+<strong>Roflumilast</strong> currently has <strong>211 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Roflumilast with the latest 
 <p><a href="{{ '/drugs/roflumilast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (209)
+## Related News (211)
+
+### [Bluthochdruck: Einzelpillen senken den systolischen Wert um 10,1 mm Hg stärker](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDhhOWFndWctbTRQdEdyeXlfaVBvMjhid2hfand4LW1CS004R3Q2ZFdLcU9IUDF1c3dNSVlGdHJNOHRpSnhCeW5VWk80dEVWWkdTNlB5Q0RCY2QtVmN3cnJaSFp6Nl9peXNYOXM2eVh2M2dpcWk5d1BudTBrLXd6RmdxZUFPOHFzc1drdXVEQURzQ2dJU1FUbmVOTGFvYmI4NTdWTzdJT2VydU15b3BjbHI3ejVkOEwtVE8wSUVNR0FwR25fS1E?oc=5)
+
+2026-11-08 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDhhOWFndWctbTRQdEdyeXlfaVBvMjhid2hfand4LW1CS004R3Q2ZFdLcU9IUDF1c3dNSVlGdHJNOHRpSnhCeW5VWk80dEVWWkdTNlB5Q0RCY2QtVmN3cnJaSFp6Nl9peXNYOXM2eVh2M2dpcWk5d1BudTBrLXd6RmdxZUFPOHFzc1drdXVEQURzQ2dJU1FUbmVOTGFvYmI4NTdWTzdJT2VydU15b3BjbHI3ejVkOEwtVE8wSUVNR0FwR25fS1E?oc=5)
+
+---
 
 ### [New drug could be cure for common cause of high blood pressure - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
 
@@ -61,6 +69,14 @@ Source: [Journal du Geek](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR
 2026-11-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
 
 Source: [La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRIblROOFoyLVE1SHVXQk1CTEp0cDJZdk45NU1TaTlPa0Z5N21pT0swZjlTNDEzMkZWdk5hdkVXdTV3QmhScXZackNtQ2tzajNER0J3aGgyVDU1czMwdzNvejNDX002WEJBeExiU0tXRldHZ0xrTElzTHA0VXlEQmltMVFJX1RveDJjSGVyVnZhTHRIYUQzNExnaDNRTjVPZXFUUDFVaUFFb19qNFk5Y1doc0ZaSUQ3b3RZakxRWHZaczFrLUcxcVJQNWpUU1h6V1lR0gHnAUFVX3lxTE9ZbG51eG0zMm5SekhjamFpa1N4QzZQNGR2cno5OFpmRzlZZEZFQk55VFp5dUhORzU4SEViYVdVdk1wdkRtODlKNDMyMjFyVU5rTURKZkJoV010VzRrNUhHVFhNTmhPZXhzaGRfUUo1Z0pCNnMzci1Gd2hRZTBzUjlZRGpYNnVITjdKeXhwcjJkcmdsdG5uMkdDZkRqejNxX0R4TEFRRXJDb0RRYlpNYUFXWHFwUXpxN3BqSTc3NmpRZzZtdF91RnV6RWRHc1N3RmZTUnQ0TFUtMWVvbm1wM2VJYUliQnQ0bw?oc=5)
+
+---
+
+### [Papilloma virus, boom di casi. Il vaccino arma di prevenzione - il Giornale](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmIyOHBjbmJIeVBHWHhuSVdTaXNOLXNhMm1VQ0NHeUEzRUNjZHMteUUwNlNCalRMUDZVT1RieVJwZmNxb3JaeTV5RTVTT2hncUFXSElSeWJIUm5GLUV0aV94Z1A0bTdwUlZhMU5nWjRjYWtIWDgwZzd5V3VldHZrN0NWaWxVUFhWSDFGQkFCdGE3Zmhael9VemNoZDgyMk9XUElZ?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cancro</span>
+
+Source: [il Giornale](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmIyOHBjbmJIeVBHWHhuSVdTaXNOLXNhMm1VQ0NHeUEzRUNjZHMteUUwNlNCalRMUDZVT1RieVJwZmNxb3JaeTV5RTVTT2hncUFXSElSeWJIUm5GLUV0aV94Z1A0bTdwUlZhMU5nWjRjYWtIWDgwZzd5V3VldHZrN0NWaWxVUFhWSDFGQkFCdGE3Zmhael9VemNoZDgyMk9XUElZ?oc=5)
 
 ---
 
@@ -384,14 +400,6 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUpmZW
 
 ---
 
-### [La Marató de 3Cat 2025 permite impulsar 38 proyectos de investigación de 91 equipos expertos en cáncer - Europa Press](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORnVFZUFRdHNjR3BxS1EweUpzZXoyWHdfRDFUdzZlNEIyWUI2NFZNQTZNOWk1NDF1VnZaYnIySjNVTUxya01lSzN0eHkxMG53cGN5cHFlN0tKR19hSENQZGZrY05DcUFEMWI5RTZmRGZjOGY3NEpkSXc1OVpsT3g2dWotdUJubDZYN1B4S3MtNWVwMmtJbjdmb2Q3T3VhUk4wTE1RaW1IR3ZzZ2ZJeklBQlZFbF8ybFF3U0xoT3VnRmpSMG95QWdhbUNWN1BlOWFnLVcyRE03WU9vRHJHQW1odUxESHlmQ3M?oc=5)
-
-2026-11-05 <span class="news-indication-tag">cancer</span>
-
-Source: [Europa Press](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORnVFZUFRdHNjR3BxS1EweUpzZXoyWHdfRDFUdzZlNEIyWUI2NFZNQTZNOWk1NDF1VnZaYnIySjNVTUxya01lSzN0eHkxMG53cGN5cHFlN0tKR19hSENQZGZrY05DcUFEMWI5RTZmRGZjOGY3NEpkSXc1OVpsT3g2dWotdUJubDZYN1B4S3MtNWVwMmtJbjdmb2Q3T3VhUk4wTE1RaW1IR3ZzZ2ZJeklBQlZFbF8ybFF3U0xoT3VnRmpSMG95QWdhbUNWN1BlOWFnLVcyRE03WU9vRHJHQW1odUxESHlmQ3M?oc=5)
-
----
-
 ### [One thousand people diagnosed with cancer a DAY in 'record high' - the 5 biggest causes of disease - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnBKZ2xVMTRPZ183M00yWWVEOVpYNzdhUzF6Y0RXeXJhd01wREsxcGxkUDIxLWRGdWRpelVSdF9kZGtxa1hLcW5iNDJ5bmFDcVdkRXpOc3RBUG1XT1RnS3hCcDAwRDZOTlJQSVFjVGlWN2p6dnBtYmR6R2VoZnBHdkFBQXI5Qm1IUzhDSHZrOTJ4dHhrWVRwOQ?oc=5)
 
 2026-11-05 <span class="news-indication-tag">cancer</span>
@@ -400,7 +408,7 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnBKZ2xVM
 
 ---
 
-### [Fragen, die Patienten mit Krebs nach der Diagnose den Onkologen stellen sollten – Deutsches Ärzteblatt - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUjhOMVVUNUc1bE9FQWlORnVwdWFPN2VUaVZVTW9RTDF3VjUtakVuUDJBRE0tbFVLQnNtWW1rc0RFMENmOHhsMHRob3QweElQc0tOZ2dTNkNvQXBfYnBVTWFtNXhGd0NQT0s5LWJDbU9VbzBjUFJBeWpUTnhmd3haNS1wY19aWGdxb3J5UlBac0UyY2NEOGt0elFQSXAzR091em9XYk1QRXFrQkRzSDZKN1NUWG40Uk1YdlgtOU5RUmlZTlpqRjlNRDY2b0otTkl5Nkw1dEtoSlRBTm9fWWMyRQ?oc=5)
+### [Fragen, die Patienten mit Krebs nach der Diagnose den Onkologen stellen sollten – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUjhOMVVUNUc1bE9FQWlORnVwdWFPN2VUaVZVTW9RTDF3VjUtakVuUDJBRE0tbFVLQnNtWW1rc0RFMENmOHhsMHRob3QweElQc0tOZ2dTNkNvQXBfYnBVTWFtNXhGd0NQT0s5LWJDbU9VbzBjUFJBeWpUTnhmd3haNS1wY19aWGdxb3J5UlBac0UyY2NEOGt0elFQSXAzR091em9XYk1QRXFrQkRzSDZKN1NUWG40Uk1YdlgtOU5RUmlZTlpqRjlNRDY2b0otTkl5Nkw1dEtoSlRBTm9fWWMyRQ?oc=5)
 
 2026-11-05 <span class="news-indication-tag">Krebs</span>
 
@@ -773,6 +781,14 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU1VNMzdnR2Mx
 2026-11-03 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHF6YWQ5dFpvTkwySjItNEZHRm1xREE4NGlvYjBob2lybTZETEx1SlpXTi1VazF4MDI0WEFXLWZaRHpKZDRDXzktTVB6MEtvRUowc0UwYVVnTWtQX0dwNHJ5YlZOSHh5cUFzSHltNmhDcW5IUDlkY1V4Y05aRzJtaFo3UWdMUXRIYWR4MTFiNU16d0Zqb2IyX0VNcGlRZWc?oc=5)
+
+---
+
+### [“Tras un año, el 38% de pacientes con cáncer gástrico tratados con sonesitatug vedotin sobreviven, frente al 18% con quimioterapia estándar”](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUkRSTmhScTlWUTdQZXVfblFweE9sS0RnU1FkOWpQRnQxaFI2Rzd2VzVuTnJzanA0dmlmWDFJZXBXOFlUY0dfSnY4LUJ1ejhQRzRJa2ozaW04SUpmeE9GUUJ4V2tBbVZubXYzcHNZdnZLVkdST0RNN2Z2RG1yRzdOZmV1anJnOXVrRzROZVZEVzk5aHlQYkZRcmx1eTZCSTFOQk5la1dJZDMwTl94VkdLT3NkODlsNUNyeVZTQkRnTzlybldnZ2xpRTRkMVY5VDgwNVlIYm4wcnctNXRyOHhZdHdmQ01PcFZCZFQ3aktGNTdVM1dmc2c?oc=5)
+
+2026-11-03 <span class="news-drug-tag">Regorafenib</span> <span class="news-indication-tag">tumor</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUkRSTmhScTlWUTdQZXVfblFweE9sS0RnU1FkOWpQRnQxaFI2Rzd2VzVuTnJzanA0dmlmWDFJZXBXOFlUY0dfSnY4LUJ1ejhQRzRJa2ozaW04SUpmeE9GUUJ4V2tBbVZubXYzcHNZdnZLVkdST0RNN2Z2RG1yRzdOZmV1anJnOXVrRzROZVZEVzk5aHlQYkZRcmx1eTZCSTFOQk5la1dJZDMwTl94VkdLT3NkODlsNUNyeVZTQkRnTzlybldnZ2xpRTRkMVY5VDgwNVlIYm4wcnctNXRyOHhZdHdmQ01PcFZCZFQ3aktGNTdVM1dmc2c?oc=5)
 
 ---
 

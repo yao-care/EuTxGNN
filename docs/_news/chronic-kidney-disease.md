@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "enfermedad renal crónica (chronic kidney disease) News"
+title: "chronische Nierenerkrankung (chronic kidney disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about enfermedad renal crónica (chronic kidney disease). 5 articles, 1 related drugs."
+description: "Health news about chronische Nierenerkrankung (chronic kidney disease). 6 articles, 1 related drugs."
 permalink: /news/chronic-kidney-disease/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
-# enfermedad renal crónica (chronic kidney disease) News
+# chronische Nierenerkrankung (chronic kidney disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about enfermedad renal crónica (chronic kidney disease)?">
-<strong>enfermedad renal crónica (chronic kidney disease)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about chronische Nierenerkrankung (chronic kidney disease)?">
+<strong>chronische Nierenerkrankung (chronic kidney disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “enfermedad renal crónica” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “chronische Nierenerkrankung” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “enfermedad renal crón
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Chronische Nierenerkrankung: 100 Millionen Betroffene in Europa im Fokus](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFFvSVEtSGZwRms4ZU9QY1JiZ3Vlb21sQmcyalE2MmJNMWRpRXBfNFk4Uk5YSmlBWUhHN2tlX0NBbVBsd1BNR2hlVl94SkhLZGc2X3Q3Q0NmUnVMYk1LcUFVUU1hRXdTeXJHdDNoLWE1LUY2ZFhMRWZnWE11djAxZktRM3pfVXdKaVpFU0ExM2F6NjJjM1VaZnlicTVITkM4cHhHY0IyczhheGdlMTZRUlhCSzFLS2w4SkliTg?oc=5)
+
+2026-11-09
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFFvSVEtSGZwRms4ZU9QY1JiZ3Vlb21sQmcyalE2MmJNMWRpRXBfNFk4Uk5YSmlBWUhHN2tlX0NBbVBsd1BNR2hlVl94SkhLZGc2X3Q3Q0NmUnVMYk1LcUFVUU1hRXdTeXJHdDNoLWE1LUY2ZFhMRWZnWE11djAxZktRM3pfVXdKaVpFU0ExM2F6NjJjM1VaZnlicTVITkM4cHhHY0IyczhheGdlMTZRUlhCSzFLS2w4SkliTg?oc=5)
+
+---
 
 ### [Llegan esperanzadores avances que transforman la enfermedad renal crónica - La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRIblROOFoyLVE1SHVXQk1CTEp0cDJZdk45NU1TaTlPa0Z5N21pT0swZjlTNDEzMkZWdk5hdkVXdTV3QmhScXZackNtQ2tzajNER0J3aGgyVDU1czMwdzNvejNDX002WEJBeExiU0tXRldHZ0xrTElzTHA0VXlEQmltMVFJX1RveDJjSGVyVnZhTHRIYUQzNExnaDNRTjVPZXFUUDFVaUFFb19qNFk5Y1doc0ZaSUQ3b3RZakxRWHZaczFrLUcxcVJQNWpUU1h6V1lR0gHnAUFVX3lxTE9ZbG51eG0zMm5SekhjamFpa1N4QzZQNGR2cno5OFpmRzlZZEZFQk55VFp5dUhORzU4SEViYVdVdk1wdkRtODlKNDMyMjFyVU5rTURKZkJoV010VzRrNUhHVFhNTmhPZXhzaGRfUUo1Z0pCNnMzci1Gd2hRZTBzUjlZRGpYNnVITjdKeXhwcjJkcmdsdG5uMkdDZkRqejNxX0R4TEFRRXJDb0RRYlpNYUFXWHFwUXpxN3BqSTc3NmpRZzZtdF91RnV6RWRHc1N3RmZTUnQ0TFUtMWVvbm1wM2VJYUliQnQ0bw?oc=5)
 

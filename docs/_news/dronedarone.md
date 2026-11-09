@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Dronedarone. 9 predicted indications."
 permalink: /news/dronedarone/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Dronedarone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>63 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>64 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (63)
+## Related News (64)
 
 ### [Medizinischer Fortschritt: Weniger Todesfälle durch Herzinfarkt und Schlaganfall](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWxya0J2NDZLV1pEMXlaZEE5YkRlU3pxSkY4bGFseU9UN0JaUjlLcHM1NDFsSmZCY3oxUWdFcVVmbUNjQURBZ09JelY5WTRHaG5qck00YnJwdzRGeWFvNWJ5WGFVcHRtd000YTRYQk9pUWcwTXhJVlFaM0FKMElBTDZlckxsOHhtNngzdDZfbkM1dUhoY1BXYnJDOENWamJVeTBpSEZDa0g2WmFTal9xcVBGOVVqTXBoMXdRVGd6cw?oc=5)
 
@@ -128,6 +128,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmRjZ1g3
 2026-11-05 <span class="news-indication-tag">stroke</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhRFQ4cjhybFpmMklwUWJicm5VNlRYelpFcWVJd2VfcW5tejl2S0NIcTBPWUdvd3EzVGZTU3FiNExUd1hrSVRUeUZFV3U2TDFsSDJPM1NnSDFNZHVvR1E?oc=5)
+
+---
+
+### [El impacto invisible del hígado graso: más ictus e infartos - La Razón](https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnBMcGMzY3V4cWxUM05ueEdLY29lcURjNVJpUDZEQm5HZlJvY2R3TVlxOVFrejAyU0NPcFcwLXFzYXlKRWNMTUpWSkJrYUllU1FZTnNBU2JEZnI2SVJnQmVSX05tUDh6ZWdaZVlCNU5tRTBiamZ4bjRLU1d6UTRPM3JWNU9XVm1OSDY5c3dzeFppMkl0Qms3dWV6MTYwQTY4UEFoTFVhVG9hLWdqSUVZQ3RNam1jWFnSAcsBQVVfeXFMUFJicFVzSmdqX19MQ2JzemFNOXM1N1gyV2dmQUJiaURMaThucUlzMDJ6UkpvOEVuWExTckpFRWFaYUM2QTFSaVF5TkdDQm5xNXd5MkI3R1RJNXZPMjBIYmFaT0dLcGZsZmRvT1p6Ty1VaDUwZVRhZ25ycGVKR0JWYmZhV29CRnl4SWZWRU4tYTROcEl0R0hmNXZ1c1RaR3lXYUV2b0Q5QlphNVB1R3pxSHQ0SnJ1OFNXaUVwUjluVk5PZm1OcE1HN2FvYzQ?oc=5)
+
+2026-11-05 <span class="news-indication-tag">ictus</span>
+
+Source: [La Razón](https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnBMcGMzY3V4cWxUM05ueEdLY29lcURjNVJpUDZEQm5HZlJvY2R3TVlxOVFrejAyU0NPcFcwLXFzYXlKRWNMTUpWSkJrYUllU1FZTnNBU2JEZnI2SVJnQmVSX05tUDh6ZWdaZVlCNU5tRTBiamZ4bjRLU1d6UTRPM3JWNU9XVm1OSDY5c3dzeFppMkl0Qms3dWV6MTYwQTY4UEFoTFVhVG9hLWdqSUVZQ3RNam1jWFnSAcsBQVVfeXFMUFJicFVzSmdqX19MQ2JzemFNOXM1N1gyV2dmQUJiaURMaThucUlzMDJ6UkpvOEVuWExTckpFRWFaYUM2QTFSaVF5TkdDQm5xNXd5MkI3R1RJNXZPMjBIYmFaT0dLcGZsZmRvT1p6Ty1VaDUwZVRhZ25ycGVKR0JWYmZhV29CRnl4SWZWRU4tYTROcEl0R0hmNXZ1c1RaR3lXYUV2b0Q5QlphNVB1R3pxSHQ0SnJ1OFNXaUVwUjluVk5PZm1OcE1HN2FvYzQ?oc=5)
 
 ---
 

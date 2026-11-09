@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Levodopa. 1 predicted indications."
 permalink: /news/levodopa/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Levodopa News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>19 news articles</strong>, with 1 predicted indications.
+<strong>Levodopa</strong> currently has <strong>20 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (20)
+
+### [David Cameron: End NHS dementia drug block - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUhCVDBVX3FTVVB1clNaUHo5UkdQM0xVVU9xMVdySUZ4QktETy16YVo0UXVKbDN2NXZ6cWc1bzk4d0RRQzg4bWh6eWlfeXpRUW5fOGdNLUozd2NscUFmWEtCT1pYc29mMmEyMlBvVTdmTzJuWDBZQlB0VnRUOWs4WTNwNktUMzVrbml1b3k0TQ?oc=5)
+
+2026-11-08 <span class="news-indication-tag">dementia</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUhCVDBVX3FTVVB1clNaUHo5UkdQM0xVVU9xMVdySUZ4QktETy16YVo0UXVKbDN2NXZ6cWc1bzk4d0RRQzg4bWh6eWlfeXpRUW5fOGdNLUozd2NscUFmWEtCT1pYc29mMmEyMlBvVTdmTzJuWDBZQlB0VnRUOWs4WTNwNktUMzVrbml1b3k0TQ?oc=5)
+
+---
 
 ### [New dementia study reveals unexpected medication link to better brain health - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTdzVTJFYlNYM2d6WkRsNzdIaWVRRDFnN0txeU1rUklhSTBzVklIVDB4bDM2aHNHeW90ZW9iRTBYTkJJUHd5Q0U2S2lqMGM2OUQ4QXJDZFZUdWFfbmNCUUFXUTY1UEZJRzVfZWdQWERzbkVLOU96cW1EaEpvS2xnV0hGdGszM1A5czZz0gGQAUFVX3lxTE80TU43YjYyLTc5MW5Hak5xQV9CVV95eEZhRDFhUkpzNV9HZG1oTnZpVG5oekRvbEtRc1pZVWlHMDBLOEgyaUNoaDdXX3ZaOTRmWWVtQ3BGalI0T2dHYmE3c0gxNE5DT0Uxc1Y4S2RhSmVieHgtQUVwa2ZDNmVjekszRmg1bDhPZkVxWnBWeWdvQw?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about diabetes (diabetes mellitus). 74 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # diabetes (diabetes mellitus) News
@@ -119,14 +119,6 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWG01QUUxeHRh
 2026-11-07
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPRldXU3ZfQk8xeGduTjdSYlZiQnpWd3h2a3h3Y3NSZ0tjMVlZTmFVYTAtZndHWlRhZ0d2VlZIQzMydHFlcTV1a0hNOWs5Q3RETDdzY2IwUElxZUVmQnMwSExrWW1LN0NON1NvVDF1Qm43bElHRHU2ZjVreEg1cDhKNEZ2VmhXTXh0OHVYSGRRVWRzdzNJSXNITXBOMzdtcEnSAaQBQVVfeXFMTjBTM1JtNGd4eXZnQXNtWHpfdDUyUjNIQ3NNbUFwcFgzMm1BU05hejVoZ0t5RGJFeElUaU90ejdVYlVVdGRuYTFhWjBYUmsyNWtpVmtfdDZqR3VxanItaXJTYlRVcWhmZXlCQkpnbll4aEkwY3lxYUExUm5fcEMwc21reV9nSFZjbEN0ZV9BQzBMbGZBRFZITDZEeVJ1ZnJEQ3hsYUI?oc=5)
-
----
-
-### [From kiwis to squash, the fruits and vegetables you should be eating from root to tip to boost health and stop waste - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWh2VnNEdmpKNFhLNk55amQ4UXV6WktWc3JmN0dIVDNDRTJsVng4NFNYSE16cWVGOVhkaTV3alBFUjlmS0hSV0EybnpLRlBqQWRaNnhtb3FIUndjWms3bzd4TFpnTjRzTmhmTnBPNFRNdUluUUJWSm1MTUhzbjFWMklLdUxsWUwyM3VaRTJrbw?oc=5)
-
-2026-11-07
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWh2VnNEdmpKNFhLNk55amQ4UXV6WktWc3JmN0dIVDNDRTJsVng4NFNYSE16cWVGOVhkaTV3alBFUjlmS0hSV0EybnpLRlBqQWRaNnhtb3FIUndjWms3bzd4TFpnTjRzTmhmTnBPNFRNdUluUUJWSm1MTUhzbjFWMklLdUxsWUwyM3VaRTJrbw?oc=5)
 
 ---
 
@@ -503,6 +495,14 @@ Source: [El Economista](https://news.google.com/rss/articles/CBMitwJBVV95cUxQTjN
 2026-11-02
 
 Source: [El Economista](https://news.google.com/rss/articles/CBMitwJBVV95cUxQTjNBMVFyRGN3YmdleWw5NWNCc3AzZGl1MDY0emRub21wbDhIZlphVEpNVUh1cWx5SjNwazJ5aFVXdUNpNjJVdURSR2VnanV1dlM0YUJKV3ZjUXhoc1U3dnRfWHZBM1lLeFRFUExoUWx0dzBQZWRXWmJJSVVLYkJEanB4bUdZLWhMTHpBSzdfWFI1VzBGRXJhTGVldHpBRGtvd2pzOWtXbTBIeUpwU2NtOExDTmU3dHA1UVN3MjhZME9XS2Nfa2ZQY09nZW1Qc3AxeHFpVXBrbXkzeFh2VUlUcDYzeXozTVlMeDE1dTNYdWdqblRJSXYyczJqVXlnRkxkdTlNejB4bFJiNzhlM0dhblhoUlRaOE1jSzIxc2dlN2pBTUppel9udDNNTlhoZHB5RFhIeDVLRQ?oc=5)
+
+---
+
+### [Herpes zoster: Später Gruß der Windpocken: 8 Fragen zur Gürtelrose](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1ROaExGUnhMQTZ4UEplOHhqUVJlelJpWURNTElnMEs1Y1lhd1l5Y2M4aFdsWUlIdUsxdk8weUtCa19hcXVMR3BBT3gzSEdXRDNtY0hWUXZmTFY2dXhrN1drSHQ1dFZiZ3kxNWdwOUVEcGRaUjRnYVpkcWYtbEZTN0VzODhfTWRYRHpaR2ZnYnYzbGY3Q19RaXlnQlFhc1c2SHhRYS1Zbm01WHlnX0c2S3dBQVJIMTdwUzVjNlhTY2N3Zw?oc=5)
+
+2026-11-02
+
+Source: [WirtschaftsWoche](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1ROaExGUnhMQTZ4UEplOHhqUVJlelJpWURNTElnMEs1Y1lhd1l5Y2M4aFdsWUlIdUsxdk8weUtCa19hcXVMR3BBT3gzSEdXRDNtY0hWUXZmTFY2dXhrN1drSHQ1dFZiZ3kxNWdwOUVEcGRaUjRnYVpkcWYtbEZTN0VzODhfTWRYRHpaR2ZnYnYzbGY3Q19RaXlnQlFhc1c2SHhRYS1Zbm01WHlnX0c2S3dBQVJIMTdwUzVjNlhTY2N3Zw?oc=5)
 
 ---
 

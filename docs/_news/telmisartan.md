@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Telmisartan. 9 predicted indications."
 permalink: /news/telmisartan/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Telmisartan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>95 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>97 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (95)
+## Related News (97)
+
+### [Bluthochdruck: Einzelpillen senken den systolischen Wert um 10,1 mm Hg stärker](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDhhOWFndWctbTRQdEdyeXlfaVBvMjhid2hfand4LW1CS004R3Q2ZFdLcU9IUDF1c3dNSVlGdHJNOHRpSnhCeW5VWk80dEVWWkdTNlB5Q0RCY2QtVmN3cnJaSFp6Nl9peXNYOXM2eVh2M2dpcWk5d1BudTBrLXd6RmdxZUFPOHFzc1drdXVEQURzQ2dJU1FUbmVOTGFvYmI4NTdWTzdJT2VydU15b3BjbHI3ejVkOEwtVE8wSUVNR0FwR25fS1E?oc=5)
+
+2026-11-08 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDhhOWFndWctbTRQdEdyeXlfaVBvMjhid2hfand4LW1CS004R3Q2ZFdLcU9IUDF1c3dNSVlGdHJNOHRpSnhCeW5VWk80dEVWWkdTNlB5Q0RCY2QtVmN3cnJaSFp6Nl9peXNYOXM2eVh2M2dpcWk5d1BudTBrLXd6RmdxZUFPOHFzc1drdXVEQURzQ2dJU1FUbmVOTGFvYmI4NTdWTzdJT2VydU15b3BjbHI3ejVkOEwtVE8wSUVNR0FwR25fS1E?oc=5)
+
+---
 
 ### [New drug could be cure for common cause of high blood pressure - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
 
@@ -232,6 +240,14 @@ Source: [Infosalus](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHdDdVJ
 2026-11-05 <span class="news-indication-tag">stroke</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhRFQ4cjhybFpmMklwUWJicm5VNlRYelpFcWVJd2VfcW5tejl2S0NIcTBPWUdvd3EzVGZTU3FiNExUd1hrSVRUeUZFV3U2TDFsSDJPM1NnSDFNZHVvR1E?oc=5)
+
+---
+
+### [El impacto invisible del hígado graso: más ictus e infartos - La Razón](https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnBMcGMzY3V4cWxUM05ueEdLY29lcURjNVJpUDZEQm5HZlJvY2R3TVlxOVFrejAyU0NPcFcwLXFzYXlKRWNMTUpWSkJrYUllU1FZTnNBU2JEZnI2SVJnQmVSX05tUDh6ZWdaZVlCNU5tRTBiamZ4bjRLU1d6UTRPM3JWNU9XVm1OSDY5c3dzeFppMkl0Qms3dWV6MTYwQTY4UEFoTFVhVG9hLWdqSUVZQ3RNam1jWFnSAcsBQVVfeXFMUFJicFVzSmdqX19MQ2JzemFNOXM1N1gyV2dmQUJiaURMaThucUlzMDJ6UkpvOEVuWExTckpFRWFaYUM2QTFSaVF5TkdDQm5xNXd5MkI3R1RJNXZPMjBIYmFaT0dLcGZsZmRvT1p6Ty1VaDUwZVRhZ25ycGVKR0JWYmZhV29CRnl4SWZWRU4tYTROcEl0R0hmNXZ1c1RaR3lXYUV2b0Q5QlphNVB1R3pxSHQ0SnJ1OFNXaUVwUjluVk5PZm1OcE1HN2FvYzQ?oc=5)
+
+2026-11-05 <span class="news-indication-tag">ictus</span>
+
+Source: [La Razón](https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnBMcGMzY3V4cWxUM05ueEdLY29lcURjNVJpUDZEQm5HZlJvY2R3TVlxOVFrejAyU0NPcFcwLXFzYXlKRWNMTUpWSkJrYUllU1FZTnNBU2JEZnI2SVJnQmVSX05tUDh6ZWdaZVlCNU5tRTBiamZ4bjRLU1d6UTRPM3JWNU9XVm1OSDY5c3dzeFppMkl0Qms3dWV6MTYwQTY4UEFoTFVhVG9hLWdqSUVZQ3RNam1jWFnSAcsBQVVfeXFMUFJicFVzSmdqX19MQ2JzemFNOXM1N1gyV2dmQUJiaURMaThucUlzMDJ6UkpvOEVuWExTckpFRWFaYUM2QTFSaVF5TkdDQm5xNXd5MkI3R1RJNXZPMjBIYmFaT0dLcGZsZmRvT1p6Ty1VaDUwZVRhZ25ycGVKR0JWYmZhV29CRnl4SWZWRU4tYTROcEl0R0hmNXZ1c1RaR3lXYUV2b0Q5QlphNVB1R3pxSHQ0SnJ1OFNXaUVwUjluVk5PZm1OcE1HN2FvYzQ?oc=5)
 
 ---
 

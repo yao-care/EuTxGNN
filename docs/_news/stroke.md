@@ -3,9 +3,9 @@ layout: default
 title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 58 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 59 articles, 11 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Schlaganfall (stroke) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>58 news articles</strong> and 11 related drugs.
+<strong>Schlaganfall (stroke)</strong> currently has <strong>59 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (58)
+## Related News (59)
 
 ### [Medizinischer Fortschritt: Weniger Todesfälle durch Herzinfarkt und Schlaganfall](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWxya0J2NDZLV1pEMXlaZEE5YkRlU3pxSkY4bGFseU9UN0JaUjlLcHM1NDFsSmZCY3oxUWdFcVVmbUNjQURBZ09JelY5WTRHaG5qck00YnJwdzRGeWFvNWJ5WGFVcHRtd000YTRYQk9pUWcwTXhJVlFaM0FKMElBTDZlckxsOHhtNngzdDZfbkM1dUhoY1BXYnJDOENWamJVeTBpSEZDa0g2WmFTal9xcVBGOVVqTXBoMXdRVGd6cw?oc=5)
 
@@ -114,6 +114,14 @@ Source: [Andalucía Información](https://news.google.com/rss/articles/CBMimAJBV
 2026-11-05
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhRFQ4cjhybFpmMklwUWJicm5VNlRYelpFcWVJd2VfcW5tejl2S0NIcTBPWUdvd3EzVGZTU3FiNExUd1hrSVRUeUZFV3U2TDFsSDJPM1NnSDFNZHVvR1E?oc=5)
+
+---
+
+### [El impacto invisible del hígado graso: más ictus e infartos - La Razón](https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnBMcGMzY3V4cWxUM05ueEdLY29lcURjNVJpUDZEQm5HZlJvY2R3TVlxOVFrejAyU0NPcFcwLXFzYXlKRWNMTUpWSkJrYUllU1FZTnNBU2JEZnI2SVJnQmVSX05tUDh6ZWdaZVlCNU5tRTBiamZ4bjRLU1d6UTRPM3JWNU9XVm1OSDY5c3dzeFppMkl0Qms3dWV6MTYwQTY4UEFoTFVhVG9hLWdqSUVZQ3RNam1jWFnSAcsBQVVfeXFMUFJicFVzSmdqX19MQ2JzemFNOXM1N1gyV2dmQUJiaURMaThucUlzMDJ6UkpvOEVuWExTckpFRWFaYUM2QTFSaVF5TkdDQm5xNXd5MkI3R1RJNXZPMjBIYmFaT0dLcGZsZmRvT1p6Ty1VaDUwZVRhZ25ycGVKR0JWYmZhV29CRnl4SWZWRU4tYTROcEl0R0hmNXZ1c1RaR3lXYUV2b0Q5QlphNVB1R3pxSHQ0SnJ1OFNXaUVwUjluVk5PZm1OcE1HN2FvYzQ?oc=5)
+
+2026-11-05
+
+Source: [La Razón](https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnBMcGMzY3V4cWxUM05ueEdLY29lcURjNVJpUDZEQm5HZlJvY2R3TVlxOVFrejAyU0NPcFcwLXFzYXlKRWNMTUpWSkJrYUllU1FZTnNBU2JEZnI2SVJnQmVSX05tUDh6ZWdaZVlCNU5tRTBiamZ4bjRLU1d6UTRPM3JWNU9XVm1OSDY5c3dzeFppMkl0Qms3dWV6MTYwQTY4UEFoTFVhVG9hLWdqSUVZQ3RNam1jWFnSAcsBQVVfeXFMUFJicFVzSmdqX19MQ2JzemFNOXM1N1gyV2dmQUJiaURMaThucUlzMDJ6UkpvOEVuWExTckpFRWFaYUM2QTFSaVF5TkdDQm5xNXd5MkI3R1RJNXZPMjBIYmFaT0dLcGZsZmRvT1p6Ty1VaDUwZVRhZ25ycGVKR0JWYmZhV29CRnl4SWZWRU4tYTROcEl0R0hmNXZ1c1RaR3lXYUV2b0Q5QlphNVB1R3pxSHQ0SnJ1OFNXaUVwUjluVk5PZm1OcE1HN2FvYzQ?oc=5)
 
 ---
 

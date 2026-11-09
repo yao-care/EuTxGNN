@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Sarilumab. 0 predicted indications."
 permalink: /news/sarilumab/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Sarilumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>18 news articles</strong>, with 0 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>19 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (19)
+
+### [Enfermedad de Crohn en jóvenes: un 30% de los pacientes tiene menos de 20 años - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGZMYk5NVE5mcXBlTDNTc3ZaZnNTQjQyN2pJV056WWVGQk9maTVEZF95MEZUUHU4ZWdFcGhmOE1JV1dXNnV1alB5RDhja1RzWnI5X1RJeFJ0SU53cDhISE5ydzNza0NHLTBGcUJrSnBaamNsc2I3Zk1YNmhqdGxaM1h4Z3F0VHVfX3ZEWkJhYXFtblVOcEJiNHlqU0NMUEJfcXRMdkozUFBoQlVVY2hFNlExSUNfRXJObi1DUUxB0gHDAUFVX3lxTFBOU1p4V0haZVV0cEd1U0VNWlIzX2gtTm5RZS15VTY3NVlTRVNlcUlkT0ZzaVR0NXB2THdyWFNPNjlvcVBXYTQ0Y0JJT0NybXZVQ2dwSHA5aEUyejE1QVd6ZjZGZ3R5S3lIM0NBb2lCVk1tWmd3Q1g0MzhqR0VmZDFPNVV1OVF0Ylo0Vk9IX1htR0t2WlJKb1QwLVVGS2toTWNLTEVCVUpXTUg5ai13eC02dTNwaWt0SWxWb3h6WDEyRnprYw?oc=5)
+
+2026-11-08 <span class="news-indication-tag">enfermedad de Crohn</span>
+
+Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGZMYk5NVE5mcXBlTDNTc3ZaZnNTQjQyN2pJV056WWVGQk9maTVEZF95MEZUUHU4ZWdFcGhmOE1JV1dXNnV1alB5RDhja1RzWnI5X1RJeFJ0SU53cDhISE5ydzNza0NHLTBGcUJrSnBaamNsc2I3Zk1YNmhqdGxaM1h4Z3F0VHVfX3ZEWkJhYXFtblVOcEJiNHlqU0NMUEJfcXRMdkozUFBoQlVVY2hFNlExSUNfRXJObi1DUUxB0gHDAUFVX3lxTFBOU1p4V0haZVV0cEd1U0VNWlIzX2gtTm5RZS15VTY3NVlTRVNlcUlkT0ZzaVR0NXB2THdyWFNPNjlvcVBXYTQ0Y0JJT0NybXZVQ2dwSHA5aEUyejE1QVd6ZjZGZ3R5S3lIM0NBb2lCVk1tWmd3Q1g0MzhqR0VmZDFPNVV1OVF0Ylo0Vk9IX1htR0t2WlJKb1QwLVVGS2toTWNLTEVCVUpXTUg5ai13eC02dTNwaWt0SWxWb3h6WDEyRnprYw?oc=5)
+
+---
 
 ### [Enfermedad de Crohn en jóvenes: un 30% de los pacientes tiene menos de 20 años - Noticias de Navarra](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVTFkYjdjSXg4c3pMT2FXWU1MeTdtbElRZlU2MlFXMC1LY2NFRmxQTmFIdHBfOEFQRU03OV91WUVGVGRrbm94MWpVUjRPNTNDOGZVMjVjR3dMYndQdEFTaUZDVXBZTlhRWXBHejRHR2M4NWlMS1d1UTdMUjBuVEF2cURFS3huMlBQa3E3UGc1RXhPbzN4MWlsdzUzdzBTODFSLXNiQm91TlF3ZjlabzNxX01qaFg0ZVhKR2RkQmNpZUPSAcYBQVVfeXFMT05IcVdOUEVuUG1NWlJlSHljejc3b1cyUlFnWkJpSjZCa29Ob09sYklwVThEX3dGZ0VnYjdLQXVSZ2oxS3J3Tk15Q2pSQVdiQjVuYmE2eXpaWWVraEVDckFqbXhfVWxhQTZTZkVaQ3RNYkJMaFdtU3FLLU92c2gxUm8yeXRRckpDMnRjaVB3aUdMckFOMUNfTnJqUDdWYTZlTWtKM0JEN1NGS1Fja1djVEFSMjlsckFYTVFjNGhPakdhd1hOYUln?oc=5)
 

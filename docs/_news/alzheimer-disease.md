@@ -3,9 +3,9 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 15 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 16 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # dementia (alzheimer disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>15 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>16 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (15)
+## Related News (16)
+
+### [David Cameron: End NHS dementia drug block - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUhCVDBVX3FTVVB1clNaUHo5UkdQM0xVVU9xMVdySUZ4QktETy16YVo0UXVKbDN2NXZ6cWc1bzk4d0RRQzg4bWh6eWlfeXpRUW5fOGdNLUozd2NscUFmWEtCT1pYc29mMmEyMlBvVTdmTzJuWDBZQlB0VnRUOWs4WTNwNktUMzVrbml1b3k0TQ?oc=5)
+
+2026-11-08
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUhCVDBVX3FTVVB1clNaUHo5UkdQM0xVVU9xMVdySUZ4QktETy16YVo0UXVKbDN2NXZ6cWc1bzk4d0RRQzg4bWh6eWlfeXpRUW5fOGdNLUozd2NscUFmWEtCT1pYc29mMmEyMlBvVTdmTzJuWDBZQlB0VnRUOWs4WTNwNktUMzVrbml1b3k0TQ?oc=5)
+
+---
 
 ### [New dementia study reveals unexpected medication link to better brain health - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTdzVTJFYlNYM2d6WkRsNzdIaWVRRDFnN0txeU1rUklhSTBzVklIVDB4bDM2aHNHeW90ZW9iRTBYTkJJUHd5Q0U2S2lqMGM2OUQ4QXJDZFZUdWFfbmNCUUFXUTY1UEZJRzVfZWdQWERzbkVLOU96cW1EaEpvS2xnV0hGdGszM1A5czZz0gGQAUFVX3lxTE80TU43YjYyLTc5MW5Hak5xQV9CVV95eEZhRDFhUkpzNV9HZG1oTnZpVG5oekRvbEtRc1pZVWlHMDBLOEgyaUNoaDdXX3ZaOTRmWWVtQ3BGalI0T2dHYmE3c0gxNE5DT0Uxc1Y4S2RhSmVieHgtQUVwa2ZDNmVjekszRmg1bDhPZkVxWnBWeWdvQw?oc=5)
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "high blood pressure (hypertension) News"
+title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about high blood pressure (hypertension). 38 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 39 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
-# high blood pressure (hypertension) News
+# Bluthochdruck (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
-<strong>high blood pressure (hypertension)</strong> currently has <strong>38 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>39 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “high blood pressure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -60,7 +60,15 @@ This page brings together the latest health news about “high blood pressure”
 </ul>
 </div>
 
-## Related News (38)
+## Related News (39)
+
+### [Bluthochdruck: Einzelpillen senken den systolischen Wert um 10,1 mm Hg stärker](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDhhOWFndWctbTRQdEdyeXlfaVBvMjhid2hfand4LW1CS004R3Q2ZFdLcU9IUDF1c3dNSVlGdHJNOHRpSnhCeW5VWk80dEVWWkdTNlB5Q0RCY2QtVmN3cnJaSFp6Nl9peXNYOXM2eVh2M2dpcWk5d1BudTBrLXd6RmdxZUFPOHFzc1drdXVEQURzQ2dJU1FUbmVOTGFvYmI4NTdWTzdJT2VydU15b3BjbHI3ejVkOEwtVE8wSUVNR0FwR25fS1E?oc=5)
+
+2026-11-08
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDhhOWFndWctbTRQdEdyeXlfaVBvMjhid2hfand4LW1CS004R3Q2ZFdLcU9IUDF1c3dNSVlGdHJNOHRpSnhCeW5VWk80dEVWWkdTNlB5Q0RCY2QtVmN3cnJaSFp6Nl9peXNYOXM2eVh2M2dpcWk5d1BudTBrLXd6RmdxZUFPOHFzc1drdXVEQURzQ2dJU1FUbmVOTGFvYmI4NTdWTzdJT2VydU15b3BjbHI3ejVkOEwtVE8wSUVNR0FwR25fS1E?oc=5)
+
+---
 
 ### [New drug could be cure for common cause of high blood pressure - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
 
