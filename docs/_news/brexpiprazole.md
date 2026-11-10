@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Brexpiprazole. 0 predicted indications."
 permalink: /news/brexpiprazole/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Brexpiprazole News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Brexpiprazole?">
-<strong>Brexpiprazole</strong> currently has <strong>24 news articles</strong>, with 0 predicted indications.
+<strong>Brexpiprazole</strong> currently has <strong>25 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Brexpiprazole with the lates
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (24)
+## Related News (25)
+
+### [Flora intestinale e umore: come i batteri modulano intestino e sistema nervoso](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSG9ZTFJxXzJFZi1sQjNlQi1ScEJ2d0ttUlQ1anZkbDIwZmNpY3RXNUZfRHpNOFpjU0RNX3FoMzBNZHlJdEN5ZE1tVUIwQS1BUXN5eE1uMFR2eXFadXVBalh5eEZMUldua3J4QzJPZi00bUJQV3V3NTYzTVVpbkVSSXF6Rk5LVHNQSG9XeXNLUmRKeGl0VXplY293T216Z0JBb1k2b1R5bUhBcDR0eTJkaWRmT2pTR1U1cFpvU1VoQVBYRy1UOFZGSGlB?oc=5)
+
+2026-11-09 <span class="news-indication-tag">depression</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSG9ZTFJxXzJFZi1sQjNlQi1ScEJ2d0ttUlQ1anZkbDIwZmNpY3RXNUZfRHpNOFpjU0RNX3FoMzBNZHlJdEN5ZE1tVUIwQS1BUXN5eE1uMFR2eXFadXVBalh5eEZMUldua3J4QzJPZi00bUJQV3V3NTYzTVVpbkVSSXF6Rk5LVHNQSG9XeXNLUmRKeGl0VXplY293T216Z0JBb1k2b1R5bUhBcDR0eTJkaWRmT2pTR1U1cFpvU1VoQVBYRy1UOFZGSGlB?oc=5)
+
+---
 
 ### [Was der Menstruationszyklus über Depressionen und ADHS verrät](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3NXV3g0bnRDaDBxUmJ5Y3N0NmRoWldITmVFa0YzS08wcXFPRkFUUjV3Qkp5UXVUNFJOUFhadGtmdjVBVEFaU19yZGQ5dTVjV2hicGxMc1hnaE02Nl9lRW1IUGg3eDRZOXhXYmlqc192dUlJWU9HV0lKMXprUzlrQmdfVHVWUF9JcTFfRTExMkdwd1Q4QU9RM1lTaXlQY014eWM4dXU4VzdsV0Vpcnc?oc=5)
 

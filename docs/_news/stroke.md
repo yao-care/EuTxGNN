@@ -3,9 +3,9 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 61 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 63 articles, 11 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # ictus (stroke) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>61 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>63 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,29 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (61)
+## Related News (63)
 
 ### [Mantener un horario regular de sueño ayuda a proteger la salud del corazón](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
 
 2026-11-09
 
 Source: [ConSalud](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
+
+---
+
+### [🔊 Un dépistage des AVC en 1 minute à la pharmacie - Radio Intensité](https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNnl1QXdHdkNBQ19ZWXBheU9CVmVHaUpXeEdGYnNHMEhEN2dYcXZSSGJGczM3c25tMGIwcS1KQXp3VXFxeFdzbkY3UTZtd256STRhZmtKUDFKVmlFYUoxeW5wVnNBemJxYXdTbmJxYzJVRlpCWUVqeTN2WVFMQQ?oc=5)
+
+2026-11-09
+
+Source: [Radio Intensité](https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNnl1QXdHdkNBQ19ZWXBheU9CVmVHaUpXeEdGYnNHMEhEN2dYcXZSSGJGczM3c25tMGIwcS1KQXp3VXFxeFdzbkY3UTZtd256STRhZmtKUDFKVmlFYUoxeW5wVnNBemJxYXdTbmJxYzJVRlpCWUVqeTN2WVFMQQ?oc=5)
+
+---
+
+### [David Cameron: End NHS dementia drug block - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUhCVDBVX3FTVVB1clNaUHo5UkdQM0xVVU9xMVdySUZ4QktETy16YVo0UXVKbDN2NXZ6cWc1bzk4d0RRQzg4bWh6eWlfeXpRUW5fOGdNLUozd2NscUFmWEtCT1pYc29mMmEyMlBvVTdmTzJuWDBZQlB0VnRUOWs4WTNwNktUMzVrbml1b3k0TQ?oc=5)
+
+2026-11-08
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUhCVDBVX3FTVVB1clNaUHo5UkdQM0xVVU9xMVdySUZ4QktETy16YVo0UXVKbDN2NXZ6cWc1bzk4d0RRQzg4bWh6eWlfeXpRUW5fOGdNLUozd2NscUFmWEtCT1pYc29mMmEyMlBvVTdmTzJuWDBZQlB0VnRUOWs4WTNwNktUMzVrbml1b3k0TQ?oc=5)
 
 ---
 

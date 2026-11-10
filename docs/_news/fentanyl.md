@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Fentanyl. 2 predicted indications."
 permalink: /news/fentanyl/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-10
 ---
 
 # Fentanyl News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Fentanyl?">
-<strong>Fentanyl</strong> currently has <strong>8 news articles</strong>, with 2 predicted indications.
+<strong>Fentanyl</strong> currently has <strong>9 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Fentanyl with the latest hea
 <p><a href="{{ '/drugs/fentanyl/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [Heimsensor für Vorhofflimmern: Nur 15,4 Prozent der Alarme trafen - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUczajZUck91UWxmNnc2S1NTbTRtQWRQcFpzLWlwNnpyTGNJZW5pb0dYWXJnQVR1TEY3Sk0ybGdRREF0MXJrT1ZzQmxIbzdWbFBoN2Q0M2QwWTlwcWN4dG5naGcxcWdHbGdFdU5BRHRZWldVbkZ6YlNKcng5NVZ1eEM0eHZOUVlUVXdOUUtBRGYtb1pubG4yLXJ4SEM?oc=5)
+
+2026-11-09 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUczajZUck91UWxmNnc2S1NTbTRtQWRQcFpzLWlwNnpyTGNJZW5pb0dYWXJnQVR1TEY3Sk0ybGdRREF0MXJrT1ZzQmxIbzdWbFBoN2Q0M2QwWTlwcWN4dG5naGcxcWdHbGdFdU5BRHRZWldVbkZ6YlNKcng5NVZ1eEM0eHZOUVlUVXdOUUtBRGYtb1pubG4yLXJ4SEM?oc=5)
+
+---
 
 ### [Emicrania, un freno al dolore stimolando il nervo vago: che cosa dicono gli studi e quali cure sono disponibili](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYndHQV9jNnVrSmNjc2M1eVVUWE5FTkxvZlJ5a2JVM1dvbjNFTGJGamt5Z1BPVlVMUmtEeWRucDg0WGRQZVo3dGFUbkNBdG1hdXc1d1N4elhxcC1oR1hZV0QyRUE5eEtyLWQtV0t5bkQwR3pQODVpODNOcXZDbXhKd0lhM19DRXVYaW9wM2dzanpsSkhRWldLVkdtSHN2V0VVMVdacXJaVGFMN0QxbHNkOHNyQUVodFdTOWhydmd3T01QRDl1d1h0UENjb3pfMDFWbnZ3NGNmaG5hYXZ1djNCYnRYTWU0MlpMQUdYSlVEZElWQQ?oc=5)
 

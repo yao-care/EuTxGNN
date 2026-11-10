@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Naltrexone. 0 predicted indications."
 permalink: /news/naltrexone/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Naltrexone News
@@ -32,9 +32,17 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 
 ## Related News (51)
 
+### [Prädiabetes und Adipositas: GLP-1-Medikamente senken Diabetesrisiko um 31 Prozent](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcHVzNXNYQ2dqYlEtNlowd1lJQ2F2M3lsUEtZNWJ6SkF3RC1vbk8tOUNkT0dmaVNFQy00ZXRTS2hPXzRxQ1hHdFJLWlRib0JqVWpVM2llTDUwRFpJTXpQSURZX2pfYWlBUjNyalFrVVgtNktGNXdSUnRzVXFvQXN4S0k2RHp5WW45c1hkcXc3bUtzNmNaMUhDRC1IQWRnb2RpRVFNeHU5WlhTUF9ZeWlWc3liekpSc0ZlVnhVal91TmZWYng1a2dNQUN3?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcHVzNXNYQ2dqYlEtNlowd1lJQ2F2M3lsUEtZNWJ6SkF3RC1vbk8tOUNkT0dmaVNFQy00ZXRTS2hPXzRxQ1hHdFJLWlRib0JqVWpVM2llTDUwRFpJTXpQSURZX2pfYWlBUjNyalFrVVgtNktGNXdSUnRzVXFvQXN4S0k2RHp5WW45c1hkcXc3bUtzNmNaMUhDRC1IQWRnb2RpRVFNeHU5WlhTUF9ZeWlWc3liekpSc0ZlVnhVal91TmZWYng1a2dNQUN3?oc=5)
+
+---
+
 ### [Enfermedades cardíacas en perros: Veterinarios explican los síntomas de alerta y las patologías más frecuentes](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1hUUm9YaXBDR1E0SzBhdUFtZHdieDZWbmVpTU84NGg3UlkwVlVJNUd1LV9lWFpOb1YwdmE3bkdKRDRpSVRmNjNfSmRGWUpPd0ZBUVdVRlg5blRTWlRGS1g1cktQVkZ0Q29tb1NObHlOQWJuZU8wVEU0d01lV3NBbk9CSTF3eUFjVmcwcEdPSEVvd0tqS3MtUGlCOVBxQUhRNDhRbmVIU2VhOWZLb1NQWUJDTHgtSzA5cFNGRW5fUld1cjVjYVHSAcsBQVVfeXFMTjdBQjFRb196dTVETlRvbnhmSTI5eDdnQlhRZTI1R09fNzhieDV2bUJwT1h3ZHJzTmhtUWhGMzN1a2dPcGktT0VMcDNjMG10SGxoSWVoamUzTDdodG03UDd3YXBIRzhVX2h2cXFxRUNvWTROVWRNMkhHeHQ1dHVkaDhEMlc0WW5ydk1zenhMbHFjWHJmeVBZaWJjVHNDcGoxZjVmTHhXdlN0bjBHRDg0eGpBdHBXT3JxMjZ2VnhIS18weVo2OTlvTXhDQTQ?oc=5)
 
-2026-11-09 <span class="news-indication-tag">obesidad</span>
+2026-11-09 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1hUUm9YaXBDR1E0SzBhdUFtZHdieDZWbmVpTU84NGg3UlkwVlVJNUd1LV9lWFpOb1YwdmE3bkdKRDRpSVRmNjNfSmRGWUpPd0ZBUVdVRlg5blRTWlRGS1g1cktQVkZ0Q29tb1NObHlOQWJuZU8wVEU0d01lV3NBbk9CSTF3eUFjVmcwcEdPSEVvd0tqS3MtUGlCOVBxQUhRNDhRbmVIU2VhOWZLb1NQWUJDTHgtSzA5cFNGRW5fUld1cjVjYVHSAcsBQVVfeXFMTjdBQjFRb196dTVETlRvbnhmSTI5eDdnQlhRZTI1R09fNzhieDV2bUJwT1h3ZHJzTmhtUWhGMzN1a2dPcGktT0VMcDNjMG10SGxoSWVoamUzTDdodG03UDd3YXBIRzhVX2h2cXFxRUNvWTROVWRNMkhHeHQ1dHVkaDhEMlc0WW5ydk1zenhMbHFjWHJmeVBZaWJjVHNDcGoxZjVmTHhXdlN0bjBHRDg0eGpBdHBXT3JxMjZ2VnhIS18weVo2OTlvTXhDQTQ?oc=5)
 
@@ -45,14 +53,6 @@ Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxP
 2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Canarias7](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjYzRG9EcDB2X0lPOGhvSVp1Y0NyMHNUOTlDZUhjVUxHM013bFBYb21ET0h2MEh6VG9QeThHM29TT3BaQWVHYnZuZkl4WUtOVzdnN29GV3NEN1EtR2F5OGNRWWNqTmVLQXpKS3NfOVN3S3hEUWNKQ2R5UHVHWWhwdFQ5eHFYOEx3VlpPS0tRdkVaZXFUaXBnYUZucUF4aGRxbXltTHBKelN6SUhLaTU3QTJUQWZ5R21qWG9SajUxY2lYQW1m0gHKAUFVX3lxTFBNcHNJR2loQ19kTkhSNV9vT0Q4WTVSdHczVGgwNzU1ZWR4NjRSQ2lvMFpFaTBHNU5qMHdOcTBEMVVETkdwLWdQNXNmcHFBcFQyX1NGVVBYTFpBVEswNkVIcTUxVWFFZFFUSzJLNzJLYXA3cXBfd2JXVmQ4bG5nRzFtOHZmVzhld2t4R2lDc1ozYXhYU3duUXZMeG5jNW9uYUxTVzhtcnNWTjVTRThVQk15WC14b1Myd1ZQcjgwRm9LaVdfVm0tMGtMTXc?oc=5)
-
----
-
-### ["Un pansement sur une hémorragie" : sur M6, Bruno Mougenot, qui a perdu 100 kilos sans médicament, alerte sur l'effet "dévastateur" du Wegovy](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3ZtbHNYNDZrY2I0SmRjYW00dExMaGd4anFOaHZ2Nl9sdkRNanp0X1BKSV9mR1dhY2VsVnZBMXBGZ3RsMW94b201R25mQ0JpalZTUjR1dXp0dzJqTWVjaE40VWdzN3c5WGRNZ2tHWnVxQ0FRYUZ6N2F4YVFtb2RvNEFWWUJDVDI4UkJmTXlMbTVMbE1XMlZHdzBhSXVlWG8ySmJxbWtXQjY0TXlBXzcxLXZiOWVXLVNRM0VGLWRZM1hWSkFHclcxdUpxbXJPYnprRURyNDRUMlp4RlFLTjFvRWY5ejlkeTZCajBGeDBFTzMtTmZ6TTl5Nlp3?oc=5)
-
-2026-11-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
-
-Source: [RTL](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3ZtbHNYNDZrY2I0SmRjYW00dExMaGd4anFOaHZ2Nl9sdkRNanp0X1BKSV9mR1dhY2VsVnZBMXBGZ3RsMW94b201R25mQ0JpalZTUjR1dXp0dzJqTWVjaE40VWdzN3c5WGRNZ2tHWnVxQ0FRYUZ6N2F4YVFtb2RvNEFWWUJDVDI4UkJmTXlMbTVMbE1XMlZHdzBhSXVlWG8ySmJxbWtXQjY0TXlBXzcxLXZiOWVXLVNRM0VGLWRZM1hWSkFHclcxdUpxbXJPYnprRURyNDRUMlp4RlFLTjFvRWY5ejlkeTZCajBGeDBFTzMtTmZ6TTl5Nlp3?oc=5)
 
 ---
 

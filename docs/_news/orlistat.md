@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Orlistat. 1 predicted indications."
 permalink: /news/orlistat/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Orlistat News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>112 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>114 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,11 +33,19 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (112)
+## Related News (114)
+
+### [Prädiabetes und Adipositas: GLP-1-Medikamente senken Diabetesrisiko um 31 Prozent](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcHVzNXNYQ2dqYlEtNlowd1lJQ2F2M3lsUEtZNWJ6SkF3RC1vbk8tOUNkT0dmaVNFQy00ZXRTS2hPXzRxQ1hHdFJLWlRib0JqVWpVM2llTDUwRFpJTXpQSURZX2pfYWlBUjNyalFrVVgtNktGNXdSUnRzVXFvQXN4S0k2RHp5WW45c1hkcXc3bUtzNmNaMUhDRC1IQWRnb2RpRVFNeHU5WlhTUF9ZeWlWc3liekpSc0ZlVnhVal91TmZWYng1a2dNQUN3?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcHVzNXNYQ2dqYlEtNlowd1lJQ2F2M3lsUEtZNWJ6SkF3RC1vbk8tOUNkT0dmaVNFQy00ZXRTS2hPXzRxQ1hHdFJLWlRib0JqVWpVM2llTDUwRFpJTXpQSURZX2pfYWlBUjNyalFrVVgtNktGNXdSUnRzVXFvQXN4S0k2RHp5WW45c1hkcXc3bUtzNmNaMUhDRC1IQWRnb2RpRVFNeHU5WlhTUF9ZeWlWc3liekpSc0ZlVnhVal91TmZWYng1a2dNQUN3?oc=5)
+
+---
 
 ### [Enfermedades cardíacas en perros: Veterinarios explican los síntomas de alerta y las patologías más frecuentes](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1hUUm9YaXBDR1E0SzBhdUFtZHdieDZWbmVpTU84NGg3UlkwVlVJNUd1LV9lWFpOb1YwdmE3bkdKRDRpSVRmNjNfSmRGWUpPd0ZBUVdVRlg5blRTWlRGS1g1cktQVkZ0Q29tb1NObHlOQWJuZU8wVEU0d01lV3NBbk9CSTF3eUFjVmcwcEdPSEVvd0tqS3MtUGlCOVBxQUhRNDhRbmVIU2VhOWZLb1NQWUJDTHgtSzA5cFNGRW5fUld1cjVjYVHSAcsBQVVfeXFMTjdBQjFRb196dTVETlRvbnhmSTI5eDdnQlhRZTI1R09fNzhieDV2bUJwT1h3ZHJzTmhtUWhGMzN1a2dPcGktT0VMcDNjMG10SGxoSWVoamUzTDdodG03UDd3YXBIRzhVX2h2cXFxRUNvWTROVWRNMkhHeHQ1dHVkaDhEMlc0WW5ydk1zenhMbHFjWHJmeVBZaWJjVHNDcGoxZjVmTHhXdlN0bjBHRDg0eGpBdHBXT3JxMjZ2VnhIS18weVo2OTlvTXhDQTQ?oc=5)
 
-2026-11-09 <span class="news-indication-tag">obesidad</span>
+2026-11-09 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1hUUm9YaXBDR1E0SzBhdUFtZHdieDZWbmVpTU84NGg3UlkwVlVJNUd1LV9lWFpOb1YwdmE3bkdKRDRpSVRmNjNfSmRGWUpPd0ZBUVdVRlg5blRTWlRGS1g1cktQVkZ0Q29tb1NObHlOQWJuZU8wVEU0d01lV3NBbk9CSTF3eUFjVmcwcEdPSEVvd0tqS3MtUGlCOVBxQUhRNDhRbmVIU2VhOWZLb1NQWUJDTHgtSzA5cFNGRW5fUld1cjVjYVHSAcsBQVVfeXFMTjdBQjFRb196dTVETlRvbnhmSTI5eDdnQlhRZTI1R09fNzhieDV2bUJwT1h3ZHJzTmhtUWhGMzN1a2dPcGktT0VMcDNjMG10SGxoSWVoamUzTDdodG03UDd3YXBIRzhVX2h2cXFxRUNvWTROVWRNMkhHeHQ1dHVkaDhEMlc0WW5ydk1zenhMbHFjWHJmeVBZaWJjVHNDcGoxZjVmTHhXdlN0bjBHRDg0eGpBdHBXT3JxMjZ2VnhIS18weVo2OTlvTXhDQTQ?oc=5)
 
@@ -51,6 +59,14 @@ Source: [ConSalud](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xu
 
 ---
 
+### [🔊 Un dépistage des AVC en 1 minute à la pharmacie - Radio Intensité](https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNnl1QXdHdkNBQ19ZWXBheU9CVmVHaUpXeEdGYnNHMEhEN2dYcXZSSGJGczM3c25tMGIwcS1KQXp3VXFxeFdzbkY3UTZtd256STRhZmtKUDFKVmlFYUoxeW5wVnNBemJxYXdTbmJxYzJVRlpCWUVqeTN2WVFMQQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">AVC</span>
+
+Source: [Radio Intensité](https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNnl1QXdHdkNBQ19ZWXBheU9CVmVHaUpXeEdGYnNHMEhEN2dYcXZSSGJGczM3c25tMGIwcS1KQXp3VXFxeFdzbkY3UTZtd256STRhZmtKUDFKVmlFYUoxeW5wVnNBemJxYXdTbmJxYzJVRlpCWUVqeTN2WVFMQQ?oc=5)
+
+---
+
 ### [La pastilla contra la obesidad llega a las farmacias canarias, pero sin financiación pública](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjYzRG9EcDB2X0lPOGhvSVp1Y0NyMHNUOTlDZUhjVUxHM013bFBYb21ET0h2MEh6VG9QeThHM29TT3BaQWVHYnZuZkl4WUtOVzdnN29GV3NEN1EtR2F5OGNRWWNqTmVLQXpKS3NfOVN3S3hEUWNKQ2R5UHVHWWhwdFQ5eHFYOEx3VlpPS0tRdkVaZXFUaXBnYUZucUF4aGRxbXltTHBKelN6SUhLaTU3QTJUQWZ5R21qWG9SajUxY2lYQW1m0gHKAUFVX3lxTFBNcHNJR2loQ19kTkhSNV9vT0Q4WTVSdHczVGgwNzU1ZWR4NjRSQ2lvMFpFaTBHNU5qMHdOcTBEMVVETkdwLWdQNXNmcHFBcFQyX1NGVVBYTFpBVEswNkVIcTUxVWFFZFFUSzJLNzJLYXA3cXBfd2JXVmQ4bG5nRzFtOHZmVzhld2t4R2lDc1ozYXhYU3duUXZMeG5jNW9uYUxTVzhtcnNWTjVTRThVQk15WC14b1Myd1ZQcjgwRm9LaVdfVm0tMGtMTXc?oc=5)
 
 2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
@@ -59,11 +75,11 @@ Source: [Canarias7](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjYzRG9
 
 ---
 
-### ["Un pansement sur une hémorragie" : sur M6, Bruno Mougenot, qui a perdu 100 kilos sans médicament, alerte sur l'effet "dévastateur" du Wegovy](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3ZtbHNYNDZrY2I0SmRjYW00dExMaGd4anFOaHZ2Nl9sdkRNanp0X1BKSV9mR1dhY2VsVnZBMXBGZ3RsMW94b201R25mQ0JpalZTUjR1dXp0dzJqTWVjaE40VWdzN3c5WGRNZ2tHWnVxQ0FRYUZ6N2F4YVFtb2RvNEFWWUJDVDI4UkJmTXlMbTVMbE1XMlZHdzBhSXVlWG8ySmJxbWtXQjY0TXlBXzcxLXZiOWVXLVNRM0VGLWRZM1hWSkFHclcxdUpxbXJPYnprRURyNDRUMlp4RlFLTjFvRWY5ejlkeTZCajBGeDBFTzMtTmZ6TTl5Nlp3?oc=5)
+### [David Cameron: End NHS dementia drug block - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUhCVDBVX3FTVVB1clNaUHo5UkdQM0xVVU9xMVdySUZ4QktETy16YVo0UXVKbDN2NXZ6cWc1bzk4d0RRQzg4bWh6eWlfeXpRUW5fOGdNLUozd2NscUFmWEtCT1pYc29mMmEyMlBvVTdmTzJuWDBZQlB0VnRUOWs4WTNwNktUMzVrbml1b3k0TQ?oc=5)
 
-2026-11-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+2026-11-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
-Source: [RTL](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3ZtbHNYNDZrY2I0SmRjYW00dExMaGd4anFOaHZ2Nl9sdkRNanp0X1BKSV9mR1dhY2VsVnZBMXBGZ3RsMW94b201R25mQ0JpalZTUjR1dXp0dzJqTWVjaE40VWdzN3c5WGRNZ2tHWnVxQ0FRYUZ6N2F4YVFtb2RvNEFWWUJDVDI4UkJmTXlMbTVMbE1XMlZHdzBhSXVlWG8ySmJxbWtXQjY0TXlBXzcxLXZiOWVXLVNRM0VGLWRZM1hWSkFHclcxdUpxbXJPYnprRURyNDRUMlp4RlFLTjFvRWY5ejlkeTZCajBGeDBFTzMtTmZ6TTl5Nlp3?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUhCVDBVX3FTVVB1clNaUHo5UkdQM0xVVU9xMVdySUZ4QktETy16YVo0UXVKbDN2NXZ6cWc1bzk4d0RRQzg4bWh6eWlfeXpRUW5fOGdNLUozd2NscUFmWEtCT1pYc29mMmEyMlBvVTdmTzJuWDBZQlB0VnRUOWs4WTNwNktUMzVrbml1b3k0TQ?oc=5)
 
 ---
 
@@ -269,7 +285,7 @@ Source: [El Globalfarma](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdW
 
 ### [Ictus, in Italia 100mila casi: come si può riconoscere tempestivamente? - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU0NJb2JlSTc0Z21vd3RRMlJad1kzeEJyb29QSFFPM3NTcEJSaGJWZm9VM3RoWGpvMER4eGhiMUE4SjJaR2VTeEdaYzhRLUZGd29sN2hxT0RsSUppc1ItN0FyUlFUa1VmZGlpMmJGdVZGQmlHYk03RGFaVnkyMzlMV2lRbkx3cFJSRzMwM1pNeTRJSF8tTGk0OTI4Rkt2eGhyVVVNU2VkVkRmSFZmMXVJVVBVSTM1dHdRQUpfWTIyOXQ3TFVlXy1LbjhOSXd2aDlBd2hDLWtia0tuZVlKVFJmb1d6dnVJVkN5RGxj0gHGAUFVX3lxTFBSMEJzSTFqMlNHQ0hjUzlBYUpBZDBld3hQYk5Xc3l4Qi1TTzQ2ZENVOE5tUmlJN0xwS3VKeWxYcUktN2lEVEJlSEc5dElLTTE2dF94bVFONHdWakw0ZWltMEpxbUlnYjl5M0U5TTZXV0pFQi1SNHRUM0JzQlFQQjlLMnljWktweXJxZFlaSk42Rk1jTmpJMGNJZldKT0dIampKckVWNUFDR2hXck9rTG53RzBtYm1YYjV5S3RvVlMzUFlfaEhWZw?oc=5)
 
-2026-11-05 <span class="news-indication-tag">stroke</span>
+2026-11-05 <span class="news-indication-tag">ictus</span>
 
 Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU0NJb2JlSTc0Z21vd3RRMlJad1kzeEJyb29QSFFPM3NTcEJSaGJWZm9VM3RoWGpvMER4eGhiMUE4SjJaR2VTeEdaYzhRLUZGd29sN2hxT0RsSUppc1ItN0FyUlFUa1VmZGlpMmJGdVZGQmlHYk03RGFaVnkyMzlMV2lRbkx3cFJSRzMwM1pNeTRJSF8tTGk0OTI4Rkt2eGhyVVVNU2VkVkRmSFZmMXVJVVBVSTM1dHdRQUpfWTIyOXQ3TFVlXy1LbjhOSXd2aDlBd2hDLWtia0tuZVlKVFJmb1d6dnVJVkN5RGxj0gHGAUFVX3lxTFBSMEJzSTFqMlNHQ0hjUzlBYUpBZDBld3hQYk5Xc3l4Qi1TTzQ2ZENVOE5tUmlJN0xwS3VKeWxYcUktN2lEVEJlSEc5dElLTTE2dF94bVFONHdWakw0ZWltMEpxbUlnYjl5M0U5TTZXV0pFQi1SNHRUM0JzQlFQQjlLMnljWktweXJxZFlaSk42Rk1jTmpJMGNJZldKT0dIampKckVWNUFDR2hXck9rTG53RzBtYm1YYjV5S3RvVlMzUFlfaEhWZw?oc=5)
 
@@ -341,7 +357,7 @@ Source: [La Razón](https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnBMcGM
 
 ### [Schlaganfall-Prävention: Zehn Risikofaktoren erklären rund 90 Prozent des Risikos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzF1Z192aVg0ckVBRUVZamVjaFhBckE1Z1JranVxN2FpWFNCVDQ1NkE2UGI4dko2Tlptc21oRGxtb3VJTVhmYl82MFRHOEJkRVptRjBYd01qaDJYX195WGVCM0ZRN19XWldYaWdXZ2UwRC1PMnF3N0dkaVYzSEFqYzdjM1ptV2VHUVdYRUFGSmdPaEM0SWJEdWxYcmRaSDlzUGFFMHdjZWgzYi1mLUhNczV2N0RMN3dEU05hYWthemZBWDJrN0pDcnVocw?oc=5)
 
-2026-11-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-11-05 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzF1Z192aVg0ckVBRUVZamVjaFhBckE1Z1JranVxN2FpWFNCVDQ1NkE2UGI4dko2Tlptc21oRGxtb3VJTVhmYl82MFRHOEJkRVptRjBYd01qaDJYX195WGVCM0ZRN19XWldYaWdXZ2UwRC1PMnF3N0dkaVYzSEFqYzdjM1ptV2VHUVdYRUFGSmdPaEM0SWJEdWxYcmRaSDlzUGFFMHdjZWgzYi1mLUhNczV2N0RMN3dEU05hYWthemZBWDJrN0pDcnVocw?oc=5)
 

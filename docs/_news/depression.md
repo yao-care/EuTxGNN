@@ -3,9 +3,9 @@ layout: default
 title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 24 articles, 7 related drugs."
+description: "Health news about depresión (depression). 25 articles, 7 related drugs."
 permalink: /news/depression/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # depresión (depression) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>24 news articles</strong> and 7 related drugs.
+<strong>depresión (depression)</strong> currently has <strong>25 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “depresión” and list
 </ul>
 </div>
 
-## Related News (24)
+## Related News (25)
+
+### [Flora intestinale e umore: come i batteri modulano intestino e sistema nervoso](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSG9ZTFJxXzJFZi1sQjNlQi1ScEJ2d0ttUlQ1anZkbDIwZmNpY3RXNUZfRHpNOFpjU0RNX3FoMzBNZHlJdEN5ZE1tVUIwQS1BUXN5eE1uMFR2eXFadXVBalh5eEZMUldua3J4QzJPZi00bUJQV3V3NTYzTVVpbkVSSXF6Rk5LVHNQSG9XeXNLUmRKeGl0VXplY293T216Z0JBb1k2b1R5bUhBcDR0eTJkaWRmT2pTR1U1cFpvU1VoQVBYRy1UOFZGSGlB?oc=5)
+
+2026-11-09
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSG9ZTFJxXzJFZi1sQjNlQi1ScEJ2d0ttUlQ1anZkbDIwZmNpY3RXNUZfRHpNOFpjU0RNX3FoMzBNZHlJdEN5ZE1tVUIwQS1BUXN5eE1uMFR2eXFadXVBalh5eEZMUldua3J4QzJPZi00bUJQV3V3NTYzTVVpbkVSSXF6Rk5LVHNQSG9XeXNLUmRKeGl0VXplY293T216Z0JBb1k2b1R5bUhBcDR0eTJkaWRmT2pTR1U1cFpvU1VoQVBYRy1UOFZGSGlB?oc=5)
+
+---
 
 ### [Was der Menstruationszyklus über Depressionen und ADHS verrät](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3NXV3g0bnRDaDBxUmJ5Y3N0NmRoWldITmVFa0YzS08wcXFPRkFUUjV3Qkp5UXVUNFJOUFhadGtmdjVBVEFaU19yZGQ5dTVjV2hicGxMc1hnaE02Nl9lRW1IUGg3eDRZOXhXYmlqc192dUlJWU9HV0lKMXprUzlrQmdfVHVWUF9JcTFfRTExMkdwd1Q4QU9RM1lTaXlQY014eWM4dXU4VzdsV0Vpcnc?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 41 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 43 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Bluthochdruck (hypertension) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>41 news articles</strong> and 55 related drugs.
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>43 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -60,13 +60,29 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (41)
+## Related News (43)
+
+### [Wirkung hält über Jahre an: Neues Medikament kann womöglich Bluthochdruck heilen](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTi03em54NlcxMmpaYlRkRXF3X1pCY2FwbG5mQWhrTDZjUzR1SldCMEQ3WDZOdnBvd1Y3QUk1ZlV1cEx0Rzd1UHdENWF1VllEVXJXSV9qbGR5eU9TUGI4QUVhMGtmamN3NVNsSmZiQVNKZmVaZjJNaVE4Y2hQcU9XZHVXTlJOclVfNGdibmpfeHpWd0E3SGNwaF9sUFg?oc=5)
+
+2026-11-09
+
+Source: [n-tv.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTi03em54NlcxMmpaYlRkRXF3X1pCY2FwbG5mQWhrTDZjUzR1SldCMEQ3WDZOdnBvd1Y3QUk1ZlV1cEx0Rzd1UHdENWF1VllEVXJXSV9qbGR5eU9TUGI4QUVhMGtmamN3NVNsSmZiQVNKZmVaZjJNaVE4Y2hQcU9XZHVXTlJOclVfNGdibmpfeHpWd0E3SGNwaF9sUFg?oc=5)
+
+---
 
 ### [Kälteeinbruch: Herzrisiko steigt in den ersten 48 Stunden besonders stark](https://news.google.com/rss/articles/CBMivwFBVV95cUxQajVlekRuREF4NFBOcFgtRTBNVGxlRDlzSEVBLUZkLWF3MEo4b3RhM281bXlFak0wRVctS1V2cWMyb2N3bHBPckxKd0RNU1NGcmxGWWJKU3ZWcXNuaVdKejdNUW5pLUJ2S0hmX0g3d2NfTkEzT2wteDhKMWhxX0JCR3ByN3Nmc0hHVnhETjh6Wm5VOGtSSGIwRlI3OVhMc09ZVXdVRFN6VnpTV3Jlc3dEckN6QXZMVEs2MnZiM2xfTQ?oc=5)
 
 2026-11-09
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQajVlekRuREF4NFBOcFgtRTBNVGxlRDlzSEVBLUZkLWF3MEo4b3RhM281bXlFak0wRVctS1V2cWMyb2N3bHBPckxKd0RNU1NGcmxGWWJKU3ZWcXNuaVdKejdNUW5pLUJ2S0hmX0g3d2NfTkEzT2wteDhKMWhxX0JCR3ByN3Nmc0hHVnhETjh6Wm5VOGtSSGIwRlI3OVhMc09ZVXdVRFN6VnpTV3Jlc3dEckN6QXZMVEs2MnZiM2xfTQ?oc=5)
+
+---
+
+### [New high blood pressure pill that ‘cures’ the condition could be available next year - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWV9KVjFkczBreVNUQnktVmZwa0cwcUxpQlRFdTRPdHVZVkR4VTdwZ1NOV2luRXBibmlyeUp1clBxaGRPTmVqYzV5RlVzenN1LURIUGJ0WXdJTFVWX2pIQUtobldLUjEwaklIUGM4eXRSQ0ZvMElIbTRGdkF3MklFa19Vdzdra2h2?oc=5)
+
+2026-11-09
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWV9KVjFkczBreVNUQnktVmZwa0cwcUxpQlRFdTRPdHVZVkR4VTdwZ1NOV2luRXBibmlyeUp1clBxaGRPTmVqYzV5RlVzenN1LURIUGJ0WXdJTFVWX2pIQUtobldLUjEwaklIUGM4eXRSQ0ZvMElIbTRGdkF3MklFa19Vdzdra2h2?oc=5)
 
 ---
 

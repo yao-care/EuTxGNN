@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Sarilumab. 0 predicted indications."
 permalink: /news/sarilumab/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Sarilumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>23 news articles</strong>, with 0 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>24 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (23)
+## Related News (24)
 
 ### [RSV-Impfung bei COPD: Schutz vor Exazerbation und Herzrisiko - Medical Tribune](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcE1tcVloT0o4UllpMXZBRG9RRHViM1pUcG12RFFWM041Y0VvY3YwaW1zdUxwQ25QSi1IRU1NTllLT0RleFc4YXVoaU5UNlpsaXlWMm42bWJVNzg1R3B2VHY4dVRmdUxrNE5hQkRfSHNLY0dNZDFRZW15MnZndjBTRUZMUGIxU0ZBemZsN18waGNpWE9vaUF5TDY2aFpITnZfSl9MVXRaWHlxN2NGd09DS2NnbUJHdXFZUDcyT1pvbw?oc=5)
 
@@ -53,6 +53,14 @@ Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMimAFBVV9
 2026-11-09 <span class="news-indication-tag">enfermedad de Crohn</span>
 
 Source: [Onda Vasca](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUExQi05Y1VJc1Jsc0cwVkJTSi1YOXdJMWNGRXlSblBMRG1nVG9saGlSRjltcHFfSGxSU3ZoWmoyYW5tMGhXUHpWaHRZNjV2Rmt0UlRUUG5hREVOT2d3ZzV4MlZOd2RzaWVNVWVxaFZuOHRpdkJLTDR3bHVOOXhCUnFBS21lWDY0V1gxYW9saGs3WFJGTXFxOGhubEJxSEJyQ0hrc1h30gGrAUFVX3lxTE1jVC0yaV93SHZSeUZCcS16bGhnZUswX3p5cFg4dXFaWXZkbHJVTEtmb0plT0UxWm5kdUVuemVKYklrRmxsYUhoTy03RzN6NVlURjd0VDZ1eWRTaU1jTHU4MkJWU19OZ0lhSC1RbmQ0cHphRzZUdE9FRWpEQTdSeFlKcENyQkwwYTBCcnVBR0JYNl84TnpHQVBFVVQtbDRxX0JpTmlaUUV2RlZFdw?oc=5)
+
+---
+
+### [Psoriasis: cómo tratarla y evitar que afecte otras partes del organismo - Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
+
+2026-11-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 
 ---
 

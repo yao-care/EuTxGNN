@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Semaglutide. 0 predicted indications."
 permalink: /news/semaglutide/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Semaglutide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>29 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>31 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,23 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (29)
+## Related News (31)
+
+### [La FDA ordena incluir nuevas advertencias sobre riesgos oculares por uso de Ozempic y Zepbound - CNN en Español](https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWU2VFFHVHFsS19JOU9uS0ZCRl92YS1aZXB2c1RELVltdDVEVVhLSC1fQjNyYm04bzBfOXVqcTFGZVV4emNPN09BRWFLOUNjOEVQT2gtVnhhM1IxdmQwaVVvRl9jTmY4ZDg0WVdlT2FPNTBMMURsSjVkZjVmVXMxb3ZqQXVqdE1EMS1vbzd3N1ZjMDZCQ2c?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [CNN en Español](https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWU2VFFHVHFsS19JOU9uS0ZCRl92YS1aZXB2c1RELVltdDVEVVhLSC1fQjNyYm04bzBfOXVqcTFGZVV4emNPN09BRWFLOUNjOEVQT2gtVnhhM1IxdmQwaVVvRl9jTmY4ZDg0WVdlT2FPNTBMMURsSjVkZjVmVXMxb3ZqQXVqdE1EMS1vbzd3N1ZjMDZCQ2c?oc=5)
+
+---
+
+### [Scompenso, semaglutide riduce la pressione che affatica il cuore: cosa accade sotto sforzo](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQci1xdFZBRVg4enVFbTJRdTBNeTduM2pEUmpaelB1U18xTE5TN3pCTEpOUXAwcjVGZWxTWkFMbWhGRERRZUliaDlNekQzSFNJbHd2YmNPUnFtazRFa2dmdzJ2VGR4YXpXVEtUS2NWRklsR21xTkFadVdBM0xhbndIOW1DdnN1S1lsdGwwV2VHd09CYXEwVWlrNmtNQzk4Wkg2Y29HbWhYZkM5bFpqakNaeHlBMjRIelFTMEZvLUNtaUt2VUR1U1NKVUM4ckpHNHFNNWJyaHNNRlhkcUVDcHpkeFVR?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Semaglutide</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQci1xdFZBRVg4enVFbTJRdTBNeTduM2pEUmpaelB1U18xTE5TN3pCTEpOUXAwcjVGZWxTWkFMbWhGRERRZUliaDlNekQzSFNJbHd2YmNPUnFtazRFa2dmdzJ2VGR4YXpXVEtUS2NWRklsR21xTkFadVdBM0xhbndIOW1DdnN1S1lsdGwwV2VHd09CYXEwVWlrNmtNQzk4Wkg2Y29HbWhYZkM5bFpqakNaeHlBMjRIelFTMEZvLUNtaUt2VUR1U1NKVUM4ckpHNHFNNWJyaHNNRlhkcUVDcHpkeFVR?oc=5)
+
+---
 
 ### [La pastilla contra la obesidad llega a las farmacias canarias, pero sin financiación pública](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjYzRG9EcDB2X0lPOGhvSVp1Y0NyMHNUOTlDZUhjVUxHM013bFBYb21ET0h2MEh6VG9QeThHM29TT3BaQWVHYnZuZkl4WUtOVzdnN29GV3NEN1EtR2F5OGNRWWNqTmVLQXpKS3NfOVN3S3hEUWNKQ2R5UHVHWWhwdFQ5eHFYOEx3VlpPS0tRdkVaZXFUaXBnYUZucUF4aGRxbXltTHBKelN6SUhLaTU3QTJUQWZ5R21qWG9SajUxY2lYQW1m0gHKAUFVX3lxTFBNcHNJR2loQ19kTkhSNV9vT0Q4WTVSdHczVGgwNzU1ZWR4NjRSQ2lvMFpFaTBHNU5qMHdOcTBEMVVETkdwLWdQNXNmcHFBcFQyX1NGVVBYTFpBVEswNkVIcTUxVWFFZFFUSzJLNzJLYXA3cXBfd2JXVmQ4bG5nRzFtOHZmVzhld2t4R2lDc1ozYXhYU3duUXZMeG5jNW9uYUxTVzhtcnNWTjVTRThVQk15WC14b1Myd1ZQcjgwRm9LaVdfVm0tMGtMTXc?oc=5)
 
@@ -41,7 +57,7 @@ Source: [Canarias7](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjYzRG9
 
 ### ["Un pansement sur une hémorragie" : sur M6, Bruno Mougenot, qui a perdu 100 kilos sans médicament, alerte sur l'effet "dévastateur" du Wegovy](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3ZtbHNYNDZrY2I0SmRjYW00dExMaGd4anFOaHZ2Nl9sdkRNanp0X1BKSV9mR1dhY2VsVnZBMXBGZ3RsMW94b201R25mQ0JpalZTUjR1dXp0dzJqTWVjaE40VWdzN3c5WGRNZ2tHWnVxQ0FRYUZ6N2F4YVFtb2RvNEFWWUJDVDI4UkJmTXlMbTVMbE1XMlZHdzBhSXVlWG8ySmJxbWtXQjY0TXlBXzcxLXZiOWVXLVNRM0VGLWRZM1hWSkFHclcxdUpxbXJPYnprRURyNDRUMlp4RlFLTjFvRWY5ejlkeTZCajBGeDBFTzMtTmZ6TTl5Nlp3?oc=5)
 
-2026-11-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+2026-11-08 <span class="news-drug-tag">Semaglutide</span>
 
 Source: [RTL](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3ZtbHNYNDZrY2I0SmRjYW00dExMaGd4anFOaHZ2Nl9sdkRNanp0X1BKSV9mR1dhY2VsVnZBMXBGZ3RsMW94b201R25mQ0JpalZTUjR1dXp0dzJqTWVjaE40VWdzN3c5WGRNZ2tHWnVxQ0FRYUZ6N2F4YVFtb2RvNEFWWUJDVDI4UkJmTXlMbTVMbE1XMlZHdzBhSXVlWG8ySmJxbWtXQjY0TXlBXzcxLXZiOWVXLVNRM0VGLWRZM1hWSkFHclcxdUpxbXJPYnprRURyNDRUMlp4RlFLTjFvRWY5ejlkeTZCajBGeDBFTzMtTmZ6TTl5Nlp3?oc=5)
 

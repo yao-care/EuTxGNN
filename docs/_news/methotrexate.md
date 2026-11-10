@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Methotrexate. 7 predicted indications."
 permalink: /news/methotrexate/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Methotrexate News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Methotrexate?">
-<strong>Methotrexate</strong> currently has <strong>180 news articles</strong>, with 7 predicted indications.
+<strong>Methotrexate</strong> currently has <strong>186 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,45 @@ This page combines the AI-predicted indications for Methotrexate with the latest
 <p><a href="{{ '/drugs/methotrexate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (180)
+## Related News (186)
+
+### [Neuer Wirkstoff gegen Lungenkrebs hält Tumor fast doppelt so lange in Schach wie Chemotherapie - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLVFwLTF4S2pkM2I1NDNZN1E3YTk5SjZpVUVmOXUyVEZvbnQ0c1NFelpEeElBNkpmLUJoU0ltZ0lIYUtrY0l1MW5PSE9ELWpwSWhBZjlxV0dGUUlXNUstUWF4SmxtZk1xRkdOd1BGb1I2TURJVzYwMGRFWlRxbmsyb0FucGZfVHlXSVd1MXNiRW1DYzhvSDVwZXRtSXJhVk1VZzhOQ0xCZFZpMlRhcnAtOUgybGdVUU5scnRSQmZ3eUFFNFNQN01fRjUtVUdYOVBXQjZJ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">tumor</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLVFwLTF4S2pkM2I1NDNZN1E3YTk5SjZpVUVmOXUyVEZvbnQ0c1NFelpEeElBNkpmLUJoU0ltZ0lIYUtrY0l1MW5PSE9ELWpwSWhBZjlxV0dGUUlXNUstUWF4SmxtZk1xRkdOd1BGb1I2TURJVzYwMGRFWlRxbmsyb0FucGZfVHlXSVd1MXNiRW1DYzhvSDVwZXRtSXJhVk1VZzhOQ0xCZFZpMlRhcnAtOUgybGdVUU5scnRSQmZ3eUFFNFNQN01fRjUtVUdYOVBXQjZJ?oc=5)
+
+---
+
+### [Call for roll-out of lung cancer screening programme](https://news.google.com/rss/articles/CBMickFVX3lxTFBoalI5dFhEbjNWV3JERC1HNTR5c3dHdmFkWTBpM3RLYm5GdGYwX0N1eDNBWkREMFJ6bTg1R1RLaWh4NEtTY25KOGk1NVhkYWEwNm1xZ29XYVBHdXJUWmFTMXFsMzRIT0c2MzBsanQ3bVlZZw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">cancer</span>
+
+Source: [RTE.ie](https://news.google.com/rss/articles/CBMickFVX3lxTFBoalI5dFhEbjNWV3JERC1HNTR5c3dHdmFkWTBpM3RLYm5GdGYwX0N1eDNBWkREMFJ6bTg1R1RLaWh4NEtTY25KOGk1NVhkYWEwNm1xZ29XYVBHdXJUWmFTMXFsMzRIT0c2MzBsanQ3bVlZZw?oc=5)
+
+---
 
 ### [Männer untersucht: Studie findet erschreckenden Zusammenhang zwischen Hormonwert und Krebstod - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3NCRElhRDhoaWYybFZ2N0Z2UHc1bk53S1ZEZFFmSmwxbjcxUFRTci1ubE1lT1FxV3F4aDBVdmkxM1lRVlg3NTZ6T3E5TlctUHJfM0RMdUtjTFoyV2stMlFEbzlyQXFKNlZLV0ZmcjBiNC13TWZ6STRwYzlfSEEwUmEwbGF5UkRjZlctS1BhZXhIcnhvbXZNWnozNmZsVkd0NWNyYUNXQm9yQVU?oc=5)
 
 2026-11-09 <span class="news-indication-tag">Krebs</span>
 
 Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3NCRElhRDhoaWYybFZ2N0Z2UHc1bk53S1ZEZFFmSmwxbjcxUFRTci1ubE1lT1FxV3F4aDBVdmkxM1lRVlg3NTZ6T3E5TlctUHJfM0RMdUtjTFoyV2stMlFEbzlyQXFKNlZLV0ZmcjBiNC13TWZ6STRwYzlfSEEwUmEwbGF5UkRjZlctS1BhZXhIcnhvbXZNWnozNmZsVkd0NWNyYUNXQm9yQVU?oc=5)
+
+---
+
+### [Tumore del pancreas, in Lombardia cala la mortalità operatoria. “Nuove tecnologie per cure più efficaci” - Il Giorno](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ2pSem5iTDlJZ0x2ek9iWnJyUTUzZkpITG9DXzNsTHZpbGNTd1FmVEI2ckdQNjVCYWVRN0xiUkVESjhyczlNOXAwbG0yTV9JblQwWWpKeWIyejdEZExqdW4xQXY2aktRSmhxZlAtelJGRmZma2RFUHhDZXVyVkhqM0tR?oc=5)
+
+2026-11-09 <span class="news-indication-tag">tumor</span>
+
+Source: [Il Giorno](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ2pSem5iTDlJZ0x2ek9iWnJyUTUzZkpITG9DXzNsTHZpbGNTd1FmVEI2ckdQNjVCYWVRN0xiUkVESjhyczlNOXAwbG0yTV9JblQwWWpKeWIyejdEZExqdW4xQXY2aktRSmhxZlAtelJGRmZma2RFUHhDZXVyVkhqM0tR?oc=5)
+
+---
+
+### [Cancer du cerveau : une nouvelle piste contre le glioblastome, cancer particulièrement agressif](https://news.google.com/rss/articles/CBMihwFBVV95cUxPTmZsZzA0emhiMENTa3ZkYm1qeVhkXzRKVEp2a1E2bU5RcmJPbVJkb2ZjX18xSXdYNlZSbkphTjFZbFJKbTRTc212NXpldWxtYUxPOGV5RkN6b2VsdE9Iak14UUl4UGdzRDRQRUZ1RUNiTVhLSzRyaU5iTW9TeWhObThjNi1MNEE?oc=5)
+
+2026-11-09 <span class="news-indication-tag">cancer</span>
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMihwFBVV95cUxPTmZsZzA0emhiMENTa3ZkYm1qeVhkXzRKVEp2a1E2bU5RcmJPbVJkb2ZjX18xSXdYNlZSbkphTjFZbFJKbTRTc212NXpldWxtYUxPOGV5RkN6b2VsdE9Iak14UUl4UGdzRDRQRUZ1RUNiTVhLSzRyaU5iTW9TeWhObThjNi1MNEE?oc=5)
 
 ---
 
@@ -62,6 +94,14 @@ Source: [Nice-Matin](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZDd0VS
 2026-11-09 <span class="news-indication-tag">tumor</span>
 
 Source: [El Debate](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXFzOWFtRG9IbVBlOWZfRGtIUGpfNzFXRGd0dVdxdU5IdERlbzhHOTlUaEhGVEpWMHBZZWhJUHh1TzZJZjg1OUFxTWlYejREVWplczBndHYycGJIUGMzQjZLaDRUNEtFN29vcjA2T05BX3RiSVZXcXBNV0JhOVBpMHhlOExtVk1Yb3pfR3NJdUZlVkdzLWdodF9ocUdMOF9PV1MxZmhrNlpwMDlYd2k3a01BX0t1ODTSAbwBQVVfeXFMTnJ2WXg1YTE2d2RBVUdvbFZBVGVQUHRUbkxOSW9lc25UcHJRZ3puZ01NZ0ZxdURhTUZZbF95SW9JbE1IeHN5Z19mZU56eC1ORlpodkNIQkFzOXcwcGZ3VVU5Q0ZCNVh5QWdvQ3VIczNyNWxtVndDcVg4bzN6T3lRNm96UllCd2tpdkhZRmpPeVZmVmlFUHpGcWtPTmZIZVMySWpVVWlLN3MxaGZKRk5EcXhpOC0xUFpLblpFWnU?oc=5)
+
+---
+
+### [Santé. Jean-Luc Romero-Michel atteint d'un cancer de l'anus : que sait-on de cette maladie qui frappe l'ex-élu parisien ? - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVHNSVy1aaFVLOUdPSlB6VkVvUHBMNkNWT2x0M0pXV050MWtNQWI5RkxoOGdwREotUVJGaDMzMUFfak1Xa20xY3Yybkt6ODYwX2dEMnByZTI3NndFNFhWWnBQSXNLclFJN2RFMGNoZ3NWeHZWQVNhOW4yOVFLOW9ZbGJPdFExNmNzRDJPYURtTWItWWRjNEFMZ0QtWEMwUmdlNk9Cc3MxM3pTSEFBMEc2djBoWHdLQlIyUFB0ZHlJbG5vMTBtbzBOaFd1Ty1OWW9fdURRZmo4SXA0eUlPNG85cVF5RlV3R1dRSEE?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cancer</span>
+
+Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVHNSVy1aaFVLOUdPSlB6VkVvUHBMNkNWT2x0M0pXV050MWtNQWI5RkxoOGdwREotUVJGaDMzMUFfak1Xa20xY3Yybkt6ODYwX2dEMnByZTI3NndFNFhWWnBQSXNLclFJN2RFMGNoZ3NWeHZWQVNhOW4yOVFLOW9ZbGJPdFExNmNzRDJPYURtTWItWWRjNEFMZ0QtWEMwUmdlNk9Cc3MxM3pTSEFBMEc2djBoWHdLQlIyUFB0ZHlJbG5vMTBtbzBOaFd1Ty1OWW9fdURRZmo4SXA0eUlPNG85cVF5RlV3R1dRSEE?oc=5)
 
 ---
 
@@ -97,11 +137,11 @@ Source: [Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk5
 
 ---
 
-### [Papilloma virus, boom di casi. Il vaccino arma di prevenzione - il Giornale](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmIyOHBjbmJIeVBHWHhuSVdTaXNOLXNhMm1VQ0NHeUEzRUNjZHMteUUwNlNCalRMUDZVT1RieVJwZmNxb3JaeTV5RTVTT2hncUFXSElSeWJIUm5GLUV0aV94Z1A0bTdwUlZhMU5nWjRjYWtIWDgwZzd5V3VldHZrN0NWaWxVUFhWSDFGQkFCdGE3Zmhael9VemNoZDgyMk9XUElZ?oc=5)
+### [Psoriasis: cómo tratarla y evitar que afecte otras partes del organismo - Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 
-2026-11-08 <span class="news-indication-tag">cancro</span>
+2026-11-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
 
-Source: [il Giornale](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmIyOHBjbmJIeVBHWHhuSVdTaXNOLXNhMm1VQ0NHeUEzRUNjZHMteUUwNlNCalRMUDZVT1RieVJwZmNxb3JaeTV5RTVTT2hncUFXSElSeWJIUm5GLUV0aV94Z1A0bTdwUlZhMU5nWjRjYWtIWDgwZzd5V3VldHZrN0NWaWxVUFhWSDFGQkFCdGE3Zmhael9VemNoZDgyMk9XUElZ?oc=5)
+Source: [Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 
 ---
 
@@ -366,6 +406,14 @@ Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cU
 2026-11-05 <span class="news-indication-tag">cancer</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1BrSVVDd3FEZ3BFNldwN2puNEk5SHZrM3R2VVVudVluaEkwbF9fcUFNSE9DaHJOOXo3aksycjZNdGhyWW5xS0ItXzN0VmFZd1NzcDFrZmFFMVZzYmtHN2pRQndjV3JsNEFQZ1VGeHlWUWtyalNpM1haa3cyX0stWDdLNVFySzdlQk1WU25IcGF4ZzhIal9LOWIwUFhGaG1waEMxT2htcmVBUGpHX3JCMzhvNWtVQjJ1N2g2Wg?oc=5)
+
+---
+
+### [La Marató de 3Cat 2025 permite impulsar 38 proyectos de investigación de 91 equipos expertos en cáncer - Europa Press](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORnVFZUFRdHNjR3BxS1EweUpzZXoyWHdfRDFUdzZlNEIyWUI2NFZNQTZNOWk1NDF1VnZaYnIySjNVTUxya01lSzN0eHkxMG53cGN5cHFlN0tKR19hSENQZGZrY05DcUFEMWI5RTZmRGZjOGY3NEpkSXc1OVpsT3g2dWotdUJubDZYN1B4S3MtNWVwMmtJbjdmb2Q3T3VhUk4wTE1RaW1IR3ZzZ2ZJeklBQlZFbF8ybFF3U0xoT3VnRmpSMG95QWdhbUNWN1BlOWFnLVcyRE03WU9vRHJHQW1odUxESHlmQ3M?oc=5)
+
+2026-11-05 <span class="news-indication-tag">cancer</span>
+
+Source: [Europa Press](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORnVFZUFRdHNjR3BxS1EweUpzZXoyWHdfRDFUdzZlNEIyWUI2NFZNQTZNOWk1NDF1VnZaYnIySjNVTUxya01lSzN0eHkxMG53cGN5cHFlN0tKR19hSENQZGZrY05DcUFEMWI5RTZmRGZjOGY3NEpkSXc1OVpsT3g2dWotdUJubDZYN1B4S3MtNWVwMmtJbjdmb2Q3T3VhUk4wTE1RaW1IR3ZzZ2ZJeklBQlZFbF8ybFF3U0xoT3VnRmpSMG95QWdhbUNWN1BlOWFnLVcyRE03WU9vRHJHQW1odUxESHlmQ3M?oc=5)
 
 ---
 

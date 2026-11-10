@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Lurasidone. 9 predicted indications."
 permalink: /news/lurasidone/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-10
 ---
 
 # Lurasidone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Lurasidone?">
-<strong>Lurasidone</strong> currently has <strong>12 news articles</strong>, with 9 predicted indications.
+<strong>Lurasidone</strong> currently has <strong>13 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Lurasidone with the latest h
 <p><a href="{{ '/drugs/lurasidone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (13)
+
+### [Heimsensor für Vorhofflimmern: Nur 15,4 Prozent der Alarme trafen - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUczajZUck91UWxmNnc2S1NTbTRtQWRQcFpzLWlwNnpyTGNJZW5pb0dYWXJnQVR1TEY3Sk0ybGdRREF0MXJrT1ZzQmxIbzdWbFBoN2Q0M2QwWTlwcWN4dG5naGcxcWdHbGdFdU5BRHRZWldVbkZ6YlNKcng5NVZ1eEM0eHZOUVlUVXdOUUtBRGYtb1pubG4yLXJ4SEM?oc=5)
+
+2026-11-09 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUczajZUck91UWxmNnc2S1NTbTRtQWRQcFpzLWlwNnpyTGNJZW5pb0dYWXJnQVR1TEY3Sk0ybGdRREF0MXJrT1ZzQmxIbzdWbFBoN2Q0M2QwWTlwcWN4dG5naGcxcWdHbGdFdU5BRHRZWldVbkZ6YlNKcng5NVZ1eEM0eHZOUVlUVXdOUUtBRGYtb1pubG4yLXJ4SEM?oc=5)
+
+---
 
 ### [Wards at two Carmarthenshire hospitals shut due to scabies outbreak - Wales Online](https://news.google.com/rss/articles/CBMimwFBVV95cUxNeUd1S3pvT0p3LWtoYWMxcjZwZEdaMlNvZnhhdzdxXzcxNjhOd0FzanMtU2gxMzZUZUtRNmhzNFEyWUpLYktGSHd1UHNpcmNONlM2Wmc5Y25NYUgwYWVJbEV1cTlwUXpWc2NxbjRtQ0NGQXlodTY4MUtzQWJmSXlUOEhNWkkwUXBBT0t1QWZSX0wwbkxZeVpNN29pONIBoAFBVV95cUxOempXSWxNeXAtMFl0WnhhX1pibXVqcVdUWlpGSVVuWjBBdFh2OEN4NXRuS3UwYTd6YjA0S0NMaXhmamdqdHJMV0hDNUdjU3JTaVp1akNxY3pxR0RVbHAwOFhqV2FsbTVOTHBFdG9mTUY4YVJmQzhMX1A2ZUZydEN6RjRwV3pEV0dIYUhLWVo5OTYwSjJ4eHVTS2pmSnRza29z?oc=5)
 

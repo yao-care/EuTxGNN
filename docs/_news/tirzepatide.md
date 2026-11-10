@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tirzepatide. 0 predicted indications."
 permalink: /news/tirzepatide/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-10
 ---
 
 # Tirzepatide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>12 news articles</strong>, with 0 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>15 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,31 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (15)
+
+### [La FDA ordena incluir nuevas advertencias sobre riesgos oculares por uso de Ozempic y Zepbound - CNN en Español](https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWU2VFFHVHFsS19JOU9uS0ZCRl92YS1aZXB2c1RELVltdDVEVVhLSC1fQjNyYm04bzBfOXVqcTFGZVV4emNPN09BRWFLOUNjOEVQT2gtVnhhM1IxdmQwaVVvRl9jTmY4ZDg0WVdlT2FPNTBMMURsSjVkZjVmVXMxb3ZqQXVqdE1EMS1vbzd3N1ZjMDZCQ2c?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [CNN en Español](https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWU2VFFHVHFsS19JOU9uS0ZCRl92YS1aZXB2c1RELVltdDVEVVhLSC1fQjNyYm04bzBfOXVqcTFGZVV4emNPN09BRWFLOUNjOEVQT2gtVnhhM1IxdmQwaVVvRl9jTmY4ZDg0WVdlT2FPNTBMMURsSjVkZjVmVXMxb3ZqQXVqdE1EMS1vbzd3N1ZjMDZCQ2c?oc=5)
+
+---
+
+### [Un nuevo fármaco experimental para adelgazar se ha visto que también ayuda a aliviar el dolor de las rodillas con artrosis](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWUxLQmNfM2dDdnIxTkF1bnhtNXNhdTFHVURkQ3p6SjFHRTJuMkktRW1ZRFpPUEdYWmtoSVFxdzlscFRmM0VwQ2xhc01KbEYzUUp0X2p3UWNfUUhpYmloUU9QSzVOMTNCN0xsTUlINDAxQ3B2Q1RKZGlJSnNwbmI4a0NHaDlWampHMy0zdHdGNm1GQzE4VFZZbllqZjE5Ty1WSXlWM1FvaWhleHJlV284clgxbHBGR2RVMnc1NWhBN0w3ZGFWS3dyNmhWeTluQWdhOW1kVnBNZTNBd0dNRmfSAeMBQVVfeXFMUGJWQlFzcEVQdmcwbFpZRnlDS29CZHlKMVhBNVk5SzFSTzRZa2pUeHdrTFVNcE8tek5PdmdReFU2LTlhaVoyS0tvOVA2ejhxd3dnZ0ZJLXYtSVpKWXJ3QVhINVhzdTJUaGFJTFdwdXJkaXZqVU9Ib0ZRdUxVT3kzRUhBeks4NWpkQW81bjFHcGZjRHZzclR4eVdqNWNxbDZnaktpMmpXNmpENkgxOVktMFE1cXJ3VF9Jbi1IQm9lY0VjbEYzczBpRTlfb21SX3lBeHk1QUotaTRkZ21aSFZfeHpLVnc?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [Xataka](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWUxLQmNfM2dDdnIxTkF1bnhtNXNhdTFHVURkQ3p6SjFHRTJuMkktRW1ZRFpPUEdYWmtoSVFxdzlscFRmM0VwQ2xhc01KbEYzUUp0X2p3UWNfUUhpYmloUU9QSzVOMTNCN0xsTUlINDAxQ3B2Q1RKZGlJSnNwbmI4a0NHaDlWampHMy0zdHdGNm1GQzE4VFZZbllqZjE5Ty1WSXlWM1FvaWhleHJlV284clgxbHBGR2RVMnc1NWhBN0w3ZGFWS3dyNmhWeTluQWdhOW1kVnBNZTNBd0dNRmfSAeMBQVVfeXFMUGJWQlFzcEVQdmcwbFpZRnlDS29CZHlKMVhBNVk5SzFSTzRZa2pUeHdrTFVNcE8tek5PdmdReFU2LTlhaVoyS0tvOVA2ejhxd3dnZ0ZJLXYtSVpKWXJ3QVhINVhzdTJUaGFJTFdwdXJkaXZqVU9Ib0ZRdUxVT3kzRUhBeks4NWpkQW81bjFHcGZjRHZzclR4eVdqNWNxbDZnaktpMmpXNmpENkgxOVktMFE1cXJ3VF9Jbi1IQm9lY0VjbEYzczBpRTlfb21SX3lBeHk1QUotaTRkZ21aSFZfeHpLVnc?oc=5)
+
+---
+
+### [Psoriasis: cómo tratarla y evitar que afecte otras partes del organismo - Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
+
+2026-11-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
+
+---
 
 ### [Sicuri che sia mal di schiena? Che fare se è spondiloartrite assiale - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "enfermedad de Crohn (crohn disease) News"
+title: "Morbus Crohn (crohn disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about enfermedad de Crohn (crohn disease). 6 articles, 1 related drugs."
+description: "Health news about Morbus Crohn (crohn disease). 6 articles, 1 related drugs."
 permalink: /news/crohn-disease/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
-# enfermedad de Crohn (crohn disease) News
+# Morbus Crohn (crohn disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about enfermedad de Crohn (crohn disease)?">
-<strong>enfermedad de Crohn (crohn disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about Morbus Crohn (crohn disease)?">
+<strong>Morbus Crohn (crohn disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “enfermedad de Crohn” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Morbus Crohn” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">

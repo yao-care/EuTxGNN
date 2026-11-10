@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Lipegfilgrastim. 5 predicted indications."
 permalink: /news/lipegfilgrastim/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Lipegfilgrastim News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Lipegfilgrastim?">
-<strong>Lipegfilgrastim</strong> currently has <strong>80 news articles</strong>, with 5 predicted indications.
+<strong>Lipegfilgrastim</strong> currently has <strong>84 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,47 @@ This page combines the AI-predicted indications for Lipegfilgrastim with the lat
 <p><a href="{{ '/drugs/lipegfilgrastim/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (80)
+## Related News (84)
+
+### [Prädiabetes und Adipositas: GLP-1-Medikamente senken Diabetesrisiko um 31 Prozent](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcHVzNXNYQ2dqYlEtNlowd1lJQ2F2M3lsUEtZNWJ6SkF3RC1vbk8tOUNkT0dmaVNFQy00ZXRTS2hPXzRxQ1hHdFJLWlRib0JqVWpVM2llTDUwRFpJTXpQSURZX2pfYWlBUjNyalFrVVgtNktGNXdSUnRzVXFvQXN4S0k2RHp5WW45c1hkcXc3bUtzNmNaMUhDRC1IQWRnb2RpRVFNeHU5WlhTUF9ZeWlWc3liekpSc0ZlVnhVal91TmZWYng1a2dNQUN3?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcHVzNXNYQ2dqYlEtNlowd1lJQ2F2M3lsUEtZNWJ6SkF3RC1vbk8tOUNkT0dmaVNFQy00ZXRTS2hPXzRxQ1hHdFJLWlRib0JqVWpVM2llTDUwRFpJTXpQSURZX2pfYWlBUjNyalFrVVgtNktGNXdSUnRzVXFvQXN4S0k2RHp5WW45c1hkcXc3bUtzNmNaMUhDRC1IQWRnb2RpRVFNeHU5WlhTUF9ZeWlWc3liekpSc0ZlVnhVal91TmZWYng1a2dNQUN3?oc=5)
+
+---
+
+### [Mit der richtigen Ernährung Typ-2-Diabetes vorbeugen](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3hQa3BuMEVibFVfTDJ6NUNCd3hNZFVYUlRzOF9IaGp6LXBkajluYjAyUkhuRW1kQ3JEQTY3Z1N1ZDltZGxkeGN0bjFyUlZFdnlyS0doWFhZMHlPOGZvWm9DeGEtVzVjWmtKQThPdzE2UERRUDd6dXRkUWhIWWY3SnJNb2YwcThEZlltTmdZOVBRNUg4VVR0cHB6LUVsd0U?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [SWR](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3hQa3BuMEVibFVfTDJ6NUNCd3hNZFVYUlRzOF9IaGp6LXBkajluYjAyUkhuRW1kQ3JEQTY3Z1N1ZDltZGxkeGN0bjFyUlZFdnlyS0doWFhZMHlPOGZvWm9DeGEtVzVjWmtKQThPdzE2UERRUDd6dXRkUWhIWWY3SnJNb2YwcThEZlltTmdZOVBRNUg4VVR0cHB6LUVsd0U?oc=5)
+
+---
+
+### [Las farmacias madrileñas promueven la vacunación frente a la gripe en pacientes con diabetes - Diario Siglo XXI](https://news.google.com/rss/articles/CBMixgFBVV95cUxOTU9nV01LbEF0X045bFR3Zl9icTRtSnFKOVlwMmlMNm5VbjVFVzNleTRQRTZwSFpHY2xfeGV3aGlFX1NMNG9TVmlPSzhWYWRVSncxYzNESl85SWZTaVBDMi1kR0xHeUExZV9mR3JWUDNjRmI4TXdmSnVKWFUzemV3NU5HWEl2enpsSkhZbjE3THM4WmQ5YzlEWEpJN2RlUUJqOHRmaDkxZVRPckFQclFYbDVtaTJhTkVaT1NOZWNJVW9JTWlidlE?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [Diario Siglo XXI](https://news.google.com/rss/articles/CBMixgFBVV95cUxOTU9nV01LbEF0X045bFR3Zl9icTRtSnFKOVlwMmlMNm5VbjVFVzNleTRQRTZwSFpHY2xfeGV3aGlFX1NMNG9TVmlPSzhWYWRVSncxYzNESl85SWZTaVBDMi1kR0xHeUExZV9mR3JWUDNjRmI4TXdmSnVKWFUzemV3NU5HWEl2enpsSkhZbjE3THM4WmQ5YzlEWEpJN2RlUUJqOHRmaDkxZVRPckFQclFYbDVtaTJhTkVaT1NOZWNJVW9JTWlidlE?oc=5)
+
+---
+
+### [Miro1 bei Typ-2-Diabetes: Protein schwächt die Insulinempfindlichkeit](https://news.google.com/rss/articles/CBMiugFBVV95cUxQVzVJYUxrYTJFUHJ1WGIxUFl3TEtiNEVYMGpCR01HNGY1LTV3dzJwUmVwZU9YNEtuVTFlYUdrVzNIQXFYbWYzdmxLZGZfbGJkMDNQTVBXRVpvbUhmNGM1MHp5dENBeXF0V1dveXpMZXZwM3VJZWVTZWpiUmJORkg0bmFIT0VSYkpwak1nQlF2ZlBtMWVfOGplRFYtenFlZWJMOEdKTzNKN3p6WTBkZS0xRmw5UWlXVW9TRGc?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQVzVJYUxrYTJFUHJ1WGIxUFl3TEtiNEVYMGpCR01HNGY1LTV3dzJwUmVwZU9YNEtuVTFlYUdrVzNIQXFYbWYzdmxLZGZfbGJkMDNQTVBXRVpvbUhmNGM1MHp5dENBeXF0V1dveXpMZXZwM3VJZWVTZWpiUmJORkg0bmFIT0VSYkpwak1nQlF2ZlBtMWVfOGplRFYtenFlZWJMOEdKTzNKN3p6WTBkZS0xRmw5UWlXVW9TRGc?oc=5)
+
+---
+
+### [Ponferrada conmemora Día Mundial de la Diabetes con una mesa de salud y el inicio de las rutas "Camino para cambiar la Diabetes" - La Razón](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbjZPQXBxcEhWbDBJRnBtaVNzVk41V0h4enh3UDFYeDk3LVBSWEFkTVptZl96YVpubzFCRFZhTHlkM255azctd292Yl91X3NGY2t6RjZlWThvRC1ZZTRQdmM1RkZKRmhpRGU2ZHBqaVpNM3RMWW80RFVBTC0xYWZHclp0cWNQSDZhYWdXTUdydGg3d0hKVFYtQW5lZVFXU2VuSXJLa2NZM2MydF93Qm9tU3hvTWNETl9oenRuSHJ3TEh4Vjh6bGFxVEozSjNkUkFlYy1nOWFRaXZ2ZHZfWUVXcFV0TnpTanllNVRnRzBHUTNwU1c4R2hhd0pR0gGOAkFVX3lxTE5CeklWdDVVQnMzUkpGRG1NcVpWeHhNWVdMbnkxZDlyYy14OUtvakRrdWF3Yy11NWhFT3VHcHdhMDRBTFhzaFU2dWlWbExjcEpUV1hwbEJmcTJXSlZSX3ZhV3ZxNjVQT21MdHh6ZkRhYkYwT0xFY2wxNWVaaEZoM3VVMGl3dVNQXzQ3QlhtOTZpX0VkOWxBdUNpdFoxMTU2OUNGekxocnhZa3l5LXI4TXEyTFpneGVWLXRjTEsxOFFNVTcxOWU4M0xON2JoMm9FX0VqWUMtQlExYUhnb3pUTkRHVEF5RVdZQV9WSlFhbll3bFpSa0lyY2I2X2xhZGNnTFlDTWdrWXNiQnhIbldTUQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [La Razón](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbjZPQXBxcEhWbDBJRnBtaVNzVk41V0h4enh3UDFYeDk3LVBSWEFkTVptZl96YVpubzFCRFZhTHlkM255azctd292Yl91X3NGY2t6RjZlWThvRC1ZZTRQdmM1RkZKRmhpRGU2ZHBqaVpNM3RMWW80RFVBTC0xYWZHclp0cWNQSDZhYWdXTUdydGg3d0hKVFYtQW5lZVFXU2VuSXJLa2NZM2MydF93Qm9tU3hvTWNETl9oenRuSHJ3TEh4Vjh6bGFxVEozSjNkUkFlYy1nOWFRaXZ2ZHZfWUVXcFV0TnpTanllNVRnRzBHUTNwU1c4R2hhd0pR0gGOAkFVX3lxTE5CeklWdDVVQnMzUkpGRG1NcVpWeHhNWVdMbnkxZDlyYy14OUtvakRrdWF3Yy11NWhFT3VHcHdhMDRBTFhzaFU2dWlWbExjcEpUV1hwbEJmcTJXSlZSX3ZhV3ZxNjVQT21MdHh6ZkRhYkYwT0xFY2wxNWVaaEZoM3VVMGl3dVNQXzQ3QlhtOTZpX0VkOWxBdUNpdFoxMTU2OUNGekxocnhZa3l5LXI4TXEyTFpneGVWLXRjTEsxOFFNVTcxOWU4M0xON2JoMm9FX0VqWUMtQlExYUhnb3pUTkRHVEF5RVdZQV9WSlFhbll3bFpSa0lyY2I2X2xhZGNnTFlDTWdrWXNiQnhIbldTUQ?oc=5)
+
+---
 
 ### [Slowenien rollt Diabetes-Früherkennung auf alle 212 Gemeinden aus - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOHpmU0xEajBYZ2xmYTd5VUt0MXJJazFpb1lzamdGVkFZZ3B6VE9DSEgxREVvNXBVNzJMNTNTR3pnOXRZS0pTMHdkT19GWGNMay1JcEhhRExYNHBzMkFLWGZkYzBONWV5QkQ3VFpodWpmYnMtS1ZrUTBHYXhnRGo3aklHNW16dDdudDFudThtMmwzUTBWbzJtLVhKbTVWN3c?oc=5)
 
@@ -156,14 +196,6 @@ Source: [BILD](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUUo5UjRhREF6
 2026-11-06 <span class="news-indication-tag">diabetes</span>
 
 Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNhSVdkTHRJcVhXb3JtMEcyZEM0VzRrd0V1TXRiNndsa3VIY20xcHJyN2dYTHNWTDRxQWJKMVRaajNwX0JmazVPaFYzcnd5NTV1Tmpob241aXBHaWpjUkpFRlhYdzhsX0lFYlR3bGlhZ0ZOeTQ5b2VQSVRPQ096MnJxeEYyQ0RGa0lzUERhVHFXb1U4Q1kyZHNVb3BSUmtOVmc?oc=5)
-
----
-
-### [Exeter University-led £20m project to prevent and detect dementia](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
-
-2026-11-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">diabetes</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
 
 ---
 

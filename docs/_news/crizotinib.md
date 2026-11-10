@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Crizotinib. 9 predicted indications."
 permalink: /news/crizotinib/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Crizotinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Crizotinib?">
-<strong>Crizotinib</strong> currently has <strong>188 news articles</strong>, with 9 predicted indications.
+<strong>Crizotinib</strong> currently has <strong>194 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,53 @@ This page combines the AI-predicted indications for Crizotinib with the latest h
 <p><a href="{{ '/drugs/crizotinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (188)
+## Related News (194)
+
+### [Neuer Wirkstoff gegen Lungenkrebs hält Tumor fast doppelt so lange in Schach wie Chemotherapie - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLVFwLTF4S2pkM2I1NDNZN1E3YTk5SjZpVUVmOXUyVEZvbnQ0c1NFelpEeElBNkpmLUJoU0ltZ0lIYUtrY0l1MW5PSE9ELWpwSWhBZjlxV0dGUUlXNUstUWF4SmxtZk1xRkdOd1BGb1I2TURJVzYwMGRFWlRxbmsyb0FucGZfVHlXSVd1MXNiRW1DYzhvSDVwZXRtSXJhVk1VZzhOQ0xCZFZpMlRhcnAtOUgybGdVUU5scnRSQmZ3eUFFNFNQN01fRjUtVUdYOVBXQjZJ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">tumor</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLVFwLTF4S2pkM2I1NDNZN1E3YTk5SjZpVUVmOXUyVEZvbnQ0c1NFelpEeElBNkpmLUJoU0ltZ0lIYUtrY0l1MW5PSE9ELWpwSWhBZjlxV0dGUUlXNUstUWF4SmxtZk1xRkdOd1BGb1I2TURJVzYwMGRFWlRxbmsyb0FucGZfVHlXSVd1MXNiRW1DYzhvSDVwZXRtSXJhVk1VZzhOQ0xCZFZpMlRhcnAtOUgybGdVUU5scnRSQmZ3eUFFNFNQN01fRjUtVUdYOVBXQjZJ?oc=5)
+
+---
+
+### [Call for roll-out of lung cancer screening programme](https://news.google.com/rss/articles/CBMickFVX3lxTFBoalI5dFhEbjNWV3JERC1HNTR5c3dHdmFkWTBpM3RLYm5GdGYwX0N1eDNBWkREMFJ6bTg1R1RLaWh4NEtTY25KOGk1NVhkYWEwNm1xZ29XYVBHdXJUWmFTMXFsMzRIT0c2MzBsanQ3bVlZZw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">cancer</span>
+
+Source: [RTE.ie](https://news.google.com/rss/articles/CBMickFVX3lxTFBoalI5dFhEbjNWV3JERC1HNTR5c3dHdmFkWTBpM3RLYm5GdGYwX0N1eDNBWkREMFJ6bTg1R1RLaWh4NEtTY25KOGk1NVhkYWEwNm1xZ29XYVBHdXJUWmFTMXFsMzRIT0c2MzBsanQ3bVlZZw?oc=5)
+
+---
 
 ### [Männer untersucht: Studie findet erschreckenden Zusammenhang zwischen Hormonwert und Krebstod - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3NCRElhRDhoaWYybFZ2N0Z2UHc1bk53S1ZEZFFmSmwxbjcxUFRTci1ubE1lT1FxV3F4aDBVdmkxM1lRVlg3NTZ6T3E5TlctUHJfM0RMdUtjTFoyV2stMlFEbzlyQXFKNlZLV0ZmcjBiNC13TWZ6STRwYzlfSEEwUmEwbGF5UkRjZlctS1BhZXhIcnhvbXZNWnozNmZsVkd0NWNyYUNXQm9yQVU?oc=5)
 
 2026-11-09 <span class="news-indication-tag">Krebs</span>
 
 Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3NCRElhRDhoaWYybFZ2N0Z2UHc1bk53S1ZEZFFmSmwxbjcxUFRTci1ubE1lT1FxV3F4aDBVdmkxM1lRVlg3NTZ6T3E5TlctUHJfM0RMdUtjTFoyV2stMlFEbzlyQXFKNlZLV0ZmcjBiNC13TWZ6STRwYzlfSEEwUmEwbGF5UkRjZlctS1BhZXhIcnhvbXZNWnozNmZsVkd0NWNyYUNXQm9yQVU?oc=5)
+
+---
+
+### [Tumore del pancreas, in Lombardia cala la mortalità operatoria. “Nuove tecnologie per cure più efficaci” - Il Giorno](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ2pSem5iTDlJZ0x2ek9iWnJyUTUzZkpITG9DXzNsTHZpbGNTd1FmVEI2ckdQNjVCYWVRN0xiUkVESjhyczlNOXAwbG0yTV9JblQwWWpKeWIyejdEZExqdW4xQXY2aktRSmhxZlAtelJGRmZma2RFUHhDZXVyVkhqM0tR?oc=5)
+
+2026-11-09 <span class="news-indication-tag">tumor</span>
+
+Source: [Il Giorno](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ2pSem5iTDlJZ0x2ek9iWnJyUTUzZkpITG9DXzNsTHZpbGNTd1FmVEI2ckdQNjVCYWVRN0xiUkVESjhyczlNOXAwbG0yTV9JblQwWWpKeWIyejdEZExqdW4xQXY2aktRSmhxZlAtelJGRmZma2RFUHhDZXVyVkhqM0tR?oc=5)
+
+---
+
+### [Cancer du cerveau : une nouvelle piste contre le glioblastome, cancer particulièrement agressif](https://news.google.com/rss/articles/CBMihwFBVV95cUxPTmZsZzA0emhiMENTa3ZkYm1qeVhkXzRKVEp2a1E2bU5RcmJPbVJkb2ZjX18xSXdYNlZSbkphTjFZbFJKbTRTc212NXpldWxtYUxPOGV5RkN6b2VsdE9Iak14UUl4UGdzRDRQRUZ1RUNiTVhLSzRyaU5iTW9TeWhObThjNi1MNEE?oc=5)
+
+2026-11-09 <span class="news-indication-tag">cancer</span>
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMihwFBVV95cUxPTmZsZzA0emhiMENTa3ZkYm1qeVhkXzRKVEp2a1E2bU5RcmJPbVJkb2ZjX18xSXdYNlZSbkphTjFZbFJKbTRTc212NXpldWxtYUxPOGV5RkN6b2VsdE9Iak14UUl4UGdzRDRQRUZ1RUNiTVhLSzRyaU5iTW9TeWhObThjNi1MNEE?oc=5)
+
+---
+
+### [Alzheimer's study finds symptom starts in ear 10 years before memory loss - Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
+
+2026-11-09 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
 
 ---
 
@@ -75,6 +115,14 @@ Source: [El Debate](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXFzOWF
 
 ---
 
+### [Santé. Jean-Luc Romero-Michel atteint d'un cancer de l'anus : que sait-on de cette maladie qui frappe l'ex-élu parisien ? - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVHNSVy1aaFVLOUdPSlB6VkVvUHBMNkNWT2x0M0pXV050MWtNQWI5RkxoOGdwREotUVJGaDMzMUFfak1Xa20xY3Yybkt6ODYwX2dEMnByZTI3NndFNFhWWnBQSXNLclFJN2RFMGNoZ3NWeHZWQVNhOW4yOVFLOW9ZbGJPdFExNmNzRDJPYURtTWItWWRjNEFMZ0QtWEMwUmdlNk9Cc3MxM3pTSEFBMEc2djBoWHdLQlIyUFB0ZHlJbG5vMTBtbzBOaFd1Ty1OWW9fdURRZmo4SXA0eUlPNG85cVF5RlV3R1dRSEE?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cancer</span>
+
+Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVHNSVy1aaFVLOUdPSlB6VkVvUHBMNkNWT2x0M0pXV050MWtNQWI5RkxoOGdwREotUVJGaDMzMUFfak1Xa20xY3Yybkt6ODYwX2dEMnByZTI3NndFNFhWWnBQSXNLclFJN2RFMGNoZ3NWeHZWQVNhOW4yOVFLOW9ZbGJPdFExNmNzRDJPYURtTWItWWRjNEFMZ0QtWEMwUmdlNk9Cc3MxM3pTSEFBMEc2djBoWHdLQlIyUFB0ZHlJbG5vMTBtbzBOaFd1Ty1OWW9fdURRZmo4SXA0eUlPNG85cVF5RlV3R1dRSEE?oc=5)
+
+---
+
 ### [Tumore al seno, più varietà a tavola fa la differenza? Cosa emerge da 983 donne](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWHhqREt0V0wzUjd6X2l3MmhkamVoQTJvQk85YTRoQzdIc1I4Ymg1SWl3dElQX3lveWFzQW9nMThMSm9DYnZQeFFhZmFBODBUTkRxcmRJNGN2eVA1UjFnYVUxcEVUWHhhY1FETmJBZkZmaTJpbXJqODdtZ1FUbm9UOWljaTZOMXM2YXlXczB6M2NIdkZlRU80QjhtenpsRFhkNmpvX2lGdjRpXzcwd3VHUU1Od2k3UHdyM1Y1WV9la2FYZVBnQ0VJU2Z4c0ktdk1VTXBr?oc=5)
 
 2026-11-08 <span class="news-indication-tag">tumor</span>
@@ -85,7 +133,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWHhq
 
 ### [David Cameron: End NHS dementia drug block - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUhCVDBVX3FTVVB1clNaUHo5UkdQM0xVVU9xMVdySUZ4QktETy16YVo0UXVKbDN2NXZ6cWc1bzk4d0RRQzg4bWh6eWlfeXpRUW5fOGdNLUozd2NscUFmWEtCT1pYc29mMmEyMlBvVTdmTzJuWDBZQlB0VnRUOWs4WTNwNktUMzVrbml1b3k0TQ?oc=5)
 
-2026-11-08 <span class="news-indication-tag">dementia</span>
+2026-11-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUhCVDBVX3FTVVB1clNaUHo5UkdQM0xVVU9xMVdySUZ4QktETy16YVo0UXVKbDN2NXZ6cWc1bzk4d0RRQzg4bWh6eWlfeXpRUW5fOGdNLUozd2NscUFmWEtCT1pYc29mMmEyMlBvVTdmTzJuWDBZQlB0VnRUOWs4WTNwNktUMzVrbml1b3k0TQ?oc=5)
 
@@ -112,14 +160,6 @@ Source: [Actu.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeUV5T1loe
 2026-11-08 <span class="news-indication-tag">tumor</span>
 
 Source: [Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk5SZ3RETm9ENEM1MnFBSHhJbEZqbFAwWjNtMTlnSWw1M0dPUDV3TDhLdTZOQWx2YTJEcHJFV0hsY3B5cVR1UldvRkQ3d0poNHFQNFkwYnItZVYycHo2WFhHZ3pPT1djajZWcmV6SU5nRWl0eDhtNzVDZm9SUkZteHR2Nzd4QU5sOVZ4Vko0b1hna25mcmRFa3FTbzVWR0lFS0dMZmhVQ3kxdERhZGlqZdIBpgFBVV95cUxOZjRNeWN1VEJLYTZXUUtib2FCd01ZWWNsYUtscHkydWtHeFBYT0N4d0lNTUJKZURLSG1valBEVHpwSVVmZzZDUEk1bm93Skh2MVVRelRteENxU09XNEFBV3FOUHN5WDk2R2NJaWlUcWVBeGhrZXNKdDR0NC1ydTBBTXlDS3lKbWpra1FxNjVZSGdmX1F4SjRPYXJWWE1kdjV2Tl9KUC1n?oc=5)
-
----
-
-### [Papilloma virus, boom di casi. Il vaccino arma di prevenzione - il Giornale](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmIyOHBjbmJIeVBHWHhuSVdTaXNOLXNhMm1VQ0NHeUEzRUNjZHMteUUwNlNCalRMUDZVT1RieVJwZmNxb3JaeTV5RTVTT2hncUFXSElSeWJIUm5GLUV0aV94Z1A0bTdwUlZhMU5nWjRjYWtIWDgwZzd5V3VldHZrN0NWaWxVUFhWSDFGQkFCdGE3Zmhael9VemNoZDgyMk9XUElZ?oc=5)
-
-2026-11-08 <span class="news-indication-tag">cancro</span>
-
-Source: [il Giornale](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmIyOHBjbmJIeVBHWHhuSVdTaXNOLXNhMm1VQ0NHeUEzRUNjZHMteUUwNlNCalRMUDZVT1RieVJwZmNxb3JaeTV5RTVTT2hncUFXSElSeWJIUm5GLUV0aV94Z1A0bTdwUlZhMU5nWjRjYWtIWDgwZzd5V3VldHZrN0NWaWxVUFhWSDFGQkFCdGE3Zmhael9VemNoZDgyMk9XUElZ?oc=5)
 
 ---
 
@@ -309,7 +349,7 @@ Source: [The Times](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSTVyVEZ
 
 ### [Exeter University-led £20m project to prevent and detect dementia](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
 
-2026-11-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">diabetes</span>
+2026-11-06 <span class="news-indication-tag">dementia</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzZEZHcWJhTjgtZzZPMU1sVGc5WE5QcWZTVEU4eVllNFd0OFBCM2kxbTNGMWNpLXNVMThLX1RPemE4T1JpMEN6UjhBYWhuNUlsUkdvZUk0OUlHc1gtTEE?oc=5)
 
@@ -424,6 +464,14 @@ Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cU
 2026-11-05 <span class="news-indication-tag">cancer</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1BrSVVDd3FEZ3BFNldwN2puNEk5SHZrM3R2VVVudVluaEkwbF9fcUFNSE9DaHJOOXo3aksycjZNdGhyWW5xS0ItXzN0VmFZd1NzcDFrZmFFMVZzYmtHN2pRQndjV3JsNEFQZ1VGeHlWUWtyalNpM1haa3cyX0stWDdLNVFySzdlQk1WU25IcGF4ZzhIal9LOWIwUFhGaG1waEMxT2htcmVBUGpHX3JCMzhvNWtVQjJ1N2g2Wg?oc=5)
+
+---
+
+### [La Marató de 3Cat 2025 permite impulsar 38 proyectos de investigación de 91 equipos expertos en cáncer - Europa Press](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORnVFZUFRdHNjR3BxS1EweUpzZXoyWHdfRDFUdzZlNEIyWUI2NFZNQTZNOWk1NDF1VnZaYnIySjNVTUxya01lSzN0eHkxMG53cGN5cHFlN0tKR19hSENQZGZrY05DcUFEMWI5RTZmRGZjOGY3NEpkSXc1OVpsT3g2dWotdUJubDZYN1B4S3MtNWVwMmtJbjdmb2Q3T3VhUk4wTE1RaW1IR3ZzZ2ZJeklBQlZFbF8ybFF3U0xoT3VnRmpSMG95QWdhbUNWN1BlOWFnLVcyRE03WU9vRHJHQW1odUxESHlmQ3M?oc=5)
+
+2026-11-05 <span class="news-indication-tag">cancer</span>
+
+Source: [Europa Press](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORnVFZUFRdHNjR3BxS1EweUpzZXoyWHdfRDFUdzZlNEIyWUI2NFZNQTZNOWk1NDF1VnZaYnIySjNVTUxya01lSzN0eHkxMG53cGN5cHFlN0tKR19hSENQZGZrY05DcUFEMWI5RTZmRGZjOGY3NEpkSXc1OVpsT3g2dWotdUJubDZYN1B4S3MtNWVwMmtJbjdmb2Q3T3VhUk4wTE1RaW1IR3ZzZ2ZJeklBQlZFbF8ybFF3U0xoT3VnRmpSMG95QWdhbUNWN1BlOWFnLVcyRE03WU9vRHJHQW1odUxESHlmQ3M?oc=5)
 
 ---
 

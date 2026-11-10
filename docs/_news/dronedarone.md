@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Dronedarone. 9 predicted indications."
 permalink: /news/dronedarone/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Dronedarone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>66 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>69 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,37 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (66)
+## Related News (69)
+
+### [Heimsensor für Vorhofflimmern: Nur 15,4 Prozent der Alarme trafen - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUczajZUck91UWxmNnc2S1NTbTRtQWRQcFpzLWlwNnpyTGNJZW5pb0dYWXJnQVR1TEY3Sk0ybGdRREF0MXJrT1ZzQmxIbzdWbFBoN2Q0M2QwWTlwcWN4dG5naGcxcWdHbGdFdU5BRHRZWldVbkZ6YlNKcng5NVZ1eEM0eHZOUVlUVXdOUUtBRGYtb1pubG4yLXJ4SEM?oc=5)
+
+2026-11-09 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUczajZUck91UWxmNnc2S1NTbTRtQWRQcFpzLWlwNnpyTGNJZW5pb0dYWXJnQVR1TEY3Sk0ybGdRREF0MXJrT1ZzQmxIbzdWbFBoN2Q0M2QwWTlwcWN4dG5naGcxcWdHbGdFdU5BRHRZWldVbkZ6YlNKcng5NVZ1eEM0eHZOUVlUVXdOUUtBRGYtb1pubG4yLXJ4SEM?oc=5)
+
+---
 
 ### [Mantener un horario regular de sueño ayuda a proteger la salud del corazón](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
 
 2026-11-09 <span class="news-indication-tag">ictus</span>
 
 Source: [ConSalud](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
+
+---
+
+### [🔊 Un dépistage des AVC en 1 minute à la pharmacie - Radio Intensité](https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNnl1QXdHdkNBQ19ZWXBheU9CVmVHaUpXeEdGYnNHMEhEN2dYcXZSSGJGczM3c25tMGIwcS1KQXp3VXFxeFdzbkY3UTZtd256STRhZmtKUDFKVmlFYUoxeW5wVnNBemJxYXdTbmJxYzJVRlpCWUVqeTN2WVFMQQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">AVC</span>
+
+Source: [Radio Intensité](https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNnl1QXdHdkNBQ19ZWXBheU9CVmVHaUpXeEdGYnNHMEhEN2dYcXZSSGJGczM3c25tMGIwcS1KQXp3VXFxeFdzbkY3UTZtd256STRhZmtKUDFKVmlFYUoxeW5wVnNBemJxYXdTbmJxYzJVRlpCWUVqeTN2WVFMQQ?oc=5)
+
+---
+
+### [David Cameron: End NHS dementia drug block - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUhCVDBVX3FTVVB1clNaUHo5UkdQM0xVVU9xMVdySUZ4QktETy16YVo0UXVKbDN2NXZ6cWc1bzk4d0RRQzg4bWh6eWlfeXpRUW5fOGdNLUozd2NscUFmWEtCT1pYc29mMmEyMlBvVTdmTzJuWDBZQlB0VnRUOWs4WTNwNktUMzVrbml1b3k0TQ?oc=5)
+
+2026-11-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUhCVDBVX3FTVVB1clNaUHo5UkdQM0xVVU9xMVdySUZ4QktETy16YVo0UXVKbDN2NXZ6cWc1bzk4d0RRQzg4bWh6eWlfeXpRUW5fOGdNLUozd2NscUFmWEtCT1pYc29mMmEyMlBvVTdmTzJuWDBZQlB0VnRUOWs4WTNwNktUMzVrbml1b3k0TQ?oc=5)
 
 ---
 
@@ -109,7 +133,7 @@ Source: [Telecinco](https://news.google.com/rss/articles/CBMizgFBVV95cUxQcXZFRUJ
 
 ### [Ictus, in Italia 100mila casi: come si può riconoscere tempestivamente? - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU0NJb2JlSTc0Z21vd3RRMlJad1kzeEJyb29QSFFPM3NTcEJSaGJWZm9VM3RoWGpvMER4eGhiMUE4SjJaR2VTeEdaYzhRLUZGd29sN2hxT0RsSUppc1ItN0FyUlFUa1VmZGlpMmJGdVZGQmlHYk03RGFaVnkyMzlMV2lRbkx3cFJSRzMwM1pNeTRJSF8tTGk0OTI4Rkt2eGhyVVVNU2VkVkRmSFZmMXVJVVBVSTM1dHdRQUpfWTIyOXQ3TFVlXy1LbjhOSXd2aDlBd2hDLWtia0tuZVlKVFJmb1d6dnVJVkN5RGxj0gHGAUFVX3lxTFBSMEJzSTFqMlNHQ0hjUzlBYUpBZDBld3hQYk5Xc3l4Qi1TTzQ2ZENVOE5tUmlJN0xwS3VKeWxYcUktN2lEVEJlSEc5dElLTTE2dF94bVFONHdWakw0ZWltMEpxbUlnYjl5M0U5TTZXV0pFQi1SNHRUM0JzQlFQQjlLMnljWktweXJxZFlaSk42Rk1jTmpJMGNJZldKT0dIampKckVWNUFDR2hXck9rTG53RzBtYm1YYjV5S3RvVlMzUFlfaEhWZw?oc=5)
 
-2026-11-05 <span class="news-indication-tag">stroke</span>
+2026-11-05 <span class="news-indication-tag">ictus</span>
 
 Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU0NJb2JlSTc0Z21vd3RRMlJad1kzeEJyb29QSFFPM3NTcEJSaGJWZm9VM3RoWGpvMER4eGhiMUE4SjJaR2VTeEdaYzhRLUZGd29sN2hxT0RsSUppc1ItN0FyUlFUa1VmZGlpMmJGdVZGQmlHYk03RGFaVnkyMzlMV2lRbkx3cFJSRzMwM1pNeTRJSF8tTGk0OTI4Rkt2eGhyVVVNU2VkVkRmSFZmMXVJVVBVSTM1dHdRQUpfWTIyOXQ3TFVlXy1LbjhOSXd2aDlBd2hDLWtia0tuZVlKVFJmb1d6dnVJVkN5RGxj0gHGAUFVX3lxTFBSMEJzSTFqMlNHQ0hjUzlBYUpBZDBld3hQYk5Xc3l4Qi1TTzQ2ZENVOE5tUmlJN0xwS3VKeWxYcUktN2lEVEJlSEc5dElLTTE2dF94bVFONHdWakw0ZWltMEpxbUlnYjl5M0U5TTZXV0pFQi1SNHRUM0JzQlFQQjlLMnljWktweXJxZFlaSk42Rk1jTmpJMGNJZldKT0dIampKckVWNUFDR2hXck9rTG53RzBtYm1YYjV5S3RvVlMzUFlfaEhWZw?oc=5)
 
@@ -165,7 +189,7 @@ Source: [La Razón](https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnBMcGM
 
 ### [Schlaganfall-Prävention: Zehn Risikofaktoren erklären rund 90 Prozent des Risikos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzF1Z192aVg0ckVBRUVZamVjaFhBckE1Z1JranVxN2FpWFNCVDQ1NkE2UGI4dko2Tlptc21oRGxtb3VJTVhmYl82MFRHOEJkRVptRjBYd01qaDJYX195WGVCM0ZRN19XWldYaWdXZ2UwRC1PMnF3N0dkaVYzSEFqYzdjM1ptV2VHUVdYRUFGSmdPaEM0SWJEdWxYcmRaSDlzUGFFMHdjZWgzYi1mLUhNczV2N0RMN3dEU05hYWthemZBWDJrN0pDcnVocw?oc=5)
 
-2026-11-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-11-05 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzF1Z192aVg0ckVBRUVZamVjaFhBckE1Z1JranVxN2FpWFNCVDQ1NkE2UGI4dko2Tlptc21oRGxtb3VJTVhmYl82MFRHOEJkRVptRjBYd01qaDJYX195WGVCM0ZRN19XWldYaWdXZ2UwRC1PMnF3N0dkaVYzSEFqYzdjM1ptV2VHUVdYRUFGSmdPaEM0SWJEdWxYcmRaSDlzUGFFMHdjZWgzYi1mLUhNczV2N0RMN3dEU05hYWthemZBWDJrN0pDcnVocw?oc=5)
 
