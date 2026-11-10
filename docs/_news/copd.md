@@ -3,7 +3,7 @@ layout: default
 title: "EPOC (copd) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about EPOC (copd). 8 articles, 26 related drugs."
+description: "Health news about EPOC (copd). 9 articles, 26 related drugs."
 permalink: /news/copd/
 last_modified_at: 2026-11-10
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about EPOC (copd)?">
-<strong>EPOC (copd)</strong> currently has <strong>8 news articles</strong> and 26 related drugs.
+<strong>EPOC (copd)</strong> currently has <strong>9 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “EPOC” and lists the 
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [RSV ist keine leichte Erkältung - Experte über Imfpung für Säuglinge](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYnlxVnVPaktWRnk2VXpNVkhKUDYxdW5vQ2NvM3pTal9RZHB1UlB4OHJDbkc2YVZwcTZFYlNmUEhvenJiaXZ5RmFpb2pHMkZqUGJFbzJ5b2NQNFdVUFBlWTlmeWJzY29GVWJnSFo3ZTVUZHg5Y09aOTlET011T083RmZxVHBNd3lxcGUxd3FhbXBEanMwU3Z5aFVUZFhaSGx4VTJmRnJkWG9DXzhLcHlPUzUxbGhSNTlQT21jOFRVb2lsRGdLSEZvR0htZDhFcDF5UXNXTGxCd1Eza1BraGc?oc=5)
+
+2026-11-10
+
+Source: [Nordwest-Zeitung](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYnlxVnVPaktWRnk2VXpNVkhKUDYxdW5vQ2NvM3pTal9RZHB1UlB4OHJDbkc2YVZwcTZFYlNmUEhvenJiaXZ5RmFpb2pHMkZqUGJFbzJ5b2NQNFdVUFBlWTlmeWJzY29GVWJnSFo3ZTVUZHg5Y09aOTlET011T083RmZxVHBNd3lxcGUxd3FhbXBEanMwU3Z5aFVUZFhaSGx4VTJmRnJkWG9DXzhLcHlPUzUxbGhSNTlQT21jOFRVb2lsRGdLSEZvR0htZDhFcDF5UXNXTGxCd1Eza1BraGc?oc=5)
+
+---
 
 ### [EPOC: diez claves para frenar su avance y mejorar la calidad de vida - Gaceta Médica](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXNSRVlHNWRaQVVPUExLSTBPS2VXRko5ZEZtcGVHck1kNjNuT2ZyOXFaOTBvTEIyUTBsZHNESl9FOWZjb1lHRDI3MFZOT3lpU2drSkh1Ty1qX1NQZmRIUVlOTExzYm9VanRZSjlibEk5MVBBb3Y4c0hKdHFMU2k2NVVfVjU3SzlqU1E?oc=5)
 

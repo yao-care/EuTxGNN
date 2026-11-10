@@ -3,9 +3,9 @@ layout: default
 title: "maladie de Parkinson (parkinson disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about maladie de Parkinson (parkinson disease). 5 articles, 7 related drugs."
+description: "Health news about maladie de Parkinson (parkinson disease). 6 articles, 7 related drugs."
 permalink: /news/parkinson-disease/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-10
 ---
 
 # maladie de Parkinson (parkinson disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about maladie de Parkinson (parkinson disease)?">
-<strong>maladie de Parkinson (parkinson disease)</strong> currently has <strong>5 news articles</strong> and 7 related drugs.
+<strong>maladie de Parkinson (parkinson disease)</strong> currently has <strong>6 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “maladie de Parkinson�
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Maladie de Parkinson : une découverte inattendue soulève de nouveaux espoirs de traitement](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5)
+
+2026-11-10
+
+Source: [L'Humanité](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5)
+
+---
 
 ### [Maladie de Parkinson : l’activité physique associée à une progression plus lente des symptômes - Charente Libre](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdXNfUGJGWV8zNzNaQ1lpYkN1S0ItSzk1eFVsTGw3RlNYRVVyWVBuaTVoSDAtSkU3Sll6N18xWU83T29MRFNVNm1uMWQtWWhOSzNaVjlScXpxT1BYTkNyWmg2YVdOQWYwWVhnamRTd0lVNkFONFpCTU5WQlF3RWx4QXk2c0FrWGViWDM5OW1xVXpqM0NXZEtvSzJOcC1ueWVTZVNBcGRmTmRDbERKUjNxUUs5eFp6UjRlMWJxcWxiMUF0WmRXSl9WQVZTZWdQR2NRbDFNLWlIdw?oc=5)
 

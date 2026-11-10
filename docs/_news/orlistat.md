@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>123 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>132 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,45 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (123)
+## Related News (132)
+
+### [No es común que los GLP-1 provoquen ceguera, dice una doctora ante la advertencia de la FDA](https://news.google.com/rss/articles/CBMiigFBVV95cUxPVWV3ckVqbEVLWXJNV0FYZzJzNm5KZzJlZ3NnY1VsLXlCWmxCVENDbmszRW9sZTRfa2ttNG5Pek9wV1N0cktwemc0eS1ScHVmd2tPeTNKb19BSkxmME9iSURoYjlYX3NXM0RoQzNtT2RVOHFBZ0JiamtTSWRoOGk1RDVadEI3b2ZJSFE?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMiigFBVV95cUxPVWV3ckVqbEVLWXJNV0FYZzJzNm5KZzJlZ3NnY1VsLXlCWmxCVENDbmszRW9sZTRfa2ttNG5Pek9wV1N0cktwemc0eS1ScHVmd2tPeTNKb19BSkxmME9iSURoYjlYX3NXM0RoQzNtT2RVOHFBZ0JiamtTSWRoOGk1RDVadEI3b2ZJSFE?oc=5)
+
+---
+
+### [El peligro de infarto e ictus por no tener una rutina de sueño - La Crónica de Salamanca](https://news.google.com/rss/articles/CBMikgFBVV95cUxNOU9nUG1NSkdwSEhEU1FzYWlzdXBEX3BvRmE2MXlzbzJFZ1p4YjUzU3JzNnZZaG1tRTF6UDZBOVNTbDVFVEpkUFZTaXh0QzVYb2JFX2dPajd3c1R4OE9uenFNMFBoMDFPeEZETDhRdTcxaHZySm04bkJfanlPeGd0X1NockVXNmNOZVJINjNWU1dCQQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">ictus</span>
+
+Source: [La Crónica de Salamanca](https://news.google.com/rss/articles/CBMikgFBVV95cUxNOU9nUG1NSkdwSEhEU1FzYWlzdXBEX3BvRmE2MXlzbzJFZ1p4YjUzU3JzNnZZaG1tRTF6UDZBOVNTbDVFVEpkUFZTaXh0QzVYb2JFX2dPajd3c1R4OE9uenFNMFBoMDFPeEZETDhRdTcxaHZySm04bkJfanlPeGd0X1NockVXNmNOZVJINjNWU1dCQQ?oc=5)
+
+---
 
 ### [La FDA exige cambiar la etiqueta en fármacos contra la obesidad por riesgo de enfermedad ocular rara](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUEFQdWxQc2FFZHRXWUZFalcyTUFVQUZ5SGxFYUlwXzc5dWl3UFZINXEtUXMzTW5zdXpRdVhkRHJVZWxPeU15aTlwX0NwNkkxZ2RYMldHaWZRUXhrYWxzU0pGU1dYSFcyQ0ZwRE9ZVmdVa0Z0R05ySHdjVzF1N1hvajFBWFYtSUgxWndPZmliWUMzWEN5V1RwWXV5SW1CU1pxUzZweEJ3RWFTb3RmY3dnTm5UX2M2ZW1Xc2Z0RDlncTRqYXdRbllKU25sc2VCVXgwdmc?oc=5)
 
 2026-11-10 <span class="news-indication-tag">obesidad</span>
 
 Source: [SINC](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUEFQdWxQc2FFZHRXWUZFalcyTUFVQUZ5SGxFYUlwXzc5dWl3UFZINXEtUXMzTW5zdXpRdVhkRHJVZWxPeU15aTlwX0NwNkkxZ2RYMldHaWZRUXhrYWxzU0pGU1dYSFcyQ0ZwRE9ZVmdVa0Z0R05ySHdjVzF1N1hvajFBWFYtSUgxWndPZmliWUMzWEN5V1RwWXV5SW1CU1pxUzZweEJ3RWFTb3RmY3dnTm5UX2M2ZW1Xc2Z0RDlncTRqYXdRbllKU25sc2VCVXgwdmc?oc=5)
+
+---
+
+### [Mum, 40, woke up having a stroke after GP told her to ‘call back in the morning’ for asthma-like symptoms - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
+
+2026-11-10 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
+
+---
+
+### [Stopping weight loss drugs doubles diabetics’ heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 
 ---
 
@@ -59,6 +91,38 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcH
 
 ---
 
+### [Cardiopatías en perros: las señales de alerta que los veterinarios piden no ignorar](https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ec0JGNlEzVUp6alY1ZkNpZVQyQkVjMkJsRXd4Zy0zejVZNDFJNHd3TUZMZ0hzSldYRnhKTkoyZ2hNXzcwcjJaMmFoQzVPeExNMGl6RWo3Q1Y3a1JuQUc0dlRKYzVabnZDRXVZemxTZW9UbzRk?oc=5)
+
+2026-11-09 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Qué.es](https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ec0JGNlEzVUp6alY1ZkNpZVQyQkVjMkJsRXd4Zy0zejVZNDFJNHd3TUZMZ0hzSldYRnhKTkoyZ2hNXzcwcjJaMmFoQzVPeExNMGl6RWo3Q1Y3a1JuQUc0dlRKYzVabnZDRXVZemxTZW9UbzRk?oc=5)
+
+---
+
+### [The deadly morning hour when your stroke risk suddenly spikes - The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVNMYS1OS3FiaC1VUlRCTFFCSXJQaHVIa3A5WDc2QUF1V0J6RHhDUzk4VUZMeTQ0THpKS0NWUzFvQjZ4OHlPNmFVOWZxSTNQMHJEUHczb1p4Sml0dXdhaTdGVnRRSlp3MThtU21ZZDFQMUYxLWZPV3dGcG1wOVRyUmV4cjBycHQ4cUEwTk1QQzRtN3hKZTNj?oc=5)
+
+2026-11-09 <span class="news-indication-tag">stroke</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVNMYS1OS3FiaC1VUlRCTFFCSXJQaHVIa3A5WDc2QUF1V0J6RHhDUzk4VUZMeTQ0THpKS0NWUzFvQjZ4OHlPNmFVOWZxSTNQMHJEUHczb1p4Sml0dXdhaTdGVnRRSlp3MThtU21ZZDFQMUYxLWZPV3dGcG1wOVRyUmV4cjBycHQ4cUEwTk1QQzRtN3hKZTNj?oc=5)
+
+---
+
+### [Nella clinica romagnola il primo intervento in Italia di anastomosi gastrointestinale con tecnologia magnetica](https://news.google.com/rss/articles/CBMimwFBVV95cUxPM3pIdzlLdUthdFBYZmk1a3dUay1jekY3b2taaG9KY1VaS1Q0dktEa3N0dGNyYkxjZnJOdDhDa1h2NE1oVnV3UjEyV0VGTGpxNFVUQ0gzZWtWMDhnUFd5ZjFrTWNpLXQyd3RWMFhlcFI5MHNScXBhVDhvZFVmRmlHTFhSeEtPY3RubW5MN3BUbVlaR2NnUG9kWTc1UQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">obesità</span>
+
+Source: [RavennaToday](https://news.google.com/rss/articles/CBMimwFBVV95cUxPM3pIdzlLdUthdFBYZmk1a3dUay1jekY3b2taaG9KY1VaS1Q0dktEa3N0dGNyYkxjZnJOdDhDa1h2NE1oVnV3UjEyV0VGTGpxNFVUQ0gzZWtWMDhnUFd5ZjFrTWNpLXQyd3RWMFhlcFI5MHNScXBhVDhvZFVmRmlHTFhSeEtPY3RubW5MN3BUbVlaR2NnUG9kWTc1UQ?oc=5)
+
+---
+
+### [Retatrutide Improves Knee OA Pain, Physical Function](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3p1emJDT0JCUkc1VHNmc2duNnN5bFJmTnpZS0pIYVRVREl5aHA5MlNUUm11UE9lUHR0MDZYaU5OdEVUUGI5M1VWRERoYTktNkFOd3Y1ZGN3OXJjMF9INEJmTGd4a2Z1dWlnMnFzOVRpdXlIbVhMZjBiajM3RThTWjJQQUU1M3VPUTJ1WmRpRXNnVHZZMXZfRXRZelpBdFdQU0ljbUowWmo?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">obesity</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3p1emJDT0JCUkc1VHNmc2duNnN5bFJmTnpZS0pIYVRVREl5aHA5MlNUUm11UE9lUHR0MDZYaU5OdEVUUGI5M1VWRERoYTktNkFOd3Y1ZGN3OXJjMF9INEJmTGd4a2Z1dWlnMnFzOVRpdXlIbVhMZjBiajM3RThTWjJQQUU1M3VPUTJ1WmRpRXNnVHZZMXZfRXRZelpBdFdQU0ljbUowWmo?oc=5)
+
+---
+
 ### [Enfermedades cardíacas en perros: Veterinarios explican los síntomas de alerta y las patologías más frecuentes](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1hUUm9YaXBDR1E0SzBhdUFtZHdieDZWbmVpTU84NGg3UlkwVlVJNUd1LV9lWFpOb1YwdmE3bkdKRDRpSVRmNjNfSmRGWUpPd0ZBUVdVRlg5blRTWlRGS1g1cktQVkZ0Q29tb1NObHlOQWJuZU8wVEU0d01lV3NBbk9CSTF3eUFjVmcwcEdPSEVvd0tqS3MtUGlCOVBxQUhRNDhRbmVIU2VhOWZLb1NQWUJDTHgtSzA5cFNGRW5fUld1cjVjYVHSAcsBQVVfeXFMTjdBQjFRb196dTVETlRvbnhmSTI5eDdnQlhRZTI1R09fNzhieDV2bUJwT1h3ZHJzTmhtUWhGMzN1a2dPcGktT0VMcDNjMG10SGxoSWVoamUzTDdodG03UDd3YXBIRzhVX2h2cXFxRUNvWTROVWRNMkhHeHQ1dHVkaDhEMlc0WW5ydk1zenhMbHFjWHJmeVBZaWJjVHNDcGoxZjVmTHhXdlN0bjBHRDg0eGpBdHBXT3JxMjZ2VnhIS18weVo2OTlvTXhDQTQ?oc=5)
 
 2026-11-09 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">obesidad</span>
@@ -75,14 +139,6 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGxNS2J
 
 ---
 
-### [Mantener un horario regular de sueño ayuda a proteger la salud del corazón](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
-
-2026-11-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">ictus</span>
-
-Source: [ConSalud](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
-
----
-
 ### [Night-time habit could be early warning for stroke or heart failure - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZFhsTjNrUXg5dk1lNmRCTWtlNUhaSS1sX2VtMXJDUGNSQnYwVzZJTGNnN09FNVdUV1BkcTEwRU5obFZ5SFd3NjFxbzF5M0NJaUw3eWM0Q2ExTjdZdlIwV3NWVExCLWNmQ1JzaTdOdG5ON0ZBbXdzSXc5R0k?oc=5)
 
 2026-11-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
@@ -96,6 +152,22 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZF
 2026-11-09 <span class="news-indication-tag">AVC</span>
 
 Source: [Radio Intensité](https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNnl1QXdHdkNBQ19ZWXBheU9CVmVHaUpXeEdGYnNHMEhEN2dYcXZSSGJGczM3c25tMGIwcS1KQXp3VXFxeFdzbkY3UTZtd256STRhZmtKUDFKVmlFYUoxeW5wVnNBemJxYXdTbmJxYzJVRlpCWUVqeTN2WVFMQQ?oc=5)
+
+---
+
+### [Los otros objetivos de los fármacos antiobesidad](https://news.google.com/rss/articles/CBMic0FVX3lxTE10ZzZoT1NvMVU0QW1RWjVjQmxpVGxXVFd2SlBGTC1RcXJNVF9LUEE0NFJKcm5WTmJTdm5KQndhWE5jbVdGazE4c1R0OTY3NDctcE1yQ1BvSFRUME5BOFZfUXhjREtaZkNqTjk1TE5RRnVSQTQ?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [EFESalud](https://news.google.com/rss/articles/CBMic0FVX3lxTE10ZzZoT1NvMVU0QW1RWjVjQmxpVGxXVFd2SlBGTC1RcXJNVF9LUEE0NFJKcm5WTmJTdm5KQndhWE5jbVdGazE4c1R0OTY3NDctcE1yQ1BvSFRUME5BOFZfUXhjREtaZkNqTjk1TE5RRnVSQTQ?oc=5)
+
+---
+
+### [David Cameron calls for end to NHS block on Alzheimer’s drugs - The Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3BUSzhBcTZjT0N2djd5WHFRV2R5emR0czE2b3FrdWxQdThNX08xUVdpM0xnbE9JdWVtdUltQVdTQ3hfMjJoSW1waDBlRlp3WHJSZVJaSHFzejJXLUFubnA2WEVfUXV0YUU0bjVDVnQ5TDZHZ2VFeTJLVTh4XzJUTGdBcW5VeXdfNDB1SDVGbEQ5Zk5ZT3pJbVUtUjloQ0ptRnRmRGM0T2g3Y3hPYlJQQWQ1dEtib2RS?oc=5)
+
+2026-11-09 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3BUSzhBcTZjT0N2djd5WHFRV2R5emR0czE2b3FrdWxQdThNX08xUVdpM0xnbE9JdWVtdUltQVdTQ3hfMjJoSW1waDBlRlp3WHJSZVJaSHFzejJXLUFubnA2WEVfUXV0YUU0bjVDVnQ5TDZHZ2VFeTJLVTh4XzJUTGdBcW5VeXdfNDB1SDVGbEQ5Zk5ZT3pJbVUtUjloQ0ptRnRmRGM0T2g3Y3hPYlJQQWQ1dEtib2RS?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 20 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 22 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 last_modified_at: 2026-11-10
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>20 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>22 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,23 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (20)
+## Related News (22)
+
+### [Some people are resistant to dementia — here’s what their genes can teach us](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XUFFyaFRpSlRERUYzWlgycHBQZXZ6WEp0QjJTbl9WX21peFJ5Z2FRQXp2QWFCNEREeTVMRlNZd01Kc01pb3o1RnVuTEwwUVpEbUxxQkt1cU9PWVVCX29z?oc=5)
+
+2026-11-10
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XUFFyaFRpSlRERUYzWlgycHBQZXZ6WEp0QjJTbl9WX21peFJ5Z2FRQXp2QWFCNEREeTVMRlNZd01Kc01pb3o1RnVuTEwwUVpEbUxxQkt1cU9PWVVCX29z?oc=5)
+
+---
+
+### [Vibrating mattress may clean your brain and fend off Alzheimer’s - The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEVzOVg5aGdTckY4ekNQZk9BeG4zTWdQN0taQ2dmcE53MDNJbjBIQWV0VElPLTlPbmZJc3pnc3dPQnRCNWpDWXpadVNsTDJZVEVKc2ZqMFBoLVNNVmN3aTA1ZkJvOWNUSmNlTE94enRzNmEtTW01T0poRHVKNXBHekRkQmRBdmFjdDRBdjFxTDR1TmppcTkzQ0VfU05WS1ByX0k2UUhFNVlCc0E?oc=5)
+
+2026-11-10
+
+Source: [The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEVzOVg5aGdTckY4ekNQZk9BeG4zTWdQN0taQ2dmcE53MDNJbjBIQWV0VElPLTlPbmZJc3pnc3dPQnRCNWpDWXpadVNsTDJZVEVKc2ZqMFBoLVNNVmN3aTA1ZkJvOWNUSmNlTE94enRzNmEtTW01T0poRHVKNXBHekRkQmRBdmFjdDRBdjFxTDR1TmppcTkzQ0VfU05WS1ByX0k2UUhFNVlCc0E?oc=5)
+
+---
 
 ### [Britain’s leading dementia expert: ‘Alzheimer’s could be prevented within five years’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1pKTjRWSHNJN3VUMDk2YVhPY3c4Q2RFVkU3WjdGcGNxY1NITHpZTkpvMGxmdEFzaGNwdFpwWGNMZnhfXzFxX3RiS0sxRW5DV2NFcjdDdlZWMW1jcTZNU01LLWpQa21wTDVvaC1aR25UQTExTHNPOXg0NlV2bF9uX2ZZaEstY0pwb1R0dDFMUG9YTEc1NTJz?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>25 news articles</strong>, with 0 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>28 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (25)
+## Related News (28)
+
+### [Cardiopatías en perros: las señales de alerta que los veterinarios piden no ignorar](https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ec0JGNlEzVUp6alY1ZkNpZVQyQkVjMkJsRXd4Zy0zejVZNDFJNHd3TUZMZ0hzSldYRnhKTkoyZ2hNXzcwcjJaMmFoQzVPeExNMGl6RWo3Q1Y3a1JuQUc0dlRKYzVabnZDRXVZemxTZW9UbzRk?oc=5)
+
+2026-11-09 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Qué.es](https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ec0JGNlEzVUp6alY1ZkNpZVQyQkVjMkJsRXd4Zy0zejVZNDFJNHd3TUZMZ0hzSldYRnhKTkoyZ2hNXzcwcjJaMmFoQzVPeExNMGl6RWo3Q1Y3a1JuQUc0dlRKYzVabnZDRXVZemxTZW9UbzRk?oc=5)
+
+---
+
+### [Retatrutide Improves Knee OA Pain, Physical Function](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3p1emJDT0JCUkc1VHNmc2duNnN5bFJmTnpZS0pIYVRVREl5aHA5MlNUUm11UE9lUHR0MDZYaU5OdEVUUGI5M1VWRERoYTktNkFOd3Y1ZGN3OXJjMF9INEJmTGd4a2Z1dWlnMnFzOVRpdXlIbVhMZjBiajM3RThTWjJQQUU1M3VPUTJ1WmRpRXNnVHZZMXZfRXRZelpBdFdQU0ljbUowWmo?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">obesity</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3p1emJDT0JCUkc1VHNmc2duNnN5bFJmTnpZS0pIYVRVREl5aHA5MlNUUm11UE9lUHR0MDZYaU5OdEVUUGI5M1VWRERoYTktNkFOd3Y1ZGN3OXJjMF9INEJmTGd4a2Z1dWlnMnFzOVRpdXlIbVhMZjBiajM3RThTWjJQQUU1M3VPUTJ1WmRpRXNnVHZZMXZfRXRZelpBdFdQU0ljbUowWmo?oc=5)
+
+---
 
 ### [Enfermedades cardíacas en perros: Veterinarios explican los síntomas de alerta y las patologías más frecuentes](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1hUUm9YaXBDR1E0SzBhdUFtZHdieDZWbmVpTU84NGg3UlkwVlVJNUd1LV9lWFpOb1YwdmE3bkdKRDRpSVRmNjNfSmRGWUpPd0ZBUVdVRlg5blRTWlRGS1g1cktQVkZ0Q29tb1NObHlOQWJuZU8wVEU0d01lV3NBbk9CSTF3eUFjVmcwcEdPSEVvd0tqS3MtUGlCOVBxQUhRNDhRbmVIU2VhOWZLb1NQWUJDTHgtSzA5cFNGRW5fUld1cjVjYVHSAcsBQVVfeXFMTjdBQjFRb196dTVETlRvbnhmSTI5eDdnQlhRZTI1R09fNzhieDV2bUJwT1h3ZHJzTmhtUWhGMzN1a2dPcGktT0VMcDNjMG10SGxoSWVoamUzTDdodG03UDd3YXBIRzhVX2h2cXFxRUNvWTROVWRNMkhHeHQ1dHVkaDhEMlc0WW5ydk1zenhMbHFjWHJmeVBZaWJjVHNDcGoxZjVmTHhXdlN0bjBHRDg0eGpBdHBXT3JxMjZ2VnhIS18weVo2OTlvTXhDQTQ?oc=5)
 
@@ -45,6 +61,14 @@ Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxP
 2026-11-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZFhsTjNrUXg5dk1lNmRCTWtlNUhaSS1sX2VtMXJDUGNSQnYwVzZJTGNnN09FNVdUV1BkcTEwRU5obFZ5SFd3NjFxbzF5M0NJaUw3eWM0Q2ExTjdZdlIwV3NWVExCLWNmQ1JzaTdOdG5ON0ZBbXdzSXc5R0k?oc=5)
+
+---
+
+### [Exercise, diet or stress? One lifestyle habit stood out in a heart disease study](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRVJVN2R4czdsMlZXb2V1aWJpejRfRDg2UERUd0pXYUFHekJISklrT2xDNmstdXF1QlE4TEdaZUxiY2tkTGxFaUJ3OE03Z1dlZlZ1X21fRWZHeUkxMndIZ29JeTg4Vi1ieWpuOU5ZODhtOTFsSHF4TDhkb2ZrdzV3cFpEbjlZRlpkU2NUWnk5cTNSY19hTURnLWt6cnNwZ3pjVTFGaGFrS0ROaDFWNU1WRmRNNFRjZm05ZEdmbTJkMXBEVkdp?oc=5)
+
+2026-11-09 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRVJVN2R4czdsMlZXb2V1aWJpejRfRDg2UERUd0pXYUFHekJISklrT2xDNmstdXF1QlE4TEdaZUxiY2tkTGxFaUJ3OE03Z1dlZlZ1X21fRWZHeUkxMndIZ29JeTg4Vi1ieWpuOU5ZODhtOTFsSHF4TDhkb2ZrdzV3cFpEbjlZRlpkU2NUWnk5cTNSY19hTURnLWt6cnNwZ3pjVTFGaGFrS0ROaDFWNU1WRmRNNFRjZm05ZEdmbTJkMXBEVkdp?oc=5)
 
 ---
 
@@ -64,14 +88,6 @@ Source: [Healthline](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVRDVD
 
 ---
 
-### [Psoriasis: cómo tratarla y evitar que afecte otras partes del organismo - Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
-
-2026-11-08 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">artritis</span>
-
-Source: [Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
-
----
-
 ### [A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1JjOWhQZ1hGLUJuUW16RkM1WC1ST0hhdlpyd192QWFtWWdmNkE2YUlWOHo0N1FQb1lGSjRwZ1drYjAwaDQ4YVNrMS1EVjZVNzJJd0c0Z1ZXUm5uSWpMdl81Z3cxZzFpTlpiTC04Um9ZdXJNZnFsTDdaLWRmSFhQRy1UcDltMmFhM0d5UU10blZIM2RyX3VYWkhVcmZPZ3REYWRGZTQ2NUVVN1RBWG5UODRROVc?oc=5)
 
 2026-11-07 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
@@ -85,6 +101,14 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1Jj
 2026-11-06 <span class="news-indication-tag">artrite</span>
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+---
+
+### [Switching to potassium-enriched salt could prevent millions of global deaths](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGNUUEZWa0g0QU9EQnRQZXJjOGlsdmNWQWoxeTAxd3BYcC1qZ0hkdXdvczd5Y0dMLTFqWjQ4TVcyUmlLZXowRnh1dHpZdXVhZkV6WUNGYktnZ3V4YVlGY1NUUFR1M2hPNHJ4UmFqZnZRTmRnanpZOWFCWTZNY0NVSkN0dXl5RFJqdjRraFFJdkhGVTViNFJhUDlxaVVqdjM4NEtnWmJGeXlHMklVeTROZnBKYXRWeFY4M0xaSkQwOHZ5Zw?oc=5)
+
+2026-11-04 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGNUUEZWa0g0QU9EQnRQZXJjOGlsdmNWQWoxeTAxd3BYcC1qZ0hkdXdvczd5Y0dMLTFqWjQ4TVcyUmlLZXowRnh1dHpZdXVhZkV6WUNGYktnZ3V4YVlGY1NUUFR1M2hPNHJ4UmFqZnZRTmRnanpZOWFCWTZNY0NVSkN0dXl5RFJqdjRraFFJdkhGVTViNFJhUDlxaVVqdjM4NEtnWmJGeXlHMklVeTROZnBKYXRWeFY4M0xaSkQwOHZ5Zw?oc=5)
 
 ---
 

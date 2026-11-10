@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Tucatinib?">
-<strong>Tucatinib</strong> currently has <strong>70 news articles</strong>, with 0 predicted indications.
+<strong>Tucatinib</strong> currently has <strong>72 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page combines the AI-predicted indications for Tucatinib with the latest he
 <p><a href="{{ '/drugs/tucatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (70)
+## Related News (72)
 
 ### [Vitamin D: Morgens oder abends einnehmen? Das empfiehlt der Arzt - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHNoVVQ4MjhndFhqdjE4cC04czUtcnVhakxLNXNENmdSVFFsS1JXbTJkMHEtX2J4V2hjYkd1WHJkMlF5b3JhLUQ1cENDV2MwOHdDQTZnZEVtSDZBbVlNZy1aYWZhZFJRWjNDNWVWNWlvX08yT2tlUWtaTUZSUm5Ca05HblNJYkJUTE9zWWRZTTVNNnRFTmJncEdtcmdlRDNOa3RibjZLbGZ4aE5hTk03ZTlpb200SjNRZ1JR?oc=5)
 
 2026-11-10 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHNoVVQ4MjhndFhqdjE4cC04czUtcnVhakxLNXNENmdSVFFsS1JXbTJkMHEtX2J4V2hjYkd1WHJkMlF5b3JhLUQ1cENDV2MwOHdDQTZnZEVtSDZBbVlNZy1aYWZhZFJRWjNDNWVWNWlvX08yT2tlUWtaTUZSUm5Ca05HblNJYkJUTE9zWWRZTTVNNnRFTmJncEdtcmdlRDNOa3RibjZLbGZ4aE5hTk03ZTlpb200SjNRZ1JR?oc=5)
+
+---
+
+### [Cardiopatías en perros: las señales de alerta que los veterinarios piden no ignorar](https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ec0JGNlEzVUp6alY1ZkNpZVQyQkVjMkJsRXd4Zy0zejVZNDFJNHd3TUZMZ0hzSldYRnhKTkoyZ2hNXzcwcjJaMmFoQzVPeExNMGl6RWo3Q1Y3a1JuQUc0dlRKYzVabnZDRXVZemxTZW9UbzRk?oc=5)
+
+2026-11-09 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Qué.es](https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ec0JGNlEzVUp6alY1ZkNpZVQyQkVjMkJsRXd4Zy0zejVZNDFJNHd3TUZMZ0hzSldYRnhKTkoyZ2hNXzcwcjJaMmFoQzVPeExNMGl6RWo3Q1Y3a1JuQUc0dlRKYzVabnZDRXVZemxTZW9UbzRk?oc=5)
 
 ---
 
@@ -53,6 +61,14 @@ Source: [n-tv.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTi03em54N
 2026-11-09 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQajVlekRuREF4NFBOcFgtRTBNVGxlRDlzSEVBLUZkLWF3MEo4b3RhM281bXlFak0wRVctS1V2cWMyb2N3bHBPckxKd0RNU1NGcmxGWWJKU3ZWcXNuaVdKejdNUW5pLUJ2S0hmX0g3d2NfTkEzT2wteDhKMWhxX0JCR3ByN3Nmc0hHVnhETjh6Wm5VOGtSSGIwRlI3OVhMc09ZVXdVRFN6VnpTV3Jlc3dEckN6QXZMVEs2MnZiM2xfTQ?oc=5)
+
+---
+
+### [Retatrutide Improves Knee OA Pain, Physical Function](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3p1emJDT0JCUkc1VHNmc2duNnN5bFJmTnpZS0pIYVRVREl5aHA5MlNUUm11UE9lUHR0MDZYaU5OdEVUUGI5M1VWRERoYTktNkFOd3Y1ZGN3OXJjMF9INEJmTGd4a2Z1dWlnMnFzOVRpdXlIbVhMZjBiajM3RThTWjJQQUU1M3VPUTJ1WmRpRXNnVHZZMXZfRXRZelpBdFdQU0ljbUowWmo?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">obesity</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3p1emJDT0JCUkc1VHNmc2duNnN5bFJmTnpZS0pIYVRVREl5aHA5MlNUUm11UE9lUHR0MDZYaU5OdEVUUGI5M1VWRERoYTktNkFOd3Y1ZGN3OXJjMF9INEJmTGd4a2Z1dWlnMnFzOVRpdXlIbVhMZjBiajM3RThTWjJQQUU1M3VPUTJ1WmRpRXNnVHZZMXZfRXRZelpBdFdQU0ljbUowWmo?oc=5)
 
 ---
 
@@ -88,6 +104,14 @@ Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZW
 
 ---
 
+### [Exercise, diet or stress? One lifestyle habit stood out in a heart disease study](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRVJVN2R4czdsMlZXb2V1aWJpejRfRDg2UERUd0pXYUFHekJISklrT2xDNmstdXF1QlE4TEdaZUxiY2tkTGxFaUJ3OE03Z1dlZlZ1X21fRWZHeUkxMndIZ29JeTg4Vi1ieWpuOU5ZODhtOTFsSHF4TDhkb2ZrdzV3cFpEbjlZRlpkU2NUWnk5cTNSY19hTURnLWt6cnNwZ3pjVTFGaGFrS0ROaDFWNU1WRmRNNFRjZm05ZEdmbTJkMXBEVkdp?oc=5)
+
+2026-11-09 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRVJVN2R4czdsMlZXb2V1aWJpejRfRDg2UERUd0pXYUFHekJISklrT2xDNmstdXF1QlE4TEdaZUxiY2tkTGxFaUJ3OE03Z1dlZlZ1X21fRWZHeUkxMndIZ29JeTg4Vi1ieWpuOU5ZODhtOTFsSHF4TDhkb2ZrdzV3cFpEbjlZRlpkU2NUWnk5cTNSY19hTURnLWt6cnNwZ3pjVTFGaGFrS0ROaDFWNU1WRmRNNFRjZm05ZEdmbTJkMXBEVkdp?oc=5)
+
+---
+
 ### [Retatrutide reduces knee pain and body weight in osteoarthritis patients](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
 
 2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">obesity</span>
@@ -117,22 +141,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUy
 2026-11-08 <span class="news-indication-tag">cardiovascular disease</span>
 
 Source: [Healthline](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVRDVDdtU21oRGZrQ01Zb3FBX1ZGSm5RZTlQVGZ3Si01NTlXbjhPMFVjMW5GTzZrV2RuMnVPMlVFc3I2M2tnVy02c3d3NGk2TmNJMTloemJTclhDdVAwRjBJcmVVTm1HRjdtbERneWlhQ1hBNEFuSGo2eGRPOXJuRzZGNGFEbHQ5WGMzVkZOcWd6cElrS0VWWjh6bWc1dVk?oc=5)
-
----
-
-### [Changer de sel pourrait éviter près de trois millions de morts par an - Journal du Geek](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3E5aEtrN0xBTFRKS3pPSzZpV3RaTXpwVWFLa0RkWHpUMFI5V21qQm1zdTE2ZHdsMXF0RkVSZVFxTnhoWWM1WUFNN01ucnlHeHpTbW5HSmtfemR4VlQ4S3Q2eDJSMklJZ0U2cC03MmxubGRDY212QXFDblJnaUpPd2p4a1VoVWpmOUo1OVNMQWNPSU9YZlY3LVBUc0wxQjlmR2xGb1lDS1ZoUHRtYmFPcg?oc=5)
-
-2026-11-08 <span class="news-indication-tag">hypertension</span>
-
-Source: [Journal du Geek](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3E5aEtrN0xBTFRKS3pPSzZpV3RaTXpwVWFLa0RkWHpUMFI5V21qQm1zdTE2ZHdsMXF0RkVSZVFxTnhoWWM1WUFNN01ucnlHeHpTbW5HSmtfemR4VlQ4S3Q2eDJSMklJZ0U2cC03MmxubGRDY212QXFDblJnaUpPd2p4a1VoVWpmOUo1OVNMQWNPSU9YZlY3LVBUc0wxQjlmR2xGb1lDS1ZoUHRtYmFPcg?oc=5)
-
----
-
-### [Psoriasis: cómo tratarla y evitar que afecte otras partes del organismo - Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
-
-2026-11-08 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">artritis</span>
-
-Source: [Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 
 ---
 
@@ -277,6 +285,14 @@ Source: [El Economista](https://news.google.com/rss/articles/CBMixAJBVV95cUxQSUR
 2026-11-04 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
+
+---
+
+### [Switching to potassium-enriched salt could prevent millions of global deaths](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGNUUEZWa0g0QU9EQnRQZXJjOGlsdmNWQWoxeTAxd3BYcC1qZ0hkdXdvczd5Y0dMLTFqWjQ4TVcyUmlLZXowRnh1dHpZdXVhZkV6WUNGYktnZ3V4YVlGY1NUUFR1M2hPNHJ4UmFqZnZRTmRnanpZOWFCWTZNY0NVSkN0dXl5RFJqdjRraFFJdkhGVTViNFJhUDlxaVVqdjM4NEtnWmJGeXlHMklVeTROZnBKYXRWeFY4M0xaSkQwOHZ5Zw?oc=5)
+
+2026-11-04 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGNUUEZWa0g0QU9EQnRQZXJjOGlsdmNWQWoxeTAxd3BYcC1qZ0hkdXdvczd5Y0dMLTFqWjQ4TVcyUmlLZXowRnh1dHpZdXVhZkV6WUNGYktnZ3V4YVlGY1NUUFR1M2hPNHJ4UmFqZnZRTmRnanpZOWFCWTZNY0NVSkN0dXl5RFJqdjRraFFJdkhGVTViNFJhUDlxaVVqdjM4NEtnWmJGeXlHMklVeTROZnBKYXRWeFY4M0xaSkQwOHZ5Zw?oc=5)
 
 ---
 

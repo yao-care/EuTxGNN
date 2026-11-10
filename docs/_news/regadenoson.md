@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Regadenoson. 4 predicted indications."
 permalink: /news/regadenoson/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-10
 ---
 
 # Regadenoson News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Regadenoson?">
-<strong>Regadenoson</strong> currently has <strong>4 news articles</strong>, with 4 predicted indications.
+<strong>Regadenoson</strong> currently has <strong>5 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Regadenoson with the latest 
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Mum, 40, woke up having a stroke after GP told her to ‘call back in the morning’ for asthma-like symptoms - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
+
+2026-11-10 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
+
+---
 
 ### [Emicrania, un freno al dolore stimolando il nervo vago: che cosa dicono gli studi e quali cure sono disponibili](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYndHQV9jNnVrSmNjc2M1eVVUWE5FTkxvZlJ5a2JVM1dvbjNFTGJGamt5Z1BPVlVMUmtEeWRucDg0WGRQZVo3dGFUbkNBdG1hdXc1d1N4elhxcC1oR1hZV0QyRUE5eEtyLWQtV0t5bkQwR3pQODVpODNOcXZDbXhKd0lhM19DRXVYaW9wM2dzanpsSkhRWldLVkdtSHN2V0VVMVdacXJaVGFMN0QxbHNkOHNyQUVodFdTOWhydmd3T01QRDl1d1h0UENjb3pfMDFWbnZ3NGNmaG5hYXZ1djNCYnRYTWU0MlpMQUdYSlVEZElWQQ?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Zonisamide?">
-<strong>Zonisamide</strong> currently has <strong>24 news articles</strong>, with 9 predicted indications.
+<strong>Zonisamide</strong> currently has <strong>29 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Zonisamide with the latest h
 <p><a href="{{ '/drugs/zonisamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (24)
+## Related News (29)
+
+### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
+
+2026-11-10 <span class="news-indication-tag">atrial fibrillation</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
+
+---
+
+### [Vorhofflimmern: Warum Frühwarnzeichen fehlen und welche Schritte jetzt zählen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU40MS1YbU9LV2gxUkppSksybjFFanpiMlRGci1hNGk1Sk5sdlY4YlNPNjBDbkpCTnZZTGFTakNvVHdTckZmRUh2NEdydy1uM002OHhSVzRXTGE3aUJsRURxUHd4Qk5tWXRhZVJTUnFJeTlub2M2NndYRW5UUlAwZC15UGJkYm1jcEdtU2FxTlB4enJSR29idml1S3YwVnY2aFpWSFQ2M2FpemZEdEYw?oc=5)
+
+2026-11-10 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU40MS1YbU9LV2gxUkppSksybjFFanpiMlRGci1hNGk1Sk5sdlY4YlNPNjBDbkpCTnZZTGFTakNvVHdTckZmRUh2NEdydy1uM002OHhSVzRXTGE3aUJsRURxUHd4Qk5tWXRhZVJTUnFJeTlub2M2NndYRW5UUlAwZC15UGJkYm1jcEdtU2FxTlB4enJSR29idml1S3YwVnY2aFpWSFQ2M2FpemZEdEYw?oc=5)
+
+---
 
 ### [Vorhofflimmern: Bis zu 50 Prozent der Betroffenen spüren kaum Symptome](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRldCaWdMQnh6MkdmejhGSWtmNmFMNVhVMFhkV1RyY1lwUzFNRTBTNkp0WFY5b3JuLWo0Uk5QakwxcUUxdTZWLVJDbEVjS0g1UWtyTjVhY1dPQXN5bVRUd1RmNzA1aDZ4UHg3aGI0aHNoeHJQZFc1a0MzNmJwOGpzRmhDbFB5UFJBMXFzU0o5bHBwWV95YWxrTkFkOTYycGpCVXZ3aVlzTjNMZENKMkVMVDVtLWxIQVFWZjdZ?oc=5)
 
@@ -59,6 +75,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUcza
 
 ---
 
+### [Cardiopatías en perros: las señales de alerta que los veterinarios piden no ignorar](https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ec0JGNlEzVUp6alY1ZkNpZVQyQkVjMkJsRXd4Zy0zejVZNDFJNHd3TUZMZ0hzSldYRnhKTkoyZ2hNXzcwcjJaMmFoQzVPeExNMGl6RWo3Q1Y3a1JuQUc0dlRKYzVabnZDRXVZemxTZW9UbzRk?oc=5)
+
+2026-11-09 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Qué.es](https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ec0JGNlEzVUp6alY1ZkNpZVQyQkVjMkJsRXd4Zy0zejVZNDFJNHd3TUZMZ0hzSldYRnhKTkoyZ2hNXzcwcjJaMmFoQzVPeExNMGl6RWo3Q1Y3a1JuQUc0dlRKYzVabnZDRXVZemxTZW9UbzRk?oc=5)
+
+---
+
 ### [Enfermedades cardíacas en perros: Veterinarios explican los síntomas de alerta y las patologías más frecuentes](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1hUUm9YaXBDR1E0SzBhdUFtZHdieDZWbmVpTU84NGg3UlkwVlVJNUd1LV9lWFpOb1YwdmE3bkdKRDRpSVRmNjNfSmRGWUpPd0ZBUVdVRlg5blRTWlRGS1g1cktQVkZ0Q29tb1NObHlOQWJuZU8wVEU0d01lV3NBbk9CSTF3eUFjVmcwcEdPSEVvd0tqS3MtUGlCOVBxQUhRNDhRbmVIU2VhOWZLb1NQWUJDTHgtSzA5cFNGRW5fUld1cjVjYVHSAcsBQVVfeXFMTjdBQjFRb196dTVETlRvbnhmSTI5eDdnQlhRZTI1R09fNzhieDV2bUJwT1h3ZHJzTmhtUWhGMzN1a2dPcGktT0VMcDNjMG10SGxoSWVoamUzTDdodG03UDd3YXBIRzhVX2h2cXFxRUNvWTROVWRNMkhHeHQ1dHVkaDhEMlc0WW5ydk1zenhMbHFjWHJmeVBZaWJjVHNDcGoxZjVmTHhXdlN0bjBHRDg0eGpBdHBXT3JxMjZ2VnhIS18weVo2OTlvTXhDQTQ?oc=5)
 
 2026-11-09 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">obesidad</span>
@@ -72,6 +96,14 @@ Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxP
 2026-11-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZFhsTjNrUXg5dk1lNmRCTWtlNUhaSS1sX2VtMXJDUGNSQnYwVzZJTGNnN09FNVdUV1BkcTEwRU5obFZ5SFd3NjFxbzF5M0NJaUw3eWM0Q2ExTjdZdlIwV3NWVExCLWNmQ1JzaTdOdG5ON0ZBbXdzSXc5R0k?oc=5)
+
+---
+
+### [Exercise, diet or stress? One lifestyle habit stood out in a heart disease study](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRVJVN2R4czdsMlZXb2V1aWJpejRfRDg2UERUd0pXYUFHekJISklrT2xDNmstdXF1QlE4TEdaZUxiY2tkTGxFaUJ3OE03Z1dlZlZ1X21fRWZHeUkxMndIZ29JeTg4Vi1ieWpuOU5ZODhtOTFsSHF4TDhkb2ZrdzV3cFpEbjlZRlpkU2NUWnk5cTNSY19hTURnLWt6cnNwZ3pjVTFGaGFrS0ROaDFWNU1WRmRNNFRjZm05ZEdmbTJkMXBEVkdp?oc=5)
+
+2026-11-09 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRVJVN2R4czdsMlZXb2V1aWJpejRfRDg2UERUd0pXYUFHekJISklrT2xDNmstdXF1QlE4TEdaZUxiY2tkTGxFaUJ3OE03Z1dlZlZ1X21fRWZHeUkxMndIZ29JeTg4Vi1ieWpuOU5ZODhtOTFsSHF4TDhkb2ZrdzV3cFpEbjlZRlpkU2NUWnk5cTNSY19hTURnLWt6cnNwZ3pjVTFGaGFrS0ROaDFWNU1WRmRNNFRjZm05ZEdmbTJkMXBEVkdp?oc=5)
 
 ---
 
@@ -112,6 +144,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmRjZ1g3
 2026-11-05 <span class="news-indication-tag">epilepsy</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xdVprV3pDSFNwNHNPV2RYVHJmRTFfck1kYm9kcTdaa2FaZ0FzUllMb0ZCMlppLVFIVEk1QnhaZGdBeWEzamw1aEQ0MUo1X3FBYmtCOFRGOVA5S0F2aE9N?oc=5)
+
+---
+
+### [Switching to potassium-enriched salt could prevent millions of global deaths](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGNUUEZWa0g0QU9EQnRQZXJjOGlsdmNWQWoxeTAxd3BYcC1qZ0hkdXdvczd5Y0dMLTFqWjQ4TVcyUmlLZXowRnh1dHpZdXVhZkV6WUNGYktnZ3V4YVlGY1NUUFR1M2hPNHJ4UmFqZnZRTmRnanpZOWFCWTZNY0NVSkN0dXl5RFJqdjRraFFJdkhGVTViNFJhUDlxaVVqdjM4NEtnWmJGeXlHMklVeTROZnBKYXRWeFY4M0xaSkQwOHZ5Zw?oc=5)
+
+2026-11-04 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGNUUEZWa0g0QU9EQnRQZXJjOGlsdmNWQWoxeTAxd3BYcC1qZ0hkdXdvczd5Y0dMLTFqWjQ4TVcyUmlLZXowRnh1dHpZdXVhZkV6WUNGYktnZ3V4YVlGY1NUUFR1M2hPNHJ4UmFqZnZRTmRnanpZOWFCWTZNY0NVSkN0dXl5RFJqdjRraFFJdkhGVTViNFJhUDlxaVVqdjM4NEtnWmJGeXlHMklVeTROZnBKYXRWeFY4M0xaSkQwOHZ5Zw?oc=5)
 
 ---
 

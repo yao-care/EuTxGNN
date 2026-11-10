@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>94 news articles</strong>, with 4 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>100 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,53 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (94)
+## Related News (100)
+
+### [I’m a GP and ignored diabetes warning signs for 10 years until a nifty gadget revealed my ‘danger’ food - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMWF0cmpXa0ZUZkhFcDJUSEprTHVnbXVZc3hIaDZSZFpzUlAwVi1NbVlTNGVnckwxZDZsS1FUdF8wWFBTUnl2cHBUOU1qRnhTVkk0ZXp5LUgtQUV3MXZqZE1hQjlmN1o3M0V6OEo4Q1FxeHI4VTJOVGdEUERfeXdhVVBIVHJQRWUwbVpKcmdsZHVmRFRsYlF4bzRiUQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetes</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMWF0cmpXa0ZUZkhFcDJUSEprTHVnbXVZc3hIaDZSZFpzUlAwVi1NbVlTNGVnckwxZDZsS1FUdF8wWFBTUnl2cHBUOU1qRnhTVkk0ZXp5LUgtQUV3MXZqZE1hQjlmN1o3M0V6OEo4Q1FxeHI4VTJOVGdEUERfeXdhVVBIVHJQRWUwbVpKcmdsZHVmRFRsYlF4bzRiUQ?oc=5)
+
+---
+
+### [La marea azul por la diabetes será el domingo 22 de noviembre - Cadena SER](https://news.google.com/rss/articles/CBMixgFBVV95cUxOa2hJT3NBbWFZX3ZMRGc3QUROa3ZkUlMtbU1vcGZhb0RxaEh2Z1hsNnByRHh5eERad1MxWlUxSjBHMTZlYWl2ZWRYMDhqcGNscVFhOVBwSDVDZHY1d3duajIzX0prWGlwSFZOMFBQRTZ6YUczMjhUbF9uWTBZYnNxU0plUVdPSWRtbVBhTVRrWHhxSi1xNlhGMnRES0dLN3FmaUJJMENOVUc1WDBFZEVGd2QtSDZrampLYXQ1aG8xa1VFcVI1YVHSAdoBQVVfeXFMTU00MzJxcHNvNXhVVHRFMlZISVJJUllYSlJRMnhNaTVaVF9VZFNJQXFHNG1TYU9IbG5hU3YzaTVUbkpEOWwxZjhTamJPbXZsb1ZFdmM2d0tlM014cnUxaVV3cjBuR2h1eVVwWGZRVjdVaDJQZGMwMU5NNVhaYlFqVUlkU2lURlZaZFh3TGFrS0YwS0RveXhTX3E1YWM5MTFENEFrVkpCazBRdkw4WFlKazNfOHFRRnZYWG5XaVZQaG9tY1pSckdSWnFPN2JjZTVNckp4OEhRNjNodlE?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetes</span>
+
+Source: [Cadena SER](https://news.google.com/rss/articles/CBMixgFBVV95cUxOa2hJT3NBbWFZX3ZMRGc3QUROa3ZkUlMtbU1vcGZhb0RxaEh2Z1hsNnByRHh5eERad1MxWlUxSjBHMTZlYWl2ZWRYMDhqcGNscVFhOVBwSDVDZHY1d3duajIzX0prWGlwSFZOMFBQRTZ6YUczMjhUbF9uWTBZYnNxU0plUVdPSWRtbVBhTVRrWHhxSi1xNlhGMnRES0dLN3FmaUJJMENOVUc1WDBFZEVGd2QtSDZrampLYXQ1aG8xa1VFcVI1YVHSAdoBQVVfeXFMTU00MzJxcHNvNXhVVHRFMlZISVJJUllYSlJRMnhNaTVaVF9VZFNJQXFHNG1TYU9IbG5hU3YzaTVUbkpEOWwxZjhTamJPbXZsb1ZFdmM2d0tlM014cnUxaVV3cjBuR2h1eVVwWGZRVjdVaDJQZGMwMU5NNVhaYlFqVUlkU2lURlZaZFh3TGFrS0YwS0RveXhTX3E1YWM5MTFENEFrVkpCazBRdkw4WFlKazNfOHFRRnZYWG5XaVZQaG9tY1pSckdSWnFPN2JjZTVNckp4OEhRNjNodlE?oc=5)
+
+---
+
+### [El CODES recuerda la importancia de tratar las encías para controlar la diabetes - Gaceta Dental](https://news.google.com/rss/articles/CBMitAFBVV95cUxPczZfcER2UVUxaHB6NTdmXzhIZDM0NkdhSFVndElidDdzX1REN1NVUHZIRkpsSlRaaVhkeDBhRjRxSkxacnFTTE9tdGdWS3BnSVFscXBOMDhYSG0tVkkyY1dMOWdLWFBBVW40TXBzTkJNa2xuOEQwOEpGTi1TUTFjRUphdi1VeTY4NVVoNmhWdUdXTnJobEtrbXdsZ1RTS1JsNVdhNHU2OUdORU5neUdTdm4zeS0?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetes</span>
+
+Source: [Gaceta Dental](https://news.google.com/rss/articles/CBMitAFBVV95cUxPczZfcER2UVUxaHB6NTdmXzhIZDM0NkdhSFVndElidDdzX1REN1NVUHZIRkpsSlRaaVhkeDBhRjRxSkxacnFTTE9tdGdWS3BnSVFscXBOMDhYSG0tVkkyY1dMOWdLWFBBVW40TXBzTkJNa2xuOEQwOEpGTi1TUTFjRUphdi1VeTY4NVVoNmhWdUdXTnJobEtrbXdsZ1RTS1JsNVdhNHU2OUdORU5neUdTdm4zeS0?oc=5)
+
+---
+
+### [El sector sanitario de Calatayud elabora material de apoyo sobre la diabetes para los profesionales de Atención Primaria - Eco de Zaragoza](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdG5aZGVSNS16ZWJXcEJHRTdlN2U5eENSOGNCcU1SMXUzWXdHbWV0ajQwZFdpSUJQWERmcmZtQnpDMk9oLTlsT3FwTW5wRHYxRk03aXFJQXdReUF4MHlrN2tWbjVVUGt4QzlhcUNSanFBM2JXSlh1ODZLOE5EMFFLZFQtVjBFbFZGVjA5RlZjOTNUUGl5bEZYeTZpb09EMEo3bHU0RkU3a2dPZEtWUHlNZnVkOXItZGtMMlFBLWJQSFowTXQzUEFBQ0JXam9MaUZPV2djLTV6OS1KNjVEcHZv?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetes</span>
+
+Source: [Eco de Zaragoza](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdG5aZGVSNS16ZWJXcEJHRTdlN2U5eENSOGNCcU1SMXUzWXdHbWV0ajQwZFdpSUJQWERmcmZtQnpDMk9oLTlsT3FwTW5wRHYxRk03aXFJQXdReUF4MHlrN2tWbjVVUGt4QzlhcUNSanFBM2JXSlh1ODZLOE5EMFFLZFQtVjBFbFZGVjA5RlZjOTNUUGl5bEZYeTZpb09EMEo3bHU0RkU3a2dPZEtWUHlNZnVkOXItZGtMMlFBLWJQSFowTXQzUEFBQ0JXam9MaUZPV2djLTV6OS1KNjVEcHZv?oc=5)
+
+---
 
 ### [Elda presenta el programa del Día Internacional de la Diabetes con concienciación, ejercicio e innovación médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxPTUxJNmdEV3lzUTF5alJiRVlneFByS3Yxbk5IZTVPU1R2NnNYVXpoSzJMdGZSLXVGZDh0cXNTRW1Xb0NFMWVhVFZWVUVhcmpuX3lyUVFzcTJycUZLeDNVUGRVVFBQd3Q0aTNWNHFMNDdSZ2xsRFJqRnlGMEk0ZnFUVUtrUnk1N2c5NkVtV3lBd1BNeDZnUHBQX0lQMzBKZzZGMktVRTV5bUZlZnZpOFJmbmZLbHp3dlZKWS1lQ2o3OEUxWUlVNmM0?oc=5)
 
 2026-11-10 <span class="news-indication-tag">diabetes</span>
 
 Source: [elperiodic.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxPTUxJNmdEV3lzUTF5alJiRVlneFByS3Yxbk5IZTVPU1R2NnNYVXpoSzJMdGZSLXVGZDh0cXNTRW1Xb0NFMWVhVFZWVUVhcmpuX3lyUVFzcTJycUZLeDNVUGRVVFBQd3Q0aTNWNHFMNDdSZ2xsRFJqRnlGMEk0ZnFUVUtrUnk1N2c5NkVtV3lBd1BNeDZnUHBQX0lQMzBKZzZGMktVRTV5bUZlZnZpOFJmbmZLbHp3dlZKWS1lQ2o3OEUxWUlVNmM0?oc=5)
+
+---
+
+### [Diecinueve farmacias de Álava ofrecerán pruebas para evaluar el riesgo de desarrollar diabetes tipo 2 - IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXF5WkgwczJYbzhXa2V2b2tBeXE5WGg3SEVJbV9XbEo5M0ROZVcyZ3JVSjh5Q2NDdWdFN2dpVkxINVBVZzF1MlJnTmxXZ1VobGFXUU05dzB6dmg4OHBfWEw2ejdWSlR6QzUwUmdhTTUzVGY0dnZQR0Z6bk4tQzl3VTBiakl4UDVLd1JmOWZWV2N2MU1rRWY5QTVGZ2xJc2dHeXJLRllBLUFwVFNKYjdUUHlIbk3SAa8BQVVfeXFMTjNzeEx6OVZ2aE8tcExKMTg1OUhESGw3aEpHTG5ZNU5ialdJTng0Y3p5elI0eDhsWjNSTnN6Q0M2MWpsM1JxdW0yRGJhSnlqUGZlNFhYWnd5VUJEcUxLN1p1RmtSOUptblU1enBLVjFhWGZTaU5pR0xDWWJodmg2UnNIc2JXM0cxUy1teVJMMlpVaFgtRHZYTFhvdm9acnRuS2VYaFQxdVpqVldiNTdGbw?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetes</span>
+
+Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXF5WkgwczJYbzhXa2V2b2tBeXE5WGg3SEVJbV9XbEo5M0ROZVcyZ3JVSjh5Q2NDdWdFN2dpVkxINVBVZzF1MlJnTmxXZ1VobGFXUU05dzB6dmg4OHBfWEw2ejdWSlR6QzUwUmdhTTUzVGY0dnZQR0Z6bk4tQzl3VTBiakl4UDVLd1JmOWZWV2N2MU1rRWY5QTVGZ2xJc2dHeXJLRllBLUFwVFNKYjdUUHlIbk3SAa8BQVVfeXFMTjNzeEx6OVZ2aE8tcExKMTg1OUhESGw3aEpHTG5ZNU5ialdJTng0Y3p5elI0eDhsWjNSTnN6Q0M2MWpsM1JxdW0yRGJhSnlqUGZlNFhYWnd5VUJEcUxLN1p1RmtSOUptblU1enBLVjFhWGZTaU5pR0xDWWJodmg2UnNIc2JXM0cxUy1teVJMMlpVaFgtRHZYTFhvdm9acnRuS2VYaFQxdVpqVldiNTdGbw?oc=5)
 
 ---
 
@@ -62,6 +102,14 @@ Source: [Cartagena Actualidad](https://news.google.com/rss/articles/CBMi_gFBVV95
 
 ---
 
+### [Una ventana azul para acercarse a la diabetes desde las personas en Ponferrada - La Nueva Crónica](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2liM0UzWWxJNVhjeWU1S255Y185OF9qSGlhWUV5T1I4UkVWMTVnUExqbmxVWDZtUFlsSUI5aGtkX3hWXzJzVVFmS1BramFQZlRTMjJPSFRkcTlmcGpzOW01bGhsSWdPRGtuYW5zenJ1NmlOcmFPZzNua050UzBTeUEyazlLVktHaXE1QWswd2JvdU5IcFB1VUtSX0Z0OXdxZkIwYmZLbUVxdUxpX3JLUg?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetes</span>
+
+Source: [La Nueva Crónica](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2liM0UzWWxJNVhjeWU1S255Y185OF9qSGlhWUV5T1I4UkVWMTVnUExqbmxVWDZtUFlsSUI5aGtkX3hWXzJzVVFmS1BramFQZlRTMjJPSFRkcTlmcGpzOW01bGhsSWdPRGtuYW5zenJ1NmlOcmFPZzNua050UzBTeUEyazlLVktHaXE1QWswd2JvdU5IcFB1VUtSX0Z0OXdxZkIwYmZLbUVxdUxpX3JLUg?oc=5)
+
+---
+
 ### [El sector sanitario de Calatayud elabora material de apoyo sobre la diabetes para los profesionales de Atención Primaria - dukvi tv](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeTVOUm5UQ0daNWRCSGtpSllCVTQwVVk2Q0xGQWRJVGU5bVhuNUE2aXhDWnFGWnNJLVhWVWdGZ0RRcHpsQkk2bW5lMjBXY2xiZUlsWTBKSGQ3S0I1TkJ2ZGYyS1d2N2VhU1A4aE1FRHhKZWNkcERkN3Y5VnpsTUJINjcxZWJRYnpncW9mb0RnRktjdk9Gd1dkMXVSX0t3OUs3ZUxidnQtcWhsNmVHajVTRG5EUVZQaGdzN3lMbGtMNkhkUmlpOTg3WGJtYVVZVUpyMXNlMzRBcFZnSTJIVHVMeE5qQQ?oc=5)
 
 2026-11-10 <span class="news-indication-tag">diabetes</span>
@@ -72,7 +120,7 @@ Source: [dukvi tv](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeTVOUm5U
 
 ### [Stopping weight loss drugs doubles diabetics’ heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 
-2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span>
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 

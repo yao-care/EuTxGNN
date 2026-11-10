@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Voriconazole?">
-<strong>Voriconazole</strong> currently has <strong>7 news articles</strong>, with 0 predicted indications.
+<strong>Voriconazole</strong> currently has <strong>9 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Voriconazole with the latest
 <p><a href="{{ '/drugs/voriconazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (9)
+
+### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
+
+2026-11-10 <span class="news-indication-tag">atrial fibrillation</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
+
+---
+
+### [Vorhofflimmern: Warum Frühwarnzeichen fehlen und welche Schritte jetzt zählen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU40MS1YbU9LV2gxUkppSksybjFFanpiMlRGci1hNGk1Sk5sdlY4YlNPNjBDbkpCTnZZTGFTakNvVHdTckZmRUh2NEdydy1uM002OHhSVzRXTGE3aUJsRURxUHd4Qk5tWXRhZVJTUnFJeTlub2M2NndYRW5UUlAwZC15UGJkYm1jcEdtU2FxTlB4enJSR29idml1S3YwVnY2aFpWSFQ2M2FpemZEdEYw?oc=5)
+
+2026-11-10 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU40MS1YbU9LV2gxUkppSksybjFFanpiMlRGci1hNGk1Sk5sdlY4YlNPNjBDbkpCTnZZTGFTakNvVHdTckZmRUh2NEdydy1uM002OHhSVzRXTGE3aUJsRURxUHd4Qk5tWXRhZVJTUnFJeTlub2M2NndYRW5UUlAwZC15UGJkYm1jcEdtU2FxTlB4enJSR29idml1S3YwVnY2aFpWSFQ2M2FpemZEdEYw?oc=5)
+
+---
 
 ### [Vorhofflimmern: Bis zu 50 Prozent der Betroffenen spüren kaum Symptome](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRldCaWdMQnh6MkdmejhGSWtmNmFMNVhVMFhkV1RyY1lwUzFNRTBTNkp0WFY5b3JuLWo0Uk5QakwxcUUxdTZWLVJDbEVjS0g1UWtyTjVhY1dPQXN5bVRUd1RmNzA1aDZ4UHg3aGI0aHNoeHJQZFc1a0MzNmJwOGpzRmhDbFB5UFJBMXFzU0o5bHBwWV95YWxrTkFkOTYycGpCVXZ3aVlzTjNMZENKMkVMVDVtLWxIQVFWZjdZ?oc=5)
 

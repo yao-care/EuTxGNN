@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>74 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>80 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,47 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (74)
+## Related News (80)
+
+### [El peligro de infarto e ictus por no tener una rutina de sueño - La Crónica de Salamanca](https://news.google.com/rss/articles/CBMikgFBVV95cUxNOU9nUG1NSkdwSEhEU1FzYWlzdXBEX3BvRmE2MXlzbzJFZ1p4YjUzU3JzNnZZaG1tRTF6UDZBOVNTbDVFVEpkUFZTaXh0QzVYb2JFX2dPajd3c1R4OE9uenFNMFBoMDFPeEZETDhRdTcxaHZySm04bkJfanlPeGd0X1NockVXNmNOZVJINjNWU1dCQQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">ictus</span>
+
+Source: [La Crónica de Salamanca](https://news.google.com/rss/articles/CBMikgFBVV95cUxNOU9nUG1NSkdwSEhEU1FzYWlzdXBEX3BvRmE2MXlzbzJFZ1p4YjUzU3JzNnZZaG1tRTF6UDZBOVNTbDVFVEpkUFZTaXh0QzVYb2JFX2dPajd3c1R4OE9uenFNMFBoMDFPeEZETDhRdTcxaHZySm04bkJfanlPeGd0X1NockVXNmNOZVJINjNWU1dCQQ?oc=5)
+
+---
+
+### [Mum, 40, woke up having a stroke after GP told her to ‘call back in the morning’ for asthma-like symptoms - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
+
+2026-11-10 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
+
+---
+
+### [Stopping weight loss drugs doubles diabetics’ heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
+
+---
+
+### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
+
+2026-11-10 <span class="news-indication-tag">atrial fibrillation</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
+
+---
+
+### [Vorhofflimmern: Warum Frühwarnzeichen fehlen und welche Schritte jetzt zählen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU40MS1YbU9LV2gxUkppSksybjFFanpiMlRGci1hNGk1Sk5sdlY4YlNPNjBDbkpCTnZZTGFTakNvVHdTckZmRUh2NEdydy1uM002OHhSVzRXTGE3aUJsRURxUHd4Qk5tWXRhZVJTUnFJeTlub2M2NndYRW5UUlAwZC15UGJkYm1jcEdtU2FxTlB4enJSR29idml1S3YwVnY2aFpWSFQ2M2FpemZEdEYw?oc=5)
+
+2026-11-10 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU40MS1YbU9LV2gxUkppSksybjFFanpiMlRGci1hNGk1Sk5sdlY4YlNPNjBDbkpCTnZZTGFTakNvVHdTckZmRUh2NEdydy1uM002OHhSVzRXTGE3aUJsRURxUHd4Qk5tWXRhZVJTUnFJeTlub2M2NndYRW5UUlAwZC15UGJkYm1jcEdtU2FxTlB4enJSR29idml1S3YwVnY2aFpWSFQ2M2FpemZEdEYw?oc=5)
+
+---
 
 ### [Vorhofflimmern: Bis zu 50 Prozent der Betroffenen spüren kaum Symptome](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRldCaWdMQnh6MkdmejhGSWtmNmFMNVhVMFhkV1RyY1lwUzFNRTBTNkp0WFY5b3JuLWo0Uk5QakwxcUUxdTZWLVJDbEVjS0g1UWtyTjVhY1dPQXN5bVRUd1RmNzA1aDZ4UHg3aGI0aHNoeHJQZFc1a0MzNmJwOGpzRmhDbFB5UFJBMXFzU0o5bHBwWV95YWxrTkFkOTYycGpCVXZ3aVlzTjNMZENKMkVMVDVtLWxIQVFWZjdZ?oc=5)
 
@@ -59,19 +99,19 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUcza
 
 ---
 
+### [The deadly morning hour when your stroke risk suddenly spikes - The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVNMYS1OS3FiaC1VUlRCTFFCSXJQaHVIa3A5WDc2QUF1V0J6RHhDUzk4VUZMeTQ0THpKS0NWUzFvQjZ4OHlPNmFVOWZxSTNQMHJEUHczb1p4Sml0dXdhaTdGVnRRSlp3MThtU21ZZDFQMUYxLWZPV3dGcG1wOVRyUmV4cjBycHQ4cUEwTk1QQzRtN3hKZTNj?oc=5)
+
+2026-11-09 <span class="news-indication-tag">stroke</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVNMYS1OS3FiaC1VUlRCTFFCSXJQaHVIa3A5WDc2QUF1V0J6RHhDUzk4VUZMeTQ0THpKS0NWUzFvQjZ4OHlPNmFVOWZxSTNQMHJEUHczb1p4Sml0dXdhaTdGVnRRSlp3MThtU21ZZDFQMUYxLWZPV3dGcG1wOVRyUmV4cjBycHQ4cUEwTk1QQzRtN3hKZTNj?oc=5)
+
+---
+
 ### [Unregelmäßiger Schlaf könnte dem Herzen schaden](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGxNS2JnWTZVM3B5RGpGTHlubklIaHNMTHFzRWc5bHZzbEd5Uk9lZkxocThQWWkzV3c5QlhlaXJTN2ItZFZXcTJwczZrTzZpR0xMTUN0NGUtYU0yMThlTEhSbTFqV0hZNWJsNXpRb2V4d2R1d3VtM0g1MDdUTUhkTVNDWVRHZWNjdW95all6VQ?oc=5)
 
 2026-11-09 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGxNS2JnWTZVM3B5RGpGTHlubklIaHNMTHFzRWc5bHZzbEd5Uk9lZkxocThQWWkzV3c5QlhlaXJTN2ItZFZXcTJwczZrTzZpR0xMTUN0NGUtYU0yMThlTEhSbTFqV0hZNWJsNXpRb2V4d2R1d3VtM0g1MDdUTUhkTVNDWVRHZWNjdW95all6VQ?oc=5)
-
----
-
-### [Mantener un horario regular de sueño ayuda a proteger la salud del corazón](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
-
-2026-11-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">ictus</span>
-
-Source: [ConSalud](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
 
 ---
 
@@ -88,6 +128,14 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZF
 2026-11-09 <span class="news-indication-tag">AVC</span>
 
 Source: [Radio Intensité](https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNnl1QXdHdkNBQ19ZWXBheU9CVmVHaUpXeEdGYnNHMEhEN2dYcXZSSGJGczM3c25tMGIwcS1KQXp3VXFxeFdzbkY3UTZtd256STRhZmtKUDFKVmlFYUoxeW5wVnNBemJxYXdTbmJxYzJVRlpCWUVqeTN2WVFMQQ?oc=5)
+
+---
+
+### [David Cameron calls for end to NHS block on Alzheimer’s drugs - The Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3BUSzhBcTZjT0N2djd5WHFRV2R5emR0czE2b3FrdWxQdThNX08xUVdpM0xnbE9JdWVtdUltQVdTQ3hfMjJoSW1waDBlRlp3WHJSZVJaSHFzejJXLUFubnA2WEVfUXV0YUU0bjVDVnQ5TDZHZ2VFeTJLVTh4XzJUTGdBcW5VeXdfNDB1SDVGbEQ5Zk5ZT3pJbVUtUjloQ0ptRnRmRGM0T2g3Y3hPYlJQQWQ1dEtib2RS?oc=5)
+
+2026-11-09 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3BUSzhBcTZjT0N2djd5WHFRV2R5emR0czE2b3FrdWxQdThNX08xUVdpM0xnbE9JdWVtdUltQVdTQ3hfMjJoSW1waDBlRlp3WHJSZVJaSHFzejJXLUFubnA2WEVfUXV0YUU0bjVDVnQ5TDZHZ2VFeTJLVTh4XzJUTGdBcW5VeXdfNDB1SDVGbEQ5Zk5ZT3pJbVUtUjloQ0ptRnRmRGM0T2g3Y3hPYlJQQWQ1dEtib2RS?oc=5)
 
 ---
 

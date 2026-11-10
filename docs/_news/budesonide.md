@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Budesonide?">
-<strong>Budesonide</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
+<strong>Budesonide</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ This page combines the AI-predicted indications for Budesonide with the latest h
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (11)
+
+### [RSV ist keine leichte Erkältung - Experte über Imfpung für Säuglinge](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYnlxVnVPaktWRnk2VXpNVkhKUDYxdW5vQ2NvM3pTal9RZHB1UlB4OHJDbkc2YVZwcTZFYlNmUEhvenJiaXZ5RmFpb2pHMkZqUGJFbzJ5b2NQNFdVUFBlWTlmeWJzY29GVWJnSFo3ZTVUZHg5Y09aOTlET011T083RmZxVHBNd3lxcGUxd3FhbXBEanMwU3Z5aFVUZFhaSGx4VTJmRnJkWG9DXzhLcHlPUzUxbGhSNTlQT21jOFRVb2lsRGdLSEZvR0htZDhFcDF5UXNXTGxCd1Eza1BraGc?oc=5)
+
+2026-11-10 <span class="news-indication-tag">copd</span>
+
+Source: [Nordwest-Zeitung](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYnlxVnVPaktWRnk2VXpNVkhKUDYxdW5vQ2NvM3pTal9RZHB1UlB4OHJDbkc2YVZwcTZFYlNmUEhvenJiaXZ5RmFpb2pHMkZqUGJFbzJ5b2NQNFdVUFBlWTlmeWJzY29GVWJnSFo3ZTVUZHg5Y09aOTlET011T083RmZxVHBNd3lxcGUxd3FhbXBEanMwU3Z5aFVUZFhaSGx4VTJmRnJkWG9DXzhLcHlPUzUxbGhSNTlQT21jOFRVb2lsRGdLSEZvR0htZDhFcDF5UXNXTGxCd1Eza1BraGc?oc=5)
+
+---
 
 ### [EPOC: diez claves para frenar su avance y mejorar la calidad de vida - Gaceta Médica](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXNSRVlHNWRaQVVPUExLSTBPS2VXRko5ZEZtcGVHck1kNjNuT2ZyOXFaOTBvTEIyUTBsZHNESl9FOWZjb1lHRDI3MFZOT3lpU2drSkh1Ty1qX1NQZmRIUVlOTExzYm9VanRZSjlibEk5MVBBb3Y4c0hKdHFMU2k2NVVfVjU3SzlqU1E?oc=5)
 
 2026-11-10 <span class="news-indication-tag">EPOC</span>
 
 Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXNSRVlHNWRaQVVPUExLSTBPS2VXRko5ZEZtcGVHck1kNjNuT2ZyOXFaOTBvTEIyUTBsZHNESl9FOWZjb1lHRDI3MFZOT3lpU2drSkh1Ty1qX1NQZmRIUVlOTExzYm9VanRZSjlibEk5MVBBb3Y4c0hKdHFMU2k2NVVfVjU3SzlqU1E?oc=5)
+
+---
+
+### [Mum, 40, woke up having a stroke after GP told her to ‘call back in the morning’ for asthma-like symptoms - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
+
+2026-11-10 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
 
 ---
 

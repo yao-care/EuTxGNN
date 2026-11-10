@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>114 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>120 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,53 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (114)
+## Related News (120)
+
+### [El peligro de infarto e ictus por no tener una rutina de sueño - La Crónica de Salamanca](https://news.google.com/rss/articles/CBMikgFBVV95cUxNOU9nUG1NSkdwSEhEU1FzYWlzdXBEX3BvRmE2MXlzbzJFZ1p4YjUzU3JzNnZZaG1tRTF6UDZBOVNTbDVFVEpkUFZTaXh0QzVYb2JFX2dPajd3c1R4OE9uenFNMFBoMDFPeEZETDhRdTcxaHZySm04bkJfanlPeGd0X1NockVXNmNOZVJINjNWU1dCQQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">ictus</span>
+
+Source: [La Crónica de Salamanca](https://news.google.com/rss/articles/CBMikgFBVV95cUxNOU9nUG1NSkdwSEhEU1FzYWlzdXBEX3BvRmE2MXlzbzJFZ1p4YjUzU3JzNnZZaG1tRTF6UDZBOVNTbDVFVEpkUFZTaXh0QzVYb2JFX2dPajd3c1R4OE9uenFNMFBoMDFPeEZETDhRdTcxaHZySm04bkJfanlPeGd0X1NockVXNmNOZVJINjNWU1dCQQ?oc=5)
+
+---
+
+### [Mum, 40, woke up having a stroke after GP told her to ‘call back in the morning’ for asthma-like symptoms - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
+
+2026-11-10 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
+
+---
 
 ### [Vitamin D: Morgens oder abends einnehmen? Das empfiehlt der Arzt - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHNoVVQ4MjhndFhqdjE4cC04czUtcnVhakxLNXNENmdSVFFsS1JXbTJkMHEtX2J4V2hjYkd1WHJkMlF5b3JhLUQ1cENDV2MwOHdDQTZnZEVtSDZBbVlNZy1aYWZhZFJRWjNDNWVWNWlvX08yT2tlUWtaTUZSUm5Ca05HblNJYkJUTE9zWWRZTTVNNnRFTmJncEdtcmdlRDNOa3RibjZLbGZ4aE5hTk03ZTlpb200SjNRZ1JR?oc=5)
 
 2026-11-10 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHNoVVQ4MjhndFhqdjE4cC04czUtcnVhakxLNXNENmdSVFFsS1JXbTJkMHEtX2J4V2hjYkd1WHJkMlF5b3JhLUQ1cENDV2MwOHdDQTZnZEVtSDZBbVlNZy1aYWZhZFJRWjNDNWVWNWlvX08yT2tlUWtaTUZSUm5Ca05HblNJYkJUTE9zWWRZTTVNNnRFTmJncEdtcmdlRDNOa3RibjZLbGZ4aE5hTk03ZTlpb200SjNRZ1JR?oc=5)
+
+---
+
+### [Stopping weight loss drugs doubles diabetics’ heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
+
+---
+
+### [Cardiopatías en perros: las señales de alerta que los veterinarios piden no ignorar](https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ec0JGNlEzVUp6alY1ZkNpZVQyQkVjMkJsRXd4Zy0zejVZNDFJNHd3TUZMZ0hzSldYRnhKTkoyZ2hNXzcwcjJaMmFoQzVPeExNMGl6RWo3Q1Y3a1JuQUc0dlRKYzVabnZDRXVZemxTZW9UbzRk?oc=5)
+
+2026-11-09 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Qué.es](https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ec0JGNlEzVUp6alY1ZkNpZVQyQkVjMkJsRXd4Zy0zejVZNDFJNHd3TUZMZ0hzSldYRnhKTkoyZ2hNXzcwcjJaMmFoQzVPeExNMGl6RWo3Q1Y3a1JuQUc0dlRKYzVabnZDRXVZemxTZW9UbzRk?oc=5)
+
+---
+
+### [The deadly morning hour when your stroke risk suddenly spikes - The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVNMYS1OS3FiaC1VUlRCTFFCSXJQaHVIa3A5WDc2QUF1V0J6RHhDUzk4VUZMeTQ0THpKS0NWUzFvQjZ4OHlPNmFVOWZxSTNQMHJEUHczb1p4Sml0dXdhaTdGVnRRSlp3MThtU21ZZDFQMUYxLWZPV3dGcG1wOVRyUmV4cjBycHQ4cUEwTk1QQzRtN3hKZTNj?oc=5)
+
+2026-11-09 <span class="news-indication-tag">stroke</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVNMYS1OS3FiaC1VUlRCTFFCSXJQaHVIa3A5WDc2QUF1V0J6RHhDUzk4VUZMeTQ0THpKS0NWUzFvQjZ4OHlPNmFVOWZxSTNQMHJEUHczb1p4Sml0dXdhaTdGVnRRSlp3MThtU21ZZDFQMUYxLWZPV3dGcG1wOVRyUmV4cjBycHQ4cUEwTk1QQzRtN3hKZTNj?oc=5)
 
 ---
 
@@ -91,14 +131,6 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGxNS2J
 
 ---
 
-### [Mantener un horario regular de sueño ayuda a proteger la salud del corazón](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
-
-2026-11-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">ictus</span>
-
-Source: [ConSalud](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
-
----
-
 ### [Night-time habit could be early warning for stroke or heart failure - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZFhsTjNrUXg5dk1lNmRCTWtlNUhaSS1sX2VtMXJDUGNSQnYwVzZJTGNnN09FNVdUV1BkcTEwRU5obFZ5SFd3NjFxbzF5M0NJaUw3eWM0Q2ExTjdZdlIwV3NWVExCLWNmQ1JzaTdOdG5ON0ZBbXdzSXc5R0k?oc=5)
 
 2026-11-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
@@ -120,6 +152,22 @@ Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZW
 2026-11-09 <span class="news-indication-tag">AVC</span>
 
 Source: [Radio Intensité](https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNnl1QXdHdkNBQ19ZWXBheU9CVmVHaUpXeEdGYnNHMEhEN2dYcXZSSGJGczM3c25tMGIwcS1KQXp3VXFxeFdzbkY3UTZtd256STRhZmtKUDFKVmlFYUoxeW5wVnNBemJxYXdTbmJxYzJVRlpCWUVqeTN2WVFMQQ?oc=5)
+
+---
+
+### [David Cameron calls for end to NHS block on Alzheimer’s drugs - The Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3BUSzhBcTZjT0N2djd5WHFRV2R5emR0czE2b3FrdWxQdThNX08xUVdpM0xnbE9JdWVtdUltQVdTQ3hfMjJoSW1waDBlRlp3WHJSZVJaSHFzejJXLUFubnA2WEVfUXV0YUU0bjVDVnQ5TDZHZ2VFeTJLVTh4XzJUTGdBcW5VeXdfNDB1SDVGbEQ5Zk5ZT3pJbVUtUjloQ0ptRnRmRGM0T2g3Y3hPYlJQQWQ1dEtib2RS?oc=5)
+
+2026-11-09 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3BUSzhBcTZjT0N2djd5WHFRV2R5emR0czE2b3FrdWxQdThNX08xUVdpM0xnbE9JdWVtdUltQVdTQ3hfMjJoSW1waDBlRlp3WHJSZVJaSHFzejJXLUFubnA2WEVfUXV0YUU0bjVDVnQ5TDZHZ2VFeTJLVTh4XzJUTGdBcW5VeXdfNDB1SDVGbEQ5Zk5ZT3pJbVUtUjloQ0ptRnRmRGM0T2g3Y3hPYlJQQWQ1dEtib2RS?oc=5)
+
+---
+
+### [Exercise, diet or stress? One lifestyle habit stood out in a heart disease study](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRVJVN2R4czdsMlZXb2V1aWJpejRfRDg2UERUd0pXYUFHekJISklrT2xDNmstdXF1QlE4TEdaZUxiY2tkTGxFaUJ3OE03Z1dlZlZ1X21fRWZHeUkxMndIZ29JeTg4Vi1ieWpuOU5ZODhtOTFsSHF4TDhkb2ZrdzV3cFpEbjlZRlpkU2NUWnk5cTNSY19hTURnLWt6cnNwZ3pjVTFGaGFrS0ROaDFWNU1WRmRNNFRjZm05ZEdmbTJkMXBEVkdp?oc=5)
+
+2026-11-09 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRVJVN2R4czdsMlZXb2V1aWJpejRfRDg2UERUd0pXYUFHekJISklrT2xDNmstdXF1QlE4TEdaZUxiY2tkTGxFaUJ3OE03Z1dlZlZ1X21fRWZHeUkxMndIZ29JeTg4Vi1ieWpuOU5ZODhtOTFsSHF4TDhkb2ZrdzV3cFpEbjlZRlpkU2NUWnk5cTNSY19hTURnLWt6cnNwZ3pjVTFGaGFrS0ROaDFWNU1WRmRNNFRjZm05ZEdmbTJkMXBEVkdp?oc=5)
 
 ---
 
@@ -152,14 +200,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUy
 2026-11-08 <span class="news-indication-tag">cardiovascular disease</span>
 
 Source: [Healthline](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVRDVDdtU21oRGZrQ01Zb3FBX1ZGSm5RZTlQVGZ3Si01NTlXbjhPMFVjMW5GTzZrV2RuMnVPMlVFc3I2M2tnVy02c3d3NGk2TmNJMTloemJTclhDdVAwRjBJcmVVTm1HRjdtbERneWlhQ1hBNEFuSGo2eGRPOXJuRzZGNGFEbHQ5WGMzVkZOcWd6cElrS0VWWjh6bWc1dVk?oc=5)
-
----
-
-### [Changer de sel pourrait éviter près de trois millions de morts par an - Journal du Geek](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3E5aEtrN0xBTFRKS3pPSzZpV3RaTXpwVWFLa0RkWHpUMFI5V21qQm1zdTE2ZHdsMXF0RkVSZVFxTnhoWWM1WUFNN01ucnlHeHpTbW5HSmtfemR4VlQ4S3Q2eDJSMklJZ0U2cC03MmxubGRDY212QXFDblJnaUpPd2p4a1VoVWpmOUo1OVNMQWNPSU9YZlY3LVBUc0wxQjlmR2xGb1lDS1ZoUHRtYmFPcg?oc=5)
-
-2026-11-08 <span class="news-indication-tag">hypertension</span>
-
-Source: [Journal du Geek](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3E5aEtrN0xBTFRKS3pPSzZpV3RaTXpwVWFLa0RkWHpUMFI5V21qQm1zdTE2ZHdsMXF0RkVSZVFxTnhoWWM1WUFNN01ucnlHeHpTbW5HSmtfemR4VlQ4S3Q2eDJSMklJZ0U2cC03MmxubGRDY212QXFDblJnaUpPd2p4a1VoVWpmOUo1OVNMQWNPSU9YZlY3LVBUc0wxQjlmR2xGb1lDS1ZoUHRtYmFPcg?oc=5)
 
 ---
 
@@ -432,6 +472,14 @@ Source: [El Economista](https://news.google.com/rss/articles/CBMixAJBVV95cUxQSUR
 2026-11-04 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
+
+---
+
+### [Switching to potassium-enriched salt could prevent millions of global deaths](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGNUUEZWa0g0QU9EQnRQZXJjOGlsdmNWQWoxeTAxd3BYcC1qZ0hkdXdvczd5Y0dMLTFqWjQ4TVcyUmlLZXowRnh1dHpZdXVhZkV6WUNGYktnZ3V4YVlGY1NUUFR1M2hPNHJ4UmFqZnZRTmRnanpZOWFCWTZNY0NVSkN0dXl5RFJqdjRraFFJdkhGVTViNFJhUDlxaVVqdjM4NEtnWmJGeXlHMklVeTROZnBKYXRWeFY4M0xaSkQwOHZ5Zw?oc=5)
+
+2026-11-04 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGNUUEZWa0g0QU9EQnRQZXJjOGlsdmNWQWoxeTAxd3BYcC1qZ0hkdXdvczd5Y0dMLTFqWjQ4TVcyUmlLZXowRnh1dHpZdXVhZkV6WUNGYktnZ3V4YVlGY1NUUFR1M2hPNHJ4UmFqZnZRTmRnanpZOWFCWTZNY0NVSkN0dXl5RFJqdjRraFFJdkhGVTViNFJhUDlxaVVqdjM4NEtnWmJGeXlHMklVeTROZnBKYXRWeFY4M0xaSkQwOHZ5Zw?oc=5)
 
 ---
 

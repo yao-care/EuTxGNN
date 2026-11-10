@@ -3,7 +3,7 @@ layout: default
 title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 91 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 97 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 last_modified_at: 2026-11-10
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>91 news articles</strong> and 86 related drugs.
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>97 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,13 +64,53 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (91)
+## Related News (97)
+
+### [I’m a GP and ignored diabetes warning signs for 10 years until a nifty gadget revealed my ‘danger’ food - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMWF0cmpXa0ZUZkhFcDJUSEprTHVnbXVZc3hIaDZSZFpzUlAwVi1NbVlTNGVnckwxZDZsS1FUdF8wWFBTUnl2cHBUOU1qRnhTVkk0ZXp5LUgtQUV3MXZqZE1hQjlmN1o3M0V6OEo4Q1FxeHI4VTJOVGdEUERfeXdhVVBIVHJQRWUwbVpKcmdsZHVmRFRsYlF4bzRiUQ?oc=5)
+
+2026-11-10
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMWF0cmpXa0ZUZkhFcDJUSEprTHVnbXVZc3hIaDZSZFpzUlAwVi1NbVlTNGVnckwxZDZsS1FUdF8wWFBTUnl2cHBUOU1qRnhTVkk0ZXp5LUgtQUV3MXZqZE1hQjlmN1o3M0V6OEo4Q1FxeHI4VTJOVGdEUERfeXdhVVBIVHJQRWUwbVpKcmdsZHVmRFRsYlF4bzRiUQ?oc=5)
+
+---
+
+### [La marea azul por la diabetes será el domingo 22 de noviembre - Cadena SER](https://news.google.com/rss/articles/CBMixgFBVV95cUxOa2hJT3NBbWFZX3ZMRGc3QUROa3ZkUlMtbU1vcGZhb0RxaEh2Z1hsNnByRHh5eERad1MxWlUxSjBHMTZlYWl2ZWRYMDhqcGNscVFhOVBwSDVDZHY1d3duajIzX0prWGlwSFZOMFBQRTZ6YUczMjhUbF9uWTBZYnNxU0plUVdPSWRtbVBhTVRrWHhxSi1xNlhGMnRES0dLN3FmaUJJMENOVUc1WDBFZEVGd2QtSDZrampLYXQ1aG8xa1VFcVI1YVHSAdoBQVVfeXFMTU00MzJxcHNvNXhVVHRFMlZISVJJUllYSlJRMnhNaTVaVF9VZFNJQXFHNG1TYU9IbG5hU3YzaTVUbkpEOWwxZjhTamJPbXZsb1ZFdmM2d0tlM014cnUxaVV3cjBuR2h1eVVwWGZRVjdVaDJQZGMwMU5NNVhaYlFqVUlkU2lURlZaZFh3TGFrS0YwS0RveXhTX3E1YWM5MTFENEFrVkpCazBRdkw4WFlKazNfOHFRRnZYWG5XaVZQaG9tY1pSckdSWnFPN2JjZTVNckp4OEhRNjNodlE?oc=5)
+
+2026-11-10
+
+Source: [Cadena SER](https://news.google.com/rss/articles/CBMixgFBVV95cUxOa2hJT3NBbWFZX3ZMRGc3QUROa3ZkUlMtbU1vcGZhb0RxaEh2Z1hsNnByRHh5eERad1MxWlUxSjBHMTZlYWl2ZWRYMDhqcGNscVFhOVBwSDVDZHY1d3duajIzX0prWGlwSFZOMFBQRTZ6YUczMjhUbF9uWTBZYnNxU0plUVdPSWRtbVBhTVRrWHhxSi1xNlhGMnRES0dLN3FmaUJJMENOVUc1WDBFZEVGd2QtSDZrampLYXQ1aG8xa1VFcVI1YVHSAdoBQVVfeXFMTU00MzJxcHNvNXhVVHRFMlZISVJJUllYSlJRMnhNaTVaVF9VZFNJQXFHNG1TYU9IbG5hU3YzaTVUbkpEOWwxZjhTamJPbXZsb1ZFdmM2d0tlM014cnUxaVV3cjBuR2h1eVVwWGZRVjdVaDJQZGMwMU5NNVhaYlFqVUlkU2lURlZaZFh3TGFrS0YwS0RveXhTX3E1YWM5MTFENEFrVkpCazBRdkw4WFlKazNfOHFRRnZYWG5XaVZQaG9tY1pSckdSWnFPN2JjZTVNckp4OEhRNjNodlE?oc=5)
+
+---
+
+### [El CODES recuerda la importancia de tratar las encías para controlar la diabetes - Gaceta Dental](https://news.google.com/rss/articles/CBMitAFBVV95cUxPczZfcER2UVUxaHB6NTdmXzhIZDM0NkdhSFVndElidDdzX1REN1NVUHZIRkpsSlRaaVhkeDBhRjRxSkxacnFTTE9tdGdWS3BnSVFscXBOMDhYSG0tVkkyY1dMOWdLWFBBVW40TXBzTkJNa2xuOEQwOEpGTi1TUTFjRUphdi1VeTY4NVVoNmhWdUdXTnJobEtrbXdsZ1RTS1JsNVdhNHU2OUdORU5neUdTdm4zeS0?oc=5)
+
+2026-11-10
+
+Source: [Gaceta Dental](https://news.google.com/rss/articles/CBMitAFBVV95cUxPczZfcER2UVUxaHB6NTdmXzhIZDM0NkdhSFVndElidDdzX1REN1NVUHZIRkpsSlRaaVhkeDBhRjRxSkxacnFTTE9tdGdWS3BnSVFscXBOMDhYSG0tVkkyY1dMOWdLWFBBVW40TXBzTkJNa2xuOEQwOEpGTi1TUTFjRUphdi1VeTY4NVVoNmhWdUdXTnJobEtrbXdsZ1RTS1JsNVdhNHU2OUdORU5neUdTdm4zeS0?oc=5)
+
+---
+
+### [El sector sanitario de Calatayud elabora material de apoyo sobre la diabetes para los profesionales de Atención Primaria - Eco de Zaragoza](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdG5aZGVSNS16ZWJXcEJHRTdlN2U5eENSOGNCcU1SMXUzWXdHbWV0ajQwZFdpSUJQWERmcmZtQnpDMk9oLTlsT3FwTW5wRHYxRk03aXFJQXdReUF4MHlrN2tWbjVVUGt4QzlhcUNSanFBM2JXSlh1ODZLOE5EMFFLZFQtVjBFbFZGVjA5RlZjOTNUUGl5bEZYeTZpb09EMEo3bHU0RkU3a2dPZEtWUHlNZnVkOXItZGtMMlFBLWJQSFowTXQzUEFBQ0JXam9MaUZPV2djLTV6OS1KNjVEcHZv?oc=5)
+
+2026-11-10
+
+Source: [Eco de Zaragoza](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdG5aZGVSNS16ZWJXcEJHRTdlN2U5eENSOGNCcU1SMXUzWXdHbWV0ajQwZFdpSUJQWERmcmZtQnpDMk9oLTlsT3FwTW5wRHYxRk03aXFJQXdReUF4MHlrN2tWbjVVUGt4QzlhcUNSanFBM2JXSlh1ODZLOE5EMFFLZFQtVjBFbFZGVjA5RlZjOTNUUGl5bEZYeTZpb09EMEo3bHU0RkU3a2dPZEtWUHlNZnVkOXItZGtMMlFBLWJQSFowTXQzUEFBQ0JXam9MaUZPV2djLTV6OS1KNjVEcHZv?oc=5)
+
+---
 
 ### [Elda presenta el programa del Día Internacional de la Diabetes con concienciación, ejercicio e innovación médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxPTUxJNmdEV3lzUTF5alJiRVlneFByS3Yxbk5IZTVPU1R2NnNYVXpoSzJMdGZSLXVGZDh0cXNTRW1Xb0NFMWVhVFZWVUVhcmpuX3lyUVFzcTJycUZLeDNVUGRVVFBQd3Q0aTNWNHFMNDdSZ2xsRFJqRnlGMEk0ZnFUVUtrUnk1N2c5NkVtV3lBd1BNeDZnUHBQX0lQMzBKZzZGMktVRTV5bUZlZnZpOFJmbmZLbHp3dlZKWS1lQ2o3OEUxWUlVNmM0?oc=5)
 
 2026-11-10
 
 Source: [elperiodic.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxPTUxJNmdEV3lzUTF5alJiRVlneFByS3Yxbk5IZTVPU1R2NnNYVXpoSzJMdGZSLXVGZDh0cXNTRW1Xb0NFMWVhVFZWVUVhcmpuX3lyUVFzcTJycUZLeDNVUGRVVFBQd3Q0aTNWNHFMNDdSZ2xsRFJqRnlGMEk0ZnFUVUtrUnk1N2c5NkVtV3lBd1BNeDZnUHBQX0lQMzBKZzZGMktVRTV5bUZlZnZpOFJmbmZLbHp3dlZKWS1lQ2o3OEUxWUlVNmM0?oc=5)
+
+---
+
+### [Diecinueve farmacias de Álava ofrecerán pruebas para evaluar el riesgo de desarrollar diabetes tipo 2 - IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXF5WkgwczJYbzhXa2V2b2tBeXE5WGg3SEVJbV9XbEo5M0ROZVcyZ3JVSjh5Q2NDdWdFN2dpVkxINVBVZzF1MlJnTmxXZ1VobGFXUU05dzB6dmg4OHBfWEw2ejdWSlR6QzUwUmdhTTUzVGY0dnZQR0Z6bk4tQzl3VTBiakl4UDVLd1JmOWZWV2N2MU1rRWY5QTVGZ2xJc2dHeXJLRllBLUFwVFNKYjdUUHlIbk3SAa8BQVVfeXFMTjNzeEx6OVZ2aE8tcExKMTg1OUhESGw3aEpHTG5ZNU5ialdJTng0Y3p5elI0eDhsWjNSTnN6Q0M2MWpsM1JxdW0yRGJhSnlqUGZlNFhYWnd5VUJEcUxLN1p1RmtSOUptblU1enBLVjFhWGZTaU5pR0xDWWJodmg2UnNIc2JXM0cxUy1teVJMMlpVaFgtRHZYTFhvdm9acnRuS2VYaFQxdVpqVldiNTdGbw?oc=5)
+
+2026-11-10
+
+Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXF5WkgwczJYbzhXa2V2b2tBeXE5WGg3SEVJbV9XbEo5M0ROZVcyZ3JVSjh5Q2NDdWdFN2dpVkxINVBVZzF1MlJnTmxXZ1VobGFXUU05dzB6dmg4OHBfWEw2ejdWSlR6QzUwUmdhTTUzVGY0dnZQR0Z6bk4tQzl3VTBiakl4UDVLd1JmOWZWV2N2MU1rRWY5QTVGZ2xJc2dHeXJLRllBLUFwVFNKYjdUUHlIbk3SAa8BQVVfeXFMTjNzeEx6OVZ2aE8tcExKMTg1OUhESGw3aEpHTG5ZNU5ialdJTng0Y3p5elI0eDhsWjNSTnN6Q0M2MWpsM1JxdW0yRGJhSnlqUGZlNFhYWnd5VUJEcUxLN1p1RmtSOUptblU1enBLVjFhWGZTaU5pR0xDWWJodmg2UnNIc2JXM0cxUy1teVJMMlpVaFgtRHZYTFhvdm9acnRuS2VYaFQxdVpqVldiNTdGbw?oc=5)
 
 ---
 
@@ -87,6 +127,14 @@ Source: [Diario de León](https://news.google.com/rss/articles/CBMiswFBVV95cUxQT
 2026-11-10
 
 Source: [Cartagena Actualidad](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNzY0WjMyN0VqYnJFMzRfajBBbll4Z2p0TlE1UU9EU1g2ZGplVVhMWFFjOENOUXlwb1BoU0IyQm0tS1duaTBJNWltbnp5UVA3TTdROTZXSVdNTmRMTlhxWjZxVkZ1ejFrdXFKbE5PR0twWEI5SUxHM2lSQUZvc1BoSXFja1BBaHBteFFMVURQRXAtUUx6NDZVZTVkZ1l0Q2hac0taZmYzdmdLZm03T0VVU1VTNzJWOGZJWGFOdkZESWg2YUJKa0ZsX1lPMThwSlJPWV9sY1BWejI0MDNHOWw1MnRiTnkyaG95TzdDVjVTdnQwbldnd2tsaEhuWVUxQdIBgwJBVV95cUxOQW5hbk1yVGRlWkkzbFFJTVhfMXJsM0p5LUhoUUNobE1TempVYUZvRy1EUm5hUXVqUDBscHNxQTBlNjI5N01rTk5tb1VTZVFqMWlMQklJMGxYUE1iWVlUSmk5WE5LM2ZGWXZpVld2aVREaDhhanQ2ZGlFWmxTYVRpdnNFMjNYaG02VmxPb2lHeXZOb1FNYUZZY3VpUkxLNmJCRlcyUXdOUFJ4LUU1R3MyRUFHb3J2dVBVUy1pUzVraEpBelM3R0k1SF9acldCSVdleDk1YVgzcVRxejBFaC14dzRKVHBUd2F5ckNKVTlqUlViZTRrTVhQaWVwNlN1MU5qcDNz?oc=5)
+
+---
+
+### [Una ventana azul para acercarse a la diabetes desde las personas en Ponferrada - La Nueva Crónica](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2liM0UzWWxJNVhjeWU1S255Y185OF9qSGlhWUV5T1I4UkVWMTVnUExqbmxVWDZtUFlsSUI5aGtkX3hWXzJzVVFmS1BramFQZlRTMjJPSFRkcTlmcGpzOW01bGhsSWdPRGtuYW5zenJ1NmlOcmFPZzNua050UzBTeUEyazlLVktHaXE1QWswd2JvdU5IcFB1VUtSX0Z0OXdxZkIwYmZLbUVxdUxpX3JLUg?oc=5)
+
+2026-11-10
+
+Source: [La Nueva Crónica](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2liM0UzWWxJNVhjeWU1S255Y185OF9qSGlhWUV5T1I4UkVWMTVnUExqbmxVWDZtUFlsSUI5aGtkX3hWXzJzVVFmS1BramFQZlRTMjJPSFRkcTlmcGpzOW01bGhsSWdPRGtuYW5zenJ1NmlOcmFPZzNua050UzBTeUEyazlLVktHaXE1QWswd2JvdU5IcFB1VUtSX0Z0OXdxZkIwYmZLbUVxdUxpX3JLUg?oc=5)
 
 ---
 

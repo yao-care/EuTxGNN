@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Cabazitaxel?">
-<strong>Cabazitaxel</strong> currently has <strong>199 news articles</strong>, with 10 predicted indications.
+<strong>Cabazitaxel</strong> currently has <strong>208 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,71 @@ This page combines the AI-predicted indications for Cabazitaxel with the latest 
 <p><a href="{{ '/drugs/cabazitaxel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (199)
+## Related News (208)
+
+### [Sekundärtumoren verhindern - Medical Tribune](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMi1rR01oU0NyQVZwUVIxOWlsUndJajE0dXQwd3QzX3lUd3ZDRy1kNmUzSFBrUkZLaWtBQm1Wa0RmQWxkcXNONGRrQmpXWkdyLTNIYTcxV1pLR0QtOC1xRF96WTFDakNxeDFNSXFOa1V6Vm9zbExmc2xrWDAzMnVRMU1sTlExT2xva1VucmxSWm1kZnZVRC1DcQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">tumor</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMi1rR01oU0NyQVZwUVIxOWlsUndJajE0dXQwd3QzX3lUd3ZDRy1kNmUzSFBrUkZLaWtBQm1Wa0RmQWxkcXNONGRrQmpXWkdyLTNIYTcxV1pLR0QtOC1xRF96WTFDakNxeDFNSXFOa1V6Vm9zbExmc2xrWDAzMnVRMU1sTlExT2xva1VucmxSWm1kZnZVRC1DcQ?oc=5)
+
+---
+
+### [Hysterectomy test revealed Coventry woman's rare cancer](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mZndUdXJUYXB4aTFJbjhiVTVMUUdXdnlsUXhtY0RIcklTTjJhdm8wUVNXRmhmSWtiQU5JTlRpNHpteUoyNnFnMVBCNWluTEdFU0lKNEZqOFdsYzZWZ3c?oc=5)
+
+2026-11-10 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mZndUdXJUYXB4aTFJbjhiVTVMUUdXdnlsUXhtY0RIcklTTjJhdm8wUVNXRmhmSWtiQU5JTlRpNHpteUoyNnFnMVBCNWluTEdFU0lKNEZqOFdsYzZWZ3c?oc=5)
+
+---
+
+### [Strong immune system can prevent prostate cancer, Oxford study finds - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUZmMVUyenU0NUFybmNIckM4bW9iZWpiWkE4RzVNQ2xoVmtXZW9jVkxncThpakVzR2h6cjRzVzVWNVYwTWtYYlBvSl9YbGo2U1dGOEVySmhyTXVSSGU3cVVCQkdvOGp2SFhwUXl2Vmh3UFdmVEJYY1ZaWmFnVVp6cHB0UVZvMjlLNW81dkZPbGJrVi1EMnhNN0xiam1RM25yV1NPWg?oc=5)
+
+2026-11-10 <span class="news-indication-tag">cancer</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUZmMVUyenU0NUFybmNIckM4bW9iZWpiWkE4RzVNQ2xoVmtXZW9jVkxncThpakVzR2h6cjRzVzVWNVYwTWtYYlBvSl9YbGo2U1dGOEVySmhyTXVSSGU3cVVCQkdvOGp2SFhwUXl2Vmh3UFdmVEJYY1ZaWmFnVVp6cHB0UVZvMjlLNW81dkZPbGJrVi1EMnhNN0xiam1RM25yV1NPWg?oc=5)
+
+---
+
+### [Al San Martino è arrivato "ION", il robot che rivoluziona la diagnosi di cancro al polmone - Il Secolo XIX](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXExMWZ3UFJNb2hnenhxUWpUQ2JzaHVBWkdUcU4xbW56QlNoNHlnRU9xekM1QW5zZkpZMTlHRDk3bDBqeE9NWDFoTlg1Q0VVT3ZyemZEWWpuMU54YWhWWHE4Z2d5ekNoVTBzbjZ2bGVoOTQ1SENIazVFSlA4ZUpNYzZ6SnJ1T1dETzk0THB6NEFLQ3VhUFJvcQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">tumor</span>
+
+Source: [Il Secolo XIX](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXExMWZ3UFJNb2hnenhxUWpUQ2JzaHVBWkdUcU4xbW56QlNoNHlnRU9xekM1QW5zZkpZMTlHRDk3bDBqeE9NWDFoTlg1Q0VVT3ZyemZEWWpuMU54YWhWWHE4Z2d5ekNoVTBzbjZ2bGVoOTQ1SENIazVFSlA4ZUpNYzZ6SnJ1T1dETzk0THB6NEFLQ3VhUFJvcQ?oc=5)
+
+---
+
+### [Tumore al seno distrutto col ghiaccio senza bisturi: al Sacco di Milano la nuova frontiera della crioablazione](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVUlvNW4xRGVmV2I0cHhvbHBBRHRLNTAxSnBTUFZZdy1Qc2dHNm1RV0hNSzFlWUR5NjJiMUl1X3Bhd29aN3ZoM1JOakxYcUNoTm9DQWVDTDdrcjNoOW9FeG5Ob0c0YmpyNlFfcHBaeFpQbGpJdDJfa3pHLU51eXFyT0pLMlcxNTVYTEh5bnNZY3Q?oc=5)
+
+2026-11-10 <span class="news-indication-tag">tumor</span>
+
+Source: [MilanoToday](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVUlvNW4xRGVmV2I0cHhvbHBBRHRLNTAxSnBTUFZZdy1Qc2dHNm1RV0hNSzFlWUR5NjJiMUl1X3Bhd29aN3ZoM1JOakxYcUNoTm9DQWVDTDdrcjNoOW9FeG5Ob0c0YmpyNlFfcHBaeFpQbGpJdDJfa3pHLU51eXFyT0pLMlcxNTVYTEh5bnNZY3Q?oc=5)
+
+---
+
+### [I have over 200 tumours - trolls call me Black Death and slam me for having kids - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3NoVVg0LTk1WHNPamQyWEpOVGJlVWNHN2ZIMFJTZjEzNl9Udmk1cVc3ZXAyNEExaUJyaEgzM2gxelAybTRDM1NhRkZRaHkyT1hJTDFGN2NvZHMxNlBTalFuLWs2amdPcnl5dEtPVjFOT0hxbWREZkNYd3k0OXFkdVNvcGUydw?oc=5)
+
+2026-11-10 <span class="news-indication-tag">tumour</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3NoVVg0LTk1WHNPamQyWEpOVGJlVWNHN2ZIMFJTZjEzNl9Udmk1cVc3ZXAyNEExaUJyaEgzM2gxelAybTRDM1NhRkZRaHkyT1hJTDFGN2NvZHMxNlBTalFuLWs2amdPcnl5dEtPVjFOT0hxbWREZkNYd3k0OXFkdVNvcGUydw?oc=5)
+
+---
+
+### [‘Cauliflower symptom’ to watch out for as contagious dog cancer spreads in UK - The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTE1xNGVSaHFCcmNfSWhDZ2k4YXE2MnpUTzNZSE5HSnlNcVl6aUlaT3FuT0RyYWE4ZVhBX2ZsZHJna3NOSFhqeFN2dUZwUW41aG9YMmNsSThnS2tfMWN0WkEyWjJOYlFEbVdMLXNldFVGMDNETGVrQlhRTW96czNBUQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">cancer</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTE1xNGVSaHFCcmNfSWhDZ2k4YXE2MnpUTzNZSE5HSnlNcVl6aUlaT3FuT0RyYWE4ZVhBX2ZsZHJna3NOSFhqeFN2dUZwUW41aG9YMmNsSThnS2tfMWN0WkEyWjJOYlFEbVdMLXNldFVGMDNETGVrQlhRTW96czNBUQ?oc=5)
+
+---
+
+### [Una señal oculta en la sangre podría anticipar el cáncer de ovario antes de que aparezca un tumor](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVHlYS2w4TWo5Nk9EbjYwS19KZWpiZ0EyNDlVakIwZ2JRMUlBQ2h6clJUcWExWUozM0VocnlyU3NUZDh1RzdDVzNMUkVEZ3VDWGh1R3VOOWxRVHBlRDN2eDJpc284ZDQ4MVV4SnFvVmF4TVVMWlpJWnhfSGw3aElqUnBzTm9YRXRLNmw5c29Qb3F1NmdLVHIxTXNpanhzMVJLVUJrdTlrV2sxWl9HSjRfUnRiQW41TnpWdnNETXhDTUNTUW1jQ19aZ2RfU2hPN08tS2oxZ0dDc1llSlJ3UW1RVGkycFA2QlVBNElVcTZPR1ZPX1NyZ3JFZnVEN0_SAfwBQVVfeXFMTXczeXluX1drSzliVWtGbVdpRkI5OFNaVHNwa0g4MEZfeTJXY3FWRFVrSi0ybVA5WjZYdWZpSVBUYy0wWVA3TTNTUjNid21odVAyR01vN0k5T3I1Z2drbGZEWDVoM3Z1bVYxSFB4N0lVODY1SndTYVo3VjdTeEtTYVEyVjBOOVgzRjlQdTR1T01iTlRuMEJWMVl1cEpYZFZnT0JkLW9haGZsMkFjUGk0ak5hOUNwNlc4clVPdlQtcEJfZW9xMmtqOC1yU1pfRWZmeHlCUkFncGdjMXlQM3RSbU8xR1ZyaTZwTjhoUVhadnhXSWdESHFGaG5xdzht?oc=5)
+
+2026-11-10 <span class="news-indication-tag">tumor</span>
+
+Source: [LaSexta](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVHlYS2w4TWo5Nk9EbjYwS19KZWpiZ0EyNDlVakIwZ2JRMUlBQ2h6clJUcWExWUozM0VocnlyU3NUZDh1RzdDVzNMUkVEZ3VDWGh1R3VOOWxRVHBlRDN2eDJpc284ZDQ4MVV4SnFvVmF4TVVMWlpJWnhfSGw3aElqUnBzTm9YRXRLNmw5c29Qb3F1NmdLVHIxTXNpanhzMVJLVUJrdTlrV2sxWl9HSjRfUnRiQW41TnpWdnNETXhDTUNTUW1jQ19aZ2RfU2hPN08tS2oxZ0dDc1llSlJ3UW1RVGkycFA2QlVBNElVcTZPR1ZPX1NyZ3JFZnVEN0_SAfwBQVVfeXFMTXczeXluX1drSzliVWtGbVdpRkI5OFNaVHNwa0g4MEZfeTJXY3FWRFVrSi0ybVA5WjZYdWZpSVBUYy0wWVA3TTNTUjNid21odVAyR01vN0k5T3I1Z2drbGZEWDVoM3Z1bVYxSFB4N0lVODY1SndTYVo3VjdTeEtTYVEyVjBOOVgzRjlQdTR1T01iTlRuMEJWMVl1cEpYZFZnT0JkLW9haGZsMkFjUGk0ak5hOUNwNlc4clVPdlQtcEJfZW9xMmtqOC1yU1pfRWZmeHlCUkFncGdjMXlQM3RSbU8xR1ZyaTZwTjhoUVhadnhXSWdESHFGaG5xdzht?oc=5)
+
+---
 
 ### ['Fear won't protect you from breast cancer' says survivor](https://news.google.com/rss/articles/CBMiXkFVX3lxTE45aW9ibTVRUG1RRl9hSnVGbENHVTNtWFlIS3ItM1kwMFotbHpiWWd1NDNBMnJZWUJBamdwZ2ducGxQbm5wTVBGMnJkd0VZbTZZdEhaZnA0TTdENGZhZmc?oc=5)
 
@@ -73,6 +137,14 @@ Source: [The Bolton News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQT
 2026-11-10 <span class="news-indication-tag">cancer</span>
 
 Source: [France 3 Régions](https://news.google.com/rss/articles/CBMilAJBVV95cUxNcFJDNHJockNuMUNOclJTZi0yRkIyZHU0WjYyeVpGd2E5bWVFYUNPUnJJczNPcDdQRExLN1NQaDdTYXNQMGVTbTBsSU9ha3c5NTRvb2NFSV9nanQzd00wYnFSLXl1ekplcHdxWF9xMFR0Sy1JNHVXU1FSd3pvTHdYalcyMmpiTXUyQ0g2UUhsQzZydThwazVCNE9wRGJvTUhqMi1XOERXVXhQS3NVM1Nua3lBN2wyNFFVYTAweEdhWmFkbVBONG5CRDZQMEZ5NUJkNmhjT3FXd3Y2YXk0MFBLbWxWYUpfY0RyYmNFdVJSdmpwcDFMSkNrelRzNjRBTGFfcGdKbzJ2Z2cyTFFzdjhXME5yYXk?oc=5)
+
+---
+
+### [Mari et femme créent une association contre le cancer du pancréas et recherchent des bénévoles pour leurs actions](https://news.google.com/rss/articles/CBMilgJBVV95cUxQYzFNbGxjMlBlemc2Z0VHc0I2MWlsOU1OenotcWNfaXE3ak56dzUxLWNIbWFPTzFpVmwyYnZtbnV1VHJLM1prc1czYnBtM0I3bXNJcVZNaG9CQ1N3YTQwbjNWWTFhWWZRWFJJRGZhQ0JUc0o4TUxZUFJkYWtJYUZ5T19Jc1l3akZ3dFg3M1BocklKUUYzSXlaRGJaRzhUZTQ1QUpLdFNST054THFNYlZQdDlQVXljOWlNT0E1djh4bFp5Mkc5d2xkVXdyRkEzTy03T2UtalRuSmttOF9TV0ZPal9WVHh0a1V1VWN6djVKUjExdFp1U2I1eHg5THdWTlp4UFBLblRWekhtSGJsN0hKVTNyeDNqQQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">cancer</span>
+
+Source: [Ouest-France](https://news.google.com/rss/articles/CBMilgJBVV95cUxQYzFNbGxjMlBlemc2Z0VHc0I2MWlsOU1OenotcWNfaXE3ak56dzUxLWNIbWFPTzFpVmwyYnZtbnV1VHJLM1prc1czYnBtM0I3bXNJcVZNaG9CQ1N3YTQwbjNWWTFhWWZRWFJJRGZhQ0JUc0o4TUxZUFJkYWtJYUZ5T19Jc1l3akZ3dFg3M1BocklKUUYzSXlaRGJaRzhUZTQ1QUpLdFNST054THFNYlZQdDlQVXljOWlNT0E1djh4bFp5Mkc5d2xkVXdyRkEzTy03T2UtalRuSmttOF9TV0ZPal9WVHh0a1V1VWN6djVKUjExdFp1U2I1eHg5THdWTlp4UFBLblRWekhtSGJsN0hKVTNyeDNqQQ?oc=5)
 
 ---
 
@@ -145,6 +217,14 @@ Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi6gFBVV9
 2026-11-09 <span class="news-indication-tag">Krebs</span>
 
 Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3NCRElhRDhoaWYybFZ2N0Z2UHc1bk53S1ZEZFFmSmwxbjcxUFRTci1ubE1lT1FxV3F4aDBVdmkxM1lRVlg3NTZ6T3E5TlctUHJfM0RMdUtjTFoyV2stMlFEbzlyQXFKNlZLV0ZmcjBiNC13TWZ6STRwYzlfSEEwUmEwbGF5UkRjZlctS1BhZXhIcnhvbXZNWnozNmZsVkd0NWNyYUNXQm9yQVU?oc=5)
+
+---
+
+### [Retatrutide Improves Knee OA Pain, Physical Function](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3p1emJDT0JCUkc1VHNmc2duNnN5bFJmTnpZS0pIYVRVREl5aHA5MlNUUm11UE9lUHR0MDZYaU5OdEVUUGI5M1VWRERoYTktNkFOd3Y1ZGN3OXJjMF9INEJmTGd4a2Z1dWlnMnFzOVRpdXlIbVhMZjBiajM3RThTWjJQQUU1M3VPUTJ1WmRpRXNnVHZZMXZfRXRZelpBdFdQU0ljbUowWmo?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">obesity</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3p1emJDT0JCUkc1VHNmc2duNnN5bFJmTnpZS0pIYVRVREl5aHA5MlNUUm11UE9lUHR0MDZYaU5OdEVUUGI5M1VWRERoYTktNkFOd3Y1ZGN3OXJjMF9INEJmTGd4a2Z1dWlnMnFzOVRpdXlIbVhMZjBiajM3RThTWjJQQUU1M3VPUTJ1WmRpRXNnVHZZMXZfRXRZelpBdFdQU0ljbUowWmo?oc=5)
 
 ---
 
@@ -233,14 +313,6 @@ Source: [Actu.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeUV5T1loe
 2026-11-08 <span class="news-indication-tag">tumor</span>
 
 Source: [Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk5SZ3RETm9ENEM1MnFBSHhJbEZqbFAwWjNtMTlnSWw1M0dPUDV3TDhLdTZOQWx2YTJEcHJFV0hsY3B5cVR1UldvRkQ3d0poNHFQNFkwYnItZVYycHo2WFhHZ3pPT1djajZWcmV6SU5nRWl0eDhtNzVDZm9SUkZteHR2Nzd4QU5sOVZ4Vko0b1hna25mcmRFa3FTbzVWR0lFS0dMZmhVQ3kxdERhZGlqZdIBpgFBVV95cUxOZjRNeWN1VEJLYTZXUUtib2FCd01ZWWNsYUtscHkydWtHeFBYT0N4d0lNTUJKZURLSG1valBEVHpwSVVmZzZDUEk1bm93Skh2MVVRelRteENxU09XNEFBV3FOUHN5WDk2R2NJaWlUcWVBeGhrZXNKdDR0NC1ydTBBTXlDS3lKbWpra1FxNjVZSGdmX1F4SjRPYXJWWE1kdjV2Tl9KUC1n?oc=5)
-
----
-
-### [Psoriasis: cómo tratarla y evitar que afecte otras partes del organismo - Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
-
-2026-11-08 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">artritis</span>
-
-Source: [Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 
 ---
 

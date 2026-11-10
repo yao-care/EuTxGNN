@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>36 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>38 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,11 +29,19 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (36)
+## Related News (38)
+
+### [No es común que los GLP-1 provoquen ceguera, dice una doctora ante la advertencia de la FDA](https://news.google.com/rss/articles/CBMiigFBVV95cUxPVWV3ckVqbEVLWXJNV0FYZzJzNm5KZzJlZ3NnY1VsLXlCWmxCVENDbmszRW9sZTRfa2ttNG5Pek9wV1N0cktwemc0eS1ScHVmd2tPeTNKb19BSkxmME9iSURoYjlYX3NXM0RoQzNtT2RVOHFBZ0JiamtTSWRoOGk1RDVadEI3b2ZJSFE?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMiigFBVV95cUxPVWV3ckVqbEVLWXJNV0FYZzJzNm5KZzJlZ3NnY1VsLXlCWmxCVENDbmszRW9sZTRfa2ttNG5Pek9wV1N0cktwemc0eS1ScHVmd2tPeTNKb19BSkxmME9iSURoYjlYX3NXM0RoQzNtT2RVOHFBZ0JiamtTSWRoOGk1RDVadEI3b2ZJSFE?oc=5)
+
+---
 
 ### [Stopping weight loss drugs doubles diabetics’ heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 
-2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span>
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 
@@ -68,6 +76,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQci1x
 2026-11-09 <span class="news-drug-tag">Semaglutide</span>
 
 Source: [ma-sante.news](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMUFZM3VtVnVBeUs1Y0Z2Xzd2ZVVpbmxjMWxLSkVKeGlRYnJmMTZSVU9HbjhlTGt1RTczME9Wdm1ZbFY1XzdodHZ4NmhOZXlNVzNJbjRpYkw5dkFUbUwtU2pMenN0RWZqNVlSTXN6bWZ2Z1g2c1Z1Vm9WNzJOZUdPUUZTeVRBWUp6R1dXUmp3?oc=5)
+
+---
+
+### [Los otros objetivos de los fármacos antiobesidad](https://news.google.com/rss/articles/CBMic0FVX3lxTE10ZzZoT1NvMVU0QW1RWjVjQmxpVGxXVFd2SlBGTC1RcXJNVF9LUEE0NFJKcm5WTmJTdm5KQndhWE5jbVdGazE4c1R0OTY3NDctcE1yQ1BvSFRUME5BOFZfUXhjREtaZkNqTjk1TE5RRnVSQTQ?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [EFESalud](https://news.google.com/rss/articles/CBMic0FVX3lxTE10ZzZoT1NvMVU0QW1RWjVjQmxpVGxXVFd2SlBGTC1RcXJNVF9LUEE0NFJKcm5WTmJTdm5KQndhWE5jbVdGazE4c1R0OTY3NDctcE1yQ1BvSFRUME5BOFZfUXhjREtaZkNqTjk1TE5RRnVSQTQ?oc=5)
 
 ---
 

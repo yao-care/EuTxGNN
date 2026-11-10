@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Ambrisentan?">
-<strong>Ambrisentan</strong> currently has <strong>44 news articles</strong>, with 5 predicted indications.
+<strong>Ambrisentan</strong> currently has <strong>43 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Ambrisentan with the latest 
 <p><a href="{{ '/drugs/ambrisentan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (44)
+## Related News (43)
 
 ### [Vitamin D: Morgens oder abends einnehmen? Das empfiehlt der Arzt - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHNoVVQ4MjhndFhqdjE4cC04czUtcnVhakxLNXNENmdSVFFsS1JXbTJkMHEtX2J4V2hjYkd1WHJkMlF5b3JhLUQ1cENDV2MwOHdDQTZnZEVtSDZBbVlNZy1aYWZhZFJRWjNDNWVWNWlvX08yT2tlUWtaTUZSUm5Ca05HblNJYkJUTE9zWWRZTTVNNnRFTmJncEdtcmdlRDNOa3RibjZLbGZ4aE5hTk03ZTlpb200SjNRZ1JR?oc=5)
 
@@ -92,14 +92,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSD
 2026-11-08 <span class="news-indication-tag">high blood pressure</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
-
----
-
-### [Changer de sel pourrait éviter près de trois millions de morts par an - Journal du Geek](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3E5aEtrN0xBTFRKS3pPSzZpV3RaTXpwVWFLa0RkWHpUMFI5V21qQm1zdTE2ZHdsMXF0RkVSZVFxTnhoWWM1WUFNN01ucnlHeHpTbW5HSmtfemR4VlQ4S3Q2eDJSMklJZ0U2cC03MmxubGRDY212QXFDblJnaUpPd2p4a1VoVWpmOUo1OVNMQWNPSU9YZlY3LVBUc0wxQjlmR2xGb1lDS1ZoUHRtYmFPcg?oc=5)
-
-2026-11-08 <span class="news-indication-tag">hypertension</span>
-
-Source: [Journal du Geek](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3E5aEtrN0xBTFRKS3pPSzZpV3RaTXpwVWFLa0RkWHpUMFI5V21qQm1zdTE2ZHdsMXF0RkVSZVFxTnhoWWM1WUFNN01ucnlHeHpTbW5HSmtfemR4VlQ4S3Q2eDJSMklJZ0U2cC03MmxubGRDY212QXFDblJnaUpPd2p4a1VoVWpmOUo1OVNMQWNPSU9YZlY3LVBUc0wxQjlmR2xGb1lDS1ZoUHRtYmFPcg?oc=5)
 
 ---
 

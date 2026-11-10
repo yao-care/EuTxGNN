@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Schlaganfall (stroke) News"
+title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 67 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 71 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-10
 ---
 
-# Schlaganfall (stroke) News
+# ictus (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>67 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about ictus (stroke)?">
+<strong>ictus (stroke)</strong> currently has <strong>71 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,21 +35,45 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (67)
+## Related News (71)
+
+### [El peligro de infarto e ictus por no tener una rutina de sueño - La Crónica de Salamanca](https://news.google.com/rss/articles/CBMikgFBVV95cUxNOU9nUG1NSkdwSEhEU1FzYWlzdXBEX3BvRmE2MXlzbzJFZ1p4YjUzU3JzNnZZaG1tRTF6UDZBOVNTbDVFVEpkUFZTaXh0QzVYb2JFX2dPajd3c1R4OE9uenFNMFBoMDFPeEZETDhRdTcxaHZySm04bkJfanlPeGd0X1NockVXNmNOZVJINjNWU1dCQQ?oc=5)
+
+2026-11-10
+
+Source: [La Crónica de Salamanca](https://news.google.com/rss/articles/CBMikgFBVV95cUxNOU9nUG1NSkdwSEhEU1FzYWlzdXBEX3BvRmE2MXlzbzJFZ1p4YjUzU3JzNnZZaG1tRTF6UDZBOVNTbDVFVEpkUFZTaXh0QzVYb2JFX2dPajd3c1R4OE9uenFNMFBoMDFPeEZETDhRdTcxaHZySm04bkJfanlPeGd0X1NockVXNmNOZVJINjNWU1dCQQ?oc=5)
+
+---
+
+### [Mum, 40, woke up having a stroke after GP told her to ‘call back in the morning’ for asthma-like symptoms - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
+
+2026-11-10
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
+
+---
+
+### [Stopping weight loss drugs doubles diabetics’ heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
+
+2026-11-10
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
+
+---
+
+### [The deadly morning hour when your stroke risk suddenly spikes - The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVNMYS1OS3FiaC1VUlRCTFFCSXJQaHVIa3A5WDc2QUF1V0J6RHhDUzk4VUZMeTQ0THpKS0NWUzFvQjZ4OHlPNmFVOWZxSTNQMHJEUHczb1p4Sml0dXdhaTdGVnRRSlp3MThtU21ZZDFQMUYxLWZPV3dGcG1wOVRyUmV4cjBycHQ4cUEwTk1QQzRtN3hKZTNj?oc=5)
+
+2026-11-09
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVNMYS1OS3FiaC1VUlRCTFFCSXJQaHVIa3A5WDc2QUF1V0J6RHhDUzk4VUZMeTQ0THpKS0NWUzFvQjZ4OHlPNmFVOWZxSTNQMHJEUHczb1p4Sml0dXdhaTdGVnRRSlp3MThtU21ZZDFQMUYxLWZPV3dGcG1wOVRyUmV4cjBycHQ4cUEwTk1QQzRtN3hKZTNj?oc=5)
+
+---
 
 ### [Unregelmäßiger Schlaf könnte dem Herzen schaden](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGxNS2JnWTZVM3B5RGpGTHlubklIaHNMTHFzRWc5bHZzbEd5Uk9lZkxocThQWWkzV3c5QlhlaXJTN2ItZFZXcTJwczZrTzZpR0xMTUN0NGUtYU0yMThlTEhSbTFqV0hZNWJsNXpRb2V4d2R1d3VtM0g1MDdUTUhkTVNDWVRHZWNjdW95all6VQ?oc=5)
 
 2026-11-09
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGxNS2JnWTZVM3B5RGpGTHlubklIaHNMTHFzRWc5bHZzbEd5Uk9lZkxocThQWWkzV3c5QlhlaXJTN2ItZFZXcTJwczZrTzZpR0xMTUN0NGUtYU0yMThlTEhSbTFqV0hZNWJsNXpRb2V4d2R1d3VtM0g1MDdUTUhkTVNDWVRHZWNjdW95all6VQ?oc=5)
-
----
-
-### [Mantener un horario regular de sueño ayuda a proteger la salud del corazón](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
-
-2026-11-09
-
-Source: [ConSalud](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
 
 ---
 
@@ -66,6 +90,14 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZF
 2026-11-09
 
 Source: [Radio Intensité](https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNnl1QXdHdkNBQ19ZWXBheU9CVmVHaUpXeEdGYnNHMEhEN2dYcXZSSGJGczM3c25tMGIwcS1KQXp3VXFxeFdzbkY3UTZtd256STRhZmtKUDFKVmlFYUoxeW5wVnNBemJxYXdTbmJxYzJVRlpCWUVqeTN2WVFMQQ?oc=5)
+
+---
+
+### [David Cameron calls for end to NHS block on Alzheimer’s drugs - The Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3BUSzhBcTZjT0N2djd5WHFRV2R5emR0czE2b3FrdWxQdThNX08xUVdpM0xnbE9JdWVtdUltQVdTQ3hfMjJoSW1waDBlRlp3WHJSZVJaSHFzejJXLUFubnA2WEVfUXV0YUU0bjVDVnQ5TDZHZ2VFeTJLVTh4XzJUTGdBcW5VeXdfNDB1SDVGbEQ5Zk5ZT3pJbVUtUjloQ0ptRnRmRGM0T2g3Y3hPYlJQQWQ1dEtib2RS?oc=5)
+
+2026-11-09
+
+Source: [The Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3BUSzhBcTZjT0N2djd5WHFRV2R5emR0czE2b3FrdWxQdThNX08xUVdpM0xnbE9JdWVtdUltQVdTQ3hfMjJoSW1waDBlRlp3WHJSZVJaSHFzejJXLUFubnA2WEVfUXV0YUU0bjVDVnQ5TDZHZ2VFeTJLVTh4XzJUTGdBcW5VeXdfNDB1SDVGbEQ5Zk5ZT3pJbVUtUjloQ0ptRnRmRGM0T2g3Y3hPYlJQQWQ1dEtib2RS?oc=5)
 
 ---
 

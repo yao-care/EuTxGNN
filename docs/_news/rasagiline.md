@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>24 news articles</strong>, with 6 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>27 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,31 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (24)
+## Related News (27)
+
+### [Some people are resistant to dementia — here’s what their genes can teach us](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XUFFyaFRpSlRERUYzWlgycHBQZXZ6WEp0QjJTbl9WX21peFJ5Z2FRQXp2QWFCNEREeTVMRlNZd01Kc01pb3o1RnVuTEwwUVpEbUxxQkt1cU9PWVVCX29z?oc=5)
+
+2026-11-10 <span class="news-indication-tag">dementia</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XUFFyaFRpSlRERUYzWlgycHBQZXZ6WEp0QjJTbl9WX21peFJ5Z2FRQXp2QWFCNEREeTVMRlNZd01Kc01pb3o1RnVuTEwwUVpEbUxxQkt1cU9PWVVCX29z?oc=5)
+
+---
+
+### [Vibrating mattress may clean your brain and fend off Alzheimer’s - The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEVzOVg5aGdTckY4ekNQZk9BeG4zTWdQN0taQ2dmcE53MDNJbjBIQWV0VElPLTlPbmZJc3pnc3dPQnRCNWpDWXpadVNsTDJZVEVKc2ZqMFBoLVNNVmN3aTA1ZkJvOWNUSmNlTE94enRzNmEtTW01T0poRHVKNXBHekRkQmRBdmFjdDRBdjFxTDR1TmppcTkzQ0VfU05WS1ByX0k2UUhFNVlCc0E?oc=5)
+
+2026-11-10 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEVzOVg5aGdTckY4ekNQZk9BeG4zTWdQN0taQ2dmcE53MDNJbjBIQWV0VElPLTlPbmZJc3pnc3dPQnRCNWpDWXpadVNsTDJZVEVKc2ZqMFBoLVNNVmN3aTA1ZkJvOWNUSmNlTE94enRzNmEtTW01T0poRHVKNXBHekRkQmRBdmFjdDRBdjFxTDR1TmppcTkzQ0VfU05WS1ByX0k2UUhFNVlCc0E?oc=5)
+
+---
+
+### [Maladie de Parkinson : une découverte inattendue soulève de nouveaux espoirs de traitement](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">maladie de Parkinson</span>
+
+Source: [L'Humanité](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5)
+
+---
 
 ### [Britain’s leading dementia expert: ‘Alzheimer’s could be prevented within five years’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1pKTjRWSHNJN3VUMDk2YVhPY3c4Q2RFVkU3WjdGcGNxY1NITHpZTkpvMGxmdEFzaGNwdFpwWGNMZnhfXzFxX3RiS0sxRW5DV2NFcjdDdlZWMW1jcTZNU01LLWpQa21wTDVvaC1aR25UQTExTHNPOXg0NlV2bF9uX2ZZaEstY0pwb1R0dDFMUG9YTEc1NTJz?oc=5)
 
@@ -66,7 +90,7 @@ Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZW
 
 ### [David Cameron calls for end to NHS block on Alzheimer’s drugs - The Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3BUSzhBcTZjT0N2djd5WHFRV2R5emR0czE2b3FrdWxQdThNX08xUVdpM0xnbE9JdWVtdUltQVdTQ3hfMjJoSW1waDBlRlp3WHJSZVJaSHFzejJXLUFubnA2WEVfUXV0YUU0bjVDVnQ5TDZHZ2VFeTJLVTh4XzJUTGdBcW5VeXdfNDB1SDVGbEQ5Zk5ZT3pJbVUtUjloQ0ptRnRmRGM0T2g3Y3hPYlJQQWQ1dEtib2RS?oc=5)
 
-2026-11-09 <span class="news-indication-tag">dementia</span>
+2026-11-09 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
 Source: [The Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3BUSzhBcTZjT0N2djd5WHFRV2R5emR0czE2b3FrdWxQdThNX08xUVdpM0xnbE9JdWVtdUltQVdTQ3hfMjJoSW1waDBlRlp3WHJSZVJaSHFzejJXLUFubnA2WEVfUXV0YUU0bjVDVnQ5TDZHZ2VFeTJLVTh4XzJUTGdBcW5VeXdfNDB1SDVGbEQ5Zk5ZT3pJbVUtUjloQ0ptRnRmRGM0T2g3Y3hPYlJQQWQ1dEtib2RS?oc=5)
 

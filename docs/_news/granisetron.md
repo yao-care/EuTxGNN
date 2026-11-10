@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Granisetron?">
-<strong>Granisetron</strong> currently has <strong>15 news articles</strong>, with 10 predicted indications.
+<strong>Granisetron</strong> currently has <strong>18 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ This page combines the AI-predicted indications for Granisetron with the latest 
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (18)
+
+### [RSV ist keine leichte Erkältung - Experte über Imfpung für Säuglinge](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYnlxVnVPaktWRnk2VXpNVkhKUDYxdW5vQ2NvM3pTal9RZHB1UlB4OHJDbkc2YVZwcTZFYlNmUEhvenJiaXZ5RmFpb2pHMkZqUGJFbzJ5b2NQNFdVUFBlWTlmeWJzY29GVWJnSFo3ZTVUZHg5Y09aOTlET011T083RmZxVHBNd3lxcGUxd3FhbXBEanMwU3Z5aFVUZFhaSGx4VTJmRnJkWG9DXzhLcHlPUzUxbGhSNTlQT21jOFRVb2lsRGdLSEZvR0htZDhFcDF5UXNXTGxCd1Eza1BraGc?oc=5)
+
+2026-11-10 <span class="news-indication-tag">copd</span>
+
+Source: [Nordwest-Zeitung](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYnlxVnVPaktWRnk2VXpNVkhKUDYxdW5vQ2NvM3pTal9RZHB1UlB4OHJDbkc2YVZwcTZFYlNmUEhvenJiaXZ5RmFpb2pHMkZqUGJFbzJ5b2NQNFdVUFBlWTlmeWJzY29GVWJnSFo3ZTVUZHg5Y09aOTlET011T083RmZxVHBNd3lxcGUxd3FhbXBEanMwU3Z5aFVUZFhaSGx4VTJmRnJkWG9DXzhLcHlPUzUxbGhSNTlQT21jOFRVb2lsRGdLSEZvR0htZDhFcDF5UXNXTGxCd1Eza1BraGc?oc=5)
+
+---
 
 ### [EPOC: diez claves para frenar su avance y mejorar la calidad de vida - Gaceta Médica](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXNSRVlHNWRaQVVPUExLSTBPS2VXRko5ZEZtcGVHck1kNjNuT2ZyOXFaOTBvTEIyUTBsZHNESl9FOWZjb1lHRDI3MFZOT3lpU2drSkh1Ty1qX1NQZmRIUVlOTExzYm9VanRZSjlibEk5MVBBb3Y4c0hKdHFMU2k2NVVfVjU3SzlqU1E?oc=5)
 
 2026-11-10 <span class="news-indication-tag">EPOC</span>
 
 Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXNSRVlHNWRaQVVPUExLSTBPS2VXRko5ZEZtcGVHck1kNjNuT2ZyOXFaOTBvTEIyUTBsZHNESl9FOWZjb1lHRDI3MFZOT3lpU2drSkh1Ty1qX1NQZmRIUVlOTExzYm9VanRZSjlibEk5MVBBb3Y4c0hKdHFMU2k2NVVfVjU3SzlqU1E?oc=5)
+
+---
+
+### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
+
+2026-11-10 <span class="news-indication-tag">atrial fibrillation</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
+
+---
+
+### [Vorhofflimmern: Warum Frühwarnzeichen fehlen und welche Schritte jetzt zählen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU40MS1YbU9LV2gxUkppSksybjFFanpiMlRGci1hNGk1Sk5sdlY4YlNPNjBDbkpCTnZZTGFTakNvVHdTckZmRUh2NEdydy1uM002OHhSVzRXTGE3aUJsRURxUHd4Qk5tWXRhZVJTUnFJeTlub2M2NndYRW5UUlAwZC15UGJkYm1jcEdtU2FxTlB4enJSR29idml1S3YwVnY2aFpWSFQ2M2FpemZEdEYw?oc=5)
+
+2026-11-10 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU40MS1YbU9LV2gxUkppSksybjFFanpiMlRGci1hNGk1Sk5sdlY4YlNPNjBDbkpCTnZZTGFTakNvVHdTckZmRUh2NEdydy1uM002OHhSVzRXTGE3aUJsRURxUHd4Qk5tWXRhZVJTUnFJeTlub2M2NndYRW5UUlAwZC15UGJkYm1jcEdtU2FxTlB4enJSR29idml1S3YwVnY2aFpWSFQ2M2FpemZEdEYw?oc=5)
 
 ---
 

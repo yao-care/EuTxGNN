@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Norethisterone. 0 predicted indications."
 permalink: /news/norethisterone/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-10
 ---
 
 # Norethisterone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Norethisterone?">
-<strong>Norethisterone</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Norethisterone</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Norethisterone with the late
 <p><a href="{{ '/drugs/norethisterone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Mum, 40, woke up having a stroke after GP told her to ‘call back in the morning’ for asthma-like symptoms - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
+
+2026-11-10 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
+
+---
 
 ### [Exazerbationen trotz Asthma-Therapie: Was dann nötig ist](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjJpc01FMjNCanlWUGR5V2FTVExRRE5tWHNtSUFibjRfNy1QUGlfZUNZN0xReGRZb2pTTC1HYk5lbHBrMXlaVXNvMWk4a3p2bFd6SWk5ZnRPbUtZcVFtSU05ZHBvMDU2YjUzUk1FNkRHSVhXckpLNng5MkJ4YUhIRlY1ZmxMZXNuYzNVSXN5eWxfRzB1RFY5XzEtak90WTVORnBSRQ?oc=5)
 

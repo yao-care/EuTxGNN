@@ -3,9 +3,9 @@ layout: default
 title: "asthma News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about asthma. 1 articles, 47 related drugs."
+description: "Health news about asthma. 2 articles, 47 related drugs."
 permalink: /news/asthma/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-10
 ---
 
 # asthma News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about asthma?">
-<strong>asthma</strong> currently has <strong>1 news articles</strong> and 47 related drugs.
+<strong>asthma</strong> currently has <strong>2 news articles</strong> and 47 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -61,7 +61,15 @@ This page brings together the latest health news about “asthma” and lists th
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Mum, 40, woke up having a stroke after GP told her to ‘call back in the morning’ for asthma-like symptoms - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
+
+2026-11-10
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
+
+---
 
 ### [Exazerbationen trotz Asthma-Therapie: Was dann nötig ist](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjJpc01FMjNCanlWUGR5V2FTVExRRE5tWHNtSUFibjRfNy1QUGlfZUNZN0xReGRZb2pTTC1HYk5lbHBrMXlaVXNvMWk4a3p2bFd6SWk5ZnRPbUtZcVFtSU05ZHBvMDU2YjUzUk1FNkRHSVhXckpLNng5MkJ4YUhIRlY1ZmxMZXNuYzNVSXN5eWxfRzB1RFY5XzEtak90WTVORnBSRQ?oc=5)
 
