@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Alzheimer's (alzheimer disease) News"
+title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Alzheimer's (alzheimer disease). 18 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 20 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 last_modified_at: 2026-11-10
 ---
 
-# Alzheimer's (alzheimer disease) News
+# dementia (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
-<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>18 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
+<strong>dementia (alzheimer disease)</strong> currently has <strong>20 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Alzheimer's” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -43,7 +43,23 @@ This page brings together the latest health news about “Alzheimer's” and lis
 </ul>
 </div>
 
-## Related News (18)
+## Related News (20)
+
+### [Britain’s leading dementia expert: ‘Alzheimer’s could be prevented within five years’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1pKTjRWSHNJN3VUMDk2YVhPY3c4Q2RFVkU3WjdGcGNxY1NITHpZTkpvMGxmdEFzaGNwdFpwWGNMZnhfXzFxX3RiS0sxRW5DV2NFcjdDdlZWMW1jcTZNU01LLWpQa21wTDVvaC1aR25UQTExTHNPOXg0NlV2bF9uX2ZZaEstY0pwb1R0dDFMUG9YTEc1NTJz?oc=5)
+
+2026-11-10
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1pKTjRWSHNJN3VUMDk2YVhPY3c4Q2RFVkU3WjdGcGNxY1NITHpZTkpvMGxmdEFzaGNwdFpwWGNMZnhfXzFxX3RiS0sxRW5DV2NFcjdDdlZWMW1jcTZNU01LLWpQa21wTDVvaC1aR25UQTExTHNPOXg0NlV2bF9uX2ZZaEstY0pwb1R0dDFMUG9YTEc1NTJz?oc=5)
+
+---
+
+### [Des scientifiques identifient un lien préoccupant entre les infections répétées au Covid et le risque d’Alzheimer](https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1ZPYXJjVF9GLWZkb19NRnBCMnUyZXJpWjdTRFpkcVM1OUhzQ3dlV1VjUkxDN1AxU0lBejdEZm1HdzJudktVcHFGME91VkxSNldBZlB5WDBWVGp0QVhZNFVPM1FaM1Q0NUx2LTU1anBMTUtWaTBRZFpSTXVKRVYwMmg5Q0hWQlNMN2d4Y2FIVDAzaENWSG56a2JBNEMwWDVYWlJ6LTVHWWZVRXpQMG9rSGdCTmV0VkYxc0ZEWdIBwgFBVV95cUxPUDBJVFgta0swQW1UNFJLRHZwQ0hNMHNhVjJsUjhkYjJ4NGFYYzlNMzByWnpyZ091aGVaNlBzNlBGNjVYWUNoSWVSdGlsakZFVUdCTHphdGpWaXF5TV9JcEotenR2QVlpX3MtZDNyVC1ETzNEY3BXeURZalNweGdvdW1PWDI4VVdPQ0pLNlJxYXlHdnN5djg4dk5fZ18tbVpDRzZ3NXhLQ3JwaHZ4cXVwUHB1dGNPanNFUVVCMS1RRVlWQQ?oc=5)
+
+2026-11-09
+
+Source: [CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1ZPYXJjVF9GLWZkb19NRnBCMnUyZXJpWjdTRFpkcVM1OUhzQ3dlV1VjUkxDN1AxU0lBejdEZm1HdzJudktVcHFGME91VkxSNldBZlB5WDBWVGp0QVhZNFVPM1FaM1Q0NUx2LTU1anBMTUtWaTBRZFpSTXVKRVYwMmg5Q0hWQlNMN2d4Y2FIVDAzaENWSG56a2JBNEMwWDVYWlJ6LTVHWWZVRXpQMG9rSGdCTmV0VkYxc0ZEWdIBwgFBVV95cUxPUDBJVFgta0swQW1UNFJLRHZwQ0hNMHNhVjJsUjhkYjJ4NGFYYzlNMzByWnpyZ091aGVaNlBzNlBGNjVYWUNoSWVSdGlsakZFVUdCTHphdGpWaXF5TV9JcEotenR2QVlpX3MtZDNyVC1ETzNEY3BXeURZalNweGdvdW1PWDI4VVdPQ0pLNlJxYXlHdnN5djg4dk5fZ18tbVpDRzZ3NXhLQ3JwaHZ4cXVwUHB1dGNPanNFUVVCMS1RRVlWQQ?oc=5)
+
+---
 
 ### [Alzheimer's study finds symptom starts in ear 10 years before memory loss - Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
 

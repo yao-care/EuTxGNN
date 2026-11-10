@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>23 news articles</strong>, with 0 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>25 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (23)
+## Related News (25)
 
 ### [Enfermedades cardíacas en perros: Veterinarios explican los síntomas de alerta y las patologías más frecuentes](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1hUUm9YaXBDR1E0SzBhdUFtZHdieDZWbmVpTU84NGg3UlkwVlVJNUd1LV9lWFpOb1YwdmE3bkdKRDRpSVRmNjNfSmRGWUpPd0ZBUVdVRlg5blRTWlRGS1g1cktQVkZ0Q29tb1NObHlOQWJuZU8wVEU0d01lV3NBbk9CSTF3eUFjVmcwcEdPSEVvd0tqS3MtUGlCOVBxQUhRNDhRbmVIU2VhOWZLb1NQWUJDTHgtSzA5cFNGRW5fUld1cjVjYVHSAcsBQVVfeXFMTjdBQjFRb196dTVETlRvbnhmSTI5eDdnQlhRZTI1R09fNzhieDV2bUJwT1h3ZHJzTmhtUWhGMzN1a2dPcGktT0VMcDNjMG10SGxoSWVoamUzTDdodG03UDd3YXBIRzhVX2h2cXFxRUNvWTROVWRNMkhHeHQ1dHVkaDhEMlc0WW5ydk1zenhMbHFjWHJmeVBZaWJjVHNDcGoxZjVmTHhXdlN0bjBHRDg0eGpBdHBXT3JxMjZ2VnhIS18weVo2OTlvTXhDQTQ?oc=5)
 
 2026-11-09 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1hUUm9YaXBDR1E0SzBhdUFtZHdieDZWbmVpTU84NGg3UlkwVlVJNUd1LV9lWFpOb1YwdmE3bkdKRDRpSVRmNjNfSmRGWUpPd0ZBUVdVRlg5blRTWlRGS1g1cktQVkZ0Q29tb1NObHlOQWJuZU8wVEU0d01lV3NBbk9CSTF3eUFjVmcwcEdPSEVvd0tqS3MtUGlCOVBxQUhRNDhRbmVIU2VhOWZLb1NQWUJDTHgtSzA5cFNGRW5fUld1cjVjYVHSAcsBQVVfeXFMTjdBQjFRb196dTVETlRvbnhmSTI5eDdnQlhRZTI1R09fNzhieDV2bUJwT1h3ZHJzTmhtUWhGMzN1a2dPcGktT0VMcDNjMG10SGxoSWVoamUzTDdodG03UDd3YXBIRzhVX2h2cXFxRUNvWTROVWRNMkhHeHQ1dHVkaDhEMlc0WW5ydk1zenhMbHFjWHJmeVBZaWJjVHNDcGoxZjVmTHhXdlN0bjBHRDg0eGpBdHBXT3JxMjZ2VnhIS18weVo2OTlvTXhDQTQ?oc=5)
+
+---
+
+### [Night-time habit could be early warning for stroke or heart failure - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZFhsTjNrUXg5dk1lNmRCTWtlNUhaSS1sX2VtMXJDUGNSQnYwVzZJTGNnN09FNVdUV1BkcTEwRU5obFZ5SFd3NjFxbzF5M0NJaUw3eWM0Q2ExTjdZdlIwV3NWVExCLWNmQ1JzaTdOdG5ON0ZBbXdzSXc5R0k?oc=5)
+
+2026-11-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZFhsTjNrUXg5dk1lNmRCTWtlNUhaSS1sX2VtMXJDUGNSQnYwVzZJTGNnN09FNVdUV1BkcTEwRU5obFZ5SFd3NjFxbzF5M0NJaUw3eWM0Q2ExTjdZdlIwV3NWVExCLWNmQ1JzaTdOdG5ON0ZBbXdzSXc5R0k?oc=5)
+
+---
+
+### [Retatrutide reduces knee pain and body weight in osteoarthritis patients](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">obesity</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
 
 ---
 
@@ -50,7 +66,7 @@ Source: [Healthline](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVRDVD
 
 ### [Psoriasis: cómo tratarla y evitar que afecte otras partes del organismo - Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 
-2026-11-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
+2026-11-08 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">artritis</span>
 
 Source: [Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 

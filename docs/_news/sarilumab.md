@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>24 news articles</strong>, with 0 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>27 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (24)
+## Related News (27)
+
+### [EPOC: diez claves para frenar su avance y mejorar la calidad de vida - Gaceta Médica](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXNSRVlHNWRaQVVPUExLSTBPS2VXRko5ZEZtcGVHck1kNjNuT2ZyOXFaOTBvTEIyUTBsZHNESl9FOWZjb1lHRDI3MFZOT3lpU2drSkh1Ty1qX1NQZmRIUVlOTExzYm9VanRZSjlibEk5MVBBb3Y4c0hKdHFMU2k2NVVfVjU3SzlqU1E?oc=5)
+
+2026-11-10 <span class="news-indication-tag">EPOC</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXNSRVlHNWRaQVVPUExLSTBPS2VXRko5ZEZtcGVHck1kNjNuT2ZyOXFaOTBvTEIyUTBsZHNESl9FOWZjb1lHRDI3MFZOT3lpU2drSkh1Ty1qX1NQZmRIUVlOTExzYm9VanRZSjlibEk5MVBBb3Y4c0hKdHFMU2k2NVVfVjU3SzlqU1E?oc=5)
+
+---
 
 ### [RSV-Impfung bei COPD: Schutz vor Exazerbation und Herzrisiko - Medical Tribune](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcE1tcVloT0o4UllpMXZBRG9RRHViM1pUcG12RFFWM041Y0VvY3YwaW1zdUxwQ25QSi1IRU1NTllLT0RleFc4YXVoaU5UNlpsaXlWMm42bWJVNzg1R3B2VHY4dVRmdUxrNE5hQkRfSHNLY0dNZDFRZW15MnZndjBTRUZMUGIxU0ZBemZsN18waGNpWE9vaUF5TDY2aFpITnZfSl9MVXRaWHlxN2NGd09DS2NnbUJHdXFZUDcyT1pvbw?oc=5)
 
@@ -56,9 +64,17 @@ Source: [Onda Vasca](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUExQi
 
 ---
 
+### [Retatrutide reduces knee pain and body weight in osteoarthritis patients](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">obesity</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
+
+---
+
 ### [Psoriasis: cómo tratarla y evitar que afecte otras partes del organismo - Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 
-2026-11-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
+2026-11-08 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">artritis</span>
 
 Source: [Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 
@@ -77,6 +93,14 @@ Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi
 2026-11-08 <span class="news-indication-tag">enfermedad de Crohn</span>
 
 Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVTFkYjdjSXg4c3pMT2FXWU1MeTdtbElRZlU2MlFXMC1LY2NFRmxQTmFIdHBfOEFQRU03OV91WUVGVGRrbm94MWpVUjRPNTNDOGZVMjVjR3dMYndQdEFTaUZDVXBZTlhRWXBHejRHR2M4NWlMS1d1UTdMUjBuVEF2cURFS3huMlBQa3E3UGc1RXhPbzN4MWlsdzUzdzBTODFSLXNiQm91TlF3ZjlabzNxX01qaFg0ZVhKR2RkQmNpZUPSAcYBQVVfeXFMT05IcVdOUEVuUG1NWlJlSHljejc3b1cyUlFnWkJpSjZCa29Ob09sYklwVThEX3dGZ0VnYjdLQXVSZ2oxS3J3Tk15Q2pSQVdiQjVuYmE2eXpaWWVraEVDckFqbXhfVWxhQTZTZkVaQ3RNYkJMaFdtU3FLLU92c2gxUm8yeXRRckpDMnRjaVB3aUdMckFOMUNfTnJqUDdWYTZlTWtKM0JEN1NGS1Fja1djVEFSMjlsckFYTVFjNGhPakdhd1hOYUln?oc=5)
+
+---
+
+### [CED-Forschung: IL-10-Antikörper bei 3,5 Prozent der Patienten nachgewiesen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUNpOWduMnQ2cXVRMUxTU0FlZFNPRjlTb2c0YTNHLVNrTVRGaXlmbkFjWWVrME8xU09BWDBQNUFKemhTelo1VGlnUEt0NGtEWU1kMldzZl85Vl82RGI3YVpVRTFFeTdFUHVrdXhNOVM0QXFfdFZuVEhoeXp6VTQxZlJBM0ctTnIzUFFPVWl5cnpYenFWbWpfbGktSXFURElCb09OM1VTY3d3dnktakdpMm1GQUZYZEVnakJZYVpxZ2M?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Morbus Crohn</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUNpOWduMnQ2cXVRMUxTU0FlZFNPRjlTb2c0YTNHLVNrTVRGaXlmbkFjWWVrME8xU09BWDBQNUFKemhTelo1VGlnUEt0NGtEWU1kMldzZl85Vl82RGI3YVpVRTFFeTdFUHVrdXhNOVM0QXFfdFZuVEhoeXp6VTQxZlJBM0ctTnIzUFFPVWl5cnpYenFWbWpfbGktSXFURElCb09OM1VTY3d3dnktakdpMm1GQUZYZEVnakJZYVpxZ2M?oc=5)
 
 ---
 

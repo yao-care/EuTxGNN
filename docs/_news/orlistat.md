@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>114 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>123 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,23 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (114)
+## Related News (123)
+
+### [La FDA exige cambiar la etiqueta en fármacos contra la obesidad por riesgo de enfermedad ocular rara](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUEFQdWxQc2FFZHRXWUZFalcyTUFVQUZ5SGxFYUlwXzc5dWl3UFZINXEtUXMzTW5zdXpRdVhkRHJVZWxPeU15aTlwX0NwNkkxZ2RYMldHaWZRUXhrYWxzU0pGU1dYSFcyQ0ZwRE9ZVmdVa0Z0R05ySHdjVzF1N1hvajFBWFYtSUgxWndPZmliWUMzWEN5V1RwWXV5SW1CU1pxUzZweEJ3RWFTb3RmY3dnTm5UX2M2ZW1Xc2Z0RDlncTRqYXdRbllKU25sc2VCVXgwdmc?oc=5)
+
+2026-11-10 <span class="news-indication-tag">obesidad</span>
+
+Source: [SINC](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUEFQdWxQc2FFZHRXWUZFalcyTUFVQUZ5SGxFYUlwXzc5dWl3UFZINXEtUXMzTW5zdXpRdVhkRHJVZWxPeU15aTlwX0NwNkkxZ2RYMldHaWZRUXhrYWxzU0pGU1dYSFcyQ0ZwRE9ZVmdVa0Z0R05ySHdjVzF1N1hvajFBWFYtSUgxWndPZmliWUMzWEN5V1RwWXV5SW1CU1pxUzZweEJ3RWFTb3RmY3dnTm5UX2M2ZW1Xc2Z0RDlncTRqYXdRbllKU25sc2VCVXgwdmc?oc=5)
+
+---
+
+### [La "punturina magica" per dimagrire può rendere ciechi: la nuova avvertenza sui farmaci anti-obesità](https://news.google.com/rss/articles/CBMif0FVX3lxTE04a3dTUkJueDFZSVVQWkY2aEthT0p5R1pWbHJSWVlxZXFkc1FrbUZGdGU1LXVENnlqQ2EzMVE2a3h1Zm95VlVFOHVtR3JhVHhkUEl6T01uVnUxbVplZmVGbGJkT3lnaUVWSmJtMm1jVGdlMHhtNGxISzVEX2RzcW_SAX9BVV95cUxQd0gxWVJBSDdzTUNpNjluR0ozdjJmVUVvcjlzYWhJbjliM0JxTWV2MHZSeGZPTE1HWEhka0p4TXhmaS1ETTBKcDV1Ym9WTDdDM2hWSEN1am9BeTkxaElVWm53ZkNOTGFuZWVGR0pVUjlmZjF1blRuVWIyR2VhZVBF?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Today](https://news.google.com/rss/articles/CBMif0FVX3lxTE04a3dTUkJueDFZSVVQWkY2aEthT0p5R1pWbHJSWVlxZXFkc1FrbUZGdGU1LXVENnlqQ2EzMVE2a3h1Zm95VlVFOHVtR3JhVHhkUEl6T01uVnUxbVplZmVGbGJkT3lnaUVWSmJtMm1jVGdlMHhtNGxISzVEX2RzcW_SAX9BVV95cUxQd0gxWVJBSDdzTUNpNjluR0ozdjJmVUVvcjlzYWhJbjliM0JxTWV2MHZSeGZPTE1HWEhka0p4TXhmaS1ETTBKcDV1Ym9WTDdDM2hWSEN1am9BeTkxaElVWm53ZkNOTGFuZWVGR0pVUjlmZjF1blRuVWIyR2VhZVBF?oc=5)
+
+---
 
 ### [Prädiabetes und Adipositas: GLP-1-Medikamente senken Diabetesrisiko um 31 Prozent](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcHVzNXNYQ2dqYlEtNlowd1lJQ2F2M3lsUEtZNWJ6SkF3RC1vbk8tOUNkT0dmaVNFQy00ZXRTS2hPXzRxQ1hHdFJLWlRib0JqVWpVM2llTDUwRFpJTXpQSURZX2pfYWlBUjNyalFrVVgtNktGNXdSUnRzVXFvQXN4S0k2RHp5WW45c1hkcXc3bUtzNmNaMUhDRC1IQWRnb2RpRVFNeHU5WlhTUF9ZeWlWc3liekpSc0ZlVnhVal91TmZWYng1a2dNQUN3?oc=5)
 
@@ -51,11 +67,27 @@ Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxP
 
 ---
 
+### [Unregelmäßiger Schlaf könnte dem Herzen schaden](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGxNS2JnWTZVM3B5RGpGTHlubklIaHNMTHFzRWc5bHZzbEd5Uk9lZkxocThQWWkzV3c5QlhlaXJTN2ItZFZXcTJwczZrTzZpR0xMTUN0NGUtYU0yMThlTEhSbTFqV0hZNWJsNXpRb2V4d2R1d3VtM0g1MDdUTUhkTVNDWVRHZWNjdW95all6VQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGxNS2JnWTZVM3B5RGpGTHlubklIaHNMTHFzRWc5bHZzbEd5Uk9lZkxocThQWWkzV3c5QlhlaXJTN2ItZFZXcTJwczZrTzZpR0xMTUN0NGUtYU0yMThlTEhSbTFqV0hZNWJsNXpRb2V4d2R1d3VtM0g1MDdUTUhkTVNDWVRHZWNjdW95all6VQ?oc=5)
+
+---
+
 ### [Mantener un horario regular de sueño ayuda a proteger la salud del corazón](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
 
-2026-11-09 <span class="news-indication-tag">ictus</span>
+2026-11-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">ictus</span>
 
 Source: [ConSalud](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
+
+---
+
+### [Night-time habit could be early warning for stroke or heart failure - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZFhsTjNrUXg5dk1lNmRCTWtlNUhaSS1sX2VtMXJDUGNSQnYwVzZJTGNnN09FNVdUV1BkcTEwRU5obFZ5SFd3NjFxbzF5M0NJaUw3eWM0Q2ExTjdZdlIwV3NWVExCLWNmQ1JzaTdOdG5ON0ZBbXdzSXc5R0k?oc=5)
+
+2026-11-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZFhsTjNrUXg5dk1lNmRCTWtlNUhaSS1sX2VtMXJDUGNSQnYwVzZJTGNnN09FNVdUV1BkcTEwRU5obFZ5SFd3NjFxbzF5M0NJaUw3eWM0Q2ExTjdZdlIwV3NWVExCLWNmQ1JzaTdOdG5ON0ZBbXdzSXc5R0k?oc=5)
 
 ---
 
@@ -72,6 +104,14 @@ Source: [Radio Intensité](https://news.google.com/rss/articles/CBMifkFVX3lxTE1P
 2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Canarias7](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjYzRG9EcDB2X0lPOGhvSVp1Y0NyMHNUOTlDZUhjVUxHM013bFBYb21ET0h2MEh6VG9QeThHM29TT3BaQWVHYnZuZkl4WUtOVzdnN29GV3NEN1EtR2F5OGNRWWNqTmVLQXpKS3NfOVN3S3hEUWNKQ2R5UHVHWWhwdFQ5eHFYOEx3VlpPS0tRdkVaZXFUaXBnYUZucUF4aGRxbXltTHBKelN6SUhLaTU3QTJUQWZ5R21qWG9SajUxY2lYQW1m0gHKAUFVX3lxTFBNcHNJR2loQ19kTkhSNV9vT0Q4WTVSdHczVGgwNzU1ZWR4NjRSQ2lvMFpFaTBHNU5qMHdOcTBEMVVETkdwLWdQNXNmcHFBcFQyX1NGVVBYTFpBVEswNkVIcTUxVWFFZFFUSzJLNzJLYXA3cXBfd2JXVmQ4bG5nRzFtOHZmVzhld2t4R2lDc1ozYXhYU3duUXZMeG5jNW9uYUxTVzhtcnNWTjVTRThVQk15WC14b1Myd1ZQcjgwRm9LaVdfVm0tMGtMTXc?oc=5)
+
+---
+
+### [Retatrutide reduces knee pain and body weight in osteoarthritis patients](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">obesity</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
 
 ---
 
@@ -96,6 +136,14 @@ Source: [La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRIblR
 2026-11-08 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [OSTHESSEN|NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWxya0J2NDZLV1pEMXlaZEE5YkRlU3pxSkY4bGFseU9UN0JaUjlLcHM1NDFsSmZCY3oxUWdFcVVmbUNjQURBZ09JelY5WTRHaG5qck00YnJwdzRGeWFvNWJ5WGFVcHRtd000YTRYQk9pUWcwTXhJVlFaM0FKMElBTDZlckxsOHhtNngzdDZfbkM1dUhoY1BXYnJDOENWamJVeTBpSEZDa0g2WmFTal9xcVBGOVVqTXBoMXdRVGd6cw?oc=5)
+
+---
+
+### [The stroke risk younger adults may be overlooking – and the symptoms that should never be dismissed - The Conversation](https://news.google.com/rss/articles/CBMizAFBVV95cUxOeUdsT3dsbVdLdFdkY3c2QjlDM0hoajEwVzJDMi16TG1yMFFBLURiSGxpVF9GV3BHZkI0cDFTX0s4X1lYUi1vSW5Ub25nS1Z0cjYzR0RuamVqMGNlUXVQbVZkU0VUN0VkTUVUNGMzX3NTa1BETzNVajZqaTVRNVQ1RXZtUEdNWm40dE9PZ2NfX1FMWEY4SlJkUzV4QVoxbWhweTBZcm9vdTV5TXpKU3dobUxRMG9TZl9EZGJacmhOcUlXSF9SeHpMZ0phemQ?oc=5)
+
+2026-11-08 <span class="news-indication-tag">stroke</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMizAFBVV95cUxOeUdsT3dsbVdLdFdkY3c2QjlDM0hoajEwVzJDMi16TG1yMFFBLURiSGxpVF9GV3BHZkI0cDFTX0s4X1lYUi1vSW5Ub25nS1Z0cjYzR0RuamVqMGNlUXVQbVZkU0VUN0VkTUVUNGMzX3NTa1BETzNVajZqaTVRNVQ1RXZtUEdNWm40dE9PZ2NfX1FMWEY4SlJkUzV4QVoxbWhweTBZcm9vdTV5TXpKU3dobUxRMG9TZl9EZGJacmhOcUlXSF9SeHpMZ0phemQ?oc=5)
 
 ---
 
@@ -136,6 +184,14 @@ Source: [La Razón](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmU2Ulh
 2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
+
+---
+
+### [Il freddo può far male a chi è iperteso. Il cardiologo spiega come proteggere il cuore - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGxzTXdZNkhSN1h1Y1FFZjNXVEVRc0ZJR0NSY2FCTnlDU3hwNEdOSjBycU5ubFI2Sllvb3ljdW5OMUZXLTZDMWczR21jSDBvWVFQcG1nSDc4TElTcjRwQzJORU9NNld1cGkweFlOSGpmT0hYMkFYakdraHJ3Q3lYTHZLNk9qLTFTQldaUy1yNENoUFhBRDlXSW5wbHR0anVteEJBUjY3OE1nSGo4TlBMNXk1TFZCaTdJZnRWd3dkZGcxc3FWVE5RSUxITC1MY0VKbkwtS1hxMmzSAcQBQVVfeXFMTVIyTWRFSGpIQjdVVDJwaGRpaXl4UXlQODB6a2x1WUtEdXc3SXZoYmRlN1B1a2h2OXJMWWtZb0M5N3ExYnFCU1NGakNoMWl1RWwwcVA4T1ZoT0V6aFFHT3paOGhEbVRyRm0zc2lXbjBTcVhqNG15M0VETUlFWkhEb0VHdFBrdGp0cjV2UXVKaHdWRUM3LXVBUmZ0dWpWckw4ZS1ZWDdnWlAyTl83bFJFcEVfbnZJcVlvN0xSdzMxWV9OMS12MA?oc=5)
+
+2026-11-07 <span class="news-indication-tag">ictus</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGxzTXdZNkhSN1h1Y1FFZjNXVEVRc0ZJR0NSY2FCTnlDU3hwNEdOSjBycU5ubFI2Sllvb3ljdW5OMUZXLTZDMWczR21jSDBvWVFQcG1nSDc4TElTcjRwQzJORU9NNld1cGkweFlOSGpmT0hYMkFYakdraHJ3Q3lYTHZLNk9qLTFTQldaUy1yNENoUFhBRDlXSW5wbHR0anVteEJBUjY3OE1nSGo4TlBMNXk1TFZCaTdJZnRWd3dkZGcxc3FWVE5RSUxITC1MY0VKbkwtS1hxMmzSAcQBQVVfeXFMTVIyTWRFSGpIQjdVVDJwaGRpaXl4UXlQODB6a2x1WUtEdXc3SXZoYmRlN1B1a2h2OXJMWWtZb0M5N3ExYnFCU1NGakNoMWl1RWwwcVA4T1ZoT0V6aFFHT3paOGhEbVRyRm0zc2lXbjBTcVhqNG15M0VETUlFWkhEb0VHdFBrdGp0cjV2UXVKaHdWRUM3LXVBUmZ0dWpWckw4ZS1ZWDdnWlAyTl83bFJFcEVfbnZJcVlvN0xSdzMxWV9OMS12MA?oc=5)
 
 ---
 
@@ -243,6 +299,14 @@ Source: [Libertad Digital](https://news.google.com/rss/articles/CBMigAJBVV95cUxN
 
 ---
 
+### [Dispensazione di tirzepatide e analoghi agonisti recettoriali - OMCeO Milano](https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3JTU2hUZDlycGJRRXFGOXJqemI0VTdoOUJSeGthcFBBLVk5a2J3TnlvYkhlT29wVTBuLXpmdGYydjBHNW15R2xtUnFJU2EzV0pZemlBdGVxZk9FSlNkSGpvVURGVXNvVkdNSEpwRFJjcmVEU19VMFlKSTJJdFhFU0Q3TXE2endyUGFMZVZ2U0ZfUnRITkJsNXUzcjdFQ1U?oc=5)
+
+2026-11-05 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
+
+Source: [OMCeO Milano](https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3JTU2hUZDlycGJRRXFGOXJqemI0VTdoOUJSeGthcFBBLVk5a2J3TnlvYkhlT29wVTBuLXpmdGYydjBHNW15R2xtUnFJU2EzV0pZemlBdGVxZk9FSlNkSGpvVURGVXNvVkdNSEpwRFJjcmVEU19VMFlKSTJJdFhFU0Q3TXE2endyUGFMZVZ2U0ZfUnRITkJsNXUzcjdFQ1U?oc=5)
+
+---
+
 ### [Los fármacos que vienen después del Ozempic: buscan adelgazar más, perder menos músculo y evitar el efecto rebote - EL PAÍS](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdkZVdjdYamo5Q05MMlRZNkZFb2dfVmFYT2MwNUFMMGFfbU5SN1A2YVNtcklobU9JT2JWZ3duNUlCOHJYTVZnLTA0cFdPUFNtc3VWT2RDUjJXellhNXhBdmJsV1BrS0lHNWhSb1hQcVRZUmVlLWF5SnlCTTRNYzI5X0ZkZUhtTjk3WDhwTnZsM3o5dDlzR0pyMXptZ3p3VU4xSzRWZ2g0RUdzNnFGTjZZem9IejJIZk9PUFhsLVJoWXVnZ2lWT1pjb3I4M3JaVGNnQkE0b1hjcWQwNFlKYlVfV1B5SWVHTUVfUXfSAf4BQVVfeXFMTWtYemZ2YkEtamY5bWxmb1Q5TGxoUkxIVGtYdHY0ZGFqODRoZHRkSGpZMGE4UTl5OWV0M1MzTktCaUFaSE9nM2Q0eFZrTXBsWUNWQmg1cFJVOHJ3ZGsyX2ZOUlV4NUtaclRRdjJsQ2lYOHRuTDhXalB3ZW1ZS3ZIa011U0lQdzFGUTJyNUJTbHFFaWJIQkk0NjJ5enJZVlA0US1ITW4zNzd4bWRibkZ1MlhrMjNIcnFpNmk3WUtnbmcyd3JfQ2cwT1lDeVBUdFo0V3VudENBOEQ1bUhjZUdIMmlQZElaMWZJRDFsWDRKb0hVbld6d1UxS2xVMF84Nmc?oc=5)
 
 2026-11-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
@@ -261,7 +325,7 @@ Source: [Telecinco](https://news.google.com/rss/articles/CBMizgFBVV95cUxQcXZFRUJ
 
 ### [Adipositasmedikamente: DDG fordert Kassen-Erstattung für Risikopatienten](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5)
 
-2026-11-05 <span class="news-indication-tag">Adipositas</span>
+2026-11-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5)
 
@@ -357,7 +421,7 @@ Source: [La Razón](https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnBMcGM
 
 ### [Schlaganfall-Prävention: Zehn Risikofaktoren erklären rund 90 Prozent des Risikos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzF1Z192aVg0ckVBRUVZamVjaFhBckE1Z1JranVxN2FpWFNCVDQ1NkE2UGI4dko2Tlptc21oRGxtb3VJTVhmYl82MFRHOEJkRVptRjBYd01qaDJYX195WGVCM0ZRN19XWldYaWdXZ2UwRC1PMnF3N0dkaVYzSEFqYzdjM1ptV2VHUVdYRUFGSmdPaEM0SWJEdWxYcmRaSDlzUGFFMHdjZWgzYi1mLUhNczV2N0RMN3dEU05hYWthemZBWDJrN0pDcnVocw?oc=5)
 
-2026-11-05 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-11-05 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzF1Z192aVg0ckVBRUVZamVjaFhBckE1Z1JranVxN2FpWFNCVDQ1NkE2UGI4dko2Tlptc21oRGxtb3VJTVhmYl82MFRHOEJkRVptRjBYd01qaDJYX195WGVCM0ZRN19XWldYaWdXZ2UwRC1PMnF3N0dkaVYzSEFqYzdjM1ptV2VHUVdYRUFGSmdPaEM0SWJEdWxYcmRaSDlzUGFFMHdjZWgzYi1mLUhNczV2N0RMN3dEU05hYWthemZBWDJrN0pDcnVocw?oc=5)
 
@@ -488,6 +552,14 @@ Source: [FarmaciaVirtuale.it](https://news.google.com/rss/articles/CBMiswFBVV95c
 2026-11-03 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHF6YWQ5dFpvTkwySjItNEZHRm1xREE4NGlvYjBob2lybTZETEx1SlpXTi1VazF4MDI0WEFXLWZaRHpKZDRDXzktTVB6MEtvRUowc0UwYVVnTWtQX0dwNHJ5YlZOSHh5cUFzSHltNmhDcW5IUDlkY1V4Y05aRzJtaFo3UWdMUXRIYWR4MTFiNU16d0Zqb2IyX0VNcGlRZWc?oc=5)
+
+---
+
+### [El mercado de fármacos contra la obesidad sigue creciendo con la pastilla de Wegovy](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDk3LWdsN3pXMDlDTWR4cncyUkNDRnlZdFNvQzNPMlFISWFkVTBNSHNZS1h1cHRUeFdQZWJGR2g4WERqWjVkbUlyRkdlYlhwOEdfbE9Gb3NiblRXTXhyN2RDSndzX0FoRnVIU3dJNndacnliaExTS3JSZ2RCSm5jOTNnMGc5YWZ4TTdNakFId0VnLWptMkRTTWR0WUpaamc4TmdRYk5LS1lKd9IBrwFBVV95cUxNcUlISk4wRTEwTFRJdVJSZEtSZEYxaGN5V21jU2U2c19uZ1o0ZlVWZXYzZWlsOHFxNFZOcjB4bTdnNllYbnVFWkp3ejhGSU5uWmlPNkxWRU1ZRlN0UjRnUXhtVThUUlJsY2VBSFFicG9Ld3k3QUVuZEQybzc3OTdiaWk0bm96dGVzTmxEVms4NnBmVk9lYjlLRnJRcUhtcm5NaVpBY05fa0lIR3FxMzZJ?oc=5)
+
+2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [elDiario.es](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDk3LWdsN3pXMDlDTWR4cncyUkNDRnlZdFNvQzNPMlFISWFkVTBNSHNZS1h1cHRUeFdQZWJGR2g4WERqWjVkbUlyRkdlYlhwOEdfbE9Gb3NiblRXTXhyN2RDSndzX0FoRnVIU3dJNndacnliaExTS3JSZ2RCSm5jOTNnMGc5YWZ4TTdNakFId0VnLWptMkRTTWR0WUpaamc4TmdRYk5LS1lKd9IBrwFBVV95cUxNcUlISk4wRTEwTFRJdVJSZEtSZEYxaGN5V21jU2U2c19uZ1o0ZlVWZXYzZWlsOHFxNFZOcjB4bTdnNllYbnVFWkp3ejhGSU5uWmlPNkxWRU1ZRlN0UjRnUXhtVThUUlJsY2VBSFFicG9Ld3k3QUVuZEQybzc3OTdiaWk0bm96dGVzTmxEVms4NnBmVk9lYjlLRnJRcUhtcm5NaVpBY05fa0lIR3FxMzZJ?oc=5)
 
 ---
 

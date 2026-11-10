@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>22 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>24 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,11 +42,27 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (22)
+## Related News (24)
+
+### [Britain’s leading dementia expert: ‘Alzheimer’s could be prevented within five years’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1pKTjRWSHNJN3VUMDk2YVhPY3c4Q2RFVkU3WjdGcGNxY1NITHpZTkpvMGxmdEFzaGNwdFpwWGNMZnhfXzFxX3RiS0sxRW5DV2NFcjdDdlZWMW1jcTZNU01LLWpQa21wTDVvaC1aR25UQTExTHNPOXg0NlV2bF9uX2ZZaEstY0pwb1R0dDFMUG9YTEc1NTJz?oc=5)
+
+2026-11-10 <span class="news-indication-tag">dementia</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1pKTjRWSHNJN3VUMDk2YVhPY3c4Q2RFVkU3WjdGcGNxY1NITHpZTkpvMGxmdEFzaGNwdFpwWGNMZnhfXzFxX3RiS0sxRW5DV2NFcjdDdlZWMW1jcTZNU01LLWpQa21wTDVvaC1aR25UQTExTHNPOXg0NlV2bF9uX2ZZaEstY0pwb1R0dDFMUG9YTEc1NTJz?oc=5)
+
+---
+
+### [Des scientifiques identifient un lien préoccupant entre les infections répétées au Covid et le risque d’Alzheimer](https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1ZPYXJjVF9GLWZkb19NRnBCMnUyZXJpWjdTRFpkcVM1OUhzQ3dlV1VjUkxDN1AxU0lBejdEZm1HdzJudktVcHFGME91VkxSNldBZlB5WDBWVGp0QVhZNFVPM1FaM1Q0NUx2LTU1anBMTUtWaTBRZFpSTXVKRVYwMmg5Q0hWQlNMN2d4Y2FIVDAzaENWSG56a2JBNEMwWDVYWlJ6LTVHWWZVRXpQMG9rSGdCTmV0VkYxc0ZEWdIBwgFBVV95cUxPUDBJVFgta0swQW1UNFJLRHZwQ0hNMHNhVjJsUjhkYjJ4NGFYYzlNMzByWnpyZ091aGVaNlBzNlBGNjVYWUNoSWVSdGlsakZFVUdCTHphdGpWaXF5TV9JcEotenR2QVlpX3MtZDNyVC1ETzNEY3BXeURZalNweGdvdW1PWDI4VVdPQ0pLNlJxYXlHdnN5djg4dk5fZ18tbVpDRzZ3NXhLQ3JwaHZ4cXVwUHB1dGNPanNFUVVCMS1RRVlWQQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+Source: [CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1ZPYXJjVF9GLWZkb19NRnBCMnUyZXJpWjdTRFpkcVM1OUhzQ3dlV1VjUkxDN1AxU0lBejdEZm1HdzJudktVcHFGME91VkxSNldBZlB5WDBWVGp0QVhZNFVPM1FaM1Q0NUx2LTU1anBMTUtWaTBRZFpSTXVKRVYwMmg5Q0hWQlNMN2d4Y2FIVDAzaENWSG56a2JBNEMwWDVYWlJ6LTVHWWZVRXpQMG9rSGdCTmV0VkYxc0ZEWdIBwgFBVV95cUxPUDBJVFgta0swQW1UNFJLRHZwQ0hNMHNhVjJsUjhkYjJ4NGFYYzlNMzByWnpyZ091aGVaNlBzNlBGNjVYWUNoSWVSdGlsakZFVUdCTHphdGpWaXF5TV9JcEotenR2QVlpX3MtZDNyVC1ETzNEY3BXeURZalNweGdvdW1PWDI4VVdPQ0pLNlJxYXlHdnN5djg4dk5fZ18tbVpDRzZ3NXhLQ3JwaHZ4cXVwUHB1dGNPanNFUVVCMS1RRVlWQQ?oc=5)
+
+---
 
 ### [Alzheimer's study finds symptom starts in ear 10 years before memory loss - Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
 
-2026-11-09 <span class="news-indication-tag">Alzheimer's</span>
+2026-11-09 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
 

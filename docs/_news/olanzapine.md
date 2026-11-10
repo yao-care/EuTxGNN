@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>31 news articles</strong>, with 2 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>34 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,37 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (31)
+## Related News (34)
+
+### [Vorhofflimmern: Bis zu 50 Prozent der Betroffenen spüren kaum Symptome](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRldCaWdMQnh6MkdmejhGSWtmNmFMNVhVMFhkV1RyY1lwUzFNRTBTNkp0WFY5b3JuLWo0Uk5QakwxcUUxdTZWLVJDbEVjS0g1UWtyTjVhY1dPQXN5bVRUd1RmNzA1aDZ4UHg3aGI0aHNoeHJQZFc1a0MzNmJwOGpzRmhDbFB5UFJBMXFzU0o5bHBwWV95YWxrTkFkOTYycGpCVXZ3aVlzTjNMZENKMkVMVDVtLWxIQVFWZjdZ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRldCaWdMQnh6MkdmejhGSWtmNmFMNVhVMFhkV1RyY1lwUzFNRTBTNkp0WFY5b3JuLWo0Uk5QakwxcUUxdTZWLVJDbEVjS0g1UWtyTjVhY1dPQXN5bVRUd1RmNzA1aDZ4UHg3aGI0aHNoeHJQZFc1a0MzNmJwOGpzRmhDbFB5UFJBMXFzU0o5bHBwWV95YWxrTkFkOTYycGpCVXZ3aVlzTjNMZENKMkVMVDVtLWxIQVFWZjdZ?oc=5)
+
+---
 
 ### [Heimsensor für Vorhofflimmern: Nur 15,4 Prozent der Alarme trafen - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUczajZUck91UWxmNnc2S1NTbTRtQWRQcFpzLWlwNnpyTGNJZW5pb0dYWXJnQVR1TEY3Sk0ybGdRREF0MXJrT1ZzQmxIbzdWbFBoN2Q0M2QwWTlwcWN4dG5naGcxcWdHbGdFdU5BRHRZWldVbkZ6YlNKcng5NVZ1eEM0eHZOUVlUVXdOUUtBRGYtb1pubG4yLXJ4SEM?oc=5)
 
 2026-11-09 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUczajZUck91UWxmNnc2S1NTbTRtQWRQcFpzLWlwNnpyTGNJZW5pb0dYWXJnQVR1TEY3Sk0ybGdRREF0MXJrT1ZzQmxIbzdWbFBoN2Q0M2QwWTlwcWN4dG5naGcxcWdHbGdFdU5BRHRZWldVbkZ6YlNKcng5NVZ1eEM0eHZOUVlUVXdOUUtBRGYtb1pubG4yLXJ4SEM?oc=5)
+
+---
+
+### [Alzheimer's study finds symptom starts in ear 10 years before memory loss - Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
+
+2026-11-09 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
+
+---
+
+### [Professeur Roenneberg, chronobiologiste : "En novembre, nous faisons tous la même erreur. Elle fatigue encore plus" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMihgFBVV95cUxPa3RXcmhEMWxJZHlxRUlhYVN1X19pZnVMVUp0UHFZcTFQTDdHdi1TbnJSYlRNNFlUX25FTGtKRzg0bVpXdS1XZ0gxOVEzZnAyX2doc1Y4ZTQ1eEdtWDZHT2Z4eF8xdlpNajZNcXNRSHRrZ283SkVaYkN4R0lrbkVsbkd0b3Z0QQ?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">dépression</span>
+
+Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMihgFBVV95cUxPa3RXcmhEMWxJZHlxRUlhYVN1X19pZnVMVUp0UHFZcTFQTDdHdi1TbnJSYlRNNFlUX25FTGtKRzg0bVpXdS1XZ0gxOVEzZnAyX2doc1Y4ZTQ1eEdtWDZHT2Z4eF8xdlpNajZNcXNRSHRrZ283SkVaYkN4R0lrbkVsbkd0b3Z0QQ?oc=5)
 
 ---
 

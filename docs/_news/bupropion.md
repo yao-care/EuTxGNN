@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Bupropion?">
-<strong>Bupropion</strong> currently has <strong>51 news articles</strong>, with 0 predicted indications.
+<strong>Bupropion</strong> currently has <strong>56 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (51)
+## Related News (56)
+
+### [La FDA exige cambiar la etiqueta en fármacos contra la obesidad por riesgo de enfermedad ocular rara](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUEFQdWxQc2FFZHRXWUZFalcyTUFVQUZ5SGxFYUlwXzc5dWl3UFZINXEtUXMzTW5zdXpRdVhkRHJVZWxPeU15aTlwX0NwNkkxZ2RYMldHaWZRUXhrYWxzU0pGU1dYSFcyQ0ZwRE9ZVmdVa0Z0R05ySHdjVzF1N1hvajFBWFYtSUgxWndPZmliWUMzWEN5V1RwWXV5SW1CU1pxUzZweEJ3RWFTb3RmY3dnTm5UX2M2ZW1Xc2Z0RDlncTRqYXdRbllKU25sc2VCVXgwdmc?oc=5)
+
+2026-11-10 <span class="news-indication-tag">obesidad</span>
+
+Source: [SINC](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUEFQdWxQc2FFZHRXWUZFalcyTUFVQUZ5SGxFYUlwXzc5dWl3UFZINXEtUXMzTW5zdXpRdVhkRHJVZWxPeU15aTlwX0NwNkkxZ2RYMldHaWZRUXhrYWxzU0pGU1dYSFcyQ0ZwRE9ZVmdVa0Z0R05ySHdjVzF1N1hvajFBWFYtSUgxWndPZmliWUMzWEN5V1RwWXV5SW1CU1pxUzZweEJ3RWFTb3RmY3dnTm5UX2M2ZW1Xc2Z0RDlncTRqYXdRbllKU25sc2VCVXgwdmc?oc=5)
+
+---
+
+### [La "punturina magica" per dimagrire può rendere ciechi: la nuova avvertenza sui farmaci anti-obesità](https://news.google.com/rss/articles/CBMif0FVX3lxTE04a3dTUkJueDFZSVVQWkY2aEthT0p5R1pWbHJSWVlxZXFkc1FrbUZGdGU1LXVENnlqQ2EzMVE2a3h1Zm95VlVFOHVtR3JhVHhkUEl6T01uVnUxbVplZmVGbGJkT3lnaUVWSmJtMm1jVGdlMHhtNGxISzVEX2RzcW_SAX9BVV95cUxQd0gxWVJBSDdzTUNpNjluR0ozdjJmVUVvcjlzYWhJbjliM0JxTWV2MHZSeGZPTE1HWEhka0p4TXhmaS1ETTBKcDV1Ym9WTDdDM2hWSEN1am9BeTkxaElVWm53ZkNOTGFuZWVGR0pVUjlmZjF1blRuVWIyR2VhZVBF?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Today](https://news.google.com/rss/articles/CBMif0FVX3lxTE04a3dTUkJueDFZSVVQWkY2aEthT0p5R1pWbHJSWVlxZXFkc1FrbUZGdGU1LXVENnlqQ2EzMVE2a3h1Zm95VlVFOHVtR3JhVHhkUEl6T01uVnUxbVplZmVGbGJkT3lnaUVWSmJtMm1jVGdlMHhtNGxISzVEX2RzcW_SAX9BVV95cUxQd0gxWVJBSDdzTUNpNjluR0ozdjJmVUVvcjlzYWhJbjliM0JxTWV2MHZSeGZPTE1HWEhka0p4TXhmaS1ETTBKcDV1Ym9WTDdDM2hWSEN1am9BeTkxaElVWm53ZkNOTGFuZWVGR0pVUjlmZjF1blRuVWIyR2VhZVBF?oc=5)
+
+---
 
 ### [Prädiabetes und Adipositas: GLP-1-Medikamente senken Diabetesrisiko um 31 Prozent](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcHVzNXNYQ2dqYlEtNlowd1lJQ2F2M3lsUEtZNWJ6SkF3RC1vbk8tOUNkT0dmaVNFQy00ZXRTS2hPXzRxQ1hHdFJLWlRib0JqVWpVM2llTDUwRFpJTXpQSURZX2pfYWlBUjNyalFrVVgtNktGNXdSUnRzVXFvQXN4S0k2RHp5WW45c1hkcXc3bUtzNmNaMUhDRC1IQWRnb2RpRVFNeHU5WlhTUF9ZeWlWc3liekpSc0ZlVnhVal91TmZWYng1a2dNQUN3?oc=5)
 
@@ -53,6 +69,14 @@ Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxP
 2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Canarias7](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjYzRG9EcDB2X0lPOGhvSVp1Y0NyMHNUOTlDZUhjVUxHM013bFBYb21ET0h2MEh6VG9QeThHM29TT3BaQWVHYnZuZkl4WUtOVzdnN29GV3NEN1EtR2F5OGNRWWNqTmVLQXpKS3NfOVN3S3hEUWNKQ2R5UHVHWWhwdFQ5eHFYOEx3VlpPS0tRdkVaZXFUaXBnYUZucUF4aGRxbXltTHBKelN6SUhLaTU3QTJUQWZ5R21qWG9SajUxY2lYQW1m0gHKAUFVX3lxTFBNcHNJR2loQ19kTkhSNV9vT0Q4WTVSdHczVGgwNzU1ZWR4NjRSQ2lvMFpFaTBHNU5qMHdOcTBEMVVETkdwLWdQNXNmcHFBcFQyX1NGVVBYTFpBVEswNkVIcTUxVWFFZFFUSzJLNzJLYXA3cXBfd2JXVmQ4bG5nRzFtOHZmVzhld2t4R2lDc1ozYXhYU3duUXZMeG5jNW9uYUxTVzhtcnNWTjVTRThVQk15WC14b1Myd1ZQcjgwRm9LaVdfVm0tMGtMTXc?oc=5)
+
+---
+
+### [Retatrutide reduces knee pain and body weight in osteoarthritis patients](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">obesity</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
 
 ---
 
@@ -168,6 +192,14 @@ Source: [Libertad Digital](https://news.google.com/rss/articles/CBMigAJBVV95cUxN
 
 ---
 
+### [Dispensazione di tirzepatide e analoghi agonisti recettoriali - OMCeO Milano](https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3JTU2hUZDlycGJRRXFGOXJqemI0VTdoOUJSeGthcFBBLVk5a2J3TnlvYkhlT29wVTBuLXpmdGYydjBHNW15R2xtUnFJU2EzV0pZemlBdGVxZk9FSlNkSGpvVURGVXNvVkdNSEpwRFJjcmVEU19VMFlKSTJJdFhFU0Q3TXE2endyUGFMZVZ2U0ZfUnRITkJsNXUzcjdFQ1U?oc=5)
+
+2026-11-05 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
+
+Source: [OMCeO Milano](https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3JTU2hUZDlycGJRRXFGOXJqemI0VTdoOUJSeGthcFBBLVk5a2J3TnlvYkhlT29wVTBuLXpmdGYydjBHNW15R2xtUnFJU2EzV0pZemlBdGVxZk9FSlNkSGpvVURGVXNvVkdNSEpwRFJjcmVEU19VMFlKSTJJdFhFU0Q3TXE2endyUGFMZVZ2U0ZfUnRITkJsNXUzcjdFQ1U?oc=5)
+
+---
+
 ### [Los fármacos que vienen después del Ozempic: buscan adelgazar más, perder menos músculo y evitar el efecto rebote - EL PAÍS](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdkZVdjdYamo5Q05MMlRZNkZFb2dfVmFYT2MwNUFMMGFfbU5SN1A2YVNtcklobU9JT2JWZ3duNUlCOHJYTVZnLTA0cFdPUFNtc3VWT2RDUjJXellhNXhBdmJsV1BrS0lHNWhSb1hQcVRZUmVlLWF5SnlCTTRNYzI5X0ZkZUhtTjk3WDhwTnZsM3o5dDlzR0pyMXptZ3p3VU4xSzRWZ2g0RUdzNnFGTjZZem9IejJIZk9PUFhsLVJoWXVnZ2lWT1pjb3I4M3JaVGNnQkE0b1hjcWQwNFlKYlVfV1B5SWVHTUVfUXfSAf4BQVVfeXFMTWtYemZ2YkEtamY5bWxmb1Q5TGxoUkxIVGtYdHY0ZGFqODRoZHRkSGpZMGE4UTl5OWV0M1MzTktCaUFaSE9nM2Q0eFZrTXBsWUNWQmg1cFJVOHJ3ZGsyX2ZOUlV4NUtaclRRdjJsQ2lYOHRuTDhXalB3ZW1ZS3ZIa011U0lQdzFGUTJyNUJTbHFFaWJIQkk0NjJ5enJZVlA0US1ITW4zNzd4bWRibkZ1MlhrMjNIcnFpNmk3WUtnbmcyd3JfQ2cwT1lDeVBUdFo0V3VudENBOEQ1bUhjZUdIMmlQZElaMWZJRDFsWDRKb0hVbld6d1UxS2xVMF84Nmc?oc=5)
 
 2026-11-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
@@ -178,7 +210,7 @@ Source: [EL PAÍS](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdkZVdjdY
 
 ### [Adipositasmedikamente: DDG fordert Kassen-Erstattung für Risikopatienten](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5)
 
-2026-11-05 <span class="news-indication-tag">Adipositas</span>
+2026-11-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5)
 
@@ -261,6 +293,14 @@ Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVXV
 2026-11-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [FarmaciaVirtuale.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdi1ReWxFd0ltellkYkpmYjh0dnA5WUo4QjhnblBhdU4zbFFXSW44NnhHNzZfZlRpbVNvWTdjc19nanFIaGxpOUhXSzNlYTFKVkY1b3JXRjJEOUFRMXo3VVBPT3RXa1pwa2o5QUZzX1VjR3NXR3hxQm5MYm1Lb1gwX2FwcHhCNjE3REJHUHpVNVI0bkFhSUhpNzRkSkc2S0ZQekgxc3VSeGxoNmxFLVFPeFhuZw?oc=5)
+
+---
+
+### [El mercado de fármacos contra la obesidad sigue creciendo con la pastilla de Wegovy](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDk3LWdsN3pXMDlDTWR4cncyUkNDRnlZdFNvQzNPMlFISWFkVTBNSHNZS1h1cHRUeFdQZWJGR2g4WERqWjVkbUlyRkdlYlhwOEdfbE9Gb3NiblRXTXhyN2RDSndzX0FoRnVIU3dJNndacnliaExTS3JSZ2RCSm5jOTNnMGc5YWZ4TTdNakFId0VnLWptMkRTTWR0WUpaamc4TmdRYk5LS1lKd9IBrwFBVV95cUxNcUlISk4wRTEwTFRJdVJSZEtSZEYxaGN5V21jU2U2c19uZ1o0ZlVWZXYzZWlsOHFxNFZOcjB4bTdnNllYbnVFWkp3ejhGSU5uWmlPNkxWRU1ZRlN0UjRnUXhtVThUUlJsY2VBSFFicG9Ld3k3QUVuZEQybzc3OTdiaWk0bm96dGVzTmxEVms4NnBmVk9lYjlLRnJRcUhtcm5NaVpBY05fa0lIR3FxMzZJ?oc=5)
+
+2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [elDiario.es](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDk3LWdsN3pXMDlDTWR4cncyUkNDRnlZdFNvQzNPMlFISWFkVTBNSHNZS1h1cHRUeFdQZWJGR2g4WERqWjVkbUlyRkdlYlhwOEdfbE9Gb3NiblRXTXhyN2RDSndzX0FoRnVIU3dJNndacnliaExTS3JSZ2RCSm5jOTNnMGc5YWZ4TTdNakFId0VnLWptMkRTTWR0WUpaamc4TmdRYk5LS1lKd9IBrwFBVV95cUxNcUlISk4wRTEwTFRJdVJSZEtSZEYxaGN5V21jU2U2c19uZ1o0ZlVWZXYzZWlsOHFxNFZOcjB4bTdnNllYbnVFWkp3ejhGSU5uWmlPNkxWRU1ZRlN0UjRnUXhtVThUUlJsY2VBSFFicG9Ld3k3QUVuZEQybzc3OTdiaWk0bm96dGVzTmxEVms4NnBmVk9lYjlLRnJRcUhtcm5NaVpBY05fa0lIR3FxMzZJ?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Rivaroxaban?">
-<strong>Rivaroxaban</strong> currently has <strong>10 news articles</strong>, with 4 predicted indications.
+<strong>Rivaroxaban</strong> currently has <strong>11 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,11 +36,19 @@ This page combines the AI-predicted indications for Rivaroxaban with the latest 
 <p><a href="{{ '/drugs/rivaroxaban/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Retatrutide reduces knee pain and body weight in osteoarthritis patients](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">obesity</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
+
+---
 
 ### [Psoriasis: cómo tratarla y evitar que afecte otras partes del organismo - Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 
-2026-11-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
+2026-11-08 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">artritis</span>
 
 Source: [Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 

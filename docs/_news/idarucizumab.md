@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Idarucizumab?">
-<strong>Idarucizumab</strong> currently has <strong>17 news articles</strong>, with 0 predicted indications.
+<strong>Idarucizumab</strong> currently has <strong>19 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (19)
+
+### [EPOC: diez claves para frenar su avance y mejorar la calidad de vida - Gaceta Médica](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXNSRVlHNWRaQVVPUExLSTBPS2VXRko5ZEZtcGVHck1kNjNuT2ZyOXFaOTBvTEIyUTBsZHNESl9FOWZjb1lHRDI3MFZOT3lpU2drSkh1Ty1qX1NQZmRIUVlOTExzYm9VanRZSjlibEk5MVBBb3Y4c0hKdHFMU2k2NVVfVjU3SzlqU1E?oc=5)
+
+2026-11-10 <span class="news-indication-tag">EPOC</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXNSRVlHNWRaQVVPUExLSTBPS2VXRko5ZEZtcGVHck1kNjNuT2ZyOXFaOTBvTEIyUTBsZHNESl9FOWZjb1lHRDI3MFZOT3lpU2drSkh1Ty1qX1NQZmRIUVlOTExzYm9VanRZSjlibEk5MVBBb3Y4c0hKdHFMU2k2NVVfVjU3SzlqU1E?oc=5)
+
+---
 
 ### [RSV-Impfung bei COPD: Schutz vor Exazerbation und Herzrisiko - Medical Tribune](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcE1tcVloT0o4UllpMXZBRG9RRHViM1pUcG12RFFWM041Y0VvY3YwaW1zdUxwQ25QSi1IRU1NTllLT0RleFc4YXVoaU5UNlpsaXlWMm42bWJVNzg1R3B2VHY4dVRmdUxrNE5hQkRfSHNLY0dNZDFRZW15MnZndjBTRUZMUGIxU0ZBemZsN18waGNpWE9vaUF5TDY2aFpITnZfSl9MVXRaWHlxN2NGd09DS2NnbUJHdXFZUDcyT1pvbw?oc=5)
 
@@ -48,9 +56,17 @@ Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMimAFBVV9
 
 ---
 
+### [Retatrutide reduces knee pain and body weight in osteoarthritis patients](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">obesity</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
+
+---
+
 ### [Psoriasis: cómo tratarla y evitar que afecte otras partes del organismo - Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 
-2026-11-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
+2026-11-08 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">artritis</span>
 
 Source: [Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 

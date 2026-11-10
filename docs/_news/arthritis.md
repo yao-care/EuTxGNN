@@ -3,7 +3,7 @@ layout: default
 title: "artritis (arthritis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about artritis (arthritis). 10 articles, 73 related drugs."
+description: "Health news about artritis (arthritis). 11 articles, 73 related drugs."
 permalink: /news/arthritis/
 last_modified_at: 2026-11-10
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about artritis (arthritis)?">
-<strong>artritis (arthritis)</strong> currently has <strong>10 news articles</strong> and 73 related drugs.
+<strong>artritis (arthritis)</strong> currently has <strong>11 news articles</strong> and 73 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -79,7 +79,15 @@ This page brings together the latest health news about “artritis” and lists 
 </ul>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Retatrutide reduces knee pain and body weight in osteoarthritis patients](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
+
+2026-11-09
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
+
+---
 
 ### [Psoriasis: cómo tratarla y evitar que afecte otras partes del organismo - Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 

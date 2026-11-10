@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>31 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>36 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,23 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (31)
+## Related News (36)
+
+### [Stopping weight loss drugs doubles diabetics’ heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
+
+---
+
+### [La "punturina magica" per dimagrire può rendere ciechi: la nuova avvertenza sui farmaci anti-obesità](https://news.google.com/rss/articles/CBMif0FVX3lxTE04a3dTUkJueDFZSVVQWkY2aEthT0p5R1pWbHJSWVlxZXFkc1FrbUZGdGU1LXVENnlqQ2EzMVE2a3h1Zm95VlVFOHVtR3JhVHhkUEl6T01uVnUxbVplZmVGbGJkT3lnaUVWSmJtMm1jVGdlMHhtNGxISzVEX2RzcW_SAX9BVV95cUxQd0gxWVJBSDdzTUNpNjluR0ozdjJmVUVvcjlzYWhJbjliM0JxTWV2MHZSeGZPTE1HWEhka0p4TXhmaS1ETTBKcDV1Ym9WTDdDM2hWSEN1am9BeTkxaElVWm53ZkNOTGFuZWVGR0pVUjlmZjF1blRuVWIyR2VhZVBF?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Today](https://news.google.com/rss/articles/CBMif0FVX3lxTE04a3dTUkJueDFZSVVQWkY2aEthT0p5R1pWbHJSWVlxZXFkc1FrbUZGdGU1LXVENnlqQ2EzMVE2a3h1Zm95VlVFOHVtR3JhVHhkUEl6T01uVnUxbVplZmVGbGJkT3lnaUVWSmJtMm1jVGdlMHhtNGxISzVEX2RzcW_SAX9BVV95cUxQd0gxWVJBSDdzTUNpNjluR0ozdjJmVUVvcjlzYWhJbjliM0JxTWV2MHZSeGZPTE1HWEhka0p4TXhmaS1ETTBKcDV1Ym9WTDdDM2hWSEN1am9BeTkxaElVWm53ZkNOTGFuZWVGR0pVUjlmZjF1blRuVWIyR2VhZVBF?oc=5)
+
+---
 
 ### [La FDA ordena incluir nuevas advertencias sobre riesgos oculares por uso de Ozempic y Zepbound - CNN en Español](https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWU2VFFHVHFsS19JOU9uS0ZCRl92YS1aZXB2c1RELVltdDVEVVhLSC1fQjNyYm04bzBfOXVqcTFGZVV4emNPN09BRWFLOUNjOEVQT2gtVnhhM1IxdmQwaVVvRl9jTmY4ZDg0WVdlT2FPNTBMMURsSjVkZjVmVXMxb3ZqQXVqdE1EMS1vbzd3N1ZjMDZCQ2c?oc=5)
 
@@ -44,6 +60,14 @@ Source: [CNN en Español](https://news.google.com/rss/articles/CBMilgFBVV95cUxPO
 2026-11-09 <span class="news-drug-tag">Semaglutide</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQci1xdFZBRVg4enVFbTJRdTBNeTduM2pEUmpaelB1U18xTE5TN3pCTEpOUXAwcjVGZWxTWkFMbWhGRERRZUliaDlNekQzSFNJbHd2YmNPUnFtazRFa2dmdzJ2VGR4YXpXVEtUS2NWRklsR21xTkFadVdBM0xhbndIOW1DdnN1S1lsdGwwV2VHd09CYXEwVWlrNmtNQzk4Wkg2Y29HbWhYZkM5bFpqakNaeHlBMjRIelFTMEZvLUNtaUt2VUR1U1NKVUM4ckpHNHFNNWJyaHNNRlhkcUVDcHpkeFVR?oc=5)
+
+---
+
+### [Wegovy : ces effets secondaires que les patients doivent connaître](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMUFZM3VtVnVBeUs1Y0Z2Xzd2ZVVpbmxjMWxLSkVKeGlRYnJmMTZSVU9HbjhlTGt1RTczME9Wdm1ZbFY1XzdodHZ4NmhOZXlNVzNJbjRpYkw5dkFUbUwtU2pMenN0RWZqNVlSTXN6bWZ2Z1g2c1Z1Vm9WNzJOZUdPUUZTeVRBWUp6R1dXUmp3?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Semaglutide</span>
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMUFZM3VtVnVBeUs1Y0Z2Xzd2ZVVpbmxjMWxLSkVKeGlRYnJmMTZSVU9HbjhlTGt1RTczME9Wdm1ZbFY1XzdodHZ4NmhOZXlNVzNJbjRpYkw5dkFUbUwtU2pMenN0RWZqNVlSTXN6bWZ2Z1g2c1Z1Vm9WNzJOZUdPUUZTeVRBWUp6R1dXUmp3?oc=5)
 
 ---
 
@@ -143,6 +167,14 @@ Source: [EL PAÍS](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdkZVdjdY
 
 ---
 
+### [Adipositasmedikamente: DDG fordert Kassen-Erstattung für Risikopatienten](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5)
+
+2026-11-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxONm82bnBpbnZETHg3NjBHa2F2X3RLMGN3cDRVeVhPLTVsaVJmbTJ4OHpFWjh2NUkyQ3dMZ184NzV0WlJZZDZaUE5GeWlFY0IwTENaLUNrSDlrUWhsUFpDdmxWTVc3Y3JqZ1J4UzFFQVpBN2lmMU41S1pyc0drVFhMampRS2ppOHh0clY4N25RSE02SGZQQVpNMXlZZ1hfbGNONVB6VmhBc0xIUFNEamhEeDVHQ2ZHckJhYTFZQ3dR?oc=5)
+
+---
+
 ### [Llega a España el primer medicamento GLP-1 en pastillas contra la obesidad](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmZuX1FuMHJXZkswQkZvenRXRXc2TVJyX1V5TGFzUzFZaVJJQlROaEprWXNzYkJvTkVnX3JTQkM2ekhGQnNLUG1lamdXWktHNjZjbzU0VkkyQjVPYl9tbEdsa0dPbUcxSktidkZGakNmMkpHZVpFYTBqaWtUUlAzVERQdWlaVmp4NV9CZHdzWjFibURvdVpCLW1uTnBRQ1ZVNjdkcXJ3aFo5anFzLUNaWXBrMlo4LWc?oc=5)
 
 2026-11-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
@@ -164,6 +196,14 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWZ
 2026-11-04 <span class="news-drug-tag">Semaglutide</span>
 
 Source: [Redacción médica](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOM1djWjJhU2V3NVhpVmpUbjJlMU1PSHVUakFsYTVfWjZvRnAxSy1fZndreUZZTl85X2F0bmZSTXozTHNObE5GaFBTbjNjV3dQVG9YWlVLSkNEQ3NEOVdub3pBSm5UbkcxN3d3R0xCMGJLTTVRdGEzOGZKZjNZZXhMRnlRdHZWNlFsaVhNNGV4c3hrSTNwTFFEcDhlT25JcjJrbnkxZ3IzdHp2MXdwWXFwd2VTUkRpelY0OW0zOHU2Sl9yUmhsUGxwT0wwTlRaUTRnWWFGckZyb1VNa3dRUlVBUXpGQ0xURXQwNkpfS2ZUZW9SVDFmNzJRMGVHVFbSAYICQVVfeXFMTWZ0Q3NwMVJnWW9xckdpR2FNamVDRS1pbExuV25uaWRKbjd3S1kwLUZqbjNOdlU0ZGhBNVBqZWFobERtMkk1aXl6V0NXQzFTZ2NkVG9jRkNtaUlva0xmT25BQmJNcEtXUnNjWXVsNHo5VEkyVzk1WEQ4WjJpMEtXVkpKRUpHN0xmaTVYZUFHREdqNXFWbjJOSldfU2R3QjdEMW1xNGZ6Qm50Q1pTalNfakxNZ2JqMWktWWF1ZktOcHFpWGZvM0JabFJMZjFKa2ZIdndRTExxZV9iQ09WY1J5bnJhaXFvY0gxc0tFU3oyY3VoYTJ1X2VmQmZWS2RzbHdLbjB3?oc=5)
+
+---
+
+### [El mercado de fármacos contra la obesidad sigue creciendo con la pastilla de Wegovy](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDk3LWdsN3pXMDlDTWR4cncyUkNDRnlZdFNvQzNPMlFISWFkVTBNSHNZS1h1cHRUeFdQZWJGR2g4WERqWjVkbUlyRkdlYlhwOEdfbE9Gb3NiblRXTXhyN2RDSndzX0FoRnVIU3dJNndacnliaExTS3JSZ2RCSm5jOTNnMGc5YWZ4TTdNakFId0VnLWptMkRTTWR0WUpaamc4TmdRYk5LS1lKd9IBrwFBVV95cUxNcUlISk4wRTEwTFRJdVJSZEtSZEYxaGN5V21jU2U2c19uZ1o0ZlVWZXYzZWlsOHFxNFZOcjB4bTdnNllYbnVFWkp3ejhGSU5uWmlPNkxWRU1ZRlN0UjRnUXhtVThUUlJsY2VBSFFicG9Ld3k3QUVuZEQybzc3OTdiaWk0bm96dGVzTmxEVms4NnBmVk9lYjlLRnJRcUhtcm5NaVpBY05fa0lIR3FxMzZJ?oc=5)
+
+2026-11-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [elDiario.es](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDk3LWdsN3pXMDlDTWR4cncyUkNDRnlZdFNvQzNPMlFISWFkVTBNSHNZS1h1cHRUeFdQZWJGR2g4WERqWjVkbUlyRkdlYlhwOEdfbE9Gb3NiblRXTXhyN2RDSndzX0FoRnVIU3dJNndacnliaExTS3JSZ2RCSm5jOTNnMGc5YWZ4TTdNakFId0VnLWptMkRTTWR0WUpaamc4TmdRYk5LS1lKd9IBrwFBVV95cUxNcUlISk4wRTEwTFRJdVJSZEtSZEYxaGN5V21jU2U2c19uZ1o0ZlVWZXYzZWlsOHFxNFZOcjB4bTdnNllYbnVFWkp3ejhGSU5uWmlPNkxWRU1ZRlN0UjRnUXhtVThUUlJsY2VBSFFicG9Ld3k3QUVuZEQybzc3OTdiaWk0bm96dGVzTmxEVms4NnBmVk9lYjlLRnJRcUhtcm5NaVpBY05fa0lIR3FxMzZJ?oc=5)
 
 ---
 

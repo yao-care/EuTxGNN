@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Tadalafil?">
-<strong>Tadalafil</strong> currently has <strong>64 news articles</strong>, with 8 predicted indications.
+<strong>Tadalafil</strong> currently has <strong>67 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Tadalafil with the latest he
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (64)
+## Related News (67)
+
+### [Vitamin D: Morgens oder abends einnehmen? Das empfiehlt der Arzt - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHNoVVQ4MjhndFhqdjE4cC04czUtcnVhakxLNXNENmdSVFFsS1JXbTJkMHEtX2J4V2hjYkd1WHJkMlF5b3JhLUQ1cENDV2MwOHdDQTZnZEVtSDZBbVlNZy1aYWZhZFJRWjNDNWVWNWlvX08yT2tlUWtaTUZSUm5Ca05HblNJYkJUTE9zWWRZTTVNNnRFTmJncEdtcmdlRDNOa3RibjZLbGZ4aE5hTk03ZTlpb200SjNRZ1JR?oc=5)
+
+2026-11-10 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHNoVVQ4MjhndFhqdjE4cC04czUtcnVhakxLNXNENmdSVFFsS1JXbTJkMHEtX2J4V2hjYkd1WHJkMlF5b3JhLUQ1cENDV2MwOHdDQTZnZEVtSDZBbVlNZy1aYWZhZFJRWjNDNWVWNWlvX08yT2tlUWtaTUZSUm5Ca05HblNJYkJUTE9zWWRZTTVNNnRFTmJncEdtcmdlRDNOa3RibjZLbGZ4aE5hTk03ZTlpb200SjNRZ1JR?oc=5)
+
+---
+
+### [Vorhofflimmern: Bis zu 50 Prozent der Betroffenen spüren kaum Symptome](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRldCaWdMQnh6MkdmejhGSWtmNmFMNVhVMFhkV1RyY1lwUzFNRTBTNkp0WFY5b3JuLWo0Uk5QakwxcUUxdTZWLVJDbEVjS0g1UWtyTjVhY1dPQXN5bVRUd1RmNzA1aDZ4UHg3aGI0aHNoeHJQZFc1a0MzNmJwOGpzRmhDbFB5UFJBMXFzU0o5bHBwWV95YWxrTkFkOTYycGpCVXZ3aVlzTjNMZENKMkVMVDVtLWxIQVFWZjdZ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRldCaWdMQnh6MkdmejhGSWtmNmFMNVhVMFhkV1RyY1lwUzFNRTBTNkp0WFY5b3JuLWo0Uk5QakwxcUUxdTZWLVJDbEVjS0g1UWtyTjVhY1dPQXN5bVRUd1RmNzA1aDZ4UHg3aGI0aHNoeHJQZFc1a0MzNmJwOGpzRmhDbFB5UFJBMXFzU0o5bHBwWV95YWxrTkFkOTYycGpCVXZ3aVlzTjNMZENKMkVMVDVtLWxIQVFWZjdZ?oc=5)
+
+---
 
 ### [Heimsensor für Vorhofflimmern: Nur 15,4 Prozent der Alarme trafen - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUczajZUck91UWxmNnc2S1NTbTRtQWRQcFpzLWlwNnpyTGNJZW5pb0dYWXJnQVR1TEY3Sk0ybGdRREF0MXJrT1ZzQmxIbzdWbFBoN2Q0M2QwWTlwcWN4dG5naGcxcWdHbGdFdU5BRHRZWldVbkZ6YlNKcng5NVZ1eEM0eHZOUVlUVXdOUUtBRGYtb1pubG4yLXJ4SEM?oc=5)
 
@@ -79,6 +95,22 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWV9KVjFkc
 2026-11-09 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1hUUm9YaXBDR1E0SzBhdUFtZHdieDZWbmVpTU84NGg3UlkwVlVJNUd1LV9lWFpOb1YwdmE3bkdKRDRpSVRmNjNfSmRGWUpPd0ZBUVdVRlg5blRTWlRGS1g1cktQVkZ0Q29tb1NObHlOQWJuZU8wVEU0d01lV3NBbk9CSTF3eUFjVmcwcEdPSEVvd0tqS3MtUGlCOVBxQUhRNDhRbmVIU2VhOWZLb1NQWUJDTHgtSzA5cFNGRW5fUld1cjVjYVHSAcsBQVVfeXFMTjdBQjFRb196dTVETlRvbnhmSTI5eDdnQlhRZTI1R09fNzhieDV2bUJwT1h3ZHJzTmhtUWhGMzN1a2dPcGktT0VMcDNjMG10SGxoSWVoamUzTDdodG03UDd3YXBIRzhVX2h2cXFxRUNvWTROVWRNMkhHeHQ1dHVkaDhEMlc0WW5ydk1zenhMbHFjWHJmeVBZaWJjVHNDcGoxZjVmTHhXdlN0bjBHRDg0eGpBdHBXT3JxMjZ2VnhIS18weVo2OTlvTXhDQTQ?oc=5)
+
+---
+
+### [Night-time habit could be early warning for stroke or heart failure - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZFhsTjNrUXg5dk1lNmRCTWtlNUhaSS1sX2VtMXJDUGNSQnYwVzZJTGNnN09FNVdUV1BkcTEwRU5obFZ5SFd3NjFxbzF5M0NJaUw3eWM0Q2ExTjdZdlIwV3NWVExCLWNmQ1JzaTdOdG5ON0ZBbXdzSXc5R0k?oc=5)
+
+2026-11-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZFhsTjNrUXg5dk1lNmRCTWtlNUhaSS1sX2VtMXJDUGNSQnYwVzZJTGNnN09FNVdUV1BkcTEwRU5obFZ5SFd3NjFxbzF5M0NJaUw3eWM0Q2ExTjdZdlIwV3NWVExCLWNmQ1JzaTdOdG5ON0ZBbXdzSXc5R0k?oc=5)
+
+---
+
+### [Alzheimer's study finds symptom starts in ear 10 years before memory loss - Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
+
+2026-11-09 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
 
 ---
 
@@ -231,14 +263,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmRjZ1g3
 2026-11-05 <span class="news-indication-tag">hipertensión</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHdDdVJDSEJtTDFfSktzejl2d1BUV1BVUlBDNGZOeDdRWHZEZkhpcm9CeUF5bXdqWHRVOHVUMHM4LUkzNGtIU1pNSm5aRFVSanBublVkaTV4bS0yRmh0RnZhU3pnQzhPRTloR01SMWhtQkVvbUhDakMzVy0tZGsxeHVvZnNBUXRXS2U4eFJ4bXdUOTJyQmJOQW5nVmE3Q1ZPanhMQnEtdTBiRXRmYkZ5SElFWmJkbFZSVlNmTUkyZ2xJaERTZkV0bHJIVG1wVTQ?oc=5)
-
----
-
-### [Schlaganfall-Prävention: Zehn Risikofaktoren erklären rund 90 Prozent des Risikos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzF1Z192aVg0ckVBRUVZamVjaFhBckE1Z1JranVxN2FpWFNCVDQ1NkE2UGI4dko2Tlptc21oRGxtb3VJTVhmYl82MFRHOEJkRVptRjBYd01qaDJYX195WGVCM0ZRN19XWldYaWdXZ2UwRC1PMnF3N0dkaVYzSEFqYzdjM1ptV2VHUVdYRUFGSmdPaEM0SWJEdWxYcmRaSDlzUGFFMHdjZWgzYi1mLUhNczV2N0RMN3dEU05hYWthemZBWDJrN0pDcnVocw?oc=5)
-
-2026-11-05 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzF1Z192aVg0ckVBRUVZamVjaFhBckE1Z1JranVxN2FpWFNCVDQ1NkE2UGI4dko2Tlptc21oRGxtb3VJTVhmYl82MFRHOEJkRVptRjBYd01qaDJYX195WGVCM0ZRN19XWldYaWdXZ2UwRC1PMnF3N0dkaVYzSEFqYzdjM1ptV2VHUVdYRUFGSmdPaEM0SWJEdWxYcmRaSDlzUGFFMHdjZWgzYi1mLUhNczV2N0RMN3dEU05hYWthemZBWDJrN0pDcnVocw?oc=5)
 
 ---
 

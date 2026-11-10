@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "depresión (depression) News"
+title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 25 articles, 7 related drugs."
+description: "Health news about dépression (depression). 27 articles, 7 related drugs."
 permalink: /news/depression/
 last_modified_at: 2026-11-10
 ---
 
-# depresión (depression) News
+# dépression (depression) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>25 news articles</strong> and 7 related drugs.
+<p class="key-answer" data-question="What news is there about dépression (depression)?">
+<strong>dépression (depression)</strong> currently has <strong>27 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “depresión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dépression” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -34,7 +34,23 @@ This page brings together the latest health news about “depresión” and list
 </ul>
 </div>
 
-## Related News (25)
+## Related News (27)
+
+### [Alzheimer's study finds symptom starts in ear 10 years before memory loss - Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
+
+2026-11-09
+
+Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
+
+---
+
+### [Professeur Roenneberg, chronobiologiste : "En novembre, nous faisons tous la même erreur. Elle fatigue encore plus" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMihgFBVV95cUxPa3RXcmhEMWxJZHlxRUlhYVN1X19pZnVMVUp0UHFZcTFQTDdHdi1TbnJSYlRNNFlUX25FTGtKRzg0bVpXdS1XZ0gxOVEzZnAyX2doc1Y4ZTQ1eEdtWDZHT2Z4eF8xdlpNajZNcXNRSHRrZ283SkVaYkN4R0lrbkVsbkd0b3Z0QQ?oc=5)
+
+2026-11-09
+
+Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMihgFBVV95cUxPa3RXcmhEMWxJZHlxRUlhYVN1X19pZnVMVUp0UHFZcTFQTDdHdi1TbnJSYlRNNFlUX25FTGtKRzg0bVpXdS1XZ0gxOVEzZnAyX2doc1Y4ZTQ1eEdtWDZHT2Z4eF8xdlpNajZNcXNRSHRrZ283SkVaYkN4R0lrbkVsbkd0b3Z0QQ?oc=5)
+
+---
 
 ### [Flora intestinale e umore: come i batteri modulano intestino e sistema nervoso](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSG9ZTFJxXzJFZi1sQjNlQi1ScEJ2d0ttUlQ1anZkbDIwZmNpY3RXNUZfRHpNOFpjU0RNX3FoMzBNZHlJdEN5ZE1tVUIwQS1BUXN5eE1uMFR2eXFadXVBalh5eEZMUldua3J4QzJPZi00bUJQV3V3NTYzTVVpbkVSSXF6Rk5LVHNQSG9XeXNLUmRKeGl0VXplY293T216Z0JBb1k2b1R5bUhBcDR0eTJkaWRmT2pTR1U1cFpvU1VoQVBYRy1UOFZGSGlB?oc=5)
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "ictus (stroke) News"
+title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 63 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 67 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-10
 ---
 
-# ictus (stroke) News
+# Schlaganfall (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>63 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
+<strong>Schlaganfall (stroke)</strong> currently has <strong>67 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,13 +35,29 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (63)
+## Related News (67)
+
+### [Unregelmäßiger Schlaf könnte dem Herzen schaden](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGxNS2JnWTZVM3B5RGpGTHlubklIaHNMTHFzRWc5bHZzbEd5Uk9lZkxocThQWWkzV3c5QlhlaXJTN2ItZFZXcTJwczZrTzZpR0xMTUN0NGUtYU0yMThlTEhSbTFqV0hZNWJsNXpRb2V4d2R1d3VtM0g1MDdUTUhkTVNDWVRHZWNjdW95all6VQ?oc=5)
+
+2026-11-09
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGxNS2JnWTZVM3B5RGpGTHlubklIaHNMTHFzRWc5bHZzbEd5Uk9lZkxocThQWWkzV3c5QlhlaXJTN2ItZFZXcTJwczZrTzZpR0xMTUN0NGUtYU0yMThlTEhSbTFqV0hZNWJsNXpRb2V4d2R1d3VtM0g1MDdUTUhkTVNDWVRHZWNjdW95all6VQ?oc=5)
+
+---
 
 ### [Mantener un horario regular de sueño ayuda a proteger la salud del corazón](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
 
 2026-11-09
 
 Source: [ConSalud](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkQwT0xuOUVPUHl6RDMtMXd4SzdTak40b1dwb1Z5LW0xSjJVampoUzNjTnlKVDZFU2JrS2tGYl90Nm1FLW05V1hkcVZaRXk3eGtMQkt4ZnNBZnNQTDBtXzNndWkwVXdKNGxqUEw3bTRrTFpFdC1QY1dGeGVJRW9hU1hMcjRjbFdSTUJUdkJPejlONktWT3hoOFEzVENHV3ZoQUZuc2xYZ1ZTWUE2dWRKTkt2dw?oc=5)
+
+---
+
+### [Night-time habit could be early warning for stroke or heart failure - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZFhsTjNrUXg5dk1lNmRCTWtlNUhaSS1sX2VtMXJDUGNSQnYwVzZJTGNnN09FNVdUV1BkcTEwRU5obFZ5SFd3NjFxbzF5M0NJaUw3eWM0Q2ExTjdZdlIwV3NWVExCLWNmQ1JzaTdOdG5ON0ZBbXdzSXc5R0k?oc=5)
+
+2026-11-09
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZFhsTjNrUXg5dk1lNmRCTWtlNUhaSS1sX2VtMXJDUGNSQnYwVzZJTGNnN09FNVdUV1BkcTEwRU5obFZ5SFd3NjFxbzF5M0NJaUw3eWM0Q2ExTjdZdlIwV3NWVExCLWNmQ1JzaTdOdG5ON0ZBbXdzSXc5R0k?oc=5)
 
 ---
 
@@ -69,6 +85,14 @@ Source: [OSTHESSEN|NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcW
 
 ---
 
+### [The stroke risk younger adults may be overlooking – and the symptoms that should never be dismissed - The Conversation](https://news.google.com/rss/articles/CBMizAFBVV95cUxOeUdsT3dsbVdLdFdkY3c2QjlDM0hoajEwVzJDMi16TG1yMFFBLURiSGxpVF9GV3BHZkI0cDFTX0s4X1lYUi1vSW5Ub25nS1Z0cjYzR0RuamVqMGNlUXVQbVZkU0VUN0VkTUVUNGMzX3NTa1BETzNVajZqaTVRNVQ1RXZtUEdNWm40dE9PZ2NfX1FMWEY4SlJkUzV4QVoxbWhweTBZcm9vdTV5TXpKU3dobUxRMG9TZl9EZGJacmhOcUlXSF9SeHpMZ0phemQ?oc=5)
+
+2026-11-08
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMizAFBVV95cUxOeUdsT3dsbVdLdFdkY3c2QjlDM0hoajEwVzJDMi16TG1yMFFBLURiSGxpVF9GV3BHZkI0cDFTX0s4X1lYUi1vSW5Ub25nS1Z0cjYzR0RuamVqMGNlUXVQbVZkU0VUN0VkTUVUNGMzX3NTa1BETzNVajZqaTVRNVQ1RXZtUEdNWm40dE9PZ2NfX1FMWEY4SlJkUzV4QVoxbWhweTBZcm9vdTV5TXpKU3dobUxRMG9TZl9EZGJacmhOcUlXSF9SeHpMZ0phemQ?oc=5)
+
+---
+
 ### [AVC : comment reconnaître les signes et pourquoi agir rapidement est la clé](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQdUJHRjJmY3pid0tENlhqWTR4VXNkSUJjaDdxZEVUcjU5cnpUaWJXaDlEMWpiSnFRNV9QRllqcUxENk84TXd1cHZQNDZJTGVJaXpiVlc0OHBrMjFWVUtpdzlsOHdZa0RPUGNtdWxwWjZUc3c?oc=5)
 
 2026-11-08
@@ -82,6 +106,14 @@ Source: [Linternaute.com](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQd
 2026-11-07
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
+
+---
+
+### [Il freddo può far male a chi è iperteso. Il cardiologo spiega come proteggere il cuore - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGxzTXdZNkhSN1h1Y1FFZjNXVEVRc0ZJR0NSY2FCTnlDU3hwNEdOSjBycU5ubFI2Sllvb3ljdW5OMUZXLTZDMWczR21jSDBvWVFQcG1nSDc4TElTcjRwQzJORU9NNld1cGkweFlOSGpmT0hYMkFYakdraHJ3Q3lYTHZLNk9qLTFTQldaUy1yNENoUFhBRDlXSW5wbHR0anVteEJBUjY3OE1nSGo4TlBMNXk1TFZCaTdJZnRWd3dkZGcxc3FWVE5RSUxITC1MY0VKbkwtS1hxMmzSAcQBQVVfeXFMTVIyTWRFSGpIQjdVVDJwaGRpaXl4UXlQODB6a2x1WUtEdXc3SXZoYmRlN1B1a2h2OXJMWWtZb0M5N3ExYnFCU1NGakNoMWl1RWwwcVA4T1ZoT0V6aFFHT3paOGhEbVRyRm0zc2lXbjBTcVhqNG15M0VETUlFWkhEb0VHdFBrdGp0cjV2UXVKaHdWRUM3LXVBUmZ0dWpWckw4ZS1ZWDdnWlAyTl83bFJFcEVfbnZJcVlvN0xSdzMxWV9OMS12MA?oc=5)
+
+2026-11-07
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGxzTXdZNkhSN1h1Y1FFZjNXVEVRc0ZJR0NSY2FCTnlDU3hwNEdOSjBycU5ubFI2Sllvb3ljdW5OMUZXLTZDMWczR21jSDBvWVFQcG1nSDc4TElTcjRwQzJORU9NNld1cGkweFlOSGpmT0hYMkFYakdraHJ3Q3lYTHZLNk9qLTFTQldaUy1yNENoUFhBRDlXSW5wbHR0anVteEJBUjY3OE1nSGo4TlBMNXk1TFZCaTdJZnRWd3dkZGcxc3FWVE5RSUxITC1MY0VKbkwtS1hxMmzSAcQBQVVfeXFMTVIyTWRFSGpIQjdVVDJwaGRpaXl4UXlQODB6a2x1WUtEdXc3SXZoYmRlN1B1a2h2OXJMWWtZb0M5N3ExYnFCU1NGakNoMWl1RWwwcVA4T1ZoT0V6aFFHT3paOGhEbVRyRm0zc2lXbjBTcVhqNG15M0VETUlFWkhEb0VHdFBrdGp0cjV2UXVKaHdWRUM3LXVBUmZ0dWpWckw4ZS1ZWDdnWlAyTl83bFJFcEVfbnZJcVlvN0xSdzMxWV9OMS12MA?oc=5)
 
 ---
 

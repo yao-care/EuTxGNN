@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Dupilumab. 9 predicted indications."
 permalink: /news/dupilumab/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Dupilumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Dupilumab?">
-<strong>Dupilumab</strong> currently has <strong>7 news articles</strong>, with 9 predicted indications.
+<strong>Dupilumab</strong> currently has <strong>8 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Dupilumab with the latest he
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [EPOC: diez claves para frenar su avance y mejorar la calidad de vida - Gaceta Médica](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXNSRVlHNWRaQVVPUExLSTBPS2VXRko5ZEZtcGVHck1kNjNuT2ZyOXFaOTBvTEIyUTBsZHNESl9FOWZjb1lHRDI3MFZOT3lpU2drSkh1Ty1qX1NQZmRIUVlOTExzYm9VanRZSjlibEk5MVBBb3Y4c0hKdHFMU2k2NVVfVjU3SzlqU1E?oc=5)
+
+2026-11-10 <span class="news-indication-tag">EPOC</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXNSRVlHNWRaQVVPUExLSTBPS2VXRko5ZEZtcGVHck1kNjNuT2ZyOXFaOTBvTEIyUTBsZHNESl9FOWZjb1lHRDI3MFZOT3lpU2drSkh1Ty1qX1NQZmRIUVlOTExzYm9VanRZSjlibEk5MVBBb3Y4c0hKdHFMU2k2NVVfVjU3SzlqU1E?oc=5)
+
+---
 
 ### [RSV-Impfung bei COPD: Schutz vor Exazerbation und Herzrisiko - Medical Tribune](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcE1tcVloT0o4UllpMXZBRG9RRHViM1pUcG12RFFWM041Y0VvY3YwaW1zdUxwQ25QSi1IRU1NTllLT0RleFc4YXVoaU5UNlpsaXlWMm42bWJVNzg1R3B2VHY4dVRmdUxrNE5hQkRfSHNLY0dNZDFRZW15MnZndjBTRUZMUGIxU0ZBemZsN18waGNpWE9vaUF5TDY2aFpITnZfSl9MVXRaWHlxN2NGd09DS2NnbUJHdXFZUDcyT1pvbw?oc=5)
 

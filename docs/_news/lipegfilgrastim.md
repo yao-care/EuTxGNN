@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Lipegfilgrastim?">
-<strong>Lipegfilgrastim</strong> currently has <strong>84 news articles</strong>, with 5 predicted indications.
+<strong>Lipegfilgrastim</strong> currently has <strong>91 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,55 @@ This page combines the AI-predicted indications for Lipegfilgrastim with the lat
 <p><a href="{{ '/drugs/lipegfilgrastim/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (84)
+## Related News (91)
+
+### [Elda presenta el programa del Día Internacional de la Diabetes con concienciación, ejercicio e innovación médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxPTUxJNmdEV3lzUTF5alJiRVlneFByS3Yxbk5IZTVPU1R2NnNYVXpoSzJMdGZSLXVGZDh0cXNTRW1Xb0NFMWVhVFZWVUVhcmpuX3lyUVFzcTJycUZLeDNVUGRVVFBQd3Q0aTNWNHFMNDdSZ2xsRFJqRnlGMEk0ZnFUVUtrUnk1N2c5NkVtV3lBd1BNeDZnUHBQX0lQMzBKZzZGMktVRTV5bUZlZnZpOFJmbmZLbHp3dlZKWS1lQ2o3OEUxWUlVNmM0?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetes</span>
+
+Source: [elperiodic.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxPTUxJNmdEV3lzUTF5alJiRVlneFByS3Yxbk5IZTVPU1R2NnNYVXpoSzJMdGZSLXVGZDh0cXNTRW1Xb0NFMWVhVFZWVUVhcmpuX3lyUVFzcTJycUZLeDNVUGRVVFBQd3Q0aTNWNHFMNDdSZ2xsRFJqRnlGMEk0ZnFUVUtrUnk1N2c5NkVtV3lBd1BNeDZnUHBQX0lQMzBKZzZGMktVRTV5bUZlZnZpOFJmbmZLbHp3dlZKWS1lQ2o3OEUxWUlVNmM0?oc=5)
+
+---
+
+### [ADEBI reivindica la detección precoz para combatir la diabetes en el Bierzo - Diario de León](https://news.google.com/rss/articles/CBMiswFBVV95cUxQT1VrMjF1LWtCUFlldU9IZkVkXy1JenRqem9wMXFfbUZ3QWhmSUxmeWRQYkk4OVlmeUlqX1hmYkExY1pTR1hNRU12aHpYNjBTQVVoTl9JU0tyV2ktNEttYzNDeUcxYnRBQUVzYklxekcxN1hkbDRGcWhYTmxtR2ZJTjFxaDltZHRTeEdtS1h3YkhzM3VlZGphdlQxNFdLYzh5VW1HS1NFQ01PVmVtUEQxa2Exa9IBuAFBVV95cUxQUkh4bVR1RmhWTWoxb2FUMmg2U0RVMGlhRW5QYnlseU9zSDJlTno5UEhvMnhXQzJaY3FYcjIzRkZ5dGxOSVpabkxwdE9MSEZNcnAzNWRqUTl1TUl6TVdrMXFzVU5vamx0QzlMMXBLVEpseUZ3MmsyZkx4c0swclgwRFlYQkppRUw3Q0duOXl1cGRySmVvNWVNUl9oaG1fd2ZvOTIzWjBpNi04dU5nSlNNdnlnYXNrZEpk?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetes</span>
+
+Source: [Diario de León](https://news.google.com/rss/articles/CBMiswFBVV95cUxQT1VrMjF1LWtCUFlldU9IZkVkXy1JenRqem9wMXFfbUZ3QWhmSUxmeWRQYkk4OVlmeUlqX1hmYkExY1pTR1hNRU12aHpYNjBTQVVoTl9JU0tyV2ktNEttYzNDeUcxYnRBQUVzYklxekcxN1hkbDRGcWhYTmxtR2ZJTjFxaDltZHRTeEdtS1h3YkhzM3VlZGphdlQxNFdLYzh5VW1HS1NFQ01PVmVtUEQxa2Exa9IBuAFBVV95cUxQUkh4bVR1RmhWTWoxb2FUMmg2U0RVMGlhRW5QYnlseU9zSDJlTno5UEhvMnhXQzJaY3FYcjIzRkZ5dGxOSVpabkxwdE9MSEZNcnAzNWRqUTl1TUl6TVdrMXFzVU5vamx0QzlMMXBLVEpseUZ3MmsyZkx4c0swclgwRFlYQkppRUw3Q0duOXl1cGRySmVvNWVNUl9oaG1fd2ZvOTIzWjBpNi04dU5nSlNNdnlnYXNrZEpk?oc=5)
+
+---
+
+### [El IMIB y la Asociación de Diabetes colaboran en una investigación con pacientes diabéticos para avanzar en el conocimiento de la enfermedad - Cartagena Actualidad](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNzY0WjMyN0VqYnJFMzRfajBBbll4Z2p0TlE1UU9EU1g2ZGplVVhMWFFjOENOUXlwb1BoU0IyQm0tS1duaTBJNWltbnp5UVA3TTdROTZXSVdNTmRMTlhxWjZxVkZ1ejFrdXFKbE5PR0twWEI5SUxHM2lSQUZvc1BoSXFja1BBaHBteFFMVURQRXAtUUx6NDZVZTVkZ1l0Q2hac0taZmYzdmdLZm03T0VVU1VTNzJWOGZJWGFOdkZESWg2YUJKa0ZsX1lPMThwSlJPWV9sY1BWejI0MDNHOWw1MnRiTnkyaG95TzdDVjVTdnQwbldnd2tsaEhuWVUxQdIBgwJBVV95cUxOQW5hbk1yVGRlWkkzbFFJTVhfMXJsM0p5LUhoUUNobE1TempVYUZvRy1EUm5hUXVqUDBscHNxQTBlNjI5N01rTk5tb1VTZVFqMWlMQklJMGxYUE1iWVlUSmk5WE5LM2ZGWXZpVld2aVREaDhhanQ2ZGlFWmxTYVRpdnNFMjNYaG02VmxPb2lHeXZOb1FNYUZZY3VpUkxLNmJCRlcyUXdOUFJ4LUU1R3MyRUFHb3J2dVBVUy1pUzVraEpBelM3R0k1SF9acldCSVdleDk1YVgzcVRxejBFaC14dzRKVHBUd2F5ckNKVTlqUlViZTRrTVhQaWVwNlN1MU5qcDNz?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetes</span>
+
+Source: [Cartagena Actualidad](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNzY0WjMyN0VqYnJFMzRfajBBbll4Z2p0TlE1UU9EU1g2ZGplVVhMWFFjOENOUXlwb1BoU0IyQm0tS1duaTBJNWltbnp5UVA3TTdROTZXSVdNTmRMTlhxWjZxVkZ1ejFrdXFKbE5PR0twWEI5SUxHM2lSQUZvc1BoSXFja1BBaHBteFFMVURQRXAtUUx6NDZVZTVkZ1l0Q2hac0taZmYzdmdLZm03T0VVU1VTNzJWOGZJWGFOdkZESWg2YUJKa0ZsX1lPMThwSlJPWV9sY1BWejI0MDNHOWw1MnRiTnkyaG95TzdDVjVTdnQwbldnd2tsaEhuWVUxQdIBgwJBVV95cUxOQW5hbk1yVGRlWkkzbFFJTVhfMXJsM0p5LUhoUUNobE1TempVYUZvRy1EUm5hUXVqUDBscHNxQTBlNjI5N01rTk5tb1VTZVFqMWlMQklJMGxYUE1iWVlUSmk5WE5LM2ZGWXZpVld2aVREaDhhanQ2ZGlFWmxTYVRpdnNFMjNYaG02VmxPb2lHeXZOb1FNYUZZY3VpUkxLNmJCRlcyUXdOUFJ4LUU1R3MyRUFHb3J2dVBVUy1pUzVraEpBelM3R0k1SF9acldCSVdleDk1YVgzcVRxejBFaC14dzRKVHBUd2F5ckNKVTlqUlViZTRrTVhQaWVwNlN1MU5qcDNz?oc=5)
+
+---
+
+### [El sector sanitario de Calatayud elabora material de apoyo sobre la diabetes para los profesionales de Atención Primaria - dukvi tv](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeTVOUm5UQ0daNWRCSGtpSllCVTQwVVk2Q0xGQWRJVGU5bVhuNUE2aXhDWnFGWnNJLVhWVWdGZ0RRcHpsQkk2bW5lMjBXY2xiZUlsWTBKSGQ3S0I1TkJ2ZGYyS1d2N2VhU1A4aE1FRHhKZWNkcERkN3Y5VnpsTUJINjcxZWJRYnpncW9mb0RnRktjdk9Gd1dkMXVSX0t3OUs3ZUxidnQtcWhsNmVHajVTRG5EUVZQaGdzN3lMbGtMNkhkUmlpOTg3WGJtYVVZVUpyMXNlMzRBcFZnSTJIVHVMeE5qQQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetes</span>
+
+Source: [dukvi tv](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeTVOUm5UQ0daNWRCSGtpSllCVTQwVVk2Q0xGQWRJVGU5bVhuNUE2aXhDWnFGWnNJLVhWVWdGZ0RRcHpsQkk2bW5lMjBXY2xiZUlsWTBKSGQ3S0I1TkJ2ZGYyS1d2N2VhU1A4aE1FRHhKZWNkcERkN3Y5VnpsTUJINjcxZWJRYnpncW9mb0RnRktjdk9Gd1dkMXVSX0t3OUs3ZUxidnQtcWhsNmVHajVTRG5EUVZQaGdzN3lMbGtMNkhkUmlpOTg3WGJtYVVZVUpyMXNlMzRBcFZnSTJIVHVMeE5qQQ?oc=5)
+
+---
+
+### [Stopping weight loss drugs doubles diabetics’ heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
+
+---
+
+### [Diabetes im Fokus, Gürtelrose im Blick - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQV2QxamxReHowQlJWRFJTNlI2amUwVXY0RFEyNHJTQUp0Yl9pTFZEUW9yLUFHVDFtaGhzZGVBQ2pTOFlueGNZNmVCRmgzZk5jY3l3b1JVUDh0ZHQzUy05UUlzMGUwX0hUaXlYSHEwdzBreXAxUHBFTExCUmdEOFJ5anB6SUFNbF9pcTZOU3htdk04dzJIYWV5SjhDQWtNbFVYc1lUZUh3akhJQXhxYm9ZR2NfNXFLWm9adHRKU0JfVQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetes</span>
+
+Source: [Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQV2QxamxReHowQlJWRFJTNlI2amUwVXY0RFEyNHJTQUp0Yl9pTFZEUW9yLUFHVDFtaGhzZGVBQ2pTOFlueGNZNmVCRmgzZk5jY3l3b1JVUDh0ZHQzUy05UUlzMGUwX0hUaXlYSHEwdzBreXAxUHBFTExCUmdEOFJ5anB6SUFNbF9pcTZOU3htdk04dzJIYWV5SjhDQWtNbFVYc1lUZUh3akhJQXhxYm9ZR2NfNXFLWm9adHRKU0JfVQ?oc=5)
+
+---
 
 ### [Prädiabetes und Adipositas: GLP-1-Medikamente senken Diabetesrisiko um 31 Prozent](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcHVzNXNYQ2dqYlEtNlowd1lJQ2F2M3lsUEtZNWJ6SkF3RC1vbk8tOUNkT0dmaVNFQy00ZXRTS2hPXzRxQ1hHdFJLWlRib0JqVWpVM2llTDUwRFpJTXpQSURZX2pfYWlBUjNyalFrVVgtNktGNXdSUnRzVXFvQXN4S0k2RHp5WW45c1hkcXc3bUtzNmNaMUhDRC1IQWRnb2RpRVFNeHU5WlhTUF9ZeWlWc3liekpSc0ZlVnhVal91TmZWYng1a2dNQUN3?oc=5)
 
@@ -52,6 +100,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcH
 2026-11-09 <span class="news-indication-tag">diabetes</span>
 
 Source: [SWR](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3hQa3BuMEVibFVfTDJ6NUNCd3hNZFVYUlRzOF9IaGp6LXBkajluYjAyUkhuRW1kQ3JEQTY3Z1N1ZDltZGxkeGN0bjFyUlZFdnlyS0doWFhZMHlPOGZvWm9DeGEtVzVjWmtKQThPdzE2UERRUDd6dXRkUWhIWWY3SnJNb2YwcThEZlltTmdZOVBRNUg4VVR0cHB6LUVsd0U?oc=5)
+
+---
+
+### [Diabete e salute del fegato: a Genova l'open day con controlli gratuiti e senza prenotazione](https://news.google.com/rss/articles/CBMiekFVX3lxTE1HTVhjS3o5Q1VlOWQ3cDVwUkJMWDlleUhvRVMwUGFTX19jQ3hvOTBYSzFMMEszc0pjMEZla0VFc0R4ZG9MZ3pRWktzVEw5VjUyUVk2WHFHQjhXMEQ1ZWxzSEpIV1V5SlhpYmI1eDdvNnVVSEZHc1VIXzlB?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabete</span>
+
+Source: [GenovaToday](https://news.google.com/rss/articles/CBMiekFVX3lxTE1HTVhjS3o5Q1VlOWQ3cDVwUkJMWDlleUhvRVMwUGFTX19jQ3hvOTBYSzFMMEszc0pjMEZla0VFc0R4ZG9MZ3pRWktzVEw5VjUyUVk2WHFHQjhXMEQ1ZWxzSEpIV1V5SlhpYmI1eDdvNnVVSEZHc1VIXzlB?oc=5)
 
 ---
 

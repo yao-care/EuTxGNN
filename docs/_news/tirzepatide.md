@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>15 news articles</strong>, with 0 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>19 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (19)
+
+### [La "punturina magica" per dimagrire può rendere ciechi: la nuova avvertenza sui farmaci anti-obesità](https://news.google.com/rss/articles/CBMif0FVX3lxTE04a3dTUkJueDFZSVVQWkY2aEthT0p5R1pWbHJSWVlxZXFkc1FrbUZGdGU1LXVENnlqQ2EzMVE2a3h1Zm95VlVFOHVtR3JhVHhkUEl6T01uVnUxbVplZmVGbGJkT3lnaUVWSmJtMm1jVGdlMHhtNGxISzVEX2RzcW_SAX9BVV95cUxQd0gxWVJBSDdzTUNpNjluR0ozdjJmVUVvcjlzYWhJbjliM0JxTWV2MHZSeGZPTE1HWEhka0p4TXhmaS1ETTBKcDV1Ym9WTDdDM2hWSEN1am9BeTkxaElVWm53ZkNOTGFuZWVGR0pVUjlmZjF1blRuVWIyR2VhZVBF?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Today](https://news.google.com/rss/articles/CBMif0FVX3lxTE04a3dTUkJueDFZSVVQWkY2aEthT0p5R1pWbHJSWVlxZXFkc1FrbUZGdGU1LXVENnlqQ2EzMVE2a3h1Zm95VlVFOHVtR3JhVHhkUEl6T01uVnUxbVplZmVGbGJkT3lnaUVWSmJtMm1jVGdlMHhtNGxISzVEX2RzcW_SAX9BVV95cUxQd0gxWVJBSDdzTUNpNjluR0ozdjJmVUVvcjlzYWhJbjliM0JxTWV2MHZSeGZPTE1HWEhka0p4TXhmaS1ETTBKcDV1Ym9WTDdDM2hWSEN1am9BeTkxaElVWm53ZkNOTGFuZWVGR0pVUjlmZjF1blRuVWIyR2VhZVBF?oc=5)
+
+---
+
+### [Retatrutida reduce el dolor de rodilla frente a placebo en dos ensayos](https://news.google.com/rss/articles/CBMicEFVX3lxTE11V2dTaXhjVzFJTEJBM0thSUVJZEtJZ3c4T2hTV3ZlN0JtTnNFOTdOWktmcWJfb3hyOUtCQ3pfLXgzODhhT3FnOGtPTThBekNyU3cxR1F0eWhyaDJnajFlN0tLZ0xOOHN0alAzSHJtSmc?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [https://fomoera.com/](https://news.google.com/rss/articles/CBMicEFVX3lxTE11V2dTaXhjVzFJTEJBM0thSUVJZEtJZ3c4T2hTV3ZlN0JtTnNFOTdOWktmcWJfb3hyOUtCQ3pfLXgzODhhT3FnOGtPTThBekNyU3cxR1F0eWhyaDJnajFlN0tLZ0xOOHN0alAzSHJtSmc?oc=5)
+
+---
 
 ### [La FDA ordena incluir nuevas advertencias sobre riesgos oculares por uso de Ozempic y Zepbound - CNN en Español](https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWU2VFFHVHFsS19JOU9uS0ZCRl92YS1aZXB2c1RELVltdDVEVVhLSC1fQjNyYm04bzBfOXVqcTFGZVV4emNPN09BRWFLOUNjOEVQT2gtVnhhM1IxdmQwaVVvRl9jTmY4ZDg0WVdlT2FPNTBMMURsSjVkZjVmVXMxb3ZqQXVqdE1EMS1vbzd3N1ZjMDZCQ2c?oc=5)
 
@@ -48,9 +64,17 @@ Source: [Xataka](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWUxLQmNfM2
 
 ---
 
+### [Retatrutide reduces knee pain and body weight in osteoarthritis patients](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">obesity</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
+
+---
+
 ### [Psoriasis: cómo tratarla y evitar que afecte otras partes del organismo - Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 
-2026-11-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
+2026-11-08 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">artritis</span>
 
 Source: [Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 
@@ -61,6 +85,14 @@ Source: [Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZ
 2026-11-06 <span class="news-indication-tag">artrite</span>
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+---
+
+### [Dispensazione di tirzepatide e analoghi agonisti recettoriali - OMCeO Milano](https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3JTU2hUZDlycGJRRXFGOXJqemI0VTdoOUJSeGthcFBBLVk5a2J3TnlvYkhlT29wVTBuLXpmdGYydjBHNW15R2xtUnFJU2EzV0pZemlBdGVxZk9FSlNkSGpvVURGVXNvVkdNSEpwRFJjcmVEU19VMFlKSTJJdFhFU0Q3TXE2endyUGFMZVZ2U0ZfUnRITkJsNXUzcjdFQ1U?oc=5)
+
+2026-11-05 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
+
+Source: [OMCeO Milano](https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3JTU2hUZDlycGJRRXFGOXJqemI0VTdoOUJSeGthcFBBLVk5a2J3TnlvYkhlT29wVTBuLXpmdGYydjBHNW15R2xtUnFJU2EzV0pZemlBdGVxZk9FSlNkSGpvVURGVXNvVkdNSEpwRFJjcmVEU19VMFlKSTJJdFhFU0Q3TXE2endyUGFMZVZ2U0ZfUnRITkJsNXUzcjdFQ1U?oc=5)
 
 ---
 

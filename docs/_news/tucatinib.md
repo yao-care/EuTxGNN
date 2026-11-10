@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Tucatinib?">
-<strong>Tucatinib</strong> currently has <strong>67 news articles</strong>, with 0 predicted indications.
+<strong>Tucatinib</strong> currently has <strong>70 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Tucatinib with the latest he
 <p><a href="{{ '/drugs/tucatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (67)
+## Related News (70)
+
+### [Vitamin D: Morgens oder abends einnehmen? Das empfiehlt der Arzt - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHNoVVQ4MjhndFhqdjE4cC04czUtcnVhakxLNXNENmdSVFFsS1JXbTJkMHEtX2J4V2hjYkd1WHJkMlF5b3JhLUQ1cENDV2MwOHdDQTZnZEVtSDZBbVlNZy1aYWZhZFJRWjNDNWVWNWlvX08yT2tlUWtaTUZSUm5Ca05HblNJYkJUTE9zWWRZTTVNNnRFTmJncEdtcmdlRDNOa3RibjZLbGZ4aE5hTk03ZTlpb200SjNRZ1JR?oc=5)
+
+2026-11-10 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHNoVVQ4MjhndFhqdjE4cC04czUtcnVhakxLNXNENmdSVFFsS1JXbTJkMHEtX2J4V2hjYkd1WHJkMlF5b3JhLUQ1cENDV2MwOHdDQTZnZEVtSDZBbVlNZy1aYWZhZFJRWjNDNWVWNWlvX08yT2tlUWtaTUZSUm5Ca05HblNJYkJUTE9zWWRZTTVNNnRFTmJncEdtcmdlRDNOa3RibjZLbGZ4aE5hTk03ZTlpb200SjNRZ1JR?oc=5)
+
+---
 
 ### [Wirkung hält über Jahre an: Neues Medikament kann womöglich Bluthochdruck heilen](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTi03em54NlcxMmpaYlRkRXF3X1pCY2FwbG5mQWhrTDZjUzR1SldCMEQ3WDZOdnBvd1Y3QUk1ZlV1cEx0Rzd1UHdENWF1VllEVXJXSV9qbGR5eU9TUGI4QUVhMGtmamN3NVNsSmZiQVNKZmVaZjJNaVE4Y2hQcU9XZHVXTlJOclVfNGdibmpfeHpWd0E3SGNwaF9sUFg?oc=5)
 
@@ -61,6 +69,30 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWV9KVjFkc
 2026-11-09 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1hUUm9YaXBDR1E0SzBhdUFtZHdieDZWbmVpTU84NGg3UlkwVlVJNUd1LV9lWFpOb1YwdmE3bkdKRDRpSVRmNjNfSmRGWUpPd0ZBUVdVRlg5blRTWlRGS1g1cktQVkZ0Q29tb1NObHlOQWJuZU8wVEU0d01lV3NBbk9CSTF3eUFjVmcwcEdPSEVvd0tqS3MtUGlCOVBxQUhRNDhRbmVIU2VhOWZLb1NQWUJDTHgtSzA5cFNGRW5fUld1cjVjYVHSAcsBQVVfeXFMTjdBQjFRb196dTVETlRvbnhmSTI5eDdnQlhRZTI1R09fNzhieDV2bUJwT1h3ZHJzTmhtUWhGMzN1a2dPcGktT0VMcDNjMG10SGxoSWVoamUzTDdodG03UDd3YXBIRzhVX2h2cXFxRUNvWTROVWRNMkhHeHQ1dHVkaDhEMlc0WW5ydk1zenhMbHFjWHJmeVBZaWJjVHNDcGoxZjVmTHhXdlN0bjBHRDg0eGpBdHBXT3JxMjZ2VnhIS18weVo2OTlvTXhDQTQ?oc=5)
+
+---
+
+### [Night-time habit could be early warning for stroke or heart failure - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZFhsTjNrUXg5dk1lNmRCTWtlNUhaSS1sX2VtMXJDUGNSQnYwVzZJTGNnN09FNVdUV1BkcTEwRU5obFZ5SFd3NjFxbzF5M0NJaUw3eWM0Q2ExTjdZdlIwV3NWVExCLWNmQ1JzaTdOdG5ON0ZBbXdzSXc5R0k?oc=5)
+
+2026-11-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZFhsTjNrUXg5dk1lNmRCTWtlNUhaSS1sX2VtMXJDUGNSQnYwVzZJTGNnN09FNVdUV1BkcTEwRU5obFZ5SFd3NjFxbzF5M0NJaUw3eWM0Q2ExTjdZdlIwV3NWVExCLWNmQ1JzaTdOdG5ON0ZBbXdzSXc5R0k?oc=5)
+
+---
+
+### [Alzheimer's study finds symptom starts in ear 10 years before memory loss - Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
+
+2026-11-09 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
+
+---
+
+### [Retatrutide reduces knee pain and body weight in osteoarthritis patients](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">obesity</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
 
 ---
 
@@ -98,7 +130,7 @@ Source: [Journal du Geek](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR
 
 ### [Psoriasis: cómo tratarla y evitar que afecte otras partes del organismo - Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 
-2026-11-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
+2026-11-08 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">artritis</span>
 
 Source: [Canal 12 Web](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmxZR2E4NEE5MWFieTk5UlZiVkxYSWQwMkt5LTFieWJxaTNYdlF0MTFpSkVXZTJ2THIyUWJ3SmtUcXVZT0hGdmFaWXNlNzlvVmstWlk5TEpzVG02cVhsaU1KVmptX29GSDh0MV9VN25XWGdHeDZtUm11SGZUNTgwSWJLUkpOTXpLOVZZdVc3V3RnanhIWmtMMkh3?oc=5)
 
@@ -221,14 +253,6 @@ Source: [El Economista](https://news.google.com/rss/articles/CBMixwJBVV95cUxOZm9
 2026-11-05 <span class="news-indication-tag">hipertensión</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHdDdVJDSEJtTDFfSktzejl2d1BUV1BVUlBDNGZOeDdRWHZEZkhpcm9CeUF5bXdqWHRVOHVUMHM4LUkzNGtIU1pNSm5aRFVSanBublVkaTV4bS0yRmh0RnZhU3pnQzhPRTloR01SMWhtQkVvbUhDakMzVy0tZGsxeHVvZnNBUXRXS2U4eFJ4bXdUOTJyQmJOQW5nVmE3Q1ZPanhMQnEtdTBiRXRmYkZ5SElFWmJkbFZSVlNmTUkyZ2xJaERTZkV0bHJIVG1wVTQ?oc=5)
-
----
-
-### [Schlaganfall-Prävention: Zehn Risikofaktoren erklären rund 90 Prozent des Risikos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzF1Z192aVg0ckVBRUVZamVjaFhBckE1Z1JranVxN2FpWFNCVDQ1NkE2UGI4dko2Tlptc21oRGxtb3VJTVhmYl82MFRHOEJkRVptRjBYd01qaDJYX195WGVCM0ZRN19XWldYaWdXZ2UwRC1PMnF3N0dkaVYzSEFqYzdjM1ptV2VHUVdYRUFGSmdPaEM0SWJEdWxYcmRaSDlzUGFFMHdjZWgzYi1mLUhNczV2N0RMN3dEU05hYWthemZBWDJrN0pDcnVocw?oc=5)
-
-2026-11-05 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzF1Z192aVg0ckVBRUVZamVjaFhBckE1Z1JranVxN2FpWFNCVDQ1NkE2UGI4dko2Tlptc21oRGxtb3VJTVhmYl82MFRHOEJkRVptRjBYd01qaDJYX195WGVCM0ZRN19XWldYaWdXZ2UwRC1PMnF3N0dkaVYzSEFqYzdjM1ptV2VHUVdYRUFGSmdPaEM0SWJEdWxYcmRaSDlzUGFFMHdjZWgzYi1mLUhNczV2N0RMN3dEU05hYWthemZBWDJrN0pDcnVocw?oc=5)
 
 ---
 

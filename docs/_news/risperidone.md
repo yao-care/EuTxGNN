@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Risperidone?">
-<strong>Risperidone</strong> currently has <strong>6 news articles</strong>, with 4 predicted indications.
+<strong>Risperidone</strong> currently has <strong>7 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Risperidone with the latest 
 <p><a href="{{ '/drugs/risperidone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Vorhofflimmern: Bis zu 50 Prozent der Betroffenen spüren kaum Symptome](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRldCaWdMQnh6MkdmejhGSWtmNmFMNVhVMFhkV1RyY1lwUzFNRTBTNkp0WFY5b3JuLWo0Uk5QakwxcUUxdTZWLVJDbEVjS0g1UWtyTjVhY1dPQXN5bVRUd1RmNzA1aDZ4UHg3aGI0aHNoeHJQZFc1a0MzNmJwOGpzRmhDbFB5UFJBMXFzU0o5bHBwWV95YWxrTkFkOTYycGpCVXZ3aVlzTjNMZENKMkVMVDVtLWxIQVFWZjdZ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRldCaWdMQnh6MkdmejhGSWtmNmFMNVhVMFhkV1RyY1lwUzFNRTBTNkp0WFY5b3JuLWo0Uk5QakwxcUUxdTZWLVJDbEVjS0g1UWtyTjVhY1dPQXN5bVRUd1RmNzA1aDZ4UHg3aGI0aHNoeHJQZFc1a0MzNmJwOGpzRmhDbFB5UFJBMXFzU0o5bHBwWV95YWxrTkFkOTYycGpCVXZ3aVlzTjNMZENKMkVMVDVtLWxIQVFWZjdZ?oc=5)
+
+---
 
 ### [Heimsensor für Vorhofflimmern: Nur 15,4 Prozent der Alarme trafen - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUczajZUck91UWxmNnc2S1NTbTRtQWRQcFpzLWlwNnpyTGNJZW5pb0dYWXJnQVR1TEY3Sk0ybGdRREF0MXJrT1ZzQmxIbzdWbFBoN2Q0M2QwWTlwcWN4dG5naGcxcWdHbGdFdU5BRHRZWldVbkZ6YlNKcng5NVZ1eEM0eHZOUVlUVXdOUUtBRGYtb1pubG4yLXJ4SEM?oc=5)
 
