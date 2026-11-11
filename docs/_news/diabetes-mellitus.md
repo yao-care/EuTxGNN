@@ -3,9 +3,9 @@ layout: default
 title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 97 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 99 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # diabetes (diabetes mellitus) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>97 news articles</strong> and 86 related drugs.
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>99 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,13 +64,29 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (97)
+## Related News (99)
+
+### [¿Qué pasa realmente cuando dejas Ozempic? Los efectos secundarios que debes conocer - National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
+
+2026-11-10
+
+Source: [National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
+
+---
 
 ### [I’m a GP and ignored diabetes warning signs for 10 years until a nifty gadget revealed my ‘danger’ food - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMWF0cmpXa0ZUZkhFcDJUSEprTHVnbXVZc3hIaDZSZFpzUlAwVi1NbVlTNGVnckwxZDZsS1FUdF8wWFBTUnl2cHBUOU1qRnhTVkk0ZXp5LUgtQUV3MXZqZE1hQjlmN1o3M0V6OEo4Q1FxeHI4VTJOVGdEUERfeXdhVVBIVHJQRWUwbVpKcmdsZHVmRFRsYlF4bzRiUQ?oc=5)
 
 2026-11-10
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMWF0cmpXa0ZUZkhFcDJUSEprTHVnbXVZc3hIaDZSZFpzUlAwVi1NbVlTNGVnckwxZDZsS1FUdF8wWFBTUnl2cHBUOU1qRnhTVkk0ZXp5LUgtQUV3MXZqZE1hQjlmN1o3M0V6OEo4Q1FxeHI4VTJOVGdEUERfeXdhVVBIVHJQRWUwbVpKcmdsZHVmRFRsYlF4bzRiUQ?oc=5)
+
+---
+
+### [Los dentistas explican por qué cuidar las encías puede ayudar a controlar la diabetes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNGNCVU91X3RER0VuT0pJeTdUVlhWLXBuUzFfSGc2X3p4TktMY1Y5dTBWUVFZWXA5Q09sNlNJb1dSNWhmZjJvLVlNa3BldFdCTnpFOHNyazMxME5TazEzYjVPeGZEZmZfVjU3OXNxOEpuZHpEZ1hHY2xad2VqZmZiSEJ5dVFQMXZOTWIteFZMc0NHbFRLYzRfUjlSRWZJbWx1Z1p4MUI5c21UdTRxazBub0dJOUViUWxfTmV6cDJmSDhaQ0ozV19HQmtNOEZJZThaS3cwVnN3?oc=5)
+
+2026-11-10
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNGNCVU91X3RER0VuT0pJeTdUVlhWLXBuUzFfSGc2X3p4TktMY1Y5dTBWUVFZWXA5Q09sNlNJb1dSNWhmZjJvLVlNa3BldFdCTnpFOHNyazMxME5TazEzYjVPeGZEZmZfVjU3OXNxOEpuZHpEZ1hHY2xad2VqZmZiSEJ5dVFQMXZOTWIteFZMc0NHbFRLYzRfUjlSRWZJbWx1Z1p4MUI5c21UdTRxazBub0dJOUViUWxfTmV6cDJmSDhaQ0ozV19HQmtNOEZJZThaS3cwVnN3?oc=5)
 
 ---
 

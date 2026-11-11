@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tirzepatide. 0 predicted indications."
 permalink: /news/tirzepatide/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Tirzepatide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>20 news articles</strong>, with 0 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>21 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (20)
+## Related News (21)
+
+### [La FDA exigirá advertencia de pérdida de visión permanente en etiquetas de medicamentos GLP-1](https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3V2U3l0NjJhZ1hwRzl0emJRMmRMc1AxUXQySW9pWEFyeHM2R0hXdXNTTXVWcldEWXVMUUR4aGdtQmFMREFzZG9zcHFIc3pRQ3JtSDN6MUFsMWJ6UHMzaWdMRGgtN2RvNEZvYjh5ZzRXcG1GZkJjbFQxY0J4bU9Wa2NMazkyUV9pRGZ1eXgyMHN5RTllUEN3cUdPWVdhSDdNYnhF?oc=5)
+
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3V2U3l0NjJhZ1hwRzl0emJRMmRMc1AxUXQySW9pWEFyeHM2R0hXdXNTTXVWcldEWXVMUUR4aGdtQmFMREFzZG9zcHFIc3pRQ3JtSDN6MUFsMWJ6UHMzaWdMRGgtN2RvNEZvYjh5ZzRXcG1GZkJjbFQxY0J4bU9Wa2NMazkyUV9pRGZ1eXgyMHN5RTllUEN3cUdPWVdhSDdNYnhF?oc=5)
+
+---
 
 ### [No es común que los GLP-1 provoquen ceguera, dice una doctora ante la advertencia de la FDA](https://news.google.com/rss/articles/CBMiigFBVV95cUxPVWV3ckVqbEVLWXJNV0FYZzJzNm5KZzJlZ3NnY1VsLXlCWmxCVENDbmszRW9sZTRfa2ttNG5Pek9wV1N0cktwemc0eS1ScHVmd2tPeTNKb19BSkxmME9iSURoYjlYX3NXM0RoQzNtT2RVOHFBZ0JiamtTSWRoOGk1RDVadEI3b2ZJSFE?oc=5)
 

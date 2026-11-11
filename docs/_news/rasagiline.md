@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Rasagiline. 6 predicted indications."
 permalink: /news/rasagiline/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Rasagiline News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>27 news articles</strong>, with 6 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>29 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (27)
+## Related News (29)
 
 ### [Some people are resistant to dementia — here’s what their genes can teach us](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XUFFyaFRpSlRERUYzWlgycHBQZXZ6WEp0QjJTbl9WX21peFJ5Z2FRQXp2QWFCNEREeTVMRlNZd01Kc01pb3o1RnVuTEwwUVpEbUxxQkt1cU9PWVVCX29z?oc=5)
 
@@ -53,6 +53,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XUFFyaFRpSl
 2026-11-10 <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEVzOVg5aGdTckY4ekNQZk9BeG4zTWdQN0taQ2dmcE53MDNJbjBIQWV0VElPLTlPbmZJc3pnc3dPQnRCNWpDWXpadVNsTDJZVEVKc2ZqMFBoLVNNVmN3aTA1ZkJvOWNUSmNlTE94enRzNmEtTW01T0poRHVKNXBHekRkQmRBdmFjdDRBdjFxTDR1TmppcTkzQ0VfU05WS1ByX0k2UUhFNVlCc0E?oc=5)
+
+---
+
+### [Parkinson e tremori curati senza bisturi: a Pisa la svolta che abbatte 3 anni di liste d’attesa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNek1ld2NybFk2aE1neTdRcFpieDNSNmc4M1ZsczUtQXpHZTVRUU9VWGw4NHZlVVBmNG1DMzdOcXJESDdXLWtiX3c4RlB4bjJNQWMzNnR0WG9LNWs1MEJvQkpvVmlvQ2xKMTYwZVNnSERESkZFWmxMcUNRMk43NmtONHBoQUJZeVliMGs1MGd6X2F6RGQ2OTNmSXpGUXVLT0dyTGxYamFrTmdqVFIwdVlsTGRRSXVNNlFWMVh3R0FQdUNFZw?oc=5)
+
+2026-11-10 <span class="news-indication-tag">morbo di Parkinson</span>
+
+Source: [PisaToday](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNek1ld2NybFk2aE1neTdRcFpieDNSNmc4M1ZsczUtQXpHZTVRUU9VWGw4NHZlVVBmNG1DMzdOcXJESDdXLWtiX3c4RlB4bjJNQWMzNnR0WG9LNWs1MEJvQkpvVmlvQ2xKMTYwZVNnSERESkZFWmxMcUNRMk43NmtONHBoQUJZeVliMGs1MGd6X2F6RGQ2OTNmSXpGUXVLT0dyTGxYamFrTmdqVFIwdVlsTGRRSXVNNlFWMVh3R0FQdUNFZw?oc=5)
 
 ---
 
@@ -117,6 +125,14 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTdzVT
 2026-11-07 <span class="news-indication-tag">dementia</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xZmlEdE5sU3k3OHZyeTh4QjJfelZMUHVubHJqSl9CbVQtVEdyNFdISmtjMGtBWG9xOHVydDRTOGFzeE04VEc4NnROSGdWZ29YaGJ6MFRDNG1Cakp6NEE?oc=5)
+
+---
+
+### [Normal-looking sleep can mask memory problems, study suggests - Medical Xpress](https://news.google.com/rss/articles/CBMickFVX3lxTFBUZy16YTg3b25nZFRseWNjVGw0dldDc1Z1di1mMkt4TndSclRYUjV5NTdmUU4xZzNkVXQ1QVp4TWRVdldWeDlCcFZTeTMxY1ZKVGNvZW1TeVNETnJUa1NyZFBURF9CaVFKR2tCc0xvQXVCUQ?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMickFVX3lxTFBUZy16YTg3b25nZFRseWNjVGw0dldDc1Z1di1mMkt4TndSclRYUjV5NTdmUU4xZzNkVXQ1QVp4TWRVdldWeDlCcFZTeTMxY1ZKVGNvZW1TeVNETnJUa1NyZFBURF9CaVFKR2tCc0xvQXVCUQ?oc=5)
 
 ---
 

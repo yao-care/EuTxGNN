@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Irbesartan. 3 predicted indications."
 permalink: /news/irbesartan/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Irbesartan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Irbesartan?">
-<strong>Irbesartan</strong> currently has <strong>348 news articles</strong>, with 3 predicted indications.
+<strong>Irbesartan</strong> currently has <strong>352 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Irbesartan with the latest h
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (348)
+## Related News (352)
+
+### [¿Qué pasa realmente cuando dejas Ozempic? Los efectos secundarios que debes conocer - National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
+
+---
 
 ### [Sekundärtumoren verhindern - Medical Tribune](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMi1rR01oU0NyQVZwUVIxOWlsUndJajE0dXQwd3QzX3lUd3ZDRy1kNmUzSFBrUkZLaWtBQm1Wa0RmQWxkcXNONGRrQmpXWkdyLTNIYTcxV1pLR0QtOC1xRF96WTFDakNxeDFNSXFOa1V6Vm9zbExmc2xrWDAzMnVRMU1sTlExT2xva1VucmxSWm1kZnZVRC1DcQ?oc=5)
 
@@ -45,11 +53,27 @@ Source: [Medical Tribune](https://news.google.com/rss/articles/CBMimAFBVV95cUxOM
 
 ---
 
+### ['Get checked': Largs pensioner's message to men after prostate cancer diagnosis - Largs and Millport News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEpjX2tBaktJVGhLdHBmX09HZmJPZkVPMk1KYjhJSHNBT3Z6cHUyRGtwZld4MjRpRVpEZVgta3oyMFlTM3VLdzIzOTIwcnhRYXRKbHhlR2F5T2JJSFR3S2h1c05vX0pmN0VTNGNHUHh5dUdsOEt1eWE1b2EzMHdMdTVEZVhzQVJUX2oycURYTnhfN3h2VmlHUTlHUXhEZ2NSY3dQdEdoOWs?oc=5)
+
+2026-11-10 <span class="news-indication-tag">cancer</span>
+
+Source: [Largs and Millport News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEpjX2tBaktJVGhLdHBmX09HZmJPZkVPMk1KYjhJSHNBT3Z6cHUyRGtwZld4MjRpRVpEZVgta3oyMFlTM3VLdzIzOTIwcnhRYXRKbHhlR2F5T2JJSFR3S2h1c05vX0pmN0VTNGNHUHh5dUdsOEt1eWE1b2EzMHdMdTVEZVhzQVJUX2oycURYTnhfN3h2VmlHUTlHUXhEZ2NSY3dQdEdoOWs?oc=5)
+
+---
+
 ### [I’m a GP and ignored diabetes warning signs for 10 years until a nifty gadget revealed my ‘danger’ food - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMWF0cmpXa0ZUZkhFcDJUSEprTHVnbXVZc3hIaDZSZFpzUlAwVi1NbVlTNGVnckwxZDZsS1FUdF8wWFBTUnl2cHBUOU1qRnhTVkk0ZXp5LUgtQUV3MXZqZE1hQjlmN1o3M0V6OEo4Q1FxeHI4VTJOVGdEUERfeXdhVVBIVHJQRWUwbVpKcmdsZHVmRFRsYlF4bzRiUQ?oc=5)
 
 2026-11-10 <span class="news-indication-tag">diabetes</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMWF0cmpXa0ZUZkhFcDJUSEprTHVnbXVZc3hIaDZSZFpzUlAwVi1NbVlTNGVnckwxZDZsS1FUdF8wWFBTUnl2cHBUOU1qRnhTVkk0ZXp5LUgtQUV3MXZqZE1hQjlmN1o3M0V6OEo4Q1FxeHI4VTJOVGdEUERfeXdhVVBIVHJQRWUwbVpKcmdsZHVmRFRsYlF4bzRiUQ?oc=5)
+
+---
+
+### [Los dentistas explican por qué cuidar las encías puede ayudar a controlar la diabetes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNGNCVU91X3RER0VuT0pJeTdUVlhWLXBuUzFfSGc2X3p4TktMY1Y5dTBWUVFZWXA5Q09sNlNJb1dSNWhmZjJvLVlNa3BldFdCTnpFOHNyazMxME5TazEzYjVPeGZEZmZfVjU3OXNxOEpuZHpEZ1hHY2xad2VqZmZiSEJ5dVFQMXZOTWIteFZMc0NHbFRLYzRfUjlSRWZJbWx1Z1p4MUI5c21UdTRxazBub0dJOUViUWxfTmV6cDJmSDhaQ0ozV19HQmtNOEZJZThaS3cwVnN3?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetes</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNGNCVU91X3RER0VuT0pJeTdUVlhWLXBuUzFfSGc2X3p4TktMY1Y5dTBWUVFZWXA5Q09sNlNJb1dSNWhmZjJvLVlNa3BldFdCTnpFOHNyazMxME5TazEzYjVPeGZEZmZfVjU3OXNxOEpuZHpEZ1hHY2xad2VqZmZiSEJ5dVFQMXZOTWIteFZMc0NHbFRLYzRfUjlSRWZJbWx1Z1p4MUI5c21UdTRxazBub0dJOUViUWxfTmV6cDJmSDhaQ0ozV19HQmtNOEZJZThaS3cwVnN3?oc=5)
 
 ---
 
@@ -1442,6 +1466,14 @@ Source: [WEB.DE](https://news.google.com/rss/articles/CBMiogFBVV95cUxPY09NUVQ0an
 2026-11-04 <span class="news-indication-tag">tumor</span>
 
 Source: [smart up news](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTNObml2Z09hZ2JRbjJsaTZWZGFwUk1oM2F1OC1OcFVrY1lqYnhTbjJBMUx0TFNrZFRIaUtuN3A2cEVqSlByM2d4Ym9sazEzWFcyRUg2Nlk3cmo3S3c5eVpuU1U0SVV1eUdhUnMwc3ZuQUpGNnJ1dHJzdzJZN1NTRE96ckFyVlQ3ampzQ041N194ZUR0OEdSZmhSNW9NVVJxT2FsVnByZk0zREZDM0E5WjlFMG11bnlKU1NLT1daMGRFRTJNY3U1TTRWNA?oc=5)
+
+---
+
+### [Neue Studie: Risiko für Herzerkrankung bei Dialyse - Medical Tribune](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYWlCclFJYmR4SDRtb0ZGRlpIb0tRRzR3SVlPSVJDZmJyVWxJOE5qWDlPcDkzLUFuc2xyZ1dXczBSZzVWdjZaRXBKNUpGTEZYSXI3NFR2ZFJaWVRJYThVdUdGOFM0UG55V1NycTJtZF95SDV3ZGVNdnZyMHh0cGNyYWpSQ21SbklCLTlrMmR0bXY5cDRmZ1RuM1JPS2dVQm1QUTBPa2tvV0IzY2xuaTBRcUFMY3RnMklOOGdJMElLRWdUeXZUbVRYQ2loYVd5RldqUl9zN2VucmVWRnB6WXlTSHBGaFdfZzU3Y2xpMmRhTml0YnU1?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYWlCclFJYmR4SDRtb0ZGRlpIb0tRRzR3SVlPSVJDZmJyVWxJOE5qWDlPcDkzLUFuc2xyZ1dXczBSZzVWdjZaRXBKNUpGTEZYSXI3NFR2ZFJaWVRJYThVdUdGOFM0UG55V1NycTJtZF95SDV3ZGVNdnZyMHh0cGNyYWpSQ21SbklCLTlrMmR0bXY5cDRmZ1RuM1JPS2dVQm1QUTBPa2tvV0IzY2xuaTBRcUFMY3RnMklOOGdJMElLRWdUeXZUbVRYQ2loYVd5RldqUl9zN2VucmVWRnB6WXlTSHBGaFdfZzU3Y2xpMmRhTml0YnU1?oc=5)
 
 ---
 

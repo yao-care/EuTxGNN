@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Alirocumab. 10 predicted indications."
 permalink: /news/alirocumab/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-11
 ---
 
 # Alirocumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
 
 ### [Chronische Nierenerkrankung: 100 Millionen Betroffene in Europa im Fokus](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFFvSVEtSGZwRms4ZU9QY1JiZ3Vlb21sQmcyalE2MmJNMWRpRXBfNFk4Uk5YSmlBWUhHN2tlX0NBbVBsd1BNR2hlVl94SkhLZGc2X3Q3Q0NmUnVMYk1LcUFVUU1hRXdTeXJHdDNoLWE1LUY2ZFhMRWZnWE11djAxZktRM3pfVXdKaVpFU0ExM2F6NjJjM1VaZnlicTVITkM4cHhHY0IyczhheGdlMTZRUlhCSzFLS2w4SkliTg?oc=5)
 
@@ -81,6 +81,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kaj
 2026-11-05 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlhxMnNRN3Q2ZmIycFVLQ1VuZ3dFcG1sdWdhYXhtMFVFc1pBNFBtcHFwdFpaeG5oVWM2dU9IY0FncUN1S3FGOTlDMXRZb3V0Z1FvMVM3TXZrTU5aZkxuaHo0WGwtTkxlM2RhSm1aQ0FSWmlsd3ZiNTBmLV9kOGJ4bkxRcTNuQnlydjhkdzh0b0NJeWY1YmE5dGt6S1JZeE9NMnlqNERjUFVIajhNbXFkaTFwaFdwcjJJUjQ4OHVmUE96ci1ZQWh5N2ZqQ2hMaGZYLXphNU5TajdrQUpNVXNfaGJFLUk?oc=5)
+
+---
+
+### [Neue Studie: Risiko für Herzerkrankung bei Dialyse - Medical Tribune](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYWlCclFJYmR4SDRtb0ZGRlpIb0tRRzR3SVlPSVJDZmJyVWxJOE5qWDlPcDkzLUFuc2xyZ1dXczBSZzVWdjZaRXBKNUpGTEZYSXI3NFR2ZFJaWVRJYThVdUdGOFM0UG55V1NycTJtZF95SDV3ZGVNdnZyMHh0cGNyYWpSQ21SbklCLTlrMmR0bXY5cDRmZ1RuM1JPS2dVQm1QUTBPa2tvV0IzY2xuaTBRcUFMY3RnMklOOGdJMElLRWdUeXZUbVRYQ2loYVd5RldqUl9zN2VucmVWRnB6WXlTSHBGaFdfZzU3Y2xpMmRhTml0YnU1?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYWlCclFJYmR4SDRtb0ZGRlpIb0tRRzR3SVlPSVJDZmJyVWxJOE5qWDlPcDkzLUFuc2xyZ1dXczBSZzVWdjZaRXBKNUpGTEZYSXI3NFR2ZFJaWVRJYThVdUdGOFM0UG55V1NycTJtZF95SDV3ZGVNdnZyMHh0cGNyYWpSQ21SbklCLTlrMmR0bXY5cDRmZ1RuM1JPS2dVQm1QUTBPa2tvV0IzY2xuaTBRcUFMY3RnMklOOGdJMElLRWdUeXZUbVRYQ2loYVd5RldqUl9zN2VucmVWRnB6WXlTSHBGaFdfZzU3Y2xpMmRhTml0YnU1?oc=5)
 
 ---
 

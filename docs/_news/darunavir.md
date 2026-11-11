@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Darunavir. 4 predicted indications."
 permalink: /news/darunavir/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Darunavir News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Darunavir?">
-<strong>Darunavir</strong> currently has <strong>197 news articles</strong>, with 4 predicted indications.
+<strong>Darunavir</strong> currently has <strong>198 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ This page combines the AI-predicted indications for Darunavir with the latest he
 <p><a href="{{ '/drugs/darunavir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (197)
+## Related News (198)
 
 ### [Sekundärtumoren verhindern - Medical Tribune](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMi1rR01oU0NyQVZwUVIxOWlsUndJajE0dXQwd3QzX3lUd3ZDRy1kNmUzSFBrUkZLaWtBQm1Wa0RmQWxkcXNONGRrQmpXWkdyLTNIYTcxV1pLR0QtOC1xRF96WTFDakNxeDFNSXFOa1V6Vm9zbExmc2xrWDAzMnVRMU1sTlExT2xva1VucmxSWm1kZnZVRC1DcQ?oc=5)
 
 2026-11-10 <span class="news-indication-tag">tumor</span>
 
 Source: [Medical Tribune](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMi1rR01oU0NyQVZwUVIxOWlsUndJajE0dXQwd3QzX3lUd3ZDRy1kNmUzSFBrUkZLaWtBQm1Wa0RmQWxkcXNONGRrQmpXWkdyLTNIYTcxV1pLR0QtOC1xRF96WTFDakNxeDFNSXFOa1V6Vm9zbExmc2xrWDAzMnVRMU1sTlExT2xva1VucmxSWm1kZnZVRC1DcQ?oc=5)
+
+---
+
+### ['Get checked': Largs pensioner's message to men after prostate cancer diagnosis - Largs and Millport News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEpjX2tBaktJVGhLdHBmX09HZmJPZkVPMk1KYjhJSHNBT3Z6cHUyRGtwZld4MjRpRVpEZVgta3oyMFlTM3VLdzIzOTIwcnhRYXRKbHhlR2F5T2JJSFR3S2h1c05vX0pmN0VTNGNHUHh5dUdsOEt1eWE1b2EzMHdMdTVEZVhzQVJUX2oycURYTnhfN3h2VmlHUTlHUXhEZ2NSY3dQdEdoOWs?oc=5)
+
+2026-11-10 <span class="news-indication-tag">cancer</span>
+
+Source: [Largs and Millport News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEpjX2tBaktJVGhLdHBmX09HZmJPZkVPMk1KYjhJSHNBT3Z6cHUyRGtwZld4MjRpRVpEZVgta3oyMFlTM3VLdzIzOTIwcnhRYXRKbHhlR2F5T2JJSFR3S2h1c05vX0pmN0VTNGNHUHh5dUdsOEt1eWE1b2EzMHdMdTVEZVhzQVJUX2oycURYTnhfN3h2VmlHUTlHUXhEZ2NSY3dQdEdoOWs?oc=5)
 
 ---
 

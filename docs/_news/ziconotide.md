@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ziconotide. 9 predicted indications."
 permalink: /news/ziconotide/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Ziconotide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Ziconotide?">
-<strong>Ziconotide</strong> currently has <strong>64 news articles</strong>, with 9 predicted indications.
+<strong>Ziconotide</strong> currently has <strong>68 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,37 @@ This page combines the AI-predicted indications for Ziconotide with the latest h
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (64)
+## Related News (68)
+
+### [La FDA exigirá advertencia de pérdida de visión permanente en etiquetas de medicamentos GLP-1](https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3V2U3l0NjJhZ1hwRzl0emJRMmRMc1AxUXQySW9pWEFyeHM2R0hXdXNTTXVWcldEWXVMUUR4aGdtQmFMREFzZG9zcHFIc3pRQ3JtSDN6MUFsMWJ6UHMzaWdMRGgtN2RvNEZvYjh5ZzRXcG1GZkJjbFQxY0J4bU9Wa2NMazkyUV9pRGZ1eXgyMHN5RTllUEN3cUdPWVdhSDdNYnhF?oc=5)
+
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3V2U3l0NjJhZ1hwRzl0emJRMmRMc1AxUXQySW9pWEFyeHM2R0hXdXNTTXVWcldEWXVMUUR4aGdtQmFMREFzZG9zcHFIc3pRQ3JtSDN6MUFsMWJ6UHMzaWdMRGgtN2RvNEZvYjh5ZzRXcG1GZkJjbFQxY0J4bU9Wa2NMazkyUV9pRGZ1eXgyMHN5RTllUEN3cUdPWVdhSDdNYnhF?oc=5)
+
+---
+
+### [¿Qué pasa realmente cuando dejas Ozempic? Los efectos secundarios que debes conocer - National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
+
+---
 
 ### [No es común que los GLP-1 provoquen ceguera, dice una doctora ante la advertencia de la FDA](https://news.google.com/rss/articles/CBMiigFBVV95cUxPVWV3ckVqbEVLWXJNV0FYZzJzNm5KZzJlZ3NnY1VsLXlCWmxCVENDbmszRW9sZTRfa2ttNG5Pek9wV1N0cktwemc0eS1ScHVmd2tPeTNKb19BSkxmME9iSURoYjlYX3NXM0RoQzNtT2RVOHFBZ0JiamtTSWRoOGk1RDVadEI3b2ZJSFE?oc=5)
 
 2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Yahoo](https://news.google.com/rss/articles/CBMiigFBVV95cUxPVWV3ckVqbEVLWXJNV0FYZzJzNm5KZzJlZ3NnY1VsLXlCWmxCVENDbmszRW9sZTRfa2ttNG5Pek9wV1N0cktwemc0eS1ScHVmd2tPeTNKb19BSkxmME9iSURoYjlYX3NXM0RoQzNtT2RVOHFBZ0JiamtTSWRoOGk1RDVadEI3b2ZJSFE?oc=5)
+
+---
+
+### [Nuevos fármacos contra la obesidad reducen el peso y el azúcar en sangre, pero no sirven de nada si no van acompañados de una actitud preventiva del paciente](https://news.google.com/rss/articles/CBMijAJBVV95cUxNM3RySnVyTk5lV1VldGdNMmdsX0JORTRhd0lBTmktd3BDaXNaN2F4UE81SjN5bHhYRUpjSTN0a2paS01ncXFZa3NVS29DbUstb21WQzVBU0RxOFdTSG1ZWUZpbEp1b2FLekNlSmdQRFhvUEt2eWhUV0dsWVU4WGpELW1PY1hiZHRqSkMxaWxkWkNOQzRlWUpmNEZkNXVKNjNxa1NmSG9nWTZCZFVkVTJBOGZqLTdjdXV3SzZHanRIZDBSV3F0Z3gzSl9JVWdMQWJOS3FSaF9wajNxVXd1eTRjZ05CTElvZHVpbVMyNHpIdm1KOF9odXQwcEU3dmxvb0dDUnJHa282VjhJNmdF?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Novaciencia](https://news.google.com/rss/articles/CBMijAJBVV95cUxNM3RySnVyTk5lV1VldGdNMmdsX0JORTRhd0lBTmktd3BDaXNaN2F4UE81SjN5bHhYRUpjSTN0a2paS01ncXFZa3NVS29DbUstb21WQzVBU0RxOFdTSG1ZWUZpbEp1b2FLekNlSmdQRFhvUEt2eWhUV0dsWVU4WGpELW1PY1hiZHRqSkMxaWxkWkNOQzRlWUpmNEZkNXVKNjNxa1NmSG9nWTZCZFVkVTJBOGZqLTdjdXV3SzZHanRIZDBSV3F0Z3gzSl9JVWdMQWJOS3FSaF9wajNxVXd1eTRjZ05CTElvZHVpbVMyNHpIdm1KOF9odXQwcEU3dmxvb0dDUnJHa282VjhJNmdF?oc=5)
 
 ---
 
@@ -64,6 +88,14 @@ Source: [SINC](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUEFQdWxQc2FF
 2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Today](https://news.google.com/rss/articles/CBMif0FVX3lxTE04a3dTUkJueDFZSVVQWkY2aEthT0p5R1pWbHJSWVlxZXFkc1FrbUZGdGU1LXVENnlqQ2EzMVE2a3h1Zm95VlVFOHVtR3JhVHhkUEl6T01uVnUxbVplZmVGbGJkT3lnaUVWSmJtMm1jVGdlMHhtNGxISzVEX2RzcW_SAX9BVV95cUxQd0gxWVJBSDdzTUNpNjluR0ozdjJmVUVvcjlzYWhJbjliM0JxTWV2MHZSeGZPTE1HWEhka0p4TXhmaS1ETTBKcDV1Ym9WTDdDM2hWSEN1am9BeTkxaElVWm53ZkNOTGFuZWVGR0pVUjlmZjF1blRuVWIyR2VhZVBF?oc=5)
+
+---
+
+### [Adiós a los pinchazos para adelgazar: llega a España la primera pastilla de semaglutida contra la obesidad - The Objective](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOVZRYzFlUjc0N3hFWkVESkJ3NmU5Sl9LcUkweVdMc3BWNWRRSl9oOTdzQ0hsZEkzVWNNM2ZHeFdxQWJoWjRiMUVNYzE5QXFCbWRESjZDcC11aTBPWnVvYWxEbFFuUVlKUEo2UXZCUEplNTlTS09ueE5LUEMyRjJKRG5ady04YXZ6V0tzRzVvQ1c1c2Ytdi1LanhjV1dHNW9XSWdQOFEzcGRiejBZSllPMUx1SHlUNW1wdk9GVDg0ZkdtMkY3cXpySjBQUFJhYjdZQWJybTRneXh1UVh6OGp6QVJBS1BzUW_SAewBQVVfeXFMTmtfNW1mbmJoblNEdmZBakdIN2E3alRSdnpUWG1OMzFuM2hwN2w4aXB2dHI1bkZobENUZDFKU0N3S2kybXBndVFnVk5rSVdUZ3Zqai16QkpSaS1TMkg3ajBoclI1NDJUYXdBMk9QbkhyR2JWVWdsRXlUVDJRYjVnTVFKUW9qQ2tfSU8ydlBtUnMxQVdlMWI1Y3dCSVBEYnJFUDM0NkxwS3lSdE5VbDJTSmNDeHdVT1E5ZUF1aEhzOEtTYkZCZ19JeC15VXFlZVpBMksyRDl5R0ZNc2VfaVRfbzNQM1p0RXQydUdTMWk?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [The Objective](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOVZRYzFlUjc0N3hFWkVESkJ3NmU5Sl9LcUkweVdMc3BWNWRRSl9oOTdzQ0hsZEkzVWNNM2ZHeFdxQWJoWjRiMUVNYzE5QXFCbWRESjZDcC11aTBPWnVvYWxEbFFuUVlKUEo2UXZCUEplNTlTS09ueE5LUEMyRjJKRG5ady04YXZ6V0tzRzVvQ1c1c2Ytdi1LanhjV1dHNW9XSWdQOFEzcGRiejBZSllPMUx1SHlUNW1wdk9GVDg0ZkdtMkY3cXpySjBQUFJhYjdZQWJybTRneXh1UVh6OGp6QVJBS1BzUW_SAewBQVVfeXFMTmtfNW1mbmJoblNEdmZBakdIN2E3alRSdnpUWG1OMzFuM2hwN2w4aXB2dHI1bkZobENUZDFKU0N3S2kybXBndVFnVk5rSVdUZ3Zqai16QkpSaS1TMkg3ajBoclI1NDJUYXdBMk9QbkhyR2JWVWdsRXlUVDJRYjVnTVFKUW9qQ2tfSU8ydlBtUnMxQVdlMWI1Y3dCSVBEYnJFUDM0NkxwS3lSdE5VbDJTSmNDeHdVT1E5ZUF1aEhzOEtTYkZCZ19JeC15VXFlZVpBMksyRDl5R0ZNc2VfaVRfbzNQM1p0RXQydUdTMWk?oc=5)
 
 ---
 

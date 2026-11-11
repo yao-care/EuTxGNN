@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Natalizumab. 5 predicted indications."
 permalink: /news/natalizumab/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Natalizumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Natalizumab?">
-<strong>Natalizumab</strong> currently has <strong>113 news articles</strong>, with 5 predicted indications.
+<strong>Natalizumab</strong> currently has <strong>115 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (113)
+## Related News (115)
+
+### [¿Qué pasa realmente cuando dejas Ozempic? Los efectos secundarios que debes conocer - National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
+
+---
 
 ### [RSV ist keine leichte Erkältung - Experte über Imfpung für Säuglinge](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYnlxVnVPaktWRnk2VXpNVkhKUDYxdW5vQ2NvM3pTal9RZHB1UlB4OHJDbkc2YVZwcTZFYlNmUEhvenJiaXZ5RmFpb2pHMkZqUGJFbzJ5b2NQNFdVUFBlWTlmeWJzY29GVWJnSFo3ZTVUZHg5Y09aOTlET011T083RmZxVHBNd3lxcGUxd3FhbXBEanMwU3Z5aFVUZFhaSGx4VTJmRnJkWG9DXzhLcHlPUzUxbGhSNTlQT21jOFRVb2lsRGdLSEZvR0htZDhFcDF5UXNXTGxCd1Eza1BraGc?oc=5)
 
@@ -52,6 +60,14 @@ Source: [Nordwest-Zeitung](https://news.google.com/rss/articles/CBMi3gFBVV95cUxN
 2026-11-10 <span class="news-indication-tag">diabetes</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMWF0cmpXa0ZUZkhFcDJUSEprTHVnbXVZc3hIaDZSZFpzUlAwVi1NbVlTNGVnckwxZDZsS1FUdF8wWFBTUnl2cHBUOU1qRnhTVkk0ZXp5LUgtQUV3MXZqZE1hQjlmN1o3M0V6OEo4Q1FxeHI4VTJOVGdEUERfeXdhVVBIVHJQRWUwbVpKcmdsZHVmRFRsYlF4bzRiUQ?oc=5)
+
+---
+
+### [Los dentistas explican por qué cuidar las encías puede ayudar a controlar la diabetes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNGNCVU91X3RER0VuT0pJeTdUVlhWLXBuUzFfSGc2X3p4TktMY1Y5dTBWUVFZWXA5Q09sNlNJb1dSNWhmZjJvLVlNa3BldFdCTnpFOHNyazMxME5TazEzYjVPeGZEZmZfVjU3OXNxOEpuZHpEZ1hHY2xad2VqZmZiSEJ5dVFQMXZOTWIteFZMc0NHbFRLYzRfUjlSRWZJbWx1Z1p4MUI5c21UdTRxazBub0dJOUViUWxfTmV6cDJmSDhaQ0ozV19HQmtNOEZJZThaS3cwVnN3?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetes</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNGNCVU91X3RER0VuT0pJeTdUVlhWLXBuUzFfSGc2X3p4TktMY1Y5dTBWUVFZWXA5Q09sNlNJb1dSNWhmZjJvLVlNa3BldFdCTnpFOHNyazMxME5TazEzYjVPeGZEZmZfVjU3OXNxOEpuZHpEZ1hHY2xad2VqZmZiSEJ5dVFQMXZOTWIteFZMc0NHbFRLYzRfUjlSRWZJbWx1Z1p4MUI5c21UdTRxazBub0dJOUViUWxfTmV6cDJmSDhaQ0ozV19HQmtNOEZJZThaS3cwVnN3?oc=5)
 
 ---
 

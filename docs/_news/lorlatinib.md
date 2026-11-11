@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Lorlatinib. 9 predicted indications."
 permalink: /news/lorlatinib/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Lorlatinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Lorlatinib?">
-<strong>Lorlatinib</strong> currently has <strong>219 news articles</strong>, with 9 predicted indications.
+<strong>Lorlatinib</strong> currently has <strong>221 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Lorlatinib with the latest h
 <p><a href="{{ '/drugs/lorlatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (219)
+## Related News (221)
 
 ### [Some people are resistant to dementia — here’s what their genes can teach us](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XUFFyaFRpSlRERUYzWlgycHBQZXZ6WEp0QjJTbl9WX21peFJ5Z2FRQXp2QWFCNEREeTVMRlNZd01Kc01pb3o1RnVuTEwwUVpEbUxxQkt1cU9PWVVCX29z?oc=5)
 
@@ -56,6 +56,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XUFFyaFRpSl
 2026-11-10 <span class="news-indication-tag">tumor</span>
 
 Source: [Medical Tribune](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMi1rR01oU0NyQVZwUVIxOWlsUndJajE0dXQwd3QzX3lUd3ZDRy1kNmUzSFBrUkZLaWtBQm1Wa0RmQWxkcXNONGRrQmpXWkdyLTNIYTcxV1pLR0QtOC1xRF96WTFDakNxeDFNSXFOa1V6Vm9zbExmc2xrWDAzMnVRMU1sTlExT2xva1VucmxSWm1kZnZVRC1DcQ?oc=5)
+
+---
+
+### ['Get checked': Largs pensioner's message to men after prostate cancer diagnosis - Largs and Millport News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEpjX2tBaktJVGhLdHBmX09HZmJPZkVPMk1KYjhJSHNBT3Z6cHUyRGtwZld4MjRpRVpEZVgta3oyMFlTM3VLdzIzOTIwcnhRYXRKbHhlR2F5T2JJSFR3S2h1c05vX0pmN0VTNGNHUHh5dUdsOEt1eWE1b2EzMHdMdTVEZVhzQVJUX2oycURYTnhfN3h2VmlHUTlHUXhEZ2NSY3dQdEdoOWs?oc=5)
+
+2026-11-10 <span class="news-indication-tag">cancer</span>
+
+Source: [Largs and Millport News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEpjX2tBaktJVGhLdHBmX09HZmJPZkVPMk1KYjhJSHNBT3Z6cHUyRGtwZld4MjRpRVpEZVgta3oyMFlTM3VLdzIzOTIwcnhRYXRKbHhlR2F5T2JJSFR3S2h1c05vX0pmN0VTNGNHUHh5dUdsOEt1eWE1b2EzMHdMdTVEZVhzQVJUX2oycURYTnhfN3h2VmlHUTlHUXhEZ2NSY3dQdEdoOWs?oc=5)
 
 ---
 
@@ -432,6 +440,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xZmlEdE5sU3k3O
 2026-11-07 <span class="news-indication-tag">cancer</span>
 
 Source: [Hull Live](https://news.google.com/rss/articles/CBMirgFBVV95cUxQazBQRkZIdzhFYlpDNVZmdU9qdGVGS0RpMzVyM3JHdUtNVmt5NWpSZlp3blJ4ZEx5NUdHNmh0U2p3SUJlZEkxWENwU1I0b1RLa3h6U2FKcXhoemxuUTJYbU55d0NnSEpwMnA2S1M3RGRwVFpVUHNGRkU4TUwzMVBuZWh6RVphcjQ2SkNyUW5OQUZCbGxNVVhJMVdRdUdTcllOMXFNZlM3VDJUV2J1aWfSAbMBQVVfeXFMTk5pS294ZDlET2l4eFQzS1pSYld4MVdQQVlyMmU3M293THBhcnJnZFhyQXFuSTJUN0tSRVo5RlVWSlp3Y1NmMVdnVVdaRVhVVXVZNGlGSF9NVjJMeTVJQ3h0VTB2X2Y5ZTRPNGFQbXZkMVJwOXJRNVVhYkRyVXVfNUdfLURfNVJVT2V4amhXcC1BOV8tbXNzblVGRTVGR1Rhd0pwdGQtUklEdVVGeGVqQTIzSU0?oc=5)
+
+---
+
+### [Normal-looking sleep can mask memory problems, study suggests - Medical Xpress](https://news.google.com/rss/articles/CBMickFVX3lxTFBUZy16YTg3b25nZFRseWNjVGw0dldDc1Z1di1mMkt4TndSclRYUjV5NTdmUU4xZzNkVXQ1QVp4TWRVdldWeDlCcFZTeTMxY1ZKVGNvZW1TeVNETnJUa1NyZFBURF9CaVFKR2tCc0xvQXVCUQ?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMickFVX3lxTFBUZy16YTg3b25nZFRseWNjVGw0dldDc1Z1di1mMkt4TndSclRYUjV5NTdmUU4xZzNkVXQ1QVp4TWRVdldWeDlCcFZTeTMxY1ZKVGNvZW1TeVNETnJUa1NyZFBURF9CaVFKR2tCc0xvQXVCUQ?oc=5)
 
 ---
 

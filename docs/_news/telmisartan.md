@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Telmisartan. 9 predicted indications."
 permalink: /news/telmisartan/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Telmisartan News
@@ -248,14 +248,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRE
 2026-11-07 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [SciTechDaily](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1JjOWhQZ1hGLUJuUW16RkM1WC1ST0hhdlpyd192QWFtWWdmNkE2YUlWOHo0N1FQb1lGSjRwZ1drYjAwaDQ4YVNrMS1EVjZVNzJJd0c0Z1ZXUm5uSWpMdl81Z3cxZzFpTlpiTC04Um9ZdXJNZnFsTDdaLWRmSFhQRy1UcDltMmFhM0d5UU10blZIM2RyX3VYWkhVcmZPZ3REYWRGZTQ2NUVVN1RBWG5UODRROVc?oc=5)
-
----
-
-### [Il freddo può far male a chi è iperteso. Il cardiologo spiega come proteggere il cuore - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGxzTXdZNkhSN1h1Y1FFZjNXVEVRc0ZJR0NSY2FCTnlDU3hwNEdOSjBycU5ubFI2Sllvb3ljdW5OMUZXLTZDMWczR21jSDBvWVFQcG1nSDc4TElTcjRwQzJORU9NNld1cGkweFlOSGpmT0hYMkFYakdraHJ3Q3lYTHZLNk9qLTFTQldaUy1yNENoUFhBRDlXSW5wbHR0anVteEJBUjY3OE1nSGo4TlBMNXk1TFZCaTdJZnRWd3dkZGcxc3FWVE5RSUxITC1MY0VKbkwtS1hxMmzSAcQBQVVfeXFMTVIyTWRFSGpIQjdVVDJwaGRpaXl4UXlQODB6a2x1WUtEdXc3SXZoYmRlN1B1a2h2OXJMWWtZb0M5N3ExYnFCU1NGakNoMWl1RWwwcVA4T1ZoT0V6aFFHT3paOGhEbVRyRm0zc2lXbjBTcVhqNG15M0VETUlFWkhEb0VHdFBrdGp0cjV2UXVKaHdWRUM3LXVBUmZ0dWpWckw4ZS1ZWDdnWlAyTl83bFJFcEVfbnZJcVlvN0xSdzMxWV9OMS12MA?oc=5)
-
-2026-11-07 <span class="news-indication-tag">ictus</span>
-
-Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGxzTXdZNkhSN1h1Y1FFZjNXVEVRc0ZJR0NSY2FCTnlDU3hwNEdOSjBycU5ubFI2Sllvb3ljdW5OMUZXLTZDMWczR21jSDBvWVFQcG1nSDc4TElTcjRwQzJORU9NNld1cGkweFlOSGpmT0hYMkFYakdraHJ3Q3lYTHZLNk9qLTFTQldaUy1yNENoUFhBRDlXSW5wbHR0anVteEJBUjY3OE1nSGo4TlBMNXk1TFZCaTdJZnRWd3dkZGcxc3FWVE5RSUxITC1MY0VKbkwtS1hxMmzSAcQBQVVfeXFMTVIyTWRFSGpIQjdVVDJwaGRpaXl4UXlQODB6a2x1WUtEdXc3SXZoYmRlN1B1a2h2OXJMWWtZb0M5N3ExYnFCU1NGakNoMWl1RWwwcVA4T1ZoT0V6aFFHT3paOGhEbVRyRm0zc2lXbjBTcVhqNG15M0VETUlFWkhEb0VHdFBrdGp0cjV2UXVKaHdWRUM3LXVBUmZ0dWpWckw4ZS1ZWDdnWlAyTl83bFJFcEVfbnZJcVlvN0xSdzMxWV9OMS12MA?oc=5)
 
 ---
 
@@ -528,6 +520,14 @@ Source: [Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0Zz
 2026-11-04 <span class="news-indication-tag">ictus</span>
 
 Source: [AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxOa19oZXEzVEVfQjI5M3hUUjVqQmxfSGpVZXIzWHlfbFlFQ0lfbEdyY3J4UzlGSVN6RkU4RGNXMnktYTNPaktNTW5FVGxkYWRNWU9ZQnNtNmFtVFByYTRMUnZCUW03UXRiMmI3ZXVBcXl1QXZJZ2FRNEQwYU9FbXgxVVJfQkN6NFFkd3fSAY8BQVVfeXFMTlJFUE5jclB6dXVUc0NaSlVScEJNcTBWbjNreHVwalVKWFdOVVBmX0MzZDJyTUd2LXZzdkYwTGZaWXJrUzc1QkNnb2ZabW5pclFiRVc3cHBYaTZQZmZxZGpMeDRuOTBxbGpoYjQzOW1WdzFQbjZZbzZpczFSZ002aUhfdURVX094YS1HN1Y0Nzg?oc=5)
+
+---
+
+### [Neue Studie: Risiko für Herzerkrankung bei Dialyse - Medical Tribune](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYWlCclFJYmR4SDRtb0ZGRlpIb0tRRzR3SVlPSVJDZmJyVWxJOE5qWDlPcDkzLUFuc2xyZ1dXczBSZzVWdjZaRXBKNUpGTEZYSXI3NFR2ZFJaWVRJYThVdUdGOFM0UG55V1NycTJtZF95SDV3ZGVNdnZyMHh0cGNyYWpSQ21SbklCLTlrMmR0bXY5cDRmZ1RuM1JPS2dVQm1QUTBPa2tvV0IzY2xuaTBRcUFMY3RnMklOOGdJMElLRWdUeXZUbVRYQ2loYVd5RldqUl9zN2VucmVWRnB6WXlTSHBGaFdfZzU3Y2xpMmRhTml0YnU1?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYWlCclFJYmR4SDRtb0ZGRlpIb0tRRzR3SVlPSVJDZmJyVWxJOE5qWDlPcDkzLUFuc2xyZ1dXczBSZzVWdjZaRXBKNUpGTEZYSXI3NFR2ZFJaWVRJYThVdUdGOFM0UG55V1NycTJtZF95SDV3ZGVNdnZyMHh0cGNyYWpSQ21SbklCLTlrMmR0bXY5cDRmZ1RuM1JPS2dVQm1QUTBPa2tvV0IzY2xuaTBRcUFMY3RnMklOOGdJMElLRWdUeXZUbVRYQ2loYVd5RldqUl9zN2VucmVWRnB6WXlTSHBGaFdfZzU3Y2xpMmRhTml0YnU1?oc=5)
 
 ---
 

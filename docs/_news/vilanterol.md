@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Vilanterol. 6 predicted indications."
 permalink: /news/vilanterol/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Vilanterol News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Vilanterol?">
-<strong>Vilanterol</strong> currently has <strong>208 news articles</strong>, with 6 predicted indications.
+<strong>Vilanterol</strong> currently has <strong>209 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page combines the AI-predicted indications for Vilanterol with the latest h
 <p><a href="{{ '/drugs/vilanterol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (208)
+## Related News (209)
 
 ### [RSV ist keine leichte Erkältung - Experte über Imfpung für Säuglinge](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYnlxVnVPaktWRnk2VXpNVkhKUDYxdW5vQ2NvM3pTal9RZHB1UlB4OHJDbkc2YVZwcTZFYlNmUEhvenJiaXZ5RmFpb2pHMkZqUGJFbzJ5b2NQNFdVUFBlWTlmeWJzY29GVWJnSFo3ZTVUZHg5Y09aOTlET011T083RmZxVHBNd3lxcGUxd3FhbXBEanMwU3Z5aFVUZFhaSGx4VTJmRnJkWG9DXzhLcHlPUzUxbGhSNTlQT21jOFRVb2lsRGdLSEZvR0htZDhFcDF5UXNXTGxCd1Eza1BraGc?oc=5)
 
@@ -53,6 +53,14 @@ Source: [Nordwest-Zeitung](https://news.google.com/rss/articles/CBMi3gFBVV95cUxN
 2026-11-10 <span class="news-indication-tag">tumor</span>
 
 Source: [Medical Tribune](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMi1rR01oU0NyQVZwUVIxOWlsUndJajE0dXQwd3QzX3lUd3ZDRy1kNmUzSFBrUkZLaWtBQm1Wa0RmQWxkcXNONGRrQmpXWkdyLTNIYTcxV1pLR0QtOC1xRF96WTFDakNxeDFNSXFOa1V6Vm9zbExmc2xrWDAzMnVRMU1sTlExT2xva1VucmxSWm1kZnZVRC1DcQ?oc=5)
+
+---
+
+### ['Get checked': Largs pensioner's message to men after prostate cancer diagnosis - Largs and Millport News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEpjX2tBaktJVGhLdHBmX09HZmJPZkVPMk1KYjhJSHNBT3Z6cHUyRGtwZld4MjRpRVpEZVgta3oyMFlTM3VLdzIzOTIwcnhRYXRKbHhlR2F5T2JJSFR3S2h1c05vX0pmN0VTNGNHUHh5dUdsOEt1eWE1b2EzMHdMdTVEZVhzQVJUX2oycURYTnhfN3h2VmlHUTlHUXhEZ2NSY3dQdEdoOWs?oc=5)
+
+2026-11-10 <span class="news-indication-tag">cancer</span>
+
+Source: [Largs and Millport News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEpjX2tBaktJVGhLdHBmX09HZmJPZkVPMk1KYjhJSHNBT3Z6cHUyRGtwZld4MjRpRVpEZVgta3oyMFlTM3VLdzIzOTIwcnhRYXRKbHhlR2F5T2JJSFR3S2h1c05vX0pmN0VTNGNHUHh5dUdsOEt1eWE1b2EzMHdMdTVEZVhzQVJUX2oycURYTnhfN3h2VmlHUTlHUXhEZ2NSY3dQdEdoOWs?oc=5)
 
 ---
 

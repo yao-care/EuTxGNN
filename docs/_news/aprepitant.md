@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Aprepitant. 10 predicted indications."
 permalink: /news/aprepitant/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Aprepitant News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Aprepitant?">
-<strong>Aprepitant</strong> currently has <strong>67 news articles</strong>, with 10 predicted indications.
+<strong>Aprepitant</strong> currently has <strong>68 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Aprepitant with the latest h
 <p><a href="{{ '/drugs/aprepitant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (67)
+## Related News (68)
 
 ### [Vitamin D: Morgens oder abends einnehmen? Das empfiehlt der Arzt - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHNoVVQ4MjhndFhqdjE4cC04czUtcnVhakxLNXNENmdSVFFsS1JXbTJkMHEtX2J4V2hjYkd1WHJkMlF5b3JhLUQ1cENDV2MwOHdDQTZnZEVtSDZBbVlNZy1aYWZhZFJRWjNDNWVWNWlvX08yT2tlUWtaTUZSUm5Ca05HblNJYkJUTE9zWWRZTTVNNnRFTmJncEdtcmdlRDNOa3RibjZLbGZ4aE5hTk03ZTlpb200SjNRZ1JR?oc=5)
 
@@ -329,6 +329,14 @@ Source: [L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cU
 2026-11-04 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
 Source: [Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
+
+---
+
+### [Neue Studie: Risiko für Herzerkrankung bei Dialyse - Medical Tribune](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYWlCclFJYmR4SDRtb0ZGRlpIb0tRRzR3SVlPSVJDZmJyVWxJOE5qWDlPcDkzLUFuc2xyZ1dXczBSZzVWdjZaRXBKNUpGTEZYSXI3NFR2ZFJaWVRJYThVdUdGOFM0UG55V1NycTJtZF95SDV3ZGVNdnZyMHh0cGNyYWpSQ21SbklCLTlrMmR0bXY5cDRmZ1RuM1JPS2dVQm1QUTBPa2tvV0IzY2xuaTBRcUFMY3RnMklOOGdJMElLRWdUeXZUbVRYQ2loYVd5RldqUl9zN2VucmVWRnB6WXlTSHBGaFdfZzU3Y2xpMmRhTml0YnU1?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYWlCclFJYmR4SDRtb0ZGRlpIb0tRRzR3SVlPSVJDZmJyVWxJOE5qWDlPcDkzLUFuc2xyZ1dXczBSZzVWdjZaRXBKNUpGTEZYSXI3NFR2ZFJaWVRJYThVdUdGOFM0UG55V1NycTJtZF95SDV3ZGVNdnZyMHh0cGNyYWpSQ21SbklCLTlrMmR0bXY5cDRmZ1RuM1JPS2dVQm1QUTBPa2tvV0IzY2xuaTBRcUFMY3RnMklOOGdJMElLRWdUeXZUbVRYQ2loYVd5RldqUl9zN2VucmVWRnB6WXlTSHBGaFdfZzU3Y2xpMmRhTml0YnU1?oc=5)
 
 ---
 
