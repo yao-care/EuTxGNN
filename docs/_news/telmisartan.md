@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>120 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>128 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,69 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (120)
+## Related News (128)
+
+### [Laut Nephrologen: Dieser unterschätzte Blutdruck-Wert schädigt die Nieren jahrelang unbemerkt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
+
+2026-11-11 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
+
+---
+
+### [Abnehmspritze abgesetzt: Neue Studie warnt vor erhöhtem Sterberisiko](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGI0Y0tTMDBHd1JXUTFzV0tJTzdxVGxIR2t3aThKSGJoOFoxMHJBQ3dsVjdCZnhtWlplMG42UlViRnpWM1o4Q3duZHBGU0dQT2pEUVdtNV9FSXN2ZTAwSFJHc0RZeEJESVF5MWFVQXk3ZW9hemdUNmdGUlVBUzJuV0E4Qk9xa2RTTVRVR0JwYUZUd09rdDIwWTQ4RmJXaTV1YXRQaVBVc1BwX0RleWh5Qi0taU8wUGFBazVXbA?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGI0Y0tTMDBHd1JXUTFzV0tJTzdxVGxIR2t3aThKSGJoOFoxMHJBQ3dsVjdCZnhtWlplMG42UlViRnpWM1o4Q3duZHBGU0dQT2pEUVdtNV9FSXN2ZTAwSFJHc0RZeEJESVF5MWFVQXk3ZW9hemdUNmdGUlVBUzJuV0E4Qk9xa2RTTVRVR0JwYUZUd09rdDIwWTQ4RmJXaTV1YXRQaVBVc1BwX0RleWh5Qi0taU8wUGFBazVXbA?oc=5)
+
+---
+
+### [¿Recuperación estancada tras sufrir un ictus? Por qué la rehabilitación puede seguir siendo clave meses después - Cantabria Económica](https://news.google.com/rss/articles/CBMihwJBVV95cUxQUG5GYXBqd0dUeXRfNmM1alByZURYTl9wU05kb0RmaXBXSWhYaUJ0OFJoNncwdGFZU2MwYTJJUGE0eWI5RzJOUVZjdlM2OTBsRlZSZ0ROejQ3bUxsQkhYdUQ4NDYxdTd3ZFc4S2cwOVY0TUt2bE5jSzhWZV9taEdmRHlhV3lON1RDWHJSZi1nS3BVSkpxR3dmMDRUMnBCbk1aMFV4Tjhvd2JITUJXRnhDTG5WTl9vcDhvR2hDQTJXZXVScGtFMzZRLVF1aEFoRXFfTFJyUGRSb3I1TWl3Q0FkRDJoY1lDVXotVmxqYzdGOUpUUkdUSWVWWThEMGNfc3RhbkZFU1I4VQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">ictus</span>
+
+Source: [Cantabria Económica](https://news.google.com/rss/articles/CBMihwJBVV95cUxQUG5GYXBqd0dUeXRfNmM1alByZURYTl9wU05kb0RmaXBXSWhYaUJ0OFJoNncwdGFZU2MwYTJJUGE0eWI5RzJOUVZjdlM2OTBsRlZSZ0ROejQ3bUxsQkhYdUQ4NDYxdTd3ZFc4S2cwOVY0TUt2bE5jSzhWZV9taEdmRHlhV3lON1RDWHJSZi1nS3BVSkpxR3dmMDRUMnBCbk1aMFV4Tjhvd2JITUJXRnhDTG5WTl9vcDhvR2hDQTJXZXVScGtFMzZRLVF1aEFoRXFfTFJyUGRSb3I1TWl3Q0FkRDJoY1lDVXotVmxqYzdGOUpUUkdUSWVWWThEMGNfc3RhbkZFU1I4VQ?oc=5)
+
+---
+
+### [Alzheimer-Risiko: Elf beeinflussbare Faktoren könnten 265.000 Fälle verhindern](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTHU5TFpHRGVUMEc0SlIyZDBFWTdrNU9HbE1fY0ZDV3Vtc1ozX3hPNjRoandZSmtHdkFJZ2Zxczh4ZnBJR3gzMlNuXy1XSjZ1UGdFZ0pRdUdodzFHZ3ZfYmM4YjNIaEJNQ0VrTFZNeUV1VXRDcVVqcVBGdDhDS1BSeHRNaVp2NHhOUU5mdmZxVVJmVXJMRlE4bExYMmFJMm0zb0lzY1lMZjJUbXg1cThENWowZVBDczBJNFNrYlpuaGJZdmFDSU9R?oc=5)
+
+2026-11-11 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTHU5TFpHRGVUMEc0SlIyZDBFWTdrNU9HbE1fY0ZDV3Vtc1ozX3hPNjRoandZSmtHdkFJZ2Zxczh4ZnBJR3gzMlNuXy1XSjZ1UGdFZ0pRdUdodzFHZ3ZfYmM4YjNIaEJNQ0VrTFZNeUV1VXRDcVVqcVBGdDhDS1BSeHRNaVp2NHhOUU5mdmZxVVJmVXJMRlE4bExYMmFJMm0zb0lzY1lMZjJUbXg1cThENWowZVBDczBJNFNrYlpuaGJZdmFDSU9R?oc=5)
+
+---
+
+### [Un AVC toutes les 4 minutes en France : 30 682 décès par an et 1,1 million de survivants](https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2xFeVIwQmZEeVhwNWtiRVRpTWhjLXdSekIxRV9MLUdONGs2dmVrNFgyc0RaNXVQZGZ6U0lQTDlPN2hPOHFJWWxyRDJyNk04bmtSdkVwVDNPVDVfLW1xU2E1RTdRU2ppTVJYOHlvLWhaRFZxRjJRRmRyTl9QXzdYaGdDclJ0d0tBNFJCMFJOMGt5cjA0VUNqRWh4OFdrYU15bFdCcVRsaHk2cEgtR3p1dFNQUQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">accident vasculaire cérébral</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2xFeVIwQmZEeVhwNWtiRVRpTWhjLXdSekIxRV9MLUdONGs2dmVrNFgyc0RaNXVQZGZ6U0lQTDlPN2hPOHFJWWxyRDJyNk04bmtSdkVwVDNPVDVfLW1xU2E1RTdRU2ppTVJYOHlvLWhaRFZxRjJRRmRyTl9QXzdYaGdDclJ0d0tBNFJCMFJOMGt5cjA0VUNqRWh4OFdrYU15bFdCcVRsaHk2cEgtR3p1dFNQUQ?oc=5)
+
+---
+
+### [Infarto e ictus, il rischio oltre il colesterolo LDL: ecco gli altri valori da controllare - la Repubblica](https://news.google.com/rss/articles/CBMiggJBVV95cUxNZDhxb2cwcGw1WXdSUzF4VnhybzBhdl9SX2ZsNE1wS3M2c3A3T25kUERKZElqSDZHTk1GMHUyc2ROYXNpMzhHSERMdjZRNTNXWTJTdzFaZk9GMW13QzBPR2xlLXBYTXU4N19WeXF6X2J5bFdxN3dKUTZCTmlNb3hyMmxjTDNmajVIei1ocFFqVGpqN3E3akVVMndWVVg4QW94UkR5aDR0YTNkbHpQbnNoa3lFa0RtcTZQcG4wc0xyZnpiWXRkS2pQVkNPVjZ6MlpsUUdUcWhaekppTGxMcG5OdUxETTNRZTRaQ3U1XzdKcjEycUFselRpeFBwNjZSNFk5VlHSAYcCQVVfeXFMTWNrM096VVRlRmVGbVZxTl9ZQzA1NkZtWElRSVpfMDE3YXhqTGg2WWQ4cExoU0ZPMTZoQ1pFbC12VXhzVEI4Zkk4djVIS0dVeUhudFhqWVFMTjFPVGpUZ0FZR2FBNXBEdFJ1d1d5UlNvSUZwZGVqR1hNVWtvMENkMzFnT29oR2RYNm9TaWdFQjBBMnBqOGxvM0lMNWVwVDFVSnBBOVpsZmFvQ1hQaXBDQk5ia2FIdjJ1YmhvenhiYzloRDFBaUVkQ0QwZlI2V1JHMUdWd0FleHNRaVVyS2VkY1NPSFFJSUdoWmlETTY2VUFIOEs3OTRYMndTME91LVpFNWpaUGdsZkU?oc=5)
+
+2026-11-11 <span class="news-indication-tag">ictus</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMiggJBVV95cUxNZDhxb2cwcGw1WXdSUzF4VnhybzBhdl9SX2ZsNE1wS3M2c3A3T25kUERKZElqSDZHTk1GMHUyc2ROYXNpMzhHSERMdjZRNTNXWTJTdzFaZk9GMW13QzBPR2xlLXBYTXU4N19WeXF6X2J5bFdxN3dKUTZCTmlNb3hyMmxjTDNmajVIei1ocFFqVGpqN3E3akVVMndWVVg4QW94UkR5aDR0YTNkbHpQbnNoa3lFa0RtcTZQcG4wc0xyZnpiWXRkS2pQVkNPVjZ6MlpsUUdUcWhaekppTGxMcG5OdUxETTNRZTRaQ3U1XzdKcjEycUFselRpeFBwNjZSNFk5VlHSAYcCQVVfeXFMTWNrM096VVRlRmVGbVZxTl9ZQzA1NkZtWElRSVpfMDE3YXhqTGg2WWQ4cExoU0ZPMTZoQ1pFbC12VXhzVEI4Zkk4djVIS0dVeUhudFhqWVFMTjFPVGpUZ0FZR2FBNXBEdFJ1d1d5UlNvSUZwZGVqR1hNVWtvMENkMzFnT29oR2RYNm9TaWdFQjBBMnBqOGxvM0lMNWVwVDFVSnBBOVpsZmFvQ1hQaXBDQk5ia2FIdjJ1YmhvenhiYzloRDFBaUVkQ0QwZlI2V1JHMUdWd0FleHNRaVVyS2VkY1NPSFFJSUdoWmlETTY2VUFIOEs3OTRYMndTME91LVpFNWpaUGdsZkU?oc=5)
+
+---
 
 ### [El peligro de infarto e ictus por no tener una rutina de sueño - La Crónica de Salamanca](https://news.google.com/rss/articles/CBMikgFBVV95cUxNOU9nUG1NSkdwSEhEU1FzYWlzdXBEX3BvRmE2MXlzbzJFZ1p4YjUzU3JzNnZZaG1tRTF6UDZBOVNTbDVFVEpkUFZTaXh0QzVYb2JFX2dPajd3c1R4OE9uenFNMFBoMDFPeEZETDhRdTcxaHZySm04bkJfanlPeGd0X1NockVXNmNOZVJINjNWU1dCQQ?oc=5)
 
 2026-11-10 <span class="news-indication-tag">ictus</span>
 
 Source: [La Crónica de Salamanca](https://news.google.com/rss/articles/CBMikgFBVV95cUxNOU9nUG1NSkdwSEhEU1FzYWlzdXBEX3BvRmE2MXlzbzJFZ1p4YjUzU3JzNnZZaG1tRTF6UDZBOVNTbDVFVEpkUFZTaXh0QzVYb2JFX2dPajd3c1R4OE9uenFNMFBoMDFPeEZETDhRdTcxaHZySm04bkJfanlPeGd0X1NockVXNmNOZVJINjNWU1dCQQ?oc=5)
+
+---
+
+### [The time of day you're most likely to have a stroke - and the symptoms to know as cases in young people DOUBLE - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlhUR0gtby02MHhUbFk5TXJrYmVJT3gyaXpoSUo5OURkbE9OalRaRjdRaTM1NW1LNFhwWVFZb3NMMlN6OHIyblJaSzY5dC1qTTRPcmR0Z1c0OGE0WVpiaUdfaC0xOUpJUUZrN0p0MmZPQUVzM3FiU3VPa09HVHpIZTE3aFRELWF0?oc=5)
+
+2026-11-10 <span class="news-indication-tag">stroke</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlhUR0gtby02MHhUbFk5TXJrYmVJT3gyaXpoSUo5OURkbE9OalRaRjdRaTM1NW1LNFhwWVFZb3NMMlN6OHIyblJaSzY5dC1qTTRPcmR0Z1c0OGE0WVpiaUdfaC0xOUpJUUZrN0p0MmZPQUVzM3FiU3VPa09HVHpIZTE3aFRELWF0?oc=5)
 
 ---
 
@@ -59,19 +115,27 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Y
 
 ---
 
-### [Vitamin D: Morgens oder abends einnehmen? Das empfiehlt der Arzt - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHNoVVQ4MjhndFhqdjE4cC04czUtcnVhakxLNXNENmdSVFFsS1JXbTJkMHEtX2J4V2hjYkd1WHJkMlF5b3JhLUQ1cENDV2MwOHdDQTZnZEVtSDZBbVlNZy1aYWZhZFJRWjNDNWVWNWlvX08yT2tlUWtaTUZSUm5Ca05HblNJYkJUTE9zWWRZTTVNNnRFTmJncEdtcmdlRDNOa3RibjZLbGZ4aE5hTk03ZTlpb200SjNRZ1JR?oc=5)
-
-2026-11-10 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHNoVVQ4MjhndFhqdjE4cC04czUtcnVhakxLNXNENmdSVFFsS1JXbTJkMHEtX2J4V2hjYkd1WHJkMlF5b3JhLUQ1cENDV2MwOHdDQTZnZEVtSDZBbVlNZy1aYWZhZFJRWjNDNWVWNWlvX08yT2tlUWtaTUZSUm5Ca05HblNJYkJUTE9zWWRZTTVNNnRFTmJncEdtcmdlRDNOa3RibjZLbGZ4aE5hTk03ZTlpb200SjNRZ1JR?oc=5)
-
----
-
 ### [Stopping weight loss drugs doubles diabetics’ heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 
 2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
+
+---
+
+### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
+
+2026-11-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">atrial fibrillation</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
+
+---
+
+### [Stopping fat jabs ‘doubles the risk of heart attack, stroke or death’, study warns - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1ienhKNDlaT1VGTml4dmZ2Z05QaU5TbVNmRnNHaWZfY19HR19PTTA1TjI1MXREX3R2b0J2MXV6MlczSFV3QXVwb0JsNDEtV01LSlVLbFh4V2NMR0tHcGR1bWR3QVVaVF84cENQdXF1WTljZTN2MjVPMmVONjhGVVdDMVc?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1ienhKNDlaT1VGTml4dmZ2Z05QaU5TbVNmRnNHaWZfY19HR19PTTA1TjI1MXREX3R2b0J2MXV6MlczSFV3QXVwb0JsNDEtV01LSlVLbFh4V2NMR0tHcGR1bWR3QVVaVF84cENQdXF1WTljZTN2MjVPMmVONjhGVVdDMVc?oc=5)
 
 ---
 
@@ -253,7 +317,7 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1Jj
 
 ### [New drug that could permanently cure high blood pressure coming to UK by 2027 - The i Paper](https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZGZKdG82RGs1ZTdhVzU4S1BsWUtjdmZMUmNkbllFcDJfVk5mb3IzYkVybmJQOFd1UnpBWi1rcnBfeUJPdDBZaWx3a1hTN1RzZV9HRDdkNXBuaW1LU21GazBscnJKd2J0ekxua0NSU0VWZFd2a0E?oc=5)
 
-2026-11-07 <span class="news-indication-tag">high blood pressure</span>
+2026-11-07 <span class="news-indication-tag">hypertension</span>
 
 Source: [The i Paper](https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZGZKdG82RGs1ZTdhVzU4S1BsWUtjdmZMUmNkbllFcDJfVk5mb3IzYkVybmJQOFd1UnpBWi1rcnBfeUJPdDBZaWx3a1hTN1RzZV9HRDdkNXBuaW1LU21GazBscnJKd2J0ekxua0NSU0VWZFd2a0E?oc=5)
 

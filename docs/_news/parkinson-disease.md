@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "morbo di Parkinson (parkinson disease) News"
+title: "maladie de Parkinson (parkinson disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about morbo di Parkinson (parkinson disease). 7 articles, 7 related drugs."
+description: "Health news about maladie de Parkinson (parkinson disease). 8 articles, 7 related drugs."
 permalink: /news/parkinson-disease/
 last_modified_at: 2026-11-11
 ---
 
-# morbo di Parkinson (parkinson disease) News
+# maladie de Parkinson (parkinson disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about morbo di Parkinson (parkinson disease)?">
-<strong>morbo di Parkinson (parkinson disease)</strong> currently has <strong>7 news articles</strong> and 7 related drugs.
+<p class="key-answer" data-question="What news is there about maladie de Parkinson (parkinson disease)?">
+<strong>maladie de Parkinson (parkinson disease)</strong> currently has <strong>8 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “morbo di Parkinson” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “maladie de Parkinson” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,21 +35,29 @@ This page brings together the latest health news about “morbo di Parkinson” 
 </ul>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Maladie de Parkinson : une découverte inattendue soulève de nouveaux espoirs de traitement](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5)
+
+2026-11-11
+
+Source: [L'Humanité](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5)
+
+---
+
+### [¿Foslevodopa/foscarbidopa en la enfermedad de Parkinson?](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS01Ibm02QVh1SVAtSGNYejNXRDN6TTNFc214bHNEa0lDbXBsQkJYeVRReXdUTGxNMEdUX2RfY29qVFlIY1pncEhTdkVSa1UxQVZIdkV5RnRteVNpUlRMYnlvZk5DMnE0TzlYUFZ2WFFiUFJBMXNxS2pTLTh3WXh5LU55ZFlfWURFR2xZWHJBTm1vT2FwREozQWRxTTExVHJ5YWtKWUZrSFBzcTFSR09nclF5RkNtYml0R1RUX0pDcUxvOUE1Rm9uWjhlS2ZLNDVZQzR1YmZla2FsMXgtaEZEYXJSSQ?oc=5)
+
+2026-11-11
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS01Ibm02QVh1SVAtSGNYejNXRDN6TTNFc214bHNEa0lDbXBsQkJYeVRReXdUTGxNMEdUX2RfY29qVFlIY1pncEhTdkVSa1UxQVZIdkV5RnRteVNpUlRMYnlvZk5DMnE0TzlYUFZ2WFFiUFJBMXNxS2pTLTh3WXh5LU55ZFlfWURFR2xZWHJBTm1vT2FwREozQWRxTTExVHJ5YWtKWUZrSFBzcTFSR09nclF5RkNtYml0R1RUX0pDcUxvOUE1Rm9uWjhlS2ZLNDVZQzR1YmZla2FsMXgtaEZEYXJSSQ?oc=5)
+
+---
 
 ### [Parkinson e tremori curati senza bisturi: a Pisa la svolta che abbatte 3 anni di liste d’attesa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNek1ld2NybFk2aE1neTdRcFpieDNSNmc4M1ZsczUtQXpHZTVRUU9VWGw4NHZlVVBmNG1DMzdOcXJESDdXLWtiX3c4RlB4bjJNQWMzNnR0WG9LNWs1MEJvQkpvVmlvQ2xKMTYwZVNnSERESkZFWmxMcUNRMk43NmtONHBoQUJZeVliMGs1MGd6X2F6RGQ2OTNmSXpGUXVLT0dyTGxYamFrTmdqVFIwdVlsTGRRSXVNNlFWMVh3R0FQdUNFZw?oc=5)
 
 2026-11-10
 
 Source: [PisaToday](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNek1ld2NybFk2aE1neTdRcFpieDNSNmc4M1ZsczUtQXpHZTVRUU9VWGw4NHZlVVBmNG1DMzdOcXJESDdXLWtiX3c4RlB4bjJNQWMzNnR0WG9LNWs1MEJvQkpvVmlvQ2xKMTYwZVNnSERESkZFWmxMcUNRMk43NmtONHBoQUJZeVliMGs1MGd6X2F6RGQ2OTNmSXpGUXVLT0dyTGxYamFrTmdqVFIwdVlsTGRRSXVNNlFWMVh3R0FQdUNFZw?oc=5)
-
----
-
-### [Maladie de Parkinson : une découverte inattendue soulève de nouveaux espoirs de traitement](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5)
-
-2026-11-10
-
-Source: [L'Humanité](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5)
 
 ---
 

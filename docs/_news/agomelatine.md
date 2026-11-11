@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Agomelatine. 7 predicted indications."
 permalink: /news/agomelatine/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Agomelatine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>27 news articles</strong>, with 7 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>29 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,23 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (27)
+## Related News (29)
+
+### [Krötengift gegen Depressionen: Neues Nasenspray wirkt nach nur einer Dosis - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0pWTW5rQ1h3X090U1Bld2xDQ1RvOHNSMW5TWjV1ODlOdk5fVHhpNmhRN0szUzNpNWZkZGJjcTV4NUNINTdVNlRJc2hBNGxVcXhiTTdHeHpuUEhwSzhFZTlLcFNDbENvVks3Z3hlaG5KQ2dkMmhnUm1rSVhrTGpPNElwSjBWTndiNEUzWXVaZ1hzeHlScXd2WUxjcnlLNXUtTkI0N1JXY2FYRTZodElhR0pDcFZ6Qlk?oc=5)
+
+2026-11-11 <span class="news-indication-tag">depression</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0pWTW5rQ1h3X090U1Bld2xDQ1RvOHNSMW5TWjV1ODlOdk5fVHhpNmhRN0szUzNpNWZkZGJjcTV4NUNINTdVNlRJc2hBNGxVcXhiTTdHeHpuUEhwSzhFZTlLcFNDbENvVks3Z3hlaG5KQ2dkMmhnUm1rSVhrTGpPNElwSjBWTndiNEUzWXVaZ1hzeHlScXd2WUxjcnlLNXUtTkI0N1JXY2FYRTZodElhR0pDcFZ6Qlk?oc=5)
+
+---
+
+### [Antidepressant escitalopram more effective at preventing relapse, analysis finds](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xQm03cDE0bmNERFM5cVdhTjFsNHRNY2hFSVNMaTBhaFJtZ3FJRnhFNUphYkZaMDBZXy01Q0V4eW1LVWFGMWJwdFl2V29DQ2FBekdqWnJtb2I5V1RBaEE?oc=5)
+
+2026-11-11 <span class="news-drug-tag">Agomelatine</span> <span class="news-drug-tag">Duloxetine</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xQm03cDE0bmNERFM5cVdhTjFsNHRNY2hFSVNMaTBhaFJtZ3FJRnhFNUphYkZaMDBZXy01Q0V4eW1LVWFGMWJwdFl2V29DQ2FBekdqWnJtb2I5V1RBaEE?oc=5)
+
+---
 
 ### [Alzheimer's study finds symptom starts in ear 10 years before memory loss - Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
 

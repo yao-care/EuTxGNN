@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>29 news articles</strong>, with 6 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>30 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,23 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (29)
+## Related News (30)
+
+### [Maladie de Parkinson : une découverte inattendue soulève de nouveaux espoirs de traitement](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">maladie de Parkinson</span>
+
+Source: [L'Humanité](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5)
+
+---
+
+### [¿Foslevodopa/foscarbidopa en la enfermedad de Parkinson?](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS01Ibm02QVh1SVAtSGNYejNXRDN6TTNFc214bHNEa0lDbXBsQkJYeVRReXdUTGxNMEdUX2RfY29qVFlIY1pncEhTdkVSa1UxQVZIdkV5RnRteVNpUlRMYnlvZk5DMnE0TzlYUFZ2WFFiUFJBMXNxS2pTLTh3WXh5LU55ZFlfWURFR2xZWHJBTm1vT2FwREozQWRxTTExVHJ5YWtKWUZrSFBzcTFSR09nclF5RkNtYml0R1RUX0pDcUxvOUE1Rm9uWjhlS2ZLNDVZQzR1YmZla2FsMXgtaEZEYXJSSQ?oc=5)
+
+2026-11-11 <span class="news-drug-tag">Carbidopa</span> <span class="news-drug-tag">Levodopa</span> <span class="news-indication-tag">enfermedad de Parkinson</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS01Ibm02QVh1SVAtSGNYejNXRDN6TTNFc214bHNEa0lDbXBsQkJYeVRReXdUTGxNMEdUX2RfY29qVFlIY1pncEhTdkVSa1UxQVZIdkV5RnRteVNpUlRMYnlvZk5DMnE0TzlYUFZ2WFFiUFJBMXNxS2pTLTh3WXh5LU55ZFlfWURFR2xZWHJBTm1vT2FwREozQWRxTTExVHJ5YWtKWUZrSFBzcTFSR09nclF5RkNtYml0R1RUX0pDcUxvOUE1Rm9uWjhlS2ZLNDVZQzR1YmZla2FsMXgtaEZEYXJSSQ?oc=5)
+
+---
 
 ### [Some people are resistant to dementia — here’s what their genes can teach us](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XUFFyaFRpSlRERUYzWlgycHBQZXZ6WEp0QjJTbl9WX21peFJ5Z2FRQXp2QWFCNEREeTVMRlNZd01Kc01pb3o1RnVuTEwwUVpEbUxxQkt1cU9PWVVCX29z?oc=5)
 
@@ -61,14 +77,6 @@ Source: [The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEVzOVg
 2026-11-10 <span class="news-indication-tag">morbo di Parkinson</span>
 
 Source: [PisaToday](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNek1ld2NybFk2aE1neTdRcFpieDNSNmc4M1ZsczUtQXpHZTVRUU9VWGw4NHZlVVBmNG1DMzdOcXJESDdXLWtiX3c4RlB4bjJNQWMzNnR0WG9LNWs1MEJvQkpvVmlvQ2xKMTYwZVNnSERESkZFWmxMcUNRMk43NmtONHBoQUJZeVliMGs1MGd6X2F6RGQ2OTNmSXpGUXVLT0dyTGxYamFrTmdqVFIwdVlsTGRRSXVNNlFWMVh3R0FQdUNFZw?oc=5)
-
----
-
-### [Maladie de Parkinson : une découverte inattendue soulève de nouveaux espoirs de traitement](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5)
-
-2026-11-10 <span class="news-indication-tag">maladie de Parkinson</span>
-
-Source: [L'Humanité](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>21 news articles</strong>, with 0 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>22 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (21)
+## Related News (22)
 
 ### [La FDA exigirá advertencia de pérdida de visión permanente en etiquetas de medicamentos GLP-1](https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3V2U3l0NjJhZ1hwRzl0emJRMmRMc1AxUXQySW9pWEFyeHM2R0hXdXNTTXVWcldEWXVMUUR4aGdtQmFMREFzZG9zcHFIc3pRQ3JtSDN6MUFsMWJ6UHMzaWdMRGgtN2RvNEZvYjh5ZzRXcG1GZkJjbFQxY0J4bU9Wa2NMazkyUV9pRGZ1eXgyMHN5RTllUEN3cUdPWVdhSDdNYnhF?oc=5)
 
@@ -61,6 +61,14 @@ Source: [Today](https://news.google.com/rss/articles/CBMif0FVX3lxTE04a3dTUkJueDF
 2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [https://fomoera.com/](https://news.google.com/rss/articles/CBMicEFVX3lxTE11V2dTaXhjVzFJTEJBM0thSUVJZEtJZ3c4T2hTV3ZlN0JtTnNFOTdOWktmcWJfb3hyOUtCQ3pfLXgzODhhT3FnOGtPTThBekNyU3cxR1F0eWhyaDJnajFlN0tLZ0xOOHN0alAzSHJtSmc?oc=5)
+
+---
+
+### [Prädiabetes und Adipositas: GLP-1-Medikamente senken Diabetesrisiko um 31 Prozent](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcHVzNXNYQ2dqYlEtNlowd1lJQ2F2M3lsUEtZNWJ6SkF3RC1vbk8tOUNkT0dmaVNFQy00ZXRTS2hPXzRxQ1hHdFJLWlRib0JqVWpVM2llTDUwRFpJTXpQSURZX2pfYWlBUjNyalFrVVgtNktGNXdSUnRzVXFvQXN4S0k2RHp5WW45c1hkcXc3bUtzNmNaMUhDRC1IQWRnb2RpRVFNeHU5WlhTUF9ZeWlWc3liekpSc0ZlVnhVal91TmZWYng1a2dNQUN3?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcHVzNXNYQ2dqYlEtNlowd1lJQ2F2M3lsUEtZNWJ6SkF3RC1vbk8tOUNkT0dmaVNFQy00ZXRTS2hPXzRxQ1hHdFJLWlRib0JqVWpVM2llTDUwRFpJTXpQSURZX2pfYWlBUjNyalFrVVgtNktGNXdSUnRzVXFvQXN4S0k2RHp5WW45c1hkcXc3bUtzNmNaMUhDRC1IQWRnb2RpRVFNeHU5WlhTUF9ZeWlWc3liekpSc0ZlVnhVal91TmZWYng1a2dNQUN3?oc=5)
 
 ---
 

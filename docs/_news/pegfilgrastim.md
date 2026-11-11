@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Pegfilgrastim?">
-<strong>Pegfilgrastim</strong> currently has <strong>99 news articles</strong>, with 2 predicted indications.
+<strong>Pegfilgrastim</strong> currently has <strong>115 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,79 @@ This page combines the AI-predicted indications for Pegfilgrastim with the lates
 <p><a href="{{ '/drugs/pegfilgrastim/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (99)
+## Related News (115)
+
+### [Früher Statin-Start bei Diabetes könnte Demenzrisiko senken - PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTBXWkMzWUFYb1ppU3RlblItdmJPRGdJRENRZmZCeGVfeERsNU1MazNOWE9fZE1vRVhUbTJrVXNUMlZkOXV5UzdxMHQyaXoxUjc2YUd6UEFhTlhGMzdmSENLNzdJZ0c5UGEyUHVFRFFzOTB4c0k0TkxZZ1NYVlgwYVZOZUFsbjg5V29nQnlLTXkwX2M?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span>
+
+Source: [PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTBXWkMzWUFYb1ppU3RlblItdmJPRGdJRENRZmZCeGVfeERsNU1MazNOWE9fZE1vRVhUbTJrVXNUMlZkOXV5UzdxMHQyaXoxUjc2YUd6UEFhTlhGMzdmSENLNzdJZ0c5UGEyUHVFRFFzOTB4c0k0TkxZZ1NYVlgwYVZOZUFsbjg5V29nQnlLTXkwX2M?oc=5)
+
+---
+
+### [La Federación Española de Diabetes reivindica equidad territorial, educación terapéutica y asistencia de calidad - Diario Estrategia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd0hGZTFjbElkMzJqZUhMVnk1UkZQWjRDYzFnZU5GWXZTYnN5QWdPaDdPS2JRTWFHX3cwclVIbmtBeHpPMm96ZGd0NVJIaWtXX2xFeDZkeXdyd1h4UzQzczduQzRna0FuOW5KemQ2MGRQRVN3cENrOWdvc0ZzbnpscUZNWWwtYXVTVWRodFBKXzFnVU92N1IwdnRRcmY2cnowNjFBMGN3MEtOcGJGYmhQTWV3WmlmWWpwSVFZellQSkRXODhOWDAyYlZfQ0RnVDRsbWFKNV8zVndpcUNGdkFjbXBsY0l4UHFUYk4wa0xYSm56ZUU?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span>
+
+Source: [Diario Estrategia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd0hGZTFjbElkMzJqZUhMVnk1UkZQWjRDYzFnZU5GWXZTYnN5QWdPaDdPS2JRTWFHX3cwclVIbmtBeHpPMm96ZGd0NVJIaWtXX2xFeDZkeXdyd1h4UzQzczduQzRna0FuOW5KemQ2MGRQRVN3cENrOWdvc0ZzbnpscUZNWWwtYXVTVWRodFBKXzFnVU92N1IwdnRRcmY2cnowNjFBMGN3MEtOcGJGYmhQTWV3WmlmWWpwSVFZellQSkRXODhOWDAyYlZfQ0RnVDRsbWFKNV8zVndpcUNGdkFjbXBsY0l4UHFUYk4wa0xYSm56ZUU?oc=5)
+
+---
+
+### [Daten der AOK: Suhl ist Thüringens Diabetes-Hochburg](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUklkUUZJOFhiWUUzXzJiRHdiaUE0c01FNnU1Q3ZkcE1Bb2V3OFZkTEJxMjJhM200VHd1NklhZHlyTG16djBTSHdTNlNuU2lSM0lyY1RMT1BSQXNvdkhraVVUc093OVJYVDhsaV90Vmpqb0NXWEJuS3JyZE4zM3h1N2RZcFd1R0VleERxUzRLZXY3Q3NLYTFEdU9paTdQc1lqaVNyNjhMREdFUzN5U1Zyb0N0M1FJWHVXTG9TcDZpcUFfZTR2S3lyMlc1bm9uQQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span>
+
+Source: [inSüdthüringen](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUklkUUZJOFhiWUUzXzJiRHdiaUE0c01FNnU1Q3ZkcE1Bb2V3OFZkTEJxMjJhM200VHd1NklhZHlyTG16djBTSHdTNlNuU2lSM0lyY1RMT1BSQXNvdkhraVVUc093OVJYVDhsaV90Vmpqb0NXWEJuS3JyZE4zM3h1N2RZcFd1R0VleERxUzRLZXY3Q3NLYTFEdU9paTdQc1lqaVNyNjhMREdFUzN5U1Zyb0N0M1FJWHVXTG9TcDZpcUFfZTR2S3lyMlc1bm9uQQ?oc=5)
+
+---
+
+### [Ni jus ni smoothie : manger ce fruit entier 3 fois par semaine est associé à 26 % de risque de diabète en moins - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWkhFSkdvRmgtWVlib1hrRWNScWNQbXRwSUNjcklhY1IxejNXcXM1ZDF3NHhnT2dXSUUybmdSdElhQWlhVlNtRFNmSkp0dHh1M25BZDZ0N2d6T21RRGNvWGhHUUc1eDk4R1RkMjlFTHNpMnRQMjJlYXVJRDNyVFdNRy16bnpHMGV3cXJFUk5NQkZ4bUtWMlN1eHlyWXpkY3JLaDNKRUxIYXByRnRRamkzRGJUTVRscms2aTdxdHVlMGFLbHNWY19idUJ5NzlzbnlQWXdxRWUzN3ZfY3RiRWpqTE1Qam5IaTdXc0hGYTVFRk5NTEU2MHZhU0V3?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabète</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWkhFSkdvRmgtWVlib1hrRWNScWNQbXRwSUNjcklhY1IxejNXcXM1ZDF3NHhnT2dXSUUybmdSdElhQWlhVlNtRFNmSkp0dHh1M25BZDZ0N2d6T21RRGNvWGhHUUc1eDk4R1RkMjlFTHNpMnRQMjJlYXVJRDNyVFdNRy16bnpHMGV3cXJFUk5NQkZ4bUtWMlN1eHlyWXpkY3JLaDNKRUxIYXByRnRRamkzRGJUTVRscms2aTdxdHVlMGFLbHNWY19idUJ5NzlzbnlQWXdxRWUzN3ZfY3RiRWpqTE1Qam5IaTdXc0hGYTVFRk5NTEU2MHZhU0V3?oc=5)
+
+---
+
+### [21.600 Menschen im Kreis haben Diabetes: AOK Nordwest startet neues digitales Hilfsangebot](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmNVemZaOVBzU3o0YU01c1I1aFB6TEF6OUI2NzlWZGNPRlNfUXNOZ29iYjMwM1lMa0Fxd3JvU0R6QU04OTZGX1JMak9ZT2xMcjRkMk5wNGhPXzJycU5mdUlIM1RzTG9YWnBWTHhlUjJsUHlrdW1OX054WlNqNlJUa2pKTEdrTndzSnV2WjVWc3BNU0oyWm4yemtYY3lINS1vQmh1bWJkYk83akItY0hsdEVVRTlxZTQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span>
+
+Source: [shz.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmNVemZaOVBzU3o0YU01c1I1aFB6TEF6OUI2NzlWZGNPRlNfUXNOZ29iYjMwM1lMa0Fxd3JvU0R6QU04OTZGX1JMak9ZT2xMcjRkMk5wNGhPXzJycU5mdUlIM1RzTG9YWnBWTHhlUjJsUHlrdW1OX054WlNqNlJUa2pKTEdrTndzSnV2WjVWc3BNU0oyWm4yemtYY3lINS1vQmh1bWJkYk83akItY0hsdEVVRTlxZTQ?oc=5)
+
+---
+
+### [Abnehmspritze abgesetzt: Neue Studie warnt vor erhöhtem Sterberisiko](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGI0Y0tTMDBHd1JXUTFzV0tJTzdxVGxIR2t3aThKSGJoOFoxMHJBQ3dsVjdCZnhtWlplMG42UlViRnpWM1o4Q3duZHBGU0dQT2pEUVdtNV9FSXN2ZTAwSFJHc0RZeEJESVF5MWFVQXk3ZW9hemdUNmdGUlVBUzJuV0E4Qk9xa2RTTVRVR0JwYUZUd09rdDIwWTQ4RmJXaTV1YXRQaVBVc1BwX0RleWh5Qi0taU8wUGFBazVXbA?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGI0Y0tTMDBHd1JXUTFzV0tJTzdxVGxIR2t3aThKSGJoOFoxMHJBQ3dsVjdCZnhtWlplMG42UlViRnpWM1o4Q3duZHBGU0dQT2pEUVdtNV9FSXN2ZTAwSFJHc0RZeEJESVF5MWFVQXk3ZW9hemdUNmdGUlVBUzJuV0E4Qk9xa2RTTVRVR0JwYUZUd09rdDIwWTQ4RmJXaTV1YXRQaVBVc1BwX0RleWh5Qi0taU8wUGFBazVXbA?oc=5)
+
+---
+
+### [Apoteca Natura impulsa una campaña de cribado del riesgo de diabetes tipo 2 - IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDdVS3pURUVicTROR2U3a09YS2tuM3ZjcHB4ckFlMURKTjhXbi1nWEJZcGJBVndiRml0bEVlY1ZJSXJNWGFjMEJhN1lBWE9aM2JxOWhZS1RUTHRIX3dJWnlFcFF4REJpT3Yzc2tTZ3k5NUtrUEloTHpfeS1XUzhjV2ZqSHI0R3BOT1RLbnR1UEdjQy1FWTlqZXFpdENsSTdoWGpXck5STDItc2hKSzBnWkFIMy3SAa8BQVVfeXFMTTROd3FhV21XUlBieGN3dXBXVkhCX1R5UnNNWGlyMXdHWi1UN2R2QVhITjNyQW11NU1aSGhKXzlqdVRSamlzbFFQbTZRY0RYcDhCTldfaHk2LU52ZEdzVmVMR0JqQk1SZG11dUprbjFWbzFaUmRBejVKT21nOFJIY1VuMXlWYmZmX1F5VjdBSXlKaG5xT1dhc0F0dDhfejZqRGNCVEsxVTZqRVBTQ21ERQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span>
+
+Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDdVS3pURUVicTROR2U3a09YS2tuM3ZjcHB4ckFlMURKTjhXbi1nWEJZcGJBVndiRml0bEVlY1ZJSXJNWGFjMEJhN1lBWE9aM2JxOWhZS1RUTHRIX3dJWnlFcFF4REJpT3Yzc2tTZ3k5NUtrUEloTHpfeS1XUzhjV2ZqSHI0R3BOT1RLbnR1UEdjQy1FWTlqZXFpdENsSTdoWGpXck5STDItc2hKSzBnWkFIMy3SAa8BQVVfeXFMTTROd3FhV21XUlBieGN3dXBXVkhCX1R5UnNNWGlyMXdHWi1UN2R2QVhITjNyQW11NU1aSGhKXzlqdVRSamlzbFFQbTZRY0RYcDhCTldfaHk2LU52ZEdzVmVMR0JqQk1SZG11dUprbjFWbzFaUmRBejVKT21nOFJIY1VuMXlWYmZmX1F5VjdBSXlKaG5xT1dhc0F0dDhfejZqRGNCVEsxVTZqRVBTQ21ERQ?oc=5)
+
+---
+
+### [Diabetes und Herzinsuffizienz: Hohe Dunkelziffer](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOC1xaHVfV2N5M1ViU3p3aTBtTjcwSUg3cDhNYWVBUWlOdHRKWlRzSWxXZE5aZzZlRFkxbVNrYlQ2cEdHdS05YzZJNEJIQTZOX08wbFJmNW1fOUdjMGZybEYwc21wRnhncmowbkRGWUt1SVd6cFVwc1dPUHBrRE1ONjByMW52ZDdLc1dZTDZreThUMFJZbEtLTw?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span>
+
+Source: [medonline](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOC1xaHVfV2N5M1ViU3p3aTBtTjcwSUg3cDhNYWVBUWlOdHRKWlRzSWxXZE5aZzZlRFkxbVNrYlQ2cEdHdS05YzZJNEJIQTZOX08wbFJmNW1fOUdjMGZybEYwc21wRnhncmowbkRGWUt1SVd6cFVwc1dPUHBrRE1ONjByMW52ZDdLc1dZTDZreThUMFJZbEtLTw?oc=5)
+
+---
+
+### [Herzinfarkt, Krebs, Demenz & Diabetes: So senken wir unser Risiko - Berliner Morgenpost](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZEZWcl8weHMydmIzME5RZEJzTVJ5OVEyLVZ5ckZ5M2k0RHdkdmdPM3hYOVQ5c2lBX0U1OTVVenpVT19aUGM4X05WVmFvNHBBWl82OWg2LWltNEs3NnIzUU93TGxSQjZpckNwMXpnYzhNN25QN1Z4cFkwX3o4cFlGZ0NNWFF5M2c5eGNMSWU1Q1pJZjNkYVRSRG1JZU9MOThpVDJ5eWhIMm0tTG42d2J2d3FkN1A5NzA?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZEZWcl8weHMydmIzME5RZEJzTVJ5OVEyLVZ5ckZ5M2k0RHdkdmdPM3hYOVQ5c2lBX0U1OTVVenpVT19aUGM4X05WVmFvNHBBWl82OWg2LWltNEs3NnIzUU93TGxSQjZpckNwMXpnYzhNN25QN1Z4cFkwX3o4cFlGZ0NNWFF5M2c5eGNMSWU1Q1pJZjNkYVRSRG1JZU9MOThpVDJ5eWhIMm0tTG42d2J2d3FkN1A5NzA?oc=5)
+
+---
 
 ### [¿Qué pasa realmente cuando dejas Ozempic? Los efectos secundarios que debes conocer - National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
 
@@ -57,6 +129,22 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMWF0cmpXa
 2026-11-10 <span class="news-indication-tag">diabetes</span>
 
 Source: [ConSalud](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNGNCVU91X3RER0VuT0pJeTdUVlhWLXBuUzFfSGc2X3p4TktMY1Y5dTBWUVFZWXA5Q09sNlNJb1dSNWhmZjJvLVlNa3BldFdCTnpFOHNyazMxME5TazEzYjVPeGZEZmZfVjU3OXNxOEpuZHpEZ1hHY2xad2VqZmZiSEJ5dVFQMXZOTWIteFZMc0NHbFRLYzRfUjlSRWZJbWx1Z1p4MUI5c21UdTRxazBub0dJOUViUWxfTmV6cDJmSDhaQ0ozV19HQmtNOEZJZThaS3cwVnN3?oc=5)
+
+---
+
+### [ADEBI abre el programa del Día Mundial de la Diabetes con la exposición ‘Vivir en azul’](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFRGeHpfUDIxZG0wbzFCNnJ2cUpMRDEyWVBObHNTYTBqazUtRmN0SmZWNFFUbGNpZ1hQcGM4WGlOeDJIdWl6S0w1aGN6eDJHNDJpZ2NxVHE4NlFtOFdXa2FoTjhtemQ4d3VnYUFWTHRCV2cwQ251ODYycDdhN2FaZlVDckprSzJjUkVPVkFHc3ZJekhqeTJ6Z3FoZUs3Y3VPVU1yOEVUckFwcmZ6dmF5NNIBtgFBVV95cUxNbHRhc19NOHJZNTlxdEdQaHg1UVoteUdjOWlDOFMwMTVubUVQZnBnU0dyZUJiWnBvTkRhNmt6S3Nva0dILWk1SGZ5d0RuQUVVbmRKT1FRRTU4SUxnV3J5X1pHWmRQVi1zNnpueHNONE5TbGRvaVFDTHY2X19ndi1mbWR5UmlvcDF5UzNBT1RWYTFxcjRkVEN3ZHJVZlFyTGFzTGc0SEE2TE1XTDdGcnMwQjZUUFVTUQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetes</span>
+
+Source: [bierzotv](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFRGeHpfUDIxZG0wbzFCNnJ2cUpMRDEyWVBObHNTYTBqazUtRmN0SmZWNFFUbGNpZ1hQcGM4WGlOeDJIdWl6S0w1aGN6eDJHNDJpZ2NxVHE4NlFtOFdXa2FoTjhtemQ4d3VnYUFWTHRCV2cwQ251ODYycDdhN2FaZlVDckprSzJjUkVPVkFHc3ZJekhqeTJ6Z3FoZUs3Y3VPVU1yOEVUckFwcmZ6dmF5NNIBtgFBVV95cUxNbHRhc19NOHJZNTlxdEdQaHg1UVoteUdjOWlDOFMwMTVubUVQZnBnU0dyZUJiWnBvTkRhNmt6S3Nva0dILWk1SGZ5d0RuQUVVbmRKT1FRRTU4SUxnV3J5X1pHWmRQVi1zNnpueHNONE5TbGRvaVFDTHY2X19ndi1mbWR5UmlvcDF5UzNBT1RWYTFxcjRkVEN3ZHJVZlFyTGFzTGc0SEE2TE1XTDdGcnMwQjZUUFVTUQ?oc=5)
+
+---
+
+### [Diabete, infarto e tumori: più rischi con poche fibre vegetali, ecco come sfruttare meglio frutta e verdura - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNTV4bnhlNUs0aThCSTRMV04tMkpuaHBydjNsY3Uyc2lINGlBRk5YWXpSZHhYYWhVSDFHal9mbXVsem9SVjdRT1prMXNJT20yXzZ5Mjh5RUxqYVpTR3ZoamhjSkNKY2UtalRWVTdyZ29YZ0syLU1HamZsbEtrdjExckdQSUs3VkxVWVdOVUVRQW1WUnpLcjFybDZSQVVmbGRZbjdNYzZwZ2U0SGx4S2I4UWdUT0JrdExMbW41dXFHbllUWFFaWnVPNkxLX1Z3TEpNRGZxS19QUlM?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNTV4bnhlNUs0aThCSTRMV04tMkpuaHBydjNsY3Uyc2lINGlBRk5YWXpSZHhYYWhVSDFHal9mbXVsem9SVjdRT1prMXNJT20yXzZ5Mjh5RUxqYVpTR3ZoamhjSkNKY2UtalRWVTdyZ29YZ0syLU1HamZsbEtrdjExckdQSUs3VkxVWVdOVUVRQW1WUnpLcjFybDZSQVVmbGRZbjdNYzZwZ2U0SGx4S2I4UWdUT0JrdExMbW41dXFHbllUWFFaWnVPNkxLX1Z3TEpNRGZxS19QUlM?oc=5)
 
 ---
 
@@ -100,6 +188,14 @@ Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXF5
 
 ---
 
+### [Piede diabetico, piccole incisioni aiutano le ulcere a chiudersi: cosa rivela il trial](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWFVYWU0xdGZGTzdzeTB2Vkkza0VncmUtZ2pPT2lEa291WWZDbTZXUjB0RGRidVlzT3hmS05YMjJ5d25GcDdiallkVkx6bGROd2EySGkwYVpxMzZGRGx6b3ZYNURHUnFXYmdMTmxodnN2eGFsNy1tenlac3JQdTBQU21qNjZVYUtXeFZ3bFVlMTE3amVnVEVPdUp0SGViMkNodFlVU2xqMUlLS0daZHYyVGxyT28ybE1DUVhCbnV6ZkgtOGQ5UXlrTTdDSGxDcktfeFdCTHFpRUhxS2dS?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetic</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWFVYWU0xdGZGTzdzeTB2Vkkza0VncmUtZ2pPT2lEa291WWZDbTZXUjB0RGRidVlzT3hmS05YMjJ5d25GcDdiallkVkx6bGROd2EySGkwYVpxMzZGRGx6b3ZYNURHUnFXYmdMTmxodnN2eGFsNy1tenlac3JQdTBQU21qNjZVYUtXeFZ3bFVlMTE3amVnVEVPdUp0SGViMkNodFlVU2xqMUlLS0daZHYyVGxyT28ybE1DUVhCbnV6ZkgtOGQ5UXlrTTdDSGxDcktfeFdCTHFpRUhxS2dS?oc=5)
+
+---
+
 ### [ADEBI reivindica la detección precoz para combatir la diabetes en el Bierzo - Diario de León](https://news.google.com/rss/articles/CBMiswFBVV95cUxQT1VrMjF1LWtCUFlldU9IZkVkXy1JenRqem9wMXFfbUZ3QWhmSUxmeWRQYkk4OVlmeUlqX1hmYkExY1pTR1hNRU12aHpYNjBTQVVoTl9JU0tyV2ktNEttYzNDeUcxYnRBQUVzYklxekcxN1hkbDRGcWhYTmxtR2ZJTjFxaDltZHRTeEdtS1h3YkhzM3VlZGphdlQxNFdLYzh5VW1HS1NFQ01PVmVtUEQxa2Exa9IBuAFBVV95cUxQUkh4bVR1RmhWTWoxb2FUMmg2U0RVMGlhRW5QYnlseU9zSDJlTno5UEhvMnhXQzJaY3FYcjIzRkZ5dGxOSVpabkxwdE9MSEZNcnAzNWRqUTl1TUl6TVdrMXFzVU5vamx0QzlMMXBLVEpseUZ3MmsyZkx4c0swclgwRFlYQkppRUw3Q0duOXl1cGRySmVvNWVNUl9oaG1fd2ZvOTIzWjBpNi04dU5nSlNNdnlnYXNrZEpk?oc=5)
 
 2026-11-10 <span class="news-indication-tag">diabetes</span>
@@ -121,6 +217,14 @@ Source: [Cartagena Actualidad](https://news.google.com/rss/articles/CBMi_gFBVV95
 2026-11-10 <span class="news-indication-tag">diabetes</span>
 
 Source: [La Nueva Crónica](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2liM0UzWWxJNVhjeWU1S255Y185OF9qSGlhWUV5T1I4UkVWMTVnUExqbmxVWDZtUFlsSUI5aGtkX3hWXzJzVVFmS1BramFQZlRTMjJPSFRkcTlmcGpzOW01bGhsSWdPRGtuYW5zenJ1NmlOcmFPZzNua050UzBTeUEyazlLVktHaXE1QWswd2JvdU5IcFB1VUtSX0Z0OXdxZkIwYmZLbUVxdUxpX3JLUg?oc=5)
+
+---
+
+### [Riconoscere o convivere con il diabete: dove fare controlli gratuiti, prevenzione e diagnosi precoce a Torino e in Piemonte](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVF0dXpCeGg1WmJkckVrWnNfelg2em1SUEJxclp0Y2NFWm01X3AzMlN6Mlg4VUlBY01RQmVfS05OeHJEWEtmMG51aDFzWnp4aXp4Vm1NOEVGLWpseFAyNXJQaVpwTEgySDVxNm5FLWF1T2FVd3RySU9EdHMxYVBGOGFjVERUQy1CSFZxaGtNNnZiZDJBRjBGTw?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetic</span>
+
+Source: [TorinoToday](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVF0dXpCeGg1WmJkckVrWnNfelg2em1SUEJxclp0Y2NFWm01X3AzMlN6Mlg4VUlBY01RQmVfS05OeHJEWEtmMG51aDFzWnp4aXp4Vm1NOEVGLWpseFAyNXJQaVpwTEgySDVxNm5FLWF1T2FVd3RySU9EdHMxYVBGOGFjVERUQy1CSFZxaGtNNnZiZDJBRjBGTw?oc=5)
 
 ---
 
@@ -148,11 +252,27 @@ Source: [Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMivwFBVV
 
 ---
 
+### [Stopping fat jabs ‘doubles the risk of heart attack, stroke or death’, study warns - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1ienhKNDlaT1VGTml4dmZ2Z05QaU5TbVNmRnNHaWZfY19HR19PTTA1TjI1MXREX3R2b0J2MXV6MlczSFV3QXVwb0JsNDEtV01LSlVLbFh4V2NMR0tHcGR1bWR3QVVaVF84cENQdXF1WTljZTN2MjVPMmVONjhGVVdDMVc?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1ienhKNDlaT1VGTml4dmZ2Z05QaU5TbVNmRnNHaWZfY19HR19PTTA1TjI1MXREX3R2b0J2MXV6MlczSFV3QXVwb0JsNDEtV01LSlVLbFh4V2NMR0tHcGR1bWR3QVVaVF84cENQdXF1WTljZTN2MjVPMmVONjhGVVdDMVc?oc=5)
+
+---
+
 ### [Prädiabetes und Adipositas: GLP-1-Medikamente senken Diabetesrisiko um 31 Prozent](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcHVzNXNYQ2dqYlEtNlowd1lJQ2F2M3lsUEtZNWJ6SkF3RC1vbk8tOUNkT0dmaVNFQy00ZXRTS2hPXzRxQ1hHdFJLWlRib0JqVWpVM2llTDUwRFpJTXpQSURZX2pfYWlBUjNyalFrVVgtNktGNXdSUnRzVXFvQXN4S0k2RHp5WW45c1hkcXc3bUtzNmNaMUhDRC1IQWRnb2RpRVFNeHU5WlhTUF9ZeWlWc3liekpSc0ZlVnhVal91TmZWYng1a2dNQUN3?oc=5)
 
-2026-11-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-11-09 <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcHVzNXNYQ2dqYlEtNlowd1lJQ2F2M3lsUEtZNWJ6SkF3RC1vbk8tOUNkT0dmaVNFQy00ZXRTS2hPXzRxQ1hHdFJLWlRib0JqVWpVM2llTDUwRFpJTXpQSURZX2pfYWlBUjNyalFrVVgtNktGNXdSUnRzVXFvQXN4S0k2RHp5WW45c1hkcXc3bUtzNmNaMUhDRC1IQWRnb2RpRVFNeHU5WlhTUF9ZeWlWc3liekpSc0ZlVnhVal91TmZWYng1a2dNQUN3?oc=5)
+
+---
+
+### [El microbioma intestinal de perros y gatos apunta a una nueva pista sobre la diabetes](https://news.google.com/rss/articles/CBMid0FVX3lxTE5jZVowTmRxV2tVS2JWcW82cjhfSTAxV1JpdHROc2kydUswYjF5U2F4MTNaNzBJWnE1ZF9HREJNbkJELVpsVkdrNUdVelFvaE9FeEtfYzZJdm4xRFB4VkZ4SmNQWUVfZG0wenNaZV9tREFJcnJsczRn?oc=5)
+
+2026-11-09 <span class="news-indication-tag">diabetes</span>
+
+Source: [Qué.es](https://news.google.com/rss/articles/CBMid0FVX3lxTE5jZVowTmRxV2tVS2JWcW82cjhfSTAxV1JpdHROc2kydUswYjF5U2F4MTNaNzBJWnE1ZF9HREJNbkJELVpsVkdrNUdVelFvaE9FeEtfYzZJdm4xRFB4VkZ4SmNQWUVfZG0wenNaZV9tREFJcnJsczRn?oc=5)
 
 ---
 
@@ -305,6 +425,14 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPRldXU3Zf
 2026-11-07 <span class="news-indication-tag">diabetes</span>
 
 Source: [BILD](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUUo5UjRhREF6ZGpzNDlOWkdKMjJzdkI4NVpjM0k0dVZwcTZBR1ZnMEpTdjVQVHNDQ1VsaTZlVWJEcW91V2plZWtWc0JVbXlkWUItdXQzNlNPODdUTHdaX09ua1pJdVEyTFVPYWxBOFJ1cXhvMHdHaEpyWS1PTUxNa2NpNHRtYmszN25MYndjNVlrY1MtNGFNQW9IQUlDa2lhdHpSbUxKLS1lN1VQSmlYRHNac0NkNlE0R042WXA1b1FZVjhVZzZZNg?oc=5)
+
+---
+
+### [Obesity drugs may help protect memory and cognitive abilities](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnA2M2UyWHdtX1ctZHp6Z3AwWkRnUnNobXc1ZDRsaTZLRzdGTjhZQVNocUplTzZMMVF0d25UUV9UU0N4Y21aaFFzOWxKclZsX2p2ZUI3T09ndFFrcVcwSTBveS1MY3VYRGN4cHpuTVduT1k1WVJMZTV2SDdmeTR2YmxGbFZPZG1uMUN0N00zbzlONkxWYUM4cktwR0hQMkxDeUxHX2JaVjlRcXU5NVE?oc=5)
+
+2026-11-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnA2M2UyWHdtX1ctZHp6Z3AwWkRnUnNobXc1ZDRsaTZLRzdGTjhZQVNocUplTzZMMVF0d25UUV9UU0N4Y21aaFFzOWxKclZsX2p2ZUI3T09ndFFrcVcwSTBveS1MY3VYRGN4cHpuTVduT1k1WVJMZTV2SDdmeTR2YmxGbFZPZG1uMUN0N00zbzlONkxWYUM4cktwR0hQMkxDeUxHX2JaVjlRcXU5NVE?oc=5)
 
 ---
 

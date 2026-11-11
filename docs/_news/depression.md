@@ -3,9 +3,9 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 27 articles, 7 related drugs."
+description: "Health news about dépression (depression). 28 articles, 7 related drugs."
 permalink: /news/depression/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # dépression (depression) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>27 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>28 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (27)
+## Related News (28)
+
+### [Krötengift gegen Depressionen: Neues Nasenspray wirkt nach nur einer Dosis - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0pWTW5rQ1h3X090U1Bld2xDQ1RvOHNSMW5TWjV1ODlOdk5fVHhpNmhRN0szUzNpNWZkZGJjcTV4NUNINTdVNlRJc2hBNGxVcXhiTTdHeHpuUEhwSzhFZTlLcFNDbENvVks3Z3hlaG5KQ2dkMmhnUm1rSVhrTGpPNElwSjBWTndiNEUzWXVaZ1hzeHlScXd2WUxjcnlLNXUtTkI0N1JXY2FYRTZodElhR0pDcFZ6Qlk?oc=5)
+
+2026-11-11
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0pWTW5rQ1h3X090U1Bld2xDQ1RvOHNSMW5TWjV1ODlOdk5fVHhpNmhRN0szUzNpNWZkZGJjcTV4NUNINTdVNlRJc2hBNGxVcXhiTTdHeHpuUEhwSzhFZTlLcFNDbENvVks3Z3hlaG5KQ2dkMmhnUm1rSVhrTGpPNElwSjBWTndiNEUzWXVaZ1hzeHlScXd2WUxjcnlLNXUtTkI0N1JXY2FYRTZodElhR0pDcFZ6Qlk?oc=5)
+
+---
 
 ### [Alzheimer's study finds symptom starts in ear 10 years before memory loss - Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
 

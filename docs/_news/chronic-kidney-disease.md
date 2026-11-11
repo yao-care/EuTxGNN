@@ -3,7 +3,7 @@ layout: default
 title: "chronische Nierenerkrankung (chronic kidney disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about chronische Nierenerkrankung (chronic kidney disease). 7 articles, 1 related drugs."
+description: "Health news about chronische Nierenerkrankung (chronic kidney disease). 8 articles, 1 related drugs."
 permalink: /news/chronic-kidney-disease/
 last_modified_at: 2026-11-11
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about chronische Nierenerkrankung (chronic kidney disease)?">
-<strong>chronische Nierenerkrankung (chronic kidney disease)</strong> currently has <strong>7 news articles</strong> and 1 related drugs.
+<strong>chronische Nierenerkrankung (chronic kidney disease)</strong> currently has <strong>8 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “chronische Nierenerkra
 </ul>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Laut Nephrologen: Dieser unterschätzte Blutdruck-Wert schädigt die Nieren jahrelang unbemerkt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
+
+2026-11-11
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
+
+---
 
 ### [Chronische Nierenerkrankung: 100 Millionen Betroffene in Europa im Fokus](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFFvSVEtSGZwRms4ZU9QY1JiZ3Vlb21sQmcyalE2MmJNMWRpRXBfNFk4Uk5YSmlBWUhHN2tlX0NBbVBsd1BNR2hlVl94SkhLZGc2X3Q3Q0NmUnVMYk1LcUFVUU1hRXdTeXJHdDNoLWE1LUY2ZFhMRWZnWE11djAxZktRM3pfVXdKaVpFU0ExM2F6NjJjM1VaZnlicTVITkM4cHhHY0IyczhheGdlMTZRUlhCSzFLS2w4SkliTg?oc=5)
 
