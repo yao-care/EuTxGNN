@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>86 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>87 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (86)
+## Related News (87)
 
 ### [Abnehmspritze abgesetzt: Neue Studie warnt vor erhöhtem Sterberisiko](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGI0Y0tTMDBHd1JXUTFzV0tJTzdxVGxIR2t3aThKSGJoOFoxMHJBQ3dsVjdCZnhtWlplMG42UlViRnpWM1o4Q3duZHBGU0dQT2pEUVdtNV9FSXN2ZTAwSFJHc0RZeEJESVF5MWFVQXk3ZW9hemdUNmdGUlVBUzJuV0E4Qk9xa2RTTVRVR0JwYUZUd09rdDIwWTQ4RmJXaTV1YXRQaVBVc1BwX0RleWh5Qi0taU8wUGFBazVXbA?oc=5)
 
@@ -80,6 +80,14 @@ Source: [JeChange](https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2xFeVIw
 2026-11-11 <span class="news-indication-tag">ictus</span>
 
 Source: [la Repubblica](https://news.google.com/rss/articles/CBMiggJBVV95cUxNZDhxb2cwcGw1WXdSUzF4VnhybzBhdl9SX2ZsNE1wS3M2c3A3T25kUERKZElqSDZHTk1GMHUyc2ROYXNpMzhHSERMdjZRNTNXWTJTdzFaZk9GMW13QzBPR2xlLXBYTXU4N19WeXF6X2J5bFdxN3dKUTZCTmlNb3hyMmxjTDNmajVIei1ocFFqVGpqN3E3akVVMndWVVg4QW94UkR5aDR0YTNkbHpQbnNoa3lFa0RtcTZQcG4wc0xyZnpiWXRkS2pQVkNPVjZ6MlpsUUdUcWhaekppTGxMcG5OdUxETTNRZTRaQ3U1XzdKcjEycUFselRpeFBwNjZSNFk5VlHSAYcCQVVfeXFMTWNrM096VVRlRmVGbVZxTl9ZQzA1NkZtWElRSVpfMDE3YXhqTGg2WWQ4cExoU0ZPMTZoQ1pFbC12VXhzVEI4Zkk4djVIS0dVeUhudFhqWVFMTjFPVGpUZ0FZR2FBNXBEdFJ1d1d5UlNvSUZwZGVqR1hNVWtvMENkMzFnT29oR2RYNm9TaWdFQjBBMnBqOGxvM0lMNWVwVDFVSnBBOVpsZmFvQ1hQaXBDQk5ia2FIdjJ1YmhvenhiYzloRDFBaUVkQ0QwZlI2V1JHMUdWd0FleHNRaVVyS2VkY1NPSFFJSUdoWmlETTY2VUFIOEs3OTRYMndTME91LVpFNWpaUGdsZkU?oc=5)
+
+---
+
+### [Winterkälte: Blutdruck kann pro 10 Grad Temperaturabfall um 7 mmHg steigen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGhiV1RkR1c3cHhrM0JJVjNBdGFMLWtkaTBJSVppd1RjSHR6LUJsbVdwM3VwZDBCOHY4d3JaVjU5aVRPM2VaUHdhRWZaVkgyaVI4SEY0N1dNNVByaDVBX0s5NExDZnItbzZkeldzTkZ1dktSTTFaMzJUOWJwT19lZmYxR2pOQnBaUXdpYWhNaktzSE1HWldzMDQxQ1VOQ1dPWkpTY1Y4Wm8zcUktUnVxSElEanhjdm1XUnBtRWZTMEY?oc=5)
+
+2026-11-10 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGhiV1RkR1c3cHhrM0JJVjNBdGFMLWtkaTBJSVppd1RjSHR6LUJsbVdwM3VwZDBCOHY4d3JaVjU5aVRPM2VaUHdhRWZaVkgyaVI4SEY0N1dNNVByaDVBX0s5NExDZnItbzZkeldzTkZ1dktSTTFaMzJUOWJwT19lZmYxR2pOQnBaUXdpYWhNaktzSE1HWldzMDQxQ1VOQ1dPWkpTY1Y4Wm8zcUktUnVxSElEanhjdm1XUnBtRWZTMEY?oc=5)
 
 ---
 

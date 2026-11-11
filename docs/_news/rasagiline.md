@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>30 news articles</strong>, with 6 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>31 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,21 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (30)
+## Related News (31)
 
-### [Maladie de Parkinson : une découverte inattendue soulève de nouveaux espoirs de traitement](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5)
+### [The blood-brain barrier may contribute to cognitive function - The Economist](https://news.google.com/rss/articles/CBMivAFBVV95cUxPcU1wOWQyWk5zSkJ2WmlHREREQTZEckQzUXo3SUktLVB6Wmp0SWI3Q1NydnU3N2pxdjZkYk9pUXQ3VlFZdjktWHI2bHNPMXZESjJEelo1LUVDNVRwQXQ5bU1aYkFtTnZ0SjJsSlRNN0dpRTkwV2ZyWm9MRFFXbFpsV3VJYno4bzB2TTVNQkg4NW16b2s5QjdjblAwZlE5eHYwRUNrY0V1ZVIxdE9FeUtUdDFaRmVtTk43bnljVQ?oc=5)
 
-2026-11-11 <span class="news-indication-tag">maladie de Parkinson</span>
+2026-11-11 <span class="news-indication-tag">Alzheimer's</span>
 
-Source: [L'Humanité](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5)
+Source: [The Economist](https://news.google.com/rss/articles/CBMivAFBVV95cUxPcU1wOWQyWk5zSkJ2WmlHREREQTZEckQzUXo3SUktLVB6Wmp0SWI3Q1NydnU3N2pxdjZkYk9pUXQ3VlFZdjktWHI2bHNPMXZESjJEelo1LUVDNVRwQXQ5bU1aYkFtTnZ0SjJsSlRNN0dpRTkwV2ZyWm9MRFFXbFpsV3VJYno4bzB2TTVNQkg4NW16b2s5QjdjblAwZlE5eHYwRUNrY0V1ZVIxdE9FeUtUdDFaRmVtTk43bnljVQ?oc=5)
+
+---
+
+### [My husband died with dementia at 51 – so I’ve devoted my life to finding a cure - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcHpnUHNWWWN0M2JrWVNjZ3BBQzUxTDVkZXUwWUJBY3d1Sm1LaUplMlZ1cVk1RXFpQlo0QXVYNFE1RjhmWjlvOUhsVldhWnJhRWtaNHdDZ3JhZVN4WlduQl9aTng2X3FfY3lFY1pxRGZLQmVhYnJtak9wZzF2V2JIYXA3czByekxkNDduUzdvZk03NFlTNmN3aklqM2lYcE5rM1hINE1DMW54QQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">dementia</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcHpnUHNWWWN0M2JrWVNjZ3BBQzUxTDVkZXUwWUJBY3d1Sm1LaUplMlZ1cVk1RXFpQlo0QXVYNFE1RjhmWjlvOUhsVldhWnJhRWtaNHdDZ3JhZVN4WlduQl9aTng2X3FfY3lFY1pxRGZLQmVhYnJtak9wZzF2V2JIYXA3czByekxkNDduUzdvZk03NFlTNmN3aklqM2lYcE5rM1hINE1DMW54QQ?oc=5)
 
 ---
 
@@ -66,17 +74,17 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XUFFyaFRpSl
 
 ### [Vibrating mattress may clean your brain and fend off Alzheimer’s - The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEVzOVg5aGdTckY4ekNQZk9BeG4zTWdQN0taQ2dmcE53MDNJbjBIQWV0VElPLTlPbmZJc3pnc3dPQnRCNWpDWXpadVNsTDJZVEVKc2ZqMFBoLVNNVmN3aTA1ZkJvOWNUSmNlTE94enRzNmEtTW01T0poRHVKNXBHekRkQmRBdmFjdDRBdjFxTDR1TmppcTkzQ0VfU05WS1ByX0k2UUhFNVlCc0E?oc=5)
 
-2026-11-10 <span class="news-indication-tag">Alzheimer's</span>
+2026-11-10 <span class="news-indication-tag">dementia</span>
 
 Source: [The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEVzOVg5aGdTckY4ekNQZk9BeG4zTWdQN0taQ2dmcE53MDNJbjBIQWV0VElPLTlPbmZJc3pnc3dPQnRCNWpDWXpadVNsTDJZVEVKc2ZqMFBoLVNNVmN3aTA1ZkJvOWNUSmNlTE94enRzNmEtTW01T0poRHVKNXBHekRkQmRBdmFjdDRBdjFxTDR1TmppcTkzQ0VfU05WS1ByX0k2UUhFNVlCc0E?oc=5)
 
 ---
 
-### [Parkinson e tremori curati senza bisturi: a Pisa la svolta che abbatte 3 anni di liste d’attesa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNek1ld2NybFk2aE1neTdRcFpieDNSNmc4M1ZsczUtQXpHZTVRUU9VWGw4NHZlVVBmNG1DMzdOcXJESDdXLWtiX3c4RlB4bjJNQWMzNnR0WG9LNWs1MEJvQkpvVmlvQ2xKMTYwZVNnSERESkZFWmxMcUNRMk43NmtONHBoQUJZeVliMGs1MGd6X2F6RGQ2OTNmSXpGUXVLT0dyTGxYamFrTmdqVFIwdVlsTGRRSXVNNlFWMVh3R0FQdUNFZw?oc=5)
+### [Maladie de Parkinson : une découverte inattendue soulève de nouveaux espoirs de traitement](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5)
 
-2026-11-10 <span class="news-indication-tag">morbo di Parkinson</span>
+2026-11-10 <span class="news-indication-tag">maladie de Parkinson</span>
 
-Source: [PisaToday](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNek1ld2NybFk2aE1neTdRcFpieDNSNmc4M1ZsczUtQXpHZTVRUU9VWGw4NHZlVVBmNG1DMzdOcXJESDdXLWtiX3c4RlB4bjJNQWMzNnR0WG9LNWs1MEJvQkpvVmlvQ2xKMTYwZVNnSERESkZFWmxMcUNRMk43NmtONHBoQUJZeVliMGs1MGd6X2F6RGQ2OTNmSXpGUXVLT0dyTGxYamFrTmdqVFIwdVlsTGRRSXVNNlFWMVh3R0FQdUNFZw?oc=5)
+Source: [L'Humanité](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5)
 
 ---
 

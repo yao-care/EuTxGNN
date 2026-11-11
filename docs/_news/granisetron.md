@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Granisetron?">
-<strong>Granisetron</strong> currently has <strong>19 news articles</strong>, with 10 predicted indications.
+<strong>Granisetron</strong> currently has <strong>20 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Granisetron with the latest 
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (20)
+
+### [Médico insta a dejar de fumar para prevenir o detener el avance de la EPOC](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzlnUWlRRVM0MndkQWUyQVgyTGRzN3cwZXo2SkFVb0FoZnJGdHlhVWYyQ19MalFpSlh6QVgweUVwS05odEVNM2ltU2lGUGpyM0NqeEdHTlJIb1AtZFhFTTJydlM2QkdzYkpiY2h3aWozYkhPVEhhekNoT2JaM1J2M1FZYU9GeTdSb1B0bWFaM2VMUEJVNG1DdEpMT3I1WTBWdTNwVG9qeEV0Mm8yeS0wUTl2ZmpYSVo2ZkJ0bS1IS0dwdXBMdHc?oc=5)
+
+2026-11-11 <span class="news-indication-tag">EPOC</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzlnUWlRRVM0MndkQWUyQVgyTGRzN3cwZXo2SkFVb0FoZnJGdHlhVWYyQ19MalFpSlh6QVgweUVwS05odEVNM2ltU2lGUGpyM0NqeEdHTlJIb1AtZFhFTTJydlM2QkdzYkpiY2h3aWozYkhPVEhhekNoT2JaM1J2M1FZYU9GeTdSb1B0bWFaM2VMUEJVNG1DdEpMT3I1WTBWdTNwVG9qeEV0Mm8yeS0wUTl2ZmpYSVo2ZkJ0bS1IS0dwdXBMdHc?oc=5)
+
+---
 
 ### [Alzheimer-Risiko: Elf beeinflussbare Faktoren könnten 265.000 Fälle verhindern](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTHU5TFpHRGVUMEc0SlIyZDBFWTdrNU9HbE1fY0ZDV3Vtc1ozX3hPNjRoandZSmtHdkFJZ2Zxczh4ZnBJR3gzMlNuXy1XSjZ1UGdFZ0pRdUdodzFHZ3ZfYmM4YjNIaEJNQ0VrTFZNeUV1VXRDcVVqcVBGdDhDS1BSeHRNaVp2NHhOUU5mdmZxVVJmVXJMRlE4bExYMmFJMm0zb0lzY1lMZjJUbXg1cThENWowZVBDczBJNFNrYlpuaGJZdmFDSU9R?oc=5)
 

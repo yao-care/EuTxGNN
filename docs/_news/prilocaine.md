@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Prilocaine?">
-<strong>Prilocaine</strong> currently has <strong>25 news articles</strong>, with 10 predicted indications.
+<strong>Prilocaine</strong> currently has <strong>26 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Prilocaine with the latest h
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (25)
+## Related News (26)
+
+### [Médico insta a dejar de fumar para prevenir o detener el avance de la EPOC](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzlnUWlRRVM0MndkQWUyQVgyTGRzN3cwZXo2SkFVb0FoZnJGdHlhVWYyQ19MalFpSlh6QVgweUVwS05odEVNM2ltU2lGUGpyM0NqeEdHTlJIb1AtZFhFTTJydlM2QkdzYkpiY2h3aWozYkhPVEhhekNoT2JaM1J2M1FZYU9GeTdSb1B0bWFaM2VMUEJVNG1DdEpMT3I1WTBWdTNwVG9qeEV0Mm8yeS0wUTl2ZmpYSVo2ZkJ0bS1IS0dwdXBMdHc?oc=5)
+
+2026-11-11 <span class="news-indication-tag">EPOC</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzlnUWlRRVM0MndkQWUyQVgyTGRzN3cwZXo2SkFVb0FoZnJGdHlhVWYyQ19MalFpSlh6QVgweUVwS05odEVNM2ltU2lGUGpyM0NqeEdHTlJIb1AtZFhFTTJydlM2QkdzYkpiY2h3aWozYkhPVEhhekNoT2JaM1J2M1FZYU9GeTdSb1B0bWFaM2VMUEJVNG1DdEpMT3I1WTBWdTNwVG9qeEV0Mm8yeS0wUTl2ZmpYSVo2ZkJ0bS1IS0dwdXBMdHc?oc=5)
+
+---
 
 ### [Experta subraya la relevancia de que el paciente describa bien la migraña para diferenciarla de otros dolores de cabeza - Diario Estrategia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRmx5WDdubXUxU0d4Vk4zVjl3VmJVMDZ4WEtqOUQ4WHF5SzVpT3pFMWtOM1Z6d2RKTmZ6RnhMVHN4SUJyLVVfTWFqTHNWd28zNXl4NFh1clN0QjkydU1LcVJnYzFOblp6MS04NWNoR0tKYmFnT2JQY0E1TzlvczVGRk1XMnNkbVlROFRNdkxHZDhPdkJDdHc2cFdvTGtGWVpYdjFFdDNqTlZTNll0bnVCYTBqVzFnay0yMjBMWnQtMk5lTVplalpxRzdXdG90dk9vbExkZl96bnpPeWN2YjVOeVE2anRZSHJP?oc=5)
 

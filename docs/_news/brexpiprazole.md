@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Brexpiprazole?">
-<strong>Brexpiprazole</strong> currently has <strong>28 news articles</strong>, with 0 predicted indications.
+<strong>Brexpiprazole</strong> currently has <strong>30 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Brexpiprazole with the lates
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (28)
+## Related News (30)
+
+### [Antidepressiva im Langzeit-Check: Drei Wirkstoffe erweisen sich als nachhaltig effektiv](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRWZTT2FzSlgwc1U4X3IzTThyVnBTLXZLazFUZmNPSi1nOE5rZmhSdmw5OWhpalNRM1NpR1MwVzY2MzFNbmFJYnk2TGYzWXlHbkVLN05hRklOLVB5WnlJdFpvLVRnV1hQYk5jay1fTWpnQWd0ZV8xZTI3QUxiQ2sxazhmVllLZVNjNjJNT0JXUk1XSzBSaFhjZER0bXUxZU9leE9qOXNvRXlzNHRWSTBqTTJYd1I3bkYza21YVEV4SXVjcmpITGt1RjRsdTdTT054NnVUOGxR?oc=5)
+
+2026-11-11 <span class="news-indication-tag">depression</span>
+
+Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRWZTT2FzSlgwc1U4X3IzTThyVnBTLXZLazFUZmNPSi1nOE5rZmhSdmw5OWhpalNRM1NpR1MwVzY2MzFNbmFJYnk2TGYzWXlHbkVLN05hRklOLVB5WnlJdFpvLVRnV1hQYk5jay1fTWpnQWd0ZV8xZTI3QUxiQ2sxazhmVllLZVNjNjJNT0JXUk1XSzBSaFhjZER0bXUxZU9leE9qOXNvRXlzNHRWSTBqTTJYd1I3bkYza21YVEV4SXVjcmpITGt1RjRsdTdTT054NnVUOGxR?oc=5)
+
+---
+
+### [How suddenly jerking awake at night could signal hidden anxiety or depression - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxNc2tXOGo1eEljSFNTcDhRd1c3b3ZjRUtINUhWQ1Ewb2t5c3FFQ3gzTVZ3OGcwSnU2bERYSzFkZGFfTjJoTzJIWVpmQkZ2TGpyUHVnS3hKN2xUVVNoYV9RX3ZFT0x6R1RuTzdCQ1UyZlltLXE5YjVoaVdUTllCd1dwcml5a0tlMFk?oc=5)
+
+2026-11-11 <span class="news-indication-tag">depression</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxNc2tXOGo1eEljSFNTcDhRd1c3b3ZjRUtINUhWQ1Ewb2t5c3FFQ3gzTVZ3OGcwSnU2bERYSzFkZGFfTjJoTzJIWVpmQkZ2TGpyUHVnS3hKN2xUVVNoYV9RX3ZFT0x6R1RuTzdCQ1UyZlltLXE5YjVoaVdUTllCd1dwcml5a0tlMFk?oc=5)
+
+---
 
 ### [Krötengift gegen Depressionen: Neues Nasenspray wirkt nach nur einer Dosis - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0pWTW5rQ1h3X090U1Bld2xDQ1RvOHNSMW5TWjV1ODlOdk5fVHhpNmhRN0szUzNpNWZkZGJjcTV4NUNINTdVNlRJc2hBNGxVcXhiTTdHeHpuUEhwSzhFZTlLcFNDbENvVks3Z3hlaG5KQ2dkMmhnUm1rSVhrTGpPNElwSjBWTndiNEUzWXVaZ1hzeHlScXd2WUxjcnlLNXUtTkI0N1JXY2FYRTZodElhR0pDcFZ6Qlk?oc=5)
 

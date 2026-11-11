@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Empagliflozin?">
-<strong>Empagliflozin</strong> currently has <strong>115 news articles</strong>, with 3 predicted indications.
+<strong>Empagliflozin</strong> currently has <strong>121 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,31 @@ This page combines the AI-predicted indications for Empagliflozin with the lates
 <p><a href="{{ '/drugs/empagliflozin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (115)
+## Related News (121)
+
+### [19 farmacias de Vitoria ofrecerán un test para fijar el riesgo de tener diabetes tipo dos - El Correo](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHQ0bnZ6Rnh2VDkxTjdrakFUYmVCYVZjX1hsS251SHBObmY0UjMyTnhzRk1zdnMyUW9kWDFJSHhhTDctUXg3VWlmYmljZXFqQThla1NtN2V0bkJxU19QVmxDNXV3WHFTZkVTTVlBbmZUS0xQWnVRMjlWdFFNaXhwdWNlN184QUNWOU9DeVhqaVB3TDZ5V0oyREpIM0JzSk1FenpuM0M4aG1XSXV4VXdGSdIBtgFBVV95cUxQM0lEcXgxbWkwYlRIcnB4SkFRczlxQl9GMU55NWpvcTlQQWxBc1drWW5kdGh1Yy03ZDB6eDRGNDI1aXNPMkZpeWtGY1l4bjhYT2FPbFZpY0hxYVd2VUFHU3RMaE9RZUZRb0lndFdiZUdwSWRCRjRmNWxQRjY2a251eWtKSWJ1QWVlQWwwbjM3T2FaOWQzdElYUE1kNU91MUVXVVZsbFlETlIxSTBtUUdVOUJSZGI0UQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span>
+
+Source: [El Correo](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHQ0bnZ6Rnh2VDkxTjdrakFUYmVCYVZjX1hsS251SHBObmY0UjMyTnhzRk1zdnMyUW9kWDFJSHhhTDctUXg3VWlmYmljZXFqQThla1NtN2V0bkJxU19QVmxDNXV3WHFTZkVTTVlBbmZUS0xQWnVRMjlWdFFNaXhwdWNlN184QUNWOU9DeVhqaVB3TDZ5V0oyREpIM0JzSk1FenpuM0M4aG1XSXV4VXdGSdIBtgFBVV95cUxQM0lEcXgxbWkwYlRIcnB4SkFRczlxQl9GMU55NWpvcTlQQWxBc1drWW5kdGh1Yy03ZDB6eDRGNDI1aXNPMkZpeWtGY1l4bjhYT2FPbFZpY0hxYVd2VUFHU3RMaE9RZUZRb0lndFdiZUdwSWRCRjRmNWxQRjY2a251eWtKSWJ1QWVlQWwwbjM3T2FaOWQzdElYUE1kNU91MUVXVVZsbFlETlIxSTBtUUdVOUJSZGI0UQ?oc=5)
+
+---
+
+### [Kardiorenales Syndrom effektiv behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnpJYWZnRTJmSWtNVzJscFBqTkhWaW96X2xKeW5JY0lZQzViWjBoWWhvci0tQm1iM3VmY212SFpHSmJ2dkgySTQzbmR2Z1cxMFNjVHNuZnVIVXM4MFUwb1N6Z0FfdlZ0aEpPQ1FremZ2MEY4d1FzYTk0Qm0yT0Vnazl6SmlVdkx2MkQxcy1LcFVPbFVFVFE?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnpJYWZnRTJmSWtNVzJscFBqTkhWaW96X2xKeW5JY0lZQzViWjBoWWhvci0tQm1iM3VmY212SFpHSmJ2dkgySTQzbmR2Z1cxMFNjVHNuZnVIVXM4MFUwb1N6Z0FfdlZ0aEpPQ1FremZ2MEY4d1FzYTk0Qm0yT0Vnazl6SmlVdkx2MkQxcy1LcFVPbFVFVFE?oc=5)
+
+---
+
+### [Farmaci, verso cure più semplici per il diabete: "L''Italia può aprire la strada in Europa" - Il Tirreno](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVmIzek9PRnRQWGw2clBUMEhEVEdaV3Z5UXhnbkRyajNyQ05QVTlpYUZUd2l4ejF6TzdUUFRRaGxLNVZiQ1hoV3p1TF9SQXFTeW9uaHZNUGZpdkJWbG5MMEM3TkpONTIxajRVZ2l2bXVUMGlMMXNGU0UtVV8zNEZvajh6RUpVNmJuZUltYTZ1SnBaeXowanV1SkRWUm5iYTl3TlF6dDJPTUhod3JoY2ZBVkJWOTM2X0xpbGhZd29PeHduM2FxeFdVZ3hac24tS3MwZUFxX281c0xocHlKQlZDeUhmMGgwTVlHVVhlXzdXOA?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabete</span>
+
+Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVmIzek9PRnRQWGw2clBUMEhEVEdaV3Z5UXhnbkRyajNyQ05QVTlpYUZUd2l4ejF6TzdUUFRRaGxLNVZiQ1hoV3p1TF9SQXFTeW9uaHZNUGZpdkJWbG5MMEM3TkpONTIxajRVZ2l2bXVUMGlMMXNGU0UtVV8zNEZvajh6RUpVNmJuZUltYTZ1SnBaeXowanV1SkRWUm5iYTl3TlF6dDJPTUhod3JoY2ZBVkJWOTM2X0xpbGhZd29PeHduM2FxeFdVZ3hac24tS3MwZUFxX281c0xocHlKQlZDeUhmMGgwTVlHVVhlXzdXOA?oc=5)
+
+---
 
 ### [Früher Statin-Start bei Diabetes könnte Demenzrisiko senken - PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTBXWkMzWUFYb1ppU3RlblItdmJPRGdJRENRZmZCeGVfeERsNU1MazNOWE9fZE1vRVhUbTJrVXNUMlZkOXV5UzdxMHQyaXoxUjc2YUd6UEFhTlhGMzdmSENLNzdJZ0c5UGEyUHVFRFFzOTB4c0k0TkxZZ1NYVlgwYVZOZUFsbjg5V29nQnlLTXkwX2M?oc=5)
 
@@ -77,6 +101,14 @@ Source: [shz.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmNVemZaOV
 
 ---
 
+### [The new high-carb diet that can reverse type 2 diabetes - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXdWYkR0aG9BZ0NaN0pFcjBIZlVRTFBlSGpvcDJfYml1Q0JYdEl1RGd2M0ZrRnkwYnNHU3ZRVDRZMV9FdWdrUG1idk8zSmJqU0dPT3V1ZERPTFZLN2J6bFp5bk1LZE1YazNCLTBFVTlid0VlR05Rb1kwUkJ6SF9ocVpBakdqdmQ2aW9IenZ6djFmclRoNjRqZml1MHJCQ01qVEJVdERyWTVCdw?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXdWYkR0aG9BZ0NaN0pFcjBIZlVRTFBlSGpvcDJfYml1Q0JYdEl1RGd2M0ZrRnkwYnNHU3ZRVDRZMV9FdWdrUG1idk8zSmJqU0dPT3V1ZERPTFZLN2J6bFp5bk1LZE1YazNCLTBFVTlid0VlR05Rb1kwUkJ6SF9ocVpBakdqdmQ2aW9IenZ6djFmclRoNjRqZml1MHJCQ01qVEJVdERyWTVCdw?oc=5)
+
+---
+
 ### [Abnehmspritze abgesetzt: Neue Studie warnt vor erhöhtem Sterberisiko](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGI0Y0tTMDBHd1JXUTFzV0tJTzdxVGxIR2t3aThKSGJoOFoxMHJBQ3dsVjdCZnhtWlplMG42UlViRnpWM1o4Q3duZHBGU0dQT2pEUVdtNV9FSXN2ZTAwSFJHc0RZeEJESVF5MWFVQXk3ZW9hemdUNmdGUlVBUzJuV0E4Qk9xa2RTTVRVR0JwYUZUd09rdDIwWTQ4RmJXaTV1YXRQaVBVc1BwX0RleWh5Qi0taU8wUGFBazVXbA?oc=5)
 
 2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
@@ -90,6 +122,14 @@ Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGI0
 2026-11-11 <span class="news-indication-tag">diabetes</span>
 
 Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDdVS3pURUVicTROR2U3a09YS2tuM3ZjcHB4ckFlMURKTjhXbi1nWEJZcGJBVndiRml0bEVlY1ZJSXJNWGFjMEJhN1lBWE9aM2JxOWhZS1RUTHRIX3dJWnlFcFF4REJpT3Yzc2tTZ3k5NUtrUEloTHpfeS1XUzhjV2ZqSHI0R3BOT1RLbnR1UEdjQy1FWTlqZXFpdENsSTdoWGpXck5STDItc2hKSzBnWkFIMy3SAa8BQVVfeXFMTTROd3FhV21XUlBieGN3dXBXVkhCX1R5UnNNWGlyMXdHWi1UN2R2QVhITjNyQW11NU1aSGhKXzlqdVRSamlzbFFQbTZRY0RYcDhCTldfaHk2LU52ZEdzVmVMR0JqQk1SZG11dUprbjFWbzFaUmRBejVKT21nOFJIY1VuMXlWYmZmX1F5VjdBSXlKaG5xT1dhc0F0dDhfejZqRGNCVEsxVTZqRVBTQ21ERQ?oc=5)
+
+---
+
+### [Risk factors for kidney disease you didn’t know about - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZEROTmF5S1Q5ZllOVlhNWkRXQXpwRlQ1NGNBLVdnOFR5enhEM0hPMW52UG1OVWk4WjBvNHFTcjVvYXppT3k5cl8wUVdSSllMc2l6QldMMDlFQndUQUp1aWFrS2hjaHVmT3ItZDd5Z2NqbEVWUlY4QmZ6cl9obk8tWlNTUGhfRC05d3BPRFdkWkVjOVJRMk13Z21ERQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">kidney failure</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZEROTmF5S1Q5ZllOVlhNWkRXQXpwRlQ1NGNBLVdnOFR5enhEM0hPMW52UG1OVWk4WjBvNHFTcjVvYXppT3k5cl8wUVdSSllMc2l6QldMMDlFQndUQUp1aWFrS2hjaHVmT3ItZDd5Z2NqbEVWUlY4QmZ6cl9obk8tWlNTUGhfRC05d3BPRFdkWkVjOVJRMk13Z21ERQ?oc=5)
 
 ---
 
@@ -114,6 +154,14 @@ Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMitwFBVV95c
 2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
+
+---
+
+### [Elda se moviliza contra la diabetes con una marcha solidaria - Intercomarcal Televisión](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTmN0MnBZU1VRa1BUR3ZERHl2YUtUdmZuTVpLQTgzLThRVl9waV9kenh5REdNYUdsUEtDQ0wteU9VZVRHaElaclpocWFZYWdlTGZLdFpkVy01aTA1S0RFaEg1aVpHckh1cGwxR3FVeHhSNUZHNEdQRzRvU2RHNjA5S1dDZGZlNG5YS2VISklPLW81c0lTN1RQY2gzSTk?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabetes</span>
+
+Source: [Intercomarcal Televisión](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTmN0MnBZU1VRa1BUR3ZERHl2YUtUdmZuTVpLQTgzLThRVl9waV9kenh5REdNYUdsUEtDQ0wteU9VZVRHaElaclpocWFZYWdlTGZLdFpkVy01aTA1S0RFaEg1aVpHckh1cGwxR3FVeHhSNUZHNEdQRzRvU2RHNjA5S1dDZGZlNG5YS2VISklPLW81c0lTN1RQY2gzSTk?oc=5)
 
 ---
 

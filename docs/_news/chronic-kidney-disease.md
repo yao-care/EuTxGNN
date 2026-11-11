@@ -3,7 +3,7 @@ layout: default
 title: "chronische Nierenerkrankung (chronic kidney disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about chronische Nierenerkrankung (chronic kidney disease). 8 articles, 1 related drugs."
+description: "Health news about chronische Nierenerkrankung (chronic kidney disease). 10 articles, 1 related drugs."
 permalink: /news/chronic-kidney-disease/
 last_modified_at: 2026-11-11
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about chronische Nierenerkrankung (chronic kidney disease)?">
-<strong>chronische Nierenerkrankung (chronic kidney disease)</strong> currently has <strong>8 news articles</strong> and 1 related drugs.
+<strong>chronische Nierenerkrankung (chronic kidney disease)</strong> currently has <strong>10 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ This page brings together the latest health news about “chronische Nierenerkra
 </ul>
 </div>
 
-## Related News (8)
+## Related News (10)
+
+### [Kardiorenales Syndrom effektiv behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnpJYWZnRTJmSWtNVzJscFBqTkhWaW96X2xKeW5JY0lZQzViWjBoWWhvci0tQm1iM3VmY212SFpHSmJ2dkgySTQzbmR2Z1cxMFNjVHNuZnVIVXM4MFUwb1N6Z0FfdlZ0aEpPQ1FremZ2MEY4d1FzYTk0Qm0yT0Vnazl6SmlVdkx2MkQxcy1LcFVPbFVFVFE?oc=5)
+
+2026-11-11
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnpJYWZnRTJmSWtNVzJscFBqTkhWaW96X2xKeW5JY0lZQzViWjBoWWhvci0tQm1iM3VmY212SFpHSmJ2dkgySTQzbmR2Z1cxMFNjVHNuZnVIVXM4MFUwb1N6Z0FfdlZ0aEpPQ1FremZ2MEY4d1FzYTk0Qm0yT0Vnazl6SmlVdkx2MkQxcy1LcFVPbFVFVFE?oc=5)
+
+---
 
 ### [Laut Nephrologen: Dieser unterschätzte Blutdruck-Wert schädigt die Nieren jahrelang unbemerkt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
 
 2026-11-11
 
 Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
+
+---
+
+### [Risk factors for kidney disease you didn’t know about - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZEROTmF5S1Q5ZllOVlhNWkRXQXpwRlQ1NGNBLVdnOFR5enhEM0hPMW52UG1OVWk4WjBvNHFTcjVvYXppT3k5cl8wUVdSSllMc2l6QldMMDlFQndUQUp1aWFrS2hjaHVmT3ItZDd5Z2NqbEVWUlY4QmZ6cl9obk8tWlNTUGhfRC05d3BPRFdkWkVjOVJRMk13Z21ERQ?oc=5)
+
+2026-11-11
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZEROTmF5S1Q5ZllOVlhNWkRXQXpwRlQ1NGNBLVdnOFR5enhEM0hPMW52UG1OVWk4WjBvNHFTcjVvYXppT3k5cl8wUVdSSllMc2l6QldMMDlFQndUQUp1aWFrS2hjaHVmT3ItZDd5Z2NqbEVWUlY4QmZ6cl9obk8tWlNTUGhfRC05d3BPRFdkWkVjOVJRMk13Z21ERQ?oc=5)
 
 ---
 

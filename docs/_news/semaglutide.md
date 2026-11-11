@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>46 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>48 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,23 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (46)
+## Related News (48)
+
+### [La FDA exige cambiar el etiquetado de seguridad de los GLP-1 ante el riesgo de pérdida de visión por el uso de estos fármacos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNVlrZTFOUm9sZzN4MkhoNEJUQWdvS3UwWEhRcWp2R1p4M1NGYVJodUpoaW1zMG5vWFBtZDJMbGVFRGNrYmRvYnlhYmJTVmRQbS15QmcwdUxianlHU1hqSmcwVi15NXBOV0lzc1VqNGhxVV9ONTh5dDVQZV9qNDF4b041ejBad01xYUltZTNzWUtlNmN1bGJwSWg0VXhxTy1zZHMtWDAxZUpSbElxYXhBQ2NKejhqeHN3R2tYczRFZDV1S3lGYVZhU3BkMm1waWJockZrMlZQejFUZmdQQlR3RHBUbV84UQ?oc=5)
+
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Farmacosalud](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNVlrZTFOUm9sZzN4MkhoNEJUQWdvS3UwWEhRcWp2R1p4M1NGYVJodUpoaW1zMG5vWFBtZDJMbGVFRGNrYmRvYnlhYmJTVmRQbS15QmcwdUxianlHU1hqSmcwVi15NXBOV0lzc1VqNGhxVV9ONTh5dDVQZV9qNDF4b041ejBad01xYUltZTNzWUtlNmN1bGJwSWg0VXhxTy1zZHMtWDAxZUpSbElxYXhBQ2NKejhqeHN3R2tYczRFZDV1S3lGYVZhU3BkMm1waWJockZrMlZQejFUZmdQQlR3RHBUbV84UQ?oc=5)
+
+---
+
+### [Rischio di perdita della vista per chi usa Ozempic o altri farmaci dimagranti: l'allarme che arriva dagli Usa](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdWN2stbTlTV1NZX2tOY2tzdUFSM0lXSFlYRkdURnJWdHBSUy01bzl4N2JPUURHX1Z2UGZ4NGI3VEZXWnRlel9aQWdQcFNjYUwzN2ZZcXBzT2FVeVRYN09lcmdDTWU3Q1dCZ3FDXzZWWGhtc1MzYkFwMkNSUXZUVW9HTzFpZzdEbDlCdWc?oc=5)
+
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Open](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdWN2stbTlTV1NZX2tOY2tzdUFSM0lXSFlYRkdURnJWdHBSUy01bzl4N2JPUURHX1Z2UGZ4NGI3VEZXWnRlel9aQWdQcFNjYUwzN2ZZcXBzT2FVeVRYN09lcmdDTWU3Q1dCZ3FDXzZWWGhtc1MzYkFwMkNSUXZUVW9HTzFpZzdEbDlCdWc?oc=5)
+
+---
 
 ### [Los riesgos que afrontan los diabéticos al dejar los GLP-1](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUNfRHVmSDlvMl9oRUp1TGd5ZjZibUxiN0FhZXFKT3NXUzJ0MFp0ODY2SjhscnlrX3dWaEJFRjNtQ2RBa001MFVvNGxNLTZONWRTME9fVWc0T2RXeG1TVlMwOWJRNE9RZE9KSUM1dUp6VjJnaDJUekZiaHlzMWZqdjVXNTdQS0twOGFHR3FncWFTVGw3WWM2S1VPbDVTU3JkTjRDekVUdU10WGV3RUItakhvX0xUa0hjOVFZ?oc=5)
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Schlaganfall (stroke) News"
+title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 77 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 78 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-11
 ---
 
-# Schlaganfall (stroke) News
+# ictus (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>77 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about ictus (stroke)?">
+<strong>ictus (stroke)</strong> currently has <strong>78 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,7 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (77)
+## Related News (78)
 
 ### [Abnehmspritze abgesetzt: Neue Studie warnt vor erhöhtem Sterberisiko](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGI0Y0tTMDBHd1JXUTFzV0tJTzdxVGxIR2t3aThKSGJoOFoxMHJBQ3dsVjdCZnhtWlplMG42UlViRnpWM1o4Q3duZHBGU0dQT2pEUVdtNV9FSXN2ZTAwSFJHc0RZeEJESVF5MWFVQXk3ZW9hemdUNmdGUlVBUzJuV0E4Qk9xa2RTTVRVR0JwYUZUd09rdDIwWTQ4RmJXaTV1YXRQaVBVc1BwX0RleWh5Qi0taU8wUGFBazVXbA?oc=5)
 
@@ -74,6 +74,14 @@ Source: [JeChange](https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2xFeVIw
 2026-11-11
 
 Source: [la Repubblica](https://news.google.com/rss/articles/CBMiggJBVV95cUxNZDhxb2cwcGw1WXdSUzF4VnhybzBhdl9SX2ZsNE1wS3M2c3A3T25kUERKZElqSDZHTk1GMHUyc2ROYXNpMzhHSERMdjZRNTNXWTJTdzFaZk9GMW13QzBPR2xlLXBYTXU4N19WeXF6X2J5bFdxN3dKUTZCTmlNb3hyMmxjTDNmajVIei1ocFFqVGpqN3E3akVVMndWVVg4QW94UkR5aDR0YTNkbHpQbnNoa3lFa0RtcTZQcG4wc0xyZnpiWXRkS2pQVkNPVjZ6MlpsUUdUcWhaekppTGxMcG5OdUxETTNRZTRaQ3U1XzdKcjEycUFselRpeFBwNjZSNFk5VlHSAYcCQVVfeXFMTWNrM096VVRlRmVGbVZxTl9ZQzA1NkZtWElRSVpfMDE3YXhqTGg2WWQ4cExoU0ZPMTZoQ1pFbC12VXhzVEI4Zkk4djVIS0dVeUhudFhqWVFMTjFPVGpUZ0FZR2FBNXBEdFJ1d1d5UlNvSUZwZGVqR1hNVWtvMENkMzFnT29oR2RYNm9TaWdFQjBBMnBqOGxvM0lMNWVwVDFVSnBBOVpsZmFvQ1hQaXBDQk5ia2FIdjJ1YmhvenhiYzloRDFBaUVkQ0QwZlI2V1JHMUdWd0FleHNRaVVyS2VkY1NPSFFJSUdoWmlETTY2VUFIOEs3OTRYMndTME91LVpFNWpaUGdsZkU?oc=5)
+
+---
+
+### [Winterkälte: Blutdruck kann pro 10 Grad Temperaturabfall um 7 mmHg steigen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGhiV1RkR1c3cHhrM0JJVjNBdGFMLWtkaTBJSVppd1RjSHR6LUJsbVdwM3VwZDBCOHY4d3JaVjU5aVRPM2VaUHdhRWZaVkgyaVI4SEY0N1dNNVByaDVBX0s5NExDZnItbzZkeldzTkZ1dktSTTFaMzJUOWJwT19lZmYxR2pOQnBaUXdpYWhNaktzSE1HWldzMDQxQ1VOQ1dPWkpTY1Y4Wm8zcUktUnVxSElEanhjdm1XUnBtRWZTMEY?oc=5)
+
+2026-11-10
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGhiV1RkR1c3cHhrM0JJVjNBdGFMLWtkaTBJSVppd1RjSHR6LUJsbVdwM3VwZDBCOHY4d3JaVjU5aVRPM2VaUHdhRWZaVkgyaVI4SEY0N1dNNVByaDVBX0s5NExDZnItbzZkeldzTkZ1dktSTTFaMzJUOWJwT19lZmYxR2pOQnBaUXdpYWhNaktzSE1HWldzMDQxQ1VOQ1dPWkpTY1Y4Wm8zcUktUnVxSElEanhjdm1XUnBtRWZTMEY?oc=5)
 
 ---
 

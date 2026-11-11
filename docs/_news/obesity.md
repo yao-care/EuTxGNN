@@ -3,7 +3,7 @@ layout: default
 title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 68 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 75 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-11-11
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>68 news articles</strong> and 8 related drugs.
+<strong>obesidad (obesity)</strong> currently has <strong>75 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,55 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (68)
+## Related News (75)
+
+### [Move over BMI: new obesity definition is better for predicting your health](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nakdYdVAtWEZ1TmZDTHZJT09KWUVXcGNrRG44SmdvMGRkTzhMOFdpTDY3NXNzSXhmTnNDbEdsQk5pYno4WURKTzdPalgwN1lGOTNvcUFOVmpoNDh3TGU0?oc=5)
+
+2026-11-11
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nakdYdVAtWEZ1TmZDTHZJT09KWUVXcGNrRG44SmdvMGRkTzhMOFdpTDY3NXNzSXhmTnNDbEdsQk5pYno4WURKTzdPalgwN1lGOTNvcUFOVmpoNDh3TGU0?oc=5)
+
+---
+
+### [La FDA exige cambiar el etiquetado de seguridad de los GLP-1 ante el riesgo de pérdida de visión por el uso de estos fármacos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNVlrZTFOUm9sZzN4MkhoNEJUQWdvS3UwWEhRcWp2R1p4M1NGYVJodUpoaW1zMG5vWFBtZDJMbGVFRGNrYmRvYnlhYmJTVmRQbS15QmcwdUxianlHU1hqSmcwVi15NXBOV0lzc1VqNGhxVV9ONTh5dDVQZV9qNDF4b041ejBad01xYUltZTNzWUtlNmN1bGJwSWg0VXhxTy1zZHMtWDAxZUpSbElxYXhBQ2NKejhqeHN3R2tYczRFZDV1S3lGYVZhU3BkMm1waWJockZrMlZQejFUZmdQQlR3RHBUbV84UQ?oc=5)
+
+2026-11-11
+
+Source: [Farmacosalud](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNVlrZTFOUm9sZzN4MkhoNEJUQWdvS3UwWEhRcWp2R1p4M1NGYVJodUpoaW1zMG5vWFBtZDJMbGVFRGNrYmRvYnlhYmJTVmRQbS15QmcwdUxianlHU1hqSmcwVi15NXBOV0lzc1VqNGhxVV9ONTh5dDVQZV9qNDF4b041ejBad01xYUltZTNzWUtlNmN1bGJwSWg0VXhxTy1zZHMtWDAxZUpSbElxYXhBQ2NKejhqeHN3R2tYczRFZDV1S3lGYVZhU3BkMm1waWJockZrMlZQejFUZmdQQlR3RHBUbV84UQ?oc=5)
+
+---
+
+### [Una nueva forma de medir la obesidad eleva casi un 40% los casos en España - EL PAÍS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVFZQUk4ycklralJwcTRaTHdUY2Q1eWF6Rk5xNkE3SE1EMFdrYk96R0YydFpOajZhTnR0WDBLYldfVE1ETG5SZ3B3R010cGxiTFJPWnNjTHJfRlBXLXVMR2tUM1djQW1KNmh1TkhzMUdaYVdSb2tSeld0aVlMLXQ4bXhuY2I4LXNsaGNlMG9QWVBKbDVzdFdTVkFjU0ZDMzkxb29GdGRULUM5Z29XTVo0SlJBX1o3STA?oc=5)
+
+2026-11-11
+
+Source: [EL PAÍS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVFZQUk4ycklralJwcTRaTHdUY2Q1eWF6Rk5xNkE3SE1EMFdrYk96R0YydFpOajZhTnR0WDBLYldfVE1ETG5SZ3B3R010cGxiTFJPWnNjTHJfRlBXLXVMR2tUM1djQW1KNmh1TkhzMUdaYVdSb2tSeld0aVlMLXQ4bXhuY2I4LXNsaGNlMG9QWVBKbDVzdFdTVkFjU0ZDMzkxb29GdGRULUM5Z29XTVo0SlJBX1o3STA?oc=5)
+
+---
+
+### [Obesità: non si misura (solo) sulla bilancia. E i GLP-1 non sono farmaci «per dimagrire» - Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95cUxPOEN3MVNaV2w4RUpCMkVfTk1KZ2wxckVzQmFXV291VjR3Njh4OGgzRjlVQi13NjI5cm9tUmFZMzh6Z0NVNTl4Y2R2NTJhcjdCRmVqN1BkdXVTTmNMbTZoRmZWd1ljbFBmUzI4SGhmbExZUUVTSHZrSi00T0VEb0psZHR2LU9RM3dpcmxCVlpLTU9vemJGQUhmdlpoRnpudnkyRlZZY2xwRUxoUFlNbGZyQXNTTzZmUk5hYThNMHA3d2Q4MmVuZllYRUcyVVlWelZvNDdnNktjZUNQZW9NRUVoNkxrb0lNVFJPcjFQV0k2MTBCS05tMFV4S0drNjhqaVdJeEF3MWZobC1vTVV2a3dvb09wTGJIbVpYN2fSAZ8CQVVfeXFMUGFXWFpkSmd5MnBmUXNTSnBxT256Q3VLUjMwbXd2ZmlyMVltajlyeFgtc1NxVGJ4THF2WHRDQzhMS2ZxMGtaMHdxQWh1S2JKcVhzTkFtbGx2ZXByN3ctS3gzeWRaUFNUWjZCd0ZKNC1pY21sVDdrNW9wbXJjTVhhV3VQc013VEpJdm82MkduY3VHb01PcDJDYXpTZUZnWk9fX3MySTYzeUNoRENGbG4wSDNSRkhzM2I5b2MtOVdOd3Q5cThWQXRTZ2J2dXFuQmxCemxBRjVSaVJpUTdMZWJPekgwUk9URGxuaFI3WHV4WlhFNnJTX2pnSFRJUW52MkpPaXBCd1JHZ1YyRW1iNUxBZ0JVTE5ybWpPZnhaaEZpNzA?oc=5)
+
+2026-11-11
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95cUxPOEN3MVNaV2w4RUpCMkVfTk1KZ2wxckVzQmFXV291VjR3Njh4OGgzRjlVQi13NjI5cm9tUmFZMzh6Z0NVNTl4Y2R2NTJhcjdCRmVqN1BkdXVTTmNMbTZoRmZWd1ljbFBmUzI4SGhmbExZUUVTSHZrSi00T0VEb0psZHR2LU9RM3dpcmxCVlpLTU9vemJGQUhmdlpoRnpudnkyRlZZY2xwRUxoUFlNbGZyQXNTTzZmUk5hYThNMHA3d2Q4MmVuZllYRUcyVVlWelZvNDdnNktjZUNQZW9NRUVoNkxrb0lNVFJPcjFQV0k2MTBCS05tMFV4S0drNjhqaVdJeEF3MWZobC1vTVV2a3dvb09wTGJIbVpYN2fSAZ8CQVVfeXFMUGFXWFpkSmd5MnBmUXNTSnBxT256Q3VLUjMwbXd2ZmlyMVltajlyeFgtc1NxVGJ4THF2WHRDQzhMS2ZxMGtaMHdxQWh1S2JKcVhzTkFtbGx2ZXByN3ctS3gzeWRaUFNUWjZCd0ZKNC1pY21sVDdrNW9wbXJjTVhhV3VQc013VEpJdm82MkduY3VHb01PcDJDYXpTZUZnWk9fX3MySTYzeUNoRENGbG4wSDNSRkhzM2I5b2MtOVdOd3Q5cThWQXRTZ2J2dXFuQmxCemxBRjVSaVJpUTdMZWJPekgwUk9URGxuaFI3WHV4WlhFNnJTX2pnSFRJUW52MkpPaXBCd1JHZ1YyRW1iNUxBZ0JVTE5ybWpPZnhaaEZpNzA?oc=5)
+
+---
+
+### [Rischio di perdita della vista per chi usa Ozempic o altri farmaci dimagranti: l'allarme che arriva dagli Usa](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdWN2stbTlTV1NZX2tOY2tzdUFSM0lXSFlYRkdURnJWdHBSUy01bzl4N2JPUURHX1Z2UGZ4NGI3VEZXWnRlel9aQWdQcFNjYUwzN2ZZcXBzT2FVeVRYN09lcmdDTWU3Q1dCZ3FDXzZWWGhtc1MzYkFwMkNSUXZUVW9HTzFpZzdEbDlCdWc?oc=5)
+
+2026-11-11
+
+Source: [Open](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdWN2stbTlTV1NZX2tOY2tzdUFSM0lXSFlYRkdURnJWdHBSUy01bzl4N2JPUURHX1Z2UGZ4NGI3VEZXWnRlel9aQWdQcFNjYUwzN2ZZcXBzT2FVeVRYN09lcmdDTWU3Q1dCZ3FDXzZWWGhtc1MzYkFwMkNSUXZUVW9HTzFpZzdEbDlCdWc?oc=5)
+
+---
+
+### [The new high-carb diet that can reverse type 2 diabetes - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXdWYkR0aG9BZ0NaN0pFcjBIZlVRTFBlSGpvcDJfYml1Q0JYdEl1RGd2M0ZrRnkwYnNHU3ZRVDRZMV9FdWdrUG1idk8zSmJqU0dPT3V1ZERPTFZLN2J6bFp5bk1LZE1YazNCLTBFVTlid0VlR05Rb1kwUkJ6SF9ocVpBakdqdmQ2aW9IenZ6djFmclRoNjRqZml1MHJCQ01qVEJVdERyWTVCdw?oc=5)
+
+2026-11-11
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXdWYkR0aG9BZ0NaN0pFcjBIZlVRTFBlSGpvcDJfYml1Q0JYdEl1RGd2M0ZrRnkwYnNHU3ZRVDRZMV9FdWdrUG1idk8zSmJqU0dPT3V1ZERPTFZLN2J6bFp5bk1LZE1YazNCLTBFVTlid0VlR05Rb1kwUkJ6SF9ocVpBakdqdmQ2aW9IenZ6djFmclRoNjRqZml1MHJCQ01qVEJVdERyWTVCdw?oc=5)
+
+---
 
 ### [La FDA exige cambiar la etiqueta en fármacos contra la obesidad por riesgo de enfermedad ocular rara - Salud a Diario](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSlhfZFZ2RTZFc3JicG9OWU4wZEZrc3R5eFhQaG1fcUtlcHVNQVVYUmthX3NMMWJZRHF5X1Bqc3JuNjhSbjBEdHdZWWYybXlHeWJuZFZHU2lnMjBqb0pkNzdnWmlBeG9oYVExNUZOck4xeE5HZDFLaF9NdFlGWDJpaFlKWlpCWXVHWFhPUVBJOC1mcnRQdlVnNkpyclBsVWpqb3F6N3g5RGZLVEpRVFoza0s2LVBjMzU2a1pVcGRwajBUbk5ONl9aVGZXdllLMmFRQjIwSXkxRWNUdXpGYXVjQw?oc=5)
 
@@ -49,6 +97,14 @@ Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSl
 2026-11-11
 
 Source: [Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUNfRHVmSDlvMl9oRUp1TGd5ZjZibUxiN0FhZXFKT3NXUzJ0MFp0ODY2SjhscnlrX3dWaEJFRjNtQ2RBa001MFVvNGxNLTZONWRTME9fVWc0T2RXeG1TVlMwOWJRNE9RZE9KSUM1dUp6VjJnaDJUekZiaHlzMWZqdjVXNTdQS0twOGFHR3FncWFTVGw3WWM2S1VPbDVTU3JkTjRDekVUdU10WGV3RUItakhvX0xUa0hjOVFZ?oc=5)
+
+---
+
+### [Weniger Protein könnte das Altern verlangsamen: Review mit 350 Studien - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSS1UeEM5b2tsYTcxUVU3dk5icVhvcjhPRVIwRlVFSmNETVZUWTVMYWp4cFJ2ajJIbV9wVXRNRTVMVWpGOUZ0ZzBjTDl2VTQzU1JkM3dnclFETmJzNml2TXZ6S3JmNDEyUkN6TTB0ZVBSS1NSSmVYSVlrQUJOaWl6TmRuRVNZcDJGWlhLelkxVWs4UHJyRHhCUjJNVVpsTXlPdWZzcg?oc=5)
+
+2026-11-11
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSS1UeEM5b2tsYTcxUVU3dk5icVhvcjhPRVIwRlVFSmNETVZUWTVMYWp4cFJ2ajJIbV9wVXRNRTVMVWpGOUZ0ZzBjTDl2VTQzU1JkM3dnclFETmJzNml2TXZ6S3JmNDEyUkN6TTB0ZVBSS1NSSmVYSVlrQUJOaWl6TmRuRVNZcDJGWlhLelkxVWs4UHJyRHhCUjJNVVpsTXlPdWZzcg?oc=5)
 
 ---
 

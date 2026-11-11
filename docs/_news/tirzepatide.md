@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>22 news articles</strong>, with 0 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>23 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (22)
+## Related News (23)
+
+### [Rischio di perdita della vista per chi usa Ozempic o altri farmaci dimagranti: l'allarme che arriva dagli Usa](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdWN2stbTlTV1NZX2tOY2tzdUFSM0lXSFlYRkdURnJWdHBSUy01bzl4N2JPUURHX1Z2UGZ4NGI3VEZXWnRlel9aQWdQcFNjYUwzN2ZZcXBzT2FVeVRYN09lcmdDTWU3Q1dCZ3FDXzZWWGhtc1MzYkFwMkNSUXZUVW9HTzFpZzdEbDlCdWc?oc=5)
+
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Open](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdWN2stbTlTV1NZX2tOY2tzdUFSM0lXSFlYRkdURnJWdHBSUy01bzl4N2JPUURHX1Z2UGZ4NGI3VEZXWnRlel9aQWdQcFNjYUwzN2ZZcXBzT2FVeVRYN09lcmdDTWU3Q1dCZ3FDXzZWWGhtc1MzYkFwMkNSUXZUVW9HTzFpZzdEbDlCdWc?oc=5)
+
+---
 
 ### [La FDA exigirá advertencia de pérdida de visión permanente en etiquetas de medicamentos GLP-1](https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3V2U3l0NjJhZ1hwRzl0emJRMmRMc1AxUXQySW9pWEFyeHM2R0hXdXNTTXVWcldEWXVMUUR4aGdtQmFMREFzZG9zcHFIc3pRQ3JtSDN6MUFsMWJ6UHMzaWdMRGgtN2RvNEZvYjh5ZzRXcG1GZkJjbFQxY0J4bU9Wa2NMazkyUV9pRGZ1eXgyMHN5RTllUEN3cUdPWVdhSDdNYnhF?oc=5)
 

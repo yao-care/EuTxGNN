@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ibuprofen. 7 predicted indications."
 permalink: /news/ibuprofen/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Ibuprofen News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>13 news articles</strong>, with 7 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>14 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### [Ibuprofene e reni, chi rischia di più? La risposta arriva da 78mila ricoverati](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMzVrWGVRT1FBNnhsZTRZTkhNd0hYTC00bjhYc0pOSnJzalAwZlZ5cjFidjZEVTQ3Vnd4bHVxZy03NG85a3A4M1drcE01VjdvaTN0aDdNMTd0LWhMRndmQTNPeWRId1E0a19Rdzh2bExuR0NSTTh4UWpOVjIxdm5mMVh2SjNxVFBnV1YtUmxsZWR0QjhWdjh3dy1Mc0xsR3RNa3VFRGNGRGhnYU1xNEpCSXViRldmSHppMF9iTUlLRUFUVkVxWXlVSkJuTGxjaDlIa3c?oc=5)
+
+2026-11-11 <span class="news-drug-tag">Ibuprofen</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMzVrWGVRT1FBNnhsZTRZTkhNd0hYTC00bjhYc0pOSnJzalAwZlZ5cjFidjZEVTQ3Vnd4bHVxZy03NG85a3A4M1drcE01VjdvaTN0aDdNMTd0LWhMRndmQTNPeWRId1E0a19Rdzh2bExuR0NSTTh4UWpOVjIxdm5mMVh2SjNxVFBnV1YtUmxsZWR0QjhWdjh3dy1Mc0xsR3RNa3VFRGNGRGhnYU1xNEpCSXViRldmSHppMF9iTUlLRUFUVkVxWXlVSkJuTGxjaDlIa3c?oc=5)
+
+---
 
 ### [Retatrutide Improves Knee OA Pain, Physical Function](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3p1emJDT0JCUkc1VHNmc2duNnN5bFJmTnpZS0pIYVRVREl5aHA5MlNUUm11UE9lUHR0MDZYaU5OdEVUUGI5M1VWRERoYTktNkFOd3Y1ZGN3OXJjMF9INEJmTGd4a2Z1dWlnMnFzOVRpdXlIbVhMZjBiajM3RThTWjJQQUU1M3VPUTJ1WmRpRXNnVHZZMXZfRXRZelpBdFdQU0ljbUowWmo?oc=5)
 

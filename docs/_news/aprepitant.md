@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Aprepitant?">
-<strong>Aprepitant</strong> currently has <strong>70 news articles</strong>, with 10 predicted indications.
+<strong>Aprepitant</strong> currently has <strong>74 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Aprepitant with the latest h
 <p><a href="{{ '/drugs/aprepitant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (70)
+## Related News (74)
+
+### [Kardiorenales Syndrom effektiv behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnpJYWZnRTJmSWtNVzJscFBqTkhWaW96X2xKeW5JY0lZQzViWjBoWWhvci0tQm1iM3VmY212SFpHSmJ2dkgySTQzbmR2Z1cxMFNjVHNuZnVIVXM4MFUwb1N6Z0FfdlZ0aEpPQ1FremZ2MEY4d1FzYTk0Qm0yT0Vnazl6SmlVdkx2MkQxcy1LcFVPbFVFVFE?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnpJYWZnRTJmSWtNVzJscFBqTkhWaW96X2xKeW5JY0lZQzViWjBoWWhvci0tQm1iM3VmY212SFpHSmJ2dkgySTQzbmR2Z1cxMFNjVHNuZnVIVXM4MFUwb1N6Z0FfdlZ0aEpPQ1FremZ2MEY4d1FzYTk0Qm0yT0Vnazl6SmlVdkx2MkQxcy1LcFVPbFVFVFE?oc=5)
+
+---
+
+### [‘A tremendous step backwards’: US could lose measles elimination status under RFK Jr’s leadership - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlJTZU90X3plSHJFUlZnYjRPZkRQNGFPX2R6MDNzTWhRVG1ackVYUVNVazVnZlNzQTF6LVZ6R0JaQ0s3bG9PRUwxZlZ1bm9Sb0VoYlk0ZmpQNk9GdG8zdmZYcDRWdlhtallrWWF5Yld0ajdjUUxKTC1NTzdxdGw4OGtMc0JYc2hmR2dHOHNPUEtMcVk?oc=5)
+
+2026-11-11 <span class="news-drug-tag">Aprepitant</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlJTZU90X3plSHJFUlZnYjRPZkRQNGFPX2R6MDNzTWhRVG1ackVYUVNVazVnZlNzQTF6LVZ6R0JaQ0s3bG9PRUwxZlZ1bm9Sb0VoYlk0ZmpQNk9GdG8zdmZYcDRWdlhtallrWWF5Yld0ajdjUUxKTC1NTzdxdGw4OGtMc0JYc2hmR2dHOHNPUEtMcVk?oc=5)
+
+---
 
 ### [Laut Nephrologen: Dieser unterschätzte Blutdruck-Wert schädigt die Nieren jahrelang unbemerkt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
 
@@ -52,11 +68,27 @@ Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV9
 
 ---
 
+### [El mejor alimento contra los infartos, según el cardiólogo Aurelio Rojas: “Tremendamente superior” - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMizwFBVV95cUxPT0JRaW9PcFBhQTJVVnJ0N0FQQTdZT3ByT3lvNzNOTFpWYTEwSUZEYTk3M0FqbG5RVndGNElPVUp6cVVKSDYtTkUxdDhMNmlPcUVJZnlYdWJ2VmZFSTlnX3Fhc2E3dnZ3aWFDNWdKXzBDY2JNTEMxb3dfMTFMdlhXR1dYSkNoU0U1S3k4TFJTbHBQYjVGNWVzSTQtcHNVVDFlNTBoaFVLdWdsbFVlbUJBeUtLLW5QOTd6Zk13Q1pNOWQzM29XSThsM25qdXdOR0XSAdQBQVVfeXFMTml2ZEdpcm1KM1pyV1dROHJXZUhieTJxNGFuaEJERnBPN3owdkc4Y2J4SktvOEVtN1BnR18xUThKb2Vjako4T2x4M2hTQ2ZPUWt6bWxfZlM2X29pd3pjbkJoWDF5SXNuRVRBUVlnb3pGRVdwZVNfWlNhRGdwR2NVZ3liUUNSbXlHaFlJMUp3ajN0b2M1TkJlcG4wVk1LeVBkZmNtRXA0cDl3QWhOdzFQRXdfdmNkMXJaZVZVRloxcHplUUJMcDZ2NkF1LUZUcEZfRDlkeVM?oc=5)
+
+2026-11-11 <span class="news-drug-tag">Aprepitant</span>
+
+Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMizwFBVV95cUxPT0JRaW9PcFBhQTJVVnJ0N0FQQTdZT3ByT3lvNzNOTFpWYTEwSUZEYTk3M0FqbG5RVndGNElPVUp6cVVKSDYtTkUxdDhMNmlPcUVJZnlYdWJ2VmZFSTlnX3Fhc2E3dnZ3aWFDNWdKXzBDY2JNTEMxb3dfMTFMdlhXR1dYSkNoU0U1S3k4TFJTbHBQYjVGNWVzSTQtcHNVVDFlNTBoaFVLdWdsbFVlbUJBeUtLLW5QOTd6Zk13Q1pNOWQzM29XSThsM25qdXdOR0XSAdQBQVVfeXFMTml2ZEdpcm1KM1pyV1dROHJXZUhieTJxNGFuaEJERnBPN3owdkc4Y2J4SktvOEVtN1BnR18xUThKb2Vjako4T2x4M2hTQ2ZPUWt6bWxfZlM2X29pd3pjbkJoWDF5SXNuRVRBUVlnb3pGRVdwZVNfWlNhRGdwR2NVZ3liUUNSbXlHaFlJMUp3ajN0b2M1TkJlcG4wVk1LeVBkZmNtRXA0cDl3QWhOdzFQRXdfdmNkMXJaZVZVRloxcHplUUJMcDZ2NkF1LUZUcEZfRDlkeVM?oc=5)
+
+---
+
 ### [El mejor alimento contra los infartos, según el cardiólogo Aurelio Rojas: “Tremendamente superior” - Noticias de Navarra](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQkNEWWRxTEtYSHR6cmJqU0RmcTQ4M01ncUtXc1paclZsSUZ2MjNRRDZJekludVJNV2lBX1pjZEZSR3FrNGNzWjQxS1paSmFDZmluQ0dORXZiVU5Gano3b2xwRlFSX2VIOHlQMEY2S2dfcUtGRThaOVg4U1dtWE9hTHVzX19hTmZ0NTF2Q2VuN1RQbWJmMHlNOFZxYkgtckNnaGdYaWJzbzJFSVY3QzkzWFk5UXM2Ym8tNmhlUTF0RjlmYnJxMi1QX1drTWtqa1N3ZFHSAdcBQVVfeXFMTW5UTzVKLThXUlRkNzhTQUUzUDg3dlZWSk44ckMwRnEzNXA1X1YxbU5FVWRYNW81cUdJdkE1c0tEdlp1T2lQRXVrRFN0OWs1NVFRR0xBdW0zd2NGZW5pX2FNUmNKdjNqYVJ6dGE0NDBFbTd4WldheU9naGI4SjhURGtIYWh4SDRmZXh0SVRPeHNaU3dyTXhESzU0OXh4MHpIYzVXbGJBczVlVXp0NUQwYjkzdy1iSExxZllHeHp5eWY0OVZPbTUzUmlVV2RlTE1wX0Y0aTRLbms?oc=5)
 
 2026-11-11 <span class="news-drug-tag">Aprepitant</span>
 
 Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQkNEWWRxTEtYSHR6cmJqU0RmcTQ4M01ncUtXc1paclZsSUZ2MjNRRDZJekludVJNV2lBX1pjZEZSR3FrNGNzWjQxS1paSmFDZmluQ0dORXZiVU5Gano3b2xwRlFSX2VIOHlQMEY2S2dfcUtGRThaOVg4U1dtWE9hTHVzX19hTmZ0NTF2Q2VuN1RQbWJmMHlNOFZxYkgtckNnaGdYaWJzbzJFSVY3QzkzWFk5UXM2Ym8tNmhlUTF0RjlmYnJxMi1QX1drTWtqa1N3ZFHSAdcBQVVfeXFMTW5UTzVKLThXUlRkNzhTQUUzUDg3dlZWSk44ckMwRnEzNXA1X1YxbU5FVWRYNW81cUdJdkE1c0tEdlp1T2lQRXVrRFN0OWs1NVFRR0xBdW0zd2NGZW5pX2FNUmNKdjNqYVJ6dGE0NDBFbTd4WldheU9naGI4SjhURGtIYWh4SDRmZXh0SVRPeHNaU3dyTXhESzU0OXh4MHpIYzVXbGJBczVlVXp0NUQwYjkzdy1iSExxZllHeHp5eWY0OVZPbTUzUmlVV2RlTE1wX0Y0aTRLbms?oc=5)
+
+---
+
+### [Red flag symptom in legs could be sign of heart failure](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+
+2026-11-11 <span class="news-indication-tag">heart failure</span>
+
+Source: [Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 ---
 
@@ -172,19 +204,19 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSD
 
 ---
 
-### [New drug could be cure for common cause of high blood pressure - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
-
-2026-11-08 <span class="news-indication-tag">high blood pressure</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
-
----
-
 ### [Mammograms May Offer Early Insight Into Cardiovascular Disease](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVRDVDdtU21oRGZrQ01Zb3FBX1ZGSm5RZTlQVGZ3Si01NTlXbjhPMFVjMW5GTzZrV2RuMnVPMlVFc3I2M2tnVy02c3d3NGk2TmNJMTloemJTclhDdVAwRjBJcmVVTm1HRjdtbERneWlhQ1hBNEFuSGo2eGRPOXJuRzZGNGFEbHQ5WGMzVkZOcWd6cElrS0VWWjh6bWc1dVk?oc=5)
 
 2026-11-08 <span class="news-indication-tag">cardiovascular disease</span>
 
 Source: [Healthline](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVRDVDdtU21oRGZrQ01Zb3FBX1ZGSm5RZTlQVGZ3Si01NTlXbjhPMFVjMW5GTzZrV2RuMnVPMlVFc3I2M2tnVy02c3d3NGk2TmNJMTloemJTclhDdVAwRjBJcmVVTm1HRjdtbERneWlhQ1hBNEFuSGo2eGRPOXJuRzZGNGFEbHQ5WGMzVkZOcWd6cElrS0VWWjh6bWc1dVk?oc=5)
+
+---
+
+### [New drug could be cure for common cause of high blood pressure - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
+
+2026-11-08 <span class="news-indication-tag">hypertension</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
 
 ---
 

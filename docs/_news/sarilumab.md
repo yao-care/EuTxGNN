@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Sarilumab. 0 predicted indications."
 permalink: /news/sarilumab/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Sarilumab News
@@ -31,6 +31,14 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 </div>
 
 ## Related News (29)
+
+### [Médico insta a dejar de fumar para prevenir o detener el avance de la EPOC](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzlnUWlRRVM0MndkQWUyQVgyTGRzN3cwZXo2SkFVb0FoZnJGdHlhVWYyQ19MalFpSlh6QVgweUVwS05odEVNM2ltU2lGUGpyM0NqeEdHTlJIb1AtZFhFTTJydlM2QkdzYkpiY2h3aWozYkhPVEhhekNoT2JaM1J2M1FZYU9GeTdSb1B0bWFaM2VMUEJVNG1DdEpMT3I1WTBWdTNwVG9qeEV0Mm8yeS0wUTl2ZmpYSVo2ZkJ0bS1IS0dwdXBMdHc?oc=5)
+
+2026-11-11 <span class="news-indication-tag">EPOC</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzlnUWlRRVM0MndkQWUyQVgyTGRzN3cwZXo2SkFVb0FoZnJGdHlhVWYyQ19MalFpSlh6QVgweUVwS05odEVNM2ltU2lGUGpyM0NqeEdHTlJIb1AtZFhFTTJydlM2QkdzYkpiY2h3aWozYkhPVEhhekNoT2JaM1J2M1FZYU9GeTdSb1B0bWFaM2VMUEJVNG1DdEpMT3I1WTBWdTNwVG9qeEV0Mm8yeS0wUTl2ZmpYSVo2ZkJ0bS1IS0dwdXBMdHc?oc=5)
+
+---
 
 ### [RSV ist keine leichte Erkältung - Experte über Imfpung für Säuglinge](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYnlxVnVPaktWRnk2VXpNVkhKUDYxdW5vQ2NvM3pTal9RZHB1UlB4OHJDbkc2YVZwcTZFYlNmUEhvenJiaXZ5RmFpb2pHMkZqUGJFbzJ5b2NQNFdVUFBlWTlmeWJzY29GVWJnSFo3ZTVUZHg5Y09aOTlET011T083RmZxVHBNd3lxcGUxd3FhbXBEanMwU3Z5aFVUZFhaSGx4VTJmRnJkWG9DXzhLcHlPUzUxbGhSNTlQT21jOFRVb2lsRGdLSEZvR0htZDhFcDF5UXNXTGxCd1Eza1BraGc?oc=5)
 
@@ -117,14 +125,6 @@ Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMiwAFBVV95c
 2026-11-07 <span class="news-indication-tag">Morbus Crohn</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUNpOWduMnQ2cXVRMUxTU0FlZFNPRjlTb2c0YTNHLVNrTVRGaXlmbkFjWWVrME8xU09BWDBQNUFKemhTelo1VGlnUEt0NGtEWU1kMldzZl85Vl82RGI3YVpVRTFFeTdFUHVrdXhNOVM0QXFfdFZuVEhoeXp6VTQxZlJBM0ctTnIzUFFPVWl5cnpYenFWbWpfbGktSXFURElCb09OM1VTY3d3dnktakdpMm1GQUZYZEVnakJZYVpxZ2M?oc=5)
-
----
-
-### [Oxford-Studie enthüllt: Ein Antikörper sabotiert den Schutzschild des Darms](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWstc1VHWjNaMlBqZnFBUUF5MW1LcTl5NjU3UjJOLXo4dTUxNklrVDBsQWtvVkJ2dU5vNF9NNFA0dWtPdDhWYS11S1hRQURfOEs3bHVEQjQxYXZNTk1KaTIwd3lQSTh4VjJOZ1h4Sm0xVkNKcjdMV3JwNmZrUElfVDRBSE1iODc2ZzVkR0lROS1YMXFiSGFTTGc5OVdmTmJxZGJ2Vk9NeWpnOWxaUUdGYXEycEZoeHVXQ1pYZ0RXbmVBVzhGOUE?oc=5)
-
-2026-11-07 <span class="news-indication-tag">Morbus Crohn</span>
-
-Source: [T-Online](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWstc1VHWjNaMlBqZnFBUUF5MW1LcTl5NjU3UjJOLXo4dTUxNklrVDBsQWtvVkJ2dU5vNF9NNFA0dWtPdDhWYS11S1hRQURfOEs3bHVEQjQxYXZNTk1KaTIwd3lQSTh4VjJOZ1h4Sm0xVkNKcjdMV3JwNmZrUElfVDRBSE1iODc2ZzVkR0lROS1YMXFiSGFTTGc5OVdmTmJxZGJ2Vk9NeWpnOWxaUUdGYXEycEZoeHVXQ1pYZ0RXbmVBVzhGOUE?oc=5)
 
 ---
 
