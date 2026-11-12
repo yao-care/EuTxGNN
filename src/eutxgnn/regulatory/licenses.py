@@ -86,7 +86,8 @@ def _own(cell, own):
     c = norm(re.sub(r"[（(][^）)]*[）)]", "", cell))  # 號碼後面的說明括號（「14524K (as listed in the data)」）不算號碼
     if not re.search(r"\d", c):
         return True  # 不是號碼的格（「Not recorded」等）不驗
-    return c in own or any(c.endswith(o) and len(o) >= 4 for o in own)
+    # 格子以本藥號碼結尾、號碼前一字不是數字（「Registration No. 459」對「459」、「ARTG 10294T」對「10294T」；5 不會配到 15）
+    return c in own or any(o and c.endswith(o) and not c[-len(o) - 1:-len(o)].isdigit() for o in own)
 
 
 def _head(s):
