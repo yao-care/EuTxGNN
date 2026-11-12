@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>49 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>50 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (49)
+## Related News (50)
+
+### [Sale ricco di potassio: cos'è e perché è un alleato della salute - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMikAJBVV95cUxQeWJvUm9BV3JUTmtaUk9yQnQzWXBNOGlsVXpVMkc0TkxBSUd2V0UyV1dRRjlpX2xYZjlkZ0R3VjFJeFBrdXFqakcyR2FCNDNIX1AwUnlIVk1HTVphSzZINzc3c1c0TEEwQWN1MlRjU3pMNDZaLXZWd25kazVJUEx6djRpQkJVcjZpMWphbmZwOEJORlVYOV9QQnRoRFd2X3puQUpqdE1BdVNqaGszdDJIeldEb3dIYzBYRE82VzJ6ZE02N2Ftbks5TFhuRUVjbFF5RU1DcDNCZzgyQ0luaDJaQk44RjdOYl90aVJtNEZ1RGtpVlo2dFVhM1dxM0Q5SnREVTB3YTg1eFV2cVh3b2FSaNIBzwFBVV95cUxQZm85VEp5dFBfeVkwWm5FZFVrSGVDT19OLWdfZzZwTmk4STBDV2wxVUdjVmNyWUgySXAxTl8zSDNFUGlmNUp4cWdNbDJlandEZy14eGozMjlDNXJDclRvYkxmWGpzdVFwUXYtN1dhZ0c1YWZ0WV9QbXZfRHRzYXZMa3JHR1BQakp6QTgzd1lNTjlyLXRkQnF3Z0Nrdm8xbm9GTW5KX1RlaWRRbVdlNTdiZi1LQ2NkbG4yVFZyUFQ2X3lnUkpaOGlmdE41UDFtTHc?oc=5)
+
+2026-11-12 <span class="news-indication-tag">ipertensione</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMikAJBVV95cUxQeWJvUm9BV3JUTmtaUk9yQnQzWXBNOGlsVXpVMkc0TkxBSUd2V0UyV1dRRjlpX2xYZjlkZ0R3VjFJeFBrdXFqakcyR2FCNDNIX1AwUnlIVk1HTVphSzZINzc3c1c0TEEwQWN1MlRjU3pMNDZaLXZWd25kazVJUEx6djRpQkJVcjZpMWphbmZwOEJORlVYOV9QQnRoRFd2X3puQUpqdE1BdVNqaGszdDJIeldEb3dIYzBYRE82VzJ6ZE02N2Ftbks5TFhuRUVjbFF5RU1DcDNCZzgyQ0luaDJaQk44RjdOYl90aVJtNEZ1RGtpVlo2dFVhM1dxM0Q5SnREVTB3YTg1eFV2cVh3b2FSaNIBzwFBVV95cUxQZm85VEp5dFBfeVkwWm5FZFVrSGVDT19OLWdfZzZwTmk4STBDV2wxVUdjVmNyWUgySXAxTl8zSDNFUGlmNUp4cWdNbDJlandEZy14eGozMjlDNXJDclRvYkxmWGpzdVFwUXYtN1dhZ0c1YWZ0WV9QbXZfRHRzYXZMa3JHR1BQakp6QTgzd1lNTjlyLXRkQnF3Z0Nrdm8xbm9GTW5KX1RlaWRRbVdlNTdiZi1LQ2NkbG4yVFZyUFQ2X3lnUkpaOGlmdE41UDFtTHc?oc=5)
+
+---
 
 ### [Kardiovaskuläre Prävention bei CKD – Risiko früh erkennen und konsequent handeln - mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCaW5pQjNsQWtMc2gwMUJPVEcxbHFGcEZQWV9JSTNwRTRZWDZLRG92ZFJNTmpPLVd0eHExalgzVVA4a2x6V1pQVE92MDljMTZKMloxcWRQaHJKdDI0NHg4cTJrT2FjMHJGMnFvZnBNN0JveWwxVVh1SWljU3IteGs1ZHI?oc=5)
 
@@ -56,6 +64,14 @@ Source: [mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCa
 2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
 Source: [Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnpJYWZnRTJmSWtNVzJscFBqTkhWaW96X2xKeW5JY0lZQzViWjBoWWhvci0tQm1iM3VmY212SFpHSmJ2dkgySTQzbmR2Z1cxMFNjVHNuZnVIVXM4MFUwb1N6Z0FfdlZ0aEpPQ1FremZ2MEY4d1FzYTk0Qm0yT0Vnazl6SmlVdkx2MkQxcy1LcFVPbFVFVFE?oc=5)
+
+---
+
+### [Laut Nephrologen: Dieser unterschätzte Blutdruck-Wert schädigt die Nieren jahrelang unbemerkt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">Herzerkrankung</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
 
 ---
 
@@ -80,14 +96,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQaj
 2026-11-09 <span class="news-indication-tag">high blood pressure</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWV9KVjFkczBreVNUQnktVmZwa0cwcUxpQlRFdTRPdHVZVkR4VTdwZ1NOV2luRXBibmlyeUp1clBxaGRPTmVqYzV5RlVzenN1LURIUGJ0WXdJTFVWX2pIQUtobldLUjEwaklIUGM4eXRSQ0ZvMElIbTRGdkF3MklFa19Vdzdra2h2?oc=5)
-
----
-
-### [Alzheimer's study finds symptom starts in ear 10 years before memory loss - Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
-
-2026-11-09 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">depression</span>
-
-Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
 
 ---
 

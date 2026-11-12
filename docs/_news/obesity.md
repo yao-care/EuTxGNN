@@ -3,7 +3,7 @@ layout: default
 title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 79 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 84 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>79 news articles</strong> and 8 related drugs.
+<strong>obesidad (obesity)</strong> currently has <strong>84 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (79)
+## Related News (84)
 
 ### [OBESIDAD: la atención personalizada y el fenotipado como ejes del modelo asistencial - Gaceta Médica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWDZTQll5bWpJRHppMDBwSG4xM1NCbFBiamdIaFRVOFFQSEMtbklNMlFoTjhqblJ0aTM5WHdGYnJocHRHQkFhS1cwOFEtOWhJaDlDTW1ibjZhc2VINE96dHdlUjdIUUNWXzlIYzVkVE1NTWQ0d0VRY2xQdUI2X0pDSjBLRFJSeFoxWFg1RHRrM2cxT0VjZEQ2Mjlpd3FYOGVLSUJWRHZYQnZ3SW5weTJZZXpHNDBaRlF1?oc=5)
 
@@ -52,6 +52,14 @@ Source: [EFESalud](https://news.google.com/rss/articles/CBMickFVX3lxTE5xalhXTTZu
 
 ---
 
+### [BMI-Messung allein identifiziert viele Adipöse nicht](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSUlTQ1U1YmdoUmJqUXhBREQtZ05lWmdNU1lRYkMteHoxRFRZVk0yVHZ1bjJMcHlxM0RTTlRLdXFPdU1yVkYzTWNKbzdtNjlhNTJWS25CVnVmYmx0d0NwWVZtck9oMW5SbG9RUGNmYzNwOVlGWEEtTVlMQ29zdll0STFuaW5HYkh0bVVnVFlTRGN2dXlBN2pyZGlZUl9iN0tUNVVJN3VGSzc?oc=5)
+
+2026-11-12
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSUlTQ1U1YmdoUmJqUXhBREQtZ05lWmdNU1lRYkMteHoxRFRZVk0yVHZ1bjJMcHlxM0RTTlRLdXFPdU1yVkYzTWNKbzdtNjlhNTJWS25CVnVmYmx0d0NwWVZtck9oMW5SbG9RUGNmYzNwOVlGWEEtTVlMQ29zdll0STFuaW5HYkh0bVVnVFlTRGN2dXlBN2pyZGlZUl9iN0tUNVVJN3VGSzc?oc=5)
+
+---
+
 ### [Internationale Studie: Allein der BMI verfehlt viele Adipositas-Diagnosen](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmFJNktSbHJMU2Zad0pvYkZQQV85dlZsdlN0S0RBenc3SjVNU2JJdG5qUGNtLUo1VmtNdGJXcXVNVFFBUDg2ZklnUEhOa3JmRDBiR0xZNl9jbkRXbWlsT1JjR3FfWjNieTdRbHdnY2J2M19Oc0ZuekV2b3FrcmZ1a09xY3JoVDlLSTkzMkp5VXZfd2pCeDdxNHViTXE3RzFfdU5jT05qMjQwWUU?oc=5)
 
 2026-11-12
@@ -65,6 +73,38 @@ Source: [Euronews.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmFJ
 2026-11-12
 
 Source: [BFM](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNU1BKVnZOQzZkYkFjVjd6MF9POUM3TF9jc1ctUE5aR1N1NHlzMURpdGQwQjF2QnlVajAxVkYtMVBsREV1dTUtZ0w3Y0FyekEwdTVsZm0wSFg4MzNRRGxQUW9oeC1LNDE4S1RPbGVWUTNsWjh0aVYtQUNVWFFWTXRSSk5ZT01UdjkzZVJEQlg0U01UcFluclNPUFJRNjRKY0hUVGgyUmZXTk11RmZhMjFvdEJPejNpR0psNzJ0QXVISV9YLU5Bdnh3ejR6TTVuVVBOZHl5Yk5yTHpHY09PaUZva2ZjSE1rQW03elNseHRSUE5pOEdBRXVwcVFpYw?oc=5)
+
+---
+
+### [Una nueva definición de obesidad va más allá del índice de masa corporal](https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWFBRWVxMGpFV3Jra1RSZFpTWHo3MDl1c0cxSTdEdXFCWndncmxXeHgxYzZtVjFhbFV3NGYwVWR4UmtjWkRSYk9uSERfWUFoOENvTkJoRk91bmo2UUw5UGV4UEl4YWpkekZKRHFvak5lRUV4RnlFcjdvMUk5TmZ6TTFEOENvU2tZbE50enY5VUE3RGFoYWp5MDdGZThwYUJJVkxvd2lrVlVON1hQd0dUczR2VGhzRzllZVpERXpUUjFlOWpjSWNOeVFHbGE?oc=5)
+
+2026-11-12
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWFBRWVxMGpFV3Jra1RSZFpTWHo3MDl1c0cxSTdEdXFCWndncmxXeHgxYzZtVjFhbFV3NGYwVWR4UmtjWkRSYk9uSERfWUFoOENvTkJoRk91bmo2UUw5UGV4UEl4YWpkekZKRHFvak5lRUV4RnlFcjdvMUk5TmZ6TTFEOENvU2tZbE50enY5VUE3RGFoYWp5MDdGZThwYUJJVkxvd2lrVlVON1hQd0dUczR2VGhzRzllZVpERXpUUjFlOWpjSWNOeVFHbGE?oc=5)
+
+---
+
+### [Obesi, ma non necessariamente malati: perché la bilancia non basta più a misurare la salute](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTUpHdGpMWmhoXzBDRTg3NTZMc2F0T21yN3locXlnR05RcHViN19GdUJGMEpwVUNreXhIN3Q5b0NmV05GTXhLWTJpRXREMGdxVUhCX1hXM3FoOFdzRDNMRVhaUDlXYlBCNkhoU3Q3cXBQa3lqQmlFZ09zemJFVmFLYkoxajFMV2RDLUFBQ0RfQ2hWa0NVWTFhTWhrei1EMmc3eXQ2N2FoblRLcDhxbGRwUjBCYkNJN1licnlEMHljN2ptc3pSekNidFN0S3NzOU5zbThDeFBQNA?oc=5)
+
+2026-11-12
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTUpHdGpMWmhoXzBDRTg3NTZMc2F0T21yN3locXlnR05RcHViN19GdUJGMEpwVUNreXhIN3Q5b0NmV05GTXhLWTJpRXREMGdxVUhCX1hXM3FoOFdzRDNMRVhaUDlXYlBCNkhoU3Q3cXBQa3lqQmlFZ09zemJFVmFLYkoxajFMV2RDLUFBQ0RfQ2hWa0NVWTFhTWhrei1EMmc3eXQ2N2FoblRLcDhxbGRwUjBCYkNJN1licnlEMHljN2ptc3pSekNidFN0S3NzOU5zbThDeFBQNA?oc=5)
+
+---
+
+### [Este no es otro artículo sobre obesidad y GLP-1](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUMxMVBsTXdaWWl0RVRRLUVtZVVfT3hRU3ZIc1lRUjE1RTNmUFdjdmJEVk55Y2IweTlDdG9RMEJHQ2F2Q014aG1UZzFyaGh4dTBrWWdMa0tZN3JtX3NfbFE4ZlNTUTNTRUFib1hCWDNVWXpQcGNKY3ZvZ051cVhFZ3UyUFJtT0ZHT2xNLUk0eDJVbUs4X05nTDBqWQ?oc=5)
+
+2026-11-11
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUMxMVBsTXdaWWl0RVRRLUVtZVVfT3hRU3ZIc1lRUjE1RTNmUFdjdmJEVk55Y2IweTlDdG9RMEJHQ2F2Q014aG1UZzFyaGh4dTBrWWdMa0tZN3JtX3NfbFE4ZlNTUTNTRUFib1hCWDNVWXpQcGNKY3ZvZ051cVhFZ3UyUFJtT0ZHT2xNLUk0eDJVbUs4X05nTDBqWQ?oc=5)
+
+---
+
+### [Semaglutida oral 25 mg (Wegovy® tabletas) llega a México, primer país de América Latina en tener disponible esta alternativa terapéutica - EFE Comunica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU043NHpHVzVmaHkzbHc2LU9tcWJERl9vSWt6RkQ1MGVjQnRKOGdnOWJPOUIwejk2M1hXOEVWZ3kyZ3EwQnhvSTdUandFYUtSazRuei1CMGpEbW56TUNycU5lQTFyMWRMVFMyVEZrQzhFRFRKTE43NFhwS1NnVzdsOUNSMTVBWm1MOUVBVzdnelJLQ3ZUVHFTN0hRdkZiVzZiLWhXdWZ4UFVvdWxBM2pEMW5hT0hiRm9ydUxYQXFTY1BLM3BwMmQyeWs3Q2xmVk9OMFRVYjdjdGtDSS16VklEY0VnOHJNTmZqTDJmeUxMTFhDemc?oc=5)
+
+2026-11-11
+
+Source: [EFE Comunica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU043NHpHVzVmaHkzbHc2LU9tcWJERl9vSWt6RkQ1MGVjQnRKOGdnOWJPOUIwejk2M1hXOEVWZ3kyZ3EwQnhvSTdUandFYUtSazRuei1CMGpEbW56TUNycU5lQTFyMWRMVFMyVEZrQzhFRFRKTE43NFhwS1NnVzdsOUNSMTVBWm1MOUVBVzdnelJLQ3ZUVHFTN0hRdkZiVzZiLWhXdWZ4UFVvdWxBM2pEMW5hT0hiRm9ydUxYQXFTY1BLM3BwMmQyeWs3Q2xmVk9OMFRVYjdjdGtDSS16VklEY0VnOHJNTmZqTDJmeUxMTFhDemc?oc=5)
 
 ---
 

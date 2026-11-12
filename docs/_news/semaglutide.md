@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>50 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>51 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (50)
+## Related News (51)
 
 ### [Visión borrosa y posibles complicaciones en la retina: qué debe vigilar quien toma Ozempic o Mounjaro](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX2xoMkN6bjRzOGxJckRLVWhIYjRMZ00zNlFTQmh5cUJRNDRBWmRhQk5iWmNjcGhzOEV6dUFPZEd0QW5qRkpEVEhqOVZmR3BIX2VnblhnYU4taENLbExFQ3RocUVoeGs2dWZMcklfdUlsOE4xVUhhNkFtTzJFcTdaTERUbkxPRlB1cFBieFp4dXQ5Yk1rd3FyUlZrbUVRdjZ6RHNlbF8tMHBDOWdyQ0RlelR6Z1I1OEQ5WDhiaTc4Z0NwV2FsN2U2RUZ2SDZVb005aXJLdjdLTlhVWWxWQWxUWER4amRLT3BzMFREZ2IxeFJqZw?oc=5)
 
@@ -44,6 +44,14 @@ Source: [Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX2xoMkN
 2026-11-12 <span class="news-drug-tag">Semaglutide</span>
 
 Source: [El Diario Vasco](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ3RDV2lJNTRtei1JSUtmckJOU29TS3MtWEE4ZEQ5eWVod0Qwb01kNFJ2VEQzcXljVmZLNGZtNmU4bzNVWjEyM3d0cWRjTjA0d1dRUE9BTXM2TFU5VWdNemljT1JKMnFoemUyVGw1RUhTUHB2T0FBblB4LVZFUmF3RTNNSnI4MWFxaWZpYUYyMHltd1JTYVZfLTZEQVZMX012dXZKQkR4ajlOWFZXLXo0a9IBtgFBVV95cUxNTF9KSWtXcjRnZzFRbmF0cHhjRFlOU3l2ZWFWVWNPejJfQkc5NnlYM2NROUFDRW52aDBfbFV4N1hLUUVwT3NWT0lWb1hMcElzSjE4c1ZCOHotYmRBRDhqQXdORGVuOGFKS3NhYWZFa19pZFlGVUxPYXBVdEQyUVJ2SWk2QlpnNk9Ib3ZSR3RQWGVneWZZR0pSYTNySTI5b0cyNkhOcUxMR3g3RGY0V1ZHbEV0UkZqdw?oc=5)
+
+---
+
+### [Semaglutida oral 25 mg (Wegovy® tabletas) llega a México, primer país de América Latina en tener disponible esta alternativa terapéutica - EFE Comunica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU043NHpHVzVmaHkzbHc2LU9tcWJERl9vSWt6RkQ1MGVjQnRKOGdnOWJPOUIwejk2M1hXOEVWZ3kyZ3EwQnhvSTdUandFYUtSazRuei1CMGpEbW56TUNycU5lQTFyMWRMVFMyVEZrQzhFRFRKTE43NFhwS1NnVzdsOUNSMTVBWm1MOUVBVzdnelJLQ3ZUVHFTN0hRdkZiVzZiLWhXdWZ4UFVvdWxBM2pEMW5hT0hiRm9ydUxYQXFTY1BLM3BwMmQyeWs3Q2xmVk9OMFRVYjdjdGtDSS16VklEY0VnOHJNTmZqTDJmeUxMTFhDemc?oc=5)
+
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [EFE Comunica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU043NHpHVzVmaHkzbHc2LU9tcWJERl9vSWt6RkQ1MGVjQnRKOGdnOWJPOUIwejk2M1hXOEVWZ3kyZ3EwQnhvSTdUandFYUtSazRuei1CMGpEbW56TUNycU5lQTFyMWRMVFMyVEZrQzhFRFRKTE43NFhwS1NnVzdsOUNSMTVBWm1MOUVBVzdnelJLQ3ZUVHFTN0hRdkZiVzZiLWhXdWZ4UFVvdWxBM2pEMW5hT0hiRm9ydUxYQXFTY1BLM3BwMmQyeWs3Q2xmVk9OMFRVYjdjdGtDSS16VklEY0VnOHJNTmZqTDJmeUxMTFhDemc?oc=5)
 
 ---
 
@@ -65,7 +73,7 @@ Source: [Open](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdW
 
 ### [Los riesgos que afrontan los diabéticos al dejar los GLP-1](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUNfRHVmSDlvMl9oRUp1TGd5ZjZibUxiN0FhZXFKT3NXUzJ0MFp0ODY2SjhscnlrX3dWaEJFRjNtQ2RBa001MFVvNGxNLTZONWRTME9fVWc0T2RXeG1TVlMwOWJRNE9RZE9KSUM1dUp6VjJnaDJUekZiaHlzMWZqdjVXNTdQS0twOGFHR3FncWFTVGw3WWM2S1VPbDVTU3JkTjRDekVUdU10WGV3RUItakhvX0xUa0hjOVFZ?oc=5)
 
-2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUNfRHVmSDlvMl9oRUp1TGd5ZjZibUxiN0FhZXFKT3NXUzJ0MFp0ODY2SjhscnlrX3dWaEJFRjNtQ2RBa001MFVvNGxNLTZONWRTME9fVWc0T2RXeG1TVlMwOWJRNE9RZE9KSUM1dUp6VjJnaDJUekZiaHlzMWZqdjVXNTdQS0twOGFHR3FncWFTVGw3WWM2S1VPbDVTU3JkTjRDekVUdU10WGV3RUItakhvX0xUa0hjOVFZ?oc=5)
 

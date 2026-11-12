@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Ustekinumab?">
-<strong>Ustekinumab</strong> currently has <strong>137 news articles</strong>, with 10 predicted indications.
+<strong>Ustekinumab</strong> currently has <strong>145 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,39 @@ This page combines the AI-predicted indications for Ustekinumab with the latest 
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (137)
+## Related News (145)
+
+### [Un nuevo estudio desvela una baja percepción de riesgo de la diabetes entre los adultos españoles](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTXVHektXR25VY3lubEcwYWNoRXhzc1RtS0dpRFJuUTB1ZXZMYzNGZnBpVEJpWW5BYUlFT1kzTm9PcnNjRlhicW14ZkFxN3RsUVpVdXZGclJkMWhIQkJ4dHlZWHI5Qko3bktEaF91X2hwdFd0dVltQ21WSUUxcERKd2tyN1pJc1UtbW00Mk11aklSZXh0NFNvekJ4RzRvZlNaOVhaWVlMaDVYMUxvbFl4Z3dMS0xVZmNXemdubDJqVWVSSDI2alJTUXdvSExqNmlFbWhLV3c0YWtHWGpyS0ZRSVJsQWtZSDg?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [Infodiabético](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTXVHektXR25VY3lubEcwYWNoRXhzc1RtS0dpRFJuUTB1ZXZMYzNGZnBpVEJpWW5BYUlFT1kzTm9PcnNjRlhicW14ZkFxN3RsUVpVdXZGclJkMWhIQkJ4dHlZWHI5Qko3bktEaF91X2hwdFd0dVltQ21WSUUxcERKd2tyN1pJc1UtbW00Mk11aklSZXh0NFNvekJ4RzRvZlNaOVhaWVlMaDVYMUxvbFl4Z3dMS0xVZmNXemdubDJqVWVSSDI2alJTUXdvSExqNmlFbWhLV3c0YWtHWGpyS0ZRSVJsQWtZSDg?oc=5)
+
+---
+
+### [Innovación está cambiando el pronóstico de la diabetes pero al menos la mitad de los pacientes no logra aún un control glucémico adecuado - La Web de la Salud](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdlRVUVVoWldHTVlaaDV6NUJ2RVRtbmNKUEN0WkZWR0wta2JQMC04OGotMUI1SGJ6WVdTemhCTDFIek5mY3VjRjF0SkVlb3lucDZyRE9yQllNOG5FMDJ2blhWLUpnWUpuWlh3WnlTTkxXUTVCZHg1a3BkMm1hR2hIZzFhSUd3V0t1cm83bmo0VHlXQjBlYUgzczZUWDQ3dXZBNGpELV9paVVub1JRaXJfZGM3Tklqd3ZpZ1g4NnJuUFB0YU96SkJ5ZUoyWHoyM2FtZ0p3THhXdFEtOE9UeE41d1pyaUpVT0dFRy1vUkx0RmJuZGtPRWVXRQ?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [La Web de la Salud](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdlRVUVVoWldHTVlaaDV6NUJ2RVRtbmNKUEN0WkZWR0wta2JQMC04OGotMUI1SGJ6WVdTemhCTDFIek5mY3VjRjF0SkVlb3lucDZyRE9yQllNOG5FMDJ2blhWLUpnWUpuWlh3WnlTTkxXUTVCZHg1a3BkMm1hR2hIZzFhSUd3V0t1cm83bmo0VHlXQjBlYUgzczZUWDQ3dXZBNGpELV9paVVub1JRaXJfZGM3Tklqd3ZpZ1g4NnJuUFB0YU96SkJ5ZUoyWHoyM2FtZ0p3THhXdFEtOE9UeE41d1pyaUpVT0dFRy1vUkx0RmJuZGtPRWVXRQ?oc=5)
+
+---
+
+### [La diabetes tipo 2 podría incrementar en más de un 50% el riesgo de padecer Alzheimer - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGdONGtpQzEzNnp6REJtNFFPUDJJSVZXOUZvNXhEcFBEcWM0MnpWOWJUanNKcmExVWxfWGV1YXRsMzNhNVpPLXYzemN1Uk50RWxVaFBhSnhxMVcweGtCZHpCY2ItM01Ta3oza292Q29IZzhGR2l5YmUzODJIWUVYM0xjeEZWOVBaS0pOaVNrcjgzNGJ6bVMxa3pGS2NOeVRXRnUyeHVhVTV3S295NTRObU9TeWhVV0VKWEJDMTRn0gG4AUFVX3lxTE1PWnlzZkN5SFdOS2lleGs0U0NWMWE1OTBUdjBxSldQMWNqYTBoemg1N2JHUUpEd0dJMV91M2tBTzJacnRTd3FaVENhMXJZWXlEQ3VwallqdjF2R2ZZT0pvWkx5UzB4azltb0FQNTZQdDM1SHp2bEcyTjluZzNXS0RpNmNEdXgwRnlQYmYxLWFvckpXc0ZLSms1b3MyMTJUd04wUTVYOGwzeFVvc2pVc2ZKdDcyd2ZSWmo?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGdONGtpQzEzNnp6REJtNFFPUDJJSVZXOUZvNXhEcFBEcWM0MnpWOWJUanNKcmExVWxfWGV1YXRsMzNhNVpPLXYzemN1Uk50RWxVaFBhSnhxMVcweGtCZHpCY2ItM01Ta3oza292Q29IZzhGR2l5YmUzODJIWUVYM0xjeEZWOVBaS0pOaVNrcjgzNGJ6bVMxa3pGS2NOeVRXRnUyeHVhVTV3S295NTRObU9TeWhVV0VKWEJDMTRn0gG4AUFVX3lxTE1PWnlzZkN5SFdOS2lleGs0U0NWMWE1OTBUdjBxSldQMWNqYTBoemg1N2JHUUpEd0dJMV91M2tBTzJacnRTd3FaVENhMXJZWXlEQ3VwallqdjF2R2ZZT0pvWkx5UzB4azltb0FQNTZQdDM1SHp2bEcyTjluZzNXS0RpNmNEdXgwRnlQYmYxLWFvckpXc0ZLSms1b3MyMTJUd04wUTVYOGwzeFVvc2pVc2ZKdDcyd2ZSWmo?oc=5)
+
+---
+
+### [First NHS patient gets Teplizumab drug to delay Type 1 diabetes](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yQTdTcUlMMmthbWU4NVI0MU83dUluejQ2bUdXNGo5c1BxS0I3QkZjNWVVTmZtMlBkUXNmMnR3VVpXVUlXSkN5MG1tV0QyNGg4Ukd2Zi1oOGt0a1h1N1E?oc=5)
+
+2026-11-12 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yQTdTcUlMMmthbWU4NVI0MU83dUluejQ2bUdXNGo5c1BxS0I3QkZjNWVVTmZtMlBkUXNmMnR3VVpXVUlXSkN5MG1tV0QyNGg4Ukd2Zi1oOGt0a1h1N1E?oc=5)
+
+---
 
 ### [Cuidar la salud bucodental, clave para controlar la diabetes - Gaceta Dental](https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1FqclVWeE9GUHlLNHhFN2NLdHF2a0UwRlVfYzB4NUhYUS0zUHZEU1VMVExoc2t3Zk5mVlA2c1BabG9TaFBZMW9VS2dEQ015V3JRaVFYc0JHaGhtTENzbk1aSWJXT2w5eFMwMGVwRDJ0b19qT1J3SF9uUTA2N0c4ZV8ydG1WaU41QVIwd0NkNzRoSmV1SDhSNg?oc=5)
 
@@ -52,11 +84,35 @@ Source: [Gaceta Dental](https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1F
 
 ---
 
+### [Two Trials of Intensive BP Lowering, Two Different Outcomes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+
+---
+
+### [Diabete, quali sono le abitudini e i comportamenti che peggiorano la glicemia - Sky TG24](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZNlV3R3I2UDc5bHJ2R3VZVzhlVnhwa2tvZGNmaXNueXhoWERJdmkwZlRQUk1DRUtqV2VUeUtEcHlYZkJ4Vm1qRndyY2FXWXAweG5hYm1lUXNuck9pdjZwLUhadXM5U281c1dqZl9iYlVIUGwwZEIwMFlrR2U4UQ?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabete</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZNlV3R3I2UDc5bHJ2R3VZVzhlVnhwa2tvZGNmaXNueXhoWERJdmkwZlRQUk1DRUtqV2VUeUtEcHlYZkJ4Vm1qRndyY2FXWXAweG5hYm1lUXNuck9pdjZwLUhadXM5U281c1dqZl9iYlVIUGwwZEIwMFlrR2U4UQ?oc=5)
+
+---
+
 ### [Seis de cada diez españoles reconocen tener un conocimiento bajo o muy bajo sobre la diabetes tipo 2](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPanByYWhxS084dmFYV2xYM0hWLU9jUnZ3T3FoQTgyNEZrdUNQczlMaHZId09sVVJFdXBmcjB6TlFkd0JudEdZYUs0ejg0TEpmWmVEZlR2SUVaeEF6ek5OSHJaSUlqSjVpMjlmcERPUm5YMzdOeUYtNWJZcjV1N0NMa3VqVHpUWElBY2k0LXRTMHA5dDkyaEcyT0puMnFxY1MwNjluNTVjLTQtZGh3ZGx2RFdVc2hsbm1xSXVqZkNKaDIzWXlxUnNzd1piQWQ0NzltU0MzVXl3?oc=5)
 
 2026-11-12 <span class="news-indication-tag">diabetes</span>
 
 Source: [ConSalud.es](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPanByYWhxS084dmFYV2xYM0hWLU9jUnZ3T3FoQTgyNEZrdUNQczlMaHZId09sVVJFdXBmcjB6TlFkd0JudEdZYUs0ejg0TEpmWmVEZlR2SUVaeEF6ek5OSHJaSUlqSjVpMjlmcERPUm5YMzdOeUYtNWJZcjV1N0NMa3VqVHpUWElBY2k0LXRTMHA5dDkyaEcyT0puMnFxY1MwNjluNTVjLTQtZGh3ZGx2RFdVc2hsbm1xSXVqZkNKaDIzWXlxUnNzd1piQWQ0NzltU0MzVXl3?oc=5)
+
+---
+
+### [Los signos que pueden pasar desapercibidos y que debes prestar atención para un diagnóstico precoz de la diabetes](https://news.google.com/rss/articles/CBMiigJBVV95cUxOcHV2SHdHaFI2LVRnWWt4Ti16U2xLYUxpdGFTM1VueW4zVWFFd0dyb21MYkJCYlBvWXc0dkdsc1FyX0YxRlFfUFF0WEJMN2NIei1IS0hweVNUVEZhcmV2QWZhc205a0Q0SXNlYmhXQ2pUdDNlbmtQNGRKZktwS3NSNjFPdThMeU9tdzRkZ19FSnRfMnh1VEcyeVhlTGR0allZenI0LXBjTkRxRHRMSU96M2phdXNfYm4xTVBRRGpPdGxDbkxJYlJCOF9aSHZpOWVZQ3VsbVdPdk5xNHZlZjQ3TC04clo2V055QUFoQThQX1BRcTNCOTBlM05NbDFfSW9EYV9iZVFBd1Vpd9IBjwJBVV95cUxOTDFZNVYwaUlWVGdUNnBReHhBX2dWbzBGY1dteDQxREUzbUpld2FyY1VkT2M1QmhEeTJZUWNYVU5Ub0pVVEt4UFd0Tm9Ld0hjd0djLTRpb0xtOGt1akVkV0FNdG95LVdaeTdUWWltckRqV3NtQndySS13Y05hM2x2akMyQjZkQnVHNUdQTnBjX1NyNnVxN1Z5WV9ORlVKWjhYWXdLeFc2OGhhY053WTNydDM4bFZGa0NCVEhwUlA3Q3h5OF9CUjdBaGxVR21nb2VlTzBsTU5sMUczUUhZZUo2VElIMU9DWmYzWDRSbkViYmNLdThGZmRtVTNRdXE1cU9femozZXBobWljRXlGMWc4?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [COPE](https://news.google.com/rss/articles/CBMiigJBVV95cUxOcHV2SHdHaFI2LVRnWWt4Ti16U2xLYUxpdGFTM1VueW4zVWFFd0dyb21MYkJCYlBvWXc0dkdsc1FyX0YxRlFfUFF0WEJMN2NIei1IS0hweVNUVEZhcmV2QWZhc205a0Q0SXNlYmhXQ2pUdDNlbmtQNGRKZktwS3NSNjFPdThMeU9tdzRkZ19FSnRfMnh1VEcyeVhlTGR0allZenI0LXBjTkRxRHRMSU96M2phdXNfYm4xTVBRRGpPdGxDbkxJYlJCOF9aSHZpOWVZQ3VsbVdPdk5xNHZlZjQ3TC04clo2V055QUFoQThQX1BRcTNCOTBlM05NbDFfSW9EYV9iZVFBd1Vpd9IBjwJBVV95cUxOTDFZNVYwaUlWVGdUNnBReHhBX2dWbzBGY1dteDQxREUzbUpld2FyY1VkT2M1QmhEeTJZUWNYVU5Ub0pVVEt4UFd0Tm9Ld0hjd0djLTRpb0xtOGt1akVkV0FNdG95LVdaeTdUWWltckRqV3NtQndySS13Y05hM2x2akMyQjZkQnVHNUdQTnBjX1NyNnVxN1Z5WV9ORlVKWjhYWXdLeFc2OGhhY053WTNydDM4bFZGa0NCVEhwUlA3Q3h5OF9CUjdBaGxVR21nb2VlTzBsTU5sMUczUUhZZUo2VElIMU9DWmYzWDRSbkViYmNLdThGZmRtVTNRdXE1cU9femozZXBobWljRXlGMWc4?oc=5)
 
 ---
 
@@ -137,6 +193,14 @@ Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV9
 2026-11-11 <span class="news-indication-tag">diabete</span>
 
 Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVmIzek9PRnRQWGw2clBUMEhEVEdaV3Z5UXhnbkRyajNyQ05QVTlpYUZUd2l4ejF6TzdUUFRRaGxLNVZiQ1hoV3p1TF9SQXFTeW9uaHZNUGZpdkJWbG5MMEM3TkpONTIxajRVZ2l2bXVUMGlMMXNGU0UtVV8zNEZvajh6RUpVNmJuZUltYTZ1SnBaeXowanV1SkRWUm5iYTl3TlF6dDJPTUhod3JoY2ZBVkJWOTM2X0xpbGhZd29PeHduM2FxeFdVZ3hac24tS3MwZUFxX281c0xocHlKQlZDeUhmMGgwTVlHVVhlXzdXOA?oc=5)
+
+---
+
+### [Laut Nephrologen: Dieser unterschätzte Blutdruck-Wert schädigt die Nieren jahrelang unbemerkt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">Herzerkrankung</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
 
 ---
 

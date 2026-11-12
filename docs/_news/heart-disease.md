@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "heart failure (heart disease) News"
+title: "Herzerkrankung (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about heart failure (heart disease). 21 articles, 57 related drugs."
+description: "Health news about Herzerkrankung (heart disease). 21 articles, 57 related drugs."
 permalink: /news/heart-disease/
 last_modified_at: 2026-11-12
 ---
 
-# heart failure (heart disease) News
+# Herzerkrankung (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about heart failure (heart disease)?">
-<strong>heart failure (heart disease)</strong> currently has <strong>21 news articles</strong> and 57 related drugs.
+<p class="key-answer" data-question="What news is there about Herzerkrankung (heart disease)?">
+<strong>Herzerkrankung (heart disease)</strong> currently has <strong>21 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “heart failure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Herzerkrankung” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">

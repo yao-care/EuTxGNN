@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>159 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>165 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (159)
+## Related News (165)
 
 ### [OBESIDAD: la atención personalizada y el fenotipado como ejes del modelo asistencial - Gaceta Médica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWDZTQll5bWpJRHppMDBwSG4xM1NCbFBiamdIaFRVOFFQSEMtbklNMlFoTjhqblJ0aTM5WHdGYnJocHRHQkFhS1cwOFEtOWhJaDlDTW1ibjZhc2VINE96dHdlUjdIUUNWXzlIYzVkVE1NTWQ0d0VRY2xQdUI2X0pDSjBLRFJSeFoxWFg1RHRrM2cxT0VjZEQ2Mjlpd3FYOGVLSUJWRHZYQnZ3SW5weTJZZXpHNDBaRlF1?oc=5)
 
@@ -43,11 +43,27 @@ Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWD
 
 ---
 
+### [Two Trials of Intensive BP Lowering, Two Different Outcomes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+
+---
+
 ### [El Índice de Masa Corporal no basta para evaluar la obesidad](https://news.google.com/rss/articles/CBMickFVX3lxTE5xalhXTTZuNnhHTEt5cWdHZjh4Q3ZDRDJEY2RXR1R2Wl9kaWlQUzlNcXZHNWpmcEs4N3EyQS1FVkYzcHBIY2tCMW5xcHc0ME1FN1JNVDc5SkpFZ0pxVU42LTJhZkNiZ3dZX3NaQ29UVXdTZw?oc=5)
 
 2026-11-12 <span class="news-indication-tag">obesidad</span>
 
 Source: [EFESalud](https://news.google.com/rss/articles/CBMickFVX3lxTE5xalhXTTZuNnhHTEt5cWdHZjh4Q3ZDRDJEY2RXR1R2Wl9kaWlQUzlNcXZHNWpmcEs4N3EyQS1FVkYzcHBIY2tCMW5xcHc0ME1FN1JNVDc5SkpFZ0pxVU42LTJhZkNiZ3dZX3NaQ29UVXdTZw?oc=5)
+
+---
+
+### [BMI-Messung allein identifiziert viele Adipöse nicht](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSUlTQ1U1YmdoUmJqUXhBREQtZ05lWmdNU1lRYkMteHoxRFRZVk0yVHZ1bjJMcHlxM0RTTlRLdXFPdU1yVkYzTWNKbzdtNjlhNTJWS25CVnVmYmx0d0NwWVZtck9oMW5SbG9RUGNmYzNwOVlGWEEtTVlMQ29zdll0STFuaW5HYkh0bVVnVFlTRGN2dXlBN2pyZGlZUl9iN0tUNVVJN3VGSzc?oc=5)
+
+2026-11-12 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSUlTQ1U1YmdoUmJqUXhBREQtZ05lWmdNU1lRYkMteHoxRFRZVk0yVHZ1bjJMcHlxM0RTTlRLdXFPdU1yVkYzTWNKbzdtNjlhNTJWS25CVnVmYmx0d0NwWVZtck9oMW5SbG9RUGNmYzNwOVlGWEEtTVlMQ29zdll0STFuaW5HYkh0bVVnVFlTRGN2dXlBN2pyZGlZUl9iN0tUNVVJN3VGSzc?oc=5)
 
 ---
 
@@ -64,6 +80,38 @@ Source: [Euronews.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmFJ
 2026-11-12 <span class="news-indication-tag">obésité</span>
 
 Source: [BFM](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNU1BKVnZOQzZkYkFjVjd6MF9POUM3TF9jc1ctUE5aR1N1NHlzMURpdGQwQjF2QnlVajAxVkYtMVBsREV1dTUtZ0w3Y0FyekEwdTVsZm0wSFg4MzNRRGxQUW9oeC1LNDE4S1RPbGVWUTNsWjh0aVYtQUNVWFFWTXRSSk5ZT01UdjkzZVJEQlg0U01UcFluclNPUFJRNjRKY0hUVGgyUmZXTk11RmZhMjFvdEJPejNpR0psNzJ0QXVISV9YLU5Bdnh3ejR6TTVuVVBOZHl5Yk5yTHpHY09PaUZva2ZjSE1rQW03elNseHRSUE5pOEdBRXVwcVFpYw?oc=5)
+
+---
+
+### [Una nueva definición de obesidad va más allá del índice de masa corporal](https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWFBRWVxMGpFV3Jra1RSZFpTWHo3MDl1c0cxSTdEdXFCWndncmxXeHgxYzZtVjFhbFV3NGYwVWR4UmtjWkRSYk9uSERfWUFoOENvTkJoRk91bmo2UUw5UGV4UEl4YWpkekZKRHFvak5lRUV4RnlFcjdvMUk5TmZ6TTFEOENvU2tZbE50enY5VUE3RGFoYWp5MDdGZThwYUJJVkxvd2lrVlVON1hQd0dUczR2VGhzRzllZVpERXpUUjFlOWpjSWNOeVFHbGE?oc=5)
+
+2026-11-12 <span class="news-indication-tag">obesidad</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWFBRWVxMGpFV3Jra1RSZFpTWHo3MDl1c0cxSTdEdXFCWndncmxXeHgxYzZtVjFhbFV3NGYwVWR4UmtjWkRSYk9uSERfWUFoOENvTkJoRk91bmo2UUw5UGV4UEl4YWpkekZKRHFvak5lRUV4RnlFcjdvMUk5TmZ6TTFEOENvU2tZbE50enY5VUE3RGFoYWp5MDdGZThwYUJJVkxvd2lrVlVON1hQd0dUczR2VGhzRzllZVpERXpUUjFlOWpjSWNOeVFHbGE?oc=5)
+
+---
+
+### [Obesi, ma non necessariamente malati: perché la bilancia non basta più a misurare la salute](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTUpHdGpMWmhoXzBDRTg3NTZMc2F0T21yN3locXlnR05RcHViN19GdUJGMEpwVUNreXhIN3Q5b0NmV05GTXhLWTJpRXREMGdxVUhCX1hXM3FoOFdzRDNMRVhaUDlXYlBCNkhoU3Q3cXBQa3lqQmlFZ09zemJFVmFLYkoxajFMV2RDLUFBQ0RfQ2hWa0NVWTFhTWhrei1EMmc3eXQ2N2FoblRLcDhxbGRwUjBCYkNJN1licnlEMHljN2ptc3pSekNidFN0S3NzOU5zbThDeFBQNA?oc=5)
+
+2026-11-12 <span class="news-indication-tag">obesità</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTUpHdGpMWmhoXzBDRTg3NTZMc2F0T21yN3locXlnR05RcHViN19GdUJGMEpwVUNreXhIN3Q5b0NmV05GTXhLWTJpRXREMGdxVUhCX1hXM3FoOFdzRDNMRVhaUDlXYlBCNkhoU3Q3cXBQa3lqQmlFZ09zemJFVmFLYkoxajFMV2RDLUFBQ0RfQ2hWa0NVWTFhTWhrei1EMmc3eXQ2N2FoblRLcDhxbGRwUjBCYkNJN1licnlEMHljN2ptc3pSekNidFN0S3NzOU5zbThDeFBQNA?oc=5)
+
+---
+
+### [Este no es otro artículo sobre obesidad y GLP-1](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUMxMVBsTXdaWWl0RVRRLUVtZVVfT3hRU3ZIc1lRUjE1RTNmUFdjdmJEVk55Y2IweTlDdG9RMEJHQ2F2Q014aG1UZzFyaGh4dTBrWWdMa0tZN3JtX3NfbFE4ZlNTUTNTRUFib1hCWDNVWXpQcGNKY3ZvZ051cVhFZ3UyUFJtT0ZHT2xNLUk0eDJVbUs4X05nTDBqWQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">obesidad</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUMxMVBsTXdaWWl0RVRRLUVtZVVfT3hRU3ZIc1lRUjE1RTNmUFdjdmJEVk55Y2IweTlDdG9RMEJHQ2F2Q014aG1UZzFyaGh4dTBrWWdMa0tZN3JtX3NfbFE4ZlNTUTNTRUFib1hCWDNVWXpQcGNKY3ZvZ051cVhFZ3UyUFJtT0ZHT2xNLUk0eDJVbUs4X05nTDBqWQ?oc=5)
+
+---
+
+### [Semaglutida oral 25 mg (Wegovy® tabletas) llega a México, primer país de América Latina en tener disponible esta alternativa terapéutica - EFE Comunica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU043NHpHVzVmaHkzbHc2LU9tcWJERl9vSWt6RkQ1MGVjQnRKOGdnOWJPOUIwejk2M1hXOEVWZ3kyZ3EwQnhvSTdUandFYUtSazRuei1CMGpEbW56TUNycU5lQTFyMWRMVFMyVEZrQzhFRFRKTE43NFhwS1NnVzdsOUNSMTVBWm1MOUVBVzdnelJLQ3ZUVHFTN0hRdkZiVzZiLWhXdWZ4UFVvdWxBM2pEMW5hT0hiRm9ydUxYQXFTY1BLM3BwMmQyeWs3Q2xmVk9OMFRVYjdjdGtDSS16VklEY0VnOHJNTmZqTDJmeUxMTFhDemc?oc=5)
+
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [EFE Comunica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU043NHpHVzVmaHkzbHc2LU9tcWJERl9vSWt6RkQ1MGVjQnRKOGdnOWJPOUIwejk2M1hXOEVWZ3kyZ3EwQnhvSTdUandFYUtSazRuei1CMGpEbW56TUNycU5lQTFyMWRMVFMyVEZrQzhFRFRKTE43NFhwS1NnVzdsOUNSMTVBWm1MOUVBVzdnelJLQ3ZUVHFTN0hRdkZiVzZiLWhXdWZ4UFVvdWxBM2pEMW5hT0hiRm9ydUxYQXFTY1BLM3BwMmQyeWs3Q2xmVk9OMFRVYjdjdGtDSS16VklEY0VnOHJNTmZqTDJmeUxMTFhDemc?oc=5)
 
 ---
 
@@ -173,7 +221,7 @@ Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSl
 
 ### [Los riesgos que afrontan los diabéticos al dejar los GLP-1](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUNfRHVmSDlvMl9oRUp1TGd5ZjZibUxiN0FhZXFKT3NXUzJ0MFp0ODY2SjhscnlrX3dWaEJFRjNtQ2RBa001MFVvNGxNLTZONWRTME9fVWc0T2RXeG1TVlMwOWJRNE9RZE9KSUM1dUp6VjJnaDJUekZiaHlzMWZqdjVXNTdQS0twOGFHR3FncWFTVGw3WWM2S1VPbDVTU3JkTjRDekVUdU10WGV3RUItakhvX0xUa0hjOVFZ?oc=5)
 
-2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUNfRHVmSDlvMl9oRUp1TGd5ZjZibUxiN0FhZXFKT3NXUzJ0MFp0ODY2SjhscnlrX3dWaEJFRjNtQ2RBa001MFVvNGxNLTZONWRTME9fVWc0T2RXeG1TVlMwOWJRNE9RZE9KSUM1dUp6VjJnaDJUekZiaHlzMWZqdjVXNTdQS0twOGFHR3FncWFTVGw3WWM2S1VPbDVTU3JkTjRDekVUdU10WGV3RUItakhvX0xUa0hjOVFZ?oc=5)
 
@@ -288,14 +336,6 @@ Source: [The Objective](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOVZ
 2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1ienhKNDlaT1VGTml4dmZ2Z05QaU5TbVNmRnNHaWZfY19HR19PTTA1TjI1MXREX3R2b0J2MXV6MlczSFV3QXVwb0JsNDEtV01LSlVLbFh4V2NMR0tHcGR1bWR3QVVaVF84cENQdXF1WTljZTN2MjVPMmVONjhGVVdDMVc?oc=5)
-
----
-
-### [I almost died after a toothache led to sepsis and a rare heart condition](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
-
-2026-11-09 <span class="news-indication-tag">stroke</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
 
 ---
 
@@ -472,6 +512,14 @@ Source: [La Razón](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmU2Ulh
 2026-11-07 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
+
+---
+
+### [Il freddo può far male a chi è iperteso. Il cardiologo spiega come proteggere il cuore - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGxzTXdZNkhSN1h1Y1FFZjNXVEVRc0ZJR0NSY2FCTnlDU3hwNEdOSjBycU5ubFI2Sllvb3ljdW5OMUZXLTZDMWczR21jSDBvWVFQcG1nSDc4TElTcjRwQzJORU9NNld1cGkweFlOSGpmT0hYMkFYakdraHJ3Q3lYTHZLNk9qLTFTQldaUy1yNENoUFhBRDlXSW5wbHR0anVteEJBUjY3OE1nSGo4TlBMNXk1TFZCaTdJZnRWd3dkZGcxc3FWVE5RSUxITC1MY0VKbkwtS1hxMmzSAcQBQVVfeXFMTVIyTWRFSGpIQjdVVDJwaGRpaXl4UXlQODB6a2x1WUtEdXc3SXZoYmRlN1B1a2h2OXJMWWtZb0M5N3ExYnFCU1NGakNoMWl1RWwwcVA4T1ZoT0V6aFFHT3paOGhEbVRyRm0zc2lXbjBTcVhqNG15M0VETUlFWkhEb0VHdFBrdGp0cjV2UXVKaHdWRUM3LXVBUmZ0dWpWckw4ZS1ZWDdnWlAyTl83bFJFcEVfbnZJcVlvN0xSdzMxWV9OMS12MA?oc=5)
+
+2026-11-07 <span class="news-indication-tag">ictus</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGxzTXdZNkhSN1h1Y1FFZjNXVEVRc0ZJR0NSY2FCTnlDU3hwNEdOSjBycU5ubFI2Sllvb3ljdW5OMUZXLTZDMWczR21jSDBvWVFQcG1nSDc4TElTcjRwQzJORU9NNld1cGkweFlOSGpmT0hYMkFYakdraHJ3Q3lYTHZLNk9qLTFTQldaUy1yNENoUFhBRDlXSW5wbHR0anVteEJBUjY3OE1nSGo4TlBMNXk1TFZCaTdJZnRWd3dkZGcxc3FWVE5RSUxITC1MY0VKbkwtS1hxMmzSAcQBQVVfeXFMTVIyTWRFSGpIQjdVVDJwaGRpaXl4UXlQODB6a2x1WUtEdXc3SXZoYmRlN1B1a2h2OXJMWWtZb0M5N3ExYnFCU1NGakNoMWl1RWwwcVA4T1ZoT0V6aFFHT3paOGhEbVRyRm0zc2lXbjBTcVhqNG15M0VETUlFWkhEb0VHdFBrdGp0cjV2UXVKaHdWRUM3LXVBUmZ0dWpWckw4ZS1ZWDdnWlAyTl83bFJFcEVfbnZJcVlvN0xSdzMxWV9OMS12MA?oc=5)
 
 ---
 

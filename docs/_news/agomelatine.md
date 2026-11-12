@@ -41,6 +41,14 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 
 ## Related News (32)
 
+### [Krötengift gegen Depressionen zeigt erstaunliche Wirkung](https://news.google.com/rss/articles/CBMixwFBVV95cUxNdzQyNHZ4Ul9JZkk3cVZ2WXBTdUtRSDJxdG1vTFd2YXgwalZtUkF4ekkxeWJ3di1RMU9sbURkbS1sc3ZYc1pDNUVnRE50c2dwa0FpQUNKS0ZVWEVRSGFMeEgwWXFEdFZtWWxhQUNkcEhrV3R3bXJHY0FYVVRrUFdyN2lkYnBfdDlRZFJDbDF4RF9BeUhRd2tpQlVFWUdZeW1IdGJiN19ZbXVlTDR0SzdMRlNiUWE3ZUU4NVl1RTFkVFZaM3VMLUww?oc=5)
+
+2026-11-12 <span class="news-indication-tag">depression</span>
+
+Source: [L'essentiel](https://news.google.com/rss/articles/CBMixwFBVV95cUxNdzQyNHZ4Ul9JZkk3cVZ2WXBTdUtRSDJxdG1vTFd2YXgwalZtUkF4ekkxeWJ3di1RMU9sbURkbS1sc3ZYc1pDNUVnRE50c2dwa0FpQUNKS0ZVWEVRSGFMeEgwWXFEdFZtWWxhQUNkcEhrV3R3bXJHY0FYVVRrUFdyN2lkYnBfdDlRZFJDbDF4RF9BeUhRd2tpQlVFWUdZeW1IdGJiN19ZbXVlTDR0SzdMRlNiUWE3ZUU4NVl1RTFkVFZaM3VMLUww?oc=5)
+
+---
+
 ### [Ces mots spécifiques sont les plus souvent utilisés par les personnes souffrant de dépression. C'est ce qu'on appelle le langage de la dépression](https://news.google.com/rss/articles/CBMie0FVX3lxTE9xWEhqWWhFZUdSWUVMc3A5dm1TOEFoOXZoaEFQZGRBcGtHUk4wcHRmZ2xQYWVjR2JDNzBUT3NKWGFqeG5nQk5SSkltN1ZlMFB0MllYcUdTZlpKY09DZ05QQXA5YjhjVlRUN0FtVFIySmM4cjVVektBMHZMdw?oc=5)
 
 2026-11-12 <span class="news-indication-tag">dépression</span>
@@ -78,14 +86,6 @@ Source: [WEB.DE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNHJPSlo2Zk
 2026-11-11 <span class="news-indication-tag">depression</span>
 
 Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0pWTW5rQ1h3X090U1Bld2xDQ1RvOHNSMW5TWjV1ODlOdk5fVHhpNmhRN0szUzNpNWZkZGJjcTV4NUNINTdVNlRJc2hBNGxVcXhiTTdHeHpuUEhwSzhFZTlLcFNDbENvVks3Z3hlaG5KQ2dkMmhnUm1rSVhrTGpPNElwSjBWTndiNEUzWXVaZ1hzeHlScXd2WUxjcnlLNXUtTkI0N1JXY2FYRTZodElhR0pDcFZ6Qlk?oc=5)
-
----
-
-### [Alzheimer's study finds symptom starts in ear 10 years before memory loss - Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
-
-2026-11-09 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">depression</span>
-
-Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
 
 ---
 
