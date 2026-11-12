@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 289
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Glucarpidase: predicted new indication Diabetic cataract (evidence level L5). Approved use: Reduction of toxic plasma methotrexate concentration in adults and ch…"
 monitor_inn: "Glucarpidase"
 predicted_indications: ["diabetic cataract", "diabetic retinopathy", "immature cataract", "craniostenosis cataract", "tetanic cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "senile cataract"]
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005467 | Voraxaze | glucarpidase | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -90,12 +94,31 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction has no clinical trials, no publications, and no plausible mechanism. Glucarpidase acts on methotrexate in plasma and has no known link to lens or retinal disease.
 
+<!-- review:begin eu-lic-20261031-glucarpidase-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Glucarpidase acts on methotrexate in plasma and has no known link to lens or retinal disease. Its only EU authorization is cancelled, and it is a systemic enzyme poorly suited to chronic ocular use." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-glucarpidase-1 -->
+
 **To proceed, the following is needed:**
 - A credible biological rationale linking glucarpidase activity to lens or retinal pathology
 - Preclinical data in a relevant diabetic cataract model
 - Mechanism of action data from DrugBank
 - Safety information from the SmPC (warnings and contraindications)
 - Assessment of route and formulation feasibility (systemic enzyme vs. ocular delivery) and immunogenicity
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Its only EU authorization is cancelled, and it is a systemic enzyme poorly suited to chronic ocular use" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

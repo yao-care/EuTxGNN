@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 522
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Rilpivirine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV-1 infection…"
 monitor_inn: "Rilpivirine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -78,6 +78,8 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002264 | Edurant | rilpivirine hydrochloride | Valid |
@@ -86,6 +88,8 @@ Currently no related clinical trials registered.
 | EMEA/H/C/004156 | Odefsey | emtricitabine; rilpivirine hydrochloride; tenofovir alafenamide | Valid |
 | EMEA/H/C/004427 | Juluca | dolutegravir sodium; rilpivirine hydrochloride | Valid |
 | EMEA/H/C/006491 | Emtricitabine / Rilpivirine / Tenofovir Alafenamide Viatris | emtricitabine; rilpivirine hydrochloride; tenofovir alafenamide fumarate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -101,12 +105,31 @@ Please refer to the SmPC for the official warnings and contraindications, which 
 **Rationale:**
 The prediction score is high, but the evidence is entirely preclinical (macaque studies), with no registered clinical trials. SIV infection is an animal disease model of the approved HIV-1 indication, not a distinct human indication. Official safety label data are missing.
 
+<!-- review:begin eu-lic-20261106-rilpivirine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both EU authorizations are cancelled, and official safety label data are missing." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 6 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-rilpivirine-1 -->
+
 **To proceed, the following is needed:**
 - Clear definition of the intended use: a research model of HIV or a veterinary application
 - Mechanism of action data (MOA)
 - EMA SmPC warnings and contraindications, and a review of the knowledge-graph contraindication signals
 - Clarification of the current EU authorization status
 - Review of the higher-ranked and more clinically relevant predictions, such as congenital HIV (pregnancy use) and HIV/HCV co-infection, which have more human evidence
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both EU authorizations are cancelled, and o" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

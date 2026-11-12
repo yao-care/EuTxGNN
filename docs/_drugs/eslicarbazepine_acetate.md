@@ -73,10 +73,14 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000988 | Zebinix | eslicarbazepine acetate | Valid |
 | EMEA/H/C/000987 | Exalief | eslicarbazepine acetate | Lapsed |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 191
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Diflunisal: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Hereditary transthyretin-mediated amyloidosis (ATTRv) in adults with…"
 monitor_inn: "Diflunisal"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "ankylosing spondylitis", "brachyolmia", "hypermobility of coccyx", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "inflammatory spondylopathy"]
@@ -94,9 +94,13 @@ The evidence is old (1979-1989), small, and largely indirect. Only PMIDs 3524970
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/006248 | Attrogy | diflunisal | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -120,12 +124,38 @@ Please refer to the SmPC for label-based warnings and contraindications.
 **Rationale:**
 The top-ranked prediction (acromesomelic dysplasia, Hunter-Thompson type) has no trials, no literature and no plausible mechanism, so it appears to be a TxGNN model (deep learning) artefact. The only directions with some biological coherence (ankylosing spondylitis, inflammatory spondylopathy) rest on small, old studies and amount to a class effect of an already-known NSAID rather than new repurposing.
 
+<!-- review:begin eu-lic-20261031-diflunisal-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only directions with some biological coherence (ankylosing spondylitis, inflammatory spondylopathy) rest on small, old studies and amount to a class effect of an already-known NSAID rather than new repurposing. In addition, the only EU authorisation has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-diflunisal-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for diflunisal
 - Label-based warnings and contraindications from the EMA product information (currently missing, which blocks safety screening)
 - If pursuing ankylosing spondylitis, a critical review of the 1986 diflunisal vs phenylbutazone trial and a comparison with current standard-of-care NSAIDs and biologics
 - Clarification of the current availability of diflunisal in the EU
 - Route and dosage form compatibility assessment for any proposed indication
+
+<!-- review:begin eu-lic-20261106-diflunisal-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the reasons for the cancelled Attrogy authorisation and of the current availability of diflunisal in the EU" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-diflunisal-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "In addition, the only EU authorisation has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "of the reasons for the cancelled Attrogy authorisation and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

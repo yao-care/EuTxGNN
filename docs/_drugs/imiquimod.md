@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Imiquimod: predicted new indication Pre-malignant neoplasm (evidence level L5). Approved use: External genital and perianal warts (condylomata acuminata)…"
 monitor_inn: "Imiquimod"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
@@ -86,11 +86,15 @@ The supporting trials are small, and one was terminated early. Confirmatory evid
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000179 | Aldara | imiquimod | Valid |
 | EMEA/H/C/002387 | Zyclara | imiquimod | Valid |
 | EMEA/H/C/000180 | Zartra | imiquimod | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -107,12 +111,38 @@ Please refer to the SmPC for the full label warnings and contraindications.
 **Rationale:**
 The TxGNN score is very high and the mechanism is plausible. Pre-malignant lesions, such as actinic keratosis, are already within the approved use. However, the direct trial evidence is thin: one small open-label Phase 3 study that is largely an approved-indication trial, and one randomized trial terminated at 9 patients.
 
+<!-- review:begin eu-lic-20261106-imiquimod-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, the direct trial evidence is thin: one small open-label Phase 3 study that is largely an approved-indication trial, and one randomized trial terminated at 9 patients. Both EU authorizations are cancelled, so any development would need a new regulatory pathway." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-imiquimod-1 -->
+
 **To proceed, the following is needed:**
 - Adequately powered randomized trials in a defined off-label pre-malignant setting (for example, high-grade cervical, vulvar or anal intraepithelial neoplasia)
 - Mechanism-of-action data from DrugBank to complete the mechanistic analysis
 - EMA label warnings and contraindications, which are required for safety screening
 - Review of the knowledge-graph contraindication flags (photosensitivity, autoimmune disease, graft versus host disease)
 - Clarification of the regulatory route
+
+<!-- review:begin eu-lic-20261106-imiquimod-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory route, given the cancelled EU status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-imiquimod-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both EU authorizations are cancelled, so any development would need a new regulatory pathway" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "given the cancelled EU status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

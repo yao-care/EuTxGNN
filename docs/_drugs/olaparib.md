@@ -72,9 +72,13 @@ All candidates that the TxGNN model produced for Olaparib (score ≥ 0.99) and t
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003726 | Lynparza | olaparib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

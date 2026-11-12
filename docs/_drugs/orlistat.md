@@ -80,10 +80,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000154 | Xenical | orlistat | Valid |
 | EMEA/H/C/000854 | Alli | orlistat | Valid |
+
+<!-- licenses:end -->
 
 ---
 

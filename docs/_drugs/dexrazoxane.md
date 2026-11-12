@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 189
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dexrazoxane: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Treatment of anthracycline extravasation"
 monitor_inn: "Dexrazoxane"
 predicted_indications: ["sclerosing cholangitis", "bronchitis", "paratyphoid fever", "conjunctivitis", "epiglottitis", "peritonitis", "laryngitis", "urinary tract infection (disease)", "pyelonephritis", "cystitis"]
@@ -71,9 +71,13 @@ Currently no related literature available for sclerosing cholangitis.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000682 | Savene | dexrazoxane hydrochloride | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -95,12 +99,31 @@ Please refer to the SmPC for label warnings and contraindications.
 **Rationale:**
 The prediction for sclerosing cholangitis rests on the model score alone, with no clinical trials or literature (Evidence Level L5). The mechanistic link is speculative.
 
+<!-- review:begin eu-lic-20261106-dexrazoxane-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The sole EU authorization has been cancelled, and the mechanistic link is speculative." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-dexrazoxane-1 -->
+
 **To proceed, the following is needed:**
 - Detailed mechanism of action data for dexrazoxane
 - Preclinical evidence (for example, iron or oxidative injury models in biliary disease) supporting a role in sclerosing cholangitis
 - Review of the SmPC warnings and contraindications to complete the safety screening
 - Assessment of route compatibility and renal-function considerations for any new use
 - If a research direction is pursued, cystitis (ferroptosis-related mechanisms) may merit a separate exploratory look, but it currently has only indirect preclinical support
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he sole EU authorization has been cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

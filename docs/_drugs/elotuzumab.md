@@ -72,9 +72,13 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Elotuzumab, 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003967 | Empliciti | Elotuzumab | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

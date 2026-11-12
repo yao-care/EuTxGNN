@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 193
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Diroximel Fumarate: predicted new indication Diabetic cataract (evidence level L5). Approved use: Treatment of adult patients with relapsing remitting multiple scleros…"
 monitor_inn: "Diroximel fumarate"
 predicted_indications: ["diabetic cataract", "diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "immature cataract", "nuclear senile cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "cortical cataract", "mature cataract"]
@@ -71,9 +71,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005437 | Vumerity | Diroximel fumarate (BIIB098) | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -91,12 +95,38 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction rests only on a model score, with no clinical trials or publications behind it (Evidence Level L5).
 
+<!-- review:begin eu-lic-20261031-diroximel_fumarate-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests only on a model score, with no clinical trials or publications behind it (Evidence Level L5). The mechanistic link is unverified, and the product's only EU authorization has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-diroximel_fumarate-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for diroximel fumarate and MMF, to test the NRF2/oxidative stress hypothesis
 - Preclinical studies in diabetic lens or retinal models
 - Safety information from the SmPC (warnings and contraindications)
 - Assessment of route and formulation suitability for an eye condition
 - Clarification of the current regulatory pathway
+
+<!-- review:begin eu-lic-20261106-diroximel_fumarate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the reasons for the cancelled EU authorization and the current regulatory pathway" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-diroximel_fumarate-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The mechanistic link is unverified, and the product's only EU authorization has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "the reasons for the cancelled EU authorization and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

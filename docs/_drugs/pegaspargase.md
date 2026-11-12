@@ -101,9 +101,13 @@ Related literature in NK/T-cell lymphoma, which is the Hodgkin lymphoma entry's 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003789 | Oncaspar | pegaspargase | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

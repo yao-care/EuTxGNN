@@ -82,9 +82,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005398 | Vazkepa | Icosapent ethyl | Valid |
+
+<!-- licenses:end -->
 
 ---
 

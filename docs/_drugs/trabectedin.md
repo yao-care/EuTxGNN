@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 632
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Trabectedin: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Advanced soft-tissue sarcoma after failure of anthracyclines and ifos…"
 monitor_inn: "Trabectedin"
 predicted_indications: ["female breast carcinoma"]
@@ -85,10 +85,14 @@ The link remains plausible rather than proven. Clinical activity in breast cance
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000773 | Yondelis | trabectedin | Valid |
 | EMEA/H/C/006433 | Trabectedin Accord | trabectedin | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -114,12 +118,38 @@ Label warnings and contraindications were not available. Please refer to the SmP
 **Rationale:**
 The biological rationale is credible (DNA-repair interference, BRCA-deficiency sensitivity), and Phase 2 data exist in advanced breast cancer, so the evidence level is L2. However, the only registered trial is a safety study, there is no completed Phase 3 evidence. Label safety data are also missing, so the safety review cannot yet proceed.
 
+<!-- review:begin eu-lic-20261106-trabectedin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, the only registered trial is a safety study, there is no completed Phase 3 evidence, and both EU authorizations are cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-trabectedin-2 -->
+
 **To proceed, the following is needed:**
 - Review of the Phase 2 results (PMIDs 25239225, 24692579, 27266804) to judge response rates and benefit in breast cancer, especially in BRCA-mutated and XPG-stratified subgroups
 - SmPC warnings and contraindications from the EMA product information, which are currently missing
 - Detailed mechanism-of-action data from DrugBank
 - A defined target population (for example BRCA-mutated or triple-negative breast cancer) and a plan for a controlled efficacy trial
 - A safety monitoring plan covering myelosuppression, liver toxicity, and interactions with CYP3A4 modulators
+
+<!-- review:begin eu-lic-20261106-trabectedin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Detailed mechanism-of-action data from DrugBank / Clarification of the cancelled EU status, including whether any product remains available" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-trabectedin-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Clarification of the cancelled EU status, including whether any product remains available" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "and both EU authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

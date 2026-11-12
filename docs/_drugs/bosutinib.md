@@ -72,9 +72,13 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002373 | Bosulif | bosutinib (as monohydrate) | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

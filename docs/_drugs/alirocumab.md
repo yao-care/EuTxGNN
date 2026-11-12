@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 37
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Alirocumab: predicted new indication Ichthyosis, X-linked, without steroid sulfatase deficiency (evidence level L5). Approved use: Primary hypercholesterolaemia and mixed dyslipidaemia"
 monitor_inn: "Alirocumab"
 predicted_indications: ["ichthyosis, X-linked, without steroid sulfatase deficiency", "disorder of other vitamins and cofactors metabolism and transport", "xanthomatosis (disease)", "46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect", "cholesterol catabolic process disease", "46,XY disorder of sex development due to a cholesterol synthesis defect", "dappled diaphyseal dysplasia", "neutral lipid storage disease", "3-hydroxyacyl-CoA dehydrogenase deficiency", "spastic paraplegia-optic atrophy-neuropathy and spastic paraplegia-optic atrophy-neuropathy-related disorder"]
@@ -75,9 +75,13 @@ Currently no related literature available for the predicted indication.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003882 | Praluent | alirocumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -92,12 +96,31 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction has no clinical trials or publications behind it (L5), and the biology of X-linked ichthyosis, a disorder of steroid sulfatase and cholesterol sulfate handling in the skin, is not linked to PCSK9 inhibition.
 
+<!-- review:begin eu-lic-20261031-alirocumab-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction has no clinical trials or publications behind it (L5), and the biology of X-linked ichthyosis, a disorder of steroid sulfatase and cholesterol sulfate handling in the skin, is not linked to PCSK9 inhibition. In addition, the only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-alirocumab-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for alirocumab
 - Warnings and contraindications from the product information
 - Preclinical or mechanistic evidence connecting PCSK9 inhibition to skin cholesterol sulfate biology
 - Confirmation of the current EU regulatory status
 - If the team wants to pursue lipid-related repurposing instead, xanthomatosis and cholesterol gallstones are the two candidates with some supporting evidence (both L4). They would need controlled clinical evidence before any decision to advance.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "In addition, the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

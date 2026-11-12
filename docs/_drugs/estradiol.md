@@ -72,11 +72,15 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidate indications fo
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001213 | Zoely | nomegestrol acetate; estradiol | Valid |
 | EMEA/H/C/005267 | Ryeqo | relugolix; norethisterone acetate; estradiol hemihydrate | Valid |
 | EMEA/H/C/002068 | Ioa | nomegestrol acetate; estradiol | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

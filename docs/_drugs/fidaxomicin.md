@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 260
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fidaxomicin: predicted new indication Staphylococcal scalded skin syndrome (evidence level L5). Approved use: Treatment of Clostridioides difficile infections (CDI…"
 monitor_inn: "Fidaxomicin"
 predicted_indications: ["staphylococcal scalded skin syndrome", "bullous impetigo", "inhalational botulism", "impetigo", "toxin-mediated infectious botulism", "vulvovaginal candidiasis", "hordeolum", "staphylococcus aureus pneumonia", "punctate epithelial keratoconjunctivitis"]
@@ -72,9 +72,13 @@ Currently no literature directly related to the predicted indication (staphyloco
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002087 | Dificlir | fidaxomicin | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -92,12 +96,31 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction rests on the model score alone, with no clinical trials or relevant publications.
 
+<!-- review:begin eu-lic-20261031-fidaxomicin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests on the model score alone, with no clinical trials or relevant publications. Oral fidaxomicin has minimal systemic absorption, so it is unlikely to reach skin tissue, and the only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-fidaxomicin-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data to support the mechanistic-link analysis
 - Warnings and contraindications from the EU product information, so safety screening can proceed
 - Preclinical data on fidaxomicin activity against toxin-producing *S. aureus* strains
 - Feasibility assessment of a topical or systemic formulation that could reach skin tissue
 - Comparison with established treatments for SSSS and related staphylococcal skin infections
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Oral fidaxomicin has minimal systemic absorption, so it is unlikely to reach skin tissue, and the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

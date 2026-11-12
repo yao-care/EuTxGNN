@@ -82,10 +82,14 @@ The two trials linked to this prediction do not directly show efficacy in bronch
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000606 | Xolair | omalizumab | Valid |
 | EMEA/H/C/005958 | Omlyclo | omalizumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

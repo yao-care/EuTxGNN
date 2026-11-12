@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 679
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "voxilaprevir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "chronic hepatitis B virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Voxilaprevir: predicted new indication Hepatitis B virus infection (evidence level L4). Approved use: Vosevi is indicated for the treatment of chronic hepatitis C virus (H…"
@@ -93,9 +93,13 @@ None of these publications evaluates voxilaprevir against HBV. They describe HCV
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004350 | Vosevi | sofosbuvir; velpatasvir; voxilaprevi | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -120,11 +124,30 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction score is high, but there is no plausible mechanism (HBV lacks an NS3/4A protease target), no clinical trials and no literature showing anti-HBV activity. The evidence is indirect only.
 
+<!-- review:begin eu-lic-20261106-voxilaprevir-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The prediction score is high, but there is no plausible mechanism (HBV lacks an NS3/4A protease target), no clinical trials and no literature showing anti-HBV activity. The evidence is indirect only. The EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-voxilaprevir-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for voxilaprevir
 - In vitro evidence of anti-HBV activity, for example in HBV replication cell models, to establish any biological basis
 - SmPC safety information (warnings and contraindications), especially on HBV reactivation
 - A review of whether the other predicted indications (e.g., the HIV/HCV co-infection evidence) offer a more tractable path, since those results concern HCV treatment, not new activity
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

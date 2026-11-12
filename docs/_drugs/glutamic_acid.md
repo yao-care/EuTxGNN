@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 290
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Glutamic Acid: predicted new indication Postmenopausal osteoporosis (evidence level L4). Approved use: Treatment of maple syrup urine disease (MSUD) presenting with an acut…"
 monitor_inn: "glutamic acid"
 predicted_indications: ["postmenopausal osteoporosis", "pregnancy associated osteoporosis", "primary hereditary glaucoma", "gastroparesis (disease)"]
@@ -91,9 +91,13 @@ Only publications that involve glutamic acid or a direct derivative are listed a
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005557 | Maapliv | glycine,L-alanine,L-arginine,L-aspartic acid,L-cysteine hydrochloride monohydra… | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -123,12 +127,31 @@ Several of these signals, especially kidney disease, nephrolithiasis and calcium
 **Rationale:**
 The prediction rests on a computational score alone. There are no registered clinical trials, the only supportive literature is one animal study and one acute calcium-absorption study of a polymer derivative, and no mechanism links the original MSUD indication to bone metabolism.
 
+<!-- review:begin eu-lic-20261031-glutamic_acid-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no registered clinical trials, the only supportive literature is one animal study and one acute calcium-absorption study of a polymer derivative, and no mechanism links the original MSUD indication to bone metabolism. The only EU authorisation is cancelled, and the knowledge-graph contraindication signals (renal, calcium and cardiovascular disorders) need careful review." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-glutamic_acid-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a plausible pathway linking glutamic acid to bone remodelling
 - Label-based warnings and contraindications from the SmPC
 - Preclinical studies of glutamic acid itself with bone endpoints (bone mineral density, turnover markers)
 - Safety evaluation covering renal function, calcium handling and cardiovascular risk in postmenopausal women
 - Assessment of formulation and route, since the original product was an intravenous acute-care formulation
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorisation is cancelled, and the knowledge-graph contraindication signals (renal, calcium and cardiovascular disorders) need " | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

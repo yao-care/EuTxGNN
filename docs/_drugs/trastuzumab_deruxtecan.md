@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 636
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Trastuzumab deruxtecan"
 predicted_indications: ["drug-induced osteoporosis"]
 description: "Trastuzumab Deruxtecan: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Breast cancerHER2-positive breast cancerEnhertu as monotherapy is ind…"
@@ -81,9 +81,13 @@ Currently no related literature available for drug-induced osteoporosis.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005124 | Enhertu | trastuzumab deruxtecan | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -115,11 +119,37 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Rationale:**
 The prediction rests only on a model score. There are no clinical trials or publications, and no plausible mechanism links a HER2-directed cytotoxic ADC to drug-induced osteoporosis. The safety profile is substantial.
 
+<!-- review:begin eu-lic-20261106-trastuzumab_deruxtecan-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The EU license is also cancelled, and the safety profile is substantial." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-trastuzumab_deruxtecan-1 -->
+
 **To proceed, the following is needed:**
 - A mechanistic rationale and preclinical evidence linking the drug to bone metabolism
 - Detailed mechanism of action data
 - Label warnings and contraindications (SmPC) for a formal safety screen
 - A benefit-risk assessment against existing osteoporosis therapies
+
+<!-- review:begin eu-lic-20261106-trastuzumab_deruxtecan-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Label warnings and contraindications (SmPC) for a formal safety screen / Clarification of the cancelled EU license status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-trastuzumab_deruxtecan-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he EU license is also cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Clarification of the cancelled EU license status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 638
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Travoprost: predicted new indication Visceral calciphylaxis (evidence level L5). Approved use: Decrease of elevated intraocular pressure in adult patients with ocul…"
 monitor_inn: "Travoprost"
 predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
@@ -101,11 +101,15 @@ None of these tests travoprost for a non-ocular vascular condition.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000390 | Travatan | travoprost | Valid |
 | EMEA/H/C/002738 | Izba | travoprost | Valid |
 | EMEA/H/C/000665 | DuoTrav | travoprost; timolol | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -123,12 +127,31 @@ Please refer to the SmPC for full warnings and contraindications.
 **Rationale:**
 The prediction for visceral calciphylaxis is supported only by the model score (L5), with no trials or publications, no documented mechanistic link, and minimal systemic exposure from the eye-drop formulation. The ophthalmic evidence found supports only the original glaucoma indication.
 
+<!-- review:begin eu-lic-20261106-travoprost-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The ophthalmic evidence found supports only the original glaucoma indication. In addition, both EU authorizations are cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-travoprost-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, and a mechanistic rationale connecting FP receptor agonism to calcification or vascular pathways
 - Preclinical studies (for example, in models of vascular calcification) testing relevance
 - Evaluation of route and formulation, since a topical ophthalmic product is unlikely to reach the target tissues
 - Safety information from the SmPC, which is currently missing
 - A review of whether any other lower-ranked prediction has a more plausible mechanism
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "In addition, both EU authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

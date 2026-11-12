@@ -83,6 +83,8 @@ All publications are preclinical. Several test combination products (for example
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004169 | Vemlidy | tenofovir alafenamide fumarate | Valid |
@@ -93,6 +95,8 @@ All publications are preclinical. Several test combination products (for example
 | EMEA/H/C/004449 | Biktarvy | bictegravir; emtricitabine; tenofovir alafenamide; fumarate | Valid |
 | EMEA/H/C/006469 | Emtricitabine / Tenofovir alafenamide Viatris | emtricitabine; tenofovir alafenamide fumarate | Valid |
 | EMEA/H/C/006491 | Emtricitabine / Rilpivirine / Tenofovir Alafenamide Viatris | emtricitabine; rilpivirine hydrochloride; tenofovir alafenamide fumarate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

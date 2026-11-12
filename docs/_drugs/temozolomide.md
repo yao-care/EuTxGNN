@@ -75,6 +75,8 @@ The evidence level is L5 because no cited clinical trial or publication provides
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000229 | Temodal | temozolomide | Valid |
@@ -84,6 +86,8 @@ The evidence level is L5 because no cited clinical trial or publication provides
 | EMEA/H/C/002198 | Temozolomide Sun | temozolomide | Valid |
 | EMEA/H/C/001127 | Temozolomide Hexal | temozolomide | Withdrawn |
 | EMEA/H/C/001128 | Temozolomide Sandoz | temozolomide | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

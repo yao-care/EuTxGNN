@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 623
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tobramycin: predicted new indication Exposure keratitis (evidence level L4). Approved use: Suppressive therapy of chronic pulmonary infection due to Pseudomonas…"
 monitor_inn: "Tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
@@ -80,11 +80,15 @@ Currently no related clinical trials registered for exposure keratitis.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002155 | Tobi Podhaler | tobramycin | Valid |
 | EMEA/H/C/005086 | Vantobra | tobramycin | Valid |
 | EMEA/H/C/002633 | Vantobra | tobramycin | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -100,11 +104,37 @@ Please refer to the SmPC for the label warnings and contraindications.
 **Rationale:**
 The prediction score is very high, but it comes from the TxGNN model (deep learning) alone and may reflect similarities the model learned between related diseases, not biological evidence. No trials exist for exposure keratitis, and the literature is indirect (case reports, susceptibility studies) and includes a corneal epithelial toxicity signal.
 
+<!-- review:begin eu-lic-20261106-tobramycin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "No trials exist for exposure keratitis, and the literature is indirect (case reports, susceptibility studies) and includes a corneal epithelial toxicity signal. Both EU authorizations for tobramycin are valid (2 valid licences of 2), and they cover inhaled products for cystic fibrosis rather than ocular use." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tobramycin-1 -->
+
 **To proceed, the following is needed:**
 - Controlled or at least well-designed observational studies of topical tobramycin in exposure keratitis, with attention to corneal epithelial toxicity
 - Mechanism of action data (MOA) for the mechanistic-link analysis
 - Warnings and contraindications from the SmPC, since this safety data is missing and blocks safety screening
 - Clarification of the route of administration and available ophthalmic formulations in the EU, because the authorizations are inhalation products
+
+<!-- review:begin eu-lic-20261106-tobramycin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the route of administration and available ophthalmic formulations in the EU, because the cancelled authorizations are inhalation products" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tobramycin-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both EU authorizations for tobramycin are valid (2 valid licences of 2), and they cover inhaled products for cystic fibrosis rather than ocu" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

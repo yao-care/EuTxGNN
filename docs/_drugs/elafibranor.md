@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 213
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Elafibranor: predicted new indication amenorrhea (evidence level L5). Approved use: Primary biliary cholangitis (PBC)…"
 monitor_inn: "Elafibranor"
 predicted_indications: ["amenorrhea (disease)"]
@@ -69,15 +69,25 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/006231 | Iqirvo | Elafibranor | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
 
 Pharmacology records list the drug's targets as PPARα (PPARA) and PPARβ/δ (PPARD). No specific drug-drug interactions were identified in the data compiled for this report.
+
+<!-- review:begin eu-lic-20261106-elafibranor-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "No specific drug-drug interactions were identified in the data compiled for this report. Because the EU authorization is recorded as cancelled, current label information should be verified directly." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-elafibranor-1 -->
 
 ## Conclusion and Next Steps
 
@@ -86,12 +96,32 @@ Pharmacology records list the drug's targets as PPARα (PPARA) and PPARβ/δ (PP
 **Rationale:**
 The prediction rests solely on a model score. There are no trials, no literature and no plausible mechanistic link to amenorrhea.
 
+<!-- review:begin eu-lic-20261106-elafibranor-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no trials, no literature and no plausible mechanistic link to amenorrhea. In addition, the EU authorization for the original indication is recorded as cancelled, which needs clarifying." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-elafibranor-2 -->
+
 **To proceed, the following is needed:**
 - A literature and trial search for PPAR agonists in amenorrhea or related reproductive endocrine conditions
 - A hypothesis on mechanism, such as effects on hormonal or metabolic pathways, supported by preclinical data
 - Confirmation of the current EU authorization status, and the full SmPC warnings and contraindications
 - Mechanism-of-action data from DrugBank
 - A reproductive safety assessment, since the indication concerns reproductive-age women
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Because the EU authorization is recorded as cancelled, current label information should be verified directly" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "In addition, the EU authorization for the original indication is recorded as cancelled, which needs clarifying" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

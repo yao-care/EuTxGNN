@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 467
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Parecoxib: predicted new indication Migraine disorder (evidence level L3). Approved use: Short-term treatment of postoperative pain in adults"
 monitor_inn: "Parecoxib"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension"]
@@ -86,11 +86,15 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000381 | Dynastat | parecoxib sodium | Valid |
 | EMEA/H/C/000380 | Xapit | parecoxib | Withdrawn |
 | EMEA/H/C/000382 | Rayzon | parecoxib | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 
@@ -109,11 +113,30 @@ Please refer to the SmPC for full warnings, contraindications and drug interacti
 **Rationale:**
 The prediction score is high and a plausible trigeminovascular mechanism exists. However, the clinical evidence is a single pilot comparison of unconfirmed design, there are no registered trials. The class carries known cardiovascular and skin safety concerns, which matter for a recurrent condition such as migraine.
 
+<!-- review:begin eu-lic-20261106-parecoxib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, the clinical evidence is a single pilot comparison of unconfirmed design, there are no registered trials, and the EU authorisation is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-parecoxib-1 -->
+
 **To proceed, the following is needed:**
 - Full review of the 2011 pilot study (design, sample size, endpoints, outcomes)
 - Mechanism-of-action data and the SmPC safety sections (warnings, contraindications)
 - Assessment of an injectable perioperative agent against established oral and non-injectable migraine therapies, and confirmation of whether the product remains available
 - A registered, controlled trial in acute migraine, with a cardiovascular risk-benefit assessment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

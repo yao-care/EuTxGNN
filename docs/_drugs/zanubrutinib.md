@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 681
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Zanubrutinib: predicted new indication Myeloid leukemia (evidence level L5). Approved use: Waldenström's macroglobulinaemia (WM) after at least one prior therap…"
 monitor_inn: "Zanubrutinib"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
@@ -96,9 +96,13 @@ None of these publications studies zanubrutinib in myeloid leukemia. They are th
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004978 | Brukinsa | zanubrutinib | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -132,12 +136,38 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The TxGNN score is very high, but no zanubrutinib clinical data in myeloid leukemia exist. The only linked trial studies a different agent, and all literature concerns B-cell malignancies.
 
+<!-- review:begin eu-lic-20261106-zanubrutinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The only linked trial studies a different agent, and all literature concerns B-cell malignancies. The compiled data also show the EU authorization as cancelled, which should be verified." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-zanubrutinib-1 -->
+
 For comparison, a different prediction in the same output, familial non-Hodgkin lymphoma, has far stronger support, including Phase 2 and Phase 3 trials and RCT-level literature. It was rated "Proceed with Guardrails" and may deserve its own evaluation. The B-cell lymphoma subtypes it covers are largely already labeled indications.
 
 **To proceed, the following is needed:**
 - Preclinical or clinical data on zanubrutinib or BTK inhibition in specific myeloid leukemia subtypes
 - Detailed mechanism of action data (MOA)
 - Warnings and contraindications from the SmPC
+
+<!-- review:begin eu-lic-20261106-zanubrutinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Warnings and contraindications from the SmPC / Verification of the current EU marketing authorization status, since the data show it as cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-zanubrutinib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The compiled data also show the EU authorization as cancelled, which should be verified" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Verification of the current EU marketing authorization status, since the data show it as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 310
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Idelalisib: predicted new indication Mantle cell lymphoma (evidence level L2). Approved use: CLL (in combination with rituximab or ofatumumab) and refractory foll…"
 monitor_inn: "Idelalisib"
 predicted_indications: ["mantle cell lymphoma", "Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "small intestinal Burkitt lymphoma", "colon adenocarcinoma"]
@@ -41,6 +41,12 @@ Evidence Level: **L2** | Predicted Indications: **6**
 Idelalisib (Zydelig) is an oral PI3Kδ inhibitor, originally authorised in the EU for chronic lymphocytic leukaemia (CLL) and refractory follicular lymphoma (FL).
 The TxGNN model predicts it may be effective for **mantle cell lymphoma (MCL)**, with **5 clinical trials** (all early-phase or terminated) and **20 publications** (mostly reviews and preclinical work) supporting this direction.
 Serious toxicities limit any further development.
+
+<!-- review:begin eu-lic-20261106-idelalisib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The EU authorisation is now cancelled, and serious toxicities limit any further development." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-idelalisib-1 -->
 
 ---
 
@@ -103,9 +109,13 @@ No randomized controlled trials were identified for MCL.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003843 | Zydelig | Idelalisib | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -137,11 +147,31 @@ Label-based warnings and contraindications were not available in the data compil
 **Rationale:**
 The mechanistic link in MCL is plausible and early-phase combination studies exist, but there are no completed late-phase trials in MCL, and the preclinical data point to intrinsic resistance when idelalisib is used alone. The drug carries serious toxicity, and newer agents are available for B-cell malignancies.
 
+<!-- review:begin eu-lic-20261106-idelalisib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug carries serious toxicity, its EU authorisation is cancelled, and newer agents are available for B-cell malignancies." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-idelalisib-2 -->
+
 **To proceed, the following is needed:**
 - Full results from the MCL studies (especially NCT01838434 and NCT01088048) to establish efficacy and safety in MCL
 - Detailed mechanism of action data and SmPC warnings and contraindications
 - A risk-benefit comparison against current MCL options, and a monitoring plan for colitis, hepatotoxicity, pneumonitis and infection
 - A review of the other predicted indications: B-cell neoplasm (rank 3) largely overlaps with the existing CLL/FL indications and is not a new repurposing signal; the remaining predictions (Hodgkin lymphoma, myeloid leukaemia, CML, colon adenocarcinoma and others) rest on weak or preclinical evidence only
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorisation is now cancelled, and s" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "its EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

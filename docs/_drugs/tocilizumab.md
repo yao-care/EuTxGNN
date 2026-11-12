@@ -80,6 +80,8 @@ In practice this link has not held up. Two Phase 3 placebo-controlled trials in 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000955 | RoActemra | tocilizumab | Valid |
@@ -87,6 +89,8 @@ In practice this link has not held up. Two Phase 3 placebo-controlled trials in 
 | EMEA/H/C/005984 | Tosmova | tocilizumab | Valid |
 | EMEA/H/C/006196 | Avtozma | tocilizumab | Valid |
 | EMEA/H/C/006416 | Tuyory |  | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

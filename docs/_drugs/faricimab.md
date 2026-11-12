@@ -74,9 +74,13 @@ The TxGNN deep-learning model produced no candidate with a score of 0.99 or high
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005642 | Vabysmo | Faricimab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

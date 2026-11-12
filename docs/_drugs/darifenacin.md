@@ -72,9 +72,13 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Darifenac
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000554 | Emselex | darifenacin hydrobromide | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

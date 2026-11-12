@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 363
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Letermovir: predicted new indication Vulvovaginal candidiasis (evidence level L5). Approved use: Prophylaxis of CMV reactivation and disease in CMV-seropositive allog…"
 monitor_inn: "Letermovir"
 predicted_indications: ["vulvovaginal candidiasis"]
@@ -82,9 +82,13 @@ Currently no related literature available for vulvovaginal candidiasis.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004536 | Prevymis | Letermovir | Valid |
+
+<!-- licenses:end -->
 
 This authorization is recorded as valid: the drug is marketed in this country, with 1 valid licence out of 1.
 
@@ -111,6 +115,24 @@ No trials or literature support letermovir for vulvovaginal candidiasis. The dru
 - A credible mechanistic hypothesis for antifungal activity, with in vitro data against *Candida* species
 - Mechanism of action data from DrugBank
 - Safety information (warnings and contraindications) from the EMA product information
+
+<!-- review:begin eu-lic-20261106-letermovir-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Safety information (warnings and contraindications) from the EMA product information / Clarification of the cancelled EU authorization status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-letermovir-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Clarification of the cancelled EU authorization status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

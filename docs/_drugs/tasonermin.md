@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 589
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tasonermin: predicted new indication Prostatic urethra urothelial carcinoma (evidence level L5). Approved use: Adjunct to surgery to prevent or delay amputation…"
 monitor_inn: "Tasonermin"
 predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "HER2 positive breast carcinoma", "uterine ligament adenocarcinoma", "endocervical carcinoma", "uterine ligament serous adenocarcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament clear cell adenocarcinoma"]
@@ -74,9 +74,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000206 | Beromun | tasonermin | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -99,11 +103,37 @@ Please refer to the SmPC for safety information. Systemic TNF-alpha exposure is 
 **Rationale:**
 The prediction has no clinical or preclinical support (L5).
 
+<!-- review:begin eu-lic-20261031-tasonermin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction has no clinical or preclinical support (L5). The approved regional-perfusion delivery cannot be applied to a urethral tumour, systemic TNF-alpha toxicity is a concern, and the only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-tasonermin-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data linking tasonermin to urothelial carcinoma
 - Preclinical evidence of efficacy in urothelial carcinoma models
 - A feasible regional delivery route and a toxicity assessment for the target site
 - Safety information from the SmPC (warnings and contraindications)
+
+<!-- review:begin eu-lic-20261106-tasonermin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Safety information from the SmPC (warnings and contraindications) / A review of the regulatory status of the cancelled authorization" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tasonermin-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The approved regional-perfusion delivery cannot be applied to a urethral tumour, systemic TNF-alpha toxicity is a concern, and the only EU a" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "A review of the regulatory status of the cancelled authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

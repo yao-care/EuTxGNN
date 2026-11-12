@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 483
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Pertuzumab"
 predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
 description: "Pertuzumab: predicted new indication Ectomesenchymoma (evidence level L5). Approved use: Metastatic Breast Cancer: Perjeta is indicated for use in combination…"
@@ -82,11 +82,15 @@ HER2-positive tumors that also express PR (HR+/HER2+) are covered by this mechan
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002547 | Perjeta | pertuzumab | Valid |
 | EMEA/H/C/006583 | Poherdy | pertuzumab | Valid |
 | EMEA/H/C/005386 | Phesgo | pertuzumab; trastuzumab | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -117,6 +121,25 @@ A completed Phase 3 trial and multiple randomized studies, including NeoSphere, 
 - Clarification of EU regulatory status
 - Cardiac safety monitoring plan for dual HER2 blockade combined with chemotherapy
 - Review of the other predictions: "normal breast-like subtype," "luminal A or B," and the non-breast tumors lack supporting trials or a clear HER2-based rationale, and should remain on Hold or be treated as research questions
+
+<!-- review:begin eu-lic-20261106-pertuzumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of EU regulatory status, since the only EU authorization on record is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-pertuzumab-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "since the only EU authorization on record is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

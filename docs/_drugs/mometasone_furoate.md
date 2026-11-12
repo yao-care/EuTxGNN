@@ -73,12 +73,16 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Mometason
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005061 | Enerzair Breezhaler | indacaterol; glycopyrronium bromide; mometasone | Valid |
 | EMEA/H/C/005067 | Atectura Breezhaler | indacaterol acetate; mometasone furoate | Valid |
 | EMEA/H/C/005516 | Bemrist Breezhaler | indacaterol; mometasone furoate | Valid |
 | EMEA/H/C/005518 | Zimbus Breezhaler | glycopyrronium bromide; Indacaterol (acetate); mometasone furoate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

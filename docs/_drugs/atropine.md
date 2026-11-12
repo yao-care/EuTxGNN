@@ -80,9 +80,13 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/006324 | Ryjunea | atropine sulfate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

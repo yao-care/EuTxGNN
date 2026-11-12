@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 111
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Budesonide: predicted new indication Atopic eczema (evidence level L5). Approved use: Eosinophilic esophagitis (EoE) in adults (older than 18 years of age)"
 monitor_inn: "Budesonide"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
@@ -93,6 +93,8 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004655 | Jorveza | budesonide | Valid |
@@ -105,6 +107,8 @@ Currently no related clinical trials registered.
 | EMEA/H/C/003951 | Budesonide/Formoterol Teva | budesonide; formoterol fumarate dihydrate | Withdrawn |
 | EMEA/H/C/003952 | Vylaer Spiromax | budesonide; formoterol fumarate dihydrate | Withdrawn |
 | EMEA/H/C/003953 | Budesonide/Formoterol Teva Pharma B.V. | budesonide; formoterol | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 
@@ -128,6 +132,12 @@ Please refer to the SmPC for official warnings and contraindications.
 **Rationale:**
 The prediction score is high, but there are no clinical trials and the literature is indirect or preclinical. Established topical corticosteroids already treat atopic eczema.
 
+<!-- review:begin eu-lic-20261106-budesonide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Established topical corticosteroids already treat atopic eczema, and the only EU authorization for budesonide in this data has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 10 EU marketing authorisations for this drug, 7 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-budesonide-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data to support the mechanistic-link analysis
 - SmPC warnings and contraindications to complete safety screening
@@ -135,6 +145,19 @@ The prediction score is high, but there are no clinical trials and the literatur
 - Comparative evidence against existing topical corticosteroids
 - A route and formulation compatibility assessment (not yet available)
 - Merging of the "atopic eczema" and "dermatitis, atopic" entries in downstream review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the only EU authorization for budesonide in this data has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -71,10 +71,14 @@ Currently no related literature available for epiglottis neoplasm.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004249 | Zejula | niraparib (tosilate monohydrate) | Valid |
 | EMEA/H/C/005932 | Akeega | abiraterone acetate; niraparib (tosilate monohydrate) | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

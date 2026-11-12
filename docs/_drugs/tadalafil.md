@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 582
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Tadalafil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
 description: "Tadalafil: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Treatment of erectile dysfunction. In order for tadalafil to be effec…"
@@ -78,6 +78,8 @@ For context, the lower-ranked predictions of migraine disorder and migraine with
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000436 | Cialis | tadalafil | Valid |
@@ -87,7 +89,15 @@ For context, the lower-ranked predictions of migraine disorder and migraine with
 | EMEA/H/C/004666 | Tadalafil Lilly | tadalafil | Valid |
 | EMEA/H/C/005001 | Yuvanci | macitentan; tadalafil | Valid |
 
+<!-- licenses:end -->
+
 The drug is marketed in this country.
+
+<!-- review:begin eu-lic-20261106-tadalafil-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in this country: all 5 of 5 licences are valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 6 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tadalafil-1 -->
 
 ## Safety Considerations
 
@@ -110,6 +120,19 @@ The prediction has a very high model score but no clinical trials or literature,
 - Warnings and contraindications from the SmPC to enable safety screening
 - Any preclinical or clinical evidence in the predicted indication
 - If a more plausible candidate is wanted, evaluation of kyphoscoliotic heart disease (rank 7), which is linked to secondary pulmonary hypertension and is the most biologically plausible of the novel predictions, although still an unvalidated hypothesis
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: ": all 5 of 5 licences are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

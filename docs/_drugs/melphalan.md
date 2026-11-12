@@ -85,9 +85,13 @@ High-dose melphalan has been studied with autologous stem cell support in high-r
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005173 | Phelinun | melphalan hydrochloride | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

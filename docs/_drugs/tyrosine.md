@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 647
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tyrosine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Maple syrup urine disease (MSUD) presenting with an acute decompensat…"
 monitor_inn: "tyrosine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "traumatic glaucoma", "aqueous misdirection", "neovascular glaucoma"]
@@ -93,9 +93,13 @@ For context, the closest items among the other predicted indications are:
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005557 | Maapliv | glycine,L-alanine,L-arginine,L-aspartic acid,L-cysteine hydrochloride monohydra… | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -112,12 +116,38 @@ Please refer to the SmPC for safety information. No drug interaction records wer
 **Rationale:**
 The prediction for cauda equina syndrome rests only on a model score, with no trials, no literature and no plausible mechanism. The other top-ranked predictions (thyroid-related and glaucoma conditions) also lack tyrosine-specific evidence, and some are mechanistically counterproductive, such as supplementing a thyroid hormone precursor in hyperthyroidism.
 
+<!-- review:begin eu-lic-20261031-tyrosine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction for cauda equina syndrome rests only on a model score, with no trials, no literature and no plausible mechanism. The only authorisation is cancelled, and safety data are missing." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-tyrosine-1 -->
+
 **To proceed, the following is needed:**
 - Safety information (warnings and contraindications) from the EMA product information
 - Mechanism of action data for tyrosine
 - A biological rationale linking tyrosine to cauda equina syndrome, or a review of other predicted indications for more plausible candidates
 - Preclinical or exploratory clinical evidence of benefit
 - Clarification of the route of administration, since the product was intended for acute use in patients who cannot take enteral formulations
+
+<!-- review:begin eu-lic-20261106-tyrosine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the Maapliv authorisation was cancelled, and of the route of administration, since the product was intended for acute use in patients who cannot take enteral formulations" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tyrosine-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only authorisation is cancelled, and safety data are missing" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "of why the Maapliv authorisation was cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

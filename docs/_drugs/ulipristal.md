@@ -48,11 +48,15 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001027 | ellaOne | ulipristal | Valid |
 | EMEA/H/C/002041 | Esmya | ulipristal acetate | Withdrawn |
 | EMEA/H/C/005017 | Ulipristal Acetate Gedeon Richter | ulipristal acetate | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

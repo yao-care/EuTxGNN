@@ -72,9 +72,13 @@ The TxGNN model's candidates for Erenumab with a score of 0.99 or higher are all
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004447 | Aimovig | erenumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

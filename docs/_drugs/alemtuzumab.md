@@ -72,10 +72,14 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Alemtuzumab,
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003718 | Lemtrada | alemtuzumab | Valid |
 | EMEA/H/C/000353 | MabCampath | alemtuzumab | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

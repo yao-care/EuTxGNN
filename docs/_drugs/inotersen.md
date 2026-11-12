@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 322
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Inotersen: predicted new indication Acute intermittent porphyria (evidence level L5). Approved use: Treatment of stage 1 or stage 2 polyneuropathy in adult patients with…"
 monitor_inn: "Inotersen"
 predicted_indications: ["acute intermittent porphyria", "appendicitis", "IgG4-related pachymeningitis", "IgG4-related retroperitoneal fibrosis", "non-infectious meningitis", "peritonitis", "infectious meningitis", "IgG4-related mesenteritis", "IgG4-related mediastinitis", "eosinophilic angiocentric fibrosis"]
@@ -71,9 +71,13 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004782 | Tegsedi | inotersen sodium | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -91,11 +95,37 @@ Please refer to the SmPC for the full label warnings and contraindications.
 **Rationale:**
 There are no clinical trials, and the only publication is a general review with no direct link to acute intermittent porphyria. The prediction should stay at the research-question stage.
 
+<!-- review:begin eu-lic-20261031-inotersen-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials, and the only publication is a general review with no direct link to acute intermittent porphyria. The mechanism is not supported, and the only EU authorization has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-inotersen-1 -->
+
 **To proceed, the following is needed:**
 - Label warnings and contraindications from the EMA package insert, which are currently missing and block safety screening
 - Detailed mechanism-of-action data
 - Preclinical evidence on whether TTR knockdown affects heme biosynthesis or porphyria attacks
 - A safety review for thrombocytopenia and glomerulonephritis, which are flagged as contraindicated in the knowledge graph
+
+<!-- review:begin eu-lic-20261106-inotersen-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A safety review for thrombocytopenia and glomerulonephritis, which are flagged as contraindicated in the knowledge graph / Clarification of why the EU authorization was cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-inotersen-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The mechanism is not supported, and the only EU authorization has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Clarification of why the EU authorization was cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

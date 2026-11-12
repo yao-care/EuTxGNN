@@ -74,10 +74,14 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Oseltamivir,
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000402 | Tamiflu | oseltamivir | Valid |
 | EMEA/H/C/003717 | Ebilfumin | oseltamivir | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

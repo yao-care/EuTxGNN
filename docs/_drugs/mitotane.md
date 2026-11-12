@@ -72,9 +72,13 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Mitotane, so
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000521 | Lysodren | mitotane | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 13
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Abaloparatide: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Treatment of osteoporosis in postmenopausal women at increased risk o…"
 monitor_inn: "Abaloparatide"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "amenorrhea (disease)", "esophageal ulcer"]
@@ -71,9 +71,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005928 | Eladynos | abaloparatide | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -92,12 +96,38 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction is supported only by a model score, with no clinical trials, no literature and no supported mechanistic link.
 
+<!-- review:begin eu-lic-20261031-abaloparatide-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction is supported only by a model score, with no clinical trials, no literature and no supported mechanistic link. The only EU authorization is cancelled, and warnings and contraindications are unavailable, so safety screening cannot proceed." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-abaloparatide-1 -->
+
 **To proceed, the following is needed:**
 - Warnings and contraindications from the EMA product information (blocking for safety screening)
 - Detailed mechanism of action data
 - Preclinical or mechanistic studies showing a role for PTH1R signaling in esophageal development or repair
 - Clarification of the current regulatory status
 - Evaluation of whether the prediction is clinically meaningful for a congenital malformation, or whether a more plausible candidate from the other ranked predictions should be prioritized
+
+<!-- review:begin eu-lic-20261106-abaloparatide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the EU authorization was cancelled, and of the current regulatory status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-abaloparatide-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization is cancelled, and warnings and contraindications are unavailable, so safety screening cannot proceed" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "of why the EU authorization was cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

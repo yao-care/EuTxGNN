@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 133
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Caspofungin: predicted new indication Gastrin secretion abnormality (evidence level L5). Approved use: Invasive candidiasis"
 monitor_inn: "Caspofungin"
 predicted_indications: ["gastrin secretion abnormality"]
@@ -76,11 +76,37 @@ Label warnings and contraindications were not available for this report. Please 
 **Rationale:**
 The prediction rests on a computational score alone. There are no registered trials and no publications, and no plausible mechanistic link to gastrin regulation.
 
+<!-- review:begin eu-lic-20261106-caspofungin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no registered trials and no publications, and no plausible mechanistic link to gastrin regulation. The EU authorization for the product is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-caspofungin-2 -->
+
 **To proceed, the following is needed:**
 - A mechanistic hypothesis linking caspofungin to gastrin secretion, supported by preclinical data
 - Label-based safety data (warnings and contraindications) and mechanism of action data
 
+<!-- review:begin eu-lic-20261031-caspofungin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Label-based safety data (warnings and contraindications) and mechanism of action data / Verification of the current regulatory and supply status in the EU, since the only authorization is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-caspofungin-1 -->
+
 **Note on other predictions:** This report covers the top-ranked prediction only. Other predictions in the same list have more support. Neonatal candidiasis in particular has two Phase 2 trials, a meta-analysis, and an extension-of-indication rationale that rated it "Proceed with Guardrails". If the goal is to find a repurposing opportunity for caspofungin, that candidate is a better one to evaluate.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Verification of the current regulatory and supply status in the EU, since the only authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "The EU authorization for the product is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

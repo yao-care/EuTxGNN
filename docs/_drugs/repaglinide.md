@@ -48,6 +48,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000187 | NovoNorm | repaglinide | Valid |
@@ -56,6 +58,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | EMEA/H/C/001066 | Repaglinide Krka | repaglinide | Valid |
 | EMEA/H/C/001067 | Repaglinide Teva | repaglinide | Valid |
 | EMEA/H/C/002318 | Repaglinide Accord | repaglinide | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

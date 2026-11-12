@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 596
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Temoporfin: predicted new indication Nasopharyngeal teratoma (evidence level L5). Approved use: Palliative treatment of patients with advanced head and neck squamous…"
 monitor_inn: "Temoporfin"
 predicted_indications: ["nasopharyngeal teratoma", "odontogenic cyst", "pre-malignant neoplasm", "epiglottis neoplasm", "tumor of testis and paratestis", "cystic neoplasm", "benign neoplasm of floor of mouth", "benign neoplasm of tongue", "benign neoplasm of hypopharynx", "cervical neuroblastoma"]
@@ -90,9 +90,13 @@ Two publications were found for lower-ranked predictions. They offer only indire
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000318 | Foscan | temoporfin | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -115,11 +119,37 @@ Please refer to the SmPC for safety information. No drug interaction records wer
 **Rationale:**
 The prediction for nasopharyngeal teratoma rests on a model score alone, with no trials or publications.
 
+<!-- review:begin eu-lic-20261031-temoporfin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction for nasopharyngeal teratoma rests on a model score alone, with no trials or publications. The only EU authorization is cancelled, and warnings and contraindications from the label could not be obtained, so safety screening cannot proceed." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-temoporfin-1 -->
+
 **To proceed, the following is needed:**
 - Safety information (warnings and contraindications) from the EMA product information
 - Mechanism of action data, for example from DrugBank
 - Site-specific preclinical or clinical evidence for the predicted indication (the epiglottis neoplasm and pre-malignant neoplasm predictions may be better-aligned candidates to examine first)
 - A route and light-delivery feasibility assessment
+
+<!-- review:begin eu-lic-20261106-temoporfin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Site-specific preclinical or clinical evidence for the predicted indication (the epiglottis neoplasm and pre-malignant neoplasm predictions may be better-aligned candidates to examine first) / Confirmation of why the EU authorization was cancelled and whether any formulation remains available" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-temoporfin-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization is cancelled, and warnings and contraindications from the label could not be obtained, so safety screening cannot " | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Confirmation of why the EU authorization was cancelled and whether any formulation remains available" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 272
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fosaprepitant: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Prevention of nausea and vomiting associated with highly and moderate…"
 monitor_inn: "Fosaprepitant"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "pneumocystosis", "leprosy", "Cryptococcal meningitis", "multiple endocrine neoplasia", "intracranial abscess", "retinitis", "Plasmodium falciparum malaria", "echinococcus granulosus infectious disease", "hyperargininemia"]
@@ -72,9 +72,13 @@ Currently no related literature available for nephrogenic syndrome of inappropri
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000743 | Ivemend | fosaprepitant | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -94,12 +98,38 @@ Label warnings and contraindications were not available. Please refer to the SmP
 **Rationale:**
 The prediction has no supporting trials or publications (evidence level L5), and no plausible mechanistic link between NK1 antagonism and the vasopressin V2 receptor pathway has been identified.
 
+<!-- review:begin eu-lic-20261031-fosaprepitant-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction has no supporting trials or publications (evidence level L5), and no plausible mechanistic link between NK1 antagonism and the vasopressin V2 receptor pathway has been identified. The only EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-fosaprepitant-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (DrugBank) and a testable hypothesis connecting NK1 signalling to NSIAD
 - Preclinical or case-level evidence in NSIAD or related V2 receptor models
 - SmPC warnings and contraindications to complete safety screening
 - Review of liver-failure contraindication and the Major interactions (eliglustat, naloxegol) if any development is considered
 - Clarification of the current EU regulatory status
+
+<!-- review:begin eu-lic-20261106-fosaprepitant-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current EU regulatory status, given the cancelled authorization" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-fosaprepitant-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "given the cancelled authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

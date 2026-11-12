@@ -73,6 +73,8 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002157 | Skilarence | dimethyl fumarate | Valid |
@@ -85,6 +87,8 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | EMEA/H/C/005956 | Dimethyl fumarate Mylan | dimethyl fumarate | Revoked |
 | EMEA/H/C/005963 | Dimethyl fumarate Teva | dimethyl fumarate | Revoked |
 | EMEA/H/C/006039 | Dimethyl fumarate Neuraxpharm | dimethyl fumarate | Revoked |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

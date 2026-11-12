@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 535
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Romiplostim: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Primary immune thrombocytopenia (ITP) in adults refractory to other t…"
 monitor_inn: "Romiplostim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "platelet-type bleeding disorder", "autosomal dominant macrothrombocytopenia", "Ehlers-Danlos syndrome, fibronectinemic type"]
@@ -73,9 +73,13 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000942 | Nplate | romiplostim | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -90,11 +94,37 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction is computational only (L5). There are no registered trials, the single publication does not address platelet release disorders, and the mechanism (raising platelet count) does not match a functional platelet defect.
 
+<!-- review:begin eu-lic-20261106-romiplostim-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no registered trials, the single publication does not address platelet release disorders, and the mechanism (raising platelet count) does not match a functional platelet defect. The EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-romiplostim-1 -->
+
 **To proceed, the following is needed:**
 - Mechanistic evidence that increasing platelet number benefits platelet release disorders
 - Retrieval and review of the SmPC warnings and contraindications
 - Clarification of the EU authorization status
 - Consideration of reprioritizing FNAIT, which has the most plausible mechanistic link, and subtype-specific inherited thrombocytopenias, with placental transfer, fetal safety, and neonatal dosing assessed first
+
+<!-- review:begin eu-lic-20261106-romiplostim-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the EU authorization status (cancelled)" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-romiplostim-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "(cancelled)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

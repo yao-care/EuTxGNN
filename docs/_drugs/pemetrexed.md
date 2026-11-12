@@ -100,6 +100,8 @@ Other predictions in the list fall into three groups. Pleural mesothelioma and i
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000564 | Alimta | pemetrexed | Valid |
@@ -114,6 +116,8 @@ Other predictions in the list fall into three groups. Pleural mesothelioma and i
 | EMEA/H/C/004114 | Pemetrexed Lilly | pemetrexed | Withdrawn |
 | EMEA/H/C/004488 | Pemetrexed Pfizer | pemetrexed ditromethamine | Withdrawn |
 | EMEA/H/C/005848 | Pemetrexed Baxter | pemetrexed disodium heptahydrate | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 

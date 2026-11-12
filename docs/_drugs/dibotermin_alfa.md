@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dibotermin Alfa: predicted new indication Esotropia (evidence level L5). Approved use: Single-level lumbar interbody spine fusion in adults with degenerativ…"
 monitor_inn: "Dibotermin alfa"
 predicted_indications: ["esotropia", "HER2 positive breast carcinoma", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer", "non-syndromic esophageal malformation", "multifocal choroiditis", "atypical coarctation of aorta"]
@@ -87,9 +87,13 @@ One publication was found for a lower-ranked prediction (breast tumor luminal A 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000408 | Inductos | dibotermin alfa | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -100,11 +104,37 @@ One publication was found for a lower-ranked prediction (breast tumor luminal A 
 **Rationale:**
 The esotropia prediction is supported only by a model score, with no trials, no literature and no plausible mechanism linking an osteogenic protein to an ocular alignment disorder. Most other top predictions involve breast cancer, where a possible tumor-promoting effect of BMP-2 is a safety concern.
 
+<!-- review:begin eu-lic-20261031-dibotermin_alfa-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The esotropia prediction is supported only by a model score, with no trials, no literature and no plausible mechanism linking an osteogenic protein to an ocular alignment disorder. The only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-dibotermin_alfa-1 -->
+
 **To proceed, the following is needed:**
 - Safety information (warnings, contraindications) from the product information, which is currently missing
 - Mechanism of action data
 - Any preclinical or clinical evidence linking BMP-2 to esotropia, or a re-evaluation of the prediction against other candidates
 - Tumor-promotion risk assessment before any consideration of oncology-related indications
+
+<!-- review:begin eu-lic-20261106-dibotermin_alfa-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Any preclinical or clinical evidence linking BMP-2 to esotropia, or a re-evaluation of the prediction against other candidates / Clarification of why the EU authorization was cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-dibotermin_alfa-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Clarification of why the EU authorization was cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

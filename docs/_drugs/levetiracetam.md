@@ -72,6 +72,8 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000277 | Keppra | levetiracetam | Valid |
@@ -83,6 +85,8 @@ Currently no related literature available.
 | EMEA/H/C/002316 | Levetiracetam Teva | levetiracetam | Valid |
 | EMEA/H/C/002355 | Levetiracetam Actavis | levetiracetam | Valid |
 | EMEA/H/C/002783 | Levetiracetam Hospira | levetiracetam | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -85,11 +85,15 @@ Note on the evidence level: none of the cited studies directly tests eltrombopag
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001110 | Revolade | eltrombopag | Valid |
 | EMEA/H/C/006417 | Eltrombopag Viatris | eltrombopag olamine | Valid |
 | EMEA/H/C/006459 | Eltrombopag Accord | eltrombopag olamine | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

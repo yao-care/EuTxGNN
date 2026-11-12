@@ -70,9 +70,13 @@ Currently no related literature available for CMM7.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003790 | Kyprolis | carfilzomib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

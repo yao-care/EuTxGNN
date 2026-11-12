@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 512
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Regadenoson: predicted new indication Anaphylaxis (evidence level L5). Approved use: Pharmacological stress agent for radionuclide myocardial perfusion im…"
 monitor_inn: "Regadenoson"
 predicted_indications: ["anaphylaxis", "food-dependent exercise-induced anaphylaxis", "esotropia", "pseudoallergy"]
@@ -90,9 +90,13 @@ Literature exists only for other conditions, and it shows adverse effects rather
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001176 | Rapiscan | regadenoson | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -126,12 +130,31 @@ For label warnings and contraindications, please refer to the SmPC.
 **Rationale:**
 The anaphylaxis prediction has no clinical trial or literature support (Evidence Level L5). The drug's vasodilatory and hypotensive effects work against its use in a condition marked by circulatory collapse.
 
+<!-- review:begin eu-lic-20261106-regadenoson-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug's vasodilatory and hypotensive effects work against its use in a condition marked by circulatory collapse. The EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-regadenoson-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) and a clear rationale for how A2A agonism could benefit anaphylaxis without causing harmful hypotension
 - Preclinical studies (mast cell and animal anaphylaxis models) showing a benefit
 - Label warnings and contraindications from the EMA package insert, to allow a formal safety screen
 - Assessment of whether a short-acting diagnostic agent is suitable for any therapeutic use, including route and dosing
 - Reassessment of the lower-ranked predictions (such as headache and migraine), which currently indicate harm rather than benefit
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

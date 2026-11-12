@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 333
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ipilimumab: predicted new indication Choroideremia (evidence level L5). Approved use: Advanced (unresectable or metastatic) melanoma…"
 monitor_inn: "Ipilimumab"
 predicted_indications: ["choroideremia"]
@@ -115,9 +115,13 @@ No randomized controlled trial publications are included for any prediction.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002213 | Yervoy | Ipilimumab | Valid |
+
+<!-- licenses:end -->
 
 This authorization is recorded as valid: the drug is marketed in this country, with 1 valid licence out of 1.
 
@@ -162,6 +166,25 @@ Warnings and contraindications from the product label were not available. Please
 - Mechanism of action data (MOA) for ipilimumab.
 - Warnings and contraindications from the SmPC (currently a blocking gap for safety screening).
 - For melanoma subtypes: subtype-specific efficacy data, ideally from randomized trials, and an immune-related adverse event monitoring plan, including ocular toxicity.
+
+<!-- review:begin eu-lic-20261106-ipilimumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Warnings and contraindications from the SmPC (currently a blocking gap for safety screening). / Clarification of the cancelled EU authorization status and whether other valid products exist." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-ipilimumab-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Clarification of the cancelled EU authorization status and whether other valid products exist" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

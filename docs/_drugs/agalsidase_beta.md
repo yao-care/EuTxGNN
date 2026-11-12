@@ -48,9 +48,13 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000370 | Fabrazyme | agalsidase beta | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

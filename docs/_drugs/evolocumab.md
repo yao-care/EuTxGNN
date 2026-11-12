@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 250
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Evolocumab: predicted new indication Symptomatic form of hemophilia in female carriers (evidence level L5). Approved use: Hypercholesterolaemia and mixed dyslipidaemia"
 monitor_inn: "Evolocumab"
 predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity"]
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003766 | Repatha | Evolocumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -89,12 +93,31 @@ The only drug interaction record is a pharmacology entry linking evolocumab to i
 **Rationale:**
 The prediction is supported only by a model score (L5), with no clinical trials or literature. The pharmacology gives no plausible link between PCSK9 inhibition and the factor VIII/IX deficiency behind symptomatic hemophilia in female carriers.
 
+<!-- review:begin eu-lic-20261106-evolocumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The pharmacology gives no plausible link between PCSK9 inhibition and the factor VIII/IX deficiency behind symptomatic hemophilia in female carriers. The EU authorization is also listed as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-evolocumab-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data from DrugBank
 - Safety information from the SmPC, including warnings and contraindications
 - Confirmation of the current EU authorization status of Repatha
 - A credible biological rationale and preclinical evidence before any clinical development
 - Review of the other top-ranked predictions. Familial apolipoprotein C-II deficiency is the only one with even an indirect lipid-metabolism link, and it also has no supporting evidence.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorization is also listed as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

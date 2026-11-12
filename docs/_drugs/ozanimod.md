@@ -72,9 +72,13 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Ozanimod,
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004835 | Zeposia | ozanimod hydrochloride | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

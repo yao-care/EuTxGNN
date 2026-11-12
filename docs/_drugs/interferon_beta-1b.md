@@ -68,10 +68,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000081 | Betaferon | interferon beta-1b | Valid |
 | EMEA/H/C/000933 | Extavia | interferon beta-1b | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

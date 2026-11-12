@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 154
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Clopidogrel: predicted new indication migraine with brainstem aura (evidence level L5). Approved use: Secondary prevention of atherothrombotic events (myocardial infarctio…"
 monitor_inn: "Clopidogrel"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "rheumatoid arthritis"]
@@ -104,6 +104,14 @@ The link between the original indication (preventing vascular and thrombotic eve
 
 The main ones are listed below (dosage forms are not recorded).
 
+<!-- review:begin eu-lic-20261106-clopidogrel-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 12 centralised authorisations in the data compiled are valid. The main ones are listed below (dosage forms are not recorded)." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 32 EU marketing authorisations for this drug, 17 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-clopidogrel-1 -->
+
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000174 | Plavix | clopidogrel hydrogen sulfate | Valid |
@@ -128,6 +136,8 @@ The main ones are listed below (dosage forms are not recorded).
 | EMEA/H/C/001132 | Clopidogrel DURA | clopidogrel (as hydrochloride) | Withdrawn |
 
 Showing 20 of 32 EMA authorisations.
+
+<!-- licenses:end -->
 
 ---
 
@@ -158,6 +168,26 @@ Several randomised studies (CANOA, a pilot RCT, and a recently published multice
 - A drug-interaction management plan, especially for proton pump inhibitors and aspirin
 - Full review of the SmPC warnings and contraindications
 - Clarification of the market situation
+
+<!-- review:begin eu-lic-20261106-clopidogrel-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the market situation, since all 12 EU centralised authorisations in the data compiled are valid and the drug is marketed" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 32 EU marketing authorisations for this drug, 17 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-clopidogrel-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 12 centralised authorisations in the data compiled are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "since all 12 EU centralised authorisations in the data compiled are valid and the drug is marketed" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

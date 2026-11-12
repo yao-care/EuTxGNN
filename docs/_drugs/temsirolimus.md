@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 598
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Temsirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "vulva sarcoma"]
 description: "Temsirolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Renal-cell carcinoma Torisel is indicated for the first-line treatmen…"
@@ -64,6 +64,12 @@ The PI3K/AKT/mTOR pathway is commonly activated in soft tissue sarcomas, includi
 
 The supporting evidence is still indirect. The listed trials enrolled mixed sarcoma populations rather than liposarcoma specifically, so subtype-specific efficacy has not been established. The high TxGNN score should be read as a hypothesis, not as proof of benefit.
 
+<!-- review:begin eu-lic-20261106-temsirolimus-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The only EU authorisation is recorded as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-temsirolimus-1 -->
+
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
@@ -79,9 +85,13 @@ The supporting evidence is still indirect. The listed trials enrolled mixed sarc
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000799 | Torisel | temsirolimus | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -117,12 +127,39 @@ Label-based warnings and contraindications were not available in the data compil
 **Rationale:**
 The mTOR rationale for soft tissue sarcoma is plausible, but the available trials are mixed-population, combination-based and not specific to liposarcoma. No liposarcoma-specific efficacy data exist. Label-level safety data are missing. Clinical development is not supported on the current evidence, though liposarcoma remains a reasonable research question.
 
+<!-- review:begin eu-lic-20261106-temsirolimus-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Temsirolimus's EU authorisation is cancelled, and label-level safety data are missing." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-temsirolimus-3 -->
+
 **To proceed, the following is needed:**
 - Subtype-level (liposarcoma) results from NCT00949325 and the published soft-tissue sarcoma Phase 2 data
 - Mechanism of action data (MOA) from DrugBank
 - Warnings and contraindications from the EMA package insert, which are a blocking gap for safety screening
 - Review of the knowledge-graph contraindication signals and the major drug interactions, especially bowel perforation risk
 - Clarification of the regulatory route for any new use
+
+<!-- review:begin eu-lic-20261106-temsirolimus-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the EU authorisation was cancelled, and of the regulatory route for any new use" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-temsirolimus-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The only EU authorisation is recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "of why the EU authorisation was cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Temsirolimus's EU authorisation is cancelled, and l" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

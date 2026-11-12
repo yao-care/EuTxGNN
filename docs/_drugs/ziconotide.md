@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 682
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ziconotide: predicted new indication Migraine disorder (evidence level L4). Approved use: Treatment of severe…"
 monitor_inn: "Ziconotide"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "obesity disorder", "transient ischemic attack (disease)", "open-angle glaucoma", "obsolete neurogenic bladder (disease)", "primary hereditary glaucoma", "preeclampsia"]
@@ -76,9 +76,13 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000551 | Prialt | ziconotide | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -95,11 +99,30 @@ Please also refer to the SmPC for full warnings and contraindications.
 **Rationale:**
 The mechanistic link between N-type calcium channel blockade and migraine is plausible, but support is limited to a case report and hypothesis-generating articles with no controlled trials. The intrathecal route, narrow therapeutic index and neuropsychiatric risks (with knowledge-graph contraindication signals for psychiatric disorders) make the benefit-risk balance hard to justify without stronger evidence. It remains a research question rather than a candidate for development.
 
+<!-- review:begin eu-lic-20261106-ziconotide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The EU authorization has been cancelled, and the intrathecal route, narrow therapeutic index and neuropsychiatric risks (with knowledge-graph contraindication signals for psychiatric disorders) make the benefit-risk balance hard to justify without stronger evidence." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-ziconotide-1 -->
+
 **To proceed, the following is needed:**
 - Controlled or prospective clinical data (at least a well-designed Phase 2 study) in refractory chronic migraine
 - Mechanism of action data confirmed from a primary drug database
 - Safety information from the SmPC (warnings and contraindications), particularly psychiatric risk
 - An assessment of route feasibility and of whether a currently authorized product is available in the EU
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he EU authorization has been cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

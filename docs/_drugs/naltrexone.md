@@ -74,9 +74,13 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Naltrexone, 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003687 | Mysimba | bupropion hydrochloride; naltrexone hydrochloride | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

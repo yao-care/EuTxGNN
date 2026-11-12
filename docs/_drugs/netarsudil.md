@@ -72,10 +72,14 @@ The TxGNN model's candidates for Netarsudil are all known uses, so there is curr
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004583 | Rhokiinsa | netarsudil | Valid |
 | EMEA/H/C/005107 | Roclanda | Latanoprost; netarsudil mesilate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

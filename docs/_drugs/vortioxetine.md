@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 678
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Vortioxetine"
 predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
 description: "Vortioxetine: predicted new indication Neurotic disorder (evidence level L5). Approved use: Treatment of major depressive episodes in adults"
@@ -77,9 +77,13 @@ Currently no related clinical trials are registered for neurotic disorder.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002717 | Brintellix | vortioxetine | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -97,10 +101,36 @@ Please refer to the SmPC for warnings and contraindications, which were not avai
 **Rationale:**
 The top-ranked prediction, neurotic disorder, is a historical umbrella term with no vortioxetine-specific trials or literature, so it is not a distinct, testable repurposing opportunity.
 
+<!-- review:begin eu-lic-20261106-vortioxetine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The top-ranked prediction, neurotic disorder, is a historical umbrella term with no vortioxetine-specific trials or literature, so it is not a distinct, testable repurposing opportunity. Vortioxetine's EU authorization is also cancelled, which adds a regulatory hurdle." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-vortioxetine-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data from DrugBank.
 - Warnings and contraindications from the EMA product information, to allow safety screening.
 - Re-mapping of "neurotic disorder" to current diagnoses (depressive, anxiety or dysthymic disorders), and prioritising better-supported candidates such as melancholia (post hoc subgroup analysis of existing MDD trials) and anxiety disorders (controlled trials).
+
+<!-- review:begin eu-lic-20261106-vortioxetine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Re-mapping of "neurotic disorder" to current diagnoses (depressive, anxiety or dysthymic disorders), and prioritising better-supported candidates such as melancholia (post hoc subgroup analysis of existing MDD trials) and anxiety disorders (controlled trials). / Clarification of the cancelled EU authorization status and its reasons." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-vortioxetine-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Vortioxetine's EU authorization is also cancelled, which adds a regulatory hurdle" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Clarification of the cancelled EU authorization status and its reasons" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -89,12 +89,16 @@ Detailed mechanism-of-action data were not available beyond the IMPDH-based reas
 
 Mycophenolate mofetil is marketed in the EU. All 4 authorisations are valid.
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000082 | CellCept | mycophenolate mofetil | Valid |
 | EMEA/H/C/000882 | Mycophenolate mofetil Teva | mycophenolate mofetil | Valid |
 | EMEA/H/C/000884 | Myfenax | mycophenolate mofetil | Valid |
 | EMEA/H/C/001218 | Myclausen | mycophenolate mofetil | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

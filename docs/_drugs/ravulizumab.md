@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 511
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ravulizumab: predicted new indication Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency (evidence level L5). Approved use: Paroxysmal nocturnal haemoglobinuria (PNH) in adult and…"
 monitor_inn: "Ravulizumab"
 predicted_indications: ["autosomal recessive severe congenital neutropenia due to G6PC3 deficiency", "cyclic hematopoiesis", "primary hyperoxaluria", "severe congenital neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "pseudo-von Willebrand disease", "X-linked severe congenital neutropenia", "primary release disorder of platelets", "megaloblastic anemia (disease)"]
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004954 | Ultomiris | ravulizumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -91,12 +95,31 @@ Please also refer to the SmPC for full safety information.
 **Rationale:**
 The prediction rests on a model score alone. No trials or publications support it, no mechanistic link to complement is known, and the infection risk of complement inhibition is a safety concern in neutropenic patients.
 
+<!-- review:begin eu-lic-20261106-ravulizumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "No trials or publications support it, no mechanistic link to complement is known, and the infection risk of complement inhibition is a safety concern in neutropenic patients. The EU authorization is also recorded as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-ravulizumab-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) and a plausible biological link between C5 inhibition and G6PC3-deficiency neutropenia
 - Preclinical or mechanistic studies supporting the hypothesis
 - Warnings and contraindications from the SmPC, to allow safety screening
 - Confirmation of the current EU authorization status of Ultomiris
 - A risk assessment of meningococcal and other encapsulated-bacteria infections in neutropenic patients
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorization is also recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -71,9 +71,13 @@ Currently no related literature available for Scheie syndrome.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004004 | Kanuma | sebelipase alfa | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 327
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Insulin Glargine: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Treatment of diabetes mellitus in adults…"
 monitor_inn: "Insulin glargine"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
@@ -81,7 +81,15 @@ For reference, the only literature retrieved among the top ten predictions relat
 
 None of these studies tests insulin glargine in pancreatic agenesis or in autoimmune oophoritis.
 
+<!-- review:begin eu-lic-20261106-insulin_glargine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All four authorizations are valid (4 valid licences of 4)." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 7 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-insulin_glargine-1 -->
+
 ## EU Market Information
+
+<!-- licenses:begin -->
 
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
@@ -92,6 +100,8 @@ None of these studies tests insulin glargine in pancreatic agenesis or in autoim
 | EMEA/H/C/006136 | Ondibta | insulin glargine | Valid |
 | EMEA/H/C/004243 | Suliqua | insulin glargine; lixisenatide | Valid |
 | EMEA/H/C/004101 | Lusduna | insulin glargine | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -111,11 +121,38 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction rests only on a model score, with no clinical trials or publications and no plausible direct mechanism. Insulin glargine would at most manage co-existing diabetes in these conditions.
 
+<!-- review:begin eu-lic-20261106-insulin_glargine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The prediction rests only on a model score, with no clinical trials or publications and no plausible direct mechanism. The market status is also cancelled for all current EU licenses." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 7 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-insulin_glargine-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a mechanistic rationale for ovarian autoimmunity
 - Warnings and contraindications from the SmPC
 - Literature or trial evidence in autoimmune oophoritis
 - Clarification of available routes and formulations
+
+<!-- review:begin eu-lic-20261106-insulin_glargine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled EU market status and of available routes and formulations" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 7 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-insulin_glargine-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All four authorizations are valid (4 valid licences of 4)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "The market status is also cancelled for all current EU licenses" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "of the cancelled EU market status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

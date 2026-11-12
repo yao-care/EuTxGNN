@@ -72,9 +72,13 @@ The TxGNN deep-learning model produced candidates for Romosozumab, but every can
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004465 | Evenity | romosozumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

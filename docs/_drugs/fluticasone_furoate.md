@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 268
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fluticasone Furoate: predicted new indication Atopic eczema (evidence level L5). Approved use: Treatment of the symptoms of allergic rhinitis in adults…"
 monitor_inn: "Fluticasone furoate"
 predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis"]
@@ -76,6 +76,8 @@ Currently no related clinical trials registered for atopic eczema.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000770 | Avamys | fluticasone furoate | Valid |
@@ -89,6 +91,8 @@ Currently no related clinical trials registered for atopic eczema.
 | EMEA/H/C/004267 | Airexar Spiromax | salmeterol; fluticasone propionate | Withdrawn |
 | EMEA/H/C/005254 | Temybric Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Lapsed |
 | EMEA/H/C/005591 | BroPair Spiromax | salmeterol xinafoate; fluticasone propionate | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -105,6 +109,12 @@ Please refer to the SmPC for label warnings, contraindications and drug interact
 **Rationale:**
 For atopic eczema, the prediction is supported only by a model score and a plausible class-level corticosteroid rationale. There are no trials, no efficacy literature, and no dermatologic formulation.
 
+<!-- review:begin eu-lic-20261031-fluticasone_furoate-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no trials, no efficacy literature, and no dermatologic formulation. The only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 11 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-fluticasone_furoate-1 -->
+
 For reference, the **obstructive lung disease** prediction (L1) is backed by several completed Phase 3 trials and RCTs such as FULFIL, IMPACT and CAPTAIN. Those studies tested fluticasone furoate in fixed-dose combinations (with vilanterol and umeclidinium), so the contribution of fluticasone furoate alone is not isolated. It could be considered **Proceed with Guardrails** in a separate evaluation.
 
 **To proceed, the following is needed:**
@@ -112,6 +122,26 @@ For reference, the **obstructive lung disease** prediction (L1) is backed by sev
 - Label warnings and contraindications from the SmPC
 - A dermatologic formulation and route-compatibility assessment, followed by preclinical and early clinical studies in atopic eczema
 - For the respiratory indication: a plan to isolate the contribution of fluticasone furoate from the combination products, plus pneumonia-risk monitoring
+
+<!-- review:begin eu-lic-20261031-fluticasone_furoate-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "A dermatologic formulation and route-compatibility assessment, followed by preclinical and early clinical studies in atopic eczema / Verification of current product availability, since the only EU authorization is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 11 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-fluticasone_furoate-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-10-31 | Removed: "Verification of current product availability, since the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

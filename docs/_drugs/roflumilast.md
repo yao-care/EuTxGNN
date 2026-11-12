@@ -72,11 +72,15 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Roflumilast,
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001179 | Daxas | roflumilast | Valid |
 | EMEA/H/C/002398 | Daliresp | roflumilast | Withdrawn |
 | EMEA/H/C/002399 | Libertek | roflumilast | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 634
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Trametinib: predicted new indication Choroideremia (evidence level L5). Approved use: Unresectable or metastatic BRAF V600-mutant melanoma"
 monitor_inn: "Trametinib"
 predicted_indications: ["choroideremia"]
@@ -82,10 +82,14 @@ Currently no related literature available for choroideremia.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002643 | Mekinist | trametinib | Valid |
 | EMEA/H/C/005886 | Spexotras | trametinib dimethyl sulfoxide | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -116,10 +120,29 @@ For warnings and contraindications, please refer to the SmPC.
 **Rationale:**
 The choroideremia prediction rests on a computational score alone. There are no trials or publications, and choroideremia is caused by CHM loss of function rather than MAPK signalling, so a mechanism for MEK inhibition is not apparent.
 
+<!-- review:begin eu-lic-20261106-trametinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no trials or publications, and choroideremia is caused by CHM loss of function rather than MAPK signalling, so a mechanism for MEK inhibition is not apparent. The EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-trametinib-1 -->
+
 **To proceed, the following is needed:**
 - A biological rationale linking MEK/MAPK inhibition to choroideremia, tested in preclinical models (for example, retinal pigment epithelium or patient-derived cells)
 - Mechanism of action data and safety label information (warnings and contraindications) from the SmPC
 - Assessment of ocular safety, since MEK inhibitors can cause retinal toxicity (this should be verified in the SmPC) and the target population already has retinal degeneration
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

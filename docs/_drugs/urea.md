@@ -72,11 +72,15 @@ The TxGNN deep-learning model produced candidates for Urea, but every candidate 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000140 | Helicobacter Test INFAI | urea (13C) | Valid |
 | EMEA/H/C/000151 | Pylobactell | urea (13C) | Valid |
 | EMEA/H/C/000182 | Pylori-Chek | urea (13C) | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

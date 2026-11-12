@@ -72,9 +72,13 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Galsulfase, 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000640 | Naglazyme | galsulfase | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

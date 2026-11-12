@@ -73,11 +73,15 @@ For the third prediction, opsismodysplasia (a rare skeletal dysplasia linked to 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002677 | Jardiance | empagliflozin | Valid |
 | EMEA/H/C/003770 | Synjardy | empagliflozin; metformin | Valid |
 | EMEA/H/C/003833 | Glyxambi | empagliflozin; linagliptin | Valid |
+
+<!-- licenses:end -->
 
 The data compiled for this report list 1 authorization, a single-ingredient product with valid status. The list is not partial.
 

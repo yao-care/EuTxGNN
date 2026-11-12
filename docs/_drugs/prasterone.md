@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 495
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Prasterone: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Treatment of vulvar and vaginal atrophy in postmenopausal women havin…"
 monitor_inn: "Prasterone"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "severe nonproliferative diabetic retinopathy", "thrombophilia due to protein S deficiency, autosomal recessive", "scleroderma (disease)", "complement component 4a deficiency", "pseudo-von Willebrand disease", "primary release disorder of platelets"]
@@ -65,9 +65,13 @@ Other top-ranked predictions are also mostly coagulation or haematology disorder
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004138 | Intrarosa | prasterone | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -84,12 +88,31 @@ Because the predicted indications are prothrombotic or bleeding disorders, the e
 **Rationale:**
 The prediction rests on a model score alone (L5). The biological link to heparin cofactor 2 deficiency is not supported, and a coagulation-related safety concern cannot be excluded.
 
+<!-- review:begin eu-lic-20261031-prasterone-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests on a model score alone (L5). There are no clinical trials or publications, no established mechanism, and the only EU authorisation has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-prasterone-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for prasterone, and a plausible link to heparin cofactor 2 or the coagulation cascade
 - Warnings and contraindications from the SmPC, which are a blocking gap for safety screening
 - Preclinical or observational evidence on the effect of DHEA on coagulation and thrombotic risk
 - Assessment of route compatibility, since the original product was a local vaginal formulation and the new indication would likely need systemic exposure
 - Review of the other predicted indications (for example scleroderma and diabetic retinopathy), which have more plausible, though still speculative, immunomodulatory or anti-inflammatory rationales
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "There are no clinical trials or publications, no established mechanism, and the only EU authorisation has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

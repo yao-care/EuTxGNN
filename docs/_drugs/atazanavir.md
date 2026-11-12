@@ -74,12 +74,16 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000494 | Reyataz | atazanavir (as sulfate) | Valid |
 | EMEA/H/C/004048 | Atazanavir Viatris | atazanavir (as sulfate) | Valid |
 | EMEA/H/C/003904 | Evotaz | cobicistat; atazanavir | Valid |
 | EMEA/H/C/004859 | Atazanavir Krka | atazanavir (as sulfate) | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

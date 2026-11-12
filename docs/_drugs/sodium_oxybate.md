@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 567
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Sodium Oxybate: predicted new indication Insomnia (evidence level L2). Approved use: Treatment of narcolepsy with cataplexy in adult patients"
 monitor_inn: "Sodium oxybate"
 predicted_indications: ["insomnia (disease)", "obsolete neurogenic bladder (disease)", "sleep disorder, initiating and maintaining sleep", "cauda equina syndrome", "Wernicke-Korsakoff syndrome", "restless legs syndrome"]
@@ -86,9 +86,13 @@ Other predicted indications are much weaker. "Sleep disorder, initiating and mai
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000593 | Xyrem | sodium oxybate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -112,12 +116,38 @@ Please refer to the SmPC for formal warnings and contraindications.
 **Rationale:**
 The only directly relevant evidence is one small Phase 2 insomnia trial (n=48) with no Phase 3 confirmation. The central nervous system depressant risk, abuse potential, many major interactions and several knowledge-graph contraindications (including sleep apnoea and respiratory failure) call for strict guardrails. Insomnia is a large population, so the risk-benefit balance must be well established first.
 
+<!-- review:begin eu-lic-20261106-sodium_oxybate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The only directly relevant evidence is one small Phase 2 insomnia trial (n=48) with no Phase 3 confirmation. The EU authorisation has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-sodium_oxybate-1 -->
+
 **To proceed, the following is needed:**
 - Results and full analysis of NCT00383643, followed by an adequately powered Phase 3 insomnia programme
 - Detailed mechanism of action data
 - Warnings and contraindications from the SmPC
 - A risk-management plan covering abuse, respiratory depression, and co-medication with alcohol, opioids and sedatives
 - Confirmation of the regulatory and supply route
+
+<!-- review:begin eu-lic-20261106-sodium_oxybate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the regulatory and supply route, given that the EU authorisation is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-sodium_oxybate-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorisation has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "given that the EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

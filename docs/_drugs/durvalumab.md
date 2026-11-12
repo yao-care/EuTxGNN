@@ -85,9 +85,13 @@ For reference, the following publications relate to endocervical carcinoma:
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004771 | Imfinzi | durvalumab | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

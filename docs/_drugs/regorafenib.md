@@ -79,9 +79,13 @@ The clinical evidence is more cautious than the model score suggests. In the pla
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002573 | Stivarga | regorafenib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

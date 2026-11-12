@@ -70,9 +70,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004143 | Tecentriq | atezolizumab | Valid |
+
+<!-- licenses:end -->
 
 The authorisation covers single-agent use of Tecentriq in several cancers (urothelial carcinoma, early-stage and advanced NSCLC, ES-SCLC, TNBC, HCC). The uterine ligament adenocarcinoma prediction is not part of any of these approved indications.
 

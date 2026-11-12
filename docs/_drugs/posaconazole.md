@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 494
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Posaconazole"
 predicted_indications: ["pneumocystosis"]
 description: "Posaconazole: predicted new indication Pneumocystosis (evidence level L5). Approved use: Noxafil gastro-resistant tablets are indicated for use in the treatme…"
@@ -63,6 +63,12 @@ Other predictions in the top 10 are similarly weak:
 - **Vulvovaginal candidiasis** is mechanistically plausible, since Candida species are sensitive to CYP51 inhibition. Evidence is limited to in vitro susceptibility studies, isolate surveys and guidelines, with no posaconazole clinical trials. Oropharyngeal candidiasis is already a labeled use.
 - They look like TxGNN model (deep learning) artifacts.
 
+<!-- review:begin eu-lic-20261106-posaconazole-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All three authorizations are valid, so posaconazole is currently marketed with valid authorization in the data compiled for this report." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 4 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-posaconazole-1 -->
+
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
@@ -81,12 +87,16 @@ Other predictions in the top 10 are similarly weak:
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000610 | Noxafil | posaconazole | Valid |
 | EMEA/H/C/005005 | Posaconazole Accord | posaconazole | Valid |
 | EMEA/H/C/005028 | Posaconazole AHCL | posaconazole | Valid |
 | EMEA/H/C/000611 | Posaconazole SP | posaconazole | Lapsed |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -105,6 +115,12 @@ For warnings and contraindications, please refer to the SmPC. The prediction ana
 **Rationale:**
 The pneumocystosis prediction has a high model score but no direct clinical evidence and no sound mechanistic basis, because Pneumocystis lacks ergosterol. The only trial found tests a different drug. Posaconazole is marketed.
 
+<!-- review:begin eu-lic-20261106-posaconazole-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Posaconazole is marketed, with 3 of 3 licences valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 4 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-posaconazole-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data to confirm or refute any anti-Pneumocystis activity
 - In vitro or animal evidence of posaconazole activity against *Pneumocystis jirovecii*
@@ -112,6 +128,20 @@ The pneumocystosis prediction has a high model score but no direct clinical evid
 - Clarification of the current EU regulatory status and the reasons for the cancellations
 - SmPC warnings and contraindications for a full safety assessment
 - If a repurposing lead is wanted, consider vulvovaginal candidiasis in azole-refractory disease, which is mechanistically more plausible but needs clinical studies. It remains a research question only.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All three authorizations are valid, so posaconazole is currently marketed with valid authorization in the data compiled for this report" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "with 3 of 3 licences valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

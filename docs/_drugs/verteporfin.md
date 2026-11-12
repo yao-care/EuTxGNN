@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 665
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Verteporfin"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"]
 description: "Verteporfin: predicted new indication Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (evidence level L5). Approved use: Visudyne is indicated for the treatment of: adul…"
@@ -71,9 +71,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000305 | Visudyne | verteporfin | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -92,11 +96,37 @@ For label-based warnings and contraindications, please refer to the SmPC.
 **Rationale:**
 The prediction rests only on a model score. No clinical trials or publications support it, and there is no plausible mechanistic link. The photosensitizer's reactive oxygen species may even be harmful in mitochondrial disease.
 
+<!-- review:begin eu-lic-20261106-verteporfin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The photosensitizer's reactive oxygen species may even be harmful in mitochondrial disease. The EU authorization has also been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-verteporfin-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, to assess biological plausibility
 - Preclinical evidence in mitochondrial disease models, including the effect of reactive oxygen species generation
 - Label-based safety information (warnings and contraindications) from the SmPC
 - Clarification of the available routes of administration, including light delivery
+
+<!-- review:begin eu-lic-20261106-verteporfin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the EU authorization was cancelled and of the available routes of administration, including light delivery" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-verteporfin-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "of why the EU authorization was cancelled and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "The EU authorization has also been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

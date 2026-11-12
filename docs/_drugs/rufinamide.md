@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 541
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Rufinamide"
 predicted_indications: ["perioral myoclonia with absences"]
 description: "Rufinamide: predicted new indication Perioral myoclonia with absences (evidence level L5). Approved use: Inovelon is indicated as adjunctive therapy in the treatment of seizu…"
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000660 | Inovelon | rufinamide | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -94,12 +98,31 @@ Please refer to the SmPC for label warnings and contraindications.
 **Rationale:**
 The prediction rests on a model score alone (Evidence Level L5), with no trials or literature for FIRES. The mechanism is only partly aligned, because it addresses seizures but not neuroinflammation.
 
+<!-- review:begin eu-lic-20261031-rufinamide-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The mechanism is only partly aligned, because it addresses seizures but not neuroinflammation. The only EU authorisation is also cancelled, which may limit practical availability." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-rufinamide-1 -->
+
 **To proceed, the following is needed:**
 - Clinical or observational data on rufinamide in FIRES, such as case series or registry data.
 - Mechanism of action data, to assess fit with the inflammatory drivers of FIRES.
 - The SmPC warnings and contraindications, as well as the current availability of rufinamide in the EU.
 - An assessment of dosage forms and routes suitable for the target population, since route compatibility has not been evaluated.
 - A review of the more evidence-supported alternatives from the same analysis, as a possible redirect.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorisation is also cancelled, which may limit practical availability" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

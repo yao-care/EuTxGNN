@@ -75,6 +75,8 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000221 | Karvezide | irbesartan; hydrochlorothiazide | Valid |
@@ -96,6 +98,8 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | EMEA/H/C/002017 | Rasitrio | aliskiren; amlodipine; hydrochlorothiazide | Withdrawn |
 | EMEA/H/C/002420 | Riprazo HCT | aliskiren; hydrochlorothiazide | Withdrawn |
 | EMEA/H/C/002421 | Sprimeo HCT | aliskiren; hydrochlorothiazide | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

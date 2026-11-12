@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 463
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Panitumumab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Adult patients with wild-type RAS metastatic colorectal cancer (mCRC)…"
 monitor_inn: "Panitumumab"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy"]
@@ -68,9 +68,13 @@ The link to drug-induced osteoporosis is speculative. In preclinical settings, E
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000741 | Vectibix | panitumumab | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -107,12 +111,38 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction rests only on a computational score, with no registered clinical trials and no publications. Mechanism of action, warnings, and contraindications are missing.
 
+<!-- review:begin eu-lic-20261106-panitumumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The EU authorization in the data is cancelled, and mechanism of action, warnings, and contraindications are missing." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-panitumumab-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank)
 - Warnings and contraindications from the EMA product information, to allow safety screening
 - Preclinical or mechanistic studies of EGFR blockade in bone remodeling and osteoporosis models
 - A literature and trial search specific to drug-induced osteoporosis
 - A risk-benefit assessment, given systemic EGFR-inhibitor toxicity and the availability of established osteoporosis therapies
+
+<!-- review:begin eu-lic-20261031-panitumumab-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "A literature and trial search specific to drug-induced osteoporosis / Verification of the current EU marketing status of Vectibix, since only a cancelled authorization is recorded" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-panitumumab-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Verification of the current EU marketing status of Vectibix, since only a cancelled authorization is recorded" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "The EU authorization in the data is cancelled, and m" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

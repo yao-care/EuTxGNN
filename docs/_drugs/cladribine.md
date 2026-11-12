@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 151
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cladribine: predicted new indication Parameningeal embryonal rhabdomyosarcoma (evidence level L5). Approved use: Treatment of adult patients with highly active relapsing multiple scl…"
 monitor_inn: "Cladribine"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "liver sarcoma"]
@@ -72,12 +72,22 @@ Currently no related literature available for the lead prediction.
 
 Among the lower-ranked predictions, the only publication found is PMID [15241520](https://pubmed.ncbi.nlm.nih.gov/15241520/) (2004, case report, *Der Hautarzt*). It describes successful cladribine therapy in smoldering systemic mastocytosis, linked to the "liver sarcoma" prediction. This is a haematologic neoplasm, so it does not support efficacy in rhabdomyosarcoma or liver sarcoma.
 
+<!-- review:begin eu-lic-20261106-cladribine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both authorizations are listed as cancelled in the data compiled for this report." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-cladribine-1 -->
+
 ## EU Market Information
+
+<!-- licenses:begin -->
 
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000504 | Litak | cladribine | Valid |
 | EMEA/H/C/004230 | Mavenclad | cladribine | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -105,6 +115,12 @@ Label-based warnings and contraindications were not available. Please refer to t
 **Rationale:**
 The prediction is supported only by a TxGNN model (deep learning) score. There are no clinical trials or publications for rhabdomyosarcoma, and the pharmacology of cladribine (selective for lymphoid cells) does not clearly fit this tumour type. The safety profile includes significant myelosuppression risk.
 
+<!-- review:begin eu-lic-20261106-cladribine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both EU authorizations are cancelled, and the safety profile includes significant myelosuppression risk." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-cladribine-2 -->
+
 **To proceed, the following is needed:**
 - Preclinical data on cladribine in rhabdomyosarcoma cell lines or models, including dCK and 5'-nucleotidase expression
 - Mechanism of action data (MOA)
@@ -112,6 +128,27 @@ The prediction is supported only by a TxGNN model (deep learning) score. There a
 - Clarification of the current EU regulatory status
 - Comparison against established rhabdomyosarcoma chemotherapy regimens
 - A myelosuppression and immunosuppression risk assessment for a paediatric and young adult population
+
+<!-- review:begin eu-lic-20261106-cladribine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current EU regulatory status, since both authorizations are cancelled" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-cladribine-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both authorizations are listed as cancelled in the data compiled for this report" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Both EU authorizations are cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "since both authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

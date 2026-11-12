@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 387
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Maraviroc: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Treatment of treatment-experienced adults…"
 monitor_inn: "Maraviroc"
 predicted_indications: ["multiple endocrine neoplasia", "acne (disease)", "primary cutaneous T-cell lymphoma", "pediatric systemic lupus erythematosus", "primary cutaneous T-cell non-Hodgkin lymphoma", "primary cutaneous B-cell lymphoma", "candidiasis", "complement component 4a deficiency", "cytomegalovirus infection", "HER2 positive breast carcinoma"]
@@ -79,9 +79,13 @@ Currently no related literature available for multiple endocrine neoplasia.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000811 | Celsentri | maraviroc | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -97,6 +101,12 @@ Please refer to the SmPC for the full safety information, including warnings and
 **Rationale:**
 The prediction for multiple endocrine neoplasia rests only on a computational score, with no clinical trials, no literature and no established mechanistic link.
 
+<!-- review:begin eu-lic-20261106-maraviroc-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The prediction for multiple endocrine neoplasia rests only on a computational score, with no clinical trials, no literature and no established mechanistic link. In addition, the only EU authorization for maraviroc has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-maraviroc-1 -->
+
 **To proceed, the following is needed:**
 - Mechanistic evidence linking CCR5 signalling to multiple endocrine neoplasia (MEN1 or RET-driven disease)
 - Preclinical or clinical studies of maraviroc in this indication
@@ -104,6 +114,26 @@ The prediction for multiple endocrine neoplasia rests only on a computational sc
 - Warnings and contraindications from the SmPC to enable safety screening
 - Clarification of the available dosage forms and routes
 - Consideration of prioritising HER2-positive breast carcinoma (CCR5/CCL5-mediated trastuzumab resistance) as a better-supported research question
+
+<!-- review:begin eu-lic-20261106-maraviroc-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled EU authorization status and the available dosage forms and routes" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-maraviroc-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "In addition, the only EU authorization for maraviroc has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "the cancelled EU authorization status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

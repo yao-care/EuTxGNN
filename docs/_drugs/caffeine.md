@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 120
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Caffeine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Treatment of primary apnoea of premature newborns"
 monitor_inn: "Caffeine"
 predicted_indications: ["nasal cavity disease", "thrombotic disease", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
@@ -76,10 +76,14 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001014 | Peyona | Caffeine citrate | Valid |
 | EMEA/H/C/005435 | Gencebok | Caffeine citrate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -103,6 +107,12 @@ Label-based warnings and contraindications were not available; please refer to t
 **Rationale:**
 The prediction is supported only by a high model score (L5). There are no clinical trials, and the literature does not show a therapeutic effect in nasal cavity disease. In addition, label safety data were not available.
 
+<!-- review:begin eu-lic-20261106-caffeine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, all EU authorisations for caffeine in this dataset are cancelled, and label safety data were not available." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-caffeine-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a clear rationale linking caffeine to nasal cavity disease
 - Label warnings and contraindications from the SmPC
@@ -110,9 +120,29 @@ The prediction is supported only by a high model score (L5). There are no clinic
 - Assessment of route and formulation
 - Review of the cardiovascular, neurological and interaction risks, particularly with nasal cocaine
 
+<!-- review:begin eu-lic-20261106-caffeine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Assessment of route and formulation, since the cancelled products' dosage forms are not recorded" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-caffeine-2 -->
+
 ### Other Predicted Indications Reviewed (for reference)
 
 Of the other predicted indications, **hypnic headache** has the most support: reviews describe caffeine as a first-line option, but there are no controlled trials (L4). **Neuralgia** and **trigeminal autonomic cephalalgia** are L4, with preclinical or indirect evidence only. The remaining indications (thrombotic disease, vein disease, acute laryngopharyngitis, papillary conjunctivitis, glossodynia, coccygodynia) have little or no supporting evidence and are best held.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "all EU authorisations for caffeine in this dataset are cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "since the cancelled products' dosage forms are not recorded" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

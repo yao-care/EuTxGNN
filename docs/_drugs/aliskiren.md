@@ -69,6 +69,8 @@ Currently no related literature available for this predicted indication.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000780 | Rasilez | aliskiren | Valid |
@@ -81,6 +83,8 @@ Currently no related literature available for this predicted indication.
 | EMEA/H/C/002073 | Rasilamlo | aliskiren; amlodipine | Withdrawn |
 | EMEA/H/C/002420 | Riprazo HCT | aliskiren; hydrochlorothiazide | Withdrawn |
 | EMEA/H/C/002421 | Sprimeo HCT | aliskiren; hydrochlorothiazide | Withdrawn |
+
+<!-- licenses:end -->
 
 This is a single-ingredient product with a valid status.
 

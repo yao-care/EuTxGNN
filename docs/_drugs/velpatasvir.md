@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 661
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Velpatasvir: predicted new indication Hepatitis B virus infection (evidence level L3). Approved use: Chronic hepatitis C virus (HCV) infection in patients 3 years of age…"
 monitor_inn: "Velpatasvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -88,10 +88,14 @@ The clinically relevant connection is narrower. In patients co-infected with HCV
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004210 | Epclusa | sofosbuvir; velpatasvir | Valid |
 | EMEA/H/C/004350 | Vosevi | sofosbuvir; velpatasvir; voxilaprevi | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -110,11 +114,37 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 Velpatasvir targets HCV NS5A, which HBV lacks, and none of the retrieved trials or publications tests it against HBV. The high TxGNN score appears to reflect network proximity among viral hepatitis diseases. The evidence supports only managing HBV reactivation risk during HCV therapy.
 
+<!-- review:begin eu-lic-20261106-velpatasvir-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The evidence supports only managing HBV reactivation risk during HCV therapy. Both EU authorizations are also cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-velpatasvir-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, and in vitro evidence of any velpatasvir activity against HBV
 - Results of NCT04997564 on HBV reactivation outcomes in HCV/HBV co-infection
 - Safety information (warnings and contraindications) from the SmPC
 - Clarification of the current EU regulatory status
+
+<!-- review:begin eu-lic-20261106-velpatasvir-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current EU regulatory status, given that both authorizations are cancelled" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-velpatasvir-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both EU authorizations are also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "given that both authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -81,9 +81,13 @@ Older clinical reports show that imipenem-cilastatin was active against methicil
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004808 | Recarbrio | imipenem monohydrate; cilastatin sodium; relebactam monohydrate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

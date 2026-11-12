@@ -72,11 +72,15 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Melatonin
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000695 | Circadin | melatonin | Valid |
 | EMEA/H/C/004425 | Slenyto | melatonin | Valid |
 | EMEA/H/C/005603 | Melatonin Neurim | melatonin | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

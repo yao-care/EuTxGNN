@@ -71,10 +71,14 @@ Currently no related literature available for punctate epithelial keratoconjunct
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002693 | Fortacin | lidocaine; prilocaine | Valid |
 | EMEA/H/C/005298 | Senstend | lidocaine; prilocaine | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

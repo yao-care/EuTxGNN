@@ -79,11 +79,15 @@ An important caveat: in the one randomized trial, hydrocortisone 1% was the weak
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002185 | Plenadren | hydrocortisone | Valid |
 | EMEA/H/C/004416 | Alkindi | hydrocortisone | Valid |
 | EMEA/H/C/005105 | Efmody | hydrocortisone | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

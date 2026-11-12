@@ -96,10 +96,14 @@ Two further trials (NCT01397591, terminated with 3 patients; NCT01263418, withdr
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005410 | Kesimpta | ofatumumab | Valid |
 | EMEA/H/C/001131 | Arzerra | ofatumumab | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

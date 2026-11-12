@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 225
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Enfortumab Vedotin: predicted new indication Leprosy (evidence level L5). Approved use: Padcev, in combination with pembrolizumab…"
 monitor_inn: "Enfortumab vedotin"
 predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "malignant catarrh", "infectious bovine rhinotracheitis"]
@@ -82,6 +82,12 @@ There are no clinical trials for the top-ranked prediction (leprosy). The only r
 
 There is currently no related literature for leprosy. The literature below was retrieved for other predictions and offers only indirect context:
 
+<!-- review:begin eu-lic-20261106-enfortumab_vedotin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "This authorization is listed as cancelled in the data compiled for this report." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-enfortumab_vedotin-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [42647281](https://pubmed.ncbi.nlm.nih.gov/42647281/) | 2026 | Case report | Reports (MDPI) | Severe diffuse ulcerative esophagitis after enfortumab vedotin plus pembrolizumab in metastatic urothelial carcinoma (a safety report, relevant to the cytomegalovirus prediction) |
@@ -96,9 +102,13 @@ There is currently no related literature for leprosy. The literature below was r
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005392 | Padcev | Enfortumab vedotin | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -130,12 +140,39 @@ For warnings and contraindications, please refer to the SmPC.
 **Rationale:**
 The leprosy prediction rests only on a model score of 0.9953, with no clinical trials, no literature and no plausible mechanistic link. The same applies to the other top-ranked predictions. HER2-positive breast carcinoma is the only one with a plausible rationale and a registered trial, but that evidence is indirect and rated L4.
 
+<!-- review:begin eu-lic-20261106-enfortumab_vedotin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The leprosy prediction rests only on a model score of 0.9953, with no clinical trials, no literature and no plausible mechanistic link. The Padcev EU marketing authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-enfortumab_vedotin-2 -->
+
 **To proceed, the following is needed:**
 - Confirmation of whether NCT04225117 includes a breast cancer cohort, and its results if available
 - Nectin-4 expression data in the proposed target tissue (for example HER2-positive and triple-negative breast cancer)
 - Detailed mechanism of action data
 - SmPC warnings and contraindications
 - A safety review of the Major clarithromycin interaction and the many antidiabetic interactions before any new use is considered
+
+<!-- review:begin eu-lic-20261106-enfortumab_vedotin-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "SmPC warnings and contraindications, and clarification of the reasons for and implications of the cancelled EU authorization" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-enfortumab_vedotin-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "This authorization is listed as cancelled in the data compiled for this report" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "The Padcev EU marketing authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "and clarification of the reasons for and implications of the cancelled EU authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

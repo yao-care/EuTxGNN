@@ -73,6 +73,8 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000722 | Januvia | sitagliptin | Valid |
@@ -89,6 +91,8 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | EMEA/H/C/005678 | Sitagliptin / Metformin hydrochloride Mylan | sitagliptin hydrochloride monohydrate; metformin hydrochloride | Valid |
 | EMEA/H/C/005778 | Sitagliptin / Metformin hydrochloride Sun | sitagliptin fumarate; metformin hydrochloride | Valid |
 | EMEA/H/C/005850 | Sitagliptin / Metformin hydrochloride Accord | metformin hydrochloride; sitagliptin hydrochloride monohydrate | Lapsed |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

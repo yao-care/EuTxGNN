@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 103
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Brentuximab Vedotin: predicted new indication Follicular lymphoma (evidence level L3). Approved use: Hodgkin lymphoma (CD30+ Hodgkin lymphoma…"
 monitor_inn: "Brentuximab vedotin"
 predicted_indications: ["follicular lymphoma", "myeloid leukemia", "acute lymphoblastic/lymphocytic leukemia", "B-cell neoplasm", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "Richter syndrome", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
@@ -60,6 +60,12 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Follicular lymphoma is a B-cell lymphoma, and the link to the original indications is weak. CD30 is expressed on only a minority of follicular lymphoma cells, so the mechanistic rationale is limited. The supplied literature is mostly about peripheral T-cell lymphoma rather than follicular lymphoma. The high model score should therefore be read as a hypothesis to test, not as evidence of benefit.
 
+<!-- review:begin eu-lic-20261106-brentuximab_vedotin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "This authorization is recorded as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-brentuximab_vedotin-2 -->
+
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
@@ -86,9 +92,13 @@ Follicular lymphoma is a B-cell lymphoma, and the link to the original indicatio
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002455 | Adcetris | Brentuximab vedotin | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -117,6 +127,26 @@ The mechanistic link is weak because CD30 is expressed on only a minority of fol
 - Results from the ongoing phase 2 trial of brentuximab vedotin plus bendamustine in relapsed/refractory follicular lymphoma (NCT04587687)
 - Data on CD30 expression rates in follicular lymphoma, to identify a responsive subset
 - Mechanism of action data and the SmPC warnings and contraindications
+
+<!-- review:begin eu-lic-20261031-brentuximab_vedotin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Mechanism of action data and the SmPC warnings and contraindications / Clarification of the EU regulatory status, since the only authorization is recorded as cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-brentuximab_vedotin-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Clarification of the EU regulatory status, since the only authorization is recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "This authorization is recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

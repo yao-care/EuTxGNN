@@ -76,10 +76,14 @@ This gives a plausible biological rationale for the prediction. However, the ava
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000273 | Rapamune | sirolimus | Valid |
 | EMEA/H/C/005896 | Hyftor | sirolimus | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

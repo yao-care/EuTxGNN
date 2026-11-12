@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 575
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 description: "Spironolactone: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: In the management of refractory oedema associated with congestive car…"
@@ -86,9 +86,13 @@ Use in men is limited by feminising effects.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005535 | Qaialdo | spironolactone | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -110,6 +114,25 @@ The evidence is still modest (one small trial of 40 participants, results not co
 - Detailed mechanism of action data (MOA)
 - Package insert warnings and contraindications from the SmPC
 - A monitoring plan for potassium and renal function, and a contraception requirement
+
+<!-- review:begin eu-lic-20261031-spironolactone-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "A monitoring plan for potassium and renal function, and a contraception requirement / Confirmation of current EU availability, since the only authorisation is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-spironolactone-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Confirmation of current EU availability, since the only authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

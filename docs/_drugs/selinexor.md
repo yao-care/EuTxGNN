@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 553
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Selinexor: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Multiple myeloma: in combination with bortezomib and dexamethasone af…"
 monitor_inn: "Selinexor"
 predicted_indications: ["drug-induced osteoporosis"]
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005127 | Nexpovio | selinexor | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -99,11 +103,30 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction for drug-induced osteoporosis is model-only (Evidence Level L5), with no trials or literature, and no plausible bone-related mechanism.
 
+<!-- review:begin eu-lic-20261031-selinexor-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction for drug-induced osteoporosis is model-only (Evidence Level L5), with no trials or literature, and no plausible bone-related mechanism. The only EU authorization is cancelled, and the safety label data are incomplete." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-selinexor-1 -->
+
 **To proceed, the following is needed:**
 - Mechanistic or preclinical evidence linking XPO1 inhibition to bone metabolism
 - Mechanism of action data (MOA)
 - Warnings and contraindications from the SmPC
 - An assessment of whether selinexor's known toxicities (weight loss, anorexia) could worsen bone health
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization is cancelled, and the safety label data are incomplete" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

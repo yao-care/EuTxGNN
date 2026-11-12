@@ -76,10 +76,14 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000644 | Tygacil | tigecycline | Valid |
 | EMEA/H/C/005114 | Tigecycline Accord | tigecycline | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

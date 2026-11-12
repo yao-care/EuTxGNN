@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 88
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Bempedoic Acid: predicted new indication Hyperthyroidism (evidence level L5). Approved use: Primary hypercholesterolaemia (heterozygous familial and non-familial…"
 monitor_inn: "Bempedoic acid"
 predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "malignant catarrh", "infectious bovine rhinotracheitis", "cytomegalovirus infection", "hyperthyroxinemia", "drug-induced osteoporosis", "multiple endocrine neoplasia", "pregnancy associated osteoporosis"]
@@ -79,10 +79,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004958 | Nilemdo | bempedoic acid | Valid |
 | EMEA/H/C/004959 | Nustendi | bempedoic acid; ezetimibe | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -103,11 +107,37 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction rests only on a model score, with no clinical trials, no literature, and no plausible mechanistic link between ATP-citrate lyase inhibition and hyperthyroidism.
 
+<!-- review:begin eu-lic-20261106-bempedoic_acid-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The prediction rests only on a model score, with no clinical trials, no literature, and no plausible mechanistic link between ATP-citrate lyase inhibition and hyperthyroidism. The EU authorization is also currently cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-bempedoic_acid-1 -->
+
 **To proceed, the following is needed:**
 - Mechanistic evidence linking the drug's pharmacology to thyroid hormone excess, supported by preclinical or mechanism studies
 - Detailed mechanism of action data
 - Warnings and contraindications from the SmPC for the safety screen
 - A separate evaluation of the better-supported HoFH prediction, if a candidate with real-world evidence is preferred
+
+<!-- review:begin eu-lic-20261106-bempedoic_acid-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Warnings and contraindications from the SmPC for the safety screen / Clarification of the regulatory status of the cancelled EU authorization" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-bempedoic_acid-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorization is also currently cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Clarification of the regulatory status of the cancelled EU authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

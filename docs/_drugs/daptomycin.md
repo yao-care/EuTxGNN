@@ -85,10 +85,14 @@ None of these studies tests daptomycin as a treatment for degenerative osteoarth
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000637 | Cubicin | daptomycin | Valid |
 | EMEA/H/C/004310 | Daptomycin Hospira | daptomycin | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

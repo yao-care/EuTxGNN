@@ -50,6 +50,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004174 | Ozempic | semaglutide | Valid |
@@ -57,6 +59,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | EMEA/H/C/005422 | Wegovy | semaglutide | Valid |
 | EMEA/H/C/006426 | Kayshild | semaglutide | Valid |
 | EMEA/H/C/006279 | Kyinsu | insulin icodec; semaglutide | Valid |
+
+<!-- licenses:end -->
 
 ---
 

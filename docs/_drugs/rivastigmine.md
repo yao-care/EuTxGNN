@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 533
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Rivastigmine: predicted new indication Glaucoma (evidence level L5). Approved use: Symptomatic treatment of mild to moderately severe Alzheimer's dement…"
 monitor_inn: "Rivastigmine"
 predicted_indications: ["glaucoma"]
@@ -77,6 +77,20 @@ Currently no related clinical trials registered.
 
 Dosage form is not available in the compiled data.
 
+<!-- review:begin eu-lic-20261106-rivastigmine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Rivastigmine is marketed in this country, with 6 valid licences out of 6. Dosage form is not available in the compiled data." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 7 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-rivastigmine-1 -->
+
+<!-- review:begin eu-lic-20261106-rivastigmine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "(A sixth cancelled authorization, Rivastigmine Sandoz, EMEA/H/C/001183, carries the same indication.)" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 7 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-rivastigmine-3 -->
+
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000169 | Exelon | rivastigmine | Valid |
@@ -88,6 +102,8 @@ Dosage form is not available in the compiled data.
 | EMEA/H/C/002036 | Rivastigmine Actavis | rivastigmine hydrogen tartrate | Valid |
 | EMEA/H/C/001044 | Rivastigmine Teva | rivastigmine | Withdrawn |
 | EMEA/H/C/003824 | Rivastigmine 3M Health Care Ltd | rivastigmine | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -113,12 +129,40 @@ Please refer to the SmPC for label warnings and contraindications.
 **Rationale:**
 The glaucoma prediction has a plausible mechanism and one animal study showing IOP reduction. However, there are no human trials, and the evidence level is L4. The drug is marketed in this country, and the knowledge graph flags several relevant contraindications, especially cardiac conduction and respiratory disease, which are common in older glaucoma patients.
 
+<!-- review:begin eu-lic-20261106-rivastigmine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in this country with 6 valid licences out of 6, and the knowledge graph flags several relevant contraindications, especially cardiac conduction and respiratory disease, which are common in older glaucoma patients." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 7 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-rivastigmine-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and the SmPC warnings and contraindications (currently missing)
 - Confirmation of the pharmacology and efficacy in human or additional preclinical models, including dose-response
 - A topical ophthalmic formulation and its local and systemic tolerability, including ocular safety
 - A plan for managing the cardiac, respiratory and gastrointestinal risks and the interaction with bupropion
 - Clarification of the regulatory pathway for any new use
+
+<!-- review:begin eu-lic-20261106-rivastigmine-4 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the EU authorizations were cancelled, and of the regulatory pathway for any new use" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 7 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-rivastigmine-4 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Rivastigmine is marketed in this country, with 6 valid licences out of 6" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "with 6 valid licences out of 6" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "(A sixth cancelled authorization, Rivastigmine Sandoz, EMEA/H/C/001183, carries the same indication.)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "of why the EU authorizations were cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 562
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Siltuximab"
 predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "Kaposi's sarcoma (disease)", "autosomal recessive familial Mediterranean fever", "aggressive systemic mastocytosis", "autosomal dominant familial periodic fever"]
 description: "Siltuximab: predicted new indication Extracutaneous mastocytoma (evidence level L5). Approved use: Sylvant is indicated for the treatment of adult patients with multice…"
@@ -71,9 +71,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003708 | Sylvant | siltuximab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -91,11 +95,37 @@ For warnings and contraindications, please refer to the SmPC.
 **Rationale:**
 The prediction for extracutaneous mastocytoma rests only on a model score. It has no clinical trials, no literature, and no clear mechanistic rationale.
 
+<!-- review:begin eu-lic-20261031-siltuximab-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "It has no clinical trials, no literature, and no clear mechanistic rationale. The only EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-siltuximab-1 -->
+
 **To proceed, the following is needed:**
 - Mechanistic evidence linking IL-6 blockade to mast cell neoplasms, supported by preclinical or early clinical data
 - Detailed mechanism of action data
 - Warnings and contraindications from the SmPC, to allow a safety screening
 - Clarification of the current availability of the product
+
+<!-- review:begin eu-lic-20261106-siltuximab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled EU authorization and the current availability of the product" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-siltuximab-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "the cancelled EU authorization and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

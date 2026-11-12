@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 119
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cabozantinib: predicted new indication Liposarcoma (evidence level L5). Approved use: Progressive…"
 monitor_inn: "Cabozantinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "angiolipoma"]
@@ -86,10 +86,14 @@ Note that lower-ranked predictions have more evidence than the top-ranked one. U
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002640 | Cometriq | cabozantinib | Valid |
 | EMEA/H/C/004163 | Cabometyx | cabozantinib (s)-malate | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -115,6 +119,12 @@ Note that lower-ranked predictions have more evidence than the top-ranked one. U
   - Granisetron
   - Levofloxacin
 
+<!-- review:begin eu-lic-20261106-cabozantinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The authorisation status is cancelled. The data compiled for this report suggest the "Cancelled only" status may reflect a labelling artefact for a specific product and should be verified." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-cabozantinib-1 -->
+
   Several **Moderate** interactions were also listed, including loperamide, aprepitant, dexamethasone, bisacodyl, clotrimazole and various laxatives.
 
 - **Additional note**: A Phase 1 sarcoma study (PMID 41770651) specifically examined the fistula and perforation risk when cabozantinib is combined with radiotherapy.
@@ -135,6 +145,26 @@ The liposarcoma prediction has a high model score, but its supporting evidence i
 - Detailed mechanism of action data (MOA)
 - EU safety information (warnings and contraindications) from the SmPC
 - A separate evaluation of the renal cell carcinoma indications. Unclassified RCC has Phase 2 evidence and could be considered "Proceed with Guardrails", while renal carcinoma overall has Phase 3 evidence but is not a true repurposing case.
+
+<!-- review:begin eu-lic-20261106-cabozantinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "EU safety information (warnings and contraindications) from the SmPC / Verification of the "Cancelled only" EU market status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-cabozantinib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The authorisation status is cancelled. The data compiled for this report suggest the "Cancelled only" status may reflect a labelling artefac" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Verification of the "Cancelled only" EU market status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

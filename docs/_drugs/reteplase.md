@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 520
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Reteplase"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "heparin cofactor 2 deficiency", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "antithrombin deficiency type 2", "hemolytic anemia due to glucophosphate isomerase deficiency"]
 description: "Reteplase: predicted new indication Congenital coronary artery anomaly (evidence level L5). Approved use: Rapilysin is indicated for the thrombolytic treatment of suspected my…"
@@ -77,10 +77,14 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000105 | Rapilysin | reteplase | Withdrawn |
 | EMEA/H/C/000106 | Ecokinase | reteplase | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -97,12 +101,31 @@ Warnings and contraindications were not available in the data compiled for this 
 **Rationale:**
 The predicted indication is essentially a subtype of the approved ST-elevation MI indication. No registered trials exist, and the only supporting paper is an indirect case report. The EU authorization is cancelled, and label safety data are missing.
 
+<!-- review:begin eu-lic-20261106-reteplase-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The sole EU authorization is cancelled, and label safety data are missing." Removed: it conflicted with the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 0 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-reteplase-1 -->
+
 **To proceed, the following is needed:**
 - Safety information from the SmPC (warnings and contraindications), currently a blocking gap
 - Mechanism of action data
 - Clarification of whether posterolateral MI is already covered by the existing STEMI label, which would make this a label-interpretation question rather than repurposing
 - Confirmation of the current regulatory status of reteplase in the EU, given the cancelled authorization
 - Reteplase-specific clinical evidence for the specific MI subtype, such as subgroup analyses of existing STEMI trials (e.g., GUSTO-V)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "e sol" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

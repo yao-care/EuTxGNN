@@ -76,12 +76,16 @@ Currently no related clinical trials registered.
 
 All four authorizations are currently valid.
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002569 | Vargatef | nintedanib | Valid |
 | EMEA/H/C/003821 | Ofev | nintedanib | Valid |
 | EMEA/H/C/006179 | Nintedanib Accord | nintedanib | Valid |
 | EMEA/H/C/006486 | Nintedanib Viatris | nintedanib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

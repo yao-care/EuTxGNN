@@ -107,9 +107,13 @@ Most registered trials below are multi-agent protocols in which mercaptopurine's
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002022 | Xaluprine | 6-mercaptopurine monohydrate | Valid |
+
+<!-- licenses:end -->
 
 ---
 

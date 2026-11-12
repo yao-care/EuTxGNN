@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 262
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Filgrastim: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Reduction in the duration of neutropenia and the incidence of febrile…"
 monitor_inn: "Filgrastim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
@@ -65,6 +65,12 @@ No trials were found for the top-ranked predicted indication. Currently no relat
 
 For context, seven trials were retrieved for a lower-ranked prediction, platelet-type bleeding disorder (rank 10). All are stem cell transplantation protocols for haematologic malignancies. Filgrastim is likely only supportive care or mobilisation within these regimens, and none tests it as a treatment for a bleeding disorder. They were all graded low relevance (C).
 
+<!-- review:begin eu-lic-20261106-filgrastim-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed: all 7 of 7 EU authorisations are valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 10 EU marketing authorisations for this drug, 7 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-filgrastim-1 -->
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
 | [NCT00296023](https://clinicaltrials.gov/study/NCT00296023) | NA | Completed | 25 | Low-dose allogeneic PBSC transplant for high-risk low-grade haematologic malignancies |
@@ -76,6 +82,8 @@ For context, seven trials were retrieved for a lower-ranked prediction, platelet
 | [NCT00004904](https://clinicaltrials.gov/study/NCT00004904) | Phase 1 | Completed | N/A | T-cell depleted partially matched related donor transplant with CD34 "veto" cells |
 
 ## EU Market Information
+
+<!-- licenses:begin -->
 
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
@@ -89,6 +97,8 @@ For context, seven trials were retrieved for a lower-ranked prediction, platelet
 | EMEA/H/C/000824 | Filgrastim ratiopharm | filgrastim | Withdrawn |
 | EMEA/H/C/000826 | Biograstim | filgrastim | Withdrawn |
 | EMEA/H/C/002150 | Grastofil | filgrastim | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -108,6 +118,19 @@ The prediction rests on the model score alone (L5). There are no trials or publi
 - Any preclinical or clinical evidence in platelet release disorders
 - Warnings and contraindications from the SmPC for the safety screening
 - Clarification of the EU market status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The drug is marketed: all 7 of 7 EU authorisations are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

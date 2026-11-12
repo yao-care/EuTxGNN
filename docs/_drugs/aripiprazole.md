@@ -68,6 +68,8 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000471 | Abilify | aripiprazole | Valid |
@@ -76,6 +78,8 @@ Currently no related literature available.
 | EMEA/H/C/003899 | Aripiprazole Zentiva | aripiprazole | Valid |
 | EMEA/H/C/004008 | Aripiprazole Sandoz | aripiprazole | Valid |
 | EMEA/H/C/004021 | Aripiprazole Accord | aripiprazole | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

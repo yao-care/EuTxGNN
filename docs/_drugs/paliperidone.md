@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 460
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Paliperidone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia in adults and adolescents 15 years and older"
 monitor_inn: "Paliperidone"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
@@ -82,6 +82,8 @@ Currently no related literature available for retinal dystrophy.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000746 | Invega | paliperidone | Valid |
@@ -89,6 +91,8 @@ Currently no related literature available for retinal dystrophy.
 | EMEA/H/C/004066 | Trevicta | paliperidone palmitate | Valid |
 | EMEA/H/C/005486 | Byannli | paliperidone palmitate | Valid |
 | EMEA/H/C/006185 | Niapelf | paliperidone palmitate | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -116,11 +120,30 @@ Please refer to the SmPC for label warnings and contraindications.
 **Rationale:**
 The prediction is supported only by a model score. The extensive safety signals (QT prolongation, metabolic effects, neutropenia) would also need justification in a non-psychiatric population.
 
+<!-- review:begin eu-lic-20261031-paliperidone-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction is supported only by a model score. There are no trials or publications, no plausible mechanistic link, and the only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 5 EU marketing authorisations for this drug, 5 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-paliperidone-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a testable biological hypothesis linking paliperidone to retinal degeneration
 - Preclinical evidence in retinal dystrophy models
 - Label warnings and contraindications from the EU product information
 - A benefit-risk rationale for a non-psychiatric population, given the safety signals above
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "There are no trials or publications, no plausible mechanistic link, and the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -72,6 +72,8 @@ The TxGNN deep-learning model produced candidates for Carbidopa with a score of 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000511 | Stalevo | levodopa; carbidopa; entacapone | Valid |
@@ -80,6 +82,8 @@ The TxGNN deep-learning model produced candidates for Carbidopa with a score of 
 | EMEA/H/C/006429 | Onerji | levodopa; carbidopa | Valid |
 | EMEA/H/C/006629 | Hopledo | carbidopa monohydrate; levodopa | Valid |
 | EMEA/H/C/002611 | Numient | levodopa; carbidopa | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

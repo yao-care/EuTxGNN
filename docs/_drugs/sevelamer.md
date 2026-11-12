@@ -73,12 +73,16 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000254 | Renagel | sevelamer | Valid |
 | EMEA/H/C/000993 | Renvela | sevelamer carbonate | Valid |
 | EMEA/H/C/003971 | Sevelamer carbonate Winthrop | sevelamer carbonate | Valid |
 | EMEA/H/C/003968 | Tasermity | sevelamer hydrochloride | Lapsed |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -84,6 +84,8 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Rituximab, s
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000165 | MabThera | rituximab | Valid |
@@ -95,6 +97,8 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Rituximab, s
 | EMEA/H/C/006224 | Ituxredi | rituximab | Valid |
 | EMEA/H/C/004724 | Rituzena | rituximab | Withdrawn |
 | EMEA/H/C/004725 | Ritemvia | rituximab | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

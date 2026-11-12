@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 527
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Risankizumab: predicted new indication Dermatitis (evidence level L2). Approved use: Moderate to severe plaque psoriasis in adults who are candidates for…"
 monitor_inn: "Risankizumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
@@ -86,9 +86,13 @@ The published literature suggests risankizumab may be most relevant to psoriasis
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004759 | Skyrizi | risankizumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -104,13 +108,39 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 A completed Phase 2 RCT (n=172) exists for atopic dermatitis, which supports an L2 evidence level, but its efficacy results are not available in the compiled data. Atopic dermatitis is mainly Th2-driven, and there are reports of eczema arising during risankizumab treatment. This is best treated as a research question until the trial results are reviewed.
 
+<!-- review:begin eu-lic-20261106-risankizumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Atopic dermatitis is mainly Th2-driven, and there are reports of eczema arising during risankizumab treatment. The market authorisation is also recorded as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-risankizumab-1 -->
+
 **To proceed, the following is needed:**
 - Efficacy and safety results of NCT03706040 and PMID 36588137
 - Mechanism of action data
 - Warnings and contraindications from the SmPC
 - Assessment of whether the psoriasis-overlap or paradoxical eczema phenotype is a better target than classical atopic dermatitis
 
+<!-- review:begin eu-lic-20261106-risankizumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Warnings and contraindications from the SmPC / Clarification of the cancelled EU authorisation status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-risankizumab-2 -->
+
 **Other predictions:** Predictions ranked 2 to 10 (including neonatal dermatomyositis, amyopathic dermatomyositis, acrodermatitis chronica atrophicans, acne keloid and pityriasis lichenoides) have no clinical trials or literature, rest only on the model score (Evidence Level L5), and are recommended as **Hold**.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The market authorisation is also recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Clarification of the cancelled EU authorisation status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

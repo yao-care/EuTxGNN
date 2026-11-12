@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Esomeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Esomeprazole: predicted new indication duodenal obstruction (evidence level L5). Approved use: Nexium Control is indicated for the short-term treatment of reflux sy…"
 ---
 
@@ -67,11 +67,21 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin eu-lic-20261106-esomeprazole-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The EU authorization record for this single-ingredient product is marked as cancelled in the compiled licence list, while the overall market status is recorded as marketed." Removed: it described the products as single-ingredient or combination products in a way that did not match the EMA data (the EMA medicines data as of 2026-11-06). Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-esomeprazole-1 -->
+
 ## EU Market Information
+
+<!-- licenses:begin -->
 
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002618 | Nexium Control | esomeprazole | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -94,6 +104,19 @@ The prediction rests only on a model score (0.9945). No clinical trials or publi
 - Mechanism of action data and a clear rationale for how acid suppression would help
 - Review of the SmPC warnings and contraindications
 - Review of the major drug interactions for the intended patient population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorization record for this single-ingredient product is marked as cancelled in the compiled licence list, while the overall market" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

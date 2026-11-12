@@ -50,10 +50,14 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/006016 | Imjudo | tremelimumab | Valid |
 | EMEA/H/C/004650 | Tremelimumab AstraZeneca | tremelimumab | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 

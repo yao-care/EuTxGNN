@@ -71,9 +71,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003955 | Idelvion | albutrepenonacog alfa | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

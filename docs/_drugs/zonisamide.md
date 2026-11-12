@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 687
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Zonisamide"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
 description: "Zonisamide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Zonegran is indicated as: monotherapy in the treatment of partial sei…"
@@ -69,6 +69,12 @@ For context, the other top-10 predictions fall into three groups:
 - **Plausible but with a safety signal:** manic bipolar affective disorder (score 0.9935, evidence level L4). Anticonvulsants are established mood stabilizers, and one open-label study examined bipolar depression (PMID 17163811). However, a case report describes zonisamide-induced mania (PMID 2109869).
 - **Likely model artifacts:** methemoglobinemia (three related entries), Prinzmetal angina, conjunctivitis and trichotillomania have no supporting data and no clear mechanistic link. Their TxGNN scores (deep learning model) may reflect similarities the model learned between related diseases, not biological evidence.
 
+<!-- review:begin eu-lic-20261031-zonisamide-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Fibromyalgia (score 0.9920) has a class-level rationale, since pregabalin and gabapentin are used for it, but its only trial was withdrawn." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-zonisamide-1 -->
+
 ---
 
 ## Clinical Trial Evidence
@@ -106,10 +112,14 @@ The literature below relates to other predicted indications and is shown for con
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000577 | Zonegran | zonisamide | Valid |
 | EMEA/H/C/004127 | Zonisamide Viatris | zonisamide | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -142,6 +152,26 @@ The Tourette syndrome prediction rests on the model score alone, with no trials 
 - Preclinical or clinical evidence in Tourette syndrome, and an assessment of the tic-induction signal
 - Clarification of the market status
 - If a nearer-term opportunity is wanted, evaluate **absence epilepsy** first, as it is an adjacent indication with small supportive studies, and compare it with controlled evidence in the guideline sources
+
+<!-- review:begin eu-lic-20261106-zonisamide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the market status, since both EU authorizations are cancelled" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-zonisamide-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Fibromyalgia (score 0.9920) has a class-level rationale, since pregabalin and gabapentin are used for it, but its only trial was withdrawn" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "since both EU authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

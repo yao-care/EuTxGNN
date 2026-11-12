@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 140
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ceritinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: ALK-positive advanced non-small cell lung cancer (NSCLC) previously t…"
 monitor_inn: "Ceritinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "junctional epidermolysis bullosa"]
@@ -81,9 +81,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003819 | Zykadia | ceritinib | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -121,11 +125,37 @@ Please refer to the SmPC for the complete warnings and contraindications.
 **Rationale:**
 The prediction rests only on a model score. No clinical trials or publications support ceritinib for gingival fibromatosis, and no biological link to ALK inhibition was identified. It carries a notable interaction and toxicity profile.
 
+<!-- review:begin eu-lic-20261106-ceritinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The only EU authorization for ceritinib is cancelled, and it carries a notable interaction and toxicity profile." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-ceritinib-1 -->
+
 **To proceed, the following is needed:**
 - Mechanistic evidence for ALK pathway involvement in gingival fibromatosis, along with detailed mechanism of action data for ceritinib
 - Preclinical or exploratory studies showing activity in relevant models
 - Safety information from the SmPC (warnings and contraindications), and a risk-benefit assessment for a benign condition
 - Clarification of the available dosage forms and routes of administration
+
+<!-- review:begin eu-lic-20261106-ceritinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled EU authorization status and the available dosage forms and routes of administration" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-ceritinib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The only EU authorization for ceritinib is cancelled, and i" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "the cancelled EU authorization status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

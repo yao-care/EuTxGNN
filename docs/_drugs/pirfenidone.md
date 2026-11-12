@@ -81,11 +81,15 @@ No literature is available for extracutaneous mastocytoma. For reference, the ta
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002154 | Esbriet | Pirfenidone | Valid |
 | EMEA/H/C/005862 | Pirfenidone Viatris | Pirfenidone | Valid |
 | EMEA/H/C/005873 | Pirfenidone axunio | Pirfenidone | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

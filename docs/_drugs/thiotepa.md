@@ -73,10 +73,14 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Thiotepa,
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001046 | Tepadina | thiotepa | Valid |
 | EMEA/H/C/005434 | Thiotepa Riemser | thiotepa | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

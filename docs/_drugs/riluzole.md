@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 523
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Riluzole: predicted new indication Bilateral parasagittal parieto-occipital polymicrogyria (evidence level L5). Approved use: Extending life or time to mechanical ventilation in amyotrophic later…"
 monitor_inn: "Riluzole"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
@@ -74,6 +74,12 @@ Currently no related clinical trials registered.
 
 No publications were found for the top-ranked prediction. The table below shows a selection of the literature compiled for the ALS-related prediction (rank 8), which is closest to riluzole's approved use. None of it is a clinical trial.
 
+<!-- review:begin eu-lic-20261106-riluzole-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both authorizations are cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-riluzole-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [9178165](https://pubmed.ncbi.nlm.nih.gov/9178165/) | 1997 | Review | Journal of Neurology | Reviews the glutamate excitotoxicity hypothesis as a major mechanism of motor neuron injury in ALS |
@@ -86,10 +92,14 @@ No publications were found for the top-ranked prediction. The table below shows 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000109 | Rilutek | riluzole | Valid |
 | EMEA/H/C/002622 | Riluzole Zentiva | riluzole | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -106,12 +116,32 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Rationale:**
 The top-ranked prediction, polymicrogyria, rests only on a TxGNN score, with no trials, no literature and no supported mechanism. All predictions other than the ALS-related ones lack supporting evidence. The ALS-related ones are either label-concordant or lack subtype-specific data.
 
+<!-- review:begin eu-lic-20261106-riluzole-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The ALS-related ones are either label-concordant or lack subtype-specific data. Both EU authorizations are cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-riluzole-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for riluzole
 - Label warnings and contraindications from the SmPC
 - Preclinical or clinical evidence linking riluzole to the predicted condition
 - For ALS subtypes (e.g., ALS type 22), subtype-specific trial or cohort evidence
 - Clarification of the current EU regulatory status and available formulations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Both EU authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 160
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Corifollitropin Alfa: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Controlled Ovarian Stimulation (COS) in combination with a GnRH antag…"
 monitor_inn: "Corifollitropin alfa"
 predicted_indications: ["gastroduodenitis", "migraine disorder", "peptic ulcer disease", "migraine with brainstem aura", "Raynaud disease", "pulmonary hypertension", "kyphoscoliotic heart disease"]
@@ -71,9 +71,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001106 | Elonva | corifollitropin alfa | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -88,10 +92,36 @@ Note that no drug interaction records were found, and no contraindications from 
 **Rationale:**
 The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanism linking FSH receptor agonism to gastroduodenitis.
 
+<!-- review:begin eu-lic-20261031-corifollitropin_alfa-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanism linking FSH receptor agonism to gastroduodenitis. The only EU authorization is cancelled, and safety data are incomplete." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-corifollitropin_alfa-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible biological rationale linking FSH receptor signaling to gastroduodenal inflammation
 - Preclinical or mechanistic studies, as no clinical data currently exist
 - Safety information from the SmPC (warnings and contraindications), which is currently missing
+
+<!-- review:begin eu-lic-20261031-corifollitropin_alfa-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Safety information from the SmPC (warnings and contraindications), which is currently missing / Clarification of the regulatory situation, given that the only EU authorization is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-corifollitropin_alfa-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization is cancelled, and safety data are incomplete" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-10-31 | Removed: "Clarification of the regulatory situation, given that the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

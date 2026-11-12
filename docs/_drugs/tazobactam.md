@@ -72,9 +72,13 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Tazobacta
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003772 | Zerbaxa | ceftolozane sulfate; tazobactam sodium | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

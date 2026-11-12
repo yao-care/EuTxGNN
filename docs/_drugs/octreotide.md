@@ -68,10 +68,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/006322 | Oczyesa | octreotide hydrochloride | Valid |
 | EMEA/H/C/005826 | Mycapssa | octreotide acetate | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

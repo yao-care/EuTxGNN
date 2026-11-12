@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 11
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Abacavir: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV infection…"
 monitor_inn: "Abacavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -83,12 +83,16 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000252 | Ziagen | abacavir | Valid |
 | EMEA/H/C/000338 | Trizivir | abacavir (as sulfate); lamivudine; zidovudine | Valid |
 | EMEA/H/C/000581 | Kivexa | abacavir; lamivudine | Valid |
 | EMEA/H/C/002754 | Triumeq | dolutegravir sodium; lamivudine; abacavir (as sulfate) | Valid |
+
+<!-- licenses:end -->
 
 The approved indication text also states that HLA-B*5701 screening must be performed before starting treatment. Abacavir must not be used in patients known to carry this allele.
 
@@ -109,12 +113,38 @@ The approved indication text also states that HLA-B*5701 screening must be perfo
 **Rationale:**
 The only evidence for SIV infection is a single in vitro study, with no clinical trials. SIV is a non-human primate infection, so it is not a meaningful new indication for patients.
 
+<!-- review:begin eu-lic-20261106-abacavir-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "SIV is a non-human primate infection, so it is not a meaningful new indication for patients. The EU authorization for the reference product is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 4 EU marketing authorisations for this drug, 4 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-abacavir-2 -->
+
 **To proceed, the following is needed:**
 - Treat this as a preclinical or model-use question only, with in vivo data in a primate model if it is pursued.
 - Detailed mechanism of action data (MOA).
 - EU label warnings and contraindications from the SmPC.
 
+<!-- review:begin eu-lic-20261031-abacavir-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "EU label warnings and contraindications from the SmPC. / Clarification of current EU availability of abacavir products, since the only record found is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 4 EU marketing authorisations for this drug, 4 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-abacavir-1 -->
+
 For reference, two other predictions for this drug have stronger support, but both fall within or near the approved HIV indication. **Congenital HIV** has a completed Phase 3 trial (NCT00102960, n=377), and **AIDS related complex** has a completed Phase 2 study (NCT00002364, n=40). If the goal is practical value, these are better candidates to review than SIV infection.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Clarification of current EU availability of abacavir products, since the only record found is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "The EU authorization for the reference product is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

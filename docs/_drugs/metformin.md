@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 396
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Metformin: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus (adjunct to diet and exercise to improve gly…"
 monitor_inn: "Metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
@@ -83,6 +83,14 @@ Currently no related literature available for focal stiff limb syndrome.
 
 The five main entries are listed below.
 
+<!-- review:begin eu-lic-20261106-metformin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed: all 19 licences (19 of 19) are valid. The five main entries are listed below." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 23 EU marketing authorisations for this drug, 19 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-metformin-1 -->
+
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000655 | Competact | pioglitazone; metformin hydrochloride | Valid |
@@ -108,6 +116,8 @@ The five main entries are listed below.
 
 Showing 20 of 23 EMA authorisations.
 
+<!-- licenses:end -->
+
 ## Safety Considerations
 
 - **Disease-level cautions from the knowledge graph** (these are graph-based contraindication links, not label text): liver failure and liver disease, kidney disease, congestive heart failure, pancreatitis, gallbladder disease, pyoureter, adrenocortical insufficiency, thymus gland disease, and a group of pituitary hormone deficiency and hypogonadotropic hypogonadism conditions.
@@ -125,12 +135,32 @@ Label-based warnings and contraindications were not available in the data compil
 **Rationale:**
 The prediction rests only on a model score of 0.9945, with no clinical trials or publications. The mechanistic link, through shared autoimmune and diabetes associations, is indirect and unproven.
 
+<!-- review:begin eu-lic-20261106-metformin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The mechanistic link, through shared autoimmune and diabetes associations, is indirect and unproven. In addition, all EU authorizations for metformin-containing products are currently cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 23 EU marketing authorisations for this drug, 19 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-metformin-2 -->
+
 **To proceed, the following is needed:**
 - Targeted literature review on metformin or AMPK modulators in stiff-person spectrum disorders and autoimmune neurological conditions
 - Mechanism of action data and a clear mechanistic rationale for stiff-limb disorders
 - Preclinical or early clinical evidence of any effect on stiffness, spasms, or autoimmunity
 - Review of the current EU regulatory status, including whether any metformin-containing product is still marketed
 - Label-based safety review (SmPC warnings and contraindications), especially for renal and hepatic impairment, and a comparison with current standard therapy for stiff-person spectrum disorders
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The drug is marketed: all 19 licences (19 of 19) are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "In addition, all EU authorizations for metformin-containing products are currently cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

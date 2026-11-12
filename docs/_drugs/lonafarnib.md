@@ -68,9 +68,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005271 | Zokinvy | Lonafarnib | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -50,12 +50,16 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002697 | Opsumit | macitentan | Valid |
 | EMEA/H/C/006523 | Macitentan AccordPharma | macitentan | Valid |
 | EMEA/H/C/006524 | Macitentan Accord | macitentan | Valid |
 | EMEA/H/C/005001 | Yuvanci | macitentan; tadalafil | Valid |
+
+<!-- licenses:end -->
 
 ---
 

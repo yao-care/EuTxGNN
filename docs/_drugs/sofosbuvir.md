@@ -91,12 +91,16 @@ One signal does support further study. A retrospective observation in patients w
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002798 | Sovaldi | sofosbuvir | Valid |
 | EMEA/H/C/003850 | Harvoni | ledipasvir; sofosbuvir | Valid |
 | EMEA/H/C/004210 | Epclusa | sofosbuvir; velpatasvir | Valid |
 | EMEA/H/C/004350 | Vosevi | sofosbuvir; velpatasvir; voxilaprevi | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 405
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Micafungin: predicted new indication Urinary tract infection (disease) (evidence level L3). Approved use: Invasive candidiasis"
 monitor_inn: "Micafungin"
 predicted_indications: ["urinary tract infection (disease)"]
@@ -81,9 +81,13 @@ These studies are small and non-randomized. No prospective randomized evidence i
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000734 | Mycamine | micafungin | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -100,6 +104,12 @@ Please refer to the SmPC for full safety information.
 **Rationale:**
 The mechanistic link for Candida UTI is plausible, and small case series and cohorts report successful treatment, including in fluconazole-resistant infections. However, the evidence is limited to observational data with no registered trials or randomized evidence. The other nine predictions have no mechanistic or clinical support.
 
+<!-- review:begin eu-lic-20261031-micafungin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "However, the evidence is limited to observational data with no registered trials or randomized evidence. The only EU authorization is cancelled, and the label's liver-tumour warning and the kidney-related contraindication signals require careful weighing." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-micafungin-1 -->
+
 **To proceed, the following is needed:**
 - The SmPC warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism-of-action data
@@ -107,6 +117,26 @@ The mechanistic link for Candida UTI is plausible, and small case series and coh
 - Pharmacokinetic data on urinary concentrations to define dosing, especially in renal impairment
 - Clarification of the regulatory status
 - A defined patient population (for example, fluconazole-resistant symptomatic Candida UTI) to avoid overtreating asymptomatic candiduria
+
+<!-- review:begin eu-lic-20261106-micafungin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory status given the cancelled EU authorization" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-micafungin-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization is cancelled, and the label's liver-tumour warning and the kidney-related contraindication signals require careful" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "given the cancelled EU authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -72,6 +72,8 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Pomalidomide
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002682 | Imnovid | Pomalidomide | Valid |
@@ -80,6 +82,8 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Pomalidomide
 | EMEA/H/C/006294 | Pomalidomide Zentiva | Pomalidomide | Valid |
 | EMEA/H/C/006302 | Pomalidomide Teva | Pomalidomide | Valid |
 | EMEA/H/C/006314 | Pomalidomide Krka | Pomalidomide | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 437
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Norelgestromin"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Norelgestromin: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Female contraception. Evra is intended for women of fertile age. The…"
@@ -69,9 +69,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000410 | Evra | norelgestromin; Ethinyl estradiol | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -93,12 +97,31 @@ Please refer to the SmPC for the official warnings and contraindications.
 **Rationale:**
 The prediction for amenorrhea is supported only by the TxGNN model score, with no clinical trials or publications. Amenorrhea is also a recognized effect of hormonal contraception, and the knowledge graph lists many disease contraindications.
 
+<!-- review:begin eu-lic-20261106-norelgestromin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Amenorrhea is also a recognized effect of hormonal contraception, the EU authorization is cancelled, and the knowledge graph lists many disease contraindications." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-norelgestromin-1 -->
+
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA)
 - Official warnings and contraindications from the SmPC
 - A literature and clinical trial search specific to norelgestromin in amenorrhea and other menstrual disorders
 - Clarification of the indication and dosage form, given that the patch is a contraceptive and not designed for treating menstrual disorders
 - Confirmation of the regulatory status and availability of any norelgestromin product in the EU
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "the EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

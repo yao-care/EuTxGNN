@@ -70,6 +70,8 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000235 | Arava | leflunomide | Valid |
@@ -78,6 +80,8 @@ Currently no related literature available.
 | EMEA/H/C/002035 | Leflunomide ratiopharm | leflunomide | Valid |
 | EMEA/H/C/001222 | Repso | leflunomide | Withdrawn |
 | EMEA/H/C/002356 | Leflunomide Teva | leflunomide | Lapsed |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

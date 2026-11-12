@@ -73,9 +73,13 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000900 | Intelence | Etravirine | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

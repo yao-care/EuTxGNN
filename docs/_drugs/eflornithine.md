@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 209
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Eflornithine: predicted new indication Esotropia (evidence level L5). Approved use: Treatment of facial hirsutism in women"
 monitor_inn: "Eflornithine"
 predicted_indications: ["esotropia", "neurotrophic keratopathy"]
@@ -71,9 +71,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000325 | Vaniqa | eflornithine | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -89,11 +93,30 @@ Please refer to the SmPC for full warnings and contraindications.
 **Rationale:**
 The esotropia prediction has no supporting trials or literature and no plausible mechanistic link (Evidence Level L5).
 
+<!-- review:begin eu-lic-20261031-eflornithine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The esotropia prediction has no supporting trials or literature and no plausible mechanistic link (Evidence Level L5). The only EU authorisation has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-eflornithine-1 -->
+
 **To proceed, the following is needed:**
 - A credible mechanistic hypothesis linking polyamine/ODC inhibition to ocular motility or binocular alignment, supported by preclinical data
 - Mechanism of action data and SmPC warnings and contraindications to enable safety screening
 - Assessment of the route of administration (the only approved product was topical, and no routes are specified for the new indication)
 - Consideration of better-supported candidates from the same prediction list. Examples are trypanosomiasis-related indications (L4, preclinical evidence only) and oncology-related uses, which could be evaluated separately.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorisation has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

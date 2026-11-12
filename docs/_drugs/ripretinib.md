@@ -72,9 +72,13 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Ripretinib, 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005614 | Qinlock | ripretinib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

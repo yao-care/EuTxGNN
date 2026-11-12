@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 176
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dasatinib: predicted new indication Ewing sarcoma (evidence level L2). Approved use: Paediatric and adult Ph+ CML (chronic phase…"
 monitor_inn: "Dasatinib"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
@@ -64,6 +64,12 @@ The link to Ewing sarcoma runs through SRC. Preclinical work shows that SRC/FAK 
 
 However, the original indication (a blood cancer driven by a fusion kinase) is biologically distant from Ewing sarcoma (a bone and soft-tissue tumour). A review notes that dasatinib failed as a single agent in Ewing sarcoma and rhabdomyosarcoma in a phase 2 study. The most plausible clinical route is therefore combination therapy, such as the RIST regimen (rapamycin, irinotecan, dasatinib, temozolomide), which has so far only been described in a small case series.
 
+<!-- review:begin eu-lic-20261106-dasatinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both authorizations are listed as cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 4 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-dasatinib-1 -->
+
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
@@ -86,12 +92,16 @@ However, the original indication (a blood cancer driven by a fusion kinase) is b
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000709 | Sprycel | dasatinib | Valid |
 | EMEA/H/C/006251 | Dasatinib Accord Healthcare | Dasatinib monohydrate | Valid |
 | EMEA/H/C/005317 | Dasatinib Accordpharma | dasatinib | Withdrawn |
 | EMEA/H/C/005446 | Dasatinib Accord | dasatinib | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -118,6 +128,12 @@ Please also refer to the SmPC for full safety information.
 **Rationale:**
 The SRC-based preclinical rationale for Ewing sarcoma is coherent, but there is no clinical proof of benefit. The only sizeable phase 2 study mixed several sarcoma subtypes, single-agent dasatinib is reported to have failed in Ewing sarcoma, and the one dedicated trial was terminated after 7 patients.
 
+<!-- review:begin eu-lic-20261106-dasatinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The only sizeable phase 2 study mixed several sarcoma subtypes, single-agent dasatinib is reported to have failed in Ewing sarcoma, and the one dedicated trial was terminated after 7 patients. Both EU authorizations are also cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 4 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-dasatinib-2 -->
+
 **To proceed, the following is needed:**
 - Ewing-specific results from NCT00464620 and the terminated NCT00788125 trial
 - Prospective data on combination regimens (for example, RIST) in relapsed Ewing sarcoma
@@ -125,7 +141,28 @@ The SRC-based preclinical rationale for Ewing sarcoma is coherent, but there is 
 - Cardiac and pleural safety monitoring plan, plus a drug-interaction review for the paediatric and young adult population
 - Clarification of the EU regulatory status
 
+<!-- review:begin eu-lic-20261106-dasatinib-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the EU regulatory status given that both authorizations are cancelled" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 4 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-dasatinib-3 -->
+
 **Other predictions:** A phase 3 study of dasatinib in core-binding factor AML (PMID 41490515, 2026) may be worth following up. The remaining predictions (liposarcoma, dermatofibrosarcoma protuberans, and others) have only preclinical or no supporting evidence and are on Hold.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both authorizations are listed as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Both EU authorizations are also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "given that both authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

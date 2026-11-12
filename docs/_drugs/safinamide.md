@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 545
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Safinamide: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Add-on therapy to a stable dose of levodopa (alone or with other Park…"
 monitor_inn: "safinamide"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration"]
@@ -73,11 +73,21 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin eu-lic-20261106-safinamide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The only authorization on record has a cancelled status." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-safinamide-2 -->
+
 ## EU Market Information
+
+<!-- licenses:begin -->
 
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002396 | Xadago | safinamide methanesulfonate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -104,6 +114,26 @@ The prediction rests only on a score from the TxGNN model (deep learning), which
 - The SmPC warnings and contraindications from the EMA website for safety screening
 - A systematic literature and trial search for safinamide in Rasmussen encephalitis, including preclinical or case-level evidence
 - A review of the Major interaction (bupropion) and the Moderate interactions relevant to the target population
+
+<!-- review:begin eu-lic-20261031-safinamide-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "A systematic literature and trial search for safinamide in Rasmussen encephalitis, including preclinical or case-level evidence / Clarification of the current EU authorization status, since the only license is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-safinamide-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Clarification of the current EU authorization status, since the only license is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "The only authorization on record has a cancelled status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

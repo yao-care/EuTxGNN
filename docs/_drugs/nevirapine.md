@@ -78,10 +78,14 @@ Only one publication directly studies the predicted disease:
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000183 | Viramune | nevirapine | Valid |
 | EMEA/H/C/001119 | Nevirapine Teva | nevirapine | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 36
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Alglucosidase Alfa: predicted new indication Adult polyglucosan body disease (evidence level L5). Approved use: Long-term enzyme-replacement therapy (ERT) in patients with a confirm…"
 monitor_inn: "Alglucosidase alfa"
 predicted_indications: ["adult polyglucosan body disease", "congenital entropion", "congenital ectropion", "congenital Horner syndrome (disease)", "ptosis-vocal cord paralysis syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "epiblepharon", "ptosis-strabismus-ectopic pupils syndrome"]
@@ -84,9 +84,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000636 | Myozyme | alglucosidase alfa | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -103,11 +107,37 @@ Please refer to the SmPC for safety information.
 **Rationale:**
 The prediction rests only on a model score. There are no clinical trials or publications, and the biology argues against it: the enzyme acts in lysosomes, the disease defect is cytosolic, and brain penetration is poor.
 
+<!-- review:begin eu-lic-20261031-alglucosidase_alfa-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials or publications, and the biology argues against it: the enzyme acts in lysosomes, the disease defect is cytosolic, and brain penetration is poor. The only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-alglucosidase_alfa-1 -->
+
 **To proceed, the following is needed:**
 - Safety information (warnings and contraindications) from the SmPC or package insert
 - Mechanism of action data, to allow a proper mechanistic analysis
 - Preclinical evidence on whether lysosomal GAA can reduce cytosolic polyglucosan, including delivery to neural tissue
 - Review of the existing literature on enzyme replacement in glycogen branching enzyme deficiency
+
+<!-- review:begin eu-lic-20261031-alglucosidase_alfa-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Review of the existing literature on enzyme replacement in glycogen branching enzyme deficiency / Clarification of the regulatory situation, given that the only EU authorization is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-alglucosidase_alfa-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-10-31 | Removed: "Clarification of the regulatory situation, given that the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

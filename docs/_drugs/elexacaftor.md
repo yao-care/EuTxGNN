@@ -50,9 +50,13 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005269 | Kaftrio | ivacaftor; tezacaftor; elexacaftor | Valid |
+
+<!-- licenses:end -->
 
 ---
 

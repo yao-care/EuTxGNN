@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 510
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Rasburicase: predicted new indication Hypouricemia, renal (evidence level L5). Approved use: Treatment and prophylaxis of acute hyperuricaemia…"
 monitor_inn: "Rasburicase"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "hepatic porphyria", "hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "renal tubular acidosis", "disorder of phenylalanine metabolism"]
@@ -64,9 +64,13 @@ Other top-ranked predictions are also weakly supported. Partial HPRT deficiency 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000331 | Fasturtec | rasburicase | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -82,11 +86,37 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Rationale:**
 The prediction is supported by a model score only (L5), with no clinical trials or literature. The mechanism argues against benefit, since lowering uric acid in a condition of already low uric acid could be harmful.
 
+<!-- review:begin eu-lic-20261031-rasburicase-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The mechanism argues against benefit, since lowering uric acid in a condition of already low uric acid could be harmful. The product's only EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-rasburicase-1 -->
+
 **To proceed, the following is needed:**
 - A biological rationale that justifies the prediction, or a decision to deprioritize it because the TxGNN model (deep learning) score may only reflect learned similarities between related diseases, not biological evidence
 - Mechanism of action data from DrugBank
 - Warnings and contraindications from the SmPC
 - Review of lower-ranked or alternative predictions, such as partial HPRT deficiency, for acute severe hyperuricaemia use only
+
+<!-- review:begin eu-lic-20261031-rasburicase-2 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Review of lower-ranked or alternative predictions, such as partial HPRT deficiency, for acute severe hyperuricaemia use only / Clarification of the regulatory status, given that the only EU authorization is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-rasburicase-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The product's only EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-10-31 | Removed: "Clarification of the regulatory status, given that the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

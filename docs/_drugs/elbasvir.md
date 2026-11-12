@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 214
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Elbasvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Elbasvir: predicted new indication Hepatitis B virus infection (evidence level L5). Approved use: Not recorded in the local data"
@@ -84,9 +84,13 @@ Both linked trials enrolled HCV patients, not HBV patients. The literature is mo
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004126 | Zepatier | elbasvir; grazoprevir | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -105,6 +109,18 @@ No study tests elbasvir in hepatitis B, and the mechanistic link is not establis
 - Preclinical (in vitro) antiviral data for elbasvir against HBV
 - Detailed mechanism of action data
 - Warnings and contraindications from the SmPC, to complete the safety review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The product's only EU authorization is cancelled" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

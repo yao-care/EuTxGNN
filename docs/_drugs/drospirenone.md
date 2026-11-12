@@ -72,10 +72,14 @@ The TxGNN model produced candidates for Drospirenone with a score of at least 0.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005336 | Drovelis | drospirenone; estetrol monohydrate | Valid |
 | EMEA/H/C/005382 | Lydisilka | estetrol monohydrate; drospirenone | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

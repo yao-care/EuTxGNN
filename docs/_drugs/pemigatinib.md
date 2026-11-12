@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 479
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pemigatinib: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Locally advanced or metastatic cholangiocarcinoma with an FGFR2 fusio…"
 monitor_inn: "Pemigatinib"
 predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "HER2 positive breast carcinoma", "cytomegalovirus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "amyotrophic lateral sclerosis", "amyotrohpic lateral sclerosis type 22", "axial spondylometaphyseal dysplasia"]
@@ -71,9 +71,13 @@ Currently no related literature available for the top-ranked prediction (multipl
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005266 | Pemazyre | pemigatinib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -110,11 +114,37 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction rests on the model score alone (L5).
 
+<!-- review:begin eu-lic-20261031-pemigatinib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests on the model score alone (L5). There are no clinical trials or literature, no verified mechanistic link to multiple endocrine neoplasia, and the only EU authorization is cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-pemigatinib-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data to test whether FGFR inhibition is relevant to MEN1, RET, or CDKN1B-driven disease
 - Preclinical or early clinical studies in multiple endocrine neoplasia
 - Warnings and contraindications from the SmPC, which are currently missing and block safety screening
 - A review of the interaction profile (especially strong CYP3A inhibitors) for the target population
+
+<!-- review:begin eu-lic-20261106-pemigatinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A review of the interaction profile (especially strong CYP3A inhibitors) for the target population / Clarification of the cancelled EU authorization status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-pemigatinib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "There are no clinical trials or literature, no verified mechanistic link to multiple endocrine neoplasia, and the only EU authorization is c" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Clarification of the cancelled EU authorization status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

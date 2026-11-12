@@ -70,9 +70,13 @@ Currently no related literature available for hypermobility of coccyx.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001037 | Cimzia | certolizumab pegol | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -72,10 +72,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004264 | Inhixa | enoxaparin sodium | Valid |
 | EMEA/H/C/003795 | Thorinane | enoxaparin sodium | Lapsed |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

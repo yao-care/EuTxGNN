@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 670
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Vildagliptin"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 description: "Vildagliptin: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Vildagliptin is indicated as an adjunct to diet and exercise to impro…"
@@ -77,9 +77,17 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin eu-lic-20261106-vildagliptin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All three authorizations are currently valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 7 EU marketing authorisations for this drug, 7 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-vildagliptin-1 -->
+
 ---
 
 ## EU Market Information
+
+<!-- licenses:begin -->
 
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
@@ -90,6 +98,8 @@ Currently no related literature available.
 | EMEA/H/C/001049 | Zomarist | vildagliptin; metformin hydrochloride | Valid |
 | EMEA/H/C/001050 | Icandra | vildagliptin; metformin hydrochloride | Valid |
 | EMEA/H/C/005738 | Vildagliptin / Metformin hydrochloride Accord | metformin hydrochloride; vildagliptin | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -106,10 +116,29 @@ Please refer to the SmPC for safety information.
 **Rationale:**
 The prediction rests only on a model score, with no trials, no literature and no plausible mechanism. Vildagliptin is marketed here. Evidence is at the lowest level (L5), so there is no basis to advance this indication.
 
+<!-- review:begin eu-lic-20261106-vildagliptin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Vildagliptin is marketed here, with 3 valid licences out of 3." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 7 EU marketing authorisations for this drug, 7 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-vildagliptin-2 -->
+
 **To proceed, the following is needed:**
 - A plausible mechanistic hypothesis linking DPP-4 inhibition to GABAergic or autoimmune pathways in stiff person syndrome
 - Preclinical or early clinical data in this disease
 - Complete mechanism of action data and SmPC safety information (warnings and contraindications)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All three authorizations are currently valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "with 3 valid licences out of 3" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

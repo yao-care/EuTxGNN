@@ -48,10 +48,14 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005919 | Tevimbra | tislelizumab | Valid |
 | EMEA/H/C/005542 | Tizveni | tislelizumab | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

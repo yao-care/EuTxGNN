@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 524
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Rimegepant"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 description: "Rimegepant: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Vydura is indicated for the Acute treatment of migraine with or witho…"
@@ -84,9 +84,13 @@ The 10 most relevant publications are listed below. All concern general migraine
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005725 | Vydura | rimegepant | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -104,12 +108,38 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The CGRP-pathway rationale is sound, since brainstem aura is a migraine subtype. However, no trials or subtype-specific literature exist.
 
+<!-- review:begin eu-lic-20261031-rimegepant-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "However, no trials or subtype-specific literature exist. The only authorization is cancelled, and the label's warnings and contraindications could not be reviewed." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-rimegepant-1 -->
+
 **To proceed, the following is needed:**
 - Safety information (warnings and contraindications) from the SmPC. This is currently a blocking gap.
 - Mechanism of action data from DrugBank.
 - Subtype-specific evidence in brainstem aura, such as post-hoc analyses of existing migraine trials or case series.
 - Clarification of the current regulatory status.
 - Review of vascular safety, particularly in patients with cardiovascular risk.
+
+<!-- review:begin eu-lic-20261106-rimegepant-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the EU authorization was cancelled and of the current regulatory status." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-rimegepant-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only authorization is cancelled, and the label's warnings and contraindications could not be reviewed" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "of why the EU authorization was cancelled and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

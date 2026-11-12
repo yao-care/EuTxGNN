@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 614
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tildrakizumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Moderate to severe plaque psoriasis in adults who are candidates for…"
 monitor_inn: "Tildrakizumab"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "drug-induced osteoporosis"]
@@ -71,9 +71,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004514 | Ilumetri | tildrakizumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -91,11 +95,37 @@ Other safety information (warnings and contraindications) is not available in th
 **Rationale:**
 The prediction is supported only by the TxGNN model score. The evidence level is L5.
 
+<!-- review:begin eu-lic-20261031-tildrakizumab-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction is supported only by the TxGNN model score. There are no registered clinical trials or publications, the mechanism of action data are missing, and the only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-tildrakizumab-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank) to support a mechanistic-link analysis
 - Warnings and contraindications from the SmPC or package insert, which are needed for safety screening
 - A literature and trial search for IL-23 pathway involvement in diabetic retinopathy, and preclinical (L4) evidence in retinal models
 - An assessment of route and delivery feasibility (systemic vs. intravitreal) for retinal disease
+
+<!-- review:begin eu-lic-20261106-tildrakizumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "An assessment of route and delivery feasibility (systemic vs. intravitreal) for retinal disease / Clarification of why the EU authorization was cancelled (e.g., commercial or safety reasons)" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tildrakizumab-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "There are no registered clinical trials or publications, the mechanism of action data are missing, and the only EU authorization is cancelle" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Clarification of why the EU authorization was cancelled (e.g., commercial or safety reasons)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

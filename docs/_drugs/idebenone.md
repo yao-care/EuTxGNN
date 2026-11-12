@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 309
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Idebenone: predicted new indication Hepatic porphyria (evidence level L5). Approved use: Treatment of visual impairment in adolescent and adult patients with…"
 monitor_inn: "Idebenone"
 predicted_indications: ["hepatic porphyria", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "immune-mediated necrotizing myopathy", "osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome", "antisynthetase syndrome", "focal myositis"]
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003834 | Raxone | idebenone | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -87,6 +91,12 @@ Please refer to the SmPC for safety information. No warnings, contraindications,
 **Rationale:**
 The prediction rests only on a model score, with no clinical trials, no literature, and no established mechanism.
 
+<!-- review:begin eu-lic-20261031-idebenone-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests only on a model score, with no clinical trials, no literature, and no established mechanism. The only EU authorization (Raxone) is cancelled, and safety data could not be retrieved, so the candidate cannot advance to safety screening." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-idebenone-1 -->
+
 **To proceed, the following is needed:**
 - Obtain the EMA product information (warnings and contraindications) to complete safety screening
 - Obtain mechanism of action data (e.g., from DrugBank)
@@ -94,6 +104,19 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 - Establish preclinical evidence of a mechanistic link to hepatic porphyria
 - Clarify the reason for withdrawal of the Raxone authorization and its implications for availability
 - Assess route and formulation compatibility for the proposed indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization (Raxone) is cancelled, and safety data could not be retrieved, so the candidate cannot advance to safety screening" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

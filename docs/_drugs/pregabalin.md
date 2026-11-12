@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 498
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Pregabalin"
 predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 description: "Pregabalin: predicted new indication Tendinitis (evidence level L5). Approved use: Neuropathic painPregabalin Viatris Pharma is indicated for the treatm…"
@@ -97,6 +97,8 @@ Currently no related clinical trials registered for tendinitis.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000546 | Lyrica | pregabalin | Valid |
@@ -109,7 +111,15 @@ Currently no related clinical trials registered for tendinitis.
 | EMEA/H/C/004070 | Pregabalin Sandoz GmbH | pregabalin | Withdrawn |
 | EMEA/H/C/004277 | Pregabalin Zentiva k.s. | pregabalin | Withdrawn |
 
+<!-- licenses:end -->
+
 A sixth authorisation (EMEA/H/C/004078, Pregabalin Viatris, previously Pregabalin Mylan) is also cancelled, with the same three indications as above.
+
+<!-- review:begin eu-lic-20261106-pregabalin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All six authorisations are valid; the drug is marketed." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-pregabalin-2 -->
 
 ---
 
@@ -134,10 +144,37 @@ Please refer to the SmPC for the official warnings and contraindications.
 **Rationale:**
 - The tendinitis prediction relies on a high model score with no clinical trials, and the mechanistic link is indirect and limited to a possible neuropathic pain component. The literature retrieved does not address tendinitis treatment.
 
+<!-- review:begin eu-lic-20261106-pregabalin-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The literature retrieved does not address tendinitis treatment. / All six authorisations are valid, and the drug is marketed." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-pregabalin-3 -->
+
 **To proceed, the following is needed:**
 - Clinical studies of pregabalin specifically in tendinitis or tendinopathy pain, ideally in patients with a neuropathic or centrally sensitised component
 - Official SmPC warnings and contraindications, and detailed mechanism of action data
 - A safety plan covering sedation, abuse potential, opioid co-prescription, and renal impairment
+
+<!-- review:begin eu-lic-20261031-pregabalin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Clinical studies of pregabalin specifically in tendinitis or tendinopathy pain, ideally in patients with a neuropathic or centrally sensitised component / Confirmation of current EU marketing status, since the data show only cancelled authorisations" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 9 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-pregabalin-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Confirmation of current EU marketing status, since the data show only cancelled authorisations" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "All six authorisations are valid; the drug is marketed" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "All six authorisations are valid, and the drug is marketed" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

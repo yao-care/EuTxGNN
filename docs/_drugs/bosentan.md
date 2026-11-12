@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 100
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Bosentan: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Pulmonary arterial hypertension (WHO functional class III…"
 monitor_inn: "Bosentan"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
@@ -93,10 +93,14 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000401 | Tracleer | bosentan (as monohydrate) | Valid |
 | EMEA/H/C/002644 | Stayveer | bosentan (as monohydrate) | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -119,12 +123,38 @@ Currently no related clinical trials registered.
 **Rationale:**
 The very high model score rests only on animal-model data and indirect reviews. There are no human rheumatoid arthritis trials. The liver and embryo-fetal toxicity profile and the many drug interactions raise the bar for a chronic inflammatory indication.
 
+<!-- review:begin eu-lic-20261106-bosentan-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no human rheumatoid arthritis trials, and the EU authorizations are currently cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-bosentan-2 -->
+
 **To proceed, the following is needed:**
 - Human proof-of-concept evidence in rheumatoid arthritis (for example, a pilot or Phase 2 trial)
 - Confirmation of mechanism-of-action data and the SmPC warnings and contraindications
 - A benefit-risk assessment against existing rheumatoid arthritis therapies, including liver monitoring and contraception requirements
 - Confirmation of current product availability
 - Direct verification of the underlying trials for the systemic sclerosis use, if that on-label indication is pursued separately
+
+<!-- review:begin eu-lic-20261106-bosentan-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of current product availability, given the cancelled EU status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-bosentan-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "given the cancelled EU status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "and the EU authorizations are currently cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

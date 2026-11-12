@@ -72,9 +72,13 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Voclosporin,
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005256 | Lupkynis | voclosporin | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

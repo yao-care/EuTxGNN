@@ -75,6 +75,8 @@ Both publications are animal studies. Neither directly studies desloratadine in 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000310 | Azomyr | desloratadine | Valid |
@@ -87,6 +89,8 @@ Both publications are animal studies. Neither directly studies desloratadine in 
 | EMEA/H/C/000772 | Aerinaze | desloratadine; pseudophedrine sulfate | Valid |
 | EMEA/H/C/000311 | Opulis | desloratadine | Withdrawn |
 | EMEA/H/C/000312 | Allex | desloratadine | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

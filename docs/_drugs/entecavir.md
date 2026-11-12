@@ -98,11 +98,15 @@ The literature is centred on HBV and co-infection, and none of it shows entecavi
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000623 | Baraclude | Entecavir | Valid |
 | EMEA/H/C/004377 | Entecavir Viatris | entecavir monohydrate | Valid |
 | EMEA/H/C/004458 | Entecavir Accord | Entecavir | Valid |
+
+<!-- licenses:end -->
 
 All three authorizations are recorded as valid, which should be verified against the current register.
 

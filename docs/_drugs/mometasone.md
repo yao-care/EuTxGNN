@@ -77,12 +77,16 @@ Currently no related clinical trials registered.
 
 All four authorizations below are valid.
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005061 | Enerzair Breezhaler | indacaterol; glycopyrronium bromide; mometasone | Valid |
 | EMEA/H/C/005067 | Atectura Breezhaler | indacaterol acetate; mometasone furoate | Valid |
 | EMEA/H/C/005516 | Bemrist Breezhaler | indacaterol; mometasone furoate | Valid |
 | EMEA/H/C/005518 | Zimbus Breezhaler | glycopyrronium bromide; Indacaterol (acetate); mometasone furoate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 232
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L5). Approved use: Emergency treatment of allergic reactions (anaphylaxis) due to insect…"
 monitor_inn: "Epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
@@ -91,9 +91,13 @@ The evidence is strongest for asthma, where several Phase 3 trials of an inhaled
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/006139 | Eurneffy | epinephrine | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -109,6 +113,12 @@ For label-based warnings and contraindications, please refer to the SmPC.
 **Rationale:**
 Several completed Phase 3 trials of inhaled epinephrine in asthma, including adult, adolescent and paediatric populations, support the prediction for obstructive lung disease. However, the cardiovascular risk signals are significant, the bronchiolitis evidence is inconsistent.
 
+<!-- review:begin eu-lic-20261106-epinephrine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, the cardiovascular risk signals are significant, the bronchiolitis evidence is inconsistent, and the only EU authorisation on record is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-epinephrine-2 -->
+
 **Guardrails:**
 - Restrict the scope to asthma and do not extend to bronchiolitis without further evidence.
 - Use supervised dosing with cardiovascular monitoring.
@@ -118,6 +128,26 @@ Several completed Phase 3 trials of inhaled epinephrine in asthma, including adu
 - Label-based warnings and contraindications from the SmPC.
 - Mechanism of action data from DrugBank.
 - Review of the completed Phase 3 results against current standard asthma therapy.
+
+<!-- review:begin eu-lic-20261031-epinephrine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Mechanism of action data from DrugBank. / Clarification of the regulatory pathway, since the only EU authorisation is cancelled and covers a different indication." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-epinephrine-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Clarification of the regulatory pathway, since the only EU authorisation is cancelled and covers a different indication" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "and the only EU authorisation on record is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

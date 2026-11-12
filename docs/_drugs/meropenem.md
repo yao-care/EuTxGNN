@@ -113,9 +113,13 @@ For the related cUTI indication, higher-quality evidence exists:
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004669 | Vaborem | meropenem trihydrate; vaborbactam | Valid |
+
+<!-- licenses:end -->
 
 This authorization has a **valid** status. The drug is marketed, with 1 valid licence out of 1.
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 581
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tacrolimus: predicted new indication Seborrheic dermatitis (evidence level L1). Approved use: Prophylaxis of transplant rejection in adult kidney or liver allograf…"
 monitor_inn: "Tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
@@ -86,6 +86,8 @@ Note: whether the Phase 3 trial was randomized or controlled cannot be confirmed
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000374 | Protopic | tacrolimus | Valid |
@@ -94,6 +96,8 @@ Note: whether the Phase 3 trial was randomized or controlled cannot be confirmed
 | EMEA/H/C/002655 | Envarsus | tacrolimus | Valid |
 | EMEA/H/C/004435 | Tacforius | tacrolimus monohydrate | Valid |
 | EMEA/H/C/000375 | Protopy | tacrolimus | Withdrawn |
+
+<!-- licenses:end -->
 
 All five authorizations are listed as valid.
 
@@ -112,11 +116,37 @@ Please also refer to the SmPC for the full warnings and contraindications, which
 **Rationale:**
 Two completed trials (Phase 3 and Phase 4, 224 patients combined) test tacrolimus ointment directly in facial seborrheic dermatitis. These are supported by a maintenance-therapy clinical study and several reviews, and the mechanism is plausible and matches the approved topical use in atopic dermatitis. However, results from the trials are not provided, the Phase 3 design is unconfirmed.
 
+<!-- review:begin eu-lic-20261106-tacrolimus-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, results from the trials are not provided, the Phase 3 design is unconfirmed, and the only EU topical product (Protopic) is currently cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 6 EU marketing authorisations for this drug, 5 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tacrolimus-2 -->
+
 **To proceed, the following is needed:**
 - Published results and design details (randomization, control arm) of NCT02004860 and NCT01591070
 - Detailed mechanism of action data and the full SmPC warnings and contraindications (both missing from the compiled data)
 - Clarification of the EU regulatory status of topical tacrolimus products
 - A long-term safety plan covering malignancy, infection and interacting medications, plus a limited-area, short-course use framework for facial skin
+
+<!-- review:begin eu-lic-20261106-tacrolimus-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the EU regulatory status of topical tacrolimus products, since all five authorizations are valid" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 6 EU marketing authorisations for this drug, 5 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tacrolimus-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "since all five authorizations are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "and the only EU topical product (Protopic) is currently cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

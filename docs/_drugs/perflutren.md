@@ -48,10 +48,14 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000166 | Optison | perflutren | Valid |
 | EMEA/H/C/000654 | Luminity | perflutren | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

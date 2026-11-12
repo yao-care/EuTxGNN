@@ -73,9 +73,13 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Encorafenib,
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004580 | Braftovi | Encorafenib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

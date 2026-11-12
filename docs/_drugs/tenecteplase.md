@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 599
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Tenecteplase"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
 description: "Tenecteplase: predicted new indication Congenital coronary artery anomaly (evidence level L5). Approved use: Metalyse is indicated for the thrombolytic treatment of suspected myo…"
@@ -71,12 +71,22 @@ Currently no related literature available for posterolateral myocardial infarcti
 
 For context, other predicted indications have some indirect literature. For coronary stenosis, a small randomized feasibility study of low-dose intracoronary tenecteplase during primary PCI ([31870492](https://pubmed.ncbi.nlm.nih.gov/31870492/), 2020, 40 patients) and a comparison of tenecteplase-facilitated angioplasty versus thrombolysis alone ([16053952](https://pubmed.ncbi.nlm.nih.gov/16053952/), 2005) were retrieved. For septal myocardial infarction, only case reports and an unrelated pulmonary embolism study were found.
 
+<!-- review:begin eu-lic-20261106-tenecteplase-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The authorization status is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tenecteplase-1 -->
+
 ## EU Market Information
+
+<!-- licenses:begin -->
 
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000306 | Metalyse | tenecteplase | Valid |
 | EMEA/H/C/000307 | Tenecteplase Boehringer Ingelheim Pharma GmbH Co. KG | tenecteplase | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -93,12 +103,32 @@ Please refer to the SmPC for warnings and contraindications, as these were not a
 **Rationale:**
 There is no direct trial or literature evidence. Safety label data, a blocking gap, is also missing.
 
+<!-- review:begin eu-lic-20261106-tenecteplase-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There is no direct trial or literature evidence, and the EU authorization is recorded as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tenecteplase-2 -->
+
 **To proceed, the following is needed:**
 - Confirm the current EU authorization status of Metalyse
 - Obtain the EMA product information (warnings and contraindications) to allow safety screening
 - Obtain mechanism of action data (for example from DrugBank)
 - Clarify whether this subtype needs separate evaluation or is already covered by the STEMI indication
 - Subtype-specific clinical data, if a separate claim is considered
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The authorization status is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "and the EU authorization is recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 653
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ustekinumab: predicted new indication Dermatitis (evidence level L2). Approved use: Moderate to severe plaque psoriasis in adults who failed…"
 monitor_inn: "Ustekinumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
@@ -99,6 +99,14 @@ The link to dermatitis is only partial. Atopic dermatitis is driven mainly by Th
 
 Main entries:
 
+<!-- review:begin eu-lic-20261106-ustekinumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 13 authorizations are currently valid. Main entries:" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 15 EU marketing authorisations for this drug, 12 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-ustekinumab-1 -->
+
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000958 | Stelara | ustekinumab | Valid |
@@ -116,6 +124,8 @@ Main entries:
 | EMEA/H/C/006448 | Eksunbi | ustekinumab | Withdrawn |
 | EMEA/H/C/006585 | Absimky | ustekinumab | Withdrawn |
 | EMEA/H/C/006649 | Qoyvolma | ustekinumab | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 
@@ -136,11 +146,31 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 Two randomized Phase 2 trials of ustekinumab in atopic dermatitis exist, but their sample sizes are small and the published efficacy is modest or inconsistent. The mechanism only partially fits the Th2-driven disease.
 
+<!-- review:begin eu-lic-20261106-ustekinumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The mechanism only partially fits the Th2-driven disease. In addition, the drug is currently marketed, with 13 valid licences out of 13." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 15 EU marketing authorisations for this drug, 12 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-ustekinumab-2 -->
+
 **To proceed, the following is needed:**
 - Warnings and contraindications from the SmPC, and the mechanism of action data
 - A clear definition of the target dermatitis subtype (atopic vs contact), since the mechanistic rationale differs
 - Quantitative review of the efficacy results from NCT01945086, NCT01806662 and the related publications
 - Clarification of the EU market status and which authorization would support any new development
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All 13 authorizations are currently valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "In addition, the drug is currently marketed, with 13 valid licences out of 13" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

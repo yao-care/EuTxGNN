@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 470
 evidence_level: L3
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Pazopanib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
 description: "Pazopanib: predicted new indication Liposarcoma (evidence level L3). Approved use: Renal-cell carcinoma (RCC) Votrient is indicated in adults for the fi…"
@@ -102,9 +102,13 @@ For reference, the most relevant trials for the liposarcoma prediction, the stro
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001141 | Votrient | pazopanib | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -144,6 +148,25 @@ Label-based warnings and contraindications were not available. Please refer to t
 - Mechanism of action data from DrugBank.
 - Prospective or comparative data in non-clear-cell and unclassified RCC, ideally with histology-specific outcomes.
 - A safety monitoring plan covering hepatotoxicity, hypertension, QT prolongation and key drug interactions (acid suppressants, CYP3A4 inhibitors such as clarithromycin).
+
+<!-- review:begin eu-lic-20261106-pazopanib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Review of the SmPC for warnings and contraindications (a blocking data gap), noting that the only EU authorization on record is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-pazopanib-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "noting that the only EU authorization on record is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

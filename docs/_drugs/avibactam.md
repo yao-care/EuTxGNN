@@ -71,10 +71,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004027 | Zavicefta | avibactam sodium; ceftazidime pentahydrate | Valid |
 | EMEA/H/C/006113 | Emblaveo | avibactam; aztreonam | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

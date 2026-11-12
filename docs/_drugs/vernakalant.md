@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 664
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Vernakalant"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "ABri amyloidosis"]
 description: "Vernakalant: predicted new indication Stroke disorder (evidence level L5). Approved use: Rapid conversion of recent onset atrial fibrillation to sinus rhythm…"
@@ -81,9 +81,13 @@ These publications concern AF in general. None demonstrates that vernakalant red
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001215 | Brinavess | vernakalant hydrochloride | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -98,10 +102,36 @@ For context, the compiled rationale notes that vernakalant's labeling cautions a
 **Rationale:**
 The stroke prediction rests on an indirect link through atrial fibrillation. There are no registered clinical trials and no publication showing a vernakalant effect on stroke. The cardioversion-related thromboembolic risk is an additional concern.
 
+<!-- review:begin eu-lic-20261106-vernakalant-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The only EU marketing authorization has been cancelled, and the cardioversion-related thromboembolic risk is an additional concern." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-vernakalant-1 -->
+
 **To proceed, the following is needed:**
 - Detailed mechanism of action data
 - Safety information from the EMA product information (warnings and contraindications), which is currently missing and blocks safety screening
 - Clinical or observational evidence on whether vernakalant affects stroke or thromboembolic outcomes
+
+<!-- review:begin eu-lic-20261106-vernakalant-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clinical or observational evidence on whether vernakalant affects stroke or thromboembolic outcomes / Clarification of why the EU authorization was cancelled and whether the drug is available in the EU" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-vernakalant-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he only EU marketing authorization has been cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Clarification of why the EU authorization was cancelled and whether the drug is available in the EU" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

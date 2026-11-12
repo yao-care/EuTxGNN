@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 200
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Dronedarone"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
 description: "Dronedarone: predicted new indication Stroke disorder (evidence level L4). Approved use: Multaq is indicated for the maintenance of sinus rhythm after success…"
@@ -84,9 +84,13 @@ Stroke appears in these publications only as an outcome within AF studies, not a
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001043 | Multaq | dronedarone | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -110,6 +114,18 @@ The prediction score is very high (0.9997), but no study tests dronedarone for s
 - Clarification of the mechanism of action, including the reported anticoagulant and antiplatelet effects
 - Review of label warnings and contraindications from the SmPC, especially heart failure and permanent AF
 - An interaction plan for patients also taking anticoagulants
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Dronedarone's only EU authorization is cancelled" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

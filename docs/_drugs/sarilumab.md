@@ -72,9 +72,13 @@ The TxGNN model's candidates for Sarilumab (score ≥ 0.99) that can be traced t
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004254 | Kevzara | sarilumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

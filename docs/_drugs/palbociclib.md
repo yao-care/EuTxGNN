@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 459
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Palbociclib"
 predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
 description: "Palbociclib: predicted new indication Hyperthyroidism (evidence level L5). Approved use: Ibrance is indicated for the treatment of hormone receptor (HR) posit…"
@@ -89,6 +89,12 @@ Currently no related literature available for hyperthyroidism.
 
 For reference, selected publications for the alternative predictions:
 
+<!-- review:begin eu-lic-20261106-palbociclib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The authorization is recorded as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-palbociclib-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [33587021](https://pubmed.ncbi.nlm.nih.gov/33587021/) | 2021 | Case report | Mod Rheumatol Case Rep | Rheumatoid arthritis improved in a breast cancer patient treated with palbociclib |
@@ -103,10 +109,14 @@ For reference, selected publications for the alternative predictions:
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003853 | Ibrance | Palbociclib | Valid |
 | EMEA/H/C/006624 | Palbociclib Viatris | Palbociclib | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -138,11 +148,31 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The hyperthyroidism prediction has no clinical, literature or mechanistic support. Its score is a computational artifact only (Level L5).
 
+<!-- review:begin eu-lic-20261106-palbociclib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Its score is a computational artifact only (Level L5). The EU authorization is also recorded as cancelled, which limits near-term regulatory pathways." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-palbociclib-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a mechanistic rationale linking CDK4/6 inhibition to thyroid hormone excess
 - EU label warnings and contraindications (SmPC), currently missing
 - Consider redirecting evaluation to better-supported candidates: **myeloid leukemia** (early-phase trial results, myelosuppression risk assessment) and **rheumatoid arthritis** (a proper clinical study beyond one case report and animal data)
 - Deprioritize **thrombotic disease** and **Prinzmetal angina** because of the thromboembolic safety signal
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The authorization is recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "The EU authorization is also recorded as cancelled, which limits near-term regulatory pathways" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

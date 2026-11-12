@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 683
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Zidovudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 description: "Zidovudine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Combivir is indicated in antiretroviral combination therapy for the t…"
@@ -84,11 +84,15 @@ No randomized trials or human studies were found. All entries below are studies 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000190 | Combivir | lamivudine; zidovudine | Valid |
 | EMEA/H/C/000338 | Trizivir | abacavir (as sulfate); lamivudine; zidovudine | Valid |
 | EMEA/H/C/001236 | Lamivudine/Zidovudine Teva | lamivudine; zidovudine | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -114,6 +118,25 @@ The prediction is biologically plausible, but it concerns a veterinary disease a
 - Label warnings and contraindications from the SmPC, which are currently missing.
 - For human use, attention to the other predicted HIV-related indications. Congenital HIV and AIDS-related complex are already supported by Phase 3 trials, but they fall within the existing HIV use and are not novel repurposing findings.
 - Verification of product availability: the drug is marketed.
+
+<!-- review:begin eu-lic-20261106-zidovudine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Verification of product availability: the drug is marketed, with 2 valid licences out of 2." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-zidovudine-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 2 valid licences out of 2" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

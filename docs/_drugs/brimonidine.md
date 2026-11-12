@@ -73,10 +73,14 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002642 | Mirvaso | brimonidine tartrate | Valid |
 | EMEA/H/C/003698 | Simbrinza | brinzolamide; brimonidine tartrate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

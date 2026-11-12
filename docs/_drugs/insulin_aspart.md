@@ -68,6 +68,8 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000258 | NovoRapid | insulin aspart | Valid |
@@ -78,6 +80,8 @@ Currently no related literature available.
 | EMEA/H/C/006187 | Dazparda | insulin aspart | Valid |
 | EMEA/H/C/002499 | Ryzodeg | insulin aspart; insulin degludec | Valid |
 | EMEA/H/C/005635 | Truvelog Mix 30 | insulin aspart | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

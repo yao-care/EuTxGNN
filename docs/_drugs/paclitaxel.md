@@ -105,6 +105,8 @@ The 10 most relevant trials are listed below. The supplied list for this indicat
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000778 | Abraxane | paclitaxel | Valid |
@@ -113,6 +115,8 @@ The 10 most relevant trials are listed below. The supplied list for this indicat
 | EMEA/H/C/006173 | Naveruclif | paclitaxel | Valid |
 | EMEA/H/C/000216 | Paxene | paclitaxel | Withdrawn |
 | EMEA/H/C/004154 | Apealea | paclitaxel | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 

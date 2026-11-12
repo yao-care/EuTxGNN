@@ -75,10 +75,14 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Fondaparinux
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000403 | Arixtra | fondaparinux sodium | Valid |
 | EMEA/H/C/000404 | Quixidar | fondaparinux sodium | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

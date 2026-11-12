@@ -69,9 +69,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004806 | Takhzyro | lanadelumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

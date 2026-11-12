@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 207
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Eculizumab: predicted new indication Cyclic hematopoiesis (evidence level L5). Approved use: Paroxysmal nocturnal haemoglobinuria (PNH) and atypical haemolytic ur…"
 monitor_inn: "Eculizumab"
 predicted_indications: ["cyclic hematopoiesis", "autosomal recessive severe congenital neutropenia due to JAGN1 deficiency", "X-linked severe congenital neutropenia", "congenital neutropenia-myelofibrosis-nephromegaly syndrome", "adult idiopathic neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "autosomal recessive severe congenital neutropenia due to CSF3R deficiency", "severe congenital neutropenia", "primary release disorder of platelets"]
@@ -71,11 +71,15 @@ No publications specific to cyclic hematopoiesis were found. The literature retr
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000791 | Soliris | Eculizumab | Valid |
 | EMEA/H/C/005652 | Bekemv | Eculizumab | Valid |
 | EMEA/H/C/006036 | Epysqli | Eculizumab | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -101,6 +105,25 @@ The prediction is supported only by a model score. There are no clinical trials 
 - Warnings and contraindications from the SmPC, followed by a safety review that addresses meningococcal infection risk in neutropenic patients
 - Clarification of the current availability of the product
 - Preclinical or early clinical data before any further consideration
+
+<!-- review:begin eu-lic-20261106-eculizumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled EU authorization status and the current availability of the product" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-eculizumab-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "the cancelled EU authorization status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

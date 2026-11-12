@@ -48,11 +48,15 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002110 | Trajenta | linagliptin | Valid |
 | EMEA/H/C/002279 | Jentadueto | linagliptin; metformin | Valid |
 | EMEA/H/C/003833 | Glyxambi | empagliflozin; linagliptin | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

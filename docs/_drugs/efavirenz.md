@@ -74,6 +74,8 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002352 | Efavirenz Teva | efavirenz | Valid |
@@ -83,6 +85,8 @@ Currently no related clinical trials registered.
 | EMEA/H/C/000249 | Sustiva | efavirenz | Withdrawn |
 | EMEA/H/C/000250 | Stocrin | efavirenz | Withdrawn |
 | EMEA/H/C/000797 | Atripla | efavirenz; emtricitabine; tenofovir disoproxil fumarate | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

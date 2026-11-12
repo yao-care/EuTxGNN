@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 222
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Emtricitabine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: Treatment of HIV-1 infected adults and children…"
 monitor_inn: "Emtricitabine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -97,6 +97,8 @@ Selected publications for the top prediction (SIV infection), which are all prec
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000533 | Emtriva | emtricitabine | Valid |
@@ -119,6 +121,8 @@ Selected publications for the top prediction (SIV infection), which are all prec
 | EMEA/H/C/006491 | Emtricitabine / Rilpivirine / Tenofovir Alafenamide Viatris | emtricitabine; rilpivirine hydrochloride; tenofovir alafenamide fumarate | Valid |
 | EMEA/H/C/000797 | Atripla | efavirenz; emtricitabine; tenofovir disoproxil fumarate | Withdrawn |
 
+<!-- licenses:end -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: 20 interactions were identified. The two rated Major are **leflunomide** and **teriflunomide**. Most of the others are rated Moderate, including orlistat, naltrexone, cobicistat, interferon beta-1a/1b, peginterferon beta-1a, methotrexate, cladribine, clofarabine, epirubicin, idelalisib, cabozantinib, brentuximab vedotin, asparaginase, pegaspargase, tioguanine and trabectedin. Eribulin is rated Minor.
@@ -133,11 +137,30 @@ Label warnings and contraindications were not available in the data compiled for
 **Rationale:**
 The top prediction, SIV infection, is an animal disease supported only by preclinical macaque studies, with no registered clinical trials, so it is not a human repurposing opportunity. The most plausible human-relevant candidates (AIDS related complex and congenital HIV) overlap the approved HIV-1 indication.
 
+<!-- review:begin eu-lic-20261106-emtricitabine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The most plausible human-relevant candidates (AIDS related complex and congenital HIV) overlap the approved HIV-1 indication. The only EU authorization (Emtriva) is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 19 EU marketing authorisations for this drug, 18 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-emtricitabine-1 -->
+
 **To proceed, the following is needed:**
 - Clarify whether the objective is a human indication or use of SIV/SHIV models as a translational proxy for HIV prevention research
 - Confirm the current regulatory status of emtricitabine in the EU (for example, via fixed-dose combination products) and obtain the SmPC warnings and contraindications
 - Detailed mechanism of action data from DrugBank
 - Review of the Major interactions (leflunomide, teriflunomide) and the renal, hepatic and hepatitis B-related safety signals before any new use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The only EU authorization (Emtriva) is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

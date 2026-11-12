@@ -48,11 +48,15 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002182 | Vipidia | alogliptin | Valid |
 | EMEA/H/C/002178 | Incresync | alogliptin; pioglitazone | Valid |
 | EMEA/H/C/002654 | Vipdomet | alogliptin benzoate; metformin hydrochloride | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

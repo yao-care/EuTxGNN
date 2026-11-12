@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 655
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Valsartan: predicted new indication Malignant hypertensive renal disease (evidence level L4). Approved use: Paediatric and adult symptomatic chronic heart failure (Entresto…"
 monitor_inn: "Valsartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
@@ -86,6 +86,14 @@ Currently no related clinical trials registered.
 
 The drug is marketed in this country. The five main ones are listed below.
 
+<!-- review:begin eu-lic-20261106-valsartan-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in this country: 9 of 9 licences are valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 11 EU marketing authorisations for this drug, 9 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-valsartan-2 -->
+
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000716 | Exforge | valsartan; amlodipine (as amlodipine besilate) | Valid |
@@ -99,6 +107,8 @@ The drug is marketed in this country. The five main ones are listed below.
 | EMEA/H/C/004343 | Neparvis | sacubitril; valsartan | Valid |
 | EMEA/H/C/000775 | Imprida | valsartan; amlodipine (as amlodipine besilate) | Withdrawn |
 | EMEA/H/C/001161 | Imprida HCT | amlodipine; valsartan; hydrochlorothiazide | Lapsed |
+
+<!-- licenses:end -->
 
 ---
 
@@ -119,11 +129,38 @@ Please refer to the SmPC for the full warnings and contraindications, because la
 **Rationale:**
 The prediction score is high and the AT1-blockade mechanism is plausible. However, there are no clinical trials, the only paper concerns a different drug. Evidence is limited to model prediction and indirect preclinical support (L4).
 
+<!-- review:begin eu-lic-20261106-valsartan-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, there are no clinical trials, the only paper concerns a different drug, and all EU authorizations for valsartan-containing products are cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 11 EU marketing authorisations for this drug, 9 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-valsartan-3 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for valsartan
 - Label-based warnings and contraindications from the SmPC
 - Direct evidence for valsartan, or other AT1 receptor blockers, in malignant hypertensive renal disease (preclinical or clinical)
 - A renal safety plan covering renal artery stenosis, potassium and renal function monitoring
+
+<!-- review:begin eu-lic-20261106-valsartan-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Direct evidence for valsartan, or other AT1 receptor blockers, in malignant hypertensive renal disease (preclinical or clinical) / Review of the current regulatory status, given that all nine licences are valid" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 11 EU marketing authorisations for this drug, 9 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-valsartan-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Review of the current regulatory status, given that all nine licences are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: ": 9 of 9 licences are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "and all EU authorizations for valsartan-containing products are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

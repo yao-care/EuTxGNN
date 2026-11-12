@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 464
 evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Panobinostat: predicted new indication Myeloid leukemia (evidence level L2). Approved use: Relapsed and/or refractory multiple myeloma (with bortezomib and dexa…"
 monitor_inn: "panobinostat"
 predicted_indications: ["myeloid leukemia"]
@@ -108,9 +108,13 @@ The table lists the 10 most relevant of the 17 trials compiled.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003725 | Farydak | panobinostat lactate anhydrous | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -146,12 +150,38 @@ For warnings and contraindications, please refer to the SmPC.
 **Rationale:**
 The evidence is L2: several completed Phase 1/2 trials of panobinostat in AML/MDS, but no completed randomised Phase 3 evidence. The only Phase 3 trial (NCT04326764) was terminated after 52 patients. The label safety data (warnings and contraindications) could not be retrieved, so safety screening cannot proceed. The high TxGNN score (0.9970) is a prediction only and does not change this assessment.
 
+<!-- review:begin eu-lic-20261106-panobinostat-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The only Phase 3 trial (NCT04326764) was terminated after 52 patients. The EU authorisation has been cancelled, so no marketed product is currently available." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-panobinostat-1 -->
+
 **To proceed, the following is needed:**
 - Retrieve and parse the SmPC (warnings and contraindications) to complete safety screening
 - Obtain mechanism-of-action data from DrugBank
 - Check why NCT04326764 was terminated and whether any results were reported for it and the completed Phase 2 trials (e.g. NCT00946647, NCT00880269)
 - Confirm the regulatory pathway and product availability
 - Assess the QT and drug-interaction risks of combination regimens with standard AML chemotherapy and supportive care
+
+<!-- review:begin eu-lic-20261106-panobinostat-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirm the regulatory pathway and product availability, given the cancelled EU authorisation" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-panobinostat-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorisation has been cancelled, so no marketed product is currently available" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "given the cancelled EU authorisation" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

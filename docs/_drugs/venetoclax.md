@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 663
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Venetoclax"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
 description: "Venetoclax: predicted new indication Hodgkins lymphoma (evidence level L5). Approved use: Venclyxto in combination with obinutuzumab is indicated for the treat…"
@@ -87,9 +87,13 @@ Currently no related clinical trials are registered for the predicted indication
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004106 | Venclyxto | venetoclax | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -120,12 +124,31 @@ Warnings and contraindications from the product label were not available. Please
 **Rationale:**
 The predicted indication is a molecular subset of CLL/SLL, a disease for which venetoclax is already approved and supported by Phase 3 evidence. However, no trials or efficacy studies exist specifically for this subtype.
 
+<!-- review:begin eu-lic-20261106-venetoclax-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, no trials or efficacy studies exist specifically for this subtype, and the EU authorisation is recorded as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-venetoclax-1 -->
+
 **To proceed, the following is needed:**
 - Safety information from the SmPC (warnings and contraindications), which is currently a blocking gap
 - Confirmation of the current EU authorisation status of Venclyxto
 - Mechanism of action data from DrugBank
 - Subtype-level (IGHV status) efficacy analyses from existing CLL trials
 - A drug-interaction management plan, particularly for CYP3A inhibitors and inducers
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the EU authorisation is recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

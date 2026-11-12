@@ -48,6 +48,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002430 | Seebri Breezhaler | glycopyrronium bromide | Valid |
@@ -65,6 +67,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | EMEA/H/C/005518 | Zimbus Breezhaler | glycopyrronium bromide; Indacaterol (acetate); mometasone furoate | Valid |
 | EMEA/H/C/002691 | Enurev Breezhaler | glycopyrronium bromide | Withdrawn |
 | EMEA/H/C/004836 | Riarify | formoterol fumarate dihydrate; glycopyrronium; beclometasone dipropionate | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

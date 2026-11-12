@@ -77,9 +77,13 @@ Neither publication directly studies ezetimibe in CETP deficiency.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004959 | Nustendi | bempedoic acid; ezetimibe | Valid |
+
+<!-- licenses:end -->
 
 Note: Nustendi is a combination product (bempedoic acid + ezetimibe). Its licence should not be taken to describe how ezetimibe alone is authorised.
 

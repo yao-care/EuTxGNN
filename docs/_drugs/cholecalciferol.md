@@ -82,11 +82,15 @@ Currently no related literature available.
 
 All three authorisations are centralised EU products that, judging by their names and indication wording, combine cholecalciferol with alendronate. They show how cholecalciferol is used within these combinations, not how it is approved as a single ingredient.
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000619 | Fosavance | alendronic acid; colecalciferol | Valid |
 | EMEA/H/C/000759 | Adrovance | colecalciferol; alendronic acid (as sodium trihydrate) | Valid |
 | EMEA/H/C/001180 | Vantavo | alendronic acid; colecalciferol | Valid |
+
+<!-- licenses:end -->
 
 ---
 

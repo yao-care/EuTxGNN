@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 605
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Teriparatide: predicted new indication Duodenal ulcer (evidence level L5). Approved use: Treatment of osteoporosis in postmenopausal women and in men at incre…"
 monitor_inn: "Teriparatide"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
@@ -81,6 +81,14 @@ Currently no related literature available.
 
 The table lists five of them.
 
+<!-- review:begin eu-lic-20261106-teriparatide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All seven EU centralized authorizations are valid. The table lists five of them." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-teriparatide-1 -->
+
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000425 | Forsteo | teriparatide | Valid |
@@ -92,6 +100,8 @@ The table lists five of them.
 | EMEA/H/C/005827 | Sondelbay | teriparatide | Valid |
 | EMEA/H/C/006688 | Zandoriah | teriparatide | Valid |
 | EMEA/H/C/005388 | Qutavina | teriparatide | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 
@@ -118,6 +128,19 @@ The duodenal ulcer prediction rests on a model score alone. There are no trials 
 - Preclinical or retrospective evidence of any benefit in gastroduodenal disease
 - Label-based safety data (SmPC warnings and contraindications) and confirmation of current EU market availability (e.g., biosimilar status)
 - Consideration of better-supported lower-ranked predictions. In particular, pregnancy-associated osteoporosis (rank 8) has L3 evidence from observational cohorts, case series and systematic reviews with a strong mechanistic fit, and would be a more productive candidate to evaluate.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All seven EU centralized authorizations are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

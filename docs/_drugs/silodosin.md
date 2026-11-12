@@ -64,11 +64,15 @@ The high score (0.9999) comes from the TxGNN model (deep learning) and may refle
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001092 | Urorec | silodosin | Valid |
 | EMEA/H/C/001209 | Silodyx | silodosin | Valid |
 | EMEA/H/C/004964 | Silodosin Recordati | silodosin | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

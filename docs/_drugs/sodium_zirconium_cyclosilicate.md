@@ -48,9 +48,13 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004029 | Lokelma | sodium zirconium cyclosilicate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

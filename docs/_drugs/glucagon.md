@@ -81,10 +81,14 @@ None of these publications studies glucagon in irritable bowel syndrome.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003848 | Baqsimi | Glucagon | Valid |
 | EMEA/H/C/005391 | Ogluo | Glucagon | Valid |
+
+<!-- licenses:end -->
 
 Both authorizations are valid.
 

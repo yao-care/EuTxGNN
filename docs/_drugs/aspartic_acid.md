@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 65
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Aspartic Acid: predicted new indication Renal tubular acidosis (evidence level L5). Approved use: Treatment of maple syrup urine disease (MSUD) presenting with an acut…"
 monitor_inn: "aspartic acid"
 predicted_indications: ["renal tubular acidosis"]
@@ -88,9 +88,13 @@ None of these publications is a controlled study of aspartic acid in RTA.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005557 | Maapliv | glycine,L-alanine,L-arginine,L-aspartic acid,L-cysteine hydrochloride monohydra… | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -110,12 +114,38 @@ No drug interaction data were found. For authoritative warnings and contraindica
 **Rationale:**
 The prediction rests on model output alone (Evidence Level L5). Knowledge-graph contraindication signals involving kidney disease add further caution.
 
+<!-- review:begin eu-lic-20261031-aspartic_acid-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests on model output alone (Evidence Level L5). No clinical trials exist, the literature contains no efficacy data for RTA, the mechanistic link is weak, and the only EU authorisation has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-aspartic_acid-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank) to test whether any plausible pathway links aspartic acid to tubular acid-base handling
 - Package insert warnings and contraindications from the EMA SmPC, which are required before any safety screening
 - Preclinical or mechanistic studies showing an effect of aspartate on bicarbonate reabsorption or H+ secretion in RTA models
 - Clarification of whether acid-load effects make aspartic acid unsuitable in RTA
 - Review of route and formulation compatibility with the new indication
+
+<!-- review:begin eu-lic-20261106-aspartic_acid-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Review of the reasons for the cancellation of the marketing authorisation, and assessment of route and formulation compatibility with the new indication" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-aspartic_acid-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "No clinical trials exist, the literature contains no efficacy data for RTA, the mechanistic link is weak, and the only EU authorisation has " | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "of the reasons for the cancellation of the marketing authorisation, and assessment" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

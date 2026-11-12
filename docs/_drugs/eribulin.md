@@ -69,11 +69,15 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002084 | Halaven | Eribulin | Valid |
 | EMEA/H/C/006134 | Mevlyq | Eribulin mesylate | Valid |
 | EMEA/H/C/006191 | Eribulin Baxter | Eribulin mesylate | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

@@ -5,7 +5,7 @@ layout: default
 title: Bimekizumab
 parent: Known Uses Only (No New Predictions)
 nav_order: 96
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Bimekizumab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Bimekizumab"
 predicted_indications: []
@@ -35,6 +35,12 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 </div>
 
+<!-- review:begin eu-lic-20261106-bimekizumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "This status should be verified against the current EMA register before any planning." Removed: it conflicted with the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-bimekizumab-1 -->
+
 ## Bimekizumab
 {: .text-alpha }
 
@@ -48,13 +54,29 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005316 | Bimzelx | bimekizumab | Valid |
 
+<!-- licenses:end -->
+
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "This status should be verified against the current EMA register before any planning" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

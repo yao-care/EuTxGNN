@@ -82,6 +82,8 @@ None of the publications below directly studies respiratory malformation. They a
 
 Formoterol is marketed in the European Union (10 licences recorded). All licences listed are combination products containing formoterol, so they do not describe the approval of formoterol as a single ingredient.
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002348 | DuoResp Spiromax | budesonide; formoterol fumarate dihydrate | Valid |
@@ -98,6 +100,8 @@ Formoterol is marketed in the European Union (10 licences recorded). All licence
 | EMEA/H/C/003952 | Vylaer Spiromax | budesonide; formoterol fumarate dihydrate | Withdrawn |
 | EMEA/H/C/003953 | Budesonide/Formoterol Teva Pharma B.V. | budesonide; formoterol | Withdrawn |
 | EMEA/H/C/004836 | Riarify | formoterol fumarate dihydrate; glycopyrronium; beclometasone dipropionate | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

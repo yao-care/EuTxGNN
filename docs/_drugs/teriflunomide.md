@@ -72,11 +72,15 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Terifluno
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002514 | Aubagio | teriflunomide | Valid |
 | EMEA/H/C/005960 | Teriflunomide Accord | teriflunomide | Valid |
 | EMEA/H/C/005962 | Teriflunomide Viatris | teriflunomide | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

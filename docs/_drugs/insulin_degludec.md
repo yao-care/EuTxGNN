@@ -70,11 +70,15 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002498 | Tresiba | insulin degludec | Valid |
 | EMEA/H/C/002499 | Ryzodeg | insulin aspart; insulin degludec | Valid |
 | EMEA/H/C/002647 | Xultophy | insulin degludec; liraglutide | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

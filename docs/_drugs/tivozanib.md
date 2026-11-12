@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 622
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tivozanib: predicted new indication Endocervical carcinoma (evidence level L5). Approved use: First-line treatment of adult patients with advanced renal cell carci…"
 monitor_inn: "Tivozanib"
 predicted_indications: ["endocervical carcinoma", "uterine ligament adenocarcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "cervical adenosquamous carcinoma, glassy cell variant", "uterine ligament endometrioid adenocarcinoma", "uterine ligament mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma", "cervical mucinous adenocarcinoma, minimal deviation variant"]
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004131 | Fotivda | tivozanib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -101,12 +105,38 @@ Other safety information (warnings and contraindications) was not available; ple
 **Rationale:**
 The prediction rests only on a TxGNN score. There are no clinical trials or publications for endocervical carcinoma, and the mechanistic rationale (anti-angiogenesis) is indirect.
 
+<!-- review:begin eu-lic-20261106-tivozanib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials or publications for endocervical carcinoma, and the mechanistic rationale (anti-angiogenesis) is indirect. In addition, the only EU marketing authorization for tivozanib is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tivozanib-1 -->
+
 **To proceed, the following is needed:**
 - A systematic search for clinical and preclinical evidence of tivozanib or other VEGFR inhibitors in cervical and endocervical carcinoma
 - Preclinical data (cell line or xenograft models) showing VEGFR pathway dependence in endocervical carcinoma
 - Detailed mechanism of action data and SmPC safety information (warnings and contraindications)
 - Clarification of the current regulatory status
 - A review of whether the predicted indication differs meaningfully from related histologies in the list, since the top predictions are closely related rare gynaecological subtypes
+
+<!-- review:begin eu-lic-20261106-tivozanib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the reason for the cancelled EU authorization and the current regulatory status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tivozanib-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "In addition, the only EU marketing authorization for tivozanib is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "the reason for the cancelled EU authorization and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 462
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Palonosetron"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Palonosetron: predicted new indication Migraine disorder (evidence level L4). Approved use: Aloxi is indicated in adults for: the prevention of acute nausea and…"
@@ -85,12 +85,16 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000563 | Aloxi | palonosetron hydrochloride | Valid |
 | EMEA/H/C/004129 | Palonosetron Accord | palonosetron | Valid |
 | EMEA/H/C/003728 | Akynzeo | netupitant; palonosetron hydrochloride | Valid |
 | EMEA/H/C/004069 | Palonosetron Hospira | palonosetron hydrochloride | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 
@@ -121,6 +125,25 @@ The prediction rests only on a model score. The single linked publication is a c
 - A review of whether palonosetron-associated headache outweighs any possible benefit
 - Safety information from the SmPC (warnings and contraindications) for safety screening
 - Clarification of EU regulatory status and of route and formulation compatibility
+
+<!-- review:begin eu-lic-20261106-palonosetron-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of EU regulatory status, since both authorizations are cancelled, and of route and formulation compatibility" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 4 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-palonosetron-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "since both authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

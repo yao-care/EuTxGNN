@@ -69,6 +69,8 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000582 | Avastin | bevacizumab | Valid |
@@ -84,6 +86,8 @@ Currently no related literature available.
 | EMEA/H/C/005181 | Equidacent | bevacizumab | Withdrawn |
 | EMEA/H/C/005611 | Lextemy | bevacizumab | Withdrawn |
 | EMEA/H/C/005640 | Onbevzi | bevacizumab | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

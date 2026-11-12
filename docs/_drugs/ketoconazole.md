@@ -82,9 +82,13 @@ The remaining literature is indirect. It concerns polycystic ovary syndrome with
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003906 | Ketoconazole Esteve | ketoconazole | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

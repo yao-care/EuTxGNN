@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 105
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Brigatinib: predicted new indication fibromatosis, gingival (evidence level L5). Approved use: ALK-positive advanced NSCLC (first-line, and after prior crizotinib)"
 monitor_inn: "Brigatinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "pulmonary sulcus neoplasm", "lung germ cell tumor", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
@@ -82,6 +82,12 @@ Currently no related literature available for gingival fibromatosis.
 
 For reference, the literature that surfaced under other predicted terms is summarized below. It is **not** evidence for the headline prediction.
 
+<!-- review:begin eu-lic-20261106-brigatinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The authorization status is **cancelled**." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-brigatinib-2 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [38904277](https://pubmed.ncbi.nlm.nih.gov/38904277/) | 2024 | Cohort/Case series | N Engl J Med | Brigatinib in NF2-related schwannomatosis with progressive tumors |
@@ -97,9 +103,13 @@ For reference, the literature that surfaced under other predicted terms is summa
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004248 | Alunbrig | brigatinib | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -137,12 +147,39 @@ Please refer to the SmPC for the full safety information, including contraindica
 - The prediction for gingival fibromatosis rests only on a model score, with no trials, no literature and no plausible mechanism.
 - The NF2-related schwannomatosis signal is more promising but is small, non-randomized, and tied to a mismatched disease label.
 
+<!-- review:begin eu-lic-20261106-brigatinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The prediction for gingival fibromatosis rests only on a model score, with no trials, no literature and no plausible mechanism. The EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-brigatinib-1 -->
+
 **To proceed, the following is needed:**
 - Remap the disease label to NF2-related schwannomatosis and reassess the evidence level for that indication.
 - Obtain detailed mechanism of action data (MOA).
 - Retrieve warnings and contraindications from the SmPC, which is currently missing and blocks safety screening.
 - Clarify the availability of the drug in the EU.
 - Define a safety monitoring plan, including tumour lysis syndrome and cardiac risks.
+
+<!-- review:begin eu-lic-20261106-brigatinib-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarify the reason for the cancelled EU authorization and the availability of the drug in the EU." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-brigatinib-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "The authorization status is **cancelled**" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "the reason for the cancelled EU authorization and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

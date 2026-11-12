@@ -72,10 +72,14 @@ The TxGNN model's candidates for Opicapone are all known uses. There is currentl
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002790 | Ongentys | opicapone | Valid |
 | EMEA/H/C/005782 | Ontilyv | opicapone | Lapsed |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

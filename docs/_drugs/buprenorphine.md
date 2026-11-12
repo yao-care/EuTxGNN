@@ -73,6 +73,8 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004651 | Buvidal | buprenorphine | Valid |
@@ -80,6 +82,8 @@ Currently no related clinical trials registered.
 | EMEA/H/C/004407 | Zubsolv | buprenorphine hydrochloride; naloxone hydrochloride dihydrate | Valid |
 | EMEA/H/C/004743 | Sixmo | buprenorphine hydrochloride | Withdrawn |
 | EMEA/H/C/000697 | Suboxone | buprenorphine; naloxone | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

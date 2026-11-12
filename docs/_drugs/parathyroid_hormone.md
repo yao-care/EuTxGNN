@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 466
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Parathyroid Hormone: predicted new indication Migraine disorder (evidence level L4). Approved use: Adjunctive treatment of adult patients with chronic hypoparathyroidis…"
 monitor_inn: "Parathyroid hormone"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "amenorrhea (disease)", "Raynaud disease", "non-syndromic esophageal malformation", "esophageal disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "erectile dysfunction (disease)"]
@@ -87,10 +87,14 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000659 | Preotact | parathyroid hormone (rDNA) | Withdrawn |
 | EMEA/H/C/003861 | Natpar | parathyroid hormone | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 
@@ -111,11 +115,30 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The migraine prediction has a very high model score but rests only on indirect evidence: one genetic association paper and observational links to calcium, vitamin D and bone status. No clinical trial tests PTH for migraine.
 
+<!-- review:begin eu-lic-20261031-parathyroid_hormone-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "No clinical trial tests PTH for migraine. The only EU authorisation is cancelled, and PTH's effect on serum calcium could worsen rather than relieve symptoms." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 2 EU marketing authorisations for this drug, 0 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-parathyroid_hormone-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data to clarify how the PTHrP/PTH1R pathway could relate to migraine
 - Preclinical or early mechanistic studies testing PTH or PTH1R modulation in migraine models
 - Warnings and contraindications from the SmPC, with particular attention to calcium effects and the major interactions with digoxin and digitoxin
 - A review of the cancelled Natpar authorisation and current availability of PTH products in the EU
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorisation is cancelled, and PTH's effect on serum calcium could worsen rather than relieve symptoms" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

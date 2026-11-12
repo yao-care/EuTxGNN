@@ -50,6 +50,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000885 | Bridion | sugammadex | Valid |
@@ -58,6 +60,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | EMEA/H/C/005935 | Sugammadex Amomed | sugammadex sodium | Valid |
 | EMEA/H/C/006046 | Sugammadex Adroiq | sugammadex sodium | Valid |
 | EMEA/H/C/006083 | Sugammadex Piramal | sugammadex sodium | Valid |
+
+<!-- licenses:end -->
 
 ---
 

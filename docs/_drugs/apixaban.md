@@ -76,10 +76,14 @@ However, nothing shows that apixaban acts on core migraine pathophysiology such 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002148 | Eliquis | apixaban | Valid |
 | EMEA/H/C/005358 | Apixaban Accord | apixaban | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

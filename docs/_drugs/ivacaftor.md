@@ -48,12 +48,16 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002494 | Kalydeco | ivacaftor | Valid |
 | EMEA/H/C/003954 | Orkambi | Lumacaftor; ivacaftor | Valid |
 | EMEA/H/C/004682 | Symkevi | tezacaftor; ivacaftor | Valid |
 | EMEA/H/C/005269 | Kaftrio | ivacaftor; tezacaftor; elexacaftor | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 506
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ramucirumab: predicted new indication Uterine ligament adenocarcinoma (evidence level L5). Approved use: Advanced gastric cancer or gastro-oesophageal junction adenocarcinoma…"
 monitor_inn: "Ramucirumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "cervical adenosquamous carcinoma, glassy cell variant", "uterine ligament endometrioid adenocarcinoma", "uterine ligament clear cell adenocarcinoma", "uterine ligament mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
@@ -78,9 +78,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002829 | Cyramza | ramucirumab | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -111,12 +115,31 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction is supported only by a high model score and general anti-angiogenic plausibility. There are no clinical trials or publications for any of the predicted gynaecologic adenocarcinoma entities (Evidence Level L5).
 
+<!-- review:begin eu-lic-20261031-ramucirumab-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials or publications for any of the predicted gynaecologic adenocarcinoma entities (Evidence Level L5). In addition, the only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-ramucirumab-1 -->
+
 **To proceed, the following is needed:**
 - Literature and trial searches (including case reports and cervical or endometrial cancer anti-angiogenic data) for the predicted entities
 - Detailed mechanism of action data (MOA)
 - Safety information from the SmPC (warnings and contraindications)
 - Clarification of the current EU regulatory status and available formulations
 - Assessment of route compatibility and similarity to the original indications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "In addition, the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 392
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Memantine: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Treatment of patients with moderate to severe Alzheimer's disease"
 monitor_inn: "Memantine"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
@@ -71,6 +71,12 @@ Currently no related clinical trials registered for pulmonary hypertension.
 
 For reference, the only completed trial identified across the predicted indications relates to migraine (rank 2):
 
+<!-- review:begin eu-lic-20261106-memantine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed; all 8 licences are currently valid (8 of 8)." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-memantine-1 -->
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
 | [NCT04698525](https://clinicaltrials.gov/study/NCT04698525) | Phase 3 | Completed | 33 | Memantine vs sodium valproate for prophylaxis of episodic migraine; directly relevant but small, limiting confidence |
@@ -84,6 +90,8 @@ For reference, the only completed trial identified across the predicted indicati
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000378 | Axura | memantine hydrochloride | Valid |
@@ -96,7 +104,15 @@ For reference, the only completed trial identified across the predicted indicati
 | EMEA/H/C/002766 | Memantine Accord | memantine hydrochloride | Valid |
 | EMEA/H/C/002630 | Memantine LEK | memantine hydrochloride | Withdrawn |
 
+<!-- licenses:end -->
+
 The remaining three authorisations (Axura, Ebixa, Marixino) carry the same indication.
+
+<!-- review:begin eu-lic-20261106-memantine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The remaining three authorisations (Axura, Ebixa, Marixino) carry the same indication and are also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-memantine-2 -->
 
 ## Safety Considerations
 
@@ -115,11 +131,32 @@ Please refer to the SmPC for the full safety information, including warnings and
 **Rationale:**
 The pulmonary hypertension prediction rests on a very high model score alone. No trials exist, and the two retrieved papers do not show that memantine itself works in this disease; one concerns a different compound. The evidence level is L5. In addition, the drug is marketed.
 
+<!-- review:begin eu-lic-20261106-memantine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the drug is marketed, with 8 valid licences out of 8." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 9 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-memantine-3 -->
+
 **To proceed, the following is needed:**
 - Preclinical studies of memantine itself in pulmonary hypertension models, and review of the MN-08 programme to judge whether it is relevant to memantine
 - Mechanism of action data for memantine, to support mechanistic-link analysis
 - Warnings and contraindications from the official product information, which are required before safety screening can proceed
 - If a more evidence-rich direction is preferred, a separate evaluation of **migraine prophylaxis** (L2): a larger, adequately powered randomised trial is needed, since the existing Phase 3 trial has only 33 participants and the literature describes the evidence as limited
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The drug is marketed; all 8 licences are currently valid (8 of 8)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "and are also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "with 8 valid licences out of 8" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

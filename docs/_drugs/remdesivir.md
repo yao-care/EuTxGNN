@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 516
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Remdesivir"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
 description: "Remdesivir: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Veklury is indicated for the treatment of coronavirus disease 2019 (C…"
@@ -82,9 +82,13 @@ Currently no related literature available for multiple endocrine neoplasia.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005622 | Veklury | remdesivir | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -107,12 +111,31 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction rests only on a TxGNN model (deep learning) score.
 
+<!-- review:begin eu-lic-20261031-remdesivir-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction rests only on a TxGNN model (deep learning) score. There are no clinical trials or publications, no plausible mechanism links an antiviral polymerase inhibitor to a hereditary endocrine tumour syndrome, and the only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-remdesivir-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible biological rationale for multiple endocrine neoplasia
 - Preclinical evidence (for example, cell or animal models of MEN1/RET-driven disease)
 - Warnings and contraindications from the SmPC to support safety screening
 - Route and dosage-form compatibility assessment for the new indication
 - Reassessment of whether other predictions (for example, HIV or CMV infection) merit follow-up, given that none currently shows evidence of efficacy
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "There are no clinical trials or publications, no plausible mechanism links an antiviral polymerase inhibitor to a hereditary endocrine tumou" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 505
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Raltegravir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: Treatment of HIV-1 infection…"
 monitor_inn: "Raltegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -69,6 +69,12 @@ Currently no related clinical trials registered.
 
 The 15 retrieved publications are mostly preclinical. Selected key papers:
 
+<!-- review:begin eu-lic-20261106-raltegravir-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "This authorization is recorded as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-raltegravir-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [20233398](https://pubmed.ncbi.nlm.nih.gov/20233398/) | 2010 | Preclinical (in vivo/in vitro) | Retrovirology | Regimen of two Nt/NRTIs plus raltegravir created for SIVmac251-infected macaques, as a simian AIDS model |
@@ -84,10 +90,14 @@ The 15 retrieved publications are mostly preclinical. Selected key papers:
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000860 | Isentress | raltegravir | Valid |
 | EMEA/H/C/003823 | Dutrebis | lamivudine; raltegravir potassium | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -106,11 +116,38 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The only support for the simian immunodeficiency virus infection prediction is preclinical macaque and in vitro work, with no clinical trials. SIV is an animal-model extension of the existing HIV indication, not a human therapeutic need. The drug is marketed in this country.
 
+<!-- review:begin eu-lic-20261106-raltegravir-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in this country, with 1 valid licence out of 1." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-raltegravir-3 -->
+
 **To proceed, the following is needed:**
 - A defined purpose for the prediction (for example, use as a nonhuman primate research tool versus a human indication)
 - Mechanism of action data (MOA)
 - The SmPC warnings and contraindications, which are required for safety screening
 - Review of the other predicted indications, since congenital HIV and AIDS-related complex overlap with the original HIV indication and are not true repurposing
+
+<!-- review:begin eu-lic-20261106-raltegravir-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The SmPC warnings and contraindications, which are required for safety screening / Clarification of the cancelled EU authorization status and of any current market availability" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-raltegravir-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "This authorization is recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Clarification of the cancelled EU authorization status and of any current market availability" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "with 1 valid licence out of 1" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

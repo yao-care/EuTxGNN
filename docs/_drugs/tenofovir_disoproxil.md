@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 601
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Tenofovir disoproxil"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 description: "Tenofovir Disoproxil: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV?1 infection Tenofovir disoproxil Zentiva is indicated in combinat…"
@@ -84,6 +84,8 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000419 | Viread | tenofovir disoproxil fumarate | Valid |
@@ -101,6 +103,8 @@ Currently no related clinical trials registered.
 | EMEA/H/C/004686 | Emtricitabine/Tenofovir disoproxil Krka d.d. | emtricitabine; tenofovir disoproxil succinate | Valid |
 | EMEA/H/C/004746 | Delstrigo | doravirine; lamivudine; tenofovir disoproxil fumarate | Valid |
 | EMEA/H/C/000797 | Atripla | efavirenz; emtricitabine; tenofovir disoproxil fumarate | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 
@@ -125,6 +129,25 @@ The prediction rests on a single veterinary combination-therapy study with no re
 - Safety information from the SmPC (warnings, contraindications, drug interactions)
 - Verification of current regional approvals and available formulations, given that the drug is marketed here
 - Review of the other predictions in the data, such as hepatitis B virus infection. That one has Phase 3 RCT support, but it is already a labeled indication and so confirms an existing use rather than a new one.
+
+<!-- review:begin eu-lic-20261106-tenofovir_disoproxil-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Verification of current regional approvals and available formulations, given that the drug is marketed here with 3 valid licences out of 3" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 15 EU marketing authorisations for this drug, 14 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tenofovir_disoproxil-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 3 valid licences out of 3" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

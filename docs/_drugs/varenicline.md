@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 658
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Varenicline: predicted new indication Migraine disorder (evidence level L5). Approved use: Smoking cessation in adults"
 monitor_inn: "Varenicline"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "alopecia", "open-angle glaucoma", "primary hereditary glaucoma", "headache disorder", "pulmonary hypertension"]
@@ -75,9 +75,13 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000699 | Champix | varenicline | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -94,12 +98,38 @@ For full warnings and contraindications, please refer to the SmPC.
 **Rationale:**
 The prediction is supported only by a model score. No trials exist, and the single linked paper is a cardiac safety case report. The knowledge graph flags psychiatric and cardiovascular cautions, so there is no basis to advance.
 
+<!-- review:begin eu-lic-20261106-varenicline-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Varenicline's EU authorization is cancelled, and the knowledge graph flags psychiatric and cardiovascular cautions, so there is no basis to advance." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-varenicline-2 -->
+
 **To proceed, the following is needed:**
 - Official EU safety information (warnings and contraindications from the SmPC), which is currently missing and blocks safety screening
 - Detailed mechanism of action data
 - Preclinical or early clinical evidence that varenicline reduces migraine, given that headache is a known adverse effect
 - A cardiovascular and neuropsychiatric risk assessment for a migraine population
 - Clarification of the regulatory pathway for any new use
+
+<!-- review:begin eu-lic-20261106-varenicline-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the EU authorization was cancelled and of the regulatory pathway for any new use" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-varenicline-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "of why the EU authorization was cancelled and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Varenicline's EU authorization is cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 329
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Insulin Human: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Treatment of diabetes mellitus"
 monitor_inn: "Insulin human"
 predicted_indications: ["autoimmune oophoritis", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy"]
@@ -73,7 +73,15 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin eu-lic-20261106-insulin_human-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All five authorizations are valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 12 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-insulin_human-1 -->
+
 ## EU Market Information
+
+<!-- licenses:begin -->
 
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
@@ -89,6 +97,8 @@ Currently no related literature available.
 | EMEA/H/C/000588 | Exubera | insulin human | Withdrawn |
 | EMEA/H/C/000761 | Insulin Human Winthrop | insulin human | Withdrawn |
 | EMEA/H/C/005331 | Inpremzia | insulin human (rDNA) | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -110,12 +120,39 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction rests only on a model score. No clinical trials or publications support insulin for autoimmune oophoritis, and no direct mechanistic link is supported by the data. The other top predictions are explained by comorbidity with diabetes or by insulin's own adverse effects, not by new therapeutic potential.
 
+<!-- review:begin eu-lic-20261106-insulin_human-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "No clinical trials or publications support insulin for autoimmune oophoritis, and no direct mechanistic link is supported by the data. In addition, the drug is marketed in this country, with 5 valid licences of 5." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 12 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-insulin_human-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for insulin human, to assess any link to ovarian autoimmunity
 - Systematic literature and trial searches for insulin in autoimmune oophoritis
 - Warnings and contraindications from the SmPC, which are currently missing
 - Confirmation of the current regulatory status
 - Supporting preclinical or mechanistic evidence before any clinical development
+
+<!-- review:begin eu-lic-20261106-insulin_human-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the current regulatory status, since 5 of 5 licences are valid" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 12 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-insulin_human-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All five authorizations are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "In addition, the drug is marketed in this country, with 5 valid licences of 5" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "since 5 of 5 licences are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 669
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Vilanterol"
 predicted_indications: ["hyperlucent lung", "tracheal stenosis", "bronchial neoplasm (disease)", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
 description: "Vilanterol: predicted new indication Hyperlucent lung (evidence level L5). Approved use: Laventair Ellipta is indicated as a maintenance bronchodilator treatm…"
@@ -97,6 +97,8 @@ The compiled data contain many more trials than shown here. The table lists the 
 
 Dosage form and manufacturer were not available in the compiled data.
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002673 | Relvar Ellipta | fluticasone furoate; vilanterol | Valid |
@@ -107,7 +109,15 @@ Dosage form and manufacturer were not available in the compiled data.
 | EMEA/H/C/004781 | Elebrato Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Valid |
 | EMEA/H/C/005254 | Temybric Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Lapsed |
 
+<!-- licenses:end -->
+
 A sixth licence, Trelegy Ellipta (EMEA/H/C/004363), has the same COPD indication as Elebrato Ellipta.
+
+<!-- review:begin eu-lic-20261106-vilanterol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A sixth licence, Trelegy Ellipta (EMEA/H/C/004363), has the same COPD indication as Elebrato Ellipta and is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 7 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-vilanterol-1 -->
 
 ## Safety Considerations
 
@@ -133,6 +143,19 @@ Reviewing the full interaction list is recommended before any use.
 - Obtain detailed mechanism-of-action data.
 - Review the full list of 100 interactions, particularly with antidiabetic drugs, QT-prolonging drugs and sympathomimetics.
 - Confirm formulation and dosage form details, which are missing from the authorisation records.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

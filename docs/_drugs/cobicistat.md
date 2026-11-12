@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 155
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cobicistat: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: Pharmacokinetic enhancer of atazanavir 300 mg or darunavir 800 mg onc…"
 monitor_inn: "Cobicistat"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -84,9 +84,17 @@ For context, the closest HIV-related prediction, AIDS related complex, has one d
 
 Currently no related literature available for simian immunodeficiency virus infection.
 
+<!-- review:begin eu-lic-20261106-cobicistat-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "This authorization is recorded as valid, and the drug is marketed in this country (1 valid licence of 1)." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 6 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-cobicistat-1 -->
+
 ---
 
 ## EU Market Information
+
+<!-- licenses:begin -->
 
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
@@ -96,6 +104,8 @@ Currently no related literature available for simian immunodeficiency virus infe
 | EMEA/H/C/003904 | Evotaz | cobicistat; atazanavir | Valid |
 | EMEA/H/C/004042 | Genvoya | elvitegravir; cobicistat; emtricitabine; tenofovir alafenamide | Valid |
 | EMEA/H/C/004391 | Symtuza | darunavir; cobicistat; emtricitabine; tenofovir alafenamide | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -123,6 +133,19 @@ The prediction has no clinical or literature support and no plausible mechanism,
 - Mechanism of action data
 - Warnings and contraindications from the EMA product information
 - Any repurposing effort should focus on a clinically meaningful question, such as cobicistat's boosting role in HIV regimens, including CNS exposure and use in HIV/HCV or HIV/HBV co-infection. It should not target SIV.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "This authorization is recorded as valid, and the drug is marketed in this country (1 valid licence of 1)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

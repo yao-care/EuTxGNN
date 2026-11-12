@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 145
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Chenodeoxycholic Acid: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Inborn errors of primary bile acid synthesis due to sterol 27-hydroxy…"
 monitor_inn: "Chenodeoxycholic acid"
 predicted_indications: ["homozygous familial hypercholesterolemia", "brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "obsolete familial combined hyperlipidemia", "obsolete hyperuricemia (disease)"]
@@ -84,9 +84,13 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004061 | Chenodeoxycholic acid Leadiant | chenodeoxycholic acid | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -113,11 +117,23 @@ Please refer to the SmPC for the full safety information.
 **Rationale:**
 The prediction has no clinical trials and no disease-specific literature. The mechanistic link is only indirect, and CDCA can raise LDL cholesterol, which runs against the proposed use.
 
+<!-- review:begin eu-lic-20261031-chenodeoxycholic_acid-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The mechanistic link is only indirect, and CDCA can raise LDL cholesterol, which runs against the proposed use. The only EU authorisation has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-chenodeoxycholic_acid-1 -->
+
 **To proceed, the following is needed:**
 - Mechanistic data (MOA) and an analysis of how FXR-mediated effects would affect LDL-C in familial hypercholesterolemia
 - Preclinical or early clinical studies of CDCA in lipid disorders
 - Current EU label warnings and contraindications for a full safety assessment
 - A hepatotoxicity risk assessment and a plan for managing the interactions with lipid-lowering drugs and bile acid sequestrants
+
+<!-- review:begin eu-lic-20261106-chenodeoxycholic_acid-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Current EU label warnings and contraindications (the cancelled SmPC) for a full safety assessment" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-chenodeoxycholic_acid-2 -->
 
 ---
 
@@ -127,6 +143,19 @@ The prediction has no clinical trials and no disease-specific literature. The me
 |---|---|---|---|---|
 | 4 | Familial combined hyperlipidemia (obsolete term) | 0.9934 | L5 | Plausible but unsupported; the disease term is obsolete. |
 | 2, 3, 5, 6, 8, 9, 10 | COL4A1-related disorders, hyperuricemia (obsolete term) | 0.9927–0.9943 | L5 | No identified mechanistic link; the scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorisation has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "(the cancelled SmPC)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

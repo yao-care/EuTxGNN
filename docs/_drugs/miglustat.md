@@ -100,6 +100,8 @@ The other nine top predictions have no trials or literature. Several have weak o
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000435 | Zavesca | miglustat | Valid |
@@ -107,6 +109,8 @@ The other nine top predictions have no trials or literature. Several have weak o
 | EMEA/H/C/004366 | Veanibek | miglustat | Valid |
 | EMEA/H/C/004904 | Miglustat Dipharma | miglustat | Valid |
 | EMEA/H/C/005695 | Opfolda | miglustat | Valid |
+
+<!-- licenses:end -->
 
 ---
 

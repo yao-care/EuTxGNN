@@ -50,10 +50,14 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004750 | Zolgensma | onasemnogene abeparvovec | Valid |
 | EMEA/H/C/006498 | Itvisma | onasemnogene abeparvovec | Valid |
+
+<!-- licenses:end -->
 
 ---
 

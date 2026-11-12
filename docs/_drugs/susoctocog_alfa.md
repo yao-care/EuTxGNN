@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 580
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Susoctocog Alfa: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Treatment of bleeding episodes in patients with acquired haemophilia…"
 monitor_inn: "Susoctocog alfa"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "congenital factor XIII deficiency", "adenosine deaminase deficiency"]
@@ -93,9 +93,13 @@ No literature is available for the top-ranked prediction.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002792 | Obizur | susoctocog alfa | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -108,11 +112,37 @@ Please refer to the SmPC for safety information. No drug-interaction records wer
 **Rationale:**
 The top-ranked prediction (primary release disorder of platelets) has no clinical or literature evidence (L5) and no plausible mechanism, since FVIII replacement does not correct platelet function defects. The better-supported predictions (hemophilia, acquired coagulation factor deficiency) largely reflect the already-approved acquired haemophilia A indication.
 
+<!-- review:begin eu-lic-20261031-susoctocog_alfa-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The better-supported predictions (hemophilia, acquired coagulation factor deficiency) largely reflect the already-approved acquired haemophilia A indication. The only EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-susoctocog_alfa-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (DrugBank)
 - Warnings and contraindications from the SmPC, which are currently missing and block safety screening
 - For congenital haemophilia A with inhibitors, dedicated data beyond the single-arm surgical study (PMID 38317504), including a regulatory assessment
 - No further work on the platelet and other non-FVIII-related predictions unless a plausible biological rationale emerges
+
+<!-- review:begin eu-lic-20261106-susoctocog_alfa-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Warnings and contraindications from the SmPC, which are currently missing and block safety screening / Clarification of why the EU authorization was cancelled and whether any marketed supply remains" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-susoctocog_alfa-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Clarification of why the EU authorization was cancelled and whether any marketed supply remains" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

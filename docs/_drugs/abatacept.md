@@ -85,9 +85,13 @@ The only direct clinical evidence is a small, uncontrolled, open-label pilot pro
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000701 | Orencia | abatacept | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

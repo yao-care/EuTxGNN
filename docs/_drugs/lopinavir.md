@@ -73,10 +73,14 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000368 | Kaletra | lopinavir; ritonavir | Valid |
 | EMEA/H/C/004025 | Lopinavir/Ritonavir Viatris | lopinavir; ritonavir | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

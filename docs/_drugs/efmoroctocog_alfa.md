@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 210
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Efmoroctocog Alfa: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia A…"
 monitor_inn: "Efmoroctocog alfa"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "fetal and neonatal alloimmune thrombocytopenia", "thrombotic thrombocytopenic purpura"]
@@ -89,9 +89,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003964 | Elocta | efmoroctocog alfa | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -110,6 +114,12 @@ No drug-drug interaction records were found in the data compiled for this report
 **Rationale:**
 The prediction has a very high model score, but there are no clinical trials or publications, so evidence is at the lowest level (L5). The disease's mechanism (a platelet GPIbα/VWF defect) is not one that FVIII replacement would be expected to correct.
 
+<!-- review:begin eu-lic-20261031-efmoroctocog_alfa-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The disease's mechanism (a platelet GPIbα/VWF defect) is not one that FVIII replacement would be expected to correct. The product's only EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-efmoroctocog_alfa-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for efmoroctocog alfa
 - Safety information (warnings and contraindications) from the SmPC, which was not available for this report
@@ -117,6 +127,19 @@ The prediction has a very high model score, but there are no clinical trials or 
 - Any case reports or clinical literature in pseudo-von Willebrand disease
 - Confirmation of current marketing and supply status in the EU
 - If any alternative is pursued, review of **acquired coagulation factor deficiency**, restricted to specific subtypes and with attention to inhibitor status, as the most plausible of the ten predictions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The product's only EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

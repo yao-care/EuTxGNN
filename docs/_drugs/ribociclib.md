@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 521
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ribociclib: predicted new indication Myeloid leukemia (evidence level L4). Approved use: HR-positive…"
 monitor_inn: "Ribociclib"
 predicted_indications: ["myeloid leukemia", "thrombocytopenia", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets"]
@@ -85,9 +85,13 @@ A second publication returned for this prediction is a case report of vulvar ade
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004213 | Kisqali | ribociclib succinate | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -119,6 +123,12 @@ Myelosuppression is a particular concern in leukemia. The bone marrow is already
 **Rationale:**
 The prediction rests on a single in vitro study and a plausible but indirect mechanism, with no clinical trials in myeloid leukemia. Ribociclib's marked myelosuppression is a further concern in a bone-marrow malignancy.
 
+<!-- review:begin eu-lic-20261031-ribociclib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Ribociclib's marked myelosuppression is a further concern in a bone-marrow malignancy. Its only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-ribociclib-1 -->
+
 **To proceed, the following is needed:**
 - In vivo or ex vivo studies of ribociclib in myeloid leukemia models, including combination with standard AML therapy
 - Detailed mechanism of action data and a clear rationale for the myeloid setting
@@ -126,6 +136,19 @@ The prediction rests on a single in vitro study and a plausible but indirect mec
 - Clarification of the current EU regulatory status of ribociclib and review of the SmPC warnings and contraindications
 
 **Note:** Among the other model predictions, "female breast carcinoma" matches the drug's existing approved use and is supported by multiple Phase 3 RCTs (for example MONALEESA-2, -3, -7 and NATALEE). It is on-label use, not new repurposing. Several thrombocytopenia-related predictions appear to reflect a known adverse effect of ribociclib rather than a therapeutic target.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Its only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

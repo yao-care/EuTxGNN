@@ -72,9 +72,13 @@ The TxGNN model's candidates for Tofacitinib (score ≥ 0.99) that can be traced
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004214 | Xeljanz | tofacitinib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

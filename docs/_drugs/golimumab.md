@@ -69,11 +69,15 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000992 | Simponi | golimumab | Valid |
 | EMEA/H/C/006560 | Gobivaz | golimumab | Valid |
 | EMEA/H/C/006621 | Gotenfia | golimumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

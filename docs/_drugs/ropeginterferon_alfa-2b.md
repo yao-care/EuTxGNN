@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 537
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Ropeginterferon alfa-2b"
 predicted_indications: ["Laubry-Pezzi syndrome", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "Jeune syndrome situs inversus", "partial deletion of the long arm of chromosome 22", "orofacial clefting syndrome", "pulmonary valve disease"]
 description: "Ropeginterferon Alfa-2B: predicted new indication Laubry-Pezzi syndrome (evidence level L5). Approved use: Besremi is indicated as monotherapy in adults for the treatment of po…"
@@ -81,9 +81,13 @@ Currently no related literature available for Laubry-Pezzi syndrome.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004128 | Besremi | ropeginterferon alfa-2b | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -112,11 +116,37 @@ Please refer to the SmPC for safety information. No warning, contraindication, o
 **Rationale:**
 The prediction rests on model output alone (L5). No clinical trials or literature support it, and there is no plausible mechanistic link between an interferon acting on myeloproliferative clones and a structural cardiac defect. The only publications linked to the top-ranked entries concern polycythaemia vera, the already-approved use, and do not support the predicted indication.
 
+<!-- review:begin eu-lic-20261106-ropeginterferon_alfa-2b-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The only publications linked to the top-ranked entries concern polycythaemia vera, the already-approved use, and do not support the predicted indication. The EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-ropeginterferon_alfa-2b-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, to allow a proper mechanistic assessment
 - Warnings and contraindications from the SmPC, which are a blocking gap for safety screening
 - Any preclinical or clinical evidence that interferon-alpha has a role in Laubry-Pezzi syndrome or related cardiac structural conditions
 - Review of whether the high TxGNN scores for structural and developmental conditions reflect a model artefact rather than true biological signal
+
+<!-- review:begin eu-lic-20261106-ropeginterferon_alfa-2b-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Any preclinical or clinical evidence that interferon-alpha has a role in Laubry-Pezzi syndrome or related cardiac structural conditions / Clarification of the reasons for and the status of the cancelled EU authorization" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-ropeginterferon_alfa-2b-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Clarification of the reasons for and the status of the cancelled EU authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

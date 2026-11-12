@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 424
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Nepafenac: predicted new indication Eye disease (evidence level L1). Approved use: Prevention and treatment of postoperative pain and inflammation assoc…"
 monitor_inn: "Nepafenac"
 predicted_indications: ["eye disease", "optic papillitis", "hypotrichosis simplex of the scalp", "seborrheic keratosis", "von Hippel anomaly", "congenital hypotrichosis milia", "mcpherson robertson cammarano syndrome", "lagophthalmos", "vulvar inverted follicular keratosis", "vitreous detachment"]
@@ -101,9 +101,13 @@ Other registered trials explore off-label retinal uses, for example epiretinal m
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000818 | Nevanac | nepafenac | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -119,11 +123,37 @@ Please refer to the SmPC for the full warnings, contraindications, and drug inte
 **Rationale:**
 Multiple completed Phase 3 trials support nepafenac in postoperative ocular inflammation, pain, and macular oedema in diabetic patients. However, this evidence mainly covers the already approved use rather than a new indication. Evidence for broader retinal uses is small and exploratory. The other predicted indications lack evidence and should stay on Hold.
 
+<!-- review:begin eu-lic-20261106-nepafenac-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The EU authorization is cancelled, and evidence for broader retinal uses is small and exploratory." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-nepafenac-2 -->
+
 **To proceed, the following is needed:**
 - Obtain and review the SmPC warnings and contraindications
 - Obtain detailed mechanism-of-action data from DrugBank
 - Review results from the trials in retinal surgery and diabetic macular oedema before pursuing those uses
 - Define a corneal safety monitoring plan, especially for patients with ocular surface disease, diabetes, or rheumatoid arthritis
+
+<!-- review:begin eu-lic-20261031-nepafenac-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "**To proceed, the following is needed:** / Confirm current market availability in the EU, since the only registered authorization is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-nepafenac-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Confirm current market availability in the EU, since the only registered authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "The U authorization is cancelled, and e" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

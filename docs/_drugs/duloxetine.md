@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 203
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Duloxetine: predicted new indication Top-ranked by TxGNN: benign paroxysmal torticollis of infancy . Best-… (evidence level L5). Approved use: Major depressive disorder, diabetic peripheral neuropath…"
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
@@ -107,6 +107,8 @@ For agoraphobia, indirect support comes from open-label work in panic disorder (
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000545 | Yentreve | duloxetine hydrochloride | Valid |
@@ -117,6 +119,8 @@ For agoraphobia, indirect support comes from open-label work in panic disorder (
 | EMEA/H/C/000552 | Ariclaim | duloxetine | Withdrawn |
 | EMEA/H/C/000573 | Nodetrip | duloxetine | Withdrawn |
 | EMEA/H/C/001007 | Duloxetine Boehringer Ingelheim | duloxetine | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 
@@ -141,11 +145,37 @@ Please refer to the SmPC for label warnings and contraindications.
 - The top-ranked prediction has a very high model score but no trials, no literature and no plausible mechanism, so it should not advance.
 - OCD has a double-blind controlled trial, open-label studies and a completed Phase 4 trial, but all are small and heterogeneous. SSRIs and clomipramine remain first-line, and there is no Phase 3 confirmation.
 
+<!-- review:begin eu-lic-20261106-duloxetine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "SSRIs and clomipramine remain first-line, and there is no Phase 3 confirmation. All five licences are currently valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 8 EU marketing authorisations for this drug, 5 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-duloxetine-1 -->
+
 **To proceed, the following is needed:**
 - Adequately powered, controlled (ideally Phase 3) trials of duloxetine in OCD, particularly in SSRI-resistant patients
 - Mechanism of action data to support the mechanistic-link analysis
 - EU label warnings and contraindications (SmPC) to complete safety screening
 - A safety monitoring plan covering the knowledge-graph contraindications and major drug interactions listed above
+
+<!-- review:begin eu-lic-20261106-duloxetine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "EU label warnings and contraindications (SmPC) to complete safety screening / Clarification of the regulatory and market situation, given that the drug is marketed and all five licences are valid" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 8 EU marketing authorisations for this drug, 5 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-duloxetine-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All five licences are currently valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Clarification of the regulatory and market situation, given that the drug is marketed and all five licences are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

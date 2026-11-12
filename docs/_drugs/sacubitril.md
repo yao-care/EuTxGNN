@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 544
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Sacubitril"
 predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
 description: "Sacubitril: predicted new indication Brain small vessel disease 1 with or without ocular anomalies (evidence level L5). Approved use: Paediatric heart failure Entresto is indicated in children and ad…"
@@ -97,10 +97,14 @@ Important caveats: the drug is given as a combination with valsartan, so the con
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004062 | Entresto | sacubitril; valsartan | Valid |
 | EMEA/H/C/004343 | Neparvis | sacubitril; valsartan | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -119,12 +123,38 @@ For warnings and contraindications, please refer to the SmPC for safety informat
 **Rationale:**
 Diabetic nephropathy has the best support among the predictions: one Phase 4 randomized trial (status unknown, no results), supportive preclinical data, and a PARADIGM-HF secondary analysis. However, the human evidence is not yet confirmatory, the effect cannot be attributed to sacubitril separately from valsartan. Safety data for this report are also incomplete.
 
+<!-- review:begin eu-lic-20261106-sacubitril-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, the human evidence is not yet confirmatory, the effect cannot be attributed to sacubitril separately from valsartan, and the EU authorizations for both products are cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-sacubitril-1 -->
+
 **To proceed, the following is needed:**
 - Results or an updated status for NCT06501651, and ideally adequately powered Phase 3 trials with renal endpoints
 - Mechanism of action data (MOA) from DrugBank
 - Warnings and contraindications from the EMA product information
 - Clarification of the current EU regulatory pathway
 - Analysis to separate the sacubitril contribution from valsartan, and a safety plan for patients with diabetic kidney disease (e.g., renal function, potassium, blood pressure)
+
+<!-- review:begin eu-lic-20261106-sacubitril-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the current EU regulatory pathway given that both authorizations are cancelled" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-sacubitril-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the EU authorizations for both products are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "given that both authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

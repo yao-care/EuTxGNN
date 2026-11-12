@@ -83,11 +83,15 @@ For context, the closest related literature (found for other predicted indicatio
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000574 | Azilect | rasagiline | Valid |
 | EMEA/H/C/003957 | Rasagiline ratiopharm | rasagiline | Valid |
 | EMEA/H/C/004064 | Rasagiline Viatris | rasagiline tartrate | Valid |
+
+<!-- licenses:end -->
 
 All three authorizations are listed as valid.
 

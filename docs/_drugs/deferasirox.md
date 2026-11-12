@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 179
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Deferasirox"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
 description: "Deferasirox: predicted new indication HIV infectious disease (evidence level L4). Approved use: Deferasirox Mylan is indicated for the treatment of chronic iron over…"
@@ -81,11 +81,15 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000670 | Exjade | deferasirox | Valid |
 | EMEA/H/C/005014 | Deferasirox Mylan | deferasirox | Valid |
 | EMEA/H/C/005156 | Deferasirox Accord | deferasirox | Valid |
+
+<!-- licenses:end -->
 
 All three authorizations are listed as valid.
 
@@ -108,6 +112,25 @@ The HIV prediction has a high model score but no clinical trials, and its only s
 - Label warnings and contraindications from the SmPC (for safety screening)
 - Direct preclinical data on deferasirox in HIV models, to establish the direction and size of any effect
 - A safety assessment for people living with HIV, given the liver, kidney and blood-cell disorder signals and the major interactions listed above
+
+<!-- review:begin eu-lic-20261106-deferasirox-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A safety assessment for people living with HIV, given the liver, kidney and blood-cell disorder signals and the major interactions listed above / Clarification of why the EU authorizations were cancelled and whether this affects feasibility" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-deferasirox-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Clarification of why the EU authorizations were cancelled and whether this affects feasibility" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

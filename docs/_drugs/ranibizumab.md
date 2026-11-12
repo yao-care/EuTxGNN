@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ranibizumab"
 predicted_indications: ["mature cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "tetanic cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "hemorrhagic disease of newborn"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ranibizumab: predicted new indication Mature cataract (evidence level L5). Approved use: Neovascular (wet) age-related macular degeneration (AMD)…"
 ---
 
@@ -75,6 +75,8 @@ Currently no related clinical trials are registered for mature cataract.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000715 | Lucentis | ranibizumab | Valid |
@@ -88,7 +90,15 @@ Currently no related clinical trials are registered for mature cataract.
 | EMEA/H/C/006634 | Rexatilux | ranibizumab | Valid |
 | EMEA/H/C/006926 | Vislyfa | ranibizumab | Valid |
 
+<!-- licenses:end -->
+
 None of the authorizations covers cataract.
+
+<!-- review:begin eu-lic-20261106-ranibizumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The list shows 5 of 7 authorizations. The other two are Ranluspec (EMEA/H/C/006502) and Epruvy, previously Ranibizumab Midas (EMEA/H/C/006528), with the same retinal indications. None of the authorizations covers cataract." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 10 EU marketing authorisations for this drug, 10 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-ranibizumab-1 -->
 
 ## Safety Considerations
 
@@ -109,6 +119,19 @@ There are no clinical trials and no study showing that ranibizumab treats catara
 - Mechanism of action data for ranibizumab
 - Any clinical or controlled study that directly tests ranibizumab on cataract itself
 - Safety information from the SmPC (warnings and contraindications), including the knowledge-graph contraindication relations with eye infection and conjunctivitis
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The list shows 5 of 7 authorizations. The other two are Ranluspec (EMEA/H/C/006502) and Epruvy, previously Ranibizumab Midas (EMEA/H/C/00652" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

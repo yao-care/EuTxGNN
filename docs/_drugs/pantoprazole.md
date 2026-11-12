@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 465
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Pantoprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Pantoprazole: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Short-term treatment of reflux symptoms (e.g. heartburn…"
@@ -98,6 +98,8 @@ Most retrieved publications are reviews or comparisons among PPIs. Direct random
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001013 | Pantozol Control | pantoprazole | Valid |
@@ -105,6 +107,8 @@ Most retrieved publications are reviews or comparisons among PPIs. Direct random
 | EMEA/H/C/001098 | Somac Control | pantoprazole | Valid |
 | EMEA/H/C/001099 | Pantecta Control | pantoprazole | Withdrawn |
 | EMEA/H/C/001100 | Pantoloc Control | pantoprazole | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 
@@ -127,6 +131,12 @@ Label-based warnings and contraindications were not available; please refer to t
 **Rationale:**
 Active peptic ulcer disease is a core acid-related indication. A completed Phase 3 randomized trial and a substantial body of ulcer-related literature (including randomized duodenal ulcer trials) support it, so the evidence level is L1. The guardrails reflect that the Phase 3 trial is a comparison of PPI-based H. pylori triple therapy rather than a pantoprazole-versus-placebo ulcer-healing study, and that safety label data are missing.
 
+<!-- review:begin eu-lic-20261106-pantoprazole-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The guardrails reflect that all three EU centrally authorized products are cancelled, that the Phase 3 trial is a comparison of PPI-based H. pylori triple therapy rather than a pantoprazole-versus-placebo ulcer-healing study, and that safety label data are missing." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 5 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-pantoprazole-2 -->
+
 Other predictions in the ranking vary widely:
 - **Duodenal ulcer and gastric ulcer**: L1, Proceed with Guardrails.
 - **Peptic ulcer perforation and duodenogastric reflux**: L3, Research Question (adjunct or physiological evidence only).
@@ -139,6 +149,26 @@ Other predictions in the ranking vary widely:
 - Clarification of the regulatory route
 - Review of long-term safety concerns (bone health, vitamin B12 status) and the major drug interactions listed above
 - Detailed mechanism of action data from DrugBank to complete the mechanistic analysis
+
+<!-- review:begin eu-lic-20261106-pantoprazole-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory route, since the EU centrally authorized licences are all cancelled (national authorizations should be checked)" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 5 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-pantoprazole-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "since the EU centrally authorized licences are all cancelled (national authorizations should be checked)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "that all three EU centrally authorized products are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

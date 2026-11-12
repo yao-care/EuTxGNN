@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 58
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Aprepitant: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Prevention of postoperative nausea and vomiting (PONV) in adults"
 monitor_inn: "Aprepitant"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "hypertrichosis (disease)", "pulmonary hypertension", "leprosy", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "kyphoscoliotic heart disease", "syndrome with a Dandy-Walker malformation as major feature", "subarachnoid hemorrhage (disease)", "isolated genetic hair shaft abnormality"]
@@ -74,9 +74,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000527 | Emend | aprepitant | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -97,12 +101,38 @@ Please refer to the SmPC for warnings and precautions.
 **Rationale:**
 The prediction has no clinical trial or literature support (evidence level L5). The proposed mechanism is speculative, because the cause of nephrogenic SIAD lies downstream of NK1 signalling.
 
+<!-- review:begin eu-lic-20261106-aprepitant-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The proposed mechanism is speculative, because the cause of nephrogenic SIAD lies downstream of NK1 signalling. The EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-aprepitant-1 -->
+
 **To proceed, the following is needed:**
 - Detailed mechanism of action data for aprepitant
 - Preclinical or mechanistic studies testing whether NK1 antagonism affects V2 receptor-mediated water handling
 - Label warnings and contraindications from the current SmPC, to allow safety screening
 - Clarification of available dosage forms
 - Comparison with other predicted indications, such as subarachnoid haemorrhage, where the biological rationale is more plausible
+
+<!-- review:begin eu-lic-20261106-aprepitant-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled EU authorization status and available dosage forms" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-aprepitant-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "the cancelled EU authorization status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

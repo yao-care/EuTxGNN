@@ -89,11 +89,15 @@ Other predictions in the list (HPRT partial deficiency and Lesch-Nyhan syndrome)
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000777 | Adenuric | febuxostat | Valid |
 | EMEA/H/C/004374 | Febuxostat Viatris | febuxostat | Valid |
 | EMEA/H/C/004773 | Febuxostat Krka | febuxostat | Valid |
+
+<!-- licenses:end -->
 
 All three authorizations are valid.
 

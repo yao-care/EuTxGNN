@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 358
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ledipasvir: predicted new indication Hepatitis B virus infection (evidence level L2). Approved use: Chronic hepatitis C (CHC) in adults and paediatric patients aged 3 ye…"
 monitor_inn: "Ledipasvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "chronic hepatitis B virus infection", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
@@ -99,9 +99,13 @@ Safety is a further concern. HBV reactivation during HCV direct-acting antiviral
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003850 | Harvoni | ledipasvir; sofosbuvir | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -125,12 +129,38 @@ For warnings and contraindications, please refer to the SmPC.
 **Rationale:**
 There is a completed Phase 2 study in HBV-infected subjects (n=21), but it is small and uncontrolled. The mechanism is unclear, and sofosbuvir may account for any observed effect. HBV reactivation is a documented safety signal. The prediction is best treated as a research question for now.
 
+<!-- review:begin eu-lic-20261031-ledipasvir-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "HBV reactivation is a documented safety signal. The only EU authorization has been cancelled, which limits near-term regulatory options." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-ledipasvir-1 -->
+
 **To proceed, the following is needed:**
 - Detailed results of the Phase 2 study (NCT03312023 / PMID 36045503), including HBsAg and HBV DNA changes
 - Mechanism of action data and studies separating ledipasvir's contribution from sofosbuvir's
 - Larger controlled studies in HBV-infected patients
 - Warnings and contraindications from the SmPC, and a monitoring plan for HBV reactivation
 - Clarification of the EU regulatory status
+
+<!-- review:begin eu-lic-20261106-ledipasvir-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the EU regulatory status, since the Harvoni authorization is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-ledipasvir-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization has been cancelled, which limits near-term regulatory options" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "since the Harvoni authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

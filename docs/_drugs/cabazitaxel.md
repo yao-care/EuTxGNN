@@ -81,10 +81,14 @@ Several publications address cabazitaxel in breast cancer directly. The most rel
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002018 | Jevtana | cabazitaxel | Valid |
 | EMEA/H/C/005178 | Cabazitaxel Accord | cabazitaxel | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

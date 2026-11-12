@@ -83,6 +83,8 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000978 | Vidaza | azacitidine | Valid |
@@ -92,6 +94,8 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 | EMEA/H/C/005147 | Azacitidine Accord | azacitidine | Valid |
 | EMEA/H/C/006154 | Azacitidine Kabi | azacitidine | Valid |
 | EMEA/H/C/005300 | Azacitidine Celgene | azacitidine | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 489
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pitolisant: predicted new indication insomnia (disease) (evidence level L5). Approved use: Improving wakefulness and reducing excessive daytime sleepiness (EDS)…"
 monitor_inn: "Pitolisant"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
@@ -78,6 +78,12 @@ Currently no related clinical trials registered.
 
 None of these publications evaluates pitolisant for insomnia. They are listed as the closest available context (narcolepsy, OSA and histaminergic mechanism).
 
+<!-- review:begin eu-lic-20261106-pitolisant-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both authorisations are currently recorded as cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-pitolisant-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [33121980](https://pubmed.ncbi.nlm.nih.gov/33121980/) | 2021 | RCT | Chest | Pitolisant for residual excessive daytime sleepiness in OSA patients adhering to CPAP |
@@ -95,10 +101,14 @@ None of these publications evaluates pitolisant for insomnia. They are listed as
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002616 | Wakix | pitolisant | Valid |
 | EMEA/H/C/005117 | Ozawade | pitolisant | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -129,6 +139,26 @@ The H3 inverse agonist mechanism promotes wakefulness, which runs counter to ins
 - Redirecting evaluation to the hypersomnia prediction, including:
   - Confirmation of the populations and indications of NCT05156047 and NCT05458128
   - Confirmation of regulatory and formulation status
+
+<!-- review:begin eu-lic-20261106-pitolisant-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of regulatory and formulation status, given the "cancelled only" EU market status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-pitolisant-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both authorisations are currently recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "given the "cancelled only" EU market status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

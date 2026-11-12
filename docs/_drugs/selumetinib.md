@@ -104,9 +104,13 @@ For context, the key publications for the secondary candidates are listed below.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005244 | Koselugo | selumetinib sulfate | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

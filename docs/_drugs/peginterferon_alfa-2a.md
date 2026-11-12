@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 473
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Peginterferon alfa-2a"
 predicted_indications: ["hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "heart conduction disease", "heart neoplasm", "heart valve disease", "congenital anomaly of ventricular septum"]
 description: "Peginterferon Alfa-2A: predicted new indication Hepatitis E virus infection (evidence level L1). Approved use: Polycythaemia veraPegasys is indicated as monotherapy in adults for t…"
@@ -105,9 +105,13 @@ Note on evidence level: the data assign L1, but the listed Phase 3 trials are sm
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000395 | Pegasys | peginterferon alfa-2a | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -128,6 +132,12 @@ Key warnings and contraindications were not available in the data compiled for t
 **Rationale:**
 Chronic hepatitis B is an already approved indication, and Phase 3/4 trials plus published RCTs and meta-analyses directly support it. This is label confirmation rather than new repurposing.
 
+<!-- review:begin eu-lic-20261106-peginterferon_alfa-2a-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "This is label confirmation rather than new repurposing, and the EU authorisation is currently cancelled, so market availability needs clarification." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-peginterferon_alfa-2a-1 -->
+
 The other predicted indications (hepatitis E, hepatitis A, animal viral hepatitis, Omsk haemorrhagic fever, Kyasanur forest disease and the cardiac conditions) have no direct evidence and are recommended as **Hold**.
 
 **To proceed, the following is needed:**
@@ -135,6 +145,26 @@ The other predicted indications (hepatitis E, hepatitis A, animal viral hepatiti
 - Detailed mechanism of action data
 - Patient selection criteria (compensated liver disease, raised ALT, viral replication), stopping rules and a monitoring plan for interferon-related toxicity
 - Review of the major drug interactions listed above before clinical use
+
+<!-- review:begin eu-lic-20261106-peginterferon_alfa-2a-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "**To proceed, the following is needed:** / Clarification of the reason for the cancelled EU authorisation and confirmation of current availability" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-peginterferon_alfa-2a-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the EU authorisation is currently cancelled, so market availability needs clarification" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Clarification of the reason for the cancelled EU authorisation and confirmation of current availability" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

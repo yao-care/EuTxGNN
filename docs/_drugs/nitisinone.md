@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 432
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Nitisinone"
 predicted_indications: ["renal tubular acidosis", "galactosemia", "serpinopathy with toxic serpin polymerization", "C1 inhibitor deficiency", "glycogen storage disease", "adult polyglucosan body disease", "glycogen storage disease due to glucose-6-phosphatase deficiency", "Griscelli syndrome", "granulomatous disease, chronic, X-linked", "ermine phenotype"]
 description: "Nitisinone: predicted new indication Renal tubular acidosis (evidence level L5). Approved use: Hereditary tyrosinemia type 1 (HT 1)Orfadin is indicated for the trea…"
@@ -79,11 +79,15 @@ Currently no related literature available for renal tubular acidosis.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000555 | Orfadin | nitisinone | Valid |
 | EMEA/H/C/004582 | Nityr | nitisinone | Valid |
 | EMEA/H/C/004281 | Nitisinone MDK | nitisinone | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 
@@ -109,7 +113,26 @@ The prediction has a high model score but no trials or literature, and the mecha
 - A literature search specific to renal tubular acidosis or Fanconi-type tubulopathy, to see whether any supportive data exist
 - Review of the safety flags for kidney disease, hypophosphatemia and blood cell counts (thrombocytopenia, leukopenia) before any study in a kidney population
 
+<!-- review:begin eu-lic-20261106-nitisinone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "A literature search specific to renal tubular acidosis or Fanconi-type tubulopathy, to see whether any supportive data exist / Clarification of why both EU authorizations are cancelled (for example commercial withdrawal versus a safety reason)" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-nitisinone-1 -->
+
 **Other predictions in this analysis:** The remaining top-ranked predictions are galactosemia, serpinopathy with toxic serpin polymerization, C1 inhibitor deficiency, glycogen storage disease, adult polyglucosan body disease, glycogen storage disease due to glucose-6-phosphatase deficiency, Griscelli syndrome, X-linked chronic granulomatous disease and ermine phenotype. All were judged Hold. They have no trials, and the only supporting literature is general reviews of pediatric liver disease, with no mechanistic rationale linking HPPD inhibition to these conditions.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Clarification of why both EU authorizations are cancelled (for example commercial withdrawal versus a safety reason)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

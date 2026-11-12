@@ -82,6 +82,8 @@ Currently no related literature available.
 
 All five authorizations are listed as valid. Dosage form was not specified in the data.
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000597 | Procoralan | ivabradine hydrochloride | Valid |
@@ -90,6 +92,8 @@ All five authorizations are listed as valid. Dosage form was not specified in th
 | EMEA/H/C/004187 | Ivabradine Anpharm | ivabradine | Valid |
 | EMEA/H/C/004241 | Ivabradine Accord | ivabradine hydrochloride | Valid |
 | EMEA/H/C/004217 | Ivabradine JensonR | ivabradine hydrochloride | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 

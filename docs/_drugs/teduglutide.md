@@ -72,10 +72,14 @@ The TxGNN model's candidates for Teduglutide are all known uses. Every candidate
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002345 | Revestive | teduglutide | Valid |
 | EMEA/H/C/006564 | Teduglutide Viatris | teduglutide | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

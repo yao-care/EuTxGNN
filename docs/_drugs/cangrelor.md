@@ -73,9 +73,13 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Cangrelor, s
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003773 | Kengrexal | cangrelor | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

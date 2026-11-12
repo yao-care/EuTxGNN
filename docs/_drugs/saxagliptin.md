@@ -48,12 +48,16 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001039 | Onglyza | saxagliptin | Valid |
 | EMEA/H/C/002059 | Komboglyze | metformin hydrochloride; saxagliptin hydrochloride | Valid |
 | EMEA/H/C/004057 | Qtern | saxagliptin; dapagliflozin propanediol monohydrate | Valid |
 | EMEA/H/C/004910 | Qtrilmet | metformin hydrochloride; saxagliptin; dapagliflozin | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

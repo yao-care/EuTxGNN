@@ -73,6 +73,8 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000406 | Glivec | imatinib | Valid |
@@ -82,6 +84,8 @@ Currently no related clinical trials registered.
 | EMEA/H/C/002692 | Imatinib medac | imatinib | Withdrawn |
 | EMEA/H/C/004748 | Imatinib Teva B.V. | imatinib mesilate | Withdrawn |
 | EMEA/H/C/005595 | Imatinib Koanaa | imatinib mesilate | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

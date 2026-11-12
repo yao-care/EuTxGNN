@@ -72,10 +72,14 @@ The TxGNN model produced candidates for Interferon Beta-1A, but every candidate 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000102 | Avonex |  | Valid |
 | EMEA/H/C/000136 | Rebif | interferon beta-1a | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

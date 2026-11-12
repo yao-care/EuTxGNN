@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 538
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Rotigotine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Parkinson's disease (early to late stage…"
 monitor_inn: "Rotigotine"
 predicted_indications: ["attention deficit-hyperactivity disorder", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "faciodigitogenital syndrome", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "atypical glycine encephalopathy", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited"]
@@ -77,10 +77,14 @@ None of these studies tested rotigotine in ADHD.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000626 | Neupro | rotigotine | Valid |
 | EMEA/H/C/002380 | Leganto | rotigotine | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -100,12 +104,31 @@ Label warnings and contraindications were not available. Please refer to the SmP
 **Rationale:**
 The ADHD prediction rests on a network-based score and indirect receptor-level and restless-legs literature. There are no clinical trials and no rotigotine-specific ADHD data.
 
+<!-- review:begin eu-lic-20261106-rotigotine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials and no rotigotine-specific ADHD data. Rotigotine's EU authorisation is also cancelled in the data compiled for this report." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-rotigotine-1 -->
+
 **To proceed, the following is needed:**
 - Rotigotine-specific preclinical or clinical studies in ADHD
 - Complete mechanism of action data
 - Label warnings and contraindications from the SmPC, which are required before safety screening
 - Confirmation of the current EU authorisation status and available formulations (transdermal use in children has not been addressed)
 - Other predicted indications are weaker: schizophrenia has indirect class-level evidence only and carries a risk of worsening psychosis, and the remaining predictions (ranks 3-10) have no trial or literature support.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Rotigotine's EU authorisation is also cancelled in the data compiled for this report" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 429
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Nilotinib"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
 description: "Nilotinib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L5). Approved use: Tasigna is indicated for the treatment of: adult and paediatric patie…"
@@ -74,10 +74,14 @@ Currently no related clinical trials registered for dermatofibrosarcoma protuber
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000798 | Tasigna | nilotinib | Valid |
 | EMEA/H/C/006315 | Nilotinib Accord | nilotinib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -117,7 +121,25 @@ The PDGFR-driven mechanism of DFSP makes the prediction plausible, but there are
 - Clarification of the EU regulatory and market status
 - A cardiac safety plan (QT monitoring), given the long QT and torsades de pointes signals and the major interaction with clarithromycin
 
+<!-- review:begin eu-lic-20261106-nilotinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the EU regulatory and market status, since both authorizations are cancelled" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-nilotinib-1 -->
+
 ---
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "since both authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

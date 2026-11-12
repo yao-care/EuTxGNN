@@ -72,6 +72,8 @@ The TxGNN model produced candidates for Zoledronic Acid, but every candidate tha
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000595 | Aclasta | zoledronic acid | Valid |
@@ -84,6 +86,8 @@ The TxGNN model produced candidates for Zoledronic Acid, but every candidate tha
 | EMEA/H/C/002437 | Zoledronic acid Teva Pharma | zoledronic acid | Withdrawn |
 | EMEA/H/C/002488 | Zoledronic acid Actavis | zoledronic acid monohydrate | Withdrawn |
 | EMEA/H/C/002805 | Zoledronic acid Teva Generics | zoledronic acid monohydrate | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

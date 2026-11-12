@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 417
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Moroctocog alfa"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "acquired coagulation factor deficiency", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency"]
 description: "Moroctocog Alfa: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia A…"
@@ -78,9 +78,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000232 | ReFacto AF | moroctocog alfa | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -95,12 +99,31 @@ Note from the label: moroctocog alfa contains no von Willebrand factor and is no
 **Rationale:**
 The predicted indication has no clinical or published support (evidence level L5), and the mechanism does not fit. The disease is a platelet secretion defect, whereas the drug replaces FVIII.
 
+<!-- review:begin eu-lic-20261031-moroctocog_alfa-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The disease is a platelet secretion defect, whereas the drug replaces FVIII. The only EU authorization is cancelled, and the safety data needed for screening are missing." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-moroctocog_alfa-1 -->
+
 **To proceed, the following is needed:**
 - Safety information (warnings and contraindications) from the EMA product information, which is currently a blocking gap
 - Mechanism of action data from DrugBank
 - Evidence that FVIII replacement can correct the platelet secretion defect, such as preclinical or mechanistic studies
 - Disambiguation of "flood factor deficiency" against a standard disease ontology
 - If any prediction is pursued further, "acquired coagulation factor deficiency" is the most reasonable candidate for a focused research question. It would need a defined patient subgroup, such as acquired FVIII deficiency without inhibitors.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization is cancelled, and the safety data needed for screening are missing" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -78,9 +78,13 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Deutetrabena
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/006371 | Austedo | deutetrabenazine | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

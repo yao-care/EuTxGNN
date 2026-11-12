@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 197
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Doravirine: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV-1 infection in adults and adolescents aged 12 years and older wei…"
 monitor_inn: "Doravirine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -77,10 +77,14 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004747 | Pifeltro | doravirine | Valid |
 | EMEA/H/C/004746 | Delstrigo | doravirine; lamivudine; tenofovir disoproxil fumarate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -98,12 +102,31 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction rests on model output alone. SIV is an animal-model pathogen rather than a human indication, NNRTIs are naturally poorly active against SIV, and the single paper concerns a different drug.
 
+<!-- review:begin eu-lic-20261106-doravirine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "SIV is an animal-model pathogen rather than a human indication, NNRTIs are naturally poorly active against SIV, and the single paper concerns a different drug. In addition, the only EU authorization on record is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-doravirine-1 -->
+
 **To proceed, the following is needed:**
 - Preclinical (in vitro or primate model) data on doravirine activity against SIV
 - Detailed mechanism of action data
 - Confirmation of the current regulatory status of Pifeltro in the EU
 - Warnings and contraindications from the SmPC to support a safety review
 - Review of the major drug interactions (dexamethasone, lumacaftor) for any future use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "In addition, the only EU authorization on record is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

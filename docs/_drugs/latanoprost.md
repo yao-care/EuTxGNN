@@ -68,10 +68,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005933 | Catiolanze | Latanoprost | Valid |
 | EMEA/H/C/005107 | Roclanda | Latanoprost; netarsudil mesilate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

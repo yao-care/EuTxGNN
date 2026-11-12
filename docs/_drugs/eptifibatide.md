@@ -70,10 +70,14 @@ Currently no related literature available for rheumatoid arthritis.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004104 | Eptifibatide Accord | eptifibatide | Valid |
 | EMEA/H/C/000230 | Integrilin | eptifibatide | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ parent: AI Predictions (L5)
 nav_order: 22
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -77,6 +77,25 @@ The `predicted_indications` array is empty, meaning TxGNN returned no repurposin
 - **Resolve DG001 (Blocking)** — obtain safety warnings and contraindications from the drug label to enable safety screening
 - **Resolve DG002 (High)** — retrieve mechanism of action from DrugBank to support mechanistic plausibility analysis
 - **Confirm market status** — aclidinium bromide is known to be authorized in multiple markets (e.g., Eklira Genuair in the EU)
+
+<!-- review:begin eu-lic-20261106-aclidinium_bromide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "**Confirm market status** — aclidinium bromide is known to be authorized in multiple markets (e.g., Eklira Genuair in the EU); zero authorizations on record suggests a data ingestion issue that should be investigated before proceeding" Removed: it conflicted with the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 4 EU marketing authorisations for this drug, 4 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-aclidinium_bromide-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "zero authorizations on record suggests a data ingestion issue that should be investigated before proceeding" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

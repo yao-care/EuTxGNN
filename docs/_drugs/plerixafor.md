@@ -101,10 +101,14 @@ For reference, key publications for myeloid leukemia (10 of 20 listed):
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001030 | Mozobil | Plerixafor | Valid |
 | EMEA/H/C/005943 | Plerixafor Accord | Plerixafor | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

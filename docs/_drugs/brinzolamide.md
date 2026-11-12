@@ -72,11 +72,15 @@ The TxGNN model's candidates for Brinzolamide are all already known uses. There 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000267 | Azopt | brinzolamide | Valid |
 | EMEA/H/C/000960 | Azarga | brinzolamide; timolol maleate | Valid |
 | EMEA/H/C/003698 | Simbrinza | brinzolamide; brimonidine tartrate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

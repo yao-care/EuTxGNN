@@ -72,9 +72,13 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Botulinum To
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004587 | Nuceiva | Botulinum toxin type A | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

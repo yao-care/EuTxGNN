@@ -50,6 +50,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001026 | Victoza | liraglutide | Valid |
@@ -57,6 +59,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | EMEA/H/C/006615 | Liraglutide STADA | liraglutide | Valid |
 | EMEA/H/C/006620 | Ablymico | liraglutide | Valid |
 | EMEA/H/C/002647 | Xultophy | insulin degludec; liraglutide | Valid |
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 64
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Asfotase Alfa: predicted new indication Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (evidence level L5). Approved use: Long-term enzyme replacement therapy in patients with…"
 monitor_inn: "Asfotase alfa"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Steel syndrome", "exocrine pancreatic insufficiency", "Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "familial apolipoprotein C-II deficiency", "esophageal varices without bleeding", "esophageal varices with bleeding", "cystinosis"]
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003794 | Strensiq | asfotase alfa | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -87,12 +91,38 @@ Please refer to the SmPC for safety information. No drug interaction records wer
 **Rationale:**
 The prediction is supported only by a model score (Evidence Level L5). There are no clinical trials or publications, and the mechanism is implausible, since an extracellular bone-targeted enzyme is unlikely to correct an intracellular mitochondrial defect.
 
+<!-- review:begin eu-lic-20261031-asfotase_alfa-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials or publications, and the mechanism is implausible, since an extracellular bone-targeted enzyme is unlikely to correct an intracellular mitochondrial defect. In addition, the only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-asfotase_alfa-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for asfotase alfa, to allow a proper mechanistic-link analysis
 - Warnings and contraindications from the package insert, which are required for safety screening
 - Preclinical or mechanistic evidence showing that TNSALP activity or PPi/PLP metabolism is relevant to nuclear-DNA-related mitochondrial disorders
 - Clarification of the EU regulatory status
 - Review of the other top-ranked predictions, none of which currently has supporting evidence
+
+<!-- review:begin eu-lic-20261106-asfotase_alfa-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the EU regulatory status, since the sole authorization is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-asfotase_alfa-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "In addition, the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "since the sole authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

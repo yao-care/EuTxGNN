@@ -60,10 +60,14 @@ No established link was identified between this mechanism and the regulation of 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001032 | Firdapse | amifampridine | Valid |
 | EMEA/H/C/005839 | Amifampridine SERB | amifampridine phosphate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

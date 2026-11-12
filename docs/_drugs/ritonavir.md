@@ -84,6 +84,8 @@ For context, the closest related literature concerns SIV infection (a different 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000127 | Norvir | ritonavir | Valid |
@@ -92,6 +94,8 @@ For context, the closest related literature concerns SIV infection (a different 
 | EMEA/H/C/004025 | Lopinavir/Ritonavir Viatris | lopinavir; ritonavir | Valid |
 | EMEA/H/C/005973 | Paxlovid | nirmatrelvir; ritonavir | Valid |
 | EMEA/H/C/003839 | Viekirax | ombitasvir; paritaprevir; ritonavir | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

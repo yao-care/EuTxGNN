@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 401
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Methylphenidate"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
 description: "Methylphenidate: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Tuzulby is indicated as part of a comprehensive treatment programme f…"
@@ -104,9 +104,13 @@ No publications were retrieved for faciodigitogenital syndrome. The table below 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005975 | Tuzulby |  | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -129,11 +133,30 @@ Please refer to the SmPC for official warnings and contraindications.
 **Rationale:**
 The top prediction, faciodigitogenital syndrome, has a very high model score but no trials, no publications and no plausible mechanistic link (evidence level L5).
 
+<!-- review:begin eu-lic-20261031-methylphenidate-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The top prediction, faciodigitogenital syndrome, has a very high model score but no trials, no publications and no plausible mechanistic link (evidence level L5). The only EU authorisation is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-methylphenidate-1 -->
+
 **To proceed, the following is needed:**
 - Official EU label warnings and contraindications (safety screening cannot proceed without them)
 - Detailed mechanism of action data
 - A clinical rationale for faciodigitogenital syndrome, or a switch of focus to better-supported candidates such as symptomatic use in cerebellar disorders (fatigue, attention) or specific developmental disorders
 - Prospective controlled studies in any selected indication, with attention to cardiovascular and psychiatric safety
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

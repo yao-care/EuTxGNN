@@ -72,10 +72,14 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000839 | Volibris | ambrisentan | Valid |
 | EMEA/H/C/004985 | Ambrisentan Viatris | ambrisentan | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

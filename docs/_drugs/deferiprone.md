@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 180
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Deferiprone: predicted new indication Hepatic porphyria (evidence level L4). Approved use: Iron overload in patients with thalassaemia major when current chelat…"
 monitor_inn: "Deferiprone"
 predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
@@ -74,10 +74,14 @@ Currently no related clinical trials are registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000236 | Ferriprox | Deferiprone | Valid |
 | EMEA/H/C/004710 | Deferiprone Lipomed | Deferiprone | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -97,11 +101,37 @@ Warnings and contraindications were not available in the data compiled for this 
 **Rationale:**
 The prediction score is high, and the biology of iron-driven porphyrin accumulation is plausible. However, support is limited to two mouse studies in other porphyria subtypes, with no human data.
 
+<!-- review:begin eu-lic-20261106-deferiprone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, support is limited to two mouse studies in other porphyria subtypes, with no human data. The EU authorizations are also all cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-deferiprone-1 -->
+
 **To proceed, the following is needed:**
 - Clarify which hepatic porphyria subtype is targeted (for example PCT-type versus CEP) and whether iron is a disease driver in it
 - Human clinical data, or a well-designed proof-of-concept trial, in the target subtype
 - Mechanism of action data and SmPC warnings and contraindications for a full safety review, including a monitoring plan for agranulocytosis and neutropenia
 - Verification of the current EU regulatory status
+
+<!-- review:begin eu-lic-20261106-deferiprone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Verification of the current EU regulatory status, since both authorizations are listed as cancelled" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-deferiprone-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorizations are also all cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "since both authorizations are listed as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

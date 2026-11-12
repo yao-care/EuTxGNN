@@ -77,12 +77,16 @@ Currently no related clinical trials registered.
 
 All four EU authorizations are valid.
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000944 | Xarelto | rivaroxaban | Valid |
 | EMEA/H/C/005279 | Rivaroxaban Accord | rivaroxaban | Valid |
 | EMEA/H/C/005600 | Rivaroxaban Viatris | rivaroxaban | Valid |
 | EMEA/H/C/006643 | Svariya | rivaroxaban | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

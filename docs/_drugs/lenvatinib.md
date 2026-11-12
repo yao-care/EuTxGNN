@@ -75,10 +75,14 @@ Eribulin is a microtubule inhibitor with known activity in liposarcoma. Combinin
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003727 | Lenvima | lenvatinib mesilate | Valid |
 | EMEA/H/C/004224 | Kisplyx | lenvatinib mesilate | Valid |
+
+<!-- licenses:end -->
 
 Both authorizations are currently valid.
 

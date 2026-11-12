@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 398
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Methotrexate: predicted new indication Pulmonary blastoma (evidence level L5). Approved use: In rheumatological and dermatological diseases Active rheumatoid arth…"
@@ -109,10 +109,14 @@ No literature was retrieved for pulmonary blastoma. Selected publications for ot
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003756 | Jylamvo | methotrexate | Valid |
 | EMEA/H/C/003983 | Nordimet | methotrexate | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -146,12 +150,31 @@ Label-based warnings and contraindications were not available in the data compil
 **Rationale:**
 - The top prediction, pulmonary blastoma, has no trials and no literature (evidence level L5), so only a model score supports it. In addition, the label safety data are unavailable.
 
+<!-- review:begin eu-lic-20261106-methotrexate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, both EU authorizations are cancelled, and the label safety data are unavailable." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-methotrexate-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) from DrugBank
 - EMA product information (warnings and contraindications) for a full safety review
 - A targeted literature and case-series search for methotrexate in pulmonary blastoma
 - If a more evidence-supported direction is preferred, a separate evaluation of Hodgkin lymphoma (L3) or rhabdomyosarcoma (L3), where historical regimens exist but need review against current standards
 - A pulmonary and haematological safety plan, given the interstitial lung disease, pulmonary fibrosis and myelosuppression signals
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "both EU authorizations are cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

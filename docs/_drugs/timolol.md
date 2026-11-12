@@ -75,11 +75,15 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Timolol, so 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000665 | DuoTrav | travoprost; timolol | Valid |
 | EMEA/H/C/000668 | Ganfort | bimatoprost; timolol | Valid |
 | EMEA/H/C/000960 | Azarga | brinzolamide; timolol maleate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

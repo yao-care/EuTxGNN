@@ -50,10 +50,14 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002108 | Methylthioninium chloride Proveblue | methylthioninium chloride | Valid |
 | EMEA/H/C/002776 | Lumeblue | methylthioninium chloride | Valid |
+
+<!-- licenses:end -->
 
 ---
 

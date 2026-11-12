@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002695 | Iclusig | ponatinib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

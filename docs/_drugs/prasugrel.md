@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 496
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Prasugrel: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Prevention of atherothrombotic events in acute coronary syndrome (UA/…"
 monitor_inn: "Prasugrel"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
@@ -90,10 +90,14 @@ Literature for the migraine predictions (indirect):
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000984 | Efient | prasugrel | Valid |
 | EMEA/H/C/004644 | Prasugrel Viatris | prasugrel besilate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -116,6 +120,25 @@ The top-ranked prediction, pulmonary hypertension, has only a model score with n
 - Prasugrel-specific preclinical or clinical studies in pulmonary hypertension
 - For migraine, a randomized, controlled prasugrel study in PFO-associated migraine, with a bleeding-risk assessment
 - Clarification of the EU regulatory status
+
+<!-- review:begin eu-lic-20261106-prasugrel-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the EU regulatory status (the sole authorization is cancelled)" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-prasugrel-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "(the sole authorization is cancelled)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -72,9 +72,13 @@ Currently no related literature available for the predicted disease.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004426 | Cablivi | Caplacizumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

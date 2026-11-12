@@ -74,10 +74,14 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000913 | Conbriza | bazedoxifene | Valid |
 | EMEA/H/C/002314 | Duavive | oestrogens conjugated; bazedoxifene | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

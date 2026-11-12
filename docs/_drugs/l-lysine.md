@@ -72,10 +72,14 @@ The TxGNN model has no candidate with a score of 0.99 or higher for L-Lysine, so
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004541 | LysaKare | L-arginine hydrochloride; L-lysine hydrochloride | Valid |
 | EMEA/H/C/005557 | Maapliv | glycine,L-alanine,L-arginine,L-aspartic acid,L-cysteine hydrochloride monohydra… | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

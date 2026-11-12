@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 393
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Mepolizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
 description: "Mepolizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Severe eosinophilic asthmaNucala is indicated as an add-on treatment…"
@@ -79,9 +79,13 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003860 | Nucala | Mepolizumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -94,12 +98,38 @@ Please refer to the SmPC for safety information. No drug interaction records wer
 **Rationale:**
 The prediction rests on a high computational score and a single indirect case report in an eosinophil-driven setting. There are no clinical trials, and the mechanism is not plausible for most predicted platelet disorders.
 
+<!-- review:begin eu-lic-20261106-mepolizumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials, and the mechanism is not plausible for most predicted platelet disorders. The EU authorization is also listed as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-mepolizumab-1 -->
+
 **To proceed, the following is needed:**
 - Safety information (warnings, contraindications) from the SmPC, since this is currently a blocking gap
 - Mechanism of action data to support a mechanistic-link analysis
 - Confirmation of the current EU authorization status
 - Further evidence on whether any ITP subset is eosinophil-driven, such as case series or a pilot study
 - Direct clinical data in immune thrombocytopenia before any further consideration
+
+<!-- review:begin eu-lic-20261106-mepolizumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the current EU authorization status, given that it is listed as cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-mepolizumab-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorization is also listed as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "given that it is listed as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

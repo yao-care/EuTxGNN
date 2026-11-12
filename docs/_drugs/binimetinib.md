@@ -72,9 +72,13 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Binimetin
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004579 | Mektovi | binimetinib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

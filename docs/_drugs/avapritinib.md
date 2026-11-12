@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 71
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Avapritinib: predicted new indication Axial spondylometaphyseal dysplasia (evidence level L5). Approved use: Unresectable or metastatic gastrointestinal stromal tumour (GIST) wit…"
 monitor_inn: "Avapritinib"
 predicted_indications: ["axial spondylometaphyseal dysplasia", "bilateral parasagittal parieto-occipital polymicrogyria", "amyotrophic lateral sclerosis", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "amyotrohpic lateral sclerosis type 22", "lower motor neuron syndrome with late-adult onset", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome"]
@@ -62,11 +62,21 @@ Axial spondylometaphyseal dysplasia is a rare skeletal disorder, reported to be 
 
 The high TxGNN score (0.9992) therefore reflects a computational prediction only. It is not backed by trials, literature, or a plausible biological rationale, and it should be treated as a hypothesis at most.
 
+<!-- review:begin eu-lic-20261031-avapritinib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The only authorization is listed as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-avapritinib-1 -->
+
 ## EU Market Information
+
+<!-- licenses:begin -->
 
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005208 | Ayvakyt | avapritinib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -91,11 +101,31 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction rests only on the model score. There are no registered clinical trials or publications, and no plausible mechanistic link between KIT/PDGFRA inhibition and this skeletal dysplasia.
 
+<!-- review:begin eu-lic-20261106-avapritinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no registered clinical trials or publications, and no plausible mechanistic link between KIT/PDGFRA inhibition and this skeletal dysplasia. The EU authorization is also listed as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-avapritinib-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible biological rationale linking KIT/PDGFRA inhibition to the disease
 - Preclinical evidence (e.g., disease models) supporting efficacy
 - Warnings and contraindications from the SmPC, so safety screening can be completed
 - Clarification of the current EU regulatory status of avapritinib
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only authorization is listed as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "The EU authorization is also listed as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

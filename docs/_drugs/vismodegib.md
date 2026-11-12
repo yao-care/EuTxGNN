@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 672
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Vismodegib: predicted new indication Medulloblastoma with extensive nodularity (evidence level L5). Approved use: Symptomatic metastatic basal cell carcinoma…"
 monitor_inn: "Vismodegib"
 predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma pigmentosum", "annular epidermolytic ichthyosis", "epidermolysis bullosa simplex with mottled pigmentation", "Brenner tumor", "cutaneous adenocystic carcinoma", "prostate leiomyoma", "benign neoplasm of sweat gland"]
@@ -85,9 +85,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002602 | Erivedge | vismodegib | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -119,6 +123,12 @@ Please refer to the SmPC for full safety information.
 **Rationale:**
 The mechanistic link between SMO inhibition and SHH-driven medulloblastoma is plausible. However, there are no trials or publications for this specific entity, the evidence level is L5, and pediatric growth-plate toxicity is a significant concern.
 
+<!-- review:begin eu-lic-20261031-vismodegib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "However, there are no trials or publications for this specific entity, the evidence level is L5, and pediatric growth-plate toxicity is a significant concern. The only EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-vismodegib-1 -->
+
 **To proceed, the following is needed:**
 - Preclinical or clinical evidence in SHH-activated medulloblastoma, particularly the extensive nodularity subtype
 - A pediatric safety assessment, especially for growth plate effects
@@ -126,6 +136,19 @@ The mechanistic link between SMO inhibition and SHH-driven medulloblastoma is pl
 - Detailed mechanism of action and SmPC warnings and contraindications to complete the safety screening
 
 **Note on other predictions:** Among the other model predictions, the broader "skin cancer" category has the strongest support (L2, Phase 2 trials, European guidelines). However, it largely overlaps with vismodegib's original basal cell carcinoma indication, so it is not a true repurposing. Xeroderma pigmentosum has case-report-level evidence (L4) of vismodegib clearing basal cell carcinomas in affected patients.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

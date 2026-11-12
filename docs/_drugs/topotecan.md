@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 629
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Topotecan: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Relapsed small cell lung cancer (SCLC) and metastatic ovarian cancer…"
 monitor_inn: "Topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
@@ -87,6 +87,14 @@ The clinical signal is weak. An older phase 2 study of continuous infusional top
 
 The data compiled for this report do not list dosage forms.
 
+<!-- review:begin eu-lic-20261106-topotecan-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All three licences are valid, and the product is marketed. The data compiled for this report do not list dosage forms." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 7 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-topotecan-1 -->
+
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000123 | Hycamtin | topotecan | Valid |
@@ -96,6 +104,8 @@ The data compiled for this report do not list dosage forms.
 | EMEA/H/C/001031 | Topotecan Actavis | topotecan | Withdrawn |
 | EMEA/H/C/001071 | Topotecan Teva | topotecan | Withdrawn |
 | EMEA/H/C/002261 | Topotecan Eagle | topotecan hydrochloride | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -126,6 +136,19 @@ The TxGNN score is very high (0.9992), but the clinical evidence for breast canc
 - Mechanism of action data from DrugBank
 - Subtype-specific evidence, for example in MYC-driven or triple-negative breast cancer, from preclinical or biomarker-selected studies
 - Efficacy data from well-designed phase 2 studies in breast cancer
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All three licences are valid, and the product is marketed" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

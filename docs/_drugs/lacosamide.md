@@ -79,12 +79,16 @@ No retrieved study directly tests lacosamide in a manic episode of bipolar disor
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000863 | Vimpat | lacosamide | Valid |
 | EMEA/H/C/004443 | Lacosamide Accord | lacosamide | Valid |
 | EMEA/H/C/005243 | Lacosamide UCB | lacosamide | Valid |
 | EMEA/H/C/006047 | Lacosamide Adroiq | lacosamide | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

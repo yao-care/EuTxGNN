@@ -82,9 +82,13 @@ The ongoing development programme, including adult, adolescent and paediatric tr
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004893 | Sunosi | solriamfetol hydrochloride | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

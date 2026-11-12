@@ -93,9 +93,13 @@ None of these trials enrolled Hodgkin lymphoma patients. They are listed as rela
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005381 | Copiktra | duvelisib | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

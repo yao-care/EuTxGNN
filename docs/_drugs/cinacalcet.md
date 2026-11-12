@@ -72,12 +72,16 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004014 | Cinacalcet Viatris | cinacalcet hydrochloride | Valid |
 | EMEA/H/C/005236 | Cinacalcet Accordpharma | cinacalcet hydrochloride | Valid |
 | EMEA/H/C/000570 | Mimpara | cinacalcet hydrochloride | Withdrawn |
 | EMEA/H/C/000575 | Parareg | cinacalcet | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

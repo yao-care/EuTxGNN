@@ -90,6 +90,8 @@ Laboratory work has shown synergy when gemcitabine is followed by docetaxel in s
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000073 | Taxotere | docetaxel | Valid |
@@ -101,6 +103,8 @@ Laboratory work has shown synergy when gemcitabine is followed by docetaxel in s
 | EMEA/H/C/002032 | Docetaxel Teva Pharma | docetaxel | Lapsed |
 | EMEA/H/C/002317 | Docetaxel Mylan | docetaxel | Lapsed |
 | EMEA/H/C/003925 | Taxespira | docetaxel trihydrate | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

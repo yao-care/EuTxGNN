@@ -89,9 +89,13 @@ These do not address hordeolum.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005248 | Tecovirimat SIGA | tecovirimat | Valid |
+
+<!-- licenses:end -->
 
 ---
 

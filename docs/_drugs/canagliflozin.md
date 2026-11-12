@@ -48,10 +48,14 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002649 | Invokana | canagliflozin | Valid |
 | EMEA/H/C/002656 | Vokanamet | canagliflozin; metformin hydrochloride | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

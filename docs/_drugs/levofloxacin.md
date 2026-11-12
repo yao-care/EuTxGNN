@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 366
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Levofloxacin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Management of chronic pulmonary infections due to Pseudomonas aerugin…"
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
@@ -71,9 +71,13 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002789 | Quinsair | levofloxacin | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -97,11 +101,30 @@ Label warnings and contraindications were not available. Please refer to the SmP
 **Rationale:**
 The prediction rests on a computational score alone. The single retrieved paper concerns a pathogen that fluoroquinolones do not treat, and no trials exist.
 
+<!-- review:begin eu-lic-20261031-levofloxacin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The single retrieved paper concerns a pathogen that fluoroquinolones do not treat, and no trials exist. The only EU authorization is cancelled, and the systemic safety profile raises concerns for any new use." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-levofloxacin-1 -->
+
 **To proceed, the following is needed:**
 - Evidence that bacterial pathogens susceptible to levofloxacin cause punctate epithelial keratoconjunctivitis, such as microbiological or ophthalmic clinical studies
 - Mechanism of action data and a clear rationale for an ophthalmic route
 - Label warnings and contraindications from the SmPC
 - A review of other predicted indications that have stronger evidence, such as infection prophylaxis in myeloma (Phase 3 TEAMM trial) and plague (animal-model data), which may be better candidates for further evaluation
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization is cancelled, and the systemic safety profile raises concerns for any new use" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

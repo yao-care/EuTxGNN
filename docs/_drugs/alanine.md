@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 29
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Alanine: predicted new indication Gastroparesis (evidence level L5). Approved use: Maple syrup urine disease (MSUD) presenting with an acute decompensat…"
 monitor_inn: "alanine"
 predicted_indications: ["gastroparesis (disease)"]
@@ -75,9 +75,13 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005557 | Maapliv | glycine,L-alanine,L-arginine,L-aspartic acid,L-cysteine hydrochloride monohydra… | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -96,12 +100,31 @@ No drug interaction records were found. Please refer to the SmPC for label-based
 **Rationale:**
 The prediction is supported only by the TxGNN score (L5). There are no clinical trials, no mechanistic rationale, and the retrieved literature does not address alanine for gastroparesis.
 
+<!-- review:begin eu-lic-20261031-alanine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials, no mechanistic rationale, and the retrieved literature does not address alanine for gastroparesis. The only EU authorization has been cancelled, so there is no currently marketed product to build on." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-alanine-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data to assess any plausible link to gastric motility
 - Targeted literature searches for alanine or amino acid therapy in gastroparesis, plus preclinical studies if none exist
 - The SmPC warnings and contraindications, which are needed before any safety screening
 - Review of the knowledge-graph contraindications, especially renal and cardiac conditions, since gastroparesis patients often have diabetes and kidney disease
 - Clarification of route and formulation, since the original product was parenteral and its suitability for gastroparesis is unknown
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization has been cancelled, so there is no currently marketed product to build on" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

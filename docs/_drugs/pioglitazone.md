@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 487
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pioglitazone: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 2 diabetes mellitus (monotherapy, dual or triple oral therapy…"
 monitor_inn: "Pioglitazone"
 predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
@@ -102,6 +102,8 @@ For reference, seven publications were retrieved for the rank-9 prediction (panc
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000285 | Actos | pioglitazone hydrochloride | Valid |
@@ -118,6 +120,8 @@ For reference, seven publications were retrieved for the rank-9 prediction (panc
 | EMEA/H/C/002453 | Pioglitazone Krka | pioglitazone hydrochloride | Withdrawn |
 | EMEA/H/C/002558 | Glidipion | pioglitazone hydrochloride | Withdrawn |
 | EMEA/H/C/000893 | Glubrava | metformin hydrochloride; pioglitazone hydrochloride | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 
@@ -137,12 +141,38 @@ Label-level warnings and contraindications were not available. Please refer to t
 **Rationale:**
 The prediction for opsismodysplasia is supported only by a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications, and the mechanistic link is speculative. Pioglitazone is marketed in this country.
 
+<!-- review:begin eu-lic-20261106-pioglitazone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Pioglitazone is marketed in this country, with 3 of 3 licences valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 14 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-pioglitazone-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data to assess whether PPAR-gamma activity could plausibly affect INPPL1/PI3K-related bone biology
 - Preclinical or case-level evidence in opsismodysplasia (cell or animal models)
 - Label-level warnings and contraindications from the SmPC, which are required before any safety screening
 - Clarification of current regulatory and supply status, given that the drug is marketed
 - Re-evaluation of the lower-ranked predictions only if direct evidence emerges, since none currently have supporting trials
+
+<!-- review:begin eu-lic-20261106-pioglitazone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of current regulatory and supply status, given that the drug is marketed with 3 valid licences of 3" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 14 EU marketing authorisations for this drug, 6 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-pioglitazone-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 3 of 3 licences valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "with 3 valid licences of 3" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -92,12 +92,16 @@ The table lists the most relevant trials from those compiled. Several are multi-
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000089 | Caelyx pegylated liposomal | doxorubicin hydrochloride | Valid |
 | EMEA/H/C/000297 | Myocet liposomal | doxorubicin hydrochloride | Valid |
 | EMEA/H/C/005320 | Zolsketil pegylated liposomal | doxorubicin hydrochloride, liposomal | Valid |
 | EMEA/H/C/005330 | Celdoxome pegylated liposomal | doxorubicin hydrochloride | Lapsed |
+
+<!-- licenses:end -->
 
 Both authorisations are for liposomal formulations, so they do not describe the approval of conventional doxorubicin.
 

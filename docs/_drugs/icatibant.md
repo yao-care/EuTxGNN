@@ -72,10 +72,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000899 | Firazyr | icatibant | Valid |
 | EMEA/H/C/005083 | Icatibant Accord | icatibant acetate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

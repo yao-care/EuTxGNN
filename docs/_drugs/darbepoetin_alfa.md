@@ -48,10 +48,14 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000332 | Aranesp | darbepoetin alfa | Valid |
 | EMEA/H/C/000333 | Nespo | darbepoetin alfa | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

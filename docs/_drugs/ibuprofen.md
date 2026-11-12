@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 305
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ibuprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Treatment of a haemodynamically significant patent ductus arteriosus…"
 monitor_inn: "Ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
@@ -64,10 +64,14 @@ The very high TxGNN score is a TxGNN model (deep learning) prediction. It is mos
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000549 | Pedea | Ibuprofen | Valid |
 | EMEA/H/C/006129 | Vlustozik | Ibuprofen | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -86,12 +90,31 @@ Please refer to the SmPC for label warnings and contraindications.
 **Rationale:**
 The prediction is supported only by the model score. There are no clinical trials or publications, no plausible mechanistic link to a GDF5-related skeletal disorder.
 
+<!-- review:begin eu-lic-20261106-ibuprofen-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials or publications, no plausible mechanistic link to a GDF5-related skeletal disorder, and both EU authorisations have been cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-ibuprofen-1 -->
+
 **To proceed, the following is needed:**
 - A credible mechanistic hypothesis connecting COX inhibition to the GDF5/BMP signalling defect, tested in preclinical models
 - Mechanism of action data for ibuprofen
 - EU label warnings and contraindications from the SmPC
 - A safety assessment for the target population, taking into account the contraindication signals and interactions above
 - Re-evaluation of other predicted indications only if supporting evidence appears
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and both EU authorisations have been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

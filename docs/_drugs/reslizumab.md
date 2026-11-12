@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 519
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Reslizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets"]
 description: "Reslizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Cinqaero is indicated as add-on therapy in adult patients with severe…"
@@ -82,15 +82,25 @@ Currently no related literature available for immune thrombocytopenia.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003912 | Cinqaero | reslizumab | Valid |
+
+<!-- licenses:end -->
 
 ---
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information. No drug interaction records were found in the data compiled for this report.
+
+<!-- review:begin eu-lic-20261106-reslizumab-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "No drug interaction records were found in the data compiled for this report. Because the product's EU authorization has been cancelled, any use would need to rely on the previously approved labeling and on new safety assessment." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-reslizumab-3 -->
 
 ---
 
@@ -101,11 +111,38 @@ Please refer to the SmPC for safety information. No drug interaction records wer
 **Rationale:**
 The predicted indication rests only on a TxGNN model (deep learning) score (L5). It has no clinical trials or publications, and its mechanistic rationale is weak.
 
+<!-- review:begin eu-lic-20261031-reslizumab-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "It has no clinical trials or publications, and its mechanistic rationale is weak. In addition, the only EU authorization has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-reslizumab-1 -->
+
 **To proceed, the following is needed:**
 - Detailed mechanism of action data to assess whether any IL-5/eosinophil role exists in immune thrombocytopenia
 - Preclinical or observational evidence linking IL-5 blockade to platelet destruction
 - Safety information from the SmPC
 - A completed Phase 2 randomized, placebo-controlled pilot ([NCT01111305](https://clinicaltrials.gov/study/NCT01111305), n=31) tested single-dose reslizumab for reducing eosinophilia after diethylcarbamazine treatment of Loa loa infection. It was published as an RCT ([PMID 32910141](https://pubmed.ncbi.nlm.nih.gov/32910141/), 2021). A related review is also available ([PMID 33326992](https://pubmed.ncbi.nlm.nih.gov/33326992/), 2021). The study is small and a pilot, so efficacy as a therapeutic indication is not established.
+
+<!-- review:begin eu-lic-20261106-reslizumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Safety information from the SmPC, plus clarification of the reasons for and implications of the authorization cancellation" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-reslizumab-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "In addition, the only EU authorization has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "plus clarification of the reasons for and implications of the authorization cancellation" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Because the product's EU authorization has been cancelled, any use would need to rely on the previously approved labeling and on new safety " | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

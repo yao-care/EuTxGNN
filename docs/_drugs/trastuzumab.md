@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 635
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Trastuzumab"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 description: "Trastuzumab: predicted new indication Malignant cutaneous granular cell skin tumor (evidence level L5). Approved use: Metastatic breast cancer (MBC) For the treatment of adult patients wi…"
@@ -107,6 +107,8 @@ The pivotal adjuvant trial of trastuzumab with chemotherapy in HER2-positive bre
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000278 | Herceptin | trastuzumab | Valid |
@@ -121,7 +123,15 @@ The pivotal adjuvant trial of trastuzumab with chemotherapy in HER2-positive bre
 | EMEA/H/C/006252 | Tuznue | trastuzumab | Valid |
 | EMEA/H/C/005386 | Phesgo | pertuzumab; trastuzumab | Valid |
 
+<!-- licenses:end -->
+
 Five further authorizations are on record: Tuznue, Herwenda, Zercepac, Ogivri and Dazublys.
+
+<!-- review:begin eu-lic-20261106-trastuzumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Five further cancelled authorizations are on record: Tuznue, Herwenda, Zercepac, Ogivri and Dazublys." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 11 EU marketing authorisations for this drug, 11 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-trastuzumab-1 -->
 
 ---
 
@@ -158,6 +168,19 @@ A large completed Phase 3 randomized trial (3270 patients) and multiple RCTs sup
 - Retrieval of the SmPC warnings and contraindications, which were not available in the data compiled
 - Detailed mechanism-of-action data from DrugBank
 - A cardiac monitoring plan, particularly with anthracycline-containing regimens
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

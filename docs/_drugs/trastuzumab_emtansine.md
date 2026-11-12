@@ -75,9 +75,13 @@ The TxGNN deep-learning model produced candidate indications for Trastuzumab Emt
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002389 | Kadcyla | trastuzumab emtansine | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

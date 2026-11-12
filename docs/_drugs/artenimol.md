@@ -70,9 +70,13 @@ The TxGNN deep-learning model produced candidates for Artenimol, but every candi
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001199 | Eurartesim | piperaquine tetraphosphate; artenimol | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

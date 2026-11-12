@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 46
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Amlodipine: predicted new indication Brain stem infarction . Intracerebral hemorrhage is the best-supporte… (evidence level L5). Approved use: Essential hypertension (patients not adequately controll…"
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
@@ -123,6 +123,14 @@ Trials for cerebral artery occlusion (indirect evidence):
 
 The drug is marketed in this country.
 
+<!-- review:begin eu-lic-20261106-amlodipine-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in this country, with all 8 of 8 licences valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 12 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-amlodipine-3 -->
+
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000716 | Exforge | valsartan; amlodipine (as amlodipine besilate) | Valid |
@@ -138,7 +146,15 @@ The drug is marketed in this country.
 | EMEA/H/C/002017 | Rasitrio | aliskiren; amlodipine; hydrochlorothiazide | Withdrawn |
 | EMEA/H/C/002073 | Rasilamlo | aliskiren; amlodipine | Withdrawn |
 
+<!-- licenses:end -->
+
 Three further authorizations (Exforge HCT, Dafiro HCT, Copalia HCT) cover substitution therapy with the amlodipine, valsartan and hydrochlorothiazide combination.
+
+<!-- review:begin eu-lic-20261106-amlodipine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Three further cancelled authorizations (Exforge HCT, Dafiro HCT, Copalia HCT) cover substitution therapy with the amlodipine, valsartan and hydrochlorothiazide combination." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 12 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-amlodipine-1 -->
 
 ---
 
@@ -160,12 +176,40 @@ Please refer to the SmPC for official warnings and contraindications.
 - Brain stem infarction is a model prediction only, with no trials or literature, so it cannot be advanced.
 - Intracerebral hemorrhage has a completed Phase 3 trial (TRIDENT, N=1,671) and a 2026 NEJM publication. However, the intervention is a three-drug pill, the benefit works through blood pressure lowering.
 
+<!-- review:begin eu-lic-20261106-amlodipine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, the intervention is a three-drug pill, the benefit works through blood pressure lowering, and all EU licenses for amlodipine-containing products are cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 12 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-amlodipine-2 -->
+
 **To proceed, the following is needed:**
 - Review of the full TRIDENT results (effect size, safety, and the contribution of each component)
 - Mechanism of action data and the SmPC warnings and contraindications, which are missing here
 - Regulatory status: marketed
 - A safety plan for patients with the flagged comorbidities (angioedema, hepatic or renal impairment, hypotension)
 - Further evidence for any other predicted indication before reconsideration
+
+<!-- review:begin eu-lic-20261106-amlodipine-4 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Regulatory status: marketed, with 8 valid licences out of 8" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 12 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-amlodipine-4 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "and all EU licenses for amlodipine-containing products are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "with all 8 of 8 licences valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "with 8 valid licences out of 8" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

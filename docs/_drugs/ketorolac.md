@@ -92,9 +92,13 @@ The clinical literature supports this link. Guideline-level assessments and seve
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003702 | Omidria | ketorolac; phenylephrine | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

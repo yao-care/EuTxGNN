@@ -69,10 +69,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000986 | Firmagon | degarelix | Valid |
 | EMEA/H/C/006048 | Degarelix Accord | degarelix acetate | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

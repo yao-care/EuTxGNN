@@ -72,11 +72,15 @@ All candidates that the TxGNN deep-learning model produced for Alendronic Acid (
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000619 | Fosavance | alendronic acid; colecalciferol | Valid |
 | EMEA/H/C/000759 | Adrovance | colecalciferol; alendronic acid (as sodium trihydrate) | Valid |
 | EMEA/H/C/001180 | Vantavo | alendronic acid; colecalciferol | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

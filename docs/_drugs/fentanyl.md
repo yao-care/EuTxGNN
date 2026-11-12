@@ -69,6 +69,8 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000833 | Effentora | fentanyl | Valid |
@@ -76,6 +78,8 @@ Currently no related literature available.
 | EMEA/H/C/001164 | PecFent | fentanyl | Valid |
 | EMEA/H/C/000612 | Ionsys | fentanyl hydrochloride | Withdrawn |
 | EMEA/H/C/002715 | Ionsys | fentanyl hydrochloride | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

@@ -48,9 +48,13 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002782 | Entyvio | vedolizumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

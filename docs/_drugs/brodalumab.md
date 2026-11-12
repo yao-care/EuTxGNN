@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 109
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Brodalumab: predicted new indication Strongyloidiasis (evidence level L5). Approved use: Moderate to severe plaque psoriasis in adult patients who are candida…"
 monitor_inn: "Brodalumab"
 predicted_indications: ["strongyloidiasis", "eye disease", "vitamin deficiency disorder", "von Hippel anomaly", "optic perineuritis", "isolated optic neuritis", "chronic relapsing inflammatory optic neuropathy", "recurrent idiopathic neuroretinitis", "episcleritis periodica fugax", "nodular episcleritis"]
@@ -74,9 +74,13 @@ Currently no related literature available for strongyloidiasis.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003959 | Kyntheum | brodalumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -96,11 +100,30 @@ Please refer to the SmPC for warnings and formal contraindications.
 **Rationale:**
 The strongyloidiasis prediction has a high model score but no clinical or literature support and no plausible mechanism, since helminth defense depends on type 2 rather than IL-17 immunity. Blocking IL-17 could even be undesirable in an infectious setting.
 
+<!-- review:begin eu-lic-20261031-brodalumab-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Blocking IL-17 could even be undesirable in an infectious setting. In addition, the only EU authorization has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-brodalumab-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (for example, from DrugBank) and a mechanistic assessment of IL-17RA blockade in helminth infection
 - Warnings and contraindications from the SmPC, which are currently missing and block safety screening
 - Preclinical or clinical evidence in strongyloidiasis; if none exists, consider prioritizing candidates with better support, such as immune-mediated ocular inflammation, after careful review of the paradoxical-reaction and uveitis signals
 - Review of the Crohn disease and inflammatory bowel disease contraindication signal and the immunosuppressant and live-vaccine interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "In addition, the only EU authorization has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

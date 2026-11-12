@@ -90,10 +90,14 @@ The high TxGNN score fits this mechanistic plausibility, but it is a model outpu
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000690 | Nexavar | sorafenib | Valid |
 | EMEA/H/C/005921 | Sorafenib Accord | sorafenib tosilate | Valid |
+
+<!-- licenses:end -->
 
 ---
 

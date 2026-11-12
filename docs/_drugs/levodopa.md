@@ -68,6 +68,8 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004786 | Inbrija | levodopa | Valid |
@@ -77,6 +79,8 @@ Currently no related literature available.
 | EMEA/H/C/006429 | Onerji | levodopa; carbidopa | Valid |
 | EMEA/H/C/006629 | Hopledo | carbidopa monohydrate; levodopa | Valid |
 | EMEA/H/C/002611 | Numient | levodopa; carbidopa | Withdrawn |
+
+<!-- licenses:end -->
 
 The data compiled for this report list one authorization, and it is currently recorded as valid.
 

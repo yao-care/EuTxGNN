@@ -72,9 +72,13 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Anifrolumab,
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004975 | Saphnelo | anifrolumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

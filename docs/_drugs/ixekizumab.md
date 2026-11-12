@@ -75,9 +75,13 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003943 | Taltz | ixekizumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

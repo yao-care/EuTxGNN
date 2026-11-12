@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 353
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Larotrectinib: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Solid tumours with an NTRK gene fusion that are locally advanced…"
 monitor_inn: "Larotrectinib"
 predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]
@@ -76,9 +76,13 @@ Any benefit would probably be limited to the rare tumours in these patients that
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004919 | Vitrakvi | larotrectinib sulfate | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -106,10 +110,36 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction score is high, but the evidence is indirect: one non-specific basket trial and two papers that do not test larotrectinib in multiple endocrine neoplasia. The disease is driven mainly by RET, not NTRK, and the only plausible benefit is in the rare NTRK fusion-positive tumours already covered by the existing indication.
 
+<!-- review:begin eu-lic-20261106-larotrectinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The disease is driven mainly by RET, not NTRK, and the only plausible benefit is in the rare NTRK fusion-positive tumours already covered by the existing indication. The EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-larotrectinib-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data and a clear rationale for TRK inhibition in RET-driven MEN
 - Larotrectinib-specific results from the NCI-MATCH NTRK arm, or other trials in MEN patients with NTRK fusions
 - Safety information from the SmPC (warnings and contraindications), which is currently a blocking gap
+
+<!-- review:begin eu-lic-20261031-larotrectinib-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Safety information from the SmPC (warnings and contraindications), which is currently a blocking gap / Clarification of the EU regulatory status, since the only authorization is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-larotrectinib-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Clarification of the EU regulatory status, since the only authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

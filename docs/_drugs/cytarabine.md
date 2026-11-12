@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 163
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cytarabine: predicted new indication Small cell lung carcinoma (evidence level L4). Approved use: Newly diagnosed therapy-related acute myeloid leukaemia (t-AML) or AM…"
 monitor_inn: "Cytarabine"
 predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
@@ -80,12 +80,22 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004282 | Vyxeos liposomal | daunorubicin hydrochloride; cytarabine | Valid |
 | EMEA/H/C/000317 | DepoCyte | cytarabine | Withdrawn |
 
+<!-- licenses:end -->
+
 This drug is marketed in this country.
+
+<!-- review:begin eu-lic-20261106-cytarabine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "This drug is marketed in this country; 1 of 1 licence is valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-cytarabine-2 -->
 
 ## Cytotoxicity
 
@@ -111,12 +121,32 @@ Please refer to the SmPC for full warnings and precautions.
 **Rationale:**
 The prediction has no registered clinical trials and no supportive SCLC data beyond an old report without an available abstract. Evidence is at the L4 level.
 
+<!-- review:begin eu-lic-20261031-cytarabine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction has no registered clinical trials and no supportive SCLC data beyond an old report without an available abstract. The NSCLC studies showed limited efficacy with significant toxicity, and the only EU authorisation has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-cytarabine-1 -->
+
 **To proceed, the following is needed:**
 - Retrieve and appraise the 1987 high-dose cytarabine SCLC report (PMID 3030547)
 - Mechanism of action data and a rationale specific to SCLC
 - Preclinical data on cytarabine in SCLC models
 - Full safety information from the SmPC, since warnings and contraindications could not be obtained
 - A review of the other predicted indications; neuroblastoma has in vitro support but no direct clinical evidence, and the remaining predictions are supported only by indirect or no data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The NSCLC studies showed limited efficacy with significant toxicity, and the only EU authorisation has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "1 of 1 licence is valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

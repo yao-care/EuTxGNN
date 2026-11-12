@@ -69,10 +69,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004586 | Exparel liposomal | bupivacaine | Valid |
 | EMEA/H/C/005205 | Zynrelef | bupivacaine; meloxicam | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

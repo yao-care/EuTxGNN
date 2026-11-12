@@ -72,10 +72,14 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004804 | Piqray | alpelisib | Valid |
 | EMEA/H/C/006539 | Vijoice | alpelisib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

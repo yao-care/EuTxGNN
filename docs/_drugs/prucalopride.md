@@ -81,9 +81,13 @@ For context, literature was found only for the amyloidosis-related predictions (
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001012 | Resolor | prucalopride succinate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -48,10 +48,14 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002293 | Edarbi | azilsartan medoxomil | Valid |
 | EMEA/H/C/002517 | Ipreziv | azilsartan medoxomil | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

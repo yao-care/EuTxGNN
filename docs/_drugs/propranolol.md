@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 501
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Propranolol: predicted new indication Distal myopathy, Tateyama type (evidence level L5). Approved use: Proliferating infantile haemangioma requiring systemic therapy (life-…"
 monitor_inn: "Propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
@@ -99,9 +99,13 @@ No related literature is available for the top-ranked prediction (distal myopath
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002621 | Hemangiol | propranolol hydrochloride | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -125,12 +129,31 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Rationale:**
 The top-ranked prediction, distal myopathy, Tateyama type, rests on a model score alone (L5), with no trials, no publications and no plausible mechanism. The knowledge graph also flags myopathies and muscle diseases as contraindication signals for propranolol. Warnings and contraindications from the product information were not available.
 
+<!-- review:begin eu-lic-20261106-propranolol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The EU authorisation for the original indication is cancelled, and warnings and contraindications from the product information were not available." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-propranolol-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, and any biological rationale linking beta-blockade to distal myopathy, Tateyama type
 - Warnings and contraindications from the EMA product information, which are required before safety screening
 - Preclinical or case-level evidence in the predicted myopathy
 - Resolution of the knowledge-graph contraindication signals for muscle disease
 - Consider redirecting evaluation to better-supported candidates (e.g. haemangioma subtypes, hypertrophic cardiomyopathy), each needing disease-specific evidence rather than extrapolation from infantile haemangioma
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorisation for the original indication is cancelled, and w" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

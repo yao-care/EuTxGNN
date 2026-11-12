@@ -74,10 +74,14 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002406 | Inlyta | axitinib | Valid |
 | EMEA/H/C/006206 | Axitinib Accord | axitinib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

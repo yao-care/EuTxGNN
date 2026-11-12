@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 484
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Phenylalanine: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Maple syrup urine disease (MSUD) presenting with an acute decompensat…"
 monitor_inn: "phenylalanine"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
@@ -76,9 +76,13 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005557 | Maapliv | glycine,L-alanine,L-arginine,L-aspartic acid,L-cysteine hydrochloride monohydra… | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -102,12 +106,31 @@ These are computational associations and need verification against authoritative
 **Rationale:**
 The prediction rests only on a high model score. There are no clinical trials, and the retrieved literature is tangential and does not test phenylalanine as a treatment. No mechanistic link is established.
 
+<!-- review:begin eu-lic-20261106-phenylalanine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "No mechanistic link is established, and the EU authorisation is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-phenylalanine-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g. from DrugBank) and a plausible rationale for biliary disease
 - Safety information from the SmPC, including the warnings and contraindications
 - Preclinical or mechanistic studies of phenylalanine or its metabolites in cholestatic or fibrosing biliary disease
 - Assessment of route and formulation compatibility, since the original product was an intravenous amino acid formulation for acute use
 - Review of the knowledge-graph contraindication signals, especially for renal and cardiovascular patients
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

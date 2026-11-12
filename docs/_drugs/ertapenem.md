@@ -80,10 +80,14 @@ Currently no related clinical trials registered for bacterial arthritis.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000389 | Invanz | ertapenem sodium | Valid |
 | EMEA/H/C/005815 | Ertapenem SUN |  | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

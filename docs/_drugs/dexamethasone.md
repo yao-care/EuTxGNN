@@ -81,10 +81,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001140 | Ozurdex | dexamethasone | Valid |
 | EMEA/H/C/004071 | Neofordex | dexamethasone | Valid |
+
+<!-- licenses:end -->
 
 Both authorizations are currently valid.
 

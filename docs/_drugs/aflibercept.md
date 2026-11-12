@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 26
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Aflibercept: predicted new indication Esotropia (evidence level L5). Approved use: Neovascular (wet) age-related macular degeneration (AMD)…"
 monitor_inn: "Aflibercept"
 predicted_indications: ["esotropia"]
@@ -75,6 +75,8 @@ Currently no related literature available.
 
 All 14 listed authorisations are valid. Dosage form was not recorded.
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002392 | Eylea | aflibercept | Valid |
@@ -92,7 +94,15 @@ All 14 listed authorisations are valid. Dosage form was not recorded.
 | EMEA/H/C/006745 | Eiyzey | aflibercept | Valid |
 | EMEA/H/C/006761 | Afiveg | aflibercept | Valid |
 
+<!-- licenses:end -->
+
 Nine further biosimilar authorisations (Afiveg, Afqlir, Yesafili, Vgenfli, Eydenzelt, Mynzepli, Eyluxvi, Eiyzey, Baiama) carry the same retinal indications.
+
+<!-- review:begin eu-lic-20261106-aflibercept-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Nine further biosimilar authorisations (Afiveg, Afqlir, Yesafili, Vgenfli, Eydenzelt, Mynzepli, Eyluxvi, Eiyzey, Baiama) carry the same retinal indications and are also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 14 EU marketing authorisations for this drug, 14 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-aflibercept-1 -->
 
 ## Cytotoxicity
 
@@ -124,6 +134,19 @@ The prediction for esotropia rests only on a model score, with no trials, no lit
 - Preclinical or clinical evidence for esotropia (or another predicted indication)
 - Clarification of EU authorisation status and available formulations and routes
 - A bleeding-risk assessment before considering any bleeding-related indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and are also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

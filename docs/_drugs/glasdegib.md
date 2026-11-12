@@ -74,9 +74,13 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidate indications fo
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004878 | Daurismo | Glasdegib maleate | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

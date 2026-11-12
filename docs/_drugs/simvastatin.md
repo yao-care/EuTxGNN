@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 564
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: predicted new indication Brain stem infarction (evidence level L5). Approved use: Cholib is indicated as adjunctive therapy to diet and exercise in hig…"
@@ -94,9 +94,13 @@ Only NCT00552097 and NCT00129402 evaluate simvastatin directly in FH. The remain
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002559 | Cholib | fenofibrate; simvastatin | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -113,11 +117,37 @@ Label warnings and contraindications were not available in the data compiled for
 **Rationale:**
 Multiple completed Phase 3 trials (including the ENHANCE trial and an adolescent heterozygous FH trial) evaluate simvastatin in FH, and Cochrane reviews and guidelines support statin use. However, this is essentially an established lipid-lowering use, and ENHANCE did not show an added imaging benefit from ezetimibe over simvastatin alone.
 
+<!-- review:begin eu-lic-20261106-simvastatin-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "However, this is essentially an established lipid-lowering use, the EU authorisation is cancelled, and ENHANCE did not show an added imaging benefit from ezetimibe over simvastatin alone." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-simvastatin-2 -->
+
 **To proceed, the following is needed:**
 - Official SmPC warnings and contraindications, which are currently missing
 - Detailed mechanism-of-action data from DrugBank
 - A safety plan covering myopathy, hepatic risk, and interactions (especially amiodarone, amlodipine, fenofibrate, and CYP3A4 inhibitors)
 - Clarification of dosing and efficacy in homozygous FH, where benefit is limited
+
+<!-- review:begin eu-lic-20261031-simvastatin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Clarification of dosing and efficacy in homozygous FH, where benefit is limited / Confirmation of current EU regulatory status, since the only licence found is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-simvastatin-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Confirmation of current EU regulatory status, since the only licence found is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "the EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

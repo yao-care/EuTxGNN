@@ -7,7 +7,7 @@ parent: AI Predictions (L5)
 nav_order: 47
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -90,6 +90,32 @@ This evidence pack is structurally incomplete — the `predicted_indications` ar
 - **[DG002 — High]** Retrieve mechanism of action (MOA) from DrugBank API using the INN `amlodipine` (note: the current evidence pack records `drugbank_id: null` — DrugBank lookup by name may be needed)
 - **Re-run TxGNN prediction pipeline** after resolving the above gaps to generate predicted indications
 - Once predictions are available, re-generate this report using a complete evidence pack
+
+<!-- review:begin eu-lic-20261106-amlodipine_as_amlodipine_besilate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "**[DG001 — Blocking]** Obtain TFDA package insert warnings and contraindications: download SmPC PDF from the TFDA official website and parse the relevant sections / **[DG002 — High]** Retrieve mechanism of action (MOA) from DrugBank API using the INN `amlodipine` (note: the current evidence pack records `drugbank_id: null` — DrugBank lookup by name may be needed)" Removed: leftover template text about Taiwan's TFDA, which does not apply to this EU page. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-amlodipine_as_amlodipine_besilate-1 -->
+
+<!-- review:begin eu-lic-20261106-amlodipine_as_amlodipine_besilate-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "**Re-run TxGNN prediction pipeline** after resolving the above gaps to generate predicted indications / **Verify EU market authorization status** — query the EMA product database directly for amlodipine; the current "0 authorizations" result is inconsistent with known market reality and likely reflects a lookup failure" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 12 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-amlodipine_as_amlodipine_besilate-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "**[DG001 — Blocking]** Obtain TFDA package insert warnings and contraindications: download SmPC PDF from the TFDA official website and parse" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "**Verify EU market authorization status** — query the EMA product database directly for amlodipine; the current "0 authorizations" result is" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

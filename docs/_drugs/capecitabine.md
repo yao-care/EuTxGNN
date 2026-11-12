@@ -70,6 +70,8 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000316 | Xeloda | capecitabine | Valid |
@@ -78,6 +80,8 @@ Currently no related literature available.
 | EMEA/H/C/002568 | Capecitabine Medac | capecitabine | Valid |
 | EMEA/H/C/002605 | Ecansya | capecitabine | Valid |
 | EMEA/H/C/002050 | Capecitabine SUN | capecitabine | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 680
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Zanamivir: predicted new indication Pyelonephritis (evidence level L5). Approved use: Treatment of complicated and potentially life-threatening influenza A…"
 monitor_inn: "Zanamivir"
 predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
@@ -62,9 +62,13 @@ Pyelonephritis is a kidney infection caused predominantly by bacteria such as *E
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004102 | Dectova | zanamivir | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -80,11 +84,30 @@ Please refer to the SmPC for the full warnings and contraindications.
 **Rationale:**
 The prediction rests only on the TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. Zanamivir acts on viral neuraminidase and has no known antibacterial activity, and no clinical trials or relevant publications support its use in pyelonephritis.
 
+<!-- review:begin eu-lic-20261106-zanamivir-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Zanamivir acts on viral neuraminidase and has no known antibacterial activity, and no clinical trials or relevant publications support its use in pyelonephritis. The EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-zanamivir-1 -->
+
 **To proceed, the following is needed:**
 - Any preclinical evidence of activity against uropathogenic bacteria or a relevant mechanism
 - Mechanism of action data for zanamivir
 - Warnings and contraindications from the SmPC to enable safety screening
 - Review of the predicted indications ranked 2-10, which also have no supporting evidence
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

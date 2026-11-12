@@ -72,9 +72,13 @@ The TxGNN deep-learning model produced no candidate indication with a score of 0
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003774 | Uptravi | selexipag | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

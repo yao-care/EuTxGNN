@@ -48,6 +48,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002322 | Forxiga | dapagliflozin propanediol monohydrate | Valid |
@@ -57,6 +59,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | EMEA/H/C/004057 | Qtern | saxagliptin; dapagliflozin propanediol monohydrate | Valid |
 | EMEA/H/C/004162 | Ebymect | dapagliflozin propanediol monohydrate; metformin hydrochloride | Valid |
 | EMEA/H/C/004910 | Qtrilmet | metformin hydrochloride; saxagliptin; dapagliflozin | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

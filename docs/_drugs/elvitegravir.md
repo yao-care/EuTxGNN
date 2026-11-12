@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 219
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Elvitegravir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV-1 infection in adults and adolescents (aged 12 years and older…"
 monitor_inn: "Elvitegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -81,11 +81,15 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002574 | Stribild | elvitegravir; cobicistat; emtricitabine; tenofovir disoproxil fumarate | Valid |
 | EMEA/H/C/004042 | Genvoya | elvitegravir; cobicistat; emtricitabine; tenofovir alafenamide | Valid |
 | EMEA/H/C/002577 | Vitekta | elvitegravir | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -102,10 +106,36 @@ Please also refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The only supporting evidence is preclinical (in vitro and animal models). SIV infects non-human primates, so there is no human clinical use case. The high TxGNN score reflects the biological similarity of SIV to HIV rather than a new treatment opportunity.
 
+<!-- review:begin eu-lic-20261106-elvitegravir-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both EU authorizations are cancelled, and the high TxGNN score reflects the biological similarity of SIV to HIV rather than a new treatment opportunity." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-elvitegravir-1 -->
+
 **To proceed, the following is needed:**
 - A defined research purpose (for example, use as a tool compound in SIV/SHIV macaque prevention models) rather than a human indication
 - Mechanism of action data and SmPC warnings and contraindications
 - Clarification of the regulatory status
+
+<!-- review:begin eu-lic-20261106-elvitegravir-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory status given that both EU authorizations are cancelled" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-elvitegravir-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both EU authorizations are cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "given that both EU authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

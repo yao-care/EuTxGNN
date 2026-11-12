@@ -84,9 +84,13 @@ However, the evidence is indirect. No cited trial or publication tests dupilumab
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004390 | Dupixent | dupilumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

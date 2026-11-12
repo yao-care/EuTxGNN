@@ -72,9 +72,13 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Cariprazi
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002770 | Reagila | cariprazine hydrochloride | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

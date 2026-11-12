@@ -75,10 +75,14 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002221 | Dacogen | decitabine | Valid |
 | EMEA/H/C/005823 | Inaqovi | cedazuridine; decitabine | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

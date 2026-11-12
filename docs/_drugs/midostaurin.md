@@ -85,9 +85,13 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Midostaurin,
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004095 | Rydapt | Midostaurin | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

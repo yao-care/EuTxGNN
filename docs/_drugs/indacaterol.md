@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 319
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Indacaterol: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Maintenance bronchodilator treatment of airflow obstruction in adults…"
 monitor_inn: "Indacaterol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "bronchial disease", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
@@ -79,6 +79,8 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001114 | Onbrez Breezhaler | indacaterol maleate | Valid |
@@ -91,6 +93,8 @@ Currently no related literature available.
 | EMEA/H/C/005518 | Zimbus Breezhaler | glycopyrronium bromide; Indacaterol (acetate); mometasone furoate | Valid |
 | EMEA/H/C/001210 | Oslif Breezhaler | indacaterol maleate | Withdrawn |
 | EMEA/H/C/001211 | Hirobriz Breezhaler | indacaterol maleate | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 
@@ -117,6 +121,12 @@ For warnings and contraindications from the product label, please refer to the S
 **Rationale:**
 The prediction rests on a computational score alone. There are no trials or publications, and the proposed mechanism is implausible given that NSIAD is driven by a V2 receptor defect. The drug is marketed in this country.
 
+<!-- review:begin eu-lic-20261106-indacaterol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed in this country, with 3 valid licences of 3." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 10 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-indacaterol-1 -->
+
 Among the other top-10 predictions, only **bronchial disease** (rank 7) has substantive supporting evidence, mainly published asthma Phase 3 data on indacaterol-containing combinations. That is largely an extension of the approved COPD use rather than a novel repurposing. If pursued, it would need to be as a fixed-dose combination with an inhaled corticosteroid, because LABA monotherapy is contraindicated in asthma.
 
 **To proceed, the following is needed:**
@@ -124,6 +134,26 @@ Among the other top-10 predictions, only **bronchial disease** (rank 7) has subs
 - Mechanism of action data and warnings/contraindications from the SmPC
 - Verification of current regulatory and availability status, given that the drug is marketed in this country
 - A cardiovascular, metabolic and electrolyte (potassium) safety assessment for the target population
+
+<!-- review:begin eu-lic-20261106-indacaterol-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Verification of current regulatory and availability status, given that the drug is marketed in this country with 3 valid licences of 3" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 10 EU marketing authorisations for this drug, 8 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-indacaterol-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "with 3 valid licences of 3" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "with 3 valid licences of 3" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

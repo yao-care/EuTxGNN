@@ -72,10 +72,14 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Thalidomide,
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000823 | Thalidomide BMS | thalidomide | Valid |
 | EMEA/H/C/005715 | Thalidomide Lipomed | thalidomide | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

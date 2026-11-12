@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Florbetapir 18F: predicted new indication Bronchitis (evidence level L5). Approved use: PET imaging of beta-amyloid neuritic plaque density in the brains of…"
 monitor_inn: "Florbetapir (18F)"
 predicted_indications: ["bronchitis"]
@@ -79,9 +79,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002422 | Amyvid | florbetapir (18F) | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -98,11 +102,37 @@ Please refer to the SmPC for safety information.
 **Rationale:**
 The prediction has only a model score, with no clinical trials, no publications, and no plausible mechanism.
 
+<!-- review:begin eu-lic-20261031-florbetapir_18f-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction has only a model score, with no clinical trials, no publications, and no plausible mechanism. Florbetapir is a trace-dose diagnostic agent without therapeutic activity, and its only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-florbetapir_18f-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, to assess whether any biological link to bronchitis exists
 - Safety information from the product label (warnings and contraindications), which is currently missing and blocks safety screening
 - Any preclinical or clinical evidence supporting a therapeutic effect in bronchitis
 - Clarification of the available dosage forms and routes
+
+<!-- review:begin eu-lic-20261106-florbetapir_18f-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the cancelled EU authorization status and the available dosage forms and routes" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-florbetapir_18f-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Florbetapir is a trace-dose diagnostic agent without therapeutic activity, and its only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "the cancelled EU authorization status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

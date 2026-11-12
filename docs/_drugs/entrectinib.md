@@ -72,9 +72,13 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004936 | Rozlytrek | Entrectinib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

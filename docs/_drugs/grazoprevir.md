@@ -94,9 +94,13 @@ None of the trials below tested grazoprevir against HIV infection itself. All we
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004126 | Zepatier | elbasvir; grazoprevir | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

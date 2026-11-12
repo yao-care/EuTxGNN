@@ -76,6 +76,8 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000539 | Velcade | bortezomib | Valid |
@@ -83,6 +85,8 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 | EMEA/H/C/004076 | Bortezomib Sun | bortezomib | Valid |
 | EMEA/H/C/005074 | Bortezomib Fresenius Kabi | bortezomib | Valid |
 | EMEA/H/C/004207 | Bortezomib Hospira | bortezomib | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

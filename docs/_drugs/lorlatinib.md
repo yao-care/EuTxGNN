@@ -62,9 +62,13 @@ No ALK-driven mechanism is established for gingival fibromatosis, a condition ma
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004646 | Lorviqua | Lorlatinib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

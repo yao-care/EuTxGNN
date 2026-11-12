@@ -73,10 +73,14 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Nomegestrol 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001213 | Zoely | nomegestrol acetate; estradiol | Valid |
 | EMEA/H/C/002068 | Ioa | nomegestrol acetate; estradiol | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

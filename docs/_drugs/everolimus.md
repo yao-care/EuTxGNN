@@ -76,10 +76,14 @@ Dedifferentiated liposarcoma is characterized by CDK4/MDM2 amplification and fre
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001038 | Afinitor | everolimus | Valid |
 | EMEA/H/C/002311 | Votubia | everolimus | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

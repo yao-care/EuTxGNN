@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 579
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Sunitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
 description: "Sunitinib: predicted new indication Liposarcoma (evidence level L2). Approved use: Gastrointestinal stromal tumour (GIST) Sunitinib Accord is indicated…"
@@ -62,6 +62,12 @@ GIST is itself a sarcoma of the gastrointestinal tract, and liposarcoma is a sof
 
 The clinical signal comes from small Phase 2 studies that pool several sarcoma histologies. Liposarcoma-specific conclusions are therefore limited.
 
+<!-- review:begin eu-lic-20261106-sunitinib-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both authorisations are currently cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-sunitinib-1 -->
+
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
@@ -82,10 +88,14 @@ The clinical signal comes from small Phase 2 studies that pool several sarcoma h
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000687 | Sutent | sunitinib | Valid |
 | EMEA/H/C/005419 | Sunitinib Accord | sunitinib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -114,11 +124,31 @@ Please refer to the SmPC for complete safety information.
 **Rationale:**
 Evidence for liposarcoma consists of two small, pooled-histology Phase 2 trials, one published Phase 2 report and a single case report, with no Phase 3 confirmation. In addition, label-based safety data are not yet available. The data are not enough to move forward.
 
+<!-- review:begin eu-lic-20261106-sunitinib-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the EU authorisations are currently cancelled, and label-based safety data are not yet available." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-sunitinib-2 -->
+
 **To proceed, the following is needed:**
 - EU SmPC warnings and contraindications (currently a blocking data gap)
 - Detailed mechanism of action data
 - Liposarcoma subtype-specific efficacy data (e.g., dedifferentiated vs. well-differentiated vs. myxoid), ideally from a randomised trial
 - A cardiac, hepatic and drug-interaction monitoring plan
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both authorisations are currently cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "the EU authorisations are currently cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

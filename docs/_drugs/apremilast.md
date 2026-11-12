@@ -75,10 +75,14 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Apremilast, 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003746 | Otezla | apremilast | Valid |
 | EMEA/H/C/006208 | Apremilast Accord |  | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

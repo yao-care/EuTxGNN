@@ -69,6 +69,8 @@ Currently no related literature available for this prediction.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000707 | Prezista | darunavir | Valid |
@@ -77,6 +79,8 @@ Currently no related literature available for this prediction.
 | EMEA/H/C/002819 | Rezolsta | darunavir; cobicistat | Valid |
 | EMEA/H/C/004391 | Symtuza | darunavir; cobicistat; emtricitabine; tenofovir alafenamide | Valid |
 | EMEA/H/C/004891 | Darunavir Krka d.d. | darunavir | Expired |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

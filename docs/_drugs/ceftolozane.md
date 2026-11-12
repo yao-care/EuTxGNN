@@ -87,9 +87,13 @@ No publications directly address ureaplasma urethritis. The only publication ret
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003772 | Zerbaxa | ceftolozane sulfate; tazobactam sodium | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

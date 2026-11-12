@@ -72,9 +72,13 @@ The TxGNN model's candidates for Peginterferon Beta-1A (score ≥ 0.99) are all 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002827 | Plegridy | peginterferon beta-1a | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

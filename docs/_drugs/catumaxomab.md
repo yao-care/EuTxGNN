@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 135
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Catumaxomab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Intraperitoneal treatment of malignant ascites in adults with EpCAM-p…"
 monitor_inn: "Catumaxomab"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "drug-induced osteoporosis", "diabetic retinopathy"]
@@ -71,12 +71,22 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005697 | Korjuny | catumaxomab | Valid |
 | EMEA/H/C/000972 | Removab | catumaxomab | Withdrawn |
 
+<!-- licenses:end -->
+
 Reference data note that an earlier EMA approval (as Removab) was withdrawn at the marketing authorisation holder's request in 2017 for commercial reasons, and that the drug was re-authorised in early 2025.
+
+<!-- review:begin eu-lic-20261106-catumaxomab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Reference data note that an earlier EMA approval (as Removab) was withdrawn at the marketing authorisation holder's request in 2017 for commercial reasons, and that the drug was re-authorised in early 2025. The compiled regulatory record, however, currently shows the license as cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-catumaxomab-1 -->
 
 ## Cytotoxicity
 
@@ -102,12 +112,32 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction rests on a model score alone. There are no trials or publications, the mechanism (T-cell redirection against EpCAM-positive cells) does not match the biology of diabetic retinopathy, and the safety profile is unfavourable.
 
+<!-- review:begin eu-lic-20261106-catumaxomab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no trials or publications, the mechanism (T-cell redirection against EpCAM-positive cells) does not match the biology of diabetic retinopathy, and the safety profile is unfavourable. The only EU authorisation on record is cancelled, which also limits practical access." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-catumaxomab-2 -->
+
 **To proceed, the following is needed:**
 - Any preclinical or mechanistic evidence linking EpCAM/CD3 engagement to retinal disease (none is currently identified)
 - The SmPC warnings and contraindications (a blocking data gap for safety screening)
 - Structured mechanism of action data from DrugBank
 - Clarification of the current EU authorisation status
 - If the programme is redirected, prioritise the EpCAM-expressing candidates (e.g., urothelial carcinomas), starting with confirmation of EpCAM expression and a suitable delivery route
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The compiled regulatory record, however, currently shows the license as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "The only EU authorisation on record is cancelled, which also limits practical access" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

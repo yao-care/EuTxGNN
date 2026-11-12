@@ -83,9 +83,13 @@ There are limits. The available trials are small, there are no Phase 3 data, and
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002315 | Caprelsa | vandetanib | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

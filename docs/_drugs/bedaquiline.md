@@ -62,9 +62,13 @@ Other predictions in the list (fascioliasis 0.9988, urea cycle disorder 0.9978, 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002614 | Sirturo | bedaquiline fumarate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

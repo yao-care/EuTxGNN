@@ -70,9 +70,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000558 | Erbitux | cetuximab | Valid |
+
+<!-- licenses:end -->
 
 The same authorisation also covers squamous cell cancer of the head and neck: in combination with radiation therapy for locally advanced disease, and with platinum-based chemotherapy for recurrent and/or metastatic disease.
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 646
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Turoctocog Alfa Pegol: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia A…"
 monitor_inn: "Turoctocog alfa pegol"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "acquired coagulation factor deficiency", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency", "hereditary thrombocytosis with transverse limb defect", "fetal and neonatal alloimmune thrombocytopenia"]
@@ -76,9 +76,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004883 | Esperoct | turoctocog alfa pegol | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -93,12 +97,38 @@ No drug-drug interaction records were found, and no contraindication edges were 
 **Rationale:**
 The prediction is supported only by the model score, with no clinical trials or literature. All ten predicted indications are rated L5 and Hold.
 
+<!-- review:begin eu-lic-20261031-turoctocog_alfa_pegol-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction is supported only by the model score, with no clinical trials or literature. The mechanism does not fit a platelet disorder, and the only EU authorisation is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-turoctocog_alfa_pegol-1 -->
+
 **To proceed, the following is needed:**
 - Clarify the market status of Esperoct
 - Obtain the product information (warnings and contraindications) from the EMA website, which is a blocking gap for safety screening
 - Obtain mechanism of action data from DrugBank
 - Systematic literature and trial searches for FVIII use in the predicted conditions
 - If any candidate is pursued, start with acquired coagulation factor deficiency restricted to FVIII-specific deficiency, and clarify the identity of "flood factor deficiency"
+
+<!-- review:begin eu-lic-20261106-turoctocog_alfa_pegol-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarify the market status of Esperoct and confirm the reason the EU authorisation was cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-turoctocog_alfa_pegol-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The mechanism does not fit a platelet disorder, and the only EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "and confirm the reason the EU authorisation was cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

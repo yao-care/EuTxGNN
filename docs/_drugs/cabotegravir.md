@@ -70,10 +70,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005756 | Apretude | cabotegravir | Valid |
 | EMEA/H/C/004976 | Vocabria | cabotegavir sodium; cabotegravir | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

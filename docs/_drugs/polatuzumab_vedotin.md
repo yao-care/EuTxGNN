@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 491
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Polatuzumab Vedotin: predicted new indication HER2 positive breast carcinoma (evidence level L5). Approved use: Relapsed/refractory DLBCL (with bendamustine and rituximab) in adults…"
 monitor_inn: "Polatuzumab vedotin"
 predicted_indications: ["HER2 positive breast carcinoma"]
@@ -67,6 +67,12 @@ Currently no related clinical trials registered.
 
 No publications directly address HER2-positive breast carcinoma. The compiled data does contain 18 publications retrieved for another breast cancer prediction (luminal A or B). All of them concern DLBCL or other B-cell lymphomas, and none supports use in breast cancer. They are shown below only to illustrate the drug's established evidence base in its original indication.
 
+<!-- review:begin eu-lic-20261106-polatuzumab_vedotin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The authorization status in the compiled data is "cancelled". Verify the current status against the official EMA register before relying on it." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-polatuzumab_vedotin-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [34904799](https://pubmed.ncbi.nlm.nih.gov/34904799/) | 2022 | RCT | N Engl J Med | POLARIX: polatuzumab vedotin with R-CHP in previously untreated DLBCL |
@@ -82,9 +88,13 @@ No publications directly address HER2-positive breast carcinoma. The compiled da
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004870 | Polivy | polatuzumab vedotin | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -121,6 +131,19 @@ The prediction for HER2-positive breast carcinoma is supported only by the TxGNN
 - Preclinical studies in HER2-positive breast cancer models
 - Mechanism of action data and EU label warnings and contraindications
 - Confirmation of the current EU authorization status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The authorization status in the compiled data is "cancelled". Verify the current status against the official EMA register before relying on " | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

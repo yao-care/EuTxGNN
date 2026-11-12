@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 382
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Lusutrombopag: predicted new indication Hereditary thrombocytopenia with normal platelets (evidence level L5). Approved use: Severe thrombocytopenia in adult patients with chronic liver disease…"
 monitor_inn: "Lusutrombopag"
 predicted_indications: ["hereditary thrombocytopenia with normal platelets", "marcothrombocytopenia with mitral valve insufficiency", "transient neonatal thrombocytopenia", "dense granule disease", "platelet storage pool deficiency", "amyotrophic lateral sclerosis", "lower motor neuron syndrome with late-adult onset", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia"]
@@ -77,9 +77,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004720 | Mulpleo | Lusutrombopag | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -99,12 +103,31 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction is supported only by a model score (Evidence Level L5).
 
+<!-- review:begin eu-lic-20261031-lusutrombopag-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction is supported only by a model score (Evidence Level L5). No clinical trials or publications were found, the mechanism is plausible but unproven for this condition, and the only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 0 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-lusutrombopag-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data confirmed from DrugBank
 - Warnings and contraindications from the EMA package insert, which are required before safety screening
 - A literature and trial search specific to inherited thrombocytopenias and TPO receptor agonists
 - Characterization of the genetic subtype and residual megakaryopoiesis in the target patient population
 - Clarification of why the EU authorization was cancelled, and of regulatory feasibility for a new indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "No clinical trials or publications were found, the mechanism is plausible but unproven for this condition, and the only EU authorization is " | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

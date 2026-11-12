@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 500
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Prilocaine: predicted new indication Papillary conjunctivitis (evidence level L5). Approved use: Treatment of primary premature ejaculation in adult men"
 monitor_inn: "Prilocaine"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
@@ -102,10 +102,14 @@ Note that the neuralgia literature mostly describes EMLA used alone or as pre-tr
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002693 | Fortacin | lidocaine; prilocaine | Valid |
 | EMEA/H/C/005298 | Senstend | lidocaine; prilocaine | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -126,6 +130,12 @@ Package-insert warnings and contraindications were not available in the data com
 **Rationale:**
 - The top prediction, papillary conjunctivitis, is supported only by a model score, with no trials or literature (L5). Neuralgia is the only direction with a plausible mechanism and clinical reports (L3). That evidence is small, dated, mainly for the lidocaine/prilocaine combination, and symptomatic. The safety review is incomplete.
 
+<!-- review:begin eu-lic-20261106-prilocaine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The EU authorization is also cancelled, and the safety review is incomplete." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-prilocaine-1 -->
+
 **To proceed, the following is needed:**
 - The SmPC warnings and contraindications (the missing package-insert data).
 - Mechanism of action data for prilocaine.
@@ -133,6 +143,26 @@ Package-insert warnings and contraindications were not available in the data com
 - A route and formulation compatibility assessment, since this has not been completed for any predicted indication.
 - A safety plan covering methemoglobinemia risk, the interactions above, and use on compromised skin.
 - Clarification of whether an alternative authorized topical anesthetic is available.
+
+<!-- review:begin eu-lic-20261106-prilocaine-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the Fortacin authorization was cancelled, and whether an alternative authorized topical anesthetic is available." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-prilocaine-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "he EU authorization is also cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "why the Fortacin authorization was cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

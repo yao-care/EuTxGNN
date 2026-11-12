@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 674
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Volanesorsen: predicted new indication megaloblastic anemia (disease) (evidence level L5). Approved use: Adjunct to diet in adult patients with genetically confirmed familial…"
 monitor_inn: "Volanesorsen"
 predicted_indications: ["megaloblastic anemia (disease)", "sclerosing cholangitis", "sickle cell disease and related diseases", "sickle cell-hemoglobin c disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "meningococcal infection", "paroxysmal nocturnal hemoglobinuria"]
@@ -41,6 +41,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 Volanesorsen is an antisense oligonucleotide originally used as an add-on to diet in adults with genetically confirmed familial chylomicronemia syndrome (FCS) who are at high risk of pancreatitis.
 The TxGNN model predicts it may be effective for **megaloblastic anemia**, but **no clinical trials and no publications** currently support this prediction.
 
+<!-- review:begin eu-lic-20261106-volanesorsen-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The TxGNN model predicts it may be effective for **megaloblastic anemia**, but **no clinical trials and no publications** currently support this prediction, and the EU authorization has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-volanesorsen-3 -->
+
 ## Quick Overview
 
 | Item | Content |
@@ -71,9 +77,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004538 | Waylivra | volanesorsen sodium | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -92,12 +102,39 @@ Please refer to the SmPC for full safety information, including warnings, contra
 **Rationale:**
 The prediction rests solely on a model score, with no clinical trials, no literature and no plausible mechanistic link between APOC3 knockdown and megaloblastic anemia. In addition, the thrombocytopenia signal is a concern in hematologic patients.
 
+<!-- review:begin eu-lic-20261106-volanesorsen-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "In addition, the EU authorization is cancelled and the thrombocytopenia signal is a concern in hematologic patients." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-volanesorsen-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism-of-action data from DrugBank, to assess any biological connection
 - Warnings and contraindications from the EMA product information (SmPC), to enable safety screening
 - Any preclinical or clinical evidence linking APOC3 inhibition to megaloblastic anemia
 - A review of the thrombocytopenia risk in the target population
 - Clarification of the regulatory and supply status
+
+<!-- review:begin eu-lic-20261106-volanesorsen-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory and supply status, given that the EU authorization is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-volanesorsen-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "the EU authorization is cancelled and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "given that the EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "and the EU authorization has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

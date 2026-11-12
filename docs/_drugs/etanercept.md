@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Etanercept"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Etanercept: predicted new indication hypermobility of coccyx (evidence level L5). Approved use: Rheumatoid arthritis Enbrel in combination with methotrexate is indic…"
 ---
 
@@ -66,7 +66,15 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+<!-- review:begin eu-lic-20261106-etanercept-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All four are single-ingredient etanercept products (the originator and biosimilars)." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 6 EU marketing authorisations for this drug, 5 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-etanercept-1 -->
+
 ## EU Market Information
+
+<!-- licenses:begin -->
 
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
@@ -76,6 +84,8 @@ Currently no related literature available.
 | EMEA/H/C/004711 | Nepexto | etanercept | Valid |
 | EMEA/H/C/006738 | Fubelv |  | Valid |
 | EMEA/H/C/004167 | Lifmior | etanercept | Lapsed |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -97,6 +107,19 @@ The prediction rests only on a model score (0.9963). No trials or publications a
 - Any clinical or preclinical evidence studying etanercept in coccygeal hypermobility or related coccyx disorders
 - A plausible mechanistic hypothesis linking TNF inhibition to the condition
 - Mechanism-of-action data and SmPC safety information (warnings and contraindications) for review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All four are single-ingredient etanercept products (the originator and biosimilars)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

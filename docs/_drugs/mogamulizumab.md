@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 414
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Mogamulizumab: predicted new indication Prostatic urethra urothelial carcinoma (evidence level L5). Approved use: Adult patients with mycosis fungoides (MF) or Sézary syndrome (SS) wh…"
 monitor_inn: "Mogamulizumab"
 predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "human herpesvirus 8-related tumor", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor"]
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004232 | Poteligeo | mogamulizumab | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -104,12 +108,38 @@ Many of these are immunosuppressants or vaccines, so combined immune effects war
 **Rationale:**
 The prediction is supported only by the model score (0.9944), with no clinical trials or literature (Evidence Level L5). The mechanistic link is hypothetical.
 
+<!-- review:begin eu-lic-20261106-mogamulizumab-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The mechanistic link is hypothetical, and the EU authorization for the original indication is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-mogamulizumab-1 -->
+
 **To proceed, the following is needed:**
 - Full mechanism of action data, and preclinical evidence of CCR4+ Treg involvement in urothelial carcinoma
 - Package insert warnings and contraindications (blocking for safety screening)
 - Clarification of current availability
 - Literature and trial registry searches targeted at CCR4 or Treg depletion in urothelial tumours
 - Assessment of route and formulation compatibility for the new indication
+
+<!-- review:begin eu-lic-20261106-mogamulizumab-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the reason for the cancelled EU authorization and current availability" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-mogamulizumab-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and the EU authorization for the original indication is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "the reason for the cancelled EU authorization and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

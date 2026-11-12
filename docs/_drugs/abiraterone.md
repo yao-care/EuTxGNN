@@ -50,6 +50,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002321 | Zytiga | abiraterone acetate | Valid |
@@ -57,6 +59,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | EMEA/H/C/005408 | Abiraterone Accord | abiraterone acetate | Valid |
 | EMEA/H/C/005649 | Abiraterone Krka | abiraterone acetate | Valid |
 | EMEA/H/C/005932 | Akeega | abiraterone acetate; niraparib (tosilate monohydrate) | Valid |
+
+<!-- licenses:end -->
 
 ---
 

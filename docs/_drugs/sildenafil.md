@@ -48,6 +48,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000202 | Viagra | sildenafil | Valid |
@@ -59,6 +61,8 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | EMEA/H/C/004186 | Mysildecard | sildenafil | Valid |
 | EMEA/H/C/004289 | Granpidam | sildenafil citrate | Valid |
 | EMEA/H/C/000204 | Patrex | sildenafil | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

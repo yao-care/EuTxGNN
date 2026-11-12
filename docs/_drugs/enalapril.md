@@ -72,9 +72,13 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Enalapril
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005731 | Aqumeldi | Enalapril (maleate) | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

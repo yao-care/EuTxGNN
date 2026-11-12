@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 645
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Turoctocog Alfa: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia A…"
 monitor_inn: "Turoctocog alfa"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency", "thrombotic thrombocytopenic purpura", "hereditary thrombocytosis with transverse limb defect"]
@@ -71,9 +71,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002719 | NovoEight | turoctocog alfa | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -89,12 +93,31 @@ Safety-relevant points from the prediction review:
 **Rationale:**
 The prediction is based only on a network score. There are no clinical trials or publications, and the proposed mechanism does not hold, because platelet release defects are not caused by FVIII deficiency.
 
+<!-- review:begin eu-lic-20261106-turoctocog_alfa-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are no clinical trials or publications, and the proposed mechanism does not hold, because platelet release defects are not caused by FVIII deficiency. The product's EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-turoctocog_alfa-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data from DrugBank
 - Warnings and contraindications from the EMA product information
 - Disease-level review of acquired coagulation factor deficiency (rank 5) as a possible research question, particularly acquired haemophilia A with inhibitors
 - Clarification of the non-standard disease name "flood factor deficiency" (rank 8) before any assessment
 - Any preclinical or clinical evidence supporting FVIII use in the predicted conditions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The product's EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

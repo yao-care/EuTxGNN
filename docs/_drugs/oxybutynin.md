@@ -84,9 +84,13 @@ Currently no related literature available for restless legs syndrome.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000532 | Kentera | oxybutynin | Valid |
+
+<!-- licenses:end -->
 
 ---
 

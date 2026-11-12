@@ -108,10 +108,14 @@ No randomized trial publications were identified. The table lists reviews first,
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000613 | Evoltra | clofarabine | Valid |
 | EMEA/H/C/005039 | Ivozall | clofarabine | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 

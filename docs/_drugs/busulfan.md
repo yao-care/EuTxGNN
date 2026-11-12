@@ -97,10 +97,14 @@ In most of these trials busulfan is one part of a combination regimen, so its in
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002806 | Busulfan Fresenius Kabi | busulfan | Valid |
 | EMEA/H/C/000472 | Busilvex | busulfan | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

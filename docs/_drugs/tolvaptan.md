@@ -82,11 +82,15 @@ Currently no related clinical trials registered for this specific subtype. The p
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000980 | Samsca | tolvaptan | Valid |
 | EMEA/H/C/002788 | Jinarc | tolvaptan | Valid |
 | EMEA/H/C/005961 | Tolvaptan Accord | tolvaptan | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 147
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cholic Acid: predicted new indication HIV infectious disease (evidence level L4). Approved use: Inborn errors in primary bile acid synthesis due to 3β-hydroxy-Δ5-C27…"
 monitor_inn: "Cholic Acid"
 predicted_indications: ["HIV infectious disease", "obsolete familial combined hyperlipidemia", "homozygous familial hypercholesterolemia", "biotin metabolic disease", "vitamin deficiency disorder", "hereditary hemochromatosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hemosiderosis", "disorder of phenylalanine metabolism", "bone Paget disease"]
@@ -77,10 +77,14 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001250 | Orphacol | cholic acid | Valid |
 | EMEA/H/C/002081 | Kolbam | cholic acid | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -103,14 +107,40 @@ Please refer to the SmPC for warnings and formal contraindications.
 **Rationale:**
 The prediction rests on a high model score, but there are no clinical trials, and the literature consists of dated in vitro work, one study suggesting cholic acid derivatives may enhance HIV replication, and an unrelated bile acid association study.
 
+<!-- review:begin eu-lic-20261106-cholic_acid-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The prediction rests on a high model score, but there are no clinical trials, and the literature consists of dated in vitro work, one study suggesting cholic acid derivatives may enhance HIV replication, and an unrelated bile acid association study. The product's EU authorisation is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-cholic_acid-1 -->
+
 **To proceed, the following is needed:**
 - Mechanistic and in vitro studies with cholic acid itself (not derivatives) testing any anti-HIV effect
 - Mechanism of action data and the SmPC warnings and contraindications
 - Review of the interaction with tipranavir and other HIV protease inhibitors, including hepatotoxicity risk
 
+<!-- review:begin eu-lic-20261106-cholic_acid-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Review of the interaction with tipranavir and other HIV protease inhibitors, including hepatotoxicity risk / Clarification of why the authorisation was cancelled and whether a valid marketed product exists" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-cholic_acid-2 -->
+
 ## Other Predicted Indications (Brief Note)
 
 Among the other top predictions, **vitamin deficiency disorder** (score 0.9971, evidence level L3) has the most literature, including case reports, case series and a 2025 open-label cohort. Much of this reflects secondary fat-soluble vitamin deficiency within the already approved bile acid synthesis disorders, so it is largely a downstream effect of the existing indication rather than an independent new use. **Homozygous familial hypercholesterolaemia** has only a 1977 report of treatment failure. The remaining predictions have no clinical evidence.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The product's EU authorisation is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "Clarification of why the authorisation was cancelled and whether a valid marketed product exists" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

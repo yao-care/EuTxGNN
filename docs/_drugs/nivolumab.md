@@ -83,11 +83,15 @@ The TxGNN deep-learning model has no candidate with a score of 0.99 or higher fo
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003985 | Opdivo | nivolumab | Valid |
 | EMEA/H/C/005481 | Opdualag | nivolumab; relatlimab | Valid |
 | EMEA/H/C/003840 | Nivolumab BMS | nivolumab | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

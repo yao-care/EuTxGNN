@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 95
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Bimatoprost: predicted new indication Malformation syndrome with odontal and/or periodontal component (evidence level L5). Approved use: Reduction of elevated intraocular pressure in chronic open-ang…"
 monitor_inn: "Bimatoprost"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
@@ -79,10 +79,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000391 | Lumigan | bimatoprost | Valid |
 | EMEA/H/C/000668 | Ganfort | bimatoprost; timolol | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -102,12 +106,31 @@ Please refer to the SmPC for authoritative warnings and contraindications.
 **Rationale:**
 The prediction has no clinical or literature support, and the drug's known pharmacology has no plausible connection to dental or periodontal malformation.
 
+<!-- review:begin eu-lic-20261106-bimatoprost-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The prediction has no clinical or literature support, and the drug's known pharmacology has no plausible connection to dental or periodontal malformation. The marketing authorization has also been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-bimatoprost-1 -->
+
 **To proceed, the following is needed:**
 - A credible biological rationale linking prostamide signaling to dental or periodontal development
 - Any preclinical or clinical evidence specific to this condition
 - Detailed mechanism of action data and SmPC safety information
 
 **Note on other predictions:** Among the other predictions compiled for bimatoprost, **alopecia** (model rank 120, score 1.0000) has by far the strongest support. It has 11 registered trials, including three completed Phase 2 studies in androgenetic alopecia (NCT01325337, NCT01904721, NCT01325350), and 20 publications. It is rated L2 with a "Proceed with Guardrails" recommendation. No Phase 3 evidence for scalp alopecia was provided, and efficacy outcomes need expert review. If a repurposing direction is pursued for this drug, alopecia is the more evidence-supported candidate.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The marketing authorization has also been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

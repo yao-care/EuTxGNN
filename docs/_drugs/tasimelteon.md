@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 588
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tasimelteon: predicted new indication Bilateral parasagittal parieto-occipital polymicrogyria (evidence level L5). Approved use: Non-24-Hour Sleep-Wake Disorder (Non-24) in totally blind adults"
 monitor_inn: "Tasimelteon"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "insomnia (disease)", "amyotrophic lateral sclerosis", "endogenous depression", "axial spondylometaphyseal dysplasia", "monomelic amyotrophy", "lower motor neuron syndrome with late-adult onset", "Mills syndrome", "amyotrohpic lateral sclerosis type 22"]
@@ -82,9 +82,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003870 | Hetlioz | tasimelteon | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -129,7 +133,26 @@ The prediction rests only on a score from the TxGNN model (deep learning), which
 - Mechanism of action data for tasimelteon
 - Parsed safety information (warnings and contraindications) from the EU product information
 
+<!-- review:begin eu-lic-20261106-tasimelteon-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Parsed safety information (warnings and contraindications) from the EU product information / Clarification of the regulatory status of the cancelled authorisation" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tasimelteon-1 -->
+
 **Note on other predictions:** Among the other predicted indications, **insomnia** is far better supported. It has a Phase 3 randomised, double-blind, placebo-controlled trial of tasimelteon in paediatric insomnia ([NCT06953869](https://clinicaltrials.gov/study/NCT06953869), n=420, recruiting, no results yet). It also has supporting review literature and a clear mechanistic rationale. Prioritising insomnia for further evaluation would be more productive than pursuing polymicrogyria.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Clarification of the regulatory status of the cancelled authorisation" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

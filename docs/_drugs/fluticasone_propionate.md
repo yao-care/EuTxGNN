@@ -73,6 +73,8 @@ The TxGNN deep-learning model produced candidates for Fluticasone Propionate, bu
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000770 | Avamys | fluticasone furoate | Valid |
@@ -86,6 +88,8 @@ The TxGNN deep-learning model produced candidates for Fluticasone Propionate, bu
 | EMEA/H/C/004267 | Airexar Spiromax | salmeterol; fluticasone propionate | Withdrawn |
 | EMEA/H/C/005254 | Temybric Ellipta | fluticasone furoate; umeclidinium bromide; vilanterol trifenatate | Lapsed |
 | EMEA/H/C/005591 | BroPair Spiromax | salmeterol xinafoate; fluticasone propionate | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

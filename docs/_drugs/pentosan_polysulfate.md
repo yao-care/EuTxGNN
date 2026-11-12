@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 480
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Pentosan polysulfate"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease"]
 description: "Pentosan Polysulfate: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Elmiron is indicated for the treatment of bladder pain syndrome chara…"
@@ -71,9 +71,13 @@ Currently no related literature available for the primary predicted indication.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004246 | Elmiron | pentosan polysulfate sodium | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -90,11 +94,30 @@ Official label warnings and contraindications were not available. Please refer t
 **Rationale:**
 The prediction rests on model output alone (L5). There are no clinical trials and no supporting literature, and no plausible mechanism. The drug's anticoagulant activity and its association with HIT-like thrombocytopenia argue against use in platelet or bleeding disorders.
 
+<!-- review:begin eu-lic-20261031-pentosan_polysulfate-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The drug's anticoagulant activity and its association with HIT-like thrombocytopenia argue against use in platelet or bleeding disorders. In addition, the only EU authorisation is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-pentosan_polysulfate-1 -->
+
 **To proceed, the following is needed:**
 - Label warnings and contraindications from the EMA package insert, which are currently missing and block safety screening
 - Detailed mechanism of action data
 - Preclinical data showing any effect on platelet granule release
 - A bleeding-risk assessment for patients with platelet function disorders
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "In addition, the only EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 641
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Treprostinil"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita"]
 description: "Treprostinil: predicted new indication Pulmonary arteriovenous malformation (disease) (evidence level L5). Approved use: Treatment of adult patients with WHO Functional Class (FC) III or IV…"
@@ -69,6 +69,12 @@ Currently no related clinical trials registered.
 
 Selected from the 19 publications retrieved. Evidence is mainly observational or review-level.
 
+<!-- review:begin eu-lic-20261106-treprostinil-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "This authorisation is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-treprostinil-2 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [29436381](https://pubmed.ncbi.nlm.nih.gov/29436381/) | 2018 | Cohort | Heart | Efficacy and safety of subcutaneous treprostinil in adults with CHD-PAH after 12 months of treatment |
@@ -84,9 +90,13 @@ Selected from the 19 publications retrieved. Evidence is mainly observational or
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005207 | Trepulmix | treprostinil sodium | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -102,6 +112,12 @@ Please refer to the SmPC for label warnings and contraindications.
 **Rationale:**
 Safety review is also incomplete.
 
+<!-- review:begin eu-lic-20261031-treprostinil-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The mechanism is plausible and there are small observational studies in CHD-PAH, but there are no registered trials, the evidence is indirect, and the only EU authorisation is cancelled. Safety review is also incomplete." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-treprostinil-1 -->
+
 **To proceed, the following is needed:**
 - Label warnings and contraindications from the SmPC or package insert (currently missing and blocking the safety screen)
 - Detailed mechanism of action data
@@ -109,6 +125,27 @@ Safety review is also incomplete.
 - Controlled or registry-based evidence specific to CHD-PAH
 - Assessment of route of administration and formulation, since none was specified in the available data
 - Clarification of current regulatory status
+
+<!-- review:begin eu-lic-20261106-treprostinil-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of current regulatory status, given the cancelled authorisation" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-treprostinil-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The mechanism is plausible and there are small observational studies in CHD-PAH, but there are no registered trials, the evidence is indirec" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "This authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "given the cancelled authorisation" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

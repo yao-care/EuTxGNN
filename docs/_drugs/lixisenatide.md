@@ -73,10 +73,14 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Lixisenatide
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004243 | Suliqua | insulin glargine; lixisenatide | Valid |
 | EMEA/H/C/002445 | Lyxumia | lixisenatide | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

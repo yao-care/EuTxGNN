@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 44
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Amikacin: predicted new indication Paratyphoid fever (evidence level L5). Approved use: NTM lung infections caused by Mycobacterium avium Complex (MAC) in ad…"
 monitor_inn: "Amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "meningococcemia"]
@@ -90,9 +90,13 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005264 | Arikayce liposomal | amikacin sulfate | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -112,12 +116,31 @@ Please also refer to the SmPC for full safety information, as label-based warnin
 **Rationale:**
 The prediction score is very high, but it is a computational output. There are no clinical trials, and the literature is almost entirely epidemiology and susceptibility data with no amikacin-specific outcome evidence for paratyphoid fever. Aminoglycosides penetrate cells poorly, effective standard therapies exist, and the only comparative signal in related typhoid literature was unfavourable for amikacin.
 
+<!-- review:begin eu-lic-20261031-amikacin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Aminoglycosides penetrate cells poorly, effective standard therapies exist, and the only comparative signal in related typhoid literature was unfavourable for amikacin. The product's only EU authorisation is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-amikacin-1 -->
+
 **To proceed, the following is needed:**
 - Label-based warnings and contraindications from the SmPC (currently a blocking safety data gap)
 - Mechanism of action data (for example from DrugBank)
 - Clinical outcome data for amikacin in enteric fever, ideally restricted to extensively drug-resistant isolates
 - A nephrotoxicity and ototoxicity risk assessment, given the kidney and neuromuscular associations flagged
 - Clarification of the route of administration, since the previously authorised product is an inhaled liposomal formulation and enteric fever would require systemic dosing
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The product's only EU authorisation is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

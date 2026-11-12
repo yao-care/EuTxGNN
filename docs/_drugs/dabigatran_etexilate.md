@@ -68,11 +68,15 @@ No direct mechanistic link to sclerosing cholangitis has been established. A rol
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000829 | Pradaxa | dabigatran etexilate mesilate | Valid |
 | EMEA/H/C/005639 | Dabigatran Etexilate Accord | dabigatran etexilate mesilate | Valid |
 | EMEA/H/C/005922 | Dabigatran etexilate Teva | dabigatran etexilate mesilate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

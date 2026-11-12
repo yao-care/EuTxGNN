@@ -81,9 +81,13 @@ No publications were found for the top-ranked prediction (primary release disord
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004454 | Veyvondi | vonicog alfa | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 627
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tolcapone: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Adjunct to levodopa/benserazide or levodopa/carbidopa in levodopa-res…"
 monitor_inn: "Tolcapone"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "Lewy body dementia", "X-linked intellectual disability-ataxia-apraxia syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "X-linked intellectual disability-cerebellar hypoplasia syndrome", "paralysis agitans, juvenile, of Hunt"]
@@ -72,9 +72,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000132 | Tasmar | tolcapone | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -95,11 +99,37 @@ Please also refer to the SmPC for full warnings and contraindications.
 **Rationale:**
 The prediction is supported only by a computational score, with no clinical trials or literature, and no plausible mechanism.
 
+<!-- review:begin eu-lic-20261031-tolcapone-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction is supported only by a computational score, with no clinical trials or literature, and no plausible mechanism. Tolcapone also carries a serious liver injury risk, and its only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-tolcapone-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data, and a biological rationale linking COMT inhibition to Rasmussen encephalitis
 - Preclinical or clinical evidence in Rasmussen encephalitis
 - Full safety information from the SmPC, especially liver monitoring requirements
 - Clarification of the regulatory status
+
+<!-- review:begin eu-lic-20261106-tolcapone-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory status, since the EU authorization is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tolcapone-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Tolcapone also carries a serious liver injury risk, and its only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "since the EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

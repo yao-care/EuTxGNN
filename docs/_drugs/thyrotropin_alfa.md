@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 611
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Thyrotropin Alfa: predicted new indication Migraine disorder (evidence level L5). Approved use: Use with serum thyroglobulin (Tg) testing…"
 monitor_inn: "Thyrotropin alfa"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Raynaud disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "postural orthostatic tachycardia syndrome", "hyperthyroidism"]
@@ -70,9 +70,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000220 | Thyrogen | thyrotropin alfa | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -97,6 +101,25 @@ The prediction rests only on a score from the TxGNN model (deep learning), which
 - A literature and trial search specific to migraine (preclinical or observational)
 - Warnings and contraindications from the SmPC, to complete safety screening
 - Confirmation of the regulatory status and available formulations and routes
+
+<!-- review:begin eu-lic-20261106-thyrotropin_alfa-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of the regulatory status and available formulations and routes, given the cancelled authorization" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-thyrotropin_alfa-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "given the cancelled authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

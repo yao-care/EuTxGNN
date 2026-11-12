@@ -83,9 +83,13 @@ No retrieved paper directly studies the predicted syndrome. There are no RCTs, a
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000337 | INOmax | nitric oxide | Valid |
+
+<!-- licenses:end -->
 
 The list is complete (1 of 1 authorisation).
 

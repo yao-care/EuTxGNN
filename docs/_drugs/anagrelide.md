@@ -79,10 +79,14 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000480 | Xagrid | anagrelide | Valid |
 | EMEA/H/C/004585 | Anagrelide Viatris | anagrelide hydrochloride | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

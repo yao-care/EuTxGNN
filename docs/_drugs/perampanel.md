@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 481
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel: predicted new indication Beta-ketothiolase deficiency (evidence level L5). Approved use: Fycompa is indicated for the adjunctive treatment of partial-onset se…"
@@ -102,9 +102,13 @@ No visual-epilepsy-specific publications were found. The table below lists the m
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002434 | Fycompa | perampanel | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -123,12 +127,38 @@ Please refer to the SmPC for the full warnings and contraindications.
 
 **Rationale:**
 
+<!-- review:begin eu-lic-20261031-perampanel-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "**Rationale:** / The only EU authorization is cancelled, and safety label data could not be retrieved." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-perampanel-1 -->
+
 **To proceed, the following is needed:**
 - Visual or photosensitive epilepsy data, such as photoparoxysmal response studies or case series with perampanel
 - Mechanism-of-action data in a structured source
 - Full warnings and contraindications from the SmPC
 - For status epilepticus, results from the ongoing Phase 2 trial (NCT06401707) and an adequately powered randomized trial
 - A safety plan covering psychiatric adverse reactions and CNS-depressant interactions
+
+<!-- review:begin eu-lic-20261106-perampanel-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Full warnings and contraindications from the SmPC, and clarification of why the EU authorization was cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-perampanel-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization is cancelled, and safety label data could not be retrieved" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "and clarification of why the EU authorization was cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

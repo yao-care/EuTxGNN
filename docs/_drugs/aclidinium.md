@@ -72,12 +72,16 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Aclidinium, 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002211 | Eklira Genuair | aclidinium bromide | Valid |
 | EMEA/H/C/002706 | Bretaris Genuair | aclidinium bromide | Valid |
 | EMEA/H/C/003745 | Duaklir Genuair | aclidinium bromide; formoterol fumarate dihydrate | Valid |
 | EMEA/H/C/003969 | Brimica Genuair | formoterol fumarate dihydrate; aclidinium bromide | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 643
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tryptophan: predicted new indication Restless legs syndrome (evidence level L3). Approved use: Maple syrup urine disease (MSUD) presenting with an acute decompensat…"
 monitor_inn: "tryptophan"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
@@ -88,9 +88,13 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005557 | Maapliv | glycine,L-alanine,L-arginine,L-aspartic acid,L-cysteine hydrochloride monohydra… | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -112,6 +116,12 @@ Please refer to the SmPC for official warnings and contraindications.
 **Rationale:**
 The RLS prediction has a very high model score, but the supporting evidence is limited to two small, dated clinical reports (1986–1987), with no registered trials. Many serotonergic drug interactions, and the history of eosinophilia-myalgia syndrome, call for caution. At best this is a research question.
 
+<!-- review:begin eu-lic-20261106-tryptophan-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The RLS prediction has a very high model score, but the supporting evidence is limited to two small, dated clinical reports (1986–1987), with no registered trials. The product's EU authorisation is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tryptophan-1 -->
+
 **To proceed, the following is needed:**
 - Full text and critical appraisal of the 1986–1987 clinical studies, as no abstracts were available
 - A modern, controlled trial design for tryptophan in RLS
@@ -120,6 +130,26 @@ The RLS prediction has a very high model score, but the supporting evidence is l
 - Confirmation of product quality and purity requirements, given the eosinophilia-myalgia syndrome history
 - A plan for managing serotonergic drug interactions
 - Clarification of what formulation would be used for RLS (route and dosage form compatibility not yet assessed)
+
+<!-- review:begin eu-lic-20261106-tryptophan-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of why the authorisation was cancelled and what formulation would be used for RLS (route and dosage form compatibility not yet assessed)" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tryptophan-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The product's EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "why the authorisation was cancelled and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

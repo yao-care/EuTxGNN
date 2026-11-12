@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 78
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Azathioprine: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Prophylaxis of transplant rejection (kidney, liver, heart, lung…"
 monitor_inn: "Azathioprine"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
@@ -84,9 +84,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005055 | Jayempi | azathioprine | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -113,6 +117,25 @@ The prediction rests on the model score alone (evidence level L5), with no trial
 - Mechanism of action data and a biological rationale linking purine antimetabolite activity to this syndrome's pathology
 - Preclinical or case-level evidence of benefit in the condition
 - Label-level warnings and contraindications from the SmPC to support a safety screen
+
+<!-- review:begin eu-lic-20261031-azathioprine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Label-level warnings and contraindications from the SmPC to support a safety screen / Confirmation of the product's current regulatory status in the EU, since the only authorization is cancelled" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-azathioprine-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Confirmation of the product's current regulatory status in the EU, since the only authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

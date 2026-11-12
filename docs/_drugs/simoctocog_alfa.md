@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 563
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Simoctocog Alfa: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia A…"
 monitor_inn: "Simoctocog alfa"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "fetal and neonatal alloimmune thrombocytopenia", "thrombotic thrombocytopenic purpura"]
@@ -82,10 +82,14 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002813 | Nuwiq |  | Valid |
 | EMEA/H/C/004459 | Vihuma | simoctocog alfa | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -100,12 +104,38 @@ For thrombotic thrombocytopenic purpura specifically, FVIII administration could
 **Rationale:**
 The top-ranked prediction, pseudo-von Willebrand disease, has a high model score but no clinical or literature support. Its mechanism (a platelet receptor defect) is not addressed by FVIII replacement.
 
+<!-- review:begin eu-lic-20261106-simoctocog_alfa-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Its mechanism (a platelet receptor defect) is not addressed by FVIII replacement. Both EU authorizations are cancelled, which further limits practical availability." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-simoctocog_alfa-1 -->
+
 **To proceed, the following is needed:**
 - Safety information from the SmPC (warnings and contraindications), which is currently missing and blocks safety screening
 - Mechanism of action data from DrugBank
 - A systematic literature and trial search for the predicted indications
 - If any direction is pursued, a narrowly defined research question, such as FVIII-specific acquired deficiency without inhibitors (rank 5) or the haemophilia A with vascular abnormality variant (rank 9), which are the most biologically plausible
 - Confirmation of product availability
+
+<!-- review:begin eu-lic-20261106-simoctocog_alfa-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirmation of product availability, given the cancelled authorizations" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-simoctocog_alfa-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both EU authorizations are cancelled, which further limits practical availability" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "given the cancelled authorizations" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

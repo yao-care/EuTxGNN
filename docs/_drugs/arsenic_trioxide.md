@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 60
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Arsenic Trioxide: predicted new indication Unclassified myelodysplastic syndrome (evidence level L5). Approved use: Induction of remission and consolidation in adults with newly diagnos…"
 monitor_inn: "Arsenic trioxide"
 predicted_indications: ["unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "partial deletion of the long arm of chromosome 5", "myelodysplastic syndrome", "Ewing sarcoma", "dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
@@ -93,6 +93,12 @@ Other related trials were withdrawn (NCT03377725, a Phase 3 decitabine plus arse
 
 No publications are linked to "unclassified myelodysplastic syndrome" itself. The following concern the broader MDS category.
 
+<!-- review:begin eu-lic-20261106-arsenic_trioxide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Arsenic trioxide is marketed: all 3 of 3 licences are valid in the data compiled for this report." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 4 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-arsenic_trioxide-1 -->
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [37908176](https://pubmed.ncbi.nlm.nih.gov/37908176/) | 2023 | Systematic review / network meta-analysis | Hematology (Amsterdam) | Evaluates efficacy and adverse events of arsenic trioxide regimens in MDS; notes small samples and conflicting trial conclusions |
@@ -110,12 +116,16 @@ No publications are linked to "unclassified myelodysplastic syndrome" itself. Th
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000388 | Trisenox | arsenic trioxide | Valid |
 | EMEA/H/C/005175 | Arsenic trioxide Accord | arsenic trioxide | Valid |
 | EMEA/H/C/005218 | Arsenic trioxide medac | arsenic trioxide | Valid |
 | EMEA/H/C/005235 | Arsenic trioxide Mylan | arsenic trioxide | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 
@@ -156,6 +166,12 @@ Label-based warnings and contraindications were not available in the data compil
 **Rationale:**
 The exact predicted term, unclassified MDS, has a very high model score (0.9993) but no linked trials or literature (L5). Evidence for the broader MDS category exists (L2) but is limited to small, early-phase or terminated trials with modest response rates and no Phase 3 trial. Advancing MDS as a research question is reasonable, but the current evidence does not justify progression for the exact term. The drug is marketed.
 
+<!-- review:begin eu-lic-20261106-arsenic_trioxide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The drug is marketed, with 3 of 3 licences valid." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 4 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-arsenic_trioxide-2 -->
+
 **To proceed, the following is needed:**
 - Mapping of "unclassified MDS" to the MDS trial and literature evidence, to confirm whether the broader evidence applies to this subtype
 - Randomised, adequately powered trials of arsenic trioxide in defined MDS risk groups (for example the TP53-mutated and low-risk populations in ongoing studies NCT06778187 and NCT06670222)
@@ -163,6 +179,27 @@ The exact predicted term, unclassified MDS, has a very high model score (0.9993)
 - Detailed mechanism-of-action data
 - Clarification of regulatory and supply status, and consideration of the oral formulation under study
 - Mechanistic and route-compatibility assessment, which is still pending
+
+<!-- review:begin eu-lic-20261106-arsenic_trioxide-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of regulatory and supply status (3 of 3 licences are valid), and consideration of the oral formulation under study" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 4 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-arsenic_trioxide-3 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Arsenic trioxide is marketed: all 3 of 3 licences are valid in the data compiled for this report" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "with 3 of 3 licences valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "(3 of 3 licences are valid)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

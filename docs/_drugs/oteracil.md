@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 455
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Oteracil"
 predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "rectosigmoid junction neoplasm", "benign neoplasm of cecum", "colonic lymphangioma", "colon leiomyoma", "cavernous hemangioma of colon"]
 description: "Oteracil: predicted new indication Cecum villous adenoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -89,9 +89,13 @@ Most of the available literature consists of case reports and one retrospective 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001242 | Teysuno | tegafur; gimeracil; oteracil | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -114,12 +118,38 @@ Please refer to the SmPC for safety information. Published case reports of S-1-c
 **Rationale:**
 A completed Phase 3 RCT (NCT00660894, n=1535) and a large Phase 3 trial of unknown status (NCT03448549) support S-1-based therapy in colon cancer. Proceeding should be limited to the S-1 combination with careful safety monitoring.
 
+<!-- review:begin eu-lic-20261031-oteracil-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "A completed Phase 3 RCT (NCT00660894, n=1535) and a large Phase 3 trial of unknown status (NCT03448549) support S-1-based therapy in colon cancer. However, the benefit comes from the S-1 combination rather than oteracil alone, the metastatic setting is already covered by the EU label, and the only EU authorization has been cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the EMA data (the EMA medicines data as of 2026-10-31). Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-oteracil-1 -->
+
 **To proceed, the following is needed:**
 - Warnings and contraindications from the SmPC (currently a blocking gap for safety screening)
 - Detailed mechanism-of-action data from DrugBank
 - Verified results for NCT03448549 and NCT00660894 in the adjuvant stage III colon cancer setting
 - Clarification of the regulatory pathway
 - A safety monitoring plan covering haematological, dermatological and cardiovascular toxicity
+
+<!-- review:begin eu-lic-20261106-oteracil-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the regulatory pathway given the cancelled EU authorization" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-oteracil-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "However, the benefit comes from the S-1 combination rather than oteracil alone, the metastatic setting is already covered by the EU label, a" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "given the cancelled EU authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

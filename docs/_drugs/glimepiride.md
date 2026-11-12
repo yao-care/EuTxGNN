@@ -71,10 +71,14 @@ No publication directly studies classic stiff person syndrome. Currently no rela
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000680 | Tandemact | pioglitazone; glimepiride | Valid |
 | EMEA/H/C/000675 | Avaglim | rosiglitazone; glimepiride | Withdrawn |
+
+<!-- licenses:end -->
 
 Note: this is a combination product licence (pioglitazone + glimepiride) and does not describe the approval of single-ingredient glimepiride.
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 292
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Glycine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Treatment of maple syrup urine disease (MSUD) presenting with an acut…"
 monitor_inn: "glycine"
 predicted_indications: ["nasal cavity disease"]
@@ -85,9 +85,13 @@ The data compiled for this report establish no credible mechanistic link between
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005557 | Maapliv | glycine,L-alanine,L-arginine,L-aspartic acid,L-cysteine hydrochloride monohydra… | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -110,12 +114,31 @@ No drug-interaction records were found. Please refer to the SmPC for formal warn
 **Rationale:**
 The prediction rests only on a model score. The single related trial is an unrelated imaging study, the literature is basic or preclinical, and no mechanistic link to nasal cavity disease can be established.
 
+<!-- review:begin eu-lic-20261106-glycine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The single related trial is an unrelated imaging study, the literature is basic or preclinical, and no mechanistic link to nasal cavity disease can be established. The only EU authorisation for glycine (Maapliv) has been cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-glycine-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (for example from DrugBank) and a plausible biological rationale for nasal cavity disease
 - Official SmPC warnings and contraindications, so safety screening can be completed
 - Preclinical or clinical studies that test glycine directly in nasal or upper-airway disease
 - Assessment of route and formulation suitability (for example, topical or nasal), since the original product was an intravenous metabolic therapy
 - Clarification of the regulatory status of glycine products in the EU
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The only EU authorisation for glycine (Maapliv) has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

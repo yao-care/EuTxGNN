@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 314
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Imiglucerase: predicted new indication Hurler syndrome (evidence level L5). Approved use: Long-term enzyme replacement therapy for non-neuronopathic (Type 1) o…"
 monitor_inn: "Imiglucerase"
 predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
@@ -73,9 +73,13 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000157 | Cerezyme | imiglucerase | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -90,11 +94,30 @@ Please refer to the SmPC for other safety information, including warnings and co
 **Rationale:**
 There is no clinical trial evidence, and the only supporting publication is a general review that does not test imiglucerase in Hurler syndrome. Imiglucerase does not replace the missing enzyme (alpha-L-iduronidase) in MPS I, so the high model score lacks a mechanistic basis. Hurler syndrome already has disease-specific enzyme replacement therapy.
 
+<!-- review:begin eu-lic-20261106-imiglucerase-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Hurler syndrome already has disease-specific enzyme replacement therapy. In addition, the only EU authorization for imiglucerase is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-imiglucerase-1 -->
+
 **To proceed, the following is needed:**
 - Preclinical or mechanistic evidence that glucocerebrosidase could affect glycosaminoglycan accumulation in MPS I
 - Detailed mechanism of action data (MOA)
 - Safety information from the SmPC (warnings and contraindications)
 - Clarification of the current EU regulatory and supply status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "In addition, the only EU authorization for imiglucerase is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

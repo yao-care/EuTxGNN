@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 585
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tagraxofusp: predicted new indication Esotropia (evidence level L5). Approved use: First-line monotherapy for adult patients with blastic plasmacytoid d…"
 monitor_inn: "Tagraxofusp"
 predicted_indications: ["esotropia", "pre-malignant neoplasm", "inner ear neoplasm", "benign neoplasm of tongue", "ductal or ductular proliferation", "bronchial adenomas/carcinoids childhood", "chondroid hamartoma", "non-seminomatous lesion", "cystic neoplasm", "thyroglossal duct cyst"]
@@ -82,9 +82,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005031 | Elzonris | tagraxofusp | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -122,11 +126,30 @@ Please refer to the SmPC for warnings and contraindications.
 **Rationale:**
 The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials or publications, and no plausible mechanistic link between a CD123-directed cytotoxin and esotropia.
 
+<!-- review:begin eu-lic-20261031-tagraxofusp-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials or publications, and no plausible mechanistic link between a CD123-directed cytotoxin and esotropia. The only EU authorisation is cancelled, and the drug carries serious toxicity risks." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-tagraxofusp-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (DrugBank) to allow a proper mechanistic-link analysis
 - Warnings and contraindications from the EMA product information, which are required for safety screening
 - Any preclinical or clinical evidence of CD123 involvement in esotropia (none is currently known)
 - A review of whether the CD123-positive haematologic malignancy predictions are more promising than the current top-ranked results
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorisation is cancelled, and the drug carries serious toxicity risks" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

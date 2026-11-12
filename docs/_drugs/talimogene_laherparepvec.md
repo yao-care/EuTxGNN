@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 587
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Talimogene laherparepvec"
 predicted_indications: ["glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma"]
 description: "Talimogene Laherparepvec: predicted new indication Glottis squamous cell carcinoma (evidence level L5). Approved use: Imlygic is indicated for the treatment of adults with unresectable me…"
@@ -68,9 +68,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002771 | Imlygic | talimogene laherparepvec | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 
@@ -104,6 +108,18 @@ The prediction is supported only by the TxGNN model, with no clinical trials or 
 - Mechanism of action data and the SmPC warnings and contraindications
 - Assessment of the feasibility and airway safety of laryngeal injection
 - Review of the interaction risk with corticosteroids and antivirals
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "There are no clinical trials or publications, the target label "CMM7" cannot be mapped to a defined disease, and the only EU authorization i" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

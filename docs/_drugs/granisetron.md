@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 295
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Granisetron"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
 description: "Granisetron: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Prevention of nausea and vomiting in patients receiving moderately or…"
@@ -71,9 +71,13 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002296 | Sancuso | granisetron | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -91,12 +95,31 @@ Please refer to the SmPC for label-based warnings and contraindications.
 **Rationale:**
 The prediction is supported only by the TxGNN model score (L5). The cardiac contraindication signals and the many QT-related and serotonergic interactions also matter in a psychiatric population that often takes interacting drugs.
 
+<!-- review:begin eu-lic-20261031-granisetron-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The prediction is supported only by the TxGNN model score (L5). There are no registered trials or publications, the mechanistic link is speculative, and the only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-granisetron-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank)
 - Label warnings and contraindications from the EMA package insert, to complete safety screening
 - Preclinical or early clinical studies of granisetron (or 5-HT3 antagonists as a class) in mania or bipolar disorder
 - A cardiac safety assessment (QT interval, electrolytes) and an interaction review for typical psychiatric co-medications
 - Comparison of the higher-plausibility candidates (Tourette syndrome, trichotillomania) before committing resources
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "There are no registered trials or publications, the mechanistic link is speculative, and the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 485
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Phenylephrine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Phenylephrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Omidria is indicated in adults for maintenance of intraoperative mydr…"
@@ -80,9 +80,13 @@ No outcome data were available in the compiled data.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/003702 | Omidria | ketorolac; phenylephrine | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -99,12 +103,31 @@ Please refer to the SmPC for label warnings and contraindications, which were no
 **Rationale:**
 The prediction score is very high and the mechanism (mucosal vasoconstriction) is plausible. Phenylephrine is already used as a nasal decongestant.
 
+<!-- review:begin eu-lic-20261031-phenylephrine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Phenylephrine is already used as a nasal decongestant. However, there are no registered trials for nasal cavity disease, the literature is indirect (mostly combination products), and the only EU authorisation is cancelled and covers a different, ophthalmic use." Removed: it described the products as single-ingredient or combination products in a way that did not match the EMA data (the EMA medicines data as of 2026-10-31). Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-phenylephrine-1 -->
+
 **To proceed, the following is needed:**
 - Label warnings and contraindications from the SmPC or package insert (currently missing and blocking safety screening)
 - Mechanism-of-action data from DrugBank
 - Clarification of which specific nasal conditions are targeted, and a review of existing approved nasal phenylephrine products and their evidence
 - Route and formulation compatibility assessment (the original product was an ophthalmic irrigation additive, not a nasal product)
 - Prospective controlled studies of phenylephrine alone, with cardiovascular safety monitoring in at-risk patients
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "However, there are no registered trials for nasal cavity disease, the literature is indirect (mostly combination products), and the only EU " | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

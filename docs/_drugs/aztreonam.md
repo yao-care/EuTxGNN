@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 80
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Aztreonam: predicted new indication Hyperamylasemia (evidence level L5). Approved use: Suppressive therapy of chronic pulmonary infections due to Pseudomona…"
 monitor_inn: "Aztreonam"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "gonococcal urethritis", "Ureaplasma urethritis", "blood group incompatibility", "premalignant hematological system disease", "epiglottitis", "monoclonal gammopathy", "xanthogranulomatous pyelonephritis"]
@@ -97,10 +97,14 @@ Currently no related literature is available for hyperamylasemia. The table belo
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000996 | Cayston | aztreonam lysine | Valid |
 | EMEA/H/C/006113 | Emblaveo | avibactam; aztreonam | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -126,12 +130,38 @@ For label-based warnings and contraindications, please refer to the SmPC.
 - The top-ranked prediction (hyperamylasemia) has no clinical or literature support and no plausible antibacterial mechanism. Its high TxGNN score (0.9973) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 - Gonococcal urethritis (L3) is the only prediction worth a follow-up research question. Its evidence is limited to small, mostly 1980s studies and one 2020 single-arm trial.
 
+<!-- review:begin eu-lic-20261106-aztreonam-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Its high TxGNN score (0.9973) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. / Both EU authorizations are cancelled, so there is no currently marketed product." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-aztreonam-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data
 - Label-based warnings and contraindications from the SmPC
 - For gonococcal urethritis: confirmatory controlled trials against current first-line regimens, and an assessment of resistance data
 - Route and formulation compatibility assessment for any pursued indication
 - Clarification of whether any alternative supply exists
+
+<!-- review:begin eu-lic-20261106-aztreonam-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of why EU authorizations were cancelled and whether any alternative supply exists" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 2 EU marketing authorisations for this drug, 2 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-aztreonam-2 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Both EU authorizations are cancelled, so there is no currently marketed product" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "why EU authorizations were cancelled and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

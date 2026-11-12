@@ -73,11 +73,15 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Fingolimod, 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002202 | Gilenya | fingolimod hydrochloride | Valid |
 | EMEA/H/C/005191 | Fingolimod Accord | fingolimod hydrochloride | Valid |
 | EMEA/H/C/005661 | Fingolimod Mylan | Fingolimod | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

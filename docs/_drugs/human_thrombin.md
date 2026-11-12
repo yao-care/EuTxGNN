@@ -72,6 +72,8 @@ The TxGNN model has no candidate indication with a score of 0.99 or higher for H
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000505 | TachoSil | human fibrinogen; human thrombin | Valid |
@@ -79,6 +81,8 @@ The TxGNN model has no candidate indication with a score of 0.99 or higher for H
 | EMEA/H/C/000898 | Evicel | human fibrinogen; human thrombin | Withdrawn |
 | EMEA/H/C/002515 | Evarrest | human fibrinogen; human thrombin | Withdrawn |
 | EMEA/H/C/002807 | Raplixa | human fibrinogen; human thrombin | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

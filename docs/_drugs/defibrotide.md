@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 181
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Defibrotide: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Severe hepatic veno-occlusive disease (VOD/SOS) in HSCT therapy…"
 monitor_inn: "Defibrotide"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "thrombotic thrombocytopenic purpura", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "congenital factor V deficiency", "fetal and neonatal alloimmune thrombocytopenia", "thrombocytopenic purpura"]
@@ -82,9 +82,13 @@ The table below covers TTP. The broader entry "thrombocytopenic purpura" shares 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/002393 | Defitelio | defibrotide | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -102,12 +106,38 @@ Please refer to the SmPC for warnings and contraindications, as this information
 - The top predictions rest on model scores alone (L5). There is no trial or literature support, the mechanism does not fit, and there is a plausible bleeding risk.
 - For TTP, the evidence (L3) is limited to small, dated, uncontrolled reports and an in vitro study. Standard therapies are well established.
 
+<!-- review:begin eu-lic-20261106-defibrotide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Standard therapies are well established, and the single EU authorisation is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-defibrotide-2 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for defibrotide
 - Warnings and contraindications from the SmPC, which are required for safety screening
 - A focused review of defibrotide in refractory TTP and TA-TMA after HSCT, including the post-defibrotide TTP report
 - Clarification of the EU regulatory status
 - A prospective study or registry in TA-TMA, with bleeding monitoring and a review of interactions with anticoagulants and antiplatelet agents
+
+<!-- review:begin eu-lic-20261106-defibrotide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Clarification of the EU regulatory status (the authorisation is cancelled)" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-defibrotide-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "(the authorisation is cancelled)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "and the single EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

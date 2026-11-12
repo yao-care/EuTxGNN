@@ -85,9 +85,13 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Carmustine, 
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004326 | Carmustine medac | carmustine | Valid |
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

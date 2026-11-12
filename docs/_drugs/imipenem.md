@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 315
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Imipenem: predicted new indication Diffuse scleroderma (evidence level L5). Approved use: Hospital-acquired pneumonia (including ventilator-associated pneumoni…"
 monitor_inn: "Imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
@@ -98,9 +98,13 @@ For reference, the most relevant publications among the other predicted indicati
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004808 | Recarbrio | imipenem monohydrate; cilastatin sodium; relebactam monohydrate | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -116,12 +120,31 @@ Please refer to the SmPC for the approved warnings and contraindications.
 **Rationale:**
 The top-ranked prediction (diffuse scleroderma) has no mechanistic rationale, no trials and no literature, so it is supported by the model score alone. Among the other predictions, typhoid fever (XDR cases) and *S. aureus* combination therapy are the most plausible research questions, but the evidence is observational or small-scale.
 
+<!-- review:begin eu-lic-20261106-imipenem-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The top-ranked prediction (diffuse scleroderma) has no mechanistic rationale, no trials and no literature, so it is supported by the model score alone. The EU authorization is also cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-imipenem-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for imipenem
 - Package insert warnings and contraindications (SmPC), required before safety screening
 - For typhoid fever: prospective or comparative clinical data on imipenem in MDR/XDR cases
 - For *S. aureus*: confirmatory randomized data on imipenem-containing combinations
 - Route and formulation compatibility assessment for any proposed indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

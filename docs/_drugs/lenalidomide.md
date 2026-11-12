@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 361
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Lenalidomide: predicted new indication Myeloid leukemia (evidence level L2). Approved use: Multiple myeloma (maintenance after transplant…"
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
@@ -102,9 +102,17 @@ The compiled data list 44 trials for this prediction. The 10 most relevant are s
 
 No randomised controlled trial in myeloid leukemia appears among the retrieved publications; the evidence is mainly reviews and mechanistic work.
 
+<!-- review:begin eu-lic-20261106-lenalidomide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All three EU authorisations for lenalidomide are currently cancelled." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 6 EU marketing authorisations for this drug, 5 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-lenalidomide-1 -->
+
 ---
 
 ## EU Market Information
+
+<!-- licenses:begin -->
 
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
@@ -114,6 +122,8 @@ No randomised controlled trial in myeloid leukemia appears among the retrieved p
 | EMEA/H/C/005348 | Lenalidomide Krka | lenalidomide hydrochloride monohydrate | Valid |
 | EMEA/H/C/005734 | Lenalidomide Krka d.d. Novo mesto | lenalidomide hydrochloride monohydrate | Valid |
 | EMEA/H/C/005729 | Lenalidomide Krka d.d. | lenalidomide hydrochloride hydrate | Withdrawn |
+
+<!-- licenses:end -->
 
 ---
 
@@ -146,12 +156,24 @@ Please refer to the SmPC for the full warnings, as label text was not available 
 **Rationale:**
 - Many small Phase 1/2 trials and a strong mechanistic basis, especially for del(5q) disease, support the prediction. No randomised Phase 3 trial confirms benefit in myeloid leukemia.
 
+<!-- review:begin eu-lic-20261106-lenalidomide-2 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "No randomised Phase 3 trial confirms benefit in myeloid leukemia. The drug is marketed in this country, with 3 valid licences of 3." Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 6 EU marketing authorisations for this drug, 5 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-lenalidomide-2 -->
+
 **To proceed, the following is needed:**
 - Restrict any further work to biomarker-defined populations (for example del(5q)) and to well-designed randomised studies in AML
 - Review the EMA product information for warnings and contraindications, which were not available in the data compiled for this report
 - Confirm the current availability.
 - Include a plan for monitoring blood counts, thromboembolism and secondary malignancies
 - Obtain detailed mechanism-of-action data from DrugBank
+
+<!-- review:begin eu-lic-20261106-lenalidomide-3 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Confirm the current availability. The drug is marketed in this country, with 3 valid licences of 3" Removed: the number or status of EU marketing authorisations stated here did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 6 EU marketing authorisations for this drug, 5 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-lenalidomide-3 -->
 
 ---
 
@@ -162,6 +184,20 @@ Please refer to the SmPC for the full warnings, as label text was not available 
 | Refractory cytopenia of childhood | 0.9935 | L5 | Research Question |
 | Aregenerative anemia | 0.9932 | L5 | Research Question |
 | Severe congenital hypochromic anemia with ringed sideroblasts | 0.9928 | L5 | Hold |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All three EU authorisations for lenalidomide are currently cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "The drug is marketed in this country, with 3 valid licences of 3" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-06 | Removed: "The drug is marketed in this country, with 3 valid licences of 3" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

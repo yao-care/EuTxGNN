@@ -78,6 +78,8 @@ Currently no related clinical trials registered.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000107 | Epivir | lamivudine | Valid |
@@ -92,6 +94,8 @@ Currently no related clinical trials registered.
 | EMEA/H/C/004909 | Dovato | dolutegravir sodium; lamivudine | Valid |
 | EMEA/H/C/001236 | Lamivudine/Zidovudine Teva | lamivudine; zidovudine | Withdrawn |
 | EMEA/H/C/003823 | Dutrebis | lamivudine; raltegravir potassium | Withdrawn |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

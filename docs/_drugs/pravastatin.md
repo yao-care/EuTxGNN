@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 497
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
 description: "Pravastatin: predicted new indication HIV infectious disease (evidence level L4). Approved use: Pravafenix is indicated as an adjunct to diet and other non-pharmacol…"
@@ -83,9 +83,13 @@ None of these papers provides direct evidence of pravastatin efficacy in homozyg
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001243 | Pravafenix | fenofibrate; pravastatin | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -101,6 +105,12 @@ Package-insert warnings and contraindications were not available in the data com
 **Rationale:**
 The only support is a high model score. The one linked trial tests a different drug, the literature is largely about other lipid-lowering agents, and the biology of absent LDL receptor function argues against meaningful statin efficacy.
 
+<!-- review:begin eu-lic-20261106-pravastatin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "The one linked trial tests a different drug, the literature is largely about other lipid-lowering agents, and the biology of absent LDL receptor function argues against meaningful statin efficacy. The only EU authorisation for a pravastatin-containing product is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-pravastatin-1 -->
+
 **To proceed, the following is needed:**
 - Direct pravastatin efficacy data in homozygous familial hypercholesterolemia (or a clear rationale for residual LDL receptor activity in the target patients)
 - Mechanism of action data and SmPC warnings and contraindications
@@ -108,6 +118,19 @@ The only support is a high model score. The one linked trial tests a different d
 - Comparison against established therapies for this condition (such as PCSK9 inhibitors)
 
 Dyslipidemia in HIV has the largest body of pravastatin-specific trials (evidence level L2) and is an indication for cardiovascular risk management in people with HIV, not treatment of HIV itself.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "The only EU authorisation for a pravastatin-containing product is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

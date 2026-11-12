@@ -77,10 +77,14 @@ None of these studies directly investigates fenofibrate in patients with CETP de
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001243 | Pravafenix | fenofibrate; pravastatin | Valid |
 | EMEA/H/C/002559 | Cholib | fenofibrate; simvastatin | Valid |
+
+<!-- licenses:end -->
 
 Both products are fixed-dose combinations of fenofibrate with a statin (simvastatin in Cholib, pravastatin in Pravafenix). Their approvals apply to those combinations and not to fenofibrate as a single ingredient.
 

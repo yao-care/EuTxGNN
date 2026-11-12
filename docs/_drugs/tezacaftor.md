@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 606
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tezacaftor: predicted new indication HIV infectious disease (evidence level L5). Approved use: Cystic fibrosis (CF) in patients aged 6 years and older with specific…"
 monitor_inn: "Tezacaftor"
 predicted_indications: ["HIV infectious disease", "leprosy", "multiple endocrine neoplasia"]
@@ -70,11 +70,15 @@ Currently no related literature available.
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004682 | Symkevi | tezacaftor; ivacaftor | Valid |
 | EMEA/H/C/005269 | Kaftrio | ivacaftor; tezacaftor; elexacaftor | Valid |
 | EMEA/H/C/006382 | Alyftrek | deutivacaftor; tezacaftor; vanzacaftor calcium dihydrate | Valid |
+
+<!-- licenses:end -->
 
 All three licences are valid, and the drug is marketed.
 
@@ -95,6 +99,25 @@ The prediction for HIV infectious disease rests only on a TxGNN model (deep lear
 - Mechanism of action data for tezacaftor (for example from DrugBank)
 - Warnings and contraindications from the SmPC, which are currently missing
 - Preclinical evidence (for example in vitro antiviral assays) showing any anti-HIV activity
+
+<!-- review:begin eu-lic-20261106-tezacaftor-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Preclinical evidence (for example in vitro antiviral assays) showing any anti-HIV activity / Verification of the reason for the cancelled EU authorization status" Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-11-06). The EMA data list 3 EU marketing authorisations for this drug, 3 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261106-tezacaftor-1 -->
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "Verification of the reason for the cancelled EU authorization status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

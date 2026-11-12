@@ -78,10 +78,14 @@ Direct evidence for ticagrelor in this disease is limited. In the main Phase 3 t
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001241 | Brilique | ticagrelor | Valid |
 | EMEA/H/C/002303 | Possia | ticagrelor | Withdrawn |
+
+<!-- licenses:end -->
 
 The approved indication covers ACS and prior MI, not intracranial arteriosclerosis.
 

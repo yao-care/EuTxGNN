@@ -70,6 +70,8 @@ Currently no related literature available for severe nonproliferative diabetic r
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/001120 | Prolia | denosumab | Valid |
@@ -94,6 +96,8 @@ Currently no related literature available for severe nonproliferative diabetic r
 | EMEA/H/C/006436 | Junod | denosumab | Valid |
 
 Showing 20 of 32 EMA authorisations.
+
+<!-- licenses:end -->
 
 The licence list is partial; more records exist in the local data.
 

@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 51
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Andexanet Alfa: predicted new indication Glanzmann thrombasthenia (evidence level L5). Approved use: For adult patients treated with a direct factor Xa (FXa) inhibitor (a…"
 monitor_inn: "Andexanet alfa"
 predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "hemophilia"]
@@ -72,9 +72,13 @@ Other top-ranked predictions have the same weakness. They include primary releas
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/004108 | Ondexxya | andexanet alfa | Valid |
+
+<!-- licenses:end -->
 
 ---
 
@@ -93,11 +97,30 @@ For other safety information, please refer to the SmPC.
 **Rationale:**
 The prediction rests only on model scores. There are no clinical trials or publications for Glanzmann thrombasthenia, and no plausible mechanistic link exists, because andexanet alfa does not affect platelet integrin function.
 
+<!-- review:begin eu-lic-20261031-andexanet_alfa-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "There are no clinical trials or publications for Glanzmann thrombasthenia, and no plausible mechanistic link exists, because andexanet alfa does not affect platelet integrin function. The only EU authorization is cancelled." Removed: it said the EU marketing authorisations were cancelled, discontinued, or not current, which did not match the EMA data (the EMA medicines data as of 2026-10-31). The EMA data list 1 EU marketing authorisation for this drug, 1 current; the Quick Overview and the table under EU Market Information show the current figures. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261031-andexanet_alfa-1 -->
+
 **To proceed, the following is needed:**
 - Warnings and contraindications from the SmPC, which are currently missing and block safety screening
 - Mechanism-of-action data from DrugBank
 - Preclinical or mechanistic evidence showing a rational link to platelet aggregation defects
 - Clarification of the current regulatory status of Ondexxya in the EU
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

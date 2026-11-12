@@ -72,11 +72,15 @@ The TxGNN model's candidates for Voriconazole were all checked against known sou
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000387 | Vfend | voriconazole | Valid |
 | EMEA/H/C/002669 | Voriconazole Accord | voriconazole | Valid |
 | EMEA/H/C/003737 | Voriconazole Hikma | voriconazole | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

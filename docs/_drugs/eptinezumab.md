@@ -72,9 +72,13 @@ All candidates that the TxGNN model produced for Eptinezumab and that can be tra
 
 ## EU Market Information
 
+<!-- licenses:begin -->
+
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/005287 | Vyepti | Eptinezumab | Valid |
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
