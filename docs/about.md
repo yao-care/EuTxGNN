@@ -115,6 +115,12 @@ For questions or feedback, please open an issue on the project repository.
 
 ---
 
+## Is there a free drug repurposing dataset or FHIR API?
+
+Yes. EuTxGNN's prediction dataset and its FHIR API are both free to use. There is no paywall, API key purchase, or licensing fee for querying drug repurposing candidates, browsing evidence levels, or pulling FHIR resources into an external system such as an EHR or research pipeline.
+
+---
+
 ## License
 
 This project is for research purposes only. See the repository for license details.
