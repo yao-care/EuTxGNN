@@ -141,10 +141,21 @@ def changes(before, after):
     """兩版頁面 → [(claim, replacement, anchor)]"""
     pa, pb = paras(body(before)), paras(body(after))
     out = []
+    rb = body(before)
+
+    def heading_of(p):
+        """原段落所在章節的標題行（「## …」）；整段刪完、段落裡只剩程式表時當錨點（框放在標題下；2026-11-12 NZ cyclizine_lactate）"""
+        k = rb.find(p)
+        if k < 0:
+            return ""
+        hs = [m.group(0) for m in re.finditer(r"^#{2,3} .+$", rb[:k], re.M)]
+        return hs[-1] if hs else ""
+
     def deleted(i, j1):
-        """整段刪掉：錨點候選＝新版前後各三段（定稿時取第一個在頁面上唯一的）"""
+        """整段刪掉：錨點候選＝新版前後各三段，最後是所屬章節的標題（定稿時取第一個在頁面上唯一的）"""
         near = [pb[j] for j in (j1 - 1, j1, j1 - 2, j1 + 1, j1 - 3, j1 + 2) if 0 <= j < len(pb)]
-        out.append([(pa[i], "", x) for x in near] or [(pa[i], "", "")])
+        h = heading_of(pa[i])
+        out.append([(pa[i], "", x) for x in near + ([h] if h else [])] or [(pa[i], "", "")])
 
     for op, i1, i2, j1, j2 in difflib.SequenceMatcher(None, pa, pb, autojunk=False).get_opcodes():
         if op == "equal" or op == "insert":
@@ -253,6 +264,10 @@ def compose(recs, cands, meta):
         if old and claim and claim in old:
             new = [(c0, old.replace(claim, repl, 1), a0 or anchor) for c0, r0, a0 in r["cands"] if r0 == old] or \
                   [(r["cands"][0][0], old.replace(claim, repl, 1), anchor)]
+            if not new[0][1]:  # 合成後整段刪光：錨點用這次刪除的全部錨點候選（含章節標題；2026-11-12 NZ cyclizine_lactate）
+                anchors = list(dict.fromkeys([a for _, _, a in new if a] + [a for _, _, a in cands if a]))
+                anchors.sort(key=lambda a: not a.startswith("#"))  # 章節標題優先：段落刪光時框放回原章節
+                new = [(new[0][0], "", a) for a in anchors] or new
         elif old and claim and old in claim:
             new = [(c.replace(old, r["cands"][0][0], 1), rp, a) for c, rp, a in cands if old in c]
         else:
