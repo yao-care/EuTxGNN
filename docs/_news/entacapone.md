@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>32 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>33 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (32)
+## Related News (33)
 
 ### [The blood-brain barrier may contribute to cognitive function - The Economist](https://news.google.com/rss/articles/CBMivAFBVV95cUxPcU1wOWQyWk5zSkJ2WmlHREREQTZEckQzUXo3SUktLVB6Wmp0SWI3Q1NydnU3N2pxdjZkYk9pUXQ3VlFZdjktWHI2bHNPMXZESjJEelo1LUVDNVRwQXQ5bU1aYkFtTnZ0SjJsSlRNN0dpRTkwV2ZyWm9MRFFXbFpsV3VJYno4bzB2TTVNQkg4NW16b2s5QjdjblAwZlE5eHYwRUNrY0V1ZVIxdE9FeUtUdDFaRmVtTk43bnljVQ?oc=5)
 
 2026-11-11 <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [The Economist](https://news.google.com/rss/articles/CBMivAFBVV95cUxPcU1wOWQyWk5zSkJ2WmlHREREQTZEckQzUXo3SUktLVB6Wmp0SWI3Q1NydnU3N2pxdjZkYk9pUXQ3VlFZdjktWHI2bHNPMXZESjJEelo1LUVDNVRwQXQ5bU1aYkFtTnZ0SjJsSlRNN0dpRTkwV2ZyWm9MRFFXbFpsV3VJYno4bzB2TTVNQkg4NW16b2s5QjdjblAwZlE5eHYwRUNrY0V1ZVIxdE9FeUtUdDFaRmVtTk43bnljVQ?oc=5)
+
+---
+
+### [Des infections répétées au Covid-19, même légères, pourraient fragiliser le cerveau et accentuer cert... - Jean-Marc Morandini](https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHNYdS1kVUpwaVQxMmt5bk5XU0xZLWFHZFZHZUNvNkV4OG4zWWE3T2h3cDcyX2hUd2k1enIxQzBvYVhYSlNiWWNTVHlQYi1NcG96MWVkbFUzSXlSRWlINk9YcDBRdHQ3ZmlOem1LNFJGOHlHWVpSRXJUSk5KMFBwdkRIZEFLNWpXTERySHdweE5RRE52dl9PbEpHZ014VlZuNWY5VG8wN1RRQlhCYVQ0cDRpMmZBVTRac0tmNFBHbld3clVkUlFKeGVoa3lTY3owSmsxbTB0MDhybHZIcmtrY1pEQkItd3FvUVFlY3VKdmgzSE0xMXZiYkRJcVZKMHlkX3dVR2JLY0kyZzA0N0hzZUhJalNpakw5aWs2R19NdjRnZjlIUE9qdklscHFsaFUyY1hfZ2M4cV9LOHRvclA0UDNHcTdlS0JoOU1VVHJhONIB1AJBVV95cUxOOFdDWmxEa1pCTHJ2QTZtLVRybGdoQ2pOZFpzM0pHSm55Vk53dXUwT251RUktTF9XTC1DMnVuWWZYZDdmM3hYekZPWmtDNXBhUnFUQktqeVBDUk9LWjlad09YRDA5a3ZVVjAwd3o2YWtfRWxweG9QNHRnXzUzZVhEU3NsTFpTd2lTSktTOUlVdk9ablRuSmoyblRRNVA1bVlCUk9tZ0ppVUxVdUVZVWRlVHZCNi14dEFtYXo3OTVPRzVHdTBWQ215VkFTNkRjckdac0NtWHJvT1ZvbDNiMWhiZXFjYk5BU0ROTW9uMXRxUm9nR2xIb25yX015Q1paTmxZSzBEdGVvYkllRE9zTmZyUGlPYWZfek9GSzdMb1VrQjJHMnAwNVNJTFl3NlpRRjlKTTRzU1pUNWZjZjZIMmtoMUprWEExTlZHWU5nWVdOMmRETzY3?oc=5)
+
+2026-11-11 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+Source: [Jean-Marc Morandini](https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHNYdS1kVUpwaVQxMmt5bk5XU0xZLWFHZFZHZUNvNkV4OG4zWWE3T2h3cDcyX2hUd2k1enIxQzBvYVhYSlNiWWNTVHlQYi1NcG96MWVkbFUzSXlSRWlINk9YcDBRdHQ3ZmlOem1LNFJGOHlHWVpSRXJUSk5KMFBwdkRIZEFLNWpXTERySHdweE5RRE52dl9PbEpHZ014VlZuNWY5VG8wN1RRQlhCYVQ0cDRpMmZBVTRac0tmNFBHbld3clVkUlFKeGVoa3lTY3owSmsxbTB0MDhybHZIcmtrY1pEQkItd3FvUVFlY3VKdmgzSE0xMXZiYkRJcVZKMHlkX3dVR2JLY0kyZzA0N0hzZUhJalNpakw5aWs2R19NdjRnZjlIUE9qdklscHFsaFUyY1hfZ2M4cV9LOHRvclA0UDNHcTdlS0JoOU1VVHJhONIB1AJBVV95cUxOOFdDWmxEa1pCTHJ2QTZtLVRybGdoQ2pOZFpzM0pHSm55Vk53dXUwT251RUktTF9XTC1DMnVuWWZYZDdmM3hYekZPWmtDNXBhUnFUQktqeVBDUk9LWjlad09YRDA5a3ZVVjAwd3o2YWtfRWxweG9QNHRnXzUzZVhEU3NsTFpTd2lTSktTOUlVdk9ablRuSmoyblRRNVA1bVlCUk9tZ0ppVUxVdUVZVWRlVHZCNi14dEFtYXo3OTVPRzVHdTBWQ215VkFTNkRjckdac0NtWHJvT1ZvbDNiMWhiZXFjYk5BU0ROTW9uMXRxUm9nR2xIb25yX015Q1paTmxZSzBEdGVvYkllRE9zTmZyUGlPYWZfek9GSzdMb1VrQjJHMnAwNVNJTFl3NlpRRjlKTTRzU1pUNWZjZjZIMmtoMUprWEExTlZHWU5nWVdOMmRETzY3?oc=5)
 
 ---
 
@@ -118,7 +126,7 @@ Source: [CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1ZPYXJjVF9
 
 ### [Alzheimer's study finds symptom starts in ear 10 years before memory loss - Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
 
-2026-11-09 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Alzheimer's</span>
+2026-11-09 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">depression</span>
 
 Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
 

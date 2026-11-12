@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Amlodipine?">
-<strong>Amlodipine</strong> currently has <strong>377 news articles</strong>, with 9 predicted indications.
+<strong>Amlodipine</strong> currently has <strong>387 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,63 @@ This page combines the AI-predicted indications for Amlodipine with the latest h
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (377)
+## Related News (387)
+
+### [La UE refuerza la vigilancia frente a la gripe aviar zoonótica con un nuevo marco de prevención y respuesta](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYkxEelI3aEhOOW9LX1lrck9WWW9DOGZSMjd4Tnk5TXVvX0NqYVJpZzNNUHNTeG1vaGZldG5XaF9mNV92bzAyOGtOc3g4VlkySE5IMlpjWjcwVjlzMUFqWmpLcnNicnFpZGJ1N2RwV21kSzNUdUN0WW9EbHY1WnZiYzB1T0ttdDh6X1V4Yk5TRmNFejI4WUdpYlpIdWxIc2t4TXlhUGR5aS1TMTBWeDdQcWVjWklMUEZsVmdrS3JzYmdFVHBBV2hhUGtURWt2aXVnblB5M3EwZTNLWTN3WXBhSEQtTnpMRmw1MGQ4X0tvd1Fydw?oc=5)
+
+2026-11-12 <span class="news-drug-tag">Amlodipine</span>
+
+Source: [ConSalud.es](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYkxEelI3aEhOOW9LX1lrck9WWW9DOGZSMjd4Tnk5TXVvX0NqYVJpZzNNUHNTeG1vaGZldG5XaF9mNV92bzAyOGtOc3g4VlkySE5IMlpjWjcwVjlzMUFqWmpLcnNicnFpZGJ1N2RwV21kSzNUdUN0WW9EbHY1WnZiYzB1T0ttdDh6X1V4Yk5TRmNFejI4WUdpYlpIdWxIc2t4TXlhUGR5aS1TMTBWeDdQcWVjWklMUEZsVmdrS3JzYmdFVHBBV2hhUGtURWt2aXVnblB5M3EwZTNLWTN3WXBhSEQtTnpMRmw1MGQ4X0tvd1Fydw?oc=5)
+
+---
+
+### [Nicht-kleinzelliges Lungenkarzinom: TKI-Kombination mit vielversprechenden Ergebnissen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWnNkVGdQdEZsQURpM2dUVDBpUzZUUUpoLXV1YzFrQTZublRIOVE3bHhrUFhSUFZ0elVmSWJMbnZJazNxUGlxWlNYcWhEaTBXWHhYNFd3V0diZ3JkVmpwemFLUHljMWVJbmhGR01jeEtqOURWRnZ1VjNTS0hkbFVTUmdpZy1jeXBZSHBBd3FUUk14dFZ4MktPM1pvRS1Scm9CNl93UGlZSVJsNEpQZURBQk9jWFdYYXdPOEFLRXJtNDFVU2hiVDl0VDI4ckRhV3pVcEVWblJDN0lSVFE3VVAyQmpETWNkdzZlZ1E?oc=5)
+
+2026-11-12 <span class="news-indication-tag">tumor</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWnNkVGdQdEZsQURpM2dUVDBpUzZUUUpoLXV1YzFrQTZublRIOVE3bHhrUFhSUFZ0elVmSWJMbnZJazNxUGlxWlNYcWhEaTBXWHhYNFd3V0diZ3JkVmpwemFLUHljMWVJbmhGR01jeEtqOURWRnZ1VjNTS0hkbFVTUmdpZy1jeXBZSHBBd3FUUk14dFZ4MktPM1pvRS1Scm9CNl93UGlZSVJsNEpQZURBQk9jWFdYYXdPOEFLRXJtNDFVU2hiVDl0VDI4ckRhV3pVcEVWblJDN0lSVFE3VVAyQmpETWNkdzZlZ1E?oc=5)
+
+---
+
+### [Neumólogos de Vithas revelan las señales que pueden alertar de una neumonía](https://news.google.com/rss/articles/CBMiywFBVV95cUxONkd3WklHZklwVUdaZ2hvOFlzT3FzMjBkVWVxcXE3UWtaa1BhRFZfMHBJTlBQRktUaldjbERESlgzRHl3UEtVYUNjVXVKTGR4WWNsV2dBc1lzalhKbGpvR0FSVGRZOVJsdUUxRGkxdlltQWpGYkVGTWw1YnctbmZ1YWo1X1U1QTJ1UUZWc2M5T3lxS1FWeU5fM29mU3BTc09ORjNlcjJQVWxEcXdURGRKejJ4LUNNVk82ODlicTBKV3ZtQVFzTlNCRDVLcw?oc=5)
+
+2026-11-12 <span class="news-drug-tag">Amlodipine</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMiywFBVV95cUxONkd3WklHZklwVUdaZ2hvOFlzT3FzMjBkVWVxcXE3UWtaa1BhRFZfMHBJTlBQRktUaldjbERESlgzRHl3UEtVYUNjVXVKTGR4WWNsV2dBc1lzalhKbGpvR0FSVGRZOVJsdUUxRGkxdlltQWpGYkVGTWw1YnctbmZ1YWo1X1U1QTJ1UUZWc2M5T3lxS1FWeU5fM29mU3BTc09ORjNlcjJQVWxEcXdURGRKejJ4LUNNVk82ODlicTBKV3ZtQVFzTlNCRDVLcw?oc=5)
+
+---
+
+### [„Dasselbe biologische System könnte entweder Krebs oder Neurodegeneration fördern“](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU3VCQy1hSjhyX29xckMteXlNOVZmckxkVnd2bHpNMW0zanVPOS1Yb181eExqa3p6dDFfU3FFT015cW9aMS1tZXpNeUlkZEd0ZEpqc0Q1WXVPY3pzcXFPajRGbm5qanBYTjlKQ19tTHJaQUhBN1ZzalVyMDZIWVc5R3VURWFTSVdRYXJzSHJha2Y5eU12ZHZ6b3FRdWUxVm1jNmxUMUlfS2JkX1gzMFk1cXBMOVp6ZzRCR2lMZGxyWFJWbmJ1TlJ2bzN6ZS05ejVsOEZGNGwzRFZWU2plYVZNX3lxSWxJOVZJbnM0?oc=5)
+
+2026-11-12 <span class="news-indication-tag">Krebs</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU3VCQy1hSjhyX29xckMteXlNOVZmckxkVnd2bHpNMW0zanVPOS1Yb181eExqa3p6dDFfU3FFT015cW9aMS1tZXpNeUlkZEd0ZEpqc0Q1WXVPY3pzcXFPajRGbm5qanBYTjlKQ19tTHJaQUhBN1ZzalVyMDZIWVc5R3VURWFTSVdRYXJzSHJha2Y5eU12ZHZ6b3FRdWUxVm1jNmxUMUlfS2JkX1gzMFk1cXBMOVp6ZzRCR2lMZGxyWFJWbmJ1TlJ2bzN6ZS05ejVsOEZGNGwzRFZWU2plYVZNX3lxSWxJOVZJbnM0?oc=5)
+
+---
+
+### [Lecco, insulti sui social a mamma Jessica, malata terminale: «Raccomandata», «ora deve restituire tutto» - Corriere Milano](https://news.google.com/rss/articles/CBMiowJBVV95cUxOU0xkTk5BaDdna0F4NDdLSnRncUV6WG1pamtZR2Znb0FCSmI3MmJJa2Q1QldMa3RwaW9vVUpIcmxUUV9UQS1QVGc3NXIyYm1pc2x6M251eVZaWVN6RWkybHplRHM4eVREREZIRkU0d214bEJFdzA0Q1Q3LW5IN3VBLV9VTXRCbHdZUGQ3cDBQYjFVU1M4YmhnV3JFZUhzZXFVX2FaMHBrYkRrVWZnaUs3bzBHYTZhQm9TYmJidG5QMmhYc0Q2dHRucWVmYlJycW9mYlRidnI1UUp4eWlDMVlJMThjYUFHTWlZYkRJVk90Tl9jcFFTaXZXMGJ3NlZSQVE3dG85YWFvTngxX3ZRZnAtc2R6U25WbFhfZmI3V0lsNDR5SXfSAagCQVVfeXFMTURValdFVjNfdy1qN3dvc2ZRWUF4UUV5cGxSN1VmdVJTMWVWdjVDN1dNZkpicGhhb1lDdVBPb3VtSHphdWx0RDhGemVDQnEtN0MxNG5pWlBVSEVoNXVlVElVMWw3S243dS1vWGFoYVZsUGxDMTVPTUlodEtYekJ1WEpxaEtTam5YTDhoWm1ZZzFrT0Y0aGpoM0N2QURtdnVjUVlyZFNKMFQ0TEhSamp5QmxHRTU5M3VqLUtLV05nTEdvV2NlcU94ekxWaEprbzVJbkhkQmEzZzVsX3dlWndITi16Rl9vQ1ZyMDBiRkNycHZYY056RkQ5TEh0U2VfeGM4VEYwTWVGeG9sZ2tTemtfbWhfQmV0X056QnllVXVPVVVJLWRMS2thUzc?oc=5)
+
+2026-11-12 <span class="news-indication-tag">tumor</span>
+
+Source: [Corriere Milano](https://news.google.com/rss/articles/CBMiowJBVV95cUxOU0xkTk5BaDdna0F4NDdLSnRncUV6WG1pamtZR2Znb0FCSmI3MmJJa2Q1QldMa3RwaW9vVUpIcmxUUV9UQS1QVGc3NXIyYm1pc2x6M251eVZaWVN6RWkybHplRHM4eVREREZIRkU0d214bEJFdzA0Q1Q3LW5IN3VBLV9VTXRCbHdZUGQ3cDBQYjFVU1M4YmhnV3JFZUhzZXFVX2FaMHBrYkRrVWZnaUs3bzBHYTZhQm9TYmJidG5QMmhYc0Q2dHRucWVmYlJycW9mYlRidnI1UUp4eWlDMVlJMThjYUFHTWlZYkRJVk90Tl9jcFFTaXZXMGJ3NlZSQVE3dG85YWFvTngxX3ZRZnAtc2R6U25WbFhfZmI3V0lsNDR5SXfSAagCQVVfeXFMTURValdFVjNfdy1qN3dvc2ZRWUF4UUV5cGxSN1VmdVJTMWVWdjVDN1dNZkpicGhhb1lDdVBPb3VtSHphdWx0RDhGemVDQnEtN0MxNG5pWlBVSEVoNXVlVElVMWw3S243dS1vWGFoYVZsUGxDMTVPTUlodEtYekJ1WEpxaEtTam5YTDhoWm1ZZzFrT0Y0aGpoM0N2QURtdnVjUVlyZFNKMFQ0TEhSamp5QmxHRTU5M3VqLUtLV05nTEdvV2NlcU94ekxWaEprbzVJbkhkQmEzZzVsX3dlWndITi16Rl9vQ1ZyMDBiRkNycHZYY056RkQ5TEh0U2VfeGM4VEYwTWVGeG9sZ2tTemtfbWhfQmV0X056QnllVXVPVVVJLWRMS2thUzc?oc=5)
+
+---
+
+### [Kardiovaskuläre Prävention bei CKD – Risiko früh erkennen und konsequent handeln - mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCaW5pQjNsQWtMc2gwMUJPVEcxbHFGcEZQWV9JSTNwRTRZWDZLRG92ZFJNTmpPLVd0eHExalgzVVA4a2x6V1pQVE92MDljMTZKMloxcWRQaHJKdDI0NHg4cTJrT2FjMHJGMnFvZnBNN0JveWwxVVh1SWljU3IteGs1ZHI?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+
+Source: [mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCaW5pQjNsQWtMc2gwMUJPVEcxbHFGcEZQWV9JSTNwRTRZWDZLRG92ZFJNTmpPLVd0eHExalgzVVA4a2x6V1pQVE92MDljMTZKMloxcWRQaHJKdDI0NHg4cTJrT2FjMHJGMnFvZnBNN0JveWwxVVh1SWljU3IteGs1ZHI?oc=5)
+
+---
+
+### [Scientists discover a common sugar may help cancer cells break free and spread - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1xMGJNaXlhUjNTaTRaaEtCd01JOFQ1bk01N1VDVXlGYVVUU3lLUmJSb2RaS3BwSUd5aHgtS3FldGFoV0xQMm1ZcjAxY3ZiNjVNUWZQVExNaG8zYWlScWF2MGNaRHZkQWUybFM4MF91Zw?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1xMGJNaXlhUjNTaTRaaEtCd01JOFQ1bk01N1VDVXlGYVVUU3lLUmJSb2RaS3BwSUd5aHgtS3FldGFoV0xQMm1ZcjAxY3ZiNjVNUWZQVExNaG8zYWlScWF2MGNaRHZkQWUybFM4MF91Zw?oc=5)
+
+---
 
 ### [Señales de alerta para diferenciar una infección respiratoria común de una neumonía](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTjNtTFV2NmFtd2pzVEQ5bzdTUjVGWnE2cU9ZTjB0bFlMbDVHaGRDdDBMOHdIbFZZQm9uaThnTjJvaDZpamNsd09GcUZIc3ZvT0FlQUFHOWxKSnJEMUR3dVZzZUFLdUNwWFNrS0FkU2R5RUw2TGw2RjZmUXRaRjlCX1pYMlR5TVhqeE9udjZ0WjhfS01JcTZZYld3aw?oc=5)
 
@@ -64,6 +120,22 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUUtTRHNISzN1U
 2026-11-12 <span class="news-indication-tag">cancer</span>
 
 Source: [The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0lRUUNBaFZ0NUZJdW5KT0R4QkJQLUh4U05qN2d5b1VzTks2NzBXWUVwWGtXZWVzdDcwSmJDZFRIaXNnVHdRd3pxNEk0aVZENFB0U1o2VXBjaGl4LVpOeTBfbEQwbE1yM0xSZjhaNGQ0M2FLR1ZJdHBHd1NsUGNhS0hNR3htVl9ZZEJzZUNzdlBRUQ?oc=5)
+
+---
+
+### [Garattini: “Serve prevenzione, i governi sono complici dell’aumento del cancro”](https://news.google.com/rss/articles/CBMivAFBVV95cUxOa2ZXT3R1TzB1cEgySG1lWXNqZFR4SUhfamliSjZFd2h4NkZHYi1zek56eW9QbE5ZYm9uOUJQZmViaUVfQW1jNmhqM1hyeUNiYjJzWW9QWFk3MTdJQmJRdnVFaTljUVhqMWpuQkEtMkN0QlFiNGhrVkhjMDZrUThkdnpBaFo0SG5YZ2U2cGtnQ19lTTR3bnpqZkZUMnpsUDlHX1lBNWZxdV8tUTlXTTlCTXZzVGlkaF9hVUxJXw?oc=5)
+
+2026-11-11 <span class="news-indication-tag">cancro</span>
+
+Source: [BergamoNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxOa2ZXT3R1TzB1cEgySG1lWXNqZFR4SUhfamliSjZFd2h4NkZHYi1zek56eW9QbE5ZYm9uOUJQZmViaUVfQW1jNmhqM1hyeUNiYjJzWW9QWFk3MTdJQmJRdnVFaTljUVhqMWpuQkEtMkN0QlFiNGhrVkhjMDZrUThkdnpBaFo0SG5YZ2U2cGtnQ19lTTR3bnpqZkZUMnpsUDlHX1lBNWZxdV8tUTlXTTlCTXZzVGlkaF9hVUxJXw?oc=5)
+
+---
+
+### [Evolutionary dynamics in the years preceding acute myeloid leukaemia](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FMTdnbDhmS19TdUNXMThNWmMwb3JrOWZtVDJNaTVVV1VyOHJza1VWckxIaTBpeFpwcUNqeFRycEZSTEVnYkF4dE01SnJodmdJUVN3cl9SVzhkVml1X3Mw?oc=5)
+
+2026-11-11 <span class="news-indication-tag">cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FMTdnbDhmS19TdUNXMThNWmMwb3JrOWZtVDJNaTVVV1VyOHJza1VWckxIaTBpeFpwcUNqeFRycEZSTEVnYkF4dE01SnJodmdJUVN3cl9SVzhkVml1X3Mw?oc=5)
 
 ---
 
@@ -211,6 +283,14 @@ Source: [Wales Online](https://news.google.com/rss/articles/CBMingFBVV95cUxOS2Fo
 
 ---
 
+### [Perché farsi crescere i baffi a novembre fa bene agli uomini](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ01MdFBSQzE4QzRIZnhZaFd0ODlGUkQxM0xmTUZJZFpnQm1PZldoeXBWUXNoQ0hycEVIU2pkbGR5bS1Ld1JpZFJyYU1GWXdZc1d3eV93eXd2RE1EcHRFWWx0YmRycC1IelRlMURwcElwR0ZhYVA5RnV6Y3hRUXdEQi0xY2stRHBCdmF6a3ZUdlMwMWhFOFhMRXNWblTSAWhBVV95cUxPcFg0Ylh3eTZDY0xfOHBqR2ljaDFYZDZULThIam8xbl9rUUdkb2psNHBaRDhWd0RCT3hfTmpsYTR4V0hGdkZLQVlqUEJvejZoNVhpMGktdjBaRzRJN0pPS24tS1VVUEdUVA?oc=5)
+
+2026-11-11 <span class="news-indication-tag">tumor</span>
+
+Source: [Tgcom24](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ01MdFBSQzE4QzRIZnhZaFd0ODlGUkQxM0xmTUZJZFpnQm1PZldoeXBWUXNoQ0hycEVIU2pkbGR5bS1Ld1JpZFJyYU1GWXdZc1d3eV93eXd2RE1EcHRFWWx0YmRycC1IelRlMURwcElwR0ZhYVA5RnV6Y3hRUXdEQi0xY2stRHBCdmF6a3ZUdlMwMWhFOFhMRXNWblTSAWhBVV95cUxPcFg0Ylh3eTZDY0xfOHBqR2ljaDFYZDZULThIam8xbl9rUUdkb2psNHBaRDhWd0RCT3hfTmpsYTR4V0hGdkZLQVlqUEJvejZoNVhpMGktdjBaRzRJN0pPS24tS1VVUEdUVA?oc=5)
+
+---
+
 ### [Michele Ronco: “A 35 anni ho scoperto di avere un tumore raro, così ho cominciato a studiarlo” - la Repubblica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUGtVc3oxOVdERi1xTDF4WXdoejJMa3hVdU9zd3d3X1JjWU9GYTZBZkNiR3dicGNpLXh0NUVrSzg0ZVNBMFVxbE95VHkxdndFQ3FiY2w2TVhFWTBBUmF1WGdxVW5iZ2JmS0tQeGJjN1lzX2daZGRFTUFIQUMyWTZfTllKWGd1RjRlemE4Z3MxMUVkOEtDZkp6OTFsM1JicmVwSWg3bElGRDB1QTRj0gGyAUFVX3lxTFA2VGYxM0N2WVJXZXpsUlBBamtaa0Q1XzA5SG43X1pqREpfTmpNS1BvaTRNWkFFeklXcXhvcjRvU2pfVWlPWTM0TllGdjduN0VjNlNzVjQyRDBtRHZpbGNSUzNUNVJ1d3QwQ2tSdC04QVBFZjdfWnB1TFhEQWp2NzlxcHljTkJqTHNKN3dVTmo4NC04dDlYZmpCeFB5U19JMHcweU5Ca19aZnRFcEEyazhhUWc?oc=5)
 
 2026-11-11 <span class="news-indication-tag">tumor</span>
@@ -235,11 +315,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQmY1
 
 ---
 
-### [Pharmacist of 35 years shares the one sentence everyone on amlodipine needs to memorise](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFc4U2VNaXVDUnE4dkRfZ1JmQkcxRkpINGVoZkdjRGRZcHlrMmxuRnh1clNZXzJWb1dmRC1vZVVLOUF1emFzWXVoUFV2UTVyeWxnU2E5REZpZzhfQWdSdHczSHNOd3FWdXJVYVhDeVNnNzA5c0JiYnhZU0hNWTJUV0J30gGHAUFVX3lxTE1sYkl0WFVZVHRoMGpBZGdPNkliT3pUM2xXUll1bDJOUDFZbVVadDZHaGlOOThJOFZDX0FndXdpTzY1N2pnaTQ3aGlCdkg0Y1JhWVQwUFV6ZW12blhueVBQNkUzTll0eDF4YnkzTUVXeE4zaWswYW1RVzZwVUhFR3F5bXJKZDZSYw?oc=5)
+### [Pharmacist of 35 years shares the one sentence everyone on amlodipine needs to memorise - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFc4U2VNaXVDUnE4dkRfZ1JmQkcxRkpINGVoZkdjRGRZcHlrMmxuRnh1clNZXzJWb1dmRC1vZVVLOUF1emFzWXVoUFV2UTVyeWxnU2E5REZpZzhfQWdSdHczSHNOd3FWdXJVYVhDeVNnNzA5c0JiYnhZU0hNWTJUV0J30gGHAUFVX3lxTE1sYkl0WFVZVHRoMGpBZGdPNkliT3pUM2xXUll1bDJOUDFZbVVadDZHaGlOOThJOFZDX0FndXdpTzY1N2pnaTQ3aGlCdkg0Y1JhWVQwUFV6ZW12blhueVBQNkUzTll0eDF4YnkzTUVXeE4zaWswYW1RVzZwVUhFR3F5bXJKZDZSYw?oc=5)
 
 2026-11-11 <span class="news-drug-tag">Amlodipine</span>
 
-Source: [Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFc4U2VNaXVDUnE4dkRfZ1JmQkcxRkpINGVoZkdjRGRZcHlrMmxuRnh1clNZXzJWb1dmRC1vZVVLOUF1emFzWXVoUFV2UTVyeWxnU2E5REZpZzhfQWdSdHczSHNOd3FWdXJVYVhDeVNnNzA5c0JiYnhZU0hNWTJUV0J30gGHAUFVX3lxTE1sYkl0WFVZVHRoMGpBZGdPNkliT3pUM2xXUll1bDJOUDFZbVVadDZHaGlOOThJOFZDX0FndXdpTzY1N2pnaTQ3aGlCdkg0Y1JhWVQwUFV6ZW12blhueVBQNkUzTll0eDF4YnkzTUVXeE4zaWswYW1RVzZwVUhFR3F5bXJKZDZSYw?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFc4U2VNaXVDUnE4dkRfZ1JmQkcxRkpINGVoZkdjRGRZcHlrMmxuRnh1clNZXzJWb1dmRC1vZVVLOUF1emFzWXVoUFV2UTVyeWxnU2E5REZpZzhfQWdSdHczSHNOd3FWdXJVYVhDeVNnNzA5c0JiYnhZU0hNWTJUV0J30gGHAUFVX3lxTE1sYkl0WFVZVHRoMGpBZGdPNkliT3pUM2xXUll1bDJOUDFZbVVadDZHaGlOOThJOFZDX0FndXdpTzY1N2pnaTQ3aGlCdkg0Y1JhWVQwUFV6ZW12blhueVBQNkUzTll0eDF4YnkzTUVXeE4zaWswYW1RVzZwVUhFR3F5bXJKZDZSYw?oc=5)
 
 ---
 
@@ -283,19 +363,19 @@ Source: [springermedizin.de](https://news.google.com/rss/articles/CBMizgFBVV95cU
 
 ---
 
-### [Un AVC toutes les 4 minutes en France : 30 682 décès par an et 1,1 million de survivants](https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2xFeVIwQmZEeVhwNWtiRVRpTWhjLXdSekIxRV9MLUdONGs2dmVrNFgyc0RaNXVQZGZ6U0lQTDlPN2hPOHFJWWxyRDJyNk04bmtSdkVwVDNPVDVfLW1xU2E1RTdRU2ppTVJYOHlvLWhaRFZxRjJRRmRyTl9QXzdYaGdDclJ0d0tBNFJCMFJOMGt5cjA0VUNqRWh4OFdrYU15bFdCcVRsaHk2cEgtR3p1dFNQUQ?oc=5)
-
-2026-11-11 <span class="news-indication-tag">accident vasculaire cérébral</span>
-
-Source: [JeChange](https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2xFeVIwQmZEeVhwNWtiRVRpTWhjLXdSekIxRV9MLUdONGs2dmVrNFgyc0RaNXVQZGZ6U0lQTDlPN2hPOHFJWWxyRDJyNk04bmtSdkVwVDNPVDVfLW1xU2E1RTdRU2ppTVJYOHlvLWhaRFZxRjJRRmRyTl9QXzdYaGdDclJ0d0tBNFJCMFJOMGt5cjA0VUNqRWh4OFdrYU15bFdCcVRsaHk2cEgtR3p1dFNQUQ?oc=5)
-
----
-
 ### [Krebs: 200.000 Fälle pro Jahr wären vermeidbar – doch viele unterschätzen diese Gefahr](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUHJoby1YYi1TVzIxaVZsbi1Pa0doUks4V3dsbXpDTUEzYmU1ckFEWVhsekRNdHYydndyUkJDSlVSZGVDbHFGWTl3cklSQ0VvT3VrSmdfV29qQ1plZ191bHhTQVJMWmEyNjU1UTlhV1Vtb2p1bGs5R003cGxnSlBVVVdhcm5uNTZYQ1dHeHM3OUZjQUhPLVNGTGdKcVBvSWJqOEZPR2lnRzhlZkJBV2RKWXhpQk9CLTdLQlZadldTSnJIOUJZay1ybjR1UTNWcU5oNVFOTGJ3dkJDMi1yajZxZ29LSUZUQQ?oc=5)
 
 2026-11-11 <span class="news-indication-tag">Krebs</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUHJoby1YYi1TVzIxaVZsbi1Pa0doUks4V3dsbXpDTUEzYmU1ckFEWVhsekRNdHYydndyUkJDSlVSZGVDbHFGWTl3cklSQ0VvT3VrSmdfV29qQ1plZ191bHhTQVJMWmEyNjU1UTlhV1Vtb2p1bGs5R003cGxnSlBVVVdhcm5uNTZYQ1dHeHM3OUZjQUhPLVNGTGdKcVBvSWJqOEZPR2lnRzhlZkJBV2RKWXhpQk9CLTdLQlZadldTSnJIOUJZay1ybjR1UTNWcU5oNVFOTGJ3dkJDMi1yajZxZ29LSUZUQQ?oc=5)
+
+---
+
+### [Un AVC toutes les 4 minutes en France : 30 682 décès par an et 1,1 million de survivants](https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2xFeVIwQmZEeVhwNWtiRVRpTWhjLXdSekIxRV9MLUdONGs2dmVrNFgyc0RaNXVQZGZ6U0lQTDlPN2hPOHFJWWxyRDJyNk04bmtSdkVwVDNPVDVfLW1xU2E1RTdRU2ppTVJYOHlvLWhaRFZxRjJRRmRyTl9QXzdYaGdDclJ0d0tBNFJCMFJOMGt5cjA0VUNqRWh4OFdrYU15bFdCcVRsaHk2cEgtR3p1dFNQUQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">accident vasculaire cérébral</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2xFeVIwQmZEeVhwNWtiRVRpTWhjLXdSekIxRV9MLUdONGs2dmVrNFgyc0RaNXVQZGZ6U0lQTDlPN2hPOHFJWWxyRDJyNk04bmtSdkVwVDNPVDVfLW1xU2E1RTdRU2ppTVJYOHlvLWhaRFZxRjJRRmRyTl9QXzdYaGdDclJ0d0tBNFJCMFJOMGt5cjA0VUNqRWh4OFdrYU15bFdCcVRsaHk2cEgtR3p1dFNQUQ?oc=5)
 
 ---
 
@@ -789,7 +869,7 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZF
 
 ### [Alzheimer's study finds symptom starts in ear 10 years before memory loss - Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
 
-2026-11-09 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Alzheimer's</span>
+2026-11-09 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">depression</span>
 
 Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
 

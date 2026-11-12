@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Ziconotide?">
-<strong>Ziconotide</strong> currently has <strong>80 news articles</strong>, with 9 predicted indications.
+<strong>Ziconotide</strong> currently has <strong>83 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,39 @@ This page combines the AI-predicted indications for Ziconotide with the latest h
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (80)
+## Related News (83)
+
+### [OBESIDAD: la atención personalizada y el fenotipado como ejes del modelo asistencial - Gaceta Médica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWDZTQll5bWpJRHppMDBwSG4xM1NCbFBiamdIaFRVOFFQSEMtbklNMlFoTjhqblJ0aTM5WHdGYnJocHRHQkFhS1cwOFEtOWhJaDlDTW1ibjZhc2VINE96dHdlUjdIUUNWXzlIYzVkVE1NTWQ0d0VRY2xQdUI2X0pDSjBLRFJSeFoxWFg1RHRrM2cxT0VjZEQ2Mjlpd3FYOGVLSUJWRHZYQnZ3SW5weTJZZXpHNDBaRlF1?oc=5)
+
+2026-11-12 <span class="news-indication-tag">obesidad</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWDZTQll5bWpJRHppMDBwSG4xM1NCbFBiamdIaFRVOFFQSEMtbklNMlFoTjhqblJ0aTM5WHdGYnJocHRHQkFhS1cwOFEtOWhJaDlDTW1ibjZhc2VINE96dHdlUjdIUUNWXzlIYzVkVE1NTWQ0d0VRY2xQdUI2X0pDSjBLRFJSeFoxWFg1RHRrM2cxT0VjZEQ2Mjlpd3FYOGVLSUJWRHZYQnZ3SW5weTJZZXpHNDBaRlF1?oc=5)
+
+---
+
+### [El Índice de Masa Corporal no basta para evaluar la obesidad](https://news.google.com/rss/articles/CBMickFVX3lxTE5xalhXTTZuNnhHTEt5cWdHZjh4Q3ZDRDJEY2RXR1R2Wl9kaWlQUzlNcXZHNWpmcEs4N3EyQS1FVkYzcHBIY2tCMW5xcHc0ME1FN1JNVDc5SkpFZ0pxVU42LTJhZkNiZ3dZX3NaQ29UVXdTZw?oc=5)
+
+2026-11-12 <span class="news-indication-tag">obesidad</span>
+
+Source: [EFESalud](https://news.google.com/rss/articles/CBMickFVX3lxTE5xalhXTTZuNnhHTEt5cWdHZjh4Q3ZDRDJEY2RXR1R2Wl9kaWlQUzlNcXZHNWpmcEs4N3EyQS1FVkYzcHBIY2tCMW5xcHc0ME1FN1JNVDc5SkpFZ0pxVU42LTJhZkNiZ3dZX3NaQ29UVXdTZw?oc=5)
+
+---
+
+### [Internationale Studie: Allein der BMI verfehlt viele Adipositas-Diagnosen](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmFJNktSbHJMU2Zad0pvYkZQQV85dlZsdlN0S0RBenc3SjVNU2JJdG5qUGNtLUo1VmtNdGJXcXVNVFFBUDg2ZklnUEhOa3JmRDBiR0xZNl9jbkRXbWlsT1JjR3FfWjNieTdRbHdnY2J2M19Oc0ZuekV2b3FrcmZ1a09xY3JoVDlLSTkzMkp5VXZfd2pCeDdxNHViTXE3RzFfdU5jT05qMjQwWUU?oc=5)
+
+2026-11-12 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmFJNktSbHJMU2Zad0pvYkZQQV85dlZsdlN0S0RBenc3SjVNU2JJdG5qUGNtLUo1VmtNdGJXcXVNVFFBUDg2ZklnUEhOa3JmRDBiR0xZNl9jbkRXbWlsT1JjR3FfWjNieTdRbHdnY2J2M19Oc0ZuekV2b3FrcmZ1a09xY3JoVDlLSTkzMkp5VXZfd2pCeDdxNHViTXE3RzFfdU5jT05qMjQwWUU?oc=5)
+
+---
+
+### [Diagnostic de l'obésité: une étude confirme les limites de l'indice de masse corporelle pour évaluer l'excès de graisse](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNU1BKVnZOQzZkYkFjVjd6MF9POUM3TF9jc1ctUE5aR1N1NHlzMURpdGQwQjF2QnlVajAxVkYtMVBsREV1dTUtZ0w3Y0FyekEwdTVsZm0wSFg4MzNRRGxQUW9oeC1LNDE4S1RPbGVWUTNsWjh0aVYtQUNVWFFWTXRSSk5ZT01UdjkzZVJEQlg0U01UcFluclNPUFJRNjRKY0hUVGgyUmZXTk11RmZhMjFvdEJPejNpR0psNzJ0QXVISV9YLU5Bdnh3ejR6TTVuVVBOZHl5Yk5yTHpHY09PaUZva2ZjSE1rQW03elNseHRSUE5pOEdBRXVwcVFpYw?oc=5)
+
+2026-11-12 <span class="news-indication-tag">obésité</span>
+
+Source: [BFM](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNU1BKVnZOQzZkYkFjVjd6MF9POUM3TF9jc1ctUE5aR1N1NHlzMURpdGQwQjF2QnlVajAxVkYtMVBsREV1dTUtZ0w3Y0FyekEwdTVsZm0wSFg4MzNRRGxQUW9oeC1LNDE4S1RPbGVWUTNsWjh0aVYtQUNVWFFWTXRSSk5ZT01UdjkzZVJEQlg0U01UcFluclNPUFJRNjRKY0hUVGgyUmZXTk11RmZhMjFvdEJPejNpR0psNzJ0QXVISV9YLU5Bdnh3ejR6TTVuVVBOZHl5Yk5yTHpHY09PaUZva2ZjSE1rQW03elNseHRSUE5pOEdBRXVwcVFpYw?oc=5)
+
+---
 
 ### [Move over BMI: new obesity definition is better for predicting your health](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nakdYdVAtWEZ1TmZDTHZJT09KWUVXcGNrRG44SmdvMGRkTzhMOFdpTDY3NXNzSXhmTnNDbEdsQk5pYno4WURKTzdPalgwN1lGOTNvcUFOVmpoNDh3TGU0?oc=5)
 
@@ -51,19 +83,19 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nakdYdVAtWE
 
 ---
 
+### [Study suggests not all obesity means ill-health](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTjBXZHZBb2tTLXFEUUhLd1lkMkhyNFZEeXU3X2R3ZURsNlhxNzVobm5qUW5QcDAyU05lSmZVOGk2cEpEc1ZBVnhyYzFfQy1Fb3pGUHQ4d2RFN3g0UnpYUFhIOXpSSnRPZzFUMno1eS0xT240MFA5ZmkxeHZKSm9PM0V1cXAzUmdkVjRoMC1iUVdCbVZxR1ZZZWJWQVZ0Tl94N09SbDI2UHdGRy1oZEdyWGJ2ZHczS3p0LXBn?oc=5)
+
+2026-11-11 <span class="news-indication-tag">obesity</span>
+
+Source: [Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTjBXZHZBb2tTLXFEUUhLd1lkMkhyNFZEeXU3X2R3ZURsNlhxNzVobm5qUW5QcDAyU05lSmZVOGk2cEpEc1ZBVnhyYzFfQy1Fb3pGUHQ4d2RFN3g0UnpYUFhIOXpSSnRPZzFUMno1eS0xT240MFA5ZmkxeHZKSm9PM0V1cXAzUmdkVjRoMC1iUVdCbVZxR1ZZZWJWQVZ0Tl94N09SbDI2UHdGRy1oZEdyWGJ2ZHczS3p0LXBn?oc=5)
+
+---
+
 ### [Studie legt nahe, dass nicht jede Adipositas mit gesundheitlichen Problemen einhergeht - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSEtFRURtRTQ3dEJ1SkhZTzFOSXNQdktmRU1CZml0R21hc2FGVTFJVVNiQ0pHU3lBdzg0NV9Eei02WFNaNWo2ajdmYzllZVotUFFkbERpMVJsOEU3M3hXUWg3WUZxbFZBdDdXSk43VWhuY3RSWkFIX2YwLUotb1RkZ2JGTl9vVkY5SzVicG9VdjVPM2FBR1pfcmlybktmcWw0LXFFZDZheXFJd2hTQi0xRFBkZVBsVW9zZUxBWUlTVVB2TXhSVzVKVWRid1RfX3haZS16ZlNpS2U3SnhncFpvdU1qd2QyQQ?oc=5)
 
 2026-11-11 <span class="news-indication-tag">Adipositas</span>
 
 Source: [MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSEtFRURtRTQ3dEJ1SkhZTzFOSXNQdktmRU1CZml0R21hc2FGVTFJVVNiQ0pHU3lBdzg0NV9Eei02WFNaNWo2ajdmYzllZVotUFFkbERpMVJsOEU3M3hXUWg3WUZxbFZBdDdXSk43VWhuY3RSWkFIX2YwLUotb1RkZ2JGTl9vVkY5SzVicG9VdjVPM2FBR1pfcmlybktmcWw0LXFFZDZheXFJd2hTQi0xRFBkZVBsVW9zZUxBWUlTVVB2TXhSVzVKVWRid1RfX3haZS16ZlNpS2U3SnhncFpvdU1qd2QyQQ?oc=5)
-
----
-
-### [La FDA exige cambiar el etiquetado de seguridad de los GLP-1 ante el riesgo de pérdida de visión por el uso de estos fármacos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNVlrZTFOUm9sZzN4MkhoNEJUQWdvS3UwWEhRcWp2R1p4M1NGYVJodUpoaW1zMG5vWFBtZDJMbGVFRGNrYmRvYnlhYmJTVmRQbS15QmcwdUxianlHU1hqSmcwVi15NXBOV0lzc1VqNGhxVV9ONTh5dDVQZV9qNDF4b041ejBad01xYUltZTNzWUtlNmN1bGJwSWg0VXhxTy1zZHMtWDAxZUpSbElxYXhBQ2NKejhqeHN3R2tYczRFZDV1S3lGYVZhU3BkMm1waWJockZrMlZQejFUZmdQQlR3RHBUbV84UQ?oc=5)
-
-2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [Farmacosalud](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNVlrZTFOUm9sZzN4MkhoNEJUQWdvS3UwWEhRcWp2R1p4M1NGYVJodUpoaW1zMG5vWFBtZDJMbGVFRGNrYmRvYnlhYmJTVmRQbS15QmcwdUxianlHU1hqSmcwVi15NXBOV0lzc1VqNGhxVV9ONTh5dDVQZV9qNDF4b041ejBad01xYUltZTNzWUtlNmN1bGJwSWg0VXhxTy1zZHMtWDAxZUpSbElxYXhBQ2NKejhqeHN3R2tYczRFZDV1S3lGYVZhU3BkMm1waWJockZrMlZQejFUZmdQQlR3RHBUbV84UQ?oc=5)
 
 ---
 
@@ -123,14 +155,6 @@ Source: [Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUNf
 
 ---
 
-### [Weniger Protein könnte das Altern verlangsamen: Review mit 350 Studien - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSS1UeEM5b2tsYTcxUVU3dk5icVhvcjhPRVIwRlVFSmNETVZUWTVMYWp4cFJ2ajJIbV9wVXRNRTVMVWpGOUZ0ZzBjTDl2VTQzU1JkM3dnclFETmJzNml2TXZ6S3JmNDEyUkN6TTB0ZVBSS1NSSmVYSVlrQUJOaWl6TmRuRVNZcDJGWlhLelkxVWs4UHJyRHhCUjJNVVpsTXlPdWZzcg?oc=5)
-
-2026-11-11 <span class="news-indication-tag">Adipositas</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSS1UeEM5b2tsYTcxUVU3dk5icVhvcjhPRVIwRlVFSmNETVZUWTVMYWp4cFJ2ajJIbV9wVXRNRTVMVWpGOUZ0ZzBjTDl2VTQzU1JkM3dnclFETmJzNml2TXZ6S3JmNDEyUkN6TTB0ZVBSS1NSSmVYSVlrQUJOaWl6TmRuRVNZcDJGWlhLelkxVWs4UHJyRHhCUjJNVVpsTXlPdWZzcg?oc=5)
-
----
-
 ### [La FDA exigirá advertencia de pérdida de visión permanente en etiquetas de medicamentos GLP-1](https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3V2U3l0NjJhZ1hwRzl0emJRMmRMc1AxUXQySW9pWEFyeHM2R0hXdXNTTXVWcldEWXVMUUR4aGdtQmFMREFzZG9zcHFIc3pRQ3JtSDN6MUFsMWJ6UHMzaWdMRGgtN2RvNEZvYjh5ZzRXcG1GZkJjbFQxY0J4bU9Wa2NMazkyUV9pRGZ1eXgyMHN5RTllUEN3cUdPWVdhSDdNYnhF?oc=5)
 
 2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
@@ -141,7 +165,7 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3V2U3l0NjJ
 
 ### [¿Qué pasa realmente cuando dejas Ozempic? Los efectos secundarios que debes conocer - National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
 
-2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">diabetes</span>
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
 

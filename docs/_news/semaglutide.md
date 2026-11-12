@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>48 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>50 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,11 +29,27 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (48)
+## Related News (50)
+
+### [Visión borrosa y posibles complicaciones en la retina: qué debe vigilar quien toma Ozempic o Mounjaro](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX2xoMkN6bjRzOGxJckRLVWhIYjRMZ00zNlFTQmh5cUJRNDRBWmRhQk5iWmNjcGhzOEV6dUFPZEd0QW5qRkpEVEhqOVZmR3BIX2VnblhnYU4taENLbExFQ3RocUVoeGs2dWZMcklfdUlsOE4xVUhhNkFtTzJFcTdaTERUbkxPRlB1cFBieFp4dXQ5Yk1rd3FyUlZrbUVRdjZ6RHNlbF8tMHBDOWdyQ0RlelR6Z1I1OEQ5WDhiaTc4Z0NwV2FsN2U2RUZ2SDZVb005aXJLdjdLTlhVWWxWQWxUWER4amRLT3BzMFREZ2IxeFJqZw?oc=5)
+
+2026-11-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX2xoMkN6bjRzOGxJckRLVWhIYjRMZ00zNlFTQmh5cUJRNDRBWmRhQk5iWmNjcGhzOEV6dUFPZEd0QW5qRkpEVEhqOVZmR3BIX2VnblhnYU4taENLbExFQ3RocUVoeGs2dWZMcklfdUlsOE4xVUhhNkFtTzJFcTdaTERUbkxPRlB1cFBieFp4dXQ5Yk1rd3FyUlZrbUVRdjZ6RHNlbF8tMHBDOWdyQ0RlelR6Z1I1OEQ5WDhiaTc4Z0NwV2FsN2U2RUZ2SDZVb005aXJLdjdLTlhVWWxWQWxUWER4amRLT3BzMFREZ2IxeFJqZw?oc=5)
+
+---
+
+### [De Ozempic a Loniten, la estética detrás de la escasez de medicamentos - El Diario Vasco](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ3RDV2lJNTRtei1JSUtmckJOU29TS3MtWEE4ZEQ5eWVod0Qwb01kNFJ2VEQzcXljVmZLNGZtNmU4bzNVWjEyM3d0cWRjTjA0d1dRUE9BTXM2TFU5VWdNemljT1JKMnFoemUyVGw1RUhTUHB2T0FBblB4LVZFUmF3RTNNSnI4MWFxaWZpYUYyMHltd1JTYVZfLTZEQVZMX012dXZKQkR4ajlOWFZXLXo0a9IBtgFBVV95cUxNTF9KSWtXcjRnZzFRbmF0cHhjRFlOU3l2ZWFWVWNPejJfQkc5NnlYM2NROUFDRW52aDBfbFV4N1hLUUVwT3NWT0lWb1hMcElzSjE4c1ZCOHotYmRBRDhqQXdORGVuOGFKS3NhYWZFa19pZFlGVUxPYXBVdEQyUVJ2SWk2QlpnNk9Ib3ZSR3RQWGVneWZZR0pSYTNySTI5b0cyNkhOcUxMR3g3RGY0V1ZHbEV0UkZqdw?oc=5)
+
+2026-11-12 <span class="news-drug-tag">Semaglutide</span>
+
+Source: [El Diario Vasco](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ3RDV2lJNTRtei1JSUtmckJOU29TS3MtWEE4ZEQ5eWVod0Qwb01kNFJ2VEQzcXljVmZLNGZtNmU4bzNVWjEyM3d0cWRjTjA0d1dRUE9BTXM2TFU5VWdNemljT1JKMnFoemUyVGw1RUhTUHB2T0FBblB4LVZFUmF3RTNNSnI4MWFxaWZpYUYyMHltd1JTYVZfLTZEQVZMX012dXZKQkR4ajlOWFZXLXo0a9IBtgFBVV95cUxNTF9KSWtXcjRnZzFRbmF0cHhjRFlOU3l2ZWFWVWNPejJfQkc5NnlYM2NROUFDRW52aDBfbFV4N1hLUUVwT3NWT0lWb1hMcElzSjE4c1ZCOHotYmRBRDhqQXdORGVuOGFKS3NhYWZFa19pZFlGVUxPYXBVdEQyUVJ2SWk2QlpnNk9Ib3ZSR3RQWGVneWZZR0pSYTNySTI5b0cyNkhOcUxMR3g3RGY0V1ZHbEV0UkZqdw?oc=5)
+
+---
 
 ### [La FDA exige cambiar el etiquetado de seguridad de los GLP-1 ante el riesgo de pérdida de visión por el uso de estos fármacos](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNVlrZTFOUm9sZzN4MkhoNEJUQWdvS3UwWEhRcWp2R1p4M1NGYVJodUpoaW1zMG5vWFBtZDJMbGVFRGNrYmRvYnlhYmJTVmRQbS15QmcwdUxianlHU1hqSmcwVi15NXBOV0lzc1VqNGhxVV9ONTh5dDVQZV9qNDF4b041ejBad01xYUltZTNzWUtlNmN1bGJwSWg0VXhxTy1zZHMtWDAxZUpSbElxYXhBQ2NKejhqeHN3R2tYczRFZDV1S3lGYVZhU3BkMm1waWJockZrMlZQejFUZmdQQlR3RHBUbV84UQ?oc=5)
 
-2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-11-11 <span class="news-drug-tag">Semaglutide</span>
 
 Source: [Farmacosalud](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNVlrZTFOUm9sZzN4MkhoNEJUQWdvS3UwWEhRcWp2R1p4M1NGYVJodUpoaW1zMG5vWFBtZDJMbGVFRGNrYmRvYnlhYmJTVmRQbS15QmcwdUxianlHU1hqSmcwVi15NXBOV0lzc1VqNGhxVV9ONTh5dDVQZV9qNDF4b041ejBad01xYUltZTNzWUtlNmN1bGJwSWg0VXhxTy1zZHMtWDAxZUpSbElxYXhBQ2NKejhqeHN3R2tYczRFZDV1S3lGYVZhU3BkMm1waWJockZrMlZQejFUZmdQQlR3RHBUbV84UQ?oc=5)
 
@@ -65,7 +81,7 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3V2U3l0NjJ
 
 ### [¿Qué pasa realmente cuando dejas Ozempic? Los efectos secundarios que debes conocer - National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
 
-2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">diabetes</span>
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
 

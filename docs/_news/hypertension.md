@@ -3,9 +3,9 @@ layout: default
 title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 43 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 44 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Bluthochdruck (hypertension) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>43 news articles</strong> and 55 related drugs.
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>44 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -60,7 +60,15 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (43)
+## Related News (44)
+
+### [Kardiovaskuläre Prävention bei CKD – Risiko früh erkennen und konsequent handeln - mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCaW5pQjNsQWtMc2gwMUJPVEcxbHFGcEZQWV9JSTNwRTRZWDZLRG92ZFJNTmpPLVd0eHExalgzVVA4a2x6V1pQVE92MDljMTZKMloxcWRQaHJKdDI0NHg4cTJrT2FjMHJGMnFvZnBNN0JveWwxVVh1SWljU3IteGs1ZHI?oc=5)
+
+2026-11-12
+
+Source: [mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCaW5pQjNsQWtMc2gwMUJPVEcxbHFGcEZQWV9JSTNwRTRZWDZLRG92ZFJNTmpPLVd0eHExalgzVVA4a2x6V1pQVE92MDljMTZKMloxcWRQaHJKdDI0NHg4cTJrT2FjMHJGMnFvZnBNN0JveWwxVVh1SWljU3IteGs1ZHI?oc=5)
+
+---
 
 ### [Kardiorenales Syndrom effektiv behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnpJYWZnRTJmSWtNVzJscFBqTkhWaW96X2xKeW5JY0lZQzViWjBoWWhvci0tQm1iM3VmY212SFpHSmJ2dkgySTQzbmR2Z1cxMFNjVHNuZnVIVXM4MFUwb1N6Z0FfdlZ0aEpPQ1FremZ2MEY4d1FzYTk0Qm0yT0Vnazl6SmlVdkx2MkQxcy1LcFVPbFVFVFE?oc=5)
 

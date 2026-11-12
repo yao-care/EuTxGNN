@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Pregabalin. 6 predicted indications."
 permalink: /news/pregabalin/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Pregabalin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Pregabalin?">
-<strong>Pregabalin</strong> currently has <strong>15 news articles</strong>, with 6 predicted indications.
+<strong>Pregabalin</strong> currently has <strong>17 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,23 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (17)
+
+### [Los metabolitos intestinales ayudan a predecir la respuesta a biológicos en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGpRMjJaWmdXdU1TV1g2bzdjekpjS3p4ek1wR1doc0JwVnk0UC1hU1Q4aTZ6bjAyd0dLQjFaZ2JGWjdPVnhZUVJqUm5hREdmVy0wZ3Q1Y1huanYya3p3TE1JTEdqaWxCa3ptck9kN09FSVBwLUlEVlVvdHZva1l4VEhuc3J5WEl3eVloVlZvdFlocmlwMXVQRENRWVlJOE9VSlVHYUxZREl4eW5lZC1PaC1oczZQVWZjbjRCVGxwSExpZ9IBvAFBVV95cUxPSUh3dDREZ1ZrbXVta2FJcnVidEtnRy1MQk0zWWtiQTE1dTNMWUNQSTJfMTJLMHBiaFVWX1FOOXdUUFNqZUUxUlNfYlZRZWdrdGJJNVBYYV9IbmlqNENWMWpTQl9TUmZhRVZDSFVURDFhOEtRc2JGd09lWFhjNjlPUmprRlF0QmVJTkNwZ2E1YzFQMW9BM2FsMU1zX2QtenBWT19CeDM2LUs2amU4QWFvVFBCUl9OZlcyV2E0Xw?oc=5)
+
+2026-11-12 <span class="news-indication-tag">artritis</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGpRMjJaWmdXdU1TV1g2bzdjekpjS3p4ek1wR1doc0JwVnk0UC1hU1Q4aTZ6bjAyd0dLQjFaZ2JGWjdPVnhZUVJqUm5hREdmVy0wZ3Q1Y1huanYya3p3TE1JTEdqaWxCa3ptck9kN09FSVBwLUlEVlVvdHZva1l4VEhuc3J5WEl3eVloVlZvdFlocmlwMXVQRENRWVlJOE9VSlVHYUxZREl4eW5lZC1PaC1oczZQVWZjbjRCVGxwSExpZ9IBvAFBVV95cUxPSUh3dDREZ1ZrbXVta2FJcnVidEtnRy1MQk0zWWtiQTE1dTNMWUNQSTJfMTJLMHBiaFVWX1FOOXdUUFNqZUUxUlNfYlZRZWdrdGJJNVBYYV9IbmlqNENWMWpTQl9TUmZhRVZDSFVURDFhOEtRc2JGd09lWFhjNjlPUmprRlF0QmVJTkNwZ2E1YzFQMW9BM2FsMU1zX2QtenBWT19CeDM2LUs2amU4QWFvVFBCUl9OZlcyV2E0Xw?oc=5)
+
+---
+
+### [Nuevos avances para reducir el ensayo y error en los tratamientos de la artritis reumatoide](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzNEZGE2QjBqNWZqdGM0Tm1ibDhTX1JjblZSMWh1UlpsLWVpMWVhS3VtWERNODNMNVM1TVJ1YW1xdHN1SUtMRGpTcXN5X3V6SU1XMkJjbEYtYmVoUXZnSzkwMV9Sblg3SzJuT1lTNXJHajgwNmI4YzJYekUtRkI2WUYxMFlfeGNPaUQ4bWxNRTF1aTJvVng1OFNjQzZJOVlLZWU5eGltSUpGUjJfd3VmQUNXZ0dMTEk1MFJHLXU1b1JuWVZVaFNGWVAweEtmU1U2WGZnU3IzM3ZwcS0ySW5Ib3VR?oc=5)
+
+2026-11-12 <span class="news-indication-tag">artritis</span>
+
+Source: [ConSalud.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzNEZGE2QjBqNWZqdGM0Tm1ibDhTX1JjblZSMWh1UlpsLWVpMWVhS3VtWERNODNMNVM1TVJ1YW1xdHN1SUtMRGpTcXN5X3V6SU1XMkJjbEYtYmVoUXZnSzkwMV9Sblg3SzJuT1lTNXJHajgwNmI4YzJYekUtRkI2WUYxMFlfeGNPaUQ4bWxNRTF1aTJvVng1OFNjQzZJOVlLZWU5eGltSUpGUjJfd3VmQUNXZ0dMTEk1MFJHLXU1b1JuWVZVaFNGWVAweEtmU1U2WGZnU3IzM3ZwcS0ySW5Ib3VR?oc=5)
+
+---
 
 ### [Experta subraya la relevancia de que el paciente describa bien la migraña para diferenciarla de otros dolores de cabeza - Diario Estrategia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRmx5WDdubXUxU0d4Vk4zVjl3VmJVMDZ4WEtqOUQ4WHF5SzVpT3pFMWtOM1Z6d2RKTmZ6RnhMVHN4SUJyLVVfTWFqTHNWd28zNXl4NFh1clN0QjkydU1LcVJnYzFOblp6MS04NWNoR0tKYmFnT2JQY0E1TzlvczVGRk1XMnNkbVlROFRNdkxHZDhPdkJDdHc2cFdvTGtGWVpYdjFFdDNqTlZTNll0bnVCYTBqVzFnay0yMjBMWnQtMk5lTVplalpxRzdXdG90dk9vbExkZl96bnpPeWN2YjVOeVE2anRZSHJP?oc=5)
 

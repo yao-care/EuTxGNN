@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>133 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>134 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (133)
+## Related News (134)
+
+### [Kardiovaskuläre Prävention bei CKD – Risiko früh erkennen und konsequent handeln - mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCaW5pQjNsQWtMc2gwMUJPVEcxbHFGcEZQWV9JSTNwRTRZWDZLRG92ZFJNTmpPLVd0eHExalgzVVA4a2x6V1pQVE92MDljMTZKMloxcWRQaHJKdDI0NHg4cTJrT2FjMHJGMnFvZnBNN0JveWwxVVh1SWljU3IteGs1ZHI?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+
+Source: [mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCaW5pQjNsQWtMc2gwMUJPVEcxbHFGcEZQWV9JSTNwRTRZWDZLRG92ZFJNTmpPLVd0eHExalgzVVA4a2x6V1pQVE92MDljMTZKMloxcWRQaHJKdDI0NHg4cTJrT2FjMHJGMnFvZnBNN0JveWwxVVh1SWljU3IteGs1ZHI?oc=5)
+
+---
 
 ### [Kardiorenales Syndrom effektiv behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnpJYWZnRTJmSWtNVzJscFBqTkhWaW96X2xKeW5JY0lZQzViWjBoWWhvci0tQm1iM3VmY212SFpHSmJ2dkgySTQzbmR2Z1cxMFNjVHNuZnVIVXM4MFUwb1N6Z0FfdlZ0aEpPQ1FremZ2MEY4d1FzYTk0Qm0yT0Vnazl6SmlVdkx2MkQxcy1LcFVPbFVFVFE?oc=5)
 
@@ -245,7 +253,7 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZF
 
 ### [Alzheimer's study finds symptom starts in ear 10 years before memory loss - Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
 
-2026-11-09 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Alzheimer's</span>
+2026-11-09 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">depression</span>
 
 Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWp2QjhXMEpFd1l0OU5YQ0x2V1c4ZkZ4al95UGJtZEdSNGdEYVJtZjVVWWdtdVJxcjVJX0M2QVJidGVscXY0LWpXNUl0R0ZlVlFnUng0Snc1TzlvVW5fYy1rSkNfZjZEY3owa2FLWmtEYVBQbm1rV0xWcGh6RTZZQlVwZVZOWFEwbkk2TWJ5a2hNaE3SAZgBQVVfeXFMTmZBOFp0d0wtUW5sVjREbl9CdXdtWGRtMVdCejQyLWVsbHNTb0FaSDlJWXE5ekFFb2FQU2VvaTlacDBaOXA2RXVEXzZPN1duS0RSbUJSem1XYjFpTk1hNWh1cTFGTzNKam5EcjJOa3h2MjJUTUlPd3pUcW5HN1VhUnVhQTlfbTJNdnI1eXJiLVhiODBtX25HdDk?oc=5)
 
