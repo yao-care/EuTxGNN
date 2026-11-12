@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "artrite (arthritis) News"
+title: "artritis (arthritis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about artrite (arthritis). 11 articles, 73 related drugs."
+description: "Health news about artritis (arthritis). 13 articles, 73 related drugs."
 permalink: /news/arthritis/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-12
 ---
 
-# artrite (arthritis) News
+# artritis (arthritis) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about artrite (arthritis)?">
-<strong>artrite (arthritis)</strong> currently has <strong>11 news articles</strong> and 73 related drugs.
+<p class="key-answer" data-question="What news is there about artritis (arthritis)?">
+<strong>artritis (arthritis)</strong> currently has <strong>13 news articles</strong> and 73 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “artrite” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “artritis” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -79,7 +79,23 @@ This page brings together the latest health news about “artrite” and lists t
 </ul>
 </div>
 
-## Related News (11)
+## Related News (13)
+
+### [Los metabolitos intestinales ayudan a predecir la respuesta a biológicos en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGpRMjJaWmdXdU1TV1g2bzdjekpjS3p4ek1wR1doc0JwVnk0UC1hU1Q4aTZ6bjAyd0dLQjFaZ2JGWjdPVnhZUVJqUm5hREdmVy0wZ3Q1Y1huanYya3p3TE1JTEdqaWxCa3ptck9kN09FSVBwLUlEVlVvdHZva1l4VEhuc3J5WEl3eVloVlZvdFlocmlwMXVQRENRWVlJOE9VSlVHYUxZREl4eW5lZC1PaC1oczZQVWZjbjRCVGxwSExpZ9IBvAFBVV95cUxPSUh3dDREZ1ZrbXVta2FJcnVidEtnRy1MQk0zWWtiQTE1dTNMWUNQSTJfMTJLMHBiaFVWX1FOOXdUUFNqZUUxUlNfYlZRZWdrdGJJNVBYYV9IbmlqNENWMWpTQl9TUmZhRVZDSFVURDFhOEtRc2JGd09lWFhjNjlPUmprRlF0QmVJTkNwZ2E1YzFQMW9BM2FsMU1zX2QtenBWT19CeDM2LUs2amU4QWFvVFBCUl9OZlcyV2E0Xw?oc=5)
+
+2026-11-12
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGpRMjJaWmdXdU1TV1g2bzdjekpjS3p4ek1wR1doc0JwVnk0UC1hU1Q4aTZ6bjAyd0dLQjFaZ2JGWjdPVnhZUVJqUm5hREdmVy0wZ3Q1Y1huanYya3p3TE1JTEdqaWxCa3ptck9kN09FSVBwLUlEVlVvdHZva1l4VEhuc3J5WEl3eVloVlZvdFlocmlwMXVQRENRWVlJOE9VSlVHYUxZREl4eW5lZC1PaC1oczZQVWZjbjRCVGxwSExpZ9IBvAFBVV95cUxPSUh3dDREZ1ZrbXVta2FJcnVidEtnRy1MQk0zWWtiQTE1dTNMWUNQSTJfMTJLMHBiaFVWX1FOOXdUUFNqZUUxUlNfYlZRZWdrdGJJNVBYYV9IbmlqNENWMWpTQl9TUmZhRVZDSFVURDFhOEtRc2JGd09lWFhjNjlPUmprRlF0QmVJTkNwZ2E1YzFQMW9BM2FsMU1zX2QtenBWT19CeDM2LUs2amU4QWFvVFBCUl9OZlcyV2E0Xw?oc=5)
+
+---
+
+### [Nuevos avances para reducir el ensayo y error en los tratamientos de la artritis reumatoide](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzNEZGE2QjBqNWZqdGM0Tm1ibDhTX1JjblZSMWh1UlpsLWVpMWVhS3VtWERNODNMNVM1TVJ1YW1xdHN1SUtMRGpTcXN5X3V6SU1XMkJjbEYtYmVoUXZnSzkwMV9Sblg3SzJuT1lTNXJHajgwNmI4YzJYekUtRkI2WUYxMFlfeGNPaUQ4bWxNRTF1aTJvVng1OFNjQzZJOVlLZWU5eGltSUpGUjJfd3VmQUNXZ0dMTEk1MFJHLXU1b1JuWVZVaFNGWVAweEtmU1U2WGZnU3IzM3ZwcS0ySW5Ib3VR?oc=5)
+
+2026-11-12
+
+Source: [ConSalud.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzNEZGE2QjBqNWZqdGM0Tm1ibDhTX1JjblZSMWh1UlpsLWVpMWVhS3VtWERNODNMNVM1TVJ1YW1xdHN1SUtMRGpTcXN5X3V6SU1XMkJjbEYtYmVoUXZnSzkwMV9Sblg3SzJuT1lTNXJHajgwNmI4YzJYekUtRkI2WUYxMFlfeGNPaUQ4bWxNRTF1aTJvVng1OFNjQzZJOVlLZWU5eGltSUpGUjJfd3VmQUNXZ0dMTEk1MFJHLXU1b1JuWVZVaFNGWVAweEtmU1U2WGZnU3IzM3ZwcS0ySW5Ib3VR?oc=5)
+
+---
 
 ### [Retatrutide Improves Knee OA Pain, Physical Function](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3p1emJDT0JCUkc1VHNmc2duNnN5bFJmTnpZS0pIYVRVREl5aHA5MlNUUm11UE9lUHR0MDZYaU5OdEVUUGI5M1VWRERoYTktNkFOd3Y1ZGN3OXJjMF9INEJmTGd4a2Z1dWlnMnFzOVRpdXlIbVhMZjBiajM3RThTWjJQQUU1M3VPUTJ1WmRpRXNnVHZZMXZfRXRZelpBdFdQU0ljbUowWmo?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Pioglitazone?">
-<strong>Pioglitazone</strong> currently has <strong>124 news articles</strong>, with 9 predicted indications.
+<strong>Pioglitazone</strong> currently has <strong>130 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,55 @@ This page combines the AI-predicted indications for Pioglitazone with the latest
 <p><a href="{{ '/drugs/pioglitazone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (124)
+## Related News (130)
+
+### [Cuidar la salud bucodental, clave para controlar la diabetes - Gaceta Dental](https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1FqclVWeE9GUHlLNHhFN2NLdHF2a0UwRlVfYzB4NUhYUS0zUHZEU1VMVExoc2t3Zk5mVlA2c1BabG9TaFBZMW9VS2dEQ015V3JRaVFYc0JHaGhtTENzbk1aSWJXT2w5eFMwMGVwRDJ0b19qT1J3SF9uUTA2N0c4ZV8ydG1WaU41QVIwd0NkNzRoSmV1SDhSNg?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [Gaceta Dental](https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1FqclVWeE9GUHlLNHhFN2NLdHF2a0UwRlVfYzB4NUhYUS0zUHZEU1VMVExoc2t3Zk5mVlA2c1BabG9TaFBZMW9VS2dEQ015V3JRaVFYc0JHaGhtTENzbk1aSWJXT2w5eFMwMGVwRDJ0b19qT1J3SF9uUTA2N0c4ZV8ydG1WaU41QVIwd0NkNzRoSmV1SDhSNg?oc=5)
+
+---
+
+### [Seis de cada diez españoles reconocen tener un conocimiento bajo o muy bajo sobre la diabetes tipo 2](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPanByYWhxS084dmFYV2xYM0hWLU9jUnZ3T3FoQTgyNEZrdUNQczlMaHZId09sVVJFdXBmcjB6TlFkd0JudEdZYUs0ejg0TEpmWmVEZlR2SUVaeEF6ek5OSHJaSUlqSjVpMjlmcERPUm5YMzdOeUYtNWJZcjV1N0NMa3VqVHpUWElBY2k0LXRTMHA5dDkyaEcyT0puMnFxY1MwNjluNTVjLTQtZGh3ZGx2RFdVc2hsbm1xSXVqZkNKaDIzWXlxUnNzd1piQWQ0NzltU0MzVXl3?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [ConSalud.es](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPanByYWhxS084dmFYV2xYM0hWLU9jUnZ3T3FoQTgyNEZrdUNQczlMaHZId09sVVJFdXBmcjB6TlFkd0JudEdZYUs0ejg0TEpmWmVEZlR2SUVaeEF6ek5OSHJaSUlqSjVpMjlmcERPUm5YMzdOeUYtNWJZcjV1N0NMa3VqVHpUWElBY2k0LXRTMHA5dDkyaEcyT0puMnFxY1MwNjluNTVjLTQtZGh3ZGx2RFdVc2hsbm1xSXVqZkNKaDIzWXlxUnNzd1piQWQ0NzltU0MzVXl3?oc=5)
+
+---
+
+### [Erst Schock, dann Routine: Schleswigerin hat keine Angst mehr vor ihrem Leben mit Diabetes](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVUdtbHVYVWNXTnhDVVhnZF9LaUJDNVRrdXVtd0VjNVR4OXl2UWdOXzdDOHJ2SDhWbGdQV3VoTGN2c0JoWHBvT21zNVpNY1R4aGNkcUJKSk9mVDl4c3E1aUJVVkNtRkpYZDlzcmtvbERTWXVkOTFGclYtZTVoNURaVEVOVkY5bGhoejBIY3RlWnZ1NkZzUE5uU1NBeTd2RkYyYU1UTVQyT04wY1l2VXZyeg?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [shz.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVUdtbHVYVWNXTnhDVVhnZF9LaUJDNVRrdXVtd0VjNVR4OXl2UWdOXzdDOHJ2SDhWbGdQV3VoTGN2c0JoWHBvT21zNVpNY1R4aGNkcUJKSk9mVDl4c3E1aUJVVkNtRkpYZDlzcmtvbERTWXVkOTFGclYtZTVoNURaVEVOVkY5bGhoejBIY3RlWnZ1NkZzUE5uU1NBeTd2RkYyYU1UTVQyT04wY1l2VXZyeg?oc=5)
+
+---
+
+### [Patiententag am 14. November: Experten und Betroffene informieren über Diabetes-Therapien in Stuttgart](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNExMWmFCQ0JKZDU3eHhqWjNZdElFZ2t1SFY2dW44eHhoZGt2QkdvZ1d1TkdReUZraHllaGJJSXZ6UmxvbjN2ZjNoSEw0M3dYeUEyT2x4NTB2OXZyYTFNTXJLVVVQVEo4OWxVOFhiMk5rXzJZcVJLQUhGOWczNG9kZUp3ZHd2SHRzcU9TUDNWR2doelhuc2Y0eEhQRm0xRHFYUk1fV3NMdVNocms0ejhIQ3U0RThxeC04RDlaQWd1VnJhVk9sNEl6RWlzMzFPNTR4ZUJlYzdfV2pDTG4yNzcyLUpMb3JuU1hv?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [swp.de](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNExMWmFCQ0JKZDU3eHhqWjNZdElFZ2t1SFY2dW44eHhoZGt2QkdvZ1d1TkdReUZraHllaGJJSXZ6UmxvbjN2ZjNoSEw0M3dYeUEyT2x4NTB2OXZyYTFNTXJLVVVQVEo4OWxVOFhiMk5rXzJZcVJLQUhGOWczNG9kZUp3ZHd2SHRzcU9TUDNWR2doelhuc2Y0eEhQRm0xRHFYUk1fV3NMdVNocms0ejhIQ3U0RThxeC04RDlaQWd1VnJhVk9sNEl6RWlzMzFPNTR4ZUJlYzdfV2pDTG4yNzcyLUpMb3JuU1hv?oc=5)
+
+---
+
+### [Prevenzione e salute: Lamezia aderisce alla Giornata del Diabete, incontro e screening gratuiti della glicemia il 14 novembre - il Lametino.it](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTjYwSUk2NnI3N1E2ZGt6bGhscTNyY3h0TTVVLXN5clVId0JpZTJXLThRVDM5YzRoRDRVSkMyNGRDS0pqX3ppb1pBN3NvSWpfTUEwaEk4VzQ3VG42djg1c0d3OXRpSXVFM1FUTGs2THRKWVVQUl9lS3UxTFJZVk8xUXhmRjNKV1lwRGtJdkhfSjZqTGZqNjNEUmpuaVkxUUJtN0xQcnR3UjB6TkFRR0UxSF9UbjgtaHFsaXRyWHBzbmoxNlRfNW9pVEFucEdNMXl1cUNILUlPNy14YUFqQVV5RGRVaW1vWG5CeFNrdzl1djE?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabete</span>
+
+Source: [il Lametino.it](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTjYwSUk2NnI3N1E2ZGt6bGhscTNyY3h0TTVVLXN5clVId0JpZTJXLThRVDM5YzRoRDRVSkMyNGRDS0pqX3ppb1pBN3NvSWpfTUEwaEk4VzQ3VG42djg1c0d3OXRpSXVFM1FUTGs2THRKWVVQUl9lS3UxTFJZVk8xUXhmRjNKV1lwRGtJdkhfSjZqTGZqNjNEUmpuaVkxUUJtN0xQcnR3UjB6TkFRR0UxSF9UbjgtaHFsaXRyWHBzbmoxNlRfNW9pVEFucEdNMXl1cUNILUlPNy14YUFqQVV5RGRVaW1vWG5CeFNrdzl1djE?oc=5)
+
+---
+
+### [Kardiovaskuläre Prävention bei CKD – Risiko früh erkennen und konsequent handeln - mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCaW5pQjNsQWtMc2gwMUJPVEcxbHFGcEZQWV9JSTNwRTRZWDZLRG92ZFJNTmpPLVd0eHExalgzVVA4a2x6V1pQVE92MDljMTZKMloxcWRQaHJKdDI0NHg4cTJrT2FjMHJGMnFvZnBNN0JveWwxVVh1SWljU3IteGs1ZHI?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+
+Source: [mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCaW5pQjNsQWtMc2gwMUJPVEcxbHFGcEZQWV9JSTNwRTRZWDZLRG92ZFJNTmpPLVd0eHExalgzVVA4a2x6V1pQVE92MDljMTZKMloxcWRQaHJKdDI0NHg4cTJrT2FjMHJGMnFvZnBNN0JveWwxVVh1SWljU3IteGs1ZHI?oc=5)
+
+---
 
 ### [Diabetes: Forscher senken Blutzucker mit Strom – und machen eine erstaunliche Entdeckung](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZTdBYnpsQjRYal9hSHhpTWg1SEdHUWJXaGFNOU9vZXdnUHdYMjA0b1o2dXdHeERuOU9CeV9FZW1UZlR4V1dFejgzUDNnMjkxSUNNeG1mZHBadGlNS1E5dHVqLV9LTkU2VzJ2dnVKY1RqR3pRZV9iZWtveWl2dE1Ya2x6cHpRaHhQeTROTU8zQWdITmRXelZzYUNzUlpncWUycDJ1aWJpOXlsWm5BRkFxZW9YU0lOLVZ4b18yOTZjT3FyMnFnTTNocnlFQkMxdGQ3U0lQMnJrNDRqaXNyUXViWFMtc0hCMjV4ZkR3?oc=5)
 
@@ -115,6 +163,14 @@ Source: [Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQU3ZCdGZ
 
 ---
 
+### [Diabetes: AOK-Hilfsangebot für rund 44.600 Betroffene im Märkischen Kreis](https://news.google.com/rss/articles/CBMiowFBVV95cUxOenZ5NGZ2TTlGWm9DRHVQdVoweUZaelk5c3hQMkJ1N01JRkFGYXoyRmVJNWNxejJjWFdXSU8yQnVOc05yUDFuaXZwWndwSmp2RnoybmVzNkUxQmNLdUp2MDNtZm1VLVFDUlpvRFd0LU9fLTVjRjJwS3dxbzR2cGVJUGFLclJ4am9tMmhicDZKODcyc2dzWGtxdFBQMktTT2pvd0dJ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span>
+
+Source: [LokalDirekt](https://news.google.com/rss/articles/CBMiowFBVV95cUxOenZ5NGZ2TTlGWm9DRHVQdVoweUZaelk5c3hQMkJ1N01JRkFGYXoyRmVJNWNxejJjWFdXSU8yQnVOc05yUDFuaXZwWndwSmp2RnoybmVzNkUxQmNLdUp2MDNtZm1VLVFDUlpvRFd0LU9fLTVjRjJwS3dxbzR2cGVJUGFLclJ4am9tMmhicDZKODcyc2dzWGtxdFBQMktTT2pvd0dJ?oc=5)
+
+---
+
 ### [Daten der AOK: Suhl ist Thüringens Diabetes-Hochburg](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUklkUUZJOFhiWUUzXzJiRHdiaUE0c01FNnU1Q3ZkcE1Bb2V3OFZkTEJxMjJhM200VHd1NklhZHlyTG16djBTSHdTNlNuU2lSM0lyY1RMT1BSQXNvdkhraVVUc093OVJYVDhsaV90Vmpqb0NXWEJuS3JyZE4zM3h1N2RZcFd1R0VleERxUzRLZXY3Q3NLYTFEdU9paTdQc1lqaVNyNjhMREdFUzN5U1Zyb0N0M1FJWHVXTG9TcDZpcUFfZTR2S3lyMlc1bm9uQQ?oc=5)
 
 2026-11-11 <span class="news-indication-tag">diabetes</span>
@@ -184,14 +240,6 @@ Source: [medonline](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOC1xaHV
 2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZEZWcl8weHMydmIzME5RZEJzTVJ5OVEyLVZ5ckZ5M2k0RHdkdmdPM3hYOVQ5c2lBX0U1OTVVenpVT19aUGM4X05WVmFvNHBBWl82OWg2LWltNEs3NnIzUU93TGxSQjZpckNwMXpnYzhNN25QN1Z4cFkwX3o4cFlGZ0NNWFF5M2c5eGNMSWU1Q1pJZjNkYVRSRG1JZU9MOThpVDJ5eWhIMm0tTG42d2J2d3FkN1A5NzA?oc=5)
-
----
-
-### [¿Qué pasa realmente cuando dejas Ozempic? Los efectos secundarios que debes conocer - National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
-
-2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">diabetes</span>
-
-Source: [National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
 
 ---
 

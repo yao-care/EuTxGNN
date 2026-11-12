@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "chronische Nierenerkrankung (chronic kidney disease) News"
+title: "CKD (chronic kidney disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about chronische Nierenerkrankung (chronic kidney disease). 10 articles, 1 related drugs."
+description: "Health news about CKD (chronic kidney disease). 11 articles, 1 related drugs."
 permalink: /news/chronic-kidney-disease/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
-# chronische Nierenerkrankung (chronic kidney disease) News
+# CKD (chronic kidney disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about chronische Nierenerkrankung (chronic kidney disease)?">
-<strong>chronische Nierenerkrankung (chronic kidney disease)</strong> currently has <strong>10 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about CKD (chronic kidney disease)?">
+<strong>CKD (chronic kidney disease)</strong> currently has <strong>11 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “chronische Nierenerkrankung” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “CKD” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “chronische Nierenerkra
 </ul>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Kardiovaskuläre Prävention bei CKD – Risiko früh erkennen und konsequent handeln - mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCaW5pQjNsQWtMc2gwMUJPVEcxbHFGcEZQWV9JSTNwRTRZWDZLRG92ZFJNTmpPLVd0eHExalgzVVA4a2x6V1pQVE92MDljMTZKMloxcWRQaHJKdDI0NHg4cTJrT2FjMHJGMnFvZnBNN0JveWwxVVh1SWljU3IteGs1ZHI?oc=5)
+
+2026-11-12
+
+Source: [mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCaW5pQjNsQWtMc2gwMUJPVEcxbHFGcEZQWV9JSTNwRTRZWDZLRG92ZFJNTmpPLVd0eHExalgzVVA4a2x6V1pQVE92MDljMTZKMloxcWRQaHJKdDI0NHg4cTJrT2FjMHJGMnFvZnBNN0JveWwxVVh1SWljU3IteGs1ZHI?oc=5)
+
+---
 
 ### [Kardiorenales Syndrom effektiv behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnpJYWZnRTJmSWtNVzJscFBqTkhWaW96X2xKeW5JY0lZQzViWjBoWWhvci0tQm1iM3VmY212SFpHSmJ2dkgySTQzbmR2Z1cxMFNjVHNuZnVIVXM4MFUwb1N6Z0FfdlZ0aEpPQ1FremZ2MEY4d1FzYTk0Qm0yT0Vnazl6SmlVdkx2MkQxcy1LcFVPbFVFVFE?oc=5)
 

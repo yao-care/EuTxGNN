@@ -3,9 +3,9 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 30 articles, 7 related drugs."
+description: "Health news about dépression (depression). 32 articles, 7 related drugs."
 permalink: /news/depression/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # dépression (depression) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>30 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>32 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (30)
+## Related News (32)
+
+### [Ces mots spécifiques sont les plus souvent utilisés par les personnes souffrant de dépression. C'est ce qu'on appelle le langage de la dépression](https://news.google.com/rss/articles/CBMie0FVX3lxTE9xWEhqWWhFZUdSWUVMc3A5dm1TOEFoOXZoaEFQZGRBcGtHUk4wcHRmZ2xQYWVjR2JDNzBUT3NKWGFqeG5nQk5SSkltN1ZlMFB0MllYcUdTZlpKY09DZ05QQXA5YjhjVlRUN0FtVFIySmM4cjVVektBMHZMdw?oc=5)
+
+2026-11-12
+
+Source: [Linternaute.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE9xWEhqWWhFZUdSWUVMc3A5dm1TOEFoOXZoaEFQZGRBcGtHUk4wcHRmZ2xQYWVjR2JDNzBUT3NKWGFqeG5nQk5SSkltN1ZlMFB0MllYcUdTZlpKY09DZ05QQXA5YjhjVlRUN0FtVFIySmM4cjVVektBMHZMdw?oc=5)
+
+---
 
 ### [Antidepressiva im Langzeit-Check: Drei Wirkstoffe erweisen sich als nachhaltig effektiv](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRWZTT2FzSlgwc1U4X3IzTThyVnBTLXZLazFUZmNPSi1nOE5rZmhSdmw5OWhpalNRM1NpR1MwVzY2MzFNbmFJYnk2TGYzWXlHbkVLN05hRklOLVB5WnlJdFpvLVRnV1hQYk5jay1fTWpnQWd0ZV8xZTI3QUxiQ2sxazhmVllLZVNjNjJNT0JXUk1XSzBSaFhjZER0bXUxZU9leE9qOXNvRXlzNHRWSTBqTTJYd1I3bkYza21YVEV4SXVjcmpITGt1RjRsdTdTT054NnVUOGxR?oc=5)
 
@@ -44,11 +52,19 @@ Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRWZT
 
 ---
 
-### [How suddenly jerking awake at night could signal hidden anxiety or depression - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxNc2tXOGo1eEljSFNTcDhRd1c3b3ZjRUtINUhWQ1Ewb2t5c3FFQ3gzTVZ3OGcwSnU2bERYSzFkZGFfTjJoTzJIWVpmQkZ2TGpyUHVnS3hKN2xUVVNoYV9RX3ZFT0x6R1RuTzdCQ1UyZlltLXE5YjVoaVdUTllCd1dwcml5a0tlMFk?oc=5)
+### [How suddenly jerking awake at night could be a sign of hidden health issue - from anxiety to depression - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxNc2tXOGo1eEljSFNTcDhRd1c3b3ZjRUtINUhWQ1Ewb2t5c3FFQ3gzTVZ3OGcwSnU2bERYSzFkZGFfTjJoTzJIWVpmQkZ2TGpyUHVnS3hKN2xUVVNoYV9RX3ZFT0x6R1RuTzdCQ1UyZlltLXE5YjVoaVdUTllCd1dwcml5a0tlMFk?oc=5)
 
 2026-11-11
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxNc2tXOGo1eEljSFNTcDhRd1c3b3ZjRUtINUhWQ1Ewb2t5c3FFQ3gzTVZ3OGcwSnU2bERYSzFkZGFfTjJoTzJIWVpmQkZ2TGpyUHVnS3hKN2xUVVNoYV9RX3ZFT0x6R1RuTzdCQ1UyZlltLXE5YjVoaVdUTllCd1dwcml5a0tlMFk?oc=5)
+
+---
+
+### [Diese Antidepressiva schneiden langfristig besser ab](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNHJPSlo2Zk5fNnI3TEtYRVU4WUF4cFVsOW55M1FFZmZibnhMUXFYUXNia2dxUUM4T0R3QlR3cjluekZXeXZQbnp4WUNIeU5tUktNNmVUZy1udkd0cnpKYUVVZ0hKSnVuZm55TFZzbjlST0hGQWpBSnFkSi02WXY2bXNFSXZ0MUk?oc=5)
+
+2026-11-11
+
+Source: [WEB.DE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNHJPSlo2Zk5fNnI3TEtYRVU4WUF4cFVsOW55M1FFZmZibnhMUXFYUXNia2dxUUM4T0R3QlR3cjluekZXeXZQbnp4WUNIeU5tUktNNmVUZy1udkd0cnpKYUVVZ0hKSnVuZm55TFZzbjlST0hGQWpBSnFkSi02WXY2bXNFSXZ0MUk?oc=5)
 
 ---
 

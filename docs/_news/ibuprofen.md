@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ibuprofen. 7 predicted indications."
 permalink: /news/ibuprofen/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Ibuprofen News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>14 news articles</strong>, with 7 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>17 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,31 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (17)
+
+### [Los metabolitos intestinales ayudan a predecir la respuesta a biológicos en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGpRMjJaWmdXdU1TV1g2bzdjekpjS3p4ek1wR1doc0JwVnk0UC1hU1Q4aTZ6bjAyd0dLQjFaZ2JGWjdPVnhZUVJqUm5hREdmVy0wZ3Q1Y1huanYya3p3TE1JTEdqaWxCa3ptck9kN09FSVBwLUlEVlVvdHZva1l4VEhuc3J5WEl3eVloVlZvdFlocmlwMXVQRENRWVlJOE9VSlVHYUxZREl4eW5lZC1PaC1oczZQVWZjbjRCVGxwSExpZ9IBvAFBVV95cUxPSUh3dDREZ1ZrbXVta2FJcnVidEtnRy1MQk0zWWtiQTE1dTNMWUNQSTJfMTJLMHBiaFVWX1FOOXdUUFNqZUUxUlNfYlZRZWdrdGJJNVBYYV9IbmlqNENWMWpTQl9TUmZhRVZDSFVURDFhOEtRc2JGd09lWFhjNjlPUmprRlF0QmVJTkNwZ2E1YzFQMW9BM2FsMU1zX2QtenBWT19CeDM2LUs2amU4QWFvVFBCUl9OZlcyV2E0Xw?oc=5)
+
+2026-11-12 <span class="news-indication-tag">artritis</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGpRMjJaWmdXdU1TV1g2bzdjekpjS3p4ek1wR1doc0JwVnk0UC1hU1Q4aTZ6bjAyd0dLQjFaZ2JGWjdPVnhZUVJqUm5hREdmVy0wZ3Q1Y1huanYya3p3TE1JTEdqaWxCa3ptck9kN09FSVBwLUlEVlVvdHZva1l4VEhuc3J5WEl3eVloVlZvdFlocmlwMXVQRENRWVlJOE9VSlVHYUxZREl4eW5lZC1PaC1oczZQVWZjbjRCVGxwSExpZ9IBvAFBVV95cUxPSUh3dDREZ1ZrbXVta2FJcnVidEtnRy1MQk0zWWtiQTE1dTNMWUNQSTJfMTJLMHBiaFVWX1FOOXdUUFNqZUUxUlNfYlZRZWdrdGJJNVBYYV9IbmlqNENWMWpTQl9TUmZhRVZDSFVURDFhOEtRc2JGd09lWFhjNjlPUmprRlF0QmVJTkNwZ2E1YzFQMW9BM2FsMU1zX2QtenBWT19CeDM2LUs2amU4QWFvVFBCUl9OZlcyV2E0Xw?oc=5)
+
+---
+
+### [Un estudio apunta que el Ibuprofeno o el Omeprazol podrían tener efectos diferentes por culpa de tus genes](https://news.google.com/rss/articles/CBMizAFBVV95cUxNMG9UVHg2ZjRCd2MzUXBrZFR0VEhBdHcydzNibWpFZmlrRmR4V0pqZjV4LVFQNzROLXNuRzFqcWxpQ3hvOUtKNlJNdm41WGZmbFp1cDJpNk9uRllndnNMakx4SUpOYllXZU1CMGw0STZmSkJxTW5uQ3NMbmpJRWVmQmszUm16RW85M2I3Z2IxbXpYeDI1MW1OYTE0Q3lyano0NzVvQm5ydkZLNS1HZFdzRWhBU09ZdndrYlBjNnFnam9BbzVjUVN0UEZXQk7SAcwBQVVfeXFMTktMVHBYd1pHeW12a05xNUVJYUROMXVld1EzYzNpamhDNjRXRjdIYkR6TkhYWjdxTExQZm45QmduRkRaWkFfWFpFajBiZFhQRHRzajd0ZjhrSmRiMm9talJ0LTRYVjhNSmFjbzZtUWR4aXM5VzU1bFV4NG11UVZuYzVNMzFFREMyMnpaZU5tcy11ajJrQ2lWN05rb3pFRk5FNWNSZkQyRGh3cUFzQ25FRzVqYjV3X3Y5VS10dXdJZXlBMW5kVmVUeDR5dU01?oc=5)
+
+2026-11-12 <span class="news-drug-tag">Ibuprofen</span>
+
+Source: [MARCA](https://news.google.com/rss/articles/CBMizAFBVV95cUxNMG9UVHg2ZjRCd2MzUXBrZFR0VEhBdHcydzNibWpFZmlrRmR4V0pqZjV4LVFQNzROLXNuRzFqcWxpQ3hvOUtKNlJNdm41WGZmbFp1cDJpNk9uRllndnNMakx4SUpOYllXZU1CMGw0STZmSkJxTW5uQ3NMbmpJRWVmQmszUm16RW85M2I3Z2IxbXpYeDI1MW1OYTE0Q3lyano0NzVvQm5ydkZLNS1HZFdzRWhBU09ZdndrYlBjNnFnam9BbzVjUVN0UEZXQk7SAcwBQVVfeXFMTktMVHBYd1pHeW12a05xNUVJYUROMXVld1EzYzNpamhDNjRXRjdIYkR6TkhYWjdxTExQZm45QmduRkRaWkFfWFpFajBiZFhQRHRzajd0ZjhrSmRiMm9talJ0LTRYVjhNSmFjbzZtUWR4aXM5VzU1bFV4NG11UVZuYzVNMzFFREMyMnpaZU5tcy11ajJrQ2lWN05rb3pFRk5FNWNSZkQyRGh3cUFzQ25FRzVqYjV3X3Y5VS10dXdJZXlBMW5kVmVUeDR5dU01?oc=5)
+
+---
+
+### [Nuevos avances para reducir el ensayo y error en los tratamientos de la artritis reumatoide](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzNEZGE2QjBqNWZqdGM0Tm1ibDhTX1JjblZSMWh1UlpsLWVpMWVhS3VtWERNODNMNVM1TVJ1YW1xdHN1SUtMRGpTcXN5X3V6SU1XMkJjbEYtYmVoUXZnSzkwMV9Sblg3SzJuT1lTNXJHajgwNmI4YzJYekUtRkI2WUYxMFlfeGNPaUQ4bWxNRTF1aTJvVng1OFNjQzZJOVlLZWU5eGltSUpGUjJfd3VmQUNXZ0dMTEk1MFJHLXU1b1JuWVZVaFNGWVAweEtmU1U2WGZnU3IzM3ZwcS0ySW5Ib3VR?oc=5)
+
+2026-11-12 <span class="news-indication-tag">artritis</span>
+
+Source: [ConSalud.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzNEZGE2QjBqNWZqdGM0Tm1ibDhTX1JjblZSMWh1UlpsLWVpMWVhS3VtWERNODNMNVM1TVJ1YW1xdHN1SUtMRGpTcXN5X3V6SU1XMkJjbEYtYmVoUXZnSzkwMV9Sblg3SzJuT1lTNXJHajgwNmI4YzJYekUtRkI2WUYxMFlfeGNPaUQ4bWxNRTF1aTJvVng1OFNjQzZJOVlLZWU5eGltSUpGUjJfd3VmQUNXZ0dMTEk1MFJHLXU1b1JuWVZVaFNGWVAweEtmU1U2WGZnU3IzM3ZwcS0ySW5Ib3VR?oc=5)
+
+---
 
 ### [Ibuprofene e reni, chi rischia di più? La risposta arriva da 78mila ricoverati](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMzVrWGVRT1FBNnhsZTRZTkhNd0hYTC00bjhYc0pOSnJzalAwZlZ5cjFidjZEVTQ3Vnd4bHVxZy03NG85a3A4M1drcE01VjdvaTN0aDdNMTd0LWhMRndmQTNPeWRId1E0a19Rdzh2bExuR0NSTTh4UWpOVjIxdm5mMVh2SjNxVFBnV1YtUmxsZWR0QjhWdjh3dy1Mc0xsR3RNa3VFRGNGRGhnYU1xNEpCSXViRldmSHppMF9iTUlLRUFUVkVxWXlVSkJuTGxjaDlIa3c?oc=5)
 
