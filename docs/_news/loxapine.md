@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Loxapine. 9 predicted indications."
 permalink: /news/loxapine/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Loxapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Loxapine?">
-<strong>Loxapine</strong> currently has <strong>17 news articles</strong>, with 9 predicted indications.
+<strong>Loxapine</strong> currently has <strong>18 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Loxapine with the latest hea
 <p><a href="{{ '/drugs/loxapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (18)
 
 ### [Alzheimer-Risiko: Elf beeinflussbare Faktoren könnten 265.000 Fälle verhindern](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTHU5TFpHRGVUMEc0SlIyZDBFWTdrNU9HbE1fY0ZDV3Vtc1ozX3hPNjRoandZSmtHdkFJZ2Zxczh4ZnBJR3gzMlNuXy1XSjZ1UGdFZ0pRdUdodzFHZ3ZfYmM4YjNIaEJNQ0VrTFZNeUV1VXRDcVVqcVBGdDhDS1BSeHRNaVp2NHhOUU5mdmZxVVJmVXJMRlE4bExYMmFJMm0zb0lzY1lMZjJUbXg1cThENWowZVBDczBJNFNrYlpuaGJZdmFDSU9R?oc=5)
 
@@ -80,6 +80,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRl
 2026-11-09 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUczajZUck91UWxmNnc2S1NTbTRtQWRQcFpzLWlwNnpyTGNJZW5pb0dYWXJnQVR1TEY3Sk0ybGdRREF0MXJrT1ZzQmxIbzdWbFBoN2Q0M2QwWTlwcWN4dG5naGcxcWdHbGdFdU5BRHRZWldVbkZ6YlNKcng5NVZ1eEM0eHZOUVlUVXdOUUtBRGYtb1pubG4yLXJ4SEM?oc=5)
+
+---
+
+### [Schlaganfall-Prävention: Zehn beeinflussbare Faktoren hängen mit 90,7 Prozent zusammen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
 
 ---
 

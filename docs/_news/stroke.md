@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "ictus (stroke) News"
+title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 78 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 80 articles, 11 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
-# ictus (stroke) News
+# Schlaganfall (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>78 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
+<strong>Schlaganfall (stroke)</strong> currently has <strong>80 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (78)
+## Related News (80)
+
+### [Gefahr bei Therapieabbruch: Absetzen von GLP-1-Spritzen verdoppelt Risiko für Herzinfarkt und Schlaganfall - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2lSZXZsVGFod01TVmFZNU1PLWY1UzVRdVVxeldtWUlYSDdaVHZ4TEU3THJSNlNCd3RPdmhvZ2FVVzlYd21UTWoyOVRiN1VsdDBCLXgxV1QzRFBWYlBJX3JnbklBTFhrZDdTWkh0MzV1WUlJZ1lrbnhWVVdZdHFsMlhLSVc1bzk1MnMzUGlTRi1McEthTHNBX1I5NFNBUmhZMXlF?oc=5)
+
+2026-11-11
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2lSZXZsVGFod01TVmFZNU1PLWY1UzVRdVVxeldtWUlYSDdaVHZ4TEU3THJSNlNCd3RPdmhvZ2FVVzlYd21UTWoyOVRiN1VsdDBCLXgxV1QzRFBWYlBJX3JnbklBTFhrZDdTWkh0MzV1WUlJZ1lrbnhWVVdZdHFsMlhLSVc1bzk1MnMzUGlTRi1McEthTHNBX1I5NFNBUmhZMXlF?oc=5)
+
+---
 
 ### [Abnehmspritze abgesetzt: Neue Studie warnt vor erhöhtem Sterberisiko](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGI0Y0tTMDBHd1JXUTFzV0tJTzdxVGxIR2t3aThKSGJoOFoxMHJBQ3dsVjdCZnhtWlplMG42UlViRnpWM1o4Q3duZHBGU0dQT2pEUVdtNV9FSXN2ZTAwSFJHc0RZeEJESVF5MWFVQXk3ZW9hemdUNmdGUlVBUzJuV0E4Qk9xa2RTTVRVR0JwYUZUd09rdDIwWTQ4RmJXaTV1YXRQaVBVc1BwX0RleWh5Qi0taU8wUGFBazVXbA?oc=5)
 
@@ -122,6 +130,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24
 2026-11-09
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1ienhKNDlaT1VGTml4dmZ2Z05QaU5TbVNmRnNHaWZfY19HR19PTTA1TjI1MXREX3R2b0J2MXV6MlczSFV3QXVwb0JsNDEtV01LSlVLbFh4V2NMR0tHcGR1bWR3QVVaVF84cENQdXF1WTljZTN2MjVPMmVONjhGVVdDMVc?oc=5)
+
+---
+
+### [I almost died after a toothache led to sepsis and a rare heart condition](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
+
+2026-11-09
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
 
 ---
 

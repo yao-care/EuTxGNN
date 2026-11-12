@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Sarilumab. 0 predicted indications."
 permalink: /news/sarilumab/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Sarilumab News
@@ -31,6 +31,14 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 </div>
 
 ## Related News (29)
+
+### [Un médico advierte: dejar el tabaco es clave para frenar la EPOC](https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RTQ0pOTmVmWUdRb2RjVnZRVzJlNTl0eVV5aXNHcm5UYzJ4dEg2RVlvQkVLWnhTNGtQTnZrTzhYRjY2WGtsTFloYnd4Yk9KY1VmTERuZU51cy02Q2ZOVlkzMEpaQ3NfRVhjSlc0clk0czkySm1fenRFRERCaHZHSXBkbFprYnhhc0pzbE1YUU1mLWMyeXNSTWNQdkdwZ9IBowFBVV95cUxQR0ZKek1kWXM1ZnpQTjFkRDFDOHZEbHlBUXdtNGJHanBBc0tCYVh3WVdxRWtKM0x5cDd5RkZWY0hNY2N6TXpFeTFOekFmczB5dWpRTlBuSk55TVdVX0k4M2FuM3E3QUszQXFPMTBQRFk2NzI3VGhLSjh5Y1JsT2I2Q21HUFVnR2lUcnpfUzhrOExZUHNvaFpxLXRpVmd2cUtBQkhn?oc=5)
+
+2026-11-11 <span class="news-indication-tag">EPOC</span>
+
+Source: [Demócrata](https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RTQ0pOTmVmWUdRb2RjVnZRVzJlNTl0eVV5aXNHcm5UYzJ4dEg2RVlvQkVLWnhTNGtQTnZrTzhYRjY2WGtsTFloYnd4Yk9KY1VmTERuZU51cy02Q2ZOVlkzMEpaQ3NfRVhjSlc0clk0czkySm1fenRFRERCaHZHSXBkbFprYnhhc0pzbE1YUU1mLWMyeXNSTWNQdkdwZ9IBowFBVV95cUxQR0ZKek1kWXM1ZnpQTjFkRDFDOHZEbHlBUXdtNGJHanBBc0tCYVh3WVdxRWtKM0x5cDd5RkZWY0hNY2N6TXpFeTFOekFmczB5dWpRTlBuSk55TVdVX0k4M2FuM3E3QUszQXFPMTBQRFk2NzI3VGhLSjh5Y1JsT2I2Q21HUFVnR2lUcnpfUzhrOExZUHNvaFpxLXRpVmd2cUtBQkhn?oc=5)
+
+---
 
 ### [Médico insta a dejar de fumar para prevenir o detener el avance de la EPOC](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzlnUWlRRVM0MndkQWUyQVgyTGRzN3cwZXo2SkFVb0FoZnJGdHlhVWYyQ19MalFpSlh6QVgweUVwS05odEVNM2ltU2lGUGpyM0NqeEdHTlJIb1AtZFhFTTJydlM2QkdzYkpiY2h3aWozYkhPVEhhekNoT2JaM1J2M1FZYU9GeTdSb1B0bWFaM2VMUEJVNG1DdEpMT3I1WTBWdTNwVG9qeEV0Mm8yeS0wUTl2ZmpYSVo2ZkJ0bS1IS0dwdXBMdHc?oc=5)
 
@@ -117,14 +125,6 @@ Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi
 2026-11-08 <span class="news-indication-tag">enfermedad de Crohn</span>
 
 Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVTFkYjdjSXg4c3pMT2FXWU1MeTdtbElRZlU2MlFXMC1LY2NFRmxQTmFIdHBfOEFQRU03OV91WUVGVGRrbm94MWpVUjRPNTNDOGZVMjVjR3dMYndQdEFTaUZDVXBZTlhRWXBHejRHR2M4NWlMS1d1UTdMUjBuVEF2cURFS3huMlBQa3E3UGc1RXhPbzN4MWlsdzUzdzBTODFSLXNiQm91TlF3ZjlabzNxX01qaFg0ZVhKR2RkQmNpZUPSAcYBQVVfeXFMT05IcVdOUEVuUG1NWlJlSHljejc3b1cyUlFnWkJpSjZCa29Ob09sYklwVThEX3dGZ0VnYjdLQXVSZ2oxS3J3Tk15Q2pSQVdiQjVuYmE2eXpaWWVraEVDckFqbXhfVWxhQTZTZkVaQ3RNYkJMaFdtU3FLLU92c2gxUm8yeXRRckpDMnRjaVB3aUdMckFOMUNfTnJqUDdWYTZlTWtKM0JEN1NGS1Fja1djVEFSMjlsckFYTVFjNGhPakdhd1hOYUln?oc=5)
-
----
-
-### [CED-Forschung: IL-10-Antikörper bei 3,5 Prozent der Patienten nachgewiesen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUNpOWduMnQ2cXVRMUxTU0FlZFNPRjlTb2c0YTNHLVNrTVRGaXlmbkFjWWVrME8xU09BWDBQNUFKemhTelo1VGlnUEt0NGtEWU1kMldzZl85Vl82RGI3YVpVRTFFeTdFUHVrdXhNOVM0QXFfdFZuVEhoeXp6VTQxZlJBM0ctTnIzUFFPVWl5cnpYenFWbWpfbGktSXFURElCb09OM1VTY3d3dnktakdpMm1GQUZYZEVnakJZYVpxZ2M?oc=5)
-
-2026-11-07 <span class="news-indication-tag">Morbus Crohn</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUNpOWduMnQ2cXVRMUxTU0FlZFNPRjlTb2c0YTNHLVNrTVRGaXlmbkFjWWVrME8xU09BWDBQNUFKemhTelo1VGlnUEt0NGtEWU1kMldzZl85Vl82RGI3YVpVRTFFeTdFUHVrdXhNOVM0QXFfdFZuVEhoeXp6VTQxZlJBM0ctTnIzUFFPVWl5cnpYenFWbWpfbGktSXFURElCb09OM1VTY3d3dnktakdpMm1GQUZYZEVnakJZYVpxZ2M?oc=5)
 
 ---
 

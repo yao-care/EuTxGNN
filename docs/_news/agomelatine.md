@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Agomelatine. 7 predicted indications."
 permalink: /news/agomelatine/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Agomelatine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>31 news articles</strong>, with 7 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>30 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (31)
+## Related News (30)
 
 ### [Antidepressiva im Langzeit-Check: Drei Wirkstoffe erweisen sich als nachhaltig effektiv](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRWZTT2FzSlgwc1U4X3IzTThyVnBTLXZLazFUZmNPSi1nOE5rZmhSdmw5OWhpalNRM1NpR1MwVzY2MzFNbmFJYnk2TGYzWXlHbkVLN05hRklOLVB5WnlJdFpvLVRnV1hQYk5jay1fTWpnQWd0ZV8xZTI3QUxiQ2sxazhmVllLZVNjNjJNT0JXUk1XSzBSaFhjZER0bXUxZU9leE9qOXNvRXlzNHRWSTBqTTJYd1I3bkYza21YVEV4SXVjcmpITGt1RjRsdTdTT054NnVUOGxR?oc=5)
 
@@ -62,14 +62,6 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxNc2tXOGo1e
 2026-11-11 <span class="news-indication-tag">depression</span>
 
 Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0pWTW5rQ1h3X090U1Bld2xDQ1RvOHNSMW5TWjV1ODlOdk5fVHhpNmhRN0szUzNpNWZkZGJjcTV4NUNINTdVNlRJc2hBNGxVcXhiTTdHeHpuUEhwSzhFZTlLcFNDbENvVks3Z3hlaG5KQ2dkMmhnUm1rSVhrTGpPNElwSjBWTndiNEUzWXVaZ1hzeHlScXd2WUxjcnlLNXUtTkI0N1JXY2FYRTZodElhR0pDcFZ6Qlk?oc=5)
-
----
-
-### [Antidepressant escitalopram more effective at preventing relapse, analysis finds](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xQm03cDE0bmNERFM5cVdhTjFsNHRNY2hFSVNMaTBhaFJtZ3FJRnhFNUphYkZaMDBZXy01Q0V4eW1LVWFGMWJwdFl2V29DQ2FBekdqWnJtb2I5V1RBaEE?oc=5)
-
-2026-11-11 <span class="news-drug-tag">Agomelatine</span> <span class="news-drug-tag">Duloxetine</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xQm03cDE0bmNERFM5cVdhTjFsNHRNY2hFSVNMaTBhaFJtZ3FJRnhFNUphYkZaMDBZXy01Q0V4eW1LVWFGMWJwdFl2V29DQ2FBekdqWnJtb2I5V1RBaEE?oc=5)
 
 ---
 

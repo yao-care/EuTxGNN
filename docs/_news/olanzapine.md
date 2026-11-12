@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Olanzapine. 2 predicted indications."
 permalink: /news/olanzapine/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Olanzapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>40 news articles</strong>, with 2 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>41 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (40)
+## Related News (41)
 
 ### [Antidepressiva im Langzeit-Check: Drei Wirkstoffe erweisen sich als nachhaltig effektiv](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRWZTT2FzSlgwc1U4X3IzTThyVnBTLXZLazFUZmNPSi1nOE5rZmhSdmw5OWhpalNRM1NpR1MwVzY2MzFNbmFJYnk2TGYzWXlHbkVLN05hRklOLVB5WnlJdFpvLVRnV1hQYk5jay1fTWpnQWd0ZV8xZTI3QUxiQ2sxazhmVllLZVNjNjJNT0JXUk1XSzBSaFhjZER0bXUxZU9leE9qOXNvRXlzNHRWSTBqTTJYd1I3bkYza21YVEV4SXVjcmpITGt1RjRsdTdTT054NnVUOGxR?oc=5)
 
@@ -145,6 +145,14 @@ Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMivAFBVV9
 2026-11-08 <span class="news-indication-tag">depresión</span>
 
 Source: [65 y más](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVp3QnRwczhXRTNvMUpZdnhsZzhtRndFNm1hOGxmWFZnYVlPSzFYd0k4b2JGVTZpMDg5ZWduQjFYR2hlZGUwMzdKa25hWGZkcjZZS0stUWdHWmZnMmhoOUdpRVlJcldtUlZZeWFJUWd2OWhpY2xmbDhxbklrQldUV084Z3g2Mk1UYnNqTVg0dkVFVC11QWEyc2xTYUx1LWFMamdyS2tZaVltSU1fVTBYdQ?oc=5)
+
+---
+
+### [Schlaganfall-Prävention: Zehn beeinflussbare Faktoren hängen mit 90,7 Prozent zusammen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
 
 ---
 

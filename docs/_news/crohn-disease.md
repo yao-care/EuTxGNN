@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Morbus Crohn (crohn disease) News"
+title: "enfermedad de Crohn (crohn disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Morbus Crohn (crohn disease). 6 articles, 1 related drugs."
+description: "Health news about enfermedad de Crohn (crohn disease). 5 articles, 1 related drugs."
 permalink: /news/crohn-disease/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
-# Morbus Crohn (crohn disease) News
+# enfermedad de Crohn (crohn disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Morbus Crohn (crohn disease)?">
-<strong>Morbus Crohn (crohn disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about enfermedad de Crohn (crohn disease)?">
+<strong>enfermedad de Crohn (crohn disease)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Morbus Crohn” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “enfermedad de Crohn” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “Morbus Crohn” and li
 </ul>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [Enfermedad de Crohn en jóvenes: un 30% de los pacientes tiene menos de 20 años - Onda Vasca](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUExQi05Y1VJc1Jsc0cwVkJTSi1YOXdJMWNGRXlSblBMRG1nVG9saGlSRjltcHFfSGxSU3ZoWmoyYW5tMGhXUHpWaHRZNjV2Rmt0UlRUUG5hREVOT2d3ZzV4MlZOd2RzaWVNVWVxaFZuOHRpdkJLTDR3bHVOOXhCUnFBS21lWDY0V1gxYW9saGs3WFJGTXFxOGhubEJxSEJyQ0hrc1h30gGrAUFVX3lxTE1jVC0yaV93SHZSeUZCcS16bGhnZUswX3p5cFg4dXFaWXZkbHJVTEtmb0plT0UxWm5kdUVuemVKYklrRmxsYUhoTy03RzN6NVlURjd0VDZ1eWRTaU1jTHU4MkJWU19OZ0lhSC1RbmQ0cHphRzZUdE9FRWpEQTdSeFlKcENyQkwwYTBCcnVBR0JYNl84TnpHQVBFVVQtbDRxX0JpTmlaUUV2RlZFdw?oc=5)
 
@@ -53,14 +53,6 @@ Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi
 2026-11-08
 
 Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVTFkYjdjSXg4c3pMT2FXWU1MeTdtbElRZlU2MlFXMC1LY2NFRmxQTmFIdHBfOEFQRU03OV91WUVGVGRrbm94MWpVUjRPNTNDOGZVMjVjR3dMYndQdEFTaUZDVXBZTlhRWXBHejRHR2M4NWlMS1d1UTdMUjBuVEF2cURFS3huMlBQa3E3UGc1RXhPbzN4MWlsdzUzdzBTODFSLXNiQm91TlF3ZjlabzNxX01qaFg0ZVhKR2RkQmNpZUPSAcYBQVVfeXFMT05IcVdOUEVuUG1NWlJlSHljejc3b1cyUlFnWkJpSjZCa29Ob09sYklwVThEX3dGZ0VnYjdLQXVSZ2oxS3J3Tk15Q2pSQVdiQjVuYmE2eXpaWWVraEVDckFqbXhfVWxhQTZTZkVaQ3RNYkJMaFdtU3FLLU92c2gxUm8yeXRRckpDMnRjaVB3aUdMckFOMUNfTnJqUDdWYTZlTWtKM0JEN1NGS1Fja1djVEFSMjlsckFYTVFjNGhPakdhd1hOYUln?oc=5)
-
----
-
-### [CED-Forschung: IL-10-Antikörper bei 3,5 Prozent der Patienten nachgewiesen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUNpOWduMnQ2cXVRMUxTU0FlZFNPRjlTb2c0YTNHLVNrTVRGaXlmbkFjWWVrME8xU09BWDBQNUFKemhTelo1VGlnUEt0NGtEWU1kMldzZl85Vl82RGI3YVpVRTFFeTdFUHVrdXhNOVM0QXFfdFZuVEhoeXp6VTQxZlJBM0ctTnIzUFFPVWl5cnpYenFWbWpfbGktSXFURElCb09OM1VTY3d3dnktakdpMm1GQUZYZEVnakJZYVpxZ2M?oc=5)
-
-2026-11-07
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUNpOWduMnQ2cXVRMUxTU0FlZFNPRjlTb2c0YTNHLVNrTVRGaXlmbkFjWWVrME8xU09BWDBQNUFKemhTelo1VGlnUEt0NGtEWU1kMldzZl85Vl82RGI3YVpVRTFFeTdFUHVrdXhNOVM0QXFfdFZuVEhoeXp6VTQxZlJBM0ctTnIzUFFPVWl5cnpYenFWbWpfbGktSXFURElCb09OM1VTY3d3dnktakdpMm1GQUZYZEVnakJZYVpxZ2M?oc=5)
 
 ---
 

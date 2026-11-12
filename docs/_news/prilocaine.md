@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Prilocaine. 10 predicted indications."
 permalink: /news/prilocaine/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Prilocaine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Prilocaine?">
-<strong>Prilocaine</strong> currently has <strong>26 news articles</strong>, with 10 predicted indications.
+<strong>Prilocaine</strong> currently has <strong>28 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Prilocaine with the latest h
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (26)
+## Related News (28)
+
+### [Un médico advierte: dejar el tabaco es clave para frenar la EPOC](https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RTQ0pOTmVmWUdRb2RjVnZRVzJlNTl0eVV5aXNHcm5UYzJ4dEg2RVlvQkVLWnhTNGtQTnZrTzhYRjY2WGtsTFloYnd4Yk9KY1VmTERuZU51cy02Q2ZOVlkzMEpaQ3NfRVhjSlc0clk0czkySm1fenRFRERCaHZHSXBkbFprYnhhc0pzbE1YUU1mLWMyeXNSTWNQdkdwZ9IBowFBVV95cUxQR0ZKek1kWXM1ZnpQTjFkRDFDOHZEbHlBUXdtNGJHanBBc0tCYVh3WVdxRWtKM0x5cDd5RkZWY0hNY2N6TXpFeTFOekFmczB5dWpRTlBuSk55TVdVX0k4M2FuM3E3QUszQXFPMTBQRFk2NzI3VGhLSjh5Y1JsT2I2Q21HUFVnR2lUcnpfUzhrOExZUHNvaFpxLXRpVmd2cUtBQkhn?oc=5)
+
+2026-11-11 <span class="news-indication-tag">EPOC</span>
+
+Source: [Demócrata](https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RTQ0pOTmVmWUdRb2RjVnZRVzJlNTl0eVV5aXNHcm5UYzJ4dEg2RVlvQkVLWnhTNGtQTnZrTzhYRjY2WGtsTFloYnd4Yk9KY1VmTERuZU51cy02Q2ZOVlkzMEpaQ3NfRVhjSlc0clk0czkySm1fenRFRERCaHZHSXBkbFprYnhhc0pzbE1YUU1mLWMyeXNSTWNQdkdwZ9IBowFBVV95cUxQR0ZKek1kWXM1ZnpQTjFkRDFDOHZEbHlBUXdtNGJHanBBc0tCYVh3WVdxRWtKM0x5cDd5RkZWY0hNY2N6TXpFeTFOekFmczB5dWpRTlBuSk55TVdVX0k4M2FuM3E3QUszQXFPMTBQRFk2NzI3VGhLSjh5Y1JsT2I2Q21HUFVnR2lUcnpfUzhrOExZUHNvaFpxLXRpVmd2cUtBQkhn?oc=5)
+
+---
 
 ### [Médico insta a dejar de fumar para prevenir o detener el avance de la EPOC](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzlnUWlRRVM0MndkQWUyQVgyTGRzN3cwZXo2SkFVb0FoZnJGdHlhVWYyQ19MalFpSlh6QVgweUVwS05odEVNM2ltU2lGUGpyM0NqeEdHTlJIb1AtZFhFTTJydlM2QkdzYkpiY2h3aWozYkhPVEhhekNoT2JaM1J2M1FZYU9GeTdSb1B0bWFaM2VMUEJVNG1DdEpMT3I1WTBWdTNwVG9qeEV0Mm8yeS0wUTl2ZmpYSVo2ZkJ0bS1IS0dwdXBMdHc?oc=5)
 
@@ -137,6 +145,14 @@ Source: [Medical Tribune](https://news.google.com/rss/articles/CBMivwFBVV95cUxOc
 2026-11-09 <span class="news-indication-tag">EPOC</span>
 
 Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3F4ektaR2FwODNuM1lzZTNWdFVCSE1KMGZPUWhldWl5UDF6bnY5TnhOQmFBRFBZSERFZ0lianJKQkdpLVFxWW9MdV9XUlJvVlZ6anZaSlFmMFM1bWctdGFXVWlaRzY4akk3bTdjRVhuZW5KSVJ2VzBnUERzTS1MRHo3YUpaUUxoaXpIUUs0VWlLZ296VnNrWQ?oc=5)
+
+---
+
+### [Schlaganfall-Prävention: Zehn beeinflussbare Faktoren hängen mit 90,7 Prozent zusammen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
 
 ---
 

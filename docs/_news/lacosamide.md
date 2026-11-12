@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Lacosamide. 10 predicted indications."
 permalink: /news/lacosamide/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Lacosamide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Lacosamide?">
-<strong>Lacosamide</strong> currently has <strong>14 news articles</strong>, with 10 predicted indications.
+<strong>Lacosamide</strong> currently has <strong>15 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Lacosamide with the latest h
 <p><a href="{{ '/drugs/lacosamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (15)
 
 ### [Experta subraya la relevancia de que el paciente describa bien la migraña para diferenciarla de otros dolores de cabeza - Diario Estrategia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRmx5WDdubXUxU0d4Vk4zVjl3VmJVMDZ4WEtqOUQ4WHF5SzVpT3pFMWtOM1Z6d2RKTmZ6RnhMVHN4SUJyLVVfTWFqTHNWd28zNXl4NFh1clN0QjkydU1LcVJnYzFOblp6MS04NWNoR0tKYmFnT2JQY0E1TzlvczVGRk1XMnNkbVlROFRNdkxHZDhPdkJDdHc2cFdvTGtGWVpYdjFFdDNqTlZTNll0bnVCYTBqVzFnay0yMjBMWnQtMk5lTVplalpxRzdXdG90dk9vbExkZl96bnpPeWN2YjVOeVE2anRZSHJP?oc=5)
 
@@ -89,6 +89,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRl
 2026-11-09 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUczajZUck91UWxmNnc2S1NTbTRtQWRQcFpzLWlwNnpyTGNJZW5pb0dYWXJnQVR1TEY3Sk0ybGdRREF0MXJrT1ZzQmxIbzdWbFBoN2Q0M2QwWTlwcWN4dG5naGcxcWdHbGdFdU5BRHRZWldVbkZ6YlNKcng5NVZ1eEM0eHZOUVlUVXdOUUtBRGYtb1pubG4yLXJ4SEM?oc=5)
+
+---
+
+### [Schlaganfall-Prävention: Zehn beeinflussbare Faktoren hängen mit 90,7 Prozent zusammen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
 
 ---
 

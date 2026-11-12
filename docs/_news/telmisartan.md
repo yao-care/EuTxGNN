@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Telmisartan. 9 predicted indications."
 permalink: /news/telmisartan/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Telmisartan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>131 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>133 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (131)
+## Related News (133)
 
 ### [Kardiorenales Syndrom effektiv behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnpJYWZnRTJmSWtNVzJscFBqTkhWaW96X2xKeW5JY0lZQzViWjBoWWhvci0tQm1iM3VmY212SFpHSmJ2dkgySTQzbmR2Z1cxMFNjVHNuZnVIVXM4MFUwb1N6Z0FfdlZ0aEpPQ1FremZ2MEY4d1FzYTk0Qm0yT0Vnazl6SmlVdkx2MkQxcy1LcFVPbFVFVFE?oc=5)
 
 2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
 Source: [Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnpJYWZnRTJmSWtNVzJscFBqTkhWaW96X2xKeW5JY0lZQzViWjBoWWhvci0tQm1iM3VmY212SFpHSmJ2dkgySTQzbmR2Z1cxMFNjVHNuZnVIVXM4MFUwb1N6Z0FfdlZ0aEpPQ1FremZ2MEY4d1FzYTk0Qm0yT0Vnazl6SmlVdkx2MkQxcy1LcFVPbFVFVFE?oc=5)
+
+---
+
+### [Gefahr bei Therapieabbruch: Absetzen von GLP-1-Spritzen verdoppelt Risiko für Herzinfarkt und Schlaganfall - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2lSZXZsVGFod01TVmFZNU1PLWY1UzVRdVVxeldtWUlYSDdaVHZ4TEU3THJSNlNCd3RPdmhvZ2FVVzlYd21UTWoyOVRiN1VsdDBCLXgxV1QzRFBWYlBJX3JnbklBTFhrZDdTWkh0MzV1WUlJZ1lrbnhWVVdZdHFsMlhLSVc1bzk1MnMzUGlTRi1McEthTHNBX1I5NFNBUmhZMXlF?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2lSZXZsVGFod01TVmFZNU1PLWY1UzVRdVVxeldtWUlYSDdaVHZ4TEU3THJSNlNCd3RPdmhvZ2FVVzlYd21UTWoyOVRiN1VsdDBCLXgxV1QzRFBWYlBJX3JnbklBTFhrZDdTWkh0MzV1WUlJZ1lrbnhWVVdZdHFsMlhLSVc1bzk1MnMzUGlTRi1McEthTHNBX1I5NFNBUmhZMXlF?oc=5)
 
 ---
 
@@ -67,11 +75,11 @@ Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGI0
 
 ---
 
-### [Red flag symptom in legs could be sign of heart failure](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+### [Red flag symptom in legs could be sign of heart failure - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 2026-11-11 <span class="news-indication-tag">heart failure</span>
 
-Source: [Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 ---
 
@@ -160,6 +168,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNs
 2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1ienhKNDlaT1VGTml4dmZ2Z05QaU5TbVNmRnNHaWZfY19HR19PTTA1TjI1MXREX3R2b0J2MXV6MlczSFV3QXVwb0JsNDEtV01LSlVLbFh4V2NMR0tHcGR1bWR3QVVaVF84cENQdXF1WTljZTN2MjVPMmVONjhGVVdDMVc?oc=5)
+
+---
+
+### [I almost died after a toothache led to sepsis and a rare heart condition](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
+
+2026-11-09 <span class="news-indication-tag">stroke</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
 
 ---
 
@@ -325,7 +341,7 @@ Source: [Linternaute.com](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQd
 
 ### [Schlaganfall-Prävention: Zehn beeinflussbare Faktoren hängen mit 90,7 Prozent zusammen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
 
-2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
+2026-11-07 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
 

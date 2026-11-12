@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Belatacept. 0 predicted indications."
 permalink: /news/belatacept/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Belatacept News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Belatacept?">
-<strong>Belatacept</strong> currently has <strong>255 news articles</strong>, with 0 predicted indications.
+<strong>Belatacept</strong> currently has <strong>260 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Belatacept with the latest h
 <p><a href="{{ '/drugs/belatacept/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (255)
+## Related News (260)
+
+### [Sunbed firms must not downplay cancer risk, says watchdog](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUUtTRHNISzN1UUo1OTBKNTQyRlhPbmRES0NjVEt5TnduQ3BPd1BpWWdXNVJONHdFSjgxN0xnTGZXLTBQYXhMX2p0Q0k0S3BCamdSemtfSk9zM0p1Umc?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUUtTRHNISzN1UUo1OTBKNTQyRlhPbmRES0NjVEt5TnduQ3BPd1BpWWdXNVJONHdFSjgxN0xnTGZXLTBQYXhMX2p0Q0k0S3BCamdSemtfSk9zM0p1Umc?oc=5)
+
+---
+
+### [Trial aims to spare men from unnecessary prostate cancer treatment - The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0lRUUNBaFZ0NUZJdW5KT0R4QkJQLUh4U05qN2d5b1VzTks2NzBXWUVwWGtXZWVzdDcwSmJDZFRIaXNnVHdRd3pxNEk0aVZENFB0U1o2VXBjaGl4LVpOeTBfbEQwbE1yM0xSZjhaNGQ0M2FLR1ZJdHBHd1NsUGNhS0hNR3htVl9ZZEJzZUNzdlBRUQ?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0lRUUNBaFZ0NUZJdW5KT0R4QkJQLUh4U05qN2d5b1VzTks2NzBXWUVwWGtXZWVzdDcwSmJDZFRIaXNnVHdRd3pxNEk0aVZENFB0U1o2VXBjaGl4LVpOeTBfbEQwbE1yM0xSZjhaNGQ0M2FLR1ZJdHBHd1NsUGNhS0hNR3htVl9ZZEJzZUNzdlBRUQ?oc=5)
+
+---
 
 ### [VHL, la malattia rara che predispone a più tumori: perché scoprirla presto conta](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEY1dkd0cTRjUWUtaHdLZkZiMC1sVUlrd1puTVhyRXM1Y1RHTDJsTVVHUzFyMVRMUEFDMmdBZGZ2cWhTR3ZRcXFqRWtxYXpNc0ZFU0FOY1RtclRTY1M0dWpkNHZFUFVsWG9iNUVpMGRzaWlPLVVWYVlwQmxxbkZKSzBjVEVEczl3Q21uUGw1bWt4cG1oajJkNGpxOXJWU09FejYxbnBZYUlwbGdQS1BmV040ZEpHemwyMnBjQ0ZwY1U3aHZaYUoydQ?oc=5)
 
@@ -45,6 +61,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEY1
 2026-11-11 <span class="news-indication-tag">cancer</span>
 
 Source: [Sud Ouest](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3Z1Z1UxRnEycmx3Y1paZ0NBMExBVVo0cUhIV3g5ejdvdmMwVjFOUHEtWnExdVViQ1g5OTZGdVpDdHZvaV8wQWFfVnV4QmQ1cnB4S09aaTZTaXM1cUlQNTJ2NzFRSlhSNDJBMkNZVlhpM0loUlh6eDJKeW5pcUxvcG9IUHRjV2VmNzRZcE40Wk5xLW5UX3hjREUyR2FWQktLblNVRnVTUFg0cHZYUUVvdjgyM205aDhaZEE?oc=5)
+
+---
+
+### [Bluttest mit RNA-Signal erkennt frühen Vorstufe-Status bei Eierstockkrebs - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXRYeHBJN0xSQ01LVjdVM2hESVRtVUUxQkczNWIzNXN1NUJrUG1TWEU4Wkx1WnpHUnNSTUNfV1p0LUtYbGQ3c3JPNE56YnhBYXJKTFRwUGZYQVBmaUFQbUtzdElidmJXUmt0bEk1WWpRMnQxZ1ZtWV9VM25pTTBIcTZ0MGVaMEtnNnBZeXpMelVzMnpxMDllbjZEUXQ2ZGJpRGFLNzY5RTRjdw?oc=5)
+
+2026-11-11 <span class="news-indication-tag">Krebs</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXRYeHBJN0xSQ01LVjdVM2hESVRtVUUxQkczNWIzNXN1NUJrUG1TWEU4Wkx1WnpHUnNSTUNfV1p0LUtYbGQ3c3JPNE56YnhBYXJKTFRwUGZYQVBmaUFQbUtzdElidmJXUmt0bEk1WWpRMnQxZ1ZtWV9VM25pTTBIcTZ0MGVaMEtnNnBZeXpMelVzMnpxMDllbjZEUXQ2ZGJpRGFLNzY5RTRjdw?oc=5)
 
 ---
 
@@ -69,6 +93,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTFRB
 2026-11-11 <span class="news-indication-tag">Krebs</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSWFYQlJtNTgtMktpdl93NFY4MGhEUWczSlFTWHRYeTZjQlg2RmxwRWtSaU1Ba2wzT3BEZGFhZ1RxMWNoWlNpQ0djYWNwZGpYRE5NS2U0U05EcGhNNnFMUEdOb3A2Y1VZbF9NS3E4eVZGbDlNclQ5TnNuQ21RQ2xRYjNQcy1yNzd4OE4xcm0zT1F3eGhCUHdNSUhmNWU4bWpuNTh6VmM1djZmUzRGb3dJUGFJcGYzUjRxeHJMeXJpWjIxRDVmdThrR2pWR2JPYVpiQkVFek0zZG4?oc=5)
+
+---
+
+### [Saturation genome editing of BRCA1 across cell types improves interpretation of variant pathogenicity](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xdGl4SXQ5X3J6VG5vSzFxa0JDM3UybzFsMFU1VmdiTzBQdmZOVmFQelpwVWMwazBOTklUQk9qR3pYeHptV3p0V0plZXpmLXNFcDFOdkdRejBSNmtpY2ZJ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xdGl4SXQ5X3J6VG5vSzFxa0JDM3UybzFsMFU1VmdiTzBQdmZOVmFQelpwVWMwazBOTklUQk9qR3pYeHptV3p0V0plZXpmLXNFcDFOdkdRejBSNmtpY2ZJ?oc=5)
 
 ---
 
@@ -120,6 +152,14 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdDlBc2JBYlV1
 
 ---
 
+### [Michele Ronco: “A 35 anni ho scoperto di avere un tumore raro, così ho cominciato a studiarlo” - la Repubblica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUGtVc3oxOVdERi1xTDF4WXdoejJMa3hVdU9zd3d3X1JjWU9GYTZBZkNiR3dicGNpLXh0NUVrSzg0ZVNBMFVxbE95VHkxdndFQ3FiY2w2TVhFWTBBUmF1WGdxVW5iZ2JmS0tQeGJjN1lzX2daZGRFTUFIQUMyWTZfTllKWGd1RjRlemE4Z3MxMUVkOEtDZkp6OTFsM1JicmVwSWg3bElGRDB1QTRj0gGyAUFVX3lxTFA2VGYxM0N2WVJXZXpsUlBBamtaa0Q1XzA5SG43X1pqREpfTmpNS1BvaTRNWkFFeklXcXhvcjRvU2pfVWlPWTM0TllGdjduN0VjNlNzVjQyRDBtRHZpbGNSUzNUNVJ1d3QwQ2tSdC04QVBFZjdfWnB1TFhEQWp2NzlxcHljTkJqTHNKN3dVTmo4NC04dDlYZmpCeFB5U19JMHcweU5Ca19aZnRFcEEyazhhUWc?oc=5)
+
+2026-11-11 <span class="news-indication-tag">tumor</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUGtVc3oxOVdERi1xTDF4WXdoejJMa3hVdU9zd3d3X1JjWU9GYTZBZkNiR3dicGNpLXh0NUVrSzg0ZVNBMFVxbE95VHkxdndFQ3FiY2w2TVhFWTBBUmF1WGdxVW5iZ2JmS0tQeGJjN1lzX2daZGRFTUFIQUMyWTZfTllKWGd1RjRlemE4Z3MxMUVkOEtDZkp6OTFsM1JicmVwSWg3bElGRDB1QTRj0gGyAUFVX3lxTFA2VGYxM0N2WVJXZXpsUlBBamtaa0Q1XzA5SG43X1pqREpfTmpNS1BvaTRNWkFFeklXcXhvcjRvU2pfVWlPWTM0TllGdjduN0VjNlNzVjQyRDBtRHZpbGNSUzNUNVJ1d3QwQ2tSdC04QVBFZjdfWnB1TFhEQWp2NzlxcHljTkJqTHNKN3dVTmo4NC04dDlYZmpCeFB5U19JMHcweU5Ca19aZnRFcEEyazhhUWc?oc=5)
+
+---
+
 ### [Vitamina C e tumore dell’esofago: nello studio su 83mila persone rischio inferiore del 38% negli uomini](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQmY1aXU0aGlDbmdyVnY0cDJNMDZGRnBFeVNhUV9YWTIxNTVUU3ZRTEpYSnRTXzliYTVETlBxSkxMWFZpYTBtU2NxWE91YldiajNXdkY0SlktUTZFVkVrUWpMY3ZoTWRraUVPRHVTYXh3bnIzUDFBMDdxUGhycUJ2d19ZRGRNNmRvMWI4dkc2TmhIM0hfVUtWa0JlaGhLM3cxc2h6RE1lb0ZtMmJVTkZmemc1b2lSd1NCREJXMzhDUDlndkpwaFBOS1RYaG1xM3J3ZUw3YWljNThiVXljMHctWHhtSndDNGdBVVducnlISjN1dw?oc=5)
 
 2026-11-11 <span class="news-indication-tag">tumor</span>
@@ -128,11 +168,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQmY1
 
 ---
 
-### [Red flag symptom in legs could be sign of heart failure](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+### [Red flag symptom in legs could be sign of heart failure - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 2026-11-11 <span class="news-indication-tag">heart failure</span>
 
-Source: [Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 ---
 

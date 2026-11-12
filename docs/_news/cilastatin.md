@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Cilastatin. 9 predicted indications."
 permalink: /news/cilastatin/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Cilastatin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Cilastatin?">
-<strong>Cilastatin</strong> currently has <strong>246 news articles</strong>, with 9 predicted indications.
+<strong>Cilastatin</strong> currently has <strong>252 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Cilastatin with the latest h
 <p><a href="{{ '/drugs/cilastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (246)
+## Related News (252)
+
+### [Sunbed firms must not downplay cancer risk, says watchdog](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUUtTRHNISzN1UUo1OTBKNTQyRlhPbmRES0NjVEt5TnduQ3BPd1BpWWdXNVJONHdFSjgxN0xnTGZXLTBQYXhMX2p0Q0k0S3BCamdSemtfSk9zM0p1Umc?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUUtTRHNISzN1UUo1OTBKNTQyRlhPbmRES0NjVEt5TnduQ3BPd1BpWWdXNVJONHdFSjgxN0xnTGZXLTBQYXhMX2p0Q0k0S3BCamdSemtfSk9zM0p1Umc?oc=5)
+
+---
+
+### [Trial aims to spare men from unnecessary prostate cancer treatment - The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0lRUUNBaFZ0NUZJdW5KT0R4QkJQLUh4U05qN2d5b1VzTks2NzBXWUVwWGtXZWVzdDcwSmJDZFRIaXNnVHdRd3pxNEk0aVZENFB0U1o2VXBjaGl4LVpOeTBfbEQwbE1yM0xSZjhaNGQ0M2FLR1ZJdHBHd1NsUGNhS0hNR3htVl9ZZEJzZUNzdlBRUQ?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0lRUUNBaFZ0NUZJdW5KT0R4QkJQLUh4U05qN2d5b1VzTks2NzBXWUVwWGtXZWVzdDcwSmJDZFRIaXNnVHdRd3pxNEk0aVZENFB0U1o2VXBjaGl4LVpOeTBfbEQwbE1yM0xSZjhaNGQ0M2FLR1ZJdHBHd1NsUGNhS0hNR3htVl9ZZEJzZUNzdlBRUQ?oc=5)
+
+---
 
 ### [VHL, la malattia rara che predispone a più tumori: perché scoprirla presto conta](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEY1dkd0cTRjUWUtaHdLZkZiMC1sVUlrd1puTVhyRXM1Y1RHTDJsTVVHUzFyMVRMUEFDMmdBZGZ2cWhTR3ZRcXFqRWtxYXpNc0ZFU0FOY1RtclRTY1M0dWpkNHZFUFVsWG9iNUVpMGRzaWlPLVVWYVlwQmxxbkZKSzBjVEVEczl3Q21uUGw1bWt4cG1oajJkNGpxOXJWU09FejYxbnBZYUlwbGdQS1BmV040ZEpHemwyMnBjQ0ZwY1U3aHZaYUoydQ?oc=5)
 
@@ -56,6 +72,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEY1
 2026-11-11 <span class="news-indication-tag">cancer</span>
 
 Source: [Sud Ouest](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3Z1Z1UxRnEycmx3Y1paZ0NBMExBVVo0cUhIV3g5ejdvdmMwVjFOUHEtWnExdVViQ1g5OTZGdVpDdHZvaV8wQWFfVnV4QmQ1cnB4S09aaTZTaXM1cUlQNTJ2NzFRSlhSNDJBMkNZVlhpM0loUlh6eDJKeW5pcUxvcG9IUHRjV2VmNzRZcE40Wk5xLW5UX3hjREUyR2FWQktLblNVRnVTUFg0cHZYUUVvdjgyM205aDhaZEE?oc=5)
+
+---
+
+### [Bluttest mit RNA-Signal erkennt frühen Vorstufe-Status bei Eierstockkrebs - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXRYeHBJN0xSQ01LVjdVM2hESVRtVUUxQkczNWIzNXN1NUJrUG1TWEU4Wkx1WnpHUnNSTUNfV1p0LUtYbGQ3c3JPNE56YnhBYXJKTFRwUGZYQVBmaUFQbUtzdElidmJXUmt0bEk1WWpRMnQxZ1ZtWV9VM25pTTBIcTZ0MGVaMEtnNnBZeXpMelVzMnpxMDllbjZEUXQ2ZGJpRGFLNzY5RTRjdw?oc=5)
+
+2026-11-11 <span class="news-indication-tag">Krebs</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXRYeHBJN0xSQ01LVjdVM2hESVRtVUUxQkczNWIzNXN1NUJrUG1TWEU4Wkx1WnpHUnNSTUNfV1p0LUtYbGQ3c3JPNE56YnhBYXJKTFRwUGZYQVBmaUFQbUtzdElidmJXUmt0bEk1WWpRMnQxZ1ZtWV9VM25pTTBIcTZ0MGVaMEtnNnBZeXpMelVzMnpxMDllbjZEUXQ2ZGJpRGFLNzY5RTRjdw?oc=5)
 
 ---
 
@@ -83,11 +107,27 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV9
 
 ---
 
+### [Saturation genome editing of BRCA1 across cell types improves interpretation of variant pathogenicity](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xdGl4SXQ5X3J6VG5vSzFxa0JDM3UybzFsMFU1VmdiTzBQdmZOVmFQelpwVWMwazBOTklUQk9qR3pYeHptV3p0V0plZXpmLXNFcDFOdkdRejBSNmtpY2ZJ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xdGl4SXQ5X3J6VG5vSzFxa0JDM3UybzFsMFU1VmdiTzBQdmZOVmFQelpwVWMwazBOTklUQk9qR3pYeHptV3p0V0plZXpmLXNFcDFOdkdRejBSNmtpY2ZJ?oc=5)
+
+---
+
 ### [«Il medicinale oncologico venduto solo negli Usa? Funziona ma ha costi esorbitanti: equilibrio difficile per il sistema sanitario» - Corriere del Veneto](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNLTlFNWJ2UE1WMzk0NlBxX0d3dGpHaUF4VDVQMEhWaFJyVnBQTXpLemVFWVMwaW01UlprVXlhaWxNY1ZpZFpacnc0OFlKZll2bWJjdnNoUG41Q2xXeUpuVVZlMi1KQ2ZkRklNUFpjUEowRHVEai1UYU1oQTZpckZHSllteVBxYnE0YTdvWDAwc0xiMnNvRWtsckxMZldvVFdWcFhTYmpmSnd0b3pfWGtlYTNCMUthZmhBUVNTb0ZEUWcxVHJVazcwd1pQenNGOEdfVTlhZ190MHZURklwdG9Jc1dqMXUzaGdXR2NzTE91XzdkLW5fc042M3VVVnRpT001b0R2Z3lQT1lqcG9SbFU1QVJDbHVONGRucjVWLTQ5M0tMNE42eF9oR0lUVXI1bEpaeTZyUXJubGgwSGMycG5BSlY5bzRVTHFqUzBRUWpVN2ZXM29oMEhjSUt2cWVTV2E5U21F0gHoAkFVX3lxTE5neDJZTE4zd0xYOE1vS3NTdllYTFd3TFozanIwQl8zbE5WUmRQckRtdG9Yb25RU1hJR190SExDZ3JSQXpBNmVVUlFHUFZGeDllSVdEeDFSX2tXX0Q4cHU3SVZmRG16NXRraDlkUnFkeFFYOGVRTGZ2bEdzNXV2U3pDQlpBaFh0al8zVXNxajhjTDIzUjd4bUdjcjBfb282cDg1OFNzNUJnTUFOQXRYY3VsZHc2a1VCRUtFRlFSLU15MnZCUGVFakh5SWlZZmNhWGhDa3NzMFB0TEhhcU5SSC1XVFNBVDRCUFkybm1ZRkNzV1piWFQ1N2pINGltOWhmSjRmTUZacHN6WTh1ZWstNnBWZ29ZdV9tUmxMTlh6MloybkY0YzVfeTVSN1QxVExkQ1haUXZFcHppWXVNWkp6azl2d1NZV1k5Xy14bDNSU3dGUERKcEdYeUpjcjRRVC1lTzhlWTE2X1J0SQ?oc=5)
 
 2026-11-11 <span class="news-indication-tag">cancro</span>
 
 Source: [Corriere del Veneto](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNLTlFNWJ2UE1WMzk0NlBxX0d3dGpHaUF4VDVQMEhWaFJyVnBQTXpLemVFWVMwaW01UlprVXlhaWxNY1ZpZFpacnc0OFlKZll2bWJjdnNoUG41Q2xXeUpuVVZlMi1KQ2ZkRklNUFpjUEowRHVEai1UYU1oQTZpckZHSllteVBxYnE0YTdvWDAwc0xiMnNvRWtsckxMZldvVFdWcFhTYmpmSnd0b3pfWGtlYTNCMUthZmhBUVNTb0ZEUWcxVHJVazcwd1pQenNGOEdfVTlhZ190MHZURklwdG9Jc1dqMXUzaGdXR2NzTE91XzdkLW5fc042M3VVVnRpT001b0R2Z3lQT1lqcG9SbFU1QVJDbHVONGRucjVWLTQ5M0tMNE42eF9oR0lUVXI1bEpaeTZyUXJubGgwSGMycG5BSlY5bzRVTHFqUzBRUWpVN2ZXM29oMEhjSUt2cWVTV2E5U21F0gHoAkFVX3lxTE5neDJZTE4zd0xYOE1vS3NTdllYTFd3TFozanIwQl8zbE5WUmRQckRtdG9Yb25RU1hJR190SExDZ3JSQXpBNmVVUlFHUFZGeDllSVdEeDFSX2tXX0Q4cHU3SVZmRG16NXRraDlkUnFkeFFYOGVRTGZ2bEdzNXV2U3pDQlpBaFh0al8zVXNxajhjTDIzUjd4bUdjcjBfb282cDg1OFNzNUJnTUFOQXRYY3VsZHc2a1VCRUtFRlFSLU15MnZCUGVFakh5SWlZZmNhWGhDa3NzMFB0TEhhcU5SSC1XVFNBVDRCUFkybm1ZRkNzV1piWFQ1N2pINGltOWhmSjRmTUZacHN6WTh1ZWstNnBWZ29ZdV9tUmxMTlh6MloybkY0YzVfeTVSN1QxVExkQ1haUXZFcHppWXVNWkp6azl2d1NZV1k5Xy14bDNSU3dGUERKcEdYeUpjcjRRVC1lTzhlWTE2X1J0SQ?oc=5)
+
+---
+
+### [Un médico advierte: dejar el tabaco es clave para frenar la EPOC](https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RTQ0pOTmVmWUdRb2RjVnZRVzJlNTl0eVV5aXNHcm5UYzJ4dEg2RVlvQkVLWnhTNGtQTnZrTzhYRjY2WGtsTFloYnd4Yk9KY1VmTERuZU51cy02Q2ZOVlkzMEpaQ3NfRVhjSlc0clk0czkySm1fenRFRERCaHZHSXBkbFprYnhhc0pzbE1YUU1mLWMyeXNSTWNQdkdwZ9IBowFBVV95cUxQR0ZKek1kWXM1ZnpQTjFkRDFDOHZEbHlBUXdtNGJHanBBc0tCYVh3WVdxRWtKM0x5cDd5RkZWY0hNY2N6TXpFeTFOekFmczB5dWpRTlBuSk55TVdVX0k4M2FuM3E3QUszQXFPMTBQRFk2NzI3VGhLSjh5Y1JsT2I2Q21HUFVnR2lUcnpfUzhrOExZUHNvaFpxLXRpVmd2cUtBQkhn?oc=5)
+
+2026-11-11 <span class="news-indication-tag">EPOC</span>
+
+Source: [Demócrata](https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RTQ0pOTmVmWUdRb2RjVnZRVzJlNTl0eVV5aXNHcm5UYzJ4dEg2RVlvQkVLWnhTNGtQTnZrTzhYRjY2WGtsTFloYnd4Yk9KY1VmTERuZU51cy02Q2ZOVlkzMEpaQ3NfRVhjSlc0clk0czkySm1fenRFRERCaHZHSXBkbFprYnhhc0pzbE1YUU1mLWMyeXNSTWNQdkdwZ9IBowFBVV95cUxQR0ZKek1kWXM1ZnpQTjFkRDFDOHZEbHlBUXdtNGJHanBBc0tCYVh3WVdxRWtKM0x5cDd5RkZWY0hNY2N6TXpFeTFOekFmczB5dWpRTlBuSk55TVdVX0k4M2FuM3E3QUszQXFPMTBQRFk2NzI3VGhLSjh5Y1JsT2I2Q21HUFVnR2lUcnpfUzhrOExZUHNvaFpxLXRpVmd2cUtBQkhn?oc=5)
 
 ---
 
@@ -128,6 +168,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NGM4TnUzZ
 2026-11-11 <span class="news-indication-tag">Krebs</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdDlBc2JBYlV1a2tXSGcwa19oYlJOeFVNd2lGNFhscVpkNDIxNHNTQjRFMElfRFdLNm9vNTUyZ3BzQTZpTzBDVS1ySFZaTXphMjJnYVhCblpCYkhrZW84MGQtSkRJVkFKek51djlQaWVxY3VQSzhhR1VpX3pTbEdlUkhHcG1hVkRBcTJraE9sNVBRWmNCdlRoZkVhcEltQ1lmUXBaNWVQT21zejRMbk95elJxdlprMzI0dUpETGxFanVYZ0hmT3VEcmg5SnoxZ0RTcGU2Qm03V0JEdGp6dzgtdzBxaw?oc=5)
+
+---
+
+### [Michele Ronco: “A 35 anni ho scoperto di avere un tumore raro, così ho cominciato a studiarlo” - la Repubblica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUGtVc3oxOVdERi1xTDF4WXdoejJMa3hVdU9zd3d3X1JjWU9GYTZBZkNiR3dicGNpLXh0NUVrSzg0ZVNBMFVxbE95VHkxdndFQ3FiY2w2TVhFWTBBUmF1WGdxVW5iZ2JmS0tQeGJjN1lzX2daZGRFTUFIQUMyWTZfTllKWGd1RjRlemE4Z3MxMUVkOEtDZkp6OTFsM1JicmVwSWg3bElGRDB1QTRj0gGyAUFVX3lxTFA2VGYxM0N2WVJXZXpsUlBBamtaa0Q1XzA5SG43X1pqREpfTmpNS1BvaTRNWkFFeklXcXhvcjRvU2pfVWlPWTM0TllGdjduN0VjNlNzVjQyRDBtRHZpbGNSUzNUNVJ1d3QwQ2tSdC04QVBFZjdfWnB1TFhEQWp2NzlxcHljTkJqTHNKN3dVTmo4NC04dDlYZmpCeFB5U19JMHcweU5Ca19aZnRFcEEyazhhUWc?oc=5)
+
+2026-11-11 <span class="news-indication-tag">tumor</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUGtVc3oxOVdERi1xTDF4WXdoejJMa3hVdU9zd3d3X1JjWU9GYTZBZkNiR3dicGNpLXh0NUVrSzg0ZVNBMFVxbE95VHkxdndFQ3FiY2w2TVhFWTBBUmF1WGdxVW5iZ2JmS0tQeGJjN1lzX2daZGRFTUFIQUMyWTZfTllKWGd1RjRlemE4Z3MxMUVkOEtDZkp6OTFsM1JicmVwSWg3bElGRDB1QTRj0gGyAUFVX3lxTFA2VGYxM0N2WVJXZXpsUlBBamtaa0Q1XzA5SG43X1pqREpfTmpNS1BvaTRNWkFFeklXcXhvcjRvU2pfVWlPWTM0TllGdjduN0VjNlNzVjQyRDBtRHZpbGNSUzNUNVJ1d3QwQ2tSdC04QVBFZjdfWnB1TFhEQWp2NzlxcHljTkJqTHNKN3dVTmo4NC04dDlYZmpCeFB5U19JMHcweU5Ca19aZnRFcEEyazhhUWc?oc=5)
 
 ---
 

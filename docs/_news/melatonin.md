@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Melatonin. 0 predicted indications."
 permalink: /news/melatonin/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Melatonin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>79 news articles</strong>, with 0 predicted indications.
+<strong>Melatonin</strong> currently has <strong>80 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (79)
+## Related News (80)
 
 ### [Move over BMI: new obesity definition is better for predicting your health](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nakdYdVAtWEZ1TmZDTHZJT09KWUVXcGNrRG44SmdvMGRkTzhMOFdpTDY3NXNzSXhmTnNDbEdsQk5pYno4WURKTzdPalgwN1lGOTNvcUFOVmpoNDh3TGU0?oc=5)
 
 2026-11-11 <span class="news-indication-tag">obesity</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nakdYdVAtWEZ1TmZDTHZJT09KWUVXcGNrRG44SmdvMGRkTzhMOFdpTDY3NXNzSXhmTnNDbEdsQk5pYno4WURKTzdPalgwN1lGOTNvcUFOVmpoNDh3TGU0?oc=5)
+
+---
+
+### [Studie legt nahe, dass nicht jede Adipositas mit gesundheitlichen Problemen einhergeht - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSEtFRURtRTQ3dEJ1SkhZTzFOSXNQdktmRU1CZml0R21hc2FGVTFJVVNiQ0pHU3lBdzg0NV9Eei02WFNaNWo2ajdmYzllZVotUFFkbERpMVJsOEU3M3hXUWg3WUZxbFZBdDdXSk43VWhuY3RSWkFIX2YwLUotb1RkZ2JGTl9vVkY5SzVicG9VdjVPM2FBR1pfcmlybktmcWw0LXFFZDZheXFJd2hTQi0xRFBkZVBsVW9zZUxBWUlTVVB2TXhSVzVKVWRid1RfX3haZS16ZlNpS2U3SnhncFpvdU1qd2QyQQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">Adipositas</span>
+
+Source: [MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSEtFRURtRTQ3dEJ1SkhZTzFOSXNQdktmRU1CZml0R21hc2FGVTFJVVNiQ0pHU3lBdzg0NV9Eei02WFNaNWo2ajdmYzllZVotUFFkbERpMVJsOEU3M3hXUWg3WUZxbFZBdDdXSk43VWhuY3RSWkFIX2YwLUotb1RkZ2JGTl9vVkY5SzVicG9VdjVPM2FBR1pfcmlybktmcWw0LXFFZDZheXFJd2hTQi0xRFBkZVBsVW9zZUxBWUlTVVB2TXhSVzVKVWRid1RfX3haZS16ZlNpS2U3SnhncFpvdU1qd2QyQQ?oc=5)
 
 ---
 
@@ -122,7 +130,7 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3V2U3l0NjJ
 
 ### [¿Qué pasa realmente cuando dejas Ozempic? Los efectos secundarios que debes conocer - National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
 
-2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
 

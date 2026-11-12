@@ -3,9 +3,9 @@ layout: default
 title: "EPOC (copd) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about EPOC (copd). 10 articles, 26 related drugs."
+description: "Health news about EPOC (copd). 11 articles, 26 related drugs."
 permalink: /news/copd/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # EPOC (copd) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about EPOC (copd)?">
-<strong>EPOC (copd)</strong> currently has <strong>10 news articles</strong> and 26 related drugs.
+<strong>EPOC (copd)</strong> currently has <strong>11 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “EPOC” and lists the 
 </ul>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Un médico advierte: dejar el tabaco es clave para frenar la EPOC](https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RTQ0pOTmVmWUdRb2RjVnZRVzJlNTl0eVV5aXNHcm5UYzJ4dEg2RVlvQkVLWnhTNGtQTnZrTzhYRjY2WGtsTFloYnd4Yk9KY1VmTERuZU51cy02Q2ZOVlkzMEpaQ3NfRVhjSlc0clk0czkySm1fenRFRERCaHZHSXBkbFprYnhhc0pzbE1YUU1mLWMyeXNSTWNQdkdwZ9IBowFBVV95cUxQR0ZKek1kWXM1ZnpQTjFkRDFDOHZEbHlBUXdtNGJHanBBc0tCYVh3WVdxRWtKM0x5cDd5RkZWY0hNY2N6TXpFeTFOekFmczB5dWpRTlBuSk55TVdVX0k4M2FuM3E3QUszQXFPMTBQRFk2NzI3VGhLSjh5Y1JsT2I2Q21HUFVnR2lUcnpfUzhrOExZUHNvaFpxLXRpVmd2cUtBQkhn?oc=5)
+
+2026-11-11
+
+Source: [Demócrata](https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RTQ0pOTmVmWUdRb2RjVnZRVzJlNTl0eVV5aXNHcm5UYzJ4dEg2RVlvQkVLWnhTNGtQTnZrTzhYRjY2WGtsTFloYnd4Yk9KY1VmTERuZU51cy02Q2ZOVlkzMEpaQ3NfRVhjSlc0clk0czkySm1fenRFRERCaHZHSXBkbFprYnhhc0pzbE1YUU1mLWMyeXNSTWNQdkdwZ9IBowFBVV95cUxQR0ZKek1kWXM1ZnpQTjFkRDFDOHZEbHlBUXdtNGJHanBBc0tCYVh3WVdxRWtKM0x5cDd5RkZWY0hNY2N6TXpFeTFOekFmczB5dWpRTlBuSk55TVdVX0k4M2FuM3E3QUszQXFPMTBQRFk2NzI3VGhLSjh5Y1JsT2I2Q21HUFVnR2lUcnpfUzhrOExZUHNvaFpxLXRpVmd2cUtBQkhn?oc=5)
+
+---
 
 ### [Médico insta a dejar de fumar para prevenir o detener el avance de la EPOC](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzlnUWlRRVM0MndkQWUyQVgyTGRzN3cwZXo2SkFVb0FoZnJGdHlhVWYyQ19MalFpSlh6QVgweUVwS05odEVNM2ltU2lGUGpyM0NqeEdHTlJIb1AtZFhFTTJydlM2QkdzYkpiY2h3aWozYkhPVEhhekNoT2JaM1J2M1FZYU9GeTdSb1B0bWFaM2VMUEJVNG1DdEpMT3I1WTBWdTNwVG9qeEV0Mm8yeS0wUTl2ZmpYSVo2ZkJ0bS1IS0dwdXBMdHc?oc=5)
 

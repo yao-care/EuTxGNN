@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "obesidad (obesity) News"
+title: "Adipositas (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 75 articles, 8 related drugs."
+description: "Health news about Adipositas (obesity). 76 articles, 8 related drugs."
 permalink: /news/obesity/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
-# obesidad (obesity) News
+# Adipositas (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>75 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
+<strong>Adipositas (obesity)</strong> currently has <strong>76 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “obesidad” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Adipositas” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -34,13 +34,21 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (75)
+## Related News (76)
 
 ### [Move over BMI: new obesity definition is better for predicting your health](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nakdYdVAtWEZ1TmZDTHZJT09KWUVXcGNrRG44SmdvMGRkTzhMOFdpTDY3NXNzSXhmTnNDbEdsQk5pYno4WURKTzdPalgwN1lGOTNvcUFOVmpoNDh3TGU0?oc=5)
 
 2026-11-11
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nakdYdVAtWEZ1TmZDTHZJT09KWUVXcGNrRG44SmdvMGRkTzhMOFdpTDY3NXNzSXhmTnNDbEdsQk5pYno4WURKTzdPalgwN1lGOTNvcUFOVmpoNDh3TGU0?oc=5)
+
+---
+
+### [Studie legt nahe, dass nicht jede Adipositas mit gesundheitlichen Problemen einhergeht - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSEtFRURtRTQ3dEJ1SkhZTzFOSXNQdktmRU1CZml0R21hc2FGVTFJVVNiQ0pHU3lBdzg0NV9Eei02WFNaNWo2ajdmYzllZVotUFFkbERpMVJsOEU3M3hXUWg3WUZxbFZBdDdXSk43VWhuY3RSWkFIX2YwLUotb1RkZ2JGTl9vVkY5SzVicG9VdjVPM2FBR1pfcmlybktmcWw0LXFFZDZheXFJd2hTQi0xRFBkZVBsVW9zZUxBWUlTVVB2TXhSVzVKVWRid1RfX3haZS16ZlNpS2U3SnhncFpvdU1qd2QyQQ?oc=5)
+
+2026-11-11
+
+Source: [MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSEtFRURtRTQ3dEJ1SkhZTzFOSXNQdktmRU1CZml0R21hc2FGVTFJVVNiQ0pHU3lBdzg0NV9Eei02WFNaNWo2ajdmYzllZVotUFFkbERpMVJsOEU3M3hXUWg3WUZxbFZBdDdXSk43VWhuY3RSWkFIX2YwLUotb1RkZ2JGTl9vVkY5SzVicG9VdjVPM2FBR1pfcmlybktmcWw0LXFFZDZheXFJd2hTQi0xRFBkZVBsVW9zZUxBWUlTVVB2TXhSVzVKVWRid1RfX3haZS16ZlNpS2U3SnhncFpvdU1qd2QyQQ?oc=5)
 
 ---
 

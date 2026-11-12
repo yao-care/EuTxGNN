@@ -3,9 +3,9 @@ layout: default
 title: "tumor (cancer) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 225 articles, 229 related drugs."
+description: "Health news about tumor (cancer). 230 articles, 229 related drugs."
 permalink: /news/cancer/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # tumor (cancer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>225 news articles</strong> and 229 related drugs.
+<strong>tumor (cancer)</strong> currently has <strong>230 news articles</strong> and 229 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -190,7 +190,23 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (225)
+## Related News (230)
+
+### [Sunbed firms must not downplay cancer risk, says watchdog](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUUtTRHNISzN1UUo1OTBKNTQyRlhPbmRES0NjVEt5TnduQ3BPd1BpWWdXNVJONHdFSjgxN0xnTGZXLTBQYXhMX2p0Q0k0S3BCamdSemtfSk9zM0p1Umc?oc=5)
+
+2026-11-12
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUUtTRHNISzN1UUo1OTBKNTQyRlhPbmRES0NjVEt5TnduQ3BPd1BpWWdXNVJONHdFSjgxN0xnTGZXLTBQYXhMX2p0Q0k0S3BCamdSemtfSk9zM0p1Umc?oc=5)
+
+---
+
+### [Trial aims to spare men from unnecessary prostate cancer treatment - The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0lRUUNBaFZ0NUZJdW5KT0R4QkJQLUh4U05qN2d5b1VzTks2NzBXWUVwWGtXZWVzdDcwSmJDZFRIaXNnVHdRd3pxNEk0aVZENFB0U1o2VXBjaGl4LVpOeTBfbEQwbE1yM0xSZjhaNGQ0M2FLR1ZJdHBHd1NsUGNhS0hNR3htVl9ZZEJzZUNzdlBRUQ?oc=5)
+
+2026-11-12
+
+Source: [The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0lRUUNBaFZ0NUZJdW5KT0R4QkJQLUh4U05qN2d5b1VzTks2NzBXWUVwWGtXZWVzdDcwSmJDZFRIaXNnVHdRd3pxNEk0aVZENFB0U1o2VXBjaGl4LVpOeTBfbEQwbE1yM0xSZjhaNGQ0M2FLR1ZJdHBHd1NsUGNhS0hNR3htVl9ZZEJzZUNzdlBRUQ?oc=5)
+
+---
 
 ### [VHL, la malattia rara che predispone a più tumori: perché scoprirla presto conta](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEY1dkd0cTRjUWUtaHdLZkZiMC1sVUlrd1puTVhyRXM1Y1RHTDJsTVVHUzFyMVRMUEFDMmdBZGZ2cWhTR3ZRcXFqRWtxYXpNc0ZFU0FOY1RtclRTY1M0dWpkNHZFUFVsWG9iNUVpMGRzaWlPLVVWYVlwQmxxbkZKSzBjVEVEczl3Q21uUGw1bWt4cG1oajJkNGpxOXJWU09FejYxbnBZYUlwbGdQS1BmV040ZEpHemwyMnBjQ0ZwY1U3aHZaYUoydQ?oc=5)
 
@@ -205,6 +221,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEY1
 2026-11-11
 
 Source: [Sud Ouest](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3Z1Z1UxRnEycmx3Y1paZ0NBMExBVVo0cUhIV3g5ejdvdmMwVjFOUHEtWnExdVViQ1g5OTZGdVpDdHZvaV8wQWFfVnV4QmQ1cnB4S09aaTZTaXM1cUlQNTJ2NzFRSlhSNDJBMkNZVlhpM0loUlh6eDJKeW5pcUxvcG9IUHRjV2VmNzRZcE40Wk5xLW5UX3hjREUyR2FWQktLblNVRnVTUFg0cHZYUUVvdjgyM205aDhaZEE?oc=5)
+
+---
+
+### [Bluttest mit RNA-Signal erkennt frühen Vorstufe-Status bei Eierstockkrebs - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXRYeHBJN0xSQ01LVjdVM2hESVRtVUUxQkczNWIzNXN1NUJrUG1TWEU4Wkx1WnpHUnNSTUNfV1p0LUtYbGQ3c3JPNE56YnhBYXJKTFRwUGZYQVBmaUFQbUtzdElidmJXUmt0bEk1WWpRMnQxZ1ZtWV9VM25pTTBIcTZ0MGVaMEtnNnBZeXpMelVzMnpxMDllbjZEUXQ2ZGJpRGFLNzY5RTRjdw?oc=5)
+
+2026-11-11
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXRYeHBJN0xSQ01LVjdVM2hESVRtVUUxQkczNWIzNXN1NUJrUG1TWEU4Wkx1WnpHUnNSTUNfV1p0LUtYbGQ3c3JPNE56YnhBYXJKTFRwUGZYQVBmaUFQbUtzdElidmJXUmt0bEk1WWpRMnQxZ1ZtWV9VM25pTTBIcTZ0MGVaMEtnNnBZeXpMelVzMnpxMDllbjZEUXQ2ZGJpRGFLNzY5RTRjdw?oc=5)
 
 ---
 
@@ -229,6 +253,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTFRB
 2026-11-11
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSWFYQlJtNTgtMktpdl93NFY4MGhEUWczSlFTWHRYeTZjQlg2RmxwRWtSaU1Ba2wzT3BEZGFhZ1RxMWNoWlNpQ0djYWNwZGpYRE5NS2U0U05EcGhNNnFMUEdOb3A2Y1VZbF9NS3E4eVZGbDlNclQ5TnNuQ21RQ2xRYjNQcy1yNzd4OE4xcm0zT1F3eGhCUHdNSUhmNWU4bWpuNTh6VmM1djZmUzRGb3dJUGFJcGYzUjRxeHJMeXJpWjIxRDVmdThrR2pWR2JPYVpiQkVFek0zZG4?oc=5)
+
+---
+
+### [Saturation genome editing of BRCA1 across cell types improves interpretation of variant pathogenicity](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xdGl4SXQ5X3J6VG5vSzFxa0JDM3UybzFsMFU1VmdiTzBQdmZOVmFQelpwVWMwazBOTklUQk9qR3pYeHptV3p0V0plZXpmLXNFcDFOdkdRejBSNmtpY2ZJ?oc=5)
+
+2026-11-11
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xdGl4SXQ5X3J6VG5vSzFxa0JDM3UybzFsMFU1VmdiTzBQdmZOVmFQelpwVWMwazBOTklUQk9qR3pYeHptV3p0V0plZXpmLXNFcDFOdkdRejBSNmtpY2ZJ?oc=5)
 
 ---
 
@@ -269,6 +301,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NGM4TnUzZ
 2026-11-11
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdDlBc2JBYlV1a2tXSGcwa19oYlJOeFVNd2lGNFhscVpkNDIxNHNTQjRFMElfRFdLNm9vNTUyZ3BzQTZpTzBDVS1ySFZaTXphMjJnYVhCblpCYkhrZW84MGQtSkRJVkFKek51djlQaWVxY3VQSzhhR1VpX3pTbEdlUkhHcG1hVkRBcTJraE9sNVBRWmNCdlRoZkVhcEltQ1lmUXBaNWVQT21zejRMbk95elJxdlprMzI0dUpETGxFanVYZ0hmT3VEcmg5SnoxZ0RTcGU2Qm03V0JEdGp6dzgtdzBxaw?oc=5)
+
+---
+
+### [Michele Ronco: “A 35 anni ho scoperto di avere un tumore raro, così ho cominciato a studiarlo” - la Repubblica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUGtVc3oxOVdERi1xTDF4WXdoejJMa3hVdU9zd3d3X1JjWU9GYTZBZkNiR3dicGNpLXh0NUVrSzg0ZVNBMFVxbE95VHkxdndFQ3FiY2w2TVhFWTBBUmF1WGdxVW5iZ2JmS0tQeGJjN1lzX2daZGRFTUFIQUMyWTZfTllKWGd1RjRlemE4Z3MxMUVkOEtDZkp6OTFsM1JicmVwSWg3bElGRDB1QTRj0gGyAUFVX3lxTFA2VGYxM0N2WVJXZXpsUlBBamtaa0Q1XzA5SG43X1pqREpfTmpNS1BvaTRNWkFFeklXcXhvcjRvU2pfVWlPWTM0TllGdjduN0VjNlNzVjQyRDBtRHZpbGNSUzNUNVJ1d3QwQ2tSdC04QVBFZjdfWnB1TFhEQWp2NzlxcHljTkJqTHNKN3dVTmo4NC04dDlYZmpCeFB5U19JMHcweU5Ca19aZnRFcEEyazhhUWc?oc=5)
+
+2026-11-11
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUGtVc3oxOVdERi1xTDF4WXdoejJMa3hVdU9zd3d3X1JjWU9GYTZBZkNiR3dicGNpLXh0NUVrSzg0ZVNBMFVxbE95VHkxdndFQ3FiY2w2TVhFWTBBUmF1WGdxVW5iZ2JmS0tQeGJjN1lzX2daZGRFTUFIQUMyWTZfTllKWGd1RjRlemE4Z3MxMUVkOEtDZkp6OTFsM1JicmVwSWg3bElGRDB1QTRj0gGyAUFVX3lxTFA2VGYxM0N2WVJXZXpsUlBBamtaa0Q1XzA5SG43X1pqREpfTmpNS1BvaTRNWkFFeklXcXhvcjRvU2pfVWlPWTM0TllGdjduN0VjNlNzVjQyRDBtRHZpbGNSUzNUNVJ1d3QwQ2tSdC04QVBFZjdfWnB1TFhEQWp2NzlxcHljTkJqTHNKN3dVTmo4NC04dDlYZmpCeFB5U19JMHcweU5Ca19aZnRFcEEyazhhUWc?oc=5)
 
 ---
 

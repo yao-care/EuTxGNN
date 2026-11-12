@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Aliskiren. 6 predicted indications."
 permalink: /news/aliskiren/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Aliskiren News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Aliskiren?">
-<strong>Aliskiren</strong> currently has <strong>354 news articles</strong>, with 6 predicted indications.
+<strong>Aliskiren</strong> currently has <strong>361 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,23 @@ This page combines the AI-predicted indications for Aliskiren with the latest he
 <p><a href="{{ '/drugs/aliskiren/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (354)
+## Related News (361)
+
+### [Sunbed firms must not downplay cancer risk, says watchdog](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUUtTRHNISzN1UUo1OTBKNTQyRlhPbmRES0NjVEt5TnduQ3BPd1BpWWdXNVJONHdFSjgxN0xnTGZXLTBQYXhMX2p0Q0k0S3BCamdSemtfSk9zM0p1Umc?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUUtTRHNISzN1UUo1OTBKNTQyRlhPbmRES0NjVEt5TnduQ3BPd1BpWWdXNVJONHdFSjgxN0xnTGZXLTBQYXhMX2p0Q0k0S3BCamdSemtfSk9zM0p1Umc?oc=5)
+
+---
+
+### [Trial aims to spare men from unnecessary prostate cancer treatment - The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0lRUUNBaFZ0NUZJdW5KT0R4QkJQLUh4U05qN2d5b1VzTks2NzBXWUVwWGtXZWVzdDcwSmJDZFRIaXNnVHdRd3pxNEk0aVZENFB0U1o2VXBjaGl4LVpOeTBfbEQwbE1yM0xSZjhaNGQ0M2FLR1ZJdHBHd1NsUGNhS0hNR3htVl9ZZEJzZUNzdlBRUQ?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0lRUUNBaFZ0NUZJdW5KT0R4QkJQLUh4U05qN2d5b1VzTks2NzBXWUVwWGtXZWVzdDcwSmJDZFRIaXNnVHdRd3pxNEk0aVZENFB0U1o2VXBjaGl4LVpOeTBfbEQwbE1yM0xSZjhaNGQ0M2FLR1ZJdHBHd1NsUGNhS0hNR3htVl9ZZEJzZUNzdlBRUQ?oc=5)
+
+---
 
 ### [Kardiorenales Syndrom effektiv behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnpJYWZnRTJmSWtNVzJscFBqTkhWaW96X2xKeW5JY0lZQzViWjBoWWhvci0tQm1iM3VmY212SFpHSmJ2dkgySTQzbmR2Z1cxMFNjVHNuZnVIVXM4MFUwb1N6Z0FfdlZ0aEpPQ1FremZ2MEY4d1FzYTk0Qm0yT0Vnazl6SmlVdkx2MkQxcy1LcFVPbFVFVFE?oc=5)
 
@@ -56,11 +72,27 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEY1
 
 ---
 
+### [Gefahr bei Therapieabbruch: Absetzen von GLP-1-Spritzen verdoppelt Risiko für Herzinfarkt und Schlaganfall - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2lSZXZsVGFod01TVmFZNU1PLWY1UzVRdVVxeldtWUlYSDdaVHZ4TEU3THJSNlNCd3RPdmhvZ2FVVzlYd21UTWoyOVRiN1VsdDBCLXgxV1QzRFBWYlBJX3JnbklBTFhrZDdTWkh0MzV1WUlJZ1lrbnhWVVdZdHFsMlhLSVc1bzk1MnMzUGlTRi1McEthTHNBX1I5NFNBUmhZMXlF?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2lSZXZsVGFod01TVmFZNU1PLWY1UzVRdVVxeldtWUlYSDdaVHZ4TEU3THJSNlNCd3RPdmhvZ2FVVzlYd21UTWoyOVRiN1VsdDBCLXgxV1QzRFBWYlBJX3JnbklBTFhrZDdTWkh0MzV1WUlJZ1lrbnhWVVdZdHFsMlhLSVc1bzk1MnMzUGlTRi1McEthTHNBX1I5NFNBUmhZMXlF?oc=5)
+
+---
+
 ### [Movember : la prise en charge des cancers de la prostate de plus en plus soft - Sud Ouest](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3Z1Z1UxRnEycmx3Y1paZ0NBMExBVVo0cUhIV3g5ejdvdmMwVjFOUHEtWnExdVViQ1g5OTZGdVpDdHZvaV8wQWFfVnV4QmQ1cnB4S09aaTZTaXM1cUlQNTJ2NzFRSlhSNDJBMkNZVlhpM0loUlh6eDJKeW5pcUxvcG9IUHRjV2VmNzRZcE40Wk5xLW5UX3hjREUyR2FWQktLblNVRnVTUFg0cHZYUUVvdjgyM205aDhaZEE?oc=5)
 
 2026-11-11 <span class="news-indication-tag">cancer</span>
 
 Source: [Sud Ouest](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3Z1Z1UxRnEycmx3Y1paZ0NBMExBVVo0cUhIV3g5ejdvdmMwVjFOUHEtWnExdVViQ1g5OTZGdVpDdHZvaV8wQWFfVnV4QmQ1cnB4S09aaTZTaXM1cUlQNTJ2NzFRSlhSNDJBMkNZVlhpM0loUlh6eDJKeW5pcUxvcG9IUHRjV2VmNzRZcE40Wk5xLW5UX3hjREUyR2FWQktLblNVRnVTUFg0cHZYUUVvdjgyM205aDhaZEE?oc=5)
+
+---
+
+### [Bluttest mit RNA-Signal erkennt frühen Vorstufe-Status bei Eierstockkrebs - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXRYeHBJN0xSQ01LVjdVM2hESVRtVUUxQkczNWIzNXN1NUJrUG1TWEU4Wkx1WnpHUnNSTUNfV1p0LUtYbGQ3c3JPNE56YnhBYXJKTFRwUGZYQVBmaUFQbUtzdElidmJXUmt0bEk1WWpRMnQxZ1ZtWV9VM25pTTBIcTZ0MGVaMEtnNnBZeXpMelVzMnpxMDllbjZEUXQ2ZGJpRGFLNzY5RTRjdw?oc=5)
+
+2026-11-11 <span class="news-indication-tag">Krebs</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXRYeHBJN0xSQ01LVjdVM2hESVRtVUUxQkczNWIzNXN1NUJrUG1TWEU4Wkx1WnpHUnNSTUNfV1p0LUtYbGQ3c3JPNE56YnhBYXJKTFRwUGZYQVBmaUFQbUtzdElidmJXUmt0bEk1WWpRMnQxZ1ZtWV9VM25pTTBIcTZ0MGVaMEtnNnBZeXpMelVzMnpxMDllbjZEUXQ2ZGJpRGFLNzY5RTRjdw?oc=5)
 
 ---
 
@@ -85,6 +117,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTFRB
 2026-11-11 <span class="news-indication-tag">Krebs</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSWFYQlJtNTgtMktpdl93NFY4MGhEUWczSlFTWHRYeTZjQlg2RmxwRWtSaU1Ba2wzT3BEZGFhZ1RxMWNoWlNpQ0djYWNwZGpYRE5NS2U0U05EcGhNNnFMUEdOb3A2Y1VZbF9NS3E4eVZGbDlNclQ5TnNuQ21RQ2xRYjNQcy1yNzd4OE4xcm0zT1F3eGhCUHdNSUhmNWU4bWpuNTh6VmM1djZmUzRGb3dJUGFJcGYzUjRxeHJMeXJpWjIxRDVmdThrR2pWR2JPYVpiQkVFek0zZG4?oc=5)
+
+---
+
+### [Saturation genome editing of BRCA1 across cell types improves interpretation of variant pathogenicity](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xdGl4SXQ5X3J6VG5vSzFxa0JDM3UybzFsMFU1VmdiTzBQdmZOVmFQelpwVWMwazBOTklUQk9qR3pYeHptV3p0V0plZXpmLXNFcDFOdkdRejBSNmtpY2ZJ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xdGl4SXQ5X3J6VG5vSzFxa0JDM3UybzFsMFU1VmdiTzBQdmZOVmFQelpwVWMwazBOTklUQk9qR3pYeHptV3p0V0plZXpmLXNFcDFOdkdRejBSNmtpY2ZJ?oc=5)
 
 ---
 
@@ -136,6 +176,14 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdDlBc2JBYlV1
 
 ---
 
+### [Michele Ronco: “A 35 anni ho scoperto di avere un tumore raro, così ho cominciato a studiarlo” - la Repubblica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUGtVc3oxOVdERi1xTDF4WXdoejJMa3hVdU9zd3d3X1JjWU9GYTZBZkNiR3dicGNpLXh0NUVrSzg0ZVNBMFVxbE95VHkxdndFQ3FiY2w2TVhFWTBBUmF1WGdxVW5iZ2JmS0tQeGJjN1lzX2daZGRFTUFIQUMyWTZfTllKWGd1RjRlemE4Z3MxMUVkOEtDZkp6OTFsM1JicmVwSWg3bElGRDB1QTRj0gGyAUFVX3lxTFA2VGYxM0N2WVJXZXpsUlBBamtaa0Q1XzA5SG43X1pqREpfTmpNS1BvaTRNWkFFeklXcXhvcjRvU2pfVWlPWTM0TllGdjduN0VjNlNzVjQyRDBtRHZpbGNSUzNUNVJ1d3QwQ2tSdC04QVBFZjdfWnB1TFhEQWp2NzlxcHljTkJqTHNKN3dVTmo4NC04dDlYZmpCeFB5U19JMHcweU5Ca19aZnRFcEEyazhhUWc?oc=5)
+
+2026-11-11 <span class="news-indication-tag">tumor</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUGtVc3oxOVdERi1xTDF4WXdoejJMa3hVdU9zd3d3X1JjWU9GYTZBZkNiR3dicGNpLXh0NUVrSzg0ZVNBMFVxbE95VHkxdndFQ3FiY2w2TVhFWTBBUmF1WGdxVW5iZ2JmS0tQeGJjN1lzX2daZGRFTUFIQUMyWTZfTllKWGd1RjRlemE4Z3MxMUVkOEtDZkp6OTFsM1JicmVwSWg3bElGRDB1QTRj0gGyAUFVX3lxTFA2VGYxM0N2WVJXZXpsUlBBamtaa0Q1XzA5SG43X1pqREpfTmpNS1BvaTRNWkFFeklXcXhvcjRvU2pfVWlPWTM0TllGdjduN0VjNlNzVjQyRDBtRHZpbGNSUzNUNVJ1d3QwQ2tSdC04QVBFZjdfWnB1TFhEQWp2NzlxcHljTkJqTHNKN3dVTmo4NC04dDlYZmpCeFB5U19JMHcweU5Ca19aZnRFcEEyazhhUWc?oc=5)
+
+---
+
 ### [Abnehmspritze abgesetzt: Neue Studie warnt vor erhöhtem Sterberisiko](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGI0Y0tTMDBHd1JXUTFzV0tJTzdxVGxIR2t3aThKSGJoOFoxMHJBQ3dsVjdCZnhtWlplMG42UlViRnpWM1o4Q3duZHBGU0dQT2pEUVdtNV9FSXN2ZTAwSFJHc0RZeEJESVF5MWFVQXk3ZW9hemdUNmdGUlVBUzJuV0E4Qk9xa2RTTVRVR0JwYUZUd09rdDIwWTQ4RmJXaTV1YXRQaVBVc1BwX0RleWh5Qi0taU8wUGFBazVXbA?oc=5)
 
 2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
@@ -152,11 +200,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQmY1
 
 ---
 
-### [Red flag symptom in legs could be sign of heart failure](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+### [Red flag symptom in legs could be sign of heart failure - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 2026-11-11 <span class="news-indication-tag">heart failure</span>
 
-Source: [Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 ---
 
@@ -469,6 +517,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNs
 2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1ienhKNDlaT1VGTml4dmZ2Z05QaU5TbVNmRnNHaWZfY19HR19PTTA1TjI1MXREX3R2b0J2MXV6MlczSFV3QXVwb0JsNDEtV01LSlVLbFh4V2NMR0tHcGR1bWR3QVVaVF84cENQdXF1WTljZTN2MjVPMmVONjhGVVdDMVc?oc=5)
+
+---
+
+### [I almost died after a toothache led to sepsis and a rare heart condition](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
+
+2026-11-09 <span class="news-indication-tag">stroke</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
 
 ---
 
@@ -858,7 +914,7 @@ Source: [Linternaute.com](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQd
 
 ### [Schlaganfall-Prävention: Zehn beeinflussbare Faktoren hängen mit 90,7 Prozent zusammen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
 
-2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
+2026-11-07 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
 

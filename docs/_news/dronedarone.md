@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Dronedarone. 9 predicted indications."
 permalink: /news/dronedarone/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Dronedarone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>87 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>89 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (87)
+## Related News (89)
+
+### [Gefahr bei Therapieabbruch: Absetzen von GLP-1-Spritzen verdoppelt Risiko für Herzinfarkt und Schlaganfall - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2lSZXZsVGFod01TVmFZNU1PLWY1UzVRdVVxeldtWUlYSDdaVHZ4TEU3THJSNlNCd3RPdmhvZ2FVVzlYd21UTWoyOVRiN1VsdDBCLXgxV1QzRFBWYlBJX3JnbklBTFhrZDdTWkh0MzV1WUlJZ1lrbnhWVVdZdHFsMlhLSVc1bzk1MnMzUGlTRi1McEthTHNBX1I5NFNBUmhZMXlF?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2lSZXZsVGFod01TVmFZNU1PLWY1UzVRdVVxeldtWUlYSDdaVHZ4TEU3THJSNlNCd3RPdmhvZ2FVVzlYd21UTWoyOVRiN1VsdDBCLXgxV1QzRFBWYlBJX3JnbklBTFhrZDdTWkh0MzV1WUlJZ1lrbnhWVVdZdHFsMlhLSVc1bzk1MnMzUGlTRi1McEthTHNBX1I5NFNBUmhZMXlF?oc=5)
+
+---
 
 ### [Abnehmspritze abgesetzt: Neue Studie warnt vor erhöhtem Sterberisiko](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGI0Y0tTMDBHd1JXUTFzV0tJTzdxVGxIR2t3aThKSGJoOFoxMHJBQ3dsVjdCZnhtWlplMG42UlViRnpWM1o4Q3duZHBGU0dQT2pEUVdtNV9FSXN2ZTAwSFJHc0RZeEJESVF5MWFVQXk3ZW9hemdUNmdGUlVBUzJuV0E4Qk9xa2RTTVRVR0JwYUZUd09rdDIwWTQ4RmJXaTV1YXRQaVBVc1BwX0RleWh5Qi0taU8wUGFBazVXbA?oc=5)
 
@@ -163,6 +171,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1ienhKN
 
 ---
 
+### [I almost died after a toothache led to sepsis and a rare heart condition](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
+
+2026-11-09 <span class="news-indication-tag">stroke</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
+
+---
+
 ### [The deadly morning hour when your stroke risk suddenly spikes - The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVNMYS1OS3FiaC1VUlRCTFFCSXJQaHVIa3A5WDc2QUF1V0J6RHhDUzk4VUZMeTQ0THpKS0NWUzFvQjZ4OHlPNmFVOWZxSTNQMHJEUHczb1p4Sml0dXdhaTdGVnRRSlp3MThtU21ZZDFQMUYxLWZPV3dGcG1wOVRyUmV4cjBycHQ4cUEwTk1QQzRtN3hKZTNj?oc=5)
 
 2026-11-09 <span class="news-indication-tag">stroke</span>
@@ -237,7 +253,7 @@ Source: [Linternaute.com](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQd
 
 ### [Schlaganfall-Prävention: Zehn beeinflussbare Faktoren hängen mit 90,7 Prozent zusammen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
 
-2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
+2026-11-07 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
 

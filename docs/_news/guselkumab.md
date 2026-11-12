@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Guselkumab. 8 predicted indications."
 permalink: /news/guselkumab/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Guselkumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Guselkumab?">
-<strong>Guselkumab</strong> currently has <strong>128 news articles</strong>, with 8 predicted indications.
+<strong>Guselkumab</strong> currently has <strong>131 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Guselkumab with the latest h
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (128)
+## Related News (131)
+
+### [Diabetes: Forscher senken Blutzucker mit Strom – und machen eine erstaunliche Entdeckung](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZTdBYnpsQjRYal9hSHhpTWg1SEdHUWJXaGFNOU9vZXdnUHdYMjA0b1o2dXdHeERuOU9CeV9FZW1UZlR4V1dFejgzUDNnMjkxSUNNeG1mZHBadGlNS1E5dHVqLV9LTkU2VzJ2dnVKY1RqR3pRZV9iZWtveWl2dE1Ya2x6cHpRaHhQeTROTU8zQWdITmRXelZzYUNzUlpncWUycDJ1aWJpOXlsWm5BRkFxZW9YU0lOLVZ4b18yOTZjT3FyMnFnTTNocnlFQkMxdGQ3U0lQMnJrNDRqaXNyUXViWFMtc0hCMjV4ZkR3?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZTdBYnpsQjRYal9hSHhpTWg1SEdHUWJXaGFNOU9vZXdnUHdYMjA0b1o2dXdHeERuOU9CeV9FZW1UZlR4V1dFejgzUDNnMjkxSUNNeG1mZHBadGlNS1E5dHVqLV9LTkU2VzJ2dnVKY1RqR3pRZV9iZWtveWl2dE1Ya2x6cHpRaHhQeTROTU8zQWdITmRXelZzYUNzUlpncWUycDJ1aWJpOXlsWm5BRkFxZW9YU0lOLVZ4b18yOTZjT3FyMnFnTTNocnlFQkMxdGQ3U0lQMnJrNDRqaXNyUXViWFMtc0hCMjV4ZkR3?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Neue EASD- und ADA-Empfehlungen setzen auf die „fünf S“ - Ärzte Zeitung](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkJ6TExsUVlnWnZLZ1Q2UXF0NS12Yzd3UG9sT1E2S0Q4SVNjcVVOUXZGTHR0ZERQaDNvcVpRUEcxdkFQTjYtQlVaRGZCdXRHa2JTcnBOLThuMXVTUVdZbHRDaTBtMWMxeUM1X1dZYUNjR3h5QmR6emxIdVlWZklMQ0R0VzZteXkzNDh0Y1BDTEVNX1p2a0lkWTAwWFo5bkhZVnVyWXVORkxJS0FFQlA0?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkJ6TExsUVlnWnZLZ1Q2UXF0NS12Yzd3UG9sT1E2S0Q4SVNjcVVOUXZGTHR0ZERQaDNvcVpRUEcxdkFQTjYtQlVaRGZCdXRHa2JTcnBOLThuMXVTUVdZbHRDaTBtMWMxeUM1X1dZYUNjR3h5QmR6emxIdVlWZklMQ0R0VzZteXkzNDh0Y1BDTEVNX1p2a0lkWTAwWFo5bkhZVnVyWXVORkxJS0FFQlA0?oc=5)
+
+---
 
 ### [19 farmacias de Vitoria ofrecerán un test para fijar el riesgo de tener diabetes tipo dos - El Correo](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHQ0bnZ6Rnh2VDkxTjdrakFUYmVCYVZjX1hsS251SHBObmY0UjMyTnhzRk1zdnMyUW9kWDFJSHhhTDctUXg3VWlmYmljZXFqQThla1NtN2V0bkJxU19QVmxDNXV3WHFTZkVTTVlBbmZUS0xQWnVRMjlWdFFNaXhwdWNlN184QUNWOU9DeVhqaVB3TDZ5V0oyREpIM0JzSk1FenpuM0M4aG1XSXV4VXdGSdIBtgFBVV95cUxQM0lEcXgxbWkwYlRIcnB4SkFRczlxQl9GMU55NWpvcTlQQWxBc1drWW5kdGh1Yy03ZDB6eDRGNDI1aXNPMkZpeWtGY1l4bjhYT2FPbFZpY0hxYVd2VUFHU3RMaE9RZUZRb0lndFdiZUdwSWRCRjRmNWxQRjY2a251eWtKSWJ1QWVlQWwwbjM3T2FaOWQzdElYUE1kNU91MUVXVVZsbFlETlIxSTBtUUdVOUJSZGI0UQ?oc=5)
 
@@ -55,6 +71,14 @@ Source: [El Correo](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHQ0bnZ
 2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
 Source: [Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnpJYWZnRTJmSWtNVzJscFBqTkhWaW96X2xKeW5JY0lZQzViWjBoWWhvci0tQm1iM3VmY212SFpHSmJ2dkgySTQzbmR2Z1cxMFNjVHNuZnVIVXM4MFUwb1N6Z0FfdlZ0aEpPQ1FremZ2MEY4d1FzYTk0Qm0yT0Vnazl6SmlVdkx2MkQxcy1LcFVPbFVFVFE?oc=5)
+
+---
+
+### [Gefahr bei Therapieabbruch: Absetzen von GLP-1-Spritzen verdoppelt Risiko für Herzinfarkt und Schlaganfall - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2lSZXZsVGFod01TVmFZNU1PLWY1UzVRdVVxeldtWUlYSDdaVHZ4TEU3THJSNlNCd3RPdmhvZ2FVVzlYd21UTWoyOVRiN1VsdDBCLXgxV1QzRFBWYlBJX3JnbklBTFhrZDdTWkh0MzV1WUlJZ1lrbnhWVVdZdHFsMlhLSVc1bzk1MnMzUGlTRi1McEthTHNBX1I5NFNBUmhZMXlF?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2lSZXZsVGFod01TVmFZNU1PLWY1UzVRdVVxeldtWUlYSDdaVHZ4TEU3THJSNlNCd3RPdmhvZ2FVVzlYd21UTWoyOVRiN1VsdDBCLXgxV1QzRFBWYlBJX3JnbklBTFhrZDdTWkh0MzV1WUlJZ1lrbnhWVVdZdHFsMlhLSVc1bzk1MnMzUGlTRi1McEthTHNBX1I5NFNBUmhZMXlF?oc=5)
 
 ---
 
@@ -79,6 +103,14 @@ Source: [PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTBXW
 2026-11-11 <span class="news-indication-tag">diabetes</span>
 
 Source: [Diario Estrategia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd0hGZTFjbElkMzJqZUhMVnk1UkZQWjRDYzFnZU5GWXZTYnN5QWdPaDdPS2JRTWFHX3cwclVIbmtBeHpPMm96ZGd0NVJIaWtXX2xFeDZkeXdyd1h4UzQzczduQzRna0FuOW5KemQ2MGRQRVN3cENrOWdvc0ZzbnpscUZNWWwtYXVTVWRodFBKXzFnVU92N1IwdnRRcmY2cnowNjFBMGN3MEtOcGJGYmhQTWV3WmlmWWpwSVFZellQSkRXODhOWDAyYlZfQ0RnVDRsbWFKNV8zVndpcUNGdkFjbXBsY0l4UHFUYk4wa0xYSm56ZUU?oc=5)
+
+---
+
+### [La Federación Española de Diabetes reivindica equidad territorial, educación terapéutica y asistencia de calidad](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQU3ZCdGZSXzJWOEJiU3lNSEtxWFlfclBTSjdVY29kUUkteTBlLVlsWnpveXJIVk1XRHM0eF9ueWY3MlhTZ0VuZWFVZThpVVBIUEZNdUl5OXkxaTB4bjdfY2NxZW4ycm9kMlQ2VU5LZmpLRHRPcjNfVm5qZEhXdXlTdE9SYVJyVEczQUxaWFN6blEzaHNTdlFkbWdZaXB1NElaajZOako4RmdNdnpwYkhQN3hEV09mY1djclNrZ2ZHZEl4ZjJhQnZNYVE0eWE4cWZPdkRiWVdlc0dvSkd6U2Jrc3UwT2kyYzNhbk5Va3JDY0hYYUpfd0plbg?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQU3ZCdGZSXzJWOEJiU3lNSEtxWFlfclBTSjdVY29kUUkteTBlLVlsWnpveXJIVk1XRHM0eF9ueWY3MlhTZ0VuZWFVZThpVVBIUEZNdUl5OXkxaTB4bjdfY2NxZW4ycm9kMlQ2VU5LZmpLRHRPcjNfVm5qZEhXdXlTdE9SYVJyVEczQUxaWFN6blEzaHNTdlFkbWdZaXB1NElaajZOako4RmdNdnpwYkhQN3hEV09mY1djclNrZ2ZHZEl4ZjJhQnZNYVE0eWE4cWZPdkRiWVdlc0dvSkd6U2Jrc3UwT2kyYzNhbk5Va3JDY0hYYUpfd0plbg?oc=5)
 
 ---
 
@@ -156,7 +188,7 @@ Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMitwFBVV95c
 
 ### [¿Qué pasa realmente cuando dejas Ozempic? Los efectos secundarios que debes conocer - National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
 
-2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [National Geographic España](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3ViaVd1VTkxOVd1TEhoaGRQeGg4VVd0OFpvUHZKM2hoVi05QktEMzFXeDQyMG5FNVI1N3E4eEFMSXk3TnF4RE1JZ3FIelNIUENmaWJsbXVGcGgzU1JjTUwtdjdvTjlUTHFFbzZ0ZHdIQzJUc2hHZkVXUEc5NWpqeWxSZVZtbzgwQVFUeF90VXFJa2FrUnpaWFk0UldTQ0p6UVNjRU1XTzJLNmZmUVhNenRHWVFCcEVpcTZKSjViOV9aLUVJX0FtNlphbw?oc=5)
 
@@ -567,14 +599,6 @@ Source: [CNN](https://news.google.com/rss/articles/CBMijwFBVV95cUxOTDE3WDZTcXhuQ
 2026-11-06 <span class="news-indication-tag">diabetes</span>
 
 Source: [CNN](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlg0dllnRGNQTHppV1JiSmZWZl9pQU1EYW9lakoydElQUkctVXpDUE5UR1EwZUNYS2h3X0FaaDRDWUhtcmtldzNqMWhzUTJ1LVBZYXpnUkZLUy01NVVGV0YtX0VUMG9qc1BNX0R4NDdnaV9PQU51cHMzd0dad3pFdHdrdGhSVnZDTDJzcXU5Y1BsUU9C?oc=5)
-
----
-
-### [Gürtelrose trifft nicht nur Ältere: Warum chronische Erkrankungen das Risiko erhöhen](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoeEtnWG5aUFJITUdic214QWJNV2ZmOWV0NkpXWU1ld1B3VEdTR05KVVI2bnB5N3lXV3I3OHBXd3pfNlBWNUZHbXZ6WlU4ZzdPOTVDVkhrbl8?oc=5)
-
-2026-11-06 <span class="news-indication-tag">diabetes</span>
-
-Source: [Presseportal](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoeEtnWG5aUFJITUdic214QWJNV2ZmOWV0NkpXWU1ld1B3VEdTR05KVVI2bnB5N3lXV3I3OHBXd3pfNlBWNUZHbXZ6WlU4ZzdPOTVDVkhrbl8?oc=5)
 
 ---
 

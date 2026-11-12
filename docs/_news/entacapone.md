@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Entacapone. 10 predicted indications."
 permalink: /news/entacapone/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Entacapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>31 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>32 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (31)
+## Related News (32)
 
 ### [The blood-brain barrier may contribute to cognitive function - The Economist](https://news.google.com/rss/articles/CBMivAFBVV95cUxPcU1wOWQyWk5zSkJ2WmlHREREQTZEckQzUXo3SUktLVB6Wmp0SWI3Q1NydnU3N2pxdjZkYk9pUXQ3VlFZdjktWHI2bHNPMXZESjJEelo1LUVDNVRwQXQ5bU1aYkFtTnZ0SjJsSlRNN0dpRTkwV2ZyWm9MRFFXbFpsV3VJYno4bzB2TTVNQkg4NW16b2s5QjdjblAwZlE5eHYwRUNrY0V1ZVIxdE9FeUtUdDFaRmVtTk43bnljVQ?oc=5)
 
@@ -57,6 +57,14 @@ Source: [The Economist](https://news.google.com/rss/articles/CBMivAFBVV95cUxPcU1
 2026-11-11 <span class="news-indication-tag">dementia</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcHpnUHNWWWN0M2JrWVNjZ3BBQzUxTDVkZXUwWUJBY3d1Sm1LaUplMlZ1cVk1RXFpQlo0QXVYNFE1RjhmWjlvOUhsVldhWnJhRWtaNHdDZ3JhZVN4WlduQl9aTng2X3FfY3lFY1pxRGZLQmVhYnJtak9wZzF2V2JIYXA3czByekxkNDduUzdvZk03NFlTNmN3aklqM2lYcE5rM1hINE1DMW54QQ?oc=5)
+
+---
+
+### [¿Foslevodopa/foscarbidopa en la enfermedad de Parkinson?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG80cVpaZzA5LTZEY2UwX2JVcmdJMm9neEZIX2x2Rmg0Z3dMR3hmX2FaSXJNYWc0ZzdWSGJJYnZNQ0N6UGh2U0dCRERZeHY0TzVBa0dGRGFidThMTG5rN0pmc2ZXZHZMX3VfMkNyYW5uVEluclAyOHFQRk5JVktObUJlaGlENkNnVGEwR2c4ODc1X3JFTEdsUlk1TXR5ZENhT0l4eEhETjMyM3c?oc=5)
+
+2026-11-11 <span class="news-drug-tag">Carbidopa</span> <span class="news-drug-tag">Levodopa</span> <span class="news-indication-tag">enfermedad de Parkinson</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG80cVpaZzA5LTZEY2UwX2JVcmdJMm9neEZIX2x2Rmg0Z3dMR3hmX2FaSXJNYWc0ZzdWSGJJYnZNQ0N6UGh2U0dCRERZeHY0TzVBa0dGRGFidThMTG5rN0pmc2ZXZHZMX3VfMkNyYW5uVEluclAyOHFQRk5JVktObUJlaGlENkNnVGEwR2c4ODc1X3JFTEdsUlk1TXR5ZENhT0l4eEhETjMyM3c?oc=5)
 
 ---
 

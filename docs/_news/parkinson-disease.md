@@ -3,9 +3,9 @@ layout: default
 title: "enfermedad de Parkinson (parkinson disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about enfermedad de Parkinson (parkinson disease). 7 articles, 7 related drugs."
+description: "Health news about enfermedad de Parkinson (parkinson disease). 8 articles, 7 related drugs."
 permalink: /news/parkinson-disease/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # enfermedad de Parkinson (parkinson disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about enfermedad de Parkinson (parkinson disease)?">
-<strong>enfermedad de Parkinson (parkinson disease)</strong> currently has <strong>7 news articles</strong> and 7 related drugs.
+<strong>enfermedad de Parkinson (parkinson disease)</strong> currently has <strong>8 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “enfermedad de Parkinso
 </ul>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [¿Foslevodopa/foscarbidopa en la enfermedad de Parkinson?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG80cVpaZzA5LTZEY2UwX2JVcmdJMm9neEZIX2x2Rmg0Z3dMR3hmX2FaSXJNYWc0ZzdWSGJJYnZNQ0N6UGh2U0dCRERZeHY0TzVBa0dGRGFidThMTG5rN0pmc2ZXZHZMX3VfMkNyYW5uVEluclAyOHFQRk5JVktObUJlaGlENkNnVGEwR2c4ODc1X3JFTEdsUlk1TXR5ZENhT0l4eEhETjMyM3c?oc=5)
+
+2026-11-11
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG80cVpaZzA5LTZEY2UwX2JVcmdJMm9neEZIX2x2Rmg0Z3dMR3hmX2FaSXJNYWc0ZzdWSGJJYnZNQ0N6UGh2U0dCRERZeHY0TzVBa0dGRGFidThMTG5rN0pmc2ZXZHZMX3VfMkNyYW5uVEluclAyOHFQRk5JVktObUJlaGlENkNnVGEwR2c4ODc1X3JFTEdsUlk1TXR5ZENhT0l4eEhETjMyM3c?oc=5)
+
+---
 
 ### [¿Foslevodopa/foscarbidopa en la enfermedad de Parkinson?](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS01Ibm02QVh1SVAtSGNYejNXRDN6TTNFc214bHNEa0lDbXBsQkJYeVRReXdUTGxNMEdUX2RfY29qVFlIY1pncEhTdkVSa1UxQVZIdkV5RnRteVNpUlRMYnlvZk5DMnE0TzlYUFZ2WFFiUFJBMXNxS2pTLTh3WXh5LU55ZFlfWURFR2xZWHJBTm1vT2FwREozQWRxTTExVHJ5YWtKWUZrSFBzcTFSR09nclF5RkNtYml0R1RUX0pDcUxvOUE1Rm9uWjhlS2ZLNDVZQzR1YmZla2FsMXgtaEZEYXJSSQ?oc=5)
 
