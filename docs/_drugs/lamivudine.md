@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Lamivudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Lamivudine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Chronic hepatitis B in adults with compensated liver disease (also HI…"
 ---
 
@@ -50,8 +50,8 @@ Support is limited to **3 publications** (two cohort studies in cats and one in 
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| EU Market Status | Marketed (valid licences: 10 of 12) |
-| Number of Authorizations | 12 (valid: 10) |
+| EU Market Status | Marketed (valid licences: 9 of 12) |
+| Number of Authorizations | 12 (valid: 9) |
 | Recommended Decision | Hold |
 
 The evidence level is L5 because none of the cited studies tests lamivudine in a human population for the predicted disease. The three papers are feline or in vitro studies of FIV. They cannot support L1 to L4 under the rules for this report.
@@ -87,7 +87,7 @@ Currently no related clinical trials registered.
 | EMEA/H/C/001111 | Lamivudine Teva Pharma B.V. | lamivudine | Valid |
 | EMEA/H/C/001113 | Lamivudine Teva | lamivudine | Valid |
 | EMEA/H/C/000190 | Combivir | lamivudine; zidovudine | Valid |
-| EMEA/H/C/000338 | Trizivir | abacavir (as sulfate); lamivudine; zidovudine | Valid |
+| EMEA/H/C/000338 | Trizivir | abacavir (as sulfate); lamivudine; zidovudine | Withdrawn |
 | EMEA/H/C/000581 | Kivexa | abacavir; lamivudine | Valid |
 | EMEA/H/C/002754 | Triumeq | dolutegravir sodium; lamivudine; abacavir (as sulfate) | Valid |
 | EMEA/H/C/004746 | Delstrigo | doravirine; lamivudine; tenofovir disoproxil fumarate | Valid |

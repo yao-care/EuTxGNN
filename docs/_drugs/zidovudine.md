@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **feline acquired immunodeficie
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 (preclinical/animal studies only) |
-| EU Market Status | Marketed (valid licences: 2 of 3) |
-| Number of Authorizations | 3 (valid: 2) |
+| EU Market Status | Marketed (valid licences: 1 of 3) |
+| Number of Authorizations | 3 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -89,7 +89,7 @@ No randomized trials or human studies were found. All entries below are studies 
 | Authorization Number | Product Name | Active Substance | Status |
 |------|------|------|------|
 | EMEA/H/C/000190 | Combivir | lamivudine; zidovudine | Valid |
-| EMEA/H/C/000338 | Trizivir | abacavir (as sulfate); lamivudine; zidovudine | Valid |
+| EMEA/H/C/000338 | Trizivir | abacavir (as sulfate); lamivudine; zidovudine | Withdrawn |
 | EMEA/H/C/001236 | Lamivudine/Zidovudine Teva | lamivudine; zidovudine | Withdrawn |
 
 <!-- licenses:end -->
