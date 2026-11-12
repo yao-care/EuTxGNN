@@ -93,13 +93,32 @@ Please refer to the SmPC for full safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score (L5), with no clinical trials, no literature and no mechanistic link to glaucoma. The product is also no longer authorized in the EU, and the IV-only peptide formulation is poorly suited to a chronic eye disease.
+The prediction is supported only by the model score (L5), with no clinical trials, no literature and no mechanistic link to glaucoma. Moreover, the IV-only peptide formulation is poorly suited to a chronic eye disease.
+
+<!-- review:begin eu-lic-20261112-atosiban-1 -->
+
+> **Review correction (2026-11-12)**: Originally stated: "The product is also no longer authorized in the EU, and the IV-only" Removed: according to EMA's centrally authorised medicines data (2026-11-06), both atosiban products (Tractocile, EMEA/H/C/000253, and Atosiban SUN, EMEA/H/C/002329) are authorised. Source: [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines).
+
+<!-- review:end eu-lic-20261112-atosiban-1 -->
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data, and preclinical evidence of oxytocin/vasopressin receptor involvement in intraocular pressure or trabecular meshwork function
 - SmPC warnings and contraindications for a safety screen
 - A feasible route of administration for the eye, such as a local formulation
 - Review of whether the same similarity learned by the TxGNN model (deep learning) between related diseases is driving the glaucoma and hair-disorder predictions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-12 | Removed: "The product is also no longer authorized in the EU" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

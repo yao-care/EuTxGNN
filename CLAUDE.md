@@ -649,3 +649,4 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 
 2026-10-31～11-06 許可證修正時直接刪掉的矛盾子句（10-31 fd396bc5dc、11-06 7a71842760／aa1f2cd5fb／dfa8df9667／46cc020fc2／ee5c125fb7／76948f4ff3），2026-11-12 由 scripts/reviews_from_edits.py 依 git 前後版本轉入。
 `scripts/sync_notes_to_docs.py` 依 notes 重寫整頁時會重套紀錄，notes 裡的舊錯句會被紀錄再更正一次。
+2026-11-12 正文許可證狀態對事實層的掃描：atosiban 正文寫「EU 已不再許可」，EMA 兩張皆 Authorised，以 `eu-lic-20261112-atosiban-1` 刪掉這個子句；其他頁的張數句與事實層一致。

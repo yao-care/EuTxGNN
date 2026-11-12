@@ -9013,6 +9013,26 @@
    "checked": "2026-11-06",
    "summary": "Removed: \"since both EU authorizations are cancelled\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：aa1f2cd5fb（2026-11-06）"
+  },
+  {
+   "id": "eu-lic-20261112-atosiban-1",
+   "drug": "atosiban",
+   "file": "atosiban.md",
+   "action": "correct",
+   "claim": "The product is also no longer authorized in the EU, and the IV-only",
+   "replacement": "Moreover, the IV-only",
+   "summary": "Removed: \"The product is also no longer authorized in the EU\"",
+   "note": "Removed: according to EMA's centrally authorised medicines data (2026-11-06), both atosiban products (Tractocile, EMEA/H/C/000253, and Atosiban SUN, EMEA/H/C/002329) are authorised.",
+   "finding": "正文說 EU 已不再許可；證據包 EMA：Tractocile、Atosiban SUN 皆 Authorised（事實層 valid 2）。只刪這個子句，決策理由其餘不動",
+   "sources": [
+    {
+     "title": "EMA – Medicines (centrally authorised)",
+     "url": "https://www.ema.europa.eu/en/medicines",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文許可證狀態對事實層與證據包）"
   }
  ]
 }
