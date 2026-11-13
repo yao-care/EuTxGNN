@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 29 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 30 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 last_modified_at: 2026-11-13
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>29 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>30 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (29)
+## Related News (30)
+
+### [Lord Cameron: Alzheimer’s made my mother beg my sister to kill her - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkNkUmtBYm9Ya1VPal9VdHBkWDB5WnJtTTJOdXJYSnAwd3l2UTEwRWxKTXNNbjFfbFllSlBvX2tFaXU2NHJVUmxER0h3OXctWmVtcm05MV9xaHhSdGJKZ2ozV2wzZHhmdDVwTlNoS2pHc0JGWVFZOExHX0Y3SGZ4a3F1ejJ2YWtQbDhnSGh5ejIwYzBDemNrYlNyaktXajhOb0tVYVF3?oc=5)
+
+2026-11-13
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkNkUmtBYm9Ya1VPal9VdHBkWDB5WnJtTTJOdXJYSnAwd3l2UTEwRWxKTXNNbjFfbFllSlBvX2tFaXU2NHJVUmxER0h3OXctWmVtcm05MV9xaHhSdGJKZ2ozV2wzZHhmdDVwTlNoS2pHc0JGWVFZOExHX0Y3SGZ4a3F1ejJ2YWtQbDhnSGh5ejIwYzBDemNrYlNyaktXajhOb0tVYVF3?oc=5)
+
+---
 
 ### [Big Pharma’s race to stop Alzheimer’s before it starts - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnNrUjdPOC1NYXJ5RWpOdHFObEpodzVDb0NYcnl4OVYwV1hMRWhhM1lzalVUWmRHUFVHenBMYTg2M1RjZWE5aWRPZTZSeVhyWFlzNTVnTlJBbkI0TDlPNW1rUGU3a29HZHFaTUpULXU3VEx5VWJ4ZkdSSlZvUzdQSU5VSEE?oc=5)
 

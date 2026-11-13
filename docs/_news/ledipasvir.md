@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Ledipasvir?">
-<strong>Ledipasvir</strong> currently has <strong>14 news articles</strong>, with 10 predicted indications.
+<strong>Ledipasvir</strong> currently has <strong>17 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ This page combines the AI-predicted indications for Ledipasvir with the latest h
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (17)
+
+### [Hepatitis cases at Bristol school spark vaccine rollout - Bristol Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVC11ZTlXVy01eDlZYk5uYTB1a2pHUnRnQnFnVVNjV1hpNGlwSHZMWk0xelp3cnBpYnphc0lwX2prV3JlSjNiR3YxVGVDSHlPdXNQdGtFbFlXdlZhWkxwTjZJdzZmMUJkbVB2MlpMRjhpTVloYlBZT3R2b0t1a3dteGNTdzlkaF84MERSX0F1M1BnbWxuR0tvbw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Bristol Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVC11ZTlXVy01eDlZYk5uYTB1a2pHUnRnQnFnVVNjV1hpNGlwSHZMWk0xelp3cnBpYnphc0lwX2prV3JlSjNiR3YxVGVDSHlPdXNQdGtFbFlXdlZhWkxwTjZJdzZmMUJkbVB2MlpMRjhpTVloYlBZT3R2b0t1a3dteGNTdzlkaF84MERSX0F1M1BnbWxuR0tvbw?oc=5)
+
+---
+
+### [Il neurologo Martino: «La sclerosi multipla si può tenere a lungo sotto controllo» - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNV19nZ0c2SWpRZTJBN1VPa2Nud1lhNFRZeFJMU0ZWWHBIcGpkeG5ZZlVDSzJsMkRRT0pPRWpLdlVKXzExVm5jQ1g4bGEtVHZ3dVpzRUQ3NVh4aWFLcGQ0SXlFSl9idHdZVC1xN3gxQWVJZmUyYkhEYkRNMU9uREN4eE1uSXRGV2FoZllTdkd1d1pMd29EX2dsbVoybG5ObmljX3NGUUoyOXd4MDdWdS05enc0VG5JNnlsa0Nud09Qbm1XRnJwUXFZNF95VG1KU0RsYmp3aDBHQ0NQMGpmQndqNmZ4bWM3S0lBTFloN2RvcTdiVmY1dVVGS0VYRlNkZGsxLXVxajN1R3BTVjlpQUlIdzZMOThnalZQQUxDbE93dGxaQ0tQUWozUkU3cUFKSU8xX1cxMFowY0FoNjRScUlHedIBxgJBVV95cUxNYjBQYzBPUVRMaEpUdFUwRGxLVnV2SHRISW15RF8tOEItWVpYR0dSLXNtNDRfX3dTV05TTS1yTktObGdFQ25iQ01Dcl9ZY1Frdzc4SVp4OW1CSERoejVrNDNIWW1pY1ZJaHdueWhjdGxwUDBUcFM0ZG9hZUNvSkE1b3doaGdIN2pNMGFFS2hKV1cyR0lIZnVpaHpXZHU5bnBKLVlpSGdURVZSR05tZkVFSzBXQTk2YUYyQmx3QWZRU1V0Tkp5ME1tRmhCLUllbzhZRmk3dThKVDl6cU1wX0ZMVWNtTGNnLXkwVWgwbngtVXZSUFNMSlRONGxGVm9jTVFYNkpwSk5zOTgwUDFPakZWcnFHdWViWVE0S2ZGYm11Q3ZUUUktUmlXZ1pSTEZKelB2T1I5c29HT0wteUVIbkg3OXAwVzdKdw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">sclerosi multipla</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNV19nZ0c2SWpRZTJBN1VPa2Nud1lhNFRZeFJMU0ZWWHBIcGpkeG5ZZlVDSzJsMkRRT0pPRWpLdlVKXzExVm5jQ1g4bGEtVHZ3dVpzRUQ3NVh4aWFLcGQ0SXlFSl9idHdZVC1xN3gxQWVJZmUyYkhEYkRNMU9uREN4eE1uSXRGV2FoZllTdkd1d1pMd29EX2dsbVoybG5ObmljX3NGUUoyOXd4MDdWdS05enc0VG5JNnlsa0Nud09Qbm1XRnJwUXFZNF95VG1KU0RsYmp3aDBHQ0NQMGpmQndqNmZ4bWM3S0lBTFloN2RvcTdiVmY1dVVGS0VYRlNkZGsxLXVxajN1R3BTVjlpQUlIdzZMOThnalZQQUxDbE93dGxaQ0tQUWozUkU3cUFKSU8xX1cxMFowY0FoNjRScUlHedIBxgJBVV95cUxNYjBQYzBPUVRMaEpUdFUwRGxLVnV2SHRISW15RF8tOEItWVpYR0dSLXNtNDRfX3dTV05TTS1yTktObGdFQ25iQ01Dcl9ZY1Frdzc4SVp4OW1CSERoejVrNDNIWW1pY1ZJaHdueWhjdGxwUDBUcFM0ZG9hZUNvSkE1b3doaGdIN2pNMGFFS2hKV1cyR0lIZnVpaHpXZHU5bnBKLVlpSGdURVZSR05tZkVFSzBXQTk2YUYyQmx3QWZRU1V0Tkp5ME1tRmhCLUllbzhZRmk3dThKVDl6cU1wX0ZMVWNtTGNnLXkwVWgwbngtVXZSUFNMSlRONGxGVm9jTVFYNkpwSk5zOTgwUDFPakZWcnFHdWViWVE0S2ZGYm11Q3ZUUUktUmlXZ1pSTEZKelB2T1I5c29HT0wteUVIbkg3OXAwVzdKdw?oc=5)
+
+---
+
+### [El remibrutinib reduce los brotes de esclerosis múltiple](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTV9iTXZWQmFTNWh0ZktPbmxsaV9UdHc2bnA0WDBLRGdfT1RWa2J1NW4teHZ2X19qRFdJSm8xQzVCcU5ySTY1ZXdTSkY3LWZkTkZWWFR4Z2ZackJ5Z1R5SjQwMmRfVG5JTjNOVmRhQmZ1T1lJMXpwMFhrSzJmUHdYSzdUVVh6Smc2b2NucEcwY2FRd1NPZEczdy10V2l5ampla2FHdzFRNWRHV3JseDM3NVFwZXMzSDZYTmFxNDZUTmxmWjlSMkRsYWlhRWdwSnlBUncyUEZKdXE2UQ?oc=5)
+
+2026-11-13 <span class="news-drug-tag">Ibrutinib</span> <span class="news-indication-tag">esclerosis múltiple</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTV9iTXZWQmFTNWh0ZktPbmxsaV9UdHc2bnA0WDBLRGdfT1RWa2J1NW4teHZ2X19qRFdJSm8xQzVCcU5ySTY1ZXdTSkY3LWZkTkZWWFR4Z2ZackJ5Z1R5SjQwMmRfVG5JTjNOVmRhQmZ1T1lJMXpwMFhrSzJmUHdYSzdUVVh6Smc2b2NucEcwY2FRd1NPZEczdy10V2l5ampla2FHdzFRNWRHV3JseDM3NVFwZXMzSDZYTmFxNDZUTmxmWjlSMkRsYWlhRWdwSnlBUncyUEZKdXE2UQ?oc=5)
+
+---
 
 ### [New MRI technique may reveal signs of myelin repair in multiple sclerosis - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDVLbV9pc1RpTXFTdTBLbU5rOFg1R1ROV0p4dWdCa3ZoY2QzREtKRGlDVXJNY2RQSW80TG5UUXN4YmNBYUYyZU1OY2ZGa2c4TndUZlg0QkQxdFBNT2U1VEduU082RnkwcUpGazJ4OHkwOHNBOTdoQnM4amkxcWUzQUFGeHpRenRwS2lzMzctM0Z6SndXWFVjQ2pHZm96MW0xQjYzMUdsdnVoZmJkNkZodzBwU0VXOGwtd0Voc1BlVUU?oc=5)
 

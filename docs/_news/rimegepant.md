@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Rimegepant?">
-<strong>Rimegepant</strong> currently has <strong>24 news articles</strong>, with 5 predicted indications.
+<strong>Rimegepant</strong> currently has <strong>23 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Rimegepant with the latest h
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (24)
+## Related News (23)
 
 ### [Experta subraya la relevancia de que el paciente describa bien la migraña para diferenciarla de otros dolores de cabeza - Diario Estrategia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRmx5WDdubXUxU0d4Vk4zVjl3VmJVMDZ4WEtqOUQ4WHF5SzVpT3pFMWtOM1Z6d2RKTmZ6RnhMVHN4SUJyLVVfTWFqTHNWd28zNXl4NFh1clN0QjkydU1LcVJnYzFOblp6MS04NWNoR0tKYmFnT2JQY0E1TzlvczVGRk1XMnNkbVlROFRNdkxHZDhPdkJDdHc2cFdvTGtGWVpYdjFFdDNqTlZTNll0bnVCYTBqVzFnay0yMjBMWnQtMk5lTVplalpxRzdXdG90dk9vbExkZl96bnpPeWN2YjVOeVE2anRZSHJP?oc=5)
 
@@ -52,14 +52,6 @@ Source: [Diario Estrategia](https://news.google.com/rss/articles/CBMi6AFBVV95cUx
 2026-11-11 <span class="news-indication-tag">heart failure</span>
 
 Source: [The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
-
----
-
-### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
-
-2026-11-10 <span class="news-indication-tag">atrial fibrillation</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 
 ---
 

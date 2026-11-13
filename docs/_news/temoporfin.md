@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Temoporfin?">
-<strong>Temoporfin</strong> currently has <strong>247 news articles</strong>, with 10 predicted indications.
+<strong>Temoporfin</strong> currently has <strong>254 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,47 @@ This page combines the AI-predicted indications for Temoporfin with the latest h
 <p><a href="{{ '/drugs/temoporfin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (247)
+## Related News (254)
+
+### [Hoffnung für Frauen mit hohem Risiko: Neuer Blutmarker könnte die Vorsorge bei Eierstockkrebs verändern](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUW5oQTdCdmVlWVNHTmp3UzNLNjZqVVZDUU5UQ3dESDJXTV9HNi11WnZ2Q05kcmJaWjV3TkF2UkxqajVFTjJyUkhKYWcwZ2FCTE42dUpzMFRycmY5Y2FjYll0SG1kVl92VDFUMVJERTRPQVZPZC1lTmI2d3kwdjc1UXgyUkdTMEl5SGQ4SkFtbmhUMjZWN3haTFpzZ3F1eTMxb3E5MDdIM1lKTWZ2cmtZaFo1YXNBSUhFaGhGbGIzU1RXVzRSUXpWOQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Krebs</span>
+
+Source: [24rhein](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUW5oQTdCdmVlWVNHTmp3UzNLNjZqVVZDUU5UQ3dESDJXTV9HNi11WnZ2Q05kcmJaWjV3TkF2UkxqajVFTjJyUkhKYWcwZ2FCTE42dUpzMFRycmY5Y2FjYll0SG1kVl92VDFUMVJERTRPQVZPZC1lTmI2d3kwdjc1UXgyUkdTMEl5SGQ4SkFtbmhUMjZWN3haTFpzZ3F1eTMxb3E5MDdIM1lKTWZ2cmtZaFo1YXNBSUhFaGhGbGIzU1RXVzRSUXpWOQ?oc=5)
+
+---
+
+### [Le combat contre les cancers du sein de la femme jeune s'intensifie - Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUTB6YVBRZ2t5LTAwT0pEd0d4enRuTnhZOVNpQ3AxYWJfbEhUMEJuV3JMQThiVm1rMGZjbzEzS0h6UzYwQW5QMHhjRzNldmJNd3g4amQtdEhiMmtJQllteUhfWWtmVlBhajdRRHI0ZGdCV2ZWUnhsNjJDTXkwdV82dVZDUmFZLUxXaWlIdGNiQ3lfbWJIU01QQVVsLVJQTnZlNG1hc2E1NGFwdzM0MWkxdnVXN2h4TTAteTFuRndIQ3FrOEhTTjVSbFp1LWI?oc=5)
+
+2026-11-13 <span class="news-indication-tag">cancer</span>
+
+Source: [Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUTB6YVBRZ2t5LTAwT0pEd0d4enRuTnhZOVNpQ3AxYWJfbEhUMEJuV3JMQThiVm1rMGZjbzEzS0h6UzYwQW5QMHhjRzNldmJNd3g4amQtdEhiMmtJQllteUhfWWtmVlBhajdRRHI0ZGdCV2ZWUnhsNjJDTXkwdV82dVZDUmFZLUxXaWlIdGNiQ3lfbWJIU01QQVVsLVJQTnZlNG1hc2E1NGFwdzM0MWkxdnVXN2h4TTAteTFuRndIQ3FrOEhTTjVSbFp1LWI?oc=5)
+
+---
+
+### [Duale Erhaltungstherapie verlängert Überleben beim fortgeschrittenen kleinzelligen Lungenkarzinom - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNa3otTTBBcm9QT2doVktqbGJWSVZRcmFvdjdIM0ZXRS1QX2RTZzR5X1liR2FXV1pvcW42WlVteFJlUkN0OU13eFdCQUpPOUFqLWlFU0Q0RmM2cHE5OVRsQ3JOTHhhSXpwWW54T09uLVN3ZXQyV3NFYUpRdjFCdzJMOVlYeS1EQUJyOHo2WF8yWmVrZmdMeXZBOHBUZFE2Y2dqMUZwSUU4VE1ROU9uSGt6LXVpbndEeC1idzdvTFVBcGVSZ0M2NTFVeFgxZXJYa1diNl9OVW1yaTcyOUdvV0dWWFpEV01hLUtQZ0NLalQyLWVHS3pTYUtKYWNR?oc=5)
+
+2026-11-13 <span class="news-indication-tag">tumor</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNa3otTTBBcm9QT2doVktqbGJWSVZRcmFvdjdIM0ZXRS1QX2RTZzR5X1liR2FXV1pvcW42WlVteFJlUkN0OU13eFdCQUpPOUFqLWlFU0Q0RmM2cHE5OVRsQ3JOTHhhSXpwWW54T09uLVN3ZXQyV3NFYUpRdjFCdzJMOVlYeS1EQUJyOHo2WF8yWmVrZmdMeXZBOHBUZFE2Y2dqMUZwSUU4VE1ROU9uSGt6LXVpbndEeC1idzdvTFVBcGVSZ0M2NTFVeFgxZXJYa1diNl9OVW1yaTcyOUdvV0dWWFpEV01hLUtQZ0NLalQyLWVHS3pTYUtKYWNR?oc=5)
+
+---
+
+### [Shoreham family calls for more brain tumour research funds](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tZXRGUUZGa2tMWG5fS1h2T2xvdTJUaFVyVThxRXpZSFNNWUpKbGFuZ1NRVmVjcGpzc2dLTXlScVMtbG9aaUlkemh3ZHVRN25wOXJ3WkZEck5QVjR4WkE?oc=5)
+
+2026-11-13 <span class="news-indication-tag">tumour</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tZXRGUUZGa2tMWG5fS1h2T2xvdTJUaFVyVThxRXpZSFNNWUpKbGFuZ1NRVmVjcGpzc2dLTXlScVMtbG9aaUlkemh3ZHVRN25wOXJ3WkZEck5QVjR4WkE?oc=5)
+
+---
+
+### [“Ho avuto un tumore alla gola causato dal Papilloma virus, quando ho ricevuto la diagnosi mi sono congelata”: il racconto di Paola Barale - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMilAJBVV95cUxPOU9GSUk1cVJKQk9MWFdBQVFRbHhXUFR5LTYwYjYyUUk0RmR2dW0wWklIME1MNGxmenVuX3J1V3dxbzVONGhraG54VVZrT0pUQjVXSVluMEFjYjZ2NU1zZGR6ZDdoNk1DOC13b2dBZG5YazFDNEZhNDNRRFZpcWlHVURuc085ZEhKUXVRRzdkR0lSYnV0R3ZzOWNsNldMQUVGNElkZnR2ODdpcUJoUEtQZTBCZ01qSHhDR2xaOE14dGhQV3U2SV9uUjBqV3pXZk9TdzBtc1NFZnUxVm5SbDZhdHdpSXJSMWNqNTI1OVg2OGlDbWRWUUZFWHVnVU56N3VMRFZmZTgzZkZWc3F4SjNkanJBRkk?oc=5)
+
+2026-11-13 <span class="news-indication-tag">tumor</span>
+
+Source: [Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMilAJBVV95cUxPOU9GSUk1cVJKQk9MWFdBQVFRbHhXUFR5LTYwYjYyUUk0RmR2dW0wWklIME1MNGxmenVuX3J1V3dxbzVONGhraG54VVZrT0pUQjVXSVluMEFjYjZ2NU1zZGR6ZDdoNk1DOC13b2dBZG5YazFDNEZhNDNRRFZpcWlHVURuc085ZEhKUXVRRzdkR0lSYnV0R3ZzOWNsNldMQUVGNElkZnR2ODdpcUJoUEtQZTBCZ01qSHhDR2xaOE14dGhQV3U2SV9uUjBqV3pXZk9TdzBtc1NFZnUxVm5SbDZhdHdpSXJSMWNqNTI1OVg2OGlDbWRWUUZFWHVnVU56N3VMRFZmZTgzZkZWc3F4SjNkanJBRkk?oc=5)
+
+---
 
 ### [A Rare Case of Urinary Bladder Metastasis From Gastric Adenocarcinoma: A Case Report](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JmalhLZEVoNDdlTzVvaEtxWGhHcU8tV0hLdmVfODl5RDZlQVd6UWlRYmxBR2xLQnVoNU9YZHcwYUNWR1Y5ZzNMV0Y5S25mS0NFZW11cGZidmt2alhidDE1RGJ6dGZRekJwT2ZaR1BORGt5MjNoNWhWZHJoWmxHNlpjWjZxQl9WNndJWEoySUF0cjYxLWpETHJkazVwaFFpbVpWX1Z5VzhHOFBBeEhFWThCSzR2ZzZzWGs2UThHSQ?oc=5)
 
@@ -52,11 +92,11 @@ Source: [Cureus](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JmalhLZE
 
 ---
 
-### [„Dasselbe biologische System könnte entweder Krebs oder Neurodegeneration fördern“](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdFZ1bklJNG9ONmt0akxFam9kZWZqekdzMk8yOWJjdHU2aHdyUDY3ZWxlWVU5eEFBdUo2Y1dSdXp4OGdocTRiMGQ4Y0ZET253T01Gdm9XbXNXVGRNZE5JTGhDSlp4Z0ZWYUw3bEVEZTB2MWV1YmJWOV94T2o1NFFMYkY0dDhyVG9tNHEwTHNjWGNhWXJIMExNVzNaQjl6X3pCZTBJa0ZRenB4bU84SE1FNE1VNGlIZkgtRGZpcmxqd3JTakhpaVI5MEdqSDdqX1gxZ21kVmF5R0xRQkpOSGhTZQ?oc=5)
+### [Bowel cancer linked to risky foods that alter gut cells - what's YOUR diet like? - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQeGJCQWYwNlJhdzFFY19PZTAzZU1QXzZmQk9XVHdUYkV3ME54bVAxTDNicVdaUWVtZmE4NWI5dXpJd2pseGwyWHJNb0FnbVVCUFo1TVViRGRYRXJ1WlpoT1FPdUh3a0VKbWdPaEhwRUdRT2syM09leVdFWXZRM3ZJeHF4VU9LYUgtWWNHcXFuVQ?oc=5)
 
-2026-11-13 <span class="news-indication-tag">Krebs</span>
+2026-11-13 <span class="news-indication-tag">cancer</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdFZ1bklJNG9ONmt0akxFam9kZWZqekdzMk8yOWJjdHU2aHdyUDY3ZWxlWVU5eEFBdUo2Y1dSdXp4OGdocTRiMGQ4Y0ZET253T01Gdm9XbXNXVGRNZE5JTGhDSlp4Z0ZWYUw3bEVEZTB2MWV1YmJWOV94T2o1NFFMYkY0dDhyVG9tNHEwTHNjWGNhWXJIMExNVzNaQjl6X3pCZTBJa0ZRenB4bU84SE1FNE1VNGlIZkgtRGZpcmxqd3JTakhpaVI5MEdqSDdqX1gxZ21kVmF5R0xRQkpOSGhTZQ?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQeGJCQWYwNlJhdzFFY19PZTAzZU1QXzZmQk9XVHdUYkV3ME54bVAxTDNicVdaUWVtZmE4NWI5dXpJd2pseGwyWHJNb0FnbVVCUFo1TVViRGRYRXJ1WlpoT1FPdUh3a0VKbWdPaEhwRUdRT2syM09leVdFWXZRM3ZJeHF4VU9LYUgtWWNHcXFuVQ?oc=5)
 
 ---
 
@@ -81,6 +121,22 @@ Source: [L'essentiel](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmY5d
 2026-11-13 <span class="news-indication-tag">cancer</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE01X3FvbHRZbjFEb2dvVnYweVdYRWt5OEh4cHJCNGFCYS1nSGdTN0V5N3lJeXlkS1ZkZWdvUVQ2ZXlxdTdPc0I5eWlsamVTRE5RcXZLTzE4YlVrR0w1cnc?oc=5)
+
+---
+
+### [Jessica inizia la terapia contro il tumore al pancreas, l’oncologo del Niguarda: “Aperta una nuova strada” - Il Giorno](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUdrMUUyT0xIMDJianVCX1U1b2ZpN19udlFGU0xIU1Y5b0RkUVd1bktWdVlqTnItNUNhRmZWUk1iRktEa2FlMWZvU0ZJWGYyVW81cHNDYnVFZFRUTmt6ZTJqamlqM0ttSWQwVGY0QXREYnB3WmM3cWR3dXpubDk5Mk9JQVNmUQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">tumor</span>
+
+Source: [Il Giorno](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUdrMUUyT0xIMDJianVCX1U1b2ZpN19udlFGU0xIU1Y5b0RkUVd1bktWdVlqTnItNUNhRmZWUk1iRktEa2FlMWZvU0ZJWGYyVW81cHNDYnVFZFRUTmt6ZTJqamlqM0ttSWQwVGY0QXREYnB3WmM3cWR3dXpubDk5Mk9JQVNmUQ?oc=5)
+
+---
+
+### [Istituto dei tumori: al chiuso le sigarette elettroniche inquinano più delle auto nel traffico - la Repubblica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY1pvS3pKaHlyOHpjWmtEU250UWs4WHNSa2Q4aHdjb3E0TUFPUmtHZ2pmSG04MGpNZU5IQzZuTlgwVTJwZFpnQ1pvejJ4TkMyLWt2NEZWczdlM1Rsa0MyYk9OdndSTURGbFVIempScjBJazRXTldIb0tzd2JsdjhkWWJZVW1SOEgzMEJTWlp3RDI0MUtoNkhJTUJnb1FFdnM2LUx4M2ttbDNVOFp6VDlfSlV1ZV8xNU85RkNOOGV0Zk95VXN2NFU0ZtIBzgFBVV95cUxOeWNBSEF0RnlwRG9CTm1xbVRIR2FZaWtRdC0yOWV5QW4xSHllS3g3elZ5Mmlrc25EV1RheXhoR3Y1YU9ha0VFRE1YVjJ4UnZocjE2YjdnSnhHQjJhbUJFU1FKNlFKYnNLVVdmbWxJZUpLeUFQNEtSVjFlcEVoN1l4VElhYnFGclF6ZUtsRkRCZ0RNSWVra0RkMEhUZndMWW4wYnJCM0NGRWlYOVVKVzlUZExZWGVtVTVRMzFDc21KYXVsNEhJTWZSVjZmQWZqdw?oc=5)
+
+2026-11-12 <span class="news-indication-tag">tumor</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY1pvS3pKaHlyOHpjWmtEU250UWs4WHNSa2Q4aHdjb3E0TUFPUmtHZ2pmSG04MGpNZU5IQzZuTlgwVTJwZFpnQ1pvejJ4TkMyLWt2NEZWczdlM1Rsa0MyYk9OdndSTURGbFVIempScjBJazRXTldIb0tzd2JsdjhkWWJZVW1SOEgzMEJTWlp3RDI0MUtoNkhJTUJnb1FFdnM2LUx4M2ttbDNVOFp6VDlfSlV1ZV8xNU85RkNOOGV0Zk95VXN2NFU0ZtIBzgFBVV95cUxOeWNBSEF0RnlwRG9CTm1xbVRIR2FZaWtRdC0yOWV5QW4xSHllS3g3elZ5Mmlrc25EV1RheXhoR3Y1YU9ha0VFRE1YVjJ4UnZocjE2YjdnSnhHQjJhbUJFU1FKNlFKYnNLVVdmbWxJZUpLeUFQNEtSVjFlcEVoN1l4VElhYnFGclF6ZUtsRkRCZ0RNSWVra0RkMEhUZndMWW4wYnJCM0NGRWlYOVVKVzlUZExZWGVtVTVRMzFDc21KYXVsNEhJTWZSVjZmQWZqdw?oc=5)
 
 ---
 
@@ -260,14 +316,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xdGl4SXQ5X3
 
 ---
 
-### [«Il medicinale oncologico venduto solo negli Usa? Funziona ma ha costi esorbitanti: equilibrio difficile per il sistema sanitario» - Corriere del Veneto](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNLTlFNWJ2UE1WMzk0NlBxX0d3dGpHaUF4VDVQMEhWaFJyVnBQTXpLemVFWVMwaW01UlprVXlhaWxNY1ZpZFpacnc0OFlKZll2bWJjdnNoUG41Q2xXeUpuVVZlMi1KQ2ZkRklNUFpjUEowRHVEai1UYU1oQTZpckZHSllteVBxYnE0YTdvWDAwc0xiMnNvRWtsckxMZldvVFdWcFhTYmpmSnd0b3pfWGtlYTNCMUthZmhBUVNTb0ZEUWcxVHJVazcwd1pQenNGOEdfVTlhZ190MHZURklwdG9Jc1dqMXUzaGdXR2NzTE91XzdkLW5fc042M3VVVnRpT001b0R2Z3lQT1lqcG9SbFU1QVJDbHVONGRucjVWLTQ5M0tMNE42eF9oR0lUVXI1bEpaeTZyUXJubGgwSGMycG5BSlY5bzRVTHFqUzBRUWpVN2ZXM29oMEhjSUt2cWVTV2E5U21F0gHoAkFVX3lxTE5neDJZTE4zd0xYOE1vS3NTdllYTFd3TFozanIwQl8zbE5WUmRQckRtdG9Yb25RU1hJR190SExDZ3JSQXpBNmVVUlFHUFZGeDllSVdEeDFSX2tXX0Q4cHU3SVZmRG16NXRraDlkUnFkeFFYOGVRTGZ2bEdzNXV2U3pDQlpBaFh0al8zVXNxajhjTDIzUjd4bUdjcjBfb282cDg1OFNzNUJnTUFOQXRYY3VsZHc2a1VCRUtFRlFSLU15MnZCUGVFakh5SWlZZmNhWGhDa3NzMFB0TEhhcU5SSC1XVFNBVDRCUFkybm1ZRkNzV1piWFQ1N2pINGltOWhmSjRmTUZacHN6WTh1ZWstNnBWZ29ZdV9tUmxMTlh6MloybkY0YzVfeTVSN1QxVExkQ1haUXZFcHppWXVNWkp6azl2d1NZV1k5Xy14bDNSU3dGUERKcEdYeUpjcjRRVC1lTzhlWTE2X1J0SQ?oc=5)
-
-2026-11-11 <span class="news-indication-tag">cancro</span>
-
-Source: [Corriere del Veneto](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNLTlFNWJ2UE1WMzk0NlBxX0d3dGpHaUF4VDVQMEhWaFJyVnBQTXpLemVFWVMwaW01UlprVXlhaWxNY1ZpZFpacnc0OFlKZll2bWJjdnNoUG41Q2xXeUpuVVZlMi1KQ2ZkRklNUFpjUEowRHVEai1UYU1oQTZpckZHSllteVBxYnE0YTdvWDAwc0xiMnNvRWtsckxMZldvVFdWcFhTYmpmSnd0b3pfWGtlYTNCMUthZmhBUVNTb0ZEUWcxVHJVazcwd1pQenNGOEdfVTlhZ190MHZURklwdG9Jc1dqMXUzaGdXR2NzTE91XzdkLW5fc042M3VVVnRpT001b0R2Z3lQT1lqcG9SbFU1QVJDbHVONGRucjVWLTQ5M0tMNE42eF9oR0lUVXI1bEpaeTZyUXJubGgwSGMycG5BSlY5bzRVTHFqUzBRUWpVN2ZXM29oMEhjSUt2cWVTV2E5U21F0gHoAkFVX3lxTE5neDJZTE4zd0xYOE1vS3NTdllYTFd3TFozanIwQl8zbE5WUmRQckRtdG9Yb25RU1hJR190SExDZ3JSQXpBNmVVUlFHUFZGeDllSVdEeDFSX2tXX0Q4cHU3SVZmRG16NXRraDlkUnFkeFFYOGVRTGZ2bEdzNXV2U3pDQlpBaFh0al8zVXNxajhjTDIzUjd4bUdjcjBfb282cDg1OFNzNUJnTUFOQXRYY3VsZHc2a1VCRUtFRlFSLU15MnZCUGVFakh5SWlZZmNhWGhDa3NzMFB0TEhhcU5SSC1XVFNBVDRCUFkybm1ZRkNzV1piWFQ1N2pINGltOWhmSjRmTUZacHN6WTh1ZWstNnBWZ29ZdV9tUmxMTlh6MloybkY0YzVfeTVSN1QxVExkQ1haUXZFcHppWXVNWkp6azl2d1NZV1k5Xy14bDNSU3dGUERKcEdYeUpjcjRRVC1lTzhlWTE2X1J0SQ?oc=5)
-
----
-
 ### [Tumori rari del cervello: nuove terapie per il glioma che colpisce soprattutto i giovani - Corriere della Sera](https://news.google.com/rss/articles/CBMioAJBVV95cUxPQUh6VThZX1EzVnJzNFRJMTVPUnd0MGY0TXB5T3BzbFY1UGtNcXBfOVVMY0R3Ul9aRzNOcko5dGtqUXVqZXhuRERmMWJhZ0laNzd6SG1pd2EzMmliTXZsSXlMNENZWmtuWGNkQTQwbUgzSUwyMXVnM01CdVVMT0prbW43YUxsdzc0akEzMmlOMjcxNEItSGxEaEF4MTdBVWFXckZxQkZMWnZlTDZhR0hJR1RPcFJlcVFGTXl1eEY3Szl5aG5VN3kzWUduUVM0OFJiQm5fQkNheWpkQnBPYndPNzE3Y0s1c2lFdmFubmJkN0dFdkNiaks3dTlHZUJBQklaTnBwYUs1UVdwVmFCdnhQOUJWRGxvSk9tMkxaMHUybzXSAaYCQVVfeXFMTnpIN2ZCYjB5cjZpMzdJT0l2M1d1anljOWZPN3dyYjBUNjJNdXFaYkQ4YTZ4MFgyOHEzVkZJM2xEa25XdHRJR1p5dUl3NVZvdVBRR3RRVXF0NVlDV3NJZmxPWE84VkQ2U1hiWGxTMWFfQmtpem51WGZzdEJDdU1lUFB5U01IenVZVzRtWm42V21fN1lRRzRxbzIyX0g0MDJLeDF4bEg3dVZyN3Rkc3ZIN2V5T2RsYUxrb0VPM1d3SlE4QmE5MklBelM3QVA3M2R0SURJZUJJM2p1bXBUTng3UU5EN2h4MkNUZm11WF8tNGNsR2M2SjRRaDUyQUR5YjduTjdBM3FKVHNBQ3F4UWFnSkVySURBdl80Ulk0d2lic0dxRVN3ZlRn?oc=5)
 
 2026-11-11 <span class="news-indication-tag">tumor</span>
@@ -289,6 +337,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFlD
 2026-11-11 <span class="news-indication-tag">cancer</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NGM4TnUzZWYySnFwVS1KOEV0Y1VHZG9yVllsdmh1QnI2WVNfWkF0X0N4SmlRcFNrZUFSUTAwSUxOdlEtR3ZqUXJsWUk5T3FsWUE2Nng0VmFlaGEzSFhVTHBET0hhUXdvemRNQVc2OS1VZ3lkQ2hzWlRuZy1TeTQ?oc=5)
+
+---
+
+### [„Dasselbe biologische System könnte entweder Krebs oder Neurodegeneration fördern“](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdFZ1bklJNG9ONmt0akxFam9kZWZqekdzMk8yOWJjdHU2aHdyUDY3ZWxlWVU5eEFBdUo2Y1dSdXp4OGdocTRiMGQ4Y0ZET253T01Gdm9XbXNXVGRNZE5JTGhDSlp4Z0ZWYUw3bEVEZTB2MWV1YmJWOV94T2o1NFFMYkY0dDhyVG9tNHEwTHNjWGNhWXJIMExNVzNaQjl6X3pCZTBJa0ZRenB4bU84SE1FNE1VNGlIZkgtRGZpcmxqd3JTakhpaVI5MEdqSDdqX1gxZ21kVmF5R0xRQkpOSGhTZQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">Krebs</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdFZ1bklJNG9ONmt0akxFam9kZWZqekdzMk8yOWJjdHU2aHdyUDY3ZWxlWVU5eEFBdUo2Y1dSdXp4OGdocTRiMGQ4Y0ZET253T01Gdm9XbXNXVGRNZE5JTGhDSlp4Z0ZWYUw3bEVEZTB2MWV1YmJWOV94T2o1NFFMYkY0dDhyVG9tNHEwTHNjWGNhWXJIMExNVzNaQjl6X3pCZTBJa0ZRenB4bU84SE1FNE1VNGlIZkgtRGZpcmxqd3JTakhpaVI5MEdqSDdqX1gxZ21kVmF5R0xRQkpOSGhTZQ?oc=5)
 
 ---
 

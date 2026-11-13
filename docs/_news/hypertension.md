@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "ipertensione (hypertension) News"
+title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ipertensione (hypertension). 46 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 47 articles, 55 related drugs."
 permalink: /news/hypertension/
 last_modified_at: 2026-11-13
 ---
 
-# ipertensione (hypertension) News
+# Bluthochdruck (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about ipertensione (hypertension)?">
-<strong>ipertensione (hypertension)</strong> currently has <strong>46 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>47 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “ipertensione” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -60,7 +60,15 @@ This page brings together the latest health news about “ipertensione” and li
 </ul>
 </div>
 
-## Related News (46)
+## Related News (47)
+
+### [Entzündungshemmende Lebensmittel: Was Studien wirklich hergeben - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVl85RFdjUTA1YlVRVW84dDgzY0lnbjJwVDFaLXhfLVRUVmhJWTRrb2J3RGFZWHFOZnVIbWR2OXM3cEJZejFRNkhmWkYtd21hdFVjLUVwaEc2ZGdGOGdZMHNhT0x1TXFqNjVCYWdPWnNhWFgzaDdFanp6TGpXSW1hbG5nVVhabWZxbXRzdmcybjh1UGpHSjZORUhyTQ?oc=5)
+
+2026-11-13
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVl85RFdjUTA1YlVRVW84dDgzY0lnbjJwVDFaLXhfLVRUVmhJWTRrb2J3RGFZWHFOZnVIbWR2OXM3cEJZejFRNkhmWkYtd21hdFVjLUVwaEc2ZGdGOGdZMHNhT0x1TXFqNjVCYWdPWnNhWFgzaDdFanp6TGpXSW1hbG5nVVhabWZxbXRzdmcybjh1UGpHSjZORUhyTQ?oc=5)
+
+---
 
 ### [Ipertensione, 1 persona su 2 non si cura correttamente](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTTQ3ZnRqXzcyUFhVTWlrMlBBQ3VGQlRDeXZlMWYxZmY0NjdNaTU3S3p3N0lTdWdhdEExWk5zMzFpSHlMSV9oMW82Q3Z1SXBuQkJ2RVY2MG5RY2Vhdi1HN1lYdlRINDN1cUEzT3dsbURGamZrakQyM3RZTjRDenY2djR0Q25UTGY5cm5DNmpuS2NvNFlzcUpLdTVONVQ0NFlNb2tSdFVEeFlUcFl2MjRsSkdMdjF3aW0tcGZCYmxHR2NRMklDdW1lamM4Rm0tckthM3l5TUZLZ1JueVdaejViSzFjVTh3Vko3R0JZT0M0Y01qV2RwVGozWmlkb9IBgAJBVV95cUxOZVV1UUNSdUd5MkZjc01wVkZpVUxMbnVpeFBCUUc1QkpwbkdGSHg1T2IwOXlIajV6SDV5VGt1YjE4ZVgzTWgzeXQxcHluY3k0M0hxUXI3ZnJLbFVaS0tLbWpDN2ZVTjdoWkFodHRtU0g0SWlMQk90bXd0OFlVVV9qNnQtTFA2b0M1MnZybl9VVEdmN3RCWmp3QkpnT1ZTVEdhMUdldFpqSDR0TVI0N1FRSDdNZXhnYmpjekxXRk82MWR3SUFsS2pzbE9vV09ZdEVRb2FzenM2clJFVWtkTnM4blJUS1RNeFBzSlh0a29nLUdnYm1OdjBXSVRKR2JDOXpk?oc=5)
 

@@ -35,6 +35,14 @@ This page combines the AI-predicted indications for Apixaban with the latest hea
 
 ## Related News (82)
 
+### [Entzündungshemmende Lebensmittel: Was Studien wirklich hergeben - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVl85RFdjUTA1YlVRVW84dDgzY0lnbjJwVDFaLXhfLVRUVmhJWTRrb2J3RGFZWHFOZnVIbWR2OXM3cEJZejFRNkhmWkYtd21hdFVjLUVwaEc2ZGdGOGdZMHNhT0x1TXFqNjVCYWdPWnNhWFgzaDdFanp6TGpXSW1hbG5nVVhabWZxbXRzdmcybjh1UGpHSjZORUhyTQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVl85RFdjUTA1YlVRVW84dDgzY0lnbjJwVDFaLXhfLVRUVmhJWTRrb2J3RGFZWHFOZnVIbWR2OXM3cEJZejFRNkhmWkYtd21hdFVjLUVwaEc2ZGdGOGdZMHNhT0x1TXFqNjVCYWdPWnNhWFgzaDdFanp6TGpXSW1hbG5nVVhabWZxbXRzdmcybjh1UGpHSjZORUhyTQ?oc=5)
+
+---
+
 ### [Blood thinner could offer a new way to treat osteoarthritis - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbnhrWEl1WmtSbVNrN05ZWFF3c2s1emJPcGVJWk1NdldVNXhrZTdlakQyREVDSHFpMkd2QUdsWHQ2T19ZZ0h0RE12RFVPUkxKeWUydVJBVC1fbTlCaDY5RmgySFdlTmJFNDR0MHFLQ3VxczJMWF9lWmZyQTA?oc=5)
 
 2026-11-12 <span class="news-indication-tag">arthritis</span>
@@ -112,14 +120,6 @@ Source: [Diario Estrategia](https://news.google.com/rss/articles/CBMi6AFBVV95cUx
 2026-11-11 <span class="news-indication-tag">heart failure</span>
 
 Source: [The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
-
----
-
-### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
-
-2026-11-10 <span class="news-indication-tag">atrial fibrillation</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 
 ---
 

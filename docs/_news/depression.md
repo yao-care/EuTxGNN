@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "dépression (depression) News"
+title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 33 articles, 7 related drugs."
+description: "Health news about depresión (depression). 34 articles, 7 related drugs."
 permalink: /news/depression/
 last_modified_at: 2026-11-13
 ---
 
-# dépression (depression) News
+# depresión (depression) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>33 news articles</strong> and 7 related drugs.
+<p class="key-answer" data-question="What news is there about depresión (depression)?">
+<strong>depresión (depression)</strong> currently has <strong>34 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dépression” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “depresión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -34,13 +34,29 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (33)
+## Related News (34)
+
+### [Congreso Nacional de Psiquiatría: La depresión es frecuente en el Alzheimer, incluso en etapas previas a su diagnóstico - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNV2VHZmZfZnFtNnRqY3I2dG03NXluYnJuTXZmZW5ocHhfbHJTdlE0Rm0zaTZ2aV9MdTRSRzFQSmJQSmlYS0FjQ2Mta0ZhbHNPYjNIVy1ERl9qTmFCd0xhU1RfTWN6c0tIVzBjT3h3ZTBPTjZsc2pjTVYzaXZ4dzUzeFd3ZXRiVGpNNnp0aWxjSXhUVnhpdk9JNXhKREFHZ2tJOENSTkFIU3FnUHpTb2l4TFFTVldUZWlqbGFQcdIBtwFBVV95cUxOeEt6R0VibmhES3NuNlBBX24tUWxFNkh1UWZ2bTJ1YkJQWkYzcmVCYmVuNkVLZDRvWXU2Uk85TzZXUTF6blAzTTd5NWpUZmpKM1NVMk9xYUk5eXJYc2x4SHNjbWhoWU9VRnl1Q2d5ZW1hX1FzMWdlNE5JbGRUMmtDdkJORWFETDRKdUN5dnVWVktWc0d6ZzU4ZVRWRjhaQWJaUF92TUp5aGxGUVJ2OFA2TFBaVGtSaUE?oc=5)
+
+2026-11-13
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNV2VHZmZfZnFtNnRqY3I2dG03NXluYnJuTXZmZW5ocHhfbHJTdlE0Rm0zaTZ2aV9MdTRSRzFQSmJQSmlYS0FjQ2Mta0ZhbHNPYjNIVy1ERl9qTmFCd0xhU1RfTWN6c0tIVzBjT3h3ZTBPTjZsc2pjTVYzaXZ4dzUzeFd3ZXRiVGpNNnp0aWxjSXhUVnhpdk9JNXhKREFHZ2tJOENSTkFIU3FnUHpTb2l4TFFTVldUZWlqbGFQcdIBtwFBVV95cUxOeEt6R0VibmhES3NuNlBBX24tUWxFNkh1UWZ2bTJ1YkJQWkYzcmVCYmVuNkVLZDRvWXU2Uk85TzZXUTF6blAzTTd5NWpUZmpKM1NVMk9xYUk5eXJYc2x4SHNjbWhoWU9VRnl1Q2d5ZW1hX1FzMWdlNE5JbGRUMmtDdkJORWFETDRKdUN5dnVWVktWc0d6ZzU4ZVRWRjhaQWJaUF92TUp5aGxGUVJ2OFA2TFBaVGtSaUE?oc=5)
+
+---
 
 ### [« Ce qui nous a le plus surpris… » : 100 000 dossiers médicaux révèlent un lien inattendu entre graisse et dépression - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNV1lMR3hZVDlDeXdyMm1MYXVWTDZEUzNHS0MxTzg5dmpWRHA4ZXZwdlg3X2JLb0pTX0szWE9wd0dUSVBfNFVWSHZPY2YxR19YX2pTTU5TVlBmLVpPeDZoOHd6RW1CYnJ3OVFIbTc0SDlzNzljUDJIcXZ6UHdjX3VyWDFmVGJyVVhsN1ZFbjZOR21hRGdQZ3pyelA5SjkxakJkOHJzcXphU0JNTGozaWNJbEhON3RDZU9odzhZR0tXaWJNV1R0bEpDVC1NU1dXOVkzZXoySFdLN0o4aXJ6MHNsTFZGUGZsYThDLWJNQk4xTHNFdw?oc=5)
 
 2026-11-13
 
 Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNV1lMR3hZVDlDeXdyMm1MYXVWTDZEUzNHS0MxTzg5dmpWRHA4ZXZwdlg3X2JLb0pTX0szWE9wd0dUSVBfNFVWSHZPY2YxR19YX2pTTU5TVlBmLVpPeDZoOHd6RW1CYnJ3OVFIbTc0SDlzNzljUDJIcXZ6UHdjX3VyWDFmVGJyVVhsN1ZFbjZOR21hRGdQZ3pyelA5SjkxakJkOHJzcXphU0JNTGozaWNJbEhON3RDZU9odzhZR0tXaWJNV1R0bEpDVC1NU1dXOVkzZXoySFdLN0o4aXJ6MHNsTFZGUGZsYThDLWJNQk4xTHNFdw?oc=5)
+
+---
+
+### [Smartphone-Serious-Game kann Depression und Angst bei Antidepressiva-Patienten lindern - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOamhQLXRvcVRLWHQ4VFNIMWUyejM3TF9RaWMzbGRSTHo4SVNLY0h2aVlLbmozRUVlQmloZTNRYW1Yc0NsaFlCR2FCX3dhaTYzdVdrSXJCVzRYZElkSzJ1RGpfMWdidVc4LUwzeks1VTlzTGNtSEVQN3F4T2JwRjI1cUl6Vzk4aFFPNU1CUUNtN0dBNm0wWU1YeVNSWm5Dd0o2MjFnb0tvNFRTdmJRZVJMaWduaFpTLTJGVGc?oc=5)
+
+2026-11-12
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOamhQLXRvcVRLWHQ4VFNIMWUyejM3TF9RaWMzbGRSTHo4SVNLY0h2aVlLbmozRUVlQmloZTNRYW1Yc0NsaFlCR2FCX3dhaTYzdVdrSXJCVzRYZElkSzJ1RGpfMWdidVc4LUwzeks1VTlzTGNtSEVQN3F4T2JwRjI1cUl6Vzk4aFFPNU1CUUNtN0dBNm0wWU1YeVNSWm5Dd0o2MjFnb0tvNFRTdmJRZVJMaWduaFpTLTJGVGc?oc=5)
 
 ---
 
@@ -97,14 +113,6 @@ Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV9
 2026-11-09
 
 Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMihgFBVV95cUxPa3RXcmhEMWxJZHlxRUlhYVN1X19pZnVMVUp0UHFZcTFQTDdHdi1TbnJSYlRNNFlUX25FTGtKRzg0bVpXdS1XZ0gxOVEzZnAyX2doc1Y4ZTQ1eEdtWDZHT2Z4eF8xdlpNajZNcXNRSHRrZ283SkVaYkN4R0lrbkVsbkd0b3Z0QQ?oc=5)
-
----
-
-### [Flora intestinale e umore: come i batteri modulano intestino e sistema nervoso](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSG9ZTFJxXzJFZi1sQjNlQi1ScEJ2d0ttUlQ1anZkbDIwZmNpY3RXNUZfRHpNOFpjU0RNX3FoMzBNZHlJdEN5ZE1tVUIwQS1BUXN5eE1uMFR2eXFadXVBalh5eEZMUldua3J4QzJPZi00bUJQV3V3NTYzTVVpbkVSSXF6Rk5LVHNQSG9XeXNLUmRKeGl0VXplY293T216Z0JBb1k2b1R5bUhBcDR0eTJkaWRmT2pTR1U1cFpvU1VoQVBYRy1UOFZGSGlB?oc=5)
-
-2026-11-09
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSG9ZTFJxXzJFZi1sQjNlQi1ScEJ2d0ttUlQ1anZkbDIwZmNpY3RXNUZfRHpNOFpjU0RNX3FoMzBNZHlJdEN5ZE1tVUIwQS1BUXN5eE1uMFR2eXFadXVBalh5eEZMUldua3J4QzJPZi00bUJQV3V3NTYzTVVpbkVSSXF6Rk5LVHNQSG9XeXNLUmRKeGl0VXplY293T216Z0JBb1k2b1R5bUhBcDR0eTJkaWRmT2pTR1U1cFpvU1VoQVBYRy1UOFZGSGlB?oc=5)
 
 ---
 

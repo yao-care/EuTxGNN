@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Aprepitant?">
-<strong>Aprepitant</strong> currently has <strong>78 news articles</strong>, with 10 predicted indications.
+<strong>Aprepitant</strong> currently has <strong>79 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Aprepitant with the latest h
 <p><a href="{{ '/drugs/aprepitant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (78)
+## Related News (79)
+
+### [Entzündungshemmende Lebensmittel: Was Studien wirklich hergeben - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVl85RFdjUTA1YlVRVW84dDgzY0lnbjJwVDFaLXhfLVRUVmhJWTRrb2J3RGFZWHFOZnVIbWR2OXM3cEJZejFRNkhmWkYtd21hdFVjLUVwaEc2ZGdGOGdZMHNhT0x1TXFqNjVCYWdPWnNhWFgzaDdFanp6TGpXSW1hbG5nVVhabWZxbXRzdmcybjh1UGpHSjZORUhyTQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVl85RFdjUTA1YlVRVW84dDgzY0lnbjJwVDFaLXhfLVRUVmhJWTRrb2J3RGFZWHFOZnVIbWR2OXM3cEJZejFRNkhmWkYtd21hdFVjLUVwaEc2ZGdGOGdZMHNhT0x1TXFqNjVCYWdPWnNhWFgzaDdFanp6TGpXSW1hbG5nVVhabWZxbXRzdmcybjh1UGpHSjZORUhyTQ?oc=5)
+
+---
 
 ### [Ipertensione, 1 persona su 2 non si cura correttamente](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTTQ3ZnRqXzcyUFhVTWlrMlBBQ3VGQlRDeXZlMWYxZmY0NjdNaTU3S3p3N0lTdWdhdEExWk5zMzFpSHlMSV9oMW82Q3Z1SXBuQkJ2RVY2MG5RY2Vhdi1HN1lYdlRINDN1cUEzT3dsbURGamZrakQyM3RZTjRDenY2djR0Q25UTGY5cm5DNmpuS2NvNFlzcUpLdTVONVQ0NFlNb2tSdFVEeFlUcFl2MjRsSkdMdjF3aW0tcGZCYmxHR2NRMklDdW1lamM4Rm0tckthM3l5TUZLZ1JueVdaejViSzFjVTh3Vko3R0JZT0M0Y01qV2RwVGozWmlkb9IBgAJBVV95cUxOZVV1UUNSdUd5MkZjc01wVkZpVUxMbnVpeFBCUUc1QkpwbkdGSHg1T2IwOXlIajV6SDV5VGt1YjE4ZVgzTWgzeXQxcHluY3k0M0hxUXI3ZnJLbFVaS0tLbWpDN2ZVTjdoWkFodHRtU0g0SWlMQk90bXd0OFlVVV9qNnQtTFA2b0M1MnZybl9VVEdmN3RCWmp3QkpnT1ZTVEdhMUdldFpqSDR0TVI0N1FRSDdNZXhnYmpjekxXRk82MWR3SUFsS2pzbE9vV09ZdEVRb2FzenM2clJFVWtkTnM4blJUS1RNeFBzSlh0a29nLUdnYm1OdjBXSVRKR2JDOXpk?oc=5)
 
@@ -134,7 +142,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTH
 
 ### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 
-2026-11-10 <span class="news-indication-tag">atrial fibrillation</span> <span class="news-indication-tag">heart disease</span>
+2026-11-10 <span class="news-indication-tag">atrial fibrillation</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 

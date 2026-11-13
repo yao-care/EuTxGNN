@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>83 news articles</strong>, with 5 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>85 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,23 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (83)
+## Related News (85)
+
+### [„Die Patienten kannten im Durchschnitt nur drei Schlaganfallrisikofaktoren“ – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUjRNTnBtM3Z6QWNpVW03bWxycVVsMjV4Q1RmSldOam5aaFlTeG5xeUxWQ0FIWndKQjJnSUdEdlVBeVhVN0NuelpUZktOdy11SXV2eUE1Z2lvSDhic0FNSjFyU0p0TXFPQ2JXMVM4UjdYMEo5LU0xTDFLSDFFWktMVl9MaDdzbGlhTV9qOHpNbDgxQVQycktRX013SWprZm4tMDNJV2lhZDBjS1RoLVU2R0JqMV9qY2JOWXBtbGZucWlwWmJfZFJ3OFFkSDdpTjZhbko5ZVdwcHQtUQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUjRNTnBtM3Z6QWNpVW03bWxycVVsMjV4Q1RmSldOam5aaFlTeG5xeUxWQ0FIWndKQjJnSUdEdlVBeVhVN0NuelpUZktOdy11SXV2eUE1Z2lvSDhic0FNSjFyU0p0TXFPQ2JXMVM4UjdYMEo5LU0xTDFLSDFFWktMVl9MaDdzbGlhTV9qOHpNbDgxQVQycktRX013SWprZm4tMDNJV2lhZDBjS1RoLVU2R0JqMV9qY2JOWXBtbGZucWlwWmJfZFJ3OFFkSDdpTjZhbko5ZVdwcHQtUQ?oc=5)
+
+---
+
+### [Colesterolo, come si calcola il proprio rischio. Come si interviene: alimentazione, nutraceutici e farmaci - Corriere della Sera](https://news.google.com/rss/articles/CBMitAJBVV95cUxNWTVKNktKcW5OQ3JfUVlIWks0SUNTblF5UEdnaHhjSHozWkFQbU1kWG9pc25UOTVHRHp6bDE1MEQ1a2M1bWxaRGpOdGRVczBFSUpTeW0wTUkwMFU1V2hTcUwzVlRUam9mSUZrNEEyWmVHWWpSQTg1YmM0T2RWb1BQQ0VqVWotWElUbUJHYWlHQ3VBd2JBYlhmMTVRdmxVbnRla1NiWmlqeWpmZXB5UXVTc2ZzQVBlQ2pnd1VhS1lTUVE4M0xDY211Z0p1WlFseWU4cklwZlJkOE5qTlVRQW10M2xXUHU5U01oaGYtc3JIRFpnb0h5aTZsSEZqbEN6ZHRLbjFEU0RydEVLQ3BRSUoxa2ZFR0wxdDJEcUcxUmtQZ01YbW9XcGQxWWJXVUNyRHhsWWsyZtIBugJBVV95cUxPMi1MN2tHMmtiV3BEa1NUQ2NjOGl2aXUwZWF1c3c2cUMtN1hBM0s0YXlOcDhhSjY5RUYwWjdKWGdPcnpPeW9pSnAwSUZRbUs3TFgxX1c3ZXdVWVIwempfSlR1VldhMFpjdjJuVzZ3NzUxTnhpVFZRM0dtb0tRX0JrN1pGbzhFb1BJelVRbV91MkNKU0VvZHBDbmJJOG1GbXRvdzh6Y1dCbElVSkZ6bi1MRVFJTjh6V2Z1UFV2ekJBSFNlZTdLMW9tTGdNUDdlX0NNc09VTWh2SXBYTzM1T2RtYVdQRXRKSGpTS0dOWnlqUVVtLUFzY29SN0M4dTkySzZPSklTck5DQ3hXbjlvdFFRQmViWWk2Vy05WEZHSG5EdVdRVE40c1FMMHROVXEycUVWRWs4aWxYRnpyZw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">ictus</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMitAJBVV95cUxNWTVKNktKcW5OQ3JfUVlIWks0SUNTblF5UEdnaHhjSHozWkFQbU1kWG9pc25UOTVHRHp6bDE1MEQ1a2M1bWxaRGpOdGRVczBFSUpTeW0wTUkwMFU1V2hTcUwzVlRUam9mSUZrNEEyWmVHWWpSQTg1YmM0T2RWb1BQQ0VqVWotWElUbUJHYWlHQ3VBd2JBYlhmMTVRdmxVbnRla1NiWmlqeWpmZXB5UXVTc2ZzQVBlQ2pnd1VhS1lTUVE4M0xDY211Z0p1WlFseWU4cklwZlJkOE5qTlVRQW10M2xXUHU5U01oaGYtc3JIRFpnb0h5aTZsSEZqbEN6ZHRLbjFEU0RydEVLQ3BRSUoxa2ZFR0wxdDJEcUcxUmtQZ01YbW9XcGQxWWJXVUNyRHhsWWsyZtIBugJBVV95cUxPMi1MN2tHMmtiV3BEa1NUQ2NjOGl2aXUwZWF1c3c2cUMtN1hBM0s0YXlOcDhhSjY5RUYwWjdKWGdPcnpPeW9pSnAwSUZRbUs3TFgxX1c3ZXdVWVIwempfSlR1VldhMFpjdjJuVzZ3NzUxTnhpVFZRM0dtb0tRX0JrN1pGbzhFb1BJelVRbV91MkNKU0VvZHBDbmJJOG1GbXRvdzh6Y1dCbElVSkZ6bi1MRVFJTjh6V2Z1UFV2ekJBSFNlZTdLMW9tTGdNUDdlX0NNc09VTWh2SXBYTzM1T2RtYVdQRXRKSGpTS0dOWnlqUVVtLUFzY29SN0M4dTkySzZPSklTck5DQ3hXbjlvdFFRQmViWWk2Vy05WEZHSG5EdVdRVE40c1FMMHROVXEycUVWRWs4aWxYRnpyZw?oc=5)
+
+---
 
 ### [Colesterolo, rischio infarti e ictus anche con valori LDL bassi. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2Y0UmN1WDJVYkNrb0c0YU53S2Iwa0pjRXJTWW12dEdDNURFT3VlWFRaYl8xSklJTXQ1aTh5eDQwSlctRGhsM2JVanBKbVVQX01uTXVrLVRTRHpfRzF2YkJYRG1hZ2VxRnJVOUQ3N1hxQ2Q1Z1RhNENpUmxIdTdtTkhCeXZkYzRRREE?oc=5)
 
@@ -47,7 +63,7 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2Y0UmN1
 
 ---
 
-### [Two Trials of Intensive BP Lowering Find Different Outcomes in Stroke Survivors and Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+### [Two Trials of Intensive BP Lowering, Two Different Outcomes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
 
 2026-11-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
 

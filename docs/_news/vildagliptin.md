@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Vildagliptin?">
-<strong>Vildagliptin</strong> currently has <strong>149 news articles</strong>, with 9 predicted indications.
+<strong>Vildagliptin</strong> currently has <strong>155 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,47 @@ This page combines the AI-predicted indications for Vildagliptin with the latest
 <p><a href="{{ '/drugs/vildagliptin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (149)
+## Related News (155)
+
+### [Una revisión vincula la diabetes tipo 2 con un riesgo 53% mayor de alzhéimer](https://news.google.com/rss/articles/CBMib0FVX3lxTE53VkRCeUdMSGJ0TWJCNnMwdkFJWnpXSDZ2REk5Y0dEYVVxM3RkRUlsZl83VnNSa1NHUlhNQUVlTzUtb3JyaFJyR2ZIUFEyaDRLWmJBRlhPYlp4Y2x1cHFMaHJWenpyS0JXS3l0MWxyTQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [https://fomoera.com/](https://news.google.com/rss/articles/CBMib0FVX3lxTE53VkRCeUdMSGJ0TWJCNnMwdkFJWnpXSDZ2REk5Y0dEYVVxM3RkRUlsZl83VnNSa1NHUlhNQUVlTzUtb3JyaFJyR2ZIUFEyaDRLWmJBRlhPYlp4Y2x1cHFMaHJWenpyS0JXS3l0MWxyTQ?oc=5)
+
+---
+
+### [‘Never thought I’d eat that’: how vegetable prescriptions are helping Britons with diabetes - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNRXZVUi11a0MtVWhnSlZiMlQ5cF84TVJ2NnQyclZOaGt0ZXFsbF9zblNGTTNESGE5UTdFN3F4VFJZQU9HclV3Z2w1VHVGd2hISzFlZ2xqTmo5dWVFX2hoZjV6N3BRaDM1R1dHaTBUaG9Kb1pCTGxXOHJ5dVNLZVJFYzFzUG9rTG91bDZxVUZ6VXkyYzVqVVV4TU41Q0hKZw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNRXZVUi11a0MtVWhnSlZiMlQ5cF84TVJ2NnQyclZOaGt0ZXFsbF9zblNGTTNESGE5UTdFN3F4VFJZQU9HclV3Z2w1VHVGd2hISzFlZ2xqTmo5dWVFX2hoZjV6N3BRaDM1R1dHaTBUaG9Kb1pCTGxXOHJ5dVNLZVJFYzFzUG9rTG91bDZxVUZ6VXkyYzVqVVV4TU41Q0hKZw?oc=5)
+
+---
+
+### [Jugendliche mit Typ-1-Diabetes: Schulung muss mehr als Technik vermitteln - mgo medizin](https://news.google.com/rss/articles/CBMirgFBVV95cUxOeWFaaGlMNDFzX3c0dFZ4bzlYRG4zc3U3dEx4N1dSM0Zwb3dVRzJ6dEVGMVNyVVhlMjNudlVKTHBiZFZya1F0XzEyWDkxZS1YRTZBMHB3ejdHWTByTlpSTGhydUF0ZEx2Y19qNmtVajF5bWJETXJfR1BTbjFEbVYtemsyemxGYmZzS1ZlWWVvY2FuTGlpSVNfRjhhUGRPckpIenAtbHRtNjFsVEFQT0E?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [mgo medizin](https://news.google.com/rss/articles/CBMirgFBVV95cUxOeWFaaGlMNDFzX3c0dFZ4bzlYRG4zc3U3dEx4N1dSM0Zwb3dVRzJ6dEVGMVNyVVhlMjNudlVKTHBiZFZya1F0XzEyWDkxZS1YRTZBMHB3ejdHWTByTlpSTGhydUF0ZEx2Y19qNmtVajF5bWJETXJfR1BTbjFEbVYtemsyemxGYmZzS1ZlWWVvY2FuTGlpSVNfRjhhUGRPckpIenAtbHRtNjFsVEFQT0E?oc=5)
+
+---
+
+### [La diabetes tipo 2 sale a la calle para concienciar y resolver dudas sobre su diagnóstico](https://news.google.com/rss/articles/CBMirAFBVV95cUxORk5vMm9DRHFXQmV1V3lZVDYxS1RPUHp4cVJ0QTkybHEwYzJ3SzdjTWY2S0NCcVhhVTI5MFkydUl6TDhZSlVIcV9iXzA2OFRnRTUzNjJWV3plNjgxbmo3ajRUVno4X0lKZzNNcGxBTmpyRi1MdkNlTjZ4MUtkVFQ1SkxlQ0JLN3ZWZGI0V0VreVJaek9IeG5teldvaVJneUttb0h1SXcwNWF2WVBw0gGyAUFVX3lxTE00dkVmUk1iM3F2QkN1SEhsanBGazkwOEk2Um8xN2dacnJySTRaQl9KWTJMT08yTzhldlpDTVA4SjZrakpoM1FKR3BzeGJIN2Zzd3pOdDJ6c1M0eENYMlllZUFxV1V6SVlrMVZTOWo1YnZzRlpUbkFzUnhlWmpKSldpMWtoZHNQblRyS09BNTA5UmxCbW13VlBkdWZDWWhFNlBuTGd3OVRWTGNvNW5RX1hzZHc?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [Canarias7](https://news.google.com/rss/articles/CBMirAFBVV95cUxORk5vMm9DRHFXQmV1V3lZVDYxS1RPUHp4cVJ0QTkybHEwYzJ3SzdjTWY2S0NCcVhhVTI5MFkydUl6TDhZSlVIcV9iXzA2OFRnRTUzNjJWV3plNjgxbmo3ajRUVno4X0lKZzNNcGxBTmpyRi1MdkNlTjZ4MUtkVFQ1SkxlQ0JLN3ZWZGI0V0VreVJaek9IeG5teldvaVJneUttb0h1SXcwNWF2WVBw0gGyAUFVX3lxTE00dkVmUk1iM3F2QkN1SEhsanBGazkwOEk2Um8xN2dacnJySTRaQl9KWTJMT08yTzhldlpDTVA4SjZrakpoM1FKR3BzeGJIN2Zzd3pOdDJ6c1M0eENYMlllZUFxV1V6SVlrMVZTOWo1YnZzRlpUbkFzUnhlWmpKSldpMWtoZHNQblRyS09BNTA5UmxCbW13VlBkdWZDWWhFNlBuTGd3OVRWTGNvNW5RX1hzZHc?oc=5)
+
+---
+
+### [Los centros de salud del Bierzo acercan a la ciudadanía la prevención de la diabetes](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pUHlNTFUyWnFwRW5wNGxhSi1zSjBfdTRFWW1xbHM4SENmR29KR3JKQUNTdDdBbnlQeWVMNEtLZ1psOF9PSi1PeVFtNU1ZQQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [BierzoDiario](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pUHlNTFUyWnFwRW5wNGxhSi1zSjBfdTRFWW1xbHM4SENmR29KR3JKQUNTdDdBbnlQeWVMNEtLZ1psOF9PSi1PeVFtNU1ZQQ?oc=5)
+
+---
 
 ### [El Centro de Salud Tomelloso I acoge una charla sobre diabetes y salud bucodental - La Voz de Tomelloso](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGpvQmg3WHFaX0JOX3V1aDlQUXJIbVRMTkFYeGF3MGdxZDNKRm9ZQXhNaFdsdG52QVdZR2lqVGF0VWZJQTEtb0VrNy1GZnN3QjBaQ2wxRHV2aVgyczVzTXlpTGJqMjZQZm8yS3VvMUluSmpKNERhOUhqMUdUTnQyVnQ3UDVSdFgtZnROQUYybDZzaGZHNjA5RVk4VzhIcV9EblFpaE41TnVwdw?oc=5)
 
@@ -56,6 +96,14 @@ Source: [La Voz de Tomelloso](https://news.google.com/rss/articles/CBMiqgFBVV95c
 2026-11-13 <span class="news-indication-tag">diabetes</span>
 
 Source: [Gobierno de Canarias](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd0tXSzViNmViVVhuMFF0YzU0ZFBZNlZTUVJKRXVLTFZhcTVKc1llQU5qdG9ERE9SVmJrQVZvbnBScHVGMnV1dUktRU5WeFNiSlQtYzljTTlLVWhIWTlZanpUMlJjb0tYazRuaE5jSHlvbllJdjJOTjE0bnF6dWZWQ19BZWtSQUNQVGlyZ1F6bGkxOEpsQ2lPNF9vZ1praUtTU0VYelU3ZHVEcHlEYjhLeG5PS2l3dkxjTDJzVmMzXzBDUkJLcnZSdG1RM3luUGNRZnJVSDFDQkc?oc=5)
+
+---
+
+### [My son, 13, died of condition we never knew he had - 4 signs masked by 'flu' - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjhSS210dTAwQmxDVHVYMVhsME5LTHZrM25ackdUM1NuTV9rcXJyVTQzUU04UTdVR1BDMVJnbXU2UTNaVU1BbG9hcUJldEpabFM3X3M0QWNOVUtZemRrY1MtU3FTck1zVHpRbHhFYTE4NjVrX3FQcnVyalRtNXZRSWptOGEzVjlqcnI0?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjhSS210dTAwQmxDVHVYMVhsME5LTHZrM25ackdUM1NuTV9rcXJyVTQzUU04UTdVR1BDMVJnbXU2UTNaVU1BbG9hcUJldEpabFM3X3M0QWNOVUtZemRrY1MtU3FTck1zVHpRbHhFYTE4NjVrX3FQcnVyalRtNXZRSWptOGEzVjlqcnI0?oc=5)
 
 ---
 
@@ -147,7 +195,7 @@ Source: [Gaceta Dental](https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1F
 
 ---
 
-### [Two Trials of Intensive BP Lowering Find Different Outcomes in Stroke Survivors and Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+### [Two Trials of Intensive BP Lowering, Two Different Outcomes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
 
 2026-11-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
 
@@ -259,6 +307,14 @@ Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV9
 
 ---
 
+### [Una guida sul diabete con i consigli degli esperti - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMigwFBVV95cUxNWnB4MWpvaFFFbEVpNEc1S3hxZm1UOEdjQnY5bDBtVlBseW45MXgxeEMwZ0xuRmJUdmMxcTVfWDFiRmNUVGQ2LUlRQ19rMGNqSHlqTThqUFNFdHY1dnphT0R3MjBCem04T2I5TS10cDl5d2RXR2RzemZ2NHJPejJzdlJEZw?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMigwFBVV95cUxNWnB4MWpvaFFFbEVpNEc1S3hxZm1UOEdjQnY5bDBtVlBseW45MXgxeEMwZ0xuRmJUdmMxcTVfWDFiRmNUVGQ2LUlRQ19rMGNqSHlqTThqUFNFdHY1dnphT0R3MjBCem04T2I5TS10cDl5d2RXR2RzemZ2NHJPejJzdlJEZw?oc=5)
+
+---
+
 ### [Typ-2-Diabetes bleibt in Thüringen eine große Herausforderung](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTGo1TUZWVGl5Y2MxbmhPRUg0WmFrZ0ZJOVNzUFBvQzlyVnUtM1dOTnozMWpyaVg2azRNOWZKZ25WRmcweDdKYUhfRjhaMkNVTFpsR081MFMyUWQ5bnlfRjlCY0MtX09LWm5MVGFFUTNlaEpvak9xUHlIYlFpNkg1bWlCNzQ4YllFV0ltRkFkMEsyVXNnd0lPZEV3RHQ4NlZCd3pkZg?oc=5)
 
 2026-11-11 <span class="news-indication-tag">diabetes</span>
@@ -328,14 +384,6 @@ Source: [inSüdthüringen](https://news.google.com/rss/articles/CBMizgFBVV95cUxO
 2026-11-11 <span class="news-indication-tag">diabète</span>
 
 Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWkhFSkdvRmgtWVlib1hrRWNScWNQbXRwSUNjcklhY1IxejNXcXM1ZDF3NHhnT2dXSUUybmdSdElhQWlhVlNtRFNmSkp0dHh1M25BZDZ0N2d6T21RRGNvWGhHUUc1eDk4R1RkMjlFTHNpMnRQMjJlYXVJRDNyVFdNRy16bnpHMGV3cXJFUk5NQkZ4bUtWMlN1eHlyWXpkY3JLaDNKRUxIYXByRnRRamkzRGJUTVRscms2aTdxdHVlMGFLbHNWY19idUJ5NzlzbnlQWXdxRWUzN3ZfY3RiRWpqTE1Qam5IaTdXc0hGYTVFRk5NTEU2MHZhU0V3?oc=5)
-
----
-
-### [Generation X in worse health in their fifties than baby boomers - The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbDhPS2lIUmZ5M1VrUVJBX2FZcU1vRDFaeXhTbjNCR1VJMW9BM0xSeW9EZ3lTMzhka21JVUNNTjV1VEZNLWNkOUlTMDh4eGZjblpNeUpjaFo5ZkFDdlRzQUZ3UGNfSVlfNVd2OHhBYlc3MUNTamVaZVpvYzdHOXg4UG1WUVdYdkdlSFRCQ3p5alZlcVlKOXo1T0JXSmVZNVBJU0RBajh3?oc=5)
-
-2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbDhPS2lIUmZ5M1VrUVJBX2FZcU1vRDFaeXhTbjNCR1VJMW9BM0xSeW9EZ3lTMzhka21JVUNNTjV1VEZNLWNkOUlTMDh4eGZjblpNeUpjaFo5ZkFDdlRzQUZ3UGNfSVlfNVd2OHhBYlc3MUNTamVaZVpvYzdHOXg4UG1WUVdYdkdlSFRCQ3p5alZlcVlKOXo1T0JXSmVZNVBJU0RBajh3?oc=5)
 
 ---
 

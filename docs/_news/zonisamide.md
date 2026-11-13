@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Zonisamide?">
-<strong>Zonisamide</strong> currently has <strong>33 news articles</strong>, with 9 predicted indications.
+<strong>Zonisamide</strong> currently has <strong>34 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Zonisamide with the latest h
 <p><a href="{{ '/drugs/zonisamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (33)
+## Related News (34)
+
+### ["Los nuevos fármacos suponen un cambio de paradigma en el tratamiento de la epilepsia" - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXJBRUNQNmx2enFrUmlDNzlhS25ocHA3djR0OHJWaGlyQWFyc19kNnpOWEI3Q0RlUkJ4bFpfejBaVWduV0wtYVRoa29YTkFrZUVUcWxjTjJOWk9iMTdTQkJqYnpmNGpxblU0Nm1IcS1xYnpSdEFCb2dhQWxPeWF0bzd4ZW9ScjJzZkNHVEFFLTRPR1hEUC1JNjk1SUlKZ3FvWUw2Ry11TjNLMGJvZDB4SFFGcl9UNGN1Q3FmZWJnNGvSAbsBQVVfeXFMTmZjdFVGWEFXMFJHNkExd1VUY0Jha0FlNXdSV1hkTDFVZGNiN0NYazZrdTJFTHl2alJPWlo3THppUVJkQXpQY2lnendLSmZicmptY3BfTWtCYVVNZlV4RU5WV0kyd1poMzMwR1JXdHV5cUhJX3loWklacDY1d3VRdFlGeVJvSmlhX1NEazVaQ09salcxdThVME9KSnppUHcxall3bEdWdEYycEJfRU1tM1RJY3VPeV9QOWREMA?oc=5)
+
+2026-11-13 <span class="news-indication-tag">epilepsia</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXJBRUNQNmx2enFrUmlDNzlhS25ocHA3djR0OHJWaGlyQWFyc19kNnpOWEI3Q0RlUkJ4bFpfejBaVWduV0wtYVRoa29YTkFrZUVUcWxjTjJOWk9iMTdTQkJqYnpmNGpxblU0Nm1IcS1xYnpSdEFCb2dhQWxPeWF0bzd4ZW9ScjJzZkNHVEFFLTRPR1hEUC1JNjk1SUlKZ3FvWUw2Ry11TjNLMGJvZDB4SFFGcl9UNGN1Q3FmZWJnNGvSAbsBQVVfeXFMTmZjdFVGWEFXMFJHNkExd1VUY0Jha0FlNXdSV1hkTDFVZGNiN0NYazZrdTJFTHl2alJPWlo3THppUVJkQXpQY2lnendLSmZicmptY3BfTWtCYVVNZlV4RU5WV0kyd1poMzMwR1JXdHV5cUhJX3loWklacDY1d3VRdFlGeVJvSmlhX1NEazVaQ09salcxdThVME9KSnppUHcxall3bEdWdEYycEJfRU1tM1RJY3VPeV9QOWREMA?oc=5)
+
+---
 
 ### [Red flag symptom in legs could be sign of heart failure - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
@@ -61,7 +69,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTH
 
 ### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 
-2026-11-10 <span class="news-indication-tag">atrial fibrillation</span> <span class="news-indication-tag">heart disease</span>
+2026-11-10 <span class="news-indication-tag">atrial fibrillation</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 

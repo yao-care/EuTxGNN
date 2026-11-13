@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>36 news articles</strong>, with 1 predicted indications.
+<strong>Levodopa</strong> currently has <strong>37 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (36)
+## Related News (37)
+
+### [Lord Cameron: Alzheimer’s made my mother beg my sister to kill her - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkNkUmtBYm9Ya1VPal9VdHBkWDB5WnJtTTJOdXJYSnAwd3l2UTEwRWxKTXNNbjFfbFllSlBvX2tFaXU2NHJVUmxER0h3OXctWmVtcm05MV9xaHhSdGJKZ2ozV2wzZHhmdDVwTlNoS2pHc0JGWVFZOExHX0Y3SGZ4a3F1ejJ2YWtQbDhnSGh5ejIwYzBDemNrYlNyaktXajhOb0tVYVF3?oc=5)
+
+2026-11-13 <span class="news-indication-tag">dementia</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkNkUmtBYm9Ya1VPal9VdHBkWDB5WnJtTTJOdXJYSnAwd3l2UTEwRWxKTXNNbjFfbFllSlBvX2tFaXU2NHJVUmxER0h3OXctWmVtcm05MV9xaHhSdGJKZ2ozV2wzZHhmdDVwTlNoS2pHc0JGWVFZOExHX0Y3SGZ4a3F1ejJ2YWtQbDhnSGh5ejIwYzBDemNrYlNyaktXajhOb0tVYVF3?oc=5)
+
+---
 
 ### [Big Pharma’s race to stop Alzheimer’s before it starts - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnNrUjdPOC1NYXJ5RWpOdHFObEpodzVDb0NYcnl4OVYwV1hMRWhhM1lzalVUWmRHUFVHenBMYTg2M1RjZWE5aWRPZTZSeVhyWFlzNTVnTlJBbkI0TDlPNW1rUGU3a29HZHFaTUpULXU3VEx5VWJ4ZkdSSlZvUzdQSU5VSEE?oc=5)
 
