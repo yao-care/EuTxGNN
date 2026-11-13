@@ -7,9 +7,9 @@
   "title": "EuTxGNN FHIR Server",
   "status": "active",
   "experimental": true,
-  "date": "2026-07-26",
+  "date": "2026-11-13",
   "publisher": "EuTxGNN Project",
-  "description": "FHIR R4 server providing EU drug repurposing predictions from TxGNN",
+  "description": "FHIR R4 server providing EU drug repurposing predictions from TxGNN. Contains 560 drugs and 2613 predicted indications.",
   "kind": "instance",
   "fhirVersion": "4.0.1",
   "format": [
@@ -34,6 +34,25 @@
               "code": "read"
             }
           ]
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://yao.care/fhir/StructureDefinition/txgnn-resource-counts",
+      "extension": [
+        {
+          "url": "MedicationKnowledge",
+          "valueInteger": 560
+        },
+        {
+          "url": "ClinicalUseDefinition",
+          "valueInteger": 2613
+        },
+        {
+          "url": "countedAt",
+          "valueDate": "2026-11-13"
         }
       ]
     }
