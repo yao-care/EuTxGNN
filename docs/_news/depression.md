@@ -3,9 +3,9 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 32 articles, 7 related drugs."
+description: "Health news about dépression (depression). 33 articles, 7 related drugs."
 permalink: /news/depression/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # dépression (depression) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>32 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>33 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (32)
+## Related News (33)
+
+### [« Ce qui nous a le plus surpris… » : 100 000 dossiers médicaux révèlent un lien inattendu entre graisse et dépression - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNV1lMR3hZVDlDeXdyMm1MYXVWTDZEUzNHS0MxTzg5dmpWRHA4ZXZwdlg3X2JLb0pTX0szWE9wd0dUSVBfNFVWSHZPY2YxR19YX2pTTU5TVlBmLVpPeDZoOHd6RW1CYnJ3OVFIbTc0SDlzNzljUDJIcXZ6UHdjX3VyWDFmVGJyVVhsN1ZFbjZOR21hRGdQZ3pyelA5SjkxakJkOHJzcXphU0JNTGozaWNJbEhON3RDZU9odzhZR0tXaWJNV1R0bEpDVC1NU1dXOVkzZXoySFdLN0o4aXJ6MHNsTFZGUGZsYThDLWJNQk4xTHNFdw?oc=5)
+
+2026-11-13
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNV1lMR3hZVDlDeXdyMm1MYXVWTDZEUzNHS0MxTzg5dmpWRHA4ZXZwdlg3X2JLb0pTX0szWE9wd0dUSVBfNFVWSHZPY2YxR19YX2pTTU5TVlBmLVpPeDZoOHd6RW1CYnJ3OVFIbTc0SDlzNzljUDJIcXZ6UHdjX3VyWDFmVGJyVVhsN1ZFbjZOR21hRGdQZ3pyelA5SjkxakJkOHJzcXphU0JNTGozaWNJbEhON3RDZU9odzhZR0tXaWJNV1R0bEpDVC1NU1dXOVkzZXoySFdLN0o4aXJ6MHNsTFZGUGZsYThDLWJNQk4xTHNFdw?oc=5)
+
+---
 
 ### [Krötengift gegen Depressionen zeigt erstaunliche Wirkung](https://news.google.com/rss/articles/CBMixwFBVV95cUxNdzQyNHZ4Ul9JZkk3cVZ2WXBTdUtRSDJxdG1vTFd2YXgwalZtUkF4ekkxeWJ3di1RMU9sbURkbS1sc3ZYc1pDNUVnRE50c2dwa0FpQUNKS0ZVWEVRSGFMeEgwWXFEdFZtWWxhQUNkcEhrV3R3bXJHY0FYVVRrUFdyN2lkYnBfdDlRZFJDbDF4RF9BeUhRd2tpQlVFWUdZeW1IdGJiN19ZbXVlTDR0SzdMRlNiUWE3ZUU4NVl1RTFkVFZaM3VMLUww?oc=5)
 

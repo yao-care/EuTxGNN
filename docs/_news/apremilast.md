@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Apremilast?">
-<strong>Apremilast</strong> currently has <strong>81 news articles</strong>, with 0 predicted indications.
+<strong>Apremilast</strong> currently has <strong>82 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Apremilast with the latest h
 <p><a href="{{ '/drugs/apremilast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (81)
+## Related News (82)
 
 ### [Blood thinner could offer a new way to treat osteoarthritis - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbnhrWEl1WmtSbVNrN05ZWFF3c2s1emJPcGVJWk1NdldVNXhrZTdlakQyREVDSHFpMkd2QUdsWHQ2T19ZZ0h0RE12RFVPUkxKeWUydVJBVC1fbTlCaDY5RmgySFdlTmJFNDR0MHFLQ3VxczJMWF9lWmZyQTA?oc=5)
 
@@ -45,6 +45,14 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9Tbn
 2026-11-12 <span class="news-indication-tag">artritis</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGpRMjJaWmdXdU1TV1g2bzdjekpjS3p4ek1wR1doc0JwVnk0UC1hU1Q4aTZ6bjAyd0dLQjFaZ2JGWjdPVnhZUVJqUm5hREdmVy0wZ3Q1Y1huanYya3p3TE1JTEdqaWxCa3ptck9kN09FSVBwLUlEVlVvdHZva1l4VEhuc3J5WEl3eVloVlZvdFlocmlwMXVQRENRWVlJOE9VSlVHYUxZREl4eW5lZC1PaC1oczZQVWZjbjRCVGxwSExpZ9IBvAFBVV95cUxPSUh3dDREZ1ZrbXVta2FJcnVidEtnRy1MQk0zWWtiQTE1dTNMWUNQSTJfMTJLMHBiaFVWX1FOOXdUUFNqZUUxUlNfYlZRZWdrdGJJNVBYYV9IbmlqNENWMWpTQl9TUmZhRVZDSFVURDFhOEtRc2JGd09lWFhjNjlPUmprRlF0QmVJTkNwZ2E1YzFQMW9BM2FsMU1zX2QtenBWT19CeDM2LUs2amU4QWFvVFBCUl9OZlcyV2E0Xw?oc=5)
+
+---
+
+### [Ipertensione, 1 persona su 2 non si cura correttamente](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTTQ3ZnRqXzcyUFhVTWlrMlBBQ3VGQlRDeXZlMWYxZmY0NjdNaTU3S3p3N0lTdWdhdEExWk5zMzFpSHlMSV9oMW82Q3Z1SXBuQkJ2RVY2MG5RY2Vhdi1HN1lYdlRINDN1cUEzT3dsbURGamZrakQyM3RZTjRDenY2djR0Q25UTGY5cm5DNmpuS2NvNFlzcUpLdTVONVQ0NFlNb2tSdFVEeFlUcFl2MjRsSkdMdjF3aW0tcGZCYmxHR2NRMklDdW1lamM4Rm0tckthM3l5TUZLZ1JueVdaejViSzFjVTh3Vko3R0JZT0M0Y01qV2RwVGozWmlkb9IBgAJBVV95cUxOZVV1UUNSdUd5MkZjc01wVkZpVUxMbnVpeFBCUUc1QkpwbkdGSHg1T2IwOXlIajV6SDV5VGt1YjE4ZVgzTWgzeXQxcHluY3k0M0hxUXI3ZnJLbFVaS0tLbWpDN2ZVTjdoWkFodHRtU0g0SWlMQk90bXd0OFlVVV9qNnQtTFA2b0M1MnZybl9VVEdmN3RCWmp3QkpnT1ZTVEdhMUdldFpqSDR0TVI0N1FRSDdNZXhnYmpjekxXRk82MWR3SUFsS2pzbE9vV09ZdEVRb2FzenM2clJFVWtkTnM4blJUS1RNeFBzSlh0a29nLUdnYm1OdjBXSVRKR2JDOXpk?oc=5)
+
+2026-11-12 <span class="news-indication-tag">ipertensione</span>
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTTQ3ZnRqXzcyUFhVTWlrMlBBQ3VGQlRDeXZlMWYxZmY0NjdNaTU3S3p3N0lTdWdhdEExWk5zMzFpSHlMSV9oMW82Q3Z1SXBuQkJ2RVY2MG5RY2Vhdi1HN1lYdlRINDN1cUEzT3dsbURGamZrakQyM3RZTjRDenY2djR0Q25UTGY5cm5DNmpuS2NvNFlzcUpLdTVONVQ0NFlNb2tSdFVEeFlUcFl2MjRsSkdMdjF3aW0tcGZCYmxHR2NRMklDdW1lamM4Rm0tckthM3l5TUZLZ1JueVdaejViSzFjVTh3Vko3R0JZT0M0Y01qV2RwVGozWmlkb9IBgAJBVV95cUxOZVV1UUNSdUd5MkZjc01wVkZpVUxMbnVpeFBCUUc1QkpwbkdGSHg1T2IwOXlIajV6SDV5VGt1YjE4ZVgzTWgzeXQxcHluY3k0M0hxUXI3ZnJLbFVaS0tLbWpDN2ZVTjdoWkFodHRtU0g0SWlMQk90bXd0OFlVVV9qNnQtTFA2b0M1MnZybl9VVEdmN3RCWmp3QkpnT1ZTVEdhMUdldFpqSDR0TVI0N1FRSDdNZXhnYmpjekxXRk82MWR3SUFsS2pzbE9vV09ZdEVRb2FzenM2clJFVWtkTnM4blJUS1RNeFBzSlh0a29nLUdnYm1OdjBXSVRKR2JDOXpk?oc=5)
 
 ---
 
@@ -106,7 +114,7 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE
 
 ### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 
-2026-11-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">atrial fibrillation</span>
+2026-11-10 <span class="news-indication-tag">atrial fibrillation</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tolcapone. 10 predicted indications."
 permalink: /news/tolcapone/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Tolcapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Tolcapone?">
-<strong>Tolcapone</strong> currently has <strong>33 news articles</strong>, with 10 predicted indications.
+<strong>Tolcapone</strong> currently has <strong>36 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ This page combines the AI-predicted indications for Tolcapone with the latest he
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (33)
+## Related News (36)
+
+### [Big Pharma’s race to stop Alzheimer’s before it starts - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnNrUjdPOC1NYXJ5RWpOdHFObEpodzVDb0NYcnl4OVYwV1hMRWhhM1lzalVUWmRHUFVHenBMYTg2M1RjZWE5aWRPZTZSeVhyWFlzNTVnTlJBbkI0TDlPNW1rUGU3a29HZHFaTUpULXU3VEx5VWJ4ZkdSSlZvUzdQSU5VSEE?oc=5)
+
+2026-11-13 <span class="news-indication-tag">dementia</span>
+
+Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnNrUjdPOC1NYXJ5RWpOdHFObEpodzVDb0NYcnl4OVYwV1hMRWhhM1lzalVUWmRHUFVHenBMYTg2M1RjZWE5aWRPZTZSeVhyWFlzNTVnTlJBbkI0TDlPNW1rUGU3a29HZHFaTUpULXU3VEx5VWJ4ZkdSSlZvUzdQSU5VSEE?oc=5)
+
+---
+
+### [Dementia care ‘missing the point’ if new drugs blocked, warns ex-health chief - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQN1NzMHRkeFYzZXFvNEc5UXJnUmdlUDlCYlJwMHJsMy1nM1Y1TngwQzdIUVlkOFlTc20xeDBlalBrWlVBZWctTzdQeW85R2RFTk04cVFpTUIzZ2JlNmY2N0JDOFlsMnUzb2FyWXA2aThlT1lOMHd5cEJkejJKc0dqbFF3WktQQjc4LW9mSDhSWFZVUzNsSklNZ29oVVZVUQ?oc=5)
+
+2026-11-12 <span class="news-indication-tag">dementia</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQN1NzMHRkeFYzZXFvNEc5UXJnUmdlUDlCYlJwMHJsMy1nM1Y1TngwQzdIUVlkOFlTc20xeDBlalBrWlVBZWctTzdQeW85R2RFTk04cVFpTUIzZ2JlNmY2N0JDOFlsMnUzb2FyWXA2aThlT1lOMHd5cEJkejJKc0dqbFF3WktQQjc4LW9mSDhSWFZVUzNsSklNZ29oVVZVUQ?oc=5)
+
+---
+
+### [New culprit in early Alzheimer’s: blood–brain barrier blocks protective proteins](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iOHp0T2ZXbXp1c2g0MDdxdVVSbzJVVnJPZ3prNkpKLUhHTkJnQlRFUmlXMlFrVGtWbHVudk5YT2czSlVWM0wyQk9jMmZMM3RNdExBYmRMVHJhdVFObHBn?oc=5)
+
+2026-11-11 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iOHp0T2ZXbXp1c2g0MDdxdVVSbzJVVnJPZ3prNkpKLUhHTkJnQlRFUmlXMlFrVGtWbHVudk5YT2czSlVWM0wyQk9jMmZMM3RNdExBYmRMVHJhdVFObHBn?oc=5)
+
+---
 
 ### [The blood-brain barrier may contribute to cognitive function - The Economist](https://news.google.com/rss/articles/CBMivAFBVV95cUxPcU1wOWQyWk5zSkJ2WmlHREREQTZEckQzUXo3SUktLVB6Wmp0SWI3Q1NydnU3N2pxdjZkYk9pUXQ3VlFZdjktWHI2bHNPMXZESjJEelo1LUVDNVRwQXQ5bU1aYkFtTnZ0SjJsSlRNN0dpRTkwV2ZyWm9MRFFXbFpsV3VJYno4bzB2TTVNQkg4NW16b2s5QjdjblAwZlE5eHYwRUNrY0V1ZVIxdE9FeUtUdDFaRmVtTk43bnljVQ?oc=5)
 

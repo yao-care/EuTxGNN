@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Midostaurin?">
-<strong>Midostaurin</strong> currently has <strong>240 news articles</strong>, with 0 predicted indications.
+<strong>Midostaurin</strong> currently has <strong>247 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,47 @@ This page combines the AI-predicted indications for Midostaurin with the latest 
 <p><a href="{{ '/drugs/midostaurin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (240)
+## Related News (247)
+
+### [A Rare Case of Urinary Bladder Metastasis From Gastric Adenocarcinoma: A Case Report](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JmalhLZEVoNDdlTzVvaEtxWGhHcU8tV0hLdmVfODl5RDZlQVd6UWlRYmxBR2xLQnVoNU9YZHcwYUNWR1Y5ZzNMV0Y5S25mS0NFZW11cGZidmt2alhidDE1RGJ6dGZRekJwT2ZaR1BORGt5MjNoNWhWZHJoWmxHNlpjWjZxQl9WNndJWEoySUF0cjYxLWpETHJkazVwaFFpbVpWX1Z5VzhHOFBBeEhFWThCSzR2ZzZzWGs2UThHSQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">carcinoma</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JmalhLZEVoNDdlTzVvaEtxWGhHcU8tV0hLdmVfODl5RDZlQVd6UWlRYmxBR2xLQnVoNU9YZHcwYUNWR1Y5ZzNMV0Y5S25mS0NFZW11cGZidmt2alhidDE1RGJ6dGZRekJwT2ZaR1BORGt5MjNoNWhWZHJoWmxHNlpjWjZxQl9WNndJWEoySUF0cjYxLWpETHJkazVwaFFpbVpWX1Z5VzhHOFBBeEhFWThCSzR2ZzZzWGs2UThHSQ?oc=5)
+
+---
+
+### [„Dasselbe biologische System könnte entweder Krebs oder Neurodegeneration fördern“](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdFZ1bklJNG9ONmt0akxFam9kZWZqekdzMk8yOWJjdHU2aHdyUDY3ZWxlWVU5eEFBdUo2Y1dSdXp4OGdocTRiMGQ4Y0ZET253T01Gdm9XbXNXVGRNZE5JTGhDSlp4Z0ZWYUw3bEVEZTB2MWV1YmJWOV94T2o1NFFMYkY0dDhyVG9tNHEwTHNjWGNhWXJIMExNVzNaQjl6X3pCZTBJa0ZRenB4bU84SE1FNE1VNGlIZkgtRGZpcmxqd3JTakhpaVI5MEdqSDdqX1gxZ21kVmF5R0xRQkpOSGhTZQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Krebs</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdFZ1bklJNG9ONmt0akxFam9kZWZqekdzMk8yOWJjdHU2aHdyUDY3ZWxlWVU5eEFBdUo2Y1dSdXp4OGdocTRiMGQ4Y0ZET253T01Gdm9XbXNXVGRNZE5JTGhDSlp4Z0ZWYUw3bEVEZTB2MWV1YmJWOV94T2o1NFFMYkY0dDhyVG9tNHEwTHNjWGNhWXJIMExNVzNaQjl6X3pCZTBJa0ZRenB4bU84SE1FNE1VNGlIZkgtRGZpcmxqd3JTakhpaVI5MEdqSDdqX1gxZ21kVmF5R0xRQkpOSGhTZQ?oc=5)
+
+---
+
+### [Krebs: Viele unterschätzen diese Gefahr - 200.000 Fälle pro Jahr wären vermeidbar](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbS1GOTU0cHhtb0tCcEtEb05EaHprVUEtMUs1Rjh2TE9nQXB2dzc0ZXlNSjFMT29kVXJHWUg2Q3UwTWd3U01IYldtcWkwYVpvVFUzbDdFUi1ySWNFbzNlWGU1ZTlqVWdldnhwZlJwR05VZEpuZ1pGTDJJSTlMWkNRV21IVVVrblppYm1nd2JuQ1JVUHl0NXlVdGNXeGw4bEdHN1lLOHBXbUw2TjU1Vld1TjBmbEJueGNoNTlsTGRCUEpPMjBFN3A0T2lVSUVzd0N3a0Y3THFaWFNIQ3otaEZz?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Krebs</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbS1GOTU0cHhtb0tCcEtEb05EaHprVUEtMUs1Rjh2TE9nQXB2dzc0ZXlNSjFMT29kVXJHWUg2Q3UwTWd3U01IYldtcWkwYVpvVFUzbDdFUi1ySWNFbzNlWGU1ZTlqVWdldnhwZlJwR05VZEpuZ1pGTDJJSTlMWkNRV21IVVVrblppYm1nd2JuQ1JVUHl0NXlVdGNXeGw4bEdHN1lLOHBXbUw2TjU1Vld1TjBmbEJueGNoNTlsTGRCUEpPMjBFN3A0T2lVSUVzd0N3a0Y3THFaWFNIQ3otaEZz?oc=5)
+
+---
+
+### [Australie: En phase terminale d'un cancer, il épouse son amour de toujours](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmY5dUxjVXdPSlRpMVRrNmRDTW5zVkUxQ003N0dGUUMxMEN1UjdJSHdNczc2QlpfMUpmUW5UVERPallnTjhyRS1mbHhNV2V0d3p5cDlINFdyY01wVVZvbUUtRG9KSDVicnlVRVpPZHFPVG12bnczQ2lHc3NmZHNwTkNONzAzcEgzRW9sd3d6WXB5MHVIWEhKQ1VOYmxibHhhejUySVJwcG1VMkNidExVbzRSa1ZzakZF?oc=5)
+
+2026-11-13 <span class="news-indication-tag">cancer</span>
+
+Source: [L'essentiel](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmY5dUxjVXdPSlRpMVRrNmRDTW5zVkUxQ003N0dGUUMxMEN1UjdJSHdNczc2QlpfMUpmUW5UVERPallnTjhyRS1mbHhNV2V0d3p5cDlINFdyY01wVVZvbUUtRG9KSDVicnlVRVpPZHFPVG12bnczQ2lHc3NmZHNwTkNONzAzcEgzRW9sd3d6WXB5MHVIWEhKQ1VOYmxibHhhejUySVJwcG1VMkNidExVbzRSa1ZzakZF?oc=5)
+
+---
+
+### ['Stay happy': Girl's journey from cancer ward to live TV](https://news.google.com/rss/articles/CBMiXkFVX3lxTE01X3FvbHRZbjFEb2dvVnYweVdYRWt5OEh4cHJCNGFCYS1nSGdTN0V5N3lJeXlkS1ZkZWdvUVQ2ZXlxdTdPc0I5eWlsamVTRE5RcXZLTzE4YlVrR0w1cnc?oc=5)
+
+2026-11-13 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE01X3FvbHRZbjFEb2dvVnYweVdYRWt5OEh4cHJCNGFCYS1nSGdTN0V5N3lJeXlkS1ZkZWdvUVQ2ZXlxdTdPc0I5eWlsamVTRE5RcXZLTzE4YlVrR0w1cnc?oc=5)
+
+---
 
 ### [The new technology that could help doctors identify aggressive prostate cancer earlier - The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdFlRYnBsR1g3SEFtUnE2SjhVWVNRSmhYMFozWU9kVDRrdGdJc2RqXzZRSGh2MDk3ZXFRWVZFbi1tS093WDZYYlpTRWhtV29MdlA2Vml1aHhKVi1EYm1SWF9oTmx6RFZXWWdHMlh3TjQyNWdBSVRWWTdlQ1ZOdkpMdy12N2xCS05Lb1BKT2tkSXVwSDEzQnVlM3MzdU5hSkUyRXVFbThIQ0tOYVBCMXZ5aXQtRXA?oc=5)
 
@@ -45,6 +85,14 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPd
 2026-11-12 <span class="news-indication-tag">cancer</span>
 
 Source: [Tgcom24](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUWh4NW9rOHJGcHRXTk5tVzZIdTRXS2RPV21ycHBFNHlmTm12QlF6QzlZcWFpaFNTbmZlcGY1aFlsQm1rWmNkVHlWR2lBczF6THVLdVhYS2ducTVBb2pBUVE4QVFjVExvRWRNNzlyc1lOa3VqTW9xQjNkN2RfVWRlalF1REFNSWtyUWxQMlRaTjVrMjdhb09vVFg4SlZNajU5WFQ1OWxjU3V4ZjRMVW05N2tyY05ianPSAWhBVV95cUxNbHJxZTAzaFNCVjk1Y1hOT0N5VjFmUkRPOGphODRGaVBHeTFicGFRaFpCblI5TmY3bUJrVHJyVEdTRmM0VlZSYlRrMFZNTFgtLVpNOUkzSDBCeDFfTEx5aU9XM09lVVFNUg?oc=5)
+
+---
+
+### [Garattini compie 98 anni, compleanno in tv oggi: la ricetta (non solo a tavola) per vivere a lungo](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc20tOHg2NUR3MWZPRmtlczU1X2U5UVZhLW1nLVFrbjVBU0hxRjFEYlNwOXphQzlTNXlwbjA1TXNsVE5MMFR2QXRFbm5wUDVNdlhFNnl0cVFrTG5iUnc2WlVPb0tPcmZjZnZRY1phczNiVnpucGVOVngxVW1ZQ0pjS1ZFLVVhVzZxcVlmSk12bkhTaFVtSTZWOXBUZkQydmRWY1VRNmswSVE?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancro</span>
+
+Source: [Adnkronos](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc20tOHg2NUR3MWZPRmtlczU1X2U5UVZhLW1nLVFrbjVBU0hxRjFEYlNwOXphQzlTNXlwbjA1TXNsVE5MMFR2QXRFbm5wUDVNdlhFNnl0cVFrTG5iUnc2WlVPb0tPcmZjZnZRY1phczNiVnpucGVOVngxVW1ZQ0pjS1ZFLVVhVzZxcVlmSk12bkhTaFVtSTZWOXBUZkQydmRWY1VRNmswSVE?oc=5)
 
 ---
 
@@ -797,6 +845,14 @@ Source: [Adnkronos](https://news.google.com/rss/articles/CBMimgFBVV95cUxNazl2NkF
 2026-11-06 <span class="news-indication-tag">cancer</span>
 
 Source: [Ouest-France](https://news.google.com/rss/articles/CBMikwJBVV95cUxPVmxLUkJzT2dJME93cXV0ZUd4SDNuMUFOc2MwT0RXMzZKdEpvOEVjZ2w4empSSVd6YkFGVnc4VTRqTDJWTmx0b09BdGJkWHNqR0NBaWk0eFZ5Y2JDUllXbDFReTkwTHFQMVQ4Z0YtWmhPa1RmdzVOQnEtdTlkQ0ZXMzFaZnAweGRFbDZBN2RyNEJCbFQzVDVjd3V5SElwRnRzRng5d2R4amYtaDF6NFVGQ0lKNlVJcUVnWWdOaGdhazVod3VESnh2b3dwSFc5aW45bHZOcEpvRm5QXzN0aHV6M0x1aUtMOHJhNzNweWE4QkhKSzRMU0V3S0RDUFl2UERtRTZ3MDIyUnlFMUJidlVEdllJcw?oc=5)
+
+---
+
+### [Prevenzione urologica maschile: quali esami fare in base all’età e le malattie più a rischio - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZWlHYmxiRE10dDRCQVhWdnAtNEtYMU9uaU5hVzNjQlUzdW9iT3hqRDJXZGpYdnIxbGU2Vm9CZHJlTHNHT2pmTFA0X01nYUYzaXRCR1A4MkhoYjBWNnc4OHRwU09XMW4taG9NRERmWDJUY3F6SUdhRjhMd3lGVFAxczF3aTNQeTdGQlNJVkFLUWtRYVMzSG1SR29yTGpOZ0R2Zm1MQXR2Y2s4alc5d2VLM1VpZDBoVTdJNmRRTU84R05iNW5zekl5VjRmTjNLYWlpa3pJRGVHbUxNSU1FSXFFM1piTTZmXzJBMXc3U280bEkyVTNCa3VoRXd2cWVzLVRO0gHAAUFVX3lxTE1vdWg0ZGhuYmVTWTc2UkRqVERNdlpPTDJFaktCaEZqVFhTYXZBdExIWklqa2h6UzBHVW1OemVqRGtwOWtCQ2RWSTZSYV93UkZ2Y1FhQWJlU0w2Z1dxaHdJcExoVmM4aDJ6eGNpb083ZS1zOEJyc1puamp0Q2puT0JXYjlnaFBLOVEtdWIzQzZSMEhJQThnQndvV1dHNzJva29TZ2liTnVvbC0xZWZsNXVlZ2ZUQTYzUEpVVV95T2J5Zw?oc=5)
+
+2026-11-06 <span class="news-indication-tag">tumor</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZWlHYmxiRE10dDRCQVhWdnAtNEtYMU9uaU5hVzNjQlUzdW9iT3hqRDJXZGpYdnIxbGU2Vm9CZHJlTHNHT2pmTFA0X01nYUYzaXRCR1A4MkhoYjBWNnc4OHRwU09XMW4taG9NRERmWDJUY3F6SUdhRjhMd3lGVFAxczF3aTNQeTdGQlNJVkFLUWtRYVMzSG1SR29yTGpOZ0R2Zm1MQXR2Y2s4alc5d2VLM1VpZDBoVTdJNmRRTU84R05iNW5zekl5VjRmTjNLYWlpa3pJRGVHbUxNSU1FSXFFM1piTTZmXzJBMXc3U280bEkyVTNCa3VoRXd2cWVzLVRO0gHAAUFVX3lxTE1vdWg0ZGhuYmVTWTc2UkRqVERNdlpPTDJFaktCaEZqVFhTYXZBdExIWklqa2h6UzBHVW1OemVqRGtwOWtCQ2RWSTZSYV93UkZ2Y1FhQWJlU0w2Z1dxaHdJcExoVmM4aDJ6eGNpb083ZS1zOEJyc1puamp0Q2puT0JXYjlnaFBLOVEtdWIzQzZSMEhJQThnQndvV1dHNzJva29TZ2liTnVvbC0xZWZsNXVlZ2ZUQTYzUEpVVV95T2J5Zw?oc=5)
 
 ---
 

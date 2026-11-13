@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Pibrentasvir?">
-<strong>Pibrentasvir</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
+<strong>Pibrentasvir</strong> currently has <strong>14 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Pibrentasvir with the latest
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### [New MRI technique may reveal signs of myelin repair in multiple sclerosis - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDVLbV9pc1RpTXFTdTBLbU5rOFg1R1ROV0p4dWdCa3ZoY2QzREtKRGlDVXJNY2RQSW80TG5UUXN4YmNBYUYyZU1OY2ZGa2c4TndUZlg0QkQxdFBNT2U1VEduU082RnkwcUpGazJ4OHkwOHNBOTdoQnM4amkxcWUzQUFGeHpRenRwS2lzMzctM0Z6SndXWFVjQ2pHZm96MW0xQjYzMUdsdnVoZmJkNkZodzBwU0VXOGwtd0Voc1BlVUU?oc=5)
+
+2026-11-12 <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDVLbV9pc1RpTXFTdTBLbU5rOFg1R1ROV0p4dWdCa3ZoY2QzREtKRGlDVXJNY2RQSW80TG5UUXN4YmNBYUYyZU1OY2ZGa2c4TndUZlg0QkQxdFBNT2U1VEduU082RnkwcUpGazJ4OHkwOHNBOTdoQnM4amkxcWUzQUFGeHpRenRwS2lzMzctM0Z6SndXWFVjQ2pHZm96MW0xQjYzMUdsdnVoZmJkNkZodzBwU0VXOGwtd0Voc1BlVUU?oc=5)
+
+---
 
 ### [Multiple Sklerose: Hochaktive Hirnregionen sind besonders gefährdet - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMilwFBVV95cUxOZENCZFBJd3pGTVR4WHZNTHNoV1Vid0Z5SlNuTU9pSWNGQnVEZER6Q2dtc2dpMVlOTjh4V2F2amVSaGxyaVZmZkpCdDhaQnAwa2RUa1d5dU5WYWVLS05MaUNNWGFObll3YTVBd0d0dHVrREhoVy00QlFDVkpmRWhVdHdPNm4wN3VZR0w3Sk0yNjVwbW1vV05N?oc=5)
 

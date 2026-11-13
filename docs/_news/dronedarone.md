@@ -43,7 +43,15 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 
 ## Related News (92)
 
-### [Two Trials of Intensive BP Lowering, Two Different Outcomes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+### [Colesterolo, rischio infarti e ictus anche con valori LDL bassi. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2Y0UmN1WDJVYkNrb0c0YU53S2Iwa0pjRXJTWW12dEdDNURFT3VlWFRaYl8xSklJTXQ1aTh5eDQwSlctRGhsM2JVanBKbVVQX01uTXVrLVRTRHpfRzF2YkJYRG1hZ2VxRnJVOUQ3N1hxQ2Q1Z1RhNENpUmxIdTdtTkhCeXZkYzRRREE?oc=5)
+
+2026-11-13 <span class="news-indication-tag">ictus</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2Y0UmN1WDJVYkNrb0c0YU53S2Iwa0pjRXJTWW12dEdDNURFT3VlWFRaYl8xSklJTXQ1aTh5eDQwSlctRGhsM2JVanBKbVVQX01uTXVrLVRTRHpfRzF2YkJYRG1hZ2VxRnJVOUQ3N1hxQ2Q1Z1RhNENpUmxIdTdtTkhCeXZkYzRRREE?oc=5)
+
+---
+
+### [Two Trials of Intensive BP Lowering Find Different Outcomes in Stroke Survivors and Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
 
 2026-11-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
 
@@ -141,7 +149,7 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24
 
 ### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 
-2026-11-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">atrial fibrillation</span>
+2026-11-10 <span class="news-indication-tag">atrial fibrillation</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 
@@ -264,14 +272,6 @@ Source: [Linternaute.com](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQd
 2026-11-07 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
-
----
-
-### [Il freddo può far male a chi è iperteso. Il cardiologo spiega come proteggere il cuore - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGxzTXdZNkhSN1h1Y1FFZjNXVEVRc0ZJR0NSY2FCTnlDU3hwNEdOSjBycU5ubFI2Sllvb3ljdW5OMUZXLTZDMWczR21jSDBvWVFQcG1nSDc4TElTcjRwQzJORU9NNld1cGkweFlOSGpmT0hYMkFYakdraHJ3Q3lYTHZLNk9qLTFTQldaUy1yNENoUFhBRDlXSW5wbHR0anVteEJBUjY3OE1nSGo4TlBMNXk1TFZCaTdJZnRWd3dkZGcxc3FWVE5RSUxITC1MY0VKbkwtS1hxMmzSAcQBQVVfeXFMTVIyTWRFSGpIQjdVVDJwaGRpaXl4UXlQODB6a2x1WUtEdXc3SXZoYmRlN1B1a2h2OXJMWWtZb0M5N3ExYnFCU1NGakNoMWl1RWwwcVA4T1ZoT0V6aFFHT3paOGhEbVRyRm0zc2lXbjBTcVhqNG15M0VETUlFWkhEb0VHdFBrdGp0cjV2UXVKaHdWRUM3LXVBUmZ0dWpWckw4ZS1ZWDdnWlAyTl83bFJFcEVfbnZJcVlvN0xSdzMxWV9OMS12MA?oc=5)
-
-2026-11-07 <span class="news-indication-tag">ictus</span>
-
-Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGxzTXdZNkhSN1h1Y1FFZjNXVEVRc0ZJR0NSY2FCTnlDU3hwNEdOSjBycU5ubFI2Sllvb3ljdW5OMUZXLTZDMWczR21jSDBvWVFQcG1nSDc4TElTcjRwQzJORU9NNld1cGkweFlOSGpmT0hYMkFYakdraHJ3Q3lYTHZLNk9qLTFTQldaUy1yNENoUFhBRDlXSW5wbHR0anVteEJBUjY3OE1nSGo4TlBMNXk1TFZCaTdJZnRWd3dkZGcxc3FWVE5RSUxITC1MY0VKbkwtS1hxMmzSAcQBQVVfeXFMTVIyTWRFSGpIQjdVVDJwaGRpaXl4UXlQODB6a2x1WUtEdXc3SXZoYmRlN1B1a2h2OXJMWWtZb0M5N3ExYnFCU1NGakNoMWl1RWwwcVA4T1ZoT0V6aFFHT3paOGhEbVRyRm0zc2lXbjBTcVhqNG15M0VETUlFWkhEb0VHdFBrdGp0cjV2UXVKaHdWRUM3LXVBUmZ0dWpWckw4ZS1ZWDdnWlAyTl83bFJFcEVfbnZJcVlvN0xSdzMxWV9OMS12MA?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Multiple Sklerose (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Multiple Sklerose (multiple sclerosis). 8 articles, 26 related drugs."
+description: "Health news about Multiple Sklerose (multiple sclerosis). 9 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 last_modified_at: 2026-11-13
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Multiple Sklerose (multiple sclerosis)?">
-<strong>Multiple Sklerose (multiple sclerosis)</strong> currently has <strong>8 news articles</strong> and 26 related drugs.
+<strong>Multiple Sklerose (multiple sclerosis)</strong> currently has <strong>9 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,15 @@ This page brings together the latest health news about “Multiple Sklerose” a
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [New MRI technique may reveal signs of myelin repair in multiple sclerosis - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDVLbV9pc1RpTXFTdTBLbU5rOFg1R1ROV0p4dWdCa3ZoY2QzREtKRGlDVXJNY2RQSW80TG5UUXN4YmNBYUYyZU1OY2ZGa2c4TndUZlg0QkQxdFBNT2U1VEduU082RnkwcUpGazJ4OHkwOHNBOTdoQnM4amkxcWUzQUFGeHpRenRwS2lzMzctM0Z6SndXWFVjQ2pHZm96MW0xQjYzMUdsdnVoZmJkNkZodzBwU0VXOGwtd0Voc1BlVUU?oc=5)
+
+2026-11-12
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDVLbV9pc1RpTXFTdTBLbU5rOFg1R1ROV0p4dWdCa3ZoY2QzREtKRGlDVXJNY2RQSW80TG5UUXN4YmNBYUYyZU1OY2ZGa2c4TndUZlg0QkQxdFBNT2U1VEduU082RnkwcUpGazJ4OHkwOHNBOTdoQnM4amkxcWUzQUFGeHpRenRwS2lzMzctM0Z6SndXWFVjQ2pHZm96MW0xQjYzMUdsdnVoZmJkNkZodzBwU0VXOGwtd0Voc1BlVUU?oc=5)
+
+---
 
 ### [Multiple Sklerose: Hochaktive Hirnregionen sind besonders gefährdet - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMilwFBVV95cUxOZENCZFBJd3pGTVR4WHZNTHNoV1Vid0Z5SlNuTU9pSWNGQnVEZER6Q2dtc2dpMVlOTjh4V2F2amVSaGxyaVZmZkpCdDhaQnAwa2RUa1d5dU5WYWVLS05MaUNNWGFObll3YTVBd0d0dHVrREhoVy00QlFDVkpmRWhVdHdPNm4wN3VZR0w3Sk0yNjVwbW1vV05N?oc=5)
 

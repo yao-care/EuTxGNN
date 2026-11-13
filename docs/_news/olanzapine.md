@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Olanzapine. 2 predicted indications."
 permalink: /news/olanzapine/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Olanzapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>43 news articles</strong>, with 2 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>44 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (43)
+## Related News (44)
+
+### [« Ce qui nous a le plus surpris… » : 100 000 dossiers médicaux révèlent un lien inattendu entre graisse et dépression - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNV1lMR3hZVDlDeXdyMm1MYXVWTDZEUzNHS0MxTzg5dmpWRHA4ZXZwdlg3X2JLb0pTX0szWE9wd0dUSVBfNFVWSHZPY2YxR19YX2pTTU5TVlBmLVpPeDZoOHd6RW1CYnJ3OVFIbTc0SDlzNzljUDJIcXZ6UHdjX3VyWDFmVGJyVVhsN1ZFbjZOR21hRGdQZ3pyelA5SjkxakJkOHJzcXphU0JNTGozaWNJbEhON3RDZU9odzhZR0tXaWJNV1R0bEpDVC1NU1dXOVkzZXoySFdLN0o4aXJ6MHNsTFZGUGZsYThDLWJNQk4xTHNFdw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">dépression</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNV1lMR3hZVDlDeXdyMm1MYXVWTDZEUzNHS0MxTzg5dmpWRHA4ZXZwdlg3X2JLb0pTX0szWE9wd0dUSVBfNFVWSHZPY2YxR19YX2pTTU5TVlBmLVpPeDZoOHd6RW1CYnJ3OVFIbTc0SDlzNzljUDJIcXZ6UHdjX3VyWDFmVGJyVVhsN1ZFbjZOR21hRGdQZ3pyelA5SjkxakJkOHJzcXphU0JNTGozaWNJbEhON3RDZU9odzhZR0tXaWJNV1R0bEpDVC1NU1dXOVkzZXoySFdLN0o4aXJ6MHNsTFZGUGZsYThDLWJNQk4xTHNFdw?oc=5)
+
+---
 
 ### [Krötengift gegen Depressionen zeigt erstaunliche Wirkung](https://news.google.com/rss/articles/CBMixwFBVV95cUxNdzQyNHZ4Ul9JZkk3cVZ2WXBTdUtRSDJxdG1vTFd2YXgwalZtUkF4ekkxeWJ3di1RMU9sbURkbS1sc3ZYc1pDNUVnRE50c2dwa0FpQUNKS0ZVWEVRSGFMeEgwWXFEdFZtWWxhQUNkcEhrV3R3bXJHY0FYVVRrUFdyN2lkYnBfdDlRZFJDbDF4RF9BeUhRd2tpQlVFWUdZeW1IdGJiN19ZbXVlTDR0SzdMRlNiUWE3ZUU4NVl1RTFkVFZaM3VMLUww?oc=5)
 
@@ -94,7 +102,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTH
 
 ### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 
-2026-11-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">atrial fibrillation</span>
+2026-11-10 <span class="news-indication-tag">atrial fibrillation</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 

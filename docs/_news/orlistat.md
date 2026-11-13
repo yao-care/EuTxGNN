@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>168 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>170 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,31 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (168)
+## Related News (170)
+
+### [Los endocrinólogos reclaman un abordaje conjunto de la obesidad y la diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmFqRFRKNkZYYXFVYm5JR0gyWFFQdzlobjBkZDZoTnRGTWlZX0NCdGFLTUU5Q1lkMEJxcVV1ZnNEZll6V3I5ZGhtQmpSMTVDVVN1NVpWd19zV0owLWRxSUc5ZnFNQTNvTlU0UXQ3amNtUXVLdUdWanVpWUpNYWFOZERKX2dPRjZKX2FkYS0ydlM4d2RyODVXUkNKbHFmek9FNTM3MEQtc3NLTmpwSTQzQ0NRbHlQYzJXaHp5NjBaUVHSAbsBQVVfeXFMTmZwX2w3cEthbDk5dG1BaV83ZjZsSVVfc0JudFF6UU82VTVPdGUwVzBrN3FidHhVVnBGeFBCdE9XN25ORHBjeExNYWZRZjJ1cDIzYjdtUF9OWWtHV0k0dDFnUjd3cFZKNGN4czNETmJ2bHAwWW02ZWhkdmMyMnVmVXdaMmRDdU5MckdXeTEzN0Y2VWY2LUNhdWt1SGY2MjFfSXBfXzdWdnpTSEg0ZW1xZVFJVjV6eUVPV2Jnbw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmFqRFRKNkZYYXFVYm5JR0gyWFFQdzlobjBkZDZoTnRGTWlZX0NCdGFLTUU5Q1lkMEJxcVV1ZnNEZll6V3I5ZGhtQmpSMTVDVVN1NVpWd19zV0owLWRxSUc5ZnFNQTNvTlU0UXQ3amNtUXVLdUdWanVpWUpNYWFOZERKX2dPRjZKX2FkYS0ydlM4d2RyODVXUkNKbHFmek9FNTM3MEQtc3NLTmpwSTQzQ0NRbHlQYzJXaHp5NjBaUVHSAbsBQVVfeXFMTmZwX2w3cEthbDk5dG1BaV83ZjZsSVVfc0JudFF6UU82VTVPdGUwVzBrN3FidHhVVnBGeFBCdE9XN25ORHBjeExNYWZRZjJ1cDIzYjdtUF9OWWtHV0k0dDFnUjd3cFZKNGN4czNETmJ2bHAwWW02ZWhkdmMyMnVmVXdaMmRDdU5MckdXeTEzN0Y2VWY2LUNhdWt1SGY2MjFfSXBfXzdWdnpTSEg0ZW1xZVFJVjV6eUVPV2Jnbw?oc=5)
+
+---
+
+### [Colesterolo, rischio infarti e ictus anche con valori LDL bassi. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2Y0UmN1WDJVYkNrb0c0YU53S2Iwa0pjRXJTWW12dEdDNURFT3VlWFRaYl8xSklJTXQ1aTh5eDQwSlctRGhsM2JVanBKbVVQX01uTXVrLVRTRHpfRzF2YkJYRG1hZ2VxRnJVOUQ3N1hxQ2Q1Z1RhNENpUmxIdTdtTkhCeXZkYzRRREE?oc=5)
+
+2026-11-13 <span class="news-indication-tag">ictus</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2Y0UmN1WDJVYkNrb0c0YU53S2Iwa0pjRXJTWW12dEdDNURFT3VlWFRaYl8xSklJTXQ1aTh5eDQwSlctRGhsM2JVanBKbVVQX01uTXVrLVRTRHpfRzF2YkJYRG1hZ2VxRnJVOUQ3N1hxQ2Q1Z1RhNENpUmxIdTdtTkhCeXZkYzRRREE?oc=5)
+
+---
+
+### [El modelo de carbohidratos e insulina plantea una nueva perspectiva sobre los mecanismos de la obesidad - IM Farmacias](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWdDcEhaZnNQX0JEV1RjZXhGT182X2VfdUJyZnRDbHJmUFNlQzMzc2d5QnVOSHFUSklqRWM1b3dNQ2dNSUllcTB1OVVIbi1fSHRyZl9sTVdDSzlBLURQUS1lOHZtRm5hWjFjdU9KeVItTnJKZ2lKQWI3VWhIWlRwdmVMUktxV3h0UDZ2cVRRaUJOLVZFelc1NGxKVVNrU0dlc3FFNU10YUJoR3hqN01UMXdNSjBlS03SAbIBQVVfeXFMUEgyWTRzMnR5R1BkcEstYVdFWHVEOTJpV09Pb0Y4SWpSMEY1OFlKbUg0S2RPU1ZqVW9DSzh2NkxUMVRXTjdMYmhLLThscW5LMlpSTGJZSXRCbFlJeEwyb1NZck0wSGFtLWQ1UWhReU56cEVpQndvdGV4bW5QbzI5S2U3Vy1WSndtSVdwTUFYRmpMdUNVN0FLdG56TXJSc1RXRlN6djI3WjIzajctM2QzMVZ5UQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWdDcEhaZnNQX0JEV1RjZXhGT182X2VfdUJyZnRDbHJmUFNlQzMzc2d5QnVOSHFUSklqRWM1b3dNQ2dNSUllcTB1OVVIbi1fSHRyZl9sTVdDSzlBLURQUS1lOHZtRm5hWjFjdU9KeVItTnJKZ2lKQWI3VWhIWlRwdmVMUktxV3h0UDZ2cVRRaUJOLVZFelc1NGxKVVNrU0dlc3FFNU10YUJoR3hqN01UMXdNSjBlS03SAbIBQVVfeXFMUEgyWTRzMnR5R1BkcEstYVdFWHVEOTJpV09Pb0Y4SWpSMEY1OFlKbUg0S2RPU1ZqVW9DSzh2NkxUMVRXTjdMYmhLLThscW5LMlpSTGJZSXRCbFlJeEwyb1NZck0wSGFtLWQ1UWhReU56cEVpQndvdGV4bW5QbzI5S2U3Vy1WSndtSVdwTUFYRmpMdUNVN0FLdG56TXJSc1RXRlN6djI3WjIzajctM2QzMVZ5UQ?oc=5)
+
+---
 
 ### [OBESIDAD: la atención personalizada y el fenotipado como ejes del modelo asistencial - Gaceta Médica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWDZTQll5bWpJRHppMDBwSG4xM1NCbFBiamdIaFRVOFFQSEMtbklNMlFoTjhqblJ0aTM5WHdGYnJocHRHQkFhS1cwOFEtOWhJaDlDTW1ibjZhc2VINE96dHdlUjdIUUNWXzlIYzVkVE1NTWQ0d0VRY2xQdUI2X0pDSjBLRFJSeFoxWFg1RHRrM2cxT0VjZEQ2Mjlpd3FYOGVLSUJWRHZYQnZ3SW5weTJZZXpHNDBaRlF1?oc=5)
 
@@ -43,7 +67,7 @@ Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWD
 
 ---
 
-### [Two Trials of Intensive BP Lowering, Two Different Outcomes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+### [Two Trials of Intensive BP Lowering Find Different Outcomes in Stroke Survivors and Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
 
 2026-11-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
 
@@ -528,14 +552,6 @@ Source: [La Razón](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmU2Ulh
 2026-11-07 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREpYeTVOVTVwY0dwY3NyOWNOTktra01OSHJhN0FNc1FNcWpSVUFya2J3a1ZBekpyUThlVnBjOXBZNFRReWRnVUxpVHJad1pybkF4ZFVsNW1zQlRTbW5hbVRObEtHUjBZb2VOTFpfNmtDc0RSYnJzM3c4NVFaVWJVMlpHS2NXbUo0cDk1bjRxR3hOV08tVmY2c2ZiRVhIZGZpSTVRNXJOYm9Ybko3Nm53UV9SeS03NjdnUGxrZXJseGdQT2xoWnFnMS1TdThWSGdYSmc?oc=5)
-
----
-
-### [Il freddo può far male a chi è iperteso. Il cardiologo spiega come proteggere il cuore - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGxzTXdZNkhSN1h1Y1FFZjNXVEVRc0ZJR0NSY2FCTnlDU3hwNEdOSjBycU5ubFI2Sllvb3ljdW5OMUZXLTZDMWczR21jSDBvWVFQcG1nSDc4TElTcjRwQzJORU9NNld1cGkweFlOSGpmT0hYMkFYakdraHJ3Q3lYTHZLNk9qLTFTQldaUy1yNENoUFhBRDlXSW5wbHR0anVteEJBUjY3OE1nSGo4TlBMNXk1TFZCaTdJZnRWd3dkZGcxc3FWVE5RSUxITC1MY0VKbkwtS1hxMmzSAcQBQVVfeXFMTVIyTWRFSGpIQjdVVDJwaGRpaXl4UXlQODB6a2x1WUtEdXc3SXZoYmRlN1B1a2h2OXJMWWtZb0M5N3ExYnFCU1NGakNoMWl1RWwwcVA4T1ZoT0V6aFFHT3paOGhEbVRyRm0zc2lXbjBTcVhqNG15M0VETUlFWkhEb0VHdFBrdGp0cjV2UXVKaHdWRUM3LXVBUmZ0dWpWckw4ZS1ZWDdnWlAyTl83bFJFcEVfbnZJcVlvN0xSdzMxWV9OMS12MA?oc=5)
-
-2026-11-07 <span class="news-indication-tag">ictus</span>
-
-Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGxzTXdZNkhSN1h1Y1FFZjNXVEVRc0ZJR0NSY2FCTnlDU3hwNEdOSjBycU5ubFI2Sllvb3ljdW5OMUZXLTZDMWczR21jSDBvWVFQcG1nSDc4TElTcjRwQzJORU9NNld1cGkweFlOSGpmT0hYMkFYakdraHJ3Q3lYTHZLNk9qLTFTQldaUy1yNENoUFhBRDlXSW5wbHR0anVteEJBUjY3OE1nSGo4TlBMNXk1TFZCaTdJZnRWd3dkZGcxc3FWVE5RSUxITC1MY0VKbkwtS1hxMmzSAcQBQVVfeXFMTVIyTWRFSGpIQjdVVDJwaGRpaXl4UXlQODB6a2x1WUtEdXc3SXZoYmRlN1B1a2h2OXJMWWtZb0M5N3ExYnFCU1NGakNoMWl1RWwwcVA4T1ZoT0V6aFFHT3paOGhEbVRyRm0zc2lXbjBTcVhqNG15M0VETUlFWkhEb0VHdFBrdGp0cjV2UXVKaHdWRUM3LXVBUmZ0dWpWckw4ZS1ZWDdnWlAyTl83bFJFcEVfbnZJcVlvN0xSdzMxWV9OMS12MA?oc=5)
 
 ---
 

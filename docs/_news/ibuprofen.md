@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>19 news articles</strong>, with 7 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>20 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (20)
+
+### [El 100% de las personas tiene variantes genéticas que pueden influir en cómo actúan algunos medicamentos - El Economista](https://news.google.com/rss/articles/CBMimAJBVV95cUxNcV91NGNGMG02ekVIOHNHa1dfeUs2MEhmWjJ5cU9sV0N0OTlHVXFjSUJNRm1hcTZub1lrUzNhNmIydDl2Z1BuODhZOXEyVDliLXlKdFVPa2JuTVJJX0FVLUd0Nmlha2J6LXBTSlJfNWp3XzFfeDI1MWFGY0FMci14SFRjV0ZqdUJGWDctTDJXaTk2ZVhNVVkzUTczTzlOQ0o0Y0tYTVVXWkoxTmJqaE55eXd1ZE1HaWE2RzNoUVNyY19aaEcxaEdXbXptNjdBSlU0RnVheXJNZG9pOGNzc0pqdGpKSUFRUm5lRXFvSGhYM3AwZldha2hYdGZRblAxVlhuUF93ZEJWTFZUR3Q1ZFhXQjhRRDhYazYy?oc=5)
+
+2026-11-12 <span class="news-drug-tag">Ibuprofen</span>
+
+Source: [El Economista](https://news.google.com/rss/articles/CBMimAJBVV95cUxNcV91NGNGMG02ekVIOHNHa1dfeUs2MEhmWjJ5cU9sV0N0OTlHVXFjSUJNRm1hcTZub1lrUzNhNmIydDl2Z1BuODhZOXEyVDliLXlKdFVPa2JuTVJJX0FVLUd0Nmlha2J6LXBTSlJfNWp3XzFfeDI1MWFGY0FMci14SFRjV0ZqdUJGWDctTDJXaTk2ZVhNVVkzUTczTzlOQ0o0Y0tYTVVXWkoxTmJqaE55eXd1ZE1HaWE2RzNoUVNyY19aaEcxaEdXbXptNjdBSlU0RnVheXJNZG9pOGNzc0pqdGpKSUFRUm5lRXFvSGhYM3AwZldha2hYdGZRblAxVlhuUF93ZEJWTFZUR3Q1ZFhXQjhRRDhYazYy?oc=5)
+
+---
 
 ### [Blood thinner could offer a new way to treat osteoarthritis - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbnhrWEl1WmtSbVNrN05ZWFF3c2s1emJPcGVJWk1NdldVNXhrZTdlakQyREVDSHFpMkd2QUdsWHQ2T19ZZ0h0RE12RFVPUkxKeWUydVJBVC1fbTlCaDY5RmgySFdlTmJFNDR0MHFLQ3VxczJMWF9lWmZyQTA?oc=5)
 

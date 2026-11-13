@@ -3,7 +3,7 @@ layout: default
 title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 85 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 87 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-11-13
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>85 news articles</strong> and 8 related drugs.
+<strong>obesidad (obesity)</strong> currently has <strong>87 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,23 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (85)
+## Related News (87)
+
+### [Los endocrinólogos reclaman un abordaje conjunto de la obesidad y la diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmFqRFRKNkZYYXFVYm5JR0gyWFFQdzlobjBkZDZoTnRGTWlZX0NCdGFLTUU5Q1lkMEJxcVV1ZnNEZll6V3I5ZGhtQmpSMTVDVVN1NVpWd19zV0owLWRxSUc5ZnFNQTNvTlU0UXQ3amNtUXVLdUdWanVpWUpNYWFOZERKX2dPRjZKX2FkYS0ydlM4d2RyODVXUkNKbHFmek9FNTM3MEQtc3NLTmpwSTQzQ0NRbHlQYzJXaHp5NjBaUVHSAbsBQVVfeXFMTmZwX2w3cEthbDk5dG1BaV83ZjZsSVVfc0JudFF6UU82VTVPdGUwVzBrN3FidHhVVnBGeFBCdE9XN25ORHBjeExNYWZRZjJ1cDIzYjdtUF9OWWtHV0k0dDFnUjd3cFZKNGN4czNETmJ2bHAwWW02ZWhkdmMyMnVmVXdaMmRDdU5MckdXeTEzN0Y2VWY2LUNhdWt1SGY2MjFfSXBfXzdWdnpTSEg0ZW1xZVFJVjV6eUVPV2Jnbw?oc=5)
+
+2026-11-13
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmFqRFRKNkZYYXFVYm5JR0gyWFFQdzlobjBkZDZoTnRGTWlZX0NCdGFLTUU5Q1lkMEJxcVV1ZnNEZll6V3I5ZGhtQmpSMTVDVVN1NVpWd19zV0owLWRxSUc5ZnFNQTNvTlU0UXQ3amNtUXVLdUdWanVpWUpNYWFOZERKX2dPRjZKX2FkYS0ydlM4d2RyODVXUkNKbHFmek9FNTM3MEQtc3NLTmpwSTQzQ0NRbHlQYzJXaHp5NjBaUVHSAbsBQVVfeXFMTmZwX2w3cEthbDk5dG1BaV83ZjZsSVVfc0JudFF6UU82VTVPdGUwVzBrN3FidHhVVnBGeFBCdE9XN25ORHBjeExNYWZRZjJ1cDIzYjdtUF9OWWtHV0k0dDFnUjd3cFZKNGN4czNETmJ2bHAwWW02ZWhkdmMyMnVmVXdaMmRDdU5MckdXeTEzN0Y2VWY2LUNhdWt1SGY2MjFfSXBfXzdWdnpTSEg0ZW1xZVFJVjV6eUVPV2Jnbw?oc=5)
+
+---
+
+### [El modelo de carbohidratos e insulina plantea una nueva perspectiva sobre los mecanismos de la obesidad - IM Farmacias](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWdDcEhaZnNQX0JEV1RjZXhGT182X2VfdUJyZnRDbHJmUFNlQzMzc2d5QnVOSHFUSklqRWM1b3dNQ2dNSUllcTB1OVVIbi1fSHRyZl9sTVdDSzlBLURQUS1lOHZtRm5hWjFjdU9KeVItTnJKZ2lKQWI3VWhIWlRwdmVMUktxV3h0UDZ2cVRRaUJOLVZFelc1NGxKVVNrU0dlc3FFNU10YUJoR3hqN01UMXdNSjBlS03SAbIBQVVfeXFMUEgyWTRzMnR5R1BkcEstYVdFWHVEOTJpV09Pb0Y4SWpSMEY1OFlKbUg0S2RPU1ZqVW9DSzh2NkxUMVRXTjdMYmhLLThscW5LMlpSTGJZSXRCbFlJeEwyb1NZck0wSGFtLWQ1UWhReU56cEVpQndvdGV4bW5QbzI5S2U3Vy1WSndtSVdwTUFYRmpMdUNVN0FLdG56TXJSc1RXRlN6djI3WjIzajctM2QzMVZ5UQ?oc=5)
+
+2026-11-13
+
+Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWdDcEhaZnNQX0JEV1RjZXhGT182X2VfdUJyZnRDbHJmUFNlQzMzc2d5QnVOSHFUSklqRWM1b3dNQ2dNSUllcTB1OVVIbi1fSHRyZl9sTVdDSzlBLURQUS1lOHZtRm5hWjFjdU9KeVItTnJKZ2lKQWI3VWhIWlRwdmVMUktxV3h0UDZ2cVRRaUJOLVZFelc1NGxKVVNrU0dlc3FFNU10YUJoR3hqN01UMXdNSjBlS03SAbIBQVVfeXFMUEgyWTRzMnR5R1BkcEstYVdFWHVEOTJpV09Pb0Y4SWpSMEY1OFlKbUg0S2RPU1ZqVW9DSzh2NkxUMVRXTjdMYmhLLThscW5LMlpSTGJZSXRCbFlJeEwyb1NZck0wSGFtLWQ1UWhReU56cEVpQndvdGV4bW5QbzI5S2U3Vy1WSndtSVdwTUFYRmpMdUNVN0FLdG56TXJSc1RXRlN6djI3WjIzajctM2QzMVZ5UQ?oc=5)
+
+---
 
 ### [OBESIDAD: la atención personalizada y el fenotipado como ejes del modelo asistencial - Gaceta Médica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWDZTQll5bWpJRHppMDBwSG4xM1NCbFBiamdIaFRVOFFQSEMtbklNMlFoTjhqblJ0aTM5WHdGYnJocHRHQkFhS1cwOFEtOWhJaDlDTW1ibjZhc2VINE96dHdlUjdIUUNWXzlIYzVkVE1NTWQ0d0VRY2xQdUI2X0pDSjBLRFJSeFoxWFg1RHRrM2cxT0VjZEQ2Mjlpd3FYOGVLSUJWRHZYQnZ3SW5weTJZZXpHNDBaRlF1?oc=5)
 

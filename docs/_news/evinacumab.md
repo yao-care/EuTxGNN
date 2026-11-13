@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Evinacumab?">
-<strong>Evinacumab</strong> currently has <strong>142 news articles</strong>, with 0 predicted indications.
+<strong>Evinacumab</strong> currently has <strong>149 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,47 @@ This page combines the AI-predicted indications for Evinacumab with the latest h
 <p><a href="{{ '/drugs/evinacumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (142)
+## Related News (149)
+
+### [El Centro de Salud Tomelloso I acoge una charla sobre diabetes y salud bucodental - La Voz de Tomelloso](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGpvQmg3WHFaX0JOX3V1aDlQUXJIbVRMTkFYeGF3MGdxZDNKRm9ZQXhNaFdsdG52QVdZR2lqVGF0VWZJQTEtb0VrNy1GZnN3QjBaQ2wxRHV2aVgyczVzTXlpTGJqMjZQZm8yS3VvMUluSmpKNERhOUhqMUdUTnQyVnQ3UDVSdFgtZnROQUYybDZzaGZHNjA5RVk4VzhIcV9EblFpaE41TnVwdw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [La Voz de Tomelloso](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGpvQmg3WHFaX0JOX3V1aDlQUXJIbVRMTkFYeGF3MGdxZDNKRm9ZQXhNaFdsdG52QVdZR2lqVGF0VWZJQTEtb0VrNy1GZnN3QjBaQ2wxRHV2aVgyczVzTXlpTGJqMjZQZm8yS3VvMUluSmpKNERhOUhqMUdUTnQyVnQ3UDVSdFgtZnROQUYybDZzaGZHNjA5RVk4VzhIcV9EblFpaE41TnVwdw?oc=5)
+
+---
+
+### [Sanidad conmemora el Día Mundial de la Diabetes con una campaña centrada en la detección precoz - Gobierno de Canarias](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd0tXSzViNmViVVhuMFF0YzU0ZFBZNlZTUVJKRXVLTFZhcTVKc1llQU5qdG9ERE9SVmJrQVZvbnBScHVGMnV1dUktRU5WeFNiSlQtYzljTTlLVWhIWTlZanpUMlJjb0tYazRuaE5jSHlvbllJdjJOTjE0bnF6dWZWQ19BZWtSQUNQVGlyZ1F6bGkxOEpsQ2lPNF9vZ1praUtTU0VYelU3ZHVEcHlEYjhLeG5PS2l3dkxjTDJzVmMzXzBDUkJLcnZSdG1RM3luUGNRZnJVSDFDQkc?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [Gobierno de Canarias](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd0tXSzViNmViVVhuMFF0YzU0ZFBZNlZTUVJKRXVLTFZhcTVKc1llQU5qdG9ERE9SVmJrQVZvbnBScHVGMnV1dUktRU5WeFNiSlQtYzljTTlLVWhIWTlZanpUMlJjb0tYazRuaE5jSHlvbllJdjJOTjE0bnF6dWZWQ19BZWtSQUNQVGlyZ1F6bGkxOEpsQ2lPNF9vZ1praUtTU0VYelU3ZHVEcHlEYjhLeG5PS2l3dkxjTDJzVmMzXzBDUkJLcnZSdG1RM3luUGNRZnJVSDFDQkc?oc=5)
+
+---
+
+### [Los endocrinólogos reclaman un abordaje conjunto de la obesidad y la diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmFqRFRKNkZYYXFVYm5JR0gyWFFQdzlobjBkZDZoTnRGTWlZX0NCdGFLTUU5Q1lkMEJxcVV1ZnNEZll6V3I5ZGhtQmpSMTVDVVN1NVpWd19zV0owLWRxSUc5ZnFNQTNvTlU0UXQ3amNtUXVLdUdWanVpWUpNYWFOZERKX2dPRjZKX2FkYS0ydlM4d2RyODVXUkNKbHFmek9FNTM3MEQtc3NLTmpwSTQzQ0NRbHlQYzJXaHp5NjBaUVHSAbsBQVVfeXFMTmZwX2w3cEthbDk5dG1BaV83ZjZsSVVfc0JudFF6UU82VTVPdGUwVzBrN3FidHhVVnBGeFBCdE9XN25ORHBjeExNYWZRZjJ1cDIzYjdtUF9OWWtHV0k0dDFnUjd3cFZKNGN4czNETmJ2bHAwWW02ZWhkdmMyMnVmVXdaMmRDdU5MckdXeTEzN0Y2VWY2LUNhdWt1SGY2MjFfSXBfXzdWdnpTSEg0ZW1xZVFJVjV6eUVPV2Jnbw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmFqRFRKNkZYYXFVYm5JR0gyWFFQdzlobjBkZDZoTnRGTWlZX0NCdGFLTUU5Q1lkMEJxcVV1ZnNEZll6V3I5ZGhtQmpSMTVDVVN1NVpWd19zV0owLWRxSUc5ZnFNQTNvTlU0UXQ3amNtUXVLdUdWanVpWUpNYWFOZERKX2dPRjZKX2FkYS0ydlM4d2RyODVXUkNKbHFmek9FNTM3MEQtc3NLTmpwSTQzQ0NRbHlQYzJXaHp5NjBaUVHSAbsBQVVfeXFMTmZwX2w3cEthbDk5dG1BaV83ZjZsSVVfc0JudFF6UU82VTVPdGUwVzBrN3FidHhVVnBGeFBCdE9XN25ORHBjeExNYWZRZjJ1cDIzYjdtUF9OWWtHV0k0dDFnUjd3cFZKNGN4czNETmJ2bHAwWW02ZWhkdmMyMnVmVXdaMmRDdU5MckdXeTEzN0Y2VWY2LUNhdWt1SGY2MjFfSXBfXzdWdnpTSEg0ZW1xZVFJVjV6eUVPV2Jnbw?oc=5)
+
+---
+
+### [Día Mundial de la Diabetes - Somos Pacientes](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORm1pWmZuV1lOTVNJWVVHRlFJT20yOHFLVEF0aDBCMzZOZEVscDVxaHF6UkpXZGNFVmxucGhROGlxOW52LVV1RkNST3dibnFnLVR1UGhsRDd0UzkxY2RTY3N1M3E3c3kwWUJ3Wi1lQlk3TTVmY2UyRlI1dEY3a1AtRTMwQXB0bDNlSXQ5NnFJb3ViWW5jTVN3Sy0tTGtxRGN6SW01eVlrV0hyUlM1WEVXRXBOS2VEWXVrZmtMS2RZWlQ1NzZ0TEY4d05KQnZabkw1dkxGUkV6SGVwZ2l2V3h6ZklYbmh6eXFEUVE?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORm1pWmZuV1lOTVNJWVVHRlFJT20yOHFLVEF0aDBCMzZOZEVscDVxaHF6UkpXZGNFVmxucGhROGlxOW52LVV1RkNST3dibnFnLVR1UGhsRDd0UzkxY2RTY3N1M3E3c3kwWUJ3Wi1lQlk3TTVmY2UyRlI1dEY3a1AtRTMwQXB0bDNlSXQ5NnFJb3ViWW5jTVN3Sy0tTGtxRGN6SW01eVlrV0hyUlM1WEVXRXBOS2VEWXVrZmtMS2RZWlQ1NzZ0TEY4d05KQnZabkw1dkxGUkV6SGVwZ2l2V3h6ZklYbmh6eXFEUVE?oc=5)
+
+---
+
+### [Diabetes y salud mental: la necesidad de una atención integral en el Día Mundial de la Diabetes](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT1pDaHR0OUlpRE9RZG1zOVdrM3VQSUpEdlVPWE9rU3JrSDU3OHRqZTVXS3VYNkplT1BFVmxGZktHdWVsaGU0WU5mbmlfbFFmUElWaWlBc0tqMU1qemszdlJiejlKUldiRVdHVWJnYURpT1o1aUNMcFVDOER1U2FLVFNIRW0ybVYwMHltNlAtckYzNE9ZUEhpTm11UUdaRHdaemxEbjhjaDFsdk10eFBFSFBOOGhaSFU2OXc?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [https://www.infocop.es/](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT1pDaHR0OUlpRE9RZG1zOVdrM3VQSUpEdlVPWE9rU3JrSDU3OHRqZTVXS3VYNkplT1BFVmxGZktHdWVsaGU0WU5mbmlfbFFmUElWaWlBc0tqMU1qemszdlJiejlKUldiRVdHVWJnYURpT1o1aUNMcFVDOER1U2FLVFNIRW0ybVYwMHltNlAtckYzNE9ZUEhpTm11UUdaRHdaemxEbjhjaDFsdk10eFBFSFBOOGhaSFU2OXc?oc=5)
+
+---
 
 ### [Vortrag: Individualisierte Therapie bei Diabetes mellitus Typ 2 – Alles Insulin, oder was?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2EtbW5ydXBEOG56UDdkZXZTamE5cVhDZEdwajJQbGJJTHV0SUhjTEJaRUNZRHBpZnVqVkpCUndvdkpyOVIzWG9HM0s5bjFNc0NUekx0XzFFMlNHZERKSXJ1UEVKbW1tQ04zVDduV1FWUDJVT0lESzZpM0RtcXUtVXRvQjYtS3dnUlRuTXk3Sm4xS0xXM3Ztc3Y4MkJPTW51aE1xaF96cjB0WEtyZDNCbVliOXlXY1BIXzFz?oc=5)
 
@@ -53,6 +93,14 @@ Source: [Infodiabético](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTX
 2026-11-12 <span class="news-indication-tag">diabetes</span>
 
 Source: [La Web de la Salud](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdlRVUVVoWldHTVlaaDV6NUJ2RVRtbmNKUEN0WkZWR0wta2JQMC04OGotMUI1SGJ6WVdTemhCTDFIek5mY3VjRjF0SkVlb3lucDZyRE9yQllNOG5FMDJ2blhWLUpnWUpuWlh3WnlTTkxXUTVCZHg1a3BkMm1hR2hIZzFhSUd3V0t1cm83bmo0VHlXQjBlYUgzczZUWDQ3dXZBNGpELV9paVVub1JRaXJfZGM3Tklqd3ZpZ1g4NnJuUFB0YU96SkJ5ZUoyWHoyM2FtZ0p3THhXdFEtOE9UeE41d1pyaUpVT0dFRy1vUkx0RmJuZGtPRWVXRQ?oc=5)
+
+---
+
+### [« Tous les ans, on découvre des gens qui ont un taux élevé » : une journée de dépistage gratuite au Leclerc de Parthenay](https://news.google.com/rss/articles/CBMikgJBVV95cUxOcDAzZ1VnbkV6MGhXWnd4Y1M2YXM5eERzeU9RM2htT2hhd0lPVW9RMktCaHVjOXlVMHIwa3NucnNpU19PNDgxMm5ZbmV1aXhCQ09IQ2ZMUndUWXBzRk9sdUp5SGFHSlQ1SVhfQ2lHSmpuX0VvX3p2ekRXRWpWYkIzc3l5SkFsM2Jqb2FSdU1CSVQzcWxZcW1pakI5RU9oS1FVY2VNQkdJWFBZV1M5cllxLWhnUl9wZXNSQnFZYjZLSy1TVWRPSlB4RzVIXzNvYXE1d0JLY2xpX0ZKWHZtNGJSWUNUQUFrU0dZSXByTk9JYlU4YzdUOVQxamhHX2p5UDhyZXpyR2hQczMxODMzQ3IzZjlB?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabète</span>
+
+Source: [Ouest-France](https://news.google.com/rss/articles/CBMikgJBVV95cUxOcDAzZ1VnbkV6MGhXWnd4Y1M2YXM5eERzeU9RM2htT2hhd0lPVW9RMktCaHVjOXlVMHIwa3NucnNpU19PNDgxMm5ZbmV1aXhCQ09IQ2ZMUndUWXBzRk9sdUp5SGFHSlQ1SVhfQ2lHSmpuX0VvX3p2ekRXRWpWYkIzc3l5SkFsM2Jqb2FSdU1CSVQzcWxZcW1pakI5RU9oS1FVY2VNQkdJWFBZV1M5cllxLWhnUl9wZXNSQnFZYjZLSy1TVWRPSlB4RzVIXzNvYXE1d0JLY2xpX0ZKWHZtNGJSWUNUQUFrU0dZSXByTk9JYlU4YzdUOVQxamhHX2p5UDhyZXpyR2hQczMxODMzQ3IzZjlB?oc=5)
 
 ---
 
@@ -88,7 +136,7 @@ Source: [Gaceta Dental](https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1F
 
 ---
 
-### [Two Trials of Intensive BP Lowering, Two Different Outcomes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+### [Two Trials of Intensive BP Lowering Find Different Outcomes in Stroke Survivors and Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
 
 2026-11-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
 
@@ -136,9 +184,17 @@ Source: [swp.de](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNExMWmFCQ0
 
 ---
 
+### [So unterstützt die AOK PLUS bei der Diabetes-Vorsorge](https://news.google.com/rss/articles/CBMivwFBVV95cUxNaEZVUzhqc0duYjVzMWh4a2duQi1taFI2QnVZbjJSd0JCbVVqX3VsLVp6VElUbTQ2U014azg4Y2Nuc3FwYWF6NFZQSGlvUHVOVVBRaTJCRlB6VWpUMmRLTkVNSjFKdVlwQXh4aTNFdzZBZEx1Q09JM2szQ09pWnhwd2FvTGUwTk1VNnRhMmsxQ0JsZGRvQzFtNnVabF9lWFlQd25Sd3R0azl3N0dDNUdZVjk4NmhPUUFYNW1QUFJZdw?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [TAG24](https://news.google.com/rss/articles/CBMivwFBVV95cUxNaEZVUzhqc0duYjVzMWh4a2duQi1taFI2QnVZbjJSd0JCbVVqX3VsLVp6VElUbTQ2U014azg4Y2Nuc3FwYWF6NFZQSGlvUHVOVVBRaTJCRlB6VWpUMmRLTkVNSjFKdVlwQXh4aTNFdzZBZEx1Q09JM2szQ09pWnhwd2FvTGUwTk1VNnRhMmsxQ0JsZGRvQzFtNnVabF9lWFlQd25Sd3R0azl3N0dDNUdZVjk4NmhPUUFYNW1QUFJZdw?oc=5)
+
+---
+
 ### [Prevenzione e salute: Lamezia aderisce alla Giornata del Diabete, incontro e screening gratuiti della glicemia il 14 novembre - il Lametino.it](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTjYwSUk2NnI3N1E2ZGt6bGhscTNyY3h0TTVVLXN5clVId0JpZTJXLThRVDM5YzRoRDRVSkMyNGRDS0pqX3ppb1pBN3NvSWpfTUEwaEk4VzQ3VG42djg1c0d3OXRpSXVFM1FUTGs2THRKWVVQUl9lS3UxTFJZVk8xUXhmRjNKV1lwRGtJdkhfSjZqTGZqNjNEUmpuaVkxUUJtN0xQcnR3UjB6TkFRR0UxSF9UbjgtaHFsaXRyWHBzbmoxNlRfNW9pVEFucEdNMXl1cUNILUlPNy14YUFqQVV5RGRVaW1vWG5CeFNrdzl1djE?oc=5)
 
-2026-11-12 <span class="news-indication-tag">diabete</span>
+2026-11-12 <span class="news-indication-tag">diabetes</span>
 
 Source: [il Lametino.it](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTjYwSUk2NnI3N1E2ZGt6bGhscTNyY3h0TTVVLXN5clVId0JpZTJXLThRVDM5YzRoRDRVSkMyNGRDS0pqX3ppb1pBN3NvSWpfTUEwaEk4VzQ3VG42djg1c0d3OXRpSXVFM1FUTGs2THRKWVVQUl9lS3UxTFJZVk8xUXhmRjNKV1lwRGtJdkhfSjZqTGZqNjNEUmpuaVkxUUJtN0xQcnR3UjB6TkFRR0UxSF9UbjgtaHFsaXRyWHBzbmoxNlRfNW9pVEFucEdNMXl1cUNILUlPNy14YUFqQVV5RGRVaW1vWG5CeFNrdzl1djE?oc=5)
 
