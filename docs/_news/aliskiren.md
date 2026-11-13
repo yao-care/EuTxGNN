@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Aliskiren. 6 predicted indications."
 permalink: /news/aliskiren/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Aliskiren News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Aliskiren?">
-<strong>Aliskiren</strong> currently has <strong>373 news articles</strong>, with 6 predicted indications.
+<strong>Aliskiren</strong> currently has <strong>375 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page combines the AI-predicted indications for Aliskiren with the latest he
 <p><a href="{{ '/drugs/aliskiren/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (373)
+## Related News (375)
 
 ### [The new technology that could help doctors identify aggressive prostate cancer earlier - The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdFlRYnBsR1g3SEFtUnE2SjhVWVNRSmhYMFozWU9kVDRrdGdJc2RqXzZRSGh2MDk3ZXFRWVZFbi1tS093WDZYYlpTRWhtV29MdlA2Vml1aHhKVi1EYm1SWF9oTmx6RFZXWWdHMlh3TjQyNWdBSVRWWTdlQ1ZOdkpMdy12N2xCS05Lb1BKT2tkSXVwSDEzQnVlM3MzdU5hSkUyRXVFbThIQ0tOYVBCMXZ5aXQtRXA?oc=5)
 
@@ -93,6 +93,14 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiugFBVV95c
 2026-11-12 <span class="news-indication-tag">tumor</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWnNkVGdQdEZsQURpM2dUVDBpUzZUUUpoLXV1YzFrQTZublRIOVE3bHhrUFhSUFZ0elVmSWJMbnZJazNxUGlxWlNYcWhEaTBXWHhYNFd3V0diZ3JkVmpwemFLUHljMWVJbmhGR01jeEtqOURWRnZ1VjNTS0hkbFVTUmdpZy1jeXBZSHBBd3FUUk14dFZ4MktPM1pvRS1Scm9CNl93UGlZSVJsNEpQZURBQk9jWFdYYXdPOEFLRXJtNDFVU2hiVDl0VDI4ckRhV3pVcEVWblJDN0lSVFE3VVAyQmpETWNkdzZlZ1E?oc=5)
+
+---
+
+### [« Il arrive qu’une malade vive toujours des années après, alors qu’on la croyait perdue » : Carole Mathelin poursuit sa lutte contre le cancer du sein - Le Figaro Santé](https://news.google.com/rss/articles/CBMipwJBVV95cUxQaDdsWXVmTzlsLUhSdVZFWXBwS3FnWFlBTWdXbGFWdjVwXzEwZjN1Q0ltZEZ1SjExeDlfSDUtYXNUWndFSzZ2eHcwZEpDRG9iRVFzUTVJLXVPMVlVY0NfelB5MFhsWkZQOWJYMnllZ3B4UURaa2tSQlJBemdlS1FOZTJMTnBKNlJxeWN3Y1RsT0FLS25fTGlyS2QzbEx3aVdrWTNjX0phcW5VYm1JZVRFQzFWWlRmdk1GamlCYmM3S0c0THB3NkI4a01zQlFxNTNyME1wX2c3MHhvdjl1NFVFakJwSzZoeUFDVHhkLVBNMjFraXJ3SGM4RWRMVzJuNHRfWFJDeWxZSWkyR0FXN3NtLURvY2Q0dFNwUHpFanRaeFZaWURXLTdB?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span>
+
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMipwJBVV95cUxQaDdsWXVmTzlsLUhSdVZFWXBwS3FnWFlBTWdXbGFWdjVwXzEwZjN1Q0ltZEZ1SjExeDlfSDUtYXNUWndFSzZ2eHcwZEpDRG9iRVFzUTVJLXVPMVlVY0NfelB5MFhsWkZQOWJYMnllZ3B4UURaa2tSQlJBemdlS1FOZTJMTnBKNlJxeWN3Y1RsT0FLS25fTGlyS2QzbEx3aVdrWTNjX0phcW5VYm1JZVRFQzFWWlRmdk1GamlCYmM3S0c0THB3NkI4a01zQlFxNTNyME1wX2c3MHhvdjl1NFVFakJwSzZoeUFDVHhkLVBNMjFraXJ3SGM4RWRMVzJuNHRfWFJDeWxZSWkyR0FXN3NtLURvY2Q0dFNwUHpFanRaeFZaWURXLTdB?oc=5)
 
 ---
 
@@ -266,7 +274,7 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFlD
 
 ### [Laut Nephrologen: Dieser unterschätzte Blutdruck-Wert schädigt die Nieren jahrelang unbemerkt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
 
-2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">Herzerkrankung</span>
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
 
 Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
 
@@ -285,14 +293,6 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NGM4TnUzZ
 2026-11-11 <span class="news-indication-tag">Krebs</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdDlBc2JBYlV1a2tXSGcwa19oYlJOeFVNd2lGNFhscVpkNDIxNHNTQjRFMElfRFdLNm9vNTUyZ3BzQTZpTzBDVS1ySFZaTXphMjJnYVhCblpCYkhrZW84MGQtSkRJVkFKek51djlQaWVxY3VQSzhhR1VpX3pTbEdlUkhHcG1hVkRBcTJraE9sNVBRWmNCdlRoZkVhcEltQ1lmUXBaNWVQT21zejRMbk95elJxdlprMzI0dUpETGxFanVYZ0hmT3VEcmg5SnoxZ0RTcGU2Qm03V0JEdGp6dzgtdzBxaw?oc=5)
-
----
-
-### [Perché farsi crescere i baffi a novembre fa bene agli uomini](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ01MdFBSQzE4QzRIZnhZaFd0ODlGUkQxM0xmTUZJZFpnQm1PZldoeXBWUXNoQ0hycEVIU2pkbGR5bS1Ld1JpZFJyYU1GWXdZc1d3eV93eXd2RE1EcHRFWWx0YmRycC1IelRlMURwcElwR0ZhYVA5RnV6Y3hRUXdEQi0xY2stRHBCdmF6a3ZUdlMwMWhFOFhMRXNWblTSAWhBVV95cUxPcFg0Ylh3eTZDY0xfOHBqR2ljaDFYZDZULThIam8xbl9rUUdkb2psNHBaRDhWd0RCT3hfTmpsYTR4V0hGdkZLQVlqUEJvejZoNVhpMGktdjBaRzRJN0pPS24tS1VVUEdUVA?oc=5)
-
-2026-11-11 <span class="news-indication-tag">tumor</span>
-
-Source: [Tgcom24](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ01MdFBSQzE4QzRIZnhZaFd0ODlGUkQxM0xmTUZJZFpnQm1PZldoeXBWUXNoQ0hycEVIU2pkbGR5bS1Ld1JpZFJyYU1GWXdZc1d3eV93eXd2RE1EcHRFWWx0YmRycC1IelRlMURwcElwR0ZhYVA5RnV6Y3hRUXdEQi0xY2stRHBCdmF6a3ZUdlMwMWhFOFhMRXNWblTSAWhBVV95cUxPcFg0Ylh3eTZDY0xfOHBqR2ljaDFYZDZULThIam8xbl9rUUdkb2psNHBaRDhWd0RCT3hfTmpsYTR4V0hGdkZLQVlqUEJvejZoNVhpMGktdjBaRzRJN0pPS24tS1VVUEdUVA?oc=5)
 
 ---
 
@@ -629,6 +629,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNs
 2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1ienhKNDlaT1VGTml4dmZ2Z05QaU5TbVNmRnNHaWZfY19HR19PTTA1TjI1MXREX3R2b0J2MXV6MlczSFV3QXVwb0JsNDEtV01LSlVLbFh4V2NMR0tHcGR1bWR3QVVaVF84cENQdXF1WTljZTN2MjVPMmVONjhGVVdDMVc?oc=5)
+
+---
+
+### [I almost died after a toothache led to sepsis and a rare heart condition](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
+
+2026-11-09 <span class="news-indication-tag">stroke</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
 
 ---
 
@@ -1133,6 +1141,14 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMigwJBVV95cU
 2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajRaZkpKVmNiNVV3UUdUZG56Wl9VSmhuNlRrWWJTM2JscDJoLUdsY1h4QkFZWTl0T0RRY3pWbkpydnpmaFpXQWk1OGFHOXZjQ3JIWnNabGR6eG9QWTVfcFY1c09DekFSVGZJc29FR2JUbW1EbEV1TWhkdmNLSldLMmRBdTk1QUhaQ1ZDRThxcEVSWklTOHVQOG1aNnpneXFlMFhTQXVjNGNRYUhEZGhGelRQTGxfWWhPTDlB?oc=5)
+
+---
+
+### [Schlafdauer: Unter sechs Stunden erhöhen das Schlaganfallrisiko um bis zu 29 Prozent](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG0yejJGb1lqV0VpVkhtME9JUUdJQXVCUEpJT184SjMtS0dhbkljQllydFM4MzF6Ni01M25SZGxncmNHWFRFUy1LR1FpR0FjemxBVFFPNnlZVDNCa3p1Q3ViSlR2VFZsRWZ4WUdOSTZlM0xqNkNCS2hudUhHUEJqVFBiSERHRW9mZnh0bm9IRTEtZWt4QkI1X2pvRUx6dER1a196b1B0RVJXOXNzNEplaVZVMDNaREhWZGlaS2k5SFk3U0xGMUlaVUdwQmp1Zw?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG0yejJGb1lqV0VpVkhtME9JUUdJQXVCUEpJT184SjMtS0dhbkljQllydFM4MzF6Ni01M25SZGxncmNHWFRFUy1LR1FpR0FjemxBVFFPNnlZVDNCa3p1Q3ViSlR2VFZsRWZ4WUdOSTZlM0xqNkNCS2hudUhHUEJqVFBiSERHRW9mZnh0bm9IRTEtZWt4QkI1X2pvRUx6dER1a196b1B0RVJXOXNzNEplaVZVMDNaREhWZGlaS2k5SFk3U0xGMUlaVUdwQmp1Zw?oc=5)
 
 ---
 

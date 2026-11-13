@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Rotigotine. 10 predicted indications."
 permalink: /news/rotigotine/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-13
 ---
 
 # Rotigotine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Rotigotine?">
-<strong>Rotigotine</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
+<strong>Rotigotine</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Rotigotine with the latest h
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Multiple Sklerose: Hochaktive Hirnregionen sind besonders gefährdet - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMilwFBVV95cUxOZENCZFBJd3pGTVR4WHZNTHNoV1Vid0Z5SlNuTU9pSWNGQnVEZER6Q2dtc2dpMVlOTjh4V2F2amVSaGxyaVZmZkpCdDhaQnAwa2RUa1d5dU5WYWVLS05MaUNNWGFObll3YTVBd0d0dHVrREhoVy00QlFDVkpmRWhVdHdPNm4wN3VZR0w3Sk0yNjVwbW1vV05N?oc=5)
+
+2026-11-12 <span class="news-indication-tag">Multiple Sklerose</span>
+
+Source: [Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMilwFBVV95cUxOZENCZFBJd3pGTVR4WHZNTHNoV1Vid0Z5SlNuTU9pSWNGQnVEZER6Q2dtc2dpMVlOTjh4V2F2amVSaGxyaVZmZkpCdDhaQnAwa2RUa1d5dU5WYWVLS05MaUNNWGFObll3YTVBd0d0dHVrREhoVy00QlFDVkpmRWhVdHdPNm4wN3VZR0w3Sk0yNjVwbW1vV05N?oc=5)
+
+---
 
 ### [Wards at two Carmarthenshire hospitals shut due to scabies outbreak - Wales Online](https://news.google.com/rss/articles/CBMimwFBVV95cUxNeUd1S3pvT0p3LWtoYWMxcjZwZEdaMlNvZnhhdzdxXzcxNjhOd0FzanMtU2gxMzZUZUtRNmhzNFEyWUpLYktGSHd1UHNpcmNONlM2Wmc5Y25NYUgwYWVJbEV1cTlwUXpWc2NxbjRtQ0NGQXlodTY4MUtzQWJmSXlUOEhNWkkwUXBBT0t1QWZSX0wwbkxZeVpNN29pONIBoAFBVV95cUxOempXSWxNeXAtMFl0WnhhX1pibXVqcVdUWlpGSVVuWjBBdFh2OEN4NXRuS3UwYTd6YjA0S0NMaXhmamdqdHJMV0hDNUdjU3JTaVp1akNxY3pxR0RVbHAwOFhqV2FsbTVOTHBFdG9mTUY4YVJmQzhMX1A2ZUZydEN6RjRwV3pEV0dIYUhLWVo5OTYwSjJ4eHVTS2pmSnRza29z?oc=5)
 

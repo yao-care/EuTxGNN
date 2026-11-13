@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Semaglutide. 0 predicted indications."
 permalink: /news/semaglutide/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Semaglutide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>51 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>52 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (51)
+## Related News (52)
 
 ### [Visión borrosa y posibles complicaciones en la retina: qué debe vigilar quien toma Ozempic o Mounjaro](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX2xoMkN6bjRzOGxJckRLVWhIYjRMZ00zNlFTQmh5cUJRNDRBWmRhQk5iWmNjcGhzOEV6dUFPZEd0QW5qRkpEVEhqOVZmR3BIX2VnblhnYU4taENLbExFQ3RocUVoeGs2dWZMcklfdUlsOE4xVUhhNkFtTzJFcTdaTERUbkxPRlB1cFBieFp4dXQ5Yk1rd3FyUlZrbUVRdjZ6RHNlbF8tMHBDOWdyQ0RlelR6Z1I1OEQ5WDhiaTc4Z0NwV2FsN2U2RUZ2SDZVb005aXJLdjdLTlhVWWxWQWxUWER4amRLT3BzMFREZ2IxeFJqZw?oc=5)
 
@@ -71,9 +71,17 @@ Source: [Open](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdW
 
 ---
 
+### [Llega Wegovy a España para tratarse la obesidad](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDVtU3BheEJJMXNiYTJhTngydDd4dTN2T1pqZ3lEZVp6X2k4M0ljRWNGRW1ZZ0pfMzRoUXhNMlB2RFJBbVhmaE5zc0hGZGhfSzNfd0ZHcWEyNWVlTThIZ1JEMTNmbmtHenphMG4yTU1xam5CSXlwVEp3T2prckstNmVJdFNrdw?oc=5)
+
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [PUERTODELACRUZ.COM](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDVtU3BheEJJMXNiYTJhTngydDd4dTN2T1pqZ3lEZVp6X2k4M0ljRWNGRW1ZZ0pfMzRoUXhNMlB2RFJBbVhmaE5zc0hGZGhfSzNfd0ZHcWEyNWVlTThIZ1JEMTNmbmtHenphMG4yTU1xam5CSXlwVEp3T2prckstNmVJdFNrdw?oc=5)
+
+---
+
 ### [Los riesgos que afrontan los diabéticos al dejar los GLP-1](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUNfRHVmSDlvMl9oRUp1TGd5ZjZibUxiN0FhZXFKT3NXUzJ0MFp0ODY2SjhscnlrX3dWaEJFRjNtQ2RBa001MFVvNGxNLTZONWRTME9fVWc0T2RXeG1TVlMwOWJRNE9RZE9KSUM1dUp6VjJnaDJUekZiaHlzMWZqdjVXNTdQS0twOGFHR3FncWFTVGw3WWM2S1VPbDVTU3JkTjRDekVUdU10WGV3RUItakhvX0xUa0hjOVFZ?oc=5)
 
-2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUNfRHVmSDlvMl9oRUp1TGd5ZjZibUxiN0FhZXFKT3NXUzJ0MFp0ODY2SjhscnlrX3dWaEJFRjNtQ2RBa001MFVvNGxNLTZONWRTME9fVWc0T2RXeG1TVlMwOWJRNE9RZE9KSUM1dUp6VjJnaDJUekZiaHlzMWZqdjVXNTdQS0twOGFHR3FncWFTVGw3WWM2S1VPbDVTU3JkTjRDekVUdU10WGV3RUItakhvX0xUa0hjOVFZ?oc=5)
 

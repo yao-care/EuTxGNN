@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ibuprofen. 7 predicted indications."
 permalink: /news/ibuprofen/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Ibuprofen News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>17 news articles</strong>, with 7 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>19 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (19)
+
+### [Blood thinner could offer a new way to treat osteoarthritis - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbnhrWEl1WmtSbVNrN05ZWFF3c2s1emJPcGVJWk1NdldVNXhrZTdlakQyREVDSHFpMkd2QUdsWHQ2T19ZZ0h0RE12RFVPUkxKeWUydVJBVC1fbTlCaDY5RmgySFdlTmJFNDR0MHFLQ3VxczJMWF9lWmZyQTA?oc=5)
+
+2026-11-12 <span class="news-indication-tag">arthritis</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbnhrWEl1WmtSbVNrN05ZWFF3c2s1emJPcGVJWk1NdldVNXhrZTdlakQyREVDSHFpMkd2QUdsWHQ2T19ZZ0h0RE12RFVPUkxKeWUydVJBVC1fbTlCaDY5RmgySFdlTmJFNDR0MHFLQ3VxczJMWF9lWmZyQTA?oc=5)
+
+---
 
 ### [Los metabolitos intestinales ayudan a predecir la respuesta a biológicos en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGpRMjJaWmdXdU1TV1g2bzdjekpjS3p4ek1wR1doc0JwVnk0UC1hU1Q4aTZ6bjAyd0dLQjFaZ2JGWjdPVnhZUVJqUm5hREdmVy0wZ3Q1Y1huanYya3p3TE1JTEdqaWxCa3ptck9kN09FSVBwLUlEVlVvdHZva1l4VEhuc3J5WEl3eVloVlZvdFlocmlwMXVQRENRWVlJOE9VSlVHYUxZREl4eW5lZC1PaC1oczZQVWZjbjRCVGxwSExpZ9IBvAFBVV95cUxPSUh3dDREZ1ZrbXVta2FJcnVidEtnRy1MQk0zWWtiQTE1dTNMWUNQSTJfMTJLMHBiaFVWX1FOOXdUUFNqZUUxUlNfYlZRZWdrdGJJNVBYYV9IbmlqNENWMWpTQl9TUmZhRVZDSFVURDFhOEtRc2JGd09lWFhjNjlPUmprRlF0QmVJTkNwZ2E1YzFQMW9BM2FsMU1zX2QtenBWT19CeDM2LUs2amU4QWFvVFBCUl9OZlcyV2E0Xw?oc=5)
 
@@ -62,6 +70,14 @@ Source: [MARCA](https://news.google.com/rss/articles/CBMizAFBVV95cUxNMG9UVHg2ZjR
 2026-11-12 <span class="news-indication-tag">artritis</span>
 
 Source: [ConSalud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzNEZGE2QjBqNWZqdGM0Tm1ibDhTX1JjblZSMWh1UlpsLWVpMWVhS3VtWERNODNMNVM1TVJ1YW1xdHN1SUtMRGpTcXN5X3V6SU1XMkJjbEYtYmVoUXZnSzkwMV9Sblg3SzJuT1lTNXJHajgwNmI4YzJYekUtRkI2WUYxMFlfeGNPaUQ4bWxNRTF1aTJvVng1OFNjQzZJOVlLZWU5eGltSUpGUjJfd3VmQUNXZ0dMTEk1MFJHLXU1b1JuWVZVaFNGWVAweEtmU1U2WGZnU3IzM3ZwcS0ySW5Ib3VR?oc=5)
+
+---
+
+### [Ibuprofene contro il dolore: perché sono a rischio i reni - la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUFhmeERaZGRBUEZBS2ZZbHczLTRoMUdROWtrdHJ0anI1bDRJdWE2RGt3SVhtRHNSVFExNkw3bGY2TzBXWWQwVVdNUHRlRmtjT1laejY3OE1tWERqSDBfX0pKMzl0N0JJbWJ1S1d3QnR2T1RIX0NNSUhSNVBmcTNCNDRUbWpFamwtRjEtVjNWbm5CRk0teXhac3RxdnhhZ1lwZnNfdmZtc2ZYM3ZYS1FHUWtFRXFNcFXSAbwBQVVfeXFMUDhoYzlkWE5aSnZ2RjBWLXJvNnZmZXI1ZlNLRUQxa3Z1UkJwaFc3THdaRWN5aXNMZmxRRXlLblNLa05OZ2xJV2lRbmxHUEc2M0paUkNGeHg1QWFYanNOdlRhVFl3eDd1WEpIS1RTQTRFNXkwZktQRmZSYXhlVEZRUWpuMWV4QnNsWWsxUW9yd2tNOXIxLVg1VWIyNDhRU0VjY2tyTWo5ZFI3ZzlfUlZ1cWxMc3pDREJ5QVhjMWY?oc=5)
+
+2026-11-11 <span class="news-drug-tag">Ibuprofen</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUFhmeERaZGRBUEZBS2ZZbHczLTRoMUdROWtrdHJ0anI1bDRJdWE2RGt3SVhtRHNSVFExNkw3bGY2TzBXWWQwVVdNUHRlRmtjT1laejY3OE1tWERqSDBfX0pKMzl0N0JJbWJ1S1d3QnR2T1RIX0NNSUhSNVBmcTNCNDRUbWpFamwtRjEtVjNWbm5CRk0teXhac3RxdnhhZ1lwZnNfdmZtc2ZYM3ZYS1FHUWtFRXFNcFXSAbwBQVVfeXFMUDhoYzlkWE5aSnZ2RjBWLXJvNnZmZXI1ZlNLRUQxa3Z1UkJwaFc3THdaRWN5aXNMZmxRRXlLblNLa05OZ2xJV2lRbmxHUEc2M0paUkNGeHg1QWFYanNOdlRhVFl3eDd1WEpIS1RTQTRFNXkwZktQRmZSYXhlVEZRUWpuMWV4QnNsWWsxUW9yd2tNOXIxLVg1VWIyNDhRU0VjY2tyTWo5ZFI3ZzlfUlZ1cWxMc3pDREJ5QVhjMWY?oc=5)
 
 ---
 

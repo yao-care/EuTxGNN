@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Orlistat. 1 predicted indications."
 permalink: /news/orlistat/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Orlistat News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>165 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>168 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (165)
+## Related News (168)
 
 ### [OBESIDAD: la atención personalizada y el fenotipado como ejes del modelo asistencial - Gaceta Médica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWDZTQll5bWpJRHppMDBwSG4xM1NCbFBiamdIaFRVOFFQSEMtbklNMlFoTjhqblJ0aTM5WHdGYnJocHRHQkFhS1cwOFEtOWhJaDlDTW1ibjZhc2VINE96dHdlUjdIUUNWXzlIYzVkVE1NTWQ0d0VRY2xQdUI2X0pDSjBLRFJSeFoxWFg1RHRrM2cxT0VjZEQ2Mjlpd3FYOGVLSUJWRHZYQnZ3SW5weTJZZXpHNDBaRlF1?oc=5)
 
@@ -171,6 +171,14 @@ Source: [Open](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdW
 
 ---
 
+### [Generation X in worse health in their fifties than baby boomers - The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbDhPS2lIUmZ5M1VrUVJBX2FZcU1vRDFaeXhTbjNCR1VJMW9BM0xSeW9EZ3lTMzhka21JVUNNTjV1VEZNLWNkOUlTMDh4eGZjblpNeUpjaFo5ZkFDdlRzQUZ3UGNfSVlfNVd2OHhBYlc3MUNTamVaZVpvYzdHOXg4UG1WUVdYdkdlSFRCQ3p5alZlcVlKOXo1T0JXSmVZNVBJU0RBajh3?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbDhPS2lIUmZ5M1VrUVJBX2FZcU1vRDFaeXhTbjNCR1VJMW9BM0xSeW9EZ3lTMzhka21JVUNNTjV1VEZNLWNkOUlTMDh4eGZjblpNeUpjaFo5ZkFDdlRzQUZ3UGNfSVlfNVd2OHhBYlc3MUNTamVaZVpvYzdHOXg4UG1WUVdYdkdlSFRCQ3p5alZlcVlKOXo1T0JXSmVZNVBJU0RBajh3?oc=5)
+
+---
+
 ### [The new high-carb diet that can reverse type 2 diabetes - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXdWYkR0aG9BZ0NaN0pFcjBIZlVRTFBlSGpvcDJfYml1Q0JYdEl1RGd2M0ZrRnkwYnNHU3ZRVDRZMV9FdWdrUG1idk8zSmJqU0dPT3V1ZERPTFZLN2J6bFp5bk1LZE1YazNCLTBFVTlid0VlR05Rb1kwUkJ6SF9ocVpBakdqdmQ2aW9IenZ6djFmclRoNjRqZml1MHJCQ01qVEJVdERyWTVCdw?oc=5)
 
 2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
@@ -219,11 +227,11 @@ Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSl
 
 ---
 
-### [Los riesgos que afrontan los diabéticos al dejar los GLP-1](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUNfRHVmSDlvMl9oRUp1TGd5ZjZibUxiN0FhZXFKT3NXUzJ0MFp0ODY2SjhscnlrX3dWaEJFRjNtQ2RBa001MFVvNGxNLTZONWRTME9fVWc0T2RXeG1TVlMwOWJRNE9RZE9KSUM1dUp6VjJnaDJUekZiaHlzMWZqdjVXNTdQS0twOGFHR3FncWFTVGw3WWM2S1VPbDVTU3JkTjRDekVUdU10WGV3RUItakhvX0xUa0hjOVFZ?oc=5)
+### [Llega Wegovy a España para tratarse la obesidad](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDVtU3BheEJJMXNiYTJhTngydDd4dTN2T1pqZ3lEZVp6X2k4M0ljRWNGRW1ZZ0pfMzRoUXhNMlB2RFJBbVhmaE5zc0hGZGhfSzNfd0ZHcWEyNWVlTThIZ1JEMTNmbmtHenphMG4yTU1xam5CSXlwVEp3T2prckstNmVJdFNrdw?oc=5)
 
-2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUNfRHVmSDlvMl9oRUp1TGd5ZjZibUxiN0FhZXFKT3NXUzJ0MFp0ODY2SjhscnlrX3dWaEJFRjNtQ2RBa001MFVvNGxNLTZONWRTME9fVWc0T2RXeG1TVlMwOWJRNE9RZE9KSUM1dUp6VjJnaDJUekZiaHlzMWZqdjVXNTdQS0twOGFHR3FncWFTVGw3WWM2S1VPbDVTU3JkTjRDekVUdU10WGV3RUItakhvX0xUa0hjOVFZ?oc=5)
+Source: [PUERTODELACRUZ.COM](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDVtU3BheEJJMXNiYTJhTngydDd4dTN2T1pqZ3lEZVp6X2k4M0ljRWNGRW1ZZ0pfMzRoUXhNMlB2RFJBbVhmaE5zc0hGZGhfSzNfd0ZHcWEyNWVlTThIZ1JEMTNmbmtHenphMG4yTU1xam5CSXlwVEp3T2prckstNmVJdFNrdw?oc=5)
 
 ---
 
@@ -336,6 +344,14 @@ Source: [The Objective](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOVZ
 2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1ienhKNDlaT1VGTml4dmZ2Z05QaU5TbVNmRnNHaWZfY19HR19PTTA1TjI1MXREX3R2b0J2MXV6MlczSFV3QXVwb0JsNDEtV01LSlVLbFh4V2NMR0tHcGR1bWR3QVVaVF84cENQdXF1WTljZTN2MjVPMmVONjhGVVdDMVc?oc=5)
+
+---
+
+### [I almost died after a toothache led to sepsis and a rare heart condition](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
+
+2026-11-09 <span class="news-indication-tag">stroke</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
 
 ---
 
@@ -536,6 +552,14 @@ Source: [JeChange](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk1TYmJZ
 2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajRaZkpKVmNiNVV3UUdUZG56Wl9VSmhuNlRrWWJTM2JscDJoLUdsY1h4QkFZWTl0T0RRY3pWbkpydnpmaFpXQWk1OGFHOXZjQ3JIWnNabGR6eG9QWTVfcFY1c09DekFSVGZJc29FR2JUbW1EbEV1TWhkdmNLSldLMmRBdTk1QUhaQ1ZDRThxcEVSWklTOHVQOG1aNnpneXFlMFhTQXVjNGNRYUhEZGhGelRQTGxfWWhPTDlB?oc=5)
+
+---
+
+### [Schlafdauer: Unter sechs Stunden erhöhen das Schlaganfallrisiko um bis zu 29 Prozent](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG0yejJGb1lqV0VpVkhtME9JUUdJQXVCUEpJT184SjMtS0dhbkljQllydFM4MzF6Ni01M25SZGxncmNHWFRFUy1LR1FpR0FjemxBVFFPNnlZVDNCa3p1Q3ViSlR2VFZsRWZ4WUdOSTZlM0xqNkNCS2hudUhHUEJqVFBiSERHRW9mZnh0bm9IRTEtZWt4QkI1X2pvRUx6dER1a196b1B0RVJXOXNzNEplaVZVMDNaREhWZGlaS2k5SFk3U0xGMUlaVUdwQmp1Zw?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG0yejJGb1lqV0VpVkhtME9JUUdJQXVCUEpJT184SjMtS0dhbkljQllydFM4MzF6Ni01M25SZGxncmNHWFRFUy1LR1FpR0FjemxBVFFPNnlZVDNCa3p1Q3ViSlR2VFZsRWZ4WUdOSTZlM0xqNkNCS2hudUhHUEJqVFBiSERHRW9mZnh0bm9IRTEtZWt4QkI1X2pvRUx6dER1a196b1B0RVJXOXNzNEplaVZVMDNaREhWZGlaS2k5SFk3U0xGMUlaVUdwQmp1Zw?oc=5)
 
 ---
 

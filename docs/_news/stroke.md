@@ -3,9 +3,9 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 81 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 83 articles, 11 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # ictus (stroke) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>81 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>83 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (81)
+## Related News (83)
 
 ### [Two Trials of Intensive BP Lowering, Two Different Outcomes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
 
@@ -141,6 +141,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1ienhKN
 
 ---
 
+### [I almost died after a toothache led to sepsis and a rare heart condition](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
+
+2026-11-09
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
+
+---
+
 ### [The deadly morning hour when your stroke risk suddenly spikes - The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVNMYS1OS3FiaC1VUlRCTFFCSXJQaHVIa3A5WDc2QUF1V0J6RHhDUzk4VUZMeTQ0THpKS0NWUzFvQjZ4OHlPNmFVOWZxSTNQMHJEUHczb1p4Sml0dXdhaTdGVnRRSlp3MThtU21ZZDFQMUYxLWZPV3dGcG1wOVRyUmV4cjBycHQ4cUEwTk1QQzRtN3hKZTNj?oc=5)
 
 2026-11-09
@@ -234,6 +242,14 @@ Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBV
 2026-11-07
 
 Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajRaZkpKVmNiNVV3UUdUZG56Wl9VSmhuNlRrWWJTM2JscDJoLUdsY1h4QkFZWTl0T0RRY3pWbkpydnpmaFpXQWk1OGFHOXZjQ3JIWnNabGR6eG9QWTVfcFY1c09DekFSVGZJc29FR2JUbW1EbEV1TWhkdmNLSldLMmRBdTk1QUhaQ1ZDRThxcEVSWklTOHVQOG1aNnpneXFlMFhTQXVjNGNRYUhEZGhGelRQTGxfWWhPTDlB?oc=5)
+
+---
+
+### [Schlafdauer: Unter sechs Stunden erhöhen das Schlaganfallrisiko um bis zu 29 Prozent](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG0yejJGb1lqV0VpVkhtME9JUUdJQXVCUEpJT184SjMtS0dhbkljQllydFM4MzF6Ni01M25SZGxncmNHWFRFUy1LR1FpR0FjemxBVFFPNnlZVDNCa3p1Q3ViSlR2VFZsRWZ4WUdOSTZlM0xqNkNCS2hudUhHUEJqVFBiSERHRW9mZnh0bm9IRTEtZWt4QkI1X2pvRUx6dER1a196b1B0RVJXOXNzNEplaVZVMDNaREhWZGlaS2k5SFk3U0xGMUlaVUdwQmp1Zw?oc=5)
+
+2026-11-07
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG0yejJGb1lqV0VpVkhtME9JUUdJQXVCUEpJT184SjMtS0dhbkljQllydFM4MzF6Ni01M25SZGxncmNHWFRFUy1LR1FpR0FjemxBVFFPNnlZVDNCa3p1Q3ViSlR2VFZsRWZ4WUdOSTZlM0xqNkNCS2hudUhHUEJqVFBiSERHRW9mZnh0bm9IRTEtZWt4QkI1X2pvRUx6dER1a196b1B0RVJXOXNzNEplaVZVMDNaREhWZGlaS2k5SFk3U0xGMUlaVUdwQmp1Zw?oc=5)
 
 ---
 

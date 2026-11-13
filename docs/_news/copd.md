@@ -3,9 +3,9 @@ layout: default
 title: "EPOC (copd) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about EPOC (copd). 11 articles, 26 related drugs."
+description: "Health news about EPOC (copd). 12 articles, 26 related drugs."
 permalink: /news/copd/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # EPOC (copd) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about EPOC (copd)?">
-<strong>EPOC (copd)</strong> currently has <strong>11 news articles</strong> and 26 related drugs.
+<strong>EPOC (copd)</strong> currently has <strong>12 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “EPOC” and lists the 
 </ul>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [COPD-Exazerbationen vorbeugen: Welche Strategien sich bewährt haben - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
+
+2026-11-13
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
+
+---
 
 ### [Un médico advierte: dejar el tabaco es clave para frenar la EPOC](https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RTQ0pOTmVmWUdRb2RjVnZRVzJlNTl0eVV5aXNHcm5UYzJ4dEg2RVlvQkVLWnhTNGtQTnZrTzhYRjY2WGtsTFloYnd4Yk9KY1VmTERuZU51cy02Q2ZOVlkzMEpaQ3NfRVhjSlc0clk0czkySm1fenRFRERCaHZHSXBkbFprYnhhc0pzbE1YUU1mLWMyeXNSTWNQdkdwZ9IBowFBVV95cUxQR0ZKek1kWXM1ZnpQTjFkRDFDOHZEbHlBUXdtNGJHanBBc0tCYVh3WVdxRWtKM0x5cDd5RkZWY0hNY2N6TXpFeTFOekFmczB5dWpRTlBuSk55TVdVX0k4M2FuM3E3QUszQXFPMTBQRFk2NzI3VGhLSjh5Y1JsT2I2Q21HUFVnR2lUcnpfUzhrOExZUHNvaFpxLXRpVmd2cUtBQkhn?oc=5)
 

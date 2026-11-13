@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Dronedarone. 9 predicted indications."
 permalink: /news/dronedarone/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Dronedarone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>90 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>92 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (90)
+## Related News (92)
 
 ### [Two Trials of Intensive BP Lowering, Two Different Outcomes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
 
@@ -179,6 +179,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1ienhKN
 
 ---
 
+### [I almost died after a toothache led to sepsis and a rare heart condition](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
+
+2026-11-09 <span class="news-indication-tag">stroke</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
+
+---
+
 ### [The deadly morning hour when your stroke risk suddenly spikes - The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVNMYS1OS3FiaC1VUlRCTFFCSXJQaHVIa3A5WDc2QUF1V0J6RHhDUzk4VUZMeTQ0THpKS0NWUzFvQjZ4OHlPNmFVOWZxSTNQMHJEUHczb1p4Sml0dXdhaTdGVnRRSlp3MThtU21ZZDFQMUYxLWZPV3dGcG1wOVRyUmV4cjBycHQ4cUEwTk1QQzRtN3hKZTNj?oc=5)
 
 2026-11-09 <span class="news-indication-tag">stroke</span>
@@ -272,6 +280,14 @@ Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBV
 2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajRaZkpKVmNiNVV3UUdUZG56Wl9VSmhuNlRrWWJTM2JscDJoLUdsY1h4QkFZWTl0T0RRY3pWbkpydnpmaFpXQWk1OGFHOXZjQ3JIWnNabGR6eG9QWTVfcFY1c09DekFSVGZJc29FR2JUbW1EbEV1TWhkdmNLSldLMmRBdTk1QUhaQ1ZDRThxcEVSWklTOHVQOG1aNnpneXFlMFhTQXVjNGNRYUhEZGhGelRQTGxfWWhPTDlB?oc=5)
+
+---
+
+### [Schlafdauer: Unter sechs Stunden erhöhen das Schlaganfallrisiko um bis zu 29 Prozent](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG0yejJGb1lqV0VpVkhtME9JUUdJQXVCUEpJT184SjMtS0dhbkljQllydFM4MzF6Ni01M25SZGxncmNHWFRFUy1LR1FpR0FjemxBVFFPNnlZVDNCa3p1Q3ViSlR2VFZsRWZ4WUdOSTZlM0xqNkNCS2hudUhHUEJqVFBiSERHRW9mZnh0bm9IRTEtZWt4QkI1X2pvRUx6dER1a196b1B0RVJXOXNzNEplaVZVMDNaREhWZGlaS2k5SFk3U0xGMUlaVUdwQmp1Zw?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG0yejJGb1lqV0VpVkhtME9JUUdJQXVCUEpJT184SjMtS0dhbkljQllydFM4MzF6Ni01M25SZGxncmNHWFRFUy1LR1FpR0FjemxBVFFPNnlZVDNCa3p1Q3ViSlR2VFZsRWZ4WUdOSTZlM0xqNkNCS2hudUhHUEJqVFBiSERHRW9mZnh0bm9IRTEtZWt4QkI1X2pvRUx6dER1a196b1B0RVJXOXNzNEplaVZVMDNaREhWZGlaS2k5SFk3U0xGMUlaVUdwQmp1Zw?oc=5)
 
 ---
 

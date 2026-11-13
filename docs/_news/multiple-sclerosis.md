@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "MS (multiple sclerosis) News"
+title: "Multiple Sklerose (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 7 articles, 26 related drugs."
+description: "Health news about Multiple Sklerose (multiple sclerosis). 8 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-13
 ---
 
-# MS (multiple sclerosis) News
+# Multiple Sklerose (multiple sclerosis) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>7 news articles</strong> and 26 related drugs.
+<p class="key-answer" data-question="What news is there about Multiple Sklerose (multiple sclerosis)?">
+<strong>Multiple Sklerose (multiple sclerosis)</strong> currently has <strong>8 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “MS” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Multiple Sklerose” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -46,7 +46,15 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Multiple Sklerose: Hochaktive Hirnregionen sind besonders gefährdet - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMilwFBVV95cUxOZENCZFBJd3pGTVR4WHZNTHNoV1Vid0Z5SlNuTU9pSWNGQnVEZER6Q2dtc2dpMVlOTjh4V2F2amVSaGxyaVZmZkpCdDhaQnAwa2RUa1d5dU5WYWVLS05MaUNNWGFObll3YTVBd0d0dHVrREhoVy00QlFDVkpmRWhVdHdPNm4wN3VZR0w3Sk0yNjVwbW1vV05N?oc=5)
+
+2026-11-12
+
+Source: [Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMilwFBVV95cUxOZENCZFBJd3pGTVR4WHZNTHNoV1Vid0Z5SlNuTU9pSWNGQnVEZER6Q2dtc2dpMVlOTjh4V2F2amVSaGxyaVZmZkpCdDhaQnAwa2RUa1d5dU5WYWVLS05MaUNNWGFObll3YTVBd0d0dHVrREhoVy00QlFDVkpmRWhVdHdPNm4wN3VZR0w3Sk0yNjVwbW1vV05N?oc=5)
+
+---
 
 ### [Wards at two Carmarthenshire hospitals shut due to scabies outbreak - Wales Online](https://news.google.com/rss/articles/CBMimwFBVV95cUxNeUd1S3pvT0p3LWtoYWMxcjZwZEdaMlNvZnhhdzdxXzcxNjhOd0FzanMtU2gxMzZUZUtRNmhzNFEyWUpLYktGSHd1UHNpcmNONlM2Wmc5Y25NYUgwYWVJbEV1cTlwUXpWc2NxbjRtQ0NGQXlodTY4MUtzQWJmSXlUOEhNWkkwUXBBT0t1QWZSX0wwbkxZeVpNN29pONIBoAFBVV95cUxOempXSWxNeXAtMFl0WnhhX1pibXVqcVdUWlpGSVVuWjBBdFh2OEN4NXRuS3UwYTd6YjA0S0NMaXhmamdqdHJMV0hDNUdjU3JTaVp1akNxY3pxR0RVbHAwOFhqV2FsbTVOTHBFdG9mTUY4YVJmQzhMX1A2ZUZydEN6RjRwV3pEV0dIYUhLWVo5OTYwSjJ4eHVTS2pmSnRza29z?oc=5)
 

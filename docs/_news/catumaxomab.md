@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Catumaxomab. 3 predicted indications."
 permalink: /news/catumaxomab/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Catumaxomab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Catumaxomab?">
-<strong>Catumaxomab</strong> currently has <strong>376 news articles</strong>, with 3 predicted indications.
+<strong>Catumaxomab</strong> currently has <strong>380 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Catumaxomab with the latest 
 <p><a href="{{ '/drugs/catumaxomab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (376)
+## Related News (380)
+
+### [Vortrag: Individualisierte Therapie bei Diabetes mellitus Typ 2 – Alles Insulin, oder was?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2EtbW5ydXBEOG56UDdkZXZTamE5cVhDZEdwajJQbGJJTHV0SUhjTEJaRUNZRHBpZnVqVkpCUndvdkpyOVIzWG9HM0s5bjFNc0NUekx0XzFFMlNHZERKSXJ1UEVKbW1tQ04zVDduV1FWUDJVT0lESzZpM0RtcXUtVXRvQjYtS3dnUlRuTXk3Sm4xS0xXM3Ztc3Y4MkJPTW51aE1xaF96cjB0WEtyZDNCbVliOXlXY1BIXzFz?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes mellitus</span>
+
+Source: [LokalKlick](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2EtbW5ydXBEOG56UDdkZXZTamE5cVhDZEdwajJQbGJJTHV0SUhjTEJaRUNZRHBpZnVqVkpCUndvdkpyOVIzWG9HM0s5bjFNc0NUekx0XzFFMlNHZERKSXJ1UEVKbW1tQ04zVDduV1FWUDJVT0lESzZpM0RtcXUtVXRvQjYtS3dnUlRuTXk3Sm4xS0xXM3Ztc3Y4MkJPTW51aE1xaF96cjB0WEtyZDNCbVliOXlXY1BIXzFz?oc=5)
+
+---
 
 ### [Un nuevo estudio desvela una baja percepción de riesgo de la diabetes entre los adultos españoles](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTXVHektXR25VY3lubEcwYWNoRXhzc1RtS0dpRFJuUTB1ZXZMYzNGZnBpVEJpWW5BYUlFT1kzTm9PcnNjRlhicW14ZkFxN3RsUVpVdXZGclJkMWhIQkJ4dHlZWHI5Qko3bktEaF91X2hwdFd0dVltQ21WSUUxcERKd2tyN1pJc1UtbW00Mk11aklSZXh0NFNvekJ4RzRvZlNaOVhaWVlMaDVYMUxvbFl4Z3dMS0xVZmNXemdubDJqVWVSSDI2alJTUXdvSExqNmlFbWhLV3c0YWtHWGpyS0ZRSVJsQWtZSDg?oc=5)
 
@@ -66,6 +74,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGdONG
 2026-11-12 <span class="news-indication-tag">cancer</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdFlRYnBsR1g3SEFtUnE2SjhVWVNRSmhYMFozWU9kVDRrdGdJc2RqXzZRSGh2MDk3ZXFRWVZFbi1tS093WDZYYlpTRWhtV29MdlA2Vml1aHhKVi1EYm1SWF9oTmx6RFZXWWdHMlh3TjQyNWdBSVRWWTdlQ1ZOdkpMdy12N2xCS05Lb1BKT2tkSXVwSDEzQnVlM3MzdU5hSkUyRXVFbThIQ0tOYVBCMXZ5aXQtRXA?oc=5)
+
+---
+
+### [Uno de cada dos pacientes con diabetes tipo 2 se queda con dudas tras la consulta - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQnBkTFRJVThXeXhNcDJDWWk1MHhRVzYyS3B0N2gzS2V1NjdxazlDZDFsQ2hDT1pURnRDZENiS21UN0tZVUwyODlhN0VrUkF1SWFvRHFRd2tPWW9KeUZRS0JucTBRWGtqcm9XVlV2OVpSM3RWTWZuOXRuV0ExMjdoc1ZHb2o4NHhNakxiTklCZ0RMWm8xZ1ZYNW1ibGNvTFA0eUoxNER3Uk9ZdzFBVEFJeDJOWGNZMkM0ZzhTaVV6WVRFUdIBvAFBVV95cUxPMnd5ZXZrSmpjVzZqMWJDLU5DS2RVVFZSVVdxZTZPdDgzd1lkTXZ3MGVzUTJBUGFRRW0wMDRheUwxb3JkYXctLVhEeEFWU2NiT1cySnh6SUl6SXN2SXdxUFhsbEtWR1lQWTltNWFIREFSYUluRTRPQnh3Ujg2dzJ0RHg1WU9YTW13LWJ1b3BBeGQwQWgtSWU3dnBZT21WQTBkMXppU1U3amJDMGFXd2JyeDNSUldjODB4elJvcg?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQnBkTFRJVThXeXhNcDJDWWk1MHhRVzYyS3B0N2gzS2V1NjdxazlDZDFsQ2hDT1pURnRDZENiS21UN0tZVUwyODlhN0VrUkF1SWFvRHFRd2tPWW9KeUZRS0JucTBRWGtqcm9XVlV2OVpSM3RWTWZuOXRuV0ExMjdoc1ZHb2o4NHhNakxiTklCZ0RMWm8xZ1ZYNW1ibGNvTFA0eUoxNER3Uk9ZdzFBVEFJeDJOWGNZMkM0ZzhTaVV6WVRFUdIBvAFBVV95cUxPMnd5ZXZrSmpjVzZqMWJDLU5DS2RVVFZSVVdxZTZPdDgzd1lkTXZ3MGVzUTJBUGFRRW0wMDRheUwxb3JkYXctLVhEeEFWU2NiT1cySnh6SUl6SXN2SXdxUFhsbEtWR1lQWTltNWFIREFSYUluRTRPQnh3Ujg2dzJ0RHg1WU9YTW13LWJ1b3BBeGQwQWgtSWU3dnBZT21WQTBkMXppU1U3amJDMGFXd2JyeDNSUldjODB4elJvcg?oc=5)
 
 ---
 
@@ -170,6 +186,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV9
 2026-11-12 <span class="news-indication-tag">diabetes</span>
 
 Source: [swp.de](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNExMWmFCQ0JKZDU3eHhqWjNZdElFZ2t1SFY2dW44eHhoZGt2QkdvZ1d1TkdReUZraHllaGJJSXZ6UmxvbjN2ZjNoSEw0M3dYeUEyT2x4NTB2OXZyYTFNTXJLVVVQVEo4OWxVOFhiMk5rXzJZcVJLQUhGOWczNG9kZUp3ZHd2SHRzcU9TUDNWR2doelhuc2Y0eEhQRm0xRHFYUk1fV3NMdVNocms0ejhIQ3U0RThxeC04RDlaQWd1VnJhVk9sNEl6RWlzMzFPNTR4ZUJlYzdfV2pDTG4yNzcyLUpMb3JuU1hv?oc=5)
+
+---
+
+### [« Il arrive qu’une malade vive toujours des années après, alors qu’on la croyait perdue » : Carole Mathelin poursuit sa lutte contre le cancer du sein - Le Figaro Santé](https://news.google.com/rss/articles/CBMipwJBVV95cUxQaDdsWXVmTzlsLUhSdVZFWXBwS3FnWFlBTWdXbGFWdjVwXzEwZjN1Q0ltZEZ1SjExeDlfSDUtYXNUWndFSzZ2eHcwZEpDRG9iRVFzUTVJLXVPMVlVY0NfelB5MFhsWkZQOWJYMnllZ3B4UURaa2tSQlJBemdlS1FOZTJMTnBKNlJxeWN3Y1RsT0FLS25fTGlyS2QzbEx3aVdrWTNjX0phcW5VYm1JZVRFQzFWWlRmdk1GamlCYmM3S0c0THB3NkI4a01zQlFxNTNyME1wX2c3MHhvdjl1NFVFakJwSzZoeUFDVHhkLVBNMjFraXJ3SGM4RWRMVzJuNHRfWFJDeWxZSWkyR0FXN3NtLURvY2Q0dFNwUHpFanRaeFZaWURXLTdB?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span>
+
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMipwJBVV95cUxQaDdsWXVmTzlsLUhSdVZFWXBwS3FnWFlBTWdXbGFWdjVwXzEwZjN1Q0ltZEZ1SjExeDlfSDUtYXNUWndFSzZ2eHcwZEpDRG9iRVFzUTVJLXVPMVlVY0NfelB5MFhsWkZQOWJYMnllZ3B4UURaa2tSQlJBemdlS1FOZTJMTnBKNlJxeWN3Y1RsT0FLS25fTGlyS2QzbEx3aVdrWTNjX0phcW5VYm1JZVRFQzFWWlRmdk1GamlCYmM3S0c0THB3NkI4a01zQlFxNTNyME1wX2c3MHhvdjl1NFVFakJwSzZoeUFDVHhkLVBNMjFraXJ3SGM4RWRMVzJuNHRfWFJDeWxZSWkyR0FXN3NtLURvY2Q0dFNwUHpFanRaeFZaWURXLTdB?oc=5)
 
 ---
 
@@ -333,6 +357,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV9
 
 ---
 
+### [Typ-2-Diabetes bleibt in Thüringen eine große Herausforderung](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTGo1TUZWVGl5Y2MxbmhPRUg0WmFrZ0ZJOVNzUFBvQzlyVnUtM1dOTnozMWpyaVg2azRNOWZKZ25WRmcweDdKYUhfRjhaMkNVTFpsR081MFMyUWQ5bnlfRjlCY0MtX09LWm5MVGFFUTNlaEpvak9xUHlIYlFpNkg1bWlCNzQ4YllFV0ltRkFkMEsyVXNnd0lPZEV3RHQ4NlZCd3pkZg?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span>
+
+Source: [gotha-aktuell](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTGo1TUZWVGl5Y2MxbmhPRUg0WmFrZ0ZJOVNzUFBvQzlyVnUtM1dOTnozMWpyaVg2azRNOWZKZ25WRmcweDdKYUhfRjhaMkNVTFpsR081MFMyUWQ5bnlfRjlCY0MtX09LWm5MVGFFUTNlaEpvak9xUHlIYlFpNkg1bWlCNzQ4YllFV0ltRkFkMEsyVXNnd0lPZEV3RHQ4NlZCd3pkZg?oc=5)
+
+---
+
 ### [Saturation genome editing of BRCA1 across cell types improves interpretation of variant pathogenicity](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xdGl4SXQ5X3J6VG5vSzFxa0JDM3UybzFsMFU1VmdiTzBQdmZOVmFQelpwVWMwazBOTklUQk9qR3pYeHptV3p0V0plZXpmLXNFcDFOdkdRejBSNmtpY2ZJ?oc=5)
 
 2026-11-11 <span class="news-indication-tag">cancer</span>
@@ -375,7 +407,7 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFlD
 
 ### [Laut Nephrologen: Dieser unterschätzte Blutdruck-Wert schädigt die Nieren jahrelang unbemerkt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
 
-2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">Herzerkrankung</span>
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
 
 Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
 
@@ -421,14 +453,6 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdDlBc2JBYlV1
 
 ---
 
-### [Perché farsi crescere i baffi a novembre fa bene agli uomini](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ01MdFBSQzE4QzRIZnhZaFd0ODlGUkQxM0xmTUZJZFpnQm1PZldoeXBWUXNoQ0hycEVIU2pkbGR5bS1Ld1JpZFJyYU1GWXdZc1d3eV93eXd2RE1EcHRFWWx0YmRycC1IelRlMURwcElwR0ZhYVA5RnV6Y3hRUXdEQi0xY2stRHBCdmF6a3ZUdlMwMWhFOFhMRXNWblTSAWhBVV95cUxPcFg0Ylh3eTZDY0xfOHBqR2ljaDFYZDZULThIam8xbl9rUUdkb2psNHBaRDhWd0RCT3hfTmpsYTR4V0hGdkZLQVlqUEJvejZoNVhpMGktdjBaRzRJN0pPS24tS1VVUEdUVA?oc=5)
-
-2026-11-11 <span class="news-indication-tag">tumor</span>
-
-Source: [Tgcom24](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ01MdFBSQzE4QzRIZnhZaFd0ODlGUkQxM0xmTUZJZFpnQm1PZldoeXBWUXNoQ0hycEVIU2pkbGR5bS1Ld1JpZFJyYU1GWXdZc1d3eV93eXd2RE1EcHRFWWx0YmRycC1IelRlMURwcElwR0ZhYVA5RnV6Y3hRUXdEQi0xY2stRHBCdmF6a3ZUdlMwMWhFOFhMRXNWblTSAWhBVV95cUxPcFg0Ylh3eTZDY0xfOHBqR2ljaDFYZDZULThIam8xbl9rUUdkb2psNHBaRDhWd0RCT3hfTmpsYTR4V0hGdkZLQVlqUEJvejZoNVhpMGktdjBaRzRJN0pPS24tS1VVUEdUVA?oc=5)
-
----
-
 ### [Diabetes: AOK-Hilfsangebot für rund 44.600 Betroffene im Märkischen Kreis](https://news.google.com/rss/articles/CBMiowFBVV95cUxOenZ5NGZ2TTlGWm9DRHVQdVoweUZaelk5c3hQMkJ1N01JRkFGYXoyRmVJNWNxejJjWFdXSU8yQnVOc05yUDFuaXZwWndwSmp2RnoybmVzNkUxQmNLdUp2MDNtZm1VLVFDUlpvRFd0LU9fLTVjRjJwS3dxbzR2cGVJUGFLclJ4am9tMmhicDZKODcyc2dzWGtxdFBQMktTT2pvd0dJ?oc=5)
 
 2026-11-11 <span class="news-indication-tag">diabetes</span>
@@ -450,6 +474,14 @@ Source: [inSüdthüringen](https://news.google.com/rss/articles/CBMizgFBVV95cUxO
 2026-11-11 <span class="news-indication-tag">diabète</span>
 
 Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWkhFSkdvRmgtWVlib1hrRWNScWNQbXRwSUNjcklhY1IxejNXcXM1ZDF3NHhnT2dXSUUybmdSdElhQWlhVlNtRFNmSkp0dHh1M25BZDZ0N2d6T21RRGNvWGhHUUc1eDk4R1RkMjlFTHNpMnRQMjJlYXVJRDNyVFdNRy16bnpHMGV3cXJFUk5NQkZ4bUtWMlN1eHlyWXpkY3JLaDNKRUxIYXByRnRRamkzRGJUTVRscms2aTdxdHVlMGFLbHNWY19idUJ5NzlzbnlQWXdxRWUzN3ZfY3RiRWpqTE1Qam5IaTdXc0hGYTVFRk5NTEU2MHZhU0V3?oc=5)
+
+---
+
+### [Generation X in worse health in their fifties than baby boomers - The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbDhPS2lIUmZ5M1VrUVJBX2FZcU1vRDFaeXhTbjNCR1VJMW9BM0xSeW9EZ3lTMzhka21JVUNNTjV1VEZNLWNkOUlTMDh4eGZjblpNeUpjaFo5ZkFDdlRzQUZ3UGNfSVlfNVd2OHhBYlc3MUNTamVaZVpvYzdHOXg4UG1WUVdYdkdlSFRCQ3p5alZlcVlKOXo1T0JXSmVZNVBJU0RBajh3?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbDhPS2lIUmZ5M1VrUVJBX2FZcU1vRDFaeXhTbjNCR1VJMW9BM0xSeW9EZ3lTMzhka21JVUNNTjV1VEZNLWNkOUlTMDh4eGZjblpNeUpjaFo5ZkFDdlRzQUZ3UGNfSVlfNVd2OHhBYlc3MUNTamVaZVpvYzdHOXg4UG1WUVdYdkdlSFRCQ3p5alZlcVlKOXo1T0JXSmVZNVBJU0RBajh3?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Lurasidone. 9 predicted indications."
 permalink: /news/lurasidone/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Lurasidone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Lurasidone?">
-<strong>Lurasidone</strong> currently has <strong>18 news articles</strong>, with 9 predicted indications.
+<strong>Lurasidone</strong> currently has <strong>19 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Lurasidone with the latest h
 <p><a href="{{ '/drugs/lurasidone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (19)
+
+### [Multiple Sklerose: Hochaktive Hirnregionen sind besonders gefährdet - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMilwFBVV95cUxOZENCZFBJd3pGTVR4WHZNTHNoV1Vid0Z5SlNuTU9pSWNGQnVEZER6Q2dtc2dpMVlOTjh4V2F2amVSaGxyaVZmZkpCdDhaQnAwa2RUa1d5dU5WYWVLS05MaUNNWGFObll3YTVBd0d0dHVrREhoVy00QlFDVkpmRWhVdHdPNm4wN3VZR0w3Sk0yNjVwbW1vV05N?oc=5)
+
+2026-11-12 <span class="news-indication-tag">Multiple Sklerose</span>
+
+Source: [Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMilwFBVV95cUxOZENCZFBJd3pGTVR4WHZNTHNoV1Vid0Z5SlNuTU9pSWNGQnVEZER6Q2dtc2dpMVlOTjh4V2F2amVSaGxyaVZmZkpCdDhaQnAwa2RUa1d5dU5WYWVLS05MaUNNWGFObll3YTVBd0d0dHVrREhoVy00QlFDVkpmRWhVdHdPNm4wN3VZR0w3Sk0yNjVwbW1vV05N?oc=5)
+
+---
 
 ### [Alzheimer-Risiko: Elf beeinflussbare Faktoren könnten 265.000 Fälle verhindern](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTHU5TFpHRGVUMEc0SlIyZDBFWTdrNU9HbE1fY0ZDV3Vtc1ozX3hPNjRoandZSmtHdkFJZ2Zxczh4ZnBJR3gzMlNuXy1XSjZ1UGdFZ0pRdUdodzFHZ3ZfYmM4YjNIaEJNQ0VrTFZNeUV1VXRDcVVqcVBGdDhDS1BSeHRNaVp2NHhOUU5mdmZxVVJmVXJMRlE4bExYMmFJMm0zb0lzY1lMZjJUbXg1cThENWowZVBDczBJNFNrYlpuaGJZdmFDSU9R?oc=5)
 

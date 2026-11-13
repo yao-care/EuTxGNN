@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Amlodipine. 9 predicted indications."
 permalink: /news/amlodipine/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Amlodipine News
@@ -107,11 +107,11 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV9
 
 ---
 
-### [Neumólogos de Vithas revelan las señales que pueden alertar de una neumonía](https://news.google.com/rss/articles/CBMiywFBVV95cUxONkd3WklHZklwVUdaZ2hvOFlzT3FzMjBkVWVxcXE3UWtaa1BhRFZfMHBJTlBQRktUaldjbERESlgzRHl3UEtVYUNjVXVKTGR4WWNsV2dBc1lzalhKbGpvR0FSVGRZOVJsdUUxRGkxdlltQWpGYkVGTWw1YnctbmZ1YWo1X1U1QTJ1UUZWc2M5T3lxS1FWeU5fM29mU3BTc09ORjNlcjJQVWxEcXdURGRKejJ4LUNNVk82ODlicTBKV3ZtQVFzTlNCRDVLcw?oc=5)
+### [« Il arrive qu’une malade vive toujours des années après, alors qu’on la croyait perdue » : Carole Mathelin poursuit sa lutte contre le cancer du sein - Le Figaro Santé](https://news.google.com/rss/articles/CBMipwJBVV95cUxQaDdsWXVmTzlsLUhSdVZFWXBwS3FnWFlBTWdXbGFWdjVwXzEwZjN1Q0ltZEZ1SjExeDlfSDUtYXNUWndFSzZ2eHcwZEpDRG9iRVFzUTVJLXVPMVlVY0NfelB5MFhsWkZQOWJYMnllZ3B4UURaa2tSQlJBemdlS1FOZTJMTnBKNlJxeWN3Y1RsT0FLS25fTGlyS2QzbEx3aVdrWTNjX0phcW5VYm1JZVRFQzFWWlRmdk1GamlCYmM3S0c0THB3NkI4a01zQlFxNTNyME1wX2c3MHhvdjl1NFVFakJwSzZoeUFDVHhkLVBNMjFraXJ3SGM4RWRMVzJuNHRfWFJDeWxZSWkyR0FXN3NtLURvY2Q0dFNwUHpFanRaeFZaWURXLTdB?oc=5)
 
-2026-11-12 <span class="news-drug-tag">Amlodipine</span>
+2026-11-12 <span class="news-indication-tag">cancer</span>
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMiywFBVV95cUxONkd3WklHZklwVUdaZ2hvOFlzT3FzMjBkVWVxcXE3UWtaa1BhRFZfMHBJTlBQRktUaldjbERESlgzRHl3UEtVYUNjVXVKTGR4WWNsV2dBc1lzalhKbGpvR0FSVGRZOVJsdUUxRGkxdlltQWpGYkVGTWw1YnctbmZ1YWo1X1U1QTJ1UUZWc2M5T3lxS1FWeU5fM29mU3BTc09ORjNlcjJQVWxEcXdURGRKejJ4LUNNVk82ODlicTBKV3ZtQVFzTlNCRDVLcw?oc=5)
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMipwJBVV95cUxQaDdsWXVmTzlsLUhSdVZFWXBwS3FnWFlBTWdXbGFWdjVwXzEwZjN1Q0ltZEZ1SjExeDlfSDUtYXNUWndFSzZ2eHcwZEpDRG9iRVFzUTVJLXVPMVlVY0NfelB5MFhsWkZQOWJYMnllZ3B4UURaa2tSQlJBemdlS1FOZTJMTnBKNlJxeWN3Y1RsT0FLS25fTGlyS2QzbEx3aVdrWTNjX0phcW5VYm1JZVRFQzFWWlRmdk1GamlCYmM3S0c0THB3NkI4a01zQlFxNTNyME1wX2c3MHhvdjl1NFVFakJwSzZoeUFDVHhkLVBNMjFraXJ3SGM4RWRMVzJuNHRfWFJDeWxZSWkyR0FXN3NtLURvY2Q0dFNwUHpFanRaeFZaWURXLTdB?oc=5)
 
 ---
 
@@ -309,7 +309,7 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFlD
 
 ### [Laut Nephrologen: Dieser unterschätzte Blutdruck-Wert schädigt die Nieren jahrelang unbemerkt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
 
-2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">Herzerkrankung</span>
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
 
 Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
 
@@ -360,14 +360,6 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdDlBc2JBYlV1
 2026-11-11 <span class="news-drug-tag">Amlodipine</span>
 
 Source: [Wales Online](https://news.google.com/rss/articles/CBMingFBVV95cUxOS2FoWVVWTW5iS3NrNGRBTmZqZWhZcEtzTlRkQnBYZW5OM3gzUjROa3VfRnY5TDVtcWdfMzZpc0J5OWExRkVzRUZ3U1FPc0gwT0Z6bklob1RSanEtU0Z0djlYc3BIZkMxX21rTjY5YlU1azl2R28xdjAyeVpTamMtTlNDeDJrLTdCeDBpSDdTQktPSWJJT0F6TThITnNWZ9IBowFBVV95cUxPTkt6c3phTmI0UEFuY0hXZ3RBRVVfSFpXUExvVTJhSU13bkNsMDNIUHFJc3lDTmZUUHdBNTUxbUY5d0xtREVaV1p3TU5rREhyWW9PbFNzWXhkNHIzQlhaYi1fYlh4aGRBeUNTaEdXZG9aeEpIT0dQam5NYnRXN0prd0ZySU5uN2N1ZWpGVEhEazZBd3QwVjFjbG5kb0NQUGgwaURZ?oc=5)
-
----
-
-### [Perché farsi crescere i baffi a novembre fa bene agli uomini](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ01MdFBSQzE4QzRIZnhZaFd0ODlGUkQxM0xmTUZJZFpnQm1PZldoeXBWUXNoQ0hycEVIU2pkbGR5bS1Ld1JpZFJyYU1GWXdZc1d3eV93eXd2RE1EcHRFWWx0YmRycC1IelRlMURwcElwR0ZhYVA5RnV6Y3hRUXdEQi0xY2stRHBCdmF6a3ZUdlMwMWhFOFhMRXNWblTSAWhBVV95cUxPcFg0Ylh3eTZDY0xfOHBqR2ljaDFYZDZULThIam8xbl9rUUdkb2psNHBaRDhWd0RCT3hfTmpsYTR4V0hGdkZLQVlqUEJvejZoNVhpMGktdjBaRzRJN0pPS24tS1VVUEdUVA?oc=5)
-
-2026-11-11 <span class="news-indication-tag">tumor</span>
-
-Source: [Tgcom24](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ01MdFBSQzE4QzRIZnhZaFd0ODlGUkQxM0xmTUZJZFpnQm1PZldoeXBWUXNoQ0hycEVIU2pkbGR5bS1Ld1JpZFJyYU1GWXdZc1d3eV93eXd2RE1EcHRFWWx0YmRycC1IelRlMURwcElwR0ZhYVA5RnV6Y3hRUXdEQi0xY2stRHBCdmF6a3ZUdlMwMWhFOFhMRXNWblTSAWhBVV95cUxPcFg0Ylh3eTZDY0xfOHBqR2ljaDFYZDZULThIam8xbl9rUUdkb2psNHBaRDhWd0RCT3hfTmpsYTR4V0hGdkZLQVlqUEJvejZoNVhpMGktdjBaRzRJN0pPS24tS1VVUEdUVA?oc=5)
 
 ---
 
@@ -579,14 +571,6 @@ Source: [MilanoToday](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVUlvN
 
 ---
 
-### [Your daily cup of coffee could have long-term impact on gut health, study finds - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNaThzQWhyTWxKYUFpSXBJc09RQmYza1Vtd1ZzbWF0NkViQlQ1UVpDUHNFS185OHNnSDR5LUl2clNoRjBSMjNwT1VwM0k4bV90U19pRUZUd2FoeGlhdHZzRWNROEMtS3Y4NFVlUjJJeXVPWnVQd3IzM2VDYnNJTlVPaGt3ZVRxS2hMOEdrWEc5RE5hMzFPSE5JNGZvZnpZdjg?oc=5)
-
-2026-11-10 <span class="news-drug-tag">Amlodipine</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNaThzQWhyTWxKYUFpSXBJc09RQmYza1Vtd1ZzbWF0NkViQlQ1UVpDUHNFS185OHNnSDR5LUl2clNoRjBSMjNwT1VwM0k4bV90U19pRUZUd2FoeGlhdHZzRWNROEMtS3Y4NFVlUjJJeXVPWnVQd3IzM2VDYnNJTlVPaGt3ZVRxS2hMOEdrWEc5RE5hMzFPSE5JNGZvZnpZdjg?oc=5)
-
----
-
 ### [Diabete, infarto e tumori: più rischi con poche fibre vegetali, ecco come sfruttare meglio frutta e verdura - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNTV4bnhlNUs0aThCSTRMV04tMkpuaHBydjNsY3Uyc2lINGlBRk5YWXpSZHhYYWhVSDFHal9mbXVsem9SVjdRT1prMXNJT20yXzZ5Mjh5RUxqYVpTR3ZoamhjSkNKY2UtalRWVTdyZ29YZ0syLU1HamZsbEtrdjExckdQSUs3VkxVWVdOVUVRQW1WUnpLcjFybDZSQVVmbGRZbjdNYzZwZ2U0SGx4S2I4UWdUT0JrdExMbW41dXFHbllUWFFaWnVPNkxLX1Z3TEpNRGZxS19QUlM?oc=5)
 
 2026-11-10 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
@@ -744,6 +728,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1ienhKN
 2026-11-09 <span class="news-drug-tag">Amlodipine</span>
 
 Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXhrUWhfMzF4T1EwZ0pBRlFMNmh4aDlpTzlQNGxvRENrMndhSFFRR1poVGc4M2JxYzhfWVZXRkpheVJjaTgtRGUtcEVwQWlpNU1fdl9tV0ZELVhJdU92cU1uNzYyOUE3TFBwd0FLZDBOcVdQRmJnRi1ZV0VoYVpnSXlkai1jb0lveVp4Z09WcU9MdnJmanQ2YtIBngFBVV95cUxPQmIya2JtbldPaGl4VzFMMDRyQUplc0xvNlBacHA1VW9VY24wYUFqU2F6R0M2X01CMUZZYnMyUUdQS0JPb0NlMmRfTjVHSjBuWmxFOWNrNlhrdWRDeS1wMHJ6YkVWdUEwWjUxN2YzYXRHN1JfWmxmTlI5Y3htSzgycW1hRHpFbTQ2SERFMHkwcEJMOXg3NmV5YVZmZVVPdw?oc=5)
+
+---
+
+### [I almost died after a toothache led to sepsis and a rare heart condition](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
+
+2026-11-09 <span class="news-indication-tag">stroke</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
 
 ---
 
@@ -1280,6 +1272,14 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMigwJBVV95cU
 2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajRaZkpKVmNiNVV3UUdUZG56Wl9VSmhuNlRrWWJTM2JscDJoLUdsY1h4QkFZWTl0T0RRY3pWbkpydnpmaFpXQWk1OGFHOXZjQ3JIWnNabGR6eG9QWTVfcFY1c09DekFSVGZJc29FR2JUbW1EbEV1TWhkdmNLSldLMmRBdTk1QUhaQ1ZDRThxcEVSWklTOHVQOG1aNnpneXFlMFhTQXVjNGNRYUhEZGhGelRQTGxfWWhPTDlB?oc=5)
+
+---
+
+### [Schlafdauer: Unter sechs Stunden erhöhen das Schlaganfallrisiko um bis zu 29 Prozent](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG0yejJGb1lqV0VpVkhtME9JUUdJQXVCUEpJT184SjMtS0dhbkljQllydFM4MzF6Ni01M25SZGxncmNHWFRFUy1LR1FpR0FjemxBVFFPNnlZVDNCa3p1Q3ViSlR2VFZsRWZ4WUdOSTZlM0xqNkNCS2hudUhHUEJqVFBiSERHRW9mZnh0bm9IRTEtZWt4QkI1X2pvRUx6dER1a196b1B0RVJXOXNzNEplaVZVMDNaREhWZGlaS2k5SFk3U0xGMUlaVUdwQmp1Zw?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG0yejJGb1lqV0VpVkhtME9JUUdJQXVCUEpJT184SjMtS0dhbkljQllydFM4MzF6Ni01M25SZGxncmNHWFRFUy1LR1FpR0FjemxBVFFPNnlZVDNCa3p1Q3ViSlR2VFZsRWZ4WUdOSTZlM0xqNkNCS2hudUhHUEJqVFBiSERHRW9mZnh0bm9IRTEtZWt4QkI1X2pvRUx6dER1a196b1B0RVJXOXNzNEplaVZVMDNaREhWZGlaS2k5SFk3U0xGMUlaVUdwQmp1Zw?oc=5)
 
 ---
 
