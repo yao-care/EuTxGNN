@@ -3,9 +3,9 @@ layout: default
 title: "sclerosi multipla (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about sclerosi multipla (multiple sclerosis). 11 articles, 26 related drugs."
+description: "Health news about sclerosi multipla (multiple sclerosis). 12 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # sclerosi multipla (multiple sclerosis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about sclerosi multipla (multiple sclerosis)?">
-<strong>sclerosi multipla (multiple sclerosis)</strong> currently has <strong>11 news articles</strong> and 26 related drugs.
+<strong>sclerosi multipla (multiple sclerosis)</strong> currently has <strong>12 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -46,13 +46,21 @@ This page brings together the latest health news about “sclerosi multipla” a
 </ul>
 </div>
 
-## Related News (11)
+## Related News (12)
 
 ### [Il neurologo Martino: «La sclerosi multipla si può tenere a lungo sotto controllo» - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNV19nZ0c2SWpRZTJBN1VPa2Nud1lhNFRZeFJMU0ZWWHBIcGpkeG5ZZlVDSzJsMkRRT0pPRWpLdlVKXzExVm5jQ1g4bGEtVHZ3dVpzRUQ3NVh4aWFLcGQ0SXlFSl9idHdZVC1xN3gxQWVJZmUyYkhEYkRNMU9uREN4eE1uSXRGV2FoZllTdkd1d1pMd29EX2dsbVoybG5ObmljX3NGUUoyOXd4MDdWdS05enc0VG5JNnlsa0Nud09Qbm1XRnJwUXFZNF95VG1KU0RsYmp3aDBHQ0NQMGpmQndqNmZ4bWM3S0lBTFloN2RvcTdiVmY1dVVGS0VYRlNkZGsxLXVxajN1R3BTVjlpQUlIdzZMOThnalZQQUxDbE93dGxaQ0tQUWozUkU3cUFKSU8xX1cxMFowY0FoNjRScUlHedIBxgJBVV95cUxNYjBQYzBPUVRMaEpUdFUwRGxLVnV2SHRISW15RF8tOEItWVpYR0dSLXNtNDRfX3dTV05TTS1yTktObGdFQ25iQ01Dcl9ZY1Frdzc4SVp4OW1CSERoejVrNDNIWW1pY1ZJaHdueWhjdGxwUDBUcFM0ZG9hZUNvSkE1b3doaGdIN2pNMGFFS2hKV1cyR0lIZnVpaHpXZHU5bnBKLVlpSGdURVZSR05tZkVFSzBXQTk2YUYyQmx3QWZRU1V0Tkp5ME1tRmhCLUllbzhZRmk3dThKVDl6cU1wX0ZMVWNtTGNnLXkwVWgwbngtVXZSUFNMSlRONGxGVm9jTVFYNkpwSk5zOTgwUDFPakZWcnFHdWViWVE0S2ZGYm11Q3ZUUUktUmlXZ1pSTEZKelB2T1I5c29HT0wteUVIbkg3OXAwVzdKdw?oc=5)
 
 2026-11-13
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNV19nZ0c2SWpRZTJBN1VPa2Nud1lhNFRZeFJMU0ZWWHBIcGpkeG5ZZlVDSzJsMkRRT0pPRWpLdlVKXzExVm5jQ1g4bGEtVHZ3dVpzRUQ3NVh4aWFLcGQ0SXlFSl9idHdZVC1xN3gxQWVJZmUyYkhEYkRNMU9uREN4eE1uSXRGV2FoZllTdkd1d1pMd29EX2dsbVoybG5ObmljX3NGUUoyOXd4MDdWdS05enc0VG5JNnlsa0Nud09Qbm1XRnJwUXFZNF95VG1KU0RsYmp3aDBHQ0NQMGpmQndqNmZ4bWM3S0lBTFloN2RvcTdiVmY1dVVGS0VYRlNkZGsxLXVxajN1R3BTVjlpQUlIdzZMOThnalZQQUxDbE93dGxaQ0tQUWozUkU3cUFKSU8xX1cxMFowY0FoNjRScUlHedIBxgJBVV95cUxNYjBQYzBPUVRMaEpUdFUwRGxLVnV2SHRISW15RF8tOEItWVpYR0dSLXNtNDRfX3dTV05TTS1yTktObGdFQ25iQ01Dcl9ZY1Frdzc4SVp4OW1CSERoejVrNDNIWW1pY1ZJaHdueWhjdGxwUDBUcFM0ZG9hZUNvSkE1b3doaGdIN2pNMGFFS2hKV1cyR0lIZnVpaHpXZHU5bnBKLVlpSGdURVZSR05tZkVFSzBXQTk2YUYyQmx3QWZRU1V0Tkp5ME1tRmhCLUllbzhZRmk3dThKVDl6cU1wX0ZMVWNtTGNnLXkwVWgwbngtVXZSUFNMSlRONGxGVm9jTVFYNkpwSk5zOTgwUDFPakZWcnFHdWViWVE0S2ZGYm11Q3ZUUUktUmlXZ1pSTEZKelB2T1I5c29HT0wteUVIbkg3OXAwVzdKdw?oc=5)
+
+---
+
+### [El remibrutinib reduce los brotes de esclerosis múltiple](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYndWWGRGc3h5U1RZTEtOeGNpanhaQlRwaXFhSzlzNEhtRXVQZnU5c3dWWmxoR01STWtNekhLRjFscFFEc0kydG80cEhTcWlZb1pBZ3BzdGFVRGE0Vk1nZW5oblRWbXQ1cENXOFRyMENIcFF0WE1kVWgxcEVzUGZJZ2JyUVphSGtjYXRPenhyQ2hTN0xHWGNZNURVY3FFeWpyaHc?oc=5)
+
+2026-11-13
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYndWWGRGc3h5U1RZTEtOeGNpanhaQlRwaXFhSzlzNEhtRXVQZnU5c3dWWmxoR01STWtNekhLRjFscFFEc0kydG80cEhTcWlZb1pBZ3BzdGFVRGE0Vk1nZW5oblRWbXQ1cENXOFRyMENIcFF0WE1kVWgxcEVzUGZJZ2JyUVphSGtjYXRPenhyQ2hTN0xHWGNZNURVY3FFeWpyaHc?oc=5)
 
 ---
 

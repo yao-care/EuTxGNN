@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Aprepitant?">
-<strong>Aprepitant</strong> currently has <strong>78 news articles</strong>, with 10 predicted indications.
+<strong>Aprepitant</strong> currently has <strong>82 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,39 @@ This page combines the AI-predicted indications for Aprepitant with the latest h
 <p><a href="{{ '/drugs/aprepitant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (78)
+## Related News (82)
+
+### [Pressione alta: si controlla poco. Farlo, eviterebbe infarti e ictus, ma anche danni ai reni e disfunzione erettile - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxPaG1weGszY3oxYlVhbWpqYkJxOEpRai1WQXFFZDlCZC1ScC1xUGsxNUdPbURxVE1tOGZNYlgyb2YzRDMzU0tRRU1fekNBbWZNYW92S3FYeVhiNnJ6TkNqbzRTSW5IM0ZmN2wtV0hZLVB3bFdIYUU3Sl96YXp3R0hjMXE3SV95ejVtNmJFYlNLS0RSaUs3VExwTExpNjNxd0pYdVFwLTFtcXpoOUxXNjZUVkNiWXRmdFVXbVZiWlhHd3E5NFcyRnBpREMzcm5YY1ZJNklHSFZKbEFKeV9rODNhZ3ltMXZDVm5NSVdvMUw4NHpMWUNYR1haVW90UUhXN3VoUTM3cjVSd19PX3YxRTJkQzh1ZTNaQXZ2RTgzZnVHQTBMdFJYQnZDaHhxRmF4M0Q4RlYwaWVJNi1jazF2aVdlVNIBxgJBVV95cUxNV1hqSW1yYkRCZDNKY1lDZFdGZlBhc3FxRk1CYWJOdC1GZnNjUWlUWnVaMTFYdHZNbXlQdG9LX0lzemkwYV80RlQ3VzZRTk1ucjRuYlh6SUFScUJmN1k5emxXX0ZfMkpyQ1JYNVhyY0tERFdwRWVjSjdLbWJ5TFdKRDBLSVQ5NWMyUFJnSjlPaTl2SlZxdWNCZkxWcXpBYjFidnZJa1NSUmNPNjA2d1AwVzM4ellSdmRjMlV3UV8xcjF4WndxZHRVVjJBaUpXYlh0ajVxOWtrVlBlYTNSM09FaHg5dlBIYThjS201TjNHWDJueEtWcFYwSjNGdlZfRWpjMzgxZDRWQnhUMnBIXzBhT2p5cndvQm9sM2ZEY1JQdkJjZm1maFA0V2VCeVhFdGNYc1FQUDFUYzc2ZjFGUE1oV1JvMHdoZw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxPaG1weGszY3oxYlVhbWpqYkJxOEpRai1WQXFFZDlCZC1ScC1xUGsxNUdPbURxVE1tOGZNYlgyb2YzRDMzU0tRRU1fekNBbWZNYW92S3FYeVhiNnJ6TkNqbzRTSW5IM0ZmN2wtV0hZLVB3bFdIYUU3Sl96YXp3R0hjMXE3SV95ejVtNmJFYlNLS0RSaUs3VExwTExpNjNxd0pYdVFwLTFtcXpoOUxXNjZUVkNiWXRmdFVXbVZiWlhHd3E5NFcyRnBpREMzcm5YY1ZJNklHSFZKbEFKeV9rODNhZ3ltMXZDVm5NSVdvMUw4NHpMWUNYR1haVW90UUhXN3VoUTM3cjVSd19PX3YxRTJkQzh1ZTNaQXZ2RTgzZnVHQTBMdFJYQnZDaHhxRmF4M0Q4RlYwaWVJNi1jazF2aVdlVNIBxgJBVV95cUxNV1hqSW1yYkRCZDNKY1lDZFdGZlBhc3FxRk1CYWJOdC1GZnNjUWlUWnVaMTFYdHZNbXlQdG9LX0lzemkwYV80RlQ3VzZRTk1ucjRuYlh6SUFScUJmN1k5emxXX0ZfMkpyQ1JYNVhyY0tERFdwRWVjSjdLbWJ5TFdKRDBLSVQ5NWMyUFJnSjlPaTl2SlZxdWNCZkxWcXpBYjFidnZJa1NSUmNPNjA2d1AwVzM4ellSdmRjMlV3UV8xcjF4WndxZHRVVjJBaUpXYlh0ajVxOWtrVlBlYTNSM09FaHg5dlBIYThjS201TjNHWDJueEtWcFYwSjNGdlZfRWpjMzgxZDRWQnhUMnBIXzBhT2p5cndvQm9sM2ZEY1JQdkJjZm1maFA0V2VCeVhFdGNYc1FQUDFUYzc2ZjFGUE1oV1JvMHdoZw?oc=5)
+
+---
+
+### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+
+2026-11-14 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+
+---
+
+### [Tooth pain & bleeding gums... dental issues masking serious deadly illnesses - from brain tumours to heart disease - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ0xpb2MyMldubWxCWHFIZHZQNVY4X0tsRXBqdDE1V1k0TjJwenRxdXlyVkhLcy1CSGVQZ1V3dUxMY2dSaUdqUFhlazgwbWJ2U1FZcTlFdDJHQkJLWmtYUkl0QnpkbFFQdVoyMEY4aXQ1cE9hbmlnMUROYlF2cw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ0xpb2MyMldubWxCWHFIZHZQNVY4X0tsRXBqdDE1V1k0TjJwenRxdXlyVkhLcy1CSGVQZ1V3dUxMY2dSaUdqUFhlazgwbWJ2U1FZcTlFdDJHQkJLWmtYUkl0QnpkbFFQdVoyMEY4aXQ1cE9hbmlnMUROYlF2cw?oc=5)
+
+---
+
+### [Detectar a tiempo el daño renal puede retrasar casi 30 años la diálisis en personas con diabetes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmZndkk3bWd0a3hYOVhYT2xzRS1faUVzSlRGR3M5Nm8yMkkyQ252bXU1T2szTWVwNmRZTS15bVpfOWR0TldEQlJKaWxOaUlDQVM3Ui1VaE13QnZKNlRCdlh4Ukd2R0hRVXkwdGllQVpnS2UtSWl4ZFdOVXVseVd1eFVzcjZLVnBGS2JXT3BfSmU2V2dSNUVUdkdRTWk5dl81RHFldnJ3bVE5Q3FZVVQ5OGs3eldVNU5aNlhQelZJWFdqTDjSAcgBQVVfeXFMT3AzWjh6Wk95OGs4dEhDS1VPa0UyczNiYzZvN1ExT0VNdTVCbjhXbWxWNklQZk1hZGtIRG9LdC0zNnlvck5iQXl1eklmR05lQXdKVHAtUjNEeUMwTWtEcmVvQUhkVlJrZzhVTURqbUZNQXZsbmJERURQZDBqSjhMZzg3V3NnZDdUUUNrWVJQRm5xZzdkTVhGdGp1VUVSNTZiNzNJNkV3M1BqVWhSaUt3Qk9VQUk5SHFuYnpHQ2ZpOTdOTUpWWWZ0RTg?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [Elplural.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmZndkk3bWd0a3hYOVhYT2xzRS1faUVzSlRGR3M5Nm8yMkkyQ252bXU1T2szTWVwNmRZTS15bVpfOWR0TldEQlJKaWxOaUlDQVM3Ui1VaE13QnZKNlRCdlh4Ukd2R0hRVXkwdGllQVpnS2UtSWl4ZFdOVXVseVd1eFVzcjZLVnBGS2JXT3BfSmU2V2dSNUVUdkdRTWk5dl81RHFldnJ3bVE5Q3FZVVQ5OGs3eldVNU5aNlhQelZJWFdqTDjSAcgBQVVfeXFMT3AzWjh6Wk95OGs4dEhDS1VPa0UyczNiYzZvN1ExT0VNdTVCbjhXbWxWNklQZk1hZGtIRG9LdC0zNnlvck5iQXl1eklmR05lQXdKVHAtUjNEeUMwTWtEcmVvQUhkVlJrZzhVTURqbUZNQXZsbmJERURQZDBqSjhMZzg3V3NnZDdUUUNrWVJQRm5xZzdkTVhGdGp1VUVSNTZiNzNJNkV3M1BqVWhSaUt3Qk9VQUk5SHFuYnpHQ2ZpOTdOTUpWWWZ0RTg?oc=5)
+
+---
 
 ### [Entzündungshemmende Lebensmittel: Was Studien wirklich hergeben - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVl85RFdjUTA1YlVRVW84dDgzY0lnbjJwVDFaLXhfLVRUVmhJWTRrb2J3RGFZWHFOZnVIbWR2OXM3cEJZejFRNkhmWkYtd21hdFVjLUVwaEc2ZGdGOGdZMHNhT0x1TXFqNjVCYWdPWnNhWFgzaDdFanp6TGpXSW1hbG5nVVhabWZxbXRzdmcybjh1UGpHSjZORUhyTQ?oc=5)
 

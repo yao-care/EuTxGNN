@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Rimegepant?">
-<strong>Rimegepant</strong> currently has <strong>23 news articles</strong>, with 5 predicted indications.
+<strong>Rimegepant</strong> currently has <strong>25 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,23 @@ This page combines the AI-predicted indications for Rimegepant with the latest h
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (23)
+## Related News (25)
+
+### [Tooth pain & bleeding gums... dental issues masking serious deadly illnesses - from brain tumours to heart disease - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ0xpb2MyMldubWxCWHFIZHZQNVY4X0tsRXBqdDE1V1k0TjJwenRxdXlyVkhLcy1CSGVQZ1V3dUxMY2dSaUdqUFhlazgwbWJ2U1FZcTlFdDJHQkJLWmtYUkl0QnpkbFFQdVoyMEY4aXQ1cE9hbmlnMUROYlF2cw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ0xpb2MyMldubWxCWHFIZHZQNVY4X0tsRXBqdDE1V1k0TjJwenRxdXlyVkhLcy1CSGVQZ1V3dUxMY2dSaUdqUFhlazgwbWJ2U1FZcTlFdDJHQkJLWmtYUkl0QnpkbFFQdVoyMEY4aXQ1cE9hbmlnMUROYlF2cw?oc=5)
+
+---
+
+### [Uni explores link between migraines and hallucinations](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY3hoNklEWVdHTUhxZnlZU040Q3FJbzJRU0FzVEFGWVVCWURKYWx6WVlrNDBsLWZ4MDUtcHo3NDVFZnNUeFVoMnRlRHhuay0yTG9WOXg3WGw4cFBpRmc?oc=5)
+
+2026-11-14 <span class="news-indication-tag">migraine</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY3hoNklEWVdHTUhxZnlZU040Q3FJbzJRU0FzVEFGWVVCWURKYWx6WVlrNDBsLWZ4MDUtcHo3NDVFZnNUeFVoMnRlRHhuay0yTG9WOXg3WGw4cFBpRmc?oc=5)
+
+---
 
 ### [Experta subraya la relevancia de que el paciente describa bien la migraña para diferenciarla de otros dolores de cabeza - Diario Estrategia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRmx5WDdubXUxU0d4Vk4zVjl3VmJVMDZ4WEtqOUQ4WHF5SzVpT3pFMWtOM1Z6d2RKTmZ6RnhMVHN4SUJyLVVfTWFqTHNWd28zNXl4NFh1clN0QjkydU1LcVJnYzFOblp6MS04NWNoR0tKYmFnT2JQY0E1TzlvczVGRk1XMnNkbVlROFRNdkxHZDhPdkJDdHc2cFdvTGtGWVpYdjFFdDNqTlZTNll0bnVCYTBqVzFnay0yMjBMWnQtMk5lTVplalpxRzdXdG90dk9vbExkZl96bnpPeWN2YjVOeVE2anRZSHJP?oc=5)
 

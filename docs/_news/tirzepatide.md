@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tirzepatide. 0 predicted indications."
 permalink: /news/tirzepatide/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Tirzepatide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>28 news articles</strong>, with 0 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>29 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (28)
+## Related News (29)
+
+### [TÉMOIGNAGE. "Je ne voulais ni opération ni médicament" : face à l'arrivée du Wegovy, cette Gersoise raconte comment elle a perdu 30 kilos](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTkJNdXJsd0hSVlVHN1lkM0xUV0Mxc3g2TnplcVJfcTgxWDVsU2xuczM3MXJYa1Y2YjY5Q1RhbF9QMkdLZ2ZpOWFaNnVZb2h3dVRtY1pZOGpGeG5tSFZwS0lBT2xiUUpmWk9xdVowekxzaHJwaEYtTzBiMlFxT1lfUnZNcWVuVzdQdTZDS1BFeUx1cG92dUYzaDdGMGM1dE5zM25IVG1rbVJRSmlfWmFNdGpVUlMwRTVwb0g3ZEdYOElyN2k2ZVFaRDZ5cldoTGlkeU5GY29MenA1LUp4VEZoQlIwc2dlSGtEMEltcFJnVlNvQ0hlczhwNlZWdlZZZHVfeHZVX0Z1TUpXSEE?oc=5)
+
+2026-11-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTkJNdXJsd0hSVlVHN1lkM0xUV0Mxc3g2TnplcVJfcTgxWDVsU2xuczM3MXJYa1Y2YjY5Q1RhbF9QMkdLZ2ZpOWFaNnVZb2h3dVRtY1pZOGpGeG5tSFZwS0lBT2xiUUpmWk9xdVowekxzaHJwaEYtTzBiMlFxT1lfUnZNcWVuVzdQdTZDS1BFeUx1cG92dUYzaDdGMGM1dE5zM25IVG1rbVJRSmlfWmFNdGpVUlMwRTVwb0g3ZEdYOElyN2k2ZVFaRDZ5cldoTGlkeU5GY29MenA1LUp4VEZoQlIwc2dlSGtEMEltcFJnVlNvQ0hlczhwNlZWdlZZZHVfeHZVX0Z1TUpXSEE?oc=5)
+
+---
 
 ### [Blood thinner could offer a new way to treat osteoarthritis - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbnhrWEl1WmtSbVNrN05ZWFF3c2s1emJPcGVJWk1NdldVNXhrZTdlakQyREVDSHFpMkd2QUdsWHQ2T19ZZ0h0RE12RFVPUkxKeWUydVJBVC1fbTlCaDY5RmgySFdlTmJFNDR0MHFLQ3VxczJMWF9lWmZyQTA?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Zonisamide?">
-<strong>Zonisamide</strong> currently has <strong>34 news articles</strong>, with 9 predicted indications.
+<strong>Zonisamide</strong> currently has <strong>36 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Zonisamide with the latest h
 <p><a href="{{ '/drugs/zonisamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (34)
+## Related News (36)
+
+### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+
+2026-11-14 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+
+---
+
+### [Tooth pain & bleeding gums... dental issues masking serious deadly illnesses - from brain tumours to heart disease - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ0xpb2MyMldubWxCWHFIZHZQNVY4X0tsRXBqdDE1V1k0TjJwenRxdXlyVkhLcy1CSGVQZ1V3dUxMY2dSaUdqUFhlazgwbWJ2U1FZcTlFdDJHQkJLWmtYUkl0QnpkbFFQdVoyMEY4aXQ1cE9hbmlnMUROYlF2cw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ0xpb2MyMldubWxCWHFIZHZQNVY4X0tsRXBqdDE1V1k0TjJwenRxdXlyVkhLcy1CSGVQZ1V3dUxMY2dSaUdqUFhlazgwbWJ2U1FZcTlFdDJHQkJLWmtYUkl0QnpkbFFQdVoyMEY4aXQ1cE9hbmlnMUROYlF2cw?oc=5)
+
+---
 
 ### ["Los nuevos fármacos suponen un cambio de paradigma en el tratamiento de la epilepsia" - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXJBRUNQNmx2enFrUmlDNzlhS25ocHA3djR0OHJWaGlyQWFyc19kNnpOWEI3Q0RlUkJ4bFpfejBaVWduV0wtYVRoa29YTkFrZUVUcWxjTjJOWk9iMTdTQkJqYnpmNGpxblU0Nm1IcS1xYnpSdEFCb2dhQWxPeWF0bzd4ZW9ScjJzZkNHVEFFLTRPR1hEUC1JNjk1SUlKZ3FvWUw2Ry11TjNLMGJvZDB4SFFGcl9UNGN1Q3FmZWJnNGvSAbsBQVVfeXFMTmZjdFVGWEFXMFJHNkExd1VUY0Jha0FlNXdSV1hkTDFVZGNiN0NYazZrdTJFTHl2alJPWlo3THppUVJkQXpQY2lnendLSmZicmptY3BfTWtCYVVNZlV4RU5WV0kyd1poMzMwR1JXdHV5cUhJX3loWklacDY1d3VRdFlGeVJvSmlhX1NEazVaQ09salcxdThVME9KSnppUHcxall3bEdWdEYycEJfRU1tM1RJY3VPeV9QOWREMA?oc=5)
 

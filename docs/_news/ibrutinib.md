@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ibrutinib. 0 predicted indications."
 permalink: /news/ibrutinib/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Ibrutinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Ibrutinib?">
-<strong>Ibrutinib</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Ibrutinib</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Ibrutinib with the latest he
 
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [El remibrutinib reduce los brotes de esclerosis múltiple](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYndWWGRGc3h5U1RZTEtOeGNpanhaQlRwaXFhSzlzNEhtRXVQZnU5c3dWWmxoR01STWtNekhLRjFscFFEc0kydG80cEhTcWlZb1pBZ3BzdGFVRGE0Vk1nZW5oblRWbXQ1cENXOFRyMENIcFF0WE1kVWgxcEVzUGZJZ2JyUVphSGtjYXRPenhyQ2hTN0xHWGNZNURVY3FFeWpyaHc?oc=5)
+
+2026-11-13 <span class="news-drug-tag">Ibrutinib</span> <span class="news-indication-tag">esclerosis múltiple</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYndWWGRGc3h5U1RZTEtOeGNpanhaQlRwaXFhSzlzNEhtRXVQZnU5c3dWWmxoR01STWtNekhLRjFscFFEc0kydG80cEhTcWlZb1pBZ3BzdGFVRGE0Vk1nZW5oblRWbXQ1cENXOFRyMENIcFF0WE1kVWgxcEVzUGZJZ2JyUVphSGtjYXRPenhyQ2hTN0xHWGNZNURVY3FFeWpyaHc?oc=5)
+
+---
 
 ### [El remibrutinib reduce los brotes de esclerosis múltiple](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTV9iTXZWQmFTNWh0ZktPbmxsaV9UdHc2bnA0WDBLRGdfT1RWa2J1NW4teHZ2X19qRFdJSm8xQzVCcU5ySTY1ZXdTSkY3LWZkTkZWWFR4Z2ZackJ5Z1R5SjQwMmRfVG5JTjNOVmRhQmZ1T1lJMXpwMFhrSzJmUHdYSzdUVVh6Smc2b2NucEcwY2FRd1NPZEczdy10V2l5ampla2FHdzFRNWRHV3JseDM3NVFwZXMzSDZYTmFxNDZUTmxmWjlSMkRsYWlhRWdwSnlBUncyUEZKdXE2UQ?oc=5)
 

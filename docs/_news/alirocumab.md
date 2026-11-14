@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Detectar a tiempo el daño renal puede retrasar casi 30 años la diálisis en personas con diabetes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmZndkk3bWd0a3hYOVhYT2xzRS1faUVzSlRGR3M5Nm8yMkkyQ252bXU1T2szTWVwNmRZTS15bVpfOWR0TldEQlJKaWxOaUlDQVM3Ui1VaE13QnZKNlRCdlh4Ukd2R0hRVXkwdGllQVpnS2UtSWl4ZFdOVXVseVd1eFVzcjZLVnBGS2JXT3BfSmU2V2dSNUVUdkdRTWk5dl81RHFldnJ3bVE5Q3FZVVQ5OGs3eldVNU5aNlhQelZJWFdqTDjSAcgBQVVfeXFMT3AzWjh6Wk95OGs4dEhDS1VPa0UyczNiYzZvN1ExT0VNdTVCbjhXbWxWNklQZk1hZGtIRG9LdC0zNnlvck5iQXl1eklmR05lQXdKVHAtUjNEeUMwTWtEcmVvQUhkVlJrZzhVTURqbUZNQXZsbmJERURQZDBqSjhMZzg3V3NnZDdUUUNrWVJQRm5xZzdkTVhGdGp1VUVSNTZiNzNJNkV3M1BqVWhSaUt3Qk9VQUk5SHFuYnpHQ2ZpOTdOTUpWWWZ0RTg?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [Elplural.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmZndkk3bWd0a3hYOVhYT2xzRS1faUVzSlRGR3M5Nm8yMkkyQ252bXU1T2szTWVwNmRZTS15bVpfOWR0TldEQlJKaWxOaUlDQVM3Ui1VaE13QnZKNlRCdlh4Ukd2R0hRVXkwdGllQVpnS2UtSWl4ZFdOVXVseVd1eFVzcjZLVnBGS2JXT3BfSmU2V2dSNUVUdkdRTWk5dl81RHFldnJ3bVE5Q3FZVVQ5OGs3eldVNU5aNlhQelZJWFdqTDjSAcgBQVVfeXFMT3AzWjh6Wk95OGs4dEhDS1VPa0UyczNiYzZvN1ExT0VNdTVCbjhXbWxWNklQZk1hZGtIRG9LdC0zNnlvck5iQXl1eklmR05lQXdKVHAtUjNEeUMwTWtEcmVvQUhkVlJrZzhVTURqbUZNQXZsbmJERURQZDBqSjhMZzg3V3NnZDdUUUNrWVJQRm5xZzdkTVhGdGp1VUVSNTZiNzNJNkV3M1BqVWhSaUt3Qk9VQUk5SHFuYnpHQ2ZpOTdOTUpWWWZ0RTg?oc=5)
+
+---
 
 ### [Kardiovaskuläre Prävention bei CKD – Risiko früh erkennen und konsequent handeln - mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCaW5pQjNsQWtMc2gwMUJPVEcxbHFGcEZQWV9JSTNwRTRZWDZLRG92ZFJNTmpPLVd0eHExalgzVVA4a2x6V1pQVE92MDljMTZKMloxcWRQaHJKdDI0NHg4cTJrT2FjMHJGMnFvZnBNN0JveWwxVVh1SWljU3IteGs1ZHI?oc=5)
 

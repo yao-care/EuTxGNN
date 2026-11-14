@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>33 news articles</strong>, with 0 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>34 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (33)
+## Related News (34)
+
+### [Tooth pain & bleeding gums... dental issues masking serious deadly illnesses - from brain tumours to heart disease - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ0xpb2MyMldubWxCWHFIZHZQNVY4X0tsRXBqdDE1V1k0TjJwenRxdXlyVkhLcy1CSGVQZ1V3dUxMY2dSaUdqUFhlazgwbWJ2U1FZcTlFdDJHQkJLWmtYUkl0QnpkbFFQdVoyMEY4aXQ1cE9hbmlnMUROYlF2cw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ0xpb2MyMldubWxCWHFIZHZQNVY4X0tsRXBqdDE1V1k0TjJwenRxdXlyVkhLcy1CSGVQZ1V3dUxMY2dSaUdqUFhlazgwbWJ2U1FZcTlFdDJHQkJLWmtYUkl0QnpkbFFQdVoyMEY4aXQ1cE9hbmlnMUROYlF2cw?oc=5)
+
+---
 
 ### [Blood thinner could offer a new way to treat osteoarthritis - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbnhrWEl1WmtSbVNrN05ZWFF3c2s1emJPcGVJWk1NdldVNXhrZTdlakQyREVDSHFpMkd2QUdsWHQ2T19ZZ0h0RE12RFVPUkxKeWUydVJBVC1fbTlCaDY5RmgySFdlTmJFNDR0MHFLQ3VxczJMWF9lWmZyQTA?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Tolcapone?">
-<strong>Tolcapone</strong> currently has <strong>38 news articles</strong>, with 10 predicted indications.
+<strong>Tolcapone</strong> currently has <strong>41 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ This page combines the AI-predicted indications for Tolcapone with the latest he
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (38)
+## Related News (41)
+
+### [Six unusual smells that could reveal a hidden health problem - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcW1qZ1JiUXFRZnMtN2Y3WE8xc2c3Rm1kVFRTVEd5QldiN3dJMHJDcTZ1OFptRi1KMTNTY1VRMWFJT25kWVdqbzlrd1BTbzdhczhsTzJHajdKTFZSaVBJVlkzSUp3QjZISTZjeVV3RnRyNGJuOGhkcTlZLTJkcnNaSS0zeXBKSks0YTI2LVVrbElDZ1otVVdTOWlraTg?oc=5)
+
+2026-11-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcW1qZ1JiUXFRZnMtN2Y3WE8xc2c3Rm1kVFRTVEd5QldiN3dJMHJDcTZ1OFptRi1KMTNTY1VRMWFJT25kWVdqbzlrd1BTbzdhczhsTzJHajdKTFZSaVBJVlkzSUp3QjZISTZjeVV3RnRyNGJuOGhkcTlZLTJkcnNaSS0zeXBKSks0YTI2LVVrbElDZ1otVVdTOWlraTg?oc=5)
+
+---
+
+### [David Cameron: My mother begged my sister to end her life - The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFgxcmEtQWR1VEVhSGRqSkxQMGpzRDY3anFFUFRJQXA1djh5d3k5WklRZ3Uya0tnNHpMaXpkeTM3ZFY1X0c1ZGJCZ1JwekFOcmZVUE5YcWd3M0c3c1dnczlIUDFHNS1mOHE4OFZVTXVpTjJ4ZkxpcGt6cHkyRndEd0dMNm9mZjg2TV9aMTV2SndTdGxrUzd3d1BMbw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">dementia</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFgxcmEtQWR1VEVhSGRqSkxQMGpzRDY3anFFUFRJQXA1djh5d3k5WklRZ3Uya0tnNHpMaXpkeTM3ZFY1X0c1ZGJCZ1JwekFOcmZVUE5YcWd3M0c3c1dnczlIUDFHNS1mOHE4OFZVTXVpTjJ4ZkxpcGt6cHkyRndEd0dMNm9mZjg2TV9aMTV2SndTdGxrUzd3d1BMbw?oc=5)
+
+---
 
 ### [Lord Cameron: Alzheimer’s made my mother beg my sister to kill her - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkNkUmtBYm9Ya1VPal9VdHBkWDB5WnJtTTJOdXJYSnAwd3l2UTEwRWxKTXNNbjFfbFllSlBvX2tFaXU2NHJVUmxER0h3OXctWmVtcm05MV9xaHhSdGJKZ2ozV2wzZHhmdDVwTlNoS2pHc0JGWVFZOExHX0Y3SGZ4a3F1ejJ2YWtQbDhnSGh5ejIwYzBDemNrYlNyaktXajhOb0tVYVF3?oc=5)
 
 2026-11-13 <span class="news-indication-tag">dementia</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkNkUmtBYm9Ya1VPal9VdHBkWDB5WnJtTTJOdXJYSnAwd3l2UTEwRWxKTXNNbjFfbFllSlBvX2tFaXU2NHJVUmxER0h3OXctWmVtcm05MV9xaHhSdGJKZ2ozV2wzZHhmdDVwTlNoS2pHc0JGWVFZOExHX0Y3SGZ4a3F1ejJ2YWtQbDhnSGh5ejIwYzBDemNrYlNyaktXajhOb0tVYVF3?oc=5)
+
+---
+
+### [Alzheimer, a Chieti al via l'uso compassionevole del donanemab: il nuovo farmaco sarà sperimentato sui pazienti](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMDRnMjZ1TGJpQWNOREhDWTN6VTQ0amp2eW0xU3ptQkhwZjBQMzIwTmhRWWZKbmFLTUpuWDUtSVdRdnIxM21nZGJKTHh5cHhNd3JWbWRJVzRnSmdQajBod3J0cm1XS2tGTjRFN2JTS3EweENZcEFKSEFadHNwOXg5Z0xGb3FrRE5BSVU0TVVjaEprUQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">malattia di Alzheimer</span>
+
+Source: [ChietiToday](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMDRnMjZ1TGJpQWNOREhDWTN6VTQ0amp2eW0xU3ptQkhwZjBQMzIwTmhRWWZKbmFLTUpuWDUtSVdRdnIxM21nZGJKTHh5cHhNd3JWbWRJVzRnSmdQajBod3J0cm1XS2tGTjRFN2JTS3EweENZcEFKSEFadHNwOXg5Z0xGb3FrRE5BSVU0TVVjaEprUQ?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Prilocaine. 10 predicted indications."
 permalink: /news/prilocaine/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Prilocaine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Prilocaine?">
-<strong>Prilocaine</strong> currently has <strong>29 news articles</strong>, with 10 predicted indications.
+<strong>Prilocaine</strong> currently has <strong>31 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Prilocaine with the latest h
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (29)
+## Related News (31)
+
+### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+
+2026-11-14 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+
+---
+
+### [Uni explores link between migraines and hallucinations](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY3hoNklEWVdHTUhxZnlZU040Q3FJbzJRU0FzVEFGWVVCWURKYWx6WVlrNDBsLWZ4MDUtcHo3NDVFZnNUeFVoMnRlRHhuay0yTG9WOXg3WGw4cFBpRmc?oc=5)
+
+2026-11-14 <span class="news-indication-tag">migraine</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY3hoNklEWVdHTUhxZnlZU040Q3FJbzJRU0FzVEFGWVVCWURKYWx6WVlrNDBsLWZ4MDUtcHo3NDVFZnNUeFVoMnRlRHhuay0yTG9WOXg3WGw4cFBpRmc?oc=5)
+
+---
 
 ### [COPD-Exazerbationen vorbeugen: Welche Strategien sich bewährt haben - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
 

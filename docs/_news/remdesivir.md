@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Remdesivir?">
-<strong>Remdesivir</strong> currently has <strong>19 news articles</strong>, with 6 predicted indications.
+<strong>Remdesivir</strong> currently has <strong>20 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Remdesivir with the latest h
 <p><a href="{{ '/drugs/remdesivir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (20)
+
+### [Tooth pain & bleeding gums... dental issues masking serious deadly illnesses - from brain tumours to heart disease - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ0xpb2MyMldubWxCWHFIZHZQNVY4X0tsRXBqdDE1V1k0TjJwenRxdXlyVkhLcy1CSGVQZ1V3dUxMY2dSaUdqUFhlazgwbWJ2U1FZcTlFdDJHQkJLWmtYUkl0QnpkbFFQdVoyMEY4aXQ1cE9hbmlnMUROYlF2cw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ0xpb2MyMldubWxCWHFIZHZQNVY4X0tsRXBqdDE1V1k0TjJwenRxdXlyVkhLcy1CSGVQZ1V3dUxMY2dSaUdqUFhlazgwbWJ2U1FZcTlFdDJHQkJLWmtYUkl0QnpkbFFQdVoyMEY4aXQ1cE9hbmlnMUROYlF2cw?oc=5)
+
+---
 
 ### [Red flag symptom in legs could be sign of heart failure](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 

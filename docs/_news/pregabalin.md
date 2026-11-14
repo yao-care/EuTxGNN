@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Pregabalin. 6 predicted indications."
 permalink: /news/pregabalin/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Pregabalin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Pregabalin?">
-<strong>Pregabalin</strong> currently has <strong>18 news articles</strong>, with 6 predicted indications.
+<strong>Pregabalin</strong> currently has <strong>19 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (19)
+
+### [Uni explores link between migraines and hallucinations](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY3hoNklEWVdHTUhxZnlZU040Q3FJbzJRU0FzVEFGWVVCWURKYWx6WVlrNDBsLWZ4MDUtcHo3NDVFZnNUeFVoMnRlRHhuay0yTG9WOXg3WGw4cFBpRmc?oc=5)
+
+2026-11-14 <span class="news-indication-tag">migraine</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY3hoNklEWVdHTUhxZnlZU040Q3FJbzJRU0FzVEFGWVVCWURKYWx6WVlrNDBsLWZ4MDUtcHo3NDVFZnNUeFVoMnRlRHhuay0yTG9WOXg3WGw4cFBpRmc?oc=5)
+
+---
 
 ### [Blood thinner could offer a new way to treat osteoarthritis - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbnhrWEl1WmtSbVNrN05ZWFF3c2s1emJPcGVJWk1NdldVNXhrZTdlakQyREVDSHFpMkd2QUdsWHQ2T19ZZ0h0RE12RFVPUkxKeWUydVJBVC1fbTlCaDY5RmgySFdlTmJFNDR0MHFLQ3VxczJMWF9lWmZyQTA?oc=5)
 

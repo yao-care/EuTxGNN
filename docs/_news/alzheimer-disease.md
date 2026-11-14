@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 31 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 34 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 last_modified_at: 2026-11-14
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>31 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>34 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,13 +43,37 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (31)
+## Related News (34)
+
+### [Six unusual smells that could reveal a hidden health problem - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcW1qZ1JiUXFRZnMtN2Y3WE8xc2c3Rm1kVFRTVEd5QldiN3dJMHJDcTZ1OFptRi1KMTNTY1VRMWFJT25kWVdqbzlrd1BTbzdhczhsTzJHajdKTFZSaVBJVlkzSUp3QjZISTZjeVV3RnRyNGJuOGhkcTlZLTJkcnNaSS0zeXBKSks0YTI2LVVrbElDZ1otVVdTOWlraTg?oc=5)
+
+2026-11-14
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcW1qZ1JiUXFRZnMtN2Y3WE8xc2c3Rm1kVFRTVEd5QldiN3dJMHJDcTZ1OFptRi1KMTNTY1VRMWFJT25kWVdqbzlrd1BTbzdhczhsTzJHajdKTFZSaVBJVlkzSUp3QjZISTZjeVV3RnRyNGJuOGhkcTlZLTJkcnNaSS0zeXBKSks0YTI2LVVrbElDZ1otVVdTOWlraTg?oc=5)
+
+---
+
+### [David Cameron: My mother begged my sister to end her life - The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFgxcmEtQWR1VEVhSGRqSkxQMGpzRDY3anFFUFRJQXA1djh5d3k5WklRZ3Uya0tnNHpMaXpkeTM3ZFY1X0c1ZGJCZ1JwekFOcmZVUE5YcWd3M0c3c1dnczlIUDFHNS1mOHE4OFZVTXVpTjJ4ZkxpcGt6cHkyRndEd0dMNm9mZjg2TV9aMTV2SndTdGxrUzd3d1BMbw?oc=5)
+
+2026-11-14
+
+Source: [The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFgxcmEtQWR1VEVhSGRqSkxQMGpzRDY3anFFUFRJQXA1djh5d3k5WklRZ3Uya0tnNHpMaXpkeTM3ZFY1X0c1ZGJCZ1JwekFOcmZVUE5YcWd3M0c3c1dnczlIUDFHNS1mOHE4OFZVTXVpTjJ4ZkxpcGt6cHkyRndEd0dMNm9mZjg2TV9aMTV2SndTdGxrUzd3d1BMbw?oc=5)
+
+---
 
 ### [Lord Cameron: Alzheimer’s made my mother beg my sister to kill her - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkNkUmtBYm9Ya1VPal9VdHBkWDB5WnJtTTJOdXJYSnAwd3l2UTEwRWxKTXNNbjFfbFllSlBvX2tFaXU2NHJVUmxER0h3OXctWmVtcm05MV9xaHhSdGJKZ2ozV2wzZHhmdDVwTlNoS2pHc0JGWVFZOExHX0Y3SGZ4a3F1ejJ2YWtQbDhnSGh5ejIwYzBDemNrYlNyaktXajhOb0tVYVF3?oc=5)
 
 2026-11-13
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkNkUmtBYm9Ya1VPal9VdHBkWDB5WnJtTTJOdXJYSnAwd3l2UTEwRWxKTXNNbjFfbFllSlBvX2tFaXU2NHJVUmxER0h3OXctWmVtcm05MV9xaHhSdGJKZ2ozV2wzZHhmdDVwTlNoS2pHc0JGWVFZOExHX0Y3SGZ4a3F1ejJ2YWtQbDhnSGh5ejIwYzBDemNrYlNyaktXajhOb0tVYVF3?oc=5)
+
+---
+
+### [Alzheimer, a Chieti al via l'uso compassionevole del donanemab: il nuovo farmaco sarà sperimentato sui pazienti](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMDRnMjZ1TGJpQWNOREhDWTN6VTQ0amp2eW0xU3ptQkhwZjBQMzIwTmhRWWZKbmFLTUpuWDUtSVdRdnIxM21nZGJKTHh5cHhNd3JWbWRJVzRnSmdQajBod3J0cm1XS2tGTjRFN2JTS3EweENZcEFKSEFadHNwOXg5Z0xGb3FrRE5BSVU0TVVjaEprUQ?oc=5)
+
+2026-11-13
+
+Source: [ChietiToday](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMDRnMjZ1TGJpQWNOREhDWTN6VTQ0amp2eW0xU3ptQkhwZjBQMzIwTmhRWWZKbmFLTUpuWDUtSVdRdnIxM21nZGJKTHh5cHhNd3JWbWRJVzRnSmdQajBod3J0cm1XS2tGTjRFN2JTS3EweENZcEFKSEFadHNwOXg5Z0xGb3FrRE5BSVU0TVVjaEprUQ?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>94 news articles</strong>, with 0 predicted indications.
+<strong>Melatonin</strong> currently has <strong>100 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,39 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (94)
+## Related News (100)
+
+### [Eiweißarme Ernährung verlangsamt den Alterungsprozess](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS1hU0haa0tsbFg4NDNrRURfLXhJUFh6MzV1X1cteFlBSGRjREZGOGRGa0VVRGtfOXBkenVLN3BxcHNsX2xiVkwwRDVSWmVneXQ3Sl9YYWVvWldYX3hsVnpKWW1yM0VBdlZaREtKTUxlS3ZHOGY5WHI3dUF5aktxSjNKNVZXNDdnX0g0dmxBMElaYkhsQzdN?oc=5)
+
+2026-11-14 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Scinexx](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS1hU0haa0tsbFg4NDNrRURfLXhJUFh6MzV1X1cteFlBSGRjREZGOGRGa0VVRGtfOXBkenVLN3BxcHNsX2xiVkwwRDVSWmVneXQ3Sl9YYWVvWldYX3hsVnpKWW1yM0VBdlZaREtKTUxlS3ZHOGY5WHI3dUF5aktxSjNKNVZXNDdnX0g0dmxBMElaYkhsQzdN?oc=5)
+
+---
+
+### [Uni explores link between migraines and hallucinations](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY3hoNklEWVdHTUhxZnlZU040Q3FJbzJRU0FzVEFGWVVCWURKYWx6WVlrNDBsLWZ4MDUtcHo3NDVFZnNUeFVoMnRlRHhuay0yTG9WOXg3WGw4cFBpRmc?oc=5)
+
+2026-11-14 <span class="news-indication-tag">migraine</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY3hoNklEWVdHTUhxZnlZU040Q3FJbzJRU0FzVEFGWVVCWURKYWx6WVlrNDBsLWZ4MDUtcHo3NDVFZnNUeFVoMnRlRHhuay0yTG9WOXg3WGw4cFBpRmc?oc=5)
+
+---
+
+### [TÉMOIGNAGE. "Je ne voulais ni opération ni médicament" : face à l'arrivée du Wegovy, cette Gersoise raconte comment elle a perdu 30 kilos](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTkJNdXJsd0hSVlVHN1lkM0xUV0Mxc3g2TnplcVJfcTgxWDVsU2xuczM3MXJYa1Y2YjY5Q1RhbF9QMkdLZ2ZpOWFaNnVZb2h3dVRtY1pZOGpGeG5tSFZwS0lBT2xiUUpmWk9xdVowekxzaHJwaEYtTzBiMlFxT1lfUnZNcWVuVzdQdTZDS1BFeUx1cG92dUYzaDdGMGM1dE5zM25IVG1rbVJRSmlfWmFNdGpVUlMwRTVwb0g3ZEdYOElyN2k2ZVFaRDZ5cldoTGlkeU5GY29MenA1LUp4VEZoQlIwc2dlSGtEMEltcFJnVlNvQ0hlczhwNlZWdlZZZHVfeHZVX0Z1TUpXSEE?oc=5)
+
+2026-11-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTkJNdXJsd0hSVlVHN1lkM0xUV0Mxc3g2TnplcVJfcTgxWDVsU2xuczM3MXJYa1Y2YjY5Q1RhbF9QMkdLZ2ZpOWFaNnVZb2h3dVRtY1pZOGpGeG5tSFZwS0lBT2xiUUpmWk9xdVowekxzaHJwaEYtTzBiMlFxT1lfUnZNcWVuVzdQdTZDS1BFeUx1cG92dUYzaDdGMGM1dE5zM25IVG1rbVJRSmlfWmFNdGpVUlMwRTVwb0g3ZEdYOElyN2k2ZVFaRDZ5cldoTGlkeU5GY29MenA1LUp4VEZoQlIwc2dlSGtEMEltcFJnVlNvQ0hlczhwNlZWdlZZZHVfeHZVX0Z1TUpXSEE?oc=5)
+
+---
+
+### [«C’è una molecola che riduce la fame». A Roma la nuova ricerca anti-obesità - Il Messaggero](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUjFrNzhTN25CZHR3Mi15R1Y4YmFEUUJSakxHVExwcWRmZFJFV3ZmTUZIT1d5Ul8zOEgwSURCTExMNzZjNGRkcXlQOVBDaTlHSGt6YjdOVWJMRmhsUG1sRW9kUURSNVRuQml4RTR3aHZqanlySHJhSmxMSG9yNEFiendPZVY1VlhObU9fOHVYV2hoaDkzenpOWHdrUjVLVThDUDBjRDBrdDRYb0JSMkExQXFYQdIBrAFBVV95cUxPNGtPOEprOU1DbmFNZTBBNWE2UGdvczJPWVMxdGxzaHBwM1pGdDRIVFVpaXhVcXNabjlRZHE1bV9JSkdsQ3VfUHlLdDMtcVFYbk00TGpVM0pLWU5ha3pyemgzSjZWeHJFMG5iQWF1eUZNY2gwUzZhRDNJS3locDF5b2VnNmY2MUtRS0JVejFWbEEtYkhjaVRwZVVUS0I5cGlVZTc5d0hQeWVnQTU3?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUjFrNzhTN25CZHR3Mi15R1Y4YmFEUUJSakxHVExwcWRmZFJFV3ZmTUZIT1d5Ul8zOEgwSURCTExMNzZjNGRkcXlQOVBDaTlHSGt6YjdOVWJMRmhsUG1sRW9kUURSNVRuQml4RTR3aHZqanlySHJhSmxMSG9yNEFiendPZVY1VlhObU9fOHVYV2hoaDkzenpOWHdrUjVLVThDUDBjRDBrdDRYb0JSMkExQXFYQdIBrAFBVV95cUxPNGtPOEprOU1DbmFNZTBBNWE2UGdvczJPWVMxdGxzaHBwM1pGdDRIVFVpaXhVcXNabjlRZHE1bV9JSkdsQ3VfUHlLdDMtcVFYbk00TGpVM0pLWU5ha3pyemgzSjZWeHJFMG5iQWF1eUZNY2gwUzZhRDNJS3locDF5b2VnNmY2MUtRS0JVejFWbEEtYkhjaVRwZVVUS0I5cGlVZTc5d0hQeWVnQTU3?oc=5)
+
+---
 
 ### [Dormire meno di sei ore e umore: il legame osservato in uno studio su 16mila adulti](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNE8yMEc2dzZfbFIwNkhlM2U0dkRWSlVNSVgtX0dTY2dvMk5YNklCLU5WZ2VuZlloNGc4amhCWTNobENuaGVleFJxa0VGdmgxWGN5Qk91ajZMbF9ndXd6UGlKcGZUN3dISWtVYjZFZmRaTDNmclg2Vmtsd1Y5Q2VKV015SVpIaUc5dHFCS2YzUV9MZk5KaXo3eGZtWXdieG9yOS1UWjBPRFd3cm04eVhMMFdaX0puZzBRZHhmSnlaY0tsOVRpZk1pTkp6dHNZUlM3TThtbXo0OFRHZw?oc=5)
 
@@ -53,6 +85,14 @@ Source: [Redacción Médica](https://news.google.com/rss/articles/CBMi-wFBVV95cU
 2026-11-13 <span class="news-indication-tag">Adipositas</span>
 
 Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkllLXRqZUJPSnNBaFM0eFRfMU9Sb1dMc21LRHF6bFZLdEVwcUh6SnlKV05sQ21LeU9xdnlvOUJXUGlsUThPZlZjdDRvU0swUnVFM0hmVThGZEI5X3k1TUI5LUhsdVZRUUpwZHdlV1pVUG4zUEpCeUN3UmRaZ3hOVl9JbE9TbjZnN051U2p5MXc?oc=5)
+
+---
+
+### [Neue Adipositas-Definition: Warum der BMI allein nicht mehr ausreicht](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWV2MW9UbERHNFNkbW5FendtQWhtMjZuTTV3UlhXMkpJTWZLU0QyNUxiUl9tNVVRbU84SW5US3JYRXktTjI5U2picGxIZVducW53M3N4WFFQN0JiZU9JVjNEZU5PdGlrM0gyOWM3NE1obkJKNXNON2pTOTUxTlQ1SzZmd3VnLVdxU01OVjhtYXF3blZhTlhMR1FwelNlWDNVVzMyc21CdEFMMTg0TDRSSlczcw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Adipositas</span>
+
+Source: [MDR.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWV2MW9UbERHNFNkbW5FendtQWhtMjZuTTV3UlhXMkpJTWZLU0QyNUxiUl9tNVVRbU84SW5US3JYRXktTjI5U2picGxIZVducW53M3N4WFFQN0JiZU9JVjNEZU5PdGlrM0gyOWM3NE1obkJKNXNON2pTOTUxTlQ1SzZmd3VnLVdxU01OVjhtYXF3blZhTlhMR1FwelNlWDNVVzMyc21CdEFMMTg0TDRSSlczcw?oc=5)
 
 ---
 
@@ -125,6 +165,14 @@ Source: [BFM](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNU1BKVnZOQzZkY
 2026-11-12 <span class="news-indication-tag">obesidad</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWFBRWVxMGpFV3Jra1RSZFpTWHo3MDl1c0cxSTdEdXFCWndncmxXeHgxYzZtVjFhbFV3NGYwVWR4UmtjWkRSYk9uSERfWUFoOENvTkJoRk91bmo2UUw5UGV4UEl4YWpkekZKRHFvak5lRUV4RnlFcjdvMUk5TmZ6TTFEOENvU2tZbE50enY5VUE3RGFoYWp5MDdGZThwYUJJVkxvd2lrVlVON1hQd0dUczR2VGhzRzllZVpERXpUUjFlOWpjSWNOeVFHbGE?oc=5)
+
+---
+
+### [Il pasto serale è il preferito dagli uomini. Ma rischiano l'obesità più delle donne - Il Messaggero](https://news.google.com/rss/articles/CBMizAFBVV95cUxNWDJGemlqVlRHRUdON1NwN0hIRXBNQXRBVEU5WjBleG1ObnJ0ZkM2YUs5OVJGSmlIWTJtVVBmdmltUTlHcXQyR0dfYmowdDVmVTlwbkxzdGMtMm10Z0pDY1ZlT1JUT1BSemFxeVc0Z3NhTjc3VTJjRzdtNGxRN2tlU29YMFE3RV8zcFpVMW5QeTZfSW1MVjB2MUhrNE0yaVRvOFlXSTBiZWhzei1qSXNMUzlrZEhQRmthanVNNV9tdXhia1ZHcDRGd3NCT3DSAcIBQVVfeXFMT3dPcUR5dEtHODBYdDdqVFgwM0x3NHc5Yk80b1pmLUM2M0dDZWR5bmpsNEhhaEM4cUlMaEtMNWpzZkQxV25UaUVXN05lcWtZY3Z4ZHNhandrc3lvd0pidHI2eVpWNWZPdkV3RkhjVnB1Tzk3MXNUblBTNWdnanNXMERDc1BYc3hLLUdxRkFwT01Yenl6LXFmWURMWnVOTVYzOWhvdXNKb2I4VERMUlA0X2d1bVFKN3EtMzA0UVg3TXBLZ2c?oc=5)
+
+2026-11-12 <span class="news-indication-tag">obesità</span>
+
+Source: [Il Messaggero](https://news.google.com/rss/articles/CBMizAFBVV95cUxNWDJGemlqVlRHRUdON1NwN0hIRXBNQXRBVEU5WjBleG1ObnJ0ZkM2YUs5OVJGSmlIWTJtVVBmdmltUTlHcXQyR0dfYmowdDVmVTlwbkxzdGMtMm10Z0pDY1ZlT1JUT1BSemFxeVc0Z3NhTjc3VTJjRzdtNGxRN2tlU29YMFE3RV8zcFpVMW5QeTZfSW1MVjB2MUhrNE0yaVRvOFlXSTBiZWhzei1qSXNMUzlrZEhQRmthanVNNV9tdXhia1ZHcDRGd3NCT3DSAcIBQVVfeXFMT3dPcUR5dEtHODBYdDdqVFgwM0x3NHc5Yk80b1pmLUM2M0dDZWR5bmpsNEhhaEM4cUlMaEtMNWpzZkQxV25UaUVXN05lcWtZY3Z4ZHNhandrc3lvd0pidHI2eVpWNWZPdkV3RkhjVnB1Tzk3MXNUblBTNWdnanNXMERDc1BYc3hLLUdxRkFwT01Yenl6LXFmWURMWnVOTVYzOWhvdXNKb2I4VERMUlA0X2d1bVFKN3EtMzA0UVg3TXBLZ2c?oc=5)
 
 ---
 
