@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Denosumab?">
-<strong>Denosumab</strong> currently has <strong>155 news articles</strong>, with 2 predicted indications.
+<strong>Denosumab</strong> currently has <strong>154 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page combines the AI-predicted indications for Denosumab with the latest he
 <p><a href="{{ '/drugs/denosumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (155)
+## Related News (154)
 
 ### [‘Never thought I’d eat that’: how vegetable prescriptions are helping Britons with diabetes - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNRXZVUi11a0MtVWhnSlZiMlQ5cF84TVJ2NnQyclZOaGt0ZXFsbF9zblNGTTNESGE5UTdFN3F4VFJZQU9HclV3Z2w1VHVGd2hISzFlZ2xqTmo5dWVFX2hoZjV6N3BRaDM1R1dHaTBUaG9Kb1pCTGxXOHJ5dVNLZVJFYzFzUG9rTG91bDZxVUZ6VXkyYzVqVVV4TU41Q0hKZw?oc=5)
 
@@ -89,14 +89,6 @@ Source: [La Voz de Tomelloso](https://news.google.com/rss/articles/CBMiqgFBVV95c
 2026-11-13 <span class="news-indication-tag">diabetes</span>
 
 Source: [Gobierno de Canarias](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd0tXSzViNmViVVhuMFF0YzU0ZFBZNlZTUVJKRXVLTFZhcTVKc1llQU5qdG9ERE9SVmJrQVZvbnBScHVGMnV1dUktRU5WeFNiSlQtYzljTTlLVWhIWTlZanpUMlJjb0tYazRuaE5jSHlvbllJdjJOTjE0bnF6dWZWQ19BZWtSQUNQVGlyZ1F6bGkxOEpsQ2lPNF9vZ1praUtTU0VYelU3ZHVEcHlEYjhLeG5PS2l3dkxjTDJzVmMzXzBDUkJLcnZSdG1RM3luUGNRZnJVSDFDQkc?oc=5)
-
----
-
-### [My son, 13, died of condition we never knew he had - 4 signs masked by 'flu' - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjhSS210dTAwQmxDVHVYMVhsME5LTHZrM25ackdUM1NuTV9rcXJyVTQzUU04UTdVR1BDMVJnbXU2UTNaVU1BbG9hcUJldEpabFM3X3M0QWNOVUtZemRrY1MtU3FTck1zVHpRbHhFYTE4NjVrX3FQcnVyalRtNXZRSWptOGEzVjlqcnI0?oc=5)
-
-2026-11-13 <span class="news-indication-tag">diabetes</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjhSS210dTAwQmxDVHVYMVhsME5LTHZrM25ackdUM1NuTV9rcXJyVTQzUU04UTdVR1BDMVJnbXU2UTNaVU1BbG9hcUJldEpabFM3X3M0QWNOVUtZemRrY1MtU3FTck1zVHpRbHhFYTE4NjVrX3FQcnVyalRtNXZRSWptOGEzVjlqcnI0?oc=5)
 
 ---
 

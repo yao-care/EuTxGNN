@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Sotatercept?">
-<strong>Sotatercept</strong> currently has <strong>410 news articles</strong>, with 10 predicted indications.
+<strong>Sotatercept</strong> currently has <strong>409 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Sotatercept with the latest 
 <p><a href="{{ '/drugs/sotatercept/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (410)
+## Related News (409)
 
 ### [A Rare Case of Urinary Bladder Metastasis From Gastric Adenocarcinoma: A Case Report](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JmalhLZEVoNDdlTzVvaEtxWGhHcU8tV0hLdmVfODl5RDZlQVd6UWlRYmxBR2xLQnVoNU9YZHcwYUNWR1Y5ZzNMV0Y5S25mS0NFZW11cGZidmt2alhidDE1RGJ6dGZRekJwT2ZaR1BORGt5MjNoNWhWZHJoWmxHNlpjWjZxQl9WNndJWEoySUF0cjYxLWpETHJkazVwaFFpbVpWX1Z5VzhHOFBBeEhFWThCSzR2ZzZzWGs2UThHSQ?oc=5)
 
@@ -161,14 +161,6 @@ Source: [La Voz de Tomelloso](https://news.google.com/rss/articles/CBMiqgFBVV95c
 2026-11-13 <span class="news-indication-tag">diabetes</span>
 
 Source: [Gobierno de Canarias](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd0tXSzViNmViVVhuMFF0YzU0ZFBZNlZTUVJKRXVLTFZhcTVKc1llQU5qdG9ERE9SVmJrQVZvbnBScHVGMnV1dUktRU5WeFNiSlQtYzljTTlLVWhIWTlZanpUMlJjb0tYazRuaE5jSHlvbllJdjJOTjE0bnF6dWZWQ19BZWtSQUNQVGlyZ1F6bGkxOEpsQ2lPNF9vZ1praUtTU0VYelU3ZHVEcHlEYjhLeG5PS2l3dkxjTDJzVmMzXzBDUkJLcnZSdG1RM3luUGNRZnJVSDFDQkc?oc=5)
-
----
-
-### [My son, 13, died of condition we never knew he had - 4 signs masked by 'flu' - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjhSS210dTAwQmxDVHVYMVhsME5LTHZrM25ackdUM1NuTV9rcXJyVTQzUU04UTdVR1BDMVJnbXU2UTNaVU1BbG9hcUJldEpabFM3X3M0QWNOVUtZemRrY1MtU3FTck1zVHpRbHhFYTE4NjVrX3FQcnVyalRtNXZRSWptOGEzVjlqcnI0?oc=5)
-
-2026-11-13 <span class="news-indication-tag">diabetes</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjhSS210dTAwQmxDVHVYMVhsME5LTHZrM25ackdUM1NuTV9rcXJyVTQzUU04UTdVR1BDMVJnbXU2UTNaVU1BbG9hcUJldEpabFM3X3M0QWNOVUtZemRrY1MtU3FTck1zVHpRbHhFYTE4NjVrX3FQcnVyalRtNXZRSWptOGEzVjlqcnI0?oc=5)
 
 ---
 
