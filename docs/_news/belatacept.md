@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Belatacept. 0 predicted indications."
 permalink: /news/belatacept/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Belatacept News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Belatacept?">
-<strong>Belatacept</strong> currently has <strong>286 news articles</strong>, with 0 predicted indications.
+<strong>Belatacept</strong> currently has <strong>289 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Belatacept with the latest h
 <p><a href="{{ '/drugs/belatacept/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (286)
+## Related News (289)
+
+### [A Rare Case of Urinary Bladder Metastasis From Gastric Adenocarcinoma: A Case Report](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JmalhLZEVoNDdlTzVvaEtxWGhHcU8tV0hLdmVfODl5RDZlQVd6UWlRYmxBR2xLQnVoNU9YZHcwYUNWR1Y5ZzNMV0Y5S25mS0NFZW11cGZidmt2alhidDE1RGJ6dGZRekJwT2ZaR1BORGt5MjNoNWhWZHJoWmxHNlpjWjZxQl9WNndJWEoySUF0cjYxLWpETHJkazVwaFFpbVpWX1Z5VzhHOFBBeEhFWThCSzR2ZzZzWGs2UThHSQ?oc=5)
+
+2026-11-14 <span class="news-indication-tag">carcinoma</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JmalhLZEVoNDdlTzVvaEtxWGhHcU8tV0hLdmVfODl5RDZlQVd6UWlRYmxBR2xLQnVoNU9YZHcwYUNWR1Y5ZzNMV0Y5S25mS0NFZW11cGZidmt2alhidDE1RGJ6dGZRekJwT2ZaR1BORGt5MjNoNWhWZHJoWmxHNlpjWjZxQl9WNndJWEoySUF0cjYxLWpETHJkazVwaFFpbVpWX1Z5VzhHOFBBeEhFWThCSzR2ZzZzWGs2UThHSQ?oc=5)
+
+---
 
 ### [Hoffnung für Frauen mit hohem Risiko: Neuer Blutmarker könnte die Vorsorge bei Eierstockkrebs verändern](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUW5oQTdCdmVlWVNHTmp3UzNLNjZqVVZDUU5UQ3dESDJXTV9HNi11WnZ2Q05kcmJaWjV3TkF2UkxqajVFTjJyUkhKYWcwZ2FCTE42dUpzMFRycmY5Y2FjYll0SG1kVl92VDFUMVJERTRPQVZPZC1lTmI2d3kwdjc1UXgyUkdTMEl5SGQ4SkFtbmhUMjZWN3haTFpzZ3F1eTMxb3E5MDdIM1lKTWZ2cmtZaFo1YXNBSUhFaGhGbGIzU1RXVzRSUXpWOQ?oc=5)
 
@@ -53,6 +61,14 @@ Source: [Les Echos](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUTB6YVB
 2026-11-13 <span class="news-indication-tag">tumor</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNa3otTTBBcm9QT2doVktqbGJWSVZRcmFvdjdIM0ZXRS1QX2RTZzR5X1liR2FXV1pvcW42WlVteFJlUkN0OU13eFdCQUpPOUFqLWlFU0Q0RmM2cHE5OVRsQ3JOTHhhSXpwWW54T09uLVN3ZXQyV3NFYUpRdjFCdzJMOVlYeS1EQUJyOHo2WF8yWmVrZmdMeXZBOHBUZFE2Y2dqMUZwSUU4VE1ROU9uSGt6LXVpbndEeC1idzdvTFVBcGVSZ0M2NTFVeFgxZXJYa1diNl9OVW1yaTcyOUdvV0dWWFpEV01hLUtQZ0NLalQyLWVHS3pTYUtKYWNR?oc=5)
+
+---
+
+### [Tumore della prostata, il PSA torna protagonista: dagli USA nuove regole per lo screening. E in Italia?](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdEZ3U2EtOUE1aVhGc0swUkRmUGhrbS00cmYtUk1oc2o5STlBNzNwTVB1anVRMmtxdjhHR0tJbklpQUdLNTBwd1UzOFNOdUNwXzMtWXo1U1Z3S3BDM2h2d3FJVk4wYXBXbUNCeFZTdEtTSWxuY3JoaUpnS2hMeml6UmJ1LTBMQWdmN215OG5GeTNDR1VhYzM4SG1DSUpIS0xsT0ZCTkZ6cWpySTBHdFBWaTRWT1J5RmZSX0ZqdVozSWktMnB0Tmd4MHJfTm9RQmdaM0NKRXBOZXhpRHQwVFJUanJNQ04?oc=5)
+
+2026-11-13 <span class="news-indication-tag">cancer</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdEZ3U2EtOUE1aVhGc0swUkRmUGhrbS00cmYtUk1oc2o5STlBNzNwTVB1anVRMmtxdjhHR0tJbklpQUdLNTBwd1UzOFNOdUNwXzMtWXo1U1Z3S3BDM2h2d3FJVk4wYXBXbUNCeFZTdEtTSWxuY3JoaUpnS2hMeml6UmJ1LTBMQWdmN215OG5GeTNDR1VhYzM4SG1DSUpIS0xsT0ZCTkZ6cWpySTBHdFBWaTRWT1J5RmZSX0ZqdVozSWktMnB0Tmd4MHJfTm9RQmdaM0NKRXBOZXhpRHQwVFJUanJNQ04?oc=5)
 
 ---
 
@@ -80,14 +96,6 @@ Source: [Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMilAJBVV95c
 
 ---
 
-### [A Rare Case of Urinary Bladder Metastasis From Gastric Adenocarcinoma: A Case Report](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JmalhLZEVoNDdlTzVvaEtxWGhHcU8tV0hLdmVfODl5RDZlQVd6UWlRYmxBR2xLQnVoNU9YZHcwYUNWR1Y5ZzNMV0Y5S25mS0NFZW11cGZidmt2alhidDE1RGJ6dGZRekJwT2ZaR1BORGt5MjNoNWhWZHJoWmxHNlpjWjZxQl9WNndJWEoySUF0cjYxLWpETHJkazVwaFFpbVpWX1Z5VzhHOFBBeEhFWThCSzR2ZzZzWGs2UThHSQ?oc=5)
-
-2026-11-13 <span class="news-indication-tag">carcinoma</span>
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JmalhLZEVoNDdlTzVvaEtxWGhHcU8tV0hLdmVfODl5RDZlQVd6UWlRYmxBR2xLQnVoNU9YZHcwYUNWR1Y5ZzNMV0Y5S25mS0NFZW11cGZidmt2alhidDE1RGJ6dGZRekJwT2ZaR1BORGt5MjNoNWhWZHJoWmxHNlpjWjZxQl9WNndJWEoySUF0cjYxLWpETHJkazVwaFFpbVpWX1Z5VzhHOFBBeEhFWThCSzR2ZzZzWGs2UThHSQ?oc=5)
-
----
-
 ### [El remibrutinib reduce los brotes de esclerosis múltiple](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTV9iTXZWQmFTNWh0ZktPbmxsaV9UdHc2bnA0WDBLRGdfT1RWa2J1NW4teHZ2X19qRFdJSm8xQzVCcU5ySTY1ZXdTSkY3LWZkTkZWWFR4Z2ZackJ5Z1R5SjQwMmRfVG5JTjNOVmRhQmZ1T1lJMXpwMFhrSzJmUHdYSzdUVVh6Smc2b2NucEcwY2FRd1NPZEczdy10V2l5ampla2FHdzFRNWRHV3JseDM3NVFwZXMzSDZYTmFxNDZUTmxmWjlSMkRsYWlhRWdwSnlBUncyUEZKdXE2UQ?oc=5)
 
 2026-11-13 <span class="news-drug-tag">Ibrutinib</span> <span class="news-indication-tag">esclerosis múltiple</span>
@@ -101,6 +109,14 @@ Source: [Univadis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTV9iTXZW
 2026-11-13 <span class="news-indication-tag">cancer</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQeGJCQWYwNlJhdzFFY19PZTAzZU1QXzZmQk9XVHdUYkV3ME54bVAxTDNicVdaUWVtZmE4NWI5dXpJd2pseGwyWHJNb0FnbVVCUFo1TVViRGRYRXJ1WlpoT1FPdUh3a0VKbWdPaEhwRUdRT2syM09leVdFWXZRM3ZJeHF4VU9LYUgtWWNHcXFuVQ?oc=5)
+
+---
+
+### [„Dasselbe biologische System könnte entweder Krebs oder Neurodegeneration fördern“](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdFZ1bklJNG9ONmt0akxFam9kZWZqekdzMk8yOWJjdHU2aHdyUDY3ZWxlWVU5eEFBdUo2Y1dSdXp4OGdocTRiMGQ4Y0ZET253T01Gdm9XbXNXVGRNZE5JTGhDSlp4Z0ZWYUw3bEVEZTB2MWV1YmJWOV94T2o1NFFMYkY0dDhyVG9tNHEwTHNjWGNhWXJIMExNVzNaQjl6X3pCZTBJa0ZRenB4bU84SE1FNE1VNGlIZkgtRGZpcmxqd3JTakhpaVI5MEdqSDdqX1gxZ21kVmF5R0xRQkpOSGhTZQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Krebs</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdFZ1bklJNG9ONmt0akxFam9kZWZqekdzMk8yOWJjdHU2aHdyUDY3ZWxlWVU5eEFBdUo2Y1dSdXp4OGdocTRiMGQ4Y0ZET253T01Gdm9XbXNXVGRNZE5JTGhDSlp4Z0ZWYUw3bEVEZTB2MWV1YmJWOV94T2o1NFFMYkY0dDhyVG9tNHEwTHNjWGNhWXJIMExNVzNaQjl6X3pCZTBJa0ZRenB4bU84SE1FNE1VNGlIZkgtRGZpcmxqd3JTakhpaVI5MEdqSDdqX1gxZ21kVmF5R0xRQkpOSGhTZQ?oc=5)
 
 ---
 
@@ -141,6 +157,14 @@ Source: [Il Giorno](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUdrMUU
 2026-11-12 <span class="news-indication-tag">multiple sclerosis</span>
 
 Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDVLbV9pc1RpTXFTdTBLbU5rOFg1R1ROV0p4dWdCa3ZoY2QzREtKRGlDVXJNY2RQSW80TG5UUXN4YmNBYUYyZU1OY2ZGa2c4TndUZlg0QkQxdFBNT2U1VEduU082RnkwcUpGazJ4OHkwOHNBOTdoQnM4amkxcWUzQUFGeHpRenRwS2lzMzctM0Z6SndXWFVjQ2pHZm96MW0xQjYzMUdsdnVoZmJkNkZodzBwU0VXOGwtd0Voc1BlVUU?oc=5)
+
+---
+
+### [High-fat diets leave ‘memory’ in gut stem cells that may fuel colon cancer - Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYkFJS2hYT2lieU9fVDAwcVNkQ1JvaUVFYVBRSTR6ek5ZSjJtN3laYWZGNFR4U203Rjdab3JPTWQ4c25TR3h4TWhoQzRPWVRTaDFfZDBhb1ZFUlA4SWZvNThwVWN0eThpS0NneG9IN0RDS2Z3VVBCVDRWczhNNWpxSEhNS1ZXNmhSSnJCUkxFdHlJVkVnZVZiRktCQnM4OXk0b0pwUFF0bUNVUQ?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span>
+
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYkFJS2hYT2lieU9fVDAwcVNkQ1JvaUVFYVBRSTR6ek5ZSjJtN3laYWZGNFR4U203Rjdab3JPTWQ4c25TR3h4TWhoQzRPWVRTaDFfZDBhb1ZFUlA4SWZvNThwVWN0eThpS0NneG9IN0RDS2Z3VVBCVDRWczhNNWpxSEhNS1ZXNmhSSnJCUkxFdHlJVkVnZVZiRktCQnM4OXk0b0pwUFF0bUNVUQ?oc=5)
 
 ---
 
@@ -360,14 +384,6 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NGM4TnUzZ
 
 ---
 
-### [„Dasselbe biologische System könnte entweder Krebs oder Neurodegeneration fördern“](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdFZ1bklJNG9ONmt0akxFam9kZWZqekdzMk8yOWJjdHU2aHdyUDY3ZWxlWVU5eEFBdUo2Y1dSdXp4OGdocTRiMGQ4Y0ZET253T01Gdm9XbXNXVGRNZE5JTGhDSlp4Z0ZWYUw3bEVEZTB2MWV1YmJWOV94T2o1NFFMYkY0dDhyVG9tNHEwTHNjWGNhWXJIMExNVzNaQjl6X3pCZTBJa0ZRenB4bU84SE1FNE1VNGlIZkgtRGZpcmxqd3JTakhpaVI5MEdqSDdqX1gxZ21kVmF5R0xRQkpOSGhTZQ?oc=5)
-
-2026-11-11 <span class="news-indication-tag">Krebs</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdFZ1bklJNG9ONmt0akxFam9kZWZqekdzMk8yOWJjdHU2aHdyUDY3ZWxlWVU5eEFBdUo2Y1dSdXp4OGdocTRiMGQ4Y0ZET253T01Gdm9XbXNXVGRNZE5JTGhDSlp4Z0ZWYUw3bEVEZTB2MWV1YmJWOV94T2o1NFFMYkY0dDhyVG9tNHEwTHNjWGNhWXJIMExNVzNaQjl6X3pCZTBJa0ZRenB4bU84SE1FNE1VNGlIZkgtRGZpcmxqd3JTakhpaVI5MEdqSDdqX1gxZ21kVmF5R0xRQkpOSGhTZQ?oc=5)
-
----
-
 ### [Medizin: Die Fakten hinter der verblüffenden Verbindung zwischen Alzheimer und Krebs](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdDlBc2JBYlV1a2tXSGcwa19oYlJOeFVNd2lGNFhscVpkNDIxNHNTQjRFMElfRFdLNm9vNTUyZ3BzQTZpTzBDVS1ySFZaTXphMjJnYVhCblpCYkhrZW84MGQtSkRJVkFKek51djlQaWVxY3VQSzhhR1VpX3pTbEdlUkhHcG1hVkRBcTJraE9sNVBRWmNCdlRoZkVhcEltQ1lmUXBaNWVQT21zejRMbk95elJxdlprMzI0dUpETGxFanVYZ0hmT3VEcmg5SnoxZ0RTcGU2Qm03V0JEdGp6dzgtdzBxaw?oc=5)
 
 2026-11-11 <span class="news-indication-tag">Krebs</span>
@@ -392,11 +408,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQmY1
 
 ---
 
-### [Red flag symptom in legs could be sign of heart failure - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+### [Red flag symptom in legs could be sign of heart failure](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 2026-11-11 <span class="news-indication-tag">heart failure</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+Source: [Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 ---
 
@@ -493,6 +509,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mZndUdXJUYXB4a
 2026-11-10 <span class="news-indication-tag">cancer</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUZmMVUyenU0NUFybmNIckM4bW9iZWpiWkE4RzVNQ2xoVmtXZW9jVkxncThpakVzR2h6cjRzVzVWNVYwTWtYYlBvSl9YbGo2U1dGOEVySmhyTXVSSGU3cVVCQkdvOGp2SFhwUXl2Vmh3UFdmVEJYY1ZaWmFnVVp6cHB0UVZvMjlLNW81dkZPbGJrVi1EMnhNN0xiam1RM25yV1NPWg?oc=5)
+
+---
+
+### ["Das Krebsrisiko lässt sich um 60 Prozent senken" - Projekt soll Jugendliche für Früherkennung sensibilisieren](https://news.google.com/rss/articles/CBMiogFBVV95cUxNbG5uZG5qUEpGdGl2cjMtTGVjM2IwMFltMkc3SThMRmNfMjhpQkNZajlubDQ0SF9TUDJzY2FHZk9CUHFuN3RGZ0hvbnJ5SHNELXV3WUFFUjZkczQ2MDRvaEVySldwY240Qy1ZanNkX21uby1oeE9HR2ZSS09XZTRyeVN0Nm5VRzB1QnBaQ2wxZXVuWFVUbmo0RlNtaHlHY1ZBYmc?oc=5)
+
+2026-11-10 <span class="news-indication-tag">Krebs</span>
+
+Source: [SWR](https://news.google.com/rss/articles/CBMiogFBVV95cUxNbG5uZG5qUEpGdGl2cjMtTGVjM2IwMFltMkc3SThMRmNfMjhpQkNZajlubDQ0SF9TUDJzY2FHZk9CUHFuN3RGZ0hvbnJ5SHNELXV3WUFFUjZkczQ2MDRvaEVySldwY240Qy1ZanNkX21uby1oeE9HR2ZSS09XZTRyeVN0Nm5VRzB1QnBaQ2wxZXVuWFVUbmo0RlNtaHlHY1ZBYmc?oc=5)
 
 ---
 

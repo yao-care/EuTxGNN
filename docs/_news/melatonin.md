@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Melatonin. 0 predicted indications."
 permalink: /news/melatonin/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Melatonin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>93 news articles</strong>, with 0 predicted indications.
+<strong>Melatonin</strong> currently has <strong>94 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (93)
+## Related News (94)
+
+### [Dormire meno di sei ore e umore: il legame osservato in uno studio su 16mila adulti](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNE8yMEc2dzZfbFIwNkhlM2U0dkRWSlVNSVgtX0dTY2dvMk5YNklCLU5WZ2VuZlloNGc4amhCWTNobENuaGVleFJxa0VGdmgxWGN5Qk91ajZMbF9ndXd6UGlKcGZUN3dISWtVYjZFZmRaTDNmclg2Vmtsd1Y5Q2VKV015SVpIaUc5dHFCS2YzUV9MZk5KaXo3eGZtWXdieG9yOS1UWjBPRFd3cm04eVhMMFdaX0puZzBRZHhmSnlaY0tsOVRpZk1pTkp6dHNZUlM3TThtbXo0OFRHZw?oc=5)
+
+2026-11-13 <span class="news-drug-tag">Melatonin</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNE8yMEc2dzZfbFIwNkhlM2U0dkRWSlVNSVgtX0dTY2dvMk5YNklCLU5WZ2VuZlloNGc4amhCWTNobENuaGVleFJxa0VGdmgxWGN5Qk91ajZMbF9ndXd6UGlKcGZUN3dISWtVYjZFZmRaTDNmclg2Vmtsd1Y5Q2VKV015SVpIaUc5dHFCS2YzUV9MZk5KaXo3eGZtWXdieG9yOS1UWjBPRFd3cm04eVhMMFdaX0puZzBRZHhmSnlaY0tsOVRpZk1pTkp6dHNZUlM3TThtbXo0OFRHZw?oc=5)
+
+---
 
 ### [Distinguir entre obesidad clínica y preclínica permite mejorar el diagnóstico e individualizar el tratamiento - Redacción Médica](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRGtOR0ZMVnBBSGRFVHM2dzNSaFNlZWQ0TDlhX3RtVTZHOUhHbGJYb0xna3BvUXRZMlJnTnZFaXFISHNQdzR0a0N3U3pBSzRTVjhMZHVLeUxPOGlTcGNGaUNmUzctb1Vab01PbFlKZGgtSEloVkhjRV8tQ0ROOHF0N2s3c180dV8yUThtbmV1WWl2SVcwQWNOejF4UXhJUFlvby10LURJTUhKYWZDSFFTVXpNMEl1NjZEb3dIMEtiX29rdEJYUUluR2xzSF9ZdTJDbF9FUF9wblhfbnB5aUJ5VnVHX1pYWWNkZHo5a0ZDRkREa0JkdWR1MXRKONIBgAJBVV95cUxPRkJVVnlFTEdQak5FanlSVkNBSXRmdkdnTFZ2V3d6UGtiYW5LOVZ1ZnlyU1VBc0gySzVKTjhpMmNXUG1fc0hHWlRPeTNFbnM4RWZDZkVfLTZubzRTTTdUN3haQmd6dGlOLTBoYkxUZ1FVeUVZazFMTlNBX21Nb2U5UTB1ZWRnbmIzdDF5dEpBNU9ncmdaclJmWFlQVHM4bEFaQ3VJN1ozQVRiYkhJQ29GeHVpTF9MVG1tVENPWEZQS04xRVFaRERiZjYwTU91Sy1lc3NKVWd2TzdOOGtRZ21aNjZhWXRBdXlUVERDay02c0RZUXNGMlQzYWJ4NmlmZkZu?oc=5)
 
@@ -61,6 +69,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmFqRF
 2026-11-13 <span class="news-indication-tag">obesidad</span>
 
 Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWdDcEhaZnNQX0JEV1RjZXhGT182X2VfdUJyZnRDbHJmUFNlQzMzc2d5QnVOSHFUSklqRWM1b3dNQ2dNSUllcTB1OVVIbi1fSHRyZl9sTVdDSzlBLURQUS1lOHZtRm5hWjFjdU9KeVItTnJKZ2lKQWI3VWhIWlRwdmVMUktxV3h0UDZ2cVRRaUJOLVZFelc1NGxKVVNrU0dlc3FFNU10YUJoR3hqN01UMXdNSjBlS03SAbIBQVVfeXFMUEgyWTRzMnR5R1BkcEstYVdFWHVEOTJpV09Pb0Y4SWpSMEY1OFlKbUg0S2RPU1ZqVW9DSzh2NkxUMVRXTjdMYmhLLThscW5LMlpSTGJZSXRCbFlJeEwyb1NZck0wSGFtLWQ1UWhReU56cEVpQndvdGV4bW5QbzI5S2U3Vy1WSndtSVdwTUFYRmpMdUNVN0FLdG56TXJSc1RXRlN6djI3WjIzajctM2QzMVZ5UQ?oc=5)
+
+---
+
+### [Los endocrinólogos alertan sobre la necesidad de prevenir conjuntamente la obesidad y la diabetes - PR Noticias](https://news.google.com/rss/articles/CBMizAFBVV95cUxPdGQzeWY3VnpZUEt3V1VuWGVRM2RhaWJyY1ZXN3VXRUVDTjRtSUo3T2xFNHNuWk81WFYxWjNpc19tN2gyUzc5bDU3Mk92akd0ejJHMG90NUJHNUI2anl3Y3lnWEJLaTZlT01DNlY0NnM2OTA1UThELXlpUGR2cnU1TXZGOGlMYWY0UG1ndUd2SzhQd3B3ZGVVTjV6NGV6ajF5UzMxSC00MW8yWG55NXNpVUl2M0xUamM1YlV6SVFISEx6dUY3TVo2clJ6aWvSAcwBQVVfeXFMT3RkM3lmN1Z6WVBLd1dVblhlUTNkYWlicmNWVzd1V0VFQ040bUlKN09sRTRzblpPNVhWMVozaXNfbTdoMlM3OWw1NzJPdmpHdHoyRzBvdDVCRzVCNmp5d2N5Z1hCS2k2ZU9NQzZWNDZzNjkwNVE4RC15aVBkdnJ1NU12RjhpTGFmNFBtZ3VHdks4UHdwd2RlVU41ejRlemoxeVMzMUgtNDFvMlhueTVzaVVJdjNMVGpjNWJVeklRSEhMenVGN01aNnJSemlr?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [PR Noticias](https://news.google.com/rss/articles/CBMizAFBVV95cUxPdGQzeWY3VnpZUEt3V1VuWGVRM2RhaWJyY1ZXN3VXRUVDTjRtSUo3T2xFNHNuWk81WFYxWjNpc19tN2gyUzc5bDU3Mk92akd0ejJHMG90NUJHNUI2anl3Y3lnWEJLaTZlT01DNlY0NnM2OTA1UThELXlpUGR2cnU1TXZGOGlMYWY0UG1ndUd2SzhQd3B3ZGVVTjV6NGV6ajF5UzMxSC00MW8yWG55NXNpVUl2M0xUamM1YlV6SVFISEx6dUY3TVo2clJ6aWvSAcwBQVVfeXFMT3RkM3lmN1Z6WVBLd1dVblhlUTNkYWlicmNWVzd1V0VFQ040bUlKN09sRTRzblpPNVhWMVozaXNfbTdoMlM3OWw1NzJPdmpHdHoyRzBvdDVCRzVCNmp5d2N5Z1hCS2k2ZU9NQzZWNDZzNjkwNVE4RC15aVBkdnJ1NU12RjhpTGFmNFBtZ3VHdks4UHdwd2RlVU41ejRlemoxeVMzMUgtNDFvMlhueTVzaVVJdjNMVGpjNWJVeklRSEhMenVGN01aNnJSemlr?oc=5)
 
 ---
 
@@ -197,14 +213,6 @@ Source: [Open](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdW
 2026-11-11 <span class="news-indication-tag">migraña</span>
 
 Source: [Diario Estrategia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRmx5WDdubXUxU0d4Vk4zVjl3VmJVMDZ4WEtqOUQ4WHF5SzVpT3pFMWtOM1Z6d2RKTmZ6RnhMVHN4SUJyLVVfTWFqTHNWd28zNXl4NFh1clN0QjkydU1LcVJnYzFOblp6MS04NWNoR0tKYmFnT2JQY0E1TzlvczVGRk1XMnNkbVlROFRNdkxHZDhPdkJDdHc2cFdvTGtGWVpYdjFFdDNqTlZTNll0bnVCYTBqVzFnay0yMjBMWnQtMk5lTVplalpxRzdXdG90dk9vbExkZl96bnpPeWN2YjVOeVE2anRZSHJP?oc=5)
-
----
-
-### [The new high-carb diet that can reverse type 2 diabetes - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXdWYkR0aG9BZ0NaN0pFcjBIZlVRTFBlSGpvcDJfYml1Q0JYdEl1RGd2M0ZrRnkwYnNHU3ZRVDRZMV9FdWdrUG1idk8zSmJqU0dPT3V1ZERPTFZLN2J6bFp5bk1LZE1YazNCLTBFVTlid0VlR05Rb1kwUkJ6SF9ocVpBakdqdmQ2aW9IenZ6djFmclRoNjRqZml1MHJCQ01qVEJVdERyWTVCdw?oc=5)
-
-2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXdWYkR0aG9BZ0NaN0pFcjBIZlVRTFBlSGpvcDJfYml1Q0JYdEl1RGd2M0ZrRnkwYnNHU3ZRVDRZMV9FdWdrUG1idk8zSmJqU0dPT3V1ZERPTFZLN2J6bFp5bk1LZE1YazNCLTBFVTlid0VlR05Rb1kwUkJ6SF9ocVpBakdqdmQ2aW9IenZ6djFmclRoNjRqZml1MHJCQ01qVEJVdERyWTVCdw?oc=5)
 
 ---
 

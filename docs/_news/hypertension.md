@@ -3,9 +3,9 @@ layout: default
 title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 47 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 46 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Bluthochdruck (hypertension) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>47 news articles</strong> and 55 related drugs.
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>46 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -60,7 +60,7 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (47)
+## Related News (46)
 
 ### [Entzündungshemmende Lebensmittel: Was Studien wirklich hergeben - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVl85RFdjUTA1YlVRVW84dDgzY0lnbjJwVDFaLXhfLVRUVmhJWTRrb2J3RGFZWHFOZnVIbWR2OXM3cEJZejFRNkhmWkYtd21hdFVjLUVwaEc2ZGdGOGdZMHNhT0x1TXFqNjVCYWdPWnNhWFgzaDdFanp6TGpXSW1hbG5nVVhabWZxbXRzdmcybjh1UGpHSjZORUhyTQ?oc=5)
 
@@ -75,14 +75,6 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVl85R
 2026-11-12
 
 Source: [ANSA](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTTQ3ZnRqXzcyUFhVTWlrMlBBQ3VGQlRDeXZlMWYxZmY0NjdNaTU3S3p3N0lTdWdhdEExWk5zMzFpSHlMSV9oMW82Q3Z1SXBuQkJ2RVY2MG5RY2Vhdi1HN1lYdlRINDN1cUEzT3dsbURGamZrakQyM3RZTjRDenY2djR0Q25UTGY5cm5DNmpuS2NvNFlzcUpLdTVONVQ0NFlNb2tSdFVEeFlUcFl2MjRsSkdMdjF3aW0tcGZCYmxHR2NRMklDdW1lamM4Rm0tckthM3l5TUZLZ1JueVdaejViSzFjVTh3Vko3R0JZT0M0Y01qV2RwVGozWmlkb9IBgAJBVV95cUxOZVV1UUNSdUd5MkZjc01wVkZpVUxMbnVpeFBCUUc1QkpwbkdGSHg1T2IwOXlIajV6SDV5VGt1YjE4ZVgzTWgzeXQxcHluY3k0M0hxUXI3ZnJLbFVaS0tLbWpDN2ZVTjdoWkFodHRtU0g0SWlMQk90bXd0OFlVVV9qNnQtTFA2b0M1MnZybl9VVEdmN3RCWmp3QkpnT1ZTVEdhMUdldFpqSDR0TVI0N1FRSDdNZXhnYmpjekxXRk82MWR3SUFsS2pzbE9vV09ZdEVRb2FzenM2clJFVWtkTnM4blJUS1RNeFBzSlh0a29nLUdnYm1OdjBXSVRKR2JDOXpk?oc=5)
-
----
-
-### [Sale ricco di potassio: cos'è e perché è un alleato della salute - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMikAJBVV95cUxQeWJvUm9BV3JUTmtaUk9yQnQzWXBNOGlsVXpVMkc0TkxBSUd2V0UyV1dRRjlpX2xYZjlkZ0R3VjFJeFBrdXFqakcyR2FCNDNIX1AwUnlIVk1HTVphSzZINzc3c1c0TEEwQWN1MlRjU3pMNDZaLXZWd25kazVJUEx6djRpQkJVcjZpMWphbmZwOEJORlVYOV9QQnRoRFd2X3puQUpqdE1BdVNqaGszdDJIeldEb3dIYzBYRE82VzJ6ZE02N2Ftbks5TFhuRUVjbFF5RU1DcDNCZzgyQ0luaDJaQk44RjdOYl90aVJtNEZ1RGtpVlo2dFVhM1dxM0Q5SnREVTB3YTg1eFV2cVh3b2FSaNIBzwFBVV95cUxQZm85VEp5dFBfeVkwWm5FZFVrSGVDT19OLWdfZzZwTmk4STBDV2wxVUdjVmNyWUgySXAxTl8zSDNFUGlmNUp4cWdNbDJlandEZy14eGozMjlDNXJDclRvYkxmWGpzdVFwUXYtN1dhZ0c1YWZ0WV9QbXZfRHRzYXZMa3JHR1BQakp6QTgzd1lNTjlyLXRkQnF3Z0Nrdm8xbm9GTW5KX1RlaWRRbVdlNTdiZi1LQ2NkbG4yVFZyUFQ2X3lnUkpaOGlmdE41UDFtTHc?oc=5)
-
-2026-11-12
-
-Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMikAJBVV95cUxQeWJvUm9BV3JUTmtaUk9yQnQzWXBNOGlsVXpVMkc0TkxBSUd2V0UyV1dRRjlpX2xYZjlkZ0R3VjFJeFBrdXFqakcyR2FCNDNIX1AwUnlIVk1HTVphSzZINzc3c1c0TEEwQWN1MlRjU3pMNDZaLXZWd25kazVJUEx6djRpQkJVcjZpMWphbmZwOEJORlVYOV9QQnRoRFd2X3puQUpqdE1BdVNqaGszdDJIeldEb3dIYzBYRE82VzJ6ZE02N2Ftbks5TFhuRUVjbFF5RU1DcDNCZzgyQ0luaDJaQk44RjdOYl90aVJtNEZ1RGtpVlo2dFVhM1dxM0Q5SnREVTB3YTg1eFV2cVh3b2FSaNIBzwFBVV95cUxQZm85VEp5dFBfeVkwWm5FZFVrSGVDT19OLWdfZzZwTmk4STBDV2wxVUdjVmNyWUgySXAxTl8zSDNFUGlmNUp4cWdNbDJlandEZy14eGozMjlDNXJDclRvYkxmWGpzdVFwUXYtN1dhZ0c1YWZ0WV9QbXZfRHRzYXZMa3JHR1BQakp6QTgzd1lNTjlyLXRkQnF3Z0Nrdm8xbm9GTW5KX1RlaWRRbVdlNTdiZi1LQ2NkbG4yVFZyUFQ2X3lnUkpaOGlmdE41UDFtTHc?oc=5)
 
 ---
 

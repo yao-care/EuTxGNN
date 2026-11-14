@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Alirocumab. 10 predicted indications."
 permalink: /news/alirocumab/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Alirocumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (10)
 
 ### [Kardiovaskuläre Prävention bei CKD – Risiko früh erkennen und konsequent handeln - mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCaW5pQjNsQWtMc2gwMUJPVEcxbHFGcEZQWV9JSTNwRTRZWDZLRG92ZFJNTmpPLVd0eHExalgzVVA4a2x6V1pQVE92MDljMTZKMloxcWRQaHJKdDI0NHg4cTJrT2FjMHJGMnFvZnBNN0JveWwxVVh1SWljU3IteGs1ZHI?oc=5)
 
@@ -65,14 +65,6 @@ Source: [Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNV
 2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
 
 Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
-
----
-
-### [Risk factors for kidney disease you didn’t know about - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZEROTmF5S1Q5ZllOVlhNWkRXQXpwRlQ1NGNBLVdnOFR5enhEM0hPMW52UG1OVWk4WjBvNHFTcjVvYXppT3k5cl8wUVdSSllMc2l6QldMMDlFQndUQUp1aWFrS2hjaHVmT3ItZDd5Z2NqbEVWUlY4QmZ6cl9obk8tWlNTUGhfRC05d3BPRFdkWkVjOVJRMk13Z21ERQ?oc=5)
-
-2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">kidney failure</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZEROTmF5S1Q5ZllOVlhNWkRXQXpwRlQ1NGNBLVdnOFR5enhEM0hPMW52UG1OVWk4WjBvNHFTcjVvYXppT3k5cl8wUVdSSllMc2l6QldMMDlFQndUQUp1aWFrS2hjaHVmT3ItZDd5Z2NqbEVWUlY4QmZ6cl9obk8tWlNTUGhfRC05d3BPRFdkWkVjOVJRMk13Z21ERQ?oc=5)
 
 ---
 

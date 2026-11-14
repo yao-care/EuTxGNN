@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Lonafarnib. 1 predicted indications."
 permalink: /news/lonafarnib/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Lonafarnib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Lonafarnib?">
-<strong>Lonafarnib</strong> currently has <strong>78 news articles</strong>, with 1 predicted indications.
+<strong>Lonafarnib</strong> currently has <strong>77 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Lonafarnib with the latest h
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (78)
+## Related News (77)
 
 ### [Entzündungshemmende Lebensmittel: Was Studien wirklich hergeben - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVl85RFdjUTA1YlVRVW84dDgzY0lnbjJwVDFaLXhfLVRUVmhJWTRrb2J3RGFZWHFOZnVIbWR2OXM3cEJZejFRNkhmWkYtd21hdFVjLUVwaEc2ZGdGOGdZMHNhT0x1TXFqNjVCYWdPWnNhWFgzaDdFanp6TGpXSW1hbG5nVVhabWZxbXRzdmcybjh1UGpHSjZORUhyTQ?oc=5)
 
@@ -75,14 +75,6 @@ Source: [ConSalud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzNEZGE2
 
 ---
 
-### [Sale ricco di potassio: cos'è e perché è un alleato della salute - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMikAJBVV95cUxQeWJvUm9BV3JUTmtaUk9yQnQzWXBNOGlsVXpVMkc0TkxBSUd2V0UyV1dRRjlpX2xYZjlkZ0R3VjFJeFBrdXFqakcyR2FCNDNIX1AwUnlIVk1HTVphSzZINzc3c1c0TEEwQWN1MlRjU3pMNDZaLXZWd25kazVJUEx6djRpQkJVcjZpMWphbmZwOEJORlVYOV9QQnRoRFd2X3puQUpqdE1BdVNqaGszdDJIeldEb3dIYzBYRE82VzJ6ZE02N2Ftbks5TFhuRUVjbFF5RU1DcDNCZzgyQ0luaDJaQk44RjdOYl90aVJtNEZ1RGtpVlo2dFVhM1dxM0Q5SnREVTB3YTg1eFV2cVh3b2FSaNIBzwFBVV95cUxQZm85VEp5dFBfeVkwWm5FZFVrSGVDT19OLWdfZzZwTmk4STBDV2wxVUdjVmNyWUgySXAxTl8zSDNFUGlmNUp4cWdNbDJlandEZy14eGozMjlDNXJDclRvYkxmWGpzdVFwUXYtN1dhZ0c1YWZ0WV9QbXZfRHRzYXZMa3JHR1BQakp6QTgzd1lNTjlyLXRkQnF3Z0Nrdm8xbm9GTW5KX1RlaWRRbVdlNTdiZi1LQ2NkbG4yVFZyUFQ2X3lnUkpaOGlmdE41UDFtTHc?oc=5)
-
-2026-11-12 <span class="news-indication-tag">ipertensione</span>
-
-Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMikAJBVV95cUxQeWJvUm9BV3JUTmtaUk9yQnQzWXBNOGlsVXpVMkc0TkxBSUd2V0UyV1dRRjlpX2xYZjlkZ0R3VjFJeFBrdXFqakcyR2FCNDNIX1AwUnlIVk1HTVphSzZINzc3c1c0TEEwQWN1MlRjU3pMNDZaLXZWd25kazVJUEx6djRpQkJVcjZpMWphbmZwOEJORlVYOV9QQnRoRFd2X3puQUpqdE1BdVNqaGszdDJIeldEb3dIYzBYRE82VzJ6ZE02N2Ftbks5TFhuRUVjbFF5RU1DcDNCZzgyQ0luaDJaQk44RjdOYl90aVJtNEZ1RGtpVlo2dFVhM1dxM0Q5SnREVTB3YTg1eFV2cVh3b2FSaNIBzwFBVV95cUxQZm85VEp5dFBfeVkwWm5FZFVrSGVDT19OLWdfZzZwTmk4STBDV2wxVUdjVmNyWUgySXAxTl8zSDNFUGlmNUp4cWdNbDJlandEZy14eGozMjlDNXJDclRvYkxmWGpzdVFwUXYtN1dhZ0c1YWZ0WV9QbXZfRHRzYXZMa3JHR1BQakp6QTgzd1lNTjlyLXRkQnF3Z0Nrdm8xbm9GTW5KX1RlaWRRbVdlNTdiZi1LQ2NkbG4yVFZyUFQ2X3lnUkpaOGlmdE41UDFtTHc?oc=5)
-
----
-
 ### [Kardiovaskuläre Prävention bei CKD – Risiko früh erkennen und konsequent handeln - mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCaW5pQjNsQWtMc2gwMUJPVEcxbHFGcEZQWV9JSTNwRTRZWDZLRG92ZFJNTmpPLVd0eHExalgzVVA4a2x6V1pQVE92MDljMTZKMloxcWRQaHJKdDI0NHg4cTJrT2FjMHJGMnFvZnBNN0JveWwxVVh1SWljU3IteGs1ZHI?oc=5)
 
 2026-11-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
@@ -107,11 +99,11 @@ Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV9
 
 ---
 
-### [Red flag symptom in legs could be sign of heart failure - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+### [Red flag symptom in legs could be sign of heart failure](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 2026-11-11 <span class="news-indication-tag">heart failure</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+Source: [Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 ---
 

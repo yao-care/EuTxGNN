@@ -3,9 +3,9 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 30 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 31 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # dementia (alzheimer disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>30 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>31 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,13 +43,21 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (30)
+## Related News (31)
 
 ### [Lord Cameron: Alzheimer’s made my mother beg my sister to kill her - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkNkUmtBYm9Ya1VPal9VdHBkWDB5WnJtTTJOdXJYSnAwd3l2UTEwRWxKTXNNbjFfbFllSlBvX2tFaXU2NHJVUmxER0h3OXctWmVtcm05MV9xaHhSdGJKZ2ozV2wzZHhmdDVwTlNoS2pHc0JGWVFZOExHX0Y3SGZ4a3F1ejJ2YWtQbDhnSGh5ejIwYzBDemNrYlNyaktXajhOb0tVYVF3?oc=5)
 
 2026-11-13
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkNkUmtBYm9Ya1VPal9VdHBkWDB5WnJtTTJOdXJYSnAwd3l2UTEwRWxKTXNNbjFfbFllSlBvX2tFaXU2NHJVUmxER0h3OXctWmVtcm05MV9xaHhSdGJKZ2ozV2wzZHhmdDVwTlNoS2pHc0JGWVFZOExHX0Y3SGZ4a3F1ejJ2YWtQbDhnSGh5ejIwYzBDemNrYlNyaktXajhOb0tVYVF3?oc=5)
+
+---
+
+### [BBC doctor says dementia study found symptom starting in ear 10 years before memory loss](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZzhLX0lCYUd1V0lMWUFyUVdzRVZ2R0RHV1pXOU5DaTdNZHp2SkRKdUtkelFzckFLeTYyV3JPbU01TXgwbTlPTVVzWEFnSVVWeF96QmdWenNiV3ZiV09CX2p5QkRuSUFvc0RRV2d1aFI5OGRQYk9GSzJ1REdDRU5aUlB30gGHAUFVX3lxTE5jN3htaDFBS05fNXdDLVhxMEtkdUlSdVh4cVo4NHpHN1FCZlJReDB1WHdRU3BPaDlRc2V0dlNtYXQtZy1uSFlMNTk3X0FSUmlScFJwS191MDNtc19vV2R3aGlYRWxzRlBHM2ljMmFSNmUtVi1QQnlzNjQ2WXVLR0hLa0F5LW5kZw?oc=5)
+
+2026-11-13
+
+Source: [Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZzhLX0lCYUd1V0lMWUFyUVdzRVZ2R0RHV1pXOU5DaTdNZHp2SkRKdUtkelFzckFLeTYyV3JPbU01TXgwbTlPTVVzWEFnSVVWeF96QmdWenNiV3ZiV09CX2p5QkRuSUFvc0RRV2d1aFI5OGRQYk9GSzJ1REdDRU5aUlB30gGHAUFVX3lxTE5jN3htaDFBS05fNXdDLVhxMEtkdUlSdVh4cVo4NHpHN1FCZlJReDB1WHdRU3BPaDlRc2V0dlNtYXQtZy1uSFlMNTk3X0FSUmlScFJwS191MDNtc19vV2R3aGlYRWxzRlBHM2ljMmFSNmUtVi1QQnlzNjQ2WXVLR0hLa0F5LW5kZw?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Olanzapine. 2 predicted indications."
 permalink: /news/olanzapine/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Olanzapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>45 news articles</strong>, with 2 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>46 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (45)
+## Related News (46)
 
 ### [Congreso Nacional de Psiquiatría: La depresión es frecuente en el Alzheimer, incluso en etapas previas a su diagnóstico - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNV2VHZmZfZnFtNnRqY3I2dG03NXluYnJuTXZmZW5ocHhfbHJTdlE0Rm0zaTZ2aV9MdTRSRzFQSmJQSmlYS0FjQ2Mta0ZhbHNPYjNIVy1ERl9qTmFCd0xhU1RfTWN6c0tIVzBjT3h3ZTBPTjZsc2pjTVYzaXZ4dzUzeFd3ZXRiVGpNNnp0aWxjSXhUVnhpdk9JNXhKREFHZ2tJOENSTkFIU3FnUHpTb2l4TFFTVldUZWlqbGFQcdIBtwFBVV95cUxOeEt6R0VibmhES3NuNlBBX24tUWxFNkh1UWZ2bTJ1YkJQWkYzcmVCYmVuNkVLZDRvWXU2Uk85TzZXUTF6blAzTTd5NWpUZmpKM1NVMk9xYUk5eXJYc2x4SHNjbWhoWU9VRnl1Q2d5ZW1hX1FzMWdlNE5JbGRUMmtDdkJORWFETDRKdUN5dnVWVktWc0d6ZzU4ZVRWRjhaQWJaUF92TUp5aGxGUVJ2OFA2TFBaVGtSaUE?oc=5)
 
@@ -113,6 +113,14 @@ Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV9
 2026-11-11 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTHU5TFpHRGVUMEc0SlIyZDBFWTdrNU9HbE1fY0ZDV3Vtc1ozX3hPNjRoandZSmtHdkFJZ2Zxczh4ZnBJR3gzMlNuXy1XSjZ1UGdFZ0pRdUdodzFHZ3ZfYmM4YjNIaEJNQ0VrTFZNeUV1VXRDcVVqcVBGdDhDS1BSeHRNaVp2NHhOUU5mdmZxVVJmVXJMRlE4bExYMmFJMm0zb0lzY1lMZjJUbXg1cThENWowZVBDczBJNFNrYlpuaGJZdmFDSU9R?oc=5)
+
+---
+
+### [Antidepressant escitalopram more effective at preventing relapse, analysis finds](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xQm03cDE0bmNERFM5cVdhTjFsNHRNY2hFSVNMaTBhaFJtZ3FJRnhFNUphYkZaMDBZXy01Q0V4eW1LVWFGMWJwdFl2V29DQ2FBekdqWnJtb2I5V1RBaEE?oc=5)
+
+2026-11-11 <span class="news-indication-tag">depression</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xQm03cDE0bmNERFM5cVdhTjFsNHRNY2hFSVNMaTBhaFJtZ3FJRnhFNUphYkZaMDBZXy01Q0V4eW1LVWFGMWJwdFl2V29DQ2FBekdqWnJtb2I5V1RBaEE?oc=5)
 
 ---
 

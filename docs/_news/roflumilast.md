@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Roflumilast. 0 predicted indications."
 permalink: /news/roflumilast/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Roflumilast News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Roflumilast?">
-<strong>Roflumilast</strong> currently has <strong>318 news articles</strong>, with 0 predicted indications.
+<strong>Roflumilast</strong> currently has <strong>320 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Roflumilast with the latest 
 <p><a href="{{ '/drugs/roflumilast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (318)
+## Related News (320)
+
+### [A Rare Case of Urinary Bladder Metastasis From Gastric Adenocarcinoma: A Case Report](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JmalhLZEVoNDdlTzVvaEtxWGhHcU8tV0hLdmVfODl5RDZlQVd6UWlRYmxBR2xLQnVoNU9YZHcwYUNWR1Y5ZzNMV0Y5S25mS0NFZW11cGZidmt2alhidDE1RGJ6dGZRekJwT2ZaR1BORGt5MjNoNWhWZHJoWmxHNlpjWjZxQl9WNndJWEoySUF0cjYxLWpETHJkazVwaFFpbVpWX1Z5VzhHOFBBeEhFWThCSzR2ZzZzWGs2UThHSQ?oc=5)
+
+2026-11-14 <span class="news-indication-tag">carcinoma</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JmalhLZEVoNDdlTzVvaEtxWGhHcU8tV0hLdmVfODl5RDZlQVd6UWlRYmxBR2xLQnVoNU9YZHcwYUNWR1Y5ZzNMV0Y5S25mS0NFZW11cGZidmt2alhidDE1RGJ6dGZRekJwT2ZaR1BORGt5MjNoNWhWZHJoWmxHNlpjWjZxQl9WNndJWEoySUF0cjYxLWpETHJkazVwaFFpbVpWX1Z5VzhHOFBBeEhFWThCSzR2ZzZzWGs2UThHSQ?oc=5)
+
+---
 
 ### [Entzündungshemmende Lebensmittel: Was Studien wirklich hergeben - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVl85RFdjUTA1YlVRVW84dDgzY0lnbjJwVDFaLXhfLVRUVmhJWTRrb2J3RGFZWHFOZnVIbWR2OXM3cEJZejFRNkhmWkYtd21hdFVjLUVwaEc2ZGdGOGdZMHNhT0x1TXFqNjVCYWdPWnNhWFgzaDdFanp6TGpXSW1hbG5nVVhabWZxbXRzdmcybjh1UGpHSjZORUhyTQ?oc=5)
 
@@ -64,6 +72,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-gFBVV9
 
 ---
 
+### [Tumore della prostata, il PSA torna protagonista: dagli USA nuove regole per lo screening. E in Italia?](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdEZ3U2EtOUE1aVhGc0swUkRmUGhrbS00cmYtUk1oc2o5STlBNzNwTVB1anVRMmtxdjhHR0tJbklpQUdLNTBwd1UzOFNOdUNwXzMtWXo1U1Z3S3BDM2h2d3FJVk4wYXBXbUNCeFZTdEtTSWxuY3JoaUpnS2hMeml6UmJ1LTBMQWdmN215OG5GeTNDR1VhYzM4SG1DSUpIS0xsT0ZCTkZ6cWpySTBHdFBWaTRWT1J5RmZSX0ZqdVozSWktMnB0Tmd4MHJfTm9RQmdaM0NKRXBOZXhpRHQwVFJUanJNQ04?oc=5)
+
+2026-11-13 <span class="news-indication-tag">cancer</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdEZ3U2EtOUE1aVhGc0swUkRmUGhrbS00cmYtUk1oc2o5STlBNzNwTVB1anVRMmtxdjhHR0tJbklpQUdLNTBwd1UzOFNOdUNwXzMtWXo1U1Z3S3BDM2h2d3FJVk4wYXBXbUNCeFZTdEtTSWxuY3JoaUpnS2hMeml6UmJ1LTBMQWdmN215OG5GeTNDR1VhYzM4SG1DSUpIS0xsT0ZCTkZ6cWpySTBHdFBWaTRWT1J5RmZSX0ZqdVozSWktMnB0Tmd4MHJfTm9RQmdaM0NKRXBOZXhpRHQwVFJUanJNQ04?oc=5)
+
+---
+
 ### [Shoreham family calls for more brain tumour research funds](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tZXRGUUZGa2tMWG5fS1h2T2xvdTJUaFVyVThxRXpZSFNNWUpKbGFuZ1NRVmVjcGpzc2dLTXlScVMtbG9aaUlkemh3ZHVRN25wOXJ3WkZEck5QVjR4WkE?oc=5)
 
 2026-11-13 <span class="news-indication-tag">tumour</span>
@@ -80,19 +96,19 @@ Source: [Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMilAJBVV95c
 
 ---
 
-### [A Rare Case of Urinary Bladder Metastasis From Gastric Adenocarcinoma: A Case Report](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JmalhLZEVoNDdlTzVvaEtxWGhHcU8tV0hLdmVfODl5RDZlQVd6UWlRYmxBR2xLQnVoNU9YZHcwYUNWR1Y5ZzNMV0Y5S25mS0NFZW11cGZidmt2alhidDE1RGJ6dGZRekJwT2ZaR1BORGt5MjNoNWhWZHJoWmxHNlpjWjZxQl9WNndJWEoySUF0cjYxLWpETHJkazVwaFFpbVpWX1Z5VzhHOFBBeEhFWThCSzR2ZzZzWGs2UThHSQ?oc=5)
-
-2026-11-13 <span class="news-indication-tag">carcinoma</span>
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JmalhLZEVoNDdlTzVvaEtxWGhHcU8tV0hLdmVfODl5RDZlQVd6UWlRYmxBR2xLQnVoNU9YZHcwYUNWR1Y5ZzNMV0Y5S25mS0NFZW11cGZidmt2alhidDE1RGJ6dGZRekJwT2ZaR1BORGt5MjNoNWhWZHJoWmxHNlpjWjZxQl9WNndJWEoySUF0cjYxLWpETHJkazVwaFFpbVpWX1Z5VzhHOFBBeEhFWThCSzR2ZzZzWGs2UThHSQ?oc=5)
-
----
-
 ### [Bowel cancer linked to risky foods that alter gut cells - what's YOUR diet like? - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQeGJCQWYwNlJhdzFFY19PZTAzZU1QXzZmQk9XVHdUYkV3ME54bVAxTDNicVdaUWVtZmE4NWI5dXpJd2pseGwyWHJNb0FnbVVCUFo1TVViRGRYRXJ1WlpoT1FPdUh3a0VKbWdPaEhwRUdRT2syM09leVdFWXZRM3ZJeHF4VU9LYUgtWWNHcXFuVQ?oc=5)
 
 2026-11-13 <span class="news-indication-tag">cancer</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQeGJCQWYwNlJhdzFFY19PZTAzZU1QXzZmQk9XVHdUYkV3ME54bVAxTDNicVdaUWVtZmE4NWI5dXpJd2pseGwyWHJNb0FnbVVCUFo1TVViRGRYRXJ1WlpoT1FPdUh3a0VKbWdPaEhwRUdRT2syM09leVdFWXZRM3ZJeHF4VU9LYUgtWWNHcXFuVQ?oc=5)
+
+---
+
+### [„Dasselbe biologische System könnte entweder Krebs oder Neurodegeneration fördern“](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdFZ1bklJNG9ONmt0akxFam9kZWZqekdzMk8yOWJjdHU2aHdyUDY3ZWxlWVU5eEFBdUo2Y1dSdXp4OGdocTRiMGQ4Y0ZET253T01Gdm9XbXNXVGRNZE5JTGhDSlp4Z0ZWYUw3bEVEZTB2MWV1YmJWOV94T2o1NFFMYkY0dDhyVG9tNHEwTHNjWGNhWXJIMExNVzNaQjl6X3pCZTBJa0ZRenB4bU84SE1FNE1VNGlIZkgtRGZpcmxqd3JTakhpaVI5MEdqSDdqX1gxZ21kVmF5R0xRQkpOSGhTZQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Krebs</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdFZ1bklJNG9ONmt0akxFam9kZWZqekdzMk8yOWJjdHU2aHdyUDY3ZWxlWVU5eEFBdUo2Y1dSdXp4OGdocTRiMGQ4Y0ZET253T01Gdm9XbXNXVGRNZE5JTGhDSlp4Z0ZWYUw3bEVEZTB2MWV1YmJWOV94T2o1NFFMYkY0dDhyVG9tNHEwTHNjWGNhWXJIMExNVzNaQjl6X3pCZTBJa0ZRenB4bU84SE1FNE1VNGlIZkgtRGZpcmxqd3JTakhpaVI5MEdqSDdqX1gxZ21kVmF5R0xRQkpOSGhTZQ?oc=5)
 
 ---
 
@@ -125,6 +141,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE01X3FvbHRZbjFEb
 2026-11-13 <span class="news-indication-tag">tumor</span>
 
 Source: [Il Giorno](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUdrMUUyT0xIMDJianVCX1U1b2ZpN19udlFGU0xIU1Y5b0RkUVd1bktWdVlqTnItNUNhRmZWUk1iRktEa2FlMWZvU0ZJWGYyVW81cHNDYnVFZFRUTmt6ZTJqamlqM0ttSWQwVGY0QXREYnB3WmM3cWR3dXpubDk5Mk9JQVNmUQ?oc=5)
+
+---
+
+### [High-fat diets leave ‘memory’ in gut stem cells that may fuel colon cancer - Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYkFJS2hYT2lieU9fVDAwcVNkQ1JvaUVFYVBRSTR6ek5ZSjJtN3laYWZGNFR4U203Rjdab3JPTWQ4c25TR3h4TWhoQzRPWVRTaDFfZDBhb1ZFUlA4SWZvNThwVWN0eThpS0NneG9IN0RDS2Z3VVBCVDRWczhNNWpxSEhNS1ZXNmhSSnJCUkxFdHlJVkVnZVZiRktCQnM4OXk0b0pwUFF0bUNVUQ?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span>
+
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYkFJS2hYT2lieU9fVDAwcVNkQ1JvaUVFYVBRSTR6ek5ZSjJtN3laYWZGNFR4U203Rjdab3JPTWQ4c25TR3h4TWhoQzRPWVRTaDFfZDBhb1ZFUlA4SWZvNThwVWN0eThpS0NneG9IN0RDS2Z3VVBCVDRWczhNNWpxSEhNS1ZXNmhSSnJCUkxFdHlJVkVnZVZiRktCQnM4OXk0b0pwUFF0bUNVUQ?oc=5)
 
 ---
 
@@ -205,14 +229,6 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV9
 2026-11-12 <span class="news-indication-tag">cancer</span>
 
 Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMipwJBVV95cUxQaDdsWXVmTzlsLUhSdVZFWXBwS3FnWFlBTWdXbGFWdjVwXzEwZjN1Q0ltZEZ1SjExeDlfSDUtYXNUWndFSzZ2eHcwZEpDRG9iRVFzUTVJLXVPMVlVY0NfelB5MFhsWkZQOWJYMnllZ3B4UURaa2tSQlJBemdlS1FOZTJMTnBKNlJxeWN3Y1RsT0FLS25fTGlyS2QzbEx3aVdrWTNjX0phcW5VYm1JZVRFQzFWWlRmdk1GamlCYmM3S0c0THB3NkI4a01zQlFxNTNyME1wX2c3MHhvdjl1NFVFakJwSzZoeUFDVHhkLVBNMjFraXJ3SGM4RWRMVzJuNHRfWFJDeWxZSWkyR0FXN3NtLURvY2Q0dFNwUHpFanRaeFZaWURXLTdB?oc=5)
-
----
-
-### [Sale ricco di potassio: cos'è e perché è un alleato della salute - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMikAJBVV95cUxQeWJvUm9BV3JUTmtaUk9yQnQzWXBNOGlsVXpVMkc0TkxBSUd2V0UyV1dRRjlpX2xYZjlkZ0R3VjFJeFBrdXFqakcyR2FCNDNIX1AwUnlIVk1HTVphSzZINzc3c1c0TEEwQWN1MlRjU3pMNDZaLXZWd25kazVJUEx6djRpQkJVcjZpMWphbmZwOEJORlVYOV9QQnRoRFd2X3puQUpqdE1BdVNqaGszdDJIeldEb3dIYzBYRE82VzJ6ZE02N2Ftbks5TFhuRUVjbFF5RU1DcDNCZzgyQ0luaDJaQk44RjdOYl90aVJtNEZ1RGtpVlo2dFVhM1dxM0Q5SnREVTB3YTg1eFV2cVh3b2FSaNIBzwFBVV95cUxQZm85VEp5dFBfeVkwWm5FZFVrSGVDT19OLWdfZzZwTmk4STBDV2wxVUdjVmNyWUgySXAxTl8zSDNFUGlmNUp4cWdNbDJlandEZy14eGozMjlDNXJDclRvYkxmWGpzdVFwUXYtN1dhZ0c1YWZ0WV9QbXZfRHRzYXZMa3JHR1BQakp6QTgzd1lNTjlyLXRkQnF3Z0Nrdm8xbm9GTW5KX1RlaWRRbVdlNTdiZi1LQ2NkbG4yVFZyUFQ2X3lnUkpaOGlmdE41UDFtTHc?oc=5)
-
-2026-11-12 <span class="news-indication-tag">ipertensione</span>
-
-Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMikAJBVV95cUxQeWJvUm9BV3JUTmtaUk9yQnQzWXBNOGlsVXpVMkc0TkxBSUd2V0UyV1dRRjlpX2xYZjlkZ0R3VjFJeFBrdXFqakcyR2FCNDNIX1AwUnlIVk1HTVphSzZINzc3c1c0TEEwQWN1MlRjU3pMNDZaLXZWd25kazVJUEx6djRpQkJVcjZpMWphbmZwOEJORlVYOV9QQnRoRFd2X3puQUpqdE1BdVNqaGszdDJIeldEb3dIYzBYRE82VzJ6ZE02N2Ftbks5TFhuRUVjbFF5RU1DcDNCZzgyQ0luaDJaQk44RjdOYl90aVJtNEZ1RGtpVlo2dFVhM1dxM0Q5SnREVTB3YTg1eFV2cVh3b2FSaNIBzwFBVV95cUxQZm85VEp5dFBfeVkwWm5FZFVrSGVDT19OLWdfZzZwTmk4STBDV2wxVUdjVmNyWUgySXAxTl8zSDNFUGlmNUp4cWdNbDJlandEZy14eGozMjlDNXJDclRvYkxmWGpzdVFwUXYtN1dhZ0c1YWZ0WV9QbXZfRHRzYXZMa3JHR1BQakp6QTgzd1lNTjlyLXRkQnF3Z0Nrdm8xbm9GTW5KX1RlaWRRbVdlNTdiZi1LQ2NkbG4yVFZyUFQ2X3lnUkpaOGlmdE41UDFtTHc?oc=5)
 
 ---
 
@@ -376,14 +392,6 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NGM4TnUzZ
 
 ---
 
-### [„Dasselbe biologische System könnte entweder Krebs oder Neurodegeneration fördern“](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdFZ1bklJNG9ONmt0akxFam9kZWZqekdzMk8yOWJjdHU2aHdyUDY3ZWxlWVU5eEFBdUo2Y1dSdXp4OGdocTRiMGQ4Y0ZET253T01Gdm9XbXNXVGRNZE5JTGhDSlp4Z0ZWYUw3bEVEZTB2MWV1YmJWOV94T2o1NFFMYkY0dDhyVG9tNHEwTHNjWGNhWXJIMExNVzNaQjl6X3pCZTBJa0ZRenB4bU84SE1FNE1VNGlIZkgtRGZpcmxqd3JTakhpaVI5MEdqSDdqX1gxZ21kVmF5R0xRQkpOSGhTZQ?oc=5)
-
-2026-11-11 <span class="news-indication-tag">Krebs</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdFZ1bklJNG9ONmt0akxFam9kZWZqekdzMk8yOWJjdHU2aHdyUDY3ZWxlWVU5eEFBdUo2Y1dSdXp4OGdocTRiMGQ4Y0ZET253T01Gdm9XbXNXVGRNZE5JTGhDSlp4Z0ZWYUw3bEVEZTB2MWV1YmJWOV94T2o1NFFMYkY0dDhyVG9tNHEwTHNjWGNhWXJIMExNVzNaQjl6X3pCZTBJa0ZRenB4bU84SE1FNE1VNGlIZkgtRGZpcmxqd3JTakhpaVI5MEdqSDdqX1gxZ21kVmF5R0xRQkpOSGhTZQ?oc=5)
-
----
-
 ### [Medizin: Die Fakten hinter der verblüffenden Verbindung zwischen Alzheimer und Krebs](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdDlBc2JBYlV1a2tXSGcwa19oYlJOeFVNd2lGNFhscVpkNDIxNHNTQjRFMElfRFdLNm9vNTUyZ3BzQTZpTzBDVS1ySFZaTXphMjJnYVhCblpCYkhrZW84MGQtSkRJVkFKek51djlQaWVxY3VQSzhhR1VpX3pTbEdlUkhHcG1hVkRBcTJraE9sNVBRWmNCdlRoZkVhcEltQ1lmUXBaNWVQT21zejRMbk95elJxdlprMzI0dUpETGxFanVYZ0hmT3VEcmg5SnoxZ0RTcGU2Qm03V0JEdGp6dzgtdzBxaw?oc=5)
 
 2026-11-11 <span class="news-indication-tag">Krebs</span>
@@ -408,11 +416,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQmY1
 
 ---
 
-### [Red flag symptom in legs could be sign of heart failure - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+### [Red flag symptom in legs could be sign of heart failure](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 2026-11-11 <span class="news-indication-tag">heart failure</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+Source: [Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 ---
 
@@ -509,6 +517,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mZndUdXJUYXB4a
 2026-11-10 <span class="news-indication-tag">cancer</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUZmMVUyenU0NUFybmNIckM4bW9iZWpiWkE4RzVNQ2xoVmtXZW9jVkxncThpakVzR2h6cjRzVzVWNVYwTWtYYlBvSl9YbGo2U1dGOEVySmhyTXVSSGU3cVVCQkdvOGp2SFhwUXl2Vmh3UFdmVEJYY1ZaWmFnVVp6cHB0UVZvMjlLNW81dkZPbGJrVi1EMnhNN0xiam1RM25yV1NPWg?oc=5)
+
+---
+
+### ["Das Krebsrisiko lässt sich um 60 Prozent senken" - Projekt soll Jugendliche für Früherkennung sensibilisieren](https://news.google.com/rss/articles/CBMiogFBVV95cUxNbG5uZG5qUEpGdGl2cjMtTGVjM2IwMFltMkc3SThMRmNfMjhpQkNZajlubDQ0SF9TUDJzY2FHZk9CUHFuN3RGZ0hvbnJ5SHNELXV3WUFFUjZkczQ2MDRvaEVySldwY240Qy1ZanNkX21uby1oeE9HR2ZSS09XZTRyeVN0Nm5VRzB1QnBaQ2wxZXVuWFVUbmo0RlNtaHlHY1ZBYmc?oc=5)
+
+2026-11-10 <span class="news-indication-tag">Krebs</span>
+
+Source: [SWR](https://news.google.com/rss/articles/CBMiogFBVV95cUxNbG5uZG5qUEpGdGl2cjMtTGVjM2IwMFltMkc3SThMRmNfMjhpQkNZajlubDQ0SF9TUDJzY2FHZk9CUHFuN3RGZ0hvbnJ5SHNELXV3WUFFUjZkczQ2MDRvaEVySldwY240Qy1ZanNkX21uby1oeE9HR2ZSS09XZTRyeVN0Nm5VRzB1QnBaQ2wxZXVuWFVUbmo0RlNtaHlHY1ZBYmc?oc=5)
 
 ---
 

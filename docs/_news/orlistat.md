@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Orlistat. 1 predicted indications."
 permalink: /news/orlistat/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Orlistat News
@@ -88,6 +88,14 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2Y0UmN1
 2026-11-13 <span class="news-indication-tag">obesidad</span>
 
 Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWdDcEhaZnNQX0JEV1RjZXhGT182X2VfdUJyZnRDbHJmUFNlQzMzc2d5QnVOSHFUSklqRWM1b3dNQ2dNSUllcTB1OVVIbi1fSHRyZl9sTVdDSzlBLURQUS1lOHZtRm5hWjFjdU9KeVItTnJKZ2lKQWI3VWhIWlRwdmVMUktxV3h0UDZ2cVRRaUJOLVZFelc1NGxKVVNrU0dlc3FFNU10YUJoR3hqN01UMXdNSjBlS03SAbIBQVVfeXFMUEgyWTRzMnR5R1BkcEstYVdFWHVEOTJpV09Pb0Y4SWpSMEY1OFlKbUg0S2RPU1ZqVW9DSzh2NkxUMVRXTjdMYmhLLThscW5LMlpSTGJZSXRCbFlJeEwyb1NZck0wSGFtLWQ1UWhReU56cEVpQndvdGV4bW5QbzI5S2U3Vy1WSndtSVdwTUFYRmpMdUNVN0FLdG56TXJSc1RXRlN6djI3WjIzajctM2QzMVZ5UQ?oc=5)
+
+---
+
+### [Los endocrinólogos alertan sobre la necesidad de prevenir conjuntamente la obesidad y la diabetes - PR Noticias](https://news.google.com/rss/articles/CBMizAFBVV95cUxPdGQzeWY3VnpZUEt3V1VuWGVRM2RhaWJyY1ZXN3VXRUVDTjRtSUo3T2xFNHNuWk81WFYxWjNpc19tN2gyUzc5bDU3Mk92akd0ejJHMG90NUJHNUI2anl3Y3lnWEJLaTZlT01DNlY0NnM2OTA1UThELXlpUGR2cnU1TXZGOGlMYWY0UG1ndUd2SzhQd3B3ZGVVTjV6NGV6ajF5UzMxSC00MW8yWG55NXNpVUl2M0xUamM1YlV6SVFISEx6dUY3TVo2clJ6aWvSAcwBQVVfeXFMT3RkM3lmN1Z6WVBLd1dVblhlUTNkYWlicmNWVzd1V0VFQ040bUlKN09sRTRzblpPNVhWMVozaXNfbTdoMlM3OWw1NzJPdmpHdHoyRzBvdDVCRzVCNmp5d2N5Z1hCS2k2ZU9NQzZWNDZzNjkwNVE4RC15aVBkdnJ1NU12RjhpTGFmNFBtZ3VHdks4UHdwd2RlVU41ejRlemoxeVMzMUgtNDFvMlhueTVzaVVJdjNMVGpjNWJVeklRSEhMenVGN01aNnJSemlr?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [PR Noticias](https://news.google.com/rss/articles/CBMizAFBVV95cUxPdGQzeWY3VnpZUEt3V1VuWGVRM2RhaWJyY1ZXN3VXRUVDTjRtSUo3T2xFNHNuWk81WFYxWjNpc19tN2gyUzc5bDU3Mk92akd0ejJHMG90NUJHNUI2anl3Y3lnWEJLaTZlT01DNlY0NnM2OTA1UThELXlpUGR2cnU1TXZGOGlMYWY0UG1ndUd2SzhQd3B3ZGVVTjV6NGV6ajF5UzMxSC00MW8yWG55NXNpVUl2M0xUamM1YlV6SVFISEx6dUY3TVo2clJ6aWvSAcwBQVVfeXFMT3RkM3lmN1Z6WVBLd1dVblhlUTNkYWlicmNWVzd1V0VFQ040bUlKN09sRTRzblpPNVhWMVozaXNfbTdoMlM3OWw1NzJPdmpHdHoyRzBvdDVCRzVCNmp5d2N5Z1hCS2k2ZU9NQzZWNDZzNjkwNVE4RC15aVBkdnJ1NU12RjhpTGFmNFBtZ3VHdks4UHdwd2RlVU41ejRlemoxeVMzMUgtNDFvMlhueTVzaVVJdjNMVGpjNWJVeklRSEhMenVGN01aNnJSemlr?oc=5)
 
 ---
 
@@ -232,14 +240,6 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95c
 2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Open](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdWN2stbTlTV1NZX2tOY2tzdUFSM0lXSFlYRkdURnJWdHBSUy01bzl4N2JPUURHX1Z2UGZ4NGI3VEZXWnRlel9aQWdQcFNjYUwzN2ZZcXBzT2FVeVRYN09lcmdDTWU3Q1dCZ3FDXzZWWGhtc1MzYkFwMkNSUXZUVW9HTzFpZzdEbDlCdWc?oc=5)
-
----
-
-### [The new high-carb diet that can reverse type 2 diabetes - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXdWYkR0aG9BZ0NaN0pFcjBIZlVRTFBlSGpvcDJfYml1Q0JYdEl1RGd2M0ZrRnkwYnNHU3ZRVDRZMV9FdWdrUG1idk8zSmJqU0dPT3V1ZERPTFZLN2J6bFp5bk1LZE1YazNCLTBFVTlid0VlR05Rb1kwUkJ6SF9ocVpBakdqdmQ2aW9IenZ6djFmclRoNjRqZml1MHJCQ01qVEJVdERyWTVCdw?oc=5)
-
-2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXdWYkR0aG9BZ0NaN0pFcjBIZlVRTFBlSGpvcDJfYml1Q0JYdEl1RGd2M0ZrRnkwYnNHU3ZRVDRZMV9FdWdrUG1idk8zSmJqU0dPT3V1ZERPTFZLN2J6bFp5bk1LZE1YazNCLTBFVTlid0VlR05Rb1kwUkJ6SF9ocVpBakdqdmQ2aW9IenZ6djFmclRoNjRqZml1MHJCQ01qVEJVdERyWTVCdw?oc=5)
 
 ---
 

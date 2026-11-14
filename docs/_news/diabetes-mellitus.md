@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about diabetes (diabetes mellitus). 155 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # diabetes (diabetes mellitus) News
@@ -66,19 +66,19 @@ This page brings together the latest health news about “diabetes” and lists 
 
 ## Related News (155)
 
-### [Una revisión vincula la diabetes tipo 2 con un riesgo 53% mayor de alzhéimer](https://news.google.com/rss/articles/CBMib0FVX3lxTE53VkRCeUdMSGJ0TWJCNnMwdkFJWnpXSDZ2REk5Y0dEYVVxM3RkRUlsZl83VnNSa1NHUlhNQUVlTzUtb3JyaFJyR2ZIUFEyaDRLWmJBRlhPYlp4Y2x1cHFMaHJWenpyS0JXS3l0MWxyTQ?oc=5)
-
-2026-11-13
-
-Source: [https://fomoera.com/](https://news.google.com/rss/articles/CBMib0FVX3lxTE53VkRCeUdMSGJ0TWJCNnMwdkFJWnpXSDZ2REk5Y0dEYVVxM3RkRUlsZl83VnNSa1NHUlhNQUVlTzUtb3JyaFJyR2ZIUFEyaDRLWmJBRlhPYlp4Y2x1cHFMaHJWenpyS0JXS3l0MWxyTQ?oc=5)
-
----
-
 ### [‘Never thought I’d eat that’: how vegetable prescriptions are helping Britons with diabetes - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNRXZVUi11a0MtVWhnSlZiMlQ5cF84TVJ2NnQyclZOaGt0ZXFsbF9zblNGTTNESGE5UTdFN3F4VFJZQU9HclV3Z2w1VHVGd2hISzFlZ2xqTmo5dWVFX2hoZjV6N3BRaDM1R1dHaTBUaG9Kb1pCTGxXOHJ5dVNLZVJFYzFzUG9rTG91bDZxVUZ6VXkyYzVqVVV4TU41Q0hKZw?oc=5)
 
 2026-11-13
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNRXZVUi11a0MtVWhnSlZiMlQ5cF84TVJ2NnQyclZOaGt0ZXFsbF9zblNGTTNESGE5UTdFN3F4VFJZQU9HclV3Z2w1VHVGd2hISzFlZ2xqTmo5dWVFX2hoZjV6N3BRaDM1R1dHaTBUaG9Kb1pCTGxXOHJ5dVNLZVJFYzFzUG9rTG91bDZxVUZ6VXkyYzVqVVV4TU41Q0hKZw?oc=5)
+
+---
+
+### [Una revisión vincula la diabetes tipo 2 con un riesgo 53% mayor de alzhéimer](https://news.google.com/rss/articles/CBMib0FVX3lxTE53VkRCeUdMSGJ0TWJCNnMwdkFJWnpXSDZ2REk5Y0dEYVVxM3RkRUlsZl83VnNSa1NHUlhNQUVlTzUtb3JyaFJyR2ZIUFEyaDRLWmJBRlhPYlp4Y2x1cHFMaHJWenpyS0JXS3l0MWxyTQ?oc=5)
+
+2026-11-13
+
+Source: [https://fomoera.com/](https://news.google.com/rss/articles/CBMib0FVX3lxTE53VkRCeUdMSGJ0TWJCNnMwdkFJWnpXSDZ2REk5Y0dEYVVxM3RkRUlsZl83VnNSa1NHUlhNQUVlTzUtb3JyaFJyR2ZIUFEyaDRLWmJBRlhPYlp4Y2x1cHFMaHJWenpyS0JXS3l0MWxyTQ?oc=5)
 
 ---
 
@@ -159,6 +159,14 @@ Source: [https://www.infocop.es/](https://news.google.com/rss/articles/CBMiugFBV
 2026-11-12
 
 Source: [LokalKlick](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2EtbW5ydXBEOG56UDdkZXZTamE5cVhDZEdwajJQbGJJTHV0SUhjTEJaRUNZRHBpZnVqVkpCUndvdkpyOVIzWG9HM0s5bjFNc0NUekx0XzFFMlNHZERKSXJ1UEVKbW1tQ04zVDduV1FWUDJVT0lESzZpM0RtcXUtVXRvQjYtS3dnUlRuTXk3Sm4xS0xXM3Ztc3Y4MkJPTW51aE1xaF96cjB0WEtyZDNCbVliOXlXY1BIXzFz?oc=5)
+
+---
+
+### [Los endocrinólogos alertan sobre la necesidad de prevenir conjuntamente la obesidad y la diabetes - PR Noticias](https://news.google.com/rss/articles/CBMizAFBVV95cUxPdGQzeWY3VnpZUEt3V1VuWGVRM2RhaWJyY1ZXN3VXRUVDTjRtSUo3T2xFNHNuWk81WFYxWjNpc19tN2gyUzc5bDU3Mk92akd0ejJHMG90NUJHNUI2anl3Y3lnWEJLaTZlT01DNlY0NnM2OTA1UThELXlpUGR2cnU1TXZGOGlMYWY0UG1ndUd2SzhQd3B3ZGVVTjV6NGV6ajF5UzMxSC00MW8yWG55NXNpVUl2M0xUamM1YlV6SVFISEx6dUY3TVo2clJ6aWvSAcwBQVVfeXFMT3RkM3lmN1Z6WVBLd1dVblhlUTNkYWlicmNWVzd1V0VFQ040bUlKN09sRTRzblpPNVhWMVozaXNfbTdoMlM3OWw1NzJPdmpHdHoyRzBvdDVCRzVCNmp5d2N5Z1hCS2k2ZU9NQzZWNDZzNjkwNVE4RC15aVBkdnJ1NU12RjhpTGFmNFBtZ3VHdks4UHdwd2RlVU41ejRlemoxeVMzMUgtNDFvMlhueTVzaVVJdjNMVGpjNWJVeklRSEhMenVGN01aNnJSemlr?oc=5)
+
+2026-11-12
+
+Source: [PR Noticias](https://news.google.com/rss/articles/CBMizAFBVV95cUxPdGQzeWY3VnpZUEt3V1VuWGVRM2RhaWJyY1ZXN3VXRUVDTjRtSUo3T2xFNHNuWk81WFYxWjNpc19tN2gyUzc5bDU3Mk92akd0ejJHMG90NUJHNUI2anl3Y3lnWEJLaTZlT01DNlY0NnM2OTA1UThELXlpUGR2cnU1TXZGOGlMYWY0UG1ndUd2SzhQd3B3ZGVVTjV6NGV6ajF5UzMxSC00MW8yWG55NXNpVUl2M0xUamM1YlV6SVFISEx6dUY3TVo2clJ6aWvSAcwBQVVfeXFMT3RkM3lmN1Z6WVBLd1dVblhlUTNkYWlicmNWVzd1V0VFQ040bUlKN09sRTRzblpPNVhWMVozaXNfbTdoMlM3OWw1NzJPdmpHdHoyRzBvdDVCRzVCNmp5d2N5Z1hCS2k2ZU9NQzZWNDZzNjkwNVE4RC15aVBkdnJ1NU12RjhpTGFmNFBtZ3VHdks4UHdwd2RlVU41ejRlemoxeVMzMUgtNDFvMlhueTVzaVVJdjNMVGpjNWJVeklRSEhMenVGN01aNnJSemlr?oc=5)
 
 ---
 
@@ -439,14 +447,6 @@ Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGI0
 2026-11-11
 
 Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDdVS3pURUVicTROR2U3a09YS2tuM3ZjcHB4ckFlMURKTjhXbi1nWEJZcGJBVndiRml0bEVlY1ZJSXJNWGFjMEJhN1lBWE9aM2JxOWhZS1RUTHRIX3dJWnlFcFF4REJpT3Yzc2tTZ3k5NUtrUEloTHpfeS1XUzhjV2ZqSHI0R3BOT1RLbnR1UEdjQy1FWTlqZXFpdENsSTdoWGpXck5STDItc2hKSzBnWkFIMy3SAa8BQVVfeXFMTTROd3FhV21XUlBieGN3dXBXVkhCX1R5UnNNWGlyMXdHWi1UN2R2QVhITjNyQW11NU1aSGhKXzlqdVRSamlzbFFQbTZRY0RYcDhCTldfaHk2LU52ZEdzVmVMR0JqQk1SZG11dUprbjFWbzFaUmRBejVKT21nOFJIY1VuMXlWYmZmX1F5VjdBSXlKaG5xT1dhc0F0dDhfejZqRGNCVEsxVTZqRVBTQ21ERQ?oc=5)
-
----
-
-### [Risk factors for kidney disease you didn’t know about - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZEROTmF5S1Q5ZllOVlhNWkRXQXpwRlQ1NGNBLVdnOFR5enhEM0hPMW52UG1OVWk4WjBvNHFTcjVvYXppT3k5cl8wUVdSSllMc2l6QldMMDlFQndUQUp1aWFrS2hjaHVmT3ItZDd5Z2NqbEVWUlY4QmZ6cl9obk8tWlNTUGhfRC05d3BPRFdkWkVjOVJRMk13Z21ERQ?oc=5)
-
-2026-11-11
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZEROTmF5S1Q5ZllOVlhNWkRXQXpwRlQ1NGNBLVdnOFR5enhEM0hPMW52UG1OVWk4WjBvNHFTcjVvYXppT3k5cl8wUVdSSllMc2l6QldMMDlFQndUQUp1aWFrS2hjaHVmT3ItZDd5Z2NqbEVWUlY4QmZ6cl9obk8tWlNTUGhfRC05d3BPRFdkWkVjOVJRMk13Z21ERQ?oc=5)
 
 ---
 
