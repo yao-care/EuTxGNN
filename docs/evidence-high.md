@@ -10,6 +10,11 @@ permalink: /evidence-high/
 
 # High Evidence Level Drugs
 
+<!-- page-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
+{% assign pd_m = site.data.drug_stats.level_counts.L1 | plus: site.data.drug_stats.level_counts.L2 %}
+This page lists **{{ pd_m }}** of the **{{ site.data.drug_stats.total_drugs }}** medicines with a published report on this site ({{ pd_m | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}%). Level definitions: [Methodology]({{ '/methodology/' | relative_url }}).
+<!-- page-data:end -->
+
 Candidates with strong clinical trial evidence for priority evaluation
 
 Which of these drugs have trial evidence for their predicted new indication, and how many registered trials are cited? See [EU medicines with clinical-trial evidence for a new indication]({{ '/clinical-trial-evidence/' | relative_url }}).

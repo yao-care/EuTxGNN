@@ -10,6 +10,11 @@ permalink: /evidence-low/
 
 # AI Prediction Only Drugs
 
+<!-- page-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
+{% assign pd_m = site.data.drug_stats.level_counts.L5 %}
+This page lists **{{ pd_m }}** of the **{{ site.data.drug_stats.total_drugs }}** medicines with a published report on this site ({{ pd_m | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}%). Level definitions: [Methodology]({{ '/methodology/' | relative_url }}).
+<!-- page-data:end -->
+
 TxGNN model predictions without clinical evidence - research hypotheses for exploration
 
 ---
