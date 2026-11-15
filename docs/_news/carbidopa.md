@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Carbidopa?">
-<strong>Carbidopa</strong> currently has <strong>45 news articles</strong>, with 0 predicted indications.
+<strong>Carbidopa</strong> currently has <strong>49 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (45)
+## Related News (49)
+
+### [Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTkwwbk1IUkI0ZVdqREQ0TWQtck5ETTMtYzVLX2o0RFhZYW5ROWJnNFF1Yzlab0pES1o4Q2RaS3JIb1Bwa0NkNHg0UWM2ME5ESHkzcmtJMUpNcHI5TXAwb2hLMGN3ZUpOY0hPNlB3bHotR3M0V2JkdzJzVWxkWnBkdzZKdTBKSG4yRFh2OFdCY2xDTVRDRDU3QWdqeE1DaURINFR6eW5CMEl5SnRYWHRmRWVfeVl4VS03UFVQUWszcW9JVFRCRkdUZkNNWXNSd1JKSWxyYjd5RllpWmwyV2NVMXJnMVlGdDhhMEJmTms2eXR4bk1n?oc=5)
+
+2026-11-15 <span class="news-indication-tag">maladie de Parkinson</span>
+
+Source: [franceinfo](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTkwwbk1IUkI0ZVdqREQ0TWQtck5ETTMtYzVLX2o0RFhZYW5ROWJnNFF1Yzlab0pES1o4Q2RaS3JIb1Bwa0NkNHg0UWM2ME5ESHkzcmtJMUpNcHI5TXAwb2hLMGN3ZUpOY0hPNlB3bHotR3M0V2JkdzJzVWxkWnBkdzZKdTBKSG4yRFh2OFdCY2xDTVRDRDU3QWdqeE1DaURINFR6eW5CMEl5SnRYWHRmRWVfeVl4VS03UFVQUWszcW9JVFRCRkdUZkNNWXNSd1JKSWxyYjd5RllpWmwyV2NVMXJnMVlGdDhhMEJmTms2eXR4bk1n?oc=5)
+
+---
+
+### [Témoignage. Covid long : « C’est comme si le cerveau marchait au ralenti », même cinq ans après la maladie - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZC1WWWF6d1dwZnFHakllQ3BiUE1WTE4taHpuWFJILS1RTTdBTEJPS3k3NzF3b05Qb0pNWENfZmFrbjcwaWtvLXNkZ21kSVBKRUgwaGRKNmtlVmdXRmtkeW5wT2NJNUdNSnJ2R0FkNXBjcDhkeTNjUHpnMzd3aExTb0NUMDVJNWdhU3JtT1cxVXFNZ0dIbEFzQkU2SnBRd3NGZG54SnV6M210U2lRNWpTTzVXaGRfWGZpWnhDMWRrc2VfbDYycV9nc0VVTQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZC1WWWF6d1dwZnFHakllQ3BiUE1WTE4taHpuWFJILS1RTTdBTEJPS3k3NzF3b05Qb0pNWENfZmFrbjcwaWtvLXNkZ21kSVBKRUgwaGRKNmtlVmdXRmtkeW5wT2NJNUdNSnJ2R0FkNXBjcDhkeTNjUHpnMzd3aExTb0NUMDVJNWdhU3JtT1cxVXFNZ0dIbEFzQkU2SnBRd3NGZG54SnV6M210U2lRNWpTTzVXaGRfWGZpWnhDMWRrc2VfbDYycV9nc0VVTQ?oc=5)
+
+---
 
 ### [Lord Cameron says Alzheimer’s made mother beg sister to end her life - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1djYTkycWtPdjZEMThzTzhMbUtGQlBYdHQtc3d4ektxUVZlUHRLeFBRaFVIVkpxakUzNElLQjhkYVlaWkRYU0g0ZkFiZnh3OE1hbU4yTk9GT0l0Z2FXR0VlU3lXWXJuZDN6QUUxSElaaEN4R3ZpQktjbTktaHN0SFR2bUhPb250WFhRMEdLeW5uS1RSQUpaeVlsM21DQklxdUJ5UFhR?oc=5)
 
@@ -56,9 +72,17 @@ Source: [BuzzFeed](https://news.google.com/rss/articles/CBMiekFVX3lxTE01cjB1OWg0
 
 ---
 
+### [Stanford Scientists Discover Resting Brain Activity May Predict Alzheimer's Years Before Memory Decline](https://news.google.com/rss/articles/CBMiywFBVV95cUxPeTZmcWotSFlrWXUwU3RIT3hYRWJKRUxwSUQ3U0NkYW4xSW9rREFvMjNTdDR0aDNKZnZWLUg2SV9OX0VzRTJ5b3JiNG1xbWoxaFVqa0FydmdqZ0t1Zm1oMDM4Q0VWSjdROXg5eF9xQTEyQnpwS2cwUUMwZHdheXB6VjBVOUdYRDhtcnZjOEgtNS1uMXpMRWd0Sk1TNXBITDhwQXQ0amZIc2dyRVAzNThzNkduZmVVM0FOeHd6Z0FQaFR3VTJoN2ItYTVYbw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiywFBVV95cUxPeTZmcWotSFlrWXUwU3RIT3hYRWJKRUxwSUQ3U0NkYW4xSW9rREFvMjNTdDR0aDNKZnZWLUg2SV9OX0VzRTJ5b3JiNG1xbWoxaFVqa0FydmdqZ0t1Zm1oMDM4Q0VWSjdROXg5eF9xQTEyQnpwS2cwUUMwZHdheXB6VjBVOUdYRDhtcnZjOEgtNS1uMXpMRWd0Sk1TNXBITDhwQXQ0amZIc2dyRVAzNThzNkduZmVVM0FOeHd6Z0FQaFR3VTJoN2ItYTVYbw?oc=5)
+
+---
+
 ### [Six unusual smells that could reveal a hidden health problem - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcW1qZ1JiUXFRZnMtN2Y3WE8xc2c3Rm1kVFRTVEd5QldiN3dJMHJDcTZ1OFptRi1KMTNTY1VRMWFJT25kWVdqbzlrd1BTbzdhczhsTzJHajdKTFZSaVBJVlkzSUp3QjZISTZjeVV3RnRyNGJuOGhkcTlZLTJkcnNaSS0zeXBKSks0YTI2LVVrbElDZ1otVVdTOWlraTg?oc=5)
 
-2026-11-14 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">cancer</span>
+2026-11-14 <span class="news-indication-tag">dementia</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcW1qZ1JiUXFRZnMtN2Y3WE8xc2c3Rm1kVFRTVEd5QldiN3dJMHJDcTZ1OFptRi1KMTNTY1VRMWFJT25kWVdqbzlrd1BTbzdhczhsTzJHajdKTFZSaVBJVlkzSUp3QjZISTZjeVV3RnRyNGJuOGhkcTlZLTJkcnNaSS0zeXBKSks0YTI2LVVrbElDZ1otVVdTOWlraTg?oc=5)
 
@@ -173,6 +197,14 @@ Source: [Univadis](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS01Ibm02
 2026-11-10 <span class="news-indication-tag">dementia</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XUFFyaFRpSlRERUYzWlgycHBQZXZ6WEp0QjJTbl9WX21peFJ5Z2FRQXp2QWFCNEREeTVMRlNZd01Kc01pb3o1RnVuTEwwUVpEbUxxQkt1cU9PWVVCX29z?oc=5)
+
+---
+
+### [Regular coffee consumption alters gut bacteria and digestive physiology](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1FhdkhsTjR3YVhyR29VSU9GU1M1NlI1MmsyS2hSNDlmU3V1ZEdwN3Fpc2Z4VVF1U2RxWFExREcyeDFuQkFMODU3enNuZVBXb2hiUXBlNGNES19PaVpieFdoOFlLYWpfaVRlWTZtZVhFNDY4dUZJaHUtemZiSTdlcUEyM0NvNHZpcEdQYkpXd0JOOWl5bzZjbVhfWTVXLWhrNmRlNll4T1M4eDcwcjB4NFdSeUVVY3lBT0w4?oc=5)
+
+2026-11-10 <span class="news-indication-tag">Parkinson's</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1FhdkhsTjR3YVhyR29VSU9GU1M1NlI1MmsyS2hSNDlmU3V1ZEdwN3Fpc2Z4VVF1U2RxWFExREcyeDFuQkFMODU3enNuZVBXb2hiUXBlNGNES19PaVpieFdoOFlLYWpfaVRlWTZtZVhFNDY4dUZJaHUtemZiSTdlcUEyM0NvNHZpcEdQYkpXd0JOOWl5bzZjbVhfWTVXLWhrNmRlNll4T1M4eDcwcjB4NFdSeUVVY3lBT0w4?oc=5)
 
 ---
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Schlaganfall (stroke) News"
+title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 96 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 98 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-15
 ---
 
-# Schlaganfall (stroke) News
+# ictus (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>96 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about ictus (stroke)?">
+<strong>ictus (stroke)</strong> currently has <strong>98 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,31 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (96)
+## Related News (98)
+
+### [Ictus antes de los 50 años: por qué preocupa su aumento en España y cuáles son las señales de alarma que no debes ignorar](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdVlDelM4TXhDaUFudjJfMUFpUTZGMl9LTEs4WGF0ZUVGaXptRFhZQXNrNVA4QUVlY1o1WTA1a21TZGh6XzB2WjM3WTNsVUNJOVpzR0xFSW5FNjkzQVVEWWE1Sk0xRjhsRW4ta094MTFSbVJWZUFudUp2WkVsTGRmNVRZU045WGhWZWx3dGpMMURqR0s2c25fQ3BxV0lNb1k1Tm5WRDBEQVBlLUdpM1A2V3VkVm5uR0lzRjl1YXJ5Z0kxM2tCMXZkUU9nRzlKUdIB0wFBVV95cUxQNkxrSFlzOTNrZUppYThscURaMjFyUG03MkFRTWdCbmFrUW5aVlJKSTBxRDZ5MHBnb0pxa21KaFRmSldxQjJvRWhmbW52R2VUVEJEamxDV1V5aEdKdmRWeVFiNUZuMXdjX3l4WF80bEZKWURTUk52QjZGenYySDgzaml1TXo5MEw2N2doWDJ0aDk2OHZjb01GLTREVFhLQlY3eVpoZXdMU0xScHhzUENBcTRxYlpaS3NSVkhJTUVPYkkzWGtnSE9PSktfaGU4dkNJR2dj?oc=5)
+
+2026-11-15
+
+Source: [Demócrata](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdVlDelM4TXhDaUFudjJfMUFpUTZGMl9LTEs4WGF0ZUVGaXptRFhZQXNrNVA4QUVlY1o1WTA1a21TZGh6XzB2WjM3WTNsVUNJOVpzR0xFSW5FNjkzQVVEWWE1Sk0xRjhsRW4ta094MTFSbVJWZUFudUp2WkVsTGRmNVRZU045WGhWZWx3dGpMMURqR0s2c25fQ3BxV0lNb1k1Tm5WRDBEQVBlLUdpM1A2V3VkVm5uR0lzRjl1YXJ5Z0kxM2tCMXZkUU9nRzlKUdIB0wFBVV95cUxQNkxrSFlzOTNrZUppYThscURaMjFyUG03MkFRTWdCbmFrUW5aVlJKSTBxRDZ5MHBnb0pxa21KaFRmSldxQjJvRWhmbW52R2VUVEJEamxDV1V5aEdKdmRWeVFiNUZuMXdjX3l4WF80bEZKWURTUk52QjZGenYySDgzaml1TXo5MEw2N2doWDJ0aDk2OHZjb01GLTREVFhLQlY3eVpoZXdMU0xScHhzUENBcTRxYlpaS3NSVkhJTUVPYkkzWGtnSE9PSktfaGU4dkNJR2dj?oc=5)
+
+---
+
+### [Perché l’ictus è in aumento tra i cinquantenni - la Repubblica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEl2SU9CLTY2WldKOGRXR1Uza0RBZ3VjakFnZUR5X3ZPMGpvVVlBaUgxcjkzSEtkbVBGU1A4UWtVOS1XTWd1N094aDNHQmo1NU9OYVI0R2IzTFBEbnkyeml1cU9FRVhveTRxU1NJdmtINVVqQnVMcWZQU3lEQ2k4c0lyZEpvVjg2MDBjcHBkcG4tTXU4dThEb0pmeV9GTnNMdEQwN25pMG5vemNyc1VDYUlQVlREZmVyYlFrV0NtSnZqWGpMcFpDT3dpZGtWOE1I0gHWAUFVX3lxTE0tRkRuTVNyVFU1RXZPU0hZeC16bjZiMjBNNVpRS09TYmZOYnhEVThqNlB5Tk1hUFZ6NV9qUjYtbVdkX0FHcXhBWmQzS29RT0o0bFNjR2FscTlQYXdfVVF5RHplMDUtRlc1NGdOQkE1R3czVnZSLWNiMGxBVVJVTnU2Ymxhc3BTWC04bFFKZ09UaF9zUHJrTkdjRlJ3M0h3VkJ4TTZaQzk3N0ZCX2xrbFh5RENXcERrOWh1S1phdHNaTDR1OHJnUmZCUlREcUVyZTVWZm93VkE?oc=5)
+
+2026-11-15
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEl2SU9CLTY2WldKOGRXR1Uza0RBZ3VjakFnZUR5X3ZPMGpvVVlBaUgxcjkzSEtkbVBGU1A4UWtVOS1XTWd1N094aDNHQmo1NU9OYVI0R2IzTFBEbnkyeml1cU9FRVhveTRxU1NJdmtINVVqQnVMcWZQU3lEQ2k4c0lyZEpvVjg2MDBjcHBkcG4tTXU4dThEb0pmeV9GTnNMdEQwN25pMG5vemNyc1VDYUlQVlREZmVyYlFrV0NtSnZqWGpMcFpDT3dpZGtWOE1I0gHWAUFVX3lxTE0tRkRuTVNyVFU1RXZPU0hZeC16bjZiMjBNNVpRS09TYmZOYnhEVThqNlB5Tk1hUFZ6NV9qUjYtbVdkX0FHcXhBWmQzS29RT0o0bFNjR2FscTlQYXdfVVF5RHplMDUtRlc1NGdOQkE1R3czVnZSLWNiMGxBVVJVTnU2Ymxhc3BTWC04bFFKZ09UaF9zUHJrTkdjRlJ3M0h3VkJ4TTZaQzk3N0ZCX2xrbFh5RENXcERrOWh1S1phdHNaTDR1OHJnUmZCUlREcUVyZTVWZm93VkE?oc=5)
+
+---
+
+### [Ictus, l’intelligenza artificiale cerca le lesioni difficili da vedere: i risultati su oltre 6mila pazienti](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUDlsMGpmWFdzSk1nbWlVMmdqNzhyRWh5ZUNobmhOU2hFNGNNWkktdTExeEFYUlhTNUZPaUttYmFfQzBSSjRvWTJaLWJ4LVpXRW9TSDBHRHZ2T3hVNFlKUEViU2tSbzJDbjhqbmtYV3F1U01XVjZsa1dtbzJoRkF5T3pxWlA1MTRFYWpNQmZUajhob2RmLS1pVmVzU1Q4WmJQQV9KN1ltRHlFZW8tZDVNRDU0dkdRaVhnVkt1RWNSOHNOVjR2ZmREUlppVzQya2xSRDlDZHV3RUdIVnBvdUlFZVBxMkpFaG9hbUhOV050NU9WY3Y4N0ZZ?oc=5)
+
+2026-11-15
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUDlsMGpmWFdzSk1nbWlVMmdqNzhyRWh5ZUNobmhOU2hFNGNNWkktdTExeEFYUlhTNUZPaUttYmFfQzBSSjRvWTJaLWJ4LVpXRW9TSDBHRHZ2T3hVNFlKUEViU2tSbzJDbjhqbmtYV3F1U01XVjZsa1dtbzJoRkF5T3pxWlA1MTRFYWpNQmZUajhob2RmLS1pVmVzU1Q4WmJQQV9KN1ltRHlFZW8tZDVNRDU0dkdRaVhnVkt1RWNSOHNOVjR2ZmREUlppVzQya2xSRDlDZHV3RUdIVnBvdUlFZVBxMkpFaG9hbUhOV050NU9WY3Y4N0ZZ?oc=5)
+
+---
 
 ### [Abnehmspritze (Ozempic, Wegovy): Studie warnt vor höherem Sterberisiko - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQTJwbWVQTC1aR29aVnlkTXpWU05WWm42RGI2eHN4cUNFMEZrSnB6X0N2M0p2OVo2bTFodHdZT1p4SVFWTDRUNnNUZHRSTzcxSEhXTXhZd3NqdWl6cDZsU0lUcHltWEo5UkpFdUFPRnpOd2ZvVVF4c0hIZTRYdGFZVmViOUdYRm95ekVLU3dKcTRScXVMeUZzSE9xUzdWUEdMODZDUkYxSmJSSVhGc2psTVVpX2ljOVBrajl6SmdCdGhsNnZPQkhQcQ?oc=5)
 
@@ -250,14 +274,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24
 2026-11-09
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1ienhKNDlaT1VGTml4dmZ2Z05QaU5TbVNmRnNHaWZfY19HR19PTTA1TjI1MXREX3R2b0J2MXV6MlczSFV3QXVwb0JsNDEtV01LSlVLbFh4V2NMR0tHcGR1bWR3QVVaVF84cENQdXF1WTljZTN2MjVPMmVONjhGVVdDMVc?oc=5)
-
----
-
-### [I almost died after a toothache led to sepsis and a rare heart condition](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
-
-2026-11-09
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
 
 ---
 

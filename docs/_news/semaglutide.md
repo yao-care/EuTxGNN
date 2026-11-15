@@ -97,7 +97,7 @@ Source: [Farmacosalud](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNVlr
 
 ### [Rischio di perdita della vista per chi usa Ozempic o altri farmaci dimagranti: l'allarme che arriva dagli Usa](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdWN2stbTlTV1NZX2tOY2tzdUFSM0lXSFlYRkdURnJWdHBSUy01bzl4N2JPUURHX1Z2UGZ4NGI3VEZXWnRlel9aQWdQcFNjYUwzN2ZZcXBzT2FVeVRYN09lcmdDTWU3Q1dCZ3FDXzZWWGhtc1MzYkFwMkNSUXZUVW9HTzFpZzdEbDlCdWc?oc=5)
 
-2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Open](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdWN2stbTlTV1NZX2tOY2tzdUFSM0lXSFlYRkdURnJWdHBSUy01bzl4N2JPUURHX1Z2UGZ4NGI3VEZXWnRlel9aQWdQcFNjYUwzN2ZZcXBzT2FVeVRYN09lcmdDTWU3Q1dCZ3FDXzZWWGhtc1MzYkFwMkNSUXZUVW9HTzFpZzdEbDlCdWc?oc=5)
 

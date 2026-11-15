@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Zonisamide?">
-<strong>Zonisamide</strong> currently has <strong>37 news articles</strong>, with 9 predicted indications.
+<strong>Zonisamide</strong> currently has <strong>38 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Zonisamide with the latest h
 <p><a href="{{ '/drugs/zonisamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (37)
+## Related News (38)
+
+### [Wie viele Tassen Kaffee pro Tag fürs Herz unbedenklich sind - Ärzte Zeitung](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlhJRkcyV2JhTUF2ejhzUmM5Z0pVRWNrS2VyblRyZ05RVzhvaWc5TFB0VGJYSG9DNnFMVUlFY2lxMXdfS3JjTV84NGtVV0JQd2xiWXo5Qk56SGlRQTlxRTV2ck52RVNHYXFRWV96emN2LWt0emduRE94cF8xVzF5ZjJzQ1ZMTjg4SEg3NHVjY21JVFdyVjI0WmxCSlpvMnF1MXUyeC1jTQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlhJRkcyV2JhTUF2ejhzUmM5Z0pVRWNrS2VyblRyZ05RVzhvaWc5TFB0VGJYSG9DNnFMVUlFY2lxMXdfS3JjTV84NGtVV0JQd2xiWXo5Qk56SGlRQTlxRTV2ck52RVNHYXFRWV96emN2LWt0emduRE94cF8xVzF5ZjJzQ1ZMTjg4SEg3NHVjY21JVFdyVjI0WmxCSlpvMnF1MXUyeC1jTQ?oc=5)
+
+---
 
 ### [Inyectar un virus en el cerebro para frenar los ataques de epilepsia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRy1HVzNhWmFoU1Q3dWFkYWdxZ0VaRUMtTjRIUWpHcnN0VUN2Q3YyOFVYeE9WZk00enJFRm9JNE1hR0hyZ1hfMUFUS0xwQ2I5N1dKM3hZWS1ydUZPenM0RGZRRUNPUTNKbkRYWWg2dnJEN0JnYW9rbzVVaGYyMExjZTJ1YllTckJHRkhQQ3d1UW50T3pCc1NRS2Zkc1M?oc=5)
 

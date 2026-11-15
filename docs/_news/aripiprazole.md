@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Aripiprazole. 8 predicted indications."
 permalink: /news/aripiprazole/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Aripiprazole News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Aripiprazole?">
-<strong>Aripiprazole</strong> currently has <strong>12 news articles</strong>, with 8 predicted indications.
+<strong>Aripiprazole</strong> currently has <strong>13 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Aripiprazole with the latest
 <p><a href="{{ '/drugs/aripiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (13)
+
+### [Wie viele Tassen Kaffee pro Tag fürs Herz unbedenklich sind - Ärzte Zeitung](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlhJRkcyV2JhTUF2ejhzUmM5Z0pVRWNrS2VyblRyZ05RVzhvaWc5TFB0VGJYSG9DNnFMVUlFY2lxMXdfS3JjTV84NGtVV0JQd2xiWXo5Qk56SGlRQTlxRTV2ck52RVNHYXFRWV96emN2LWt0emduRE94cF8xVzF5ZjJzQ1ZMTjg4SEg3NHVjY21JVFdyVjI0WmxCSlpvMnF1MXUyeC1jTQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlhJRkcyV2JhTUF2ejhzUmM5Z0pVRWNrS2VyblRyZ05RVzhvaWc5TFB0VGJYSG9DNnFMVUlFY2lxMXdfS3JjTV84NGtVV0JQd2xiWXo5Qk56SGlRQTlxRTV2ck52RVNHYXFRWV96emN2LWt0emduRE94cF8xVzF5ZjJzQ1ZMTjg4SEg3NHVjY21JVFdyVjI0WmxCSlpvMnF1MXUyeC1jTQ?oc=5)
+
+---
 
 ### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Aprepitant?">
-<strong>Aprepitant</strong> currently has <strong>83 news articles</strong>, with 10 predicted indications.
+<strong>Aprepitant</strong> currently has <strong>84 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Aprepitant with the latest h
 <p><a href="{{ '/drugs/aprepitant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (83)
+## Related News (84)
+
+### [Wie viele Tassen Kaffee pro Tag fürs Herz unbedenklich sind - Ärzte Zeitung](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlhJRkcyV2JhTUF2ejhzUmM5Z0pVRWNrS2VyblRyZ05RVzhvaWc5TFB0VGJYSG9DNnFMVUlFY2lxMXdfS3JjTV84NGtVV0JQd2xiWXo5Qk56SGlRQTlxRTV2ck52RVNHYXFRWV96emN2LWt0emduRE94cF8xVzF5ZjJzQ1ZMTjg4SEg3NHVjY21JVFdyVjI0WmxCSlpvMnF1MXUyeC1jTQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlhJRkcyV2JhTUF2ejhzUmM5Z0pVRWNrS2VyblRyZ05RVzhvaWc5TFB0VGJYSG9DNnFMVUlFY2lxMXdfS3JjTV84NGtVV0JQd2xiWXo5Qk56SGlRQTlxRTV2ck52RVNHYXFRWV96emN2LWt0emduRE94cF8xVzF5ZjJzQ1ZMTjg4SEg3NHVjY21JVFdyVjI0WmxCSlpvMnF1MXUyeC1jTQ?oc=5)
+
+---
 
 ### [Pressione alta: si controlla poco. Farlo, eviterebbe infarti e ictus, ma anche danni ai reni e disfunzione erettile - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxPaG1weGszY3oxYlVhbWpqYkJxOEpRai1WQXFFZDlCZC1ScC1xUGsxNUdPbURxVE1tOGZNYlgyb2YzRDMzU0tRRU1fekNBbWZNYW92S3FYeVhiNnJ6TkNqbzRTSW5IM0ZmN2wtV0hZLVB3bFdIYUU3Sl96YXp3R0hjMXE3SV95ejVtNmJFYlNLS0RSaUs3VExwTExpNjNxd0pYdVFwLTFtcXpoOUxXNjZUVkNiWXRmdFVXbVZiWlhHd3E5NFcyRnBpREMzcm5YY1ZJNklHSFZKbEFKeV9rODNhZ3ltMXZDVm5NSVdvMUw4NHpMWUNYR1haVW90UUhXN3VoUTM3cjVSd19PX3YxRTJkQzh1ZTNaQXZ2RTgzZnVHQTBMdFJYQnZDaHhxRmF4M0Q4RlYwaWVJNi1jazF2aVdlVNIBxgJBVV95cUxNV1hqSW1yYkRCZDNKY1lDZFdGZlBhc3FxRk1CYWJOdC1GZnNjUWlUWnVaMTFYdHZNbXlQdG9LX0lzemkwYV80RlQ3VzZRTk1ucjRuYlh6SUFScUJmN1k5emxXX0ZfMkpyQ1JYNVhyY0tERFdwRWVjSjdLbWJ5TFdKRDBLSVQ5NWMyUFJnSjlPaTl2SlZxdWNCZkxWcXpBYjFidnZJa1NSUmNPNjA2d1AwVzM4ellSdmRjMlV3UV8xcjF4WndxZHRVVjJBaUpXYlh0ajVxOWtrVlBlYTNSM09FaHg5dlBIYThjS201TjNHWDJueEtWcFYwSjNGdlZfRWpjMzgxZDRWQnhUMnBIXzBhT2p5cndvQm9sM2ZEY1JQdkJjZm1maFA0V2VCeVhFdGNYc1FQUDFUYzc2ZjFGUE1oV1JvMHdoZw?oc=5)
 

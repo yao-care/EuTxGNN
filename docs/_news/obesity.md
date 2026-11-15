@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "obésité (obesity) News"
+title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obésité (obesity). 98 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 100 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-11-15
 ---
 
-# obésité (obesity) News
+# obesidad (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about obésité (obesity)?">
-<strong>obésité (obesity)</strong> currently has <strong>98 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obesidad (obesity)?">
+<strong>obesidad (obesity)</strong> currently has <strong>100 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “obésité” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obesidad” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -34,7 +34,23 @@ This page brings together the latest health news about “obésité” and lists
 </ul>
 </div>
 
-## Related News (98)
+## Related News (100)
+
+### [Más allá de perder peso: los fármacos antiobesidad apuntan a la salud general - KISS FM](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDlxYzh3WnIzcldhY25CaGFjd25pUG81OHhienJMa2wxMV9zS2pVY0s3ZFZwcmhhenFMd25DY0h6N0ZGMDA5UEx4WV91VmN1Tk9qaGU4Rzh6YXBINVVCbFhvNXEtY3BGa3N0NVJVamdxamZIVHhpUkF0XzJGT2tjOGI4VlNIX3ViVVQ4TUNrTDBYSTNRTVdJVFhBREs0aW55OUpacDdFSEFtOW11WlNR?oc=5)
+
+2026-11-15
+
+Source: [KISS FM](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDlxYzh3WnIzcldhY25CaGFjd25pUG81OHhienJMa2wxMV9zS2pVY0s3ZFZwcmhhenFMd25DY0h6N0ZGMDA5UEx4WV91VmN1Tk9qaGU4Rzh6YXBINVVCbFhvNXEtY3BGa3N0NVJVamdxamZIVHhpUkF0XzJGT2tjOGI4VlNIX3ViVVQ4TUNrTDBYSTNRTVdJVFhBREs0aW55OUpacDdFSEFtOW11WlNR?oc=5)
+
+---
+
+### [Estudio vincula obesidad clínica con un 69 % más de riesgo instantáneo de muerte](https://news.google.com/rss/articles/CBMib0FVX3lxTE8zLXJ2ajJjNHZuUnIxZ3M0Q2ZaUklUQ1EwMWNQM3dOMXNsdWhSdWJuaGItYk5lTHBCY0pZNm1YNGFwX0RHcnI5SEhTcTVUR1Q0U2FQX2ItVU43U180Tzlxay1YZ012VjVLdTNTLUNVRQ?oc=5)
+
+2026-11-14
+
+Source: [https://fomoera.com/](https://news.google.com/rss/articles/CBMib0FVX3lxTE8zLXJ2ajJjNHZuUnIxZ3M0Q2ZaUklUQ1EwMWNQM3dOMXNsdWhSdWJuaGItYk5lTHBCY0pZNm1YNGFwX0RHcnI5SEhTcTVUR1Q0U2FQX2ItVU43U180Tzlxay1YZ012VjVLdTNTLUNVRQ?oc=5)
+
+---
 
 ### [AVC, Addiction… : les nouveaux horizons thérapeutiques des médicaments anti-obésité - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
 

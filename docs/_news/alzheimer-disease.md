@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "dementia (alzheimer disease) News"
+title: "maladie d'Alzheimer (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 38 articles, 16 related drugs."
+description: "Health news about maladie d'Alzheimer (alzheimer disease). 40 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 last_modified_at: 2026-11-15
 ---
 
-# dementia (alzheimer disease) News
+# maladie d'Alzheimer (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>38 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about maladie d'Alzheimer (alzheimer disease)?">
+<strong>maladie d'Alzheimer (alzheimer disease)</strong> currently has <strong>40 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “maladie d'Alzheimer” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (38)
+## Related News (40)
+
+### [Témoignage. Covid long : « C’est comme si le cerveau marchait au ralenti », même cinq ans après la maladie - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZC1WWWF6d1dwZnFHakllQ3BiUE1WTE4taHpuWFJILS1RTTdBTEJPS3k3NzF3b05Qb0pNWENfZmFrbjcwaWtvLXNkZ21kSVBKRUgwaGRKNmtlVmdXRmtkeW5wT2NJNUdNSnJ2R0FkNXBjcDhkeTNjUHpnMzd3aExTb0NUMDVJNWdhU3JtT1cxVXFNZ0dIbEFzQkU2SnBRd3NGZG54SnV6M210U2lRNWpTTzVXaGRfWGZpWnhDMWRrc2VfbDYycV9nc0VVTQ?oc=5)
+
+2026-11-15
+
+Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZC1WWWF6d1dwZnFHakllQ3BiUE1WTE4taHpuWFJILS1RTTdBTEJPS3k3NzF3b05Qb0pNWENfZmFrbjcwaWtvLXNkZ21kSVBKRUgwaGRKNmtlVmdXRmtkeW5wT2NJNUdNSnJ2R0FkNXBjcDhkeTNjUHpnMzd3aExTb0NUMDVJNWdhU3JtT1cxVXFNZ0dIbEFzQkU2SnBRd3NGZG54SnV6M210U2lRNWpTTzVXaGRfWGZpWnhDMWRrc2VfbDYycV9nc0VVTQ?oc=5)
+
+---
 
 ### [Lord Cameron says Alzheimer’s made mother beg sister to end her life - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1djYTkycWtPdjZEMThzTzhMbUtGQlBYdHQtc3d4ektxUVZlUHRLeFBRaFVIVkpxakUzNElLQjhkYVlaWkRYU0g0ZkFiZnh3OE1hbU4yTk9GT0l0Z2FXR0VlU3lXWXJuZDN6QUUxSElaaEN4R3ZpQktjbTktaHN0SFR2bUhPb250WFhRMEdLeW5uS1RSQUpaeVlsM21DQklxdUJ5UFhR?oc=5)
 
@@ -66,6 +74,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd0tT
 2026-11-14
 
 Source: [BuzzFeed](https://news.google.com/rss/articles/CBMiekFVX3lxTE01cjB1OWg0NVVoUWxLNXJzanNCTFB3NENGQ1UyZkNNVVJSbDFMN2JINGEzV3U3M2RjMkZwM1MwRXlMbi1DN3lDazMzUFdvNHVOQTVwZEVKUUZ0Rl9ULUUwLThPUWZTTzZKUW1BWE5UZ2tPTFQzRTVXdU1B?oc=5)
+
+---
+
+### [Stanford Scientists Discover Resting Brain Activity May Predict Alzheimer's Years Before Memory Decline](https://news.google.com/rss/articles/CBMiywFBVV95cUxPeTZmcWotSFlrWXUwU3RIT3hYRWJKRUxwSUQ3U0NkYW4xSW9rREFvMjNTdDR0aDNKZnZWLUg2SV9OX0VzRTJ5b3JiNG1xbWoxaFVqa0FydmdqZ0t1Zm1oMDM4Q0VWSjdROXg5eF9xQTEyQnpwS2cwUUMwZHdheXB6VjBVOUdYRDhtcnZjOEgtNS1uMXpMRWd0Sk1TNXBITDhwQXQ0amZIc2dyRVAzNThzNkduZmVVM0FOeHd6Z0FQaFR3VTJoN2ItYTVYbw?oc=5)
+
+2026-11-14
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiywFBVV95cUxPeTZmcWotSFlrWXUwU3RIT3hYRWJKRUxwSUQ3U0NkYW4xSW9rREFvMjNTdDR0aDNKZnZWLUg2SV9OX0VzRTJ5b3JiNG1xbWoxaFVqa0FydmdqZ0t1Zm1oMDM4Q0VWSjdROXg5eF9xQTEyQnpwS2cwUUMwZHdheXB6VjBVOUdYRDhtcnZjOEgtNS1uMXpMRWd0Sk1TNXBITDhwQXQ0amZIc2dyRVAzNThzNkduZmVVM0FOeHd6Z0FQaFR3VTJoN2ItYTVYbw?oc=5)
 
 ---
 

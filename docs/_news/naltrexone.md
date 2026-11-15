@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>98 news articles</strong>, with 0 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>100 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (98)
+## Related News (100)
+
+### [Más allá de perder peso: los fármacos antiobesidad apuntan a la salud general - KISS FM](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDlxYzh3WnIzcldhY25CaGFjd25pUG81OHhienJMa2wxMV9zS2pVY0s3ZFZwcmhhenFMd25DY0h6N0ZGMDA5UEx4WV91VmN1Tk9qaGU4Rzh6YXBINVVCbFhvNXEtY3BGa3N0NVJVamdxamZIVHhpUkF0XzJGT2tjOGI4VlNIX3ViVVQ4TUNrTDBYSTNRTVdJVFhBREs0aW55OUpacDdFSEFtOW11WlNR?oc=5)
+
+2026-11-15 <span class="news-indication-tag">obesidad</span>
+
+Source: [KISS FM](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDlxYzh3WnIzcldhY25CaGFjd25pUG81OHhienJMa2wxMV9zS2pVY0s3ZFZwcmhhenFMd25DY0h6N0ZGMDA5UEx4WV91VmN1Tk9qaGU4Rzh6YXBINVVCbFhvNXEtY3BGa3N0NVJVamdxamZIVHhpUkF0XzJGT2tjOGI4VlNIX3ViVVQ4TUNrTDBYSTNRTVdJVFhBREs0aW55OUpacDdFSEFtOW11WlNR?oc=5)
+
+---
+
+### [Estudio vincula obesidad clínica con un 69 % más de riesgo instantáneo de muerte](https://news.google.com/rss/articles/CBMib0FVX3lxTE8zLXJ2ajJjNHZuUnIxZ3M0Q2ZaUklUQ1EwMWNQM3dOMXNsdWhSdWJuaGItYk5lTHBCY0pZNm1YNGFwX0RHcnI5SEhTcTVUR1Q0U2FQX2ItVU43U180Tzlxay1YZ012VjVLdTNTLUNVRQ?oc=5)
+
+2026-11-14 <span class="news-indication-tag">obesidad</span>
+
+Source: [https://fomoera.com/](https://news.google.com/rss/articles/CBMib0FVX3lxTE8zLXJ2ajJjNHZuUnIxZ3M0Q2ZaUklUQ1EwMWNQM3dOMXNsdWhSdWJuaGItYk5lTHBCY0pZNm1YNGFwX0RHcnI5SEhTcTVUR1Q0U2FQX2ItVU43U180Tzlxay1YZ012VjVLdTNTLUNVRQ?oc=5)
+
+---
 
 ### [AVC, Addiction… : les nouveaux horizons thérapeutiques des médicaments anti-obésité - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
 
@@ -266,7 +282,7 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95c
 
 ### [Rischio di perdita della vista per chi usa Ozempic o altri farmaci dimagranti: l'allarme che arriva dagli Usa](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdWN2stbTlTV1NZX2tOY2tzdUFSM0lXSFlYRkdURnJWdHBSUy01bzl4N2JPUURHX1Z2UGZ4NGI3VEZXWnRlel9aQWdQcFNjYUwzN2ZZcXBzT2FVeVRYN09lcmdDTWU3Q1dCZ3FDXzZWWGhtc1MzYkFwMkNSUXZUVW9HTzFpZzdEbDlCdWc?oc=5)
 
-2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Open](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdWN2stbTlTV1NZX2tOY2tzdUFSM0lXSFlYRkdURnJWdHBSUy01bzl4N2JPUURHX1Z2UGZ4NGI3VEZXWnRlel9aQWdQcFNjYUwzN2ZZcXBzT2FVeVRYN09lcmdDTWU3Q1dCZ3FDXzZWWGhtc1MzYkFwMkNSUXZUVW9HTzFpZzdEbDlCdWc?oc=5)
 

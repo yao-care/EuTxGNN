@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (13)
+
+### [ISHCEMIA-CKD EXTEND: Invasive Eingriffe bringen bei CKD keine Überlebensvorteile - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUzdFZE9WS1duNm1tV1I1VHI3UnBYY1ZSbVN0OWxLRkpabVhOUElGU2hjNDNhcW5idUVaQUZ0X19CcUJhcTgzZFlOQ0hyYlNQQkxBNmRpN0FaVHZZcEIyMjlmYUlCYV9KY29ZU3VGcFp1bUVmSDgtWVNPazZKNlRIbW44Y2ZSaUQzZDRpY015Wm1tRllrcU9qQWQ3aVBLOE56dEk5MDJ3YW50S2d4RzI4dnhR?oc=5)
+
+2026-11-15 <span class="news-indication-tag">CKD</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUzdFZE9WS1duNm1tV1I1VHI3UnBYY1ZSbVN0OWxLRkpabVhOUElGU2hjNDNhcW5idUVaQUZ0X19CcUJhcTgzZFlOQ0hyYlNQQkxBNmRpN0FaVHZZcEIyMjlmYUlCYV9KY29ZU3VGcFp1bUVmSDgtWVNPazZKNlRIbW44Y2ZSaUQzZDRpY015Wm1tRllrcU9qQWQ3aVBLOE56dEk5MDJ3YW50S2d4RzI4dnhR?oc=5)
+
+---
 
 ### [Detectar a tiempo el daño renal puede retrasar casi 30 años la diálisis en personas con diabetes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmZndkk3bWd0a3hYOVhYT2xzRS1faUVzSlRGR3M5Nm8yMkkyQ252bXU1T2szTWVwNmRZTS15bVpfOWR0TldEQlJKaWxOaUlDQVM3Ui1VaE13QnZKNlRCdlh4Ukd2R0hRVXkwdGllQVpnS2UtSWl4ZFdOVXVseVd1eFVzcjZLVnBGS2JXT3BfSmU2V2dSNUVUdkdRTWk5dl81RHFldnJ3bVE5Q3FZVVQ5OGs3eldVNU5aNlhQelZJWFdqTDjSAcgBQVVfeXFMT3AzWjh6Wk95OGs4dEhDS1VPa0UyczNiYzZvN1ExT0VNdTVCbjhXbWxWNklQZk1hZGtIRG9LdC0zNnlvck5iQXl1eklmR05lQXdKVHAtUjNEeUMwTWtEcmVvQUhkVlJrZzhVTURqbUZNQXZsbmJERURQZDBqSjhMZzg3V3NnZDdUUUNrWVJQRm5xZzdkTVhGdGp1VUVSNTZiNzNJNkV3M1BqVWhSaUt3Qk9VQUk5SHFuYnpHQ2ZpOTdOTUpWWWZ0RTg?oc=5)
 

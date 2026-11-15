@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Lacosamide?">
-<strong>Lacosamide</strong> currently has <strong>18 news articles</strong>, with 10 predicted indications.
+<strong>Lacosamide</strong> currently has <strong>19 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Lacosamide with the latest h
 <p><a href="{{ '/drugs/lacosamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (19)
+
+### [Wie viele Tassen Kaffee pro Tag fürs Herz unbedenklich sind - Ärzte Zeitung](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlhJRkcyV2JhTUF2ejhzUmM5Z0pVRWNrS2VyblRyZ05RVzhvaWc5TFB0VGJYSG9DNnFMVUlFY2lxMXdfS3JjTV84NGtVV0JQd2xiWXo5Qk56SGlRQTlxRTV2ck52RVNHYXFRWV96emN2LWt0emduRE94cF8xVzF5ZjJzQ1ZMTjg4SEg3NHVjY21JVFdyVjI0WmxCSlpvMnF1MXUyeC1jTQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlhJRkcyV2JhTUF2ejhzUmM5Z0pVRWNrS2VyblRyZ05RVzhvaWc5TFB0VGJYSG9DNnFMVUlFY2lxMXdfS3JjTV84NGtVV0JQd2xiWXo5Qk56SGlRQTlxRTV2ck52RVNHYXFRWV96emN2LWt0emduRE94cF8xVzF5ZjJzQ1ZMTjg4SEg3NHVjY21JVFdyVjI0WmxCSlpvMnF1MXUyeC1jTQ?oc=5)
+
+---
 
 ### [Cuándo debemos consultar al neurólogo por un dolor de cabeza frecuente - 65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkFzbUx2VWdJSjhpRlFwTDEwQVR5LVg5eG92TTYxcXNKU1A1bUxaYUZiVUNxRGJrSVc0LW90cFVHcWNUOHlNcXNldjFrMTRZMHB6d2kxenpFZ3ZGa3UwejVCemU4bTZkYThCN1NPRV9JUUNqQUZEM2c5NnJ0ZzBNZU55X1pSWHo5TmNuSHBvYXRCV004RTBhdHlybEdHc3M1ZlNLRnVqWkE?oc=5)
 

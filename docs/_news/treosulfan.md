@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Treosulfan?">
-<strong>Treosulfan</strong> currently has <strong>198 news articles</strong>, with 1 predicted indications.
+<strong>Treosulfan</strong> currently has <strong>206 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,47 @@ This page combines the AI-predicted indications for Treosulfan with the latest h
 <p><a href="{{ '/drugs/treosulfan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (198)
+## Related News (206)
+
+### [Retinopatía diabética: cuándo y qué exámenes de ojos hacer - El Mostrador](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSXFmemRwWVdfUmxBNnZaTC00T3R2OEttbVJYTWwweHdCT284Tk1kdjNkZkF0UGhLR1k2MzFEeEMxU3JpcjFncm1ZMXg2dGFJLU81YkppSTByOHhJNG5rVTNyemNTU1JpNmFJLVJKRGwyVjFoRUtkNmNoY01FS3pUeGpLSkpMWmR5UHJrMXlzTG5QaF83V2pQeVNHN08zczZ5cVVmS2dxa2ZZRVFxaU1lY2hxZE53NVNNWXlzOXdyU1JmQVA2MzJzQ0pjUEVaRnJLQXAwVkdWczM4a3lkc19uM2x0NWExN19jcXBz?oc=5)
+
+2026-11-15 <span class="news-indication-tag">diabetes</span>
+
+Source: [El Mostrador](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSXFmemRwWVdfUmxBNnZaTC00T3R2OEttbVJYTWwweHdCT284Tk1kdjNkZkF0UGhLR1k2MzFEeEMxU3JpcjFncm1ZMXg2dGFJLU81YkppSTByOHhJNG5rVTNyemNTU1JpNmFJLVJKRGwyVjFoRUtkNmNoY01FS3pUeGpLSkpMWmR5UHJrMXlzTG5QaF83V2pQeVNHN08zczZ5cVVmS2dxa2ZZRVFxaU1lY2hxZE53NVNNWXlzOXdyU1JmQVA2MzJzQ0pjUEVaRnJLQXAwVkdWczM4a3lkc19uM2x0NWExN19jcXBz?oc=5)
+
+---
+
+### [La importancia de la detección precoz de la diabetes: uno de cada tres afectados desconoce que tiene la enfermedad](https://news.google.com/rss/articles/CBMiggJBVV95cUxQR1BSYWdnVUw3aXd4em9uRngwWDd2QXVxMTJMSmc4ZjVHRVBSZVlxM3BHZFJBZ3ktXzZtSkU1RkMwUTdYYjNQck5PTXgta01OT29tenJHcXA0QldiQ3hoXzRWalZzUzdacENCQk0wVHN3NE1XYXNQT2pVdmZIQUViREFfME12aUtHUmQwbGlOLXdKdXE1VC02VWJEQ3ZyWUZKYlllQnZuOC1KWnVLQ0g3QnhmcnRCUHFkb1llaS1tZEhRZHllNnA3d0VZOEVRQlJodmRZYmt4QzFPZFBhNl9PVHBuM0M0eFhZckRabGpsbXdlTVEyMHdZY0t3V2ZSS1ltakHSAYICQVVfeXFMTlFrZWNrdDc2ZGVyaFpjR2lzWHlDN2RMTHl2VXRZUFEtYnFlR0w2UVVRbGVmRDhBNENHUGJkMTdXSjU3NU5xVG41MXZRT0xrQ2pYeXMyd3JhUFhnY05xdDl1UExNMmVZQkV2bDBDdjREMUFTYnVOa0l3YUM1bkZwRlNpZTQtS19rZkU3cXhoaFVCSWY5N0JlNHlNMnVOTGtZQkNObVhJVFlSMmdHSmtCZGhtU2ZuN1dDUm1DOUhoRTJuTlcyblc0emo3VnBNQ1FPQXBMbjNJS1FDQk03SThaUVBjM2d0SUk0VlVlNFF5NTh3WFhFV09aQ3RPQ2l4elkzYnVB?oc=5)
+
+2026-11-15 <span class="news-indication-tag">diabetes</span>
+
+Source: [LaSexta](https://news.google.com/rss/articles/CBMiggJBVV95cUxQR1BSYWdnVUw3aXd4em9uRngwWDd2QXVxMTJMSmc4ZjVHRVBSZVlxM3BHZFJBZ3ktXzZtSkU1RkMwUTdYYjNQck5PTXgta01OT29tenJHcXA0QldiQ3hoXzRWalZzUzdacENCQk0wVHN3NE1XYXNQT2pVdmZIQUViREFfME12aUtHUmQwbGlOLXdKdXE1VC02VWJEQ3ZyWUZKYlllQnZuOC1KWnVLQ0g3QnhmcnRCUHFkb1llaS1tZEhRZHllNnA3d0VZOEVRQlJodmRZYmt4QzFPZFBhNl9PVHBuM0M0eFhZckRabGpsbXdlTVEyMHdZY0t3V2ZSS1ltakHSAYICQVVfeXFMTlFrZWNrdDc2ZGVyaFpjR2lzWHlDN2RMTHl2VXRZUFEtYnFlR0w2UVVRbGVmRDhBNENHUGJkMTdXSjU3NU5xVG41MXZRT0xrQ2pYeXMyd3JhUFhnY05xdDl1UExNMmVZQkV2bDBDdjREMUFTYnVOa0l3YUM1bkZwRlNpZTQtS19rZkU3cXhoaFVCSWY5N0JlNHlNMnVOTGtZQkNObVhJVFlSMmdHSmtCZGhtU2ZuN1dDUm1DOUhoRTJuTlcyblc0emo3VnBNQ1FPQXBMbjNJS1FDQk03SThaUVBjM2d0SUk0VlVlNFF5NTh3WFhFV09aQ3RPQ2l4elkzYnVB?oc=5)
+
+---
+
+### [AOK Online-Coach Diabetes - HALLO MINDEN](https://news.google.com/rss/articles/CBMigAFBVV95cUxQR2JoT0tTVUdhOFVWVWdtNWxCWk5XaTRLVVdtMHhBWldaOGc3RGhpV3BScWtiYTZYLUtvbVdlVHNzTW5lRWRJWFNWcmw1dFRlS21lYmlRVWlmallFTXhoa0tPdTI0ZTJMVV81U0pQUnlNQzZ0WDJKcjRUSGNfMERwZg?oc=5)
+
+2026-11-15 <span class="news-indication-tag">diabetes</span>
+
+Source: [HALLO MINDEN](https://news.google.com/rss/articles/CBMigAFBVV95cUxQR2JoT0tTVUdhOFVWVWdtNWxCWk5XaTRLVVdtMHhBWldaOGc3RGhpV3BScWtiYTZYLUtvbVdlVHNzTW5lRWRJWFNWcmw1dFRlS21lYmlRVWlmallFTXhoa0tPdTI0ZTJMVV81U0pQUnlNQzZ0WDJKcjRUSGNfMERwZg?oc=5)
+
+---
+
+### [Barzanò: giornata dedicata alla prevenzione del diabete](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmJYQ3RMTUhVdlN1bzQzWWlIQ3pYSWxlVkdGeDJTNk9hT010VjhBM2FzNkhabXgxQkhlWEg4TWg2dzBGQ24yRnpCd245NGJJRGFWc3EwMDl1ZnQ2SUlvYk5qRWZWYzc0LWFfLVd3TmJMdnRfMjdDOG42TXJ3ZDgtbzhpdG81NnBaTlAzcEdtampZMDJ4cnJldlpkckxLSGc?oc=5)
+
+2026-11-15 <span class="news-indication-tag">diabete</span>
+
+Source: [Casateonline](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmJYQ3RMTUhVdlN1bzQzWWlIQ3pYSWxlVkdGeDJTNk9hT010VjhBM2FzNkhabXgxQkhlWEg4TWg2dzBGQ24yRnpCd245NGJJRGFWc3EwMDl1ZnQ2SUlvYk5qRWZWYzc0LWFfLVd3TmJMdnRfMjdDOG42TXJ3ZDgtbzhpdG81NnBaTlAzcEdtampZMDJ4cnJldlpkckxLSGc?oc=5)
+
+---
+
+### [Diabète de type 2 : voici pourquoi arrêter de manger du sucre ne suffit pas](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGt0ODI4bUZFTFpKN1p1SzJJV21ZVndWSHZNckR5aXgtSGVkOTlhMThONGluY280Qk1GSmZwWVY2WmlzWWpoMU02SzNnQndydFNWWTdSWUdLSExmUU9GdnZSc05DUFRJY2lvTlJtRld3SDlPNUxTM04zTmtuTlhFM1hsT3dYZDhGc2tMbEpFQkEzd2VGd1JsREJHWGZHNmJkWkFHZ1EyUjd1aUFhaGFDSEFLdEwyZDZOdjVF0gHAAUFVX3lxTFBCRTBCRkV1QnB3LW4wS001WUpiSU5DZzJYb2ZLdnNKQXQwLXh6V2lfTE5Rd2pNYTB1ZlJCYXFBeGhtaHQ5U2NNNU9KSlk2TFhqRVUwMHpXZEZkYTNPdkpBaXhicG1uRmpiSVVvSEdjTDV0bzJUdTM5YmpEVEZvLUJvU2ZxdDBlTi1LRHliNUk5am54UHNKbTNjN2pIeXpSaTQwSTctZkoybGNPQ0lJVnhwSlZialVOajZRSkNlMTNVTA?oc=5)
+
+2026-11-15 <span class="news-indication-tag">diabète</span>
+
+Source: [CNews](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGt0ODI4bUZFTFpKN1p1SzJJV21ZVndWSHZNckR5aXgtSGVkOTlhMThONGluY280Qk1GSmZwWVY2WmlzWWpoMU02SzNnQndydFNWWTdSWUdLSExmUU9GdnZSc05DUFRJY2lvTlJtRld3SDlPNUxTM04zTmtuTlhFM1hsT3dYZDhGc2tMbEpFQkEzd2VGd1JsREJHWGZHNmJkWkFHZ1EyUjd1aUFhaGFDSEFLdEwyZDZOdjVF0gHAAUFVX3lxTFBCRTBCRkV1QnB3LW4wS001WUpiSU5DZzJYb2ZLdnNKQXQwLXh6V2lfTE5Rd2pNYTB1ZlJCYXFBeGhtaHQ5U2NNNU9KSlk2TFhqRVUwMHpXZEZkYTNPdkpBaXhicG1uRmpiSVVvSEdjTDV0bzJUdTM5YmpEVEZvLUJvU2ZxdDBlTi1LRHliNUk5am54UHNKbTNjN2pIeXpSaTQwSTctZkoybGNPQ0lJVnhwSlZialVOajZRSkNlMTNVTA?oc=5)
+
+---
 
 ### [Las Diabetes tipo 1 y tipo 2 requieren tratamientos y cuidados específicos - El Periódico de Mairena -](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXhjTU5oT3g1Tm9qdjhkcDNON3lZT3RHc0hwQVlUYmg2M3NFaFJLZ0VFdVcxeHlVMElUZU9hd2djSVdpSllBdW5vOFZNNUozczJnc0Q2U3BkLWNVaGJyRURjdjQxcVVybF8tVXF5RlJ4LUxrdHZzVE51eWtJQ0xBb3hVeEJHODNFZnVrRzhVdE1Vbjl1NjcxUWV2OTNJTW0yZGF6Q2xWODRMY1ZzcXZhcVFXWGhlT2c?oc=5)
 
@@ -51,6 +91,14 @@ Source: [food-monitor](https://news.google.com/rss/articles/CBMipAFBVV95cUxPb1VT
 
 ---
 
+### [La lluvia resta participantes a la marcha por el Día Mundial de la Diabetes - El Bierzo Digital](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVkV4c1FtdGs3b2dCTzQwdEgwME14WXRxMmg1aFA2RWRGcGJ4X2VNYkdhRjVFLUNsYU5UdWlwUndZOVhDcGxaRVFkWDM0RzJxS2ZOSmV3VF9saXZUa013T0dXenhQNHJzNmV1RlcydmdicGdsSTFOQXh3TWNwbnotNGl0a0MtR3MybXRoVDNLOW9McWtZeG1rZEtCakR2RHIwbTZBaERDQVlYUmxY?oc=5)
+
+2026-11-15 <span class="news-indication-tag">diabetes</span>
+
+Source: [El Bierzo Digital](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVkV4c1FtdGs3b2dCTzQwdEgwME14WXRxMmg1aFA2RWRGcGJ4X2VNYkdhRjVFLUNsYU5UdWlwUndZOVhDcGxaRVFkWDM0RzJxS2ZOSmV3VF9saXZUa013T0dXenhQNHJzNmV1RlcydmdicGdsSTFOQXh3TWNwbnotNGl0a0MtR3MybXRoVDNLOW9McWtZeG1rZEtCakR2RHIwbTZBaERDQVlYUmxY?oc=5)
+
+---
+
 ### [Pacientes de diabetes piden equidad y mayor atención](https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3NndnBMTzVXeUZtTUoyRnB1Z1YzVHV4a1pCd2NXMExuS0xFY2ppZDJnRDdxU3B5MW1qczFJV2NGek1lNHRURlVQUWFMUkxzTU96SEg2SUVDMGZyWDNjanl6d0FCMVhkOHhBdkRjZTgwdXJYSnJaR0tnTWc2a096M3EwTVBvN1oza2huZmNTYlV1a1dPV2JrZU8xcWc?oc=5)
 
 2026-11-15 <span class="news-indication-tag">diabetes</span>
@@ -64,6 +112,14 @@ Source: [Atlántico](https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3Nndn
 2026-11-15 <span class="news-indication-tag">diabetes</span>
 
 Source: [ABC](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOU9sUkt3ODRiVGFMZUFwMzhOVFotVjV6aHFQUTAzbE4tWl83N0hoaGh5cnpielRJdVNOUDV0S3AwdXg3a0R0ZVp0ZlVOQWJJT2x4VEhHQldtaWl0bmpKRjhLV3diUVJTemozcWtpQ1JwZzI1Mk5OQWNSd1pnczNRc3pGdjJaVmY2SU1oZEFIeG1fbi1Ic1M3TEh3LU5LeGQ4WmxTRTdWV2VNMXfSAbABQVVfeXFMT0hZemVSWFJJbm5tTWN5YmdSbUpsNUxUWk9VakRWeVExUDNXalZhbkEwYmtJSXpFaFBtUVV3clgzVnlvTFRrZkRySzN0STVfTnNXcFQ2bnE2VXhoeFQ3eG90cWxLaUlQZmxKckJlbDYyZ3NpSEVFQ192ZVp5RlVySmtyVTBFbXhDanVLeUZQODhjRjdDS3ljb0k0d1ZJSndpbDhTR0xCX21ZYmZTVG9EOGw?oc=5)
+
+---
+
+### [Diabète de type 2 : comment prévenir les complications qui touchent les yeux, le cœur et les reins ?](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaEw1MzFONDBadzFTb1VfSW1OWGVrUk1vajFObTRoejNkdnR6R1ZKWEpNWkdrcllkNGkxbFFVdjNCTTZxUHBpandPNjRVSzUzVDBxMGNhQUxwRkRzaFJEYklBbnMyb01sSXpnN1gtTjZFWm1kYXgxZ3RGNjdVZHhWdW1wTkMxTWhLakFnWGlYTlNkRWxKUnVvSmhUNXNyTDNtbXFxWkRaMjRvVS16dzBJOVM5TWdLYjRxNy1uYVpMajFLQQ?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabète</span>
+
+Source: [Algerie360](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaEw1MzFONDBadzFTb1VfSW1OWGVrUk1vajFObTRoejNkdnR6R1ZKWEpNWkdrcllkNGkxbFFVdjNCTTZxUHBpandPNjRVSzUzVDBxMGNhQUxwRkRzaFJEYklBbnMyb01sSXpnN1gtTjZFWm1kYXgxZ3RGNjdVZHhWdW1wTkMxTWhLakFnWGlYTlNkRWxKUnVvSmhUNXNyTDNtbXFxWkRaMjRvVS16dzBJOVM5TWdLYjRxNy1uYVpMajFLQQ?oc=5)
 
 ---
 
@@ -99,14 +155,6 @@ Source: [Antena 3 Noticias](https://news.google.com/rss/articles/CBMi0gFBVV95cUx
 
 ---
 
-### [Glicemia alta: le micro-abitudini che molti hanno ma possono rivelarsi pericolose - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRGRWSkhMR3Fld19wM1BUakFzMzh1bWxoYUtqUHBRNUhiR2dqd3VBdWdWZ1ZBb183ZHFXSVk2SGdVVEpiYzJMRndBd1hTZXo1RHhUSFAzRGQ2VFp2YUZnU0s3ZmttVU0tdHIwbXJUTVVkZm9rT0tNUTdyUFQ5Z2hIcGtYZEc4bS1pRXpNY1VZWmRwd2lxLWNPZkdHbjh0cWZzSEhGd2t4ako0RURJNUdJYS04SFA1YVpRUl9ZbG5tTlBnQ3c1eGVVQUpINm8wMVhpSXZNeEF6QdIBwgFBVV95cUxOdUNLVjczMjllT0VQeXNmb1pnLTJOV0ZzU2FvSFo1Z3I0QVF1QUtXTkNULWVWZDNjekxPenN0cjlyVU9fV0RsN2RCNDJUOGtxbG5yUW5pZ2hzMHYzbFR0bmd2X09CbVc1VkUxOFNaVnR2Wi1OWENqbmRNb3dfZ1dFdFJabDFnQ09xejE0NDdudl9GR3RoRlQtTzJnS2hRTkRxeUUtRWlUZjR6SnZmTzJsUXd0N014RnFrcWFwUDhkbHctUQ?oc=5)
-
-2026-11-14 <span class="news-indication-tag">diabetic</span>
-
-Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRGRWSkhMR3Fld19wM1BUakFzMzh1bWxoYUtqUHBRNUhiR2dqd3VBdWdWZ1ZBb183ZHFXSVk2SGdVVEpiYzJMRndBd1hTZXo1RHhUSFAzRGQ2VFp2YUZnU0s3ZmttVU0tdHIwbXJUTVVkZm9rT0tNUTdyUFQ5Z2hIcGtYZEc4bS1pRXpNY1VZWmRwd2lxLWNPZkdHbjh0cWZzSEhGd2t4ako0RURJNUdJYS04SFA1YVpRUl9ZbG5tTlBnQ3c1eGVVQUpINm8wMVhpSXZNeEF6QdIBwgFBVV95cUxOdUNLVjczMjllT0VQeXNmb1pnLTJOV0ZzU2FvSFo1Z3I0QVF1QUtXTkNULWVWZDNjekxPenN0cjlyVU9fV0RsN2RCNDJUOGtxbG5yUW5pZ2hzMHYzbFR0bmd2X09CbVc1VkUxOFNaVnR2Wi1OWENqbmRNb3dfZ1dFdFJabDFnQ09xejE0NDdudl9GR3RoRlQtTzJnS2hRTkRxeUUtRWlUZjR6SnZmTzJsUXd0N014RnFrcWFwUDhkbHctUQ?oc=5)
-
----
-
 ### [Vitamin-D-Spiegel bei neuem Typ-1-Diabetes: Mehr Ketoazidose bei niedrigeren Werten - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2RnSU1KaC1acWE1aHR3X19aWHFXRTFNWUNjaHZJLTl1cjBUaF81bEhWUWZzNGs3M3pRYmt4MkZ3d0JleGcwNDgxNU9GcEVyY0J3WjdlVDJPSFVUUERuQXFHUUhOR2stUGE3LVlNTHhJeGwxdjhNSGRxeExSdWNhR3ZSb0xxXzNoWnFneEJMeWpoZDhQMURFa0dPTXBRXzhqOWI0b0NVUnVfeGVpNC1WMkVSZVI?oc=5)
 
 2026-11-14 <span class="news-indication-tag">diabetes</span>
@@ -115,11 +163,27 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2RnS
 
 ---
 
+### [Diabète en Guadeloupe : "Quasiment le double du niveau national", à la faveur des inégalités sociales - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTFg3V2l2LUFBUHE2WEtQSnRrNW5WeHQyUldJQndJTWFxazVGZ2YyT3AwVXNPVzFUYk53cVROMlo4eW5Gai1MZVlVSU9rS05xb0pEZlFDN2FCNE10eXBoYXNhMFlGaDdyc1lnVHN6XzBTSHNteWdIRU0xOVp4TnZYUFkydXd3M0dGWFZMLVluUlB2YUYxWkpueE5NbzJzbXBVMnR0MVhqenRYS0xSdWxyb1BTc1huMVZlRkhTWUpiLWZSSjc2VGxxNkJ6V250aThtQ3dZbC1MUEFsMWlwV0otekdsZw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabète</span>
+
+Source: [Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTFg3V2l2LUFBUHE2WEtQSnRrNW5WeHQyUldJQndJTWFxazVGZ2YyT3AwVXNPVzFUYk53cVROMlo4eW5Gai1MZVlVSU9rS05xb0pEZlFDN2FCNE10eXBoYXNhMFlGaDdyc1lnVHN6XzBTSHNteWdIRU0xOVp4TnZYUFkydXd3M0dGWFZMLVluUlB2YUYxWkpueE5NbzJzbXBVMnR0MVhqenRYS0xSdWxyb1BTc1huMVZlRkhTWUpiLWZSSjc2VGxxNkJ6V250aThtQ3dZbC1MUEFsMWlwV0otekdsZw?oc=5)
+
+---
+
 ### [Giornata mondiale del diabete, la sfida parte da Palermo: "Così scoviamo quel 5% di malati che non lo sanno"](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZm5PeTNaVWN5MkRwaUtXRkFtUGlzTXpsa3RNQzEtaWsxaUNXQWNZbERhVEVpbjd3aUJiU3E4U0RDbTAxRGFoRTEyUDg4cjItMTFKMVQwQ0pHRXZ3cTYtaFBfVjlvQlBNMmZacWlrNHljc1pPeTlILXZ0cEw4bVp6ZlpBWU1nbm5HbmpCeXVqZHNUNzNuNVhtM29FUkQ?oc=5)
 
 2026-11-14 <span class="news-indication-tag">diabete</span>
 
 Source: [PalermoToday](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZm5PeTNaVWN5MkRwaUtXRkFtUGlzTXpsa3RNQzEtaWsxaUNXQWNZbERhVEVpbjd3aUJiU3E4U0RDbTAxRGFoRTEyUDg4cjItMTFKMVQwQ0pHRXZ3cTYtaFBfVjlvQlBNMmZacWlrNHljc1pPeTlILXZ0cEw4bVp6ZlpBWU1nbm5HbmpCeXVqZHNUNzNuNVhtM29FUkQ?oc=5)
+
+---
+
+### [Galicia reclama atención a la diabetes los 365 días del año y más equidad en el acceso a tratamientos e investigación - Europa Press](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMkFMdHQwQWFwOXhwb1FBa3dYb04wU3JTbXJOMkNNRzNlbG9TWXFWUHZyS19abXdTUUdEWWI1eGsxNXV2aVFfME1DT04zQm0xOTlNeVVsX2xHYmFiRkpDZXNyMnZKT1RhdTF0VkJVX2g2TDViaFpqRDlXU3ZzZ3lxbU5qZ2s5aDFLUWd6MzRlLTRuYzBPdHZ0WnNLLUI4c3F4WFlTTXQwdGsxRHp3N0c4bmRpa2FscG5wTzJyVHA5aTc3Zjc4RXY0NnI2NHdtbnl5bWk5cTVXRVhBbmtMZlkzWUIzYVhjQW5IblRn?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetes</span>
+
+Source: [Europa Press](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMkFMdHQwQWFwOXhwb1FBa3dYb04wU3JTbXJOMkNNRzNlbG9TWXFWUHZyS19abXdTUUdEWWI1eGsxNXV2aVFfME1DT04zQm0xOTlNeVVsX2xHYmFiRkpDZXNyMnZKT1RhdTF0VkJVX2g2TDViaFpqRDlXU3ZzZ3lxbU5qZ2s5aDFLUWd6MzRlLTRuYzBPdHZ0WnNLLUI4c3F4WFlTTXQwdGsxRHp3N0c4bmRpa2FscG5wTzJyVHA5aTc3Zjc4RXY0NnI2NHdtbnl5bWk5cTVXRVhBbmtMZlkzWUIzYVhjQW5IblRn?oc=5)
 
 ---
 
