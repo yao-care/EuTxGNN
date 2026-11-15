@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Inclisiran. 9 predicted indications."
 permalink: /news/inclisiran/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-14
 ---
 
 # Inclisiran News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Inclisiran?">
-<strong>Inclisiran</strong> currently has <strong>5 news articles</strong>, with 9 predicted indications.
+<strong>Inclisiran</strong> currently has <strong>6 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Inclisiran with the latest h
 <p><a href="{{ '/drugs/inclisiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Uni explores link between migraines and hallucinations](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY3hoNklEWVdHTUhxZnlZU040Q3FJbzJRU0FzVEFGWVVCWURKYWx6WVlrNDBsLWZ4MDUtcHo3NDVFZnNUeFVoMnRlRHhuay0yTG9WOXg3WGw4cFBpRmc?oc=5)
+
+2026-11-14 <span class="news-indication-tag">migraine</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY3hoNklEWVdHTUhxZnlZU040Q3FJbzJRU0FzVEFGWVVCWURKYWx6WVlrNDBsLWZ4MDUtcHo3NDVFZnNUeFVoMnRlRHhuay0yTG9WOXg3WGw4cFBpRmc?oc=5)
+
+---
 
 ### [Experta subraya la relevancia de que el paciente describa bien la migraña para diferenciarla de otros dolores de cabeza - Diario Estrategia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRmx5WDdubXUxU0d4Vk4zVjl3VmJVMDZ4WEtqOUQ4WHF5SzVpT3pFMWtOM1Z6d2RKTmZ6RnhMVHN4SUJyLVVfTWFqTHNWd28zNXl4NFh1clN0QjkydU1LcVJnYzFOblp6MS04NWNoR0tKYmFnT2JQY0E1TzlvczVGRk1XMnNkbVlROFRNdkxHZDhPdkJDdHc2cFdvTGtGWVpYdjFFdDNqTlZTNll0bnVCYTBqVzFnay0yMjBMWnQtMk5lTVplalpxRzdXdG90dk9vbExkZl96bnpPeWN2YjVOeVE2anRZSHJP?oc=5)
 

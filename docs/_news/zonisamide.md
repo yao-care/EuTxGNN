@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Zonisamide. 9 predicted indications."
 permalink: /news/zonisamide/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-14
 ---
 
 # Zonisamide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Zonisamide?">
-<strong>Zonisamide</strong> currently has <strong>34 news articles</strong>, with 9 predicted indications.
+<strong>Zonisamide</strong> currently has <strong>36 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,37 @@ This page combines the AI-predicted indications for Zonisamide with the latest h
 <p><a href="{{ '/drugs/zonisamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (34)
+## Related News (36)
 
-### [Laut Nephrologen: Dieser unterschätzte Blutdruck-Wert schädigt die Nieren jahrelang unbemerkt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
+### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
 
-2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">Herzerkrankung</span>
+2026-11-14 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
 
 ---
 
-### [Red flag symptom in legs could be sign of heart failure - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+### [Tooth pain & bleeding gums... dental issues masking serious deadly illnesses - from brain tumours to heart disease - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ0xpb2MyMldubWxCWHFIZHZQNVY4X0tsRXBqdDE1V1k0TjJwenRxdXlyVkhLcy1CSGVQZ1V3dUxMY2dSaUdqUFhlazgwbWJ2U1FZcTlFdDJHQkJLWmtYUkl0QnpkbFFQdVoyMEY4aXQ1cE9hbmlnMUROYlF2cw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ0xpb2MyMldubWxCWHFIZHZQNVY4X0tsRXBqdDE1V1k0TjJwenRxdXlyVkhLcy1CSGVQZ1V3dUxMY2dSaUdqUFhlazgwbWJ2U1FZcTlFdDJHQkJLWmtYUkl0QnpkbFFQdVoyMEY4aXQ1cE9hbmlnMUROYlF2cw?oc=5)
+
+---
+
+### ["Los nuevos fármacos suponen un cambio de paradigma en el tratamiento de la epilepsia" - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXJBRUNQNmx2enFrUmlDNzlhS25ocHA3djR0OHJWaGlyQWFyc19kNnpOWEI3Q0RlUkJ4bFpfejBaVWduV0wtYVRoa29YTkFrZUVUcWxjTjJOWk9iMTdTQkJqYnpmNGpxblU0Nm1IcS1xYnpSdEFCb2dhQWxPeWF0bzd4ZW9ScjJzZkNHVEFFLTRPR1hEUC1JNjk1SUlKZ3FvWUw2Ry11TjNLMGJvZDB4SFFGcl9UNGN1Q3FmZWJnNGvSAbsBQVVfeXFMTmZjdFVGWEFXMFJHNkExd1VUY0Jha0FlNXdSV1hkTDFVZGNiN0NYazZrdTJFTHl2alJPWlo3THppUVJkQXpQY2lnendLSmZicmptY3BfTWtCYVVNZlV4RU5WV0kyd1poMzMwR1JXdHV5cUhJX3loWklacDY1d3VRdFlGeVJvSmlhX1NEazVaQ09salcxdThVME9KSnppUHcxall3bEdWdEYycEJfRU1tM1RJY3VPeV9QOWREMA?oc=5)
+
+2026-11-13 <span class="news-indication-tag">epilepsia</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXJBRUNQNmx2enFrUmlDNzlhS25ocHA3djR0OHJWaGlyQWFyc19kNnpOWEI3Q0RlUkJ4bFpfejBaVWduV0wtYVRoa29YTkFrZUVUcWxjTjJOWk9iMTdTQkJqYnpmNGpxblU0Nm1IcS1xYnpSdEFCb2dhQWxPeWF0bzd4ZW9ScjJzZkNHVEFFLTRPR1hEUC1JNjk1SUlKZ3FvWUw2Ry11TjNLMGJvZDB4SFFGcl9UNGN1Q3FmZWJnNGvSAbsBQVVfeXFMTmZjdFVGWEFXMFJHNkExd1VUY0Jha0FlNXdSV1hkTDFVZGNiN0NYazZrdTJFTHl2alJPWlo3THppUVJkQXpQY2lnendLSmZicmptY3BfTWtCYVVNZlV4RU5WV0kyd1poMzMwR1JXdHV5cUhJX3loWklacDY1d3VRdFlGeVJvSmlhX1NEazVaQ09salcxdThVME9KSnppUHcxall3bEdWdEYycEJfRU1tM1RJY3VPeV9QOWREMA?oc=5)
+
+---
+
+### [Red flag symptom in legs could be sign of heart failure](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 2026-11-11 <span class="news-indication-tag">heart failure</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+Source: [Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 ---
 
@@ -69,7 +85,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTH
 
 ### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 
-2026-11-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">atrial fibrillation</span>
+2026-11-10 <span class="news-indication-tag">atrial fibrillation</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 

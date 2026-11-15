@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "enfermedad de Parkinson (parkinson disease) News"
+title: "maladie de Parkinson (parkinson disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about enfermedad de Parkinson (parkinson disease). 8 articles, 7 related drugs."
+description: "Health news about maladie de Parkinson (parkinson disease). 8 articles, 7 related drugs."
 permalink: /news/parkinson-disease/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
-# enfermedad de Parkinson (parkinson disease) News
+# maladie de Parkinson (parkinson disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about enfermedad de Parkinson (parkinson disease)?">
-<strong>enfermedad de Parkinson (parkinson disease)</strong> currently has <strong>8 news articles</strong> and 7 related drugs.
+<p class="key-answer" data-question="What news is there about maladie de Parkinson (parkinson disease)?">
+<strong>maladie de Parkinson (parkinson disease)</strong> currently has <strong>8 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “enfermedad de Parkinson” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “maladie de Parkinson” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">

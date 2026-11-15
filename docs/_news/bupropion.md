@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Bupropion. 0 predicted indications."
 permalink: /news/bupropion/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 ---
 
 # Bupropion News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Bupropion?">
-<strong>Bupropion</strong> currently has <strong>84 news articles</strong>, with 0 predicted indications.
+<strong>Bupropion</strong> currently has <strong>96 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,95 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (84)
+## Related News (96)
+
+### [Eiweißarme Ernährung verlangsamt den Alterungsprozess](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS1hU0haa0tsbFg4NDNrRURfLXhJUFh6MzV1X1cteFlBSGRjREZGOGRGa0VVRGtfOXBkenVLN3BxcHNsX2xiVkwwRDVSWmVneXQ3Sl9YYWVvWldYX3hsVnpKWW1yM0VBdlZaREtKTUxlS3ZHOGY5WHI3dUF5aktxSjNKNVZXNDdnX0g0dmxBMElaYkhsQzdN?oc=5)
+
+2026-11-14 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Scinexx](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS1hU0haa0tsbFg4NDNrRURfLXhJUFh6MzV1X1cteFlBSGRjREZGOGRGa0VVRGtfOXBkenVLN3BxcHNsX2xiVkwwRDVSWmVneXQ3Sl9YYWVvWldYX3hsVnpKWW1yM0VBdlZaREtKTUxlS3ZHOGY5WHI3dUF5aktxSjNKNVZXNDdnX0g0dmxBMElaYkhsQzdN?oc=5)
+
+---
+
+### [Hundreds of children in England prescribed weight-loss jabs, figures show - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3pnRU9ScnlvYkl1VWdPRjFaUjFlSmY5VWVLd3M4QlRCUmhKZmhmQXhzN3FVVzk2Vm1IUE9CM2pIdTM5N1lGMkNvMlJrZW9kV2dCbGxFM0ZYUDFqSGFxZkxpbGUta3dFWTExVC1ZMGFyN08wNW1OVC16Vl9JR0dyWUllQzBQSWVVQWEtb3YteEwzMUM2TUN3OA?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3pnRU9ScnlvYkl1VWdPRjFaUjFlSmY5VWVLd3M4QlRCUmhKZmhmQXhzN3FVVzk2Vm1IUE9CM2pIdTM5N1lGMkNvMlJrZW9kV2dCbGxFM0ZYUDFqSGFxZkxpbGUta3dFWTExVC1ZMGFyN08wNW1OVC16Vl9JR0dyWUllQzBQSWVVQWEtb3YteEwzMUM2TUN3OA?oc=5)
+
+---
+
+### [TÉMOIGNAGE. "Je ne voulais ni opération ni médicament" : face à l'arrivée du Wegovy, cette Gersoise raconte comment elle a perdu 30 kilos](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTkJNdXJsd0hSVlVHN1lkM0xUV0Mxc3g2TnplcVJfcTgxWDVsU2xuczM3MXJYa1Y2YjY5Q1RhbF9QMkdLZ2ZpOWFaNnVZb2h3dVRtY1pZOGpGeG5tSFZwS0lBT2xiUUpmWk9xdVowekxzaHJwaEYtTzBiMlFxT1lfUnZNcWVuVzdQdTZDS1BFeUx1cG92dUYzaDdGMGM1dE5zM25IVG1rbVJRSmlfWmFNdGpVUlMwRTVwb0g3ZEdYOElyN2k2ZVFaRDZ5cldoTGlkeU5GY29MenA1LUp4VEZoQlIwc2dlSGtEMEltcFJnVlNvQ0hlczhwNlZWdlZZZHVfeHZVX0Z1TUpXSEE?oc=5)
+
+2026-11-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTkJNdXJsd0hSVlVHN1lkM0xUV0Mxc3g2TnplcVJfcTgxWDVsU2xuczM3MXJYa1Y2YjY5Q1RhbF9QMkdLZ2ZpOWFaNnVZb2h3dVRtY1pZOGpGeG5tSFZwS0lBT2xiUUpmWk9xdVowekxzaHJwaEYtTzBiMlFxT1lfUnZNcWVuVzdQdTZDS1BFeUx1cG92dUYzaDdGMGM1dE5zM25IVG1rbVJRSmlfWmFNdGpVUlMwRTVwb0g3ZEdYOElyN2k2ZVFaRDZ5cldoTGlkeU5GY29MenA1LUp4VEZoQlIwc2dlSGtEMEltcFJnVlNvQ0hlczhwNlZWdlZZZHVfeHZVX0Z1TUpXSEE?oc=5)
+
+---
+
+### [«C’è una molecola che riduce la fame». A Roma la nuova ricerca anti-obesità - Il Messaggero](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUjFrNzhTN25CZHR3Mi15R1Y4YmFEUUJSakxHVExwcWRmZFJFV3ZmTUZIT1d5Ul8zOEgwSURCTExMNzZjNGRkcXlQOVBDaTlHSGt6YjdOVWJMRmhsUG1sRW9kUURSNVRuQml4RTR3aHZqanlySHJhSmxMSG9yNEFiendPZVY1VlhObU9fOHVYV2hoaDkzenpOWHdrUjVLVThDUDBjRDBrdDRYb0JSMkExQXFYQdIBrAFBVV95cUxPNGtPOEprOU1DbmFNZTBBNWE2UGdvczJPWVMxdGxzaHBwM1pGdDRIVFVpaXhVcXNabjlRZHE1bV9JSkdsQ3VfUHlLdDMtcVFYbk00TGpVM0pLWU5ha3pyemgzSjZWeHJFMG5iQWF1eUZNY2gwUzZhRDNJS3locDF5b2VnNmY2MUtRS0JVejFWbEEtYkhjaVRwZVVUS0I5cGlVZTc5d0hQeWVnQTU3?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUjFrNzhTN25CZHR3Mi15R1Y4YmFEUUJSakxHVExwcWRmZFJFV3ZmTUZIT1d5Ul8zOEgwSURCTExMNzZjNGRkcXlQOVBDaTlHSGt6YjdOVWJMRmhsUG1sRW9kUURSNVRuQml4RTR3aHZqanlySHJhSmxMSG9yNEFiendPZVY1VlhObU9fOHVYV2hoaDkzenpOWHdrUjVLVThDUDBjRDBrdDRYb0JSMkExQXFYQdIBrAFBVV95cUxPNGtPOEprOU1DbmFNZTBBNWE2UGdvczJPWVMxdGxzaHBwM1pGdDRIVFVpaXhVcXNabjlRZHE1bV9JSkdsQ3VfUHlLdDMtcVFYbk00TGpVM0pLWU5ha3pyemgzSjZWeHJFMG5iQWF1eUZNY2gwUzZhRDNJS3locDF5b2VnNmY2MUtRS0JVejFWbEEtYkhjaVRwZVVUS0I5cGlVZTc5d0hQeWVnQTU3?oc=5)
+
+---
+
+### [Más del 60% de pacientes con enfermedad renal crónica tiene obesidad, pero el IMC solo la detecta en el 40% - Somos Pacientes](https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk00RncteGJVYWY2N3k4dkVfTERZZEtZMDVmN3VicUh2VlBfX2RtQWxqTFpaSVZQNmFuY1pTSW93SjZvb2doWHVQZXc2bmluUUd0bnlzSE56SEhhVlFzV0ljRFZPZlUxTEhOWk5mTzQwUUI3TmV1WndIeUVRVGFXSjdNQnlXQ3FQWmgxZDBTcVBqTThMRXdz?oc=5)
+
+2026-11-13 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk00RncteGJVYWY2N3k4dkVfTERZZEtZMDVmN3VicUh2VlBfX2RtQWxqTFpaSVZQNmFuY1pTSW93SjZvb2doWHVQZXc2bmluUUd0bnlzSE56SEhhVlFzV0ljRFZPZlUxTEhOWk5mTzQwUUI3TmV1WndIeUVRVGFXSjdNQnlXQ3FQWmgxZDBTcVBqTThMRXdz?oc=5)
+
+---
+
+### [Distinguir entre obesidad clínica y preclínica permite mejorar el diagnóstico e individualizar el tratamiento - Redacción Médica](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRGtOR0ZMVnBBSGRFVHM2dzNSaFNlZWQ0TDlhX3RtVTZHOUhHbGJYb0xna3BvUXRZMlJnTnZFaXFISHNQdzR0a0N3U3pBSzRTVjhMZHVLeUxPOGlTcGNGaUNmUzctb1Vab01PbFlKZGgtSEloVkhjRV8tQ0ROOHF0N2s3c180dV8yUThtbmV1WWl2SVcwQWNOejF4UXhJUFlvby10LURJTUhKYWZDSFFTVXpNMEl1NjZEb3dIMEtiX29rdEJYUUluR2xzSF9ZdTJDbF9FUF9wblhfbnB5aUJ5VnVHX1pYWWNkZHo5a0ZDRkREa0JkdWR1MXRKONIBgAJBVV95cUxPRkJVVnlFTEdQak5FanlSVkNBSXRmdkdnTFZ2V3d6UGtiYW5LOVZ1ZnlyU1VBc0gySzVKTjhpMmNXUG1fc0hHWlRPeTNFbnM4RWZDZkVfLTZubzRTTTdUN3haQmd6dGlOLTBoYkxUZ1FVeUVZazFMTlNBX21Nb2U5UTB1ZWRnbmIzdDF5dEpBNU9ncmdaclJmWFlQVHM4bEFaQ3VJN1ozQVRiYkhJQ29GeHVpTF9MVG1tVENPWEZQS04xRVFaRERiZjYwTU91Sy1lc3NKVWd2TzdOOGtRZ21aNjZhWXRBdXlUVERDay02c0RZUXNGMlQzYWJ4NmlmZkZu?oc=5)
+
+2026-11-13 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Redacción Médica](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRGtOR0ZMVnBBSGRFVHM2dzNSaFNlZWQ0TDlhX3RtVTZHOUhHbGJYb0xna3BvUXRZMlJnTnZFaXFISHNQdzR0a0N3U3pBSzRTVjhMZHVLeUxPOGlTcGNGaUNmUzctb1Vab01PbFlKZGgtSEloVkhjRV8tQ0ROOHF0N2s3c180dV8yUThtbmV1WWl2SVcwQWNOejF4UXhJUFlvby10LURJTUhKYWZDSFFTVXpNMEl1NjZEb3dIMEtiX29rdEJYUUluR2xzSF9ZdTJDbF9FUF9wblhfbnB5aUJ5VnVHX1pYWWNkZHo5a0ZDRkREa0JkdWR1MXRKONIBgAJBVV95cUxPRkJVVnlFTEdQak5FanlSVkNBSXRmdkdnTFZ2V3d6UGtiYW5LOVZ1ZnlyU1VBc0gySzVKTjhpMmNXUG1fc0hHWlRPeTNFbnM4RWZDZkVfLTZubzRTTTdUN3haQmd6dGlOLTBoYkxUZ1FVeUVZazFMTlNBX21Nb2U5UTB1ZWRnbmIzdDF5dEpBNU9ncmdaclJmWFlQVHM4bEFaQ3VJN1ozQVRiYkhJQ29GeHVpTF9MVG1tVENPWEZQS04xRVFaRERiZjYwTU91Sy1lc3NKVWd2TzdOOGtRZ21aNjZhWXRBdXlUVERDay02c0RZUXNGMlQzYWJ4NmlmZkZu?oc=5)
+
+---
+
+### [Besser als BMI: Neue Adipositas-Definition bewährt sich - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkllLXRqZUJPSnNBaFM0eFRfMU9Sb1dMc21LRHF6bFZLdEVwcUh6SnlKV05sQ21LeU9xdnlvOUJXUGlsUThPZlZjdDRvU0swUnVFM0hmVThGZEI5X3k1TUI5LUhsdVZRUUpwZHdlV1pVUG4zUEpCeUN3UmRaZ3hOVl9JbE9TbjZnN051U2p5MXc?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkllLXRqZUJPSnNBaFM0eFRfMU9Sb1dMc21LRHF6bFZLdEVwcUh6SnlKV05sQ21LeU9xdnlvOUJXUGlsUThPZlZjdDRvU0swUnVFM0hmVThGZEI5X3k1TUI5LUhsdVZRUUpwZHdlV1pVUG4zUEpCeUN3UmRaZ3hOVl9JbE9TbjZnN051U2p5MXc?oc=5)
+
+---
+
+### [Neue Adipositas-Definition: Warum der BMI allein nicht mehr ausreicht](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWV2MW9UbERHNFNkbW5FendtQWhtMjZuTTV3UlhXMkpJTWZLU0QyNUxiUl9tNVVRbU84SW5US3JYRXktTjI5U2picGxIZVducW53M3N4WFFQN0JiZU9JVjNEZU5PdGlrM0gyOWM3NE1obkJKNXNON2pTOTUxTlQ1SzZmd3VnLVdxU01OVjhtYXF3blZhTlhMR1FwelNlWDNVVzMyc21CdEFMMTg0TDRSSlczcw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Adipositas</span>
+
+Source: [MDR.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWV2MW9UbERHNFNkbW5FendtQWhtMjZuTTV3UlhXMkpJTWZLU0QyNUxiUl9tNVVRbU84SW5US3JYRXktTjI5U2picGxIZVducW53M3N4WFFQN0JiZU9JVjNEZU5PdGlrM0gyOWM3NE1obkJKNXNON2pTOTUxTlQ1SzZmd3VnLVdxU01OVjhtYXF3blZhTlhMR1FwelNlWDNVVzMyc21CdEFMMTg0TDRSSlczcw?oc=5)
+
+---
+
+### [Los endocrinólogos reclaman un abordaje conjunto de la obesidad y la diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmFqRFRKNkZYYXFVYm5JR0gyWFFQdzlobjBkZDZoTnRGTWlZX0NCdGFLTUU5Q1lkMEJxcVV1ZnNEZll6V3I5ZGhtQmpSMTVDVVN1NVpWd19zV0owLWRxSUc5ZnFNQTNvTlU0UXQ3amNtUXVLdUdWanVpWUpNYWFOZERKX2dPRjZKX2FkYS0ydlM4d2RyODVXUkNKbHFmek9FNTM3MEQtc3NLTmpwSTQzQ0NRbHlQYzJXaHp5NjBaUVHSAbsBQVVfeXFMTmZwX2w3cEthbDk5dG1BaV83ZjZsSVVfc0JudFF6UU82VTVPdGUwVzBrN3FidHhVVnBGeFBCdE9XN25ORHBjeExNYWZRZjJ1cDIzYjdtUF9OWWtHV0k0dDFnUjd3cFZKNGN4czNETmJ2bHAwWW02ZWhkdmMyMnVmVXdaMmRDdU5MckdXeTEzN0Y2VWY2LUNhdWt1SGY2MjFfSXBfXzdWdnpTSEg0ZW1xZVFJVjV6eUVPV2Jnbw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmFqRFRKNkZYYXFVYm5JR0gyWFFQdzlobjBkZDZoTnRGTWlZX0NCdGFLTUU5Q1lkMEJxcVV1ZnNEZll6V3I5ZGhtQmpSMTVDVVN1NVpWd19zV0owLWRxSUc5ZnFNQTNvTlU0UXQ3amNtUXVLdUdWanVpWUpNYWFOZERKX2dPRjZKX2FkYS0ydlM4d2RyODVXUkNKbHFmek9FNTM3MEQtc3NLTmpwSTQzQ0NRbHlQYzJXaHp5NjBaUVHSAbsBQVVfeXFMTmZwX2w3cEthbDk5dG1BaV83ZjZsSVVfc0JudFF6UU82VTVPdGUwVzBrN3FidHhVVnBGeFBCdE9XN25ORHBjeExNYWZRZjJ1cDIzYjdtUF9OWWtHV0k0dDFnUjd3cFZKNGN4czNETmJ2bHAwWW02ZWhkdmMyMnVmVXdaMmRDdU5MckdXeTEzN0Y2VWY2LUNhdWt1SGY2MjFfSXBfXzdWdnpTSEg0ZW1xZVFJVjV6eUVPV2Jnbw?oc=5)
+
+---
+
+### [El modelo de carbohidratos e insulina plantea una nueva perspectiva sobre los mecanismos de la obesidad - IM Farmacias](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWdDcEhaZnNQX0JEV1RjZXhGT182X2VfdUJyZnRDbHJmUFNlQzMzc2d5QnVOSHFUSklqRWM1b3dNQ2dNSUllcTB1OVVIbi1fSHRyZl9sTVdDSzlBLURQUS1lOHZtRm5hWjFjdU9KeVItTnJKZ2lKQWI3VWhIWlRwdmVMUktxV3h0UDZ2cVRRaUJOLVZFelc1NGxKVVNrU0dlc3FFNU10YUJoR3hqN01UMXdNSjBlS03SAbIBQVVfeXFMUEgyWTRzMnR5R1BkcEstYVdFWHVEOTJpV09Pb0Y4SWpSMEY1OFlKbUg0S2RPU1ZqVW9DSzh2NkxUMVRXTjdMYmhLLThscW5LMlpSTGJZSXRCbFlJeEwyb1NZck0wSGFtLWQ1UWhReU56cEVpQndvdGV4bW5QbzI5S2U3Vy1WSndtSVdwTUFYRmpMdUNVN0FLdG56TXJSc1RXRlN6djI3WjIzajctM2QzMVZ5UQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWdDcEhaZnNQX0JEV1RjZXhGT182X2VfdUJyZnRDbHJmUFNlQzMzc2d5QnVOSHFUSklqRWM1b3dNQ2dNSUllcTB1OVVIbi1fSHRyZl9sTVdDSzlBLURQUS1lOHZtRm5hWjFjdU9KeVItTnJKZ2lKQWI3VWhIWlRwdmVMUktxV3h0UDZ2cVRRaUJOLVZFelc1NGxKVVNrU0dlc3FFNU10YUJoR3hqN01UMXdNSjBlS03SAbIBQVVfeXFMUEgyWTRzMnR5R1BkcEstYVdFWHVEOTJpV09Pb0Y4SWpSMEY1OFlKbUg0S2RPU1ZqVW9DSzh2NkxUMVRXTjdMYmhLLThscW5LMlpSTGJZSXRCbFlJeEwyb1NZck0wSGFtLWQ1UWhReU56cEVpQndvdGV4bW5QbzI5S2U3Vy1WSndtSVdwTUFYRmpMdUNVN0FLdG56TXJSc1RXRlN6djI3WjIzajctM2QzMVZ5UQ?oc=5)
+
+---
+
+### [Los endocrinólogos alertan sobre la necesidad de prevenir conjuntamente la obesidad y la diabetes - PR Noticias](https://news.google.com/rss/articles/CBMizAFBVV95cUxPdGQzeWY3VnpZUEt3V1VuWGVRM2RhaWJyY1ZXN3VXRUVDTjRtSUo3T2xFNHNuWk81WFYxWjNpc19tN2gyUzc5bDU3Mk92akd0ejJHMG90NUJHNUI2anl3Y3lnWEJLaTZlT01DNlY0NnM2OTA1UThELXlpUGR2cnU1TXZGOGlMYWY0UG1ndUd2SzhQd3B3ZGVVTjV6NGV6ajF5UzMxSC00MW8yWG55NXNpVUl2M0xUamM1YlV6SVFISEx6dUY3TVo2clJ6aWvSAcwBQVVfeXFMT3RkM3lmN1Z6WVBLd1dVblhlUTNkYWlicmNWVzd1V0VFQ040bUlKN09sRTRzblpPNVhWMVozaXNfbTdoMlM3OWw1NzJPdmpHdHoyRzBvdDVCRzVCNmp5d2N5Z1hCS2k2ZU9NQzZWNDZzNjkwNVE4RC15aVBkdnJ1NU12RjhpTGFmNFBtZ3VHdks4UHdwd2RlVU41ejRlemoxeVMzMUgtNDFvMlhueTVzaVVJdjNMVGpjNWJVeklRSEhMenVGN01aNnJSemlr?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [PR Noticias](https://news.google.com/rss/articles/CBMizAFBVV95cUxPdGQzeWY3VnpZUEt3V1VuWGVRM2RhaWJyY1ZXN3VXRUVDTjRtSUo3T2xFNHNuWk81WFYxWjNpc19tN2gyUzc5bDU3Mk92akd0ejJHMG90NUJHNUI2anl3Y3lnWEJLaTZlT01DNlY0NnM2OTA1UThELXlpUGR2cnU1TXZGOGlMYWY0UG1ndUd2SzhQd3B3ZGVVTjV6NGV6ajF5UzMxSC00MW8yWG55NXNpVUl2M0xUamM1YlV6SVFISEx6dUY3TVo2clJ6aWvSAcwBQVVfeXFMT3RkM3lmN1Z6WVBLd1dVblhlUTNkYWlicmNWVzd1V0VFQ040bUlKN09sRTRzblpPNVhWMVozaXNfbTdoMlM3OWw1NzJPdmpHdHoyRzBvdDVCRzVCNmp5d2N5Z1hCS2k2ZU9NQzZWNDZzNjkwNVE4RC15aVBkdnJ1NU12RjhpTGFmNFBtZ3VHdks4UHdwd2RlVU41ejRlemoxeVMzMUgtNDFvMlhueTVzaVVJdjNMVGpjNWJVeklRSEhMenVGN01aNnJSemlr?oc=5)
+
+---
 
 ### [OBESIDAD: la atención personalizada y el fenotipado como ejes del modelo asistencial - Gaceta Médica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWDZTQll5bWpJRHppMDBwSG4xM1NCbFBiamdIaFRVOFFQSEMtbklNMlFoTjhqblJ0aTM5WHdGYnJocHRHQkFhS1cwOFEtOWhJaDlDTW1ibjZhc2VINE96dHdlUjdIUUNWXzlIYzVkVE1NTWQ0d0VRY2xQdUI2X0pDSjBLRFJSeFoxWFg1RHRrM2cxT0VjZEQ2Mjlpd3FYOGVLSUJWRHZYQnZ3SW5weTJZZXpHNDBaRlF1?oc=5)
 
@@ -77,6 +165,14 @@ Source: [BFM](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNU1BKVnZOQzZkY
 2026-11-12 <span class="news-indication-tag">obesidad</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWFBRWVxMGpFV3Jra1RSZFpTWHo3MDl1c0cxSTdEdXFCWndncmxXeHgxYzZtVjFhbFV3NGYwVWR4UmtjWkRSYk9uSERfWUFoOENvTkJoRk91bmo2UUw5UGV4UEl4YWpkekZKRHFvak5lRUV4RnlFcjdvMUk5TmZ6TTFEOENvU2tZbE50enY5VUE3RGFoYWp5MDdGZThwYUJJVkxvd2lrVlVON1hQd0dUczR2VGhzRzllZVpERXpUUjFlOWpjSWNOeVFHbGE?oc=5)
+
+---
+
+### [Il pasto serale è il preferito dagli uomini. Ma rischiano l'obesità più delle donne - Il Messaggero](https://news.google.com/rss/articles/CBMizAFBVV95cUxNWDJGemlqVlRHRUdON1NwN0hIRXBNQXRBVEU5WjBleG1ObnJ0ZkM2YUs5OVJGSmlIWTJtVVBmdmltUTlHcXQyR0dfYmowdDVmVTlwbkxzdGMtMm10Z0pDY1ZlT1JUT1BSemFxeVc0Z3NhTjc3VTJjRzdtNGxRN2tlU29YMFE3RV8zcFpVMW5QeTZfSW1MVjB2MUhrNE0yaVRvOFlXSTBiZWhzei1qSXNMUzlrZEhQRmthanVNNV9tdXhia1ZHcDRGd3NCT3DSAcIBQVVfeXFMT3dPcUR5dEtHODBYdDdqVFgwM0x3NHc5Yk80b1pmLUM2M0dDZWR5bmpsNEhhaEM4cUlMaEtMNWpzZkQxV25UaUVXN05lcWtZY3Z4ZHNhandrc3lvd0pidHI2eVpWNWZPdkV3RkhjVnB1Tzk3MXNUblBTNWdnanNXMERDc1BYc3hLLUdxRkFwT01Yenl6LXFmWURMWnVOTVYzOWhvdXNKb2I4VERMUlA0X2d1bVFKN3EtMzA0UVg3TXBLZ2c?oc=5)
+
+2026-11-12 <span class="news-indication-tag">obesità</span>
+
+Source: [Il Messaggero](https://news.google.com/rss/articles/CBMizAFBVV95cUxNWDJGemlqVlRHRUdON1NwN0hIRXBNQXRBVEU5WjBleG1ObnJ0ZkM2YUs5OVJGSmlIWTJtVVBmdmltUTlHcXQyR0dfYmowdDVmVTlwbkxzdGMtMm10Z0pDY1ZlT1JUT1BSemFxeVc0Z3NhTjc3VTJjRzdtNGxRN2tlU29YMFE3RV8zcFpVMW5QeTZfSW1MVjB2MUhrNE0yaVRvOFlXSTBiZWhzei1qSXNMUzlrZEhQRmthanVNNV9tdXhia1ZHcDRGd3NCT3DSAcIBQVVfeXFMT3dPcUR5dEtHODBYdDdqVFgwM0x3NHc5Yk80b1pmLUM2M0dDZWR5bmpsNEhhaEM4cUlMaEtMNWpzZkQxV25UaUVXN05lcWtZY3Z4ZHNhandrc3lvd0pidHI2eVpWNWZPdkV3RkhjVnB1Tzk3MXNUblBTNWdnanNXMERDc1BYc3hLLUdxRkFwT01Yenl6LXFmWURMWnVOTVYzOWhvdXNKb2I4VERMUlA0X2d1bVFKN3EtMzA0UVg3TXBLZ2c?oc=5)
 
 ---
 
@@ -128,6 +224,14 @@ Source: [MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi5g
 
 ---
 
+### [BMI alternative for identifying obesity ‘could prevent misdiagnosis in millions’ - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxOd3Fvbkxoc0tOdFMyNVZRWkRjcHdCMHgwU1c1Zm9WUExDSExJbDVISHBMMUlPOTBWUUlPUVlmQ3ItY243dXFvOHloMEZ2TE1GTTZZNUZ3RDVqWmliMmFnWWplamdoVGVlMEZxR19OV0VBaVRGYzY5UkROVFFoSGc4dkRINGROQ3ctcDJlVlFWbjVkWFA0V2lCcDFkU2NKdw?oc=5)
+
+2026-11-11 <span class="news-indication-tag">obesity</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxOd3Fvbkxoc0tOdFMyNVZRWkRjcHdCMHgwU1c1Zm9WUExDSExJbDVISHBMMUlPOTBWUUlPUVlmQ3ItY243dXFvOHloMEZ2TE1GTTZZNUZ3RDVqWmliMmFnWWplamdoVGVlMEZxR19OV0VBaVRGYzY5UkROVFFoSGc4dkRINGROQ3ctcDJlVlFWbjVkWFA0V2lCcDFkU2NKdw?oc=5)
+
+---
+
 ### [Una nueva forma de medir la obesidad eleva casi un 40% los casos en España - EL PAÍS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVFZQUk4ycklralJwcTRaTHdUY2Q1eWF6Rk5xNkE3SE1EMFdrYk96R0YydFpOajZhTnR0WDBLYldfVE1ETG5SZ3B3R010cGxiTFJPWnNjTHJfRlBXLXVMR2tUM1djQW1KNmh1TkhzMUdaYVdSb2tSeld0aVlMLXQ4bXhuY2I4LXNsaGNlMG9QWVBKbDVzdFdTVkFjU0ZDMzkxb29GdGRULUM5Z29XTVo0SlJBX1o3STA?oc=5)
 
 2026-11-11 <span class="news-indication-tag">obesidad</span>
@@ -152,14 +256,6 @@ Source: [Open](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdW
 
 ---
 
-### [The new high-carb diet that can reverse type 2 diabetes - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXdWYkR0aG9BZ0NaN0pFcjBIZlVRTFBlSGpvcDJfYml1Q0JYdEl1RGd2M0ZrRnkwYnNHU3ZRVDRZMV9FdWdrUG1idk8zSmJqU0dPT3V1ZERPTFZLN2J6bFp5bk1LZE1YazNCLTBFVTlid0VlR05Rb1kwUkJ6SF9ocVpBakdqdmQ2aW9IenZ6djFmclRoNjRqZml1MHJCQ01qVEJVdERyWTVCdw?oc=5)
-
-2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXdWYkR0aG9BZ0NaN0pFcjBIZlVRTFBlSGpvcDJfYml1Q0JYdEl1RGd2M0ZrRnkwYnNHU3ZRVDRZMV9FdWdrUG1idk8zSmJqU0dPT3V1ZERPTFZLN2J6bFp5bk1LZE1YazNCLTBFVTlid0VlR05Rb1kwUkJ6SF9ocVpBakdqdmQ2aW9IenZ6djFmclRoNjRqZml1MHJCQ01qVEJVdERyWTVCdw?oc=5)
-
----
-
 ### [La FDA exige cambiar la etiqueta en fármacos contra la obesidad por riesgo de enfermedad ocular rara - Salud a Diario](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSlhfZFZ2RTZFc3JicG9OWU4wZEZrc3R5eFhQaG1fcUtlcHVNQVVYUmthX3NMMWJZRHF5X1Bqc3JuNjhSbjBEdHdZWWYybXlHeWJuZFZHU2lnMjBqb0pkNzdnWmlBeG9oYVExNUZOck4xeE5HZDFLaF9NdFlGWDJpaFlKWlpCWXVHWFhPUVBJOC1mcnRQdlVnNkpyclBsVWpqb3F6N3g5RGZLVEpRVFoza0s2LVBjMzU2a1pVcGRwajBUbk5ONl9aVGZXdllLMmFRQjIwSXkxRWNUdXpGYXVjQw?oc=5)
 
 2026-11-11 <span class="news-indication-tag">obesidad</span>
@@ -168,11 +264,11 @@ Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSl
 
 ---
 
-### [Los riesgos que afrontan los diabéticos al dejar los GLP-1](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUNfRHVmSDlvMl9oRUp1TGd5ZjZibUxiN0FhZXFKT3NXUzJ0MFp0ODY2SjhscnlrX3dWaEJFRjNtQ2RBa001MFVvNGxNLTZONWRTME9fVWc0T2RXeG1TVlMwOWJRNE9RZE9KSUM1dUp6VjJnaDJUekZiaHlzMWZqdjVXNTdQS0twOGFHR3FncWFTVGw3WWM2S1VPbDVTU3JkTjRDekVUdU10WGV3RUItakhvX0xUa0hjOVFZ?oc=5)
+### [Llega Wegovy a España para tratarse la obesidad](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDVtU3BheEJJMXNiYTJhTngydDd4dTN2T1pqZ3lEZVp6X2k4M0ljRWNGRW1ZZ0pfMzRoUXhNMlB2RFJBbVhmaE5zc0hGZGhfSzNfd0ZHcWEyNWVlTThIZ1JEMTNmbmtHenphMG4yTU1xam5CSXlwVEp3T2prckstNmVJdFNrdw?oc=5)
 
-2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUNfRHVmSDlvMl9oRUp1TGd5ZjZibUxiN0FhZXFKT3NXUzJ0MFp0ODY2SjhscnlrX3dWaEJFRjNtQ2RBa001MFVvNGxNLTZONWRTME9fVWc0T2RXeG1TVlMwOWJRNE9RZE9KSUM1dUp6VjJnaDJUekZiaHlzMWZqdjVXNTdQS0twOGFHR3FncWFTVGw3WWM2S1VPbDVTU3JkTjRDekVUdU10WGV3RUItakhvX0xUa0hjOVFZ?oc=5)
+Source: [PUERTODELACRUZ.COM](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDVtU3BheEJJMXNiYTJhTngydDd4dTN2T1pqZ3lEZVp6X2k4M0ljRWNGRW1ZZ0pfMzRoUXhNMlB2RFJBbVhmaE5zc0hGZGhfSzNfd0ZHcWEyNWVlTThIZ1JEMTNmbmtHenphMG4yTU1xam5CSXlwVEp3T2prckstNmVJdFNrdw?oc=5)
 
 ---
 

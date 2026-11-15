@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Teriflunomide. 0 predicted indications."
 permalink: /news/teriflunomide/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-14
 ---
 
 # Teriflunomide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Teriflunomide?">
-<strong>Teriflunomide</strong> currently has <strong>12 news articles</strong>, with 0 predicted indications.
+<strong>Teriflunomide</strong> currently has <strong>18 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,55 @@ This page combines the AI-predicted indications for Teriflunomide with the lates
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (18)
+
+### [Hepatitis cases at Bristol school spark vaccine rollout - Bristol Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVC11ZTlXVy01eDlZYk5uYTB1a2pHUnRnQnFnVVNjV1hpNGlwSHZMWk0xelp3cnBpYnphc0lwX2prV3JlSjNiR3YxVGVDSHlPdXNQdGtFbFlXdlZhWkxwTjZJdzZmMUJkbVB2MlpMRjhpTVloYlBZT3R2b0t1a3dteGNTdzlkaF84MERSX0F1M1BnbWxuR0tvbw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Bristol Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVC11ZTlXVy01eDlZYk5uYTB1a2pHUnRnQnFnVVNjV1hpNGlwSHZMWk0xelp3cnBpYnphc0lwX2prV3JlSjNiR3YxVGVDSHlPdXNQdGtFbFlXdlZhWkxwTjZJdzZmMUJkbVB2MlpMRjhpTVloYlBZT3R2b0t1a3dteGNTdzlkaF84MERSX0F1M1BnbWxuR0tvbw?oc=5)
+
+---
+
+### [Il neurologo Martino: «La sclerosi multipla si può tenere a lungo sotto controllo» - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNV19nZ0c2SWpRZTJBN1VPa2Nud1lhNFRZeFJMU0ZWWHBIcGpkeG5ZZlVDSzJsMkRRT0pPRWpLdlVKXzExVm5jQ1g4bGEtVHZ3dVpzRUQ3NVh4aWFLcGQ0SXlFSl9idHdZVC1xN3gxQWVJZmUyYkhEYkRNMU9uREN4eE1uSXRGV2FoZllTdkd1d1pMd29EX2dsbVoybG5ObmljX3NGUUoyOXd4MDdWdS05enc0VG5JNnlsa0Nud09Qbm1XRnJwUXFZNF95VG1KU0RsYmp3aDBHQ0NQMGpmQndqNmZ4bWM3S0lBTFloN2RvcTdiVmY1dVVGS0VYRlNkZGsxLXVxajN1R3BTVjlpQUlIdzZMOThnalZQQUxDbE93dGxaQ0tQUWozUkU3cUFKSU8xX1cxMFowY0FoNjRScUlHedIBxgJBVV95cUxNYjBQYzBPUVRMaEpUdFUwRGxLVnV2SHRISW15RF8tOEItWVpYR0dSLXNtNDRfX3dTV05TTS1yTktObGdFQ25iQ01Dcl9ZY1Frdzc4SVp4OW1CSERoejVrNDNIWW1pY1ZJaHdueWhjdGxwUDBUcFM0ZG9hZUNvSkE1b3doaGdIN2pNMGFFS2hKV1cyR0lIZnVpaHpXZHU5bnBKLVlpSGdURVZSR05tZkVFSzBXQTk2YUYyQmx3QWZRU1V0Tkp5ME1tRmhCLUllbzhZRmk3dThKVDl6cU1wX0ZMVWNtTGNnLXkwVWgwbngtVXZSUFNMSlRONGxGVm9jTVFYNkpwSk5zOTgwUDFPakZWcnFHdWViWVE0S2ZGYm11Q3ZUUUktUmlXZ1pSTEZKelB2T1I5c29HT0wteUVIbkg3OXAwVzdKdw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">sclerosi multipla</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNV19nZ0c2SWpRZTJBN1VPa2Nud1lhNFRZeFJMU0ZWWHBIcGpkeG5ZZlVDSzJsMkRRT0pPRWpLdlVKXzExVm5jQ1g4bGEtVHZ3dVpzRUQ3NVh4aWFLcGQ0SXlFSl9idHdZVC1xN3gxQWVJZmUyYkhEYkRNMU9uREN4eE1uSXRGV2FoZllTdkd1d1pMd29EX2dsbVoybG5ObmljX3NGUUoyOXd4MDdWdS05enc0VG5JNnlsa0Nud09Qbm1XRnJwUXFZNF95VG1KU0RsYmp3aDBHQ0NQMGpmQndqNmZ4bWM3S0lBTFloN2RvcTdiVmY1dVVGS0VYRlNkZGsxLXVxajN1R3BTVjlpQUlIdzZMOThnalZQQUxDbE93dGxaQ0tQUWozUkU3cUFKSU8xX1cxMFowY0FoNjRScUlHedIBxgJBVV95cUxNYjBQYzBPUVRMaEpUdFUwRGxLVnV2SHRISW15RF8tOEItWVpYR0dSLXNtNDRfX3dTV05TTS1yTktObGdFQ25iQ01Dcl9ZY1Frdzc4SVp4OW1CSERoejVrNDNIWW1pY1ZJaHdueWhjdGxwUDBUcFM0ZG9hZUNvSkE1b3doaGdIN2pNMGFFS2hKV1cyR0lIZnVpaHpXZHU5bnBKLVlpSGdURVZSR05tZkVFSzBXQTk2YUYyQmx3QWZRU1V0Tkp5ME1tRmhCLUllbzhZRmk3dThKVDl6cU1wX0ZMVWNtTGNnLXkwVWgwbngtVXZSUFNMSlRONGxGVm9jTVFYNkpwSk5zOTgwUDFPakZWcnFHdWViWVE0S2ZGYm11Q3ZUUUktUmlXZ1pSTEZKelB2T1I5c29HT0wteUVIbkg3OXAwVzdKdw?oc=5)
+
+---
+
+### [El remibrutinib reduce los brotes de esclerosis múltiple](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYndWWGRGc3h5U1RZTEtOeGNpanhaQlRwaXFhSzlzNEhtRXVQZnU5c3dWWmxoR01STWtNekhLRjFscFFEc0kydG80cEhTcWlZb1pBZ3BzdGFVRGE0Vk1nZW5oblRWbXQ1cENXOFRyMENIcFF0WE1kVWgxcEVzUGZJZ2JyUVphSGtjYXRPenhyQ2hTN0xHWGNZNURVY3FFeWpyaHc?oc=5)
+
+2026-11-13 <span class="news-drug-tag">Ibrutinib</span> <span class="news-indication-tag">esclerosis múltiple</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYndWWGRGc3h5U1RZTEtOeGNpanhaQlRwaXFhSzlzNEhtRXVQZnU5c3dWWmxoR01STWtNekhLRjFscFFEc0kydG80cEhTcWlZb1pBZ3BzdGFVRGE0Vk1nZW5oblRWbXQ1cENXOFRyMENIcFF0WE1kVWgxcEVzUGZJZ2JyUVphSGtjYXRPenhyQ2hTN0xHWGNZNURVY3FFeWpyaHc?oc=5)
+
+---
+
+### [El remibrutinib reduce los brotes de esclerosis múltiple](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTV9iTXZWQmFTNWh0ZktPbmxsaV9UdHc2bnA0WDBLRGdfT1RWa2J1NW4teHZ2X19qRFdJSm8xQzVCcU5ySTY1ZXdTSkY3LWZkTkZWWFR4Z2ZackJ5Z1R5SjQwMmRfVG5JTjNOVmRhQmZ1T1lJMXpwMFhrSzJmUHdYSzdUVVh6Smc2b2NucEcwY2FRd1NPZEczdy10V2l5ampla2FHdzFRNWRHV3JseDM3NVFwZXMzSDZYTmFxNDZUTmxmWjlSMkRsYWlhRWdwSnlBUncyUEZKdXE2UQ?oc=5)
+
+2026-11-13 <span class="news-drug-tag">Ibrutinib</span> <span class="news-indication-tag">esclerosis múltiple</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTV9iTXZWQmFTNWh0ZktPbmxsaV9UdHc2bnA0WDBLRGdfT1RWa2J1NW4teHZ2X19qRFdJSm8xQzVCcU5ySTY1ZXdTSkY3LWZkTkZWWFR4Z2ZackJ5Z1R5SjQwMmRfVG5JTjNOVmRhQmZ1T1lJMXpwMFhrSzJmUHdYSzdUVVh6Smc2b2NucEcwY2FRd1NPZEczdy10V2l5ampla2FHdzFRNWRHV3JseDM3NVFwZXMzSDZYTmFxNDZUTmxmWjlSMkRsYWlhRWdwSnlBUncyUEZKdXE2UQ?oc=5)
+
+---
+
+### [New MRI technique may reveal signs of myelin repair in multiple sclerosis - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDVLbV9pc1RpTXFTdTBLbU5rOFg1R1ROV0p4dWdCa3ZoY2QzREtKRGlDVXJNY2RQSW80TG5UUXN4YmNBYUYyZU1OY2ZGa2c4TndUZlg0QkQxdFBNT2U1VEduU082RnkwcUpGazJ4OHkwOHNBOTdoQnM4amkxcWUzQUFGeHpRenRwS2lzMzctM0Z6SndXWFVjQ2pHZm96MW0xQjYzMUdsdnVoZmJkNkZodzBwU0VXOGwtd0Voc1BlVUU?oc=5)
+
+2026-11-12 <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDVLbV9pc1RpTXFTdTBLbU5rOFg1R1ROV0p4dWdCa3ZoY2QzREtKRGlDVXJNY2RQSW80TG5UUXN4YmNBYUYyZU1OY2ZGa2c4TndUZlg0QkQxdFBNT2U1VEduU082RnkwcUpGazJ4OHkwOHNBOTdoQnM4amkxcWUzQUFGeHpRenRwS2lzMzctM0Z6SndXWFVjQ2pHZm96MW0xQjYzMUdsdnVoZmJkNkZodzBwU0VXOGwtd0Voc1BlVUU?oc=5)
+
+---
+
+### [Multiple Sklerose: Hochaktive Hirnregionen sind besonders gefährdet - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMilwFBVV95cUxOZENCZFBJd3pGTVR4WHZNTHNoV1Vid0Z5SlNuTU9pSWNGQnVEZER6Q2dtc2dpMVlOTjh4V2F2amVSaGxyaVZmZkpCdDhaQnAwa2RUa1d5dU5WYWVLS05MaUNNWGFObll3YTVBd0d0dHVrREhoVy00QlFDVkpmRWhVdHdPNm4wN3VZR0w3Sk0yNjVwbW1vV05N?oc=5)
+
+2026-11-12 <span class="news-indication-tag">Multiple Sklerose</span>
+
+Source: [Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMilwFBVV95cUxOZENCZFBJd3pGTVR4WHZNTHNoV1Vid0Z5SlNuTU9pSWNGQnVEZER6Q2dtc2dpMVlOTjh4V2F2amVSaGxyaVZmZkpCdDhaQnAwa2RUa1d5dU5WYWVLS05MaUNNWGFObll3YTVBd0d0dHVrREhoVy00QlFDVkpmRWhVdHdPNm4wN3VZR0w3Sk0yNjVwbW1vV05N?oc=5)
+
+---
 
 ### [Los bancos de sangre desechan una de cada mil donaciones por infecciones como sífilis, malaria, hepatitis y VIH: “No se nos puede escapar ni una” - EL PAÍS](https://news.google.com/rss/articles/CBMikgJBVV95cUxQQ2NxeE9KMXJnM08ta3BoZGJ6TlBZS0dpdjNGYmhrb1I1akh2N2F0VWFZWmpRdGFSSGFkN0Jwd2R1eFhtUzJPeVVlbUxxVWJsMzluV083U1laSjdBa085OVZNajl6SDktNGluOUlWZmJ6V0hTRGktSXNMZ2lNQ2M3THdxd1VnbVZBQ0VpUzV6ZlQyYkJLTEliZTcxNWl0bkRBRGgwMjFIMTBrUnd0SnZTc0N6clZIbmk4R0JDYU4xUjhlNXBRR3lwTVc0WnAxZmttcUFCQXdPT0w5ZlJJZWlZeFZxS0V2Vmx6dXlucVlHQ1I0a1cyMktBeWNYRUlXWHFpRkNHV01DeG15OXBiMkRmUHN30gGmAkFVX3lxTFA2TzRtTUtwS1lURzE5aWlQUVpyNkJVc1JqV0RLRnE1UV9qSlBvOGxoU05NMk9oTEVESXBheE85ckVPTkhrMjlnY0Juc2c2ajNIUlJhMzRFaUFucEhwREFUODZyWW9WTFV2WDJ1WnA5ektBQkROMWxuVnR6NHFEcGRqOW1mYXdLTU1hR3ZLT2Jla1E2UGV0Z0lqZ0VNRVdYNnIydHhvcVhHLUxrTHE0TUVJWW1YM3A3N0JsSkpMT0ZhaEtDaE1zaUMzVWNvR2tHR25rbzdyMllwY2Q5ak1WdEhHaXNXMHFWamFHT29CWEVseDA1SUtPbEpLaHFBTy1QODg0RmoyREF1alNrRlBvdTlWQ2RiMHJHM0E2cTF1cldkR040N0Mtdw?oc=5)
 

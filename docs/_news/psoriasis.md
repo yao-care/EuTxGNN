@@ -3,9 +3,9 @@ layout: default
 title: "soriasi (psoriasis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about soriasi (psoriasis). 7 articles, 11 related drugs."
+description: "Health news about soriasi (psoriasis). 8 articles, 11 related drugs."
 permalink: /news/psoriasis/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-13
 ---
 
 # soriasi (psoriasis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about soriasi (psoriasis)?">
-<strong>soriasi (psoriasis)</strong> currently has <strong>7 news articles</strong> and 11 related drugs.
+<strong>soriasi (psoriasis)</strong> currently has <strong>8 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “soriasi” and lists t
 </ul>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Nuevos hallazgos sobre la eficacia de los tratamientos biológicos en la psoriasis y pustulosis palmoplantar](https://news.google.com/rss/articles/CBMirAFBVV95cUxNUG1kaEVDN1VWeGtIQndDZEhJWEExWXhxWFJoa0VvZ0VMZmtDVGw2b0liaHhGZUdXMWFaOU5xdkUxaHozdTBhZkVNZ3htVHNUd2lJY2JETzh5bGxhQ0JDMXV3NUJzMXBacnZjRWZZaVFqa2t1Y3dLTUg1T2psUEFUcnlZUDBNZVpmNXFfWFhHX24yY1o2SkxwZW1mSzdVczQwelFBNGhFUEx5Mk96?oc=5)
+
+2026-11-13
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxNUG1kaEVDN1VWeGtIQndDZEhJWEExWXhxWFJoa0VvZ0VMZmtDVGw2b0liaHhGZUdXMWFaOU5xdkUxaHozdTBhZkVNZ3htVHNUd2lJY2JETzh5bGxhQ0JDMXV3NUJzMXBacnZjRWZZaVFqa2t1Y3dLTUg1T2psUEFUcnlZUDBNZVpmNXFfWFhHX24yY1o2SkxwZW1mSzdVczQwelFBNGhFUEx5Mk96?oc=5)
+
+---
 
 ### [Common supplement could help fight psoriasis, scientists discover - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5JdHdMZ2FxTjYydTFmQ2hQZXR2YXJIWU5zOGpRelV2U241TkVxdmxscHFfTTZoUG1EWERLbGtPay1ZMUZnX01ESUpPWS1tMTREY0R2QW1HVzBGUGphNU9EbmVrLUNPSllvODd5cl93TQ?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "artritis (arthritis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about artritis (arthritis). 13 articles, 73 related drugs."
+description: "Health news about artritis (arthritis). 14 articles, 73 related drugs."
 permalink: /news/arthritis/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # artritis (arthritis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about artritis (arthritis)?">
-<strong>artritis (arthritis)</strong> currently has <strong>13 news articles</strong> and 73 related drugs.
+<strong>artritis (arthritis)</strong> currently has <strong>14 news articles</strong> and 73 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -79,7 +79,15 @@ This page brings together the latest health news about “artritis” and lists 
 </ul>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### [Blood thinner could offer a new way to treat osteoarthritis - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbnhrWEl1WmtSbVNrN05ZWFF3c2s1emJPcGVJWk1NdldVNXhrZTdlakQyREVDSHFpMkd2QUdsWHQ2T19ZZ0h0RE12RFVPUkxKeWUydVJBVC1fbTlCaDY5RmgySFdlTmJFNDR0MHFLQ3VxczJMWF9lWmZyQTA?oc=5)
+
+2026-11-12
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbnhrWEl1WmtSbVNrN05ZWFF3c2s1emJPcGVJWk1NdldVNXhrZTdlakQyREVDSHFpMkd2QUdsWHQ2T19ZZ0h0RE12RFVPUkxKeWUydVJBVC1fbTlCaDY5RmgySFdlTmJFNDR0MHFLQ3VxczJMWF9lWmZyQTA?oc=5)
+
+---
 
 ### [Los metabolitos intestinales ayudan a predecir la respuesta a biológicos en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGpRMjJaWmdXdU1TV1g2bzdjekpjS3p4ek1wR1doc0JwVnk0UC1hU1Q4aTZ6bjAyd0dLQjFaZ2JGWjdPVnhZUVJqUm5hREdmVy0wZ3Q1Y1huanYya3p3TE1JTEdqaWxCa3ptck9kN09FSVBwLUlEVlVvdHZva1l4VEhuc3J5WEl3eVloVlZvdFlocmlwMXVQRENRWVlJOE9VSlVHYUxZREl4eW5lZC1PaC1oczZQVWZjbjRCVGxwSExpZ9IBvAFBVV95cUxPSUh3dDREZ1ZrbXVta2FJcnVidEtnRy1MQk0zWWtiQTE1dTNMWUNQSTJfMTJLMHBiaFVWX1FOOXdUUFNqZUUxUlNfYlZRZWdrdGJJNVBYYV9IbmlqNENWMWpTQl9TUmZhRVZDSFVURDFhOEtRc2JGd09lWFhjNjlPUmprRlF0QmVJTkNwZ2E1YzFQMW9BM2FsMU1zX2QtenBWT19CeDM2LUs2amU4QWFvVFBCUl9OZlcyV2E0Xw?oc=5)
 

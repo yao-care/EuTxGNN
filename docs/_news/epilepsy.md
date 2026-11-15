@@ -3,9 +3,9 @@ layout: default
 title: "epilepsia (epilepsy) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about epilepsia (epilepsy). 3 articles, 10 related drugs."
+description: "Health news about epilepsia (epilepsy). 4 articles, 10 related drugs."
 permalink: /news/epilepsy/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-13
 ---
 
 # epilepsia (epilepsy) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about epilepsia (epilepsy)?">
-<strong>epilepsia (epilepsy)</strong> currently has <strong>3 news articles</strong> and 10 related drugs.
+<strong>epilepsia (epilepsy)</strong> currently has <strong>4 news articles</strong> and 10 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “epilepsia” and lists
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### ["Los nuevos fármacos suponen un cambio de paradigma en el tratamiento de la epilepsia" - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXJBRUNQNmx2enFrUmlDNzlhS25ocHA3djR0OHJWaGlyQWFyc19kNnpOWEI3Q0RlUkJ4bFpfejBaVWduV0wtYVRoa29YTkFrZUVUcWxjTjJOWk9iMTdTQkJqYnpmNGpxblU0Nm1IcS1xYnpSdEFCb2dhQWxPeWF0bzd4ZW9ScjJzZkNHVEFFLTRPR1hEUC1JNjk1SUlKZ3FvWUw2Ry11TjNLMGJvZDB4SFFGcl9UNGN1Q3FmZWJnNGvSAbsBQVVfeXFMTmZjdFVGWEFXMFJHNkExd1VUY0Jha0FlNXdSV1hkTDFVZGNiN0NYazZrdTJFTHl2alJPWlo3THppUVJkQXpQY2lnendLSmZicmptY3BfTWtCYVVNZlV4RU5WV0kyd1poMzMwR1JXdHV5cUhJX3loWklacDY1d3VRdFlGeVJvSmlhX1NEazVaQ09salcxdThVME9KSnppUHcxall3bEdWdEYycEJfRU1tM1RJY3VPeV9QOWREMA?oc=5)
+
+2026-11-13
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXJBRUNQNmx2enFrUmlDNzlhS25ocHA3djR0OHJWaGlyQWFyc19kNnpOWEI3Q0RlUkJ4bFpfejBaVWduV0wtYVRoa29YTkFrZUVUcWxjTjJOWk9iMTdTQkJqYnpmNGpxblU0Nm1IcS1xYnpSdEFCb2dhQWxPeWF0bzd4ZW9ScjJzZkNHVEFFLTRPR1hEUC1JNjk1SUlKZ3FvWUw2Ry11TjNLMGJvZDB4SFFGcl9UNGN1Q3FmZWJnNGvSAbsBQVVfeXFMTmZjdFVGWEFXMFJHNkExd1VUY0Jha0FlNXdSV1hkTDFVZGNiN0NYazZrdTJFTHl2alJPWlo3THppUVJkQXpQY2lnendLSmZicmptY3BfTWtCYVVNZlV4RU5WV0kyd1poMzMwR1JXdHV5cUhJX3loWklacDY1d3VRdFlGeVJvSmlhX1NEazVaQ09salcxdThVME9KSnppUHcxall3bEdWdEYycEJfRU1tM1RJY3VPeV9QOWREMA?oc=5)
+
+---
 
 ### [Demencia de aparición temprana y epilepsia: ¿cuál es la relación?](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ1RvTl9OUlpFVkZxelN2WXIwRjFBSGVkMTI5U3g0VGttalBkM3g4QlVnQ29QSEg3SVBndkhFTHdhOVpxVEoxX0VpT2dBRlJ0ZWEzUEFlc21RckVqRk1mTnh6RWNFUjYzanh3OE9xbE1VMkt2ZGtSS2hYSHpxNDlkeVBqd2hKZl9WQTNqWlFGY0FKMTh1cnA4X1RqRlliQUk0OHk2VDF2dFl3d3dhRHo2Qw?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Silodosin. 6 predicted indications."
 permalink: /news/silodosin/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-14
 ---
 
 # Silodosin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Silodosin?">
-<strong>Silodosin</strong> currently has <strong>11 news articles</strong>, with 6 predicted indications.
+<strong>Silodosin</strong> currently has <strong>12 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Silodosin with the latest he
 <p><a href="{{ '/drugs/silodosin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+
+2026-11-14 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+
+---
 
 ### [Alzheimer-Risiko: Elf beeinflussbare Faktoren könnten 265.000 Fälle verhindern](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTHU5TFpHRGVUMEc0SlIyZDBFWTdrNU9HbE1fY0ZDV3Vtc1ozX3hPNjRoandZSmtHdkFJZ2Zxczh4ZnBJR3gzMlNuXy1XSjZ1UGdFZ0pRdUdodzFHZ3ZfYmM4YjNIaEJNQ0VrTFZNeUV1VXRDcVVqcVBGdDhDS1BSeHRNaVp2NHhOUU5mdmZxVVJmVXJMRlE4bExYMmFJMm0zb0lzY1lMZjJUbXg1cThENWowZVBDczBJNFNrYlpuaGJZdmFDSU9R?oc=5)
 
@@ -50,7 +58,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTH
 
 ### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 
-2026-11-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">atrial fibrillation</span>
+2026-11-10 <span class="news-indication-tag">atrial fibrillation</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 

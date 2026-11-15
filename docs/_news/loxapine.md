@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Loxapine. 9 predicted indications."
 permalink: /news/loxapine/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-14
 ---
 
 # Loxapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Loxapine?">
-<strong>Loxapine</strong> currently has <strong>18 news articles</strong>, with 9 predicted indications.
+<strong>Loxapine</strong> currently has <strong>24 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,55 @@ This page combines the AI-predicted indications for Loxapine with the latest hea
 <p><a href="{{ '/drugs/loxapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (24)
+
+### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+
+2026-11-14 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+
+---
+
+### [Il neurologo Martino: «La sclerosi multipla si può tenere a lungo sotto controllo» - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNV19nZ0c2SWpRZTJBN1VPa2Nud1lhNFRZeFJMU0ZWWHBIcGpkeG5ZZlVDSzJsMkRRT0pPRWpLdlVKXzExVm5jQ1g4bGEtVHZ3dVpzRUQ3NVh4aWFLcGQ0SXlFSl9idHdZVC1xN3gxQWVJZmUyYkhEYkRNMU9uREN4eE1uSXRGV2FoZllTdkd1d1pMd29EX2dsbVoybG5ObmljX3NGUUoyOXd4MDdWdS05enc0VG5JNnlsa0Nud09Qbm1XRnJwUXFZNF95VG1KU0RsYmp3aDBHQ0NQMGpmQndqNmZ4bWM3S0lBTFloN2RvcTdiVmY1dVVGS0VYRlNkZGsxLXVxajN1R3BTVjlpQUlIdzZMOThnalZQQUxDbE93dGxaQ0tQUWozUkU3cUFKSU8xX1cxMFowY0FoNjRScUlHedIBxgJBVV95cUxNYjBQYzBPUVRMaEpUdFUwRGxLVnV2SHRISW15RF8tOEItWVpYR0dSLXNtNDRfX3dTV05TTS1yTktObGdFQ25iQ01Dcl9ZY1Frdzc4SVp4OW1CSERoejVrNDNIWW1pY1ZJaHdueWhjdGxwUDBUcFM0ZG9hZUNvSkE1b3doaGdIN2pNMGFFS2hKV1cyR0lIZnVpaHpXZHU5bnBKLVlpSGdURVZSR05tZkVFSzBXQTk2YUYyQmx3QWZRU1V0Tkp5ME1tRmhCLUllbzhZRmk3dThKVDl6cU1wX0ZMVWNtTGNnLXkwVWgwbngtVXZSUFNMSlRONGxGVm9jTVFYNkpwSk5zOTgwUDFPakZWcnFHdWViWVE0S2ZGYm11Q3ZUUUktUmlXZ1pSTEZKelB2T1I5c29HT0wteUVIbkg3OXAwVzdKdw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">sclerosi multipla</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNV19nZ0c2SWpRZTJBN1VPa2Nud1lhNFRZeFJMU0ZWWHBIcGpkeG5ZZlVDSzJsMkRRT0pPRWpLdlVKXzExVm5jQ1g4bGEtVHZ3dVpzRUQ3NVh4aWFLcGQ0SXlFSl9idHdZVC1xN3gxQWVJZmUyYkhEYkRNMU9uREN4eE1uSXRGV2FoZllTdkd1d1pMd29EX2dsbVoybG5ObmljX3NGUUoyOXd4MDdWdS05enc0VG5JNnlsa0Nud09Qbm1XRnJwUXFZNF95VG1KU0RsYmp3aDBHQ0NQMGpmQndqNmZ4bWM3S0lBTFloN2RvcTdiVmY1dVVGS0VYRlNkZGsxLXVxajN1R3BTVjlpQUlIdzZMOThnalZQQUxDbE93dGxaQ0tQUWozUkU3cUFKSU8xX1cxMFowY0FoNjRScUlHedIBxgJBVV95cUxNYjBQYzBPUVRMaEpUdFUwRGxLVnV2SHRISW15RF8tOEItWVpYR0dSLXNtNDRfX3dTV05TTS1yTktObGdFQ25iQ01Dcl9ZY1Frdzc4SVp4OW1CSERoejVrNDNIWW1pY1ZJaHdueWhjdGxwUDBUcFM0ZG9hZUNvSkE1b3doaGdIN2pNMGFFS2hKV1cyR0lIZnVpaHpXZHU5bnBKLVlpSGdURVZSR05tZkVFSzBXQTk2YUYyQmx3QWZRU1V0Tkp5ME1tRmhCLUllbzhZRmk3dThKVDl6cU1wX0ZMVWNtTGNnLXkwVWgwbngtVXZSUFNMSlRONGxGVm9jTVFYNkpwSk5zOTgwUDFPakZWcnFHdWViWVE0S2ZGYm11Q3ZUUUktUmlXZ1pSTEZKelB2T1I5c29HT0wteUVIbkg3OXAwVzdKdw?oc=5)
+
+---
+
+### [El remibrutinib reduce los brotes de esclerosis múltiple](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYndWWGRGc3h5U1RZTEtOeGNpanhaQlRwaXFhSzlzNEhtRXVQZnU5c3dWWmxoR01STWtNekhLRjFscFFEc0kydG80cEhTcWlZb1pBZ3BzdGFVRGE0Vk1nZW5oblRWbXQ1cENXOFRyMENIcFF0WE1kVWgxcEVzUGZJZ2JyUVphSGtjYXRPenhyQ2hTN0xHWGNZNURVY3FFeWpyaHc?oc=5)
+
+2026-11-13 <span class="news-drug-tag">Ibrutinib</span> <span class="news-indication-tag">esclerosis múltiple</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYndWWGRGc3h5U1RZTEtOeGNpanhaQlRwaXFhSzlzNEhtRXVQZnU5c3dWWmxoR01STWtNekhLRjFscFFEc0kydG80cEhTcWlZb1pBZ3BzdGFVRGE0Vk1nZW5oblRWbXQ1cENXOFRyMENIcFF0WE1kVWgxcEVzUGZJZ2JyUVphSGtjYXRPenhyQ2hTN0xHWGNZNURVY3FFeWpyaHc?oc=5)
+
+---
+
+### [El remibrutinib reduce los brotes de esclerosis múltiple](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTV9iTXZWQmFTNWh0ZktPbmxsaV9UdHc2bnA0WDBLRGdfT1RWa2J1NW4teHZ2X19qRFdJSm8xQzVCcU5ySTY1ZXdTSkY3LWZkTkZWWFR4Z2ZackJ5Z1R5SjQwMmRfVG5JTjNOVmRhQmZ1T1lJMXpwMFhrSzJmUHdYSzdUVVh6Smc2b2NucEcwY2FRd1NPZEczdy10V2l5ampla2FHdzFRNWRHV3JseDM3NVFwZXMzSDZYTmFxNDZUTmxmWjlSMkRsYWlhRWdwSnlBUncyUEZKdXE2UQ?oc=5)
+
+2026-11-13 <span class="news-drug-tag">Ibrutinib</span> <span class="news-indication-tag">esclerosis múltiple</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTV9iTXZWQmFTNWh0ZktPbmxsaV9UdHc2bnA0WDBLRGdfT1RWa2J1NW4teHZ2X19qRFdJSm8xQzVCcU5ySTY1ZXdTSkY3LWZkTkZWWFR4Z2ZackJ5Z1R5SjQwMmRfVG5JTjNOVmRhQmZ1T1lJMXpwMFhrSzJmUHdYSzdUVVh6Smc2b2NucEcwY2FRd1NPZEczdy10V2l5ampla2FHdzFRNWRHV3JseDM3NVFwZXMzSDZYTmFxNDZUTmxmWjlSMkRsYWlhRWdwSnlBUncyUEZKdXE2UQ?oc=5)
+
+---
+
+### [New MRI technique may reveal signs of myelin repair in multiple sclerosis - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDVLbV9pc1RpTXFTdTBLbU5rOFg1R1ROV0p4dWdCa3ZoY2QzREtKRGlDVXJNY2RQSW80TG5UUXN4YmNBYUYyZU1OY2ZGa2c4TndUZlg0QkQxdFBNT2U1VEduU082RnkwcUpGazJ4OHkwOHNBOTdoQnM4amkxcWUzQUFGeHpRenRwS2lzMzctM0Z6SndXWFVjQ2pHZm96MW0xQjYzMUdsdnVoZmJkNkZodzBwU0VXOGwtd0Voc1BlVUU?oc=5)
+
+2026-11-12 <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDVLbV9pc1RpTXFTdTBLbU5rOFg1R1ROV0p4dWdCa3ZoY2QzREtKRGlDVXJNY2RQSW80TG5UUXN4YmNBYUYyZU1OY2ZGa2c4TndUZlg0QkQxdFBNT2U1VEduU082RnkwcUpGazJ4OHkwOHNBOTdoQnM4amkxcWUzQUFGeHpRenRwS2lzMzctM0Z6SndXWFVjQ2pHZm96MW0xQjYzMUdsdnVoZmJkNkZodzBwU0VXOGwtd0Voc1BlVUU?oc=5)
+
+---
+
+### [Multiple Sklerose: Hochaktive Hirnregionen sind besonders gefährdet - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMilwFBVV95cUxOZENCZFBJd3pGTVR4WHZNTHNoV1Vid0Z5SlNuTU9pSWNGQnVEZER6Q2dtc2dpMVlOTjh4V2F2amVSaGxyaVZmZkpCdDhaQnAwa2RUa1d5dU5WYWVLS05MaUNNWGFObll3YTVBd0d0dHVrREhoVy00QlFDVkpmRWhVdHdPNm4wN3VZR0w3Sk0yNjVwbW1vV05N?oc=5)
+
+2026-11-12 <span class="news-indication-tag">Multiple Sklerose</span>
+
+Source: [Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMilwFBVV95cUxOZENCZFBJd3pGTVR4WHZNTHNoV1Vid0Z5SlNuTU9pSWNGQnVEZER6Q2dtc2dpMVlOTjh4V2F2amVSaGxyaVZmZkpCdDhaQnAwa2RUa1d5dU5WYWVLS05MaUNNWGFObll3YTVBd0d0dHVrREhoVy00QlFDVkpmRWhVdHdPNm4wN3VZR0w3Sk0yNjVwbW1vV05N?oc=5)
+
+---
 
 ### [Alzheimer-Risiko: Elf beeinflussbare Faktoren könnten 265.000 Fälle verhindern](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTHU5TFpHRGVUMEc0SlIyZDBFWTdrNU9HbE1fY0ZDV3Vtc1ozX3hPNjRoandZSmtHdkFJZ2Zxczh4ZnBJR3gzMlNuXy1XSjZ1UGdFZ0pRdUdodzFHZ3ZfYmM4YjNIaEJNQ0VrTFZNeUV1VXRDcVVqcVBGdDhDS1BSeHRNaVp2NHhOUU5mdmZxVVJmVXJMRlE4bExYMmFJMm0zb0lzY1lMZjJUbXg1cThENWowZVBDczBJNFNrYlpuaGJZdmFDSU9R?oc=5)
 
@@ -53,7 +101,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTH
 
 ### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 
-2026-11-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">atrial fibrillation</span>
+2026-11-10 <span class="news-indication-tag">atrial fibrillation</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 

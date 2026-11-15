@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Abemaciclib. 0 predicted indications."
 permalink: /news/abemaciclib/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-14
 ---
 
 # Abemaciclib News
@@ -32,6 +32,22 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 
 ## Related News (34)
 
+### [Tooth pain & bleeding gums... dental issues masking serious deadly illnesses - from brain tumours to heart disease - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ0xpb2MyMldubWxCWHFIZHZQNVY4X0tsRXBqdDE1V1k0TjJwenRxdXlyVkhLcy1CSGVQZ1V3dUxMY2dSaUdqUFhlazgwbWJ2U1FZcTlFdDJHQkJLWmtYUkl0QnpkbFFQdVoyMEY4aXQ1cE9hbmlnMUROYlF2cw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ0xpb2MyMldubWxCWHFIZHZQNVY4X0tsRXBqdDE1V1k0TjJwenRxdXlyVkhLcy1CSGVQZ1V3dUxMY2dSaUdqUFhlazgwbWJ2U1FZcTlFdDJHQkJLWmtYUkl0QnpkbFFQdVoyMEY4aXQ1cE9hbmlnMUROYlF2cw?oc=5)
+
+---
+
+### [Blood thinner could offer a new way to treat osteoarthritis - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbnhrWEl1WmtSbVNrN05ZWFF3c2s1emJPcGVJWk1NdldVNXhrZTdlakQyREVDSHFpMkd2QUdsWHQ2T19ZZ0h0RE12RFVPUkxKeWUydVJBVC1fbTlCaDY5RmgySFdlTmJFNDR0MHFLQ3VxczJMWF9lWmZyQTA?oc=5)
+
+2026-11-12 <span class="news-indication-tag">arthritis</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbnhrWEl1WmtSbVNrN05ZWFF3c2s1emJPcGVJWk1NdldVNXhrZTdlakQyREVDSHFpMkd2QUdsWHQ2T19ZZ0h0RE12RFVPUkxKeWUydVJBVC1fbTlCaDY5RmgySFdlTmJFNDR0MHFLQ3VxczJMWF9lWmZyQTA?oc=5)
+
+---
+
 ### [Los metabolitos intestinales ayudan a predecir la respuesta a biológicos en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGpRMjJaWmdXdU1TV1g2bzdjekpjS3p4ek1wR1doc0JwVnk0UC1hU1Q4aTZ6bjAyd0dLQjFaZ2JGWjdPVnhZUVJqUm5hREdmVy0wZ3Q1Y1huanYya3p3TE1JTEdqaWxCa3ptck9kN09FSVBwLUlEVlVvdHZva1l4VEhuc3J5WEl3eVloVlZvdFlocmlwMXVQRENRWVlJOE9VSlVHYUxZREl4eW5lZC1PaC1oczZQVWZjbjRCVGxwSExpZ9IBvAFBVV95cUxPSUh3dDREZ1ZrbXVta2FJcnVidEtnRy1MQk0zWWtiQTE1dTNMWUNQSTJfMTJLMHBiaFVWX1FOOXdUUFNqZUUxUlNfYlZRZWdrdGJJNVBYYV9IbmlqNENWMWpTQl9TUmZhRVZDSFVURDFhOEtRc2JGd09lWFhjNjlPUmprRlF0QmVJTkNwZ2E1YzFQMW9BM2FsMU1zX2QtenBWT19CeDM2LUs2amU4QWFvVFBCUl9OZlcyV2E0Xw?oc=5)
 
 2026-11-12 <span class="news-indication-tag">artritis</span>
@@ -48,27 +64,11 @@ Source: [ConSalud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzNEZGE2
 
 ---
 
-### [Laut Nephrologen: Dieser unterschätzte Blutdruck-Wert schädigt die Nieren jahrelang unbemerkt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
-
-2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">Herzerkrankung</span>
-
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
-
----
-
-### [Red flag symptom in legs could be sign of heart failure - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+### [Red flag symptom in legs could be sign of heart failure](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 2026-11-11 <span class="news-indication-tag">heart failure</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
-
----
-
-### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
-
-2026-11-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">atrial fibrillation</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
+Source: [Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
 
 ---
 

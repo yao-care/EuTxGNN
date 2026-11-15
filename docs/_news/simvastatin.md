@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Simvastatin. 5 predicted indications."
 permalink: /news/simvastatin/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 ---
 
 # Simvastatin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>81 news articles</strong>, with 5 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>93 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,9 +37,97 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (81)
+## Related News (93)
 
-### [Two Trials of Intensive BP Lowering, Two Different Outcomes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+### [Ictus, Andrea Vianello: «Ho ritrovato le parole grazie alla riabilitazione. Che va garantita a tutti i pazienti» - Corriere della Sera](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPWlU0TFphU3RIRFNlMWswS2gzdm5aLURQUVlKdDFRZVpHOC1XNzF3Rng2Yi1ZZFNPUWh4ZDdSRHg4M180QjVkYTlOa0t1LWkxSFdRTl9mRXpKN19CUy10VHVRaUdXaUpXSXB6bDFoYmFzX2E3X25hX2dJY3FRdEtzU3J1Y0VrcHBjbzRJUjBJNmFxM0Z5WHp4T0ZvcU5xeVFjMFJFYkJvclhBRTNSN2ZxamtSVVpfdFk0SC1nVFhnNmJGU0NQYmNMbkFYbmF2aU95b1p1V2c0SUZfU0NoQU9hT0kyek95M2MyaFVhZkdOTUZoaFl3WnZJVldwbzJLY01SMF9ERnJRX3BmYVRUTi13NWxKOWJ6WEZRcmlFdU5RcWtBNENPLUswRThmVXVtM1UwV2JTaUViajZpSGPSAcACQVVfeXFMUG9OcG10dVRiSjJ5RzA2SVBYd01IYkx5UVEzcWlzTmd3ZTJTTExfR2VDR1JJVTJtc2tzdGU1ZEhmQWc1Ml9ER0JEM3JyT0ZEalo0SjdmZVJRVENuYnZ2aHdST2pjUkVPejVHQmFLT1c1UF90R0h0dHNSMnprRldLZUlPMDBieVBWMGZnOS1SbFZqcWRXR0hKdGd6ZWdvTWVsN21SdzJDZHhrUFlrWmEtZUlCUkY0LU1SbXo1SGlmZWdZaWNUNmdnNHEyWFhTTFo0N3N5a1FCcElnOUhvQlRqbWFlWU5pdmtYNEVCdEZJTGk5Q3o3TGFFcXdDLWljVmwxRUlsUDRnbkZfUUJmenpmSEtVbnRJVGttbVFlNEdTZHVWQVY2SEs4RHBLUUVKaVUwS01ydHlyU21PVGZieFRwaEU?oc=5)
+
+2026-11-14 <span class="news-indication-tag">ictus</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPWlU0TFphU3RIRFNlMWswS2gzdm5aLURQUVlKdDFRZVpHOC1XNzF3Rng2Yi1ZZFNPUWh4ZDdSRHg4M180QjVkYTlOa0t1LWkxSFdRTl9mRXpKN19CUy10VHVRaUdXaUpXSXB6bDFoYmFzX2E3X25hX2dJY3FRdEtzU3J1Y0VrcHBjbzRJUjBJNmFxM0Z5WHp4T0ZvcU5xeVFjMFJFYkJvclhBRTNSN2ZxamtSVVpfdFk0SC1nVFhnNmJGU0NQYmNMbkFYbmF2aU95b1p1V2c0SUZfU0NoQU9hT0kyek95M2MyaFVhZkdOTUZoaFl3WnZJVldwbzJLY01SMF9ERnJRX3BmYVRUTi13NWxKOWJ6WEZRcmlFdU5RcWtBNENPLUswRThmVXVtM1UwV2JTaUViajZpSGPSAcACQVVfeXFMUG9OcG10dVRiSjJ5RzA2SVBYd01IYkx5UVEzcWlzTmd3ZTJTTExfR2VDR1JJVTJtc2tzdGU1ZEhmQWc1Ml9ER0JEM3JyT0ZEalo0SjdmZVJRVENuYnZ2aHdST2pjUkVPejVHQmFLT1c1UF90R0h0dHNSMnprRldLZUlPMDBieVBWMGZnOS1SbFZqcWRXR0hKdGd6ZWdvTWVsN21SdzJDZHhrUFlrWmEtZUlCUkY0LU1SbXo1SGlmZWdZaWNUNmdnNHEyWFhTTFo0N3N5a1FCcElnOUhvQlRqbWFlWU5pdmtYNEVCdEZJTGk5Q3o3TGFFcXdDLWljVmwxRUlsUDRnbkZfUUJmenpmSEtVbnRJVGttbVFlNEdTZHVWQVY2SEs4RHBLUUVKaVUwS01ydHlyU21PVGZieFRwaEU?oc=5)
+
+---
+
+### [Por qué cada vez más personas menores de 50 años sufren un ictus](https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0pRbk1rS3ZNeDhId0c2b2ZkcXhWMHFnNVgzLUFzcWdlelBhN2lnZzB1b3pyNms5Z0EzWUNsaVlkQWxIeG1oSzFhTDhTQnJkWGcxTmdjVUlraVlTRDRyVGNZaG14dzRtRkk3Ujd2bFd0U2k4MFdkMnZXcVhDLWZVRkRPUmNUTlpFNUJxNjVaM0xhaTU3a2lPQldTaXFLY2ZocW5pMTJLQWhWVlZmMVlycS1JdlNQYzg0eWpxa1Bn?oc=5)
+
+2026-11-14 <span class="news-indication-tag">ictus</span>
+
+Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0pRbk1rS3ZNeDhId0c2b2ZkcXhWMHFnNVgzLUFzcWdlelBhN2lnZzB1b3pyNms5Z0EzWUNsaVlkQWxIeG1oSzFhTDhTQnJkWGcxTmdjVUlraVlTRDRyVGNZaG14dzRtRkk3Ujd2bFd0U2k4MFdkMnZXcVhDLWZVRkRPUmNUTlpFNUJxNjVaM0xhaTU3a2lPQldTaXFLY2ZocW5pMTJLQWhWVlZmMVlycS1JdlNQYzg0eWpxa1Bn?oc=5)
+
+---
+
+### [Pressione alta: si controlla poco. Farlo, eviterebbe infarti e ictus, ma anche danni ai reni e disfunzione erettile - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxPaG1weGszY3oxYlVhbWpqYkJxOEpRai1WQXFFZDlCZC1ScC1xUGsxNUdPbURxVE1tOGZNYlgyb2YzRDMzU0tRRU1fekNBbWZNYW92S3FYeVhiNnJ6TkNqbzRTSW5IM0ZmN2wtV0hZLVB3bFdIYUU3Sl96YXp3R0hjMXE3SV95ejVtNmJFYlNLS0RSaUs3VExwTExpNjNxd0pYdVFwLTFtcXpoOUxXNjZUVkNiWXRmdFVXbVZiWlhHd3E5NFcyRnBpREMzcm5YY1ZJNklHSFZKbEFKeV9rODNhZ3ltMXZDVm5NSVdvMUw4NHpMWUNYR1haVW90UUhXN3VoUTM3cjVSd19PX3YxRTJkQzh1ZTNaQXZ2RTgzZnVHQTBMdFJYQnZDaHhxRmF4M0Q4RlYwaWVJNi1jazF2aVdlVNIBxgJBVV95cUxNV1hqSW1yYkRCZDNKY1lDZFdGZlBhc3FxRk1CYWJOdC1GZnNjUWlUWnVaMTFYdHZNbXlQdG9LX0lzemkwYV80RlQ3VzZRTk1ucjRuYlh6SUFScUJmN1k5emxXX0ZfMkpyQ1JYNVhyY0tERFdwRWVjSjdLbWJ5TFdKRDBLSVQ5NWMyUFJnSjlPaTl2SlZxdWNCZkxWcXpBYjFidnZJa1NSUmNPNjA2d1AwVzM4ellSdmRjMlV3UV8xcjF4WndxZHRVVjJBaUpXYlh0ajVxOWtrVlBlYTNSM09FaHg5dlBIYThjS201TjNHWDJueEtWcFYwSjNGdlZfRWpjMzgxZDRWQnhUMnBIXzBhT2p5cndvQm9sM2ZEY1JQdkJjZm1maFA0V2VCeVhFdGNYc1FQUDFUYzc2ZjFGUE1oV1JvMHdoZw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxPaG1weGszY3oxYlVhbWpqYkJxOEpRai1WQXFFZDlCZC1ScC1xUGsxNUdPbURxVE1tOGZNYlgyb2YzRDMzU0tRRU1fekNBbWZNYW92S3FYeVhiNnJ6TkNqbzRTSW5IM0ZmN2wtV0hZLVB3bFdIYUU3Sl96YXp3R0hjMXE3SV95ejVtNmJFYlNLS0RSaUs3VExwTExpNjNxd0pYdVFwLTFtcXpoOUxXNjZUVkNiWXRmdFVXbVZiWlhHd3E5NFcyRnBpREMzcm5YY1ZJNklHSFZKbEFKeV9rODNhZ3ltMXZDVm5NSVdvMUw4NHpMWUNYR1haVW90UUhXN3VoUTM3cjVSd19PX3YxRTJkQzh1ZTNaQXZ2RTgzZnVHQTBMdFJYQnZDaHhxRmF4M0Q4RlYwaWVJNi1jazF2aVdlVNIBxgJBVV95cUxNV1hqSW1yYkRCZDNKY1lDZFdGZlBhc3FxRk1CYWJOdC1GZnNjUWlUWnVaMTFYdHZNbXlQdG9LX0lzemkwYV80RlQ3VzZRTk1ucjRuYlh6SUFScUJmN1k5emxXX0ZfMkpyQ1JYNVhyY0tERFdwRWVjSjdLbWJ5TFdKRDBLSVQ5NWMyUFJnSjlPaTl2SlZxdWNCZkxWcXpBYjFidnZJa1NSUmNPNjA2d1AwVzM4ellSdmRjMlV3UV8xcjF4WndxZHRVVjJBaUpXYlh0ajVxOWtrVlBlYTNSM09FaHg5dlBIYThjS201TjNHWDJueEtWcFYwSjNGdlZfRWpjMzgxZDRWQnhUMnBIXzBhT2p5cndvQm9sM2ZEY1JQdkJjZm1maFA0V2VCeVhFdGNYc1FQUDFUYzc2ZjFGUE1oV1JvMHdoZw?oc=5)
+
+---
+
+### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+
+2026-11-14 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+
+---
+
+### [Los ictus se disparan entre los adultos jóvenes: ¿qué está pasando? - EL PAÍS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTY2YmlPMnMwMWEyOVBMZUtMd2RsQlExTlBrSkVKWXF6ZmRSZ1JVZ1dCbVlDejBSc2VNQXJKbUoybnFSdEpVVzY5ai1rZkEybHdjZW1HM0NkU0dDOERaZ1FQSk1YRzdTcmdfWm1nZE1IUVpCa3NDSFVNaWduazFNMU1vUGpGZ1pjS1dEeC1MOE4tVWNycUpUNkFtUWlGNjFlM3lETTFSN0VQUQ?oc=5)
+
+2026-11-14 <span class="news-indication-tag">ictus</span>
+
+Source: [EL PAÍS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTY2YmlPMnMwMWEyOVBMZUtMd2RsQlExTlBrSkVKWXF6ZmRSZ1JVZ1dCbVlDejBSc2VNQXJKbUoybnFSdEpVVzY5ai1rZkEybHdjZW1HM0NkU0dDOERaZ1FQSk1YRzdTcmdfWm1nZE1IUVpCa3NDSFVNaWduazFNMU1vUGpGZ1pjS1dEeC1MOE4tVWNycUpUNkFtUWlGNjFlM3lETTFSN0VQUQ?oc=5)
+
+---
+
+### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzVxWUt5U2dDRTlBTGFpT2M4RHRxTDZTSXZmd2xBQnY5TWtkaWUzY2FBbVZXUWk0aE5JRFNwZUdmcUxlOWNUQ0FwNG5rVkh4TkEwMVRGRjY4WTZsZExQTGJoUHg5YkdURERJQnpuTVNyS0NjaFA4Ry1pSDd4R0NoQTJFWmdqdGxfZVhFbnVlTDNueXRmbzN4QUNORUlGYUVVZ3VQYkZpWGZRend4QUdSV01ZcXZ4eVQ5cmRJ?oc=5)
+
+2026-11-14 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzVxWUt5U2dDRTlBTGFpT2M4RHRxTDZTSXZmd2xBQnY5TWtkaWUzY2FBbVZXUWk0aE5JRFNwZUdmcUxlOWNUQ0FwNG5rVkh4TkEwMVRGRjY4WTZsZExQTGJoUHg5YkdURERJQnpuTVNyS0NjaFA4Ry1pSDd4R0NoQTJFWmdqdGxfZVhFbnVlTDNueXRmbzN4QUNORUlGYUVVZ3VQYkZpWGZRend4QUdSV01ZcXZ4eVQ5cmRJ?oc=5)
+
+---
+
+### [„Die Patienten kannten im Durchschnitt nur drei Schlaganfallrisikofaktoren“ – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUjRNTnBtM3Z6QWNpVW03bWxycVVsMjV4Q1RmSldOam5aaFlTeG5xeUxWQ0FIWndKQjJnSUdEdlVBeVhVN0NuelpUZktOdy11SXV2eUE1Z2lvSDhic0FNSjFyU0p0TXFPQ2JXMVM4UjdYMEo5LU0xTDFLSDFFWktMVl9MaDdzbGlhTV9qOHpNbDgxQVQycktRX013SWprZm4tMDNJV2lhZDBjS1RoLVU2R0JqMV9qY2JOWXBtbGZucWlwWmJfZFJ3OFFkSDdpTjZhbko5ZVdwcHQtUQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUjRNTnBtM3Z6QWNpVW03bWxycVVsMjV4Q1RmSldOam5aaFlTeG5xeUxWQ0FIWndKQjJnSUdEdlVBeVhVN0NuelpUZktOdy11SXV2eUE1Z2lvSDhic0FNSjFyU0p0TXFPQ2JXMVM4UjdYMEo5LU0xTDFLSDFFWktMVl9MaDdzbGlhTV9qOHpNbDgxQVQycktRX013SWprZm4tMDNJV2lhZDBjS1RoLVU2R0JqMV9qY2JOWXBtbGZucWlwWmJfZFJ3OFFkSDdpTjZhbko5ZVdwcHQtUQ?oc=5)
+
+---
+
+### [Colesterolo, come si calcola il proprio rischio. Come si interviene: alimentazione, nutraceutici e farmaci - Corriere della Sera](https://news.google.com/rss/articles/CBMitAJBVV95cUxNWTVKNktKcW5OQ3JfUVlIWks0SUNTblF5UEdnaHhjSHozWkFQbU1kWG9pc25UOTVHRHp6bDE1MEQ1a2M1bWxaRGpOdGRVczBFSUpTeW0wTUkwMFU1V2hTcUwzVlRUam9mSUZrNEEyWmVHWWpSQTg1YmM0T2RWb1BQQ0VqVWotWElUbUJHYWlHQ3VBd2JBYlhmMTVRdmxVbnRla1NiWmlqeWpmZXB5UXVTc2ZzQVBlQ2pnd1VhS1lTUVE4M0xDY211Z0p1WlFseWU4cklwZlJkOE5qTlVRQW10M2xXUHU5U01oaGYtc3JIRFpnb0h5aTZsSEZqbEN6ZHRLbjFEU0RydEVLQ3BRSUoxa2ZFR0wxdDJEcUcxUmtQZ01YbW9XcGQxWWJXVUNyRHhsWWsyZtIBugJBVV95cUxPMi1MN2tHMmtiV3BEa1NUQ2NjOGl2aXUwZWF1c3c2cUMtN1hBM0s0YXlOcDhhSjY5RUYwWjdKWGdPcnpPeW9pSnAwSUZRbUs3TFgxX1c3ZXdVWVIwempfSlR1VldhMFpjdjJuVzZ3NzUxTnhpVFZRM0dtb0tRX0JrN1pGbzhFb1BJelVRbV91MkNKU0VvZHBDbmJJOG1GbXRvdzh6Y1dCbElVSkZ6bi1MRVFJTjh6V2Z1UFV2ekJBSFNlZTdLMW9tTGdNUDdlX0NNc09VTWh2SXBYTzM1T2RtYVdQRXRKSGpTS0dOWnlqUVVtLUFzY29SN0M4dTkySzZPSklTck5DQ3hXbjlvdFFRQmViWWk2Vy05WEZHSG5EdVdRVE40c1FMMHROVXEycUVWRWs4aWxYRnpyZw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">ictus</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMitAJBVV95cUxNWTVKNktKcW5OQ3JfUVlIWks0SUNTblF5UEdnaHhjSHozWkFQbU1kWG9pc25UOTVHRHp6bDE1MEQ1a2M1bWxaRGpOdGRVczBFSUpTeW0wTUkwMFU1V2hTcUwzVlRUam9mSUZrNEEyWmVHWWpSQTg1YmM0T2RWb1BQQ0VqVWotWElUbUJHYWlHQ3VBd2JBYlhmMTVRdmxVbnRla1NiWmlqeWpmZXB5UXVTc2ZzQVBlQ2pnd1VhS1lTUVE4M0xDY211Z0p1WlFseWU4cklwZlJkOE5qTlVRQW10M2xXUHU5U01oaGYtc3JIRFpnb0h5aTZsSEZqbEN6ZHRLbjFEU0RydEVLQ3BRSUoxa2ZFR0wxdDJEcUcxUmtQZ01YbW9XcGQxWWJXVUNyRHhsWWsyZtIBugJBVV95cUxPMi1MN2tHMmtiV3BEa1NUQ2NjOGl2aXUwZWF1c3c2cUMtN1hBM0s0YXlOcDhhSjY5RUYwWjdKWGdPcnpPeW9pSnAwSUZRbUs3TFgxX1c3ZXdVWVIwempfSlR1VldhMFpjdjJuVzZ3NzUxTnhpVFZRM0dtb0tRX0JrN1pGbzhFb1BJelVRbV91MkNKU0VvZHBDbmJJOG1GbXRvdzh6Y1dCbElVSkZ6bi1MRVFJTjh6V2Z1UFV2ekJBSFNlZTdLMW9tTGdNUDdlX0NNc09VTWh2SXBYTzM1T2RtYVdQRXRKSGpTS0dOWnlqUVVtLUFzY29SN0M4dTkySzZPSklTck5DQ3hXbjlvdFFRQmViWWk2Vy05WEZHSG5EdVdRVE40c1FMMHROVXEycUVWRWs4aWxYRnpyZw?oc=5)
+
+---
+
+### [AVC : dépistage gratuit dans 13 pharmacies d'Eure-et-Loir - SWEET FM](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVRoWlZ3Rlh1NXVKSkRsTkNQZEtKSGl3THdnVXRrc3NXblltYWs2MzBnTTNTT0Jfc1k5V3UwMG1SUkxTeUlrZEpOWTEyeGtpblB1Z1NpT1RHWWMtR3ZfRTVKaXZUajV6Nl9ETHNaVnJMWWhZZE15ZVQyZ2JKVVE5Tm92ZUZILW41dTVoYUFUUW5FWVo1M0kxZmE1aUhBbWtm?oc=5)
+
+2026-11-13 <span class="news-indication-tag">AVC</span>
+
+Source: [SWEET FM](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVRoWlZ3Rlh1NXVKSkRsTkNQZEtKSGl3THdnVXRrc3NXblltYWs2MzBnTTNTT0Jfc1k5V3UwMG1SUkxTeUlrZEpOWTEyeGtpblB1Z1NpT1RHWWMtR3ZfRTVKaXZUajV6Nl9ETHNaVnJMWWhZZE15ZVQyZ2JKVVE5Tm92ZUZILW41dTVoYUFUUW5FWVo1M0kxZmE1aUhBbWtm?oc=5)
+
+---
+
+### [Colesterolo, rischio infarti e ictus anche con valori LDL bassi. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2Y0UmN1WDJVYkNrb0c0YU53S2Iwa0pjRXJTWW12dEdDNURFT3VlWFRaYl8xSklJTXQ1aTh5eDQwSlctRGhsM2JVanBKbVVQX01uTXVrLVRTRHpfRzF2YkJYRG1hZ2VxRnJVOUQ3N1hxQ2Q1Z1RhNENpUmxIdTdtTkhCeXZkYzRRREE?oc=5)
+
+2026-11-13 <span class="news-indication-tag">ictus</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2Y0UmN1WDJVYkNrb0c0YU53S2Iwa0pjRXJTWW12dEdDNURFT3VlWFRaYl8xSklJTXQ1aTh5eDQwSlctRGhsM2JVanBKbVVQX01uTXVrLVRTRHpfRzF2YkJYRG1hZ2VxRnJVOUQ3N1hxQ2Q1Z1RhNENpUmxIdTdtTkhCeXZkYzRRREE?oc=5)
+
+---
+
+### [Grippeimpfung kann auch vor Herzinfarkt schützen](https://news.google.com/rss/articles/CBMijgFBVV95cUxOLWVHcjRzZWQwSkVfOElZYjI2S3RyR0NoQmdhVE5JYWRDRFl0WVA0NVNwZFlQakFFNEhBNk1ESmpWMC1fQ0NVUFBUeDk1NjY3cUt1T3dPTk9MQWgyaV91ams0eWpOTlBEOGFSRjhLa1ROTS1zVndsa05sUzVEbVlfNEhwMjhWZkZSUmxjYWlR?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMijgFBVV95cUxOLWVHcjRzZWQwSkVfOElZYjI2S3RyR0NoQmdhVE5JYWRDRFl0WVA0NVNwZFlQakFFNEhBNk1ESmpWMC1fQ0NVUFBUeDk1NjY3cUt1T3dPTk9MQWgyaV91ams0eWpOTlBEOGFSRjhLa1ROTS1zVndsa05sUzVEbVlfNEhwMjhWZkZSUmxjYWlR?oc=5)
+
+---
+
+### [Two Trials of Intensive BP Lowering Find Different Outcomes in Stroke Survivors and Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
 
 2026-11-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
 
@@ -129,7 +217,7 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Y
 
 ### [Stopping weight loss drugs doubles diabetics’ heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 
-2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">stroke</span>
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 
@@ -140,6 +228,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24
 2026-11-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1ienhKNDlaT1VGTml4dmZ2Z05QaU5TbVNmRnNHaWZfY19HR19PTTA1TjI1MXREX3R2b0J2MXV6MlczSFV3QXVwb0JsNDEtV01LSlVLbFh4V2NMR0tHcGR1bWR3QVVaVF84cENQdXF1WTljZTN2MjVPMmVONjhGVVdDMVc?oc=5)
+
+---
+
+### [I almost died after a toothache led to sepsis and a rare heart condition](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
+
+2026-11-09 <span class="news-indication-tag">stroke</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HLTNmVzJ1eU1VWXBqMEIwRWl3N3Z4RTJhYmNDVGpBT3U2cl9QU0hrc1Y4UV9BMmc1RjlKY0hiSFR1cFJnYUI1T1FDbWNmWmQ2ZlVwYXRNWTNKOWg2VUE?oc=5)
 
 ---
 
@@ -223,19 +319,19 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRE
 
 ---
 
-### [Il freddo può far male a chi è iperteso. Il cardiologo spiega come proteggere il cuore - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGxzTXdZNkhSN1h1Y1FFZjNXVEVRc0ZJR0NSY2FCTnlDU3hwNEdOSjBycU5ubFI2Sllvb3ljdW5OMUZXLTZDMWczR21jSDBvWVFQcG1nSDc4TElTcjRwQzJORU9NNld1cGkweFlOSGpmT0hYMkFYakdraHJ3Q3lYTHZLNk9qLTFTQldaUy1yNENoUFhBRDlXSW5wbHR0anVteEJBUjY3OE1nSGo4TlBMNXk1TFZCaTdJZnRWd3dkZGcxc3FWVE5RSUxITC1MY0VKbkwtS1hxMmzSAcQBQVVfeXFMTVIyTWRFSGpIQjdVVDJwaGRpaXl4UXlQODB6a2x1WUtEdXc3SXZoYmRlN1B1a2h2OXJMWWtZb0M5N3ExYnFCU1NGakNoMWl1RWwwcVA4T1ZoT0V6aFFHT3paOGhEbVRyRm0zc2lXbjBTcVhqNG15M0VETUlFWkhEb0VHdFBrdGp0cjV2UXVKaHdWRUM3LXVBUmZ0dWpWckw4ZS1ZWDdnWlAyTl83bFJFcEVfbnZJcVlvN0xSdzMxWV9OMS12MA?oc=5)
-
-2026-11-07 <span class="news-indication-tag">ictus</span>
-
-Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGxzTXdZNkhSN1h1Y1FFZjNXVEVRc0ZJR0NSY2FCTnlDU3hwNEdOSjBycU5ubFI2Sllvb3ljdW5OMUZXLTZDMWczR21jSDBvWVFQcG1nSDc4TElTcjRwQzJORU9NNld1cGkweFlOSGpmT0hYMkFYakdraHJ3Q3lYTHZLNk9qLTFTQldaUy1yNENoUFhBRDlXSW5wbHR0anVteEJBUjY3OE1nSGo4TlBMNXk1TFZCaTdJZnRWd3dkZGcxc3FWVE5RSUxITC1MY0VKbkwtS1hxMmzSAcQBQVVfeXFMTVIyTWRFSGpIQjdVVDJwaGRpaXl4UXlQODB6a2x1WUtEdXc3SXZoYmRlN1B1a2h2OXJMWWtZb0M5N3ExYnFCU1NGakNoMWl1RWwwcVA4T1ZoT0V6aFFHT3paOGhEbVRyRm0zc2lXbjBTcVhqNG15M0VETUlFWkhEb0VHdFBrdGp0cjV2UXVKaHdWRUM3LXVBUmZ0dWpWckw4ZS1ZWDdnWlAyTl83bFJFcEVfbnZJcVlvN0xSdzMxWV9OMS12MA?oc=5)
-
----
-
 ### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajRaZkpKVmNiNVV3UUdUZG56Wl9VSmhuNlRrWWJTM2JscDJoLUdsY1h4QkFZWTl0T0RRY3pWbkpydnpmaFpXQWk1OGFHOXZjQ3JIWnNabGR6eG9QWTVfcFY1c09DekFSVGZJc29FR2JUbW1EbEV1TWhkdmNLSldLMmRBdTk1QUhaQ1ZDRThxcEVSWklTOHVQOG1aNnpneXFlMFhTQXVjNGNRYUhEZGhGelRQTGxfWWhPTDlB?oc=5)
 
 2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajRaZkpKVmNiNVV3UUdUZG56Wl9VSmhuNlRrWWJTM2JscDJoLUdsY1h4QkFZWTl0T0RRY3pWbkpydnpmaFpXQWk1OGFHOXZjQ3JIWnNabGR6eG9QWTVfcFY1c09DekFSVGZJc29FR2JUbW1EbEV1TWhkdmNLSldLMmRBdTk1QUhaQ1ZDRThxcEVSWklTOHVQOG1aNnpneXFlMFhTQXVjNGNRYUhEZGhGelRQTGxfWWhPTDlB?oc=5)
+
+---
+
+### [Schlafdauer: Unter sechs Stunden erhöhen das Schlaganfallrisiko um bis zu 29 Prozent](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG0yejJGb1lqV0VpVkhtME9JUUdJQXVCUEpJT184SjMtS0dhbkljQllydFM4MzF6Ni01M25SZGxncmNHWFRFUy1LR1FpR0FjemxBVFFPNnlZVDNCa3p1Q3ViSlR2VFZsRWZ4WUdOSTZlM0xqNkNCS2hudUhHUEJqVFBiSERHRW9mZnh0bm9IRTEtZWt4QkI1X2pvRUx6dER1a196b1B0RVJXOXNzNEplaVZVMDNaREhWZGlaS2k5SFk3U0xGMUlaVUdwQmp1Zw?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG0yejJGb1lqV0VpVkhtME9JUUdJQXVCUEpJT184SjMtS0dhbkljQllydFM4MzF6Ni01M25SZGxncmNHWFRFUy1LR1FpR0FjemxBVFFPNnlZVDNCa3p1Q3ViSlR2VFZsRWZ4WUdOSTZlM0xqNkNCS2hudUhHUEJqVFBiSERHRW9mZnh0bm9IRTEtZWt4QkI1X2pvRUx6dER1a196b1B0RVJXOXNzNEplaVZVMDNaREhWZGlaS2k5SFk3U0xGMUlaVUdwQmp1Zw?oc=5)
 
 ---
 

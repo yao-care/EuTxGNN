@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tirzepatide. 0 predicted indications."
 permalink: /news/tirzepatide/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-14
 ---
 
 # Tirzepatide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>27 news articles</strong>, with 0 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>29 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (27)
+## Related News (29)
+
+### [TÉMOIGNAGE. "Je ne voulais ni opération ni médicament" : face à l'arrivée du Wegovy, cette Gersoise raconte comment elle a perdu 30 kilos](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTkJNdXJsd0hSVlVHN1lkM0xUV0Mxc3g2TnplcVJfcTgxWDVsU2xuczM3MXJYa1Y2YjY5Q1RhbF9QMkdLZ2ZpOWFaNnVZb2h3dVRtY1pZOGpGeG5tSFZwS0lBT2xiUUpmWk9xdVowekxzaHJwaEYtTzBiMlFxT1lfUnZNcWVuVzdQdTZDS1BFeUx1cG92dUYzaDdGMGM1dE5zM25IVG1rbVJRSmlfWmFNdGpVUlMwRTVwb0g3ZEdYOElyN2k2ZVFaRDZ5cldoTGlkeU5GY29MenA1LUp4VEZoQlIwc2dlSGtEMEltcFJnVlNvQ0hlczhwNlZWdlZZZHVfeHZVX0Z1TUpXSEE?oc=5)
+
+2026-11-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTkJNdXJsd0hSVlVHN1lkM0xUV0Mxc3g2TnplcVJfcTgxWDVsU2xuczM3MXJYa1Y2YjY5Q1RhbF9QMkdLZ2ZpOWFaNnVZb2h3dVRtY1pZOGpGeG5tSFZwS0lBT2xiUUpmWk9xdVowekxzaHJwaEYtTzBiMlFxT1lfUnZNcWVuVzdQdTZDS1BFeUx1cG92dUYzaDdGMGM1dE5zM25IVG1rbVJRSmlfWmFNdGpVUlMwRTVwb0g3ZEdYOElyN2k2ZVFaRDZ5cldoTGlkeU5GY29MenA1LUp4VEZoQlIwc2dlSGtEMEltcFJnVlNvQ0hlczhwNlZWdlZZZHVfeHZVX0Z1TUpXSEE?oc=5)
+
+---
+
+### [Blood thinner could offer a new way to treat osteoarthritis - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbnhrWEl1WmtSbVNrN05ZWFF3c2s1emJPcGVJWk1NdldVNXhrZTdlakQyREVDSHFpMkd2QUdsWHQ2T19ZZ0h0RE12RFVPUkxKeWUydVJBVC1fbTlCaDY5RmgySFdlTmJFNDR0MHFLQ3VxczJMWF9lWmZyQTA?oc=5)
+
+2026-11-12 <span class="news-indication-tag">arthritis</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbnhrWEl1WmtSbVNrN05ZWFF3c2s1emJPcGVJWk1NdldVNXhrZTdlakQyREVDSHFpMkd2QUdsWHQ2T19ZZ0h0RE12RFVPUkxKeWUydVJBVC1fbTlCaDY5RmgySFdlTmJFNDR0MHFLQ3VxczJMWF9lWmZyQTA?oc=5)
+
+---
 
 ### [Los metabolitos intestinales ayudan a predecir la respuesta a biológicos en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGpRMjJaWmdXdU1TV1g2bzdjekpjS3p4ek1wR1doc0JwVnk0UC1hU1Q4aTZ6bjAyd0dLQjFaZ2JGWjdPVnhZUVJqUm5hREdmVy0wZ3Q1Y1huanYya3p3TE1JTEdqaWxCa3ptck9kN09FSVBwLUlEVlVvdHZva1l4VEhuc3J5WEl3eVloVlZvdFlocmlwMXVQRENRWVlJOE9VSlVHYUxZREl4eW5lZC1PaC1oczZQVWZjbjRCVGxwSExpZ9IBvAFBVV95cUxPSUh3dDREZ1ZrbXVta2FJcnVidEtnRy1MQk0zWWtiQTE1dTNMWUNQSTJfMTJLMHBiaFVWX1FOOXdUUFNqZUUxUlNfYlZRZWdrdGJJNVBYYV9IbmlqNENWMWpTQl9TUmZhRVZDSFVURDFhOEtRc2JGd09lWFhjNjlPUmprRlF0QmVJTkNwZ2E1YzFQMW9BM2FsMU1zX2QtenBWT19CeDM2LUs2amU4QWFvVFBCUl9OZlcyV2E0Xw?oc=5)
 
@@ -66,7 +82,7 @@ Source: [Open](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdW
 
 ### [Los riesgos que afrontan los diabéticos al dejar los GLP-1](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUNfRHVmSDlvMl9oRUp1TGd5ZjZibUxiN0FhZXFKT3NXUzJ0MFp0ODY2SjhscnlrX3dWaEJFRjNtQ2RBa001MFVvNGxNLTZONWRTME9fVWc0T2RXeG1TVlMwOWJRNE9RZE9KSUM1dUp6VjJnaDJUekZiaHlzMWZqdjVXNTdQS0twOGFHR3FncWFTVGw3WWM2S1VPbDVTU3JkTjRDekVUdU10WGV3RUItakhvX0xUa0hjOVFZ?oc=5)
 
-2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUNfRHVmSDlvMl9oRUp1TGd5ZjZibUxiN0FhZXFKT3NXUzJ0MFp0ODY2SjhscnlrX3dWaEJFRjNtQ2RBa001MFVvNGxNLTZONWRTME9fVWc0T2RXeG1TVlMwOWJRNE9RZE9KSUM1dUp6VjJnaDJUekZiaHlzMWZqdjVXNTdQS0twOGFHR3FncWFTVGw3WWM2S1VPbDVTU3JkTjRDekVUdU10WGV3RUItakhvX0xUa0hjOVFZ?oc=5)
 

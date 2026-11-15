@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Opicapone. 0 predicted indications."
 permalink: /news/opicapone/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 ---
 
 # Opicapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Opicapone?">
-<strong>Opicapone</strong> currently has <strong>33 news articles</strong>, with 0 predicted indications.
+<strong>Opicapone</strong> currently has <strong>43 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,87 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (33)
+## Related News (43)
+
+### [Alzheimer, a Chieti arriva un nuovo farmaco: cosa sappiamo della malattia che cancella la memoria](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd0tTQXpLWjRvRDhYMXNmcGFmdTNKXzNTY1M2MFRENTE1bmJqNEN3SVZMSlVacmN1VkpMbUVFSWJCQkthVUhUNjk1Ukd5dHVaSmU0WlhGLVdhcnMzRkI4YVNJd3ktMTFTMTlIWGNxUWM5VnQyZ0NxeENyREdQamt0MFo4YnZsMm9PSEV4Q01VandVUGNILS1ocEVxWHFSR1NQaENHaEs5cXhTVG4yQnNaVHk0dUd0MC1uTEJCUktIa1FXQUNHdk5UUUw4X2U2N0ZlVWZjR2g1aFNmMmlReDFn?oc=5)
+
+2026-11-14 <span class="news-indication-tag">malattia di Alzheimer</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd0tTQXpLWjRvRDhYMXNmcGFmdTNKXzNTY1M2MFRENTE1bmJqNEN3SVZMSlVacmN1VkpMbUVFSWJCQkthVUhUNjk1Ukd5dHVaSmU0WlhGLVdhcnMzRkI4YVNJd3ktMTFTMTlIWGNxUWM5VnQyZ0NxeENyREdQamt0MFo4YnZsMm9PSEV4Q01VandVUGNILS1ocEVxWHFSR1NQaENHaEs5cXhTVG4yQnNaVHk0dUd0MC1uTEJCUktIa1FXQUNHdk5UUUw4X2U2N0ZlVWZjR2g1aFNmMmlReDFn?oc=5)
+
+---
+
+### [Doctors Are Pointing Out 6 Red Flags You Should Look Out For When Spotting Dementia](https://news.google.com/rss/articles/CBMiekFVX3lxTE01cjB1OWg0NVVoUWxLNXJzanNCTFB3NENGQ1UyZkNNVVJSbDFMN2JINGEzV3U3M2RjMkZwM1MwRXlMbi1DN3lDazMzUFdvNHVOQTVwZEVKUUZ0Rl9ULUUwLThPUWZTTzZKUW1BWE5UZ2tPTFQzRTVXdU1B?oc=5)
+
+2026-11-14 <span class="news-indication-tag">dementia</span>
+
+Source: [BuzzFeed](https://news.google.com/rss/articles/CBMiekFVX3lxTE01cjB1OWg0NVVoUWxLNXJzanNCTFB3NENGQ1UyZkNNVVJSbDFMN2JINGEzV3U3M2RjMkZwM1MwRXlMbi1DN3lDazMzUFdvNHVOQTVwZEVKUUZ0Rl9ULUUwLThPUWZTTzZKUW1BWE5UZ2tPTFQzRTVXdU1B?oc=5)
+
+---
+
+### [Six unusual smells that could reveal a hidden health problem - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcW1qZ1JiUXFRZnMtN2Y3WE8xc2c3Rm1kVFRTVEd5QldiN3dJMHJDcTZ1OFptRi1KMTNTY1VRMWFJT25kWVdqbzlrd1BTbzdhczhsTzJHajdKTFZSaVBJVlkzSUp3QjZISTZjeVV3RnRyNGJuOGhkcTlZLTJkcnNaSS0zeXBKSks0YTI2LVVrbElDZ1otVVdTOWlraTg?oc=5)
+
+2026-11-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcW1qZ1JiUXFRZnMtN2Y3WE8xc2c3Rm1kVFRTVEd5QldiN3dJMHJDcTZ1OFptRi1KMTNTY1VRMWFJT25kWVdqbzlrd1BTbzdhczhsTzJHajdKTFZSaVBJVlkzSUp3QjZISTZjeVV3RnRyNGJuOGhkcTlZLTJkcnNaSS0zeXBKSks0YTI2LVVrbElDZ1otVVdTOWlraTg?oc=5)
+
+---
+
+### [David Cameron: My mother begged my sister to end her life - The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFgxcmEtQWR1VEVhSGRqSkxQMGpzRDY3anFFUFRJQXA1djh5d3k5WklRZ3Uya0tnNHpMaXpkeTM3ZFY1X0c1ZGJCZ1JwekFOcmZVUE5YcWd3M0c3c1dnczlIUDFHNS1mOHE4OFZVTXVpTjJ4ZkxpcGt6cHkyRndEd0dMNm9mZjg2TV9aMTV2SndTdGxrUzd3d1BMbw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">dementia</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFgxcmEtQWR1VEVhSGRqSkxQMGpzRDY3anFFUFRJQXA1djh5d3k5WklRZ3Uya0tnNHpMaXpkeTM3ZFY1X0c1ZGJCZ1JwekFOcmZVUE5YcWd3M0c3c1dnczlIUDFHNS1mOHE4OFZVTXVpTjJ4ZkxpcGt6cHkyRndEd0dMNm9mZjg2TV9aMTV2SndTdGxrUzd3d1BMbw?oc=5)
+
+---
+
+### [Lord Cameron: Alzheimer’s made my mother beg my sister to kill her - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkNkUmtBYm9Ya1VPal9VdHBkWDB5WnJtTTJOdXJYSnAwd3l2UTEwRWxKTXNNbjFfbFllSlBvX2tFaXU2NHJVUmxER0h3OXctWmVtcm05MV9xaHhSdGJKZ2ozV2wzZHhmdDVwTlNoS2pHc0JGWVFZOExHX0Y3SGZ4a3F1ejJ2YWtQbDhnSGh5ejIwYzBDemNrYlNyaktXajhOb0tVYVF3?oc=5)
+
+2026-11-13 <span class="news-indication-tag">dementia</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkNkUmtBYm9Ya1VPal9VdHBkWDB5WnJtTTJOdXJYSnAwd3l2UTEwRWxKTXNNbjFfbFllSlBvX2tFaXU2NHJVUmxER0h3OXctWmVtcm05MV9xaHhSdGJKZ2ozV2wzZHhmdDVwTlNoS2pHc0JGWVFZOExHX0Y3SGZ4a3F1ejJ2YWtQbDhnSGh5ejIwYzBDemNrYlNyaktXajhOb0tVYVF3?oc=5)
+
+---
+
+### [Alzheimer, a Chieti al via l'uso compassionevole del donanemab: il nuovo farmaco sarà sperimentato sui pazienti](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMDRnMjZ1TGJpQWNOREhDWTN6VTQ0amp2eW0xU3ptQkhwZjBQMzIwTmhRWWZKbmFLTUpuWDUtSVdRdnIxM21nZGJKTHh5cHhNd3JWbWRJVzRnSmdQajBod3J0cm1XS2tGTjRFN2JTS3EweENZcEFKSEFadHNwOXg5Z0xGb3FrRE5BSVU0TVVjaEprUQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">malattia di Alzheimer</span>
+
+Source: [ChietiToday](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMDRnMjZ1TGJpQWNOREhDWTN6VTQ0amp2eW0xU3ptQkhwZjBQMzIwTmhRWWZKbmFLTUpuWDUtSVdRdnIxM21nZGJKTHh5cHhNd3JWbWRJVzRnSmdQajBod3J0cm1XS2tGTjRFN2JTS3EweENZcEFKSEFadHNwOXg5Z0xGb3FrRE5BSVU0TVVjaEprUQ?oc=5)
+
+---
+
+### [BBC doctor says dementia study found symptom starting in ear 10 years before memory loss](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZzhLX0lCYUd1V0lMWUFyUVdzRVZ2R0RHV1pXOU5DaTdNZHp2SkRKdUtkelFzckFLeTYyV3JPbU01TXgwbTlPTVVzWEFnSVVWeF96QmdWenNiV3ZiV09CX2p5QkRuSUFvc0RRV2d1aFI5OGRQYk9GSzJ1REdDRU5aUlB30gGHAUFVX3lxTE5jN3htaDFBS05fNXdDLVhxMEtkdUlSdVh4cVo4NHpHN1FCZlJReDB1WHdRU3BPaDlRc2V0dlNtYXQtZy1uSFlMNTk3X0FSUmlScFJwS191MDNtc19vV2R3aGlYRWxzRlBHM2ljMmFSNmUtVi1QQnlzNjQ2WXVLR0hLa0F5LW5kZw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">dementia</span>
+
+Source: [Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZzhLX0lCYUd1V0lMWUFyUVdzRVZ2R0RHV1pXOU5DaTdNZHp2SkRKdUtkelFzckFLeTYyV3JPbU01TXgwbTlPTVVzWEFnSVVWeF96QmdWenNiV3ZiV09CX2p5QkRuSUFvc0RRV2d1aFI5OGRQYk9GSzJ1REdDRU5aUlB30gGHAUFVX3lxTE5jN3htaDFBS05fNXdDLVhxMEtkdUlSdVh4cVo4NHpHN1FCZlJReDB1WHdRU3BPaDlRc2V0dlNtYXQtZy1uSFlMNTk3X0FSUmlScFJwS191MDNtc19vV2R3aGlYRWxzRlBHM2ljMmFSNmUtVi1QQnlzNjQ2WXVLR0hLa0F5LW5kZw?oc=5)
+
+---
+
+### [Big Pharma’s race to stop Alzheimer’s before it starts - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnNrUjdPOC1NYXJ5RWpOdHFObEpodzVDb0NYcnl4OVYwV1hMRWhhM1lzalVUWmRHUFVHenBMYTg2M1RjZWE5aWRPZTZSeVhyWFlzNTVnTlJBbkI0TDlPNW1rUGU3a29HZHFaTUpULXU3VEx5VWJ4ZkdSSlZvUzdQSU5VSEE?oc=5)
+
+2026-11-13 <span class="news-indication-tag">dementia</span>
+
+Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnNrUjdPOC1NYXJ5RWpOdHFObEpodzVDb0NYcnl4OVYwV1hMRWhhM1lzalVUWmRHUFVHenBMYTg2M1RjZWE5aWRPZTZSeVhyWFlzNTVnTlJBbkI0TDlPNW1rUGU3a29HZHFaTUpULXU3VEx5VWJ4ZkdSSlZvUzdQSU5VSEE?oc=5)
+
+---
+
+### [Dementia care ‘missing the point’ if new drugs blocked, warns ex-health chief - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQN1NzMHRkeFYzZXFvNEc5UXJnUmdlUDlCYlJwMHJsMy1nM1Y1TngwQzdIUVlkOFlTc20xeDBlalBrWlVBZWctTzdQeW85R2RFTk04cVFpTUIzZ2JlNmY2N0JDOFlsMnUzb2FyWXA2aThlT1lOMHd5cEJkejJKc0dqbFF3WktQQjc4LW9mSDhSWFZVUzNsSklNZ29oVVZVUQ?oc=5)
+
+2026-11-12 <span class="news-indication-tag">dementia</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQN1NzMHRkeFYzZXFvNEc5UXJnUmdlUDlCYlJwMHJsMy1nM1Y1TngwQzdIUVlkOFlTc20xeDBlalBrWlVBZWctTzdQeW85R2RFTk04cVFpTUIzZ2JlNmY2N0JDOFlsMnUzb2FyWXA2aThlT1lOMHd5cEJkejJKc0dqbFF3WktQQjc4LW9mSDhSWFZVUzNsSklNZ29oVVZVUQ?oc=5)
+
+---
+
+### [New culprit in early Alzheimer’s: blood–brain barrier blocks protective proteins](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iOHp0T2ZXbXp1c2g0MDdxdVVSbzJVVnJPZ3prNkpKLUhHTkJnQlRFUmlXMlFrVGtWbHVudk5YT2czSlVWM0wyQk9jMmZMM3RNdExBYmRMVHJhdVFObHBn?oc=5)
+
+2026-11-11 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iOHp0T2ZXbXp1c2g0MDdxdVVSbzJVVnJPZ3prNkpKLUhHTkJnQlRFUmlXMlFrVGtWbHVudk5YT2czSlVWM0wyQk9jMmZMM3RNdExBYmRMVHJhdVFObHBn?oc=5)
+
+---
 
 ### [The blood-brain barrier may contribute to cognitive function - The Economist](https://news.google.com/rss/articles/CBMivAFBVV95cUxPcU1wOWQyWk5zSkJ2WmlHREREQTZEckQzUXo3SUktLVB6Wmp0SWI3Q1NydnU3N2pxdjZkYk9pUXQ3VlFZdjktWHI2bHNPMXZESjJEelo1LUVDNVRwQXQ5bU1aYkFtTnZ0SjJsSlRNN0dpRTkwV2ZyWm9MRFFXbFpsV3VJYno4bzB2TTVNQkg4NW16b2s5QjdjblAwZlE5eHYwRUNrY0V1ZVIxdE9FeUtUdDFaRmVtTk43bnljVQ?oc=5)
 

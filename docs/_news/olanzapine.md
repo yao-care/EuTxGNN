@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Olanzapine. 2 predicted indications."
 permalink: /news/olanzapine/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-14
 ---
 
 # Olanzapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>43 news articles</strong>, with 2 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>49 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,55 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (43)
+## Related News (49)
+
+### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+
+2026-11-14 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+
+---
+
+### [Moral en berne dès que les jours raccourcissent ? Ce que la science sait vraiment de la dépression saisonnière - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWUZJX3I5Zkl1aXdtelpkXzVYbmk3MENLd0tGQUVIR1VYVFJTSnB1Tmg2MEtqQnEyWmRfRzY2Rm85U3NmSEJPMVBVa3ZfcWJHRG5CMjkyRzE1anhkcXNSZnN5OGRqWFNBazZpZHZaUXFEU21LNDc3eV80SS1UNTRBTEtZbHp4SmdWamxrU2x3RnBKcVhaelFXam5Cb0pRNjlsNXVRZDBNMlgzcWZtRFRIY1hfckhzR1JoNndXQW8yRDJHU1NrbDNHc3JVOW1xdm96aUw5eWxqMEY1c0gxemQtbE8xZWlMb2My?oc=5)
+
+2026-11-14 <span class="news-indication-tag">dépression</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWUZJX3I5Zkl1aXdtelpkXzVYbmk3MENLd0tGQUVIR1VYVFJTSnB1Tmg2MEtqQnEyWmRfRzY2Rm85U3NmSEJPMVBVa3ZfcWJHRG5CMjkyRzE1anhkcXNSZnN5OGRqWFNBazZpZHZaUXFEU21LNDc3eV80SS1UNTRBTEtZbHp4SmdWamxrU2x3RnBKcVhaelFXam5Cb0pRNjlsNXVRZDBNMlgzcWZtRFRIY1hfckhzR1JoNndXQW8yRDJHU1NrbDNHc3JVOW1xdm96aUw5eWxqMEY1c0gxemQtbE8xZWlMb2My?oc=5)
+
+---
+
+### [El sueño irregular se asocia con más síntomas de depresión y ansiedad](https://news.google.com/rss/articles/CBMickFVX3lxTFBTaHlIYjZkWktiZmRlZENfdFdkSUJCekZWWVota0tmeHZKcWVMbHJLTUw1TWhnWUV4SEstZmtUbXZwNDJTNVQ0M3lvZ3pMVzNnRFJPVDJ5ZGdSMFZ2ak81aEM3djN4N28wd3hWUUdSalVHQQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">depresión</span>
+
+Source: [https://fomoera.com/](https://news.google.com/rss/articles/CBMickFVX3lxTFBTaHlIYjZkWktiZmRlZENfdFdkSUJCekZWWVota0tmeHZKcWVMbHJLTUw1TWhnWUV4SEstZmtUbXZwNDJTNVQ0M3lvZ3pMVzNnRFJPVDJ5ZGdSMFZ2ak81aEM3djN4N28wd3hWUUdSalVHQQ?oc=5)
+
+---
+
+### [Congreso Nacional de Psiquiatría: La depresión es frecuente en el Alzheimer, incluso en etapas previas a su diagnóstico - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNV2VHZmZfZnFtNnRqY3I2dG03NXluYnJuTXZmZW5ocHhfbHJTdlE0Rm0zaTZ2aV9MdTRSRzFQSmJQSmlYS0FjQ2Mta0ZhbHNPYjNIVy1ERl9qTmFCd0xhU1RfTWN6c0tIVzBjT3h3ZTBPTjZsc2pjTVYzaXZ4dzUzeFd3ZXRiVGpNNnp0aWxjSXhUVnhpdk9JNXhKREFHZ2tJOENSTkFIU3FnUHpTb2l4TFFTVldUZWlqbGFQcdIBtwFBVV95cUxOeEt6R0VibmhES3NuNlBBX24tUWxFNkh1UWZ2bTJ1YkJQWkYzcmVCYmVuNkVLZDRvWXU2Uk85TzZXUTF6blAzTTd5NWpUZmpKM1NVMk9xYUk5eXJYc2x4SHNjbWhoWU9VRnl1Q2d5ZW1hX1FzMWdlNE5JbGRUMmtDdkJORWFETDRKdUN5dnVWVktWc0d6ZzU4ZVRWRjhaQWJaUF92TUp5aGxGUVJ2OFA2TFBaVGtSaUE?oc=5)
+
+2026-11-13 <span class="news-indication-tag">depresión</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNV2VHZmZfZnFtNnRqY3I2dG03NXluYnJuTXZmZW5ocHhfbHJTdlE0Rm0zaTZ2aV9MdTRSRzFQSmJQSmlYS0FjQ2Mta0ZhbHNPYjNIVy1ERl9qTmFCd0xhU1RfTWN6c0tIVzBjT3h3ZTBPTjZsc2pjTVYzaXZ4dzUzeFd3ZXRiVGpNNnp0aWxjSXhUVnhpdk9JNXhKREFHZ2tJOENSTkFIU3FnUHpTb2l4TFFTVldUZWlqbGFQcdIBtwFBVV95cUxOeEt6R0VibmhES3NuNlBBX24tUWxFNkh1UWZ2bTJ1YkJQWkYzcmVCYmVuNkVLZDRvWXU2Uk85TzZXUTF6blAzTTd5NWpUZmpKM1NVMk9xYUk5eXJYc2x4SHNjbWhoWU9VRnl1Q2d5ZW1hX1FzMWdlNE5JbGRUMmtDdkJORWFETDRKdUN5dnVWVktWc0d6ZzU4ZVRWRjhaQWJaUF92TUp5aGxGUVJ2OFA2TFBaVGtSaUE?oc=5)
+
+---
+
+### [« Ce qui nous a le plus surpris… » : 100 000 dossiers médicaux révèlent un lien inattendu entre graisse et dépression - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNV1lMR3hZVDlDeXdyMm1MYXVWTDZEUzNHS0MxTzg5dmpWRHA4ZXZwdlg3X2JLb0pTX0szWE9wd0dUSVBfNFVWSHZPY2YxR19YX2pTTU5TVlBmLVpPeDZoOHd6RW1CYnJ3OVFIbTc0SDlzNzljUDJIcXZ6UHdjX3VyWDFmVGJyVVhsN1ZFbjZOR21hRGdQZ3pyelA5SjkxakJkOHJzcXphU0JNTGozaWNJbEhON3RDZU9odzhZR0tXaWJNV1R0bEpDVC1NU1dXOVkzZXoySFdLN0o4aXJ6MHNsTFZGUGZsYThDLWJNQk4xTHNFdw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">dépression</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNV1lMR3hZVDlDeXdyMm1MYXVWTDZEUzNHS0MxTzg5dmpWRHA4ZXZwdlg3X2JLb0pTX0szWE9wd0dUSVBfNFVWSHZPY2YxR19YX2pTTU5TVlBmLVpPeDZoOHd6RW1CYnJ3OVFIbTc0SDlzNzljUDJIcXZ6UHdjX3VyWDFmVGJyVVhsN1ZFbjZOR21hRGdQZ3pyelA5SjkxakJkOHJzcXphU0JNTGozaWNJbEhON3RDZU9odzhZR0tXaWJNV1R0bEpDVC1NU1dXOVkzZXoySFdLN0o4aXJ6MHNsTFZGUGZsYThDLWJNQk4xTHNFdw?oc=5)
+
+---
+
+### [Smartphone-Serious-Game kann Depression und Angst bei Antidepressiva-Patienten lindern - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOamhQLXRvcVRLWHQ4VFNIMWUyejM3TF9RaWMzbGRSTHo4SVNLY0h2aVlLbmozRUVlQmloZTNRYW1Yc0NsaFlCR2FCX3dhaTYzdVdrSXJCVzRYZElkSzJ1RGpfMWdidVc4LUwzeks1VTlzTGNtSEVQN3F4T2JwRjI1cUl6Vzk4aFFPNU1CUUNtN0dBNm0wWU1YeVNSWm5Dd0o2MjFnb0tvNFRTdmJRZVJMaWduaFpTLTJGVGc?oc=5)
+
+2026-11-12 <span class="news-indication-tag">depression</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOamhQLXRvcVRLWHQ4VFNIMWUyejM3TF9RaWMzbGRSTHo4SVNLY0h2aVlLbmozRUVlQmloZTNRYW1Yc0NsaFlCR2FCX3dhaTYzdVdrSXJCVzRYZElkSzJ1RGpfMWdidVc4LUwzeks1VTlzTGNtSEVQN3F4T2JwRjI1cUl6Vzk4aFFPNU1CUUNtN0dBNm0wWU1YeVNSWm5Dd0o2MjFnb0tvNFRTdmJRZVJMaWduaFpTLTJGVGc?oc=5)
+
+---
 
 ### [Krötengift gegen Depressionen zeigt erstaunliche Wirkung](https://news.google.com/rss/articles/CBMixwFBVV95cUxNdzQyNHZ4Ul9JZkk3cVZ2WXBTdUtRSDJxdG1vTFd2YXgwalZtUkF4ekkxeWJ3di1RMU9sbURkbS1sc3ZYc1pDNUVnRE50c2dwa0FpQUNKS0ZVWEVRSGFMeEgwWXFEdFZtWWxhQUNkcEhrV3R3bXJHY0FYVVRrUFdyN2lkYnBfdDlRZFJDbDF4RF9BeUhRd2tpQlVFWUdZeW1IdGJiN19ZbXVlTDR0SzdMRlNiUWE3ZUU4NVl1RTFkVFZaM3VMLUww?oc=5)
 
@@ -92,9 +140,17 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTH
 
 ---
 
+### [Antidepressant escitalopram more effective at preventing relapse, analysis finds](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xQm03cDE0bmNERFM5cVdhTjFsNHRNY2hFSVNMaTBhaFJtZ3FJRnhFNUphYkZaMDBZXy01Q0V4eW1LVWFGMWJwdFl2V29DQ2FBekdqWnJtb2I5V1RBaEE?oc=5)
+
+2026-11-11 <span class="news-indication-tag">depression</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xQm03cDE0bmNERFM5cVdhTjFsNHRNY2hFSVNMaTBhaFJtZ3FJRnhFNUphYkZaMDBZXy01Q0V4eW1LVWFGMWJwdFl2V29DQ2FBekdqWnJtb2I5V1RBaEE?oc=5)
+
+---
+
 ### [Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 
-2026-11-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">atrial fibrillation</span>
+2026-11-10 <span class="news-indication-tag">atrial fibrillation</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeTNsZFBpNndNbzgzTXlFOXVnaG1ZQWl5ZXdwRzh2aFdldWJPQmZvcEZBWmR6LTdITDFMWTNvNHAtWGdGeUVqU3N4aFFPckhhVnRmY05QWEgzYW5FWkZBczJxU2VxaWFJNTlXdll1TmJ6SUVDdVhPTWNLSXJyV0RiaUZocHRuZE4zMHFrOE9OMjB5b2szMThaLUlUYndrRjhpa2d2R3Vkc1RUMTVCT2h3ckt1Z2JnZkFNTlBQbDRBOU5RWU51d0ZUU0M0eHFHTlR6NFo0?oc=5)
 
@@ -129,14 +185,6 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUcza
 2026-11-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">dépression</span>
 
 Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMihgFBVV95cUxPa3RXcmhEMWxJZHlxRUlhYVN1X19pZnVMVUp0UHFZcTFQTDdHdi1TbnJSYlRNNFlUX25FTGtKRzg0bVpXdS1XZ0gxOVEzZnAyX2doc1Y4ZTQ1eEdtWDZHT2Z4eF8xdlpNajZNcXNRSHRrZ283SkVaYkN4R0lrbkVsbkd0b3Z0QQ?oc=5)
-
----
-
-### [Flora intestinale e umore: come i batteri modulano intestino e sistema nervoso](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSG9ZTFJxXzJFZi1sQjNlQi1ScEJ2d0ttUlQ1anZkbDIwZmNpY3RXNUZfRHpNOFpjU0RNX3FoMzBNZHlJdEN5ZE1tVUIwQS1BUXN5eE1uMFR2eXFadXVBalh5eEZMUldua3J4QzJPZi00bUJQV3V3NTYzTVVpbkVSSXF6Rk5LVHNQSG9XeXNLUmRKeGl0VXplY293T216Z0JBb1k2b1R5bUhBcDR0eTJkaWRmT2pTR1U1cFpvU1VoQVBYRy1UOFZGSGlB?oc=5)
-
-2026-11-09 <span class="news-indication-tag">depression</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSG9ZTFJxXzJFZi1sQjNlQi1ScEJ2d0ttUlQ1anZkbDIwZmNpY3RXNUZfRHpNOFpjU0RNX3FoMzBNZHlJdEN5ZE1tVUIwQS1BUXN5eE1uMFR2eXFadXVBalh5eEZMUldua3J4QzJPZi00bUJQV3V3NTYzTVVpbkVSSXF6Rk5LVHNQSG9XeXNLUmRKeGl0VXplY293T216Z0JBb1k2b1R5bUhBcDR0eTJkaWRmT2pTR1U1cFpvU1VoQVBYRy1UOFZGSGlB?oc=5)
 
 ---
 

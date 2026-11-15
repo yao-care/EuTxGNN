@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Dolutegravir. 3 predicted indications."
 permalink: /news/dolutegravir/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-13
 ---
 
 # Dolutegravir News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Dolutegravir?">
-<strong>Dolutegravir</strong> currently has <strong>5 news articles</strong>, with 3 predicted indications.
+<strong>Dolutegravir</strong> currently has <strong>6 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Dolutegravir with the latest
 <p><a href="{{ '/drugs/dolutegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Hepatitis cases at Bristol school spark vaccine rollout - Bristol Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVC11ZTlXVy01eDlZYk5uYTB1a2pHUnRnQnFnVVNjV1hpNGlwSHZMWk0xelp3cnBpYnphc0lwX2prV3JlSjNiR3YxVGVDSHlPdXNQdGtFbFlXdlZhWkxwTjZJdzZmMUJkbVB2MlpMRjhpTVloYlBZT3R2b0t1a3dteGNTdzlkaF84MERSX0F1M1BnbWxuR0tvbw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Bristol Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVC11ZTlXVy01eDlZYk5uYTB1a2pHUnRnQnFnVVNjV1hpNGlwSHZMWk0xelp3cnBpYnphc0lwX2prV3JlSjNiR3YxVGVDSHlPdXNQdGtFbFlXdlZhWkxwTjZJdzZmMUJkbVB2MlpMRjhpTVloYlBZT3R2b0t1a3dteGNTdzlkaF84MERSX0F1M1BnbWxuR0tvbw?oc=5)
+
+---
 
 ### [Los bancos de sangre desechan una de cada mil donaciones por infecciones como sífilis, malaria, hepatitis y VIH: “No se nos puede escapar ni una” - EL PAÍS](https://news.google.com/rss/articles/CBMikgJBVV95cUxQQ2NxeE9KMXJnM08ta3BoZGJ6TlBZS0dpdjNGYmhrb1I1akh2N2F0VWFZWmpRdGFSSGFkN0Jwd2R1eFhtUzJPeVVlbUxxVWJsMzluV083U1laSjdBa085OVZNajl6SDktNGluOUlWZmJ6V0hTRGktSXNMZ2lNQ2M3THdxd1VnbVZBQ0VpUzV6ZlQyYkJLTEliZTcxNWl0bkRBRGgwMjFIMTBrUnd0SnZTc0N6clZIbmk4R0JDYU4xUjhlNXBRR3lwTVc0WnAxZmttcUFCQXdPT0w5ZlJJZWlZeFZxS0V2Vmx6dXlucVlHQ1I0a1cyMktBeWNYRUlXWHFpRkNHV01DeG15OXBiMkRmUHN30gGmAkFVX3lxTFA2TzRtTUtwS1lURzE5aWlQUVpyNkJVc1JqV0RLRnE1UV9qSlBvOGxoU05NMk9oTEVESXBheE85ckVPTkhrMjlnY0Juc2c2ajNIUlJhMzRFaUFucEhwREFUODZyWW9WTFV2WDJ1WnA5ektBQkROMWxuVnR6NHFEcGRqOW1mYXdLTU1hR3ZLT2Jla1E2UGV0Z0lqZ0VNRVdYNnIydHhvcVhHLUxrTHE0TUVJWW1YM3A3N0JsSkpMT0ZhaEtDaE1zaUMzVWNvR2tHR25rbzdyMllwY2Q5ak1WdEhHaXNXMHFWamFHT29CWEVseDA1SUtPbEpLaHFBTy1QODg0RmoyREF1alNrRlBvdTlWQ2RiMHJHM0E2cTF1cldkR040N0Mtdw?oc=5)
 
