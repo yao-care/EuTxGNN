@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>189 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>193 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (189)
+## Related News (193)
+
+### [Abnehmspritze (Ozempic, Wegovy): Studie warnt vor höherem Sterberisiko - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQTJwbWVQTC1aR29aVnlkTXpWU05WWm42RGI2eHN4cUNFMEZrSnB6X0N2M0p2OVo2bTFodHdZT1p4SVFWTDRUNnNUZHRSTzcxSEhXTXhZd3NqdWl6cDZsU0lUcHltWEo5UkpFdUFPRnpOd2ZvVVF4c0hIZTRYdGFZVmViOUdYRm95ekVLU3dKcTRScXVMeUZzSE9xUzdWUEdMODZDUkYxSmJSSVhGc2psTVVpX2ljOVBrajl6SmdCdGhsNnZPQkhQcQ?oc=5)
+
+2026-11-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQTJwbWVQTC1aR29aVnlkTXpWU05WWm42RGI2eHN4cUNFMEZrSnB6X0N2M0p2OVo2bTFodHdZT1p4SVFWTDRUNnNUZHRSTzcxSEhXTXhZd3NqdWl6cDZsU0lUcHltWEo5UkpFdUFPRnpOd2ZvVVF4c0hIZTRYdGFZVmViOUdYRm95ekVLU3dKcTRScXVMeUZzSE9xUzdWUEdMODZDUkYxSmJSSVhGc2psTVVpX2ljOVBrajl6SmdCdGhsNnZPQkhQcQ?oc=5)
+
+---
 
 ### [Ictus, Andrea Vianello: «Ho ritrovato le parole grazie alla riabilitazione. Che va garantita a tutti i pazienti» - Corriere della Sera](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPWlU0TFphU3RIRFNlMWswS2gzdm5aLURQUVlKdDFRZVpHOC1XNzF3Rng2Yi1ZZFNPUWh4ZDdSRHg4M180QjVkYTlOa0t1LWkxSFdRTl9mRXpKN19CUy10VHVRaUdXaUpXSXB6bDFoYmFzX2E3X25hX2dJY3FRdEtzU3J1Y0VrcHBjbzRJUjBJNmFxM0Z5WHp4T0ZvcU5xeVFjMFJFYkJvclhBRTNSN2ZxamtSVVpfdFk0SC1nVFhnNmJGU0NQYmNMbkFYbmF2aU95b1p1V2c0SUZfU0NoQU9hT0kyek95M2MyaFVhZkdOTUZoaFl3WnZJVldwbzJLY01SMF9ERnJRX3BmYVRUTi13NWxKOWJ6WEZRcmlFdU5RcWtBNENPLUswRThmVXVtM1UwV2JTaUViajZpSGPSAcACQVVfeXFMUG9OcG10dVRiSjJ5RzA2SVBYd01IYkx5UVEzcWlzTmd3ZTJTTExfR2VDR1JJVTJtc2tzdGU1ZEhmQWc1Ml9ER0JEM3JyT0ZEalo0SjdmZVJRVENuYnZ2aHdST2pjUkVPejVHQmFLT1c1UF90R0h0dHNSMnprRldLZUlPMDBieVBWMGZnOS1SbFZqcWRXR0hKdGd6ZWdvTWVsN21SdzJDZHhrUFlrWmEtZUlCUkY0LU1SbXo1SGlmZWdZaWNUNmdnNHEyWFhTTFo0N3N5a1FCcElnOUhvQlRqbWFlWU5pdmtYNEVCdEZJTGk5Q3o3TGFFcXdDLWljVmwxRUlsUDRnbkZfUUJmenpmSEtVbnRJVGttbVFlNEdTZHVWQVY2SEs4RHBLUUVKaVUwS01ydHlyU21PVGZieFRwaEU?oc=5)
 
@@ -59,11 +67,11 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95c
 
 ---
 
-### [Eiweißarme Ernährung verlangsamt den Alterungsprozess](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS1hU0haa0tsbFg4NDNrRURfLXhJUFh6MzV1X1cteFlBSGRjREZGOGRGa0VVRGtfOXBkenVLN3BxcHNsX2xiVkwwRDVSWmVneXQ3Sl9YYWVvWldYX3hsVnpKWW1yM0VBdlZaREtKTUxlS3ZHOGY5WHI3dUF5aktxSjNKNVZXNDdnX0g0dmxBMElaYkhsQzdN?oc=5)
+### [AVC, Addiction… : les nouveaux horizons thérapeutiques des médicaments anti-obésité - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
 
-2026-11-14 <span class="news-indication-tag">Adipositas</span>
+2026-11-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
 
-Source: [Scinexx](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS1hU0haa0tsbFg4NDNrRURfLXhJUFh6MzV1X1cteFlBSGRjREZGOGRGa0VVRGtfOXBkenVLN3BxcHNsX2xiVkwwRDVSWmVneXQ3Sl9YYWVvWldYX3hsVnpKWW1yM0VBdlZaREtKTUxlS3ZHOGY5WHI3dUF5aktxSjNKNVZXNDdnX0g0dmxBMElaYkhsQzdN?oc=5)
+Source: [Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
 
 ---
 
@@ -72,6 +80,14 @@ Source: [Scinexx](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS1hU0haa
 2026-11-14 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+
+---
+
+### [Makers of obesity drugs hit back at claims of negative side effects - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1NkcmVzQ1NHdUJTZkdUR1ZBR19GMmhndndQRjZKbUVENi1VTXBCeEY2andSWURTdWV5RzJhUmZuSldlWTZEYkxVdmJzcWU2LXFEb0daTnZFY0FMMXhaa1JGb1hSeGpkV1dtR2RibkY4RUlUeG01UWJaTFkzbEFkMWktaXQ?oc=5)
+
+2026-11-14 <span class="news-indication-tag">obesity</span>
+
+Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1NkcmVzQ1NHdUJTZkdUR1ZBR19GMmhndndQRjZKbUVENi1VTXBCeEY2andSWURTdWV5RzJhUmZuSldlWTZEYkxVdmJzcWU2LXFEb0daTnZFY0FMMXhaa1JGb1hSeGpkV1dtR2RibkY4RUlUeG01UWJaTFkzbEFkMWktaXQ?oc=5)
 
 ---
 
@@ -104,6 +120,14 @@ Source: [EL PAÍS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTY2YmlP
 2026-11-14 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzVxWUt5U2dDRTlBTGFpT2M4RHRxTDZTSXZmd2xBQnY5TWtkaWUzY2FBbVZXUWk0aE5JRFNwZUdmcUxlOWNUQ0FwNG5rVkh4TkEwMVRGRjY4WTZsZExQTGJoUHg5YkdURERJQnpuTVNyS0NjaFA4Ry1pSDd4R0NoQTJFWmdqdGxfZVhFbnVlTDNueXRmbzN4QUNORUlGYUVVZ3VQYkZpWGZRend4QUdSV01ZcXZ4eVQ5cmRJ?oc=5)
+
+---
+
+### [El IMC no basta para detectar la obesidad: el estudio internacional que propone mirar también la cintura](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQajlRT0dfcmNnVzhnUTlVQ0VKbFdrUm5yYW5hcEFnbVRhY0lZZm9rWWVlOFh3SGR4cWJvQVJ4OHRBdGQwcDlMQnFjME44eDhMT3hDMXVOSmY2MWpQV00zdGk4cGI5Zmw3NmlVQzJSZWJFUWU0b2tjYUM3M1ZhVENXRmVJVDFDaXpBc2ZpbFBaSUNkODVTd0w4M0ZRdFBzWmpoekFvcExaZDJtYndDeDVZeV8zcGk1VzNyT2U1YU8wSEI2VFl1SXRDMHpSRlFFWjdqa21lSFNSdDVnaVBr0gHiAUFVX3lxTFA3ZllVWHUwSV94aWFjYVlkLU9OZU9kbWxFX19Nbi1lYW4tUlhxcDQ5STYxMExqTGNSdF94VUhpUXpZeERXdFdjRUhqa0FFYlg5MVFnUjZZUjJ2eGpWY2ZWSFhTSnZWaHVHRGF1aHJYV3F6VzNzZFBjajEzQVNtQllibHduOWJ6MG9sTDc5ZkhaRzJ3bUpIVDdJc2JHMlhTanB2c21vVFY4TjhSWDhhYTZiTGF3U2toM2NTUm5kckt1WlBOUG81YWFuSW5QbjI1VFZ5clZEOFRySnRfbjZvdFhVcWc?oc=5)
+
+2026-11-14 <span class="news-indication-tag">obesidad</span>
+
+Source: [Vozpopuli](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQajlRT0dfcmNnVzhnUTlVQ0VKbFdrUm5yYW5hcEFnbVRhY0lZZm9rWWVlOFh3SGR4cWJvQVJ4OHRBdGQwcDlMQnFjME44eDhMT3hDMXVOSmY2MWpQV00zdGk4cGI5Zmw3NmlVQzJSZWJFUWU0b2tjYUM3M1ZhVENXRmVJVDFDaXpBc2ZpbFBaSUNkODVTd0w4M0ZRdFBzWmpoekFvcExaZDJtYndDeDVZeV8zcGk1VzNyT2U1YU8wSEI2VFl1SXRDMHpSRlFFWjdqa21lSFNSdDVnaVBr0gHiAUFVX3lxTFA3ZllVWHUwSV94aWFjYVlkLU9OZU9kbWxFX19Nbi1lYW4tUlhxcDQ5STYxMExqTGNSdF94VUhpUXpZeERXdFdjRUhqa0FFYlg5MVFnUjZZUjJ2eGpWY2ZWSFhTSnZWaHVHRGF1aHJYV3F6VzNzZFBjajEzQVNtQllibHduOWJ6MG9sTDc5ZkhaRzJ3bUpIVDdJc2JHMlhTanB2c21vVFY4TjhSWDhhYTZiTGF3U2toM2NTUm5kckt1WlBOUG81YWFuSW5QbjI1VFZ5clZEOFRySnRfbjZvdFhVcWc?oc=5)
 
 ---
 
@@ -357,7 +381,7 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95c
 
 ### [Rischio di perdita della vista per chi usa Ozempic o altri farmaci dimagranti: l'allarme che arriva dagli Usa](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdWN2stbTlTV1NZX2tOY2tzdUFSM0lXSFlYRkdURnJWdHBSUy01bzl4N2JPUURHX1Z2UGZ4NGI3VEZXWnRlel9aQWdQcFNjYUwzN2ZZcXBzT2FVeVRYN09lcmdDTWU3Q1dCZ3FDXzZWWGhtc1MzYkFwMkNSUXZUVW9HTzFpZzdEbDlCdWc?oc=5)
 
-2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [Open](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdWN2stbTlTV1NZX2tOY2tzdUFSM0lXSFlYRkdURnJWdHBSUy01bzl4N2JPUURHX1Z2UGZ4NGI3VEZXWnRlel9aQWdQcFNjYUwzN2ZZcXBzT2FVeVRYN09lcmdDTWU3Q1dCZ3FDXzZWWGhtc1MzYkFwMkNSUXZUVW9HTzFpZzdEbDlCdWc?oc=5)
 
@@ -475,6 +499,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlhUR0gtb
 
 ---
 
+### [Deutsche Herzstiftung: Grippeimpfung schützt auch das Herz - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirAFBVV95cUxORXhTaEVqVERoZU5NNGQ2U1hvT0R6aHg1dmZxUkNYNkJwbHNHaTU2alo0V1pBZ21GRXZYMUU4OGxCOFNGcFloNWc0di1LbS1LajJTeXliZDUxaW5tWHpVUmFUcHllUWFOallCcFVsWlNPTUZYSXM4ZHVUU2VWYjEzX1dmRVVUYkxURDhIOEppdS11bndvYjFuRzFjTHk2a2RWY1VnVkNjS2ZXcXBu?oc=5)
+
+2026-11-10 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirAFBVV95cUxORXhTaEVqVERoZU5NNGQ2U1hvT0R6aHg1dmZxUkNYNkJwbHNHaTU2alo0V1pBZ21GRXZYMUU4OGxCOFNGcFloNWc0di1LbS1LajJTeXliZDUxaW5tWHpVUmFUcHllUWFOallCcFVsWlNPTUZYSXM4ZHVUU2VWYjEzX1dmRVVUYkxURDhIOEppdS11bndvYjFuRzFjTHk2a2RWY1VnVkNjS2ZXcXBu?oc=5)
+
+---
+
 ### [La FDA exige cambiar la etiqueta en fármacos contra la obesidad por riesgo de enfermedad ocular rara](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUEFQdWxQc2FFZHRXWUZFalcyTUFVQUZ5SGxFYUlwXzc5dWl3UFZINXEtUXMzTW5zdXpRdVhkRHJVZWxPeU15aTlwX0NwNkkxZ2RYMldHaWZRUXhrYWxzU0pGU1dYSFcyQ0ZwRE9ZVmdVa0Z0R05ySHdjVzF1N1hvajFBWFYtSUgxWndPZmliWUMzWEN5V1RwWXV5SW1CU1pxUzZweEJ3RWFTb3RmY3dnTm5UX2M2ZW1Xc2Z0RDlncTRqYXdRbllKU25sc2VCVXgwdmc?oc=5)
 
 2026-11-10 <span class="news-indication-tag">obesidad</span>
@@ -493,7 +525,7 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Y
 
 ### [Stopping weight loss drugs doubles diabetics’ heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 
-2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
+2026-11-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "ictus (stroke) News"
+title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 93 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 96 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-15
 ---
 
-# ictus (stroke) News
+# Schlaganfall (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>93 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
+<strong>Schlaganfall (stroke)</strong> currently has <strong>96 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (93)
+## Related News (96)
+
+### [Abnehmspritze (Ozempic, Wegovy): Studie warnt vor höherem Sterberisiko - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQTJwbWVQTC1aR29aVnlkTXpWU05WWm42RGI2eHN4cUNFMEZrSnB6X0N2M0p2OVo2bTFodHdZT1p4SVFWTDRUNnNUZHRSTzcxSEhXTXhZd3NqdWl6cDZsU0lUcHltWEo5UkpFdUFPRnpOd2ZvVVF4c0hIZTRYdGFZVmViOUdYRm95ekVLU3dKcTRScXVMeUZzSE9xUzdWUEdMODZDUkYxSmJSSVhGc2psTVVpX2ljOVBrajl6SmdCdGhsNnZPQkhQcQ?oc=5)
+
+2026-11-15
+
+Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQTJwbWVQTC1aR29aVnlkTXpWU05WWm42RGI2eHN4cUNFMEZrSnB6X0N2M0p2OVo2bTFodHdZT1p4SVFWTDRUNnNUZHRSTzcxSEhXTXhZd3NqdWl6cDZsU0lUcHltWEo5UkpFdUFPRnpOd2ZvVVF4c0hIZTRYdGFZVmViOUdYRm95ekVLU3dKcTRScXVMeUZzSE9xUzdWUEdMODZDUkYxSmJSSVhGc2psTVVpX2ljOVBrajl6SmdCdGhsNnZPQkhQcQ?oc=5)
+
+---
 
 ### [Ictus, Andrea Vianello: «Ho ritrovato le parole grazie alla riabilitazione. Che va garantita a tutti i pazienti» - Corriere della Sera](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPWlU0TFphU3RIRFNlMWswS2gzdm5aLURQUVlKdDFRZVpHOC1XNzF3Rng2Yi1ZZFNPUWh4ZDdSRHg4M180QjVkYTlOa0t1LWkxSFdRTl9mRXpKN19CUy10VHVRaUdXaUpXSXB6bDFoYmFzX2E3X25hX2dJY3FRdEtzU3J1Y0VrcHBjbzRJUjBJNmFxM0Z5WHp4T0ZvcU5xeVFjMFJFYkJvclhBRTNSN2ZxamtSVVpfdFk0SC1nVFhnNmJGU0NQYmNMbkFYbmF2aU95b1p1V2c0SUZfU0NoQU9hT0kyek95M2MyaFVhZkdOTUZoaFl3WnZJVldwbzJLY01SMF9ERnJRX3BmYVRUTi13NWxKOWJ6WEZRcmlFdU5RcWtBNENPLUswRThmVXVtM1UwV2JTaUViajZpSGPSAcACQVVfeXFMUG9OcG10dVRiSjJ5RzA2SVBYd01IYkx5UVEzcWlzTmd3ZTJTTExfR2VDR1JJVTJtc2tzdGU1ZEhmQWc1Ml9ER0JEM3JyT0ZEalo0SjdmZVJRVENuYnZ2aHdST2pjUkVPejVHQmFLT1c1UF90R0h0dHNSMnprRldLZUlPMDBieVBWMGZnOS1SbFZqcWRXR0hKdGd6ZWdvTWVsN21SdzJDZHhrUFlrWmEtZUlCUkY0LU1SbXo1SGlmZWdZaWNUNmdnNHEyWFhTTFo0N3N5a1FCcElnOUhvQlRqbWFlWU5pdmtYNEVCdEZJTGk5Q3o3TGFFcXdDLWljVmwxRUlsUDRnbkZfUUJmenpmSEtVbnRJVGttbVFlNEdTZHVWQVY2SEs4RHBLUUVKaVUwS01ydHlyU21PVGZieFRwaEU?oc=5)
 
@@ -58,6 +66,14 @@ Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0pRbk1
 2026-11-14
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxPaG1weGszY3oxYlVhbWpqYkJxOEpRai1WQXFFZDlCZC1ScC1xUGsxNUdPbURxVE1tOGZNYlgyb2YzRDMzU0tRRU1fekNBbWZNYW92S3FYeVhiNnJ6TkNqbzRTSW5IM0ZmN2wtV0hZLVB3bFdIYUU3Sl96YXp3R0hjMXE3SV95ejVtNmJFYlNLS0RSaUs3VExwTExpNjNxd0pYdVFwLTFtcXpoOUxXNjZUVkNiWXRmdFVXbVZiWlhHd3E5NFcyRnBpREMzcm5YY1ZJNklHSFZKbEFKeV9rODNhZ3ltMXZDVm5NSVdvMUw4NHpMWUNYR1haVW90UUhXN3VoUTM3cjVSd19PX3YxRTJkQzh1ZTNaQXZ2RTgzZnVHQTBMdFJYQnZDaHhxRmF4M0Q4RlYwaWVJNi1jazF2aVdlVNIBxgJBVV95cUxNV1hqSW1yYkRCZDNKY1lDZFdGZlBhc3FxRk1CYWJOdC1GZnNjUWlUWnVaMTFYdHZNbXlQdG9LX0lzemkwYV80RlQ3VzZRTk1ucjRuYlh6SUFScUJmN1k5emxXX0ZfMkpyQ1JYNVhyY0tERFdwRWVjSjdLbWJ5TFdKRDBLSVQ5NWMyUFJnSjlPaTl2SlZxdWNCZkxWcXpBYjFidnZJa1NSUmNPNjA2d1AwVzM4ellSdmRjMlV3UV8xcjF4WndxZHRVVjJBaUpXYlh0ajVxOWtrVlBlYTNSM09FaHg5dlBIYThjS201TjNHWDJueEtWcFYwSjNGdlZfRWpjMzgxZDRWQnhUMnBIXzBhT2p5cndvQm9sM2ZEY1JQdkJjZm1maFA0V2VCeVhFdGNYc1FQUDFUYzc2ZjFGUE1oV1JvMHdoZw?oc=5)
+
+---
+
+### [AVC, Addiction… : les nouveaux horizons thérapeutiques des médicaments anti-obésité - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
+
+2026-11-14
+
+Source: [Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
 
 ---
 
@@ -202,6 +218,14 @@ Source: [La Crónica de Salamanca](https://news.google.com/rss/articles/CBMikgFB
 2026-11-10
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlhUR0gtby02MHhUbFk5TXJrYmVJT3gyaXpoSUo5OURkbE9OalRaRjdRaTM1NW1LNFhwWVFZb3NMMlN6OHIyblJaSzY5dC1qTTRPcmR0Z1c0OGE0WVpiaUdfaC0xOUpJUUZrN0p0MmZPQUVzM3FiU3VPa09HVHpIZTE3aFRELWF0?oc=5)
+
+---
+
+### [Deutsche Herzstiftung: Grippeimpfung schützt auch das Herz - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirAFBVV95cUxORXhTaEVqVERoZU5NNGQ2U1hvT0R6aHg1dmZxUkNYNkJwbHNHaTU2alo0V1pBZ21GRXZYMUU4OGxCOFNGcFloNWc0di1LbS1LajJTeXliZDUxaW5tWHpVUmFUcHllUWFOallCcFVsWlNPTUZYSXM4ZHVUU2VWYjEzX1dmRVVUYkxURDhIOEppdS11bndvYjFuRzFjTHk2a2RWY1VnVkNjS2ZXcXBu?oc=5)
+
+2026-11-10
+
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirAFBVV95cUxORXhTaEVqVERoZU5NNGQ2U1hvT0R6aHg1dmZxUkNYNkJwbHNHaTU2alo0V1pBZ21GRXZYMUU4OGxCOFNGcFloNWc0di1LbS1LajJTeXliZDUxaW5tWHpVUmFUcHllUWFOallCcFVsWlNPTUZYSXM4ZHVUU2VWYjEzX1dmRVVUYkxURDhIOEppdS11bndvYjFuRzFjTHk2a2RWY1VnVkNjS2ZXcXBu?oc=5)
 
 ---
 

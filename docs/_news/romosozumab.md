@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Romosozumab?">
-<strong>Romosozumab</strong> currently has <strong>189 news articles</strong>, with 0 predicted indications.
+<strong>Romosozumab</strong> currently has <strong>198 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Romosozumab with the latest 
 <p><a href="{{ '/drugs/romosozumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (189)
+## Related News (198)
+
+### [Las Diabetes tipo 1 y tipo 2 requieren tratamientos y cuidados específicos - El Periódico de Mairena -](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXhjTU5oT3g1Tm9qdjhkcDNON3lZT3RHc0hwQVlUYmg2M3NFaFJLZ0VFdVcxeHlVMElUZU9hd2djSVdpSllBdW5vOFZNNUozczJnc0Q2U3BkLWNVaGJyRURjdjQxcVVybF8tVXF5RlJ4LUxrdHZzVE51eWtJQ0xBb3hVeEJHODNFZnVrRzhVdE1Vbjl1NjcxUWV2OTNJTW0yZGF6Q2xWODRMY1ZzcXZhcVFXWGhlT2c?oc=5)
+
+2026-11-15 <span class="news-indication-tag">diabetes</span>
+
+Source: [El Periódico de Mairena -](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXhjTU5oT3g1Tm9qdjhkcDNON3lZT3RHc0hwQVlUYmg2M3NFaFJLZ0VFdVcxeHlVMElUZU9hd2djSVdpSllBdW5vOFZNNUozczJnc0Q2U3BkLWNVaGJyRURjdjQxcVVybF8tVXF5RlJ4LUxrdHZzVE51eWtJQ0xBb3hVeEJHODNFZnVrRzhVdE1Vbjl1NjcxUWV2OTNJTW0yZGF6Q2xWODRMY1ZzcXZhcVFXWGhlT2c?oc=5)
+
+---
+
+### [Diabetes und Alzheimer: Metaanalyse zeigt Zusammenhang mit Grenzen](https://news.google.com/rss/articles/CBMipAFBVV95cUxPb1VTN0VUNF9SRlNvdUJXd05PcXZfMHphMmV3MUtWeUEyaE9VMkQ4SWtBbkkwbDZGdXluTUtJWXl1OGU4c1ZFV1QyS2wyVFp0RVF1aVJRM2t6Yk5UYWJULWItcmppdGxsdDdLaWI3Z1ByVC1JMy04eTdjSnlUNy1IYTJ3R2QtM29qTlYtLUF1VUZKTzRqMG9xcGktZXR5WERWcXhNYw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">diabetes</span>
+
+Source: [food-monitor](https://news.google.com/rss/articles/CBMipAFBVV95cUxPb1VTN0VUNF9SRlNvdUJXd05PcXZfMHphMmV3MUtWeUEyaE9VMkQ4SWtBbkkwbDZGdXluTUtJWXl1OGU4c1ZFV1QyS2wyVFp0RVF1aVJRM2t6Yk5UYWJULWItcmppdGxsdDdLaWI3Z1ByVC1JMy04eTdjSnlUNy1IYTJ3R2QtM29qTlYtLUF1VUZKTzRqMG9xcGktZXR5WERWcXhNYw?oc=5)
+
+---
 
 ### [Pacientes de diabetes piden equidad y mayor atención](https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3NndnBMTzVXeUZtTUoyRnB1Z1YzVHV4a1pCd2NXMExuS0xFY2ppZDJnRDdxU3B5MW1qczFJV2NGek1lNHRURlVQUWFMUkxzTU96SEg2SUVDMGZyWDNjanl6d0FCMVhkOHhBdkRjZTgwdXJYSnJaR0tnTWc2a096M3EwTVBvN1oza2huZmNTYlV1a1dPV2JrZU8xcWc?oc=5)
 
@@ -56,6 +72,22 @@ Source: [Cadena SER](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNW1mOU
 
 ---
 
+### [Sanidad facilita sistemas de monitorización continua de glucosa a más de 28.000 personas con diabetes](https://news.google.com/rss/articles/CBMimgFBVV95cUxNQnhMT01EU1d3SXFabG1CcGhuY29lYjJ5WnBNQ0FyOTlIR2lmXy1jZEpQVi1KSk9YZk9fMUhfM2RRSEctTmVFcW1zX1NvZFd0dlpfOEFHbXk0U2pFMXAxZFl2bFhkS0M2ZnlHRkkwVy00Q2xUN19jRzhla2ZhXzRyZWM2T1FOU0tYNURsckRVYldKNXg4UGR6VHZn?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetes</span>
+
+Source: [Hortanoticias.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNQnhMT01EU1d3SXFabG1CcGhuY29lYjJ5WnBNQ0FyOTlIR2lmXy1jZEpQVi1KSk9YZk9fMUhfM2RRSEctTmVFcW1zX1NvZFd0dlpfOEFHbXk0U2pFMXAxZFl2bFhkS0M2ZnlHRkkwVy00Q2xUN19jRzhla2ZhXzRyZWM2T1FOU0tYNURsckRVYldKNXg4UGR6VHZn?oc=5)
+
+---
+
+### ["Une maladie très souvent silencieuse au début". À Rennes, une opération de dépistage gratuite pour détecter le diabète - France 3 Régions](https://news.google.com/rss/articles/CBMipAJBVV95cUxQRmN0emM3QUVZNWpKQ1Q4S2dYZUtjTUs2b2duUFM4R0w5NEd2d1JPVzVSUDg0ZG5ndjVsUGZuc3dKN0tGVDNocjNVSXY0Wm1tSkdla0ktUFNGTG14NmxHNEl3UnlzNGltY1dxLWU0SThDRkhNS19wM3dmWFAya1kwd0dyenUzUVRjbVNfbjBoNjdvendmY2dqd3ZhcElnVG5GdHliLTlzeUd5SVhYb0RtUXJ2azlrREJ6VWxCV05lcWxxeldYMXluRTBWUF9TOHZ4aXZ3a3hNa2czdnVmbVlkeXA2Qi1zVW9KUm9wOE9MY1UxMVE3MzBrcF9MQ3dwdjY5SFUwSEstSnc5a1dnZ190UW16Nmg2NktvSjBQem9UbDYzY3RI?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabète</span>
+
+Source: [France 3 Régions](https://news.google.com/rss/articles/CBMipAJBVV95cUxQRmN0emM3QUVZNWpKQ1Q4S2dYZUtjTUs2b2duUFM4R0w5NEd2d1JPVzVSUDg0ZG5ndjVsUGZuc3dKN0tGVDNocjNVSXY0Wm1tSkdla0ktUFNGTG14NmxHNEl3UnlzNGltY1dxLWU0SThDRkhNS19wM3dmWFAya1kwd0dyenUzUVRjbVNfbjBoNjdvendmY2dqd3ZhcElnVG5GdHliLTlzeUd5SVhYb0RtUXJ2azlrREJ6VWxCV05lcWxxeldYMXluRTBWUF9TOHZ4aXZ3a3hNa2czdnVmbVlkeXA2Qi1zVW9KUm9wOE9MY1UxMVE3MzBrcF9MQ3dwdjY5SFUwSEstSnc5a1dnZ190UW16Nmg2NktvSjBQem9UbDYzY3RI?oc=5)
+
+---
+
 ### [Día Mundial de la Diabetes: la importancia de detectar la enfermedad a tiempo - Antena 3 Noticias](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcFdSeVlPZzhMNUJiNk9JaThVMUgya3hHenloMUNVYWY5bDk2djhHM0JseE50Q1lqQWNRaDJSdXJubEZyeDVyYWduNzczaGJNN0NLdm9DOUY4YzQ5OUhVcWlzLXlCOG1VWGlhY2dROU5IcjNQaUVwdzZKXzdCaHh1V25DaVNCQ0lKX3ljdzR1blFldXF2RUVsa2JYTHYwUkp4dUIxaDMtOVMxY0VHeFRoNHo2WjdUNDg3UGF4YVZiZU11WVM0NEhYelIwN0NvdXp6M2fSAdIBQVVfeXFMTl93V0xXYU5HZjlodXdmVXlkSVE5d0JSMHNkeXNTZDVUOFJwbzZYX0YxdHlTSFZJX0cxSG45SXZmLVBxX2xTd3ByRFlHS0tkZWlDcEQ1TUFvVU5LVndVNUNoSlpTLTZDcnVCbDJQdUZOd2lkR2FnaWx5SlhDc204NUc3OTNUUm40Y1ZIenlBeWJrM3NmQUJxbHNVTklYWEc1QnhXMDZvQTdvaVhhSjZueTVLc3Z5WDdXbUZCV1JfdXlneXoxZklOV3Z5ZmhNVDR3UXBB?oc=5)
 
 2026-11-14 <span class="news-indication-tag">diabetes</span>
@@ -77,6 +109,14 @@ Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBV
 2026-11-14 <span class="news-indication-tag">diabetes</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2RnSU1KaC1acWE1aHR3X19aWHFXRTFNWUNjaHZJLTl1cjBUaF81bEhWUWZzNGs3M3pRYmt4MkZ3d0JleGcwNDgxNU9GcEVyY0J3WjdlVDJPSFVUUERuQXFHUUhOR2stUGE3LVlNTHhJeGwxdjhNSGRxeExSdWNhR3ZSb0xxXzNoWnFneEJMeWpoZDhQMURFa0dPTXBRXzhqOWI0b0NVUnVfeGVpNC1WMkVSZVI?oc=5)
+
+---
+
+### [Giornata mondiale del diabete, la sfida parte da Palermo: "Così scoviamo quel 5% di malati che non lo sanno"](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZm5PeTNaVWN5MkRwaUtXRkFtUGlzTXpsa3RNQzEtaWsxaUNXQWNZbERhVEVpbjd3aUJiU3E4U0RDbTAxRGFoRTEyUDg4cjItMTFKMVQwQ0pHRXZ3cTYtaFBfVjlvQlBNMmZacWlrNHljc1pPeTlILXZ0cEw4bVp6ZlpBWU1nbm5HbmpCeXVqZHNUNzNuNVhtM29FUkQ?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabete</span>
+
+Source: [PalermoToday](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZm5PeTNaVWN5MkRwaUtXRkFtUGlzTXpsa3RNQzEtaWsxaUNXQWNZbERhVEVpbjd3aUJiU3E4U0RDbTAxRGFoRTEyUDg4cjItMTFKMVQwQ0pHRXZ3cTYtaFBfVjlvQlBNMmZacWlrNHljc1pPeTlILXZ0cEw4bVp6ZlpBWU1nbm5HbmpCeXVqZHNUNzNuNVhtM29FUkQ?oc=5)
 
 ---
 
@@ -136,11 +176,11 @@ Source: [H@llAnzeiger](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUDVp
 
 ---
 
-### [Hundreds of children in England prescribed weight-loss jabs, figures show - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3pnRU9ScnlvYkl1VWdPRjFaUjFlSmY5VWVLd3M4QlRCUmhKZmhmQXhzN3FVVzk2Vm1IUE9CM2pIdTM5N1lGMkNvMlJrZW9kV2dCbGxFM0ZYUDFqSGFxZkxpbGUta3dFWTExVC1ZMGFyN08wNW1OVC16Vl9JR0dyWUllQzBQSWVVQWEtb3YteEwzMUM2TUN3OA?oc=5)
+### [When A Child's Thirst Is More Than Thirst: The Diabetes Warning Signs Parents Can Miss](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYjFrYzU5VEYxZmhiczFQZWdkMU5UQzFzMHYxTWQyMldCaXhDY0ZUSGlJOFdJRXd3TG9PMVhZZ05EaWdVMUpHUGJuMHlKYjk2dm44b0JhTS10NkJUbnZmME11clk5WXY0bU8ydXJ4Y0NUMEp6azdjVXEtRll5dTRfZlRyWjRvLXBReGYwXzFGeTJqLUZpT3FrTUFQX3hRYjVGNmxMenI1RnpsNjFUcHMxQWpIOUtabjhTN0RVOXdEa1B0T3RqRU5ZR1puTXNia0kzQkE?oc=5)
 
-2026-11-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+2026-11-14 <span class="news-indication-tag">diabetes</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3pnRU9ScnlvYkl1VWdPRjFaUjFlSmY5VWVLd3M4QlRCUmhKZmhmQXhzN3FVVzk2Vm1IUE9CM2pIdTM5N1lGMkNvMlJrZW9kV2dCbGxFM0ZYUDFqSGFxZkxpbGUta3dFWTExVC1ZMGFyN08wNW1OVC16Vl9JR0dyWUllQzBQSWVVQWEtb3YteEwzMUM2TUN3OA?oc=5)
+Source: [NDTV](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYjFrYzU5VEYxZmhiczFQZWdkMU5UQzFzMHYxTWQyMldCaXhDY0ZUSGlJOFdJRXd3TG9PMVhZZ05EaWdVMUpHUGJuMHlKYjk2dm44b0JhTS10NkJUbnZmME11clk5WXY0bU8ydXJ4Y0NUMEp6azdjVXEtRll5dTRfZlRyWjRvLXBReGYwXzFGeTJqLUZpT3FrTUFQX3hRYjVGNmxMenI1RnpsNjFUcHMxQWpIOUtabjhTN0RVOXdEa1B0T3RqRU5ZR1puTXNia0kzQkE?oc=5)
 
 ---
 
@@ -149,6 +189,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3pn
 2026-11-14 <span class="news-indication-tag">diabetes</span>
 
 Source: [Neue Westfälische](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc1B6T1V1cVRjclhadjNELTJjSmJrVXphXzR6S1V0WlE5TUJQM2thcy1vRHZFaWhTeEZkUGpwQU1Eb2JwOHp5bWVSVEJqcFU2Umd6QVRndXlmWTZMV1VGVTFMQ1JVNWs0YWJVYWV0TV9kOGpMeE44dDJna0xuaVE1SFNMN3ktVXNnU3VTUDJaNTZ0Nktyb0RiSUVYemZkVGwzMjdxT1EzR0ptdm1BWWwyVm1FU2NtR3ZxeW81RllZQkxmQ3FuUG5tcjFOcVJnbzNWTHFCLXQ1d2NjTmJfb3huVnNFal9qb0pUOXJZYU9wYzdBdw?oc=5)
+
+---
+
+### [Hundreds of children in England prescribed weight-loss jabs, figures show - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3pnRU9ScnlvYkl1VWdPRjFaUjFlSmY5VWVLd3M4QlRCUmhKZmhmQXhzN3FVVzk2Vm1IUE9CM2pIdTM5N1lGMkNvMlJrZW9kV2dCbGxFM0ZYUDFqSGFxZkxpbGUta3dFWTExVC1ZMGFyN08wNW1OVC16Vl9JR0dyWUllQzBQSWVVQWEtb3YteEwzMUM2TUN3OA?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3pnRU9ScnlvYkl1VWdPRjFaUjFlSmY5VWVLd3M4QlRCUmhKZmhmQXhzN3FVVzk2Vm1IUE9CM2pIdTM5N1lGMkNvMlJrZW9kV2dCbGxFM0ZYUDFqSGFxZkxpbGUta3dFWTExVC1ZMGFyN08wNW1OVC16Vl9JR0dyWUllQzBQSWVVQWEtb3YteEwzMUM2TUN3OA?oc=5)
 
 ---
 
@@ -184,11 +232,27 @@ Source: [Elplural.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmZn
 
 ---
 
+### [Avances y desafíos frente a la diabetes: más herramientas que nunca, pero con retos de equidad y prevención - Saber Vivir](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa1F2Ym00eGRqS1E1S29fQWRDMEFaSFZMaUg4ZVAzenRadFhsZmhsbzRCaTNwem9kLXk2VHZYbmJtbTZzRWVjSWxmNHNkRXZ1M3Q3OUQxbXlXNkJxZFA3QWVHMmxjUXRqcjhSOGlqbjhJUFBqeFkzRnlwOS1DTzNuYXFOOW9xdGV2LWRGQ1JZR2F1R1Nlcnp4WnpPWXU4bUlZVEhSMnRkUUFyRk5KRTU2TmUwbVc0TGZ0MVB3UTJTRmJtRnRWY1Z1dWkzUjc1Q2RaS0xMbTFNMTJGVVI1am9BQWlRdk1Xdw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetes</span>
+
+Source: [Saber Vivir](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa1F2Ym00eGRqS1E1S29fQWRDMEFaSFZMaUg4ZVAzenRadFhsZmhsbzRCaTNwem9kLXk2VHZYbmJtbTZzRWVjSWxmNHNkRXZ1M3Q3OUQxbXlXNkJxZFA3QWVHMmxjUXRqcjhSOGlqbjhJUFBqeFkzRnlwOS1DTzNuYXFOOW9xdGV2LWRGQ1JZR2F1R1Nlcnp4WnpPWXU4bUlZVEhSMnRkUUFyRk5KRTU2TmUwbVc0TGZ0MVB3UTJTRmJtRnRWY1Z1dWkzUjc1Q2RaS0xMbTFNMTJGVVI1am9BQWlRdk1Xdw?oc=5)
+
+---
+
 ### [La Medicina desafía 'el silencio' de la diabetes con tratamientos cada vez más personalizados - Redacción Médica](https://news.google.com/rss/articles/CBMikAJBVV95cUxPTElucG5qSVhkWHh5ekhLWXBsUWNxTkF2QkdPRnljWEFzMkMxZEFuZVNyYzlaNlZxM0hONDEzVmY4V0ZmQU9SVk51MklXcl9NTEFwU282b05fMWZQLVp3dlV4cXFZTVk3OXZ6WGRJVUR5ZXczNW9vS0ltcXhMNU1wZlZaSEVFOW95TjZOZWFtOVUyR3Q1M0JTYXoxR2RkWkQydW9NeTdRS2t3NE1VWkJTRU0wekNkTkF5bzZhd0NTSVB6UFRyVkU2T3lrYUN5MUk3V1RxTGVpVzNKMndCaWZ6My1RR1VSODVLWnNTRXJZOGE2bEhuaGFPNlJpbTBPMFJhRnFpRWU3bXhjT2xzRUpGcNIBlgJBVV95cUxPTVpQTDAyLUptWHVNR1dCSEVaX0NSNXRnb1ppSk1lSmtlMkxWa0taVDBsc003UHRVOEVzSG8yTFdYcHQ3ZWl1Sy0xUmV2UzY4c25LX24tcEN1ekJxYTI2d3ZtVWhtaEtQdUY0UUxrMDFaeHdnY3FPYlM2cm5PQ0hDSTVvV0g0RWpGZjU5MXVpXzNZeERwaUFZQlpvQkR3ZGZ0R3UxNFBhaFdMTjRlUF9SOEhudjYzNTlTRzhULVpCS05leDFkR1BSTXZnSXQyeE5hYXh4V1pNQ2JRSG5xMm9vbnctTkRhTXo5WURvQkNiUGpVZ3JVZi1RUWxsLTZQbHhiTEtNMzVEQWMyZUFqY3JJZEx4V0pFdw?oc=5)
 
 2026-11-14 <span class="news-indication-tag">diabetes</span>
 
 Source: [Redacción Médica](https://news.google.com/rss/articles/CBMikAJBVV95cUxPTElucG5qSVhkWHh5ekhLWXBsUWNxTkF2QkdPRnljWEFzMkMxZEFuZVNyYzlaNlZxM0hONDEzVmY4V0ZmQU9SVk51MklXcl9NTEFwU282b05fMWZQLVp3dlV4cXFZTVk3OXZ6WGRJVUR5ZXczNW9vS0ltcXhMNU1wZlZaSEVFOW95TjZOZWFtOVUyR3Q1M0JTYXoxR2RkWkQydW9NeTdRS2t3NE1VWkJTRU0wekNkTkF5bzZhd0NTSVB6UFRyVkU2T3lrYUN5MUk3V1RxTGVpVzNKMndCaWZ6My1RR1VSODVLWnNTRXJZOGE2bEhuaGFPNlJpbTBPMFJhRnFpRWU3bXhjT2xzRUpGcNIBlgJBVV95cUxPTVpQTDAyLUptWHVNR1dCSEVaX0NSNXRnb1ppSk1lSmtlMkxWa0taVDBsc003UHRVOEVzSG8yTFdYcHQ3ZWl1Sy0xUmV2UzY4c25LX24tcEN1ekJxYTI2d3ZtVWhtaEtQdUY0UUxrMDFaeHdnY3FPYlM2cm5PQ0hDSTVvV0g0RWpGZjU5MXVpXzNZeERwaUFZQlpvQkR3ZGZ0R3UxNFBhaFdMTjRlUF9SOEhudjYzNTlTRzhULVpCS05leDFkR1BSTXZnSXQyeE5hYXh4V1pNQ2JRSG5xMm9vbnctTkRhTXo5WURvQkNiUGpVZ3JVZi1RUWxsLTZQbHhiTEtNMzVEQWMyZUFqY3JJZEx4V0pFdw?oc=5)
+
+---
+
+### [Le diabète progresse chez les enfants, quels signes doivent vous alerter ? - 20 Minutes](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkc3RzR6Xzhnc0NGWlVvaEJsMWxJb2txMDZDdlR4Nk9XbXFvN0hUREh4QlllQ01WVWFoRUFHa1hobnU1ZjZWSTB5VFprd0dBZHplMWwxbWV6Nmh5cDIxbGl2SG9KSXZSWkVXM3VqMEh5YXBJRkt4cjhnZ1J1VVRWaTVJazNKemR1MFM1ZWhOdFpQWTNfb2doeFNmelNiS3FCVEUycGlKRmxVbkJLdmJvLWpBT3I?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabète</span>
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkc3RzR6Xzhnc0NGWlVvaEJsMWxJb2txMDZDdlR4Nk9XbXFvN0hUREh4QlllQ01WVWFoRUFHa1hobnU1ZjZWSTB5VFprd0dBZHplMWwxbWV6Nmh5cDIxbGl2SG9KSXZSWkVXM3VqMEh5YXBJRkt4cjhnZ1J1VVRWaTVJazNKemR1MFM1ZWhOdFpQWTNfb2doeFNmelNiS3FCVEUycGlKRmxVbkJLdmJvLWpBT3I?oc=5)
 
 ---
 
@@ -301,6 +365,14 @@ Source: [https://fomoera.com/](https://news.google.com/rss/articles/CBMib0FVX3lx
 2026-11-13 <span class="news-indication-tag">diabete</span>
 
 Source: [Cremaonline](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb0ZMTXpEZzhSUlo3emg2QWxjdXlUZU1GTXlfdTgxU0FwRXdZWXdkRzBSLVptRUFwT19sNmZrWWZUbGZIYnhKdjZ0d1FCWHc1UnhnRGszSFdLUG5CdmtGR3AzcV9TMVdRSmZoRVZZcTZjY1VCVzdFLW5ic0dqaUhVMHVNRDRCYkc5WGkyQlB6NWVzZ2ZPYmgxa3BiNGdOU0hIV2pzeEphZllJeThIYnNCVno5S1dDVDEyZEw2ZHdOWUc?oc=5)
+
+---
+
+### [Investigadores españoles prueban con éxito en ratones un compuesto contra el daño ocular de la diabetes - El Economista](https://news.google.com/rss/articles/CBMingJBVV95cUxNRXpYelk2ZlBMdWNFOGJmZ1hPbHFnOXVKN2JRSzdsNmphRy1FSVhtanIxSVJ2WHE5TTd3WGZCcVJxQmxtbFpVdl9KeVI5Rlh2MXZUczdYWVZsUHhYSmFTRjNrVl9hclBCVG5UZzMzcWVaTDZzaDJ2cVZYNGRvUWswNzB1aW1EaHlsUmgxMWdCTzhQc2EySG9vcTFvMkNNUDd2Q184MG5OWk1EaWxacU11UnNyV0lFSmViNTlPSVBobTVkZ3FORGl1dnBDMG5aS0RwZEtBaGdhQ041YnFoVEhReDljd1VzbzA0YUJ4Rjl5ZzRBQmo1cm12Sl9sc3BSTjI2Z25tV29KZUZfRnVLaTZkUTVGNVZIYzUwYUFGMm9R?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [El Economista](https://news.google.com/rss/articles/CBMingJBVV95cUxNRXpYelk2ZlBMdWNFOGJmZ1hPbHFnOXVKN2JRSzdsNmphRy1FSVhtanIxSVJ2WHE5TTd3WGZCcVJxQmxtbFpVdl9KeVI5Rlh2MXZUczdYWVZsUHhYSmFTRjNrVl9hclBCVG5UZzMzcWVaTDZzaDJ2cVZYNGRvUWswNzB1aW1EaHlsUmgxMWdCTzhQc2EySG9vcTFvMkNNUDd2Q184MG5OWk1EaWxacU11UnNyV0lFSmViNTlPSVBobTVkZ3FORGl1dnBDMG5aS0RwZEtBaGdhQ041YnFoVEhReDljd1VzbzA0YUJ4Rjl5ZzRBQmo1cm12Sl9sc3BSTjI2Z25tV29KZUZfRnVLaTZkUTVGNVZIYzUwYUFGMm9R?oc=5)
 
 ---
 
@@ -834,7 +906,7 @@ Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVBGN
 
 ### [Stopping weight loss drugs doubles diabetics’ heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 
-2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
+2026-11-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 

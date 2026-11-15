@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Adipositas (obesity) News"
+title: "obésité (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Adipositas (obesity). 96 articles, 8 related drugs."
+description: "Health news about obésité (obesity). 98 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-11-15
 ---
 
-# Adipositas (obesity) News
+# obésité (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
-<strong>Adipositas (obesity)</strong> currently has <strong>96 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obésité (obesity)?">
+<strong>obésité (obesity)</strong> currently has <strong>98 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Adipositas” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obésité” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -34,13 +34,21 @@ This page brings together the latest health news about “Adipositas” and list
 </ul>
 </div>
 
-## Related News (96)
+## Related News (98)
 
-### [Eiweißarme Ernährung verlangsamt den Alterungsprozess](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS1hU0haa0tsbFg4NDNrRURfLXhJUFh6MzV1X1cteFlBSGRjREZGOGRGa0VVRGtfOXBkenVLN3BxcHNsX2xiVkwwRDVSWmVneXQ3Sl9YYWVvWldYX3hsVnpKWW1yM0VBdlZaREtKTUxlS3ZHOGY5WHI3dUF5aktxSjNKNVZXNDdnX0g0dmxBMElaYkhsQzdN?oc=5)
+### [AVC, Addiction… : les nouveaux horizons thérapeutiques des médicaments anti-obésité - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
 
 2026-11-14
 
-Source: [Scinexx](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS1hU0haa0tsbFg4NDNrRURfLXhJUFh6MzV1X1cteFlBSGRjREZGOGRGa0VVRGtfOXBkenVLN3BxcHNsX2xiVkwwRDVSWmVneXQ3Sl9YYWVvWldYX3hsVnpKWW1yM0VBdlZaREtKTUxlS3ZHOGY5WHI3dUF5aktxSjNKNVZXNDdnX0g0dmxBMElaYkhsQzdN?oc=5)
+Source: [Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
+
+---
+
+### [Makers of obesity drugs hit back at claims of negative side effects - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1NkcmVzQ1NHdUJTZkdUR1ZBR19GMmhndndQRjZKbUVENi1VTXBCeEY2andSWURTdWV5RzJhUmZuSldlWTZEYkxVdmJzcWU2LXFEb0daTnZFY0FMMXhaa1JGb1hSeGpkV1dtR2RibkY4RUlUeG01UWJaTFkzbEFkMWktaXQ?oc=5)
+
+2026-11-14
+
+Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1NkcmVzQ1NHdUJTZkdUR1ZBR19GMmhndndQRjZKbUVENi1VTXBCeEY2andSWURTdWV5RzJhUmZuSldlWTZEYkxVdmJzcWU2LXFEb0daTnZFY0FMMXhaa1JGb1hSeGpkV1dtR2RibkY4RUlUeG01UWJaTFkzbEFkMWktaXQ?oc=5)
 
 ---
 
@@ -57,6 +65,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3pn
 2026-11-14
 
 Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTkJNdXJsd0hSVlVHN1lkM0xUV0Mxc3g2TnplcVJfcTgxWDVsU2xuczM3MXJYa1Y2YjY5Q1RhbF9QMkdLZ2ZpOWFaNnVZb2h3dVRtY1pZOGpGeG5tSFZwS0lBT2xiUUpmWk9xdVowekxzaHJwaEYtTzBiMlFxT1lfUnZNcWVuVzdQdTZDS1BFeUx1cG92dUYzaDdGMGM1dE5zM25IVG1rbVJRSmlfWmFNdGpVUlMwRTVwb0g3ZEdYOElyN2k2ZVFaRDZ5cldoTGlkeU5GY29MenA1LUp4VEZoQlIwc2dlSGtEMEltcFJnVlNvQ0hlczhwNlZWdlZZZHVfeHZVX0Z1TUpXSEE?oc=5)
+
+---
+
+### [El IMC no basta para detectar la obesidad: el estudio internacional que propone mirar también la cintura](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQajlRT0dfcmNnVzhnUTlVQ0VKbFdrUm5yYW5hcEFnbVRhY0lZZm9rWWVlOFh3SGR4cWJvQVJ4OHRBdGQwcDlMQnFjME44eDhMT3hDMXVOSmY2MWpQV00zdGk4cGI5Zmw3NmlVQzJSZWJFUWU0b2tjYUM3M1ZhVENXRmVJVDFDaXpBc2ZpbFBaSUNkODVTd0w4M0ZRdFBzWmpoekFvcExaZDJtYndDeDVZeV8zcGk1VzNyT2U1YU8wSEI2VFl1SXRDMHpSRlFFWjdqa21lSFNSdDVnaVBr0gHiAUFVX3lxTFA3ZllVWHUwSV94aWFjYVlkLU9OZU9kbWxFX19Nbi1lYW4tUlhxcDQ5STYxMExqTGNSdF94VUhpUXpZeERXdFdjRUhqa0FFYlg5MVFnUjZZUjJ2eGpWY2ZWSFhTSnZWaHVHRGF1aHJYV3F6VzNzZFBjajEzQVNtQllibHduOWJ6MG9sTDc5ZkhaRzJ3bUpIVDdJc2JHMlhTanB2c21vVFY4TjhSWDhhYTZiTGF3U2toM2NTUm5kckt1WlBOUG81YWFuSW5QbjI1VFZ5clZEOFRySnRfbjZvdFhVcWc?oc=5)
+
+2026-11-14
+
+Source: [Vozpopuli](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQajlRT0dfcmNnVzhnUTlVQ0VKbFdrUm5yYW5hcEFnbVRhY0lZZm9rWWVlOFh3SGR4cWJvQVJ4OHRBdGQwcDlMQnFjME44eDhMT3hDMXVOSmY2MWpQV00zdGk4cGI5Zmw3NmlVQzJSZWJFUWU0b2tjYUM3M1ZhVENXRmVJVDFDaXpBc2ZpbFBaSUNkODVTd0w4M0ZRdFBzWmpoekFvcExaZDJtYndDeDVZeV8zcGk1VzNyT2U1YU8wSEI2VFl1SXRDMHpSRlFFWjdqa21lSFNSdDVnaVBr0gHiAUFVX3lxTFA3ZllVWHUwSV94aWFjYVlkLU9OZU9kbWxFX19Nbi1lYW4tUlhxcDQ5STYxMExqTGNSdF94VUhpUXpZeERXdFdjRUhqa0FFYlg5MVFnUjZZUjJ2eGpWY2ZWSFhTSnZWaHVHRGF1aHJYV3F6VzNzZFBjajEzQVNtQllibHduOWJ6MG9sTDc5ZkhaRzJ3bUpIVDdJc2JHMlhTanB2c21vVFY4TjhSWDhhYTZiTGF3U2toM2NTUm5kckt1WlBOUG81YWFuSW5QbjI1VFZ5clZEOFRySnRfbjZvdFhVcWc?oc=5)
 
 ---
 

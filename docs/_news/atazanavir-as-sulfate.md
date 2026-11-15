@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Atazanavir (As Sulfate)?">
-<strong>Atazanavir (As Sulfate)</strong> currently has <strong>269 news articles</strong>, with 0 predicted indications.
+<strong>Atazanavir (As Sulfate)</strong> currently has <strong>277 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,63 @@ This page combines the AI-predicted indications for Atazanavir (As Sulfate) with
 <p><a href="{{ '/drugs/atazanavir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (269)
+## Related News (277)
+
+### ['I gave birth 9 weeks early for urgent cancer treatment - now I won't live past Christmas' - The Mirror](https://news.google.com/rss/articles/CBMidEFVX3lxTE9XNlo0TTlJZm5ybGRMUlFxTThDU01QVkNKUWRQZ2NkcXZDV1B1ajNMdjZyWVVrbE1ST00xZVVQWTdHNkV4UnNISjJsYzBzSXhpWmxpWjhpY08xVmxaaEFfRnJyWXBTOHVtR015VFJDUmRoR2xC0gF6QVVfeXFMTlBjdWhYWmxKUkg2NVgxZllmWE5tYWZ3N0k4YnhUWEVMamNkRTBnM1B2TlVYVDh3akpJaEYxbnp4VU1Hb2g2U1kwWUxJNmNuY2xBMHRZUjNDVllEXzNwaHM4Y3NBMUlySDJmTHhka0tyUmM0Q1h1Z3BpVUE?oc=5)
+
+2026-11-15 <span class="news-indication-tag">cancer</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMidEFVX3lxTE9XNlo0TTlJZm5ybGRMUlFxTThDU01QVkNKUWRQZ2NkcXZDV1B1ajNMdjZyWVVrbE1ST00xZVVQWTdHNkV4UnNISjJsYzBzSXhpWmxpWjhpY08xVmxaaEFfRnJyWXBTOHVtR015VFJDUmRoR2xC0gF6QVVfeXFMTlBjdWhYWmxKUkg2NVgxZllmWE5tYWZ3N0k4YnhUWEVMamNkRTBnM1B2TlVYVDh3akpJaEYxbnp4VU1Hb2g2U1kwWUxJNmNuY2xBMHRZUjNDVllEXzNwaHM4Y3NBMUlySDJmTHhka0tyUmM0Q1h1Z3BpVUE?oc=5)
+
+---
+
+### [Ricerca su tumori no profit, Di Maio (Aiom): "Servono più fondi per gli studi indipendenti" - Il Tirreno](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcUN6cWFubnd4VHZNYmZvWHR0dmZBRk9JdEY0aDhVV2V4U0V2d1RVaHJJczhsNm4tOTNqMHRFVlR3WUJkWGN2Z295Vmw4RUNFbE5uV1kwYkI1S3ZxY1AtMWxZTHlHMGwyUTJDdjVaUnZUa2M5bjJpUVViMEdDajJlNUs4OWZ1UV9SOUZJN2RFNkptRWtCd2ExV3M3NFlXcGN0dkE2UUdLLUV0WThzeDFUWUMxcnZ2UHZnWEtUcWtfcVZjOWptZDFUTk9JYXJnTmhMNGVSNC1VaHlVNlcxYzJJam1XMm5vNTB4OG5xenF3?oc=5)
+
+2026-11-15 <span class="news-indication-tag">tumor</span>
+
+Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcUN6cWFubnd4VHZNYmZvWHR0dmZBRk9JdEY0aDhVV2V4U0V2d1RVaHJJczhsNm4tOTNqMHRFVlR3WUJkWGN2Z295Vmw4RUNFbE5uV1kwYkI1S3ZxY1AtMWxZTHlHMGwyUTJDdjVaUnZUa2M5bjJpUVViMEdDajJlNUs4OWZ1UV9SOUZJN2RFNkptRWtCd2ExV3M3NFlXcGN0dkE2UUdLLUV0WThzeDFUWUMxcnZ2UHZnWEtUcWtfcVZjOWptZDFUTk9JYXJnTmhMNGVSNC1VaHlVNlcxYzJJam1XMm5vNTB4OG5xenF3?oc=5)
+
+---
+
+### [Vieste, raccolti più di 280mila euro per Cristina, ma il Daraxonrasib non arriva: appello alla Regione Puglia](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVXgwR0stTWpvNFBEQTVjSTRBOXhPSHZfc0Q4ckV0TFFQTV9fMlV3VXVrdEUxSGVJVVFWOGdoN0h3SGFERzZLbmsyS3phUTZ3b2l3VXBkcnNMVUtDTnRSQ0hzUm0tZUI3cTVPRTkyWEFnLXRVUXk4dWtNNW1zS0pBMWU4WGxYQVVrX3BXRW92Y3dVZWRTZVdoX2RhMkYxRUJpa1NWWThDbVlwWU1rS0hkbjlzdVBBVHNWRFhseGFtT1lldw?oc=5)
+
+2026-11-15 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">tumor</span>
+
+Source: [FoggiaToday](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVXgwR0stTWpvNFBEQTVjSTRBOXhPSHZfc0Q4ckV0TFFQTV9fMlV3VXVrdEUxSGVJVVFWOGdoN0h3SGFERzZLbmsyS3phUTZ3b2l3VXBkcnNMVUtDTnRSQ0hzUm0tZUI3cTVPRTkyWEFnLXRVUXk4dWtNNW1zS0pBMWU4WGxYQVVrX3BXRW92Y3dVZWRTZVdoX2RhMkYxRUJpa1NWWThDbVlwWU1rS0hkbjlzdVBBVHNWRFhseGFtT1lldw?oc=5)
+
+---
+
+### [My busy life meant I delayed my smear test - then I got cancer](https://news.google.com/rss/articles/CBMiXkFVX3lxTE80ci1CU2dESEdVbFRPeHpNMDNURzlEV2FscjBxSlZpRWFJZTlxblQ3RXUwOTFhM3NtSUdQZDlOclBHMGhER3VRS0VJbU94WUFDaVdFTU1WNWxaNHA2TkE?oc=5)
+
+2026-11-15 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE80ci1CU2dESEdVbFRPeHpNMDNURzlEV2FscjBxSlZpRWFJZTlxblQ3RXUwOTFhM3NtSUdQZDlOclBHMGhER3VRS0VJbU94WUFDaVdFTU1WNWxaNHA2TkE?oc=5)
+
+---
+
+### [Quando la prevenzione maschile salva la vita, i controlli da fare dopo i 50 anni: "Il pene come sentinella del cuore"](https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0wzdFV4N2ZZOG9oVEdENWI3QXU2THNoS1VURnVHdFVmOXBmb0ZSS1FOQU9XaGtHZGt2cUlVMW0yOGdBWFZTLUtRMHpTZHV3dGpGU3FIZWN6Mm9yZmkxSVpGanR3V1VqS0x3VWpod3hOV3BxTjNKXzBIbE9MM0VGVGpja0J3SWZNaDNMdWFjLVUya0VreUNEdVA3VWdOVWcxSXhhQUlaMEVxV0t5SEtmSg?oc=5)
+
+2026-11-15 <span class="news-indication-tag">tumor</span>
+
+Source: [ForlìToday](https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0wzdFV4N2ZZOG9oVEdENWI3QXU2THNoS1VURnVHdFVmOXBmb0ZSS1FOQU9XaGtHZGt2cUlVMW0yOGdBWFZTLUtRMHpTZHV3dGpGU3FIZWN6Mm9yZmkxSVpGanR3V1VqS0x3VWpod3hOV3BxTjNKXzBIbE9MM0VGVGpja0J3SWZNaDNMdWFjLVUya0VreUNEdVA3VWdOVWcxSXhhQUlaMEVxV0t5SEtmSg?oc=5)
+
+---
+
+### [Cancer de la prostate : désormais remboursés par l’Assurance maladie, les ultrasons par HIFU "ouvrent une troisième voie" face à la maladie - Midi Libre](https://news.google.com/rss/articles/CBMijwJBVV95cUxPU1M5WDhtblJmbTltRlNGQnY5bkZhQzk2SDFJSmVzRENvTjhmZFVPWm12UVZyMGdza0U4WHBESHhQajZoM2hYLVdMck51VVBNUkdhUlphb3EyX2pBYVhNX3Q1d1RydzA1VGNCQmN0bXpIajJOREFsaFNqUjM5NlE2dkVmZ3VILXk1NnNJMDVzYm1QdXVjS3ZJNXJWT2luUTJPbDhfbEp4OEJWckRTWnFnU3hMM1hkM1lpb3htZElmeHF0NXZQRU9CX0txT3VTOGhBTjJLQ1hFTWhxVTd0SmpaV0MwN1I3Zk9GRWVFRzZxdHVoWDcxdXVCYlUtR0lfUG5fSEREQUJ3OFhfc0haX2Rz?oc=5)
+
+2026-11-15 <span class="news-indication-tag">cancer</span>
+
+Source: [Midi Libre](https://news.google.com/rss/articles/CBMijwJBVV95cUxPU1M5WDhtblJmbTltRlNGQnY5bkZhQzk2SDFJSmVzRENvTjhmZFVPWm12UVZyMGdza0U4WHBESHhQajZoM2hYLVdMck51VVBNUkdhUlphb3EyX2pBYVhNX3Q1d1RydzA1VGNCQmN0bXpIajJOREFsaFNqUjM5NlE2dkVmZ3VILXk1NnNJMDVzYm1QdXVjS3ZJNXJWT2luUTJPbDhfbEp4OEJWckRTWnFnU3hMM1hkM1lpb3htZElmeHF0NXZQRU9CX0txT3VTOGhBTjJLQ1hFTWhxVTd0SmpaV0MwN1I3Zk9GRWVFRzZxdHVoWDcxdXVCYlUtR0lfUG5fSEREQUJ3OFhfc0haX2Rz?oc=5)
+
+---
+
+### [I’m an oncologist. This is why cancer is rising in the under-50s - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaFctV0tQSm16Y0dfVUJJaExXU3hETzYxNUZEYThRX0ZpV240bTZ4QURxbE8zeWRvTVlKd1hWb05IaU9IeURXazR6UlNWUklfTms4Zms3UHJaNDZfc1F4MUtrYUw4a1djdlUyRU9ZM2Fpdk1jelY5Z3N6M3phSXlBNWVNVGp0b0RZY2NQYWpGLU9yeHJwS0Z4SV9oOWxrSWowUXFtYkFyRFRQZw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">cancer</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaFctV0tQSm16Y0dfVUJJaExXU3hETzYxNUZEYThRX0ZpV240bTZ4QURxbE8zeWRvTVlKd1hWb05IaU9IeURXazR6UlNWUklfTms4Zms3UHJaNDZfc1F4MUtrYUw4a1djdlUyRU9ZM2Fpdk1jelY5Z3N6M3phSXlBNWVNVGp0b0RZY2NQYWpGLU9yeHJwS0Z4SV9oOWxrSWowUXFtYkFyRFRQZw?oc=5)
+
+---
 
 ### [NHS England on track to miss key cancer treatment target by 10,000 patients - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEZZVlhXS0dUN1dTWlJKUTBXVXJfdklCUExPbGdZTmxTcTV2R2lFNWY4d3B2VUpTaUlxaFN5OXJUWW8xdUJOY2JabGVmNTh5MGtHLUYwUXdMZXVzRzZYcGVPTTA5dGRHcWU2S2ZPejd2UVMxMGt2MnJybS03bHBzM1EydzJ2OUlTRVB4c000TjZoNjc5Y2lPZGYyUGNVOV9BQ2JHNTh3ZmxtZzZu?oc=5)
 
@@ -65,7 +121,7 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ
 
 ### [Six unusual smells that could reveal a hidden health problem - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcW1qZ1JiUXFRZnMtN2Y3WE8xc2c3Rm1kVFRTVEd5QldiN3dJMHJDcTZ1OFptRi1KMTNTY1VRMWFJT25kWVdqbzlrd1BTbzdhczhsTzJHajdKTFZSaVBJVlkzSUp3QjZISTZjeVV3RnRyNGJuOGhkcTlZLTJkcnNaSS0zeXBKSks0YTI2LVVrbElDZ1otVVdTOWlraTg?oc=5)
 
-2026-11-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
+2026-11-14 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">cancer</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcW1qZ1JiUXFRZnMtN2Y3WE8xc2c3Rm1kVFRTVEd5QldiN3dJMHJDcTZ1OFptRi1KMTNTY1VRMWFJT25kWVdqbzlrd1BTbzdhczhsTzJHajdKTFZSaVBJVlkzSUp3QjZISTZjeVV3RnRyNGJuOGhkcTlZLTJkcnNaSS0zeXBKSks0YTI2LVVrbElDZ1otVVdTOWlraTg?oc=5)
 
@@ -159,6 +215,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQeGJCQWYwN
 
 ---
 
+### [Movember : la prise en charge des cancers de la prostate de plus en plus soft - Sud Ouest](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3Z1Z1UxRnEycmx3Y1paZ0NBMExBVVo0cUhIV3g5ejdvdmMwVjFOUHEtWnExdVViQ1g5OTZGdVpDdHZvaV8wQWFfVnV4QmQ1cnB4S09aaTZTaXM1cUlQNTJ2NzFRSlhSNDJBMkNZVlhpM0loUlh6eDJKeW5pcUxvcG9IUHRjV2VmNzRZcE40Wk5xLW5UX3hjREUyR2FWQktLblNVRnVTUFg0cHZYUUVvdjgyM205aDhaZEE?oc=5)
+
+2026-11-13 <span class="news-indication-tag">cancer</span>
+
+Source: [Sud Ouest](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3Z1Z1UxRnEycmx3Y1paZ0NBMExBVVo0cUhIV3g5ejdvdmMwVjFOUHEtWnExdVViQ1g5OTZGdVpDdHZvaV8wQWFfVnV4QmQ1cnB4S09aaTZTaXM1cUlQNTJ2NzFRSlhSNDJBMkNZVlhpM0loUlh6eDJKeW5pcUxvcG9IUHRjV2VmNzRZcE40Wk5xLW5UX3hjREUyR2FWQktLblNVRnVTUFg0cHZYUUVvdjgyM205aDhaZEE?oc=5)
+
+---
+
 ### [La biopsia líquida en cáncer de mama: de detección temprana a predecir la reaparición](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaXdTN09iUklUTWhTUktxS0ZHNG91NF80U2RheVRjMnZGTkZvalNZSGhqU0ZfVXNBV01yLWVDZ2NJR0taSjlJamQzQ2tVSDJsenRLMjZfLXZlQjMtam9JN3hjbF9yR1RLbUhobHFrTk90TXFCWnpMZXBXSTlFejB2TjFRM09uckZxQWdQLWNLQ2V4UnVLRWpzNldTeENYZHVGV0ZLV1N3QmZMTzRVWFlRd0dNUU9zOTNqdl9EQzJkMjF0M3RYQXE3bm1KS3k1alZtc0FuMVVlXzA?oc=5)
 
 2026-11-13 <span class="news-indication-tag">tumor</span>
@@ -172,6 +236,14 @@ Source: [ConSalud](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaXdTN09i
 2026-11-13 <span class="news-indication-tag">tumor</span>
 
 Source: [La Provincia di Cremona](https://news.google.com/rss/articles/CBMingFBVV95cUxQbDdqM2Z1MU1vbURfS3ptcWVnZEF4eC0yUzMyZkczRWR0VC1PNWEtb3Z1RVZ2X0tqVGdaYU93WU10b1hjNkR4MFZNbnZSZ3p2Zmk0eUlSQjlTbTlIanJnZHR3T3M1VFRIUnk1ZGJaeDcwSFBGa0N1eG9uc2NIVmpSSGFOcFA1TUhCV2VMS1VWeUkxM25ETGI2ZmVxMlJjdw?oc=5)
+
+---
+
+### [Tumore al seno e il valore dell’aderenza terapeutica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQzJJdFYtM3d1YXJlTVZRZ0hvVjYyUXdoeG1acVFyQ3hCY0pwYlRqcmNPRm5Va3NGa3RHUUxFNURqU3FOMTFoenNqTE1udnM5N1Y2TWhqdUlFY0hQQXdPRElHRlFiZk8wdW1nSXFqY0JXNUhSSGgtWElONHktdEdFX1lxMi1pMUVCdlk3d2EyNlRxdlRNaW1JRVhsbE1DcFk5OW9aYWhxb2ZsQjlLSkRoZlNHbmhwNEVs0gFoQVVfeXFMTWlyT1FhQnphbjNxQXF3endIWlBaWmRxSzlHSEFMTnpIQXdiakZVMnR6RjhHTXBGTDc3bldOMk0wbm96NFhJc3hOS2xjajBnazdSVU9Bb1ZWUFAxc1pDQlllVy1QQktRMzE?oc=5)
+
+2026-11-13 <span class="news-indication-tag">tumor</span>
+
+Source: [Tgcom24](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQzJJdFYtM3d1YXJlTVZRZ0hvVjYyUXdoeG1acVFyQ3hCY0pwYlRqcmNPRm5Va3NGa3RHUUxFNURqU3FOMTFoenNqTE1udnM5N1Y2TWhqdUlFY0hQQXdPRElHRlFiZk8wdW1nSXFqY0JXNUhSSGgtWElONHktdEdFX1lxMi1pMUVCdlk3d2EyNlRxdlRNaW1JRVhsbE1DcFk5OW9aYWhxb2ZsQjlLSkRoZlNHbmhwNEVs0gFoQVVfeXFMTWlyT1FhQnphbjNxQXF3endIWlBaWmRxSzlHSEFMTnpIQXdiakZVMnR6RjhHTXBGTDc3bldOMk0wbm96NFhJc3hOS2xjajBnazdSVU9Bb1ZWUFAxc1pDQlllVy1QQktRMzE?oc=5)
 
 ---
 
@@ -364,14 +436,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FMTdnbDhmS1
 2026-11-11 <span class="news-indication-tag">tumor</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEY1dkd0cTRjUWUtaHdLZkZiMC1sVUlrd1puTVhyRXM1Y1RHTDJsTVVHUzFyMVRMUEFDMmdBZGZ2cWhTR3ZRcXFqRWtxYXpNc0ZFU0FOY1RtclRTY1M0dWpkNHZFUFVsWG9iNUVpMGRzaWlPLVVWYVlwQmxxbkZKSzBjVEVEczl3Q21uUGw1bWt4cG1oajJkNGpxOXJWU09FejYxbnBZYUlwbGdQS1BmV040ZEpHemwyMnBjQ0ZwY1U3aHZaYUoydQ?oc=5)
-
----
-
-### [Movember : la prise en charge des cancers de la prostate de plus en plus soft - Sud Ouest](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3Z1Z1UxRnEycmx3Y1paZ0NBMExBVVo0cUhIV3g5ejdvdmMwVjFOUHEtWnExdVViQ1g5OTZGdVpDdHZvaV8wQWFfVnV4QmQ1cnB4S09aaTZTaXM1cUlQNTJ2NzFRSlhSNDJBMkNZVlhpM0loUlh6eDJKeW5pcUxvcG9IUHRjV2VmNzRZcE40Wk5xLW5UX3hjREUyR2FWQktLblNVRnVTUFg0cHZYUUVvdjgyM205aDhaZEE?oc=5)
-
-2026-11-11 <span class="news-indication-tag">cancer</span>
-
-Source: [Sud Ouest](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3Z1Z1UxRnEycmx3Y1paZ0NBMExBVVo0cUhIV3g5ejdvdmMwVjFOUHEtWnExdVViQ1g5OTZGdVpDdHZvaV8wQWFfVnV4QmQ1cnB4S09aaTZTaXM1cUlQNTJ2NzFRSlhSNDJBMkNZVlhpM0loUlh6eDJKeW5pcUxvcG9IUHRjV2VmNzRZcE40Wk5xLW5UX3hjREUyR2FWQktLblNVRnVTUFg0cHZYUUVvdjgyM205aDhaZEE?oc=5)
 
 ---
 

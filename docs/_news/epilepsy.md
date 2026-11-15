@@ -3,9 +3,9 @@ layout: default
 title: "epilepsia (epilepsy) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about epilepsia (epilepsy). 4 articles, 10 related drugs."
+description: "Health news about epilepsia (epilepsy). 5 articles, 10 related drugs."
 permalink: /news/epilepsy/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-15
 ---
 
 # epilepsia (epilepsy) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about epilepsia (epilepsy)?">
-<strong>epilepsia (epilepsy)</strong> currently has <strong>4 news articles</strong> and 10 related drugs.
+<strong>epilepsia (epilepsy)</strong> currently has <strong>5 news articles</strong> and 10 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “epilepsia” and lists
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Inyectar un virus en el cerebro para frenar los ataques de epilepsia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRy1HVzNhWmFoU1Q3dWFkYWdxZ0VaRUMtTjRIUWpHcnN0VUN2Q3YyOFVYeE9WZk00enJFRm9JNE1hR0hyZ1hfMUFUS0xwQ2I5N1dKM3hZWS1ydUZPenM0RGZRRUNPUTNKbkRYWWg2dnJEN0JnYW9rbzVVaGYyMExjZTJ1YllTckJHRkhQQ3d1UW50T3pCc1NRS2Zkc1M?oc=5)
+
+2026-11-14
+
+Source: [elDiario.es](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRy1HVzNhWmFoU1Q3dWFkYWdxZ0VaRUMtTjRIUWpHcnN0VUN2Q3YyOFVYeE9WZk00enJFRm9JNE1hR0hyZ1hfMUFUS0xwQ2I5N1dKM3hZWS1ydUZPenM0RGZRRUNPUTNKbkRYWWg2dnJEN0JnYW9rbzVVaGYyMExjZTJ1YllTckJHRkhQQ3d1UW50T3pCc1NRS2Zkc1M?oc=5)
+
+---
 
 ### ["Los nuevos fármacos suponen un cambio de paradigma en el tratamiento de la epilepsia" - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXJBRUNQNmx2enFrUmlDNzlhS25ocHA3djR0OHJWaGlyQWFyc19kNnpOWEI3Q0RlUkJ4bFpfejBaVWduV0wtYVRoa29YTkFrZUVUcWxjTjJOWk9iMTdTQkJqYnpmNGpxblU0Nm1IcS1xYnpSdEFCb2dhQWxPeWF0bzd4ZW9ScjJzZkNHVEFFLTRPR1hEUC1JNjk1SUlKZ3FvWUw2Ry11TjNLMGJvZDB4SFFGcl9UNGN1Q3FmZWJnNGvSAbsBQVVfeXFMTmZjdFVGWEFXMFJHNkExd1VUY0Jha0FlNXdSV1hkTDFVZGNiN0NYazZrdTJFTHl2alJPWlo3THppUVJkQXpQY2lnendLSmZicmptY3BfTWtCYVVNZlV4RU5WV0kyd1poMzMwR1JXdHV5cUhJX3loWklacDY1d3VRdFlGeVJvSmlhX1NEazVaQ09salcxdThVME9KSnppUHcxall3bEdWdEYycEJfRU1tM1RJY3VPeV9QOWREMA?oc=5)
 

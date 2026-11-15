@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Zonisamide. 9 predicted indications."
 permalink: /news/zonisamide/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Zonisamide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Zonisamide?">
-<strong>Zonisamide</strong> currently has <strong>36 news articles</strong>, with 9 predicted indications.
+<strong>Zonisamide</strong> currently has <strong>37 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Zonisamide with the latest h
 <p><a href="{{ '/drugs/zonisamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (36)
+## Related News (37)
+
+### [Inyectar un virus en el cerebro para frenar los ataques de epilepsia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRy1HVzNhWmFoU1Q3dWFkYWdxZ0VaRUMtTjRIUWpHcnN0VUN2Q3YyOFVYeE9WZk00enJFRm9JNE1hR0hyZ1hfMUFUS0xwQ2I5N1dKM3hZWS1ydUZPenM0RGZRRUNPUTNKbkRYWWg2dnJEN0JnYW9rbzVVaGYyMExjZTJ1YllTckJHRkhQQ3d1UW50T3pCc1NRS2Zkc1M?oc=5)
+
+2026-11-14 <span class="news-indication-tag">epilepsia</span>
+
+Source: [elDiario.es](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRy1HVzNhWmFoU1Q3dWFkYWdxZ0VaRUMtTjRIUWpHcnN0VUN2Q3YyOFVYeE9WZk00enJFRm9JNE1hR0hyZ1hfMUFUS0xwQ2I5N1dKM3hZWS1ydUZPenM0RGZRRUNPUTNKbkRYWWg2dnJEN0JnYW9rbzVVaGYyMExjZTJ1YllTckJHRkhQQ3d1UW50T3pCc1NRS2Zkc1M?oc=5)
+
+---
 
 ### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
 

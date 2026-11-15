@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>43 news articles</strong>, with 6 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>45 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (43)
+## Related News (45)
+
+### [Lord Cameron says Alzheimer’s made mother beg sister to end her life - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1djYTkycWtPdjZEMThzTzhMbUtGQlBYdHQtc3d4ektxUVZlUHRLeFBRaFVIVkpxakUzNElLQjhkYVlaWkRYU0g0ZkFiZnh3OE1hbU4yTk9GT0l0Z2FXR0VlU3lXWXJuZDN6QUUxSElaaEN4R3ZpQktjbTktaHN0SFR2bUhPb250WFhRMEdLeW5uS1RSQUpaeVlsM21DQklxdUJ5UFhR?oc=5)
+
+2026-11-14 <span class="news-indication-tag">dementia</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1djYTkycWtPdjZEMThzTzhMbUtGQlBYdHQtc3d4ektxUVZlUHRLeFBRaFVIVkpxakUzNElLQjhkYVlaWkRYU0g0ZkFiZnh3OE1hbU4yTk9GT0l0Z2FXR0VlU3lXWXJuZDN6QUUxSElaaEN4R3ZpQktjbTktaHN0SFR2bUhPb250WFhRMEdLeW5uS1RSQUpaeVlsM21DQklxdUJ5UFhR?oc=5)
+
+---
 
 ### [Alzheimer, a Chieti arriva un nuovo farmaco: cosa sappiamo della malattia che cancella la memoria](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd0tTQXpLWjRvRDhYMXNmcGFmdTNKXzNTY1M2MFRENTE1bmJqNEN3SVZMSlVacmN1VkpMbUVFSWJCQkthVUhUNjk1Ukd5dHVaSmU0WlhGLVdhcnMzRkI4YVNJd3ktMTFTMTlIWGNxUWM5VnQyZ0NxeENyREdQamt0MFo4YnZsMm9PSEV4Q01VandVUGNILS1ocEVxWHFSR1NQaENHaEs5cXhTVG4yQnNaVHk0dUd0MC1uTEJCUktIa1FXQUNHdk5UUUw4X2U2N0ZlVWZjR2g1aFNmMmlReDFn?oc=5)
 
@@ -58,7 +66,7 @@ Source: [BuzzFeed](https://news.google.com/rss/articles/CBMiekFVX3lxTE01cjB1OWg0
 
 ### [Six unusual smells that could reveal a hidden health problem - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcW1qZ1JiUXFRZnMtN2Y3WE8xc2c3Rm1kVFRTVEd5QldiN3dJMHJDcTZ1OFptRi1KMTNTY1VRMWFJT25kWVdqbzlrd1BTbzdhczhsTzJHajdKTFZSaVBJVlkzSUp3QjZISTZjeVV3RnRyNGJuOGhkcTlZLTJkcnNaSS0zeXBKSks0YTI2LVVrbElDZ1otVVdTOWlraTg?oc=5)
 
-2026-11-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
+2026-11-14 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">cancer</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcW1qZ1JiUXFRZnMtN2Y3WE8xc2c3Rm1kVFRTVEd5QldiN3dJMHJDcTZ1OFptRi1KMTNTY1VRMWFJT25kWVdqbzlrd1BTbzdhczhsTzJHajdKTFZSaVBJVlkzSUp3QjZISTZjeVV3RnRyNGJuOGhkcTlZLTJkcnNaSS0zeXBKSks0YTI2LVVrbElDZ1otVVdTOWlraTg?oc=5)
 
@@ -69,6 +77,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcW1
 2026-11-14 <span class="news-indication-tag">dementia</span>
 
 Source: [The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFgxcmEtQWR1VEVhSGRqSkxQMGpzRDY3anFFUFRJQXA1djh5d3k5WklRZ3Uya0tnNHpMaXpkeTM3ZFY1X0c1ZGJCZ1JwekFOcmZVUE5YcWd3M0c3c1dnczlIUDFHNS1mOHE4OFZVTXVpTjJ4ZkxpcGt6cHkyRndEd0dMNm9mZjg2TV9aMTV2SndTdGxrUzd3d1BMbw?oc=5)
+
+---
+
+### [Scientists find blood biomarker that opens door to CTE diagnosis in living patients - The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSkpsNnZxQXNxNjRQdkxLcHdIYXNRcUltS3ZnVm1wenBoazU2UGtYZG5iZk9qX3gwS3lTQWF4eXAzeFd1ZlotdmFjaE9YeHN2MHJlQ2ZOM2FHX0tDNDNINVYyOHhGdHJrT1hnclc4b2dUU2QxZXlxYjRSSUliTW16UHZXbVBibU1EelYxZFlMM1dwVTFNMWRVVzFEUU9lQUFfNFoxRUlRNzEyNEdNbEw2emlJZnB4UQ?oc=5)
+
+2026-11-14 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSkpsNnZxQXNxNjRQdkxLcHdIYXNRcUltS3ZnVm1wenBoazU2UGtYZG5iZk9qX3gwS3lTQWF4eXAzeFd1ZlotdmFjaE9YeHN2MHJlQ2ZOM2FHX0tDNDNINVYyOHhGdHJrT1hnclc4b2dUU2QxZXlxYjRSSUliTW16UHZXbVBibU1EelYxZFlMM1dwVTFNMWRVVzFEUU9lQUFfNFoxRUlRNzEyNEdNbEw2emlJZnB4UQ?oc=5)
 
 ---
 

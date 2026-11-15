@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Lonafarnib. 1 predicted indications."
 permalink: /news/lonafarnib/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Lonafarnib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Lonafarnib?">
-<strong>Lonafarnib</strong> currently has <strong>80 news articles</strong>, with 1 predicted indications.
+<strong>Lonafarnib</strong> currently has <strong>81 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Lonafarnib with the latest h
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (80)
+## Related News (81)
 
 ### [Pressione alta: si controlla poco. Farlo, eviterebbe infarti e ictus, ma anche danni ai reni e disfunzione erettile - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxPaG1weGszY3oxYlVhbWpqYkJxOEpRai1WQXFFZDlCZC1ScC1xUGsxNUdPbURxVE1tOGZNYlgyb2YzRDMzU0tRRU1fekNBbWZNYW92S3FYeVhiNnJ6TkNqbzRTSW5IM0ZmN2wtV0hZLVB3bFdIYUU3Sl96YXp3R0hjMXE3SV95ejVtNmJFYlNLS0RSaUs3VExwTExpNjNxd0pYdVFwLTFtcXpoOUxXNjZUVkNiWXRmdFVXbVZiWlhHd3E5NFcyRnBpREMzcm5YY1ZJNklHSFZKbEFKeV9rODNhZ3ltMXZDVm5NSVdvMUw4NHpMWUNYR1haVW90UUhXN3VoUTM3cjVSd19PX3YxRTJkQzh1ZTNaQXZ2RTgzZnVHQTBMdFJYQnZDaHhxRmF4M0Q4RlYwaWVJNi1jazF2aVdlVNIBxgJBVV95cUxNV1hqSW1yYkRCZDNKY1lDZFdGZlBhc3FxRk1CYWJOdC1GZnNjUWlUWnVaMTFYdHZNbXlQdG9LX0lzemkwYV80RlQ3VzZRTk1ucjRuYlh6SUFScUJmN1k5emxXX0ZfMkpyQ1JYNVhyY0tERFdwRWVjSjdLbWJ5TFdKRDBLSVQ5NWMyUFJnSjlPaTl2SlZxdWNCZkxWcXpBYjFidnZJa1NSUmNPNjA2d1AwVzM4ellSdmRjMlV3UV8xcjF4WndxZHRVVjJBaUpXYlh0ajVxOWtrVlBlYTNSM09FaHg5dlBIYThjS201TjNHWDJueEtWcFYwSjNGdlZfRWpjMzgxZDRWQnhUMnBIXzBhT2p5cndvQm9sM2ZEY1JQdkJjZm1maFA0V2VCeVhFdGNYc1FQUDFUYzc2ZjFGUE1oV1JvMHdoZw?oc=5)
 
@@ -64,6 +64,14 @@ Source: [Elplural.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmZn
 2026-11-13 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVl85RFdjUTA1YlVRVW84dDgzY0lnbjJwVDFaLXhfLVRUVmhJWTRrb2J3RGFZWHFOZnVIbWR2OXM3cEJZejFRNkhmWkYtd21hdFVjLUVwaEc2ZGdGOGdZMHNhT0x1TXFqNjVCYWdPWnNhWFgzaDdFanp6TGpXSW1hbG5nVVhabWZxbXRzdmcybjh1UGpHSjZORUhyTQ?oc=5)
+
+---
+
+### [Relojes inteligentes para detectar indicios de hipertensión: alcance y límites](https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1JQbS13Tjg0bjgtamQ4dVFZeTRQQmRiSndVYmVEN1VnVzg5NDZVNWkyRDVDa2M4cXd1Q1JHQXdzWFExS1YzdlVyWkRzWUhGaFNfMTB5TFJpM2Q0QldLbWxIRW01RTJfclFYM3djTEtuMXlWTktWS1cxUF9wVFFFM09Xc2M3YzFKQWFZNG9HU1U?oc=5)
+
+2026-11-13 <span class="news-indication-tag">hipertensión</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1JQbS13Tjg0bjgtamQ4dVFZeTRQQmRiSndVYmVEN1VnVzg5NDZVNWkyRDVDa2M4cXd1Q1JHQXdzWFExS1YzdlVyWkRzWUhGaFNfMTB5TFJpM2Q0QldLbWxIRW01RTJfclFYM3djTEtuMXlWTktWS1cxUF9wVFFFM09Xc2M3YzFKQWFZNG9HU1U?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "migraña (migraine) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about migraña (migraine). 5 articles, 49 related drugs."
+description: "Health news about migraña (migraine). 6 articles, 49 related drugs."
 permalink: /news/migraine/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # migraña (migraine) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about migraña (migraine)?">
-<strong>migraña (migraine)</strong> currently has <strong>5 news articles</strong> and 49 related drugs.
+<strong>migraña (migraine)</strong> currently has <strong>6 news articles</strong> and 49 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -53,7 +53,15 @@ This page brings together the latest health news about “migraña” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Cuándo debemos consultar al neurólogo por un dolor de cabeza frecuente - 65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkFzbUx2VWdJSjhpRlFwTDEwQVR5LVg5eG92TTYxcXNKU1A1bUxaYUZiVUNxRGJrSVc0LW90cFVHcWNUOHlNcXNldjFrMTRZMHB6d2kxenpFZ3ZGa3UwejVCemU4bTZkYThCN1NPRV9JUUNqQUZEM2c5NnJ0ZzBNZU55X1pSWHo5TmNuSHBvYXRCV004RTBhdHlybEdHc3M1ZlNLRnVqWkE?oc=5)
+
+2026-11-15
+
+Source: [65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkFzbUx2VWdJSjhpRlFwTDEwQVR5LVg5eG92TTYxcXNKU1A1bUxaYUZiVUNxRGJrSVc0LW90cFVHcWNUOHlNcXNldjFrMTRZMHB6d2kxenpFZ3ZGa3UwejVCemU4bTZkYThCN1NPRV9JUUNqQUZEM2c5NnJ0ZzBNZU55X1pSWHo5TmNuSHBvYXRCV004RTBhdHlybEdHc3M1ZlNLRnVqWkE?oc=5)
+
+---
 
 ### [Uni explores link between migraines and hallucinations](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY3hoNklEWVdHTUhxZnlZU040Q3FJbzJRU0FzVEFGWVVCWURKYWx6WVlrNDBsLWZ4MDUtcHo3NDVFZnNUeFVoMnRlRHhuay0yTG9WOXg3WGw4cFBpRmc?oc=5)
 

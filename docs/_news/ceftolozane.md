@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ceftolozane. 10 predicted indications."
 permalink: /news/ceftolozane/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-15
 ---
 
 # Ceftolozane News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Ceftolozane?">
-<strong>Ceftolozane</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Ceftolozane</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Ceftolozane with the latest 
 <p><a href="{{ '/drugs/ceftolozane/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Les moisissures dans l’air intérieur des logements favorisent l’asthme. Pourtant, ce risque est évitable - Orange Actualités](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZFR1UDJ6NTR6eTU3X2hGQTN4cUxrZ2ZFeFJtZmpreXhwdFdqRURGb1lZTXg3TkJETlBvOWJoUDJndnFSc3dFTmZTaFdvX3FCcV9ZRHh3cTBNcmo0aWRicW5NclFoUVVlS0pFSnZuWTFhaUZEX2NnT3RZQU81R3YwcG4tcVRGLTVBeXZRMVdCaGNiaDJQSVhncC1zOG1RQm5SMzQzdFhEa0JwRGVkWkR3VFZka3oxMUw4UWwtMFB2RDlUSTZZZWdpR0MzRnZZcEl4SndVdGYzS0w1WXNTSklUZ2lsZTJuaVFPV3FUTkxSTGZpVC1mSkNWZEp5Y193Zw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">asthme</span>
+
+Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZFR1UDJ6NTR6eTU3X2hGQTN4cUxrZ2ZFeFJtZmpreXhwdFdqRURGb1lZTXg3TkJETlBvOWJoUDJndnFSc3dFTmZTaFdvX3FCcV9ZRHh3cTBNcmo0aWRicW5NclFoUVVlS0pFSnZuWTFhaUZEX2NnT3RZQU81R3YwcG4tcVRGLTVBeXZRMVdCaGNiaDJQSVhncC1zOG1RQm5SMzQzdFhEa0JwRGVkWkR3VFZka3oxMUw4UWwtMFB2RDlUSTZZZWdpR0MzRnZZcEl4SndVdGYzS0w1WXNTSklUZ2lsZTJuaVFPV3FUTkxSTGZpVC1mSkNWZEp5Y193Zw?oc=5)
+
+---
 
 ### [Mum, 40, woke up having a stroke after GP told her to ‘call back in the morning’ for asthma-like symptoms - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Yk9HREhnN2hEZ1JBS3hlbkN5TXluMDUwOUZEUWVWNEY4SGpuakw4c29FNldzbWlXTmt0OVBBZ2U5ZlkwTWl5U0dMMmNBbk9iUl8ybi1SU0RXRXdPX1hiSFNIcTRyVHh2LXVYM0l3US1oalJtaV9ILWZMblRNa1U1UndjcG0wekpSNmdzOXZn?oc=5)
 
