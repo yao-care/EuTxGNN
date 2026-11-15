@@ -3,9 +3,9 @@ layout: default
 title: "enfermedad renal crónica (chronic kidney disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about enfermedad renal crónica (chronic kidney disease). 11 articles, 1 related drugs."
+description: "Health news about enfermedad renal crónica (chronic kidney disease). 12 articles, 1 related drugs."
 permalink: /news/chronic-kidney-disease/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # enfermedad renal crónica (chronic kidney disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about enfermedad renal crónica (chronic kidney disease)?">
-<strong>enfermedad renal crónica (chronic kidney disease)</strong> currently has <strong>11 news articles</strong> and 1 related drugs.
+<strong>enfermedad renal crónica (chronic kidney disease)</strong> currently has <strong>12 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page brings together the latest health news about “enfermedad renal crón
 </ul>
 </div>
 
-## Related News (11)
+## Related News (12)
 
 ### [Detectar a tiempo el daño renal puede retrasar casi 30 años la diálisis en personas con diabetes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmZndkk3bWd0a3hYOVhYT2xzRS1faUVzSlRGR3M5Nm8yMkkyQ252bXU1T2szTWVwNmRZTS15bVpfOWR0TldEQlJKaWxOaUlDQVM3Ui1VaE13QnZKNlRCdlh4Ukd2R0hRVXkwdGllQVpnS2UtSWl4ZFdOVXVseVd1eFVzcjZLVnBGS2JXT3BfSmU2V2dSNUVUdkdRTWk5dl81RHFldnJ3bVE5Q3FZVVQ5OGs3eldVNU5aNlhQelZJWFdqTDjSAcgBQVVfeXFMT3AzWjh6Wk95OGs4dEhDS1VPa0UyczNiYzZvN1ExT0VNdTVCbjhXbWxWNklQZk1hZGtIRG9LdC0zNnlvck5iQXl1eklmR05lQXdKVHAtUjNEeUMwTWtEcmVvQUhkVlJrZzhVTURqbUZNQXZsbmJERURQZDBqSjhMZzg3V3NnZDdUUUNrWVJQRm5xZzdkTVhGdGp1VUVSNTZiNzNJNkV3M1BqVWhSaUt3Qk9VQUk5SHFuYnpHQ2ZpOTdOTUpWWWZ0RTg?oc=5)
 
 2026-11-14
 
 Source: [Elplural.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmZndkk3bWd0a3hYOVhYT2xzRS1faUVzSlRGR3M5Nm8yMkkyQ252bXU1T2szTWVwNmRZTS15bVpfOWR0TldEQlJKaWxOaUlDQVM3Ui1VaE13QnZKNlRCdlh4Ukd2R0hRVXkwdGllQVpnS2UtSWl4ZFdOVXVseVd1eFVzcjZLVnBGS2JXT3BfSmU2V2dSNUVUdkdRTWk5dl81RHFldnJ3bVE5Q3FZVVQ5OGs3eldVNU5aNlhQelZJWFdqTDjSAcgBQVVfeXFMT3AzWjh6Wk95OGs4dEhDS1VPa0UyczNiYzZvN1ExT0VNdTVCbjhXbWxWNklQZk1hZGtIRG9LdC0zNnlvck5iQXl1eklmR05lQXdKVHAtUjNEeUMwTWtEcmVvQUhkVlJrZzhVTURqbUZNQXZsbmJERURQZDBqSjhMZzg3V3NnZDdUUUNrWVJQRm5xZzdkTVhGdGp1VUVSNTZiNzNJNkV3M1BqVWhSaUt3Qk9VQUk5SHFuYnpHQ2ZpOTdOTUpWWWZ0RTg?oc=5)
+
+---
+
+### [Más del 60% de pacientes con enfermedad renal crónica tiene obesidad, pero el IMC solo la detecta en el 40% - Somos Pacientes](https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk00RncteGJVYWY2N3k4dkVfTERZZEtZMDVmN3VicUh2VlBfX2RtQWxqTFpaSVZQNmFuY1pTSW93SjZvb2doWHVQZXc2bmluUUd0bnlzSE56SEhhVlFzV0ljRFZPZlUxTEhOWk5mTzQwUUI3TmV1WndIeUVRVGFXSjdNQnlXQ3FQWmgxZDBTcVBqTThMRXdz?oc=5)
+
+2026-11-13
+
+Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk00RncteGJVYWY2N3k4dkVfTERZZEtZMDVmN3VicUh2VlBfX2RtQWxqTFpaSVZQNmFuY1pTSW93SjZvb2doWHVQZXc2bmluUUd0bnlzSE56SEhhVlFzV0ljRFZPZlUxTEhOWk5mTzQwUUI3TmV1WndIeUVRVGFXSjdNQnlXQ3FQWmgxZDBTcVBqTThMRXdz?oc=5)
 
 ---
 

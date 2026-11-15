@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Evinacumab. 0 predicted indications."
 permalink: /news/evinacumab/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Evinacumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Evinacumab?">
-<strong>Evinacumab</strong> currently has <strong>183 news articles</strong>, with 0 predicted indications.
+<strong>Evinacumab</strong> currently has <strong>189 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,31 @@ This page combines the AI-predicted indications for Evinacumab with the latest h
 <p><a href="{{ '/drugs/evinacumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (183)
+## Related News (189)
+
+### [Pacientes de diabetes piden equidad y mayor atención](https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3NndnBMTzVXeUZtTUoyRnB1Z1YzVHV4a1pCd2NXMExuS0xFY2ppZDJnRDdxU3B5MW1qczFJV2NGek1lNHRURlVQUWFMUkxzTU96SEg2SUVDMGZyWDNjanl6d0FCMVhkOHhBdkRjZTgwdXJYSnJaR0tnTWc2a096M3EwTVBvN1oza2huZmNTYlV1a1dPV2JrZU8xcWc?oc=5)
+
+2026-11-15 <span class="news-indication-tag">diabetes</span>
+
+Source: [Atlántico](https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3NndnBMTzVXeUZtTUoyRnB1Z1YzVHV4a1pCd2NXMExuS0xFY2ppZDJnRDdxU3B5MW1qczFJV2NGek1lNHRURlVQUWFMUkxzTU96SEg2SUVDMGZyWDNjanl6d0FCMVhkOHhBdkRjZTgwdXJYSnJaR0tnTWc2a096M3EwTVBvN1oza2huZmNTYlV1a1dPV2JrZU8xcWc?oc=5)
+
+---
+
+### [Diabetes: una amenaza silenciosa para la visión incluso antes de que el paciente note los primeros síntomas](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOU9sUkt3ODRiVGFMZUFwMzhOVFotVjV6aHFQUTAzbE4tWl83N0hoaGh5cnpielRJdVNOUDV0S3AwdXg3a0R0ZVp0ZlVOQWJJT2x4VEhHQldtaWl0bmpKRjhLV3diUVJTemozcWtpQ1JwZzI1Mk5OQWNSd1pnczNRc3pGdjJaVmY2SU1oZEFIeG1fbi1Ic1M3TEh3LU5LeGQ4WmxTRTdWV2VNMXfSAbABQVVfeXFMT0hZemVSWFJJbm5tTWN5YmdSbUpsNUxUWk9VakRWeVExUDNXalZhbkEwYmtJSXpFaFBtUVV3clgzVnlvTFRrZkRySzN0STVfTnNXcFQ2bnE2VXhoeFQ3eG90cWxLaUlQZmxKckJlbDYyZ3NpSEVFQ192ZVp5RlVySmtyVTBFbXhDanVLeUZQODhjRjdDS3ljb0k0d1ZJSndpbDhTR0xCX21ZYmZTVG9EOGw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">diabetes</span>
+
+Source: [ABC](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOU9sUkt3ODRiVGFMZUFwMzhOVFotVjV6aHFQUTAzbE4tWl83N0hoaGh5cnpielRJdVNOUDV0S3AwdXg3a0R0ZVp0ZlVOQWJJT2x4VEhHQldtaWl0bmpKRjhLV3diUVJTemozcWtpQ1JwZzI1Mk5OQWNSd1pnczNRc3pGdjJaVmY2SU1oZEFIeG1fbi1Ic1M3TEh3LU5LeGQ4WmxTRTdWV2VNMXfSAbABQVVfeXFMT0hZemVSWFJJbm5tTWN5YmdSbUpsNUxUWk9VakRWeVExUDNXalZhbkEwYmtJSXpFaFBtUVV3clgzVnlvTFRrZkRySzN0STVfTnNXcFQ2bnE2VXhoeFQ3eG90cWxLaUlQZmxKckJlbDYyZ3NpSEVFQ192ZVp5RlVySmtyVTBFbXhDanVLeUZQODhjRjdDS3ljb0k0d1ZJSndpbDhTR0xCX21ZYmZTVG9EOGw?oc=5)
+
+---
+
+### [Día Mundial de la Diabetes: "Puede desarrollarse de forma silenciosa durante años" - Cadena SER](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNW1mOUc5R0RNTV9rdWJHSUVhMU52UkR5VTE2UFB4TGo4Z0l4LXE0VW9jWXI2NDQxM0RYTWNpbFZOcGdISklldlhUQThlandzcVZ3aVhxcVcxNnZ1UWRMcE16anp4XzVMaUhGclVudEozekoxOTdUekZCWmZjaW10bHU3Z0lTTW9zeE43Y09HV2tMcTd5UE9MdDd6ZTQzblg3QVAtU0VFLXRxZDBaTF9yTFEwUVd1MHh6M1BfcGlSbzUtTk11SWt3VjVxVklGd9IB4gFBVV95cUxQSGhZcEhJUk1uVTJjRXpsTGVUTGgxOXhNdGp6b2NOS051Unpya2pNcTJMdUU3ZlJkT1dpaG1xWVlRVXlQZlBXaDJYZVlrN0czZzlJdXJtcU1hY1RrN1AyNVhiZi1WbTZ5WFIzV1JVeGdtc0ZPU3JVNi1NQ010QS1ZelVIYTh2ZVNBSTg5ZFVMajVPV0pDOWRfN2pYX1R0QWVPZHZtUFhUZENuYWg5V3VuOTM1dFEzREptZ3JheklMSkhNRWlMU2h0VE1NU0p5QTdnUEh1WlRBd2d3emV5VlFkTkNR?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetes</span>
+
+Source: [Cadena SER](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNW1mOUc5R0RNTV9rdWJHSUVhMU52UkR5VTE2UFB4TGo4Z0l4LXE0VW9jWXI2NDQxM0RYTWNpbFZOcGdISklldlhUQThlandzcVZ3aVhxcVcxNnZ1UWRMcE16anp4XzVMaUhGclVudEozekoxOTdUekZCWmZjaW10bHU3Z0lTTW9zeE43Y09HV2tMcTd5UE9MdDd6ZTQzblg3QVAtU0VFLXRxZDBaTF9yTFEwUVd1MHh6M1BfcGlSbzUtTk11SWt3VjVxVklGd9IB4gFBVV95cUxQSGhZcEhJUk1uVTJjRXpsTGVUTGgxOXhNdGp6b2NOS051Unpya2pNcTJMdUU3ZlJkT1dpaG1xWVlRVXlQZlBXaDJYZVlrN0czZzlJdXJtcU1hY1RrN1AyNVhiZi1WbTZ5WFIzV1JVeGdtc0ZPU3JVNi1NQ010QS1ZelVIYTh2ZVNBSTg5ZFVMajVPV0pDOWRfN2pYX1R0QWVPZHZtUFhUZENuYWg5V3VuOTM1dFEzREptZ3JheklMSkhNRWlMU2h0VE1NU0p5QTdnUEh1WlRBd2d3emV5VlFkTkNR?oc=5)
+
+---
 
 ### [Día Mundial de la Diabetes: la importancia de detectar la enfermedad a tiempo - Antena 3 Noticias](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcFdSeVlPZzhMNUJiNk9JaThVMUgya3hHenloMUNVYWY5bDk2djhHM0JseE50Q1lqQWNRaDJSdXJubEZyeDVyYWduNzczaGJNN0NLdm9DOUY4YzQ5OUhVcWlzLXlCOG1VWGlhY2dROU5IcjNQaUVwdzZKXzdCaHh1V25DaVNCQ0lKX3ljdzR1blFldXF2RUVsa2JYTHYwUkp4dUIxaDMtOVMxY0VHeFRoNHo2WjdUNDg3UGF4YVZiZU11WVM0NEhYelIwN0NvdXp6M2fSAdIBQVVfeXFMTl93V0xXYU5HZjlodXdmVXlkSVE5d0JSMHNkeXNTZDVUOFJwbzZYX0YxdHlTSFZJX0cxSG45SXZmLVBxX2xTd3ByRFlHS0tkZWlDcEQ1TUFvVU5LVndVNUNoSlpTLTZDcnVCbDJQdUZOd2lkR2FnaWx5SlhDc204NUc3OTNUUm40Y1ZIenlBeWJrM3NmQUJxbHNVTklYWEc1QnhXMDZvQTdvaVhhSjZueTVLc3Z5WDdXbUZCV1JfdXlneXoxZklOV3Z5ZmhNVDR3UXBB?oc=5)
 
@@ -64,6 +88,14 @@ Source: [Cadena SER](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTURFcG
 
 ---
 
+### [Más de 1,6 millones de españoles podrían tener diabetes sin saberlo: cinco señales para detectarla a tiempo - Diario de Navarra](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPME1HMHRJbllJTWVCRl9RWWc3NURmQVlub1ZkbGk5UkpWLUJzQlVDLVFYWUdYeWdHWXptYkR6Nm1hRExXbnNiNFhUa2lhZDlvdDhwUEhkTDc2VGJOd1pSTFN1RTQ5SWVhNjZwb0tLQlBMTzBNLXNDQXIzTDl5NVA3Q0h5dU9DblZmdzZoWWlnbWtoZ2h0dnR6clVWOXZaUzB0SjNKN3lwdlp3NV9rWDQ5RFhldk90MUtZM21QOGRhbTZac3c4Y2l6Q1hFWkhVLW1DOEtv?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetes</span>
+
+Source: [Diario de Navarra](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPME1HMHRJbllJTWVCRl9RWWc3NURmQVlub1ZkbGk5UkpWLUJzQlVDLVFYWUdYeWdHWXptYkR6Nm1hRExXbnNiNFhUa2lhZDlvdDhwUEhkTDc2VGJOd1pSTFN1RTQ5SWVhNjZwb0tLQlBMTzBNLXNDQXIzTDl5NVA3Q0h5dU9DblZmdzZoWWlnbWtoZ2h0dnR6clVWOXZaUzB0SjNKN3lwdlp3NV9rWDQ5RFhldk90MUtZM21QOGRhbTZac3c4Y2l6Q1hFWkhVLW1DOEtv?oc=5)
+
+---
+
 ### [Sanidad facilita sistemas de monitorización continua de glucosa a más de 28.000 personas con diabetes - Europa Press](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMXRGc3pCNm9UR3pSa2NKcG1NY2RHcVFnVHNoSjVEZ1dtZlhscUpMMDVHeHlTSUJUbTN0RHdRNlhMUzRzSWRyZDlhTkFvNlc3aW9HTW9wT1BLMTRNQ3RueXRzVVFvdWsxTnZOWkt1ZFRqTkZqdVdFeG52aGVrZGc0N1VrTWliXzBVdGR1SDgzMHZYaTdxSXdSNjVTRnM1ZWkyWFNhb0FpSTN3aEE4dUpCNmxYWWFyTlhjT1M1dDNzWU1TN3dvN2U0YTdvQV9wa2Y2ODB3cTVDNkREbk84S3F6WGhuYlV2SFVtdVhDZlJXTzNreGM?oc=5)
 
 2026-11-14 <span class="news-indication-tag">diabetes</span>
@@ -93,6 +125,22 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95c
 2026-11-14 <span class="news-indication-tag">diabetes</span>
 
 Source: [Infoveritas](https://news.google.com/rss/articles/CBMib0FVX3lxTFBqNGpNSGhmSThIX2YwYlVmcTBIRElZU0ZmSF9xVGxEVUlLN1o3Y0FhU0x6cElsajRtRjhyb3BOam96WEw5YjJoOWlULWRGSHE2anZ4VDV6d0hjLU1BLURKb1FMZVR0SW44V043N2Y3WQ?oc=5)
+
+---
+
+### [Tipps der AOK: Diabetes früh erkennen und gezielt handeln](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUDVpajZxWUFkSHlwSmRqSFJNb1NWY2ZoaFEwRzFKcEtyV1NjdFZKcHVnd2g1S3ZIMGdEeVI5NzBOem02Z29yMm5BRkRWTDJ1dWUtaEdyN2R2VjBXc2VDWHJPRmt2VER5Z2FwV0dkT1djVzV5UGYzUXhDU24tdDE1U0hXeDFmZUdNRnljX0pVTFU0UVg3Z0x1TEFLSHpVd3JwcElLTUtYM09yWEpOZERlVzRNeU81a2UyeUxPV29lUFpCMXVMeUVSQlFUck9wdVlqb2RJRkZ4enpLNnBXQ3FwUlB3?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetes</span>
+
+Source: [H@llAnzeiger](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUDVpajZxWUFkSHlwSmRqSFJNb1NWY2ZoaFEwRzFKcEtyV1NjdFZKcHVnd2g1S3ZIMGdEeVI5NzBOem02Z29yMm5BRkRWTDJ1dWUtaEdyN2R2VjBXc2VDWHJPRmt2VER5Z2FwV0dkT1djVzV5UGYzUXhDU24tdDE1U0hXeDFmZUdNRnljX0pVTFU0UVg3Z0x1TEFLSHpVd3JwcElLTUtYM09yWEpOZERlVzRNeU81a2UyeUxPV29lUFpCMXVMeUVSQlFUck9wdVlqb2RJRkZ4enpLNnBXQ3FwUlB3?oc=5)
+
+---
+
+### [Hundreds of children in England prescribed weight-loss jabs, figures show - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3pnRU9ScnlvYkl1VWdPRjFaUjFlSmY5VWVLd3M4QlRCUmhKZmhmQXhzN3FVVzk2Vm1IUE9CM2pIdTM5N1lGMkNvMlJrZW9kV2dCbGxFM0ZYUDFqSGFxZkxpbGUta3dFWTExVC1ZMGFyN08wNW1OVC16Vl9JR0dyWUllQzBQSWVVQWEtb3YteEwzMUM2TUN3OA?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3pnRU9ScnlvYkl1VWdPRjFaUjFlSmY5VWVLd3M4QlRCUmhKZmhmQXhzN3FVVzk2Vm1IUE9CM2pIdTM5N1lGMkNvMlJrZW9kV2dCbGxFM0ZYUDFqSGFxZkxpbGUta3dFWTExVC1ZMGFyN08wNW1OVC16Vl9JR0dyWUllQzBQSWVVQWEtb3YteEwzMUM2TUN3OA?oc=5)
 
 ---
 

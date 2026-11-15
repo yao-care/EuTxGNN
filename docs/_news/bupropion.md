@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Bupropion. 0 predicted indications."
 permalink: /news/bupropion/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Bupropion News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Bupropion?">
-<strong>Bupropion</strong> currently has <strong>94 news articles</strong>, with 0 predicted indications.
+<strong>Bupropion</strong> currently has <strong>96 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (94)
+## Related News (96)
 
 ### [Eiweißarme Ernährung verlangsamt den Alterungsprozess](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS1hU0haa0tsbFg4NDNrRURfLXhJUFh6MzV1X1cteFlBSGRjREZGOGRGa0VVRGtfOXBkenVLN3BxcHNsX2xiVkwwRDVSWmVneXQ3Sl9YYWVvWldYX3hsVnpKWW1yM0VBdlZaREtKTUxlS3ZHOGY5WHI3dUF5aktxSjNKNVZXNDdnX0g0dmxBMElaYkhsQzdN?oc=5)
 
 2026-11-14 <span class="news-indication-tag">Adipositas</span>
 
 Source: [Scinexx](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS1hU0haa0tsbFg4NDNrRURfLXhJUFh6MzV1X1cteFlBSGRjREZGOGRGa0VVRGtfOXBkenVLN3BxcHNsX2xiVkwwRDVSWmVneXQ3Sl9YYWVvWldYX3hsVnpKWW1yM0VBdlZaREtKTUxlS3ZHOGY5WHI3dUF5aktxSjNKNVZXNDdnX0g0dmxBMElaYkhsQzdN?oc=5)
+
+---
+
+### [Hundreds of children in England prescribed weight-loss jabs, figures show - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3pnRU9ScnlvYkl1VWdPRjFaUjFlSmY5VWVLd3M4QlRCUmhKZmhmQXhzN3FVVzk2Vm1IUE9CM2pIdTM5N1lGMkNvMlJrZW9kV2dCbGxFM0ZYUDFqSGFxZkxpbGUta3dFWTExVC1ZMGFyN08wNW1OVC16Vl9JR0dyWUllQzBQSWVVQWEtb3YteEwzMUM2TUN3OA?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3pnRU9ScnlvYkl1VWdPRjFaUjFlSmY5VWVLd3M4QlRCUmhKZmhmQXhzN3FVVzk2Vm1IUE9CM2pIdTM5N1lGMkNvMlJrZW9kV2dCbGxFM0ZYUDFqSGFxZkxpbGUta3dFWTExVC1ZMGFyN08wNW1OVC16Vl9JR0dyWUllQzBQSWVVQWEtb3YteEwzMUM2TUN3OA?oc=5)
 
 ---
 
@@ -53,6 +61,14 @@ Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTkJN
 2026-11-14 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUjFrNzhTN25CZHR3Mi15R1Y4YmFEUUJSakxHVExwcWRmZFJFV3ZmTUZIT1d5Ul8zOEgwSURCTExMNzZjNGRkcXlQOVBDaTlHSGt6YjdOVWJMRmhsUG1sRW9kUURSNVRuQml4RTR3aHZqanlySHJhSmxMSG9yNEFiendPZVY1VlhObU9fOHVYV2hoaDkzenpOWHdrUjVLVThDUDBjRDBrdDRYb0JSMkExQXFYQdIBrAFBVV95cUxPNGtPOEprOU1DbmFNZTBBNWE2UGdvczJPWVMxdGxzaHBwM1pGdDRIVFVpaXhVcXNabjlRZHE1bV9JSkdsQ3VfUHlLdDMtcVFYbk00TGpVM0pLWU5ha3pyemgzSjZWeHJFMG5iQWF1eUZNY2gwUzZhRDNJS3locDF5b2VnNmY2MUtRS0JVejFWbEEtYkhjaVRwZVVUS0I5cGlVZTc5d0hQeWVnQTU3?oc=5)
+
+---
+
+### [Más del 60% de pacientes con enfermedad renal crónica tiene obesidad, pero el IMC solo la detecta en el 40% - Somos Pacientes](https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk00RncteGJVYWY2N3k4dkVfTERZZEtZMDVmN3VicUh2VlBfX2RtQWxqTFpaSVZQNmFuY1pTSW93SjZvb2doWHVQZXc2bmluUUd0bnlzSE56SEhhVlFzV0ljRFZPZlUxTEhOWk5mTzQwUUI3TmV1WndIeUVRVGFXSjdNQnlXQ3FQWmgxZDBTcVBqTThMRXdz?oc=5)
+
+2026-11-13 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk00RncteGJVYWY2N3k4dkVfTERZZEtZMDVmN3VicUh2VlBfX2RtQWxqTFpaSVZQNmFuY1pTSW93SjZvb2doWHVQZXc2bmluUUd0bnlzSE56SEhhVlFzV0ljRFZPZlUxTEhOWk5mTzQwUUI3TmV1WndIeUVRVGFXSjdNQnlXQ3FQWmgxZDBTcVBqTThMRXdz?oc=5)
 
 ---
 
