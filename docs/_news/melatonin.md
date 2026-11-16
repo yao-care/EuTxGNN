@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>102 news articles</strong>, with 0 predicted indications.
+<strong>Melatonin</strong> currently has <strong>107 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,45 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (102)
+## Related News (107)
 
-### [Eiweißarme Ernährung verlangsamt den Alterungsprozess](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS1hU0haa0tsbFg4NDNrRURfLXhJUFh6MzV1X1cteFlBSGRjREZGOGRGa0VVRGtfOXBkenVLN3BxcHNsX2xiVkwwRDVSWmVneXQ3Sl9YYWVvWldYX3hsVnpKWW1yM0VBdlZaREtKTUxlS3ZHOGY5WHI3dUF5aktxSjNKNVZXNDdnX0g0dmxBMElaYkhsQzdN?oc=5)
+### [Cuándo debemos consultar al neurólogo por un dolor de cabeza frecuente - 65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkFzbUx2VWdJSjhpRlFwTDEwQVR5LVg5eG92TTYxcXNKU1A1bUxaYUZiVUNxRGJrSVc0LW90cFVHcWNUOHlNcXNldjFrMTRZMHB6d2kxenpFZ3ZGa3UwejVCemU4bTZkYThCN1NPRV9JUUNqQUZEM2c5NnJ0ZzBNZU55X1pSWHo5TmNuSHBvYXRCV004RTBhdHlybEdHc3M1ZlNLRnVqWkE?oc=5)
 
-2026-11-14 <span class="news-indication-tag">Adipositas</span>
+2026-11-15 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">migraña</span>
 
-Source: [Scinexx](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS1hU0haa0tsbFg4NDNrRURfLXhJUFh6MzV1X1cteFlBSGRjREZGOGRGa0VVRGtfOXBkenVLN3BxcHNsX2xiVkwwRDVSWmVneXQ3Sl9YYWVvWldYX3hsVnpKWW1yM0VBdlZaREtKTUxlS3ZHOGY5WHI3dUF5aktxSjNKNVZXNDdnX0g0dmxBMElaYkhsQzdN?oc=5)
+Source: [65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkFzbUx2VWdJSjhpRlFwTDEwQVR5LVg5eG92TTYxcXNKU1A1bUxaYUZiVUNxRGJrSVc0LW90cFVHcWNUOHlNcXNldjFrMTRZMHB6d2kxenpFZ3ZGa3UwejVCemU4bTZkYThCN1NPRV9JUUNqQUZEM2c5NnJ0ZzBNZU55X1pSWHo5TmNuSHBvYXRCV004RTBhdHlybEdHc3M1ZlNLRnVqWkE?oc=5)
+
+---
+
+### [Más allá de perder peso: los fármacos antiobesidad apuntan a la salud general - KISS FM](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDlxYzh3WnIzcldhY25CaGFjd25pUG81OHhienJMa2wxMV9zS2pVY0s3ZFZwcmhhenFMd25DY0h6N0ZGMDA5UEx4WV91VmN1Tk9qaGU4Rzh6YXBINVVCbFhvNXEtY3BGa3N0NVJVamdxamZIVHhpUkF0XzJGT2tjOGI4VlNIX3ViVVQ4TUNrTDBYSTNRTVdJVFhBREs0aW55OUpacDdFSEFtOW11WlNR?oc=5)
+
+2026-11-15 <span class="news-indication-tag">obesidad</span>
+
+Source: [KISS FM](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDlxYzh3WnIzcldhY25CaGFjd25pUG81OHhienJMa2wxMV9zS2pVY0s3ZFZwcmhhenFMd25DY0h6N0ZGMDA5UEx4WV91VmN1Tk9qaGU4Rzh6YXBINVVCbFhvNXEtY3BGa3N0NVJVamdxamZIVHhpUkF0XzJGT2tjOGI4VlNIX3ViVVQ4TUNrTDBYSTNRTVdJVFhBREs0aW55OUpacDdFSEFtOW11WlNR?oc=5)
+
+---
+
+### [Estudio vincula obesidad clínica con un 69 % más de riesgo instantáneo de muerte](https://news.google.com/rss/articles/CBMib0FVX3lxTE8zLXJ2ajJjNHZuUnIxZ3M0Q2ZaUklUQ1EwMWNQM3dOMXNsdWhSdWJuaGItYk5lTHBCY0pZNm1YNGFwX0RHcnI5SEhTcTVUR1Q0U2FQX2ItVU43U180Tzlxay1YZ012VjVLdTNTLUNVRQ?oc=5)
+
+2026-11-14 <span class="news-indication-tag">obesidad</span>
+
+Source: [https://fomoera.com/](https://news.google.com/rss/articles/CBMib0FVX3lxTE8zLXJ2ajJjNHZuUnIxZ3M0Q2ZaUklUQ1EwMWNQM3dOMXNsdWhSdWJuaGItYk5lTHBCY0pZNm1YNGFwX0RHcnI5SEhTcTVUR1Q0U2FQX2ItVU43U180Tzlxay1YZ012VjVLdTNTLUNVRQ?oc=5)
+
+---
+
+### [AVC, Addiction… : les nouveaux horizons thérapeutiques des médicaments anti-obésité - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
+
+2026-11-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
+
+---
+
+### [Makers of obesity drugs hit back at claims of negative side effects - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1NkcmVzQ1NHdUJTZkdUR1ZBR19GMmhndndQRjZKbUVENi1VTXBCeEY2andSWURTdWV5RzJhUmZuSldlWTZEYkxVdmJzcWU2LXFEb0daTnZFY0FMMXhaa1JGb1hSeGpkV1dtR2RibkY4RUlUeG01UWJaTFkzbEFkMWktaXQ?oc=5)
+
+2026-11-14 <span class="news-indication-tag">obesity</span>
+
+Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1NkcmVzQ1NHdUJTZkdUR1ZBR19GMmhndndQRjZKbUVENi1VTXBCeEY2andSWURTdWV5RzJhUmZuSldlWTZEYkxVdmJzcWU2LXFEb0daTnZFY0FMMXhaa1JGb1hSeGpkV1dtR2RibkY4RUlUeG01UWJaTFkzbEFkMWktaXQ?oc=5)
 
 ---
 
@@ -61,6 +93,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY3hoNklEWVdHT
 2026-11-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTkJNdXJsd0hSVlVHN1lkM0xUV0Mxc3g2TnplcVJfcTgxWDVsU2xuczM3MXJYa1Y2YjY5Q1RhbF9QMkdLZ2ZpOWFaNnVZb2h3dVRtY1pZOGpGeG5tSFZwS0lBT2xiUUpmWk9xdVowekxzaHJwaEYtTzBiMlFxT1lfUnZNcWVuVzdQdTZDS1BFeUx1cG92dUYzaDdGMGM1dE5zM25IVG1rbVJRSmlfWmFNdGpVUlMwRTVwb0g3ZEdYOElyN2k2ZVFaRDZ5cldoTGlkeU5GY29MenA1LUp4VEZoQlIwc2dlSGtEMEltcFJnVlNvQ0hlczhwNlZWdlZZZHVfeHZVX0Z1TUpXSEE?oc=5)
+
+---
+
+### [El IMC no basta para detectar la obesidad: el estudio internacional que propone mirar también la cintura](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQajlRT0dfcmNnVzhnUTlVQ0VKbFdrUm5yYW5hcEFnbVRhY0lZZm9rWWVlOFh3SGR4cWJvQVJ4OHRBdGQwcDlMQnFjME44eDhMT3hDMXVOSmY2MWpQV00zdGk4cGI5Zmw3NmlVQzJSZWJFUWU0b2tjYUM3M1ZhVENXRmVJVDFDaXpBc2ZpbFBaSUNkODVTd0w4M0ZRdFBzWmpoekFvcExaZDJtYndDeDVZeV8zcGk1VzNyT2U1YU8wSEI2VFl1SXRDMHpSRlFFWjdqa21lSFNSdDVnaVBr0gHiAUFVX3lxTFA3ZllVWHUwSV94aWFjYVlkLU9OZU9kbWxFX19Nbi1lYW4tUlhxcDQ5STYxMExqTGNSdF94VUhpUXpZeERXdFdjRUhqa0FFYlg5MVFnUjZZUjJ2eGpWY2ZWSFhTSnZWaHVHRGF1aHJYV3F6VzNzZFBjajEzQVNtQllibHduOWJ6MG9sTDc5ZkhaRzJ3bUpIVDdJc2JHMlhTanB2c21vVFY4TjhSWDhhYTZiTGF3U2toM2NTUm5kckt1WlBOUG81YWFuSW5QbjI1VFZ5clZEOFRySnRfbjZvdFhVcWc?oc=5)
+
+2026-11-14 <span class="news-indication-tag">obesidad</span>
+
+Source: [Vozpopuli](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQajlRT0dfcmNnVzhnUTlVQ0VKbFdrUm5yYW5hcEFnbVRhY0lZZm9rWWVlOFh3SGR4cWJvQVJ4OHRBdGQwcDlMQnFjME44eDhMT3hDMXVOSmY2MWpQV00zdGk4cGI5Zmw3NmlVQzJSZWJFUWU0b2tjYUM3M1ZhVENXRmVJVDFDaXpBc2ZpbFBaSUNkODVTd0w4M0ZRdFBzWmpoekFvcExaZDJtYndDeDVZeV8zcGk1VzNyT2U1YU8wSEI2VFl1SXRDMHpSRlFFWjdqa21lSFNSdDVnaVBr0gHiAUFVX3lxTFA3ZllVWHUwSV94aWFjYVlkLU9OZU9kbWxFX19Nbi1lYW4tUlhxcDQ5STYxMExqTGNSdF94VUhpUXpZeERXdFdjRUhqa0FFYlg5MVFnUjZZUjJ2eGpWY2ZWSFhTSnZWaHVHRGF1aHJYV3F6VzNzZFBjajEzQVNtQllibHduOWJ6MG9sTDc5ZkhaRzJ3bUpIVDdJc2JHMlhTanB2c21vVFY4TjhSWDhhYTZiTGF3U2toM2NTUm5kckt1WlBOUG81YWFuSW5QbjI1VFZ5clZEOFRySnRfbjZvdFhVcWc?oc=5)
 
 ---
 
@@ -266,7 +306,7 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95c
 
 ### [Rischio di perdita della vista per chi usa Ozempic o altri farmaci dimagranti: l'allarme che arriva dagli Usa](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdWN2stbTlTV1NZX2tOY2tzdUFSM0lXSFlYRkdURnJWdHBSUy01bzl4N2JPUURHX1Z2UGZ4NGI3VEZXWnRlel9aQWdQcFNjYUwzN2ZZcXBzT2FVeVRYN09lcmdDTWU3Q1dCZ3FDXzZWWGhtc1MzYkFwMkNSUXZUVW9HTzFpZzdEbDlCdWc?oc=5)
 
-2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
+2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Open](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdWN2stbTlTV1NZX2tOY2tzdUFSM0lXSFlYRkdURnJWdHBSUy01bzl4N2JPUURHX1Z2UGZ4NGI3VEZXWnRlel9aQWdQcFNjYUwzN2ZZcXBzT2FVeVRYN09lcmdDTWU3Q1dCZ3FDXzZWWGhtc1MzYkFwMkNSUXZUVW9HTzFpZzdEbDlCdWc?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "maladie de Parkinson (parkinson disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about maladie de Parkinson (parkinson disease). 8 articles, 7 related drugs."
+description: "Health news about maladie de Parkinson (parkinson disease). 10 articles, 7 related drugs."
 permalink: /news/parkinson-disease/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-15
 ---
 
 # maladie de Parkinson (parkinson disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about maladie de Parkinson (parkinson disease)?">
-<strong>maladie de Parkinson (parkinson disease)</strong> currently has <strong>8 news articles</strong> and 7 related drugs.
+<strong>maladie de Parkinson (parkinson disease)</strong> currently has <strong>10 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “maladie de Parkinson�
 </ul>
 </div>
 
-## Related News (8)
+## Related News (10)
+
+### [Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTkwwbk1IUkI0ZVdqREQ0TWQtck5ETTMtYzVLX2o0RFhZYW5ROWJnNFF1Yzlab0pES1o4Q2RaS3JIb1Bwa0NkNHg0UWM2ME5ESHkzcmtJMUpNcHI5TXAwb2hLMGN3ZUpOY0hPNlB3bHotR3M0V2JkdzJzVWxkWnBkdzZKdTBKSG4yRFh2OFdCY2xDTVRDRDU3QWdqeE1DaURINFR6eW5CMEl5SnRYWHRmRWVfeVl4VS03UFVQUWszcW9JVFRCRkdUZkNNWXNSd1JKSWxyYjd5RllpWmwyV2NVMXJnMVlGdDhhMEJmTms2eXR4bk1n?oc=5)
+
+2026-11-15
+
+Source: [franceinfo](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTkwwbk1IUkI0ZVdqREQ0TWQtck5ETTMtYzVLX2o0RFhZYW5ROWJnNFF1Yzlab0pES1o4Q2RaS3JIb1Bwa0NkNHg0UWM2ME5ESHkzcmtJMUpNcHI5TXAwb2hLMGN3ZUpOY0hPNlB3bHotR3M0V2JkdzJzVWxkWnBkdzZKdTBKSG4yRFh2OFdCY2xDTVRDRDU3QWdqeE1DaURINFR6eW5CMEl5SnRYWHRmRWVfeVl4VS03UFVQUWszcW9JVFRCRkdUZkNNWXNSd1JKSWxyYjd5RllpWmwyV2NVMXJnMVlGdDhhMEJmTms2eXR4bk1n?oc=5)
+
+---
 
 ### [¿Foslevodopa/foscarbidopa en la enfermedad de Parkinson?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG80cVpaZzA5LTZEY2UwX2JVcmdJMm9neEZIX2x2Rmg0Z3dMR3hmX2FaSXJNYWc0ZzdWSGJJYnZNQ0N6UGh2U0dCRERZeHY0TzVBa0dGRGFidThMTG5rN0pmc2ZXZHZMX3VfMkNyYW5uVEluclAyOHFQRk5JVktObUJlaGlENkNnVGEwR2c4ODc1X3JFTEdsUlk1TXR5ZENhT0l4eEhETjMyM3c?oc=5)
 
@@ -50,6 +58,14 @@ Source: [Univadis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG80cVpa
 2026-11-11
 
 Source: [Univadis](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS01Ibm02QVh1SVAtSGNYejNXRDN6TTNFc214bHNEa0lDbXBsQkJYeVRReXdUTGxNMEdUX2RfY29qVFlIY1pncEhTdkVSa1UxQVZIdkV5RnRteVNpUlRMYnlvZk5DMnE0TzlYUFZ2WFFiUFJBMXNxS2pTLTh3WXh5LU55ZFlfWURFR2xZWHJBTm1vT2FwREozQWRxTTExVHJ5YWtKWUZrSFBzcTFSR09nclF5RkNtYml0R1RUX0pDcUxvOUE1Rm9uWjhlS2ZLNDVZQzR1YmZla2FsMXgtaEZEYXJSSQ?oc=5)
+
+---
+
+### [Regular coffee consumption alters gut bacteria and digestive physiology](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1FhdkhsTjR3YVhyR29VSU9GU1M1NlI1MmsyS2hSNDlmU3V1ZEdwN3Fpc2Z4VVF1U2RxWFExREcyeDFuQkFMODU3enNuZVBXb2hiUXBlNGNES19PaVpieFdoOFlLYWpfaVRlWTZtZVhFNDY4dUZJaHUtemZiSTdlcUEyM0NvNHZpcEdQYkpXd0JOOWl5bzZjbVhfWTVXLWhrNmRlNll4T1M4eDcwcjB4NFdSeUVVY3lBT0w4?oc=5)
+
+2026-11-10
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1FhdkhsTjR3YVhyR29VSU9GU1M1NlI1MmsyS2hSNDlmU3V1ZEdwN3Fpc2Z4VVF1U2RxWFExREcyeDFuQkFMODU3enNuZVBXb2hiUXBlNGNES19PaVpieFdoOFlLYWpfaVRlWTZtZVhFNDY4dUZJaHUtemZiSTdlcUEyM0NvNHZpcEdQYkpXd0JOOWl5bzZjbVhfWTVXLWhrNmRlNll4T1M4eDcwcjB4NFdSeUVVY3lBT0w4?oc=5)
 
 ---
 

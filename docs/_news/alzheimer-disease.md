@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "malattia di Alzheimer (alzheimer disease) News"
+title: "maladie d'Alzheimer (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about malattia di Alzheimer (alzheimer disease). 36 articles, 16 related drugs."
+description: "Health news about maladie d'Alzheimer (alzheimer disease). 40 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 last_modified_at: 2026-11-15
 ---
 
-# malattia di Alzheimer (alzheimer disease) News
+# maladie d'Alzheimer (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about malattia di Alzheimer (alzheimer disease)?">
-<strong>malattia di Alzheimer (alzheimer disease)</strong> currently has <strong>36 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about maladie d'Alzheimer (alzheimer disease)?">
+<strong>maladie d'Alzheimer (alzheimer disease)</strong> currently has <strong>40 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “malattia di Alzheimer” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “maladie d'Alzheimer” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -43,7 +43,23 @@ This page brings together the latest health news about “malattia di Alzheimer�
 </ul>
 </div>
 
-## Related News (36)
+## Related News (40)
+
+### [Témoignage. Covid long : « C’est comme si le cerveau marchait au ralenti », même cinq ans après la maladie - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZC1WWWF6d1dwZnFHakllQ3BiUE1WTE4taHpuWFJILS1RTTdBTEJPS3k3NzF3b05Qb0pNWENfZmFrbjcwaWtvLXNkZ21kSVBKRUgwaGRKNmtlVmdXRmtkeW5wT2NJNUdNSnJ2R0FkNXBjcDhkeTNjUHpnMzd3aExTb0NUMDVJNWdhU3JtT1cxVXFNZ0dIbEFzQkU2SnBRd3NGZG54SnV6M210U2lRNWpTTzVXaGRfWGZpWnhDMWRrc2VfbDYycV9nc0VVTQ?oc=5)
+
+2026-11-15
+
+Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZC1WWWF6d1dwZnFHakllQ3BiUE1WTE4taHpuWFJILS1RTTdBTEJPS3k3NzF3b05Qb0pNWENfZmFrbjcwaWtvLXNkZ21kSVBKRUgwaGRKNmtlVmdXRmtkeW5wT2NJNUdNSnJ2R0FkNXBjcDhkeTNjUHpnMzd3aExTb0NUMDVJNWdhU3JtT1cxVXFNZ0dIbEFzQkU2SnBRd3NGZG54SnV6M210U2lRNWpTTzVXaGRfWGZpWnhDMWRrc2VfbDYycV9nc0VVTQ?oc=5)
+
+---
+
+### [Lord Cameron says Alzheimer’s made mother beg sister to end her life - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1djYTkycWtPdjZEMThzTzhMbUtGQlBYdHQtc3d4ektxUVZlUHRLeFBRaFVIVkpxakUzNElLQjhkYVlaWkRYU0g0ZkFiZnh3OE1hbU4yTk9GT0l0Z2FXR0VlU3lXWXJuZDN6QUUxSElaaEN4R3ZpQktjbTktaHN0SFR2bUhPb250WFhRMEdLeW5uS1RSQUpaeVlsM21DQklxdUJ5UFhR?oc=5)
+
+2026-11-14
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1djYTkycWtPdjZEMThzTzhMbUtGQlBYdHQtc3d4ektxUVZlUHRLeFBRaFVIVkpxakUzNElLQjhkYVlaWkRYU0g0ZkFiZnh3OE1hbU4yTk9GT0l0Z2FXR0VlU3lXWXJuZDN6QUUxSElaaEN4R3ZpQktjbTktaHN0SFR2bUhPb250WFhRMEdLeW5uS1RSQUpaeVlsM21DQklxdUJ5UFhR?oc=5)
+
+---
 
 ### [Alzheimer, a Chieti arriva un nuovo farmaco: cosa sappiamo della malattia che cancella la memoria](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd0tTQXpLWjRvRDhYMXNmcGFmdTNKXzNTY1M2MFRENTE1bmJqNEN3SVZMSlVacmN1VkpMbUVFSWJCQkthVUhUNjk1Ukd5dHVaSmU0WlhGLVdhcnMzRkI4YVNJd3ktMTFTMTlIWGNxUWM5VnQyZ0NxeENyREdQamt0MFo4YnZsMm9PSEV4Q01VandVUGNILS1ocEVxWHFSR1NQaENHaEs5cXhTVG4yQnNaVHk0dUd0MC1uTEJCUktIa1FXQUNHdk5UUUw4X2U2N0ZlVWZjR2g1aFNmMmlReDFn?oc=5)
 
@@ -61,6 +77,14 @@ Source: [BuzzFeed](https://news.google.com/rss/articles/CBMiekFVX3lxTE01cjB1OWg0
 
 ---
 
+### [Stanford Scientists Discover Resting Brain Activity May Predict Alzheimer's Years Before Memory Decline](https://news.google.com/rss/articles/CBMiywFBVV95cUxPeTZmcWotSFlrWXUwU3RIT3hYRWJKRUxwSUQ3U0NkYW4xSW9rREFvMjNTdDR0aDNKZnZWLUg2SV9OX0VzRTJ5b3JiNG1xbWoxaFVqa0FydmdqZ0t1Zm1oMDM4Q0VWSjdROXg5eF9xQTEyQnpwS2cwUUMwZHdheXB6VjBVOUdYRDhtcnZjOEgtNS1uMXpMRWd0Sk1TNXBITDhwQXQ0amZIc2dyRVAzNThzNkduZmVVM0FOeHd6Z0FQaFR3VTJoN2ItYTVYbw?oc=5)
+
+2026-11-14
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiywFBVV95cUxPeTZmcWotSFlrWXUwU3RIT3hYRWJKRUxwSUQ3U0NkYW4xSW9rREFvMjNTdDR0aDNKZnZWLUg2SV9OX0VzRTJ5b3JiNG1xbWoxaFVqa0FydmdqZ0t1Zm1oMDM4Q0VWSjdROXg5eF9xQTEyQnpwS2cwUUMwZHdheXB6VjBVOUdYRDhtcnZjOEgtNS1uMXpMRWd0Sk1TNXBITDhwQXQ0amZIc2dyRVAzNThzNkduZmVVM0FOeHd6Z0FQaFR3VTJoN2ItYTVYbw?oc=5)
+
+---
+
 ### [Six unusual smells that could reveal a hidden health problem - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcW1qZ1JiUXFRZnMtN2Y3WE8xc2c3Rm1kVFRTVEd5QldiN3dJMHJDcTZ1OFptRi1KMTNTY1VRMWFJT25kWVdqbzlrd1BTbzdhczhsTzJHajdKTFZSaVBJVlkzSUp3QjZISTZjeVV3RnRyNGJuOGhkcTlZLTJkcnNaSS0zeXBKSks0YTI2LVVrbElDZ1otVVdTOWlraTg?oc=5)
 
 2026-11-14
@@ -74,6 +98,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcW1
 2026-11-14
 
 Source: [The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFgxcmEtQWR1VEVhSGRqSkxQMGpzRDY3anFFUFRJQXA1djh5d3k5WklRZ3Uya0tnNHpMaXpkeTM3ZFY1X0c1ZGJCZ1JwekFOcmZVUE5YcWd3M0c3c1dnczlIUDFHNS1mOHE4OFZVTXVpTjJ4ZkxpcGt6cHkyRndEd0dMNm9mZjg2TV9aMTV2SndTdGxrUzd3d1BMbw?oc=5)
+
+---
+
+### [Scientists find blood biomarker that opens door to CTE diagnosis in living patients - The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSkpsNnZxQXNxNjRQdkxLcHdIYXNRcUltS3ZnVm1wenBoazU2UGtYZG5iZk9qX3gwS3lTQWF4eXAzeFd1ZlotdmFjaE9YeHN2MHJlQ2ZOM2FHX0tDNDNINVYyOHhGdHJrT1hnclc4b2dUU2QxZXlxYjRSSUliTW16UHZXbVBibU1EelYxZFlMM1dwVTFNMWRVVzFEUU9lQUFfNFoxRUlRNzEyNEdNbEw2emlJZnB4UQ?oc=5)
+
+2026-11-14
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSkpsNnZxQXNxNjRQdkxLcHdIYXNRcUltS3ZnVm1wenBoazU2UGtYZG5iZk9qX3gwS3lTQWF4eXAzeFd1ZlotdmFjaE9YeHN2MHJlQ2ZOM2FHX0tDNDNINVYyOHhGdHJrT1hnclc4b2dUU2QxZXlxYjRSSUliTW16UHZXbVBibU1EelYxZFlMM1dwVTFNMWRVVzFEUU9lQUFfNFoxRUlRNzEyNEdNbEw2emlJZnB4UQ?oc=5)
 
 ---
 
