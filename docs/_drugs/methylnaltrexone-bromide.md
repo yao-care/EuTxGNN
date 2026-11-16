@@ -1,32 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/methylnaltrexone-bromide/
 sitemap: false
-layout: default
-title: Methylnaltrexone Bromide
-description: "Methylnaltrexone Bromide: known uses and market status in the European Union; currently no new candidate indication"
-parent: Known Uses Only (No New Predictions)
-nav_order: 374
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Methylnaltrexone Bromide
-{: .fs-9 }
-
-{: .fs-6 .fw-300 }
-
-
-## Quick Overview
-
-| Item | Value |
-|------|-------|
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
-| Drug Name | Methylnaltrexone Bromide |
-| DrugBank ID | [DB06800](https://go.drugbank.com/drugs/DB06800) |
-| Brand Names (EU) | Relistor |
-| Predicted Indications | 50 |
-
----
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/methylnaltrexone/">
+<meta http-equiv="refresh" content="0; url=/drugs/methylnaltrexone/">
+<script>location="/drugs/methylnaltrexone/"</script>
+<a href="/drugs/methylnaltrexone/">/drugs/methylnaltrexone/</a>
+</html>

@@ -1,32 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/fondaparinux-sodium/
 sitemap: false
-layout: default
-title: Fondaparinux Sodium
-description: "Fondaparinux Sodium: known uses and market status in the European Union; currently no new candidate indication"
-parent: Known Uses Only (No New Predictions)
-nav_order: 254
-last_modified_at: 2026-11-06
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Fondaparinux Sodium
-{: .fs-9 }
-
-{: .fs-6 .fw-300 }
-
-
-## Quick Overview
-
-| Item | Value |
-|------|-------|
-| EU Market Status | Marketed (valid licences: 1 of 2) |
-| Number of Authorizations | 2 (valid: 1) |
-| Drug Name | Fondaparinux Sodium |
-| DrugBank ID | [DB00569](https://go.drugbank.com/drugs/DB00569) |
-| Brand Names (EU) | Arixtra |
-| Predicted Indications | 50 |
-
----
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/fondaparinux/">
+<meta http-equiv="refresh" content="0; url=/drugs/fondaparinux/">
+<script>location="/drugs/fondaparinux/"</script>
+<a href="/drugs/fondaparinux/">/drugs/fondaparinux/</a>
+</html>
