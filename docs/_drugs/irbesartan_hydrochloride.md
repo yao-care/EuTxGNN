@@ -1,55 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/irbesartan-hydrochloride/
 sitemap: false
-layout: default
-title: Irbesartan Hydrochloride
-parent: Known Uses Only (No New Predictions)
-nav_order: 335
-last_modified_at: 2026-11-06
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Irbesartan Hydrochloride
-{: .fs-9 }
-
-Evidence Level: **N/A** | Predicted Indications: **0** 
-{: .fs-6 .fw-300 }
-
----
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## Pharmacist Assessment Report
-
-</div>
-
-## Irbesartan Hydrochloride
-{: .text-alpha }
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Treatment of essential hypertension. Treatment of renal disease in patients with hypertension and type-2 diabetes mellitus as part of an antihypertensive medicinal-product regimen.; Treatment of essential hypertension. Treatment of renal disease in patients with hypertension and type 2 diabetes mell |
-| EU Market Status | Marketed (valid licences: 10 of 13) |
-| Number of Authorizations | 13 (valid: 10) |
-
----
-
-## Disclaimer
-
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/irbesartan/">
+<meta http-equiv="refresh" content="0; url=/drugs/irbesartan/">
+<script>location="/drugs/irbesartan/"</script>
+<a href="/drugs/irbesartan/">/drugs/irbesartan/</a>
+</html>

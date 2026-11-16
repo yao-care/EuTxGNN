@@ -1,32 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/raloxifene-hydrochloride/
 sitemap: false
-layout: default
-title: Raloxifene Hydrochloride
-description: "Raloxifene Hydrochloride: known uses and market status in the European Union; currently no new candidate indication"
-parent: Known Uses Only (No New Predictions)
-nav_order: 475
-last_modified_at: 2026-10-30
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Raloxifene Hydrochloride
-{: .fs-9 }
-
-{: .fs-6 .fw-300 }
-
-
-## Quick Overview
-
-| Item | Value |
-|------|-------|
-| EU Market Status | Marketed (valid licences: 2 of 3) |
-| Number of Authorizations | 3 (valid: 2) |
-| Drug Name | Raloxifene Hydrochloride |
-| DrugBank ID | [DB00481](https://go.drugbank.com/drugs/DB00481) |
-| Brand Names (EU) | Raloxifene Teva |
-| Predicted Indications | 50 |
-
----
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/raloxifene/">
+<meta http-equiv="refresh" content="0; url=/drugs/raloxifene/">
+<script>location="/drugs/raloxifene/"</script>
+<a href="/drugs/raloxifene/">/drugs/raloxifene/</a>
+</html>

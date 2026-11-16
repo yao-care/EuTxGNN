@@ -1,32 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/enoxaparin-sodium/
 sitemap: false
-layout: default
-title: Enoxaparin Sodium
-description: "Enoxaparin Sodium: known uses and market status in the European Union; currently no new candidate indication"
-parent: Known Uses Only (No New Predictions)
-nav_order: 211
-last_modified_at: 2026-11-06
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Enoxaparin Sodium
-{: .fs-9 }
-
-{: .fs-6 .fw-300 }
-
-
-## Quick Overview
-
-| Item | Value |
-|------|-------|
-| EU Market Status | Marketed (valid licences: 1 of 2) |
-| Number of Authorizations | 2 (valid: 1) |
-| Drug Name | Enoxaparin Sodium |
-| DrugBank ID | [DB01225](https://go.drugbank.com/drugs/DB01225) |
-| Brand Names (EU) | Inhixa |
-| Predicted Indications | 50 |
-
----
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/enoxaparin/">
+<meta http-equiv="refresh" content="0; url=/drugs/enoxaparin/">
+<script>location="/drugs/enoxaparin/"</script>
+<a href="/drugs/enoxaparin/">/drugs/enoxaparin/</a>
+</html>

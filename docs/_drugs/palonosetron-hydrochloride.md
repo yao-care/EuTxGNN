@@ -1,32 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/palonosetron-hydrochloride/
 sitemap: false
-layout: default
-title: Palonosetron Hydrochloride
-description: "Palonosetron Hydrochloride: known uses and market status in the European Union; currently no new candidate indication"
-parent: Known Uses Only (No New Predictions)
-nav_order: 436
-last_modified_at: 2026-11-06
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Palonosetron Hydrochloride
-{: .fs-9 }
-
-{: .fs-6 .fw-300 }
-
-
-## Quick Overview
-
-| Item | Value |
-|------|-------|
-| EU Market Status | Marketed (valid licences: 3 of 4) |
-| Number of Authorizations | 4 (valid: 3) |
-| Drug Name | Palonosetron Hydrochloride |
-| DrugBank ID | [DB00377](https://go.drugbank.com/drugs/DB00377) |
-| Brand Names (EU) | Aloxi |
-| Predicted Indications | 50 |
-
----
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/palonosetron/">
+<meta http-equiv="refresh" content="0; url=/drugs/palonosetron/">
+<script>location="/drugs/palonosetron/"</script>
+<a href="/drugs/palonosetron/">/drugs/palonosetron/</a>
+</html>

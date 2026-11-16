@@ -1,55 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/amifampridine-phosphate/
 sitemap: false
-layout: default
-title: Amifampridine Phosphate
-parent: Known Uses Only (No New Predictions)
-nav_order: 43
-last_modified_at: 2026-11-06
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Amifampridine Phosphate
-{: .fs-9 }
-
-Evidence Level: **N/A** | Predicted Indications: **0** 
-{: .fs-6 .fw-300 }
-
----
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## Pharmacist Assessment Report
-
-</div>
-
-## Amifampridine Phosphate
-{: .text-alpha }
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Symptomatic treatment of Lambert-Eaton myasthenic syndrome (LEMS) in adults. |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
-
----
-
-## Disclaimer
-
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/amifampridine/">
+<meta http-equiv="refresh" content="0; url=/drugs/amifampridine/">
+<script>location="/drugs/amifampridine/"</script>
+<a href="/drugs/amifampridine/">/drugs/amifampridine/</a>
+</html>

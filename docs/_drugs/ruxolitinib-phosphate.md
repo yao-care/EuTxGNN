@@ -1,32 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/ruxolitinib-phosphate/
 sitemap: false
-layout: default
-title: Ruxolitinib Phosphate
-description: "Ruxolitinib Phosphate: known uses and market status in the European Union; currently no new candidate indication"
-parent: Known Uses Only (No New Predictions)
-nav_order: 512
-last_modified_at: 2026-11-06
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Ruxolitinib Phosphate
-{: .fs-9 }
-
-{: .fs-6 .fw-300 }
-
-
-## Quick Overview
-
-| Item | Value |
-|------|-------|
-| EU Market Status | Marketed (valid licences: 3 of 3) |
-| Number of Authorizations | 3 (valid: 3) |
-| Drug Name | Ruxolitinib Phosphate |
-| DrugBank ID | [DB08877](https://go.drugbank.com/drugs/DB08877) |
-| Brand Names (EU) | Opzelura |
-| Predicted Indications | 50 |
-
----
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/ruxolitinib/">
+<meta http-equiv="refresh" content="0; url=/drugs/ruxolitinib/">
+<script>location="/drugs/ruxolitinib/"</script>
+<a href="/drugs/ruxolitinib/">/drugs/ruxolitinib/</a>
+</html>

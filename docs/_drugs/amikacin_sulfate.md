@@ -1,55 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/amikacin-sulfate/
 sitemap: false
-layout: default
-title: Amikacin Sulfate
-parent: Known Uses Only (No New Predictions)
-nav_order: 45
-last_modified_at: 2026-11-06
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Amikacin Sulfate
-{: .fs-9 }
-
-Evidence Level: **N/A** | Predicted Indications: **0** 
-{: .fs-6 .fw-300 }
-
----
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## Pharmacist Assessment Report
-
-</div>
-
-## Amikacin Sulfate
-{: .text-alpha }
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Arikayce liposomal is indicated for the treatment of non-tuberculous mycobacterial (NTM) lung infections caused by Mycobacterium avium Complex (MAC) in adults with limited treatment options who do not have cystic fibrosis. |
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
-
----
-
-## Disclaimer
-
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/amikacin/">
+<meta http-equiv="refresh" content="0; url=/drugs/amikacin/">
+<script>location="/drugs/amikacin/"</script>
+<a href="/drugs/amikacin/">/drugs/amikacin/</a>
+</html>

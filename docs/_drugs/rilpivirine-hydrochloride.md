@@ -1,32 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/rilpivirine-hydrochloride/
 sitemap: false
-layout: default
-title: Rilpivirine Hydrochloride
-description: "Rilpivirine Hydrochloride: known uses and market status in the European Union; currently no new candidate indication"
-parent: Known Uses Only (No New Predictions)
-nav_order: 492
-last_modified_at: 2026-11-06
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Rilpivirine Hydrochloride
-{: .fs-9 }
-
-{: .fs-6 .fw-300 }
-
-
-## Quick Overview
-
-| Item | Value |
-|------|-------|
-| EU Market Status | Marketed (valid licences: 6 of 6) |
-| Number of Authorizations | 6 (valid: 6) |
-| Drug Name | Rilpivirine Hydrochloride |
-| DrugBank ID | [DB08864](https://go.drugbank.com/drugs/DB08864) |
-| Brand Names (EU) | Edurant |
-| Predicted Indications | 50 |
-
----
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/rilpivirine/">
+<meta http-equiv="refresh" content="0; url=/drugs/rilpivirine/">
+<script>location="/drugs/rilpivirine/"</script>
+<a href="/drugs/rilpivirine/">/drugs/rilpivirine/</a>
+</html>
