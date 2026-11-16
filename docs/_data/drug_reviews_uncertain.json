@@ -1,4 +1,13 @@
 {
  "_doc": "藥物頁待查清單（2026-11-12 建，比照 TwTxGNN docs/_data/drug_reviews_uncertain.json）。項目不刪：查清標 status: resolved（附 record_ids，指向 docs/_data/drug_reviews.json 的紀錄），查不出定論標 status: unresolvable（附 searched、unresolvable_reason）。",
- "items": []
+ "items": [
+  {
+   "source": "證據監測 issue #882（2026-11-16 判讀時發現）",
+   "drug": "venetoclax",
+   "file": "venetoclax.md",
+   "status": "open",
+   "claim": "快速總覽「Predicted New Indication」＝Hodgkins lymphoma、等級格 L5，但下方註記寫「The L1 level reflects…」，正文討論的是 pregerminal center CLL/SLL 與 IGHV 突變亞型，front matter predicted_indications 的 follicular lymphoma 等都沒有評估",
+   "note": "報告內文是另一組預測寫的，跟總覽與 front matter 對不上；要在本機重產藥師報告（batch_generate_reports.py）或依 methodology 重審 follicular lymphoma（例：CONTRALTO NCT02187861，venetoclax＋rituximab／BR 的 Phase 2）。重產或重審前不改頁面"
+  }
+ ]
 }
