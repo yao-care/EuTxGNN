@@ -1,6 +1,6 @@
 {
   "total": 440,
-  "generated_at": "2026-11-16T03:36:04.167921",
+  "generated_at": "2026-11-16T21:22:09.355637",
   "drugs": [
     {
       "name": "Abacavir",
@@ -158,7 +158,7 @@
         "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia",
         "junctional epidermolysis bullosa"
       ],
-      "approved_indication": "Adjuvant treatment of resected non small cell lung cancer (NSCLC)&nbsp;Alecensa as monotherapy is indicated as adjuvant treatment following complete tumour resection for adult patients with ALK positive NSCLC at high risk of recurrence (see section 5.1 for selection criteria).Treatment of advanced NSCLCAlecensa as monotherapy is indicated for the first line treatment of adult patients with ALK positive advanced NSCLC.Alecensa as monotherapy is indicated for the treatment of adult patients with ALK positive advanced NSCLC previously treated with crizotinib."
+      "approved_indication": "Adjuvant treatment of resected non small cell lung cancer (NSCLC)&nbsp；Alecensa as monotherapy is indicated as adjuvant treatment following complete tumour resection for adult patients with ALK positive NSCLC at high risk of recurrence (see section 5.1 for selection criteria).Treatment of advanced NSCLCAlecensa as monotherapy is indicated for the first line treatment of adult patients with ALK positive advanced NSCLC.Alecensa as monotherapy is indicated for the treatment of adult patients with ALK positive advanced NSCLC previously treated with crizotinib."
     },
     {
       "name": "Alglucosidase Alfa",
@@ -486,7 +486,7 @@
         "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
         "obsolete familial combined hyperlipidemia"
       ],
-      "approved_indication": "Atazanavir Viatris, co-administered with low dose ritonavir, is indicated for the treatment of HIV 1 infected adults and paediatric patients 6 years of age and older in combination with other antiretroviral medicinal products.Based on available virological and clinical data from adult patients, no benefit is expected in patients with strains resistant to multiple protease inhibitors (≥ 4 PI mutations). There are very limited data available from children aged 6 to less than 18 years.&nbsp;The choice of Atazanavir&nbsp; Viatrisin treatment experienced adult and paediatric patients should be based on individual viral resistance testing and the patient’s treatment history.；Reyataz capsules, co-administered with low dose ritonavir, are indicated for the treatment of HIV-1 infected adults and paediatric patients 6 years of age and older in combination with other antiretroviral medicinal products (see section 4.2). Based on available virological and clinical data from adult patients, no benefit is expected in patients with strains resistant to multiple protease inhibitors (? 4 PI mutations). The choice of Reyataz in treatment experienced adult and paediatric patients should be based on individual viral resistance testing and the patient’s treatment history (see sections 4.4 and 5.1). Reyataz oral powder, co-administered with low dose ritonavir, is indicated in combination with other antiretroviral medicinal products for the treatment of HIV-1 infected paediatric patients at least 3 months of age and weighing at least 5 kg (see section 4.2). Based on available virological and clinical data from adult patients, no benefit is expected in patients with strains resistant to multiple protease inhibitors (? 4 PI mutations). The choice of Reyataz in treatment experienced adult and paediatric patients should be based on individual viral resistance testing and the patient’s treatment history (see sections 4.4 and 5.1).；Atazanavir Krka capsules, co-administered with low dose ritonavir, are indicated for the treatment of HIV-1 infected adults and paediatric patients 6 years of age and older in combination with other antiretroviral medicinal products. Based on available virological and clinical data from adult patients, no benefit is expected in patients with strains resistant to multiple protease inhibitors (? 4 PI mutations). The choice of Atazanavir Krka in treatment experienced adult and paediatric patients should be based on individual viral resistance testing and the patient’s treatment history."
+      "approved_indication": "Atazanavir Viatris, co-administered with low dose ritonavir, is indicated for the treatment of HIV 1 infected adults and paediatric patients 6 years of age and older in combination with other antiretroviral medicinal products.Based on available virological and clinical data from adult patients, no benefit is expected in patients with strains resistant to multiple protease inhibitors (≥ 4 PI mutations). There are very limited data available from children aged 6 to less than 18 years.&nbsp；The choice of Atazanavir&nbsp；Viatrisin treatment experienced adult and paediatric patients should be based on individual viral resistance testing and the patient’s treatment history.；Reyataz capsules, co-administered with low dose ritonavir, are indicated for the treatment of HIV-1 infected adults and paediatric patients 6 years of age and older in combination with other antiretroviral medicinal products (see section 4.2). Based on available virological and clinical data from adult patients, no benefit is expected in patients with strains resistant to multiple protease inhibitors (? 4 PI mutations). The choice of Reyataz in treatment experienced adult and paediatric patients should be based on individual viral resistance testing and the patient’s treatment history (see sections 4.4 and 5.1). Reyataz oral powder, co-administered with low dose ritonavir, is indicated in combination with other antiretroviral medicinal products for the treatment of HIV-1 infected paediatric patients at least 3 months of age and weighing at least 5 kg (see section 4.2). Based on available virological and clinical data from adult patients, no benefit is expected in patients with strains resistant to multiple protease inhibitors (? 4 PI mutations). The choice of Reyataz in treatment experienced adult and paediatric patients should be based on individual viral resistance testing and the patient’s treatment history (see sections 4.4 and 5.1).；Atazanavir Krka capsules, co-administered with low dose ritonavir, are indicated for the treatment of HIV-1 infected adults and paediatric patients 6 years of age and older in combination with other antiretroviral medicinal products. Based on available virological and clinical data from adult patients, no benefit is expected in patients with strains resistant to multiple protease inhibitors (? 4 PI mutations). The choice of Atazanavir Krka in treatment experienced adult and paediatric patients should be based on individual viral resistance testing and the patient’s treatment history."
     },
     {
       "name": "Atezolizumab",
@@ -503,7 +503,7 @@
         "signet ring cell variant cervical mucinous adenocarcinoma",
         "intestinal variant cervical mucinous adenocarcinoma"
       ],
-      "approved_indication": "Urothelial carcinoma&nbsp;Tecentriq as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic urothelial carcinoma (UC):  after prior platinum containing chem"
+      "approved_indication": "Urothelial carcinoma&nbsp；Tecentriq as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic urothelial carcinoma (UC):  after prior platinum containing chem"
     },
     {
       "name": "Atosiban",
@@ -524,7 +524,7 @@
         "venous thoracic outlet syndrome",
         "visceral calciphylaxis"
       ],
-      "approved_indication": "Tractotile is indicated to delay imminent pre-term birth in pregnant adult women with:  regular uterine contractions of at least 30 seconds duration at a rate of ? 4 per 30 minutes; a cervical dilation of 1 to 3 cm (0-3 for nulliparas) and effacement of ? 50%; a gestational age from 24 until 33 completed weeks; a normal foetal heart rate.；Atosiban is indicated to delay imminent pre-term birth in pregnant adult women with:  regular uterine contractions of at least 30 seconds’ duration at a rate of ? 4 per 30 minutes; a cervical dilation of 1 to 3 cm (0-3 for nulliparas) and effacement of ? 50%; a gestational age from 24 until 33 completed weeks; a normal foetal heart rate."
+      "approved_indication": "Tractotile is indicated to delay imminent pre-term birth in pregnant adult women with:  regular uterine contractions of at least 30 seconds duration at a rate of ? 4 per 30 minutes；a cervical dilation of 1 to 3 cm (0-3 for nulliparas) and effacement of ? 50%；a gestational age from 24 until 33 completed weeks；a normal foetal heart rate.；Atosiban is indicated to delay imminent pre-term birth in pregnant adult women with:  regular uterine contractions of at least 30 seconds’ duration at a rate of ? 4 per 30 minutes；a cervical dilation of 1 to 3 cm (0-3 for nulliparas) and effacement of ? 50%；a gestational age from 24 until 33 completed weeks；a normal foetal heart rate."
     },
     {
       "name": "Atropine",
@@ -694,7 +694,7 @@
         "urea cycle disorder",
         "esophageal candidiasis"
       ],
-      "approved_indication": "&nbsp;Sirturo is indicated for use as part of an appropriate combination regimen in adult and paediatric patients (2 years to less than 18 years of age and weighing at least 7 kg) with pulmonary tuberculosis (TB) due to Mycobacterium tuberculosis resistant to at least rifampicin and isoniazid. Consideration should be given to official guidance on the appropriate use of antibacterial agents. &nbsp;"
+      "approved_indication": "&nbsp；Sirturo is indicated for use as part of an appropriate combination regimen in adult and paediatric patients (2 years to less than 18 years of age and weighing at least 7 kg) with pulmonary tuberculosis (TB) due to Mycobacterium tuberculosis resistant to at least rifampicin and isoniazid. Consideration should be given to official guidance on the appropriate use of antibacterial agents. &nbsp"
     },
     {
       "name": "Belimumab",
@@ -711,7 +711,7 @@
         "severe nonproliferative diabetic retinopathy",
         "autosomal dominant macrothrombocytopenia"
       ],
-      "approved_indication": "Benlysta is indicated as add-on therapy in patients aged 5 years and older with active, autoantibody-positive systemic lupus erythematosus (SLE) with a high degree of disease activity&nbsp;(e.g., posi"
+      "approved_indication": "Benlysta is indicated as add-on therapy in patients aged 5 years and older with active, autoantibody-positive systemic lupus erythematosus (SLE) with a high degree of disease activity&nbsp；(e.g., posi"
     },
     {
       "name": "Bempedoic Acid",
@@ -856,7 +856,7 @@
         "gout",
         "hypertrichosis (disease)"
       ],
-      "approved_indication": "Treatment of pulmonary arterial hypertension (PAH) to improve exercise capacity and symptoms in patients with World Health Organization (WHO) functional class III. Efficacy has been shown in:  primary (idiopathic and familial) PAH; PAH secondary to scleroderma without significant interstitial pulmonary disease; PAH associated with congenital systemic-to-pulmonary shunts and Eisenmenger’s physiology.  Some improvements have also been shown in patients with PAH WHO functional class II. Stayveer is also indicated to reduce the number of new digital ulcers in patients with systemic sclerosis and ongoing digital-ulcer disease.；Treatment of pulmonary arterial hypertension (PAH) to improve exercise capacity and symptoms in patients with WHO functional class III.Efficacy has been shown in:  Primary (idiopathic and familial) PAH; PAH secondary to scleroderma without significant interstitial pulmonary disease; PAH associated with congenital systemic-to-pulmonary shunts and Eisenmenger's physiology.  Some improvements have also been shown in patients with PAH WHO functional class II. Tracleer is also indicated to reduce the number of new digital ulcers in patients with systemic sclerosis and ongoing digital ulcer disease."
+      "approved_indication": "Treatment of pulmonary arterial hypertension (PAH) to improve exercise capacity and symptoms in patients with World Health Organization (WHO) functional class III. Efficacy has been shown in:  primary (idiopathic and familial) PAH；PAH secondary to scleroderma without significant interstitial pulmonary disease；PAH associated with congenital systemic-to-pulmonary shunts and Eisenmenger’s physiology.  Some improvements have also been shown in patients with PAH WHO functional class II. Stayveer is also indicated to reduce the number of new digital ulcers in patients with systemic sclerosis and ongoing digital-ulcer disease.；Treatment of pulmonary arterial hypertension (PAH) to improve exercise capacity and symptoms in patients with WHO functional class III.Efficacy has been shown in:  Primary (idiopathic and familial) PAH；PAH secondary to scleroderma without significant interstitial pulmonary disease；PAH associated with congenital systemic-to-pulmonary shunts and Eisenmenger's physiology.  Some improvements have also been shown in patients with PAH WHO functional class II. Tracleer is also indicated to reduce the number of new digital ulcers in patients with systemic sclerosis and ongoing digital ulcer disease."
     },
     {
       "name": "Brentuximab Vedotin",
@@ -981,7 +981,7 @@
         "secondary interstitial lung disease specific to childhood associated with a connective tissue disease",
         "amyopathic dermatomyositis"
       ],
-      "approved_indication": "Exparel&nbsp;liposomal is indicated:  in adults as a brachial plexus block or femoral nerve block for treatment of post-operative pain. in adults and children aged 6 years or older as a field block fo"
+      "approved_indication": "Exparel&nbsp；liposomal is indicated:  in adults as a brachial plexus block or femoral nerve block for treatment of post-operative pain. in adults and children aged 6 years or older as a field block fo"
     },
     {
       "name": "Buprenorphine",
@@ -1171,7 +1171,7 @@
       "predicted_indications": [
         "gastrin secretion abnormality"
       ],
-      "approved_indication": "Treatment of invasive candidiasis in adult or paediatric patients; treatment of invasive aspergillosis in adult or paediatric patients who are refractory to or intolerant of amphotericin B, lipid formulations of amphotericin B and / or itraconazole. Refractoriness is defined as progression of infection or failure to improve after a minimum of seven days of prior therapeutic doses of effective antifungal therapy; empirical therapy for presumed fungal infections (such as Candida or Aspergillus) in febrile, neutropaenic adult or paediatric patients."
+      "approved_indication": "Treatment of invasive candidiasis in adult or paediatric patients；treatment of invasive aspergillosis in adult or paediatric patients who are refractory to or intolerant of amphotericin B, lipid formulations of amphotericin B and / or itraconazole. Refractoriness is defined as progression of infection or failure to improve after a minimum of seven days of prior therapeutic doses of effective antifungal therapy；empirical therapy for presumed fungal infections (such as Candida or Aspergillus) in febrile, neutropaenic adult or paediatric patients."
     },
     {
       "name": "Catridecacog",
@@ -1220,7 +1220,7 @@
         "blood group incompatibility",
         "premalignant hematological system disease"
       ],
-      "approved_indication": "Zerbaxa is indicated for the treatment of the following infections in adults:  Complicated intra abdominal infections; Acute pyelonephritis; Complicated urinary tract infections; Hospital-acquired pneumonia (HAP), including ventilator associated pneumonia (VAP).  Consideration should be given to official guidance on the appropriate use of antibacterial agents."
+      "approved_indication": "Zerbaxa is indicated for the treatment of the following infections in adults:  Complicated intra abdominal infections；Acute pyelonephritis；Complicated urinary tract infections；Hospital-acquired pneumonia (HAP), including ventilator associated pneumonia (VAP).  Consideration should be given to official guidance on the appropriate use of antibacterial agents."
     },
     {
       "name": "Cemiplimab",
@@ -1549,7 +1549,7 @@
         "brachydactyly-syndactyly syndrome",
         "prolapse of lacrimal gland"
       ],
-      "approved_indication": "Treatment of severe keratitis in adult patients with dry eye disease, which has not improved despite treatment with tear substitutes.；Treatment of moderate to severe dry eye disease&nbsp;(keratoconjunctivitis sicca)&nbsp;in adult patients, which has not improved despite treatment with tear substitutes.；Treatment of severe vernal keratoconjunctivitis (VKC) in children from 4 years of age and adolescents."
+      "approved_indication": "Treatment of severe keratitis in adult patients with dry eye disease, which has not improved despite treatment with tear substitutes.；Treatment of moderate to severe dry eye disease&nbsp；(keratoconjunctivitis sicca)&nbsp；in adult patients, which has not improved despite treatment with tear substitutes.；Treatment of severe vernal keratoconjunctivitis (VKC) in children from 4 years of age and adolescents."
     },
     {
       "name": "Cytarabine",
@@ -1658,7 +1658,7 @@
         "multiple endocrine neoplasia",
         "HIV infectious disease"
       ],
-      "approved_indication": "NUBEQA is indicated for the treatment of adult men with  non‑metastatic castration resistant prostate cancer (nmCRPC) who are at high risk of developing metastatic disease (see section&nbsp;5.1). meta"
+      "approved_indication": "NUBEQA is indicated for the treatment of adult men with  non‑metastatic castration resistant prostate cancer (nmCRPC) who are at high risk of developing metastatic disease (see section&nbsp；5.1). meta"
     },
     {
       "name": "Darunavir",
@@ -1693,7 +1693,7 @@
         "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia",
         "hamartoma of lung"
       ],
-      "approved_indication": "Sprycel is indicated for the treatment of paediatric patients with:  newly diagnosed Philadelphia chromosome-positive chronic myelogenous leukaemia in chronic phase (Ph+ CML CP) or Ph+ CML CP resistant or intolerant to prior therapy including imatinib. newly diagnosed Ph+ acute lymphoblastic leukaemia (ALL) in combination with chemotherapy.  Sprycel is indicated for the treatment of adult patients with:  newly diagnosed Philadelphia-chromosome-positive (Ph+) chronic myelogenous leukaemia (CML) in the chronic phase; chronic, accelerated or blast phase CML with resistance or intolerance to prior therapy including imatinib mesilate; Ph+ acute lymphoblastic leukaemia (ALL) and lymphoid blast CML with resistance or intolerance to prior therapy.  Sprycel is indicated for the treatment of paediatric patients with:  newly diagnosed Ph+ CML in chronic phase (Ph+ CML-CP) or Ph+ CML-CP resistant or intolerant to prior therapy including imatinib.；Dasatinib Accord Healthcare is indicated for the treatment of adult patients with:  newly diagnosed Philadelphia chromosome positive (Ph+) chronic myelogenous leukaemia (CML) in the chronic phase. chronic, accelerated or blast phase CML with resistance or intolerance to prior therapy including imatinib. Ph+ acute lymphoblastic leukaemia (ALL) and lymphoid blast CML with resistance or intolerance to prior therapy.  &nbsp;Dasatinib Accord Healthcare is indicated for the treatment of paediatric patients with:  newly diagnosed Ph+ CML in chronic phase (Ph+ CML-CP) or Ph+ CML-CP resistant or intolerant to prior therapy including imatinib. newly diagnosed Ph+ ALL in combination with chemotherapy."
+      "approved_indication": "Sprycel is indicated for the treatment of paediatric patients with:  newly diagnosed Philadelphia chromosome-positive chronic myelogenous leukaemia in chronic phase (Ph+ CML CP) or Ph+ CML CP resistant or intolerant to prior therapy including imatinib. newly diagnosed Ph+ acute lymphoblastic leukaemia (ALL) in combination with chemotherapy.  Sprycel is indicated for the treatment of adult patients with:  newly diagnosed Philadelphia-chromosome-positive (Ph+) chronic myelogenous leukaemia (CML) in the chronic phase；chronic, accelerated or blast phase CML with resistance or intolerance to prior therapy including imatinib mesilate；Ph+ acute lymphoblastic leukaemia (ALL) and lymphoid blast CML with resistance or intolerance to prior therapy.  Sprycel is indicated for the treatment of paediatric patients with:  newly diagnosed Ph+ CML in chronic phase (Ph+ CML-CP) or Ph+ CML-CP resistant or intolerant to prior therapy including imatinib.；Dasatinib Accord Healthcare is indicated for the treatment of adult patients with:  newly diagnosed Philadelphia chromosome positive (Ph+) chronic myelogenous leukaemia (CML) in the chronic phase. chronic, accelerated or blast phase CML with resistance or intolerance to prior therapy including imatinib. Ph+ acute lymphoblastic leukaemia (ALL) and lymphoid blast CML with resistance or intolerance to prior therapy.  &nbsp；Dasatinib Accord Healthcare is indicated for the treatment of paediatric patients with:  newly diagnosed Ph+ CML in chronic phase (Ph+ CML-CP) or Ph+ CML-CP resistant or intolerant to prior therapy including imatinib. newly diagnosed Ph+ ALL in combination with chemotherapy."
     },
     {
       "name": "Decitabine",
@@ -1822,7 +1822,7 @@
         "IgE responsiveness, atopic",
         "rosacea conjunctivitis"
       ],
-      "approved_indication": "Dasselta is indicated for the relief of symptoms associated with:  allergic rhinitis; urticaria."
+      "approved_indication": "Dasselta is indicated for the relief of symptoms associated with:  allergic rhinitis；urticaria."
     },
     {
       "name": "Dexamethasone",
@@ -1957,7 +1957,7 @@
         "embryonal extrahepatic bile duct rhabdomyosarcoma",
         "parameningeal embryonal rhabdomyosarcoma"
       ],
-      "approved_indication": "Breast cancer Taxotere in combination with doxorubicin and cyclophosphamide is indicated for the adjuvant treatment of patients with:  operable node-positive breast cancer; operable node-negative brea"
+      "approved_indication": "Breast cancer Taxotere in combination with doxorubicin and cyclophosphamide is indicated for the adjuvant treatment of patients with:  operable node-positive breast cancer；operable node-negative brea"
     },
     {
       "name": "Dolutegravir",
@@ -2004,7 +2004,7 @@
         "parameningeal embryonal rhabdomyosarcoma",
         "rhabdomyosarcoma (disease)"
       ],
-      "approved_indication": "Caelyx&nbsp;pegylated liposomal is indicated:  as monotherapy for patients with metastatic breast cancer, where there is an increased cardiac risk; for treatment of advanced ovarian cancer in women who have failed a first-line platinum-based chemotherapy regimen; in combination with bortezomib for the treatment of progressive multiple myeloma in patients who have received at least one prior therapy and who have already undergone or are unsuitable for bone marrow transplant; for treatment of AIDS-related Kaposi’s sarcoma (KS) in patients with low CD4 counts (&lt;200 CD4 lymphocytes/mm3) and extensive mucocutaneous or visceral disease.  Caelyx pegylated liposomal may be used as first-line systemic chemotherapy, or as second line chemotherapy in AIDS-KS patients with disease that has progressed with, or in patients intolerant to, prior combination systemic chemotherapy comprising at least two of the following agents: a vinca alkaloid, bleomycin and standarddoxorubicin (or other anthracycline).；Myocet liposomal, in combination with cyclophosphamide, is indicated for the first-line treatment of metastatic breast cancer in adult women."
+      "approved_indication": "Caelyx&nbsp；pegylated liposomal is indicated:  as monotherapy for patients with metastatic breast cancer, where there is an increased cardiac risk；for treatment of advanced ovarian cancer in women who have failed a first-line platinum-based chemotherapy regimen；in combination with bortezomib for the treatment of progressive multiple myeloma in patients who have received at least one prior therapy and who have already undergone or are unsuitable for bone marrow transplant；for treatment of AIDS-related Kaposi’s sarcoma (KS) in patients with low CD4 counts (&lt；200 CD4 lymphocytes/mm3) and extensive mucocutaneous or visceral disease.  Caelyx pegylated liposomal may be used as first-line systemic chemotherapy, or as second line chemotherapy in AIDS-KS patients with disease that has progressed with, or in patients intolerant to, prior combination systemic chemotherapy comprising at least two of the following agents: a vinca alkaloid, bleomycin and standarddoxorubicin (or other anthracycline).；Myocet liposomal, in combination with cyclophosphamide, is indicated for the first-line treatment of metastatic breast cancer in adult women."
     },
     {
       "name": "Dronedarone",
@@ -2463,7 +2463,7 @@
       "predicted_indications": [
         "bacterial arthritis"
       ],
-      "approved_indication": "Treatment Ertapenem SUN is indicated in paediatric patients (3 months to 17 years of age) and in adults for the treatment of the following infections when caused by bacteria known or very likely to be susceptible to ertapenem and when parenteral therapy is required (see sections 4.4 and 5.1):  Intra-abdominal infections Community acquired pneumonia Acute gynaecological infections Diabetic foot infections of the skin and soft tissue (see section 4.4)  Prevention Ertapenem SUN is indicated in adults for the prophylaxis of surgical site infection following elective colorectal surgery (see section 4.4). Consideration should be given to official guidance on the appropriate use of antibacterial agents.；Treatment Treatment of the following infections when caused by bacteria known or very likely to be susceptible to ertapenem and when parenteral therapy is required:  intra-abdominal infections; community-acquired pneumonia; acute gynaecological infections; diabetic foot infections of the skin and soft tissue.  Prevention Invanz is indicated in adults for the prophylaxis of surgical site infection following elective colorectal surgery. Consideration should be given to official guidance on the appropriate use of antibacterial agents."
+      "approved_indication": "Treatment Ertapenem SUN is indicated in paediatric patients (3 months to 17 years of age) and in adults for the treatment of the following infections when caused by bacteria known or very likely to be susceptible to ertapenem and when parenteral therapy is required (see sections 4.4 and 5.1):  Intra-abdominal infections Community acquired pneumonia Acute gynaecological infections Diabetic foot infections of the skin and soft tissue (see section 4.4)  Prevention Ertapenem SUN is indicated in adults for the prophylaxis of surgical site infection following elective colorectal surgery (see section 4.4). Consideration should be given to official guidance on the appropriate use of antibacterial agents.；Treatment Treatment of the following infections when caused by bacteria known or very likely to be susceptible to ertapenem and when parenteral therapy is required:  intra-abdominal infections；community-acquired pneumonia；acute gynaecological infections；diabetic foot infections of the skin and soft tissue.  Prevention Invanz is indicated in adults for the prophylaxis of surgical site infection following elective colorectal surgery. Consideration should be given to official guidance on the appropriate use of antibacterial agents."
     },
     {
       "name": "Esketamine",
@@ -2749,7 +2749,7 @@
         "respiratory malformation",
         "Rienhoff syndrome"
       ],
-      "approved_indication": "Maintenance treatment of asthma, in adults not adequately controlled with a maintenance combination of a long-acting beta2-agonist and high dose of inhaled corticosteroid, and who experienced one or more asthma exacerbations in the previous year. COPDMaintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a long-acting beta2-agonist or a combination of a long-acting beta2-agonist and a long-acting muscarinic antagonist (for effects on symptoms control and prevention of exacerbations see section 5.1). AsthmaMaintenance treatment of asthma, in adults not adequately controlled with a maintenance combination of a long-acting beta2-agonist and medium dose of inhaled corticosteroid, and who experienced one or more asthma exacerbations in the previous year.；Budesonide/Formoterol Teva Pharma B.V. is indicated in adults 18 years of age and older only. Asthma Budesonide/Formoterol Teva Pharma B.V. is indicated in the regular treatment of asthma, where use of a combination (inhaled corticosteroid and long-acting β2 adrenoceptor agonist) is appropriate: -in patients not adequately controlled with inhaled corticosteroids and “as needed” inhaled short-acting β2 adrenoceptor agonists. or -in patients already adequately controlled on both inhaled corticosteroids and long-acting β2 adrenoceptor agonists. COPD Symptomatic treatment of patients with COPD with forced expiratory volume in 1 second (FEV1)&nbsp;&lt;&nbsp;70% predicted normal (post bronchodilator) and a history of repeated exacerbations, who have significant symptoms despite regular therapy with long-acting bronchodilators.；Maintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a long-acting beta2-agonist (for effects on symptoms control and prevention of exacerbations see section 5.1).；Duaklir Genuair is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).；Riltrava Aerosphere is indicated as a maintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a long-acting beta2 agonist or combination of a long-acting beta2 agonist and a long-acting muscarinic antagonist (for effects on symptoms control and prevention of exacerbations see section 5.1).；Bevespi Aerosphere is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).；Trixeo Aerosphere is indicated as a maintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a long acting beta2 agonist or combination of a long-acting beta2 agonist and a long acting muscarinic antagonist.；Brimica Genuair is indicated as a maintenance bronchodilator treatment for airflow obstruction and relief of symptoms in adult patients with chronic obstructive pulmonary disease (COPD).；Asthma  BiResp Spiromax is indicated in adults and adolescents (12 years and older) for the regular treatment of asthma, where use of a combination (inhaled corticosteroid and long-acting ?? adrenoceptor agonist) is appropriate:  in patients not adequately controlled with inhaled corticosteroids and “as needed” inhaled short-acting ?? adrenoceptor agonists.  or  in patients already adequately controlled on both inhaled corticosteroids and long-acting ?? adrenoceptor agonists.  COPDBiResp Spiromax is indicated in adults, aged 18 years and older, for the symptomatic treatment of patients with COPD with forced expiratory volume in 1 second (FEV?) &lt;70% predicted normal (post bronchodilator) and a history of repeated exacerbations, who have significant symptoms despite regular therapy with long-acting bronchodilators.；Asthma DuoResp Spiromax is indicated in adults and adolescents (12 years and older) for the regular treatment of asthma, where use of a combination (inhaled corticosteroid and long-acting ?? adrenoceptor agonist) is appropriate:  in patients not adequately controlled with inhaled corticosteroids and “as needed” inhaled short-acting ?? adrenoceptor agonists.  or  in patients already adequately controlled on both inhaled corticosteroids and long-acting ?? adrenoceptor agonists.  COPDDuoResp Spiromax is indicated in adults, aged 18 years and older for the symptomatic treatment of patients with COPD with forced expiratory volume in 1 second (FEV?) &lt;70% predicted normal (post bronchodilator) and a history of repeated exacerbations, who have significant symptoms despite regular therapy with long-acting bronchodilators."
+      "approved_indication": "Maintenance treatment of asthma, in adults not adequately controlled with a maintenance combination of a long-acting beta2-agonist and high dose of inhaled corticosteroid, and who experienced one or more asthma exacerbations in the previous year. COPDMaintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a long-acting beta2-agonist or a combination of a long-acting beta2-agonist and a long-acting muscarinic antagonist (for effects on symptoms control and prevention of exacerbations see section 5.1). AsthmaMaintenance treatment of asthma, in adults not adequately controlled with a maintenance combination of a long-acting beta2-agonist and medium dose of inhaled corticosteroid, and who experienced one or more asthma exacerbations in the previous year.；Budesonide/Formoterol Teva Pharma B.V. is indicated in adults 18 years of age and older only. Asthma Budesonide/Formoterol Teva Pharma B.V. is indicated in the regular treatment of asthma, where use of a combination (inhaled corticosteroid and long-acting β2 adrenoceptor agonist) is appropriate: -in patients not adequately controlled with inhaled corticosteroids and “as needed” inhaled short-acting β2 adrenoceptor agonists. or -in patients already adequately controlled on both inhaled corticosteroids and long-acting β2 adrenoceptor agonists. COPD Symptomatic treatment of patients with COPD with forced expiratory volume in 1 second (FEV1)&nbsp；&lt；&nbsp；70% predicted normal (post bronchodilator) and a history of repeated exacerbations, who have significant symptoms despite regular therapy with long-acting bronchodilators.；Maintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a long-acting beta2-agonist (for effects on symptoms control and prevention of exacerbations see section 5.1).；Duaklir Genuair is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).；Riltrava Aerosphere is indicated as a maintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a long-acting beta2 agonist or combination of a long-acting beta2 agonist and a long-acting muscarinic antagonist (for effects on symptoms control and prevention of exacerbations see section 5.1).；Bevespi Aerosphere is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).；Trixeo Aerosphere is indicated as a maintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a long acting beta2 agonist or combination of a long-acting beta2 agonist and a long acting muscarinic antagonist.；Brimica Genuair is indicated as a maintenance bronchodilator treatment for airflow obstruction and relief of symptoms in adult patients with chronic obstructive pulmonary disease (COPD).；Asthma  BiResp Spiromax is indicated in adults and adolescents (12 years and older) for the regular treatment of asthma, where use of a combination (inhaled corticosteroid and long-acting ?? adrenoceptor agonist) is appropriate:  in patients not adequately controlled with inhaled corticosteroids and “as needed” inhaled short-acting ?? adrenoceptor agonists.  or  in patients already adequately controlled on both inhaled corticosteroids and long-acting ?? adrenoceptor agonists.  COPDBiResp Spiromax is indicated in adults, aged 18 years and older, for the symptomatic treatment of patients with COPD with forced expiratory volume in 1 second (FEV?) &lt；70% predicted normal (post bronchodilator) and a history of repeated exacerbations, who have significant symptoms despite regular therapy with long-acting bronchodilators.；Asthma DuoResp Spiromax is indicated in adults and adolescents (12 years and older) for the regular treatment of asthma, where use of a combination (inhaled corticosteroid and long-acting ?? adrenoceptor agonist) is appropriate:  in patients not adequately controlled with inhaled corticosteroids and “as needed” inhaled short-acting ?? adrenoceptor agonists.  or  in patients already adequately controlled on both inhaled corticosteroids and long-acting ?? adrenoceptor agonists.  COPDDuoResp Spiromax is indicated in adults, aged 18 years and older for the symptomatic treatment of patients with COPD with forced expiratory volume in 1 second (FEV?) &lt；70% predicted normal (post bronchodilator) and a history of repeated exacerbations, who have significant symptoms despite regular therapy with long-acting bronchodilators."
     },
     {
       "name": "Fosaprepitant",
@@ -2795,7 +2795,7 @@
       "predicted_indications": [
         "atrophoderma vermiculata"
       ],
-      "approved_indication": "Ajovy is indicated for prophylaxis of migraine in adults who have at least 4&nbsp;migraine days per month."
+      "approved_indication": "Ajovy is indicated for prophylaxis of migraine in adults who have at least 4&nbsp；migraine days per month."
     },
     {
       "name": "Fulvestrant",
@@ -3094,7 +3094,7 @@
         "restless legs syndrome",
         "Tourette syndrome"
       ],
-      "approved_indication": "Intuniv is indicated for the treatment of attention deficit hyperactivity disorder (ADHD) in children and adolescents 6 17 years old for whom stimulants are not suitable, not tolerated or have been shown to be ineffective. Intuniv must be used as a part of a comprehensive ADHD treatment programme, typically including psychological, educational and social measures.；Paxneury is indicated&nbsp;for the&nbsp;treatment of&nbsp;attention deficit hyperactivity disorder (ADHD) in children&nbsp;and adolescents&nbsp;6‑17&nbsp;years old for&nbsp;whom stimulants are not suitable,&nbsp;not tolerated or have been shown&nbsp;to be ineffective. Paxneury must be used as&nbsp;a part of&nbsp;a comprehensive ADHD treatment programme, typically including&nbsp;psychological, educational and social measures."
+      "approved_indication": "Intuniv is indicated for the treatment of attention deficit hyperactivity disorder (ADHD) in children and adolescents 6 17 years old for whom stimulants are not suitable, not tolerated or have been shown to be ineffective. Intuniv must be used as a part of a comprehensive ADHD treatment programme, typically including psychological, educational and social measures.；Paxneury is indicated&nbsp；for the&nbsp；treatment of&nbsp；attention deficit hyperactivity disorder (ADHD) in children&nbsp；and adolescents&nbsp；6‑17&nbsp；years old for&nbsp；whom stimulants are not suitable,&nbsp；not tolerated or have been shown&nbsp；to be ineffective. Paxneury must be used as&nbsp；a part of&nbsp；a comprehensive ADHD treatment programme, typically including&nbsp；psychological, educational and social measures."
     },
     {
       "name": "Guselkumab",
@@ -3711,7 +3711,7 @@
       "predicted_indications": [
         "Sanfilippo syndrome"
       ],
-      "approved_indication": "Aldurazyme is indicated for long-term enzyme replacement therapy in patients with a confirmed diagnosis of mucopolysaccharidosis I (MPS I; alpha-L-iduronidase deficiency) to treat the nonneurological"
+      "approved_indication": "Aldurazyme is indicated for long-term enzyme replacement therapy in patients with a confirmed diagnosis of mucopolysaccharidosis I (MPS I；alpha-L-iduronidase deficiency) to treat the nonneurological"
     },
     {
       "name": "Larotrectinib",
@@ -3805,7 +3805,7 @@
         "brachydactyly-syndactyly syndrome",
         "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
       ],
-      "approved_indication": "Leflunomide is indicated for the treatment of adult patients with:  active rheumatoid arthritis as a 'disease-modifying antirheumatic drug' (DMARD); active psoriatic arthritis.  Recent or concurrent t"
+      "approved_indication": "Leflunomide is indicated for the treatment of adult patients with:  active rheumatoid arthritis as a 'disease-modifying antirheumatic drug' (DMARD)；active psoriatic arthritis.  Recent or concurrent t"
     },
     {
       "name": "Lenalidomide",
@@ -3836,7 +3836,7 @@
         "familial spontaneous pneumothorax",
         "endocrine-cerebro-osteodysplasia syndrome"
       ],
-      "approved_indication": "Kisplyx is indicated for the treatment of adults with advanced renal cell carcinoma (RCC):  in combination with pembrolizumab, as first-line treatment (see section 5.1). in combination with everolimus, following one prior vascular endothelial growth factor (VEGF)-targeted therapy.；Lenvima&nbsp;is indicated as monotherapy for the treatment of adult patients with progressive, locally advanced or metastatic, differentiated (papillary/follicular/Hürthle cell) thyroid carcinoma (DTC), refractory to radioactive iodine (RAI). Lenvima&nbsp;is indicated as monotherapy for the treatment of adult patients with advanced or unresectable hepatocellular carcinoma (HCC) who have received no prior systemic therapy."
+      "approved_indication": "Kisplyx is indicated for the treatment of adults with advanced renal cell carcinoma (RCC):  in combination with pembrolizumab, as first-line treatment (see section 5.1). in combination with everolimus, following one prior vascular endothelial growth factor (VEGF)-targeted therapy.；Lenvima&nbsp；is indicated as monotherapy for the treatment of adult patients with progressive, locally advanced or metastatic, differentiated (papillary/follicular/Hürthle cell) thyroid carcinoma (DTC), refractory to radioactive iodine (RAI). Lenvima&nbsp；is indicated as monotherapy for the treatment of adult patients with advanced or unresectable hepatocellular carcinoma (HCC) who have received no prior systemic therapy."
     },
     {
       "name": "Letermovir",
@@ -4253,7 +4253,7 @@
         "thiamine-responsive dysfunction syndrome",
         "drug-induced localized lipodystrophy"
       ],
-      "approved_indication": "Synjardy is indicated in adults and children aged 10 years and above for the treatment of type 2 diabetes mellitus as an adjunct to diet and exercise:•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&"
+      "approved_indication": "Synjardy is indicated in adults and children aged 10 years and above for the treatment of type 2 diabetes mellitus as an adjunct to diet and exercise:•&nbsp；&nbsp；&nbsp；&nbsp；&nbsp；&nbsp；&nbsp；&nbsp；&"
     },
     {
       "name": "Methionine",
@@ -4379,7 +4379,7 @@
       "predicted_indications": [
         "urinary tract infection (disease)"
       ],
-      "approved_indication": "Mycamine is indicated for: Adults, adolescents ≥ 16 years of age and elderly  treatment of invasive candidiasis; treatment of oesophageal candidiasis in patients for whom intravenous therapy is approp"
+      "approved_indication": "Mycamine is indicated for: Adults, adolescents ≥ 16 years of age and elderly  treatment of invasive candidiasis；treatment of oesophageal candidiasis in patients for whom intravenous therapy is approp"
     },
     {
       "name": "Midazolam",
@@ -4531,7 +4531,7 @@
         "vulvar inverted follicular keratosis",
         "vitreous detachment"
       ],
-      "approved_indication": "Nevanac is indicated for:  prevention and treatment of postoperative pain and inflammation associated with cataract surgery; reduction in the risk of postoperative macular oedema associated with catar"
+      "approved_indication": "Nevanac is indicated for:  prevention and treatment of postoperative pain and inflammation associated with cataract surgery；reduction in the risk of postoperative macular oedema associated with catar"
     },
     {
       "name": "Nevirapine",
@@ -4689,7 +4689,7 @@
         "malignant spiradenoma",
         "Langerhans cell histiocytosis"
       ],
-      "approved_indication": "Kesimpta is indicated for the treatment of adult patients with relapsing forms of multiple sclerosis (RMS) with active disease defined by clinical or imaging features (see section&nbsp;5.1)."
+      "approved_indication": "Kesimpta is indicated for the treatment of adult patients with relapsing forms of multiple sclerosis (RMS) with active disease defined by clinical or imaging features (see section&nbsp；5.1)."
     },
     {
       "name": "Olanzapine",
@@ -4734,7 +4734,7 @@
         "neonatal dermatomyositis",
         "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"
       ],
-      "approved_indication": "Allergic asthma Xolair is indicated in adults, adolescents and children (6 to &lt;12&nbsp;years of age). Xolair treatment should only be considered for patients with convincing IgE (immunoglobulin E)"
+      "approved_indication": "Allergic asthma Xolair is indicated in adults, adolescents and children (6 to &lt；12&nbsp；years of age). Xolair treatment should only be considered for patients with convincing IgE (immunoglobulin E)"
     },
     {
       "name": "Oritavancin",
@@ -4760,7 +4760,7 @@
       "predicted_indications": [
         "hypervitaminosis"
       ],
-      "approved_indication": "Xenical is indicated in conjunction with a mildly hypocaloric diet for the treatment of obese patients with a body mass index (BMI) greater or equal to 30 kg/m2, or overweight patients (BMI &gt; 28 kg"
+      "approved_indication": "Xenical is indicated in conjunction with a mildly hypocaloric diet for the treatment of obese patients with a body mass index (BMI) greater or equal to 30 kg/m2, or overweight patients (BMI &gt；28 kg"
     },
     {
       "name": "Oteracil",
@@ -5017,7 +5017,7 @@
         "heart valve disease",
         "congenital anomaly of ventricular septum"
       ],
-      "approved_indication": "Polycythaemia veraPegasys is indicated as monotherapy in adults for the treatment of polycythaemia vera.&nbsp;Essential thrombocythaemiaPegasys is indicated as monotherapy in adults for the treatment"
+      "approved_indication": "Polycythaemia veraPegasys is indicated as monotherapy in adults for the treatment of polycythaemia vera.&nbsp；Essential thrombocythaemiaPegasys is indicated as monotherapy in adults for the treatment"
     },
     {
       "name": "Pegvaliase",
@@ -5051,7 +5051,7 @@
         "pulmonary sulcus neoplasm",
         "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"
       ],
-      "approved_indication": "Melanoma Keytruda as monotherapy is indicated for the treatment of adults and adolescents aged 12 years and older with advanced (unresectable or metastatic) melanoma. Keytruda&nbsp;as monotherapy is i"
+      "approved_indication": "Melanoma Keytruda as monotherapy is indicated for the treatment of adults and adolescents aged 12 years and older with advanced (unresectable or metastatic) melanoma. Keytruda&nbsp；as monotherapy is i"
     },
     {
       "name": "Pemetrexed",
@@ -5272,7 +5272,7 @@
         "fibromatosis, gingival",
         "liposarcoma"
       ],
-      "approved_indication": "Iclusig is indicated in adult patients with  chronic phase, accelerated phase, or blast phase chronic myeloid leukaemia (CML) who are resistant to dasatinib or nilotinib; who are intolerant to dasatin"
+      "approved_indication": "Iclusig is indicated in adult patients with  chronic phase, accelerated phase, or blast phase chronic myeloid leukaemia (CML) who are resistant to dasatinib or nilotinib；who are intolerant to dasatin"
     },
     {
       "name": "Posaconazole",
@@ -5651,7 +5651,7 @@
         "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
         "homozygous familial hypercholesterolemia"
       ],
-      "approved_indication": "Veklury is indicated for the treatment of coronavirus disease 2019 (COVID 19) in&nbsp;adults and paediatric patients (at least 4 weeks of age and weighing at least 3 kg):&nbsp;  with pneumonia requiri"
+      "approved_indication": "Veklury is indicated for the treatment of coronavirus disease 2019 (COVID 19) in&nbsp；adults and paediatric patients (at least 4 weeks of age and weighing at least 3 kg):&nbsp；with pneumonia requiri"
     },
     {
       "name": "Remimazolam",
@@ -5724,7 +5724,7 @@
         "feline acquired immunodeficiency syndrome",
         "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
       ],
-      "approved_indication": "REKAMBYS is indicated, in combination with cabotegravir injection, for the treatment of human immunodeficiency virus type 1 (HIV 1) infection in adults and adolescents (at least 12 years of age and weighing at least 35 kg) who are virologically suppressed (HIV-1 RNA &lt; 50 copies/mL) on a stable antiretroviral regimen without present or past evidence of viral resistance to, and no prior virological failure with, agents of the non-nucleoside reverse transcriptase inhibitor (NNRTI) and integrase inhibitor (INI) class.；EDURANT, in combination with other antiretroviral medicinal products, is indicated for the treatment of human immunodeficiency virus type 1 (HIV 1) infection in paediatric patients 2 to less than 18 years of age and weighing at least 14 kg to less than 25 kg without known mutations associated with resistance to the non-nucleoside reverse transcriptase inhibitor (NNRTI) class, and with a viral load ≤ 100,000 HIV 1 RNA copies/ml (see sections 4.4 and 5.1).Genotypic resistance testing should guide the use of EDURANT (see sections 4.4 and 5.1).EDURANT, in combination with other antiretroviral medicinal products, is indicated for the treatment of human immunodeficiency virus type 1 (HIV 1) infection in adults and paediatric patients weighing at least 25 kg without known mutations associated with resistance to the non-nucleoside reverse transcriptase inhibitor (NNRTI) class, and with a viral load ≤ 100,000 HIV 1 RNA copies/ml (see sections 4.4 and 5.1).Genotypic resistance testing should guide the use of EDURANT (see sections 4.4 and 5.1)."
+      "approved_indication": "REKAMBYS is indicated, in combination with cabotegravir injection, for the treatment of human immunodeficiency virus type 1 (HIV 1) infection in adults and adolescents (at least 12 years of age and weighing at least 35 kg) who are virologically suppressed (HIV-1 RNA &lt；50 copies/mL) on a stable antiretroviral regimen without present or past evidence of viral resistance to, and no prior virological failure with, agents of the non-nucleoside reverse transcriptase inhibitor (NNRTI) and integrase inhibitor (INI) class.；EDURANT, in combination with other antiretroviral medicinal products, is indicated for the treatment of human immunodeficiency virus type 1 (HIV 1) infection in paediatric patients 2 to less than 18 years of age and weighing at least 14 kg to less than 25 kg without known mutations associated with resistance to the non-nucleoside reverse transcriptase inhibitor (NNRTI) class, and with a viral load ≤ 100,000 HIV 1 RNA copies/ml (see sections 4.4 and 5.1).Genotypic resistance testing should guide the use of EDURANT (see sections 4.4 and 5.1).EDURANT, in combination with other antiretroviral medicinal products, is indicated for the treatment of human immunodeficiency virus type 1 (HIV 1) infection in adults and paediatric patients weighing at least 25 kg without known mutations associated with resistance to the non-nucleoside reverse transcriptase inhibitor (NNRTI) class, and with a viral load ≤ 100,000 HIV 1 RNA copies/ml (see sections 4.4 and 5.1).Genotypic resistance testing should guide the use of EDURANT (see sections 4.4 and 5.1)."
     },
     {
       "name": "Riluzole",
@@ -5759,7 +5759,7 @@
         "antithrombin deficiency type 2",
         "factor 5 excess with spontaneous thrombosis"
       ],
-      "approved_indication": "Vydura is indicated for the  Acute treatment of migraine with or without aura in adults; Preventative treatment of episodic migraine in adults who have at least 4 migraine attacks per month."
+      "approved_indication": "Vydura is indicated for the  Acute treatment of migraine with or without aura in adults；Preventative treatment of episodic migraine in adults who have at least 4 migraine attacks per month."
     },
     {
       "name": "Risankizumab",
@@ -5792,7 +5792,7 @@
       "predicted_indications": [
         "acne (disease)"
       ],
-      "approved_indication": "Evrysdi is indicated for the treatment of 5q spinal muscular atrophy (SMA) in patients with a clinical diagnosis of SMA Type 1, Type 2 or Type 3 or with one to four SMN2 copies. &nbsp;"
+      "approved_indication": "Evrysdi is indicated for the treatment of 5q spinal muscular atrophy (SMA) in patients with a clinical diagnosis of SMA Type 1, Type 2 or Type 3 or with one to four SMN2 copies. &nbsp"
     },
     {
       "name": "Risperidone",
@@ -6063,7 +6063,7 @@
         "migraine disorder",
         "migraine with brainstem aura"
       ],
-      "approved_indication": "Retsevmo as monotherapy is indicated for the treatment of adults with:&nbsp;– advanced RET fusion positive non small cell lung cancer (NSCLC) not previously treated with a RET inhibitor– advanced RET"
+      "approved_indication": "Retsevmo as monotherapy is indicated for the treatment of adults with:&nbsp；– advanced RET fusion positive non small cell lung cancer (NSCLC) not previously treated with a RET inhibitor– advanced RET"
     },
     {
       "name": "Selumetinib",
@@ -6300,7 +6300,7 @@
         "hypotrichosis simplex of the scalp",
         "congenital hypotrichosis milia"
       ],
-      "approved_indication": "In the management of refractory oedema associated with congestive cardiac failure; hepatic cirrhosis with ascites and oedema, malignant ascites, nephrotic syndrome, diagnosis and treatment of primary"
+      "approved_indication": "In the management of refractory oedema associated with congestive cardiac failure；hepatic cirrhosis with ascites and oedema, malignant ascites, nephrotic syndrome, diagnosis and treatment of primary"
     },
     {
       "name": "Sunitinib",
@@ -6388,7 +6388,7 @@
         "cystic neoplasm",
         "thyroglossal duct cyst"
       ],
-      "approved_indication": "Elzonris&nbsp;is indicated as monotherapy for the first-line treatment of adult patients with blastic plasmacytoid dendritic cell neoplasm (BPDCN)."
+      "approved_indication": "Elzonris&nbsp；is indicated as monotherapy for the first-line treatment of adult patients with blastic plasmacytoid dendritic cell neoplasm (BPDCN)."
     },
     {
       "name": "Talimogene Laherparepvec",
@@ -6537,7 +6537,7 @@
       "predicted_indications": [
         "cauda equina neoplasm"
       ],
-      "approved_indication": "Temomedac hard capsules is indicated for the treatment of:  adult patients with newly diagnosed glioblastoma multiforme concomitantly with radiotherapy (RT) and subsequently as monotherapy treatment;"
+      "approved_indication": "Temomedac hard capsules is indicated for the treatment of:  adult patients with newly diagnosed glioblastoma multiforme concomitantly with radiotherapy (RT) and subsequently as monotherapy treatment；"
     },
     {
       "name": "Temsirolimus",
@@ -6781,7 +6781,7 @@
         "infection-related hemolytic uremic syndrome",
         "epidemic keratoconjunctivitis"
       ],
-      "approved_indication": "Vantobra&nbsp;is indicated for the management of chronic pulmonary infection due to Pseudomonas aeruginosa in patients aged 6 years and older with cystic fibrosis (CF). Consideration should be given t"
+      "approved_indication": "Vantobra&nbsp；is indicated for the management of chronic pulmonary infection due to Pseudomonas aeruginosa in patients aged 6 years and older with cystic fibrosis (CF). Consideration should be given t"
     },
     {
       "name": "Tocilizumab",
@@ -6962,7 +6962,7 @@
       "predicted_indications": [
         "diabetic cataract"
       ],
-      "approved_indication": "Treosulfan in combination with fludarabine is indicated as part of conditioning treatment prior to allogeneic haematopoietic stem cell transplantation (alloHSCT) in adult patients&nbsp;and in paediatr"
+      "approved_indication": "Treosulfan in combination with fludarabine is indicated as part of conditioning treatment prior to allogeneic haematopoietic stem cell transplantation (alloHSCT) in adult patients&nbsp；and in paediatr"
     },
     {
       "name": "Treprostinil",
@@ -7207,7 +7207,7 @@
         "Wildervanck syndrome",
         "ABri amyloidosis"
       ],
-      "approved_indication": "Rapid conversion of recent onset atrial fibrillation to sinus rhythm in adults:  for non-surgery patients: atrial fibrillation&nbsp;&lt;/= 7 days duration; for post-cardiac surgery patients: atrial fibrillation&nbsp;&lt;/= 3 days duration."
+      "approved_indication": "Rapid conversion of recent onset atrial fibrillation to sinus rhythm in adults:  for non-surgery patients: atrial fibrillation&nbsp；&lt；/= 7 days duration；for post-cardiac surgery patients: atrial fibrillation&nbsp；&lt；/= 3 days duration."
     },
     {
       "name": "Verteporfin",
@@ -7219,7 +7219,7 @@
       "predicted_indications": [
         "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"
       ],
-      "approved_indication": "Visudyne is indicated for the treatment of:  adults with exudative (wet) age-related macular degeneration (AMD) with predominantly classic subfoveal choroidal neovascularisation (CNV) or; adults with subfoveal choroidal neovascularisation secondary to pathological myopia."
+      "approved_indication": "Visudyne is indicated for the treatment of:  adults with exudative (wet) age-related macular degeneration (AMD) with predominantly classic subfoveal choroidal neovascularisation (CNV) or；adults with subfoveal choroidal neovascularisation secondary to pathological myopia."
     },
     {
       "name": "Vestronidase Alfa",
@@ -7398,7 +7398,7 @@
         "Ewing sarcoma",
         "neuroblastoma"
       ],
-      "approved_indication": "Brukinsa&nbsp;as monotherapy is indicated for the treatment of adult patients with Waldenström’s macroglobulinaemia (WM) who have received at least one prior therapy, or in first line treatment for pa"
+      "approved_indication": "Brukinsa&nbsp；as monotherapy is indicated for the treatment of adult patients with Waldenström’s macroglobulinaemia (WM) who have received at least one prior therapy, or in first line treatment for pa"
     },
     {
       "name": "Ziconotide",
@@ -7453,7 +7453,7 @@
         "fibromyalgia",
         "conjunctivitis"
       ],
-      "approved_indication": "Zonegran is indicated as:  monotherapy in the treatment of partial seizures, with or without secondary generalisation, in adults with newly diagnosed epilepsy; adjunctive therapy in the treatment of p"
+      "approved_indication": "Zonegran is indicated as:  monotherapy in the treatment of partial seizures, with or without secondary generalisation, in adults with newly diagnosed epilepsy；adjunctive therapy in the treatment of p"
     }
   ]
 }
