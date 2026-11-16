@@ -1,55 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/anagrelide-hydrochloride/
 sitemap: false
-layout: default
-title: Anagrelide Hydrochloride
-parent: Known Uses Only (No New Predictions)
-nav_order: 49
-last_modified_at: 2026-11-06
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Anagrelide Hydrochloride
-{: .fs-9 }
-
-Evidence Level: **N/A** | Predicted Indications: **0** 
-{: .fs-6 .fw-300 }
-
----
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## Pharmacist Assessment Report
-
-</div>
-
-## Anagrelide Hydrochloride
-{: .text-alpha }
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Xagrid is indicated for the reduction of elevated platelet counts in at-risk essential-thrombocythaemia (ET) patients who are intolerant to their current therapy or whose elevated platelet counts are not reduced to an acceptable level by their current therapy. An at-risk patient An at-risk ET is def |
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
-
----
-
-## Disclaimer
-
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/anagrelide/">
+<meta http-equiv="refresh" content="0; url=/drugs/anagrelide/">
+<script>location="/drugs/anagrelide/"</script>
+<a href="/drugs/anagrelide/">/drugs/anagrelide/</a>
+</html>

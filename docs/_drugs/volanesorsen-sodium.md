@@ -1,32 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/volanesorsen-sodium/
 sitemap: false
-layout: default
-title: Volanesorsen Sodium
-description: "Volanesorsen Sodium: known uses and market status in the European Union; currently no new candidate indication"
-parent: Known Uses Only (No New Predictions)
-nav_order: 638
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Volanesorsen Sodium
-{: .fs-9 }
-
-{: .fs-6 .fw-300 }
-
-
-## Quick Overview
-
-| Item | Value |
-|------|-------|
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
-| Drug Name | Volanesorsen Sodium |
-| DrugBank ID | [DB15067](https://go.drugbank.com/drugs/DB15067) |
-| Brand Names (EU) | Waylivra |
-| Predicted Indications | 50 |
-
----
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/volanesorsen/">
+<meta http-equiv="refresh" content="0; url=/drugs/volanesorsen/">
+<script>location="/drugs/volanesorsen/"</script>
+<a href="/drugs/volanesorsen/">/drugs/volanesorsen/</a>
+</html>

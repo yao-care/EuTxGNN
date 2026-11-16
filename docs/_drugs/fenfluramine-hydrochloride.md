@@ -1,32 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/fenfluramine-hydrochloride/
 sitemap: false
-layout: default
-title: Fenfluramine Hydrochloride
-description: "Fenfluramine Hydrochloride: known uses and market status in the European Union; currently no new candidate indication"
-parent: Known Uses Only (No New Predictions)
-nav_order: 239
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Fenfluramine Hydrochloride
-{: .fs-9 }
-
-{: .fs-6 .fw-300 }
-
-
-## Quick Overview
-
-| Item | Value |
-|------|-------|
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
-| Drug Name | Fenfluramine Hydrochloride |
-| DrugBank ID | [DB00574](https://go.drugbank.com/drugs/DB00574) |
-| Brand Names (EU) | Fintepla |
-| Predicted Indications | 50 |
-
----
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/fenfluramine/">
+<meta http-equiv="refresh" content="0; url=/drugs/fenfluramine/">
+<script>location="/drugs/fenfluramine/"</script>
+<a href="/drugs/fenfluramine/">/drugs/fenfluramine/</a>
+</html>

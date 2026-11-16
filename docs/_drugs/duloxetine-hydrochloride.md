@@ -1,32 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/duloxetine-hydrochloride/
 sitemap: false
-layout: default
-title: Duloxetine Hydrochloride
-description: "Duloxetine Hydrochloride: known uses and market status in the European Union; currently no new candidate indication"
-parent: Known Uses Only (No New Predictions)
-nav_order: 187
-last_modified_at: 2026-11-06
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Duloxetine Hydrochloride
-{: .fs-9 }
-
-{: .fs-6 .fw-300 }
-
-
-## Quick Overview
-
-| Item | Value |
-|------|-------|
-| EU Market Status | Marketed (valid licences: 5 of 8) |
-| Number of Authorizations | 8 (valid: 5) |
-| Drug Name | Duloxetine Hydrochloride |
-| DrugBank ID | [DB00476](https://go.drugbank.com/drugs/DB00476) |
-| Brand Names (EU) | Yentreve |
-| Predicted Indications | 50 |
-
----
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/duloxetine/">
+<meta http-equiv="refresh" content="0; url=/drugs/duloxetine/">
+<script>location="/drugs/duloxetine/"</script>
+<a href="/drugs/duloxetine/">/drugs/duloxetine/</a>
+</html>

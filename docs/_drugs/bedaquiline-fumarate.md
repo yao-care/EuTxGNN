@@ -1,32 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/bedaquiline-fumarate/
 sitemap: false
-layout: default
-title: Bedaquiline Fumarate
-description: "Bedaquiline Fumarate: known uses and market status in the European Union; currently no new candidate indication"
-parent: Known Uses Only (No New Predictions)
-nav_order: 72
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Bedaquiline Fumarate
-{: .fs-9 }
-
-{: .fs-6 .fw-300 }
-
-
-## Quick Overview
-
-| Item | Value |
-|------|-------|
-| EU Market Status | Marketed (valid licences: 1 of 1) |
-| Number of Authorizations | 1 (valid: 1) |
-| Drug Name | Bedaquiline Fumarate |
-| DrugBank ID | [DB08903](https://go.drugbank.com/drugs/DB08903) |
-| Brand Names (EU) | Sirturo |
-| Predicted Indications | 50 |
-
----
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/bedaquiline/">
+<meta http-equiv="refresh" content="0; url=/drugs/bedaquiline/">
+<script>location="/drugs/bedaquiline/"</script>
+<a href="/drugs/bedaquiline/">/drugs/bedaquiline/</a>
+</html>

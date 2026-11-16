@@ -1,32 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/icatibant-acetate/
 sitemap: false
-layout: default
-title: Icatibant Acetate
-description: "Icatibant Acetate: known uses and market status in the European Union; currently no new candidate indication"
-parent: Known Uses Only (No New Predictions)
-nav_order: 286
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Icatibant Acetate
-{: .fs-9 }
-
-{: .fs-6 .fw-300 }
-
-
-## Quick Overview
-
-| Item | Value |
-|------|-------|
-| EU Market Status | Marketed (valid licences: 2 of 2) |
-| Number of Authorizations | 2 (valid: 2) |
-| Drug Name | Icatibant Acetate |
-| DrugBank ID | [DB06196](https://go.drugbank.com/drugs/DB06196) |
-| Brand Names (EU) | Icatibant Accord |
-| Predicted Indications | 50 |
-
----
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/icatibant/">
+<meta http-equiv="refresh" content="0; url=/drugs/icatibant/">
+<script>location="/drugs/icatibant/"</script>
+<a href="/drugs/icatibant/">/drugs/icatibant/</a>
+</html>
