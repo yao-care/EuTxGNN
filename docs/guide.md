@@ -105,6 +105,10 @@ FHIR resources are available in JSON format via the API.
 
 ## Frequently Asked Questions
 
+### Which EMA-authorised medicines already have clinical trial evidence for a new indication?
+
+Check the [High Evidence page](/evidence-high/), which lists EMA-authorised medicines whose predicted new indication is backed by clinical trial data (evidence levels L1-L2). The full [Drug List](/drugs/) covers every EMA-authorised medicine in the dataset, with each drug page showing its evidence level and linking to the underlying trial or literature sources.
+
 ### What is drug repurposing?
 
 Finding new therapeutic uses for existing approved drugs.
