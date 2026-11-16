@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Telmisartan. 9 predicted indications."
 permalink: /news/telmisartan/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Telmisartan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>155 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>156 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (155)
+## Related News (156)
+
+### [Starke Blutdrucksenkung: Vorteil beim Schlaganfall, nicht bei Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
+
+---
 
 ### [Ictus antes de los 50 años: por qué preocupa su aumento en España y cuáles son las señales de alarma que no debes ignorar](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdVlDelM4TXhDaUFudjJfMUFpUTZGMl9LTEs4WGF0ZUVGaXptRFhZQXNrNVA4QUVlY1o1WTA1a21TZGh6XzB2WjM3WTNsVUNJOVpzR0xFSW5FNjkzQVVEWWE1Sk0xRjhsRW4ta094MTFSbVJWZUFudUp2WkVsTGRmNVRZU045WGhWZWx3dGpMMURqR0s2c25fQ3BxV0lNb1k1Tm5WRDBEQVBlLUdpM1A2V3VkVm5uR0lzRjl1YXJ5Z0kxM2tCMXZkUU9nRzlKUdIB0wFBVV95cUxQNkxrSFlzOTNrZUppYThscURaMjFyUG03MkFRTWdCbmFrUW5aVlJKSTBxRDZ5MHBnb0pxa21KaFRmSldxQjJvRWhmbW52R2VUVEJEamxDV1V5aEdKdmRWeVFiNUZuMXdjX3l4WF80bEZKWURTUk52QjZGenYySDgzaml1TXo5MEw2N2doWDJ0aDk2OHZjb01GLTREVFhLQlY3eVpoZXdMU0xScHhzUENBcTRxYlpaS3NSVkhJTUVPYkkzWGtnSE9PSktfaGU4dkNJR2dj?oc=5)
 
@@ -341,7 +349,7 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Y
 
 ### [Stopping weight loss drugs doubles diabetics’ heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 
-2026-11-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 

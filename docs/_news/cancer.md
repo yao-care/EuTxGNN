@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "tumor (cancer) News"
+title: "Krebs (cancer) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 285 articles, 229 related drugs."
+description: "Health news about Krebs (cancer). 295 articles, 229 related drugs."
 permalink: /news/cancer/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
-# tumor (cancer) News
+# Krebs (cancer) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>285 news articles</strong> and 229 related drugs.
+<p class="key-answer" data-question="What news is there about Krebs (cancer)?">
+<strong>Krebs (cancer)</strong> currently has <strong>295 news articles</strong> and 229 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “tumor” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Krebs” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -65,11 +65,13 @@ This page brings together the latest health news about “tumor” and lists the
 <li><a href="{{ '/drugs/daratumumab/' | relative_url }}">Daratumumab</a></li>
 <li><a href="{{ '/drugs/darolutamide/' | relative_url }}">Darolutamide</a></li>
 <li><a href="{{ '/drugs/darunavir/' | relative_url }}">Darunavir</a></li>
+<li><a href="{{ '/drugs/dasatinib/' | relative_url }}">Dasatinib Monohydrate</a></li>
 <li><a href="{{ '/drugs/daunorubicin/' | relative_url }}">Daunorubicin</a></li>
 <li><a href="{{ '/drugs/decitabine/' | relative_url }}">Decitabine</a></li>
 <li><a href="{{ '/drugs/deferasirox/' | relative_url }}">Deferasirox</a></li>
 <li><a href="{{ '/drugs/docetaxel/' | relative_url }}">Docetaxel</a></li>
 <li><a href="{{ '/drugs/doravirine/' | relative_url }}">Doravirine</a></li>
+<li><a href="{{ '/drugs/doxorubicin/' | relative_url }}">Doxorubicin Hydrochloride</a></li>
 <li><a href="{{ '/drugs/durvalumab/' | relative_url }}">Durvalumab</a></li>
 <li><a href="{{ '/drugs/duvelisib/' | relative_url }}">Duvelisib</a></li>
 <li><a href="{{ '/drugs/efavirenz/' | relative_url }}">Efavirenz</a></li>
@@ -89,6 +91,7 @@ This page brings together the latest health news about “tumor” and lists the
 <li><a href="{{ '/drugs/faricimab/' | relative_url }}">Faricimab</a></li>
 <li><a href="{{ '/drugs/fingolimod/' | relative_url }}">Fingolimod</a></li>
 <li><a href="{{ '/drugs/gefitinib/' | relative_url }}">Gefitinib</a></li>
+<li><a href="{{ '/drugs/gilteritinib/' | relative_url }}">Gilteritinib Fumarate</a></li>
 <li><a href="{{ '/drugs/gimeracil/' | relative_url }}">Gimeracil</a></li>
 <li><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">Hydrochlorothiazide</a></li>
 <li><a href="{{ '/drugs/idelalisib/' | relative_url }}">Idelalisib</a></li>
@@ -103,6 +106,8 @@ This page brings together the latest health news about “tumor” and lists the
 <li><a href="{{ '/drugs/ivosidenib/' | relative_url }}">Ivosidenib</a></li>
 <li><a href="{{ '/drugs/ixekizumab/' | relative_url }}">Ixekizumab</a></li>
 <li><a href="{{ '/drugs/lapatinib/' | relative_url }}">Lapatinib</a></li>
+<li><a href="{{ '/drugs/larotrectinib/' | relative_url }}">Larotrectinib Sulfate</a></li>
+<li><a href="{{ '/drugs/lefamulin/' | relative_url }}">Lefamulin Acetate</a></li>
 <li><a href="{{ '/drugs/leflunomide/' | relative_url }}">Leflunomide</a></li>
 <li><a href="{{ '/drugs/lenalidomide/' | relative_url }}">Lenalidomide</a></li>
 <li><a href="{{ '/drugs/letermovir/' | relative_url }}">Letermovir</a></li>
@@ -110,6 +115,7 @@ This page brings together the latest health news about “tumor” and lists the
 <li><a href="{{ '/drugs/lorlatinib/' | relative_url }}">Lorlatinib</a></li>
 <li><a href="{{ '/drugs/mannitol/' | relative_url }}">Mannitol</a></li>
 <li><a href="{{ '/drugs/maraviroc/' | relative_url }}">Maraviroc</a></li>
+<li><a href="{{ '/drugs/melphalan/' | relative_url }}">Melphalan Hydrochloride</a></li>
 <li><a href="{{ '/drugs/methotrexate/' | relative_url }}">Methotrexate</a></li>
 <li><a href="{{ '/drugs/metreleptin/' | relative_url }}">Metreleptin</a></li>
 <li><a href="{{ '/drugs/micafungin/' | relative_url }}">Micafungin</a></li>
@@ -142,16 +148,20 @@ This page brings together the latest health news about “tumor” and lists the
 <li><a href="{{ '/drugs/plerixafor/' | relative_url }}">Plerixafor</a></li>
 <li><a href="{{ '/drugs/pomalidomide/' | relative_url }}">Pomalidomide</a></li>
 <li><a href="{{ '/drugs/ponatinib/' | relative_url }}">Ponatinib</a></li>
+<li><a href="{{ '/drugs/propranolol/' | relative_url }}">Propranolol Hydrochloride</a></li>
 <li><a href="{{ '/drugs/ramucirumab/' | relative_url }}">Ramucirumab</a></li>
 <li><a href="{{ '/drugs/regorafenib/' | relative_url }}">Regorafenib</a></li>
 <li><a href="{{ '/drugs/relebactam/' | relative_url }}">Relebactam</a></li>
+<li><a href="{{ '/drugs/ribociclib/' | relative_url }}">Ribociclib Succinate</a></li>
 <li><a href="{{ '/drugs/ripretinib/' | relative_url }}">Ripretinib</a></li>
 <li><a href="{{ '/drugs/risdiplam/' | relative_url }}">Risdiplam</a></li>
 <li><a href="{{ '/drugs/rituximab/' | relative_url }}">Rituximab</a></li>
 <li><a href="{{ '/drugs/roflumilast/' | relative_url }}">Roflumilast</a></li>
 <li><a href="{{ '/drugs/roxadustat/' | relative_url }}">Roxadustat</a></li>
 <li><a href="{{ '/drugs/rufinamide/' | relative_url }}">Rufinamide</a></li>
+<li><a href="{{ '/drugs/ruxolitinib/' | relative_url }}">Ruxolitinib Phosphate</a></li>
 <li><a href="{{ '/drugs/selinexor/' | relative_url }}">Selinexor</a></li>
+<li><a href="{{ '/drugs/selumetinib/' | relative_url }}">Selumetinib Sulfate</a></li>
 <li><a href="{{ '/drugs/siltuximab/' | relative_url }}">Siltuximab</a></li>
 <li><a href="{{ '/drugs/sirolimus/' | relative_url }}">Sirolimus</a></li>
 <li><a href="{{ '/drugs/sorafenib/' | relative_url }}">Sorafenib</a></li>
@@ -190,7 +200,71 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (285)
+## Related News (295)
+
+### [Neuer Bluttest erkennt Eierstockkrebs-Vorstufen früh](https://news.google.com/rss/articles/CBMiygFBVV95cUxPN1JmdURraHVGRFE1d0I0VFVFUXJ1TXFQcHEtU2RXNUtEMU9zdkJYQXZhY2QwSGVONmxyYUE4MFpHdlhMWVluMnBDeUg5ZWxDWFk4V2hIYTJiWEtlNWdSamtCWW5rTmhkQ2JYa1dVaTd4c244dmcySHdnNFpOa1ZyblluSTVVSUllRm9YX0JtSGlKSkIycmlkalk1c3B1ejZtMHEwV2pUZTNjanRZYjMyUVVKZnEyaEpLNnNCYjBfSWdqZ29pemRmMEFn?oc=5)
+
+2026-11-16
+
+Source: [FAZ](https://news.google.com/rss/articles/CBMiygFBVV95cUxPN1JmdURraHVGRFE1d0I0VFVFUXJ1TXFQcHEtU2RXNUtEMU9zdkJYQXZhY2QwSGVONmxyYUE4MFpHdlhMWVluMnBDeUg5ZWxDWFk4V2hIYTJiWEtlNWdSamtCWW5rTmhkQ2JYa1dVaTd4c244dmcySHdnNFpOa1ZyblluSTVVSUllRm9YX0JtSGlKSkIycmlkalk1c3B1ejZtMHEwV2pUZTNjanRZYjMyUVVKZnEyaEpLNnNCYjBfSWdqZ29pemRmMEFn?oc=5)
+
+---
+
+### [Cancer de la prostate : après près de 8 ans de suivi, cette triple association offre presque 2 ans de vie en plus - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdW5zNjY3Q0ttVlZrMENOOFc3T0Z3a1YtZUxTaWhaeUEwd0RYb095cGJLenNtd2NFejZfdTZwbkJfb0htZlhwSTRrcWZkbWVRSkJ5c3FyaTRZS3B0VFZrbDZNSU5qcHFqSHN6MkktRzZrY3o4Y0d0alFmbkdtZG9PWGJtWHFIVjUzdk9QeEVGRGNyZmdsNDlscktpN0VIOGFFa3ZyMm5Uc2J3Y0FfMWx1NmlINFVndFVDVkgzZFBqUUZKamxqZjQzY1FiNVNndk1tSEI3ZjFDNkdZTlFqV0k2cW1ORU9wbnhBS1hjTjV2UzJhN1NfTEFTcFRRRjNEZzA?oc=5)
+
+2026-11-16
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdW5zNjY3Q0ttVlZrMENOOFc3T0Z3a1YtZUxTaWhaeUEwd0RYb095cGJLenNtd2NFejZfdTZwbkJfb0htZlhwSTRrcWZkbWVRSkJ5c3FyaTRZS3B0VFZrbDZNSU5qcHFqSHN6MkktRzZrY3o4Y0d0alFmbkdtZG9PWGJtWHFIVjUzdk9QeEVGRGNyZmdsNDlscktpN0VIOGFFa3ZyMm5Uc2J3Y0FfMWx1NmlINFVndFVDVkgzZFBqUUZKamxqZjQzY1FiNVNndk1tSEI3ZjFDNkdZTlFqV0k2cW1ORU9wbnhBS1hjTjV2UzJhN1NfTEFTcFRRRjNEZzA?oc=5)
+
+---
+
+### [120 men treated for prostate cancer with new tech](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iaWt4Sk5jekNhODY0SEVEeTRzOUJOcjBGeUh1QW41dVFwYkZwa0RYUEw4Q3p1elVTS0pBa3VWUDBfVXFLejg2NUJXeTY5T1BOckh2VTdqSEt6WnRsNXc?oc=5)
+
+2026-11-16
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iaWt4Sk5jekNhODY0SEVEeTRzOUJOcjBGeUh1QW41dVFwYkZwa0RYUEw4Q3p1elVTS0pBa3VWUDBfVXFLejg2NUJXeTY5T1BOckh2VTdqSEt6WnRsNXc?oc=5)
+
+---
+
+### ['My lung cancer had no symptoms, this is what people need to know' - Manchester Evening News](https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXRYYkdUaFVtcm5QdU9oV0E0U3kxSkhNZGtqVUtVaUxObGc4NjJkQkhka29IRVR6ZHJIWTh6RHE3VlRpbWdDbmV1WHlMWGpDcTJNajE1Rmh1ZTFYT3lYaG5OWlE0WE9TMDgyYWYyYUMwNXNnUHpvcEZGOEFicVhxTUpwdWY2dWdaSlNTU0VvVXZJVVV0dWtNSDhYQzRpT1QyTnNZT3NIONIBrAFBVV95cUxQT1I4VUJpY0J1enItS0RCYmN2YWFPWm41SnJwd3VjNXRZeEE3NmdRR2NGUjNkLTB3ZzZLTVFrM2xuZk9Jb0RTbm9TMWdwMFEzZk5qRjVtdUhyajY0QXlBMXY2Q0p0RUJaazRWaXZZUTh1emVRQ0lyRlVXYXpockpvM01IU1JleXpBUm9vNG0tQzNxYVhlS0drdEh0NW9WUncwSzd0eGcwUXlsa1BD?oc=5)
+
+2026-11-16
+
+Source: [Manchester Evening News](https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXRYYkdUaFVtcm5QdU9oV0E0U3kxSkhNZGtqVUtVaUxObGc4NjJkQkhka29IRVR6ZHJIWTh6RHE3VlRpbWdDbmV1WHlMWGpDcTJNajE1Rmh1ZTFYT3lYaG5OWlE0WE9TMDgyYWYyYUMwNXNnUHpvcEZGOEFicVhxTUpwdWY2dWdaSlNTU0VvVXZJVVV0dWtNSDhYQzRpT1QyTnNZT3NIONIBrAFBVV95cUxQT1I4VUJpY0J1enItS0RCYmN2YWFPWm41SnJwd3VjNXRZeEE3NmdRR2NGUjNkLTB3ZzZLTVFrM2xuZk9Jb0RTbm9TMWdwMFEzZk5qRjVtdUhyajY0QXlBMXY2Q0p0RUJaazRWaXZZUTh1emVRQ0lyRlVXYXpockpvM01IU1JleXpBUm9vNG0tQzNxYVhlS0drdEh0NW9WUncwSzd0eGcwUXlsa1BD?oc=5)
+
+---
+
+### [The women who say their contraceptive gave them brain tumours - The Telegraph](https://news.google.com/rss/articles/CBMijAFBVV95cUxOTU8ycGhuRnJ0T0JQSUJnU3otc0U0cHFHbkEzMWNRUGt1QTN6Ui1HcW5WSDBnTkpWOVNPQUlTU1VfMEIyeUJkSjc2QlRyOU1nVEsydl9ZQVp5RlhMeVhNN2ZqVC0wSnF5UnpGd3NSYVNmaWZMQlQ0djF5bzJLVmJEYUJBN1I1eHB6dlVfYw?oc=5)
+
+2026-11-16
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMijAFBVV95cUxOTU8ycGhuRnJ0T0JQSUJnU3otc0U0cHFHbkEzMWNRUGt1QTN6Ui1HcW5WSDBnTkpWOVNPQUlTU1VfMEIyeUJkSjc2QlRyOU1nVEsydl9ZQVp5RlhMeVhNN2ZqVC0wSnF5UnpGd3NSYVNmaWZMQlQ0djF5bzJLVmJEYUJBN1I1eHB6dlVfYw?oc=5)
+
+---
+
+### [Tumorassoziierte ischämische Schlaganfälle: Das zeichnet sie aus - Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3I0WWJRYTJwM2hQUGRfRmVodGtPdU1jWFlsV1dVOTRuZ0trcWVtTDBnUENvVmhsak51aVNKbUxkek5SakVKRm1nVG8tNF9qZnRTV2JhT0ZjTF9GRlBvREJDREFIb0hJRnpRYjZLX0FUQjVkbHJoajJmX0FaRW40VUlVVmtqT3VESVBUY1p0N0tuRlFOaWlOTmdnV1pleDhrSDlVYnZDUTd2X210bTBaMmlqcmc?oc=5)
+
+2026-11-16
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3I0WWJRYTJwM2hQUGRfRmVodGtPdU1jWFlsV1dVOTRuZ0trcWVtTDBnUENvVmhsak51aVNKbUxkek5SakVKRm1nVG8tNF9qZnRTV2JhT0ZjTF9GRlBvREJDREFIb0hJRnpRYjZLX0FUQjVkbHJoajJmX0FaRW40VUlVVmtqT3VESVBUY1p0N0tuRlFOaWlOTmdnV1pleDhrSDlVYnZDUTd2X210bTBaMmlqcmc?oc=5)
+
+---
+
+### [NHS England on track to miss key cancer treatment target by 10,000 patients - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEZZVlhXS0dUN1dTWlJKUTBXVXJfdklCUExPbGdZTmxTcTV2R2lFNWY4d3B2VUpTaUlxaFN5OXJUWW8xdUJOY2JabGVmNTh5MGtHLUYwUXdMZXVzRzZYcGVPTTA5dGRHcWU2S2ZPejd2UVMxMGt2MnJybS03bHBzM1EydzJ2OUlTRVB4c000TjZoNjc5Y2lPZGYyUGNVOV9BQ2JHNTh3ZmxtZzZu?oc=5)
+
+2026-11-16
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEZZVlhXS0dUN1dTWlJKUTBXVXJfdklCUExPbGdZTmxTcTV2R2lFNWY4d3B2VUpTaUlxaFN5OXJUWW8xdUJOY2JabGVmNTh5MGtHLUYwUXdMZXVzRzZYcGVPTTA5dGRHcWU2S2ZPejd2UVMxMGt2MnJybS03bHBzM1EydzJ2OUlTRVB4c000TjZoNjc5Y2lPZGYyUGNVOV9BQ2JHNTh3ZmxtZzZu?oc=5)
+
+---
+
+### [Cancer 'sponge' tests could be offered to more people with bad indigestion](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mOGxuaTRCem1KdUNEazJ3eDB6TjB5bFk5TWtRZkZwR3d0TUk5LXJUSENsaVVvR0FTbTlkOFdHSlcyWjUzY3JtOXZnd3hQOWJUZXZsRkhEVW1WYkxmMFE?oc=5)
+
+2026-11-16
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mOGxuaTRCem1KdUNEazJ3eDB6TjB5bFk5TWtRZkZwR3d0TUk5LXJUSENsaVVvR0FTbTlkOFdHSlcyWjUzY3JtOXZnd3hQOWJUZXZsRkhEVW1WYkxmMFE?oc=5)
+
+---
 
 ### ["Io non aspetto": campagna per la prevenzione del tumore al colon retto](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX0lMM2V4aXQwVGdnYThHc29yajBCUXJ4YjIwLXZyRWh5cWtZRDYxQkk5ZHZhbERVakF0VXVNTFpPRmZ6ZlJWTlFWRnlzSm9OT2ZKYVZPSktYdUNhZVBrOWE2T0J4M3dUcU5rYXRPUHBQNkZXNkVHTW1YQmpicDJ1bFFpZjVIbzZHWjQyYW1mMjFHdmQzLWs5VG8zUDJaSnc4ZGtLMVdERGtMczQ?oc=5)
 
@@ -312,11 +386,11 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaFc
 
 ---
 
-### [NHS England on track to miss key cancer treatment target by 10,000 patients - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEZZVlhXS0dUN1dTWlJKUTBXVXJfdklCUExPbGdZTmxTcTV2R2lFNWY4d3B2VUpTaUlxaFN5OXJUWW8xdUJOY2JabGVmNTh5MGtHLUYwUXdMZXVzRzZYcGVPTTA5dGRHcWU2S2ZPejd2UVMxMGt2MnJybS03bHBzM1EydzJ2OUlTRVB4c000TjZoNjc5Y2lPZGYyUGNVOV9BQ2JHNTh3ZmxtZzZu?oc=5)
+### [Il 40 per cento dei tumori scoperti in pronto soccorso: i controlli da fare quando si sta bene](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNFIyNmNpMDd3b3V4UWJENzM3eVRZdmZRc2dhMTJFRjRyNGNJOWhqblp6TGNvWFVIaDc2MndKbDhHcGJNSGZlUnlmdHQ5V0ZfZXBhZXowRjZjUk5uUUVrVG5FcTF1d2dQNGk2anFLVWd0ZjJkLXY2Zm0yLVFlUHVJZWNLYlZ6cFJMbVVSQXM1SF9QOVFMVTFjUHJPZkZ3Z29mR2FsSkN6N2w3X21tUWFQQzIxcjYxNFg4OTZnUHFvTjV3TllqMnZzRy1vSmtKd0NQcHI3ZTQwR1AxZy1YR1YxTHVMQVBfLXlI?oc=5)
 
 2026-11-14
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEZZVlhXS0dUN1dTWlJKUTBXVXJfdklCUExPbGdZTmxTcTV2R2lFNWY4d3B2VUpTaUlxaFN5OXJUWW8xdUJOY2JabGVmNTh5MGtHLUYwUXdMZXVzRzZYcGVPTTA5dGRHcWU2S2ZPejd2UVMxMGt2MnJybS03bHBzM1EydzJ2OUlTRVB4c000TjZoNjc5Y2lPZGYyUGNVOV9BQ2JHNTh3ZmxtZzZu?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNFIyNmNpMDd3b3V4UWJENzM3eVRZdmZRc2dhMTJFRjRyNGNJOWhqblp6TGNvWFVIaDc2MndKbDhHcGJNSGZlUnlmdHQ5V0ZfZXBhZXowRjZjUk5uUUVrVG5FcTF1d2dQNGk2anFLVWd0ZjJkLXY2Zm0yLVFlUHVJZWNLYlZ6cFJMbVVSQXM1SF9QOVFMVTFjUHJPZkZ3Z29mR2FsSkN6N2w3X21tUWFQQzIxcjYxNFg4OTZnUHFvTjV3TllqMnZzRy1vSmtKd0NQcHI3ZTQwR1AxZy1YR1YxTHVMQVBfLXlI?oc=5)
 
 ---
 
@@ -384,11 +458,27 @@ Source: [Cureus](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JmalhLZE
 
 ---
 
+### [Statine bei Brustkrebs: Überlebensvorteil je nach Subtyp](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdTZUWDItdzlkUzFiT3NCYnNGWk5qdmtIOFJWbTI0cldNWlRjTC16Q2liV0lPLXdlUm5laWVsMkFUeWdod2pjdWR2MVd4Y0xMekNyM1RWaGU2QTdocFVMU281RzY2WnFPS0duRzhsOEI1eWRkNVBMTWVnZEI3ZmtIcHVJa3Y1VUdUb2FfOEUwZWVpZlNVRTk0X0dTemgyZGYzaGtBWWxpSC1vamNqcGN2T2tEM0JZeng5X19EZzZjX2F0cVM3dG5meEIzNkViTkR3eTNXTUU3SUY?oc=5)
+
+2026-11-13
+
+Source: [esanum](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdTZUWDItdzlkUzFiT3NCYnNGWk5qdmtIOFJWbTI0cldNWlRjTC16Q2liV0lPLXdlUm5laWVsMkFUeWdod2pjdWR2MVd4Y0xMekNyM1RWaGU2QTdocFVMU281RzY2WnFPS0duRzhsOEI1eWRkNVBMTWVnZEI3ZmtIcHVJa3Y1VUdUb2FfOEUwZWVpZlNVRTk0X0dTemgyZGYzaGtBWWxpSC1vamNqcGN2T2tEM0JZeng5X19EZzZjX2F0cVM3dG5meEIzNkViTkR3eTNXTUU3SUY?oc=5)
+
+---
+
 ### [Hoffnung für Frauen mit hohem Risiko: Neuer Blutmarker könnte die Vorsorge bei Eierstockkrebs verändern](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUW5oQTdCdmVlWVNHTmp3UzNLNjZqVVZDUU5UQ3dESDJXTV9HNi11WnZ2Q05kcmJaWjV3TkF2UkxqajVFTjJyUkhKYWcwZ2FCTE42dUpzMFRycmY5Y2FjYll0SG1kVl92VDFUMVJERTRPQVZPZC1lTmI2d3kwdjc1UXgyUkdTMEl5SGQ4SkFtbmhUMjZWN3haTFpzZ3F1eTMxb3E5MDdIM1lKTWZ2cmtZaFo1YXNBSUhFaGhGbGIzU1RXVzRSUXpWOQ?oc=5)
 
 2026-11-13
 
 Source: [24rhein](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUW5oQTdCdmVlWVNHTmp3UzNLNjZqVVZDUU5UQ3dESDJXTV9HNi11WnZ2Q05kcmJaWjV3TkF2UkxqajVFTjJyUkhKYWcwZ2FCTE42dUpzMFRycmY5Y2FjYll0SG1kVl92VDFUMVJERTRPQVZPZC1lTmI2d3kwdjc1UXgyUkdTMEl5SGQ4SkFtbmhUMjZWN3haTFpzZ3F1eTMxb3E5MDdIM1lKTWZ2cmtZaFo1YXNBSUhFaGhGbGIzU1RXVzRSUXpWOQ?oc=5)
+
+---
+
+### [Leucemia linfoblastica acuta, le nuove cure e le storie di chi affronta la malattia - Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95cUxQaEJoQmFYcG92QmNGYkxjMWFxTVF0Q2d6eDFNU0NtTWVuN3FVYkRvS1F0OFJoT3BremhMR3JBTm1HRkRoQTRqX191bVNhUERqd3Z0TFo0Vzd6ZXo0U0xldnJVU2J0bExlZWRMN2h1NVNFS19PXzRSTm1QUXItR1hCMDM0WnBaUHg0eFpmRHBLVkFLSjNZZWZEQjFSNDdXakJjclo3b0JOQmVISTdHYlhLR3NEUE80NnRPNHZvSjhHdlJrS3BLRV9sOGs0N05RclVEVVAyNkVZSnBoSlZfaDlVNjkyQzQ5dTZ1cTNONEZvRGNBMm41YVRBUWItXzltZUpOWEZXT1NpZGRZcWNrV19iMHRWQmlFR1luN0HSAZ8CQVVfeXFMTVdZcXU3ZVRad3NaY2JXNC1oQlpIRzRPMWhnVk5pNUhjcm0zNWttXy1HQnk1eklvUTI0bXZsVWNoa2YxdVVCRUhxVWdESjlpVnZtbFFPNFRxcmh3b1FYQU5aU1BIamZsY2pzZnFuaGVQZEhDRDAzV1lpaFIxbzhxUm9WWnM2UW5kZ1V4Mi1ObV9yQjVHWU94cmtIeFl2Q29MdEVxTDdFaVh5c2FKTHJqLTFhaWNOdXhiVFBScFlHWVZpdG5qZ1VIYWtMdG5ERWRKY3g0dUpZcG5YNkQ0NkFldmQyaTlCU0xVRmc0eGhqZHp4WFJ2V1d2bW9EU1BQdktHUUNqQXE5R3lQRm9xQjBSc1BKQWxKNmN4R1c1eEk5eDg?oc=5)
+
+2026-11-13
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95cUxQaEJoQmFYcG92QmNGYkxjMWFxTVF0Q2d6eDFNU0NtTWVuN3FVYkRvS1F0OFJoT3BremhMR3JBTm1HRkRoQTRqX191bVNhUERqd3Z0TFo0Vzd6ZXo0U0xldnJVU2J0bExlZWRMN2h1NVNFS19PXzRSTm1QUXItR1hCMDM0WnBaUHg0eFpmRHBLVkFLSjNZZWZEQjFSNDdXakJjclo3b0JOQmVISTdHYlhLR3NEUE80NnRPNHZvSjhHdlJrS3BLRV9sOGs0N05RclVEVVAyNkVZSnBoSlZfaDlVNjkyQzQ5dTZ1cTNONEZvRGNBMm41YVRBUWItXzltZUpOWEZXT1NpZGRZcWNrV19iMHRWQmlFR1luN0HSAZ8CQVVfeXFMTVdZcXU3ZVRad3NaY2JXNC1oQlpIRzRPMWhnVk5pNUhjcm0zNWttXy1HQnk1eklvUTI0bXZsVWNoa2YxdVVCRUhxVWdESjlpVnZtbFFPNFRxcmh3b1FYQU5aU1BIamZsY2pzZnFuaGVQZEhDRDAzV1lpaFIxbzhxUm9WWnM2UW5kZ1V4Mi1ObV9yQjVHWU94cmtIeFl2Q29MdEVxTDdFaVh5c2FKTHJqLTFhaWNOdXhiVFBScFlHWVZpdG5qZ1VIYWtMdG5ERWRKY3g0dUpZcG5YNkQ0NkFldmQyaTlCU0xVRmc0eGhqZHp4WFJ2V1d2bW9EU1BQdktHUUNqQXE5R3lQRm9xQjBSc1BKQWxKNmN4R1c1eEk5eDg?oc=5)
 
 ---
 

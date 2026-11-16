@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about ipertensione (hypertension). 49 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # ipertensione (hypertension) News
@@ -34,6 +34,7 @@ This page brings together the latest health news about “ipertensione” and li
 <li><a href="{{ '/drugs/apremilast/' | relative_url }}">Apremilast</a></li>
 <li><a href="{{ '/drugs/aprepitant/' | relative_url }}">Aprepitant</a></li>
 <li><a href="{{ '/drugs/deferiprone/' | relative_url }}">Deferiprone</a></li>
+<li><a href="{{ '/drugs/dexmedetomidine/' | relative_url }}">Dexmedetomidine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/entrectinib/' | relative_url }}">Entrectinib</a></li>
 <li><a href="{{ '/drugs/erdafitinib/' | relative_url }}">Erdafitinib</a></li>
 <li><a href="{{ '/drugs/febuxostat/' | relative_url }}">Febuxostat</a></li>
@@ -54,6 +55,7 @@ This page brings together the latest health news about “ipertensione” and li
 <li><a href="{{ '/drugs/tadalafil/' | relative_url }}">Tadalafil</a></li>
 <li><a href="{{ '/drugs/telmisartan/' | relative_url }}">Telmisartan</a></li>
 <li><a href="{{ '/drugs/timolol/' | relative_url }}">Timolol</a></li>
+<li><a href="{{ '/drugs/treprostinil/' | relative_url }}">Treprostinil Sodium</a></li>
 <li><a href="{{ '/drugs/tucatinib/' | relative_url }}">Tucatinib</a></li>
 <li><a href="{{ '/drugs/valsartan/' | relative_url }}">Valsartan</a></li>
 <li><a href="{{ '/drugs/varenicline/' | relative_url }}">Varenicline</a></li>

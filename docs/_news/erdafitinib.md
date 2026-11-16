@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Erdafitinib. 6 predicted indications."
 permalink: /news/erdafitinib/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Erdafitinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Erdafitinib?">
-<strong>Erdafitinib</strong> currently has <strong>81 news articles</strong>, with 6 predicted indications.
+<strong>Erdafitinib</strong> currently has <strong>82 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Erdafitinib with the latest 
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (81)
+## Related News (82)
+
+### [Qué es el erdafitinib, el medicamento contra el cáncer que algunos adolescentes toman para crecer - National Geographic España](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUdfS2J1ZGZkempKa3NfUkEtTGEyUDlJaFRQeWNCNHk2RjQ5WlVIeDVOemd4Y0dwZzQxemVVZ0tHT0E1ejlRSTlLNjZxUml0VTJnNDg4QWdUM0lZTlVPT1lQeUZ1djMwSkYwTUxBNDNDNUFidS1aZUtaaEJmcTJnTkJSMmhXUzlHVG4tYlVzSnM2T3ZiaHd5S1doOWlObElGU0dURlYxYVFNWFJiQWJuc2pwZlhmM1ZLSEpWUW9ZU3F1QXcw?oc=5)
+
+2026-11-16 <span class="news-drug-tag">Erdafitinib</span>
+
+Source: [National Geographic España](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUdfS2J1ZGZkempKa3NfUkEtTGEyUDlJaFRQeWNCNHk2RjQ5WlVIeDVOemd4Y0dwZzQxemVVZ0tHT0E1ejlRSTlLNjZxUml0VTJnNDg4QWdUM0lZTlVPT1lQeUZ1djMwSkYwTUxBNDNDNUFidS1aZUtaaEJmcTJnTkJSMmhXUzlHVG4tYlVzSnM2T3ZiaHd5S1doOWlObElGU0dURlYxYVFNWFJiQWJuc2pwZlhmM1ZLSEpWUW9ZU3F1QXcw?oc=5)
+
+---
 
 ### [Pressione alta: si controlla poco. Farlo, eviterebbe infarti e ictus, ma anche danni ai reni e disfunzione erettile - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxPaG1weGszY3oxYlVhbWpqYkJxOEpRai1WQXFFZDlCZC1ScC1xUGsxNUdPbURxVE1tOGZNYlgyb2YzRDMzU0tRRU1fekNBbWZNYW92S3FYeVhiNnJ6TkNqbzRTSW5IM0ZmN2wtV0hZLVB3bFdIYUU3Sl96YXp3R0hjMXE3SV95ejVtNmJFYlNLS0RSaUs3VExwTExpNjNxd0pYdVFwLTFtcXpoOUxXNjZUVkNiWXRmdFVXbVZiWlhHd3E5NFcyRnBpREMzcm5YY1ZJNklHSFZKbEFKeV9rODNhZ3ltMXZDVm5NSVdvMUw4NHpMWUNYR1haVW90UUhXN3VoUTM3cjVSd19PX3YxRTJkQzh1ZTNaQXZ2RTgzZnVHQTBMdFJYQnZDaHhxRmF4M0Q4RlYwaWVJNi1jazF2aVdlVNIBxgJBVV95cUxNV1hqSW1yYkRCZDNKY1lDZFdGZlBhc3FxRk1CYWJOdC1GZnNjUWlUWnVaMTFYdHZNbXlQdG9LX0lzemkwYV80RlQ3VzZRTk1ucjRuYlh6SUFScUJmN1k5emxXX0ZfMkpyQ1JYNVhyY0tERFdwRWVjSjdLbWJ5TFdKRDBLSVQ5NWMyUFJnSjlPaTl2SlZxdWNCZkxWcXpBYjFidnZJa1NSUmNPNjA2d1AwVzM4ellSdmRjMlV3UV8xcjF4WndxZHRVVjJBaUpXYlh0ajVxOWtrVlBlYTNSM09FaHg5dlBIYThjS201TjNHWDJueEtWcFYwSjNGdlZfRWpjMzgxZDRWQnhUMnBIXzBhT2p5cndvQm9sM2ZEY1JQdkJjZm1maFA0V2VCeVhFdGNYc1FQUDFUYzc2ZjFGUE1oV1JvMHdoZw?oc=5)
 

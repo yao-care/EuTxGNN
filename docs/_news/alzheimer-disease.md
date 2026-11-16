@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "maladie d'Alzheimer (alzheimer disease) News"
+title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about maladie d'Alzheimer (alzheimer disease). 40 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 43 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
-# maladie d'Alzheimer (alzheimer disease) News
+# dementia (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about maladie d'Alzheimer (alzheimer disease)?">
-<strong>maladie d'Alzheimer (alzheimer disease)</strong> currently has <strong>40 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
+<strong>dementia (alzheimer disease)</strong> currently has <strong>43 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “maladie d'Alzheimer” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -30,6 +30,7 @@ This page brings together the latest health news about “maladie d'Alzheimer”
 <li><a href="{{ '/drugs/carbidopa/' | relative_url }}">Carbidopa</a></li>
 <li><a href="{{ '/drugs/ceritinib/' | relative_url }}">Ceritinib</a></li>
 <li><a href="{{ '/drugs/crizotinib/' | relative_url }}">Crizotinib</a></li>
+<li><a href="{{ '/drugs/dasatinib/' | relative_url }}">Dasatinib Monohydrate</a></li>
 <li><a href="{{ '/drugs/entacapone/' | relative_url }}">Entacapone</a></li>
 <li><a href="{{ '/drugs/erlotinib/' | relative_url }}">Erlotinib</a></li>
 <li><a href="{{ '/drugs/gefitinib/' | relative_url }}">Gefitinib</a></li>
@@ -43,13 +44,29 @@ This page brings together the latest health news about “maladie d'Alzheimer”
 </ul>
 </div>
 
-## Related News (40)
+## Related News (43)
+
+### [The two-minute habits that prevent dementia - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPekY0d0VjTGZucWhwZ2ZMVE5ybDdueDJ5TF9ZOUp4RHZ4enI2emNNek1IcmdzZXFUX29DZ0JTWDI1SmFxejg5cGxjemtoV2NvU2pkU1N6ajRfX2M4RlBQMlh1ZjhocWgtVHZiQXdNTW1TYmdQYktXUGFWdnAtcXV0bHFRWE9NMDVtUEQycURDYlNwZzlmclEtX2h1XzU0WnpiSWhPdzZR?oc=5)
+
+2026-11-16
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPekY0d0VjTGZucWhwZ2ZMVE5ybDdueDJ5TF9ZOUp4RHZ4enI2emNNek1IcmdzZXFUX29DZ0JTWDI1SmFxejg5cGxjemtoV2NvU2pkU1N6ajRfX2M4RlBQMlh1ZjhocWgtVHZiQXdNTW1TYmdQYktXUGFWdnAtcXV0bHFRWE9NMDVtUEQycURDYlNwZzlmclEtX2h1XzU0WnpiSWhPdzZR?oc=5)
+
+---
 
 ### [Témoignage. Covid long : « C’est comme si le cerveau marchait au ralenti », même cinq ans après la maladie - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZC1WWWF6d1dwZnFHakllQ3BiUE1WTE4taHpuWFJILS1RTTdBTEJPS3k3NzF3b05Qb0pNWENfZmFrbjcwaWtvLXNkZ21kSVBKRUgwaGRKNmtlVmdXRmtkeW5wT2NJNUdNSnJ2R0FkNXBjcDhkeTNjUHpnMzd3aExTb0NUMDVJNWdhU3JtT1cxVXFNZ0dIbEFzQkU2SnBRd3NGZG54SnV6M210U2lRNWpTTzVXaGRfWGZpWnhDMWRrc2VfbDYycV9nc0VVTQ?oc=5)
 
 2026-11-15
 
 Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZC1WWWF6d1dwZnFHakllQ3BiUE1WTE4taHpuWFJILS1RTTdBTEJPS3k3NzF3b05Qb0pNWENfZmFrbjcwaWtvLXNkZ21kSVBKRUgwaGRKNmtlVmdXRmtkeW5wT2NJNUdNSnJ2R0FkNXBjcDhkeTNjUHpnMzd3aExTb0NUMDVJNWdhU3JtT1cxVXFNZ0dIbEFzQkU2SnBRd3NGZG54SnV6M210U2lRNWpTTzVXaGRfWGZpWnhDMWRrc2VfbDYycV9nc0VVTQ?oc=5)
+
+---
+
+### [Exact blood pressure reading that puts you at risk of vision loss and dementia - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
+
+2026-11-15
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 
 ---
 
@@ -130,6 +147,14 @@ Source: [ChietiToday](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMDRnM
 2026-11-13
 
 Source: [Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZzhLX0lCYUd1V0lMWUFyUVdzRVZ2R0RHV1pXOU5DaTdNZHp2SkRKdUtkelFzckFLeTYyV3JPbU01TXgwbTlPTVVzWEFnSVVWeF96QmdWenNiV3ZiV09CX2p5QkRuSUFvc0RRV2d1aFI5OGRQYk9GSzJ1REdDRU5aUlB30gGHAUFVX3lxTE5jN3htaDFBS05fNXdDLVhxMEtkdUlSdVh4cVo4NHpHN1FCZlJReDB1WHdRU3BPaDlRc2V0dlNtYXQtZy1uSFlMNTk3X0FSUmlScFJwS191MDNtc19vV2R3aGlYRWxzRlBHM2ljMmFSNmUtVi1QQnlzNjQ2WXVLR0hLa0F5LW5kZw?oc=5)
+
+---
+
+### [David Cameron on Living With Brexit and Ending Alzheimer’s](https://news.google.com/rss/articles/CBMifEFVX3lxTE5tVFlCTVZJcEFXRTBxRlNvMXZ4dTJXSWhmRENwalZ3TFp3UXVWVlllbUZtaGdqWWl4c2FaRy1kQlBZZlhlcUxwbTZwbm5NSThMSjdFY3ZSMUh4UVFDTC1OcTlfZElzenFMQ2N3TGdlWjVDcFRpemZqa3otQkU?oc=5)
+
+2026-11-13
+
+Source: [Bloomberg.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE5tVFlCTVZJcEFXRTBxRlNvMXZ4dTJXSWhmRENwalZ3TFp3UXVWVlllbUZtaGdqWWl4c2FaRy1kQlBZZlhlcUxwbTZwbm5NSThMSjdFY3ZSMUh4UVFDTC1OcTlfZElzenFMQ2N3TGdlWjVDcFRpemZqa3otQkU?oc=5)
 
 ---
 

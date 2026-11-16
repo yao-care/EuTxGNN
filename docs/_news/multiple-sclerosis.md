@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about sclerosi multipla (multiple sclerosis). 12 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-16
 ---
 
 # sclerosi multipla (multiple sclerosis) News
@@ -27,6 +27,7 @@ This page brings together the latest health news about “sclerosi multipla” a
 <p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
 <li><a href="{{ '/drugs/alemtuzumab/' | relative_url }}">Alemtuzumab</a></li>
+<li><a href="{{ '/drugs/asenapine/' | relative_url }}">Asenapine Maleate</a></li>
 <li><a href="{{ '/drugs/belatacept/' | relative_url }}">Belatacept</a></li>
 <li><a href="{{ '/drugs/cladribine/' | relative_url }}">Cladribine</a></li>
 <li><a href="{{ '/drugs/elbasvir/' | relative_url }}">Elbasvir</a></li>

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tirzepatide. 0 predicted indications."
 permalink: /news/tirzepatide/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Tirzepatide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>29 news articles</strong>, with 0 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>31 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (29)
+## Related News (31)
+
+### [After a GLP-1: Which Exit Strategy Keeps the Weight Off?](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWUxNDgtRWhra09wVzdzZ25mZkFJX3lwSTFoazZhcmdSZXdfQTBWbTgwTE13SVZpVWdkTWpKZVZnMlZpWHpCS2JrcTM3QUVYU3M1X1FzTU8xdkViQVdseWdJTDg2bzJoUmQ5alIwWlBXSk5zVFY5SHVKUTVZZDh5OHp5endWVE5QQmhyR1ltR3VtVFFqN0VhNjR3?oc=5)
+
+2026-11-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWUxNDgtRWhra09wVzdzZ25mZkFJX3lwSTFoazZhcmdSZXdfQTBWbTgwTE13SVZpVWdkTWpKZVZnMlZpWHpCS2JrcTM3QUVYU3M1X1FzTU8xdkViQVdseWdJTDg2bzJoUmQ5alIwWlBXSk5zVFY5SHVKUTVZZDh5OHp5endWVE5QQmhyR1ltR3VtVFFqN0VhNjR3?oc=5)
+
+---
+
+### [Obésité : hors critères de la Sécu, Wegovy coûte plus de 2 300 € par an, et seule une bonne mutuelle en rembourse un peu](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdy03N0dfNVFpSjhqVWFRczdZTjBaRXo2RGg1UXhIbi1sQ0V6SzFNQjk0cm9WYWhGd1JfalNYM3JMYkczdzkycE81dmdJbUJWd0tHRllrMTdWTnFaekh1S0QtSzNFVUZWcWFyYmdRYkstTTJhXzVJUDhUV1NSaFhBbXJEY2pFT1pKZGpUWHY1anVZNV9sVlVZQUtWU3hYaWs2R3RMVWhzXzFvVElDd3RTVEdIblU?oc=5)
+
+2026-11-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdy03N0dfNVFpSjhqVWFRczdZTjBaRXo2RGg1UXhIbi1sQ0V6SzFNQjk0cm9WYWhGd1JfalNYM3JMYkczdzkycE81dmdJbUJWd0tHRllrMTdWTnFaekh1S0QtSzNFVUZWcWFyYmdRYkstTTJhXzVJUDhUV1NSaFhBbXJEY2pFT1pKZGpUWHY1anVZNV9sVlVZQUtWU3hYaWs2R3RMVWhzXzFvVElDd3RTVEdIblU?oc=5)
+
+---
 
 ### [AVC, Addiction… : les nouveaux horizons thérapeutiques des médicaments anti-obésité - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
 

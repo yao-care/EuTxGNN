@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Naltrexone. 0 predicted indications."
 permalink: /news/naltrexone/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Naltrexone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>100 news articles</strong>, with 0 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>104 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (100)
+## Related News (104)
+
+### [Colocarán etiquetas con advertencia sobre efectos adversos en medicamentos contra la obesidad - Los Angeles Times](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUZ4YXhlYjZucjRpbHctSFdpaE5MUFVhamhoNzVranRRV25SbWFJcUVDRmY3cjNOa0NlZ09uY1U3R3RodTEwZTRVTFdDN0J0ek85dG9XZVdMdmJWZUlFSWRCVS1wbTF4TkZaXzhJRWZfN1dLa3pFS0ZTcTlzMTEyaTczck5tZlpFMmt5YmpRYnotUGtBMnlCWFctNFBKYU1zYm03X2NNbXgwczRkc29CeXJOYVg1OERwN3N6Xy1vQTRVVGNKZ3djbHBFN2xNVURTcFNUcU50dnJHVW05czNDVFhRMmk?oc=5)
+
+2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Los Angeles Times](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUZ4YXhlYjZucjRpbHctSFdpaE5MUFVhamhoNzVranRRV25SbWFJcUVDRmY3cjNOa0NlZ09uY1U3R3RodTEwZTRVTFdDN0J0ek85dG9XZVdMdmJWZUlFSWRCVS1wbTF4TkZaXzhJRWZfN1dLa3pFS0ZTcTlzMTEyaTczck5tZlpFMmt5YmpRYnotUGtBMnlCWFctNFBKYU1zYm03X2NNbXgwczRkc29CeXJOYVg1OERwN3N6Xy1vQTRVVGNKZ3djbHBFN2xNVURTcFNUcU50dnJHVW05czNDVFhRMmk?oc=5)
+
+---
+
+### [Milano, i «furbetti» dei farmaci (gratis) per dimagrire: presentavano ricette anti-obesità pur non essendo diabetici. La Regione stana 2.800 finti pazienti - Corriere Milano](https://news.google.com/rss/articles/CBMizAJBVV95cUxOWUVqa3Q3Unh5N3gyWWlveXdUX2NaaEZ3aWlROHV2bUhENGFkeGR2V3c3UnNaaVl0UWtuMi1Zd2stcllJLVNlZlM4ZmZNeHljdk12VVJYVDJGTl9XT3RPRjZZbkJVOHJCU1VoWi1LMzBFTzJPTG1KS2dlYXRUUEdLS2VlbmhObVJfenBHZ0tKbm1kVlBjakdLY29SdjBYaXltOU1heU9tUjZkNmtvaWVpZ0dzdHZDQlRuZkJfNjdGc3ZJLVRGcmtKTnJyRWozT3Z0WWxOOW11SE1mbTlFWVdWX3BDSmc4anF1VEVTMmpWSm9ob3dROF9GZ0VJQkFzeUV2cGpzZE5OeXE1eTFQMFN4bFdmTTc5OFZtSWFOMWZ5dmJCNG9lODNwZTBRQVE1ZmtNR3N6cjZSX0twSS11ZU9XRDE4aS1tbFhDWW1RMNIB0gJBVV95cUxQNF9TLVVIc2RvVXB2T2xzOTRKSzlEZEtNTlo5RU1CNFpqbWN2dER5YVh0THphZ0YtRVIyaGx0Skt4bUx5N1hPUW83R3hEdl9yNkpyTWxXbllWVUd2SE1SMGNjblI0bkNKSVZFNzltRWFIMjNvTWtOamJsbmV4QnkxdENYUmg0Z0JuVVoxLUVyVUduclhkOVdscFU2X04ydVdIZGF1eVdQaDVySE0tRF9hclJKNml5c1BuTFNHMy1IRmJsOWpRMGZoSWlZQl9SUzVucmJPbzRGR1Q3VEgxOFpidHV6cDFWeW02NWo1QWNNc2hOZEVkX2pNYnlNZTFPYXl2aDY4UWtPN2s5N3F2SER4ZFhyblFyQ29TMWZWTjJYYThXeVgxbDlFZlNzWmpnd3llR0s5RHlLVExwOFp4SF9RcjBFZkZQWnloZzhpMlJmeFB2Zw?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Corriere Milano](https://news.google.com/rss/articles/CBMizAJBVV95cUxOWUVqa3Q3Unh5N3gyWWlveXdUX2NaaEZ3aWlROHV2bUhENGFkeGR2V3c3UnNaaVl0UWtuMi1Zd2stcllJLVNlZlM4ZmZNeHljdk12VVJYVDJGTl9XT3RPRjZZbkJVOHJCU1VoWi1LMzBFTzJPTG1KS2dlYXRUUEdLS2VlbmhObVJfenBHZ0tKbm1kVlBjakdLY29SdjBYaXltOU1heU9tUjZkNmtvaWVpZ0dzdHZDQlRuZkJfNjdGc3ZJLVRGcmtKTnJyRWozT3Z0WWxOOW11SE1mbTlFWVdWX3BDSmc4anF1VEVTMmpWSm9ob3dROF9GZ0VJQkFzeUV2cGpzZE5OeXE1eTFQMFN4bFdmTTc5OFZtSWFOMWZ5dmJCNG9lODNwZTBRQVE1ZmtNR3N6cjZSX0twSS11ZU9XRDE4aS1tbFhDWW1RMNIB0gJBVV95cUxQNF9TLVVIc2RvVXB2T2xzOTRKSzlEZEtNTlo5RU1CNFpqbWN2dER5YVh0THphZ0YtRVIyaGx0Skt4bUx5N1hPUW83R3hEdl9yNkpyTWxXbllWVUd2SE1SMGNjblI0bkNKSVZFNzltRWFIMjNvTWtOamJsbmV4QnkxdENYUmg0Z0JuVVoxLUVyVUduclhkOVdscFU2X04ydVdIZGF1eVdQaDVySE0tRF9hclJKNml5c1BuTFNHMy1IRmJsOWpRMGZoSWlZQl9SUzVucmJPbzRGR1Q3VEgxOFpidHV6cDFWeW02NWo1QWNNc2hOZEVkX2pNYnlNZTFPYXl2aDY4UWtPN2s5N3F2SER4ZFhyblFyQ29TMWZWTjJYYThXeVgxbDlFZlNzWmpnd3llR0s5RHlLVExwOFp4SF9RcjBFZkZQWnloZzhpMlJmeFB2Zw?oc=5)
+
+---
 
 ### [Más allá de perder peso: los fármacos antiobesidad apuntan a la salud general - KISS FM](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDlxYzh3WnIzcldhY25CaGFjd25pUG81OHhienJMa2wxMV9zS2pVY0s3ZFZwcmhhenFMd25DY0h6N0ZGMDA5UEx4WV91VmN1Tk9qaGU4Rzh6YXBINVVCbFhvNXEtY3BGa3N0NVJVamdxamZIVHhpUkF0XzJGT2tjOGI4VlNIX3ViVVQ4TUNrTDBYSTNRTVdJVFhBREs0aW55OUpacDdFSEFtOW11WlNR?oc=5)
 
@@ -45,6 +61,14 @@ Source: [KISS FM](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDlxYzh3W
 2026-11-14 <span class="news-indication-tag">obesidad</span>
 
 Source: [https://fomoera.com/](https://news.google.com/rss/articles/CBMib0FVX3lxTE8zLXJ2ajJjNHZuUnIxZ3M0Q2ZaUklUQ1EwMWNQM3dOMXNsdWhSdWJuaGItYk5lTHBCY0pZNm1YNGFwX0RHcnI5SEhTcTVUR1Q0U2FQX2ItVU43U180Tzlxay1YZ012VjVLdTNTLUNVRQ?oc=5)
+
+---
+
+### [Obésité : hors critères de la Sécu, Wegovy coûte plus de 2 300 € par an, et seule une bonne mutuelle en rembourse un peu](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdy03N0dfNVFpSjhqVWFRczdZTjBaRXo2RGg1UXhIbi1sQ0V6SzFNQjk0cm9WYWhGd1JfalNYM3JMYkczdzkycE81dmdJbUJWd0tHRllrMTdWTnFaekh1S0QtSzNFVUZWcWFyYmdRYkstTTJhXzVJUDhUV1NSaFhBbXJEY2pFT1pKZGpUWHY1anVZNV9sVlVZQUtWU3hYaWs2R3RMVWhzXzFvVElDd3RTVEdIblU?oc=5)
+
+2026-11-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdy03N0dfNVFpSjhqVWFRczdZTjBaRXo2RGg1UXhIbi1sQ0V6SzFNQjk0cm9WYWhGd1JfalNYM3JMYkczdzkycE81dmdJbUJWd0tHRllrMTdWTnFaekh1S0QtSzNFVUZWcWFyYmdRYkstTTJhXzVJUDhUV1NSaFhBbXJEY2pFT1pKZGpUWHY1anVZNV9sVlVZQUtWU3hYaWs2R3RMVWhzXzFvVElDd3RTVEdIblU?oc=5)
 
 ---
 
@@ -285,6 +309,14 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95c
 2026-11-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Open](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk9PUHRoakdWN2stbTlTV1NZX2tOY2tzdUFSM0lXSFlYRkdURnJWdHBSUy01bzl4N2JPUURHX1Z2UGZ4NGI3VEZXWnRlel9aQWdQcFNjYUwzN2ZZcXBzT2FVeVRYN09lcmdDTWU3Q1dCZ3FDXzZWWGhtc1MzYkFwMkNSUXZUVW9HTzFpZzdEbDlCdWc?oc=5)
+
+---
+
+### [Krankhaftes Übergewicht: Adipositaszentrum der Westküstenkliniken lädt zum Informationsnachmittag ein - WKK Heide](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN2ZLREw5Q3I4aER5MkdNRnhxNFJEY0lQM295RVFfVHd1TWNkNWhFREZIWHAzdU1Vdk55WU5qTEstM1hwWEhiczAxbGQ0UFNTdVV3Mlp6TU1jSkcxeWZvM1BmVzY4ZGJTT3VxWXRsWlU4Wng5cWFNaW1EeURHSk00am1DbU1haks5aWFqSnlqX1NhaHJvWFJ3Mm9CQy1jTDBJSWtndzZZakg1N2RIeFFIbk5xbzRjMTE5bWxJOWxhcXlGd0g1ZGl3ekVpczFrd2x5RlVBdjFLNDBiVFQyNUN4a0Z6OEc0dw?oc=5)
+
+2026-11-11 <span class="news-indication-tag">Adipositas</span>
+
+Source: [WKK Heide](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN2ZLREw5Q3I4aER5MkdNRnhxNFJEY0lQM295RVFfVHd1TWNkNWhFREZIWHAzdU1Vdk55WU5qTEstM1hwWEhiczAxbGQ0UFNTdVV3Mlp6TU1jSkcxeWZvM1BmVzY4ZGJTT3VxWXRsWlU4Wng5cWFNaW1EeURHSk00am1DbU1haks5aWFqSnlqX1NhaHJvWFJ3Mm9CQy1jTDBJSWtndzZZakg1N2RIeFFIbk5xbzRjMTE5bWxJOWxhcXlGd0g1ZGl3ekVpczFrd2x5RlVBdjFLNDBiVFQyNUN4a0Z6OEc0dw?oc=5)
 
 ---
 

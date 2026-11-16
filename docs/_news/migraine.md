@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about migraña (migraine). 6 articles, 49 related drugs."
 permalink: /news/migraine/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # migraña (migraine) News
@@ -30,6 +30,8 @@ This page brings together the latest health news about “migraña” and lists 
 <li><a href="{{ '/drugs/alpelisib/' | relative_url }}">Alpelisib</a></li>
 <li><a href="{{ '/drugs/apixaban/' | relative_url }}">Apixaban</a></li>
 <li><a href="{{ '/drugs/apremilast/' | relative_url }}">Apremilast</a></li>
+<li><a href="{{ '/drugs/atropine/' | relative_url }}">Atropine Sulfate</a></li>
+<li><a href="{{ '/drugs/dexmedetomidine/' | relative_url }}">Dexmedetomidine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/eptinezumab/' | relative_url }}">Eptinezumab</a></li>
 <li><a href="{{ '/drugs/erenumab/' | relative_url }}">Erenumab</a></li>
 <li><a href="{{ '/drugs/fentanyl/' | relative_url }}">Fentanyl</a></li>
@@ -38,8 +40,10 @@ This page brings together the latest health news about “migraña” and lists 
 <li><a href="{{ '/drugs/inclisiran/' | relative_url }}">Inclisiran</a></li>
 <li><a href="{{ '/drugs/isavuconazole/' | relative_url }}">Isavuconazole</a></li>
 <li><a href="{{ '/drugs/lacosamide/' | relative_url }}">Lacosamide</a></li>
+<li><a href="{{ '/drugs/lasmiditan/' | relative_url }}">Lasmiditan Succinate</a></li>
 <li><a href="{{ '/drugs/lumacaftor/' | relative_url }}">Lumacaftor</a></li>
 <li><a href="{{ '/drugs/melatonin/' | relative_url }}">Melatonin</a></li>
+<li><a href="{{ '/drugs/palonosetron/' | relative_url }}">Palonosetron Hydrochloride</a></li>
 <li><a href="{{ '/drugs/prasugrel/' | relative_url }}">Prasugrel</a></li>
 <li><a href="{{ '/drugs/pregabalin/' | relative_url }}">Pregabalin</a></li>
 <li><a href="{{ '/drugs/prilocaine/' | relative_url }}">Prilocaine</a></li>
