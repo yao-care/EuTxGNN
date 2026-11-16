@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about hépatite (hepatitis). 6 articles, 25 related drugs."
 permalink: /news/hepatitis/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-16
 ---
 
 # hépatite (hepatitis) News
@@ -42,6 +42,7 @@ This page brings together the latest health news about “hépatite” and lists
 <li><a href="{{ '/drugs/ledipasvir/' | relative_url }}">Ledipasvir</a></li>
 <li><a href="{{ '/drugs/lopinavir/' | relative_url }}">Lopinavir</a></li>
 <li><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">Pibrentasvir</a></li>
+<li><a href="{{ '/drugs/rilpivirine/' | relative_url }}">Rilpivirine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/ritonavir/' | relative_url }}">Ritonavir</a></li>
 <li><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">Sofosbuvir</a></li>
 <li><a href="{{ '/drugs/teriflunomide/' | relative_url }}">Teriflunomide</a></li>

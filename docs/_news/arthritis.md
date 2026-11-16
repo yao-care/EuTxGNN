@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about artritis (arthritis). 14 articles, 73 related drugs."
 permalink: /news/arthritis/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-16
 ---
 
 # artritis (arthritis) News
@@ -46,6 +46,7 @@ This page brings together the latest health news about “artritis” and lists 
 <li><a href="{{ '/drugs/eltrombopag/' | relative_url }}">Eltrombopag</a></li>
 <li><a href="{{ '/drugs/eptifibatide/' | relative_url }}">Eptifibatide</a></li>
 <li><a href="{{ '/drugs/erdafitinib/' | relative_url }}">Erdafitinib</a></li>
+<li><a href="{{ '/drugs/ertapenem/' | relative_url }}">Ertapenem Sodium</a></li>
 <li><a href="{{ '/drugs/etanercept/' | relative_url }}">Etanercept</a></li>
 <li><a href="{{ '/drugs/fulvestrant/' | relative_url }}">Fulvestrant</a></li>
 <li><a href="{{ '/drugs/golimumab/' | relative_url }}">Golimumab</a></li>

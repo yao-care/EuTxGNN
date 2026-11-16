@@ -3,9 +3,9 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 98 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 99 articles, 11 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # ictus (stroke) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>98 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>99 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,12 +30,22 @@ This page brings together the latest health news about “ictus” and lists the
 <li><a href="{{ '/drugs/amlodipine/' | relative_url }}">Amlodipine</a></li>
 <li><a href="{{ '/drugs/dronedarone/' | relative_url }}">Dronedarone</a></li>
 <li><a href="{{ '/drugs/orlistat/' | relative_url }}">Orlistat</a></li>
+<li><a href="{{ '/drugs/raloxifene/' | relative_url }}">Raloxifene Hydrochloride</a></li>
 <li><a href="{{ '/drugs/simvastatin/' | relative_url }}">Simvastatin</a></li>
 <li><a href="{{ '/drugs/telmisartan/' | relative_url }}">Telmisartan</a></li>
+<li><a href="{{ '/drugs/vernakalant/' | relative_url }}">Vernakalant Hydrochloride</a></li>
 </ul>
 </div>
 
-## Related News (98)
+## Related News (99)
+
+### [Starke Blutdrucksenkung: Vorteil beim Schlaganfall, nicht bei Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
+
+2026-11-16
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
+
+---
 
 ### [Ictus antes de los 50 años: por qué preocupa su aumento en España y cuáles son las señales de alarma que no debes ignorar](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdVlDelM4TXhDaUFudjJfMUFpUTZGMl9LTEs4WGF0ZUVGaXptRFhZQXNrNVA4QUVlY1o1WTA1a21TZGh6XzB2WjM3WTNsVUNJOVpzR0xFSW5FNjkzQVVEWWE1Sk0xRjhsRW4ta094MTFSbVJWZUFudUp2WkVsTGRmNVRZU045WGhWZWx3dGpMMURqR0s2c25fQ3BxV0lNb1k1Tm5WRDBEQVBlLUdpM1A2V3VkVm5uR0lzRjl1YXJ5Z0kxM2tCMXZkUU9nRzlKUdIB0wFBVV95cUxQNkxrSFlzOTNrZUppYThscURaMjFyUG03MkFRTWdCbmFrUW5aVlJKSTBxRDZ5MHBnb0pxa21KaFRmSldxQjJvRWhmbW52R2VUVEJEamxDV1V5aEdKdmRWeVFiNUZuMXdjX3l4WF80bEZKWURTUk52QjZGenYySDgzaml1TXo5MEw2N2doWDJ0aDk2OHZjb01GLTREVFhLQlY3eVpoZXdMU0xScHhzUENBcTRxYlpaS3NSVkhJTUVPYkkzWGtnSE9PSktfaGU4dkNJR2dj?oc=5)
 

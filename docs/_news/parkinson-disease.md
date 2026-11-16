@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about maladie de Parkinson (parkinson disease). 10 articles, 7 related drugs."
 permalink: /news/parkinson-disease/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # maladie de Parkinson (parkinson disease) News
@@ -41,7 +41,7 @@ This page brings together the latest health news about “maladie de Parkinson�
 
 2026-11-15
 
-Source: [franceinfo](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTkwwbk1IUkI0ZVdqREQ0TWQtck5ETTMtYzVLX2o0RFhZYW5ROWJnNFF1Yzlab0pES1o4Q2RaS3JIb1Bwa0NkNHg0UWM2ME5ESHkzcmtJMUpNcHI5TXAwb2hLMGN3ZUpOY0hPNlB3bHotR3M0V2JkdzJzVWxkWnBkdzZKdTBKSG4yRFh2OFdCY2xDTVRDRDU3QWdqeE1DaURINFR6eW5CMEl5SnRYWHRmRWVfeVl4VS03UFVQUWszcW9JVFRCRkdUZkNNWXNSd1JKSWxyYjd5RllpWmwyV2NVMXJnMVlGdDhhMEJmTms2eXR4bk1n?oc=5)
+Source: [Franceinfo](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTkwwbk1IUkI0ZVdqREQ0TWQtck5ETTMtYzVLX2o0RFhZYW5ROWJnNFF1Yzlab0pES1o4Q2RaS3JIb1Bwa0NkNHg0UWM2ME5ESHkzcmtJMUpNcHI5TXAwb2hLMGN3ZUpOY0hPNlB3bHotR3M0V2JkdzJzVWxkWnBkdzZKdTBKSG4yRFh2OFdCY2xDTVRDRDU3QWdqeE1DaURINFR6eW5CMEl5SnRYWHRmRWVfeVl4VS03UFVQUWszcW9JVFRCRkdUZkNNWXNSd1JKSWxyYjd5RllpWmwyV2NVMXJnMVlGdDhhMEJmTms2eXR4bk1n?oc=5)
 
 ---
 

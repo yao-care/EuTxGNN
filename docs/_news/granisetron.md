@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Granisetron. 10 predicted indications."
 permalink: /news/granisetron/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Granisetron News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Granisetron?">
-<strong>Granisetron</strong> currently has <strong>25 news articles</strong>, with 10 predicted indications.
+<strong>Granisetron</strong> currently has <strong>26 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Granisetron with the latest 
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (25)
+## Related News (26)
+
+### [Vorhofflimmern vorbeugen: Wie viel Kaffee ist für das Herz ideal?](https://news.google.com/rss/articles/CBMijwFBVV95cUxQd3NhZWF1clJhOHVORGtDNkhRNmszVE1NVkdrVEF1dm5WZTMwa0Yta3NiMTdCbVlNQTdnUkFLQWplQ2JfUnVxWHI4MGVfaWlNWjhDX3gwaXJSRDF3ZnNyUkFwakpxd3dFQkc5X3NmMHRLdU1kZ0IyZkR2SzVVRlVKeHhOU2pCbWVxNFFDbGJRSQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [WEB.DE](https://news.google.com/rss/articles/CBMijwFBVV95cUxQd3NhZWF1clJhOHVORGtDNkhRNmszVE1NVkdrVEF1dm5WZTMwa0Yta3NiMTdCbVlNQTdnUkFLQWplQ2JfUnVxWHI4MGVfaWlNWjhDX3gwaXJSRDF3ZnNyUkFwakpxd3dFQkc5X3NmMHRLdU1kZ0IyZkR2SzVVRlVKeHhOU2pCbWVxNFFDbGJRSQ?oc=5)
+
+---
 
 ### [Wie viele Tassen Kaffee pro Tag fürs Herz unbedenklich sind - Ärzte Zeitung](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlhJRkcyV2JhTUF2ejhzUmM5Z0pVRWNrS2VyblRyZ05RVzhvaWc5TFB0VGJYSG9DNnFMVUlFY2lxMXdfS3JjTV84NGtVV0JQd2xiWXo5Qk56SGlRQTlxRTV2ck52RVNHYXFRWV96emN2LWt0emduRE94cF8xVzF5ZjJzQ1ZMTjg4SEg3NHVjY21JVFdyVjI0WmxCSlpvMnF1MXUyeC1jTQ?oc=5)
 

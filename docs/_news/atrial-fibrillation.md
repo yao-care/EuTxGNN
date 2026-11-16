@@ -3,9 +3,9 @@ layout: default
 title: "Vorhofflimmern (atrial fibrillation) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Vorhofflimmern (atrial fibrillation). 13 articles, 39 related drugs."
+description: "Health news about Vorhofflimmern (atrial fibrillation). 14 articles, 39 related drugs."
 permalink: /news/atrial-fibrillation/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Vorhofflimmern (atrial fibrillation) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Vorhofflimmern (atrial fibrillation)?">
-<strong>Vorhofflimmern (atrial fibrillation)</strong> currently has <strong>13 news articles</strong> and 39 related drugs.
+<strong>Vorhofflimmern (atrial fibrillation)</strong> currently has <strong>14 news articles</strong> and 39 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -28,6 +28,7 @@ This page brings together the latest health news about “Vorhofflimmern” and 
 <ul>
 <li><a href="{{ '/drugs/aprepitant/' | relative_url }}">Aprepitant</a></li>
 <li><a href="{{ '/drugs/aripiprazole/' | relative_url }}">Aripiprazole</a></li>
+<li><a href="{{ '/drugs/asenapine/' | relative_url }}">Asenapine Maleate</a></li>
 <li><a href="{{ '/drugs/bimatoprost/' | relative_url }}">Bimatoprost</a></li>
 <li><a href="{{ '/drugs/degarelix/' | relative_url }}">Degarelix</a></li>
 <li><a href="{{ '/drugs/dronedarone/' | relative_url }}">Dronedarone</a></li>
@@ -44,14 +45,24 @@ This page brings together the latest health news about “Vorhofflimmern” and 
 <li><a href="{{ '/drugs/posaconazole/' | relative_url }}">Posaconazole</a></li>
 <li><a href="{{ '/drugs/prilocaine/' | relative_url }}">Prilocaine</a></li>
 <li><a href="{{ '/drugs/risperidone/' | relative_url }}">Risperidone</a></li>
+<li><a href="{{ '/drugs/selumetinib/' | relative_url }}">Selumetinib Sulfate</a></li>
 <li><a href="{{ '/drugs/silodosin/' | relative_url }}">Silodosin</a></li>
 <li><a href="{{ '/drugs/tadalafil/' | relative_url }}">Tadalafil</a></li>
+<li><a href="{{ '/drugs/vernakalant/' | relative_url }}">Vernakalant Hydrochloride</a></li>
 <li><a href="{{ '/drugs/voriconazole/' | relative_url }}">Voriconazole</a></li>
 <li><a href="{{ '/drugs/zonisamide/' | relative_url }}">Zonisamide</a></li>
 </ul>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### [Vorhofflimmern vorbeugen: Wie viel Kaffee ist für das Herz ideal?](https://news.google.com/rss/articles/CBMijwFBVV95cUxQd3NhZWF1clJhOHVORGtDNkhRNmszVE1NVkdrVEF1dm5WZTMwa0Yta3NiMTdCbVlNQTdnUkFLQWplQ2JfUnVxWHI4MGVfaWlNWjhDX3gwaXJSRDF3ZnNyUkFwakpxd3dFQkc5X3NmMHRLdU1kZ0IyZkR2SzVVRlVKeHhOU2pCbWVxNFFDbGJRSQ?oc=5)
+
+2026-11-16
+
+Source: [WEB.DE](https://news.google.com/rss/articles/CBMijwFBVV95cUxQd3NhZWF1clJhOHVORGtDNkhRNmszVE1NVkdrVEF1dm5WZTMwa0Yta3NiMTdCbVlNQTdnUkFLQWplQ2JfUnVxWHI4MGVfaWlNWjhDX3gwaXJSRDF3ZnNyUkFwakpxd3dFQkc5X3NmMHRLdU1kZ0IyZkR2SzVVRlVKeHhOU2pCbWVxNFFDbGJRSQ?oc=5)
+
+---
 
 ### [Wie viele Tassen Kaffee pro Tag fürs Herz unbedenklich sind - Ärzte Zeitung](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlhJRkcyV2JhTUF2ejhzUmM5Z0pVRWNrS2VyblRyZ05RVzhvaWc5TFB0VGJYSG9DNnFMVUlFY2lxMXdfS3JjTV84NGtVV0JQd2xiWXo5Qk56SGlRQTlxRTV2ck52RVNHYXFRWV96emN2LWt0emduRE94cF8xVzF5ZjJzQ1ZMTjg4SEg3NHVjY21JVFdyVjI0WmxCSlpvMnF1MXUyeC1jTQ?oc=5)
 

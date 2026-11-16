@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Opicapone. 0 predicted indications."
 permalink: /news/opicapone/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Opicapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Opicapone?">
-<strong>Opicapone</strong> currently has <strong>49 news articles</strong>, with 0 predicted indications.
+<strong>Opicapone</strong> currently has <strong>52 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (49)
+## Related News (52)
+
+### [The two-minute habits that prevent dementia - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPekY0d0VjTGZucWhwZ2ZMVE5ybDdueDJ5TF9ZOUp4RHZ4enI2emNNek1IcmdzZXFUX29DZ0JTWDI1SmFxejg5cGxjemtoV2NvU2pkU1N6ajRfX2M4RlBQMlh1ZjhocWgtVHZiQXdNTW1TYmdQYktXUGFWdnAtcXV0bHFRWE9NMDVtUEQycURDYlNwZzlmclEtX2h1XzU0WnpiSWhPdzZR?oc=5)
+
+2026-11-16 <span class="news-indication-tag">dementia</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPekY0d0VjTGZucWhwZ2ZMVE5ybDdueDJ5TF9ZOUp4RHZ4enI2emNNek1IcmdzZXFUX29DZ0JTWDI1SmFxejg5cGxjemtoV2NvU2pkU1N6ajRfX2M4RlBQMlh1ZjhocWgtVHZiQXdNTW1TYmdQYktXUGFWdnAtcXV0bHFRWE9NMDVtUEQycURDYlNwZzlmclEtX2h1XzU0WnpiSWhPdzZR?oc=5)
+
+---
 
 ### [Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTkwwbk1IUkI0ZVdqREQ0TWQtck5ETTMtYzVLX2o0RFhZYW5ROWJnNFF1Yzlab0pES1o4Q2RaS3JIb1Bwa0NkNHg0UWM2ME5ESHkzcmtJMUpNcHI5TXAwb2hLMGN3ZUpOY0hPNlB3bHotR3M0V2JkdzJzVWxkWnBkdzZKdTBKSG4yRFh2OFdCY2xDTVRDRDU3QWdqeE1DaURINFR6eW5CMEl5SnRYWHRmRWVfeVl4VS03UFVQUWszcW9JVFRCRkdUZkNNWXNSd1JKSWxyYjd5RllpWmwyV2NVMXJnMVlGdDhhMEJmTms2eXR4bk1n?oc=5)
 
 2026-11-15 <span class="news-indication-tag">maladie de Parkinson</span>
 
-Source: [franceinfo](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTkwwbk1IUkI0ZVdqREQ0TWQtck5ETTMtYzVLX2o0RFhZYW5ROWJnNFF1Yzlab0pES1o4Q2RaS3JIb1Bwa0NkNHg0UWM2ME5ESHkzcmtJMUpNcHI5TXAwb2hLMGN3ZUpOY0hPNlB3bHotR3M0V2JkdzJzVWxkWnBkdzZKdTBKSG4yRFh2OFdCY2xDTVRDRDU3QWdqeE1DaURINFR6eW5CMEl5SnRYWHRmRWVfeVl4VS03UFVQUWszcW9JVFRCRkdUZkNNWXNSd1JKSWxyYjd5RllpWmwyV2NVMXJnMVlGdDhhMEJmTms2eXR4bk1n?oc=5)
+Source: [Franceinfo](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTkwwbk1IUkI0ZVdqREQ0TWQtck5ETTMtYzVLX2o0RFhZYW5ROWJnNFF1Yzlab0pES1o4Q2RaS3JIb1Bwa0NkNHg0UWM2ME5ESHkzcmtJMUpNcHI5TXAwb2hLMGN3ZUpOY0hPNlB3bHotR3M0V2JkdzJzVWxkWnBkdzZKdTBKSG4yRFh2OFdCY2xDTVRDRDU3QWdqeE1DaURINFR6eW5CMEl5SnRYWHRmRWVfeVl4VS03UFVQUWszcW9JVFRCRkdUZkNNWXNSd1JKSWxyYjd5RllpWmwyV2NVMXJnMVlGdDhhMEJmTms2eXR4bk1n?oc=5)
 
 ---
 
@@ -45,6 +53,14 @@ Source: [franceinfo](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTkwwbk
 2026-11-15 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
 Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZC1WWWF6d1dwZnFHakllQ3BiUE1WTE4taHpuWFJILS1RTTdBTEJPS3k3NzF3b05Qb0pNWENfZmFrbjcwaWtvLXNkZ21kSVBKRUgwaGRKNmtlVmdXRmtkeW5wT2NJNUdNSnJ2R0FkNXBjcDhkeTNjUHpnMzd3aExTb0NUMDVJNWdhU3JtT1cxVXFNZ0dIbEFzQkU2SnBRd3NGZG54SnV6M210U2lRNWpTTzVXaGRfWGZpWnhDMWRrc2VfbDYycV9nc0VVTQ?oc=5)
+
+---
+
+### [Exact blood pressure reading that puts you at risk of vision loss and dementia - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">dementia</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 
 ---
 
@@ -125,6 +141,14 @@ Source: [ChietiToday](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMDRnM
 2026-11-13 <span class="news-indication-tag">dementia</span>
 
 Source: [Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZzhLX0lCYUd1V0lMWUFyUVdzRVZ2R0RHV1pXOU5DaTdNZHp2SkRKdUtkelFzckFLeTYyV3JPbU01TXgwbTlPTVVzWEFnSVVWeF96QmdWenNiV3ZiV09CX2p5QkRuSUFvc0RRV2d1aFI5OGRQYk9GSzJ1REdDRU5aUlB30gGHAUFVX3lxTE5jN3htaDFBS05fNXdDLVhxMEtkdUlSdVh4cVo4NHpHN1FCZlJReDB1WHdRU3BPaDlRc2V0dlNtYXQtZy1uSFlMNTk3X0FSUmlScFJwS191MDNtc19vV2R3aGlYRWxzRlBHM2ljMmFSNmUtVi1QQnlzNjQ2WXVLR0hLa0F5LW5kZw?oc=5)
+
+---
+
+### [David Cameron on Living With Brexit and Ending Alzheimer’s](https://news.google.com/rss/articles/CBMifEFVX3lxTE5tVFlCTVZJcEFXRTBxRlNvMXZ4dTJXSWhmRENwalZ3TFp3UXVWVlllbUZtaGdqWWl4c2FaRy1kQlBZZlhlcUxwbTZwbm5NSThMSjdFY3ZSMUh4UVFDTC1OcTlfZElzenFMQ2N3TGdlWjVDcFRpemZqa3otQkU?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Bloomberg.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE5tVFlCTVZJcEFXRTBxRlNvMXZ4dTJXSWhmRENwalZ3TFp3UXVWVlllbUZtaGdqWWl4c2FaRy1kQlBZZlhlcUxwbTZwbm5NSThMSjdFY3ZSMUh4UVFDTC1OcTlfZElzenFMQ2N3TGdlWjVDcFRpemZqa3otQkU?oc=5)
 
 ---
 

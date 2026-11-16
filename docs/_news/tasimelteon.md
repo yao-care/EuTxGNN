@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tasimelteon. 9 predicted indications."
 permalink: /news/tasimelteon/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-16
 ---
 
 # Tasimelteon News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Tasimelteon?">
-<strong>Tasimelteon</strong> currently has <strong>37 news articles</strong>, with 9 predicted indications.
+<strong>Tasimelteon</strong> currently has <strong>38 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (37)
+## Related News (38)
+
+### [La conciliación empieza antes de ser madre: la lucha invisible de las madrileñas que buscan un embarazo - El Periódico de España](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZnVJV0t1bTdSRE1LV0V0VFNMWXByLXRVX0ZSLVdINFoxMGFLU0YtQVdVMzdEZm5FcmVpbDlCY2pUNWFPSnBJb0VkTUJnODJTTkxvY3ladEMyQTNkTkU3LWptOEl1NkcwWEU4RXpETzdJMVZKVmwyN1VjbHU0bk1FV1pUWFRNQmlFSWlKbFk3U1hDT0NKMTZSYUNoZGZWT0UyMDlLY2ZNckZYZTJxLS1fdXA0X19XenUwbGJ6a3diMGUxdkZFN29VTVhISFlEU2tj0gHQAUFVX3lxTE5IRldXVEFrWk9pbHRObnktWkRzM0tYaFR0enJrTERyTE1yQUM3c3hMVzh4UDlBNmtsU2VjWEV0Z0VLNHRnRkNtMldNTVBDVU9jY1NyTDF5UWctNHptSTFUTkV4NVB1bkdueXhrNkRXLVBBRkNvTjhZNWpWc21xcEZFQkhiTmgzV2lSU2txZXN0RldJYi1SWVlMNlpveWdoWjhBLUFINmNZMlVBMkw3bjZ6eloxUjdKZFdxRTZacG5tS1BBeXE4cXhqVm5JZlpSRXI?oc=5)
+
+2026-11-16 <span class="news-indication-tag">depresión</span>
+
+Source: [El Periódico de España](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZnVJV0t1bTdSRE1LV0V0VFNMWXByLXRVX0ZSLVdINFoxMGFLU0YtQVdVMzdEZm5FcmVpbDlCY2pUNWFPSnBJb0VkTUJnODJTTkxvY3ladEMyQTNkTkU3LWptOEl1NkcwWEU4RXpETzdJMVZKVmwyN1VjbHU0bk1FV1pUWFRNQmlFSWlKbFk3U1hDT0NKMTZSYUNoZGZWT0UyMDlLY2ZNckZYZTJxLS1fdXA0X19XenUwbGJ6a3diMGUxdkZFN29VTVhISFlEU2tj0gHQAUFVX3lxTE5IRldXVEFrWk9pbHRObnktWkRzM0tYaFR0enJrTERyTE1yQUM3c3hMVzh4UDlBNmtsU2VjWEV0Z0VLNHRnRkNtMldNTVBDVU9jY1NyTDF5UWctNHptSTFUTkV4NVB1bkdueXhrNkRXLVBBRkNvTjhZNWpWc21xcEZFQkhiTmgzV2lSU2txZXN0RldJYi1SWVlMNlpveWdoWjhBLUFINmNZMlVBMkw3bjZ6eloxUjdKZFdxRTZacG5tS1BBeXE4cXhqVm5JZlpSRXI?oc=5)
+
+---
 
 ### [Moral en berne dès que les jours raccourcissent ? Ce que la science sait vraiment de la dépression saisonnière - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWUZJX3I5Zkl1aXdtelpkXzVYbmk3MENLd0tGQUVIR1VYVFJTSnB1Tmg2MEtqQnEyWmRfRzY2Rm85U3NmSEJPMVBVa3ZfcWJHRG5CMjkyRzE1anhkcXNSZnN5OGRqWFNBazZpZHZaUXFEU21LNDc3eV80SS1UNTRBTEtZbHp4SmdWamxrU2x3RnBKcVhaelFXam5Cb0pRNjlsNXVRZDBNMlgzcWZtRFRIY1hfckhzR1JoNndXQW8yRDJHU1NrbDNHc3JVOW1xdm96aUw5eWxqMEY1c0gxemQtbE8xZWlMb2My?oc=5)
 

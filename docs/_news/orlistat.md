@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Orlistat. 1 predicted indications."
 permalink: /news/orlistat/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Orlistat News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>197 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>202 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,31 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (197)
+## Related News (202)
+
+### [Starke Blutdrucksenkung: Vorteil beim Schlaganfall, nicht bei Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
+
+---
+
+### [Colocarán etiquetas con advertencia sobre efectos adversos en medicamentos contra la obesidad - Los Angeles Times](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUZ4YXhlYjZucjRpbHctSFdpaE5MUFVhamhoNzVranRRV25SbWFJcUVDRmY3cjNOa0NlZ09uY1U3R3RodTEwZTRVTFdDN0J0ek85dG9XZVdMdmJWZUlFSWRCVS1wbTF4TkZaXzhJRWZfN1dLa3pFS0ZTcTlzMTEyaTczck5tZlpFMmt5YmpRYnotUGtBMnlCWFctNFBKYU1zYm03X2NNbXgwczRkc29CeXJOYVg1OERwN3N6Xy1vQTRVVGNKZ3djbHBFN2xNVURTcFNUcU50dnJHVW05czNDVFhRMmk?oc=5)
+
+2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Los Angeles Times](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUZ4YXhlYjZucjRpbHctSFdpaE5MUFVhamhoNzVranRRV25SbWFJcUVDRmY3cjNOa0NlZ09uY1U3R3RodTEwZTRVTFdDN0J0ek85dG9XZVdMdmJWZUlFSWRCVS1wbTF4TkZaXzhJRWZfN1dLa3pFS0ZTcTlzMTEyaTczck5tZlpFMmt5YmpRYnotUGtBMnlCWFctNFBKYU1zYm03X2NNbXgwczRkc29CeXJOYVg1OERwN3N6Xy1vQTRVVGNKZ3djbHBFN2xNVURTcFNUcU50dnJHVW05czNDVFhRMmk?oc=5)
+
+---
+
+### [Milano, i «furbetti» dei farmaci (gratis) per dimagrire: presentavano ricette anti-obesità pur non essendo diabetici. La Regione stana 2.800 finti pazienti - Corriere Milano](https://news.google.com/rss/articles/CBMizAJBVV95cUxOWUVqa3Q3Unh5N3gyWWlveXdUX2NaaEZ3aWlROHV2bUhENGFkeGR2V3c3UnNaaVl0UWtuMi1Zd2stcllJLVNlZlM4ZmZNeHljdk12VVJYVDJGTl9XT3RPRjZZbkJVOHJCU1VoWi1LMzBFTzJPTG1KS2dlYXRUUEdLS2VlbmhObVJfenBHZ0tKbm1kVlBjakdLY29SdjBYaXltOU1heU9tUjZkNmtvaWVpZ0dzdHZDQlRuZkJfNjdGc3ZJLVRGcmtKTnJyRWozT3Z0WWxOOW11SE1mbTlFWVdWX3BDSmc4anF1VEVTMmpWSm9ob3dROF9GZ0VJQkFzeUV2cGpzZE5OeXE1eTFQMFN4bFdmTTc5OFZtSWFOMWZ5dmJCNG9lODNwZTBRQVE1ZmtNR3N6cjZSX0twSS11ZU9XRDE4aS1tbFhDWW1RMNIB0gJBVV95cUxQNF9TLVVIc2RvVXB2T2xzOTRKSzlEZEtNTlo5RU1CNFpqbWN2dER5YVh0THphZ0YtRVIyaGx0Skt4bUx5N1hPUW83R3hEdl9yNkpyTWxXbllWVUd2SE1SMGNjblI0bkNKSVZFNzltRWFIMjNvTWtOamJsbmV4QnkxdENYUmg0Z0JuVVoxLUVyVUduclhkOVdscFU2X04ydVdIZGF1eVdQaDVySE0tRF9hclJKNml5c1BuTFNHMy1IRmJsOWpRMGZoSWlZQl9SUzVucmJPbzRGR1Q3VEgxOFpidHV6cDFWeW02NWo1QWNNc2hOZEVkX2pNYnlNZTFPYXl2aDY4UWtPN2s5N3F2SER4ZFhyblFyQ29TMWZWTjJYYThXeVgxbDlFZlNzWmpnd3llR0s5RHlLVExwOFp4SF9RcjBFZkZQWnloZzhpMlJmeFB2Zw?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Corriere Milano](https://news.google.com/rss/articles/CBMizAJBVV95cUxOWUVqa3Q3Unh5N3gyWWlveXdUX2NaaEZ3aWlROHV2bUhENGFkeGR2V3c3UnNaaVl0UWtuMi1Zd2stcllJLVNlZlM4ZmZNeHljdk12VVJYVDJGTl9XT3RPRjZZbkJVOHJCU1VoWi1LMzBFTzJPTG1KS2dlYXRUUEdLS2VlbmhObVJfenBHZ0tKbm1kVlBjakdLY29SdjBYaXltOU1heU9tUjZkNmtvaWVpZ0dzdHZDQlRuZkJfNjdGc3ZJLVRGcmtKTnJyRWozT3Z0WWxOOW11SE1mbTlFWVdWX3BDSmc4anF1VEVTMmpWSm9ob3dROF9GZ0VJQkFzeUV2cGpzZE5OeXE1eTFQMFN4bFdmTTc5OFZtSWFOMWZ5dmJCNG9lODNwZTBRQVE1ZmtNR3N6cjZSX0twSS11ZU9XRDE4aS1tbFhDWW1RMNIB0gJBVV95cUxQNF9TLVVIc2RvVXB2T2xzOTRKSzlEZEtNTlo5RU1CNFpqbWN2dER5YVh0THphZ0YtRVIyaGx0Skt4bUx5N1hPUW83R3hEdl9yNkpyTWxXbllWVUd2SE1SMGNjblI0bkNKSVZFNzltRWFIMjNvTWtOamJsbmV4QnkxdENYUmg0Z0JuVVoxLUVyVUduclhkOVdscFU2X04ydVdIZGF1eVdQaDVySE0tRF9hclJKNml5c1BuTFNHMy1IRmJsOWpRMGZoSWlZQl9SUzVucmJPbzRGR1Q3VEgxOFpidHV6cDFWeW02NWo1QWNNc2hOZEVkX2pNYnlNZTFPYXl2aDY4UWtPN2s5N3F2SER4ZFhyblFyQ29TMWZWTjJYYThXeVgxbDlFZlNzWmpnd3llR0s5RHlLVExwOFp4SF9RcjBFZkZQWnloZzhpMlJmeFB2Zw?oc=5)
+
+---
 
 ### [Ictus antes de los 50 años: por qué preocupa su aumento en España y cuáles son las señales de alarma que no debes ignorar](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdVlDelM4TXhDaUFudjJfMUFpUTZGMl9LTEs4WGF0ZUVGaXptRFhZQXNrNVA4QUVlY1o1WTA1a21TZGh6XzB2WjM3WTNsVUNJOVpzR0xFSW5FNjkzQVVEWWE1Sk0xRjhsRW4ta094MTFSbVJWZUFudUp2WkVsTGRmNVRZU045WGhWZWx3dGpMMURqR0s2c25fQ3BxV0lNb1k1Tm5WRDBEQVBlLUdpM1A2V3VkVm5uR0lzRjl1YXJ5Z0kxM2tCMXZkUU9nRzlKUdIB0wFBVV95cUxQNkxrSFlzOTNrZUppYThscURaMjFyUG03MkFRTWdCbmFrUW5aVlJKSTBxRDZ5MHBnb0pxa21KaFRmSldxQjJvRWhmbW52R2VUVEJEamxDV1V5aEdKdmRWeVFiNUZuMXdjX3l4WF80bEZKWURTUk52QjZGenYySDgzaml1TXo5MEw2N2doWDJ0aDk2OHZjb01GLTREVFhLQlY3eVpoZXdMU0xScHhzUENBcTRxYlpaS3NSVkhJTUVPYkkzWGtnSE9PSktfaGU4dkNJR2dj?oc=5)
 
@@ -88,6 +112,14 @@ Source: [https://fomoera.com/](https://news.google.com/rss/articles/CBMib0FVX3lx
 2026-11-14 <span class="news-indication-tag">ictus</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPWlU0TFphU3RIRFNlMWswS2gzdm5aLURQUVlKdDFRZVpHOC1XNzF3Rng2Yi1ZZFNPUWh4ZDdSRHg4M180QjVkYTlOa0t1LWkxSFdRTl9mRXpKN19CUy10VHVRaUdXaUpXSXB6bDFoYmFzX2E3X25hX2dJY3FRdEtzU3J1Y0VrcHBjbzRJUjBJNmFxM0Z5WHp4T0ZvcU5xeVFjMFJFYkJvclhBRTNSN2ZxamtSVVpfdFk0SC1nVFhnNmJGU0NQYmNMbkFYbmF2aU95b1p1V2c0SUZfU0NoQU9hT0kyek95M2MyaFVhZkdOTUZoaFl3WnZJVldwbzJLY01SMF9ERnJRX3BmYVRUTi13NWxKOWJ6WEZRcmlFdU5RcWtBNENPLUswRThmVXVtM1UwV2JTaUViajZpSGPSAcACQVVfeXFMUG9OcG10dVRiSjJ5RzA2SVBYd01IYkx5UVEzcWlzTmd3ZTJTTExfR2VDR1JJVTJtc2tzdGU1ZEhmQWc1Ml9ER0JEM3JyT0ZEalo0SjdmZVJRVENuYnZ2aHdST2pjUkVPejVHQmFLT1c1UF90R0h0dHNSMnprRldLZUlPMDBieVBWMGZnOS1SbFZqcWRXR0hKdGd6ZWdvTWVsN21SdzJDZHhrUFlrWmEtZUlCUkY0LU1SbXo1SGlmZWdZaWNUNmdnNHEyWFhTTFo0N3N5a1FCcElnOUhvQlRqbWFlWU5pdmtYNEVCdEZJTGk5Q3o3TGFFcXdDLWljVmwxRUlsUDRnbkZfUUJmenpmSEtVbnRJVGttbVFlNEdTZHVWQVY2SEs4RHBLUUVKaVUwS01ydHlyU21PVGZieFRwaEU?oc=5)
+
+---
+
+### [Obésité : hors critères de la Sécu, Wegovy coûte plus de 2 300 € par an, et seule une bonne mutuelle en rembourse un peu](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdy03N0dfNVFpSjhqVWFRczdZTjBaRXo2RGg1UXhIbi1sQ0V6SzFNQjk0cm9WYWhGd1JfalNYM3JMYkczdzkycE81dmdJbUJWd0tHRllrMTdWTnFaekh1S0QtSzNFVUZWcWFyYmdRYkstTTJhXzVJUDhUV1NSaFhBbXJEY2pFT1pKZGpUWHY1anVZNV9sVlVZQUtWU3hYaWs2R3RMVWhzXzFvVElDd3RTVEdIblU?oc=5)
+
+2026-11-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdy03N0dfNVFpSjhqVWFRczdZTjBaRXo2RGg1UXhIbi1sQ0V6SzFNQjk0cm9WYWhGd1JfalNYM3JMYkczdzkycE81dmdJbUJWd0tHRllrMTdWTnFaekh1S0QtSzNFVUZWcWFyYmdRYkstTTJhXzVJUDhUV1NSaFhBbXJEY2pFT1pKZGpUWHY1anVZNV9sVlVZQUtWU3hYaWs2R3RMVWhzXzFvVElDd3RTVEdIblU?oc=5)
 
 ---
 
@@ -451,6 +483,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTH
 
 ---
 
+### [Krankhaftes Übergewicht: Adipositaszentrum der Westküstenkliniken lädt zum Informationsnachmittag ein - WKK Heide](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN2ZLREw5Q3I4aER5MkdNRnhxNFJEY0lQM295RVFfVHd1TWNkNWhFREZIWHAzdU1Vdk55WU5qTEstM1hwWEhiczAxbGQ0UFNTdVV3Mlp6TU1jSkcxeWZvM1BmVzY4ZGJTT3VxWXRsWlU4Wng5cWFNaW1EeURHSk00am1DbU1haks5aWFqSnlqX1NhaHJvWFJ3Mm9CQy1jTDBJSWtndzZZakg1N2RIeFFIbk5xbzRjMTE5bWxJOWxhcXlGd0g1ZGl3ekVpczFrd2x5RlVBdjFLNDBiVFQyNUN4a0Z6OEc0dw?oc=5)
+
+2026-11-11 <span class="news-indication-tag">Adipositas</span>
+
+Source: [WKK Heide](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN2ZLREw5Q3I4aER5MkdNRnhxNFJEY0lQM295RVFfVHd1TWNkNWhFREZIWHAzdU1Vdk55WU5qTEstM1hwWEhiczAxbGQ0UFNTdVV3Mlp6TU1jSkcxeWZvM1BmVzY4ZGJTT3VxWXRsWlU4Wng5cWFNaW1EeURHSk00am1DbU1haks5aWFqSnlqX1NhaHJvWFJ3Mm9CQy1jTDBJSWtndzZZakg1N2RIeFFIbk5xbzRjMTE5bWxJOWxhcXlGd0g1ZGl3ekVpczFrd2x5RlVBdjFLNDBiVFQyNUN4a0Z6OEc0dw?oc=5)
+
+---
+
 ### [Un AVC toutes les 4 minutes en France : 30 682 décès par an et 1,1 million de survivants](https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2xFeVIwQmZEeVhwNWtiRVRpTWhjLXdSekIxRV9MLUdONGs2dmVrNFgyc0RaNXVQZGZ6U0lQTDlPN2hPOHFJWWxyRDJyNk04bmtSdkVwVDNPVDVfLW1xU2E1RTdRU2ppTVJYOHlvLWhaRFZxRjJRRmRyTl9QXzdYaGdDclJ0d0tBNFJCMFJOMGt5cjA0VUNqRWh4OFdrYU15bFdCcVRsaHk2cEgtR3p1dFNQUQ?oc=5)
 
 2026-11-11 <span class="news-indication-tag">accident vasculaire cérébral</span>
@@ -565,7 +605,7 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXhQVUM3Y
 
 ### [Stopping weight loss drugs doubles diabetics’ heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 
-2026-11-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Semaglutide. 0 predicted indications."
 permalink: /news/semaglutide/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Semaglutide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>55 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>59 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,23 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (55)
+## Related News (59)
+
+### [Colocarán etiquetas con advertencia sobre efectos adversos en medicamentos contra la obesidad - Los Angeles Times](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUZ4YXhlYjZucjRpbHctSFdpaE5MUFVhamhoNzVranRRV25SbWFJcUVDRmY3cjNOa0NlZ09uY1U3R3RodTEwZTRVTFdDN0J0ek85dG9XZVdMdmJWZUlFSWRCVS1wbTF4TkZaXzhJRWZfN1dLa3pFS0ZTcTlzMTEyaTczck5tZlpFMmt5YmpRYnotUGtBMnlCWFctNFBKYU1zYm03X2NNbXgwczRkc29CeXJOYVg1OERwN3N6Xy1vQTRVVGNKZ3djbHBFN2xNVURTcFNUcU50dnJHVW05czNDVFhRMmk?oc=5)
+
+2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Los Angeles Times](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUZ4YXhlYjZucjRpbHctSFdpaE5MUFVhamhoNzVranRRV25SbWFJcUVDRmY3cjNOa0NlZ09uY1U3R3RodTEwZTRVTFdDN0J0ek85dG9XZVdMdmJWZUlFSWRCVS1wbTF4TkZaXzhJRWZfN1dLa3pFS0ZTcTlzMTEyaTczck5tZlpFMmt5YmpRYnotUGtBMnlCWFctNFBKYU1zYm03X2NNbXgwczRkc29CeXJOYVg1OERwN3N6Xy1vQTRVVGNKZ3djbHBFN2xNVURTcFNUcU50dnJHVW05czNDVFhRMmk?oc=5)
+
+---
+
+### [After a GLP-1: Which Exit Strategy Keeps the Weight Off?](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWUxNDgtRWhra09wVzdzZ25mZkFJX3lwSTFoazZhcmdSZXdfQTBWbTgwTE13SVZpVWdkTWpKZVZnMlZpWHpCS2JrcTM3QUVYU3M1X1FzTU8xdkViQVdseWdJTDg2bzJoUmQ5alIwWlBXSk5zVFY5SHVKUTVZZDh5OHp5endWVE5QQmhyR1ltR3VtVFFqN0VhNjR3?oc=5)
+
+2026-11-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWUxNDgtRWhra09wVzdzZ25mZkFJX3lwSTFoazZhcmdSZXdfQTBWbTgwTE13SVZpVWdkTWpKZVZnMlZpWHpCS2JrcTM3QUVYU3M1X1FzTU8xdkViQVdseWdJTDg2bzJoUmQ5alIwWlBXSk5zVFY5SHVKUTVZZDh5OHp5endWVE5QQmhyR1ltR3VtVFFqN0VhNjR3?oc=5)
+
+---
 
 ### [Abnehmspritze (Ozempic, Wegovy): Studie warnt vor höherem Sterberisiko - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQTJwbWVQTC1aR29aVnlkTXpWU05WWm42RGI2eHN4cUNFMEZrSnB6X0N2M0p2OVo2bTFodHdZT1p4SVFWTDRUNnNUZHRSTzcxSEhXTXhZd3NqdWl6cDZsU0lUcHltWEo5UkpFdUFPRnpOd2ZvVVF4c0hIZTRYdGFZVmViOUdYRm95ekVLU3dKcTRScXVMeUZzSE9xUzdWUEdMODZDUkYxSmJSSVhGc2psTVVpX2ljOVBrajl6SmdCdGhsNnZPQkhQcQ?oc=5)
 
@@ -44,6 +60,14 @@ Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiyAFBVV95
 2026-11-14 <span class="news-drug-tag">Semaglutide</span>
 
 Source: [Diario AS](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNGRaRTd3SDE2Q3U1b0FYc0NNaDA2NGVZMDJuVkJoRWZvZUsyeE9qTGtxMERDOF9kZVpXM3lZTFFVYTgzWUVteTRiQk5TOWk0QWR1WXEyaVQ4Tl9SdGJuSld1R2NFaUN5VUVjTkpsTVE0aGNna01remhuV0RSbDk2cEU3YXkyUU11bHhYUnJyS2RtMkU1OVU0aDdISGJZazJxTmZRVURaSjY0Um05cGpHYVFBbDR3SG5SRFU0VVc3cWJIMzZpR0N4MjUxZFJhbFpsaVpvZHVfbU1kVUNSeXVQeWRyMG5lNV9F0gH8AUFVX3lxTE0tUkMyVm04OGF0UExNc2hZSDVPZExiUjJ6VmpqOUstUGIxWDFJX1h0QUdrLWdDQjBGam1qNGJjQnVJcWRJZTZhSTNBRDMyUjAxcFJXeFhmZDlqMFhmZWxxSDAzNWZEd0pocEZpZktlY2JrbUl1VkZRSkpkalNFeTh3WmdnTnVIVGxpN0tGdzB0QTJ5NEFyY2hBMEIzeDJkZ1VEUEM5RzNlY2FrNW9rYk5TSUtCVk9PVWp1dlRuYmRQZjZOejBUbkxPTUF1RDlsOFpJeV9KSUM4ZFhvQnlkRHVLZ002VkNRNnIzQXQ1aDE3NWNQZ2swNzdLX1dTbg?oc=5)
+
+---
+
+### [Obésité : hors critères de la Sécu, Wegovy coûte plus de 2 300 € par an, et seule une bonne mutuelle en rembourse un peu](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdy03N0dfNVFpSjhqVWFRczdZTjBaRXo2RGg1UXhIbi1sQ0V6SzFNQjk0cm9WYWhGd1JfalNYM3JMYkczdzkycE81dmdJbUJWd0tHRllrMTdWTnFaekh1S0QtSzNFVUZWcWFyYmdRYkstTTJhXzVJUDhUV1NSaFhBbXJEY2pFT1pKZGpUWHY1anVZNV9sVlVZQUtWU3hYaWs2R3RMVWhzXzFvVElDd3RTVEdIblU?oc=5)
+
+2026-11-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdy03N0dfNVFpSjhqVWFRczdZTjBaRXo2RGg1UXhIbi1sQ0V6SzFNQjk0cm9WYWhGd1JfalNYM3JMYkczdzkycE81dmdJbUJWd0tHRllrMTdWTnFaekh1S0QtSzNFVUZWcWFyYmdRYkstTTJhXzVJUDhUV1NSaFhBbXJEY2pFT1pKZGpUWHY1anVZNV9sVlVZQUtWU3hYaWs2R3RMVWhzXzFvVElDd3RTVEdIblU?oc=5)
 
 ---
 
@@ -148,6 +172,14 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMiigFBVV95cUxPVWV3ckVqbEV
 2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Novaciencia](https://news.google.com/rss/articles/CBMijAJBVV95cUxNM3RySnVyTk5lV1VldGdNMmdsX0JORTRhd0lBTmktd3BDaXNaN2F4UE81SjN5bHhYRUpjSTN0a2paS01ncXFZa3NVS29DbUstb21WQzVBU0RxOFdTSG1ZWUZpbEp1b2FLekNlSmdQRFhvUEt2eWhUV0dsWVU4WGpELW1PY1hiZHRqSkMxaWxkWkNOQzRlWUpmNEZkNXVKNjNxa1NmSG9nWTZCZFVkVTJBOGZqLTdjdXV3SzZHanRIZDBSV3F0Z3gzSl9JVWdMQWJOS3FSaF9wajNxVXd1eTRjZ05CTElvZHVpbVMyNHpIdm1KOF9odXQwcEU3dmxvb0dDUnJHa282VjhJNmdF?oc=5)
+
+---
+
+### [Stopping weight loss drugs doubles diabetics’ heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
+
+2026-11-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ24yV2FEWENtWl9GZzQyekRmZ0hyclFHRE5JMlFCajhxUVdJeEZlUlFhd1dNU19jZFFoR01DOVRSMEhnWmhnbU04UkJ4V1JPY2EtZURKMWhsNWxDMEtBWm43d1VkUGdsdWtra1NoQUhuQ3BQT1hMdHF3UGpkdFF6dC1MMFkwX21wOTF1YjM0NVNmbWlsUVAxSko5RXZYZENJbzJ5dg?oc=5)
 
 ---
 

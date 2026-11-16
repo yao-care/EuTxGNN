@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about asthme (asthma). 3 articles, 47 related drugs."
 permalink: /news/asthma/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # asthme (asthma) News
@@ -39,9 +39,11 @@ This page brings together the latest health news about “asthme” and lists th
 <li><a href="{{ '/drugs/elotuzumab/' | relative_url }}">Elotuzumab</a></li>
 <li><a href="{{ '/drugs/epinephrine/' | relative_url }}">Epinephrine</a></li>
 <li><a href="{{ '/drugs/faricimab/' | relative_url }}">Faricimab</a></li>
+<li><a href="{{ '/drugs/indacaterol/' | relative_url }}">Indacaterol Maleate</a></li>
 <li><a href="{{ '/drugs/inebilizumab/' | relative_url }}">Inebilizumab</a></li>
 <li><a href="{{ '/drugs/isatuximab/' | relative_url }}">Isatuximab</a></li>
 <li><a href="{{ '/drugs/ketoconazole/' | relative_url }}">Ketoconazole</a></li>
+<li><a href="{{ '/drugs/lefamulin/' | relative_url }}">Lefamulin Acetate</a></li>
 <li><a href="{{ '/drugs/leflunomide/' | relative_url }}">Leflunomide</a></li>
 <li><a href="{{ '/drugs/micafungin/' | relative_url }}">Micafungin</a></li>
 <li><a href="{{ '/drugs/norethisterone/' | relative_url }}">Norethisterone</a></li>
