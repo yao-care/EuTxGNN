@@ -3,9 +3,9 @@ layout: default
 title: "soriasi (psoriasis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about soriasi (psoriasis). 8 articles, 11 related drugs."
+description: "Health news about soriasi (psoriasis). 9 articles, 11 related drugs."
 permalink: /news/psoriasis/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-17
 ---
 
 # soriasi (psoriasis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about soriasi (psoriasis)?">
-<strong>soriasi (psoriasis)</strong> currently has <strong>8 news articles</strong> and 11 related drugs.
+<strong>soriasi (psoriasis)</strong> currently has <strong>9 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,22 @@ This page brings together the latest health news about “soriasi” and lists t
 <li><a href="{{ '/drugs/guselkumab/' | relative_url }}">Guselkumab</a></li>
 <li><a href="{{ '/drugs/inebilizumab/' | relative_url }}">Inebilizumab</a></li>
 <li><a href="{{ '/drugs/natalizumab/' | relative_url }}">Natalizumab</a></li>
+<li><a href="{{ '/drugs/ozanimod/' | relative_url }}">Ozanimod Hydrochloride</a></li>
 <li><a href="{{ '/drugs/risankizumab/' | relative_url }}">Risankizumab</a></li>
 <li><a href="{{ '/drugs/tacrolimus/' | relative_url }}">Tacrolimus</a></li>
 <li><a href="{{ '/drugs/ustekinumab/' | relative_url }}">Ustekinumab</a></li>
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [Neue Studie zu B 5 / Panthetine](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQk10RlIteHlYR3gwSmcycGdaQkx5T0JQMHQwVzN3ZU9GLUhFMkc2VjFkUmxsUVVfQjlzdkxzWmIzV0NWYkVwbXl0dzhVYkVpbXZNSjhSaGZtTVE0cWJibXN6Y25LRzV6QnBDRExVZG0yWWJVOUhDaGx0NEQxdVl6UkgwLWE2QQ?oc=5)
+
+2026-11-16
+
+Source: [Psoriasis-Netz](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQk10RlIteHlYR3gwSmcycGdaQkx5T0JQMHQwVzN3ZU9GLUhFMkc2VjFkUmxsUVVfQjlzdkxzWmIzV0NWYkVwbXl0dzhVYkVpbXZNSjhSaGZtTVE0cWJibXN6Y25LRzV6QnBDRExVZG0yWWJVOUhDaGx0NEQxdVl6UkgwLWE2QQ?oc=5)
+
+---
 
 ### [Nuevos hallazgos sobre la eficacia de los tratamientos biológicos en la psoriasis y pustulosis palmoplantar](https://news.google.com/rss/articles/CBMirAFBVV95cUxNUG1kaEVDN1VWeGtIQndDZEhJWEExWXhxWFJoa0VvZ0VMZmtDVGw2b0liaHhGZUdXMWFaOU5xdkUxaHozdTBhZkVNZ3htVHNUd2lJY2JETzh5bGxhQ0JDMXV3NUJzMXBacnZjRWZZaVFqa2t1Y3dLTUg1T2psUEFUcnlZUDBNZVpmNXFfWFhHX24yY1o2SkxwZW1mSzdVczQwelFBNGhFUEx5Mk96?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ziconotide. 9 predicted indications."
 permalink: /news/ziconotide/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Ziconotide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Ziconotide?">
-<strong>Ziconotide</strong> currently has <strong>110 news articles</strong>, with 9 predicted indications.
+<strong>Ziconotide</strong> currently has <strong>115 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,39 @@ This page combines the AI-predicted indications for Ziconotide with the latest h
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (110)
+## Related News (115)
+
+### [El COFB organiza una maratón formativa para actualizar el abordaje farmacéutico de la obesidad - IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkgwV3JCODRFczZlYS00SkVwREJDdXV5LUQxeHV2cXFfakFWV3RWbjYzVFVGWl9VOWtDZHRZVFExeDFrb0dkaldieUZtdTZISWNQN201NkVjTzdhSm5UdUhaNFQ0V0ZFQkFDOWVmTXNxY3FTRG9BVDVES3A5Q19uVWsyZEF3MFNOaWZaNlFwMl8zejd1Y05Yb0NDUkxTVUNfbjBBdTBEdkp0M0NzMVlhNnMzMFllUdIBsAFBVV95cUxOamxicVBXTWJyUFZzS1dUUGNXZjBfYV92ZkRxRTNfZTdjbWRoeDJmc0hZMzJyandwTVoya2hzd1NzNUNQakctMXJKRC0tcmZTb2dNVHZpQllnTGRvVm5NS0U1d2w1ZDNrNC1zNmZ4T0VvbWpkS1c4bWM5RHZmZjlubllNQU80S29LVlRyY0hNVzc3elR1cVQwWldqalBYaE9xYlY1SklKNkVSZ0FYVWZvQw?oc=5)
+
+2026-11-16 <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkgwV3JCODRFczZlYS00SkVwREJDdXV5LUQxeHV2cXFfakFWV3RWbjYzVFVGWl9VOWtDZHRZVFExeDFrb0dkaldieUZtdTZISWNQN201NkVjTzdhSm5UdUhaNFQ0V0ZFQkFDOWVmTXNxY3FTRG9BVDVES3A5Q19uVWsyZEF3MFNOaWZaNlFwMl8zejd1Y05Yb0NDUkxTVUNfbjBBdTBEdkp0M0NzMVlhNnMzMFllUdIBsAFBVV95cUxOamxicVBXTWJyUFZzS1dUUGNXZjBfYV92ZkRxRTNfZTdjbWRoeDJmc0hZMzJyandwTVoya2hzd1NzNUNQakctMXJKRC0tcmZTb2dNVHZpQllnTGRvVm5NS0U1d2w1ZDNrNC1zNmZ4T0VvbWpkS1c4bWM5RHZmZjlubllNQU80S29LVlRyY0hNVzc3elR1cVQwWldqalBYaE9xYlY1SklKNkVSZ0FYVWZvQw?oc=5)
+
+---
+
+### [Il richiamo dell'Ordine dei farmacisti sulla prescrizione del Mounjaro: quando un farmaco diventa prodotto di consumo - Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
+
+2026-11-16 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
+
+---
+
+### [Dal diabete ai tumori all’obesità: le malattie croniche dell’uomo colpiscono gli animali – Ecco perché - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR0xUdC1rZDlEbGk2bVE1Z21nNTdadFdJbkF2N2tteXhJWnRjRllmcERBYms5aTdsR0hOVUZpR1RBYXpDS1hwVW9pVmVuZzFwRzB6UTZya3RGTWZlLVRzcWx4c2JVUWw4ZVp4RkhoMGJsaDVicWtnRlo1aXAxekt5MHA2X1RuSkVBckRHS3lDV2k5MWNydVkwVXN5cldhY3N4eFJHaTFrRDJYcERDdC1fdlZqbTR6TUx4bUR3YWdGc2hkNDNfUjFtY3EtYXQyemFJRVRMYWJ0aHBVdjA1RWFIMGtZQ0NILWZzTWNMNU5oR3ZVbThaVjlGQmNB?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+
+Source: [La Nuova Sardegna](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR0xUdC1rZDlEbGk2bVE1Z21nNTdadFdJbkF2N2tteXhJWnRjRllmcERBYms5aTdsR0hOVUZpR1RBYXpDS1hwVW9pVmVuZzFwRzB6UTZya3RGTWZlLVRzcWx4c2JVUWw4ZVp4RkhoMGJsaDVicWtnRlo1aXAxekt5MHA2X1RuSkVBckRHS3lDV2k5MWNydVkwVXN5cldhY3N4eFJHaTFrRDJYcERDdC1fdlZqbTR6TUx4bUR3YWdGc2hkNDNfUjFtY3EtYXQyemFJRVRMYWJ0aHBVdjA1RWFIMGtZQ0NILWZzTWNMNU5oR3ZVbThaVjlGQmNB?oc=5)
+
+---
+
+### [Survodutida demuestra seguridad cardiovascular en adultos con obesidad y riesgo cardiometabólico elevado - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS2p0RW5Jb3VHUFFkanQxWmw3d1JYMk1LSWpoalZsQ2h0WWhSNlgwN0xIYldjYXZIOVJwZGVzZG9Ud0hpcDdhM0xtaEM2TnE5aHpNeWE0WU80WUxwSU9nb2RpM0d3eFhpZXRLeVNZdzZJeEZnbFQwV2daSzEwbkdnM2dnMzB1bnpONmNQekNYc0JhdzIwOVRuRnBkM2lGcTJtTWV0LXVGMkdvZ0wySXZXYm00bTVTNFhXbXFnaVNITFUydmvSAb4BQVVfeXFMTUhIMHJnZ2JqZV9FQTk2cXNkUUpqN1hnX0x6SDJFVkdQVkZMOTgxRW1WVFg3NWJtWkI1dzZ2ZElLR3dIT3Y1d3RhNC1idlRGbUxodEFGQ0pjZVB4dEE2NjlXci0zR1pWZktVZTFPZXFpOEtmOFJid3MyX3dHNlIxV2NPc19RQkJUVlRDMmRzcjRYLUZrM0Z4SlFSa01mWmJlTGZUYW0xNm9mSnE4TFZPUkNfM1ltLTBQWU5nc29sdw?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS2p0RW5Jb3VHUFFkanQxWmw3d1JYMk1LSWpoalZsQ2h0WWhSNlgwN0xIYldjYXZIOVJwZGVzZG9Ud0hpcDdhM0xtaEM2TnE5aHpNeWE0WU80WUxwSU9nb2RpM0d3eFhpZXRLeVNZdzZJeEZnbFQwV2daSzEwbkdnM2dnMzB1bnpONmNQekNYc0JhdzIwOVRuRnBkM2lGcTJtTWV0LXVGMkdvZ0wySXZXYm00bTVTNFhXbXFnaVNITFUydmvSAb4BQVVfeXFMTUhIMHJnZ2JqZV9FQTk2cXNkUUpqN1hnX0x6SDJFVkdQVkZMOTgxRW1WVFg3NWJtWkI1dzZ2ZElLR3dIT3Y1d3RhNC1idlRGbUxodEFGQ0pjZVB4dEE2NjlXci0zR1pWZktVZTFPZXFpOEtmOFJid3MyX3dHNlIxV2NPc19RQkJUVlRDMmRzcjRYLUZrM0Z4SlFSa01mWmJlTGZUYW0xNm9mSnE4TFZPUkNfM1ltLTBQWU5nc29sdw?oc=5)
+
+---
 
 ### [Colocarán etiquetas con advertencia sobre efectos adversos en medicamentos contra la obesidad - Los Angeles Times](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUZ4YXhlYjZucjRpbHctSFdpaE5MUFVhamhoNzVranRRV25SbWFJcUVDRmY3cjNOa0NlZ09uY1U3R3RodTEwZTRVTFdDN0J0ek85dG9XZVdMdmJWZUlFSWRCVS1wbTF4TkZaXzhJRWZfN1dLa3pFS0ZTcTlzMTEyaTczck5tZlpFMmt5YmpRYnotUGtBMnlCWFctNFBKYU1zYm03X2NNbXgwczRkc29CeXJOYVg1OERwN3N6Xy1vQTRVVGNKZ3djbHBFN2xNVURTcFNUcU50dnJHVW05czNDVFhRMmk?oc=5)
 
@@ -61,7 +93,7 @@ Source: [Corriere Milano](https://news.google.com/rss/articles/CBMizAJBVV95cUxOW
 
 ### [Cuándo debemos consultar al neurólogo por un dolor de cabeza frecuente - 65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkFzbUx2VWdJSjhpRlFwTDEwQVR5LVg5eG92TTYxcXNKU1A1bUxaYUZiVUNxRGJrSVc0LW90cFVHcWNUOHlNcXNldjFrMTRZMHB6d2kxenpFZ3ZGa3UwejVCemU4bTZkYThCN1NPRV9JUUNqQUZEM2c5NnJ0ZzBNZU55X1pSWHo5TmNuSHBvYXRCV004RTBhdHlybEdHc3M1ZlNLRnVqWkE?oc=5)
 
-2026-11-15 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">migraña</span>
+2026-11-15 <span class="news-indication-tag">migraña</span> <span class="news-drug-tag">Amlodipine</span>
 
 Source: [65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkFzbUx2VWdJSjhpRlFwTDEwQVR5LVg5eG92TTYxcXNKU1A1bUxaYUZiVUNxRGJrSVc0LW90cFVHcWNUOHlNcXNldjFrMTRZMHB6d2kxenpFZ3ZGa3UwejVCemU4bTZkYThCN1NPRV9JUUNqQUZEM2c5NnJ0ZzBNZU55X1pSWHo5TmNuSHBvYXRCV004RTBhdHlybEdHc3M1ZlNLRnVqWkE?oc=5)
 
@@ -96,6 +128,14 @@ Source: [JeChange](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdy03N0df
 2026-11-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
 
 Source: [Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
+
+---
+
+### [Eiweißarme Ernährung verlangsamt den Alterungsprozess](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS1hU0haa0tsbFg4NDNrRURfLXhJUFh6MzV1X1cteFlBSGRjREZGOGRGa0VVRGtfOXBkenVLN3BxcHNsX2xiVkwwRDVSWmVneXQ3Sl9YYWVvWldYX3hsVnpKWW1yM0VBdlZaREtKTUxlS3ZHOGY5WHI3dUF5aktxSjNKNVZXNDdnX0g0dmxBMElaYkhsQzdN?oc=5)
+
+2026-11-14 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Scinexx](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS1hU0haa0tsbFg4NDNrRURfLXhJUFh6MzV1X1cteFlBSGRjREZGOGRGa0VVRGtfOXBkenVLN3BxcHNsX2xiVkwwRDVSWmVneXQ3Sl9YYWVvWldYX3hsVnpKWW1yM0VBdlZaREtKTUxlS3ZHOGY5WHI3dUF5aktxSjNKNVZXNDdnX0g0dmxBMElaYkhsQzdN?oc=5)
 
 ---
 

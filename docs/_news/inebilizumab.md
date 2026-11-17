@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Inebilizumab. 0 predicted indications."
 permalink: /news/inebilizumab/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Inebilizumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Inebilizumab?">
-<strong>Inebilizumab</strong> currently has <strong>530 news articles</strong>, with 0 predicted indications.
+<strong>Inebilizumab</strong> currently has <strong>546 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,69 @@ This page combines the AI-predicted indications for Inebilizumab with the latest
 <p><a href="{{ '/drugs/inebilizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (530)
+## Related News (546)
+
+### [ADEC conmemora el Día Internacional de la Diabetes - Intercomarcal Televisión](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnNGRFBYZVJ3ODdaYnRBX3RmampoQjR5cmhfUXA1dUJhbGNUeVZqS0tzRDEtRTFhUjVfZ3REc1k4RE5uTHBuaVdyaWNQdWI0Rnp6OVB1RWRGc1RoWmJpRjh0VnVpMGNIOUdaelk4Ym5qZ25zQWxEWE41TWl1S3AzSEZNQVJwT2trS2RZM19Rdw?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabetes</span>
+
+Source: [Intercomarcal Televisión](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnNGRFBYZVJ3ODdaYnRBX3RmampoQjR5cmhfUXA1dUJhbGNUeVZqS0tzRDEtRTFhUjVfZ3REc1k4RE5uTHBuaVdyaWNQdWI0Rnp6OVB1RWRGc1RoWmJpRjh0VnVpMGNIOUdaelk4Ym5qZ25zQWxEWE41TWl1S3AzSEZNQVJwT2trS2RZM19Rdw?oc=5)
+
+---
+
+### [«Sono un oncologo, ecco perché i tumori aumentano sotto i 50 anni: dai batteri infantili alle infiammazioni» - Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXdHcEp6ZWlXY2t4Mk5jaDEyZmVZdzNRenkyYjZ1ang0VkhnYVoxUlBQNUtzLUlpdmdiQlpCWldOVlFOMkxMUmdkVmR3cFlxeVBFV3dkMVdlZHpkQmk4MlN4cWhrYm1YQVpPX3dQYmN1ZlRacWU5c3EySjN6VnZuSVl3cTVIVVlMb3ZlLV9LeW9YTUZ0V3E0Nk1PNEduYTVZbXVwYU54dEQ5bG9SQlI4LVZzR0wxRWhSMTNwNnRxQmM0Y0ds0gHCAUFVX3lxTFByeXV1Y3V2WFctZXpSUGE5UksyMXM3YVBMLTcxV3liMzB4eFBKdkRnbEhEQ1FFVy1QT2I1NlN1dnExcXpRb2sydFc1bHZzRC1OSloyQmVad2NVN3F4bzRVOER3ci1fbmZZeTdBSHNRc3Bpc0hkdW5kb1ZaNlJJUEVqU2tZQjcyZ0EzajhrZC1vRXkwNXJkRVZQTFRmT3BKc3I0dkpEQ015aWlNYlpNQVJFcVMxY0RkQzNRTUhkOGZuRGVR?oc=5)
+
+2026-11-16 <span class="news-indication-tag">tumor</span>
+
+Source: [Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXdHcEp6ZWlXY2t4Mk5jaDEyZmVZdzNRenkyYjZ1ang0VkhnYVoxUlBQNUtzLUlpdmdiQlpCWldOVlFOMkxMUmdkVmR3cFlxeVBFV3dkMVdlZHpkQmk4MlN4cWhrYm1YQVpPX3dQYmN1ZlRacWU5c3EySjN6VnZuSVl3cTVIVVlMb3ZlLV9LeW9YTUZ0V3E0Nk1PNEduYTVZbXVwYU54dEQ5bG9SQlI4LVZzR0wxRWhSMTNwNnRxQmM0Y0ds0gHCAUFVX3lxTFByeXV1Y3V2WFctZXpSUGE5UksyMXM3YVBMLTcxV3liMzB4eFBKdkRnbEhEQ1FFVy1QT2I1NlN1dnExcXpRb2sydFc1bHZzRC1OSloyQmVad2NVN3F4bzRVOER3ci1fbmZZeTdBSHNRc3Bpc0hkdW5kb1ZaNlJJUEVqU2tZQjcyZ0EzajhrZC1vRXkwNXJkRVZQTFRmT3BKc3I0dkpEQ015aWlNYlpNQVJFcVMxY0RkQzNRTUhkOGZuRGVR?oc=5)
+
+---
+
+### [Las personas con diabetes reclaman investigación, detección precoz y servicios equitativos en todo el país - Versión Radio](https://news.google.com/rss/articles/CBMizwFBVV95cUxPT3FxWE9OV0syYkVjbS15czVhYW1QcFgtV3NiUHVaV3FQM3U1a1BtREJURFdKaVh3VTJHYVdQMS1yd2NUT1U5Mjd2UFhsNy1wbEktTFUtMzdseGNNbU9KSTZCX09tdVotUExyd1BVcG5wQ3ZSVFZ3bFZQeldnX25fanpvQmk1ZFdYZUVLWGNKV1RiTEFkVkpSb2w3bWFXTnZLRF9tTnFqaDNCT3FLZHItRllxeFBUdndpTm93RHMySHdSSVlmOU9TRlRRc2V5T28?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabetes</span>
+
+Source: [Versión Radio](https://news.google.com/rss/articles/CBMizwFBVV95cUxPT3FxWE9OV0syYkVjbS15czVhYW1QcFgtV3NiUHVaV3FQM3U1a1BtREJURFdKaVh3VTJHYVdQMS1yd2NUT1U5Mjd2UFhsNy1wbEktTFUtMzdseGNNbU9KSTZCX09tdVotUExyd1BVcG5wQ3ZSVFZ3bFZQeldnX25fanpvQmk1ZFdYZUVLWGNKV1RiTEFkVkpSb2w3bWFXTnZLRF9tTnFqaDNCT3FLZHItRllxeFBUdndpTm93RHMySHdSSVlmOU9TRlRRc2V5T28?oc=5)
+
+---
+
+### [Lebende Darmbakterien können Krebspatienten nach Stammzelltherapien vor Blutstrominfektion schützen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSVdIbXJhWE1zbXNwMzIzX2NHdXZLeklVUmRNUk5PeW5qV24tU2tJaWw1NG03SnpNTVVyekJzOFJaWDZTMUNhZDN4M0dPWmFnb3RqbzlQejNJRERxYnd3TFMxRTk0dl91Y1QwS3JiSjFZeVVhNUUtQTlJbHlydWMwSmJjci1jUDlMaXhNaEYzbkZTN2sta1hJOVQwaDl4QVk4cEFvQ0hNY2VGY3hOeE55NzcwQ2NfdzNTVWxUam9CMVJ4SlIzdFh5bURFbWtVZm9RTUlPX1BwYll6UjhOdm5QSEtJZUwzRVZ1V3g5TWVUbXM1dElOdHFnXzktSkc?oc=5)
+
+2026-11-16 <span class="news-indication-tag">Krebs</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSVdIbXJhWE1zbXNwMzIzX2NHdXZLeklVUmRNUk5PeW5qV24tU2tJaWw1NG03SnpNTVVyekJzOFJaWDZTMUNhZDN4M0dPWmFnb3RqbzlQejNJRERxYnd3TFMxRTk0dl91Y1QwS3JiSjFZeVVhNUUtQTlJbHlydWMwSmJjci1jUDlMaXhNaEYzbkZTN2sta1hJOVQwaDl4QVk4cEFvQ0hNY2VGY3hOeE55NzcwQ2NfdzNTVWxUam9CMVJ4SlIzdFh5bURFbWtVZm9RTUlPX1BwYll6UjhOdm5QSEtJZUwzRVZ1V3g5TWVUbXM1dElOdHFnXzktSkc?oc=5)
+
+---
+
+### [Los farmacéuticos de Burgos salen a la calle para detectar el riesgo de diabetes - IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQzlHSlhGVjQ5RklCYUluTXRLanJDZDllWnY4amdocnNYdzN3SnE0TXF6Q19iWEN1S1RuTWxIQS1xci02SEhhYTZIQjhtaG9jcDk3RGFTaENPOVBZUzExbFlZcjlEZUFCajRPZ05ZVnlIVXJ0Zm00M3pjWTQ4THNvZmRzRi12ZnlTNHgzMlFmalktQWktTWxSRUNDZTBzYWpqTURYYkRPejBQenBIY2dfNjlnRnfSAa8BQVVfeXFMT3dwM2pGT2NrNjF0czF4TWg2eHU2VC16eTZ2RmtHNndoQ2VnMlByY3hHQ0lUblcwc25ITkFGSEpDN3dXR2k1d3pUb1lpenpxNkYwbEJ5T1dGT3I5bHhORUFwanlyWjZZWmRxS1d4Z1RJY01LdFlPdHZZekNTNTNRVmRhNHpkZkNDa1BtVWxEdkNTWmQ5b1dRb2t4eTRURThDRmQzd2VGQXk0ZFdwcEhIYw?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabetes</span>
+
+Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQzlHSlhGVjQ5RklCYUluTXRLanJDZDllWnY4amdocnNYdzN3SnE0TXF6Q19iWEN1S1RuTWxIQS1xci02SEhhYTZIQjhtaG9jcDk3RGFTaENPOVBZUzExbFlZcjlEZUFCajRPZ05ZVnlIVXJ0Zm00M3pjWTQ4THNvZmRzRi12ZnlTNHgzMlFmalktQWktTWxSRUNDZTBzYWpqTURYYkRPejBQenBIY2dfNjlnRnfSAa8BQVVfeXFMT3dwM2pGT2NrNjF0czF4TWg2eHU2VC16eTZ2RmtHNndoQ2VnMlByY3hHQ0lUblcwc25ITkFGSEpDN3dXR2k1d3pUb1lpenpxNkYwbEJ5T1dGT3I5bHhORUFwanlyWjZZWmRxS1d4Z1RJY01LdFlPdHZZekNTNTNRVmRhNHpkZkNDa1BtVWxEdkNTWmQ5b1dRb2t4eTRURThDRmQzd2VGQXk0ZFdwcEhIYw?oc=5)
+
+---
+
+### [Wenn Diabetes Spuren hinterlässt: Früh erkennen, gezielt handeln](https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29FaVRNdWs2UUtpUXJKcHBfRl9rU2FmS0ozNHZQRzIxaG80NXJUME13UVhDd2ZxXzBMdTlMQkFVMDJTRVdEMV85c1R4MHBON25aMnBYVXh0TGJSTzJFZm53dmowM29mOWlKUUFoMm82X3N0VDdBNXU5VWNWcF9teF9XSU5McmJRV0U1UzQ1UF9rYUh1UWxZejV6TklVaGtjdTdlZXBpY1BIcWIxZUJvYzN4S1Flb1l1ZllhZjFMOGlNNW0tbzd3?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabetes</span>
+
+Source: [Krankenkasseninfo](https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29FaVRNdWs2UUtpUXJKcHBfRl9rU2FmS0ozNHZQRzIxaG80NXJUME13UVhDd2ZxXzBMdTlMQkFVMDJTRVdEMV85c1R4MHBON25aMnBYVXh0TGJSTzJFZm53dmowM29mOWlKUUFoMm82X3N0VDdBNXU5VWNWcF9teF9XSU5McmJRV0U1UzQ1UF9rYUh1UWxZejV6TklVaGtjdTdlZXBpY1BIcWIxZUJvYzN4S1Flb1l1ZllhZjFMOGlNNW0tbzd3?oc=5)
+
+---
 
 ### [Organización Mundial de la Salud emitió primeras directrices globales para el tratamiento de diabetes tipo 1 en adultos - IFM Noticias](https://news.google.com/rss/articles/CBMisAFBVV95cUxNajd0OUw5V254bDVqbm15clZSX1lubS10SkdkaDJqc1VIRUllcEd3QkxQN1U0N1BhUXBCRTlfYVVxeC0teUFKNkpBend1SzR3YnMzcXo0cmk2eVVDWXhwN3hpckJYV1Q3NnIzTE9RcVdPaDk0RVZWQ2FERXlYYm9Ob0JwQTFaNjU4QWJERHlpX19Vd3E0cWFEYW1zTFk2QTBQNGRmLUx1cE50TFVTNmdjLQ?oc=5)
 
 2026-11-16 <span class="news-indication-tag">diabetes</span>
 
 Source: [IFM Noticias](https://news.google.com/rss/articles/CBMisAFBVV95cUxNajd0OUw5V254bDVqbm15clZSX1lubS10SkdkaDJqc1VIRUllcEd3QkxQN1U0N1BhUXBCRTlfYVVxeC0teUFKNkpBend1SzR3YnMzcXo0cmk2eVVDWXhwN3hpckJYV1Q3NnIzTE9RcVdPaDk0RVZWQ2FERXlYYm9Ob0JwQTFaNjU4QWJERHlpX19Vd3E0cWFEYW1zTFk2QTBQNGRmLUx1cE50TFVTNmdjLQ?oc=5)
+
+---
+
+### [Neue Studie zu B 5 / Panthetine](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQk10RlIteHlYR3gwSmcycGdaQkx5T0JQMHQwVzN3ZU9GLUhFMkc2VjFkUmxsUVVfQjlzdkxzWmIzV0NWYkVwbXl0dzhVYkVpbXZNSjhSaGZtTVE0cWJibXN6Y25LRzV6QnBDRExVZG0yWWJVOUhDaGx0NEQxdVl6UkgwLWE2QQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">psoriasis</span>
+
+Source: [Psoriasis-Netz](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQk10RlIteHlYR3gwSmcycGdaQkx5T0JQMHQwVzN3ZU9GLUhFMkc2VjFkUmxsUVVfQjlzdkxzWmIzV0NWYkVwbXl0dzhVYkVpbXZNSjhSaGZtTVE0cWJibXN6Y25LRzV6QnBDRExVZG0yWWJVOUhDaGx0NEQxdVl6UkgwLWE2QQ?oc=5)
 
 ---
 
@@ -48,11 +104,27 @@ Source: [TeleElx](https://news.google.com/rss/articles/CBMizwFBVV95cUxOUkJ0enRVM
 
 ---
 
+### [La OMS lanza nuevas pautas sobre la diabetes tipo 1 - IM Médico](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZy1yS0NaQ2VJTmM3MnEzOVczeHRqbXBxRVY5LWpWeElYWG4tRkpkV25tV1NfMlctNkVaSDVrS21CWmxCSnhKWGdCWHR3MTl1MURyeFE3YWNjMkNQTlJiV1NOMkMwN1QwWURodDVXR1lBbG03MXNNdk9JeVRuQXpiTUZza1ZkekxRbWNrWjRnc2ZNbWE2TEhzd3FrUzhVTGNBakRTalJiVmNaZ9IBpAFBVV95cUxOa3hndlNaTEdKN0drRGtyOXptVzVwRjVXU01vZVZ5R0VPT3NCZFdiRE1JUG5nVFJvOGNPQjZzdmkyanFvWmFvdkx1by1jUWpuVTN2UlAxQldRdnlsSXlkT3I0cmN1Ukc4TGctOG5rZ1NjbVZFM3RRbEpJQ05vam0wTF9JeVhQZVNYVFJfRWgxcU9XUGxCdm1hQ1RGNjFyM3dFWlp1MQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabetes</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZy1yS0NaQ2VJTmM3MnEzOVczeHRqbXBxRVY5LWpWeElYWG4tRkpkV25tV1NfMlctNkVaSDVrS21CWmxCSnhKWGdCWHR3MTl1MURyeFE3YWNjMkNQTlJiV1NOMkMwN1QwWURodDVXR1lBbG03MXNNdk9JeVRuQXpiTUZza1ZkekxRbWNrWjRnc2ZNbWE2TEhzd3FrUzhVTGNBakRTalJiVmNaZ9IBpAFBVV95cUxOa3hndlNaTEdKN0drRGtyOXptVzVwRjVXU01vZVZ5R0VPT3NCZFdiRE1JUG5nVFJvOGNPQjZzdmkyanFvWmFvdkx1by1jUWpuVTN2UlAxQldRdnlsSXlkT3I0cmN1Ukc4TGctOG5rZ1NjbVZFM3RRbEpJQ05vam0wTF9JeVhQZVNYVFJfRWgxcU9XUGxCdm1hQ1RGNjFyM3dFWlp1MQ?oc=5)
+
+---
+
 ### [La Asociación de Diabéticos de Elda y Comarca reclama ampliar el acceso a los sensores de glucosa y reforzar la atención psicológica - Cadena SER](https://news.google.com/rss/articles/CBMipAJBVV95cUxQTUlvRk95QmgtRWNJVE8xV1VwRUxVU1ItMUl1Sk9obnFOMk85QU5yd0dEVm1CT2hRREhMMWF0b2VWX05YRktURG5CRmtUYnlNV0pfZnpaaTZzZXhoRHd6OWFKOXB2cEZNa2haWDFpeXZXRnVWVGw3eURHNnh3Tm1lT29xY0d4WVFnMjA0SzdKSXUzLU55T2I2aWhIUl9qR1kyRnBDWWJuVGFYbmdPckdnUXNhbS15S210TGhJTk1ZVzdnTE0yRFR3Nk1RWDVKS3VLeXJFYy1namo0OHNpRWRzaEJHYk5DeTcxcTc3X2hJRTlGNk5pQWNOeGJyNnBad2lRbGpVd3prMU9PdHA2cWZDemVRTHlGYmctaFZySGduRXM2cTEz0gG4AkFVX3lxTE1RYXRVbm5LZ2w0d3o1M3BLWnNTVk9DR256UWduUkZWNVQySk1wcFRiUnpQV01Pcm9YekJxZWNNa2gwSmQ3bU1aR0tSaHFCdUp3VnBOd0p6QUx3TjJ3NXF5MnNTOW9IdXdfNEZvSDBUV1lrdlpMR2lVeFE0RTAxemlUb204QWJZMXFmVFpmTTRDWHJlYkJ6RElyTlFha3RIR29tLXRzZnkzZ1pUbGtFS1JPd2dNLV9RMU0weXNUWVkwNEVjOHJpYzJiUVVCekIyRC00YUlpeWN0Rm1PZDZMN2NJWEk1SDVvd0RBbTN4UXZ3bVEyLW1pMzBfbU1pc3pycVp1c1BiWE1ESTA0bDJUenFBcW1Mek9DZDZBNlJsR1M3MXU0S0pHeUFTb3RWWGRkWHVFMVdNRjZwZg?oc=5)
 
 2026-11-16 <span class="news-indication-tag">diabetes</span>
 
 Source: [Cadena SER](https://news.google.com/rss/articles/CBMipAJBVV95cUxQTUlvRk95QmgtRWNJVE8xV1VwRUxVU1ItMUl1Sk9obnFOMk85QU5yd0dEVm1CT2hRREhMMWF0b2VWX05YRktURG5CRmtUYnlNV0pfZnpaaTZzZXhoRHd6OWFKOXB2cEZNa2haWDFpeXZXRnVWVGw3eURHNnh3Tm1lT29xY0d4WVFnMjA0SzdKSXUzLU55T2I2aWhIUl9qR1kyRnBDWWJuVGFYbmdPckdnUXNhbS15S210TGhJTk1ZVzdnTE0yRFR3Nk1RWDVKS3VLeXJFYy1namo0OHNpRWRzaEJHYk5DeTcxcTc3X2hJRTlGNk5pQWNOeGJyNnBad2lRbGpVd3prMU9PdHA2cWZDemVRTHlGYmctaFZySGduRXM2cTEz0gG4AkFVX3lxTE1RYXRVbm5LZ2w0d3o1M3BLWnNTVk9DR256UWduUkZWNVQySk1wcFRiUnpQV01Pcm9YekJxZWNNa2gwSmQ3bU1aR0tSaHFCdUp3VnBOd0p6QUx3TjJ3NXF5MnNTOW9IdXdfNEZvSDBUV1lrdlpMR2lVeFE0RTAxemlUb204QWJZMXFmVFpmTTRDWHJlYkJ6RElyTlFha3RIR29tLXRzZnkzZ1pUbGtFS1JPd2dNLV9RMU0weXNUWVkwNEVjOHJpYzJiUVVCekIyRC00YUlpeWN0Rm1PZDZMN2NJWEk1SDVvd0RBbTN4UXZ3bVEyLW1pMzBfbU1pc3pycVp1c1BiWE1ESTA0bDJUenFBcW1Mek9DZDZBNlJsR1M3MXU0S0pHeUFTb3RWWGRkWHVFMVdNRjZwZg?oc=5)
+
+---
+
+### [Wie ein neuer Bluttest Eierstockkrebs früher erkennen könnte](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVXZYbm81UkxZUTBHSDE4Q05ibHJlMURJMHJsRVppbXBnSy1UVVlLUl9vR0k5S2xVZFNSMC1IVmpsY1lXQWJ0Yzh4dnUzS0pTRWc5ZnR6WTFfU0U4WEp2UjBZd0lSRUtndnRiVVZwSHRoVk9VcDU1VjFWUmpwNEdiak5peWZ2aWxOVXJSRnZkUExZMC1RUkVjNUhRVUVBVExIN3kzRlJTNE5mbUF4MXNRZlg2UFgxZDluUHBKbEFnakFrS3BMUkY3ajltUGRob1Z0LS1JRG1R?oc=5)
+
+2026-11-16 <span class="news-indication-tag">Krebs</span>
+
+Source: [FAZ](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVXZYbm81UkxZUTBHSDE4Q05ibHJlMURJMHJsRVppbXBnSy1UVVlLUl9vR0k5S2xVZFNSMC1IVmpsY1lXQWJ0Yzh4dnUzS0pTRWc5ZnR6WTFfU0U4WEp2UjBZd0lSRUtndnRiVVZwSHRoVk9VcDU1VjFWUmpwNEdiak5peWZ2aWxOVXJSRnZkUExZMC1RUkVjNUhRVUVBVExIN3kzRlJTNE5mbUF4MXNRZlg2UFgxZDluUHBKbEFnakFrS3BMUkY3ajltUGRob1Z0LS1JRG1R?oc=5)
 
 ---
 
@@ -88,11 +160,35 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktk
 
 ---
 
+### [Dal diabete ai tumori all’obesità: le malattie croniche dell’uomo colpiscono gli animali – Ecco perché - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR0xUdC1rZDlEbGk2bVE1Z21nNTdadFdJbkF2N2tteXhJWnRjRllmcERBYms5aTdsR0hOVUZpR1RBYXpDS1hwVW9pVmVuZzFwRzB6UTZya3RGTWZlLVRzcWx4c2JVUWw4ZVp4RkhoMGJsaDVicWtnRlo1aXAxekt5MHA2X1RuSkVBckRHS3lDV2k5MWNydVkwVXN5cldhY3N4eFJHaTFrRDJYcERDdC1fdlZqbTR6TUx4bUR3YWdGc2hkNDNfUjFtY3EtYXQyemFJRVRMYWJ0aHBVdjA1RWFIMGtZQ0NILWZzTWNMNU5oR3ZVbThaVjlGQmNB?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+
+Source: [La Nuova Sardegna](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR0xUdC1rZDlEbGk2bVE1Z21nNTdadFdJbkF2N2tteXhJWnRjRllmcERBYms5aTdsR0hOVUZpR1RBYXpDS1hwVW9pVmVuZzFwRzB6UTZya3RGTWZlLVRzcWx4c2JVUWw4ZVp4RkhoMGJsaDVicWtnRlo1aXAxekt5MHA2X1RuSkVBckRHS3lDV2k5MWNydVkwVXN5cldhY3N4eFJHaTFrRDJYcERDdC1fdlZqbTR6TUx4bUR3YWdGc2hkNDNfUjFtY3EtYXQyemFJRVRMYWJ0aHBVdjA1RWFIMGtZQ0NILWZzTWNMNU5oR3ZVbThaVjlGQmNB?oc=5)
+
+---
+
+### [La diabetes y la importancia de la glucosa en el organismo](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHYyRjRmUnBYWGxZWDlNdE1YZHNjRHRCa2NXemJBSVA0R29ZSHQyZm1MZEZuRVBnVlZlZEpyczQybmNTYVUyOG42NTNXbkZiQlJFYU5YR0ZySHRuZ0hHdTlKUEhsMUgzTHZrSXFhNlZhUkt6Tm5ZZl9nN1BEbWpEMW5takFBVENSX1FuQ0JQZGpTakJOMFM5SUdWVQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabetes</span>
+
+Source: [RTVE.es](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHYyRjRmUnBYWGxZWDlNdE1YZHNjRHRCa2NXemJBSVA0R29ZSHQyZm1MZEZuRVBnVlZlZEpyczQybmNTYVUyOG42NTNXbkZiQlJFYU5YR0ZySHRuZ0hHdTlKUEhsMUgzTHZrSXFhNlZhUkt6Tm5ZZl9nN1BEbWpEMW5takFBVENSX1FuQ0JQZGpTakJOMFM5SUdWVQ?oc=5)
+
+---
+
 ### [Weltdiabetestag 2026- gemeinsam Diabetes vorbeugen](https://news.google.com/rss/articles/CBMimwFBVV95cUxONU90cDRPMklaMzdkbEUycnNSeTY0N3kwWFZQYkJ4VHVyRUt3YzdpLTNrWEVwM2JCX0hNb3R1T2dpZnJrQjhHdlprU3kzUjJEQ2ZMdGxiRU9JUmozQzBJS1F4ckNPUlRMUHZHWTRQRkNoZ3V5NlNvU2FmYVJRSVFnY0w0XzhjM2VsV3ZyV1VrQy1ubVlERk5wVzZmbw?oc=5)
 
 2026-11-16 <span class="news-indication-tag">diabetes</span>
 
 Source: [businessportal24](https://news.google.com/rss/articles/CBMimwFBVV95cUxONU90cDRPMklaMzdkbEUycnNSeTY0N3kwWFZQYkJ4VHVyRUt3YzdpLTNrWEVwM2JCX0hNb3R1T2dpZnJrQjhHdlprU3kzUjJEQ2ZMdGxiRU9JUmozQzBJS1F4ckNPUlRMUHZHWTRQRkNoZ3V5NlNvU2FmYVJRSVFnY0w0XzhjM2VsV3ZyV1VrQy1ubVlERk5wVzZmbw?oc=5)
+
+---
+
+### [Survodutida demuestra seguridad cardiovascular en adultos con obesidad y riesgo cardiometabólico elevado - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS2p0RW5Jb3VHUFFkanQxWmw3d1JYMk1LSWpoalZsQ2h0WWhSNlgwN0xIYldjYXZIOVJwZGVzZG9Ud0hpcDdhM0xtaEM2TnE5aHpNeWE0WU80WUxwSU9nb2RpM0d3eFhpZXRLeVNZdzZJeEZnbFQwV2daSzEwbkdnM2dnMzB1bnpONmNQekNYc0JhdzIwOVRuRnBkM2lGcTJtTWV0LXVGMkdvZ0wySXZXYm00bTVTNFhXbXFnaVNITFUydmvSAb4BQVVfeXFMTUhIMHJnZ2JqZV9FQTk2cXNkUUpqN1hnX0x6SDJFVkdQVkZMOTgxRW1WVFg3NWJtWkI1dzZ2ZElLR3dIT3Y1d3RhNC1idlRGbUxodEFGQ0pjZVB4dEE2NjlXci0zR1pWZktVZTFPZXFpOEtmOFJid3MyX3dHNlIxV2NPc19RQkJUVlRDMmRzcjRYLUZrM0Z4SlFSa01mWmJlTGZUYW0xNm9mSnE4TFZPUkNfM1ltLTBQWU5nc29sdw?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS2p0RW5Jb3VHUFFkanQxWmw3d1JYMk1LSWpoalZsQ2h0WWhSNlgwN0xIYldjYXZIOVJwZGVzZG9Ud0hpcDdhM0xtaEM2TnE5aHpNeWE0WU80WUxwSU9nb2RpM0d3eFhpZXRLeVNZdzZJeEZnbFQwV2daSzEwbkdnM2dnMzB1bnpONmNQekNYc0JhdzIwOVRuRnBkM2lGcTJtTWV0LXVGMkdvZ0wySXZXYm00bTVTNFhXbXFnaVNITFUydmvSAb4BQVVfeXFMTUhIMHJnZ2JqZV9FQTk2cXNkUUpqN1hnX0x6SDJFVkdQVkZMOTgxRW1WVFg3NWJtWkI1dzZ2ZElLR3dIT3Y1d3RhNC1idlRGbUxodEFGQ0pjZVB4dEE2NjlXci0zR1pWZktVZTFPZXFpOEtmOFJid3MyX3dHNlIxV2NPc19RQkJUVlRDMmRzcjRYLUZrM0Z4SlFSa01mWmJlTGZUYW0xNm9mSnE4TFZPUkNfM1ltLTBQWU5nc29sdw?oc=5)
 
 ---
 
@@ -216,11 +312,27 @@ Source: [Cremonaoggi](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX0lMM
 
 ---
 
+### [El tumor silencioso del que no hablan los hombres: más de 1.200 nuevos casos al año en Málaga y la clave para detectarlo a tiempo - Diario Sur](https://news.google.com/rss/articles/CBMisgFBVV95cUxPXy1VbWhwaU1MYXMyX3RYNjhCNmxrNFQwdTR0d1FPWkRWc0x0cTQ2dWJjc3ZBMERwRW9ZVndLdTRCQTVHNHByS3dMbTMyZ1pqaEdicWtBWmJTUTFyR1A0eV9yaG9id293VXl6Y1pfVUh1WTJuY2ttMUJEcUJVSnNfZkMxTGJ6LWNkTlh3QjRjQ1NDTjBRMUFYSFpYOGlVVzQxallLWjc0YlNzUElsM2RickZn0gG3AUFVX3lxTE1yczRsTnE0QmhMNWVHaGdqcTdla3poQ1A2OHBjZlNLZmxZbHE5RXVCQjFuOVB1V3hmYlN1YmJENGxhb0JraWxnNFBpR0c4czVWN0RTUm04T3FJd1gtUEtzNWxHelZtOWpvTGlta2RmMncxQ1liSGI2QjktUUZSNXZZT2hGdi1TODMycVZfM2RzTG9zYnM5bUpBZXlrU1VSV2NnbFlWZ1NKbmVXMEp0bFh6NHdmVnRhcw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">tumor</span>
+
+Source: [Diario Sur](https://news.google.com/rss/articles/CBMisgFBVV95cUxPXy1VbWhwaU1MYXMyX3RYNjhCNmxrNFQwdTR0d1FPWkRWc0x0cTQ2dWJjc3ZBMERwRW9ZVndLdTRCQTVHNHByS3dMbTMyZ1pqaEdicWtBWmJTUTFyR1A0eV9yaG9id293VXl6Y1pfVUh1WTJuY2ttMUJEcUJVSnNfZkMxTGJ6LWNkTlh3QjRjQ1NDTjBRMUFYSFpYOGlVVzQxallLWjc0YlNzUElsM2RickZn0gG3AUFVX3lxTE1yczRsTnE0QmhMNWVHaGdqcTdla3poQ1A2OHBjZlNLZmxZbHE5RXVCQjFuOVB1V3hmYlN1YmJENGxhb0JraWxnNFBpR0c4czVWN0RTUm04T3FJd1gtUEtzNWxHelZtOWpvTGlta2RmMncxQ1liSGI2QjktUUZSNXZZT2hGdi1TODMycVZfM2RzTG9zYnM5bUpBZXlrU1VSV2NnbFlWZ1NKbmVXMEp0bFh6NHdmVnRhcw?oc=5)
+
+---
+
 ### [Retinopatía diabética: cuándo y qué exámenes de ojos hacer - El Mostrador](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSXFmemRwWVdfUmxBNnZaTC00T3R2OEttbVJYTWwweHdCT284Tk1kdjNkZkF0UGhLR1k2MzFEeEMxU3JpcjFncm1ZMXg2dGFJLU81YkppSTByOHhJNG5rVTNyemNTU1JpNmFJLVJKRGwyVjFoRUtkNmNoY01FS3pUeGpLSkpMWmR5UHJrMXlzTG5QaF83V2pQeVNHN08zczZ5cVVmS2dxa2ZZRVFxaU1lY2hxZE53NVNNWXlzOXdyU1JmQVA2MzJzQ0pjUEVaRnJLQXAwVkdWczM4a3lkc19uM2x0NWExN19jcXBz?oc=5)
 
 2026-11-15 <span class="news-indication-tag">diabetes</span>
 
 Source: [El Mostrador](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSXFmemRwWVdfUmxBNnZaTC00T3R2OEttbVJYTWwweHdCT284Tk1kdjNkZkF0UGhLR1k2MzFEeEMxU3JpcjFncm1ZMXg2dGFJLU81YkppSTByOHhJNG5rVTNyemNTU1JpNmFJLVJKRGwyVjFoRUtkNmNoY01FS3pUeGpLSkpMWmR5UHJrMXlzTG5QaF83V2pQeVNHN08zczZ5cVVmS2dxa2ZZRVFxaU1lY2hxZE53NVNNWXlzOXdyU1JmQVA2MzJzQ0pjUEVaRnJLQXAwVkdWczM4a3lkc19uM2x0NWExN19jcXBz?oc=5)
+
+---
+
+### [La diabetes puede dañar la retina sin avisar: La importancia de cuidar la salud visual - El Cierre Digital](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmlJcnU0dDBqclJvS3hXRkU2SmNFYW15Q01GM1A4Um5rVUVfaF96Mkp1N0tBWEtYY19IZ0Q2LVJ5SXdzVkZCS3lCUjgtMGVqd0tMOHR6dlgxTTJaaDNQOUdXSGNkQ3FQaHpKeWxYbk9kek5MRGNiSzZKSTdVLTFacEp5Szl5dWtPYVg2M0tqZUxTWG9UQmRhU2NUdjJhNXI3ZzFYenp0cnAxM0RYdzBZcXZtdTlheGs?oc=5)
+
+2026-11-15 <span class="news-indication-tag">diabetes</span>
+
+Source: [El Cierre Digital](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmlJcnU0dDBqclJvS3hXRkU2SmNFYW15Q01GM1A4Um5rVUVfaF96Mkp1N0tBWEtYY19IZ0Q2LVJ5SXdzVkZCS3lCUjgtMGVqd0tMOHR6dlgxTTJaaDNQOUdXSGNkQ3FQaHpKeWxYbk9kek5MRGNiSzZKSTdVLTFacEp5Szl5dWtPYVg2M0tqZUxTWG9UQmRhU2NUdjJhNXI3ZzFYenp0cnAxM0RYdzBZcXZtdTlheGs?oc=5)
 
 ---
 
@@ -304,14 +416,6 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb
 
 ---
 
-### [Mum's heartache as she's told she 'won't make it past Christmas' after giving birth 9 weeks early - Wales Online](https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVhhcFgtbTJsYlFmN0tzMjBPR0lzV1hIWG1yT05ma1pWdUg1MEJkODBIOWI5NjdoUDZ6a0U1RmU0d2lTdEplWXd6b2VGUExXSi1uVWs1bkRQdnkzSHA1NmhDUE1yWFk5dmRPaW1wSU1lbkNVcDVwMWdkNmFham43ejJScG1MUknSAYwBQVVfeXFMT1UtejVQZUtPMWRVeE9hOU9lV3E0MzJqV2RzOFYydlR1Zk1WNXZTa2cxd2VOblZQbFF0LWx1OGIxVllQTEVGSzBtOEtSQ1p3RFBJZ1hRT2s4NVZZbmFLLXd6Rllwd2dreUdFUWtDblVJNkR1ZHBsYnZLb0NEM2RqRWJVSThlZFlhYk9VUEw?oc=5)
-
-2026-11-15 <span class="news-indication-tag">cancer</span>
-
-Source: [Wales Online](https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVhhcFgtbTJsYlFmN0tzMjBPR0lzV1hIWG1yT05ma1pWdUg1MEJkODBIOWI5NjdoUDZ6a0U1RmU0d2lTdEplWXd6b2VGUExXSi1uVWs1bkRQdnkzSHA1NmhDUE1yWFk5dmRPaW1wSU1lbkNVcDVwMWdkNmFham43ejJScG1MUknSAYwBQVVfeXFMT1UtejVQZUtPMWRVeE9hOU9lV3E0MzJqV2RzOFYydlR1Zk1WNXZTa2cxd2VOblZQbFF0LWx1OGIxVllQTEVGSzBtOEtSQ1p3RFBJZ1hRT2s4NVZZbmFLLXd6Rllwd2dreUdFUWtDblVJNkR1ZHBsYnZLb0NEM2RqRWJVSThlZFlhYk9VUEw?oc=5)
-
----
-
 ### ['I gave birth 9 weeks early for urgent cancer treatment - now I won't live past Christmas' - The Mirror](https://news.google.com/rss/articles/CBMidEFVX3lxTE9XNlo0TTlJZm5ybGRMUlFxTThDU01QVkNKUWRQZ2NkcXZDV1B1ajNMdjZyWVVrbE1ST00xZVVQWTdHNkV4UnNISjJsYzBzSXhpWmxpWjhpY08xVmxaaEFfRnJyWXBTOHVtR015VFJDUmRoR2xC0gF6QVVfeXFMTlBjdWhYWmxKUkg2NVgxZllmWE5tYWZ3N0k4YnhUWEVMamNkRTBnM1B2TlVYVDh3akpJaEYxbnp4VU1Hb2g2U1kwWUxJNmNuY2xBMHRZUjNDVllEXzNwaHM4Y3NBMUlySDJmTHhka0tyUmM0Q1h1Z3BpVUE?oc=5)
 
 2026-11-15 <span class="news-indication-tag">cancer</span>
@@ -338,7 +442,7 @@ Source: [El Nuevo Digital Murcia](https://news.google.com/rss/articles/CBMi1wFBV
 
 ### [Mamma Jessica ha iniziato la cura con il Daraxonrasib: "Avanti in questa battaglia per stare il più possibile con i miei bimbi"](https://news.google.com/rss/articles/CBMingFBVV95cUxQTkVoZ2FHU1Awckw2djFDbmJkNndkMmV6OFhYbXc1U2hBWWdWbmFoSVI4Ri1WYXFtMncwbXl0MHJ6RmhpOEIzSnlxSWhxN2xsSGhBbDRFeDc4S21XMElKc1lnbHM4Z2M0cHpUOWl1NjRtNHdxeWYwR3RZTDljcURTemZydlMwVHFjU3ozYTBRQW5ObGFzUVc2QU84QThvZw?oc=5)
 
-2026-11-15 <span class="news-indication-tag">tumor</span> <span class="news-drug-tag">Amlodipine</span>
+2026-11-15 <span class="news-indication-tag">tumor</span>
 
 Source: [LeccoToday](https://news.google.com/rss/articles/CBMingFBVV95cUxQTkVoZ2FHU1Awckw2djFDbmJkNndkMmV6OFhYbXc1U2hBWWdWbmFoSVI4Ri1WYXFtMncwbXl0MHJ6RmhpOEIzSnlxSWhxN2xsSGhBbDRFeDc4S21XMElKc1lnbHM4Z2M0cHpUOWl1NjRtNHdxeWYwR3RZTDljcURTemZydlMwVHFjU3ozYTBRQW5ObGFzUVc2QU84QThvZw?oc=5)
 
@@ -789,6 +893,14 @@ Source: [Cureus](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JmalhLZE
 2026-11-14 <span class="news-indication-tag">diabetes</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNRXZVUi11a0MtVWhnSlZiMlQ5cF84TVJ2NnQyclZOaGt0ZXFsbF9zblNGTTNESGE5UTdFN3F4VFJZQU9HclV3Z2w1VHVGd2hISzFlZ2xqTmo5dWVFX2hoZjV6N3BRaDM1R1dHaTBUaG9Kb1pCTGxXOHJ5dVNLZVJFYzFzUG9rTG91bDZxVUZ6VXkyYzVqVVV4TU41Q0hKZw?oc=5)
+
+---
+
+### [Statine bei Brustkrebs: Überlebensvorteil je nach Subtyp](https://news.google.com/rss/articles/CBMipgFBVV95cUxONlpiYmtwZXBsNUpHOWlKdGV4QXNiZkIxaVJyWVQ2dWROTEdEeS0wNDNqSXlOU1RQSXI1SGFMZGNBTFJkSjg4X2tsWHpGY3J2M05EelNjSzZod1pONWhaMDlodzBpU1NSZWQ1N3hWSzA0cmJpUzJvT1JBMDJiNDByTi1qYmdENUZtLWFIOHNra3pOb01JWmhHMjBIVDJ6YTAwenA2NmZn?oc=5)
+
+2026-11-14 <span class="news-indication-tag">Krebs</span>
+
+Source: [esanum](https://news.google.com/rss/articles/CBMipgFBVV95cUxONlpiYmtwZXBsNUpHOWlKdGV4QXNiZkIxaVJyWVQ2dWROTEdEeS0wNDNqSXlOU1RQSXI1SGFMZGNBTFJkSjg4X2tsWHpGY3J2M05EelNjSzZod1pONWhaMDlodzBpU1NSZWQ1N3hWSzA0cmJpUzJvT1JBMDJiNDByTi1qYmdENUZtLWFIOHNra3pOb01JWmhHMjBIVDJ6YTAwenA2NmZn?oc=5)
 
 ---
 
@@ -1504,6 +1616,14 @@ Source: [Corriere del Veneto](https://news.google.com/rss/articles/CBMi5gJBVV95c
 
 ---
 
+### [Typ-2-Diabetes bleibt in Thüringen eine große Herausforderung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXVON3pqbGZqbUtsT3NsalJvZ2J3ZTlxVFBTaHZXbko2VlZ0V29UcjhEUzg5MDkzWFhqTGRMVGMza21YeThvN1RVM0R6dXBweGNLMW8xZkVvbHRTSG9iWE9MdVdaaFlDaWxWQ0E1eml4cVJfMklNRFM1cmNkVVlWUzc0WkhrZmlBM3cxb29jcTl5SmpnZjF0blp4MGRrRE93R0J5Sm45ZmNPYlVremdfdlpWWV9vQ0ZSY1lF?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span>
+
+Source: [ABG-net](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXVON3pqbGZqbUtsT3NsalJvZ2J3ZTlxVFBTaHZXbko2VlZ0V29UcjhEUzg5MDkzWFhqTGRMVGMza21YeThvN1RVM0R6dXBweGNLMW8xZkVvbHRTSG9iWE9MdVdaaFlDaWxWQ0E1eml4cVJfMklNRFM1cmNkVVlWUzc0WkhrZmlBM3cxb29jcTl5SmpnZjF0blp4MGRrRE93R0J5Sm45ZmNPYlVremdfdlpWWV9vQ0ZSY1lF?oc=5)
+
+---
+
 ### [Farmaci, verso cure più semplici per il diabete: "L''Italia può aprire la strada in Europa" - Il Tirreno](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVmIzek9PRnRQWGw2clBUMEhEVEdaV3Z5UXhnbkRyajNyQ05QVTlpYUZUd2l4ejF6TzdUUFRRaGxLNVZiQ1hoV3p1TF9SQXFTeW9uaHZNUGZpdkJWbG5MMEM3TkpONTIxajRVZ2l2bXVUMGlMMXNGU0UtVV8zNEZvajh6RUpVNmJuZUltYTZ1SnBaeXowanV1SkRWUm5iYTl3TlF6dDJPTUhod3JoY2ZBVkJWOTM2X0xpbGhZd29PeHduM2FxeFdVZ3hac24tS3MwZUFxX281c0xocHlKQlZDeUhmMGgwTVlHVVhlXzdXOA?oc=5)
 
 2026-11-11 <span class="news-indication-tag">diabete</span>
@@ -1765,6 +1885,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUZ
 2026-11-10 <span class="news-indication-tag">diabetes</span>
 
 Source: [bierzotv](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFRGeHpfUDIxZG0wbzFCNnJ2cUpMRDEyWVBObHNTYTBqazUtRmN0SmZWNFFUbGNpZ1hQcGM4WGlOeDJIdWl6S0w1aGN6eDJHNDJpZ2NxVHE4NlFtOFdXa2FoTjhtemQ4d3VnYUFWTHRCV2cwQ251ODYycDdhN2FaZlVDckprSzJjUkVPVkFHc3ZJekhqeTJ6Z3FoZUs3Y3VPVU1yOEVUckFwcmZ6dmF5NNIBtgFBVV95cUxNbHRhc19NOHJZNTlxdEdQaHg1UVoteUdjOWlDOFMwMTVubUVQZnBnU0dyZUJiWnBvTkRhNmt6S3Nva0dILWk1SGZ5d0RuQUVVbmRKT1FRRTU4SUxnV3J5X1pHWmRQVi1zNnpueHNONE5TbGRvaVFDTHY2X19ndi1mbWR5UmlvcDF5UzNBT1RWYTFxcjRkVEN3ZHJVZlFyTGFzTGc0SEE2TE1XTDdGcnMwQjZUUFVTUQ?oc=5)
+
+---
+
+### [Diabete tipo 2, sospendere i GLP-1 associato a un rischio cardiovascolare doppio. Lo studio](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZzZTaDg4MERWS3NITUpveTlQYlFETmtPSHg0R0FvM2JwUUNtSWpQdmd4VTVIdm1kQmpESnNrbkZIV01WTXFseUtFOU5qaEFhRDhYUVNrNjZwdDU1WWpKdy1ZUTlMelJoSXhqUHMtWkx0T1g5RF9YTUlmVmRtajd5a1AzaC1lNUgyZkZaM3VGaUNSdXc0eWJVSlNWcUJzSmdIemlJNDNCOGpMQ2M?oc=5)
+
+2026-11-10 <span class="news-indication-tag">diabete</span>
+
+Source: [Doctor33](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZzZTaDg4MERWS3NITUpveTlQYlFETmtPSHg0R0FvM2JwUUNtSWpQdmd4VTVIdm1kQmpESnNrbkZIV01WTXFseUtFOU5qaEFhRDhYUVNrNjZwdDU1WWpKdy1ZUTlMelJoSXhqUHMtWkx0T1g5RF9YTUlmVmRtajd5a1AzaC1lNUgyZkZaM3VGaUNSdXc0eWJVSlNWcUJzSmdIemlJNDNCOGpMQ2M?oc=5)
 
 ---
 

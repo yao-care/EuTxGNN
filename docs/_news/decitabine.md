@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Decitabine. 1 predicted indications."
 permalink: /news/decitabine/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Decitabine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Decitabine?">
-<strong>Decitabine</strong> currently has <strong>295 news articles</strong>, with 1 predicted indications.
+<strong>Decitabine</strong> currently has <strong>300 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,45 @@ This page combines the AI-predicted indications for Decitabine with the latest h
 <p><a href="{{ '/drugs/decitabine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (295)
+## Related News (300)
+
+### [«Sono un oncologo, ecco perché i tumori aumentano sotto i 50 anni: dai batteri infantili alle infiammazioni» - Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXdHcEp6ZWlXY2t4Mk5jaDEyZmVZdzNRenkyYjZ1ang0VkhnYVoxUlBQNUtzLUlpdmdiQlpCWldOVlFOMkxMUmdkVmR3cFlxeVBFV3dkMVdlZHpkQmk4MlN4cWhrYm1YQVpPX3dQYmN1ZlRacWU5c3EySjN6VnZuSVl3cTVIVVlMb3ZlLV9LeW9YTUZ0V3E0Nk1PNEduYTVZbXVwYU54dEQ5bG9SQlI4LVZzR0wxRWhSMTNwNnRxQmM0Y0ds0gHCAUFVX3lxTFByeXV1Y3V2WFctZXpSUGE5UksyMXM3YVBMLTcxV3liMzB4eFBKdkRnbEhEQ1FFVy1QT2I1NlN1dnExcXpRb2sydFc1bHZzRC1OSloyQmVad2NVN3F4bzRVOER3ci1fbmZZeTdBSHNRc3Bpc0hkdW5kb1ZaNlJJUEVqU2tZQjcyZ0EzajhrZC1vRXkwNXJkRVZQTFRmT3BKc3I0dkpEQ015aWlNYlpNQVJFcVMxY0RkQzNRTUhkOGZuRGVR?oc=5)
+
+2026-11-16 <span class="news-indication-tag">tumor</span>
+
+Source: [Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXdHcEp6ZWlXY2t4Mk5jaDEyZmVZdzNRenkyYjZ1ang0VkhnYVoxUlBQNUtzLUlpdmdiQlpCWldOVlFOMkxMUmdkVmR3cFlxeVBFV3dkMVdlZHpkQmk4MlN4cWhrYm1YQVpPX3dQYmN1ZlRacWU5c3EySjN6VnZuSVl3cTVIVVlMb3ZlLV9LeW9YTUZ0V3E0Nk1PNEduYTVZbXVwYU54dEQ5bG9SQlI4LVZzR0wxRWhSMTNwNnRxQmM0Y0ds0gHCAUFVX3lxTFByeXV1Y3V2WFctZXpSUGE5UksyMXM3YVBMLTcxV3liMzB4eFBKdkRnbEhEQ1FFVy1QT2I1NlN1dnExcXpRb2sydFc1bHZzRC1OSloyQmVad2NVN3F4bzRVOER3ci1fbmZZeTdBSHNRc3Bpc0hkdW5kb1ZaNlJJUEVqU2tZQjcyZ0EzajhrZC1vRXkwNXJkRVZQTFRmT3BKc3I0dkpEQ015aWlNYlpNQVJFcVMxY0RkQzNRTUhkOGZuRGVR?oc=5)
+
+---
+
+### [Lebende Darmbakterien können Krebspatienten nach Stammzelltherapien vor Blutstrominfektion schützen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSVdIbXJhWE1zbXNwMzIzX2NHdXZLeklVUmRNUk5PeW5qV24tU2tJaWw1NG03SnpNTVVyekJzOFJaWDZTMUNhZDN4M0dPWmFnb3RqbzlQejNJRERxYnd3TFMxRTk0dl91Y1QwS3JiSjFZeVVhNUUtQTlJbHlydWMwSmJjci1jUDlMaXhNaEYzbkZTN2sta1hJOVQwaDl4QVk4cEFvQ0hNY2VGY3hOeE55NzcwQ2NfdzNTVWxUam9CMVJ4SlIzdFh5bURFbWtVZm9RTUlPX1BwYll6UjhOdm5QSEtJZUwzRVZ1V3g5TWVUbXM1dElOdHFnXzktSkc?oc=5)
+
+2026-11-16 <span class="news-indication-tag">Krebs</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSVdIbXJhWE1zbXNwMzIzX2NHdXZLeklVUmRNUk5PeW5qV24tU2tJaWw1NG03SnpNTVVyekJzOFJaWDZTMUNhZDN4M0dPWmFnb3RqbzlQejNJRERxYnd3TFMxRTk0dl91Y1QwS3JiSjFZeVVhNUUtQTlJbHlydWMwSmJjci1jUDlMaXhNaEYzbkZTN2sta1hJOVQwaDl4QVk4cEFvQ0hNY2VGY3hOeE55NzcwQ2NfdzNTVWxUam9CMVJ4SlIzdFh5bURFbWtVZm9RTUlPX1BwYll6UjhOdm5QSEtJZUwzRVZ1V3g5TWVUbXM1dElOdHFnXzktSkc?oc=5)
+
+---
+
+### [Wie ein neuer Bluttest Eierstockkrebs früher erkennen könnte](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVXZYbm81UkxZUTBHSDE4Q05ibHJlMURJMHJsRVppbXBnSy1UVVlLUl9vR0k5S2xVZFNSMC1IVmpsY1lXQWJ0Yzh4dnUzS0pTRWc5ZnR6WTFfU0U4WEp2UjBZd0lSRUtndnRiVVZwSHRoVk9VcDU1VjFWUmpwNEdiak5peWZ2aWxOVXJSRnZkUExZMC1RUkVjNUhRVUVBVExIN3kzRlJTNE5mbUF4MXNRZlg2UFgxZDluUHBKbEFnakFrS3BMUkY3ajltUGRob1Z0LS1JRG1R?oc=5)
+
+2026-11-16 <span class="news-indication-tag">Krebs</span>
+
+Source: [FAZ](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVXZYbm81UkxZUTBHSDE4Q05ibHJlMURJMHJsRVppbXBnSy1UVVlLUl9vR0k5S2xVZFNSMC1IVmpsY1lXQWJ0Yzh4dnUzS0pTRWc5ZnR6WTFfU0U4WEp2UjBZd0lSRUtndnRiVVZwSHRoVk9VcDU1VjFWUmpwNEdiak5peWZ2aWxOVXJSRnZkUExZMC1RUkVjNUhRVUVBVExIN3kzRlJTNE5mbUF4MXNRZlg2UFgxZDluUHBKbEFnakFrS3BMUkY3ajltUGRob1Z0LS1JRG1R?oc=5)
+
+---
 
 ### [Neuer Bluttest erkennt Eierstockkrebs-Vorstufen früh](https://news.google.com/rss/articles/CBMiygFBVV95cUxPN1JmdURraHVGRFE1d0I0VFVFUXJ1TXFQcHEtU2RXNUtEMU9zdkJYQXZhY2QwSGVONmxyYUE4MFpHdlhMWVluMnBDeUg5ZWxDWFk4V2hIYTJiWEtlNWdSamtCWW5rTmhkQ2JYa1dVaTd4c244dmcySHdnNFpOa1ZyblluSTVVSUllRm9YX0JtSGlKSkIycmlkalk1c3B1ejZtMHEwV2pUZTNjanRZYjMyUVVKZnEyaEpLNnNCYjBfSWdqZ29pemRmMEFn?oc=5)
 
 2026-11-16 <span class="news-indication-tag">Krebs</span>
 
 Source: [FAZ](https://news.google.com/rss/articles/CBMiygFBVV95cUxPN1JmdURraHVGRFE1d0I0VFVFUXJ1TXFQcHEtU2RXNUtEMU9zdkJYQXZhY2QwSGVONmxyYUE4MFpHdlhMWVluMnBDeUg5ZWxDWFk4V2hIYTJiWEtlNWdSamtCWW5rTmhkQ2JYa1dVaTd4c244dmcySHdnNFpOa1ZyblluSTVVSUllRm9YX0JtSGlKSkIycmlkalk1c3B1ejZtMHEwV2pUZTNjanRZYjMyUVVKZnEyaEpLNnNCYjBfSWdqZ29pemRmMEFn?oc=5)
+
+---
+
+### [Dal diabete ai tumori all’obesità: le malattie croniche dell’uomo colpiscono gli animali – Ecco perché - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR0xUdC1rZDlEbGk2bVE1Z21nNTdadFdJbkF2N2tteXhJWnRjRllmcERBYms5aTdsR0hOVUZpR1RBYXpDS1hwVW9pVmVuZzFwRzB6UTZya3RGTWZlLVRzcWx4c2JVUWw4ZVp4RkhoMGJsaDVicWtnRlo1aXAxekt5MHA2X1RuSkVBckRHS3lDV2k5MWNydVkwVXN5cldhY3N4eFJHaTFrRDJYcERDdC1fdlZqbTR6TUx4bUR3YWdGc2hkNDNfUjFtY3EtYXQyemFJRVRMYWJ0aHBVdjA1RWFIMGtZQ0NILWZzTWNMNU5oR3ZVbThaVjlGQmNB?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+
+Source: [La Nuova Sardegna](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR0xUdC1rZDlEbGk2bVE1Z21nNTdadFdJbkF2N2tteXhJWnRjRllmcERBYms5aTdsR0hOVUZpR1RBYXpDS1hwVW9pVmVuZzFwRzB6UTZya3RGTWZlLVRzcWx4c2JVUWw4ZVp4RkhoMGJsaDVicWtnRlo1aXAxekt5MHA2X1RuSkVBckRHS3lDV2k5MWNydVkwVXN5cldhY3N4eFJHaTFrRDJYcERDdC1fdlZqbTR6TUx4bUR3YWdGc2hkNDNfUjFtY3EtYXQyemFJRVRMYWJ0aHBVdjA1RWFIMGtZQ0NILWZzTWNMNU5oR3ZVbThaVjlGQmNB?oc=5)
 
 ---
 
@@ -107,6 +139,14 @@ Source: [Cremonaoggi](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX0lMM
 
 ---
 
+### [El tumor silencioso del que no hablan los hombres: más de 1.200 nuevos casos al año en Málaga y la clave para detectarlo a tiempo - Diario Sur](https://news.google.com/rss/articles/CBMisgFBVV95cUxPXy1VbWhwaU1MYXMyX3RYNjhCNmxrNFQwdTR0d1FPWkRWc0x0cTQ2dWJjc3ZBMERwRW9ZVndLdTRCQTVHNHByS3dMbTMyZ1pqaEdicWtBWmJTUTFyR1A0eV9yaG9id293VXl6Y1pfVUh1WTJuY2ttMUJEcUJVSnNfZkMxTGJ6LWNkTlh3QjRjQ1NDTjBRMUFYSFpYOGlVVzQxallLWjc0YlNzUElsM2RickZn0gG3AUFVX3lxTE1yczRsTnE0QmhMNWVHaGdqcTdla3poQ1A2OHBjZlNLZmxZbHE5RXVCQjFuOVB1V3hmYlN1YmJENGxhb0JraWxnNFBpR0c4czVWN0RTUm04T3FJd1gtUEtzNWxHelZtOWpvTGlta2RmMncxQ1liSGI2QjktUUZSNXZZT2hGdi1TODMycVZfM2RzTG9zYnM5bUpBZXlrU1VSV2NnbFlWZ1NKbmVXMEp0bFh6NHdmVnRhcw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">tumor</span>
+
+Source: [Diario Sur](https://news.google.com/rss/articles/CBMisgFBVV95cUxPXy1VbWhwaU1MYXMyX3RYNjhCNmxrNFQwdTR0d1FPWkRWc0x0cTQ2dWJjc3ZBMERwRW9ZVndLdTRCQTVHNHByS3dMbTMyZ1pqaEdicWtBWmJTUTFyR1A0eV9yaG9id293VXl6Y1pfVUh1WTJuY2ttMUJEcUJVSnNfZkMxTGJ6LWNkTlh3QjRjQ1NDTjBRMUFYSFpYOGlVVzQxallLWjc0YlNzUElsM2RickZn0gG3AUFVX3lxTE1yczRsTnE0QmhMNWVHaGdqcTdla3poQ1A2OHBjZlNLZmxZbHE5RXVCQjFuOVB1V3hmYlN1YmJENGxhb0JraWxnNFBpR0c4czVWN0RTUm04T3FJd1gtUEtzNWxHelZtOWpvTGlta2RmMncxQ1liSGI2QjktUUZSNXZZT2hGdi1TODMycVZfM2RzTG9zYnM5bUpBZXlrU1VSV2NnbFlWZ1NKbmVXMEp0bFh6NHdmVnRhcw?oc=5)
+
+---
+
 ### ['Doctors said my son's sickness was anxiety over my cancer diagnosis - it was symptom of his own cancer' - The Mirror](https://news.google.com/rss/articles/CBMikgFBVV95cUxOUld0R1BqUWFrbkF6RlplUzFsaEVNeHMwV2g1MjdLMUNJLVU0TXJuOEF3cFZtcmR3dlEzT2FBMWdCaHgwQ3JLa2dXdGtIUzdRRFBhV2Q3el9NVkRMY3NHOWdLak9hRGNlem9uZXh1UmFpQzVfLW9vNFN0TWlMSDZ1d2E1cko5WHpYZlpUM1RBUGZCd9IBlwFBVV95cUxQcTRzLWFNYTZXN1RPY1ZhNFZYS2NVMXBsbDJJaVVnMlRmOVZpMVR0Y0RsbmpQMF9HbWNBbXN5ek1xd1pFX0p1T3A4M0tGNFphcFlYTEdjVkJPQi1fazN3VHZna0MtVlJJLXUwcWstSE5wSHd5Wkt2VExrc3RrZXc0cEZhMlpHVGdQYXlFMmttamJJYVlFUjVr?oc=5)
 
 2026-11-15 <span class="news-indication-tag">cancer</span>
@@ -139,14 +179,6 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb
 
 ---
 
-### [Mum's heartache as she's told she 'won't make it past Christmas' after giving birth 9 weeks early - Wales Online](https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVhhcFgtbTJsYlFmN0tzMjBPR0lzV1hIWG1yT05ma1pWdUg1MEJkODBIOWI5NjdoUDZ6a0U1RmU0d2lTdEplWXd6b2VGUExXSi1uVWs1bkRQdnkzSHA1NmhDUE1yWFk5dmRPaW1wSU1lbkNVcDVwMWdkNmFham43ejJScG1MUknSAYwBQVVfeXFMT1UtejVQZUtPMWRVeE9hOU9lV3E0MzJqV2RzOFYydlR1Zk1WNXZTa2cxd2VOblZQbFF0LWx1OGIxVllQTEVGSzBtOEtSQ1p3RFBJZ1hRT2s4NVZZbmFLLXd6Rllwd2dreUdFUWtDblVJNkR1ZHBsYnZLb0NEM2RqRWJVSThlZFlhYk9VUEw?oc=5)
-
-2026-11-15 <span class="news-indication-tag">cancer</span>
-
-Source: [Wales Online](https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVhhcFgtbTJsYlFmN0tzMjBPR0lzV1hIWG1yT05ma1pWdUg1MEJkODBIOWI5NjdoUDZ6a0U1RmU0d2lTdEplWXd6b2VGUExXSi1uVWs1bkRQdnkzSHA1NmhDUE1yWFk5dmRPaW1wSU1lbkNVcDVwMWdkNmFham43ejJScG1MUknSAYwBQVVfeXFMT1UtejVQZUtPMWRVeE9hOU9lV3E0MzJqV2RzOFYydlR1Zk1WNXZTa2cxd2VOblZQbFF0LWx1OGIxVllQTEVGSzBtOEtSQ1p3RFBJZ1hRT2s4NVZZbmFLLXd6Rllwd2dreUdFUWtDblVJNkR1ZHBsYnZLb0NEM2RqRWJVSThlZFlhYk9VUEw?oc=5)
-
----
-
 ### ['I gave birth 9 weeks early for urgent cancer treatment - now I won't live past Christmas' - The Mirror](https://news.google.com/rss/articles/CBMidEFVX3lxTE9XNlo0TTlJZm5ybGRMUlFxTThDU01QVkNKUWRQZ2NkcXZDV1B1ajNMdjZyWVVrbE1ST00xZVVQWTdHNkV4UnNISjJsYzBzSXhpWmxpWjhpY08xVmxaaEFfRnJyWXBTOHVtR015VFJDUmRoR2xC0gF6QVVfeXFMTlBjdWhYWmxKUkg2NVgxZllmWE5tYWZ3N0k4YnhUWEVMamNkRTBnM1B2TlVYVDh3akpJaEYxbnp4VU1Hb2g2U1kwWUxJNmNuY2xBMHRZUjNDVllEXzNwaHM4Y3NBMUlySDJmTHhka0tyUmM0Q1h1Z3BpVUE?oc=5)
 
 2026-11-15 <span class="news-indication-tag">cancer</span>
@@ -157,7 +189,7 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMidEFVX3lxTE9XNlo0TT
 
 ### [Mamma Jessica ha iniziato la cura con il Daraxonrasib: "Avanti in questa battaglia per stare il più possibile con i miei bimbi"](https://news.google.com/rss/articles/CBMingFBVV95cUxQTkVoZ2FHU1Awckw2djFDbmJkNndkMmV6OFhYbXc1U2hBWWdWbmFoSVI4Ri1WYXFtMncwbXl0MHJ6RmhpOEIzSnlxSWhxN2xsSGhBbDRFeDc4S21XMElKc1lnbHM4Z2M0cHpUOWl1NjRtNHdxeWYwR3RZTDljcURTemZydlMwVHFjU3ozYTBRQW5ObGFzUVc2QU84QThvZw?oc=5)
 
-2026-11-15 <span class="news-indication-tag">tumor</span> <span class="news-drug-tag">Amlodipine</span>
+2026-11-15 <span class="news-indication-tag">tumor</span>
 
 Source: [LeccoToday](https://news.google.com/rss/articles/CBMingFBVV95cUxQTkVoZ2FHU1Awckw2djFDbmJkNndkMmV6OFhYbXc1U2hBWWdWbmFoSVI4Ri1WYXFtMncwbXl0MHJ6RmhpOEIzSnlxSWhxN2xsSGhBbDRFeDc4S21XMElKc1lnbHM4Z2M0cHpUOWl1NjRtNHdxeWYwR3RZTDljcURTemZydlMwVHFjU3ozYTBRQW5ObGFzUVc2QU84QThvZw?oc=5)
 
@@ -288,6 +320,14 @@ Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ
 2026-11-14 <span class="news-indication-tag">carcinoma</span>
 
 Source: [Cureus](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JmalhLZEVoNDdlTzVvaEtxWGhHcU8tV0hLdmVfODl5RDZlQVd6UWlRYmxBR2xLQnVoNU9YZHcwYUNWR1Y5ZzNMV0Y5S25mS0NFZW11cGZidmt2alhidDE1RGJ6dGZRekJwT2ZaR1BORGt5MjNoNWhWZHJoWmxHNlpjWjZxQl9WNndJWEoySUF0cjYxLWpETHJkazVwaFFpbVpWX1Z5VzhHOFBBeEhFWThCSzR2ZzZzWGs2UThHSQ?oc=5)
+
+---
+
+### [Statine bei Brustkrebs: Überlebensvorteil je nach Subtyp](https://news.google.com/rss/articles/CBMipgFBVV95cUxONlpiYmtwZXBsNUpHOWlKdGV4QXNiZkIxaVJyWVQ2dWROTEdEeS0wNDNqSXlOU1RQSXI1SGFMZGNBTFJkSjg4X2tsWHpGY3J2M05EelNjSzZod1pONWhaMDlodzBpU1NSZWQ1N3hWSzA0cmJpUzJvT1JBMDJiNDByTi1qYmdENUZtLWFIOHNra3pOb01JWmhHMjBIVDJ6YTAwenA2NmZn?oc=5)
+
+2026-11-14 <span class="news-indication-tag">Krebs</span>
+
+Source: [esanum](https://news.google.com/rss/articles/CBMipgFBVV95cUxONlpiYmtwZXBsNUpHOWlKdGV4QXNiZkIxaVJyWVQ2dWROTEdEeS0wNDNqSXlOU1RQSXI1SGFMZGNBTFJkSjg4X2tsWHpGY3J2M05EelNjSzZod1pONWhaMDlodzBpU1NSZWQ1N3hWSzA0cmJpUzJvT1JBMDJiNDByTi1qYmdENUZtLWFIOHNra3pOb01JWmhHMjBIVDJ6YTAwenA2NmZn?oc=5)
 
 ---
 

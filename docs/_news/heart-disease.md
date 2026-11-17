@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about heart failure (heart disease). 20 articles, 57 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # heart failure (heart disease) News
@@ -36,6 +36,7 @@ This page brings together the latest health news about “heart failure” and l
 <li><a href="{{ '/drugs/belatacept/' | relative_url }}">Belatacept</a></li>
 <li><a href="{{ '/drugs/cangrelor/' | relative_url }}">Cangrelor</a></li>
 <li><a href="{{ '/drugs/clopidogrel/' | relative_url }}">Clopidogrel</a></li>
+<li><a href="{{ '/drugs/dacomitinib/' | relative_url }}">Dacomitinib Monohydrate</a></li>
 <li><a href="{{ '/drugs/dalbavancin/' | relative_url }}">Dalbavancin Hydrochloride</a></li>
 <li><a href="{{ '/drugs/erdafitinib/' | relative_url }}">Erdafitinib</a></li>
 <li><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">Hydrochlorothiazide</a></li>

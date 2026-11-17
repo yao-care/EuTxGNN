@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tacrolimus. 2 predicted indications."
 permalink: /news/tacrolimus/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-17
 ---
 
 # Tacrolimus News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Tacrolimus?">
-<strong>Tacrolimus</strong> currently has <strong>18 news articles</strong>, with 2 predicted indications.
+<strong>Tacrolimus</strong> currently has <strong>19 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (19)
+
+### [Neue Studie zu B 5 / Panthetine](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQk10RlIteHlYR3gwSmcycGdaQkx5T0JQMHQwVzN3ZU9GLUhFMkc2VjFkUmxsUVVfQjlzdkxzWmIzV0NWYkVwbXl0dzhVYkVpbXZNSjhSaGZtTVE0cWJibXN6Y25LRzV6QnBDRExVZG0yWWJVOUhDaGx0NEQxdVl6UkgwLWE2QQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">psoriasis</span>
+
+Source: [Psoriasis-Netz](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQk10RlIteHlYR3gwSmcycGdaQkx5T0JQMHQwVzN3ZU9GLUhFMkc2VjFkUmxsUVVfQjlzdkxzWmIzV0NWYkVwbXl0dzhVYkVpbXZNSjhSaGZtTVE0cWJibXN6Y25LRzV6QnBDRExVZG0yWWJVOUhDaGx0NEQxdVl6UkgwLWE2QQ?oc=5)
+
+---
 
 ### [Nuevos hallazgos sobre la eficacia de los tratamientos biológicos en la psoriasis y pustulosis palmoplantar](https://news.google.com/rss/articles/CBMirAFBVV95cUxNUG1kaEVDN1VWeGtIQndDZEhJWEExWXhxWFJoa0VvZ0VMZmtDVGw2b0liaHhGZUdXMWFaOU5xdkUxaHozdTBhZkVNZ3htVHNUd2lJY2JETzh5bGxhQ0JDMXV3NUJzMXBacnZjRWZZaVFqa2t1Y3dLTUg1T2psUEFUcnlZUDBNZVpmNXFfWFhHX24yY1o2SkxwZW1mSzdVczQwelFBNGhFUEx5Mk96?oc=5)
 

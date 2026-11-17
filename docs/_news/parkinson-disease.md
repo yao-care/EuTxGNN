@@ -3,9 +3,9 @@ layout: default
 title: "maladie de Parkinson (parkinson disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about maladie de Parkinson (parkinson disease). 10 articles, 7 related drugs."
+description: "Health news about maladie de Parkinson (parkinson disease). 11 articles, 7 related drugs."
 permalink: /news/parkinson-disease/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # maladie de Parkinson (parkinson disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about maladie de Parkinson (parkinson disease)?">
-<strong>maladie de Parkinson (parkinson disease)</strong> currently has <strong>10 news articles</strong> and 7 related drugs.
+<strong>maladie de Parkinson (parkinson disease)</strong> currently has <strong>11 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “maladie de Parkinson�
 </ul>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Pourquoi La maladie de Parkinson touche plus certains départements](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOV21DYkR3Z01CN1FPQVRQRHpMODc3M25iRFFBRFE2YkxkMWxkV0FFbGV1Q2hjeWhGblBlYUVZQ3FGTFVsVzV5aDAzNEtJWmNDTmgwY3NESGlaSDZGN1doOERkcXJaMERVNF81dk9nYUlGV1BVeENJVjJtVmRYb1ZXWW50MEpCWGFoanZGT25vUFNJTi1ieHlpNTZHVGc2bTQyRTJXTWVGUzQ3QjBCWU5ZaGV1Uk81WU1oUW5sU2tLNTkxVGNrZjQ2alBYbHk3djIwdlZabVUwdHdGbUZfeDVXdzBDeTVNdDc2NEoxcEw2QjJDeVNxdkREdkkzTFhlQQ?oc=5)
+
+2026-11-16
+
+Source: [franceinfo](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOV21DYkR3Z01CN1FPQVRQRHpMODc3M25iRFFBRFE2YkxkMWxkV0FFbGV1Q2hjeWhGblBlYUVZQ3FGTFVsVzV5aDAzNEtJWmNDTmgwY3NESGlaSDZGN1doOERkcXJaMERVNF81dk9nYUlGV1BVeENJVjJtVmRYb1ZXWW50MEpCWGFoanZGT25vUFNJTi1ieHlpNTZHVGc2bTQyRTJXTWVGUzQ3QjBCWU5ZaGV1Uk81WU1oUW5sU2tLNTkxVGNrZjQ2alBYbHk3djIwdlZabVUwdHdGbUZfeDVXdzBDeTVNdDc2NEoxcEw2QjJDeVNxdkREdkkzTFhlQQ?oc=5)
+
+---
 
 ### [Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTkwwbk1IUkI0ZVdqREQ0TWQtck5ETTMtYzVLX2o0RFhZYW5ROWJnNFF1Yzlab0pES1o4Q2RaS3JIb1Bwa0NkNHg0UWM2ME5ESHkzcmtJMUpNcHI5TXAwb2hLMGN3ZUpOY0hPNlB3bHotR3M0V2JkdzJzVWxkWnBkdzZKdTBKSG4yRFh2OFdCY2xDTVRDRDU3QWdqeE1DaURINFR6eW5CMEl5SnRYWHRmRWVfeVl4VS03UFVQUWszcW9JVFRCRkdUZkNNWXNSd1JKSWxyYjd5RllpWmwyV2NVMXJnMVlGdDhhMEJmTms2eXR4bk1n?oc=5)
 

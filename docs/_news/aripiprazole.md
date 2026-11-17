@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Aripiprazole. 8 predicted indications."
 permalink: /news/aripiprazole/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Aripiprazole News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Aripiprazole?">
-<strong>Aripiprazole</strong> currently has <strong>14 news articles</strong>, with 8 predicted indications.
+<strong>Aripiprazole</strong> currently has <strong>15 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Aripiprazole with the latest
 <p><a href="{{ '/drugs/aripiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (15)
+
+### [Herzgesundheit: Wie viel Kaffee schützt vor Vorhofflimmern?](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUhTUmxQVGhkMHAxeTV1R2RwVUFjX0RUM0g5eGdtYmFoS1I1aVljempNZkxsd0RndnlsMHJ5XzBCeC1rUWJrdTZhMnRobFNFWWdVSkhLZXQwZlRBQXpJRmluMEh1UXBXNmxhWGJjWWFuNVNXWldpYkVnVXNnODh3VE54QXBVN0NCS2ZNRDJENHgyWU0?oc=5)
+
+2026-11-16 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [WEB.DE](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUhTUmxQVGhkMHAxeTV1R2RwVUFjX0RUM0g5eGdtYmFoS1I1aVljempNZkxsd0RndnlsMHJ5XzBCeC1rUWJrdTZhMnRobFNFWWdVSkhLZXQwZlRBQXpJRmluMEh1UXBXNmxhWGJjWWFuNVNXWldpYkVnVXNnODh3VE54QXBVN0NCS2ZNRDJENHgyWU0?oc=5)
+
+---
 
 ### [Vorhofflimmern vorbeugen: Wie viel Kaffee ist für das Herz ideal?](https://news.google.com/rss/articles/CBMijwFBVV95cUxQd3NhZWF1clJhOHVORGtDNkhRNmszVE1NVkdrVEF1dm5WZTMwa0Yta3NiMTdCbVlNQTdnUkFLQWplQ2JfUnVxWHI4MGVfaWlNWjhDX3gwaXJSRDF3ZnNyUkFwakpxd3dFQkc5X3NmMHRLdU1kZ0IyZkR2SzVVRlVKeHhOU2pCbWVxNFFDbGJRSQ?oc=5)
 

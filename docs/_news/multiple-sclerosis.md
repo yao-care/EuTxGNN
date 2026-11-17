@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about sclerosi multipla (multiple sclerosis). 12 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # sclerosi multipla (multiple sclerosis) News
@@ -38,6 +38,7 @@ This page brings together the latest health news about “sclerosi multipla” a
 <li><a href="{{ '/drugs/loxapine/' | relative_url }}">Loxapine</a></li>
 <li><a href="{{ '/drugs/lurasidone/' | relative_url }}">Lurasidone</a></li>
 <li><a href="{{ '/drugs/nelarabine/' | relative_url }}">Nelarabine</a></li>
+<li><a href="{{ '/drugs/ozanimod/' | relative_url }}">Ozanimod Hydrochloride</a></li>
 <li><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">Pibrentasvir</a></li>
 <li><a href="{{ '/drugs/rotigotine/' | relative_url }}">Rotigotine</a></li>
 <li><a href="{{ '/drugs/rufinamide/' | relative_url }}">Rufinamide</a></li>

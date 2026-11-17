@@ -3,9 +3,9 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 43 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 42 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # dementia (alzheimer disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>43 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>42 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (43)
+## Related News (42)
 
 ### [The two-minute habits that prevent dementia - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPekY0d0VjTGZucWhwZ2ZMVE5ybDdueDJ5TF9ZOUp4RHZ4enI2emNNek1IcmdzZXFUX29DZ0JTWDI1SmFxejg5cGxjemtoV2NvU2pkU1N6ajRfX2M4RlBQMlh1ZjhocWgtVHZiQXdNTW1TYmdQYktXUGFWdnAtcXV0bHFRWE9NMDVtUEQycURDYlNwZzlmclEtX2h1XzU0WnpiSWhPdzZR?oc=5)
 
 2026-11-16
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPekY0d0VjTGZucWhwZ2ZMVE5ybDdueDJ5TF9ZOUp4RHZ4enI2emNNek1IcmdzZXFUX29DZ0JTWDI1SmFxejg5cGxjemtoV2NvU2pkU1N6ajRfX2M4RlBQMlh1ZjhocWgtVHZiQXdNTW1TYmdQYktXUGFWdnAtcXV0bHFRWE9NMDVtUEQycURDYlNwZzlmclEtX2h1XzU0WnpiSWhPdzZR?oc=5)
-
----
-
-### [Témoignage. Covid long : « C’est comme si le cerveau marchait au ralenti », même cinq ans après la maladie - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZC1WWWF6d1dwZnFHakllQ3BiUE1WTE4taHpuWFJILS1RTTdBTEJPS3k3NzF3b05Qb0pNWENfZmFrbjcwaWtvLXNkZ21kSVBKRUgwaGRKNmtlVmdXRmtkeW5wT2NJNUdNSnJ2R0FkNXBjcDhkeTNjUHpnMzd3aExTb0NUMDVJNWdhU3JtT1cxVXFNZ0dIbEFzQkU2SnBRd3NGZG54SnV6M210U2lRNWpTTzVXaGRfWGZpWnhDMWRrc2VfbDYycV9nc0VVTQ?oc=5)
-
-2026-11-15
-
-Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZC1WWWF6d1dwZnFHakllQ3BiUE1WTE4taHpuWFJILS1RTTdBTEJPS3k3NzF3b05Qb0pNWENfZmFrbjcwaWtvLXNkZ21kSVBKRUgwaGRKNmtlVmdXRmtkeW5wT2NJNUdNSnJ2R0FkNXBjcDhkeTNjUHpnMzd3aExTb0NUMDVJNWdhU3JtT1cxVXFNZ0dIbEFzQkU2SnBRd3NGZG54SnV6M210U2lRNWpTTzVXaGRfWGZpWnhDMWRrc2VfbDYycV9nc0VVTQ?oc=5)
 
 ---
 

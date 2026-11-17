@@ -1,16 +1,721 @@
 ---
-layout: id_redirect
-permalink: /news/dacomitinib-monohydrate/
-sitemap: false
-search_exclude: true
+layout: default
+title: "Dacomitinib Monohydrate News"
+parent: 📰 Health News
 nav_exclude: true
+description: "Health news related to Dacomitinib Monohydrate. 0 predicted indications."
+permalink: /news/dacomitinib-monohydrate/
+last_modified_at: 2026-11-17
 ---
-<!DOCTYPE html>
-<html>
-<meta charset="utf-8">
-<title>Redirecting&hellip;</title>
-<link rel="canonical" href="{{ site.url }}/news/">
-<meta http-equiv="refresh" content="0; url=/news/">
-<script>location="/news/"</script>
-<a href="/news/">/news/</a>
-</html>
+
+# Dacomitinib Monohydrate News
+
+[← Back to News Overview]({{ '/news/' | relative_url }})
+
+---
+
+<p class="key-answer" data-question="What news is there about Dacomitinib Monohydrate?">
+<strong>Dacomitinib Monohydrate</strong> currently has <strong>81 news articles</strong>, with 0 predicted indications.
+</p>
+
+<div class="key-takeaway">
+This page combines the AI-predicted indications for Dacomitinib Monohydrate with the latest health news. Indications highlighted in orange have recent news coverage.
+</div>
+
+<div class="drug-info-card">
+<strong>Drug Information</strong>
+<ul>
+</ul>
+<p><a href="{{ '/drugs/dacomitinib/' | relative_url }}">View full drug report →</a></p>
+</div>
+
+## Related News (81)
+
+### [Pressione alta: si controlla poco. Farlo, eviterebbe infarti e ictus, ma anche danni ai reni e disfunzione erettile - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxPaG1weGszY3oxYlVhbWpqYkJxOEpRai1WQXFFZDlCZC1ScC1xUGsxNUdPbURxVE1tOGZNYlgyb2YzRDMzU0tRRU1fekNBbWZNYW92S3FYeVhiNnJ6TkNqbzRTSW5IM0ZmN2wtV0hZLVB3bFdIYUU3Sl96YXp3R0hjMXE3SV95ejVtNmJFYlNLS0RSaUs3VExwTExpNjNxd0pYdVFwLTFtcXpoOUxXNjZUVkNiWXRmdFVXbVZiWlhHd3E5NFcyRnBpREMzcm5YY1ZJNklHSFZKbEFKeV9rODNhZ3ltMXZDVm5NSVdvMUw4NHpMWUNYR1haVW90UUhXN3VoUTM3cjVSd19PX3YxRTJkQzh1ZTNaQXZ2RTgzZnVHQTBMdFJYQnZDaHhxRmF4M0Q4RlYwaWVJNi1jazF2aVdlVNIBxgJBVV95cUxNV1hqSW1yYkRCZDNKY1lDZFdGZlBhc3FxRk1CYWJOdC1GZnNjUWlUWnVaMTFYdHZNbXlQdG9LX0lzemkwYV80RlQ3VzZRTk1ucjRuYlh6SUFScUJmN1k5emxXX0ZfMkpyQ1JYNVhyY0tERFdwRWVjSjdLbWJ5TFdKRDBLSVQ5NWMyUFJnSjlPaTl2SlZxdWNCZkxWcXpBYjFidnZJa1NSUmNPNjA2d1AwVzM4ellSdmRjMlV3UV8xcjF4WndxZHRVVjJBaUpXYlh0ajVxOWtrVlBlYTNSM09FaHg5dlBIYThjS201TjNHWDJueEtWcFYwSjNGdlZfRWpjMzgxZDRWQnhUMnBIXzBhT2p5cndvQm9sM2ZEY1JQdkJjZm1maFA0V2VCeVhFdGNYc1FQUDFUYzc2ZjFGUE1oV1JvMHdoZw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxPaG1weGszY3oxYlVhbWpqYkJxOEpRai1WQXFFZDlCZC1ScC1xUGsxNUdPbURxVE1tOGZNYlgyb2YzRDMzU0tRRU1fekNBbWZNYW92S3FYeVhiNnJ6TkNqbzRTSW5IM0ZmN2wtV0hZLVB3bFdIYUU3Sl96YXp3R0hjMXE3SV95ejVtNmJFYlNLS0RSaUs3VExwTExpNjNxd0pYdVFwLTFtcXpoOUxXNjZUVkNiWXRmdFVXbVZiWlhHd3E5NFcyRnBpREMzcm5YY1ZJNklHSFZKbEFKeV9rODNhZ3ltMXZDVm5NSVdvMUw4NHpMWUNYR1haVW90UUhXN3VoUTM3cjVSd19PX3YxRTJkQzh1ZTNaQXZ2RTgzZnVHQTBMdFJYQnZDaHhxRmF4M0Q4RlYwaWVJNi1jazF2aVdlVNIBxgJBVV95cUxNV1hqSW1yYkRCZDNKY1lDZFdGZlBhc3FxRk1CYWJOdC1GZnNjUWlUWnVaMTFYdHZNbXlQdG9LX0lzemkwYV80RlQ3VzZRTk1ucjRuYlh6SUFScUJmN1k5emxXX0ZfMkpyQ1JYNVhyY0tERFdwRWVjSjdLbWJ5TFdKRDBLSVQ5NWMyUFJnSjlPaTl2SlZxdWNCZkxWcXpBYjFidnZJa1NSUmNPNjA2d1AwVzM4ellSdmRjMlV3UV8xcjF4WndxZHRVVjJBaUpXYlh0ajVxOWtrVlBlYTNSM09FaHg5dlBIYThjS201TjNHWDJueEtWcFYwSjNGdlZfRWpjMzgxZDRWQnhUMnBIXzBhT2p5cndvQm9sM2ZEY1JQdkJjZm1maFA0V2VCeVhFdGNYc1FQUDFUYzc2ZjFGUE1oV1JvMHdoZw?oc=5)
+
+---
+
+### [Tooth pain & bleeding gums... dental issues masking serious deadly illnesses - from brain tumours to heart disease - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ0xpb2MyMldubWxCWHFIZHZQNVY4X0tsRXBqdDE1V1k0TjJwenRxdXlyVkhLcy1CSGVQZ1V3dUxMY2dSaUdqUFhlazgwbWJ2U1FZcTlFdDJHQkJLWmtYUkl0QnpkbFFQdVoyMEY4aXQ1cE9hbmlnMUROYlF2cw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTg1UGhzQ0xpb2MyMldubWxCWHFIZHZQNVY4X0tsRXBqdDE1V1k0TjJwenRxdXlyVkhLcy1CSGVQZ1V3dUxMY2dSaUdqUFhlazgwbWJ2U1FZcTlFdDJHQkJLWmtYUkl0QnpkbFFQdVoyMEY4aXQ1cE9hbmlnMUROYlF2cw?oc=5)
+
+---
+
+### [Detectar a tiempo el daño renal puede retrasar casi 30 años la diálisis en personas con diabetes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmZndkk3bWd0a3hYOVhYT2xzRS1faUVzSlRGR3M5Nm8yMkkyQ252bXU1T2szTWVwNmRZTS15bVpfOWR0TldEQlJKaWxOaUlDQVM3Ui1VaE13QnZKNlRCdlh4Ukd2R0hRVXkwdGllQVpnS2UtSWl4ZFdOVXVseVd1eFVzcjZLVnBGS2JXT3BfSmU2V2dSNUVUdkdRTWk5dl81RHFldnJ3bVE5Q3FZVVQ5OGs3eldVNU5aNlhQelZJWFdqTDjSAcgBQVVfeXFMT3AzWjh6Wk95OGs4dEhDS1VPa0UyczNiYzZvN1ExT0VNdTVCbjhXbWxWNklQZk1hZGtIRG9LdC0zNnlvck5iQXl1eklmR05lQXdKVHAtUjNEeUMwTWtEcmVvQUhkVlJrZzhVTURqbUZNQXZsbmJERURQZDBqSjhMZzg3V3NnZDdUUUNrWVJQRm5xZzdkTVhGdGp1VUVSNTZiNzNJNkV3M1BqVWhSaUt3Qk9VQUk5SHFuYnpHQ2ZpOTdOTUpWWWZ0RTg?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [Elplural.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmZndkk3bWd0a3hYOVhYT2xzRS1faUVzSlRGR3M5Nm8yMkkyQ252bXU1T2szTWVwNmRZTS15bVpfOWR0TldEQlJKaWxOaUlDQVM3Ui1VaE13QnZKNlRCdlh4Ukd2R0hRVXkwdGllQVpnS2UtSWl4ZFdOVXVseVd1eFVzcjZLVnBGS2JXT3BfSmU2V2dSNUVUdkdRTWk5dl81RHFldnJ3bVE5Q3FZVVQ5OGs3eldVNU5aNlhQelZJWFdqTDjSAcgBQVVfeXFMT3AzWjh6Wk95OGs4dEhDS1VPa0UyczNiYzZvN1ExT0VNdTVCbjhXbWxWNklQZk1hZGtIRG9LdC0zNnlvck5iQXl1eklmR05lQXdKVHAtUjNEeUMwTWtEcmVvQUhkVlJrZzhVTURqbUZNQXZsbmJERURQZDBqSjhMZzg3V3NnZDdUUUNrWVJQRm5xZzdkTVhGdGp1VUVSNTZiNzNJNkV3M1BqVWhSaUt3Qk9VQUk5SHFuYnpHQ2ZpOTdOTUpWWWZ0RTg?oc=5)
+
+---
+
+### [Entzündungshemmende Lebensmittel: Was Studien wirklich hergeben - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVl85RFdjUTA1YlVRVW84dDgzY0lnbjJwVDFaLXhfLVRUVmhJWTRrb2J3RGFZWHFOZnVIbWR2OXM3cEJZejFRNkhmWkYtd21hdFVjLUVwaEc2ZGdGOGdZMHNhT0x1TXFqNjVCYWdPWnNhWFgzaDdFanp6TGpXSW1hbG5nVVhabWZxbXRzdmcybjh1UGpHSjZORUhyTQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVl85RFdjUTA1YlVRVW84dDgzY0lnbjJwVDFaLXhfLVRUVmhJWTRrb2J3RGFZWHFOZnVIbWR2OXM3cEJZejFRNkhmWkYtd21hdFVjLUVwaEc2ZGdGOGdZMHNhT0x1TXFqNjVCYWdPWnNhWFgzaDdFanp6TGpXSW1hbG5nVVhabWZxbXRzdmcybjh1UGpHSjZORUhyTQ?oc=5)
+
+---
+
+### [Relojes inteligentes para detectar indicios de hipertensión: alcance y límites](https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1JQbS13Tjg0bjgtamQ4dVFZeTRQQmRiSndVYmVEN1VnVzg5NDZVNWkyRDVDa2M4cXd1Q1JHQXdzWFExS1YzdlVyWkRzWUhGaFNfMTB5TFJpM2Q0QldLbWxIRW01RTJfclFYM3djTEtuMXlWTktWS1cxUF9wVFFFM09Xc2M3YzFKQWFZNG9HU1U?oc=5)
+
+2026-11-13 <span class="news-indication-tag">hipertensión</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1JQbS13Tjg0bjgtamQ4dVFZeTRQQmRiSndVYmVEN1VnVzg5NDZVNWkyRDVDa2M4cXd1Q1JHQXdzWFExS1YzdlVyWkRzWUhGaFNfMTB5TFJpM2Q0QldLbWxIRW01RTJfclFYM3djTEtuMXlWTktWS1cxUF9wVFFFM09Xc2M3YzFKQWFZNG9HU1U?oc=5)
+
+---
+
+### [Blood thinner could offer a new way to treat osteoarthritis - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbnhrWEl1WmtSbVNrN05ZWFF3c2s1emJPcGVJWk1NdldVNXhrZTdlakQyREVDSHFpMkd2QUdsWHQ2T19ZZ0h0RE12RFVPUkxKeWUydVJBVC1fbTlCaDY5RmgySFdlTmJFNDR0MHFLQ3VxczJMWF9lWmZyQTA?oc=5)
+
+2026-11-12 <span class="news-indication-tag">arthritis</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbnhrWEl1WmtSbVNrN05ZWFF3c2s1emJPcGVJWk1NdldVNXhrZTdlakQyREVDSHFpMkd2QUdsWHQ2T19ZZ0h0RE12RFVPUkxKeWUydVJBVC1fbTlCaDY5RmgySFdlTmJFNDR0MHFLQ3VxczJMWF9lWmZyQTA?oc=5)
+
+---
+
+### [Los metabolitos intestinales ayudan a predecir la respuesta a biológicos en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGpRMjJaWmdXdU1TV1g2bzdjekpjS3p4ek1wR1doc0JwVnk0UC1hU1Q4aTZ6bjAyd0dLQjFaZ2JGWjdPVnhZUVJqUm5hREdmVy0wZ3Q1Y1huanYya3p3TE1JTEdqaWxCa3ptck9kN09FSVBwLUlEVlVvdHZva1l4VEhuc3J5WEl3eVloVlZvdFlocmlwMXVQRENRWVlJOE9VSlVHYUxZREl4eW5lZC1PaC1oczZQVWZjbjRCVGxwSExpZ9IBvAFBVV95cUxPSUh3dDREZ1ZrbXVta2FJcnVidEtnRy1MQk0zWWtiQTE1dTNMWUNQSTJfMTJLMHBiaFVWX1FOOXdUUFNqZUUxUlNfYlZRZWdrdGJJNVBYYV9IbmlqNENWMWpTQl9TUmZhRVZDSFVURDFhOEtRc2JGd09lWFhjNjlPUmprRlF0QmVJTkNwZ2E1YzFQMW9BM2FsMU1zX2QtenBWT19CeDM2LUs2amU4QWFvVFBCUl9OZlcyV2E0Xw?oc=5)
+
+2026-11-12 <span class="news-indication-tag">artritis</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGpRMjJaWmdXdU1TV1g2bzdjekpjS3p4ek1wR1doc0JwVnk0UC1hU1Q4aTZ6bjAyd0dLQjFaZ2JGWjdPVnhZUVJqUm5hREdmVy0wZ3Q1Y1huanYya3p3TE1JTEdqaWxCa3ptck9kN09FSVBwLUlEVlVvdHZva1l4VEhuc3J5WEl3eVloVlZvdFlocmlwMXVQRENRWVlJOE9VSlVHYUxZREl4eW5lZC1PaC1oczZQVWZjbjRCVGxwSExpZ9IBvAFBVV95cUxPSUh3dDREZ1ZrbXVta2FJcnVidEtnRy1MQk0zWWtiQTE1dTNMWUNQSTJfMTJLMHBiaFVWX1FOOXdUUFNqZUUxUlNfYlZRZWdrdGJJNVBYYV9IbmlqNENWMWpTQl9TUmZhRVZDSFVURDFhOEtRc2JGd09lWFhjNjlPUmprRlF0QmVJTkNwZ2E1YzFQMW9BM2FsMU1zX2QtenBWT19CeDM2LUs2amU4QWFvVFBCUl9OZlcyV2E0Xw?oc=5)
+
+---
+
+### [Ipertensione, 1 persona su 2 non si cura correttamente](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTTQ3ZnRqXzcyUFhVTWlrMlBBQ3VGQlRDeXZlMWYxZmY0NjdNaTU3S3p3N0lTdWdhdEExWk5zMzFpSHlMSV9oMW82Q3Z1SXBuQkJ2RVY2MG5RY2Vhdi1HN1lYdlRINDN1cUEzT3dsbURGamZrakQyM3RZTjRDenY2djR0Q25UTGY5cm5DNmpuS2NvNFlzcUpLdTVONVQ0NFlNb2tSdFVEeFlUcFl2MjRsSkdMdjF3aW0tcGZCYmxHR2NRMklDdW1lamM4Rm0tckthM3l5TUZLZ1JueVdaejViSzFjVTh3Vko3R0JZT0M0Y01qV2RwVGozWmlkb9IBgAJBVV95cUxOZVV1UUNSdUd5MkZjc01wVkZpVUxMbnVpeFBCUUc1QkpwbkdGSHg1T2IwOXlIajV6SDV5VGt1YjE4ZVgzTWgzeXQxcHluY3k0M0hxUXI3ZnJLbFVaS0tLbWpDN2ZVTjdoWkFodHRtU0g0SWlMQk90bXd0OFlVVV9qNnQtTFA2b0M1MnZybl9VVEdmN3RCWmp3QkpnT1ZTVEdhMUdldFpqSDR0TVI0N1FRSDdNZXhnYmpjekxXRk82MWR3SUFsS2pzbE9vV09ZdEVRb2FzenM2clJFVWtkTnM4blJUS1RNeFBzSlh0a29nLUdnYm1OdjBXSVRKR2JDOXpk?oc=5)
+
+2026-11-12 <span class="news-indication-tag">ipertensione</span>
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTTQ3ZnRqXzcyUFhVTWlrMlBBQ3VGQlRDeXZlMWYxZmY0NjdNaTU3S3p3N0lTdWdhdEExWk5zMzFpSHlMSV9oMW82Q3Z1SXBuQkJ2RVY2MG5RY2Vhdi1HN1lYdlRINDN1cUEzT3dsbURGamZrakQyM3RZTjRDenY2djR0Q25UTGY5cm5DNmpuS2NvNFlzcUpLdTVONVQ0NFlNb2tSdFVEeFlUcFl2MjRsSkdMdjF3aW0tcGZCYmxHR2NRMklDdW1lamM4Rm0tckthM3l5TUZLZ1JueVdaejViSzFjVTh3Vko3R0JZT0M0Y01qV2RwVGozWmlkb9IBgAJBVV95cUxOZVV1UUNSdUd5MkZjc01wVkZpVUxMbnVpeFBCUUc1QkpwbkdGSHg1T2IwOXlIajV6SDV5VGt1YjE4ZVgzTWgzeXQxcHluY3k0M0hxUXI3ZnJLbFVaS0tLbWpDN2ZVTjdoWkFodHRtU0g0SWlMQk90bXd0OFlVVV9qNnQtTFA2b0M1MnZybl9VVEdmN3RCWmp3QkpnT1ZTVEdhMUdldFpqSDR0TVI0N1FRSDdNZXhnYmpjekxXRk82MWR3SUFsS2pzbE9vV09ZdEVRb2FzenM2clJFVWtkTnM4blJUS1RNeFBzSlh0a29nLUdnYm1OdjBXSVRKR2JDOXpk?oc=5)
+
+---
+
+### [Nuevos avances para reducir el ensayo y error en los tratamientos de la artritis reumatoide](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzNEZGE2QjBqNWZqdGM0Tm1ibDhTX1JjblZSMWh1UlpsLWVpMWVhS3VtWERNODNMNVM1TVJ1YW1xdHN1SUtMRGpTcXN5X3V6SU1XMkJjbEYtYmVoUXZnSzkwMV9Sblg3SzJuT1lTNXJHajgwNmI4YzJYekUtRkI2WUYxMFlfeGNPaUQ4bWxNRTF1aTJvVng1OFNjQzZJOVlLZWU5eGltSUpGUjJfd3VmQUNXZ0dMTEk1MFJHLXU1b1JuWVZVaFNGWVAweEtmU1U2WGZnU3IzM3ZwcS0ySW5Ib3VR?oc=5)
+
+2026-11-12 <span class="news-indication-tag">artritis</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzNEZGE2QjBqNWZqdGM0Tm1ibDhTX1JjblZSMWh1UlpsLWVpMWVhS3VtWERNODNMNVM1TVJ1YW1xdHN1SUtMRGpTcXN5X3V6SU1XMkJjbEYtYmVoUXZnSzkwMV9Sblg3SzJuT1lTNXJHajgwNmI4YzJYekUtRkI2WUYxMFlfeGNPaUQ4bWxNRTF1aTJvVng1OFNjQzZJOVlLZWU5eGltSUpGUjJfd3VmQUNXZ0dMTEk1MFJHLXU1b1JuWVZVaFNGWVAweEtmU1U2WGZnU3IzM3ZwcS0ySW5Ib3VR?oc=5)
+
+---
+
+### [Kardiovaskuläre Prävention bei CKD – Risiko früh erkennen und konsequent handeln - mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCaW5pQjNsQWtMc2gwMUJPVEcxbHFGcEZQWV9JSTNwRTRZWDZLRG92ZFJNTmpPLVd0eHExalgzVVA4a2x6V1pQVE92MDljMTZKMloxcWRQaHJKdDI0NHg4cTJrT2FjMHJGMnFvZnBNN0JveWwxVVh1SWljU3IteGs1ZHI?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+
+Source: [mgo medizin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2hCaW5pQjNsQWtMc2gwMUJPVEcxbHFGcEZQWV9JSTNwRTRZWDZLRG92ZFJNTmpPLVd0eHExalgzVVA4a2x6V1pQVE92MDljMTZKMloxcWRQaHJKdDI0NHg4cTJrT2FjMHJGMnFvZnBNN0JveWwxVVh1SWljU3IteGs1ZHI?oc=5)
+
+---
+
+### [Kardiorenales Syndrom effektiv behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnpJYWZnRTJmSWtNVzJscFBqTkhWaW96X2xKeW5JY0lZQzViWjBoWWhvci0tQm1iM3VmY212SFpHSmJ2dkgySTQzbmR2Z1cxMFNjVHNuZnVIVXM4MFUwb1N6Z0FfdlZ0aEpPQ1FremZ2MEY4d1FzYTk0Qm0yT0Vnazl6SmlVdkx2MkQxcy1LcFVPbFVFVFE?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnpJYWZnRTJmSWtNVzJscFBqTkhWaW96X2xKeW5JY0lZQzViWjBoWWhvci0tQm1iM3VmY212SFpHSmJ2dkgySTQzbmR2Z1cxMFNjVHNuZnVIVXM4MFUwb1N6Z0FfdlZ0aEpPQ1FremZ2MEY4d1FzYTk0Qm0yT0Vnazl6SmlVdkx2MkQxcy1LcFVPbFVFVFE?oc=5)
+
+---
+
+### [Laut Nephrologen: Dieser unterschätzte Blutdruck-Wert schädigt die Nieren jahrelang unbemerkt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
+
+2026-11-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0FRX1VuU1hKcUt6Z2Fxcml0NzJVckpxNTNHbWc0UW5Fc0RpZXl5MHl2VTg2Z2NfTGNEYVJ6MzJ1SGdlaEdCOFlnWVpHOTJtSERaQmFmQ2g1N29uZDl2dW1laldid1Mta0h5VkloRTRRUW5iMGVTSVpqWFlWck5mY2tLT2E3bndubGdSTldkcHl2SnJpM2FiVExnaXI4QWZNUTlMRmUwUDJVSGI3TzRXS1JPMVM1eUV5TVJFYmVydS0ybnQ1WFI5d21sVXdkN3pNTlE?oc=5)
+
+---
+
+### [Red flag symptom in legs could be sign of heart failure](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+
+2026-11-11 <span class="news-indication-tag">heart failure</span>
+
+Source: [Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV2VaWE5WYUlDek5NZzNwZHJQZ25XLVRqdDItN2ZvMGd6djk0Rks5VVVma0x0bG9LOHg5cnlROFBvOVZmREJvdFlxY190dk5iQWJiX0tsaXRjTWMtckdQV2RacWdtVTBjZzZlSTlmZmY1czN0YVFyak1oLUg2Z9IBgwFBVV95cUxQckNlQ19vYkwxaUhCdWNMcldqRnlzbWdRalpXMGg1LXlJU0tFMEZNa1JwMW1tZFo2VllYX2dlTk9ubjVTWjg2dnB3c3FYeDh6dmNwYVE0OEVYeVdhakNtVEptZTNxZ1lBSjdOdWlSMUFib3ZVNWRaWWtXUl9RRkUxSUZGNA?oc=5)
+
+---
+
+### [Cardiopatías en perros: las señales de alerta que los veterinarios piden no ignorar](https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ec0JGNlEzVUp6alY1ZkNpZVQyQkVjMkJsRXd4Zy0zejVZNDFJNHd3TUZMZ0hzSldYRnhKTkoyZ2hNXzcwcjJaMmFoQzVPeExNMGl6RWo3Q1Y3a1JuQUc0dlRKYzVabnZDRXVZemxTZW9UbzRk?oc=5)
+
+2026-11-09 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Qué.es](https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ec0JGNlEzVUp6alY1ZkNpZVQyQkVjMkJsRXd4Zy0zejVZNDFJNHd3TUZMZ0hzSldYRnhKTkoyZ2hNXzcwcjJaMmFoQzVPeExNMGl6RWo3Q1Y3a1JuQUc0dlRKYzVabnZDRXVZemxTZW9UbzRk?oc=5)
+
+---
+
+### [Wirkung hält über Jahre an: Neues Medikament kann womöglich Bluthochdruck heilen](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTi03em54NlcxMmpaYlRkRXF3X1pCY2FwbG5mQWhrTDZjUzR1SldCMEQ3WDZOdnBvd1Y3QUk1ZlV1cEx0Rzd1UHdENWF1VllEVXJXSV9qbGR5eU9TUGI4QUVhMGtmamN3NVNsSmZiQVNKZmVaZjJNaVE4Y2hQcU9XZHVXTlJOclVfNGdibmpfeHpWd0E3SGNwaF9sUFg?oc=5)
+
+2026-11-09 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [n-tv.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTi03em54NlcxMmpaYlRkRXF3X1pCY2FwbG5mQWhrTDZjUzR1SldCMEQ3WDZOdnBvd1Y3QUk1ZlV1cEx0Rzd1UHdENWF1VllEVXJXSV9qbGR5eU9TUGI4QUVhMGtmamN3NVNsSmZiQVNKZmVaZjJNaVE4Y2hQcU9XZHVXTlJOclVfNGdibmpfeHpWd0E3SGNwaF9sUFg?oc=5)
+
+---
+
+### [Kälteeinbruch: Herzrisiko steigt in den ersten 48 Stunden besonders stark](https://news.google.com/rss/articles/CBMivwFBVV95cUxQajVlekRuREF4NFBOcFgtRTBNVGxlRDlzSEVBLUZkLWF3MEo4b3RhM281bXlFak0wRVctS1V2cWMyb2N3bHBPckxKd0RNU1NGcmxGWWJKU3ZWcXNuaVdKejdNUW5pLUJ2S0hmX0g3d2NfTkEzT2wteDhKMWhxX0JCR3ByN3Nmc0hHVnhETjh6Wm5VOGtSSGIwRlI3OVhMc09ZVXdVRFN6VnpTV3Jlc3dEckN6QXZMVEs2MnZiM2xfTQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQajVlekRuREF4NFBOcFgtRTBNVGxlRDlzSEVBLUZkLWF3MEo4b3RhM281bXlFak0wRVctS1V2cWMyb2N3bHBPckxKd0RNU1NGcmxGWWJKU3ZWcXNuaVdKejdNUW5pLUJ2S0hmX0g3d2NfTkEzT2wteDhKMWhxX0JCR3ByN3Nmc0hHVnhETjh6Wm5VOGtSSGIwRlI3OVhMc09ZVXdVRFN6VnpTV3Jlc3dEckN6QXZMVEs2MnZiM2xfTQ?oc=5)
+
+---
+
+### [Retatrutide Improves Knee OA Pain, Physical Function](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3p1emJDT0JCUkc1VHNmc2duNnN5bFJmTnpZS0pIYVRVREl5aHA5MlNUUm11UE9lUHR0MDZYaU5OdEVUUGI5M1VWRERoYTktNkFOd3Y1ZGN3OXJjMF9INEJmTGd4a2Z1dWlnMnFzOVRpdXlIbVhMZjBiajM3RThTWjJQQUU1M3VPUTJ1WmRpRXNnVHZZMXZfRXRZelpBdFdQU0ljbUowWmo?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">obesity</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3p1emJDT0JCUkc1VHNmc2duNnN5bFJmTnpZS0pIYVRVREl5aHA5MlNUUm11UE9lUHR0MDZYaU5OdEVUUGI5M1VWRERoYTktNkFOd3Y1ZGN3OXJjMF9INEJmTGd4a2Z1dWlnMnFzOVRpdXlIbVhMZjBiajM3RThTWjJQQUU1M3VPUTJ1WmRpRXNnVHZZMXZfRXRZelpBdFdQU0ljbUowWmo?oc=5)
+
+---
+
+### [New high blood pressure pill that ‘cures’ the condition could be available next year - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWV9KVjFkczBreVNUQnktVmZwa0cwcUxpQlRFdTRPdHVZVkR4VTdwZ1NOV2luRXBibmlyeUp1clBxaGRPTmVqYzV5RlVzenN1LURIUGJ0WXdJTFVWX2pIQUtobldLUjEwaklIUGM4eXRSQ0ZvMElIbTRGdkF3MklFa19Vdzdra2h2?oc=5)
+
+2026-11-09 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWV9KVjFkczBreVNUQnktVmZwa0cwcUxpQlRFdTRPdHVZVkR4VTdwZ1NOV2luRXBibmlyeUp1clBxaGRPTmVqYzV5RlVzenN1LURIUGJ0WXdJTFVWX2pIQUtobldLUjEwaklIUGM4eXRSQ0ZvMElIbTRGdkF3MklFa19Vdzdra2h2?oc=5)
+
+---
+
+### [Enfermedades cardíacas en perros: Veterinarios explican los síntomas de alerta y las patologías más frecuentes](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1hUUm9YaXBDR1E0SzBhdUFtZHdieDZWbmVpTU84NGg3UlkwVlVJNUd1LV9lWFpOb1YwdmE3bkdKRDRpSVRmNjNfSmRGWUpPd0ZBUVdVRlg5blRTWlRGS1g1cktQVkZ0Q29tb1NObHlOQWJuZU8wVEU0d01lV3NBbk9CSTF3eUFjVmcwcEdPSEVvd0tqS3MtUGlCOVBxQUhRNDhRbmVIU2VhOWZLb1NQWUJDTHgtSzA5cFNGRW5fUld1cjVjYVHSAcsBQVVfeXFMTjdBQjFRb196dTVETlRvbnhmSTI5eDdnQlhRZTI1R09fNzhieDV2bUJwT1h3ZHJzTmhtUWhGMzN1a2dPcGktT0VMcDNjMG10SGxoSWVoamUzTDdodG03UDd3YXBIRzhVX2h2cXFxRUNvWTROVWRNMkhHeHQ1dHVkaDhEMlc0WW5ydk1zenhMbHFjWHJmeVBZaWJjVHNDcGoxZjVmTHhXdlN0bjBHRDg0eGpBdHBXT3JxMjZ2VnhIS18weVo2OTlvTXhDQTQ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1hUUm9YaXBDR1E0SzBhdUFtZHdieDZWbmVpTU84NGg3UlkwVlVJNUd1LV9lWFpOb1YwdmE3bkdKRDRpSVRmNjNfSmRGWUpPd0ZBUVdVRlg5blRTWlRGS1g1cktQVkZ0Q29tb1NObHlOQWJuZU8wVEU0d01lV3NBbk9CSTF3eUFjVmcwcEdPSEVvd0tqS3MtUGlCOVBxQUhRNDhRbmVIU2VhOWZLb1NQWUJDTHgtSzA5cFNGRW5fUld1cjVjYVHSAcsBQVVfeXFMTjdBQjFRb196dTVETlRvbnhmSTI5eDdnQlhRZTI1R09fNzhieDV2bUJwT1h3ZHJzTmhtUWhGMzN1a2dPcGktT0VMcDNjMG10SGxoSWVoamUzTDdodG03UDd3YXBIRzhVX2h2cXFxRUNvWTROVWRNMkhHeHQ1dHVkaDhEMlc0WW5ydk1zenhMbHFjWHJmeVBZaWJjVHNDcGoxZjVmTHhXdlN0bjBHRDg0eGpBdHBXT3JxMjZ2VnhIS18weVo2OTlvTXhDQTQ?oc=5)
+
+---
+
+### [Night-time habit could be early warning for stroke or heart failure - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZFhsTjNrUXg5dk1lNmRCTWtlNUhaSS1sX2VtMXJDUGNSQnYwVzZJTGNnN09FNVdUV1BkcTEwRU5obFZ5SFd3NjFxbzF5M0NJaUw3eWM0Q2ExTjdZdlIwV3NWVExCLWNmQ1JzaTdOdG5ON0ZBbXdzSXc5R0k?oc=5)
+
+2026-11-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZ2lJZFhsTjNrUXg5dk1lNmRCTWtlNUhaSS1sX2VtMXJDUGNSQnYwVzZJTGNnN09FNVdUV1BkcTEwRU5obFZ5SFd3NjFxbzF5M0NJaUw3eWM0Q2ExTjdZdlIwV3NWVExCLWNmQ1JzaTdOdG5ON0ZBbXdzSXc5R0k?oc=5)
+
+---
+
+### [Exercise, diet or stress? One lifestyle habit stood out in a heart disease study](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRVJVN2R4czdsMlZXb2V1aWJpejRfRDg2UERUd0pXYUFHekJISklrT2xDNmstdXF1QlE4TEdaZUxiY2tkTGxFaUJ3OE03Z1dlZlZ1X21fRWZHeUkxMndIZ29JeTg4Vi1ieWpuOU5ZODhtOTFsSHF4TDhkb2ZrdzV3cFpEbjlZRlpkU2NUWnk5cTNSY19hTURnLWt6cnNwZ3pjVTFGaGFrS0ROaDFWNU1WRmRNNFRjZm05ZEdmbTJkMXBEVkdp?oc=5)
+
+2026-11-09 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRVJVN2R4czdsMlZXb2V1aWJpejRfRDg2UERUd0pXYUFHekJISklrT2xDNmstdXF1QlE4TEdaZUxiY2tkTGxFaUJ3OE03Z1dlZlZ1X21fRWZHeUkxMndIZ29JeTg4Vi1ieWpuOU5ZODhtOTFsSHF4TDhkb2ZrdzV3cFpEbjlZRlpkU2NUWnk5cTNSY19hTURnLWt6cnNwZ3pjVTFGaGFrS0ROaDFWNU1WRmRNNFRjZm05ZEdmbTJkMXBEVkdp?oc=5)
+
+---
+
+### [Retatrutide reduces knee pain and body weight in osteoarthritis patients](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
+
+2026-11-09 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">obesity</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)
+
+---
+
+### [Bluthochdruck: Einzelpillen senken den systolischen Wert um 10,1 mm Hg stärker](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDhhOWFndWctbTRQdEdyeXlfaVBvMjhid2hfand4LW1CS004R3Q2ZFdLcU9IUDF1c3dNSVlGdHJNOHRpSnhCeW5VWk80dEVWWkdTNlB5Q0RCY2QtVmN3cnJaSFp6Nl9peXNYOXM2eVh2M2dpcWk5d1BudTBrLXd6RmdxZUFPOHFzc1drdXVEQURzQ2dJU1FUbmVOTGFvYmI4NTdWTzdJT2VydU15b3BjbHI3ejVkOEwtVE8wSUVNR0FwR25fS1E?oc=5)
+
+2026-11-08 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDhhOWFndWctbTRQdEdyeXlfaVBvMjhid2hfand4LW1CS004R3Q2ZFdLcU9IUDF1c3dNSVlGdHJNOHRpSnhCeW5VWk80dEVWWkdTNlB5Q0RCY2QtVmN3cnJaSFp6Nl9peXNYOXM2eVh2M2dpcWk5d1BudTBrLXd6RmdxZUFPOHFzc1drdXVEQURzQ2dJU1FUbmVOTGFvYmI4NTdWTzdJT2VydU15b3BjbHI3ejVkOEwtVE8wSUVNR0FwR25fS1E?oc=5)
+
+---
+
+### [Mammograms May Offer Early Insight Into Cardiovascular Disease](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVRDVDdtU21oRGZrQ01Zb3FBX1ZGSm5RZTlQVGZ3Si01NTlXbjhPMFVjMW5GTzZrV2RuMnVPMlVFc3I2M2tnVy02c3d3NGk2TmNJMTloemJTclhDdVAwRjBJcmVVTm1HRjdtbERneWlhQ1hBNEFuSGo2eGRPOXJuRzZGNGFEbHQ5WGMzVkZOcWd6cElrS0VWWjh6bWc1dVk?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cardiovascular disease</span>
+
+Source: [Healthline](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVRDVDdtU21oRGZrQ01Zb3FBX1ZGSm5RZTlQVGZ3Si01NTlXbjhPMFVjMW5GTzZrV2RuMnVPMlVFc3I2M2tnVy02c3d3NGk2TmNJMTloemJTclhDdVAwRjBJcmVVTm1HRjdtbERneWlhQ1hBNEFuSGo2eGRPOXJuRzZGNGFEbHQ5WGMzVkZOcWd6cElrS0VWWjh6bWc1dVk?oc=5)
+
+---
+
+### [New drug could be cure for common cause of high blood pressure - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
+
+2026-11-08 <span class="news-indication-tag">hypertension</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5)
+
+---
+
+### [Llegan esperanzadores avances que transforman la enfermedad renal crónica - La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRIblROOFoyLVE1SHVXQk1CTEp0cDJZdk45NU1TaTlPa0Z5N21pT0swZjlTNDEzMkZWdk5hdkVXdTV3QmhScXZackNtQ2tzajNER0J3aGgyVDU1czMwdzNvejNDX002WEJBeExiU0tXRldHZ0xrTElzTHA0VXlEQmltMVFJX1RveDJjSGVyVnZhTHRIYUQzNExnaDNRTjVPZXFUUDFVaUFFb19qNFk5Y1doc0ZaSUQ3b3RZakxRWHZaczFrLUcxcVJQNWpUU1h6V1lR0gHnAUFVX3lxTE9ZbG51eG0zMm5SekhjamFpa1N4QzZQNGR2cno5OFpmRzlZZEZFQk55VFp5dUhORzU4SEViYVdVdk1wdkRtODlKNDMyMjFyVU5rTURKZkJoV010VzRrNUhHVFhNTmhPZXhzaGRfUUo1Z0pCNnMzci1Gd2hRZTBzUjlZRGpYNnVITjdKeXhwcjJkcmdsdG5uMkdDZkRqejNxX0R4TEFRRXJDb0RRYlpNYUFXWHFwUXpxN3BqSTc3NmpRZzZtdF91RnV6RWRHc1N3RmZTUnQ0TFUtMWVvbm1wM2VJYUliQnQ0bw?oc=5)
+
+2026-11-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRIblROOFoyLVE1SHVXQk1CTEp0cDJZdk45NU1TaTlPa0Z5N21pT0swZjlTNDEzMkZWdk5hdkVXdTV3QmhScXZackNtQ2tzajNER0J3aGgyVDU1czMwdzNvejNDX002WEJBeExiU0tXRldHZ0xrTElzTHA0VXlEQmltMVFJX1RveDJjSGVyVnZhTHRIYUQzNExnaDNRTjVPZXFUUDFVaUFFb19qNFk5Y1doc0ZaSUQ3b3RZakxRWHZaczFrLUcxcVJQNWpUU1h6V1lR0gHnAUFVX3lxTE9ZbG51eG0zMm5SekhjamFpa1N4QzZQNGR2cno5OFpmRzlZZEZFQk55VFp5dUhORzU4SEViYVdVdk1wdkRtODlKNDMyMjFyVU5rTURKZkJoV010VzRrNUhHVFhNTmhPZXhzaGRfUUo1Z0pCNnMzci1Gd2hRZTBzUjlZRGpYNnVITjdKeXhwcjJkcmdsdG5uMkdDZkRqejNxX0R4TEFRRXJDb0RRYlpNYUFXWHFwUXpxN3BqSTc3NmpRZzZtdF91RnV6RWRHc1N3RmZTUnQ0TFUtMWVvbm1wM2VJYUliQnQ0bw?oc=5)
+
+---
+
+### [A Healthier Form of Salt Could Prevent Nearly 3 Million Deaths Every Year, Scientists Say](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1JjOWhQZ1hGLUJuUW16RkM1WC1ST0hhdlpyd192QWFtWWdmNkE2YUlWOHo0N1FQb1lGSjRwZ1drYjAwaDQ4YVNrMS1EVjZVNzJJd0c0Z1ZXUm5uSWpMdl81Z3cxZzFpTlpiTC04Um9ZdXJNZnFsTDdaLWRmSFhQRy1UcDltMmFhM0d5UU10blZIM2RyX3VYWkhVcmZPZ3REYWRGZTQ2NUVVN1RBWG5UODRROVc?oc=5)
+
+2026-11-07 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1JjOWhQZ1hGLUJuUW16RkM1WC1ST0hhdlpyd192QWFtWWdmNkE2YUlWOHo0N1FQb1lGSjRwZ1drYjAwaDQ4YVNrMS1EVjZVNzJJd0c0Z1ZXUm5uSWpMdl81Z3cxZzFpTlpiTC04Um9ZdXJNZnFsTDdaLWRmSFhQRy1UcDltMmFhM0d5UU10blZIM2RyX3VYWkhVcmZPZ3REYWRGZTQ2NUVVN1RBWG5UODRROVc?oc=5)
+
+---
+
+### [New drug that could permanently cure high blood pressure coming to UK by 2027 - The i Paper](https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZGZKdG82RGs1ZTdhVzU4S1BsWUtjdmZMUmNkbllFcDJfVk5mb3IzYkVybmJQOFd1UnpBWi1rcnBfeUJPdDBZaWx3a1hTN1RzZV9HRDdkNXBuaW1LU21GazBscnJKd2J0ekxua0NSU0VWZFd2a0E?oc=5)
+
+2026-11-07 <span class="news-indication-tag">hypertension</span>
+
+Source: [The i Paper](https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZGZKdG82RGs1ZTdhVzU4S1BsWUtjdmZMUmNkbllFcDJfVk5mb3IzYkVybmJQOFd1UnpBWi1rcnBfeUJPdDBZaWx3a1hTN1RzZV9HRDdkNXBuaW1LU21GazBscnJKd2J0ekxua0NSU0VWZFd2a0E?oc=5)
+
+---
+
+### [KI von Google erkennt Bluthochdruck nur mit Puls- und Bewegungssensor einer Smartwatch - The Decoder](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1JXeFlFYjZ2LWRvSVVoeXlQUDdlZFY5QjEwRmFZYlQyNnA3Q0FqcFRTaGdlQk1tM2NzdzlEZUVSYTBQXzBKeXJLcWlnVW0tWmFQSXFTQmpWbkFwQ0VVdXZqeVg2VlNFU3pWOXUzaG44MHZPTkZDQk50ZFhYeGlCYmNDUGE3NmczV2djZE1BT19GOTQ1cVFrREw5UXY1djFfQ19DZ2VvczdvOHVHOFE?oc=5)
+
+2026-11-07 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [The Decoder](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1JXeFlFYjZ2LWRvSVVoeXlQUDdlZFY5QjEwRmFZYlQyNnA3Q0FqcFRTaGdlQk1tM2NzdzlEZUVSYTBQXzBKeXJLcWlnVW0tWmFQSXFTQmpWbkFwQ0VVdXZqeVg2VlNFU3pWOXUzaG44MHZPTkZDQk50ZFhYeGlCYmNDUGE3NmczV2djZE1BT19GOTQ1cVFrREw5UXY1djFfQ19DZ2VvczdvOHVHOFE?oc=5)
+
+---
+
+### [Sicuri che sia mal di schiena? Che fare se è spondiloartrite assiale - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+2026-11-06 <span class="news-indication-tag">artrite</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnB2dms0X0gxYjdtZENpVThWY3JST0FSMTRPYldUYk84MzhGRnRwN3k2QzFYZmtVMUZhRVdQekwtYnpGVFEtYUZxTWdWNnNnbDV2cFN6cWhKbVhlYUlFY1JmRWo0RHJMZWJLLUlWY1ZvdVhKQXRqMkYzX1VDcVNkMDdMSDVpVS1OZXZsZUZKQUxXdndGZGVFTDBSTnJxQldkMng5ZkpReDQ?oc=5)
+
+---
+
+### [Congreso S.E.N.: El objetivo del 30 % de diálisis domiciliaria exige cambiar cómo se elige y organiza el tratamiento renal - IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWdVay1qOWVhZFNmZGdrM0s3My1DenBZcC1rZjZrUk52R0RCamhSbW1nLVlscUlUR284eUdiSFJRRUJRU09sb1RSODVWWnRzVUwzbmQ3NVROWUlUb3ZmdHJLTTkxV1FqdFhVX1JXNVBuWk9xVHY4X0UyS0VhbDE1WFNKMnBSaWlDV2ZLZkZUWTZvTmVMOG1ra2ZndXptdkllcXNyNDNqQmh4YXprVk1Lc3l1Tjd2UzDSAbIBQVVfeXFMTzEtWlQ5STUycmhlekdORE5iUWdsc2V6U0pUalIxNnlUc2xPSDM3cW9oWXQ5dFF2WGtfU2RDcTNNU2NKVDNLNlJuX0M4VWl5cmtDWFpEQ3N5RmpBOVRQRDN6YnZ1M0xNVERJYWdQampmZG01Ty03TjhNQm9RNEFranQtT2xBZ2NwN0w3ZHlkWlFzZkJLMFRZR1RsaWxwUk5pMTNRZjdJejZBRFhpdWlfVmQ3dw?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWdVay1qOWVhZFNmZGdrM0s3My1DenBZcC1rZjZrUk52R0RCamhSbW1nLVlscUlUR284eUdiSFJRRUJRU09sb1RSODVWWnRzVUwzbmQ3NVROWUlUb3ZmdHJLTTkxV1FqdFhVX1JXNVBuWk9xVHY4X0UyS0VhbDE1WFNKMnBSaWlDV2ZLZkZUWTZvTmVMOG1ra2ZndXptdkllcXNyNDNqQmh4YXprVk1Lc3l1Tjd2UzDSAbIBQVVfeXFMTzEtWlQ5STUycmhlekdORE5iUWdsc2V6U0pUalIxNnlUc2xPSDM3cW9oWXQ5dFF2WGtfU2RDcTNNU2NKVDNLNlJuX0M4VWl5cmtDWFpEQ3N5RmpBOVRQRDN6YnZ1M0xNVERJYWdQampmZG01Ty03TjhNQm9RNEFranQtT2xBZ2NwN0w3ZHlkWlFzZkJLMFRZR1RsaWxwUk5pMTNRZjdJejZBRFhpdWlfVmQ3dw?oc=5)
+
+---
+
+### [Congreso S.E.N.: España da el primer paso hacia un plan nacional de salud renal para frenar la enfermedad renal crónica - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9kajRZMTQ0SGpxR3ZjRXRkTzdrQ3NGWHZ6YkJIclNYQ3VuaEJtR1RweDVpclRacVJkYjlycGQtaDBLaG5hb2ZhOFNKeVBiUFpZRGRZejBzMVhUMGNaMW43RXVZQ2JMZFJzQUdxVGdqdm4xZEdTcFBSODh5YVU1VHVBdWdZaUxJZ2xjME9OenQxWGJEOGd3OGxjVS1rSFVTYlZzU1dRWjRzU3JnakM4UFpyc3RDT0F00gGzAUFVX3lxTFBxYTVWVThvZnVacUlCN2dkRW5pVTFGalFETi1Fck5vNi04TjRycW14c2dzcnpPWVE5dmt5c180cXp1NXd6T0J1VmRSc3cxTHNZN250Smp5dkxZZzhpTDhkSzd0dTB4N19lMjZPME1ydVVVN1psN3BxaThMcWRVMUN0eExwQW5fTXZOZFhtZUZRMkpkemRQQUdJa0lFYWtMMjE3d00zVnpMeDBwc2xnZ2ZQMG44?oc=5)
+
+---
+
+### [Bluthochdruck unter 40: Bei jedem Vierten steckt mehr als Vererbung dahinter](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDJYX1gtLXlXajJBMUViTm9Qa0pNRUdEX0NieXN5R0RqQTBuOHpxRVZZQUZ3RVloOGlNNEZZNVlGYmU3SUVBaGN4Z3kzUkJQd2Z0dVFPY1VCazI2WnBzVi1YbTdPbzFwWkxBRnFicDBYbWdHRDBtTDY1Rjh2RVpDcWFfMUF2Nzg4aUxRSFhWRFFLejBnTEU0dEFTZEZsblRqbGRMVGdRazRrS1BCeW5PYW5jTllOb2stT3hnWkEwUHhNdw?oc=5)
+
+2026-11-06 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDJYX1gtLXlXajJBMUViTm9Qa0pNRUdEX0NieXN5R0RqQTBuOHpxRVZZQUZ3RVloOGlNNEZZNVlGYmU3SUVBaGN4Z3kzUkJQd2Z0dVFPY1VCazI2WnBzVi1YbTdPbzFwWkxBRnFicDBYbWdHRDBtTDY1Rjh2RVpDcWFfMUF2Nzg4aUxRSFhWRFFLejBnTEU0dEFTZEZsblRqbGRMVGdRazRrS1BCeW5PYW5jTllOb2stT3hnWkEwUHhNdw?oc=5)
+
+---
+
+### [Un estudio relaciona la hipertensión pulmonar con alteraciones cerebrales que afectan a la memoria y la atención - Gaceta Médica](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEJTS1ZXaWdfSlpCWVEtV0FPOXdsMzY5TFpfUzB1QnJTUUREQ0FrbEhxOGNtN1dnLXZiNGFKX25iX3I5anN2cmExWWlMNUlBcTNCQnNDZDFGOUFWdXItRGhjMnFPRjZqU2hZRDVnZS1WVkxlMlZYcjZ5ZTVXUXdNSU9zSS1hOFp2VFgtT2hRTGhXaFpxaXpkb20xcE9NNFpManhCYV9UeTc2eURDNW9J?oc=5)
+
+2026-11-06 <span class="news-indication-tag">hipertensión</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEJTS1ZXaWdfSlpCWVEtV0FPOXdsMzY5TFpfUzB1QnJTUUREQ0FrbEhxOGNtN1dnLXZiNGFKX25iX3I5anN2cmExWWlMNUlBcTNCQnNDZDFGOUFWdXItRGhjMnFPRjZqU2hZRDVnZS1WVkxlMlZYcjZ5ZTVXUXdNSU9zSS1hOFp2VFgtT2hRTGhXaFpxaXpkb20xcE9NNFpManhCYV9UeTc2eURDNW9J?oc=5)
+
+---
+
+### [Ménopause et prise de poids : les règles nutritionnelles à suivre pour prévenir le diabète et l’hypertension - Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNbGE5RDZVVkp5WllxdndYaXlHeGU3cVl6dFFkUGw1RFNUN0hRcEI1QjQ4eVVucTlkQldTU1hZZzEzNXBMTXFtVFRmNlJCanR1dTNna1VDQWswdFNLSmhlZnAwZkdfZzQ4ejV3SFRTV3F0c3g0cVI0V05hbzRLbV8tZkJCV3I1VVhGTUJSczBJcVh5aUI2NzNTeU1EbmZfRXlKaWN5SGhpa2ZsSXpHaFdyUFNYUXhMZWFiLXN5bzhlLTFNUTRSdm4xY25XSFRxaENyRDQzNnFKWVlFRm9pSS01Zk5yYXhtUTN5SmFKTXQyM3d3SklwU081Nk9RRXdaNW9I?oc=5)
+
+2026-11-06 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span>
+
+Source: [Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNbGE5RDZVVkp5WllxdndYaXlHeGU3cVl6dFFkUGw1RFNUN0hRcEI1QjQ4eVVucTlkQldTU1hZZzEzNXBMTXFtVFRmNlJCanR1dTNna1VDQWswdFNLSmhlZnAwZkdfZzQ4ejV3SFRTV3F0c3g0cVI0V05hbzRLbV8tZkJCV3I1VVhGTUJSczBJcVh5aUI2NzNTeU1EbmZfRXlKaWN5SGhpa2ZsSXpHaFdyUFNYUXhMZWFiLXN5bzhlLTFNUTRSdm4xY25XSFRxaENyRDQzNnFKWVlFRm9pSS01Zk5yYXhtUTN5SmFKTXQyM3d3SklwU081Nk9RRXdaNW9I?oc=5)
+
+---
+
+### [Congreso S.E.N.: La historia reproductiva de la mujer puede anticipar el riesgo cardiovascular y renal - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUpmZW9Ka3ZWcy14QlFZSDZPU1g5akM0S09MSk1MNzd3VkJCVTBYMnFlZVNEelFPYVRic3JValRUUldTNlVRUC1BcDRLZy1oWU5ic0VacGY0cnZGaU0xeTRCaWl6QlFfWXhZcHRzLUpDRXNpUEtPWTNPblA1LWRnbG9LUFpJNGt4bDFfQ2RkYl9xQjh5QVRmODZOMTUwMDctQXdMd0VJb2FKQWVmY1ZmZThpeFRwQm1aanAw0gG2AUFVX3lxTE51d1RQRlFua2ZtS2taYlIyWTQ1R0oycS1sWk93S0E2M2hDN2hGajdrMGFwTjVkMGkyMmxfQUpYQl9rM2ItdHhYeldxQzJheHVQMzdueDRlU2VjeUQ0eHloZUtUbnlXSG9rdDI3cER4ekVVbWxVU09oR3JTYlNlWkFFeUE4NWVvNWxJTzZmZDktbG9lNVZYdl9jTGNwdktNRm5aQkJFcWNGZVBsX2lYQV95WHhScFJ3?oc=5)
+
+2026-11-05 <span class="news-indication-tag">hipertensión</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUpmZW9Ka3ZWcy14QlFZSDZPU1g5akM0S09MSk1MNzd3VkJCVTBYMnFlZVNEelFPYVRic3JValRUUldTNlVRUC1BcDRLZy1oWU5ic0VacGY0cnZGaU0xeTRCaWl6QlFfWXhZcHRzLUpDRXNpUEtPWTNPblA1LWRnbG9LUFpJNGt4bDFfQ2RkYl9xQjh5QVRmODZOMTUwMDctQXdMd0VJb2FKQWVmY1ZmZThpeFRwQm1aanAw0gG2AUFVX3lxTE51d1RQRlFua2ZtS2taYlIyWTQ1R0oycS1sWk93S0E2M2hDN2hGajdrMGFwTjVkMGkyMmxfQUpYQl9rM2ItdHhYeldxQzJheHVQMzdueDRlU2VjeUQ0eHloZUtUbnlXSG9rdDI3cER4ekVVbWxVU09oR3JTYlNlWkFFeUE4NWVvNWxJTzZmZDktbG9lNVZYdl9jTGNwdktNRm5aQkJFcWNGZVBsX2lYQV95WHhScFJ3?oc=5)
+
+---
+
+### [Bluthochdruck: Nur 27 Prozent der Hochrisikopatienten erreichen den Zielwert](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNempzZlRTc3dyT0FfdEJNai05SExrMXk3RUZfVXgwUC1DdDltbWFfY3NVOUpVWHhwR3k4R2EzOVpabDBXTU4tT29kMWMxTjFDNlpvR05WdG5udnk5amJ2VUdudUdKMDFQZm9iOWpGbHpRejJxMVpNcnBWUC0xN2h5TjJEY2FST0RWUzktYjA1QXA1VTQyVjExT0ZQNkQ2TklPcDZTUmVheEtxWEFuVkNmalFNb3RjYWJObnUteVd1T0ljQQ?oc=5)
+
+2026-11-05 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNempzZlRTc3dyT0FfdEJNai05SExrMXk3RUZfVXgwUC1DdDltbWFfY3NVOUpVWHhwR3k4R2EzOVpabDBXTU4tT29kMWMxTjFDNlpvR05WdG5udnk5amJ2VUdudUdKMDFQZm9iOWpGbHpRejJxMVpNcnBWUC0xN2h5TjJEY2FST0RWUzktYjA1QXA1VTQyVjExT0ZQNkQ2TklPcDZTUmVheEtxWEFuVkNmalFNb3RjYWJObnUteVd1T0ljQQ?oc=5)
+
+---
+
+### [A partir de los 65 años, comer cacahuetes a diario está muy bien, pero solo funciona si lo consumes de esta forma para evitar la hipertensión - El Economista](https://news.google.com/rss/articles/CBMixwJBVV95cUxOZm9wUmxWdkEzU3N2MGJYVG92QkoxTjVBSU9YaXBfQkpiSGltZmVkQi1ZY3BMZ1lFUkNxaGVCUmRoNF9GbXVheU1Qc0FleFBqSEVDQkwxVmE2c1VoQkhCSVZ4eVFMdFl3S1dVaEdjX1RlaVdXWE5xeWU1enVEVmlPajRaM0JvS19FX1hGOUhZeHVtVUlfbVlSYUdmVWJkNVJxeEJ0N1h4Y3YtYTdSSTUxeXg5b05wQ3V4VXhwNWk3cGtPcFZnZDFHeEZwaGQ0cUV1cWhmQnRGRkFIRVNzemNKSXp1eE9NTERRNWY3aUdUR3pkcnpZdklVdjNRLTFRTTh4VzNKM2RFVHloeFNkdzMwNDV0am9WenpFZUpscVk0MjJXUWNYanRTVVFCOXMtUFlYNmZsYm9OOG5TNEEtdFViZnFnWFFlQ1HSAbICQVVfeXFMTTAxUjBKY1ZYcDM5dXhGdG9zeWVBeXBzNzdiSk1tNlBtYXVHU292bC1fMEkzNlFqUVQ2RldSQS1WdkUwcFdoekRCclFPYnAwdlpiN3VkR0hnSFJ1YTFVYWlIVm41bEF1R1BDT2dxTkUwRUhIWmljMXhrM1dJaGJJd0tQVkpoVE4zenR4d3p6ZHlNcjhVNWZ4WHhuUFNVSE5VdW5oSGx0VG56eWdYbXVSbWh0NzNzSG90Q2J1ZENtT3g0R0lpekZyTG1hNTNXVEV0WEl0VnNTbFk0S0NxTEJQUWtkOHRkUkdDUUJ3emYydlRCUFdUQzJvOUZ1YV8xOVp2UXB1ek5sX0lMazJONmdUSmNfeFEwZzRFd0tVX0dOaUJQbWhXWnpfMjhRbHNvU09NMUp3?oc=5)
+
+2026-11-05 <span class="news-indication-tag">hipertensión</span>
+
+Source: [El Economista](https://news.google.com/rss/articles/CBMixwJBVV95cUxOZm9wUmxWdkEzU3N2MGJYVG92QkoxTjVBSU9YaXBfQkpiSGltZmVkQi1ZY3BMZ1lFUkNxaGVCUmRoNF9GbXVheU1Qc0FleFBqSEVDQkwxVmE2c1VoQkhCSVZ4eVFMdFl3S1dVaEdjX1RlaVdXWE5xeWU1enVEVmlPajRaM0JvS19FX1hGOUhZeHVtVUlfbVlSYUdmVWJkNVJxeEJ0N1h4Y3YtYTdSSTUxeXg5b05wQ3V4VXhwNWk3cGtPcFZnZDFHeEZwaGQ0cUV1cWhmQnRGRkFIRVNzemNKSXp1eE9NTERRNWY3aUdUR3pkcnpZdklVdjNRLTFRTTh4VzNKM2RFVHloeFNkdzMwNDV0am9WenpFZUpscVk0MjJXUWNYanRTVVFCOXMtUFlYNmZsYm9OOG5TNEEtdFViZnFnWFFlQ1HSAbICQVVfeXFMTTAxUjBKY1ZYcDM5dXhGdG9zeWVBeXBzNzdiSk1tNlBtYXVHU292bC1fMEkzNlFqUVQ2RldSQS1WdkUwcFdoekRCclFPYnAwdlpiN3VkR0hnSFJ1YTFVYWlIVm41bEF1R1BDT2dxTkUwRUhIWmljMXhrM1dJaGJJd0tQVkpoVE4zenR4d3p6ZHlNcjhVNWZ4WHhuUFNVSE5VdW5oSGx0VG56eWdYbXVSbWh0NzNzSG90Q2J1ZENtT3g0R0lpekZyTG1hNTNXVEV0WEl0VnNTbFk0S0NxTEJQUWtkOHRkUkdDUUJ3emYydlRCUFdUQzJvOUZ1YV8xOVp2UXB1ek5sX0lMazJONmdUSmNfeFEwZzRFd0tVX0dOaUJQbWhXWnpfMjhRbHNvU09NMUp3?oc=5)
+
+---
+
+### [La hipertensión pulmonar también puede afectar a la memoria y la atención](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHdDdVJDSEJtTDFfSktzejl2d1BUV1BVUlBDNGZOeDdRWHZEZkhpcm9CeUF5bXdqWHRVOHVUMHM4LUkzNGtIU1pNSm5aRFVSanBublVkaTV4bS0yRmh0RnZhU3pnQzhPRTloR01SMWhtQkVvbUhDakMzVy0tZGsxeHVvZnNBUXRXS2U4eFJ4bXdUOTJyQmJOQW5nVmE3Q1ZPanhMQnEtdTBiRXRmYkZ5SElFWmJkbFZSVlNmTUkyZ2xJaERTZkV0bHJIVG1wVTQ?oc=5)
+
+2026-11-05 <span class="news-indication-tag">hipertensión</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHdDdVJDSEJtTDFfSktzejl2d1BUV1BVUlBDNGZOeDdRWHZEZkhpcm9CeUF5bXdqWHRVOHVUMHM4LUkzNGtIU1pNSm5aRFVSanBublVkaTV4bS0yRmh0RnZhU3pnQzhPRTloR01SMWhtQkVvbUhDakMzVy0tZGsxeHVvZnNBUXRXS2U4eFJ4bXdUOTJyQmJOQW5nVmE3Q1ZPanhMQnEtdTBiRXRmYkZ5SElFWmJkbFZSVlNmTUkyZ2xJaERTZkV0bHJIVG1wVTQ?oc=5)
+
+---
+
+### [Expertos recomiendan a los mayores comer cacahuetes a diario: «Un puñado tostados y con piel protege la memoria frente al envejecimiento» - El Diario Vasco](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTG5wdnFZaVpTckticGctel9kMlJ2VW54MHlIY2owLVhlTmtyd0tzaldObXVtN2dUMVdLN2xXbU1VblBRVWhiWGpDN0huLVJIckxsYXMxbmFKR1ZadHZSOGtEZ0NvaUp1VzJxdVZrRzYwZmtVdk9KaGpUZ18yd19WbklsclZlaUpPcU9kdkE3MjQyeERCenltWjU0RVdZVWcxNUowZXRyRTR5eVZZRlZ4RzFqZkV3NG9oREpzbEFiWFJmdkpXbHg2WGo0OGZZNFcxeDl6cWVEOWJsUzBa0gHiAUFVX3lxTE5JZ18xTXFoV3Y5OUJGNVE3cFFMQjU4TlVNTkRxYll5UFNYWTdUcFR6eW9uZkNiLXpmWkxkbjdCSzVyMXphUF8wSHJNN1JhblhlYVg4V0RXdUlEclRabDBob1ZCRkFzSDN0d19kRm5NX2xiaFpCanlEVmRVUGVDaTYyaV82Nzkyb0VrWnk1UHRuTnQwa0xPUjRtTzRpRHNwdEkwZ0NEMTYzdUdBcTY1TUtxTVMtMHg1YkJwamJfNExkclBRbG9GeE92dGREcVRuRU9TS2VQLVRrX1dGVDNhYXQ5Qnc?oc=5)
+
+2026-11-04 <span class="news-indication-tag">hipertensión</span>
+
+Source: [El Diario Vasco](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTG5wdnFZaVpTckticGctel9kMlJ2VW54MHlIY2owLVhlTmtyd0tzaldObXVtN2dUMVdLN2xXbU1VblBRVWhiWGpDN0huLVJIckxsYXMxbmFKR1ZadHZSOGtEZ0NvaUp1VzJxdVZrRzYwZmtVdk9KaGpUZ18yd19WbklsclZlaUpPcU9kdkE3MjQyeERCenltWjU0RVdZVWcxNUowZXRyRTR5eVZZRlZ4RzFqZkV3NG9oREpzbEFiWFJmdkpXbHg2WGo0OGZZNFcxeDl6cWVEOWJsUzBa0gHiAUFVX3lxTE5JZ18xTXFoV3Y5OUJGNVE3cFFMQjU4TlVNTkRxYll5UFNYWTdUcFR6eW9uZkNiLXpmWkxkbjdCSzVyMXphUF8wSHJNN1JhblhlYVg4V0RXdUlEclRabDBob1ZCRkFzSDN0d19kRm5NX2xiaFpCanlEVmRVUGVDaTYyaV82Nzkyb0VrWnk1UHRuTnQwa0xPUjRtTzRpRHNwdEkwZ0NEMTYzdUdBcTY1TUtxTVMtMHg1YkJwamJfNExkclBRbG9GeE92dGREcVRuRU9TS2VQLVRrX1dGVDNhYXQ5Qnc?oc=5)
+
+---
+
+### [elEconomista.es | A partir de los 65 años, comer cacahuetes a diario está muy bien, pero solo funciona si lo consumes de esta forma para evitar la hipertensión - El Economista](https://news.google.com/rss/articles/CBMixAJBVV95cUxQSUR6ZTZ0SFp6N3I1VGwxcmYybFFQcE5kZFhoZGZYeVdJU29LN2x3WWwxSzNOLWFoMjFEWEFNV3lROENsVk85dFNMOFB2YWZaQlJUQ2RpMTRsa3JYblEyU292QVpfR05KOGJ5aC1IZ0V3ZVVncE1Mc1VqOWJLQzY1VVk0SzR0MmtSbkk2N0Z1WkhkMHZtbk9QN25BU1J1RExDbFdIMFZmZFcyRzFOOFY2UnY3ckg1ZHBMNzZMTVAwYUVDck1jOHp1N2VpbUp4Mm9hSkwzQUxwT3Z4amY0SlJEcFVnYkIySy1IVWVUTV9BNUxiRjhtTm1mazBaNUx4aXJMc0lESGpTZVBVTXpSeHZTT0FCUl9YTXFFejRhWVN4UzRwZkpuNXpDckNYTFhCVVpJUWN2YkZzaGo3WUdMQzl6cm9LUlLSAa8CQVVfeXFMTTF3QmlTMkVYZnBUeEkxNDYybE1pNU1FQWstQ01GeW1OMzh4ZU9nSkdqYWpLV0FWOWxRcnNzSUU0cENzMVBZclBET3ltQ0tkRXRadlVmRHV1UDBuSl9mMzd0Y29LbDZzaWNSQ21NejhtTXdGWHhESXczb3hPMFlITjZyZjBoX2Y3dzJWd0oyT0YyUTZycWpnelAzSW9PMlhOU1pPMXd3aFFOUzZPMWFXOF90dVZFSFE0Y0tQOWJPLTJoUlhNUTJoTzg4NWZJR3VJN2JKZGRQTFdMeV9fZ0JFV2VwNzZ5eFhDdV9sT05sS1JZWG5BNHFpdTgycS1EM2xfREREZmdydFk4WVZqbWV6SnhpcDBhbkp4RTlGeUEybDJ6aG04UTdoa29tR0QzOFU4?oc=5)
+
+2026-11-04 <span class="news-indication-tag">hipertensión</span>
+
+Source: [El Economista](https://news.google.com/rss/articles/CBMixAJBVV95cUxQSUR6ZTZ0SFp6N3I1VGwxcmYybFFQcE5kZFhoZGZYeVdJU29LN2x3WWwxSzNOLWFoMjFEWEFNV3lROENsVk85dFNMOFB2YWZaQlJUQ2RpMTRsa3JYblEyU292QVpfR05KOGJ5aC1IZ0V3ZVVncE1Mc1VqOWJLQzY1VVk0SzR0MmtSbkk2N0Z1WkhkMHZtbk9QN25BU1J1RExDbFdIMFZmZFcyRzFOOFY2UnY3ckg1ZHBMNzZMTVAwYUVDck1jOHp1N2VpbUp4Mm9hSkwzQUxwT3Z4amY0SlJEcFVnYkIySy1IVWVUTV9BNUxiRjhtTm1mazBaNUx4aXJMc0lESGpTZVBVTXpSeHZTT0FCUl9YTXFFejRhWVN4UzRwZkpuNXpDckNYTFhCVVpJUWN2YkZzaGo3WUdMQzl6cm9LUlLSAa8CQVVfeXFMTTF3QmlTMkVYZnBUeEkxNDYybE1pNU1FQWstQ01GeW1OMzh4ZU9nSkdqYWpLV0FWOWxRcnNzSUU0cENzMVBZclBET3ltQ0tkRXRadlVmRHV1UDBuSl9mMzd0Y29LbDZzaWNSQ21NejhtTXdGWHhESXczb3hPMFlITjZyZjBoX2Y3dzJWd0oyT0YyUTZycWpnelAzSW9PMlhOU1pPMXd3aFFOUzZPMWFXOF90dVZFSFE0Y0tQOWJPLTJoUlhNUTJoTzg4NWZJR3VJN2JKZGRQTFdMeV9fZ0JFV2VwNzZ5eFhDdV9sT05sS1JZWG5BNHFpdTgycS1EM2xfREREZmdydFk4WVZqbWV6SnhpcDBhbkp4RTlGeUEybDJ6aG04UTdoa29tR0QzOFU4?oc=5)
+
+---
+
+### [Bluthochdruck: So messen, abklären und senken Leitlinien 2026 - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDJuc2FDV05kU2dKSGhIU0xONnJsUG9CNk9xRWxvX1J3QXp4cC1WNVFySVdvWk41OHltZVh6Q1ZoU3cxWk1QRTJOR3FyRnNia1htZFdWTW5Edlo0V0ZCaWhnWjZwSmlrY0drWmVmT3FjWjVIMVJCQTdqQUQ3RjRNN0xWcGJPMnUzeXlvT1d2enR6UGJON0tz?oc=5)
+
+---
+
+### [Switching to potassium-enriched salt could prevent millions of global deaths](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGNUUEZWa0g0QU9EQnRQZXJjOGlsdmNWQWoxeTAxd3BYcC1qZ0hkdXdvczd5Y0dMLTFqWjQ4TVcyUmlLZXowRnh1dHpZdXVhZkV6WUNGYktnZ3V4YVlGY1NUUFR1M2hPNHJ4UmFqZnZRTmRnanpZOWFCWTZNY0NVSkN0dXl5RFJqdjRraFFJdkhGVTViNFJhUDlxaVVqdjM4NEtnWmJGeXlHMklVeTROZnBKYXRWeFY4M0xaSkQwOHZ5Zw?oc=5)
+
+2026-11-04 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGNUUEZWa0g0QU9EQnRQZXJjOGlsdmNWQWoxeTAxd3BYcC1qZ0hkdXdvczd5Y0dMLTFqWjQ4TVcyUmlLZXowRnh1dHpZdXVhZkV6WUNGYktnZ3V4YVlGY1NUUFR1M2hPNHJ4UmFqZnZRTmRnanpZOWFCWTZNY0NVSkN0dXl5RFJqdjRraFFJdkhGVTViNFJhUDlxaVVqdjM4NEtnWmJGeXlHMklVeTROZnBKYXRWeFY4M0xaSkQwOHZ5Zw?oc=5)
+
+---
+
+### [Trévenans. Journée de dépistage de l’hypertension artérielle : « Un tiers des patients ne savent pas qu’ils en ont » - L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3FpQmMzSnBlQlBRZHJ6d1FmcnhfWU9fU1NKcnBUcDA3ampUZTItMGVZMjA0NHdaUmdwQTRuYmdfVFJlSnFzT0J4SVV0cHVfSGliT2pjSGhhdXV3eU0wc08wNkkyMjBUZ1NOY29xS1NlNEZLYm1rQm9UZ1RCNl9hSFprX1FFUDBFdnJXMTZVY0liM04tRXVGODJYenVHLTZ3am1KY2dKRFlETVpJaXpTMmNEYlpOSm82UWpfN01CTnd2QVNsbjV2NEdZTDJ5MFE1akFENjRoYW92M2JXRmI4?oc=5)
+
+2026-11-04 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+Source: [L'Est Républicain](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3FpQmMzSnBlQlBRZHJ6d1FmcnhfWU9fU1NKcnBUcDA3ampUZTItMGVZMjA0NHdaUmdwQTRuYmdfVFJlSnFzT0J4SVV0cHVfSGliT2pjSGhhdXV3eU0wc08wNkkyMjBUZ1NOY29xS1NlNEZLYm1rQm9UZ1RCNl9hSFprX1FFUDBFdnJXMTZVY0liM04tRXVGODJYenVHLTZ3am1KY2dKRFlETVpJaXpTMmNEYlpOSm82UWpfN01CTnd2QVNsbjV2NEdZTDJ5MFE1akFENjRoYW92M2JXRmI4?oc=5)
+
+---
+
+### [Healthier salt could prevent millions of deaths from heart disease and stroke, study finds](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
+
+2026-11-04 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZzWkJ0SGdNQUQ0SDR1clBHOS1VQWtPUlg4ZXhVWmlvOG9JdkZRa2UzcnNnV0tXbFdwYXo0X2haY3pEQTB2WlM2dmM4cWFndnZ4TUx4RV9IQmw2MUtmUWg3TGY4eklIVTlzcHF1NnFPdHpWTTNSTkh6TXh0aTktb0RkckNMRGFJaTh2R3VmM3liNndkeW9LMlMzMXJMcDlXc29CT2xPYWg5UzlYWkhRLVN1Ykh4cUQtc28xd1FwcjlVWUU?oc=5)
+
+---
+
+### [Neue Studie: Risiko für Herzerkrankung bei Dialyse - Medical Tribune](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYWlCclFJYmR4SDRtb0ZGRlpIb0tRRzR3SVlPSVJDZmJyVWxJOE5qWDlPcDkzLUFuc2xyZ1dXczBSZzVWdjZaRXBKNUpGTEZYSXI3NFR2ZFJaWVRJYThVdUdGOFM0UG55V1NycTJtZF95SDV3ZGVNdnZyMHh0cGNyYWpSQ21SbklCLTlrMmR0bXY5cDRmZ1RuM1JPS2dVQm1QUTBPa2tvV0IzY2xuaTBRcUFMY3RnMklOOGdJMElLRWdUeXZUbVRYQ2loYVd5RldqUl9zN2VucmVWRnB6WXlTSHBGaFdfZzU3Y2xpMmRhTml0YnU1?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYWlCclFJYmR4SDRtb0ZGRlpIb0tRRzR3SVlPSVJDZmJyVWxJOE5qWDlPcDkzLUFuc2xyZ1dXczBSZzVWdjZaRXBKNUpGTEZYSXI3NFR2ZFJaWVRJYThVdUdGOFM0UG55V1NycTJtZF95SDV3ZGVNdnZyMHh0cGNyYWpSQ21SbklCLTlrMmR0bXY5cDRmZ1RuM1JPS2dVQm1QUTBPa2tvV0IzY2xuaTBRcUFMY3RnMklOOGdJMElLRWdUeXZUbVRYQ2loYVd5RldqUl9zN2VucmVWRnB6WXlTSHBGaFdfZzU3Y2xpMmRhTml0YnU1?oc=5)
+
+---
+
+### [Bluthochdruck: Schon 5 mm Hg weniger senken das Herz-Kreislauf-Risiko](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUhSLXhqQ2VGZ3FjR1NBYXVPNXl2LWI4WUZZYUV6ZURUNGhreDZLOHFkc1dZbXdyTnhNUnpHbTFqZXlaMndTVXVOd0J3SlBTbW9rRTNPYnRPNzhhaFZRc3JQYjg0R3ZYSFVPQWxhRXJ1Y21tZm9ZR2dEcXVMRHpDaWtJZDB0eEhjcmlYa0pMMWRraUlHLURNUzFOQUlyVm9kMW5SdWh2Q3dxelpMMDRPOV9LNFRnVGdl?oc=5)
+
+2026-11-04 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUhSLXhqQ2VGZ3FjR1NBYXVPNXl2LWI4WUZZYUV6ZURUNGhreDZLOHFkc1dZbXdyTnhNUnpHbTFqZXlaMndTVXVOd0J3SlBTbW9rRTNPYnRPNzhhaFZRc3JQYjg0R3ZYSFVPQWxhRXJ1Y21tZm9ZR2dEcXVMRHpDaWtJZDB0eEhjcmlYa0pMMWRraUlHLURNUzFOQUlyVm9kMW5SdWh2Q3dxelpMMDRPOV9LNFRnVGdl?oc=5)
+
+---
+
+### [Heart failure hospitalisations surge as woman, 35, tells of shock at life-threatening diagnosis - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1BXY2dodmM1X0dROFR1OC1VbThoSHhxMDI2X04xUmFaUC1jOVotWnVjTVpFdnVweVVTM01vRXR4MmJvbWE3ZjM3QWRIZU5mSHc3VmJlQmZzX01acHNPLUpYZEw2aE5YMDVGY05MRzQwY05ZU0FNVm5UV0VUaFFMMk41cDlqZ2lr0gGOAUFVX3lxTFBJZmUxTGhRN3JlS1kwY0w0QkZEQUNtTkkyOUtLZTh0S3N3VEVhRTA5RzQwaWUzZDJJNk9pUjJHbFlZeEZYVTBremRqUXdjM3o0STg0SXF5YnM5Q0Q1TEJjUEdWeWRwVEFDdkJhZDBKdlRUaWg0RFlrQ1NmaXV0MDgtTVpxV1VXdFJaTzI2cmc?oc=5)
+
+2026-11-04 <span class="news-indication-tag">heart failure</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1BXY2dodmM1X0dROFR1OC1VbThoSHhxMDI2X04xUmFaUC1jOVotWnVjTVpFdnVweVVTM01vRXR4MmJvbWE3ZjM3QWRIZU5mSHc3VmJlQmZzX01acHNPLUpYZEw2aE5YMDVGY05MRzQwY05ZU0FNVm5UV0VUaFFMMk41cDlqZ2lr0gGOAUFVX3lxTFBJZmUxTGhRN3JlS1kwY0w0QkZEQUNtTkkyOUtLZTh0S3N3VEVhRTA5RzQwaWUzZDJJNk9pUjJHbFlZeEZYVTBremRqUXdjM3o0STg0SXF5YnM5Q0Q1TEJjUEdWeWRwVEFDdkJhZDBKdlRUaWg0RFlrQ1NmaXV0MDgtTVpxV1VXdFJaTzI2cmc?oc=5)
+
+---
+
+### [Partizipative Therapieentscheidung bei rheumatoider Arthritis: weniger Nebenwirkungen - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
+
+2026-11-03 <span class="news-indication-tag">arthritis</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtXMTZrdXNCY3hGMzlPaVYxRk5pY19IZXhZWElXT3BwcG14ZTVUelRyR05hRmxXV29KelAtNUlXU1hWVldWc3BqSFlteldFMjdONVZvZWtpdGZJUTU5WnNyWGpzY3NMWEotUHh3c1lvcF9pZ0dZVV9IWk1vSnRXQ3EtQmNDRXRFdmViZk1hN0dROEs2Q0lmQm5UYmd1bWJMazNMSWN6OWw5RFBfY2QzTVRScm1EVFE?oc=5)
+
+---
+
+### [Why more younger Americans are having strokes - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHF6YWQ5dFpvTkwySjItNEZHRm1xREE4NGlvYjBob2lybTZETEx1SlpXTi1VazF4MDI0WEFXLWZaRHpKZDRDXzktTVB6MEtvRUowc0UwYVVnTWtQX0dwNHJ5YlZOSHh5cUFzSHltNmhDcW5IUDlkY1V4Y05aRzJtaFo3UWdMUXRIYWR4MTFiNU16d0Zqb2IyX0VNcGlRZWc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHF6YWQ5dFpvTkwySjItNEZHRm1xREE4NGlvYjBob2lybTZETEx1SlpXTi1VazF4MDI0WEFXLWZaRHpKZDRDXzktTVB6MEtvRUowc0UwYVVnTWtQX0dwNHJ5YlZOSHh5cUFzSHltNmhDcW5IUDlkY1V4Y05aRzJtaFo3UWdMUXRIYWR4MTFiNU16d0Zqb2IyX0VNcGlRZWc?oc=5)
+
+---
+
+### [Exploran más allá del vínculo entre hipertensión pulmonar y deterioro cognitivo - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkFtZElIaU9ZdXhYTkJzZ1pDQmZQX01ZamhlUzgtcU1GZGZfTG1pUUItd0N5akoxZW4zTDg0UFdFVTFNcThMZHBYVmJ1dGFtbHRmODNpNENzcUtraFJuWGtaTkRrYndMdTZDZWRFOFFTVDNOVzRXaVVpMnNBUVl0N29OTWpTYmlzZkJVMUVjcTJaUE50S3ZuWmhDbFFwd1FycTk0YjI2bnlnblBnNy1VblRHeDVUV1BvQlAtY2xR0gG4AUFVX3lxTE1mMkFXaElZUVFfMG1Kc0x0SGZFbm1MdEpJb21NZGpIRXF0bTZKV0liV3I5OWZ4MFctQjFjTjBqdTBHR1R5dzNaSjdydllmeUVaUWQwZEotRllKbjFzR2gzTW1uVGFxZ2dJWEdUb0JnWk5tZFpFcUtiZ3hJSklTT0xCV1BvYjYxQmVIY3ZZRk05N2l3TmRjX2tqVG9TcFFrUXZGNlN6RkJwWXdjQXZ5ZlgtdFMzY1dtQjc?oc=5)
+
+---
+
+### [99. DGN-Kongress: Neue Perspektiven für die Schlaganfallmedizin - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaW1RT0QwUWU0ZzhjT1JXY0dWN0tIYi1CbWV4VUxKc25rdW8wbTh6aFIxeU1kbWJ1SlZ1bkVpQlR4OVhXblg4LUNlMU1DZEh3QVQyUmotQlBmTG9EeDcxYlYxWUF0YS1lbFNVVFdwX21YNGpxYnY3dDZqT09LbHJIaUpsTVN5aXYwYlB0VmhwcGNEYWtWSHJMWDQteUxWOWxJcE5WczljeFRWbTQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaW1RT0QwUWU0ZzhjT1JXY0dWN0tIYi1CbWV4VUxKc25rdW8wbTh6aFIxeU1kbWJ1SlZ1bkVpQlR4OVhXblg4LUNlMU1DZEh3QVQyUmotQlBmTG9EeDcxYlYxWUF0YS1lbFNVVFdwX21YNGpxYnY3dDZqT09LbHJIaUpsTVN5aXYwYlB0VmhwcGNEYWtWSHJMWDQteUxWOWxJcE5WczljeFRWbTQ?oc=5)
+
+---
+
+### [La vacunación de adultos, herramienta clave para prevenir las enfermedades cardiovasculares en Europa - Gaceta Médica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWdBakpEeWJ0aGxqZ3RkeGR0dS1tWXJwemNRd1BiLXRoWVNlYTJTdFN6Z0xWcUtabzBEYl9adjdneG5PM0FZRUFBSEUyREEwbzJDNi1JS0JSRmhjNmphaU1NWVZHOWp0bEZCVmNCdlp2Y0d0dFNWQW50UU1kME8wMW5Fei1rU2xzbC1ZVDhQVmYyWkl6WlAtUnBhc3AxVG1iUkhLWU5nUlNiLU4xOGFWbmVGckMtNldGaGlUY3J0VQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">cardiopatía</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWdBakpEeWJ0aGxqZ3RkeGR0dS1tWXJwemNRd1BiLXRoWVNlYTJTdFN6Z0xWcUtabzBEYl9adjdneG5PM0FZRUFBSEUyREEwbzJDNi1JS0JSRmhjNmphaU1NWVZHOWp0bEZCVmNCdlp2Y0d0dFNWQW50UU1kME8wMW5Fei1rU2xzbC1ZVDhQVmYyWkl6WlAtUnBhc3AxVG1iUkhLWU5nUlNiLU4xOGFWbmVGckMtNldGaGlUY3J0VQ?oc=5)
+
+---
+
+### [Expertos proponen un abordaje multidisciplinar de la enfermedad psoriásica que anticipe su progresión y mejore la calidad de vida de los pacientes - Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeExsUUx5Y2Y2V3NRRzlOaGJFRFNqZDZDQ0lPNW1yTjZGX2JEMC1FUVlSWENkUkdjNl9PenNMQXIzY3FVLUR6b3VQTjhqaVBsTS00bGs5QWFMZXB1dE9mQ3laVzFQQWtfSFhOLWxWdE95MWs0S2lQQm5qMy1LSFYyMmJrU2ppWWtiVFRFSm1lYmRycFdzWXdUZ0dVdjN5bTBIbER2MGNLVHl1dXVBZE1IVjZNMzZ5OUdCcnhYSFBKMTE5dXBuM3B2QWln?oc=5)
+
+2026-11-03 <span class="news-indication-tag">artritis</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeExsUUx5Y2Y2V3NRRzlOaGJFRFNqZDZDQ0lPNW1yTjZGX2JEMC1FUVlSWENkUkdjNl9PenNMQXIzY3FVLUR6b3VQTjhqaVBsTS00bGs5QWFMZXB1dE9mQ3laVzFQQWtfSFhOLWxWdE95MWs0S2lQQm5qMy1LSFYyMmJrU2ppWWtiVFRFSm1lYmRycFdzWXdUZ0dVdjN5bTBIbER2MGNLVHl1dXVBZE1IVjZNMzZ5OUdCcnhYSFBKMTE5dXBuM3B2QWln?oc=5)
+
+---
+
+### [Hallan el origen de las alteraciones de memoria y atención en pacientes con hipertensión pulmonar](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZFNieVBFbmdKRGh3SXgwdXFQUU9OdWxxOVlKUGR4cG90U2ExcllyclpmcHVXeTVNa1lvSnV6R0xlN0ZhQ294Y2RJemF0a0NPRUYtWUFwUWZlUzZhdm14NWN3WkZtS1FNbmxBbGVUTm1hd3FzREFvQnZTSzVORzFWdllkWU81ZFFycWNZd1VzRGpjMUhrWEJsc1VReXhudHZFb2hlR1FaU0szOXd6V1Q1YzBxcndkSVlPcl9IWjltYV9Yck04YzhuMVp3azdReWlVeTJZSGFRcTVtT09rTEE?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZFNieVBFbmdKRGh3SXgwdXFQUU9OdWxxOVlKUGR4cG90U2ExcllyclpmcHVXeTVNa1lvSnV6R0xlN0ZhQ294Y2RJemF0a0NPRUYtWUFwUWZlUzZhdm14NWN3WkZtS1FNbmxBbGVUTm1hd3FzREFvQnZTSzVORzFWdllkWU81ZFFycWNZd1VzRGpjMUhrWEJsc1VReXhudHZFb2hlR1FaU0szOXd6V1Q1YzBxcndkSVlPcl9IWjltYV9Yck04YzhuMVp3azdReWlVeTJZSGFRcTVtT09rTEE?oc=5)
+
+---
+
+### [Ceva Salud Animal reúne a veterinarios en Valencia para profundizar en el diagnóstico oftalmológico de la hipertensión felina](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMzdYVEYwLXE5SWFuWHRXM0NPd0pOdTRLb3dGeFBRbFVpME1KVGtqTk9LZ1ZNVzQ1NU1hLTYyaW1mejE3YXNLdzdZNlctaW5ZUlVhZVF2NWxVT1Q5bElZQ3JZcUZONEN2c192WDVQT0xtTENKNGVDWTA2N2oyTllXWWdjUnpvTDU4YU4yWk14THRNU21EOUlSNURaT3ozUmgtcUkzZW8xeGhYSXVwYzhrRlhUUTJpTVBEbzN0VFlZcVE2ZzBTWFFZeXl4VTMxZ0RNdWZ5N3djQlPSAd4BQVVfeXFMT2VoeTlBcjViUzhaZHRSZkFnc3NCZEZrckJVRm90SGdKUHYzdVdYVW0zQ2pDQkgtd0dDYjh4WnkzNUJ6TU8zWmM0blg1VFU4U2hsVVl5b0JQVGFfVGI4TGh1UFRfRGNoZWNGY2ZrcFRxQVkwLU1mYzBRWkpIQjEtUXgwYW4xc01YUXMzb0VjTkx1X3ZsN1B1TC1OVHR4TnNHWTVyQXF0V3NXU1JqMG9XZVJMWGstcnlhRGJlSXdiZUtZV1l5dFhUdG9ybGdzNERWUjVJVFJWZWxZUUR0R0JR?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMzdYVEYwLXE5SWFuWHRXM0NPd0pOdTRLb3dGeFBRbFVpME1KVGtqTk9LZ1ZNVzQ1NU1hLTYyaW1mejE3YXNLdzdZNlctaW5ZUlVhZVF2NWxVT1Q5bElZQ3JZcUZONEN2c192WDVQT0xtTENKNGVDWTA2N2oyTllXWWdjUnpvTDU4YU4yWk14THRNU21EOUlSNURaT3ozUmgtcUkzZW8xeGhYSXVwYzhrRlhUUTJpTVBEbzN0VFlZcVE2ZzBTWFFZeXl4VTMxZ0RNdWZ5N3djQlPSAd4BQVVfeXFMT2VoeTlBcjViUzhaZHRSZkFnc3NCZEZrckJVRm90SGdKUHYzdVdYVW0zQ2pDQkgtd0dDYjh4WnkzNUJ6TU8zWmM0blg1VFU4U2hsVVl5b0JQVGFfVGI4TGh1UFRfRGNoZWNGY2ZrcFRxQVkwLU1mYzBRWkpIQjEtUXgwYW4xc01YUXMzb0VjTkx1X3ZsN1B1TC1OVHR4TnNHWTVyQXF0V3NXU1JqMG9XZVJMWGstcnlhRGJlSXdiZUtZV1l5dFhUdG9ybGdzNERWUjVJVFJWZWxZUUR0R0JR?oc=5)
+
+---
+
+### [How You Drink Your Tea Could Affect Your Heart Disease Risk, New Study Says](https://news.google.com/rss/articles/CBMid0FVX3lxTFBqRmtDTldGTXBqLXBlaHJXeFN2UVY0UEVNZzNUSGVNZmZEWklPc052X2JsSzYxVXNlVTV2R21QWURmSEFtbGFfeHdDcFMzM1EySGVyQmI2QW9ERndtYTNIMG1ScUx5X2RTQUpJdkdFVjN2RXpPNXBR?oc=5)
+
+2026-11-03 <span class="news-indication-tag">heart disease</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMid0FVX3lxTFBqRmtDTldGTXBqLXBlaHJXeFN2UVY0UEVNZzNUSGVNZmZEWklPc052X2JsSzYxVXNlVTV2R21QWURmSEFtbGFfeHdDcFMzM1EySGVyQmI2QW9ERndtYTNIMG1ScUx5X2RTQUpJdkdFVjN2RXpPNXBR?oc=5)
+
+---
+
+### [Hipertensión en el embarazo y menopausia precoz: el corazón de la mujer entra en las guías médicas - El Confidencial](https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0dTcHFGWnBYcVJRaFp0empJQ1BPVjdtQmhBMWpiQmJKQmh0VklIVUdEbGg3SUU0NjVnMDRkMW5xQWUtalY5TU5URFFvcHlUd0RnSXhZWFdrMW9BLU52dXYyS0VFYmlxd0VQVTk2YmUtTC1lNEdCM1BUMGM3SDlocXJMcThDc0NGTVpyd0FwYXhzLXZNN0l2bXNuZ1ctUGluV1dmVkdaS2tpZXMweFM4Z2dOYVhNNHc?oc=5)
+
+2026-11-03 <span class="news-indication-tag">hipertensión</span>
+
+Source: [El Confidencial](https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0dTcHFGWnBYcVJRaFp0empJQ1BPVjdtQmhBMWpiQmJKQmh0VklIVUdEbGg3SUU0NjVnMDRkMW5xQWUtalY5TU5URFFvcHlUd0RnSXhZWFdrMW9BLU52dXYyS0VFYmlxd0VQVTk2YmUtTC1lNEdCM1BUMGM3SDlocXJMcThDc0NGTVpyd0FwYXhzLXZNN0l2bXNuZ1ctUGluV1dmVkdaS2tpZXMweFM4Z2dOYVhNNHc?oc=5)
+
+---
+
+### [Bluthochdruck: Bericht fordert Kombi-Strategie aus Natrium runter und Kalium rauf - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVB3TmZJNFNuNXhwLW5YN3ZhcHdURVRRcWIzbUNBUW52YVdYdGVvdUhQTGFuTnNDUXhEbU1UZFpsaFBQTHZLNnd0aThqUzFtX1lfdUtFa0ZaM2ZScU1CbnItMk14OUJ5TGhhMjN1cW80Qm1oeE9TR2VTQUZVSnZlQkJvOGFtX2JycmRfUTJrZU9memRNTVk5QTJXdWVfcEUwbHY0YmN0anNXOEJ6ZDVSSm9R?oc=5)
+
+2026-11-03 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVB3TmZJNFNuNXhwLW5YN3ZhcHdURVRRcWIzbUNBUW52YVdYdGVvdUhQTGFuTnNDUXhEbU1UZFpsaFBQTHZLNnd0aThqUzFtX1lfdUtFa0ZaM2ZScU1CbnItMk14OUJ5TGhhMjN1cW80Qm1oeE9TR2VTQUZVSnZlQkJvOGFtX2JycmRfUTJrZU9memRNTVk5QTJXdWVfcEUwbHY0YmN0anNXOEJ6ZDVSSm9R?oc=5)
+
+---
+
+### [Blutdruck-Check ab 35: Gesetzlich Versicherte haben alle drei Jahre Anspruch](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFNvRXRIbDdELUcwUFRBQWp2Wk1ubkhMZllDVHpXWHBhdjBwWWU0X0tkd0tJX0lqbEFTYUhnS2M2WU9DMHRibXRQaDRiTjNTZGNnWk1VM0djMmZXZFFSVDlNWDFCY1Jicm1haFhKUEJla2c3aEtRN25wd1R1VzV1OHA1THliQ19TajlPcE5KdGtIa25qa2JHblZIaU0yaFdyN0pKUkRMYm9sQk1XRmpDSUVid3ZrejctVU1fQWx4V2JWQQ?oc=5)
+
+2026-11-02 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFNvRXRIbDdELUcwUFRBQWp2Wk1ubkhMZllDVHpXWHBhdjBwWWU0X0tkd0tJX0lqbEFTYUhnS2M2WU9DMHRibXRQaDRiTjNTZGNnWk1VM0djMmZXZFFSVDlNWDFCY1Jicm1haFhKUEJla2c3aEtRN25wd1R1VzV1OHA1THliQ19TajlPcE5KdGtIa25qa2JHblZIaU0yaFdyN0pKUkRMYm9sQk1XRmpDSUVid3ZrejctVU1fQWx4V2JWQQ?oc=5)
+
+---
+
+### [La transición al genérico de tofacitinib preserva el control de la artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFk5TGFSVGVWUUNiU1B1SFBoVGw4UkhJbjhNY1hWYnpGQXlETGE2YjlaUnVXUE9QeGgzbmpfODhEbS1PSEYtR0RiWkNqaUpMaEh0aURENDJTZFFwRnFfQnV2ZmZReUoxRWZhOHJ3RUVXN29HbEkwSjBKNmhxNmJCWktMeFBYNF92TGQ4OHIyUmR3bkwxM0JlcjVwcEItd3F2YzBIYnE4MkRtWHMzcmRqYjZGWlprWFkxTVlCRFljb3jSAbsBQVVfeXFMTm5BT3ZtS3lac3pRN0JCRlNzdVA3YlMtSVhqTkZ5clBNSGlTTlZYWkZDblpaRlNiZ2lTeVhlZEZEbkVXUXEzaWlHb0tyZjBVY0llTGxGYXlETWtFaFQ2Mmh6b0lISTFXcXZYSmtlZXVCY3U3TzMtcmRlWjFsUGdfOFZZTVpBQXVOTVpOdzJKRzlVM2s5QXhwU3N6VzhtU2YxSGpVSkFMeDZ1NXlrNzFQMy1TZHl2UkRHN0R6cw?oc=5)
+
+2026-11-02 <span class="news-drug-tag">Tofacitinib</span> <span class="news-indication-tag">artritis</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFk5TGFSVGVWUUNiU1B1SFBoVGw4UkhJbjhNY1hWYnpGQXlETGE2YjlaUnVXUE9QeGgzbmpfODhEbS1PSEYtR0RiWkNqaUpMaEh0aURENDJTZFFwRnFfQnV2ZmZReUoxRWZhOHJ3RUVXN29HbEkwSjBKNmhxNmJCWktMeFBYNF92TGQ4OHIyUmR3bkwxM0JlcjVwcEItd3F2YzBIYnE4MkRtWHMzcmRqYjZGWlprWFkxTVlCRFljb3jSAbsBQVVfeXFMTm5BT3ZtS3lac3pRN0JCRlNzdVA3YlMtSVhqTkZ5clBNSGlTTlZYWkZDblpaRlNiZ2lTeVhlZEZEbkVXUXEzaWlHb0tyZjBVY0llTGxGYXlETWtFaFQ2Mmh6b0lISTFXcXZYSmtlZXVCY3U3TzMtcmRlWjFsUGdfOFZZTVpBQXVOTVpOdzJKRzlVM2s5QXhwU3N6VzhtU2YxSGpVSkFMeDZ1NXlrNzFQMy1TZHl2UkRHN0R6cw?oc=5)
+
+---
+
+### [Zum morgigen Weltmännertag: Regelmäßig Blutdruck messen, um Schlaganfall vorzubeugen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUW9qS0Z2eXEtN01OM1E5MVhWQzYyTUJkYjBPQlZvcXhWc0dzOG1JLW1ybnJjam5DY2RaM0pHc01iTVJMQk9tOHFQQ2tuVGZLUFRWdDMxcHpLNDV5LVBUOFAtb0FLUmhoS3VDdExsb01DRG5PaGM3RTZISE9XQjZucVp5RVc0Y0ZOVngzTlZHck01dS0xbXhObUkzRFB1eGRRSFhodDNJOGJqMEJXelRnbEJ5QnR4aXNXUjB0UUJxb3I4SklqQk0yZE13?oc=5)
+
+2026-11-02 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUW9qS0Z2eXEtN01OM1E5MVhWQzYyTUJkYjBPQlZvcXhWc0dzOG1JLW1ybnJjam5DY2RaM0pHc01iTVJMQk9tOHFQQ2tuVGZLUFRWdDMxcHpLNDV5LVBUOFAtb0FLUmhoS3VDdExsb01DRG5PaGM3RTZISE9XQjZucVp5RVc0Y0ZOVngzTlZHck01dS0xbXhObUkzRFB1eGRRSFhodDNJOGJqMEJXelRnbEJ5QnR4aXNXUjB0UUJxb3I4SklqQk0yZE13?oc=5)
+
+---
+
+### [Experts say high blood pressure guidelines are missing half the equation - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1OeHM1anU3ekdQR0s2S1ZaLWxqVVRUSFBTR3EwY1djMGVnWloyRkpmMzBZYjZiemZaN19mR1hBOUpILXh4Ujk5RmpHSl9SdmQ4SWkwNkZ3WXhZRHBydjhJNEFIR1I1UHBHM2lDNmtZUQ?oc=5)
+
+2026-11-02 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1OeHM1anU3ekdQR0s2S1ZaLWxqVVRUSFBTR3EwY1djMGVnWloyRkpmMzBZYjZiemZaN19mR1hBOUpILXh4Ujk5RmpHSl9SdmQ4SWkwNkZ3WXhZRHBydjhJNEFIR1I1UHBHM2lDNmtZUQ?oc=5)
+
+---
+
+### [¿Riesgos del embarazo en las miocardiopatías?](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZmxXdllwSm54V1JBUzBWbS1fNmNfTmlPYkNFcWpxY0tMZUxOZmxYRDlnUzVWVEQ0WndldzlvaHhiMkh3Rm5CLWxfNWIzVFpWOUttLWtVMURiY1dnUE1RdTlvQmp0OWRzTWZaa0xySzFRWVFGRGxKT3NTdTlaUHl5VlFpNG00aXFMSHlYUVF3Z2pmUnJoZVhIemplSW1EVFVpRXBZTUdvZjAzRUo3a2xDYWs0b2tGRWlUa1lHRFlXOUdweTRzQnJLQUYyd1FNWnNvWE1URk80clJPd2R6ZzhfSzdBTQ?oc=5)
+
+2026-11-02 <span class="news-indication-tag">cardiopatía</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZmxXdllwSm54V1JBUzBWbS1fNmNfTmlPYkNFcWpxY0tMZUxOZmxYRDlnUzVWVEQ0WndldzlvaHhiMkh3Rm5CLWxfNWIzVFpWOUttLWtVMURiY1dnUE1RdTlvQmp0OWRzTWZaa0xySzFRWVFGRGxKT3NTdTlaUHl5VlFpNG00aXFMSHlYUVF3Z2pmUnJoZVhIemplSW1EVFVpRXBZTUdvZjAzRUo3a2xDYWs0b2tGRWlUa1lHRFlXOUdweTRzQnJLQUYyd1FNWnNvWE1URk80clJPd2R6ZzhfSzdBTQ?oc=5)
+
+---
+
+### [Blutdruck im Blick: Welche Werte als gut gelten – und was Sie selbst dafür tun können](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSTBIQ2I1SXM5Z3VTMmhqWDRfSXZDUF9fUkcwZDJlbThoRTBzNmZTRzNDR1o3VjJIc2JYMDBDaGl0ZWh6OUY2N2JVRVVieUYzZTg1VjdVRzRoSHJSVTJRbXVIM2ZDXzE5QW5ReWJ2UTVZam9fVHB6MHdkcUZGeWdsbFVtMWpWVVRNSkJtejd3S0lsaExGZlMxVWNyYUpydVp3d3VqSjZiUnBMOUlUNWJsZmVLaGhONUFEZm9kMHlRTldxWVZWVHlWc2RtVmlWT216Y3lQcEFEQ2tzSHgzekE?oc=5)
+
+2026-11-02 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [oekotest.de](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSTBIQ2I1SXM5Z3VTMmhqWDRfSXZDUF9fUkcwZDJlbThoRTBzNmZTRzNDR1o3VjJIc2JYMDBDaGl0ZWh6OUY2N2JVRVVieUYzZTg1VjdVRzRoSHJSVTJRbXVIM2ZDXzE5QW5ReWJ2UTVZam9fVHB6MHdkcUZGeWdsbFVtMWpWVVRNSkJtejd3S0lsaExGZlMxVWNyYUpydVp3d3VqSjZiUnBMOUlUNWJsZmVLaGhONUFEZm9kMHlRTldxWVZWVHlWc2RtVmlWT216Y3lQcEFEQ2tzSHgzekE?oc=5)
+
+---
+
+### [Cholestérol, tension, cœur : ces 9 fruits que les cardiologues conseillent de mettre plus souvent au menu - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOandPWEM0R282MV9Pd3NSeGVwZFpiT25nLWpkTjZCQmVseDhkMVU0b1lSWXVrOGI1WHdpS2hKMmdpWVdpUVpzSTlGLXBka3ZiMmhvdnl2endfMDh4Qk9Nc2tmX0VOSUVkUG1mRGV5ZDlOaFJWaE84SGlhNE13SXJuUzJEWF9RV3BEQ0ZRUVdwd1hJcHJPTDFIb2tuSmhJMHN3dk5DaFhUSEhzOGhkaDFVRHUzdE5ZVGQ1bEFDVmNnSXpXWGE3QUp6UUU1dVI2ck40aThtX042aHBzSnd4ZTVTcnRJbzFPZkVycXpuY2kxSlNsSjk0bFRBc3lMLTdLYlhDSEFvZk5VTEs?oc=5)
+
+2026-11-02 <span class="news-indication-tag">hypertension</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOandPWEM0R282MV9Pd3NSeGVwZFpiT25nLWpkTjZCQmVseDhkMVU0b1lSWXVrOGI1WHdpS2hKMmdpWVdpUVpzSTlGLXBka3ZiMmhvdnl2endfMDh4Qk9Nc2tmX0VOSUVkUG1mRGV5ZDlOaFJWaE84SGlhNE13SXJuUzJEWF9RV3BEQ0ZRUVdwd1hJcHJPTDFIb2tuSmhJMHN3dk5DaFhUSEhzOGhkaDFVRHUzdE5ZVGQ1bEFDVmNnSXpXWGE3QUp6UUU1dVI2ck40aThtX042aHBzSnd4ZTVTcnRJbzFPZkVycXpuY2kxSlNsSjk0bFRBc3lMLTdLYlhDSEFvZk5VTEs?oc=5)
+
+---
+
+### [Hypertonie: Wann können Blutdrucksenker im hohen Alter abgesetzt werden?](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVjA1Mm40V3ZtYVRVcmJQVGxRR2RHTjA5Ymt4S1lxTXl6TEVMTnoxLUJvNndhaVRyVmxnQkd3TVVHQ2dvd1dVS2tsU1ItVklPS0ZwS3RtNTVSaGtLdmI1UWJIMVE1SDlEbGl0Ym44RlVQcWhzMWQ4S0wxSTdmS3hPUm9sVjNnQnA4NVI1c1pKMk9nVjRzakFLRi1CTTFyVFlua1JOSEhzYm9IRlN0cXN5RzVFeVBDSnlQVnp5Uw?oc=5)
+
+2026-11-02 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVjA1Mm40V3ZtYVRVcmJQVGxRR2RHTjA5Ymt4S1lxTXl6TEVMTnoxLUJvNndhaVRyVmxnQkd3TVVHQ2dvd1dVS2tsU1ItVklPS0ZwS3RtNTVSaGtLdmI1UWJIMVE1SDlEbGl0Ym44RlVQcWhzMWQ4S0wxSTdmS3hPUm9sVjNnQnA4NVI1c1pKMk9nVjRzakFLRi1CTTFyVFlua1JOSEhzYm9IRlN0cXN5RzVFeVBDSnlQVnp5Uw?oc=5)
+
+---
+
+### [I'm a GP – here are three ways to reduce your risk of deadly coronary heart disease - Daily Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTgwMWNxUDZpX2ppM21IY3ZFMDRCQklMRS1DQWZyckVfbktVaV9mY1J6dERSSV92LTJ6aTNfVmxPNExmTGswSmpEWXVoSElQckNUM2hGRkNfMXlTWGF3Q0xlMkZyQ1dUaDVDZm9yZ0lmWnd6YnZCNWtoTDNCUV90ZjEyTGl1LW5LcnRtc2t4azNRTEdRc1BHN1kxTdIBoAFBVV95cUxOYi1zbjJSLTVTMGdGbGhFSnU3ZklzWTVRN0diWEQ0VTIwejNuTXNNQkRPU3EzNXR6eTNRUkRDN090RDl4N1NkcHd1UE8zZGtseEZ6SjhuYU8wVGQ5TnFnb1E2YVBQT2tmcWtfUWpmYktCYWc3ZkcwWmtXdktldzFEcEQ0Y3VYNXBzLWo4dHFubTJ1MGlvdDEyUk1zVGNVT3Rk?oc=5)
+
+2026-11-02 <span class="news-indication-tag">heart disease</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTgwMWNxUDZpX2ppM21IY3ZFMDRCQklMRS1DQWZyckVfbktVaV9mY1J6dERSSV92LTJ6aTNfVmxPNExmTGswSmpEWXVoSElQckNUM2hGRkNfMXlTWGF3Q0xlMkZyQ1dUaDVDZm9yZ0lmWnd6YnZCNWtoTDNCUV90ZjEyTGl1LW5LcnRtc2t4azNRTEdRc1BHN1kxTdIBoAFBVV95cUxOYi1zbjJSLTVTMGdGbGhFSnU3ZklzWTVRN0diWEQ0VTIwejNuTXNNQkRPU3EzNXR6eTNRUkRDN090RDl4N1NkcHd1UE8zZGtseEZ6SjhuYU8wVGQ5TnFnb1E2YVBQT2tmcWtfUWpmYktCYWc3ZkcwWmtXdktldzFEcEQ0Y3VYNXBzLWo4dHFubTJ1MGlvdDEyUk1zVGNVT3Rk?oc=5)
+
+---
+
+### [Longevity: Zwei Werte zeigen, wie gut Sie altern – und jeder kann sie selbst messen - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisAFBVV95cUxQenVaY2VhVlo5TUt3R2V1UlcyeXRza3d6ZVotRUpQazcyTTdXRHhDWkNxMUJ4TVVNRjNEejJISzlfNWVmTnc5eHV6d3cwSXFEQjVPd3pnYlZrVkVWcnplMS1ycE5XdERtbFhEOU9yWVZrVUUzZmg3V0tzUzhaR2Rza0RwaG83RDdQZm9iNjRnWG1uTlZMX0xHTDk1cHNZYmxDUFhRSldKOUpIWTdOYVJrZg?oc=5)
+
+2026-11-01 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisAFBVV95cUxQenVaY2VhVlo5TUt3R2V1UlcyeXRza3d6ZVotRUpQazcyTTdXRHhDWkNxMUJ4TVVNRjNEejJISzlfNWVmTnc5eHV6d3cwSXFEQjVPd3pnYlZrVkVWcnplMS1ycE5XdERtbFhEOU9yWVZrVUUzZmg3V0tzUzhaR2Rza0RwaG83RDdQZm9iNjRnWG1uTlZMX0xHTDk1cHNZYmxDUFhRSldKOUpIWTdOYVJrZg?oc=5)
+
+---
+
+### [Ictus, troppo sale e ipertensione. Gli italiani non si controllano - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlFZNVppUWZtT01DWmE5ajN2ZEFoNUxERDNVZXZTQklLTWFtdkhaQXVoWkZIbzVOeTBTVHJoQnJJY3FDeEczQWNDVmZaOXJvcy11RnVPZ2FZZHJ5SU1HSG1XdzJ3eHhiT3NkNkxjYmc1azFaRzBzMDhvTmN0aVJJYWR0dmNGRXgxZHBJa21vakhHZzNoRllnOFdtVWQ4WFEtblhOYUhDcnRrZV82cHRRdGp2Z29PWE1RMElVQ1pEZk5KMTd5ZnJTcllhZFI?oc=5)
+
+2026-11-01 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
+
+Source: [L'Eco di Bergamo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlFZNVppUWZtT01DWmE5ajN2ZEFoNUxERDNVZXZTQklLTWFtdkhaQXVoWkZIbzVOeTBTVHJoQnJJY3FDeEczQWNDVmZaOXJvcy11RnVPZ2FZZHJ5SU1HSG1XdzJ3eHhiT3NkNkxjYmc1azFaRzBzMDhvTmN0aVJJYWR0dmNGRXgxZHBJa21vakhHZzNoRllnOFdtVWQ4WFEtblhOYUhDcnRrZV82cHRRdGp2Z29PWE1RMElVQ1pEZk5KMTd5ZnJTcllhZFI?oc=5)
+
+---
+
+### [Artritis psoriásica: más allá de la piel - Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
+
+2026-11-01 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Diario Sanitario](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYzNfeDcwVUYyU0RGbFRLMWhHNEJUSGZXM3NEXzJMRlZvR2p5bUF6ckozY2M1SmpqUHhzZFlXUmlIWWZwdkpZZUczQ0FCLXRocXg0bDhhZkk5SXozTFpN?oc=5)
+
+---
+
+### [Three ways to keep your heart healthy and cut the risk of cardiovascular disease - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzh2ZDlCN254SkVWTUt1SzJ4eURET3Y0Sm1XNVd5c1ItUGFkZWpHUkpUT1RtU3RlU3RrNUdJZDh5MEJTaC1RREF1MFl6cE94OWtQdWt2Rks4eUgtVWhFWHUwUTRhOEdmZ29jMUMxcGcyR1Y2bVBVc3BSbUVuM283YWoxVVM5dkpZYnZTRnFLanpwQ2FIXzA0?oc=5)
+
+2026-10-31 <span class="news-indication-tag">heart disease</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzh2ZDlCN254SkVWTUt1SzJ4eURET3Y0Sm1XNVd5c1ItUGFkZWpHUkpUT1RtU3RlU3RrNUdJZDh5MEJTaC1RREF1MFl6cE94OWtQdWt2Rks4eUgtVWhFWHUwUTRhOEdmZ29jMUMxcGcyR1Y2bVBVc3BSbUVuM283YWoxVVM5dkpZYnZTRnFLanpwQ2FIXzA0?oc=5)
+
+---
+
+### [Schuppenflechte - Was moderne Therapien bei Psoriasis leisten können - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EbTN6NmltakVfS3U2SVdEdkFzSU1lSGM5RFBjOHFyNU13V213MDl5aUxtV1lVdTVORDZHUnB1ZjJjQQ?oc=5)
+
+2026-10-31 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5EbTN6NmltakVfS3U2SVdEdkFzSU1lSGM5RFBjOHFyNU13V213MDl5aUxtV1lVdTVORDZHUnB1ZjJjQQ?oc=5)
+
+---
+
+### [Cardiologists Agree—This Common Food Is Fantastic for Lowering Blood Pressure](https://news.google.com/rss/articles/CBMid0FVX3lxTE5VdEY0RVNyTXVDM1dfeExMRGJfZXpWZVlHMWpqV1Rlamw2ZmFaX1ZEb1Zrc3JCQTVvbDktMENQSU14bjJRelFPTHBUUDl5MGdtUXB1Q2R2aU56THpYV1F1TmVZaUYzaktZRWFrWlhneW4wVm43cXc4?oc=5)
+
+2026-10-30 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMid0FVX3lxTE5VdEY0RVNyTXVDM1dfeExMRGJfZXpWZVlHMWpqV1Rlamw2ZmFaX1ZEb1Zrc3JCQTVvbDktMENQSU14bjJRelFPTHBUUDl5MGdtUXB1Q2R2aU56THpYV1F1TmVZaUYzaktZRWFrWlhneW4wVm43cXc4?oc=5)
+
+---
+
+### [4 Vegetables to Help Reduce Heart Disease Risk, According to a Cardiologist](https://news.google.com/rss/articles/CBMid0FVX3lxTE52NkFySk0yU3FJbUhYNGpUSTUyMk5MdE9LOTN3ZUFQWV9iU2NvbUpyZ1Z1TGlXczhkSjYtZTBxM0syVHcycGtWd1NkTmd3XzJKanhKeG9rdVFQRDdnd2dKalFueG42QmtsMDRkZUc0SFlEWFd3T2lz?oc=5)
+
+2026-10-29 <span class="news-indication-tag">heart disease</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMid0FVX3lxTE52NkFySk0yU3FJbUhYNGpUSTUyMk5MdE9LOTN3ZUFQWV9iU2NvbUpyZ1Z1TGlXczhkSjYtZTBxM0syVHcycGtWd1NkTmd3XzJKanhKeG9rdVFQRDdnd2dKalFueG42QmtsMDRkZUc0SFlEWFd3T2lz?oc=5)
+
+---
+
+### [Un cardiólogo reclama que la vacuna de la gripe sea parte fija de la prevención en pacientes con cardiopatías](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
+
+2026-10-29 <span class="news-indication-tag">cardiopatía</span>
+
+Source: [Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFgtUDUzQ1N3NnNpc2lYSmcwTTYzQ1M1amZKSkdlSGtIckNmd0lidGtCRUNpa3RDZDFvMmk5QXNFbE4xTlZ2Qnh2TGk1UXlXTkxSd2dNODZlbmRGLVQ3aWN2cXp3MkpTclhfMWowd3dtS1QyT0VQak9OQ09kQVJwSVh6NHhndFJtQ3pWRThaZkxvTTMzTThac2ljVVBpV2pwQmw0VWFQRWVYUEhuTTdwdW1kVjRGVFFqdzQ1d2pBb3Jyak5SSVVPM1dmYlZESFFlY1FOMnBZakg2NVXSAeABQVVfeXFMUFQxZTJobTVvWHV5cnRrRlZtdlQwaTVSQW5CZTUzU2dSLWFycjBIaXZYR2trd1R6Mzlfd1NHV0tMc3RDcHZPa1l0b2dTRExXeFEwYU9fd1RrekgtVUJ6dFFFSktVQ1RTVk5YSi1UUUtpdWNPdUt6WDM4Sl8wR09NMDlObVhqemx4WXA5LU1kbTRQZzVGRWUyRFFpWURmUkRwUGIyM29pZFk4dmZyYTN0c29naUxiNnBKM1R2ck5WQ2x6Ri0xcnlUbkd0elgtRkdxU3JBQl9ILUlvX0FBbVlUaWk?oc=5)
+
+---
+
+### [Klinik an der Weißenburg klärt über weitgehend unbekannte Krankheit auf - Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+2026-10-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Ostthüringer Zeitung](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRi1GWTJMM0ZnWWZtY0ZjaXRhTF9YWjI1b3c3SE55UThEVHJ0UWNwSjhuR2NseE1YeVV2ZVlIcHlDb2FybXZFejdOc2wyaWduazZIdGd2b2NxTGVUWU1UdG5zX3kyYWZCT0lZXzNZRFFhd21UQl9OdUNmTjZ5eGdpOTktdkpLWkM3NHhiU3J2Qk1UOHl5WV9oY2U4dnpVNjFaR2EyakluRzZhQnJYeVoteGtDWkF0NzhuR3lKU1ljbTFUakx3RmwwckoybmM1SGZKQmpYUTZ0OExZR00?oc=5)
+
+---
+
+### [Ictus, si può prevenire? Siate veloci a cogliere i sei segnali d’allarme - la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR4RlJrRmI3WVZLdWtJV25PVzZfek5Ob3VQa21JaVpqV1VMZ05Rb3hRd3M2TjI0cmJ3cl8zOVhKY2UzUlp1T0NmUEtXV0hfc1dVazB3TFlMdlBXWVJXRURrOG92NFRTM2luNldqRVRuaUdGTmxXRGJFTUVuU01VR3h3Xy1JdFhiQkoyTXJZNkhBams1S0ZvWGxXYkg1TS1kbEd4bVM1RWJXWU0tMFB3YWlrenpCa05qRURqOTVZR0hkc2Zkd1ctZ2ln0gHPAUFVX3lxTE82ano2ZHlOTU5hYW42NENjVzF4WTFqZ2RaYWFOeGZHeElDbGE4TmxaZ0hOUDBQQTg0eWs4Q3IydU96UVp3Nml4MjIxLUlYQkdZRU5iRmV4WThSMUN5SDl4WUdrSnNqMTBiMWp3anBjVmFNSTJKVW9uZXhvbF9IVFl2bzg2RW5Wejd1SkdiVy11alg5RkxpaWtCeHQ3Um9sNThkOTFzd2Zyc1g4YzUycFVkYWhSZHhWXzFFZDItS3VtckpxYjkxVjI0S3FtVlhkOA?oc=5)
+
+2026-10-28 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGR4RlJrRmI3WVZLdWtJV25PVzZfek5Ob3VQa21JaVpqV1VMZ05Rb3hRd3M2TjI0cmJ3cl8zOVhKY2UzUlp1T0NmUEtXV0hfc1dVazB3TFlMdlBXWVJXRURrOG92NFRTM2luNldqRVRuaUdGTmxXRGJFTUVuU01VR3h3Xy1JdFhiQkoyTXJZNkhBams1S0ZvWGxXYkg1TS1kbEd4bVM1RWJXWU0tMFB3YWlrenpCa05qRURqOTVZR0hkc2Zkd1ctZ2ln0gHPAUFVX3lxTE82ano2ZHlOTU5hYW42NENjVzF4WTFqZ2RaYWFOeGZHeElDbGE4TmxaZ0hOUDBQQTg0eWs4Q3IydU96UVp3Nml4MjIxLUlYQkdZRU5iRmV4WThSMUN5SDl4WUdrSnNqMTBiMWp3anBjVmFNSTJKVW9uZXhvbF9IVFl2bzg2RW5Wejd1SkdiVy11alg5RkxpaWtCeHQ3Um9sNThkOTFzd2Zyc1g4YzUycFVkYWhSZHhWXzFFZDItS3VtckpxYjkxVjI0S3FtVlhkOA?oc=5)
+
+---
+
+### [A simple daily fiber supplement reduced arthritis pain and improved strength - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
+
+2026-10-28 <span class="news-indication-tag">arthritis</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
+
+---
+
+### [Low vitamin B12 is linked to heart disease. Supplements tell a different story](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
+
+2026-10-28 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
+
+---
+
+### [Deutscher Psoriasis-Tag 2026 in Erlangen: Was die Forschung für den Alltag mit Schuppenflechte bringt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUZVdGExczNSNV9hUWx4MHcwd0tPTUEyaUVlajZac0NjOEMxU3FYenhjWVFWN2gyem5Pa1NmQTAyODZnMU5qVU9PenBiNFNvSG1vUnRNWGlSSUtXUTNPbGFlZjBsLVRuLXdKU29rQThUekxKbjZGUkF0VWVST3NldjgwNldzaC1ZZk9FTWkzU1prN3lCbVlFeFQzcTFuNDQwSjA0ay1uZGlpRVZsT0QxM25NdEVsY0dhREpsVlJxUVc5YzFldkFMeFlDX2g2azRlSUV2NUZCeHRxVjE3c0RDaE1mNWpHTVFCSzdhS05B?oc=5)
+
+2026-10-26 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Psoriasis-Netz](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUZVdGExczNSNV9hUWx4MHcwd0tPTUEyaUVlajZac0NjOEMxU3FYenhjWVFWN2gyem5Pa1NmQTAyODZnMU5qVU9PenBiNFNvSG1vUnRNWGlSSUtXUTNPbGFlZjBsLVRuLXdKU29rQThUekxKbjZGUkF0VWVST3NldjgwNldzaC1ZZk9FTWkzU1prN3lCbVlFeFQzcTFuNDQwSjA0ay1uZGlpRVZsT0QxM25NdEVsY0dhREpsVlJxUVc5YzFldkFMeFlDX2g2azRlSUV2NUZCeHRxVjE3c0RDaE1mNWpHTVFCSzdhS05B?oc=5)
+
+---
+
+
+<div class="disclaimer">
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
+</div>
+
+<style>
+.indication-matched {
+  background: #fff3e0;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border-left: 3px solid #ff9800;
+}
+.indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  margin-left: 8px;
+}
+.news-indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+.news-drug-tag {
+  display: inline-block;
+  background: #1565c0;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+</style>

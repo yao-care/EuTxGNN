@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Olanzapine. 2 predicted indications."
 permalink: /news/olanzapine/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Olanzapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>52 news articles</strong>, with 2 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>53 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (52)
+## Related News (53)
+
+### [Herzgesundheit: Wie viel Kaffee schützt vor Vorhofflimmern?](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUhTUmxQVGhkMHAxeTV1R2RwVUFjX0RUM0g5eGdtYmFoS1I1aVljempNZkxsd0RndnlsMHJ5XzBCeC1rUWJrdTZhMnRobFNFWWdVSkhLZXQwZlRBQXpJRmluMEh1UXBXNmxhWGJjWWFuNVNXWldpYkVnVXNnODh3VE54QXBVN0NCS2ZNRDJENHgyWU0?oc=5)
+
+2026-11-16 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [WEB.DE](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUhTUmxQVGhkMHAxeTV1R2RwVUFjX0RUM0g5eGdtYmFoS1I1aVljempNZkxsd0RndnlsMHJ5XzBCeC1rUWJrdTZhMnRobFNFWWdVSkhLZXQwZlRBQXpJRmluMEh1UXBXNmxhWGJjWWFuNVNXWldpYkVnVXNnODh3VE54QXBVN0NCS2ZNRDJENHgyWU0?oc=5)
+
+---
 
 ### [La conciliación empieza antes de ser madre: la lucha invisible de las madrileñas que buscan un embarazo - El Periódico de España](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZnVJV0t1bTdSRE1LV0V0VFNMWXByLXRVX0ZSLVdINFoxMGFLU0YtQVdVMzdEZm5FcmVpbDlCY2pUNWFPSnBJb0VkTUJnODJTTkxvY3ladEMyQTNkTkU3LWptOEl1NkcwWEU4RXpETzdJMVZKVmwyN1VjbHU0bk1FV1pUWFRNQmlFSWlKbFk3U1hDT0NKMTZSYUNoZGZWT0UyMDlLY2ZNckZYZTJxLS1fdXA0X19XenUwbGJ6a3diMGUxdkZFN29VTVhISFlEU2tj0gHQAUFVX3lxTE5IRldXVEFrWk9pbHRObnktWkRzM0tYaFR0enJrTERyTE1yQUM3c3hMVzh4UDlBNmtsU2VjWEV0Z0VLNHRnRkNtMldNTVBDVU9jY1NyTDF5UWctNHptSTFUTkV4NVB1bkdueXhrNkRXLVBBRkNvTjhZNWpWc21xcEZFQkhiTmgzV2lSU2txZXN0RldJYi1SWVlMNlpveWdoWjhBLUFINmNZMlVBMkw3bjZ6eloxUjdKZFdxRTZacG5tS1BBeXE4cXhqVm5JZlpSRXI?oc=5)
 

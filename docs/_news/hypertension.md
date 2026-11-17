@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about ipertensione (hypertension). 49 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # ipertensione (hypertension) News
@@ -33,6 +33,8 @@ This page brings together the latest health news about “ipertensione” and li
 <li><a href="{{ '/drugs/apixaban/' | relative_url }}">Apixaban</a></li>
 <li><a href="{{ '/drugs/apremilast/' | relative_url }}">Apremilast</a></li>
 <li><a href="{{ '/drugs/aprepitant/' | relative_url }}">Aprepitant</a></li>
+<li><a href="{{ '/drugs/cinacalcet/' | relative_url }}">Cinacalcet Hydrochloride</a></li>
+<li><a href="{{ '/drugs/dacomitinib/' | relative_url }}">Dacomitinib Monohydrate</a></li>
 <li><a href="{{ '/drugs/deferiprone/' | relative_url }}">Deferiprone</a></li>
 <li><a href="{{ '/drugs/dexmedetomidine/' | relative_url }}">Dexmedetomidine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/entrectinib/' | relative_url }}">Entrectinib</a></li>

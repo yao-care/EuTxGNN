@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Entacapone. 10 predicted indications."
 permalink: /news/entacapone/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Entacapone News
@@ -44,6 +44,14 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 
 ## Related News (52)
 
+### [Pourquoi La maladie de Parkinson touche plus certains départements](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOV21DYkR3Z01CN1FPQVRQRHpMODc3M25iRFFBRFE2YkxkMWxkV0FFbGV1Q2hjeWhGblBlYUVZQ3FGTFVsVzV5aDAzNEtJWmNDTmgwY3NESGlaSDZGN1doOERkcXJaMERVNF81dk9nYUlGV1BVeENJVjJtVmRYb1ZXWW50MEpCWGFoanZGT25vUFNJTi1ieHlpNTZHVGc2bTQyRTJXTWVGUzQ3QjBCWU5ZaGV1Uk81WU1oUW5sU2tLNTkxVGNrZjQ2alBYbHk3djIwdlZabVUwdHdGbUZfeDVXdzBDeTVNdDc2NEoxcEw2QjJDeVNxdkREdkkzTFhlQQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">maladie de Parkinson</span>
+
+Source: [franceinfo](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOV21DYkR3Z01CN1FPQVRQRHpMODc3M25iRFFBRFE2YkxkMWxkV0FFbGV1Q2hjeWhGblBlYUVZQ3FGTFVsVzV5aDAzNEtJWmNDTmgwY3NESGlaSDZGN1doOERkcXJaMERVNF81dk9nYUlGV1BVeENJVjJtVmRYb1ZXWW50MEpCWGFoanZGT25vUFNJTi1ieHlpNTZHVGc2bTQyRTJXTWVGUzQ3QjBCWU5ZaGV1Uk81WU1oUW5sU2tLNTkxVGNrZjQ2alBYbHk3djIwdlZabVUwdHdGbUZfeDVXdzBDeTVNdDc2NEoxcEw2QjJDeVNxdkREdkkzTFhlQQ?oc=5)
+
+---
+
 ### [The two-minute habits that prevent dementia - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPekY0d0VjTGZucWhwZ2ZMVE5ybDdueDJ5TF9ZOUp4RHZ4enI2emNNek1IcmdzZXFUX29DZ0JTWDI1SmFxejg5cGxjemtoV2NvU2pkU1N6ajRfX2M4RlBQMlh1ZjhocWgtVHZiQXdNTW1TYmdQYktXUGFWdnAtcXV0bHFRWE9NMDVtUEQycURDYlNwZzlmclEtX2h1XzU0WnpiSWhPdzZR?oc=5)
 
 2026-11-16 <span class="news-indication-tag">dementia</span>
@@ -57,14 +65,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPekY
 2026-11-15 <span class="news-indication-tag">maladie de Parkinson</span>
 
 Source: [Franceinfo](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTkwwbk1IUkI0ZVdqREQ0TWQtck5ETTMtYzVLX2o0RFhZYW5ROWJnNFF1Yzlab0pES1o4Q2RaS3JIb1Bwa0NkNHg0UWM2ME5ESHkzcmtJMUpNcHI5TXAwb2hLMGN3ZUpOY0hPNlB3bHotR3M0V2JkdzJzVWxkWnBkdzZKdTBKSG4yRFh2OFdCY2xDTVRDRDU3QWdqeE1DaURINFR6eW5CMEl5SnRYWHRmRWVfeVl4VS03UFVQUWszcW9JVFRCRkdUZkNNWXNSd1JKSWxyYjd5RllpWmwyV2NVMXJnMVlGdDhhMEJmTms2eXR4bk1n?oc=5)
-
----
-
-### [Témoignage. Covid long : « C’est comme si le cerveau marchait au ralenti », même cinq ans après la maladie - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZC1WWWF6d1dwZnFHakllQ3BiUE1WTE4taHpuWFJILS1RTTdBTEJPS3k3NzF3b05Qb0pNWENfZmFrbjcwaWtvLXNkZ21kSVBKRUgwaGRKNmtlVmdXRmtkeW5wT2NJNUdNSnJ2R0FkNXBjcDhkeTNjUHpnMzd3aExTb0NUMDVJNWdhU3JtT1cxVXFNZ0dIbEFzQkU2SnBRd3NGZG54SnV6M210U2lRNWpTTzVXaGRfWGZpWnhDMWRrc2VfbDYycV9nc0VVTQ?oc=5)
-
-2026-11-15 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZC1WWWF6d1dwZnFHakllQ3BiUE1WTE4taHpuWFJILS1RTTdBTEJPS3k3NzF3b05Qb0pNWENfZmFrbjcwaWtvLXNkZ21kSVBKRUgwaGRKNmtlVmdXRmtkeW5wT2NJNUdNSnJ2R0FkNXBjcDhkeTNjUHpnMzd3aExTb0NUMDVJNWdhU3JtT1cxVXFNZ0dIbEFzQkU2SnBRd3NGZG54SnV6M210U2lRNWpTTzVXaGRfWGZpWnhDMWRrc2VfbDYycV9nc0VVTQ?oc=5)
 
 ---
 

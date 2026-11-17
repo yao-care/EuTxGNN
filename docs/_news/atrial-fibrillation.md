@@ -3,9 +3,9 @@ layout: default
 title: "Vorhofflimmern (atrial fibrillation) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Vorhofflimmern (atrial fibrillation). 14 articles, 39 related drugs."
+description: "Health news about Vorhofflimmern (atrial fibrillation). 15 articles, 39 related drugs."
 permalink: /news/atrial-fibrillation/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Vorhofflimmern (atrial fibrillation) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Vorhofflimmern (atrial fibrillation)?">
-<strong>Vorhofflimmern (atrial fibrillation)</strong> currently has <strong>14 news articles</strong> and 39 related drugs.
+<strong>Vorhofflimmern (atrial fibrillation)</strong> currently has <strong>15 news articles</strong> and 39 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,15 @@ This page brings together the latest health news about “Vorhofflimmern” and 
 </ul>
 </div>
 
-## Related News (14)
+## Related News (15)
+
+### [Herzgesundheit: Wie viel Kaffee schützt vor Vorhofflimmern?](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUhTUmxQVGhkMHAxeTV1R2RwVUFjX0RUM0g5eGdtYmFoS1I1aVljempNZkxsd0RndnlsMHJ5XzBCeC1rUWJrdTZhMnRobFNFWWdVSkhLZXQwZlRBQXpJRmluMEh1UXBXNmxhWGJjWWFuNVNXWldpYkVnVXNnODh3VE54QXBVN0NCS2ZNRDJENHgyWU0?oc=5)
+
+2026-11-16
+
+Source: [WEB.DE](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUhTUmxQVGhkMHAxeTV1R2RwVUFjX0RUM0g5eGdtYmFoS1I1aVljempNZkxsd0RndnlsMHJ5XzBCeC1rUWJrdTZhMnRobFNFWWdVSkhLZXQwZlRBQXpJRmluMEh1UXBXNmxhWGJjWWFuNVNXWldpYkVnVXNnODh3VE54QXBVN0NCS2ZNRDJENHgyWU0?oc=5)
+
+---
 
 ### [Vorhofflimmern vorbeugen: Wie viel Kaffee ist für das Herz ideal?](https://news.google.com/rss/articles/CBMijwFBVV95cUxQd3NhZWF1clJhOHVORGtDNkhRNmszVE1NVkdrVEF1dm5WZTMwa0Yta3NiMTdCbVlNQTdnUkFLQWplQ2JfUnVxWHI4MGVfaWlNWjhDX3gwaXJSRDF3ZnNyUkFwakpxd3dFQkc5X3NmMHRLdU1kZ0IyZkR2SzVVRlVKeHhOU2pCbWVxNFFDbGJRSQ?oc=5)
 

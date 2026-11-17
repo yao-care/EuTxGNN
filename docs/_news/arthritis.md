@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about artritis (arthritis). 14 articles, 73 related drugs."
 permalink: /news/arthritis/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # artritis (arthritis) News
@@ -40,6 +40,7 @@ This page brings together the latest health news about “artritis” and lists 
 <li><a href="{{ '/drugs/cabazitaxel/' | relative_url }}">Cabazitaxel</a></li>
 <li><a href="{{ '/drugs/cabotegravir/' | relative_url }}">Cabotegravir</a></li>
 <li><a href="{{ '/drugs/cilastatin/' | relative_url }}">Cilastatin</a></li>
+<li><a href="{{ '/drugs/dacomitinib/' | relative_url }}">Dacomitinib Monohydrate</a></li>
 <li><a href="{{ '/drugs/daptomycin/' | relative_url }}">Daptomycin</a></li>
 <li><a href="{{ '/drugs/diflunisal/' | relative_url }}">Diflunisal</a></li>
 <li><a href="{{ '/drugs/drospirenone/' | relative_url }}">Drospirenone</a></li>
