@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Semaglutide. 0 predicted indications."
 permalink: /news/semaglutide/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Semaglutide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>59 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>60 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,23 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (59)
+## Related News (60)
+
+### [Il richiamo dell'Ordine dei farmacisti sulla prescrizione del Mounjaro: quando un farmaco diventa prodotto di consumo - Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
+
+2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
+
+---
+
+### [AVC, Addiction… : les nouveaux horizons thérapeutiques des médicaments anti-obésité - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
+
+2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
+
+---
 
 ### [Colocarán etiquetas con advertencia sobre efectos adversos en medicamentos contra la obesidad - Los Angeles Times](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUZ4YXhlYjZucjRpbHctSFdpaE5MUFVhamhoNzVranRRV25SbWFJcUVDRmY3cjNOa0NlZ09uY1U3R3RodTEwZTRVTFdDN0J0ek85dG9XZVdMdmJWZUlFSWRCVS1wbTF4TkZaXzhJRWZfN1dLa3pFS0ZTcTlzMTEyaTczck5tZlpFMmt5YmpRYnotUGtBMnlCWFctNFBKYU1zYm03X2NNbXgwczRkc29CeXJOYVg1OERwN3N6Xy1vQTRVVGNKZ3djbHBFN2xNVURTcFNUcU50dnJHVW05czNDVFhRMmk?oc=5)
 
@@ -68,14 +84,6 @@ Source: [Diario AS](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNGRaRTd
 2026-11-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 Source: [JeChange](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdy03N0dfNVFpSjhqVWFRczdZTjBaRXo2RGg1UXhIbi1sQ0V6SzFNQjk0cm9WYWhGd1JfalNYM3JMYkczdzkycE81dmdJbUJWd0tHRllrMTdWTnFaekh1S0QtSzNFVUZWcWFyYmdRYkstTTJhXzVJUDhUV1NSaFhBbXJEY2pFT1pKZGpUWHY1anVZNV9sVlVZQUtWU3hYaWs2R3RMVWhzXzFvVElDd3RTVEdIblU?oc=5)
-
----
-
-### [AVC, Addiction… : les nouveaux horizons thérapeutiques des médicaments anti-obésité - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
-
-2026-11-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
-
-Source: [Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>157 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>162 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,39 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (157)
+## Related News (162)
+
+### [¿La vacuna de la gripe puede ayudar a prevenir un infarto?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlpbjBjbFBNOEtYOFp5Q1pyT0NZQ0haLWw4X0Z2d0hmc054T3RLQzJNdEEzbkgtSk9WaTl6U0FnTXZleE12eE5walJvY05zeWNLZGF3U040S25CSUVTWDFIT09kemFFMXcyeVFTM3NVQzFkVkZYSEZrTUxiVmlvUGdDbGcyMFI3UlBfR3J3d3JlQThnek8yN0dZaG0yal9HLW9pcTE4WmZOeDk0SnZ4UXFmTVZRZDZfUElWR2ZyQ25JdS12OV93X2gwcHFVcGc?oc=5)
+
+2026-11-17 <span class="news-indication-tag">ictus</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlpbjBjbFBNOEtYOFp5Q1pyT0NZQ0haLWw4X0Z2d0hmc054T3RLQzJNdEEzbkgtSk9WaTl6U0FnTXZleE12eE5walJvY05zeWNLZGF3U040S25CSUVTWDFIT09kemFFMXcyeVFTM3NVQzFkVkZYSEZrTUxiVmlvUGdDbGcyMFI3UlBfR3J3d3JlQThnek8yN0dZaG0yal9HLW9pcTE4WmZOeDk0SnZ4UXFmTVZRZDZfUElWR2ZyQ25JdS12OV93X2gwcHFVcGc?oc=5)
+
+---
+
+### [Perché l’ictus colpisce sempre di più persone con meno di 50 anni](https://news.google.com/rss/articles/CBMigAFBVV95cUxNUThaYlZlRzB3b01nU1FLVTBnemZoVWFVdnR4UktoeC14Vl83YmtCSWxhMFNyUzFKdHcyV2dWSkhtcjhCdERPdjNIZTdUSTBvQWJyT1hiUlBpR0xmSWlqTmtvWWJqdmlKX1lVZWgtS1dYaFBWSTVOWGdNTzZtRzNMYg?oc=5)
+
+2026-11-16 <span class="news-indication-tag">ictus</span>
+
+Source: [Open](https://news.google.com/rss/articles/CBMigAFBVV95cUxNUThaYlZlRzB3b01nU1FLVTBnemZoVWFVdnR4UktoeC14Vl83YmtCSWxhMFNyUzFKdHcyV2dWSkhtcjhCdERPdjNIZTdUSTBvQWJyT1hiUlBpR0xmSWlqTmtvWWJqdmlKX1lVZWgtS1dYaFBWSTVOWGdNTzZtRzNMYg?oc=5)
+
+---
+
+### [GLP-1-Rezeptoragonist | Anstieg kardiovaskulärer Ereignisse nach Absetzen von GLP-1-Agonisten](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdldXOFhnRTVFT0RINTczLWoteDNJbHZTcFlXeFhuMTh5eEl5WWtibzN4SS10X1Z5SThUZGxwY1NBUWE5R3lOWWdpRHI3MUU1ZXRNeXhwTDl3X0NYcER3cUZYZGwzdzNvRHFZRnZtcG9mTE0tbGd6bWtVNGUxTW1oYnBqZHNzc1IxUHRiaWZFMkQtZlZhSUQxMmRTZVVlcmtOeDBkQWU4ZUFiU04tWEFtM1BzeUF0WFNSMUVadUk3YXRRMFJ5S3VFQTlqaGtwa3cwRFlnQ3RUOEVzcVRx?oc=5)
+
+2026-11-16 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdldXOFhnRTVFT0RINTczLWoteDNJbHZTcFlXeFhuMTh5eEl5WWtibzN4SS10X1Z5SThUZGxwY1NBUWE5R3lOWWdpRHI3MUU1ZXRNeXhwTDl3X0NYcER3cUZYZGwzdzNvRHFZRnZtcG9mTE0tbGd6bWtVNGUxTW1oYnBqZHNzc1IxUHRiaWZFMkQtZlZhSUQxMmRTZVVlcmtOeDBkQWU4ZUFiU04tWEFtM1BzeUF0WFNSMUVadUk3YXRRMFJ5S3VFQTlqaGtwa3cwRFlnQ3RUOEVzcVRx?oc=5)
+
+---
+
+### [I’m a doctor and I take statins. There’s just one reason I may stop - The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkpRNWJNa2tlbDZlTkROMDltTVAxbGVOc3pUUk5VRk8wMHdFMVAyYS1mY1hMd3ZIeVRWOWFuZDBEYXlkT3JTdVBCZ0dBc3NpM3pCRDJxbXRXM3RoN3hNMlI0MDJ1LVlKS0J3QmZmX0tsdGlURldObmkzS1p4LXJoTkRDaTBWRWJYVWV5UDZLRFZmaDRqc0RoOFEwR2x2akpkM2ViYQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">stroke</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkpRNWJNa2tlbDZlTkROMDltTVAxbGVOc3pUUk5VRk8wMHdFMVAyYS1mY1hMd3ZIeVRWOWFuZDBEYXlkT3JTdVBCZ0dBc3NpM3pCRDJxbXRXM3RoN3hNMlI0MDJ1LVlKS0J3QmZmX0tsdGlURldObmkzS1p4LXJoTkRDaTBWRWJYVWV5UDZLRFZmaDRqc0RoOFEwR2x2akpkM2ViYQ?oc=5)
+
+---
 
 ### [Starke Blutdrucksenkung: Vorteil beim Schlaganfall, nicht bei Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
 
@@ -51,9 +83,17 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktk
 
 ---
 
+### [AVC, Addiction… : les nouveaux horizons thérapeutiques des médicaments anti-obésité - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
+
+2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
+
+---
+
 ### [Baisse intensive de la pression artérielle : deux essais aux résultats divergents](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEdKVHgwSmFWN3Z1WDV2Y1ZFNG5jZ182djk0NTFDb2JuMUlzWkd1c1M0dWlLSjF0TzgzamRTREg2QUU2Q1ZGU2JBQzVLTXdEVXJua2lidjFFelJTc0ZGdHJjUHA0XzBQMlJDYnZOWHlpeFlOT2VhQ2tsLUlzMWZtMWhoSE1lb3hDMjVIWTBrUnREU2Z6OUphNjdFa0lLM3U5cmJHMWloWjUyX1hmSUdOQXhn?oc=5)
 
-2026-11-16 <span class="news-drug-tag">Spironolactone</span> <span class="news-indication-tag">AVC</span>
+2026-11-16 <span class="news-indication-tag">AVC</span> <span class="news-drug-tag">Spironolactone</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEdKVHgwSmFWN3Z1WDV2Y1ZFNG5jZ182djk0NTFDb2JuMUlzWkd1c1M0dWlLSjF0TzgzamRTREg2QUU2Q1ZGU2JBQzVLTXdEVXJua2lidjFFelJTc0ZGdHJjUHA0XzBQMlJDYnZOWHlpeFlOT2VhQ2tsLUlzMWZtMWhoSE1lb3hDMjVIWTBrUnREU2Z6OUphNjdFa0lLM3U5cmJHMWloWjUyX1hmSUdOQXhn?oc=5)
 
@@ -91,6 +131,14 @@ Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiyAFBVV95
 
 ---
 
+### [Exact blood pressure reading that puts you at risk of vision loss and dementia - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">dementia</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
+
+---
+
 ### [Ictus, Andrea Vianello: «Ho ritrovato le parole grazie alla riabilitazione. Che va garantita a tutti i pazienti» - Corriere della Sera](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPWlU0TFphU3RIRFNlMWswS2gzdm5aLURQUVlKdDFRZVpHOC1XNzF3Rng2Yi1ZZFNPUWh4ZDdSRHg4M180QjVkYTlOa0t1LWkxSFdRTl9mRXpKN19CUy10VHVRaUdXaUpXSXB6bDFoYmFzX2E3X25hX2dJY3FRdEtzU3J1Y0VrcHBjbzRJUjBJNmFxM0Z5WHp4T0ZvcU5xeVFjMFJFYkJvclhBRTNSN2ZxamtSVVpfdFk0SC1nVFhnNmJGU0NQYmNMbkFYbmF2aU95b1p1V2c0SUZfU0NoQU9hT0kyek95M2MyaFVhZkdOTUZoaFl3WnZJVldwbzJLY01SMF9ERnJRX3BmYVRUTi13NWxKOWJ6WEZRcmlFdU5RcWtBNENPLUswRThmVXVtM1UwV2JTaUViajZpSGPSAcACQVVfeXFMUG9OcG10dVRiSjJ5RzA2SVBYd01IYkx5UVEzcWlzTmd3ZTJTTExfR2VDR1JJVTJtc2tzdGU1ZEhmQWc1Ml9ER0JEM3JyT0ZEalo0SjdmZVJRVENuYnZ2aHdST2pjUkVPejVHQmFLT1c1UF90R0h0dHNSMnprRldLZUlPMDBieVBWMGZnOS1SbFZqcWRXR0hKdGd6ZWdvTWVsN21SdzJDZHhrUFlrWmEtZUlCUkY0LU1SbXo1SGlmZWdZaWNUNmdnNHEyWFhTTFo0N3N5a1FCcElnOUhvQlRqbWFlWU5pdmtYNEVCdEZJTGk5Q3o3TGFFcXdDLWljVmwxRUlsUDRnbkZfUUJmenpmSEtVbnRJVGttbVFlNEdTZHVWQVY2SEs4RHBLUUVKaVUwS01ydHlyU21PVGZieFRwaEU?oc=5)
 
 2026-11-14 <span class="news-indication-tag">ictus</span>
@@ -112,14 +160,6 @@ Source: [MUNDIARIO](https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0pRbk1
 2026-11-14 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxPaG1weGszY3oxYlVhbWpqYkJxOEpRai1WQXFFZDlCZC1ScC1xUGsxNUdPbURxVE1tOGZNYlgyb2YzRDMzU0tRRU1fekNBbWZNYW92S3FYeVhiNnJ6TkNqbzRTSW5IM0ZmN2wtV0hZLVB3bFdIYUU3Sl96YXp3R0hjMXE3SV95ejVtNmJFYlNLS0RSaUs3VExwTExpNjNxd0pYdVFwLTFtcXpoOUxXNjZUVkNiWXRmdFVXbVZiWlhHd3E5NFcyRnBpREMzcm5YY1ZJNklHSFZKbEFKeV9rODNhZ3ltMXZDVm5NSVdvMUw4NHpMWUNYR1haVW90UUhXN3VoUTM3cjVSd19PX3YxRTJkQzh1ZTNaQXZ2RTgzZnVHQTBMdFJYQnZDaHhxRmF4M0Q4RlYwaWVJNi1jazF2aVdlVNIBxgJBVV95cUxNV1hqSW1yYkRCZDNKY1lDZFdGZlBhc3FxRk1CYWJOdC1GZnNjUWlUWnVaMTFYdHZNbXlQdG9LX0lzemkwYV80RlQ3VzZRTk1ucjRuYlh6SUFScUJmN1k5emxXX0ZfMkpyQ1JYNVhyY0tERFdwRWVjSjdLbWJ5TFdKRDBLSVQ5NWMyUFJnSjlPaTl2SlZxdWNCZkxWcXpBYjFidnZJa1NSUmNPNjA2d1AwVzM4ellSdmRjMlV3UV8xcjF4WndxZHRVVjJBaUpXYlh0ajVxOWtrVlBlYTNSM09FaHg5dlBIYThjS201TjNHWDJueEtWcFYwSjNGdlZfRWpjMzgxZDRWQnhUMnBIXzBhT2p5cndvQm9sM2ZEY1JQdkJjZm1maFA0V2VCeVhFdGNYc1FQUDFUYzc2ZjFGUE1oV1JvMHdoZw?oc=5)
-
----
-
-### [AVC, Addiction… : les nouveaux horizons thérapeutiques des médicaments anti-obésité - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
-
-2026-11-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
-
-Source: [Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
 
 ---
 

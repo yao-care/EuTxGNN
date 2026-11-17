@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Givosiran. 9 predicted indications."
 permalink: /news/givosiran/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 ---
 
 # Givosiran News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>55 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>57 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (55)
+## Related News (57)
+
+### [Los vecinos de Alcobendas podrán realizarse pruebas de VIH y otras infecciones de transmisión sexual durante la jornada del miércoles - Madrid Norte 24 horas](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRi10VUMtLW44amQ1QmlQTnBybVhnVkRKRkxURDl6eWJpaEtjTnJDSkg5Nk5YT1FubENwVnBlWVZYQU15UXBFTHplVk9sZWt4eWVpUG9YNVpLdkdTX0J1RlY1di1Lb2FIY2JIY1hHcFRiY19JOFJQY3BWQWwtZG5QVFB1bmljWlVjb1l6S0pnVW5rck8tNGFkRmtlWnZaRVRuaV9rNGQxZExrUmc2QTcyaVF0a2ZHMXY4XzdoY2JEWVE5aWk3Xy1MbEhsUWNTTGRiWS1lUGE0bnVHYzJIWV9VSW95dlhIUVhUdVpKX1EySUZlSjJpbW1xaWE5czd0T0xoMkdkZWh30gGLAkFVX3lxTE9EdEl2MHJxdy16YzJIZTU2bmhYOHREbk13R2o3VTlEMzBXenBqdExiTHR5czBpRW9CcnQ4S05ITXFUMUc2c3JDaFNWekdPREgzNUtickQ5WnlKU2M0QnV0SmU0cFFkVkNWbGpBcy1TZ2hJYS1PV0tULUYydGlpcnp4MGdMVVNSUFFjXzg5R1E5M0kyV2szaGNqWnRrVUg5SlQyb1ZrUlk3ejBkWWpNTy1mYUU5dEo0MHB1cnBRNHZRNWJTNFBwVFg2a1BJejNMS2VtaGQ2NDQ4MTdnLS1iQlVLY3hhamRIXzJ4Y0Nzb25nRkxFRkpUVFFhQ0dpcVhhS0Z4bjJFNHNrTTNESQ?oc=5)
+
+2026-11-17 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Madrid Norte 24 horas](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRi10VUMtLW44amQ1QmlQTnBybVhnVkRKRkxURDl6eWJpaEtjTnJDSkg5Nk5YT1FubENwVnBlWVZYQU15UXBFTHplVk9sZWt4eWVpUG9YNVpLdkdTX0J1RlY1di1Lb2FIY2JIY1hHcFRiY19JOFJQY3BWQWwtZG5QVFB1bmljWlVjb1l6S0pnVW5rck8tNGFkRmtlWnZaRVRuaV9rNGQxZExrUmc2QTcyaVF0a2ZHMXY4XzdoY2JEWVE5aWk3Xy1MbEhsUWNTTGRiWS1lUGE0bnVHYzJIWV9VSW95dlhIUVhUdVpKX1EySUZlSjJpbW1xaWE5czd0T0xoMkdkZWh30gGLAkFVX3lxTE9EdEl2MHJxdy16YzJIZTU2bmhYOHREbk13R2o3VTlEMzBXenBqdExiTHR5czBpRW9CcnQ4S05ITXFUMUc2c3JDaFNWekdPREgzNUtickQ5WnlKU2M0QnV0SmU0cFFkVkNWbGpBcy1TZ2hJYS1PV0tULUYydGlpcnp4MGdMVVNSUFFjXzg5R1E5M0kyV2szaGNqWnRrVUg5SlQyb1ZrUlk3ejBkWWpNTy1mYUU5dEo0MHB1cnBRNHZRNWJTNFBwVFg2a1BJejNMS2VtaGQ2NDQ4MTdnLS1iQlVLY3hhamRIXzJ4Y0Nzb25nRkxFRkpUVFFhQ0dpcVhhS0Z4bjJFNHNrTTNESQ?oc=5)
+
+---
+
+### [Exact blood pressure reading that puts you at risk of vision loss and dementia - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">dementia</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
+
+---
 
 ### [Pressione alta: si controlla poco. Farlo, eviterebbe infarti e ictus, ma anche danni ai reni e disfunzione erettile - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxPaG1weGszY3oxYlVhbWpqYkJxOEpRai1WQXFFZDlCZC1ScC1xUGsxNUdPbURxVE1tOGZNYlgyb2YzRDMzU0tRRU1fekNBbWZNYW92S3FYeVhiNnJ6TkNqbzRTSW5IM0ZmN2wtV0hZLVB3bFdIYUU3Sl96YXp3R0hjMXE3SV95ejVtNmJFYlNLS0RSaUs3VExwTExpNjNxd0pYdVFwLTFtcXpoOUxXNjZUVkNiWXRmdFVXbVZiWlhHd3E5NFcyRnBpREMzcm5YY1ZJNklHSFZKbEFKeV9rODNhZ3ltMXZDVm5NSVdvMUw4NHpMWUNYR1haVW90UUhXN3VoUTM3cjVSd19PX3YxRTJkQzh1ZTNaQXZ2RTgzZnVHQTBMdFJYQnZDaHhxRmF4M0Q4RlYwaWVJNi1jazF2aVdlVNIBxgJBVV95cUxNV1hqSW1yYkRCZDNKY1lDZFdGZlBhc3FxRk1CYWJOdC1GZnNjUWlUWnVaMTFYdHZNbXlQdG9LX0lzemkwYV80RlQ3VzZRTk1ucjRuYlh6SUFScUJmN1k5emxXX0ZfMkpyQ1JYNVhyY0tERFdwRWVjSjdLbWJ5TFdKRDBLSVQ5NWMyUFJnSjlPaTl2SlZxdWNCZkxWcXpBYjFidnZJa1NSUmNPNjA2d1AwVzM4ellSdmRjMlV3UV8xcjF4WndxZHRVVjJBaUpXYlh0ajVxOWtrVlBlYTNSM09FaHg5dlBIYThjS201TjNHWDJueEtWcFYwSjNGdlZfRWpjMzgxZDRWQnhUMnBIXzBhT2p5cndvQm9sM2ZEY1JQdkJjZm1maFA0V2VCeVhFdGNYc1FQUDFUYzc2ZjFGUE1oV1JvMHdoZw?oc=5)
 

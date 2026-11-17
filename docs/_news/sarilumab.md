@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Sarilumab. 0 predicted indications."
 permalink: /news/sarilumab/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 ---
 
 # Sarilumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>34 news articles</strong>, with 0 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>35 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (34)
+## Related News (35)
+
+### [Morbus Crohn: Ernährung zur Remissionsinduktion - Medical Tribune](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ015UXZUUnVWaUR1bEMyN0wwLUp4N0pXUTJrNm5GaVRLT1FsYnNiZ2lYT3NqWmlvbkh0UTJ3WHh3a3VJeGxJVVdrN3ZHRm5fWTFMSnRiUFNZdDNjQW5heTFHLU1qeXRNOXlIT3RRTDRkTWNnRk9UdkRieVVNUmJ6LV9aUTZHdFg4VDFnSFR4NGVOWGxlYm9IMFVrTTViTGo5YmxmTGw1ZXhJQ1E?oc=5)
+
+2026-11-17 <span class="news-indication-tag">Morbus Crohn</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ015UXZUUnVWaUR1bEMyN0wwLUp4N0pXUTJrNm5GaVRLT1FsYnNiZ2lYT3NqWmlvbkh0UTJ3WHh3a3VJeGxJVVdrN3ZHRm5fWTFMSnRiUFNZdDNjQW5heTFHLU1qeXRNOXlIT3RRTDRkTWNnRk9UdkRieVVNUmJ6LV9aUTZHdFg4VDFnSFR4NGVOWGxlYm9IMFVrTTViTGo5YmxmTGw1ZXhJQ1E?oc=5)
+
+---
 
 ### [Les moisissures dans l’air intérieur des logements favorisent l’asthme. Pourtant, ce risque est évitable - Orange Actualités](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZFR1UDJ6NTR6eTU3X2hGQTN4cUxrZ2ZFeFJtZmpreXhwdFdqRURGb1lZTXg3TkJETlBvOWJoUDJndnFSc3dFTmZTaFdvX3FCcV9ZRHh3cTBNcmo0aWRicW5NclFoUVVlS0pFSnZuWTFhaUZEX2NnT3RZQU81R3YwcG4tcVRGLTVBeXZRMVdCaGNiaDJQSVhncC1zOG1RQm5SMzQzdFhEa0JwRGVkWkR3VFZka3oxMUw4UWwtMFB2RDlUSTZZZWdpR0MzRnZZcEl4SndVdGYzS0w1WXNTSklUZ2lsZTJuaVFPV3FUTkxSTGZpVC1mSkNWZEp5Y193Zw?oc=5)
 

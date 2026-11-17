@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Rotigotine. 10 predicted indications."
 permalink: /news/rotigotine/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-17
 ---
 
 # Rotigotine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Rotigotine?">
-<strong>Rotigotine</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
+<strong>Rotigotine</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Rotigotine with the latest h
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (13)
+
+### [Cholesterol, inflammation shifts tied to disability in progressive MS - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVzRfNS12eTdUYnRTd3JrS0R4V1RtWUpGQ0t5ZERSeWotN3ZNU0FMS0FnUDJVd2JtVVMxSS1OeUpmSFFEb3c5ZjVjNkFYNlZtd0QtSFNWMGp4UUJuc0pyd3VCOC1KXzFiX3ZCMmFneWlxS3pwYThkZmJ6VDlmWGNiSWJxemhqWXlXNGUtU3pobmxuSzF0UzRaTjFPOEZGSUhRSzBBVGxzbllEdUZSU2F0eV9jdmFDZFdOVjhDbG41aUJWQQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVzRfNS12eTdUYnRTd3JrS0R4V1RtWUpGQ0t5ZERSeWotN3ZNU0FMS0FnUDJVd2JtVVMxSS1OeUpmSFFEb3c5ZjVjNkFYNlZtd0QtSFNWMGp4UUJuc0pyd3VCOC1KXzFiX3ZCMmFneWlxS3pwYThkZmJ6VDlmWGNiSWJxemhqWXlXNGUtU3pobmxuSzF0UzRaTjFPOEZGSUhRSzBBVGxzbllEdUZSU2F0eV9jdmFDZFdOVjhDbG41aUJWQQ?oc=5)
+
+---
 
 ### [Il neurologo Martino: «La sclerosi multipla si può tenere a lungo sotto controllo» - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNV19nZ0c2SWpRZTJBN1VPa2Nud1lhNFRZeFJMU0ZWWHBIcGpkeG5ZZlVDSzJsMkRRT0pPRWpLdlVKXzExVm5jQ1g4bGEtVHZ3dVpzRUQ3NVh4aWFLcGQ0SXlFSl9idHdZVC1xN3gxQWVJZmUyYkhEYkRNMU9uREN4eE1uSXRGV2FoZllTdkd1d1pMd29EX2dsbVoybG5ObmljX3NGUUoyOXd4MDdWdS05enc0VG5JNnlsa0Nud09Qbm1XRnJwUXFZNF95VG1KU0RsYmp3aDBHQ0NQMGpmQndqNmZ4bWM3S0lBTFloN2RvcTdiVmY1dVVGS0VYRlNkZGsxLXVxajN1R3BTVjlpQUlIdzZMOThnalZQQUxDbE93dGxaQ0tQUWozUkU3cUFKSU8xX1cxMFowY0FoNjRScUlHedIBxgJBVV95cUxNYjBQYzBPUVRMaEpUdFUwRGxLVnV2SHRISW15RF8tOEItWVpYR0dSLXNtNDRfX3dTV05TTS1yTktObGdFQ25iQ01Dcl9ZY1Frdzc4SVp4OW1CSERoejVrNDNIWW1pY1ZJaHdueWhjdGxwUDBUcFM0ZG9hZUNvSkE1b3doaGdIN2pNMGFFS2hKV1cyR0lIZnVpaHpXZHU5bnBKLVlpSGdURVZSR05tZkVFSzBXQTk2YUYyQmx3QWZRU1V0Tkp5ME1tRmhCLUllbzhZRmk3dThKVDl6cU1wX0ZMVWNtTGNnLXkwVWgwbngtVXZSUFNMSlRONGxGVm9jTVFYNkpwSk5zOTgwUDFPakZWcnFHdWViWVE0S2ZGYm11Q3ZUUUktUmlXZ1pSTEZKelB2T1I5c29HT0wteUVIbkg3OXAwVzdKdw?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Emtricitabine. 3 predicted indications."
 permalink: /news/emtricitabine/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-17
 ---
 
 # Emtricitabine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Emtricitabine?">
-<strong>Emtricitabine</strong> currently has <strong>6 news articles</strong>, with 3 predicted indications.
+<strong>Emtricitabine</strong> currently has <strong>7 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Emtricitabine with the lates
 <p><a href="{{ '/drugs/emtricitabine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Los vecinos de Alcobendas podrán realizarse pruebas de VIH y otras infecciones de transmisión sexual durante la jornada del miércoles - Madrid Norte 24 horas](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRi10VUMtLW44amQ1QmlQTnBybVhnVkRKRkxURDl6eWJpaEtjTnJDSkg5Nk5YT1FubENwVnBlWVZYQU15UXBFTHplVk9sZWt4eWVpUG9YNVpLdkdTX0J1RlY1di1Lb2FIY2JIY1hHcFRiY19JOFJQY3BWQWwtZG5QVFB1bmljWlVjb1l6S0pnVW5rck8tNGFkRmtlWnZaRVRuaV9rNGQxZExrUmc2QTcyaVF0a2ZHMXY4XzdoY2JEWVE5aWk3Xy1MbEhsUWNTTGRiWS1lUGE0bnVHYzJIWV9VSW95dlhIUVhUdVpKX1EySUZlSjJpbW1xaWE5czd0T0xoMkdkZWh30gGLAkFVX3lxTE9EdEl2MHJxdy16YzJIZTU2bmhYOHREbk13R2o3VTlEMzBXenBqdExiTHR5czBpRW9CcnQ4S05ITXFUMUc2c3JDaFNWekdPREgzNUtickQ5WnlKU2M0QnV0SmU0cFFkVkNWbGpBcy1TZ2hJYS1PV0tULUYydGlpcnp4MGdMVVNSUFFjXzg5R1E5M0kyV2szaGNqWnRrVUg5SlQyb1ZrUlk3ejBkWWpNTy1mYUU5dEo0MHB1cnBRNHZRNWJTNFBwVFg2a1BJejNMS2VtaGQ2NDQ4MTdnLS1iQlVLY3hhamRIXzJ4Y0Nzb25nRkxFRkpUVFFhQ0dpcVhhS0Z4bjJFNHNrTTNESQ?oc=5)
+
+2026-11-17 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Madrid Norte 24 horas](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRi10VUMtLW44amQ1QmlQTnBybVhnVkRKRkxURDl6eWJpaEtjTnJDSkg5Nk5YT1FubENwVnBlWVZYQU15UXBFTHplVk9sZWt4eWVpUG9YNVpLdkdTX0J1RlY1di1Lb2FIY2JIY1hHcFRiY19JOFJQY3BWQWwtZG5QVFB1bmljWlVjb1l6S0pnVW5rck8tNGFkRmtlWnZaRVRuaV9rNGQxZExrUmc2QTcyaVF0a2ZHMXY4XzdoY2JEWVE5aWk3Xy1MbEhsUWNTTGRiWS1lUGE0bnVHYzJIWV9VSW95dlhIUVhUdVpKX1EySUZlSjJpbW1xaWE5czd0T0xoMkdkZWh30gGLAkFVX3lxTE9EdEl2MHJxdy16YzJIZTU2bmhYOHREbk13R2o3VTlEMzBXenBqdExiTHR5czBpRW9CcnQ4S05ITXFUMUc2c3JDaFNWekdPREgzNUtickQ5WnlKU2M0QnV0SmU0cFFkVkNWbGpBcy1TZ2hJYS1PV0tULUYydGlpcnp4MGdMVVNSUFFjXzg5R1E5M0kyV2szaGNqWnRrVUg5SlQyb1ZrUlk3ejBkWWpNTy1mYUU5dEo0MHB1cnBRNHZRNWJTNFBwVFg2a1BJejNMS2VtaGQ2NDQ4MTdnLS1iQlVLY3hhamRIXzJ4Y0Nzb25nRkxFRkpUVFFhQ0dpcVhhS0Z4bjJFNHNrTTNESQ?oc=5)
+
+---
 
 ### [Hepatitis cases at Bristol school spark vaccine rollout - Bristol Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVC11ZTlXVy01eDlZYk5uYTB1a2pHUnRnQnFnVVNjV1hpNGlwSHZMWk0xelp3cnBpYnphc0lwX2prV3JlSjNiR3YxVGVDSHlPdXNQdGtFbFlXdlZhWkxwTjZJdzZmMUJkbVB2MlpMRjhpTVloYlBZT3R2b0t1a3dteGNTdzlkaF84MERSX0F1M1BnbWxuR0tvbw?oc=5)
 

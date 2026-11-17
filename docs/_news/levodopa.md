@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>52 news articles</strong>, with 1 predicted indications.
+<strong>Levodopa</strong> currently has <strong>55 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,23 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (52)
+## Related News (55)
+
+### [The number of teeth you have could be major warning sign of dementia, warn scientists - The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTE5jdGZoQ1ZpblZTX2ZzVVVvZlBwZUVOQUg3WlBuOXI3MHIxOHJTbUhqUmZid2VsejRQVlQ3cHY3V29DcFJKMUs2NWdJR0dsZ2RVMXljNVpjdDJQb0IzRXhFcUszSEJUak5OMzhNN3pmMHN0amt1T0ptMQ?oc=5)
+
+2026-11-17 <span class="news-indication-tag">dementia</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTE5jdGZoQ1ZpblZTX2ZzVVVvZlBwZUVOQUg3WlBuOXI3MHIxOHJTbUhqUmZid2VsejRQVlQ3cHY3V29DcFJKMUs2NWdJR0dsZ2RVMXljNVpjdDJQb0IzRXhFcUszSEJUak5OMzhNN3pmMHN0amt1T0ptMQ?oc=5)
+
+---
+
+### [David Cameron: Britain must spend billions on Alzheimer’s drugs - The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdlJ1TEZtUUx5dGk3MVE1Wi1GbDNORUxuOFAwZGJITUowWGUzVTViemx1NUlaM0VoUEZ6QWN3bjIzU1NCVS1HTjcwNXJRM0I3ZW9VWUk0dksyZHZsTWlBdDg0c3VUUGRGY2VGQk9nUHhIcmZsbHZZX2FQWV9xSmUyd0dJVHZxNUZ3Wk4tODc4blozXzVJT1dJaUtOVEpEbWtSZF9aSm03U21MWUp2clE?oc=5)
+
+2026-11-16 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdlJ1TEZtUUx5dGk3MVE1Wi1GbDNORUxuOFAwZGJITUowWGUzVTViemx1NUlaM0VoUEZ6QWN3bjIzU1NCVS1HTjcwNXJRM0I3ZW9VWUk0dksyZHZsTWlBdDg0c3VUUGRGY2VGQk9nUHhIcmZsbHZZX2FQWV9xSmUyd0dJVHZxNUZ3Wk4tODc4blozXzVJT1dJaUtOVEpEbWtSZF9aSm03U21MWUp2clE?oc=5)
+
+---
 
 ### [Pourquoi La maladie de Parkinson touche plus certains départements](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOV21DYkR3Z01CN1FPQVRQRHpMODc3M25iRFFBRFE2YkxkMWxkV0FFbGV1Q2hjeWhGblBlYUVZQ3FGTFVsVzV5aDAzNEtJWmNDTmgwY3NESGlaSDZGN1doOERkcXJaMERVNF81dk9nYUlGV1BVeENJVjJtVmRYb1ZXWW50MEpCWGFoanZGT25vUFNJTi1ieHlpNTZHVGc2bTQyRTJXTWVGUzQ3QjBCWU5ZaGV1Uk81WU1oUW5sU2tLNTkxVGNrZjQ2alBYbHk3djIwdlZabVUwdHdGbUZfeDVXdzBDeTVNdDc2NEoxcEw2QjJDeVNxdkREdkkzTFhlQQ?oc=5)
 
@@ -51,6 +67,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPekY
 
 ---
 
+### [Dementia patients risk missing out on timely diagnosis and breakthrough drugs due to critical shortage of brain scanners - Daily Mail](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQk0xQTN0ZHZNTks1TXBJN3JuU2syaXRZNFRWT2ZpNkVZT0lJM3FtcXgwSVNRRHBxNU8zWElGN0lpeTc3Y3FnSjdjcEVPazlmVk1va1ZzRjVtMEZDTGJTb2dDRi14NTZ5Ymtwdmxjc29rVGhxV1JiMG5UdkVBSXRsVEhaMUttdzI1RWNUeDRUVdIBlAFBVV95cUxPYmUtZDh4dWtWaVBLWEVDLUNIZW1sVTZQdkdSdG56V1lXd2hUN3pzV2NMMERpVG83bGxPMVpXZDBDc1hBcHh2NXVqRkM0VDNvQU11OEFZaV9Za1YwbGw3OVprUVA3ajZIV2dBa3VzMzFZY3pranFPY1dpSWdUTGpsVkVod1hSUzNKd0pYcGhaNjM0ZGw3?oc=5)
+
+2026-11-15 <span class="news-indication-tag">dementia</span>
+
+Source: [Daily Mail](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQk0xQTN0ZHZNTks1TXBJN3JuU2syaXRZNFRWT2ZpNkVZT0lJM3FtcXgwSVNRRHBxNU8zWElGN0lpeTc3Y3FnSjdjcEVPazlmVk1va1ZzRjVtMEZDTGJTb2dDRi14NTZ5Ymtwdmxjc29rVGhxV1JiMG5UdkVBSXRsVEhaMUttdzI1RWNUeDRUVdIBlAFBVV95cUxPYmUtZDh4dWtWaVBLWEVDLUNIZW1sVTZQdkdSdG56V1lXd2hUN3pzV2NMMERpVG83bGxPMVpXZDBDc1hBcHh2NXVqRkM0VDNvQU11OEFZaV9Za1YwbGw3OVprUVA3ajZIV2dBa3VzMzFZY3pranFPY1dpSWdUTGpsVkVod1hSUzNKd0pYcGhaNjM0ZGw3?oc=5)
+
+---
+
 ### [Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTkwwbk1IUkI0ZVdqREQ0TWQtck5ETTMtYzVLX2o0RFhZYW5ROWJnNFF1Yzlab0pES1o4Q2RaS3JIb1Bwa0NkNHg0UWM2ME5ESHkzcmtJMUpNcHI5TXAwb2hLMGN3ZUpOY0hPNlB3bHotR3M0V2JkdzJzVWxkWnBkdzZKdTBKSG4yRFh2OFdCY2xDTVRDRDU3QWdqeE1DaURINFR6eW5CMEl5SnRYWHRmRWVfeVl4VS03UFVQUWszcW9JVFRCRkdUZkNNWXNSd1JKSWxyYjd5RllpWmwyV2NVMXJnMVlGdDhhMEJmTms2eXR4bk1n?oc=5)
 
 2026-11-15 <span class="news-indication-tag">maladie de Parkinson</span>
@@ -61,7 +85,7 @@ Source: [Franceinfo](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTkwwbk
 
 ### [Exact blood pressure reading that puts you at risk of vision loss and dementia - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 
-2026-11-15 <span class="news-indication-tag">dementia</span>
+2026-11-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">dementia</span>
 
 Source: [Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 

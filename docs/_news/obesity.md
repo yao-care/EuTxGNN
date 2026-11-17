@@ -3,7 +3,7 @@ layout: default
 title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 109 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 110 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-11-17
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>109 news articles</strong> and 8 related drugs.
+<strong>obesidad (obesity)</strong> currently has <strong>110 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (109)
+## Related News (110)
+
+### [Una maratón formativa actualizará a la farmacia catalana en prevención y detección de la obesidad - Redacción Médica](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaUdrMjJIYXNsTjIzU0haUmlmYVpiSHhrWURhMDYwMzkzb0E5Y0ZTZDhmVlhfUFpqR2Q0MWJUcHpHZm9kRWtDLVVRLXc3dDR0dkxvX3l3QXdxR3IyZVlaMHpmWUN6eThnLXRnWDBqa0paMHdBSUNuQjdWY0RvUDhRNW8xMkRydWJaTnl1TGdULWU2Y1hicTZoODV5TDBVMGRDS2ZoQnFHLVh0X3dtcHotQUdLMU80NG4ybV93QXY4RGFWWVBUeDQ3QXd3T01EaWRGd2JmLVM1eW5VU2dGOEFGMlJqZFVleHZsYTRNSm1rVkNVUEtJVmpQZ1VB0gH_AUFVX3lxTE85dVlXaWZHbHg4WXZhenJhVy1aTjRnUVFQYUl4QW9XbEM4a0JLUDVXeTR6bk1YVHRERWd4eTl4NVlwa3k2cjlWSl9zTHVlXzM0cm1uVFdiODN5UWRxSkh1bWRyT3hnS3ZqaGR1VkVlRTU4SXVlcVFZaDUyUUZIbWhZYTFOVlhhZkwxbXJPdU80cFh5WElzSkxiaTJiNEFjN2YwcERqamo3dnJfek1qTkpObkNrbTVESEo5VW1sM1g2cEl6OHp6dFJwSHJGWVFocHA0T1pGRkVXeHc4VklBR1RRWkJ6c2wyZUphbDA1aVRWOXdrRUZMNDd4YnJzVDh4SQ?oc=5)
+
+2026-11-17
+
+Source: [Redacción Médica](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaUdrMjJIYXNsTjIzU0haUmlmYVpiSHhrWURhMDYwMzkzb0E5Y0ZTZDhmVlhfUFpqR2Q0MWJUcHpHZm9kRWtDLVVRLXc3dDR0dkxvX3l3QXdxR3IyZVlaMHpmWUN6eThnLXRnWDBqa0paMHdBSUNuQjdWY0RvUDhRNW8xMkRydWJaTnl1TGdULWU2Y1hicTZoODV5TDBVMGRDS2ZoQnFHLVh0X3dtcHotQUdLMU80NG4ybV93QXY4RGFWWVBUeDQ3QXd3T01EaWRGd2JmLVM1eW5VU2dGOEFGMlJqZFVleHZsYTRNSm1rVkNVUEtJVmpQZ1VB0gH_AUFVX3lxTE85dVlXaWZHbHg4WXZhenJhVy1aTjRnUVFQYUl4QW9XbEM4a0JLUDVXeTR6bk1YVHRERWd4eTl4NVlwa3k2cjlWSl9zTHVlXzM0cm1uVFdiODN5UWRxSkh1bWRyT3hnS3ZqaGR1VkVlRTU4SXVlcVFZaDUyUUZIbWhZYTFOVlhhZkwxbXJPdU80cFh5WElzSkxiaTJiNEFjN2YwcERqamo3dnJfek1qTkpObkNrbTVESEo5VW1sM1g2cEl6OHp6dFJwSHJGWVFocHA0T1pGRkVXeHc4VklBR1RRWkJ6c2wyZUphbDA1aVRWOXdrRUZMNDd4YnJzVDh4SQ?oc=5)
+
+---
 
 ### [El COFB organiza una maratón formativa para actualizar el abordaje farmacéutico de la obesidad - IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkgwV3JCODRFczZlYS00SkVwREJDdXV5LUQxeHV2cXFfakFWV3RWbjYzVFVGWl9VOWtDZHRZVFExeDFrb0dkaldieUZtdTZISWNQN201NkVjTzdhSm5UdUhaNFQ0V0ZFQkFDOWVmTXNxY3FTRG9BVDVES3A5Q19uVWsyZEF3MFNOaWZaNlFwMl8zejd1Y05Yb0NDUkxTVUNfbjBBdTBEdkp0M0NzMVlhNnMzMFllUdIBsAFBVV95cUxOamxicVBXTWJyUFZzS1dUUGNXZjBfYV92ZkRxRTNfZTdjbWRoeDJmc0hZMzJyandwTVoya2hzd1NzNUNQakctMXJKRC0tcmZTb2dNVHZpQllnTGRvVm5NS0U1d2w1ZDNrNC1zNmZ4T0VvbWpkS1c4bWM5RHZmZjlubllNQU80S29LVlRyY0hNVzc3elR1cVQwWldqalBYaE9xYlY1SklKNkVSZ0FYVWZvQw?oc=5)
 
@@ -68,6 +76,14 @@ Source: [La Nuova Sardegna](https://news.google.com/rss/articles/CBMi-gFBVV95cUx
 2026-11-16
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS2p0RW5Jb3VHUFFkanQxWmw3d1JYMk1LSWpoalZsQ2h0WWhSNlgwN0xIYldjYXZIOVJwZGVzZG9Ud0hpcDdhM0xtaEM2TnE5aHpNeWE0WU80WUxwSU9nb2RpM0d3eFhpZXRLeVNZdzZJeEZnbFQwV2daSzEwbkdnM2dnMzB1bnpONmNQekNYc0JhdzIwOVRuRnBkM2lGcTJtTWV0LXVGMkdvZ0wySXZXYm00bTVTNFhXbXFnaVNITFUydmvSAb4BQVVfeXFMTUhIMHJnZ2JqZV9FQTk2cXNkUUpqN1hnX0x6SDJFVkdQVkZMOTgxRW1WVFg3NWJtWkI1dzZ2ZElLR3dIT3Y1d3RhNC1idlRGbUxodEFGQ0pjZVB4dEE2NjlXci0zR1pWZktVZTFPZXFpOEtmOFJid3MyX3dHNlIxV2NPc19RQkJUVlRDMmRzcjRYLUZrM0Z4SlFSa01mWmJlTGZUYW0xNm9mSnE4TFZPUkNfM1ltLTBQWU5nc29sdw?oc=5)
+
+---
+
+### [AVC, Addiction… : les nouveaux horizons thérapeutiques des médicaments anti-obésité - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
+
+2026-11-16
+
+Source: [Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
 
 ---
 
@@ -108,14 +124,6 @@ Source: [https://fomoera.com/](https://news.google.com/rss/articles/CBMib0FVX3lx
 2026-11-14
 
 Source: [JeChange](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdy03N0dfNVFpSjhqVWFRczdZTjBaRXo2RGg1UXhIbi1sQ0V6SzFNQjk0cm9WYWhGd1JfalNYM3JMYkczdzkycE81dmdJbUJWd0tHRllrMTdWTnFaekh1S0QtSzNFVUZWcWFyYmdRYkstTTJhXzVJUDhUV1NSaFhBbXJEY2pFT1pKZGpUWHY1anVZNV9sVlVZQUtWU3hYaWs2R3RMVWhzXzFvVElDd3RTVEdIblU?oc=5)
-
----
-
-### [AVC, Addiction… : les nouveaux horizons thérapeutiques des médicaments anti-obésité - Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
-
-2026-11-14
-
-Source: [Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
 
 ---
 

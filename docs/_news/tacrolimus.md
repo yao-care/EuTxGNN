@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Tacrolimus?">
-<strong>Tacrolimus</strong> currently has <strong>19 news articles</strong>, with 2 predicted indications.
+<strong>Tacrolimus</strong> currently has <strong>20 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,21 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (20)
 
 ### [Neue Studie zu B 5 / Panthetine](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQk10RlIteHlYR3gwSmcycGdaQkx5T0JQMHQwVzN3ZU9GLUhFMkc2VjFkUmxsUVVfQjlzdkxzWmIzV0NWYkVwbXl0dzhVYkVpbXZNSjhSaGZtTVE0cWJibXN6Y25LRzV6QnBDRExVZG0yWWJVOUhDaGx0NEQxdVl6UkgwLWE2QQ?oc=5)
 
 2026-11-16 <span class="news-indication-tag">psoriasis</span>
 
 Source: [Psoriasis-Netz](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQk10RlIteHlYR3gwSmcycGdaQkx5T0JQMHQwVzN3ZU9GLUhFMkc2VjFkUmxsUVVfQjlzdkxzWmIzV0NWYkVwbXl0dzhVYkVpbXZNSjhSaGZtTVE0cWJibXN6Y25LRzV6QnBDRExVZG0yWWJVOUhDaGx0NEQxdVl6UkgwLWE2QQ?oc=5)
+
+---
+
+### [Hat jemand langfristige positive Erfahrungen bei Psoriasis an den Händen gemacht? Wenn ja, womit?](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQM2w4M2tZZ2RiTnlkaFRvVlRNcWx4Q3VxSjZoemJWQl9ndURGZ0oxejRVN2JsYmNLR0RpMTRBMGNTOWY5amxyNjJXUmhJM1djU3dDVC01UnZmc1RqSXhTU0NTYXVqRm54dWJMUTlqVVhQeGJvVjhPYTBjWGVTYTFHUkZyZl9Ed2QxcUpDTm9GTXFkTDdLVHFqUnotcHRpRE5KU1JlX1RTUE5iUlpSbmZjYkxaQjFZUHhFOERvcmN3cmxqZ01ybVJ4VHIxamxzNDhqTmFMU1ZFZnloaWkyUGd4bGZlUQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">psoriasis</span>
+
+Source: [Psoriasis-Netz](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQM2w4M2tZZ2RiTnlkaFRvVlRNcWx4Q3VxSjZoemJWQl9ndURGZ0oxejRVN2JsYmNLR0RpMTRBMGNTOWY5amxyNjJXUmhJM1djU3dDVC01UnZmc1RqSXhTU0NTYXVqRm54dWJMUTlqVVhQeGJvVjhPYTBjWGVTYTFHUkZyZl9Ed2QxcUpDTm9GTXFkTDdLVHFqUnotcHRpRE5KU1JlX1RTUE5iUlpSbmZjYkxaQjFZUHhFOERvcmN3cmxqZ01ybVJ4VHIxamxzNDhqTmFMU1ZFZnloaWkyUGd4bGZlUQ?oc=5)
 
 ---
 

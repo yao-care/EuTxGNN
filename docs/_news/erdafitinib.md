@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Erdafitinib?">
-<strong>Erdafitinib</strong> currently has <strong>83 news articles</strong>, with 6 predicted indications.
+<strong>Erdafitinib</strong> currently has <strong>85 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page combines the AI-predicted indications for Erdafitinib with the latest 
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (83)
+## Related News (85)
 
 ### [Qué es el erdafitinib, el medicamento viral contra el cáncer que algunos jóvenes utilizan para 'ganar altura': estos son sus riesgos - Diario de Sevilla](https://news.google.com/rss/articles/CBMizAFBVV95cUxOT040S1NHQkZQUUxZUzU3ZHEzS2dvcWVMTndOdDhQYnNqenhHcHpQUlR6Uzg1VEx2Nk1KVmFTOXdQU0hTX2szcDcyWUNIT0g0cUxNM2M3d2hncTNjZll0LVlkQ0VjWTE2U0RHS2d5X0pIRFYtT3Q2eHEzSHhWemppQ2k2LXFpQlhmc2M3d1ZGSmtWS0VBRnctZDJuQWxjYW9NUjN3RGJ6UTc2cHZFZTE2TjJkUHM3RU5IQl9SMEJOQkhxY2NvVnlNYmRfMTTSAdIBQVVfeXFMUFFfOFUzeWt3UVNGTTJndlRfWERYZTQ5TEs2SlZkSFhSd1dFdnQyN29tZzN3S0VHWTNtckQ0M1p0Q2s1ZXJxZmExZmtaWlFVa244NkdtRFNYeEpzcVFQMlJjYW1pN3JDRHEzQXJMUUs1a25hOTQxeGVZVkllMWFfWEREcW1CN1I1WjhDX2g5U2Rob2Q2LS0zSmhRQ2pTN291RmVLR2UyOUlWTVlOV0NLaG1rTHV0WDJnNTdXa0NHME9JRWV5Y3FpZ3E3MWZIV0xidDB3?oc=5)
 
@@ -53,6 +53,22 @@ Source: [Diario de Sevilla](https://news.google.com/rss/articles/CBMizAFBVV95cUx
 2026-11-16 <span class="news-drug-tag">Erdafitinib</span>
 
 Source: [National Geographic España](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUdfS2J1ZGZkempKa3NfUkEtTGEyUDlJaFRQeWNCNHk2RjQ5WlVIeDVOemd4Y0dwZzQxemVVZ0tHT0E1ejlRSTlLNjZxUml0VTJnNDg4QWdUM0lZTlVPT1lQeUZ1djMwSkYwTUxBNDNDNUFidS1aZUtaaEJmcTJnTkJSMmhXUzlHVG4tYlVzSnM2T3ZiaHd5S1doOWlObElGU0dURlYxYVFNWFJiQWJuc2pwZlhmM1ZLSEpWUW9ZU3F1QXcw?oc=5)
+
+---
+
+### [Erdafitinib, el peligroso fármaco contra el cáncer que algunos adolescentes toman para intentar ser más altos](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSU1CcWxDdnNqSkRqVERlOXBnejRXTTF3d1NtNS1oRnplbHMxek9ReWlXaTFxWTNERGdEeHVOZXM0UF81Z0FZeWlMVGVsbTZvdzA2SklqcEJBT0JLSmllellkejFQVGpsOHpVRlk1cHVFRWFZb2FtYXdBUEQwb0hCMmI3Nk9XOHU1YlllaHcySTdVTExsdF9tWnViWGtUUEJqalo0M3h5UnViNWZmUXBV0gG0AUFVX3lxTFBRQzRMcnhrb01hVmJYelg0bUIyaWhMZmxmQVdJSW01TTVLN3plX0FyNk1OLURHaEZQQk1uV2pxS2VTTHB6ejBNT2hkTWtlVXdtbzRzdTJGZVZsaERndFNNM002QmdvZDU2WldYVEN4UkpJZnpYM0I4bUtXTHFOMXhObkRMUGNCUVM5em5KSTM5Y3d2a0tQUDVtM00xVTFMTjZSazIzQjEwR2F3NGNGVVNhSGV6Ug?oc=5)
+
+2026-11-16 <span class="news-drug-tag">Erdafitinib</span>
+
+Source: [Telemadrid](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSU1CcWxDdnNqSkRqVERlOXBnejRXTTF3d1NtNS1oRnplbHMxek9ReWlXaTFxWTNERGdEeHVOZXM0UF81Z0FZeWlMVGVsbTZvdzA2SklqcEJBT0JLSmllellkejFQVGpsOHpVRlk1cHVFRWFZb2FtYXdBUEQwb0hCMmI3Nk9XOHU1YlllaHcySTdVTExsdF9tWnViWGtUUEJqalo0M3h5UnViNWZmUXBV0gG0AUFVX3lxTFBRQzRMcnhrb01hVmJYelg0bUIyaWhMZmxmQVdJSW01TTVLN3plX0FyNk1OLURHaEZQQk1uV2pxS2VTTHB6ejBNT2hkTWtlVXdtbzRzdTJGZVZsaERndFNNM002QmdvZDU2WldYVEN4UkpJZnpYM0I4bUtXTHFOMXhObkRMUGNCUVM5em5KSTM5Y3d2a0tQUDVtM00xVTFMTjZSazIzQjEwR2F3NGNGVVNhSGV6Ug?oc=5)
+
+---
+
+### [Exact blood pressure reading that puts you at risk of vision loss and dementia - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">dementia</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 
 ---
 

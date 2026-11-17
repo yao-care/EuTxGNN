@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Aprepitant?">
-<strong>Aprepitant</strong> currently has <strong>86 news articles</strong>, with 10 predicted indications.
+<strong>Aprepitant</strong> currently has <strong>87 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Aprepitant with the latest h
 <p><a href="{{ '/drugs/aprepitant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (86)
+## Related News (87)
 
 ### [Herzgesundheit: Wie viel Kaffee schützt vor Vorhofflimmern?](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUhTUmxQVGhkMHAxeTV1R2RwVUFjX0RUM0g5eGdtYmFoS1I1aVljempNZkxsd0RndnlsMHJ5XzBCeC1rUWJrdTZhMnRobFNFWWdVSkhLZXQwZlRBQXpJRmluMEh1UXBXNmxhWGJjWWFuNVNXWldpYkVnVXNnODh3VE54QXBVN0NCS2ZNRDJENHgyWU0?oc=5)
 
@@ -65,6 +65,14 @@ Source: [WEB.DE](https://news.google.com/rss/articles/CBMijwFBVV95cUxQd3NhZWF1cl
 2026-11-15 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlhJRkcyV2JhTUF2ejhzUmM5Z0pVRWNrS2VyblRyZ05RVzhvaWc5TFB0VGJYSG9DNnFMVUlFY2lxMXdfS3JjTV84NGtVV0JQd2xiWXo5Qk56SGlRQTlxRTV2ck52RVNHYXFRWV96emN2LWt0emduRE94cF8xVzF5ZjJzQ1ZMTjg4SEg3NHVjY21JVFdyVjI0WmxCSlpvMnF1MXUyeC1jTQ?oc=5)
+
+---
+
+### [Exact blood pressure reading that puts you at risk of vision loss and dementia - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">dementia</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Atropine Sulfate?">
-<strong>Atropine Sulfate</strong> currently has <strong>6 news articles</strong>, with 0 predicted indications.
+<strong>Atropine Sulfate</strong> currently has <strong>8 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,11 +29,27 @@ This page combines the AI-predicted indications for Atropine Sulfate with the la
 <p><a href="{{ '/drugs/atropine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (8)
+
+### [Gli attacchi di emicrania ricorrenti sono in qualche modo collegati ai cicli lunari? - Corriere della Sera](https://news.google.com/rss/articles/CBMikwJBVV95cUxQZlE2UFpLeVhRVy1lbERQSFpsczN6Ym9BYXF3R1hpTEN1XzFnMC1HZEY5YUdrYkhWYjJ5NkZYTnh6V0VqMWk0SW5XY1h4RmpFTVVtWmlZR2Y5a2NBMDV4VW9vTWRmTEdNZDViUzZRbVhLMmVzLVJDMnpqYnQ1aWd2dmY0LUN4bnJ4WUhZbVpMVWlvNnFENlU0ZlEzMUJaWFZxb19QQmRBTkpQY25iaFN0MUtwcmN4MVhjdWwzMVNtQ3Y2SVljNUQxRXFnNC00TldpcDJNOU1USTZmTTlMVTN5azBFaFhCVkJnTXhMU2R1Nnd0TUtHYmF2R2N3NjBVbjBVZV9nVDlCSlZYTDQ4c1FvRExBONIBmAJBVV95cUxPdktVOWVDSHkyeVVlRVAwaDZrbHp5dFNucjJHeWFyQktxWXltUTNFcDc4TWJoVU83VFM4SVZrU0hMSFoxby02NTFNZ2MtXzItZkxhWmkwNnFQWTkyUkNaUV9JSEZ2V3FnTHNvQkFqVFBwUjE1TjlCVHlEQUd4bXZEX3FnSHI4MzM1UHFjZE9mbmVmZ3JKejRaVjh1MG91Vk44ZXZZMzVzRUlabUpFWHo5aDcta2pzVjhFdTFDZlhMVVZzbXhuc19sZTNybFQtektFb2czS3FxV1ZZWVc2N2VWNGFOY0dqRVJ0WWlERmhGR200RjFTY1NtUVd1VWs0OXVwa0pGSDQ4WVVXbWY3eGJjQVRSamh6ZFVh?oc=5)
+
+2026-11-17 <span class="news-indication-tag">emicrania</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMikwJBVV95cUxQZlE2UFpLeVhRVy1lbERQSFpsczN6Ym9BYXF3R1hpTEN1XzFnMC1HZEY5YUdrYkhWYjJ5NkZYTnh6V0VqMWk0SW5XY1h4RmpFTVVtWmlZR2Y5a2NBMDV4VW9vTWRmTEdNZDViUzZRbVhLMmVzLVJDMnpqYnQ1aWd2dmY0LUN4bnJ4WUhZbVpMVWlvNnFENlU0ZlEzMUJaWFZxb19QQmRBTkpQY25iaFN0MUtwcmN4MVhjdWwzMVNtQ3Y2SVljNUQxRXFnNC00TldpcDJNOU1USTZmTTlMVTN5azBFaFhCVkJnTXhMU2R1Nnd0TUtHYmF2R2N3NjBVbjBVZV9nVDlCSlZYTDQ4c1FvRExBONIBmAJBVV95cUxPdktVOWVDSHkyeVVlRVAwaDZrbHp5dFNucjJHeWFyQktxWXltUTNFcDc4TWJoVU83VFM4SVZrU0hMSFoxby02NTFNZ2MtXzItZkxhWmkwNnFQWTkyUkNaUV9JSEZ2V3FnTHNvQkFqVFBwUjE1TjlCVHlEQUd4bXZEX3FnSHI4MzM1UHFjZE9mbmVmZ3JKejRaVjh1MG91Vk44ZXZZMzVzRUlabUpFWHo5aDcta2pzVjhFdTFDZlhMVVZzbXhuc19sZTNybFQtektFb2czS3FxV1ZZWVc2N2VWNGFOY0dqRVJ0WWlERmhGR200RjFTY1NtUVd1VWs0OXVwa0pGSDQ4WVVXbWY3eGJjQVRSamh6ZFVh?oc=5)
+
+---
+
+### [Dieta chetogenica. Tolgo il pane, ma cosa metto nel piatto?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2swSlMtQm1vUXVENm43WElZQ0otUUZiR05RVmI1eEtVOXFqWWNoU1NZR1A3cHBiVzJ6aV82cWg1ZXpUUVYyc2E4TE5LeXB4TVR3TEl3WGVvNWVzTkowRzlHdVlmbHEwZ2FQMHdEWG9aRGdfMW9OLV9MUVZLSWNXSFlKOC1xc3lXdmN5ZGx3UDh1TXBBRVRHQktoelVDR0RhSU5kQ0hOcHJodmM?oc=5)
+
+2026-11-15 <span class="news-indication-tag">emicrania</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2swSlMtQm1vUXVENm43WElZQ0otUUZiR05RVmI1eEtVOXFqWWNoU1NZR1A3cHBiVzJ6aV82cWg1ZXpUUVYyc2E4TE5LeXB4TVR3TEl3WGVvNWVzTkowRzlHdVlmbHEwZ2FQMHdEWG9aRGdfMW9OLV9MUVZLSWNXSFlKOC1xc3lXdmN5ZGx3UDh1TXBBRVRHQktoelVDR0RhSU5kQ0hOcHJodmM?oc=5)
+
+---
 
 ### [Cuándo debemos consultar al neurólogo por un dolor de cabeza frecuente - 65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkFzbUx2VWdJSjhpRlFwTDEwQVR5LVg5eG92TTYxcXNKU1A1bUxaYUZiVUNxRGJrSVc0LW90cFVHcWNUOHlNcXNldjFrMTRZMHB6d2kxenpFZ3ZGa3UwejVCemU4bTZkYThCN1NPRV9JUUNqQUZEM2c5NnJ0ZzBNZU55X1pSWHo5TmNuSHBvYXRCV004RTBhdHlybEdHc3M1ZlNLRnVqWkE?oc=5)
 
-2026-11-15 <span class="news-indication-tag">migraña</span> <span class="news-drug-tag">Amlodipine</span>
+2026-11-15 <span class="news-indication-tag">migraña</span>
 
 Source: [65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkFzbUx2VWdJSjhpRlFwTDEwQVR5LVg5eG92TTYxcXNKU1A1bUxaYUZiVUNxRGJrSVc0LW90cFVHcWNUOHlNcXNldjFrMTRZMHB6d2kxenpFZ3ZGa3UwejVCemU4bTZkYThCN1NPRV9JUUNqQUZEM2c5NnJ0ZzBNZU55X1pSWHo5TmNuSHBvYXRCV004RTBhdHlybEdHc3M1ZlNLRnVqWkE?oc=5)
 

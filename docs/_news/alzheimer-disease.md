@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 42 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 45 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 last_modified_at: 2026-11-17
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>42 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>45 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,37 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (42)
+## Related News (45)
+
+### [The number of teeth you have could be major warning sign of dementia, warn scientists - The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTE5jdGZoQ1ZpblZTX2ZzVVVvZlBwZUVOQUg3WlBuOXI3MHIxOHJTbUhqUmZid2VsejRQVlQ3cHY3V29DcFJKMUs2NWdJR0dsZ2RVMXljNVpjdDJQb0IzRXhFcUszSEJUak5OMzhNN3pmMHN0amt1T0ptMQ?oc=5)
+
+2026-11-17
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTE5jdGZoQ1ZpblZTX2ZzVVVvZlBwZUVOQUg3WlBuOXI3MHIxOHJTbUhqUmZid2VsejRQVlQ3cHY3V29DcFJKMUs2NWdJR0dsZ2RVMXljNVpjdDJQb0IzRXhFcUszSEJUak5OMzhNN3pmMHN0amt1T0ptMQ?oc=5)
+
+---
+
+### [David Cameron: Britain must spend billions on Alzheimer’s drugs - The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdlJ1TEZtUUx5dGk3MVE1Wi1GbDNORUxuOFAwZGJITUowWGUzVTViemx1NUlaM0VoUEZ6QWN3bjIzU1NCVS1HTjcwNXJRM0I3ZW9VWUk0dksyZHZsTWlBdDg0c3VUUGRGY2VGQk9nUHhIcmZsbHZZX2FQWV9xSmUyd0dJVHZxNUZ3Wk4tODc4blozXzVJT1dJaUtOVEpEbWtSZF9aSm03U21MWUp2clE?oc=5)
+
+2026-11-16
+
+Source: [The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdlJ1TEZtUUx5dGk3MVE1Wi1GbDNORUxuOFAwZGJITUowWGUzVTViemx1NUlaM0VoUEZ6QWN3bjIzU1NCVS1HTjcwNXJRM0I3ZW9VWUk0dksyZHZsTWlBdDg0c3VUUGRGY2VGQk9nUHhIcmZsbHZZX2FQWV9xSmUyd0dJVHZxNUZ3Wk4tODc4blozXzVJT1dJaUtOVEpEbWtSZF9aSm03U21MWUp2clE?oc=5)
+
+---
 
 ### [The two-minute habits that prevent dementia - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPekY0d0VjTGZucWhwZ2ZMVE5ybDdueDJ5TF9ZOUp4RHZ4enI2emNNek1IcmdzZXFUX29DZ0JTWDI1SmFxejg5cGxjemtoV2NvU2pkU1N6ajRfX2M4RlBQMlh1ZjhocWgtVHZiQXdNTW1TYmdQYktXUGFWdnAtcXV0bHFRWE9NMDVtUEQycURDYlNwZzlmclEtX2h1XzU0WnpiSWhPdzZR?oc=5)
 
 2026-11-16
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPekY0d0VjTGZucWhwZ2ZMVE5ybDdueDJ5TF9ZOUp4RHZ4enI2emNNek1IcmdzZXFUX29DZ0JTWDI1SmFxejg5cGxjemtoV2NvU2pkU1N6ajRfX2M4RlBQMlh1ZjhocWgtVHZiQXdNTW1TYmdQYktXUGFWdnAtcXV0bHFRWE9NMDVtUEQycURDYlNwZzlmclEtX2h1XzU0WnpiSWhPdzZR?oc=5)
+
+---
+
+### [Dementia patients risk missing out on timely diagnosis and breakthrough drugs due to critical shortage of brain scanners - Daily Mail](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQk0xQTN0ZHZNTks1TXBJN3JuU2syaXRZNFRWT2ZpNkVZT0lJM3FtcXgwSVNRRHBxNU8zWElGN0lpeTc3Y3FnSjdjcEVPazlmVk1va1ZzRjVtMEZDTGJTb2dDRi14NTZ5Ymtwdmxjc29rVGhxV1JiMG5UdkVBSXRsVEhaMUttdzI1RWNUeDRUVdIBlAFBVV95cUxPYmUtZDh4dWtWaVBLWEVDLUNIZW1sVTZQdkdSdG56V1lXd2hUN3pzV2NMMERpVG83bGxPMVpXZDBDc1hBcHh2NXVqRkM0VDNvQU11OEFZaV9Za1YwbGw3OVprUVA3ajZIV2dBa3VzMzFZY3pranFPY1dpSWdUTGpsVkVod1hSUzNKd0pYcGhaNjM0ZGw3?oc=5)
+
+2026-11-15
+
+Source: [Daily Mail](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQk0xQTN0ZHZNTks1TXBJN3JuU2syaXRZNFRWT2ZpNkVZT0lJM3FtcXgwSVNRRHBxNU8zWElGN0lpeTc3Y3FnSjdjcEVPazlmVk1va1ZzRjVtMEZDTGJTb2dDRi14NTZ5Ymtwdmxjc29rVGhxV1JiMG5UdkVBSXRsVEhaMUttdzI1RWNUeDRUVdIBlAFBVV95cUxPYmUtZDh4dWtWaVBLWEVDLUNIZW1sVTZQdkdSdG56V1lXd2hUN3pzV2NMMERpVG83bGxPMVpXZDBDc1hBcHh2NXVqRkM0VDNvQU11OEFZaV9Za1YwbGw3OVprUVA3ajZIV2dBa3VzMzFZY3pranFPY1dpSWdUTGpsVkVod1hSUzNKd0pYcGhaNjM0ZGw3?oc=5)
 
 ---
 

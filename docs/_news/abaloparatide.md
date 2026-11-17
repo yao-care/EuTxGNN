@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>243 news articles</strong>, with 4 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>253 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,55 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (243)
+## Related News (253)
+
+### [Novo lleva la concienciación sobre la diabetes tipo 2 a las calles de Madrid con una campaña experiencial](https://news.google.com/rss/articles/CBMiowFBVV95cUxQT21hQkFlVjE3Z1ZQMml4TlY4VmpQelpyLXplS2JhMDliSGpVQWhST3QyeVZhaHJMWWEwTUxlUDNLWm96QzhscFRRSGNyYjFBYzV2V2lHMy1SaU1NYzNSelNDYV9Lai1WVTdLaHB1dlI0a3k1R29HaGpQdTZIeEpWQkk4aTZOeXhRUFRUWEtlTmdzR09BLWJYV0dhRWFsRnZPdVpz?oc=5)
+
+2026-11-17 <span class="news-indication-tag">diabetes</span>
+
+Source: [elpublicista.es](https://news.google.com/rss/articles/CBMiowFBVV95cUxQT21hQkFlVjE3Z1ZQMml4TlY4VmpQelpyLXplS2JhMDliSGpVQWhST3QyeVZhaHJMWWEwTUxlUDNLWm96QzhscFRRSGNyYjFBYzV2V2lHMy1SaU1NYzNSelNDYV9Lai1WVTdLaHB1dlI0a3k1R29HaGpQdTZIeEpWQkk4aTZOeXhRUFRUWEtlTmdzR09BLWJYV0dhRWFsRnZPdVpz?oc=5)
+
+---
+
+### [Dos limpiezas anuales e irrigadores: las claves de salud dental para las personas con diabetes](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMW1PMVNwQ1pYVncxSmVuYU5GZmtUa1FZUU9NbmJiaWlLSGV6V2EwRmFrNXNuUXM4MWlhUGQ3SUg0dzQ2a3NNMTg3cXhIX0FJTGtOdTNraDJKMnM2U0xyNGloYTVfZUl2NzdxZjFSallta3B1YnZ4Q0VVSFFkY1haTVotV0lfTGlKS0RoN3Q5dFE3ODhJVk91QVgxd181S3pZSWJJcmR5ZE9JYlE0dGc0b2IyYUNLa1pSVHE3Z3JRX0R3SjhDM0lWLWVobjB2by1Bd1JqenpkRkh0LUEzRS1nOVBBMlM1Ulp2MGhhNU1uMS1NTk1SNWJzclBvc1BBdWUtMExnWHRUczYxQkHSAZACQVVfeXFMUGdtY1JKS3p5SW8zYi1lVEwyMjczNjRTMkM2TWRLekZuM0prT1V4Vl8zSHItYi1JSzh6TU5YdGc1ai1DS3VKQlB6eFk5QURIR2RsbEMtWXlsb0s5T3ExNW9COTh4bUJpM2ljdDhMTVRhalRFWXplYUh1RUdWVzFRNFFMaHRBUnNtNzNqam1XZVd1RGJ0cDdXZGl0MnpBemFIeTEtaXNhMHZRazhWejB1TzBRcUFjaGtIT09ualhRMmJBbDVWcG9JdnJrSTlNMlFRbkttbUdDcFU4Z3h6VUl6bmhvS3llN2J0RUthY2pqelRaVk44LVB4ZHZtWGFEUFdfR0FlU2N2cElxTjA1elJyVWE?oc=5)
+
+2026-11-17 <span class="news-indication-tag">diabetes</span>
+
+Source: [COPE](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMW1PMVNwQ1pYVncxSmVuYU5GZmtUa1FZUU9NbmJiaWlLSGV6V2EwRmFrNXNuUXM4MWlhUGQ3SUg0dzQ2a3NNMTg3cXhIX0FJTGtOdTNraDJKMnM2U0xyNGloYTVfZUl2NzdxZjFSallta3B1YnZ4Q0VVSFFkY1haTVotV0lfTGlKS0RoN3Q5dFE3ODhJVk91QVgxd181S3pZSWJJcmR5ZE9JYlE0dGc0b2IyYUNLa1pSVHE3Z3JRX0R3SjhDM0lWLWVobjB2by1Bd1JqenpkRkh0LUEzRS1nOVBBMlM1Ulp2MGhhNU1uMS1NTk1SNWJzclBvc1BBdWUtMExnWHRUczYxQkHSAZACQVVfeXFMUGdtY1JKS3p5SW8zYi1lVEwyMjczNjRTMkM2TWRLekZuM0prT1V4Vl8zSHItYi1JSzh6TU5YdGc1ai1DS3VKQlB6eFk5QURIR2RsbEMtWXlsb0s5T3ExNW9COTh4bUJpM2ljdDhMTVRhalRFWXplYUh1RUdWVzFRNFFMaHRBUnNtNzNqam1XZVd1RGJ0cDdXZGl0MnpBemFIeTEtaXNhMHZRazhWejB1TzBRcUFjaGtIT09ualhRMmJBbDVWcG9JdnJrSTlNMlFRbkttbUdDcFU4Z3h6VUl6bmhvS3llN2J0RUthY2pqelRaVk44LVB4ZHZtWGFEUFdfR0FlU2N2cElxTjA1elJyVWE?oc=5)
+
+---
+
+### [Diabetes. Algo que va más allá de un índice en sangre - Fusión Asturias](https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3ppcDZfN2pyN3RNTTZXLXlsZlRmN0NpT2xmTDFoX1pneFRxcXE3REw3N2p2MUN2ZE5wcXFqMHFqT04tM1F5QkR3c2w1YWYtaHg2UzdVcDMtMHhoN1dpVUsxU1FXVnNPTmR6QzI2QmdFV18wY3lnZUNjRlRIeHJkTlNvREJmQXJqSDU4dURTSW56WjNuZ0tXOTZIdzZ0dGtwMmd4RF9VYlZWU19Ddlp5Yw?oc=5)
+
+2026-11-17 <span class="news-indication-tag">diabetes</span>
+
+Source: [Fusión Asturias](https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3ppcDZfN2pyN3RNTTZXLXlsZlRmN0NpT2xmTDFoX1pneFRxcXE3REw3N2p2MUN2ZE5wcXFqMHFqT04tM1F5QkR3c2w1YWYtaHg2UzdVcDMtMHhoN1dpVUsxU1FXVnNPTmR6QzI2QmdFV18wY3lnZUNjRlRIeHJkTlNvREJmQXJqSDU4dURTSW56WjNuZ0tXOTZIdzZ0dGtwMmd4RF9VYlZWU19Ddlp5Yw?oc=5)
+
+---
+
+### [Weltdiabetestag – Informationen zu Diabetes für alle Interessierten - Radio Gong Würzburg](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzdtd25sc0ZYVi14czJHbFlyandYaDZzUUJPYk91X09YejhqUlRfaXJPUHN3RVlydUN0eDN3X18wNV9IYzVWVjZaeGtWaDVHQUZqbm5hZXJMMHNwWUoxc1U1VUo1b3dHdGRpbjZPa2lyOHhuQjRDekJvTXhwSzlkMTE0aHdXNWZXUWJZZXFHZHpKa0JRTS1aVG5YM25XVVlBZzhmakUxS2NGM2M?oc=5)
+
+2026-11-17 <span class="news-indication-tag">diabetes</span>
+
+Source: [Radio Gong Würzburg](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzdtd25sc0ZYVi14czJHbFlyandYaDZzUUJPYk91X09YejhqUlRfaXJPUHN3RVlydUN0eDN3X18wNV9IYzVWVjZaeGtWaDVHQUZqbm5hZXJMMHNwWUoxc1U1VUo1b3dHdGRpbjZPa2lyOHhuQjRDekJvTXhwSzlkMTE0aHdXNWZXUWJZZXFHZHpKa0JRTS1aVG5YM25XVVlBZzhmakUxS2NGM2M?oc=5)
+
+---
+
+### [Gli attacchi di emicrania ricorrenti sono in qualche modo collegati ai cicli lunari? - Corriere della Sera](https://news.google.com/rss/articles/CBMikwJBVV95cUxQZlE2UFpLeVhRVy1lbERQSFpsczN6Ym9BYXF3R1hpTEN1XzFnMC1HZEY5YUdrYkhWYjJ5NkZYTnh6V0VqMWk0SW5XY1h4RmpFTVVtWmlZR2Y5a2NBMDV4VW9vTWRmTEdNZDViUzZRbVhLMmVzLVJDMnpqYnQ1aWd2dmY0LUN4bnJ4WUhZbVpMVWlvNnFENlU0ZlEzMUJaWFZxb19QQmRBTkpQY25iaFN0MUtwcmN4MVhjdWwzMVNtQ3Y2SVljNUQxRXFnNC00TldpcDJNOU1USTZmTTlMVTN5azBFaFhCVkJnTXhMU2R1Nnd0TUtHYmF2R2N3NjBVbjBVZV9nVDlCSlZYTDQ4c1FvRExBONIBmAJBVV95cUxPdktVOWVDSHkyeVVlRVAwaDZrbHp5dFNucjJHeWFyQktxWXltUTNFcDc4TWJoVU83VFM4SVZrU0hMSFoxby02NTFNZ2MtXzItZkxhWmkwNnFQWTkyUkNaUV9JSEZ2V3FnTHNvQkFqVFBwUjE1TjlCVHlEQUd4bXZEX3FnSHI4MzM1UHFjZE9mbmVmZ3JKejRaVjh1MG91Vk44ZXZZMzVzRUlabUpFWHo5aDcta2pzVjhFdTFDZlhMVVZzbXhuc19sZTNybFQtektFb2czS3FxV1ZZWVc2N2VWNGFOY0dqRVJ0WWlERmhGR200RjFTY1NtUVd1VWs0OXVwa0pGSDQ4WVVXbWY3eGJjQVRSamh6ZFVh?oc=5)
+
+2026-11-17 <span class="news-indication-tag">emicrania</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMikwJBVV95cUxQZlE2UFpLeVhRVy1lbERQSFpsczN6Ym9BYXF3R1hpTEN1XzFnMC1HZEY5YUdrYkhWYjJ5NkZYTnh6V0VqMWk0SW5XY1h4RmpFTVVtWmlZR2Y5a2NBMDV4VW9vTWRmTEdNZDViUzZRbVhLMmVzLVJDMnpqYnQ1aWd2dmY0LUN4bnJ4WUhZbVpMVWlvNnFENlU0ZlEzMUJaWFZxb19QQmRBTkpQY25iaFN0MUtwcmN4MVhjdWwzMVNtQ3Y2SVljNUQxRXFnNC00TldpcDJNOU1USTZmTTlMVTN5azBFaFhCVkJnTXhMU2R1Nnd0TUtHYmF2R2N3NjBVbjBVZV9nVDlCSlZYTDQ4c1FvRExBONIBmAJBVV95cUxPdktVOWVDSHkyeVVlRVAwaDZrbHp5dFNucjJHeWFyQktxWXltUTNFcDc4TWJoVU83VFM4SVZrU0hMSFoxby02NTFNZ2MtXzItZkxhWmkwNnFQWTkyUkNaUV9JSEZ2V3FnTHNvQkFqVFBwUjE1TjlCVHlEQUd4bXZEX3FnSHI4MzM1UHFjZE9mbmVmZ3JKejRaVjh1MG91Vk44ZXZZMzVzRUlabUpFWHo5aDcta2pzVjhFdTFDZlhMVVZzbXhuc19sZTNybFQtektFb2czS3FxV1ZZWVc2N2VWNGFOY0dqRVJ0WWlERmhGR200RjFTY1NtUVd1VWs0OXVwa0pGSDQ4WVVXbWY3eGJjQVRSamh6ZFVh?oc=5)
+
+---
+
+### [Zu hohe Zuckerwerte im Blut: Wie kann die Ernährung helfen? - Südtirol News](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGVqV2tndW0wODRrcmJmN3pycUZFSVk5UmNCY3VLWkZnTGUxaGwtUVEwQUQwMFI3Qlo0VDVza2ZqcWN1RWRDMjY0Z3N3amhLTVFySDZrR2psUnV0bTJOQ19KOHM5ZmJ3OVNsUmxPYWdzRlh6Q2hNaWJNOFYtUTBGTGUyQ0VJNEctTV9jNlhiX2d5UTBUbDhOZWx6U3hDWmpqTGhlWTJQRzZNQ3lwN3U3ZzZIMTN6S3l6aVFVUlJpSjI?oc=5)
+
+2026-11-17 <span class="news-indication-tag">diabetes</span>
+
+Source: [Südtirol News](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGVqV2tndW0wODRrcmJmN3pycUZFSVk5UmNCY3VLWkZnTGUxaGwtUVEwQUQwMFI3Qlo0VDVza2ZqcWN1RWRDMjY0Z3N3amhLTVFySDZrR2psUnV0bTJOQ19KOHM5ZmJ3OVNsUmxPYWdzRlh6Q2hNaWJNOFYtUTBGTGUyQ0VJNEctTV9jNlhiX2d5UTBUbDhOZWx6U3hDWmpqTGhlWTJQRzZNQ3lwN3U3ZzZIMTN6S3l6aVFVUlJpSjI?oc=5)
+
+---
 
 ### [ADEC conmemora el Día Internacional de la Diabetes - Intercomarcal Televisión](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnNGRFBYZVJ3ODdaYnRBX3RmampoQjR5cmhfUXA1dUJhbGNUeVZqS0tzRDEtRTFhUjVfZ3REc1k4RE5uTHBuaVdyaWNQdWI0Rnp6OVB1RWRGc1RoWmJpRjh0VnVpMGNIOUdaelk4Ym5qZ25zQWxEWE41TWl1S3AzSEZNQVJwT2trS2RZM19Rdw?oc=5)
 
@@ -83,6 +131,14 @@ Source: [IFM Noticias](https://news.google.com/rss/articles/CBMisAFBVV95cUxNajd0
 2026-11-16 <span class="news-indication-tag">diabetes</span>
 
 Source: [TeleElx](https://news.google.com/rss/articles/CBMizwFBVV95cUxOUkJ0enRVMEJuR3hFaVJVbVdRV2NaUHF6eEpNY3dmSUgwT2p2d1N4SnFJSlRscHFEcVc3Q0Exa3ZYNHhVR0w1bXJWTXNpcFdmeW5xR01hZmJfeEllMnV0c2FuYkxzeDV6aUNNazVVOWZVYzBoalZsb1BqbHFYckRnd0lZMy1Xa0dudUlBY0NoTUY1Q3BmckFFUjJJbVdteWI1cDJENUp4eVJmSmdfS1J1c0xPaHQ3LUJmOFdIT1Z1VFQzXzZzaDVVc1hsTWxXcU0?oc=5)
+
+---
+
+### [Il richiamo dell'Ordine dei farmacisti sulla prescrizione del Mounjaro: quando un farmaco diventa prodotto di consumo - Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
+
+2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
 
 ---
 
@@ -179,6 +235,14 @@ Source: [CHIP](https://news.google.com/rss/articles/CBMigwJBVV95cUxPcTg1X1hlVzZi
 2026-11-16 <span class="news-indication-tag">diabetes</span>
 
 Source: [Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWDFHcDV1NV9VUzYxblZBdnpKOFplYVZFNmJEaGoxZlVzZUN3RTBmbnNWUmI1TjduT1BKUkRRRzlrc2NpRW14WktWZmx0el9EVGxNaXc3aXVDZklDcGJXUXpaU1ZDVUxpODJ1ZDBuRWdsVzhiX095RjFKVmhOX01paHpocmMxMDlEZGJMWmtNQ2xjUWRJYmtZcGlZVG54ZTNIZTJSZFNjNE5hMWplUEZaZ0xRbXVUMnpMeTF2amJSdnFkZVJFMFFpQ2tVU2ppS0F5bWVLdTA0WkRaODdRYVpnS2FybjdCd0xsb3lCRDJPQ0lEQVZ1Rm5TYzBMRdIBhgJBVV95cUxOdzQ1OENsT3NNaUZoaVBJdDFLOEpUTl9oclhLQWZlak1QWlFTamNDMGVIbEwxc2o2UWpYQU02MUJJYUh1ZkJrRHZwa0xJSUVUMVV1dVBkOHlwMkhBc2U1MHdaaUZXUnVOSlpkb0l1TXpEcWJNejZ4aHVZNHUtU1hHZ3hjdEZ4ajY5cnZKbXQweUJwYnNscWdXSW9DSFA1NFMzN1BUc21BWmhldDJFVXdpOVdwNUZuZWV2cUxRSkNFNlRXTUl5REUwaHlOTG1YeDRURUpYMVk2elY5bHhMaUYwU3V5TjZHUTdiWFpUOF9GYjVjRW9BTkswZGZyZWcyY1NueTY5RXNR?oc=5)
+
+---
+
+### [Voici ce qu'il faut éviter de faire en cas de syndrome prémenstruel, selon les chercheurs](https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmdWUURvcGdPQmxLZURZTm5pT0Nvb0hyb2k3NjdWOUh0SkU1WVBTeVEtMVhEWWhSbnVZYVVNa0F1eGdyWUlXTzd2MkNQLTkwTUVhWHB1Uk1ra3lYcEpYLWNtWUNzNVBUcGVIMWwtYWFPc0NtRmJCY3AtazFJU2VXbFB4VGoxS1pSaTlUVWcwYXFnY3N1bXpNblZR?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+
+Source: [Slate.fr](https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmdWUURvcGdPQmxLZURZTm5pT0Nvb0hyb2k3NjdWOUh0SkU1WVBTeVEtMVhEWWhSbnVZYVVNa0F1eGdyWUlXTzd2MkNQLTkwTUVhWHB1Uk1ra3lYcEpYLWNtWUNzNVBUcGVIMWwtYWFPc0NtRmJCY3AtazFJU2VXbFB4VGoxS1pSaTlUVWcwYXFnY3N1bXpNblZR?oc=5)
 
 ---
 
@@ -286,6 +350,14 @@ Source: [CNews](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGt0ODI4bUZ
 
 ---
 
+### [Dieta chetogenica. Tolgo il pane, ma cosa metto nel piatto?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2swSlMtQm1vUXVENm43WElZQ0otUUZiR05RVmI1eEtVOXFqWWNoU1NZR1A3cHBiVzJ6aV82cWg1ZXpUUVYyc2E4TE5LeXB4TVR3TEl3WGVvNWVzTkowRzlHdVlmbHEwZ2FQMHdEWG9aRGdfMW9OLV9MUVZLSWNXSFlKOC1xc3lXdmN5ZGx3UDh1TXBBRVRHQktoelVDR0RhSU5kQ0hOcHJodmM?oc=5)
+
+2026-11-15 <span class="news-indication-tag">emicrania</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2swSlMtQm1vUXVENm43WElZQ0otUUZiR05RVmI1eEtVOXFqWWNoU1NZR1A3cHBiVzJ6aV82cWg1ZXpUUVYyc2E4TE5LeXB4TVR3TEl3WGVvNWVzTkowRzlHdVlmbHEwZ2FQMHdEWG9aRGdfMW9OLV9MUVZLSWNXSFlKOC1xc3lXdmN5ZGx3UDh1TXBBRVRHQktoelVDR0RhSU5kQ0hOcHJodmM?oc=5)
+
+---
+
 ### [Doscientas farmacias del grupo iaFarma detectan a 335 pacientes con riesgo alto de padecer diabetes - El Nuevo Digital Murcia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMXFaaklSUHhKcldMaUVQU0pTMGZES1oydlZhRzg5Rjd1R21CYTNKSWFMYURZRzFJcHhVbkhXcVR3RFBuUmRiMTRZNkVZdWVjSUJSV01GZWlBNXltXzJ2Z0N5MHFoZ29SdnlDSnpUY0w4SEJ6UzZlc0JfWlpYaDdBX3Iwc05EbVdmM29HOUswM2tTcW5MNkJDYVcwVHRPbHo3YjJ6VmFaWjl5bGZLaWZqeEI1R2FlTVhsempoZURDWlQ2Q1lVNlJlQUhvZUViU3RXcm5TekxnUQ?oc=5)
 
 2026-11-15 <span class="news-indication-tag">diabetes</span>
@@ -320,7 +392,7 @@ Source: [El Bierzo Digital](https://news.google.com/rss/articles/CBMirAFBVV95cUx
 
 ### [Cuándo debemos consultar al neurólogo por un dolor de cabeza frecuente - 65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkFzbUx2VWdJSjhpRlFwTDEwQVR5LVg5eG92TTYxcXNKU1A1bUxaYUZiVUNxRGJrSVc0LW90cFVHcWNUOHlNcXNldjFrMTRZMHB6d2kxenpFZ3ZGa3UwejVCemU4bTZkYThCN1NPRV9JUUNqQUZEM2c5NnJ0ZzBNZU55X1pSWHo5TmNuSHBvYXRCV004RTBhdHlybEdHc3M1ZlNLRnVqWkE?oc=5)
 
-2026-11-15 <span class="news-indication-tag">migraña</span> <span class="news-drug-tag">Amlodipine</span>
+2026-11-15 <span class="news-indication-tag">migraña</span>
 
 Source: [65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkFzbUx2VWdJSjhpRlFwTDEwQVR5LVg5eG92TTYxcXNKU1A1bUxaYUZiVUNxRGJrSVc0LW90cFVHcWNUOHlNcXNldjFrMTRZMHB6d2kxenpFZ3ZGa3UwejVCemU4bTZkYThCN1NPRV9JUUNqQUZEM2c5NnJ0ZzBNZU55X1pSWHo5TmNuSHBvYXRCV004RTBhdHlybEdHc3M1ZlNLRnVqWkE?oc=5)
 
@@ -483,6 +555,14 @@ Source: [Infoveritas](https://news.google.com/rss/articles/CBMib0FVX3lxTFBqNGpNS
 2026-11-14 <span class="news-indication-tag">diabetes</span>
 
 Source: [H@llAnzeiger](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUDVpajZxWUFkSHlwSmRqSFJNb1NWY2ZoaFEwRzFKcEtyV1NjdFZKcHVnd2g1S3ZIMGdEeVI5NzBOem02Z29yMm5BRkRWTDJ1dWUtaEdyN2R2VjBXc2VDWHJPRmt2VER5Z2FwV0dkT1djVzV5UGYzUXhDU24tdDE1U0hXeDFmZUdNRnljX0pVTFU0UVg3Z0x1TEFLSHpVd3JwcElLTUtYM09yWEpOZERlVzRNeU81a2UyeUxPV29lUFpCMXVMeUVSQlFUck9wdVlqb2RJRkZ4enpLNnBXQ3FwUlB3?oc=5)
+
+---
+
+### [Ces 8 aliments à privilégier en cas de diabète](https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHZ2eVBYS0FubERGdGpmaDlQRHo5LTgyeGQ5TGpocG9WYmJHMUdhZGxMM25DbklIMW1uZWZreFhyVEZ2c3BoVEx2ZGtISVVvMWpxT2xhWHg2cVJackF2UHRMeWs0OVJ0eGd1enAzcFlyVWhxaUkyN3hjanZxWDFMSmUtZG9lX0o1X1BSM1E1dmxIaEY4NktGNnJ3?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabète</span>
+
+Source: [CNews](https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHZ2eVBYS0FubERGdGpmaDlQRHo5LTgyeGQ5TGpocG9WYmJHMUdhZGxMM25DbklIMW1uZWZreFhyVEZ2c3BoVEx2ZGtISVVvMWpxT2xhWHg2cVJackF2UHRMeWs0OVJ0eGd1enAzcFlyVWhxaUkyN3hjanZxWDFMSmUtZG9lX0o1X1BSM1E1dmxIaEY4NktGNnJ3?oc=5)
 
 ---
 

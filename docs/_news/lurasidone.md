@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Lurasidone?">
-<strong>Lurasidone</strong> currently has <strong>27 news articles</strong>, with 9 predicted indications.
+<strong>Lurasidone</strong> currently has <strong>28 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ This page combines the AI-predicted indications for Lurasidone with the latest h
 <p><a href="{{ '/drugs/lurasidone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (27)
+## Related News (28)
 
 ### [Herzgesundheit: Wie viel Kaffee schützt vor Vorhofflimmern?](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUhTUmxQVGhkMHAxeTV1R2RwVUFjX0RUM0g5eGdtYmFoS1I1aVljempNZkxsd0RndnlsMHJ5XzBCeC1rUWJrdTZhMnRobFNFWWdVSkhLZXQwZlRBQXpJRmluMEh1UXBXNmxhWGJjWWFuNVNXWldpYkVnVXNnODh3VE54QXBVN0NCS2ZNRDJENHgyWU0?oc=5)
 
 2026-11-16 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [WEB.DE](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUhTUmxQVGhkMHAxeTV1R2RwVUFjX0RUM0g5eGdtYmFoS1I1aVljempNZkxsd0RndnlsMHJ5XzBCeC1rUWJrdTZhMnRobFNFWWdVSkhLZXQwZlRBQXpJRmluMEh1UXBXNmxhWGJjWWFuNVNXWldpYkVnVXNnODh3VE54QXBVN0NCS2ZNRDJENHgyWU0?oc=5)
+
+---
+
+### [Cholesterol, inflammation shifts tied to disability in progressive MS - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVzRfNS12eTdUYnRTd3JrS0R4V1RtWUpGQ0t5ZERSeWotN3ZNU0FMS0FnUDJVd2JtVVMxSS1OeUpmSFFEb3c5ZjVjNkFYNlZtd0QtSFNWMGp4UUJuc0pyd3VCOC1KXzFiX3ZCMmFneWlxS3pwYThkZmJ6VDlmWGNiSWJxemhqWXlXNGUtU3pobmxuSzF0UzRaTjFPOEZGSUhRSzBBVGxzbllEdUZSU2F0eV9jdmFDZFdOVjhDbG41aUJWQQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVzRfNS12eTdUYnRTd3JrS0R4V1RtWUpGQ0t5ZERSeWotN3ZNU0FMS0FnUDJVd2JtVVMxSS1OeUpmSFFEb3c5ZjVjNkFYNlZtd0QtSFNWMGp4UUJuc0pyd3VCOC1KXzFiX3ZCMmFneWlxS3pwYThkZmJ6VDlmWGNiSWJxemhqWXlXNGUtU3pobmxuSzF0UzRaTjFPOEZGSUhRSzBBVGxzbllEdUZSU2F0eV9jdmFDZFdOVjhDbG41aUJWQQ?oc=5)
 
 ---
 
