@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Budesonide?">
-<strong>Budesonide</strong> currently has <strong>18 news articles</strong>, with 10 predicted indications.
+<strong>Budesonide</strong> currently has <strong>19 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Budesonide with the latest h
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (19)
+
+### [Fenaer reclama impulsar la espirometrías en Atención Primaria para mejorar el diagnóstico precoz de la EPOC](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWGVqVkI0cDdxNmt5VjRzYnhGZDJPb1o5STFqQXdlSGdMRFU3U2Q0dGlTRE1hZ0syOUtwdmJHSV82V2JXVko3QUJYRnUzM2I2bTNzMHNDMVU0RVFvbXZhTHpPejlsOUhaNzd2U01iOGZyamY5UGFSSDBjcmU2NWpQc2Nza0g2ZGxxWUNGaU9rWDZvRVMwZ2hNcmRWd2djLU1XcGxOTFVPanNldU43TDdxSVBVU1k4eFJDSGRxaFRJTTRrQV9ZNVlGdkxjNXZGeHMyX2E3ZUFZMjctY0hCOEFndHdaSXJvZDg?oc=5)
+
+2026-11-18 <span class="news-indication-tag">EPOC</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWGVqVkI0cDdxNmt5VjRzYnhGZDJPb1o5STFqQXdlSGdMRFU3U2Q0dGlTRE1hZ0syOUtwdmJHSV82V2JXVko3QUJYRnUzM2I2bTNzMHNDMVU0RVFvbXZhTHpPejlsOUhaNzd2U01iOGZyamY5UGFSSDBjcmU2NWpQc2Nza0g2ZGxxWUNGaU9rWDZvRVMwZ2hNcmRWd2djLU1XcGxOTFVPanNldU43TDdxSVBVU1k4eFJDSGRxaFRJTTRrQV9ZNVlGdkxjNXZGeHMyX2E3ZUFZMjctY0hCOEFndHdaSXJvZDg?oc=5)
+
+---
 
 ### [Diagnóstico tardío de la EPOC en España - Somos Pacientes](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUF9fV0VBSmUyeGxCVzhnZ3ZXLXRnam9aZXNYN1FrWDIxLUFqWEFDRTRQZ3hpNzJLV1ByRVpmWkRuM25ENm1xSGd2NTNGaUp1emJoTU51LVhrM3kwX21kbzcwMzRrSEFxbncwR0x2TGRzb1FYcjU2RG91eTdhel9iQWZJaE9rcjFfNGJZQktBT0dvcWJUQm4tYUpFMGJ6ZWVZSFp5NldMMDAzWVZ1cGEySGhKU3BGbFNIYjM3M3Vta1F0ZTVIRkVfeWRTWXF1MDFFWHhyTk5maG5Dc2dGdEZFbWRuUmdIMzg?oc=5)
 

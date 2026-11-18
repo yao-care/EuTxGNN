@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Fenfluramine Hydrochloride?">
-<strong>Fenfluramine Hydrochloride</strong> currently has <strong>114 news articles</strong>, with 0 predicted indications.
+<strong>Fenfluramine Hydrochloride</strong> currently has <strong>117 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Fenfluramine Hydrochloride w
 <p><a href="{{ '/drugs/fenfluramine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (114)
+## Related News (117)
+
+### [Desvelan cómo las células del cerebro intervienen en el control del apetito y la obesidad](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzd1SVRHUXZUY3MxN29mQXNRb21Fem04bTBjTzJMS1RjNTZENW11RC1hN0J1UXMwRG1GVVFnblNwQjZxbUFsNjB2eU42eVNHSTJ2Qi1ocWVscFZESmw0SVJraGluQkZURm5uTFFsYWtERG5iTHI4STNzemdyNHpwcThBNGFuSS1lZkJNQ3oyRXYweHlsWE5TYV8tUWkwUXRWbXB6d2ZTRHU3UzRsOE9ySGFISQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">obesidad</span>
+
+Source: [Novaciencia](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzd1SVRHUXZUY3MxN29mQXNRb21Fem04bTBjTzJMS1RjNTZENW11RC1hN0J1UXMwRG1GVVFnblNwQjZxbUFsNjB2eU42eVNHSTJ2Qi1ocWVscFZESmw0SVJraGluQkZURm5uTFFsYWtERG5iTHI4STNzemdyNHpwcThBNGFuSS1lZkJNQ3oyRXYweHlsWE5TYV8tUWkwUXRWbXB6d2ZTRHU3UzRsOE9ySGFISQ?oc=5)
+
+---
 
 ### [Adipositas-Therapie, KI in der Dokumentation, Delir: 125 Studien - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWxLZFFPOHd2Rnp2QTYwemExaW1fSHRQZ2NqSG9ZeWM4bmoxV3dRaVBadGxpaDRXaGlHLWp1dWhzdjRPY3FXWVFhTWhVTGM5aEdWbmo4ek5scTZZWVM3OVV2Vzl4UUdtaTEySy1zMTZ6a3NHdmROMXRiVWdtWGVVeDVQM0NvZmdBMjEzakR3Sjc2QmZ5NkxCRDJJWkFGMUlOOUlMUHZiQnI2OG9BVlV6OA?oc=5)
 
@@ -44,6 +52,14 @@ Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi
 2026-11-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
+
+---
+
+### [Farmaci antiobesità a ruba, vendute 2mila confezioni al mese. Ora scattano i controlli sulle ricette: «Vanno impediti gli abusi» - Il Gazzettino](https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2hnZ181SHVUSTVMMnNsNVlMa3lISkQxd1dxZ2g0V0VkMEpSbEdxRjZWZ25qV0xzWm4xV3dKbW5zdEVjQlV2dXBrRVNHYU4zbk5qWE9lTkhOQ2tuMTNyTXlhd1d0NUx1T09lbWNickRNaDFqZzVlWTlSUE55Z0dXTjhYc1pGUkNwQmEtS19DM0lIWV9sbzU0YkNGVVZWWlc4bk1rUmFQalJjLTVNVTVrMzZDNDlNcGM?oc=5)
+
+2026-11-18 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Il Gazzettino](https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2hnZ181SHVUSTVMMnNsNVlMa3lISkQxd1dxZ2g0V0VkMEpSbEdxRjZWZ25qV0xzWm4xV3dKbW5zdEVjQlV2dXBrRVNHYU4zbk5qWE9lTkhOQ2tuMTNyTXlhd1d0NUx1T09lbWNickRNaDFqZzVlWTlSUE55Z0dXTjhYc1pGUkNwQmEtS19DM0lIWV9sbzU0YkNGVVZWWlc4bk1rUmFQalJjLTVNVTVrMzZDNDlNcGM?oc=5)
 
 ---
 
@@ -65,7 +81,7 @@ Source: [Redacción Médica](https://news.google.com/rss/articles/CBMi-gFBVV95cU
 
 ### [Farmaci per diabetici e obesi per "perdere qualche chilo": stretta in arrivo sulle prescrizioni](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
-2026-11-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-11-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Tgcom24](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
@@ -244,6 +260,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmFqRF
 2026-11-13 <span class="news-indication-tag">obesidad</span>
 
 Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWdDcEhaZnNQX0JEV1RjZXhGT182X2VfdUJyZnRDbHJmUFNlQzMzc2d5QnVOSHFUSklqRWM1b3dNQ2dNSUllcTB1OVVIbi1fSHRyZl9sTVdDSzlBLURQUS1lOHZtRm5hWjFjdU9KeVItTnJKZ2lKQWI3VWhIWlRwdmVMUktxV3h0UDZ2cVRRaUJOLVZFelc1NGxKVVNrU0dlc3FFNU10YUJoR3hqN01UMXdNSjBlS03SAbIBQVVfeXFMUEgyWTRzMnR5R1BkcEstYVdFWHVEOTJpV09Pb0Y4SWpSMEY1OFlKbUg0S2RPU1ZqVW9DSzh2NkxUMVRXTjdMYmhLLThscW5LMlpSTGJZSXRCbFlJeEwyb1NZck0wSGFtLWQ1UWhReU56cEVpQndvdGV4bW5QbzI5S2U3Vy1WSndtSVdwTUFYRmpMdUNVN0FLdG56TXJSc1RXRlN6djI3WjIzajctM2QzMVZ5UQ?oc=5)
+
+---
+
+### [Müssen Diabetiker Reis und Obst meiden? Ein Arzt gibt Antworten.](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFVWTjg3TXZzOU5xZkJjSWQ3c1NHeko3b09ia1Fxc19LcU00bHlxNTFYaGJ5LURtd3FiUkh0cFA4VjZuVTFackIwQ0V0bWtYMGhSOXloMXRRMGdjODFESl9tbVZ5X3ZiME9XbnQ0NmNSekdJaWdyZWJsRkYtM1ZlRVA2ZGpVRUd3THlRNlo4MmRWLWM2?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFVWTjg3TXZzOU5xZkJjSWQ3c1NHeko3b09ia1Fxc19LcU00bHlxNTFYaGJ5LURtd3FiUkh0cFA4VjZuVTFackIwQ0V0bWtYMGhSOXloMXRRMGdjODFESl9tbVZ5X3ZiME9XbnQ0NmNSekdJaWdyZWJsRkYtM1ZlRVA2ZGpVRUd3THlRNlo4MmRWLWM2?oc=5)
 
 ---
 

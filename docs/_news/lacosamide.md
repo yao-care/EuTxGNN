@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Lacosamide?">
-<strong>Lacosamide</strong> currently has <strong>24 news articles</strong>, with 10 predicted indications.
+<strong>Lacosamide</strong> currently has <strong>28 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,39 @@ This page combines the AI-predicted indications for Lacosamide with the latest h
 <p><a href="{{ '/drugs/lacosamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (24)
+## Related News (28)
+
+### [Suffering from migraines linked to an increased risk of deadly condition by the age of 60 - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
+
+2026-11-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
+
+---
+
+### [Reunión Anual SEN: La menopausia influye en la migraña, el riesgo de ictus y la salud cerebral - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1I4SkM2VlpacUJCU0tjNm00SncyYVFXWUJKOE80WFpzQ2FlenFQZlRHYWNiNkdueTJUdzVjdHBtdXo1Vkp3TzdHUzAyWnZ5YzJMZnpsbmMyM3BBUUtpRDRzMUttRjNrNXljMEl6RUducHF1VnU3ZmxTU1BVYU52ODNxNjEwUlJwYl9BamkwbEhUekpBd1ZMcjVFMXBUdDZzcHE5a3pjRGx0WkpIcVU2Uk5Wb2FjNW1YcWhv0gG2AUFVX3lxTE9zTk9VZDNBZXFEelY5emU4OVlTM19WYzV3MW4yRDJkV3ZOT21DM0xkNFgtNmowOUZoLXptV2tZMjYyWnBZZGlEYXZZTnR6Wnc2YkVmREtJc29wN1RXYS1OSzRwM3A3SHY4R1hxdUVRN1NDU09MdUo3bTFnTGFaaHJ3c0Y4R0hfNXRMWHpkdmxpZWFCLVZJM1JkbzVaWkNYNThxNHdnTlM1UWg2cUhnNHVzNXRwaWFR?oc=5)
+
+2026-11-18 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1I4SkM2VlpacUJCU0tjNm00SncyYVFXWUJKOE80WFpzQ2FlenFQZlRHYWNiNkdueTJUdzVjdHBtdXo1Vkp3TzdHUzAyWnZ5YzJMZnpsbmMyM3BBUUtpRDRzMUttRjNrNXljMEl6RUducHF1VnU3ZmxTU1BVYU52ODNxNjEwUlJwYl9BamkwbEhUekpBd1ZMcjVFMXBUdDZzcHE5a3pjRGx0WkpIcVU2Uk5Wb2FjNW1YcWhv0gG2AUFVX3lxTE9zTk9VZDNBZXFEelY5emU4OVlTM19WYzV3MW4yRDJkV3ZOT21DM0xkNFgtNmowOUZoLXptV2tZMjYyWnBZZGlEYXZZTnR6Wnc2YkVmREtJc29wN1RXYS1OSzRwM3A3SHY4R1hxdUVRN1NDU09MdUo3bTFnTGFaaHJ3c0Y4R0hfNXRMWHpkdmxpZWFCLVZJM1JkbzVaWkNYNThxNHdnTlM1UWg2cUhnNHVzNXRwaWFR?oc=5)
+
+---
+
+### [GLP-1-Therapien: Metaanalyse findet weniger Vorhofflimmern](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcE03VURHR0RUazgzeTRCZGhGT19nRG54d0dYb0hVWk5DWklXMFJzWHJFUnIwbTNXOVBGclB6eFYxMThWUVV5VVhWOEFZckRzc2VsTEhzYTNnS2ZRaEtuU2FVbnVIVkItc0t1RTc3czJObnhzV3M2ci1lTHVieFk1T2MxblNsd1ltNDQtbjlZd19mcFV2SlhlZTBR?oc=5)
+
+2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [food-monitor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcE03VURHR0RUazgzeTRCZGhGT19nRG54d0dYb0hVWk5DWklXMFJzWHJFUnIwbTNXOVBGclB6eFYxMThWUVV5VVhWOEFZckRzc2VsTEhzYTNnS2ZRaEtuU2FVbnVIVkItc0t1RTc3czJObnhzV3M2ci1lTHVieFk1T2MxblNsd1ltNDQtbjlZd19mcFV2SlhlZTBR?oc=5)
+
+---
+
+### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
+
+2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
+
+---
 
 ### [Herz-Kreislauf-Erkrankungen bei Frauen: Menopausenbedingte Risikofaktoren im Blick behalten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
 

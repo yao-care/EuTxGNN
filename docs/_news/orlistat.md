@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>217 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>226 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,39 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (217)
+## Related News (226)
+
+### [Suffering from migraines linked to an increased risk of deadly condition by the age of 60 - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
+
+2026-11-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
+
+---
+
+### [Reunión Anual SEN: La menopausia influye en la migraña, el riesgo de ictus y la salud cerebral - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1I4SkM2VlpacUJCU0tjNm00SncyYVFXWUJKOE80WFpzQ2FlenFQZlRHYWNiNkdueTJUdzVjdHBtdXo1Vkp3TzdHUzAyWnZ5YzJMZnpsbmMyM3BBUUtpRDRzMUttRjNrNXljMEl6RUducHF1VnU3ZmxTU1BVYU52ODNxNjEwUlJwYl9BamkwbEhUekpBd1ZMcjVFMXBUdDZzcHE5a3pjRGx0WkpIcVU2Uk5Wb2FjNW1YcWhv0gG2AUFVX3lxTE9zTk9VZDNBZXFEelY5emU4OVlTM19WYzV3MW4yRDJkV3ZOT21DM0xkNFgtNmowOUZoLXptV2tZMjYyWnBZZGlEYXZZTnR6Wnc2YkVmREtJc29wN1RXYS1OSzRwM3A3SHY4R1hxdUVRN1NDU09MdUo3bTFnTGFaaHJ3c0Y4R0hfNXRMWHpkdmxpZWFCLVZJM1JkbzVaWkNYNThxNHdnTlM1UWg2cUhnNHVzNXRwaWFR?oc=5)
+
+2026-11-18 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1I4SkM2VlpacUJCU0tjNm00SncyYVFXWUJKOE80WFpzQ2FlenFQZlRHYWNiNkdueTJUdzVjdHBtdXo1Vkp3TzdHUzAyWnZ5YzJMZnpsbmMyM3BBUUtpRDRzMUttRjNrNXljMEl6RUducHF1VnU3ZmxTU1BVYU52ODNxNjEwUlJwYl9BamkwbEhUekpBd1ZMcjVFMXBUdDZzcHE5a3pjRGx0WkpIcVU2Uk5Wb2FjNW1YcWhv0gG2AUFVX3lxTE9zTk9VZDNBZXFEelY5emU4OVlTM19WYzV3MW4yRDJkV3ZOT21DM0xkNFgtNmowOUZoLXptV2tZMjYyWnBZZGlEYXZZTnR6Wnc2YkVmREtJc29wN1RXYS1OSzRwM3A3SHY4R1hxdUVRN1NDU09MdUo3bTFnTGFaaHJ3c0Y4R0hfNXRMWHpkdmxpZWFCLVZJM1JkbzVaWkNYNThxNHdnTlM1UWg2cUhnNHVzNXRwaWFR?oc=5)
+
+---
+
+### [Los neurólogos alertan sobre un hábito muy español: “Cenar a partir de las nueve de la noche aumenta un 28% el riesgo de ictus”](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWERZZzM1RzBDcnFRbHNtajVLZzlkNlpJNHFoM0hVQ2NZcnNtYzdjcFFFNEJsSTVZZjRhZS13djJUUHo0WjR4NW5mZ2xhcG5oRk1wSFJtM0F0aHhMLS1nWVh4ZElEckI4dmhBdWRRVTZfNng2RTExQ3ZXeHM3NU15eko2RF90NVpYbWJadDEzS3R3bEtWb0JmdDUxSTRpV2JrVmNzS09MVFc1Zk9hQkR4aHZQcllXdzZoa3R0bW40d3h0cjdkMTE0dHZ4NUJENEw3LWtIU2RicW51dHFWaGdjNVU0cnlfRXN5YjRramE5QdIB9AFBVV95cUxNX2xDc0tuVjFNWVF4a1ZXMEJVeG83RkM3bmZBYURGaU91RUY3UTkyNXYxYzNhRWZSQ0JBQnJBYktUWkVwVUZ6TVdTUFI5Tks0SlN2d09QbFZWVnIxMXl5c3NEcDkzWkFBcTlGd3FKWFd2QmJKTlNYNE9RdS1malpaRThsSEZsVEJUcmRlV3VsdWhNWHdralJzaWxCV1pnbkRkcUxpbFdTZlBJOGhCczJSb1RBS3poZ3RhY0ZaeXJqUmNqRkN2MUJRd1VmbjVVY0ZLVDNpY21SbFRrV1k5NURpVnV1OU9Ja254YjFDbkV5dEZzTXVE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">ictus</span>
+
+Source: [CuídatePlus](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWERZZzM1RzBDcnFRbHNtajVLZzlkNlpJNHFoM0hVQ2NZcnNtYzdjcFFFNEJsSTVZZjRhZS13djJUUHo0WjR4NW5mZ2xhcG5oRk1wSFJtM0F0aHhMLS1nWVh4ZElEckI4dmhBdWRRVTZfNng2RTExQ3ZXeHM3NU15eko2RF90NVpYbWJadDEzS3R3bEtWb0JmdDUxSTRpV2JrVmNzS09MVFc1Zk9hQkR4aHZQcllXdzZoa3R0bW40d3h0cjdkMTE0dHZ4NUJENEw3LWtIU2RicW51dHFWaGdjNVU0cnlfRXN5YjRramE5QdIB9AFBVV95cUxNX2xDc0tuVjFNWVF4a1ZXMEJVeG83RkM3bmZBYURGaU91RUY3UTkyNXYxYzNhRWZSQ0JBQnJBYktUWkVwVUZ6TVdTUFI5Tks0SlN2d09QbFZWVnIxMXl5c3NEcDkzWkFBcTlGd3FKWFd2QmJKTlNYNE9RdS1malpaRThsSEZsVEJUcmRlV3VsdWhNWHdralJzaWxCV1pnbkRkcUxpbFdTZlBJOGhCczJSb1RBS3poZ3RhY0ZaeXJqUmNqRkN2MUJRd1VmbjVVY0ZLVDNpY21SbFRrV1k5NURpVnV1OU9Ja254YjFDbkV5dEZzTXVE?oc=5)
+
+---
+
+### [Desvelan cómo las células del cerebro intervienen en el control del apetito y la obesidad](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzd1SVRHUXZUY3MxN29mQXNRb21Fem04bTBjTzJMS1RjNTZENW11RC1hN0J1UXMwRG1GVVFnblNwQjZxbUFsNjB2eU42eVNHSTJ2Qi1ocWVscFZESmw0SVJraGluQkZURm5uTFFsYWtERG5iTHI4STNzemdyNHpwcThBNGFuSS1lZkJNQ3oyRXYweHlsWE5TYV8tUWkwUXRWbXB6d2ZTRHU3UzRsOE9ySGFISQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">obesidad</span>
+
+Source: [Novaciencia](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzd1SVRHUXZUY3MxN29mQXNRb21Fem04bTBjTzJMS1RjNTZENW11RC1hN0J1UXMwRG1GVVFnblNwQjZxbUFsNjB2eU42eVNHSTJ2Qi1ocWVscFZESmw0SVJraGluQkZURm5uTFFsYWtERG5iTHI4STNzemdyNHpwcThBNGFuSS1lZkJNQ3oyRXYweHlsWE5TYV8tUWkwUXRWbXB6d2ZTRHU3UzRsOE9ySGFISQ?oc=5)
+
+---
 
 ### [Adipositas-Therapie, KI in der Dokumentation, Delir: 125 Studien - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWxLZFFPOHd2Rnp2QTYwemExaW1fSHRQZ2NqSG9ZeWM4bmoxV3dRaVBadGxpaDRXaGlHLWp1dWhzdjRPY3FXWVFhTWhVTGM5aEdWbmo4ek5scTZZWVM3OVV2Vzl4UUdtaTEySy1zMTZ6a3NHdmROMXRiVWdtWGVVeDVQM0NvZmdBMjEzakR3Sjc2QmZ5NkxCRDJJWkFGMUlOOUlMUHZiQnI2OG9BVlV6OA?oc=5)
 
@@ -43,11 +75,35 @@ Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi
 
 ---
 
+### [El 20% de los ictus ya son en menores de 55 años, la mayoría por la mala alimentación y las adicciones](https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2RoNVdHMS04czY3eVVnWGZmX1EzSm9LNXh6NDlNYWNfUXNWZ2hMTjZ4M002N2U3TlVaQzIzdGlZNzdNQ0lmdjJBSElUbDR4LWtHeGdTWEJBVWEyVkNEeE9kZmxhSWhEdklXUWhYSmQ3bmNvQzh1c2l2d2pBdnh6M3E0cHNHVjlNaUZpdjNTU2Z4QXR0SWRocml3YzFlNnpYYVHSAacBQVVfeXFMTm5UdENPcUN1d3pXQzhha0VFTXVaMExkZ01Rc081elB1eXBjRFNXSGtmVmdBYnNGVXAxSkZUSFdMSDRkdnBwZk1LWE1kc3JUeWMzczJvOGZkLXRLY2JJQzFONGVaNDNQMHNQZnc4bHcyS0xqZjhsVEMwTThsVDg0RFBBNThzZmpJanFaSndXSkhUY25mQ0wxbkltWXpDc1FCVTJINXZrTlU?oc=5)
+
+2026-11-18 <span class="news-indication-tag">ictus</span>
+
+Source: [ABC](https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2RoNVdHMS04czY3eVVnWGZmX1EzSm9LNXh6NDlNYWNfUXNWZ2hMTjZ4M002N2U3TlVaQzIzdGlZNzdNQ0lmdjJBSElUbDR4LWtHeGdTWEJBVWEyVkNEeE9kZmxhSWhEdklXUWhYSmQ3bmNvQzh1c2l2d2pBdnh6M3E0cHNHVjlNaUZpdjNTU2Z4QXR0SWRocml3YzFlNnpYYVHSAacBQVVfeXFMTm5UdENPcUN1d3pXQzhha0VFTXVaMExkZ01Rc081elB1eXBjRFNXSGtmVmdBYnNGVXAxSkZUSFdMSDRkdnBwZk1LWE1kc3JUeWMzczJvOGZkLXRLY2JJQzFONGVaNDNQMHNQZnc4bHcyS0xqZjhsVEMwTThsVDg0RFBBNThzZmpJanFaSndXSkhUY25mQ0wxbkltWXpDc1FCVTJINXZrTlU?oc=5)
+
+---
+
 ### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
 2026-11-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
+
+---
+
+### [Farmaci antiobesità a ruba, vendute 2mila confezioni al mese. Ora scattano i controlli sulle ricette: «Vanno impediti gli abusi» - Il Gazzettino](https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2hnZ181SHVUSTVMMnNsNVlMa3lISkQxd1dxZ2g0V0VkMEpSbEdxRjZWZ25qV0xzWm4xV3dKbW5zdEVjQlV2dXBrRVNHYU4zbk5qWE9lTkhOQ2tuMTNyTXlhd1d0NUx1T09lbWNickRNaDFqZzVlWTlSUE55Z0dXTjhYc1pGUkNwQmEtS19DM0lIWV9sbzU0YkNGVVZWWlc4bk1rUmFQalJjLTVNVTVrMzZDNDlNcGM?oc=5)
+
+2026-11-18 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Il Gazzettino](https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2hnZ181SHVUSTVMMnNsNVlMa3lISkQxd1dxZ2g0V0VkMEpSbEdxRjZWZ25qV0xzWm4xV3dKbW5zdEVjQlV2dXBrRVNHYU4zbk5qWE9lTkhOQ2tuMTNyTXlhd1d0NUx1T09lbWNickRNaDFqZzVlWTlSUE55Z0dXTjhYc1pGUkNwQmEtS19DM0lIWV9sbzU0YkNGVVZWWlc4bk1rUmFQalJjLTVNVTVrMzZDNDlNcGM?oc=5)
+
+---
+
+### [Colesterolo, gli over 50 lo controllano ma ignorano il rischio cardiovascolare](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUGxpeFpNblNWenlEWngyZjNNckZ0RjJEVnpSbUdBZDJIb0l0Tno5NHJ0cDg2eWRGc3k3eEJObGFnZGlLLThKd3pibW13YUQ1b1MySXZmeUhGeXlTSkJTXzF1T1E5RjRWN092ajNocWZUenBmSnN2SHFLOHFiTUZKRFdULW4xWXdzSHVGdXl4dnhLR3lIU0FvUi1XTlVTNzZtNDIwZTE5ak1pMnJneVJZU2RDc1paRGJSVDdPdjV5ZXVmVGtxWVpoenZWSTRaRWNkakxZ?oc=5)
+
+2026-11-17 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUGxpeFpNblNWenlEWngyZjNNckZ0RjJEVnpSbUdBZDJIb0l0Tno5NHJ0cDg2eWRGc3k3eEJObGFnZGlLLThKd3pibW13YUQ1b1MySXZmeUhGeXlTSkJTXzF1T1E5RjRWN092ajNocWZUenBmSnN2SHFLOHFiTUZKRFdULW4xWXdzSHVGdXl4dnhLR3lIU0FvUi1XTlVTNzZtNDIwZTE5ak1pMnJneVJZU2RDc1paRGJSVDdPdjV5ZXVmVGtxWVpoenZWSTRaRWNkakxZ?oc=5)
 
 ---
 
@@ -77,7 +133,7 @@ Source: [Redacción Médica](https://news.google.com/rss/articles/CBMi-gFBVV95cU
 
 ### [Farmaci per diabetici e obesi per "perdere qualche chilo": stretta in arrivo sulle prescrizioni](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
-2026-11-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-11-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Tgcom24](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
@@ -347,6 +403,14 @@ Source: [Redacción Médica](https://news.google.com/rss/articles/CBMi-wFBVV95cU
 
 ---
 
+### [„Die Patienten kannten im Durchschnitt nur drei Schlaganfallrisikofaktoren“ – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiggJBVV95cUxNVktLZXVEbkZDTENPemV1Ny0tNXBWZjdvSXpzamNPVjVxLVdSY1ZtMFdERmVDNC1lTzJSaENKUC00WnJkZV9mREZJeWF0UFdUWnBjLUdDTm5NY3B4ZUxteHRIS0lxazJsOTMzTThOaktfX21FaHE5VFpNOWRDVDZYUkZrT04yalBWbFpZNFpQWmIxVmxvR0hNVFdBbDFEZm40cURCc250M2JkX0ZyN08tRDNTUVpOYnAzNnExU0Rpb0VSbXhYdDRJNTV5bmFZemM0aU9DMGYzWkhmVV9MWkxBcFVrRHlHdmpLYjdjSWFKOVhtSXBQVjFOT213eVpEU1hoUXc?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiggJBVV95cUxNVktLZXVEbkZDTENPemV1Ny0tNXBWZjdvSXpzamNPVjVxLVdSY1ZtMFdERmVDNC1lTzJSaENKUC00WnJkZV9mREZJeWF0UFdUWnBjLUdDTm5NY3B4ZUxteHRIS0lxazJsOTMzTThOaktfX21FaHE5VFpNOWRDVDZYUkZrT04yalBWbFpZNFpQWmIxVmxvR0hNVFdBbDFEZm40cURCc250M2JkX0ZyN08tRDNTUVpOYnAzNnExU0Rpb0VSbXhYdDRJNTV5bmFZemM0aU9DMGYzWkhmVV9MWkxBcFVrRHlHdmpLYjdjSWFKOVhtSXBQVjFOT213eVpEU1hoUXc?oc=5)
+
+---
+
 ### [Besser als BMI: Neue Adipositas-Definition bewährt sich - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkllLXRqZUJPSnNBaFM0eFRfMU9Sb1dMc21LRHF6bFZLdEVwcUh6SnlKV05sQ21LeU9xdnlvOUJXUGlsUThPZlZjdDRvU0swUnVFM0hmVThGZEI5X3k1TUI5LUhsdVZRUUpwZHdlV1pVUG4zUEpCeUN3UmRaZ3hOVl9JbE9TbjZnN051U2p5MXc?oc=5)
 
 2026-11-13 <span class="news-indication-tag">Adipositas</span>
@@ -416,6 +480,14 @@ Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWdD
 2026-11-13 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMijgFBVV95cUxOLWVHcjRzZWQwSkVfOElZYjI2S3RyR0NoQmdhVE5JYWRDRFl0WVA0NVNwZFlQakFFNEhBNk1ESmpWMC1fQ0NVUFBUeDk1NjY3cUt1T3dPTk9MQWgyaV91ams0eWpOTlBEOGFSRjhLa1ROTS1zVndsa05sUzVEbVlfNEhwMjhWZkZSUmxjYWlR?oc=5)
+
+---
+
+### [Müssen Diabetiker Reis und Obst meiden? Ein Arzt gibt Antworten.](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFVWTjg3TXZzOU5xZkJjSWQ3c1NHeko3b09ia1Fxc19LcU00bHlxNTFYaGJ5LURtd3FiUkh0cFA4VjZuVTFackIwQ0V0bWtYMGhSOXloMXRRMGdjODFESl9tbVZ5X3ZiME9XbnQ0NmNSekdJaWdyZWJsRkYtM1ZlRVA2ZGpVRUd3THlRNlo4MmRWLWM2?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFVWTjg3TXZzOU5xZkJjSWQ3c1NHeko3b09ia1Fxc19LcU00bHlxNTFYaGJ5LURtd3FiUkh0cFA4VjZuVTFackIwQ0V0bWtYMGhSOXloMXRRMGdjODFESl9tbVZ5X3ZiME9XbnQ0NmNSekdJaWdyZWJsRkYtM1ZlRVA2ZGpVRUd3THlRNlo4MmRWLWM2?oc=5)
 
 ---
 

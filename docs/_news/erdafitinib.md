@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Erdafitinib?">
-<strong>Erdafitinib</strong> currently has <strong>88 news articles</strong>, with 6 predicted indications.
+<strong>Erdafitinib</strong> currently has <strong>90 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Erdafitinib with the latest 
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (88)
+## Related News (90)
+
+### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
+
+2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
+
+---
 
 ### [Un bulo de TikTok en EE.UU. sugiere tomar un fármaco contra un cáncer para ser más alto - La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnRpLUNTcWdHZTY1MUk2MGthbDI3X01uVXBtbmd4Q1FBUmc3T004Y0ZNSnppT25BejFiRlNPc2VoekpwZXFqY1hma1hRQUhJZ2Jvb050OHFHWjQwS25iOUNQc3dlYkNNM0dOZ2Q2NVhiZTlkZy1iOS0yeWVfWHpWNTdkSDc3dzY5ZzNTeFZDQTJBdE13NUpxSjlIU01vZlU0QWRWMUpQNjZERkxzTW50Tzln0gG3AUFVX3lxTE5FWHhOZkZZck92MjFJSXdEc3E5YXBXdkxwQVNDMmdJejV2eEZJV0JlZWlhU0JQejRVSU9DTUE2MEwwQkVKeEhvOVh1ZU56T2JWdnduRUtaSWdjSTBRZDd3OUw1UDM1ZXlldTdNUWt3X3pXYlBKajNYakpvYUxvODJmNWx6VVlGSFBLRTduMUdsdEw4VkgteHd5aUNzV0ZyR3oyZ3YzbnlkaUxsdUE3NmZ2YUNIN1ducw?oc=5)
 
@@ -53,6 +61,14 @@ Source: [La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnR
 2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+---
+
+### [Müssen Menschen mit hohem Cholesterinspiegel Eier vollständig aus ihrer Ernährung streichen?](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkNJYVdxdVFiZDcxZ3Y4bHNZUHhzSEplRU1TeWgyS2FYS2lEZDlrLWtOaUF4czl5S0F2R3A1YzBiYUprblltYVMzNVZ5cXFKZ3lQXzNpV2lBSzNhaF9Mb1BhYllvUEtGcnZaNFdrMFhOLV9raGxzZzlnSVhPYUVNQV9DUkpVcGFiS3hkY2NzMWRkS2s5a1M3a1loMFM?oc=5)
+
+2026-11-17 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkNJYVdxdVFiZDcxZ3Y4bHNZUHhzSEplRU1TeWgyS2FYS2lEZDlrLWtOaUF4czl5S0F2R3A1YzBiYUprblltYVMzNVZ5cXFKZ3lQXzNpV2lBSzNhaF9Mb1BhYllvUEtGcnZaNFdrMFhOLV9raGxzZzlnSVhPYUVNQV9DUkpVcGFiS3hkY2NzMWRkS2s5a1M3a1loMFM?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Guanfacine Hydrochloride?">
-<strong>Guanfacine Hydrochloride</strong> currently has <strong>16 news articles</strong>, with 0 predicted indications.
+<strong>Guanfacine Hydrochloride</strong> currently has <strong>18 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,23 @@ This page combines the AI-predicted indications for Guanfacine Hydrochloride wit
 <p><a href="{{ '/drugs/guanfacine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (18)
+
+### [GLP-1-Therapien: Metaanalyse findet weniger Vorhofflimmern](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcE03VURHR0RUazgzeTRCZGhGT19nRG54d0dYb0hVWk5DWklXMFJzWHJFUnIwbTNXOVBGclB6eFYxMThWUVV5VVhWOEFZckRzc2VsTEhzYTNnS2ZRaEtuU2FVbnVIVkItc0t1RTc3czJObnhzV3M2ci1lTHVieFk1T2MxblNsd1ltNDQtbjlZd19mcFV2SlhlZTBR?oc=5)
+
+2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [food-monitor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcE03VURHR0RUazgzeTRCZGhGT19nRG54d0dYb0hVWk5DWklXMFJzWHJFUnIwbTNXOVBGclB6eFYxMThWUVV5VVhWOEFZckRzc2VsTEhzYTNnS2ZRaEtuU2FVbnVIVkItc0t1RTc3czJObnhzV3M2ci1lTHVieFk1T2MxblNsd1ltNDQtbjlZd19mcFV2SlhlZTBR?oc=5)
+
+---
+
+### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
+
+2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
+
+---
 
 ### [Herz-Kreislauf-Erkrankungen bei Frauen: Menopausenbedingte Risikofaktoren im Blick behalten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
 

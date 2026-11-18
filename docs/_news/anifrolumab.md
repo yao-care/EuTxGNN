@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Anifrolumab?">
-<strong>Anifrolumab</strong> currently has <strong>251 news articles</strong>, with 0 predicted indications.
+<strong>Anifrolumab</strong> currently has <strong>258 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,37 @@ This page combines the AI-predicted indications for Anifrolumab with the latest 
 <p><a href="{{ '/drugs/anifrolumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (251)
+## Related News (258)
+
+### [Vorschau: aktiv und gesund • Prädiabetes - Geschmeidige Wirbelsäule - Powernap - ARD Mediathek](https://news.google.com/rss/articles/CBMickFVX3lxTE9QZ1NGdnpTVjRzLWlXSWdYajU0eDRNWjNCNWFzN0pVdUlYaG80cU5aMXNycXdhWDI5WEd1VnAwNkxMR0c3aV90V2RHZGh6X21ZcExtQ0N1SU12WjZaOENSYk5KV0ZqSWE3dlpsWlRCakZkUQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">diabetes</span>
+
+Source: [ARD Mediathek](https://news.google.com/rss/articles/CBMickFVX3lxTE9QZ1NGdnpTVjRzLWlXSWdYajU0eDRNWjNCNWFzN0pVdUlYaG80cU5aMXNycXdhWDI5WEd1VnAwNkxMR0c3aV90V2RHZGh6X21ZcExtQ0N1SU12WjZaOENSYk5KV0ZqSWE3dlpsWlRCakZkUQ?oc=5)
+
+---
 
 ### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
 2026-11-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
+
+---
+
+### [Farmaci antiobesità a ruba, vendute 2mila confezioni al mese. Ora scattano i controlli sulle ricette: «Vanno impediti gli abusi» - Il Gazzettino](https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2hnZ181SHVUSTVMMnNsNVlMa3lISkQxd1dxZ2g0V0VkMEpSbEdxRjZWZ25qV0xzWm4xV3dKbW5zdEVjQlV2dXBrRVNHYU4zbk5qWE9lTkhOQ2tuMTNyTXlhd1d0NUx1T09lbWNickRNaDFqZzVlWTlSUE55Z0dXTjhYc1pGUkNwQmEtS19DM0lIWV9sbzU0YkNGVVZWWlc4bk1rUmFQalJjLTVNVTVrMzZDNDlNcGM?oc=5)
+
+2026-11-18 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Il Gazzettino](https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2hnZ181SHVUSTVMMnNsNVlMa3lISkQxd1dxZ2g0V0VkMEpSbEdxRjZWZ25qV0xzWm4xV3dKbW5zdEVjQlV2dXBrRVNHYU4zbk5qWE9lTkhOQ2tuMTNyTXlhd1d0NUx1T09lbWNickRNaDFqZzVlWTlSUE55Z0dXTjhYc1pGUkNwQmEtS19DM0lIWV9sbzU0YkNGVVZWWlc4bk1rUmFQalJjLTVNVTVrMzZDNDlNcGM?oc=5)
+
+---
+
+### [Winter and diabetes: How cold weather can disrupt blood sugar, circulation and foot health in older adults - The Times of India](https://news.google.com/rss/articles/CBMiggJBVV95cUxNd3ZKZUx5eE4zOWgyV210OFNGQ0NpT1k2T3dtR2NSNUZEd0l5a2JVbUkyU2xwa3J6eXljODFSVEhzUWc3Y0dxc1lXWXBVZzJMX0Fla3Y5endHMEVkSTBTbTZTVC15amo4bmo1OWo5aWM4MjhVNl84eEJSY3RtUlp4S09uTUNBMktpYVllMlI0U0Y3SmxxOFJkS2QzZmoyOWQ3ZGhsb2tyM0E3dlVDRVB2OWRiRktSbVJ2YTVYbTBwQlQ4cy1WZzZjdzVxeG44b2toelU2WjhpMVFRQU5YbGdNQUs5WExodTNDWmhXX0MtUHFxOFJ0ZkJBWXhhMDluRGF3WHfSAYoCQVVfeXFMT0l6TFRhMmd2NzlKVVR4LVRxMENFdFpJZENCUkloWEotZzFCeFV1ZU42dVJVVmQzcWpXNGpiZE9BR1VYQU1EZVpzSWJXdWRYalVvMzd1cDNRY2tBMzB3SFA5czkwck54Zm4wRHp3Y3QtMERtR3hwRElodkxyYnhNQVR0akZhSHhwMVVlZFM5SWx4WmhNRm9GNDJ4LXFiNkJsZU9RaFFIdllsVEhIWG1VUVViWmFmb2lPVFJmSnUtbmdsaEIzMmw4elQ4dDJxOExkZnY1UmVPR0JFMTF0Vy13bG04VngwRlNiNFU2MEJDanlQQUh0YUw2VTRSVWxqWWRKMkRldEhCNDU0bmc?oc=5)
+
+2026-11-18 <span class="news-indication-tag">diabetes</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMiggJBVV95cUxNd3ZKZUx5eE4zOWgyV210OFNGQ0NpT1k2T3dtR2NSNUZEd0l5a2JVbUkyU2xwa3J6eXljODFSVEhzUWc3Y0dxc1lXWXBVZzJMX0Fla3Y5endHMEVkSTBTbTZTVC15amo4bmo1OWo5aWM4MjhVNl84eEJSY3RtUlp4S09uTUNBMktpYVllMlI0U0Y3SmxxOFJkS2QzZmoyOWQ3ZGhsb2tyM0E3dlVDRVB2OWRiRktSbVJ2YTVYbTBwQlQ4cy1WZzZjdzVxeG44b2toelU2WjhpMVFRQU5YbGdNQUs5WExodTNDWmhXX0MtUHFxOFJ0ZkJBWXhhMDluRGF3WHfSAYoCQVVfeXFMT0l6TFRhMmd2NzlKVVR4LVRxMENFdFpJZENCUkloWEotZzFCeFV1ZU42dVJVVmQzcWpXNGpiZE9BR1VYQU1EZVpzSWJXdWRYalVvMzd1cDNRY2tBMzB3SFA5czkwck54Zm4wRHp3Y3QtMERtR3hwRElodkxyYnhNQVR0akZhSHhwMVVlZFM5SWx4WmhNRm9GNDJ4LXFiNkJsZU9RaFFIdllsVEhIWG1VUVViWmFmb2lPVFJmSnUtbmdsaEIzMmw4elQ4dDJxOExkZnY1UmVPR0JFMTF0Vy13bG04VngwRlNiNFU2MEJDanlQQUh0YUw2VTRSVWxqWWRKMkRldEhCNDU0bmc?oc=5)
 
 ---
 
@@ -74,7 +98,7 @@ Source: [Fusión Asturias](https://news.google.com/rss/articles/CBMisAFBVV95cUxP
 
 ### [Farmaci per diabetici e obesi per "perdere qualche chilo": stretta in arrivo sulle prescrizioni](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
-2026-11-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-11-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Tgcom24](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
@@ -101,6 +125,14 @@ Source: [Südtirol News](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeG
 2026-11-17 <span class="news-indication-tag">diabète</span>
 
 Source: [Sud Ouest](https://news.google.com/rss/articles/CBMixwFBVV95cUxNZHRwRHZrYnRobnc0a2c2UEJHQ2xyZF90M3pCRlBiU2dOQ0VCTS1faGFUUG95djBfUnlHVXdaVmgwbkp1NUlfajc3Vnc5U2U2R2N5ckFWQ3hPd2Iwb2Uya1dwbmVhWjdCZEVRLVp6X2VBN1NVZUtyZElmaUNvNVc5YTJqLXFscFBxWmFIV2JpaTJza2M3Wl9fLWZrUmdkb09RTDFQNFJieks0UWpMV05TWnlrY2szUUpCaU5zTF94bmNIbTFrQWFR?oc=5)
+
+---
+
+### [Lebererkrankungen: Wer sollte sich untersuchen lassen, auch wenn keine Symptome vorliegen?](https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1JFVzNINnFia0hWV1FjYlY4ZzJqbmxac2NjLUl0ODJMNHNxMm5NNEtfRHlNQ2dFc25UdzdHYk5Hb3QxbDJ3NlVuSUIyU0JXVW9SbnJfTGFYVjFtbDBITzZxTVEyVnJKYWtJT2FpY0VYQVk0T3F6cmtrWi1RRUVoTHpYSU9Sbkk?oc=5)
+
+2026-11-17 <span class="news-indication-tag">diabetes</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1JFVzNINnFia0hWV1FjYlY4ZzJqbmxac2NjLUl0ODJMNHNxMm5NNEtfRHlNQ2dFc25UdzdHYk5Hb3QxbDJ3NlVuSUIyU0JXVW9SbnJfTGFYVjFtbDBITzZxTVEyVnJKYWtJT2FpY0VYQVk0T3F6cmtrWi1RRUVoTHpYSU9Sbkk?oc=5)
 
 ---
 
@@ -229,6 +261,14 @@ Source: [RTVE.es](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHYyRjRmU
 2026-11-16 <span class="news-indication-tag">diabetes</span>
 
 Source: [businessportal24](https://news.google.com/rss/articles/CBMimwFBVV95cUxONU90cDRPMklaMzdkbEUycnNSeTY0N3kwWFZQYkJ4VHVyRUt3YzdpLTNrWEVwM2JCX0hNb3R1T2dpZnJrQjhHdlprU3kzUjJEQ2ZMdGxiRU9JUmozQzBJS1F4ckNPUlRMUHZHWTRQRkNoZ3V5NlNvU2FmYVJRSVFnY0w0XzhjM2VsV3ZyV1VrQy1ubVlERk5wVzZmbw?oc=5)
+
+---
+
+### [Diabete di tipo 1. Dall’Oms le prime linee guida per gli adulti: insulina e monitoraggio della glicemia al centro delle raccomandazioni - Quotidiano Sanità](https://news.google.com/rss/articles/CBMikAJBVV95cUxPM0Q2czc0dXU3SzZCVWZ3TGRCdzJSV3NlQ3I0QzllZHBYQkFiTFZpRHMzY01TQTc1WkNwcklOTFd0dWUxWS1GT2RxVngxTkFzcmJGNTBHcGNJWWVqcWxlN3Bad1RPYnA0ZzlGTHd6dDRtUkRyMkpOZElhWWUyRkcxVjZjM19jNmhjRTNPaEVYWTlzNE9ucGFHaUN6aXcxZVNIRWEtTFJ6V1ptZEpyY243M0NOMVB5OWVfaG96Z1ZCbWNsemh5QmhUNTZNRlpXNU9iY3BVdHFQQ3VCcEFyd0hQZTVPMmxmdF9qVmdtUFVkTVh0MDMzcFE3c3dSOHNxelQyVHZLLV8xZDkzUlRhdDhTeQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">diabete</span>
+
+Source: [Quotidiano Sanità](https://news.google.com/rss/articles/CBMikAJBVV95cUxPM0Q2czc0dXU3SzZCVWZ3TGRCdzJSV3NlQ3I0QzllZHBYQkFiTFZpRHMzY01TQTc1WkNwcklOTFd0dWUxWS1GT2RxVngxTkFzcmJGNTBHcGNJWWVqcWxlN3Bad1RPYnA0ZzlGTHd6dDRtUkRyMkpOZElhWWUyRkcxVjZjM19jNmhjRTNPaEVYWTlzNE9ucGFHaUN6aXcxZVNIRWEtTFJ6V1ptZEpyY243M0NOMVB5OWVfaG96Z1ZCbWNsemh5QmhUNTZNRlpXNU9iY3BVdHFQQ3VCcEFyd0hQZTVPMmxmdF9qVmdtUFVkTVh0MDMzcFE3c3dSOHNxelQyVHZLLV8xZDkzUlRhdDhTeQ?oc=5)
 
 ---
 
@@ -872,6 +912,14 @@ Source: [https://www.infocop.es/](https://news.google.com/rss/articles/CBMiugFBV
 
 ---
 
+### [Müssen Diabetiker Reis und Obst meiden? Ein Arzt gibt Antworten.](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFVWTjg3TXZzOU5xZkJjSWQ3c1NHeko3b09ia1Fxc19LcU00bHlxNTFYaGJ5LURtd3FiUkh0cFA4VjZuVTFackIwQ0V0bWtYMGhSOXloMXRRMGdjODFESl9tbVZ5X3ZiME9XbnQ0NmNSekdJaWdyZWJsRkYtM1ZlRVA2ZGpVRUd3THlRNlo4MmRWLWM2?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFVWTjg3TXZzOU5xZkJjSWQ3c1NHeko3b09ia1Fxc19LcU00bHlxNTFYaGJ5LURtd3FiUkh0cFA4VjZuVTFackIwQ0V0bWtYMGhSOXloMXRRMGdjODFESl9tbVZ5X3ZiME9XbnQ0NmNSekdJaWdyZWJsRkYtM1ZlRVA2ZGpVRUd3THlRNlo4MmRWLWM2?oc=5)
+
+---
+
 ### [Vortrag: Individualisierte Therapie bei Diabetes mellitus Typ 2 – Alles Insulin, oder was?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2EtbW5ydXBEOG56UDdkZXZTamE5cVhDZEdwajJQbGJJTHV0SUhjTEJaRUNZRHBpZnVqVkpCUndvdkpyOVIzWG9HM0s5bjFNc0NUekx0XzFFMlNHZERKSXJ1UEVKbW1tQ04zVDduV1FWUDJVT0lESzZpM0RtcXUtVXRvQjYtS3dnUlRuTXk3Sm4xS0xXM3Ztc3Y4MkJPTW51aE1xaF96cjB0WEtyZDNCbVliOXlXY1BIXzFz?oc=5)
 
 2026-11-12 <span class="news-indication-tag">diabetes mellitus</span>
@@ -933,6 +981,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQnBkTF
 2026-11-12 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yQTdTcUlMMmthbWU4NVI0MU83dUluejQ2bUdXNGo5c1BxS0I3QkZjNWVVTmZtMlBkUXNmMnR3VVpXVUlXSkN5MG1tV0QyNGg4Ukd2Zi1oOGt0a1h1N1E?oc=5)
+
+---
+
+### [Diabetes als Volkskrankheit in den Fokus rücken - Echo Online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHRRR3FLdlpCcXAyczBYYjVhV0g4ZEt1OTZEZlFEcWRIeFhhQ1BObnVaaDVUQzJ5d0dvc1c0MmFxY2c1c3M5M09aTFhDN25EX2ZIckZHN0NNQ2hpSnZjUTBxUWtoWnBQNVdhNDlCTHFMX2JTRkZoZklOZ294NW9vcENnOERYbGlZVmZRa0JPeXl1LU8yX3JIdTZIbDY5bTl1UG1CNjAwZnl1VGpLODhyZlBsOEpiMGo4TnNzVWdFd1l5OVEzenZ5aE5GNA?oc=5)
+
+2026-11-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [Echo Online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHRRR3FLdlpCcXAyczBYYjVhV0g4ZEt1OTZEZlFEcWRIeFhhQ1BObnVaaDVUQzJ5d0dvc1c0MmFxY2c1c3M5M09aTFhDN25EX2ZIckZHN0NNQ2hpSnZjUTBxUWtoWnBQNVdhNDlCTHFMX2JTRkZoZklOZ294NW9vcENnOERYbGlZVmZRa0JPeXl1LU8yX3JIdTZIbDY5bTl1UG1CNjAwZnl1VGpLODhyZlBsOEpiMGo4TnNzVWdFd1l5OVEzenZ5aE5GNA?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Lopinavir?">
-<strong>Lopinavir</strong> currently has <strong>9 news articles</strong>, with 3 predicted indications.
+<strong>Lopinavir</strong> currently has <strong>8 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ This page combines the AI-predicted indications for Lopinavir with the latest he
 <p><a href="{{ '/drugs/lopinavir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (8)
 
 ### [Studie zeigt mögliche Risikofaktoren bei chronischer Hepatitis E: Erhöhtes Risiko für komplizierte Behandlungsverläufe - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ETGpuRGtQZTFadWgxaE1QZHhVcmptTUJoQTZUMWRHMkdjU1VLUTA5alYtWjRSQ2pIRDhSek5KVDBCT3UtdkxXV29pQQ?oc=5)
 
 2026-11-18 <span class="news-indication-tag">hepatitis</span>
 
 Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ETGpuRGtQZTFadWgxaE1QZHhVcmptTUJoQTZUMWRHMkdjU1VLUTA5alYtWjRSQ2pIRDhSek5KVDBCT3UtdkxXV29pQQ?oc=5)
-
----
-
-### [Alcobendas ofrece pruebas gratis para la prevención y diagnóstico precoz del VIH](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2VHc1pkdFFrTzcydXNxMm8zYmc5cFJlM2hYZ3RRWlVVQ3MwclNpeFBxcVNoTllYQlpSWldkZTlOM0pLc2FhUnFTR0V5MHB5QTdhb19aalZzX2NHZFREM1U1WkRCajgwLWY1U1Q5d1FhOW5IVVY1bXg1OEtvUW1ROHJsS1dycVpnSERUWGlqOG9GZWlTUnY0ekxXMFluSnUwSmfSAacBQVVfeXFMTWlaUEl6T0cwRk9OM0hvS290ZkduUWZDV0g0eUlCanBnS1NpcWFzRDJyWFRqLTZFVWxBcnYxTzd3WGJNU1RubmpJWDlYLUE5SGZUaUZVa2ljNGwzMWlOVE1mYkdDdHhHVlFtZ2RMU2ZEMlR3TjFac1ZkeG01ZmZ0Tm9WbldUSE1MYnJNRGxXY1BHN1JvZFEtRWIxTUZvUGZXRkJVZ05YOFk?oc=5)
-
-2026-11-17 <span class="news-indication-tag">hepatitis</span>
-
-Source: [Telemadrid](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2VHc1pkdFFrTzcydXNxMm8zYmc5cFJlM2hYZ3RRWlVVQ3MwclNpeFBxcVNoTllYQlpSWldkZTlOM0pLc2FhUnFTR0V5MHB5QTdhb19aalZzX2NHZFREM1U1WkRCajgwLWY1U1Q5d1FhOW5IVVY1bXg1OEtvUW1ROHJsS1dycVpnSERUWGlqOG9GZWlTUnY0ekxXMFluSnUwSmfSAacBQVVfeXFMTWlaUEl6T0cwRk9OM0hvS290ZkduUWZDV0g0eUlCanBnS1NpcWFzRDJyWFRqLTZFVWxBcnYxTzd3WGJNU1RubmpJWDlYLUE5SGZUaUZVa2ljNGwzMWlOVE1mYkdDdHhHVlFtZ2RMU2ZEMlR3TjFac1ZkeG01ZmZ0Tm9WbldUSE1MYnJNRGxXY1BHN1JvZFEtRWIxTUZvUGZXRkJVZ05YOFk?oc=5)
 
 ---
 

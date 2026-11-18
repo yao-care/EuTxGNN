@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>60 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>61 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (60)
+## Related News (61)
+
+### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
+
+2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
+
+---
 
 ### [Studie zeigt mögliche Risikofaktoren bei chronischer Hepatitis E: Erhöhtes Risiko für komplizierte Behandlungsverläufe - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ETGpuRGtQZTFadWgxaE1QZHhVcmptTUJoQTZUMWRHMkdjU1VLUTA5alYtWjRSQ2pIRDhSek5KVDBCT3UtdkxXV29pQQ?oc=5)
 
@@ -59,19 +67,19 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxP
 
 ---
 
-### [Alcobendas ofrece pruebas gratis para la prevención y diagnóstico precoz del VIH](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2VHc1pkdFFrTzcydXNxMm8zYmc5cFJlM2hYZ3RRWlVVQ3MwclNpeFBxcVNoTllYQlpSWldkZTlOM0pLc2FhUnFTR0V5MHB5QTdhb19aalZzX2NHZFREM1U1WkRCajgwLWY1U1Q5d1FhOW5IVVY1bXg1OEtvUW1ROHJsS1dycVpnSERUWGlqOG9GZWlTUnY0ekxXMFluSnUwSmfSAacBQVVfeXFMTWlaUEl6T0cwRk9OM0hvS290ZkduUWZDV0g0eUlCanBnS1NpcWFzRDJyWFRqLTZFVWxBcnYxTzd3WGJNU1RubmpJWDlYLUE5SGZUaUZVa2ljNGwzMWlOVE1mYkdDdHhHVlFtZ2RMU2ZEMlR3TjFac1ZkeG01ZmZ0Tm9WbldUSE1MYnJNRGxXY1BHN1JvZFEtRWIxTUZvUGZXRkJVZ05YOFk?oc=5)
-
-2026-11-17 <span class="news-indication-tag">hepatitis</span>
-
-Source: [Telemadrid](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2VHc1pkdFFrTzcydXNxMm8zYmc5cFJlM2hYZ3RRWlVVQ3MwclNpeFBxcVNoTllYQlpSWldkZTlOM0pLc2FhUnFTR0V5MHB5QTdhb19aalZzX2NHZFREM1U1WkRCajgwLWY1U1Q5d1FhOW5IVVY1bXg1OEtvUW1ROHJsS1dycVpnSERUWGlqOG9GZWlTUnY0ekxXMFluSnUwSmfSAacBQVVfeXFMTWlaUEl6T0cwRk9OM0hvS290ZkduUWZDV0g0eUlCanBnS1NpcWFzRDJyWFRqLTZFVWxBcnYxTzd3WGJNU1RubmpJWDlYLUE5SGZUaUZVa2ljNGwzMWlOVE1mYkdDdHhHVlFtZ2RMU2ZEMlR3TjFac1ZkeG01ZmZ0Tm9WbldUSE1MYnJNRGxXY1BHN1JvZFEtRWIxTUZvUGZXRkJVZ05YOFk?oc=5)
-
----
-
 ### [Los vecinos de Alcobendas podrán realizarse pruebas de VIH y otras infecciones de transmisión sexual durante la jornada del miércoles - Madrid Norte 24 horas](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRi10VUMtLW44amQ1QmlQTnBybVhnVkRKRkxURDl6eWJpaEtjTnJDSkg5Nk5YT1FubENwVnBlWVZYQU15UXBFTHplVk9sZWt4eWVpUG9YNVpLdkdTX0J1RlY1di1Lb2FIY2JIY1hHcFRiY19JOFJQY3BWQWwtZG5QVFB1bmljWlVjb1l6S0pnVW5rck8tNGFkRmtlWnZaRVRuaV9rNGQxZExrUmc2QTcyaVF0a2ZHMXY4XzdoY2JEWVE5aWk3Xy1MbEhsUWNTTGRiWS1lUGE0bnVHYzJIWV9VSW95dlhIUVhUdVpKX1EySUZlSjJpbW1xaWE5czd0T0xoMkdkZWh30gGLAkFVX3lxTE9EdEl2MHJxdy16YzJIZTU2bmhYOHREbk13R2o3VTlEMzBXenBqdExiTHR5czBpRW9CcnQ4S05ITXFUMUc2c3JDaFNWekdPREgzNUtickQ5WnlKU2M0QnV0SmU0cFFkVkNWbGpBcy1TZ2hJYS1PV0tULUYydGlpcnp4MGdMVVNSUFFjXzg5R1E5M0kyV2szaGNqWnRrVUg5SlQyb1ZrUlk3ejBkWWpNTy1mYUU5dEo0MHB1cnBRNHZRNWJTNFBwVFg2a1BJejNMS2VtaGQ2NDQ4MTdnLS1iQlVLY3hhamRIXzJ4Y0Nzb25nRkxFRkpUVFFhQ0dpcVhhS0Z4bjJFNHNrTTNESQ?oc=5)
 
 2026-11-17 <span class="news-indication-tag">hepatitis</span>
 
 Source: [Madrid Norte 24 horas](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRi10VUMtLW44amQ1QmlQTnBybVhnVkRKRkxURDl6eWJpaEtjTnJDSkg5Nk5YT1FubENwVnBlWVZYQU15UXBFTHplVk9sZWt4eWVpUG9YNVpLdkdTX0J1RlY1di1Lb2FIY2JIY1hHcFRiY19JOFJQY3BWQWwtZG5QVFB1bmljWlVjb1l6S0pnVW5rck8tNGFkRmtlWnZaRVRuaV9rNGQxZExrUmc2QTcyaVF0a2ZHMXY4XzdoY2JEWVE5aWk3Xy1MbEhsUWNTTGRiWS1lUGE0bnVHYzJIWV9VSW95dlhIUVhUdVpKX1EySUZlSjJpbW1xaWE5czd0T0xoMkdkZWh30gGLAkFVX3lxTE9EdEl2MHJxdy16YzJIZTU2bmhYOHREbk13R2o3VTlEMzBXenBqdExiTHR5czBpRW9CcnQ4S05ITXFUMUc2c3JDaFNWekdPREgzNUtickQ5WnlKU2M0QnV0SmU0cFFkVkNWbGpBcy1TZ2hJYS1PV0tULUYydGlpcnp4MGdMVVNSUFFjXzg5R1E5M0kyV2szaGNqWnRrVUg5SlQyb1ZrUlk3ejBkWWpNTy1mYUU5dEo0MHB1cnBRNHZRNWJTNFBwVFg2a1BJejNMS2VtaGQ2NDQ4MTdnLS1iQlVLY3hhamRIXzJ4Y0Nzb25nRkxFRkpUVFFhQ0dpcVhhS0Z4bjJFNHNrTTNESQ?oc=5)
+
+---
+
+### [Müssen Menschen mit hohem Cholesterinspiegel Eier vollständig aus ihrer Ernährung streichen?](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkNJYVdxdVFiZDcxZ3Y4bHNZUHhzSEplRU1TeWgyS2FYS2lEZDlrLWtOaUF4czl5S0F2R3A1YzBiYUprblltYVMzNVZ5cXFKZ3lQXzNpV2lBSzNhaF9Mb1BhYllvUEtGcnZaNFdrMFhOLV9raGxzZzlnSVhPYUVNQV9DUkpVcGFiS3hkY2NzMWRkS2s5a1M3a1loMFM?oc=5)
+
+2026-11-17 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkNJYVdxdVFiZDcxZ3Y4bHNZUHhzSEplRU1TeWgyS2FYS2lEZDlrLWtOaUF4czl5S0F2R3A1YzBiYUprblltYVMzNVZ5cXFKZ3lQXzNpV2lBSzNhaF9Mb1BhYllvUEtGcnZaNFdrMFhOLV9raGxzZzlnSVhPYUVNQV9DUkpVcGFiS3hkY2NzMWRkS2s5a1M3a1loMFM?oc=5)
 
 ---
 

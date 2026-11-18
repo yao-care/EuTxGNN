@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 51 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 53 articles, 55 related drugs."
 permalink: /news/hypertension/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>51 news articles</strong> and 55 related drugs.
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>53 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,13 +64,29 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (51)
+## Related News (53)
+
+### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
+
+2026-11-18
+
+Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
+
+---
 
 ### [Herz-Kreislauf-Erkrankungen bei Frauen: Menopausenbedingte Risikofaktoren im Blick behalten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
 
 2026-11-18
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+---
+
+### [Müssen Menschen mit hohem Cholesterinspiegel Eier vollständig aus ihrer Ernährung streichen?](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkNJYVdxdVFiZDcxZ3Y4bHNZUHhzSEplRU1TeWgyS2FYS2lEZDlrLWtOaUF4czl5S0F2R3A1YzBiYUprblltYVMzNVZ5cXFKZ3lQXzNpV2lBSzNhaF9Mb1BhYllvUEtGcnZaNFdrMFhOLV9raGxzZzlnSVhPYUVNQV9DUkpVcGFiS3hkY2NzMWRkS2s5a1M3a1loMFM?oc=5)
+
+2026-11-17
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkNJYVdxdVFiZDcxZ3Y4bHNZUHhzSEplRU1TeWgyS2FYS2lEZDlrLWtOaUF4czl5S0F2R3A1YzBiYUprblltYVMzNVZ5cXFKZ3lQXzNpV2lBSzNhaF9Mb1BhYllvUEtGcnZaNFdrMFhOLV9raGxzZzlnSVhPYUVNQV9DUkpVcGFiS3hkY2NzMWRkS2s5a1M3a1loMFM?oc=5)
 
 ---
 

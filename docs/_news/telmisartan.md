@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>162 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>170 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,47 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (162)
+## Related News (170)
+
+### [Suffering from migraines linked to an increased risk of deadly condition by the age of 60 - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
+
+2026-11-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
+
+---
+
+### [Reunión Anual SEN: La menopausia influye en la migraña, el riesgo de ictus y la salud cerebral - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1I4SkM2VlpacUJCU0tjNm00SncyYVFXWUJKOE80WFpzQ2FlenFQZlRHYWNiNkdueTJUdzVjdHBtdXo1Vkp3TzdHUzAyWnZ5YzJMZnpsbmMyM3BBUUtpRDRzMUttRjNrNXljMEl6RUducHF1VnU3ZmxTU1BVYU52ODNxNjEwUlJwYl9BamkwbEhUekpBd1ZMcjVFMXBUdDZzcHE5a3pjRGx0WkpIcVU2Uk5Wb2FjNW1YcWhv0gG2AUFVX3lxTE9zTk9VZDNBZXFEelY5emU4OVlTM19WYzV3MW4yRDJkV3ZOT21DM0xkNFgtNmowOUZoLXptV2tZMjYyWnBZZGlEYXZZTnR6Wnc2YkVmREtJc29wN1RXYS1OSzRwM3A3SHY4R1hxdUVRN1NDU09MdUo3bTFnTGFaaHJ3c0Y4R0hfNXRMWHpkdmxpZWFCLVZJM1JkbzVaWkNYNThxNHdnTlM1UWg2cUhnNHVzNXRwaWFR?oc=5)
+
+2026-11-18 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1I4SkM2VlpacUJCU0tjNm00SncyYVFXWUJKOE80WFpzQ2FlenFQZlRHYWNiNkdueTJUdzVjdHBtdXo1Vkp3TzdHUzAyWnZ5YzJMZnpsbmMyM3BBUUtpRDRzMUttRjNrNXljMEl6RUducHF1VnU3ZmxTU1BVYU52ODNxNjEwUlJwYl9BamkwbEhUekpBd1ZMcjVFMXBUdDZzcHE5a3pjRGx0WkpIcVU2Uk5Wb2FjNW1YcWhv0gG2AUFVX3lxTE9zTk9VZDNBZXFEelY5emU4OVlTM19WYzV3MW4yRDJkV3ZOT21DM0xkNFgtNmowOUZoLXptV2tZMjYyWnBZZGlEYXZZTnR6Wnc2YkVmREtJc29wN1RXYS1OSzRwM3A3SHY4R1hxdUVRN1NDU09MdUo3bTFnTGFaaHJ3c0Y4R0hfNXRMWHpkdmxpZWFCLVZJM1JkbzVaWkNYNThxNHdnTlM1UWg2cUhnNHVzNXRwaWFR?oc=5)
+
+---
+
+### [Los neurólogos alertan sobre un hábito muy español: “Cenar a partir de las nueve de la noche aumenta un 28% el riesgo de ictus”](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWERZZzM1RzBDcnFRbHNtajVLZzlkNlpJNHFoM0hVQ2NZcnNtYzdjcFFFNEJsSTVZZjRhZS13djJUUHo0WjR4NW5mZ2xhcG5oRk1wSFJtM0F0aHhMLS1nWVh4ZElEckI4dmhBdWRRVTZfNng2RTExQ3ZXeHM3NU15eko2RF90NVpYbWJadDEzS3R3bEtWb0JmdDUxSTRpV2JrVmNzS09MVFc1Zk9hQkR4aHZQcllXdzZoa3R0bW40d3h0cjdkMTE0dHZ4NUJENEw3LWtIU2RicW51dHFWaGdjNVU0cnlfRXN5YjRramE5QdIB9AFBVV95cUxNX2xDc0tuVjFNWVF4a1ZXMEJVeG83RkM3bmZBYURGaU91RUY3UTkyNXYxYzNhRWZSQ0JBQnJBYktUWkVwVUZ6TVdTUFI5Tks0SlN2d09QbFZWVnIxMXl5c3NEcDkzWkFBcTlGd3FKWFd2QmJKTlNYNE9RdS1malpaRThsSEZsVEJUcmRlV3VsdWhNWHdralJzaWxCV1pnbkRkcUxpbFdTZlBJOGhCczJSb1RBS3poZ3RhY0ZaeXJqUmNqRkN2MUJRd1VmbjVVY0ZLVDNpY21SbFRrV1k5NURpVnV1OU9Ja254YjFDbkV5dEZzTXVE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">ictus</span>
+
+Source: [CuídatePlus](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWERZZzM1RzBDcnFRbHNtajVLZzlkNlpJNHFoM0hVQ2NZcnNtYzdjcFFFNEJsSTVZZjRhZS13djJUUHo0WjR4NW5mZ2xhcG5oRk1wSFJtM0F0aHhMLS1nWVh4ZElEckI4dmhBdWRRVTZfNng2RTExQ3ZXeHM3NU15eko2RF90NVpYbWJadDEzS3R3bEtWb0JmdDUxSTRpV2JrVmNzS09MVFc1Zk9hQkR4aHZQcllXdzZoa3R0bW40d3h0cjdkMTE0dHZ4NUJENEw3LWtIU2RicW51dHFWaGdjNVU0cnlfRXN5YjRramE5QdIB9AFBVV95cUxNX2xDc0tuVjFNWVF4a1ZXMEJVeG83RkM3bmZBYURGaU91RUY3UTkyNXYxYzNhRWZSQ0JBQnJBYktUWkVwVUZ6TVdTUFI5Tks0SlN2d09QbFZWVnIxMXl5c3NEcDkzWkFBcTlGd3FKWFd2QmJKTlNYNE9RdS1malpaRThsSEZsVEJUcmRlV3VsdWhNWHdralJzaWxCV1pnbkRkcUxpbFdTZlBJOGhCczJSb1RBS3poZ3RhY0ZaeXJqUmNqRkN2MUJRd1VmbjVVY0ZLVDNpY21SbFRrV1k5NURpVnV1OU9Ja254YjFDbkV5dEZzTXVE?oc=5)
+
+---
+
+### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
+
+2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
+
+---
+
+### [El 20% de los ictus ya son en menores de 55 años, la mayoría por la mala alimentación y las adicciones](https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2RoNVdHMS04czY3eVVnWGZmX1EzSm9LNXh6NDlNYWNfUXNWZ2hMTjZ4M002N2U3TlVaQzIzdGlZNzdNQ0lmdjJBSElUbDR4LWtHeGdTWEJBVWEyVkNEeE9kZmxhSWhEdklXUWhYSmQ3bmNvQzh1c2l2d2pBdnh6M3E0cHNHVjlNaUZpdjNTU2Z4QXR0SWRocml3YzFlNnpYYVHSAacBQVVfeXFMTm5UdENPcUN1d3pXQzhha0VFTXVaMExkZ01Rc081elB1eXBjRFNXSGtmVmdBYnNGVXAxSkZUSFdMSDRkdnBwZk1LWE1kc3JUeWMzczJvOGZkLXRLY2JJQzFONGVaNDNQMHNQZnc4bHcyS0xqZjhsVEMwTThsVDg0RFBBNThzZmpJanFaSndXSkhUY25mQ0wxbkltWXpDc1FCVTJINXZrTlU?oc=5)
+
+2026-11-18 <span class="news-indication-tag">ictus</span>
+
+Source: [ABC](https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2RoNVdHMS04czY3eVVnWGZmX1EzSm9LNXh6NDlNYWNfUXNWZ2hMTjZ4M002N2U3TlVaQzIzdGlZNzdNQ0lmdjJBSElUbDR4LWtHeGdTWEJBVWEyVkNEeE9kZmxhSWhEdklXUWhYSmQ3bmNvQzh1c2l2d2pBdnh6M3E0cHNHVjlNaUZpdjNTU2Z4QXR0SWRocml3YzFlNnpYYVHSAacBQVVfeXFMTm5UdENPcUN1d3pXQzhha0VFTXVaMExkZ01Rc081elB1eXBjRFNXSGtmVmdBYnNGVXAxSkZUSFdMSDRkdnBwZk1LWE1kc3JUeWMzczJvOGZkLXRLY2JJQzFONGVaNDNQMHNQZnc4bHcyS0xqZjhsVEMwTThsVDg0RFBBNThzZmpJanFaSndXSkhUY25mQ0wxbkltWXpDc1FCVTJINXZrTlU?oc=5)
+
+---
 
 ### [Herz-Kreislauf-Erkrankungen bei Frauen: Menopausenbedingte Risikofaktoren im Blick behalten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
 
@@ -51,11 +91,27 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxP
 
 ---
 
+### [Colesterolo, gli over 50 lo controllano ma ignorano il rischio cardiovascolare](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUGxpeFpNblNWenlEWngyZjNNckZ0RjJEVnpSbUdBZDJIb0l0Tno5NHJ0cDg2eWRGc3k3eEJObGFnZGlLLThKd3pibW13YUQ1b1MySXZmeUhGeXlTSkJTXzF1T1E5RjRWN092ajNocWZUenBmSnN2SHFLOHFiTUZKRFdULW4xWXdzSHVGdXl4dnhLR3lIU0FvUi1XTlVTNzZtNDIwZTE5ak1pMnJneVJZU2RDc1paRGJSVDdPdjV5ZXVmVGtxWVpoenZWSTRaRWNkakxZ?oc=5)
+
+2026-11-17 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUGxpeFpNblNWenlEWngyZjNNckZ0RjJEVnpSbUdBZDJIb0l0Tno5NHJ0cDg2eWRGc3k3eEJObGFnZGlLLThKd3pibW13YUQ1b1MySXZmeUhGeXlTSkJTXzF1T1E5RjRWN092ajNocWZUenBmSnN2SHFLOHFiTUZKRFdULW4xWXdzSHVGdXl4dnhLR3lIU0FvUi1XTlVTNzZtNDIwZTE5ak1pMnJneVJZU2RDc1paRGJSVDdPdjV5ZXVmVGtxWVpoenZWSTRaRWNkakxZ?oc=5)
+
+---
+
 ### [¿La vacuna de la gripe puede ayudar a prevenir un infarto?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlpbjBjbFBNOEtYOFp5Q1pyT0NZQ0haLWw4X0Z2d0hmc054T3RLQzJNdEEzbkgtSk9WaTl6U0FnTXZleE12eE5walJvY05zeWNLZGF3U040S25CSUVTWDFIT09kemFFMXcyeVFTM3NVQzFkVkZYSEZrTUxiVmlvUGdDbGcyMFI3UlBfR3J3d3JlQThnek8yN0dZaG0yal9HLW9pcTE4WmZOeDk0SnZ4UXFmTVZRZDZfUElWR2ZyQ25JdS12OV93X2gwcHFVcGc?oc=5)
 
 2026-11-17 <span class="news-indication-tag">ictus</span>
 
 Source: [Univadis](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlpbjBjbFBNOEtYOFp5Q1pyT0NZQ0haLWw4X0Z2d0hmc054T3RLQzJNdEEzbkgtSk9WaTl6U0FnTXZleE12eE5walJvY05zeWNLZGF3U040S25CSUVTWDFIT09kemFFMXcyeVFTM3NVQzFkVkZYSEZrTUxiVmlvUGdDbGcyMFI3UlBfR3J3d3JlQThnek8yN0dZaG0yal9HLW9pcTE4WmZOeDk0SnZ4UXFmTVZRZDZfUElWR2ZyQ25JdS12OV93X2gwcHFVcGc?oc=5)
+
+---
+
+### [Müssen Menschen mit hohem Cholesterinspiegel Eier vollständig aus ihrer Ernährung streichen?](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkNJYVdxdVFiZDcxZ3Y4bHNZUHhzSEplRU1TeWgyS2FYS2lEZDlrLWtOaUF4czl5S0F2R3A1YzBiYUprblltYVMzNVZ5cXFKZ3lQXzNpV2lBSzNhaF9Mb1BhYllvUEtGcnZaNFdrMFhOLV9raGxzZzlnSVhPYUVNQV9DUkpVcGFiS3hkY2NzMWRkS2s5a1M3a1loMFM?oc=5)
+
+2026-11-17 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkNJYVdxdVFiZDcxZ3Y4bHNZUHhzSEplRU1TeWgyS2FYS2lEZDlrLWtOaUF4czl5S0F2R3A1YzBiYUprblltYVMzNVZ5cXFKZ3lQXzNpV2lBSzNhaF9Mb1BhYllvUEtGcnZaNFdrMFhOLV9raGxzZzlnSVhPYUVNQV9DUkpVcGFiS3hkY2NzMWRkS2s5a1M3a1loMFM?oc=5)
 
 ---
 
@@ -208,6 +264,14 @@ Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV9
 2026-11-13 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVl85RFdjUTA1YlVRVW84dDgzY0lnbjJwVDFaLXhfLVRUVmhJWTRrb2J3RGFZWHFOZnVIbWR2OXM3cEJZejFRNkhmWkYtd21hdFVjLUVwaEc2ZGdGOGdZMHNhT0x1TXFqNjVCYWdPWnNhWFgzaDdFanp6TGpXSW1hbG5nVVhabWZxbXRzdmcybjh1UGpHSjZORUhyTQ?oc=5)
+
+---
+
+### [„Die Patienten kannten im Durchschnitt nur drei Schlaganfallrisikofaktoren“ – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiggJBVV95cUxNVktLZXVEbkZDTENPemV1Ny0tNXBWZjdvSXpzamNPVjVxLVdSY1ZtMFdERmVDNC1lTzJSaENKUC00WnJkZV9mREZJeWF0UFdUWnBjLUdDTm5NY3B4ZUxteHRIS0lxazJsOTMzTThOaktfX21FaHE5VFpNOWRDVDZYUkZrT04yalBWbFpZNFpQWmIxVmxvR0hNVFdBbDFEZm40cURCc250M2JkX0ZyN08tRDNTUVpOYnAzNnExU0Rpb0VSbXhYdDRJNTV5bmFZemM0aU9DMGYzWkhmVV9MWkxBcFVrRHlHdmpLYjdjSWFKOVhtSXBQVjFOT213eVpEU1hoUXc?oc=5)
+
+2026-11-13 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiggJBVV95cUxNVktLZXVEbkZDTENPemV1Ny0tNXBWZjdvSXpzamNPVjVxLVdSY1ZtMFdERmVDNC1lTzJSaENKUC00WnJkZV9mREZJeWF0UFdUWnBjLUdDTm5NY3B4ZUxteHRIS0lxazJsOTMzTThOaktfX21FaHE5VFpNOWRDVDZYUkZrT04yalBWbFpZNFpQWmIxVmxvR0hNVFdBbDFEZm40cURCc250M2JkX0ZyN08tRDNTUVpOYnAzNnExU0Rpb0VSbXhYdDRJNTV5bmFZemM0aU9DMGYzWkhmVV9MWkxBcFVrRHlHdmpLYjdjSWFKOVhtSXBQVjFOT213eVpEU1hoUXc?oc=5)
 
 ---
 

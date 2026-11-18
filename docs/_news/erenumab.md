@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Erenumab. 0 predicted indications."
 permalink: /news/erenumab/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Erenumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Erenumab?">
-<strong>Erenumab</strong> currently has <strong>8 news articles</strong>, with 0 predicted indications.
+<strong>Erenumab</strong> currently has <strong>10 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Erenumab with the latest hea
 <p><a href="{{ '/drugs/erenumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (10)
+
+### [Suffering from migraines linked to an increased risk of deadly condition by the age of 60 - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
+
+2026-11-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
+
+---
+
+### [Reunión Anual SEN: La menopausia influye en la migraña, el riesgo de ictus y la salud cerebral - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1I4SkM2VlpacUJCU0tjNm00SncyYVFXWUJKOE80WFpzQ2FlenFQZlRHYWNiNkdueTJUdzVjdHBtdXo1Vkp3TzdHUzAyWnZ5YzJMZnpsbmMyM3BBUUtpRDRzMUttRjNrNXljMEl6RUducHF1VnU3ZmxTU1BVYU52ODNxNjEwUlJwYl9BamkwbEhUekpBd1ZMcjVFMXBUdDZzcHE5a3pjRGx0WkpIcVU2Uk5Wb2FjNW1YcWhv0gG2AUFVX3lxTE9zTk9VZDNBZXFEelY5emU4OVlTM19WYzV3MW4yRDJkV3ZOT21DM0xkNFgtNmowOUZoLXptV2tZMjYyWnBZZGlEYXZZTnR6Wnc2YkVmREtJc29wN1RXYS1OSzRwM3A3SHY4R1hxdUVRN1NDU09MdUo3bTFnTGFaaHJ3c0Y4R0hfNXRMWHpkdmxpZWFCLVZJM1JkbzVaWkNYNThxNHdnTlM1UWg2cUhnNHVzNXRwaWFR?oc=5)
+
+2026-11-18 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1I4SkM2VlpacUJCU0tjNm00SncyYVFXWUJKOE80WFpzQ2FlenFQZlRHYWNiNkdueTJUdzVjdHBtdXo1Vkp3TzdHUzAyWnZ5YzJMZnpsbmMyM3BBUUtpRDRzMUttRjNrNXljMEl6RUducHF1VnU3ZmxTU1BVYU52ODNxNjEwUlJwYl9BamkwbEhUekpBd1ZMcjVFMXBUdDZzcHE5a3pjRGx0WkpIcVU2Uk5Wb2FjNW1YcWhv0gG2AUFVX3lxTE9zTk9VZDNBZXFEelY5emU4OVlTM19WYzV3MW4yRDJkV3ZOT21DM0xkNFgtNmowOUZoLXptV2tZMjYyWnBZZGlEYXZZTnR6Wnc2YkVmREtJc29wN1RXYS1OSzRwM3A3SHY4R1hxdUVRN1NDU09MdUo3bTFnTGFaaHJ3c0Y4R0hfNXRMWHpkdmxpZWFCLVZJM1JkbzVaWkNYNThxNHdnTlM1UWg2cUhnNHVzNXRwaWFR?oc=5)
+
+---
 
 ### [Gli attacchi di emicrania ricorrenti sono in qualche modo collegati ai cicli lunari? - Corriere della Sera](https://news.google.com/rss/articles/CBMikwJBVV95cUxQZlE2UFpLeVhRVy1lbERQSFpsczN6Ym9BYXF3R1hpTEN1XzFnMC1HZEY5YUdrYkhWYjJ5NkZYTnh6V0VqMWk0SW5XY1h4RmpFTVVtWmlZR2Y5a2NBMDV4VW9vTWRmTEdNZDViUzZRbVhLMmVzLVJDMnpqYnQ1aWd2dmY0LUN4bnJ4WUhZbVpMVWlvNnFENlU0ZlEzMUJaWFZxb19QQmRBTkpQY25iaFN0MUtwcmN4MVhjdWwzMVNtQ3Y2SVljNUQxRXFnNC00TldpcDJNOU1USTZmTTlMVTN5azBFaFhCVkJnTXhMU2R1Nnd0TUtHYmF2R2N3NjBVbjBVZV9nVDlCSlZYTDQ4c1FvRExBONIBmAJBVV95cUxPdktVOWVDSHkyeVVlRVAwaDZrbHp5dFNucjJHeWFyQktxWXltUTNFcDc4TWJoVU83VFM4SVZrU0hMSFoxby02NTFNZ2MtXzItZkxhWmkwNnFQWTkyUkNaUV9JSEZ2V3FnTHNvQkFqVFBwUjE1TjlCVHlEQUd4bXZEX3FnSHI4MzM1UHFjZE9mbmVmZ3JKejRaVjh1MG91Vk44ZXZZMzVzRUlabUpFWHo5aDcta2pzVjhFdTFDZlhMVVZzbXhuc19sZTNybFQtektFb2czS3FxV1ZZWVc2N2VWNGFOY0dqRVJ0WWlERmhGR200RjFTY1NtUVd1VWs0OXVwa0pGSDQ4WVVXbWY3eGJjQVRSamh6ZFVh?oc=5)
 
