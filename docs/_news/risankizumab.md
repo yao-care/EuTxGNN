@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Risankizumab?">
-<strong>Risankizumab</strong> currently has <strong>260 news articles</strong>, with 10 predicted indications.
+<strong>Risankizumab</strong> currently has <strong>262 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Risankizumab with the latest
 <p><a href="{{ '/drugs/risankizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (260)
+## Related News (262)
+
+### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
+
+2026-11-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
+
+---
 
 ### [La inteligencia artificial permite identificar el riesgo de complicaciones renales y cardiacas en personas con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY0FiLVN5Z0s3SHEybFluRlE2SDFhYUJmTV95MXk2ejA0dS1CWE1BY1FDYlhYRmNveVRCYi16QldfZlRGT29vZGFDUjRfbG1wZXAzWFRic2FMUTI3bXJnZGcwTE51Z1l0NmJCVlhvb09WRERBU3puUVplVVZmT2hUV0wyN2hvYmE2blNJOTc1alY3OXk4T0ZhS2NuR01DdHNhMFVyVjluU2FNZFVrVnR0SlhkMGRoR0tUaGFXQW5fYkUtQk3SAb4BQVVfeXFMTnNQV1NoZmhNeGFiZXNWdGlCblVzYTBCbnRZakF5LUhVWXJZT1ZzMm5hX0Vwd3A2TmhyS0x3UUFta3BkcVRCU3IwRnh3ZXEyalFsVVh6VHMxQ1huRTBxYWRUZjBaazlfOW1JVWFLV0U1T08wenFLNDItUEFzWHA4OVpRWWdrS2FWV2JOdjBVUFhKb2tOeWZ2bVczbXNwY2lCcGdDZEFFUWVqbHBhdHQ0NEU4b1dYZFJCZkpCd3gxdw?oc=5)
 
@@ -78,7 +86,7 @@ Source: [Fusión Asturias](https://news.google.com/rss/articles/CBMisAFBVV95cUxP
 
 ### [Farmaci per diabetici e obesi per "perdere qualche chilo": stretta in arrivo sulle prescrizioni](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
-2026-11-17 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+2026-11-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [Tgcom24](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
@@ -497,6 +505,14 @@ Source: [France 3 Régions](https://news.google.com/rss/articles/CBMipAJBVV95cUx
 2026-11-14 <span class="news-indication-tag">diabetes</span>
 
 Source: [Antena 3 Noticias](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcFdSeVlPZzhMNUJiNk9JaThVMUgya3hHenloMUNVYWY5bDk2djhHM0JseE50Q1lqQWNRaDJSdXJubEZyeDVyYWduNzczaGJNN0NLdm9DOUY4YzQ5OUhVcWlzLXlCOG1VWGlhY2dROU5IcjNQaUVwdzZKXzdCaHh1V25DaVNCQ0lKX3ljdzR1blFldXF2RUVsa2JYTHYwUkp4dUIxaDMtOVMxY0VHeFRoNHo2WjdUNDg3UGF4YVZiZU11WVM0NEhYelIwN0NvdXp6M2fSAdIBQVVfeXFMTl93V0xXYU5HZjlodXdmVXlkSVE5d0JSMHNkeXNTZDVUOFJwbzZYX0YxdHlTSFZJX0cxSG45SXZmLVBxX2xTd3ByRFlHS0tkZWlDcEQ1TUFvVU5LVndVNUNoSlpTLTZDcnVCbDJQdUZOd2lkR2FnaWx5SlhDc204NUc3OTNUUm40Y1ZIenlBeWJrM3NmQUJxbHNVTklYWEc1QnhXMDZvQTdvaVhhSjZueTVLc3Z5WDdXbUZCV1JfdXlneXoxZklOV3Z5ZmhNVDR3UXBB?oc=5)
+
+---
+
+### [Glicemia alta: le micro-abitudini che molti hanno ma possono rivelarsi pericolose - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRGRWSkhMR3Fld19wM1BUakFzMzh1bWxoYUtqUHBRNUhiR2dqd3VBdWdWZ1ZBb183ZHFXSVk2SGdVVEpiYzJMRndBd1hTZXo1RHhUSFAzRGQ2VFp2YUZnU0s3ZmttVU0tdHIwbXJUTVVkZm9rT0tNUTdyUFQ5Z2hIcGtYZEc4bS1pRXpNY1VZWmRwd2lxLWNPZkdHbjh0cWZzSEhGd2t4ako0RURJNUdJYS04SFA1YVpRUl9ZbG5tTlBnQ3c1eGVVQUpINm8wMVhpSXZNeEF6QdIBwgFBVV95cUxOdUNLVjczMjllT0VQeXNmb1pnLTJOV0ZzU2FvSFo1Z3I0QVF1QUtXTkNULWVWZDNjekxPenN0cjlyVU9fV0RsN2RCNDJUOGtxbG5yUW5pZ2hzMHYzbFR0bmd2X09CbVc1VkUxOFNaVnR2Wi1OWENqbmRNb3dfZ1dFdFJabDFnQ09xejE0NDdudl9GR3RoRlQtTzJnS2hRTkRxeUUtRWlUZjR6SnZmTzJsUXd0N014RnFrcWFwUDhkbHctUQ?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetic</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRGRWSkhMR3Fld19wM1BUakFzMzh1bWxoYUtqUHBRNUhiR2dqd3VBdWdWZ1ZBb183ZHFXSVk2SGdVVEpiYzJMRndBd1hTZXo1RHhUSFAzRGQ2VFp2YUZnU0s3ZmttVU0tdHIwbXJUTVVkZm9rT0tNUTdyUFQ5Z2hIcGtYZEc4bS1pRXpNY1VZWmRwd2lxLWNPZkdHbjh0cWZzSEhGd2t4ako0RURJNUdJYS04SFA1YVpRUl9ZbG5tTlBnQ3c1eGVVQUpINm8wMVhpSXZNeEF6QdIBwgFBVV95cUxOdUNLVjczMjllT0VQeXNmb1pnLTJOV0ZzU2FvSFo1Z3I0QVF1QUtXTkNULWVWZDNjekxPenN0cjlyVU9fV0RsN2RCNDJUOGtxbG5yUW5pZ2hzMHYzbFR0bmd2X09CbVc1VkUxOFNaVnR2Wi1OWENqbmRNb3dfZ1dFdFJabDFnQ09xejE0NDdudl9GR3RoRlQtTzJnS2hRTkRxeUUtRWlUZjR6SnZmTzJsUXd0N014RnFrcWFwUDhkbHctUQ?oc=5)
 
 ---
 

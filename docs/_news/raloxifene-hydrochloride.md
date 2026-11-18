@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>105 news articles</strong>, with 0 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>104 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <p><a href="{{ '/drugs/raloxifene/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (105)
+## Related News (104)
 
 ### [¿La vacuna de la gripe puede ayudar a prevenir un infarto?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlpbjBjbFBNOEtYOFp5Q1pyT0NZQ0haLWw4X0Z2d0hmc054T3RLQzJNdEEzbkgtSk9WaTl6U0FnTXZleE12eE5walJvY05zeWNLZGF3U040S25CSUVTWDFIT09kemFFMXcyeVFTM3NVQzFkVkZYSEZrTUxiVmlvUGdDbGcyMFI3UlBfR3J3d3JlQThnek8yN0dZaG0yal9HLW9pcTE4WmZOeDk0SnZ4UXFmTVZRZDZfUElWR2ZyQ25JdS12OV93X2gwcHFVcGc?oc=5)
 
@@ -52,14 +52,6 @@ Source: [Open](https://news.google.com/rss/articles/CBMigAFBVV95cUxNUThaYlZlRzB3
 2026-11-16 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdldXOFhnRTVFT0RINTczLWoteDNJbHZTcFlXeFhuMTh5eEl5WWtibzN4SS10X1Z5SThUZGxwY1NBUWE5R3lOWWdpRHI3MUU1ZXRNeXhwTDl3X0NYcER3cUZYZGwzdzNvRHFZRnZtcG9mTE0tbGd6bWtVNGUxTW1oYnBqZHNzc1IxUHRiaWZFMkQtZlZhSUQxMmRTZVVlcmtOeDBkQWU4ZUFiU04tWEFtM1BzeUF0WFNSMUVadUk3YXRRMFJ5S3VFQTlqaGtwa3cwRFlnQ3RUOEVzcVRx?oc=5)
-
----
-
-### [I’m a doctor and I take statins. There’s just one reason I may stop - The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkpRNWJNa2tlbDZlTkROMDltTVAxbGVOc3pUUk5VRk8wMHdFMVAyYS1mY1hMd3ZIeVRWOWFuZDBEYXlkT3JTdVBCZ0dBc3NpM3pCRDJxbXRXM3RoN3hNMlI0MDJ1LVlKS0J3QmZmX0tsdGlURldObmkzS1p4LXJoTkRDaTBWRWJYVWV5UDZLRFZmaDRqc0RoOFEwR2x2akpkM2ViYQ?oc=5)
-
-2026-11-16 <span class="news-indication-tag">stroke</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkpRNWJNa2tlbDZlTkROMDltTVAxbGVOc3pUUk5VRk8wMHdFMVAyYS1mY1hMd3ZIeVRWOWFuZDBEYXlkT3JTdVBCZ0dBc3NpM3pCRDJxbXRXM3RoN3hNMlI0MDJ1LVlKS0J3QmZmX0tsdGlURldObmkzS1p4LXJoTkRDaTBWRWJYVWV5UDZLRFZmaDRqc0RoOFEwR2x2akpkM2ViYQ?oc=5)
 
 ---
 
@@ -151,11 +143,11 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95c
 
 ---
 
-### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
 
 2026-11-14 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
 
 ---
 

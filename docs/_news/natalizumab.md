@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Natalizumab?">
-<strong>Natalizumab</strong> currently has <strong>273 news articles</strong>, with 5 predicted indications.
+<strong>Natalizumab</strong> currently has <strong>277 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,31 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (273)
+## Related News (277)
+
+### [Diagnóstico tardío de la EPOC en España - Somos Pacientes](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUF9fV0VBSmUyeGxCVzhnZ3ZXLXRnam9aZXNYN1FrWDIxLUFqWEFDRTRQZ3hpNzJLV1ByRVpmWkRuM25ENm1xSGd2NTNGaUp1emJoTU51LVhrM3kwX21kbzcwMzRrSEFxbncwR0x2TGRzb1FYcjU2RG91eTdhel9iQWZJaE9rcjFfNGJZQktBT0dvcWJUQm4tYUpFMGJ6ZWVZSFp5NldMMDAzWVZ1cGEySGhKU3BGbFNIYjM3M3Vta1F0ZTVIRkVfeWRTWXF1MDFFWHhyTk5maG5Dc2dGdEZFbWRuUmdIMzg?oc=5)
+
+2026-11-18 <span class="news-indication-tag">EPOC</span>
+
+Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUF9fV0VBSmUyeGxCVzhnZ3ZXLXRnam9aZXNYN1FrWDIxLUFqWEFDRTRQZ3hpNzJLV1ByRVpmWkRuM25ENm1xSGd2NTNGaUp1emJoTU51LVhrM3kwX21kbzcwMzRrSEFxbncwR0x2TGRzb1FYcjU2RG91eTdhel9iQWZJaE9rcjFfNGJZQktBT0dvcWJUQm4tYUpFMGJ6ZWVZSFp5NldMMDAzWVZ1cGEySGhKU3BGbFNIYjM3M3Vta1F0ZTVIRkVfeWRTWXF1MDFFWHhyTk5maG5Dc2dGdEZFbWRuUmdIMzg?oc=5)
+
+---
+
+### [Fomentar la autonomía, una de las claves para frenar el deterioro en personas con EPOC](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHRMSkVKZ3dsYzlZTThhVmZ0bm5CSG5NcUpiOHFBaDd6OTVkbkNyekh6dzhJQWlQVDhxZDJzVmVsT1hoM1F1ZUlRSzJWdDNVWFRDSU02ZENKSUFjaVoxU0hfZWxzY2tzUjBhNzFidzFWSVZDVTJCYlpneEdoRWFjYkptTG1DZndmZWZlT2FUcWgzX1Q3ZzdPUHAwb0ZNZTlkRU1HeEFGVU45UE16cVJIaUlPV1lfbkU?oc=5)
+
+2026-11-18 <span class="news-indication-tag">EPOC</span>
+
+Source: [EntreMayores](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHRMSkVKZ3dsYzlZTThhVmZ0bm5CSG5NcUpiOHFBaDd6OTVkbkNyekh6dzhJQWlQVDhxZDJzVmVsT1hoM1F1ZUlRSzJWdDNVWFRDSU02ZENKSUFjaVoxU0hfZWxzY2tzUjBhNzFidzFWSVZDVTJCYlpneEdoRWFjYkptTG1DZndmZWZlT2FUcWgzX1Q3ZzdPUHAwb0ZNZTlkRU1HeEFGVU45UE16cVJIaUlPV1lfbkU?oc=5)
+
+---
+
+### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
+
+2026-11-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
+
+---
 
 ### [“Se desperdician ocasiones de diagnóstico precoz en epoc”](https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0gzZ0ZFeXN6ZTFKVk1uOWFpM0ZmMWJ0NXpRWjRJdGNnbTVKYlNlMzdIaHV5ajJ3NU02UkN6OWpYWHR3ZVJWUkY3OGJrMWxLUGdqNUZLS0VCQ1NYaGVzWk1TeS1xUE43dzJ4N1NDUnNSUmlLRU9nQmxNRUQ4dWhTVm9MaGN2cDFpSTZwbw?oc=5)
 
@@ -81,7 +105,7 @@ Source: [Fusión Asturias](https://news.google.com/rss/articles/CBMisAFBVV95cUxP
 
 ### [Farmaci per diabetici e obesi per "perdere qualche chilo": stretta in arrivo sulle prescrizioni](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
-2026-11-17 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+2026-11-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [Tgcom24](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
@@ -500,6 +524,14 @@ Source: [France 3 Régions](https://news.google.com/rss/articles/CBMipAJBVV95cUx
 2026-11-14 <span class="news-indication-tag">diabetes</span>
 
 Source: [Antena 3 Noticias](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcFdSeVlPZzhMNUJiNk9JaThVMUgya3hHenloMUNVYWY5bDk2djhHM0JseE50Q1lqQWNRaDJSdXJubEZyeDVyYWduNzczaGJNN0NLdm9DOUY4YzQ5OUhVcWlzLXlCOG1VWGlhY2dROU5IcjNQaUVwdzZKXzdCaHh1V25DaVNCQ0lKX3ljdzR1blFldXF2RUVsa2JYTHYwUkp4dUIxaDMtOVMxY0VHeFRoNHo2WjdUNDg3UGF4YVZiZU11WVM0NEhYelIwN0NvdXp6M2fSAdIBQVVfeXFMTl93V0xXYU5HZjlodXdmVXlkSVE5d0JSMHNkeXNTZDVUOFJwbzZYX0YxdHlTSFZJX0cxSG45SXZmLVBxX2xTd3ByRFlHS0tkZWlDcEQ1TUFvVU5LVndVNUNoSlpTLTZDcnVCbDJQdUZOd2lkR2FnaWx5SlhDc204NUc3OTNUUm40Y1ZIenlBeWJrM3NmQUJxbHNVTklYWEc1QnhXMDZvQTdvaVhhSjZueTVLc3Z5WDdXbUZCV1JfdXlneXoxZklOV3Z5ZmhNVDR3UXBB?oc=5)
+
+---
+
+### [Glicemia alta: le micro-abitudini che molti hanno ma possono rivelarsi pericolose - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRGRWSkhMR3Fld19wM1BUakFzMzh1bWxoYUtqUHBRNUhiR2dqd3VBdWdWZ1ZBb183ZHFXSVk2SGdVVEpiYzJMRndBd1hTZXo1RHhUSFAzRGQ2VFp2YUZnU0s3ZmttVU0tdHIwbXJUTVVkZm9rT0tNUTdyUFQ5Z2hIcGtYZEc4bS1pRXpNY1VZWmRwd2lxLWNPZkdHbjh0cWZzSEhGd2t4ako0RURJNUdJYS04SFA1YVpRUl9ZbG5tTlBnQ3c1eGVVQUpINm8wMVhpSXZNeEF6QdIBwgFBVV95cUxOdUNLVjczMjllT0VQeXNmb1pnLTJOV0ZzU2FvSFo1Z3I0QVF1QUtXTkNULWVWZDNjekxPenN0cjlyVU9fV0RsN2RCNDJUOGtxbG5yUW5pZ2hzMHYzbFR0bmd2X09CbVc1VkUxOFNaVnR2Wi1OWENqbmRNb3dfZ1dFdFJabDFnQ09xejE0NDdudl9GR3RoRlQtTzJnS2hRTkRxeUUtRWlUZjR6SnZmTzJsUXd0N014RnFrcWFwUDhkbHctUQ?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetic</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRGRWSkhMR3Fld19wM1BUakFzMzh1bWxoYUtqUHBRNUhiR2dqd3VBdWdWZ1ZBb183ZHFXSVk2SGdVVEpiYzJMRndBd1hTZXo1RHhUSFAzRGQ2VFp2YUZnU0s3ZmttVU0tdHIwbXJUTVVkZm9rT0tNUTdyUFQ5Z2hIcGtYZEc4bS1pRXpNY1VZWmRwd2lxLWNPZkdHbjh0cWZzSEhGd2t4ako0RURJNUdJYS04SFA1YVpRUl9ZbG5tTlBnQ3c1eGVVQUpINm8wMVhpSXZNeEF6QdIBwgFBVV95cUxOdUNLVjczMjllT0VQeXNmb1pnLTJOV0ZzU2FvSFo1Z3I0QVF1QUtXTkNULWVWZDNjekxPenN0cjlyVU9fV0RsN2RCNDJUOGtxbG5yUW5pZ2hzMHYzbFR0bmd2X09CbVc1VkUxOFNaVnR2Wi1OWENqbmRNb3dfZ1dFdFJabDFnQ09xejE0NDdudl9GR3RoRlQtTzJnS2hRTkRxeUUtRWlUZjR6SnZmTzJsUXd0N014RnFrcWFwUDhkbHctUQ?oc=5)
 
 ---
 

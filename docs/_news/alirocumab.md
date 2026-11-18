@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Alirocumab. 10 predicted indications."
 permalink: /news/alirocumab/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-18
 ---
 
 # Alirocumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>14 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### ['First of its kind' dialysis research could have global implications](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FWVdjd0o1M3ZZRmc0T1RZN2NveEtfUTVvT0lSOGtiQy0yMkpROG9fay1UbGtnOEdiZ0V0WmdNVWVpdTRtSWtEQTJIS1lFeHR4ZGpnOHlkd096UXkzSWc?oc=5)
+
+2026-11-18 <span class="news-indication-tag">kidney failure</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FWVdjd0o1M3ZZRmc0T1RZN2NveEtfUTVvT0lSOGtiQy0yMkpROG9fay1UbGtnOEdiZ0V0WmdNVWVpdTRtSWtEQTJIS1lFeHR4ZGpnOHlkd096UXkzSWc?oc=5)
+
+---
 
 ### [ISHCEMIA-CKD EXTEND: Invasive Eingriffe bringen bei CKD keine Überlebensvorteile - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUzdFZE9WS1duNm1tV1I1VHI3UnBYY1ZSbVN0OWxLRkpabVhOUElGU2hjNDNhcW5idUVaQUZ0X19CcUJhcTgzZFlOQ0hyYlNQQkxBNmRpN0FaVHZZcEIyMjlmYUlCYV9KY29ZU3VGcFp1bUVmSDgtWVNPazZKNlRIbW44Y2ZSaUQzZDRpY015Wm1tRllrcU9qQWQ3aVBLOE56dEk5MDJ3YW50S2d4RzI4dnhR?oc=5)
 

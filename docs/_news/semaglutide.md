@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Semaglutide. 0 predicted indications."
 permalink: /news/semaglutide/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Semaglutide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>60 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>61 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (60)
+## Related News (61)
+
+### [Farmaci per diabetici e obesi per "perdere qualche chilo": stretta in arrivo sulle prescrizioni](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
+
+2026-11-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [Tgcom24](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
+
+---
 
 ### [Il richiamo dell'Ordine dei farmacisti sulla prescrizione del Mounjaro: quando un farmaco diventa prodotto di consumo - Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
 

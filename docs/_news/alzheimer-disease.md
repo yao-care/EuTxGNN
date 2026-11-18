@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 46 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 48 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>46 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>48 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,29 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (46)
+## Related News (48)
+
+### [Being unhappily married increases dementia risk by a third - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0tvQTJDU09XX0dNRy0wb3NpdEZySFUyX3FCa0s4aUtFZ2xGOUVmVnE0OEt5Y1hFc1U2UXg0LWNEYmJhdzN1bG1zbHNGYkdURkNWMWUxOWVHSXMybGVXd1NzWmFWWjBaLUZNZ3NzTExOSnhkTTE1OFNsVnZ1WEdXczd1VTQ3OVdsdXBFdzg5MWVBU3VhQlN2cEdhbDN3Ri1kdS1j?oc=5)
+
+2026-11-18
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0tvQTJDU09XX0dNRy0wb3NpdEZySFUyX3FCa0s4aUtFZ2xGOUVmVnE0OEt5Y1hFc1U2UXg0LWNEYmJhdzN1bG1zbHNGYkdURkNWMWUxOWVHSXMybGVXd1NzWmFWWjBaLUZNZ3NzTExOSnhkTTE1OFNsVnZ1WEdXczd1VTQ3OVdsdXBFdzg5MWVBU3VhQlN2cEdhbDN3Ri1kdS1j?oc=5)
+
+---
 
 ### [Shingles vaccine cuts dementia risk by up to 40pc, study finds - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxORmNBdzdMLWhFck9DTlJvdFFfWWxxR2RDd09OQ3BkN0lfSEhLcFBZWW1wOWhqU2ZzWlE3VjlkSkIwb0pOeE0zTlBtMEpxUm5wX00zVENiRHF6NUJUZW5QeFNjUGVYVWl6VWs5T3dBclhrMWRrd2xSUm1UZno5Zm9VdE9kbkFJOVZCQlFNaFdJbkVvZ2Zkc0ZkZ3hmYmJURmpFWWxvdV9ZSQ?oc=5)
 
 2026-11-17
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxORmNBdzdMLWhFck9DTlJvdFFfWWxxR2RDd09OQ3BkN0lfSEhLcFBZWW1wOWhqU2ZzWlE3VjlkSkIwb0pOeE0zTlBtMEpxUm5wX00zVENiRHF6NUJUZW5QeFNjUGVYVWl6VWs5T3dBclhrMWRrd2xSUm1UZno5Zm9VdE9kbkFJOVZCQlFNaFdJbkVvZ2Zkc0ZkZ3hmYmJURmpFWWxvdV9ZSQ?oc=5)
+
+---
+
+### [The time of day you shouldn't nap - it's linked to 30% higher risk of death - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmN2d0VYSzRUSlZQRENLbm5YWmFfYWJzRnpsOVpIS0s1RWdZLTZZdnU1MDlPNW9NdVgxVVVrUE44QURYbEdCZGJQUndLQ1hVb2I1YmlsY0p5UzNKeS1LdnNtaDRPV0NFMWN3YUZFa0NheHJJRTVjdjVGRElGQkM3R3duOUFyMEdzS2lScWRvX0VvZw?oc=5)
+
+2026-11-17
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmN2d0VYSzRUSlZQRENLbm5YWmFfYWJzRnpsOVpIS0s1RWdZLTZZdnU1MDlPNW9NdVgxVVVrUE44QURYbEdCZGJQUndLQ1hVb2I1YmlsY0p5UzNKeS1LdnNtaDRPV0NFMWN3YUZFa0NheHJJRTVjdjVGRElGQkM3R3duOUFyMEdzS2lScWRvX0VvZw?oc=5)
 
 ---
 

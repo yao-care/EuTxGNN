@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Erdafitinib?">
-<strong>Erdafitinib</strong> currently has <strong>86 news articles</strong>, with 6 predicted indications.
+<strong>Erdafitinib</strong> currently has <strong>88 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,23 @@ This page combines the AI-predicted indications for Erdafitinib with the latest 
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (86)
+## Related News (88)
+
+### [Un bulo de TikTok en EE.UU. sugiere tomar un fármaco contra un cáncer para ser más alto - La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnRpLUNTcWdHZTY1MUk2MGthbDI3X01uVXBtbmd4Q1FBUmc3T004Y0ZNSnppT25BejFiRlNPc2VoekpwZXFqY1hma1hRQUhJZ2Jvb050OHFHWjQwS25iOUNQc3dlYkNNM0dOZ2Q2NVhiZTlkZy1iOS0yeWVfWHpWNTdkSDc3dzY5ZzNTeFZDQTJBdE13NUpxSjlIU01vZlU0QWRWMUpQNjZERkxzTW50Tzln0gG3AUFVX3lxTE5FWHhOZkZZck92MjFJSXdEc3E5YXBXdkxwQVNDMmdJejV2eEZJV0JlZWlhU0JQejRVSU9DTUE2MEwwQkVKeEhvOVh1ZU56T2JWdnduRUtaSWdjSTBRZDd3OUw1UDM1ZXlldTdNUWt3X3pXYlBKajNYakpvYUxvODJmNWx6VVlGSFBLRTduMUdsdEw4VkgteHd5aUNzV0ZyR3oyZ3YzbnlkaUxsdUE3NmZ2YUNIN1ducw?oc=5)
+
+2026-11-18 <span class="news-drug-tag">Erdafitinib</span>
+
+Source: [La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnRpLUNTcWdHZTY1MUk2MGthbDI3X01uVXBtbmd4Q1FBUmc3T004Y0ZNSnppT25BejFiRlNPc2VoekpwZXFqY1hma1hRQUhJZ2Jvb050OHFHWjQwS25iOUNQc3dlYkNNM0dOZ2Q2NVhiZTlkZy1iOS0yeWVfWHpWNTdkSDc3dzY5ZzNTeFZDQTJBdE13NUpxSjlIU01vZlU0QWRWMUpQNjZERkxzTW50Tzln0gG3AUFVX3lxTE5FWHhOZkZZck92MjFJSXdEc3E5YXBXdkxwQVNDMmdJejV2eEZJV0JlZWlhU0JQejRVSU9DTUE2MEwwQkVKeEhvOVh1ZU56T2JWdnduRUtaSWdjSTBRZDd3OUw1UDM1ZXlldTdNUWt3X3pXYlBKajNYakpvYUxvODJmNWx6VVlGSFBLRTduMUdsdEw4VkgteHd5aUNzV0ZyR3oyZ3YzbnlkaUxsdUE3NmZ2YUNIN1ducw?oc=5)
+
+---
+
+### [Herz-Kreislauf-Erkrankungen bei Frauen: Menopausenbedingte Risikofaktoren im Blick behalten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+---
 
 ### [Qué es el erdafitinib, el medicamento viral contra el cáncer que algunos jóvenes utilizan para 'ganar altura': estos son sus riesgos - Diario de Sevilla](https://news.google.com/rss/articles/CBMizAFBVV95cUxOT040S1NHQkZQUUxZUzU3ZHEzS2dvcWVMTndOdDhQYnNqenhHcHpQUlR6Uzg1VEx2Nk1KVmFTOXdQU0hTX2szcDcyWUNIT0g0cUxNM2M3d2hncTNjZll0LVlkQ0VjWTE2U0RHS2d5X0pIRFYtT3Q2eHEzSHhWemppQ2k2LXFpQlhmc2M3d1ZGSmtWS0VBRnctZDJuQWxjYW9NUjN3RGJ6UTc2cHZFZTE2TjJkUHM3RU5IQl9SMEJOQkhxY2NvVnlNYmRfMTTSAdIBQVVfeXFMUFFfOFUzeWt3UVNGTTJndlRfWERYZTQ5TEs2SlZkSFhSd1dFdnQyN29tZzN3S0VHWTNtckQ0M1p0Q2s1ZXJxZmExZmtaWlFVa244NkdtRFNYeEpzcVFQMlJjYW1pN3JDRHEzQXJMUUs1a25hOTQxeGVZVkllMWFfWEREcW1CN1I1WjhDX2g5U2Rob2Q2LS0zSmhRQ2pTN291RmVLR2UyOUlWTVlOV0NLaG1rTHV0WDJnNTdXa0NHME9JRWV5Y3FpZ3E3MWZIV0xidDB3?oc=5)
 

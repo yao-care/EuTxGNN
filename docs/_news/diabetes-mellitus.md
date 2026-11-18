@@ -3,7 +3,7 @@ layout: default
 title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 249 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 251 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>249 news articles</strong> and 86 related drugs.
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>251 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -65,7 +65,15 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (249)
+## Related News (251)
+
+### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
+
+2026-11-18
+
+Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
+
+---
 
 ### [La inteligencia artificial permite identificar el riesgo de complicaciones renales y cardiacas en personas con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY0FiLVN5Z0s3SHEybFluRlE2SDFhYUJmTV95MXk2ejA0dS1CWE1BY1FDYlhYRmNveVRCYi16QldfZlRGT29vZGFDUjRfbG1wZXAzWFRic2FMUTI3bXJnZGcwTE51Z1l0NmJCVlhvb09WRERBU3puUVplVVZmT2hUV0wyN2hvYmE2blNJOTc1alY3OXk4T0ZhS2NuR01DdHNhMFVyVjluU2FNZFVrVnR0SlhkMGRoR0tUaGFXQW5fYkUtQk3SAb4BQVVfeXFMTnNQV1NoZmhNeGFiZXNWdGlCblVzYTBCbnRZakF5LUhVWXJZT1ZzMm5hX0Vwd3A2TmhyS0x3UUFta3BkcVRCU3IwRnh3ZXEyalFsVVh6VHMxQ1huRTBxYWRUZjBaazlfOW1JVWFLV0U1T08wenFLNDItUEFzWHA4OVpRWWdrS2FWV2JOdjBVUFhKb2tOeWZ2bVczbXNwY2lCcGdDZEFFUWVqbHBhdHQ0NEU4b1dYZFJCZkpCd3gxdw?oc=5)
 
@@ -496,6 +504,14 @@ Source: [France 3 Régions](https://news.google.com/rss/articles/CBMipAJBVV95cUx
 2026-11-14
 
 Source: [Antena 3 Noticias](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcFdSeVlPZzhMNUJiNk9JaThVMUgya3hHenloMUNVYWY5bDk2djhHM0JseE50Q1lqQWNRaDJSdXJubEZyeDVyYWduNzczaGJNN0NLdm9DOUY4YzQ5OUhVcWlzLXlCOG1VWGlhY2dROU5IcjNQaUVwdzZKXzdCaHh1V25DaVNCQ0lKX3ljdzR1blFldXF2RUVsa2JYTHYwUkp4dUIxaDMtOVMxY0VHeFRoNHo2WjdUNDg3UGF4YVZiZU11WVM0NEhYelIwN0NvdXp6M2fSAdIBQVVfeXFMTl93V0xXYU5HZjlodXdmVXlkSVE5d0JSMHNkeXNTZDVUOFJwbzZYX0YxdHlTSFZJX0cxSG45SXZmLVBxX2xTd3ByRFlHS0tkZWlDcEQ1TUFvVU5LVndVNUNoSlpTLTZDcnVCbDJQdUZOd2lkR2FnaWx5SlhDc204NUc3OTNUUm40Y1ZIenlBeWJrM3NmQUJxbHNVTklYWEc1QnhXMDZvQTdvaVhhSjZueTVLc3Z5WDdXbUZCV1JfdXlneXoxZklOV3Z5ZmhNVDR3UXBB?oc=5)
+
+---
+
+### [Glicemia alta: le micro-abitudini che molti hanno ma possono rivelarsi pericolose - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRGRWSkhMR3Fld19wM1BUakFzMzh1bWxoYUtqUHBRNUhiR2dqd3VBdWdWZ1ZBb183ZHFXSVk2SGdVVEpiYzJMRndBd1hTZXo1RHhUSFAzRGQ2VFp2YUZnU0s3ZmttVU0tdHIwbXJUTVVkZm9rT0tNUTdyUFQ5Z2hIcGtYZEc4bS1pRXpNY1VZWmRwd2lxLWNPZkdHbjh0cWZzSEhGd2t4ako0RURJNUdJYS04SFA1YVpRUl9ZbG5tTlBnQ3c1eGVVQUpINm8wMVhpSXZNeEF6QdIBwgFBVV95cUxOdUNLVjczMjllT0VQeXNmb1pnLTJOV0ZzU2FvSFo1Z3I0QVF1QUtXTkNULWVWZDNjekxPenN0cjlyVU9fV0RsN2RCNDJUOGtxbG5yUW5pZ2hzMHYzbFR0bmd2X09CbVc1VkUxOFNaVnR2Wi1OWENqbmRNb3dfZ1dFdFJabDFnQ09xejE0NDdudl9GR3RoRlQtTzJnS2hRTkRxeUUtRWlUZjR6SnZmTzJsUXd0N014RnFrcWFwUDhkbHctUQ?oc=5)
+
+2026-11-14
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRGRWSkhMR3Fld19wM1BUakFzMzh1bWxoYUtqUHBRNUhiR2dqd3VBdWdWZ1ZBb183ZHFXSVk2SGdVVEpiYzJMRndBd1hTZXo1RHhUSFAzRGQ2VFp2YUZnU0s3ZmttVU0tdHIwbXJUTVVkZm9rT0tNUTdyUFQ5Z2hIcGtYZEc4bS1pRXpNY1VZWmRwd2lxLWNPZkdHbjh0cWZzSEhGd2t4ako0RURJNUdJYS04SFA1YVpRUl9ZbG5tTlBnQ3c1eGVVQUpINm8wMVhpSXZNeEF6QdIBwgFBVV95cUxOdUNLVjczMjllT0VQeXNmb1pnLTJOV0ZzU2FvSFo1Z3I0QVF1QUtXTkNULWVWZDNjekxPenN0cjlyVU9fV0RsN2RCNDJUOGtxbG5yUW5pZ2hzMHYzbFR0bmd2X09CbVc1VkUxOFNaVnR2Wi1OWENqbmRNb3dfZ1dFdFJabDFnQ09xejE0NDdudl9GR3RoRlQtTzJnS2hRTkRxeUUtRWlUZjR6SnZmTzJsUXd0N014RnFrcWFwUDhkbHctUQ?oc=5)
 
 ---
 

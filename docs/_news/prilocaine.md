@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Prilocaine?">
-<strong>Prilocaine</strong> currently has <strong>39 news articles</strong>, with 10 predicted indications.
+<strong>Prilocaine</strong> currently has <strong>42 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ This page combines the AI-predicted indications for Prilocaine with the latest h
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (39)
+## Related News (42)
+
+### [Diagnóstico tardío de la EPOC en España - Somos Pacientes](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUF9fV0VBSmUyeGxCVzhnZ3ZXLXRnam9aZXNYN1FrWDIxLUFqWEFDRTRQZ3hpNzJLV1ByRVpmWkRuM25ENm1xSGd2NTNGaUp1emJoTU51LVhrM3kwX21kbzcwMzRrSEFxbncwR0x2TGRzb1FYcjU2RG91eTdhel9iQWZJaE9rcjFfNGJZQktBT0dvcWJUQm4tYUpFMGJ6ZWVZSFp5NldMMDAzWVZ1cGEySGhKU3BGbFNIYjM3M3Vta1F0ZTVIRkVfeWRTWXF1MDFFWHhyTk5maG5Dc2dGdEZFbWRuUmdIMzg?oc=5)
+
+2026-11-18 <span class="news-indication-tag">EPOC</span>
+
+Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUF9fV0VBSmUyeGxCVzhnZ3ZXLXRnam9aZXNYN1FrWDIxLUFqWEFDRTRQZ3hpNzJLV1ByRVpmWkRuM25ENm1xSGd2NTNGaUp1emJoTU51LVhrM3kwX21kbzcwMzRrSEFxbncwR0x2TGRzb1FYcjU2RG91eTdhel9iQWZJaE9rcjFfNGJZQktBT0dvcWJUQm4tYUpFMGJ6ZWVZSFp5NldMMDAzWVZ1cGEySGhKU3BGbFNIYjM3M3Vta1F0ZTVIRkVfeWRTWXF1MDFFWHhyTk5maG5Dc2dGdEZFbWRuUmdIMzg?oc=5)
+
+---
+
+### [Fomentar la autonomía, una de las claves para frenar el deterioro en personas con EPOC](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHRMSkVKZ3dsYzlZTThhVmZ0bm5CSG5NcUpiOHFBaDd6OTVkbkNyekh6dzhJQWlQVDhxZDJzVmVsT1hoM1F1ZUlRSzJWdDNVWFRDSU02ZENKSUFjaVoxU0hfZWxzY2tzUjBhNzFidzFWSVZDVTJCYlpneEdoRWFjYkptTG1DZndmZWZlT2FUcWgzX1Q3ZzdPUHAwb0ZNZTlkRU1HeEFGVU45UE16cVJIaUlPV1lfbkU?oc=5)
+
+2026-11-18 <span class="news-indication-tag">EPOC</span>
+
+Source: [EntreMayores](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHRMSkVKZ3dsYzlZTThhVmZ0bm5CSG5NcUpiOHFBaDd6OTVkbkNyekh6dzhJQWlQVDhxZDJzVmVsT1hoM1F1ZUlRSzJWdDNVWFRDSU02ZENKSUFjaVoxU0hfZWxzY2tzUjBhNzFidzFWSVZDVTJCYlpneEdoRWFjYkptTG1DZndmZWZlT2FUcWgzX1Q3ZzdPUHAwb0ZNZTlkRU1HeEFGVU45UE16cVJIaUlPV1lfbkU?oc=5)
+
+---
+
+### [Herz-Kreislauf-Erkrankungen bei Frauen: Menopausenbedingte Risikofaktoren im Blick behalten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+---
 
 ### [“Se desperdician ocasiones de diagnóstico precoz en epoc”](https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0gzZ0ZFeXN6ZTFKVk1uOWFpM0ZmMWJ0NXpRWjRJdGNnbTVKYlNlMzdIaHV5ajJ3NU02UkN6OWpYWHR3ZVJWUkY3OGJrMWxLUGdqNUZLS0VCQ1NYaGVzWk1TeS1xUE43dzJ4N1NDUnNSUmlLRU9nQmxNRUQ4dWhTVm9MaGN2cDFpSTZwbw?oc=5)
 
@@ -100,11 +124,11 @@ Source: [65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkFzbUx
 
 ---
 
-### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
 
 2026-11-14 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
 
 ---
 

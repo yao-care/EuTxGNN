@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>56 news articles</strong>, with 1 predicted indications.
+<strong>Levodopa</strong> currently has <strong>58 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,29 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (56)
+## Related News (58)
+
+### [Being unhappily married increases dementia risk by a third - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0tvQTJDU09XX0dNRy0wb3NpdEZySFUyX3FCa0s4aUtFZ2xGOUVmVnE0OEt5Y1hFc1U2UXg0LWNEYmJhdzN1bG1zbHNGYkdURkNWMWUxOWVHSXMybGVXd1NzWmFWWjBaLUZNZ3NzTExOSnhkTTE1OFNsVnZ1WEdXczd1VTQ3OVdsdXBFdzg5MWVBU3VhQlN2cEdhbDN3Ri1kdS1j?oc=5)
+
+2026-11-18 <span class="news-indication-tag">dementia</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0tvQTJDU09XX0dNRy0wb3NpdEZySFUyX3FCa0s4aUtFZ2xGOUVmVnE0OEt5Y1hFc1U2UXg0LWNEYmJhdzN1bG1zbHNGYkdURkNWMWUxOWVHSXMybGVXd1NzWmFWWjBaLUZNZ3NzTExOSnhkTTE1OFNsVnZ1WEdXczd1VTQ3OVdsdXBFdzg5MWVBU3VhQlN2cEdhbDN3Ri1kdS1j?oc=5)
+
+---
 
 ### [Shingles vaccine cuts dementia risk by up to 40pc, study finds - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxORmNBdzdMLWhFck9DTlJvdFFfWWxxR2RDd09OQ3BkN0lfSEhLcFBZWW1wOWhqU2ZzWlE3VjlkSkIwb0pOeE0zTlBtMEpxUm5wX00zVENiRHF6NUJUZW5QeFNjUGVYVWl6VWs5T3dBclhrMWRrd2xSUm1UZno5Zm9VdE9kbkFJOVZCQlFNaFdJbkVvZ2Zkc0ZkZ3hmYmJURmpFWWxvdV9ZSQ?oc=5)
 
 2026-11-17 <span class="news-indication-tag">dementia</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxORmNBdzdMLWhFck9DTlJvdFFfWWxxR2RDd09OQ3BkN0lfSEhLcFBZWW1wOWhqU2ZzWlE3VjlkSkIwb0pOeE0zTlBtMEpxUm5wX00zVENiRHF6NUJUZW5QeFNjUGVYVWl6VWs5T3dBclhrMWRrd2xSUm1UZno5Zm9VdE9kbkFJOVZCQlFNaFdJbkVvZ2Zkc0ZkZ3hmYmJURmpFWWxvdV9ZSQ?oc=5)
+
+---
+
+### [The time of day you shouldn't nap - it's linked to 30% higher risk of death - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmN2d0VYSzRUSlZQRENLbm5YWmFfYWJzRnpsOVpIS0s1RWdZLTZZdnU1MDlPNW9NdVgxVVVrUE44QURYbEdCZGJQUndLQ1hVb2I1YmlsY0p5UzNKeS1LdnNtaDRPV0NFMWN3YUZFa0NheHJJRTVjdjVGRElGQkM3R3duOUFyMEdzS2lScWRvX0VvZw?oc=5)
+
+2026-11-17 <span class="news-indication-tag">dementia</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmN2d0VYSzRUSlZQRENLbm5YWmFfYWJzRnpsOVpIS0s1RWdZLTZZdnU1MDlPNW9NdVgxVVVrUE44QURYbEdCZGJQUndLQ1hVb2I1YmlsY0p5UzNKeS1LdnNtaDRPV0NFMWN3YUZFa0NheHJJRTVjdjVGRElGQkM3R3duOUFyMEdzS2lScWRvX0VvZw?oc=5)
 
 ---
 

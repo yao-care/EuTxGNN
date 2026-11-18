@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Bupropion?">
-<strong>Bupropion</strong> currently has <strong>111 news articles</strong>, with 0 predicted indications.
+<strong>Bupropion</strong> currently has <strong>114 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,31 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (111)
+## Related News (114)
+
+### [Adipositas-Therapie, KI in der Dokumentation, Delir: 125 Studien - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWxLZFFPOHd2Rnp2QTYwemExaW1fSHRQZ2NqSG9ZeWM4bmoxV3dRaVBadGxpaDRXaGlHLWp1dWhzdjRPY3FXWVFhTWhVTGM5aEdWbmo4ek5scTZZWVM3OVV2Vzl4UUdtaTEySy1zMTZ6a3NHdmROMXRiVWdtWGVVeDVQM0NvZmdBMjEzakR3Sjc2QmZ5NkxCRDJJWkFGMUlOOUlMUHZiQnI2OG9BVlV6OA?oc=5)
+
+2026-11-18 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWxLZFFPOHd2Rnp2QTYwemExaW1fSHRQZ2NqSG9ZeWM4bmoxV3dRaVBadGxpaDRXaGlHLWp1dWhzdjRPY3FXWVFhTWhVTGM5aEdWbmo4ek5scTZZWVM3OVV2Vzl4UUdtaTEySy1zMTZ6a3NHdmROMXRiVWdtWGVVeDVQM0NvZmdBMjEzakR3Sjc2QmZ5NkxCRDJJWkFGMUlOOUlMUHZiQnI2OG9BVlV6OA?oc=5)
+
+---
+
+### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
+
+2026-11-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
+
+---
+
+### [Five things that shape body weight – by an obesity expert - The Conversation](https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXlsY2pGZ3NNMldybkh0cXZtbXd4alVUcjBzTGxPRUt6N2RfV240R1k3WUoyY1duVVRPdDFSSjVjdVZUb1czNlF1U2ozMkEwcFVpc3ktckRtSE1DZlRtc0d5azk0a0JEd0FiY0dGb09OcW5zaWQtVV9WdkZqaDk1TnhnR1hYNDUtX0ZTTHRHT3FuSDhm?oc=5)
+
+2026-11-17 <span class="news-indication-tag">obesity</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXlsY2pGZ3NNMldybkh0cXZtbXd4alVUcjBzTGxPRUt6N2RfV240R1k3WUoyY1duVVRPdDFSSjVjdVZUb1czNlF1U2ozMkEwcFVpc3ktckRtSE1DZlRtc0d5azk0a0JEd0FiY0dGb09OcW5zaWQtVV9WdkZqaDk1TnhnR1hYNDUtX0ZTTHRHT3FuSDhm?oc=5)
+
+---
 
 ### [Una maratón formativa actualizará a la farmacia catalana en prevención y detección de la obesidad - Redacción Médica](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaUdrMjJIYXNsTjIzU0haUmlmYVpiSHhrWURhMDYwMzkzb0E5Y0ZTZDhmVlhfUFpqR2Q0MWJUcHpHZm9kRWtDLVVRLXc3dDR0dkxvX3l3QXdxR3IyZVlaMHpmWUN6eThnLXRnWDBqa0paMHdBSUNuQjdWY0RvUDhRNW8xMkRydWJaTnl1TGdULWU2Y1hicTZoODV5TDBVMGRDS2ZoQnFHLVh0X3dtcHotQUdLMU80NG4ybV93QXY4RGFWWVBUeDQ3QXd3T01EaWRGd2JmLVM1eW5VU2dGOEFGMlJqZFVleHZsYTRNSm1rVkNVUEtJVmpQZ1VB0gH_AUFVX3lxTE85dVlXaWZHbHg4WXZhenJhVy1aTjRnUVFQYUl4QW9XbEM4a0JLUDVXeTR6bk1YVHRERWd4eTl4NVlwa3k2cjlWSl9zTHVlXzM0cm1uVFdiODN5UWRxSkh1bWRyT3hnS3ZqaGR1VkVlRTU4SXVlcVFZaDUyUUZIbWhZYTFOVlhhZkwxbXJPdU80cFh5WElzSkxiaTJiNEFjN2YwcERqamo3dnJfek1qTkpObkNrbTVESEo5VW1sM1g2cEl6OHp6dFJwSHJGWVFocHA0T1pGRkVXeHc4VklBR1RRWkJ6c2wyZUphbDA1aVRWOXdrRUZMNDd4YnJzVDh4SQ?oc=5)
 
@@ -42,7 +66,7 @@ Source: [Redacción Médica](https://news.google.com/rss/articles/CBMi-gFBVV95cU
 
 ### [Farmaci per diabetici e obesi per "perdere qualche chilo": stretta in arrivo sulle prescrizioni](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
-2026-11-17 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+2026-11-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [Tgcom24](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 

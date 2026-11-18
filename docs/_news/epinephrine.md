@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Epinephrine?">
-<strong>Epinephrine</strong> currently has <strong>16 news articles</strong>, with 3 predicted indications.
+<strong>Epinephrine</strong> currently has <strong>18 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,23 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (18)
+
+### [Diagnóstico tardío de la EPOC en España - Somos Pacientes](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUF9fV0VBSmUyeGxCVzhnZ3ZXLXRnam9aZXNYN1FrWDIxLUFqWEFDRTRQZ3hpNzJLV1ByRVpmWkRuM25ENm1xSGd2NTNGaUp1emJoTU51LVhrM3kwX21kbzcwMzRrSEFxbncwR0x2TGRzb1FYcjU2RG91eTdhel9iQWZJaE9rcjFfNGJZQktBT0dvcWJUQm4tYUpFMGJ6ZWVZSFp5NldMMDAzWVZ1cGEySGhKU3BGbFNIYjM3M3Vta1F0ZTVIRkVfeWRTWXF1MDFFWHhyTk5maG5Dc2dGdEZFbWRuUmdIMzg?oc=5)
+
+2026-11-18 <span class="news-indication-tag">EPOC</span>
+
+Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUF9fV0VBSmUyeGxCVzhnZ3ZXLXRnam9aZXNYN1FrWDIxLUFqWEFDRTRQZ3hpNzJLV1ByRVpmWkRuM25ENm1xSGd2NTNGaUp1emJoTU51LVhrM3kwX21kbzcwMzRrSEFxbncwR0x2TGRzb1FYcjU2RG91eTdhel9iQWZJaE9rcjFfNGJZQktBT0dvcWJUQm4tYUpFMGJ6ZWVZSFp5NldMMDAzWVZ1cGEySGhKU3BGbFNIYjM3M3Vta1F0ZTVIRkVfeWRTWXF1MDFFWHhyTk5maG5Dc2dGdEZFbWRuUmdIMzg?oc=5)
+
+---
+
+### [Fomentar la autonomía, una de las claves para frenar el deterioro en personas con EPOC](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHRMSkVKZ3dsYzlZTThhVmZ0bm5CSG5NcUpiOHFBaDd6OTVkbkNyekh6dzhJQWlQVDhxZDJzVmVsT1hoM1F1ZUlRSzJWdDNVWFRDSU02ZENKSUFjaVoxU0hfZWxzY2tzUjBhNzFidzFWSVZDVTJCYlpneEdoRWFjYkptTG1DZndmZWZlT2FUcWgzX1Q3ZzdPUHAwb0ZNZTlkRU1HeEFGVU45UE16cVJIaUlPV1lfbkU?oc=5)
+
+2026-11-18 <span class="news-indication-tag">EPOC</span>
+
+Source: [EntreMayores](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHRMSkVKZ3dsYzlZTThhVmZ0bm5CSG5NcUpiOHFBaDd6OTVkbkNyekh6dzhJQWlQVDhxZDJzVmVsT1hoM1F1ZUlRSzJWdDNVWFRDSU02ZENKSUFjaVoxU0hfZWxzY2tzUjBhNzFidzFWSVZDVTJCYlpneEdoRWFjYkptTG1DZndmZWZlT2FUcWgzX1Q3ZzdPUHAwb0ZNZTlkRU1HeEFGVU45UE16cVJIaUlPV1lfbkU?oc=5)
+
+---
 
 ### [“Se desperdician ocasiones de diagnóstico precoz en epoc”](https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0gzZ0ZFeXN6ZTFKVk1uOWFpM0ZmMWJ0NXpRWjRJdGNnbTVKYlNlMzdIaHV5ajJ3NU02UkN6OWpYWHR3ZVJWUkY3OGJrMWxLUGdqNUZLS0VCQ1NYaGVzWk1TeS1xUE43dzJ4N1NDUnNSUmlLRU9nQmxNRUQ4dWhTVm9MaGN2cDFpSTZwbw?oc=5)
 

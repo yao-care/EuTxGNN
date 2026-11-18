@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Aprepitant?">
-<strong>Aprepitant</strong> currently has <strong>87 news articles</strong>, with 10 predicted indications.
+<strong>Aprepitant</strong> currently has <strong>88 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Aprepitant with the latest h
 <p><a href="{{ '/drugs/aprepitant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (87)
+## Related News (88)
+
+### [Herz-Kreislauf-Erkrankungen bei Frauen: Menopausenbedingte Risikofaktoren im Blick behalten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+---
 
 ### [Herzgesundheit: Wie viel Kaffee schützt vor Vorhofflimmern?](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUhTUmxQVGhkMHAxeTV1R2RwVUFjX0RUM0g5eGdtYmFoS1I1aVljempNZkxsd0RndnlsMHJ5XzBCeC1rUWJrdTZhMnRobFNFWWdVSkhLZXQwZlRBQXpJRmluMEh1UXBXNmxhWGJjWWFuNVNXWldpYkVnVXNnODh3VE54QXBVN0NCS2ZNRDJENHgyWU0?oc=5)
 
@@ -84,11 +92,11 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95c
 
 ---
 
-### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
 
 2026-11-14 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
 
 ---
 

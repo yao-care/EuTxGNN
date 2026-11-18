@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Lonafarnib?">
-<strong>Lonafarnib</strong> currently has <strong>82 news articles</strong>, with 1 predicted indications.
+<strong>Lonafarnib</strong> currently has <strong>83 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Lonafarnib with the latest h
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (82)
+## Related News (83)
+
+### [Herz-Kreislauf-Erkrankungen bei Frauen: Menopausenbedingte Risikofaktoren im Blick behalten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+---
 
 ### [Exact blood pressure reading that puts you at risk of vision loss and dementia - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 

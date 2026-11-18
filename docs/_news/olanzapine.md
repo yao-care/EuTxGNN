@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Olanzapine. 2 predicted indications."
 permalink: /news/olanzapine/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Olanzapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>53 news articles</strong>, with 2 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>55 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,23 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (53)
+## Related News (55)
+
+### [Herz-Kreislauf-Erkrankungen bei Frauen: Menopausenbedingte Risikofaktoren im Blick behalten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+---
+
+### [La dépression circadienne : en êtes-vous atteint ? - Madame Figaro](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUJGazBCZk9aSjNPWlk0dEJSNC1SRndsejlvR05RS09nX3lHX1N3RGJPb29CWVMwaXdmcy16enVBenphMWwwc040Q3hWeUlrSEhMOXUxRkkwWGNNUGhwWnVTUzltQ3ZSSnpjSnFQQm1BQVJ1Z19EbnF3VjN2dkVSbHRnaEJmSk1vNFg4NjhWYmQ5d0dWV29tWnBMWlV3a19FdUhKcXZsaHhvQQ?oc=5)
+
+2026-11-17 <span class="news-indication-tag">dépression</span>
+
+Source: [Madame Figaro](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUJGazBCZk9aSjNPWlk0dEJSNC1SRndsejlvR05RS09nX3lHX1N3RGJPb29CWVMwaXdmcy16enVBenphMWwwc040Q3hWeUlrSEhMOXUxRkkwWGNNUGhwWnVTUzltQ3ZSSnpjSnFQQm1BQVJ1Z19EbnF3VjN2dkVSbHRnaEJmSk1vNFg4NjhWYmQ5d0dWV29tWnBMWlV3a19FdUhKcXZsaHhvQQ?oc=5)
+
+---
 
 ### [Herzgesundheit: Wie viel Kaffee schützt vor Vorhofflimmern?](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUhTUmxQVGhkMHAxeTV1R2RwVUFjX0RUM0g5eGdtYmFoS1I1aVljempNZkxsd0RndnlsMHJ5XzBCeC1rUWJrdTZhMnRobFNFWWdVSkhLZXQwZlRBQXpJRmluMEh1UXBXNmxhWGJjWWFuNVNXWldpYkVnVXNnODh3VE54QXBVN0NCS2ZNRDJENHgyWU0?oc=5)
 
@@ -68,11 +84,11 @@ Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTl
 
 ---
 
-### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
 
 2026-11-14 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Duloxetine Hydrochloride. 0 predicted indications."
 permalink: /news/duloxetine-hydrochloride/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-18
 ---
 
 # Duloxetine Hydrochloride News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Duloxetine Hydrochloride?">
-<strong>Duloxetine Hydrochloride</strong> currently has <strong>38 news articles</strong>, with 0 predicted indications.
+<strong>Duloxetine Hydrochloride</strong> currently has <strong>39 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Duloxetine Hydrochloride wit
 <p><a href="{{ '/drugs/duloxetine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (38)
+## Related News (39)
+
+### [La dépression circadienne : en êtes-vous atteint ? - Madame Figaro](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUJGazBCZk9aSjNPWlk0dEJSNC1SRndsejlvR05RS09nX3lHX1N3RGJPb29CWVMwaXdmcy16enVBenphMWwwc040Q3hWeUlrSEhMOXUxRkkwWGNNUGhwWnVTUzltQ3ZSSnpjSnFQQm1BQVJ1Z19EbnF3VjN2dkVSbHRnaEJmSk1vNFg4NjhWYmQ5d0dWV29tWnBMWlV3a19FdUhKcXZsaHhvQQ?oc=5)
+
+2026-11-17 <span class="news-indication-tag">dépression</span>
+
+Source: [Madame Figaro](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUJGazBCZk9aSjNPWlk0dEJSNC1SRndsejlvR05RS09nX3lHX1N3RGJPb29CWVMwaXdmcy16enVBenphMWwwc040Q3hWeUlrSEhMOXUxRkkwWGNNUGhwWnVTUzltQ3ZSSnpjSnFQQm1BQVJ1Z19EbnF3VjN2dkVSbHRnaEJmSk1vNFg4NjhWYmQ5d0dWV29tWnBMWlV3a19FdUhKcXZsaHhvQQ?oc=5)
+
+---
 
 ### [La conciliación empieza antes de ser madre: la lucha invisible de las madrileñas que buscan un embarazo - El Periódico de España](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZnVJV0t1bTdSRE1LV0V0VFNMWXByLXRVX0ZSLVdINFoxMGFLU0YtQVdVMzdEZm5FcmVpbDlCY2pUNWFPSnBJb0VkTUJnODJTTkxvY3ladEMyQTNkTkU3LWptOEl1NkcwWEU4RXpETzdJMVZKVmwyN1VjbHU0bk1FV1pUWFRNQmlFSWlKbFk3U1hDT0NKMTZSYUNoZGZWT0UyMDlLY2ZNckZYZTJxLS1fdXA0X19XenUwbGJ6a3diMGUxdkZFN29VTVhISFlEU2tj0gHQAUFVX3lxTE5IRldXVEFrWk9pbHRObnktWkRzM0tYaFR0enJrTERyTE1yQUM3c3hMVzh4UDlBNmtsU2VjWEV0Z0VLNHRnRkNtMldNTVBDVU9jY1NyTDF5UWctNHptSTFUTkV4NVB1bkdueXhrNkRXLVBBRkNvTjhZNWpWc21xcEZFQkhiTmgzV2lSU2txZXN0RldJYi1SWVlMNlpveWdoWjhBLUFINmNZMlVBMkw3bjZ6eloxUjdKZFdxRTZacG5tS1BBeXE4cXhqVm5JZlpSRXI?oc=5)
 

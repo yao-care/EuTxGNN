@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>58 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>60 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (58)
+## Related News (60)
+
+### [Studie zeigt mögliche Risikofaktoren bei chronischer Hepatitis E: Erhöhtes Risiko für komplizierte Behandlungsverläufe - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ETGpuRGtQZTFadWgxaE1QZHhVcmptTUJoQTZUMWRHMkdjU1VLUTA5alYtWjRSQ2pIRDhSek5KVDBCT3UtdkxXV29pQQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">hepatitis</span>
+
+Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ETGpuRGtQZTFadWgxaE1QZHhVcmptTUJoQTZUMWRHMkdjU1VLUTA5alYtWjRSQ2pIRDhSek5KVDBCT3UtdkxXV29pQQ?oc=5)
+
+---
+
+### [Herz-Kreislauf-Erkrankungen bei Frauen: Menopausenbedingte Risikofaktoren im Blick behalten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+---
 
 ### [Alcobendas ofrece pruebas gratis para la prevención y diagnóstico precoz del VIH](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2VHc1pkdFFrTzcydXNxMm8zYmc5cFJlM2hYZ3RRWlVVQ3MwclNpeFBxcVNoTllYQlpSWldkZTlOM0pLc2FhUnFTR0V5MHB5QTdhb19aalZzX2NHZFREM1U1WkRCajgwLWY1U1Q5d1FhOW5IVVY1bXg1OEtvUW1ROHJsS1dycVpnSERUWGlqOG9GZWlTUnY0ekxXMFluSnUwSmfSAacBQVVfeXFMTWlaUEl6T0cwRk9OM0hvS290ZkduUWZDV0g0eUlCanBnS1NpcWFzRDJyWFRqLTZFVWxBcnYxTzd3WGJNU1RubmpJWDlYLUE5SGZUaUZVa2ljNGwzMWlOVE1mYkdDdHhHVlFtZ2RMU2ZEMlR3TjFac1ZkeG01ZmZ0Tm9WbldUSE1MYnJNRGxXY1BHN1JvZFEtRWIxTUZvUGZXRkJVZ05YOFk?oc=5)
 

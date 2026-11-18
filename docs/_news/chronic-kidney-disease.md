@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "CKD (chronic kidney disease) News"
+title: "kidney failure (chronic kidney disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about CKD (chronic kidney disease). 13 articles, 1 related drugs."
+description: "Health news about kidney failure (chronic kidney disease). 14 articles, 1 related drugs."
 permalink: /news/chronic-kidney-disease/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-18
 ---
 
-# CKD (chronic kidney disease) News
+# kidney failure (chronic kidney disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about CKD (chronic kidney disease)?">
-<strong>CKD (chronic kidney disease)</strong> currently has <strong>13 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about kidney failure (chronic kidney disease)?">
+<strong>kidney failure (chronic kidney disease)</strong> currently has <strong>14 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “CKD” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “kidney failure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “CKD” and lists the d
 </ul>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### ['First of its kind' dialysis research could have global implications](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FWVdjd0o1M3ZZRmc0T1RZN2NveEtfUTVvT0lSOGtiQy0yMkpROG9fay1UbGtnOEdiZ0V0WmdNVWVpdTRtSWtEQTJIS1lFeHR4ZGpnOHlkd096UXkzSWc?oc=5)
+
+2026-11-18
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FWVdjd0o1M3ZZRmc0T1RZN2NveEtfUTVvT0lSOGtiQy0yMkpROG9fay1UbGtnOEdiZ0V0WmdNVWVpdTRtSWtEQTJIS1lFeHR4ZGpnOHlkd096UXkzSWc?oc=5)
+
+---
 
 ### [ISHCEMIA-CKD EXTEND: Invasive Eingriffe bringen bei CKD keine Überlebensvorteile - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUzdFZE9WS1duNm1tV1I1VHI3UnBYY1ZSbVN0OWxLRkpabVhOUElGU2hjNDNhcW5idUVaQUZ0X19CcUJhcTgzZFlOQ0hyYlNQQkxBNmRpN0FaVHZZcEIyMjlmYUlCYV9KY29ZU3VGcFp1bUVmSDgtWVNPazZKNlRIbW44Y2ZSaUQzZDRpY015Wm1tRllrcU9qQWQ3aVBLOE56dEk5MDJ3YW50S2d4RzI4dnhR?oc=5)
 

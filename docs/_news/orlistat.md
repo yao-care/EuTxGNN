@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>215 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>217 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,31 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (215)
+## Related News (217)
+
+### [Adipositas-Therapie, KI in der Dokumentation, Delir: 125 Studien - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWxLZFFPOHd2Rnp2QTYwemExaW1fSHRQZ2NqSG9ZeWM4bmoxV3dRaVBadGxpaDRXaGlHLWp1dWhzdjRPY3FXWVFhTWhVTGM5aEdWbmo4ek5scTZZWVM3OVV2Vzl4UUdtaTEySy1zMTZ6a3NHdmROMXRiVWdtWGVVeDVQM0NvZmdBMjEzakR3Sjc2QmZ5NkxCRDJJWkFGMUlOOUlMUHZiQnI2OG9BVlV6OA?oc=5)
+
+2026-11-18 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWxLZFFPOHd2Rnp2QTYwemExaW1fSHRQZ2NqSG9ZeWM4bmoxV3dRaVBadGxpaDRXaGlHLWp1dWhzdjRPY3FXWVFhTWhVTGM5aEdWbmo4ek5scTZZWVM3OVV2Vzl4UUdtaTEySy1zMTZ6a3NHdmROMXRiVWdtWGVVeDVQM0NvZmdBMjEzakR3Sjc2QmZ5NkxCRDJJWkFGMUlOOUlMUHZiQnI2OG9BVlV6OA?oc=5)
+
+---
+
+### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
+
+2026-11-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
+
+---
+
+### [Five things that shape body weight – by an obesity expert - The Conversation](https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXlsY2pGZ3NNMldybkh0cXZtbXd4alVUcjBzTGxPRUt6N2RfV240R1k3WUoyY1duVVRPdDFSSjVjdVZUb1czNlF1U2ozMkEwcFVpc3ktckRtSE1DZlRtc0d5azk0a0JEd0FiY0dGb09OcW5zaWQtVV9WdkZqaDk1TnhnR1hYNDUtX0ZTTHRHT3FuSDhm?oc=5)
+
+2026-11-17 <span class="news-indication-tag">obesity</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXlsY2pGZ3NNMldybkh0cXZtbXd4alVUcjBzTGxPRUt6N2RfV240R1k3WUoyY1duVVRPdDFSSjVjdVZUb1czNlF1U2ozMkEwcFVpc3ktckRtSE1DZlRtc0d5azk0a0JEd0FiY0dGb09OcW5zaWQtVV9WdkZqaDk1TnhnR1hYNDUtX0ZTTHRHT3FuSDhm?oc=5)
+
+---
 
 ### [¿La vacuna de la gripe puede ayudar a prevenir un infarto?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlpbjBjbFBNOEtYOFp5Q1pyT0NZQ0haLWw4X0Z2d0hmc054T3RLQzJNdEEzbkgtSk9WaTl6U0FnTXZleE12eE5walJvY05zeWNLZGF3U040S25CSUVTWDFIT09kemFFMXcyeVFTM3NVQzFkVkZYSEZrTUxiVmlvUGdDbGcyMFI3UlBfR3J3d3JlQThnek8yN0dZaG0yal9HLW9pcTE4WmZOeDk0SnZ4UXFmTVZRZDZfUElWR2ZyQ25JdS12OV93X2gwcHFVcGc?oc=5)
 
@@ -53,7 +77,7 @@ Source: [Redacción Médica](https://news.google.com/rss/articles/CBMi-gFBVV95cU
 
 ### [Farmaci per diabetici e obesi per "perdere qualche chilo": stretta in arrivo sulle prescrizioni](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
-2026-11-17 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+2026-11-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [Tgcom24](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
@@ -72,14 +96,6 @@ Source: [Open](https://news.google.com/rss/articles/CBMigAFBVV95cUxNUThaYlZlRzB3
 2026-11-16 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdldXOFhnRTVFT0RINTczLWoteDNJbHZTcFlXeFhuMTh5eEl5WWtibzN4SS10X1Z5SThUZGxwY1NBUWE5R3lOWWdpRHI3MUU1ZXRNeXhwTDl3X0NYcER3cUZYZGwzdzNvRHFZRnZtcG9mTE0tbGd6bWtVNGUxTW1oYnBqZHNzc1IxUHRiaWZFMkQtZlZhSUQxMmRTZVVlcmtOeDBkQWU4ZUFiU04tWEFtM1BzeUF0WFNSMUVadUk3YXRRMFJ5S3VFQTlqaGtwa3cwRFlnQ3RUOEVzcVRx?oc=5)
-
----
-
-### [I’m a doctor and I take statins. There’s just one reason I may stop - The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkpRNWJNa2tlbDZlTkROMDltTVAxbGVOc3pUUk5VRk8wMHdFMVAyYS1mY1hMd3ZIeVRWOWFuZDBEYXlkT3JTdVBCZ0dBc3NpM3pCRDJxbXRXM3RoN3hNMlI0MDJ1LVlKS0J3QmZmX0tsdGlURldObmkzS1p4LXJoTkRDaTBWRWJYVWV5UDZLRFZmaDRqc0RoOFEwR2x2akpkM2ViYQ?oc=5)
-
-2026-11-16 <span class="news-indication-tag">stroke</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkpRNWJNa2tlbDZlTkROMDltTVAxbGVOc3pUUk5VRk8wMHdFMVAyYS1mY1hMd3ZIeVRWOWFuZDBEYXlkT3JTdVBCZ0dBc3NpM3pCRDJxbXRXM3RoN3hNMlI0MDJ1LVlKS0J3QmZmX0tsdGlURldObmkzS1p4LXJoTkRDaTBWRWJYVWV5UDZLRFZmaDRqc0RoOFEwR2x2akpkM2ViYQ?oc=5)
 
 ---
 
@@ -251,11 +267,11 @@ Source: [Scinexx](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS1hU0haa
 
 ---
 
-### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+### [Vorhofflimmern: Hohes Rezidivrisiko bei Schlaganfall trotz Antikoagulation](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
 
 2026-11-14 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnpjS0xNdVktZXBDTV9rak1INzVOTVhwcEpDaFNIcTkweFlSazRQRE9yZzBYTUFDOFpxcVk5S0JETHlVa3pDMGVBWW1QX2FZZVFjMkQzQzA5am9KNEdsRHh1aVVxemk3bTBxRE5rcEVzdkZOM2RqdFpkWE9JUjRnU1N5V3I1UVNLbk9qTjg5Z3NUUjNSVF9iQkJUVTlLYlFaa2M4YmoyUzEtOGdSVmtfcHJnZXE1Rk5RdzRYM2Z4NA?oc=5)
 
 ---
 

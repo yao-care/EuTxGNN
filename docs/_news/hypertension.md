@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "ipertensione (hypertension) News"
+title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ipertensione (hypertension). 50 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 51 articles, 55 related drugs."
 permalink: /news/hypertension/
 last_modified_at: 2026-11-18
 ---
 
-# ipertensione (hypertension) News
+# Bluthochdruck (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about ipertensione (hypertension)?">
-<strong>ipertensione (hypertension)</strong> currently has <strong>50 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>51 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “ipertensione” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -64,7 +64,15 @@ This page brings together the latest health news about “ipertensione” and li
 </ul>
 </div>
 
-## Related News (50)
+## Related News (51)
+
+### [Herz-Kreislauf-Erkrankungen bei Frauen: Menopausenbedingte Risikofaktoren im Blick behalten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+2026-11-18
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+---
 
 ### [Exact blood pressure reading that puts you at risk of vision loss and dementia - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 
