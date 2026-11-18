@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Telmisartan. 9 predicted indications."
 permalink: /news/telmisartan/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Telmisartan News
@@ -93,7 +93,7 @@ Source: [Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVN
 
 ### [Baisse intensive de la pression artérielle : deux essais aux résultats divergents](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEdKVHgwSmFWN3Z1WDV2Y1ZFNG5jZ182djk0NTFDb2JuMUlzWkd1c1M0dWlLSjF0TzgzamRTREg2QUU2Q1ZGU2JBQzVLTXdEVXJua2lidjFFelJTc0ZGdHJjUHA0XzBQMlJDYnZOWHlpeFlOT2VhQ2tsLUlzMWZtMWhoSE1lb3hDMjVIWTBrUnREU2Z6OUphNjdFa0lLM3U5cmJHMWloWjUyX1hmSUdOQXhn?oc=5)
 
-2026-11-16 <span class="news-indication-tag">AVC</span> <span class="news-drug-tag">Spironolactone</span>
+2026-11-16 <span class="news-indication-tag">AVC</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEdKVHgwSmFWN3Z1WDV2Y1ZFNG5jZ182djk0NTFDb2JuMUlzWkd1c1M0dWlLSjF0TzgzamRTREg2QUU2Q1ZGU2JBQzVLTXdEVXJua2lidjFFelJTc0ZGdHJjUHA0XzBQMlJDYnZOWHlpeFlOT2VhQ2tsLUlzMWZtMWhoSE1lb3hDMjVIWTBrUnREU2Z6OUphNjdFa0lLM3U5cmJHMWloWjUyX1hmSUdOQXhn?oc=5)
 
@@ -133,7 +133,7 @@ Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiyAFBVV95
 
 ### [Exact blood pressure reading that puts you at risk of vision loss and dementia - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 
-2026-11-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">dementia</span>
+2026-11-15 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
 Source: [Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 

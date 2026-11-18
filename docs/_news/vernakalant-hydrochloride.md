@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Vernakalant Hydrochloride. 0 predicted indications."
 permalink: /news/vernakalant-hydrochloride/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Vernakalant Hydrochloride News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Vernakalant Hydrochloride?">
-<strong>Vernakalant Hydrochloride</strong> currently has <strong>225 news articles</strong>, with 0 predicted indications.
+<strong>Vernakalant Hydrochloride</strong> currently has <strong>227 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Vernakalant Hydrochloride wi
 <p><a href="{{ '/drugs/vernakalant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (225)
+## Related News (227)
 
 ### [¿La vacuna de la gripe puede ayudar a prevenir un infarto?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlpbjBjbFBNOEtYOFp5Q1pyT0NZQ0haLWw4X0Z2d0hmc054T3RLQzJNdEEzbkgtSk9WaTl6U0FnTXZleE12eE5walJvY05zeWNLZGF3U040S25CSUVTWDFIT09kemFFMXcyeVFTM3NVQzFkVkZYSEZrTUxiVmlvUGdDbGcyMFI3UlBfR3J3d3JlQThnek8yN0dZaG0yal9HLW9pcTE4WmZOeDk0SnZ4UXFmTVZRZDZfUElWR2ZyQ25JdS12OV93X2gwcHFVcGc?oc=5)
 
@@ -44,6 +44,14 @@ Source: [Univadis](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlp
 2026-11-17 <span class="news-indication-tag">obesidad</span>
 
 Source: [Redacción Médica](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaUdrMjJIYXNsTjIzU0haUmlmYVpiSHhrWURhMDYwMzkzb0E5Y0ZTZDhmVlhfUFpqR2Q0MWJUcHpHZm9kRWtDLVVRLXc3dDR0dkxvX3l3QXdxR3IyZVlaMHpmWUN6eThnLXRnWDBqa0paMHdBSUNuQjdWY0RvUDhRNW8xMkRydWJaTnl1TGdULWU2Y1hicTZoODV5TDBVMGRDS2ZoQnFHLVh0X3dtcHotQUdLMU80NG4ybV93QXY4RGFWWVBUeDQ3QXd3T01EaWRGd2JmLVM1eW5VU2dGOEFGMlJqZFVleHZsYTRNSm1rVkNVUEtJVmpQZ1VB0gH_AUFVX3lxTE85dVlXaWZHbHg4WXZhenJhVy1aTjRnUVFQYUl4QW9XbEM4a0JLUDVXeTR6bk1YVHRERWd4eTl4NVlwa3k2cjlWSl9zTHVlXzM0cm1uVFdiODN5UWRxSkh1bWRyT3hnS3ZqaGR1VkVlRTU4SXVlcVFZaDUyUUZIbWhZYTFOVlhhZkwxbXJPdU80cFh5WElzSkxiaTJiNEFjN2YwcERqamo3dnJfek1qTkpObkNrbTVESEo5VW1sM1g2cEl6OHp6dFJwSHJGWVFocHA0T1pGRkVXeHc4VklBR1RRWkJ6c2wyZUphbDA1aVRWOXdrRUZMNDd4YnJzVDh4SQ?oc=5)
+
+---
+
+### [Farmaci per diabetici e obesi per "perdere qualche chilo": stretta in arrivo sulle prescrizioni](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
+
+2026-11-17 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Tgcom24](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
 ---
 
@@ -129,7 +137,7 @@ Source: [Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVN
 
 ### [Baisse intensive de la pression artérielle : deux essais aux résultats divergents](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEdKVHgwSmFWN3Z1WDV2Y1ZFNG5jZ182djk0NTFDb2JuMUlzWkd1c1M0dWlLSjF0TzgzamRTREg2QUU2Q1ZGU2JBQzVLTXdEVXJua2lidjFFelJTc0ZGdHJjUHA0XzBQMlJDYnZOWHlpeFlOT2VhQ2tsLUlzMWZtMWhoSE1lb3hDMjVIWTBrUnREU2Z6OUphNjdFa0lLM3U5cmJHMWloWjUyX1hmSUdOQXhn?oc=5)
 
-2026-11-16 <span class="news-indication-tag">AVC</span> <span class="news-drug-tag">Spironolactone</span>
+2026-11-16 <span class="news-indication-tag">AVC</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEdKVHgwSmFWN3Z1WDV2Y1ZFNG5jZ182djk0NTFDb2JuMUlzWkd1c1M0dWlLSjF0TzgzamRTREg2QUU2Q1ZGU2JBQzVLTXdEVXJua2lidjFFelJTc0ZGdHJjUHA0XzBQMlJDYnZOWHlpeFlOT2VhQ2tsLUlzMWZtMWhoSE1lb3hDMjVIWTBrUnREU2Z6OUphNjdFa0lLM3U5cmJHMWloWjUyX1hmSUdOQXhn?oc=5)
 
@@ -196,6 +204,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUDls
 2026-11-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQTJwbWVQTC1aR29aVnlkTXpWU05WWm42RGI2eHN4cUNFMEZrSnB6X0N2M0p2OVo2bTFodHdZT1p4SVFWTDRUNnNUZHRSTzcxSEhXTXhZd3NqdWl6cDZsU0lUcHltWEo5UkpFdUFPRnpOd2ZvVVF4c0hIZTRYdGFZVmViOUdYRm95ekVLU3dKcTRScXVMeUZzSE9xUzdWUEdMODZDUkYxSmJSSVhGc2psTVVpX2ljOVBrajl6SmdCdGhsNnZPQkhQcQ?oc=5)
+
+---
+
+### [Exact blood pressure reading that puts you at risk of vision loss and dementia - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 245 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 249 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # diabetes (diabetes mellitus) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>245 news articles</strong> and 86 related drugs.
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>249 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -65,7 +65,15 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (245)
+## Related News (249)
+
+### [La inteligencia artificial permite identificar el riesgo de complicaciones renales y cardiacas en personas con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY0FiLVN5Z0s3SHEybFluRlE2SDFhYUJmTV95MXk2ejA0dS1CWE1BY1FDYlhYRmNveVRCYi16QldfZlRGT29vZGFDUjRfbG1wZXAzWFRic2FMUTI3bXJnZGcwTE51Z1l0NmJCVlhvb09WRERBU3puUVplVVZmT2hUV0wyN2hvYmE2blNJOTc1alY3OXk4T0ZhS2NuR01DdHNhMFVyVjluU2FNZFVrVnR0SlhkMGRoR0tUaGFXQW5fYkUtQk3SAb4BQVVfeXFMTnNQV1NoZmhNeGFiZXNWdGlCblVzYTBCbnRZakF5LUhVWXJZT1ZzMm5hX0Vwd3A2TmhyS0x3UUFta3BkcVRCU3IwRnh3ZXEyalFsVVh6VHMxQ1huRTBxYWRUZjBaazlfOW1JVWFLV0U1T08wenFLNDItUEFzWHA4OVpRWWdrS2FWV2JOdjBVUFhKb2tOeWZ2bVczbXNwY2lCcGdDZEFFUWVqbHBhdHQ0NEU4b1dYZFJCZkpCd3gxdw?oc=5)
+
+2026-11-17
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY0FiLVN5Z0s3SHEybFluRlE2SDFhYUJmTV95MXk2ejA0dS1CWE1BY1FDYlhYRmNveVRCYi16QldfZlRGT29vZGFDUjRfbG1wZXAzWFRic2FMUTI3bXJnZGcwTE51Z1l0NmJCVlhvb09WRERBU3puUVplVVZmT2hUV0wyN2hvYmE2blNJOTc1alY3OXk4T0ZhS2NuR01DdHNhMFVyVjluU2FNZFVrVnR0SlhkMGRoR0tUaGFXQW5fYkUtQk3SAb4BQVVfeXFMTnNQV1NoZmhNeGFiZXNWdGlCblVzYTBCbnRZakF5LUhVWXJZT1ZzMm5hX0Vwd3A2TmhyS0x3UUFta3BkcVRCU3IwRnh3ZXEyalFsVVh6VHMxQ1huRTBxYWRUZjBaazlfOW1JVWFLV0U1T08wenFLNDItUEFzWHA4OVpRWWdrS2FWV2JOdjBVUFhKb2tOeWZ2bVczbXNwY2lCcGdDZEFFUWVqbHBhdHQ0NEU4b1dYZFJCZkpCd3gxdw?oc=5)
+
+---
 
 ### [Novo lleva la concienciación sobre la diabetes tipo 2 a las calles de Madrid con una campaña experiencial](https://news.google.com/rss/articles/CBMiowFBVV95cUxQT21hQkFlVjE3Z1ZQMml4TlY4VmpQelpyLXplS2JhMDliSGpVQWhST3QyeVZhaHJMWWEwTUxlUDNLWm96QzhscFRRSGNyYjFBYzV2V2lHMy1SaU1NYzNSelNDYV9Lai1WVTdLaHB1dlI0a3k1R29HaGpQdTZIeEpWQkk4aTZOeXhRUFRUWEtlTmdzR09BLWJYV0dhRWFsRnZPdVpz?oc=5)
 
@@ -91,6 +99,14 @@ Source: [Fusión Asturias](https://news.google.com/rss/articles/CBMisAFBVV95cUxP
 
 ---
 
+### [Farmaci per diabetici e obesi per "perdere qualche chilo": stretta in arrivo sulle prescrizioni](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
+
+2026-11-17
+
+Source: [Tgcom24](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
+
+---
+
 ### [Weltdiabetestag – Informationen zu Diabetes für alle Interessierten - Radio Gong Würzburg](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzdtd25sc0ZYVi14czJHbFlyandYaDZzUUJPYk91X09YejhqUlRfaXJPUHN3RVlydUN0eDN3X18wNV9IYzVWVjZaeGtWaDVHQUZqbm5hZXJMMHNwWUoxc1U1VUo1b3dHdGRpbjZPa2lyOHhuQjRDekJvTXhwSzlkMTE0aHdXNWZXUWJZZXFHZHpKa0JRTS1aVG5YM25XVVlBZzhmakUxS2NGM2M?oc=5)
 
 2026-11-17
@@ -104,6 +120,14 @@ Source: [Radio Gong Würzburg](https://news.google.com/rss/articles/CBMiqwFBVV95
 2026-11-17
 
 Source: [Südtirol News](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeGVqV2tndW0wODRrcmJmN3pycUZFSVk5UmNCY3VLWkZnTGUxaGwtUVEwQUQwMFI3Qlo0VDVza2ZqcWN1RWRDMjY0Z3N3amhLTVFySDZrR2psUnV0bTJOQ19KOHM5ZmJ3OVNsUmxPYWdzRlh6Q2hNaWJNOFYtUTBGTGUyQ0VJNEctTV9jNlhiX2d5UTBUbDhOZWx6U3hDWmpqTGhlWTJQRzZNQ3lwN3U3ZzZIMTN6S3l6aVFVUlJpSjI?oc=5)
+
+---
+
+### [Santé : l’activité physique quotidienne, une arme efficace pour lutter contre le diabète - Sud Ouest](https://news.google.com/rss/articles/CBMixwFBVV95cUxNZHRwRHZrYnRobnc0a2c2UEJHQ2xyZF90M3pCRlBiU2dOQ0VCTS1faGFUUG95djBfUnlHVXdaVmgwbkp1NUlfajc3Vnc5U2U2R2N5ckFWQ3hPd2Iwb2Uya1dwbmVhWjdCZEVRLVp6X2VBN1NVZUtyZElmaUNvNVc5YTJqLXFscFBxWmFIV2JpaTJza2M3Wl9fLWZrUmdkb09RTDFQNFJieks0UWpMV05TWnlrY2szUUpCaU5zTF94bmNIbTFrQWFR?oc=5)
+
+2026-11-17
+
+Source: [Sud Ouest](https://news.google.com/rss/articles/CBMixwFBVV95cUxNZHRwRHZrYnRobnc0a2c2UEJHQ2xyZF90M3pCRlBiU2dOQ0VCTS1faGFUUG95djBfUnlHVXdaVmgwbkp1NUlfajc3Vnc5U2U2R2N5ckFWQ3hPd2Iwb2Uya1dwbmVhWjdCZEVRLVp6X2VBN1NVZUtyZElmaUNvNVc5YTJqLXFscFBxWmFIV2JpaTJza2M3Wl9fLWZrUmdkb09RTDFQNFJieks0UWpMV05TWnlrY2szUUpCaU5zTF94bmNIbTFrQWFR?oc=5)
 
 ---
 
@@ -208,6 +232,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktk
 2026-11-16
 
 Source: [La Nuova Sardegna](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR0xUdC1rZDlEbGk2bVE1Z21nNTdadFdJbkF2N2tteXhJWnRjRllmcERBYms5aTdsR0hOVUZpR1RBYXpDS1hwVW9pVmVuZzFwRzB6UTZya3RGTWZlLVRzcWx4c2JVUWw4ZVp4RkhoMGJsaDVicWtnRlo1aXAxekt5MHA2X1RuSkVBckRHS3lDV2k5MWNydVkwVXN5cldhY3N4eFJHaTFrRDJYcERDdC1fdlZqbTR6TUx4bUR3YWdGc2hkNDNfUjFtY3EtYXQyemFJRVRMYWJ0aHBVdjA1RWFIMGtZQ0NILWZzTWNMNU5oR3ZVbThaVjlGQmNB?oc=5)
+
+---
+
+### [Arrêter le sucre ne suffit pas contre le diabète : que faire ? - Passeport Santé](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSW5lMkFGUkxCQlZMTVQ3dnVNZUZYWEpGQ0d3ejl6aDJPWU0yMzdXdU9GclJ5ckxKMl8yblBmTnoyVnhFNXg4YWtuRzVQRkdfNmJqWFdNTGV0TU1SVUlpZ1pRWGxzQTlzOVNTS3FaU25VSHpPMEYtR1gzLUhhZVlXSXlocGxORDhyd2xvYzRRbjZQWFp4WWFJa28zT1pud0R3VGtVXw?oc=5)
+
+2026-11-16
+
+Source: [Passeport Santé](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSW5lMkFGUkxCQlZMTVQ3dnVNZUZYWEpGQ0d3ejl6aDJPWU0yMzdXdU9GclJ5ckxKMl8yblBmTnoyVnhFNXg4YWtuRzVQRkdfNmJqWFdNTGV0TU1SVUlpZ1pRWGxzQTlzOVNTS3FaU25VSHpPMEYtR1gzLUhhZVlXSXlocGxORDhyd2xvYzRRbjZQWFp4WWFJa28zT1pud0R3VGtVXw?oc=5)
 
 ---
 

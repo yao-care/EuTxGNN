@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tacrolimus. 2 predicted indications."
 permalink: /news/tacrolimus/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Tacrolimus News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Tacrolimus?">
-<strong>Tacrolimus</strong> currently has <strong>20 news articles</strong>, with 2 predicted indications.
+<strong>Tacrolimus</strong> currently has <strong>21 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (20)
+## Related News (21)
+
+### [Psoriasis: Vitamin B5 derivative may help calm overactive immune cells - Medical News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSjFhWlk4UjRFMzhPQ0tCbVh3Y2xJRjlfRDVtTDZiUS0xMUx1SWFteHR5VHJGRzZoa3NxaTBZTXNWWjNYVXFQZWNQZnducnA4UktyU2JxMzFMR0thNU9JbjJFWlo4ZjlGWnZTWFN0cURrR0lRMXFCdEY0Z0JjZld0RTFscDNhdjlVUmxvNnRjeDlJTHJqbE8taWhVNG5jR3hwcTgxbW51YmNqUWpQRTBET20waEh4SHRy?oc=5)
+
+2026-11-16 <span class="news-indication-tag">psoriasis</span>
+
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSjFhWlk4UjRFMzhPQ0tCbVh3Y2xJRjlfRDVtTDZiUS0xMUx1SWFteHR5VHJGRzZoa3NxaTBZTXNWWjNYVXFQZWNQZnducnA4UktyU2JxMzFMR0thNU9JbjJFWlo4ZjlGWnZTWFN0cURrR0lRMXFCdEY0Z0JjZld0RTFscDNhdjlVUmxvNnRjeDlJTHJqbE8taWhVNG5jR3hwcTgxbW51YmNqUWpQRTBET20waEh4SHRy?oc=5)
+
+---
 
 ### [Neue Studie zu B 5 / Panthetine](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQk10RlIteHlYR3gwSmcycGdaQkx5T0JQMHQwVzN3ZU9GLUhFMkc2VjFkUmxsUVVfQjlzdkxzWmIzV0NWYkVwbXl0dzhVYkVpbXZNSjhSaGZtTVE0cWJibXN6Y25LRzV6QnBDRExVZG0yWWJVOUhDaGx0NEQxdVl6UkgwLWE2QQ?oc=5)
 

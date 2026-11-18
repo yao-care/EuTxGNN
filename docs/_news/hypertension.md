@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "high blood pressure (hypertension) News"
+title: "ipertensione (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about high blood pressure (hypertension). 50 articles, 55 related drugs."
+description: "Health news about ipertensione (hypertension). 50 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
-# high blood pressure (hypertension) News
+# ipertensione (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
-<strong>high blood pressure (hypertension)</strong> currently has <strong>50 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about ipertensione (hypertension)?">
+<strong>ipertensione (hypertension)</strong> currently has <strong>50 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “high blood pressure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “ipertensione” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">

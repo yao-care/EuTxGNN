@@ -3,9 +3,9 @@ layout: default
 title: "EPOC (copd) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about EPOC (copd). 12 articles, 26 related drugs."
+description: "Health news about EPOC (copd). 13 articles, 26 related drugs."
 permalink: /news/copd/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-18
 ---
 
 # EPOC (copd) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about EPOC (copd)?">
-<strong>EPOC (copd)</strong> currently has <strong>12 news articles</strong> and 26 related drugs.
+<strong>EPOC (copd)</strong> currently has <strong>13 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,13 +43,21 @@ This page brings together the latest health news about “EPOC” and lists the 
 </ul>
 </div>
 
-## Related News (12)
+## Related News (13)
 
-### [COPD-Exazerbationen vorbeugen: Welche Strategien sich bewährt haben - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
+### [“Se desperdician ocasiones de diagnóstico precoz en epoc”](https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0gzZ0ZFeXN6ZTFKVk1uOWFpM0ZmMWJ0NXpRWjRJdGNnbTVKYlNlMzdIaHV5ajJ3NU02UkN6OWpYWHR3ZVJWUkY3OGJrMWxLUGdqNUZLS0VCQ1NYaGVzWk1TeS1xUE43dzJ4N1NDUnNSUmlLRU9nQmxNRUQ4dWhTVm9MaGN2cDFpSTZwbw?oc=5)
+
+2026-11-17
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0gzZ0ZFeXN6ZTFKVk1uOWFpM0ZmMWJ0NXpRWjRJdGNnbTVKYlNlMzdIaHV5ajJ3NU02UkN6OWpYWHR3ZVJWUkY3OGJrMWxLUGdqNUZLS0VCQ1NYaGVzWk1TeS1xUE43dzJ4N1NDUnNSUmlLRU9nQmxNRUQ4dWhTVm9MaGN2cDFpSTZwbw?oc=5)
+
+---
+
+### [COPD-Exazerbationen vorbeugen: Welche Strategien sich bewährt haben](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
 
 2026-11-13
 
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
 
 ---
 

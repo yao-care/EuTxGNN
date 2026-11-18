@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Melatonin. 0 predicted indications."
 permalink: /news/melatonin/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Melatonin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>119 news articles</strong>, with 0 predicted indications.
+<strong>Melatonin</strong> currently has <strong>120 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (119)
+## Related News (120)
 
 ### [Una maratón formativa actualizará a la farmacia catalana en prevención y detección de la obesidad - Redacción Médica](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaUdrMjJIYXNsTjIzU0haUmlmYVpiSHhrWURhMDYwMzkzb0E5Y0ZTZDhmVlhfUFpqR2Q0MWJUcHpHZm9kRWtDLVVRLXc3dDR0dkxvX3l3QXdxR3IyZVlaMHpmWUN6eThnLXRnWDBqa0paMHdBSUNuQjdWY0RvUDhRNW8xMkRydWJaTnl1TGdULWU2Y1hicTZoODV5TDBVMGRDS2ZoQnFHLVh0X3dtcHotQUdLMU80NG4ybV93QXY4RGFWWVBUeDQ3QXd3T01EaWRGd2JmLVM1eW5VU2dGOEFGMlJqZFVleHZsYTRNSm1rVkNVUEtJVmpQZ1VB0gH_AUFVX3lxTE85dVlXaWZHbHg4WXZhenJhVy1aTjRnUVFQYUl4QW9XbEM4a0JLUDVXeTR6bk1YVHRERWd4eTl4NVlwa3k2cjlWSl9zTHVlXzM0cm1uVFdiODN5UWRxSkh1bWRyT3hnS3ZqaGR1VkVlRTU4SXVlcVFZaDUyUUZIbWhZYTFOVlhhZkwxbXJPdU80cFh5WElzSkxiaTJiNEFjN2YwcERqamo3dnJfek1qTkpObkNrbTVESEo5VW1sM1g2cEl6OHp6dFJwSHJGWVFocHA0T1pGRkVXeHc4VklBR1RRWkJ6c2wyZUphbDA1aVRWOXdrRUZMNDd4YnJzVDh4SQ?oc=5)
 
 2026-11-17 <span class="news-indication-tag">obesidad</span>
 
 Source: [Redacción Médica](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaUdrMjJIYXNsTjIzU0haUmlmYVpiSHhrWURhMDYwMzkzb0E5Y0ZTZDhmVlhfUFpqR2Q0MWJUcHpHZm9kRWtDLVVRLXc3dDR0dkxvX3l3QXdxR3IyZVlaMHpmWUN6eThnLXRnWDBqa0paMHdBSUNuQjdWY0RvUDhRNW8xMkRydWJaTnl1TGdULWU2Y1hicTZoODV5TDBVMGRDS2ZoQnFHLVh0X3dtcHotQUdLMU80NG4ybV93QXY4RGFWWVBUeDQ3QXd3T01EaWRGd2JmLVM1eW5VU2dGOEFGMlJqZFVleHZsYTRNSm1rVkNVUEtJVmpQZ1VB0gH_AUFVX3lxTE85dVlXaWZHbHg4WXZhenJhVy1aTjRnUVFQYUl4QW9XbEM4a0JLUDVXeTR6bk1YVHRERWd4eTl4NVlwa3k2cjlWSl9zTHVlXzM0cm1uVFdiODN5UWRxSkh1bWRyT3hnS3ZqaGR1VkVlRTU4SXVlcVFZaDUyUUZIbWhZYTFOVlhhZkwxbXJPdU80cFh5WElzSkxiaTJiNEFjN2YwcERqamo3dnJfek1qTkpObkNrbTVESEo5VW1sM1g2cEl6OHp6dFJwSHJGWVFocHA0T1pGRkVXeHc4VklBR1RRWkJ6c2wyZUphbDA1aVRWOXdrRUZMNDd4YnJzVDh4SQ?oc=5)
+
+---
+
+### [Farmaci per diabetici e obesi per "perdere qualche chilo": stretta in arrivo sulle prescrizioni](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
+
+2026-11-17 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Tgcom24](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
 ---
 

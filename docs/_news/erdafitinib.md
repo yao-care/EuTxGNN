@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Erdafitinib. 6 predicted indications."
 permalink: /news/erdafitinib/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Erdafitinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Erdafitinib?">
-<strong>Erdafitinib</strong> currently has <strong>85 news articles</strong>, with 6 predicted indications.
+<strong>Erdafitinib</strong> currently has <strong>86 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page combines the AI-predicted indications for Erdafitinib with the latest 
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (85)
+## Related News (86)
 
 ### [Qué es el erdafitinib, el medicamento viral contra el cáncer que algunos jóvenes utilizan para 'ganar altura': estos son sus riesgos - Diario de Sevilla](https://news.google.com/rss/articles/CBMizAFBVV95cUxOT040S1NHQkZQUUxZUzU3ZHEzS2dvcWVMTndOdDhQYnNqenhHcHpQUlR6Uzg1VEx2Nk1KVmFTOXdQU0hTX2szcDcyWUNIT0g0cUxNM2M3d2hncTNjZll0LVlkQ0VjWTE2U0RHS2d5X0pIRFYtT3Q2eHEzSHhWemppQ2k2LXFpQlhmc2M3d1ZGSmtWS0VBRnctZDJuQWxjYW9NUjN3RGJ6UTc2cHZFZTE2TjJkUHM3RU5IQl9SMEJOQkhxY2NvVnlNYmRfMTTSAdIBQVVfeXFMUFFfOFUzeWt3UVNGTTJndlRfWERYZTQ5TEs2SlZkSFhSd1dFdnQyN29tZzN3S0VHWTNtckQ0M1p0Q2s1ZXJxZmExZmtaWlFVa244NkdtRFNYeEpzcVFQMlJjYW1pN3JDRHEzQXJMUUs1a25hOTQxeGVZVkllMWFfWEREcW1CN1I1WjhDX2g5U2Rob2Q2LS0zSmhRQ2pTN291RmVLR2UyOUlWTVlOV0NLaG1rTHV0WDJnNTdXa0NHME9JRWV5Y3FpZ3E3MWZIV0xidDB3?oc=5)
 
@@ -56,6 +56,14 @@ Source: [National Geographic España](https://news.google.com/rss/articles/CBMix
 
 ---
 
+### [El peligroso reto del heightmaxxing: adolescentes buscan un fármaco contra el cáncer para intentar ganar estatura](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRmJkZFhFa0tlWnJMOWNtNkpJZHBlYU8zYkJEWTlKajNQcTg2VWk4S01TY2JSeVR2TjQ4M2dCV0t6emVJSEY1SUxVSUJCOXlJVGZ1eVVxR2ZLamR5UHJleWZzZjVFOFphQUIzTUVBOEQ1dF85ZlI1aExHUTdxN2tkMklYdGFsRkNKbVo2Mm9DN0NvNDZudmx6YWpsN05rN0dJVy02ZXRMcGFnUi1MZnBFQW8yd3A3LWMwZEJWYW4zM0drdTM5RXZSUHpDaWkxXzYyRVNYLVVKWVJYUHVzb1REUDVYS1YySFF4MWtkVkhhXzJ5Tk80?oc=5)
+
+2026-11-16 <span class="news-drug-tag">Erdafitinib</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRmJkZFhFa0tlWnJMOWNtNkpJZHBlYU8zYkJEWTlKajNQcTg2VWk4S01TY2JSeVR2TjQ4M2dCV0t6emVJSEY1SUxVSUJCOXlJVGZ1eVVxR2ZLamR5UHJleWZzZjVFOFphQUIzTUVBOEQ1dF85ZlI1aExHUTdxN2tkMklYdGFsRkNKbVo2Mm9DN0NvNDZudmx6YWpsN05rN0dJVy02ZXRMcGFnUi1MZnBFQW8yd3A3LWMwZEJWYW4zM0drdTM5RXZSUHpDaWkxXzYyRVNYLVVKWVJYUHVzb1REUDVYS1YySFF4MWtkVkhhXzJ5Tk80?oc=5)
+
+---
+
 ### [Erdafitinib, el peligroso fármaco contra el cáncer que algunos adolescentes toman para intentar ser más altos](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSU1CcWxDdnNqSkRqVERlOXBnejRXTTF3d1NtNS1oRnplbHMxek9ReWlXaTFxWTNERGdEeHVOZXM0UF81Z0FZeWlMVGVsbTZvdzA2SklqcEJBT0JLSmllellkejFQVGpsOHpVRlk1cHVFRWFZb2FtYXdBUEQwb0hCMmI3Nk9XOHU1YlllaHcySTdVTExsdF9tWnViWGtUUEJqalo0M3h5UnViNWZmUXBV0gG0AUFVX3lxTFBRQzRMcnhrb01hVmJYelg0bUIyaWhMZmxmQVdJSW01TTVLN3plX0FyNk1OLURHaEZQQk1uV2pxS2VTTHB6ejBNT2hkTWtlVXdtbzRzdTJGZVZsaERndFNNM002QmdvZDU2WldYVEN4UkpJZnpYM0I4bUtXTHFOMXhObkRMUGNCUVM5em5KSTM5Y3d2a0tQUDVtM00xVTFMTjZSazIzQjEwR2F3NGNGVVNhSGV6Ug?oc=5)
 
 2026-11-16 <span class="news-drug-tag">Erdafitinib</span>
@@ -66,7 +74,7 @@ Source: [Telemadrid](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSU1CcW
 
 ### [Exact blood pressure reading that puts you at risk of vision loss and dementia - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 
-2026-11-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">dementia</span>
+2026-11-15 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
 Source: [Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 

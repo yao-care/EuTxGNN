@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Opicapone. 0 predicted indications."
 permalink: /news/opicapone/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Opicapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Opicapone?">
-<strong>Opicapone</strong> currently has <strong>55 news articles</strong>, with 0 predicted indications.
+<strong>Opicapone</strong> currently has <strong>56 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (55)
+## Related News (56)
+
+### [Shingles vaccine cuts dementia risk by up to 40pc, study finds - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxORmNBdzdMLWhFck9DTlJvdFFfWWxxR2RDd09OQ3BkN0lfSEhLcFBZWW1wOWhqU2ZzWlE3VjlkSkIwb0pOeE0zTlBtMEpxUm5wX00zVENiRHF6NUJUZW5QeFNjUGVYVWl6VWs5T3dBclhrMWRrd2xSUm1UZno5Zm9VdE9kbkFJOVZCQlFNaFdJbkVvZ2Zkc0ZkZ3hmYmJURmpFWWxvdV9ZSQ?oc=5)
+
+2026-11-17 <span class="news-indication-tag">dementia</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxORmNBdzdMLWhFck9DTlJvdFFfWWxxR2RDd09OQ3BkN0lfSEhLcFBZWW1wOWhqU2ZzWlE3VjlkSkIwb0pOeE0zTlBtMEpxUm5wX00zVENiRHF6NUJUZW5QeFNjUGVYVWl6VWs5T3dBclhrMWRrd2xSUm1UZno5Zm9VdE9kbkFJOVZCQlFNaFdJbkVvZ2Zkc0ZkZ3hmYmJURmpFWWxvdV9ZSQ?oc=5)
+
+---
 
 ### [The number of teeth you have could be major warning sign of dementia, warn scientists - The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTE5jdGZoQ1ZpblZTX2ZzVVVvZlBwZUVOQUg3WlBuOXI3MHIxOHJTbUhqUmZid2VsejRQVlQ3cHY3V29DcFJKMUs2NWdJR0dsZ2RVMXljNVpjdDJQb0IzRXhFcUszSEJUak5OMzhNN3pmMHN0amt1T0ptMQ?oc=5)
 
@@ -82,7 +90,7 @@ Source: [Franceinfo](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTkwwbk
 
 ### [Exact blood pressure reading that puts you at risk of vision loss and dementia - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 
-2026-11-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">dementia</span>
+2026-11-15 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
 Source: [Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 

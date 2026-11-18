@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Givosiran. 9 predicted indications."
 permalink: /news/givosiran/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Givosiran News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>57 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>58 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (57)
+## Related News (58)
+
+### [Alcobendas ofrece pruebas gratis para la prevención y diagnóstico precoz del VIH](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2VHc1pkdFFrTzcydXNxMm8zYmc5cFJlM2hYZ3RRWlVVQ3MwclNpeFBxcVNoTllYQlpSWldkZTlOM0pLc2FhUnFTR0V5MHB5QTdhb19aalZzX2NHZFREM1U1WkRCajgwLWY1U1Q5d1FhOW5IVVY1bXg1OEtvUW1ROHJsS1dycVpnSERUWGlqOG9GZWlTUnY0ekxXMFluSnUwSmfSAacBQVVfeXFMTWlaUEl6T0cwRk9OM0hvS290ZkduUWZDV0g0eUlCanBnS1NpcWFzRDJyWFRqLTZFVWxBcnYxTzd3WGJNU1RubmpJWDlYLUE5SGZUaUZVa2ljNGwzMWlOVE1mYkdDdHhHVlFtZ2RMU2ZEMlR3TjFac1ZkeG01ZmZ0Tm9WbldUSE1MYnJNRGxXY1BHN1JvZFEtRWIxTUZvUGZXRkJVZ05YOFk?oc=5)
+
+2026-11-17 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Telemadrid](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2VHc1pkdFFrTzcydXNxMm8zYmc5cFJlM2hYZ3RRWlVVQ3MwclNpeFBxcVNoTllYQlpSWldkZTlOM0pLc2FhUnFTR0V5MHB5QTdhb19aalZzX2NHZFREM1U1WkRCajgwLWY1U1Q5d1FhOW5IVVY1bXg1OEtvUW1ROHJsS1dycVpnSERUWGlqOG9GZWlTUnY0ekxXMFluSnUwSmfSAacBQVVfeXFMTWlaUEl6T0cwRk9OM0hvS290ZkduUWZDV0g0eUlCanBnS1NpcWFzRDJyWFRqLTZFVWxBcnYxTzd3WGJNU1RubmpJWDlYLUE5SGZUaUZVa2ljNGwzMWlOVE1mYkdDdHhHVlFtZ2RMU2ZEMlR3TjFac1ZkeG01ZmZ0Tm9WbldUSE1MYnJNRGxXY1BHN1JvZFEtRWIxTUZvUGZXRkJVZ05YOFk?oc=5)
+
+---
 
 ### [Los vecinos de Alcobendas podrán realizarse pruebas de VIH y otras infecciones de transmisión sexual durante la jornada del miércoles - Madrid Norte 24 horas](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRi10VUMtLW44amQ1QmlQTnBybVhnVkRKRkxURDl6eWJpaEtjTnJDSkg5Nk5YT1FubENwVnBlWVZYQU15UXBFTHplVk9sZWt4eWVpUG9YNVpLdkdTX0J1RlY1di1Lb2FIY2JIY1hHcFRiY19JOFJQY3BWQWwtZG5QVFB1bmljWlVjb1l6S0pnVW5rck8tNGFkRmtlWnZaRVRuaV9rNGQxZExrUmc2QTcyaVF0a2ZHMXY4XzdoY2JEWVE5aWk3Xy1MbEhsUWNTTGRiWS1lUGE0bnVHYzJIWV9VSW95dlhIUVhUdVpKX1EySUZlSjJpbW1xaWE5czd0T0xoMkdkZWh30gGLAkFVX3lxTE9EdEl2MHJxdy16YzJIZTU2bmhYOHREbk13R2o3VTlEMzBXenBqdExiTHR5czBpRW9CcnQ4S05ITXFUMUc2c3JDaFNWekdPREgzNUtickQ5WnlKU2M0QnV0SmU0cFFkVkNWbGpBcy1TZ2hJYS1PV0tULUYydGlpcnp4MGdMVVNSUFFjXzg5R1E5M0kyV2szaGNqWnRrVUg5SlQyb1ZrUlk3ejBkWWpNTy1mYUU5dEo0MHB1cnBRNHZRNWJTNFBwVFg2a1BJejNMS2VtaGQ2NDQ4MTdnLS1iQlVLY3hhamRIXzJ4Y0Nzb25nRkxFRkpUVFFhQ0dpcVhhS0Z4bjJFNHNrTTNESQ?oc=5)
 
@@ -53,7 +61,7 @@ Source: [Madrid Norte 24 horas](https://news.google.com/rss/articles/CBMihgJBVV9
 
 ### [Exact blood pressure reading that puts you at risk of vision loss and dementia - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 
-2026-11-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">dementia</span>
+2026-11-15 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
 Source: [Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 

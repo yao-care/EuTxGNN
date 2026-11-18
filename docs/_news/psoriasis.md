@@ -3,9 +3,9 @@ layout: default
 title: "soriasi (psoriasis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about soriasi (psoriasis). 10 articles, 11 related drugs."
+description: "Health news about soriasi (psoriasis). 11 articles, 11 related drugs."
 permalink: /news/psoriasis/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # soriasi (psoriasis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about soriasi (psoriasis)?">
-<strong>soriasi (psoriasis)</strong> currently has <strong>10 news articles</strong> and 11 related drugs.
+<strong>soriasi (psoriasis)</strong> currently has <strong>11 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page brings together the latest health news about “soriasi” and lists t
 </ul>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Psoriasis: Vitamin B5 derivative may help calm overactive immune cells - Medical News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSjFhWlk4UjRFMzhPQ0tCbVh3Y2xJRjlfRDVtTDZiUS0xMUx1SWFteHR5VHJGRzZoa3NxaTBZTXNWWjNYVXFQZWNQZnducnA4UktyU2JxMzFMR0thNU9JbjJFWlo4ZjlGWnZTWFN0cURrR0lRMXFCdEY0Z0JjZld0RTFscDNhdjlVUmxvNnRjeDlJTHJqbE8taWhVNG5jR3hwcTgxbW51YmNqUWpQRTBET20waEh4SHRy?oc=5)
+
+2026-11-16
+
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSjFhWlk4UjRFMzhPQ0tCbVh3Y2xJRjlfRDVtTDZiUS0xMUx1SWFteHR5VHJGRzZoa3NxaTBZTXNWWjNYVXFQZWNQZnducnA4UktyU2JxMzFMR0thNU9JbjJFWlo4ZjlGWnZTWFN0cURrR0lRMXFCdEY0Z0JjZld0RTFscDNhdjlVUmxvNnRjeDlJTHJqbE8taWhVNG5jR3hwcTgxbW51YmNqUWpQRTBET20waEh4SHRy?oc=5)
+
+---
 
 ### [Neue Studie zu B 5 / Panthetine](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQk10RlIteHlYR3gwSmcycGdaQkx5T0JQMHQwVzN3ZU9GLUhFMkc2VjFkUmxsUVVfQjlzdkxzWmIzV0NWYkVwbXl0dzhVYkVpbXZNSjhSaGZtTVE0cWJibXN6Y25LRzV6QnBDRExVZG0yWWJVOUhDaGx0NEQxdVl6UkgwLWE2QQ?oc=5)
 

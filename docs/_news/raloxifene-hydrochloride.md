@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Raloxifene Hydrochloride. 0 predicted indications."
 permalink: /news/raloxifene-hydrochloride/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Raloxifene Hydrochloride News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>104 news articles</strong>, with 0 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>105 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <p><a href="{{ '/drugs/raloxifene/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (104)
+## Related News (105)
 
 ### [¿La vacuna de la gripe puede ayudar a prevenir un infarto?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlpbjBjbFBNOEtYOFp5Q1pyT0NZQ0haLWw4X0Z2d0hmc054T3RLQzJNdEEzbkgtSk9WaTl6U0FnTXZleE12eE5walJvY05zeWNLZGF3U040S25CSUVTWDFIT09kemFFMXcyeVFTM3NVQzFkVkZYSEZrTUxiVmlvUGdDbGcyMFI3UlBfR3J3d3JlQThnek8yN0dZaG0yal9HLW9pcTE4WmZOeDk0SnZ4UXFmTVZRZDZfUElWR2ZyQ25JdS12OV93X2gwcHFVcGc?oc=5)
 
@@ -81,7 +81,7 @@ Source: [Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVN
 
 ### [Baisse intensive de la pression artérielle : deux essais aux résultats divergents](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEdKVHgwSmFWN3Z1WDV2Y1ZFNG5jZ182djk0NTFDb2JuMUlzWkd1c1M0dWlLSjF0TzgzamRTREg2QUU2Q1ZGU2JBQzVLTXdEVXJua2lidjFFelJTc0ZGdHJjUHA0XzBQMlJDYnZOWHlpeFlOT2VhQ2tsLUlzMWZtMWhoSE1lb3hDMjVIWTBrUnREU2Z6OUphNjdFa0lLM3U5cmJHMWloWjUyX1hmSUdOQXhn?oc=5)
 
-2026-11-16 <span class="news-indication-tag">AVC</span> <span class="news-drug-tag">Spironolactone</span>
+2026-11-16 <span class="news-indication-tag">AVC</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEdKVHgwSmFWN3Z1WDV2Y1ZFNG5jZ182djk0NTFDb2JuMUlzWkd1c1M0dWlLSjF0TzgzamRTREg2QUU2Q1ZGU2JBQzVLTXdEVXJua2lidjFFelJTc0ZGdHJjUHA0XzBQMlJDYnZOWHlpeFlOT2VhQ2tsLUlzMWZtMWhoSE1lb3hDMjVIWTBrUnREU2Z6OUphNjdFa0lLM3U5cmJHMWloWjUyX1hmSUdOQXhn?oc=5)
 
@@ -116,6 +116,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUDls
 2026-11-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQTJwbWVQTC1aR29aVnlkTXpWU05WWm42RGI2eHN4cUNFMEZrSnB6X0N2M0p2OVo2bTFodHdZT1p4SVFWTDRUNnNUZHRSTzcxSEhXTXhZd3NqdWl6cDZsU0lUcHltWEo5UkpFdUFPRnpOd2ZvVVF4c0hIZTRYdGFZVmViOUdYRm95ekVLU3dKcTRScXVMeUZzSE9xUzdWUEdMODZDUkYxSmJSSVhGc2psTVVpX2ljOVBrajl6SmdCdGhsNnZPQkhQcQ?oc=5)
+
+---
+
+### [Exact blood pressure reading that puts you at risk of vision loss and dementia - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 
 ---
 

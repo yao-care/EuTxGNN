@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Prilocaine. 10 predicted indications."
 permalink: /news/prilocaine/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Prilocaine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Prilocaine?">
-<strong>Prilocaine</strong> currently has <strong>38 news articles</strong>, with 10 predicted indications.
+<strong>Prilocaine</strong> currently has <strong>39 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Prilocaine with the latest h
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (38)
+## Related News (39)
+
+### [“Se desperdician ocasiones de diagnóstico precoz en epoc”](https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0gzZ0ZFeXN6ZTFKVk1uOWFpM0ZmMWJ0NXpRWjRJdGNnbTVKYlNlMzdIaHV5ajJ3NU02UkN6OWpYWHR3ZVJWUkY3OGJrMWxLUGdqNUZLS0VCQ1NYaGVzWk1TeS1xUE43dzJ4N1NDUnNSUmlLRU9nQmxNRUQ4dWhTVm9MaGN2cDFpSTZwbw?oc=5)
+
+2026-11-17 <span class="news-indication-tag">EPOC</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0gzZ0ZFeXN6ZTFKVk1uOWFpM0ZmMWJ0NXpRWjRJdGNnbTVKYlNlMzdIaHV5ajJ3NU02UkN6OWpYWHR3ZVJWUkY3OGJrMWxLUGdqNUZLS0VCQ1NYaGVzWk1TeS1xUE43dzJ4N1NDUnNSUmlLRU9nQmxNRUQ4dWhTVm9MaGN2cDFpSTZwbw?oc=5)
+
+---
 
 ### [Gli attacchi di emicrania ricorrenti sono in qualche modo collegati ai cicli lunari? - Corriere della Sera](https://news.google.com/rss/articles/CBMikwJBVV95cUxQZlE2UFpLeVhRVy1lbERQSFpsczN6Ym9BYXF3R1hpTEN1XzFnMC1HZEY5YUdrYkhWYjJ5NkZYTnh6V0VqMWk0SW5XY1h4RmpFTVVtWmlZR2Y5a2NBMDV4VW9vTWRmTEdNZDViUzZRbVhLMmVzLVJDMnpqYnQ1aWd2dmY0LUN4bnJ4WUhZbVpMVWlvNnFENlU0ZlEzMUJaWFZxb19QQmRBTkpQY25iaFN0MUtwcmN4MVhjdWwzMVNtQ3Y2SVljNUQxRXFnNC00TldpcDJNOU1USTZmTTlMVTN5azBFaFhCVkJnTXhMU2R1Nnd0TUtHYmF2R2N3NjBVbjBVZV9nVDlCSlZYTDQ4c1FvRExBONIBmAJBVV95cUxPdktVOWVDSHkyeVVlRVAwaDZrbHp5dFNucjJHeWFyQktxWXltUTNFcDc4TWJoVU83VFM4SVZrU0hMSFoxby02NTFNZ2MtXzItZkxhWmkwNnFQWTkyUkNaUV9JSEZ2V3FnTHNvQkFqVFBwUjE1TjlCVHlEQUd4bXZEX3FnSHI4MzM1UHFjZE9mbmVmZ3JKejRaVjh1MG91Vk44ZXZZMzVzRUlabUpFWHo5aDcta2pzVjhFdTFDZlhMVVZzbXhuc19sZTNybFQtektFb2czS3FxV1ZZWVc2N2VWNGFOY0dqRVJ0WWlERmhGR200RjFTY1NtUVd1VWs0OXVwa0pGSDQ4WVVXbWY3eGJjQVRSamh6ZFVh?oc=5)
 
@@ -116,11 +124,11 @@ Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi_gFBVV95cU
 
 ---
 
-### [COPD-Exazerbationen vorbeugen: Welche Strategien sich bewährt haben - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
+### [COPD-Exazerbationen vorbeugen: Welche Strategien sich bewährt haben](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
 
 2026-11-13 <span class="news-indication-tag">copd</span>
 
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
 
 ---
 

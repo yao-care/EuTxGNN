@@ -3,9 +3,9 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 45 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 46 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # dementia (alzheimer disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>45 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>46 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (45)
+## Related News (46)
+
+### [Shingles vaccine cuts dementia risk by up to 40pc, study finds - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxORmNBdzdMLWhFck9DTlJvdFFfWWxxR2RDd09OQ3BkN0lfSEhLcFBZWW1wOWhqU2ZzWlE3VjlkSkIwb0pOeE0zTlBtMEpxUm5wX00zVENiRHF6NUJUZW5QeFNjUGVYVWl6VWs5T3dBclhrMWRrd2xSUm1UZno5Zm9VdE9kbkFJOVZCQlFNaFdJbkVvZ2Zkc0ZkZ3hmYmJURmpFWWxvdV9ZSQ?oc=5)
+
+2026-11-17
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxORmNBdzdMLWhFck9DTlJvdFFfWWxxR2RDd09OQ3BkN0lfSEhLcFBZWW1wOWhqU2ZzWlE3VjlkSkIwb0pOeE0zTlBtMEpxUm5wX00zVENiRHF6NUJUZW5QeFNjUGVYVWl6VWs5T3dBclhrMWRrd2xSUm1UZno5Zm9VdE9kbkFJOVZCQlFNaFdJbkVvZ2Zkc0ZkZ3hmYmJURmpFWWxvdV9ZSQ?oc=5)
+
+---
 
 ### [The number of teeth you have could be major warning sign of dementia, warn scientists - The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTE5jdGZoQ1ZpblZTX2ZzVVVvZlBwZUVOQUg3WlBuOXI3MHIxOHJTbUhqUmZid2VsejRQVlQ3cHY3V29DcFJKMUs2NWdJR0dsZ2RVMXljNVpjdDJQb0IzRXhFcUszSEJUak5OMzhNN3pmMHN0amt1T0ptMQ?oc=5)
 

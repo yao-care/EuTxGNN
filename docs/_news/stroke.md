@@ -3,9 +3,9 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 104 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 105 articles, 11 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # ictus (stroke) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>104 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>105 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (104)
+## Related News (105)
 
 ### [¿La vacuna de la gripe puede ayudar a prevenir un infarto?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlpbjBjbFBNOEtYOFp5Q1pyT0NZQ0haLWw4X0Z2d0hmc054T3RLQzJNdEEzbkgtSk9WaTl6U0FnTXZleE12eE5walJvY05zeWNLZGF3U040S25CSUVTWDFIT09kemFFMXcyeVFTM3NVQzFkVkZYSEZrTUxiVmlvUGdDbGcyMFI3UlBfR3J3d3JlQThnek8yN0dZaG0yal9HLW9pcTE4WmZOeDk0SnZ4UXFmTVZRZDZfUElWR2ZyQ25JdS12OV93X2gwcHFVcGc?oc=5)
 
@@ -124,6 +124,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUDls
 2026-11-15
 
 Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQTJwbWVQTC1aR29aVnlkTXpWU05WWm42RGI2eHN4cUNFMEZrSnB6X0N2M0p2OVo2bTFodHdZT1p4SVFWTDRUNnNUZHRSTzcxSEhXTXhZd3NqdWl6cDZsU0lUcHltWEo5UkpFdUFPRnpOd2ZvVVF4c0hIZTRYdGFZVmViOUdYRm95ekVLU3dKcTRScXVMeUZzSE9xUzdWUEdMODZDUkYxSmJSSVhGc2psTVVpX2ljOVBrajl6SmdCdGhsNnZPQkhQcQ?oc=5)
+
+---
+
+### [Exact blood pressure reading that puts you at risk of vision loss and dementia - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
+
+2026-11-15
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXaXpPZGZIc3Y5SzMyX2pxTWNQXzctVXV1akMzVk84bWRQaWh2TDBmNGh6a3J3Wk9CNjNTTHhCUVJvRkF6cFY1NldKRG5JNE5SQ2FxTGhrV0l3YlgtUkxVaENoc0RfQ05RTXk5YllNeFdEQkpOMnRxdnp4dWxic0dTY0Q3N1FsQ1Zramd30gGTAUFVX3lxTE8tekN0U3E2QXNTelVieVppRkxjSUpXNDF1eHlwVGxqVUNnaEVhVTdydWpKTkczRGhSTVhHbllKa0xOWk8xVjd4RGVNUGtDZFdFWUw5UXNCYnZzRnNTYjNlM3VCV1NoQXBKODV6ay0ybk1jeDJHZkJBaFZmT0lUUmh5WGV0bThOWVhzZExpeHlIVlFvdw?oc=5)
 
 ---
 

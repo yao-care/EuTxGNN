@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Granisetron. 10 predicted indications."
 permalink: /news/granisetron/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Granisetron News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Granisetron?">
-<strong>Granisetron</strong> currently has <strong>27 news articles</strong>, with 10 predicted indications.
+<strong>Granisetron</strong> currently has <strong>28 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Granisetron with the latest 
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (27)
+## Related News (28)
+
+### [“Se desperdician ocasiones de diagnóstico precoz en epoc”](https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0gzZ0ZFeXN6ZTFKVk1uOWFpM0ZmMWJ0NXpRWjRJdGNnbTVKYlNlMzdIaHV5ajJ3NU02UkN6OWpYWHR3ZVJWUkY3OGJrMWxLUGdqNUZLS0VCQ1NYaGVzWk1TeS1xUE43dzJ4N1NDUnNSUmlLRU9nQmxNRUQ4dWhTVm9MaGN2cDFpSTZwbw?oc=5)
+
+2026-11-17 <span class="news-indication-tag">EPOC</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0gzZ0ZFeXN6ZTFKVk1uOWFpM0ZmMWJ0NXpRWjRJdGNnbTVKYlNlMzdIaHV5ajJ3NU02UkN6OWpYWHR3ZVJWUkY3OGJrMWxLUGdqNUZLS0VCQ1NYaGVzWk1TeS1xUE43dzJ4N1NDUnNSUmlLRU9nQmxNRUQ4dWhTVm9MaGN2cDFpSTZwbw?oc=5)
+
+---
 
 ### [Herzgesundheit: Wie viel Kaffee schützt vor Vorhofflimmern?](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUhTUmxQVGhkMHAxeTV1R2RwVUFjX0RUM0g5eGdtYmFoS1I1aVljempNZkxsd0RndnlsMHJ5XzBCeC1rUWJrdTZhMnRobFNFWWdVSkhLZXQwZlRBQXpJRmluMEh1UXBXNmxhWGJjWWFuNVNXWldpYkVnVXNnODh3VE54QXBVN0NCS2ZNRDJENHgyWU0?oc=5)
 
@@ -76,11 +84,11 @@ Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRn
 
 ---
 
-### [COPD-Exazerbationen vorbeugen: Welche Strategien sich bewährt haben - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
+### [COPD-Exazerbationen vorbeugen: Welche Strategien sich bewährt haben](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
 
 2026-11-13 <span class="news-indication-tag">copd</span>
 
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Epinephrine. 3 predicted indications."
 permalink: /news/epinephrine/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-18
 ---
 
 # Epinephrine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Epinephrine?">
-<strong>Epinephrine</strong> currently has <strong>15 news articles</strong>, with 3 predicted indications.
+<strong>Epinephrine</strong> currently has <strong>16 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (16)
+
+### [“Se desperdician ocasiones de diagnóstico precoz en epoc”](https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0gzZ0ZFeXN6ZTFKVk1uOWFpM0ZmMWJ0NXpRWjRJdGNnbTVKYlNlMzdIaHV5ajJ3NU02UkN6OWpYWHR3ZVJWUkY3OGJrMWxLUGdqNUZLS0VCQ1NYaGVzWk1TeS1xUE43dzJ4N1NDUnNSUmlLRU9nQmxNRUQ4dWhTVm9MaGN2cDFpSTZwbw?oc=5)
+
+2026-11-17 <span class="news-indication-tag">EPOC</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0gzZ0ZFeXN6ZTFKVk1uOWFpM0ZmMWJ0NXpRWjRJdGNnbTVKYlNlMzdIaHV5ajJ3NU02UkN6OWpYWHR3ZVJWUkY3OGJrMWxLUGdqNUZLS0VCQ1NYaGVzWk1TeS1xUE43dzJ4N1NDUnNSUmlLRU9nQmxNRUQ4dWhTVm9MaGN2cDFpSTZwbw?oc=5)
+
+---
 
 ### [Les moisissures dans l’air intérieur des logements favorisent l’asthme. Pourtant, ce risque est évitable - Orange Actualités](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZFR1UDJ6NTR6eTU3X2hGQTN4cUxrZ2ZFeFJtZmpreXhwdFdqRURGb1lZTXg3TkJETlBvOWJoUDJndnFSc3dFTmZTaFdvX3FCcV9ZRHh3cTBNcmo0aWRicW5NclFoUVVlS0pFSnZuWTFhaUZEX2NnT3RZQU81R3YwcG4tcVRGLTVBeXZRMVdCaGNiaDJQSVhncC1zOG1RQm5SMzQzdFhEa0JwRGVkWkR3VFZka3oxMUw4UWwtMFB2RDlUSTZZZWdpR0MzRnZZcEl4SndVdGYzS0w1WXNTSklUZ2lsZTJuaVFPV3FUTkxSTGZpVC1mSkNWZEp5Y193Zw?oc=5)
 
@@ -45,11 +53,11 @@ Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi_gFBVV95cU
 
 ---
 
-### [COPD-Exazerbationen vorbeugen: Welche Strategien sich bewährt haben - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
+### [COPD-Exazerbationen vorbeugen: Welche Strategien sich bewährt haben](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
 
 2026-11-13 <span class="news-indication-tag">copd</span>
 
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTNlY1NUQUdGYkxrVXhUMDNoYU9nSGJXTk9kQ3JwdTRRbWhrZXdvLWppSmdsT2k5ako5VXRXRHdjZHByUmpGY1cyWkJudEY5OWNKVHN0bFZ1MElPdWpDSUFyZGNjQ1pJVjFjWVJFUVlLWGo4Q1JDZE1ydkljWHVRX3VNMXJJdk9aa1cxVS1GT19oSmN6MjJsU2hvel9HbHBGQm5YaFRSVUJ3Zw?oc=5)
 
 ---
 
