@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 246
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Etelcalcetide"
 predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "varicose disease"]
 description: "Etelcalcetide: predicted new indication Hyperphosphatemia (disease) (evidence level L4). Approved use: Parsabiv is indicated for the treatment of secondary hyperparathyroid…"

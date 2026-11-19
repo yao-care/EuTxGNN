@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 92
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Bexarotene"
 predicted_indications: ["primary cutaneous B-cell lymphoma", "lymphosarcoma"]
 description: "Bexarotene: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L5). Approved use: Targretin capsules are indicated for the treatment of skin manifestat…"

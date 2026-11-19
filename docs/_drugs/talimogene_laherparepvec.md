@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 587
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Talimogene laherparepvec"
 predicted_indications: ["glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma"]
 description: "Talimogene Laherparepvec: predicted new indication Glottis squamous cell carcinoma (evidence level L5). Approved use: Imlygic is indicated for the treatment of adults with unresectable me…"

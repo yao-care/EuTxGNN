@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 499
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Pretomanid"
 predicted_indications: ["candidiasis", "leprosy", "coronary artery disease", "myocardial ischemia", "anomalous left coronary artery from the pulmonary artery"]
 description: "Pretomanid: predicted new indication Candidiasis (evidence level L5). Approved use: Dovprela is indicated in combination with bedaquiline and linezolid…"

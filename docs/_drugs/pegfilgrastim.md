@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 472
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Pegfilgrastim"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
 description: "Pegfilgrastim: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Reduction in the duration of neutropenia and the incidence of febrile…"

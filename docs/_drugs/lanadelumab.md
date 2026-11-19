@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Lanadelumab"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Lanadelumab: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). Approved use: Takhzyro is indicated for routine prevention of recurrent attacks of…"
 ---
 

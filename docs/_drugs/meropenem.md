@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 395
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L4). Approved use: Complicated urinary tract infection (cUTI) including pyelonephritis…"
 monitor_inn: "Meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "Ureaplasma urethritis", "gonococcal urethritis"]

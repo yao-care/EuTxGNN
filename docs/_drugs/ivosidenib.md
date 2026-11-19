@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ivosidenib"
 predicted_indications: ["bulbar polio"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Ivosidenib: predicted new indication bulbar polio (evidence level L5). Approved use: Tibsovo in combination with azacitidine is indicated for the treatmen…"
 ---
 

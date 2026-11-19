@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 533
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Rivastigmine: predicted new indication Glaucoma (evidence level L5). Approved use: Symptomatic treatment of mild to moderately severe Alzheimer's dement…"
 monitor_inn: "Rivastigmine"
 predicted_indications: ["glaucoma"]

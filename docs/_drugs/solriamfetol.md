@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 570
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Solriamfetol"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "attention deficit hyperactivity disorder, inattentive type", "chondromyxoid fibroma", "specific developmental disorder", "variably protease-sensitive prionopathy", "multiple system atrophy", "postural orthostatic tachycardia syndrome", "disorder of peroxisomal alpha-, beta- and omega-oxidation"]
 description: "Solriamfetol: predicted new indication Attention deficit-hyperactivity disorder (evidence level L2). Approved use: Sunosi is indicated to improve wakefulness and reduce excessive dayti…"

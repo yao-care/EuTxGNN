@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 681
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Zanubrutinib: predicted new indication Myeloid leukemia (evidence level L5). Approved use: Waldenström's macroglobulinaemia (WM) after at least one prior therap…"
 monitor_inn: "Zanubrutinib"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]

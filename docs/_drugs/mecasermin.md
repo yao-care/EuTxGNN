@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Mecasermin"
 predicted_indications: ["monosomy X", "Wolman disease with hypolipoproteinemia and acanthocytosis", "esophageal varices with bleeding", "esophageal varices without bleeding"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Mecasermin: predicted new indication monosomy X (evidence level L5). Approved use: For the long-term treatment of growth failure in children and adolesc…"
 ---
 
