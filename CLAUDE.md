@@ -650,3 +650,8 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 2026-10-31～11-06 許可證修正時直接刪掉的矛盾子句（10-31 fd396bc5dc、11-06 7a71842760／aa1f2cd5fb／dfa8df9667／46cc020fc2／ee5c125fb7／76948f4ff3），2026-11-12 由 scripts/reviews_from_edits.py 依 git 前後版本轉入。
 `scripts/sync_notes_to_docs.py` 依 notes 重寫整頁時會重套紀錄，notes 裡的舊錯句會被紀錄再更正一次。
 2026-11-12 正文許可證狀態對事實層的掃描：atosiban 正文寫「EU 已不再許可」，EMA 兩張皆 Authorised，以 `eu-lic-20261112-atosiban-1` 刪掉這個子句；其他頁的張數句與事實層一致。
+
+## 說明頁與證據等級頁的在地資料（2026-11-19）
+
+用戶 2026-11-19 決定的第一批改版（母目錄 `.claude/gen_local_pages_20261119.py` 產生，不逐站手改）：說明頁（about／guide／sources／downloads／methodology，自有結構站只有證據等級頁與隱私頁）加本站資料區塊（`<!-- local-facts -->`）、證據等級頁的事實段與藥名表（`<!-- tier-facts -->`、`<!-- tier-table -->`）、隱私頁的適用法律／權利／著作權與資料來源段（`<!-- privacy-law -->`）；en／es／de 樣板站的共用長段落縮成一段（`<!-- local-condensed -->`）。
+資料檔 `docs/_data/local_facts.json`、`docs/_data/evidence_tier_facts.json` 由 `scripts/local_facts.py`（＝母目錄 `.claude/local_facts_lib.py`）依藥物頁、許可證快照、查核紀錄、FHIR 算；`apply_drug_reviews.py`、許可證快照程式結尾會自動 `--write`，`check_seo_docs.py` 跑 `--check` 擋過期。跨站欄位（cross：本站獨有預測、30 站中位數）與頁面區塊只由母目錄產生器更新；藥物頁改等級、noindex 或預測後要在母目錄重跑。

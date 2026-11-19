@@ -1,0 +1,464 @@
+{
+ "_about": "本檔由 scripts/local_facts.py 產生（母目錄 .claude/local_facts_lib.py），勿手改；cross 欄位由母目錄 .claude/gen_local_pages_20261119.py 更新",
+ "drugs_total": 560,
+ "level_counts": {
+  "L1": 7,
+  "L2": 16,
+  "L3": 13,
+  "L4": 30,
+  "L5": 374
+ },
+ "level_na": 120,
+ "public_pages": 560,
+ "licence_snapshot": "eu_licenses.json.gz",
+ "licence": {
+  "drugs_with_data": 560,
+  "drugs_with_current": 555,
+  "drugs_none_current": 5,
+  "drugs_without_data": 0,
+  "drugs_partial": 0,
+  "items_total": 1488,
+  "items_current": 1234
+ },
+ "reviews": {
+  "records": 448,
+  "pages": 275,
+  "public_pages_with_records": 264,
+  "by_action": {
+   "correct": 448
+  }
+ },
+ "fhir": {
+  "medication_knowledge": 560,
+  "clinical_use_definition": 2613
+ },
+ "top_licensed": [
+  {
+   "t": "Denosumab",
+   "u": "/drugs/denosumab/",
+   "l": "L5",
+   "lt": 32,
+   "lv": 32,
+   "r": 0,
+   "i": "severe nonproliferative diabetic retinopathy"
+  },
+  {
+   "t": "Metformin",
+   "u": "/drugs/metformin/",
+   "l": "L5",
+   "lt": 23,
+   "lv": 19,
+   "r": 2,
+   "i": "focal stiff limb syndrome"
+  },
+  {
+   "t": "Emtricitabine",
+   "u": "/drugs/emtricitabine/",
+   "l": "L4",
+   "lt": 19,
+   "lv": 18,
+   "r": 1,
+   "i": "simian immunodeficiency virus infection"
+  },
+  {
+   "t": "Clopidogrel",
+   "u": "/drugs/clopidogrel/",
+   "l": "L5",
+   "lt": 32,
+   "lv": 17,
+   "r": 2,
+   "i": "migraine with brainstem aura"
+  },
+  {
+   "t": "Aflibercept",
+   "u": "/drugs/aflibercept/",
+   "l": "L5",
+   "lt": 14,
+   "lv": 14,
+   "r": 1,
+   "i": "esotropia"
+  },
+  {
+   "t": "Tenofovir Disoproxil",
+   "u": "/drugs/tenofovir-disoproxil/",
+   "l": "L5",
+   "lt": 15,
+   "lv": 14,
+   "r": 1,
+   "i": "feline acquired immunodeficiency syndrome"
+  },
+  {
+   "t": "Pegfilgrastim",
+   "u": "/drugs/pegfilgrastim/",
+   "l": "L5",
+   "lt": 16,
+   "lv": 13,
+   "r": 2,
+   "i": "severe nonproliferative diabetic retinopathy"
+  },
+  {
+   "t": "Sitagliptin",
+   "u": "/drugs/sitagliptin/",
+   "l": "N/A",
+   "lt": 14,
+   "lv": 13,
+   "r": 0,
+   "i": ""
+  }
+ ],
+ "no_current": [
+  {
+   "t": "Bezlotoxumab",
+   "u": "/drugs/bezlotoxumab/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 1,
+   "i": "acute female pelvic peritonitis"
+  },
+  {
+   "t": "Duvelisib",
+   "u": "/drugs/duvelisib/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 0,
+   "i": "Hodgkins lymphoma"
+  },
+  {
+   "t": "Lusutrombopag",
+   "u": "/drugs/lusutrombopag/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 1,
+   "i": "hereditary thrombocytopenia with normal platelets"
+  },
+  {
+   "t": "Parathyroid Hormone",
+   "u": "/drugs/parathyroid-hormone/",
+   "l": "L4",
+   "lt": 2,
+   "lv": 0,
+   "r": 1,
+   "i": "migraine disorder"
+  },
+  {
+   "t": "Reteplase",
+   "u": "/drugs/reteplase/",
+   "l": "L5",
+   "lt": 2,
+   "lv": 0,
+   "r": 1,
+   "i": "congenital coronary artery anomaly"
+  }
+ ],
+ "no_current_more": 0,
+ "most_reviewed": [
+  {
+   "t": "Amlodipine",
+   "u": "/drugs/amlodipine/",
+   "l": "L5",
+   "lt": 12,
+   "lv": 8,
+   "r": 4,
+   "i": "brain stem infarction"
+  },
+  {
+   "t": "Olanzapine",
+   "u": "/drugs/olanzapine/",
+   "l": "L5",
+   "lt": 13,
+   "lv": 10,
+   "r": 4,
+   "i": "benign paroxysmal torticollis of infancy"
+  },
+  {
+   "t": "Rivastigmine",
+   "u": "/drugs/rivastigmine/",
+   "l": "L5",
+   "lt": 9,
+   "lv": 7,
+   "r": 4,
+   "i": "glaucoma"
+  },
+  {
+   "t": "Telmisartan",
+   "u": "/drugs/telmisartan/",
+   "l": "L5",
+   "lt": 14,
+   "lv": 8,
+   "r": 4,
+   "i": "Prinzmetal angina"
+  },
+  {
+   "t": "Arsenic Trioxide",
+   "u": "/drugs/arsenic-trioxide/",
+   "l": "L5",
+   "lt": 4,
+   "lv": 3,
+   "r": 3,
+   "i": "unclassified myelodysplastic syndrome"
+  },
+  {
+   "t": "Brigatinib",
+   "u": "/drugs/brigatinib/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 1,
+   "r": 3,
+   "i": "fibromatosis, gingival"
+  }
+ ],
+ "example": {
+  "t": "Tacrolimus",
+  "u": "/drugs/tacrolimus/",
+  "l": "L1",
+  "lt": 6,
+  "lv": 5,
+  "r": 2,
+  "i": "seborrheic dermatitis"
+ },
+ "recent_reviews": [
+  {
+   "t": "Atosiban",
+   "u": "/drugs/atosiban/",
+   "s": "Removed: \"The product is also no longer authorized in the EU\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Zonisamide",
+   "u": "/drugs/zonisamide/",
+   "s": "Removed: \"since both EU authorizations are cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Zidovudine",
+   "u": "/drugs/zidovudine/",
+   "s": "Removed: \"with 2 valid licences out of 2\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Ziconotide",
+   "u": "/drugs/ziconotide/",
+   "s": "Removed: \"he EU authorization has been cancelled, and t\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Zanubrutinib",
+   "u": "/drugs/zanubrutinib/",
+   "s": "Removed: \"Verification of the current EU marketing authorization status, since the data show it as cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Zanamivir",
+   "u": "/drugs/zanamivir/",
+   "s": "Removed: \"The EU authorization is also cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Voxilaprevir",
+   "u": "/drugs/voxilaprevir/",
+   "s": "Removed: \"The EU authorization is also cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Vortioxetine",
+   "u": "/drugs/vortioxetine/",
+   "s": "Removed: \"Clarification of the cancelled EU authorization status and its reasons\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Volanesorsen",
+   "u": "/drugs/volanesorsen/",
+   "s": "Removed: \"and the EU authorization has been cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Vildagliptin",
+   "u": "/drugs/vildagliptin/",
+   "s": "Removed: \"with 3 valid licences out of 3\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Vilanterol",
+   "u": "/drugs/vilanterol/",
+   "s": "Removed: \"and is also cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Vestronidase Alfa",
+   "u": "/drugs/vestronidase-alfa/",
+   "s": "Removed: \"since the EU authorization is cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Verteporfin",
+   "u": "/drugs/verteporfin/",
+   "s": "Removed: \"The EU authorization has also been cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Vernakalant",
+   "u": "/drugs/vernakalant/",
+   "s": "Removed: \"Clarification of why the EU authorization was cancelled and whether the drug is available in the EU\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Venetoclax",
+   "u": "/drugs/venetoclax/",
+   "s": "Removed: \"and the EU authorisation is recorded as cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Velpatasvir",
+   "u": "/drugs/velpatasvir/",
+   "s": "Removed: \"given that both authorizations are cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Varenicline",
+   "u": "/drugs/varenicline/",
+   "s": "Removed: \"Varenicline's EU authorization is cancelled, and t\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Valsartan",
+   "u": "/drugs/valsartan/",
+   "s": "Removed: \"and all EU authorizations for valsartan-containing products are cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Ustekinumab",
+   "u": "/drugs/ustekinumab/",
+   "s": "Removed: \"In addition, the drug is currently marketed, with 13 valid licences out of 13\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Upadacitinib",
+   "u": "/drugs/upadacitinib/",
+   "s": "Removed: \"The data compiled for this report list this single authorization as cancelled. Since the same…",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Tyrosine",
+   "u": "/drugs/tyrosine/",
+   "s": "Removed: \"of why the Maapliv authorisation was cancelled, and\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Turoctocog Alfa Pegol",
+   "u": "/drugs/turoctocog-alfa-pegol/",
+   "s": "Removed: \"and confirm the reason the EU authorisation was cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Turoctocog Alfa",
+   "u": "/drugs/turoctocog-alfa/",
+   "s": "Removed: \"The product's EU authorization is also cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Tryptophan",
+   "u": "/drugs/tryptophan/",
+   "s": "Removed: \"why the authorisation was cancelled and\"",
+   "d": "2026-11-06"
+  }
+ ],
+ "recent_licence_reviews": [
+  {
+   "t": "Atosiban",
+   "u": "/drugs/atosiban/",
+   "s": "Removed: \"The product is also no longer authorized in the EU\"",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Zonisamide",
+   "u": "/drugs/zonisamide/",
+   "s": "Removed: \"since both EU authorizations are cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Zidovudine",
+   "u": "/drugs/zidovudine/",
+   "s": "Removed: \"with 2 valid licences out of 2\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Ziconotide",
+   "u": "/drugs/ziconotide/",
+   "s": "Removed: \"he EU authorization has been cancelled, and t\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Zanubrutinib",
+   "u": "/drugs/zanubrutinib/",
+   "s": "Removed: \"Verification of the current EU marketing authorization status, since the data show it as cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Zanamivir",
+   "u": "/drugs/zanamivir/",
+   "s": "Removed: \"The EU authorization is also cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Voxilaprevir",
+   "u": "/drugs/voxilaprevir/",
+   "s": "Removed: \"The EU authorization is also cancelled\"",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Vortioxetine",
+   "u": "/drugs/vortioxetine/",
+   "s": "Removed: \"Clarification of the cancelled EU authorization status and its reasons\"",
+   "d": "2026-11-06"
+  }
+ ],
+ "files": {
+  "search_index": 560,
+  "drugs_json": 560
+ },
+ "by_level": {
+  "L1": {
+   "n": 7,
+   "current": 7
+  },
+  "L2": {
+   "n": 16,
+   "current": 16
+  },
+  "L3": {
+   "n": 13,
+   "current": 13
+  },
+  "L4": {
+   "n": 30,
+   "current": 29
+  },
+  "L5": {
+   "n": 374,
+   "current": 370
+  }
+ },
+ "cross": {
+  "unique_pairs": 8,
+  "unique_examples": [
+   {
+    "t": "Florbetaben 18F",
+    "u": "/drugs/florbetaben-18f/",
+    "i": "migraine disorder"
+   },
+   {
+    "t": "Florbetapir 18F",
+    "u": "/drugs/florbetapir-18f/",
+    "i": "bronchitis"
+   },
+   {
+    "t": "Tecovirimat",
+    "u": "/drugs/tecovirimat/",
+    "i": "hookworm infectious disease"
+   }
+  ]
+ }
+}

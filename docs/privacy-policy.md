@@ -83,14 +83,32 @@ We implement appropriate security measures including:
 
 ---
 
-## Your Rights
+<!-- privacy-law:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改；法規與連結見 .claude/privacy_text_20261119.py）-->
+## Applicable law
 
-You have the right to:
+For visitors in the EU and EEA the relevant law is the [General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/eli/reg/2016/679/oj), applied together with national law in each member state; analytics cookies are also subject to the ePrivacy rules as implemented nationally. Each country has its own supervisory authority, listed by the [European Data Protection Board](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en). The operator is based in Taiwan with no EU establishment.
 
-- Access information we hold about you
-- Request correction of inaccurate data
-- Request deletion of your data
-- Opt-out of analytics tracking
+## Your rights and how to use them
+
+- Right of access (Article 15) and rectification (Article 16).
+- Right to erasure (Article 17) and restriction (Article 18).
+- Right to object (Article 21), including to analytics.
+- Right to lodge a complaint with the supervisory authority of your member state (Article 77).
+
+Requests: service@yao.care (there are no accounts, so tell us the date and pages of your visit). Analytics cookies can be blocked or deleted in your browser.
+
+## Copyright and data sources
+
+Copyright in the EU is national law harmonised by [Directive 2001/29/EC](https://eur-lex.europa.eu/eli/dir/2001/29/oj); databases are covered by [Directive 96/9/EC](https://eur-lex.europa.eu/eli/dir/1996/9/oj). The site's code is published under the MIT License in the [GitHub repository](https://github.com/yao-care/EuTxGNN); report texts are © 藥提醒科技有限公司 (yao.care).
+
+Data sources used on this site and their terms:
+
+- **TxGNN** data (Harvard Dataverse): CC0 1.0; cite Huang et al., *Nature Medicine* 2024.
+- **ClinicalTrials.gov**, **PubMed**: [ClinicalTrials.gov terms](https://clinicaltrials.gov/about-site/terms-conditions), [NCBI policies](https://www.ncbi.nlm.nih.gov/home/about/policies/).
+- **DrugBank**: [DrugBank](https://go.drugbank.com/) licence terms, non-commercial use.
+- **Local dataset** – [EMA Medicines report](https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx), published by European Medicines Agency (EMA); reuse is governed by the publisher's terms, and this site does not grant any further rights.
+
+<!-- privacy-law:end -->
 
 ---
 
