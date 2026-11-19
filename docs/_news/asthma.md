@@ -3,9 +3,9 @@ layout: default
 title: "asthme (asthma) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about asthme (asthma). 3 articles, 47 related drugs."
+description: "Health news about asthme (asthma). 4 articles, 47 related drugs."
 permalink: /news/asthma/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-19
 ---
 
 # asthme (asthma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about asthme (asthma)?">
-<strong>asthme (asthma)</strong> currently has <strong>3 news articles</strong> and 47 related drugs.
+<strong>asthme (asthma)</strong> currently has <strong>4 news articles</strong> and 47 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,7 +64,15 @@ This page brings together the latest health news about “asthme” and lists th
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Attention, les moisissures sur les murs sont dangereuses pour la santé - 20 Minutes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVQ3bnhFNGhqeGhObThwdHFuTWt3MXZUSk5Pc01zS05XemJ2cFNRUmI3dWUyQ3lKMExmTkVPcmxuRk5ydzFrVG0tWDc5dmpGT0Jkc3R4cDFWeTE5ZVZySEQ5Z19rY0Z5RzRvNXdZYk92clplRE1ocHV3Vml0eWNKZ1l3VGtidU1PTk9ZanNFcTZqb3FsWFpFclByTmM5RVFEdXc?oc=5)
+
+2026-11-18
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVQ3bnhFNGhqeGhObThwdHFuTWt3MXZUSk5Pc01zS05XemJ2cFNRUmI3dWUyQ3lKMExmTkVPcmxuRk5ydzFrVG0tWDc5dmpGT0Jkc3R4cDFWeTE5ZVZySEQ5Z19rY0Z5RzRvNXdZYk92clplRE1ocHV3Vml0eWNKZ1l3VGtidU1PTk9ZanNFcTZqb3FsWFpFclByTmM5RVFEdXc?oc=5)
+
+---
 
 ### [Les moisissures dans l’air intérieur des logements favorisent l’asthme. Pourtant, ce risque est évitable - Orange Actualités](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZFR1UDJ6NTR6eTU3X2hGQTN4cUxrZ2ZFeFJtZmpreXhwdFdqRURGb1lZTXg3TkJETlBvOWJoUDJndnFSc3dFTmZTaFdvX3FCcV9ZRHh3cTBNcmo0aWRicW5NclFoUVVlS0pFSnZuWTFhaUZEX2NnT3RZQU81R3YwcG4tcVRGLTVBeXZRMVdCaGNiaDJQSVhncC1zOG1RQm5SMzQzdFhEa0JwRGVkWkR3VFZka3oxMUw4UWwtMFB2RDlUSTZZZWdpR0MzRnZZcEl4SndVdGYzS0w1WXNTSklUZ2lsZTJuaVFPV3FUTkxSTGZpVC1mSkNWZEp5Y193Zw?oc=5)
 

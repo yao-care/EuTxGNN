@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tolcapone. 10 predicted indications."
 permalink: /news/tolcapone/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Tolcapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Tolcapone?">
-<strong>Tolcapone</strong> currently has <strong>58 news articles</strong>, with 10 predicted indications.
+<strong>Tolcapone</strong> currently has <strong>59 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Tolcapone with the latest he
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (58)
+## Related News (59)
 
 ### [Being unhappily married increases dementia risk by a third - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0tvQTJDU09XX0dNRy0wb3NpdEZySFUyX3FCa0s4aUtFZ2xGOUVmVnE0OEt5Y1hFc1U2UXg0LWNEYmJhdzN1bG1zbHNGYkdURkNWMWUxOWVHSXMybGVXd1NzWmFWWjBaLUZNZ3NzTExOSnhkTTE1OFNsVnZ1WEdXczd1VTQ3OVdsdXBFdzg5MWVBU3VhQlN2cEdhbDN3Ri1kdS1j?oc=5)
 
@@ -65,6 +65,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxORmN
 2026-11-17 <span class="news-indication-tag">dementia</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmN2d0VYSzRUSlZQRENLbm5YWmFfYWJzRnpsOVpIS0s1RWdZLTZZdnU1MDlPNW9NdVgxVVVrUE44QURYbEdCZGJQUndLQ1hVb2I1YmlsY0p5UzNKeS1LdnNtaDRPV0NFMWN3YUZFa0NheHJJRTVjdjVGRElGQkM3R3duOUFyMEdzS2lScWRvX0VvZw?oc=5)
+
+---
+
+### [Generational gains in cognitive capacity and dementia incidence rates in Western countries](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nNjFvMzFNdFB5c1hqbjNjWVhuUnY1YzVndXhtNm5OZmtJQkpKZ1dPYlJrN1lNYms1OGNFUE5DcHNvcThaaGNKamU3cG5obGhKVHdYa1NoRk1aQ3Jrei1Z?oc=5)
+
+2026-11-17 <span class="news-indication-tag">dementia</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nNjFvMzFNdFB5c1hqbjNjWVhuUnY1YzVndXhtNm5OZmtJQkpKZ1dPYlJrN1lNYms1OGNFUE5DcHNvcThaaGNKamU3cG5obGhKVHdYa1NoRk1aQ3Jrei1Z?oc=5)
 
 ---
 
@@ -208,7 +216,7 @@ Source: [Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZzhLX0lCYU
 
 2026-11-13 <span class="news-indication-tag">Alzheimer's</span>
 
-Source: [Bloomberg.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE5tVFlCTVZJcEFXRTBxRlNvMXZ4dTJXSWhmRENwalZ3TFp3UXVWVlllbUZtaGdqWWl4c2FaRy1kQlBZZlhlcUxwbTZwbm5NSThMSjdFY3ZSMUh4UVFDTC1OcTlfZElzenFMQ2N3TGdlWjVDcFRpemZqa3otQkU?oc=5)
+Source: [Bloomberg](https://news.google.com/rss/articles/CBMifEFVX3lxTE5tVFlCTVZJcEFXRTBxRlNvMXZ4dTJXSWhmRENwalZ3TFp3UXVWVlllbUZtaGdqWWl4c2FaRy1kQlBZZlhlcUxwbTZwbm5NSThMSjdFY3ZSMUh4UVFDTC1OcTlfZElzenFMQ2N3TGdlWjVDcFRpemZqa3otQkU?oc=5)
 
 ---
 

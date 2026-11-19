@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Fenfluramine Hydrochloride. 0 predicted indications."
 permalink: /news/fenfluramine-hydrochloride/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Fenfluramine Hydrochloride News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Fenfluramine Hydrochloride?">
-<strong>Fenfluramine Hydrochloride</strong> currently has <strong>117 news articles</strong>, with 0 predicted indications.
+<strong>Fenfluramine Hydrochloride</strong> currently has <strong>118 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Fenfluramine Hydrochloride w
 <p><a href="{{ '/drugs/fenfluramine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (117)
+## Related News (118)
 
 ### [Desvelan cómo las células del cerebro intervienen en el control del apetito y la obesidad](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzd1SVRHUXZUY3MxN29mQXNRb21Fem04bTBjTzJMS1RjNTZENW11RC1hN0J1UXMwRG1GVVFnblNwQjZxbUFsNjB2eU42eVNHSTJ2Qi1ocWVscFZESmw0SVJraGluQkZURm5uTFFsYWtERG5iTHI4STNzemdyNHpwcThBNGFuSS1lZkJNQ3oyRXYweHlsWE5TYV8tUWkwUXRWbXB6d2ZTRHU3UzRsOE9ySGFISQ?oc=5)
 
@@ -60,6 +60,14 @@ Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm
 2026-11-18 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Il Gazzettino](https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2hnZ181SHVUSTVMMnNsNVlMa3lISkQxd1dxZ2g0V0VkMEpSbEdxRjZWZ25qV0xzWm4xV3dKbW5zdEVjQlV2dXBrRVNHYU4zbk5qWE9lTkhOQ2tuMTNyTXlhd1d0NUx1T09lbWNickRNaDFqZzVlWTlSUE55Z0dXTjhYc1pGUkNwQmEtS19DM0lIWV9sbzU0YkNGVVZWWlc4bk1rUmFQalJjLTVNVTVrMzZDNDlNcGM?oc=5)
+
+---
+
+### [El COF de Barcelona organiza una maratón formativa en obesidad para afrontar desde la farmacia esta pandemia del siglo XXI](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaXZPWTEtSHdrMVJGcmo1VWpGSm9YNTFSSm1EUTdvOHdwb25zZklELTR4RUc5akJSRTNvTTM2S0g0cHlkZU1LeW1LZWswU2ltNTVvbVRHb0E2VGpLYmEyQUx3WE41YzByVFVTc0dVZ3RMVnkwNF94RXRIV0pkMHNtMV9tdlJiemxFZ1hrb19lN1FpNTBNM09oak9ESDVIckw5MW5KQ2s0aTVyejJoT2dqSGxRU0dhMk1vT2JKMFoxTHNudnVWYkJERUZ1d1I5RG9NZ2FLNllMUXBGUFhYLVRkNGJ1MGp0bUdBOXFhVzlJUEFzd0VHNUJwTmRB?oc=5)
+
+2026-11-17 <span class="news-indication-tag">obesidad</span>
+
+Source: [PMFarma](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaXZPWTEtSHdrMVJGcmo1VWpGSm9YNTFSSm1EUTdvOHdwb25zZklELTR4RUc5akJSRTNvTTM2S0g0cHlkZU1LeW1LZWswU2ltNTVvbVRHb0E2VGpLYmEyQUx3WE41YzByVFVTc0dVZ3RMVnkwNF94RXRIV0pkMHNtMV9tdlJiemxFZ1hrb19lN1FpNTBNM09oak9ESDVIckw5MW5KQ2s0aTVyejJoT2dqSGxRU0dhMk1vT2JKMFoxTHNudnVWYkJERUZ1d1I5RG9NZ2FLNllMUXBGUFhYLVRkNGJ1MGp0bUdBOXFhVzlJUEFzd0VHNUJwTmRB?oc=5)
 
 ---
 

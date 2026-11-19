@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Budesonide. 10 predicted indications."
 permalink: /news/budesonide/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Budesonide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Budesonide?">
-<strong>Budesonide</strong> currently has <strong>19 news articles</strong>, with 10 predicted indications.
+<strong>Budesonide</strong> currently has <strong>22 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Budesonide with the latest h
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (22)
+
+### [Colisée destaca la autonomía y la actividad física adaptada para frenar el deterioro de las personas con EPOC](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcVpQSXBhU3U2Q1dTM0EyNWN1VFhKSy12OHFYcWs1TlgtLTkxLUZ5em5mZVFoMGJacWN0VFVfSHlwSWlEdTZpUWNOM2N6SEx3OUZoMWRiT0ZtdElKcHBCSjVockFWVXpvQ0djQ2xUMzkxV3plWVd1TzVQV193cHhFVFRRMUt5ZEUxczkzTVF3UkJQdlh5R0xZSWRGdF94SEVMc2o2eHQzM2hHYndtSE0zZFJ1VXRoNXRKX3VHVVJuSklidWh5RWp5amZVWjZyM0gyeHFUZy1jMEE1WlgzcWpLbGdGdVBXbWJnTlJHQ3hlMXg?oc=5)
+
+2026-11-19 <span class="news-indication-tag">EPOC</span>
+
+Source: [Dependencia.Info](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcVpQSXBhU3U2Q1dTM0EyNWN1VFhKSy12OHFYcWs1TlgtLTkxLUZ5em5mZVFoMGJacWN0VFVfSHlwSWlEdTZpUWNOM2N6SEx3OUZoMWRiT0ZtdElKcHBCSjVockFWVXpvQ0djQ2xUMzkxV3plWVd1TzVQV193cHhFVFRRMUt5ZEUxczkzTVF3UkJQdlh5R0xZSWRGdF94SEVMc2o2eHQzM2hHYndtSE0zZFJ1VXRoNXRKX3VHVVJuSklidWh5RWp5amZVWjZyM0gyeHFUZy1jMEE1WlgzcWpLbGdGdVBXbWJnTlJHQ3hlMXg?oc=5)
+
+---
+
+### [Attention, les moisissures sur les murs sont dangereuses pour la santé - 20 Minutes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVQ3bnhFNGhqeGhObThwdHFuTWt3MXZUSk5Pc01zS05XemJ2cFNRUmI3dWUyQ3lKMExmTkVPcmxuRk5ydzFrVG0tWDc5dmpGT0Jkc3R4cDFWeTE5ZVZySEQ5Z19rY0Z5RzRvNXdZYk92clplRE1ocHV3Vml0eWNKZ1l3VGtidU1PTk9ZanNFcTZqb3FsWFpFclByTmM5RVFEdXc?oc=5)
+
+2026-11-18 <span class="news-indication-tag">asthme</span>
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVQ3bnhFNGhqeGhObThwdHFuTWt3MXZUSk5Pc01zS05XemJ2cFNRUmI3dWUyQ3lKMExmTkVPcmxuRk5ydzFrVG0tWDc5dmpGT0Jkc3R4cDFWeTE5ZVZySEQ5Z19rY0Z5RzRvNXdZYk92clplRE1ocHV3Vml0eWNKZ1l3VGtidU1PTk9ZanNFcTZqb3FsWFpFclByTmM5RVFEdXc?oc=5)
+
+---
 
 ### [Fenaer reclama impulsar la espirometrías en Atención Primaria para mejorar el diagnóstico precoz de la EPOC](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWGVqVkI0cDdxNmt5VjRzYnhGZDJPb1o5STFqQXdlSGdMRFU3U2Q0dGlTRE1hZ0syOUtwdmJHSV82V2JXVko3QUJYRnUzM2I2bTNzMHNDMVU0RVFvbXZhTHpPejlsOUhaNzd2U01iOGZyamY5UGFSSDBjcmU2NWpQc2Nza0g2ZGxxWUNGaU9rWDZvRVMwZ2hNcmRWd2djLU1XcGxOTFVPanNldU43TDdxSVBVU1k4eFJDSGRxaFRJTTRrQV9ZNVlGdkxjNXZGeHMyX2E3ZUFZMjctY0hCOEFndHdaSXJvZDg?oc=5)
 
@@ -65,6 +81,14 @@ Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU
 2026-11-18 <span class="news-indication-tag">EPOC</span>
 
 Source: [EntreMayores](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHRMSkVKZ3dsYzlZTThhVmZ0bm5CSG5NcUpiOHFBaDd6OTVkbkNyekh6dzhJQWlQVDhxZDJzVmVsT1hoM1F1ZUlRSzJWdDNVWFRDSU02ZENKSUFjaVoxU0hfZWxzY2tzUjBhNzFidzFWSVZDVTJCYlpneEdoRWFjYkptTG1DZndmZWZlT2FUcWgzX1Q3ZzdPUHAwb0ZNZTlkRU1HeEFGVU45UE16cVJIaUlPV1lfbkU?oc=5)
+
+---
+
+### [Donegal people urged to get persistent coughs and breathlessness checked for COPD - Highland Radio](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEJqa1h1WVVFU3FMV0E2M2RkdnJ2SmZfU2tzRmhaZEpmQTdULUo1Y28wRHpURkM3dFEtX0ppd2JRWnpMMDlwNGRQWFlwZUd5MmctajFFMUE3VE9laFFVbGdnUVgtUGoxNExXN1lra01TQVlSNW9pS1doVjVxZnNabjlZQmVhQ3ZsMUxlQmJPbW5maVpsMmZIaWZUVGRLVEtJM29jV0NiTmNaR2xKVW40bXBpZU1NUzZ0Qkww?oc=5)
+
+2026-11-18 <span class="news-indication-tag">copd</span>
+
+Source: [Highland Radio](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEJqa1h1WVVFU3FMV0E2M2RkdnJ2SmZfU2tzRmhaZEpmQTdULUo1Y28wRHpURkM3dFEtX0ppd2JRWnpMMDlwNGRQWFlwZUd5MmctajFFMUE3VE9laFFVbGdnUVgtUGoxNExXN1lra01TQVlSNW9pS1doVjVxZnNabjlZQmVhQ3ZsMUxlQmJPbW5maVpsMmZIaWZUVGRLVEtJM29jV0NiTmNaR2xKVW40bXBpZU1NUzZ0Qkww?oc=5)
 
 ---
 

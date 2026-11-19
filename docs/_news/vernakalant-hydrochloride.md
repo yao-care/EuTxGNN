@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Vernakalant Hydrochloride. 0 predicted indications."
 permalink: /news/vernakalant-hydrochloride/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Vernakalant Hydrochloride News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Vernakalant Hydrochloride?">
-<strong>Vernakalant Hydrochloride</strong> currently has <strong>241 news articles</strong>, with 0 predicted indications.
+<strong>Vernakalant Hydrochloride</strong> currently has <strong>244 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,23 @@ This page combines the AI-predicted indications for Vernakalant Hydrochloride wi
 <p><a href="{{ '/drugs/vernakalant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (241)
+## Related News (244)
+
+### [38-jähriger Mann nach Hirnblutung in kritischem Zustand: Eine warnende Geschichte über eine Krankheit, die viele junge Menschen für selbstverständlich halten.](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
+
+---
+
+### [Unterschätzen Sie nicht die Anzeichen eines Herzinfarkts oder Schlaganfalls bei jungen Menschen.](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXdwVGtpOEpHVDBvWERoMFc3SWpfaXFHX1B3MzhoQVIwTXNSSTVyNW1ycHJSMzBLZjdxcVEwZzdHQnZtdG9lSS13YlBkZHVPNjRPTUVmSzZpMDdZNlp6OGFvdE5QT2JRczhIMUVyVWRLbkRReTU0QUdHS1FyQlgyNS13UFI1d0FvYTdlZlhmaktFZw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXdwVGtpOEpHVDBvWERoMFc3SWpfaXFHX1B3MzhoQVIwTXNSSTVyNW1ycHJSMzBLZjdxcVEwZzdHQnZtdG9lSS13YlBkZHVPNjRPTUVmSzZpMDdZNlp6OGFvdE5QT2JRczhIMUVyVWRLbkRReTU0QUdHS1FyQlgyNS13UFI1d0FvYTdlZlhmaktFZw?oc=5)
+
+---
 
 ### [Suffering from migraines linked to an increased risk of deadly condition by the age of 60 - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
 
@@ -124,6 +140,14 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxP
 2026-11-17 <span class="news-indication-tag">ictus</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUGxpeFpNblNWenlEWngyZjNNckZ0RjJEVnpSbUdBZDJIb0l0Tno5NHJ0cDg2eWRGc3k3eEJObGFnZGlLLThKd3pibW13YUQ1b1MySXZmeUhGeXlTSkJTXzF1T1E5RjRWN092ajNocWZUenBmSnN2SHFLOHFiTUZKRFdULW4xWXdzSHVGdXl4dnhLR3lIU0FvUi1XTlVTNzZtNDIwZTE5ak1pMnJneVJZU2RDc1paRGJSVDdPdjV5ZXVmVGtxWVpoenZWSTRaRWNkakxZ?oc=5)
+
+---
+
+### [El COF de Barcelona organiza una maratón formativa en obesidad para afrontar desde la farmacia esta pandemia del siglo XXI](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaXZPWTEtSHdrMVJGcmo1VWpGSm9YNTFSSm1EUTdvOHdwb25zZklELTR4RUc5akJSRTNvTTM2S0g0cHlkZU1LeW1LZWswU2ltNTVvbVRHb0E2VGpLYmEyQUx3WE41YzByVFVTc0dVZ3RMVnkwNF94RXRIV0pkMHNtMV9tdlJiemxFZ1hrb19lN1FpNTBNM09oak9ESDVIckw5MW5KQ2s0aTVyejJoT2dqSGxRU0dhMk1vT2JKMFoxTHNudnVWYkJERUZ1d1I5RG9NZ2FLNllMUXBGUFhYLVRkNGJ1MGp0bUdBOXFhVzlJUEFzd0VHNUJwTmRB?oc=5)
+
+2026-11-17 <span class="news-indication-tag">obesidad</span>
+
+Source: [PMFarma](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaXZPWTEtSHdrMVJGcmo1VWpGSm9YNTFSSm1EUTdvOHdwb25zZklELTR4RUc5akJSRTNvTTM2S0g0cHlkZU1LeW1LZWswU2ltNTVvbVRHb0E2VGpLYmEyQUx3WE41YzByVFVTc0dVZ3RMVnkwNF94RXRIV0pkMHNtMV9tdlJiemxFZ1hrb19lN1FpNTBNM09oak9ESDVIckw5MW5KQ2s0aTVyejJoT2dqSGxRU0dhMk1vT2JKMFoxTHNudnVWYkJERUZ1d1I5RG9NZ2FLNllMUXBGUFhYLVRkNGJ1MGp0bUdBOXFhVzlJUEFzd0VHNUJwTmRB?oc=5)
 
 ---
 

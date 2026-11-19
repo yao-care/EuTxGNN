@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Loxapine. 9 predicted indications."
 permalink: /news/loxapine/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Loxapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Loxapine?">
-<strong>Loxapine</strong> currently has <strong>31 news articles</strong>, with 9 predicted indications.
+<strong>Loxapine</strong> currently has <strong>33 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Loxapine with the latest hea
 <p><a href="{{ '/drugs/loxapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (31)
+## Related News (33)
+
+### [MS war lange Utopie: „Ich fühle mich wie ein Frosch in heißem Wasser“](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVXN3bHJlRkFRTnBHaW82UUdZajdGSlhjLXQtWGRwdW90c1VGT1lILTBOVVZrcFh0UE9NZlNodWN1alZRRTlpRGdlQkJMaENNcWtxOVl1cnYzQzJXSGdxbDVtS080OHoySmdzSkxCWE5qZXlKQjAtVHhMY3BZS0hGRmczaXZhZmxOT01mM3ctM2h1dWFXOHNHaVZ4T01HaGpjdEpSdVh0TDdyeW1adFFwVXZoOS1NcEN5S0ZUaWE5cHZtVnBZRnh2RW4yX09XbWNKZkZ0ZHRJLU1ac1Bo?oc=5)
+
+2026-11-19 <span class="news-indication-tag">MS</span>
+
+Source: [Come-on](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVXN3bHJlRkFRTnBHaW82UUdZajdGSlhjLXQtWGRwdW90c1VGT1lILTBOVVZrcFh0UE9NZlNodWN1alZRRTlpRGdlQkJMaENNcWtxOVl1cnYzQzJXSGdxbDVtS080OHoySmdzSkxCWE5qZXlKQjAtVHhMY3BZS0hGRmczaXZhZmxOT01mM3ctM2h1dWFXOHNHaVZ4T01HaGpjdEpSdVh0TDdyeW1adFFwVXZoOS1NcEN5S0ZUaWE5cHZtVnBZRnh2RW4yX09XbWNKZkZ0ZHRJLU1ac1Bo?oc=5)
+
+---
 
 ### [GLP-1-Therapien: Metaanalyse findet weniger Vorhofflimmern](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcE03VURHR0RUazgzeTRCZGhGT19nRG54d0dYb0hVWk5DWklXMFJzWHJFUnIwbTNXOVBGclB6eFYxMThWUVV5VVhWOEFZckRzc2VsTEhzYTNnS2ZRaEtuU2FVbnVIVkItc0t1RTc3czJObnhzV3M2ci1lTHVieFk1T2MxblNsd1ltNDQtbjlZd19mcFV2SlhlZTBR?oc=5)
 
@@ -64,6 +72,14 @@ Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBV
 2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+---
+
+### [Daily supplement may help ease MS fatigue, small trial suggests - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHFiSVdydzFkSkJvQnY3ZGFCdWhjbmloZUZULURqaHBNNE5seWYybmRGcFk4R1ljR3Q1X19aUFZpMEJXal94ZURmZXQwelBGN05kLWdPckJWYjEyQ1pyd1lsWThfSmRpV1huNGc1a2c0anNwbnpoMlY5MDdoNEFMWEF4dF9nc1JManhpUGZGem9GeWQyeUNRb3ZnLTdnck95V1FoOWJVMkZVUGxhVnBDT3d0c0FwOGF5ckVBWA?oc=5)
+
+2026-11-18 <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHFiSVdydzFkSkJvQnY3ZGFCdWhjbmloZUZULURqaHBNNE5seWYybmRGcFk4R1ljR3Q1X19aUFZpMEJXal94ZURmZXQwelBGN05kLWdPckJWYjEyQ1pyd1lsWThfSmRpV1huNGc1a2c0anNwbnpoMlY5MDdoNEFMWEF4dF9nc1JManhpUGZGem9GeWQyeUNRb3ZnLTdnck95V1FoOWJVMkZVUGxhVnBDT3d0c0FwOGF5ckVBWA?oc=5)
 
 ---
 

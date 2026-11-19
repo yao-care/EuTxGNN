@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Abaloparatide. 4 predicted indications."
 permalink: /news/abaloparatide/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Abaloparatide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>268 news articles</strong>, with 4 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>269 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (268)
+## Related News (269)
 
 ### [Suffering from migraines linked to an increased risk of deadly condition by the age of 60 - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
 
@@ -891,6 +891,14 @@ Source: [mgo medizin](https://news.google.com/rss/articles/CBMirgFBVV95cUxOeWFaa
 2026-11-13 <span class="news-indication-tag">diabetes</span>
 
 Source: [El Correo de Burgos](https://news.google.com/rss/articles/CBMitgFBVV95cUxPa09qZlBvS2hEejVXbUdXRTBqS294Q3prWW1oYXVEdlhpNWNmdWQxQUR5ckE3cVRtWjV5NTlWd25BeTEydHFsc0dwckZpbnVvVHFmV1hTQnNfUXJ3N3hkUDdDU1BDWGJGakZXLVg0cVFWc2ZkeHpkVXFtLVZRUFF4LVh3U0pOUWZUcXlGTlpzcDdDVDhJRzRVTzlxZ01VNElrZ0l6NF9RYTBZUVVXZmF6bzlBTXR3d9IBuwFBVV95cUxOYUdBb2hoZnBRQ1lNVWhBTjdqZGNWQVRHSElfWWxrTmJPVWE5X2N3cjNUQVdsd1VHanBCUGVPMFBkVGNUeDc3ZkJybC1xZEZkUzhBNmVvV2gyMG82cmtBQnBqVGo2V0JrZnZ3MnZHUGpvdmpwNXpaai1EN29PaGdUZmE3TmEyYnpkSnA0RkFCOTE3YVg1SjlwVHBmOVQwQnJ3V0xVV28wX2hqTk9KdHQzTGJMNGdoczJpWXJZ?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Früh erkennen und weiter denken - mgo medizin](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZktKTW9IQ2x5SmF0NFB4SldmQS1BbERRLUVGdWtUcE9MaU1VQWl4Zkc0UWpQVjlQZkVtdUpxQ19GaFAyVGR1VjNYWTloWHRUS2taQWFwNHh1Yi01YWtYeHhPcWlrNDE3RWJQeS1OaE1OcjY2RnJlaHdwQm1RU25CWm5yOFJNeUw4OFg5TQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [mgo medizin](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZktKTW9IQ2x5SmF0NFB4SldmQS1BbERRLUVGdWtUcE9MaU1VQWl4Zkc0UWpQVjlQZkVtdUpxQ19GaFAyVGR1VjNYWTloWHRUS2taQWFwNHh1Yi01YWtYeHhPcWlrNDE3RWJQeS1OaE1OcjY2RnJlaHdwQm1RU25CWm5yOFJNeUw4OFg5TQ?oc=5)
 
 ---
 

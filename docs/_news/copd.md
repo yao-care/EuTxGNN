@@ -3,9 +3,9 @@ layout: default
 title: "EPOC (copd) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about EPOC (copd). 16 articles, 26 related drugs."
+description: "Health news about EPOC (copd). 18 articles, 26 related drugs."
 permalink: /news/copd/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # EPOC (copd) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about EPOC (copd)?">
-<strong>EPOC (copd)</strong> currently has <strong>16 news articles</strong> and 26 related drugs.
+<strong>EPOC (copd)</strong> currently has <strong>18 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “EPOC” and lists the 
 </ul>
 </div>
 
-## Related News (16)
+## Related News (18)
+
+### [Colisée destaca la autonomía y la actividad física adaptada para frenar el deterioro de las personas con EPOC](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcVpQSXBhU3U2Q1dTM0EyNWN1VFhKSy12OHFYcWs1TlgtLTkxLUZ5em5mZVFoMGJacWN0VFVfSHlwSWlEdTZpUWNOM2N6SEx3OUZoMWRiT0ZtdElKcHBCSjVockFWVXpvQ0djQ2xUMzkxV3plWVd1TzVQV193cHhFVFRRMUt5ZEUxczkzTVF3UkJQdlh5R0xZSWRGdF94SEVMc2o2eHQzM2hHYndtSE0zZFJ1VXRoNXRKX3VHVVJuSklidWh5RWp5amZVWjZyM0gyeHFUZy1jMEE1WlgzcWpLbGdGdVBXbWJnTlJHQ3hlMXg?oc=5)
+
+2026-11-19
+
+Source: [Dependencia.Info](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcVpQSXBhU3U2Q1dTM0EyNWN1VFhKSy12OHFYcWs1TlgtLTkxLUZ5em5mZVFoMGJacWN0VFVfSHlwSWlEdTZpUWNOM2N6SEx3OUZoMWRiT0ZtdElKcHBCSjVockFWVXpvQ0djQ2xUMzkxV3plWVd1TzVQV193cHhFVFRRMUt5ZEUxczkzTVF3UkJQdlh5R0xZSWRGdF94SEVMc2o2eHQzM2hHYndtSE0zZFJ1VXRoNXRKX3VHVVJuSklidWh5RWp5amZVWjZyM0gyeHFUZy1jMEE1WlgzcWpLbGdGdVBXbWJnTlJHQ3hlMXg?oc=5)
+
+---
 
 ### [Fenaer reclama impulsar la espirometrías en Atención Primaria para mejorar el diagnóstico precoz de la EPOC](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWGVqVkI0cDdxNmt5VjRzYnhGZDJPb1o5STFqQXdlSGdMRFU3U2Q0dGlTRE1hZ0syOUtwdmJHSV82V2JXVko3QUJYRnUzM2I2bTNzMHNDMVU0RVFvbXZhTHpPejlsOUhaNzd2U01iOGZyamY5UGFSSDBjcmU2NWpQc2Nza0g2ZGxxWUNGaU9rWDZvRVMwZ2hNcmRWd2djLU1XcGxOTFVPanNldU43TDdxSVBVU1k4eFJDSGRxaFRJTTRrQV9ZNVlGdkxjNXZGeHMyX2E3ZUFZMjctY0hCOEFndHdaSXJvZDg?oc=5)
 
@@ -66,6 +74,14 @@ Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU
 2026-11-18
 
 Source: [EntreMayores](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHRMSkVKZ3dsYzlZTThhVmZ0bm5CSG5NcUpiOHFBaDd6OTVkbkNyekh6dzhJQWlQVDhxZDJzVmVsT1hoM1F1ZUlRSzJWdDNVWFRDSU02ZENKSUFjaVoxU0hfZWxzY2tzUjBhNzFidzFWSVZDVTJCYlpneEdoRWFjYkptTG1DZndmZWZlT2FUcWgzX1Q3ZzdPUHAwb0ZNZTlkRU1HeEFGVU45UE16cVJIaUlPV1lfbkU?oc=5)
+
+---
+
+### [Donegal people urged to get persistent coughs and breathlessness checked for COPD - Highland Radio](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEJqa1h1WVVFU3FMV0E2M2RkdnJ2SmZfU2tzRmhaZEpmQTdULUo1Y28wRHpURkM3dFEtX0ppd2JRWnpMMDlwNGRQWFlwZUd5MmctajFFMUE3VE9laFFVbGdnUVgtUGoxNExXN1lra01TQVlSNW9pS1doVjVxZnNabjlZQmVhQ3ZsMUxlQmJPbW5maVpsMmZIaWZUVGRLVEtJM29jV0NiTmNaR2xKVW40bXBpZU1NUzZ0Qkww?oc=5)
+
+2026-11-18
+
+Source: [Highland Radio](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEJqa1h1WVVFU3FMV0E2M2RkdnJ2SmZfU2tzRmhaZEpmQTdULUo1Y28wRHpURkM3dFEtX0ppd2JRWnpMMDlwNGRQWFlwZUd5MmctajFFMUE3VE9laFFVbGdnUVgtUGoxNExXN1lra01TQVlSNW9pS1doVjVxZnNabjlZQmVhQ3ZsMUxlQmJPbW5maVpsMmZIaWZUVGRLVEtJM29jV0NiTmNaR2xKVW40bXBpZU1NUzZ0Qkww?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Vildagliptin. 9 predicted indications."
 permalink: /news/vildagliptin/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Vildagliptin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Vildagliptin?">
-<strong>Vildagliptin</strong> currently has <strong>258 news articles</strong>, with 9 predicted indications.
+<strong>Vildagliptin</strong> currently has <strong>259 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Vildagliptin with the latest
 <p><a href="{{ '/drugs/vildagliptin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (258)
+## Related News (259)
 
 ### [Vorschau: aktiv und gesund • Prädiabetes - Geschmeidige Wirbelsäule - Powernap - ARD Mediathek](https://news.google.com/rss/articles/CBMickFVX3lxTE9QZ1NGdnpTVjRzLWlXSWdYajU0eDRNWjNCNWFzN0pVdUlYaG80cU5aMXNycXdhWDI5WEd1VnAwNkxMR0c3aV90V2RHZGh6X21ZcExtQ0N1SU12WjZaOENSYk5KV0ZqSWE3dlpsWlRCakZkUQ?oc=5)
 
@@ -848,6 +848,14 @@ Source: [mgo medizin](https://news.google.com/rss/articles/CBMirgFBVV95cUxOeWFaa
 2026-11-13 <span class="news-indication-tag">diabetes</span>
 
 Source: [El Correo de Burgos](https://news.google.com/rss/articles/CBMitgFBVV95cUxPa09qZlBvS2hEejVXbUdXRTBqS294Q3prWW1oYXVEdlhpNWNmdWQxQUR5ckE3cVRtWjV5NTlWd25BeTEydHFsc0dwckZpbnVvVHFmV1hTQnNfUXJ3N3hkUDdDU1BDWGJGakZXLVg0cVFWc2ZkeHpkVXFtLVZRUFF4LVh3U0pOUWZUcXlGTlpzcDdDVDhJRzRVTzlxZ01VNElrZ0l6NF9RYTBZUVVXZmF6bzlBTXR3d9IBuwFBVV95cUxOYUdBb2hoZnBRQ1lNVWhBTjdqZGNWQVRHSElfWWxrTmJPVWE5X2N3cjNUQVdsd1VHanBCUGVPMFBkVGNUeDc3ZkJybC1xZEZkUzhBNmVvV2gyMG82cmtBQnBqVGo2V0JrZnZ3MnZHUGpvdmpwNXpaai1EN29PaGdUZmE3TmEyYnpkSnA0RkFCOTE3YVg1SjlwVHBmOVQwQnJ3V0xVV28wX2hqTk9KdHQzTGJMNGdoczJpWXJZ?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Früh erkennen und weiter denken - mgo medizin](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZktKTW9IQ2x5SmF0NFB4SldmQS1BbERRLUVGdWtUcE9MaU1VQWl4Zkc0UWpQVjlQZkVtdUpxQ19GaFAyVGR1VjNYWTloWHRUS2taQWFwNHh1Yi01YWtYeHhPcWlrNDE3RWJQeS1OaE1OcjY2RnJlaHdwQm1RU25CWm5yOFJNeUw4OFg5TQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [mgo medizin](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZktKTW9IQ2x5SmF0NFB4SldmQS1BbERRLUVGdWtUcE9MaU1VQWl4Zkc0UWpQVjlQZkVtdUpxQ19GaFAyVGR1VjNYWTloWHRUS2taQWFwNHh1Yi01YWtYeHhPcWlrNDE3RWJQeS1OaE1OcjY2RnJlaHdwQm1RU25CWm5yOFJNeUw4OFg5TQ?oc=5)
 
 ---
 

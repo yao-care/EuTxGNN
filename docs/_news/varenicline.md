@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Varenicline. 10 predicted indications."
 permalink: /news/varenicline/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Varenicline News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Varenicline?">
-<strong>Varenicline</strong> currently has <strong>63 news articles</strong>, with 10 predicted indications.
+<strong>Varenicline</strong> currently has <strong>65 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Varenicline with the latest 
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (63)
+## Related News (65)
+
+### [38-jähriger Mann nach Hirnblutung in kritischem Zustand: Eine warnende Geschichte über eine Krankheit, die viele junge Menschen für selbstverständlich halten.](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
+
+---
 
 ### [Suffering from migraines linked to an increased risk of deadly condition by the age of 60 - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
 
@@ -73,6 +81,14 @@ Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBV
 2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0owUjFIMWVUZFFhUkdIS2dOM1kzbVFpZm9YZ0hIRngyNnhJajFDblFnZ1dGb0ptNHlPMGZKQlcxeDhmQUdiczNVRUZCTGxETlFQdW01d20wNDlEcUljZzMwczJ6S2h2eTZrR21oemRzNXRLZGUyZFFQUFVaYnpXQzRBcWRuRl9oR3JZOGZIY0VRNUZhOTdndlpJX3pKdlE4OEE?oc=5)
+
+---
+
+### [Blood pressure lowering vegetable 'has more potassium than bananas' - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVHBTN2F2TGVxWXdaNmJQajZtenpLRjhwTnAyaE1vTWk4bDBaMW5mR05yaE9nQUI4ZzNUSWFKbXFHR1JiQ3RlR21HVkFoVjBCNWhoakxvSnJKRTB6b1NNVHpYeVVDalVFeXBXaXJidWRkZVBKbHVXM3pfdkttdTV3NnR4dk14b0FEa3hJ0gGQAUFVX3lxTE1xSGxrajFmeFNlZEpEQlpMb1hyRG04MFpyd3hFZW5YQmNRbHVqd0ZPakxpUHA0Tzg3b3UwWGpxdHdQeTB1U2FsOS1BLV9PTVQ1UGRyNnpuSGlHS1RhRkNkSmVaemZfWnRvUEd1Y1ZFVkl2U2lvRDQ3Uy1xa09iRUptaDRVa0NaQ2U3VHZVOW8zTg?oc=5)
+
+2026-11-17 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVHBTN2F2TGVxWXdaNmJQajZtenpLRjhwTnAyaE1vTWk4bDBaMW5mR05yaE9nQUI4ZzNUSWFKbXFHR1JiQ3RlR21HVkFoVjBCNWhoakxvSnJKRTB6b1NNVHpYeVVDalVFeXBXaXJidWRkZVBKbHVXM3pfdkttdTV3NnR4dk14b0FEa3hJ0gGQAUFVX3lxTE1xSGxrajFmeFNlZEpEQlpMb1hyRG04MFpyd3hFZW5YQmNRbHVqd0ZPakxpUHA0Tzg3b3UwWGpxdHdQeTB1U2FsOS1BLV9PTVQ1UGRyNnpuSGlHS1RhRkNkSmVaemZfWnRvUEd1Y1ZFVkl2U2lvRDQ3Uy1xa09iRUptaDRVa0NaQ2U3VHZVOW8zTg?oc=5)
 
 ---
 

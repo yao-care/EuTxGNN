@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ketoconazole. 1 predicted indications."
 permalink: /news/ketoconazole/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-19
 ---
 
 # Ketoconazole News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Ketoconazole?">
-<strong>Ketoconazole</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
+<strong>Ketoconazole</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Ketoconazole with the latest
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Attention, les moisissures sur les murs sont dangereuses pour la santé - 20 Minutes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVQ3bnhFNGhqeGhObThwdHFuTWt3MXZUSk5Pc01zS05XemJ2cFNRUmI3dWUyQ3lKMExmTkVPcmxuRk5ydzFrVG0tWDc5dmpGT0Jkc3R4cDFWeTE5ZVZySEQ5Z19rY0Z5RzRvNXdZYk92clplRE1ocHV3Vml0eWNKZ1l3VGtidU1PTk9ZanNFcTZqb3FsWFpFclByTmM5RVFEdXc?oc=5)
+
+2026-11-18 <span class="news-indication-tag">asthme</span>
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVQ3bnhFNGhqeGhObThwdHFuTWt3MXZUSk5Pc01zS05XemJ2cFNRUmI3dWUyQ3lKMExmTkVPcmxuRk5ydzFrVG0tWDc5dmpGT0Jkc3R4cDFWeTE5ZVZySEQ5Z19rY0Z5RzRvNXdZYk92clplRE1ocHV3Vml0eWNKZ1l3VGtidU1PTk9ZanNFcTZqb3FsWFpFclByTmM5RVFEdXc?oc=5)
+
+---
 
 ### [Les moisissures dans l’air intérieur des logements favorisent l’asthme. Pourtant, ce risque est évitable - Orange Actualités](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZFR1UDJ6NTR6eTU3X2hGQTN4cUxrZ2ZFeFJtZmpreXhwdFdqRURGb1lZTXg3TkJETlBvOWJoUDJndnFSc3dFTmZTaFdvX3FCcV9ZRHh3cTBNcmo0aWRicW5NclFoUVVlS0pFSnZuWTFhaUZEX2NnT3RZQU81R3YwcG4tcVRGLTVBeXZRMVdCaGNiaDJQSVhncC1zOG1RQm5SMzQzdFhEa0JwRGVkWkR3VFZka3oxMUw4UWwtMFB2RDlUSTZZZWdpR0MzRnZZcEl4SndVdGYzS0w1WXNTSklUZ2lsZTJuaVFPV3FUTkxSTGZpVC1mSkNWZEp5Y193Zw?oc=5)
 

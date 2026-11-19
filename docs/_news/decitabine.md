@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Decitabine. 1 predicted indications."
 permalink: /news/decitabine/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Decitabine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Decitabine?">
-<strong>Decitabine</strong> currently has <strong>351 news articles</strong>, with 1 predicted indications.
+<strong>Decitabine</strong> currently has <strong>352 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Decitabine with the latest h
 <p><a href="{{ '/drugs/decitabine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (351)
+## Related News (352)
+
+### [Tumore ovarico, un nuovo esame del sangue per la diagnosi precoce - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXpMdFlfMVY3YU05SnJsYUNKQjZTSkRhUWdEc3VDUFZUdTE5NUV3WE5TMFRGZmRRSU1IM2FSZEpselpkS29MSlVqYnZYQk1RSVNwSmFsbmVwa1BMVk5kNVlOUVR5SVhHeFRXX2k5TmViS3hKZWwwc085NDQ5eVo2SVJ4X04wS2JNTnR6Ql9Kdi1seGxSSElmNmtR?oc=5)
+
+2026-11-18 <span class="news-indication-tag">cancer</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXpMdFlfMVY3YU05SnJsYUNKQjZTSkRhUWdEc3VDUFZUdTE5NUV3WE5TMFRGZmRRSU1IM2FSZEpselpkS29MSlVqYnZYQk1RSVNwSmFsbmVwa1BMVk5kNVlOUVR5SVhHeFRXX2k5TmViS3hKZWwwc085NDQ5eVo2SVJ4X04wS2JNTnR6Ql9Kdi1seGxSSElmNmtR?oc=5)
+
+---
 
 ### [Tumore del pancreas, AIFA accelera sul daraxonrasib. Alert dalle associazioni - Sanità Informazione](https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2JJc1otZk8wOEpyVnpobjR4VlZWWllIUUZxR0lHenEyVXZnUC12aXNPX2hhbVh1VmxXNzBWcUNQZGVlLW85UEtTV0VRYzRodjllZllQTThWdzRKd0dLRU02aDJic1hBT1NpWGFuUk1XT1ZfTldfVTg1QVctWTlCUVNObjBWQjQ1SVJCbC1UTW9Fb2E4WmtFa0R5NUpiY0wxdzF5eTJVaXR0U2pTRzB3?oc=5)
 
@@ -80,6 +88,14 @@ Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMiwwFBVV9
 2026-11-18 <span class="news-indication-tag">Krebs</span>
 
 Source: [www.focusplus.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxOakZxNXVNOHY3MUdhMDZHTlRPRDFBS2hRbmd2SFBKcWo1Q3R4ejJYLW5EaWpkU2Zka1dNWlZnZWgya3ZOTENUV0lFRXpWNm56cy00MV9fZGJKMEJ3dFRtWVRJQTJWLVlvVWxaUjVkU255UGdZcExqTzJZZklZSzhKNFVLdzU4NE0yVnR3WDRuWE4?oc=5)
+
+---
+
+### [Prostata, svolta americana sul PSA: test ogni 24 mesi dai 50 anni in su](https://news.google.com/rss/articles/CBMixwFBVV95cUxOV2s4cmZTdnRhSE5uSUdKbng4ZkxjWlFTZ3Zwdm9UN0RodWs2amJLTDFrWlBOeGZlTDY0R1dWWDRobVpzRmZVOFhZWjBmMlZfeXVveGh2SFhmdk1KTVhyaERPTGdMYzBseEVyaFJsVFNSUG1jMENyRHJkNm5fNUpkVkxfWEt0c21jd05mVVVGYUQyQTdEcV9mOG9saVBCT1FuZHBDcnNFTDA4YXdTS3pPdWxBaEdmb3hybUF6bGZDOWg1QkttX3JR?oc=5)
+
+2026-11-18 <span class="news-indication-tag">tumor</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMixwFBVV95cUxOV2s4cmZTdnRhSE5uSUdKbng4ZkxjWlFTZ3Zwdm9UN0RodWs2amJLTDFrWlBOeGZlTDY0R1dWWDRobVpzRmZVOFhZWjBmMlZfeXVveGh2SFhmdk1KTVhyaERPTGdMYzBseEVyaFJsVFNSUG1jMENyRHJkNm5fNUpkVkxfWEt0c21jd05mVVVGYUQyQTdEcV9mOG9saVBCT1FuZHBDcnNFTDA4YXdTS3pPdWxBaEdmb3hybUF6bGZDOWg1QkttX3JR?oc=5)
 
 ---
 
@@ -136,14 +152,6 @@ Source: [Redacción Médica](https://news.google.com/rss/articles/CBMioAJBVV95cU
 2026-11-18 <span class="news-indication-tag">tumor</span>
 
 Source: [Quotidiano Sanità](https://news.google.com/rss/articles/CBMigwJBVV95cUxNUDRCMW1FRE84bE84UDZ5N2ZVdV9oWERmMUU2ZERLbjQyTEZSUlhLLW9JWmdoM2ZVb3FCbE1TYWx2VVRsanVHbS1mLU1naXcycnJ3T0V4bDZ2ZkZWTXprUkl4Z1FOcXllSmNzN0Z4RTF3Vl9TRG0tcWowd0hKQS1weXNUaTVYYnBNa0p6a1RDb1VpbldGQXFFOW9xZjB0UUxOem9GVG45aVJBSmZFdGFxc2VOdzV2c1FUQlAwVkNCdllGYjZYbGVucDdnZmFSR3o3NmNzZ1JXN3VhWTNYc2d1NmxoQldGd3k1V2hMenBqTUhjRlpJdVctdGR1dUZmLTZGblQ0?oc=5)
-
----
-
-### [Tumore ovarico, un nuovo esame del sangue per la diagnosi precoce - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXpMdFlfMVY3YU05SnJsYUNKQjZTSkRhUWdEc3VDUFZUdTE5NUV3WE5TMFRGZmRRSU1IM2FSZEpselpkS29MSlVqYnZYQk1RSVNwSmFsbmVwa1BMVk5kNVlOUVR5SVhHeFRXX2k5TmViS3hKZWwwc085NDQ5eVo2SVJ4X04wS2JNTnR6Ql9Kdi1seGxSSElmNmtR?oc=5)
-
-2026-11-18 <span class="news-indication-tag">cancer</span>
-
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXpMdFlfMVY3YU05SnJsYUNKQjZTSkRhUWdEc3VDUFZUdTE5NUV3WE5TMFRGZmRRSU1IM2FSZEpselpkS29MSlVqYnZYQk1RSVNwSmFsbmVwa1BMVk5kNVlOUVR5SVhHeFRXX2k5TmViS3hKZWwwc085NDQ5eVo2SVJ4X04wS2JNTnR6Ql9Kdi1seGxSSElmNmtR?oc=5)
 
 ---
 
@@ -283,6 +291,14 @@ Source: [Novaciencia](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXFPa
 
 ---
 
+### [El cáncer de pulmón se consolida como el tumor más mortífero en Canarias: tres muertes al día y 1.500 pacientes diagnosticados al año](https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzZQak1YcXY1QVZ6M2txZmZFc29hSDd5ZEZkbkYxM1NVZjEybndySkRnNjAyOUpraHJHejdnWVdNTHNkUzhnUzBrUGx5UGRzVmtTTEEweWw0bGZ0akNFaGRYX1Z1R2hkcEI1ZWk4eC1EbTc0dURBNnM0SmVDOEY5d3RyUGdIRGRnNm55OXRIamxNZXI0b0pnRWtkb9IBoAFBVV95cUxQd1pnQ3RKR1UtamtsSjZiZlE1LWUxV24tY3VQckhXaWFsVkNxV0RyNXd3UEExU2gxS2IxcExrbVYxOHZ0djg2Qlg2aXdzNFVJU2ZfdnNiYVVxbkJRR2pMVWRQSFEzTHJ3X3B1MHo4TFExTWNRODVRQXVIc2s3NmxmX0FadWk3X2FKZUc3WU9iXzVaWnJ0NUpaRWlvUEVYSk12?oc=5)
+
+2026-11-17 <span class="news-indication-tag">tumor</span>
+
+Source: [Eldía](https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzZQak1YcXY1QVZ6M2txZmZFc29hSDd5ZEZkbkYxM1NVZjEybndySkRnNjAyOUpraHJHejdnWVdNTHNkUzhnUzBrUGx5UGRzVmtTTEEweWw0bGZ0akNFaGRYX1Z1R2hkcEI1ZWk4eC1EbTc0dURBNnM0SmVDOEY5d3RyUGdIRGRnNm55OXRIamxNZXI0b0pnRWtkb9IBoAFBVV95cUxQd1pnQ3RKR1UtamtsSjZiZlE1LWUxV24tY3VQckhXaWFsVkNxV0RyNXd3UEExU2gxS2IxcExrbVYxOHZ0djg2Qlg2aXdzNFVJU2ZfdnNiYVVxbkJRR2pMVWRQSFEzTHJ3X3B1MHo4TFExTWNRODVRQXVIc2s3NmxmX0FadWk3X2FKZUc3WU9iXzVaWnJ0NUpaRWlvUEVYSk12?oc=5)
+
+---
+
 ### [Mum told she has until Christmas to live after giving birth early for cancer treatment - Northamptonshire Telegraph](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaUc0bE1qc3Y4OVlSNEVrczkxcDIzWEpFSzNUZ1JBWUI3dVpoa0hWT09GaGNUdC1oekUxSFFGZmpPRVhBNjBpMFBOZW0zSDJpeXU4bUdXR0k5RktBbGxfNUdHcXVvRG1vN2ZwQ2VZLVZsOHZ1dzNaaGpUYlBsTVd6QmQyd3JhVGU4cllIYjdqNXJkTVgtVlJfaDA3eWxpNUt3RGJ4eTg0VVBQOElhS1lFV2JUNmNiUFNlWWQ3TmE2ampqNHJoQ1ZaTEhSR2U2aW5sUnlLdHJBMU1wUHM?oc=5)
 
 2026-11-17 <span class="news-indication-tag">cancer</span>
@@ -323,15 +339,7 @@ Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ
 
 ---
 
-### [I Neanderthal sono ancora nel nostro Dna e influenzano il cervello](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYS1tem5HcHlzd1lzUTAyYUhmaDVPMG9EYnc4anVIQ21xbXk3LWZrY1QtYW0xZ1VVZWFXSWNncXZCQW9aMFRPeTc3MEFGSjB2bW5VckZtUWw0dFpUdl9CS05zUWZUc2xwM2ptNTl1ZWEyQXQ4dUJ0WHBGVXJGRGl4QWN6bkZ3dUg3OGJGUG1ZMVk1YTd2RE9fdDF2dTVoM3VrbkhHekxLNTZyVi1kU0dLTGJZNUxqYkdQVjUxOThoaXFpS1U?oc=5)
-
-2026-11-17 <span class="news-indication-tag">tumor</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYS1tem5HcHlzd1lzUTAyYUhmaDVPMG9EYnc4anVIQ21xbXk3LWZrY1QtYW0xZ1VVZWFXSWNncXZCQW9aMFRPeTc3MEFGSjB2bW5VckZtUWw0dFpUdl9CS05zUWZUc2xwM2ptNTl1ZWEyQXQ4dUJ0WHBGVXJGRGl4QWN6bkZ3dUg3OGJGUG1ZMVk1YTd2RE9fdDF2dTVoM3VrbkhHekxLNTZyVi1kU0dLTGJZNUxqYkdQVjUxOThoaXFpS1U?oc=5)
-
----
-
-### [Prostate Cancer: New Guidelines Urge Men Over 50 to Get PSA](https://news.google.com/rss/articles/CBMingFBVV95cUxNamVhQ0RXRkpEVUlFaElHN2xkTUtyREFHcWw3amU5RjRqVDBrenJYUTdRWm1DeTJlcWY4d1BzQXFCcjRSODFwMkpMQnE3VzZHZ3B4U1R6RU1tal9UU1F2a0llNTJIQURpanZsSFRUYjZUelgzWXFfdW9pblJrNFI2VHlRazVIcmVCdTA3VHpQS2kxMXlrSGJJOHNFU0hzQQ?oc=5)
+### [New Guidelines Recommend Routine Prostate Cancer Screening for Men Over 50](https://news.google.com/rss/articles/CBMingFBVV95cUxNamVhQ0RXRkpEVUlFaElHN2xkTUtyREFHcWw3amU5RjRqVDBrenJYUTdRWm1DeTJlcWY4d1BzQXFCcjRSODFwMkpMQnE3VzZHZ3B4U1R6RU1tal9UU1F2a0llNTJIQURpanZsSFRUYjZUelgzWXFfdW9pblJrNFI2VHlRazVIcmVCdTA3VHpQS2kxMXlrSGJJOHNFU0hzQQ?oc=5)
 
 2026-11-16 <span class="news-indication-tag">cancer</span>
 
@@ -387,19 +395,19 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BWnNSWnFrc1FIT
 
 ---
 
+### [Wie ein neuer Bluttest Eierstockkrebs früher erkennen könnte](https://news.google.com/rss/articles/CBMiygFBVV95cUxPN1JmdURraHVGRFE1d0I0VFVFUXJ1TXFQcHEtU2RXNUtEMU9zdkJYQXZhY2QwSGVONmxyYUE4MFpHdlhMWVluMnBDeUg5ZWxDWFk4V2hIYTJiWEtlNWdSamtCWW5rTmhkQ2JYa1dVaTd4c244dmcySHdnNFpOa1ZyblluSTVVSUllRm9YX0JtSGlKSkIycmlkalk1c3B1ejZtMHEwV2pUZTNjanRZYjMyUVVKZnEyaEpLNnNCYjBfSWdqZ29pemRmMEFn?oc=5)
+
+2026-11-16 <span class="news-indication-tag">Krebs</span>
+
+Source: [FAZ](https://news.google.com/rss/articles/CBMiygFBVV95cUxPN1JmdURraHVGRFE1d0I0VFVFUXJ1TXFQcHEtU2RXNUtEMU9zdkJYQXZhY2QwSGVONmxyYUE4MFpHdlhMWVluMnBDeUg5ZWxDWFk4V2hIYTJiWEtlNWdSamtCWW5rTmhkQ2JYa1dVaTd4c244dmcySHdnNFpOa1ZyblluSTVVSUllRm9YX0JtSGlKSkIycmlkalk1c3B1ejZtMHEwV2pUZTNjanRZYjMyUVVKZnEyaEpLNnNCYjBfSWdqZ29pemRmMEFn?oc=5)
+
+---
+
 ### [Wie ein neuer Bluttest Eierstockkrebs früher erkennen könnte](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVXZYbm81UkxZUTBHSDE4Q05ibHJlMURJMHJsRVppbXBnSy1UVVlLUl9vR0k5S2xVZFNSMC1IVmpsY1lXQWJ0Yzh4dnUzS0pTRWc5ZnR6WTFfU0U4WEp2UjBZd0lSRUtndnRiVVZwSHRoVk9VcDU1VjFWUmpwNEdiak5peWZ2aWxOVXJSRnZkUExZMC1RUkVjNUhRVUVBVExIN3kzRlJTNE5mbUF4MXNRZlg2UFgxZDluUHBKbEFnakFrS3BMUkY3ajltUGRob1Z0LS1JRG1R?oc=5)
 
 2026-11-16 <span class="news-indication-tag">Krebs</span>
 
 Source: [FAZ](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVXZYbm81UkxZUTBHSDE4Q05ibHJlMURJMHJsRVppbXBnSy1UVVlLUl9vR0k5S2xVZFNSMC1IVmpsY1lXQWJ0Yzh4dnUzS0pTRWc5ZnR6WTFfU0U4WEp2UjBZd0lSRUtndnRiVVZwSHRoVk9VcDU1VjFWUmpwNEdiak5peWZ2aWxOVXJSRnZkUExZMC1RUkVjNUhRVUVBVExIN3kzRlJTNE5mbUF4MXNRZlg2UFgxZDluUHBKbEFnakFrS3BMUkY3ajltUGRob1Z0LS1JRG1R?oc=5)
-
----
-
-### [Neuer Bluttest erkennt Eierstockkrebs-Vorstufen früh](https://news.google.com/rss/articles/CBMiygFBVV95cUxPN1JmdURraHVGRFE1d0I0VFVFUXJ1TXFQcHEtU2RXNUtEMU9zdkJYQXZhY2QwSGVONmxyYUE4MFpHdlhMWVluMnBDeUg5ZWxDWFk4V2hIYTJiWEtlNWdSamtCWW5rTmhkQ2JYa1dVaTd4c244dmcySHdnNFpOa1ZyblluSTVVSUllRm9YX0JtSGlKSkIycmlkalk1c3B1ejZtMHEwV2pUZTNjanRZYjMyUVVKZnEyaEpLNnNCYjBfSWdqZ29pemRmMEFn?oc=5)
-
-2026-11-16 <span class="news-indication-tag">Krebs</span>
-
-Source: [FAZ](https://news.google.com/rss/articles/CBMiygFBVV95cUxPN1JmdURraHVGRFE1d0I0VFVFUXJ1TXFQcHEtU2RXNUtEMU9zdkJYQXZhY2QwSGVONmxyYUE4MFpHdlhMWVluMnBDeUg5ZWxDWFk4V2hIYTJiWEtlNWdSamtCWW5rTmhkQ2JYa1dVaTd4c244dmcySHdnNFpOa1ZyblluSTVVSUllRm9YX0JtSGlKSkIycmlkalk1c3B1ejZtMHEwV2pUZTNjanRZYjMyUVVKZnEyaEpLNnNCYjBfSWdqZ29pemRmMEFn?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Regadenoson. 4 predicted indications."
 permalink: /news/regadenoson/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Regadenoson News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Regadenoson?">
-<strong>Regadenoson</strong> currently has <strong>13 news articles</strong>, with 4 predicted indications.
+<strong>Regadenoson</strong> currently has <strong>14 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ This page combines the AI-predicted indications for Regadenoson with the latest 
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (14)
 
 ### [Suffering from migraines linked to an increased risk of deadly condition by the age of 60 - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
 
 2026-11-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
+
+---
+
+### [Attention, les moisissures sur les murs sont dangereuses pour la santé - 20 Minutes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVQ3bnhFNGhqeGhObThwdHFuTWt3MXZUSk5Pc01zS05XemJ2cFNRUmI3dWUyQ3lKMExmTkVPcmxuRk5ydzFrVG0tWDc5dmpGT0Jkc3R4cDFWeTE5ZVZySEQ5Z19rY0Z5RzRvNXdZYk92clplRE1ocHV3Vml0eWNKZ1l3VGtidU1PTk9ZanNFcTZqb3FsWFpFclByTmM5RVFEdXc?oc=5)
+
+2026-11-18 <span class="news-indication-tag">asthme</span>
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVQ3bnhFNGhqeGhObThwdHFuTWt3MXZUSk5Pc01zS05XemJ2cFNRUmI3dWUyQ3lKMExmTkVPcmxuRk5ydzFrVG0tWDc5dmpGT0Jkc3R4cDFWeTE5ZVZySEQ5Z19rY0Z5RzRvNXdZYk92clplRE1ocHV3Vml0eWNKZ1l3VGtidU1PTk9ZanNFcTZqb3FsWFpFclByTmM5RVFEdXc?oc=5)
 
 ---
 

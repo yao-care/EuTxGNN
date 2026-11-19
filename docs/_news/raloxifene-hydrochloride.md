@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Raloxifene Hydrochloride. 0 predicted indications."
 permalink: /news/raloxifene-hydrochloride/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Raloxifene Hydrochloride News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>110 news articles</strong>, with 0 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>112 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,23 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <p><a href="{{ '/drugs/raloxifene/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (110)
+## Related News (112)
+
+### [38-jähriger Mann nach Hirnblutung in kritischem Zustand: Eine warnende Geschichte über eine Krankheit, die viele junge Menschen für selbstverständlich halten.](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
+
+---
+
+### [Unterschätzen Sie nicht die Anzeichen eines Herzinfarkts oder Schlaganfalls bei jungen Menschen.](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXdwVGtpOEpHVDBvWERoMFc3SWpfaXFHX1B3MzhoQVIwTXNSSTVyNW1ycHJSMzBLZjdxcVEwZzdHQnZtdG9lSS13YlBkZHVPNjRPTUVmSzZpMDdZNlp6OGFvdE5QT2JRczhIMUVyVWRLbkRReTU0QUdHS1FyQlgyNS13UFI1d0FvYTdlZlhmaktFZw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXdwVGtpOEpHVDBvWERoMFc3SWpfaXFHX1B3MzhoQVIwTXNSSTVyNW1ycHJSMzBLZjdxcVEwZzdHQnZtdG9lSS13YlBkZHVPNjRPTUVmSzZpMDdZNlp6OGFvdE5QT2JRczhIMUVyVWRLbkRReTU0QUdHS1FyQlgyNS13UFI1d0FvYTdlZlhmaktFZw?oc=5)
+
+---
 
 ### [Suffering from migraines linked to an increased risk of deadly condition by the age of 60 - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
 

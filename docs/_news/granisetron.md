@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Granisetron. 10 predicted indications."
 permalink: /news/granisetron/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Granisetron News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Granisetron?">
-<strong>Granisetron</strong> currently has <strong>34 news articles</strong>, with 10 predicted indications.
+<strong>Granisetron</strong> currently has <strong>36 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Granisetron with the latest 
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (34)
+## Related News (36)
+
+### [Colisée destaca la autonomía y la actividad física adaptada para frenar el deterioro de las personas con EPOC](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcVpQSXBhU3U2Q1dTM0EyNWN1VFhKSy12OHFYcWs1TlgtLTkxLUZ5em5mZVFoMGJacWN0VFVfSHlwSWlEdTZpUWNOM2N6SEx3OUZoMWRiT0ZtdElKcHBCSjVockFWVXpvQ0djQ2xUMzkxV3plWVd1TzVQV193cHhFVFRRMUt5ZEUxczkzTVF3UkJQdlh5R0xZSWRGdF94SEVMc2o2eHQzM2hHYndtSE0zZFJ1VXRoNXRKX3VHVVJuSklidWh5RWp5amZVWjZyM0gyeHFUZy1jMEE1WlgzcWpLbGdGdVBXbWJnTlJHQ3hlMXg?oc=5)
+
+2026-11-19 <span class="news-indication-tag">EPOC</span>
+
+Source: [Dependencia.Info](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcVpQSXBhU3U2Q1dTM0EyNWN1VFhKSy12OHFYcWs1TlgtLTkxLUZ5em5mZVFoMGJacWN0VFVfSHlwSWlEdTZpUWNOM2N6SEx3OUZoMWRiT0ZtdElKcHBCSjVockFWVXpvQ0djQ2xUMzkxV3plWVd1TzVQV193cHhFVFRRMUt5ZEUxczkzTVF3UkJQdlh5R0xZSWRGdF94SEVMc2o2eHQzM2hHYndtSE0zZFJ1VXRoNXRKX3VHVVJuSklidWh5RWp5amZVWjZyM0gyeHFUZy1jMEE1WlgzcWpLbGdGdVBXbWJnTlJHQ3hlMXg?oc=5)
+
+---
 
 ### [GLP-1-Therapien: Metaanalyse findet weniger Vorhofflimmern](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcE03VURHR0RUazgzeTRCZGhGT19nRG54d0dYb0hVWk5DWklXMFJzWHJFUnIwbTNXOVBGclB6eFYxMThWUVV5VVhWOEFZckRzc2VsTEhzYTNnS2ZRaEtuU2FVbnVIVkItc0t1RTc3czJObnhzV3M2ci1lTHVieFk1T2MxblNsd1ltNDQtbjlZd19mcFV2SlhlZTBR?oc=5)
 
@@ -81,6 +89,14 @@ Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU
 2026-11-18 <span class="news-indication-tag">EPOC</span>
 
 Source: [EntreMayores](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHRMSkVKZ3dsYzlZTThhVmZ0bm5CSG5NcUpiOHFBaDd6OTVkbkNyekh6dzhJQWlQVDhxZDJzVmVsT1hoM1F1ZUlRSzJWdDNVWFRDSU02ZENKSUFjaVoxU0hfZWxzY2tzUjBhNzFidzFWSVZDVTJCYlpneEdoRWFjYkptTG1DZndmZWZlT2FUcWgzX1Q3ZzdPUHAwb0ZNZTlkRU1HeEFGVU45UE16cVJIaUlPV1lfbkU?oc=5)
+
+---
+
+### [Donegal people urged to get persistent coughs and breathlessness checked for COPD - Highland Radio](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEJqa1h1WVVFU3FMV0E2M2RkdnJ2SmZfU2tzRmhaZEpmQTdULUo1Y28wRHpURkM3dFEtX0ppd2JRWnpMMDlwNGRQWFlwZUd5MmctajFFMUE3VE9laFFVbGdnUVgtUGoxNExXN1lra01TQVlSNW9pS1doVjVxZnNabjlZQmVhQ3ZsMUxlQmJPbW5maVpsMmZIaWZUVGRLVEtJM29jV0NiTmNaR2xKVW40bXBpZU1NUzZ0Qkww?oc=5)
+
+2026-11-18 <span class="news-indication-tag">copd</span>
+
+Source: [Highland Radio](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEJqa1h1WVVFU3FMV0E2M2RkdnJ2SmZfU2tzRmhaZEpmQTdULUo1Y28wRHpURkM3dFEtX0ppd2JRWnpMMDlwNGRQWFlwZUd5MmctajFFMUE3VE9laFFVbGdnUVgtUGoxNExXN1lra01TQVlSNW9pS1doVjVxZnNabjlZQmVhQ3ZsMUxlQmJPbW5maVpsMmZIaWZUVGRLVEtJM29jV0NiTmNaR2xKVW40bXBpZU1NUzZ0Qkww?oc=5)
 
 ---
 
