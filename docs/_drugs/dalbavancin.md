@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **postinfectious vasculitis**, 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on its drug class, dalbavancin is a lipoglycopeptide that inhibits cell wall synthesis in Gram-positive bacteria. Its efficacy has been established in ABSSSI.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for dalbavancin: "Dalbavancin is an antibacterial drug. […] Dalbavancin, a semisynthetic lipoglycopeptide, interferes with cell wall synthesis by binding to the D-alanyl-D-alanine terminus of the stem pentapeptide in nascent cell wall peptidoglycan, thus preventing cross-linking. Dalbavancin is bactericidal in vitro against Staphylococcus aureus and Streptococcus pyogenes at concentrations similar to those sustained throughout treatment in humans treated according to the recommended dosage regimen." ([DailyMed: Dalvance (dalbavancin) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b4674d8-4d1e-4728-8465-d42ada33fa5c), label version 2025-01-13; accessed 2026-11-19.) Based on its drug class, dalbavancin is a lipoglycopeptide that inhibits cell wall synthesis in Gram-positive bacteria. Its efficacy has been established in ABSSSI.
 
 Postinfectious vasculitis is largely immune-mediated. Antibacterial activity offers no clear mechanistic rationale beyond eradicating a possible triggering Gram-positive infection. The high TxGNN score is a computational prediction only and should not be read as evidence of efficacy.
 
@@ -117,12 +117,13 @@ The prediction has no supporting trials or literature (evidence level L5), and t
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The product's only EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the regulatory status of the cancelled EU authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dalvance (dalbavancin) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b4674d8-4d1e-4728-8465-d42ada33fa5c) |
 
 <!-- review:end log -->
 

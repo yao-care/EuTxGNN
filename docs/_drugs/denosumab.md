@@ -54,7 +54,7 @@ Denosumab is a monoclonal antibody that targets RANKL and is used in bone-relate
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Denosumab is a monoclonal antibody directed against RANKL, a signal that drives bone resorption.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for denosumab: "Denosumab products bind to RANKL, a transmembrane or soluble protein essential for the formation, function, and survival of osteoclasts, the cells responsible for bone resorption. Denosumab products prevent RANKL from activating its receptor, RANK, on the surface of osteoclasts and their precursors." ([DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd), label version 2026-11-04; accessed 2026-11-19.) Denosumab is a monoclonal antibody directed against RANKL, a signal that drives bone resorption.
 
 A possible link to diabetic eye disease would be RANKL/OPG signaling in vascular calcification and inflammation, which are processes thought to contribute to diabetic microvascular damage. This is speculative. No data compiled for this report supports it, and the missing mechanism data means it cannot be cross-checked.
 
@@ -119,6 +119,19 @@ The model score is high, but no trial or publication studies denosumab in severe
 - Preclinical or mechanistic evidence for RANKL/OPG involvement in diabetic retinal disease
 - Retinal outcome data (for example, from observational cohorts of denosumab users with diabetes)
 - Warnings and contraindications from the SmPC for safety screening
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

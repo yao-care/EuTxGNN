@@ -56,7 +56,7 @@ The prediction rests on model output alone.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, cerliponase alfa is a recombinant TPP1 enzyme given by intracerebroventricular delivery. Its efficacy in CLN2 disease is the basis of its authorization, and the shared concept with the predicted indication is lysosomal enzyme replacement.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for cerliponase alfa: "CLN2 disease is a neurodegenerative disease caused by deficiency of the lysosomal enzyme tripeptidyl peptidase-1 (TPP1), which catabolizes polypeptides in the CNS. TPP1 has no known substrate specificity. […] Cerliponase alfa (rhTTP1), a proenzyme, is taken up by target cells in the CNS and is translocated to the lysosomes through the Cation Independent Mannose-6-Phosphate Receptor (CI-MPR, also known as M6P/IGF2 receptor)." ([DailyMed: Brineura (cerliponase alfa) prescribing information, BioMarin Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=485ab3c5-0359-4878-872f-2fe1e7df4047), label version 2024-08-05; accessed 2026-11-19.) Based on known information, cerliponase alfa is a recombinant TPP1 enzyme given by intracerebroventricular delivery. Its efficacy in CLN2 disease is the basis of its authorization, and the shared concept with the predicted indication is lysosomal enzyme replacement.
 
 Scheie syndrome (the attenuated form of MPS I) is caused by a deficiency of alpha-L-iduronidase, a different enzyme from TPP1. TPP1 has no expected activity against the iduronidase defect or its glycosaminoglycan substrate. The high TxGNN score likely reflects network proximity among lysosomal storage diseases rather than a true mechanistic match.
 
@@ -108,11 +108,12 @@ The prediction has no clinical trials or literature behind it, and the deficient
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The only EU authorization is also listed as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Brineura (cerliponase alfa) prescribing information, BioMarin Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=485ab3c5-0359-4878-872f-2fe1e7df4047) |
 
 <!-- review:end log -->
 

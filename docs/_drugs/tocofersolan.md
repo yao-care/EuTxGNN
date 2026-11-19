@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **amenorrhea**, but there are c
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug. Based on known information, tocofersolan is a water-soluble vitamin E derivative. Its efficacy in correcting vitamin E deficiency in cholestatic children is the basis of its original use. Vitamin E has antioxidant and membrane-stabilizing properties.
+ChEMBL (EMBL-EBI) records the mechanism of action of tocofersolan as: Nutritional support ([ChEMBL CHEMBL2108106 (tocofersolan): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108106), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, tocofersolan is a water-soluble vitamin E derivative. Its efficacy in correcting vitamin E deficiency in cholestatic children is the basis of its original use. Vitamin E has antioxidant and membrane-stabilizing properties.
 
 A link between vitamin E and menstrual or hormonal function has been proposed hypothetically, but no direct mechanism has been established. The original indication (a nutritional deficiency from malabsorption) and amenorrhea (an absence of menstruation with many possible hormonal, nutritional or structural causes) are not closely related. The high TxGNN score is a computational prediction only and should be read as a hypothesis, not as evidence of efficacy.
 
@@ -113,12 +113,13 @@ The prediction has no supporting clinical trials or publications (Evidence Level
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is cancelled, and safety and mechanism data are incomplete" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "the cancelled authorization status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2108106 (tocofersolan): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108106) |
 
 <!-- review:end log -->
 

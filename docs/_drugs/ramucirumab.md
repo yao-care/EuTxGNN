@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **uterine ligament adenocarcino
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Ramucirumab is known to be a VEGFR-2 antagonist, an anti-angiogenic antibody. Its efficacy in gastric, colorectal, lung and liver cancers is established, and mechanistically it may be applicable to adenocarcinomas that depend on VEGF signalling.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ramucirumab: "Ramucirumab is a VEGFR2 antagonist that specifically binds VEGFR2 and blocks binding of VEGFR ligands, VEGF-A, VEGF-C, and VEGF-D. As a result, ramucirumab inhibits ligand-stimulated activation of VEGFR2, thereby inhibiting ligand-induced proliferation, and migration of human endothelial cells. Ramucirumab inhibited angiogenesis in an in vivo animal model." ([DailyMed: Cyramza (ramucirumab) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6080942-dee6-423e-b688-1272c2ae90d4), label version 2026-06-09; accessed 2026-11-19.) Ramucirumab is known to be a VEGFR-2 antagonist, an anti-angiogenic antibody. Its efficacy in gastric, colorectal, lung and liver cancers is established, and mechanistically it may be applicable to adenocarcinomas that depend on VEGF signalling.
 
 Adenocarcinomas of the gynaecologic tract, including the uterine ligament, can depend on VEGF-driven blood vessel growth, so blocking VEGFR-2 is biologically plausible. However, this link rests only on the high TxGNN score (0.9995) and a general anti-angiogenic rationale. No entity-specific studies were found, and the mechanism could not be cross-checked against a recorded mechanism of action.
 
@@ -132,11 +132,12 @@ The prediction is supported only by a high model score and general anti-angiogen
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "In addition, the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cyramza (ramucirumab) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6080942-dee6-423e-b688-1272c2ae90d4) |
 
 <!-- review:end log -->
 

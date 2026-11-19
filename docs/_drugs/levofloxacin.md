@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **punctate epithelial keratocon
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Levofloxacin belongs to the fluoroquinolone class, which generally acts by inhibiting bacterial DNA gyrase and topoisomerase IV. It has proven antibacterial activity in its original indication, a bacterial lung infection.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for levofloxacin: "Levofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent. The antibacterial activity of ofloxacin resides primarily in the L-isomer. The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases), enzymes required for DNA replication, transcription, repair and recombination." ([DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5), label version 2026-11-05; accessed 2026-11-19.) Levofloxacin belongs to the fluoroquinolone class, which generally acts by inhibiting bacterial DNA gyrase and topoisomerase IV. It has proven antibacterial activity in its original indication, a bacterial lung infection.
 
 The link to the new indication is weak. Punctate epithelial keratoconjunctivitis is an inflammatory or infectious condition of the eye surface with many possible causes. A topical fluoroquinolone could in theory help if a bacterial infection were involved. However, the only retrieved paper concerns a microsporidial outbreak, and microsporidia are not susceptible to fluoroquinolones. The high TxGNN score is a prediction from the TxGNN model (deep learning), with no supporting mechanistic or clinical evidence.
 
@@ -117,11 +117,12 @@ The prediction rests on a computational score alone. The single retrieved paper 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is cancelled, and the systemic safety profile raises concerns for any new use" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5) |
 
 <!-- review:end log -->
 

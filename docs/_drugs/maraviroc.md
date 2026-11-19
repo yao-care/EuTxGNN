@@ -56,7 +56,7 @@ The prediction is computational only.
 
 ## Why is This Prediction Reasonable?
 
-Maraviroc is a CCR5 antagonist, which is the basis of its use against CCR5-tropic HIV-1. Detailed mechanism of action data was not available in the data compiled for this report.
+Maraviroc is a CCR5 antagonist, which is the basis of its use against CCR5-tropic HIV-1. According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for maraviroc: "Maraviroc is an HIV-1 antiviral drug. […] Maraviroc is a member of a therapeutic class called CCR5 co-receptor antagonists. Maraviroc selectively binds to the human chemokine receptor CCR5 present on the cell membrane, preventing the interaction of HIV-1 gp120 and CCR5 necessary for CCR5-tropic HIV-1 to enter cells." ([DailyMed: Selzentry (maraviroc) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3c52dddd-0457-41cd-99e0-d30d4fd00ec5), label version 2023-11-10; accessed 2026-11-19.)
 
 The data compiled for this report show no direct mechanistic link between CCR5 signalling and the development of multiple endocrine neoplasia (for example MEN1- or RET-driven disease). The high TxGNN score (0.9982; model rank 2366) is a computational prediction only. Its similarity to the original indication has not been assessed. Because no clinical trials or publications are linked, this prediction should be regarded as a hypothesis, not a supported finding.
 
@@ -125,12 +125,13 @@ The prediction for multiple endocrine neoplasia rests only on a computational sc
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "In addition, the only EU authorization for maraviroc has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "the cancelled EU authorization status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data was not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Selzentry (maraviroc) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3c52dddd-0457-41cd-99e0-d30d4fd00ec5) |
 
 <!-- review:end log -->
 

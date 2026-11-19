@@ -60,7 +60,7 @@ The evidence is mixed: the trials are small, two were terminated, and a randomiz
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the pharmacology information provided, miglustat inhibits glucosylceramide synthase (UGCG), which reduces the synthesis of glucosylceramide-based glycosphingolipids. This approach is called substrate reduction therapy. Miglustat also crosses the blood-brain barrier.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for miglustat: "Type 1 Gaucher disease is caused by a functional deficiency of glucocerebrosidase, the enzyme that mediates the degradation of the glycosphingolipid glucosylceramide. Miglustat functions as a competitive and reversible inhibitor of the enzyme glucosylceramide synthase, the initial enzyme in a series of reactions which results in the synthesis of most glycosphingolipids." ([DailyMed: Yargesa (miglustat) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b371dfe-e2b0-47fe-b677-a7bde7149f87), label version 2025-12-17; accessed 2026-11-19.) Based on the pharmacology information provided, miglustat inhibits glucosylceramide synthase (UGCG), which reduces the synthesis of glucosylceramide-based glycosphingolipids. This approach is called substrate reduction therapy. Miglustat also crosses the blood-brain barrier.
 
 Tay-Sachs disease (GM2 gangliosidosis) is caused by hexosaminidase A deficiency, which leads to GM2 ganglioside accumulation in nerve cells. Because gangliosides are built on glucosylceramide, lowering their synthesis is a plausible way to reduce the stored material. This is the same rationale that supports miglustat's approved use in Niemann-Pick type C.
 
@@ -137,6 +137,19 @@ The mechanistic rationale for Tay-Sachs disease is sound, but the clinical evide
 - Results of the terminated Phase 3 and Phase 4 trials (NCT03822013, NCT02030015) and an assessment of why they stopped
 - A critical review of the 2023 systematic review and the randomized study, to decide whether any subgroup (for example, by age at onset) warrants a new efficacy trial
 - Clarification of the regulatory pathway, given that the drug is marketed with 5 valid authorizations of 5
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Yargesa (miglustat) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b371dfe-e2b0-47fe-b677-a7bde7149f87) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

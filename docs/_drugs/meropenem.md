@@ -56,7 +56,7 @@ The prediction with the strongest evidence is **urinary tract infection** (rank 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available in the data compiled for this report. Based on known pharmacology, meropenem is a carbapenem that inhibits bacterial cell wall synthesis by binding penicillin-binding proteins. It is active against many Gram-negative and Gram-positive bacteria, and its efficacy in serious Gram-negative infections is established.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for meropenem: "Meropenem is an antibacterial drug. […] The bactericidal activity of meropenem results from the inhibition of cell wall synthesis. Meropenem penetrates the cell wall of most gram-positive and gram-negative bacteria to bind penicillin-binding-protein (PBP) targets." ([DailyMed: meropenem prescribing information, Civica, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b0075b72-c3cc-f844-e053-2a95a90a417f), label version 2026-11-02; accessed 2026-11-19.) Based on known pharmacology, meropenem is a carbapenem that inhibits bacterial cell wall synthesis by binding penicillin-binding proteins. It is active against many Gram-negative and Gram-positive bacteria, and its efficacy in serious Gram-negative infections is established.
 
 Bone and joint infections are often caused by organisms that meropenem covers, including Enterobacterales, Pseudomonas and *Burkholderia pseudomallei* (melioidosis). Published cases are consistent with this. One report describes ESBL-producing *Klebsiella pneumoniae* septic arthritis treated successfully with meropenem plus amikacin and joint washout, and a melioidosis series found all isolates susceptible to meropenem.
 
@@ -159,6 +159,19 @@ For bacterial arthritis, the top-ranked prediction, there are no clinical trials
 - Confirmation of the current EU regulatory status and availability of meropenem-containing products
 - A stewardship-based assessment of where meropenem would fit relative to existing first-line options (for example, as a reserve option for ESBL or extensively drug-resistant infections)
 - For the paratyphoid fever prediction, a defined research question for extensively drug-resistant enteric fever
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not currently available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: meropenem prescribing information, Civica, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b0075b72-c3cc-f844-e053-2a95a90a417f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

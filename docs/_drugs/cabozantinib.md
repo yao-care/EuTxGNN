@@ -60,7 +60,7 @@ Evidence for this top-ranked prediction is limited, and the data compiled for th
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on the target profile described in the evidence review, cabozantinib inhibits VEGFR2, MET and AXL. These kinases drive angiogenesis and tumour survival signalling, and are relevant in several solid tumours, including soft tissue sarcomas.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for cabozantinib: "In vitro biochemical and/or cellular assays have shown that cabozantinib inhibits the tyrosine kinase activity of MET, VEGFR-1, -2 and -3, AXL, RET, ROS1, TYRO3, MER, KIT, TRKB, FLT-3, and TIE-2. These receptor tyrosine kinases are involved in both normal cellular function and pathologic processes such as oncogenesis, metastasis, tumor angiogenesis, drug resistance, and maintenance of the tumor microenvironment." ([DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5), label version 2025-10-19; accessed 2026-11-19.) Based on the target profile described in the evidence review, cabozantinib inhibits VEGFR2, MET and AXL. These kinases drive angiogenesis and tumour survival signalling, and are relevant in several solid tumours, including soft tissue sarcomas.
 
 Its efficacy in medullary thyroid carcinoma has been established, and mechanistically it may be applicable to liposarcoma. However, the link is plausible but not subtype-specific. Available clinical data come from mixed sarcoma populations, not liposarcoma alone.
 
@@ -156,12 +156,13 @@ The liposarcoma prediction has a high model score, but its supporting evidence i
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The authorisation status is cancelled. The data compiled for this report suggest the "Cancelled only" status may reflect a labelling artefac" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Verification of the "Cancelled only" EU market status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5) |
 
 <!-- review:end log -->
 

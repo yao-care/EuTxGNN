@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **HER2-positive breast carcinom
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, polatuzumab vedotin is an antibody-drug conjugate. It pairs an anti-CD79b antibody with the microtubule-disrupting agent monomethyl auristatin E (MMAE). Its efficacy in DLBCL has been established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for polatuzumab vedotin: "Polatuzumab vedotin-piiq is a CD79b-directed antibody-drug conjugate with activity against dividing B cells. The small molecule, MMAE, is an anti-mitotic agent covalently attached to the antibody via a cleavable linker. The monoclonal antibody binds to CD79b, a B-cell specific surface protein, which is a component of the B-cell receptor." ([DailyMed: Polivy (polatuzumab vedotin) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20a16ab2-f338-4abb-9dcd-254bd949a2bc), label version 2026-08-24; accessed 2026-11-19.) Based on known information, polatuzumab vedotin is an antibody-drug conjugate. It pairs an anti-CD79b antibody with the microtubule-disrupting agent monomethyl auristatin E (MMAE). Its efficacy in DLBCL has been established.
 
 The link to HER2 positive breast carcinoma is weak. CD79b is a component of the B-cell receptor and is restricted to B-lineage cells. It is not a recognized target in HER2 positive breast cancer. The only conceivable connection is the generic cytotoxicity of MMAE, which would not be tumour-selective in this setting. The high score of 0.9934 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -136,11 +136,12 @@ The prediction for HER2-positive breast carcinoma is supported only by the TxGNN
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The authorization status in the compiled data is "cancelled". Verify the current status against the official EMA register before relying on " | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Polivy (polatuzumab vedotin) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20a16ab2-f338-4abb-9dcd-254bd949a2bc) |
 
 <!-- review:end log -->
 

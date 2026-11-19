@@ -56,7 +56,7 @@ The data compiled for this report include **43 clinical trials** and **20 public
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data were not available in the drug record. From the published literature, nepafenac is a prodrug. Eye tissue enzymes convert it to amfenac, which inhibits COX-1 and COX-2. This lowers prostaglandin production, which in turn reduces ocular inflammation, pain, and breakdown of the blood-retinal barrier.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for nepafenac: "After topical ocular dosing, nepafenac penetrates the cornea and is converted by ocular tissue hydrolases to amfenac, a NSAID. Nepafenac and amfenac are thought to inhibit the action of prostaglandin H synthase (cyclooxygenase), an enzyme required for prostaglandin production." ([DailyMed: Ilevro (nepafenac) prescribing information, Harrow Eye, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10f411d3-a81e-074a-e063-6294a90ab547), label version 2026-04-01; accessed 2026-11-19.) From the published literature, nepafenac is a prodrug. Eye tissue enzymes convert it to amfenac, which inhibits COX-1 and COX-2. This lowers prostaglandin production, which in turn reduces ocular inflammation, pain, and breakdown of the blood-retinal barrier.
 
 The predicted "eye disease" is very broad and mostly covers what the drug is already approved for. It is therefore closer to an extension of the approved use than true repurposing. Evidence for the more distinct retinal uses is smaller and less certain. These include epiretinal membrane surgery, diabetic macular oedema, retinal detachment surgery, and central serous chorioretinopathy. Studies show topical nepafenac and amfenac reach the back of the eye, which makes these uses plausible.
 
@@ -145,12 +145,13 @@ Multiple completed Phase 3 trials support nepafenac in postoperative ocular infl
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Confirm current market availability in the EU, since the only registered authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "The U authorization is cancelled, and e" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the drug record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ilevro (nepafenac) prescribing information, Harrow Eye, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10f411d3-a81e-074a-e063-6294a90ab547) |
 
 <!-- review:end log -->
 

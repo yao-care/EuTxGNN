@@ -56,7 +56,7 @@ Evidence is early: **2 related clinical trials** (one large Phase 3 still ongoin
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Ticagrelor is known as a reversible P2Y12 receptor antagonist that inhibits platelet aggregation. Its efficacy in preventing atherothrombotic events in coronary disease is established, and mechanistically it may be applicable to intracranial arteriosclerosis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ticagrelor: "Ticagrelor and its major metabolite reversibly interact with the platelet P2Y 12 ADP-receptor to prevent signal transduction and platelet activation. Ticagrelor and its active metabolite are approximately equipotent." ([DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8), label version 2026-05-07; accessed 2026-11-19.) Ticagrelor is known as a reversible P2Y12 receptor antagonist that inhibits platelet aggregation. Its efficacy in preventing atherothrombotic events in coronary disease is established, and mechanistically it may be applicable to intracranial arteriosclerosis.
 
 Intracranial atherosclerotic stenosis causes stroke through plaque rupture, thrombosis and artery-to-artery embolism. Antiplatelet therapy is therefore a plausible approach, and the same platelet-driven process underlies the approved coronary indication. Current practice for symptomatic disease is dual therapy with clopidogrel and aspirin for 90 days, then aspirin alone. Recurrent stroke risk remains high up to 12 months, which motivates testing alternatives such as ticagrelor.
 
@@ -112,6 +112,19 @@ The TxGNN model (deep learning) prediction score is very high, and the mechanism
 - Label warnings and contraindications from the SmPC, to complete the safety screening
 - Detailed mechanism-of-action data
 - A bleeding-risk management plan for patients with intracranial vascular disease, including the interaction with concomitant aspirin
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

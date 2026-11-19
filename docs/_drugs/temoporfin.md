@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **nasopharyngeal teratoma**, bu
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, temoporfin is a photosensitizer used in photodynamic therapy (PDT). Its efficacy in head and neck squamous cell carcinoma led to its EU authorization, and mechanistically it may act through light-activated local destruction of tumour tissue.
+ChEMBL (EMBL-EBI) records the mechanism of action of temoporfin as: Photosensitizer ([ChEMBL CHEMBL500576 (temoporfin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL500576), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, temoporfin is a photosensitizer used in photodynamic therapy (PDT). Its efficacy in head and neck squamous cell carcinoma led to its EU authorization, and mechanistically it may act through light-activated local destruction of tumour tissue.
 
 The link to nasopharyngeal teratoma is weak. The nasopharynx is anatomically close to the head and neck region of the approved indication, and PDT acts locally on tumours. However, teratomas are germ-cell tumours with a histology distinct from squamous cell carcinoma, and no supporting data were compiled. The high score (0.9978) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -141,12 +141,13 @@ The prediction for nasopharyngeal teratoma rests on a model score alone, with no
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is cancelled, and warnings and contraindications from the label could not be obtained, so safety screening cannot " | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Confirmation of why the EU authorization was cancelled and whether any formulation remains available" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL500576 (temoporfin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL500576) |
 
 <!-- review:end log -->
 

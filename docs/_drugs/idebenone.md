@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, idebenone is a short-chain benzoquinone analog of coenzyme Q10 with antioxidant and mitochondrial electron-transport activity. Its efficacy in LHON, a mitochondrial optic neuropathy, has led to its authorization for that condition.
+ChEMBL (EMBL-EBI) records the mechanism of action of idebenone as: Antioxidant and mitochondrial electron carrier ([ChEMBL CHEMBL252556 (idebenone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL252556), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, idebenone is a short-chain benzoquinone analog of coenzyme Q10 with antioxidant and mitochondrial electron-transport activity. Its efficacy in LHON, a mitochondrial optic neuropathy, has led to its authorization for that condition.
 
 A speculative link to hepatic porphyria is that oxidative stress and mitochondrial dysfunction may contribute to liver injury in porphyria, and an antioxidant might counter this. No supporting data were available for this report, and the relationship between LHON and hepatic porphyria is not established. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -109,11 +109,12 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization (Raxone) is cancelled, and safety data could not be retrieved, so the candidate cannot advance to safety screening" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL252556 (idebenone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL252556) |
 
 <!-- review:end log -->
 

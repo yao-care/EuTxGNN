@@ -56,7 +56,7 @@ but this is a model prediction only, with **0 clinical trials** and **0 publicat
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, leflunomide inhibits dihydroorotate dehydrogenase (DHODH), an enzyme in pyrimidine synthesis, which reduces the proliferation of activated lymphocytes.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for leflunomide: "Leflunomide is an isoxazole immunomodulatory agent that inhibits dihydroorotate dehydrogenase (a mitochondrial enzyme involved in de novo pyrimidine synthesis) and has antiproliferative activity. Several in vivo and in vitro experimental models have demonstrated an anti-inflammatory effect." ([DailyMed: Arava (leflunomide) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=320f63f2-fac3-4aee-aff8-85724e00ef52), label version 2025-06-04; accessed 2026-11-19.) Based on general pharmacology, leflunomide inhibits dihydroorotate dehydrogenase (DHODH), an enzyme in pyrimidine synthesis, which reduces the proliferation of activated lymphocytes.
 
 No plausible link between this mechanism and brachydactyly-syndactyly syndrome, a rare limb malformation disorder, is supported by the available data. The high score (0.9993) reflects a model prediction only. No trials or publications support it, so the prediction should be treated as a hypothesis at this stage.
 
@@ -101,6 +101,19 @@ The prediction rests only on a model score, with no clinical trials, no publicat
 - A plausible mechanistic rationale connecting DHODH inhibition to the disease pathology
 - Warnings and contraindications from the SmPC, to allow safety screening
 - Detailed mechanism of action data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Arava (leflunomide) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=320f63f2-fac3-4aee-aff8-85724e00ef52) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

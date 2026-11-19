@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **diabetic retinopathy**, but t
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data compiled for this report. Pegvaliase is known to be a PEGylated phenylalanine ammonia lyase that breaks down phenylalanine, and its use in PKU is to lower blood phenylalanine levels.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for pegvaliase: "Pegvaliase-pqpz is a PEGylated phenylalanine ammonia lyase (PAL) enzyme that converts phenylalanine to ammonia and trans -cinnamic acid. It substitutes for the deficient phenylalanine hydroxylase (PAH) enzyme activity in patients with PKU and reduces blood phenylalanine concentrations." ([DailyMed: Palynziq (pegvaliase-pqpz) prescribing information, BioMarin Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dba844a-db02-44f8-8593-ce497ed9406c), label version 2026-03-02; accessed 2026-11-19.) Pegvaliase is known to be a PEGylated phenylalanine ammonia lyase that breaks down phenylalanine, and its use in PKU is to lower blood phenylalanine levels.
 
 No mechanistic link to diabetic retinopathy is evident. The data compiled for this report show no pathway connecting phenylalanine depletion to diabetic microvascular damage. The high TxGNN score (0.9917) is a TxGNN model (deep learning) prediction only, and any proposed link would be speculative.
 
@@ -100,12 +100,13 @@ The prediction has no supporting clinical trials or literature (Evidence Level L
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization for the original indication is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "of why the EU authorization was cancelled and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Palynziq (pegvaliase-pqpz) prescribing information, BioMarin Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dba844a-db02-44f8-8593-ce497ed9406c) |
 
 <!-- review:end log -->
 

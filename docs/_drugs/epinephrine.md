@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **obstructive lung disease** (m
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, epinephrine is a non-selective adrenergic agonist. Stimulation of beta-2 receptors relaxes bronchial smooth muscle and produces bronchodilation, while alpha-1 stimulation reduces mucosal oedema.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for epinephrine: "Epinephrine acts on both alpha and beta-adrenergic receptors. Through its action on alpha-adrenergic receptors, epinephrine lessens the vasodilation and increased vascular permeability that occurs during anaphylaxis, which can lead to loss of intravascular fluid volume and hypotension." ([DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf), label version 2026-09-18; accessed 2026-11-19.) Based on known pharmacology, epinephrine is a non-selective adrenergic agonist. Stimulation of beta-2 receptors relaxes bronchial smooth muscle and produces bronchodilation, while alpha-1 stimulation reduces mucosal oedema.
 
 Anaphylaxis and obstructive lung disease share airway narrowing and bronchospasm as key features. The bronchodilator and anti-oedema effects that make epinephrine effective in anaphylaxis are directly relevant to asthma. They are also relevant to other obstructive airway conditions, such as bronchiolitis and croup, in which airway oedema is prominent.
 
@@ -139,12 +139,13 @@ Several completed Phase 3 trials of inhaled epinephrine in asthma, including adu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Clarification of the regulatory pathway, since the only EU authorisation is cancelled and covers a different indication" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "and the only EU authorisation on record is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ The mechanistic review also suggests that the prediction is biologically implaus
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Rasburicase is known to be a recombinant urate oxidase. It converts uric acid to allantoin, which is more soluble and easily excreted, and so it lowers serum uric acid quickly.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for rasburicase: "In humans, uric acid is the final step in the catabolic pathway of purines. Rasburicase catalyzes enzymatic oxidation of poorly soluble uric acid into an inactive and more soluble metabolite (allantoin)." ([DailyMed: Elitek (rasburicase) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ae10bc4-6b65-402f-9db5-2d7753054922), label version 2026-07-30; accessed 2026-11-19.) Rasburicase is known to be a recombinant urate oxidase. It converts uric acid to allantoin, which is more soluble and easily excreted, and so it lowers serum uric acid quickly.
 
 Renal hypouricaemia is already a condition of abnormally low serum uric acid, caused by defects in urate transporters such as URAT1 and GLUT9. Further urate lowering would be mechanistically counterproductive and could worsen the phenotype. The high TxGNN score (rank 296) therefore comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -108,12 +108,13 @@ The prediction is supported by a model score only (L5), with no clinical trials 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The product's only EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-10-31 | Removed: "Clarification of the regulatory status, given that the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Elitek (rasburicase) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ae10bc4-6b65-402f-9db5-2d7753054922) |
 
 <!-- review:end log -->
 

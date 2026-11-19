@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Scheie syndrome**, but **no c
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, vestronidase alfa is a recombinant human beta-glucuronidase. It is an enzyme replacement therapy that breaks down glycosaminoglycans (GAGs) such as dermatan sulfate, heparan sulfate and chondroitin sulfate, and it has been approved for MPS VII.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for vestronidase alfa: "Mucopolysaccharidosis VII (MPS VII or Sly syndrome) is a lysosomal disorder characterized by the deficiency of GUS that results in GAG accumulation in cells throughout the body leading to multisystem tissue and organ damage. Vestronidase alfa-vjbk is a recombinant form of human GUS and is intended to provide exogenous GUS enzyme for uptake into cellular lysosomes." ([DailyMed: Mepsevii (vestronidase alfa) prescribing information, Ultragenyx Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=925d4e21-fd98-474d-a34d-a0b3558ed750), label version 2026-10-26; accessed 2026-11-19.) Based on known information, vestronidase alfa is a recombinant human beta-glucuronidase. It is an enzyme replacement therapy that breaks down glycosaminoglycans (GAGs) such as dermatan sulfate, heparan sulfate and chondroitin sulfate, and it has been approved for MPS VII.
 
 Scheie syndrome (attenuated MPS I) is caused by a deficiency of alpha-L-iduronidase, which leads to accumulation of dermatan sulfate and heparan sulfate. Vestronidase alfa acts on the same family of GAGs, but at a different enzymatic step. It therefore cannot replace the missing enzyme in Scheie syndrome.
 
@@ -113,12 +113,13 @@ The Scheie syndrome prediction is supported only by a model score. There are no 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "since the EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mepsevii (vestronidase alfa) prescribing information, Ultragenyx Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=925d4e21-fd98-474d-a34d-a0b3558ed750) |
 
 <!-- review:end log -->
 

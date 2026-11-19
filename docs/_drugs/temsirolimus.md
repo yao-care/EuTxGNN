@@ -58,7 +58,7 @@ but only **2 indirect clinical trials** (mixed sarcoma populations, combination 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available in the data compiled for this report. Temsirolimus is a known mTOR inhibitor, and its efficacy in advanced renal-cell carcinoma and mantle-cell lymphoma has led to regulatory approval.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for temsirolimus: "Temsirolimus is an inhibitor of mTOR (mammalian target of rapamycin). Temsirolimus binds to an intracellular protein (FKBP-12), and the protein-drug complex inhibits the activity of mTOR that controls cell division. Inhibition of mTOR activity resulted in a G1 growth arrest in treated tumor cells." ([DailyMed: temsirolimus prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c207bed-10e3-46f0-ad2c-69d5e5c97736), label version 2020-03-30; accessed 2026-11-19.) Temsirolimus is a known mTOR inhibitor, and its efficacy in advanced renal-cell carcinoma and mantle-cell lymphoma has led to regulatory approval.
 
 The PI3K/AKT/mTOR pathway is commonly activated in soft tissue sarcomas, including liposarcoma subtypes such as MDM2/CDK4-amplified well-differentiated and dedifferentiated disease. This gives a plausible mechanistic reason to test an mTOR inhibitor in this setting.
 
@@ -150,13 +150,14 @@ The mTOR rationale for soft tissue sarcoma is plausible, but the available trial
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The only EU authorisation is recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "of why the EU authorisation was cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Temsirolimus's EU authorisation is cancelled, and l" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: temsirolimus prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c207bed-10e3-46f0-ad2c-69d5e5c97736) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **uterine corpus perivascular e
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Ruxolitinib is known as a JAK1/2 inhibitor. Its efficacy in myelofibrosis, polycythaemia vera and graft versus host disease is established, and it works by dampening JAK/STAT-driven signalling.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ruxolitinib: "Ruxolitinib, a kinase inhibitor, inhibits Janus Associated Kinases (JAKs), JAK1 and JAK2, which mediate the signaling of a number of cytokines and growth factors that are important for hematopoiesis and immune function. JAK signaling involves recruitment of STATs (signal transducers and activators of transcription) to cytokine receptors, activation, and subsequent localization of STATs to the nucleus leading to modulation of gene expression." ([DailyMed: Jakafi (ruxolitinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1c82580-87ae-11e0-bc84-0002a5d5c51b), label version 2026-07-20; accessed 2026-11-19.) Ruxolitinib is known as a JAK1/2 inhibitor. Its efficacy in myelofibrosis, polycythaemia vera and graft versus host disease is established, and it works by dampening JAK/STAT-driven signalling.
 
 The link to uterine PEComa is weak. PEComa biology is usually driven by mTOR pathway dysregulation (TSC1/TSC2), not JAK/STAT signalling. The high score of 0.9973 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related PEComa-family diseases, not biological evidence. No trials or publications were found to support a rationale for JAK1/2 inhibition in this tumour.
 
@@ -111,11 +111,12 @@ The prediction rests on a TxGNN model (deep learning) score alone, with no trial
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both EU authorisations are currently valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Jakafi (ruxolitinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1c82580-87ae-11e0-bc84-0002a5d5c51b) |
 
 <!-- review:end log -->
 

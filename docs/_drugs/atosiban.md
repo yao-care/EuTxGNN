@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **primary hereditary glaucoma**
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available in the data compiled for this report. Pharmacology data show that atosiban is a peptide that binds the oxytocin receptor (OXTR) and the vasopressin V1A, V1B and V2 receptors. It is used as a tocolytic, meaning it relaxes the uterus by blocking oxytocin signalling.
+ChEMBL (EMBL-EBI) records the mechanism of action of atosiban as: Oxytocin receptor antagonist ([ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301), CC BY-SA 3.0; accessed 2026-11-19.) Pharmacology data show that atosiban is a peptide that binds the oxytocin receptor (OXTR) and the vasopressin V1A, V1B and V2 receptors. It is used as a tocolytic, meaning it relaxes the uterus by blocking oxytocin signalling.
 
 The original indication (preterm labour) and the predicted indication (hereditary glaucoma) are unrelated clinically. A link to intraocular pressure regulation or trabecular meshwork function is speculative and not supported by the data compiled here. The very high score (0.9992) reflects a model-derived association, not demonstrated biology, and should be treated as a hypothesis only.
 
@@ -111,11 +111,12 @@ The prediction is supported only by the model score (L5), with no clinical trial
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-12 | Removed: "The product is also no longer authorized in the EU" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301) |
 
 <!-- review:end log -->
 

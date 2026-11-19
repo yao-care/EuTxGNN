@@ -58,7 +58,7 @@ with **2 clinical trials** (one small and completed, one terminated early) and *
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data from DrugBank is not available in the data compiled for this report. Based on the published rationale, imiquimod is a Toll-like receptor 7 (TLR7) agonist. It triggers local innate and adaptive immune activation (interferon-alpha, TNF-alpha, IL-12), which promotes clearance of dysplastic and virally transformed epithelium.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for imiquimod: "The mechanism of action of ZYCLARA in the treatment of AK and EGW is unknown." ([DailyMed: Zyclara (imiquimod) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=28cd9b5b-680b-480f-b33d-9c5b52bbf03d), label version 2025-05-23; accessed 2026-11-19.) Based on the published rationale, imiquimod is a Toll-like receptor 7 (TLR7) agonist. It triggers local innate and adaptive immune activation (interferon-alpha, TNF-alpha, IL-12), which promotes clearance of dysplastic and virally transformed epithelium.
 
 Its approved uses, actinic keratosis (itself a pre-malignant skin lesion), superficial basal cell carcinoma and HPV-related warts, already sit close to "pre-malignant neoplasm". The same immune-driven mechanism could plausibly act on other intraepithelial neoplasias (cervical, vulvar, anal, penile). The literature includes Cochrane reviews of anal and vulval intraepithelial neoplasia and case reports of success in vulvar intraepithelial neoplasia and Bowenoid papulosis.
 
@@ -134,12 +134,13 @@ The TxGNN score is very high and the mechanism is plausible. Pre-malignant lesio
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both EU authorizations are cancelled, so any development would need a new regulatory pathway" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "given the cancelled EU status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data from DrugBank is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zyclara (imiquimod) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=28cd9b5b-680b-480f-b33d-9c5b52bbf03d) |
 
 <!-- review:end log -->
 

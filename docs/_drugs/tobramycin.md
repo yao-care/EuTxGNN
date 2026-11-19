@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **exposure keratitis**, but **n
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tobramycin is a broad-spectrum aminoglycoside antibiotic with activity against *Pseudomonas aeruginosa* and *Staphylococcus* species. Its efficacy in *Pseudomonas* lung infection in cystic fibrosis has been established, and mechanistically it may be applicable to bacterial infections of the cornea.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for tobramycin: "Tobramycin is an aminoglycoside antibacterial. […] Tobramycin is an aminoglycoside antibacterial produced by Streptomyces tenebrarius. It acts primarily by disrupting protein synthesis leading to altered cell membrane permeability, progressive disruption of the cell envelope, and eventual cell death." ([DailyMed: Tobi Podhaler (tobramycin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4b5bb1f-e158-4ac1-9c35-e98a416c743a), label version 2026-04-15; accessed 2026-11-19.) Based on known information, tobramycin is a broad-spectrum aminoglycoside antibiotic with activity against *Pseudomonas aeruginosa* and *Staphylococcus* species. Its efficacy in *Pseudomonas* lung infection in cystic fibrosis has been established, and mechanistically it may be applicable to bacterial infections of the cornea.
 
 Exposure keratitis happens when the cornea is not adequately protected by the eyelids, for example when a patient cannot close their eyes. The dried, damaged surface is then vulnerable to secondary infection by the same bacteria that tobramycin targets. Topical tobramycin is an established treatment for bacterial keratitis and ocular surface infections, which gives a plausible rationale for the secondary infection component.
 
@@ -126,12 +126,13 @@ The prediction score is very high, but it comes from the TxGNN model (deep learn
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both EU authorizations for tobramycin are valid (2 valid licences of 2), and they cover inhaled products for cystic fibrosis rather than ocu" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tobi Podhaler (tobramycin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4b5bb1f-e158-4ac1-9c35-e98a416c743a) |
 
 <!-- review:end log -->
 

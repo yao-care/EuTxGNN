@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **Rasmussen subacute encephalitis*
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Safinamide is generally known as a reversible MAO-B inhibitor, and its efficacy in Parkinson's disease has been established through its marketing authorization. Any link to Rasmussen encephalitis rests on hypothesis, not on data.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for safinamide: "The precise mechanism by which XADAGO exerts its therapeutic effects in PD is unknown. XADAGO is an inhibitor of monoamine oxidase B (MAO-B). Inhibition of MAO-B activity, by blocking the catabolism of dopamine, is thought to result in an increase in dopamine levels and a subsequent increase in dopaminergic activity in the brain." ([DailyMed: Xadago (safinamide mesylate) prescribing information, MDD US Operations LLC, a subsidiary of Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4d65f28-983f-42b4-bb23-023ae0fe81b2), label version 2026-10-05; accessed 2026-11-19.) Safinamide is generally known as a reversible MAO-B inhibitor, and its efficacy in Parkinson's disease has been established through its marketing authorization. Any link to Rasmussen encephalitis rests on hypothesis, not on data.
 
 One possible link is that safinamide also blocks voltage-gated sodium channels and reduces glutamate release. In theory, this could be relevant to the seizure activity and neuroinflammation-driven neuronal injury seen in Rasmussen encephalitis. This reasoning is unverified and cannot be cross-checked against a source mechanism record.
 
@@ -125,12 +125,13 @@ The prediction rests only on a score from the TxGNN model (deep learning), which
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Clarification of the current EU authorization status, since the only license is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "The only authorization on record has a cancelled status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xadago (safinamide mesylate) prescribing information, MDD US Operations LLC, a subsidiary of Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4d65f28-983f-42b4-bb23-023ae0fe81b2) |
 
 <!-- review:end log -->
 

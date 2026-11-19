@@ -60,7 +60,7 @@ Among the other top-10 predictions, **Hodgkin lymphoma** (44 registered trials, 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, methotrexate is an antifolate that inhibits dihydrofolate reductase and so interferes with DNA synthesis in rapidly dividing cells. Its efficacy in ALL, an oncology indication, shows that it can act on proliferating malignant cells. Mechanistically, it may therefore be applicable to other fast-growing tumours.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for methotrexate: "Methotrexate inhibits dihydrofolic acid reductase. Dihydrofolates must be reduced to tetrahydrofolates by this enzyme before they can be utilized as carriers of one-carbon groups in the synthesis of purine nucleotides and thymidylate." ([DailyMed: Jylamvo (methotrexate) prescribing information, SHORLA ONCOLOGY INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96e931f5-51ae-4bdf-a441-bb0dd26d4c0e), label version 2026-11-05; accessed 2026-11-19.) Based on general pharmacology, methotrexate is an antifolate that inhibits dihydrofolate reductase and so interferes with DNA synthesis in rapidly dividing cells. Its efficacy in ALL, an oncology indication, shows that it can act on proliferating malignant cells. Mechanistically, it may therefore be applicable to other fast-growing tumours.
 
 Pulmonary blastoma is a rare lung malignancy. No studies were found that test methotrexate in this disease, so the link is an inference from the drug's class and its use in other cancers, not demonstrated evidence. The model assigns a high score, but a model score alone is not clinical proof.
 
@@ -167,11 +167,12 @@ Label-based warnings and contraindications were not available in the data compil
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "both EU authorizations are cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Jylamvo (methotrexate) prescribing information, SHORLA ONCOLOGY INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96e931f5-51ae-4bdf-a441-bb0dd26d4c0e) |
 
 <!-- review:end log -->
 

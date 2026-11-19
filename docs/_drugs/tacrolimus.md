@@ -56,7 +56,7 @@ with **2 clinical trials** (one completed Phase 3, one completed Phase 4) and **
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data from DrugBank is not available in the compiled data. Based on known information, tacrolimus is a calcineurin inhibitor. It blocks NFAT-dependent T-cell activation and the release of pro-inflammatory cytokines. This is the basis of its use in transplantation and, topically, in atopic dermatitis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for tacrolimus: "Tacrolimus binds to an intracellular protein, FKBP-12. A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (an ubiquitous mammalian intracellular enzyme) is then formed and the phosphatase activity of calcineurin inhibited." ([DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7), label version 2025-02-26; accessed 2026-11-19.) Based on known information, tacrolimus is a calcineurin inhibitor. It blocks NFAT-dependent T-cell activation and the release of pro-inflammatory cytokines. This is the basis of its use in transplantation and, topically, in atopic dermatitis.
 
 Seborrheic dermatitis is a chronic, relapsing inflammatory skin disease of the face and scalp. Its inflammatory component is partly driven by immune responses to *Malassezia* yeast. Topical calcineurin inhibition is therefore mechanistically applicable, in the same way as in atopic dermatitis. Reviews of topical calcineurin inhibitors in seborrheic dermatitis and a maintenance-therapy clinical study with 0.1% tacrolimus ointment support this direction.
 
@@ -138,12 +138,13 @@ Two completed trials (Phase 3 and Phase 4, 224 patients combined) test tacrolimu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "since all five authorizations are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "and the only EU topical product (Protopic) is currently cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data from DrugBank is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **hypoalphalipoproteinemia** (l
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data was not available in the data compiled for this report. Based on general pharmacology, prucalopride is a selective 5-HT4 receptor agonist that enhances gastrointestinal motility, and its efficacy in chronic constipation is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for prucalopride: "Prucalopride, a selective serotonin type 4 (5-HT 4 ) receptor agonist, is a gastrointestinal (GI) prokinetic agent that stimulates colonic peristalsis (high-amplitude propagating contractions [HAPCs]), which increases bowel motility. Prucalopride was devoid of effects mediated via 5-HT 2A, 5-HT 2B, 5-HT 3, motilin or CCK-A receptors in vitro at concentrations exceeding 5-HT 4 receptor affinity by 150-fold or greater." ([DailyMed: Motegrity (prucalopride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bca1e4c6-4b2b-4876-8ab3-654629c4ff1b), label version 2025-07-17; accessed 2026-11-19.) Based on general pharmacology, prucalopride is a selective 5-HT4 receptor agonist that enhances gastrointestinal motility, and its efficacy in chronic constipation is established.
 
 For the top-ranked prediction, hypoalphalipoproteinemia, no plausible mechanistic link could be identified. HDL metabolism and lipoprotein regulation have no known connection to 5-HT4 agonism, so the high score looks like an artifact of the TxGNN model (deep learning) prediction rather than a pharmacological signal. The other top predictions are similarly weak:
 
@@ -110,6 +110,19 @@ The top prediction, hypoalphalipoproteinemia, has no clinical trials, no literat
 - Label warnings and contraindications from the SmPC, which are required for safety screening
 - Confirmation of the current EU regulatory status of prucalopride products
 - If a lead is wanted, the amyloidosis-related GI dysmotility indications (Evidence Level L4) are the more credible research question. They would need to be framed as symptom management and supported by targeted studies of prucalopride in that setting.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data was not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Motegrity (prucalopride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bca1e4c6-4b2b-4876-8ab3-654629c4ff1b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

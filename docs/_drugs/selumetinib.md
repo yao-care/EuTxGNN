@@ -56,7 +56,7 @@ Among the other predictions, peripheral nerve schwannoma has the most supporting
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Selumetinib is known as a MEK1/2 inhibitor, which blocks the RAS/MAPK signalling pathway. Its efficacy in NF1 plexiform neurofibromas, a condition driven by overactive RAS/MAPK signalling, is the basis of its EU authorisation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for selumetinib: "Selumetinib is an inhibitor of mitogen-activated protein kinase kinases 1 and 2 (MEK1/2). MEK1/2 proteins are upstream regulators of the extracellular signal-related kinase (ERK) pathway. Both MEK and ERK are critical components of the RAS-regulated RAF-MEK-ERK pathway, which is often activated in different types of cancers." ([DailyMed: Koselugo (selumetinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d042c61-f28f-4ab5-ab10-d7558c0d49ff), label version 2026-05-26; accessed 2026-11-19.) Selumetinib is known as a MEK1/2 inhibitor, which blocks the RAS/MAPK signalling pathway. Its efficacy in NF1 plexiform neurofibromas, a condition driven by overactive RAS/MAPK signalling, is the basis of its EU authorisation.
 
 Pigmentary lentiginosis syndromes can involve dysregulation of the RAS/MAPK pathway, so MEK inhibition is mechanistically plausible. However, this link is hypothetical. The prediction rests on the TxGNN score alone, and no trial or publication in the compiled data tests selumetinib in familial generalized lentiginosis.
 
@@ -154,6 +154,19 @@ Familial generalized lentiginosis rests on a model score alone (L5), with no tri
 - EU label safety information (warnings and contraindications) reviewed from the SmPC
 - For the schwannoma lead: results from NCT03095248 and the outcome of the planned NCT07707947 and NCT07713745 trials
 - Paediatric safety and dosing considerations, since the current EU authorisation is limited to children aged 3 years and above with NF1
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Koselugo (selumetinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d042c61-f28f-4ab5-ab10-d7558c0d49ff) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -54,7 +54,7 @@ Carfilzomib is a proteasome inhibitor used in oncology. The TxGNN model predicts
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Carfilzomib belongs to the proteasome inhibitor class, which causes accumulation of misfolded proteins and triggers apoptosis in cancer cells.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for carfilzomib: "Carfilzomib is a tetrapeptide epoxyketone proteasome inhibitor that irreversibly binds to the N-terminal threonine-containing active sites of the 20S proteasome, the proteolytic core particle within the 26S proteasome. Carfilzomib had antiproliferative and proapoptotic activities in vitro in solid and hematologic tumor cells." ([DailyMed: Kyprolis (carfilzomib) prescribing information, Onyx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea66eb30-e665-4693-99a1-a9d3b4bbe2d6), label version 2025-06-18; accessed 2026-11-19.) Carfilzomib belongs to the proteasome inhibitor class, which causes accumulation of misfolded proteins and triggers apoptosis in cancer cells.
 
 For CMM7, a possible link is proteasome inhibition in melanocytic or melanoma-type cells. However, no trial or publication supports this, and the similarity to the drug's current use has not been assessed. The high score reflects the model's pattern matching only and should not be read as evidence of efficacy.
 
@@ -106,6 +106,19 @@ The prediction for CMM7 rests on a model score alone (Evidence Level L5), with n
 - Detailed mechanism of action data
 - Warnings and contraindications from the SmPC
 - Assessment of route and dosage-form compatibility for the new indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Kyprolis (carfilzomib) prescribing information, Onyx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea66eb30-e665-4693-99a1-a9d3b4bbe2d6) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

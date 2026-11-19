@@ -54,7 +54,7 @@ Solriamfetol is a wake-promoting dopamine and norepinephrine reuptake inhibitor.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. From the published literature, solriamfetol is described as a dopamine and norepinephrine reuptake inhibitor (DNRI).
+According to the Mechanism of Action section of the US FDA-approved prescribing information for solriamfetol: "The mechanism of action of solriamfetol to improve wakefulness in patients with excessive daytime sleepiness associated with narcolepsy or obstructive sleep apnea is unclear. However, its efficacy could be mediated through its activity as a dopamine and norepinephrine reuptake inhibitor (DNRI)." ([DailyMed: Sunosi (solriamfetol) prescribing information, Axsome Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=362f206b-73e7-4009-8c34-5a9df55679ab), label version 2026-05-05; accessed 2026-11-19.) From the published literature, solriamfetol is described as a dopamine and norepinephrine reuptake inhibitor (DNRI).
 
 Enhancing dopaminergic and noradrenergic neurotransmission is the core mechanism of established ADHD therapies such as methylphenidate and atomoxetine. The pharmacology is therefore directly plausible for ADHD symptoms such as inattention.
 
@@ -111,6 +111,18 @@ The evidence level is L2: one completed phase 3 placebo-controlled adult ADHD tr
 - Results from the ongoing adolescent and paediatric phase 3 trials
 - Review of SmPC warnings and contraindications, with attention to cardiovascular effects and sympathomimetic interactions
 - Detailed mechanism-of-action data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sunosi (solriamfetol) prescribing information, Axsome Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=362f206b-73e7-4009-8c34-5a9df55679ab) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

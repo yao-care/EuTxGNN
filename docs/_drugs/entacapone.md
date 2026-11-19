@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** directly su
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Entacapone is known as a catechol-O-methyltransferase (COMT) inhibitor. By slowing levodopa breakdown, it prolongs levodopa's effect in Parkinson's disease.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for entacapone: "Entacapone is a selective and reversible inhibitor of COMT. In mammals, COMT is distributed throughout various organs with the highest activities in the liver and kidney. COMT also occurs in the heart, lung, smooth and skeletal muscles, intestinal tract, reproductive organs, various glands, adipose tissue, skin, blood cells, and neuronal tissues, especially in glial cells." ([DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd), label version 2026-02-16; accessed 2026-11-19.) Entacapone is known as a catechol-O-methyltransferase (COMT) inhibitor. By slowing levodopa breakdown, it prolongs levodopa's effect in Parkinson's disease.
 
 PLA2G6-associated neurodegeneration includes a dystonia-parkinsonism phenotype with dopaminergic involvement. In theory, COMT inhibition could augment levodopa response in that parkinsonian subtype. This is speculative: there is no direct mechanistic or clinical evidence in the data, and the prediction rests only on the TxGNN score.
 
@@ -130,12 +130,13 @@ The prediction for PLA2G6-associated neurodegeneration is supported only by a mo
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "of why the EU authorizations were cancelled and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "All four EU authorizations are valid, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd) |
 
 <!-- review:end log -->
 

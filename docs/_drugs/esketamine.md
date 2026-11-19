@@ -60,7 +60,7 @@ However, there are currently **0 clinical trials** and **0 publications** suppor
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Esketamine is known to be the S-enantiomer of ketamine and an NMDA receptor antagonist. Its antidepressant efficacy in treatment-resistant depression is established, and mechanistically it may be applicable to anxiety-spectrum conditions such as agoraphobia.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for esketamine: "Esketamine, the S-enantiomer of racemic ketamine, is a non-selective, non-competitive antagonist of the N -methyl- D -aspartate (NMDA) receptor, an ionotropic glutamate receptor. The mechanism by which esketamine exerts its antidepressant effect is unknown." ([DailyMed: Spravato (esketamine hydrochloride) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed), label version 2026-09-22; accessed 2026-11-19.) Esketamine is known to be the S-enantiomer of ketamine and an NMDA receptor antagonist. Its antidepressant efficacy in treatment-resistant depression is established, and mechanistically it may be applicable to anxiety-spectrum conditions such as agoraphobia.
 
 Depression and agoraphobia are both mood and anxiety-related disorders, and they often co-occur. Glutamatergic signalling and synaptic plasticity are plausible shared pathways. However, no trials or literature were found that directly link esketamine to agoraphobia. The high TxGNN score is a computational prediction, not clinical proof, and the similarity to the original indication has not yet been assessed.
 
@@ -126,11 +126,12 @@ The prediction score is very high, but there are no clinical trials or publicati
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "In addition, the only EU authorization on record is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Spravato (esketamine hydrochloride) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ Direct support is limited to **one small open-label Phase 2 pilot trial** and **
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Abatacept is a biologic that blocks T-cell co-stimulation, and this pathway is plausibly relevant in spondyloarthritis. That is the basis for the prediction.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for abatacept: "Abatacept, a selective costimulation modulator, inhibits T-cell (T lymphocyte) activation by binding to CD80 and CD86, thereby blocking interaction with CD28. This interaction provides a costimulatory signal necessary for full activation of T lymphocytes." ([DailyMed: Orencia (abatacept) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0836c6ac-ee37-5640-2fed-a3185a0b16eb), label version 2025-11-13; accessed 2026-11-19.) Abatacept is a biologic that blocks T-cell co-stimulation, and this pathway is plausibly relevant in spondyloarthritis. That is the basis for the prediction.
 
 Clinical experience does not strongly support the idea, though. Reviews report that biologics targeting T cells, including abatacept, have not been effective in axial spondyloarthritis. Tumour necrosis factor (TNF) inhibitors and IL-17 inhibitors perform much better. The mechanistic link is therefore plausible in theory but weakly supported in practice.
 
@@ -116,6 +116,18 @@ Evidence for ankylosing spondylitis is level L3. It rests on a small, uncontroll
 - Comparative data against TNF and IL-17 inhibitors, which are established treatments.
 - Mechanism-of-action data and a mechanistic rationale specific to axial disease.
 - Safety information from the SmPC, including warnings and contraindications.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Orencia (abatacept) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0836c6ac-ee37-5640-2fed-a3185a0b16eb) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

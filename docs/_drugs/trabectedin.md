@@ -56,7 +56,7 @@ with **1 registered clinical trial** (a QT-interval safety study, not an efficac
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the compiled drug record. From the published literature, trabectedin binds the DNA minor groove, causes DNA damage, and interferes with transcription-coupled nucleotide excision repair. It also modulates the tumour microenvironment by reducing tumour-associated macrophages.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for trabectedin: "Trabectedin is an alkylating drug that binds guanine residues in the minor groove of DNA, forming adducts and resulting in a bending of the DNA helix towards the major groove. Adduct formation triggers a cascade of events that can affect the subsequent activity of DNA binding proteins, including some transcription factors, and DNA repair pathways, resulting in perturbation of the cell cycle and eventual cell death." ([DailyMed: Evdi (trabectedin) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1d50f5c-4202-27f3-4798-a9708114ddea), label version 2026-06-29; accessed 2026-11-19.) From the published literature, trabectedin binds the DNA minor groove, causes DNA damage, and interferes with transcription-coupled nucleotide excision repair. It also modulates the tumour microenvironment by reducing tumour-associated macrophages.
 
 Tumours with BRCA deficiency or homologous recombination defects appear particularly sensitive to trabectedin. This is relevant to breast cancer, where germline BRCA1/2 mutations occur. Trabectedin is already used in ovarian cancer, which shares a BRCA-related biology with some breast cancers. Preclinical work also suggests that trabectedin may enhance the effect of IL-12 immunotherapy in triple-negative breast cancer.
 
@@ -141,12 +141,13 @@ The biological rationale is credible (DNA-repair interference, BRCA-deficiency s
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Clarification of the cancelled EU status, including whether any product remains available" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "and both EU authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the compiled drug record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Evdi (trabectedin) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1d50f5c-4202-27f3-4798-a9708114ddea) |
 
 <!-- review:end log -->
 

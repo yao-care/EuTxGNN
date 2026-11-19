@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data compiled for this report is not available. From general knowledge, palivizumab is a humanized monoclonal antibody that binds the F protein of RSV and neutralizes the virus. Its proven use is preventing RSV disease in high-risk infants.
+ChEMBL (EMBL-EBI) records the mechanism of action of palivizumab as: Fusion glycoprotein F0 inhibitor ([ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586), CC BY-SA 3.0; accessed 2026-11-19.) From general knowledge, palivizumab is a humanized monoclonal antibody that binds the F protein of RSV and neutralizes the virus. Its proven use is preventing RSV disease in high-risk infants.
 
 The original indication (a viral respiratory infection) and the predicted indication (a benign tumour of the tongue) are biologically unrelated. No RSV-driven pathway is established in tongue neoplasms, and an antibody against a viral antigen has no known target in this tissue. Any anti-tumour effect would require an unproven off-target or immune mechanism.
 
@@ -116,12 +116,13 @@ The prediction has no clinical trials, no literature, and no plausible mechanist
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization has been cancelled, and key safety information is missing" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "the cancelled EU authorization status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data compiled for this report is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586) |
 
 <!-- review:end log -->
 

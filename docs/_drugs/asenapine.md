@@ -60,7 +60,7 @@ However, there are **0 clinical trials** and **0 publications** supporting this 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for asenapine are not available in the data compiled for this report. Asenapine is generally understood to be a multi-receptor antipsychotic that blocks dopamine D2 and serotonin 5-HT2A receptors, with additional activity at other serotonin, adrenergic and histamine receptors. This profile explains its efficacy in mania, but it has no known connection to inherited retinal degeneration.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for asenapine: "The mechanism of action of asenapine, in schizophrenia and bipolar I disorder, is unknown. It has been suggested that the efficacy of asenapine in schizophrenia could be mediated through a combination of antagonist activity at D 2 and 5-HT 2A receptors." ([DailyMed: Saphris (asenapine maleate) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5429f134-839f-4ffc-9944-55f51238def8), label version 2025-01-31; accessed 2026-11-19.) Asenapine is generally understood to be a multi-receptor antipsychotic that blocks dopamine D2 and serotonin 5-HT2A receptors, with additional activity at other serotonin, adrenergic and histamine receptors. This profile explains its efficacy in mania, but it has no known connection to inherited retinal degeneration.
 
 The original indication (mania in bipolar I disorder) is a psychiatric condition, while the predicted indication is a genetic degenerative eye disease. No known pathway links the two. The high TxGNN score (0.9977) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No experimental or clinical data back it. The prediction should be treated as a hypothesis only.
 
@@ -135,12 +135,13 @@ That prediction is essentially the already-approved indication rather than a tru
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only authorization is cancelled, and the drug's safety profile (cardiovascular, metabolic and haematological signals, plus a heavy inter" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-10-31 | Removed: "Verification of the current regulatory and availability status, since the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data for asenapine are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Saphris (asenapine maleate) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5429f134-839f-4ffc-9944-55f51238def8) |
 
 <!-- review:end log -->
 

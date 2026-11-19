@@ -21,11 +21,12 @@
   "items_current": 1234
  },
  "reviews": {
-  "records": 448,
-  "pages": 275,
-  "public_pages_with_records": 264,
+  "records": 852,
+  "pages": 442,
+  "public_pages_with_records": 431,
   "by_action": {
-   "correct": 448
+   "correct": 448,
+   "mechanism": 404
   }
  },
  "fhir": {
@@ -39,7 +40,7 @@
    "l": "L5",
    "lt": 32,
    "lv": 32,
-   "r": 0,
+   "r": 1,
    "i": "severe nonproliferative diabetic retinopathy"
   },
   {
@@ -48,7 +49,7 @@
    "l": "L5",
    "lt": 23,
    "lv": 19,
-   "r": 2,
+   "r": 3,
    "i": "focal stiff limb syndrome"
   },
   {
@@ -57,7 +58,7 @@
    "l": "L4",
    "lt": 19,
    "lv": 18,
-   "r": 1,
+   "r": 2,
    "i": "simian immunodeficiency virus infection"
   },
   {
@@ -66,7 +67,7 @@
    "l": "L5",
    "lt": 32,
    "lv": 17,
-   "r": 2,
+   "r": 3,
    "i": "migraine with brainstem aura"
   },
   {
@@ -75,7 +76,7 @@
    "l": "L5",
    "lt": 14,
    "lv": 14,
-   "r": 1,
+   "r": 2,
    "i": "esotropia"
   },
   {
@@ -84,7 +85,7 @@
    "l": "L5",
    "lt": 15,
    "lv": 14,
-   "r": 1,
+   "r": 2,
    "i": "feline acquired immunodeficiency syndrome"
   },
   {
@@ -93,7 +94,7 @@
    "l": "L5",
    "lt": 16,
    "lv": 13,
-   "r": 2,
+   "r": 3,
    "i": "severe nonproliferative diabetic retinopathy"
   },
   {
@@ -113,7 +114,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 1,
+   "r": 2,
    "i": "acute female pelvic peritonitis"
   },
   {
@@ -122,7 +123,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 0,
+   "r": 1,
    "i": "Hodgkins lymphoma"
   },
   {
@@ -131,7 +132,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 1,
+   "r": 2,
    "i": "hereditary thrombocytopenia with normal platelets"
   },
   {
@@ -140,7 +141,7 @@
    "l": "L4",
    "lt": 2,
    "lv": 0,
-   "r": 1,
+   "r": 2,
    "i": "migraine disorder"
   },
   {
@@ -149,7 +150,7 @@
    "l": "L5",
    "lt": 2,
    "lv": 0,
-   "r": 1,
+   "r": 2,
    "i": "congenital coronary artery anomaly"
   }
  ],
@@ -161,7 +162,7 @@
    "l": "L5",
    "lt": 12,
    "lv": 8,
-   "r": 4,
+   "r": 5,
    "i": "brain stem infarction"
   },
   {
@@ -170,7 +171,7 @@
    "l": "L5",
    "lt": 13,
    "lv": 10,
-   "r": 4,
+   "r": 5,
    "i": "benign paroxysmal torticollis of infancy"
   },
   {
@@ -179,7 +180,7 @@
    "l": "L5",
    "lt": 9,
    "lv": 7,
-   "r": 4,
+   "r": 5,
    "i": "glaucoma"
   },
   {
@@ -188,7 +189,7 @@
    "l": "L5",
    "lt": 14,
    "lv": 8,
-   "r": 4,
+   "r": 5,
    "i": "Prinzmetal angina"
   },
   {
@@ -197,7 +198,7 @@
    "l": "L5",
    "lt": 4,
    "lv": 3,
-   "r": 3,
+   "r": 4,
    "i": "unclassified myelodysplastic syndrome"
   },
   {
@@ -206,7 +207,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 1,
-   "r": 3,
+   "r": 4,
    "i": "fibromatosis, gingival"
   }
  ],
@@ -216,7 +217,7 @@
   "l": "L1",
   "lt": 6,
   "lv": 5,
-  "r": 2,
+  "r": 3,
   "i": "seborrheic dermatitis"
  },
  "recent_reviews": [

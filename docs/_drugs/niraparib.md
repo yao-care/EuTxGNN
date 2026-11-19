@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **epiglottis neoplasm**, but **
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general knowledge, niraparib belongs to the PARP inhibitor class. These agents block DNA single-strand break repair and cause synthetic lethality in tumours with homologous recombination deficiency (HRD) or BRCA mutations.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for niraparib: "Niraparib is an inhibitor of PARP enzymes, including PARP-1 and PARP-2, that play a role in DNA repair. In vitro studies have shown that niraparib-induced cytotoxicity may involve inhibition of PARP enzymatic activity and increased formation of PARP-DNA complexes resulting in DNA damage, apoptosis, and cell death." ([DailyMed: Zejula (niraparib) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b7f675e2-159c-490c-b6f4-3f16d9492b7d), label version 2026-07-28; accessed 2026-11-19.) Based on general knowledge, niraparib belongs to the PARP inhibitor class. These agents block DNA single-strand break repair and cause synthetic lethality in tumours with homologous recombination deficiency (HRD) or BRCA mutations.
 
 A PARP inhibitor could plausibly act on any tumour with HRD. However, no data link this mechanism to neoplasms of the epiglottis. No trials or publications address this disease, so the prediction is a hypothesis only.
 
@@ -110,6 +110,19 @@ The prediction score is high (0.9999), but no trials or publications study nirap
 - Detailed mechanism-of-action data
 - Warnings and contraindications from the SmPC to complete the safety review
 - A safety and monitoring plan, including blood count monitoring and interaction management
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zejula (niraparib) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b7f675e2-159c-490c-b6f4-3f16d9492b7d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

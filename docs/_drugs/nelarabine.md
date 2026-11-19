@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **relapsing-remitting multiple 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Nelarabine is known to be a purine nucleoside analogue that is selectively toxic to T-lymphoblasts, and its efficacy in T-cell malignancies has been established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for nelarabine: "Nelarabine is a prodrug of the deoxyguanosine analogue 9-β- D -arabinofuranosylguanine (ara-G), a nucleoside metabolic inhibitor. Nelarabine is demethylated by ADA to ara-G, mono-phosphorylated by deoxyguanosine kinase and deoxycytidine kinase, and subsequently converted to the active 5’-triphosphate, ara-GTP." ([DailyMed: Arranon (nelarabine) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f9051de-5c4d-4c0f-8c19-e15214498cca), label version 2025-03-31; accessed 2026-11-19.) Nelarabine is known to be a purine nucleoside analogue that is selectively toxic to T-lymphoblasts, and its efficacy in T-cell malignancies has been established.
 
 The only plausible link is class-level. Other lymphocyte-depleting purine analogues, such as cladribine, are used in multiple sclerosis, so a drug that depletes lymphocytes could in theory resemble them. The prediction is therefore best viewed as a hypothesis from the TxGNN model (deep learning), whose score may reflect similarities the model learned between related diseases, not biological evidence, and it is not a mechanistically supported one.
 
@@ -125,11 +125,12 @@ Nine further predictions were reviewed. All are rated **Hold**.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Arranon (nelarabine) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f9051de-5c4d-4c0f-8c19-e15214498cca) |
 
 <!-- review:end log -->
 

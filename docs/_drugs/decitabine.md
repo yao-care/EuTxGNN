@@ -56,7 +56,7 @@ but so far only **2 publications** (one cohort study and one case report) and **
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Decitabine belongs to the class of hypomethylating agents. These drugs inhibit DNA methyltransferase and can help restore normal differentiation in abnormal blood-cell clones.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for decitabine: "Decitabine is believed to exert its antineoplastic effects after phosphorylation and direct incorporation into DNA and inhibition of DNA methyltransferase, causing hypomethylation of DNA and cellular differentiation or apoptosis. Decitabine inhibits DNA methylation in vitro, which is achieved at concentrations that do not cause major suppression of DNA synthesis." ([DailyMed: decitabine prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5975fa81-1e29-4d56-e063-6394a90a9cd5), label version 2026-11-03; accessed 2026-11-19.) Decitabine belongs to the class of hypomethylating agents. These drugs inhibit DNA methyltransferase and can help restore normal differentiation in abnormal blood-cell clones.
 
 Refractory cytopenia of childhood is the most common subtype of myelodysplastic syndrome (MDS) in children. Because the disease arises from a dysfunctional blood-forming clone, the hypomethylating mechanism is plausible for it.
 
@@ -114,6 +114,19 @@ The model score is high, but no cited study is dedicated to refractory cytopenia
 - Mechanism of action data and a mechanistic comparison with the approved AML use
 - Paediatric safety and dosing data, including myelosuppression management
 - Extraction of warnings and contraindications from the SmPC
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: decitabine prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5975fa81-1e29-4d56-e063-6394a90a9cd5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

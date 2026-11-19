@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **feline acquired immunodeficie
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Zidovudine is a thymidine analogue nucleoside reverse transcriptase inhibitor. It is part of fixed-dose combinations (with lamivudine, and with abacavir plus lamivudine), and its efficacy in HIV infection is established.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for zidovudine: "Zidovudine is an antiretroviral agent. […] Zidovudine is a synthetic nucleoside analogue. Intracellularly, zidovudine is phosphorylated to its active 5′-triphosphate metabolite, zidovudine triphosphate (ZDV-TP). The principal mode of action of ZDV-TP is inhibition of reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue." ([DailyMed: Retrovir (zidovudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6df09f15-b102-431c-adde-d7aeef6f5d84), label version 2024-11-13; accessed 2026-11-19.) Zidovudine is a thymidine analogue nucleoside reverse transcriptase inhibitor. It is part of fixed-dose combinations (with lamivudine, and with abacavir plus lamivudine), and its efficacy in HIV infection is established.
 
 Feline immunodeficiency virus (FIV) is a lentivirus whose reverse transcriptase is closely related to that of HIV-1. This makes the prediction mechanistically plausible. In practice, zidovudine has long been used experimentally in FIV- and FeLV-infected cats as a model of human AIDS.
 
@@ -129,11 +129,12 @@ The prediction is biologically plausible, but it concerns a veterinary disease a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 2 valid licences out of 2" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Retrovir (zidovudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6df09f15-b102-431c-adde-d7aeef6f5d84) |
 
 <!-- review:end log -->
 

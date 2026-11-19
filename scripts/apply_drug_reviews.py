@@ -60,6 +60,13 @@ LOG_HEAD = "## Review Log"
 DISCLAIMER_RE = re.compile(r"^## Disclaimer\b", re.M)
 
 
+# 作用機轉紀錄（mechanism，2026-11-19）的查核紀錄表字樣
+MOA_ACTION = 'Statement that mechanism-of-action data were not available replaced with a sourced excerpt'
+MOA_INTRO_ONLY = 'Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.'
+MOA_INTRO_ADD = ' A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.'
+ACTION_EN = dict(ACTION_EN, mechanism=MOA_ACTION)
+
+
 def load():
     if not DATA.exists():
         return []
@@ -176,6 +183,13 @@ def apply_record(text, rec, problems):
             return text
         block = f"{begin(rid)}\n\n{rec['markdown'].strip()}\n\n{end(rid)}\n\n"
         return text[:m.start()] + block + text[m.start():]
+    if act == "mechanism":
+        j = find_outside(text, rec["claim"])
+        if j >= 0:
+            text = text[:j] + rec["replacement"] + text[j + len(rec["claim"]):]
+        elif find_outside(text, rec["replacement"]) < 0:
+            problems.append(f"{rid}：頁面上找不到「作用機轉資料不可得」原句或附出處的作用機轉（頁面可能被改寫，需人工重查）")
+        return text
     if act == "correct":
         olds = [rec["claim"]] + [h["replacement"] for h in rec.get("history") or []
                                  if h.get("replacement") and h["replacement"] != rec["replacement"]
@@ -244,6 +258,10 @@ def log_md(recs):
         intro = ("Below is the review log for this page: statements checked against official EMA data (centralised marketing authorisations). Corrections are limited to "
                  "basic factual statements and model prediction text was not rewritten; evidence levels and decisions were changed "
                  "only by a re-review result (downgrade, upgrade, or withdrawal), with the original values listed below.")
+    if recs and all(r["action"] in ("mechanism", "header_level", "description_level") for r in recs) and any(r["action"] == "mechanism" for r in recs):
+        intro = MOA_INTRO_ONLY
+    elif any(r["action"] == "mechanism" for r in recs):
+        intro += MOA_INTRO_ADD
     return f"{begin('log')}\n\n{LOG_HEAD}\n\n{intro}\n\n" + "\n".join(rows) + f"\n\n{end('log')}\n\n"
 
 
@@ -294,6 +312,14 @@ def validate(recs):
         for k in ("id", "file", "action", "checked", "sources"):
             if not r.get(k):
                 errs.append(f"{r.get('id')}：缺 {k}")
+        if r.get("action") == "mechanism":
+            if not (r.get("claim") and r.get("replacement")):
+                errs.append(f"{r.get('id')}：mechanism 要有 claim 與 replacement")
+            for sx in r.get("sources") or []:
+                if not (sx.get("url") and sx.get("accessed") and sx.get("excerpt")):
+                    errs.append(f"{r.get('id')}：mechanism 的來源要有 url、accessed、excerpt（原文節錄）")
+                elif sx["url"] not in (r.get("replacement") or ""):
+                    errs.append(f"{r.get('id')}：mechanism 的 replacement 要附來源連結 {sx['url']}")
         if r.get("action") not in ACTION_EN:
             errs.append(f"{r.get('id')}：action 必須是 {sorted(ACTION_EN)}")
         if r.get("action") == "correct" and not (r.get("replacement") or r.get("anchor")):

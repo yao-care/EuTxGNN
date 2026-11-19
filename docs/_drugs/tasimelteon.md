@@ -60,7 +60,7 @@ This prediction has **0 clinical trials** and **0 publications** behind it, so i
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Tasimelteon is known to be a dual MT1/MT2 melatonin receptor agonist that acts on circadian regulation, which is why it was developed for Non-24.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for tasimelteon: "The mechanism by which tasimelteon exerts its therapeutic effect in patients with Non-24 or nighttime sleep disturbances in SMS is unclear. However, tasimelteon is an agonist at melatonin MT 1 and MT 2 receptors which are thought to be involved in the control of circadian rhythms." ([DailyMed: Hetlioz (tasimelteon) prescribing information, Vanda Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ca4a9b63-708e-49e9-8f9b-010625443b90), label version 2026-08-04; accessed 2026-11-19.) Tasimelteon is known to be a dual MT1/MT2 melatonin receptor agonist that acts on circadian regulation, which is why it was developed for Non-24.
 
 No identifiable mechanistic link connects this mechanism to the predicted condition. Polymicrogyria is a malformation of the cerebral cortex with a developmental or genetic origin. It is not a disorder of circadian rhythm or melatonin signalling.
 
@@ -145,11 +145,12 @@ The prediction rests only on a score from the TxGNN model (deep learning), which
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Clarification of the regulatory status of the cancelled authorisation" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Hetlioz (tasimelteon) prescribing information, Vanda Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ca4a9b63-708e-49e9-8f9b-010625443b90) |
 
 <!-- review:end log -->
 

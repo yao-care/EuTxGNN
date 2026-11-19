@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **strongyloidiasis** with a ver
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, brodalumab blocks IL-17RA signaling, which is why it is effective in psoriasis, a disease driven by IL-17-mediated inflammation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for brodalumab: "Brodalumab is a human monoclonal IgG2 antibody that selectively binds to human IL-17RA and inhibits its interactions with cytokines IL-17A, IL-17F, IL-17C, IL-17A/F heterodimer, and IL-25. IL-17RA is a protein expressed on the cell surface and is a required component of receptor complexes utilized by multiple IL-17 family cytokines." ([DailyMed: Siliq (brodalumab) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a550c33-456a-4833-814e-8591aea7c688), label version 2026-05-28; accessed 2026-11-19.) Based on known pharmacology, brodalumab blocks IL-17RA signaling, which is why it is effective in psoriasis, a disease driven by IL-17-mediated inflammation.
 
 The link to strongyloidiasis is weak. Host defense against helminths such as *Strongyloides* is driven mainly by type 2 immunity (IL-4, IL-5, IL-13), so blocking IL-17 has no obvious therapeutic rationale. The high TxGNN score appears to be a model output without biological support.
 
@@ -116,11 +116,12 @@ The strongyloidiasis prediction has a high model score but no clinical or litera
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "In addition, the only EU authorization has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Siliq (brodalumab) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a550c33-456a-4833-814e-8591aea7c688) |
 
 <!-- review:end log -->
 

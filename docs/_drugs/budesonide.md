@@ -60,7 +60,7 @@ The evidence is essentially model-prediction level, so this direction is not yet
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, budesonide is a potent glucocorticoid with broad anti-inflammatory and immunosuppressive effects. Its efficacy in eosinophilic esophagitis, a type 2 inflammatory condition, has been demonstrated, and mechanistically it may be applicable to atopic eczema.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for budesonide: "Budesonide is an anti-inflammatory corticosteroid that exhibits potent glucocorticoid activity and weak mineralocorticoid activity. In standard in vitro and animal models, budesonide has approximately a 200-fold higher affinity for the glucocorticoid receptor and a 1000-fold higher topical anti-inflammatory potency than cortisol (rat croton oil ear edema assay)." ([DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da), label version 2026-06-10; accessed 2026-11-19.) Based on known information, budesonide is a potent glucocorticoid with broad anti-inflammatory and immunosuppressive effects. Its efficacy in eosinophilic esophagitis, a type 2 inflammatory condition, has been demonstrated, and mechanistically it may be applicable to atopic eczema.
 
 Eosinophilic esophagitis and atopic eczema both belong to the atopic/type 2 inflammatory disease spectrum, so a steroid-responsive mechanism is plausible. However, the supporting literature is largely indirect: reviews of EoE therapy, corticosteroid contact allergy and adrenal suppression papers, and a preclinical budesonide nanoparticle-hydrogel formulation study. Established topical corticosteroids already exist for atopic eczema, so the incremental value of budesonide is unclear.
 
@@ -150,11 +150,12 @@ The prediction score is high, but there are no clinical trials and the literatur
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the only EU authorization for budesonide in this data has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da) |
 
 <!-- review:end log -->
 

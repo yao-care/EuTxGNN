@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **monosomy X** (Turner syndrome
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, teprotumumab is an IGF-1R inhibitory monoclonal antibody. Its efficacy in thyroid eye disease relates to blocking IGF-1R signalling in orbital tissue.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for teprotumumab: "Teprotumumab-trbw's mechanism of action in patients with Thyroid Eye Disease has not been fully characterized. Teprotumumab-trbw binds to IGF-1R and blocks its activation and signaling." ([DailyMed: Tepezza (teprotumumab) prescribing information, Horizon Therapeutics USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e6c54a1-cefd-4a5b-a855-ab9f268b6cce), label version 2026-09-28; accessed 2026-11-19.) Based on known information, teprotumumab is an IGF-1R inhibitory monoclonal antibody. Its efficacy in thyroid eye disease relates to blocking IGF-1R signalling in orbital tissue.
 
 For the predicted indication, the mechanistic logic is **weak and possibly counter-directional**. Turner syndrome (monosomy X) is characterised by short stature and gonadal dysgenesis. Its management typically supports growth hormone and IGF-1 signalling, whereas teprotumumab blocks IGF-1R. The high score (0.9979) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -114,11 +114,12 @@ The prediction is supported only by a network score, with no trials or publicati
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Clarification of the reason for the cancelled EU authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tepezza (teprotumumab) prescribing information, Horizon Therapeutics USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e6c54a1-cefd-4a5b-a855-ab9f268b6cce) |
 
 <!-- review:end log -->
 

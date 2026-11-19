@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, ravulizumab is a monoclonal antibody that inhibits complement component C5. Its efficacy in complement-mediated diseases such as PNH and aHUS has been established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ravulizumab: "Ravulizumab-cwvz is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a (the proinflammatory anaphylatoxin) and C5b (the initiating subunit of the membrane attack complex [MAC or C5b-9]) thus preventing MAC formation. ULTOMIRIS inhibits terminal complement-mediated intravascular hemolysis in patients with PNH and complement-mediated thrombotic microangiopathy (TMA) in patients with aHUS." ([DailyMed: Ultomiris (ravulizumab) prescribing information, Alexion Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9a590d9-0217-43c7-908d-e62a71279791), label version 2026-10-29; accessed 2026-11-19.) Based on known information, ravulizumab is a monoclonal antibody that inhibits complement component C5. Its efficacy in complement-mediated diseases such as PNH and aHUS has been established.
 
 For the predicted indication, no mechanistic link is established. G6PC3 deficiency is a metabolic defect in neutrophil glucose-6-phosphatase activity that leads to neutrophil apoptosis and endoplasmic reticulum stress. Complement-mediated pathology is not a recognized driver of this disease. The high TxGNN score (0.9996) is a computational prediction, probably reflecting shared network features among related blood disorders rather than a pharmacological basis.
 
@@ -112,11 +112,12 @@ The prediction rests on a model score alone. No trials or publications support i
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization is also recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ultomiris (ravulizumab) prescribing information, Alexion Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9a590d9-0217-43c7-908d-e62a71279791) |
 
 <!-- review:end log -->
 

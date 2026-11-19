@@ -56,7 +56,7 @@ Support consists of **0 clinical trials** and **8 publications**, all preclinica
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, TAF is a prodrug of tenofovir. Its active form, tenofovir diphosphate, inhibits reverse transcriptase and terminates the growing viral DNA chain. This is the basis of its activity in hepatitis B.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for tenofovir alafenamide: "Tenofovir alafenamide is an antiviral drug against the hepatitis B virus. […] Tenofovir alafenamide is a phosphonamidate prodrug of tenofovir (2'-deoxyadenosine monophosphate analog). Tenofovir alafenamide as a lipophilic cell-permeant compound enters primary hepatocytes by passive diffusion and by the hepatic uptake transporters OATP1B1 and OATP1B3." ([DailyMed: Vemlidy (tenofovir alafenamide) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e6b33c-0351-4070-9172-eeaa186c01d2), label version 2025-07-14; accessed 2026-11-19.) Based on known pharmacology, TAF is a prodrug of tenofovir. Its active form, tenofovir diphosphate, inhibits reverse transcriptase and terminates the growing viral DNA chain. This is the basis of its activity in hepatitis B.
 
 SIV and SHIV (a simian/human hybrid virus) are lentiviruses that also replicate through reverse transcriptase, so the mechanism is biologically plausible. Macaque studies of prevention (PrEP), post-exposure protection and treatment report protective or suppressive effects of TAF, alone or combined with emtricitabine, elvitegravir or other agents.
 
@@ -115,6 +115,19 @@ The evidence is preclinical only, with no registered clinical trials. SIV infect
 - Clarify whether the real goal is a human HIV indication, which should be assessed with human HIV-1 data and existing combination approvals rather than SIV data
 - Detailed mechanism of action data (MOA)
 - Warnings and contraindications from the EU product information (SmPC)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vemlidy (tenofovir alafenamide) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e6b33c-0351-4070-9172-eeaa186c01d2) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

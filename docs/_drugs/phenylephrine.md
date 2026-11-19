@@ -56,7 +56,7 @@ The evidence is essentially model prediction plus indirect literature.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Phenylephrine is, however, a well-known alpha-1 adrenergic agonist. In the eye it dilates the pupil, and elsewhere it constricts blood vessels.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for phenylephrine: "Phenylephrine hydrochloride is an α-1 adrenergic receptor agonist." ([DailyMed: Biorphen (phenylephrine hydrochloride) prescribing information, Dr. Reddy's Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f715e4e-b269-b935-d2c9-003cb29770be), label version 2026-03-31; accessed 2026-11-19.) Phenylephrine is, however, a well-known alpha-1 adrenergic agonist. In the eye it dilates the pupil, and elsewhere it constricts blood vessels.
 
 In the nose, the same vasoconstriction shrinks swollen, congested mucosa. Phenylephrine is already widely used topically as a nasal decongestant. It also appears in combination sprays (for example Polydexa with phenylephrine) and as a vasoconstrictor to improve the surgical field in endoscopic sinus surgery. The mechanism is therefore plausible and familiar.
 
@@ -120,11 +120,12 @@ The prediction score is very high and the mechanism (mucosal vasoconstriction) i
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "However, there are no registered trials for nasal cavity disease, the literature is indirect (mostly combination products), and the only EU " | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Biorphen (phenylephrine hydrochloride) prescribing information, Dr. Reddy's Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f715e4e-b269-b935-d2c9-003cb29770be) |
 
 <!-- review:end log -->
 

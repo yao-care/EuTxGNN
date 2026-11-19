@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, parathyroid hormone replaces the missing hormone in hypoparathyroidism and helps regulate calcium and phosphate balance through the PTH receptor (PTH1R) pathway. Its efficacy in hypoparathyroidism has been established, and mechanistically it might be relevant to migraine only through indirect routes.
+ChEMBL (EMBL-EBI) records the mechanism of action of parathyroid hormone as: Parathyroid hormone receptor agonist ([ChEMBL CHEMBL2108078 (parathyroid hormone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108078), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, parathyroid hormone replaces the missing hormone in hypoparathyroidism and helps regulate calcium and phosphate balance through the PTH receptor (PTH1R) pathway. Its efficacy in hypoparathyroidism has been established, and mechanistically it might be relevant to migraine only through indirect routes.
 
 The strongest link is a 2025 genetic study (PMID 40297711) that proposes parathyroid hormone-related peptide (PTHrP) receptors as genetic drivers of migraine. This is a plausible receptor-level connection, but it is unproven. Other studies connect migraine with vitamin D, calcium and bone status. These are associations within calcium/PTH homeostasis. They do not show that giving PTH treats migraine.
 
@@ -131,11 +131,12 @@ The migraine prediction has a very high model score but rests only on indirect e
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorisation is cancelled, and PTH's effect on serum calcium could worsen rather than relieve symptoms" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2108078 (parathyroid hormone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108078) |
 
 <!-- review:end log -->
 

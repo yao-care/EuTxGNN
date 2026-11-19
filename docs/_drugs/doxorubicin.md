@@ -54,7 +54,7 @@ Doxorubicin is an anthracycline chemotherapy drug that acts as a topoisomerase I
 
 ## Why is This Prediction Reasonable?
 
-Doxorubicin is a topoisomerase II inhibitor and DNA intercalator. It blocks the re-ligation of DNA strands in rapidly dividing tumour cells, which leads to DNA damage and cell death. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description draws on the drug's established pharmacology.
+Doxorubicin is a topoisomerase II inhibitor and DNA intercalator. It blocks the re-ligation of DNA strands in rapidly dividing tumour cells, which leads to DNA damage and cell death. According to the Mechanism of Action section of the US FDA-approved prescribing information for doxorubicin: "The cytotoxic effect of doxorubicin hydrochloride on malignant cells and its toxic effects on various organs are thought to be related to nucleotide base intercalation and cell membrane lipid binding activities of doxorubicin. Intercalation inhibits nucleotide replication and action of DNA and RNA polymerases." ([DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd), label version 2026-11-12; accessed 2026-11-19.) This description draws on the drug's established pharmacology.
 
 Doxorubicin is already a backbone of standard multi-agent regimens for Ewing sarcoma, such as VDC/IE (vincristine, doxorubicin, cyclophosphamide alternating with ifosfamide and etoposide) and VAC. Published randomised Phase 3 trials of interval-compressed chemotherapy, the EE2012 comparison and the ganitumab combination all include doxorubicin-containing arms. The prediction is therefore consistent with current clinical practice. The main limit is cumulative cardiotoxicity, which requires cumulative-dose limits or dexrazoxane, plus echocardiographic monitoring.
 
@@ -137,6 +137,19 @@ Doxorubicin-containing regimens are the established standard for Ewing sarcoma, 
 - Detailed mechanism-of-action data
 - A cardiac monitoring plan with cumulative-dose limits and consideration of dexrazoxane, particularly for children and young adults
 - Confirmation of which doxorubicin formulation and EU product would be used for Ewing sarcoma, since the listed EU authorisations are liposomal products for other cancers
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

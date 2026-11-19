@@ -56,7 +56,7 @@ but the data compiled for this report contain **no clinical trials and no public
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the compiled data. Based on general knowledge, capecitabine is an oral prodrug of 5-fluorouracil. It is converted into the active drug and interferes with DNA and RNA synthesis in rapidly dividing cells, partly by inhibiting thymidylate synthase. Its efficacy in gastric cancer is established by its EU label, so mechanistically it may be applicable to gastric cancers more broadly.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for capecitabine: "Capecitabine is metabolized to fluorouracil in vivo. Both normal and tumor cells metabolize fluorouracil to 5-fluoro-2'-deoxyuridine monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). These metabolites cause cell injury by two different mechanisms." ([DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5), label version 2026-02-05; accessed 2026-11-19.) Based on general knowledge, capecitabine is an oral prodrug of 5-fluorouracil. It is converted into the active drug and interferes with DNA and RNA synthesis in rapidly dividing cells, partly by inhibiting thymidylate synthase. Its efficacy in gastric cancer is established by its EU label, so mechanistically it may be applicable to gastric cancers more broadly.
 
 The prediction should be read with caution. Gastric adenocarcinoma is already an approved use of capecitabine (first-line advanced gastric cancer in combination with a platinum-based regimen). The high score probably reflects this known activity, and it is likely inflated by ontology mapping, because the predicted disease name combines a cancer with a hereditary polyposis syndrome. GAPPS is a rare inherited condition linked to APC promoter 1B mutations, with fundic gland polyposis and a predisposition to gastric adenocarcinoma. Any benefit in GAPPS-associated cancer would be extrapolated from sporadic gastric adenocarcinoma, and no GAPPS-specific evidence is provided. This is therefore not a clearly new repurposing opportunity.
 
@@ -112,6 +112,19 @@ The prediction is supported only by a computational score. No trial or publicati
 - Mechanism of action data from DrugBank
 - Label warnings and contraindications from the SmPC, so safety screening can be completed
 - Review of the knowledge-graph contraindication relations (especially dihydropyrimidine dehydrogenase deficiency, hepatic and renal impairment) against the label
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data are not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

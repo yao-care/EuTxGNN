@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Atropine is generally known as a non-selective muscarinic antagonist, meaning it blocks acetylcholine signalling at muscarinic receptors.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for atropine: "Atropine competitively blocks the effects of acetylcholine, including excess acetylcholine due to organophosphorus poisoning, at muscarinic cholinergic receptors on smooth muscle, cardiac muscle, secretory gland cells, and in peripheral autonomic ganglia and the central nervous system." ([DailyMed: Atropen Auto-Injector (atropine) prescribing information, Meridian Medical Technologies LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2d4307d-da8f-49f5-aac0-02355dd9ffb7), label version 2022-09-15; accessed 2026-11-19.) Atropine is generally known as a non-selective muscarinic antagonist, meaning it blocks acetylcholine signalling at muscarinic receptors.
 
 Preclinical work suggests that cholinergic signalling in meningeal mast cells and in the trigeminal and parasympathetic pathways contributes to neurogenic inflammation and pain in migraine models. For example, a 2024 rat study examined cholinergic modulation in a nitroglycerin-induced migraine model, and a 1997 rat study showed that parasympathetic stimulation triggers plasma protein extravasation in the dura mater. From this, muscarinic blockade is plausible as a mechanism.
 
@@ -106,6 +106,19 @@ The prediction score is high, but no clinical trial or publication directly stud
 - Preclinical or early clinical studies directly testing atropine (or a muscarinic antagonist) in migraine
 - Review of the SmPC warnings and contraindications, which are not available in the compiled data
 - A suitable formulation and route assessment for migraine use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Atropen Auto-Injector (atropine) prescribing information, Meridian Medical Technologies LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2d4307d-da8f-49f5-aac0-02355dd9ffb7) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **duodenal obstruction**, but **n
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, esomeprazole belongs to the proton pump inhibitor class, which suppresses gastric acid secretion.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for esomeprazole: "Esomeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell. Esomeprazole is protonated and converted in the acidic compartment of the parietal cell forming the active inhibitor, the achiral sulphenamide." ([DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96), label version 2025-12-19; accessed 2026-11-19.) Based on general knowledge, esomeprazole belongs to the proton pump inhibitor class, which suppresses gastric acid secretion.
 
 Duodenal obstruction is a mechanical condition, in which the passage through the duodenum is blocked. Acid suppression would not be expected to relieve a blockage itself. At most it could help with associated acid-related disease, such as ulcers in the upper gastrointestinal tract. The high score is therefore a computational signal only, and the mechanistic link is not established. Similarity to the original use has not been assessed.
 
@@ -109,11 +109,12 @@ The prediction rests only on a model score (0.9945). No clinical trials or publi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization record for this single-ingredient product is marked as cancelled in the compiled licence list, while the overall market" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96) |
 
 <!-- review:end log -->
 

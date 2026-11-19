@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **autosomal recessive chronic g
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known information, cyclosporine is a calcineurin inhibitor that suppresses T-cell activation. Its efficacy in inflammatory eye disease (dry eye disease, vernal keratoconjunctivitis) is established, and mechanistically it might be applicable to immune-dysregulation conditions.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for cyclosporine: "Cyclosporine is a potent immunosuppressive agent that in animals prolongs survival of allogeneic transplants involving skin, kidney, liver, heart, pancreas, bone marrow, small intestine, and lung. Cyclosporine has been demonstrated to suppress some humoral immunity and to a greater extent, cell-mediated immune reactions such as allograft rejection, delayed hypersensitivity, experimental allergic encephalomyelitis, Freund’s adjuvant arthritis, and graft versus host disease in many animal species for a variety of organs." ([DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f), label version 2026-09-10; accessed 2026-11-19.) Based on known information, cyclosporine is a calcineurin inhibitor that suppresses T-cell activation. Its efficacy in inflammatory eye disease (dry eye disease, vernal keratoconjunctivitis) is established, and mechanistically it might be applicable to immune-dysregulation conditions.
 
 The link to CGD is weak. The only retrieved publication is a 2012 cohort study on stem cell transplantation for CGD. In transplantation, calcineurin inhibitors are typically used for graft-versus-host disease prophylaxis. This does not show that cyclosporine treats CGD itself. The high TxGNN score most likely reflects network proximity to immune and inflammatory pathways rather than demonstrated efficacy.
 
@@ -149,12 +149,13 @@ The prediction rests on a computational score alone. There are no clinical trial
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "he EU authorizations are all cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of why the EU authorizations were cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f) |
 
 <!-- review:end log -->
 

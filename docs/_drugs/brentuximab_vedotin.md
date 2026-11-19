@@ -56,7 +56,7 @@ but only **6 clinical trials** (mostly withdrawn or terminated, with one directl
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, brentuximab vedotin is an antibody-drug conjugate: an anti-CD30 antibody linked to the cytotoxic agent vedotin. Its efficacy in CD30+ lymphomas is established, and the antibody delivers the toxic payload to CD30-positive cancer cells.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for brentuximab vedotin: "CD30 is a member of the tumor necrosis factor receptor family and is expressed on the surface of sALCL cells and on Hodgkin Reed-Sternberg (HRS) cells in cHL. CD30 is variably expressed in other T-cell lymphomas. […] Brentuximab vedotin is an antibody-drug conjugate (ADC)." ([DailyMed: Adcetris (brentuximab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3904f8dd-1aef-3490-e48f-bd55f32ed67f), label version 2025-11-11; accessed 2026-11-19.) Based on known information, brentuximab vedotin is an antibody-drug conjugate: an anti-CD30 antibody linked to the cytotoxic agent vedotin. Its efficacy in CD30+ lymphomas is established, and the antibody delivers the toxic payload to CD30-positive cancer cells.
 
 Follicular lymphoma is a B-cell lymphoma, and the link to the original indications is weak. CD30 is expressed on only a minority of follicular lymphoma cells, so the mechanistic rationale is limited. The supplied literature is mostly about peripheral T-cell lymphoma rather than follicular lymphoma. The high model score should therefore be read as a hypothesis to test, not as evidence of benefit.
 
@@ -138,12 +138,13 @@ The mechanistic link is weak because CD30 is expressed on only a minority of fol
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Clarification of the EU regulatory status, since the only authorization is recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "This authorization is recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Adcetris (brentuximab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3904f8dd-1aef-3490-e48f-bd55f32ed67f) |
 
 <!-- review:end log -->
 

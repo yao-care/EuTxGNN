@@ -60,7 +60,7 @@ The score comes from the TxGNN model (deep learning) and may reflect similaritie
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on the available descriptions, andexanet alfa is a recombinant, catalytically inactive factor Xa decoy. It binds and sequesters direct FXa inhibitors, and indirectly affects tissue factor pathway inhibitor (TFPI). Its efficacy is in restoring normal coagulation in patients who are anticoagulated with these drugs.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for andexanet alfa: "Coagulation factor Xa (recombinant), inactivated-zhzo exerts its procoagulant effect by binding and sequestering the FXa inhibitors, rivaroxaban and apixaban. Another observed procoagulant effect of the ANDEXXA protein is its ability to bind to, and inhibit the activity of, Tissue Factor Pathway Inhibitor (TFPI)." ([DailyMed: Andexxa (andexanet alfa) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d9d90a6-63e6-46ef-96ff-dd6519ae7b6c), label version 2025-05-23; accessed 2026-11-19.) Based on the available descriptions, andexanet alfa is a recombinant, catalytically inactive factor Xa decoy. It binds and sequesters direct FXa inhibitors, and indirectly affects tissue factor pathway inhibitor (TFPI). Its efficacy is in restoring normal coagulation in patients who are anticoagulated with these drugs.
 
 Glanzmann thrombasthenia is an inherited defect of the platelet integrin alphaIIb-beta3 that causes platelet aggregation failure. Andexanet alfa does not act on platelet function, and patients with this condition are not taking FXa inhibitors. No plausible mechanistic link was identified.
 
@@ -113,11 +113,12 @@ The prediction rests only on model scores. There are no clinical trials or publi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Andexxa (andexanet alfa) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d9d90a6-63e6-46ef-96ff-dd6519ae7b6c) |
 
 <!-- review:end log -->
 

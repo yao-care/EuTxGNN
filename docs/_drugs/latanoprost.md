@@ -54,7 +54,7 @@ Latanoprost is a prostaglandin analogue used as an eye drop. The TxGNN model pre
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for latanoprost is not available in the data compiled for this report. Based on general pharmacology, latanoprost is a prostaglandin F2-alpha analogue that acts on the FP receptor.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for latanoprost: "Latanoprost is a prostaglandin F 2α analogue that is believed to reduce the intraocular pressure (IOP) by increasing the outflow of aqueous humor. Studies in animals and man suggest that the main mechanism of action is increased uveoscleral outflow." ([DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded), label version 2025-12-18; accessed 2026-11-19.) Based on general pharmacology, latanoprost is a prostaglandin F2-alpha analogue that acts on the FP receptor.
 
 The data do not support a clear mechanistic link to visceral calciphylaxis. Calciphylaxis involves vascular calcification and microvascular thrombosis. A topical eye drop is unlikely to reach meaningful systemic exposure to influence these processes. The high score (0.9983) is therefore a statistical output of the model, not backed by clinical evidence. The prediction should be treated as a hypothesis only.
 
@@ -96,6 +96,19 @@ The prediction rests on the model score alone. No clinical trials or publication
 - Detailed mechanism-of-action data
 - A route and exposure assessment, since the known product is a topical ocular formulation
 - Full safety information from the SmPC
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for latanoprost is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

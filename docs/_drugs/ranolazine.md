@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Ranolazine is generally known as a late sodium current inhibitor, and its efficacy in stable angina has been established. That mechanism, however, has no established link to nephrogenic syndrome of inappropriate antidiuresis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ranolazine: "The mechanism of action of ranolazine's antianginal effects has not been determined. Ranolazine has anti-ischemic and antianginal effects that do not depend upon reductions in heart rate or blood pressure. It does not affect the rate-pressure product, a measure of myocardial work, at maximal exercise." ([DailyMed: Aspruzyo Sprinkle (ranolazine) prescribing information, SUN PHARMACEUTICAL INDUSTRIES, INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd9f81e4-50da-4551-aed5-559d304df42e), label version 2025-01-29; accessed 2026-11-19.) Ranolazine is generally known as a late sodium current inhibitor, and its efficacy in stable angina has been established. That mechanism, however, has no established link to nephrogenic syndrome of inappropriate antidiuresis.
 
 This condition is driven by gain-of-function variants of the vasopressin V2 receptor (AVPR2), which is a renal water-handling problem. It differs fundamentally from angina, a cardiac ischaemic condition. The high TxGNN score is a TxGNN model (deep learning) prediction only. No mechanistic rationale is supported by the available data, and the prediction should be treated as a hypothesis.
 
@@ -111,11 +111,12 @@ The prediction is supported only by the TxGNN score (L5), with no clinical trial
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "In addition, the only EU authorization has been cancelled, and the knowledge graph flags kidney disease as a contraindication" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aspruzyo Sprinkle (ranolazine) prescribing information, SUN PHARMACEUTICAL INDUSTRIES, INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd9f81e4-50da-4551-aed5-559d304df42e) |
 
 <!-- review:end log -->
 

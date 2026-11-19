@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, mogamulizumab is an anti-CCR4 monoclonal antibody. It depletes CCR4-positive cells, including effector regulatory T cells (Tregs), through enhanced antibody-dependent cellular cytotoxicity (ADCC). Its efficacy in MF/SS, which are cutaneous T-cell lymphomas, is the basis of its original approval.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for mogamulizumab: "Mogamulizumab-kpkc is a defucosylated, humanized IgG1 kappa monoclonal antibody that binds to CCR4, a G protein-coupled receptor for CC chemokines that is involved in the trafficking of lymphocytes to various organs. Non-clinical in vitro studies demonstrate mogamulizumab-kpkc binding targets a cell for antibody-dependent cellular cytotoxicity (ADCC) resulting in depletion of the target cells." ([DailyMed: Poteligeo (mogamulizumab-kpkc) prescribing information, Kyowa Kirin, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e53960ab-42a1-40d1-9c7d-eb013fe7f18f), label version 2026-03-02; accessed 2026-11-19.) Based on general knowledge, mogamulizumab is an anti-CCR4 monoclonal antibody. It depletes CCR4-positive cells, including effector regulatory T cells (Tregs), through enhanced antibody-dependent cellular cytotoxicity (ADCC). Its efficacy in MF/SS, which are cutaneous T-cell lymphomas, is the basis of its original approval.
 
 The link to urothelial carcinoma is theoretical. Removing Tregs from the tumour microenvironment could strengthen antitumour immunity, and immunotherapy is already established in urothelial cancers. However, no CCR4-specific data for these tumours were available, and the original mechanism field is incomplete. The connection therefore rests on the TxGNN prediction (score 0.994, rank 5962) alone and would need preclinical validation, such as confirming CCR4+ Treg infiltration in these tumours.
 
@@ -131,12 +131,13 @@ The prediction is supported only by the model score (0.9944), with no clinical t
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the EU authorization for the original indication is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "the reason for the cancelled EU authorization and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Poteligeo (mogamulizumab-kpkc) prescribing information, Kyowa Kirin, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e53960ab-42a1-40d1-9c7d-eb013fe7f18f) |
 
 <!-- review:end log -->
 

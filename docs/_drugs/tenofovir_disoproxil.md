@@ -60,7 +60,7 @@ but there are **no registered clinical trials** and only **1 publication**, a ve
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Tenofovir disoproxil is known to be a nucleotide reverse transcriptase inhibitor (NRTI). After conversion to its active form, it blocks the viral enzyme that copies viral RNA into DNA. Its efficacy in HIV-1 and hepatitis B is established.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for tenofovir disoproxil: "Tenofovir disoproxil fumarate is an antiviral drug. […] Tenofovir disoproxil fumarate is an acyclic nucleoside phosphonate diester analog of adenosine monophosphate. Tenofovir disoproxil fumarate requires initial diester hydrolysis for conversion to tenofovir and subsequent phosphorylations by cellular enzymes to form tenofovir diphosphate (TFV-DP), an obligate chain terminator." ([DailyMed: Viread (tenofovir disoproxil fumarate) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33fd6418-fbdc-42ca-a50d-ce2a476a5418), label version 2025-02-18; accessed 2026-11-19.) Tenofovir disoproxil is known to be a nucleotide reverse transcriptase inhibitor (NRTI). After conversion to its active form, it blocks the viral enzyme that copies viral RNA into DNA. Its efficacy in HIV-1 and hepatitis B is established.
 
 Feline immunodeficiency virus (FIV) is a lentivirus, closely related to HIV, and it also depends on a reverse transcriptase. A drug that blocks this enzyme in HIV could therefore plausibly act on FIV as well. This is the only mechanistic link available.
 
@@ -140,11 +140,12 @@ The prediction rests on a single veterinary combination-therapy study with no re
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with 3 valid licences out of 3" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Viread (tenofovir disoproxil fumarate) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33fd6418-fbdc-42ca-a50d-ce2a476a5418) |
 
 <!-- review:end log -->
 

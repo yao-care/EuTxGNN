@@ -56,7 +56,7 @@ No Phase 3 confirmation exists for this indication.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, sunitinib inhibits receptor tyrosine kinases including VEGFR, PDGFR and KIT, which drive angiogenesis and tumour cell proliferation. Its efficacy in GIST, renal cell carcinoma and pancreatic neuroendocrine tumours has been established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for sunitinib: "Sunitinib is a small molecule that inhibits multiple receptor tyrosine kinases (RTKs), some of which are implicated in tumor growth, pathologic angiogenesis, and metastatic progression of cancer." ([DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c), label version 2026-02-20; accessed 2026-11-19.) Based on known pharmacology, sunitinib inhibits receptor tyrosine kinases including VEGFR, PDGFR and KIT, which drive angiogenesis and tumour cell proliferation. Its efficacy in GIST, renal cell carcinoma and pancreatic neuroendocrine tumours has been established.
 
 GIST is itself a sarcoma of the gastrointestinal tract, and liposarcoma is a soft tissue sarcoma. Both can depend on growth-factor receptor signalling, so a mechanistic bridge is plausible. However, liposarcoma subtypes vary in their dependence on these pathways, so the link is not subtype-specific.
 
@@ -140,12 +140,13 @@ Evidence for liposarcoma consists of two small, pooled-histology Phase 2 trials,
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both authorisations are currently cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "the EU authorisations are currently cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c) |
 
 <!-- review:end log -->
 

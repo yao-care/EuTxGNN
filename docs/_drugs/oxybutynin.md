@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **restless legs syndrome**, but
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, oxybutynin is an antimuscarinic agent with direct smooth-muscle relaxant activity. Its efficacy in overactive bladder and urge incontinence is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for oxybutynin: "Oxybutynin relaxes bladder smooth muscle. Oxybutynin chloride exerts a direct antispasmodic effect on smooth muscle and inhibits the muscarinic action of acetylcholine on smooth muscle. No blocking effects occur at skeletal neuromuscular junctions or autonomic ganglia (antinicotinic effects)." ([DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67), label version 2026-11-11; accessed 2026-11-19.) Based on known information, oxybutynin is an antimuscarinic agent with direct smooth-muscle relaxant activity. Its efficacy in overactive bladder and urge incontinence is established.
 
 The link to restless legs syndrome is speculative. A possible connection is central anticholinergic modulation, but no clinical or literature evidence supports it. Anticholinergic drugs may even worsen restless legs symptoms in some patients.
 
@@ -123,6 +123,19 @@ The restless legs syndrome prediction is supported only by a model score, with n
 - Safety information from the SmPC (warnings and contraindications), which is currently missing and blocks safety screening
 - Detailed mechanism of action data
 - Literature and clinical evidence on oxybutynin in restless legs syndrome
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

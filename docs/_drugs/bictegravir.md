@@ -56,7 +56,7 @@ Currently **0 clinical trials** and **3 publications** (preclinical or structura
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on its known drug class, bictegravir is an HIV-1 integrase strand transfer inhibitor. It blocks the integrase enzyme that inserts viral DNA into the host genome.
+ChEMBL (EMBL-EBI) records the mechanism of action of bictegravir as: Human immunodeficiency virus type 1 integrase inhibitor ([ChEMBL CHEMBL3989866 (bictegravir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3989866), CC BY-SA 3.0; accessed 2026-11-19.) Based on its known drug class, bictegravir is an HIV-1 integrase strand transfer inhibitor. It blocks the integrase enzyme that inserts viral DNA into the host genome.
 
 Simian immunodeficiency virus (SIV) is closely related to HIV, and its integrase is structurally similar to the HIV enzyme. Published intasome structures explain how this class of inhibitors binds integrase. In vitro work also reports activity of bictegravir against integrase-inhibitor-resistant SIVmac239. This supports a plausible mechanistic link.
 
@@ -104,6 +104,19 @@ The only support is preclinical (in vitro, humanized mouse and structural work).
 - Safety information from the SmPC (warnings and contraindications)
 - Confirmation that a defined research or veterinary use case exists for this indication
 - Further in vivo studies of bictegravir in SIV models, if this direction is of interest
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL3989866 (bictegravir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3989866) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

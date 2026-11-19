@@ -62,7 +62,7 @@ Currently **1 clinical trial** and **15 publications** support this direction.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, sacubitril is a prodrug whose active metabolite inhibits neprilysin, an enzyme that breaks down natriuretic peptides. It is used in a fixed-dose combination with valsartan, an angiotensin II receptor blocker (AT1 blocker).
+According to the Mechanism of Action section of the US FDA-approved prescribing information for sacubitril and valsartan (a combination product containing sacubitril): "Sacubitril and valsartan contains a neprilysin inhibitor, sacubitril, and an angiotensin receptor blocker, valsartan. Sacubitril and valsartan inhibits neprilysin (neutral endopeptidase; NEP) via LBQ657, the active metabolite of the prodrug sacubitril, and blocks the angiotensin II type-1 (AT 1 ) receptor via valsartan." ([DailyMed: sacubitril and valsartan prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44db8114-622e-41f6-96a1-447d47b0267c), label version 2026-10-30; accessed 2026-11-19.) Based on known pharmacology, sacubitril is a prodrug whose active metabolite inhibits neprilysin, an enzyme that breaks down natriuretic peptides. It is used in a fixed-dose combination with valsartan, an angiotensin II receptor blocker (AT1 blocker).
 
 Heart failure and diabetic kidney disease share hemodynamic and neurohormonal pathways. Higher natriuretic peptide levels together with AT1 blockade could plausibly reduce pressure within the kidney's filtering units, oxidative stress, NF-κB-mediated inflammation, and fibrosis. Studies in diabetic rodent models (db/db mice, Zucker obese rats, and others) report renal benefit, including reduced NLRP3 inflammasome activity and changes in gut microbiota. A secondary analysis of the PARADIGM-HF trial examined renal function in patients with type 2 diabetes and heart failure.
 
@@ -146,12 +146,13 @@ Diabetic nephropathy has the best support among the predictions: one Phase 4 ran
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the EU authorizations for both products are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "given that both authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: sacubitril and valsartan prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44db8114-622e-41f6-96a1-447d47b0267c) |
 
 <!-- review:end log -->
 

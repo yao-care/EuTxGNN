@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **renal tubular acidosis**, but
 
 ## Why is This Prediction Reasonable?
 
-Nitisinone inhibits 4-hydroxyphenylpyruvate dioxygenase (HPPD), an enzyme in the tyrosine breakdown pathway. Blocking it prevents the build-up of toxic downstream metabolites in HT-1. Detailed mechanism of action data is not available in the data compiled for this report, so this description relies on the drug's known pharmacology.
+Nitisinone inhibits 4-hydroxyphenylpyruvate dioxygenase (HPPD), an enzyme in the tyrosine breakdown pathway. Blocking it prevents the build-up of toxic downstream metabolites in HT-1. According to the Mechanism of Action section of the US FDA-approved prescribing information for nitisinone: "Nitisinone is a competitive inhibitor of 4-hydroxyphenyl-pyruvate dioxygenase, an enzyme upstream of fumarylacetoacetate hydrolase (FAH) in the tyrosine catabolic pathway. By inhibiting the normal catabolism of tyrosine in patients with HT-1, nitisinone prevents the accumulation of the catabolic intermediates maleylacetoacetate and fumarylacetoacetate." ([DailyMed: Nityr (nitisinone) prescribing information, Cycle Pharmaceuticals Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00fd1905-27e4-420e-8dc5-a69e4ddc1526), label version 2026-10-21; accessed 2026-11-19.) This description relies on the drug's known pharmacology.
 
 The link to renal tubular acidosis is indirect. Renal tubular dysfunction (Fanconi-type) is a recognized manifestation of HT-1, so treating HT-1 may relieve some kidney tubule problems. However, no direct evidence supports an effect in primary renal tubular acidosis. The very high TxGNN score is a computational prediction only and should not be read as proof of efficacy.
 
@@ -125,11 +125,12 @@ The prediction has a high model score but no trials or literature, and the mecha
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Clarification of why both EU authorizations are cancelled (for example commercial withdrawal versus a safety reason)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nityr (nitisinone) prescribing information, Cycle Pharmaceuticals Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00fd1905-27e4-420e-8dc5-a69e4ddc1526) |
 
 <!-- review:end log -->
 

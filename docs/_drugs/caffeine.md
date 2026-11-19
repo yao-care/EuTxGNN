@@ -56,7 +56,7 @@ there are **no registered clinical trials** and only **3 publications**, none of
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data compiled for this report. Caffeine is known as an adenosine receptor antagonist and a non-selective phosphodiesterase inhibitor, and its efficacy in apnoea of prematurity has been established through its EU authorisations. Whether this mechanism applies to nasal cavity disease is unclear.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for caffeine: "Caffeine is structurally related to other methylxanthines, theophylline, and theobromine. It is a bronchial smooth muscle relaxant, a CNS stimulant, a cardiac muscle stimulant, and a diuretic. Although the mechanism of action of caffeine in apnea of prematurity is not known, several mechanisms have been hypothesized." ([DailyMed: caffeine citrate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f38c395-0093-4afd-89ec-f96e5dc0934a), label version 2026-07-29; accessed 2026-11-19.) Caffeine is known as an adenosine receptor antagonist and a non-selective phosphodiesterase inhibitor, and its efficacy in apnoea of prematurity has been established through its EU authorisations. Whether this mechanism applies to nasal cavity disease is unclear.
 
 The available literature offers only indirect links. A review describes bitter taste receptors (TAS2Rs) in human airway tissue, including the nasal cavity, which may influence innate defence and ciliary function (PMID 26272040). Caffeine is a bitter-taste-receptor ligand, but the review does not show a therapeutic effect in nasal disease. A nasal caffeine gel was studied for cognition after sleep deprivation (PMID 35579146); this concerns a delivery route, not treatment of a nasal condition. An animal study of black tea and caffeine in lung carcinogenesis (PMID 9751618) is not relevant to this indication.
 
@@ -134,12 +134,13 @@ Of the other predicted indications, **hypnic headache** has the most support: re
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "all EU authorisations for caffeine in this dataset are cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "since the cancelled products' dosage forms are not recorded" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: caffeine citrate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f38c395-0093-4afd-89ec-f96e5dc0934a) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ This report covers the top-ranked prediction and the most evidence-supported one
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Duloxetine is known as an SNRI, and it has proven efficacy in depression and generalised anxiety disorder. Mechanistically, it may be applicable to related conditions.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for duloxetine: "Although the exact mechanisms of the antidepressant, central pain inhibitory and anxiolytic actions of duloxetine in humans are unknown, these actions are believed to be related to its potentiation of serotonergic and noradrenergic activity in the CNS." ([DailyMed: Duloxetine Delayed-Release (duloxetine hydrochloride) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b), label version 2026-08-20; accessed 2026-11-19.) Duloxetine is known as an SNRI, and it has proven efficacy in depression and generalised anxiety disorder. Mechanistically, it may be applicable to related conditions.
 
 **OCD:** Serotonin reuptake inhibition is the core mechanism of anti-OCD drug treatment, and duloxetine adds noradrenergic action. OCD is closely related to the anxiety and depressive disorders for which duloxetine is already approved. Evidence includes a double-blind controlled augmentation trial in resistant OCD, an open-label study and a small Phase 4 trial. SSRIs and clomipramine remain first-line, and duloxetine has no Phase 3 confirmation in OCD.
 
@@ -167,12 +167,13 @@ Please refer to the SmPC for label warnings and contraindications.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All five licences are currently valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the regulatory and market situation, given that the drug is marketed and all five licences are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Duloxetine Delayed-Release (duloxetine hydrochloride) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b) |
 
 <!-- review:end log -->
 

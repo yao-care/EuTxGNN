@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **insomnia**, but there are cur
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on class knowledge, remimazolam is a benzodiazepine that acts as a positive allosteric modulator of GABA-A receptors. This is the same mechanism that underlies established benzodiazepine hypnotics, which makes the high TxGNN score biologically plausible.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for remimazolam: "BYFAVO is a benzodiazepine. BYFAVO binds to brain benzodiazepine sites (gamma amino butyric acid type A [GABA A ] receptors), while its carboxylic acid metabolite (CNS7054) has a 300 times lower affinity for the receptor." ([DailyMed: Byfavo (remimazolam besylate) prescribing information, Acacia Pharma, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e1838f2-b999-41a7-a761-d94f09aa531f), label version 2025-02-20; accessed 2026-11-19.) Based on class knowledge, remimazolam is a benzodiazepine that acts as a positive allosteric modulator of GABA-A receptors. This is the same mechanism that underlies established benzodiazepine hypnotics, which makes the high TxGNN score biologically plausible.
 
 Sedation and insomnia treatment both rely on enhancing inhibitory GABAergic signalling in the brain. In that sense, the original indication (sedation and anaesthesia) and the predicted indication (insomnia) are pharmacologically related.
 
@@ -129,11 +129,12 @@ The prediction score is high and the GABA-A mechanism is plausible for a hypnoti
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Byfavo (remimazolam besylate) prescribing information, Acacia Pharma, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e1838f2-b999-41a7-a761-d94f09aa531f) |
 
 <!-- review:end log -->
 

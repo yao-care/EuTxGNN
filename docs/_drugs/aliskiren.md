@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **pulmonary hypertension with u
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled records. Aliskiren is known as a direct renin inhibitor. By blocking the first and rate-limiting step of the renin-angiotensin-aldosterone system (RAAS), it lowers angiotensin II production. Its efficacy in essential hypertension is established, and mechanistically it may be applicable to pulmonary hypertension.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for aliskiren: "Renin is secreted by the kidney in response to decreases in blood volume and renal perfusion. Renin cleaves angiotensinogen to form the inactive decapeptide angiotensin I (Ang I). Ang I is converted to the active octapeptide angiotensin II (Ang II) by ACE and non-ACE pathways." ([DailyMed: aliskiren prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f3fd2503-25ef-4660-a29a-f62c491e28fb), label version 2022-12-30; accessed 2026-11-19.) Aliskiren is known as a direct renin inhibitor. By blocking the first and rate-limiting step of the renin-angiotensin-aldosterone system (RAAS), it lowers angiotensin II production. Its efficacy in essential hypertension is established, and mechanistically it may be applicable to pulmonary hypertension.
 
 Essential hypertension and pulmonary hypertension are both vascular pressure disorders. RAAS activity is plausibly relevant to pulmonary vascular remodelling, which is the basis of the link. This remains a computational inference. No clinical or preclinical study supporting it was found in the data compiled for this report, and the predicted condition has an unclear, multifactorial cause, which makes a single-pathway rationale less certain.
 
@@ -113,6 +113,19 @@ The prediction score is very high, but no trial or publication directly studies 
 - Confirmation of drug route and dosing suitability for the new indication
 
 **Note on other predictions for aliskiren:** Among the other predicted indications, *cerebrovascular disorder* has the most supporting material. It has one terminated Phase 2/3 trial of aliskiren in atherosclerosis plaque progression (NCT01417104, 71 participants) and several animal stroke studies. Even there, no stroke-outcome trial exists and the trial does not study the disease directly, so it would also need further validation.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled records" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: aliskiren prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f3fd2503-25ef-4660-a29a-f62c491e28fb) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

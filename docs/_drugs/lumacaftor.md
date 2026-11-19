@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **leprosy**, but **no clinical tr
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Lumacaftor is generally described as a CFTR corrector that helps misfolded F508del-CFTR protein reach the cell surface.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lumacaftor and ivacaftor (a combination product containing lumacaftor): "Lumacaftor improves the conformational stability of F508del-CFTR, resulting in increased processing and trafficking of mature protein to the cell surface. In vitro studies have demonstrated that both lumacaftor and ivacaftor act directly on the CFTR protein in primary human bronchial epithelial cultures and other cell lines harboring the F508del-CFTR mutation to increase the quantity, stability, and function of F508del-CFTR at the cell surface, resulting in increased chloride ion transport." ([DailyMed: Orkambi (lumacaftor and ivacaftor) prescribing information, Vertex Pharmaceuticals Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3fc1c40e-cfac-47a1-9e1a-61ead3570600), label version 2026-03-24; accessed 2026-11-19.) Lumacaftor is generally described as a CFTR corrector that helps misfolded F508del-CFTR protein reach the cell surface.
 
 No plausible mechanistic link between CFTR correction and *Mycobacterium leprae* infection or its associated neuropathy is supported by the data compiled for this report. The high score of 0.9944 is a model-based output only and should not be read as evidence of efficacy. Similarity to the original use has not been assessed.
 
@@ -96,6 +96,19 @@ The prediction rests on a model score alone. No clinical trials or publications 
 - Warnings and contraindications from the SmPC for safety screening
 - Review of the interaction profile, particularly the Major interactions, for any target population
 - Route and formulation compatibility assessment for the proposed use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Orkambi (lumacaftor and ivacaftor) prescribing information, Vertex Pharmaceuticals Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3fc1c40e-cfac-47a1-9e1a-61ead3570600) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

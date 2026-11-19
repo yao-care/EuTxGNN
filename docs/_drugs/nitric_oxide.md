@@ -56,7 +56,7 @@ There are **no registered clinical trials**. Of the **20 publications** retrieve
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Nitric oxide is used as an inhaled selective pulmonary vasodilator, and its approved role is lowering pulmonary arterial pressure and improving oxygenation. That mechanism relates to the lung circulation. It has no recognised connection to developmental malformations of the teeth or periodontal tissues.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for nitric oxide: "Nitric oxide relaxes vascular smooth muscle by binding to the heme moiety of cytosolic guanylate cyclase, activating guanylate cyclase and increasing intracellular levels of cyclic guanosine 3',5'-monophosphate, which then leads to vasodilation. When inhaled, nitric oxide selectively dilates the pulmonary vasculature, and because of efficient scavenging by hemoglobin, has minimal effect on the systemic vasculature." ([DailyMed: Inomax (nitric oxide) prescribing information, INO Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=762b51be-1893-4cd1-9511-e645fc420d3a), label version 2025-12-12; accessed 2026-11-19.) Nitric oxide is used as an inhaled selective pulmonary vasodilator, and its approved role is lowering pulmonary arterial pressure and improving oxygenation. That mechanism relates to the lung circulation. It has no recognised connection to developmental malformations of the teeth or periodontal tissues.
 
 The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The retrieved literature concerns periodontitis, gingival inflammation, and plant-derived anti-inflammatory compounds, none of which involve inhaled nitric oxide as therapy. A few papers touch on nitric oxide biology in the mouth, such as oral bacteria that produce nitrite and macrophage nitric oxide release in response to *P. gingivalis*. These describe the body's own nitric oxide, not a treatment effect. They also concern infectious periodontal disease, not a congenital malformation syndrome.
 
@@ -117,6 +117,19 @@ The prediction rests only on a model score. There are no clinical trials, no stu
 - Official label warnings and contraindications from the SmPC for the safety screen.
 
 For comparison, the same prediction list contains a better-supported candidate for nitric oxide: pulmonary arterial hypertension associated with congenital heart disease (L3, Proceed with Guardrails). It overlaps strongly with the already licensed peri-operative use.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Inomax (nitric oxide) prescribing information, INO Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=762b51be-1893-4cd1-9511-e645fc420d3a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

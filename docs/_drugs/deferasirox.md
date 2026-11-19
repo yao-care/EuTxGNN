@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and only **2 publications** (one p
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, deferasirox is an iron chelator: it binds excess iron and helps remove it from the body. Its efficacy in iron overload is established, and its use there is the basis of its marketing authorizations.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for deferasirox: "Exjade (deferasirox) is an orally active chelator that is selective for iron (as Fe 3+ ). It is a tridentate ligand that binds iron with high affinity in a 2:1 ratio. Although deferasirox has very low affinity for zinc and copper there are variable decreases in the serum concentration of these trace metals after the administration of deferasirox." ([DailyMed: Exjade (deferasirox) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85), label version 2026-01-28; accessed 2026-11-19.) Based on known information, deferasirox is an iron chelator: it binds excess iron and helps remove it from the body. Its efficacy in iron overload is established, and its use there is the basis of its marketing authorizations.
 
 The link to HIV is indirect and rests on iron homeostasis. Iron availability is known to influence HIV-1 replication. A 2021 preclinical study (PMID 34550543) reported that iron in endolysosomes restricts Tat-mediated HIV-1 LTR transactivation. This suggests that iron status affects the virus, but it does not show that deferasirox treats HIV. The study also points to iron *restricting* Tat activity, so the direction of any therapeutic effect is not clear. No clinical trials exist, and the other cited paper is a general new-drug overview that provides no HIV evidence.
 
@@ -123,11 +123,12 @@ The HIV prediction has a high model score but no clinical trials, and its only s
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Clarification of why the EU authorizations were cancelled and whether this affects feasibility" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Exjade (deferasirox) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85) |
 
 <!-- review:end log -->
 

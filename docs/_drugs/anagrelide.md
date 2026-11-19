@@ -54,7 +54,7 @@ Anagrelide was originally authorised in the EU to reduce elevated platelet count
 
 ## Why is This Prediction Reasonable?
 
-Anagrelide lowers platelet counts by inhibiting megakaryocyte maturation, through PDE3 inhibition and suppression of megakaryocyte differentiation. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description is based on general pharmacological knowledge. Its approved use in ET, a primary clonal thrombocytosis, shows a plausible platelet-lowering effect.
+Anagrelide lowers platelet counts by inhibiting megakaryocyte maturation, through PDE3 inhibition and suppression of megakaryocyte differentiation. According to the Mechanism of Action section of the US FDA-approved prescribing information for anagrelide: "The precise mechanism by which anagrelide reduces blood platelet count is unknown. In cell culture studies, anagrelide suppressed expression of transcription factors including GATA-1 and FOG-1 required for megakaryocytopoiesis, ultimately leading to reduced platelet production." ([DailyMed: Agrylin (anagrelide hydrochloride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb960074-99c1-4a73-941f-f0644a7ec219), label version 2026-04-08; accessed 2026-11-19.) This description is based on general pharmacological knowledge. Its approved use in ET, a primary clonal thrombocytosis, shows a plausible platelet-lowering effect.
 
 The prediction is weaker than the high score suggests. Reactive thrombocytosis is secondary to inflammation, iron deficiency or splenectomy, and it usually resolves when the cause is treated. Platelet-lowering therapy is rarely needed, and the thrombotic risk is lower than in ET. The high TxGNN score probably reflects the similarity of the condition to ET rather than independent evidence. The literature consists of reviews, ET-focused papers and case reports, with no controlled studies in reactive thrombocytosis.
 
@@ -119,6 +119,19 @@ Please refer to the SmPC for label warnings and contraindications.
 - Evidence that a clinical need exists in reactive thrombocytosis, for example in refractory or extreme cases, or in post-splenectomy patients with thrombotic risk
 - Controlled or at least well-designed observational data in this population
 - A review of the cardiovascular risk in the target population and the major drug interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Agrylin (anagrelide hydrochloride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb960074-99c1-4a73-941f-f0644a7ec219) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

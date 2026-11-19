@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, raltegravir is an HIV integrase strand transfer inhibitor. Its efficacy in HIV-1 infection is established, and mechanistically it may be applicable to SIV, a closely related lentivirus that also depends on an integrase enzyme.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for raltegravir: "Raltegravir is an HIV-1 antiviral drug. […] Raltegravir inhibits the catalytic activity of HIV-1 integrase, an HIV-1 encoded enzyme that is required for viral replication. Inhibition of integrase prevents the covalent insertion, or integration, of unintegrated linear HIV-1 DNA into the host cell genome preventing the formation of the HIV-1 provirus." ([DailyMed: Isentress (raltegravir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e659505-c902-4906-9461-1cc83e2236d2), label version 2026-09-16; accessed 2026-11-19.) Based on known pharmacology, raltegravir is an HIV integrase strand transfer inhibitor. Its efficacy in HIV-1 infection is established, and mechanistically it may be applicable to SIV, a closely related lentivirus that also depends on an integrase enzyme.
 
 SIV and HIV-1 are closely related. Preclinical work shows raltegravir is active against SIV in macaque models. One study built an antiretroviral regimen for SIVmac251-infected macaques from two nucleoside/nucleotide reverse transcriptase inhibitors plus raltegravir (PMID 20233398). Another showed that topical integrase inhibitors protected macaques after vaginal SHIV exposure (PMID 24622515).
 
@@ -138,13 +138,14 @@ The only support for the simian immunodeficiency virus infection prediction is p
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "This authorization is recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the cancelled EU authorization status and of any current market availability" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "with 1 valid licence out of 1" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Isentress (raltegravir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e659505-c902-4906-9461-1cc83e2236d2) |
 
 <!-- review:end log -->
 

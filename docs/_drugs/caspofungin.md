@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **gastrin secretion abnormality
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Caspofungin belongs to the echinocandin class, which inhibits fungal beta-(1,3)-D-glucan synthase, an enzyme needed to build the fungal cell wall. Its efficacy in invasive fungal infections is established.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for caspofungin: "Caspofungin is an echinocandin antifungal drug. […] Caspofungin, an echinocandin, inhibits the synthesis of beta (1,3)-D-glucan, an essential component of the cell wall of susceptible Aspergillus species and Candida species. Beta (1,3)-D-glucan is not present in mammalian cells." ([DailyMed: Cancidas (caspofungin acetate) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bad23a6-09a6-4194-9182-093ed61bc71c), label version 2024-10-11; accessed 2026-11-19.) Caspofungin belongs to the echinocandin class, which inhibits fungal beta-(1,3)-D-glucan synthase, an enzyme needed to build the fungal cell wall. Its efficacy in invasive fungal infections is established.
 
 This mechanism does not obviously extend to gastrin secretion abnormality. Mammalian cells have no beta-glucan synthase, so the drug has no known target in the pathways that regulate gastrin release. The high TxGNN score (0.9944) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Nothing in the data compiled for this report shows a biological, clinical, or literature link between caspofungin and gastrin regulation, so the prediction is best treated as a hypothesis-generating signal only.
 
@@ -98,12 +98,13 @@ The prediction rests on a computational score alone. There are no registered tri
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Verification of the current regulatory and supply status in the EU, since the only authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "The EU authorization for the product is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cancidas (caspofungin acetate) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bad23a6-09a6-4194-9182-093ed61bc71c) |
 
 <!-- review:end log -->
 

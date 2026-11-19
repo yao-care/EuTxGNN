@@ -60,7 +60,7 @@ Among the other predicted indications, the best-supported direction is **specifi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, methylphenidate is a stimulant whose efficacy in ADHD is established. The retrieved literature describes it as acting on dopamine and norepinephrine transporters (DAT/NET), which is consistent with the PET study of extended-release methylphenidate in adults with ADHD.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for methylphenidate: "Methylphenidate hydrochloride is a central nervous system (CNS) stimulant. The mode of therapeutic action of METADATE CD in the treatment of ADHD in pediatric patients 6 years of age and older is not known. Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increases the release of these monoamines into the extraneuronal space." ([DailyMed: Metadate Cd (methylphenidate hydrochloride) prescribing information, Lannett Company, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4), label version 2026-10-21; accessed 2026-11-19.) Based on known information, methylphenidate is a stimulant whose efficacy in ADHD is established. The retrieved literature describes it as acting on dopamine and norepinephrine transporters (DAT/NET), which is consistent with the PET study of extended-release methylphenidate in adults with ADHD.
 
 For faciodigitogenital syndrome, no plausible mechanistic link can be established from the supplied data. Some features of the syndrome, such as ADHD-like behaviour, may be loosely relevant, but this is speculative.
 
@@ -149,11 +149,12 @@ The top prediction, faciodigitogenital syndrome, has a very high model score but
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Metadate Cd (methylphenidate hydrochloride) prescribing information, Lannett Company, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4) |
 
 <!-- review:end log -->
 

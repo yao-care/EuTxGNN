@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **glaucoma**, but there are cur
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Rivastigmine is known to be a cholinesterase inhibitor: it slows the breakdown of acetylcholine, the neurotransmitter that is depleted in Alzheimer's disease.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for rivastigmine: "Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase." ([DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d), label version 2025-11-11; accessed 2026-11-19.) Rivastigmine is known to be a cholinesterase inhibitor: it slows the breakdown of acetylcholine, the neurotransmitter that is depleted in Alzheimer's disease.
 
 The link to glaucoma runs through the eye's cholinergic system. Higher acetylcholine levels in the eye can strengthen ciliary muscle contraction and improve outflow through the trabecular meshwork. This lowers intraocular pressure (IOP), the main treatable risk factor in glaucoma. Miotic cholinergic agents such as pilocarpine work in a similar way. A 2000 rabbit study reported that topical rivastigmine lowered IOP in normotensive animals, and a 2024 review of cholinergic agents for IOP reduction supports the rationale.
 
@@ -152,7 +152,7 @@ The glaucoma prediction has a plausible mechanism and one animal study showing I
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
@@ -160,6 +160,7 @@ Below is the review log for this page: statements checked against official Europ
 | 2026-11-06 | Removed: "with 6 valid licences out of 6" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "(A sixth cancelled authorization, Rivastigmine Sandoz, EMEA/H/C/001183, carries the same indication.)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "of why the EU authorizations were cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d) |
 
 <!-- review:end log -->
 

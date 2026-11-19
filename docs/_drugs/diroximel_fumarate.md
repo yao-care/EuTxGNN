@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **diabetic cataract**, but this
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Diroximel fumarate is known to be converted in the body to monomethyl fumarate (MMF), which activates the NRF2 pathway and has antioxidant and anti-inflammatory effects. This reasoning draws on general knowledge of the active metabolite and has not been confirmed in the data compiled for this report.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for diroximel fumarate: "The mechanism by which diroximel fumarate exerts its therapeutic effect in multiple sclerosis is unknown. MMF, the active metabolite of diroximel fumarate, has been shown to activate the nuclear factor (erythroid-derived 2)-like 2 (Nrf2) pathway in vitro and in vivo in animals and humans." ([DailyMed: Vumerity (diroximel fumarate) prescribing information, Biogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d74414f-6b83-4ea2-9a95-3cecabbce774), label version 2025-05-29; accessed 2026-11-19.) Diroximel fumarate is known to be converted in the body to monomethyl fumarate (MMF), which activates the NRF2 pathway and has antioxidant and anti-inflammatory effects. This reasoning draws on general knowledge of the active metabolite and has not been confirmed in the data compiled for this report.
 
 Multiple sclerosis and diabetic cataract are very different diseases. The only plausible link is oxidative stress: it contributes to lens opacification in diabetes, so an NRF2 activator could theoretically offer some protection. No trial or publication in the data tests this idea.
 
@@ -118,12 +118,13 @@ The prediction rests only on a model score, with no clinical trials or publicati
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The mechanistic link is unverified, and the product's only EU authorization has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "the reasons for the cancelled EU authorization and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vumerity (diroximel fumarate) prescribing information, Biogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d74414f-6b83-4ea2-9a95-3cecabbce774) |
 
 <!-- review:end log -->
 

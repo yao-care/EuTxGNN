@@ -56,7 +56,7 @@ but currently **0 clinical trials** and **0 publications** support this specific
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Fosaprepitant is known to be a prodrug of aprepitant, a neurokinin-1 (NK1) receptor antagonist, and its efficacy in chemotherapy-induced nausea and vomiting is established. This is general pharmacological knowledge, not part of the compiled data.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for fosaprepitant: "Fosaprepitant is a prodrug of aprepitant and accordingly, its antiemetic effects are attributable to aprepitant. Aprepitant is a selective high-affinity antagonist of human substance P/neurokinin 1 (NK-1) receptors. Aprepitant has little or no affinity for serotonin (5-HT 3 ), dopamine, and corticosteroid receptors, the targets of existing therapies for chemotherapy-induced nausea and vomiting (CINV)." ([DailyMed: Navitrux (fosaprepitant) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a41b7c3a-1376-43a7-b5b9-6ba2eba1e169), label version 2026-07-29; accessed 2026-11-19.) Fosaprepitant is known to be a prodrug of aprepitant, a neurokinin-1 (NK1) receptor antagonist, and its efficacy in chemotherapy-induced nausea and vomiting is established. This is general pharmacological knowledge, not part of the compiled data.
 
 The link to the predicted indication is weak. NSIAD arises from gain-of-function mutations in the vasopressin V2 receptor (AVPR2), and no established pathway connects NK1 receptor blockade to V2 receptor signalling. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and it is not backed by clinical or literature evidence. Until a mechanistic hypothesis and supporting data exist, this prediction should be treated as a computational lead only.
 
@@ -121,12 +121,13 @@ The prediction has no supporting trials or publications (evidence level L5), and
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "given the cancelled authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Navitrux (fosaprepitant) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a41b7c3a-1376-43a7-b5b9-6ba2eba1e169) |
 
 <!-- review:end log -->
 

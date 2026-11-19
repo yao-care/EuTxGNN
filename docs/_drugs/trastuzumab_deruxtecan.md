@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **drug-induced osteoporosis**, 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, trastuzumab deruxtecan is an antibody-drug conjugate. A HER2-targeting antibody delivers a topoisomerase I inhibitor payload (deruxtecan) into HER2-expressing tumour cells. Its efficacy in HER2-positive and HER2-low cancers has been established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for trastuzumab deruxtecan: "Fam-trastuzumab deruxtecan-nxki is a HER2-directed antibody-drug conjugate. The antibody is a humanized anti-HER2 IgG1. The small molecule, DXd, is a topoisomerase I inhibitor attached to the antibody by a cleavable linker." ([DailyMed: Enhertu (fam-trastuzumab deruxtecan-nxki) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e67e73e-ddf4-4e4d-8b50-09d7514910b6), label version 2026-05-15; accessed 2026-11-19.) Based on known information, trastuzumab deruxtecan is an antibody-drug conjugate. A HER2-targeting antibody delivers a topoisomerase I inhibitor payload (deruxtecan) into HER2-expressing tumour cells. Its efficacy in HER2-positive and HER2-low cancers has been established.
 
 No plausible mechanistic link to drug-induced osteoporosis was identified. This is a non-malignant bone disease, and it is not driven by HER2 biology. Giving a cytotoxic agent to treat a chronic metabolic bone condition would also raise obvious safety concerns.
 
@@ -141,12 +141,13 @@ The prediction rests only on a model score. There are no clinical trials or publ
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "he EU license is also cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the cancelled EU license status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Enhertu (fam-trastuzumab deruxtecan-nxki) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e67e73e-ddf4-4e4d-8b50-09d7514910b6) |
 
 <!-- review:end log -->
 

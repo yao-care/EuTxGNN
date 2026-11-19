@@ -60,7 +60,7 @@ This is a computational prediction only, and no mechanistic basis for antifungal
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the data compiled for this report. Pretomanid is a nitroimidazooxazine prodrug. It is activated in *Mycobacterium tuberculosis* by the F420-dependent enzyme Ddn (deazaflavin-dependent nitroreductase). Once activated, it is thought to release nitric oxide (respiratory poisoning) and to inhibit mycolic acid synthesis.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for pretomanid: "Pretomanid is a nitroimidazooxazine antimycobacterial drug. […] Pretomanid Tablet is a nitroimidazooxazine antimycobacterial drug. Pretomanid kills actively replicating M. tuberculosis by inhibiting mycolic acid biosynthesis, thereby blocking cell wall production. Under anaerobic conditions, against non-replicating bacteria, pretomanid acts as a respiratory poison following nitric oxide release." ([DailyMed: pretomanid prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1906fc9-cb3c-4e13-8a4a-da76100c1bf3), label version 2024-11-15; accessed 2026-11-19.) Pretomanid is a nitroimidazooxazine prodrug. It is activated in *Mycobacterium tuberculosis* by the F420-dependent enzyme Ddn (deazaflavin-dependent nitroreductase). Once activated, it is thought to release nitric oxide (respiratory poisoning) and to inhibit mycolic acid synthesis.
 
 This mechanism does not support the prediction. Fungi such as *Candida* lack the mycobacterial activation pathway and mycolic acid synthesis, so antifungal activity is not expected. The very high TxGNN score (0.9969) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be treated as a hypothesis only, and the report found no trials or literature to support it.
 
@@ -145,12 +145,13 @@ Other predictions were also reviewed for context. All are Hold:
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the status of the cancelled EU authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: pretomanid prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1906fc9-cb3c-4e13-8a4a-da76100c1bf3) |
 
 <!-- review:end log -->
 

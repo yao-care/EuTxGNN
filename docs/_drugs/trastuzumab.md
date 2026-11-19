@@ -59,7 +59,7 @@ with **14 clinical trials** and **20 publications** currently linked to this pre
 
 ## Why is This Prediction Reasonable?
 
-Trastuzumab binds the extracellular domain of HER2, blocks HER2 signalling and mediates antibody-dependent cellular cytotoxicity. Detailed mechanism-of-action data were not available in the drug record, but this mechanism is well established.
+Trastuzumab binds the extracellular domain of HER2, blocks HER2 signalling and mediates antibody-dependent cellular cytotoxicity. According to the Mechanism of Action section of the US FDA-approved prescribing information for trastuzumab: "The HER2 (or c-erbB2) proto-oncogene encodes a transmembrane receptor protein of 185 kDa, which is structurally related to the epidermal growth factor receptor. Trastuzumab products have been shown, in both in vitro assays and in animals, to inhibit the proliferation of human tumor cells that overexpress HER2." ([DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c), label version 2026-06-26; accessed 2026-11-19.) This mechanism is well established.
 
 HER2-positive tumours are frequently also progesterone-receptor (PR) positive (the HER2+/HR+ subtype). These patients are already covered by the approved breast cancer indications, including trastuzumab combined with an aromatase inhibitor for postmenopausal patients with hormone-receptor-positive metastatic disease. Benefit depends on HER2 status, not PR status. The high TxGNN score therefore reflects a real biological and clinical link, but the prediction describes existing use in a HER2-positive subgroup.
 
@@ -173,11 +173,12 @@ A large completed Phase 3 randomized trial (3270 patients) and multiple RCTs sup
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the drug record, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ Acetylsalicylic acid (aspirin) is an antiplatelet and anti-inflammatory drug. Th
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for this drug are not available in the data compiled for this report. Aspirin is generally known as an irreversible cyclooxygenase inhibitor with antiplatelet and anti-inflammatory effects.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for aspirin and extended - release dipyridamole (a combination product containing acetylsalicylic acid): "Aspirin Aspirin inhibits platelet aggregation by irreversible inhibition of platelet cyclooxygenase and thus inhibits the generation of thromboxane A 2, a powerful inducer of platelet aggregation and vasoconstriction." ([DailyMed: Aspirin And Extended - Release Dipyridamole Capsules, 25 Mg / 200 Mg (aspirin and extended - release dipyridamole) prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6e652e1-b2e4-47ba-bed2-c5e902f8b8f1), label version 2026-08-19; accessed 2026-11-19.) Aspirin is generally known as an irreversible cyclooxygenase inhibitor with antiplatelet and anti-inflammatory effects.
 
 No plausible mechanistic link between aspirin and atrophoderma vermiculata has been established. The high score reflects a computational prediction only. Atrophoderma vermiculata is a follicular atrophy disorder with no recognised platelet-driven or prostaglandin-driven mechanism that aspirin would target. No trials or literature support the prediction.
 
@@ -104,6 +104,19 @@ The prediction score is high, but there are no clinical trials, no publications 
 - Any preclinical, case-based or clinical evidence in this disease
 - Detailed mechanism-of-action data for the drug
 - Warnings and contraindications from the SmPC, plus a bleeding-risk and drug-interaction plan if development is considered
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for this drug are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aspirin And Extended - Release Dipyridamole Capsules, 25 Mg / 200 Mg (aspirin and extended - release dipyridamole) prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6e652e1-b2e4-47ba-bed2-c5e902f8b8f1) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

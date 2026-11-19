@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **hepatitis B virus infection**
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, voxilaprevir is an HCV NS3/4A protease inhibitor used in the Vosevi combination, and its efficacy in chronic hepatitis C is well established.
+ChEMBL (EMBL-EBI) records the mechanism of action of voxilaprevir as: Hepatitis C virus serine protease, NS3/NS4A inhibitor ([ChEMBL CHEMBL3707372 (voxilaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3707372), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, voxilaprevir is an HCV NS3/4A protease inhibitor used in the Vosevi combination, and its efficacy in chronic hepatitis C is well established.
 
 The prediction is not mechanistically supported. HBV has no NS3/4A protease. It replicates through a reverse transcriptase/polymerase and a different replication cycle, so there is no plausible direct target overlap. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as hepatitis C and other hepatotropic viral diseases, not biological evidence.
 
@@ -140,11 +140,12 @@ The prediction score is high, but there is no plausible mechanism (HBV lacks an 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL3707372 (voxilaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3707372) |
 
 <!-- review:end log -->
 

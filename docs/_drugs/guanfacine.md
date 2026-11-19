@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant for **faciodigitogenital syndrome**,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for guanfacine is not available in the data compiled for this report. Guanfacine is an alpha-2A adrenergic agonist that enhances prefrontal cortical network function.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for guanfacine: "Guanfacine is a central alpha 2A -adrenergic receptor agonist. Guanfacine is not a central nervous system (CNS) stimulant. The mechanism of action of guanfacine in ADHD is not known." ([DailyMed: Guanfacine Extended-Release (guanfacine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3ec4fed6-cafc-49a0-9540-8d70ac435769), label version 2026-10-15; accessed 2026-11-19.) Guanfacine is an alpha-2A adrenergic agonist that enhances prefrontal cortical network function.
 
 Faciodigitogenital syndrome (Aarskog-Scott syndrome) is a rare X-linked disorder with skeletal and genital anomalies. No plausible alpha-2A adrenergic mechanism links guanfacine to its core pathology. Any link would be indirect, for example through behavioural or attention-related comorbidity, and no data supports it. The high model score should therefore be treated as a hypothesis-generating signal, not as evidence of benefit.
 
@@ -84,6 +84,19 @@ The prediction rests on the model score alone. No trials or publications address
 - A mechanistic hypothesis that connects alpha-2A adrenergic agonism to the pathology of this syndrome
 - Any preclinical or clinical study that directly addresses this disease
 - Complete mechanism-of-action data and SmPC safety information (warnings and contraindications)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for guanfacine is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Guanfacine Extended-Release (guanfacine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3ec4fed6-cafc-49a0-9540-8d70ac435769) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

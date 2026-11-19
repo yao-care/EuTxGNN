@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Abacavir is known to be an NRTI active against HIV-1 reverse transcriptase, and its efficacy in HIV infection is established. SIV is a closely related lentivirus with a similar reverse transcriptase, so activity is mechanistically plausible.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for abacavir and lamivudine (a combination product containing abacavir): "Abacavir and lamivudine is an antiretroviral agent with activity against HIV-1." ([DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c), label version 2026-09-18; accessed 2026-11-19.) Abacavir is known to be an NRTI active against HIV-1 reverse transcriptase, and its efficacy in HIV infection is established. SIV is a closely related lentivirus with a similar reverse transcriptase, so activity is mechanistically plausible.
 
 The only supporting study is a 2004 laboratory paper. It tested 16 approved anti-HIV drugs and one experimental drug against HIV-2, SIV and SHIV strains. This is early, in vitro evidence. It does not show that abacavir works in a living host.
 
@@ -136,12 +136,13 @@ For reference, two other predictions for this drug have stronger support, but bo
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Clarification of current EU availability of abacavir products, since the only record found is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "The EU authorization for the reference product is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c) |
 
 <!-- review:end log -->
 

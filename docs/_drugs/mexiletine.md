@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but this is
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Mexiletine is a class IB sodium channel blocker, and its efficacy in non-dystrophic myotonia is the basis of its EU authorisation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for mexiletine: "Mexiletine hydrochloride is a local anesthetic, antiarrhythmic agent, structurally similar to lidocaine, but orally active. In animal studies, mexiletine has been shown to be effective in the suppression of induced ventricular arrhythmias, including those induced by glycoside toxicity and coronary artery ligation." ([DailyMed: mexiletine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c09f68fa-759e-4772-9f6b-11005d8f83d5), label version 2026-03-31; accessed 2026-11-19.) Mexiletine is a class IB sodium channel blocker, and its efficacy in non-dystrophic myotonia is the basis of its EU authorisation.
 
 Nothing in the available data links sodium channel blockade to the regulation of hair growth. The high score (0.9978) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trials or publications support the prediction. At this stage it should be regarded as a hypothesis with no demonstrated plausibility.
 
@@ -118,12 +118,13 @@ The prediction for hypertrichosis rests on a model score alone. Taking on mexile
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "There are no clinical trials or literature, no plausible mechanism, and the only EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "given the cancelled authorisation" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: mexiletine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c09f68fa-759e-4772-9f6b-11005d8f83d5) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Reslizumab is known to be an anti-IL-5 monoclonal antibody. By blocking IL-5 signaling it reduces eosinophil numbers and activity, which is why it works in severe eosinophilic asthma.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for reslizumab: "Reslizumab is an interleukin-5 antagonist (IgG4, kappa). IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation, and survival of eosinophils. Reslizumab binds to IL-5 with a dissociation constant of 81 pM, inhibiting the bioactivity of IL-5 by blocking its binding to the alpha chain of the IL-5 receptor complex expressed on the eosinophil surface." ([DailyMed: Cinqair (reslizumab) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=053b9158-2a5b-48b9-bf47-5fa78a35ec33), label version 2020-02-29; accessed 2026-11-19.) Reslizumab is known to be an anti-IL-5 monoclonal antibody. By blocking IL-5 signaling it reduces eosinophil numbers and activity, which is why it works in severe eosinophilic asthma.
 
 The link to immune-mediated thrombocytopenia is weak. This condition is mainly driven by autoantibody-mediated platelet destruction and impaired platelet production, and eosinophil or IL-5 pathways are not an established driver. No trials or publications back the prediction.
 
@@ -133,13 +133,14 @@ The predicted indication rests only on a TxGNN model (deep learning) score (L5).
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "In addition, the only EU authorization has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "plus clarification of the reasons for and implications of the authorization cancellation" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Because the product's EU authorization has been cancelled, any use would need to rely on the previously approved labeling and on new safety " | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cinqair (reslizumab) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=053b9158-2a5b-48b9-bf47-5fa78a35ec33) |
 
 <!-- review:end log -->
 

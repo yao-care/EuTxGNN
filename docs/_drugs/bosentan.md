@@ -60,7 +60,7 @@ The prediction score is very high (0.9980), but it is not matched by human clini
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data were not available in the data compiled for this report. The literature identifies bosentan as a dual endothelin receptor antagonist, blocking both ETA and ETB receptors.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for bosentan: "Bosentan is a specific and competitive antagonist at endothelin receptor types ET A and ET B. Bosentan has a slightly higher affinity for ET A receptors than for ET B receptors. The clinical impact of dual endothelin blockage is unknown." ([DailyMed: Tracleer (bosentan) prescribing information, Actelion Pharmaceuticals US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=749e42fb-2fe0-45dd-9268-b43bb3f4081c), label version 2025-11-17; accessed 2026-11-19.) The literature identifies bosentan as a dual endothelin receptor antagonist, blocking both ETA and ETB receptors.
 
 Endothelin-1 is raised in the plasma and synovial membrane of rheumatoid arthritis patients. It contributes to inflammation, vasoconstriction and new blood vessel formation. In a mouse model of collagen-induced arthritis, bosentan reduced disease severity and was linked to lower TNF-α and other inflammatory mediators (PMID 22249931). In a zymosan-induced arthritis model, blocking endothelin receptors reduced neutrophil accumulation and swelling (PMID 18515326).
 
@@ -146,12 +146,13 @@ The very high model score rests only on animal-model data and indirect reviews. 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "given the cancelled EU status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "and the EU authorizations are currently cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tracleer (bosentan) prescribing information, Actelion Pharmaceuticals US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=749e42fb-2fe0-45dd-9268-b43bb3f4081c) |
 
 <!-- review:end log -->
 

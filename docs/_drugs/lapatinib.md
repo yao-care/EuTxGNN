@@ -56,7 +56,7 @@ There are currently **no clinical trials** and **no publications** supporting th
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Lapatinib is known as an inhibitor of the EGFR and HER2 receptor tyrosine kinases.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lapatinib: "Lapatinib is a 4-anilinoquinazoline kinase inhibitor of the intracellular tyrosine kinase domains of both Epidermal Growth Factor Receptor (EGFR [ErbB1]) and of Human Epidermal Receptor Type 2 (HER2 [ErbB2]) receptors (estimated K i app values of 3nM and 13nM, respectively) with a dissociation half-life of greater than or equal to 300 minutes. Lapatinib inhibits ErbB-driven tumor cell growth in vitro and in various animal models." ([DailyMed: Tykerb (lapatinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eee37f88-ec6a-4c30-b8aa-e2c71f93088c), label version 2026-01-27; accessed 2026-11-19.) Lapatinib is known as an inhibitor of the EGFR and HER2 receptor tyrosine kinases.
 
 Dermatofibrosarcoma protuberans is a soft-tissue sarcoma typically driven by the COL1A1-PDGFB fusion and downstream PDGFR signaling. The established targeted therapy is imatinib, which acts on PDGFR. Lapatinib has no established PDGFR activity, so the mechanistic link to this disease is weak. The high score therefore reflects a pattern found by the model rather than a mechanism supported by biological or clinical data. It should be treated as a hypothesis only.
 
@@ -106,6 +106,19 @@ The prediction has a high score, but there are no clinical trials or publication
 - Warnings and contraindications from the SmPC, which are currently missing
 - A comparison with imatinib as the standard targeted option
 - A cardiac, hepatic and pulmonary safety review given the signals listed above
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tykerb (lapatinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eee37f88-ec6a-4c30-b8aa-e2c71f93088c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

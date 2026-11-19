@@ -56,7 +56,7 @@ Currently there are **0 registered clinical trials** and **5 publications**, all
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, rilpivirine is an NNRTI that inhibits HIV-1 reverse transcriptase, and its efficacy in HIV-1 infection is established.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for rilpivirine: "Rilpivirine is an antiviral drug. […] Rilpivirine is a diarylpyrimidine non-nucleoside reverse transcriptase inhibitor (NNRTI) of human immunodeficiency virus type 1 (HIV-1) and inhibits HIV-1 replication by non-competitive inhibition of HIV-1 reverse transcriptase (RT). Rilpivirine does not inhibit the human cellular DNA polymerases α, β and γ." ([DailyMed: Edurant (rilpivirine hydrochloride) prescribing information, Janssen Products, LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03880372-2c68-45c6-a53a-f420c49541d6), label version 2025-08-28; accessed 2026-11-19.) Based on known information, rilpivirine is an NNRTI that inhibits HIV-1 reverse transcriptase, and its efficacy in HIV-1 infection is established.
 
 Simian immunodeficiency virus (SIV) and the chimeric virus RT-SHIV, which carries HIV-1 reverse transcriptase, are the standard macaque models of HIV. Activity against SIV is therefore mechanistically plausible. The macaque studies in the literature test long-acting rilpivirine, usually with cabotegravir, for prevention, post-exposure prophylaxis and remission.
 
@@ -122,11 +122,12 @@ The prediction score is high, but the evidence is entirely preclinical (macaque 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both EU authorizations are cancelled, and o" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Edurant (rilpivirine hydrochloride) prescribing information, Janssen Products, LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03880372-2c68-45c6-a53a-f420c49541d6) |
 
 <!-- review:end log -->
 

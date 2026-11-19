@@ -55,7 +55,7 @@ This prediction largely matches the existing labelled uses (COPD and asthma), so
 
 ## Why is This Prediction Reasonable?
 
-Vilanterol is a long-acting beta2-adrenoceptor agonist. It relaxes bronchial smooth muscle and gives bronchodilation lasting about 24 hours. This is the established mechanism for relieving airflow obstruction in COPD and asthma. Detailed mechanism-of-action data were not available in the compiled data.
+Vilanterol is a long-acting beta2-adrenoceptor agonist. It relaxes bronchial smooth muscle and gives bronchodilation lasting about 24 hours. This is the established mechanism for relieving airflow obstruction in COPD and asthma. According to the Mechanism of Action section of the US FDA-approved prescribing information for fluticasone furoate and vilanterol (a combination product containing vilanterol): "The pharmacologic effects of beta 2 -adrenergic agonist drugs, including vilanterol, are at least in part attributable to stimulation of intracellular adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3′,5′-adenosine monophosphate (cyclic AMP)." ([DailyMed: fluticasone furoate and vilanterol prescribing information, Prasco Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a761487-c300-451a-8537-3196c00c11b5), label version 2024-11-21; accessed 2026-11-19.)
 
 "Obstructive lung disease" is the broader category that contains COPD and asthma, the conditions for which vilanterol-containing products were already authorised. These products include fluticasone furoate/vilanterol, umeclidinium/vilanterol and fluticasone furoate/umeclidinium/vilanterol. The high TxGNN score therefore agrees with current clinical use. It does not point to a new therapeutic area.
 
@@ -148,11 +148,12 @@ Reviewing the full interaction list is recommended before any use.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: fluticasone furoate and vilanterol prescribing information, Prasco Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a761487-c300-451a-8537-3196c00c11b5) |
 
 <!-- review:end log -->
 

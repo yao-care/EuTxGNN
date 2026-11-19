@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **myeloid leukemia**, but there
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Ribociclib is known as a selective CDK4/6 inhibitor. In breast cancer, this class of drug blocks cell-cycle progression from G1 to S phase, which suppresses the proliferation of tumour cells that depend on the cyclin D–CDK4/6 pathway. Its efficacy in HR+/HER2- breast cancer is well established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ribociclib: "Ribociclib is an inhibitor of cyclin-dependent kinase (CDK) 4 and 6. These kinases are activated upon binding to D-cyclins and are downstream of signaling pathways which lead to cell cycle progression and cellular proliferation." ([DailyMed: Kisqali (ribociclib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aaeaef94-f3f5-4367-8ea2-b181d7be2da8), label version 2026-07-01; accessed 2026-11-19.) Ribociclib is known as a selective CDK4/6 inhibitor. In breast cancer, this class of drug blocks cell-cycle progression from G1 to S phase, which suppresses the proliferation of tumour cells that depend on the cyclin D–CDK4/6 pathway. Its efficacy in HR+/HER2- breast cancer is well established.
 
 Breast cancer and myeloid leukemia are different diseases, but both involve uncontrolled cell proliferation. CDK4/6 inhibition could plausibly suppress the proliferation of myeloid blasts. One preclinical study reports that CDK4/6 inhibitors can target pharmacokinetic drug resistance in acute myeloid leukemia (AML) cells. This mechanistic link is only indirect and has been shown in laboratory models, not in patients.
 
@@ -141,11 +141,12 @@ The prediction rests on a single in vitro study and a plausible but indirect mec
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Its only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Kisqali (ribociclib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aaeaef94-f3f5-4367-8ea2-b181d7be2da8) |
 
 <!-- review:end log -->
 

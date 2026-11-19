@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **esotropia**, but **no clinica
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, dibotermin alfa is a recombinant human bone morphogenetic protein-2 (BMP-2). It acts on osteogenic signaling and promotes bone formation, which is the basis of its use in spinal fusion and fracture healing.
+ChEMBL (EMBL-EBI) records the mechanism of action of dibotermin alfa as: Bone morphogenetic protein receptor type-1A agonist; Activin receptor type-2B agonist; Bone morphogenetic protein receptor type-2 agonist; Bone morphogenetic protein receptor type-1B agonist ([ChEMBL CHEMBL2109171 (dibotermin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109171), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, dibotermin alfa is a recombinant human bone morphogenetic protein-2 (BMP-2). It acts on osteogenic signaling and promotes bone formation, which is the basis of its use in spinal fusion and fracture healing.
 
 Esotropia is an ocular motor alignment disorder (inward deviation of the eye). It has no clear mechanistic link to bone formation. The very high TxGNN score appears to be a TxGNN model (deep learning) artifact rather than a biologically grounded signal, and no clinical or literature evidence supports it.
 
@@ -126,12 +126,13 @@ The esotropia prediction is supported only by a model score, with no trials, no 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of why the EU authorization was cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2109171 (dibotermin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109171) |
 
 <!-- review:end log -->
 

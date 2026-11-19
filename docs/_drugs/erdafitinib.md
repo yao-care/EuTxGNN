@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Erdafitinib is a pan-FGFR tyrosine kinase inhibitor. Detailed mechanism of action data is not available in the data compiled for this report, so the following reasoning relies on its known drug class.
+Erdafitinib is a pan-FGFR tyrosine kinase inhibitor. According to the Mechanism of Action section of the US FDA-approved prescribing information for erdafitinib: "Erdafitinib is a kinase inhibitor that binds to and inhibits enzymatic activity of FGFR1, FGFR2, FGFR3 and FGFR4 based on in vitro data. Erdafitinib inhibited FGFR phosphorylation and signaling and decreased cell viability in cell lines expressing FGFR genetic alterations, including point mutations, amplifications, and fusions." ([DailyMed: Balversa (erdafitinib) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a8aa5c0-6c92-4566-8c45-e8f4d1fc20ee), label version 2025-10-24; accessed 2026-11-19.) The following reasoning relies on its known drug class.
 
 FGF/FGFR signaling has been implicated in pulmonary vascular remodeling and smooth muscle proliferation. This gives a plausible but unvalidated biological rationale for applying an FGFR inhibitor to pulmonary hypertension. The original indication (an FGFR3-altered cancer) and the predicted indication are otherwise unrelated, so the link is through pathway biology rather than disease similarity.
 
@@ -128,12 +128,13 @@ The prediction for pulmonary hypertension has no clinical trials or publications
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the reason for the EU authorization cancellation" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Balversa (erdafitinib) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a8aa5c0-6c92-4566-8c45-e8f4d1fc20ee) |
 
 <!-- review:end log -->
 

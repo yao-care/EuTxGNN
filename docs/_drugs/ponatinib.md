@@ -56,7 +56,7 @@ The prediction rests on the model score alone.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, ponatinib is a multi-target tyrosine kinase inhibitor acting on BCR-ABL, FGFR, PDGFR, SRC and VEGFR. Its efficacy in CML and Ph+ ALL has been established, and mechanistically it may be applicable to fibroproliferative conditions.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ponatinib: "Ponatinib is a kinase inhibitor. Ponatinib inhibited the in vitro tyrosine kinase activity of ABL and T315I mutant ABL with IC 50 concentrations of 0.4 nM and 2.0 nM, respectively. Ponatinib inhibited the in vitro activity of additional kinases with IC 50 concentrations between 0.1 nM and 20 nM, including members of the VEGFR, PDGFR, FGFR, EPH receptors and SRC families of kinases, and KIT, RET, TIE2, and FLT3." ([DailyMed: Iclusig (ponatinib hydrochloride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16d804b6-4957-43ee-b18c-3b36ec37c5ac), label version 2026-08-14; accessed 2026-11-19.) Based on known information, ponatinib is a multi-target tyrosine kinase inhibitor acting on BCR-ABL, FGFR, PDGFR, SRC and VEGFR. Its efficacy in CML and Ph+ ALL has been established, and mechanistically it may be applicable to fibroproliferative conditions.
 
 Gingival fibromatosis is a fibroproliferative overgrowth of gum tissue, whereas CML is a haematological cancer, so the two diseases are quite different. The only link is a hypothesis: FGFR and PDGFR signalling can drive fibroblast proliferation, and ponatinib inhibits both. No trial, publication or mechanistic study in the compiled data tests this idea.
 
@@ -120,6 +120,19 @@ Other predictions for ponatinib have somewhat more support than the lead predict
 
 - **Liposarcoma (score 0.9900, Evidence Level L4)**: A 2017 preclinical kinase-profiling study (PMID 29132397) identified druggable kinase targets. Ponatinib itself was not shown to be validated, so this is a research question rather than a candidate for clinical development.
 - **Remaining predictions** (a VCP-related inclusion body myopathy, ovarian myxoid liposarcoma, lung hamartoma, lung fibroma, junctional epidermolysis bullosa, lung hilum carcinoma): prediction only, with no trials or literature, so Hold.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Iclusig (ponatinib hydrochloride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16d804b6-4957-43ee-b18c-3b36ec37c5ac) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

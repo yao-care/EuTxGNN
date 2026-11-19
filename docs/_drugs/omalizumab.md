@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **bronchitis**, but no published s
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, omalizumab binds free IgE and lowers FcεRI expression on mast cells and basophils, which dampens allergic airway inflammation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for omalizumab: "Asthma, Chronic Rhinosinusitis with Nasal Polyps, and IgE-Mediated Food Allergy Omalizumab products inhibit the binding of IgE to the high-affinity IgE receptor (FcεRI) on the surface of mast cells, basophils, and dendritic cells, resulting in FcεRI down-regulation on these cells. In allergic asthmatics, treatment with omalizumab products inhibit IgE-mediated inflammation, as evidenced by reduced blood and tissue eosinophils and reduced inflammatory mediators, including IL-4, IL-5, and IL-13." ([DailyMed: Omlyclo (omalizumab-igec) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dbd8709f-1636-45d9-ba94-5a3bc5f22f84), label version 2026-10-06; accessed 2026-11-19.) Based on known pharmacology, omalizumab binds free IgE and lowers FcεRI expression on mast cells and basophils, which dampens allergic airway inflammation.
 
 This mechanism is plausible in allergic airway disease or asthma-overlap conditions. It is much less plausible in non-allergic infectious or chronic bronchitis. The trials and papers linked to this prediction concern asthma, asthma-COPD overlap or general reviews. None shows that omalizumab treats bronchitis itself, so the prediction rests on model similarity alone.
 
@@ -108,6 +108,18 @@ No published study supports omalizumab in bronchitis. The linked trials and pape
 - A clearly defined allergic or eosinophilic bronchitis population, if one is to be pursued
 - Controlled studies that directly test omalizumab in that population
 - Mechanism-of-action data and a review of the SmPC warnings and contraindications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Omlyclo (omalizumab-igec) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dbd8709f-1636-45d9-ba94-5a3bc5f22f84) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

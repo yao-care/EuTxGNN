@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **duodenal ulcer**, but this is
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, raloxifene is a selective estrogen receptor modulator that acts on bone and breast tissue. Its efficacy in postmenopausal osteoporosis is established, with a significant reduction in vertebral fractures (but not hip fractures).
+According to the Mechanism of Action section of the US FDA-approved prescribing information for raloxifene: "Raloxifene is an estrogen agonist/antagonist, commonly referred to as a selective estrogen receptor modulator (SERM). The biological actions of raloxifene are largely mediated through binding to estrogen receptors. This binding results in activation of estrogenic pathways in some tissues (agonism) and blockade of estrogenic pathways in others (antagonism)." ([DailyMed: Evista (raloxifene hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcaaa6dc-74e8-4fb8-800c-5574bf0f8de9), label version 2026-02-11; accessed 2026-11-19.) Based on known information, raloxifene is a selective estrogen receptor modulator that acts on bone and breast tissue. Its efficacy in postmenopausal osteoporosis is established, with a significant reduction in vertebral fractures (but not hip fractures).
 
 No clear mechanistic link to duodenal ulcer can be established from the data compiled for this report. Duodenal ulcer is driven mainly by acid secretion, *H. pylori* infection and weakened mucosal defence, and none of these is a known target of estrogen receptor modulation. The very high TxGNN score (0.9972) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Several other predicted conditions with similar scores (duodenal obstruction, 0.9964; duodenogastric reflux, 0.9959) appear to share this pattern, which suggests an artifact.
 
@@ -122,13 +122,14 @@ The prediction is supported only by a TxGNN model (deep learning) score, with no
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All three authorizations are valid, and the drug is marketed" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "The product is marketed, with 3 valid licences out of 3" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the cancelled EU status, including whether other marketing routes exist" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Evista (raloxifene hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcaaa6dc-74e8-4fb8-800c-5574bf0f8de9) |
 
 <!-- review:end log -->
 

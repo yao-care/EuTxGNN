@@ -54,7 +54,7 @@ Insulin aspart is a rapid-acting insulin analogue. The TxGNN model predicts it m
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available for this drug. Insulin aspart is an insulin analogue that acts through the insulin receptor to lower blood glucose.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for insulin aspart: "The primary activity of insulin, including NOVOLOG MIX 70/30 is the regulation of glucose metabolism. Insulin and its analog lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85), label version 2026-05-18; accessed 2026-11-19.) Insulin aspart is an insulin analogue that acts through the insulin receptor to lower blood glucose.
 
 The data compiled for this report show no plausible mechanistic rationale for autoimmune oophoritis. The prediction most likely reflects proximity between autoimmune and endocrine conditions in the model's network, not an insulin-receptor mechanism. The relationship to the original use has not been assessed. Treat this prediction as a model output only, not as a therapeutic hypothesis.
 
@@ -99,6 +99,19 @@ The prediction has no supporting trials or literature and no plausible mechanist
 - Any clinical or preclinical studies that directly address autoimmune oophoritis
 - Mechanism of action data for the drug
 - Safety information (warnings and contraindications) taken from the SmPC
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data are not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

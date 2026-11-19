@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **vitamin B12- and folate-indepen
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Ferric maltol is an oral iron preparation that supplies iron to the body.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for ferric maltol: "ACCRUFER delivers iron for uptake across the intestinal wall and transfer to transferrin and ferritin." ([DailyMed: Accrufer (ferric maltol) prescribing information, Shield TX (UK) Ltd](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=367ac157-2d25-4f34-99ce-b126e0f03851), label version 2026-01-02; accessed 2026-11-19.) Ferric maltol is an oral iron preparation that supplies iron to the body.
 
 The predicted condition is a megaloblastic anemia that does not depend on vitamin B12 or folate. It is not primarily an iron-deficiency state, so the mechanistic rationale for iron supplementation is weak. The prediction most likely reflects a general association between anemias and iron-related treatments in the model's training data rather than a specific biological link. No clinical evidence for this disease was found in the data compiled for this report.
 
@@ -99,6 +99,18 @@ The prediction score is high, but it rests on model output alone (evidence level
 - Mechanism of action data for ferric maltol
 - Full safety information from the SmPC, including warnings and contraindications
 - Confirmation of route and dosage-form compatibility for the proposed use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Accrufer (ferric maltol) prescribing information, Shield TX (UK) Ltd](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=367ac157-2d25-4f34-99ce-b126e0f03851) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

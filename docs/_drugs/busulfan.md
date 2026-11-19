@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful in **myelodysplastic syndrome (MDS)**,
 
 ## Why is This Prediction Reasonable?
 
-Busulfan is a bifunctional alkylating agent. It cross-links DNA and destroys bone marrow cells (myeloablation). Detailed mechanism-of-action data were not included in the compiled data, but this general mechanism is well established. In transplant conditioning it eliminates the abnormal blood-forming clone and clears marrow space for donor stem cells.
+Busulfan is a bifunctional alkylating agent. It cross-links DNA and destroys bone marrow cells (myeloablation). According to the Mechanism of Action section of the US FDA-approved prescribing information for busulfan: "Busulfan is a bifunctional alkylating agent in which two labile methanesulfonate groups are attached to opposite ends of a four-carbon alkyl chain. In aqueous media, busulfan hydrolyzes to release the methanesulfonate groups." ([DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203), label version 2026-07-29; accessed 2026-11-19.) This general mechanism is well established. In transplant conditioning it eliminates the abnormal blood-forming clone and clears marrow space for donor stem cells.
 
 Allogeneic stem cell transplantation is the only potentially curative approach for MDS, and a conditioning regimen is required first. The approved use (conditioning before HPCT) is therefore closely related to the predicted use. The prediction describes busulfan-based conditioning in MDS patients undergoing transplant, not busulfan as a disease-modifying drug on its own.
 
@@ -138,6 +138,19 @@ Two completed Phase 3 randomised trials and several Phase 2/3 trials directly st
 - Evidence that isolates busulfan's contribution within combination regimens
 - Review of the knowledge-graph contraindication relations (e.g., cytopenias, pulmonary fibrosis) against the label
 - Dose and exposure monitoring plans for older or comorbid MDS patients
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not included in the compiled data, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

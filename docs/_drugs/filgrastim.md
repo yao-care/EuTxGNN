@@ -55,7 +55,7 @@ The TxGNN model (deep learning) predicts it may be effective for **primary relea
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Filgrastim is a recombinant G-CSF. It is known to act on the neutrophil lineage through the G-CSF receptor. Its efficacy in neutropenia is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for filgrastim: "Colony-stimulating factors are glycoproteins which act on hematopoietic cells by binding to specific cell surface receptors and stimulating proliferation‚ differentiation commitment‚ and some end-cell functional activation. Endogenous G-CSF is a lineage-specific colony-stimulating factor that is produced by monocytes‚ fibroblasts, and endothelial cells." ([DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7), label version 2026-11-10; accessed 2026-11-19.) Filgrastim is a recombinant G-CSF. It is known to act on the neutrophil lineage through the G-CSF receptor. Its efficacy in neutropenia is established.
 
 The link to the predicted indication is weak. Primary release disorder of platelets is a disorder of platelet granule release and function. G-CSF has no established effect on platelet function. The very high score (1.0000) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The other top predictions (pseudo-von Willebrand disease, Glanzmann thrombasthenia, Scott syndrome and others) show the same pattern of platelet or coagulation disorders without a plausible G-CSF mechanism, and none has any trial or literature support.
 
@@ -123,11 +123,12 @@ The prediction rests on the model score alone (L5). There are no trials or publi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The drug is marketed: all 7 of 7 EU authorisations are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7) |
 
 <!-- review:end log -->
 

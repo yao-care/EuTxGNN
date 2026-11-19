@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 
 ## Why is This Prediction Reasonable?
 
-Etravirine is a non-nucleoside reverse transcriptase inhibitor (NNRTI). Detailed mechanism-of-action data are not available in the compiled data, so this class assignment comes from general knowledge of the drug. It is used against HIV-1 in treatment-experienced patients.
+Etravirine is a non-nucleoside reverse transcriptase inhibitor (NNRTI). According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for etravirine: "Etravirine is an antiretroviral drug. […] Etravirine is an NNRTI of HIV-1. Etravirine binds directly to reverse transcriptase (RT) and blocks the RNA-dependent and DNA-dependent DNA polymerase activities by causing a disruption of the enzyme's catalytic site. Etravirine does not inhibit the human DNA polymerases α, β, and γ." ([DailyMed: Intelence (etravirine) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a9cbc29-9f15-4b24-8d86-206b82887f3d), label version 2023-08-15; accessed 2026-11-19.) This class assignment comes from general knowledge of the drug. It is used against HIV-1 in treatment-experienced patients.
 
 Simian immunodeficiency virus (SIV) is a lentivirus closely related to HIV, which explains why a network-based model would place the two diseases close together. However, SIV (like HIV-2) is generally intrinsically less susceptible to NNRTIs, so the mechanistic link is plausible but uncertain. SIV infection is also mainly relevant as a preclinical animal model rather than as a human indication.
 
@@ -104,6 +104,19 @@ The prediction rests on a high model score alone. No trial or publication direct
 - Mechanism-of-action data for etravirine
 - Label warnings and contraindications from the SmPC for safety screening
 - Clarification of whether a veterinary or animal-model use, rather than a human indication, is the intended goal
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the compiled data, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Intelence (etravirine) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a9cbc29-9f15-4b24-8d86-206b82887f3d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

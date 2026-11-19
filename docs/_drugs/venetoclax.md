@@ -61,7 +61,7 @@ For this top-ranked prediction, the data compiled for this report contain **no r
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data from DrugBank are not available in the compiled data. Venetoclax is nonetheless known as a selective, oral BCL-2 inhibitor. CLL cells depend on BCL-2 overexpression to survive, and blocking BCL-2 restores apoptosis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for venetoclax: "Venetoclax is a selective and orally bioavailable small-molecule inhibitor of BCL-2, an anti-apoptotic protein. Overexpression of BCL-2 has been demonstrated in CLL and AML cells where it mediates tumor cell survival and has been associated with resistance to chemotherapeutics." ([DailyMed: Venclexta (venetoclax) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b118a40d-6b56-cee3-10f6-ded821a97018), label version 2026-05-20; accessed 2026-11-19.) Venetoclax is nonetheless known as a selective, oral BCL-2 inhibitor. CLL cells depend on BCL-2 overexpression to survive, and blocking BCL-2 restores apoptosis.
 
 The predicted indication is not a new disease. "Pregerminal center CLL/SLL" is the unmutated-IGHV subset of CLL, which is typically associated with a poorer prognosis. Venetoclax is already authorised in the EU for CLL, so this prediction is essentially a refinement of the existing indication. BCL-2 dependence is a general feature of CLL/SLL, and the approved CLL indication therefore applies directly.
 
@@ -141,11 +141,12 @@ The predicted indication is a molecular subset of CLL/SLL, a disease for which v
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the EU authorisation is recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data from DrugBank are not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Venclexta (venetoclax) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b118a40d-6b56-cee3-10f6-ded821a97018) |
 
 <!-- review:end log -->
 

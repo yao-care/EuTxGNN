@@ -60,7 +60,7 @@ There are **no clinical trials** and **no publications** supporting this predict
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Lasmiditan is known as a 5-HT1F receptor agonist.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lasmiditan: "Lasmiditan binds with high affinity to the 5-HT 1F receptor. Lasmiditan presumably exerts its therapeutic effects in the treatment of migraine through agonist effects at the 5-HT 1F receptor; however, the precise mechanism is unknown." ([DailyMed: Reyvow (lasmiditan) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aea3358c-ff41-4490-9e6d-c7bf7b3de13f), label version 2026-01-08; accessed 2026-11-19.) Lasmiditan is known as a 5-HT1F receptor agonist.
 
 No identifiable mechanistic link connects 5-HT1F agonism to atrophoderma vermiculata, a rare follicular atrophic skin condition. The high score is a computational output of the TxGNN model. It is not backed by any trial, publication or biological rationale in the available data.
 
@@ -112,6 +112,19 @@ The prediction has a high model score (0.9959) but no supporting clinical trials
 - Detailed mechanism-of-action data
 - Label-based warnings and contraindications from the SmPC, to complete the safety review
 - A check of whether the available routes and dosage forms are compatible with treating a skin condition
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Reyvow (lasmiditan) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aea3358c-ff41-4490-9e6d-c7bf7b3de13f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

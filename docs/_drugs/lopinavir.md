@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, lopinavir belongs to the HIV protease inhibitor class. These drugs block the viral aspartic protease needed to cleave the Gag-Pol polyprotein into functional proteins.
+ChEMBL (EMBL-EBI) records the mechanism of action of lopinavir as: Human immunodeficiency virus type 1 protease inhibitor ([ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729), CC BY-SA 3.0; accessed 2026-11-19.) Based on general pharmacology, lopinavir belongs to the HIV protease inhibitor class. These drugs block the viral aspartic protease needed to cleave the Gag-Pol polyprotein into functional proteins.
 
 Simian immunodeficiency virus (SIV) is a lentivirus closely related to HIV-1, so a class-level mechanistic link is plausible. The available studies are in non-human primates, where SIV and SHIV infection serve as preclinical models of HIV. They do not point to a new human therapeutic use beyond the existing HIV-1 use.
 
@@ -99,6 +99,19 @@ The evidence consists only of three small macaque studies. SIV infection is an a
 - Detailed mechanism of action data (MOA)
 - Download and review of the SmPC for warnings and contraindications
 - A clear human clinical question, since no human use beyond approved HIV-1 treatment is suggested by the current data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

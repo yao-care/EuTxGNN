@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **HIV infectious disease** with
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Pharmacology data shows that cholic acid acts on two bile acid receptors: the farnesoid X receptor (FXR) and the G protein-coupled bile acid receptor (GPBAR1/TGR5). In its approved use, it replaces the missing primary bile acids, reduces production of toxic bile acid intermediates, and restores bile flow.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for cholic acid: "Cholic acid is a primary bile acid synthesized from cholesterol in the liver. In bile acid synthesis disorders due to SEDs in the biosynthetic pathway, and in PDs including Zellweger spectrum disorders, deficiency of primary bile acids leads to unregulated accumulation of intermediate bile acids and cholestasis." ([DailyMed: Cholbam (cholic acid) prescribing information, Mirum Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5c6e4c9d-b85e-493f-9420-ab2fd0ff3723), label version 2026-01-26; accessed 2026-11-19.) Pharmacology data shows that cholic acid acts on two bile acid receptors: the farnesoid X receptor (FXR) and the G protein-coupled bile acid receptor (GPBAR1/TGR5). In its approved use, it replaces the missing primary bile acids, reduces production of toxic bile acid intermediates, and restores bile flow.
 
 The link to HIV is weak. Early work from 1993 reported that sodium cholate has spermicidal activity and in vitro inhibitory effects on HIV-1 reverse transcriptase, and it was tested in a vaginal contraceptive sponge. This is a topical, barrier-type concept, quite different from the approved oral use. A 2006 study found that synthetic amino-functionalised cholic acid derivatives **increased** HIV-1 replication and syncytia formation in T cells, which argues against benefit. A 2010 cohort study measured plasma bile acids in HIV patients on protease inhibitors. That is an association with hepatotoxicity, not a treatment effect.
 
@@ -132,12 +132,13 @@ Among the other top predictions, **vitamin deficiency disorder** (score 0.9971, 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The product's EU authorisation is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of why the authorisation was cancelled and whether a valid marketed product exists" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cholbam (cholic acid) prescribing information, Mirum Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5c6e4c9d-b85e-493f-9420-ab2fd0ff3723) |
 
 <!-- review:end log -->
 

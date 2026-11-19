@@ -60,7 +60,7 @@ The high score comes from the TxGNN model (deep learning) and may reflect simila
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, tagraxofusp is a CD123-directed cytotoxin (interleukin-3 fused to a truncated diphtheria toxin). It targets CD123-expressing malignant cells, which is why it was developed for BPDCN.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for tagraxofusp: "Tagraxofusp-erzs is a CD123-directed cytotoxin composed of recombinant human interleukin-3 (IL-3) and truncated diphtheria toxin (DT) fusion protein that inhibits protein synthesis and causes cell death in CD123-expressing cells." ([DailyMed: Elzonris (tagraxofusp) prescribing information, Stemline Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80eb1080-fe20-4af0-b2a5-a67999923fa8), label version 2024-12-09; accessed 2026-11-19.) Based on general knowledge, tagraxofusp is a CD123-directed cytotoxin (interleukin-3 fused to a truncated diphtheria toxin). It targets CD123-expressing malignant cells, which is why it was developed for BPDCN.
 
 Esotropia is an ocular motor alignment disorder with no known CD123-driven pathology. No credible mechanistic link between the original and the predicted indication could be identified. The high TxGNN score (0.9973) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so the prediction should be treated as unsupported.
 
@@ -142,11 +142,12 @@ The prediction rests on a model score alone (Evidence Level L5). There are no cl
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorisation is cancelled, and the drug carries serious toxicity risks" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Elzonris (tagraxofusp) prescribing information, Stemline Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80eb1080-fe20-4af0-b2a5-a67999923fa8) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Bacteroidaceae infectious dis
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Oritavancin is a lipoglycopeptide that inhibits bacterial cell wall synthesis, and it is active mainly against Gram-positive organisms. This is the basis of its approved use in skin infections.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for oritavancin: "Oritavancin is an antibacterial drug. […] Oritavancin has three mechanisms of action: (i) inhibition of the transglycosylation (polymerization) step of cell wall biosynthesis by binding to the stem peptide of peptidoglycan precursors; (ii) inhibition of the transpeptidation (crosslinking) step of cell wall biosynthesis by binding to the peptide bridging segments of the cell wall; and (iii) disruption of bacterial membrane integrity, leading to depolarization, permeabilization, and cell death. These multiple mechanisms contribute to the concentration-dependent bactericidal activity of oritavancin." ([DailyMed: Orbactiv (oritavancin) prescribing information, Melinta Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff09a726-9f9b-4e30-b509-396781293220), label version 2026-09-15; accessed 2026-11-19.) Oritavancin is a lipoglycopeptide that inhibits bacterial cell wall synthesis, and it is active mainly against Gram-positive organisms. This is the basis of its approved use in skin infections.
 
 The link to the predicted indication is weak. Bacteroidaceae (for example *Bacteroides fragilis*) are Gram-negative anaerobes. Their outer membrane generally prevents glycopeptides from reaching their target. The high TxGNN score (0.9948) is a model output only. General in vitro susceptibility data for anaerobes could offer indirect support, but none were provided. The L4 grade reflects this indirect plausibility and should be read as an upper bound.
 
@@ -115,12 +115,13 @@ The prediction has no supporting trials or literature, and the mechanism is poor
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "given the cancelled EU authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Orbactiv (oritavancin) prescribing information, Melinta Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff09a726-9f9b-4e30-b509-396781293220) |
 
 <!-- review:end log -->
 

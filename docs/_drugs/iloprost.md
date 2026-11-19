@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant for **hypotrichosis simplex of the s
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for iloprost are not available in the data compiled for this report. Based on general pharmacology, iloprost is a prostacyclin analogue that dilates blood vessels and inhibits platelet aggregation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for iloprost: "Iloprost is a synthetic analog of prostacyclin PGI 2. Iloprost is a vasodilator and inhibits platelet aggregation." ([DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4), label version 2026-08-13; accessed 2026-11-19.) Based on general pharmacology, iloprost is a prostacyclin analogue that dilates blood vessels and inhibits platelet aggregation.
 
 Hypotrichosis simplex of the scalp is a genetic hair-follicle disorder (for example, linked to variants in CDSN, APCDD1 or RPL21). A benefit from vasodilation on follicles is speculative, and no mechanistic link is supported by the available data. The high TxGNN score of 0.9945 is a model output only; it is not backed by any trial or publication, and it should not be read as evidence of efficacy.
 
@@ -96,6 +96,19 @@ The prediction has no supporting trials or publications, no mechanistic link is 
 - Detailed mechanism-of-action data for iloprost
 - Parsed SmPC warnings and contraindications for a safety screen
 - Assessment of route and formulation suitability for a scalp condition
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for iloprost are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

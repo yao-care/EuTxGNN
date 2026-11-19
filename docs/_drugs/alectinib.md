@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant for **fibromatosis, gingival**, but 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Alectinib is known as an ATP-competitive inhibitor of anaplastic lymphoma kinase (ALK), a driver of certain cancers.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for alectinib: "Alectinib is a tyrosine kinase inhibitor that targets ALK and RET. In nonclinical studies, alectinib inhibited ALK phosphorylation and ALK-mediated activation of the downstream signaling proteins STAT3 and AKT, and decreased tumor cell viability in multiple cell lines harboring ALK fusions, amplifications, or activating mutations." ([DailyMed: Alecensa (alectinib hydrochloride) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42c49deb-713b-427a-9670-08af08adcffb), label version 2026-08-21; accessed 2026-11-19.) Alectinib is known as an ATP-competitive inhibitor of anaplastic lymphoma kinase (ALK), a driver of certain cancers.
 
 For gingival fibromatosis, no ALK-driven mechanism has been established. The condition is usually hereditary and fibrotic in nature. The high score (0.9997) is a model output only, and it does not show a biological link between ALK inhibition and this disease. The prediction should therefore be treated as a hypothesis with no mechanistic support at present.
 
@@ -104,6 +104,19 @@ The prediction has no supporting trials or publications and no plausible ALK-rel
 - Biological evidence that ALK signalling is involved in gingival fibromatosis
 - Preclinical studies in relevant disease models
 - Mechanism-of-action data and the SmPC warnings and contraindications for a full safety review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Alecensa (alectinib hydrochloride) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42c49deb-713b-427a-9670-08af08adcffb) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

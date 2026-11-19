@@ -56,7 +56,7 @@ However, **no clinical trials and no publications** directly support this predic
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general pharmacology, eptifibatide is a GPIIb/IIIa (αIIbβ3) antagonist that blocks the final common pathway of platelet aggregation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for eptifibatide: "Eptifibatide reversibly inhibits platelet aggregation by preventing the binding of fibrinogen, von Willebrand factor, and other adhesive ligands to GP IIb/IIIa. When administered intravenously, eptifibatide inhibits ex vivo platelet aggregation in a dose- and concentration-dependent manner." ([DailyMed: eptifibatide prescribing information, Avenacy, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0781dae-3ef6-4cab-b084-01d2e45f3764), label version 2026-10-02; accessed 2026-11-19.) Based on general pharmacology, eptifibatide is a GPIIb/IIIa (αIIbβ3) antagonist that blocks the final common pathway of platelet aggregation.
 
 Platelet activation is thought to contribute to synovial inflammation, which offers a hypothetical link to rheumatoid arthritis. This link is not supported by any study in the data compiled for this report. It should be treated as a speculative hypothesis, and the relevance of this indication remains unclear.
 
@@ -99,6 +99,19 @@ The TxGNN score is very high, but no clinical trial or publication studies eptif
 - Preclinical or mechanistic studies testing GPIIb/IIIa blockade in inflammatory arthritis models
 - Detailed mechanism-of-action data
 - Safety review of bleeding risk and the recorded drug interactions, based on the SmPC warnings and contraindications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: eptifibatide prescribing information, Avenacy, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0781dae-3ef6-4cab-b084-01d2e45f3764) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

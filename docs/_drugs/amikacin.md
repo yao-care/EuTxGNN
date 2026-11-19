@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **paratyphoid fever**, but ther
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Amikacin is known to be an aminoglycoside that inhibits the bacterial 30S ribosomal subunit and has broad Gram-negative activity. This makes activity against *Salmonella enterica* serovar Paratyphi plausible on paper.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for amikacin: "Amikacin, an aminoglycoside, binds to the prokaryotic ribosome, inhibiting protein synthesis in susceptible bacteria. It is bactericidal in vitro against Gram-positive and Gram-negative bacteria." ([DailyMed: amikacin sulfate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f260ff2a-76a0-4672-9516-91c344b67890), label version 2026-07-27; accessed 2026-11-19.) Amikacin is known to be an aminoglycoside that inhibits the bacterial 30S ribosomal subunit and has broad Gram-negative activity. This makes activity against *Salmonella enterica* serovar Paratyphi plausible on paper.
 
 The original indication (a mycobacterial lung infection) and the predicted indication (an enteric *Salmonella* infection) are both bacterial infections, which is probably why the model links them. However, there are important mechanistic limits. *Salmonella* is a facultative intracellular pathogen, and aminoglycosides penetrate host cells poorly. In vitro susceptibility therefore does not translate reliably into clinical efficacy, and aminoglycosides are not standard therapy for enteric fever.
 
@@ -133,11 +133,12 @@ The prediction score is very high, but it is a computational output. There are n
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The product's only EU authorisation is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: amikacin sulfate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f260ff2a-76a0-4672-9516-91c344b67890) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **hypermobility of coccyx**, but 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Golimumab is a monoclonal antibody against tumour necrosis factor alpha (TNF-α), a class used in inflammatory joint, spine and bowel diseases.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for golimumab: "Golimumab is a human monoclonal antibody that binds to both the soluble and transmembrane bioactive forms of human TNFα. This interaction prevents the binding of TNFα to its receptors, thereby inhibiting the biological activity of TNFα (a cytokine protein)." ([DailyMed: Simponi (golimumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f86cb4a7-c358-4136-ae57-b32bda9bba00), label version 2026-11-02; accessed 2026-11-19.) Golimumab is a monoclonal antibody against tumour necrosis factor alpha (TNF-α), a class used in inflammatory joint, spine and bowel diseases.
 
 The link to the predicted condition is weak. Hypermobility of the coccyx is mainly a mechanical or traumatic problem rather than a TNF-driven inflammatory one, so there is no clear mechanistic rationale. The high score is a model output only. No trials or literature were found to support it, and similarity to the original indications has not been assessed.
 
@@ -96,6 +96,19 @@ The prediction rests on a model score alone. There are no trials or publications
 - Any preclinical or clinical evidence that TNF-α–driven inflammation contributes to coccyx hypermobility
 - Mechanism of action data and SmPC warnings and contraindications
 - Assessment of route compatibility and similarity to the existing indications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Simponi (golimumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f86cb4a7-c358-4136-ae57-b32bda9bba00) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

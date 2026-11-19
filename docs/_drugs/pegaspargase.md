@@ -57,7 +57,7 @@ The TxGNN model's top-ranked prediction with clinical or literature data is **Ly
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. In general, pegaspargase is a pegylated asparaginase. It depletes extracellular asparagine, and some lymphoid cancer cells have low asparagine synthetase activity and depend on that supply. Depriving them of it can lead to cell death.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for pegaspargase: "L-asparaginase is an enzyme that catalyzes the conversion of the amino acid L-asparagine into aspartic acid and ammonia. The pharmacological effect of ONCASPAR is thought to be based on the killing of leukemic cells due to depletion of plasma asparagine." ([DailyMed: Oncaspar (pegaspargase) prescribing information, Servier Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac7b6a6f-6ddb-48c6-8088-d8a8e3fea6ce), label version 2024-10-07; accessed 2026-11-19.) In general, pegaspargase is a pegylated asparaginase. It depletes extracellular asparagine, and some lymphoid cancer cells have low asparagine synthetase activity and depend on that supply. Depriving them of it can lead to cell death.
 
 "Lymphoid neoplasm" is a broad category that includes ALL, the approved indication. The prediction therefore largely restates a known use rather than proposing a new one. Other lymphoid cancers, such as NK/T-cell lymphoma, may share the same dependence on asparagine. The literature in the data shows pegaspargase-based regimens in that disease (see below), but it is a distinct entity from the predicted diseases listed here.
 
@@ -138,6 +138,19 @@ Pegaspargase is well established in ALL, but that is its approved use. No cited 
 - Trials that isolate pegaspargase's contribution rather than use it as part of a backbone regimen
 - Mechanism of action data and the SmPC warnings and contraindications
 - A safety monitoring plan covering hepatotoxicity, pancreatitis, thrombosis, hypersensitivity and the interaction list above
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Oncaspar (pegaspargase) prescribing information, Servier Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac7b6a6f-6ddb-48c6-8088-d8a8e3fea6ce) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

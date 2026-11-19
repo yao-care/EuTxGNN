@@ -56,7 +56,7 @@ At present there are **0 clinical trials** and **0 publications** supporting thi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Pharmacology records identify cetuximab as an antibody directed against the epidermal growth factor receptor (EGFR). Its efficacy in EGFR-expressing colorectal and head and neck squamous cell cancers is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for cetuximab: "The epidermal growth factor receptor (EGFR, HER1, c-ErbB-1) is a transmembrane glycoprotein that is a member of a subfamily of type I receptor tyrosine kinases including EGFR, HER2, HER3, and HER4. The EGFR is constitutively expressed in many normal epithelial tissues, including the skin and hair follicle. […] Cetuximab binds specifically to the EGFR on both normal and tumor cells, and competitively inhibits the binding of epidermal growth factor (EGF) and other ligands, such as transforming growth factor-alpha." ([DailyMed: Erbitux (cetuximab) prescribing information, ImClone LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9), label version 2026-04-16; accessed 2026-11-19.) Pharmacology records identify cetuximab as an antibody directed against the epidermal growth factor receptor (EGFR). Its efficacy in EGFR-expressing colorectal and head and neck squamous cell cancers is established.
 
 Chondroid hamartoma is a benign lesion, and no direct mechanistic link between EGFR blockade and this condition has been established. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trials or literature were retrieved to show that blocking EGFR is relevant to this benign lesion. The prediction should therefore be treated as a hypothesis, not as supported evidence.
 
@@ -112,6 +112,19 @@ The prediction for chondroid hamartoma has no supporting trials or publications,
 - Any preclinical or clinical evidence that EGFR signalling drives chondroid hamartoma.
 - Mechanism-of-action data and SmPC warnings and contraindications, to complete the safety screening.
 - A review of lower-ranked predictions in the same list that have more evidence, such as cystic neoplasm and pre-malignant neoplasm. The pre-malignant neoplasm entry includes a completed Phase 2 trial of cetuximab in premalignant upper aerodigestive tract lesions (NCT00524017). These are separate candidates and would need their own evaluation.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Erbitux (cetuximab) prescribing information, ImClone LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

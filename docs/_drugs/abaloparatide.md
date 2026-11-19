@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **non-syndromic esophageal malf
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, abaloparatide is a PTHrP analogue that acts on the PTH1 receptor (PTH1R) to promote bone formation. Its efficacy in postmenopausal osteoporosis has been shown in a Phase 3 trial (NCT01343004), which reported a reduced risk of new fractures versus placebo.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for abaloparatide: "Abaloparatide is a PTHrP(1-34) analog which acts as an agonist at the PTH1 receptor (PTH1R). This results in activation of the cAMP signaling pathway in target cells. Once-daily administration of abaloparatide stimulates new bone formation on trabecular and cortical bone surfaces by stimulation of osteoblastic activity." ([DailyMed: Tymlos (abaloparatide) prescribing information, Radius Health, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=712143d9-e21e-4013-bb3b-3426a21060a8), label version 2026-08-11; accessed 2026-11-19.) Based on known pharmacology, abaloparatide is a PTHrP analogue that acts on the PTH1 receptor (PTH1R) to promote bone formation. Its efficacy in postmenopausal osteoporosis has been shown in a Phase 3 trial (NCT01343004), which reported a reduced risk of new fractures versus placebo.
 
 PTHrP signaling plays roles in developmental epithelial-mesenchymal interactions, which could in theory link to esophageal development. However, this link is speculative and not supported by the data. Esophageal malformation is a congenital structural defect, and it is unlikely that a postnatal bone-anabolic agent could correct it. The high TxGNN score reflects a model prediction rather than clinical or published evidence.
 
@@ -119,12 +119,13 @@ The prediction is supported only by a model score, with no clinical trials, no l
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is cancelled, and warnings and contraindications are unavailable, so safety screening cannot proceed" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "of why the EU authorization was cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tymlos (abaloparatide) prescribing information, Radius Health, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=712143d9-e21e-4013-bb3b-3426a21060a8) |
 
 <!-- review:end log -->
 

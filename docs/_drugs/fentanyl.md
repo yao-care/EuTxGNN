@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **nephrogenic syndrome of inappro
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Fentanyl is generally known as a mu-opioid receptor agonist.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for fentanyl: "Fentanyl Citrate Injection is an opioid agonist, whose principal actions of therapeutic value are analgesia and sedation." ([DailyMed: fentanyl citrate prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58dcd3f7-e3d8-4929-a186-8f680a51ff11), label version 2026-10-23; accessed 2026-11-19.) Fentanyl is generally known as a mu-opioid receptor agonist.
 
 Nephrogenic syndrome of inappropriate antidiuresis (NSIAD) is caused by gain-of-function variants in the vasopressin V2 receptor (AVPR2). Fentanyl has no established action on this pathway, so no plausible mechanistic link is apparent. The high score of 0.9946 reflects a model-based computational prediction only, and no study in the compiled data examines this disease. The prediction should be treated as a hypothesis, not as supported evidence.
 
@@ -104,6 +104,19 @@ The prediction rests on a model score alone. No trials or publications address n
 - Preclinical or clinical studies that directly address this disease
 - Safety information from the SmPC (warnings and contraindications)
 - Assessment of route and formulation suitability for the proposed use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: fentanyl citrate prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58dcd3f7-e3d8-4929-a186-8f680a51ff11) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

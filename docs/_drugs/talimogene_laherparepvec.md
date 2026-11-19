@@ -54,7 +54,7 @@ Talimogene laherparepvec is an oncolytic herpes simplex virus that is injected d
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on what is known about the product class, talimogene laherparepvec is an oncolytic herpes simplex virus engineered to express GM-CSF. It is designed to replicate in tumour tissue and stimulate an immune response. This approach is not specific to one tumour histology.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for talimogene laherparepvec: "IMLYGIC has been genetically modified to replicate within tumors and to produce the immune stimulatory protein GM-CSF. IMLYGIC causes lysis of tumors, followed by release of tumor-derived antigens, which together with virally derived GM-CSF may promote an antitumor immune response." ([DailyMed: Imlygic (talimogene laherparepvec) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=64ffb680-ea8c-42fc-9649-9e8c0eb77ddb), label version 2024-11-29; accessed 2026-11-19.) Based on what is known about the product class, talimogene laherparepvec is an oncolytic herpes simplex virus engineered to express GM-CSF. It is designed to replicate in tumour tissue and stimulate an immune response. This approach is not specific to one tumour histology.
 
 Glottis squamous cell carcinoma is a head and neck tumour that can, in principle, be reached for direct injection. This makes the general oncolytic and immune-stimulating mechanism conceivably applicable. However, the link is theoretical: no trials or literature were supplied. Injection into the larynx also raises airway-related safety concerns.
 
@@ -113,11 +113,12 @@ The prediction is supported only by the TxGNN model, with no clinical trials or 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "There are no clinical trials or publications, the target label "CMM7" cannot be mapped to a defined disease, and the only EU authorization i" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Imlygic (talimogene laherparepvec) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=64ffb680-ea8c-42fc-9649-9e8c0eb77ddb) |
 
 <!-- review:end log -->
 

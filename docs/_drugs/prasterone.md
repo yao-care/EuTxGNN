@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **heparin cofactor 2 deficiency
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, prasterone is the endogenous steroid DHEA, a precursor of sex hormones. Its efficacy in postmenopausal vulvar and vaginal atrophy has been established, and it is thought to act locally through conversion to oestrogens and androgens. The only pharmacological record compiled for this report is an interaction with the glycine receptor, which has no obvious connection to coagulation.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for prasterone: "Prasterone is an inactive endogenous steroid and is converted into active androgens and/or estrogens. The mechanism of action of INTRAROSA in postmenopausal women with vulvar and vaginal atrophy is not fully established." ([DailyMed: Intrarosa (prasterone) prescribing information, Millicent US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ada639d4-bac0-2ad0-e053-2a95a90afce7), label version 2026-07-17; accessed 2026-11-19.) Based on known information, prasterone is the endogenous steroid DHEA, a precursor of sex hormones. Its efficacy in postmenopausal vulvar and vaginal atrophy has been established, and it is thought to act locally through conversion to oestrogens and androgens. The only pharmacological record compiled for this report is an interaction with the glycine receptor, which has no obvious connection to coagulation.
 
 The original and predicted indications are not closely related. Heparin cofactor 2 deficiency is a hereditary deficiency of a serine protease inhibitor involved in coagulation. No established mechanism links DHEA to correcting it. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -105,11 +105,12 @@ The prediction rests on a model score alone (L5). The biological link to heparin
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "There are no clinical trials or publications, no established mechanism, and the only EU authorisation has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Intrarosa (prasterone) prescribing information, Millicent US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ada639d4-bac0-2ad0-e053-2a95a90afce7) |
 
 <!-- review:end log -->
 

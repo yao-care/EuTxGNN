@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Levetiracetam is generally known as an antiepileptic that acts on the synaptic vesicle protein SV2A.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for levetiracetam: "The precise mechanism(s) by which levetiracetam exerts its antiepileptic effect is unknown. A saturable and stereoselective neuronal binding site in rat brain tissue has been described for levetiracetam. Experimental data indicate that this binding site is the synaptic vesicle protein SV2A, thought to be involved in the regulation of vesicle exocytosis." ([DailyMed: Keppra (levetiracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6d5784d-abf9-45fe-ac5a-d5c53bd50f7e), label version 2026-11-11; accessed 2026-11-19.) Levetiracetam is generally known as an antiepileptic that acts on the synaptic vesicle protein SV2A.
 
 Beta-ketothiolase deficiency is an inherited disorder of ketone body and isoleucine metabolism. Its main neurological risk is ketoacidotic crisis, not primary epilepsy. No mechanistic link between SV2A modulation and this metabolic defect is evident.
 
@@ -106,6 +106,19 @@ The prediction has a high model score (0.9990) but no supporting trials or liter
 - Detailed mechanism of action data
 - Warnings and contraindications from the SmPC
 - A review of whether the disease's low prevalence and metabolic (not epileptic) nature justify any study
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Keppra (levetiracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6d5784d-abf9-45fe-ac5a-d5c53bd50f7e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

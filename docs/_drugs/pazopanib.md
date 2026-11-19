@@ -59,7 +59,7 @@ Other high-ranking predictions with stronger trial evidence include liposarcoma,
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Pazopanib is known to be a multi-targeted inhibitor of VEGFR, PDGFR and c-Kit, which drive tumour angiogenesis and growth. Its efficacy in clear-cell RCC is established, and angiogenesis-driven signalling is also relevant in non-clear-cell and unclassified RCC, so the mechanism plausibly extends to this subgroup.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for pazopanib: "Pazopanib is a multi-tyrosine kinase inhibitor of vascular endothelial growth factor receptor (VEGFR)-1, VEGFR-2, VEGFR-3, platelet-derived growth factor receptor (PDGFR)-α and -β, fibroblast growth factor receptor (FGFR)-1 and -3, cytokine receptor (Kit), interleukin-2 receptor-inducible T-cell kinase (Itk), lymphocyte-specific protein tyrosine kinase (Lck), and transmembrane glycoprotein receptor tyrosine kinase (c-Fms). In vitro, pazopanib inhibited ligand-induced autophosphorylation of VEGFR-2, Kit, and PDGFR-β receptors." ([DailyMed: Votrient (pazopanib hydrochloride) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7), label version 2025-12-16; accessed 2026-11-19.) Pazopanib is known to be a multi-targeted inhibitor of VEGFR, PDGFR and c-Kit, which drive tumour angiogenesis and growth. Its efficacy in clear-cell RCC is established, and angiogenesis-driven signalling is also relevant in non-clear-cell and unclassified RCC, so the mechanism plausibly extends to this subgroup.
 
 This is an extension within the already approved RCC indication, not a true new-disease repurposing. Non-clear-cell RCC is under-represented in pivotal trials, so treatment is often extrapolated from clear-cell data. The available evidence is retrospective or single-arm and cannot establish comparative efficacy.
 
@@ -159,11 +159,12 @@ Label-based warnings and contraindications were not available. Please refer to t
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "noting that the only EU authorization on record is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Votrient (pazopanib hydrochloride) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7) |
 
 <!-- review:end log -->
 

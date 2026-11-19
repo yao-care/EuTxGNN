@@ -60,7 +60,7 @@ The model score appears to reflect similarity to HIV-1 rather than any real anti
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, cobicistat is a CYP3A inhibitor that works as a pharmacokinetic booster. It raises blood levels of co-administered antiretrovirals, but it has no antiviral activity of its own.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for cobicistat: "Cobicistat is a mechanism-based inhibitor of cytochrome P450 3A (CYP3A). Inhibition of CYP3A-mediated metabolism by cobicistat increases the systemic exposure of CYP3A substrates atazanavir and darunavir." ([DailyMed: Tybost (cobicistat) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3784c35c-e87f-410c-900b-8fd6313c6010), label version 2026-02-10; accessed 2026-11-19.) Based on known information, cobicistat is a CYP3A inhibitor that works as a pharmacokinetic booster. It raises blood levels of co-administered antiretrovirals, but it has no antiviral activity of its own.
 
 The high prediction score most likely reflects the closeness of simian immunodeficiency virus (SIV) infection to HIV-1 in the disease network used by the model. SIV is an animal-model disease with no clinical relevance for human repurposing. A direct effect of cobicistat on SIV is not expected. At most, it could act as a booster of a co-administered antiviral.
 
@@ -138,11 +138,12 @@ The prediction has no clinical or literature support and no plausible mechanism,
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "This authorization is recorded as valid, and the drug is marketed in this country (1 valid licence of 1)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tybost (cobicistat) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3784c35c-e87f-410c-900b-8fd6313c6010) |
 
 <!-- review:end log -->
 

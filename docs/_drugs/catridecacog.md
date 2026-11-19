@@ -54,7 +54,7 @@ Catridecacog is a recombinant factor XIII A-subunit used for long-term preventio
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the data compiled for this report. Catridecacog is a recombinant factor XIII A-subunit. Factor XIII cross-links fibrin and stabilizes the clot, which is why it is used to prevent bleeding when this factor is deficient.
+ChEMBL (EMBL-EBI) records the mechanism of action of catridecacog as: Coagulation factor XIII exogenous protein ([ChEMBL CHEMBL2108282 (catridecacog): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108282), CC BY-SA 3.0; accessed 2026-11-19.) Catridecacog is a recombinant factor XIII A-subunit. Factor XIII cross-links fibrin and stabilizes the clot, which is why it is used to prevent bleeding when this factor is deficient.
 
 Primary release disorder of platelets, however, stems from an intrinsic defect in platelet granule content or secretion. Replacing factor XIII acts downstream, on fibrin stabilization, and is not expected to correct that primary platelet defect. The link between the drug and this disease is therefore weak and speculative. The high TxGNN score is a computational output and is not supported by any study in the compiled data.
 
@@ -91,6 +91,19 @@ The prediction has no supporting clinical trials or publications (evidence level
 - Mechanism of action data for the drug
 - Preclinical or clinical evidence that factor XIII replacement benefits patients with platelet release disorders
 - Warnings and contraindications from the SmPC, to allow safety screening
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2108282 (catridecacog): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108282) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

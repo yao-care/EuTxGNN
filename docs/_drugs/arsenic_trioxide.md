@@ -60,7 +60,7 @@ The better-supported neighbouring prediction is the broader category **myelodysp
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for arsenic trioxide are not available in the data compiled for this report. The following is drawn from the literature and the rationale summaries compiled for this report. Arsenic trioxide is thought to act through induction of apoptosis, degradation of the PML-RARA fusion protein in APL, and effects on NF-kB and BCL2-family signalling.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for arsenic trioxide: "The mechanism of action of TRISENOX is not completely understood. Arsenic trioxide causes morphological changes and DNA fragmentation characteristic of apoptosis in NB4 human promyelocytic leukemia cells in vitro. Arsenic trioxide also causes damage or degradation of the fusion protein promyelocytic leukemia (PML)-retinoic acid receptor (RAR)-alpha." ([DailyMed: Trisenox (arsenic trioxide) prescribing information, Cephalon, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=101fc347-d0ad-4aee-8b06-9feb187fd741), label version 2022-06-30; accessed 2026-11-19.) The following is drawn from the literature and the rationale summaries compiled for this report. Arsenic trioxide is thought to act through induction of apoptosis, degradation of the PML-RARA fusion protein in APL, and effects on NF-kB and BCL2-family signalling.
 
 APL and MDS are both haematological malignancies of the bone marrow. Laboratory studies in MDS cells show that arsenic trioxide induces apoptosis through NF-kB/FLIP modulation and changes in BCL2-family genes, and it may also promote cell differentiation. It has been tested in MDS alone and in combination with ascorbic acid, decitabine, azacitidine, thalidomide, retinoids and cytarabine.
 
@@ -190,13 +190,14 @@ The exact predicted term, unclassified MDS, has a very high model score (0.9993)
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Arsenic trioxide is marketed: all 3 of 3 licences are valid in the data compiled for this report" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "with 3 of 3 licences valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "(3 of 3 licences are valid)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data for arsenic trioxide are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Trisenox (arsenic trioxide) prescribing information, Cephalon, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=101fc347-d0ad-4aee-8b06-9feb187fd741) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **bulbar polio**, but this is a
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Gilteritinib is known to be a FLT3/AXL tyrosine kinase inhibitor. Its efficacy in FLT3-mutated AML is the basis of its original approval.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for gilteritinib: "Gilteritinib is a small molecule that inhibits multiple receptor tyrosine kinases, including FMS-like tyrosine kinase 3 (FLT3). Gilteritinib demonstrated the ability to inhibit FLT3 receptor signaling and proliferation in cells exogenously expressing FLT3 including FLT3-ITD, tyrosine kinase domain mutations (TKD) FLT3-D835Y and FLT3-ITD-D835Y, and it induced apoptosis in leukemic cells expressing FLT3-ITD." ([DailyMed: Xospata (gilteritinib) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5ff59aa-9c0d-49a8-9053-1f179b482383), label version 2026-10-01; accessed 2026-11-19.) Gilteritinib is known to be a FLT3/AXL tyrosine kinase inhibitor. Its efficacy in FLT3-mutated AML is the basis of its original approval.
 
 Bulbar polio is a viral infection of motor neurons. No plausible mechanistic link between FLT3/AXL kinase inhibition and this disease was identified. The very high TxGNN score (0.9910) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No clinical trials or publications support it, so it should be treated as a hypothesis-generating signal, not a credible repurposing lead.
 
@@ -143,12 +143,13 @@ The prediction rests only on a TxGNN model (deep learning) score. There are no t
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "given the cancelled authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xospata (gilteritinib) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5ff59aa-9c0d-49a8-9053-1f179b482383) |
 
 <!-- review:end log -->
 

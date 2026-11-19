@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tildrakizumab is an antibody that blocks the p19 subunit of IL-23. Its efficacy in plaque psoriasis, an IL-23/IL-17-driven inflammatory skin disease, has been established, and mechanistically it may be applicable to diabetic retinopathy.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for tildrakizumab: "Tildrakizumab is a humanized IgG1/k monoclonal antibody that selectively binds to the p19 subunit of IL-23 and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in inflammatory and immune responses." ([DailyMed: Ilumya (tildrakizumab-asmn) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6a322bb-51b9-4f0e-8642-62a9682ffcde), label version 2026-11-02; accessed 2026-11-19.) Based on known information, tildrakizumab is an antibody that blocks the p19 subunit of IL-23. Its efficacy in plaque psoriasis, an IL-23/IL-17-driven inflammatory skin disease, has been established, and mechanistically it may be applicable to diabetic retinopathy.
 
 The proposed link is that chronic low-grade inflammation, including IL-23/IL-17 signalling, may contribute to retinal microvascular damage in diabetic retinopathy. This is speculative. No data compiled for this report show that tildrakizumab acts on retinal disease.
 
@@ -117,12 +117,13 @@ The prediction is supported only by the TxGNN model score. The evidence level is
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "There are no registered clinical trials or publications, the mechanism of action data are missing, and the only EU authorization is cancelle" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of why the EU authorization was cancelled (e.g., commercial or safety reasons)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ilumya (tildrakizumab-asmn) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6a322bb-51b9-4f0e-8642-62a9682ffcde) |
 
 <!-- review:end log -->
 

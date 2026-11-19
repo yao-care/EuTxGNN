@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **urinary tract infection** (ma
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, micafungin is an echinocandin that inhibits fungal 1,3-beta-D-glucan synthase and is fungicidal against most Candida species. Its efficacy in invasive candidiasis is established.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for micafungin: "Micafungin is a member of the echinocandin class of antifungal agents. […] Micafungin inhibits the synthesis of 1,3-beta-D-glucan, an essential component of fungal cell walls, which is not present in mammalian cells. Activity in Animal Models of Candidiasis Activity of micafungin has been demonstrated in both mucosal and disseminated murine and rabbit models of candidiasis." ([DailyMed: Micafungin (micafungin sodium) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33e579c1-b315-44cb-a690-e2dd2cdf44ee), label version 2025-11-08; accessed 2026-11-19.) Based on known pharmacology, micafungin is an echinocandin that inhibits fungal 1,3-beta-D-glucan synthase and is fungicidal against most Candida species. Its efficacy in invasive candidiasis is established.
 
 Candida UTI (candiduria) is a fungal infection within the drug's spectrum, so the prediction is mechanistically plausible. Echinocandins have traditionally been considered poor options for urinary infections because little drug is excreted in urine. However, reports suggest urinary micafungin levels can exceed the MICs of many Candida species (PMID 27424599). This is especially relevant for fluconazole-resistant organisms such as *C. krusei* and *C. glabrata*, and for patients in whom amphotericin B or flucytosine is undesirable, such as transplant recipients.
 
@@ -128,12 +128,13 @@ The mechanistic link for Candida UTI is plausible, and small case series and coh
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is cancelled, and the label's liver-tumour warning and the kidney-related contraindication signals require careful" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "given the cancelled EU authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Micafungin (micafungin sodium) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33e579c1-b315-44cb-a690-e2dd2cdf44ee) |
 
 <!-- review:end log -->
 

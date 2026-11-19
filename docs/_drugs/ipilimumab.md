@@ -58,7 +58,7 @@ Ipilimumab (Yervoy) is an anti-CTLA-4 antibody, originally used to treat advance
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Ipilimumab is known to be a CTLA-4 checkpoint inhibitor. It enhances T-cell priming and activation, and its efficacy in melanoma is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ipilimumab: "CTLA-4 is a negative regulator of T-cell activity. Ipilimumab is a monoclonal antibody that binds to CTLA-4 and blocks the interaction of CTLA-4 with its ligands, CD80/CD86. Blockade of CTLA-4 has been shown to augment T-cell activation and proliferation, including the activation and proliferation of tumor infiltrating T-effector cells." ([DailyMed: Yervoy (ipilimumab) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2265ef30-253e-11df-8a39-0800200c9a66), label version 2026-08-20; accessed 2026-11-19.) Ipilimumab is known to be a CTLA-4 checkpoint inhibitor. It enhances T-cell priming and activation, and its efficacy in melanoma is established.
 
 **Choroideremia is not a plausible target.** It is an X-linked inherited retinal degeneration caused by loss of function of the CHM (REP1) gene. It is neither an immune-mediated nor an oncologic disease, so CTLA-4 blockade has no credible mechanistic connection. The high score (0.9906) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Immune checkpoint inhibition could also add ocular immune-related toxicity risk in an already degenerating retina.
 
@@ -177,11 +177,12 @@ Warnings and contraindications from the product label were not available. Please
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Clarification of the cancelled EU authorization status and whether other valid products exist" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Yervoy (ipilimumab) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2265ef30-253e-11df-8a39-0800200c9a66) |
 
 <!-- review:end log -->
 

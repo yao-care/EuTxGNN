@@ -56,7 +56,7 @@ This prediction rests on the model score alone.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, selpercatinib is a selective RET kinase inhibitor, and its efficacy is established in RET-driven cancers. No data link RET signalling to the development of pulmonary hypertension.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for selpercatinib: "Selpercatinib is a kinase inhibitor. Selpercatinib inhibited wild-type RET and multiple mutated RET isoforms as well as VEGFR1 and VEGFR3 with IC 50 values ranging from 0.92 nM to 67.8 nM. In other enzyme assays, selpercatinib also inhibited FGFR 1, 2, and 3 at higher concentrations that were still clinically achievable." ([DailyMed: Retevmo (selpercatinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7fa848ba-a59c-4144-9f52-64d090f4d828), label version 2026-09-11; accessed 2026-11-19.) Based on known information, selpercatinib is a selective RET kinase inhibitor, and its efficacy is established in RET-driven cancers. No data link RET signalling to the development of pulmonary hypertension.
 
 The original indications (RET-driven tumours) and pulmonary hypertension are biologically very different. Vascular remodelling in pulmonary arterial hypertension involves other pathways, such as BMPR2 and PDGFR. Tyrosine kinase inhibitors have been explored in this setting (for example imatinib, which targets PDGFR), but that rationale does not carry over to selective RET inhibition.
 
@@ -130,12 +130,13 @@ The prediction is supported only by the model score (evidence level L5). There a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization has been cancelled, and the interaction burden is substantial" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the cancelled EU authorization status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Retevmo (selpercatinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7fa848ba-a59c-4144-9f52-64d090f4d828) |
 
 <!-- review:end log -->
 

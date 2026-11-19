@@ -56,7 +56,7 @@ The prediction is computational only and is not backed by actual studies.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, natalizumab blocks alpha4-integrin and limits the trafficking of leukocytes into tissues. This is how it reduces inflammatory activity in multiple sclerosis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for natalizumab: "Natalizumab binds to the α4-subunit of α4β1 and α4β7 integrins expressed on the surface of all leukocytes except neutrophils, and inhibits the α4-mediated adhesion of leukocytes to their counter-receptor(s). The receptors for the α4 family of integrins include vascular cell adhesion molecule-1 (VCAM-1), which is expressed on activated vascular endothelium, and mucosal addressin cell adhesion molecule-1 (MAdCAM-1) present on vascular endothelial cells of the gastrointestinal tract." ([DailyMed: Tysabri (natalizumab) prescribing information, Biogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c5fdde91-1989-4dd2-9129-4f3323ea2962), label version 2026-10-09; accessed 2026-11-19.) Based on known pharmacology, natalizumab blocks alpha4-integrin and limits the trafficking of leukocytes into tissues. This is how it reduces inflammatory activity in multiple sclerosis.
 
 Because excessive leukocyte infiltration is also a feature of airway inflammation, a conceptual link to bronchitis can be drawn. However, natalizumab also causes immunosuppression and raises infection risk, including progressive multifocal leukoencephalopathy (PML). That works against its use in an infectious or inflammatory airway condition. No trials or publications connect natalizumab to bronchitis, so the high model score is not supported by evidence.
 
@@ -130,12 +130,13 @@ The bronchitis prediction rests on a high model score alone, with no trials or p
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both EU authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "the reasons for the authorization cancellations and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tysabri (natalizumab) prescribing information, Biogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c5fdde91-1989-4dd2-9129-4f3323ea2962) |
 
 <!-- review:end log -->
 

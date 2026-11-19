@@ -56,7 +56,7 @@ However, **no clinical trials and no publications** currently support this speci
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, irbesartan is an AT1 receptor blocker (an angiotensin II receptor antagonist). Its efficacy in hypertension and in renal disease associated with hypertension and type 2 diabetes is already established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for irbesartan: "Angiotensin II is a potent vasoconstrictor formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the primary vasoactive hormone of the renin-angiotensin system, and an important component in the pathophysiology of hypertension. […] Irbesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively binding to the AT 1 angiotensin II receptor found in many tissues (e.g., vascular smooth muscle, adrenal gland)." ([DailyMed: Avapro (irbesartan) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7885b2a8-be4e-48ab-8113-4e6ab791eb98), label version 2026-08-24; accessed 2026-11-19.) Based on known pharmacology, irbesartan is an AT1 receptor blocker (an angiotensin II receptor antagonist). Its efficacy in hypertension and in renal disease associated with hypertension and type 2 diabetes is already established.
 
 Malignant hypertensive renal disease is kidney injury driven by severe, accelerated hypertension, which is closely related to the approved indications. Blocking the renin-angiotensin system could lower blood pressure and reduce renal injury, so the prediction is biologically plausible as a close extension of the approved use.
 
@@ -133,12 +133,13 @@ The prediction is mechanistically plausible but has no clinical trial or literat
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All five authorizations are valid; irbesartan as a single agent is currently marketed" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "with all 5 authorizations currently valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Avapro (irbesartan) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7885b2a8-be4e-48ab-8113-4e6ab791eb98) |
 
 <!-- review:end log -->
 

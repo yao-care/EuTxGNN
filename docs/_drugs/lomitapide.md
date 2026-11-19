@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **marcothrombocytopenia with mi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Lomitapide is known to inhibit microsomal triglyceride transfer protein (MTP), which is involved in assembling lipoproteins in the liver and intestine.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lomitapide: "JUXTAPID directly binds and inhibits microsomal triglyceride transfer protein (MTP), which resides in the lumen of the endoplasmic reticulum, thereby preventing the assembly of apo B-containing lipoproteins in enterocytes and hepatocytes. This inhibits the synthesis of chylomicrons and VLDL." ([DailyMed: Juxtapid (lomitapide mesylate) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=61a0be9d-ee58-43e0-b5cb-141011835081), label version 2026-03-30; accessed 2026-11-19.) Lomitapide is known to inhibit microsomal triglyceride transfer protein (MTP), which is involved in assembling lipoproteins in the liver and intestine.
 
 No plausible mechanistic link has been identified between MTP inhibition and platelet biology or mitral valve disease. The high score (0.9992) reflects proximity to related platelet disorders within the model's network of relationships, and it should not be read as biological support. The other platelet-related conditions predicted for this drug (for example thrombocytopenia, Glanzmann thrombasthenia and dense granule disease) show the same pattern: high model scores with no trials or literature behind them.
 
@@ -85,6 +85,19 @@ The prediction has no supporting clinical trials or publications and no identifi
 - Detailed mechanism of action data
 - Warnings and contraindications from the SmPC, to assess the safety profile in a new patient population
 - A review of the interactions listed above for the intended population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Juxtapid (lomitapide mesylate) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=61a0be9d-ee58-43e0-b5cb-141011835081) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

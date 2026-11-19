@@ -54,7 +54,7 @@ Linaclotide is a guanylate cyclase-C (GC-C) agonist that acts locally in the gut
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. From general pharmacology, linaclotide is a GC-C agonist that works locally in the gut lumen, with minimal systemic absorption.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for linaclotide: "Linaclotide is structurally related to human guanylin and uroguanylin and functions as a guanylate cyclase-C (GC-C) agonist. Both linaclotide and its active metabolite bind to GC-C and act locally on the luminal surface of the intestinal epithelium." ([DailyMed: Linzess (linaclotide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d09771d-69da-4c9d-92b6-74374ffa130f), label version 2026-10-10; accessed 2026-11-19.) From general pharmacology, linaclotide is a GC-C agonist that works locally in the gut lumen, with minimal systemic absorption.
 
 A mechanistic route from this local intestinal action to cauda equina syndrome, a neurological compression condition, is not plausible. The high model score most likely reflects shared features such as bowel and bladder dysfunction, rather than a pharmacological link. The prediction should therefore be treated as a hypothesis without support, not as a finding.
 
@@ -93,6 +93,19 @@ The prediction has no supporting trials or publications (Level L5), and there is
 - Any direct clinical or preclinical evidence in cauda equina syndrome
 - A credible mechanistic hypothesis, supported by mechanism of action data
 - Warnings and contraindications from the SmPC for safety screening
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Linzess (linaclotide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d09771d-69da-4c9d-92b6-74374ffa130f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

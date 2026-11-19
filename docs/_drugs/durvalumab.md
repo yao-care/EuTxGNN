@@ -56,7 +56,7 @@ The strongest supporting signal among the other predictions is for **endocervica
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, durvalumab is an antibody against PD-L1. It is thought to release the brake that tumours place on T cells, restoring immune attack against the cancer.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for durvalumab: "Expression of programmed cell death ligand-1 (PD-L1) can be induced by inflammatory signals (e.g., IFN-gamma) and can be expressed on both tumor cells and tumor-associated immune cells in the tumor microenvironment. PD-L1 blocks T-cell function and activation through interaction with PD-1 and CD80 (B7.1). […] Durvalumab is a human immunoglobulin G1 kappa (IgG1κ) monoclonal antibody that binds to PD-L1 and blocks the interaction of PD-L1 with PD-1 and CD80 (B7.1)." ([DailyMed: Imfinzi (durvalumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3), label version 2026-08-31; accessed 2026-11-19.) Based on known information, durvalumab is an antibody against PD-L1. It is thought to release the brake that tumours place on T cells, restoring immune attack against the cancer.
 
 Durvalumab holds an EU licence for advanced or recurrent endometrial cancer (with carboplatin and paclitaxel, followed by maintenance therapy). Uterine ligament adenocarcinoma is a related gynaecologic adenocarcinoma, so a link through the PD-1/PD-L1 pathway is biologically plausible. However, this is an indirect inference. The prediction rests on the model score alone, and this rare tumour type has no direct clinical or literature support.
 
@@ -126,6 +126,19 @@ The prediction for uterine ligament adenocarcinoma rests only on a high model sc
 - Tumour PD-L1 expression and immune microenvironment data for this rare histology
 - Mechanism of action data and SmPC safety information (warnings and contraindications)
 - If prioritising the better-supported endocervical carcinoma prediction, efficacy data beyond the single Phase 1 trial, ideally randomised, and verification of the exact enrolled population in NCT03452332
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Imfinzi (durvalumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

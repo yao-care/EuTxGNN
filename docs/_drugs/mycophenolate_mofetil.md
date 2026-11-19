@@ -60,7 +60,7 @@ Mycophenolic acid, the active form of mycophenolate mofetil, inhibits inosine mo
 
 Laboratory work and early clinical reports support this logic. In a small series, adding the drug to abacavir-containing regimens was associated with lower intracellular deoxyguanosine triphosphate and lower plasma HIV-1 RNA. However, controlled clinical studies have not shown durable virologic benefit. Immunosuppression is also a concern in people with HIV. The rationale is biologically plausible but remains a research question rather than an established treatment.
 
-Detailed mechanism-of-action data were not available beyond the IMPDH-based reasoning above.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for mycophenolate mofetil: "Mycophenolate mofetil (MMF) is absorbed following oral administration and hydrolyzed to mycophenolic acid (MPA), the active metabolite. MPA is a selective uncompetitive inhibitor of the two isoforms (type I and type II) of inosine monophosphate dehydrogenase (IMPDH) leading to inhibition of the de novo pathway of guanosine nucleotide synthesis and blocks DNA synthesis." ([DailyMed: Myhibbin (mycophenolate mofetil) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d9af72d6-7b3e-4c08-94b9-1d8b499cb7f9), label version 2026-07-31; accessed 2026-11-19.)
 
 ## Clinical Trial Evidence
 
@@ -125,6 +125,18 @@ The evidence level is L2. It rests on one randomized trial of antiretroviral the
 - Detailed mechanism-of-action data on guanosine depletion and nucleoside-analogue synergy in HIV.
 - A safety and infection-monitoring plan for immunosuppression in people with HIV, including interactions with antiretroviral regimens.
 - SmPC warnings and contraindications for formal safety screening.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available beyond the IMPDH-based reasoning above" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Myhibbin (mycophenolate mofetil) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d9af72d6-7b3e-4c08-94b9-1d8b499cb7f9) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

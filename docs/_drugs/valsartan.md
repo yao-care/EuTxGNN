@@ -60,7 +60,7 @@ The prediction rests mainly on the model score and mechanistic plausibility.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, valsartan is an angiotensin II type 1 (AT1) receptor blocker. Its efficacy in essential hypertension and, as part of sacubitril/valsartan, in heart failure with reduced ejection fraction is established, and mechanistically it may be applicable to malignant hypertensive renal disease.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for valsartan: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Diovan (valsartan) blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: Diovan (valsartan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ddba454-f3e6-43c2-a7a6-58365d297213), label version 2026-08-11; accessed 2026-11-19.) Based on known pharmacology, valsartan is an angiotensin II type 1 (AT1) receptor blocker. Its efficacy in essential hypertension and, as part of sacubitril/valsartan, in heart failure with reduced ejection fraction is established, and mechanistically it may be applicable to malignant hypertensive renal disease.
 
 Severe hypertension with kidney injury is strongly driven by angiotensin II. Blocking the AT1 receptor could plausibly reduce angiotensin II-mediated vascular injury and nephrosclerosis. Valsartan is already indicated for hypertension, so the new indication is a more severe form of the same disease family.
 
@@ -151,13 +151,14 @@ The prediction score is high and the AT1-blockade mechanism is plausible. Howeve
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Review of the current regulatory status, given that all nine licences are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: ": 9 of 9 licences are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "and all EU authorizations for valsartan-containing products are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Diovan (valsartan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ddba454-f3e6-43c2-a7a6-58365d297213) |
 
 <!-- review:end log -->
 

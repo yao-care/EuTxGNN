@@ -54,7 +54,7 @@ Enzalutamide is an oral androgen receptor inhibitor that is already marketed in 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Enzalutamide belongs to the class of androgen receptor signalling inhibitors, so it acts by blocking androgen-driven signalling in target tissue.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for enzalutamide: "Enzalutamide is an androgen receptor inhibitor that acts on different steps in the androgen receptor signaling pathway. Enzalutamide has been shown to competitively inhibit androgen binding to androgen receptors; and consequently, inhibits nuclear translocation of androgen receptors and their interaction with DNA." ([DailyMed: Xtandi (enzalutamide) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf), label version 2026-07-28; accessed 2026-11-19.) Enzalutamide belongs to the class of androgen receptor signalling inhibitors, so it acts by blocking androgen-driven signalling in target tissue.
 
 Prostate tissue depends on androgen receptor biology, which is the only plausible link to this prediction. Prostate leiomyoma is a rare benign tumour of smooth-muscle (mesenchymal) origin. Whether its growth is androgen receptor-driven has not been established in the data reviewed here.
 
@@ -110,6 +110,19 @@ The prediction score is high (0.9957), but there are no clinical trials or publi
 - Detailed mechanism-of-action data for enzalutamide.
 - A review of the SmPC warnings and contraindications, which are not captured in the compiled data, for the relevant patient population.
 - A feasibility assessment for a rare-disease study, such as a registry or case-based evidence.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xtandi (enzalutamide) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

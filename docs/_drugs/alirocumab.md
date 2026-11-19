@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **X-linked ichthyosis without s
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, alirocumab is a fully human antibody against PCSK9 (proprotein convertase subtilisin/kexin type 9). By blocking PCSK9, it increases LDL receptor availability on liver cells and lowers circulating LDL-C. Its efficacy in hypercholesterolaemia is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for alirocumab: "Alirocumab is a human monoclonal antibody that binds to proprotein convertase subtilisin kexin type 9 (PCSK9). PCSK9 binds to the low-density lipoprotein (LDL) receptors (LDLR) on the surface of hepatocytes to promote LDLR degradation within the liver." ([DailyMed: Praluent (alirocumab) prescribing information, Regeneron Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7bcfbac2-e8ac-4569-8edc-bcde3b1fd172), label version 2026-07-16; accessed 2026-11-19.) Based on known information, alirocumab is a fully human antibody against PCSK9 (proprotein convertase subtilisin/kexin type 9). By blocking PCSK9, it increases LDL receptor availability on liver cells and lowers circulating LDL-C. Its efficacy in hypercholesterolaemia is established.
 
 For the predicted indication, no identifiable mechanistic link was found. X-linked ichthyosis involves steroid sulfatase (STS) dysfunction and cholesterol sulfate accumulation in the stratum corneum. PCSK9 inhibition lowers circulating LDL-C and does not act on this pathway. The high score (0.9943) is a model output with no supporting trials or literature, so it should be treated as a hypothesis-generating signal only.
 
@@ -113,11 +113,12 @@ The prediction has no clinical trials or publications behind it (L5), and the bi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "In addition, the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Praluent (alirocumab) prescribing information, Regeneron Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7bcfbac2-e8ac-4569-8edc-bcde3b1fd172) |
 
 <!-- review:end log -->
 

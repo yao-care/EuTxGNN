@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **manic bipolar affective disor
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on the literature, lacosamide enhances slow inactivation of voltage-gated sodium channels and binds CRMP2, which may stabilise neuronal hyperexcitability.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lacosamide: "The precise mechanism by which Lacosamide oral solution exerts its antiepileptic effects in humans remains to be fully elucidated. In vitro electrophysiological studies have shown that lacosamide selectively enhances slow inactivation of voltage-gated sodium channels, resulting in stabilization of hyperexcitable neuronal membranes and inhibition of repetitive neuronal firing." ([DailyMed: Lacosamide Oral Solution (lacosamide) prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b10986e-0809-b6d1-e063-6394a90a5738), label version 2026-09-09; accessed 2026-11-19.) Based on the literature, lacosamide enhances slow inactivation of voltage-gated sodium channels and binds CRMP2, which may stabilise neuronal hyperexcitability.
 
 Other sodium-channel-active antiseizure drugs, such as lamotrigine and carbamazepine, are used as mood stabilisers. This offers a plausible mechanistic link to mania. However, no prospective trial supports it for this disease, and the link remains a hypothesis.
 
@@ -109,6 +109,19 @@ The TxGNN score is very high (0.9996), but no clinical trial studies lacosamide 
 - Detailed mechanism of action data
 - Review of the SmPC warnings and contraindications, with attention to cardiac conduction and haematological monitoring
 - Confirmation of the dosage forms for the authorised products
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lacosamide Oral Solution (lacosamide) prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b10986e-0809-b6d1-e063-6394a90a5738) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

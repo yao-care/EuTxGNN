@@ -56,7 +56,7 @@ The prediction mostly reflects overlap with depression and anxiety categories ra
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Published literature describes vortioxetine as a multimodal serotonergic antidepressant: it inhibits the serotonin transporter (SERT), acts as a 5-HT1A agonist and 5-HT1B partial agonist, and antagonises 5-HT3, 5-HT7 and 5-HT1D receptors.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for vortioxetine: "The mechanism of the antidepressant effect of vortioxetine is not fully understood, but is thought to be related to its enhancement of serotonergic activity in the CNS through inhibition of the reuptake of serotonin (5-HT). It also has several other activities including 5-HT3 receptor antagonism and 5-HT1A receptor agonism." ([DailyMed: Trintellix (vortioxetine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bd0107e5-1cb9-4b40-a6af-fa65fcbe6b4e), label version 2026-04-23; accessed 2026-11-19.) Published literature describes vortioxetine as a multimodal serotonergic antidepressant: it inhibits the serotonin transporter (SERT), acts as a 5-HT1A agonist and 5-HT1B partial agonist, and antagonises 5-HT3, 5-HT7 and 5-HT1D receptors.
 
 "Neurotic disorder" is an older, broad diagnostic category that overlaps with today's depressive and anxiety disorders. Because vortioxetine is already approved for depression, the model's high score probably reflects this semantic overlap rather than a distinct, testable indication. The only retrieved paper is a case report and narrative discussion of neurotic depression treated with antidepressants and psychotherapy. It contains no vortioxetine-specific data.
 
@@ -122,12 +122,13 @@ The top-ranked prediction, neurotic disorder, is a historical umbrella term with
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Vortioxetine's EU authorization is also cancelled, which adds a regulatory hurdle" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the cancelled EU authorization status and its reasons" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Trintellix (vortioxetine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bd0107e5-1cb9-4b40-a6af-fa65fcbe6b4e) |
 
 <!-- review:end log -->
 

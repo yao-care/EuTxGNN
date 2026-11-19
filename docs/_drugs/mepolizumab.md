@@ -56,7 +56,7 @@ but the data compiled for this report contain **0 clinical trials** and only **1
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, mepolizumab is an anti-IL-5 monoclonal antibody that depletes eosinophils. Its efficacy in eosinophil-driven diseases (severe eosinophilic asthma, EGPA, HES and CRSwNP) is reflected in its approved indications.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for mepolizumab: "Mepolizumab is an IL-5 antagonist (IgG1 kappa). IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation, and survival of eosinophils. Mepolizumab binds to IL-5 with a dissociation constant of 100 pM, inhibiting the bioactivity of IL-5 by blocking its binding to the alpha chain of the IL-5 receptor complex expressed on the eosinophil cell surface." ([DailyMed: Nucala (mepolizumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea), label version 2025-08-06; accessed 2026-11-19.) Based on known information, mepolizumab is an anti-IL-5 monoclonal antibody that depletes eosinophils. Its efficacy in eosinophil-driven diseases (severe eosinophilic asthma, EGPA, HES and CRSwNP) is reflected in its approved indications.
 
 The only supporting report is a single case (PMID 28648630). It describes a steroid-resistant hypereosinophilic immune diathesis that resolved with mepolizumab, together with improvement of a mixed thrombotic microangiopathy. This suggests that immune-mediated cytopenias might improve when eosinophil-driven immune dysregulation is the underlying cause.
 
@@ -121,12 +121,13 @@ The prediction rests on a high computational score and a single indirect case re
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization is also listed as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "given that it is listed as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nucala (mepolizumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea) |
 
 <!-- review:end log -->
 

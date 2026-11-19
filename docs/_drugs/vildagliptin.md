@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **classic stiff person syndrome
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled record. The pharmacology data show that vildagliptin targets dipeptidyl peptidase 4 (DPP-4), and also DPP-8, DPP-9 and TRPV4. DPP-4 inhibition raises incretin hormone levels (GLP-1 and GIP), which supports insulin secretion and lowers glucagon in type 2 diabetes.
+ChEMBL (EMBL-EBI) records the mechanism of action of vildagliptin as: Dipeptidyl peptidase IV inhibitor ([ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703), CC BY-SA 3.0; accessed 2026-11-19.) The pharmacology data show that vildagliptin targets dipeptidyl peptidase 4 (DPP-4), and also DPP-8, DPP-9 and TRPV4. DPP-4 inhibition raises incretin hormone levels (GLP-1 and GIP), which supports insulin secretion and lowers glucagon in type 2 diabetes.
 
 No direct mechanistic link to stiff person syndrome has been identified. Stiff person syndrome is an autoimmune neurological disorder, often associated with anti-GAD65 antibodies, that affects GABAergic signalling. The high prediction score most likely reflects network proximity, such as GAD-related autoimmunity shared with type 1 diabetes, rather than a validated mechanism. The same pattern applies to the closely related "focal stiff limb syndrome", which received an identical score.
 
@@ -131,12 +131,13 @@ The prediction rests only on a model score, with no trials, no literature and no
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All three authorizations are currently valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "with 3 valid licences out of 3" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703) |
 
 <!-- review:end log -->
 

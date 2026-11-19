@@ -55,7 +55,7 @@ This is best understood as a subpopulation of the already approved HER2-positive
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, pertuzumab binds HER2 and blocks its heterodimerization with partners such as HER3 and EGFR. It is additive with trastuzumab, and its efficacy in HER2-positive breast cancer is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for pertuzumab: "Pertuzumab targets the extracellular dimerization domain (Subdomain II) of the human epidermal growth factor receptor 2 protein (HER2) and, thereby, blocks ligand-dependent heterodimerization of HER2 with other HER family members, including EGFR, HER3, and HER4. As a result, pertuzumab inhibits ligand-initiated intracellular signaling through two major signal pathways, mitogen-activated protein (MAP) kinase, and phosphoinositide 3-kinase (PI3K)." ([DailyMed: Perjeta (pertuzumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=17f85d17-ab71-4f5b-9fe3-0b8c822f69ff), label version 2026-04-30; accessed 2026-11-19.) Based on known information, pertuzumab binds HER2 and blocks its heterodimerization with partners such as HER3 and EGFR. It is additive with trastuzumab, and its efficacy in HER2-positive breast cancer is established.
 
 HER2-positive tumors that also express PR (HR+/HER2+) are covered by this mechanism. Crosstalk between HER2 and hormone receptor signaling supports combining anti-HER2 therapy with endocrine therapy, as tested in the WSG-TP-II trial. The prediction is therefore reasonable only for the HER2-positive subset of PR-positive disease. Most PR-positive breast cancers are HER2-negative, and for them there is no clear mechanistic rationale.
 
@@ -132,11 +132,12 @@ A completed Phase 3 trial and multiple randomized studies, including NeoSphere, 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "since the only EU authorization on record is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Perjeta (pertuzumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=17f85d17-ab71-4f5b-9fe3-0b8c822f69ff) |
 
 <!-- review:end log -->
 

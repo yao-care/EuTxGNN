@@ -56,7 +56,7 @@ but **no clinical trials and no publications** were found in the data compiled f
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. From general drug knowledge, givosiran is a small interfering RNA (siRNA) that targets ALAS1 (aminolevulinate synthase 1) in liver cells. Silencing ALAS1 lowers the build-up of the heme-pathway intermediates ALA and PBG, which drive attacks in acute hepatic porphyria.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for givosiran: "Givosiran is a double-stranded small interfering RNA that causes degradation of aminolevulinate synthase 1 ( ALAS1 ) mRNA in hepatocytes through RNA interference, reducing the elevated levels of liver ALAS1 mRNA. This leads to reduced circulating levels of neurotoxic intermediates aminolevulinic acid (ALA) and porphobilinogen (PBG), factors associated with attacks and other disease manifestations of AHP." ([DailyMed: Givlaari (givosiran sodium) prescribing information, Alnylam Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=167e663c-11e1-497b-a3fc-951d65d58eaa), label version 2025-09-10; accessed 2026-11-19.) From general drug knowledge, givosiran is a small interfering RNA (siRNA) that targets ALAS1 (aminolevulinate synthase 1) in liver cells. Silencing ALAS1 lowers the build-up of the heme-pathway intermediates ALA and PBG, which drive attacks in acute hepatic porphyria.
 
 No clear mechanistic link to portal vein thrombosis was identified. That condition is a vascular and coagulation disorder, and nothing established connects it to ALAS1 suppression. The score of 1.0000 comes from the TxGNN model (deep learning). The same score appears for several other unrelated liver conditions, which suggests it does not discriminate well between them. The score may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -98,6 +98,19 @@ The prediction has no supporting trials or publications and no plausible mechani
 - Warnings and contraindications from the EMA product information, which are needed before safety screening
 - Any preclinical or clinical evidence that ALAS1 or heme-pathway modulation affects portal vein thrombosis
 - A review of the full drug interaction list, especially for the Major interaction with eliglustat
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Givlaari (givosiran sodium) prescribing information, Alnylam Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=167e663c-11e1-497b-a3fc-951d65d58eaa) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

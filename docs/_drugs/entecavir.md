@@ -60,7 +60,7 @@ This prediction is best read as a model artifact rather than a true repurposing 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Entecavir is known to be a guanosine nucleoside analogue whose triphosphate form inhibits HBV polymerase (priming, reverse transcription and DNA synthesis). This is the basis of its established use in chronic hepatitis B.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for entecavir: "Entecavir is an antiviral drug against hepatitis B virus. […] Entecavir, a deoxyguanosine nucleoside analogue with activity against HBV reverse transcriptase (rt), is efficiently phosphorylated to the active triphosphate form, which has an intracellular half-life of 15 hours. By competing with the natural substrate deoxyguanosine triphosphate, entecavir triphosphate functionally inhibits all three activities of the HBV reverse transcriptase: base priming, reverse transcription of the negative strand from the pregenomic messenger RNA, and synthesis of the positive strand of HBV DNA." ([DailyMed: Baraclude (entecavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046e61c9-9298-4b2e-b76e-b26b81fecd20), label version 2019-11-06; accessed 2026-11-19.) Entecavir is known to be a guanosine nucleoside analogue whose triphosphate form inhibits HBV polymerase (priming, reverse transcription and DNA synthesis). This is the basis of its established use in chronic hepatitis B.
 
 The link to hepatitis C is weak. HCV is an RNA virus whose NS5B polymerase is not a target of entecavir, and entecavir has no recognised anti-HCV activity. The trials linked to this prediction concern patients co-infected with HCV and HBV, where entecavir prevents HBV reactivation during direct-acting antiviral (DAA) therapy for HCV. That is a supportive HBV indication, not treatment of HCV itself. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -149,6 +149,19 @@ The other predicted indications do not change this recommendation:
 - **Hepatitis B virus infection** is the already-labelled indication and works as a positive control. It carries L1 evidence, including Phase 3 trials such as NCT00395018 (liver transplant) and NCT00410072 (entecavir plus tenofovir vs entecavir). It would be a **Proceed with Guardrails** case, but it is not a new indication.
 - **HIV infection** has a resistance risk. Entecavir has weak HIV-1 activity and can select for the M184V mutation, so it should not be used as an HIV treatment.
 - **Feline AIDS, simian immunodeficiency virus infection, a rare neurodevelopmental disorder, animal viral hepatitis, hepatitis E and hepatitis A** have no supporting evidence of treatment benefit (L5 or HBV-only trials) and remain on Hold.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Baraclude (entecavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046e61c9-9298-4b2e-b76e-b26b81fecd20) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

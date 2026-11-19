@@ -56,7 +56,7 @@ No clinical trials or publications currently address this disease, so the predic
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Dexmedetomidine is known as a selective α2-adrenergic agonist with central sympatholytic and sedative effects. Alpha-2 agonists can modulate vasopressin release, which is the only mechanistic bridge to a water-balance disorder.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for dexmedetomidine: "PRECEDEX is a relatively selective centrally acting alpha 2 -adrenergic agonist with sedative properties. Alpha 2 selectivity is observed in animals following slow intravenous infusion of low and medium doses (10-300 mcg/kg)." ([DailyMed: Precedex (dexmedetomidine hydrochloride) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=92b7ddaa-e45a-4b64-a802-bb5df8771dd6), label version 2026-06-17; accessed 2026-11-19.) Dexmedetomidine is known as a selective α2-adrenergic agonist with central sympatholytic and sedative effects. Alpha-2 agonists can modulate vasopressin release, which is the only mechanistic bridge to a water-balance disorder.
 
 This bridge is weak. Nephrogenic syndrome of inappropriate antidiuresis is caused by activating mutations of the vasopressin V2 receptor (AVPR2) in the kidney. It occurs independently of vasopressin secretion, so a central sympatholytic mechanism is unlikely to be effective. The high score should therefore be read as a model output, not as pharmacological confirmation.
 
@@ -97,6 +97,19 @@ The prediction has no supporting trials or literature, and the known pathology (
 - Preclinical or case-level data in this disease
 - Mechanism of action data and SmPC-based warnings and contraindications
 - Review of the renal safety profile in the target population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Precedex (dexmedetomidine hydrochloride) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=92b7ddaa-e45a-4b64-a802-bb5df8771dd6) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

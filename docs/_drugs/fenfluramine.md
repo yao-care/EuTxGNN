@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **proximal 16p11.2 microdeletio
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, fenfluramine is an add-on antiepileptic medicine, its efficacy in seizures of Dravet syndrome and Lennox-Gastaut syndrome is the basis of its authorization, and it may mechanistically be applicable to other neurodevelopmental conditions with epilepsy.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for fenfluramine: "The precise mechanism by which fenfluramine exerts its therapeutic effects in the treatment of seizures associated with Dravet syndrome and Lennox-Gastaut syndrome is unknown. Fenfluramine and the metabolite, norfenfluramine, exhibit agonist activity at serotonin 5-HT2 receptors." ([DailyMed: Fintepla (fenfluramine) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e88f360e-33ad-4cd6-b2de-5ef885857c5d), label version 2026-10-22; accessed 2026-11-19.) Based on known information, fenfluramine is an add-on antiepileptic medicine, its efficacy in seizures of Dravet syndrome and Lennox-Gastaut syndrome is the basis of its authorization, and it may mechanistically be applicable to other neurodevelopmental conditions with epilepsy.
 
 The 16p11.2 deletion is associated with neurodevelopmental phenotypes, epilepsy and obesity. Fenfluramine is known to have serotonergic and sigma-1 receptor activity that is relevant to seizure control, which could form a loose link. This reasoning is speculative. No retrieved trial or publication supports it, and the very high score (0.9993) comes from the TxGNN model (deep learning). It may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -113,12 +113,13 @@ The prediction has a very high model score but no supporting clinical trials or 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization has been cancelled, and the drug carries known cardiopulmonary safety concerns" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "the cancelled EU authorization status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fintepla (fenfluramine) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e88f360e-33ad-4cd6-b2de-5ef885857c5d) |
 
 <!-- review:end log -->
 

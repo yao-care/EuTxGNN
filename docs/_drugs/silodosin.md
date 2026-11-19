@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, silodosin is a selective alpha-1A adrenergic receptor antagonist. It relaxes smooth muscle in the prostate and bladder neck, which relieves urinary symptoms in BPH.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for silodosin: "Silodosin is a selective antagonist of post-synaptic alpha-1 adrenoreceptors, which are located in the human prostate, bladder base, bladder neck, prostatic capsule, and prostatic urethra. Blockade of these alpha-1 adrenoreceptors can cause smooth muscle in these tissues to relax, resulting in an improvement in urine flow and a reduction in BPH symptoms." ([DailyMed: silodosin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94bca72c-c74a-4181-8b6a-a0a2f654a0a7), label version 2026-10-30; accessed 2026-11-19.) Based on general pharmacology, silodosin is a selective alpha-1A adrenergic receptor antagonist. It relaxes smooth muscle in the prostate and bladder neck, which relieves urinary symptoms in BPH.
 
 For the predicted indication, no mechanistic link has been established. Ambras syndrome is a rare genetic disorder of hair development, linked to chromosomal rearrangements that affect regulation of the TRPS1 gene. Alpha-1A blockade has no known role in this pathway. The same applies to the other highly ranked predictions (hypertrichosis, isolated genetic hair shaft abnormality, familial isolated trichomegaly, and others). Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -94,6 +94,19 @@ The prediction has no supporting clinical trials or literature (Evidence Level L
 - Product label warnings and contraindications (EMA documents), required before any safety screening
 - Preclinical or case-level evidence supporting a role for alpha-1A antagonism in the predicted condition
 - Review of other predicted indications for stronger candidates, since none of the top 10 currently has any trial or literature support
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: silodosin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94bca72c-c74a-4181-8b6a-a0a2f654a0a7) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **insomnia**, but the supportin
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on the published literature, sodium oxybate (gamma-hydroxybutyrate, GHB) acts as an agonist at GABA-B and GHB receptors. It is reported to increase slow-wave sleep and consolidate sleep architecture, which is mechanistically plausible for insomnia.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for sodium oxybate: "Xyrem is a CNS depressant. The mechanism of action of Xyrem in the treatment of narcolepsy is unknown. Sodium oxybate is the sodium salt of gamma-hydroxybutyrate (GHB), an endogenous compound and metabolite of the neurotransmitter GABA." ([DailyMed: Xyrem (sodium oxybate) prescribing information, Jazz Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=926eb076-a4a8-45e4-91ef-411f0aa4f3ca), label version 2025-07-01; accessed 2026-11-19.) Based on the published literature, sodium oxybate (gamma-hydroxybutyrate, GHB) acts as an agonist at GABA-B and GHB receptors. It is reported to increase slow-wave sleep and consolidate sleep architecture, which is mechanistically plausible for insomnia.
 
 Narcolepsy involves disrupted nocturnal sleep as well as daytime sleepiness. Sodium oxybate's benefit on night-time sleep in narcolepsy, together with open-label sleep data in Parkinson disease, offers an indirect link to insomnia. This remains a hypothesis. The product is labelled for narcolepsy, not insomnia, and no Phase 3 confirmation exists.
 
@@ -139,12 +139,13 @@ The only directly relevant evidence is one small Phase 2 insomnia trial (n=48) w
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorisation has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "given that the EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xyrem (sodium oxybate) prescribing information, Jazz Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=926eb076-a4a8-45e4-91ef-411f0aa4f3ca) |
 
 <!-- review:end log -->
 

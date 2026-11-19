@@ -56,7 +56,7 @@ The data compiled for this report contain **2 clinical trials** and **20 publica
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the data compiled for this report. Elbasvir is known as an HCV NS5A inhibitor, and it is used together with the NS3/4A protease inhibitor grazoprevir.
+ChEMBL (EMBL-EBI) records the mechanism of action of elbasvir as: Nonstructural protein 5A inhibitor ([ChEMBL CHEMBL3039514 (elbasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3039514), CC BY-SA 3.0; accessed 2026-11-19.) Elbasvir is known as an HCV NS5A inhibitor, and it is used together with the NS3/4A protease inhibitor grazoprevir.
 
 A direct mechanistic link to hepatitis B is not established. Hepatitis B virus has no NS5A homolog, so the target of elbasvir has no counterpart in this virus. The high TxGNN score probably reflects network proximity to other hepatitis viruses rather than a biological rationale.
 
@@ -114,11 +114,12 @@ No study tests elbasvir in hepatitis B, and the mechanistic link is not establis
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The product's only EU authorization is cancelled" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL3039514 (elbasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3039514) |
 
 <!-- review:end log -->
 

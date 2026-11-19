@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **classic stiff person syndrome
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for glimepiride is not available in the data compiled for this report. Glimepiride is generally known as a sulfonylurea that closes pancreatic KATP channels and stimulates insulin release.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for glimepiride: "Glimepiride primarily lowers blood glucose by stimulating the release of insulin from pancreatic beta cells. Sulfonylureas bind to the sulfonylurea receptor in the pancreatic beta-cell plasma membrane, leading to closure of the ATP-sensitive potassium channel, thereby stimulating the release of insulin." ([DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa), label version 2024-08-20; accessed 2026-11-19.) Glimepiride is generally known as a sulfonylurea that closes pancreatic KATP channels and stimulates insulin release.
 
 Stiff person syndrome is an autoimmune neurological disorder involving GABAergic and glycinergic neurotransmission, typically with anti-GAD65 antibodies. No mechanistic link to glimepiride's action is established. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as the association of stiff person syndrome with autoimmune diabetes, not biological evidence. The score of 0.9975 is a computational prediction only.
 
@@ -101,6 +101,19 @@ The prediction rests only on a model score, with no trials, no literature on sti
 - Preclinical or clinical studies directly addressing stiff person syndrome
 - SmPC warnings and contraindications for safety screening, including the single-ingredient glimepiride label
 - Review of whether the score is driven by diabetes-related network associations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for glimepiride is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

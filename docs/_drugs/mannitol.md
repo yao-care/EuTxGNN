@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **nephrogenic syndrome of inapp
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Mannitol is an osmotic agent. In theory, an osmotic agent could promote water excretion through osmotic diuresis, which is the only mechanistic link to this condition.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for mannitol: "Mannitol, when administered intravenously, exerts its osmotic diuretic effect as a solute of relatively small molecular size being largely confined to the extracellular space. Mannitol hinders tubular reabsorption of water and enhances excretion of sodium and chloride by elevating the osmolarity of the glomerular filtrate." ([DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc), label version 2025-08-26; accessed 2026-11-19.) Mannitol is an osmotic agent. In theory, an osmotic agent could promote water excretion through osmotic diuresis, which is the only mechanistic link to this condition.
 
 Nephrogenic syndrome of inappropriate antidiuresis is a gain-of-function disorder of the vasopressin V2 receptor that causes hyponatremia. The only retrieved paper is a general review of pitfalls in evaluating hyponatremia. It does not support the use of mannitol in this disorder. Osmotic diuresis could also worsen sodium balance. The original indication (inhaled mannitol for cystic fibrosis) has a different mechanism and route from this prediction, so the high score should be treated as a model output rather than supporting evidence.
 
@@ -100,6 +100,19 @@ The prediction has no clinical trials and no study that directly addresses nephr
 - Preclinical or case-level evidence that mannitol has a benefit in this V2 receptor gain-of-function disorder
 - A safety assessment of osmotic diuresis and sodium balance in hyponatremic patients
 - Assessment of route compatibility, since the licensed product is an inhaled formulation
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -54,7 +54,7 @@ Loxapine is an antipsychotic that acts on dopamine and serotonin receptors. The 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug. Loxapine is generally described as a dopamine and serotonin receptor antagonist. No clear mechanistic link to retinal dystrophy was identified in the data compiled for this report.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for loxapine: "Pharmacologically, loxapine is an antipsychotic for which the exact mode of action has not been established. However, changes in the level of excitability of subcortical inhibitory areas have been observed in several animal species in association with such manifestations of tranquilization as calming effects and suppression of aggressive behavior." ([DailyMed: loxapine prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e412c36-66b0-444b-833b-cea79976844e), label version 2026-11-03; accessed 2026-11-19.) Loxapine is generally described as a dopamine and serotonin receptor antagonist. No clear mechanistic link to retinal dystrophy was identified in the data compiled for this report.
 
 The high TxGNN score is a model-based prediction only. No trials or literature support it. Retinal toxicity is a known concern with antipsychotics, which argues against a benefit in a retinal disease. Until a plausible biological rationale is established, this prediction should be treated as a hypothesis, not a lead.
 
@@ -87,6 +87,19 @@ The prediction has a high model score but no supporting clinical or literature e
 - Preclinical or published evidence that directly studies this disease
 - Warnings and contraindications from the EMA product information, to allow a safety assessment, with particular attention to ocular safety
 - Confirmation of route and dosage form compatibility for any new use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: loxapine prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e412c36-66b0-444b-833b-cea79976844e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

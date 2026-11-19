@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **cholesterol-ester transfer prot
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, fenofibrate is a PPAR-alpha agonist. This class raises HDL cholesterol and lowers triglycerides, partly by increasing apoA-I and apoA-II expression and lipoprotein lipase activity.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for fenofibrate: "The active moiety of Antara is fenofibric acid. The pharmacological effects of fenofibric acid in both animals and humans have been studied through oral administration of fenofibrate. The lipid-modifying effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of PPAR alpha receptor." ([DailyMed: Antara (fenofibrate) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=24790a18-0291-4b88-a724-acac43b616ce), label version 2025-10-01; accessed 2026-11-19.) Based on general pharmacology, fenofibrate is a PPAR-alpha agonist. This class raises HDL cholesterol and lowers triglycerides, partly by increasing apoA-I and apoA-II expression and lipoprotein lipase activity.
 
 The link to CETP deficiency is indirect and pathway-based, running through HDL metabolism and lipid remodelling. Mouse studies show that fenofibrate enlarges HDL particles by inducing the phospholipid transfer protein (PLTP) gene. Another mouse study combined fenofibrate with CETP inhibition and observed increased HDL-C and reduced LDL-C.
 
@@ -107,6 +107,19 @@ No clinical trial or human study directly addresses fenofibrate in CETP deficien
 - Evidence on whether lowering triglycerides or modifying lipoproteins offers any clinical benefit in CETP deficiency
 - Review of the SmPC warnings and contraindications, which were not available for this report
 - Review of the safety signals above (hepatic, biliary, muscle, renal and haematological) if any study is planned
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Antara (fenofibrate) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=24790a18-0291-4b88-a724-acac43b616ce) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

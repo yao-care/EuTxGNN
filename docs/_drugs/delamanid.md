@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **allergic urticaria**, but the
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Delamanid is generally understood to act by inhibiting mycolic acid synthesis in mycobacteria, which is specific to the bacterial cell wall.
+ChEMBL (EMBL-EBI) records the mechanism of action of delamanid as: Mycobacterium tuberculosis H37Rv inhibitor ([ChEMBL CHEMBL218650 (delamanid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL218650), CC BY-SA 3.0; accessed 2026-11-19.) Delamanid is generally understood to act by inhibiting mycolic acid synthesis in mycobacteria, which is specific to the bacterial cell wall.
 
 No plausible mechanistic link between mycolic acid synthesis inhibition and allergic urticaria could be identified. Urticaria is an immune-mediated skin condition, mainly involving mast cell activation and histamine release, and this pathway is not related to the bacterial target of delamanid. The high model score therefore appears to be an artifact of the model rather than a pharmacologically grounded signal. Similarity between the original and predicted indications has not been assessed.
 
@@ -94,6 +94,19 @@ The prediction rests only on a model score. No clinical trial or publication stu
 - Detailed mechanism of action data for delamanid
 - Any preclinical or clinical evidence that directly addresses allergic urticaria
 - Safety information from the SmPC (warnings and contraindications)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL218650 (delamanid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL218650) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

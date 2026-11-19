@@ -54,7 +54,7 @@ Octreotide is a somatostatin analogue with a product authorized in the European 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Octreotide is a somatostatin analogue, and the data compiled for this report do not describe a mechanism that would apply to benign epidermal keratinocyte lesions.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for octreotide: "Sandostatin Injection exerts pharmacologic actions similar to the natural hormone, somatostatin. It is an even more potent inhibitor of GH, glucagon, and insulin than somatostatin. […] By virtue of these pharmacological actions, octreotide has been used to treat the symptoms associated with metastatic carcinoid tumors (flushing and diarrhea), and VIP secreting adenomas (watery diarrhea)." ([DailyMed: Sandostatin (octreotide acetate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e2c9856-1836-49f0-9472-4dbeeb408f39), label version 2026-07-22; accessed 2026-11-19.) Octreotide is a somatostatin analogue, and the data compiled for this report do not describe a mechanism that would apply to benign epidermal keratinocyte lesions.
 
 The data provided do not establish a plausible somatostatin receptor-mediated link between octreotide and vulvar inverted follicular keratosis. The high score (0.9958) is a computational output and should not be read as clinical evidence. A mechanistic rationale would need to be developed before this prediction can be taken further.
 
@@ -99,6 +99,19 @@ The prediction rests on a model score alone. No clinical trials or publications 
 - Any preclinical or clinical studies directly addressing vulvar inverted follicular keratosis
 - Review of the SmPC warnings and contraindications
 - Evaluation of interactions with glucose-lowering therapies if any use is considered
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sandostatin (octreotide acetate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e2c9856-1836-49f0-9472-4dbeeb408f39) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

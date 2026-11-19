@@ -56,7 +56,7 @@ but at present there are **0 clinical trials** and **0 publications** supporting
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Lusutrombopag is, however, generally characterized as a thrombopoietin (TPO) receptor agonist. It stimulates megakaryocyte proliferation and differentiation, which raises platelet counts. Its efficacy in thrombocytopenia associated with chronic liver disease is the basis of its original approval.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lusutrombopag: "Lusutrombopag is an orally bioavailable, small molecule TPO receptor agonist that interacts with the transmembrane domain of human TPO receptors expressed on megakaryocytes to induce the proliferation and differentiation of megakaryocytic progenitor cells from hematopoietic stem cells and megakaryocyte maturation." ([DailyMed: Mulpleta (lusutrombopag) prescribing information, VANCOCIN ITALIA SRL](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a390aec3-6e77-45f8-95d3-d4b8c2eeee40), label version 2025-12-09; accessed 2026-11-19.) Lusutrombopag is, however, generally characterized as a thrombopoietin (TPO) receptor agonist. It stimulates megakaryocyte proliferation and differentiation, which raises platelet counts. Its efficacy in thrombocytopenia associated with chronic liver disease is the basis of its original approval.
 
 Inherited thrombocytopenias with a quantitative platelet deficit share the same basic problem as the original indication: too few platelets. In theory, TPO receptor agonism could increase platelet production in patients who retain some megakaryocyte activity.
 
@@ -120,11 +120,12 @@ The prediction is supported only by a model score (Evidence Level L5).
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "No clinical trials or publications were found, the mechanism is plausible but unproven for this condition, and the only EU authorization is " | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mulpleta (lusutrombopag) prescribing information, VANCOCIN ITALIA SRL](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a390aec3-6e77-45f8-95d3-d4b8c2eeee40) |
 
 <!-- review:end log -->
 

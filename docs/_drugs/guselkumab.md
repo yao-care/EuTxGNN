@@ -60,7 +60,7 @@ This is a model-only prediction and should be treated as a hypothesis.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Guselkumab is understood to be an antibody that blocks the IL-23 pathway, which sits upstream of IL-17 signalling in several immune-mediated inflammatory diseases.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for guselkumab: "Guselkumab is a human monoclonal IgG1λ antibody that selectively binds to the p19 subunit of interleukin 23 (IL-23) and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in normal inflammatory and immune responses." ([DailyMed: Tremfya (guselkumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56), label version 2026-10-20; accessed 2026-11-19.) Guselkumab is understood to be an antibody that blocks the IL-23 pathway, which sits upstream of IL-17 signalling in several immune-mediated inflammatory diseases.
 
 IL-23/IL-17 signalling has been implicated in bone remodelling in inflammatory disease, which gives a loose biological reason why a model might connect this drug to a bone condition. However, a direct link to drug-induced osteoporosis is not supported by the supplied data. No trial or publication was found that studies guselkumab in this disease, so the prediction remains speculative.
 
@@ -114,6 +114,19 @@ The prediction score is high (0.9984), but no clinical trial or publication stud
 - Detailed mechanism-of-action data for guselkumab
 - Warnings and contraindications from the SmPC for a safety review
 - Clarification of the current status of the EU marketing authorization record
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tremfya (guselkumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

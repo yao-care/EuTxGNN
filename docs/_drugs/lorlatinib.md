@@ -56,7 +56,7 @@ No clinical trials or publications currently support this specific prediction, s
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for lorlatinib is not available in the data compiled for this report. Based on what is known, lorlatinib is a brain-penetrant inhibitor of the ALK and ROS1 kinases, designed to act against tumours driven by ALK alterations.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lorlatinib: "Lorlatinib is a kinase inhibitor with in vitro activity against ALK and ROS1 as well as TYK1, FER, FPS, TRKA, TRKB, TRKC, FAK, FAK2, and ACK. Lorlatinib demonstrated in vitro activity against multiple mutant forms of the ALK enzyme, including some mutations detected in tumors at the time of disease progression on crizotinib and other ALK inhibitors." ([DailyMed: Lorbrena (lorlatinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b34d62d-e02a-4af3-bc0d-1571dd4ee76d), label version 2026-06-26; accessed 2026-11-19.) Based on what is known, lorlatinib is a brain-penetrant inhibitor of the ALK and ROS1 kinases, designed to act against tumours driven by ALK alterations.
 
 No ALK-driven mechanism is established for gingival fibromatosis, a condition marked by overgrowth of gum tissue. The high score is a computational signal only. No studies in the compiled data link lorlatinib to this condition, so the biological rationale remains unproven.
 
@@ -98,6 +98,19 @@ The prediction has a high model score but no clinical trials or publications add
 - Detailed mechanism-of-action data for lorlatinib
 - Warnings and contraindications from the SmPC to support safety screening
 - Review of the dosage form and route against what this condition would require
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for lorlatinib is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lorbrena (lorlatinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b34d62d-e02a-4af3-bc0d-1571dd4ee76d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

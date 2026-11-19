@@ -60,7 +60,7 @@ Of the other top-ranked predictions, agoraphobia and the depression-related term
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, olanzapine blocks several receptors, including serotonin 5-HT2A/2C and dopamine D2. This profile underlies its efficacy in schizophrenia and mania.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for olanzapine: "The mechanism of action of olanzapine, in the listed indications, is unclear. However, the efficacy of olanzapine in schizophrenia could be mediated through a combination of dopamine and serotonin type 2 (5HT 2 ) antagonism." ([DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c), label version 2026-10-26; accessed 2026-11-19.) Based on general pharmacology, olanzapine blocks several receptors, including serotonin 5-HT2A/2C and dopamine D2. This profile underlies its efficacy in schizophrenia and mania.
 
 For the top-ranked prediction, **benign paroxysmal torticollis of infancy**, no mechanistic rationale is supported by the available data. The condition is a self-limiting paediatric disorder related to migraine equivalents and channelopathies. The high score (0.9954) is a computational prediction only, and giving an antipsychotic to infants would raise serious safety concerns. This prediction is not recommended for further development without independent supporting evidence.
 
@@ -183,7 +183,7 @@ The top-ranked prediction, benign paroxysmal torticollis of infancy, rests only 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
@@ -191,6 +191,7 @@ Below is the review log for this page: statements checked against official Europ
 | 2026-11-06 | Removed: "Olanzapine is currently marketed, with 9 valid licences of 9" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "with 9 valid licences of 9" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c) |
 
 <!-- review:end log -->
 

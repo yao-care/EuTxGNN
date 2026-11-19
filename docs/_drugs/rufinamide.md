@@ -54,7 +54,7 @@ Rufinamide is an antiseizure medicine, originally authorised in the EU as add-on
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Rufinamide is generally described as a sodium channel modulator that prolongs the inactive state of voltage-gated sodium channels. This stabilises neuronal membranes and limits repetitive firing. It is structurally unrelated to other antiseizure drugs and is established for seizures in Lennox-Gastaut syndrome.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for rufinamide: "The precise mechanism(s) by which rufinamide exerts its antiepileptic effect is unknown. The results of in vitro studies suggest that the principal mechanism of action of rufinamide is modulation of the activity of sodium channels and, in particular, prolongation of the inactive state of the channel." ([DailyMed: Banzel (rufinamide) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a3fa925-1abd-458a-bd57-4ae780a1ef2d), label version 2022-12-15; accessed 2026-11-19.) Rufinamide is generally described as a sodium channel modulator that prolongs the inactive state of voltage-gated sodium channels. This stabilises neuronal membranes and limits repetitive firing. It is structurally unrelated to other antiseizure drugs and is established for seizures in Lennox-Gastaut syndrome.
 
 Both Lennox-Gastaut syndrome and FIRES are severe, drug-resistant epilepsies that begin in childhood. This gives the prediction some indirect plausibility for seizure control. FIRES, however, is thought to be driven largely by neuroinflammation, and a sodium channel blocker would not address that component. Any benefit would probably be symptomatic only.
 
@@ -115,11 +115,12 @@ The prediction rests on a model score alone (Evidence Level L5), with no trials 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorisation is also cancelled, which may limit practical availability" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Banzel (rufinamide) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a3fa925-1abd-458a-bd57-4ae780a1ef2d) |
 
 <!-- review:end log -->
 

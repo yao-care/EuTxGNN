@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **PLA2G6-associated neurodegene
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, rasagiline is a MAO-B inhibitor, its efficacy in Parkinson's disease has been established, and mechanistically it may be applicable to related neurodegenerative conditions.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for rasagiline: "AZILECT is a selective, irreversible MAO-B inhibitor indicated for the treatment of idiopathic Parkinson’s disease. The results of a clinical trial designed to examine the effects of AZILECT on blood pressure when it is administered with increasing doses of tyramine indicates the functional selectivity can be incomplete when healthy subjects ingest large amounts of tyramine while receiving recommended doses of AZILECT. […] In ex vivo animal studies in brain, liver, and intestinal tissues, rasagiline was shown to be a potent, irreversible monoamine oxidase type B (MAO-B) selective inhibitor." ([DailyMed: Azilect (rasagiline mesylate) prescribing information, Teva Neuroscience, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a40d0e73-3f9f-4b01-979d-402c9cdaeb60), label version 2020-06-30; accessed 2026-11-19.) Based on known information, rasagiline is a MAO-B inhibitor, its efficacy in Parkinson's disease has been established, and mechanistically it may be applicable to related neurodegenerative conditions.
 
 PLA2G6-associated neurodegeneration includes infantile neuroaxonal dystrophy and PLA2G6-related dystonia-parkinsonism. These forms involve dopaminergic and alpha-synuclein pathology that overlaps with Parkinson's disease. That overlap is a plausible but unverified link to rasagiline's approved use. It is an inference, not something supported by retrieved evidence.
 
@@ -116,6 +116,19 @@ The prediction for PLA2G6-associated neurodegeneration rests on model score alon
 - Official warnings and contraindications from the product information (currently missing), needed before any safety screening
 - A targeted literature search and preclinical evidence for rasagiline in PLA2G6-associated neurodegeneration (for example, models of dystonia-parkinsonism)
 - Clarification of the current EU regulatory and availability status
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Azilect (rasagiline mesylate) prescribing information, Teva Neuroscience, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a40d0e73-3f9f-4b01-979d-402c9cdaeb60) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

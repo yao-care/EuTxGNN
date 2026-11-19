@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **autosomal thrombocytopenia wi
 
 ## Why is This Prediction Reasonable?
 
-Fostamatinib is a SYK inhibitor; its active metabolite is R406. In chronic ITP, it reduces antibody-mediated destruction of platelets by macrophages. Detailed mechanism-of-action data was not available in the data compiled for this report, so this description relies on the known pharmacology of the drug.
+Fostamatinib is a SYK inhibitor; its active metabolite is R406. In chronic ITP, it reduces antibody-mediated destruction of platelets by macrophages. According to the Mechanism of Action section of the US FDA-approved prescribing information for fostamatinib: "Fostamatinib is a tyrosine kinase inhibitor with demonstrated activity against spleen tyrosine kinase (SYK). The major metabolite of fostamatinib, R406, inhibits signal transduction of Fc-activating receptors and B-cell receptor." ([DailyMed: Tavalisse (fostamatinib) prescribing information, Rigel Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=21149cc3-049b-43e2-b141-c9499160556c), label version 2025-11-05; accessed 2026-11-19.) This description relies on the known pharmacology of the drug.
 
 The new indication is a thrombocytopenia, so the model's high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. However, inherited thrombocytopenias are caused by genetic defects in platelet production, not by immune-mediated platelet destruction. SYK inhibition therefore has no clear mechanistic rationale here, and the prediction should be treated as a hypothesis only.
 
@@ -126,12 +126,13 @@ The prediction has a high model score but no clinical trials or relevant literat
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of why the EU authorization was cancelled and what that means for availability" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data was not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tavalisse (fostamatinib) prescribing information, Rigel Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=21149cc3-049b-43e2-b141-c9499160556c) |
 
 <!-- review:end log -->
 

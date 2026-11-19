@@ -60,7 +60,7 @@ The prediction is therefore a purely computational signal that should be put on 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on the mechanistic assessment that was provided, tecovirimat targets the orthopoxvirus VP37 envelope protein (p37), which blocks formation of extracellular enveloped virions. This activity is specific to orthopoxviruses.
+ChEMBL (EMBL-EBI) records the mechanism of action of tecovirimat as: Envelope phospholipase OPG057 inhibitor ([ChEMBL CHEMBL1257073 (tecovirimat): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1257073), CC BY-SA 3.0; accessed 2026-11-19.) Based on the mechanistic assessment that was provided, tecovirimat targets the orthopoxvirus VP37 envelope protein (p37), which blocks formation of extracellular enveloped virions. This activity is specific to orthopoxviruses.
 
 Hordeolum is a localised, usually staphylococcal bacterial infection of an eyelid gland. It has no orthopoxvirus target, and no antibacterial activity of tecovirimat has been established. The high TxGNN score (0.9966, rank 3798) reflects a network-based association and is not supported by any trial, publication or mechanistic rationale. The same holds for the other top-ranked predictions (for example vibrio, Klebsiella and Proteus infections, noma, hookworm, mumps and polyomavirus infections), which are also unsupported.
 
@@ -117,6 +117,19 @@ The hordeolum prediction rests only on a model score. There are no trials or pub
 - Detailed mechanism-of-action data and a plausible biological link to the predicted disease
 - Review of the SmPC warnings, contraindications and drug interactions, which are not available in the data compiled for this report
 - Confirmation of route and formulation suitability for an ocular or eyelid indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1257073 (tecovirimat): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1257073) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **autoimmune oophoritis**, but 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, insulin human is a replacement hormone whose efficacy in diabetes mellitus is well established. It lowers blood glucose by replacing or supplementing the body's own insulin.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for insulin human: "Regulation of glucose metabolism is the primary activity of insulins, including HUMULIN R U-500. Insulins lower blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Humulin R U-500 Kwikpen (insulin human) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60e8dd0-1d48-4dc9-87fd-e14675255e8c), label version 2026-07-01; accessed 2026-11-19.) Based on known information, insulin human is a replacement hormone whose efficacy in diabetes mellitus is well established. It lowers blood glucose by replacing or supplementing the body's own insulin.
 
 For autoimmune oophoritis, the data compiled for this report does not support a direct mechanistic link between insulin signalling and autoimmune destruction of the ovary. The high score (0.9984) reflects a model-based association, not clinical or experimental evidence, and the model's ranking alone cannot establish a therapeutic rationale.
 
@@ -143,13 +143,14 @@ The prediction rests only on a model score. No clinical trials or publications s
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All five authorizations are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "In addition, the drug is marketed in this country, with 5 valid licences of 5" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "since 5 of 5 licences are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Humulin R U-500 Kwikpen (insulin human) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60e8dd0-1d48-4dc9-87fd-e14675255e8c) |
 
 <!-- review:end log -->
 

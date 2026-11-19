@@ -56,7 +56,7 @@ There are **0 clinical trials** and **0 publications** supporting this predictio
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Upadacitinib is known to be a JAK1-selective inhibitor, which dampens inflammatory cytokine signaling through the JAK/STAT pathway. This explains its efficacy in the approved inflammatory and autoimmune indications.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for upadacitinib: "Upadacitinib is a Janus kinase (JAK) inhibitor. JAKs are intracellular enzymes which transmit signals arising from cytokine or growth factor-receptor interactions on the cellular membrane to influence cellular processes of hematopoiesis and immune cell function." ([DailyMed: Rinvoq (upadacitinib) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2966aec7-2ef0-923c-d8ff-fe1a957bf095), label version 2026-06-30; accessed 2026-11-19.) Upadacitinib is known to be a JAK1-selective inhibitor, which dampens inflammatory cytokine signaling through the JAK/STAT pathway. This explains its efficacy in the approved inflammatory and autoimmune indications.
 
 The predicted disease is different in nature. It is an ultra-rare developmental syndrome with no known JAK/STAT-driven inflammatory pathology. No plausible mechanistic link has been established between JAK1 inhibition and this condition. It should be treated as a computational hypothesis only.
 
@@ -116,11 +116,12 @@ The prediction has no clinical trials or literature, no mechanistic link, and a 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The data compiled for this report list this single authorization as cancelled. Since the same record carries a current indication text, the " | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Rinvoq (upadacitinib) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2966aec7-2ef0-923c-d8ff-fe1a957bf095) |
 
 <!-- review:end log -->
 

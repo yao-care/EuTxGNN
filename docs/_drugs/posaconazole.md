@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **pneumocystosis**, but the dat
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Posaconazole is a triazole antifungal. Triazoles inhibit fungal CYP51 (lanosterol 14-alpha-demethylase) and thereby ergosterol synthesis. Its efficacy in invasive fungal infections is established.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for posaconazole: "Posaconazole is an azole antifungal agent. […] Posaconazole blocks the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14α-demethylase responsible for the conversion of lanosterol to ergosterol in the fungal cell membrane. This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane." ([DailyMed: Noxafil (posaconazole) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b073b082-7b57-4423-8c06-4fd4263d6f84), label version 2026-02-13; accessed 2026-11-19.) Posaconazole is a triazole antifungal. Triazoles inhibit fungal CYP51 (lanosterol 14-alpha-demethylase) and thereby ergosterol synthesis. Its efficacy in invasive fungal infections is established.
 
 The link to pneumocystosis is weak. *Pneumocystis jirovecii* lacks ergosterol and uses cholesterol-type sterols, so the azole mechanism is not expected to work. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Posaconazole penetrates lung epithelial lining fluid well, but that does not establish anti-Pneumocystis activity.
 
@@ -133,12 +133,13 @@ The pneumocystosis prediction has a high model score but no direct clinical evid
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All three authorizations are valid, so posaconazole is currently marketed with valid authorization in the data compiled for this report" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "with 3 of 3 licences valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Noxafil (posaconazole) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b073b082-7b57-4423-8c06-4fd4263d6f84) |
 
 <!-- review:end log -->
 

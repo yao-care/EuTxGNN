@@ -60,7 +60,7 @@ The evidence is suggestive but dated, and it does not yet support a development 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Midazolam is a short-acting benzodiazepine that enhances GABA-A receptor signalling, and this class has sedative, hypnotic, anxiolytic and anticonvulsant effects.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for midazolam: "Midazolam is a short-acting benzodiazepine central nervous system (CNS) depressant." ([DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e), label version 2025-07-31; accessed 2026-11-19.) Midazolam is a short-acting benzodiazepine that enhances GABA-A receptor signalling, and this class has sedative, hypnotic, anxiolytic and anticonvulsant effects.
 
 The original indication, seizure control, and the predicted indication, insomnia, both depend on dampening excessive neuronal activity through GABA-A receptors. Oral midazolam was studied as a sleep medication in the 1980s and 1990s, including a dose-finding study and a 14-day comparison with flurazepam in chronic insomnia patients. This makes the prediction mechanistically plausible.
 
@@ -138,11 +138,12 @@ Please refer to the SmPC for full warnings and contraindications.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorisation is cancelled, and safety label data are missing" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e) |
 
 <!-- review:end log -->
 

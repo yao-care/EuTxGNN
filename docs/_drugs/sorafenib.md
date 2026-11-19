@@ -58,7 +58,7 @@ Sorafenib is an oral multi-kinase inhibitor that is already marketed in the Euro
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data were not available in the data compiled for this report. Sorafenib is a multi-kinase inhibitor acting on the RAF/MEK/ERK pathway and on receptors such as VEGFR, PDGFR and KIT. Blood-vessel growth signalling and PDGFR signalling both contribute to soft tissue sarcoma biology.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for sorafenib: "Sorafenib is a kinase inhibitor that decreases tumor cell proliferation in vitro. Sorafenib was shown to inhibit multiple intracellular (c-CRAF, BRAF and mutant BRAF) and cell surface kinases (KIT, FLT- 3, RET, RET/PTC, VEGFR-1, VEGFR- 2, VEGFR- 3, and PDGFR-ß)." ([DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0), label version 2023-08-28; accessed 2026-11-19.) Sorafenib is a multi-kinase inhibitor acting on the RAF/MEK/ERK pathway and on receptors such as VEGFR, PDGFR and KIT. Blood-vessel growth signalling and PDGFR signalling both contribute to soft tissue sarcoma biology.
 
 Liposarcoma is a subtype of soft tissue sarcoma. In a preclinical study, sorafenib reduced growth and MAPK signalling in nerve sheath tumour cell lines, which included dedifferentiated liposarcoma cell lines (LS141 and DDLS). That study mainly concerns another tumour type, so it is not a direct test of sorafenib in liposarcoma.
 
@@ -134,6 +134,18 @@ Warnings and contraindications from the label were not available in the data com
 - Histology-specific results for liposarcoma patients from the soft tissue sarcoma trials, or a dedicated liposarcoma study.
 - Mechanism-of-action data for sorafenib to support the mechanistic link.
 - Label warnings and contraindications from the SmPC, to complete the safety review.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

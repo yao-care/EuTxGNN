@@ -56,7 +56,7 @@ The prediction is best read as a likely disease-name association, not as genuine
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, daptomycin is a cyclic lipopeptide antibiotic that is active against Gram-positive bacteria only. Its efficacy in skin infections, endocarditis and bacteraemia is established, but a mechanism applicable to degenerative osteoarthritis has not been identified.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for daptomycin: "Daptomycin is an antibacterial drug. […] Daptomycin binds to bacterial cell membranes and causes a rapid depolarization of membrane potential. This loss of membrane potential causes inhibition of DNA, RNA, and protein synthesis, which results in bacterial cell death." ([DailyMed: Dapzura Rt (daptomycin) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb1283e1-35b8-425c-b338-d9ac0c7161f8), label version 2022-01-25; accessed 2026-11-19.) Based on known information, daptomycin is a cyclic lipopeptide antibiotic that is active against Gram-positive bacteria only. Its efficacy in skin infections, endocarditis and bacteraemia is established, but a mechanism applicable to degenerative osteoarthritis has not been identified.
 
 The retrieved literature does not support the prediction. Most papers describe daptomycin for osteoarticular and prosthetic joint infections caused by *Staphylococcus* species, where it works as an antibacterial. These are infections, not degenerative osteoarthritis. The high TxGNN score most likely reflects a disease-name association with bone and joint infection. It does not show a disease-modifying effect, so this appears to be a confusion of indication labels rather than a true repurposing signal.
 
@@ -116,6 +116,19 @@ The osteoarthritis prediction is not supported by any clinical trial. The retrie
 - Detailed mechanism of action data for daptomycin.
 - Complete warnings and contraindications from the current SmPC.
 - If an anti-inflammatory direction is pursued, treat it as a separate research question for rheumatoid arthritis, starting with replication of the collagen-induced arthritis findings and a review of intravenous dosing and muscle safety.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dapzura Rt (daptomycin) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb1283e1-35b8-425c-b338-d9ac0c7161f8) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

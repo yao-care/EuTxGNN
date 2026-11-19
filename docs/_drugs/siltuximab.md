@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **extracutaneous mastocytoma**,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Siltuximab is a chimeric monoclonal antibody that targets interleukin-6 (IL-6). Its efficacy in MCD, a lymphoproliferative disorder driven by dysregulated IL-6 production, has been established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for siltuximab: "Siltuximab binds human IL-6 and prevents the binding of IL-6 to both soluble and membrane-bound IL-6 receptors. IL-6 has been shown to be involved in diverse normal physiologic processes such as induction of immunoglobulin secretion." ([DailyMed: Sylvant (siltuximab) prescribing information, Recordati Rare Diseases, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d663642-f52e-49c0-a023-2da083fdfc0b), label version 2024-08-27; accessed 2026-11-19.) Siltuximab is a chimeric monoclonal antibody that targets interleukin-6 (IL-6). Its efficacy in MCD, a lymphoproliferative disorder driven by dysregulated IL-6 production, has been established.
 
 IL-6 has been implicated in mast cell biology, which is the only link to extracutaneous mastocytoma. The compiled data does not support a direct connection between IL-6 blockade and this condition. The high TxGNN score reflects a pattern found by the model, not confirmed biological or clinical evidence. The relationship between MCD and mastocytoma has not been assessed.
 
@@ -117,12 +117,13 @@ The prediction for extracutaneous mastocytoma rests only on a model score. It ha
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "the cancelled EU authorization and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sylvant (siltuximab) prescribing information, Recordati Rare Diseases, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d663642-f52e-49c0-a023-2da083fdfc0b) |
 
 <!-- review:end log -->
 

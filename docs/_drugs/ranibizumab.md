@@ -56,7 +56,7 @@ The prediction is best treated as a model artefact rather than a real therapeuti
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Ranibizumab is known as an anti-VEGF (vascular endothelial growth factor) antibody fragment given by intravitreal injection. Its efficacy in retinal neovascular and oedema conditions is established, which is why it is authorised for these uses.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ranibizumab: "Ranibizumab products bind to the receptor binding site of active forms of VEGF-A, including the biologically active, cleaved form of this molecule, VEGF110. VEGF-A has been shown to cause neovascularization and leakage in models of ocular angiogenesis and vascular occlusion and is thought to contribute to pathophysiology of neovascular AMD, mCNV, DR, DME and macular edema following RVO." ([DailyMed: Nufymco (ranibizumab-leyk) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=05ed75bc-ae21-480b-9be4-cbc51689dd8a), label version 2026-11-05; accessed 2026-11-19.) Ranibizumab is known as an anti-VEGF (vascular endothelial growth factor) antibody fragment given by intravitreal injection. Its efficacy in retinal neovascular and oedema conditions is established, which is why it is authorised for these uses.
 
 The link to mature cataract is weak. Cataract is an opacity of the lens, and no known VEGF-driven mechanism would be reversed by ranibizumab. The only publication on mature cataract describes combined cataract surgery and ranibizumab injection in eyes with diabetic macular oedema. There, ranibizumab treats the retinal disease, not the cataract. The second paper reports cataract progression after a dexamethasone implant, which does not involve ranibizumab.
 
@@ -124,11 +124,12 @@ There are no clinical trials and no study showing that ranibizumab treats catara
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The list shows 5 of 7 authorizations. The other two are Ranluspec (EMEA/H/C/006502) and Epruvy, previously Ranibizumab Midas (EMEA/H/C/00652" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nufymco (ranibizumab-leyk) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=05ed75bc-ae21-480b-9be4-cbc51689dd8a) |
 
 <!-- review:end log -->
 

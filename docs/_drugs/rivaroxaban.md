@@ -56,7 +56,7 @@ but **no clinical trials** and only **4 publications** (none testing rivaroxaban
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, rivaroxaban is a direct oral anticoagulant that acts on coagulation Factor Xa. Its efficacy in venous thromboembolism and atrial fibrillation is established, and mechanistically it may be applicable to rheumatoid arthritis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for rivaroxaban: "XARELTO is a selective inhibitor of FXa. It does not require a cofactor (such as Anti-thrombin III) for activity. Rivaroxaban inhibits free FXa and prothrombinase activity. Rivaroxaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin." ([DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610), label version 2026-09-10; accessed 2026-11-19.) Based on known information, rivaroxaban is a direct oral anticoagulant that acts on coagulation Factor Xa. Its efficacy in venous thromboembolism and atrial fibrillation is established, and mechanistically it may be applicable to rheumatoid arthritis.
 
 The link is speculative. Thrombin generation is altered in autoimmune disease, and coagulation and inflammation influence each other, so inhibiting Factor Xa could plausibly modulate inflammation. However, none of the studies compiled for this report tests rivaroxaban as a treatment for rheumatoid arthritis. The literature deals with VTE, anticoagulant adherence and thrombosis, which are the drug's original uses. The high prediction score is therefore not backed by clinical data.
 
@@ -108,6 +108,19 @@ The prediction score is very high, but there are no clinical trials and no study
 - Warnings and contraindications from the SmPC, which are currently missing and block safety screening
 - Clarification of EU regulatory status and of which authorized product would be used
 - A bleeding-risk and interaction assessment for rheumatoid arthritis co-medications (NSAIDs, corticosteroids, aspirin)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

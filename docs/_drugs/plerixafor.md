@@ -55,7 +55,7 @@ The data compiled for this report show much stronger support for a related predi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the compiled data. Pharmacology records show that plerixafor targets the chemokine receptors **CXCR4** and **ACKR3**. Blocking CXCR4 disrupts its interaction with CXCL12, which normally anchors stem cells in the bone marrow. This is how plerixafor releases stem cells into the blood for collection.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for plerixafor: "Plerixafor is an inhibitor of the CXCR4 chemokine receptor and blocks binding of its cognate ligand, stromal cell-derived factor-1α (SDF-1α). SDF-1α and CXCR4 are recognized to play a role in the trafficking and homing of human hematopoietic stem cells (HSCs) to the marrow compartment." ([DailyMed: Mozobil (plerixafor) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed08d2b-5051-46b2-aa37-1d6275bf9003), label version 2025-09-22; accessed 2026-11-19.) Pharmacology records show that plerixafor targets the chemokine receptors **CXCR4** and **ACKR3**. Blocking CXCR4 disrupts its interaction with CXCL12, which normally anchors stem cells in the bone marrow. This is how plerixafor releases stem cells into the blood for collection.
 
 Plerixafor is already used in multiple myeloma for stem cell mobilisation, so the model likely scores the indolent (smouldering) subtype highly because of its closeness to this approved use. A plausible link is that CXCR4/CXCL12 signalling helps myeloma cells home to and stay in the bone marrow niche. However, nothing in the compiled data supports this for the indolent subtype, so the link remains speculative.
 
@@ -140,6 +140,19 @@ The myeloid leukemia direction has more support (L2, early-phase trials) and cou
 - Detailed mechanism of action data
 - Warnings and contraindications from the current SmPC, and confirmation of the EU authorisation status
 - For the leukaemia direction, randomised comparative data and a safety review of the terminated trials
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data are not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mozobil (plerixafor) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed08d2b-5051-46b2-aa37-1d6275bf9003) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ The evidence therefore rests on the model prediction alone.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Ritonavir is known as an HIV-1 protease inhibitor, which blocks the cleavage of viral polyproteins needed to produce mature virus particles. Feline immunodeficiency virus (FIV) is a lentivirus related to HIV, so a general mechanistic rationale exists.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for ritonavir: "Ritonavir is an antiretroviral drug. […] Ritonavir is a peptidomimetic inhibitor of the HIV-1 protease. Inhibition of HIV protease renders the enzyme incapable of processing the Gag-Pol polyprotein precursor which leads to production of non-infectious immature HIV particles." ([DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3), label version 2026-07-23; accessed 2026-11-19.) Ritonavir is known as an HIV-1 protease inhibitor, which blocks the cleavage of viral polyproteins needed to produce mature virus particles. Feline immunodeficiency virus (FIV) is a lentivirus related to HIV, so a general mechanistic rationale exists.
 
 However, FIV protease differs structurally from HIV-1 protease, and HIV-1 protease inhibitors are expected to have limited activity against it. The very high score (0.9992) is nearly identical to that of the other top predictions. It most likely comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. In addition, feline AIDS is a veterinary condition and falls outside the scope of human drug repurposing.
 
@@ -116,6 +116,19 @@ The predicted indication is a veterinary disease with no clinical trials and no 
 - Direct evidence of ritonavir activity against FIV protease, if the prediction is pursued
 - Detailed mechanism of action data
 - Label-based warnings and contraindications from the SmPC, which are needed for any safety screening
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

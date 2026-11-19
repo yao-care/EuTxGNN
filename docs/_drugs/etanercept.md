@@ -54,7 +54,7 @@ Etanercept is a soluble TNF receptor fusion protein that blocks tumour necrosis 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Etanercept is a soluble TNF receptor fusion protein, so it acts by neutralising TNF, a cytokine that drives inflammation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for etanercept: "TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. It plays an important role in the inflammatory processes of RA, polyarticular JIA, PsA, and AS and the resulting joint pathology. […] Etanercept is a dimeric soluble form of the p75 TNF receptor that can bind TNF molecules." ([DailyMed: Enbrel (etanercept) prescribing information, Immunex Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a002b40c-097d-47a5-957f-7a7b1807af7f), label version 2026-05-11; accessed 2026-11-19.) Etanercept is a soluble TNF receptor fusion protein, so it acts by neutralising TNF, a cytokine that drives inflammation.
 
 Hypermobility of the coccyx is primarily a mechanical or structural problem of the tailbone joint, not a TNF-driven inflammatory disease. The data compiled for this report show no clear TNF-mediated mechanism that would link it to etanercept. The high TxGNN score therefore reflects a pattern in the model's network, not a biological rationale, and it should not be read as evidence of efficacy.
 
@@ -112,11 +112,12 @@ The prediction rests only on a model score (0.9963). No trials or publications a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All four are single-ingredient etanercept products (the originator and biosimilars)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Enbrel (etanercept) prescribing information, Immunex Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a002b40c-097d-47a5-957f-7a7b1807af7f) |
 
 <!-- review:end log -->
 

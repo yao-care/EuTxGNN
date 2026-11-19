@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **esotropia**, but there are cu
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. From other pharmacology information, eflornithine is known to irreversibly inhibit ornithine decarboxylase (ODC, encoded by *ODC1*), the first enzyme in polyamine synthesis. This slows cell growth, which fits its use in reducing facial hair growth.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for eflornithine: "Eflornithine is an irreversible inhibitor of the enzyme ornithine decarboxylase (ODC), the first and rate-limiting enzyme in the biosynthesis of polyamines and a transcriptional target of MYCN. Polyamines are involved in differentiation and proliferation of mammalian cells and are important for neoplastic transformation." ([DailyMed: Iwilfin (eflornithine hydrochloride) prescribing information, USWM, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6716d8cc-66e6-4cee-935c-ccb85ed984f5), label version 2026-03-26; accessed 2026-11-19.) From other pharmacology information, eflornithine is known to irreversibly inhibit ornithine decarboxylase (ODC, encoded by *ODC1*), the first enzyme in polyamine synthesis. This slows cell growth, which fits its use in reducing facial hair growth.
 
 Esotropia is an eye-alignment disorder involving ocular motility and binocular vision. No plausible mechanistic link has been identified between polyamine depletion and its pathophysiology. The original indication (hair growth in the skin) and the predicted indication (eye misalignment) are also biologically unrelated.
 
@@ -109,11 +109,12 @@ The esotropia prediction has no supporting trials or literature and no plausible
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorisation has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Iwilfin (eflornithine hydrochloride) prescribing information, USWM, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6716d8cc-66e6-4cee-935c-ccb85ed984f5) |
 
 <!-- review:end log -->
 

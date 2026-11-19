@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Roxadustat is a hypoxia-inducible factor prolyl hydroxylase (HIF-PH) inhibitor. By blocking these enzymes, it stabilizes HIF-1α and HIF-2α and raises erythropoietin levels, which is how it treats anaemia in CKD. The compiled data list EGLN2 as one of its pharmacological targets. Detailed mechanism of action data from DrugBank are not currently available.
+Roxadustat is a hypoxia-inducible factor prolyl hydroxylase (HIF-PH) inhibitor. By blocking these enzymes, it stabilizes HIF-1α and HIF-2α and raises erythropoietin levels, which is how it treats anaemia in CKD. The compiled data list EGLN2 as one of its pharmacological targets. ChEMBL (EMBL-EBI) records the mechanism of action of roxadustat as: Hypoxia-inducible factor prolyl hydroxylase inhibitor ([ChEMBL CHEMBL2338329 (roxadustat): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2338329), CC BY-SA 3.0; accessed 2026-11-19.)
 
 The link between CKD anaemia and dry eye is indirect. HIF activation could plausibly influence corneal epithelial repair, angiogenesis and inflammatory signaling at the ocular surface. However, the direction of the effect is uncertain, because HIF-1α is also linked to ocular surface inflammation. The prediction comes from the TxGNN model alone and has no supporting clinical or literature data.
 
@@ -111,11 +111,12 @@ The dry eye prediction is supported only by the TxGNN model, with no clinical tr
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The effect direction is uncertain, and the only EU authorization has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data from DrugBank are not currently available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2338329 (roxadustat): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2338329) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ No clinical trials are registered for this prediction, and **4 publications** (r
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From what is known, laronidase is a recombinant form of alpha-L-iduronidase, the lysosomal enzyme that breaks down the glycosaminoglycans dermatan sulfate and heparan sulfate. In MPS I (Hurler, Hurler/Scheie and Scheie syndromes) the enzyme is deficient and these substances accumulate in tissues.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for laronidase: "Mucopolysaccharide storage disorders are caused by the deficiency of specific lysosomal enzymes required for the catabolism of glycosaminoglycans (GAG). Mucopolysaccharidosis I (MPS I) is characterized by the deficiency of α-L-iduronidase, a lysosomal hydrolase which catalyzes the hydrolysis of terminal α-L-iduronic acid residues of dermatan sulfate and heparan sulfate. […] ALDURAZYME uptake by cells into lysosomes is most likely mediated by the mannose-6-phosphate-terminated oligosaccharide chains of laronidase binding to specific mannose-6-phosphate receptors." ([DailyMed: Aldurazyme (laronidase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a80ac249-cae4-41f3-88bb-344088b20e60), label version 2026-09-11; accessed 2026-11-19.) From what is known, laronidase is a recombinant form of alpha-L-iduronidase, the lysosomal enzyme that breaks down the glycosaminoglycans dermatan sulfate and heparan sulfate. In MPS I (Hurler, Hurler/Scheie and Scheie syndromes) the enzyme is deficient and these substances accumulate in tissues.
 
 MPS I is itself a lysosomal storage disease with prominent skeletal involvement (dysostosis multiplex). The predicted indication therefore overlaps heavily with the approved one. In vitro work shows that laronidase is taken up by cultured fibroblasts and osteoblasts, mainly through mannose 6-phosphate receptors, and then reaches lysosomes. A long-term case report in an attenuated MPS I patient (Scheie syndrome) also supports biological plausibility.
 
@@ -128,11 +128,12 @@ The predicted indication essentially duplicates the approved MPS I indication, s
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Bone penetration of intravenous enzyme replacement is also known to be limited, and the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aldurazyme (laronidase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a80ac249-cae4-41f3-88bb-344088b20e60) |
 
 <!-- review:end log -->
 

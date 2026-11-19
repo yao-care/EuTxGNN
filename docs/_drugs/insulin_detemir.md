@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant for **autoimmune oophoritis**, but *
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Insulin detemir is an insulin analogue that acts on insulin receptors to lower blood glucose.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for insulin detemir: "The primary activity of insulin, including LEVEMIR, is regulation of glucose metabolism. Insulins and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Levemir (insulin detemir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c), label version 2024-10-09; accessed 2026-11-19.) Insulin detemir is an insulin analogue that acts on insulin receptors to lower blood glucose.
 
 Autoimmune oophoritis is an immune-mediated inflammatory disorder of the ovary. No clear mechanistic rationale links insulin to this condition. The connection is speculative, and the high model score reflects a computational association only, not biological or clinical evidence. A score on its own does not show that the drug would work, so this prediction should be treated as a hypothesis to examine, not a lead to act on.
 
@@ -100,6 +100,19 @@ No clinical trials or publications address autoimmune oophoritis, and no plausib
 - Mechanism of action data for insulin detemir
 - Any mechanistic or preclinical evidence linking insulin signalling to autoimmune ovarian disease
 - Warnings and contraindications from the SmPC
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Levemir (insulin detemir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

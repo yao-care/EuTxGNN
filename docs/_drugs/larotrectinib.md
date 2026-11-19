@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **multiple endocrine neoplasia*
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Based on known information, larotrectinib is a selective TRK inhibitor, and its efficacy in NTRK fusion-positive solid tumours is the basis of its approval. Mechanistically, it could apply to the new indication only in a narrow way.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for larotrectinib: "Larotrectinib is an inhibitor of the tropomyosin receptor kinases (TRK), TRKA, TRKB, and TRKC. In a broad panel of purified enzyme assays, larotrectinib inhibited TRKA, TRKB, and TRKC with IC 50 values between 5-11 nM. One other kinase TNK2 was inhibited at approximately 100-fold higher concentration." ([DailyMed: Vitrakvi (larotrectinib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c8ca614-58b2-4aa4-83d3-0387a8f782fd), label version 2026-05-22; accessed 2026-11-19.) Based on known information, larotrectinib is a selective TRK inhibitor, and its efficacy in NTRK fusion-positive solid tumours is the basis of its approval. Mechanistically, it could apply to the new indication only in a narrow way.
 
 The link is indirect. Multiple endocrine neoplasia (notably MEN2) is driven mainly by activating RET mutations, not NTRK fusions. Both are receptor tyrosine kinase-driven endocrine or thyroid tumours, and the literature on advanced thyroid cancer covers kinase inhibitors in general. However, nothing in the data shows that TRK inhibition helps in this disease. The 2024 paper on RET inhibitor resistance describes bypass resistance through other oncogenes, which may involve other kinase pathways, but it does not show a TRK-inhibitor benefit.
 
@@ -131,12 +131,13 @@ The prediction score is high, but the evidence is indirect: one non-specific bas
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Clarification of the EU regulatory status, since the only authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vitrakvi (larotrectinib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c8ca614-58b2-4aa4-83d3-0387a8f782fd) |
 
 <!-- review:end log -->
 

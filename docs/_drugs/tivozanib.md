@@ -56,7 +56,7 @@ but currently **no clinical trials and no publications** support this direction.
 
 ## Why is This Prediction Reasonable?
 
-Tivozanib inhibits all three VEGF receptor tyrosine kinases (VEGFR-1/FLT1, VEGFR-2/KDR and VEGFR-3/FLT4) with equal potency. This blocks VEGF-driven angiogenesis, which is the basis of its use in advanced renal cell carcinoma. Detailed mechanism of action data from the original drug record is not available; the description here comes from target pharmacology data.
+Tivozanib inhibits all three VEGF receptor tyrosine kinases (VEGFR-1/FLT1, VEGFR-2/KDR and VEGFR-3/FLT4) with equal potency. This blocks VEGF-driven angiogenesis, which is the basis of its use in advanced renal cell carcinoma. According to the Mechanism of Action section of the US FDA-approved prescribing information for tivozanib: "Tivozanib is a tyrosine kinase inhibitor. In vitro cellular kinase assays demonstrated that tivozanib inhibits phosphorylation of vascular endothelial growth factor receptor (VEGFR)-1, VEGFR-2 and VEGFR-3 and inhibits other kinases including c-kit and PDGFR β at clinically relevant concentrations." ([DailyMed: Fotivda (tivozanib) prescribing information, AVEO Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de77155c-ecf2-4f15-9758-21d271449d83), label version 2026-11-11; accessed 2026-11-19.) The description here comes from target pharmacology data.
 
 Cervical cancers, including endocervical adenocarcinoma, depend in part on VEGF-driven angiogenesis. Anti-angiogenic therapy with bevacizumab has shown benefit in advanced cervical cancer. This gives a plausible but indirect rationale for VEGFR inhibition in this setting.
 
@@ -128,12 +128,13 @@ The prediction rests only on a TxGNN score. There are no clinical trials or publ
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "In addition, the only EU marketing authorization for tivozanib is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "the reason for the cancelled EU authorization and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data from the original drug record is not available; t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fotivda (tivozanib) prescribing information, AVEO Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de77155c-ecf2-4f15-9758-21d271449d83) |
 
 <!-- review:end log -->
 

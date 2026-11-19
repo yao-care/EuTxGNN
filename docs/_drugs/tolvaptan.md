@@ -55,7 +55,7 @@ Currently **no registered clinical trials** exist for this exact subtype, but **
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, tolvaptan is a selective vasopressin V2 receptor antagonist. In polycystic kidney disease, V2 receptor activation raises cAMP in renal tubular cells, which drives cyst cell proliferation and fluid secretion. Blocking the receptor lowers cAMP and may slow cyst growth and loss of kidney function.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for tolvaptan: "Tolvaptan is a selective vasopressin V 2 -receptor antagonist with an affinity for the V 2 -receptor that is 1.8 times that of native arginine vasopressin (AVP). Tolvaptan affinity for the V 2 -receptor is 29 times that for the V 1a -receptor." ([DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4), label version 2026-09-30; accessed 2026-11-19.) Based on known pharmacology, tolvaptan is a selective vasopressin V2 receptor antagonist. In polycystic kidney disease, V2 receptor activation raises cAMP in renal tubular cells, which drives cyst cell proliferation and fluid secretion. Blocking the receptor lowers cAMP and may slow cyst growth and loss of kidney function.
 
 The original SIADH indication and the predicted indication share the same drug target, but they are different diseases. The predicted disease belongs to the polycystic kidney disease family, and the PKD3 (GANAB-related) form is mechanistically similar to ADPKD. This prediction is largely aligned with an existing label: ADPKD is already an approved use of tolvaptan in the EU (Jinarc).
 
@@ -116,6 +116,19 @@ Tolvaptan has strong Phase 3 evidence in ADPKD, and the target biology applies t
 - Mechanism of action data from DrugBank
 - A hepatotoxicity monitoring plan, restricting use to patients with rapidly progressing disease
 - A review of interacting drugs, especially strong CYP3A inhibitors such as clarithromycin
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

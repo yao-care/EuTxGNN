@@ -56,7 +56,7 @@ Evidence for HIV as a treatment target is at **Level L5 (model prediction only)*
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for glecaprevir in the data compiled for this report. It is known to be an inhibitor of the HCV NS3/4A protease, and it is used together with pibrentasvir, an NS5A inhibitor.
+ChEMBL (EMBL-EBI) records the mechanism of action of glecaprevir as: Hepatitis C virus serine protease, NS3/NS4A inhibitor ([ChEMBL CHEMBL3545363 (glecaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545363), CC BY-SA 3.0; accessed 2026-11-19.) It is known to be an inhibitor of the HCV NS3/4A protease, and it is used together with pibrentasvir, an NS5A inhibitor.
 
 HIV uses a different protease and a different replication strategy from HCV, so direct anti-HIV activity is not expected. The high score most likely reflects shared features among antiviral drugs and the frequent co-occurrence of HIV and HCV in the same patients. The trials found enrol people with both infections, and in them glecaprevir/pibrentasvir treats the hepatitis C component. This is not evidence that the drug treats HIV.
 
@@ -117,11 +117,12 @@ The studies found treat hepatitis C in people who also have HIV. They do not stu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Clarification of the EU market status, since the only authorization is listed as cancelled" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for glecaprevir in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL3545363 (glecaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545363) |
 
 <!-- review:end log -->
 

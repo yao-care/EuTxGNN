@@ -56,7 +56,7 @@ but so far there are **no registered clinical trials** and only **1 review artic
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available in the data compiled for this report. Based on known information, nilotinib is a kinase inhibitor with activity against BCR-ABL, KIT and PDGFR. Its efficacy in Philadelphia chromosome-positive CML has been established, and mechanistically it may be applicable to DFSP.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for nilotinib: "Nilotinib is an inhibitor of the BCR-ABL kinase. Nilotinib binds to and stabilizes the inactive conformation of the kinase domain of ABL protein. In vitro, nilotinib inhibited BCR-ABL mediated proliferation of murine leukemic cell lines and human cell lines derived from patients with Ph+ CML." ([DailyMed: Cavhanza (nilotinib) prescribing information, Cycle Pharmaceuticals Ltd](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98b197ea-bca4-427e-8737-97f70a3262bc), label version 2026-07-20; accessed 2026-11-19.) Based on known information, nilotinib is a kinase inhibitor with activity against BCR-ABL, KIT and PDGFR. Its efficacy in Philadelphia chromosome-positive CML has been established, and mechanistically it may be applicable to DFSP.
 
 DFSP is driven by the COL1A1-PDGFB fusion, which produces constitutive activation of PDGFRB signalling. Because nilotinib inhibits PDGFR, the mechanistic rationale is reasonable. Imatinib, a related kinase inhibitor, is an established treatment for DFSP, which further supports the plausibility of the prediction.
 
@@ -133,11 +133,12 @@ The PDGFR-driven mechanism of DFSP makes the prediction plausible, but there are
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "since both authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cavhanza (nilotinib) prescribing information, Cycle Pharmaceuticals Ltd](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98b197ea-bca4-427e-8737-97f70a3262bc) |
 
 <!-- review:end log -->
 

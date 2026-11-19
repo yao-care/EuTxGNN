@@ -55,7 +55,7 @@ This is closer to an established lipid-lowering use than to true repurposing.
 
 ## Why is This Prediction Reasonable?
 
-Simvastatin inhibits HMG-CoA reductase, the rate-limiting enzyme of cholesterol synthesis. This reduces hepatic cholesterol production and upregulates LDL receptors, which lowers LDL-C. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description reflects the well-established statin class mechanism.
+Simvastatin inhibits HMG-CoA reductase, the rate-limiting enzyme of cholesterol synthesis. This reduces hepatic cholesterol production and upregulates LDL receptors, which lowers LDL-C. According to the Mechanism of Action section of the US FDA-approved prescribing information for simvastatin: "Simvastatin is a prodrug and is hydrolyzed to its active β-hydroxyacid form, simvastatin acid, after administration. Simvastatin acid and its metabolites are inhibitors of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol." ([DailyMed: Zocor (simvastatin) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f55d5de-5a4f-4a39-8c84-c53976dd6af9), label version 2025-03-28; accessed 2026-11-19.) This description reflects the well-established statin class mechanism.
 
 The original indication (mixed dyslipidaemia) and familial hypercholesterolemia are both disorders of lipid metabolism. Familial hypercholesterolemia is caused by impaired LDL clearance, which is the pathway statins target. The prediction is therefore mechanistically straightforward. Benefit is expected to be limited in homozygous FH with absent LDL receptor function.
 
@@ -139,12 +139,13 @@ Multiple completed Phase 3 trials (including the ENHANCE trial and an adolescent
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Confirmation of current EU regulatory status, since the only licence found is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "the EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zocor (simvastatin) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f55d5de-5a4f-4a39-8c84-c53976dd6af9) |
 
 <!-- review:end log -->
 

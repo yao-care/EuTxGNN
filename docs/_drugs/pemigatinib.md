@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **multiple endocrine neoplasia*
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Pemigatinib is generally known as a selective inhibitor of FGFR1-3, and its efficacy in FGFR2-driven cholangiocarcinoma is the basis of its original approval.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for pemigatinib: "Pemigatinib is a small molecule kinase inhibitor that targets FGFR1, 2 and 3 with IC 50 values of less than 2 nM. Pemigatinib also inhibited FGFR4 in vitro at a concentration approximately 100 times higher than those that inhibit FGFR1, 2, and 3." ([DailyMed: Pemazyre (pemigatinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9e1f2222-1d89-4e63-989c-ccebe2ab1eb4), label version 2026-06-09; accessed 2026-11-19.) Pemigatinib is generally known as a selective inhibitor of FGFR1-3, and its efficacy in FGFR2-driven cholangiocarcinoma is the basis of its original approval.
 
 FGFR signaling has been implicated in some endocrine tumours, so a hypothetical link exists. However, multiple endocrine neoplasia syndromes are typically driven by alterations in MEN1, RET, or CDKN1B, and the data compiled for this report do not establish a mechanistic connection to FGFR inhibition. The high score therefore comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -136,12 +136,13 @@ The prediction rests on the model score alone (L5).
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "There are no clinical trials or literature, no verified mechanistic link to multiple endocrine neoplasia, and the only EU authorization is c" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the cancelled EU authorization status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Pemazyre (pemigatinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9e1f2222-1d89-4e63-989c-ccebe2ab1eb4) |
 
 <!-- review:end log -->
 

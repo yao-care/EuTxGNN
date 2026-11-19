@@ -56,7 +56,7 @@ The prediction rests on the computational model alone.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Risdiplam is known as an SMN2 pre-mRNA splicing modifier. Its efficacy in SMA has been established, and it works by promoting inclusion of exon 7 in SMN2 transcripts.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for risdiplam: "Risdiplam is a survival of motor neuron 2 (SMN2) splicing modifier designed to treat patients with spinal muscular atrophy (SMA) caused by mutations in chromosome 5q that lead to SMN protein deficiency. Using in vitro assays and studies in transgenic animal models of SMA, risdiplam was shown to increase exon 7 inclusion in SMN2 messenger ribonucleic acid (mRNA) transcripts and production of full-length SMN protein in the brain." ([DailyMed: Evrysdi (risdiplam) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eceb9a99-7191-4be5-87c3-0102707cf98e), label version 2026-11-02; accessed 2026-11-19.) Risdiplam is known as an SMN2 pre-mRNA splicing modifier. Its efficacy in SMA has been established, and it works by promoting inclusion of exon 7 in SMN2 transcripts.
 
 No documented link connects this mechanism to acne, which involves sebum production, *C. acnes* colonization, follicular hyperkeratinization and inflammation. A possible effect through off-target splicing changes in skin or follicular cells is speculative. The high TxGNN score (0.9945) is a TxGNN model (deep learning) prediction only and is not backed by any trial or literature data.
 
@@ -101,11 +101,12 @@ The acne prediction is supported only by the TxGNN model, with no clinical trial
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "he EU authorization is also listed as cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Evrysdi (risdiplam) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eceb9a99-7191-4be5-87c3-0102707cf98e) |
 
 <!-- review:end log -->
 

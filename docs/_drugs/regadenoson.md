@@ -60,7 +60,7 @@ The prediction rests on model output alone, and the drug's vasodilating and bloo
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Pharmacology data indicate that regadenoson is a selective A2A adenosine receptor agonist that also has binding records at the A1, A2B and A3 receptors. Its established effect is coronary vasodilation, which is why it is used as a stress agent in MPI.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for regadenoson: "Regadenoson is a low affinity agonist (K i ≈ 1.3 µM) for the A 2A adenosine receptor, with at least 10-fold lower affinity for the A 1 adenosine receptor (K i > 16.5 µM), and weak, if any, affinity for the A 2B and A 3 adenosine receptors. Activation of the A 2A adenosine receptor by regadenoson produces coronary vasodilation and increases coronary blood flow (CBF)." ([DailyMed: Lexiscan (regadenoson) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=057289f4-2e18-4c1e-bed4-6c1858e2ef16), label version 2018-12-21; accessed 2026-11-19.) Pharmacology data indicate that regadenoson is a selective A2A adenosine receptor agonist that also has binding records at the A1, A2B and A3 receptors. Its established effect is coronary vasodilation, which is why it is used as a stress agent in MPI.
 
 A theoretical link to anaphylaxis exists through A2A signalling. In preclinical models this pathway has anti-inflammatory and mast-cell-stabilizing effects, which could plausibly relate to allergic reactions. The same applies, more weakly, to the related predictions of food-dependent exercise-induced anaphylaxis and pseudoallergy.
 
@@ -147,11 +147,12 @@ The anaphylaxis prediction has no clinical trial or literature support (Evidence
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lexiscan (regadenoson) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=057289f4-2e18-4c1e-bed4-6c1858e2ef16) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ The data compiled for this report include **47 registered clinical trials** (two
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the compiled data. The published literature describes clofarabine as a second-generation purine nucleoside analogue. It inhibits ribonucleotide reductase and DNA polymerase, which depletes the nucleotides needed for DNA replication, and it induces apoptosis through mitochondrial pathways.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for clofarabine: "Clofarabine is sequentially metabolized intracellularly to the 5’-monophosphate metabolite by deoxycytidine kinase and mono- and di-phospho-kinases to the active 5’-triphosphate metabolite. Clofarabine has affinity for the activating phosphorylating enzyme, deoxycytidine kinase, equal to or greater than that of the natural substrate, deoxycytidine." ([DailyMed: clofarabine prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26b2de66-6518-49ab-820e-492454cbc873), label version 2026-08-24; accessed 2026-11-19.) The published literature describes clofarabine as a second-generation purine nucleoside analogue. It inhibits ribonucleotide reductase and DNA polymerase, which depletes the nucleotides needed for DNA replication, and it induces apoptosis through mitochondrial pathways.
 
 These actions work against rapidly dividing leukaemic blasts. Myeloid blasts share this biology, so the antileukaemic mechanism plausibly extends to myeloid disease. Clinical studies of clofarabine, alone and in combination with cytarabine, idarubicin, or transplant-conditioning agents, have been run in acute myeloid leukaemia. Reviews describe single-agent activity in this setting.
 
@@ -164,6 +164,19 @@ Two completed Phase 3 randomized trials (n=727 and n=326) directly study clofara
 - Detailed mechanism-of-action data
 - Review of the SmPC warnings, contraindications, and interaction guidance
 - A safety monitoring plan covering myelosuppression, liver and kidney function, and capillary leak
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: clofarabine prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26b2de66-6518-49ab-820e-492454cbc873) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **autoimmune oophoritis**, but 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, insulin lispro is a rapid-acting insulin analog that acts on the insulin receptor to lower blood glucose. Its efficacy in diabetes mellitus is well established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for insulin lispro: "Regulation of glucose metabolism is the primary activity of insulins and insulin analogs, including insulin lispro products. Insulins lower blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Admelog (insulin lispro) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12ec9e3f-e2ac-43a1-b334-8b6538cf2bb0), label version 2026-09-03; accessed 2026-11-19.) Based on general knowledge, insulin lispro is a rapid-acting insulin analog that acts on the insulin receptor to lower blood glucose. Its efficacy in diabetes mellitus is well established.
 
 Autoimmune oophoritis is an immune-mediated disorder of the ovary. It often occurs within autoimmune polyglandular syndromes, which can also include type 1 diabetes. The link between the two conditions is therefore a **comorbidity association**, not a therapeutic rationale. Insulin lispro has no known action on the autoimmune process in the ovary.
 
@@ -127,12 +127,13 @@ The prediction has no supporting trials or literature (Evidence Level L5). The l
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "with all 4 of 4 EU authorizations valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "with 4 of 4 licenses valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Admelog (insulin lispro) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12ec9e3f-e2ac-43a1-b334-8b6538cf2bb0) |
 
 <!-- review:end log -->
 

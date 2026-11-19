@@ -54,7 +54,7 @@ Brolucizumab is an anti-VEGF-A antibody fragment given by injection into the eye
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Brolucizumab is known as an anti-VEGF-A single-chain antibody fragment, which blocks vascular endothelial growth factor A signaling.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for brolucizumab: "Brolucizumab is a human VEGF inhibitor. Brolucizumab binds to the three major isoforms of VEGF-A (e.g., VEGF 110, VEGF 121, and VEGF 165 ), thereby preventing interaction with receptors VEGFR-1 and VEGFR-2. By inhibiting VEGF-A, brolucizumab suppresses endothelial cell proliferation, neovascularization, and vascular permeability." ([DailyMed: Beovu (brolucizumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d1dc1fa-a2d3-46ed-9e9a-c1a036590d3d), label version 2026-10-26; accessed 2026-11-19.) Brolucizumab is known as an anti-VEGF-A single-chain antibody fragment, which blocks vascular endothelial growth factor A signaling.
 
 No mechanistic link to the predicted disease is supported by the available data. Mitochondrial oxidative phosphorylation disorders are not known to be driven by VEGF-A signaling, so any systemic or retinal benefit is speculative. The high TxGNN score (0.9967) is a model-based prediction only and is not backed by any trial or publication. The similarity between the original use and the predicted disease has not been assessed, and route compatibility is also still pending.
 
@@ -92,6 +92,19 @@ The prediction has no supporting clinical trials or publications (evidence level
 - Preclinical or clinical studies that directly address this disease
 - Warnings and contraindications from the SmPC
 - Assessment of route compatibility, since the current product is given into the eye
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Beovu (brolucizumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d1dc1fa-a2d3-46ed-9e9a-c1a036590d3d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ but **no clinical trials** and **no publications** currently support this predic
 
 ## Why is This Prediction Reasonable?
 
-Darolutamide is a non-steroidal androgen receptor antagonist. Detailed mechanism of action data was not available in the data compiled for this report, so this description relies on its known drug class.
+Darolutamide is a non-steroidal androgen receptor antagonist. According to the Mechanism of Action section of the US FDA-approved prescribing information for darolutamide: "Darolutamide is an androgen receptor (AR) inhibitor. Darolutamide competitively inhibits androgen binding, AR nuclear translocation, and AR-mediated transcription. A major metabolite, ketodarolutamide, exhibited similar in vitro activity to darolutamide." ([DailyMed: Nubeqa (darolutamide) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a7cb212-56e4-4b9d-a73d-bfee7fe4735e), label version 2026-09-28; accessed 2026-11-19.) This description relies on its known drug class.
 
 Its established use is in androgen-driven prostate cancer. Homozygous familial hypercholesterolemia is a genetic disorder caused by defects in the LDL receptor pathway. No clear mechanistic link between androgen receptor blockade and this disease was identified. The high score appears to be a TxGNN model (deep learning) artifact rather than a biologically grounded prediction, and it is not supported by any trial or publication.
 
@@ -128,12 +128,13 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the cancelled EU authorization status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data was not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nubeqa (darolutamide) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a7cb212-56e4-4b9d-a73d-bfee7fe4735e) |
 
 <!-- review:end log -->
 

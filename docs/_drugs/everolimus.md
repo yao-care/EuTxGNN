@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **liposarcoma**, with **1 clini
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general knowledge, everolimus inhibits mTORC1, a central regulator of cell growth and proliferation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for everolimus: "Everolimus inhibits antigenic and interleukin (IL-2 and IL-15) stimulated activation and proliferation of T and B lymphocytes. In cells, everolimus binds to a cytoplasmic protein, the FK506 Binding Protein-12 (FKBP-12), to form an immunosuppressive complex (everolimus: FKBP-12) that binds to and inhibits the mammalian target of rapamycin (mTOR), a key regulatory kinase." ([DailyMed: Zortress (everolimus) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a), label version 2026-09-16; accessed 2026-11-19.) Based on general knowledge, everolimus inhibits mTORC1, a central regulator of cell growth and proliferation.
 
 Dedifferentiated liposarcoma is characterized by CDK4/MDM2 amplification and frequent activation of PI3K/AKT/mTOR signaling. Blocking mTORC1 with everolimus while blocking CDK4/6 with ribociclib targets two complementary proliferation and survival pathways. Preclinical sarcoma models and combination data make this plausible. However, the pathway rationale has not been confirmed by randomized clinical data, and everolimus has not been tested on its own in this disease.
 
@@ -116,6 +116,19 @@ The only direct evidence is one single-arm Phase 2 study of everolimus combined 
 - Warnings and contraindications from the SmPC, so that safety can be screened.
 - Detailed mechanism-of-action data.
 - A safety and interaction management plan, especially for combination use with CDK4/6 inhibitors.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zortress (everolimus) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

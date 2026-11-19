@@ -56,7 +56,7 @@ but **no clinical trials and no publications** support this specific prediction;
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, agomelatine acts as an agonist at melatonin MT1 and MT2 receptors and as an antagonist at the 5-HT2C receptor. Its efficacy in major depression is the basis of its authorisation.
+ChEMBL (EMBL-EBI) records the mechanism of action of agomelatine as: Melatonin receptor agonist; Serotonin 2c (5-HT2c) receptor antagonist ([ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878), CC BY-SA 3.0; accessed 2026-11-19.) Based on known pharmacology, agomelatine acts as an agonist at melatonin MT1 and MT2 receptors and as an antagonist at the 5-HT2C receptor. Its efficacy in major depression is the basis of its authorisation.
 
 Benign paroxysmal torticollis of infancy is a rare, episodic movement disorder of young children. It is related to the migraine spectrum and is linked to CACNA1A channelopathy. No mechanistic link between agomelatine and this condition is established in the data. The very high TxGNN score is a computational prediction only, and it likely reflects network proximity rather than a demonstrated biological rationale.
 
@@ -118,12 +118,13 @@ The prediction has no clinical, literature or clear mechanistic support. This is
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only authorisation has been cancelled, and use in infants raises major safety concerns" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the cancelled EU authorisation status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878) |
 
 <!-- review:end log -->
 

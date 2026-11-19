@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **amenorrhea**, but there are c
 
 Elafibranor is a dual agonist of peroxisome proliferator-activated receptor alpha (PPARα) and beta/delta (PPARδ). It is converted in the liver to its main active metabolite, GFT-1007. Preclinical work showed reduced hepatic fat accumulation, inflammation and fibrosis. It was first developed for non-alcoholic steatohepatitis (NASH), but that program was stopped in 2020 after an interim futility analysis. It was then repositioned for PBC, receiving FDA approval in June 2024 and EMA authorisation in September 2024.
 
-No direct mechanistic link between PPARα/δ agonism and amenorrhea is established in the data compiled for this report. Any connection, such as metabolic or hormonal modulation through PPAR signalling, is speculative. The very high score (0.9986) is a computational output of the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence; it does not replace clinical or experimental evidence. Detailed mechanism-of-action data from DrugBank were also not available.
+No direct mechanistic link between PPARα/δ agonism and amenorrhea is established in the data compiled for this report. Any connection, such as metabolic or hormonal modulation through PPAR signalling, is speculative. The very high score (0.9986) is a computational output of the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence; it does not replace clinical or experimental evidence. According to the Mechanism of Action section of the US FDA-approved prescribing information for elafibranor: "Elafibranor and its main active metabolite GFT1007 are peroxisome proliferator-activated receptor (PPAR) agonists, both of which activate PPAR-alpha, PPAR-gamma, and PPAR-delta in vitro. However, the mechanism by which elafibranor exerts its therapeutic effects in patients with PBC is not well understood." ([DailyMed: Iqirvo (elafibranor) prescribing information, Ipsen Biopharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d78aa14f-6ec1-4b1d-a4ae-e48658137a25), label version 2026-08-11; accessed 2026-11-19.)
 
 ## Clinical Trial Evidence
 
@@ -113,12 +113,13 @@ The prediction rests solely on a model score. There are no trials, no literature
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Because the EU authorization is recorded as cancelled, current label information should be verified directly" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "In addition, the EU authorization for the original indication is recorded as cancelled, which needs clarifying" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data from DrugBank were also not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Iqirvo (elafibranor) prescribing information, Ipsen Biopharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d78aa14f-6ec1-4b1d-a4ae-e48658137a25) |
 
 <!-- review:end log -->
 

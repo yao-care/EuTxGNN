@@ -54,7 +54,7 @@ Bedaquiline (marketed as Sirturo) is used as part of a combination regimen for p
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Bedaquiline is generally understood to act by inhibiting the mycobacterial ATP synthase (subunit c), and its efficacy in drug-resistant tuberculosis forms the basis of its EU authorization.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for bedaquiline: "Bedaquiline is a diarylquinoline antimycobacterial drug. […] SIRTURO is a diarylquinoline antimycobacterial drug that inhibits mycobacterial ATP (adenosine 5'- triphosphate) synthase, by binding to subunit c of the enzyme that is essential for the generation of energy in M. tuberculosis." ([DailyMed: Sirturo (bedaquiline fumarate) prescribing information, Janssen Products, LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1534c9ae-4948-4cf4-9f66-222a99db6d0e), label version 2025-10-17; accessed 2026-11-19.) Bedaquiline is generally understood to act by inhibiting the mycobacterial ATP synthase (subunit c), and its efficacy in drug-resistant tuberculosis forms the basis of its EU authorization.
 
 The link to vulvovaginal candidiasis is not supported by the data provided. Fungal ATP synthase differs structurally from the mycobacterial target, and no antifungal activity is documented here. The high TxGNN score (0.9988) should therefore be read as a computational signal that needs independent preclinical confirmation, not as evidence of efficacy.
 
@@ -97,6 +97,19 @@ The prediction rests only on a model score. No clinical trials or publications s
 - Mechanism of action data for bedaquiline and a comparison with fungal targets
 - Safety information from the SmPC (warnings, contraindications), with a review of the interaction profile
 - Assessment of route of administration and formulation suitability for a vaginal infection
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sirturo (bedaquiline fumarate) prescribing information, Janssen Products, LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1534c9ae-4948-4cf4-9f66-222a99db6d0e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

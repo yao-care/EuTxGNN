@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **autosomal recessive familial 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for eribulin are not available in the data compiled for this report. Eribulin is known as a microtubule dynamics inhibitor, a cytotoxic mechanism that blocks cell division.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for eribulin: "Eribulin inhibits the growth phase of microtubules without affecting the shortening phase and sequesters tubulin into nonproductive aggregates. Eribulin exerts its effects via a tubulin-based antimitotic mechanism leading to G 2 /M cell-cycle block, disruption of mitotic spindles, and, ultimately, apoptotic cell death after prolonged mitotic blockage." ([DailyMed: Halaven (eribulin mesylate) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=31ce4750-ded5-4a0b-95e9-f229fa6bc822), label version 2025-11-07; accessed 2026-11-19.) Eribulin is known as a microtubule dynamics inhibitor, a cytotoxic mechanism that blocks cell division.
 
 Familial Mediterranean fever is a chronic autoinflammatory disease driven by dysregulation of the pyrin inflammasome (MEFV gene), not by uncontrolled cell growth. Another microtubule-targeting drug, colchicine, is used in this disease, which gives a loose conceptual link. However, colchicine acts through a different mechanism and does not validate eribulin. A cytotoxic chemotherapy is also unlikely to be appropriate for a chronic non-malignant condition. The very high score (0.9982) should be read as a model signal only, not as evidence of benefit.
 
@@ -108,6 +108,19 @@ The prediction has the highest score but no trials or publications support it, s
 - A systematic literature search for eribulin in familial Mediterranean fever
 - Detailed mechanism-of-action data and parsed SmPC warnings and contraindications
 - A risk-benefit assessment against established treatments such as colchicine
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for eribulin are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Halaven (eribulin mesylate) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=31ce4750-ded5-4a0b-95e9-f229fa6bc822) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

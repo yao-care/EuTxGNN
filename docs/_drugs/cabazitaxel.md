@@ -54,7 +54,7 @@ Cabazitaxel is a taxane chemotherapy agent that stabilizes microtubules and bloc
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, cabazitaxel belongs to the taxane class. Taxanes stabilize microtubules and arrest mitosis, and the same class mechanism underlies the taxanes paclitaxel and docetaxel, which are widely used in breast cancer.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for cabazitaxel: "Cabazitaxel is a microtubule inhibitor. Cabazitaxel binds to tubulin and promotes its assembly into microtubules while simultaneously inhibiting disassembly. This leads to the stabilization of microtubules, which results in the inhibition of mitotic and interphase cellular functions." ([DailyMed: Jevtana (cabazitaxel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de3d9c26-572b-4ea4-9b2d-dd58a2b3e8fa), label version 2025-10-07; accessed 2026-11-19.) Based on known information, cabazitaxel belongs to the taxane class. Taxanes stabilize microtubules and arrest mitosis, and the same class mechanism underlies the taxanes paclitaxel and docetaxel, which are widely used in breast cancer.
 
 Cabazitaxel was designed to be less affected by P-glycoprotein-mediated taxane resistance. This is relevant to breast tumours that have stopped responding to earlier taxanes. Laboratory work in resistant MCF-7 breast cancer cells showed that cabazitaxel was less cross-resistant than paclitaxel and docetaxel. Preclinical studies in triple-negative breast cancer (TNBC) also point to biological plausibility, including an effect on macrophages that improves CD47-targeted immunotherapy, and nanocarrier formulations active in breast cancer models.
 
@@ -120,6 +120,19 @@ Cabazitaxel is a taxane, and a randomized phase II neoadjuvant breast cancer stu
 - Detailed mechanism of action data (MOA)
 - Warnings and contraindications from the SmPC, followed by a safety monitoring plan
 - Registered trial data to confirm current research activity in this indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Jevtana (cabazitaxel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de3d9c26-572b-4ea4-9b2d-dd58a2b3e8fa) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ Cilastatin is a renal dehydropeptidase-I inhibitor that is given together with t
 
 Cilastatin inhibits dehydropeptidase-I in the kidney, which prevents imipenem from being degraded there. It has no antibacterial activity of its own. Any effect against Staphylococcus aureus therefore comes from imipenem, and cilastatin only keeps imipenem exposure higher.
 
-Older clinical reports show that imipenem-cilastatin was active against methicillin-sensitive and methicillin-resistant S. aureus. A 1986 clinical study treated 23 patients, including soft tissue, endovascular and skeletal infections and bacteraemia. This supports the combination, not cilastatin as a repurposed single agent. Detailed mechanism-of-action data for cilastatin are not available in the data compiled for this report.
+Older clinical reports show that imipenem-cilastatin was active against methicillin-sensitive and methicillin-resistant S. aureus. A 1986 clinical study treated 23 patients, including soft tissue, endovascular and skeletal infections and bacteraemia. This supports the combination, not cilastatin as a repurposed single agent. ChEMBL (EMBL-EBI) records the mechanism of action of cilastatin as: Renal dipeptidase inhibitor ([ChEMBL CHEMBL766 (cilastatin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL766), CC BY-SA 3.0; accessed 2026-11-19.)
 
 ## Clinical Trial Evidence
 
@@ -106,6 +106,18 @@ The evidence level is L3. It rests on small, mostly older, uncontrolled studies 
 - Controlled studies that separate the effect of cilastatin from that of imipenem
 - Detailed mechanism-of-action data for cilastatin
 - Review of the SmPC warnings and contraindications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for cilastatin are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL766 (cilastatin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL766) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

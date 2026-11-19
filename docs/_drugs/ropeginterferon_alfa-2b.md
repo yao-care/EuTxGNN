@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **Laubry-Pezzi syndrome** (a ve
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ropeginterferon alfa-2b is a monopegylated interferon. Its efficacy in polycythaemia vera is established, where it acts as an immunomodulatory and antiproliferative agent against the abnormal blood-cell clones driven by the JAK2 mutation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ropeginterferon alfa-2b: "Interferon alfa belongs to the class of type I interferons, which exhibit their cellular effects in polycythemia vera and essential thrombocythemia in the bone marrow by binding to a transmembrane receptor termed interferon alfa receptor (IFNAR). Binding to IFNAR initiates a downstream signaling cascade through the activation of kinases, in particular Janus kinase 1 (JAK1) and tyrosine kinase 2 (TYK2) and activator of transcription (STAT) proteins." ([DailyMed: Besremi (ropeginterferon alfa-2b) prescribing information, PharmaEssentia USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9583405d-53a0-49dc-88eb-5e6384ebabcb), label version 2026-08-25; accessed 2026-11-19.) Based on known information, ropeginterferon alfa-2b is a monopegylated interferon. Its efficacy in polycythaemia vera is established, where it acts as an immunomodulatory and antiproliferative agent against the abnormal blood-cell clones driven by the JAK2 mutation.
 
 Laubry-Pezzi syndrome is a structural heart defect. A ventricular septal defect is combined with aortic regurgitation. It is a mechanically based anatomical problem, not a clonal or inflammatory blood disorder. No plausible mechanistic link between interferon-mediated suppression of myeloproliferative clones and correction of a structural cardiac abnormality has been identified.
 
@@ -138,12 +138,13 @@ The prediction rests on model output alone (L5). No clinical trials or literatur
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the reasons for and the status of the cancelled EU authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Besremi (ropeginterferon alfa-2b) prescribing information, PharmaEssentia USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9583405d-53a0-49dc-88eb-5e6384ebabcb) |
 
 <!-- review:end log -->
 

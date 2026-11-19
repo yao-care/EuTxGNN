@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but this is
 
 ## Why is This Prediction Reasonable?
 
-Cetrorelix blocks the GnRH receptor (GNRHR) in the pituitary. This suppresses LH and FSH release and, in turn, gonadal sex steroids. In its approved use, this prevents premature LH surges during ovarian stimulation. Detailed mechanism-of-action data were not available in the data compiled for this report, but the receptor target is well documented.
+Cetrorelix blocks the GnRH receptor (GNRHR) in the pituitary. This suppresses LH and FSH release and, in turn, gonadal sex steroids. In its approved use, this prevents premature LH surges during ovarian stimulation. According to the Clinical Pharmacology section of the US FDA-approved prescribing information for cetrorelix: "GnRH induces the production and release of luteinizing hormone (LH) and follicle stimulating hormone (FSH) from the gonadotrophic cells of the anterior pituitary. Due to a positive estradiol (E2) feedback at midcycle, GnRH liberation is enhanced resulting in an LH-surge." ([DailyMed: Cetrotide (cetrorelix acetate) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aca7768e-28a7-4027-b1d8-e66247665f79), label version 2025-09-22; accessed 2026-11-19.) The receptor target is well documented.
 
 The link to hypertrichosis is weak. Suppressing androgens could plausibly affect androgen-dependent hair growth (hirsutism). Hypertrichosis, however, is generally androgen-independent, so GnRH antagonism is not expected to address its cause. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -111,11 +111,12 @@ The prediction rests only on a score from the TxGNN model (deep learning), which
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "the cancelled EU authorization status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cetrotide (cetrorelix acetate) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aca7768e-28a7-4027-b1d8-e66247665f79) |
 
 <!-- review:end log -->
 

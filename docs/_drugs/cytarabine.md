@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **small cell lung carcinoma**, 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, cytarabine is a pyrimidine nucleoside analogue that inhibits DNA synthesis in cells in S-phase. Its efficacy in acute myeloid leukaemia is established, and mechanistically it may be applicable to rapidly proliferating tumours such as small cell lung carcinoma.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for cytarabine: "Although the mechanism of action is not completely understood, it appears that cytarabine acts through the inhibition of DNA polymerase. A limited, but significant, incorporation of cytarabine into both DNA and RNA has also been reported." ([DailyMed: cytarabine prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3a8c0e9-19ed-49b7-8464-11e8806f47fd), label version 2026-10-19; accessed 2026-11-19.) Based on known information, cytarabine is a pyrimidine nucleoside analogue that inhibits DNA synthesis in cells in S-phase. Its efficacy in acute myeloid leukaemia is established, and mechanistically it may be applicable to rapidly proliferating tumours such as small cell lung carcinoma.
 
 The link is plausible but weak. Most retrieved cytarabine studies in lung cancer are older phase II trials in **non-small cell** lung cancer, combined with cisplatin, and they showed modest results (for example, a 14% overall response rate with substantial grade III–IV myelosuppression in one study). One 1987 report on high-dose cytarabine in small cell lung cancer (PMID 3030547) was retrieved, but it has no abstract available, so its findings cannot be assessed. Several other papers concern related drugs (gemcitabine, topotecan, decitabine, pemetrexed) rather than cytarabine itself. Solid tumours are also generally less sensitive to cytarabine than leukaemias, so the high TxGNN score should not be read as clinical support.
 
@@ -138,12 +138,13 @@ The prediction has no registered clinical trials and no supportive SCLC data bey
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The NSCLC studies showed limited efficacy with significant toxicity, and the only EU authorisation has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "1 of 1 licence is valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: cytarabine prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3a8c0e9-19ed-49b7-8464-11e8806f47fd) |
 
 <!-- review:end log -->
 

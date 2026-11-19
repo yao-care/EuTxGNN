@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **amenorrhea**, but **no clinical 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, norelgestromin is a progestin that is combined with ethinyl estradiol in a transdermal contraceptive patch. Its efficacy in contraception has been established, and mechanistically it may be applicable to hormone-related menstrual disorders.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for norelgestromin and ethinyl estradiol (a combination product containing norelgestromin): "NGMN is the active progestin largely responsible for the progestational activity that occurs in women following application of norelgestromin and ethinyl estradiol transdermal system." ([DailyMed: norelgestromin and ethinyl estradiol prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10fa1458-c8ed-4197-922a-1ba7271d2b02), label version 2026-04-16; accessed 2026-11-19.) Based on known information, norelgestromin is a progestin that is combined with ethinyl estradiol in a transdermal contraceptive patch. Its efficacy in contraception has been established, and mechanistically it may be applicable to hormone-related menstrual disorders.
 
 Hormonal agents can regulate the menstrual cycle or induce withdrawal bleeding, so a plausible class-level link exists. However, amenorrhea is also a known effect of hormonal contraceptives, so it is not a validated therapeutic target for this drug. No drug-specific trials or literature were found, so this is a model-derived hypothesis only.
 
@@ -114,11 +114,12 @@ The prediction for amenorrhea is supported only by the TxGNN model score, with n
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "the EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: norelgestromin and ethinyl estradiol prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10fa1458-c8ed-4197-922a-1ba7271d2b02) |
 
 <!-- review:end log -->
 

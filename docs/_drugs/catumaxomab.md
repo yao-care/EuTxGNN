@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in a structured form. Pharmacology data indicate that catumaxomab is a trifunctional bispecific antibody that targets EpCAM on tumour cells and CD3 (CD3E) on T cells. It redirects T cells and accessory immune cells to kill EpCAM-positive cancer cells.
+ChEMBL (EMBL-EBI) records the mechanism of action of catumaxomab as: T cell surface glycoprotein CD3 cross-linking agent; Epithelial cell adhesion molecule cross-linking agent ([ChEMBL CHEMBL2108581 (catumaxomab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108581), CC BY-SA 3.0; accessed 2026-11-19.) Pharmacology data indicate that catumaxomab is a trifunctional bispecific antibody that targets EpCAM on tumour cells and CD3 (CD3E) on T cells. It redirects T cells and accessory immune cells to kill EpCAM-positive cancer cells.
 
 This mechanism does not fit the predicted indication. Diabetic retinopathy is a non-neoplastic microvascular disease driven by hyperglycaemia-related vascular damage, VEGF signalling and inflammation, not by EpCAM-positive cell populations. Immune-mediated cytotoxic killing is not a plausible therapy for it. Intraperitoneal dosing and the risk of cytokine release also make use in a chronic eye condition unrealistic.
 
@@ -129,12 +129,13 @@ The prediction rests on a model score alone. There are no trials or publications
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The compiled regulatory record, however, currently shows the license as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "The only EU authorisation on record is cancelled, which also limits practical access" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in a structured form" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2108581 (catumaxomab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108581) |
 
 <!-- review:end log -->
 

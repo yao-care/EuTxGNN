@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **acute female pelvic peritonit
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, bezlotoxumab is a monoclonal antibody that neutralizes C. difficile toxin B. Its efficacy in preventing CDI recurrence is the basis of its original approval.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for bezlotoxumab: "ZINPLAVA (bezlotoxumab) is a human monoclonal antibody that binds to C. difficile toxin B and neutralizes its effects. […] Bezlotoxumab is a human monoclonal antibody that binds C. difficile toxin B with an equilibrium dissociation constant (K d ) of &lt;1×10 -9 M. Bezlotoxumab inhibits the binding of toxin B and prevents its effects on mammalian cells. Bezlotoxumab does not bind to C. difficile toxin A. Activity In Vitro Bezlotoxumab binds to an epitope on toxin B that is conserved across reported strains of C. difficile, although amino acid sequence variation within the epitope does occur." ([DailyMed: Zinplava (bezlotoxumab) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f479bfe-2bfa-4cc5-9aee-1357364480b0), label version 2024-11-12; accessed 2026-11-19.) Based on known information, bezlotoxumab is a monoclonal antibody that neutralizes C. difficile toxin B. Its efficacy in preventing CDI recurrence is the basis of its original approval.
 
 Mechanistically, the link to the new indication is weak. Acute female pelvic peritonitis is typically a polymicrobial infection, and a toxin B-neutralizing antibody has no known activity against it. The high TxGNN score (0.9989) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -106,11 +106,12 @@ The prediction is supported only by a model score. There are no clinical trials 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization has been cancelled, which further limits the practical feasibility of repurposing" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zinplava (bezlotoxumab) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f479bfe-2bfa-4cc5-9aee-1357364480b0) |
 
 <!-- review:end log -->
 

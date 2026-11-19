@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **cauda equina neoplasm**, but 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From general pharmacological knowledge, temozolomide is an oral alkylating agent that methylates DNA (at O6-guanine, N7-guanine and N3-adenine). This produces cytotoxic lesions and apoptosis, and its activity depends largely on low expression of the repair enzyme MGMT.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for temozolomide: "Temozolomide is not directly active but undergoes rapid nonenzymatic conversion at physiologic pH to the reactive compound 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide (MTIC). The cytotoxicity of MTIC is thought to be primarily due to DNA alkylation, mainly at the O 6 and N 7 positions of guanine, which causes DNA double strand breaks and results in programmed cell death." ([DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56), label version 2026-02-20; accessed 2026-11-19.) From general pharmacological knowledge, temozolomide is an oral alkylating agent that methylates DNA (at O6-guanine, N7-guanine and N3-adenine). This produces cytotoxic lesions and apoptosis, and its activity depends largely on low expression of the repair enzyme MGMT.
 
 Cauda equina neoplasms are most often myxopapillary ependymomas, which are glial-type tumours of the central nervous system. Because temozolomide is established in malignant gliomas, activity in a related CNS glial tumour is biologically plausible. However, this is an extrapolation. No MGMT status data are available for this tumour type, and the high TxGNN score is a computational prediction rather than clinical evidence.
 
@@ -119,6 +119,19 @@ Temozolomide is well established in glioma, and a CNS glial-tumour extension is 
 - A systematic literature search for temozolomide in myxopapillary ependymoma and other cauda equina tumours
 - Data on MGMT status in these tumours
 - Clinical trial or well-designed observational evidence for this specific disease
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

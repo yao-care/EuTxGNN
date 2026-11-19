@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant for **stroke disorder**, but no clin
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, dronedarone blocks several ion channels (sodium, potassium and calcium currents) and has rate- and rhythm-controlling properties. Its clinical use is in atrial fibrillation (AF).
+According to the Mechanism of Action section of the US FDA-approved prescribing information for dronedarone: "The mechanism of action of dronedarone is unknown. Dronedarone has antiarrhythmic properties belonging to all four Vaughan-Williams classes, but the contribution of each of these activities to the clinical effect is unknown." ([DailyMed: Multaq (dronedarone) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bd4006a-8bad-4909-ac6d-b6d84390155c), label version 2026-01-27; accessed 2026-11-19.) Based on known information, dronedarone blocks several ion channels (sodium, potassium and calcium currents) and has rate- and rhythm-controlling properties. Its clinical use is in atrial fibrillation (AF).
 
 AF is a major cause of cardioembolic stroke. Any benefit in stroke would most likely be indirect, through maintaining sinus rhythm and reducing thromboembolic risk. Post-hoc analyses of the ATHENA trial reported a lower stroke incidence in patients with paroxysmal or persistent AF. A preclinical study (PMID 28992468) also reported anticoagulant and antiplatelet effects that are independent of the antiarrhythmic action, and another review (PMID 22366819) discusses possible protection against ischaemia/reperfusion injury in heart and brain.
 
@@ -119,11 +119,12 @@ The prediction score is very high (0.9997), but no study tests dronedarone for s
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Dronedarone's only EU authorization is cancelled" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Multaq (dronedarone) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bd4006a-8bad-4909-ac6d-b6d84390155c) |
 
 <!-- review:end log -->
 

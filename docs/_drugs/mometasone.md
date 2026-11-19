@@ -56,7 +56,7 @@ but there are currently **no registered clinical trials** and only **2 case repo
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, mometasone acts on the glucocorticoid receptor (NR3C1). Activating this receptor produces anti-inflammatory and immunosuppressive effects, including reduced T-cell activation and cytokine production.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for mometasone: "Mometasone furoate is a corticosteroid demonstrating potent anti-inflammatory activity. The precise mechanism of corticosteroid action on asthma is not known. Inflammation is an important component in the pathogenesis of asthma." ([DailyMed: Asmanex Hfa (mometasone furoate) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c6d63da-41bc-4894-bead-198e66c848ac), label version 2026-07-07; accessed 2026-11-19.) Based on known pharmacology, mometasone acts on the glucocorticoid receptor (NR3C1). Activating this receptor produces anti-inflammatory and immunosuppressive effects, including reduced T-cell activation and cytokine production.
 
 Primary cutaneous T-cell lymphomas, such as mycosis fungoides, are T-cell malignancies of the skin. Topical corticosteroids are an established skin-directed therapy for early-stage mycosis fungoides, so a biological link is plausible. Mometasone is also available as a topical product (for example, Elocon®), which fits skin-directed use.
 
@@ -107,6 +107,19 @@ The prediction score is high, but there are no registered clinical trials and th
 - Literature or trial data on topical mometasone in early-stage mycosis fungoides or other cutaneous T-cell lymphomas, compared with other topical corticosteroids
 - Assessment of route and formulation compatibility, since the authorized products are inhaled and a topical formulation would be needed
 - Clarification of the regulatory status given that the drug is marketed with 4 of 4 licences valid
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Asmanex Hfa (mometasone furoate) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c6d63da-41bc-4894-bead-198e66c848ac) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

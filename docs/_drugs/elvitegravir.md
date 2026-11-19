@@ -56,7 +56,7 @@ but there are **0 registered clinical trials** and only **preclinical literature
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From known pharmacology, elvitegravir is an integrase strand transfer inhibitor (INSTI): it blocks the step in which viral DNA is inserted into the host genome. Its efficacy in HIV-1 infection is established through its use in the Genvoya and Stribild fixed-dose combinations.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate (a combination product containing elvitegravir): "STRIBILD is a fixed-dose combination of antiretroviral drugs elvitegravir (boosted by the CYP3A inhibitor cobicistat), emtricitabine, and TDF." ([DailyMed: Stribild (elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74ae2a93-b267-444c-8f0f-a2a6522260ee), label version 2025-02-04; accessed 2026-11-19.) From known pharmacology, elvitegravir is an integrase strand transfer inhibitor (INSTI): it blocks the step in which viral DNA is inserted into the host genome. Its efficacy in HIV-1 infection is established through its use in the Genvoya and Stribild fixed-dose combinations.
 
 SIV is a close relative of HIV, and its integrase enzyme is structurally related to that of HIV-1. In vitro studies show SIVmac239 is susceptible to INSTIs, and the same integrase resistance mutations produce similar effects in both viruses. In macaques, vaginal and rectal inserts containing tenofovir alafenamide and elvitegravir protected against SHIV (simian/human immunodeficiency virus) exposure, with 93% efficacy for pre-exposure use and 100% (vaginal) and 82.9% (rectal) when given after exposure.
 
@@ -127,12 +127,13 @@ The only supporting evidence is preclinical (in vitro and animal models). SIV in
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both EU authorizations are cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "given that both EU authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Stribild (elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74ae2a93-b267-444c-8f0f-a2a6522260ee) |
 
 <!-- review:end log -->
 

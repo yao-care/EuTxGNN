@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **duodenal ulcer**, but **no cl
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Pharmacology data show that teriparatide, the human PTH(1-34) peptide, acts on the PTH1 receptor (PTH1R) and also binds the PTH2 receptor. Its established clinical effect is bone-forming (anabolic) action in osteoporosis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for teriparatide: "Endogenous 84-amino acid parathyroid hormone (PTH) is the primary regulator of calcium and phosphate metabolism in bone and kidney. Physiological actions of PTH include regulation of bone metabolism, renal tubular reabsorption of calcium and phosphate, and intestinal calcium absorption. […] The biological actions of PTH and teriparatide are mediated through binding to specific high-affinity cell-surface receptors." ([DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c), label version 2026-08-31; accessed 2026-11-19.) Pharmacology data show that teriparatide, the human PTH(1-34) peptide, acts on the PTH1 receptor (PTH1R) and also binds the PTH2 receptor. Its established clinical effect is bone-forming (anabolic) action in osteoporosis.
 
 We could not identify a plausible link between this bone-remodeling mechanism and duodenal ulcer. Duodenal ulcer is a gastrointestinal mucosal disease, and nothing in the compiled data connects PTH1R signaling to gastric acid, mucosal defense or *H. pylori*-related disease. The very high score (0.9986, model rank 1979) is not backed by any trial or publication, so it should be treated as a hypothesis-generating output rather than a credible repurposing lead.
 
@@ -133,11 +133,12 @@ The duodenal ulcer prediction rests on a model score alone. There are no trials 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All seven EU centralized authorizations are valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c) |
 
 <!-- review:end log -->
 

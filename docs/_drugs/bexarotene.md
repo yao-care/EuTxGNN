@@ -58,7 +58,7 @@ Bexarotene is an oral rexinoid that selectively activates retinoid X receptors (
 
 ## Why is This Prediction Reasonable?
 
-Bexarotene activates RXRs, which are ligand-activated transcription factors. Through them it modulates gene expression, cell growth, differentiation and apoptosis. In malignant T cells, this RXR-mediated pro-apoptotic and differentiating activity is the established basis of its use. Detailed mechanism-of-action data were not available in the data compiled for this report.
+Bexarotene activates RXRs, which are ligand-activated transcription factors. Through them it modulates gene expression, cell growth, differentiation and apoptosis. In malignant T cells, this RXR-mediated pro-apoptotic and differentiating activity is the established basis of its use. According to the Mechanism of Action section of the US FDA-approved prescribing information for bexarotene: "Bexarotene selectively binds and activates retinoid X receptor subtypes (RXRα, RXRß, RXRγ). RXRs can form heterodimers with various receptor partners such as retinoic acid receptors (RARs), vitamin D receptor, thyroid receptor, and peroxisome proliferator activator receptors (PPARs)." ([DailyMed: Targretin (bexarotene) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1d056725-0576-4338-8089-6336e768ccdc), label version 2020-04-30; accessed 2026-11-19.)
 
 The high score most likely reflects the close biological and clinical proximity of cutaneous lymphoma subtypes. Both T-cell and B-cell forms are skin-limited lymphoproliferative disorders and are often discussed together in classification schemes and treatment reviews. No B-cell-specific mechanism for bexarotene has been shown. The retrieved literature consists of general cutaneous lymphoma reviews and case reports that mostly concern T-cell subtypes. The mechanistic link to B-cell disease therefore remains a hypothesis.
 
@@ -143,11 +143,12 @@ The prediction score is high (0.9944), but no clinical trial and no publication 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only authorization is cancelled, and the label-level safety data were not available for review" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Targretin (bexarotene) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1d056725-0576-4338-8089-6336e768ccdc) |
 
 <!-- review:end log -->
 

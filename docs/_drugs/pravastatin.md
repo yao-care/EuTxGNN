@@ -54,7 +54,7 @@ Pravastatin is a statin, originally authorised in the EU (as part of the fixed-d
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Pravastatin belongs to the statin class, which inhibits HMG-CoA reductase and upregulates hepatic LDL receptors, and its lipid-lowering efficacy in hyperlipidaemia is well established. Mechanistically, it could be applicable to familial hypercholesterolemia, which is also a disorder of high LDL cholesterol.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for pravastatin: "Pravastatin is a reversible inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol." ([DailyMed: pravastatin sodium prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be592e98-8a17-4c18-99b8-0f3a67000e2d), label version 2026-10-23; accessed 2026-11-19.) Pravastatin belongs to the statin class, which inhibits HMG-CoA reductase and upregulates hepatic LDL receptors, and its lipid-lowering efficacy in hyperlipidaemia is well established. Mechanistically, it could be applicable to familial hypercholesterolemia, which is also a disorder of high LDL cholesterol.
 
 However, the rationale is weak for the homozygous form. Homozygous familial hypercholesterolemia involves severely reduced or absent LDL receptor function, so a drug that works by raising LDL receptor expression is expected to have limited effect. One of the retrieved reviews also states that statins are not very effective in this condition. The prediction therefore appears to reflect network proximity in lipid metabolism rather than a demonstrated therapeutic link.
 
@@ -123,11 +123,12 @@ Dyslipidemia in HIV has the largest body of pravastatin-specific trials (evidenc
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The only EU authorisation for a pravastatin-containing product is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: pravastatin sodium prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be592e98-8a17-4c18-99b8-0f3a67000e2d) |
 
 <!-- review:end log -->
 

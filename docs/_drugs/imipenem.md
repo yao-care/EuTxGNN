@@ -58,7 +58,7 @@ Among the other predictions, typhoid fever and *Staphylococcus aureus* infection
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, imipenem is a carbapenem antibacterial that inhibits bacterial cell wall synthesis, and its efficacy in serious Gram-negative infections is established.
+ChEMBL (EMBL-EBI) records the mechanism of action of imipenem as: Bacterial penicillin-binding protein inhibitor ([ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, imipenem is a carbapenem antibacterial that inhibits bacterial cell wall synthesis, and its efficacy in serious Gram-negative infections is established.
 
 For diffuse scleroderma, however, no plausible mechanistic link exists. Scleroderma is an autoimmune fibrotic disease, while imipenem acts on bacterial targets. The very high TxGNN score (0.9999) reflects a model prediction only, and no trials or literature support it. This prediction should be treated as a likely artefact rather than a real repurposing opportunity.
 
@@ -137,11 +137,12 @@ The top-ranked prediction (diffuse scleroderma) has no mechanistic rationale, no
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708) |
 
 <!-- review:end log -->
 

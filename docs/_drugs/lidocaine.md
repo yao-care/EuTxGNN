@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **punctate epithelial keratocon
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Lidocaine is generally known as a sodium channel blocker that reduces sensory nerve signalling, and in the EU it is authorised for primary premature ejaculation. This is a topical use that works by dulling local sensation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lidocaine: "Lidocaine hydrochloride exerts an antiarrhythmic effect by increasing the electrical stimulation threshold of the ventricle during diastole. In usual therapeutic doses, lidocaine hydrochloride produces no change in myocardial contractility, in systemic arterial pressure, or in absolute refractory period." ([DailyMed: Lidocaine Hydrochloride And Dextrose (lidocaine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f21512ea-c7c3-4766-b976-b2c0b5616bf0), label version 2026-02-20; accessed 2026-11-19.) Lidocaine is generally known as a sodium channel blocker that reduces sensory nerve signalling, and in the EU it is authorised for primary premature ejaculation. This is a topical use that works by dulling local sensation.
 
 The predicted disease is an inflammatory condition of the ocular surface. A topical anaesthetic could in theory relieve surface pain or discomfort. However, there is no evidence that lidocaine changes the course of this disease. Topical anaesthetics can also impair corneal epithelial healing, which raises a plausible safety concern for a condition that already involves corneal epithelial damage. The prediction should therefore be read as a hypothesis, not as supported benefit.
 
@@ -104,6 +104,19 @@ The prediction score is very high, but there are no trials or publications on li
 - EU SmPC warnings and contraindications
 - Assessment of whether an ophthalmic formulation and route would be feasible, since the only authorised product is for premature ejaculation
 - For context, among the other predictions only atopic conjunctivitis (mechanistic and physiological literature) and conjunctival disorder (procedural anaesthesia trials) have any related material. Neither directly supports treating a disease with lidocaine, so both remain research questions.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lidocaine Hydrochloride And Dextrose (lidocaine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f21512ea-c7c3-4766-b976-b2c0b5616bf0) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

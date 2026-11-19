@@ -60,7 +60,7 @@ This prediction rests on the model score alone, with **0 clinical trials** and *
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Azathioprine is a purine antimetabolite immunosuppressant, and its efficacy in transplant rejection and autoimmune disease is established. It is generally understood to suppress lymphocyte proliferation.
+ChEMBL (EMBL-EBI) records the mechanism of action of azathioprine as: Amidophosphoribosyltransferase inhibitor; DNA inhibitor ([ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542), CC BY-SA 3.0; accessed 2026-11-19.) Azathioprine is a purine antimetabolite immunosuppressant, and its efficacy in transplant rejection and autoimmune disease is established. It is generally understood to suppress lymphocyte proliferation.
 
 The predicted indication, colobomatous microphthalmia-rhizomelic dysplasia syndrome, is a rare congenital developmental disorder of the eye and skeleton. No plausible mechanistic link between purine antimetabolite immunosuppression and this condition has been identified. The very high score (1.0000) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should not be read as biological or clinical support.
 
@@ -128,11 +128,12 @@ The prediction rests on the model score alone (evidence level L5), with no trial
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Confirmation of the product's current regulatory status in the EU, since the only authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542) |
 
 <!-- review:end log -->
 

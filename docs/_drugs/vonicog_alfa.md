@@ -56,7 +56,7 @@ The model's top-ranked predictions are network-based only and are not backed by 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Vonicog alfa is recombinant VWF, which mediates platelet adhesion and aggregation at sites of vascular injury and carries Factor VIII. Its efficacy in von Willebrand disease is the basis of its authorization.
+ChEMBL (EMBL-EBI) records the mechanism of action of vonicog alfa as: von Willebrand factor exogenous protein ([ChEMBL CHEMBL2107873 (vonicog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107873), CC BY-SA 3.0; accessed 2026-11-19.) Vonicog alfa is recombinant VWF, which mediates platelet adhesion and aggregation at sites of vascular injury and carries Factor VIII. Its efficacy in von Willebrand disease is the basis of its authorization.
 
 For primary release disorder of platelets, the defect lies in the platelet's own granule content or signaling. Exogenous VWF is therefore not expected to correct it. The high TxGNN score reflects a network-based association only, and the mechanistic link is weak.
 
@@ -104,6 +104,19 @@ No clinical trial or publication directly studies vonicog alfa in primary releas
 - Mechanism of action data and SmPC warnings and contraindications
 - Mechanistic and preclinical studies testing whether VWF replacement affects platelet function in release disorders
 - Clarification of ambiguous predicted terms (e.g., "flood factor deficiency") and consideration of a narrower, more testable indication such as acquired von Willebrand syndrome
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2107873 (vonicog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107873) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

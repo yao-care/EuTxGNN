@@ -56,7 +56,7 @@ Of these, several Phase 2 studies directly address follicular lymphoma, but they
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data from the drug database is not available for this report. Based on the data compiled, ofatumumab is a fully human anti-CD20 monoclonal antibody. It binds a distinct epitope of CD20 on B cells and kills them through complement-dependent cytotoxicity and antibody-dependent cellular cytotoxicity.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ofatumumab: "The precise mechanism by which ofatumumab exerts its therapeutic effects in multiple sclerosis is unknown, but is presumed to involve binding to CD20, a cell surface antigen present on pre-B and mature B lymphocytes. Following cell surface binding to B lymphocytes, ofatumumab results in antibody-dependent cellular cytolysis and complement-mediated lysis." ([DailyMed: Kesimpta (ofatumumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a8a3f53-2062-48ff-9dbe-b939df133ca3), label version 2026-04-01; accessed 2026-11-19.) Based on the data compiled, ofatumumab is a fully human anti-CD20 monoclonal antibody. It binds a distinct epitope of CD20 on B cells and kills them through complement-dependent cytotoxicity and antibody-dependent cellular cytotoxicity.
 
 In multiple sclerosis, the rationale is depletion of B cells. Follicular lymphoma is a CD20-positive B-cell malignancy, so the same target is directly relevant. The Phase 2 studies below, including activity in rituximab-refractory disease, support this rationale.
 
@@ -124,6 +124,19 @@ Several completed Phase 2 trials and publications, including randomized studies,
 - Clarification of why the Phase 3 trial (NCT01077518) was terminated and a review of its results
 - A dose and route strategy, since the lymphoma evidence uses intravenous dosing and differs from the subcutaneous MS regimen
 - A comparison against established anti-CD20 options (e.g., rituximab) in follicular lymphoma
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data from the drug database is not available for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Kesimpta (ofatumumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a8a3f53-2062-48ff-9dbe-b939df133ca3) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

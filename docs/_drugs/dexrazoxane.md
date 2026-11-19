@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, dexrazoxane is a cardioprotectant and iron chelator used alongside anthracycline chemotherapy, and its efficacy in anthracycline extravasation was the basis of its EU authorization.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for dexrazoxane: "The mechanism by which dexrazoxane exerts its cytoprotective activity is not fully understood. Dexrazoxane is a cyclic derivative of EDTA that penetrates cell membranes. Results of laboratory studies suggest that dexrazoxane is converted intracellularly to a ring-opened chelating agent that interferes with iron-mediated free radical generation thought to be responsible, in part, for anthracycline-induced cardiomyopathy." ([DailyMed: dexrazoxane prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7c01089-85f5-40aa-b679-f53a425b4d68), label version 2025-07-31; accessed 2026-11-19.) Based on known information, dexrazoxane is a cardioprotectant and iron chelator used alongside anthracycline chemotherapy, and its efficacy in anthracycline extravasation was the basis of its EU authorization.
 
 A speculative link to sclerosing cholangitis is that iron chelation and topoisomerase II modulation might reduce oxidative injury and inflammation in the biliary epithelium. This idea is not supported by any evidence compiled for this report. The very high prediction score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so it should be treated as a hypothesis only.
 
@@ -116,11 +116,12 @@ The prediction for sclerosing cholangitis rests on the model score alone, with n
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "he sole EU authorization has been cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: dexrazoxane prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7c01089-85f5-40aa-b679-f53a425b4d68) |
 
 <!-- review:end log -->
 

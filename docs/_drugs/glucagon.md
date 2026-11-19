@@ -54,7 +54,7 @@ Glucagon is a peptide hormone used to treat severe hypoglycaemia in people with 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug. Glucagon is a known short-acting relaxant of gastrointestinal smooth muscle, which is mechanistically plausible for spasm-related symptoms in irritable bowel syndrome.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for glucagon: "Glucagon increases blood glucose concentration by activating hepatic glucagon receptors, thereby stimulating glycogen breakdown and release of glucose from the liver. Hepatic stores of glycogen are necessary for glucagon to produce an antihypoglycemic effect." ([DailyMed: glucagon prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e4be1c0e-0fe6-45a0-9229-5cde98434b84), label version 2020-09-16; accessed 2026-11-19.) Glucagon is a known short-acting relaxant of gastrointestinal smooth muscle, which is mechanistically plausible for spasm-related symptoms in irritable bowel syndrome.
 
 Peptides of the glucagon/GLP-1 family also slow gastrointestinal motility and may influence visceral sensation through the gut-brain axis. However, the studies behind this idea used GLP-1 or the GLP-1 analogue ROSE-010, not glucagon. The link to glucagon is therefore indirect, and no trial in the compiled data evaluates glucagon for irritable bowel syndrome.
 
@@ -110,6 +110,18 @@ No study tests glucagon in irritable bowel syndrome. The supporting trials and p
 - Mechanism of action data for glucagon
 - Review of the SmPC warnings and contraindications
 - Assessment of whether the available routes of administration suit a gastrointestinal indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: glucagon prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e4be1c0e-0fe6-45a0-9229-5cde98434b84) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

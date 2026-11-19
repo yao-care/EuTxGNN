@@ -56,7 +56,7 @@ The mechanistic fit is only partial, because atopic dermatitis is mainly Th2-dri
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on known information, risankizumab is a humanised IgG monoclonal antibody that targets the p19 subunit of IL-23. IL-23/Th17 signalling contributes to several inflammatory skin diseases, and its efficacy in plaque psoriasis is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for risankizumab: "Risankizumab-rzaa is a humanized IgG1 monoclonal antibody that selectively binds to the p19 subunit of human IL-23 cytokine and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in inflammatory and immune responses." ([DailyMed: Skyrizi (risankizumab-rzaa) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7148c8eb-b39e-e20a-6494-a6df82392858), label version 2026-10-23; accessed 2026-11-19.) Based on known information, risankizumab is a humanised IgG monoclonal antibody that targets the p19 subunit of IL-23. IL-23/Th17 signalling contributes to several inflammatory skin diseases, and its efficacy in plaque psoriasis is established.
 
 Atopic dermatitis, the most common form of dermatitis, is predominantly Th2-driven, although Th22 and possibly Th17 pathways are also involved. This gives a partial rationale for IL-23 and IL-22 blockade, but the mechanistic link is weaker than in psoriasis.
 
@@ -132,12 +132,13 @@ A completed Phase 2 RCT (n=172) exists for atopic dermatitis, which supports an 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The market authorisation is also recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the cancelled EU authorisation status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Skyrizi (risankizumab-rzaa) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7148c8eb-b39e-e20a-6494-a6df82392858) |
 
 <!-- review:end log -->
 

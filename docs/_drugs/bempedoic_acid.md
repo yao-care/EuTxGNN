@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **hyperthyroidism**, but **no c
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Bempedoic acid is a non-statin cholesterol-lowering agent. It is understood to inhibit ATP-citrate lyase, an enzyme upstream of HMG-CoA reductase in cholesterol synthesis. Its efficacy in lowering LDL-C is established, but a mechanistic link to excess thyroid hormone is not apparent.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for bempedoic acid: "Bempedoic acid is an adenosine triphosphate-citrate lyase (ACL) inhibitor that lowers LDL-C by inhibition of cholesterol synthesis in the liver. ACL is an enzyme upstream of 3-hydroxy-3-methyl-glutaryl-coenzyme A (HMG-CoA) reductase in the cholesterol biosynthesis pathway." ([DailyMed: Nexletol (bempedoic acid) prescribing information, Esperion Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9), label version 2026-06-25; accessed 2026-11-19.) Bempedoic acid is a non-statin cholesterol-lowering agent. It is understood to inhibit ATP-citrate lyase, an enzyme upstream of HMG-CoA reductase in cholesterol synthesis. Its efficacy in lowering LDL-C is established, but a mechanistic link to excess thyroid hormone is not apparent.
 
 The high score (0.9961) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Hyperthyroidism is an endocrine disorder of thyroid hormone excess and is unrelated to the original lipid indication. Nothing in the available data connects ATP-citrate lyase inhibition to thyroid hormone production or action. The prediction should therefore be read as a hypothesis from the model, not as a finding with biological support.
 
@@ -129,12 +129,13 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization is also currently cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the regulatory status of the cancelled EU authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nexletol (bempedoic acid) prescribing information, Esperion Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9) |
 
 <!-- review:end log -->
 

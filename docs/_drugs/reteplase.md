@@ -55,7 +55,7 @@ Currently there are **0 registered clinical trials** and **1 publication** (a ca
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, reteplase is a recombinant tissue plasminogen activator that dissolves fibrin clots in blocked coronary arteries. Its efficacy in ST-elevation myocardial infarction is established.
+ChEMBL (EMBL-EBI) records the mechanism of action of reteplase as: Tissue-type plasminogen activator exogenous protein ([ChEMBL CHEMBL2107885 (reteplase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107885), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, reteplase is a recombinant tissue plasminogen activator that dissolves fibrin clots in blocked coronary arteries. Its efficacy in ST-elevation myocardial infarction is established.
 
 Posterolateral myocardial infarction is an anatomical subtype of acute myocardial infarction, so the same thrombolytic mechanism applies directly. This is therefore largely a subset of the existing label rather than true repurposing.
 
@@ -118,11 +118,12 @@ The predicted indication is essentially a subtype of the approved ST-elevation M
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "e sol" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2107885 (reteplase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107885) |
 
 <!-- review:end log -->
 

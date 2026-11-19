@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Hodgkins lymphoma**, but none
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Duvelisib is known as an inhibitor of PI3K-delta and PI3K-gamma. These enzymes support B-cell receptor signalling and the tumour microenvironment in lymphoid malignancies.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for duvelisib: "Duvelisib is an inhibitor of PI3K with inhibitory activity predominantly against PI3K-δ and PI3K-γ isoforms expressed in normal and malignant B-cells. Duvelisib induced growth inhibition and reduced viability in cell lines derived from malignant B-cells and in primary CLL tumor cells." ([DailyMed: Copiktra (duvelisib) prescribing information, Secura Bio, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3c5ac56-e1f6-473a-bc73-687836534780), label version 2025-12-18; accessed 2026-11-19.) Duvelisib is known as an inhibitor of PI3K-delta and PI3K-gamma. These enzymes support B-cell receptor signalling and the tumour microenvironment in lymphoid malignancies.
 
 The supporting studies are mostly in indolent non-Hodgkin lymphoma (follicular lymphoma, T-cell lymphoma) and CLL. No trial or publication addresses Hodgkin lymphoma specifically. The prediction probably reflects a broad "lymphoma" grouping, so the link to Hodgkin lymphoma is indirect. Because no cited study directly examines this disease, the evidence level is capped at L5, even though trials in related lymphomas exist.
 
@@ -131,6 +131,19 @@ The TxGNN score is high (0.9994), but no trial or publication directly studies d
 - Mechanism of action data for duvelisib
 - Warnings and contraindications from the SmPC
 - A review of the major drug interactions, especially with strong CYP3A inhibitors
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Copiktra (duvelisib) prescribing information, Secura Bio, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3c5ac56-e1f6-473a-bc73-687836534780) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

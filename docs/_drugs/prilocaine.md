@@ -55,7 +55,7 @@ The TxGNN model's top-ranked prediction is **papillary conjunctivitis**, but tha
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, prilocaine is an amide-type local anesthetic. Drugs in this class generally block voltage-gated sodium channels in nerve fibres, which reduces the transmission of pain and sensory signals. Its authorized use in premature ejaculation relies on reducing sensitivity of the treated area.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for prilocaine: "Prilocaine stabilizes the neuronal membrane by inhibiting the ionic fluxes required for the initiation and conduction of impulses, thereby effecting local anesthetic action." ([DailyMed: Citanest Plain (prilocaine hydrochloride) prescribing information, Dentsply Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=db23a56f-1e41-4843-9220-1b2e3059db41), label version 2021-11-10; accessed 2026-11-19.) Based on known information, prilocaine is an amide-type local anesthetic. Drugs in this class generally block voltage-gated sodium channels in nerve fibres, which reduces the transmission of pain and sensory signals. Its authorized use in premature ejaculation relies on reducing sensitivity of the treated area.
 
 **Papillary conjunctivitis (rank 1).** The model score is very high (0.9978), but no clinical trials or publications were found. Relief of ocular surface discomfort through sodium-channel blockade is conceivable, but it is speculative. Ocular use of a product developed for topical application to the penis would also raise formulation and safety questions.
 
@@ -154,12 +154,13 @@ Package-insert warnings and contraindications were not available in the data com
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "he EU authorization is also cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "why the Fortacin authorization was cancelled, and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Citanest Plain (prilocaine hydrochloride) prescribing information, Dentsply Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=db23a56f-1e41-4843-9220-1b2e3059db41) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **amyotrophic lateral sclerosis
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, cobimetinib is a MEK1/2 inhibitor that blocks the MAPK/ERK signalling pathway. Its efficacy in BRAF V600-mutant melanoma, where it is combined with the BRAF inhibitor vemurafenib, has been established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for cobimetinib: "Cobimetinib is a reversible inhibitor of mitogen-activated protein kinase (MAPK)/extracellular signal regulated kinase 1 (MEK1) and MEK2. MEK proteins are upstream regulators of the extracellular signal-related kinase (ERK) pathway, which promotes cellular proliferation." ([DailyMed: Cotellic (cobimetinib) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c387579e-cee0-4334-bd1e-73f93ac1bde6), label version 2026-07-29; accessed 2026-11-19.) Based on known pharmacology, cobimetinib is a MEK1/2 inhibitor that blocks the MAPK/ERK signalling pathway. Its efficacy in BRAF V600-mutant melanoma, where it is combined with the BRAF inhibitor vemurafenib, has been established.
 
 MAPK/ERK pathway activation has been implicated in neuroinflammation and motor neuron stress responses in ALS models. This offers a plausible but unvalidated rationale for the prediction. Melanoma and ALS are very different diseases, and no direct similarity between the original and new indication has been established.
 
@@ -153,12 +153,13 @@ The ALS prediction has a very high model score but no registered trials, no lite
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization has been cancelled, and brain penetration and the toxicity profile raise concerns for a chronic neurodegenerative " | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "of the cancelled EU authorization status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cotellic (cobimetinib) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c387579e-cee0-4334-bd1e-73f93ac1bde6) |
 
 <!-- review:end log -->
 

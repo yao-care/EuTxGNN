@@ -60,7 +60,7 @@ It rests on the model score alone.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Canakinumab is known as a monoclonal antibody that neutralizes IL-1β, and its efficacy in IL-1β-driven autoinflammatory diseases is established. Mechanistically, it could in theory be applicable to inflammation-related conditions in other organs.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for canakinumab: "Canakinumab is a human monoclonal anti-human IL-1β antibody of the IgG1/κ isotype. Canakinumab binds to human IL-1β and neutralizes its activity by blocking its interaction with IL-1 receptors, but it does not bind IL-1α or IL-1 receptor antagonist (IL-1ra)." ([DailyMed: Ilaris (canakinumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d271f3b-e4f9-4d80-8dcf-28d49123f80e), label version 2026-06-08; accessed 2026-11-19.) Canakinumab is known as a monoclonal antibody that neutralizes IL-1β, and its efficacy in IL-1β-driven autoinflammatory diseases is established. Mechanistically, it could in theory be applicable to inflammation-related conditions in other organs.
 
 The link to hepatic infarction is weak. Hepatic infarction is mainly an ischemic or vascular event, not a primary autoinflammatory disease. Any connection would be speculative, for example inflammation-driven thrombosis. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No similarity analysis between the original and predicted indications has been completed.
 
@@ -128,11 +128,12 @@ The prediction is supported only by the model score. There are no trials or publ
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization is also recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ilaris (canakinumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d271f3b-e4f9-4d80-8dcf-28d49123f80e) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **acute lymphoblastic leukemia*
 
 ## Why is This Prediction Reasonable?
 
-Sotatercept is an activin receptor type IIA-Fc fusion protein. It acts as a ligand trap for activin and related TGF-beta superfamily members. Currently, detailed mechanism of action data is not available in the data compiled for this report, so this description is based on general knowledge of the drug class.
+Sotatercept is an activin receptor type IIA-Fc fusion protein. It acts as a ligand trap for activin and related TGF-beta superfamily members. According to the Mechanism of Action section of the US FDA-approved prescribing information for sotatercept: "Sotatercept-csrk, a recombinant activin receptor type IIA-Fc (ActRIIA-Fc) fusion protein, is an activin signaling inhibitor that binds to activin A and other TGF- β superfamily ligands. As a result, sotatercept-csrk improves the balance between the pro-proliferative (ActRIIA/Smad2/3-mediated) and anti-proliferative (BMPRII/Smad1/5/8-mediated) signaling to modulate vascular proliferation." ([DailyMed: Winrevair (sotatercept-csrk) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=21693ee2-cd23-4137-ac67-066bb3a4a9b7), label version 2026-09-21; accessed 2026-11-19.) This description is based on general knowledge of the drug class.
 
 Activin signaling has been implicated in the regulation of blood cell formation, so a biological connection to a leukemia is conceivable. However, no data link activin trapping to leukemic cell survival in acute lymphoblastic leukemia. The relationship between PAH, a vascular disease, and a blood cancer is weak. The high TxGNN score (0.9978) is a computational output and cannot be verified from the supplied data.
 
@@ -121,12 +121,13 @@ The prediction for acute lymphoblastic leukemia rests solely on a model score. T
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization is recorded as cancelled, which also needs clarification" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "The only authorization is recorded with a status of cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Winrevair (sotatercept-csrk) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=21693ee2-cd23-4137-ac67-066bb3a4a9b7) |
 
 <!-- review:end log -->
 

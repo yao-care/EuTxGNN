@@ -55,7 +55,7 @@ There are currently **no registered clinical trials** for this subtype. The lite
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on the published literature, rimegepant is a small-molecule CGRP (calcitonin gene-related peptide) receptor antagonist. It is approved for the acute treatment of migraine with or without aura, and for the preventive treatment of episodic migraine.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for rimegepant: "Rimegepant is a calcitonin gene-related peptide receptor antagonist." ([DailyMed: Nurtec Odt (rimegepant sulfate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ef08e09-1098-35cc-e053-2a95a90a3e1d), label version 2026-06-04; accessed 2026-11-19.) Based on the published literature, rimegepant is a small-molecule CGRP (calcitonin gene-related peptide) receptor antagonist. It is approved for the acute treatment of migraine with or without aura, and for the preventive treatment of episodic migraine.
 
 Migraine with brainstem aura is a subtype of migraine. The CGRP-pathway rationale is therefore strong. Arguably, this is a subtype within the existing label rather than a true repurposing indication. The gepant mechanism is non-vasoconstrictive. This may be an advantage over triptans, which have historically been used with caution in this subtype. A small imaging study in migraine patients (PMID 41574090) examined rimegepant's effect on cerebral and extracerebral arteries. This is consistent with the mechanism but does not address this subtype.
 
@@ -131,12 +131,13 @@ The CGRP-pathway rationale is sound, since brainstem aura is a migraine subtype.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only authorization is cancelled, and the label's warnings and contraindications could not be reviewed" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "of why the EU authorization was cancelled and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nurtec Odt (rimegepant sulfate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ef08e09-1098-35cc-e053-2a95a90a3e1d) |
 
 <!-- review:end log -->
 

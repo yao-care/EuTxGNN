@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Hurler syndrome**, but **no c
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, imiglucerase is a recombinant beta-glucocerebrosidase, an enzyme replacement therapy whose efficacy in Gaucher disease is established. Its link to Hurler syndrome is weak.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for imiglucerase: "Gaucher disease is characterized by a deficiency of β-glucocerebrosidase activity, which results in accumulation of glucocerebroside in various tissues including liver, spleen, and bone marrow. The mannose sugars on imiglucerase mediate binding to and internalization by cells including macrophages." ([DailyMed: Cerezyme (imiglucerase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df60f030-866b-4374-a31f-8ae3f6b45c38), label version 2026-08-27; accessed 2026-11-19.) Based on known information, imiglucerase is a recombinant beta-glucocerebrosidase, an enzyme replacement therapy whose efficacy in Gaucher disease is established. Its link to Hurler syndrome is weak.
 
 Hurler syndrome (MPS I) is caused by a deficiency of a different lysosomal enzyme, alpha-L-iduronidase, which breaks down glycosaminoglycans. Imiglucerase does not supply this missing enzyme and acts on a different substrate. The only shared element is the broad concept of lysosomal storage disease and enzyme replacement therapy.
 
@@ -110,11 +110,12 @@ There is no clinical trial evidence, and the only supporting publication is a ge
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "In addition, the only EU authorization for imiglucerase is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cerezyme (imiglucerase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df60f030-866b-4374-a31f-8ae3f6b45c38) |
 
 <!-- review:end log -->
 

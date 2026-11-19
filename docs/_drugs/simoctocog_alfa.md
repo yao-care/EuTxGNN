@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **pseudo-von Willebrand disease
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available from DrugBank for this report. Based on known information, simoctocog alfa is a recombinant FVIII replacement product. Its efficacy in haemophilia A comes from supplying the missing FVIII cofactor in the coagulation cascade.
+ChEMBL (EMBL-EBI) records the mechanism of action of simoctocog alfa as: Coagulation factor VIII exogenous protein ([ChEMBL CHEMBL2108319 (simoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108319), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, simoctocog alfa is a recombinant FVIII replacement product. Its efficacy in haemophilia A comes from supplying the missing FVIII cofactor in the coagulation cascade.
 
 Pseudo-von Willebrand disease (platelet-type von Willebrand disease) is a different problem. A gain-of-function defect in the platelet GPIb-alpha receptor increases binding to von Willebrand factor (VWF) and causes loss of high-molecular-weight VWF multimers. FVIII replacement does not correct this platelet receptor defect. Any link is indirect, through the FVIII/VWF complex, and speculative. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -127,12 +127,13 @@ The top-ranked prediction, pseudo-von Willebrand disease, has a high model score
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both EU authorizations are cancelled, which further limits practical availability" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "given the cancelled authorizations" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available from DrugBank for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2108319 (simoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108319) |
 
 <!-- review:end log -->
 

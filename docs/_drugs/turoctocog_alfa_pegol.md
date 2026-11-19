@@ -56,7 +56,7 @@ The prediction rests on model output alone.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, turoctocog alfa pegol is a PEGylated recombinant factor VIII. It replaces the deficient coagulation factor in haemophilia A, and its efficacy in that condition is the basis of its authorisation.
+ChEMBL (EMBL-EBI) records the mechanism of action of turoctocog alfa pegol as: Coagulation factor VIII exogenous protein ([ChEMBL CHEMBL5315071 (turoctocog alfa pegol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315071), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, turoctocog alfa pegol is a PEGylated recombinant factor VIII. It replaces the deficient coagulation factor in haemophilia A, and its efficacy in that condition is the basis of its authorisation.
 
 Primary release disorder of platelets is caused by a functional defect in platelets, not by a lack of factor VIII. Replacing FVIII therefore does not address the underlying problem. The very high TxGNN score (1.0000) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -120,12 +120,13 @@ The prediction is supported only by the model score, with no clinical trials or 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The mechanism does not fit a platelet disorder, and the only EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "and confirm the reason the EU authorisation was cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL5315071 (turoctocog alfa pegol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315071) |
 
 <!-- review:end log -->
 

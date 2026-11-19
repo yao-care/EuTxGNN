@@ -60,7 +60,7 @@ This is a model-only prediction and should be treated as a hypothesis, not as ev
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, remdesivir is a nucleotide analog prodrug that inhibits viral RNA-dependent RNA polymerase, and its efficacy in COVID-19 is established.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for remdesivir: "Remdesivir is an antiviral drug with activity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). […] Remdesivir is an inhibitor of the SARS-CoV-2 RNA-dependent RNA polymerase (RdRp), which is essential for viral replication. Remdesivir is an adenosine nucleotide prodrug that distributes into cells where it is metabolized to a nucleoside monophosphate intermediate by carboxyesterase 1 and/or cathepsin A, depending upon the cell type." ([DailyMed: Veklury (remdesivir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0978fa8-53ff-4ca2-82a7-567fd3e958ca), label version 2026-07-29; accessed 2026-11-19.) Based on general knowledge, remdesivir is a nucleotide analog prodrug that inhibits viral RNA-dependent RNA polymerase, and its efficacy in COVID-19 is established.
 
 Multiple endocrine neoplasia is a hereditary tumour syndrome (for example, driven by MEN1 or RET mutations) with no viral driver. No mechanistic link between an antiviral polymerase inhibitor and this condition could be identified. The high TxGNN score (0.9950) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It is not backed by any trial or publication, so this prediction should be regarded as weak.
 
@@ -128,11 +128,12 @@ The prediction rests only on a TxGNN model (deep learning) score.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "There are no clinical trials or publications, no plausible mechanism links an antiviral polymerase inhibitor to a hereditary endocrine tumou" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Veklury (remdesivir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0978fa8-53ff-4ca2-82a7-567fd3e958ca) |
 
 <!-- review:end log -->
 

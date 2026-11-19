@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **pseudo-von Willebrand disease**
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on what is known, lonoctocog alfa is a single-chain recombinant FVIII lacking the B domain. It replaces FVIII only, and its single-chain structure gives higher binding affinity for von Willebrand factor (VWF), which may help stabilise FVIII in circulation.
+ChEMBL (EMBL-EBI) records the mechanism of action of lonoctocog alfa as: Coagulation factor VIII exogenous protein ([ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603), CC BY-SA 3.0; accessed 2026-11-19.) Based on what is known, lonoctocog alfa is a single-chain recombinant FVIII lacking the B domain. It replaces FVIII only, and its single-chain structure gives higher binding affinity for von Willebrand factor (VWF), which may help stabilise FVIII in circulation.
 
 Pseudo-von Willebrand disease (platelet-type VWD) is caused by gain-of-function variants in GP1BA. These increase platelet affinity for VWF, leading to loss of high-molecular-weight VWF multimers and thrombocytopenia. The underlying defect sits in the platelet GPIb receptor, not in FVIII levels.
 
@@ -85,6 +85,19 @@ The prediction rests only on the model score, with no trials or publications stu
 - Preclinical or clinical evidence that directly studies this drug in pseudo-von Willebrand disease
 - Safety information from the SmPC (warnings, contraindications) for a safety screening
 - Comparison against established care for this condition (for example, platelet-directed therapy)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

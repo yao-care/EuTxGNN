@@ -60,7 +60,7 @@ The most relevant repurposing signal in the data compiled for this report is for
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Brigatinib is known to be a multi-target tyrosine kinase inhibitor acting on ALK, EGFR and ROS1. Its efficacy in ALK-positive NSCLC is well established through the Phase 3 ALTA-1L trial.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for brigatinib: "Brigatinib is a tyrosine kinase inhibitor (TKI) with in vitro activity at clinically achievable concentrations against multiple kinases including ALK, ROS1, insulin-like growth factor-1 receptor (IGF-1R), and FLT-3 as well as EGFR deletion and point mutations. Brigatinib inhibited autophosphorylation of ALK and ALK-mediated phosphorylation of the downstream signaling proteins STAT3, AKT, ERK1/2, and S6 in in vitro and in vivo assays." ([DailyMed: Alunbrig (brigatinib) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fe9ff20-d402-41f3-bc1e-7002ea7007db), label version 2026-01-12; accessed 2026-11-19.) Brigatinib is known to be a multi-target tyrosine kinase inhibitor acting on ALK, EGFR and ROS1. Its efficacy in ALK-positive NSCLC is well established through the Phase 3 ALTA-1L trial.
 
 For gingival fibromatosis, no mechanistic link could be identified. No established kinase-driven pathway connects brigatinib's targets to this condition. The high TxGNN score (0.9989) is therefore a statistical output of the model and is not backed by biological or clinical evidence. Other top-ranked predictions (fibroma of lung, lung hamartoma, junctional epidermolysis bullosa, and others) show the same pattern: no trials, no literature, and no plausible mechanism.
 
@@ -170,13 +170,14 @@ Please refer to the SmPC for the full safety information, including contraindica
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "The authorization status is **cancelled**" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "the reason for the cancelled EU authorization and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Alunbrig (brigatinib) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fe9ff20-d402-41f3-bc1e-7002ea7007db) |
 
 <!-- review:end log -->
 

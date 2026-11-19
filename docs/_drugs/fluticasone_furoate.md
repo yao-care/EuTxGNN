@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **atopic eczema**, but **no cli
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, fluticasone furoate is a potent glucocorticoid with anti-inflammatory and immunosuppressive effects. Its efficacy in allergic rhinitis, a Th2-driven allergic condition, is established, and mechanistically it may be applicable to other allergic inflammatory diseases such as atopic eczema.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for fluticasone furoate: "Fluticasone furoate is a synthetic trifluorinated corticosteroid with anti-inflammatory activity. Fluticasone furoate has been shown in vitro to exhibit a binding affinity for the human glucocorticoid receptor that is approximately 29.9 times that of dexamethasone and 1.7 times that of fluticasone propionate." ([DailyMed: Fluticasone Furoate Ellipta (fluticasone furoate) prescribing information, Prasco Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d3e797fc-2636-49a0-b89e-5246b18ee440), label version 2025-03-06; accessed 2026-11-19.) Based on known information, fluticasone furoate is a potent glucocorticoid with anti-inflammatory and immunosuppressive effects. Its efficacy in allergic rhinitis, a Th2-driven allergic condition, is established, and mechanistically it may be applicable to other allergic inflammatory diseases such as atopic eczema.
 
 Allergic rhinitis frequently coexists with atopic dermatitis, and the two share an allergic inflammatory background. This is the plausible basis for the model's prediction.
 
@@ -133,12 +133,13 @@ For reference, the **obstructive lung disease** prediction (L1) is backed by sev
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-10-31 | Removed: "Verification of current product availability, since the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fluticasone Furoate Ellipta (fluticasone furoate) prescribing information, Prasco Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d3e797fc-2636-49a0-b89e-5246b18ee440) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ This is a veterinary condition, so it falls outside the scope of human drug repu
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, nevirapine is an HIV-1 NNRTI that binds directly to the viral reverse transcriptase (RT) and blocks viral DNA synthesis. Its efficacy in HIV-1 infection is established and it is marketed in the EU.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for nevirapine: "Nevirapine is an antiretroviral drug. […] Nevirapine is a non-nucleoside reverse transcriptase inhibitor (NNRTI) of HIV-1. Nevirapine binds directly to reverse transcriptase (RT) and blocks the RNA-dependent and DNA-dependent DNA polymerase activities by causing a disruption of the enzyme's catalytic site." ([DailyMed: nevirapine prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f6c3eed-2a5d-46ed-9a7c-59715f338a15), label version 2026-10-08; accessed 2026-11-19.) From general pharmacology, nevirapine is an HIV-1 NNRTI that binds directly to the viral reverse transcriptase (RT) and blocks viral DNA synthesis. Its efficacy in HIV-1 infection is established and it is marketed in the EU.
 
 Feline immunodeficiency virus (FIV) is also a lentivirus that depends on a reverse transcriptase, which is the basis for the prediction. However, FIV RT differs structurally from HIV-1 RT, and NNRTIs bind a pocket specific to HIV-1 RT. The one directly relevant study (2023, PMID 38031646) compared nevirapine, efavirenz and rilpivirine against feline and human immunodeficiency virus RT using biochemical and structural methods. Its abstract, as provided, does not state the result, so whether nevirapine actually inhibits FIV RT cannot be concluded here.
 
@@ -117,6 +117,19 @@ The only direct evidence is a single preclinical structural study, with no clini
 - A decision on whether veterinary indications are in scope for this programme
 - Mechanism of action data and SmPC warnings and contraindications for nevirapine
 - For human repurposing, a re-run focused on human diseases with a plausible biological link
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: nevirapine prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f6c3eed-2a5d-46ed-9a7c-59715f338a15) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -60,7 +60,7 @@ The TxGNN model predicts it may be relevant to **hemoglobinopathy**, with a scor
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Icosapent ethyl is a purified form of the omega-3 fatty acid eicosapentaenoic acid (EPA), and its use in cardiovascular risk reduction is established. Whether this carries over to hemoglobinopathy has not been shown.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for icosapent ethyl: "Studies suggest that EPA reduces hepatic very low-density lipoprotein triglycerides (VLDL-TG) synthesis and/or secretion and enhances TG clearance from circulating VLDL particles. Potential mechanisms of action include increased β-oxidation; inhibition of acyl-CoA:1,2-diacylglycerol acyltransferase (DGAT); decreased lipogenesis in the liver; and increased plasma lipoprotein lipase activity." ([DailyMed: Icosapent (icosapent ethyl) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cc28828d-beab-45cc-a3b6-151c5fee3924), label version 2026-08-10; accessed 2026-11-19.) Icosapent ethyl is a purified form of the omega-3 fatty acid eicosapentaenoic acid (EPA), and its use in cardiovascular risk reduction is established. Whether this carries over to hemoglobinopathy has not been shown.
 
 One speculative link is that omega-3 fatty acids have anti-inflammatory effects and can influence cell membranes, including those of red blood cells. These properties could matter in hemoglobin disorders. However, the data compiled for this report contain no trials or publications that support this idea, so it remains a hypothesis.
 
@@ -110,6 +110,19 @@ The prediction rests on the model score alone. No clinical trials or publication
 - Mechanism of action data to assess a plausible link to red cell disorders
 - Safety information from the SmPC (warnings, contraindications) for review
 - Clarification of which hemoglobinopathies are relevant, plus a route and dosing compatibility assessment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Icosapent (icosapent ethyl) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cc28828d-beab-45cc-a3b6-151c5fee3924) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

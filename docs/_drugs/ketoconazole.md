@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **acne (disease)**, but the suppor
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on what is known, ketoconazole blocks enzymes involved in steroid synthesis (including CYP17A1), which gives it antiandrogenic activity. It also acts against *Malassezia* yeasts, which are linked to acne-like follicular eruptions.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ketoconazole: "Ketoconazole blocks the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14α-demethylase responsible for the conversion of lanosterol to ergosterol in the fungal cell membrane. This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane." ([DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371), label version 2025-11-18; accessed 2026-11-19.) Based on what is known, ketoconazole blocks enzymes involved in steroid synthesis (including CYP17A1), which gives it antiandrogenic activity. It also acts against *Malassezia* yeasts, which are linked to acne-like follicular eruptions.
 
 Androgen activity and skin microbes both contribute to acne. Laboratory work shows ketoconazole inhibits the growth of *Propionibacterium acnes* and the activity of its lipase, an enzyme that drives skin inflammation (PMID 28111792, PMID 20045949). This is the only direct study of the predicted disease, and it is in-vitro, so it supports a biological rationale rather than clinical benefit.
 
@@ -108,6 +108,18 @@ The only study that directly addresses acne is in-vitro, and the single register
 - Confirmation of the formulation and route: the trial uses a topical cream, while the EU authorization covers an oral product for Cushing's syndrome
 - Mechanism-of-action data
 - Full safety information from the SmPC, including liver toxicity, QT prolongation and adrenal effects, before considering any systemic use in acne
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

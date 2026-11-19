@@ -54,7 +54,7 @@ Sirolimus is an mTOR inhibitor used in transplant medicine and for certain rare 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general knowledge, sirolimus inhibits mTOR, a kinase that sits in the PI3K/AKT/mTOR signalling pathway. This pathway is frequently dysregulated in soft tissue sarcomas, including liposarcoma, and mouse models suggest that mTOR inhibition can slow tumour growth.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for sirolimus: "Sirolimus in FYARRO is an inhibitor of mechanistic target of rapamycin kinase (mTOR, previously known as mammalian target of rapamycin). mTOR, a serine threonine kinase, is downstream of the PI3K/AKT pathway, controls key cellular processes such as cell survival, growth, and proliferation, and is commonly dysregulated in several human cancers. In cells, sirolimus binds to the immunophilin, FK Binding Protein-12 (FKBP-12), to generate an immunosuppressive complex." ([DailyMed: Fyarro (sirolimus) prescribing information, Aadi Bioscience, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f9bb784-53e2-46f9-a65d-1c6c2a230eaf), label version 2026-09-09; accessed 2026-11-19.) Based on general knowledge, sirolimus inhibits mTOR, a kinase that sits in the PI3K/AKT/mTOR signalling pathway. This pathway is frequently dysregulated in soft tissue sarcomas, including liposarcoma, and mouse models suggest that mTOR inhibition can slow tumour growth.
 
 This gives a plausible biological rationale for the prediction. However, the available literature on sarcoma consists mainly of general reviews of targeted therapies and of studies on cancer risk in renal transplant patients. These offer only indirect support, and none of them shows that sirolimus works in liposarcoma.
 
@@ -102,6 +102,18 @@ The only study of sirolimus in liposarcoma is a single-arm Phase 2 trial with no
 - Published or posted results from NCT02821507, including response and survival data
 - Detailed mechanism-of-action data
 - A review of the safety profile in a sarcoma population, including the interaction burden with commonly co-administered drugs
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fyarro (sirolimus) prescribing information, Aadi Bioscience, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f9bb784-53e2-46f9-a65d-1c6c2a230eaf) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

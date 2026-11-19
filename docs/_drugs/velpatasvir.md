@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **hepatitis B virus infection**
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Velpatasvir is known to be an NS5A inhibitor, used as part of fixed-dose combinations with sofosbuvir (Epclusa) and with sofosbuvir plus voxilaprevir (Vosevi). Its efficacy in chronic hepatitis C is well established.
+ChEMBL (EMBL-EBI) records the mechanism of action of velpatasvir as: Nonstructural protein 5A inhibitor ([ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062), CC BY-SA 3.0; accessed 2026-11-19.) Velpatasvir is known to be an NS5A inhibitor, used as part of fixed-dose combinations with sofosbuvir (Epclusa) and with sofosbuvir plus voxilaprevir (Vosevi). Its efficacy in chronic hepatitis C is well established.
 
 HBV has no NS5A protein, so there is no direct mechanistic link between velpatasvir and HBV. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases (such as "viral hepatitis"), not biological evidence of an antiviral effect.
 
@@ -136,12 +136,13 @@ Velpatasvir targets HCV NS5A, which HBV lacks, and none of the retrieved trials 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both EU authorizations are also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "given that both authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant for **cecum villous adenoma**, but t
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for tegafur are not available in the data compiled for this report. Tegafur is generally understood to be converted in the body to 5-fluorouracil, which interferes with DNA synthesis in rapidly dividing cells.
+ChEMBL (EMBL-EBI) records the mechanism of action of tegafur as: RNA inhibitor; Thymidylate synthase inhibitor; DNA inhibitor ([ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883), CC BY-SA 3.0; accessed 2026-11-19.) Tegafur is generally understood to be converted in the body to 5-fluorouracil, which interferes with DNA synthesis in rapidly dividing cells.
 
 The predicted disease is a villous adenoma of the cecum, a premalignant benign lesion. The model's score most likely reflects the anatomical and disease-ontology closeness of this lesion to gastrointestinal tumours that fluoropyrimidines are used for. It does not reflect a demonstrated treatment effect.
 
@@ -107,6 +107,18 @@ The prediction is supported only by the model score (0.9986). No trials or publi
 - A clear clinical rationale for using a cytotoxic agent instead of resection
 - Mechanism of action data for tegafur
 - Safety information (warnings and contraindications) from the SmPC
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for tegafur are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

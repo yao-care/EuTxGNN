@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **prostatic urethra urothelial 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, tasonermin is recombinant human TNF-alpha. In isolated-limb perfusion with melphalan, it is thought to increase tumour-vascular permeability and drug uptake in the tumour. Its efficacy has been established in limb soft-tissue sarcoma, but no mechanistic data link it to urothelial carcinoma.
+ChEMBL (EMBL-EBI) records the mechanism of action of tasonermin as: Unknown ([ChEMBL CHEMBL2107891 (tasonermin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107891), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, tasonermin is recombinant human TNF-alpha. In isolated-limb perfusion with melphalan, it is thought to increase tumour-vascular permeability and drug uptake in the tumour. Its efficacy has been established in limb soft-tissue sarcoma, but no mechanistic data link it to urothelial carcinoma.
 
 The high TxGNN score (0.9981) is a computational prediction only. Several practical barriers weigh against it:
 - The approved use depends on regional limb perfusion, which cannot be applied to a tumour of the prostatic urethra.
@@ -125,12 +125,13 @@ The prediction has no clinical or preclinical support (L5).
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The approved regional-perfusion delivery cannot be applied to a urethral tumour, systemic TNF-alpha toxicity is a concern, and the only EU a" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "A review of the regulatory status of the cancelled authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2107891 (tasonermin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107891) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ The other 11 registered trials and most of the 19 publications concern hepatitis
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Sofosbuvir is a nucleotide analogue that blocks the NS5B RNA-dependent RNA polymerase of the hepatitis C virus.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for sofosbuvir: "Sofosbuvir is a direct-acting antiviral agent against the hepatitis C virus. […] Sofosbuvir is an inhibitor of the HCV NS5B RNA-dependent RNA polymerase, which is essential for viral replication. Sofosbuvir is a nucleotide prodrug that undergoes intracellular metabolism to form the pharmacologically active uridine analog triphosphate (GS-461203), which can be incorporated into HCV RNA by the NS5B polymerase and acts as a chain terminator." ([DailyMed: Sovaldi (sofosbuvir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80beab2c-396e-4a37-a4dc-40fdb62859cf), label version 2024-12-26; accessed 2026-11-19.) Sofosbuvir is a nucleotide analogue that blocks the NS5B RNA-dependent RNA polymerase of the hepatitis C virus.
 
 A direct antiviral effect on hepatitis B is not expected. HBV replicates through a reverse-transcriptase (DNA polymerase) mechanism, which is a different target from NS5B. The high TxGNN score most likely reflects network proximity between the two viral hepatitis conditions rather than a demonstrated mechanistic effect.
 
@@ -124,6 +124,18 @@ Only one small, single-arm Phase 2 study directly addresses hepatitis B, and its
 - Laboratory data showing whether sofosbuvir or its active metabolite has any activity against HBV
 - A larger controlled study in HBV mono-infection, with a defined plan for monitoring HBV reactivation
 - Mechanism of action data and the full SmPC safety review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sovaldi (sofosbuvir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80beab2c-396e-4a37-a4dc-40fdb62859cf) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -59,7 +59,7 @@ The prediction is supported by **20 clinical trials** and **20 publications** in
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Peginterferon alfa-2a is a pegylated form of interferon-alpha. Interferon-alpha is known to have antiviral and immunomodulatory effects, including induction of interferon-stimulated genes and enhancement of HBV-specific T-cell responses.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for peginterferon alfa-2a: "Pegylated recombinant human interferon alfa-2a is an inducer of the innate antiviral immune response. […] The biological activity of PEGASYS is derived from its recombinant human interferon α-2a moiety. Peginterferon α-2a binds to the human type 1 interferon receptor leading to receptor dimerization. Receptor dimerization activates multiple intracellular signal transduction pathways initially mediated by the JAK/STAT pathway." ([DailyMed: Pegasys (peginterferon alfa-2a) prescribing information, pharmaand GmbH](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d9290e5b-6d40-2318-e053-2995a90a9916), label version 2026-10-16; accessed 2026-11-19.) Peginterferon alfa-2a is a pegylated form of interferon-alpha. Interferon-alpha is known to have antiviral and immunomodulatory effects, including induction of interferon-stimulated genes and enhancement of HBV-specific T-cell responses.
 
 Chronic hepatitis B is already listed in the EU authorisation for adults with compensated liver disease and, for HBeAg-positive disease, for children aged 3 years and older. The high prediction score therefore mainly reflects a known use, and this should not be read as a new discovery. Large randomised and post-marketing studies directly support its efficacy in this setting.
 
@@ -156,12 +156,13 @@ The other predicted indications (hepatitis E, hepatitis A, animal viral hepatiti
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the EU authorisation is currently cancelled, so market availability needs clarification" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the reason for the cancelled EU authorisation and confirmation of current availability" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Pegasys (peginterferon alfa-2a) prescribing information, pharmaand GmbH](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d9290e5b-6d40-2318-e053-2995a90a9916) |
 
 <!-- review:end log -->
 

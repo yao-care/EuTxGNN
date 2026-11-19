@@ -56,7 +56,7 @@ but only **0 clinical trials** and **2 preclinical publications** (none testing 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Desloratadine belongs to the H1-receptor antagonist class, which reduces histamine-driven symptoms such as sneezing, runny nose and itching. Mechanistically, this could be relevant to conditions of the nasal cavity in which histamine plays a role.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for desloratadine: "Desloratadine is a long-acting tricyclic histamine antagonist with selective H1-receptor histamine antagonist activity. Receptor binding data indicates that at a concentration of 2-3 ng/mL (7 nanomolar), desloratadine shows significant interaction with the human histamine H1-receptor." ([DailyMed: Desloratadine Oral Solution (desloratadine) prescribing information, INA Pharmaceutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41d5e0d4-6188-847b-e063-6294a90a2e2f), label version 2025-10-23; accessed 2026-11-19.) Desloratadine belongs to the H1-receptor antagonist class, which reduces histamine-driven symptoms such as sneezing, runny nose and itching. Mechanistically, this could be relevant to conditions of the nasal cavity in which histamine plays a role.
 
 However, "nasal cavity disease" is a very broad and nonspecific label. It largely overlaps with the allergic nasal symptoms the drug is already used for, so it offers little genuinely new repurposing value. The prediction should be read as a computational signal rather than evidence of a distinct new use.
 
@@ -110,6 +110,19 @@ The prediction score is high (0.9987), but no human trials exist and the only li
 - Clinical studies of desloratadine in that specific condition
 - Mechanism of action data for desloratadine
 - Warnings and contraindications from the current SmPC
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Desloratadine Oral Solution (desloratadine) prescribing information, INA Pharmaceutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41d5e0d4-6188-847b-e063-6294a90a2e2f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

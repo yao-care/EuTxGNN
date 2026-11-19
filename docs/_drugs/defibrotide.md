@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **pseudo-von Willebrand disease** 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, defibrotide has proven efficacy in hepatic VOD/SOS after HSCT, a condition driven by injury to the endothelium (the lining of blood vessels). Its endothelial-protective, profibrinolytic and antithrombotic effects are the likely basis for that benefit.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for defibrotide: "The mechanism of action of defibrotide sodium has not been fully elucidated. In vitro, defibrotide sodium enhances the enzymatic activity of plasmin to hydrolyze fibrin clots. Studies evaluating the pharmacological effects of defibrotide sodium on endothelial cells (ECs) were conducted primarily in the human microvascular endothelial cell line." ([DailyMed: Defitelio (defibrotide sodium) prescribing information, Jazz Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2c3db989-d7ad-41ed-9ebf-698dcf6c24ec), label version 2025-07-01; accessed 2026-11-19.) Based on known information, defibrotide has proven efficacy in hepatic VOD/SOS after HSCT, a condition driven by injury to the endothelium (the lining of blood vessels). Its endothelial-protective, profibrinolytic and antithrombotic effects are the likely basis for that benefit.
 
 **Pseudo-von Willebrand disease (top prediction).** This is a platelet bleeding disorder caused by a gain-of-function defect in the GPIb-alpha receptor. Defibrotide's effects do not obviously address that defect, and its antithrombotic activity could plausibly worsen bleeding. The high score (0.9991) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same reasoning applies to the other highly ranked bleeding and platelet disorders (primary release disorder of platelets, Glanzmann thrombasthenia, Scott syndrome, collagen receptor defect, constitutional thrombocytopenia, congenital factor V deficiency, and fetal and neonatal alloimmune thrombocytopenia). None has any trial or literature support.
 
@@ -129,12 +129,13 @@ Please refer to the SmPC for warnings and contraindications, as this information
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "(the authorisation is cancelled)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "and the single EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Defitelio (defibrotide sodium) prescribing information, Jazz Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2c3db989-d7ad-41ed-9ebf-698dcf6c24ec) |
 
 <!-- review:end log -->
 

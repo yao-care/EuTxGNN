@@ -56,7 +56,7 @@ The prediction rests on the model score alone and has no biological rationale.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From the known pharmacology, evolocumab binds PCSK9 (proprotein convertase subtilisin/kexin type 9). This increases the availability of LDL receptors on liver cells and lowers circulating LDL-C. Its efficacy in hypercholesterolaemia and in reducing cardiovascular risk is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for evolocumab: "Evolocumab is a human monoclonal IgG2 directed against human proprotein convertase subtilisin kexin type 9 (PCSK9). PCSK9 binds to the low-density lipoprotein receptor (LDLR) on the surface of hepatocytes to promote LDLR degradation within the liver." ([DailyMed: Repatha (evolocumab) prescribing information, Amgen USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd61e902-166d-4aa6-9f3c-a18c1008d07e), label version 2026-10-12; accessed 2026-11-19.) From the known pharmacology, evolocumab binds PCSK9 (proprotein convertase subtilisin/kexin type 9). This increases the availability of LDL receptors on liver cells and lowers circulating LDL-C. Its efficacy in hypercholesterolaemia and in reducing cardiovascular risk is established.
 
 The predicted new indication does not appear to be a reasonable fit. Hemophilia in female carriers results from deficient factor VIII or IX activity, which is unrelated to PCSK9 or LDL metabolism. The high TxGNN score (0.9982) is a TxGNN model (deep learning) prediction only and is not backed by biological rationale, trials or publications.
 
@@ -110,11 +110,12 @@ The prediction is supported only by a model score (L5), with no clinical trials 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization is also listed as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Repatha (evolocumab) prescribing information, Amgen USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd61e902-166d-4aa6-9f3c-a18c1008d07e) |
 
 <!-- review:end log -->
 

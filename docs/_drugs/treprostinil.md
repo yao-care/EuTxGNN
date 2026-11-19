@@ -57,7 +57,7 @@ The top-ranked prediction by score was pulmonary arteriovenous malformation (0.9
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, treprostinil is a prostacyclin analogue that dilates the pulmonary blood vessels and has antiproliferative effects on the vessel wall. Its efficacy in pulmonary hypertension (CTEPH) is the basis of its EU authorisation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for treprostinil: "Treprostinil is a prostacyclin analogue. The major pharmacologic actions of treprostinil are direct vasodilation of pulmonary and systemic arterial vascular beds and inhibition of platelet aggregation." ([DailyMed: Tyvaso (treprostinil) prescribing information, United Therapeutics Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbc31ab1-a80f-4b50-a3b1-39910b0fb609), label version 2026-04-14; accessed 2026-11-19.) Based on known information, treprostinil is a prostacyclin analogue that dilates the pulmonary blood vessels and has antiproliferative effects on the vessel wall. Its efficacy in pulmonary hypertension (CTEPH) is the basis of its EU authorisation.
 
 CTEPH and CHD-PAH are both forms of pulmonary hypertension with raised pulmonary vascular resistance and risk of right heart failure. Prostacyclin-pathway therapy targets the vasoconstriction and vascular remodelling common to PAH of different causes, including congenital heart disease. Two small observational studies directly address this setting: subcutaneous treprostinil in CHD-PAH over 12 months (PMID 29436381) and long-term continuous prostacyclin therapy in eight adults with CHD-associated pulmonary hypertension (PMID 23890862). One concern is the theoretical risk that vasodilation could worsen right-to-left shunting in patients with intracardiac shunts.
 
@@ -136,13 +136,14 @@ Safety review is also incomplete.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The mechanism is plausible and there are small observational studies in CHD-PAH, but there are no registered trials, the evidence is indirec" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "This authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "given the cancelled authorisation" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tyvaso (treprostinil) prescribing information, United Therapeutics Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbc31ab1-a80f-4b50-a3b1-39910b0fb609) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **thiamine-responsive dysfunction
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Insulin glulisine belongs to the class of rapid-acting insulin analogues, which act by replacing or supplementing insulin signalling.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for insulin glulisine: "Regulation of glucose metabolism is the primary activity of insulins and insulin analogs, including insulin glulisine. Insulins lower blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Apidra (insulin glulisine) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7af6a7a-8046-4fb4-9979-4ec4230b23aa), label version 2025-11-25; accessed 2026-11-19.) Insulin glulisine belongs to the class of rapid-acting insulin analogues, which act by replacing or supplementing insulin signalling.
 
 The only link to the predicted disease is indirect. Thiamine-responsive megaloblastic anaemia syndrome can include insulin-dependent diabetes, so insulin therapy could in theory help with that one feature. However, thiamine is the primary treatment for the syndrome, and insulin would address at most the diabetic manifestation, not the underlying disorder. No clinical or literature evidence supports using insulin glulisine in this condition. The high model score should be read as a hypothesis only.
 
@@ -90,6 +90,19 @@ The prediction has a high model score (0.9947) but no clinical trials or publica
 - Label warnings and contraindications from the SmPC
 - A literature and registry review for any study of insulin use in thiamine-responsive dysfunction syndrome
 - Expert clinical input on whether insulin could plausibly add value beyond thiamine therapy
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Apidra (insulin glulisine) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7af6a7a-8046-4fb4-9979-4ec4230b23aa) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

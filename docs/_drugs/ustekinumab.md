@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **dermatitis**, with **6 relate
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, ustekinumab blocks the shared p40 subunit of IL-12 and IL-23, which inhibits Th1 and Th17 signaling. These pathways contribute to inflammatory skin disease, including psoriasis, its approved indication.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ustekinumab: "Ustekinumab products are human IgG1κ monoclonal antibodies that bind with specificity to the p40 protein subunit used by both the IL-12 and IL-23 cytokines. IL-12 and IL-23 are naturally occurring cytokines that are involved in inflammatory and immune responses, such as natural killer cell activation and CD4+ T-cell differentiation and activation." ([DailyMed: Selarsdi (ustekinumab-aekn) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=87f75b59-e48b-47c7-a4c0-5fe5965660e7), label version 2026-11-11; accessed 2026-11-19.) Based on known pharmacology, ustekinumab blocks the shared p40 subunit of IL-12 and IL-23, which inhibits Th1 and Th17 signaling. These pathways contribute to inflammatory skin disease, including psoriasis, its approved indication.
 
 The link to dermatitis is only partial. Atopic dermatitis is driven mainly by Th2 (IL-4/IL-13) signaling, with variable Th17/Th22 involvement. Contact dermatitis has Th1/Th17 components, which gives a plausible but less established link. The very high TxGNN score is supported by dermatologic biology, but clinical studies in atopic dermatitis have shown modest or inconsistent efficacy.
 
@@ -162,12 +162,13 @@ Two randomized Phase 2 trials of ustekinumab in atopic dermatitis exist, but the
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "All 13 authorizations are currently valid" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "In addition, the drug is currently marketed, with 13 valid licences out of 13" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Selarsdi (ustekinumab-aekn) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=87f75b59-e48b-47c7-a4c0-5fe5965660e7) |
 
 <!-- review:end log -->
 

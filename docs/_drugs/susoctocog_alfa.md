@@ -55,7 +55,7 @@ The TxGNN model's top prediction is **primary release disorder of platelets**, b
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, susoctocog alfa is a B-domain-deleted recombinant porcine Factor VIII that replaces deficient FVIII activity. Because of its porcine sequence, it can work despite inhibitory antibodies against human FVIII.
+ChEMBL (EMBL-EBI) records the mechanism of action of susoctocog alfa as: Coagulation factor VIII exogenous protein ([ChEMBL CHEMBL5315075 (susoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315075), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, susoctocog alfa is a B-domain-deleted recombinant porcine Factor VIII that replaces deficient FVIII activity. Because of its porcine sequence, it can work despite inhibitory antibodies against human FVIII.
 
 For the top-ranked prediction, the mechanistic link is weak. Primary release disorders of platelets are platelet function defects, and FVIII replacement does not address them. The high TxGNN score (0.9994) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. There is no clinical or literature support.
 
@@ -134,12 +134,13 @@ The top-ranked prediction (primary release disorder of platelets) has no clinica
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of why the EU authorization was cancelled and whether any marketed supply remains" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL5315075 (susoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315075) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ The available studies address HIV-associated thrombocytopenia and related cytope
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the compiled data. Based on known pharmacology, eltrombopag is a thrombopoietin receptor agonist that raises platelet counts by stimulating megakaryopoiesis (platelet-producing cell growth).
+According to the Mechanism of Action section of the US FDA-approved prescribing information for eltrombopag: "Eltrombopag is a TPO-receptor agonist that interacts with the transmembrane domain of the human TPO-receptor (also known as cMpl) and initiates signaling cascades that induce proliferation and differentiation of megakaryocytes leading to increased platelet production." ([DailyMed: Eltrombopag Olamine (eltrombopag) prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4af8f855-f710-e96f-e063-6294a90abb46), label version 2026-05-20; accessed 2026-11-19.) Based on known pharmacology, eltrombopag is a thrombopoietin receptor agonist that raises platelet counts by stimulating megakaryopoiesis (platelet-producing cell growth).
 
 In people living with HIV, low platelet counts can occur as HIV-related immune thrombocytopenia or immune reconstitution thrombocytopenia. The same mechanism that works in its licensed settings could, in principle, help here. The benefit would be supportive, treating the low platelet count rather than the virus.
 
@@ -113,6 +113,19 @@ The high TxGNN score (0.9926) is not matched by direct evidence. The only trial 
 - Confirmation of the antiviral or immunomodulatory signal beyond the in vitro screen
 - Mechanism of action data and the SmPC warnings and contraindications
 - Review of interactions with antiretroviral therapy, and of liver safety in people with HIV co-infections
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Eltrombopag Olamine (eltrombopag) prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4af8f855-f710-e96f-e063-6294a90abb46) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

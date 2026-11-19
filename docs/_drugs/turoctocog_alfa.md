@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **primary release disorder of p
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Based on known information, turoctocog alfa is a recombinant factor VIII (FVIII) replacement. Its efficacy in haemophilia A comes from supplying the missing clotting factor.
+ChEMBL (EMBL-EBI) records the mechanism of action of turoctocog alfa as: Coagulation factor VIII exogenous protein ([ChEMBL CHEMBL2108286 (turoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108286), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, turoctocog alfa is a recombinant factor VIII (FVIII) replacement. Its efficacy in haemophilia A comes from supplying the missing clotting factor.
 
 The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Primary release disorders of platelets arise from intrinsic defects in platelet secretion, not from FVIII deficiency. Replacing FVIII is therefore not expected to correct the problem, and **no mechanistic rationale is supported**.
 
@@ -110,11 +110,12 @@ The prediction is based only on a network score. There are no clinical trials or
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The product's EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2108286 (turoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108286) |
 
 <!-- review:end log -->
 

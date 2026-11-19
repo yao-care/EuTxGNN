@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Selinexor is known from the literature to inhibit exportin 1 (XPO1, also called CRM1), a nuclear export protein. Its efficacy in multiple myeloma is the basis of its approval.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for selinexor: "In nonclinical studies, selinexor reversibly inhibits nuclear export of tumor suppressor proteins (TSPs), growth regulators, and mRNAs of oncogenic proteins by blocking exportin 1 (XPO1). XPO1 inhibition by selinexor leads to accumulation of TSPs in the nucleus and reductions in several oncoproteins, such as c-myc and cyclin D1, cell cycle arrest, and apoptosis of cancer cells." ([DailyMed: Xpovio (selinexor) prescribing information, Karyopharm Therapeutics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6dd2682-75a6-4863-90a8-a3197f6f78a8), label version 2026-05-12; accessed 2026-11-19.) Selinexor is known from the literature to inhibit exportin 1 (XPO1, also called CRM1), a nuclear export protein. Its efficacy in multiple myeloma is the basis of its approval.
 
 No established link between XPO1 inhibition and bone metabolism is supported by the data compiled for this report. Selinexor's known side effects (nausea, reduced appetite, weight loss, fatigue) could in theory worsen bone health rather than protect it. The prediction therefore rests on the model score alone, and a benefit is not plausible without further evidence.
 
@@ -119,11 +119,12 @@ The prediction for drug-induced osteoporosis is model-only (Evidence Level L5), 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is cancelled, and the safety label data are incomplete" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xpovio (selinexor) prescribing information, Karyopharm Therapeutics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6dd2682-75a6-4863-90a8-a3197f6f78a8) |
 
 <!-- review:end log -->
 

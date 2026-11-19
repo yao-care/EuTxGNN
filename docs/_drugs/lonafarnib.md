@@ -54,7 +54,7 @@ Lonafarnib is a farnesyltransferase inhibitor. The TxGNN model predicts it may b
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available in the data compiled for this report. Lonafarnib is known as a farnesyltransferase inhibitor, which blocks a lipid modification step (farnesylation) that some proteins need in order to function.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lonafarnib: "Lonafarnib inhibits farnesyltransferase to prevent farnesylation and subsequent accumulation of progerin and progerin-like proteins in the inner nuclear membrane." ([DailyMed: Zokinvy (lonafarnib) prescribing information, Sentynl Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97391d0c-943e-4c5a-8423-68e163aa7f50), label version 2025-07-02; accessed 2026-11-19.) Lonafarnib is known as a farnesyltransferase inhibitor, which blocks a lipid modification step (farnesylation) that some proteins need in order to function.
 
 No plausible link between this mechanism and the biology of *Mycobacterium leprae* infection, or the host response to it, is evident from the data compiled for this report. The high TxGNN score (0.9914) is a computational prediction only and is not supported by any experimental or clinical observation here. The similarity between the original use and leprosy has not been assessed. The prediction should therefore be treated as a hypothesis, not as a finding.
 
@@ -96,6 +96,19 @@ The prediction has no supporting clinical trials or publications and no evident 
 - Preclinical or mechanistic evidence linking farnesyltransferase inhibition to *M. leprae* infection or the host response
 - Warnings and contraindications from the SmPC, for safety screening
 - Any registered or published studies of lonafarnib in leprosy
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not currently available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zokinvy (lonafarnib) prescribing information, Sentynl Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97391d0c-943e-4c5a-8423-68e163aa7f50) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **myeloid leukemia** with a ver
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for zanubrutinib is not available in the data compiled for this report. Zanubrutinib is a selective, covalent BTK inhibitor. Its efficacy is established in B-cell cancers, where BTK is a core component of B-cell receptor signalling.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for zanubrutinib: "Zanubrutinib is a small-molecule inhibitor of Bruton's tyrosine kinase (BTK). Zanubrutinib forms a covalent bond with a cysteine residue in the BTK active site, leading to inhibition of BTK activity. BTK is a signaling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways." ([DailyMed: Brukinsa (zanubrutinib) prescribing information, BeOne Medicines USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e08fe23-d70e-424c-bc51-1222e320f902), label version 2026-09-04; accessed 2026-11-19.) Zanubrutinib is a selective, covalent BTK inhibitor. Its efficacy is established in B-cell cancers, where BTK is a core component of B-cell receptor signalling.
 
 Myeloid leukemia is not a B-cell disease, so the link to the original indications is indirect. BTK is expressed in myeloid-lineage cells and may contribute to signalling in some myeloid malignancies. That is a plausible rationale, but no zanubrutinib-specific data in myeloid leukemia were found.
 
@@ -159,12 +159,13 @@ For comparison, a different prediction in the same output, familial non-Hodgkin 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The compiled data also show the EU authorization as cancelled, which should be verified" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Verification of the current EU marketing authorization status, since the data show it as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data for zanubrutinib is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Brukinsa (zanubrutinib) prescribing information, BeOne Medicines USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e08fe23-d70e-424c-bc51-1222e320f902) |
 
 <!-- review:end log -->
 

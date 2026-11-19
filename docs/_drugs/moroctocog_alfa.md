@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, moroctocog alfa is a recombinant B-domain-deleted factor VIII. It replaces the missing FVIII activity in the intrinsic coagulation pathway, which is why it works in haemophilia A.
+ChEMBL (EMBL-EBI) records the mechanism of action of moroctocog alfa as: Coagulation factor VIII exogenous protein ([ChEMBL CHEMBL2109137 (moroctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109137), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, moroctocog alfa is a recombinant B-domain-deleted factor VIII. It replaces the missing FVIII activity in the intrinsic coagulation pathway, which is why it works in haemophilia A.
 
 The predicted disease is a different kind of problem. Primary release disorder of platelets is a defect in platelet granule content or secretion, not a lack of FVIII. Replacing FVIII would not be expected to correct that defect. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases (all are bleeding disorders), not biological evidence.
 
@@ -116,11 +116,12 @@ The predicted indication has no clinical or published support (evidence level L5
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is cancelled, and the safety data needed for screening are missing" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2109137 (moroctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109137) |
 
 <!-- review:end log -->
 

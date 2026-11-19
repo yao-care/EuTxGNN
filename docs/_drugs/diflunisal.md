@@ -60,7 +60,7 @@ The best-supported alternative among the predictions is **ankylosing spondylitis
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, diflunisal is an NSAID that inhibits COX-1/COX-2 and reduces prostaglandin-mediated inflammation and pain. It also stabilises transthyretin (TTR), which is the basis of its use in ATTRv polyneuropathy.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for diflunisal: "The precise mechanism of the analgesic and anti-inflammatory actions of diflunisal is not known. Diflunisal is a prostaglandin synthetase inhibitor. In animals, prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain." ([DailyMed: Dolobid (diflunisal) prescribing information, INA Pharmaceutics Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=725234b2-0e23-45c3-a42d-eb4e62273f9b), label version 2025-10-06; accessed 2026-11-19.) Based on known pharmacology, diflunisal is an NSAID that inhibits COX-1/COX-2 and reduces prostaglandin-mediated inflammation and pain. It also stabilises transthyretin (TTR), which is the basis of its use in ATTRv polyneuropathy.
 
 For the top-ranked prediction, **acromesomelic dysplasia, Hunter-Thompson type**, no plausible mechanistic link was identified. This is a genetic skeletal dysplasia caused by loss of function in the CDMP1/GDF5 gene. Neither COX inhibition nor TTR stabilisation addresses GDF5 signalling. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, rather than a real therapeutic signal. The same applies to brachyolmia, brachyolmia-amelogenesis imperfecta syndrome, and colobomatous microphthalmia-rhizomelic dysplasia syndrome.
 
@@ -147,12 +147,13 @@ The top-ranked prediction (acromesomelic dysplasia, Hunter-Thompson type) has no
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "In addition, the only EU authorisation has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "of the reasons for the cancelled Attrogy authorisation and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dolobid (diflunisal) prescribing information, INA Pharmaceutics Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=725234b2-0e23-45c3-a42d-eb4e62273f9b) |
 
 <!-- review:end log -->
 

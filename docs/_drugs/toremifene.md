@@ -60,7 +60,7 @@ The prediction is therefore a computational signal with no clinical backing.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, toremifene is a selective estrogen receptor modulator (SERM) related to tamoxifen. Its efficacy in hormone-dependent breast cancer is established, but no direct mechanism links it to HIV.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for toremifene: "Toremifene is a nonsteroidal triphenylethylene derivative. Toremifene binds to estrogen receptors and may exert estrogenic, antiestrogenic, or both activities, depending upon the duration of treatment, animal species, gender, target organ, or endpoint selected." ([DailyMed: Fareston (toremifene citrate) prescribing information, Kyowa Kirin, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2cab8dd1-3a10-48e6-86ce-0e5275ed49e5), label version 2024-11-13; accessed 2026-11-19.) Based on known information, toremifene is a selective estrogen receptor modulator (SERM) related to tamoxifen. Its efficacy in hormone-dependent breast cancer is established, but no direct mechanism links it to HIV.
 
 The only linked paper (PMID 24520056) shows that estrogen receptor antagonists, including toremifene, have antifungal activity against *Cryptococcus*. They act by binding EF-hand proteins such as calmodulin and work together with fluconazole in the laboratory. This is relevant to an opportunistic fungal infection that affects people with HIV, not to HIV replication or disease progression. The high score of 0.9941 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -142,12 +142,13 @@ The HIV prediction has a very high model score but no clinical trials and no evi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Clarification of current availability, since the only EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "he EU authorization is cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fareston (toremifene citrate) prescribing information, Kyowa Kirin, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2cab8dd1-3a10-48e6-86ce-0e5275ed49e5) |
 
 <!-- review:end log -->
 

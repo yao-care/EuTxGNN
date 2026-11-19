@@ -68,7 +68,7 @@ Serious toxicities limit any further development.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From the published literature, idelalisib is a selective inhibitor of the delta isoform of PI3K, a key node in B-cell receptor signalling and B-cell survival. Its efficacy in CLL and follicular lymphoma has been shown in clinical studies.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for idelalisib: "Idelalisib is an inhibitor of phosphatidylinositol 3-kinase, PI3Kδ, which is expressed in normal and malignant B-cells. Idelalisib induced apoptosis and inhibited proliferation in cell lines derived from malignant B-cells and in primary tumor cells." ([DailyMed: Zydelig (idelalisib) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efbdafa9-d18c-4e85-b4a2-1e620fc74e50), label version 2026-09-10; accessed 2026-11-19.) From the published literature, idelalisib is a selective inhibitor of the delta isoform of PI3K, a key node in B-cell receptor signalling and B-cell survival. Its efficacy in CLL and follicular lymphoma has been shown in clinical studies.
 
 MCL is also a B-cell malignancy that depends on B-cell receptor and PI3Kδ signalling, so the mechanistic link is plausible. Laboratory studies show idelalisib reduces translation-regulatory signalling in MCL cells and acts synergistically with a P300/CBP inhibitor (A-485) and with the CDK4/6 inhibitor palbociclib. Resistance mechanisms, such as CBX5 loss, have also been described, suggesting that MCL can show intrinsic resistance to idelalisib alone.
 
@@ -163,12 +163,13 @@ The mechanistic link in MCL is plausible and early-phase combination studies exi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorisation is now cancelled, and s" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "its EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zydelig (idelalisib) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efbdafa9-d18c-4e85-b4a2-1e620fc74e50) |
 
 <!-- review:end log -->
 

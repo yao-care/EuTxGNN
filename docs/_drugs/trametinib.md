@@ -60,7 +60,7 @@ Many of the other top-ranked predictions are melanoma subtypes, where evidence i
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, trametinib is a MEK1/2 inhibitor (pharmacology data lists MAP2K1 and MAP2K2 as targets) that acts downstream of BRAF in the MAPK pathway, and its efficacy in BRAF V600-mutant melanoma is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for trametinib: "Trametinib is a reversible inhibitor of mitogen-activated extracellular signal-regulated kinase 1 (MEK1) and MEK2 activation and of MEK1 and MEK2 kinase activity. MEK proteins are upstream regulators of the extracellular signal-related kinase (ERK) pathway, which promotes cellular proliferation." ([DailyMed: Mekinist (trametinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0002ad27-779d-42ab-83b5-bc65453412a1), label version 2026-05-07; accessed 2026-11-19.) Based on known information, trametinib is a MEK1/2 inhibitor (pharmacology data lists MAP2K1 and MAP2K2 as targets) that acts downstream of BRAF in the MAPK pathway, and its efficacy in BRAF V600-mutant melanoma is established.
 
 For choroideremia, the link is weak. Choroideremia is an inherited retinal degeneration caused by loss of function of the CHM gene (REP1), and it is not a MAPK-driven disease. The data compiled for this report show no clear reason why MEK inhibition would help. The high score may reflect proximity in the knowledge network rather than a real biological mechanism.
 
@@ -135,11 +135,12 @@ The choroideremia prediction rests on a computational score alone. There are no 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mekinist (trametinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0002ad27-779d-42ab-83b5-bc65453412a1) |
 
 <!-- review:end log -->
 

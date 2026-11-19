@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **potassium deficiency disease*
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on general knowledge, inclisiran is a small interfering RNA that silences PCSK9 in the liver. This increases LDL receptor availability and lowers LDL cholesterol.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for inclisiran: "Inclisiran is a double-stranded small interfering ribonucleic acid (siRNA), conjugated on the sense strand with triantennary N-Acetylgalactosamine (GalNAc) to facilitate uptake by hepatocytes. In hepatocytes, inclisiran utilizes the RNA interference mechanism and directs catalytic breakdown of mRNA for PCSK9." ([DailyMed: Leqvio (inclisiran) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44), label version 2026-08-19; accessed 2026-11-19.) Based on general knowledge, inclisiran is a small interfering RNA that silences PCSK9 in the liver. This increases LDL receptor availability and lowers LDL cholesterol.
 
 No plausible mechanistic link to potassium homeostasis has been identified. Lowering LDL cholesterol has no known relationship to potassium balance. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It is not supported by any clinical or literature evidence, so this prediction should be treated as a hypothesis-generating signal and not as a reasonable therapeutic direction.
 
@@ -107,11 +107,12 @@ The prediction rests only on a model score. There is no mechanistic link, no cli
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorization for the original indication is also listed as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Leqvio (inclisiran) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ The only indication in the top 10 with any literature is fibroblastic neoplasm (
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, pirfenidone is an antifibrotic, anti-inflammatory agent. Its efficacy in IPF has been established, and it is reported to modulate TGF-β and TNF-α signalling.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for pirfenidone: "The mechanism of action of pirfenidone in the treatment of IPF has not been established." ([DailyMed: Esbriet (pirfenidone) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e8c3537-36d7-4de5-9b5c-7a624b9a9e6e), label version 2025-12-05; accessed 2026-11-19.) Based on known information, pirfenidone is an antifibrotic, anti-inflammatory agent. Its efficacy in IPF has been established, and it is reported to modulate TGF-β and TNF-α signalling.
 
 The link to extracutaneous mastocytoma is speculative. Mast cell disease can involve fibrosis and inflammation, so a loose connection to antifibrotic activity is conceivable. However, no data compiled for this report support a direct mechanism, and the very high model score has not been confirmed by any study.
 
@@ -112,6 +112,19 @@ The extracutaneous mastocytoma prediction has a very high model score but no tri
 - Preclinical studies in mast cell models before any clinical consideration
 - Clarification of current EU regulatory status, given that the drug is marketed and all 3 authorisations are valid
 - Review of the sarcoma and dermatofibroma case reports as a safety question for any oncology-related use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Esbriet (pirfenidone) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e8c3537-36d7-4de5-9b5c-7a624b9a9e6e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

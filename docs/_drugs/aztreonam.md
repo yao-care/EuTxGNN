@@ -60,7 +60,7 @@ Among the other top-10 predictions, only **gonococcal urethritis** has meaningfu
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, aztreonam is a monobactam beta-lactam that inhibits bacterial cell wall synthesis by binding to penicillin-binding protein 3 (PBP3). It is active only against aerobic Gram-negative bacteria.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for aztreonam: "Aztreonam is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Aztreonam has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: aztreonam prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d4500795-3b07-4a7d-b432-73cafbb3dbc6), label version 2024-06-03; accessed 2026-11-19.) Based on general knowledge, aztreonam is a monobactam beta-lactam that inhibits bacterial cell wall synthesis by binding to penicillin-binding protein 3 (PBP3). It is active only against aerobic Gram-negative bacteria.
 
 For the top-ranked prediction, **hyperamylasemia**, no plausible mechanistic link exists. It is a laboratory finding rather than a bacterial infection, and has no antibacterial target. The high TxGNN score (0.9973) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same applies to the next-ranked predictions: polyclonal hyperviscosity syndrome, congenital analbuminemia, blood group incompatibility, and premalignant hematological system disease. None have any mechanistic rationale for an antibacterial. Ureaplasma urethritis is also biologically implausible, because Ureaplasma lacks a cell wall and is intrinsically resistant to beta-lactams.
 
@@ -153,12 +153,13 @@ For label-based warnings and contraindications, please refer to the SmPC.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both EU authorizations are cancelled, so there is no currently marketed product" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "why EU authorizations were cancelled and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: aztreonam prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d4500795-3b07-4a7d-b432-73cafbb3dbc6) |
 
 <!-- review:end log -->
 

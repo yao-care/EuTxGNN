@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **HER2-positive breast carcinom
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, ocrelizumab is a humanized monoclonal antibody that selectively depletes CD20-expressing B cells. Its efficacy in multiple sclerosis has been shown in pivotal trials (OPERA I/II in relapsing disease and ORATORIO in primary progressive disease).
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ocrelizumab: "The precise mechanism by which ocrelizumab exerts its therapeutic effects in multiple sclerosis is unknown, but is presumed to involve binding to CD20, a cell surface antigen present on pre-B and mature B lymphocytes. Following cell surface binding to B lymphocytes, ocrelizumab results in antibody-dependent cellular cytolysis and complement-mediated lysis." ([DailyMed: Ocrevus (ocrelizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9da42362-3bb5-4b83-b4bb-b59fd4e55f0d), label version 2026-05-14; accessed 2026-11-19.) Based on known information, ocrelizumab is a humanized monoclonal antibody that selectively depletes CD20-expressing B cells. Its efficacy in multiple sclerosis has been shown in pivotal trials (OPERA I/II in relapsing disease and ORATORIO in primary progressive disease).
 
 No mechanistic link between this action and HER2 positive breast carcinoma is supported by the available data. A hypothesis involving CD20+ B cells in the tumour microenvironment is conceivable, but it is speculative and unsupported here. The high score (0.9989) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -117,12 +117,13 @@ The prediction is supported only by the model score. No clinical trials or liter
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The only EU authorization is recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Clarification of the cancelled EU authorization status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ocrevus (ocrelizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9da42362-3bb5-4b83-b4bb-b59fd4e55f0d) |
 
 <!-- review:end log -->
 

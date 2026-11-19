@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **pseudo-von Willebrand disease**
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, eftrenonacog alfa is a recombinant factor IX-Fc fusion protein, which supplements factor IX in the intrinsic coagulation cascade.
+ChEMBL (EMBL-EBI) records the mechanism of action of eftrenonacog alfa as: Coagulation factor IX exogenous protein ([ChEMBL CHEMBL4594598 (eftrenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594598), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, eftrenonacog alfa is a recombinant factor IX-Fc fusion protein, which supplements factor IX in the intrinsic coagulation cascade.
 
 Pseudo-von Willebrand disease is a platelet-type bleeding disorder caused by a gain-of-function defect in GP1BA, which increases platelet affinity for von Willebrand factor. Factor IX replacement does not address this defect, so the mechanistic link is weak. The high TxGNN score is more likely a network-proximity artifact, for example from shared bleeding-disorder annotations, than evidence of real therapeutic benefit.
 
@@ -93,6 +93,19 @@ The prediction has no supporting clinical trials or publications (evidence level
 - Any preclinical or clinical study that directly addresses pseudo-von Willebrand disease
 - Safety information (warnings and contraindications) from the SmPC
 - Confirmation of the current licence status in the EU
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL4594598 (eftrenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594598) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

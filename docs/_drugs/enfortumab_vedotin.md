@@ -60,7 +60,7 @@ The only prediction in the list with a registered clinical trial is HER2-positiv
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, enfortumab vedotin is an ADC that targets Nectin-4 and delivers the cytotoxic payload MMAE to tumour cells. Its efficacy in urothelial cancer is established, but that does not carry over to leprosy.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for enfortumab vedotin: "Enfortumab vedotin-ejfv is an ADC. The antibody is a human IgG1 kappa directed against Nectin-4, an adhesion protein located on the surface of cells. The small molecule, MMAE, is a microtubule-disrupting agent, attached to the antibody via a protease-cleavable linker." ([DailyMed: Padcev Ejfv (enfortumab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5631d3e-4604-4363-8f20-11dfc5a4a8ed), label version 2026-08-04; accessed 2026-11-19.) Based on known information, enfortumab vedotin is an ADC that targets Nectin-4 and delivers the cytotoxic payload MMAE to tumour cells. Its efficacy in urothelial cancer is established, but that does not carry over to leprosy.
 
 For leprosy, no mechanistic rationale was identified. Leprosy is a bacterial infection caused by *Mycobacterium leprae*, and there is no known link between Nectin-4-directed cytotoxicity and its pathology. The high TxGNN score (0.9953) should be read as a model output only. It has no supporting clinical or literature evidence.
 
@@ -163,13 +163,14 @@ The leprosy prediction rests only on a model score of 0.9953, with no clinical t
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "This authorization is listed as cancelled in the data compiled for this report" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "The Padcev EU marketing authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "and clarification of the reasons for and implications of the cancelled EU authorization" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Padcev Ejfv (enfortumab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5631d3e-4604-4363-8f20-11dfc5a4a8ed) |
 
 <!-- review:end log -->
 

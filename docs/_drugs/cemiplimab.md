@@ -56,7 +56,7 @@ but **no clinical trials and no publications** were found in the data compiled f
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Pharmacology data indicate that cemiplimab is an antibody directed at human PD-1 (PDCD1, CD279). It blocks the PD-1/PD-L1 interaction with an IC50 below 1 nM in an ELISA. Blocking this pathway can restore T-cell activity against tumour cells.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for cemiplimab: "Binding of the PD-1 ligands PD-L1 and PD-L2 to the PD-1 receptor found on T cells inhibits T-cell proliferation and cytokine production. Upregulation of PD-1 ligands occurs in some tumors and signaling through this pathway can contribute to inhibition of active T-cell immune surveillance of tumors. […] Cemiplimab-rwlc is a recombinant human immunoglobulin G4 (IgG4) monoclonal antibody that binds to PD-1 and blocks its interaction with PD-L1 and PD-L2, releasing PD-1 pathway-mediated inhibition of the immune response, including the anti-tumor immune response." ([DailyMed: Libtayo (cemiplimab-rwlc) prescribing information, Regeneron Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4347ae1f-d397-4f18-8b70-03897e1c054a), label version 2026-08-31; accessed 2026-11-19.) Pharmacology data indicate that cemiplimab is an antibody directed at human PD-1 (PDCD1, CD279). It blocks the PD-1/PD-L1 interaction with an IC50 below 1 nM in an ELISA. Blocking this pathway can restore T-cell activity against tumour cells.
 
 The link to gallbladder adenosquamous carcinoma is speculative. The tumour has a squamous component, and cemiplimab is already used in a squamous-cell skin cancer. However, PD-L1 status and tumour mutational burden in this rare tumour are not established by the available data. The prediction should therefore be treated as a hypothesis only.
 
@@ -106,6 +106,18 @@ The prediction is supported only by a very high model score (0.9999). No trial o
 - PD-L1 expression and tumour mutational burden data for this tumour type
 - Review of SmPC warnings and contraindications to complete safety screening
 - Detailed mechanism-of-action data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Libtayo (cemiplimab-rwlc) prescribing information, Regeneron Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4347ae1f-d397-4f18-8b70-03897e1c054a) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

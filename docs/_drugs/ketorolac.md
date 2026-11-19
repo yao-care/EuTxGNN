@@ -56,7 +56,7 @@ with **17 clinical trials** and **19 publications** compiled for this report sup
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Ketorolac is a non-selective COX-1/COX-2 inhibitor, a class that reduces prostaglandin synthesis. Prostaglandins contribute to neurogenic inflammation, trigeminovascular sensitization and pain signalling in migraine and tension-type headache, so analgesic and anti-inflammatory effects in headache are mechanistically plausible.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for ketorolac: "Ketorolac tromethamine is a nonsteroidal anti-inflammatory drug (NSAID) that exhibits analgesic activity in animal models. The mechanism of action of ketorolac, like that of other NSAIDs, is not completely understood but may be related to prostaglandin synthetase inhibition." ([DailyMed: Toronova Ii Suik (ketorolac tromethamine) prescribing information, Advanced Rx of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49dd153c-10e8-505b-e063-6394a90a595f), label version 2026-11-13; accessed 2026-11-19.) Ketorolac is a non-selective COX-1/COX-2 inhibitor, a class that reduces prostaglandin synthesis. Prostaglandins contribute to neurogenic inflammation, trigeminovascular sensitization and pain signalling in migraine and tension-type headache, so analgesic and anti-inflammatory effects in headache are mechanistically plausible.
 
 The clinical literature supports this link. Guideline-level assessments and several systematic reviews and meta-analyses address parenteral ketorolac for acute migraine in the emergency department, and trials have tested it in migraine and tension-type headache, in both adults and children.
 
@@ -119,6 +119,19 @@ Multiple completed Phase 3/4 trials and several systematic reviews, meta-analyse
 - A short-course dosing limit and exclusion criteria for at-risk patients (gastrointestinal, renal, cardiovascular, bleeding risk)
 - Interaction management plan, especially for aspirin, other NSAIDs and lithium
 - Confirmation of the route and formulation needed for headache use, since the EU product is an ophthalmic one
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Toronova Ii Suik (ketorolac tromethamine) prescribing information, Advanced Rx of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49dd153c-10e8-505b-e063-6394a90a595f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

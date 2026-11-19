@@ -56,7 +56,7 @@ The mechanistic reasoning also argues against it, because blocking platelet adhe
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From the known pharmacology, caplacizumab binds the A1 domain of vWF and blocks its binding to the platelet GPIb-IX-V receptor. This stops vWF-driven platelet adhesion and microthrombus formation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for caplacizumab: "Caplacizumab-yhdp targets the A1-domain of vWF, and inhibits the interaction between vWF and platelets, thereby reducing both vWF-mediated platelet adhesion and platelet consumption." ([DailyMed: Cablivi (caplacizumab) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2348f06e-8004-4040-832e-e9e86a39f905), label version 2026-04-24; accessed 2026-11-19.) From the known pharmacology, caplacizumab binds the A1 domain of vWF and blocks its binding to the platelet GPIb-IX-V receptor. This stops vWF-driven platelet adhesion and microthrombus formation.
 
 Primary release disorders of platelets are intrinsic defects of platelet granule content or secretion. They are not driven by vWF-mediated adhesion. The model score therefore rests on statistical association alone, and there is no biological support for it.
 
@@ -99,6 +99,19 @@ The prediction has a very high model score but no clinical trials, no publicatio
 - A bleeding-risk assessment for patients with existing platelet function defects
 - Complete SmPC warnings and contraindications for caplacizumab
 - Detailed mechanism of action data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cablivi (caplacizumab) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2348f06e-8004-4040-832e-e9e86a39f905) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

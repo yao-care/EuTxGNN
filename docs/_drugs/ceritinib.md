@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **gingival fibromatosis**, but 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ceritinib is an oral ALK tyrosine kinase inhibitor. Its efficacy in ALK-positive NSCLC has been established, including a first-line Phase 3 trial against platinum-based chemotherapy (ASCEND-4).
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ceritinib: "Ceritinib is a kinase inhibitor. Targets of ceritinib inhibition identified in either biochemical or cellular assays at clinically relevant concentrations include ALK, insulin-like growth factor 1 receptor (IGF-1R), insulin receptor (InsR), and ROS1." ([DailyMed: Zykadia (ceritinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fff5d805-4ffd-4e8e-8e63-6f129697563e), label version 2026-10-28; accessed 2026-11-19.) Based on known information, ceritinib is an oral ALK tyrosine kinase inhibitor. Its efficacy in ALK-positive NSCLC has been established, including a first-line Phase 3 trial against platinum-based chemotherapy (ASCEND-4).
 
 The data compiled for this report did not identify any link between ALK inhibition and gingival fibromatosis. Gingival fibromatosis is a benign overgrowth of gum tissue and is not generally ALK-driven. The high TxGNN score (0.9986) is a computational output only. It should not be read as evidence of a mechanistic relationship or of clinical benefit.
 
@@ -147,12 +147,13 @@ The prediction rests only on a model score. No clinical trials or publications s
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The only EU authorization for ceritinib is cancelled, and i" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "the cancelled EU authorization status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zykadia (ceritinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fff5d805-4ffd-4e8e-8e63-6f129697563e) |
 
 <!-- review:end log -->
 

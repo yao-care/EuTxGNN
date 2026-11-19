@@ -54,7 +54,7 @@ Tezacaftor is a CFTR corrector used in combination regimens to treat cystic fibr
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, tezacaftor is a CFTR corrector that improves the folding and trafficking of F508del-CFTR protein to the cell surface. It is used together with ivacaftor, or in triple combinations such as Kaftrio and Alyftrek, for cystic fibrosis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for vanzacaftor, tezacaftor, and deutivacaftor (a combination product containing tezacaftor): "Vanzacaftor and tezacaftor bind to different sites on the CFTR protein and have an additive effect in facilitating the cellular processing and trafficking of select mutant forms of CFTR (including F508del- CFTR) to increase the amount of CFTR protein delivered to the cell surface compared to either molecule alone. The combined effect of vanzacaftor, tezacaftor and deutivacaftor is increased quantity and function of CFTR at the cell surface, resulting in increased CFTR activity as measured both by CFTR-mediated chloride transport in vitro and by sweat chloride in patients with CF." ([DailyMed: Alyftrek (vanzacaftor, tezacaftor, and deutivacaftor) prescribing information, Vertex Pharmaceuticals Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e635909-c6fd-4f0d-ae77-cdff03653a20), label version 2026-08-26; accessed 2026-11-19.) Based on known information, tezacaftor is a CFTR corrector that improves the folding and trafficking of F508del-CFTR protein to the cell surface. It is used together with ivacaftor, or in triple combinations such as Kaftrio and Alyftrek, for cystic fibrosis.
 
 The link between cystic fibrosis and HIV is weak. No mechanistic connection to antiviral activity has been identified. The high TxGNN score (0.9924) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological or clinical evidence. The other top-ranked prediction (leprosy) appears to reflect the same pattern and should be interpreted with caution.
 
@@ -110,11 +110,12 @@ The prediction for HIV infectious disease rests only on a TxGNN model (deep lear
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Verification of the reason for the cancelled EU authorization status" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Alyftrek (vanzacaftor, tezacaftor, and deutivacaftor) prescribing information, Vertex Pharmaceuticals Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e635909-c6fd-4f0d-ae77-cdff03653a20) |
 
 <!-- review:end log -->
 

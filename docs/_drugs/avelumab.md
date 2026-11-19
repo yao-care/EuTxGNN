@@ -56,7 +56,7 @@ but the data compiled for this report contain **no clinical trials** and **no pu
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Avelumab belongs to the class of antibodies that block PD-L1, a protein that tumours can use to suppress T-cell attack.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for avelumab: "PD-L1 may be expressed on tumor cells and tumor-infiltrating immune cells and can contribute to the inhibition of the anti-tumor immune response in the tumor microenvironment. Binding of PD-L1 to the PD-1 and B7.1 receptors found on T cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation, and cytokine production. […] Avelumab binds PD-L1 and blocks the interaction between PD-L1 and its receptors PD-1 and B7.1." ([DailyMed: Bavencio (avelumab) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5cd725a1-2fa4-408a-a651-57a7b84b2118), label version 2026-09-22; accessed 2026-11-19.) Avelumab belongs to the class of antibodies that block PD-L1, a protein that tumours can use to suppress T-cell attack.
 
 Human herpesvirus 8 (HHV-8) drives Kaposi sarcoma and some related lymphoproliferative tumours. These tumours can express PD-L1 and show T-cell exhaustion, so blocking PD-L1 could in principle restore antiviral and antitumour immunity. Avelumab is already used in another virus-associated tumour (Merkel cell carcinoma, linked to Merkel cell polyomavirus), which supports the general concept.
 
@@ -108,6 +108,19 @@ No clinical trial or publication in the compiled data studies this disease, so t
 - Mechanism of action data and PD-L1 expression data for HHV-8-related tumours
 - Warnings and contraindications from the SmPC, which are needed before any safety screening
 - Review of the major interactions with lenalidomide, pomalidomide and thalidomide, which are drugs used in some HHV-8-related disease settings
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Bavencio (avelumab) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5cd725a1-2fa4-408a-a651-57a7b84b2118) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

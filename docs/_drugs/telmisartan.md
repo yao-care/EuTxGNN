@@ -60,7 +60,7 @@ Among the other top-ranked predictions, **intracerebral hemorrhage** has the str
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Telmisartan belongs to the angiotensin II type 1 (AT1) receptor blocker class, and its efficacy in hypertension and cardiovascular risk reduction is established. Preclinical literature also describes a partial PPARγ-agonist activity.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for telmisartan: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the reninangiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Telmisartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10), label version 2026-11-02; accessed 2026-11-19.) Telmisartan belongs to the angiotensin II type 1 (AT1) receptor blocker class, and its efficacy in hypertension and cardiovascular risk reduction is established. Preclinical literature also describes a partial PPARγ-agonist activity.
 
 Prinzmetal (vasospastic) angina involves coronary artery spasm. A plausible link exists through vasodilation and renin-angiotensin system (RAS)/AT1 blockade. However, vasospastic angina is not a recognized telmisartan indication, and no trial or publication supporting this link was retrieved. The prediction is therefore model-derived only.
 
@@ -200,7 +200,7 @@ The top prediction, Prinzmetal angina, rests on model score alone (L5) with no t
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
@@ -208,6 +208,7 @@ Below is the review log for this page: statements checked against official Europ
 | 2026-11-06 | Removed: "with 6 valid licences of 6" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "A sixth authorization, Telmisartan Teva Pharma (EMEA/H/C/002511), covered treatment of essential hypertension in adults and is also cancelle" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "given the cancelled EU authorizations" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for the original indication is not available in the data compiled for this report. Based on general pharmacology, cladribine (2-chlorodeoxyadenosine) is resistant to adenosine deaminase and is phosphorylated by deoxycytidine kinase. It accumulates as cladribine triphosphate, which causes DNA strand breaks and apoptosis. Its effect is mainly in lymphocytes and monocytes, which have a high ratio of deoxycytidine kinase to 5'-nucleotidase.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for cladribine: "The mechanism by which cladribine exerts its therapeutic effects in patients with multiple sclerosis has not been fully elucidated but is thought to involve cytotoxic effects on B and T lymphocytes through impairment of DNA synthesis, resulting in depletion of lymphocytes." ([DailyMed: Mavenclad (cladribine) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c75e30a-a410-40f1-b653-04d532bd9144), label version 2026-05-27; accessed 2026-11-19.) Based on general pharmacology, cladribine (2-chlorodeoxyadenosine) is resistant to adenosine deaminase and is phosphorylated by deoxycytidine kinase. It accumulates as cladribine triphosphate, which causes DNA strand breaks and apoptosis. Its effect is mainly in lymphocytes and monocytes, which have a high ratio of deoxycytidine kinase to 5'-nucleotidase.
 
 Its proven activity is in lymphoid disease (hairy-cell leukaemia and multiple sclerosis). Rhabdomyosarcoma is a solid mesenchymal tumour and lacks this lymphocyte-specific enzyme profile. Activity there would be plausible only as a general cytotoxic effect.
 
@@ -139,13 +139,14 @@ The prediction is supported only by a TxGNN model (deep learning) score. There a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "Both authorizations are listed as cancelled in the data compiled for this report" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "Both EU authorizations are cancelled, and t" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "since both authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data for the original indication is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mavenclad (cladribine) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c75e30a-a410-40f1-b653-04d532bd9144) |
 
 <!-- review:end log -->
 

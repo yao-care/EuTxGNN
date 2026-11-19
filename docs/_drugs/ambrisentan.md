@@ -54,7 +54,7 @@ Ambrisentan is an endothelin type A receptor antagonist. The TxGNN model predict
 
 ## Why is This Prediction Reasonable?
 
-Ambrisentan is an endothelin type A (ETA) receptor antagonist. Blocking this receptor relaxes and remodels pulmonary blood vessels, which is why it is used for conditions of raised pressure in the lung's arteries. Detailed mechanism-of-action data was not available in the data compiled for this report.
+Ambrisentan is an endothelin type A (ETA) receptor antagonist. Blocking this receptor relaxes and remodels pulmonary blood vessels, which is why it is used for conditions of raised pressure in the lung's arteries. According to the Mechanism of Action section of the US FDA-approved prescribing information for ambrisentan: "Endothelin-1 (ET-1) is a potent autocrine and paracrine peptide. Two receptor subtypes, ET A and ET B, mediate the effects of ET-1 in the vascular smooth muscle and endothelium. […] Ambrisentan is a high-affinity (K i =0.011 nM) ET A receptor antagonist with a high selectivity for the ET A versus ET B receptor (>4000-fold)." ([DailyMed: Letairis (ambrisentan) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=725d4e73-6c83-477a-adc6-0ae4a133a844), label version 2026-06-22; accessed 2026-11-19.)
 
 The link to pulmonary arteriovenous malformation (AVM) is weak. The only supporting paper is a case report of pulmonary arterial hypertension in a patient with hereditary hemorrhagic telangiectasia (HHT), a disease in which pulmonary AVMs are common. That report reflects a shared genetic pathway (BMPR2/ACVRL1) between HHT and pulmonary arterial hypertension. It does not show that ambrisentan treats pulmonary AVMs themselves.
 
@@ -99,6 +99,19 @@ The prediction score is high, but no trial studies this disease and the single p
 - Studies that directly assess ambrisentan in pulmonary AVM, for example in patients with HHT
 - Mechanism-of-action data explaining a possible benefit in this condition
 - The SmPC warnings and contraindications for a safety review, including teratogenicity
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data was not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Letairis (ambrisentan) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=725d4e73-6c83-477a-adc6-0ae4a133a844) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

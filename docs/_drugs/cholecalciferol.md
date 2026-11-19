@@ -60,7 +60,7 @@ The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Camp
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for cholecalciferol is not available in the data compiled for this report. Cholecalciferol is a vitamin D precursor, and its role in calcium and bone mineral balance is well established. Its efficacy in postmenopausal osteoporosis, where it is used with alendronate in the EU products below, does not extend by itself to a genetic skeletal dysplasia.
+ChEMBL (EMBL-EBI) records the mechanism of action of cholecalciferol as: Vitamin D receptor agonist ([ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042), CC BY-SA 3.0; accessed 2026-11-19.) Cholecalciferol is a vitamin D precursor, and its role in calcium and bone mineral balance is well established. Its efficacy in postmenopausal osteoporosis, where it is used with alendronate in the EU products below, does not extend by itself to a genetic skeletal dysplasia.
 
 The link to the new indication is weak. Acromesomelic dysplasia is a rare inherited skeletal disorder, most likely tied to the NPR2 / C-type natriuretic peptide (CNP) signalling pathway. Cholecalciferol has no established mechanism that would correct this defect. Any connection through general bone mineral metabolism is speculative. The high score (0.9978) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It has not been checked against laboratory, clinical or published evidence.
 
@@ -129,6 +129,19 @@ The prediction rests only on a high model score, with no trials or publications 
 - Mechanism of action data for cholecalciferol and an analysis of its relationship to the CNP/NPR2 signalling pathway.
 - Label-based warnings and contraindications from the SmPC, so safety can be screened.
 - Consideration of other predictions in the data compiled for this report. For example, the prediction for renal osteodystrophy is supported by a Phase 3 trial and a body of CKD-related literature, and may be a better candidate to prioritise.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data for cholecalciferol is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant for **hypertrichosis (disease)**, bu
 
 ## Why is This Prediction Reasonable?
 
-Ganirelix blocks the GnRH receptor (GNRHR) and thereby suppresses LH and FSH, which in turn lowers gonadal sex-hormone production. Detailed mechanism-of-action data beyond this receptor-level pharmacology are not available in the data compiled for this report.
+Ganirelix blocks the GnRH receptor (GNRHR) and thereby suppresses LH and FSH, which in turn lowers gonadal sex-hormone production. According to the Clinical Pharmacology section of the US FDA-approved prescribing information for ganirelix: "The pulsatile release of GnRH stimulates the synthesis and secretion of luteinizing hormone (LH) and follicle-stimulating hormone (FSH). The frequency of LH pulses in the mid and late follicular phase is approximately 1 pulse per hour. […] Ganirelix acetate acts by competitively blocking the GnRH receptors on the pituitary gonadotroph and subsequent transduction pathway." ([DailyMed: Fyremadel (ganirelix acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f0908b5-3551-47fd-95f7-3669b0dff7f1), label version 2026-10-16; accessed 2026-11-19.)
 
 A theoretical link to androgen-dependent hair growth exists, because lowering gonadal androgens could in principle influence hair growth. However, most forms of hypertrichosis are not driven by gonadotropins, and hypertrichosis differs from hirsutism, which is the androgen-dependent condition. The high TxGNN score is a model-based prediction. No clinical trials or publications support it, so the mechanistic argument remains weak and speculative.
 
@@ -84,6 +84,19 @@ The prediction rests only on a model score of 0.9998. No clinical trials or publ
 - Any preclinical or clinical study that directly examines ganirelix in hypertrichosis
 - A clearer mechanistic rationale, including which hypertrichosis subtypes could plausibly respond to gonadotropin suppression
 - Warnings and contraindications taken from the SmPC, and a safety assessment for a non-fertility population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data beyond this receptor-level pharmacology are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fyremadel (ganirelix acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f0908b5-3551-47fd-95f7-3669b0dff7f1) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

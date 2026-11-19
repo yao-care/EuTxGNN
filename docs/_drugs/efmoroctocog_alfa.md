@@ -60,7 +60,7 @@ The score comes from the TxGNN model (deep learning) and may reflect similaritie
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Based on known information, efmoroctocog alfa is a recombinant factor VIII linked to an Fc fragment. Its efficacy in haemophilia A comes from replacing the missing factor VIII.
+ChEMBL (EMBL-EBI) records the mechanism of action of efmoroctocog alfa as: Coagulation factor VIII exogenous protein ([ChEMBL CHEMBL4297945 (efmoroctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4297945), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, efmoroctocog alfa is a recombinant factor VIII linked to an Fc fragment. Its efficacy in haemophilia A comes from replacing the missing factor VIII.
 
 Pseudo-von Willebrand disease (platelet-type VWD) is caused by a gain-of-function defect in platelet GPIbα. This increases binding to von Willebrand factor (VWF), leading to loss of high-molecular-weight VWF multimers and thrombocytopenia. Supplying factor VIII does not correct this primary platelet/VWF defect. A secondary reduction in FVIII might occur in severe cases, but that link is speculative.
 
@@ -132,11 +132,12 @@ The prediction has a very high model score, but there are no clinical trials or 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The product's only EU authorization is also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL4297945 (efmoroctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4297945) |
 
 <!-- review:end log -->
 

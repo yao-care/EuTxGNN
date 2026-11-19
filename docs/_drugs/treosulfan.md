@@ -54,7 +54,7 @@ Treosulfan is an alkylating agent used together with fludarabine as conditioning
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Treosulfan is a bifunctional alkylating agent. It is a prodrug converted to epoxide species that crosslink DNA, and this produces the myeloablative effect needed for transplant conditioning.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for treosulfan: "Treosulfan is an alkylating agent. DNA alkylation is thought to be responsible for the cytotoxic activities of treosulfan. Treosulfan showed hematopoietic stem cell depleting activity as well as immunosuppressive and antitumor activity in mouse models of leukemia." ([DailyMed: Grafapex (treosulfan) prescribing information, Medexus Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d06b03c-17aa-0492-e063-6294a90abd8f), label version 2025-01-31; accessed 2026-11-19.) Treosulfan is a bifunctional alkylating agent. It is a prodrug converted to epoxide species that crosslink DNA, and this produces the myeloablative effect needed for transplant conditioning.
 
 The prediction is **not well supported mechanistically**. Diabetic cataract involves polyol pathway activity, glycation and oxidative stress in the lens. A DNA-crosslinking cytotoxic agent has no established role in these processes. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Cataract is also a recognized late complication of conditioning regimens, so the direction of effect may be the opposite of benefit.
 
@@ -108,11 +108,12 @@ The prediction rests on a model score alone. There are no clinical trials or pub
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the EU authorization is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Grafapex (treosulfan) prescribing information, Medexus Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d06b03c-17aa-0492-e063-6294a90abd8f) |
 
 <!-- review:end log -->
 

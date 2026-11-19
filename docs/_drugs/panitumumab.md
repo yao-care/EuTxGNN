@@ -60,7 +60,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, panitumumab is an anti-EGFR (epidermal growth factor receptor) monoclonal antibody. Its efficacy in RAS wild-type metastatic colorectal cancer has been established, which is how it came to be authorized.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for panitumumab: "The EGFR is a transmembrane glycoprotein that is a member of a subfamily of type I receptor tyrosine kinases, including EGFR, HER2, HER3, and HER4. EGFR is constitutively expressed in normal epithelial tissues, including the skin and hair follicle. […] Panitumumab binds specifically to EGFR on both normal and tumor cells, and competitively inhibits the binding of ligands for EGFR." ([DailyMed: Vectibix (panitumumab) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e0fa4bca-f245-4d92-ae29-b0c630a315c2), label version 2026-06-23; accessed 2026-11-19.) Based on known information, panitumumab is an anti-EGFR (epidermal growth factor receptor) monoclonal antibody. Its efficacy in RAS wild-type metastatic colorectal cancer has been established, which is how it came to be authorized.
 
 The link to drug-induced osteoporosis is speculative. In preclinical settings, EGFR signaling has a role in osteoblast differentiation and bone remodeling, so a theoretical connection exists. However, no clinical or literature evidence was provided to support it, and the relationship between a colorectal cancer therapy and a bone-loss condition has not been characterized. The high TxGNN score (0.9913) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -134,12 +134,13 @@ The prediction rests only on a computational score, with no registered clinical 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Verification of the current EU marketing status of Vectibix, since only a cancelled authorization is recorded" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "The EU authorization in the data is cancelled, and m" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vectibix (panitumumab) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e0fa4bca-f245-4d92-ae29-b0c630a315c2) |
 
 <!-- review:end log -->
 

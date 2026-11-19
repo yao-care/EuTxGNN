@@ -60,7 +60,7 @@ Support is limited: **0 registered clinical trials** and **1 clinical comparison
 
 ## Why is This Prediction Reasonable?
 
-Parecoxib is a prodrug of valdecoxib, a selective COX-2 inhibitor. Detailed mechanism-of-action data were not available in the data compiled for this report, but the class mechanism is well established: COX-2 inhibition reduces prostaglandin synthesis, giving analgesic and anti-inflammatory effects. This is how the drug relieves postoperative pain.
+Parecoxib is a prodrug of valdecoxib, a selective COX-2 inhibitor. ChEMBL (EMBL-EBI) records the mechanism of action of parecoxib as: Cyclooxygenase-2 inhibitor ([ChEMBL CHEMBL1206690 (parecoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1206690), CC BY-SA 3.0; accessed 2026-11-19.) The class mechanism is well established: COX-2 inhibition reduces prostaglandin synthesis, giving analgesic and anti-inflammatory effects. This is how the drug relieves postoperative pain.
 
 Migraine involves pain and neurogenic inflammation in the trigeminal system. Preclinical work (PMID 21394197) shows that IL-1β stimulates COX-2-dependent PGE2 synthesis and CGRP release in rat trigeminal ganglia cells. In a rat model of trigeminovascular activation, parecoxib affected plasma protein extravasation and c-fos expression (PMID 16492237). This offers a plausible mechanistic bridge from pain relief to acute migraine treatment.
 
@@ -129,11 +129,12 @@ The prediction score is high and a plausible trigeminovascular mechanism exists.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and the EU authorisation is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1206690 (parecoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1206690) |
 
 <!-- review:end log -->
 

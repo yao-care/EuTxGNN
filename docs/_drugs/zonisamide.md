@@ -60,7 +60,7 @@ Among the other predictions, bipolar disorder has the most supporting literature
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Zonisamide is generally known as a sulfonamide antiseizure drug that acts on voltage-gated sodium channels and T-type calcium channels, and it also weakly modulates dopaminergic and serotonergic transmission. These properties could plausibly relate to the circuitry underlying tics, but this is a hypothesis only.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for zonisamide: "The precise mechanism(s) by which zonisamide exerts its antiseizure effect is unknown. Zonisamide demonstrated anticonvulsant activity in several experimental models. In animals, zonisamide was effective against tonic extension seizures induced by maximal electroshock but ineffective against clonic seizures induced by subcutaneous pentylenetetrazol." ([DailyMed: Zonegran (zonisamide) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12de43e-3ac3-4335-bc85-70d7366a91eb), label version 2026-09-23; accessed 2026-11-19.) Zonisamide is generally known as a sulfonamide antiseizure drug that acts on voltage-gated sodium channels and T-type calcium channels, and it also weakly modulates dopaminergic and serotonergic transmission. These properties could plausibly relate to the circuitry underlying tics, but this is a hypothesis only.
 
 Nothing in the data supports benefit in Tourette syndrome. On the contrary, a review of antiseizure medication-induced obsessive-compulsive disorder and tic disorder (PMID 36005856) suggests that antiseizure drugs may cause or worsen tic and obsessive-compulsive symptoms. The TxGNN score is high, but it comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or clinical evidence.
 
@@ -163,12 +163,13 @@ The Tourette syndrome prediction rests on the model score alone, with no trials 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Fibromyalgia (score 0.9920) has a class-level rationale, since pregabalin and gabapentin are used for it, but its only trial was withdrawn" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "since both EU authorizations are cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zonegran (zonisamide) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12de43e-3ac3-4335-bc85-70d7366a91eb) |
 
 <!-- review:end log -->
 

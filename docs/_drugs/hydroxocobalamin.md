@@ -56,7 +56,7 @@ but **no clinical trials and no publications** were found to support this predic
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for hydroxocobalamin is not available in the data compiled for this report. Generally, hydroxocobalamin is a vitamin B12 form that binds cyanide, which is the basis of its use in poisoning. It is also known to scavenge nitric oxide (NO).
+According to the Mechanism of Action section of the US FDA-approved prescribing information for hydroxocobalamin: "Cyanide is an extremely toxic poison. In the absence of rapid and adequate treatment, exposure to a high dose of cyanide can result in death within minutes due to the inhibition of cytochrome oxidase resulting in arrest of cellular respiration. […] Each hydroxocobalamin molecule can bind one cyanide ion by substituting it for the hydroxo ligand linked to the trivalent cobalt ion, to form cyanocobalamin, which is then excreted in the urine." ([DailyMed: Cyanokit (hydroxocobalamin) prescribing information, BTG INTERNATIONAL INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d56fcc8d-bd64-46ab-b0c0-2124bd745a6b), label version 2023-04-27; accessed 2026-11-19.) Generally, hydroxocobalamin is a vitamin B12 form that binds cyanide, which is the basis of its use in poisoning. It is also known to scavenge nitric oxide (NO).
 
 A speculative link exists to the predicted use. NO-mediated widening of blood vessels in the gut region contributes to portal hypertension, which drives esophageal varices. In theory, an NO scavenger could affect this process. However, no preclinical or clinical data in the compiled material support this idea, and the link remains unverified.
 
@@ -108,6 +108,19 @@ The prediction is supported only by a model score. There are no clinical trials 
 - Assessment of the blood pressure effect in patients with portal hypertension
 - Clarification of why the model gives the same score for bleeding and non-bleeding varices
 - Route and dosage form compatibility assessment (cyanide poisoning is treated by intravenous administration, but the required route for the new use is not yet defined)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data for hydroxocobalamin is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cyanokit (hydroxocobalamin) prescribing information, BTG INTERNATIONAL INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d56fcc8d-bd64-46ab-b0c0-2124bd745a6b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ but **no clinical trials** and **no publications** specific to this subtype are 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tenecteplase is a fibrin-specific tissue plasminogen activator. It dissolves the clot that blocks a coronary artery, and this has been established in ST-elevation myocardial infarction (STEMI).
+According to the Mechanism of Action section of the US FDA-approved prescribing information for tenecteplase: "Tenecteplase is a modified form of human tissue plasminogen activator (tPA) that binds to fibrin and converts plasminogen to plasmin. In the presence of fibrin, in vitro studies demonstrate that tenecteplase-mediated conversion of plasminogen to plasmin is increased relative to its conversion in the absence of fibrin." ([DailyMed: Tnkase (tenecteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e647640d-c395-4b4b-a0be-1162f9c21d84), label version 2025-12-15; accessed 2026-11-19.) Based on known information, tenecteplase is a fibrin-specific tissue plasminogen activator. It dissolves the clot that blocks a coronary artery, and this has been established in ST-elevation myocardial infarction (STEMI).
 
 Posterolateral myocardial infarction is an anatomical subtype of the same disease. The cause is the same (a thrombotic blockage of a coronary artery), so the mechanism applies directly. The very high TxGNN score likely reflects this overlap with the approved indication.
 
@@ -120,12 +120,13 @@ There is no direct trial or literature evidence. Safety label data, a blocking g
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The authorization status is cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "and the EU authorization is recorded as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tnkase (tenecteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e647640d-c395-4b4b-a0be-1162f9c21d84) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Memantine was originally authorised in the EU for moderate to severe Alzheimer's
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, memantine is an NMDA receptor antagonist (a glutamatergic modulator), and its efficacy in moderate to severe Alzheimer's disease has been established through its authorisation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for memantine: "Persistent activation of central nervous system N-methyl-D-aspartate (NMDA) receptors by the excitatory amino acid glutamate has been hypothesized to contribute to the symptomatology of Alzheimer’s disease. Memantine is postulated to exert its therapeutic effect through its action as a low to moderate affinity uncompetitive (open-channel) NMDA receptor antagonist which binds preferentially to the NMDA receptor-operated cation channels." ([DailyMed: memantine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6977ef-6a0a-4bd9-b500-6ceb15abbd5e), label version 2026-11-11; accessed 2026-11-19.) Based on known information, memantine is an NMDA receptor antagonist (a glutamatergic modulator), and its efficacy in moderate to severe Alzheimer's disease has been established through its authorisation.
 
 For pulmonary hypertension, the link is weak. One paper (PMID 33500723) notes that the glutamate/NMDA receptor axis has been associated with pulmonary arterial hypertension, acute lung injury and diabetes, but the study itself concerns insulin sensitivity and lipid metabolism. The other paper concerns MN-08, a nitrate derivative of memantine under development for pulmonary arterial hypertension, studied in a Phase 1 safety study in healthy volunteers. That is a different compound, so it does not demonstrate that memantine itself works. The high TxGNN score is therefore a computational signal, not clinical support.
 
@@ -147,13 +147,14 @@ The pulmonary hypertension prediction rests on a very high model score alone. No
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The drug is marketed; all 8 licences are currently valid (8 of 8)" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "and are also cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "with 8 valid licences out of 8" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: memantine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6977ef-6a0a-4bd9-b500-6ceb15abbd5e) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **hepatic porphyria**, but there a
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug. Based on known information, deferiprone is an oral iron chelator whose efficacy in iron overload in thalassaemia major is established. Mechanistically, it may be applicable to porphyrias in which iron drives disease.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for deferiprone: "Deferiprone is a chelating agent with an affinity for ferric ions (iron III). Deferiprone binds with ferric ions to form neutral 3:1 (deferiprone:iron) complexes that are stable at physiological pH." ([DailyMed: Ferriprox (deferiprone) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=946718ff-df43-1baa-74d1-e5bcfbe8ad86), label version 2026-01-28; accessed 2026-11-19.) Based on known information, deferiprone is an oral iron chelator whose efficacy in iron overload in thalassaemia major is established. Mechanistically, it may be applicable to porphyrias in which iron drives disease.
 
 Iron is a driver of porphyrin accumulation and photosensitivity in several porphyrias. In uroporphyria models similar to porphyria cutanea tarda (PCT), iron overload inhibits the enzyme uroporphyrinogen decarboxylase, and reducing iron lowers uroporphyrin accumulation. A deferiprone-type chelator could therefore plausibly reduce iron burden and porphyrin production. In a mouse model of congenital erythropoietic porphyria (CEP), iron chelation rescued hemolytic anemia and skin photosensitivity.
 
@@ -123,12 +123,13 @@ The prediction score is high, and the biology of iron-driven porphyrin accumulat
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "The EU authorizations are also all cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "since both authorizations are listed as cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-19 | "Detailed mechanism of action data is not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ferriprox (deferiprone) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=946718ff-df43-1baa-74d1-e5bcfbe8ad86) |
 
 <!-- review:end log -->
 
