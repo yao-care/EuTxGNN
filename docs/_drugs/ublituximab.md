@@ -5,7 +5,7 @@ layout: default
 title: Ublituximab
 parent: Known Uses Only (No New Predictions)
 nav_order: 648
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ublituximab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Ublituximab"
 predicted_indications: []

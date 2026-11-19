@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Eltrombopag"
 predicted_indications: ["HIV infectious disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Eltrombopag: predicted new indication HIV infectious disease (evidence level L5). Approved use: Revolade is indicated for the treatment of adult patients with primar…"
 ---
 

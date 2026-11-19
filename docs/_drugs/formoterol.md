@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "formoterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Formoterol: predicted new indication respiratory malformation (evidence level L5). Approved use: Asthma BiResp Spiromax is indicated in adults and adolescents (12 yea…"
 ---
 

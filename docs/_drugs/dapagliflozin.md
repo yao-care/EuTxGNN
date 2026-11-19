@@ -5,7 +5,7 @@ layout: default
 title: Dapagliflozin
 parent: Known Uses Only (No New Predictions)
 nav_order: 169
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dapagliflozin: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Dapagliflozin"
 predicted_indications: []

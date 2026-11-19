@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Florbetaben (18F)"
 predicted_indications: ["migraine disorder", "rheumatoid arthritis", "migraine with brainstem aura"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Florbetaben 18F: predicted new indication migraine disorder (evidence level L5). Approved use: This medicinal product is for diagnostic use only. Neuraceq is a radi…"
 ---
 

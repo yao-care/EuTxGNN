@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "Ketoconazole"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ketoconazole: predicted new indication Acne (disease) (evidence level L4). Approved use: Ketoconazole Esteve is indicated for the treatment of endogenous Cush…"
 ---
 

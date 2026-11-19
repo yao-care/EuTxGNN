@@ -5,7 +5,7 @@ layout: default
 title: Abacavir As Sulfate
 parent: Known Uses Only (No New Predictions)
 nav_order: 12
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

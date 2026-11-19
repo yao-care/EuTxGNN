@@ -5,7 +5,7 @@ layout: default
 title: Choriogonadotropin Alfa
 parent: Known Uses Only (No New Predictions)
 nav_order: 148
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Choriogonadotropin Alfa: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Choriogonadotropin alfa"
 predicted_indications: []

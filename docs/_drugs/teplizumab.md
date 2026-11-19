@@ -5,7 +5,7 @@ layout: default
 title: Teplizumab
 parent: Known Uses Only (No New Predictions)
 nav_order: 602
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Teplizumab: known uses and market status in the European Union; currently no new candidate indication"
 monitor_inn: "Teplizumab"
 predicted_indications: []

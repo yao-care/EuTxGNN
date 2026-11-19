@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Carfilzomib"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Carfilzomib: predicted new indication CMM7 (evidence level L5). Approved use: Kyprolis in combination with daratumumab and dexamethasone…"
 ---
 
