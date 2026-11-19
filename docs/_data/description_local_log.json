@@ -1,0 +1,103 @@
+{
+  "_note": "藥物頁 front matter description 句尾「原適應症：本地資料未記載」換成本站許可證快照事實層品項數的紀錄（母目錄 .claude/drug_meta_description.py --apply，2026-11-19 起）。pages＝目前產生的句尾（tail）與被換掉的原字樣（original）；entries＝每次改動的前後整行（from／to，可還原：把第一筆的 from 寫回該頁 description）。",
+  "pages": {
+    "cilastatin": {
+      "tail": "In the EU: 1 EMA central authorisation (1 valid)",
+      "original": "Approved use: Not recorded in the local data",
+      "date": "2026-11-19"
+    },
+    "elbasvir": {
+      "tail": "In the EU: 1 EMA central authorisation (1 valid)",
+      "original": "Approved use: Not recorded in the local data",
+      "date": "2026-11-19"
+    },
+    "gimeracil": {
+      "tail": "In the EU: 1 EMA central authorisation (1 valid)",
+      "original": "Approved use: Not recorded in the local data",
+      "date": "2026-11-19"
+    },
+    "glecaprevir": {
+      "tail": "In the EU: 1 EMA central authorisation (1 valid)",
+      "original": "Approved use: Not recorded in the local data",
+      "date": "2026-11-19"
+    },
+    "grazoprevir": {
+      "tail": "In the EU: 1 EMA central authorisation (1 valid)",
+      "original": "Approved use: Not recorded in the local data",
+      "date": "2026-11-19"
+    },
+    "oteracil": {
+      "tail": "In the EU: 1 EMA central authorisation (1 valid)",
+      "original": "Approved use: Not recorded in the local data",
+      "date": "2026-11-19"
+    },
+    "salmeterol": {
+      "tail": "In the EU: 4 EMA central authorisations (1 valid)",
+      "original": "Approved use: Not recorded in the local data",
+      "date": "2026-11-19"
+    },
+    "tegafur": {
+      "tail": "In the EU: 1 EMA central authorisation (1 valid)",
+      "original": "Approved use: Not recorded in the local data",
+      "date": "2026-11-19"
+    }
+  },
+  "entries": [
+    {
+      "page": "docs/_drugs/cilastatin.md",
+      "date": "2026-11-19",
+      "from": "\"Cilastatin: predicted new indication Staphylococcus aureus infection (evidence level L3). Approved use: Not recorded in the local data\"",
+      "to": "\"Cilastatin: predicted new indication Staphylococcus aureus infection (evidence level L3). In the EU: 1 EMA central authorisation (1 valid)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/elbasvir.md",
+      "date": "2026-11-19",
+      "from": "\"Elbasvir: predicted new indication Hepatitis B virus infection (evidence level L5). Approved use: Not recorded in the local data\"",
+      "to": "\"Elbasvir: predicted new indication Hepatitis B virus infection (evidence level L5). In the EU: 1 EMA central authorisation (1 valid)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/gimeracil.md",
+      "date": "2026-11-19",
+      "from": "\"Gimeracil: predicted new indication Cecum villous adenoma (evidence level L5). Approved use: Not recorded in the local data\"",
+      "to": "\"Gimeracil: predicted new indication Cecum villous adenoma (evidence level L5). In the EU: 1 EMA central authorisation (1 valid)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/glecaprevir.md",
+      "date": "2026-11-19",
+      "from": "\"Glecaprevir: predicted new indication HIV infectious disease (evidence level L5). Approved use: Not recorded in the local data\"",
+      "to": "\"Glecaprevir: predicted new indication HIV infectious disease (evidence level L5). In the EU: 1 EMA central authorisation (1 valid)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/grazoprevir.md",
+      "date": "2026-11-19",
+      "from": "\"Grazoprevir: predicted new indication HIV infectious disease (evidence level L5). Approved use: Not recorded in the local data\"",
+      "to": "\"Grazoprevir: predicted new indication HIV infectious disease (evidence level L5). In the EU: 1 EMA central authorisation (1 valid)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/oteracil.md",
+      "date": "2026-11-19",
+      "from": "\"Oteracil: predicted new indication Cecum villous adenoma (evidence level L5). Approved use: Not recorded in the local data\"",
+      "to": "\"Oteracil: predicted new indication Cecum villous adenoma (evidence level L5). In the EU: 1 EMA central authorisation (1 valid)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/salmeterol.md",
+      "date": "2026-11-19",
+      "from": "\"Salmeterol: predicted new indication Respiratory malformation (evidence level L5). Approved use: Not recorded in the local data\"",
+      "to": "\"Salmeterol: predicted new indication Respiratory malformation (evidence level L5). In the EU: 4 EMA central authorisations (1 valid)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tegafur.md",
+      "date": "2026-11-19",
+      "from": "\"Tegafur: predicted new indication Cecum villous adenoma (evidence level L5). Approved use: Not recorded in the local data\"",
+      "to": "\"Tegafur: predicted new indication Cecum villous adenoma (evidence level L5). In the EU: 1 EMA central authorisation (1 valid)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    }
+  ]
+}
