@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "diabetes (diabetes mellitus) News"
+title: "diabetic (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 259 articles, 86 related drugs."
+description: "Health news about diabetic (diabetes mellitus). 265 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 last_modified_at: 2026-11-19
 ---
 
-# diabetes (diabetes mellitus) News
+# diabetic (diabetes mellitus) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>259 news articles</strong> and 86 related drugs.
+<p class="key-answer" data-question="What news is there about diabetic (diabetes mellitus)?">
+<strong>diabetic (diabetes mellitus)</strong> currently has <strong>265 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “diabetes” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “diabetic” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -65,7 +65,39 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (259)
+## Related News (265)
+
+### [Monselice, medico introvabile e anziana diabetica con una sola dose di insulina: «Pazienti in lacrime» - Il Gazzettino](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX0pRVDc1YUJTdWNPUTNiNThZNDBhNk5YUjliLTZmMlJpREVLOFJndnJmRlgyZkxqMlZwTW53T1ZoWjkzQ0tFRGdPbERudldGY3dDeXpmSW5QMWFfR29qRDVCallsNllKUUtwaW0xaVdFbUZvVFh1OGQwQUhfclBZM1lsczFpZks0dXVSWUpWWFBIaGctWXFYb2VocGJrVTZ0ay1XaTE1OTl0YTRDbGRLeWtQcTBrZGFmaTlDSzYtcC16ekVJam9hVlEwYXR2aUkyejM40gHPAUFVX3lxTE5TeGZJOWpJbnNidGgxTHAyeXR2cUp1VkhPSFhUUmE0N1oxcHFhRHM2RDl0d0NtT1JpLUswd2E4TUcyUFVjcGs1UUhZUlhCTkViVXlEcTd0UWRtUDA0R0s3OENGRjdxOVRwcVBkNDg1ZTRjaWpBNWhYT1ZtekFkbGV2Njg4RUhNRjQyRTFMT3h2UVNDQ2NvMlFuR2h4MzBQWHVMbG1ESlpybk92dW1yWW50aWJGeHFObFBTOWhZeExWeXJMOWlab3d2QWtaQzl3Yw?oc=5)
+
+2026-11-19
+
+Source: [Il Gazzettino](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX0pRVDc1YUJTdWNPUTNiNThZNDBhNk5YUjliLTZmMlJpREVLOFJndnJmRlgyZkxqMlZwTW53T1ZoWjkzQ0tFRGdPbERudldGY3dDeXpmSW5QMWFfR29qRDVCallsNllKUUtwaW0xaVdFbUZvVFh1OGQwQUhfclBZM1lsczFpZks0dXVSWUpWWFBIaGctWXFYb2VocGJrVTZ0ay1XaTE1OTl0YTRDbGRLeWtQcTBrZGFmaTlDSzYtcC16ekVJam9hVlEwYXR2aUkyejM40gHPAUFVX3lxTE5TeGZJOWpJbnNidGgxTHAyeXR2cUp1VkhPSFhUUmE0N1oxcHFhRHM2RDl0d0NtT1JpLUswd2E4TUcyUFVjcGs1UUhZUlhCTkViVXlEcTd0UWRtUDA0R0s3OENGRjdxOVRwcVBkNDg1ZTRjaWpBNWhYT1ZtekFkbGV2Njg4RUhNRjQyRTFMT3h2UVNDQ2NvMlFuR2h4MzBQWHVMbG1ESlpybk92dW1yWW50aWJGeHFObFBTOWhZeExWeXJMOWlab3d2QWtaQzl3Yw?oc=5)
+
+---
+
+### [Aktualisierung der S3-Leitlinie: Neue Empfehlungen zur Behandlung von Schwangeren mit Gestationsdiabetes mellitus - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yWDVERXZ0MHNQNEdsNmpkcjBXLU5ESGZuSWxPNFRDUXFQZFFoYkJwSW9jQXRBaUF4aU92MW9VdzB6MjJUMHRzdTZSTQ?oc=5)
+
+2026-11-19
+
+Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yWDVERXZ0MHNQNEdsNmpkcjBXLU5ESGZuSWxPNFRDUXFQZFFoYkJwSW9jQXRBaUF4aU92MW9VdzB6MjJUMHRzdTZSTQ?oc=5)
+
+---
+
+### [Innovar para simplificar el manejo diario de la diabetes tipo 1](https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkhGTGVjd3dLQkZOanA1SGNTMzFxU2RyT2FTNHU0elIwVTkwbFJYbUYtcThNV3BYWTd2VXJLQVVfaUtrc1NhUHhUTk5GUExyTFBSTDNHS1lVc082MTk2eHRZZkpwZ3B1aXFITnpIX0Q0TkhTdVhJTzVvSVVPUWptTjV5NkpDYlRPV3lrdG1mdlFoSHZ4YUZj?oc=5)
+
+2026-11-18
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkhGTGVjd3dLQkZOanA1SGNTMzFxU2RyT2FTNHU0elIwVTkwbFJYbUYtcThNV3BYWTd2VXJLQVVfaUtrc1NhUHhUTk5GUExyTFBSTDNHS1lVc082MTk2eHRZZkpwZ3B1aXFITnpIX0Q0TkhTdVhJTzVvSVVPUWptTjV5NkpDYlRPV3lrdG1mdlFoSHZ4YUZj?oc=5)
+
+---
+
+### [Los dentistas reclaman integrar la salud bucodental en el seguimiento de los diabéticos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYVJwYWNrRmxyakxxUGJKbmNYcnhUcE9heDJ3R01kWHd1ckFMdkd6TzE4MHVNVjYzTlVvdlYwVXF6UWdGS0pQdTRwMmY2SUhMajQ1N2owaHRpWEpFbmtlTHc5TlRKVDY2eXFtYl9CRUtYMHdkNzhZanBjd3F1Nk81d1JrdFJxNE1FLTQ0XzhwWlF0WTBPenNYckVmdUtwUDZHRnhJVno2ZU5PdmhUSVJVVmNIa0s3WVRJZFUxdDJkeVVZVHczb2xQd3o0UU1fY0lncjFBTXd1OUJSdw?oc=5)
+
+2026-11-18
+
+Source: [Infodiabético](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYVJwYWNrRmxyakxxUGJKbmNYcnhUcE9heDJ3R01kWHd1ckFMdkd6TzE4MHVNVjYzTlVvdlYwVXF6UWdGS0pQdTRwMmY2SUhMajQ1N2owaHRpWEpFbmtlTHc5TlRKVDY2eXFtYl9CRUtYMHdkNzhZanBjd3F1Nk81d1JrdFJxNE1FLTQ0XzhwWlF0WTBPenNYckVmdUtwUDZHRnhJVno2ZU5PdmhUSVJVVmNIa0s3WVRJZFUxdDJkeVVZVHczb2xQd3o0UU1fY0lncjFBTXd1OUJSdw?oc=5)
+
+---
 
 ### [Vorschau: aktiv und gesund • Prädiabetes - Geschmeidige Wirbelsäule - Powernap - ARD Mediathek](https://news.google.com/rss/articles/CBMickFVX3lxTE9QZ1NGdnpTVjRzLWlXSWdYajU0eDRNWjNCNWFzN0pVdUlYaG80cU5aMXNycXdhWDI5WEd1VnAwNkxMR0c3aV90V2RHZGh6X21ZcExtQ0N1SU12WjZaOENSYk5KV0ZqSWE3dlpsWlRCakZkUQ?oc=5)
 
@@ -771,6 +803,14 @@ Source: [Futura, le média qui explore le monde](https://news.google.com/rss/art
 
 ---
 
+### [Diabetes-Ernährung ohne Verbotslisten: Das Tellerprinzip als Therapiebaustein - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2wwTGN2aXo5cUVEYldqeE5SRmxvcnY4T2VyQ0JPNmhleTA2REdqS21xSUpoX0Ewem5aVTFpVjc0UG5yMVV3eGdiNnJ6bzZCN3h3cEEwTWhpSjk3dzlvemdZbFluczhGZ18zRV9fV05SOVNudFJoZ3JzT0xtOUdzQ0ljYXdZcEJBcWpjZnpxWlZqZDRycXdZcHdoVlVSUGJZV3Q2OE9Na1JhMTM4bVE?oc=5)
+
+2026-11-14
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2wwTGN2aXo5cUVEYldqeE5SRmxvcnY4T2VyQ0JPNmhleTA2REdqS21xSUpoX0Ewem5aVTFpVjc0UG5yMVV3eGdiNnJ6bzZCN3h3cEEwTWhpSjk3dzlvemdZbFluczhGZ18zRV9fV05SOVNudFJoZ3JzT0xtOUdzQ0ljYXdZcEJBcWpjZnpxWlZqZDRycXdZcHdoVlVSUGJZV3Q2OE9Na1JhMTM4bVE?oc=5)
+
+---
+
 ### ["Elle avait sept grammes de sucre dans le sang" : les deux enfants de cette famille sont atteints de diabète de type 1 - France 3 Régions](https://news.google.com/rss/articles/CBMipwJBVV95cUxPYzVlSWI1RWFwcjk3MXpQbEVHRDI3NWhJR0xfVFNOTGNDZWVYeWtWMERYdGdiR2dYV2djQkg1QVQ4TEYyT2dOZnN0UEhHcGxSdHFFdm5mZ25INm1WemhLSEpnZHg4aS1GR2xrMlVPd0pWbjktN2J3T2dDSlZGRkg3OEU5Z2h2MXFHTUIyVFVDNnZMTVdoSGpfeGFUc3lqQnVSMzRuNkN3MWIzdTRwSHUyMG5aREdsbVk0a3M5X1IxNVpqd2N6RlFIeHVaUGhoNFpnazZDdU50NGxTR3o0aXJLaWVZQ3Q4bVZXOEJMYTg0WkJPYnRXVmVIb0JBN09mT2c0RV9FNzJDYmF5VzU5OXR0V002cUFneWRzYTRRT0J5dlRVcWJYUnNJ?oc=5)
 
 2026-11-14
@@ -960,6 +1000,14 @@ Source: [https://www.infocop.es/](https://news.google.com/rss/articles/CBMiugFBV
 2026-11-13
 
 Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFVWTjg3TXZzOU5xZkJjSWQ3c1NHeko3b09ia1Fxc19LcU00bHlxNTFYaGJ5LURtd3FiUkh0cFA4VjZuVTFackIwQ0V0bWtYMGhSOXloMXRRMGdjODFESl9tbVZ5X3ZiME9XbnQ0NmNSekdJaWdyZWJsRkYtM1ZlRVA2ZGpVRUd3THlRNlo4MmRWLWM2?oc=5)
+
+---
+
+### [Mehr Aufmerksamkeit für Diabetes, mehr Bewusstsein für Gürtelrose - Medical Tribune](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWU0zTW1TVXNSSENVVGFIUUFCSGFic1lzWjA0VVBkVEY0UUIzMS1CUFoxVEJ5VzJxSFdEZS1aSDAwN2x6Ym1CQzkwdnhVX0cyM3UtVHJ3bWNNQWo4b05mbjFYS3BEZUNDNmV3akpOaE9zOHNFZ3ZTSHpYYllMNmQ2cklTTVRqQmVrS1BPUzM1c3ZMcHZ1U1p0NUVldGpGakhITVBiUDZmREcxREl4aXF6SVhad2VEcUc2bnc?oc=5)
+
+2026-11-13
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWU0zTW1TVXNSSENVVGFIUUFCSGFic1lzWjA0VVBkVEY0UUIzMS1CUFoxVEJ5VzJxSFdEZS1aSDAwN2x6Ym1CQzkwdnhVX0cyM3UtVHJ3bWNNQWo4b05mbjFYS3BEZUNDNmV3akpOaE9zOHNFZ3ZTSHpYYllMNmQ2cklTTVRqQmVrS1BPUzM1c3ZMcHZ1U1p0NUVldGpGakhITVBiUDZmREcxREl4aXF6SVhad2VEcUc2bnc?oc=5)
 
 ---
 

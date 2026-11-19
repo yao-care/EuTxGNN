@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Elbasvir?">
-<strong>Elbasvir</strong> currently has <strong>23 news articles</strong>, with 10 predicted indications.
+<strong>Elbasvir</strong> currently has <strong>24 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Elbasvir with the latest hea
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (23)
+## Related News (24)
 
 ### [MS war lange Utopie: „Ich fühle mich wie ein Frosch in heißem Wasser“](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVXN3bHJlRkFRTnBHaW82UUdZajdGSlhjLXQtWGRwdW90c1VGT1lILTBOVVZrcFh0UE9NZlNodWN1alZRRTlpRGdlQkJMaENNcWtxOVl1cnYzQzJXSGdxbDVtS080OHoySmdzSkxCWE5qZXlKQjAtVHhMY3BZS0hGRmczaXZhZmxOT01mM3ctM2h1dWFXOHNHaVZ4T01HaGpjdEpSdVh0TDdyeW1adFFwVXZoOS1NcEN5S0ZUaWE5cHZtVnBZRnh2RW4yX09XbWNKZkZ0ZHRJLU1ac1Bo?oc=5)
 
@@ -65,6 +65,14 @@ Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/arti
 2026-11-18 <span class="news-indication-tag">multiple sclerosis</span>
 
 Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHFiSVdydzFkSkJvQnY3ZGFCdWhjbmloZUZULURqaHBNNE5seWYybmRGcFk4R1ljR3Q1X19aUFZpMEJXal94ZURmZXQwelBGN05kLWdPckJWYjEyQ1pyd1lsWThfSmRpV1huNGc1a2c0anNwbnpoMlY5MDdoNEFMWEF4dF9nc1JManhpUGZGem9GeWQyeUNRb3ZnLTdnck95V1FoOWJVMkZVUGxhVnBDT3d0c0FwOGF5ckVBWA?oc=5)
+
+---
+
+### [Experimental MS therapy reduces damage, helps repair myelin in mice - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1pBZzBPTVB6cDE2TXlxOEZvNUM3UUY0d3pVeVZPUE1UNEZiYW1EcUp3VUFLeHpscURmSjloZHRLa2pVaEkwdzlnZF9sZGdnWmd1WjZjLTlXaExob3RPR1NyV29LNDA3bTZ5TDVzS2lpWDlhZHNyNjhjT0FQVkNwMWQ1U0ptWUppYlQ5ZTd5VFd5Z3Y3eGh5WjBFRkR3TmFEc0tPT2pUNE9yQmpPUV9nclNjeFgyZw?oc=5)
+
+2026-11-17 <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1pBZzBPTVB6cDE2TXlxOEZvNUM3UUY0d3pVeVZPUE1UNEZiYW1EcUp3VUFLeHpscURmSjloZHRLa2pVaEkwdzlnZF9sZGdnWmd1WjZjLTlXaExob3RPR1NyV29LNDA3bTZ5TDVzS2lpWDlhZHNyNjhjT0FQVkNwMWQ1U0ptWUppYlQ5ZTd5VFd5Z3Y3eGh5WjBFRkR3TmFEc0tPT2pUNE9yQmpPUV9nclNjeFgyZw?oc=5)
 
 ---
 

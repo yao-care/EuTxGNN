@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Natalizumab?">
-<strong>Natalizumab</strong> currently has <strong>288 news articles</strong>, with 5 predicted indications.
+<strong>Natalizumab</strong> currently has <strong>296 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,53 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (288)
+## Related News (296)
+
+### [Monselice, medico introvabile e anziana diabetica con una sola dose di insulina: «Pazienti in lacrime» - Il Gazzettino](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX0pRVDc1YUJTdWNPUTNiNThZNDBhNk5YUjliLTZmMlJpREVLOFJndnJmRlgyZkxqMlZwTW53T1ZoWjkzQ0tFRGdPbERudldGY3dDeXpmSW5QMWFfR29qRDVCallsNllKUUtwaW0xaVdFbUZvVFh1OGQwQUhfclBZM1lsczFpZks0dXVSWUpWWFBIaGctWXFYb2VocGJrVTZ0ay1XaTE1OTl0YTRDbGRLeWtQcTBrZGFmaTlDSzYtcC16ekVJam9hVlEwYXR2aUkyejM40gHPAUFVX3lxTE5TeGZJOWpJbnNidGgxTHAyeXR2cUp1VkhPSFhUUmE0N1oxcHFhRHM2RDl0d0NtT1JpLUswd2E4TUcyUFVjcGs1UUhZUlhCTkViVXlEcTd0UWRtUDA0R0s3OENGRjdxOVRwcVBkNDg1ZTRjaWpBNWhYT1ZtekFkbGV2Njg4RUhNRjQyRTFMT3h2UVNDQ2NvMlFuR2h4MzBQWHVMbG1ESlpybk92dW1yWW50aWJGeHFObFBTOWhZeExWeXJMOWlab3d2QWtaQzl3Yw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">diabetic</span>
+
+Source: [Il Gazzettino](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX0pRVDc1YUJTdWNPUTNiNThZNDBhNk5YUjliLTZmMlJpREVLOFJndnJmRlgyZkxqMlZwTW53T1ZoWjkzQ0tFRGdPbERudldGY3dDeXpmSW5QMWFfR29qRDVCallsNllKUUtwaW0xaVdFbUZvVFh1OGQwQUhfclBZM1lsczFpZks0dXVSWUpWWFBIaGctWXFYb2VocGJrVTZ0ay1XaTE1OTl0YTRDbGRLeWtQcTBrZGFmaTlDSzYtcC16ekVJam9hVlEwYXR2aUkyejM40gHPAUFVX3lxTE5TeGZJOWpJbnNidGgxTHAyeXR2cUp1VkhPSFhUUmE0N1oxcHFhRHM2RDl0d0NtT1JpLUswd2E4TUcyUFVjcGs1UUhZUlhCTkViVXlEcTd0UWRtUDA0R0s3OENGRjdxOVRwcVBkNDg1ZTRjaWpBNWhYT1ZtekFkbGV2Njg4RUhNRjQyRTFMT3h2UVNDQ2NvMlFuR2h4MzBQWHVMbG1ESlpybk92dW1yWW50aWJGeHFObFBTOWhZeExWeXJMOWlab3d2QWtaQzl3Yw?oc=5)
+
+---
+
+### [La EPOC afecta al 12% de los españoles mayores de 40 años y sigue siendo una enfermedad infradiagnosticada. - Onda Cero](https://news.google.com/rss/articles/CBMiowJBVV95cUxQTERqYzFvcjF5WVcxTFZaSkxOTEp2dEJ6bXZXTks3eDVGVkJhUU15ZTFXaklSWmlYV19HWFV6MG8yc2FncnNHTU5Hb2hjSmtqLXFPMXZNYWRCdW9RalhGeDQxbF9lMW13STJtSXltUlh0Zk5xMzhjUXBGbjAtTUR6U2pUc2VUS0NFMUhBOC1naFh4RFBvQU9lU1E4S0htV21lV1JsUDlzNVdySFhOSFBtbzJXeThlTlJ5dkZmR040NkNvam9vZ3VsU2RLb3dCR1RQUUpFNFFIRi1fUHlhNFkwTE5SQS1hWFJ2Snp5aElueGpQdmRTUkFCcXRManJ3R0Z1ZjJhZllQaWpaalhzZktVRFBlVklfcHR6cXdkMHE2dllDV1k?oc=5)
+
+2026-11-19 <span class="news-indication-tag">EPOC</span>
+
+Source: [Onda Cero](https://news.google.com/rss/articles/CBMiowJBVV95cUxQTERqYzFvcjF5WVcxTFZaSkxOTEp2dEJ6bXZXTks3eDVGVkJhUU15ZTFXaklSWmlYV19HWFV6MG8yc2FncnNHTU5Hb2hjSmtqLXFPMXZNYWRCdW9RalhGeDQxbF9lMW13STJtSXltUlh0Zk5xMzhjUXBGbjAtTUR6U2pUc2VUS0NFMUhBOC1naFh4RFBvQU9lU1E4S0htV21lV1JsUDlzNVdySFhOSFBtbzJXeThlTlJ5dkZmR040NkNvam9vZ3VsU2RLb3dCR1RQUUpFNFFIRi1fUHlhNFkwTE5SQS1hWFJ2Snp5aElueGpQdmRTUkFCcXRManJ3R0Z1ZjJhZllQaWpaalhzZktVRFBlVklfcHR6cXdkMHE2dllDV1k?oc=5)
+
+---
+
+### [Aktualisierung der S3-Leitlinie: Neue Empfehlungen zur Behandlung von Schwangeren mit Gestationsdiabetes mellitus - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yWDVERXZ0MHNQNEdsNmpkcjBXLU5ESGZuSWxPNFRDUXFQZFFoYkJwSW9jQXRBaUF4aU92MW9VdzB6MjJUMHRzdTZSTQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">diabetes mellitus</span>
+
+Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yWDVERXZ0MHNQNEdsNmpkcjBXLU5ESGZuSWxPNFRDUXFQZFFoYkJwSW9jQXRBaUF4aU92MW9VdzB6MjJUMHRzdTZSTQ?oc=5)
+
+---
 
 ### [Colisée destaca la autonomía y la actividad física adaptada para frenar el deterioro de las personas con EPOC](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcVpQSXBhU3U2Q1dTM0EyNWN1VFhKSy12OHFYcWs1TlgtLTkxLUZ5em5mZVFoMGJacWN0VFVfSHlwSWlEdTZpUWNOM2N6SEx3OUZoMWRiT0ZtdElKcHBCSjVockFWVXpvQ0djQ2xUMzkxV3plWVd1TzVQV193cHhFVFRRMUt5ZEUxczkzTVF3UkJQdlh5R0xZSWRGdF94SEVMc2o2eHQzM2hHYndtSE0zZFJ1VXRoNXRKX3VHVVJuSklidWh5RWp5amZVWjZyM0gyeHFUZy1jMEE1WlgzcWpLbGdGdVBXbWJnTlJHQ3hlMXg?oc=5)
 
 2026-11-19 <span class="news-indication-tag">EPOC</span>
 
 Source: [Dependencia.Info](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcVpQSXBhU3U2Q1dTM0EyNWN1VFhKSy12OHFYcWs1TlgtLTkxLUZ5em5mZVFoMGJacWN0VFVfSHlwSWlEdTZpUWNOM2N6SEx3OUZoMWRiT0ZtdElKcHBCSjVockFWVXpvQ0djQ2xUMzkxV3plWVd1TzVQV193cHhFVFRRMUt5ZEUxczkzTVF3UkJQdlh5R0xZSWRGdF94SEVMc2o2eHQzM2hHYndtSE0zZFJ1VXRoNXRKX3VHVVJuSklidWh5RWp5amZVWjZyM0gyeHFUZy1jMEE1WlgzcWpLbGdGdVBXbWJnTlJHQ3hlMXg?oc=5)
+
+---
+
+### [Innovar para simplificar el manejo diario de la diabetes tipo 1](https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkhGTGVjd3dLQkZOanA1SGNTMzFxU2RyT2FTNHU0elIwVTkwbFJYbUYtcThNV3BYWTd2VXJLQVVfaUtrc1NhUHhUTk5GUExyTFBSTDNHS1lVc082MTk2eHRZZkpwZ3B1aXFITnpIX0Q0TkhTdVhJTzVvSVVPUWptTjV5NkpDYlRPV3lrdG1mdlFoSHZ4YUZj?oc=5)
+
+2026-11-18 <span class="news-indication-tag">diabetes</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkhGTGVjd3dLQkZOanA1SGNTMzFxU2RyT2FTNHU0elIwVTkwbFJYbUYtcThNV3BYWTd2VXJLQVVfaUtrc1NhUHhUTk5GUExyTFBSTDNHS1lVc082MTk2eHRZZkpwZ3B1aXFITnpIX0Q0TkhTdVhJTzVvSVVPUWptTjV5NkpDYlRPV3lrdG1mdlFoSHZ4YUZj?oc=5)
+
+---
+
+### [Los dentistas reclaman integrar la salud bucodental en el seguimiento de los diabéticos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYVJwYWNrRmxyakxxUGJKbmNYcnhUcE9heDJ3R01kWHd1ckFMdkd6TzE4MHVNVjYzTlVvdlYwVXF6UWdGS0pQdTRwMmY2SUhMajQ1N2owaHRpWEpFbmtlTHc5TlRKVDY2eXFtYl9CRUtYMHdkNzhZanBjd3F1Nk81d1JrdFJxNE1FLTQ0XzhwWlF0WTBPenNYckVmdUtwUDZHRnhJVno2ZU5PdmhUSVJVVmNIa0s3WVRJZFUxdDJkeVVZVHczb2xQd3o0UU1fY0lncjFBTXd1OUJSdw?oc=5)
+
+2026-11-18 <span class="news-indication-tag">diabetes</span>
+
+Source: [Infodiabético](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYVJwYWNrRmxyakxxUGJKbmNYcnhUcE9heDJ3R01kWHd1ckFMdkd6TzE4MHVNVjYzTlVvdlYwVXF6UWdGS0pQdTRwMmY2SUhMajQ1N2owaHRpWEpFbmtlTHc5TlRKVDY2eXFtYl9CRUtYMHdkNzhZanBjd3F1Nk81d1JrdFJxNE1FLTQ0XzhwWlF0WTBPenNYckVmdUtwUDZHRnhJVno2ZU5PdmhUSVJVVmNIa0s3WVRJZFUxdDJkeVVZVHczb2xQd3o0UU1fY0lncjFBTXd1OUJSdw?oc=5)
 
 ---
 
@@ -84,6 +124,14 @@ Source: [EntreMayores](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHRM
 2026-11-18 <span class="news-indication-tag">copd</span>
 
 Source: [Highland Radio](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEJqa1h1WVVFU3FMV0E2M2RkdnJ2SmZfU2tzRmhaZEpmQTdULUo1Y28wRHpURkM3dFEtX0ppd2JRWnpMMDlwNGRQWFlwZUd5MmctajFFMUE3VE9laFFVbGdnUVgtUGoxNExXN1lra01TQVlSNW9pS1doVjVxZnNabjlZQmVhQ3ZsMUxlQmJPbW5maVpsMmZIaWZUVGRLVEtJM29jV0NiTmNaR2xKVW40bXBpZU1NUzZ0Qkww?oc=5)
+
+---
+
+### [Giornata mondiale della BPCO: saturazione a 98 ma manca il fiato? Perché il pulsossimetro può non bastare](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRzA0MHREd0MwLTRTWm9WT2xQT29sc0pZYzdNdllkT21LX3dOQ1JNNlFPQnBYODhDamtadHh2ODl1S0ZnektvSVZOQmZyQzNvcEEwemVpMDg0NGtSb044UUtZTnE0MDRvT2had0cwNTl0QU5tVHZlUExlbm0zd181SWliUkxYQlA3MkNNdEJJRW1wU0RrYmxHWEJib0pmT2lWLWFCVE1senN1QzZUUTFBMVc4OW1UZ1JCUXlkWnZ2eGRLZTFrRXVtZzRvTzNyRXRTSldrRE5OZFFVa3JiYVVKeU9sMzlrTHN1M0E?oc=5)
+
+2026-11-18 <span class="news-indication-tag">BPCO</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRzA0MHREd0MwLTRTWm9WT2xQT29sc0pZYzdNdllkT21LX3dOQ1JNNlFPQnBYODhDamtadHh2ODl1S0ZnektvSVZOQmZyQzNvcEEwemVpMDg0NGtSb044UUtZTnE0MDRvT2had0cwNTl0QU5tVHZlUExlbm0zd181SWliUkxYQlA3MkNNdEJJRW1wU0RrYmxHWEJib0pmT2lWLWFCVE1senN1QzZUUTFBMVc4OW1UZ1JCUXlkWnZ2eGRLZTFrRXVtZzRvTzNyRXRTSldrRE5OZFFVa3JiYVVKeU9sMzlrTHN1M0E?oc=5)
 
 ---
 
@@ -257,7 +305,7 @@ Source: [TeleElx](https://news.google.com/rss/articles/CBMizwFBVV95cUxOUkJ0enRVM
 
 ### [Il richiamo dell'Ordine dei farmacisti sulla prescrizione del Mounjaro: quando un farmaco diventa prodotto di consumo - Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
 
-2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+2026-11-16 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
 
@@ -815,6 +863,14 @@ Source: [Futura, le média qui explore le monde](https://news.google.com/rss/art
 
 ---
 
+### [Diabetes-Ernährung ohne Verbotslisten: Das Tellerprinzip als Therapiebaustein - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2wwTGN2aXo5cUVEYldqeE5SRmxvcnY4T2VyQ0JPNmhleTA2REdqS21xSUpoX0Ewem5aVTFpVjc0UG5yMVV3eGdiNnJ6bzZCN3h3cEEwTWhpSjk3dzlvemdZbFluczhGZ18zRV9fV05SOVNudFJoZ3JzT0xtOUdzQ0ljYXdZcEJBcWpjZnpxWlZqZDRycXdZcHdoVlVSUGJZV3Q2OE9Na1JhMTM4bVE?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2wwTGN2aXo5cUVEYldqeE5SRmxvcnY4T2VyQ0JPNmhleTA2REdqS21xSUpoX0Ewem5aVTFpVjc0UG5yMVV3eGdiNnJ6bzZCN3h3cEEwTWhpSjk3dzlvemdZbFluczhGZ18zRV9fV05SOVNudFJoZ3JzT0xtOUdzQ0ljYXdZcEJBcWpjZnpxWlZqZDRycXdZcHdoVlVSUGJZV3Q2OE9Na1JhMTM4bVE?oc=5)
+
+---
+
 ### ["Elle avait sept grammes de sucre dans le sang" : les deux enfants de cette famille sont atteints de diabète de type 1 - France 3 Régions](https://news.google.com/rss/articles/CBMipwJBVV95cUxPYzVlSWI1RWFwcjk3MXpQbEVHRDI3NWhJR0xfVFNOTGNDZWVYeWtWMERYdGdiR2dYV2djQkg1QVQ4TEYyT2dOZnN0UEhHcGxSdHFFdm5mZ25INm1WemhLSEpnZHg4aS1GR2xrMlVPd0pWbjktN2J3T2dDSlZGRkg3OEU5Z2h2MXFHTUIyVFVDNnZMTVdoSGpfeGFUc3lqQnVSMzRuNkN3MWIzdTRwSHUyMG5aREdsbVk0a3M5X1IxNVpqd2N6RlFIeHVaUGhoNFpnazZDdU50NGxTR3o0aXJLaWVZQ3Q4bVZXOEJMYTg0WkJPYnRXVmVIb0JBN09mT2c0RV9FNzJDYmF5VzU5OXR0V002cUFneWRzYTRRT0J5dlRVcWJYUnNJ?oc=5)
 
 2026-11-14 <span class="news-indication-tag">diabète</span>
@@ -1020,6 +1076,14 @@ Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFVWTj
 2026-11-13 <span class="news-indication-tag">psoriasis</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxNUG1kaEVDN1VWeGtIQndDZEhJWEExWXhxWFJoa0VvZ0VMZmtDVGw2b0liaHhGZUdXMWFaOU5xdkUxaHozdTBhZkVNZ3htVHNUd2lJY2JETzh5bGxhQ0JDMXV3NUJzMXBacnZjRWZZaVFqa2t1Y3dLTUg1T2psUEFUcnlZUDBNZVpmNXFfWFhHX24yY1o2SkxwZW1mSzdVczQwelFBNGhFUEx5Mk96?oc=5)
+
+---
+
+### [Mehr Aufmerksamkeit für Diabetes, mehr Bewusstsein für Gürtelrose - Medical Tribune](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWU0zTW1TVXNSSENVVGFIUUFCSGFic1lzWjA0VVBkVEY0UUIzMS1CUFoxVEJ5VzJxSFdEZS1aSDAwN2x6Ym1CQzkwdnhVX0cyM3UtVHJ3bWNNQWo4b05mbjFYS3BEZUNDNmV3akpOaE9zOHNFZ3ZTSHpYYllMNmQ2cklTTVRqQmVrS1BPUzM1c3ZMcHZ1U1p0NUVldGpGakhITVBiUDZmREcxREl4aXF6SVhad2VEcUc2bnc?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWU0zTW1TVXNSSENVVGFIUUFCSGFic1lzWjA0VVBkVEY0UUIzMS1CUFoxVEJ5VzJxSFdEZS1aSDAwN2x6Ym1CQzkwdnhVX0cyM3UtVHJ3bWNNQWo4b05mbjFYS3BEZUNDNmV3akpOaE9zOHNFZ3ZTSHpYYllMNmQ2cklTTVRqQmVrS1BPUzM1c3ZMcHZ1U1p0NUVldGpGakhITVBiUDZmREcxREl4aXF6SVhad2VEcUc2bnc?oc=5)
 
 ---
 

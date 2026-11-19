@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Prilocaine?">
-<strong>Prilocaine</strong> currently has <strong>50 news articles</strong>, with 10 predicted indications.
+<strong>Prilocaine</strong> currently has <strong>53 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Prilocaine with the latest h
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (50)
+## Related News (53)
+
+### [La EPOC afecta al 12% de los españoles mayores de 40 años y sigue siendo una enfermedad infradiagnosticada. - Onda Cero](https://news.google.com/rss/articles/CBMiowJBVV95cUxQTERqYzFvcjF5WVcxTFZaSkxOTEp2dEJ6bXZXTks3eDVGVkJhUU15ZTFXaklSWmlYV19HWFV6MG8yc2FncnNHTU5Hb2hjSmtqLXFPMXZNYWRCdW9RalhGeDQxbF9lMW13STJtSXltUlh0Zk5xMzhjUXBGbjAtTUR6U2pUc2VUS0NFMUhBOC1naFh4RFBvQU9lU1E4S0htV21lV1JsUDlzNVdySFhOSFBtbzJXeThlTlJ5dkZmR040NkNvam9vZ3VsU2RLb3dCR1RQUUpFNFFIRi1fUHlhNFkwTE5SQS1hWFJ2Snp5aElueGpQdmRTUkFCcXRManJ3R0Z1ZjJhZllQaWpaalhzZktVRFBlVklfcHR6cXdkMHE2dllDV1k?oc=5)
+
+2026-11-19 <span class="news-indication-tag">EPOC</span>
+
+Source: [Onda Cero](https://news.google.com/rss/articles/CBMiowJBVV95cUxQTERqYzFvcjF5WVcxTFZaSkxOTEp2dEJ6bXZXTks3eDVGVkJhUU15ZTFXaklSWmlYV19HWFV6MG8yc2FncnNHTU5Hb2hjSmtqLXFPMXZNYWRCdW9RalhGeDQxbF9lMW13STJtSXltUlh0Zk5xMzhjUXBGbjAtTUR6U2pUc2VUS0NFMUhBOC1naFh4RFBvQU9lU1E4S0htV21lV1JsUDlzNVdySFhOSFBtbzJXeThlTlJ5dkZmR040NkNvam9vZ3VsU2RLb3dCR1RQUUpFNFFIRi1fUHlhNFkwTE5SQS1hWFJ2Snp5aElueGpQdmRTUkFCcXRManJ3R0Z1ZjJhZllQaWpaalhzZktVRFBlVklfcHR6cXdkMHE2dllDV1k?oc=5)
+
+---
 
 ### [Colisée destaca la autonomía y la actividad física adaptada para frenar el deterioro de las personas con EPOC](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcVpQSXBhU3U2Q1dTM0EyNWN1VFhKSy12OHFYcWs1TlgtLTkxLUZ5em5mZVFoMGJacWN0VFVfSHlwSWlEdTZpUWNOM2N6SEx3OUZoMWRiT0ZtdElKcHBCSjVockFWVXpvQ0djQ2xUMzkxV3plWVd1TzVQV193cHhFVFRRMUt5ZEUxczkzTVF3UkJQdlh5R0xZSWRGdF94SEVMc2o2eHQzM2hHYndtSE0zZFJ1VXRoNXRKX3VHVVJuSklidWh5RWp5amZVWjZyM0gyeHFUZy1jMEE1WlgzcWpLbGdGdVBXbWJnTlJHQ3hlMXg?oc=5)
 
@@ -54,7 +62,7 @@ Source: [Dependencia.Info](https://news.google.com/rss/articles/CBMi8AFBVV95cUxO
 
 ### [Suffering from migraines linked to an increased risk of deadly condition by the age of 60 - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
 
-2026-11-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
+2026-11-18 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
 
@@ -121,6 +129,22 @@ Source: [EntreMayores](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHRM
 2026-11-18 <span class="news-indication-tag">copd</span>
 
 Source: [Highland Radio](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEJqa1h1WVVFU3FMV0E2M2RkdnJ2SmZfU2tzRmhaZEpmQTdULUo1Y28wRHpURkM3dFEtX0ppd2JRWnpMMDlwNGRQWFlwZUd5MmctajFFMUE3VE9laFFVbGdnUVgtUGoxNExXN1lra01TQVlSNW9pS1doVjVxZnNabjlZQmVhQ3ZsMUxlQmJPbW5maVpsMmZIaWZUVGRLVEtJM29jV0NiTmNaR2xKVW40bXBpZU1NUzZ0Qkww?oc=5)
+
+---
+
+### [Giornata mondiale della BPCO: saturazione a 98 ma manca il fiato? Perché il pulsossimetro può non bastare](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRzA0MHREd0MwLTRTWm9WT2xQT29sc0pZYzdNdllkT21LX3dOQ1JNNlFPQnBYODhDamtadHh2ODl1S0ZnektvSVZOQmZyQzNvcEEwemVpMDg0NGtSb044UUtZTnE0MDRvT2had0cwNTl0QU5tVHZlUExlbm0zd181SWliUkxYQlA3MkNNdEJJRW1wU0RrYmxHWEJib0pmT2lWLWFCVE1senN1QzZUUTFBMVc4OW1UZ1JCUXlkWnZ2eGRLZTFrRXVtZzRvTzNyRXRTSldrRE5OZFFVa3JiYVVKeU9sMzlrTHN1M0E?oc=5)
+
+2026-11-18 <span class="news-indication-tag">BPCO</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRzA0MHREd0MwLTRTWm9WT2xQT29sc0pZYzdNdllkT21LX3dOQ1JNNlFPQnBYODhDamtadHh2ODl1S0ZnektvSVZOQmZyQzNvcEEwemVpMDg0NGtSb044UUtZTnE0MDRvT2had0cwNTl0QU5tVHZlUExlbm0zd181SWliUkxYQlA3MkNNdEJJRW1wU0RrYmxHWEJib0pmT2lWLWFCVE1senN1QzZUUTFBMVc4OW1UZ1JCUXlkWnZ2eGRLZTFrRXVtZzRvTzNyRXRTSldrRE5OZFFVa3JiYVVKeU9sMzlrTHN1M0E?oc=5)
+
+---
+
+### [Over 60, come mantenere attiva la mente: le abitudini amiche del cervello](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmo0bmJFMFZaWXBmYlFNakN2YnM0VEhLS0R5LUhCaGJibTVWMHNSaUhFc1ktaHVpelUwOHRNVmJBYTJ3U2VWbmQ4YmVwMDNkcjNHOUl2ZGFURmtWclA3OEFkQXJaUDJLYUFkWksxaUk5QTFjR01HbVhoQ3BWZ25FVk1MS084UkgtWDlqTVp0M3dMYXVSODh4d0w3amI5a0hhUHJVSk9fRW9BMVM3ZmZWbU5qVFFSMXpuaUhxSThoOA?oc=5)
+
+2026-11-18 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">depression</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmo0bmJFMFZaWXBmYlFNakN2YnM0VEhLS0R5LUhCaGJibTVWMHNSaUhFc1ktaHVpelUwOHRNVmJBYTJ3U2VWbmQ4YmVwMDNkcjNHOUl2ZGFURmtWclA3OEFkQXJaUDJLYUFkWksxaUk5QTFjR01HbVhoQ3BWZ25FVk1MS084UkgtWDlqTVp0M3dMYXVSODh4d0w3amI5a0hhUHJVSk9fRW9BMVM3ZmZWbU5qVFFSMXpuaUhxSThoOA?oc=5)
 
 ---
 

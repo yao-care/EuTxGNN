@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "asthme (asthma) News"
+title: "asma (asthma) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about asthme (asthma). 4 articles, 47 related drugs."
+description: "Health news about asma (asthma). 5 articles, 47 related drugs."
 permalink: /news/asthma/
 last_modified_at: 2026-11-19
 ---
 
-# asthme (asthma) News
+# asma (asthma) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about asthme (asthma)?">
-<strong>asthme (asthma)</strong> currently has <strong>4 news articles</strong> and 47 related drugs.
+<p class="key-answer" data-question="What news is there about asma (asthma)?">
+<strong>asma (asthma)</strong> currently has <strong>5 news articles</strong> and 47 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “asthme” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “asma” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -64,13 +64,21 @@ This page brings together the latest health news about “asthme” and lists th
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [Attention, les moisissures sur les murs sont dangereuses pour la santé - 20 Minutes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVQ3bnhFNGhqeGhObThwdHFuTWt3MXZUSk5Pc01zS05XemJ2cFNRUmI3dWUyQ3lKMExmTkVPcmxuRk5ydzFrVG0tWDc5dmpGT0Jkc3R4cDFWeTE5ZVZySEQ5Z19rY0Z5RzRvNXdZYk92clplRE1ocHV3Vml0eWNKZ1l3VGtidU1PTk9ZanNFcTZqb3FsWFpFclByTmM5RVFEdXc?oc=5)
 
 2026-11-18
 
 Source: [20 Minutes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVQ3bnhFNGhqeGhObThwdHFuTWt3MXZUSk5Pc01zS05XemJ2cFNRUmI3dWUyQ3lKMExmTkVPcmxuRk5ydzFrVG0tWDc5dmpGT0Jkc3R4cDFWeTE5ZVZySEQ5Z19rY0Z5RzRvNXdZYk92clplRE1ocHV3Vml0eWNKZ1l3VGtidU1PTk9ZanNFcTZqb3FsWFpFclByTmM5RVFEdXc?oc=5)
+
+---
+
+### [Over 60, come mantenere attiva la mente: le abitudini amiche del cervello](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmo0bmJFMFZaWXBmYlFNakN2YnM0VEhLS0R5LUhCaGJibTVWMHNSaUhFc1ktaHVpelUwOHRNVmJBYTJ3U2VWbmQ4YmVwMDNkcjNHOUl2ZGFURmtWclA3OEFkQXJaUDJLYUFkWksxaUk5QTFjR01HbVhoQ3BWZ25FVk1MS084UkgtWDlqTVp0M3dMYXVSODh4d0w3amI5a0hhUHJVSk9fRW9BMVM3ZmZWbU5qVFFSMXpuaUhxSThoOA?oc=5)
+
+2026-11-18
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmo0bmJFMFZaWXBmYlFNakN2YnM0VEhLS0R5LUhCaGJibTVWMHNSaUhFc1ktaHVpelUwOHRNVmJBYTJ3U2VWbmQ4YmVwMDNkcjNHOUl2ZGFURmtWclA3OEFkQXJaUDJLYUFkWksxaUk5QTFjR01HbVhoQ3BWZ25FVk1MS084UkgtWDlqTVp0M3dMYXVSODh4d0w3amI5a0hhUHJVSk9fRW9BMVM3ZmZWbU5qVFFSMXpuaUhxSThoOA?oc=5)
 
 ---
 

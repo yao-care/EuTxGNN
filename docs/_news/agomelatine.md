@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Agomelatine. 7 predicted indications."
 permalink: /news/agomelatine/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Agomelatine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>39 news articles</strong>, with 7 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>42 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,31 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (39)
+## Related News (42)
+
+### [Terni, l'appello di Simona: "Da quattro anni combatto contro una depressione severa. Ho bisogno di aiuto per tornare a vivere"](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTHBxUGk3X0NFMUptMUxtamM0cXBnT3VQbC1BQmhhbnNraEh5cnAwaUVfTXVMRjF0UFVSNW1lSm9LR0VjdGVnRmFYdlJySW5FeXV3TjhMaWM1MkNiRURMcXpLcTBVOU1JOF82TXAyQW0zeVdnUFJHaGRKMnNMRllqUnA4Vl9YQ3pSVTNuX2JyS2pNUVpsUU52d3ZuOWNLQWZLbXY2OEZ1WWloaTdwQWl2V0pnUnRoaVBaUTBqT1NkbmdKQVNRSlpaWWczbHVTRGFadGFCLS01VjFQdEc5Y3UyWkgyYjJfME1YNmxYWEZNcEd0N1Ix?oc=5)
+
+2026-11-19 <span class="news-indication-tag">depression</span>
+
+Source: [TerniToday](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTHBxUGk3X0NFMUptMUxtamM0cXBnT3VQbC1BQmhhbnNraEh5cnAwaUVfTXVMRjF0UFVSNW1lSm9LR0VjdGVnRmFYdlJySW5FeXV3TjhMaWM1MkNiRURMcXpLcTBVOU1JOF82TXAyQW0zeVdnUFJHaGRKMnNMRllqUnA4Vl9YQ3pSVTNuX2JyS2pNUVpsUU52d3ZuOWNLQWZLbXY2OEZ1WWloaTdwQWl2V0pnUnRoaVBaUTBqT1NkbmdKQVNRSlpaWWczbHVTRGFadGFCLS01VjFQdEc5Y3UyWkgyYjJfME1YNmxYWEZNcEd0N1Ix?oc=5)
+
+---
+
+### [People Who Don’t Get Sad When It Gets Dark At 5 PM Usually Have 6 Specific Habits](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWlg2X0pRdG5yUnpXZ3VTNzZKa0FiSnFIcWJYb0JyVkZKT0tnZ08xRlBiVWNscHU4TXB3TV9FV0cxTklkY2lhVjA4dDRQUm1FSU53X1puODRWOHQ3V1NfMDFfTXBRaUdzbUtld3RJTVVSVWFIT1NMT1ZJSEVQVVpBY1RFUlNiSF9y?oc=5)
+
+2026-11-18 <span class="news-indication-tag">depression</span>
+
+Source: [YourTango](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWlg2X0pRdG5yUnpXZ3VTNzZKa0FiSnFIcWJYb0JyVkZKT0tnZ08xRlBiVWNscHU4TXB3TV9FV0cxTklkY2lhVjA4dDRQUm1FSU53X1puODRWOHQ3V1NfMDFfTXBRaUdzbUtld3RJTVVSVWFIT1NMT1ZJSEVQVVpBY1RFUlNiSF9y?oc=5)
+
+---
+
+### [Over 60, come mantenere attiva la mente: le abitudini amiche del cervello](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmo0bmJFMFZaWXBmYlFNakN2YnM0VEhLS0R5LUhCaGJibTVWMHNSaUhFc1ktaHVpelUwOHRNVmJBYTJ3U2VWbmQ4YmVwMDNkcjNHOUl2ZGFURmtWclA3OEFkQXJaUDJLYUFkWksxaUk5QTFjR01HbVhoQ3BWZ25FVk1MS084UkgtWDlqTVp0M3dMYXVSODh4d0w3amI5a0hhUHJVSk9fRW9BMVM3ZmZWbU5qVFFSMXpuaUhxSThoOA?oc=5)
+
+2026-11-18 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">depression</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmo0bmJFMFZaWXBmYlFNakN2YnM0VEhLS0R5LUhCaGJibTVWMHNSaUhFc1ktaHVpelUwOHRNVmJBYTJ3U2VWbmQ4YmVwMDNkcjNHOUl2ZGFURmtWclA3OEFkQXJaUDJLYUFkWksxaUk5QTFjR01HbVhoQ3BWZ25FVk1MS084UkgtWDlqTVp0M3dMYXVSODh4d0w3amI5a0hhUHJVSk9fRW9BMVM3ZmZWbU5qVFFSMXpuaUhxSThoOA?oc=5)
+
+---
 
 ### [La dépression circadienne : en êtes-vous atteint ? - Madame Figaro](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUJGazBCZk9aSjNPWlk0dEJSNC1SRndsejlvR05RS09nX3lHX1N3RGJPb29CWVMwaXdmcy16enVBenphMWwwc040Q3hWeUlrSEhMOXUxRkkwWGNNUGhwWnVTUzltQ3ZSSnpjSnFQQm1BQVJ1Z19EbnF3VjN2dkVSbHRnaEJmSk1vNFg4NjhWYmQ5d0dWV29tWnBMWlV3a19FdUhKcXZsaHhvQQ?oc=5)
 

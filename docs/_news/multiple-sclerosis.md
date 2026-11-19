@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 15 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 16 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 last_modified_at: 2026-11-19
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>15 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>16 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -48,7 +48,7 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (15)
+## Related News (16)
 
 ### [MS war lange Utopie: „Ich fühle mich wie ein Frosch in heißem Wasser“](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVXN3bHJlRkFRTnBHaW82UUdZajdGSlhjLXQtWGRwdW90c1VGT1lILTBOVVZrcFh0UE9NZlNodWN1alZRRTlpRGdlQkJMaENNcWtxOVl1cnYzQzJXSGdxbDVtS080OHoySmdzSkxCWE5qZXlKQjAtVHhMY3BZS0hGRmczaXZhZmxOT01mM3ctM2h1dWFXOHNHaVZ4T01HaGpjdEpSdVh0TDdyeW1adFFwVXZoOS1NcEN5S0ZUaWE5cHZtVnBZRnh2RW4yX09XbWNKZkZ0ZHRJLU1ac1Bo?oc=5)
 
@@ -63,6 +63,14 @@ Source: [Come-on](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVXN3bHJlR
 2026-11-18
 
 Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHFiSVdydzFkSkJvQnY3ZGFCdWhjbmloZUZULURqaHBNNE5seWYybmRGcFk4R1ljR3Q1X19aUFZpMEJXal94ZURmZXQwelBGN05kLWdPckJWYjEyQ1pyd1lsWThfSmRpV1huNGc1a2c0anNwbnpoMlY5MDdoNEFMWEF4dF9nc1JManhpUGZGem9GeWQyeUNRb3ZnLTdnck95V1FoOWJVMkZVUGxhVnBDT3d0c0FwOGF5ckVBWA?oc=5)
+
+---
+
+### [Experimental MS therapy reduces damage, helps repair myelin in mice - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1pBZzBPTVB6cDE2TXlxOEZvNUM3UUY0d3pVeVZPUE1UNEZiYW1EcUp3VUFLeHpscURmSjloZHRLa2pVaEkwdzlnZF9sZGdnWmd1WjZjLTlXaExob3RPR1NyV29LNDA3bTZ5TDVzS2lpWDlhZHNyNjhjT0FQVkNwMWQ1U0ptWUppYlQ5ZTd5VFd5Z3Y3eGh5WjBFRkR3TmFEc0tPT2pUNE9yQmpPUV9nclNjeFgyZw?oc=5)
+
+2026-11-17
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1pBZzBPTVB6cDE2TXlxOEZvNUM3UUY0d3pVeVZPUE1UNEZiYW1EcUp3VUFLeHpscURmSjloZHRLa2pVaEkwdzlnZF9sZGdnWmd1WjZjLTlXaExob3RPR1NyV29LNDA3bTZ5TDVzS2lpWDlhZHNyNjhjT0FQVkNwMWQ1U0ptWUppYlQ5ZTd5VFd5Z3Y3eGh5WjBFRkR3TmFEc0tPT2pUNE9yQmpPUV9nclNjeFgyZw?oc=5)
 
 ---
 

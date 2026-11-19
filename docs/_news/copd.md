@@ -3,7 +3,7 @@ layout: default
 title: "EPOC (copd) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about EPOC (copd). 18 articles, 26 related drugs."
+description: "Health news about EPOC (copd). 20 articles, 26 related drugs."
 permalink: /news/copd/
 last_modified_at: 2026-11-19
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about EPOC (copd)?">
-<strong>EPOC (copd)</strong> currently has <strong>18 news articles</strong> and 26 related drugs.
+<strong>EPOC (copd)</strong> currently has <strong>20 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “EPOC” and lists the 
 </ul>
 </div>
 
-## Related News (18)
+## Related News (20)
+
+### [La EPOC afecta al 12% de los españoles mayores de 40 años y sigue siendo una enfermedad infradiagnosticada. - Onda Cero](https://news.google.com/rss/articles/CBMiowJBVV95cUxQTERqYzFvcjF5WVcxTFZaSkxOTEp2dEJ6bXZXTks3eDVGVkJhUU15ZTFXaklSWmlYV19HWFV6MG8yc2FncnNHTU5Hb2hjSmtqLXFPMXZNYWRCdW9RalhGeDQxbF9lMW13STJtSXltUlh0Zk5xMzhjUXBGbjAtTUR6U2pUc2VUS0NFMUhBOC1naFh4RFBvQU9lU1E4S0htV21lV1JsUDlzNVdySFhOSFBtbzJXeThlTlJ5dkZmR040NkNvam9vZ3VsU2RLb3dCR1RQUUpFNFFIRi1fUHlhNFkwTE5SQS1hWFJ2Snp5aElueGpQdmRTUkFCcXRManJ3R0Z1ZjJhZllQaWpaalhzZktVRFBlVklfcHR6cXdkMHE2dllDV1k?oc=5)
+
+2026-11-19
+
+Source: [Onda Cero](https://news.google.com/rss/articles/CBMiowJBVV95cUxQTERqYzFvcjF5WVcxTFZaSkxOTEp2dEJ6bXZXTks3eDVGVkJhUU15ZTFXaklSWmlYV19HWFV6MG8yc2FncnNHTU5Hb2hjSmtqLXFPMXZNYWRCdW9RalhGeDQxbF9lMW13STJtSXltUlh0Zk5xMzhjUXBGbjAtTUR6U2pUc2VUS0NFMUhBOC1naFh4RFBvQU9lU1E4S0htV21lV1JsUDlzNVdySFhOSFBtbzJXeThlTlJ5dkZmR040NkNvam9vZ3VsU2RLb3dCR1RQUUpFNFFIRi1fUHlhNFkwTE5SQS1hWFJ2Snp5aElueGpQdmRTUkFCcXRManJ3R0Z1ZjJhZllQaWpaalhzZktVRFBlVklfcHR6cXdkMHE2dllDV1k?oc=5)
+
+---
 
 ### [Colisée destaca la autonomía y la actividad física adaptada para frenar el deterioro de las personas con EPOC](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcVpQSXBhU3U2Q1dTM0EyNWN1VFhKSy12OHFYcWs1TlgtLTkxLUZ5em5mZVFoMGJacWN0VFVfSHlwSWlEdTZpUWNOM2N6SEx3OUZoMWRiT0ZtdElKcHBCSjVockFWVXpvQ0djQ2xUMzkxV3plWVd1TzVQV193cHhFVFRRMUt5ZEUxczkzTVF3UkJQdlh5R0xZSWRGdF94SEVMc2o2eHQzM2hHYndtSE0zZFJ1VXRoNXRKX3VHVVJuSklidWh5RWp5amZVWjZyM0gyeHFUZy1jMEE1WlgzcWpLbGdGdVBXbWJnTlJHQ3hlMXg?oc=5)
 
@@ -82,6 +90,14 @@ Source: [EntreMayores](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHRM
 2026-11-18
 
 Source: [Highland Radio](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEJqa1h1WVVFU3FMV0E2M2RkdnJ2SmZfU2tzRmhaZEpmQTdULUo1Y28wRHpURkM3dFEtX0ppd2JRWnpMMDlwNGRQWFlwZUd5MmctajFFMUE3VE9laFFVbGdnUVgtUGoxNExXN1lra01TQVlSNW9pS1doVjVxZnNabjlZQmVhQ3ZsMUxlQmJPbW5maVpsMmZIaWZUVGRLVEtJM29jV0NiTmNaR2xKVW40bXBpZU1NUzZ0Qkww?oc=5)
+
+---
+
+### [Giornata mondiale della BPCO: saturazione a 98 ma manca il fiato? Perché il pulsossimetro può non bastare](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRzA0MHREd0MwLTRTWm9WT2xQT29sc0pZYzdNdllkT21LX3dOQ1JNNlFPQnBYODhDamtadHh2ODl1S0ZnektvSVZOQmZyQzNvcEEwemVpMDg0NGtSb044UUtZTnE0MDRvT2had0cwNTl0QU5tVHZlUExlbm0zd181SWliUkxYQlA3MkNNdEJJRW1wU0RrYmxHWEJib0pmT2lWLWFCVE1senN1QzZUUTFBMVc4OW1UZ1JCUXlkWnZ2eGRLZTFrRXVtZzRvTzNyRXRTSldrRE5OZFFVa3JiYVVKeU9sMzlrTHN1M0E?oc=5)
+
+2026-11-18
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRzA0MHREd0MwLTRTWm9WT2xQT29sc0pZYzdNdllkT21LX3dOQ1JNNlFPQnBYODhDamtadHh2ODl1S0ZnektvSVZOQmZyQzNvcEEwemVpMDg0NGtSb044UUtZTnE0MDRvT2had0cwNTl0QU5tVHZlUExlbm0zd181SWliUkxYQlA3MkNNdEJJRW1wU0RrYmxHWEJib0pmT2lWLWFCVE1senN1QzZUUTFBMVc4OW1UZ1JCUXlkWnZ2eGRLZTFrRXVtZzRvTzNyRXRTSldrRE5OZFFVa3JiYVVKeU9sMzlrTHN1M0E?oc=5)
 
 ---
 

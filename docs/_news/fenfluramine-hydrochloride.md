@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Fenfluramine Hydrochloride?">
-<strong>Fenfluramine Hydrochloride</strong> currently has <strong>118 news articles</strong>, with 0 predicted indications.
+<strong>Fenfluramine Hydrochloride</strong> currently has <strong>120 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,23 @@ This page combines the AI-predicted indications for Fenfluramine Hydrochloride w
 <p><a href="{{ '/drugs/fenfluramine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (118)
+## Related News (120)
+
+### [El modelo carbohidrato-insulina plantea una nueva perspectiva sobre los mecanismos de la obesidad - El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVJLTVVhaVZkaU1WVmtFRnFOVy1qeHloZmtDbUZXMFhZZlkteWJnYkRNVTExUnlVNWt0dUh3VUhYU2lzSF9xNkZiTzJuTTAzNXpRVFVldDFQRHVUTHFtQWZ6ZEYzOVVpQXFnSlMxZjRua1JCZFJQblU5a2ZFRWt2eFVDejU3QnNnYktyM1hFYlVBcVlNZEp0WkdXWm12d2lUMkdaSkJlM3YtR1VPaXJxQk5qczdrWi00MERfVHVsSk40Q1ZVXzJkRzZR?oc=5)
+
+2026-11-19 <span class="news-indication-tag">obesidad</span>
+
+Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVJLTVVhaVZkaU1WVmtFRnFOVy1qeHloZmtDbUZXMFhZZlkteWJnYkRNVTExUnlVNWt0dUh3VUhYU2lzSF9xNkZiTzJuTTAzNXpRVFVldDFQRHVUTHFtQWZ6ZEYzOVVpQXFnSlMxZjRua1JCZFJQblU5a2ZFRWt2eFVDejU3QnNnYktyM1hFYlVBcVlNZEp0WkdXWm12d2lUMkdaSkJlM3YtR1VPaXJxQk5qczdrWi00MERfVHVsSk40Q1ZVXzJkRzZR?oc=5)
+
+---
+
+### [La obesidad tiene memoria y el hígado conversa con la grasa: así es el diálogo entre órganos que condiciona el peso - La Voz de Galicia](https://news.google.com/rss/articles/CBMijAJBVV95cUxQQjNhck9Nb1ZBbHNmTXhibW1WaWFOT01EeDd2aW9KaFIzdTZDV1JsNzI1VjJEMHVlZEExVzlDbDVkbEhZbnZsZGF2WkNHcWxzSk9wVm82ZFowQUp6b3ZBMnlSMnd3LTNnYXZaeG52bE1JaXBabUlJZ3VNUm52NkR3MzkwaXJ3X0dkNGQ1SWxCRHZJT3BoMHZYYmRFbVloWW1LM1dBcWRSNGNjdjJ2QlRqLXc2bkpyT0NwanRPd0VoenRISmJ3R2FPek5EcFVWVHJLakVYTXVVT01ZTkNBU0J5a3NwS3kzV1UtV216VmVYRlY3MFJXRjRQMGZ3Vmg4dzRDNUdsTGV2cVpKM0Yz0gGSAkFVX3lxTE5NOUtYNjRQS2s4X3JuTGdEV0M3aklZUUNZSG1yMy1pWFRCeTBFNDVrOWhxME5KS3ZFNWJpSVBzanRyekFXYnRySll4MjRBblR0X3kyZlRrd1hEWGdSa0xmSlVoZ0NyQi1uVkNUV2NwSmVzb216WnZwN0g5OU1EYk1FTk16dHNUVUtvQUE3OWFMMVByaVJBZ2xKRlZwUkhfNnZjaHptT29rRDVvUEx4SF83VWhjVEdhZHZCdkVhTVFnYWJVU3hiUVRiVksyRHZyVGRxQjV0dXhycllSb0YtNjhob1BDSnBjRVNMQlVtSWg1b0xCeUEybm00Wkh0Unh6a1BNaV9SMmp6dW1DTWd2Zm43Ymc?oc=5)
+
+2026-11-19 <span class="news-indication-tag">obesidad</span>
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMijAJBVV95cUxQQjNhck9Nb1ZBbHNmTXhibW1WaWFOT01EeDd2aW9KaFIzdTZDV1JsNzI1VjJEMHVlZEExVzlDbDVkbEhZbnZsZGF2WkNHcWxzSk9wVm82ZFowQUp6b3ZBMnlSMnd3LTNnYXZaeG52bE1JaXBabUlJZ3VNUm52NkR3MzkwaXJ3X0dkNGQ1SWxCRHZJT3BoMHZYYmRFbVloWW1LM1dBcWRSNGNjdjJ2QlRqLXc2bkpyT0NwanRPd0VoenRISmJ3R2FPek5EcFVWVHJLakVYTXVVT01ZTkNBU0J5a3NwS3kzV1UtV216VmVYRlY3MFJXRjRQMGZ3Vmg4dzRDNUdsTGV2cVpKM0Yz0gGSAkFVX3lxTE5NOUtYNjRQS2s4X3JuTGdEV0M3aklZUUNZSG1yMy1pWFRCeTBFNDVrOWhxME5KS3ZFNWJpSVBzanRyekFXYnRySll4MjRBblR0X3kyZlRrd1hEWGdSa0xmSlVoZ0NyQi1uVkNUV2NwSmVzb216WnZwN0g5OU1EYk1FTk16dHNUVUtvQUE3OWFMMVByaVJBZ2xKRlZwUkhfNnZjaHptT29rRDVvUEx4SF83VWhjVEdhZHZCdkVhTVFnYWJVU3hiUVRiVksyRHZyVGRxQjV0dXhycllSb0YtNjhob1BDSnBjRVNMQlVtSWg1b0xCeUEybm00Wkh0Unh6a1BNaV9SMmp6dW1DTWd2Zm43Ymc?oc=5)
+
+---
 
 ### [Desvelan cómo las células del cerebro intervienen en el control del apetito y la obesidad](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzd1SVRHUXZUY3MxN29mQXNRb21Fem04bTBjTzJMS1RjNTZENW11RC1hN0J1UXMwRG1GVVFnblNwQjZxbUFsNjB2eU42eVNHSTJ2Qi1ocWVscFZESmw0SVJraGluQkZURm5uTFFsYWtERG5iTHI4STNzemdyNHpwcThBNGFuSS1lZkJNQ3oyRXYweHlsWE5TYV8tUWkwUXRWbXB6d2ZTRHU3UzRsOE9ySGFISQ?oc=5)
 
@@ -105,7 +121,7 @@ Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkgw
 
 ### [Il richiamo dell'Ordine dei farmacisti sulla prescrizione del Mounjaro: quando un farmaco diventa prodotto di consumo - Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
 
-2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+2026-11-16 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
 

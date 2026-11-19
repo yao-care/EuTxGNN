@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Olanzapine. 2 predicted indications."
 permalink: /news/olanzapine/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Olanzapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>57 news articles</strong>, with 2 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>60 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,23 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (57)
+## Related News (60)
+
+### [Terni, l'appello di Simona: "Da quattro anni combatto contro una depressione severa. Ho bisogno di aiuto per tornare a vivere"](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTHBxUGk3X0NFMUptMUxtamM0cXBnT3VQbC1BQmhhbnNraEh5cnAwaUVfTXVMRjF0UFVSNW1lSm9LR0VjdGVnRmFYdlJySW5FeXV3TjhMaWM1MkNiRURMcXpLcTBVOU1JOF82TXAyQW0zeVdnUFJHaGRKMnNMRllqUnA4Vl9YQ3pSVTNuX2JyS2pNUVpsUU52d3ZuOWNLQWZLbXY2OEZ1WWloaTdwQWl2V0pnUnRoaVBaUTBqT1NkbmdKQVNRSlpaWWczbHVTRGFadGFCLS01VjFQdEc5Y3UyWkgyYjJfME1YNmxYWEZNcEd0N1Ix?oc=5)
+
+2026-11-19 <span class="news-indication-tag">depression</span>
+
+Source: [TerniToday](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTHBxUGk3X0NFMUptMUxtamM0cXBnT3VQbC1BQmhhbnNraEh5cnAwaUVfTXVMRjF0UFVSNW1lSm9LR0VjdGVnRmFYdlJySW5FeXV3TjhMaWM1MkNiRURMcXpLcTBVOU1JOF82TXAyQW0zeVdnUFJHaGRKMnNMRllqUnA4Vl9YQ3pSVTNuX2JyS2pNUVpsUU52d3ZuOWNLQWZLbXY2OEZ1WWloaTdwQWl2V0pnUnRoaVBaUTBqT1NkbmdKQVNRSlpaWWczbHVTRGFadGFCLS01VjFQdEc5Y3UyWkgyYjJfME1YNmxYWEZNcEd0N1Ix?oc=5)
+
+---
+
+### [People Who Don’t Get Sad When It Gets Dark At 5 PM Usually Have 6 Specific Habits](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWlg2X0pRdG5yUnpXZ3VTNzZKa0FiSnFIcWJYb0JyVkZKT0tnZ08xRlBiVWNscHU4TXB3TV9FV0cxTklkY2lhVjA4dDRQUm1FSU53X1puODRWOHQ3V1NfMDFfTXBRaUdzbUtld3RJTVVSVWFIT1NMT1ZJSEVQVVpBY1RFUlNiSF9y?oc=5)
+
+2026-11-18 <span class="news-indication-tag">depression</span>
+
+Source: [YourTango](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWlg2X0pRdG5yUnpXZ3VTNzZKa0FiSnFIcWJYb0JyVkZKT0tnZ08xRlBiVWNscHU4TXB3TV9FV0cxTklkY2lhVjA4dDRQUm1FSU53X1puODRWOHQ3V1NfMDFfTXBRaUdzbUtld3RJTVVSVWFIT1NMT1ZJSEVQVVpBY1RFUlNiSF9y?oc=5)
+
+---
 
 ### [GLP-1-Therapien: Metaanalyse findet weniger Vorhofflimmern](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcE03VURHR0RUazgzeTRCZGhGT19nRG54d0dYb0hVWk5DWklXMFJzWHJFUnIwbTNXOVBGclB6eFYxMThWUVV5VVhWOEFZckRzc2VsTEhzYTNnS2ZRaEtuU2FVbnVIVkItc0t1RTc3czJObnhzV3M2ci1lTHVieFk1T2MxblNsd1ltNDQtbjlZd19mcFV2SlhlZTBR?oc=5)
 
@@ -49,6 +65,14 @@ Source: [food-monitor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcE03
 2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
+
+---
+
+### [Over 60, come mantenere attiva la mente: le abitudini amiche del cervello](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmo0bmJFMFZaWXBmYlFNakN2YnM0VEhLS0R5LUhCaGJibTVWMHNSaUhFc1ktaHVpelUwOHRNVmJBYTJ3U2VWbmQ4YmVwMDNkcjNHOUl2ZGFURmtWclA3OEFkQXJaUDJLYUFkWksxaUk5QTFjR01HbVhoQ3BWZ25FVk1MS084UkgtWDlqTVp0M3dMYXVSODh4d0w3amI5a0hhUHJVSk9fRW9BMVM3ZmZWbU5qVFFSMXpuaUhxSThoOA?oc=5)
+
+2026-11-18 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">depression</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmo0bmJFMFZaWXBmYlFNakN2YnM0VEhLS0R5LUhCaGJibTVWMHNSaUhFc1ktaHVpelUwOHRNVmJBYTJ3U2VWbmQ4YmVwMDNkcjNHOUl2ZGFURmtWclA3OEFkQXJaUDJLYUFkWksxaUk5QTFjR01HbVhoQ3BWZ25FVk1MS084UkgtWDlqTVp0M3dMYXVSODh4d0w3amI5a0hhUHJVSk9fRW9BMVM3ZmZWbU5qVFFSMXpuaUhxSThoOA?oc=5)
 
 ---
 

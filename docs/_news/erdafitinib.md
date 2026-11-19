@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Erdafitinib?">
-<strong>Erdafitinib</strong> currently has <strong>92 news articles</strong>, with 6 predicted indications.
+<strong>Erdafitinib</strong> currently has <strong>94 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,29 @@ This page combines the AI-predicted indications for Erdafitinib with the latest 
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (92)
+## Related News (94)
+
+### [Heart surgeon names early sign on front of your leg that your heart is in trouble - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
+
+2026-11-19 <span class="news-indication-tag">heart failure</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
+
+---
 
 ### [38-jähriger Mann nach Hirnblutung in kritischem Zustand: Eine warnende Geschichte über eine Krankheit, die viele junge Menschen für selbstverständlich halten.](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
 
 2026-11-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
+
+---
+
+### ['Heightmaxxing': la moda de TikTok que empuja a adolescentes a tomar un fármaco contra el cáncer para crecer - Cadena SER](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVEZ3a2Vfc2duRDk2VmxQZHhfLWJ4WGs5ZlRwQ3ZHdWZpRENTMU5qQ01wbW1vNXBJZDNxS0pTNjhaa3FjTjZYWlZ5VEpyRWhlYm02bzNNTi12ZVJqeEZ2SzhBLThVWVp1cVlZb2lHWkY1MXk3MVF6WkdGaVA5bjNFZzdxcUgtVjEybkdRXy0yYTFWTEtndmRrV21fR2JLdTREZmNEaE05OEZQMEl3WjNQbkJYVlY3SlpFbmlNZktFMDJTd3R1eWU4blMxQV96VllQWlp0ejIweWlUR1E5M295OWhHLS1IaUhtR0VFT096MELSAYQCQVVfeXFMTlpKOElZVFJUUU5qcnY3ZDc5NEZFczlhSk1ES0ZTV0ZIelhiYXFZd0JZLTVCTEkzTnBic04tVjluT0FyOFpFd0ZWU2NEYkl3dXJsOUVqbXpIZWFITHYxaENPRXNTRlNYZkg1cERZazdWX0Z1Zlp2aEFzWVRIaFJzRG9tb2Y5dzJ6Ymd0bC1vQ2xPa1pPX2RTXzlIQUtyeWRoam5IX2lXSzFrOUZjX1d2VWFyaWZtbGdWdnIxWHMtSVNWTXZNdlNFaHZkR1NRVTVEQnVhQUFNMDRZZTd5U1JJQlZwYUpNWGFCVlZnM04zeGFONGJubjR2cW9JZjZwcl9leUVraXM?oc=5)
+
+2026-11-18 <span class="news-drug-tag">Erdafitinib</span>
+
+Source: [Cadena SER](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVEZ3a2Vfc2duRDk2VmxQZHhfLWJ4WGs5ZlRwQ3ZHdWZpRENTMU5qQ01wbW1vNXBJZDNxS0pTNjhaa3FjTjZYWlZ5VEpyRWhlYm02bzNNTi12ZVJqeEZ2SzhBLThVWVp1cVlZb2lHWkY1MXk3MVF6WkdGaVA5bjNFZzdxcUgtVjEybkdRXy0yYTFWTEtndmRrV21fR2JLdTREZmNEaE05OEZQMEl3WjNQbkJYVlY3SlpFbmlNZktFMDJTd3R1eWU4blMxQV96VllQWlp0ejIweWlUR1E5M295OWhHLS1IaUhtR0VFT096MELSAYQCQVVfeXFMTlpKOElZVFJUUU5qcnY3ZDc5NEZFczlhSk1ES0ZTV0ZIelhiYXFZd0JZLTVCTEkzTnBic04tVjluT0FyOFpFd0ZWU2NEYkl3dXJsOUVqbXpIZWFITHYxaENPRXNTRlNYZkg1cERZazdWX0Z1Zlp2aEFzWVRIaFJzRG9tb2Y5dzJ6Ymd0bC1vQ2xPa1pPX2RTXzlIQUtyeWRoam5IX2lXSzFrOUZjX1d2VWFyaWZtbGdWdnIxWHMtSVNWTXZNdlNFaHZkR1NRVTVEQnVhQUFNMDRZZTd5U1JJQlZwYUpNWGFCVlZnM04zeGFONGJubjR2cW9JZjZwcl9leUVraXM?oc=5)
 
 ---
 

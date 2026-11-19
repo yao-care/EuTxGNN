@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 112 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 114 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-19
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>112 news articles</strong> and 11 related drugs.
+<strong>Schlaganfall (stroke)</strong> currently has <strong>114 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (112)
+## Related News (114)
 
 ### [38-jähriger Mann nach Hirnblutung in kritischem Zustand: Eine warnende Geschichte über eine Krankheit, die viele junge Menschen für selbstverständlich halten.](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
 
@@ -103,6 +103,14 @@ Source: [Univadis](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlp
 
 ---
 
+### [Colesterolo fuori controllo tra gli italiani, strategia per risparmiare vite e 3,7 mld di spesa - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMlJVZEh6elFhMjZaZ0FQSXltT3hNZU1ma0FjZ0dBT1hFYmIyV3BZQ1JNUTB5S0owbmg2UmhtbzVtMEZMZ2FwTmV6dGNVZjEtZnp6QndaMEUwd3NtNkdCWmdTWEQyQWV2MENrU2Z5akVzYmNVVGt4QzkzV3NHNTBGdEVrNDB5UThPM1VISlRnN1dGck9GZGZqZC0zOUNVaEE5VnhiZVk2eXZQNTFFM2N5WDJjY1NGbVR6Qlc3ZG1KTEg?oc=5)
+
+2026-11-17
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMlJVZEh6elFhMjZaZ0FQSXltT3hNZU1ma0FjZ0dBT1hFYmIyV3BZQ1JNUTB5S0owbmg2UmhtbzVtMEZMZ2FwTmV6dGNVZjEtZnp6QndaMEUwd3NtNkdCWmdTWEQyQWV2MENrU2Z5akVzYmNVVGt4QzkzV3NHNTBGdEVrNDB5UThPM1VISlRnN1dGck9GZGZqZC0zOUNVaEE5VnhiZVk2eXZQNTFFM2N5WDJjY1NGbVR6Qlc3ZG1KTEg?oc=5)
+
+---
+
 ### [Perché l’ictus colpisce sempre di più persone con meno di 50 anni](https://news.google.com/rss/articles/CBMigAFBVV95cUxNUThaYlZlRzB3b01nU1FLVTBnemZoVWFVdnR4UktoeC14Vl83YmtCSWxhMFNyUzFKdHcyV2dWSkhtcjhCdERPdjNIZTdUSTBvQWJyT1hiUlBpR0xmSWlqTmtvWWJqdmlKX1lVZWgtS1dYaFBWSTVOWGdNTzZtRzNMYg?oc=5)
 
 2026-11-16
@@ -148,6 +156,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEdKVHgw
 2026-11-15
 
 Source: [Demócrata](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdVlDelM4TXhDaUFudjJfMUFpUTZGMl9LTEs4WGF0ZUVGaXptRFhZQXNrNVA4QUVlY1o1WTA1a21TZGh6XzB2WjM3WTNsVUNJOVpzR0xFSW5FNjkzQVVEWWE1Sk0xRjhsRW4ta094MTFSbVJWZUFudUp2WkVsTGRmNVRZU045WGhWZWx3dGpMMURqR0s2c25fQ3BxV0lNb1k1Tm5WRDBEQVBlLUdpM1A2V3VkVm5uR0lzRjl1YXJ5Z0kxM2tCMXZkUU9nRzlKUdIB0wFBVV95cUxQNkxrSFlzOTNrZUppYThscURaMjFyUG03MkFRTWdCbmFrUW5aVlJKSTBxRDZ5MHBnb0pxa21KaFRmSldxQjJvRWhmbW52R2VUVEJEamxDV1V5aEdKdmRWeVFiNUZuMXdjX3l4WF80bEZKWURTUk52QjZGenYySDgzaml1TXo5MEw2N2doWDJ0aDk2OHZjb01GLTREVFhLQlY3eVpoZXdMU0xScHhzUENBcTRxYlpaS3NSVkhJTUVPYkkzWGtnSE9PSktfaGU4dkNJR2dj?oc=5)
+
+---
+
+### [Perché l’ictus è in aumento tra i cinquantenni - la Repubblica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEl2SU9CLTY2WldKOGRXR1Uza0RBZ3VjakFnZUR5X3ZPMGpvVVlBaUgxcjkzSEtkbVBGU1A4UWtVOS1XTWd1N094aDNHQmo1NU9OYVI0R2IzTFBEbnkyeml1cU9FRVhveTRxU1NJdmtINVVqQnVMcWZQU3lEQ2k4c0lyZEpvVjg2MDBjcHBkcG4tTXU4dThEb0pmeV9GTnNMdEQwN25pMG5vemNyc1VDYUlQVlREZmVyYlFrV0NtSnZqWGpMcFpDT3dpZGtWOE1I?oc=5)
+
+2026-11-15
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEl2SU9CLTY2WldKOGRXR1Uza0RBZ3VjakFnZUR5X3ZPMGpvVVlBaUgxcjkzSEtkbVBGU1A4UWtVOS1XTWd1N094aDNHQmo1NU9OYVI0R2IzTFBEbnkyeml1cU9FRVhveTRxU1NJdmtINVVqQnVMcWZQU3lEQ2k4c0lyZEpvVjg2MDBjcHBkcG4tTXU4dThEb0pmeV9GTnNMdEQwN25pMG5vemNyc1VDYUlQVlREZmVyYlFrV0NtSnZqWGpMcFpDT3dpZGtWOE1I?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Belatacept?">
-<strong>Belatacept</strong> currently has <strong>390 news articles</strong>, with 0 predicted indications.
+<strong>Belatacept</strong> currently has <strong>400 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,69 @@ This page combines the AI-predicted indications for Belatacept with the latest h
 <p><a href="{{ '/drugs/belatacept/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (390)
+## Related News (400)
+
+### [Cáncer de cuello uterino: el tumor que la medicina ya sabe cómo prevenir - Nueva Alcarria.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMkNtNW52SXh5a0FVbWJZWXRPQ1BwMG1weEdsLUpwS0hmLXJpTEYwWWM2SUVmYkx1WXRXS2xXV2RkbUZzX3c4WGtyY2tOWEJ0WnhiQ2hYczBEY2VmZkxBbHFYYjZvbFhvc0ZUTnlmNE9ndUVMYWFlYVBQT1h5elJqbnVlZ0pFWHFzaDZ2c2xWUmNhVEVMeXJYWVJ5RFNobW1SaFFtTm1ZT3UtZXM?oc=5)
+
+2026-11-19 <span class="news-indication-tag">tumor</span>
+
+Source: [Nueva Alcarria.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMkNtNW52SXh5a0FVbWJZWXRPQ1BwMG1weEdsLUpwS0hmLXJpTEYwWWM2SUVmYkx1WXRXS2xXV2RkbUZzX3c4WGtyY2tOWEJ0WnhiQ2hYczBEY2VmZkxBbHFYYjZvbFhvc0ZUTnlmNE9ndUVMYWFlYVBQT1h5elJqbnVlZ0pFWHFzaDZ2c2xWUmNhVEVMeXJYWVJ5RFNobW1SaFFtTm1ZT3UtZXM?oc=5)
+
+---
+
+### [Prevenzione, 247 milioni per evitare di ammalarsi. Ma la vera sfida è dimostrare che funzionano](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaHdHRzhiTXNSQU51dzhuandjS0p6TldNOXFTZnJubmR6d25nbC1EdDBCUENkY0lPc1EzWFp5UlpVcWFMckNFaFZjYjN4aUE5aDJid216RUlETFFvZHlvMHhsQjZTenJ4ZlUtSjUtTW5MY3N5dHh1SmtrbDdzZDZwcjdOWTRPSTBuLUpkckJQSVlXRG1rUFlMOExuaE1rb29DbTJmOTNLcVRSRC1vVFE5Vmt0LXNYQmo1V2RoczhmX1BwcDk5bDNsbmI4WTY5UTFXX1d4ek80cUhoWHNK?oc=5)
+
+2026-11-19 <span class="news-indication-tag">tumor</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaHdHRzhiTXNSQU51dzhuandjS0p6TldNOXFTZnJubmR6d25nbC1EdDBCUENkY0lPc1EzWFp5UlpVcWFMckNFaFZjYjN4aUE5aDJid216RUlETFFvZHlvMHhsQjZTenJ4ZlUtSjUtTW5MY3N5dHh1SmtrbDdzZDZwcjdOWTRPSTBuLUpkckJQSVlXRG1rUFlMOExuaE1rb29DbTJmOTNLcVRSRC1vVFE5Vmt0LXNYQmo1V2RoczhmX1BwcDk5bDNsbmI4WTY5UTFXX1d4ek80cUhoWHNK?oc=5)
+
+---
+
+### [LANDESDIENST SAARLAND: Saarland will Krebsregisterdaten mit Kassendaten verknüpfen - +++ derNewsticker.de](https://news.google.com/rss/articles/CBMiWkFVX3lxTE12MnZEYWFPU01IQnhXTlR2d05xQ1htUlJYT04zalNDdFhVSjFNQzMxRWxrYjhkZjNsbko2NnRRTEVHZVhLdGIxM18yVEwteVFaMktNR1NxZFFsZw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Krebs</span>
+
+Source: [+++ derNewsticker.de](https://news.google.com/rss/articles/CBMiWkFVX3lxTE12MnZEYWFPU01IQnhXTlR2d05xQ1htUlJYT04zalNDdFhVSjFNQzMxRWxrYjhkZjNsbko2NnRRTEVHZVhLdGIxM18yVEwteVFaMktNR1NxZFFsZw?oc=5)
+
+---
+
+### [Krebs neu denken: Wie Forschung und Prävention Hoffnung machen - Ruhr Nachrichten](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkwtSEpfdlBZTm05TjFxT0ZYc25aMG1oMUoxYWo5SG1kU21kbW1CampkTjdDZlZabG9yMGthUlptTmRkZV9kYWYzNjV3WEFaWDEzWXFqRkdhNFlYZHczR25RSll5WUl6dzNVV0FuMkZvcThEZ3ZnWE1XdUdyLTlkZVl6dVBuTW9JeXp5RmxYdDNpcWhEMHk3Qk0tRTdHbk9wdHJYM04yQUt0N3ZBUi01Ulhrbk9qTnc?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Krebs</span>
+
+Source: [Ruhr Nachrichten](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkwtSEpfdlBZTm05TjFxT0ZYc25aMG1oMUoxYWo5SG1kU21kbW1CampkTjdDZlZabG9yMGthUlptTmRkZV9kYWYzNjV3WEFaWDEzWXFqRkdhNFlYZHczR25RSll5WUl6dzNVV0FuMkZvcThEZ3ZnWE1XdUdyLTlkZVl6dVBuTW9JeXp5RmxYdDNpcWhEMHk3Qk0tRTdHbk9wdHJYM04yQUt0N3ZBUi01Ulhrbk9qTnc?oc=5)
+
+---
+
+### [Heart surgeon names early sign on front of your leg that your heart is in trouble - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
+
+2026-11-19 <span class="news-indication-tag">heart failure</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
+
+---
+
+### [Tumore del pancreas, cosa sta succedendo con il nuovo farmaco daraxonrasib: l'appello di Jessica Scarpa e le parole del marito di Paola Marella. «Disastro e ingiustizia sociale» - Corriere della Sera](https://news.google.com/rss/articles/CBMiywJBVV95cUxOZUhwV1dqYXIzZk92ZGV4aHBBdTc5ejVIX3BreUhEM0FFWjhqRmhlcWJFZHU1M2tDRG5xdE4wc0ZrSGY2dFg0YXpENEVZODg4c0JQUldORy1MZkxkeVg0dG9zeGFEUS1wZlpyTDRlVWM4NkpGSnlkZ2wxbmpHd0tlLXZrQ0RFZU1nYm1iYmp2cGxLZXhZSFI0elFZQUx4NjJYQTBFUHdJM0EtQkFvWU1JbWQzelNvOWJHQU1VRTBETWFzME92YzUtUHdoa1p5U1VTM01fTm5rU29FWkx3ZlctWHk3QnhfRk9md2FrOHFhQWxoRDF5NnRtLVhLQ1JTd2RIZnZBR09HU1UzanBhQzd0b1VpUnBPNzlhdWhUUzMySnJEWlh3TThiQlJzc0tPNlgwQkd4MzhOWFNiSUpaTExoMzdWRGRPTGVpazdV0gHQAkFVX3lxTE9ublpYd1h0aVNDcUs3Yno2Z0NKLTZOWTFKeDlfb3ZPMHI5cm5vbmdQZUZqVFZaQWhvOUE2YTVMUlhOdzNpTkdhV1k5bEVJZkNzdGs3ekg4aUhCYVgyR1I2UFpXOFkwZkxza0hsUzF6c0labFFBQU14SURiZjNBN1I1cUlWakdMX09EdldYSnVEMWdYUDA3Z3NrNm51UF9oZkJlbUtxRkctRTd1TUdEM2Njbm55NldZSnlZOVdYQ2owNU1WVHJRNWFaTWhUel9BS3BSSW41N2E5MmhfRkVfVks2UEdKcUxmOWRKOUZWclg1UEpDMUFKbE80MlhHbWZRUWtGaW1IU2dETl9oOFlEanlEUUFhNFBmM2tiZUV6X0dzVWdFaVJqWTR6VWZONFB2Q1FLZElKOXFBcG42ajBuRE9tMFVPSktIeEdPT2ZsM0ZqQQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">tumor</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiywJBVV95cUxOZUhwV1dqYXIzZk92ZGV4aHBBdTc5ejVIX3BreUhEM0FFWjhqRmhlcWJFZHU1M2tDRG5xdE4wc0ZrSGY2dFg0YXpENEVZODg4c0JQUldORy1MZkxkeVg0dG9zeGFEUS1wZlpyTDRlVWM4NkpGSnlkZ2wxbmpHd0tlLXZrQ0RFZU1nYm1iYmp2cGxLZXhZSFI0elFZQUx4NjJYQTBFUHdJM0EtQkFvWU1JbWQzelNvOWJHQU1VRTBETWFzME92YzUtUHdoa1p5U1VTM01fTm5rU29FWkx3ZlctWHk3QnhfRk9md2FrOHFhQWxoRDF5NnRtLVhLQ1JTd2RIZnZBR09HU1UzanBhQzd0b1VpUnBPNzlhdWhUUzMySnJEWlh3TThiQlJzc0tPNlgwQkd4MzhOWFNiSUpaTExoMzdWRGRPTGVpazdV0gHQAkFVX3lxTE9ublpYd1h0aVNDcUs3Yno2Z0NKLTZOWTFKeDlfb3ZPMHI5cm5vbmdQZUZqVFZaQWhvOUE2YTVMUlhOdzNpTkdhV1k5bEVJZkNzdGs3ekg4aUhCYVgyR1I2UFpXOFkwZkxza0hsUzF6c0labFFBQU14SURiZjNBN1I1cUlWakdMX09EdldYSnVEMWdYUDA3Z3NrNm51UF9oZkJlbUtxRkctRTd1TUdEM2Njbm55NldZSnlZOVdYQ2owNU1WVHJRNWFaTWhUel9BS3BSSW41N2E5MmhfRkVfVks2UEdKcUxmOWRKOUZWclg1UEpDMUFKbE80MlhHbWZRUWtGaW1IU2dETl9oOFlEanlEUUFhNFBmM2tiZUV6X0dzVWdFaVJqWTR6VWZONFB2Q1FLZElKOXFBcG42ajBuRE9tMFVPSktIeEdPT2ZsM0ZqQQ?oc=5)
+
+---
 
 ### [MS war lange Utopie: „Ich fühle mich wie ein Frosch in heißem Wasser“](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVXN3bHJlRkFRTnBHaW82UUdZajdGSlhjLXQtWGRwdW90c1VGT1lILTBOVVZrcFh0UE9NZlNodWN1alZRRTlpRGdlQkJMaENNcWtxOVl1cnYzQzJXSGdxbDVtS080OHoySmdzSkxCWE5qZXlKQjAtVHhMY3BZS0hGRmczaXZhZmxOT01mM3ctM2h1dWFXOHNHaVZ4T01HaGpjdEpSdVh0TDdyeW1adFFwVXZoOS1NcEN5S0ZUaWE5cHZtVnBZRnh2RW4yX09XbWNKZkZ0ZHRJLU1ac1Bo?oc=5)
 
 2026-11-19 <span class="news-indication-tag">MS</span>
 
 Source: [Come-on](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVXN3bHJlRkFRTnBHaW82UUdZajdGSlhjLXQtWGRwdW90c1VGT1lILTBOVVZrcFh0UE9NZlNodWN1alZRRTlpRGdlQkJMaENNcWtxOVl1cnYzQzJXSGdxbDVtS080OHoySmdzSkxCWE5qZXlKQjAtVHhMY3BZS0hGRmczaXZhZmxOT01mM3ctM2h1dWFXOHNHaVZ4T01HaGpjdEpSdVh0TDdyeW1adFFwVXZoOS1NcEN5S0ZUaWE5cHZtVnBZRnh2RW4yX09XbWNKZkZ0ZHRJLU1ac1Bo?oc=5)
+
+---
+
+### [Tumore al pancreas, quei piccoli cambiamenti del corpo che vale la pena conoscere senza allarmarsi](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ2V1SXBlaVJBZUVoMTBvZ1FhVXAxWHB0OTVYSmlIN1VUaGtoV0gyeUZiMS1WZW5GQTJzSHZNal9XZjBGYmRfVTI0S3VaNE5LS3NOUDlnb2xhY2xqaDRuR0NrLWpVWGlISmVEZGpuSFZPMlpqNDVkZng1ODNJb2FOWEMzMVpPUEJpV2YtMmFiZjYwYnF0bGVMUldHeFo4WnRQY1VQWlJCMEJQS1F3M1dBMFlGTGk2Y1hQSlk3bnU1Tjl2V2cwcndCanM2bFo2bTZwVC1hd1gxdmV1UDNRTGN5OTBR?oc=5)
+
+2026-11-19 <span class="news-indication-tag">tumor</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ2V1SXBlaVJBZUVoMTBvZ1FhVXAxWHB0OTVYSmlIN1VUaGtoV0gyeUZiMS1WZW5GQTJzSHZNal9XZjBGYmRfVTI0S3VaNE5LS3NOUDlnb2xhY2xqaDRuR0NrLWpVWGlISmVEZGpuSFZPMlpqNDVkZng1ODNJb2FOWEMzMVpPUEJpV2YtMmFiZjYwYnF0bGVMUldHeFo4WnRQY1VQWlJCMEJQS1F3M1dBMFlGTGk2Y1hQSlk3bnU1Tjl2V2cwcndCanM2bFo2bTZwVC1hd1gxdmV1UDNRTGN5OTBR?oc=5)
 
 ---
 
@@ -176,6 +232,14 @@ Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVU8x
 
 ---
 
+### [Over 60, come mantenere attiva la mente: le abitudini amiche del cervello](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmo0bmJFMFZaWXBmYlFNakN2YnM0VEhLS0R5LUhCaGJibTVWMHNSaUhFc1ktaHVpelUwOHRNVmJBYTJ3U2VWbmQ4YmVwMDNkcjNHOUl2ZGFURmtWclA3OEFkQXJaUDJLYUFkWksxaUk5QTFjR01HbVhoQ3BWZ25FVk1MS084UkgtWDlqTVp0M3dMYXVSODh4d0w3amI5a0hhUHJVSk9fRW9BMVM3ZmZWbU5qVFFSMXpuaUhxSThoOA?oc=5)
+
+2026-11-18 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">depression</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmo0bmJFMFZaWXBmYlFNakN2YnM0VEhLS0R5LUhCaGJibTVWMHNSaUhFc1ktaHVpelUwOHRNVmJBYTJ3U2VWbmQ4YmVwMDNkcjNHOUl2ZGFURmtWclA3OEFkQXJaUDJLYUFkWksxaUk5QTFjR01HbVhoQ3BWZ25FVk1MS084UkgtWDlqTVp0M3dMYXVSODh4d0w3amI5a0hhUHJVSk9fRW9BMVM3ZmZWbU5qVFFSMXpuaUhxSThoOA?oc=5)
+
+---
+
 ### [Daily supplement may help ease MS fatigue, small trial suggests - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHFiSVdydzFkSkJvQnY3ZGFCdWhjbmloZUZULURqaHBNNE5seWYybmRGcFk4R1ljR3Q1X19aUFZpMEJXal94ZURmZXQwelBGN05kLWdPckJWYjEyQ1pyd1lsWThfSmRpV1huNGc1a2c0anNwbnpoMlY5MDdoNEFMWEF4dF9nc1JManhpUGZGem9GeWQyeUNRb3ZnLTdnck95V1FoOWJVMkZVUGxhVnBDT3d0c0FwOGF5ckVBWA?oc=5)
 
 2026-11-18 <span class="news-indication-tag">multiple sclerosis</span>
@@ -269,6 +333,14 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxNem
 2026-11-17 <span class="news-indication-tag">tumor</span>
 
 Source: [Onda Cero](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWjNMVWpZOHgxN2dKWXZEQnFITFlVM1dyZkJwR3B2c0pwd0NTQlhGVUlOb2Npb0Y1a2N1c0VtQ2Z1bGZlQlhoQVBfNVh0UHk2c1lJdlBBMWtRRXZQWWFfRml6OHBWdnJJZTBSMm1XV0hva043d2Q1R2lRT21sYjFJbFpwTmVZMUVJU0tIY1dfMFJ3b0diOU9IdGFiVXI2U2dxOWpDc3NIaFhMeHhyQ2VHVWdXd1pvQUUyZHdzb1hUekxOamRaejBZM1dzNk8zM0pXdzE3c1VHeE0wOThOazJHM1Nwd0FuR1nSAecBQVVfeXFMUDJQTXIzekd2dER2QUFSejAxbVU0TmhfdHJTb2lHQkZtczZLNnp0d0NUSjFVaVFtWkJmeFNiRkJJdmRxXzFibjRlcUhqTkl5a0hLbVo0U0UxZFphNlZsd3YyeV90dGJGdFVaaF9ueW05bVBPQmYxd2pCQk8zTEFJTlJpUEN4SVlVVHVzSFZicVg3Wk9Wa1hMMER5RXJBd0IwWVB0U0I5OHM3TTBFMnVkXzJwcl9rRUFWeVpXbzVYSkk4ZTF1bnlDWGxqa1BxODFtWXhFcFFxZU52bTItdmpTTjJDYzVUdmQw?oc=5)
+
+---
+
+### [Experimental MS therapy reduces damage, helps repair myelin in mice - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1pBZzBPTVB6cDE2TXlxOEZvNUM3UUY0d3pVeVZPUE1UNEZiYW1EcUp3VUFLeHpscURmSjloZHRLa2pVaEkwdzlnZF9sZGdnWmd1WjZjLTlXaExob3RPR1NyV29LNDA3bTZ5TDVzS2lpWDlhZHNyNjhjT0FQVkNwMWQ1U0ptWUppYlQ5ZTd5VFd5Z3Y3eGh5WjBFRkR3TmFEc0tPT2pUNE9yQmpPUV9nclNjeFgyZw?oc=5)
+
+2026-11-17 <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1pBZzBPTVB6cDE2TXlxOEZvNUM3UUY0d3pVeVZPUE1UNEZiYW1EcUp3VUFLeHpscURmSjloZHRLa2pVaEkwdzlnZF9sZGdnWmd1WjZjLTlXaExob3RPR1NyV29LNDA3bTZ5TDVzS2lpWDlhZHNyNjhjT0FQVkNwMWQ1U0ptWUppYlQ5ZTd5VFd5Z3Y3eGh5WjBFRkR3TmFEc0tPT2pUNE9yQmpPUV9nclNjeFgyZw?oc=5)
 
 ---
 
@@ -389,6 +461,14 @@ Source: [Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXd
 2026-11-16 <span class="news-indication-tag">cancro</span>
 
 Source: [Lecco Notizie](https://news.google.com/rss/articles/CBMizgFBVV95cUxOV2lhc3E4T1pQc2kxbzFLWno5LTh5U0RDTlVfbGM2MldBcmxCRmZrSUxJT1hjZWxFZ1JGQzFqcFl3MmhkQ1EyLVVicmFOVXA0TzVIeTFiMEVCN3VIM0I1V0M1M2ppQUhMRXZNdUNjU3h0OXltVEdGdFF1UlhmSXBLYk9FWUJPNlF0ckh1MkozSmZtTFctUEV6SHJWTjVRUlNaSUl5ZjhhT0xRc2ZzOWhoVG0zd3ZwQkNxLTdBWHpjN29wRHVrZVpoSGxtS1pOQQ?oc=5)
+
+---
+
+### [Ipertrofia prostatica benigna: la terapia che riduce i sintomi in pochi minuti - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMijgJBVV95cUxPdXg0ZVlPU24xbHZXU1VWb05jVlF2TmVFNC1UeENUNEpNYzhqN2drU2RSTHlBcnprbGFqM3VjVGxJd2VFLVZ6X2RrLXltdWk2X1BiazNJY2VyMU9WOVlseFF1c0RwdVpMbHBoZV9wMS1sM3hpaVJ6QTJJdkxVMTdtQkpnZ0xscnRndVRLNVlqYmg5YkFSVUlRZkxDUlBaZVp0X0cyNU9DLWo2a2NwUnM3dm9ySDk2aVJXblduZDNValFnczJDTUI0b2tTMml4b1Y5ZXAyMkJSYjYwbGNrSTBVVVU2V0p4TjBxSlVXaFFJV3ZkZEVHRDViMklnUlA4M0MtQzhFbXZFWTdmTHI1SHfSAcYBQVVfeXFMTllTWERENG41cWp5WUEtNkZ0SkYyNjR5bkM2VnJyMk1lbkozZkhvdVJRX3JuZnYtZFI4al8wYmJoaHVQcFJlTDFCV3F4QXYtM1NPTkdUU2EyYTA3MGc5elBhMTBINHFPZnZoUGRocWpZb2cyTmxwc3IybDQ4WXFxMWxzYmdVOXMzMmFhcHVhdjlEeFAxcllSeEdaSlRESWgyQWJuYWxJRVBraWtwZ1BIVGM0Wk0weW50N0dyX3dGclhMbkVBczlB?oc=5)
+
+2026-11-16 <span class="news-indication-tag">tumor</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMijgJBVV95cUxPdXg0ZVlPU24xbHZXU1VWb05jVlF2TmVFNC1UeENUNEpNYzhqN2drU2RSTHlBcnprbGFqM3VjVGxJd2VFLVZ6X2RrLXltdWk2X1BiazNJY2VyMU9WOVlseFF1c0RwdVpMbHBoZV9wMS1sM3hpaVJ6QTJJdkxVMTdtQkpnZ0xscnRndVRLNVlqYmg5YkFSVUlRZkxDUlBaZVp0X0cyNU9DLWo2a2NwUnM3dm9ySDk2aVJXblduZDNValFnczJDTUI0b2tTMml4b1Y5ZXAyMkJSYjYwbGNrSTBVVVU2V0p4TjBxSlVXaFFJV3ZkZEVHRDViMklnUlA4M0MtQzhFbXZFWTdmTHI1SHfSAcYBQVVfeXFMTllTWERENG41cWp5WUEtNkZ0SkYyNjR5bkM2VnJyMk1lbkozZkhvdVJRX3JuZnYtZFI4al8wYmJoaHVQcFJlTDFCV3F4QXYtM1NPTkdUU2EyYTA3MGc5elBhMTBINHFPZnZoUGRocWpZb2cyTmxwc3IybDQ4WXFxMWxzYmdVOXMzMmFhcHVhdjlEeFAxcllSeEdaSlRESWgyQWJuYWxJRVBraWtwZ1BIVGM0Wk0weW50N0dyX3dGclhMbkVBczlB?oc=5)
 
 ---
 
