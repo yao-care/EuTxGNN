@@ -3,9 +3,9 @@ layout: default
 title: "Morbus Crohn (crohn disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Morbus Crohn (crohn disease). 6 articles, 1 related drugs."
+description: "Health news about Morbus Crohn (crohn disease). 7 articles, 1 related drugs."
 permalink: /news/crohn-disease/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-19
 ---
 
 # Morbus Crohn (crohn disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Morbus Crohn (crohn disease)?">
-<strong>Morbus Crohn (crohn disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<strong>Morbus Crohn (crohn disease)</strong> currently has <strong>7 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “Morbus Crohn” and li
 </ul>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Expertenstimme: neue Daten zur endoskopischen Remission beim Morbus Crohn – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcmFidlZla0poanVDTTZ5a19OLTFfS2dWX0daeEp1VU52b3lxYzNScTNnMS13a0hTLUZLbXFldklzQzZYcWQ2TmVSNkNuSmtOMURHaWFNWUJTYkFxb0RaV0R3ZjNYYXExcEpnVmd3WXFIYXM0V2pRbXNYRjZmMFQwS1hkYU42NFdPSnVHeU9QdWw5YnVlOFBwZDBvM3NaSk9xZEFDd0d1TUJkRVg0dmdMZEYxaU90czdiMGlyQlpNWjVXaVpzUnJyUXl4MVhzRnJVdllLNzBkUnVBb2xxSG9yWW5Cejd3N1BvcEJzRVNNbkc1NU0?oc=5)
+
+2026-11-19
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcmFidlZla0poanVDTTZ5a19OLTFfS2dWX0daeEp1VU52b3lxYzNScTNnMS13a0hTLUZLbXFldklzQzZYcWQ2TmVSNkNuSmtOMURHaWFNWUJTYkFxb0RaV0R3ZjNYYXExcEpnVmd3WXFIYXM0V2pRbXNYRjZmMFQwS1hkYU42NFdPSnVHeU9QdWw5YnVlOFBwZDBvM3NaSk9xZEFDd0d1TUJkRVg0dmdMZEYxaU90czdiMGlyQlpNWjVXaVpzUnJyUXl4MVhzRnJVdllLNzBkUnVBb2xxSG9yWW5Cejd3N1BvcEJzRVNNbkc1NU0?oc=5)
+
+---
 
 ### [Morbus Crohn: Ernährung zur Remissionsinduktion - Medical Tribune](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ015UXZUUnVWaUR1bEMyN0wwLUp4N0pXUTJrNm5GaVRLT1FsYnNiZ2lYT3NqWmlvbkh0UTJ3WHh3a3VJeGxJVVdrN3ZHRm5fWTFMSnRiUFNZdDNjQW5heTFHLU1qeXRNOXlIT3RRTDRkTWNnRk9UdkRieVVNUmJ6LV9aUTZHdFg4VDFnSFR4NGVOWGxlYm9IMFVrTTViTGo5YmxmTGw1ZXhJQ1E?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Cenobamate. 0 predicted indications."
 permalink: /news/cenobamate/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-19
 ---
 
 # Cenobamate News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Cenobamate?">
-<strong>Cenobamate</strong> currently has <strong>5 news articles</strong>, with 0 predicted indications.
+<strong>Cenobamate</strong> currently has <strong>6 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Cenobamate with the latest h
 <p><a href="{{ '/drugs/cenobamate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Reunión Anual SEN: El análisis de los ritmos cerebrales mejora la comprensión de las epilepsias complejas y raras - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTVUcFBBeFNaQlVFZ0kzU1ROekJvQnowSW54aXJZNkRGcUhkbUVvZnNfNTFIZVBpeFBJMlNHUVAzYl9wcHk2dnBnWDkySUczV2JqX1MyRFFLd2N6YndlaEpTNnEtXzdoWDR5NlFRMzFjNXRNeDBBU3lFWGlxOE11alZqUVJ1TUJNVk4zRFJCa2p3Vk01OHBKeFQ5NzZzVTNWbFlBaVBjZkJkYUtBeUIyNEZiSlNfTUlYb29PS9IBtwFBVV95cUxPb0VQdWtnTTRWYlhzUlNVdWZJRzNHbF9tSjZ4MnNRZkJ6bm5kdlpsekFJNE9iZkpBd3JrVTFHQjFDMUpsdXE1Y3ZiczRlZUtRcjJsdzl4TDcwUFlBZHJ0Nkx4T0llazhSWE1PQjZEZE9DRzV4Yi1PWmlhaVlla0NKN0N6LTZLTzR1UUdLUFczWXVNSGNLZTFDZ1I4VnNhSzlGcmU1M01oclpwU2Zjd0ZDSkhOYjBOclk?oc=5)
+
+2026-11-19 <span class="news-indication-tag">epilepsia</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTVUcFBBeFNaQlVFZ0kzU1ROekJvQnowSW54aXJZNkRGcUhkbUVvZnNfNTFIZVBpeFBJMlNHUVAzYl9wcHk2dnBnWDkySUczV2JqX1MyRFFLd2N6YndlaEpTNnEtXzdoWDR5NlFRMzFjNXRNeDBBU3lFWGlxOE11alZqUVJ1TUJNVk4zRFJCa2p3Vk01OHBKeFQ5NzZzVTNWbFlBaVBjZkJkYUtBeUIyNEZiSlNfTUlYb29PS9IBtwFBVV95cUxPb0VQdWtnTTRWYlhzUlNVdWZJRzNHbF9tSjZ4MnNRZkJ6bm5kdlpsekFJNE9iZkpBd3JrVTFHQjFDMUpsdXE1Y3ZiczRlZUtRcjJsdzl4TDcwUFlBZHJ0Nkx4T0llazhSWE1PQjZEZE9DRzV4Yi1PWmlhaVlla0NKN0N6LTZLTzR1UUdLUFczWXVNSGNLZTFDZ1I4VnNhSzlGcmU1M01oclpwU2Zjd0ZDSkhOYjBOclk?oc=5)
+
+---
 
 ### [Inyectar un virus en el cerebro para frenar los ataques de epilepsia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRy1HVzNhWmFoU1Q3dWFkYWdxZ0VaRUMtTjRIUWpHcnN0VUN2Q3YyOFVYeE9WZk00enJFRm9JNE1hR0hyZ1hfMUFUS0xwQ2I5N1dKM3hZWS1ydUZPenM0RGZRRUNPUTNKbkRYWWg2dnJEN0JnYW9rbzVVaGYyMExjZTJ1YllTckJHRkhQQ3d1UW50T3pCc1NRS2Zkc1M?oc=5)
 

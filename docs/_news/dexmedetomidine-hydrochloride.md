@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Dexmedetomidine Hydrochloride?">
-<strong>Dexmedetomidine Hydrochloride</strong> currently has <strong>65 news articles</strong>, with 0 predicted indications.
+<strong>Dexmedetomidine Hydrochloride</strong> currently has <strong>66 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Dexmedetomidine Hydrochlorid
 <p><a href="{{ '/drugs/dexmedetomidine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (65)
+## Related News (66)
+
+### [Vaccino antinfluenzale riduce gli infarti: appello dei cardiologi - Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
+
+2026-11-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
+
+---
 
 ### [38-jähriger Mann nach Hirnblutung in kritischem Zustand: Eine warnende Geschichte über eine Krankheit, die viele junge Menschen für selbstverständlich halten.](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
 
@@ -41,7 +49,7 @@ Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTU
 
 ### [Suffering from migraines linked to an increased risk of deadly condition by the age of 60 - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
 
-2026-11-18 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">stroke</span>
+2026-11-18 <span class="news-indication-tag">migraine</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
 

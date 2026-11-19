@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "asma (asthma) News"
+title: "asthme (asthma) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about asma (asthma). 5 articles, 47 related drugs."
+description: "Health news about asthme (asthma). 5 articles, 47 related drugs."
 permalink: /news/asthma/
 last_modified_at: 2026-11-19
 ---
 
-# asma (asthma) News
+# asthme (asthma) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about asma (asthma)?">
-<strong>asma (asthma)</strong> currently has <strong>5 news articles</strong> and 47 related drugs.
+<p class="key-answer" data-question="What news is there about asthme (asthma)?">
+<strong>asthme (asthma)</strong> currently has <strong>5 news articles</strong> and 47 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “asma” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “asthme” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
