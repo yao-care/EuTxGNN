@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>131 news articles</strong>, with 0 predicted indications.
+<strong>Melatonin</strong> currently has <strong>134 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,39 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (131)
+## Related News (134)
+
+### [GESUNDHEITSRUNDSCHAU - GLP-1-Medikamente verbessern Herzfunktion bei Patienten mit Adipositas und Herzinsuffizienz - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZmgtckgyaVE3aHJhUW1zc3pneG1PZ01NQkJncm9ZRWhFNnhlY3RYd29pRDlFcWpmVXJkekVodzV3NEJFbktWRWhIWm54ZjY2am5OVFNhUHhadThTVzZQSHBKM1JkQXZXSDdMRnZfX0gySDgwSE5UWmJvQS1vZjZwVkp2bjdIOEJiS1RnME9VdzJBQW1rdUZYTlBDMV9FWmd2N3V6X2R1amZSQWVkbjdxamM0NlhSS3JzYWMxcFNmTnM2VWZQUl9ZYzMyRGYzeVEwOC1HSTRyQ1dtYzQwRGpZYjQtbVEtaV9NT0Fub2NmV1hrdEw2ZG1r?oc=5)
+
+2026-11-20 <span class="news-indication-tag">Adipositas</span>
+
+Source: [MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZmgtckgyaVE3aHJhUW1zc3pneG1PZ01NQkJncm9ZRWhFNnhlY3RYd29pRDlFcWpmVXJkekVodzV3NEJFbktWRWhIWm54ZjY2am5OVFNhUHhadThTVzZQSHBKM1JkQXZXSDdMRnZfX0gySDgwSE5UWmJvQS1vZjZwVkp2bjdIOEJiS1RnME9VdzJBQW1rdUZYTlBDMV9FWmd2N3V6X2R1amZSQWVkbjdxamM0NlhSS3JzYWMxcFNmTnM2VWZQUl9ZYzMyRGYzeVEwOC1HSTRyQ1dtYzQwRGpZYjQtbVEtaV9NT0Fub2NmV1hrdEw2ZG1r?oc=5)
+
+---
+
+### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+
+2026-11-20 <span class="news-indication-tag">Adipositas</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+
+---
+
+### [La obesidad tiene memoria y el hígado conversa con la grasa: así es el diálogo entre órganos que condiciona el peso - La Voz de Galicia](https://news.google.com/rss/articles/CBMijAJBVV95cUxQQjNhck9Nb1ZBbHNmTXhibW1WaWFOT01EeDd2aW9KaFIzdTZDV1JsNzI1VjJEMHVlZEExVzlDbDVkbEhZbnZsZGF2WkNHcWxzSk9wVm82ZFowQUp6b3ZBMnlSMnd3LTNnYXZaeG52bE1JaXBabUlJZ3VNUm52NkR3MzkwaXJ3X0dkNGQ1SWxCRHZJT3BoMHZYYmRFbVloWW1LM1dBcWRSNGNjdjJ2QlRqLXc2bkpyT0NwanRPd0VoenRISmJ3R2FPek5EcFVWVHJLakVYTXVVT01ZTkNBU0J5a3NwS3kzV1UtV216VmVYRlY3MFJXRjRQMGZ3Vmg4dzRDNUdsTGV2cVpKM0Yz0gGSAkFVX3lxTE5NOUtYNjRQS2s4X3JuTGdEV0M3aklZUUNZSG1yMy1pWFRCeTBFNDVrOWhxME5KS3ZFNWJpSVBzanRyekFXYnRySll4MjRBblR0X3kyZlRrd1hEWGdSa0xmSlVoZ0NyQi1uVkNUV2NwSmVzb216WnZwN0g5OU1EYk1FTk16dHNUVUtvQUE3OWFMMVByaVJBZ2xKRlZwUkhfNnZjaHptT29rRDVvUEx4SF83VWhjVEdhZHZCdkVhTVFnYWJVU3hiUVRiVksyRHZyVGRxQjV0dXhycllSb0YtNjhob1BDSnBjRVNMQlVtSWg1b0xCeUEybm00Wkh0Unh6a1BNaV9SMmp6dW1DTWd2Zm43Ymc?oc=5)
+
+2026-11-20 <span class="news-indication-tag">obesidad</span>
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMijAJBVV95cUxQQjNhck9Nb1ZBbHNmTXhibW1WaWFOT01EeDd2aW9KaFIzdTZDV1JsNzI1VjJEMHVlZEExVzlDbDVkbEhZbnZsZGF2WkNHcWxzSk9wVm82ZFowQUp6b3ZBMnlSMnd3LTNnYXZaeG52bE1JaXBabUlJZ3VNUm52NkR3MzkwaXJ3X0dkNGQ1SWxCRHZJT3BoMHZYYmRFbVloWW1LM1dBcWRSNGNjdjJ2QlRqLXc2bkpyT0NwanRPd0VoenRISmJ3R2FPek5EcFVWVHJLakVYTXVVT01ZTkNBU0J5a3NwS3kzV1UtV216VmVYRlY3MFJXRjRQMGZ3Vmg4dzRDNUdsTGV2cVpKM0Yz0gGSAkFVX3lxTE5NOUtYNjRQS2s4X3JuTGdEV0M3aklZUUNZSG1yMy1pWFRCeTBFNDVrOWhxME5KS3ZFNWJpSVBzanRyekFXYnRySll4MjRBblR0X3kyZlRrd1hEWGdSa0xmSlVoZ0NyQi1uVkNUV2NwSmVzb216WnZwN0g5OU1EYk1FTk16dHNUVUtvQUE3OWFMMVByaVJBZ2xKRlZwUkhfNnZjaHptT29rRDVvUEx4SF83VWhjVEdhZHZCdkVhTVFnYWJVU3hiUVRiVksyRHZyVGRxQjV0dXhycllSb0YtNjhob1BDSnBjRVNMQlVtSWg1b0xCeUEybm00Wkh0Unh6a1BNaV9SMmp6dW1DTWd2Zm43Ymc?oc=5)
+
+---
+
+### [Arthrose du genou : un nouveau médicament contre l’obésité réduit fortement les douleurs ! - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizgFBVV95cUxPcEMyVWtIdmNsVzduUXl5WmJHOC1lZ00zclppYTlVSXBCbDRNTVJSNUhFMF9qa3Bwalk2LXZqQ2JEWU1qaWVQbUY5TU9wVkhGb25XM1p5aVhOcmZZUDEyeDdaVS16RWZLT1FTSk4yZUlmV0FiZktrRVVkSWZza3F5WWNmYUlLWllKM0lKNU1lUFlSZW1ndjU2dllZNGZsQ3ZwRDNDMF9PdG9yMkpPbFJyejhKMnE5X2FGMGE4QTNMdXFWdDg2ZUZpWkVxZk04UQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">obésité</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizgFBVV95cUxPcEMyVWtIdmNsVzduUXl5WmJHOC1lZ00zclppYTlVSXBCbDRNTVJSNUhFMF9qa3Bwalk2LXZqQ2JEWU1qaWVQbUY5TU9wVkhGb25XM1p5aVhOcmZZUDEyeDdaVS16RWZLT1FTSk4yZUlmV0FiZktrRVVkSWZza3F5WWNmYUlLWllKM0lKNU1lUFlSZW1ndjU2dllZNGZsQ3ZwRDNDMF9PdG9yMkpPbFJyejhKMnE5X2FGMGE4QTNMdXFWdDg2ZUZpWkVxZk04UQ?oc=5)
+
+---
 
 ### [Nuevos fármacos contra la obesidad: desafío para mantenerse al día](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm1JSUVHRl84OFpjVmpHQm1aWlRwaXMtRWNoRWQ0cmYwS0lsdlY2LVFDNGF2SndUYXR0WlpobTBSQ1lhRDFtQ0dYWU5RUFNPcUV5azdVUW56VE1MNE9kRnhsR3JUOFJtWHc1XzFjdTYxVEJxaXcwX1dDUHZhc2tsbXJHRU5sT0Zwd01BWERiMmNwdjdOT3EzRFo1YlFIZ09XakVFa0NBcXJDZ0xsVWc?oc=5)
 
@@ -53,14 +85,6 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSU5rQz
 2026-11-19 <span class="news-indication-tag">obesidad</span>
 
 Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVJLTVVhaVZkaU1WVmtFRnFOVy1qeHloZmtDbUZXMFhZZlkteWJnYkRNVTExUnlVNWt0dUh3VUhYU2lzSF9xNkZiTzJuTTAzNXpRVFVldDFQRHVUTHFtQWZ6ZEYzOVVpQXFnSlMxZjRua1JCZFJQblU5a2ZFRWt2eFVDejU3QnNnYktyM1hFYlVBcVlNZEp0WkdXWm12d2lUMkdaSkJlM3YtR1VPaXJxQk5qczdrWi00MERfVHVsSk40Q1ZVXzJkRzZR?oc=5)
-
----
-
-### [La obesidad tiene memoria y el hígado conversa con la grasa: así es el diálogo entre órganos que condiciona el peso - La Voz de Galicia](https://news.google.com/rss/articles/CBMijAJBVV95cUxQQjNhck9Nb1ZBbHNmTXhibW1WaWFOT01EeDd2aW9KaFIzdTZDV1JsNzI1VjJEMHVlZEExVzlDbDVkbEhZbnZsZGF2WkNHcWxzSk9wVm82ZFowQUp6b3ZBMnlSMnd3LTNnYXZaeG52bE1JaXBabUlJZ3VNUm52NkR3MzkwaXJ3X0dkNGQ1SWxCRHZJT3BoMHZYYmRFbVloWW1LM1dBcWRSNGNjdjJ2QlRqLXc2bkpyT0NwanRPd0VoenRISmJ3R2FPek5EcFVWVHJLakVYTXVVT01ZTkNBU0J5a3NwS3kzV1UtV216VmVYRlY3MFJXRjRQMGZ3Vmg4dzRDNUdsTGV2cVpKM0Yz0gGSAkFVX3lxTE5NOUtYNjRQS2s4X3JuTGdEV0M3aklZUUNZSG1yMy1pWFRCeTBFNDVrOWhxME5KS3ZFNWJpSVBzanRyekFXYnRySll4MjRBblR0X3kyZlRrd1hEWGdSa0xmSlVoZ0NyQi1uVkNUV2NwSmVzb216WnZwN0g5OU1EYk1FTk16dHNUVUtvQUE3OWFMMVByaVJBZ2xKRlZwUkhfNnZjaHptT29rRDVvUEx4SF83VWhjVEdhZHZCdkVhTVFnYWJVU3hiUVRiVksyRHZyVGRxQjV0dXhycllSb0YtNjhob1BDSnBjRVNMQlVtSWg1b0xCeUEybm00Wkh0Unh6a1BNaV9SMmp6dW1DTWd2Zm43Ymc?oc=5)
-
-2026-11-19 <span class="news-indication-tag">obesidad</span>
-
-Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMijAJBVV95cUxQQjNhck9Nb1ZBbHNmTXhibW1WaWFOT01EeDd2aW9KaFIzdTZDV1JsNzI1VjJEMHVlZEExVzlDbDVkbEhZbnZsZGF2WkNHcWxzSk9wVm82ZFowQUp6b3ZBMnlSMnd3LTNnYXZaeG52bE1JaXBabUlJZ3VNUm52NkR3MzkwaXJ3X0dkNGQ1SWxCRHZJT3BoMHZYYmRFbVloWW1LM1dBcWRSNGNjdjJ2QlRqLXc2bkpyT0NwanRPd0VoenRISmJ3R2FPek5EcFVWVHJLakVYTXVVT01ZTkNBU0J5a3NwS3kzV1UtV216VmVYRlY3MFJXRjRQMGZ3Vmg4dzRDNUdsTGV2cVpKM0Yz0gGSAkFVX3lxTE5NOUtYNjRQS2s4X3JuTGdEV0M3aklZUUNZSG1yMy1pWFRCeTBFNDVrOWhxME5KS3ZFNWJpSVBzanRyekFXYnRySll4MjRBblR0X3kyZlRrd1hEWGdSa0xmSlVoZ0NyQi1uVkNUV2NwSmVzb216WnZwN0g5OU1EYk1FTk16dHNUVUtvQUE3OWFMMVByaVJBZ2xKRlZwUkhfNnZjaHptT29rRDVvUEx4SF83VWhjVEdhZHZCdkVhTVFnYWJVU3hiUVRiVksyRHZyVGRxQjV0dXhycllSb0YtNjhob1BDSnBjRVNMQlVtSWg1b0xCeUEybm00Wkh0Unh6a1BNaV9SMmp6dW1DTWd2Zm43Ymc?oc=5)
 
 ---
 
@@ -98,7 +122,7 @@ Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi
 
 ### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
-2026-11-18 <span class="news-indication-tag">Adipositas</span>
+2026-11-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 

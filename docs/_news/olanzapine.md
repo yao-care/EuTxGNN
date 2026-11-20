@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>62 news articles</strong>, with 2 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>63 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (62)
+## Related News (63)
 
 ### [Coucher et réveil à heures variables : l’effet inattendu sur le moral, selon une étude - La Provence](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUmxON0FRYUZCcnJzb2I0WG9hYS1UOVFhU2c0NFdsUEJWcy1CZ04xQXNvTUpzY2M2Vl9EeTdId3pPel90eWM4WlNOX2UwazlSVlA4UXlxaW5HZXNjelhSWTNZbHlBeUgtUnhlWFJQVHhrVWktUDFjTHVUS2xMTktzaE5iYm5ockxyV2JXMnUxNlBtM25SZktYM1pRam91Uy1IaURKdDNxZmhlV1loYjJFTFZ2MVVXa0JEQ0tnamtjdzR3UVYwc2ZIWHFlYVdWSXdfQ2xKTA?oc=5)
 
@@ -49,6 +49,14 @@ Source: [La Provence](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUmxON
 2026-11-19 <span class="news-indication-tag">depression</span>
 
 Source: [TerniToday](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTHBxUGk3X0NFMUptMUxtamM0cXBnT3VQbC1BQmhhbnNraEh5cnAwaUVfTXVMRjF0UFVSNW1lSm9LR0VjdGVnRmFYdlJySW5FeXV3TjhMaWM1MkNiRURMcXpLcTBVOU1JOF82TXAyQW0zeVdnUFJHaGRKMnNMRllqUnA4Vl9YQ3pSVTNuX2JyS2pNUVpsUU52d3ZuOWNLQWZLbXY2OEZ1WWloaTdwQWl2V0pnUnRoaVBaUTBqT1NkbmdKQVNRSlpaWWczbHVTRGFadGFCLS01VjFQdEc5Y3UyWkgyYjJfME1YNmxYWEZNcEd0N1Ix?oc=5)
+
+---
+
+### [Vorhofflimmern bei Frauen: Diese Symptome werden oft übersehen](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR25ZVWZBV1I5aXZ1UEhxbk1wNks2YkRITndwYTQ5NEpvMDg1LTg4c3NlbVRoemxFYXQ4N3lOb216ejlvSk40SHEzMmRvMGpIcDFpSlo5SEJaV09WeW5SZjBRNUw0RjIzVlhnUm5wZnpMZnBwY2xUTHJjdjJ4UzZxbFJ0V1M3RC13OGJHU1dxODdsa0gyaWZBeFNTbE9PUjA?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR25ZVWZBV1I5aXZ1UEhxbk1wNks2YkRITndwYTQ5NEpvMDg1LTg4c3NlbVRoemxFYXQ4N3lOb216ejlvSk40SHEzMmRvMGpIcDFpSlo5SEJaV09WeW5SZjBRNUw0RjIzVlhnUm5wZnpMZnBwY2xUTHJjdjJ4UzZxbFJ0V1M3RC13OGJHU1dxODdsa0gyaWZBeFNTbE9PUjA?oc=5)
 
 ---
 
@@ -78,7 +86,7 @@ Source: [food-monitor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcE03
 
 ### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 
-2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 

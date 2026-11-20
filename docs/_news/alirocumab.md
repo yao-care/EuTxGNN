@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Alirocumab. 10 predicted indications."
 permalink: /news/alirocumab/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-20
 ---
 
 # Alirocumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>14 news articles</strong>, with 10 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>15 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (15)
+
+### [Pruritus Common in Older Patients With Advanced CKD](https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2FQeWZXSWRvd0Q4Y3ZOT1pXN3ZoY0wwaHluQlFBVndTMmZnUmRWVEVpazFDSVZRVGd1dXNkc2hyNVBudmVXWktnYWhjMGpJaDN0UkF1TWluMV9jYWlpeDU4cXl3SFJ2RFZGbXR5N2pfdURvcHo3T3hTQkF5T1BYWDhIbThiZFp5MDFxekdDWnVWRnM0ME9kQmF3X3J3b1BrcFhFWFplZURUU3Vpcjhr?oc=5)
+
+2026-11-19 <span class="news-indication-tag">CKD</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2FQeWZXSWRvd0Q4Y3ZOT1pXN3ZoY0wwaHluQlFBVndTMmZnUmRWVEVpazFDSVZRVGd1dXNkc2hyNVBudmVXWktnYWhjMGpJaDN0UkF1TWluMV9jYWlpeDU4cXl3SFJ2RFZGbXR5N2pfdURvcHo3T3hTQkF5T1BYWDhIbThiZFp5MDFxekdDWnVWRnM0ME9kQmF3X3J3b1BrcFhFWFplZURUU3Vpcjhr?oc=5)
+
+---
 
 ### ['First of its kind' dialysis research could have global implications](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FWVdjd0o1M3ZZRmc0T1RZN2NveEtfUTVvT0lSOGtiQy0yMkpROG9fay1UbGtnOEdiZ0V0WmdNVWVpdTRtSWtEQTJIS1lFeHR4ZGpnOHlkd096UXkzSWc?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Rimegepant?">
-<strong>Rimegepant</strong> currently has <strong>31 news articles</strong>, with 5 predicted indications.
+<strong>Rimegepant</strong> currently has <strong>32 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Rimegepant with the latest h
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (31)
+## Related News (32)
 
 ### [This One Sleep Factor Matters More Than How Many Hours You Get, Study Suggests](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
 
@@ -76,6 +76,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1I4Sk
 2026-11-17 <span class="news-indication-tag">emicrania</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMikwJBVV95cUxQZlE2UFpLeVhRVy1lbERQSFpsczN6Ym9BYXF3R1hpTEN1XzFnMC1HZEY5YUdrYkhWYjJ5NkZYTnh6V0VqMWk0SW5XY1h4RmpFTVVtWmlZR2Y5a2NBMDV4VW9vTWRmTEdNZDViUzZRbVhLMmVzLVJDMnpqYnQ1aWd2dmY0LUN4bnJ4WUhZbVpMVWlvNnFENlU0ZlEzMUJaWFZxb19QQmRBTkpQY25iaFN0MUtwcmN4MVhjdWwzMVNtQ3Y2SVljNUQxRXFnNC00TldpcDJNOU1USTZmTTlMVTN5azBFaFhCVkJnTXhMU2R1Nnd0TUtHYmF2R2N3NjBVbjBVZV9nVDlCSlZYTDQ4c1FvRExBONIBmAJBVV95cUxPdktVOWVDSHkyeVVlRVAwaDZrbHp5dFNucjJHeWFyQktxWXltUTNFcDc4TWJoVU83VFM4SVZrU0hMSFoxby02NTFNZ2MtXzItZkxhWmkwNnFQWTkyUkNaUV9JSEZ2V3FnTHNvQkFqVFBwUjE1TjlCVHlEQUd4bXZEX3FnSHI4MzM1UHFjZE9mbmVmZ3JKejRaVjh1MG91Vk44ZXZZMzVzRUlabUpFWHo5aDcta2pzVjhFdTFDZlhMVVZzbXhuc19sZTNybFQtektFb2czS3FxV1ZZWVc2N2VWNGFOY0dqRVJ0WWlERmhGR200RjFTY1NtUVd1VWs0OXVwa0pGSDQ4WVVXbWY3eGJjQVRSamh6ZFVh?oc=5)
+
+---
+
+### [The 2 Ingredients You Should Add to Your Oatmeal to Help Lower Cholesterol - Verywell Health](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVdfZlFxM0VXSnhyOFZkNGRzdlBMSUZOcWpsR3B4VDcyMUlhTWM4dkNLZW9OQTNuTTdyWVpYdUFMU2pCN0lqeG1yR1hEaENDeTkyV0YwMlpRa2tlejFFOVBuOExnU0szWnR5eDgtSzNjOUJNR0VVcWdab09CY0tfSGJ1SmdveU1B?oc=5)
+
+2026-11-16 <span class="news-indication-tag">heart disease</span>
+
+Source: [Verywell Health](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVdfZlFxM0VXSnhyOFZkNGRzdlBMSUZOcWpsR3B4VDcyMUlhTWM4dkNLZW9OQTNuTTdyWVpYdUFMU2pCN0lqeG1yR1hEaENDeTkyV0YwMlpRa2tlejFFOVBuOExnU0szWnR5eDgtSzNjOUJNR0VVcWdab09CY0tfSGJ1SmdveU1B?oc=5)
 
 ---
 

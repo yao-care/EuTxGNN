@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Tadalafil?">
-<strong>Tadalafil</strong> currently has <strong>103 news articles</strong>, with 8 predicted indications.
+<strong>Tadalafil</strong> currently has <strong>105 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Tadalafil with the latest he
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (103)
+## Related News (105)
 
 ### [Vaccino antinfluenzale riduce gli infarti: appello dei cardiologi - Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
 
@@ -71,6 +71,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5
 2026-11-19 <span class="news-indication-tag">heart disease</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
+
+---
+
+### [Vorhofflimmern bei Frauen: Diese Symptome werden oft übersehen](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR25ZVWZBV1I5aXZ1UEhxbk1wNks2YkRITndwYTQ5NEpvMDg1LTg4c3NlbVRoemxFYXQ4N3lOb216ejlvSk40SHEzMmRvMGpIcDFpSlo5SEJaV09WeW5SZjBRNUw0RjIzVlhnUm5wZnpMZnBwY2xUTHJjdjJ4UzZxbFJ0V1M3RC13OGJHU1dxODdsa0gyaWZBeFNTbE9PUjA?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR25ZVWZBV1I5aXZ1UEhxbk1wNks2YkRITndwYTQ5NEpvMDg1LTg4c3NlbVRoemxFYXQ4N3lOb216ejlvSk40SHEzMmRvMGpIcDFpSlo5SEJaV09WeW5SZjBRNUw0RjIzVlhnUm5wZnpMZnBwY2xUTHJjdjJ4UzZxbFJ0V1M3RC13OGJHU1dxODdsa0gyaWZBeFNTbE9PUjA?oc=5)
 
 ---
 
@@ -108,7 +116,7 @@ Source: [food-monitor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcE03
 
 ### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 
-2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 
@@ -151,6 +159,14 @@ Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkNJYV
 2026-11-16 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [WEB.DE](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUhTUmxQVGhkMHAxeTV1R2RwVUFjX0RUM0g5eGdtYmFoS1I1aVljempNZkxsd0RndnlsMHJ5XzBCeC1rUWJrdTZhMnRobFNFWWdVSkhLZXQwZlRBQXpJRmluMEh1UXBXNmxhWGJjWWFuNVNXWldpYkVnVXNnODh3VE54QXBVN0NCS2ZNRDJENHgyWU0?oc=5)
+
+---
+
+### [The 2 Ingredients You Should Add to Your Oatmeal to Help Lower Cholesterol - Verywell Health](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVdfZlFxM0VXSnhyOFZkNGRzdlBMSUZOcWpsR3B4VDcyMUlhTWM4dkNLZW9OQTNuTTdyWVpYdUFMU2pCN0lqeG1yR1hEaENDeTkyV0YwMlpRa2tlejFFOVBuOExnU0szWnR5eDgtSzNjOUJNR0VVcWdab09CY0tfSGJ1SmdveU1B?oc=5)
+
+2026-11-16 <span class="news-indication-tag">heart disease</span>
+
+Source: [Verywell Health](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVdfZlFxM0VXSnhyOFZkNGRzdlBMSUZOcWpsR3B4VDcyMUlhTWM4dkNLZW9OQTNuTTdyWVpYdUFMU2pCN0lqeG1yR1hEaENDeTkyV0YwMlpRa2tlejFFOVBuOExnU0szWnR5eDgtSzNjOUJNR0VVcWdab09CY0tfSGJ1SmdveU1B?oc=5)
 
 ---
 

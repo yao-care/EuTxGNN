@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "kidney failure (chronic kidney disease) News"
+title: "CKD (chronic kidney disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about kidney failure (chronic kidney disease). 14 articles, 1 related drugs."
+description: "Health news about CKD (chronic kidney disease). 15 articles, 1 related drugs."
 permalink: /news/chronic-kidney-disease/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-20
 ---
 
-# kidney failure (chronic kidney disease) News
+# CKD (chronic kidney disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about kidney failure (chronic kidney disease)?">
-<strong>kidney failure (chronic kidney disease)</strong> currently has <strong>14 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about CKD (chronic kidney disease)?">
+<strong>CKD (chronic kidney disease)</strong> currently has <strong>15 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “kidney failure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “CKD” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “kidney failure” and 
 </ul>
 </div>
 
-## Related News (14)
+## Related News (15)
+
+### [Pruritus Common in Older Patients With Advanced CKD](https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2FQeWZXSWRvd0Q4Y3ZOT1pXN3ZoY0wwaHluQlFBVndTMmZnUmRWVEVpazFDSVZRVGd1dXNkc2hyNVBudmVXWktnYWhjMGpJaDN0UkF1TWluMV9jYWlpeDU4cXl3SFJ2RFZGbXR5N2pfdURvcHo3T3hTQkF5T1BYWDhIbThiZFp5MDFxekdDWnVWRnM0ME9kQmF3X3J3b1BrcFhFWFplZURUU3Vpcjhr?oc=5)
+
+2026-11-19
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2FQeWZXSWRvd0Q4Y3ZOT1pXN3ZoY0wwaHluQlFBVndTMmZnUmRWVEVpazFDSVZRVGd1dXNkc2hyNVBudmVXWktnYWhjMGpJaDN0UkF1TWluMV9jYWlpeDU4cXl3SFJ2RFZGbXR5N2pfdURvcHo3T3hTQkF5T1BYWDhIbThiZFp5MDFxekdDWnVWRnM0ME9kQmF3X3J3b1BrcFhFWFplZURUU3Vpcjhr?oc=5)
+
+---
 
 ### ['First of its kind' dialysis research could have global implications](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FWVdjd0o1M3ZZRmc0T1RZN2NveEtfUTVvT0lSOGtiQy0yMkpROG9fay1UbGtnOEdiZ0V0WmdNVWVpdTRtSWtEQTJIS1lFeHR4ZGpnOHlkd096UXkzSWc?oc=5)
 

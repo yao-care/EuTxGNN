@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Dalbavancin Hydrochloride?">
-<strong>Dalbavancin Hydrochloride</strong> currently has <strong>22 news articles</strong>, with 0 predicted indications.
+<strong>Dalbavancin Hydrochloride</strong> currently has <strong>23 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Dalbavancin Hydrochloride wi
 <p><a href="{{ '/drugs/dalbavancin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (22)
+## Related News (23)
 
 ### [This One Sleep Factor Matters More Than How Many Hours You Get, Study Suggests](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
 
@@ -44,6 +44,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5
 2026-11-19 <span class="news-indication-tag">heart disease</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
+
+---
+
+### [The 2 Ingredients You Should Add to Your Oatmeal to Help Lower Cholesterol - Verywell Health](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVdfZlFxM0VXSnhyOFZkNGRzdlBMSUZOcWpsR3B4VDcyMUlhTWM4dkNLZW9OQTNuTTdyWVpYdUFMU2pCN0lqeG1yR1hEaENDeTkyV0YwMlpRa2tlejFFOVBuOExnU0szWnR5eDgtSzNjOUJNR0VVcWdab09CY0tfSGJ1SmdveU1B?oc=5)
+
+2026-11-16 <span class="news-indication-tag">heart disease</span>
+
+Source: [Verywell Health](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVdfZlFxM0VXSnhyOFZkNGRzdlBMSUZOcWpsR3B4VDcyMUlhTWM4dkNLZW9OQTNuTTdyWVpYdUFMU2pCN0lqeG1yR1hEaENDeTkyV0YwMlpRa2tlejFFOVBuOExnU0szWnR5eDgtSzNjOUJNR0VVcWdab09CY0tfSGJ1SmdveU1B?oc=5)
 
 ---
 

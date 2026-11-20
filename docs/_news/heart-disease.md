@@ -3,7 +3,7 @@ layout: default
 title: "heart failure (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about heart failure (heart disease). 22 articles, 57 related drugs."
+description: "Health news about heart failure (heart disease). 23 articles, 57 related drugs."
 permalink: /news/heart-disease/
 last_modified_at: 2026-11-20
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about heart failure (heart disease)?">
-<strong>heart failure (heart disease)</strong> currently has <strong>22 news articles</strong> and 57 related drugs.
+<strong>heart failure (heart disease)</strong> currently has <strong>23 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -67,7 +67,7 @@ This page brings together the latest health news about “heart failure” and l
 </ul>
 </div>
 
-## Related News (22)
+## Related News (23)
 
 ### [This One Sleep Factor Matters More Than How Many Hours You Get, Study Suggests](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
 
@@ -82,6 +82,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5
 2026-11-19
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
+
+---
+
+### [The 2 Ingredients You Should Add to Your Oatmeal to Help Lower Cholesterol - Verywell Health](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVdfZlFxM0VXSnhyOFZkNGRzdlBMSUZOcWpsR3B4VDcyMUlhTWM4dkNLZW9OQTNuTTdyWVpYdUFMU2pCN0lqeG1yR1hEaENDeTkyV0YwMlpRa2tlejFFOVBuOExnU0szWnR5eDgtSzNjOUJNR0VVcWdab09CY0tfSGJ1SmdveU1B?oc=5)
+
+2026-11-16
+
+Source: [Verywell Health](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVdfZlFxM0VXSnhyOFZkNGRzdlBMSUZOcWpsR3B4VDcyMUlhTWM4dkNLZW9OQTNuTTdyWVpYdUFMU2pCN0lqeG1yR1hEaENDeTkyV0YwMlpRa2tlejFFOVBuOExnU0szWnR5eDgtSzNjOUJNR0VVcWdab09CY0tfSGJ1SmdveU1B?oc=5)
 
 ---
 

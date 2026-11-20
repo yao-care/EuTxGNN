@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>188 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>189 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,9 +41,17 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (188)
+## Related News (189)
 
-### [Cómo impacta lo que comemos en el cerebro: «Cenar después de las nueve de la noche aumenta casi un 30 % el riesgo de ictus» - La Voz de Galicia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdk9oUlpLM3JGak9yYi15SGZqS0hkbDJ3TEFMSjZmYjg5SDBfaHpZOTVGZDc0WkxEV2lDOThvdjlMMGV0ckxSM3FJMXdvQ3huUmhCV2ZNLVZDeFNmS2lVZU5jSklHOUZNTnpwcXV5RnZmR0lycHVkUHptQXJMcU1MYjN0RFluazBjMmlSQlJxcEpWd3pQbjhUZFh1WkttYjctd2xXNEFzSExvYU81a1dCQzllc3gtN2xUMnhCOWFRc2ZZWUdYTHhrdzFHMGg0WTZSNTlsX3pLYmh3NV9LOXJOcWZzUFN0Nm8wM0NPNnhSS25JTVA5LXRoX2REV3gwRVhDSnBoMHVZTkhJLUHSAZACQVVfeXFMUGRQOFdGUnEwbUhCLUhrdUZkb2J6eG4xbkRIeGFGWmdKR2ExVlZCWVlNSWRWOTVuWjAta09xak0yTld1aTNKVld6eEtlelZoN1BKT0xxdlFfY3p6ZHhJbXEtSXgzOUlzY3ZwRFhPOEc5UzBnX0p1V2tWa2V5MnQ2OVFGVExRa3l0RVBINWRUbUd5blFpSWVwU1YtdnhjWnRLdDBXTUNSLV9fTXhmTVdaX0JKaDZ6ZFFndmpjYk56WDR3dnU1b2xHYi16OFFZcGplVVBqUkpSYUVkSGR1emRvM3pENnVhTkhLN0JFOW8xQjIwWU5ONEtKQk1SQ2NZa3NkcUlfdWhqT0hLcXdHM0VkLXk?oc=5)
+### [Las enfermedades cardiovasculares y sus factores de riesgo desempeñan un papel clave en desarrollo de demencia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcFVhX0VYSk54czdRcXI0YjFnQmt3RUR0V3VTS3UzdV9na2dLb1hleTVyVmNxRW5QbTFqTUNqVU04ZzBhOVdsbl9hQjNoSlp5UlpJYlpkVmRkNEtCODFwNGh6RXZINTdWdlg5REVreGhEbXlVM0R4TnpEczNMLTkxdFlnLXo3SXZmcURUc1phVm93aVYxV2laVzhLT05xTGFFMjVtZzZFYVJac0o0X0ttckZKTWVvcFVvMDZQQnlRZVA2WHdWMFExX0VQM0lXbi1nZjBia1NEaVd5SU1MM3ZZV0I3TTAtWFVK?oc=5)
+
+2026-11-20 <span class="news-indication-tag">ictus</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcFVhX0VYSk54czdRcXI0YjFnQmt3RUR0V3VTS3UzdV9na2dLb1hleTVyVmNxRW5QbTFqTUNqVU04ZzBhOVdsbl9hQjNoSlp5UlpJYlpkVmRkNEtCODFwNGh6RXZINTdWdlg5REVreGhEbXlVM0R4TnpEczNMLTkxdFlnLXo3SXZmcURUc1phVm93aVYxV2laVzhLT05xTGFFMjVtZzZFYVJac0o0X0ttckZKTWVvcFVvMDZQQnlRZVA2WHdWMFExX0VQM0lXbi1nZjBia1NEaVd5SU1MM3ZZV0I3TTAtWFVK?oc=5)
+
+---
+
+### [Qué comer para la salud del cerebro: «El aceite de oliva virgen extra se relaciona con la reducción del riesgo de demencia» - La Voz de Galicia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdk9oUlpLM3JGak9yYi15SGZqS0hkbDJ3TEFMSjZmYjg5SDBfaHpZOTVGZDc0WkxEV2lDOThvdjlMMGV0ckxSM3FJMXdvQ3huUmhCV2ZNLVZDeFNmS2lVZU5jSklHOUZNTnpwcXV5RnZmR0lycHVkUHptQXJMcU1MYjN0RFluazBjMmlSQlJxcEpWd3pQbjhUZFh1WkttYjctd2xXNEFzSExvYU81a1dCQzllc3gtN2xUMnhCOWFRc2ZZWUdYTHhrdzFHMGg0WTZSNTlsX3pLYmh3NV9LOXJOcWZzUFN0Nm8wM0NPNnhSS25JTVA5LXRoX2REV3gwRVhDSnBoMHVZTkhJLUHSAZACQVVfeXFMUGRQOFdGUnEwbUhCLUhrdUZkb2J6eG4xbkRIeGFGWmdKR2ExVlZCWVlNSWRWOTVuWjAta09xak0yTld1aTNKVld6eEtlelZoN1BKT0xxdlFfY3p6ZHhJbXEtSXgzOUlzY3ZwRFhPOEc5UzBnX0p1V2tWa2V5MnQ2OVFGVExRa3l0RVBINWRUbUd5blFpSWVwU1YtdnhjWnRLdDBXTUNSLV9fTXhmTVdaX0JKaDZ6ZFFndmpjYk56WDR3dnU1b2xHYi16OFFZcGplVVBqUkpSYUVkSGR1emRvM3pENnVhTkhLN0JFOW8xQjIwWU5ONEtKQk1SQ2NZa3NkcUlfdWhqT0hLcXdHM0VkLXk?oc=5)
 
 2026-11-20 <span class="news-indication-tag">ictus</span>
 
@@ -171,14 +179,6 @@ Source: [CuídatePlus](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWERZ
 
 ---
 
-### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
-
-2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
-
----
-
 ### [El 20% de los ictus ya son en menores de 55 años, la mayoría por la mala alimentación y las adicciones](https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2RoNVdHMS04czY3eVVnWGZmX1EzSm9LNXh6NDlNYWNfUXNWZ2hMTjZ4M002N2U3TlVaQzIzdGlZNzdNQ0lmdjJBSElUbDR4LWtHeGdTWEJBVWEyVkNEeE9kZmxhSWhEdklXUWhYSmQ3bmNvQzh1c2l2d2pBdnh6M3E0cHNHVjlNaUZpdjNTU2Z4QXR0SWRocml3YzFlNnpYYVHSAacBQVVfeXFMTm5UdENPcUN1d3pXQzhha0VFTXVaMExkZ01Rc081elB1eXBjRFNXSGtmVmdBYnNGVXAxSkZUSFdMSDRkdnBwZk1LWE1kc3JUeWMzczJvOGZkLXRLY2JJQzFONGVaNDNQMHNQZnc4bHcyS0xqZjhsVEMwTThsVDg0RFBBNThzZmpJanFaSndXSkhUY25mQ0wxbkltWXpDc1FCVTJINXZrTlU?oc=5)
 
 2026-11-18 <span class="news-indication-tag">ictus</span>
@@ -256,6 +256,14 @@ Source: [Open](https://news.google.com/rss/articles/CBMigAFBVV95cUxNUThaYlZlRzB3
 2026-11-16 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdldXOFhnRTVFT0RINTczLWoteDNJbHZTcFlXeFhuMTh5eEl5WWtibzN4SS10X1Z5SThUZGxwY1NBUWE5R3lOWWdpRHI3MUU1ZXRNeXhwTDl3X0NYcER3cUZYZGwzdzNvRHFZRnZtcG9mTE0tbGd6bWtVNGUxTW1oYnBqZHNzc1IxUHRiaWZFMkQtZlZhSUQxMmRTZVVlcmtOeDBkQWU4ZUFiU04tWEFtM1BzeUF0WFNSMUVadUk3YXRRMFJ5S3VFQTlqaGtwa3cwRFlnQ3RUOEVzcVRx?oc=5)
+
+---
+
+### [The 2 Ingredients You Should Add to Your Oatmeal to Help Lower Cholesterol - Verywell Health](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVdfZlFxM0VXSnhyOFZkNGRzdlBMSUZOcWpsR3B4VDcyMUlhTWM4dkNLZW9OQTNuTTdyWVpYdUFMU2pCN0lqeG1yR1hEaENDeTkyV0YwMlpRa2tlejFFOVBuOExnU0szWnR5eDgtSzNjOUJNR0VVcWdab09CY0tfSGJ1SmdveU1B?oc=5)
+
+2026-11-16 <span class="news-indication-tag">heart disease</span>
+
+Source: [Verywell Health](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVdfZlFxM0VXSnhyOFZkNGRzdlBMSUZOcWpsR3B4VDcyMUlhTWM4dkNLZW9OQTNuTTdyWVpYdUFMU2pCN0lqeG1yR1hEaENDeTkyV0YwMlpRa2tlejFFOVBuOExnU0szWnR5eDgtSzNjOUJNR0VVcWdab09CY0tfSGJ1SmdveU1B?oc=5)
 
 ---
 

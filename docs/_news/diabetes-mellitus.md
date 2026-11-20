@@ -3,7 +3,7 @@ layout: default
 title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 274 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 279 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 last_modified_at: 2026-11-20
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>274 news articles</strong> and 86 related drugs.
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>279 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -65,7 +65,23 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (274)
+## Related News (279)
+
+### [Diabetes: Diese vier Organe kann hoher Blutzucker besonders stark schädigen](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0hnR3N3WlBRVE1fRU9qWXNJbzNnUzEySTNQbEd3dU82NjBhUTl2UFRGcUIzOWk2cVdXel92VndieWJYOGVSRTB5OUp1endTZnMyNGpqampVZWV3OEpkOERnT0prMWNnRWpNc0hkY2l5dl85RnhxOXZsV0pBa0lwQ0ZuLVBPWWhmVWxLOTgyYTBYdHlsQUFyUWNOU1I5VkJkXzBLSUlQZ2I1VmYwLUQzalVoeDQ0U3NVU3hBSXl1OHVNa1N4UHR4QVhKOGZoNUtJaVptSEtOazJ6V3c?oc=5)
+
+2026-11-20
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0hnR3N3WlBRVE1fRU9qWXNJbzNnUzEySTNQbEd3dU82NjBhUTl2UFRGcUIzOWk2cVdXel92VndieWJYOGVSRTB5OUp1endTZnMyNGpqampVZWV3OEpkOERnT0prMWNnRWpNc0hkY2l5dl85RnhxOXZsV0pBa0lwQ0ZuLVBPWWhmVWxLOTgyYTBYdHlsQUFyUWNOU1I5VkJkXzBLSUlQZ2I1VmYwLUQzalVoeDQ0U3NVU3hBSXl1OHVNa1N4UHR4QVhKOGZoNUtJaVptSEtOazJ6V3c?oc=5)
+
+---
+
+### [Leitlinie zur Diagnostik, Therapie und Nachsorge bei Gestationsdiabetes aktualisiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYVhfWUtMQlZkV2tpQWYyZk5WdVV6NUJFZUxjWWwtbzJCdHRNdDBFSXZDMk5PQlhlbE5XVTFJN3Y1bHlmWDlUMWJXdXRXaU5ZYmFiRVVVNEVKS01zZlQyWG41ZDFLZnBsY0kzaFBXSzF1XzVSaVpRVGRlN3hWd0lLNEh5WGlITzFYMGVxR3lzNmZFRUZjLW02WGRLN2ZJNmYzZXZNRDVTem1pVmxub0dHdkhlaW9PRkExX1VqejY2Y0YtdWRNNTFTUEVmYlJHMUt2NFZDdlVhSUdvOWMwOXEyX3Y2bWlyOHM?oc=5)
+
+2026-11-20
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYVhfWUtMQlZkV2tpQWYyZk5WdVV6NUJFZUxjWWwtbzJCdHRNdDBFSXZDMk5PQlhlbE5XVTFJN3Y1bHlmWDlUMWJXdXRXaU5ZYmFiRVVVNEVKS01zZlQyWG41ZDFLZnBsY0kzaFBXSzF1XzVSaVpRVGRlN3hWd0lLNEh5WGlITzFYMGVxR3lzNmZFRUZjLW02WGRLN2ZJNmYzZXZNRDVTem1pVmxub0dHdkhlaW9PRkExX1VqejY2Y0YtdWRNNTFTUEVmYlJHMUt2NFZDdlVhSUdvOWMwOXEyX3Y2bWlyOHM?oc=5)
+
+---
 
 ### [La IA podría cambiar el monitoreo de la diabetes: lanzan un sensor que predice el riesgo de hipoglucemia durante el sueño](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRzlMdThCaW41cHVEYWZTQXVULUlwcHBkQ29oOFA1OFl3bF9XRmVEUDFpX0hwVjRXOFFxWUtVeHp6UXZLX3FFN0tDSGx2b2VySUh4NDJVQUxXVDhiM2FxbHVyY244YWVNd1hveWxabkNucGF3QkVabTNZYl9zdFhZcGxqUk5XZlBheGZQYU1Qd0RlRklHMXdCZHgtZjNSWV82YktUY2VEeHlwdmlNR0tNYV9TLXA3QWlMNHNJbzFiOGJpcV9YMDF3eGJQN3R4NWRoZXNudm1BTWVBYXU3M2J2a1VhTUVtQQ?oc=5)
 
@@ -179,6 +195,14 @@ Source: [Onda Cero](https://news.google.com/rss/articles/CBMihwJBVV95cUxNdFI4Njd
 
 ---
 
+### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
+
+2026-11-18
+
+Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
+
+---
+
 ### [Farmaci antiobesità a ruba, vendute 2mila confezioni al mese. Ora scattano i controlli sulle ricette: «Vanno impediti gli abusi» - Il Gazzettino](https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2hnZ181SHVUSTVMMnNsNVlMa3lISkQxd1dxZ2g0V0VkMEpSbEdxRjZWZ25qV0xzWm4xV3dKbW5zdEVjQlV2dXBrRVNHYU4zbk5qWE9lTkhOQ2tuMTNyTXlhd1d0NUx1T09lbWNickRNaDFqZzVlWTlSUE55Z0dXTjhYc1pGUkNwQmEtS19DM0lIWV9sbzU0YkNGVVZWWlc4bk1rUmFQalJjLTVNVTVrMzZDNDlNcGM?oc=5)
 
 2026-11-18
@@ -232,6 +256,14 @@ Source: [Fusión Asturias](https://news.google.com/rss/articles/CBMisAFBVV95cUxP
 2026-11-17
 
 Source: [Tgcom24](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
+
+---
+
+### [Farmaci per diabetici e obesi per "perdere qualche chilo": stretta in arrivo sulle prescrizioni](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTVZwSWQzRGk0bXBpQXF2eWR1aUd0UTJxbXlqdXd0X3FKVjZaWTJIbVBad1g5YnVUdlBnLVdsUk45YUF6QURWcVhUNkdJSTV3RFh4Q1VRRDRDMXJlaktwbnRweUVoM25EUUxVSVl1ZFNhWjNoeHp5eGtpZ3NmSkhDVVN2Rk9ibnBmNXN1Wkc5R1ZKS183V2l4dWFIOERzOGFJVG00NXlFcVlkZko3ZUpOWElQWdIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
+
+2026-11-17
+
+Source: [Tgcom24](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTVZwSWQzRGk0bXBpQXF2eWR1aUd0UTJxbXlqdXd0X3FKVjZaWTJIbVBad1g5YnVUdlBnLVdsUk45YUF6QURWcVhUNkdJSTV3RFh4Q1VRRDRDMXJlaktwbnRweUVoM25EUUxVSVl1ZFNhWjNoeHp5eGtpZ3NmSkhDVVN2Rk9ibnBmNXN1Wkc5R1ZKS183V2l4dWFIOERzOGFJVG00NXlFcVlkZko3ZUpOWElQWdIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
 ---
 
@@ -424,6 +456,14 @@ Source: [elperiodic.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZF
 2026-11-16
 
 Source: [CHIP](https://news.google.com/rss/articles/CBMigwJBVV95cUxPcTg1X1hlVzZiTmNuS2FCR2pUcjljN1RmdlkyOEVEZmJ6MFJ5MDgwQmw5Y2dLZktzZmhUOGkxS01DRnRKQW9YT0FtT3NEb3ZuWS16ZlZUWS1XbGItWmxXc09zRzNCWjY5Y0pYa01EU2swT3BJNnZHMDZCRklUUGhxanBodW5McHRhNkVSNU1JU3BOMncyS05HQ0tYaGdmaDVSdVY3VHRKLXVta1l4UEpGelFEMkt5NDRvSklUODlib2FaLVlZYUd2ZDVnWkJfc0NWQWhhd3hBWDBLUUhYdlFDNXVDNzJ3ZjBHdllNY0lFbFpqZ0RycS1rMnRNVElGZHU2XzRz?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Mit Ernährung und Sport schaffte jeder Zweite die Remission](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeTlBR0syeU10cjM4UHEwQ2RmcWlWdEh6VEFBbm9CaW5BSWt5eXFWOTZER2FKWUxSWXU5LVZNQW01cy1PeGJNT09NdGtPVnVfLXlGdktLVWRFTTNnZXh1OTFtMTRNaEI4WEdOSWFhb3lLTDFzRjJqWWdkLV9yeURsZ2RPeW5nUy1uNmxRQ3B0RXl4REpDdUwtejdLdXZyQ3NkVDVRS3Q3VU5NWmRwUEkzXw?oc=5)
+
+2026-11-16
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeTlBR0syeU10cjM4UHEwQ2RmcWlWdEh6VEFBbm9CaW5BSWt5eXFWOTZER2FKWUxSWXU5LVZNQW01cy1PeGJNT09NdGtPVnVfLXlGdktLVWRFTTNnZXh1OTFtMTRNaEI4WEdOSWFhb3lLTDFzRjJqWWdkLV9yeURsZ2RPeW5nUy1uNmxRQ3B0RXl4REpDdUwtejdLdXZyQ3NkVDVRS3Q3VU5NWmRwUEkzXw?oc=5)
 
 ---
 

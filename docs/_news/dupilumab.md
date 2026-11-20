@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Dupilumab. 9 predicted indications."
 permalink: /news/dupilumab/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Dupilumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Dupilumab?">
-<strong>Dupilumab</strong> currently has <strong>22 news articles</strong>, with 9 predicted indications.
+<strong>Dupilumab</strong> currently has <strong>23 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Dupilumab with the latest he
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (22)
+## Related News (23)
+
+### [El cielo de Barcelona se llena de drones para dar visibilidad a la EPOC](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVZlNDVHc3ctcGZzcHo4dTdUMFhDUlllb2ZvOXF2LTlOSDEtQ3RMbFFnMjdWLVh6ZE91ak5ja3dSWmktM3JoMEJ0OHJvZVRGdmlpTkQwQ29KMUt3RnpoVk5NdlhURjBxVzZ3QjVScmYzX2Y1Y0RWb0VBN1RJa3dvODBOREVVdjYtQlFzdjlfVmthaDNFbVlyUWdIcUhfYWNqUFJpRtIBqgFBVV95cUxQcG9NSkdCbkt3MmZ5WDRsNjhVOUJWcjBkSGlncjhCQW1VaktCWVlwQzBPcGVLWGdLcTF5ZlgwZ2lJRS1mSnJTLURwMnpHN3NMZC1NeGh6QUhQdnl2UE9MN1BFZXAzRHZJdVNrajVWT3M3Z0U1cjRlZ3JRS29UVlB2MUV1Qlk3N09DdkVvaFg0YXBaREM1NWVXN0VMYnlTZGNYUDlTX0lfU1Fodw?oc=5)
+
+2026-11-20 <span class="news-indication-tag">EPOC</span>
+
+Source: [Canarias7](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVZlNDVHc3ctcGZzcHo4dTdUMFhDUlllb2ZvOXF2LTlOSDEtQ3RMbFFnMjdWLVh6ZE91ak5ja3dSWmktM3JoMEJ0OHJvZVRGdmlpTkQwQ29KMUt3RnpoVk5NdlhURjBxVzZ3QjVScmYzX2Y1Y0RWb0VBN1RJa3dvODBOREVVdjYtQlFzdjlfVmthaDNFbVlyUWdIcUhfYWNqUFJpRtIBqgFBVV95cUxQcG9NSkdCbkt3MmZ5WDRsNjhVOUJWcjBkSGlncjhCQW1VaktCWVlwQzBPcGVLWGdLcTF5ZlgwZ2lJRS1mSnJTLURwMnpHN3NMZC1NeGh6QUhQdnl2UE9MN1BFZXAzRHZJdVNrajVWT3M3Z0U1cjRlZ3JRS29UVlB2MUV1Qlk3N09DdkVvaFg0YXBaREM1NWVXN0VMYnlTZGNYUDlTX0lfU1Fodw?oc=5)
+
+---
 
 ### [Influenza e BPCO, il rischio di un peggioramento che lascia il segno](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWpyTnoxTTRPWlhyRDRvUzU0a2lOTktnWVRuSkc2NXJhX1d1blBOSDZyR0JQMW4tNktFcjJNejFUdlhuVFppTmNITlVFeHZDeTZ3UEhYcWwyTFFZSGplMUtvSjhWVWJDWDBUb0p1T1hYdG1CVEVmSmJKV3NvRkdzZUJJZ3E4QUIxZVdnRzRXcklJVDB0VG42elpUY3ZMV0tVSUZ3cmVEMEdPdjgyX08tNDgzdmpZbFBYTlE?oc=5)
 

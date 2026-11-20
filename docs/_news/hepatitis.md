@@ -3,9 +3,9 @@ layout: default
 title: "epatite (hepatitis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about epatite (hepatitis). 11 articles, 25 related drugs."
+description: "Health news about epatite (hepatitis). 12 articles, 25 related drugs."
 permalink: /news/hepatitis/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # epatite (hepatitis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about epatite (hepatitis)?">
-<strong>epatite (hepatitis)</strong> currently has <strong>11 news articles</strong> and 25 related drugs.
+<strong>epatite (hepatitis)</strong> currently has <strong>12 news articles</strong> and 25 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -50,7 +50,15 @@ This page brings together the latest health news about “epatite” and lists t
 </ul>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [Ribavirin-Therapie: Risikofaktoren für komplizierte Verläufe bei chronischer Hepatitis E](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmo3NFZ0SXRwWGZ0SjFlUy1NaHpzamwyWWh2MW03djVRYnBIeUFuT0NxcURDU00wOXc0blJBdHpHSVlzSTdCOXRyLVBnUWdEQVVEMDhFS3ZoRjlidk0zdTR1TWY5YlU3aDA2U2RacVlhMmp1TkRvb2RBU2x4LWpHRWNSbVFPRlA0ekRyelZyaTdmVFZTblhEVUd2Y1BvazJ5Z0E?oc=5)
+
+2026-11-20
+
+Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmo3NFZ0SXRwWGZ0SjFlUy1NaHpzamwyWWh2MW03djVRYnBIeUFuT0NxcURDU00wOXc0blJBdHpHSVlzSTdCOXRyLVBnUWdEQVVEMDhFS3ZoRjlidk0zdTR1TWY5YlU3aDA2U2RacVlhMmp1TkRvb2RBU2x4LWpHRWNSbVFPRlA0ekRyelZyaTdmVFZTblhEVUd2Y1BvazJ5Z0E?oc=5)
+
+---
 
 ### [Hepatitis-C: Heilbar – aber oft unentdeckt](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDI5YmZVbDlGUHA3VTRVbHNiQ015M3JGeVF5Q2ZnLWxMNE1RTmJRcF9OOUdTczlGXzZpWVZxV0dBcFVHMlFQZG1HdXFfWmNUUTlTNTc1TEZpdjA1NWMxcDhCSjJNajc0dkY5RFU1Ni05a0twTlBfNlJXTzVkczVQOXdGbE1lLU9mVm9MaGc1dFBMbmh4dE5PVnJLWQ?oc=5)
 

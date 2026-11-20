@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>123 news articles</strong>, with 0 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>124 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,9 +29,17 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <p><a href="{{ '/drugs/raloxifene/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (123)
+## Related News (124)
 
-### [Cómo impacta lo que comemos en el cerebro: «Cenar después de las nueve de la noche aumenta casi un 30 % el riesgo de ictus» - La Voz de Galicia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdk9oUlpLM3JGak9yYi15SGZqS0hkbDJ3TEFMSjZmYjg5SDBfaHpZOTVGZDc0WkxEV2lDOThvdjlMMGV0ckxSM3FJMXdvQ3huUmhCV2ZNLVZDeFNmS2lVZU5jSklHOUZNTnpwcXV5RnZmR0lycHVkUHptQXJMcU1MYjN0RFluazBjMmlSQlJxcEpWd3pQbjhUZFh1WkttYjctd2xXNEFzSExvYU81a1dCQzllc3gtN2xUMnhCOWFRc2ZZWUdYTHhrdzFHMGg0WTZSNTlsX3pLYmh3NV9LOXJOcWZzUFN0Nm8wM0NPNnhSS25JTVA5LXRoX2REV3gwRVhDSnBoMHVZTkhJLUHSAZACQVVfeXFMUGRQOFdGUnEwbUhCLUhrdUZkb2J6eG4xbkRIeGFGWmdKR2ExVlZCWVlNSWRWOTVuWjAta09xak0yTld1aTNKVld6eEtlelZoN1BKT0xxdlFfY3p6ZHhJbXEtSXgzOUlzY3ZwRFhPOEc5UzBnX0p1V2tWa2V5MnQ2OVFGVExRa3l0RVBINWRUbUd5blFpSWVwU1YtdnhjWnRLdDBXTUNSLV9fTXhmTVdaX0JKaDZ6ZFFndmpjYk56WDR3dnU1b2xHYi16OFFZcGplVVBqUkpSYUVkSGR1emRvM3pENnVhTkhLN0JFOW8xQjIwWU5ONEtKQk1SQ2NZa3NkcUlfdWhqT0hLcXdHM0VkLXk?oc=5)
+### [Las enfermedades cardiovasculares y sus factores de riesgo desempeñan un papel clave en desarrollo de demencia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcFVhX0VYSk54czdRcXI0YjFnQmt3RUR0V3VTS3UzdV9na2dLb1hleTVyVmNxRW5QbTFqTUNqVU04ZzBhOVdsbl9hQjNoSlp5UlpJYlpkVmRkNEtCODFwNGh6RXZINTdWdlg5REVreGhEbXlVM0R4TnpEczNMLTkxdFlnLXo3SXZmcURUc1phVm93aVYxV2laVzhLT05xTGFFMjVtZzZFYVJac0o0X0ttckZKTWVvcFVvMDZQQnlRZVA2WHdWMFExX0VQM0lXbi1nZjBia1NEaVd5SU1MM3ZZV0I3TTAtWFVK?oc=5)
+
+2026-11-20 <span class="news-indication-tag">ictus</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcFVhX0VYSk54czdRcXI0YjFnQmt3RUR0V3VTS3UzdV9na2dLb1hleTVyVmNxRW5QbTFqTUNqVU04ZzBhOVdsbl9hQjNoSlp5UlpJYlpkVmRkNEtCODFwNGh6RXZINTdWdlg5REVreGhEbXlVM0R4TnpEczNMLTkxdFlnLXo3SXZmcURUc1phVm93aVYxV2laVzhLT05xTGFFMjVtZzZFYVJac0o0X0ttckZKTWVvcFVvMDZQQnlRZVA2WHdWMFExX0VQM0lXbi1nZjBia1NEaVd5SU1MM3ZZV0I3TTAtWFVK?oc=5)
+
+---
+
+### [Qué comer para la salud del cerebro: «El aceite de oliva virgen extra se relaciona con la reducción del riesgo de demencia» - La Voz de Galicia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdk9oUlpLM3JGak9yYi15SGZqS0hkbDJ3TEFMSjZmYjg5SDBfaHpZOTVGZDc0WkxEV2lDOThvdjlMMGV0ckxSM3FJMXdvQ3huUmhCV2ZNLVZDeFNmS2lVZU5jSklHOUZNTnpwcXV5RnZmR0lycHVkUHptQXJMcU1MYjN0RFluazBjMmlSQlJxcEpWd3pQbjhUZFh1WkttYjctd2xXNEFzSExvYU81a1dCQzllc3gtN2xUMnhCOWFRc2ZZWUdYTHhrdzFHMGg0WTZSNTlsX3pLYmh3NV9LOXJOcWZzUFN0Nm8wM0NPNnhSS25JTVA5LXRoX2REV3gwRVhDSnBoMHVZTkhJLUHSAZACQVVfeXFMUGRQOFdGUnEwbUhCLUhrdUZkb2J6eG4xbkRIeGFGWmdKR2ExVlZCWVlNSWRWOTVuWjAta09xak0yTld1aTNKVld6eEtlelZoN1BKT0xxdlFfY3p6ZHhJbXEtSXgzOUlzY3ZwRFhPOEc5UzBnX0p1V2tWa2V5MnQ2OVFGVExRa3l0RVBINWRUbUd5blFpSWVwU1YtdnhjWnRLdDBXTUNSLV9fTXhmTVdaX0JKaDZ6ZFFndmpjYk56WDR3dnU1b2xHYi16OFFZcGplVVBqUkpSYUVkSGR1emRvM3pENnVhTkhLN0JFOW8xQjIwWU5ONEtKQk1SQ2NZa3NkcUlfdWhqT0hLcXdHM0VkLXk?oc=5)
 
 2026-11-20 <span class="news-indication-tag">ictus</span>
 

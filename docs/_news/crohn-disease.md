@@ -3,7 +3,7 @@ layout: default
 title: "Morbus Crohn (crohn disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Morbus Crohn (crohn disease). 8 articles, 1 related drugs."
+description: "Health news about Morbus Crohn (crohn disease). 9 articles, 1 related drugs."
 permalink: /news/crohn-disease/
 last_modified_at: 2026-11-20
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Morbus Crohn (crohn disease)?">
-<strong>Morbus Crohn (crohn disease)</strong> currently has <strong>8 news articles</strong> and 1 related drugs.
+<strong>Morbus Crohn (crohn disease)</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “Morbus Crohn” and li
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [Expertenstimme: neue Daten zur endoskopischen Remission beim Morbus Crohn – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZVdwdmVsdjE5cW1MTzJUUjhPLWFHbWl6aUgxTVdjTEdlS011bFlabWp4T2N1ZThpMGVPTVk2MUR0eXo2RG1oaEozLXhkQVpxckVWU2ZFdnpyV0poRXBXTUtXbkdBSGR2NXU3Wmg5YUJTd0p2WkFwbDZXTHZLLXRqSFU1eWpocnQ0VzZCYXVicDcwUHFRbFFzMkp0MldMb1NqWm85d1pGT2hpbmV6MDl2N1piZ1ZwWjlmLTlGVHNuSkN0b3RDcWF6TDluTEpwV2JCdEFndThMOFEyMHVVSFpxZFdZR291UFMtRGZwQQ?oc=5)
+
+2026-11-20
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZVdwdmVsdjE5cW1MTzJUUjhPLWFHbWl6aUgxTVdjTEdlS011bFlabWp4T2N1ZThpMGVPTVk2MUR0eXo2RG1oaEozLXhkQVpxckVWU2ZFdnpyV0poRXBXTUtXbkdBSGR2NXU3Wmg5YUJTd0p2WkFwbDZXTHZLLXRqSFU1eWpocnQ0VzZCYXVicDcwUHFRbFFzMkp0MldMb1NqWm85d1pGT2hpbmV6MDl2N1piZ1ZwWjlmLTlGVHNuSkN0b3RDcWF6TDluTEpwV2JCdEFndThMOFEyMHVVSFpxZFdZR291UFMtRGZwQQ?oc=5)
+
+---
 
 ### [Expertenstimme: neue Daten zur endoskopischen Remission beim Morbus Crohn – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMikgJBVV95cUxNUGJFS2ZwUXl6VE1rUzFBM05BWERWNE1hbnNOcnRfSnBJazZZWU5nNE1LZ29VbmFUQjE5QXVHVXVYbWNGQVZVZENMVEtqYkpkQkFVYnVjajh4MVJScmdjdnVMTEJPcnZWS0puMjUzbzZ4T2M5SjNFOTg3b3g4dmd5VklaMUZhcjk0T05OOEFaYzRHMDlER1NCc3ZzQmdfOTBLdmJWeG9QNkRWamZVVFZhSWFvYkpXQ3BlVHNMaEFSbVVwb2tuWkpZZzJnVEROWTlsUHIxczI3MURUSkNDTzlRbmVjOGQ4Y1hfNGM4TGVvQms0aS02LTJ2NUtYMG1GUFlqQ3MtQW9qX1Y5R1B0dGNpTFh3?oc=5)
 

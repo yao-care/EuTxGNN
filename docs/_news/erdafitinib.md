@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Erdafitinib?">
-<strong>Erdafitinib</strong> currently has <strong>97 news articles</strong>, with 6 predicted indications.
+<strong>Erdafitinib</strong> currently has <strong>98 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,23 @@ This page combines the AI-predicted indications for Erdafitinib with the latest 
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (97)
+## Related News (98)
+
+### [GBA beschließt neue Anforderungen an DMP Rheumatoide Arthritis](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDFQVTJ5eVA3N2ZRSXN0ZVZTT2NjNDBsNUg5VUUybEdIZlZSeXdZWlJYcVpKZkgySkdwbW5KN3N0SXhyTHBPYktQdXN1QzBic3NqSmViOHpFSkNVZmRteU9ldlM5b2lVV2RUU0luekp3akUxQ3Q3bFZYMGZZQ2hXY3VuWVgwLWt4b2RyaHFYQnBoNUYyWnY5bzNmd2syWlhGVGN1VUt4VXkzTk9mVng2UTBtUG0tNHM?oc=5)
+
+2026-11-20 <span class="news-indication-tag">arthritis</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDFQVTJ5eVA3N2ZRSXN0ZVZTT2NjNDBsNUg5VUUybEdIZlZSeXdZWlJYcVpKZkgySkdwbW5KN3N0SXhyTHBPYktQdXN1QzBic3NqSmViOHpFSkNVZmRteU9ldlM5b2lVV2RUU0luekp3akUxQ3Q3bFZYMGZZQ2hXY3VuWVgwLWt4b2RyaHFYQnBoNUYyWnY5bzNmd2syWlhGVGN1VUt4VXkzTk9mVng2UTBtUG0tNHM?oc=5)
+
+---
+
+### ['My frustrating 10-year-wait for arthritis diagnosis'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zWDZGQ19yYVE1Rkg2WTZHXzdYdjVoTk1pWS1TQWd5TXVZN1RwR0RaV05Xeng5cEM4VWZHd1RVTEJKaFZ0MEd4czEwX2dXR3ZOMlRQaG5ZYldtTmJZc2c?oc=5)
+
+2026-11-20 <span class="news-indication-tag">arthritis</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zWDZGQ19yYVE1Rkg2WTZHXzdYdjVoTk1pWS1TQWd5TXVZN1RwR0RaV05Xeng5cEM4VWZHd1RVTEJKaFZ0MEd4czEwX2dXR3ZOMlRQaG5ZYldtTmJZc2c?oc=5)
+
+---
 
 ### [Vaccino antinfluenzale riduce gli infarti: appello dei cardiologi - Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
 
@@ -80,22 +96,6 @@ Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTU
 
 ---
 
-### ['Heightmaxxing': la moda de TikTok que empuja a adolescentes a tomar un fármaco contra el cáncer para crecer - Cadena SER](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVEZ3a2Vfc2duRDk2VmxQZHhfLWJ4WGs5ZlRwQ3ZHdWZpRENTMU5qQ01wbW1vNXBJZDNxS0pTNjhaa3FjTjZYWlZ5VEpyRWhlYm02bzNNTi12ZVJqeEZ2SzhBLThVWVp1cVlZb2lHWkY1MXk3MVF6WkdGaVA5bjNFZzdxcUgtVjEybkdRXy0yYTFWTEtndmRrV21fR2JLdTREZmNEaE05OEZQMEl3WjNQbkJYVlY3SlpFbmlNZktFMDJTd3R1eWU4blMxQV96VllQWlp0ejIweWlUR1E5M295OWhHLS1IaUhtR0VFT096MELSAYQCQVVfeXFMTlpKOElZVFJUUU5qcnY3ZDc5NEZFczlhSk1ES0ZTV0ZIelhiYXFZd0JZLTVCTEkzTnBic04tVjluT0FyOFpFd0ZWU2NEYkl3dXJsOUVqbXpIZWFITHYxaENPRXNTRlNYZkg1cERZazdWX0Z1Zlp2aEFzWVRIaFJzRG9tb2Y5dzJ6Ymd0bC1vQ2xPa1pPX2RTXzlIQUtyeWRoam5IX2lXSzFrOUZjX1d2VWFyaWZtbGdWdnIxWHMtSVNWTXZNdlNFaHZkR1NRVTVEQnVhQUFNMDRZZTd5U1JJQlZwYUpNWGFCVlZnM04zeGFONGJubjR2cW9JZjZwcl9leUVraXM?oc=5)
-
-2026-11-18 <span class="news-drug-tag">Erdafitinib</span>
-
-Source: [Cadena SER](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVEZ3a2Vfc2duRDk2VmxQZHhfLWJ4WGs5ZlRwQ3ZHdWZpRENTMU5qQ01wbW1vNXBJZDNxS0pTNjhaa3FjTjZYWlZ5VEpyRWhlYm02bzNNTi12ZVJqeEZ2SzhBLThVWVp1cVlZb2lHWkY1MXk3MVF6WkdGaVA5bjNFZzdxcUgtVjEybkdRXy0yYTFWTEtndmRrV21fR2JLdTREZmNEaE05OEZQMEl3WjNQbkJYVlY3SlpFbmlNZktFMDJTd3R1eWU4blMxQV96VllQWlp0ejIweWlUR1E5M295OWhHLS1IaUhtR0VFT096MELSAYQCQVVfeXFMTlpKOElZVFJUUU5qcnY3ZDc5NEZFczlhSk1ES0ZTV0ZIelhiYXFZd0JZLTVCTEkzTnBic04tVjluT0FyOFpFd0ZWU2NEYkl3dXJsOUVqbXpIZWFITHYxaENPRXNTRlNYZkg1cERZazdWX0Z1Zlp2aEFzWVRIaFJzRG9tb2Y5dzJ6Ymd0bC1vQ2xPa1pPX2RTXzlIQUtyeWRoam5IX2lXSzFrOUZjX1d2VWFyaWZtbGdWdnIxWHMtSVNWTXZNdlNFaHZkR1NRVTVEQnVhQUFNMDRZZTd5U1JJQlZwYUpNWGFCVlZnM04zeGFONGJubjR2cW9JZjZwcl9leUVraXM?oc=5)
-
----
-
-### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
-
-2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
-
----
-
 ### [Un bulo de TikTok en EE.UU. sugiere tomar un fármaco contra un cáncer para ser más alto - La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnRpLUNTcWdHZTY1MUk2MGthbDI3X01uVXBtbmd4Q1FBUmc3T004Y0ZNSnppT25BejFiRlNPc2VoekpwZXFqY1hma1hRQUhJZ2Jvb050OHFHWjQwS25iOUNQc3dlYkNNM0dOZ2Q2NVhiZTlkZy1iOS0yeWVfWHpWNTdkSDc3dzY5ZzNTeFZDQTJBdE13NUpxSjlIU01vZlU0QWRWMUpQNjZERkxzTW50Tzln0gG3AUFVX3lxTE5FWHhOZkZZck92MjFJSXdEc3E5YXBXdkxwQVNDMmdJejV2eEZJV0JlZWlhU0JQejRVSU9DTUE2MEwwQkVKeEhvOVh1ZU56T2JWdnduRUtaSWdjSTBRZDd3OUw1UDM1ZXlldTdNUWt3X3pXYlBKajNYakpvYUxvODJmNWx6VVlGSFBLRTduMUdsdEw4VkgteHd5aUNzV0ZyR3oyZ3YzbnlkaUxsdUE3NmZ2YUNIN1ducw?oc=5)
 
 2026-11-18 <span class="news-drug-tag">Erdafitinib</span>
@@ -133,6 +133,14 @@ Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkNJYV
 2026-11-16 <span class="news-drug-tag">Erdafitinib</span>
 
 Source: [Diario de Sevilla](https://news.google.com/rss/articles/CBMizAFBVV95cUxOT040S1NHQkZQUUxZUzU3ZHEzS2dvcWVMTndOdDhQYnNqenhHcHpQUlR6Uzg1VEx2Nk1KVmFTOXdQU0hTX2szcDcyWUNIT0g0cUxNM2M3d2hncTNjZll0LVlkQ0VjWTE2U0RHS2d5X0pIRFYtT3Q2eHEzSHhWemppQ2k2LXFpQlhmc2M3d1ZGSmtWS0VBRnctZDJuQWxjYW9NUjN3RGJ6UTc2cHZFZTE2TjJkUHM3RU5IQl9SMEJOQkhxY2NvVnlNYmRfMTTSAdIBQVVfeXFMUFFfOFUzeWt3UVNGTTJndlRfWERYZTQ5TEs2SlZkSFhSd1dFdnQyN29tZzN3S0VHWTNtckQ0M1p0Q2s1ZXJxZmExZmtaWlFVa244NkdtRFNYeEpzcVFQMlJjYW1pN3JDRHEzQXJMUUs1a25hOTQxeGVZVkllMWFfWEREcW1CN1I1WjhDX2g5U2Rob2Q2LS0zSmhRQ2pTN291RmVLR2UyOUlWTVlOV0NLaG1rTHV0WDJnNTdXa0NHME9JRWV5Y3FpZ3E3MWZIV0xidDB3?oc=5)
+
+---
+
+### [The 2 Ingredients You Should Add to Your Oatmeal to Help Lower Cholesterol - Verywell Health](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVdfZlFxM0VXSnhyOFZkNGRzdlBMSUZOcWpsR3B4VDcyMUlhTWM4dkNLZW9OQTNuTTdyWVpYdUFMU2pCN0lqeG1yR1hEaENDeTkyV0YwMlpRa2tlejFFOVBuOExnU0szWnR5eDgtSzNjOUJNR0VVcWdab09CY0tfSGJ1SmdveU1B?oc=5)
+
+2026-11-16 <span class="news-indication-tag">heart disease</span>
+
+Source: [Verywell Health](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVdfZlFxM0VXSnhyOFZkNGRzdlBMSUZOcWpsR3B4VDcyMUlhTWM4dkNLZW9OQTNuTTdyWVpYdUFMU2pCN0lqeG1yR1hEaENDeTkyV0YwMlpRa2tlejFFOVBuOExnU0szWnR5eDgtSzNjOUJNR0VVcWdab09CY0tfSGJ1SmdveU1B?oc=5)
 
 ---
 

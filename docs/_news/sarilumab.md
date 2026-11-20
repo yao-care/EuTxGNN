@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>48 news articles</strong>, with 0 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>52 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,39 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (48)
+## Related News (52)
+
+### [GBA beschließt neue Anforderungen an DMP Rheumatoide Arthritis](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDFQVTJ5eVA3N2ZRSXN0ZVZTT2NjNDBsNUg5VUUybEdIZlZSeXdZWlJYcVpKZkgySkdwbW5KN3N0SXhyTHBPYktQdXN1QzBic3NqSmViOHpFSkNVZmRteU9ldlM5b2lVV2RUU0luekp3akUxQ3Q3bFZYMGZZQ2hXY3VuWVgwLWt4b2RyaHFYQnBoNUYyWnY5bzNmd2syWlhGVGN1VUt4VXkzTk9mVng2UTBtUG0tNHM?oc=5)
+
+2026-11-20 <span class="news-indication-tag">arthritis</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDFQVTJ5eVA3N2ZRSXN0ZVZTT2NjNDBsNUg5VUUybEdIZlZSeXdZWlJYcVpKZkgySkdwbW5KN3N0SXhyTHBPYktQdXN1QzBic3NqSmViOHpFSkNVZmRteU9ldlM5b2lVV2RUU0luekp3akUxQ3Q3bFZYMGZZQ2hXY3VuWVgwLWt4b2RyaHFYQnBoNUYyWnY5bzNmd2syWlhGVGN1VUt4VXkzTk9mVng2UTBtUG0tNHM?oc=5)
+
+---
+
+### [El cielo de Barcelona se llena de drones para dar visibilidad a la EPOC](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVZlNDVHc3ctcGZzcHo4dTdUMFhDUlllb2ZvOXF2LTlOSDEtQ3RMbFFnMjdWLVh6ZE91ak5ja3dSWmktM3JoMEJ0OHJvZVRGdmlpTkQwQ29KMUt3RnpoVk5NdlhURjBxVzZ3QjVScmYzX2Y1Y0RWb0VBN1RJa3dvODBOREVVdjYtQlFzdjlfVmthaDNFbVlyUWdIcUhfYWNqUFJpRtIBqgFBVV95cUxQcG9NSkdCbkt3MmZ5WDRsNjhVOUJWcjBkSGlncjhCQW1VaktCWVlwQzBPcGVLWGdLcTF5ZlgwZ2lJRS1mSnJTLURwMnpHN3NMZC1NeGh6QUhQdnl2UE9MN1BFZXAzRHZJdVNrajVWT3M3Z0U1cjRlZ3JRS29UVlB2MUV1Qlk3N09DdkVvaFg0YXBaREM1NWVXN0VMYnlTZGNYUDlTX0lfU1Fodw?oc=5)
+
+2026-11-20 <span class="news-indication-tag">EPOC</span>
+
+Source: [Canarias7](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVZlNDVHc3ctcGZzcHo4dTdUMFhDUlllb2ZvOXF2LTlOSDEtQ3RMbFFnMjdWLVh6ZE91ak5ja3dSWmktM3JoMEJ0OHJvZVRGdmlpTkQwQ29KMUt3RnpoVk5NdlhURjBxVzZ3QjVScmYzX2Y1Y0RWb0VBN1RJa3dvODBOREVVdjYtQlFzdjlfVmthaDNFbVlyUWdIcUhfYWNqUFJpRtIBqgFBVV95cUxQcG9NSkdCbkt3MmZ5WDRsNjhVOUJWcjBkSGlncjhCQW1VaktCWVlwQzBPcGVLWGdLcTF5ZlgwZ2lJRS1mSnJTLURwMnpHN3NMZC1NeGh6QUhQdnl2UE9MN1BFZXAzRHZJdVNrajVWT3M3Z0U1cjRlZ3JRS29UVlB2MUV1Qlk3N09DdkVvaFg0YXBaREM1NWVXN0VMYnlTZGNYUDlTX0lfU1Fodw?oc=5)
+
+---
+
+### ['My frustrating 10-year-wait for arthritis diagnosis'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zWDZGQ19yYVE1Rkg2WTZHXzdYdjVoTk1pWS1TQWd5TXVZN1RwR0RaV05Xeng5cEM4VWZHd1RVTEJKaFZ0MEd4czEwX2dXR3ZOMlRQaG5ZYldtTmJZc2c?oc=5)
+
+2026-11-20 <span class="news-indication-tag">arthritis</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zWDZGQ19yYVE1Rkg2WTZHXzdYdjVoTk1pWS1TQWd5TXVZN1RwR0RaV05Xeng5cEM4VWZHd1RVTEJKaFZ0MEd4czEwX2dXR3ZOMlRQaG5ZYldtTmJZc2c?oc=5)
+
+---
+
+### [Expertenstimme: neue Daten zur endoskopischen Remission beim Morbus Crohn – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZVdwdmVsdjE5cW1MTzJUUjhPLWFHbWl6aUgxTVdjTEdlS011bFlabWp4T2N1ZThpMGVPTVk2MUR0eXo2RG1oaEozLXhkQVpxckVWU2ZFdnpyV0poRXBXTUtXbkdBSGR2NXU3Wmg5YUJTd0p2WkFwbDZXTHZLLXRqSFU1eWpocnQ0VzZCYXVicDcwUHFRbFFzMkp0MldMb1NqWm85d1pGT2hpbmV6MDl2N1piZ1ZwWjlmLTlGVHNuSkN0b3RDcWF6TDluTEpwV2JCdEFndThMOFEyMHVVSFpxZFdZR291UFMtRGZwQQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">Morbus Crohn</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZVdwdmVsdjE5cW1MTzJUUjhPLWFHbWl6aUgxTVdjTEdlS011bFlabWp4T2N1ZThpMGVPTVk2MUR0eXo2RG1oaEozLXhkQVpxckVWU2ZFdnpyV0poRXBXTUtXbkdBSGR2NXU3Wmg5YUJTd0p2WkFwbDZXTHZLLXRqSFU1eWpocnQ0VzZCYXVicDcwUHFRbFFzMkp0MldMb1NqWm85d1pGT2hpbmV6MDl2N1piZ1ZwWjlmLTlGVHNuSkN0b3RDcWF6TDluTEpwV2JCdEFndThMOFEyMHVVSFpxZFdZR291UFMtRGZwQQ?oc=5)
+
+---
 
 ### [Expertenstimme: neue Daten zur endoskopischen Remission beim Morbus Crohn – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMikgJBVV95cUxNUGJFS2ZwUXl6VE1rUzFBM05BWERWNE1hbnNOcnRfSnBJazZZWU5nNE1LZ29VbmFUQjE5QXVHVXVYbWNGQVZVZENMVEtqYkpkQkFVYnVjajh4MVJScmdjdnVMTEJPcnZWS0puMjUzbzZ4T2M5SjNFOTg3b3g4dmd5VklaMUZhcjk0T05OOEFaYzRHMDlER1NCc3ZzQmdfOTBLdmJWeG9QNkRWamZVVFZhSWFvYkpXQ3BlVHNMaEFSbVVwb2tuWkpZZzJnVEROWTlsUHIxczI3MURUSkNDTzlRbmVjOGQ4Y1hfNGM4TGVvQms0aS02LTJ2NUtYMG1GUFlqQ3MtQW9qX1Y5R1B0dGNpTFh3?oc=5)
 

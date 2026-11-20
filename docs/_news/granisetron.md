@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Granisetron?">
-<strong>Granisetron</strong> currently has <strong>39 news articles</strong>, with 10 predicted indications.
+<strong>Granisetron</strong> currently has <strong>41 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Granisetron with the latest 
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (39)
+## Related News (41)
+
+### [El cielo de Barcelona se llena de drones para dar visibilidad a la EPOC](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVZlNDVHc3ctcGZzcHo4dTdUMFhDUlllb2ZvOXF2LTlOSDEtQ3RMbFFnMjdWLVh6ZE91ak5ja3dSWmktM3JoMEJ0OHJvZVRGdmlpTkQwQ29KMUt3RnpoVk5NdlhURjBxVzZ3QjVScmYzX2Y1Y0RWb0VBN1RJa3dvODBOREVVdjYtQlFzdjlfVmthaDNFbVlyUWdIcUhfYWNqUFJpRtIBqgFBVV95cUxQcG9NSkdCbkt3MmZ5WDRsNjhVOUJWcjBkSGlncjhCQW1VaktCWVlwQzBPcGVLWGdLcTF5ZlgwZ2lJRS1mSnJTLURwMnpHN3NMZC1NeGh6QUhQdnl2UE9MN1BFZXAzRHZJdVNrajVWT3M3Z0U1cjRlZ3JRS29UVlB2MUV1Qlk3N09DdkVvaFg0YXBaREM1NWVXN0VMYnlTZGNYUDlTX0lfU1Fodw?oc=5)
+
+2026-11-20 <span class="news-indication-tag">EPOC</span>
+
+Source: [Canarias7](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVZlNDVHc3ctcGZzcHo4dTdUMFhDUlllb2ZvOXF2LTlOSDEtQ3RMbFFnMjdWLVh6ZE91ak5ja3dSWmktM3JoMEJ0OHJvZVRGdmlpTkQwQ29KMUt3RnpoVk5NdlhURjBxVzZ3QjVScmYzX2Y1Y0RWb0VBN1RJa3dvODBOREVVdjYtQlFzdjlfVmthaDNFbVlyUWdIcUhfYWNqUFJpRtIBqgFBVV95cUxQcG9NSkdCbkt3MmZ5WDRsNjhVOUJWcjBkSGlncjhCQW1VaktCWVlwQzBPcGVLWGdLcTF5ZlgwZ2lJRS1mSnJTLURwMnpHN3NMZC1NeGh6QUhQdnl2UE9MN1BFZXAzRHZJdVNrajVWT3M3Z0U1cjRlZ3JRS29UVlB2MUV1Qlk3N09DdkVvaFg0YXBaREM1NWVXN0VMYnlTZGNYUDlTX0lfU1Fodw?oc=5)
+
+---
 
 ### [Influenza e BPCO, il rischio di un peggioramento che lascia il segno](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWpyTnoxTTRPWlhyRDRvUzU0a2lOTktnWVRuSkc2NXJhX1d1blBOSDZyR0JQMW4tNktFcjJNejFUdlhuVFppTmNITlVFeHZDeTZ3UEhYcWwyTFFZSGplMUtvSjhWVWJDWDBUb0p1T1hYdG1CVEVmSmJKV3NvRkdzZUJJZ3E4QUIxZVdnRzRXcklJVDB0VG42elpUY3ZMV0tVSUZ3cmVEMEdPdjgyX08tNDgzdmpZbFBYTlE?oc=5)
 
@@ -57,6 +65,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWpy
 2026-11-19 <span class="news-indication-tag">EPOC</span>
 
 Source: [Onda Cero](https://news.google.com/rss/articles/CBMiowJBVV95cUxQTERqYzFvcjF5WVcxTFZaSkxOTEp2dEJ6bXZXTks3eDVGVkJhUU15ZTFXaklSWmlYV19HWFV6MG8yc2FncnNHTU5Hb2hjSmtqLXFPMXZNYWRCdW9RalhGeDQxbF9lMW13STJtSXltUlh0Zk5xMzhjUXBGbjAtTUR6U2pUc2VUS0NFMUhBOC1naFh4RFBvQU9lU1E4S0htV21lV1JsUDlzNVdySFhOSFBtbzJXeThlTlJ5dkZmR040NkNvam9vZ3VsU2RLb3dCR1RQUUpFNFFIRi1fUHlhNFkwTE5SQS1hWFJ2Snp5aElueGpQdmRTUkFCcXRManJ3R0Z1ZjJhZllQaWpaalhzZktVRFBlVklfcHR6cXdkMHE2dllDV1k?oc=5)
+
+---
+
+### [Vorhofflimmern bei Frauen: Diese Symptome werden oft übersehen](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR25ZVWZBV1I5aXZ1UEhxbk1wNks2YkRITndwYTQ5NEpvMDg1LTg4c3NlbVRoemxFYXQ4N3lOb216ejlvSk40SHEzMmRvMGpIcDFpSlo5SEJaV09WeW5SZjBRNUw0RjIzVlhnUm5wZnpMZnBwY2xUTHJjdjJ4UzZxbFJ0V1M3RC13OGJHU1dxODdsa0gyaWZBeFNTbE9PUjA?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR25ZVWZBV1I5aXZ1UEhxbk1wNks2YkRITndwYTQ5NEpvMDg1LTg4c3NlbVRoemxFYXQ4N3lOb216ejlvSk40SHEzMmRvMGpIcDFpSlo5SEJaV09WeW5SZjBRNUw0RjIzVlhnUm5wZnpMZnBwY2xUTHJjdjJ4UzZxbFJ0V1M3RC13OGJHU1dxODdsa0gyaWZBeFNTbE9PUjA?oc=5)
 
 ---
 
@@ -78,7 +94,7 @@ Source: [food-monitor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcE03
 
 ### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 
-2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 

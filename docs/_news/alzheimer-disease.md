@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Alzheimer's (alzheimer disease) News"
+title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Alzheimer's (alzheimer disease). 52 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 54 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 last_modified_at: 2026-11-20
 ---
 
-# Alzheimer's (alzheimer disease) News
+# dementia (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
-<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>52 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
+<strong>dementia (alzheimer disease)</strong> currently has <strong>54 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Alzheimer's” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ This page brings together the latest health news about “Alzheimer's” and lis
 </ul>
 </div>
 
-## Related News (52)
+## Related News (54)
+
+### [People entering old age now have better memory than their parents did](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUUNlNUZrMjcyOXREdHVsLWRLaTR6S2tNbGNJSzkzZVNMeVZNaUtBNkNQQ0Mta0tlMnNlOVlsS21RYWV2amJKWFdNdC1wdTNwSTFBYlBVdjZJ?oc=5)
+
+2026-11-19
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUUNlNUZrMjcyOXREdHVsLWRLaTR6S2tNbGNJSzkzZVNMeVZNaUtBNkNQQ0Mta0tlMnNlOVlsS21RYWV2amJKWFdNdC1wdTNwSTFBYlBVdjZJ?oc=5)
+
+---
 
 ### [Your brain may be hiding Alzheimer’s from you – and that’s not always a good thing - The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE1Nb29pV1JXRXMwMjRXbjZBLUx6cVN2Vjk4Y3dleUJ3QmpGakVKeFdRTGhyTmYxUENzLVdkZUJJcU5YLVVvTHFGeTBGREZEbjQxTWtJVWs0dUJLeWFwU0VWdUdhOVRZMTlreVNIRzdGYkpVTnpPaFpEU2E2UWpPUDJyN1hLNXBqaHFpa2ZfT29KVVBqQXc1Q0N2aDFJTDhlbVlNNm02OUVyU3p6SXd5QnJtYw?oc=5)
 
@@ -83,6 +91,14 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNb
 2026-11-17
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxORmNBdzdMLWhFck9DTlJvdFFfWWxxR2RDd09OQ3BkN0lfSEhLcFBZWW1wOWhqU2ZzWlE3VjlkSkIwb0pOeE0zTlBtMEpxUm5wX00zVENiRHF6NUJUZW5QeFNjUGVYVWl6VWs5T3dBclhrMWRrd2xSUm1UZno5Zm9VdE9kbkFJOVZCQlFNaFdJbkVvZ2Zkc0ZkZ3hmYmJURmpFWWxvdV9ZSQ?oc=5)
+
+---
+
+### [When Laura was diagnosed with dementia at 53, her teenage girls gave up everything to care for her... - Daily Mail](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnhvMUkyU0NtXzBZQVF1eUMzS1A5OHR3eG5zay1MWEtSZUhGNVV4MXhBQTZ4RndXTWQyOHRYUXhwS2pYUTFDRUh6LVFRazByZER5enZNXzdpMnRqSTBjaXRLWDdUSThlc0ZMSUVxLU82MFl5LUxhb2wxbEtVNHVsRjNZRnA0N0FzaG5SYktaUVVhYXdqSGlB?oc=5)
+
+2026-11-17
+
+Source: [Daily Mail](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnhvMUkyU0NtXzBZQVF1eUMzS1A5OHR3eG5zay1MWEtSZUhGNVV4MXhBQTZ4RndXTWQyOHRYUXhwS2pYUTFDRUh6LVFRazByZER5enZNXzdpMnRqSTBjaXRLWDdUSThlc0ZMSUVxLU82MFl5LUxhb2wxbEtVNHVsRjNZRnA0N0FzaG5SYktaUVVhYXdqSGlB?oc=5)
 
 ---
 

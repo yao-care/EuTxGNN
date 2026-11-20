@@ -43,6 +43,14 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 
 ## Related News (68)
 
+### [Ribavirin-Therapie: Risikofaktoren für komplizierte Verläufe bei chronischer Hepatitis E](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmo3NFZ0SXRwWGZ0SjFlUy1NaHpzamwyWWh2MW03djVRYnBIeUFuT0NxcURDU00wOXc0blJBdHpHSVlzSTdCOXRyLVBnUWdEQVVEMDhFS3ZoRjlidk0zdTR1TWY5YlU3aDA2U2RacVlhMmp1TkRvb2RBU2x4LWpHRWNSbVFPRlA0ekRyelZyaTdmVFZTblhEVUd2Y1BvazJ5Z0E?oc=5)
+
+2026-11-20 <span class="news-indication-tag">hepatitis</span>
+
+Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmo3NFZ0SXRwWGZ0SjFlUy1NaHpzamwyWWh2MW03djVRYnBIeUFuT0NxcURDU00wOXc0blJBdHpHSVlzSTdCOXRyLVBnUWdEQVVEMDhFS3ZoRjlidk0zdTR1TWY5YlU3aDA2U2RacVlhMmp1TkRvb2RBU2x4LWpHRWNSbVFPRlA0ekRyelZyaTdmVFZTblhEVUd2Y1BvazJ5Z0E?oc=5)
+
+---
+
 ### [Hepatitis-C: Heilbar – aber oft unentdeckt](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDI5YmZVbDlGUHA3VTRVbHNiQ015M3JGeVF5Q2ZnLWxMNE1RTmJRcF9OOUdTczlGXzZpWVZxV0dBcFVHMlFQZG1HdXFfWmNUUTlTNTc1TEZpdjA1NWMxcDhCSjJNajc0dkY5RFU1Ni05a0twTlBfNlJXTzVkczVQOXdGbE1lLU9mVm9MaGc1dFBMbmh4dE5PVnJLWQ?oc=5)
 
 2026-11-19 <span class="news-indication-tag">hepatitis</span>
@@ -88,14 +96,6 @@ Source: [CataniaToday](https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmxM
 2026-11-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
-
----
-
-### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
-
-2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 
 ---
 
