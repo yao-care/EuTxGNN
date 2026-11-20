@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "diabetic (diabetes mellitus) News"
+title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetic (diabetes mellitus). 265 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 270 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 last_modified_at: 2026-11-19
 ---
 
-# diabetic (diabetes mellitus) News
+# diabetes (diabetes mellitus) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about diabetic (diabetes mellitus)?">
-<strong>diabetic (diabetes mellitus)</strong> currently has <strong>265 news articles</strong> and 86 related drugs.
+<p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>270 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “diabetic” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “diabetes” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -65,7 +65,39 @@ This page brings together the latest health news about “diabetic” and lists 
 </ul>
 </div>
 
-## Related News (265)
+## Related News (270)
+
+### [La IA podría cambiar el monitoreo de la diabetes: lanzan un sensor que predice el riesgo de hipoglucemia durante el sueño](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRzlMdThCaW41cHVEYWZTQXVULUlwcHBkQ29oOFA1OFl3bF9XRmVEUDFpX0hwVjRXOFFxWUtVeHp6UXZLX3FFN0tDSGx2b2VySUh4NDJVQUxXVDhiM2FxbHVyY244YWVNd1hveWxabkNucGF3QkVabTNZYl9zdFhZcGxqUk5XZlBheGZQYU1Qd0RlRklHMXdCZHgtZjNSWV82YktUY2VEeHlwdmlNR0tNYV9TLXA3QWlMNHNJbzFiOGJpcV9YMDF3eGJQN3R4NWRoZXNudm1BTWVBYXU3M2J2a1VhTUVtQQ?oc=5)
+
+2026-11-19
+
+Source: [WIRED](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRzlMdThCaW41cHVEYWZTQXVULUlwcHBkQ29oOFA1OFl3bF9XRmVEUDFpX0hwVjRXOFFxWUtVeHp6UXZLX3FFN0tDSGx2b2VySUh4NDJVQUxXVDhiM2FxbHVyY244YWVNd1hveWxabkNucGF3QkVabTNZYl9zdFhZcGxqUk5XZlBheGZQYU1Qd0RlRklHMXdCZHgtZjNSWV82YktUY2VEeHlwdmlNR0tNYV9TLXA3QWlMNHNJbzFiOGJpcV9YMDF3eGJQN3R4NWRoZXNudm1BTWVBYXU3M2J2a1VhTUVtQQ?oc=5)
+
+---
+
+### [Vaccino antinfluenzale riduce gli infarti: appello dei cardiologi - Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
+
+2026-11-19
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
+
+---
+
+### [Kurze Spaziergänge statt langer Walk: bessere Blutzucker-Regulation - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkZJOFlRUVBsMW45UGNEYVdEY0R6aHJhUW1rdXR4R0pKU0JrV0lFQkRqMWxuQjJ0aTUyUUdCc0prUFg2dndNMWZuNlNLSjFxM05HdXVXN0txMlp0NWZrWF9DTVhEWkZab2JsUmgxVjhLWEJuMjNscEJhanZVYnpnQ1ZkTE93bFA4QjNaWkRIdmQ3NlJhMUdFOWVwU1FRRU9B?oc=5)
+
+2026-11-19
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkZJOFlRUVBsMW45UGNEYVdEY0R6aHJhUW1rdXR4R0pKU0JrV0lFQkRqMWxuQjJ0aTUyUUdCc0prUFg2dndNMWZuNlNLSjFxM05HdXVXN0txMlp0NWZrWF9DTVhEWkZab2JsUmgxVjhLWEJuMjNscEJhanZVYnpnQ1ZkTE93bFA4QjNaWkRIdmQ3NlJhMUdFOWVwU1FRRU9B?oc=5)
+
+---
+
+### [Aktualisierung der S3-Leitlinie: Neue Empfehlungen zur Behandlung von Schwangeren mit Gestationsdiabetes mellitus - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yWDVERXZ0MHNQNEdsNmpkcjBXLU5ESGZuSWxPNFRDUXFQZFFoYkJwSW9jQXRBaUF4aU92MW9VdzB6MjJUMHRzdTZSTQ?oc=5)
+
+2026-11-19
+
+Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yWDVERXZ0MHNQNEdsNmpkcjBXLU5ESGZuSWxPNFRDUXFQZFFoYkJwSW9jQXRBaUF4aU92MW9VdzB6MjJUMHRzdTZSTQ?oc=5)
+
+---
 
 ### [Monselice, medico introvabile e anziana diabetica con una sola dose di insulina: «Pazienti in lacrime» - Il Gazzettino](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX0pRVDc1YUJTdWNPUTNiNThZNDBhNk5YUjliLTZmMlJpREVLOFJndnJmRlgyZkxqMlZwTW53T1ZoWjkzQ0tFRGdPbERudldGY3dDeXpmSW5QMWFfR29qRDVCallsNllKUUtwaW0xaVdFbUZvVFh1OGQwQUhfclBZM1lsczFpZks0dXVSWUpWWFBIaGctWXFYb2VocGJrVTZ0ay1XaTE1OTl0YTRDbGRLeWtQcTBrZGFmaTlDSzYtcC16ekVJam9hVlEwYXR2aUkyejM40gHPAUFVX3lxTE5TeGZJOWpJbnNidGgxTHAyeXR2cUp1VkhPSFhUUmE0N1oxcHFhRHM2RDl0d0NtT1JpLUswd2E4TUcyUFVjcGs1UUhZUlhCTkViVXlEcTd0UWRtUDA0R0s3OENGRjdxOVRwcVBkNDg1ZTRjaWpBNWhYT1ZtekFkbGV2Njg4RUhNRjQyRTFMT3h2UVNDQ2NvMlFuR2h4MzBQWHVMbG1ESlpybk92dW1yWW50aWJGeHFObFBTOWhZeExWeXJMOWlab3d2QWtaQzl3Yw?oc=5)
 
@@ -75,11 +107,11 @@ Source: [Il Gazzettino](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX0p
 
 ---
 
-### [Aktualisierung der S3-Leitlinie: Neue Empfehlungen zur Behandlung von Schwangeren mit Gestationsdiabetes mellitus - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yWDVERXZ0MHNQNEdsNmpkcjBXLU5ESGZuSWxPNFRDUXFQZFFoYkJwSW9jQXRBaUF4aU92MW9VdzB6MjJUMHRzdTZSTQ?oc=5)
+### [Anticipar el diagnóstico de la retina evita pérdidas de visión irreversibles - El Economista](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbFN1VkdPekw5eFY2Vy1iTG9qZ3AtODlJZGVsOUhwZnNaU3ZOTkJiSDd0cEVUT3drbEFja0xSVVRtamNwc3Awc0ZUNDRST3ZoelRTZjdESjJGd0tQVzZqRy13Z2pLLVNDZWhxbThJTUZCeDJPY1QtNlhiVlN1d0tmeEwxcjhBY1AzcXg1dllpSlZiUkdyakVTaDhOSEJ2Um1sSzAtZ2NqM1pjcjlmV1hxVDVsTVUzS1k3Q2ZHM3F0UGpTYWYtUjhJSlhWdUpDaVV0eGk2NzlMWkdDOGliOVlDSFNWZw?oc=5)
 
 2026-11-19
 
-Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yWDVERXZ0MHNQNEdsNmpkcjBXLU5ESGZuSWxPNFRDUXFQZFFoYkJwSW9jQXRBaUF4aU92MW9VdzB6MjJUMHRzdTZSTQ?oc=5)
+Source: [El Economista](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbFN1VkdPekw5eFY2Vy1iTG9qZ3AtODlJZGVsOUhwZnNaU3ZOTkJiSDd0cEVUT3drbEFja0xSVVRtamNwc3Awc0ZUNDRST3ZoelRTZjdESjJGd0tQVzZqRy13Z2pLLVNDZWhxbThJTUZCeDJPY1QtNlhiVlN1d0tmeEwxcjhBY1AzcXg1dllpSlZiUkdyakVTaDhOSEJ2Um1sSzAtZ2NqM1pjcjlmV1hxVDVsTVUzS1k3Q2ZHM3F0UGpTYWYtUjhJSlhWdUpDaVV0eGk2NzlMWkdDOGliOVlDSFNWZw?oc=5)
 
 ---
 
@@ -104,6 +136,14 @@ Source: [Infodiabético](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYV
 2026-11-18
 
 Source: [ARD Mediathek](https://news.google.com/rss/articles/CBMickFVX3lxTE9QZ1NGdnpTVjRzLWlXSWdYajU0eDRNWjNCNWFzN0pVdUlYaG80cU5aMXNycXdhWDI5WEd1VnAwNkxMR0c3aV90V2RHZGh6X21ZcExtQ0N1SU12WjZaOENSYk5KV0ZqSWE3dlpsWlRCakZkUQ?oc=5)
+
+---
+
+### [La Asociacion Diabetes Elche incide en la importancia del apoyo psicológico ante el diagnostico - Onda Cero](https://news.google.com/rss/articles/CBMihwJBVV95cUxNdFI4Njd4UEx6VElaMmhCTTZESExkUHJValhQNmtmTmRJbUhLcXk2a3lxanlxM0dNNVFPOUVNT3FqMXZjWVZMbmNxSEZlcjdRSDgxY2ppdW11cVB6dEExa1Q4MWgzS2UycnF0Y3ZETjJ0cWdsUjM1UEhDTFpxMWpVbjZJdVR3VERpb1pEUW9QMmJIWUR3WHhIcmlQSFZGdFB3Wms4RkI2ekVHSGZMQnRzc01sMkZkcmtGOHZqQ2oxMWtTbVpVUkNYNkY0WkV0YVVlZXJNYkl1VmdVdWs4TVZGM0dpUE1IOVdzSVZBYl85cmRGMV9yRzlEUnpOeXh3WjdlOXJOTGpqNA?oc=5)
+
+2026-11-18
+
+Source: [Onda Cero](https://news.google.com/rss/articles/CBMihwJBVV95cUxNdFI4Njd4UEx6VElaMmhCTTZESExkUHJValhQNmtmTmRJbUhLcXk2a3lxanlxM0dNNVFPOUVNT3FqMXZjWVZMbmNxSEZlcjdRSDgxY2ppdW11cVB6dEExa1Q4MWgzS2UycnF0Y3ZETjJ0cWdsUjM1UEhDTFpxMWpVbjZJdVR3VERpb1pEUW9QMmJIWUR3WHhIcmlQSFZGdFB3Wms4RkI2ekVHSGZMQnRzc01sMkZkcmtGOHZqQ2oxMWtTbVpVUkNYNkY0WkV0YVVlZXJNYkl1VmdVdWs4TVZGM0dpUE1IOVdzSVZBYl85cmRGMV9yRzlEUnpOeXh3WjdlOXJOTGpqNA?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>32 news articles</strong>, with 0 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>33 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,11 +30,19 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (32)
+## Related News (33)
+
+### [GLP-1, la nota dell'Ema sul tirzepatide: necessari contraccettivi aggiuntivi per 4 settimane. Ecco perché - Corriere della Sera](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPRjNLWmRySXdvaHprUGZrQnQ4T1N3VnRtUFZtTDlQSTc4ODQyWUNmYnZoN1JOMkRMLWRRNHl5VmprWW83aWlWOUdEemI5aVUySW1jaGRkZlAtb0FiamZOZTlDWWNWMEFHY21uc0I3QzZHVk1JUTdRSktCdXVobW5XT0tzejY1OVVoVVYwNmpySDlmc2d4YW04d29wSlRQME53SWVzSllDSS1lRk5KbmlRVExzUjNLbEViNGU4QW9oaHBfY3ZaWEZ6MHRSbjllbDBYZ2R1TXZqQjNleTB1c0RrcEtNWDVsWllYazlhaF9aR25mVGFEZl8xRk03MmplOWtmNVpRTGFkRTdmWWM1UDJIM3J4T3hUOEg1WDJFYXk0WUUyM2VBODhoQUh30gGvAkFVX3lxTE03S05qZ1ljY2JIZG85THRBajc1aWxnSkpXbmp4WDFQSzMwQkM2SHhLbi1Jd1h2R0dNODFwS2dua2lFUXBHVEp3eUZQaU5tX3pVbG9ZSFZ2NERVdmxITVgwLTR1Z21VUUowbExQR3VtLVB6Z2ZoV1NWNWNtbFJTRGR1MFc1VDdiWEZyRDVibWt2c2lUdFBkcFNTY3NqTGpzM0RqSlZCeFFFR1Z3MnI4RkhWdndteGllYVF5bEJOUXplLUcwQWRoakl5UDVBWkstYXF4X3pQVC1lRllUbjJISlo1dmtJajJDNTFmV2R0X3dPMzRqSG9FN3ZGbENnUkx6V2wtUkJYN3EwcVE4aW9oY1pzemt6a25CY0xCT1hReUFOYkozZEZZN0s5bkJpdXpMZw?oc=5)
+
+2026-11-19 <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPRjNLWmRySXdvaHprUGZrQnQ4T1N3VnRtUFZtTDlQSTc4ODQyWUNmYnZoN1JOMkRMLWRRNHl5VmprWW83aWlWOUdEemI5aVUySW1jaGRkZlAtb0FiamZOZTlDWWNWMEFHY21uc0I3QzZHVk1JUTdRSktCdXVobW5XT0tzejY1OVVoVVYwNmpySDlmc2d4YW04d29wSlRQME53SWVzSllDSS1lRk5KbmlRVExzUjNLbEViNGU4QW9oaHBfY3ZaWEZ6MHRSbjllbDBYZ2R1TXZqQjNleTB1c0RrcEtNWDVsWllYazlhaF9aR25mVGFEZl8xRk03MmplOWtmNVpRTGFkRTdmWWM1UDJIM3J4T3hUOEg1WDJFYXk0WUUyM2VBODhoQUh30gGvAkFVX3lxTE03S05qZ1ljY2JIZG85THRBajc1aWxnSkpXbmp4WDFQSzMwQkM2SHhLbi1Jd1h2R0dNODFwS2dua2lFUXBHVEp3eUZQaU5tX3pVbG9ZSFZ2NERVdmxITVgwLTR1Z21VUUowbExQR3VtLVB6Z2ZoV1NWNWNtbFJTRGR1MFc1VDdiWEZyRDVibWt2c2lUdFBkcFNTY3NqTGpzM0RqSlZCeFFFR1Z3MnI4RkhWdndteGllYVF5bEJOUXplLUcwQWRoakl5UDVBWkstYXF4X3pQVC1lRllUbjJISlo1dmtJajJDNTFmV2R0X3dPMzRqSG9FN3ZGbENnUkx6V2wtUkJYN3EwcVE4aW9oY1pzemt6a25CY0xCT1hReUFOYkozZEZZN0s5bkJpdXpMZw?oc=5)
+
+---
 
 ### [Il richiamo dell'Ordine dei farmacisti sulla prescrizione del Mounjaro: quando un farmaco diventa prodotto di consumo - Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
 
-2026-11-16 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
 

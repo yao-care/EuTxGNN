@@ -3,7 +3,7 @@ layout: default
 title: "tumor (cancer) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 359 articles, 229 related drugs."
+description: "Health news about tumor (cancer). 367 articles, 229 related drugs."
 permalink: /news/cancer/
 last_modified_at: 2026-11-19
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>359 news articles</strong> and 229 related drugs.
+<strong>tumor (cancer)</strong> currently has <strong>367 news articles</strong> and 229 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -204,7 +204,31 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (359)
+## Related News (367)
+
+### [Innovación tecnológica revoluciona tratamiento de cáncer de pulmón: SMOT](https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3dsTWgzeENtdnJ1YXVQTVhXMjlMOUVBRm5jOC04aGRjdDY2dG1QMS1EMjNGUFFXQ0R0cG0xMHpmbW9RcXljSGt2bzhISm9NNVBvSlJtMzdNMDVPRjAzRWpTZ2o0YTVNS2NCZEZIVzhFY0oxdk5acEd4X1dJNVVOTjd5aHNLeVZqaUs0M1FEa3B6Q0pnZkZlTnU2dTlTVlRQeDNKVFlqRVkwR1NxUkNld2t6NlpFbWs?oc=5)
+
+2026-11-19
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3dsTWgzeENtdnJ1YXVQTVhXMjlMOUVBRm5jOC04aGRjdDY2dG1QMS1EMjNGUFFXQ0R0cG0xMHpmbW9RcXljSGt2bzhISm9NNVBvSlJtMzdNMDVPRjAzRWpTZ2o0YTVNS2NCZEZIVzhFY0oxdk5acEd4X1dJNVVOTjd5aHNLeVZqaUs0M1FEa3B6Q0pnZkZlTnU2dTlTVlRQeDNKVFlqRVkwR1NxUkNld2t6NlpFbWs?oc=5)
+
+---
+
+### [Le cancer du pancréas explose en France : qu'est-ce qui le provoque ? - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijAFBVV95cUxPNmNlTTNzOHlKNVNTd25ZNGpaY1RFREhSYXYwYVBmV25Va2p3TGg4SkJyYnRZREM2YkVZZzdiWnVpY2pERTc0UUVwZUJtVXNkLThVN0ZDdGFINEdhYXplaFpzcTRxRDZSRHRsWGFjem11d0ZzNlk2ZHBwZm9nYk5PUTZmVGFXdVRJM2ZTRw?oc=5)
+
+2026-11-19
+
+Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijAFBVV95cUxPNmNlTTNzOHlKNVNTd25ZNGpaY1RFREhSYXYwYVBmV25Va2p3TGg4SkJyYnRZREM2YkVZZzdiWnVpY2pERTc0UUVwZUJtVXNkLThVN0ZDdGFINEdhYXplaFpzcTRxRDZSRHRsWGFjem11d0ZzNlk2ZHBwZm9nYk5PUTZmVGFXdVRJM2ZTRw?oc=5)
+
+---
+
+### [Cáncer de páncreas localmente avanzado: «El objetivo de la terapia con micropartículas de fósforo-32 es intensificar el tratamiento local desde dentro del tumor](https://news.google.com/rss/articles/CBMilgJBVV95cUxObDNmcUhxa19yYk8td3hneXdMaEYxYU9UVTZ2Q1lqQW44NEFhUjBkenhTVXJFRGRzc2RHenN0UFdMRXRsNHBoOGFNZTF1bm5OMGJhZzZUQ2VnbVFWaHJKNnJjYy1ua2RJZmNUejJrcDhERXRLUG5xeW5kYl9FXzBrbERDR2Jrdk5HQmJTbWd3SDdXaXlWMTc5RVlWMzBWbzNqRG92Tjd6VUlhamt4MVpBblNhWHdSSFNSdVIxaHVpWS1Kd3lqakZZVmpwS2ZOdHZ6c3QzbGhyZGxJVkJtUmNoTkJ0UGljSDdJMld2SEhfbl9ISFlVN1JXMFh2eElnNnozeDEzMDA3bVNYaC02YTlmd250SklyZw?oc=5)
+
+2026-11-19
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMilgJBVV95cUxObDNmcUhxa19yYk8td3hneXdMaEYxYU9UVTZ2Q1lqQW44NEFhUjBkenhTVXJFRGRzc2RHenN0UFdMRXRsNHBoOGFNZTF1bm5OMGJhZzZUQ2VnbVFWaHJKNnJjYy1ua2RJZmNUejJrcDhERXRLUG5xeW5kYl9FXzBrbERDR2Jrdk5HQmJTbWd3SDdXaXlWMTc5RVlWMzBWbzNqRG92Tjd6VUlhamt4MVpBblNhWHdSSFNSdVIxaHVpWS1Kd3lqakZZVmpwS2ZOdHZ6c3QzbGhyZGxJVkJtUmNoTkJ0UGljSDdJMld2SEhfbl9ISFlVN1JXMFh2eElnNnozeDEzMDA3bVNYaC02YTlmd250SklyZw?oc=5)
+
+---
 
 ### [Cáncer de cuello uterino: el tumor que la medicina ya sabe cómo prevenir - Nueva Alcarria.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMkNtNW52SXh5a0FVbWJZWXRPQ1BwMG1weEdsLUpwS0hmLXJpTEYwWWM2SUVmYkx1WXRXS2xXV2RkbUZzX3c4WGtyY2tOWEJ0WnhiQ2hYczBEY2VmZkxBbHFYYjZvbFhvc0ZUTnlmNE9ndUVMYWFlYVBQT1h5elJqbnVlZ0pFWHFzaDZ2c2xWUmNhVEVMeXJYWVJ5RFNobW1SaFFtTm1ZT3UtZXM?oc=5)
 
@@ -222,11 +246,43 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaHdH
 
 ---
 
+### [El cáncer de páncreas sumará 10.405 casos nuevos en España en 2026 y ya cuenta con la primera terapia dirigida frente a ras · SEOM - SEOM · Sociedad Española de Oncología Médica](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEFDZzByZjNvdm9KUXVxNWp4UDJUYllBczBpLTFWUWlwNFpEQldTTkZvSkFPRWZWWFJ6Snhta1dfOVNGZVhoWFZvcS1Fa2NnaUg0cXZBcVNFdzFsaG5FRmpwQVZGYl96QUR3cHNOOFluZGpQVmlLMnZydWVjNWQ1TDF1N0VMWTZyMko4V0pLU0wtcU1PZTYzSGEzbGcweV9LTFE?oc=5)
+
+2026-11-19
+
+Source: [SEOM · Sociedad Española de Oncología Médica](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEFDZzByZjNvdm9KUXVxNWp4UDJUYllBczBpLTFWUWlwNFpEQldTTkZvSkFPRWZWWFJ6Snhta1dfOVNGZVhoWFZvcS1Fa2NnaUg0cXZBcVNFdzFsaG5FRmpwQVZGYl96QUR3cHNOOFluZGpQVmlLMnZydWVjNWQ1TDF1N0VMWTZyMko4V0pLU0wtcU1PZTYzSGEzbGcweV9LTFE?oc=5)
+
+---
+
+### [Diet could ‘slash bowel & stomach cancer risk by 29%’ – you can still have wine - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1Y0ckhJY1lMd09mczcyV055WVYtTmx6SnJXN3h5UHFQTVB5dFkxU0FQX1RMQXdpQzNzUzF6QTRURzlsZHEtLXhkNFdhQXVkakxHVmR6dWhnWUdTNjNvZUFXSGlJRFVySnZ2TTFuYTB3bmotZktDb3BBOUdZamxNcmtpV0dOUk5FbzlMY3hJUV8tNGFJeFE?oc=5)
+
+2026-11-19
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1Y0ckhJY1lMd09mczcyV055WVYtTmx6SnJXN3h5UHFQTVB5dFkxU0FQX1RMQXdpQzNzUzF6QTRURzlsZHEtLXhkNFdhQXVkakxHVmR6dWhnWUdTNjNvZUFXSGlJRFVySnZ2TTFuYTB3bmotZktDb3BBOUdZamxNcmtpV0dOUk5FbzlMY3hJUV8tNGFJeFE?oc=5)
+
+---
+
+### [Tumori del colon nei giovani: la causa potrebbe nascondersi nell'intestino fin dall'infanzia](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOVFrbDVxSm40aEczMjMxT0NocWl0dHEyYmRQWHhZb1gyTnJ4eE41M2pqVnRlZlgyellHOTBOTV9nOTctOXQ4RTJDVzZ1QTM5VWdLUWNZNXV2U0xGY2ZoQnFNc1JZNVpqeHdxX3NORnhzNkQ0TzQzUzhjWlIxLVZxSzdyY0k0dXY5azFJNldPcGlpRDNVUS1NaWx2X2tLWk8wbjFuWWRYeERXTURkM1pZUjBveHJzYnlMaHh5T0pJeGN4Z2NzWXpRNVlCMzdoMU01VmFWeUJldTk4UQ?oc=5)
+
+2026-11-19
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOVFrbDVxSm40aEczMjMxT0NocWl0dHEyYmRQWHhZb1gyTnJ4eE41M2pqVnRlZlgyellHOTBOTV9nOTctOXQ4RTJDVzZ1QTM5VWdLUWNZNXV2U0xGY2ZoQnFNc1JZNVpqeHdxX3NORnhzNkQ0TzQzUzhjWlIxLVZxSzdyY0k0dXY5azFJNldPcGlpRDNVUS1NaWx2X2tLWk8wbjFuWWRYeERXTURkM1pZUjBveHJzYnlMaHh5T0pJeGN4Z2NzWXpRNVlCMzdoMU01VmFWeUJldTk4UQ?oc=5)
+
+---
+
 ### [LANDESDIENST SAARLAND: Saarland will Krebsregisterdaten mit Kassendaten verknüpfen - +++ derNewsticker.de](https://news.google.com/rss/articles/CBMiWkFVX3lxTE12MnZEYWFPU01IQnhXTlR2d05xQ1htUlJYT04zalNDdFhVSjFNQzMxRWxrYjhkZjNsbko2NnRRTEVHZVhLdGIxM18yVEwteVFaMktNR1NxZFFsZw?oc=5)
 
 2026-11-19
 
 Source: [+++ derNewsticker.de](https://news.google.com/rss/articles/CBMiWkFVX3lxTE12MnZEYWFPU01IQnhXTlR2d05xQ1htUlJYT04zalNDdFhVSjFNQzMxRWxrYjhkZjNsbko2NnRRTEVHZVhLdGIxM18yVEwteVFaMktNR1NxZFFsZw?oc=5)
+
+---
+
+### [Cancer du col : l'Europe révise ses recommandations thérapeutiques](https://news.google.com/rss/articles/CBMingFBVV95cUxQMEsyNXJKNmZ0T0lOWGoyVG5jT2pyZEhNUjY3bEY0cWw3R2FUc3VWcjlPVHU5ci16NlloNWdmUXZkMGtvdWI2d18xVUZ3NFZsWDBFamVQX2FFd29iMkFRWlp1MmFIb0wxQ0JBNjg5QzVaQVJxc2lmWENYQnZYVUpudW5vR0ctQzd6X200eUJPM25kQldDQ0xZbVBEc29QUQ?oc=5)
+
+2026-11-19
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxQMEsyNXJKNmZ0T0lOWGoyVG5jT2pyZEhNUjY3bEY0cWw3R2FUc3VWcjlPVHU5ci16NlloNWdmUXZkMGtvdWI2d18xVUZ3NFZsWDBFamVQX2FFd29iMkFRWlp1MmFIb0wxQ0JBNjg5QzVaQVJxc2lmWENYQnZYVUpudW5vR0ctQzd6X200eUJPM25kQldDQ0xZbVBEc29QUQ?oc=5)
 
 ---
 
@@ -306,7 +362,7 @@ Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMiwwFBVV9
 
 2026-11-18
 
-Source: [www.focusplus.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxOakZxNXVNOHY3MUdhMDZHTlRPRDFBS2hRbmd2SFBKcWo1Q3R4ejJYLW5EaWpkU2Zka1dNWlZnZWgya3ZOTENUV0lFRXpWNm56cy00MV9fZGJKMEJ3dFRtWVRJQTJWLVlvVWxaUjVkU255UGdZcExqTzJZZklZSzhKNFVLdzU4NE0yVnR3WDRuWE4?oc=5)
+Source: [FOCUS+](https://news.google.com/rss/articles/CBMikAFBVV95cUxOakZxNXVNOHY3MUdhMDZHTlRPRDFBS2hRbmd2SFBKcWo1Q3R4ejJYLW5EaWpkU2Zka1dNWlZnZWgya3ZOTENUV0lFRXpWNm56cy00MV9fZGJKMEJ3dFRtWVRJQTJWLVlvVWxaUjVkU255UGdZcExqTzJZZklZSzhKNFVLdzU4NE0yVnR3WDRuWE4?oc=5)
 
 ---
 
@@ -323,6 +379,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMixwFBVV95cUxOV2s4
 2026-11-18
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNTRqZlFPUnM1R1NxTGFXNG1GUDNuVVFZeDMzc3drN0N2ZUJzUjR6Z0F5OFFWam9fQzRnY3B2Vm5BajVXT1Nfb0VzZlJnWGR5U3VMWTlQNEVQQW1vaFZQUHg3NkZDTlN2YkJVVHFOYVhmU2NvTE5NUzE3U01xS05GWnF4WFBzbEhsSk1yUWw1VmROSjV3YzNzVTliLVpha1F2TWZfMWMwYw?oc=5)
+
+---
+
+### [Deux nouvelles machines contre les cancers à l’hôpital de Saintes - 20 Minutes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcW5VUFNteG1vMWliQ3NlZk9OU1JIS29NNVhreFFoTWpKcFp6NlpaWThZMGxWNnVRSW1yVmxLaW1Tc0tVc1NrRXhMYUtYRUF0WmlRVkdVUlRsbkFBWW5DaFp2MGQ4b21wUWRTS3duX0RvWmZYcWlzNUJwWUtrbmtSVlNMc3NqYUM0dURVVzRvbUZpTUoycmROeWpBdUtrcHZGdDVPUUhURDRtV0JFRk9wclp6WVJmQ1llT2ItQWg0MWlnLW0wanJ3bTI3ZElWQkh1dXY5S0VR?oc=5)
+
+2026-11-18
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcW5VUFNteG1vMWliQ3NlZk9OU1JIS29NNVhreFFoTWpKcFp6NlpaWThZMGxWNnVRSW1yVmxLaW1Tc0tVc1NrRXhMYUtYRUF0WmlRVkdVUlRsbkFBWW5DaFp2MGQ4b21wUWRTS3duX0RvWmZYcWlzNUJwWUtrbmtSVlNMc3NqYUM0dURVVzRvbUZpTUoycmROeWpBdUtrcHZGdDVPUUhURDRtV0JFRk9wclp6WVJmQ1llT2ItQWg0MWlnLW0wanJ3bTI3ZElWQkh1dXY5S0VR?oc=5)
 
 ---
 
@@ -726,11 +790,11 @@ Source: [France 3 Régions](https://news.google.com/rss/articles/CBMipwJBVV95cUx
 
 ---
 
-### [Tumorassoziierte ischämische Schlaganfälle: Das zeichnet sie aus](https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3I0WWJRYTJwM2hQUGRfRmVodGtPdU1jWFlsV1dVOTRuZ0trcWVtTDBnUENvVmhsak51aVNKbUxkek5SakVKRm1nVG8tNF9qZnRTV2JhT0ZjTF9GRlBvREJDREFIb0hJRnpRYjZLX0FUQjVkbHJoajJmX0FaRW40VUlVVmtqT3VESVBUY1p0N0tuRlFOaWlOTmdnV1pleDhrSDlVYnZDUTd2X210bTBaMmlqcmc?oc=5)
+### [Tumorassoziierte ischämische Schlaganfälle: Das zeichnet sie aus - Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3I0WWJRYTJwM2hQUGRfRmVodGtPdU1jWFlsV1dVOTRuZ0trcWVtTDBnUENvVmhsak51aVNKbUxkek5SakVKRm1nVG8tNF9qZnRTV2JhT0ZjTF9GRlBvREJDREFIb0hJRnpRYjZLX0FUQjVkbHJoajJmX0FaRW40VUlVVmtqT3VESVBUY1p0N0tuRlFOaWlOTmdnV1pleDhrSDlVYnZDUTd2X210bTBaMmlqcmc?oc=5)
 
 2026-11-16
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3I0WWJRYTJwM2hQUGRfRmVodGtPdU1jWFlsV1dVOTRuZ0trcWVtTDBnUENvVmhsak51aVNKbUxkek5SakVKRm1nVG8tNF9qZnRTV2JhT0ZjTF9GRlBvREJDREFIb0hJRnpRYjZLX0FUQjVkbHJoajJmX0FaRW40VUlVVmtqT3VESVBUY1p0N0tuRlFOaWlOTmdnV1pleDhrSDlVYnZDUTd2X210bTBaMmlqcmc?oc=5)
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3I0WWJRYTJwM2hQUGRfRmVodGtPdU1jWFlsV1dVOTRuZ0trcWVtTDBnUENvVmhsak51aVNKbUxkek5SakVKRm1nVG8tNF9qZnRTV2JhT0ZjTF9GRlBvREJDREFIb0hJRnpRYjZLX0FUQjVkbHJoajJmX0FaRW40VUlVVmtqT3VESVBUY1p0N0tuRlFOaWlOTmdnV1pleDhrSDlVYnZDUTd2X210bTBaMmlqcmc?oc=5)
 
 ---
 

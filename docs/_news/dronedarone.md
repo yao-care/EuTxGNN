@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>129 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>134 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,47 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (129)
+## Related News (134)
+
+### [Il colesterolo è basso ma i trigliceridi sono alti: che cosa raccontano gli esami](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGpCcjcwT0t1Mk9jdk1nYXVoYzNlVXdlNEhiTnp2RnBXbjJ6U25pUmFWWDZrbmlVa3JqVzk2c085Vi1wLThJdllUblZqaGs3dkFFaXd5OVNla2xFQ1d1b1dJS3ZNWUZ4OEN5d3dPWEdKbnlHeFdIa3kzcTc5ZWttR3ByOG9QUTM2dFYxSGRmMUxDU0drMnVNeDVKa25uR0tua0wtd3RYc3QyNEJLNUJZb0xJc2ltNFFwamNNeXhXYkk3MldicWdlaGNfQQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGpCcjcwT0t1Mk9jdk1nYXVoYzNlVXdlNEhiTnp2RnBXbjJ6U25pUmFWWDZrbmlVa3JqVzk2c085Vi1wLThJdllUblZqaGs3dkFFaXd5OVNla2xFQ1d1b1dJS3ZNWUZ4OEN5d3dPWEdKbnlHeFdIa3kzcTc5ZWttR3ByOG9QUTM2dFYxSGRmMUxDU0drMnVNeDVKa25uR0tua0wtd3RYc3QyNEJLNUJZb0xJc2ltNFFwamNNeXhXYkk3MldicWdlaGNfQQ?oc=5)
+
+---
+
+### [Reunión Anual SEN: La obesidad aumenta el riesgo de ictus y plantea nuevos desafíos en la rehabilitación - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSU5rQzkwTHJBM0dtQUVNN0NVbWZfMFVuT2l0Ni1CX0dYU0w3LXdib3VRbDRBVmFjSjlrNURyMDYyZWdvMVA3cDJib2wzMnVhVy0wU1pDRk9OekxjbldTUlRNSkZzaFFmZVdmeTZjNjNfRVh2V2hweG5YaU90VERqLUVmM2pMUHJBY2oxUUpRc05jQjAzM1JHVlZYZGtEZTVyR3lLT3ktLWNHM2JBSy00V1F4WjNmZUFqVmRsNNIBtwFBVV95cUxNMFdlX1J6cVEwcWpVZUo1WGtZRE9JakNtMzMtTmhuRVZRR0FGNEwta3RkNENZWWhzaEhxaUt3bmp4azYwcTcwTHA1M1k1bjJGY1VDWW1kanNLWTdVZHptSEtFbElIZjdJdU9iVF9nOUY1VjY4Rng4Qm1haHQ5cUVfN2stQVpzOFp1UUl1cDhPQTlZeE5LZFRnNnA4bXZLNjdsYU80aS1SbTA4MWV2RVF0X0RGSWNteUk?oc=5)
+
+2026-11-19 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSU5rQzkwTHJBM0dtQUVNN0NVbWZfMFVuT2l0Ni1CX0dYU0w3LXdib3VRbDRBVmFjSjlrNURyMDYyZWdvMVA3cDJib2wzMnVhVy0wU1pDRk9OekxjbldTUlRNSkZzaFFmZVdmeTZjNjNfRVh2V2hweG5YaU90VERqLUVmM2pMUHJBY2oxUUpRc05jQjAzM1JHVlZYZGtEZTVyR3lLT3ktLWNHM2JBSy00V1F4WjNmZUFqVmRsNNIBtwFBVV95cUxNMFdlX1J6cVEwcWpVZUo1WGtZRE9JakNtMzMtTmhuRVZRR0FGNEwta3RkNENZWWhzaEhxaUt3bmp4azYwcTcwTHA1M1k1bjJGY1VDWW1kanNLWTdVZHptSEtFbElIZjdJdU9iVF9nOUY1VjY4Rng4Qm1haHQ5cUVfN2stQVpzOFp1UUl1cDhPQTlZeE5LZFRnNnA4bXZLNjdsYU80aS1SbTA4MWV2RVF0X0RGSWNteUk?oc=5)
+
+---
+
+### [La Dieta Mediterránea con AOVE, el patrón alimentario con mayor respaldo científico para cuidar el cerebro](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM1NRU0ExbWg0WjFWbWFsck9oMFpBUFJ2OE9lWlJHOFRYT2ZRS2pyRmlUV0hxd0lEM0Q0ZlNlS3M1RHRwbWM0a2c2eG1MYTVRelNicGtodFVLdGZlMmJENk9JVGxBMXhTdmNoYmVQS05QVDZJWW0yeHhPSTE5SU5mV04zNTlVVGRLUjVmdEl6UHRFdVlQLURaM0RJcUhZX2VrbzBsZG9oeF8tUmJnYjJia2dlTkNEZVJlVEhRLUxvdTI2VmFRSWw0QlFCcER5OUJGODd0NG9HdHM1a2owTTN0MTNKalNfVko5WlBpOHZabV9jUQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">ictus</span>
+
+Source: [Mercacei](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM1NRU0ExbWg0WjFWbWFsck9oMFpBUFJ2OE9lWlJHOFRYT2ZRS2pyRmlUV0hxd0lEM0Q0ZlNlS3M1RHRwbWM0a2c2eG1MYTVRelNicGtodFVLdGZlMmJENk9JVGxBMXhTdmNoYmVQS05QVDZJWW0yeHhPSTE5SU5mV04zNTlVVGRLUjVmdEl6UHRFdVlQLURaM0RJcUhZX2VrbzBsZG9oeF8tUmJnYjJia2dlTkNEZVJlVEhRLUxvdTI2VmFRSWw0QlFCcER5OUJGODd0NG9HdHM1a2owTTN0MTNKalNfVko5WlBpOHZabV9jUQ?oc=5)
+
+---
+
+### [Arrêt des statines après 70 ans : 12,7 % d'infarctus, d'AVC ou de décès en 2 ans, contre 9,2 % en continuant](https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1oxNlJuQzVaVEdVSmhuQ001ZjA3WG13T1hRNVFjTm1Xb1dKbEs4Q2ZrUFd3anYxbzlVSEUxNjBDTjFST3pkcnBiaXpLbDIzLWpYckhyRzBUTDh3d2JDQjRYZjJhbVRyc0M0dlpsLWpSem8tT0lUV0ROQVpNZ19QNGxORG5NaG9TSU0wQ3FvcWJUd2NJT0ZsT1d1bjFxQlZGa2ZHS2xDWnNfeWFaYTJ6TWE4dXZXQQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">AVC</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1oxNlJuQzVaVEdVSmhuQ001ZjA3WG13T1hRNVFjTm1Xb1dKbEs4Q2ZrUFd3anYxbzlVSEUxNjBDTjFST3pkcnBiaXpLbDIzLWpYckhyRzBUTDh3d2JDQjRYZjJhbVRyc0M0dlpsLWpSem8tT0lUV0ROQVpNZ19QNGxORG5NaG9TSU0wQ3FvcWJUd2NJT0ZsT1d1bjFxQlZGa2ZHS2xDWnNfeWFaYTJ6TWE4dXZXQQ?oc=5)
+
+---
+
+### [NHS GP says 'I would stop taking statins for this reason only' - The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1ucWdHdXozajFDSmtXUlRoUzlaOEZidGZ0SFFjSnJNQkpmOTZKY2todTZrNm5jVUhOU1NtTGQxb0hJUEpLV1FXbk9GNm95MTcxYlBYWmdpZ05LYUZmZ0ZGOUo1b0tKX0E5RnFkalEzX0xXTEHSAXhBVV95cUxNZjdaTWZjUUUzeERNLUFVN3dHUTJFVW1PeU92bEFKVjUtRjV3LWt2bzh4Ty1JN2V5ZjhoS3ZKdXhRa0F4bEVpeHI1b2VIVHZUa0tVd3F3cUVPSzMyd1hXZmFSUFNxMlRIaEtKb1NiNGFYS29XMmRMU2w?oc=5)
+
+2026-11-19 <span class="news-indication-tag">stroke</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1ucWdHdXozajFDSmtXUlRoUzlaOEZidGZ0SFFjSnJNQkpmOTZKY2todTZrNm5jVUhOU1NtTGQxb0hJUEpLV1FXbk9GNm95MTcxYlBYWmdpZ05LYUZmZ0ZGOUo1b0tKX0E5RnFkalEzX0xXTEHSAXhBVV95cUxNZjdaTWZjUUUzeERNLUFVN3dHUTJFVW1PeU92bEFKVjUtRjV3LWt2bzh4Ty1JN2V5ZjhoS3ZKdXhRa0F4bEVpeHI1b2VIVHZUa0tVd3F3cUVPSzMyd1hXZmFSUFNxMlRIaEtKb1NiNGFYS29XMmRMU2w?oc=5)
+
+---
 
 ### [38-jähriger Mann nach Hirnblutung in kritischem Zustand: Eine warnende Geschichte über eine Krankheit, die viele junge Menschen für selbstverständlich halten.](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
 
@@ -56,14 +96,6 @@ Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTU
 2026-11-19 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXdwVGtpOEpHVDBvWERoMFc3SWpfaXFHX1B3MzhoQVIwTXNSSTVyNW1ycHJSMzBLZjdxcVEwZzdHQnZtdG9lSS13YlBkZHVPNjRPTUVmSzZpMDdZNlp6OGFvdE5QT2JRczhIMUVyVWRLbkRReTU0QUdHS1FyQlgyNS13UFI1d0FvYTdlZlhmaktFZw?oc=5)
-
----
-
-### [Suffering from migraines linked to an increased risk of deadly condition by the age of 60 - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
-
-2026-11-18 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">stroke</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFYanQ2NUFUUTRMZGhGZjJ4aHlwNk1Jam1NQlVxUjRJUWYwY2k0QWRzZnJqWkFhdV9SWkQtX1JESDJaekIxWk9PaXhkRGR1Z2lrcU80ODhCVnpuRUk1elFybXl1NC05YU81S2tDZ1ZzNmwyR2V4QURSQnkzbEt4Ni1LcWhPNmM?oc=5)
 
 ---
 
@@ -104,6 +136,14 @@ Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBV
 2026-11-18 <span class="news-indication-tag">ictus</span>
 
 Source: [ABC](https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2RoNVdHMS04czY3eVVnWGZmX1EzSm9LNXh6NDlNYWNfUXNWZ2hMTjZ4M002N2U3TlVaQzIzdGlZNzdNQ0lmdjJBSElUbDR4LWtHeGdTWEJBVWEyVkNEeE9kZmxhSWhEdklXUWhYSmQ3bmNvQzh1c2l2d2pBdnh6M3E0cHNHVjlNaUZpdjNTU2Z4QXR0SWRocml3YzFlNnpYYVHSAacBQVVfeXFMTm5UdENPcUN1d3pXQzhha0VFTXVaMExkZ01Rc081elB1eXBjRFNXSGtmVmdBYnNGVXAxSkZUSFdMSDRkdnBwZk1LWE1kc3JUeWMzczJvOGZkLXRLY2JJQzFONGVaNDNQMHNQZnc4bHcyS0xqZjhsVEMwTThsVDg0RFBBNThzZmpJanFaSndXSkhUY25mQ0wxbkltWXpDc1FCVTJINXZrTlU?oc=5)
+
+---
+
+### [Paula Rivero, superviviente de un ictus a los 40 años: «Me desperté con medio cuerpo paralizado» - La Voz de Asturias](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc1NuU2lwajF3ci02ZUVGVE1tQkNvcEl2X2lBTnE3eVRnRnk5eXFKLVVwVlhCMVBfeXFSNk1QNnk1UkRDTFJjVllhZzdmS3EyR0Y3d2RkSlVmTHhMVEJBajhRX21hWTZPcVRBdkdfYnZQNkRTTmQwSmlSNmpnZTZuRkpscUMtbVE1N2lhenpnRjdGVnRVbGQtOUxmQ2NtVnNkZllueFIxbTBwbXVBdk00Ymd6SGRpSms3eVEyVkdJbGtCWnhVZksxWFZTS3JwOTd6OXFfZTNYNHF4Z0I2NVNjcVdzZU9hVXdFTXdiaTZMMWJlNkpG?oc=5)
+
+2026-11-18 <span class="news-indication-tag">ictus</span>
+
+Source: [La Voz de Asturias](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc1NuU2lwajF3ci02ZUVGVE1tQkNvcEl2X2lBTnE3eVRnRnk5eXFKLVVwVlhCMVBfeXFSNk1QNnk1UkRDTFJjVllhZzdmS3EyR0Y3d2RkSlVmTHhMVEJBajhRX21hWTZPcVRBdkdfYnZQNkRTTmQwSmlSNmpnZTZuRkpscUMtbVE1N2lhenpnRjdGVnRVbGQtOUxmQ2NtVnNkZllueFIxbTBwbXVBdk00Ymd6SGRpSms3eVEyVkdJbGtCWnhVZksxWFZTS3JwOTd6OXFfZTNYNHF4Z0I2NVNjcVdzZU9hVXdFTXdiaTZMMWJlNkpG?oc=5)
 
 ---
 

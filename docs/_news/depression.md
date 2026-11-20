@@ -3,7 +3,7 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 42 articles, 7 related drugs."
+description: "Health news about dépression (depression). 44 articles, 7 related drugs."
 permalink: /news/depression/
 last_modified_at: 2026-11-19
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>42 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>44 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,29 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (42)
+## Related News (44)
+
+### [Coucher et réveil à heures variables : l’effet inattendu sur le moral, selon une étude - La Provence](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUmxON0FRYUZCcnJzb2I0WG9hYS1UOVFhU2c0NFdsUEJWcy1CZ04xQXNvTUpzY2M2Vl9EeTdId3pPel90eWM4WlNOX2UwazlSVlA4UXlxaW5HZXNjelhSWTNZbHlBeUgtUnhlWFJQVHhrVWktUDFjTHVUS2xMTktzaE5iYm5ockxyV2JXMnUxNlBtM25SZktYM1pRam91Uy1IaURKdDNxZmhlV1loYjJFTFZ2MVVXa0JEQ0tnamtjdzR3UVYwc2ZIWHFlYVdWSXdfQ2xKTA?oc=5)
+
+2026-11-19
+
+Source: [La Provence](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUmxON0FRYUZCcnJzb2I0WG9hYS1UOVFhU2c0NFdsUEJWcy1CZ04xQXNvTUpzY2M2Vl9EeTdId3pPel90eWM4WlNOX2UwazlSVlA4UXlxaW5HZXNjelhSWTNZbHlBeUgtUnhlWFJQVHhrVWktUDFjTHVUS2xMTktzaE5iYm5ockxyV2JXMnUxNlBtM25SZktYM1pRam91Uy1IaURKdDNxZmhlV1loYjJFTFZ2MVVXa0JEQ0tnamtjdzR3UVYwc2ZIWHFlYVdWSXdfQ2xKTA?oc=5)
+
+---
 
 ### [Terni, l'appello di Simona: "Da quattro anni combatto contro una depressione severa. Ho bisogno di aiuto per tornare a vivere"](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTHBxUGk3X0NFMUptMUxtamM0cXBnT3VQbC1BQmhhbnNraEh5cnAwaUVfTXVMRjF0UFVSNW1lSm9LR0VjdGVnRmFYdlJySW5FeXV3TjhMaWM1MkNiRURMcXpLcTBVOU1JOF82TXAyQW0zeVdnUFJHaGRKMnNMRllqUnA4Vl9YQ3pSVTNuX2JyS2pNUVpsUU52d3ZuOWNLQWZLbXY2OEZ1WWloaTdwQWl2V0pnUnRoaVBaUTBqT1NkbmdKQVNRSlpaWWczbHVTRGFadGFCLS01VjFQdEc5Y3UyWkgyYjJfME1YNmxYWEZNcEd0N1Ix?oc=5)
 
 2026-11-19
 
 Source: [TerniToday](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTHBxUGk3X0NFMUptMUxtamM0cXBnT3VQbC1BQmhhbnNraEh5cnAwaUVfTXVMRjF0UFVSNW1lSm9LR0VjdGVnRmFYdlJySW5FeXV3TjhMaWM1MkNiRURMcXpLcTBVOU1JOF82TXAyQW0zeVdnUFJHaGRKMnNMRllqUnA4Vl9YQ3pSVTNuX2JyS2pNUVpsUU52d3ZuOWNLQWZLbXY2OEZ1WWloaTdwQWl2V0pnUnRoaVBaUTBqT1NkbmdKQVNRSlpaWWczbHVTRGFadGFCLS01VjFQdEc5Y3UyWkgyYjJfME1YNmxYWEZNcEd0N1Ix?oc=5)
+
+---
+
+### [El sueño irregular se asocia con más dificultades emocionales en adolescentes](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDJjMnFQRFFFWWlTRGNFT09nWE9QWU1QOTdrZnBSLTN4TzluV3hFVmE1bThrOUZzYVpZNjlqUFh3SkJTeDhCQ3YwcnRPaU5HUVA2ZWJ3TnNBY0dUbUhxZkxjUGFoVnIxX1ZnQkRSQzJEUjY4UXpyNmVWN0xBWmRUZ2RxNmNtZ2xiRzV2dWdycHVIZWxVQVNFd2l6cjZTUFJRNDRv?oc=5)
+
+2026-11-19
+
+Source: [https://www.infocop.es/](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDJjMnFQRFFFWWlTRGNFT09nWE9QWU1QOTdrZnBSLTN4TzluV3hFVmE1bThrOUZzYVpZNjlqUFh3SkJTeDhCQ3YwcnRPaU5HUVA2ZWJ3TnNBY0dUbUhxZkxjUGFoVnIxX1ZnQkRSQzJEUjY4UXpyNmVWN0xBWmRUZ2RxNmNtZ2xiRzV2dWdycHVIZWxVQVNFd2l6cjZTUFJRNDRv?oc=5)
 
 ---
 

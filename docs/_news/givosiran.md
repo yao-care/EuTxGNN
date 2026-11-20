@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>63 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>67 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,39 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (63)
+## Related News (67)
+
+### [Hepatitis-C: Heilbar – aber oft unentdeckt](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDI5YmZVbDlGUHA3VTRVbHNiQ015M3JGeVF5Q2ZnLWxMNE1RTmJRcF9OOUdTczlGXzZpWVZxV0dBcFVHMlFQZG1HdXFfWmNUUTlTNTc1TEZpdjA1NWMxcDhCSjJNajc0dkY5RFU1Ni05a0twTlBfNlJXTzVkczVQOXdGbE1lLU9mVm9MaGc1dFBMbmh4dE5PVnJLWQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDI5YmZVbDlGUHA3VTRVbHNiQ015M3JGeVF5Q2ZnLWxMNE1RTmJRcF9OOUdTczlGXzZpWVZxV0dBcFVHMlFQZG1HdXFfWmNUUTlTNTc1TEZpdjA1NWMxcDhCSjJNajc0dkY5RFU1Ni05a0twTlBfNlJXTzVkczVQOXdGbE1lLU9mVm9MaGc1dFBMbmh4dE5PVnJLWQ?oc=5)
+
+---
+
+### [Vaccino antinfluenzale riduce gli infarti: appello dei cardiologi - Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
+
+2026-11-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
+
+---
+
+### [La efinopegdutida resuelve la esteatohepatitis metabólica en más de la mitad de los pacientes](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdk0yNnVDRm1hWjRFNkNqamdLTjlGOXdnM0JrS2pJWjNnQ004bHNNSUZfaWEyNTF1R3AwUGotc1JTNmdsUG85XzlLaWNDbWhaeWgxcE5RYkw1dk9PazVYS016bWtfcTJueFA2aVJwWUNTNS13a3lqd1FacmRsS3lYSEp0QS1PM3V6SUhvUkNGSnBkZ0pWVzZna3pGYk5CTE12dHRsWE9lX2E4REs0b1FXVUpHYW0tNzlkS1B2SjNnbVk3azAzZTBuSDJHcw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdk0yNnVDRm1hWjRFNkNqamdLTjlGOXdnM0JrS2pJWjNnQ004bHNNSUZfaWEyNTF1R3AwUGotc1JTNmdsUG85XzlLaWNDbWhaeWgxcE5RYkw1dk9PazVYS016bWtfcTJueFA2aVJwWUNTNS13a3lqd1FacmRsS3lYSEp0QS1PM3V6SUhvUkNGSnBkZ0pWVzZna3pGYk5CTE12dHRsWE9lX2E4REs0b1FXVUpHYW0tNzlkS1B2SjNnbVk3azAzZTBuSDJHcw?oc=5)
+
+---
+
+### [Morta di epatite C dopo due trasfusioni, condannato il ministero: 760mila euro agli eredi](https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmxMUkZXQ3dPZ2lMSHhhM3dobURWaG8zdHpYT1h4NXRHMjYyOXFqNFFUSDRBdXYxcWpuMVByQkNOWU5PbVNtNnBlTTZaNmtjUzZBR0wzemJ4UTVmYm45NFBUWnlacGdMdTdzck5ncVNTcHc1YlNRUTdiaHFyTXo5N0RFOUV1TjZDRXNCdkcwMnZXdXNiQXY0UVJRWHg?oc=5)
+
+2026-11-19 <span class="news-indication-tag">epatite</span>
+
+Source: [CataniaToday](https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmxMUkZXQ3dPZ2lMSHhhM3dobURWaG8zdHpYT1h4NXRHMjYyOXFqNFFUSDRBdXYxcWpuMVByQkNOWU5PbVNtNnBlTTZaNmtjUzZBR0wzemJ4UTVmYm45NFBUWnlacGdMdTdzck5ncVNTcHc1YlNRUTdiaHFyTXo5N0RFOUV1TjZDRXNCdkcwMnZXdXNiQXY0UVJRWHg?oc=5)
+
+---
 
 ### [38-jähriger Mann nach Hirnblutung in kritischem Zustand: Eine warnende Geschichte über eine Krankheit, die viele junge Menschen für selbstverständlich halten.](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
 

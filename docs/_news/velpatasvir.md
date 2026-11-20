@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Velpatasvir?">
-<strong>Velpatasvir</strong> currently has <strong>24 news articles</strong>, with 10 predicted indications.
+<strong>Velpatasvir</strong> currently has <strong>27 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ This page combines the AI-predicted indications for Velpatasvir with the latest 
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (24)
+## Related News (27)
+
+### [Hepatitis-C: Heilbar – aber oft unentdeckt](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDI5YmZVbDlGUHA3VTRVbHNiQ015M3JGeVF5Q2ZnLWxMNE1RTmJRcF9OOUdTczlGXzZpWVZxV0dBcFVHMlFQZG1HdXFfWmNUUTlTNTc1TEZpdjA1NWMxcDhCSjJNajc0dkY5RFU1Ni05a0twTlBfNlJXTzVkczVQOXdGbE1lLU9mVm9MaGc1dFBMbmh4dE5PVnJLWQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDI5YmZVbDlGUHA3VTRVbHNiQ015M3JGeVF5Q2ZnLWxMNE1RTmJRcF9OOUdTczlGXzZpWVZxV0dBcFVHMlFQZG1HdXFfWmNUUTlTNTc1TEZpdjA1NWMxcDhCSjJNajc0dkY5RFU1Ni05a0twTlBfNlJXTzVkczVQOXdGbE1lLU9mVm9MaGc1dFBMbmh4dE5PVnJLWQ?oc=5)
+
+---
+
+### [La efinopegdutida resuelve la esteatohepatitis metabólica en más de la mitad de los pacientes](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdk0yNnVDRm1hWjRFNkNqamdLTjlGOXdnM0JrS2pJWjNnQ004bHNNSUZfaWEyNTF1R3AwUGotc1JTNmdsUG85XzlLaWNDbWhaeWgxcE5RYkw1dk9PazVYS016bWtfcTJueFA2aVJwWUNTNS13a3lqd1FacmRsS3lYSEp0QS1PM3V6SUhvUkNGSnBkZ0pWVzZna3pGYk5CTE12dHRsWE9lX2E4REs0b1FXVUpHYW0tNzlkS1B2SjNnbVk3azAzZTBuSDJHcw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdk0yNnVDRm1hWjRFNkNqamdLTjlGOXdnM0JrS2pJWjNnQ004bHNNSUZfaWEyNTF1R3AwUGotc1JTNmdsUG85XzlLaWNDbWhaeWgxcE5RYkw1dk9PazVYS016bWtfcTJueFA2aVJwWUNTNS13a3lqd1FacmRsS3lYSEp0QS1PM3V6SUhvUkNGSnBkZ0pWVzZna3pGYk5CTE12dHRsWE9lX2E4REs0b1FXVUpHYW0tNzlkS1B2SjNnbVk3azAzZTBuSDJHcw?oc=5)
+
+---
+
+### [Morta di epatite C dopo due trasfusioni, condannato il ministero: 760mila euro agli eredi](https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmxMUkZXQ3dPZ2lMSHhhM3dobURWaG8zdHpYT1h4NXRHMjYyOXFqNFFUSDRBdXYxcWpuMVByQkNOWU5PbVNtNnBlTTZaNmtjUzZBR0wzemJ4UTVmYm45NFBUWnlacGdMdTdzck5ncVNTcHc1YlNRUTdiaHFyTXo5N0RFOUV1TjZDRXNCdkcwMnZXdXNiQXY0UVJRWHg?oc=5)
+
+2026-11-19 <span class="news-indication-tag">epatite</span>
+
+Source: [CataniaToday](https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmxMUkZXQ3dPZ2lMSHhhM3dobURWaG8zdHpYT1h4NXRHMjYyOXFqNFFUSDRBdXYxcWpuMVByQkNOWU5PbVNtNnBlTTZaNmtjUzZBR0wzemJ4UTVmYm45NFBUWnlacGdMdTdzck5ncVNTcHc1YlNRUTdiaHFyTXo5N0RFOUV1TjZDRXNCdkcwMnZXdXNiQXY0UVJRWHg?oc=5)
+
+---
 
 ### [MS war lange Utopie: „Ich fühle mich wie ein Frosch in heißem Wasser“](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVXN3bHJlRkFRTnBHaW82UUdZajdGSlhjLXQtWGRwdW90c1VGT1lILTBOVVZrcFh0UE9NZlNodWN1alZRRTlpRGdlQkJMaENNcWtxOVl1cnYzQzJXSGdxbDVtS080OHoySmdzSkxCWE5qZXlKQjAtVHhMY3BZS0hGRmczaXZhZmxOT01mM3ctM2h1dWFXOHNHaVZ4T01HaGpjdEpSdVh0TDdyeW1adFFwVXZoOS1NcEN5S0ZUaWE5cHZtVnBZRnh2RW4yX09XbWNKZkZ0ZHRJLU1ac1Bo?oc=5)
 

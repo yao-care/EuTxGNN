@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Carbidopa?">
-<strong>Carbidopa</strong> currently has <strong>60 news articles</strong>, with 0 predicted indications.
+<strong>Carbidopa</strong> currently has <strong>61 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (60)
+## Related News (61)
 
 ### [Your brain may be hiding Alzheimer’s from you – and that’s not always a good thing - The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE1Nb29pV1JXRXMwMjRXbjZBLUx6cVN2Vjk4Y3dleUJ3QmpGakVKeFdRTGhyTmYxUENzLVdkZUJJcU5YLVVvTHFGeTBGREZEbjQxTWtJVWs0dUJLeWFwU0VWdUdhOVRZMTlreVNIRzdGYkpVTnpPaFpEU2E2UWpPUDJyN1hLNXBqaHFpa2ZfT29KVVBqQXc1Q0N2aDFJTDhlbVlNNm02OUVyU3p6SXd5QnJtYw?oc=5)
 
@@ -45,6 +45,14 @@ Source: [The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxN
 2026-11-18 <span class="news-indication-tag">dementia</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0tvQTJDU09XX0dNRy0wb3NpdEZySFUyX3FCa0s4aUtFZ2xGOUVmVnE0OEt5Y1hFc1U2UXg0LWNEYmJhdzN1bG1zbHNGYkdURkNWMWUxOWVHSXMybGVXd1NzWmFWWjBaLUZNZ3NzTExOSnhkTTE1OFNsVnZ1WEdXczd1VTQ3OVdsdXBFdzg5MWVBU3VhQlN2cEdhbDN3Ri1kdS1j?oc=5)
+
+---
+
+### [Study reveals common lifestyle factor that is strongly linked to dementia - The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbjVUTEVrWHBVbFdzak1sRGVHVF9lTmFYSkhldUtqNmlsQmVVNUpvSkdSTmhkWWN4UU44QmRVLWFiSWlGY0Uta2VuX09Ic09PX01TUWJScDlpb3JscVVINnc1WFNUSmVRc1RxZENGWm9NSFpaSFYzQzJ4T3B5Tm9UV0hncjdWQzFBaDFES1ZlNzFqNGJIbnI5dzd4WQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">dementia</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbjVUTEVrWHBVbFdzak1sRGVHVF9lTmFYSkhldUtqNmlsQmVVNUpvSkdSTmhkWWN4UU44QmRVLWFiSWlGY0Uta2VuX09Ic09PX01TUWJScDlpb3JscVVINnc1WFNUSmVRc1RxZENGWm9NSFpaSFYzQzJ4T3B5Tm9UV0hncjdWQzFBaDFES1ZlNzFqNGJIbnI5dzd4WQ?oc=5)
 
 ---
 
@@ -212,7 +220,7 @@ Source: [Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZzhLX0lCYU
 
 2026-11-13 <span class="news-indication-tag">Alzheimer's</span>
 
-Source: [Bloomberg](https://news.google.com/rss/articles/CBMifEFVX3lxTE5tVFlCTVZJcEFXRTBxRlNvMXZ4dTJXSWhmRENwalZ3TFp3UXVWVlllbUZtaGdqWWl4c2FaRy1kQlBZZlhlcUxwbTZwbm5NSThMSjdFY3ZSMUh4UVFDTC1OcTlfZElzenFMQ2N3TGdlWjVDcFRpemZqa3otQkU?oc=5)
+Source: [Bloomberg.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE5tVFlCTVZJcEFXRTBxRlNvMXZ4dTJXSWhmRENwalZ3TFp3UXVWVlllbUZtaGdqWWl4c2FaRy1kQlBZZlhlcUxwbTZwbm5NSThMSjdFY3ZSMUh4UVFDTC1OcTlfZElzenFMQ2N3TGdlWjVDcFRpemZqa3otQkU?oc=5)
 
 ---
 

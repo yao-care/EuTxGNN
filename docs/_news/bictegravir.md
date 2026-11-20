@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Bictegravir. 3 predicted indications."
 permalink: /news/bictegravir/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Bictegravir News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Bictegravir?">
-<strong>Bictegravir</strong> currently has <strong>8 news articles</strong>, with 3 predicted indications.
+<strong>Bictegravir</strong> currently has <strong>11 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,31 @@ This page combines the AI-predicted indications for Bictegravir with the latest 
 <p><a href="{{ '/drugs/bictegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (11)
+
+### [Hepatitis-C: Heilbar – aber oft unentdeckt](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDI5YmZVbDlGUHA3VTRVbHNiQ015M3JGeVF5Q2ZnLWxMNE1RTmJRcF9OOUdTczlGXzZpWVZxV0dBcFVHMlFQZG1HdXFfWmNUUTlTNTc1TEZpdjA1NWMxcDhCSjJNajc0dkY5RFU1Ni05a0twTlBfNlJXTzVkczVQOXdGbE1lLU9mVm9MaGc1dFBMbmh4dE5PVnJLWQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDI5YmZVbDlGUHA3VTRVbHNiQ015M3JGeVF5Q2ZnLWxMNE1RTmJRcF9OOUdTczlGXzZpWVZxV0dBcFVHMlFQZG1HdXFfWmNUUTlTNTc1TEZpdjA1NWMxcDhCSjJNajc0dkY5RFU1Ni05a0twTlBfNlJXTzVkczVQOXdGbE1lLU9mVm9MaGc1dFBMbmh4dE5PVnJLWQ?oc=5)
+
+---
+
+### [La efinopegdutida resuelve la esteatohepatitis metabólica en más de la mitad de los pacientes](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdk0yNnVDRm1hWjRFNkNqamdLTjlGOXdnM0JrS2pJWjNnQ004bHNNSUZfaWEyNTF1R3AwUGotc1JTNmdsUG85XzlLaWNDbWhaeWgxcE5RYkw1dk9PazVYS016bWtfcTJueFA2aVJwWUNTNS13a3lqd1FacmRsS3lYSEp0QS1PM3V6SUhvUkNGSnBkZ0pWVzZna3pGYk5CTE12dHRsWE9lX2E4REs0b1FXVUpHYW0tNzlkS1B2SjNnbVk3azAzZTBuSDJHcw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdk0yNnVDRm1hWjRFNkNqamdLTjlGOXdnM0JrS2pJWjNnQ004bHNNSUZfaWEyNTF1R3AwUGotc1JTNmdsUG85XzlLaWNDbWhaeWgxcE5RYkw1dk9PazVYS016bWtfcTJueFA2aVJwWUNTNS13a3lqd1FacmRsS3lYSEp0QS1PM3V6SUhvUkNGSnBkZ0pWVzZna3pGYk5CTE12dHRsWE9lX2E4REs0b1FXVUpHYW0tNzlkS1B2SjNnbVk3azAzZTBuSDJHcw?oc=5)
+
+---
+
+### [Morta di epatite C dopo due trasfusioni, condannato il ministero: 760mila euro agli eredi](https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmxMUkZXQ3dPZ2lMSHhhM3dobURWaG8zdHpYT1h4NXRHMjYyOXFqNFFUSDRBdXYxcWpuMVByQkNOWU5PbVNtNnBlTTZaNmtjUzZBR0wzemJ4UTVmYm45NFBUWnlacGdMdTdzck5ncVNTcHc1YlNRUTdiaHFyTXo5N0RFOUV1TjZDRXNCdkcwMnZXdXNiQXY0UVJRWHg?oc=5)
+
+2026-11-19 <span class="news-indication-tag">epatite</span>
+
+Source: [CataniaToday](https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmxMUkZXQ3dPZ2lMSHhhM3dobURWaG8zdHpYT1h4NXRHMjYyOXFqNFFUSDRBdXYxcWpuMVByQkNOWU5PbVNtNnBlTTZaNmtjUzZBR0wzemJ4UTVmYm45NFBUWnlacGdMdTdzck5ncVNTcHc1YlNRUTdiaHFyTXo5N0RFOUV1TjZDRXNCdkcwMnZXdXNiQXY0UVJRWHg?oc=5)
+
+---
 
 ### [Studie zeigt mögliche Risikofaktoren bei chronischer Hepatitis E: Erhöhtes Risiko für komplizierte Behandlungsverläufe - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ETGpuRGtQZTFadWgxaE1QZHhVcmptTUJoQTZUMWRHMkdjU1VLUTA5alYtWjRSQ2pIRDhSek5KVDBCT3UtdkxXV29pQQ?oc=5)
 

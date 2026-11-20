@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "hépatite (hepatitis) News"
+title: "epatite (hepatitis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hépatite (hepatitis). 8 articles, 25 related drugs."
+description: "Health news about epatite (hepatitis). 11 articles, 25 related drugs."
 permalink: /news/hepatitis/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
-# hépatite (hepatitis) News
+# epatite (hepatitis) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about hépatite (hepatitis)?">
-<strong>hépatite (hepatitis)</strong> currently has <strong>8 news articles</strong> and 25 related drugs.
+<p class="key-answer" data-question="What news is there about epatite (hepatitis)?">
+<strong>epatite (hepatitis)</strong> currently has <strong>11 news articles</strong> and 25 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “hépatite” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “epatite” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -50,7 +50,31 @@ This page brings together the latest health news about “hépatite” and lists
 </ul>
 </div>
 
-## Related News (8)
+## Related News (11)
+
+### [Hepatitis-C: Heilbar – aber oft unentdeckt](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDI5YmZVbDlGUHA3VTRVbHNiQ015M3JGeVF5Q2ZnLWxMNE1RTmJRcF9OOUdTczlGXzZpWVZxV0dBcFVHMlFQZG1HdXFfWmNUUTlTNTc1TEZpdjA1NWMxcDhCSjJNajc0dkY5RFU1Ni05a0twTlBfNlJXTzVkczVQOXdGbE1lLU9mVm9MaGc1dFBMbmh4dE5PVnJLWQ?oc=5)
+
+2026-11-19
+
+Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDI5YmZVbDlGUHA3VTRVbHNiQ015M3JGeVF5Q2ZnLWxMNE1RTmJRcF9OOUdTczlGXzZpWVZxV0dBcFVHMlFQZG1HdXFfWmNUUTlTNTc1TEZpdjA1NWMxcDhCSjJNajc0dkY5RFU1Ni05a0twTlBfNlJXTzVkczVQOXdGbE1lLU9mVm9MaGc1dFBMbmh4dE5PVnJLWQ?oc=5)
+
+---
+
+### [La efinopegdutida resuelve la esteatohepatitis metabólica en más de la mitad de los pacientes](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdk0yNnVDRm1hWjRFNkNqamdLTjlGOXdnM0JrS2pJWjNnQ004bHNNSUZfaWEyNTF1R3AwUGotc1JTNmdsUG85XzlLaWNDbWhaeWgxcE5RYkw1dk9PazVYS016bWtfcTJueFA2aVJwWUNTNS13a3lqd1FacmRsS3lYSEp0QS1PM3V6SUhvUkNGSnBkZ0pWVzZna3pGYk5CTE12dHRsWE9lX2E4REs0b1FXVUpHYW0tNzlkS1B2SjNnbVk3azAzZTBuSDJHcw?oc=5)
+
+2026-11-19
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdk0yNnVDRm1hWjRFNkNqamdLTjlGOXdnM0JrS2pJWjNnQ004bHNNSUZfaWEyNTF1R3AwUGotc1JTNmdsUG85XzlLaWNDbWhaeWgxcE5RYkw1dk9PazVYS016bWtfcTJueFA2aVJwWUNTNS13a3lqd1FacmRsS3lYSEp0QS1PM3V6SUhvUkNGSnBkZ0pWVzZna3pGYk5CTE12dHRsWE9lX2E4REs0b1FXVUpHYW0tNzlkS1B2SjNnbVk3azAzZTBuSDJHcw?oc=5)
+
+---
+
+### [Morta di epatite C dopo due trasfusioni, condannato il ministero: 760mila euro agli eredi](https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmxMUkZXQ3dPZ2lMSHhhM3dobURWaG8zdHpYT1h4NXRHMjYyOXFqNFFUSDRBdXYxcWpuMVByQkNOWU5PbVNtNnBlTTZaNmtjUzZBR0wzemJ4UTVmYm45NFBUWnlacGdMdTdzck5ncVNTcHc1YlNRUTdiaHFyTXo5N0RFOUV1TjZDRXNCdkcwMnZXdXNiQXY0UVJRWHg?oc=5)
+
+2026-11-19
+
+Source: [CataniaToday](https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmxMUkZXQ3dPZ2lMSHhhM3dobURWaG8zdHpYT1h4NXRHMjYyOXFqNFFUSDRBdXYxcWpuMVByQkNOWU5PbVNtNnBlTTZaNmtjUzZBR0wzemJ4UTVmYm45NFBUWnlacGdMdTdzck5ncVNTcHc1YlNRUTdiaHFyTXo5N0RFOUV1TjZDRXNCdkcwMnZXdXNiQXY0UVJRWHg?oc=5)
+
+---
 
 ### [Studie zeigt mögliche Risikofaktoren bei chronischer Hepatitis E: Erhöhtes Risiko für komplizierte Behandlungsverläufe - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ETGpuRGtQZTFadWgxaE1QZHhVcmptTUJoQTZUMWRHMkdjU1VLUTA5alYtWjRSQ2pIRDhSek5KVDBCT3UtdkxXV29pQQ?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Dupilumab?">
-<strong>Dupilumab</strong> currently has <strong>21 news articles</strong>, with 9 predicted indications.
+<strong>Dupilumab</strong> currently has <strong>22 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Dupilumab with the latest he
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (21)
+## Related News (22)
+
+### [Influenza e BPCO, il rischio di un peggioramento che lascia il segno](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWpyTnoxTTRPWlhyRDRvUzU0a2lOTktnWVRuSkc2NXJhX1d1blBOSDZyR0JQMW4tNktFcjJNejFUdlhuVFppTmNITlVFeHZDeTZ3UEhYcWwyTFFZSGplMUtvSjhWVWJDWDBUb0p1T1hYdG1CVEVmSmJKV3NvRkdzZUJJZ3E4QUIxZVdnRzRXcklJVDB0VG42elpUY3ZMV0tVSUZ3cmVEMEdPdjgyX08tNDgzdmpZbFBYTlE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">BPCO</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWpyTnoxTTRPWlhyRDRvUzU0a2lOTktnWVRuSkc2NXJhX1d1blBOSDZyR0JQMW4tNktFcjJNejFUdlhuVFppTmNITlVFeHZDeTZ3UEhYcWwyTFFZSGplMUtvSjhWVWJDWDBUb0p1T1hYdG1CVEVmSmJKV3NvRkdzZUJJZ3E4QUIxZVdnRzRXcklJVDB0VG42elpUY3ZMV0tVSUZ3cmVEMEdPdjgyX08tNDgzdmpZbFBYTlE?oc=5)
+
+---
 
 ### [Studie: Dupilumab bremst Fibrose bei lokalisierter Sklerodermie - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVh3RnBEOXpsYTdzeENPRFNPbl96ZExTcTN6ZTFLQkNmdk9XM1N0N2xRVTlUanJsTmxnaXFzTk1tak1zdDEtUzhNQksyaTZjTE1wZzZTTVZqR0tmeHN5TU45T2gzajVHSlBrRU4tSnk4cVFMU2xQLXh6el9aV0NLTWprN2VBeHVtUjNPN1p0UjM0bHBaMzZJWkpIb2NUa3ZVdnBuOU9iQ2NKR1RMX2JaVFRn?oc=5)
 
