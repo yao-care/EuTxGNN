@@ -3,9 +3,9 @@ layout: default
 title: "ipertensione (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ipertensione (hypertension). 56 articles, 55 related drugs."
+description: "Health news about ipertensione (hypertension). 57 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # ipertensione (hypertension) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about ipertensione (hypertension)?">
-<strong>ipertensione (hypertension)</strong> currently has <strong>56 news articles</strong> and 55 related drugs.
+<strong>ipertensione (hypertension)</strong> currently has <strong>57 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,13 +64,21 @@ This page brings together the latest health news about “ipertensione” and li
 </ul>
 </div>
 
-## Related News (56)
+## Related News (57)
 
 ### [Vaccino antinfluenzale riduce gli infarti: appello dei cardiologi - Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
 
 2026-11-19
 
 Source: [Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
+
+---
+
+### [Influenza: «Il vaccino riduce infarti in chi soffre di cuore e anche in chi ha diabete ipertensione, colesterolo alto» - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNMnBEdVoxY3hDVndkMF9qMHF6S195dEZMaWFhWXBPVndYOWh3Mk5fQ2RRV3J2amoyUFFNa0o3ZDlzWE5COUxpZ3ZsUG00MGtXa2NrNUFOZE9VTnRPLXV4d00waVp0U0UwZEZEc3RjUmhrc19EVmxQSHgtZnlWUWlsRTFuQVdSWGc1dVhCcWpNa3dIN2Fpc0FMQUprbDRWam15WXZtdHB4c18xTURWUGFPOEg3X2dCd0RyaEhVVXhlcEx1T3pKQ3dOd1FZOGJBaXQ4Y2FZNXhGSTlacG1jZHlKOFhTdGtGc3hCNVpRZlRpUXBuMEVKYm8wR2dXVy1DY0F5aDM2SG91NThRel8zb095OVUyWGdkS21BdDU4ZDBnbEU2dWJsdEk2Q2tLVmNac1NlTmFKRk81cUVJa24xNGlRcNIBxgJBVV95cUxOR2ZKTHI1emJfNUFmcTVCQ3AwcTltUHdDaU9XRGNSdDR3cmVjZFg5NjV5cUwzNDlyRXdhc1lzbTVqMUdScGZFMjhwUDVkZnVIMTNqcXlJSXRrQWZ1X0xDc3R6NmpydVdoSW9COWtsR1R4ak11SFpNSnpEeHBfb0JtYTlQcFd0aVRLU0ExR2Vta213cV9mV0JBdllCMk9YSjJESHZ2Z2otY3ViTG5hSllJUlF0aU9lZElwSUs2c1FId1FFbTFCVXM0cnVxQTZFRFpydGthZi1pX0dlaWV5ZUtyQTktZURfUXJhd3AxYlppd05YcDhta3dfeEhDWWtscG5iQ0JxY3ZEYmZhYmtlUjF3ZnpQcjJScjduRnRKVXk3TXNwbXJlQXRQRzc5bGdUZlYyVHFfSkhYdHN0cmJNT2VyanFwNm5jUQ?oc=5)
+
+2026-11-19
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNMnBEdVoxY3hDVndkMF9qMHF6S195dEZMaWFhWXBPVndYOWh3Mk5fQ2RRV3J2amoyUFFNa0o3ZDlzWE5COUxpZ3ZsUG00MGtXa2NrNUFOZE9VTnRPLXV4d00waVp0U0UwZEZEc3RjUmhrc19EVmxQSHgtZnlWUWlsRTFuQVdSWGc1dVhCcWpNa3dIN2Fpc0FMQUprbDRWam15WXZtdHB4c18xTURWUGFPOEg3X2dCd0RyaEhVVXhlcEx1T3pKQ3dOd1FZOGJBaXQ4Y2FZNXhGSTlacG1jZHlKOFhTdGtGc3hCNVpRZlRpUXBuMEVKYm8wR2dXVy1DY0F5aDM2SG91NThRel8zb095OVUyWGdkS21BdDU4ZDBnbEU2dWJsdEk2Q2tLVmNac1NlTmFKRk81cUVJa24xNGlRcNIBxgJBVV95cUxOR2ZKTHI1emJfNUFmcTVCQ3AwcTltUHdDaU9XRGNSdDR3cmVjZFg5NjV5cUwzNDlyRXdhc1lzbTVqMUdScGZFMjhwUDVkZnVIMTNqcXlJSXRrQWZ1X0xDc3R6NmpydVdoSW9COWtsR1R4ak11SFpNSnpEeHBfb0JtYTlQcFd0aVRLU0ExR2Vta213cV9mV0JBdllCMk9YSjJESHZ2Z2otY3ViTG5hSllJUlF0aU9lZElwSUs2c1FId1FFbTFCVXM0cnVxQTZFRFpydGthZi1pX0dlaWV5ZUtyQTktZURfUXJhd3AxYlppd05YcDhta3dfeEhDWWtscG5iQ0JxY3ZEYmZhYmtlUjF3ZnpQcjJScjduRnRKVXk3TXNwbXJlQXRQRzc5bGdUZlYyVHFfSkhYdHN0cmJNT2VyanFwNm5jUQ?oc=5)
 
 ---
 

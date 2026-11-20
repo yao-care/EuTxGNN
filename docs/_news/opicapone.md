@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Opicapone. 0 predicted indications."
 permalink: /news/opicapone/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Opicapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Opicapone?">
-<strong>Opicapone</strong> currently has <strong>61 news articles</strong>, with 0 predicted indications.
+<strong>Opicapone</strong> currently has <strong>62 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (61)
+## Related News (62)
 
 ### [Your brain may be hiding Alzheimer’s from you – and that’s not always a good thing - The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE1Nb29pV1JXRXMwMjRXbjZBLUx6cVN2Vjk4Y3dleUJ3QmpGakVKeFdRTGhyTmYxUENzLVdkZUJJcU5YLVVvTHFGeTBGREZEbjQxTWtJVWs0dUJLeWFwU0VWdUdhOVRZMTlreVNIRzdGYkpVTnpPaFpEU2E2UWpPUDJyN1hLNXBqaHFpa2ZfT29KVVBqQXc1Q0N2aDFJTDhlbVlNNm02OUVyU3p6SXd5QnJtYw?oc=5)
 
 2026-11-18 <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE1Nb29pV1JXRXMwMjRXbjZBLUx6cVN2Vjk4Y3dleUJ3QmpGakVKeFdRTGhyTmYxUENzLVdkZUJJcU5YLVVvTHFGeTBGREZEbjQxTWtJVWs0dUJLeWFwU0VWdUdhOVRZMTlreVNIRzdGYkpVTnpPaFpEU2E2UWpPUDJyN1hLNXBqaHFpa2ZfT29KVVBqQXc1Q0N2aDFJTDhlbVlNNm02OUVyU3p6SXd5QnJtYw?oc=5)
+
+---
+
+### [Experimental Nose Drops Restored Fading Memory And Boosted Neuron Growth In Mice](https://news.google.com/rss/articles/CBMirgFBVV95cUxPUTlsdVMwQUhtSzRBYWgzSk8tRFpMQ2JBU2sybGUzTkJiUXlLTlo0cjZoOTRMYkxVejBwUlRMRFVaZWRQTmtVc2ZERkhmN1R6V2cxRXp4dnN5ejFLeDBKZG9wa3FQQjhnd3Jvc3hXVUdlQUVhT0pzZ1M3QmpxVHlrbWtWME8yNkJoU2pRZXV1TFpYN3Z5QUpkY0VDUFoteF9jREY1OXA2Q1ZlTHYyV2c?oc=5)
+
+2026-11-18 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirgFBVV95cUxPUTlsdVMwQUhtSzRBYWgzSk8tRFpMQ2JBU2sybGUzTkJiUXlLTlo0cjZoOTRMYkxVejBwUlRMRFVaZWRQTmtVc2ZERkhmN1R6V2cxRXp4dnN5ejFLeDBKZG9wa3FQQjhnd3Jvc3hXVUdlQUVhT0pzZ1M3QmpxVHlrbWtWME8yNkJoU2pRZXV1TFpYN3Z5QUpkY0VDUFoteF9jREY1OXA2Q1ZlTHYyV2c?oc=5)
 
 ---
 

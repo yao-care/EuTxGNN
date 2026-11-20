@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Rimegepant. 5 predicted indications."
 permalink: /news/rimegepant/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Rimegepant News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Rimegepant?">
-<strong>Rimegepant</strong> currently has <strong>33 news articles</strong>, with 5 predicted indications.
+<strong>Rimegepant</strong> currently has <strong>31 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Rimegepant with the latest h
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (33)
+## Related News (31)
 
 ### [This One Sleep Factor Matters More Than How Many Hours You Get, Study Suggests](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
 
@@ -52,14 +52,6 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5
 2026-11-19 <span class="news-indication-tag">heart disease</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
-
----
-
-### [Heart surgeon names early sign on front of your leg that your heart is in trouble - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
-
-2026-11-19 <span class="news-indication-tag">heart failure</span>
-
-Source: [Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
 
 ---
 
@@ -84,14 +76,6 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1I4Sk
 2026-11-17 <span class="news-indication-tag">emicrania</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMikwJBVV95cUxQZlE2UFpLeVhRVy1lbERQSFpsczN6Ym9BYXF3R1hpTEN1XzFnMC1HZEY5YUdrYkhWYjJ5NkZYTnh6V0VqMWk0SW5XY1h4RmpFTVVtWmlZR2Y5a2NBMDV4VW9vTWRmTEdNZDViUzZRbVhLMmVzLVJDMnpqYnQ1aWd2dmY0LUN4bnJ4WUhZbVpMVWlvNnFENlU0ZlEzMUJaWFZxb19QQmRBTkpQY25iaFN0MUtwcmN4MVhjdWwzMVNtQ3Y2SVljNUQxRXFnNC00TldpcDJNOU1USTZmTTlMVTN5azBFaFhCVkJnTXhMU2R1Nnd0TUtHYmF2R2N3NjBVbjBVZV9nVDlCSlZYTDQ4c1FvRExBONIBmAJBVV95cUxPdktVOWVDSHkyeVVlRVAwaDZrbHp5dFNucjJHeWFyQktxWXltUTNFcDc4TWJoVU83VFM4SVZrU0hMSFoxby02NTFNZ2MtXzItZkxhWmkwNnFQWTkyUkNaUV9JSEZ2V3FnTHNvQkFqVFBwUjE1TjlCVHlEQUd4bXZEX3FnSHI4MzM1UHFjZE9mbmVmZ3JKejRaVjh1MG91Vk44ZXZZMzVzRUlabUpFWHo5aDcta2pzVjhFdTFDZlhMVVZzbXhuc19sZTNybFQtektFb2czS3FxV1ZZWVc2N2VWNGFOY0dqRVJ0WWlERmhGR200RjFTY1NtUVd1VWs0OXVwa0pGSDQ4WVVXbWY3eGJjQVRSamh6ZFVh?oc=5)
-
----
-
-### [Dieta chetogenica. Tolgo il pane, ma cosa metto nel piatto?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2swSlMtQm1vUXVENm43WElZQ0otUUZiR05RVmI1eEtVOXFqWWNoU1NZR1A3cHBiVzJ6aV82cWg1ZXpUUVYyc2E4TE5LeXB4TVR3TEl3WGVvNWVzTkowRzlHdVlmbHEwZ2FQMHdEWG9aRGdfMW9OLV9MUVZLSWNXSFlKOC1xc3lXdmN5ZGx3UDh1TXBBRVRHQktoelVDR0RhSU5kQ0hOcHJodmM?oc=5)
-
-2026-11-15 <span class="news-indication-tag">emicrania</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2swSlMtQm1vUXVENm43WElZQ0otUUZiR05RVmI1eEtVOXFqWWNoU1NZR1A3cHBiVzJ6aV82cWg1ZXpUUVYyc2E4TE5LeXB4TVR3TEl3WGVvNWVzTkowRzlHdVlmbHEwZ2FQMHdEWG9aRGdfMW9OLV9MUVZLSWNXSFlKOC1xc3lXdmN5ZGx3UDh1TXBBRVRHQktoelVDR0RhSU5kQ0hOcHJodmM?oc=5)
 
 ---
 

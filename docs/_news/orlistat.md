@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Orlistat. 1 predicted indications."
 permalink: /news/orlistat/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Orlistat News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>238 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>242 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,45 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (238)
+## Related News (242)
+
+### [Cómo impacta lo que comemos en el cerebro: «Cenar después de las nueve de la noche aumenta casi un 30 % el riesgo de ictus» - La Voz de Galicia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdk9oUlpLM3JGak9yYi15SGZqS0hkbDJ3TEFMSjZmYjg5SDBfaHpZOTVGZDc0WkxEV2lDOThvdjlMMGV0ckxSM3FJMXdvQ3huUmhCV2ZNLVZDeFNmS2lVZU5jSklHOUZNTnpwcXV5RnZmR0lycHVkUHptQXJMcU1MYjN0RFluazBjMmlSQlJxcEpWd3pQbjhUZFh1WkttYjctd2xXNEFzSExvYU81a1dCQzllc3gtN2xUMnhCOWFRc2ZZWUdYTHhrdzFHMGg0WTZSNTlsX3pLYmh3NV9LOXJOcWZzUFN0Nm8wM0NPNnhSS25JTVA5LXRoX2REV3gwRVhDSnBoMHVZTkhJLUHSAZACQVVfeXFMUGRQOFdGUnEwbUhCLUhrdUZkb2J6eG4xbkRIeGFGWmdKR2ExVlZCWVlNSWRWOTVuWjAta09xak0yTld1aTNKVld6eEtlelZoN1BKT0xxdlFfY3p6ZHhJbXEtSXgzOUlzY3ZwRFhPOEc5UzBnX0p1V2tWa2V5MnQ2OVFGVExRa3l0RVBINWRUbUd5blFpSWVwU1YtdnhjWnRLdDBXTUNSLV9fTXhmTVdaX0JKaDZ6ZFFndmpjYk56WDR3dnU1b2xHYi16OFFZcGplVVBqUkpSYUVkSGR1emRvM3pENnVhTkhLN0JFOW8xQjIwWU5ONEtKQk1SQ2NZa3NkcUlfdWhqT0hLcXdHM0VkLXk?oc=5)
+
+2026-11-20 <span class="news-indication-tag">ictus</span>
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdk9oUlpLM3JGak9yYi15SGZqS0hkbDJ3TEFMSjZmYjg5SDBfaHpZOTVGZDc0WkxEV2lDOThvdjlMMGV0ckxSM3FJMXdvQ3huUmhCV2ZNLVZDeFNmS2lVZU5jSklHOUZNTnpwcXV5RnZmR0lycHVkUHptQXJMcU1MYjN0RFluazBjMmlSQlJxcEpWd3pQbjhUZFh1WkttYjctd2xXNEFzSExvYU81a1dCQzllc3gtN2xUMnhCOWFRc2ZZWUdYTHhrdzFHMGg0WTZSNTlsX3pLYmh3NV9LOXJOcWZzUFN0Nm8wM0NPNnhSS25JTVA5LXRoX2REV3gwRVhDSnBoMHVZTkhJLUHSAZACQVVfeXFMUGRQOFdGUnEwbUhCLUhrdUZkb2J6eG4xbkRIeGFGWmdKR2ExVlZCWVlNSWRWOTVuWjAta09xak0yTld1aTNKVld6eEtlelZoN1BKT0xxdlFfY3p6ZHhJbXEtSXgzOUlzY3ZwRFhPOEc5UzBnX0p1V2tWa2V5MnQ2OVFGVExRa3l0RVBINWRUbUd5blFpSWVwU1YtdnhjWnRLdDBXTUNSLV9fTXhmTVdaX0JKaDZ6ZFFndmpjYk56WDR3dnU1b2xHYi16OFFZcGplVVBqUkpSYUVkSGR1emRvM3pENnVhTkhLN0JFOW8xQjIwWU5ONEtKQk1SQ2NZa3NkcUlfdWhqT0hLcXdHM0VkLXk?oc=5)
+
+---
+
+### [Nuevos fármacos contra la obesidad: desafío para mantenerse al día](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm1JSUVHRl84OFpjVmpHQm1aWlRwaXMtRWNoRWQ0cmYwS0lsdlY2LVFDNGF2SndUYXR0WlpobTBSQ1lhRDFtQ0dYWU5RUFNPcUV5azdVUW56VE1MNE9kRnhsR3JUOFJtWHc1XzFjdTYxVEJxaXcwX1dDUHZhc2tsbXJHRU5sT0Zwd01BWERiMmNwdjdOT3EzRFo1YlFIZ09XakVFa0NBcXJDZ0xsVWc?oc=5)
+
+2026-11-20 <span class="news-indication-tag">obesidad</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm1JSUVHRl84OFpjVmpHQm1aWlRwaXMtRWNoRWQ0cmYwS0lsdlY2LVFDNGF2SndUYXR0WlpobTBSQ1lhRDFtQ0dYWU5RUFNPcUV5azdVUW56VE1MNE9kRnhsR3JUOFJtWHc1XzFjdTYxVEJxaXcwX1dDUHZhc2tsbXJHRU5sT0Zwd01BWERiMmNwdjdOT3EzRFo1YlFIZ09XakVFa0NBcXJDZ0xsVWc?oc=5)
+
+---
+
+### [Colesterolo Ldl e rischio infarto ed ictus, quanto ne sanno davvero gli over-50? - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVmw1dmoybzJWRHVDU243cG1qck15czlvU0xLY1dkT2N0OWpoYXFueUstVk51SjBXWDlIb1hTMFdkR0dncG80SGVDQ1F0c0lzU0MwNmo2cVVoYXRuTTJtclFzclJvODktb2lfXzN0LTFhNUFnVjRPcER6a3ZyMk1VMk9BUWVPLXlDY3UxV2FBY21WbGlZZWYwdW5QV1FLQURIRGNpRGg4eGw3c1NqckVVeVlGOWtWUQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">ictus</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVmw1dmoybzJWRHVDU243cG1qck15czlvU0xLY1dkT2N0OWpoYXFueUstVk51SjBXWDlIb1hTMFdkR0dncG80SGVDQ1F0c0lzU0MwNmo2cVVoYXRuTTJtclFzclJvODktb2lfXzN0LTFhNUFnVjRPcER6a3ZyMk1VMk9BUWVPLXlDY3UxV2FBY21WbGlZZWYwdW5QV1FLQURIRGNpRGg4eGw3c1NqckVVeVlGOWtWUQ?oc=5)
+
+---
 
 ### [Il colesterolo è basso ma i trigliceridi sono alti: che cosa raccontano gli esami](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGpCcjcwT0t1Mk9jdk1nYXVoYzNlVXdlNEhiTnp2RnBXbjJ6U25pUmFWWDZrbmlVa3JqVzk2c085Vi1wLThJdllUblZqaGs3dkFFaXd5OVNla2xFQ1d1b1dJS3ZNWUZ4OEN5d3dPWEdKbnlHeFdIa3kzcTc5ZWttR3ByOG9QUTM2dFYxSGRmMUxDU0drMnVNeDVKa25uR0tua0wtd3RYc3QyNEJLNUJZb0xJc2ltNFFwamNNeXhXYkk3MldicWdlaGNfQQ?oc=5)
 
 2026-11-19 <span class="news-indication-tag">ictus</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGpCcjcwT0t1Mk9jdk1nYXVoYzNlVXdlNEhiTnp2RnBXbjJ6U25pUmFWWDZrbmlVa3JqVzk2c085Vi1wLThJdllUblZqaGs3dkFFaXd5OVNla2xFQ1d1b1dJS3ZNWUZ4OEN5d3dPWEdKbnlHeFdIa3kzcTc5ZWttR3ByOG9QUTM2dFYxSGRmMUxDU0drMnVNeDVKa25uR0tua0wtd3RYc3QyNEJLNUJZb0xJc2ltNFFwamNNeXhXYkk3MldicWdlaGNfQQ?oc=5)
+
+---
+
+### [GLP-1-RA: Trennungsschmerz fürs Herz - DocCheck News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlkweURkSE52NXNHREtmazQ1akxUc0ZKTG5VXzloejZHQ0FXTThDVzUtRVhiWHJqTm44MW10czZLMUhxRWRqcmlkZmJDQ3JHYnBrUlprX01UVmt2Q0s5MDhvY19XTi1PTUd3b1dFMThPdXZtUGU3XzdTb0ludFpGUW9vQlNpOVNKRml5MlA2RQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [DocCheck News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlkweURkSE52NXNHREtmazQ1akxUc0ZKTG5VXzloejZHQ0FXTThDVzUtRVhiWHJqTm44MW10czZLMUhxRWRqcmlkZmJDQ3JHYnBrUlprX01UVmt2Q0s5MDhvY19XTi1PTUd3b1dFMThPdXZtUGU3XzdTb0ludFpGUW9vQlNpOVNKRml5MlA2RQ?oc=5)
 
 ---
 
@@ -149,7 +181,7 @@ Source: [ABC](https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2RoNVdHMS04c
 
 ### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
-2026-11-18 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">diabetes</span>
+2026-11-18 <span class="news-indication-tag">Adipositas</span>
 
 Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
@@ -251,11 +283,11 @@ Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkgw
 
 ---
 
-### [Il richiamo dell'Ordine dei farmacisti sulla prescrizione del Mounjaro: quando un farmaco diventa prodotto di consumo - Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
+### [Schlaganfall: Kein Rätselraten im Rettungswagen - DocCheck News](https://news.google.com/rss/articles/CBMingFBVV95cUxNMHExMWZlRkFhRjlkZWotN2JSSUw3N19UUW9OUE1PRDdUSTdvcUFhSk8wUG5XTzZZRlF6Q1RDWmxSQVlhdjU5SHdZak1vRk04bjU2VHlnZ0FSYjZCNTNUaGVCb1NrdmY0Qm1DRDJBbkYzN000dEZzOXU3SU0zUlRDQnNCN2E2bzFNNjVVQXA0a3FFeUtEY3JxLWFEdGlOdw?oc=5)
 
-2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-11-16 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
+Source: [DocCheck News](https://news.google.com/rss/articles/CBMingFBVV95cUxNMHExMWZlRkFhRjlkZWotN2JSSUw3N19UUW9OUE1PRDdUSTdvcUFhSk8wUG5XTzZZRlF6Q1RDWmxSQVlhdjU5SHdZak1vRk04bjU2VHlnZ0FSYjZCNTNUaGVCb1NrdmY0Qm1DRDJBbkYzN000dEZzOXU3SU0zUlRDQnNCN2E2bzFNNjVVQXA0a3FFeUtEY3JxLWFEdGlOdw?oc=5)
 
 ---
 

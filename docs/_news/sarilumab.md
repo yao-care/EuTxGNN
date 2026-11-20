@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Sarilumab. 0 predicted indications."
 permalink: /news/sarilumab/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Sarilumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>47 news articles</strong>, with 0 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>48 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (47)
+## Related News (48)
+
+### [Expertenstimme: neue Daten zur endoskopischen Remission beim Morbus Crohn – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMikgJBVV95cUxNUGJFS2ZwUXl6VE1rUzFBM05BWERWNE1hbnNOcnRfSnBJazZZWU5nNE1LZ29VbmFUQjE5QXVHVXVYbWNGQVZVZENMVEtqYkpkQkFVYnVjajh4MVJScmdjdnVMTEJPcnZWS0puMjUzbzZ4T2M5SjNFOTg3b3g4dmd5VklaMUZhcjk0T05OOEFaYzRHMDlER1NCc3ZzQmdfOTBLdmJWeG9QNkRWamZVVFZhSWFvYkpXQ3BlVHNMaEFSbVVwb2tuWkpZZzJnVEROWTlsUHIxczI3MURUSkNDTzlRbmVjOGQ4Y1hfNGM4TGVvQms0aS02LTJ2NUtYMG1GUFlqQ3MtQW9qX1Y5R1B0dGNpTFh3?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Morbus Crohn</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMikgJBVV95cUxNUGJFS2ZwUXl6VE1rUzFBM05BWERWNE1hbnNOcnRfSnBJazZZWU5nNE1LZ29VbmFUQjE5QXVHVXVYbWNGQVZVZENMVEtqYkpkQkFVYnVjajh4MVJScmdjdnVMTEJPcnZWS0puMjUzbzZ4T2M5SjNFOTg3b3g4dmd5VklaMUZhcjk0T05OOEFaYzRHMDlER1NCc3ZzQmdfOTBLdmJWeG9QNkRWamZVVFZhSWFvYkpXQ3BlVHNMaEFSbVVwb2tuWkpZZzJnVEROWTlsUHIxczI3MURUSkNDTzlRbmVjOGQ4Y1hfNGM4TGVvQms0aS02LTJ2NUtYMG1GUFlqQ3MtQW9qX1Y5R1B0dGNpTFh3?oc=5)
+
+---
 
 ### [Expertenstimme: neue Daten zur endoskopischen Remission beim Morbus Crohn – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcmFidlZla0poanVDTTZ5a19OLTFfS2dWX0daeEp1VU52b3lxYzNScTNnMS13a0hTLUZLbXFldklzQzZYcWQ2TmVSNkNuSmtOMURHaWFNWUJTYkFxb0RaV0R3ZjNYYXExcEpnVmd3WXFIYXM0V2pRbXNYRjZmMFQwS1hkYU42NFdPSnVHeU9QdWw5YnVlOFBwZDBvM3NaSk9xZEFDd0d1TUJkRVg0dmdMZEYxaU90czdiMGlyQlpNWjVXaVpzUnJyUXl4MVhzRnJVdllLNzBkUnVBb2xxSG9yWW5Cejd3N1BvcEJzRVNNbkc1NU0?oc=5)
 

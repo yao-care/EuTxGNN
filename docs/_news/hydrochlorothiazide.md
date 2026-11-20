@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Hydrochlorothiazide. 0 predicted indications."
 permalink: /news/hydrochlorothiazide/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Hydrochlorothiazide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Hydrochlorothiazide?">
-<strong>Hydrochlorothiazide</strong> currently has <strong>443 news articles</strong>, with 0 predicted indications.
+<strong>Hydrochlorothiazide</strong> currently has <strong>448 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Hydrochlorothiazide with the
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (443)
+## Related News (448)
+
+### [Los oncólogos advierten de que fumar puede triplicar el riesgo de cáncer de páncreas](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVB1S3JzUEVFaVU0VkRnaFMzZHY4bUtnNFZQWUNlVDN2M2NNVnk5Qmw2WkVDcXNPU21adEcyOTRadEZ0eGlVNFFfZG1HTUZTSWlmWU9RMzJHenp3RGxUeW1LWDlnalB6azJ3WEcxdFJjdlJVNzZRVnpoZExmc1Q3MUs3LVkwYmI2Z0g1TmZxOTkxeVFtTmQyZ0tJbEI1d1lGR2o5UGM1elRSdUs5eGk5SGQ5aw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">tumor</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVB1S3JzUEVFaVU0VkRnaFMzZHY4bUtnNFZQWUNlVDN2M2NNVnk5Qmw2WkVDcXNPU21adEcyOTRadEZ0eGlVNFFfZG1HTUZTSWlmWU9RMzJHenp3RGxUeW1LWDlnalB6azJ3WEcxdFJjdlJVNzZRVnpoZExmc1Q3MUs3LVkwYmI2Z0g1TmZxOTkxeVFtTmQyZ0tJbEI1d1lGR2o5UGM1elRSdUs5eGk5SGQ5aw?oc=5)
+
+---
 
 ### [Innovación tecnológica revoluciona tratamiento de cáncer de pulmón: SMOT](https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3dsTWgzeENtdnJ1YXVQTVhXMjlMOUVBRm5jOC04aGRjdDY2dG1QMS1EMjNGUFFXQ0R0cG0xMHpmbW9RcXljSGt2bzhISm9NNVBvSlJtMzdNMDVPRjAzRWpTZ2o0YTVNS2NCZEZIVzhFY0oxdk5acEd4X1dJNVVOTjd5aHNLeVZqaUs0M1FEa3B6Q0pnZkZlTnU2dTlTVlRQeDNKVFlqRVkwR1NxUkNld2t6NlpFbWs?oc=5)
 
@@ -45,6 +53,14 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3dsTWgzeEN
 2026-11-19 <span class="news-indication-tag">cancer</span>
 
 Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijAFBVV95cUxPNmNlTTNzOHlKNVNTd25ZNGpaY1RFREhSYXYwYVBmV25Va2p3TGg4SkJyYnRZREM2YkVZZzdiWnVpY2pERTc0UUVwZUJtVXNkLThVN0ZDdGFINEdhYXplaFpzcTRxRDZSRHRsWGFjem11d0ZzNlk2ZHBwZm9nYk5PUTZmVGFXdVRJM2ZTRw?oc=5)
+
+---
+
+### [Psa e tumore alla prostata: le nuove indicazioni dell’American Cancer Society - la Repubblica](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDM4dXdOd1otNmxtNkg3VjBoeXh1d1NvOGp3SFBuVUxIVy1oVDRkc3lRWTlMdWhwQ25aWDczbVg2U2lYSFdzRXl0QmVpT1hUdEdTVWRNSEtRbndRaXJrc2V3Y1dsNm5kSkJhOHluYXJ1bUxZM243d2t3WXk4VWRnSGRQb0czS1E5Vlg4c0FhTmw0bWhYTnZkM0QxSENSRGthUUo4NU9LYzVUSnNKeGd1cU5pUTQ3VWx0V3gyWXBpYw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDM4dXdOd1otNmxtNkg3VjBoeXh1d1NvOGp3SFBuVUxIVy1oVDRkc3lRWTlMdWhwQ25aWDczbVg2U2lYSFdzRXl0QmVpT1hUdEdTVWRNSEtRbndRaXJrc2V3Y1dsNm5kSkJhOHluYXJ1bUxZM243d2t3WXk4VWRnSGRQb0czS1E5Vlg4c0FhTmw0bWhYTnZkM0QxSENSRGthUUo4NU9LYzVUSnNKeGd1cU5pUTQ3VWx0V3gyWXBpYw?oc=5)
 
 ---
 
@@ -64,6 +80,14 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6
 
 ---
 
+### [Influenza: «Il vaccino riduce infarti in chi soffre di cuore e anche in chi ha diabete ipertensione, colesterolo alto» - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNMnBEdVoxY3hDVndkMF9qMHF6S195dEZMaWFhWXBPVndYOWh3Mk5fQ2RRV3J2amoyUFFNa0o3ZDlzWE5COUxpZ3ZsUG00MGtXa2NrNUFOZE9VTnRPLXV4d00waVp0U0UwZEZEc3RjUmhrc19EVmxQSHgtZnlWUWlsRTFuQVdSWGc1dVhCcWpNa3dIN2Fpc0FMQUprbDRWam15WXZtdHB4c18xTURWUGFPOEg3X2dCd0RyaEhVVXhlcEx1T3pKQ3dOd1FZOGJBaXQ4Y2FZNXhGSTlacG1jZHlKOFhTdGtGc3hCNVpRZlRpUXBuMEVKYm8wR2dXVy1DY0F5aDM2SG91NThRel8zb095OVUyWGdkS21BdDU4ZDBnbEU2dWJsdEk2Q2tLVmNac1NlTmFKRk81cUVJa24xNGlRcNIBxgJBVV95cUxOR2ZKTHI1emJfNUFmcTVCQ3AwcTltUHdDaU9XRGNSdDR3cmVjZFg5NjV5cUwzNDlyRXdhc1lzbTVqMUdScGZFMjhwUDVkZnVIMTNqcXlJSXRrQWZ1X0xDc3R6NmpydVdoSW9COWtsR1R4ak11SFpNSnpEeHBfb0JtYTlQcFd0aVRLU0ExR2Vta213cV9mV0JBdllCMk9YSjJESHZ2Z2otY3ViTG5hSllJUlF0aU9lZElwSUs2c1FId1FFbTFCVXM0cnVxQTZFRFpydGthZi1pX0dlaWV5ZUtyQTktZURfUXJhd3AxYlppd05YcDhta3dfeEhDWWtscG5iQ0JxY3ZEYmZhYmtlUjF3ZnpQcjJScjduRnRKVXk3TXNwbXJlQXRQRzc5bGdUZlYyVHFfSkhYdHN0cmJNT2VyanFwNm5jUQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNMnBEdVoxY3hDVndkMF9qMHF6S195dEZMaWFhWXBPVndYOWh3Mk5fQ2RRV3J2amoyUFFNa0o3ZDlzWE5COUxpZ3ZsUG00MGtXa2NrNUFOZE9VTnRPLXV4d00waVp0U0UwZEZEc3RjUmhrc19EVmxQSHgtZnlWUWlsRTFuQVdSWGc1dVhCcWpNa3dIN2Fpc0FMQUprbDRWam15WXZtdHB4c18xTURWUGFPOEg3X2dCd0RyaEhVVXhlcEx1T3pKQ3dOd1FZOGJBaXQ4Y2FZNXhGSTlacG1jZHlKOFhTdGtGc3hCNVpRZlRpUXBuMEVKYm8wR2dXVy1DY0F5aDM2SG91NThRel8zb095OVUyWGdkS21BdDU4ZDBnbEU2dWJsdEk2Q2tLVmNac1NlTmFKRk81cUVJa24xNGlRcNIBxgJBVV95cUxOR2ZKTHI1emJfNUFmcTVCQ3AwcTltUHdDaU9XRGNSdDR3cmVjZFg5NjV5cUwzNDlyRXdhc1lzbTVqMUdScGZFMjhwUDVkZnVIMTNqcXlJSXRrQWZ1X0xDc3R6NmpydVdoSW9COWtsR1R4ak11SFpNSnpEeHBfb0JtYTlQcFd0aVRLU0ExR2Vta213cV9mV0JBdllCMk9YSjJESHZ2Z2otY3ViTG5hSllJUlF0aU9lZElwSUs2c1FId1FFbTFCVXM0cnVxQTZFRFpydGthZi1pX0dlaWV5ZUtyQTktZURfUXJhd3AxYlppd05YcDhta3dfeEhDWWtscG5iQ0JxY3ZEYmZhYmtlUjF3ZnpQcjJScjduRnRKVXk3TXNwbXJlQXRQRzc5bGdUZlYyVHFfSkhYdHN0cmJNT2VyanFwNm5jUQ?oc=5)
+
+---
+
 ### [This One Sleep Factor Matters More Than How Many Hours You Get, Study Suggests](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
 
 2026-11-19 <span class="news-indication-tag">heart disease</span>
@@ -77,6 +101,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5
 2026-11-19 <span class="news-indication-tag">tumor</span>
 
 Source: [Nueva Alcarria.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMkNtNW52SXh5a0FVbWJZWXRPQ1BwMG1weEdsLUpwS0hmLXJpTEYwWWM2SUVmYkx1WXRXS2xXV2RkbUZzX3c4WGtyY2tOWEJ0WnhiQ2hYczBEY2VmZkxBbHFYYjZvbFhvc0ZUTnlmNE9ndUVMYWFlYVBQT1h5elJqbnVlZ0pFWHFzaDZ2c2xWUmNhVEVMeXJYWVJ5RFNobW1SaFFtTm1ZT3UtZXM?oc=5)
+
+---
+
+### [«Anéantie»: sa fille reçoit un diagnostic de cancer de stade 4 à un très jeune âge - Noovo Info](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR1VjN1I0eEQ2UVV0SkhvdDhob0NfcHpNZWtBZ3B5RmFQWkpUUG1qUFRidHkzMlJaTGNnQU9KTmxSV2RXUXNuZThRYlZSR1RwM3lta0E0OVRjSjBYZUc5TFZuanVQYU95MTNQYkZjd0tuVHZXbkFuX1pRWGdtNTVHWlp6NXRzSHR3ZkMzWnZmS0x0MHVQYkNkWkwxSE43c2dWWVJXY1RVV1RMdUhIdDVFQkRSSFoybFhyYm5DTE1yY194WWRYRzk4Uw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Noovo Info](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR1VjN1I0eEQ2UVV0SkhvdDhob0NfcHpNZWtBZ3B5RmFQWkpUUG1qUFRidHkzMlJaTGNnQU9KTmxSV2RXUXNuZThRYlZSR1RwM3lta0E0OVRjSjBYZUc5TFZuanVQYU95MTNQYkZjd0tuVHZXbkFuX1pRWGdtNTVHWlp6NXRzSHR3ZkMzWnZmS0x0MHVQYkNkWkwxSE43c2dWWVJXY1RVV1RMdUhIdDVFQkRSSFoybFhyYm5DTE1yY194WWRYRzk4Uw?oc=5)
 
 ---
 
@@ -136,19 +168,19 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxQMEsyNXJK
 
 ---
 
+### [Tumore pancreas, daraxonrasib approvato in Europa. Come funziona e quando arriva in Italia - Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTdaOU9DcTBoZXdpa1JUMzIwSlJYbTNyWF93MWw0U0hJcFZWM1Q3Sl9pZ0tfS3ZDdXhRRVU1SXVvUjBOYS16UG81WnlJXzBGX2xpZEQxWmNXSUdvdUtmMGFNTGNqMmNnZWxzcEQwa2IxVGcwVGhiRV9oZkRhSFpteFNPZE1uemhCSVdHVWhwUQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">tumor</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTdaOU9DcTBoZXdpa1JUMzIwSlJYbTNyWF93MWw0U0hJcFZWM1Q3Sl9pZ0tfS3ZDdXhRRVU1SXVvUjBOYS16UG81WnlJXzBGX2xpZEQxWmNXSUdvdUtmMGFNTGNqMmNnZWxzcEQwa2IxVGcwVGhiRV9oZkRhSFpteFNPZE1uemhCSVdHVWhwUQ?oc=5)
+
+---
+
 ### [Krebs neu denken: Wie Forschung und Prävention Hoffnung machen - Ruhr Nachrichten](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkwtSEpfdlBZTm05TjFxT0ZYc25aMG1oMUoxYWo5SG1kU21kbW1CampkTjdDZlZabG9yMGthUlptTmRkZV9kYWYzNjV3WEFaWDEzWXFqRkdhNFlYZHczR25RSll5WUl6dzNVV0FuMkZvcThEZ3ZnWE1XdUdyLTlkZVl6dVBuTW9JeXp5RmxYdDNpcWhEMHk3Qk0tRTdHbk9wdHJYM04yQUt0N3ZBUi01Ulhrbk9qTnc?oc=5)
 
 2026-11-19 <span class="news-indication-tag">Krebs</span>
 
 Source: [Ruhr Nachrichten](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkwtSEpfdlBZTm05TjFxT0ZYc25aMG1oMUoxYWo5SG1kU21kbW1CampkTjdDZlZabG9yMGthUlptTmRkZV9kYWYzNjV3WEFaWDEzWXFqRkdhNFlYZHczR25RSll5WUl6dzNVV0FuMkZvcThEZ3ZnWE1XdUdyLTlkZVl6dVBuTW9JeXp5RmxYdDNpcWhEMHk3Qk0tRTdHbk9wdHJYM04yQUt0N3ZBUi01Ulhrbk9qTnc?oc=5)
-
----
-
-### [Heart surgeon names early sign on front of your leg that your heart is in trouble - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
-
-2026-11-19 <span class="news-indication-tag">heart failure</span>
-
-Source: [Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
 
 ---
 
@@ -250,7 +282,7 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNT
 
 ### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 
-2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 
@@ -573,6 +605,14 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX0x
 2026-11-16 <span class="news-indication-tag">Krebs</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSVdIbXJhWE1zbXNwMzIzX2NHdXZLeklVUmRNUk5PeW5qV24tU2tJaWw1NG03SnpNTVVyekJzOFJaWDZTMUNhZDN4M0dPWmFnb3RqbzlQejNJRERxYnd3TFMxRTk0dl91Y1QwS3JiSjFZeVVhNUUtQTlJbHlydWMwSmJjci1jUDlMaXhNaEYzbkZTN2sta1hJOVQwaDl4QVk4cEFvQ0hNY2VGY3hOeE55NzcwQ2NfdzNTVWxUam9CMVJ4SlIzdFh5bURFbWtVZm9RTUlPX1BwYll6UjhOdm5QSEtJZUwzRVZ1V3g5TWVUbXM1dElOdHFnXzktSkc?oc=5)
+
+---
+
+### [Tumori, come funziona la protonterapia a 360 gradi: più precisione e meno radiazioni ai tessuti sani - la Repubblica](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTFVQZmszS0lwdDY3bTBPeE04aElXOE9wdGxyLVNpU0hsLUY2ZjBPbEdVbzBNenpiYkN4ZXBrdkV0WG1ZdUlrY09neU9SNjl1MWY4b3RaNnNST2VnQUNlTVNPSjYzSWd5d1pkLUdOWTc2Z21xUk00aTNjZVd3ZENBU2ZvYkpmelc2ZG11YURCTG10V3daSTZvSlRDdU5vMklNYXpXNW9STXEyWUdraGNRWnBVMFdlRm9RLVdBUDhOcldicVdnd3A1clg0YXAtaTRIQy1Ka1JJWDI3QmZCWW92X0JlLXNWVG5FZVI4MTlodFU3Q3VHVHAzbnlMVHE?oc=5)
+
+2026-11-16 <span class="news-indication-tag">tumor</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTFVQZmszS0lwdDY3bTBPeE04aElXOE9wdGxyLVNpU0hsLUY2ZjBPbEdVbzBNenpiYkN4ZXBrdkV0WG1ZdUlrY09neU9SNjl1MWY4b3RaNnNST2VnQUNlTVNPSjYzSWd5d1pkLUdOWTc2Z21xUk00aTNjZVd3ZENBU2ZvYkpmelc2ZG11YURCTG10V3daSTZvSlRDdU5vMklNYXpXNW9STXEyWUdraGNRWnBVMFdlRm9RLVdBUDhOcldicVdnd3A1clg0YXAtaTRIQy1Ka1JJWDI3QmZCWW92X0JlLXNWVG5FZVI4MTlodFU3Q3VHVHAzbnlMVHE?oc=5)
 
 ---
 

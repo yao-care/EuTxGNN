@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Enzalutamide. 5 predicted indications."
 permalink: /news/enzalutamide/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Enzalutamide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Enzalutamide?">
-<strong>Enzalutamide</strong> currently has <strong>367 news articles</strong>, with 5 predicted indications.
+<strong>Enzalutamide</strong> currently has <strong>372 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Enzalutamide with the latest
 <p><a href="{{ '/drugs/enzalutamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (367)
+## Related News (372)
+
+### [Los oncólogos advierten de que fumar puede triplicar el riesgo de cáncer de páncreas](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVB1S3JzUEVFaVU0VkRnaFMzZHY4bUtnNFZQWUNlVDN2M2NNVnk5Qmw2WkVDcXNPU21adEcyOTRadEZ0eGlVNFFfZG1HTUZTSWlmWU9RMzJHenp3RGxUeW1LWDlnalB6azJ3WEcxdFJjdlJVNzZRVnpoZExmc1Q3MUs3LVkwYmI2Z0g1TmZxOTkxeVFtTmQyZ0tJbEI1d1lGR2o5UGM1elRSdUs5eGk5SGQ5aw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">tumor</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVB1S3JzUEVFaVU0VkRnaFMzZHY4bUtnNFZQWUNlVDN2M2NNVnk5Qmw2WkVDcXNPU21adEcyOTRadEZ0eGlVNFFfZG1HTUZTSWlmWU9RMzJHenp3RGxUeW1LWDlnalB6azJ3WEcxdFJjdlJVNzZRVnpoZExmc1Q3MUs3LVkwYmI2Z0g1TmZxOTkxeVFtTmQyZ0tJbEI1d1lGR2o5UGM1elRSdUs5eGk5SGQ5aw?oc=5)
+
+---
 
 ### [Innovación tecnológica revoluciona tratamiento de cáncer de pulmón: SMOT](https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3dsTWgzeENtdnJ1YXVQTVhXMjlMOUVBRm5jOC04aGRjdDY2dG1QMS1EMjNGUFFXQ0R0cG0xMHpmbW9RcXljSGt2bzhISm9NNVBvSlJtMzdNMDVPRjAzRWpTZ2o0YTVNS2NCZEZIVzhFY0oxdk5acEd4X1dJNVVOTjd5aHNLeVZqaUs0M1FEa3B6Q0pnZkZlTnU2dTlTVlRQeDNKVFlqRVkwR1NxUkNld2t6NlpFbWs?oc=5)
 
@@ -55,6 +63,14 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijAF
 
 ---
 
+### [Psa e tumore alla prostata: le nuove indicazioni dell’American Cancer Society - la Repubblica](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDM4dXdOd1otNmxtNkg3VjBoeXh1d1NvOGp3SFBuVUxIVy1oVDRkc3lRWTlMdWhwQ25aWDczbVg2U2lYSFdzRXl0QmVpT1hUdEdTVWRNSEtRbndRaXJrc2V3Y1dsNm5kSkJhOHluYXJ1bUxZM243d2t3WXk4VWRnSGRQb0czS1E5Vlg4c0FhTmw0bWhYTnZkM0QxSENSRGthUUo4NU9LYzVUSnNKeGd1cU5pUTQ3VWx0V3gyWXBpYw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDM4dXdOd1otNmxtNkg3VjBoeXh1d1NvOGp3SFBuVUxIVy1oVDRkc3lRWTlMdWhwQ25aWDczbVg2U2lYSFdzRXl0QmVpT1hUdEdTVWRNSEtRbndRaXJrc2V3Y1dsNm5kSkJhOHluYXJ1bUxZM243d2t3WXk4VWRnSGRQb0czS1E5Vlg4c0FhTmw0bWhYTnZkM0QxSENSRGthUUo4NU9LYzVUSnNKeGd1cU5pUTQ3VWx0V3gyWXBpYw?oc=5)
+
+---
+
 ### [Cáncer de páncreas localmente avanzado: «El objetivo de la terapia con micropartículas de fósforo-32 es intensificar el tratamiento local desde dentro del tumor](https://news.google.com/rss/articles/CBMilgJBVV95cUxObDNmcUhxa19yYk8td3hneXdMaEYxYU9UVTZ2Q1lqQW44NEFhUjBkenhTVXJFRGRzc2RHenN0UFdMRXRsNHBoOGFNZTF1bm5OMGJhZzZUQ2VnbVFWaHJKNnJjYy1ua2RJZmNUejJrcDhERXRLUG5xeW5kYl9FXzBrbERDR2Jrdk5HQmJTbWd3SDdXaXlWMTc5RVlWMzBWbzNqRG92Tjd6VUlhamt4MVpBblNhWHdSSFNSdVIxaHVpWS1Kd3lqakZZVmpwS2ZOdHZ6c3QzbGhyZGxJVkJtUmNoTkJ0UGljSDdJMld2SEhfbl9ISFlVN1JXMFh2eElnNnozeDEzMDA3bVNYaC02YTlmd250SklyZw?oc=5)
 
 2026-11-19 <span class="news-indication-tag">tumor</span>
@@ -68,6 +84,14 @@ Source: [iSanidad](https://news.google.com/rss/articles/CBMilgJBVV95cUxObDNmcUhx
 2026-11-19 <span class="news-indication-tag">tumor</span>
 
 Source: [Nueva Alcarria.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMkNtNW52SXh5a0FVbWJZWXRPQ1BwMG1weEdsLUpwS0hmLXJpTEYwWWM2SUVmYkx1WXRXS2xXV2RkbUZzX3c4WGtyY2tOWEJ0WnhiQ2hYczBEY2VmZkxBbHFYYjZvbFhvc0ZUTnlmNE9ndUVMYWFlYVBQT1h5elJqbnVlZ0pFWHFzaDZ2c2xWUmNhVEVMeXJYWVJ5RFNobW1SaFFtTm1ZT3UtZXM?oc=5)
+
+---
+
+### [«Anéantie»: sa fille reçoit un diagnostic de cancer de stade 4 à un très jeune âge - Noovo Info](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR1VjN1I0eEQ2UVV0SkhvdDhob0NfcHpNZWtBZ3B5RmFQWkpUUG1qUFRidHkzMlJaTGNnQU9KTmxSV2RXUXNuZThRYlZSR1RwM3lta0E0OVRjSjBYZUc5TFZuanVQYU95MTNQYkZjd0tuVHZXbkFuX1pRWGdtNTVHWlp6NXRzSHR3ZkMzWnZmS0x0MHVQYkNkWkwxSE43c2dWWVJXY1RVV1RMdUhIdDVFQkRSSFoybFhyYm5DTE1yY194WWRYRzk4Uw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Noovo Info](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR1VjN1I0eEQ2UVV0SkhvdDhob0NfcHpNZWtBZ3B5RmFQWkpUUG1qUFRidHkzMlJaTGNnQU9KTmxSV2RXUXNuZThRYlZSR1RwM3lta0E0OVRjSjBYZUc5TFZuanVQYU95MTNQYkZjd0tuVHZXbkFuX1pRWGdtNTVHWlp6NXRzSHR3ZkMzWnZmS0x0MHVQYkNkWkwxSE43c2dWWVJXY1RVV1RMdUhIdDVFQkRSSFoybFhyYm5DTE1yY194WWRYRzk4Uw?oc=5)
 
 ---
 
@@ -116,6 +140,14 @@ Source: [+++ derNewsticker.de](https://news.google.com/rss/articles/CBMiWkFVX3lx
 2026-11-19 <span class="news-indication-tag">cancer</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxQMEsyNXJKNmZ0T0lOWGoyVG5jT2pyZEhNUjY3bEY0cWw3R2FUc3VWcjlPVHU5ci16NlloNWdmUXZkMGtvdWI2d18xVUZ3NFZsWDBFamVQX2FFd29iMkFRWlp1MmFIb0wxQ0JBNjg5QzVaQVJxc2lmWENYQnZYVUpudW5vR0ctQzd6X200eUJPM25kQldDQ0xZbVBEc29QUQ?oc=5)
+
+---
+
+### [Tumore pancreas, daraxonrasib approvato in Europa. Come funziona e quando arriva in Italia - Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTdaOU9DcTBoZXdpa1JUMzIwSlJYbTNyWF93MWw0U0hJcFZWM1Q3Sl9pZ0tfS3ZDdXhRRVU1SXVvUjBOYS16UG81WnlJXzBGX2xpZEQxWmNXSUdvdUtmMGFNTGNqMmNnZWxzcEQwa2IxVGcwVGhiRV9oZkRhSFpteFNPZE1uemhCSVdHVWhwUQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">tumor</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTdaOU9DcTBoZXdpa1JUMzIwSlJYbTNyWF93MWw0U0hJcFZWM1Q3Sl9pZ0tfS3ZDdXhRRVU1SXVvUjBOYS16UG81WnlJXzBGX2xpZEQxWmNXSUdvdUtmMGFNTGNqMmNnZWxzcEQwa2IxVGcwVGhiRV9oZkRhSFpteFNPZE1uemhCSVdHVWhwUQ?oc=5)
 
 ---
 
@@ -508,6 +540,14 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX0x
 2026-11-16 <span class="news-indication-tag">Krebs</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSVdIbXJhWE1zbXNwMzIzX2NHdXZLeklVUmRNUk5PeW5qV24tU2tJaWw1NG03SnpNTVVyekJzOFJaWDZTMUNhZDN4M0dPWmFnb3RqbzlQejNJRERxYnd3TFMxRTk0dl91Y1QwS3JiSjFZeVVhNUUtQTlJbHlydWMwSmJjci1jUDlMaXhNaEYzbkZTN2sta1hJOVQwaDl4QVk4cEFvQ0hNY2VGY3hOeE55NzcwQ2NfdzNTVWxUam9CMVJ4SlIzdFh5bURFbWtVZm9RTUlPX1BwYll6UjhOdm5QSEtJZUwzRVZ1V3g5TWVUbXM1dElOdHFnXzktSkc?oc=5)
+
+---
+
+### [Tumori, come funziona la protonterapia a 360 gradi: più precisione e meno radiazioni ai tessuti sani - la Repubblica](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTFVQZmszS0lwdDY3bTBPeE04aElXOE9wdGxyLVNpU0hsLUY2ZjBPbEdVbzBNenpiYkN4ZXBrdkV0WG1ZdUlrY09neU9SNjl1MWY4b3RaNnNST2VnQUNlTVNPSjYzSWd5d1pkLUdOWTc2Z21xUk00aTNjZVd3ZENBU2ZvYkpmelc2ZG11YURCTG10V3daSTZvSlRDdU5vMklNYXpXNW9STXEyWUdraGNRWnBVMFdlRm9RLVdBUDhOcldicVdnd3A1clg0YXAtaTRIQy1Ka1JJWDI3QmZCWW92X0JlLXNWVG5FZVI4MTlodFU3Q3VHVHAzbnlMVHE?oc=5)
+
+2026-11-16 <span class="news-indication-tag">tumor</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTFVQZmszS0lwdDY3bTBPeE04aElXOE9wdGxyLVNpU0hsLUY2ZjBPbEdVbzBNenpiYkN4ZXBrdkV0WG1ZdUlrY09neU9SNjl1MWY4b3RaNnNST2VnQUNlTVNPSjYzSWd5d1pkLUdOWTc2Z21xUk00aTNjZVd3ZENBU2ZvYkpmelc2ZG11YURCTG10V3daSTZvSlRDdU5vMklNYXpXNW9STXEyWUdraGNRWnBVMFdlRm9RLVdBUDhOcldicVdnd3A1clg0YXAtaTRIQy1Ka1JJWDI3QmZCWW92X0JlLXNWVG5FZVI4MTlodFU3Q3VHVHAzbnlMVHE?oc=5)
 
 ---
 

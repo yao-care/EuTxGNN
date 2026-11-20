@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Lasmiditan Succinate. 0 predicted indications."
 permalink: /news/lasmiditan-succinate/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Lasmiditan Succinate News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Lasmiditan Succinate?">
-<strong>Lasmiditan Succinate</strong> currently has <strong>131 news articles</strong>, with 0 predicted indications.
+<strong>Lasmiditan Succinate</strong> currently has <strong>130 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Lasmiditan Succinate with th
 <p><a href="{{ '/drugs/lasmiditan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (131)
+## Related News (130)
+
+### [Nuevos fármacos contra la obesidad: desafío para mantenerse al día](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm1JSUVHRl84OFpjVmpHQm1aWlRwaXMtRWNoRWQ0cmYwS0lsdlY2LVFDNGF2SndUYXR0WlpobTBSQ1lhRDFtQ0dYWU5RUFNPcUV5azdVUW56VE1MNE9kRnhsR3JUOFJtWHc1XzFjdTYxVEJxaXcwX1dDUHZhc2tsbXJHRU5sT0Zwd01BWERiMmNwdjdOT3EzRFo1YlFIZ09XakVFa0NBcXJDZ0xsVWc?oc=5)
+
+2026-11-20 <span class="news-indication-tag">obesidad</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm1JSUVHRl84OFpjVmpHQm1aWlRwaXMtRWNoRWQ0cmYwS0lsdlY2LVFDNGF2SndUYXR0WlpobTBSQ1lhRDFtQ0dYWU5RUFNPcUV5azdVUW56VE1MNE9kRnhsR3JUOFJtWHc1XzFjdTYxVEJxaXcwX1dDUHZhc2tsbXJHRU5sT0Zwd01BWERiMmNwdjdOT3EzRFo1YlFIZ09XakVFa0NBcXJDZ0xsVWc?oc=5)
+
+---
 
 ### [Reunión Anual SEN: La obesidad aumenta el riesgo de ictus y plantea nuevos desafíos en la rehabilitación - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSU5rQzkwTHJBM0dtQUVNN0NVbWZfMFVuT2l0Ni1CX0dYU0w3LXdib3VRbDRBVmFjSjlrNURyMDYyZWdvMVA3cDJib2wzMnVhVy0wU1pDRk9OekxjbldTUlRNSkZzaFFmZVdmeTZjNjNfRVh2V2hweG5YaU90VERqLUVmM2pMUHJBY2oxUUpRc05jQjAzM1JHVlZYZGtEZTVyR3lLT3ktLWNHM2JBSy00V1F4WjNmZUFqVmRsNNIBtwFBVV95cUxNMFdlX1J6cVEwcWpVZUo1WGtZRE9JakNtMzMtTmhuRVZRR0FGNEwta3RkNENZWWhzaEhxaUt3bmp4azYwcTcwTHA1M1k1bjJGY1VDWW1kanNLWTdVZHptSEtFbElIZjdJdU9iVF9nOUY1VjY4Rng4Qm1haHQ5cUVfN2stQVpzOFp1UUl1cDhPQTlZeE5LZFRnNnA4bXZLNjdsYU80aS1SbTA4MWV2RVF0X0RGSWNteUk?oc=5)
 
@@ -89,7 +97,7 @@ Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi
 
 ### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
-2026-11-18 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">diabetes</span>
+2026-11-18 <span class="news-indication-tag">Adipositas</span>
 
 Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
@@ -151,14 +159,6 @@ Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkgw
 
 ---
 
-### [Il richiamo dell'Ordine dei farmacisti sulla prescrizione del Mounjaro: quando un farmaco diventa prodotto di consumo - Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
-
-2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
-
----
-
 ### [Dal diabete ai tumori all’obesità: le malattie croniche dell’uomo colpiscono gli animali – Ecco perché - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR0xUdC1rZDlEbGk2bVE1Z21nNTdadFdJbkF2N2tteXhJWnRjRllmcERBYms5aTdsR0hOVUZpR1RBYXpDS1hwVW9pVmVuZzFwRzB6UTZya3RGTWZlLVRzcWx4c2JVUWw4ZVp4RkhoMGJsaDVicWtnRlo1aXAxekt5MHA2X1RuSkVBckRHS3lDV2k5MWNydVkwVXN5cldhY3N4eFJHaTFrRDJYcERDdC1fdlZqbTR6TUx4bUR3YWdGc2hkNDNfUjFtY3EtYXQyemFJRVRMYWJ0aHBVdjA1RWFIMGtZQ0NILWZzTWNMNU5oR3ZVbThaVjlGQmNB?oc=5)
 
 2026-11-16 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
@@ -196,14 +196,6 @@ Source: [Los Angeles Times](https://news.google.com/rss/articles/CBMi5AFBVV95cUx
 2026-11-16 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Corriere Milano](https://news.google.com/rss/articles/CBMizAJBVV95cUxOWUVqa3Q3Unh5N3gyWWlveXdUX2NaaEZ3aWlROHV2bUhENGFkeGR2V3c3UnNaaVl0UWtuMi1Zd2stcllJLVNlZlM4ZmZNeHljdk12VVJYVDJGTl9XT3RPRjZZbkJVOHJCU1VoWi1LMzBFTzJPTG1KS2dlYXRUUEdLS2VlbmhObVJfenBHZ0tKbm1kVlBjakdLY29SdjBYaXltOU1heU9tUjZkNmtvaWVpZ0dzdHZDQlRuZkJfNjdGc3ZJLVRGcmtKTnJyRWozT3Z0WWxOOW11SE1mbTlFWVdWX3BDSmc4anF1VEVTMmpWSm9ob3dROF9GZ0VJQkFzeUV2cGpzZE5OeXE1eTFQMFN4bFdmTTc5OFZtSWFOMWZ5dmJCNG9lODNwZTBRQVE1ZmtNR3N6cjZSX0twSS11ZU9XRDE4aS1tbFhDWW1RMNIB0gJBVV95cUxQNF9TLVVIc2RvVXB2T2xzOTRKSzlEZEtNTlo5RU1CNFpqbWN2dER5YVh0THphZ0YtRVIyaGx0Skt4bUx5N1hPUW83R3hEdl9yNkpyTWxXbllWVUd2SE1SMGNjblI0bkNKSVZFNzltRWFIMjNvTWtOamJsbmV4QnkxdENYUmg0Z0JuVVoxLUVyVUduclhkOVdscFU2X04ydVdIZGF1eVdQaDVySE0tRF9hclJKNml5c1BuTFNHMy1IRmJsOWpRMGZoSWlZQl9SUzVucmJPbzRGR1Q3VEgxOFpidHV6cDFWeW02NWo1QWNNc2hOZEVkX2pNYnlNZTFPYXl2aDY4UWtPN2s5N3F2SER4ZFhyblFyQ29TMWZWTjJYYThXeVgxbDlFZlNzWmpnd3llR0s5RHlLVExwOFp4SF9RcjBFZkZQWnloZzhpMlJmeFB2Zw?oc=5)
-
----
-
-### [Dieta chetogenica. Tolgo il pane, ma cosa metto nel piatto?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2swSlMtQm1vUXVENm43WElZQ0otUUZiR05RVmI1eEtVOXFqWWNoU1NZR1A3cHBiVzJ6aV82cWg1ZXpUUVYyc2E4TE5LeXB4TVR3TEl3WGVvNWVzTkowRzlHdVlmbHEwZ2FQMHdEWG9aRGdfMW9OLV9MUVZLSWNXSFlKOC1xc3lXdmN5ZGx3UDh1TXBBRVRHQktoelVDR0RhSU5kQ0hOcHJodmM?oc=5)
-
-2026-11-15 <span class="news-indication-tag">emicrania</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2swSlMtQm1vUXVENm43WElZQ0otUUZiR05RVmI1eEtVOXFqWWNoU1NZR1A3cHBiVzJ6aV82cWg1ZXpUUVYyc2E4TE5LeXB4TVR3TEl3WGVvNWVzTkowRzlHdVlmbHEwZ2FQMHdEWG9aRGdfMW9OLV9MUVZLSWNXSFlKOC1xc3lXdmN5ZGx3UDh1TXBBRVRHQktoelVDR0RhSU5kQ0hOcHJodmM?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Inebilizumab. 0 predicted indications."
 permalink: /news/inebilizumab/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Inebilizumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Inebilizumab?">
-<strong>Inebilizumab</strong> currently has <strong>649 news articles</strong>, with 0 predicted indications.
+<strong>Inebilizumab</strong> currently has <strong>658 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ This page combines the AI-predicted indications for Inebilizumab with the latest
 <p><a href="{{ '/drugs/inebilizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (649)
+## Related News (658)
+
+### [Los oncólogos advierten de que fumar puede triplicar el riesgo de cáncer de páncreas](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVB1S3JzUEVFaVU0VkRnaFMzZHY4bUtnNFZQWUNlVDN2M2NNVnk5Qmw2WkVDcXNPU21adEcyOTRadEZ0eGlVNFFfZG1HTUZTSWlmWU9RMzJHenp3RGxUeW1LWDlnalB6azJ3WEcxdFJjdlJVNzZRVnpoZExmc1Q3MUs3LVkwYmI2Z0g1TmZxOTkxeVFtTmQyZ0tJbEI1d1lGR2o5UGM1elRSdUs5eGk5SGQ5aw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">tumor</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVB1S3JzUEVFaVU0VkRnaFMzZHY4bUtnNFZQWUNlVDN2M2NNVnk5Qmw2WkVDcXNPU21adEcyOTRadEZ0eGlVNFFfZG1HTUZTSWlmWU9RMzJHenp3RGxUeW1LWDlnalB6azJ3WEcxdFJjdlJVNzZRVnpoZExmc1Q3MUs3LVkwYmI2Z0g1TmZxOTkxeVFtTmQyZ0tJbEI1d1lGR2o5UGM1elRSdUs5eGk5SGQ5aw?oc=5)
+
+---
 
 ### [La IA podría cambiar el monitoreo de la diabetes: lanzan un sensor que predice el riesgo de hipoglucemia durante el sueño](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRzlMdThCaW41cHVEYWZTQXVULUlwcHBkQ29oOFA1OFl3bF9XRmVEUDFpX0hwVjRXOFFxWUtVeHp6UXZLX3FFN0tDSGx2b2VySUh4NDJVQUxXVDhiM2FxbHVyY244YWVNd1hveWxabkNucGF3QkVabTNZYl9zdFhZcGxqUk5XZlBheGZQYU1Qd0RlRklHMXdCZHgtZjNSWV82YktUY2VEeHlwdmlNR0tNYV9TLXA3QWlMNHNJbzFiOGJpcV9YMDF3eGJQN3R4NWRoZXNudm1BTWVBYXU3M2J2a1VhTUVtQQ?oc=5)
 
 2026-11-19 <span class="news-indication-tag">diabetes</span>
 
 Source: [WIRED](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRzlMdThCaW41cHVEYWZTQXVULUlwcHBkQ29oOFA1OFl3bF9XRmVEUDFpX0hwVjRXOFFxWUtVeHp6UXZLX3FFN0tDSGx2b2VySUh4NDJVQUxXVDhiM2FxbHVyY244YWVNd1hveWxabkNucGF3QkVabTNZYl9zdFhZcGxqUk5XZlBheGZQYU1Qd0RlRklHMXdCZHgtZjNSWV82YktUY2VEeHlwdmlNR0tNYV9TLXA3QWlMNHNJbzFiOGJpcV9YMDF3eGJQN3R4NWRoZXNudm1BTWVBYXU3M2J2a1VhTUVtQQ?oc=5)
+
+---
+
+### [Diabetes: Sind lange Spaziergänge oder mehrere kurze besser?](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFp0UXJzbVBzRmRCY2RnQWNZMi1tMjNBQXhVQlFDbkgxQ1h4MVRsMHZqN3RDSHkyTElaWkZESHN1cEtycGZKV2ZlS0tmQjZCQjByZDQxVWs5ek1rem9PVzZ0Q0xmOGxvTXlqVU4waDJ1QXp2b1hLcEwwWWdsbS05WlRNdkFuOTRqZVdFRDY3U01vRFFGdWpyZU5UbjhJOGFvNjhMNEpYZHJXVHN6ajZNbTNLZk4xTDQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">diabetes</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFp0UXJzbVBzRmRCY2RnQWNZMi1tMjNBQXhVQlFDbkgxQ1h4MVRsMHZqN3RDSHkyTElaWkZESHN1cEtycGZKV2ZlS0tmQjZCQjByZDQxVWs5ek1rem9PVzZ0Q0xmOGxvTXlqVU4waDJ1QXp2b1hLcEwwWWdsbS05WlRNdkFuOTRqZVdFRDY3U01vRFFGdWpyZU5UbjhJOGFvNjhMNEpYZHJXVHN6ajZNbTNLZk4xTDQ?oc=5)
 
 ---
 
@@ -56,6 +72,14 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijAF
 
 ---
 
+### [Psa e tumore alla prostata: le nuove indicazioni dell’American Cancer Society - la Repubblica](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDM4dXdOd1otNmxtNkg3VjBoeXh1d1NvOGp3SFBuVUxIVy1oVDRkc3lRWTlMdWhwQ25aWDczbVg2U2lYSFdzRXl0QmVpT1hUdEdTVWRNSEtRbndRaXJrc2V3Y1dsNm5kSkJhOHluYXJ1bUxZM243d2t3WXk4VWRnSGRQb0czS1E5Vlg4c0FhTmw0bWhYTnZkM0QxSENSRGthUUo4NU9LYzVUSnNKeGd1cU5pUTQ3VWx0V3gyWXBpYw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDM4dXdOd1otNmxtNkg3VjBoeXh1d1NvOGp3SFBuVUxIVy1oVDRkc3lRWTlMdWhwQ25aWDczbVg2U2lYSFdzRXl0QmVpT1hUdEdTVWRNSEtRbndRaXJrc2V3Y1dsNm5kSkJhOHluYXJ1bUxZM243d2t3WXk4VWRnSGRQb0czS1E5Vlg4c0FhTmw0bWhYTnZkM0QxSENSRGthUUo4NU9LYzVUSnNKeGd1cU5pUTQ3VWx0V3gyWXBpYw?oc=5)
+
+---
+
 ### [Cáncer de páncreas localmente avanzado: «El objetivo de la terapia con micropartículas de fósforo-32 es intensificar el tratamiento local desde dentro del tumor](https://news.google.com/rss/articles/CBMilgJBVV95cUxObDNmcUhxa19yYk8td3hneXdMaEYxYU9UVTZ2Q1lqQW44NEFhUjBkenhTVXJFRGRzc2RHenN0UFdMRXRsNHBoOGFNZTF1bm5OMGJhZzZUQ2VnbVFWaHJKNnJjYy1ua2RJZmNUejJrcDhERXRLUG5xeW5kYl9FXzBrbERDR2Jrdk5HQmJTbWd3SDdXaXlWMTc5RVlWMzBWbzNqRG92Tjd6VUlhamt4MVpBblNhWHdSSFNSdVIxaHVpWS1Kd3lqakZZVmpwS2ZOdHZ6c3QzbGhyZGxJVkJtUmNoTkJ0UGljSDdJMld2SEhfbl9ISFlVN1JXMFh2eElnNnozeDEzMDA3bVNYaC02YTlmd250SklyZw?oc=5)
 
 2026-11-19 <span class="news-indication-tag">tumor</span>
@@ -72,6 +96,22 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6
 
 ---
 
+### [Influenza: «Il vaccino riduce infarti in chi soffre di cuore e anche in chi ha diabete ipertensione, colesterolo alto» - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNMnBEdVoxY3hDVndkMF9qMHF6S195dEZMaWFhWXBPVndYOWh3Mk5fQ2RRV3J2amoyUFFNa0o3ZDlzWE5COUxpZ3ZsUG00MGtXa2NrNUFOZE9VTnRPLXV4d00waVp0U0UwZEZEc3RjUmhrc19EVmxQSHgtZnlWUWlsRTFuQVdSWGc1dVhCcWpNa3dIN2Fpc0FMQUprbDRWam15WXZtdHB4c18xTURWUGFPOEg3X2dCd0RyaEhVVXhlcEx1T3pKQ3dOd1FZOGJBaXQ4Y2FZNXhGSTlacG1jZHlKOFhTdGtGc3hCNVpRZlRpUXBuMEVKYm8wR2dXVy1DY0F5aDM2SG91NThRel8zb095OVUyWGdkS21BdDU4ZDBnbEU2dWJsdEk2Q2tLVmNac1NlTmFKRk81cUVJa24xNGlRcNIBxgJBVV95cUxOR2ZKTHI1emJfNUFmcTVCQ3AwcTltUHdDaU9XRGNSdDR3cmVjZFg5NjV5cUwzNDlyRXdhc1lzbTVqMUdScGZFMjhwUDVkZnVIMTNqcXlJSXRrQWZ1X0xDc3R6NmpydVdoSW9COWtsR1R4ak11SFpNSnpEeHBfb0JtYTlQcFd0aVRLU0ExR2Vta213cV9mV0JBdllCMk9YSjJESHZ2Z2otY3ViTG5hSllJUlF0aU9lZElwSUs2c1FId1FFbTFCVXM0cnVxQTZFRFpydGthZi1pX0dlaWV5ZUtyQTktZURfUXJhd3AxYlppd05YcDhta3dfeEhDWWtscG5iQ0JxY3ZEYmZhYmtlUjF3ZnpQcjJScjduRnRKVXk3TXNwbXJlQXRQRzc5bGdUZlYyVHFfSkhYdHN0cmJNT2VyanFwNm5jUQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNMnBEdVoxY3hDVndkMF9qMHF6S195dEZMaWFhWXBPVndYOWh3Mk5fQ2RRV3J2amoyUFFNa0o3ZDlzWE5COUxpZ3ZsUG00MGtXa2NrNUFOZE9VTnRPLXV4d00waVp0U0UwZEZEc3RjUmhrc19EVmxQSHgtZnlWUWlsRTFuQVdSWGc1dVhCcWpNa3dIN2Fpc0FMQUprbDRWam15WXZtdHB4c18xTURWUGFPOEg3X2dCd0RyaEhVVXhlcEx1T3pKQ3dOd1FZOGJBaXQ4Y2FZNXhGSTlacG1jZHlKOFhTdGtGc3hCNVpRZlRpUXBuMEVKYm8wR2dXVy1DY0F5aDM2SG91NThRel8zb095OVUyWGdkS21BdDU4ZDBnbEU2dWJsdEk2Q2tLVmNac1NlTmFKRk81cUVJa24xNGlRcNIBxgJBVV95cUxOR2ZKTHI1emJfNUFmcTVCQ3AwcTltUHdDaU9XRGNSdDR3cmVjZFg5NjV5cUwzNDlyRXdhc1lzbTVqMUdScGZFMjhwUDVkZnVIMTNqcXlJSXRrQWZ1X0xDc3R6NmpydVdoSW9COWtsR1R4ak11SFpNSnpEeHBfb0JtYTlQcFd0aVRLU0ExR2Vta213cV9mV0JBdllCMk9YSjJESHZ2Z2otY3ViTG5hSllJUlF0aU9lZElwSUs2c1FId1FFbTFCVXM0cnVxQTZFRFpydGthZi1pX0dlaWV5ZUtyQTktZURfUXJhd3AxYlppd05YcDhta3dfeEhDWWtscG5iQ0JxY3ZEYmZhYmtlUjF3ZnpQcjJScjduRnRKVXk3TXNwbXJlQXRQRzc5bGdUZlYyVHFfSkhYdHN0cmJNT2VyanFwNm5jUQ?oc=5)
+
+---
+
+### [Gestationsdiabetes: DGGG und DDG aktualisieren S3-Leitlinie - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWEQxRnRaY3Z6N1BNR0NQb3Y2eDdxV0JJLURDX0d2YzFMTEJFN0x2RTJ4eWgtOGZ6UlJrY0gwRGxJWXBTNXlhcGN6N0ZVeW1ZS2hrMmNhMHp2dnZudXNsM1ZobF93MDFPak5sQVVkQ1pCWF8zenhSUnlDdGF1RTc5YlFKcG5wVnhtMnM4N0MyenNCcHhlVW1tR3BSeGRVTnlGeGMzT1VFdEtMODB2?oc=5)
+
+2026-11-19 <span class="news-indication-tag">diabetes</span>
+
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWEQxRnRaY3Z6N1BNR0NQb3Y2eDdxV0JJLURDX0d2YzFMTEJFN0x2RTJ4eWgtOGZ6UlJrY0gwRGxJWXBTNXlhcGN6N0ZVeW1ZS2hrMmNhMHp2dnZudXNsM1ZobF93MDFPak5sQVVkQ1pCWF8zenhSUnlDdGF1RTc5YlFKcG5wVnhtMnM4N0MyenNCcHhlVW1tR3BSeGRVTnlGeGMzT1VFdEtMODB2?oc=5)
+
+---
+
 ### [Kurze Spaziergänge statt langer Walk: bessere Blutzucker-Regulation - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkZJOFlRUVBsMW45UGNEYVdEY0R6aHJhUW1rdXR4R0pKU0JrV0lFQkRqMWxuQjJ0aTUyUUdCc0prUFg2dndNMWZuNlNLSjFxM05HdXVXN0txMlp0NWZrWF9DTVhEWkZab2JsUmgxVjhLWEJuMjNscEJhanZVYnpnQ1ZkTE93bFA4QjNaWkRIdmQ3NlJhMUdFOWVwU1FRRU9B?oc=5)
 
 2026-11-19 <span class="news-indication-tag">diabetes</span>
@@ -85,6 +125,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkZJO
 2026-11-19 <span class="news-indication-tag">tumor</span>
 
 Source: [Nueva Alcarria.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMkNtNW52SXh5a0FVbWJZWXRPQ1BwMG1weEdsLUpwS0hmLXJpTEYwWWM2SUVmYkx1WXRXS2xXV2RkbUZzX3c4WGtyY2tOWEJ0WnhiQ2hYczBEY2VmZkxBbHFYYjZvbFhvc0ZUTnlmNE9ndUVMYWFlYVBQT1h5elJqbnVlZ0pFWHFzaDZ2c2xWUmNhVEVMeXJYWVJ5RFNobW1SaFFtTm1ZT3UtZXM?oc=5)
+
+---
+
+### [«Anéantie»: sa fille reçoit un diagnostic de cancer de stade 4 à un très jeune âge - Noovo Info](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR1VjN1I0eEQ2UVV0SkhvdDhob0NfcHpNZWtBZ3B5RmFQWkpUUG1qUFRidHkzMlJaTGNnQU9KTmxSV2RXUXNuZThRYlZSR1RwM3lta0E0OVRjSjBYZUc5TFZuanVQYU95MTNQYkZjd0tuVHZXbkFuX1pRWGdtNTVHWlp6NXRzSHR3ZkMzWnZmS0x0MHVQYkNkWkwxSE43c2dWWVJXY1RVV1RMdUhIdDVFQkRSSFoybFhyYm5DTE1yY194WWRYRzk4Uw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Noovo Info](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR1VjN1I0eEQ2UVV0SkhvdDhob0NfcHpNZWtBZ3B5RmFQWkpUUG1qUFRidHkzMlJaTGNnQU9KTmxSV2RXUXNuZThRYlZSR1RwM3lta0E0OVRjSjBYZUc5TFZuanVQYU95MTNQYkZjd0tuVHZXbkFuX1pRWGdtNTVHWlp6NXRzSHR3ZkMzWnZmS0x0MHVQYkNkWkwxSE43c2dWWVJXY1RVV1RMdUhIdDVFQkRSSFoybFhyYm5DTE1yY194WWRYRzk4Uw?oc=5)
 
 ---
 
@@ -144,6 +192,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxQMEsyNXJK
 
 ---
 
+### [Tumore pancreas, daraxonrasib approvato in Europa. Come funziona e quando arriva in Italia - Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTdaOU9DcTBoZXdpa1JUMzIwSlJYbTNyWF93MWw0U0hJcFZWM1Q3Sl9pZ0tfS3ZDdXhRRVU1SXVvUjBOYS16UG81WnlJXzBGX2xpZEQxWmNXSUdvdUtmMGFNTGNqMmNnZWxzcEQwa2IxVGcwVGhiRV9oZkRhSFpteFNPZE1uemhCSVdHVWhwUQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">tumor</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTdaOU9DcTBoZXdpa1JUMzIwSlJYbTNyWF93MWw0U0hJcFZWM1Q3Sl9pZ0tfS3ZDdXhRRVU1SXVvUjBOYS16UG81WnlJXzBGX2xpZEQxWmNXSUdvdUtmMGFNTGNqMmNnZWxzcEQwa2IxVGcwVGhiRV9oZkRhSFpteFNPZE1uemhCSVdHVWhwUQ?oc=5)
+
+---
+
 ### [Monselice, medico introvabile e anziana diabetica con una sola dose di insulina: «Pazienti in lacrime» - Il Gazzettino](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX0pRVDc1YUJTdWNPUTNiNThZNDBhNk5YUjliLTZmMlJpREVLOFJndnJmRlgyZkxqMlZwTW53T1ZoWjkzQ0tFRGdPbERudldGY3dDeXpmSW5QMWFfR29qRDVCallsNllKUUtwaW0xaVdFbUZvVFh1OGQwQUhfclBZM1lsczFpZks0dXVSWUpWWFBIaGctWXFYb2VocGJrVTZ0ay1XaTE1OTl0YTRDbGRLeWtQcTBrZGFmaTlDSzYtcC16ekVJam9hVlEwYXR2aUkyejM40gHPAUFVX3lxTE5TeGZJOWpJbnNidGgxTHAyeXR2cUp1VkhPSFhUUmE0N1oxcHFhRHM2RDl0d0NtT1JpLUswd2E4TUcyUFVjcGs1UUhZUlhCTkViVXlEcTd0UWRtUDA0R0s3OENGRjdxOVRwcVBkNDg1ZTRjaWpBNWhYT1ZtekFkbGV2Njg4RUhNRjQyRTFMT3h2UVNDQ2NvMlFuR2h4MzBQWHVMbG1ESlpybk92dW1yWW50aWJGeHFObFBTOWhZeExWeXJMOWlab3d2QWtaQzl3Yw?oc=5)
 
 2026-11-19 <span class="news-indication-tag">diabetic</span>
@@ -181,6 +237,14 @@ Source: [El Economista](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbFN
 2026-11-19 <span class="news-indication-tag">tumor</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ2V1SXBlaVJBZUVoMTBvZ1FhVXAxWHB0OTVYSmlIN1VUaGtoV0gyeUZiMS1WZW5GQTJzSHZNal9XZjBGYmRfVTI0S3VaNE5LS3NOUDlnb2xhY2xqaDRuR0NrLWpVWGlISmVEZGpuSFZPMlpqNDVkZng1ODNJb2FOWEMzMVpPUEJpV2YtMmFiZjYwYnF0bGVMUldHeFo4WnRQY1VQWlJCMEJQS1F3M1dBMFlGTGk2Y1hQSlk3bnU1Tjl2V2cwcndCanM2bFo2bTZwVC1hd1gxdmV1UDNRTGN5OTBR?oc=5)
+
+---
+
+### [Das Verständnis der Risiken von Diabetes ist der Schlüssel zu einer wirksamen Prävention.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMUZEbmhpVThWMXFMbF9JLU4tTExleWYyY2s3cDQtLVotaVNVczJQQ0NZdGFYanZzSVRPQ0g4Ym90ck11c0FoU0djVnFZT29oNnZtNXJDR3dTd2c3amxKTE1mZXNIVXNXamt1ME5WaW5PZ0NwaUVTV3ZlUmJPekg1d0RCNE9EVFFtaTNjXzlR?oc=5)
+
+2026-11-19 <span class="news-indication-tag">diabetes</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMUZEbmhpVThWMXFMbF9JLU4tTExleWYyY2s3cDQtLVotaVNVczJQQ0NZdGFYanZzSVRPQ0g4Ym90ck11c0FoU0djVnFZT29oNnZtNXJDR3dTd2c3amxKTE1mZXNIVXNXamt1ME5WaW5PZ0NwaUVTV3ZlUmJPekg1d0RCNE9EVFFtaTNjXzlR?oc=5)
 
 ---
 
@@ -365,14 +429,6 @@ Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVU8x
 2026-11-18 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">depression</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmo0bmJFMFZaWXBmYlFNakN2YnM0VEhLS0R5LUhCaGJibTVWMHNSaUhFc1ktaHVpelUwOHRNVmJBYTJ3U2VWbmQ4YmVwMDNkcjNHOUl2ZGFURmtWclA3OEFkQXJaUDJLYUFkWksxaUk5QTFjR01HbVhoQ3BWZ25FVk1MS084UkgtWDlqTVp0M3dMYXVSODh4d0w3amI5a0hhUHJVSk9fRW9BMVM3ZmZWbU5qVFFSMXpuaUhxSThoOA?oc=5)
-
----
-
-### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
-
-2026-11-18 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">diabetes</span>
-
-Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
 ---
 
@@ -728,6 +784,14 @@ Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQzlH
 
 ---
 
+### [Tumori, come funziona la protonterapia a 360 gradi: più precisione e meno radiazioni ai tessuti sani - la Repubblica](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTFVQZmszS0lwdDY3bTBPeE04aElXOE9wdGxyLVNpU0hsLUY2ZjBPbEdVbzBNenpiYkN4ZXBrdkV0WG1ZdUlrY09neU9SNjl1MWY4b3RaNnNST2VnQUNlTVNPSjYzSWd5d1pkLUdOWTc2Z21xUk00aTNjZVd3ZENBU2ZvYkpmelc2ZG11YURCTG10V3daSTZvSlRDdU5vMklNYXpXNW9STXEyWUdraGNRWnBVMFdlRm9RLVdBUDhOcldicVdnd3A1clg0YXAtaTRIQy1Ka1JJWDI3QmZCWW92X0JlLXNWVG5FZVI4MTlodFU3Q3VHVHAzbnlMVHE?oc=5)
+
+2026-11-16 <span class="news-indication-tag">tumor</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTFVQZmszS0lwdDY3bTBPeE04aElXOE9wdGxyLVNpU0hsLUY2ZjBPbEdVbzBNenpiYkN4ZXBrdkV0WG1ZdUlrY09neU9SNjl1MWY4b3RaNnNST2VnQUNlTVNPSjYzSWd5d1pkLUdOWTc2Z21xUk00aTNjZVd3ZENBU2ZvYkpmelc2ZG11YURCTG10V3daSTZvSlRDdU5vMklNYXpXNW9STXEyWUdraGNRWnBVMFdlRm9RLVdBUDhOcldicVdnd3A1clg0YXAtaTRIQy1Ka1JJWDI3QmZCWW92X0JlLXNWVG5FZVI4MTlodFU3Q3VHVHAzbnlMVHE?oc=5)
+
+---
+
 ### [Wenn Diabetes Spuren hinterlässt: Früh erkennen, gezielt handeln](https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29FaVRNdWs2UUtpUXJKcHBfRl9rU2FmS0ozNHZQRzIxaG80NXJUME13UVhDd2ZxXzBMdTlMQkFVMDJTRVdEMV85c1R4MHBON25aMnBYVXh0TGJSTzJFZm53dmowM29mOWlKUUFoMm82X3N0VDdBNXU5VWNWcF9teF9XSU5McmJRV0U1UzQ1UF9rYUh1UWxZejV6TklVaGtjdTdlZXBpY1BIcWIxZUJvYzN4S1Flb1l1ZllhZjFMOGlNNW0tbzd3?oc=5)
 
 2026-11-16 <span class="news-indication-tag">diabetes</span>
@@ -770,7 +834,7 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BWnNSWnFrc1FIT
 
 ### [Il richiamo dell'Ordine dei farmacisti sulla prescrizione del Mounjaro: quando un farmaco diventa prodotto di consumo - Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
 
-2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span>
 
 Source: [Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
 
@@ -1461,6 +1525,14 @@ Source: [Diario de Navarra](https://news.google.com/rss/articles/CBMi0wFBVV95cUx
 2026-11-14 <span class="news-indication-tag">diabetes</span>
 
 Source: [Europa Press](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMXRGc3pCNm9UR3pSa2NKcG1NY2RHcVFnVHNoSjVEZ1dtZlhscUpMMDVHeHlTSUJUbTN0RHdRNlhMUzRzSWRyZDlhTkFvNlc3aW9HTW9wT1BLMTRNQ3RueXRzVVFvdWsxTnZOWkt1ZFRqTkZqdVdFeG52aGVrZGc0N1VrTWliXzBVdGR1SDgzMHZYaTdxSXdSNjVTRnM1ZWkyWFNhb0FpSTN3aEE4dUpCNmxYWWFyTlhjT1M1dDNzWU1TN3dvN2U0YTdvQV9wa2Y2ODB3cTVDNkREbk84S3F6WGhuYlV2SFVtdVhDZlJXTzNreGM?oc=5)
+
+---
+
+### [Gesundheitsministerium begeht Weltdiabetestag 2026 und unterstreicht die Bedeutung der Früherkennung - Qatar news agency](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc0RCZFMxSW8xMTFwd0ttU1ZGS082MkpfMmJIeXMzbFk1a1V1N242T2s2VlVIc2NSQ19ZckZ4cEZhVl8xelpvZlZtZVBMUnlOdnBESnAxRWw1WlIyZU8zWmRTUkJvYTZsbWs0VVE4YUdvVkhnVHRzbjZzR1paNE4yMEpNRVZzM3J2M0pFbDJTMndhdTRTczVVbS1PeG14aGMwendKNzR5S2FpTGRmZXhoQ0ZpRmtaQ1Y2Z01faDAxTnRxMWd6YWo3enlnMDc4cWFsaTk5Y0pXLVlNUVZnbHNQMms5WWpRdw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">diabetes</span>
+
+Source: [Qatar news agency](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc0RCZFMxSW8xMTFwd0ttU1ZGS082MkpfMmJIeXMzbFk1a1V1N242T2s2VlVIc2NSQ19ZckZ4cEZhVl8xelpvZlZtZVBMUnlOdnBESnAxRWw1WlIyZU8zWmRTUkJvYTZsbWs0VVE4YUdvVkhnVHRzbjZzR1paNE4yMEpNRVZzM3J2M0pFbDJTMndhdTRTczVVbS1PeG14aGMwendKNzR5S2FpTGRmZXhoQ0ZpRmtaQ1Y2Z01faDAxTnRxMWd6YWo3enlnMDc4cWFsaTk5Y0pXLVlNUVZnbHNQMms5WWpRdw?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Bupropion. 0 predicted indications."
 permalink: /news/bupropion/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Bupropion News
@@ -31,6 +31,14 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 </div>
 
 ## Related News (121)
+
+### [Nuevos fármacos contra la obesidad: desafío para mantenerse al día](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm1JSUVHRl84OFpjVmpHQm1aWlRwaXMtRWNoRWQ0cmYwS0lsdlY2LVFDNGF2SndUYXR0WlpobTBSQ1lhRDFtQ0dYWU5RUFNPcUV5azdVUW56VE1MNE9kRnhsR3JUOFJtWHc1XzFjdTYxVEJxaXcwX1dDUHZhc2tsbXJHRU5sT0Zwd01BWERiMmNwdjdOT3EzRFo1YlFIZ09XakVFa0NBcXJDZ0xsVWc?oc=5)
+
+2026-11-20 <span class="news-indication-tag">obesidad</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm1JSUVHRl84OFpjVmpHQm1aWlRwaXMtRWNoRWQ0cmYwS0lsdlY2LVFDNGF2SndUYXR0WlpobTBSQ1lhRDFtQ0dYWU5RUFNPcUV5azdVUW56VE1MNE9kRnhsR3JUOFJtWHc1XzFjdTYxVEJxaXcwX1dDUHZhc2tsbXJHRU5sT0Zwd01BWERiMmNwdjdOT3EzRFo1YlFIZ09XakVFa0NBcXJDZ0xsVWc?oc=5)
+
+---
 
 ### [Reunión Anual SEN: La obesidad aumenta el riesgo de ictus y plantea nuevos desafíos en la rehabilitación - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSU5rQzkwTHJBM0dtQUVNN0NVbWZfMFVuT2l0Ni1CX0dYU0w3LXdib3VRbDRBVmFjSjlrNURyMDYyZWdvMVA3cDJib2wzMnVhVy0wU1pDRk9OekxjbldTUlRNSkZzaFFmZVdmeTZjNjNfRVh2V2hweG5YaU90VERqLUVmM2pMUHJBY2oxUUpRc05jQjAzM1JHVlZYZGtEZTVyR3lLT3ktLWNHM2JBSy00V1F4WjNmZUFqVmRsNNIBtwFBVV95cUxNMFdlX1J6cVEwcWpVZUo1WGtZRE9JakNtMzMtTmhuRVZRR0FGNEwta3RkNENZWWhzaEhxaUt3bmp4azYwcTcwTHA1M1k1bjJGY1VDWW1kanNLWTdVZHptSEtFbElIZjdJdU9iVF9nOUY1VjY4Rng4Qm1haHQ5cUVfN2stQVpzOFp1UUl1cDhPQTlZeE5LZFRnNnA4bXZLNjdsYU80aS1SbTA4MWV2RVF0X0RGSWNteUk?oc=5)
 
@@ -74,7 +82,7 @@ Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi
 
 ### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
-2026-11-18 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">diabetes</span>
+2026-11-18 <span class="news-indication-tag">Adipositas</span>
 
 Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
@@ -125,14 +133,6 @@ Source: [Tgcom24](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Z
 2026-11-16 <span class="news-indication-tag">obesidad</span>
 
 Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkgwV3JCODRFczZlYS00SkVwREJDdXV5LUQxeHV2cXFfakFWV3RWbjYzVFVGWl9VOWtDZHRZVFExeDFrb0dkaldieUZtdTZISWNQN201NkVjTzdhSm5UdUhaNFQ0V0ZFQkFDOWVmTXNxY3FTRG9BVDVES3A5Q19uVWsyZEF3MFNOaWZaNlFwMl8zejd1Y05Yb0NDUkxTVUNfbjBBdTBEdkp0M0NzMVlhNnMzMFllUdIBsAFBVV95cUxOamxicVBXTWJyUFZzS1dUUGNXZjBfYV92ZkRxRTNfZTdjbWRoeDJmc0hZMzJyandwTVoya2hzd1NzNUNQakctMXJKRC0tcmZTb2dNVHZpQllnTGRvVm5NS0U1d2w1ZDNrNC1zNmZ4T0VvbWpkS1c4bWM5RHZmZjlubllNQU80S29LVlRyY0hNVzc3elR1cVQwWldqalBYaE9xYlY1SklKNkVSZ0FYVWZvQw?oc=5)
-
----
-
-### [Il richiamo dell'Ordine dei farmacisti sulla prescrizione del Mounjaro: quando un farmaco diventa prodotto di consumo - Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
-
-2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
 
 ---
 

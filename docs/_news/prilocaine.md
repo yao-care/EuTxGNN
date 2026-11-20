@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Prilocaine. 10 predicted indications."
 permalink: /news/prilocaine/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Prilocaine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Prilocaine?">
-<strong>Prilocaine</strong> currently has <strong>54 news articles</strong>, with 10 predicted indications.
+<strong>Prilocaine</strong> currently has <strong>53 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Prilocaine with the latest h
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (54)
+## Related News (53)
 
 ### [Influenza e BPCO, il rischio di un peggioramento che lascia il segno](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWpyTnoxTTRPWlhyRDRvUzU0a2lOTktnWVRuSkc2NXJhX1d1blBOSDZyR0JQMW4tNktFcjJNejFUdlhuVFppTmNITlVFeHZDeTZ3UEhYcWwyTFFZSGplMUtvSjhWVWJDWDBUb0p1T1hYdG1CVEVmSmJKV3NvRkdzZUJJZ3E4QUIxZVdnRzRXcklJVDB0VG42elpUY3ZMV0tVSUZ3cmVEMEdPdjgyX08tNDgzdmpZbFBYTlE?oc=5)
 
@@ -102,7 +102,7 @@ Source: [food-monitor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcE03
 
 ### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 
-2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 
@@ -201,14 +201,6 @@ Source: [WEB.DE](https://news.google.com/rss/articles/CBMijwFBVV95cUxQd3NhZWF1cl
 2026-11-15 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlhJRkcyV2JhTUF2ejhzUmM5Z0pVRWNrS2VyblRyZ05RVzhvaWc5TFB0VGJYSG9DNnFMVUlFY2lxMXdfS3JjTV84NGtVV0JQd2xiWXo5Qk56SGlRQTlxRTV2ck52RVNHYXFRWV96emN2LWt0emduRE94cF8xVzF5ZjJzQ1ZMTjg4SEg3NHVjY21JVFdyVjI0WmxCSlpvMnF1MXUyeC1jTQ?oc=5)
-
----
-
-### [Dieta chetogenica. Tolgo il pane, ma cosa metto nel piatto?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2swSlMtQm1vUXVENm43WElZQ0otUUZiR05RVmI1eEtVOXFqWWNoU1NZR1A3cHBiVzJ6aV82cWg1ZXpUUVYyc2E4TE5LeXB4TVR3TEl3WGVvNWVzTkowRzlHdVlmbHEwZ2FQMHdEWG9aRGdfMW9OLV9MUVZLSWNXSFlKOC1xc3lXdmN5ZGx3UDh1TXBBRVRHQktoelVDR0RhSU5kQ0hOcHJodmM?oc=5)
-
-2026-11-15 <span class="news-indication-tag">emicrania</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2swSlMtQm1vUXVENm43WElZQ0otUUZiR05RVmI1eEtVOXFqWWNoU1NZR1A3cHBiVzJ6aV82cWg1ZXpUUVYyc2E4TE5LeXB4TVR3TEl3WGVvNWVzTkowRzlHdVlmbHEwZ2FQMHdEWG9aRGdfMW9OLV9MUVZLSWNXSFlKOC1xc3lXdmN5ZGx3UDh1TXBBRVRHQktoelVDR0RhSU5kQ0hOcHJodmM?oc=5)
 
 ---
 

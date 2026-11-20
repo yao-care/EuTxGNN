@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Telmisartan. 9 predicted indications."
 permalink: /news/telmisartan/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Telmisartan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>184 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>188 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (184)
+## Related News (188)
+
+### [Cómo impacta lo que comemos en el cerebro: «Cenar después de las nueve de la noche aumenta casi un 30 % el riesgo de ictus» - La Voz de Galicia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdk9oUlpLM3JGak9yYi15SGZqS0hkbDJ3TEFMSjZmYjg5SDBfaHpZOTVGZDc0WkxEV2lDOThvdjlMMGV0ckxSM3FJMXdvQ3huUmhCV2ZNLVZDeFNmS2lVZU5jSklHOUZNTnpwcXV5RnZmR0lycHVkUHptQXJMcU1MYjN0RFluazBjMmlSQlJxcEpWd3pQbjhUZFh1WkttYjctd2xXNEFzSExvYU81a1dCQzllc3gtN2xUMnhCOWFRc2ZZWUdYTHhrdzFHMGg0WTZSNTlsX3pLYmh3NV9LOXJOcWZzUFN0Nm8wM0NPNnhSS25JTVA5LXRoX2REV3gwRVhDSnBoMHVZTkhJLUHSAZACQVVfeXFMUGRQOFdGUnEwbUhCLUhrdUZkb2J6eG4xbkRIeGFGWmdKR2ExVlZCWVlNSWRWOTVuWjAta09xak0yTld1aTNKVld6eEtlelZoN1BKT0xxdlFfY3p6ZHhJbXEtSXgzOUlzY3ZwRFhPOEc5UzBnX0p1V2tWa2V5MnQ2OVFGVExRa3l0RVBINWRUbUd5blFpSWVwU1YtdnhjWnRLdDBXTUNSLV9fTXhmTVdaX0JKaDZ6ZFFndmpjYk56WDR3dnU1b2xHYi16OFFZcGplVVBqUkpSYUVkSGR1emRvM3pENnVhTkhLN0JFOW8xQjIwWU5ONEtKQk1SQ2NZa3NkcUlfdWhqT0hLcXdHM0VkLXk?oc=5)
+
+2026-11-20 <span class="news-indication-tag">ictus</span>
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdk9oUlpLM3JGak9yYi15SGZqS0hkbDJ3TEFMSjZmYjg5SDBfaHpZOTVGZDc0WkxEV2lDOThvdjlMMGV0ckxSM3FJMXdvQ3huUmhCV2ZNLVZDeFNmS2lVZU5jSklHOUZNTnpwcXV5RnZmR0lycHVkUHptQXJMcU1MYjN0RFluazBjMmlSQlJxcEpWd3pQbjhUZFh1WkttYjctd2xXNEFzSExvYU81a1dCQzllc3gtN2xUMnhCOWFRc2ZZWUdYTHhrdzFHMGg0WTZSNTlsX3pLYmh3NV9LOXJOcWZzUFN0Nm8wM0NPNnhSS25JTVA5LXRoX2REV3gwRVhDSnBoMHVZTkhJLUHSAZACQVVfeXFMUGRQOFdGUnEwbUhCLUhrdUZkb2J6eG4xbkRIeGFGWmdKR2ExVlZCWVlNSWRWOTVuWjAta09xak0yTld1aTNKVld6eEtlelZoN1BKT0xxdlFfY3p6ZHhJbXEtSXgzOUlzY3ZwRFhPOEc5UzBnX0p1V2tWa2V5MnQ2OVFGVExRa3l0RVBINWRUbUd5blFpSWVwU1YtdnhjWnRLdDBXTUNSLV9fTXhmTVdaX0JKaDZ6ZFFndmpjYk56WDR3dnU1b2xHYi16OFFZcGplVVBqUkpSYUVkSGR1emRvM3pENnVhTkhLN0JFOW8xQjIwWU5ONEtKQk1SQ2NZa3NkcUlfdWhqT0hLcXdHM0VkLXk?oc=5)
+
+---
+
+### [Colesterolo Ldl e rischio infarto ed ictus, quanto ne sanno davvero gli over-50? - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVmw1dmoybzJWRHVDU243cG1qck15czlvU0xLY1dkT2N0OWpoYXFueUstVk51SjBXWDlIb1hTMFdkR0dncG80SGVDQ1F0c0lzU0MwNmo2cVVoYXRuTTJtclFzclJvODktb2lfXzN0LTFhNUFnVjRPcER6a3ZyMk1VMk9BUWVPLXlDY3UxV2FBY21WbGlZZWYwdW5QV1FLQURIRGNpRGg4eGw3c1NqckVVeVlGOWtWUQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">ictus</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVmw1dmoybzJWRHVDU243cG1qck15czlvU0xLY1dkT2N0OWpoYXFueUstVk51SjBXWDlIb1hTMFdkR0dncG80SGVDQ1F0c0lzU0MwNmo2cVVoYXRuTTJtclFzclJvODktb2lfXzN0LTFhNUFnVjRPcER6a3ZyMk1VMk9BUWVPLXlDY3UxV2FBY21WbGlZZWYwdW5QV1FLQURIRGNpRGg4eGw3c1NqckVVeVlGOWtWUQ?oc=5)
+
+---
 
 ### [Il colesterolo è basso ma i trigliceridi sono alti: che cosa raccontano gli esami](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGpCcjcwT0t1Mk9jdk1nYXVoYzNlVXdlNEhiTnp2RnBXbjJ6U25pUmFWWDZrbmlVa3JqVzk2c085Vi1wLThJdllUblZqaGs3dkFFaXd5OVNla2xFQ1d1b1dJS3ZNWUZ4OEN5d3dPWEdKbnlHeFdIa3kzcTc5ZWttR3ByOG9QUTM2dFYxSGRmMUxDU0drMnVNeDVKa25uR0tua0wtd3RYc3QyNEJLNUJZb0xJc2ltNFFwamNNeXhXYkk3MldicWdlaGNfQQ?oc=5)
 
@@ -59,11 +75,27 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6
 
 ---
 
+### [Influenza: «Il vaccino riduce infarti in chi soffre di cuore e anche in chi ha diabete ipertensione, colesterolo alto» - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNMnBEdVoxY3hDVndkMF9qMHF6S195dEZMaWFhWXBPVndYOWh3Mk5fQ2RRV3J2amoyUFFNa0o3ZDlzWE5COUxpZ3ZsUG00MGtXa2NrNUFOZE9VTnRPLXV4d00waVp0U0UwZEZEc3RjUmhrc19EVmxQSHgtZnlWUWlsRTFuQVdSWGc1dVhCcWpNa3dIN2Fpc0FMQUprbDRWam15WXZtdHB4c18xTURWUGFPOEg3X2dCd0RyaEhVVXhlcEx1T3pKQ3dOd1FZOGJBaXQ4Y2FZNXhGSTlacG1jZHlKOFhTdGtGc3hCNVpRZlRpUXBuMEVKYm8wR2dXVy1DY0F5aDM2SG91NThRel8zb095OVUyWGdkS21BdDU4ZDBnbEU2dWJsdEk2Q2tLVmNac1NlTmFKRk81cUVJa24xNGlRcNIBxgJBVV95cUxOR2ZKTHI1emJfNUFmcTVCQ3AwcTltUHdDaU9XRGNSdDR3cmVjZFg5NjV5cUwzNDlyRXdhc1lzbTVqMUdScGZFMjhwUDVkZnVIMTNqcXlJSXRrQWZ1X0xDc3R6NmpydVdoSW9COWtsR1R4ak11SFpNSnpEeHBfb0JtYTlQcFd0aVRLU0ExR2Vta213cV9mV0JBdllCMk9YSjJESHZ2Z2otY3ViTG5hSllJUlF0aU9lZElwSUs2c1FId1FFbTFCVXM0cnVxQTZFRFpydGthZi1pX0dlaWV5ZUtyQTktZURfUXJhd3AxYlppd05YcDhta3dfeEhDWWtscG5iQ0JxY3ZEYmZhYmtlUjF3ZnpQcjJScjduRnRKVXk3TXNwbXJlQXRQRzc5bGdUZlYyVHFfSkhYdHN0cmJNT2VyanFwNm5jUQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNMnBEdVoxY3hDVndkMF9qMHF6S195dEZMaWFhWXBPVndYOWh3Mk5fQ2RRV3J2amoyUFFNa0o3ZDlzWE5COUxpZ3ZsUG00MGtXa2NrNUFOZE9VTnRPLXV4d00waVp0U0UwZEZEc3RjUmhrc19EVmxQSHgtZnlWUWlsRTFuQVdSWGc1dVhCcWpNa3dIN2Fpc0FMQUprbDRWam15WXZtdHB4c18xTURWUGFPOEg3X2dCd0RyaEhVVXhlcEx1T3pKQ3dOd1FZOGJBaXQ4Y2FZNXhGSTlacG1jZHlKOFhTdGtGc3hCNVpRZlRpUXBuMEVKYm8wR2dXVy1DY0F5aDM2SG91NThRel8zb095OVUyWGdkS21BdDU4ZDBnbEU2dWJsdEk2Q2tLVmNac1NlTmFKRk81cUVJa24xNGlRcNIBxgJBVV95cUxOR2ZKTHI1emJfNUFmcTVCQ3AwcTltUHdDaU9XRGNSdDR3cmVjZFg5NjV5cUwzNDlyRXdhc1lzbTVqMUdScGZFMjhwUDVkZnVIMTNqcXlJSXRrQWZ1X0xDc3R6NmpydVdoSW9COWtsR1R4ak11SFpNSnpEeHBfb0JtYTlQcFd0aVRLU0ExR2Vta213cV9mV0JBdllCMk9YSjJESHZ2Z2otY3ViTG5hSllJUlF0aU9lZElwSUs2c1FId1FFbTFCVXM0cnVxQTZFRFpydGthZi1pX0dlaWV5ZUtyQTktZURfUXJhd3AxYlppd05YcDhta3dfeEhDWWtscG5iQ0JxY3ZEYmZhYmtlUjF3ZnpQcjJScjduRnRKVXk3TXNwbXJlQXRQRzc5bGdUZlYyVHFfSkhYdHN0cmJNT2VyanFwNm5jUQ?oc=5)
+
+---
+
 ### [This One Sleep Factor Matters More Than How Many Hours You Get, Study Suggests](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
 
 2026-11-19 <span class="news-indication-tag">heart disease</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
+
+---
+
+### [GLP-1-RA: Trennungsschmerz fürs Herz - DocCheck News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlkweURkSE52NXNHREtmazQ1akxUc0ZKTG5VXzloejZHQ0FXTThDVzUtRVhiWHJqTm44MW10czZLMUhxRWRqcmlkZmJDQ3JHYnBrUlprX01UVmt2Q0s5MDhvY19XTi1PTUd3b1dFMThPdXZtUGU3XzdTb0ludFpGUW9vQlNpOVNKRml5MlA2RQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [DocCheck News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlkweURkSE52NXNHREtmazQ1akxUc0ZKTG5VXzloejZHQ0FXTThDVzUtRVhiWHJqTm44MW10czZLMUhxRWRqcmlkZmJDQ3JHYnBrUlprX01UVmt2Q0s5MDhvY19XTi1PTUd3b1dFMThPdXZtUGU3XzdTb0ludFpGUW9vQlNpOVNKRml5MlA2RQ?oc=5)
 
 ---
 
@@ -107,14 +139,6 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1ucWdHdX
 
 ---
 
-### [Heart surgeon names early sign on front of your leg that your heart is in trouble - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
-
-2026-11-19 <span class="news-indication-tag">heart failure</span>
-
-Source: [Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
-
----
-
 ### [38-jähriger Mann nach Hirnblutung in kritischem Zustand: Eine warnende Geschichte über eine Krankheit, die viele junge Menschen für selbstverständlich halten.](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
 
 2026-11-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
@@ -149,7 +173,7 @@ Source: [CuídatePlus](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWERZ
 
 ### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 
-2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 
@@ -232,6 +256,14 @@ Source: [Open](https://news.google.com/rss/articles/CBMigAFBVV95cUxNUThaYlZlRzB3
 2026-11-16 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdldXOFhnRTVFT0RINTczLWoteDNJbHZTcFlXeFhuMTh5eEl5WWtibzN4SS10X1Z5SThUZGxwY1NBUWE5R3lOWWdpRHI3MUU1ZXRNeXhwTDl3X0NYcER3cUZYZGwzdzNvRHFZRnZtcG9mTE0tbGd6bWtVNGUxTW1oYnBqZHNzc1IxUHRiaWZFMkQtZlZhSUQxMmRTZVVlcmtOeDBkQWU4ZUFiU04tWEFtM1BzeUF0WFNSMUVadUk3YXRRMFJ5S3VFQTlqaGtwa3cwRFlnQ3RUOEVzcVRx?oc=5)
+
+---
+
+### [Schlaganfall: Kein Rätselraten im Rettungswagen - DocCheck News](https://news.google.com/rss/articles/CBMingFBVV95cUxNMHExMWZlRkFhRjlkZWotN2JSSUw3N19UUW9OUE1PRDdUSTdvcUFhSk8wUG5XTzZZRlF6Q1RDWmxSQVlhdjU5SHdZak1vRk04bjU2VHlnZ0FSYjZCNTNUaGVCb1NrdmY0Qm1DRDJBbkYzN000dEZzOXU3SU0zUlRDQnNCN2E2bzFNNjVVQXA0a3FFeUtEY3JxLWFEdGlOdw?oc=5)
+
+2026-11-16 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [DocCheck News](https://news.google.com/rss/articles/CBMingFBVV95cUxNMHExMWZlRkFhRjlkZWotN2JSSUw3N19UUW9OUE1PRDdUSTdvcUFhSk8wUG5XTzZZRlF6Q1RDWmxSQVlhdjU5SHdZak1vRk04bjU2VHlnZ0FSYjZCNTNUaGVCb1NrdmY0Qm1DRDJBbkYzN000dEZzOXU3SU0zUlRDQnNCN2E2bzFNNjVVQXA0a3FFeUtEY3JxLWFEdGlOdw?oc=5)
 
 ---
 
