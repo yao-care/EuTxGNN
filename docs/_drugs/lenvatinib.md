@@ -5,7 +5,7 @@ parent: Medium Evidence (L3-L4)
 nav_order: 362
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
 description: "Lenvatinib: predicted new indication Liposarcoma (evidence level L3). Approved use: Kisplyx is indicated for the treatment of adults with advanced renal…"
@@ -54,7 +54,7 @@ Lenvatinib is an oral multi-kinase inhibitor that blocks tumour blood-vessel gro
 
 ## Why is This Prediction Reasonable?
 
-Lenvatinib inhibits VEGFR1-3, FGFR1-4, PDGFRα, KIT and RET. These receptors drive tumour angiogenesis and growth signalling, which are also relevant in soft tissue sarcomas. Detailed mechanism-of-action data for the drug are not otherwise available in the data compiled for this report.
+Lenvatinib inhibits VEGFR1-3, FGFR1-4, PDGFRα, KIT and RET. These receptors drive tumour angiogenesis and growth signalling, which are also relevant in soft tissue sarcomas. According to the Mechanism of Action section of the US FDA-approved prescribing information for lenvatinib: "Lenvatinib is a kinase inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4). Lenvatinib inhibits other kinases that have been implicated in pathogenic angiogenesis, tumor growth, and cancer progression in addition to their normal cellular functions, including fibroblast growth factor (FGF) receptors FGFR1, 2, 3, and 4; platelet derived growth factor receptor alpha (PDGFRA), KIT, and RET." ([DailyMed: Lenvima (lenvatinib) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4bedd21-efde-44c6-9d9c-b48b78d7ed1e), label version 2026-10-14; accessed 2026-11-20.)
 
 Eribulin is a microtubule inhibitor with known activity in liposarcoma. Combining it with an anti-angiogenic kinase inhibitor is therefore mechanistically plausible. Preclinical work on eribulin combinations and a CDK4 biomarker study in dedifferentiated liposarcoma give additional background for combination approaches. This is supporting context rather than direct proof that lenvatinib works in liposarcoma.
 
@@ -133,6 +133,18 @@ The main prediction (TxGNN score 0.9951) is supported by one completed single-ar
 - Parsed SmPC warnings and contraindications to complete the safety review
 - Detailed mechanism-of-action data
 - A monitoring plan for the lenvatinib–eribulin combination, including the interaction checks above
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-20 | "Detailed mechanism-of-action data for the drug are not otherwise available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lenvima (lenvatinib) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4bedd21-efde-44c6-9d9c-b48b78d7ed1e) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

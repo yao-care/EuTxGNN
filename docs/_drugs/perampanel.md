@@ -5,7 +5,7 @@ parent: AI Predictions (L5)
 nav_order: 481
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel: predicted new indication Beta-ketothiolase deficiency (evidence level L5). Approved use: Fycompa is indicated for the adjunctive treatment of partial-onset se…"
@@ -58,7 +58,7 @@ Perampanel (brand name Fycompa) is an add-on antiseizure medicine, originally us
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism data were not available in the data compiled for this report. From the published literature, perampanel is a selective, non-competitive antagonist of the AMPA-type glutamate receptor. It reduces glutamate-driven excitation of postsynaptic neurons, which is the basis of its effect in partial-onset and generalised tonic-clonic seizures.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for perampanel: "Perampanel is a non-competitive antagonist of the ionotropic α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) glutamate receptor on post-synaptic neurons. Glutamate is the primary excitatory neurotransmitter in the central nervous system and is implicated in a number of neurological disorders caused by neuronal over excitation." ([DailyMed: Fycompa (perampanel) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71cf3309-e182-473c-8b0b-280cabd0e122), label version 2022-12-28; accessed 2026-11-20.) From the published literature, perampanel is a selective, non-competitive antagonist of the AMPA-type glutamate receptor. It reduces glutamate-driven excitation of postsynaptic neurons, which is the basis of its effect in partial-onset and generalised tonic-clonic seizures.
 
 Visual (photosensitive) epilepsy is a reflex epilepsy in which visual stimuli trigger seizures, and cortical hyperexcitability is thought to be involved. Blocking excitatory AMPA signalling is therefore mechanistically coherent. However, this link is an extrapolation. The retrieved literature consists of general epilepsy reviews, guidelines and network meta-analyses, and none of it studies visual or photosensitive epilepsy directly.
 
@@ -150,12 +150,13 @@ Please refer to the SmPC for the full warnings and contraindications.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official European Medicines Agency data (centrally authorised medicines). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization is cancelled, and safety label data could not be retrieved" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "and clarification of why the EU authorization was cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
+| 2026-11-20 | "Detailed mechanism data were not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fycompa (perampanel) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71cf3309-e182-473c-8b0b-280cabd0e122) |
 
 <!-- review:end log -->
 

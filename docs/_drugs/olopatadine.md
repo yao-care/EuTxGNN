@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** directly su
 
 ## Why is This Prediction Reasonable?
 
-Olopatadine is a histamine H1 antagonist and mast cell stabilizer. It is approved for allergic conjunctivitis, where it relieves itching and redness caused by histamine release. According to the Mechanism of Action section of the US FDA-approved prescribing information for olopatadine: "Olopatadine is a histamine H 1 receptor antagonist. The antihistaminic activity of olopatadine has been documented in isolated tissues, animal models, and humans." ([DailyMed: olopatadine hydrochloride prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3aa27224-7b72-38eb-0c21-b8d73525ee85), label version 2026-09-15; accessed 2026-11-19.) This description reflects general pharmacological knowledge about the drug class.
+Olopatadine is a histamine H1 antagonist and mast cell stabilizer. It is approved for allergic conjunctivitis, where it relieves itching and redness caused by histamine release. This description reflects general pharmacological knowledge about the drug class. According to the Mechanism of Action section of the US FDA-approved prescribing information for olopatadine: "Olopatadine is a histamine H 1 receptor antagonist. The antihistaminic activity of olopatadine has been documented in isolated tissues, animal models, and humans." ([DailyMed: olopatadine hydrochloride prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3aa27224-7b72-38eb-0c21-b8d73525ee85), label version 2026-09-15; accessed 2026-11-19.)
 
 Ocular rosacea is a different disease from allergic conjunctivitis. It is driven mainly by meibomian gland dysfunction, inflammation and microbial or Demodex factors. Antihistamine activity may relieve some symptoms such as itch and redness, but it is unlikely to address the underlying cause.
 
@@ -133,7 +133,7 @@ Below is the review log for this page: statements checked against official Europ
 |------|------|------|------|
 | 2026-10-31 | Removed: "The only EU authorization has been cancelled" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
 | 2026-11-06 | Removed: "of the cancelled EU authorization status and" | Corrected | [EMA – Medicines (centrally authorised)](https://www.ema.europa.eu/en/medicines) |
-| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: olopatadine hydrochloride prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3aa27224-7b72-38eb-0c21-b8d73525ee85) |
+| 2026-11-20 | "Detailed mechanism of action data is not available in the data compiled for this report, so this description reflects general pharmacological knowledge about the drug class" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: olopatadine hydrochloride prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3aa27224-7b72-38eb-0c21-b8d73525ee85) |
 
 <!-- review:end log -->
 

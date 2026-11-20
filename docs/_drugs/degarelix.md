@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Hypertrichosis (hypertrichosi
 
 ## Why is This Prediction Reasonable?
 
-Degarelix is a GnRH receptor antagonist. It blocks the pituitary GnRH receptor, lowers LH and FSH, and so reduces testicular androgen production. According to the Mechanism of Action section of the US FDA-approved prescribing information for degarelix: "Degarelix is a GnRH receptor antagonist. It binds reversibly to the pituitary GnRH receptors, thereby reducing the release of gonadotropins and consequently testosterone." ([DailyMed: Firmagon (degarelix) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ab11dd8a-0fd9-4013-89ab-e114557c7e4b), label version 2024-01-30; accessed 2026-11-19.) This description relies on the drug's known class.
+Degarelix is a GnRH receptor antagonist. It blocks the pituitary GnRH receptor, lowers LH and FSH, and so reduces testicular androgen production. This description relies on the drug's known class. According to the Mechanism of Action section of the US FDA-approved prescribing information for degarelix: "Degarelix is a GnRH receptor antagonist. It binds reversibly to the pituitary GnRH receptors, thereby reducing the release of gonadotropins and consequently testosterone." ([DailyMed: Firmagon (degarelix) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ab11dd8a-0fd9-4013-89ab-e114557c7e4b), label version 2024-01-30; accessed 2026-11-19.)
 
 The link to hypertrichosis is weak. Hypertrichosis is generally not driven by androgens, unlike hirsutism. Any plausible mechanism would be indirect, for example reducing androgen-sensitive hair growth in a presentation resembling hirsutism, which is a different condition. The very high TxGNN score of 0.9999 reflects a model-based association. No clinical or literature evidence supports it, and the score should not be read as evidence of benefit.
 
@@ -116,7 +116,7 @@ Below is the review log for this page. A statement that mechanism-of-action data
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Firmagon (degarelix) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ab11dd8a-0fd9-4013-89ab-e114557c7e4b) |
+| 2026-11-20 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so this description relies on the drug's known class" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Firmagon (degarelix) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ab11dd8a-0fd9-4013-89ab-e114557c7e4b) |
 
 <!-- review:end log -->
 

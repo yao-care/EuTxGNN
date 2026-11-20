@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **marcothrombocytopenia with mi
 
 ## Why is This Prediction Reasonable?
 
-Avatrombopag is a TPO-R agonist. It stimulates megakaryopoiesis, the production of platelets in the bone marrow, and raises platelet counts. ChEMBL (EMBL-EBI) records the mechanism of action of avatrombopag as: Thrombopoietin receptor agonist ([ChEMBL CHEMBL2103883 (avatrombopag): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2103883), CC BY-SA 3.0; accessed 2026-11-19.) This description reflects the drug's general class.
+Avatrombopag is a TPO-R agonist. It stimulates megakaryopoiesis, the production of platelets in the bone marrow, and raises platelet counts. This description reflects the drug's general class. ChEMBL (EMBL-EBI) records the mechanism of action of avatrombopag as: Thrombopoietin receptor agonist ([ChEMBL CHEMBL2103883 (avatrombopag): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2103883), CC BY-SA 3.0; accessed 2026-11-19.)
 
 A rationale exists only if the thrombocytopenia is caused by reduced platelet production. The predicted condition is an ultra-rare, probably genetic macrothrombocytopenia, and its underlying mechanism is unclear. The mitral valve component is not addressed by the drug.
 
@@ -113,7 +113,7 @@ Below is the review log for this page. A statement that mechanism-of-action data
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2103883 (avatrombopag): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2103883) |
+| 2026-11-20 | "Detailed mechanism of action data are not available in the data compiled for this report, so this description reflects the drug's general class" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [ChEMBL CHEMBL2103883 (avatrombopag): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2103883) |
 
 <!-- review:end log -->
 

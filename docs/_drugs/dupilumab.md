@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **bronchitis**, with **1 clinic
 
 ## Why is This Prediction Reasonable?
 
-Dupilumab blocks the IL-4 receptor alpha subunit, which inhibits both IL-4 and IL-13 signaling and reduces type 2 airway inflammation. According to the Mechanism of Action section of the US FDA-approved prescribing information for dupilumab: "Dupilumab is a human monoclonal IgG4 antibody that inhibits interleukin-4 (IL-4) and interleukin-13 (IL-13) signaling by specifically binding to the IL-4Rα subunit shared by the IL-4 and IL-13 receptor complexes. Dupilumab inhibits IL-4 signaling via the Type I receptor and both IL-4 and IL-13 signaling through the Type II receptor." ([DailyMed: Dupixent (dupilumab) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780), label version 2026-04-22; accessed 2026-11-19.) This description relies on the known pharmacology of the drug class.
+Dupilumab blocks the IL-4 receptor alpha subunit, which inhibits both IL-4 and IL-13 signaling and reduces type 2 airway inflammation. This description relies on the known pharmacology of the drug class. According to the Mechanism of Action section of the US FDA-approved prescribing information for dupilumab: "Dupilumab is a human monoclonal IgG4 antibody that inhibits interleukin-4 (IL-4) and interleukin-13 (IL-13) signaling by specifically binding to the IL-4Rα subunit shared by the IL-4 and IL-13 receptor complexes. Dupilumab inhibits IL-4 signaling via the Type I receptor and both IL-4 and IL-13 signaling through the Type II receptor." ([DailyMed: Dupixent (dupilumab) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780), label version 2026-04-22; accessed 2026-11-19.)
 
 Eosinophilic or type 2 airway diseases share this pathway. This includes type 2 COPD with a chronic bronchitis phenotype, where real-world case series and cohorts have reported dupilumab use. A review of novel therapies for eosinophilic pediatric plastic bronchitis is also among the retrieved literature.
 
@@ -118,7 +118,7 @@ Below is the review log for this page. A statement that mechanism-of-action data
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dupixent (dupilumab) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780) |
+| 2026-11-20 | "Detailed mechanism-of-action data are not available in the data compiled for this report, so this description relies on the known pharmacology of the drug class" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Dupixent (dupilumab) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780) |
 
 <!-- review:end log -->
 

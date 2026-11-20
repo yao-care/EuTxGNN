@@ -41,7 +41,7 @@
     "lt": 4,
     "lv": 3,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -284,7 +284,7 @@
   "with_current": 42,
   "none_current": 1,
   "without_data": 0,
-  "with_reviews": 42,
+  "with_reviews": 43,
   "rows": [
    {
     "t": "Abatacept",
@@ -326,8 +326,8 @@
     "i": "liposarcoma",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for the drug are not otherwise available in the data compiled for this…",
     "x": 0
    },
    {
@@ -437,7 +437,7 @@
     "lt": 2,
     "lv": 2,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -783,7 +783,7 @@
   "with_current": 370,
   "none_current": 4,
   "without_data": 0,
-  "with_reviews": 366,
+  "with_reviews": 367,
   "rows": [
    {
     "t": "Denosumab",
@@ -1288,7 +1288,7 @@
     "lt": 12,
     "lv": 5,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not available in the compiled data, so t\" replaced with a sourced…",
+    "rs": "\"Detailed mechanism-of-action data are not available in the compiled data, so this description comes from the…",
     "x": 0
    },
    {
@@ -1387,7 +1387,7 @@
     "lt": 4,
     "lv": 4,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data from DrugBank were not available for this report, so t\" replaced with a…",
+    "rs": "\"Detailed mechanism-of-action data from DrugBank were not available for this report, so the description above…",
     "x": 0
    },
    {
@@ -1893,7 +1893,7 @@
     "lt": 2,
     "lv": 2,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -2454,7 +2454,7 @@
     "lt": 1,
     "lv": 1,
     "r": 1,
-    "rs": "\"Detailed mechanism of action data are not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism of action data are not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -2519,8 +2519,8 @@
     "i": "thrombocytopenia due to immune destruction",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not otherwise available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2905,7 +2905,7 @@
     "lt": 1,
     "lv": 1,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -3070,7 +3070,7 @@
     "lt": 1,
     "lv": 1,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not available in the compiled data, so t\" replaced with a sourced…",
+    "rs": "\"Detailed mechanism-of-action data are not available in the compiled data, so this class assignment comes…",
     "x": 0
    },
    {
@@ -3993,7 +3993,7 @@
     "i": "beta-ketothiolase deficiency",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"and clarification of why the EU authorization was cancelled\"",
     "x": 0
    },
