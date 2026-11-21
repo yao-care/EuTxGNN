@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>39 news articles</strong>, with 0 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>42 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (39)
+## Related News (42)
+
+### [Expert names number of steps anyone over 60 should get every day - not 10,000](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdk5UdlRPOHE4M0J4OFFsUzlKeDZ4c21HRnFZdXV1ZHl5NGhUWXRTc2VwMk5TRUFrS2VDakp6RWJqbEZTMmRUaUxpOVljTkd6amRJeWloRHNVeTNCbUFJU3RrV2NaLUl4elZ6WkpSa3hrSDZHcllWMEVkOUdSX0g0Q080MVc?oc=5)
+
+2026-11-21 <span class="news-indication-tag">heart disease</span>
+
+Source: [AOL.co.uk](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdk5UdlRPOHE4M0J4OFFsUzlKeDZ4c21HRnFZdXV1ZHl5NGhUWXRTc2VwMk5TRUFrS2VDakp6RWJqbEZTMmRUaUxpOVljTkd6amRJeWloRHNVeTNCbUFJU3RrV2NaLUl4elZ6WkpSa3hrSDZHcllWMEVkOUdSX0g0Q080MVc?oc=5)
+
+---
+
+### [Sleeping nine or more hours in a day could be a warning sign for adults with this common condition - The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW90TlFPTlI1WWpRMnBoVlNXVk5yc1RzV3RfSC01RFd6QldZbUFHMEFNNzFvTE5VdHZ6eXBTVFhVaWVLYzMxVklPMmtyZjZ3WjE1YVlzY0o5WjlkSWRKXy11UW9JTmJ3c2Y2aFVyeGt3a0h2TFVCTXJMMXdmVDFaNDhoNWFGTGcwbWJwVlVQM3Y?oc=5)
+
+2026-11-20 <span class="news-indication-tag">heart disease</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW90TlFPTlI1WWpRMnBoVlNXVk5yc1RzV3RfSC01RFd6QldZbUFHMEFNNzFvTE5VdHZ6eXBTVFhVaWVLYzMxVklPMmtyZjZ3WjE1YVlzY0o5WjlkSWRKXy11UW9JTmJ3c2Y2aFVyeGt3a0h2TFVCTXJMMXdmVDFaNDhoNWFGTGcwbWJwVlVQM3Y?oc=5)
+
+---
 
 ### [GBA beschließt neue Anforderungen an DMP Rheumatoide Arthritis](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDFQVTJ5eVA3N2ZRSXN0ZVZTT2NjNDBsNUg5VUUybEdIZlZSeXdZWlJYcVpKZkgySkdwbW5KN3N0SXhyTHBPYktQdXN1QzBic3NqSmViOHpFSkNVZmRteU9ldlM5b2lVV2RUU0luekp3akUxQ3Q3bFZYMGZZQ2hXY3VuWVgwLWt4b2RyaHFYQnBoNUYyWnY5bzNmd2syWlhGVGN1VUt4VXkzTk9mVng2UTBtUG0tNHM?oc=5)
 
@@ -45,6 +61,14 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxP
 2026-11-20 <span class="news-indication-tag">arthritis</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zWDZGQ19yYVE1Rkg2WTZHXzdYdjVoTk1pWS1TQWd5TXVZN1RwR0RaV05Xeng5cEM4VWZHd1RVTEJKaFZ0MEd4czEwX2dXR3ZOMlRQaG5ZYldtTmJZc2c?oc=5)
+
+---
+
+### [Powerful new weight-loss drug helps patients cut knee pain in half](https://news.google.com/rss/articles/CBMib0FVX3lxTE5mdWVxaEZDcGQwZUk5cm9xOXNJdEZuUnNQejZmRVg1MVNaZEFSRTU1bUxTSE02azVFQUpqdENQLVBMUEJhYmF0Vm82cVBmN2IyclZCRDdtMnltLWplVjBZN3p3RVFUa1hFcmRBeXNpYw?oc=5)
+
+2026-11-20 <span class="news-indication-tag">arthritis</span>
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5mdWVxaEZDcGQwZUk5cm9xOXNJdEZuUnNQejZmRVg1MVNaZEFSRTU1bUxTSE02azVFQUpqdENQLVBMUEJhYmF0Vm82cVBmN2IyclZCRDdtMnltLWplVjBZN3p3RVFUa1hFcmRBeXNpYw?oc=5)
 
 ---
 

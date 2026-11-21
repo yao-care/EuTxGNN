@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "diabete (diabetes mellitus) News"
+title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabete (diabetes mellitus). 280 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 281 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 last_modified_at: 2026-11-21
 ---
 
-# diabete (diabetes mellitus) News
+# diabetes (diabetes mellitus) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about diabete (diabetes mellitus)?">
-<strong>diabete (diabetes mellitus)</strong> currently has <strong>280 news articles</strong> and 86 related drugs.
+<p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>281 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “diabete” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “diabetes” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -65,7 +65,15 @@ This page brings together the latest health news about “diabete” and lists t
 </ul>
 </div>
 
-## Related News (280)
+## Related News (281)
+
+### [Ein außerordentlicher Professor am Universitätsklinikum warnt vor Gewohnheiten, die das Risiko, an Diabetes zu erkranken, erhöhen.](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnpQRlBYcVJxSFdCamxsR3hLTnRrTUpJcWRiLXBjcTFKQXJadGFZUXU5Q191ZHhrSVBMZ2pVc1hPWG9ucVNLR2MxRWhoWDRLODFvdFBLaDhhendDenVLS3BOOWpSYmdKX1hGdWZqdkdQR0ROWHRaSmZZWlhrMGtieEhLYW9aUnhXTFJXVnFndlk1NVAzRWdRekx6anJaOVZwVGFsTXFielo?oc=5)
+
+2026-11-21
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnpQRlBYcVJxSFdCamxsR3hLTnRrTUpJcWRiLXBjcTFKQXJadGFZUXU5Q191ZHhrSVBMZ2pVc1hPWG9ucVNLR2MxRWhoWDRLODFvdFBLaDhhendDenVLS3BOOWpSYmdKX1hGdWZqdkdQR0ROWHRaSmZZWlhrMGtieEhLYW9aUnhXTFJXVnFndlk1NVAzRWdRekx6anJaOVZwVGFsTXFielo?oc=5)
+
+---
 
 ### [Diabetes: Diese vier Organe kann hoher Blutzucker besonders stark schädigen](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0hnR3N3WlBRVE1fRU9qWXNJbzNnUzEySTNQbEd3dU82NjBhUTl2UFRGcUIzOWk2cVdXel92VndieWJYOGVSRTB5OUp1endTZnMyNGpqampVZWV3OEpkOERnT0prMWNnRWpNc0hkY2l5dl85RnhxOXZsV0pBa0lwQ0ZuLVBPWWhmVWxLOTgyYTBYdHlsQUFyUWNOU1I5VkJkXzBLSUlQZ2I1VmYwLUQzalVoeDQ0U3NVU3hBSXl1OHVNa1N4UHR4QVhKOGZoNUtJaVptSEtOazJ6V3c?oc=5)
 
@@ -88,6 +96,14 @@ Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBV
 2026-11-20
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYVhfWUtMQlZkV2tpQWYyZk5WdVV6NUJFZUxjWWwtbzJCdHRNdDBFSXZDMk5PQlhlbE5XVTFJN3Y1bHlmWDlUMWJXdXRXaU5ZYmFiRVVVNEVKS01zZlQyWG41ZDFLZnBsY0kzaFBXSzF1XzVSaVpRVGRlN3hWd0lLNEh5WGlITzFYMGVxR3lzNmZFRUZjLW02WGRLN2ZJNmYzZXZNRDVTem1pVmxub0dHdkhlaW9PRkExX1VqejY2Y0YtdWRNNTFTUEVmYlJHMUt2NFZDdlVhSUdvOWMwOXEyX3Y2bWlyOHM?oc=5)
+
+---
+
+### [Millionen von Menschen sind dem Risiko von Komplikationen ausgesetzt, weil die Krankheit unbemerkt fortschreitet.](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUhrLUp5Nm5UNFJfdkJMd2tRSGFhbmJJMGdZSVFUdlJTbXduVE8xeWxEMTVvYllXRzRLRmRYc2RtLTU2NEl4N0p4WktldjNxYmJCOEZqMVhoNk1TODNzRVVhZTdHOUZTZEh5T0xHcnRNOEszQVJaN3prSVZCRkxHMzRQTlktdG1BOVo4cmxZMEl5NXloOHpXVnhoUTNLR3BI?oc=5)
+
+2026-11-20
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUhrLUp5Nm5UNFJfdkJMd2tRSGFhbmJJMGdZSVFUdlJTbXduVE8xeWxEMTVvYllXRzRLRmRYc2RtLTU2NEl4N0p4WktldjNxYmJCOEZqMVhoNk1TODNzRVVhZTdHOUZTZEh5T0xHcnRNOEszQVJaN3prSVZCRkxHMzRQTlktdG1BOVo4cmxZMEl5NXloOHpXVnhoUTNLR3BI?oc=5)
 
 ---
 
@@ -200,14 +216,6 @@ Source: [ARD Mediathek](https://news.google.com/rss/articles/CBMickFVX3lxTE9QZ1N
 2026-11-18
 
 Source: [Onda Cero](https://news.google.com/rss/articles/CBMihwJBVV95cUxNdFI4Njd4UEx6VElaMmhCTTZESExkUHJValhQNmtmTmRJbUhLcXk2a3lxanlxM0dNNVFPOUVNT3FqMXZjWVZMbmNxSEZlcjdRSDgxY2ppdW11cVB6dEExa1Q4MWgzS2UycnF0Y3ZETjJ0cWdsUjM1UEhDTFpxMWpVbjZJdVR3VERpb1pEUW9QMmJIWUR3WHhIcmlQSFZGdFB3Wms4RkI2ekVHSGZMQnRzc01sMkZkcmtGOHZqQ2oxMWtTbVpVUkNYNkY0WkV0YVVlZXJNYkl1VmdVdWs4TVZGM0dpUE1IOVdzSVZBYl85cmRGMV9yRzlEUnpOeXh3WjdlOXJOTGpqNA?oc=5)
-
----
-
-### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
-
-2026-11-18
-
-Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
 ---
 

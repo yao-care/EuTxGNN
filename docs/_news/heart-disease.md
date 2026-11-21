@@ -3,7 +3,7 @@ layout: default
 title: "heart failure (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about heart failure (heart disease). 23 articles, 57 related drugs."
+description: "Health news about heart failure (heart disease). 25 articles, 57 related drugs."
 permalink: /news/heart-disease/
 last_modified_at: 2026-11-21
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about heart failure (heart disease)?">
-<strong>heart failure (heart disease)</strong> currently has <strong>23 news articles</strong> and 57 related drugs.
+<strong>heart failure (heart disease)</strong> currently has <strong>25 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -67,7 +67,23 @@ This page brings together the latest health news about “heart failure” and l
 </ul>
 </div>
 
-## Related News (23)
+## Related News (25)
+
+### [Expert names number of steps anyone over 60 should get every day - not 10,000](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdk5UdlRPOHE4M0J4OFFsUzlKeDZ4c21HRnFZdXV1ZHl5NGhUWXRTc2VwMk5TRUFrS2VDakp6RWJqbEZTMmRUaUxpOVljTkd6amRJeWloRHNVeTNCbUFJU3RrV2NaLUl4elZ6WkpSa3hrSDZHcllWMEVkOUdSX0g0Q080MVc?oc=5)
+
+2026-11-21
+
+Source: [AOL.co.uk](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdk5UdlRPOHE4M0J4OFFsUzlKeDZ4c21HRnFZdXV1ZHl5NGhUWXRTc2VwMk5TRUFrS2VDakp6RWJqbEZTMmRUaUxpOVljTkd6amRJeWloRHNVeTNCbUFJU3RrV2NaLUl4elZ6WkpSa3hrSDZHcllWMEVkOUdSX0g0Q080MVc?oc=5)
+
+---
+
+### [Sleeping nine or more hours in a day could be a warning sign for adults with this common condition - The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW90TlFPTlI1WWpRMnBoVlNXVk5yc1RzV3RfSC01RFd6QldZbUFHMEFNNzFvTE5VdHZ6eXBTVFhVaWVLYzMxVklPMmtyZjZ3WjE1YVlzY0o5WjlkSWRKXy11UW9JTmJ3c2Y2aFVyeGt3a0h2TFVCTXJMMXdmVDFaNDhoNWFGTGcwbWJwVlVQM3Y?oc=5)
+
+2026-11-20
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW90TlFPTlI1WWpRMnBoVlNXVk5yc1RzV3RfSC01RFd6QldZbUFHMEFNNzFvTE5VdHZ6eXBTVFhVaWVLYzMxVklPMmtyZjZ3WjE1YVlzY0o5WjlkSWRKXy11UW9JTmJ3c2Y2aFVyeGt3a0h2TFVCTXJMMXdmVDFaNDhoNWFGTGcwbWJwVlVQM3Y?oc=5)
+
+---
 
 ### [This One Sleep Factor Matters More Than How Many Hours You Get, Study Suggests](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Belimumab?">
-<strong>Belimumab</strong> currently has <strong>281 news articles</strong>, with 6 predicted indications.
+<strong>Belimumab</strong> currently has <strong>282 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Belimumab with the latest he
 <p><a href="{{ '/drugs/belimumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (281)
+## Related News (282)
+
+### [Ein außerordentlicher Professor am Universitätsklinikum warnt vor Gewohnheiten, die das Risiko, an Diabetes zu erkranken, erhöhen.](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnpQRlBYcVJxSFdCamxsR3hLTnRrTUpJcWRiLXBjcTFKQXJadGFZUXU5Q191ZHhrSVBMZ2pVc1hPWG9ucVNLR2MxRWhoWDRLODFvdFBLaDhhendDenVLS3BOOWpSYmdKX1hGdWZqdkdQR0ROWHRaSmZZWlhrMGtieEhLYW9aUnhXTFJXVnFndlk1NVAzRWdRekx6anJaOVZwVGFsTXFielo?oc=5)
+
+2026-11-21 <span class="news-indication-tag">diabetes</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnpQRlBYcVJxSFdCamxsR3hLTnRrTUpJcWRiLXBjcTFKQXJadGFZUXU5Q191ZHhrSVBMZ2pVc1hPWG9ucVNLR2MxRWhoWDRLODFvdFBLaDhhendDenVLS3BOOWpSYmdKX1hGdWZqdkdQR0ROWHRaSmZZWlhrMGtieEhLYW9aUnhXTFJXVnFndlk1NVAzRWdRekx6anJaOVZwVGFsTXFielo?oc=5)
+
+---
 
 ### [Diabetes: Diese vier Organe kann hoher Blutzucker besonders stark schädigen](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0hnR3N3WlBRVE1fRU9qWXNJbzNnUzEySTNQbEd3dU82NjBhUTl2UFRGcUIzOWk2cVdXel92VndieWJYOGVSRTB5OUp1endTZnMyNGpqampVZWV3OEpkOERnT0prMWNnRWpNc0hkY2l5dl85RnhxOXZsV0pBa0lwQ0ZuLVBPWWhmVWxLOTgyYTBYdHlsQUFyUWNOU1I5VkJkXzBLSUlQZ2I1VmYwLUQzalVoeDQ0U3NVU3hBSXl1OHVNa1N4UHR4QVhKOGZoNUtJaVptSEtOazJ6V3c?oc=5)
 
@@ -61,6 +69,14 @@ Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBV
 2026-11-20 <span class="news-indication-tag">diabetes</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYVhfWUtMQlZkV2tpQWYyZk5WdVV6NUJFZUxjWWwtbzJCdHRNdDBFSXZDMk5PQlhlbE5XVTFJN3Y1bHlmWDlUMWJXdXRXaU5ZYmFiRVVVNEVKS01zZlQyWG41ZDFLZnBsY0kzaFBXSzF1XzVSaVpRVGRlN3hWd0lLNEh5WGlITzFYMGVxR3lzNmZFRUZjLW02WGRLN2ZJNmYzZXZNRDVTem1pVmxub0dHdkhlaW9PRkExX1VqejY2Y0YtdWRNNTFTUEVmYlJHMUt2NFZDdlVhSUdvOWMwOXEyX3Y2bWlyOHM?oc=5)
+
+---
+
+### [Millionen von Menschen sind dem Risiko von Komplikationen ausgesetzt, weil die Krankheit unbemerkt fortschreitet.](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUhrLUp5Nm5UNFJfdkJMd2tRSGFhbmJJMGdZSVFUdlJTbXduVE8xeWxEMTVvYllXRzRLRmRYc2RtLTU2NEl4N0p4WktldjNxYmJCOEZqMVhoNk1TODNzRVVhZTdHOUZTZEh5T0xHcnRNOEszQVJaN3prSVZCRkxHMzRQTlktdG1BOVo4cmxZMEl5NXloOHpXVnhoUTNLR3BI?oc=5)
+
+2026-11-20 <span class="news-indication-tag">diabetes</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUhrLUp5Nm5UNFJfdkJMd2tRSGFhbmJJMGdZSVFUdlJTbXduVE8xeWxEMTVvYllXRzRLRmRYc2RtLTU2NEl4N0p4WktldjNxYmJCOEZqMVhoNk1TODNzRVVhZTdHOUZTZEh5T0xHcnRNOEszQVJaN3prSVZCRkxHMzRQTlktdG1BOVo4cmxZMEl5NXloOHpXVnhoUTNLR3BI?oc=5)
 
 ---
 
@@ -173,14 +189,6 @@ Source: [ARD Mediathek](https://news.google.com/rss/articles/CBMickFVX3lxTE9QZ1N
 2026-11-18 <span class="news-indication-tag">diabetes</span>
 
 Source: [Onda Cero](https://news.google.com/rss/articles/CBMihwJBVV95cUxNdFI4Njd4UEx6VElaMmhCTTZESExkUHJValhQNmtmTmRJbUhLcXk2a3lxanlxM0dNNVFPOUVNT3FqMXZjWVZMbmNxSEZlcjdRSDgxY2ppdW11cVB6dEExa1Q4MWgzS2UycnF0Y3ZETjJ0cWdsUjM1UEhDTFpxMWpVbjZJdVR3VERpb1pEUW9QMmJIWUR3WHhIcmlQSFZGdFB3Wms4RkI2ekVHSGZMQnRzc01sMkZkcmtGOHZqQ2oxMWtTbVpVUkNYNkY0WkV0YVVlZXJNYkl1VmdVdWs4TVZGM0dpUE1IOVdzSVZBYl85cmRGMV9yRzlEUnpOeXh3WjdlOXJOTGpqNA?oc=5)
-
----
-
-### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
-
-2026-11-18 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">diabetes</span>
-
-Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
 ---
 

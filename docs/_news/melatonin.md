@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>134 news articles</strong>, with 0 predicted indications.
+<strong>Melatonin</strong> currently has <strong>136 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (134)
+## Related News (136)
+
+### [Manovra, da psicologi a obesità: cosa prevedono gli emendamenti sulla sanità - Sky TG24](https://news.google.com/rss/articles/CBMidEFVX3lxTFA2S3ktLS1RMDdFQlFVbi14QnF0ZU5YSjRnOEtCalBoOHQwMWFtQmpHUkhFalVKakRKa1lQSXZ0alE5eEhGcnB4aVFwUThneW9BYUg1WmM1NUdmdUV6N2g2WmtXVFFJOWhlQzBET0xPa1FNaHNy?oc=5)
+
+2026-11-21 <span class="news-drug-tag">Aprepitant</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMidEFVX3lxTFA2S3ktLS1RMDdFQlFVbi14QnF0ZU5YSjRnOEtCalBoOHQwMWFtQmpHUkhFalVKakRKa1lQSXZ0alE5eEhGcnB4aVFwUThneW9BYUg1WmM1NUdmdUV6N2g2WmtXVFFJOWhlQzBET0xPa1FNaHNy?oc=5)
+
+---
+
+### [Obesità e glicemia: è meglio fare brevi passeggiate o una lunga camminata per tenere sotto controllo i valori? - Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOaXJXWm5qM0RERjAyU3ZvcUxheUg3MFlpTlNSSEhxNG1jb0tyYnV2Z2JmU0lNVTNfNDYyOEJiQ0tDaWhhWUx1MnRreElEZDBzV1l3TmQydnFaRFpLZ3hmN29odmkydnNvV0pqNERvSWkzQXNnZVJIOEMtQTl1SU9KaHpuSmlPSEdPTGhwR3NlNVVnOGFSZk9MZEdjaFVyamZnVHZmcHduZjgzb0VjaENHakR1WnBWblRJZ0l1REFFV1A2Zzc0dGN4NDdXU0RJeXpWRk5JbkQyZE1LZ05KUjlUeldBVTlNWmxKMnpyQTVGamVPYURsbFVEQUlvYkRjMURnbzZ1X0VFejVWQktCd0RqQkRvelhhQ0tidHY5bzNRRFVqTjlZaFlvaUpYSnlBd9IBswJBVV95cUxOS0s2Smw0b0tSZXcxRHdDaHE1VjUzdFhES2NHTFUzR1FEcUdDdDZfYnJmTUhSTTdVRU56VERXY0ZHbG84czR5ZXZvYW1WVm5pUTR3V1R2UkJBclZBWVNpeE9JQ3ZwS1hWd3UwVTlSd2x1T2NuRGVxTy1uS2JlLW9VWjRpUXg3WTdDNnVhREZHRXBLRVFwbl9nSXhod3ZVQUtqcVdaUzE0LWg0WjZyWWc4ODlJQjFsbkZPWUdzX0J0VWM3dzVCNWVwZ3JVS3RVMnRQRTVhWmNBNlVuUEhzcnN0UDROS25RUkNTMUFsR3k4YkM4bmI4WEN1ZG9GTmtzdThvZDczN19hTXQ3OVViRmVGTUROR3RXWjBnd1pfMjI0TmZiTWpqZHNLUXljQjUtendRWVhF?oc=5)
+
+2026-11-21 <span class="news-indication-tag">obesità</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOaXJXWm5qM0RERjAyU3ZvcUxheUg3MFlpTlNSSEhxNG1jb0tyYnV2Z2JmU0lNVTNfNDYyOEJiQ0tDaWhhWUx1MnRreElEZDBzV1l3TmQydnFaRFpLZ3hmN29odmkydnNvV0pqNERvSWkzQXNnZVJIOEMtQTl1SU9KaHpuSmlPSEdPTGhwR3NlNVVnOGFSZk9MZEdjaFVyamZnVHZmcHduZjgzb0VjaENHakR1WnBWblRJZ0l1REFFV1A2Zzc0dGN4NDdXU0RJeXpWRk5JbkQyZE1LZ05KUjlUeldBVTlNWmxKMnpyQTVGamVPYURsbFVEQUlvYkRjMURnbzZ1X0VFejVWQktCd0RqQkRvelhhQ0tidHY5bzNRRFVqTjlZaFlvaUpYSnlBd9IBswJBVV95cUxOS0s2Smw0b0tSZXcxRHdDaHE1VjUzdFhES2NHTFUzR1FEcUdDdDZfYnJmTUhSTTdVRU56VERXY0ZHbG84czR5ZXZvYW1WVm5pUTR3V1R2UkJBclZBWVNpeE9JQ3ZwS1hWd3UwVTlSd2x1T2NuRGVxTy1uS2JlLW9VWjRpUXg3WTdDNnVhREZHRXBLRVFwbl9nSXhod3ZVQUtqcVdaUzE0LWg0WjZyWWc4ODlJQjFsbkZPWUdzX0J0VWM3dzVCNWVwZ3JVS3RVMnRQRTVhWmNBNlVuUEhzcnN0UDROS25RUkNTMUFsR3k4YkM4bmI4WEN1ZG9GTmtzdThvZDczN19hTXQ3OVViRmVGTUROR3RXWjBnd1pfMjI0TmZiTWpqZHNLUXljQjUtendRWVhF?oc=5)
+
+---
 
 ### [GESUNDHEITSRUNDSCHAU - GLP-1-Medikamente verbessern Herzfunktion bei Patienten mit Adipositas und Herzinsuffizienz - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZmgtckgyaVE3aHJhUW1zc3pneG1PZ01NQkJncm9ZRWhFNnhlY3RYd29pRDlFcWpmVXJkekVodzV3NEJFbktWRWhIWm54ZjY2am5OVFNhUHhadThTVzZQSHBKM1JkQXZXSDdMRnZfX0gySDgwSE5UWmJvQS1vZjZwVkp2bjdIOEJiS1RnME9VdzJBQW1rdUZYTlBDMV9FWmd2N3V6X2R1amZSQWVkbjdxamM0NlhSS3JzYWMxcFNmTnM2VWZQUl9ZYzMyRGYzeVEwOC1HSTRyQ1dtYzQwRGpZYjQtbVEtaV9NT0Fub2NmV1hrdEw2ZG1r?oc=5)
 
@@ -40,11 +56,11 @@ Source: [MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi9w
 
 ---
 
-### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen - Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
 
 2026-11-20 <span class="news-indication-tag">Adipositas</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
 
 ---
 
@@ -122,7 +138,7 @@ Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi
 
 ### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
-2026-11-18 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">diabetes</span>
+2026-11-18 <span class="news-indication-tag">Adipositas</span>
 
 Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 

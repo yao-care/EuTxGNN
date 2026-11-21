@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Cabotegravir?">
-<strong>Cabotegravir</strong> currently has <strong>319 news articles</strong>, with 5 predicted indications.
+<strong>Cabotegravir</strong> currently has <strong>321 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Cabotegravir with the latest
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (319)
+## Related News (321)
+
+### [Ein außerordentlicher Professor am Universitätsklinikum warnt vor Gewohnheiten, die das Risiko, an Diabetes zu erkranken, erhöhen.](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnpQRlBYcVJxSFdCamxsR3hLTnRrTUpJcWRiLXBjcTFKQXJadGFZUXU5Q191ZHhrSVBMZ2pVc1hPWG9ucVNLR2MxRWhoWDRLODFvdFBLaDhhendDenVLS3BOOWpSYmdKX1hGdWZqdkdQR0ROWHRaSmZZWlhrMGtieEhLYW9aUnhXTFJXVnFndlk1NVAzRWdRekx6anJaOVZwVGFsTXFielo?oc=5)
+
+2026-11-21 <span class="news-indication-tag">diabetes</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnpQRlBYcVJxSFdCamxsR3hLTnRrTUpJcWRiLXBjcTFKQXJadGFZUXU5Q191ZHhrSVBMZ2pVc1hPWG9ucVNLR2MxRWhoWDRLODFvdFBLaDhhendDenVLS3BOOWpSYmdKX1hGdWZqdkdQR0ROWHRaSmZZWlhrMGtieEhLYW9aUnhXTFJXVnFndlk1NVAzRWdRekx6anJaOVZwVGFsTXFielo?oc=5)
+
+---
 
 ### [Diabetes: Diese vier Organe kann hoher Blutzucker besonders stark schädigen](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0hnR3N3WlBRVE1fRU9qWXNJbzNnUzEySTNQbEd3dU82NjBhUTl2UFRGcUIzOWk2cVdXel92VndieWJYOGVSRTB5OUp1endTZnMyNGpqampVZWV3OEpkOERnT0prMWNnRWpNc0hkY2l5dl85RnhxOXZsV0pBa0lwQ0ZuLVBPWWhmVWxLOTgyYTBYdHlsQUFyUWNOU1I5VkJkXzBLSUlQZ2I1VmYwLUQzalVoeDQ0U3NVU3hBSXl1OHVNa1N4UHR4QVhKOGZoNUtJaVptSEtOazJ6V3c?oc=5)
 
@@ -84,6 +92,22 @@ Source: [Canarias7](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVZlNDV
 2026-11-20 <span class="news-indication-tag">arthritis</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zWDZGQ19yYVE1Rkg2WTZHXzdYdjVoTk1pWS1TQWd5TXVZN1RwR0RaV05Xeng5cEM4VWZHd1RVTEJKaFZ0MEd4czEwX2dXR3ZOMlRQaG5ZYldtTmJZc2c?oc=5)
+
+---
+
+### [Powerful new weight-loss drug helps patients cut knee pain in half](https://news.google.com/rss/articles/CBMib0FVX3lxTE5mdWVxaEZDcGQwZUk5cm9xOXNJdEZuUnNQejZmRVg1MVNaZEFSRTU1bUxTSE02azVFQUpqdENQLVBMUEJhYmF0Vm82cVBmN2IyclZCRDdtMnltLWplVjBZN3p3RVFUa1hFcmRBeXNpYw?oc=5)
+
+2026-11-20 <span class="news-indication-tag">arthritis</span>
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5mdWVxaEZDcGQwZUk5cm9xOXNJdEZuUnNQejZmRVg1MVNaZEFSRTU1bUxTSE02azVFQUpqdENQLVBMUEJhYmF0Vm82cVBmN2IyclZCRDdtMnltLWplVjBZN3p3RVFUa1hFcmRBeXNpYw?oc=5)
+
+---
+
+### [Millionen von Menschen sind dem Risiko von Komplikationen ausgesetzt, weil die Krankheit unbemerkt fortschreitet.](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUhrLUp5Nm5UNFJfdkJMd2tRSGFhbmJJMGdZSVFUdlJTbXduVE8xeWxEMTVvYllXRzRLRmRYc2RtLTU2NEl4N0p4WktldjNxYmJCOEZqMVhoNk1TODNzRVVhZTdHOUZTZEh5T0xHcnRNOEszQVJaN3prSVZCRkxHMzRQTlktdG1BOVo4cmxZMEl5NXloOHpXVnhoUTNLR3BI?oc=5)
+
+2026-11-20 <span class="news-indication-tag">diabetes</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUhrLUp5Nm5UNFJfdkJMd2tRSGFhbmJJMGdZSVFUdlJTbXduVE8xeWxEMTVvYllXRzRLRmRYc2RtLTU2NEl4N0p4WktldjNxYmJCOEZqMVhoNk1TODNzRVVhZTdHOUZTZEh5T0xHcnRNOEszQVJaN3prSVZCRkxHMzRQTlktdG1BOVo4cmxZMEl5NXloOHpXVnhoUTNLR3BI?oc=5)
 
 ---
 
@@ -260,14 +284,6 @@ Source: [Highland Radio](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeE
 2026-11-18 <span class="news-indication-tag">BPCO</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRzA0MHREd0MwLTRTWm9WT2xQT29sc0pZYzdNdllkT21LX3dOQ1JNNlFPQnBYODhDamtadHh2ODl1S0ZnektvSVZOQmZyQzNvcEEwemVpMDg0NGtSb044UUtZTnE0MDRvT2had0cwNTl0QU5tVHZlUExlbm0zd181SWliUkxYQlA3MkNNdEJJRW1wU0RrYmxHWEJib0pmT2lWLWFCVE1senN1QzZUUTFBMVc4OW1UZ1JCUXlkWnZ2eGRLZTFrRXVtZzRvTzNyRXRTSldrRE5OZFFVa3JiYVVKeU9sMzlrTHN1M0E?oc=5)
-
----
-
-### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
-
-2026-11-18 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">diabetes</span>
-
-Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
 ---
 
