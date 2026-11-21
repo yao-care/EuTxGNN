@@ -3,7 +3,7 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 127 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 130 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-21
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>127 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>130 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (127)
+## Related News (130)
+
+### [Los casos de ictus en jóvenes se duplican y un experto revela las causas: "Lo peor para el cerebro y lo peor para el corazón"](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZyYndVUzFWTnA3OHlKRk0zV2wtQmp0c1ZWVjdtT3hMdEJpXzRMWmtIbU1tVFBSWHdnRXdvX0Q2QWpTSjRnSzVCUDdxNGdBZk9iTGVzWVZNeGRTME1QdTc0UmI3R0ZTUl9DRkYxNVhaVk1zdFJpT3FvUzFNa0RCX1pNYUhMT1VleWc3YnNQdmpoYmxjTFhXcE14UU56cUdPY3V5QUZLSW03dXFHQVFGX0ZqcTRZci1fU3d4Q1NtSjRYRXgxMm00NGU0QVdSTXR3dXExYmVPdEdnd1J3Z9IB6AFBVV95cUxNVkhOd1ZKaXVnTEcxYmM0dnJkM0VQY2pQUm9Zdm00NFRlNEd2RFBIOGI5eEJkS25NM0tpYk1KdlNobXBwZjFldUFmZWVIYXFXUmxmUFZ3REhUVzdyQXRvNk82T0F6Q1VhQy1RSWVhYmtQVTdIdHBETjJ4aHlaQTZpRFZCLWtrSHJVQjVrS29JYWYtcUtzOFk5ZEphVlBTNFkxc2lpXzB6RnlXNHBwcGw5LWRDb3dHLXZUMXFQQW5IdkFxSF8zcEJaeWlMT2pNVVd0dXNOWWRqV3hJNkJWMXJXMjBoclgzbmJZ?oc=5)
+
+2026-11-21
+
+Source: [COPE](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZyYndVUzFWTnA3OHlKRk0zV2wtQmp0c1ZWVjdtT3hMdEJpXzRMWmtIbU1tVFBSWHdnRXdvX0Q2QWpTSjRnSzVCUDdxNGdBZk9iTGVzWVZNeGRTME1QdTc0UmI3R0ZTUl9DRkYxNVhaVk1zdFJpT3FvUzFNa0RCX1pNYUhMT1VleWc3YnNQdmpoYmxjTFhXcE14UU56cUdPY3V5QUZLSW03dXFHQVFGX0ZqcTRZci1fU3d4Q1NtSjRYRXgxMm00NGU0QVdSTXR3dXExYmVPdEdnd1J3Z9IB6AFBVV95cUxNVkhOd1ZKaXVnTEcxYmM0dnJkM0VQY2pQUm9Zdm00NFRlNEd2RFBIOGI5eEJkS25NM0tpYk1KdlNobXBwZjFldUFmZWVIYXFXUmxmUFZ3REhUVzdyQXRvNk82T0F6Q1VhQy1RSWVhYmtQVTdIdHBETjJ4aHlaQTZpRFZCLWtrSHJVQjVrS29JYWYtcUtzOFk5ZEphVlBTNFkxc2lpXzB6RnlXNHBwcGw5LWRDb3dHLXZUMXFQQW5IdkFxSF8zcEJaeWlMT2pNVVd0dXNOWWRqV3hJNkJWMXJXMjBoclgzbmJZ?oc=5)
+
+---
 
 ### [Los casos de ictus en jóvenes se duplican y un experto revela las causas: "Lo peor para el cerebro y lo peor para el corazón"](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZyYndVUzFWTnA3OHlKRk0zV2wtQmp0c1ZWVjdtT3hMdEJpXzRMWmtIbU1tVFBSWHdnRXdvX0Q2QWpTSjRnSzVCUDdxNGdBZk9iTGVzWVZNeGRTME1QdTc0UmI3R0ZTUl9DRkYxNVhaVk1zdFJpT3FvUzFNa0RCX1pNYUhMT1VleWc3YnNQdmpoYmxjTFhXcE14UU56cUdPY3V5QUZLSW03dXFHQVFGX0ZqcTRZci1fU3d4Q1NtSjRYRXgxMm00NGU0QVdSTXR3dXExYmVPdEdnd1J3Zw?oc=5)
 
@@ -52,6 +60,14 @@ Source: [COPE](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZy
 2026-11-21
 
 Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVZKTndvN19uWDlHU2lUZi1NVnVhSG9QSzh4YlhIMmhPZWY0Rlh0N3BURU0tM3YzR29mczZhMnNQX2VCbG9GSUhzNm0yTHdvVTFISm1wOUdzOUg3bWJpSVJSalo5SnhCVjFLdUFVT0JITjUzdkQ0QmMwbnJkdkI3MWF2aUo4UklVU01WMlpPQzJCTHNuX05yU0NKczlGeUhQODVEWDlqTVhwaFhjVzBZTnBRdEJhX2VBTVNn?oc=5)
+
+---
+
+### [Infosalus.- Las enfermedades cardiovasculares y sus factores de riesgo desempeñan un papel clave en desarrollo de demencia](https://news.google.com/rss/articles/CBMi7wFBVV95cUxObnd0RXBkdmV1TTZDXzRKR2RzNVdWek9lRUlhNGl4OVU3MGRSYVg5ODFkMHNNaUd3eWJvX0ZPVjlYVmFhaDNkYWVzQ0NGWVVnRl9vNGdod1JLSXkzNl9JZDJPZ1FmWk5hTUhRX1UwTjR5T2dkRGg3aWx0Zk9hbnBHUXNJMGhfTnJwcHMwdzExaURXTnZVeW1pLVJXcmx2bko0TWFOWW1neDdYWmN1eVlVOFJ6T0t4Qm5iZmxNbGwwVWc2eUoySzRTalJSajVET0ZULVhTY2hJRVgxSkFqT3Y4TDEwVXJSZHMwX1hwelQ0RQ?oc=5)
+
+2026-11-20
+
+Source: [Notimérica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxObnd0RXBkdmV1TTZDXzRKR2RzNVdWek9lRUlhNGl4OVU3MGRSYVg5ODFkMHNNaUd3eWJvX0ZPVjlYVmFhaDNkYWVzQ0NGWVVnRl9vNGdod1JLSXkzNl9JZDJPZ1FmWk5hTUhRX1UwTjR5T2dkRGg3aWx0Zk9hbnBHUXNJMGhfTnJwcHMwdzExaURXTnZVeW1pLVJXcmx2bko0TWFOWW1neDdYWmN1eVlVOFJ6T0t4Qm5iZmxNbGwwVWc2eUoySzRTalJSajVET0ZULVhTY2hJRVgxSkFqT3Y4TDEwVXJSZHMwX1hwelQ0RQ?oc=5)
 
 ---
 
@@ -199,6 +215,14 @@ Source: [Univadis](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlp
 
 ---
 
+### [Dislipidemie, oltre il target LDL: la sfida del rischio cardiovascolare residuo](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNejRFdWREWXVOOW5tSF9DVDV2WFhTN2swZEw0RFFkNlF3RVJ3N1BCNTUxMFdlUnBGU0oxVVJSUERQWS1fMGlBek1WTWpaaE42ZkY3UnZQeW5OcXpxejFmUmc0bkxhSnpZZzNHQjZzdGFzVVhzaEp4aUs0U0l0N1RSQ3IzemVSaGxCaU5ZdDV3bzhINnFLWF91d1pUZWRlTmJJS29nMUV4OEU?oc=5)
+
+2026-11-17
+
+Source: [CardioInfo](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNejRFdWREWXVOOW5tSF9DVDV2WFhTN2swZEw0RFFkNlF3RVJ3N1BCNTUxMFdlUnBGU0oxVVJSUERQWS1fMGlBek1WTWpaaE42ZkY3UnZQeW5OcXpxejFmUmc0bkxhSnpZZzNHQjZzdGFzVVhzaEp4aUs0U0l0N1RSQ3IzemVSaGxCaU5ZdDV3bzhINnFLWF91d1pUZWRlTmJJS29nMUV4OEU?oc=5)
+
+---
+
 ### [Colesterolo fuori controllo tra gli italiani, strategia per risparmiare vite e 3,7 mld di spesa - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMlJVZEh6elFhMjZaZ0FQSXltT3hNZU1ma0FjZ0dBT1hFYmIyV3BZQ1JNUTB5S0owbmg2UmhtbzVtMEZMZ2FwTmV6dGNVZjEtZnp6QndaMEUwd3NtNkdCWmdTWEQyQWV2MENrU2Z5akVzYmNVVGt4QzkzV3NHNTBGdEVrNDB5UThPM1VISlRnN1dGck9GZGZqZC0zOUNVaEE5VnhiZVk2eXZQNTFFM2N5WDJjY1NGbVR6Qlc3ZG1KTEg?oc=5)
 
 2026-11-17
@@ -219,7 +243,7 @@ Source: [Open](https://news.google.com/rss/articles/CBMigAFBVV95cUxNUThaYlZlRzB3
 
 2026-11-16
 
-Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdldXOFhnRTVFT0RINTczLWoteDNJbHZTcFlXeFhuMTh5eEl5WWtibzN4SS10X1Z5SThUZGxwY1NBUWE5R3lOWWdpRHI3MUU1ZXRNeXhwTDl3X0NYcER3cUZYZGwzdzNvRHFZRnZtcG9mTE0tbGd6bWtVNGUxTW1oYnBqZHNzc1IxUHRiaWZFMkQtZlZhSUQxMmRTZVVlcmtOeDBkQWU4ZUFiU04tWEFtM1BzeUF0WFNSMUVadUk3YXRRMFJ5S3VFQTlqaGtwa3cwRFlnQ3RUOEVzcVRx?oc=5)
+Source: [springermedizin.de](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdldXOFhnRTVFT0RINTczLWoteDNJbHZTcFlXeFhuMTh5eEl5WWtibzN4SS10X1Z5SThUZGxwY1NBUWE5R3lOWWdpRHI3MUU1ZXRNeXhwTDl3X0NYcER3cUZYZGwzdzNvRHFZRnZtcG9mTE0tbGd6bWtVNGUxTW1oYnBqZHNzc1IxUHRiaWZFMkQtZlZhSUQxMmRTZVVlcmtOeDBkQWU4ZUFiU04tWEFtM1BzeUF0WFNSMUVadUk3YXRRMFJ5S3VFQTlqaGtwa3cwRFlnQ3RUOEVzcVRx?oc=5)
 
 ---
 

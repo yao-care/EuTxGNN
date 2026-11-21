@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Cabotegravir?">
-<strong>Cabotegravir</strong> currently has <strong>321 news articles</strong>, with 5 predicted indications.
+<strong>Cabotegravir</strong> currently has <strong>324 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,29 @@ This page combines the AI-predicted indications for Cabotegravir with the latest
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (321)
+## Related News (324)
+
+### [One in three Britons has fatty liver disease – here’s how to keep yours healthy - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWJQSkQ2MW1GN0FQekxMLWFncDZxNkxuYnhPSzl3NkxJaHVnVlhzS0p5M1pKdkx3dGJ4d2N4SDE0Y1dUdld1Sk5vYWExRWxHQXRpR2dJd2lNbmlEdkp5X0N3a3dMMGNpZGN6V3lqVUw2Z0VmTUMtb2hVWEVHR0dqWFYtanBMVXJnZFRGYmVSVTliWDJsQVBhRmEyUVd6Y1NBSmlV?oc=5)
+
+2026-11-21 <span class="news-indication-tag">diabetic</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWJQSkQ2MW1GN0FQekxMLWFncDZxNkxuYnhPSzl3NkxJaHVnVlhzS0p5M1pKdkx3dGJ4d2N4SDE0Y1dUdld1Sk5vYWExRWxHQXRpR2dJd2lNbmlEdkp5X0N3a3dMMGNpZGN6V3lqVUw2Z0VmTUMtb2hVWEVHR0dqWFYtanBMVXJnZFRGYmVSVTliWDJsQVBhRmEyUVd6Y1NBSmlV?oc=5)
+
+---
 
 ### [Ein außerordentlicher Professor am Universitätsklinikum warnt vor Gewohnheiten, die das Risiko, an Diabetes zu erkranken, erhöhen.](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnpQRlBYcVJxSFdCamxsR3hLTnRrTUpJcWRiLXBjcTFKQXJadGFZUXU5Q191ZHhrSVBMZ2pVc1hPWG9ucVNLR2MxRWhoWDRLODFvdFBLaDhhendDenVLS3BOOWpSYmdKX1hGdWZqdkdQR0ROWHRaSmZZWlhrMGtieEhLYW9aUnhXTFJXVnFndlk1NVAzRWdRekx6anJaOVZwVGFsTXFielo?oc=5)
 
 2026-11-21 <span class="news-indication-tag">diabetes</span>
 
 Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnpQRlBYcVJxSFdCamxsR3hLTnRrTUpJcWRiLXBjcTFKQXJadGFZUXU5Q191ZHhrSVBMZ2pVc1hPWG9ucVNLR2MxRWhoWDRLODFvdFBLaDhhendDenVLS3BOOWpSYmdKX1hGdWZqdkdQR0ROWHRaSmZZWlhrMGtieEhLYW9aUnhXTFJXVnFndlk1NVAzRWdRekx6anJaOVZwVGFsTXFielo?oc=5)
+
+---
+
+### [¿Falta de aire o tos persistente? Podría ser EPOC: así se detecta y controla a tiempo en la isla - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXlscnlINzJPUzh3Q0x4aDJCTXNDeUEzNllZaHNYMHQ2MDBuQUItVldSOGVqbE5tWnplLUstZGdJR3RGVk1GdndldlA1YlBBT3hFdnV2OWhhdV8yUHduZUdXYkFBWXFDQkxSODVqOXI2aU9mOWZ0dk9WOUNNV2hLNUVFaXM5UmZIX2VnbkNNSUh3TWdqZGdacXplYjdmeVUydEVKM3pjbmlKeHJFck1waW0xbTdZN25MOW96b1I1RFNUWGpSVmFQTzAxRjV0dVR0WHA2M0pONHlxTHA1ak9UNzlyMmk4M0Js0gHuAUFVX3lxTE8zc1pkeExkaW5ORWUzZkc1ejd3U2puVVJ2OTA5STRseldmX2d3WFZZd1BaOGZmS2JGTGdoekQ2Ri16cWthZUEtNkNqNjk5ckxmSXlIb0hhYmM5dU01VVlSeW4tV1JXeVNoYVhEbVZ5R0FueE5WS3B1ODVoYkwxMmEzR0tCUGFaV3JFX29fQkFkU093TG92TmI0dl9zZmVjUnFCNjBDWk1ja2piUVJlMi1qWkpLeGM1S3NPTEJuMTdCYnFxWHBnQ2t4bGp0NUxoM1VkcEZjY1NHWVFfRVB3MXJpQk9yVFB4YXNPLTZrRXc?oc=5)
+
+2026-11-21 <span class="news-indication-tag">EPOC</span>
+
+Source: [Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXlscnlINzJPUzh3Q0x4aDJCTXNDeUEzNllZaHNYMHQ2MDBuQUItVldSOGVqbE5tWnplLUstZGdJR3RGVk1GdndldlA1YlBBT3hFdnV2OWhhdV8yUHduZUdXYkFBWXFDQkxSODVqOXI2aU9mOWZ0dk9WOUNNV2hLNUVFaXM5UmZIX2VnbkNNSUh3TWdqZGdacXplYjdmeVUydEVKM3pjbmlKeHJFck1waW0xbTdZN25MOW96b1I1RFNUWGpSVmFQTzAxRjV0dVR0WHA2M0pONHlxTHA1ak9UNzlyMmk4M0Js0gHuAUFVX3lxTE8zc1pkeExkaW5ORWUzZkc1ejd3U2puVVJ2OTA5STRseldmX2d3WFZZd1BaOGZmS2JGTGdoekQ2Ri16cWthZUEtNkNqNjk5ckxmSXlIb0hhYmM5dU01VVlSeW4tV1JXeVNoYVhEbVZ5R0FueE5WS3B1ODVoYkwxMmEzR0tCUGFaV3JFX29fQkFkU093TG92TmI0dl9zZmVjUnFCNjBDWk1ja2piUVJlMi1qWkpLeGM1S3NPTEJuMTdCYnFxWHBnQ2t4bGp0NUxoM1VkcEZjY1NHWVFfRVB3MXJpQk9yVFB4YXNPLTZrRXc?oc=5)
 
 ---
 
@@ -76,6 +92,14 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxP
 2026-11-20 <span class="news-indication-tag">diabetes</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYVhfWUtMQlZkV2tpQWYyZk5WdVV6NUJFZUxjWWwtbzJCdHRNdDBFSXZDMk5PQlhlbE5XVTFJN3Y1bHlmWDlUMWJXdXRXaU5ZYmFiRVVVNEVKS01zZlQyWG41ZDFLZnBsY0kzaFBXSzF1XzVSaVpRVGRlN3hWd0lLNEh5WGlITzFYMGVxR3lzNmZFRUZjLW02WGRLN2ZJNmYzZXZNRDVTem1pVmxub0dHdkhlaW9PRkExX1VqejY2Y0YtdWRNNTFTUEVmYlJHMUt2NFZDdlVhSUdvOWMwOXEyX3Y2bWlyOHM?oc=5)
+
+---
+
+### [Diabète : les conseils d'une médecin pour mieux comprendre et équilibrer sa maladie - Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGFzU3lOWmVvTTBHUzZBVVpFYTN4SF9ic1ZhQ19PNmc5VDZ2ZE5CVUZyNGlXV2tpajFuSENiR0xJc0pyZGJIcHJOWnJzdU9mdG44RHJUNGh3OGthREdRYmdRRFk4YkJ2cW4tdjc0TlZDOXdhQnRST2RDNkVXQ3ptblBac0xyLXY2d0Y4bm84QllqY0lYSE1HcXVHeE1EZ3FzZTlGTHM5aVBDRFN2UGQzWVhWV0NkcE1JVXpTOG1nN2VPQnhm?oc=5)
+
+2026-11-20 <span class="news-indication-tag">diabète</span>
+
+Source: [Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGFzU3lOWmVvTTBHUzZBVVpFYTN4SF9ic1ZhQ19PNmc5VDZ2ZE5CVUZyNGlXV2tpajFuSENiR0xJc0pyZGJIcHJOWnJzdU9mdG44RHJUNGh3OGthREdRYmdRRFk4YkJ2cW4tdjc0TlZDOXdhQnRST2RDNkVXQ3ptblBac0xyLXY2d0Y4bm84QllqY0lYSE1HcXVHeE1EZ3FzZTlGTHM5aVBDRFN2UGQzWVhWV0NkcE1JVXpTOG1nN2VPQnhm?oc=5)
 
 ---
 

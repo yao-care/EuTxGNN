@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "diabetes (diabetes mellitus) News"
+title: "diabetic (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 281 articles, 86 related drugs."
+description: "Health news about diabetic (diabetes mellitus). 283 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 last_modified_at: 2026-11-21
 ---
 
-# diabetes (diabetes mellitus) News
+# diabetic (diabetes mellitus) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>281 news articles</strong> and 86 related drugs.
+<p class="key-answer" data-question="What news is there about diabetic (diabetes mellitus)?">
+<strong>diabetic (diabetes mellitus)</strong> currently has <strong>283 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “diabetes” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “diabetic” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -65,7 +65,15 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (281)
+## Related News (283)
+
+### [One in three Britons has fatty liver disease – here’s how to keep yours healthy - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWJQSkQ2MW1GN0FQekxMLWFncDZxNkxuYnhPSzl3NkxJaHVnVlhzS0p5M1pKdkx3dGJ4d2N4SDE0Y1dUdld1Sk5vYWExRWxHQXRpR2dJd2lNbmlEdkp5X0N3a3dMMGNpZGN6V3lqVUw2Z0VmTUMtb2hVWEVHR0dqWFYtanBMVXJnZFRGYmVSVTliWDJsQVBhRmEyUVd6Y1NBSmlV?oc=5)
+
+2026-11-21
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWJQSkQ2MW1GN0FQekxMLWFncDZxNkxuYnhPSzl3NkxJaHVnVlhzS0p5M1pKdkx3dGJ4d2N4SDE0Y1dUdld1Sk5vYWExRWxHQXRpR2dJd2lNbmlEdkp5X0N3a3dMMGNpZGN6V3lqVUw2Z0VmTUMtb2hVWEVHR0dqWFYtanBMVXJnZFRGYmVSVTliWDJsQVBhRmEyUVd6Y1NBSmlV?oc=5)
+
+---
 
 ### [Ein außerordentlicher Professor am Universitätsklinikum warnt vor Gewohnheiten, die das Risiko, an Diabetes zu erkranken, erhöhen.](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnpQRlBYcVJxSFdCamxsR3hLTnRrTUpJcWRiLXBjcTFKQXJadGFZUXU5Q191ZHhrSVBMZ2pVc1hPWG9ucVNLR2MxRWhoWDRLODFvdFBLaDhhendDenVLS3BOOWpSYmdKX1hGdWZqdkdQR0ROWHRaSmZZWlhrMGtieEhLYW9aUnhXTFJXVnFndlk1NVAzRWdRekx6anJaOVZwVGFsTXFielo?oc=5)
 
@@ -96,6 +104,14 @@ Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBV
 2026-11-20
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYVhfWUtMQlZkV2tpQWYyZk5WdVV6NUJFZUxjWWwtbzJCdHRNdDBFSXZDMk5PQlhlbE5XVTFJN3Y1bHlmWDlUMWJXdXRXaU5ZYmFiRVVVNEVKS01zZlQyWG41ZDFLZnBsY0kzaFBXSzF1XzVSaVpRVGRlN3hWd0lLNEh5WGlITzFYMGVxR3lzNmZFRUZjLW02WGRLN2ZJNmYzZXZNRDVTem1pVmxub0dHdkhlaW9PRkExX1VqejY2Y0YtdWRNNTFTUEVmYlJHMUt2NFZDdlVhSUdvOWMwOXEyX3Y2bWlyOHM?oc=5)
+
+---
+
+### [Diabète : les conseils d'une médecin pour mieux comprendre et équilibrer sa maladie - Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGFzU3lOWmVvTTBHUzZBVVpFYTN4SF9ic1ZhQ19PNmc5VDZ2ZE5CVUZyNGlXV2tpajFuSENiR0xJc0pyZGJIcHJOWnJzdU9mdG44RHJUNGh3OGthREdRYmdRRFk4YkJ2cW4tdjc0TlZDOXdhQnRST2RDNkVXQ3ptblBac0xyLXY2d0Y4bm84QllqY0lYSE1HcXVHeE1EZ3FzZTlGTHM5aVBDRFN2UGQzWVhWV0NkcE1JVXpTOG1nN2VPQnhm?oc=5)
+
+2026-11-20
+
+Source: [Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGFzU3lOWmVvTTBHUzZBVVpFYTN4SF9ic1ZhQ19PNmc5VDZ2ZE5CVUZyNGlXV2tpajFuSENiR0xJc0pyZGJIcHJOWnJzdU9mdG44RHJUNGh3OGthREdRYmdRRFk4YkJ2cW4tdjc0TlZDOXdhQnRST2RDNkVXQ3ptblBac0xyLXY2d0Y4bm84QllqY0lYSE1HcXVHeE1EZ3FzZTlGTHM5aVBDRFN2UGQzWVhWV0NkcE1JVXpTOG1nN2VPQnhm?oc=5)
 
 ---
 

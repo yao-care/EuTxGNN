@@ -3,7 +3,7 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 44 articles, 7 related drugs."
+description: "Health news about dépression (depression). 43 articles, 7 related drugs."
 permalink: /news/depression/
 last_modified_at: 2026-11-21
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>44 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>43 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (44)
+## Related News (43)
 
 ### [Bewegungsmuster: KI erkennt Leberfibrose und Depressionen am Gang](https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0pEaDZnU1NDOU5KUXl1cjYySDdVMjc3dU1neDJGVFFaby1LZDJuZFNETDJNWmNWLV82Sk5wUy1udHF2SnZtc09vaHhIbmZaSXAxTExiY1B2MzlzczM4S3N4U0xLX2dTcDhDYkQxNGF1dk5SVjZNTklVMjRJaUJBTVh5bjhWczJGZWtuQ24zUVp4Vm01UGNxbjcxMGVJeXlPZDdoTWE1bFNJTzZ4S1RENQ?oc=5)
 
@@ -67,14 +67,6 @@ Source: [TerniToday](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTHBxUG
 2026-11-18
 
 Source: [YourTango](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWlg2X0pRdG5yUnpXZ3VTNzZKa0FiSnFIcWJYb0JyVkZKT0tnZ08xRlBiVWNscHU4TXB3TV9FV0cxTklkY2lhVjA4dDRQUm1FSU53X1puODRWOHQ3V1NfMDFfTXBRaUdzbUtld3RJTVVSVWFIT1NMT1ZJSEVQVVpBY1RFUlNiSF9y?oc=5)
-
----
-
-### [Over 60, come mantenere attiva la mente: le abitudini amiche del cervello](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmo0bmJFMFZaWXBmYlFNakN2YnM0VEhLS0R5LUhCaGJibTVWMHNSaUhFc1ktaHVpelUwOHRNVmJBYTJ3U2VWbmQ4YmVwMDNkcjNHOUl2ZGFURmtWclA3OEFkQXJaUDJLYUFkWksxaUk5QTFjR01HbVhoQ3BWZ25FVk1MS084UkgtWDlqTVp0M3dMYXVSODh4d0w3amI5a0hhUHJVSk9fRW9BMVM3ZmZWbU5qVFFSMXpuaUhxSThoOA?oc=5)
-
-2026-11-18
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmo0bmJFMFZaWXBmYlFNakN2YnM0VEhLS0R5LUhCaGJibTVWMHNSaUhFc1ktaHVpelUwOHRNVmJBYTJ3U2VWbmQ4YmVwMDNkcjNHOUl2ZGFURmtWclA3OEFkQXJaUDJLYUFkWksxaUk5QTFjR01HbVhoQ3BWZ25FVk1MS084UkgtWDlqTVp0M3dMYXVSODh4d0w3amI5a0hhUHJVSk9fRW9BMVM3ZmZWbU5qVFFSMXpuaUhxSThoOA?oc=5)
 
 ---
 
