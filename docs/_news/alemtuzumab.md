@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Alemtuzumab. 0 predicted indications."
 permalink: /news/alemtuzumab/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Alemtuzumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Alemtuzumab?">
-<strong>Alemtuzumab</strong> currently has <strong>408 news articles</strong>, with 0 predicted indications.
+<strong>Alemtuzumab</strong> currently has <strong>415 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,9 +30,17 @@ This page combines the AI-predicted indications for Alemtuzumab with the latest 
 <p><a href="{{ '/drugs/alemtuzumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (408)
+## Related News (415)
 
-### [Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
+### [All men over 50 should be screened for prostate cancer, say US experts - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTltOEpsVjlMUTdrZlNmQWV3eHlmVkxtNktGMHlNYzgxY08zaEVucFh5SE5Cdm1pa0Job1lWam15d3NoOUdWZlhPSGkwNXdKbDNoZlpUV21uNGtKeWFBSFMtYnNCcmw2akVqVWt1alFhaENzNlBUd0pLV0JjZUxJck5YbkR4UFcyVk84N0NXUlRxYlE5WTFCNUFYVDJhaVp2?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTltOEpsVjlMUTdrZlNmQWV3eHlmVkxtNktGMHlNYzgxY08zaEVucFh5SE5Cdm1pa0Job1lWam15d3NoOUdWZlhPSGkwNXdKbDNoZlpUV21uNGtKeWFBSFMtYnNCcmw2akVqVWt1alFhaENzNlBUd0pLV0JjZUxJck5YbkR4UFcyVk84N0NXUlRxYlE5WTFCNUFYVDJhaVp2?oc=5)
+
+---
+
+### [Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ | Pancreas cancer - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
 
 2026-11-20 <span class="news-indication-tag">cancer</span>
 
@@ -48,11 +56,27 @@ Source: [JeChange](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVlFbDVQ
 
 ---
 
+### [«La plus grande avancée depuis des décennies» : un nouveau traitement contre le cancer du pancréas porteur d'espoir](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0FvWW54eTQ5bTRXak5tOWNsbVg3eElYNmN0NERKd3JtbHUwaUE2Z2dUU0ZBMDNiQzBRMTM5LUMyYUI2UFhENVdLNmtrVG9ydUFoRmpOS1dwQlJBLTZLdDZYRVBvNGdpVlR2MElXYkk4emhQckhxZExPYVdabGNnX1kwejRMWG5ndkRhalgweWtGU295NGRzMkNfdzQzZFRKOHJVZ1NEN0xaeERjRVJGRHRabXd5Z9IBuwFBVV95cUxNcl94cU5fWENFTVBGZ0VNaFFUTl9UT0xubnIwMU5PN29hRV9NbWVLN2hmUTVXdm44Y3BUWkRIWE9OaUZOREZzRjhKMl9OVVg4QzZFa0U0LTE5Qk56M1lsUXBPUTU2VF9YRTN4V0hmU3AyZGU4XzFMal9oaXJyYmFqNFktektUaGR0MXRoNlV3MFVSSndiN2ZjYU9DVEhZdjZIWHRXRU1TVy1BUVhzN0x2UG5TbkhabWU0aG5r?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span>
+
+Source: [CNews](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0FvWW54eTQ5bTRXak5tOWNsbVg3eElYNmN0NERKd3JtbHUwaUE2Z2dUU0ZBMDNiQzBRMTM5LUMyYUI2UFhENVdLNmtrVG9ydUFoRmpOS1dwQlJBLTZLdDZYRVBvNGdpVlR2MElXYkk4emhQckhxZExPYVdabGNnX1kwejRMWG5ndkRhalgweWtGU295NGRzMkNfdzQzZFRKOHJVZ1NEN0xaeERjRVJGRHRabXd5Z9IBuwFBVV95cUxNcl94cU5fWENFTVBGZ0VNaFFUTl9UT0xubnIwMU5PN29hRV9NbWVLN2hmUTVXdm44Y3BUWkRIWE9OaUZOREZzRjhKMl9OVVg4QzZFa0U0LTE5Qk56M1lsUXBPUTU2VF9YRTN4V0hmU3AyZGU4XzFMal9oaXJyYmFqNFktektUaGR0MXRoNlV3MFVSSndiN2ZjYU9DVEhZdjZIWHRXRU1TVy1BUVhzN0x2UG5TbkhabWU0aG5r?oc=5)
+
+---
+
 ### [Científicos construyeron el atlas más completo hasta ahora de 42 tipos de cáncer - El Espectador](https://news.google.com/rss/articles/CBMitwFBVV95cUxPcV9td2pQUF9OaEdpZDJ1bHBGMDNhd3E3Y0hmeWUxem9DaE9QdVdVTDViZ0RRcEZneTd2OTMtV1pLLV9GNzNYLWFUMTYwUlZQa2NScFhzTm1ZVWd6WEgzYjJVVF9IZEs5RlhGUUZJWkJlR3JPS1YxOGs1MExYQnJYUnFIbUVjVmgwOGpPSjdHbUVvYnVydG95aUh3Mm5rQkRVTUpHT2EyVk5Md2ZkbGdySmlVSUFtcjTSAcsBQVVfeXFMTzBodGh4N3YzcTNLM2k0WVd6MWdBVTFFV055anl2NThIUExJY25jeTE2TEV2aGc4M1hXNGo3QnBtOXluejRIX2ZUNmU2b19JT3hodkU0WGw0U0Iyc3RJbGJDdWVzdHRLcFlDU0NfSnRwcGdBbk1aRU5vVVJtUUxBUGRSeGJHT2ZnSklPbDlXX2VFQzlvUWozajRJWDNEcWktQmdYREMxVDZ1SnQycFlYMldzOVc4U0dPc2ZZb0ZQQkVqR1I3bmVOcXE4VE0?oc=5)
 
 2026-11-20 <span class="news-indication-tag">tumor</span>
 
 Source: [El Espectador](https://news.google.com/rss/articles/CBMitwFBVV95cUxPcV9td2pQUF9OaEdpZDJ1bHBGMDNhd3E3Y0hmeWUxem9DaE9QdVdVTDViZ0RRcEZneTd2OTMtV1pLLV9GNzNYLWFUMTYwUlZQa2NScFhzTm1ZVWd6WEgzYjJVVF9IZEs5RlhGUUZJWkJlR3JPS1YxOGs1MExYQnJYUnFIbUVjVmgwOGpPSjdHbUVvYnVydG95aUh3Mm5rQkRVTUpHT2EyVk5Md2ZkbGdySmlVSUFtcjTSAcsBQVVfeXFMTzBodGh4N3YzcTNLM2k0WVd6MWdBVTFFV055anl2NThIUExJY25jeTE2TEV2aGc4M1hXNGo3QnBtOXluejRIX2ZUNmU2b19JT3hodkU0WGw0U0Iyc3RJbGJDdWVzdHRLcFlDU0NfSnRwcGdBbk1aRU5vVVJtUUxBUGRSeGJHT2ZnSklPbDlXX2VFQzlvUWozajRJWDNEcWktQmdYREMxVDZ1SnQycFlYMldzOVc4U0dPc2ZZb0ZQQkVqR1I3bmVOcXE4VE0?oc=5)
+
+---
+
+### [Erasca presenta datos de respuesta de ERAS-0015 y adelanta el ensayo de fase 3 para el cáncer de páncreas](https://news.google.com/rss/articles/CBMibEFVX3lxTE1yX3ZoZEY4aTR5UEtNTzAyT2xrUW5wYU5CRkNuQVB0NnVmdjVERVplaXBOMGllNlM3WlJKZ0ZTa2huTUliejhIVDJUU3Y1RGI4TFd4cm1XZ3Zvc0tMVk44R2dQendHZHpyd2JaLQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">tumor</span>
+
+Source: [TradingView](https://news.google.com/rss/articles/CBMibEFVX3lxTE1yX3ZoZEY4aTR5UEtNTzAyT2xrUW5wYU5CRkNuQVB0NnVmdjVERVplaXBOMGllNlM3WlJKZ0ZTa2huTUliejhIVDJUU3Y1RGI4TFd4cm1XZ3Zvc0tMVk44R2dQendHZHpyd2JaLQ?oc=5)
 
 ---
 
@@ -104,6 +128,14 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi0AJBVV95c
 
 ---
 
+### ['Her youth went against her': Family of teen who died from cancer hope legacy saves lives - STV News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlY5cG50U1YydlUzNktvaEVJNW1wOF9BRW9HYi1Rb0owOHJma1RHR0FxUVJkcC1BclhSSDJpZEh2YWxRdlZ4eXhyUk1vMXZxd0dhbG42TFNYLWR1UlF0WUc1MUhwd1NqZFVVUHNIN25WVTJEQWtGSnZ2SjNlVEYwTWRkX0s3aVROZFIza3Q0V0FBemR3ZlllWUlTT0JFTllVZGw1ZmJ0dnBWUy14MlZIbjNIUGJhdnhITG5n?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span>
+
+Source: [STV News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlY5cG50U1YydlUzNktvaEVJNW1wOF9BRW9HYi1Rb0owOHJma1RHR0FxUVJkcC1BclhSSDJpZEh2YWxRdlZ4eXhyUk1vMXZxd0dhbG42TFNYLWR1UlF0WUc1MUhwd1NqZFVVUHNIN25WVTJEQWtGSnZ2SjNlVEYwTWRkX0s3aVROZFIza3Q0V0FBemR3ZlllWUlTT0JFTllVZGw1ZmJ0dnBWUy14MlZIbjNIUGJhdnhITG5n?oc=5)
+
+---
+
 ### [Tumore del pancreas, a Verona una rete tra università, ospedale e medici di famiglia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYnM3MG1oOFVqZDJ4MWU3N2hDdmJFTjZ6T1AxMjZvQ09JWEdxa2lCaFdWSlpLdFh2bm5rUV82d1ZZX3F1aHR1cXRYQ1lWa2p4WXM2aThMNDdSNHZsRkJoeVEwOXlsb2lrdkxSX0NqMW8tbkhhQkQydGdmSTZrU3ZYVmtjeGpXM3lDRTVfNUdBek9IRlVSUmNfSkotaWFsNlpPYXpjdXdzYmhqMGxZVjNFNkM0MVZoUE9Ucm53?oc=5)
 
 2026-11-20 <span class="news-indication-tag">tumor</span>
@@ -125,6 +157,22 @@ Source: [Diari de Tarragona](https://news.google.com/rss/articles/CBMirgFBVV95cU
 2026-11-20 <span class="news-indication-tag">Krebs</span>
 
 Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMingFBVV95cUxNbFlQT2c1c0pmODB4bHFOdm1RMHptOTA3ZmVVLUZYMU02TXZoNG5GLXpaV29QakdNclotVUQyR2wxdUs2elBndFRNX25uXzRpLUJMMVdKdHlnTERpQm43dlFzWEN3R2JRZ29XeDR6aDZzdGR6Mk84YW42QU0wWE9RM1lMcXphUE1PY3NXLTRqZDFLSHE2d0pMMjRzUER5QQ?oc=5)
+
+---
+
+### [Tumore del pancreas: nuove conferme sul farmaco della speranza e la Lombardia apre alla gratuità - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQll4UXJGcGxJelpmY29jeWRkWXJTXzhfbEdsd0FOY3haUWtWNVRHTkdabTVqU0xEeFZGcmtzNk9zOXlNaVdOZXU0NG01QkllQ2p2SDhwYWRCQmYtaUtYbDU1QmtHcHZiUWtyM1lMMmVnNGdIV1RpMG9iSW5BUXczTEQxcFdFLWpZaTByamM4NzA4b1J6UWQ4ZTJSaVU1c3hybW9ENzBzLWNURnFsNVo2NW9YVF8?oc=5)
+
+2026-11-20 <span class="news-indication-tag">tumor</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQll4UXJGcGxJelpmY29jeWRkWXJTXzhfbEdsd0FOY3haUWtWNVRHTkdabTVqU0xEeFZGcmtzNk9zOXlNaVdOZXU0NG01QkllQ2p2SDhwYWRCQmYtaUtYbDU1QmtHcHZiUWtyM1lMMmVnNGdIV1RpMG9iSW5BUXczTEQxcFdFLWpZaTByamM4NzA4b1J6UWQ4ZTJSaVU1c3hybW9ENzBzLWNURnFsNVo2NW9YVF8?oc=5)
+
+---
+
+### [Consultant oncologist says breakfast food every day 'protects against cancer' - The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbU1nOFBJYThhLWFDNXR2MkNEOUZKWjhLcURaOG9TSk41WWhnRlJrX2syRVI5ZE95cGVSWk4tT1otb0VhQTRPdVRkSUgtZGJrY3pUcUV4YWlOeW1ab3ItTTM0ME92RDlXbU8wZ013bWdWRXNMRkIwLVFHbTJLR040MFpDTVAyc3FHVWVEdkh0ZHPSAZYBQVVfeXFMTU9sandFaFJEeTc0dHRZRnhxcExmbmhLTDQzWVZiNEdzQnhSSlRPRi1lU2xsLUZ0OHdSSUpBYzdnZWhlSFRNdHp1Y2VlVEJfeS1wZXRzeDBQRXBtaFFGT1VSNFBtSFdVWjk0Skg0RC1kRzF4TFVxam9PdWZwNG9DWG1WR29ObkN0TVNvLWFIVENzbUEwNUVR?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbU1nOFBJYThhLWFDNXR2MkNEOUZKWjhLcURaOG9TSk41WWhnRlJrX2syRVI5ZE95cGVSWk4tT1otb0VhQTRPdVRkSUgtZGJrY3pUcUV4YWlOeW1ab3ItTTM0ME92RDlXbU8wZ013bWdWRXNMRkIwLVFHbTJLR040MFpDTVAyc3FHVWVEdkh0ZHPSAZYBQVVfeXFMTU9sandFaFJEeTc0dHRZRnhxcExmbmhLTDQzWVZiNEdzQnhSSlRPRi1lU2xsLUZ0OHdSSUpBYzdnZWhlSFRNdHp1Y2VlVEJfeS1wZXRzeDBQRXBtaFFGT1VSNFBtSFdVWjk0Skg0RC1kRzF4TFVxam9PdWZwNG9DWG1WR29ObkN0TVNvLWFIVENzbUEwNUVR?oc=5)
 
 ---
 
@@ -301,6 +349,14 @@ Source: [Ruhr Nachrichten](https://news.google.com/rss/articles/CBMitwFBVV95cUxO
 2026-11-19 <span class="news-indication-tag">tumor</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiywJBVV95cUxOZUhwV1dqYXIzZk92ZGV4aHBBdTc5ejVIX3BreUhEM0FFWjhqRmhlcWJFZHU1M2tDRG5xdE4wc0ZrSGY2dFg0YXpENEVZODg4c0JQUldORy1MZkxkeVg0dG9zeGFEUS1wZlpyTDRlVWM4NkpGSnlkZ2wxbmpHd0tlLXZrQ0RFZU1nYm1iYmp2cGxLZXhZSFI0elFZQUx4NjJYQTBFUHdJM0EtQkFvWU1JbWQzelNvOWJHQU1VRTBETWFzME92YzUtUHdoa1p5U1VTM01fTm5rU29FWkx3ZlctWHk3QnhfRk9md2FrOHFhQWxoRDF5NnRtLVhLQ1JTd2RIZnZBR09HU1UzanBhQzd0b1VpUnBPNzlhdWhUUzMySnJEWlh3TThiQlJzc0tPNlgwQkd4MzhOWFNiSUpaTExoMzdWRGRPTGVpazdV0gHQAkFVX3lxTE9ublpYd1h0aVNDcUs3Yno2Z0NKLTZOWTFKeDlfb3ZPMHI5cm5vbmdQZUZqVFZaQWhvOUE2YTVMUlhOdzNpTkdhV1k5bEVJZkNzdGs3ekg4aUhCYVgyR1I2UFpXOFkwZkxza0hsUzF6c0labFFBQU14SURiZjNBN1I1cUlWakdMX09EdldYSnVEMWdYUDA3Z3NrNm51UF9oZkJlbUtxRkctRTd1TUdEM2Njbm55NldZSnlZOVdYQ2owNU1WVHJRNWFaTWhUel9BS3BSSW41N2E5MmhfRkVfVks2UEdKcUxmOWRKOUZWclg1UEpDMUFKbE80MlhHbWZRUWtGaW1IU2dETl9oOFlEanlEUUFhNFBmM2tiZUV6X0dzVWdFaVJqWTR6VWZONFB2Q1FLZElKOXFBcG42ajBuRE9tMFVPSktIeEdPT2ZsM0ZqQQ?oc=5)
+
+---
+
+### [Surviving pancreatic cancer: ‘The first symptom I noticed was really itchy skin – but there were other signs’ - Irish Independent](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZkNQYkhuUk5peDBsRW5lRDB4bmR2aFdpVWh5bTRvbXBZRXNhUVRuLUNmZV9DN09faGg0X1ZLajJudVhFcHdzakpHQUJCYTU3Y2FMWFJ4cGUta1M0NjBwNkhTSkR2VkVKMk5jRUFRM09KQm5Dd1FESkpOcnI1d0F2Z0MzbVEtRDZZTnZHSDBlZXNJaXM4MWJzdERtdC1na0hDSXlSUDhQRjlyNXZqTXBWSG5PeGN6c2NKNEFCSUdjSGtLbHNhTEFnYzhURzN0andpZU9oUEdfc2dyYkNsRGxlbWk3LTdfTzh3NW82cVdvSQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Irish Independent](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZkNQYkhuUk5peDBsRW5lRDB4bmR2aFdpVWh5bTRvbXBZRXNhUVRuLUNmZV9DN09faGg0X1ZLajJudVhFcHdzakpHQUJCYTU3Y2FMWFJ4cGUta1M0NjBwNkhTSkR2VkVKMk5jRUFRM09KQm5Dd1FESkpOcnI1d0F2Z0MzbVEtRDZZTnZHSDBlZXNJaXM4MWJzdERtdC1na0hDSXlSUDhQRjlyNXZqTXBWSG5PeGN6c2NKNEFCSUdjSGtLbHNhTEFnYzhURzN0andpZU9oUEdfc2dyYkNsRGxlbWk3LTdfTzh3NW82cVdvSQ?oc=5)
 
 ---
 

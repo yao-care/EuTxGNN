@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Telmisartan. 9 predicted indications."
 permalink: /news/telmisartan/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Telmisartan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>189 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>192 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (189)
+## Related News (192)
+
+### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVZKTndvN19uWDlHU2lUZi1NVnVhSG9QSzh4YlhIMmhPZWY0Rlh0N3BURU0tM3YzR29mczZhMnNQX2VCbG9GSUhzNm0yTHdvVTFISm1wOUdzOUg3bWJpSVJSalo5SnhCVjFLdUFVT0JITjUzdkQ0QmMwbnJkdkI3MWF2aUo4UklVU01WMlpPQzJCTHNuX05yU0NKczlGeUhQODVEWDlqTVhwaFhjVzBZTnBRdEJhX2VBTVNn?oc=5)
+
+2026-11-21 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVZKTndvN19uWDlHU2lUZi1NVnVhSG9QSzh4YlhIMmhPZWY0Rlh0N3BURU0tM3YzR29mczZhMnNQX2VCbG9GSUhzNm0yTHdvVTFISm1wOUdzOUg3bWJpSVJSalo5SnhCVjFLdUFVT0JITjUzdkQ0QmMwbnJkdkI3MWF2aUo4UklVU01WMlpPQzJCTHNuX05yU0NKczlGeUhQODVEWDlqTVhwaFhjVzBZTnBRdEJhX2VBTVNn?oc=5)
+
+---
+
+### [NHS warns of 'alarming' rise in hospital admissions for high blood pressure - Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTVXeGhxSGpiYUVNbTdSY3dUS1FOTHJtakJCZjRoc1Q3eTQ4SnVyRFV6YzJEU1puOWR0bzlxSXJ1WVo5QkdmNDNOaG5Sb0JuZUQ5S3VQUXpQTzc4ZGRFQkNUSXIxUTUzZ2JTNUtteVlJQ2s3MFk0ZjQ1dkYwOEtzWFJuaFN4cFRBcC10WUx4UDF5aGY3QmRoczVoR21IUG1aaTBIWk4yM05vaVV0d3c?oc=5)
+
+2026-11-21 <span class="news-indication-tag">hypertension</span>
+
+Source: [Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTVXeGhxSGpiYUVNbTdSY3dUS1FOTHJtakJCZjRoc1Q3eTQ4SnVyRFV6YzJEU1puOWR0bzlxSXJ1WVo5QkdmNDNOaG5Sb0JuZUQ5S3VQUXpQTzc4ZGRFQkNUSXIxUTUzZ2JTNUtteVlJQ2s3MFk0ZjQ1dkYwOEtzWFJuaFN4cFRBcC10WUx4UDF5aGY3QmRoczVoR21IUG1aaTBIWk4yM05vaVV0d3c?oc=5)
+
+---
 
 ### [Las enfermedades cardiovasculares y sus factores de riesgo desempeñan un papel clave en desarrollo de demencia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcFVhX0VYSk54czdRcXI0YjFnQmt3RUR0V3VTS3UzdV9na2dLb1hleTVyVmNxRW5QbTFqTUNqVU04ZzBhOVdsbl9hQjNoSlp5UlpJYlpkVmRkNEtCODFwNGh6RXZINTdWdlg5REVreGhEbXlVM0R4TnpEczNMLTkxdFlnLXo3SXZmcURUc1phVm93aVYxV2laVzhLT05xTGFFMjVtZzZFYVJac0o0X0ttckZKTWVvcFVvMDZQQnlRZVA2WHdWMFExX0VQM0lXbi1nZjBia1NEaVd5SU1MM3ZZV0I3TTAtWFVK?oc=5)
 
@@ -91,6 +107,14 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95c
 
 ---
 
+### [Colesterolo, per la prevenzione cardiovascolare non basta abbassare i valori](https://news.google.com/rss/articles/CBMimAJBVV95cUxQSkhoZXYxT2JhWWI5U3N6ODRjR1JaVzE2b1pKMkdwcnBqMWNkOUZMTFVmMndRR0xScUpWYjZJT1pzbnZqUGhfRGFCZ0VqTmtfNGw1UEVFWEFRUy1iOHNyYThaaW44aHdja0hSakVWOG9BVnhLTV8yMnBBM1VWcjM4T3g3NFphU1c4NVQ0X3NWVkFaOUhMajgwaE5ZUWEzMU5KWnlZVnp3dEVjNHJROXZsVnZPUkxBaGhkX1VwdWJmSjZKMHNrLXZPYWtwTkdtdkM4T0NhLUJkOFZ3dUhPWXdlRV9pV0lTa1VfeGFEM3MxeXB4Zm1Mc0hicDJ3ZV84dUZDeDNObGppZHFGWUtQb1IwbGVtc0kzOC1E0gGeAkFVX3lxTFBPYkhIczlKSFdOMWQ5cTlNT1pKWWNnYWhaU3VHWXhUUWxmZ1RSRFc0emFRdHd1RjFVQzJZeFJhdWlqdEJiVFNrbTdwd2JFWWhqNEFpN29uWE1WYWhNT19mVXVGbXRiREtYM2ZxTW1ZRXNBNHdyMmkyM0FVbzIyaEstSVZXN1JFMENzUWdhZzUtalFhMmU0cXN2ZEh6WjlIeXljT3kwNk5maFdnZ1hfUTV5Mi1RQkxsbWNWSkhjVzVFVGZzdzhNQWFBcWVVRXdrXzZGMGRRVHFyMUFOaHU4cGpCWmpIeUY3OTVMajRLMUlYSmVrVDdNVnMtNE9uVDdWejVjR3BVampQaWxpcDZwSkdMR28tWk9mWGtvaGh3VFE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">ictus</span>
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMimAJBVV95cUxQSkhoZXYxT2JhWWI5U3N6ODRjR1JaVzE2b1pKMkdwcnBqMWNkOUZMTFVmMndRR0xScUpWYjZJT1pzbnZqUGhfRGFCZ0VqTmtfNGw1UEVFWEFRUy1iOHNyYThaaW44aHdja0hSakVWOG9BVnhLTV8yMnBBM1VWcjM4T3g3NFphU1c4NVQ0X3NWVkFaOUhMajgwaE5ZUWEzMU5KWnlZVnp3dEVjNHJROXZsVnZPUkxBaGhkX1VwdWJmSjZKMHNrLXZPYWtwTkdtdkM4T0NhLUJkOFZ3dUhPWXdlRV9pV0lTa1VfeGFEM3MxeXB4Zm1Mc0hicDJ3ZV84dUZDeDNObGppZHFGWUtQb1IwbGVtc0kzOC1E0gGeAkFVX3lxTFBPYkhIczlKSFdOMWQ5cTlNT1pKWWNnYWhaU3VHWXhUUWxmZ1RSRFc0emFRdHd1RjFVQzJZeFJhdWlqdEJiVFNrbTdwd2JFWWhqNEFpN29uWE1WYWhNT19mVXVGbXRiREtYM2ZxTW1ZRXNBNHdyMmkyM0FVbzIyaEstSVZXN1JFMENzUWdhZzUtalFhMmU0cXN2ZEh6WjlIeXljT3kwNk5maFdnZ1hfUTV5Mi1RQkxsbWNWSkhjVzVFVGZzdzhNQWFBcWVVRXdrXzZGMGRRVHFyMUFOaHU4cGpCWmpIeUY3OTVMajRLMUlYSmVrVDdNVnMtNE9uVDdWejVjR3BVampQaWxpcDZwSkdMR28tWk9mWGtvaGh3VFE?oc=5)
+
+---
+
 ### [This One Sleep Factor Matters More Than How Many Hours You Get, Study Suggests](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
 
 2026-11-19 <span class="news-indication-tag">heart disease</span>
@@ -123,14 +147,6 @@ Source: [Mercacei](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM1NRU0Ex
 
 ---
 
-### [The best way to drink red wine for a healthier heart and longer life - The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
-
-2026-11-19 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
-
----
-
 ### [Arrêt des statines après 70 ans : 12,7 % d'infarctus, d'AVC ou de décès en 2 ans, contre 9,2 % en continuant](https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1oxNlJuQzVaVEdVSmhuQ001ZjA3WG13T1hRNVFjTm1Xb1dKbEs4Q2ZrUFd3anYxbzlVSEUxNjBDTjFST3pkcnBiaXpLbDIzLWpYckhyRzBUTDh3d2JDQjRYZjJhbVRyc0M0dlpsLWpSem8tT0lUV0ROQVpNZ19QNGxORG5NaG9TSU0wQ3FvcWJUd2NJT0ZsT1d1bjFxQlZGa2ZHS2xDWnNfeWFaYTJ6TWE4dXZXQQ?oc=5)
 
 2026-11-19 <span class="news-indication-tag">AVC</span>
@@ -144,6 +160,14 @@ Source: [JeChange](https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1oxNlJu
 2026-11-19 <span class="news-indication-tag">stroke</span>
 
 Source: [The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1ucWdHdXozajFDSmtXUlRoUzlaOEZidGZ0SFFjSnJNQkpmOTZKY2todTZrNm5jVUhOU1NtTGQxb0hJUEpLV1FXbk9GNm95MTcxYlBYWmdpZ05LYUZmZ0ZGOUo1b0tKX0E5RnFkalEzX0xXTEHSAXhBVV95cUxNZjdaTWZjUUUzeERNLUFVN3dHUTJFVW1PeU92bEFKVjUtRjV3LWt2bzh4Ty1JN2V5ZjhoS3ZKdXhRa0F4bEVpeHI1b2VIVHZUa0tVd3F3cUVPSzMyd1hXZmFSUFNxMlRIaEtKb1NiNGFYS29XMmRMU2w?oc=5)
+
+---
+
+### [Heart surgeon names early sign on front of your leg that your heart is in trouble - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
+
+2026-11-19 <span class="news-indication-tag">heart disease</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
 
 ---
 
@@ -277,7 +301,7 @@ Source: [DocCheck News](https://news.google.com/rss/articles/CBMingFBVV95cUxNMHE
 
 ### [Starke Blutdrucksenkung: Vorteil beim Schlaganfall, nicht bei Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
 
-2026-11-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
+2026-11-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
 

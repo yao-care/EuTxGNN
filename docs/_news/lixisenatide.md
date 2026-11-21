@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Lixisenatide. 0 predicted indications."
 permalink: /news/lixisenatide/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Lixisenatide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Lixisenatide?">
-<strong>Lixisenatide</strong> currently has <strong>279 news articles</strong>, with 0 predicted indications.
+<strong>Lixisenatide</strong> currently has <strong>280 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page combines the AI-predicted indications for Lixisenatide with the latest
 <p><a href="{{ '/drugs/lixisenatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (279)
+## Related News (280)
 
 ### [Diabetes: Diese vier Organe kann hoher Blutzucker besonders stark schädigen](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0hnR3N3WlBRVE1fRU9qWXNJbzNnUzEySTNQbEd3dU82NjBhUTl2UFRGcUIzOWk2cVdXel92VndieWJYOGVSRTB5OUp1endTZnMyNGpqampVZWV3OEpkOERnT0prMWNnRWpNc0hkY2l5dl85RnhxOXZsV0pBa0lwQ0ZuLVBPWWhmVWxLOTgyYTBYdHlsQUFyUWNOU1I5VkJkXzBLSUlQZ2I1VmYwLUQzalVoeDQ0U3NVU3hBSXl1OHVNa1N4UHR4QVhKOGZoNUtJaVptSEtOazJ6V3c?oc=5)
 
 2026-11-20 <span class="news-indication-tag">diabetes</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0hnR3N3WlBRVE1fRU9qWXNJbzNnUzEySTNQbEd3dU82NjBhUTl2UFRGcUIzOWk2cVdXel92VndieWJYOGVSRTB5OUp1endTZnMyNGpqampVZWV3OEpkOERnT0prMWNnRWpNc0hkY2l5dl85RnhxOXZsV0pBa0lwQ0ZuLVBPWWhmVWxLOTgyYTBYdHlsQUFyUWNOU1I5VkJkXzBLSUlQZ2I1VmYwLUQzalVoeDQ0U3NVU3hBSXl1OHVNa1N4UHR4QVhKOGZoNUtJaVptSEtOazJ6V3c?oc=5)
+
+---
+
+### [Sensori per la glicemia l’endocrinologo spiega a cosa servono e come usarli se non si ha il diabete - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXdUSk91RVhiNkFIWDVOX01LNi12ZWRMYlBwYnBGRHdHdEVDRmJPbjFEUGlXcHNob1F4b29yRWgtSVBGTEp0dTN1aGtEZmRyZmx1UldEY3RYM1FTZkVDc1ZXaE1fMWpRa3FDTzNMWFVkRi1PczhPTllnZG9UbVZLczNWMTdMRzhnMjdHZS05VUQwcTI3dm0xVndTekd0TXN0ZFVDQ3NUbjB1RDlKR3BjVkwwd2lXTUhIVFFIaGQxYlJXSmpaRTR0akh0MjhJQmVfeEIxd2NwUdIBvgFBVV95cUxOVEdxcUxPVDRyMGNJdFNmTGc0V2xWNlc2eFg0M1VvM3FoVmFnNGtycndtc3BmTFlkcnFTTHpvMGZDSldzN3RFa3ppTV9ZSWtvNzdLaHJuYWdVclFKZnFCOTl6MHhQa1JlVmNVa2cwYkxENGR3bWJ3YU1aMTZnc09kb1hQSHM1bW5zTTdOVG5DUWRWVlFkbEhrZGx1NU5yMGJ2UzZCY2VIanBQWEJkbEduMk9SeElYQ0xkNmhaMTF3?oc=5)
+
+2026-11-20 <span class="news-indication-tag">diabete</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXdUSk91RVhiNkFIWDVOX01LNi12ZWRMYlBwYnBGRHdHdEVDRmJPbjFEUGlXcHNob1F4b29yRWgtSVBGTEp0dTN1aGtEZmRyZmx1UldEY3RYM1FTZkVDc1ZXaE1fMWpRa3FDTzNMWFVkRi1PczhPTllnZG9UbVZLczNWMTdMRzhnMjdHZS05VUQwcTI3dm0xVndTekd0TXN0ZFVDQ3NUbjB1RDlKR3BjVkwwd2lXTUhIVFFIaGQxYlJXSmpaRTR0akh0MjhJQmVfeEIxd2NwUdIBvgFBVV95cUxOVEdxcUxPVDRyMGNJdFNmTGc0V2xWNlc2eFg0M1VvM3FoVmFnNGtycndtc3BmTFlkcnFTTHpvMGZDSldzN3RFa3ppTV9ZSWtvNzdLaHJuYWdVclFKZnFCOTl6MHhQa1JlVmNVa2cwYkxENGR3bWJ3YU1aMTZnc09kb1hQSHM1bW5zTTdOVG5DUWRWVlFkbEhrZGx1NU5yMGJ2UzZCY2VIanBQWEJkbEduMk9SeElYQ0xkNmhaMTF3?oc=5)
 
 ---
 
@@ -162,7 +170,7 @@ Source: [Onda Cero](https://news.google.com/rss/articles/CBMihwJBVV95cUxNdFI4Njd
 
 ### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
-2026-11-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-11-18 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
@@ -354,7 +362,7 @@ Source: [Cadena SER](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOEFVZm
 
 ### [Starke Blutdrucksenkung: Vorteil beim Schlaganfall, nicht bei Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
 
-2026-11-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
+2026-11-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
 
@@ -450,7 +458,7 @@ Source: [Slate.fr](https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmdWUURv
 
 ### [Milano, i «furbetti» dei farmaci (gratis) per dimagrire: presentavano ricette anti-obesità pur non essendo diabetici. La Regione stana 2.800 finti pazienti - Corriere Milano](https://news.google.com/rss/articles/CBMizAJBVV95cUxOWUVqa3Q3Unh5N3gyWWlveXdUX2NaaEZ3aWlROHV2bUhENGFkeGR2V3c3UnNaaVl0UWtuMi1Zd2stcllJLVNlZlM4ZmZNeHljdk12VVJYVDJGTl9XT3RPRjZZbkJVOHJCU1VoWi1LMzBFTzJPTG1KS2dlYXRUUEdLS2VlbmhObVJfenBHZ0tKbm1kVlBjakdLY29SdjBYaXltOU1heU9tUjZkNmtvaWVpZ0dzdHZDQlRuZkJfNjdGc3ZJLVRGcmtKTnJyRWozT3Z0WWxOOW11SE1mbTlFWVdWX3BDSmc4anF1VEVTMmpWSm9ob3dROF9GZ0VJQkFzeUV2cGpzZE5OeXE1eTFQMFN4bFdmTTc5OFZtSWFOMWZ5dmJCNG9lODNwZTBRQVE1ZmtNR3N6cjZSX0twSS11ZU9XRDE4aS1tbFhDWW1RMNIB0gJBVV95cUxQNF9TLVVIc2RvVXB2T2xzOTRKSzlEZEtNTlo5RU1CNFpqbWN2dER5YVh0THphZ0YtRVIyaGx0Skt4bUx5N1hPUW83R3hEdl9yNkpyTWxXbllWVUd2SE1SMGNjblI0bkNKSVZFNzltRWFIMjNvTWtOamJsbmV4QnkxdENYUmg0Z0JuVVoxLUVyVUduclhkOVdscFU2X04ydVdIZGF1eVdQaDVySE0tRF9hclJKNml5c1BuTFNHMy1IRmJsOWpRMGZoSWlZQl9SUzVucmJPbzRGR1Q3VEgxOFpidHV6cDFWeW02NWo1QWNNc2hOZEVkX2pNYnlNZTFPYXl2aDY4UWtPN2s5N3F2SER4ZFhyblFyQ29TMWZWTjJYYThXeVgxbDlFZlNzWmpnd3llR0s5RHlLVExwOFp4SF9RcjBFZkZQWnloZzhpMlJmeFB2Zw?oc=5)
 
-2026-11-16 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Corriere Milano](https://news.google.com/rss/articles/CBMizAJBVV95cUxOWUVqa3Q3Unh5N3gyWWlveXdUX2NaaEZ3aWlROHV2bUhENGFkeGR2V3c3UnNaaVl0UWtuMi1Zd2stcllJLVNlZlM4ZmZNeHljdk12VVJYVDJGTl9XT3RPRjZZbkJVOHJCU1VoWi1LMzBFTzJPTG1KS2dlYXRUUEdLS2VlbmhObVJfenBHZ0tKbm1kVlBjakdLY29SdjBYaXltOU1heU9tUjZkNmtvaWVpZ0dzdHZDQlRuZkJfNjdGc3ZJLVRGcmtKTnJyRWozT3Z0WWxOOW11SE1mbTlFWVdWX3BDSmc4anF1VEVTMmpWSm9ob3dROF9GZ0VJQkFzeUV2cGpzZE5OeXE1eTFQMFN4bFdmTTc5OFZtSWFOMWZ5dmJCNG9lODNwZTBRQVE1ZmtNR3N6cjZSX0twSS11ZU9XRDE4aS1tbFhDWW1RMNIB0gJBVV95cUxQNF9TLVVIc2RvVXB2T2xzOTRKSzlEZEtNTlo5RU1CNFpqbWN2dER5YVh0THphZ0YtRVIyaGx0Skt4bUx5N1hPUW83R3hEdl9yNkpyTWxXbllWVUd2SE1SMGNjblI0bkNKSVZFNzltRWFIMjNvTWtOamJsbmV4QnkxdENYUmg0Z0JuVVoxLUVyVUduclhkOVdscFU2X04ydVdIZGF1eVdQaDVySE0tRF9hclJKNml5c1BuTFNHMy1IRmJsOWpRMGZoSWlZQl9SUzVucmJPbzRGR1Q3VEgxOFpidHV6cDFWeW02NWo1QWNNc2hOZEVkX2pNYnlNZTFPYXl2aDY4UWtPN2s5N3F2SER4ZFhyblFyQ29TMWZWTjJYYThXeVgxbDlFZlNzWmpnd3llR0s5RHlLVExwOFp4SF9RcjBFZkZQWnloZzhpMlJmeFB2Zw?oc=5)
 

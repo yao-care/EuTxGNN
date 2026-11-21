@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Givosiran. 9 predicted indications."
 permalink: /news/givosiran/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Givosiran News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>68 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>69 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (68)
+## Related News (69)
+
+### [NHS warns of 'alarming' rise in hospital admissions for high blood pressure - Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTVXeGhxSGpiYUVNbTdSY3dUS1FOTHJtakJCZjRoc1Q3eTQ4SnVyRFV6YzJEU1puOWR0bzlxSXJ1WVo5QkdmNDNOaG5Sb0JuZUQ5S3VQUXpQTzc4ZGRFQkNUSXIxUTUzZ2JTNUtteVlJQ2s3MFk0ZjQ1dkYwOEtzWFJuaFN4cFRBcC10WUx4UDF5aGY3QmRoczVoR21IUG1aaTBIWk4yM05vaVV0d3c?oc=5)
+
+2026-11-21 <span class="news-indication-tag">hypertension</span>
+
+Source: [Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTVXeGhxSGpiYUVNbTdSY3dUS1FOTHJtakJCZjRoc1Q3eTQ4SnVyRFV6YzJEU1puOWR0bzlxSXJ1WVo5QkdmNDNOaG5Sb0JuZUQ5S3VQUXpQTzc4ZGRFQkNUSXIxUTUzZ2JTNUtteVlJQ2s3MFk0ZjQ1dkYwOEtzWFJuaFN4cFRBcC10WUx4UDF5aGY3QmRoczVoR21IUG1aaTBIWk4yM05vaVV0d3c?oc=5)
+
+---
 
 ### [Ribavirin-Therapie: Risikofaktoren für komplizierte Verläufe bei chronischer Hepatitis E](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmo3NFZ0SXRwWGZ0SjFlUy1NaHpzamwyWWh2MW03djVRYnBIeUFuT0NxcURDU00wOXc0blJBdHpHSVlzSTdCOXRyLVBnUWdEQVVEMDhFS3ZoRjlidk0zdTR1TWY5YlU3aDA2U2RacVlhMmp1TkRvb2RBU2x4LWpHRWNSbVFPRlA0ekRyelZyaTdmVFZTblhEVUd2Y1BvazJ5Z0E?oc=5)
 

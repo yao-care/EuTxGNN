@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Faricimab. 0 predicted indications."
 permalink: /news/faricimab/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Faricimab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Faricimab?">
-<strong>Faricimab</strong> currently has <strong>670 news articles</strong>, with 0 predicted indications.
+<strong>Faricimab</strong> currently has <strong>678 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Faricimab with the latest he
 <p><a href="{{ '/drugs/faricimab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (670)
+## Related News (678)
 
 ### [Diabetes: Diese vier Organe kann hoher Blutzucker besonders stark schädigen](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0hnR3N3WlBRVE1fRU9qWXNJbzNnUzEySTNQbEd3dU82NjBhUTl2UFRGcUIzOWk2cVdXel92VndieWJYOGVSRTB5OUp1endTZnMyNGpqampVZWV3OEpkOERnT0prMWNnRWpNc0hkY2l5dl85RnhxOXZsV0pBa0lwQ0ZuLVBPWWhmVWxLOTgyYTBYdHlsQUFyUWNOU1I5VkJkXzBLSUlQZ2I1VmYwLUQzalVoeDQ0U3NVU3hBSXl1OHVNa1N4UHR4QVhKOGZoNUtJaVptSEtOazJ6V3c?oc=5)
 
@@ -40,11 +40,27 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0hnR3N3WlBR
 
 ---
 
-### [Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
+### [All men over 50 should be screened for prostate cancer, say US experts - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTltOEpsVjlMUTdrZlNmQWV3eHlmVkxtNktGMHlNYzgxY08zaEVucFh5SE5Cdm1pa0Job1lWam15d3NoOUdWZlhPSGkwNXdKbDNoZlpUV21uNGtKeWFBSFMtYnNCcmw2akVqVWt1alFhaENzNlBUd0pLV0JjZUxJck5YbkR4UFcyVk84N0NXUlRxYlE5WTFCNUFYVDJhaVp2?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTltOEpsVjlMUTdrZlNmQWV3eHlmVkxtNktGMHlNYzgxY08zaEVucFh5SE5Cdm1pa0Job1lWam15d3NoOUdWZlhPSGkwNXdKbDNoZlpUV21uNGtKeWFBSFMtYnNCcmw2akVqVWt1alFhaENzNlBUd0pLV0JjZUxJck5YbkR4UFcyVk84N0NXUlRxYlE5WTFCNUFYVDJhaVp2?oc=5)
+
+---
+
+### [Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ | Pancreas cancer - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
 
 2026-11-20 <span class="news-indication-tag">cancer</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)
+
+---
+
+### [Sensori per la glicemia l’endocrinologo spiega a cosa servono e come usarli se non si ha il diabete - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXdUSk91RVhiNkFIWDVOX01LNi12ZWRMYlBwYnBGRHdHdEVDRmJPbjFEUGlXcHNob1F4b29yRWgtSVBGTEp0dTN1aGtEZmRyZmx1UldEY3RYM1FTZkVDc1ZXaE1fMWpRa3FDTzNMWFVkRi1PczhPTllnZG9UbVZLczNWMTdMRzhnMjdHZS05VUQwcTI3dm0xVndTekd0TXN0ZFVDQ3NUbjB1RDlKR3BjVkwwd2lXTUhIVFFIaGQxYlJXSmpaRTR0akh0MjhJQmVfeEIxd2NwUdIBvgFBVV95cUxOVEdxcUxPVDRyMGNJdFNmTGc0V2xWNlc2eFg0M1VvM3FoVmFnNGtycndtc3BmTFlkcnFTTHpvMGZDSldzN3RFa3ppTV9ZSWtvNzdLaHJuYWdVclFKZnFCOTl6MHhQa1JlVmNVa2cwYkxENGR3bWJ3YU1aMTZnc09kb1hQSHM1bW5zTTdOVG5DUWRWVlFkbEhrZGx1NU5yMGJ2UzZCY2VIanBQWEJkbEduMk9SeElYQ0xkNmhaMTF3?oc=5)
+
+2026-11-20 <span class="news-indication-tag">diabete</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXdUSk91RVhiNkFIWDVOX01LNi12ZWRMYlBwYnBGRHdHdEVDRmJPbjFEUGlXcHNob1F4b29yRWgtSVBGTEp0dTN1aGtEZmRyZmx1UldEY3RYM1FTZkVDc1ZXaE1fMWpRa3FDTzNMWFVkRi1PczhPTllnZG9UbVZLczNWMTdMRzhnMjdHZS05VUQwcTI3dm0xVndTekd0TXN0ZFVDQ3NUbjB1RDlKR3BjVkwwd2lXTUhIVFFIaGQxYlJXSmpaRTR0akh0MjhJQmVfeEIxd2NwUdIBvgFBVV95cUxOVEdxcUxPVDRyMGNJdFNmTGc0V2xWNlc2eFg0M1VvM3FoVmFnNGtycndtc3BmTFlkcnFTTHpvMGZDSldzN3RFa3ppTV9ZSWtvNzdLaHJuYWdVclFKZnFCOTl6MHhQa1JlVmNVa2cwYkxENGR3bWJ3YU1aMTZnc09kb1hQSHM1bW5zTTdOVG5DUWRWVlFkbEhrZGx1NU5yMGJ2UzZCY2VIanBQWEJkbEduMk9SeElYQ0xkNmhaMTF3?oc=5)
 
 ---
 
@@ -56,11 +72,27 @@ Source: [JeChange](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVlFbDVQ
 
 ---
 
+### [«La plus grande avancée depuis des décennies» : un nouveau traitement contre le cancer du pancréas porteur d'espoir](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0FvWW54eTQ5bTRXak5tOWNsbVg3eElYNmN0NERKd3JtbHUwaUE2Z2dUU0ZBMDNiQzBRMTM5LUMyYUI2UFhENVdLNmtrVG9ydUFoRmpOS1dwQlJBLTZLdDZYRVBvNGdpVlR2MElXYkk4emhQckhxZExPYVdabGNnX1kwejRMWG5ndkRhalgweWtGU295NGRzMkNfdzQzZFRKOHJVZ1NEN0xaeERjRVJGRHRabXd5Z9IBuwFBVV95cUxNcl94cU5fWENFTVBGZ0VNaFFUTl9UT0xubnIwMU5PN29hRV9NbWVLN2hmUTVXdm44Y3BUWkRIWE9OaUZOREZzRjhKMl9OVVg4QzZFa0U0LTE5Qk56M1lsUXBPUTU2VF9YRTN4V0hmU3AyZGU4XzFMal9oaXJyYmFqNFktektUaGR0MXRoNlV3MFVSSndiN2ZjYU9DVEhZdjZIWHRXRU1TVy1BUVhzN0x2UG5TbkhabWU0aG5r?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span>
+
+Source: [CNews](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0FvWW54eTQ5bTRXak5tOWNsbVg3eElYNmN0NERKd3JtbHUwaUE2Z2dUU0ZBMDNiQzBRMTM5LUMyYUI2UFhENVdLNmtrVG9ydUFoRmpOS1dwQlJBLTZLdDZYRVBvNGdpVlR2MElXYkk4emhQckhxZExPYVdabGNnX1kwejRMWG5ndkRhalgweWtGU295NGRzMkNfdzQzZFRKOHJVZ1NEN0xaeERjRVJGRHRabXd5Z9IBuwFBVV95cUxNcl94cU5fWENFTVBGZ0VNaFFUTl9UT0xubnIwMU5PN29hRV9NbWVLN2hmUTVXdm44Y3BUWkRIWE9OaUZOREZzRjhKMl9OVVg4QzZFa0U0LTE5Qk56M1lsUXBPUTU2VF9YRTN4V0hmU3AyZGU4XzFMal9oaXJyYmFqNFktektUaGR0MXRoNlV3MFVSSndiN2ZjYU9DVEhZdjZIWHRXRU1TVy1BUVhzN0x2UG5TbkhabWU0aG5r?oc=5)
+
+---
+
 ### [Científicos construyeron el atlas más completo hasta ahora de 42 tipos de cáncer - El Espectador](https://news.google.com/rss/articles/CBMitwFBVV95cUxPcV9td2pQUF9OaEdpZDJ1bHBGMDNhd3E3Y0hmeWUxem9DaE9QdVdVTDViZ0RRcEZneTd2OTMtV1pLLV9GNzNYLWFUMTYwUlZQa2NScFhzTm1ZVWd6WEgzYjJVVF9IZEs5RlhGUUZJWkJlR3JPS1YxOGs1MExYQnJYUnFIbUVjVmgwOGpPSjdHbUVvYnVydG95aUh3Mm5rQkRVTUpHT2EyVk5Md2ZkbGdySmlVSUFtcjTSAcsBQVVfeXFMTzBodGh4N3YzcTNLM2k0WVd6MWdBVTFFV055anl2NThIUExJY25jeTE2TEV2aGc4M1hXNGo3QnBtOXluejRIX2ZUNmU2b19JT3hodkU0WGw0U0Iyc3RJbGJDdWVzdHRLcFlDU0NfSnRwcGdBbk1aRU5vVVJtUUxBUGRSeGJHT2ZnSklPbDlXX2VFQzlvUWozajRJWDNEcWktQmdYREMxVDZ1SnQycFlYMldzOVc4U0dPc2ZZb0ZQQkVqR1I3bmVOcXE4VE0?oc=5)
 
 2026-11-20 <span class="news-indication-tag">tumor</span>
 
 Source: [El Espectador](https://news.google.com/rss/articles/CBMitwFBVV95cUxPcV9td2pQUF9OaEdpZDJ1bHBGMDNhd3E3Y0hmeWUxem9DaE9QdVdVTDViZ0RRcEZneTd2OTMtV1pLLV9GNzNYLWFUMTYwUlZQa2NScFhzTm1ZVWd6WEgzYjJVVF9IZEs5RlhGUUZJWkJlR3JPS1YxOGs1MExYQnJYUnFIbUVjVmgwOGpPSjdHbUVvYnVydG95aUh3Mm5rQkRVTUpHT2EyVk5Md2ZkbGdySmlVSUFtcjTSAcsBQVVfeXFMTzBodGh4N3YzcTNLM2k0WVd6MWdBVTFFV055anl2NThIUExJY25jeTE2TEV2aGc4M1hXNGo3QnBtOXluejRIX2ZUNmU2b19JT3hodkU0WGw0U0Iyc3RJbGJDdWVzdHRLcFlDU0NfSnRwcGdBbk1aRU5vVVJtUUxBUGRSeGJHT2ZnSklPbDlXX2VFQzlvUWozajRJWDNEcWktQmdYREMxVDZ1SnQycFlYMldzOVc4U0dPc2ZZb0ZQQkVqR1I3bmVOcXE4VE0?oc=5)
+
+---
+
+### [Erasca presenta datos de respuesta de ERAS-0015 y adelanta el ensayo de fase 3 para el cáncer de páncreas](https://news.google.com/rss/articles/CBMibEFVX3lxTE1yX3ZoZEY4aTR5UEtNTzAyT2xrUW5wYU5CRkNuQVB0NnVmdjVERVplaXBOMGllNlM3WlJKZ0ZTa2huTUliejhIVDJUU3Y1RGI4TFd4cm1XZ3Zvc0tMVk44R2dQendHZHpyd2JaLQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">tumor</span>
+
+Source: [TradingView](https://news.google.com/rss/articles/CBMibEFVX3lxTE1yX3ZoZEY4aTR5UEtNTzAyT2xrUW5wYU5CRkNuQVB0NnVmdjVERVplaXBOMGllNlM3WlJKZ0ZTa2huTUliejhIVDJUU3Y1RGI4TFd4cm1XZ3Zvc0tMVk44R2dQendHZHpyd2JaLQ?oc=5)
 
 ---
 
@@ -112,6 +144,14 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi0AJBVV95c
 
 ---
 
+### ['Her youth went against her': Family of teen who died from cancer hope legacy saves lives - STV News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlY5cG50U1YydlUzNktvaEVJNW1wOF9BRW9HYi1Rb0owOHJma1RHR0FxUVJkcC1BclhSSDJpZEh2YWxRdlZ4eXhyUk1vMXZxd0dhbG42TFNYLWR1UlF0WUc1MUhwd1NqZFVVUHNIN25WVTJEQWtGSnZ2SjNlVEYwTWRkX0s3aVROZFIza3Q0V0FBemR3ZlllWUlTT0JFTllVZGw1ZmJ0dnBWUy14MlZIbjNIUGJhdnhITG5n?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span>
+
+Source: [STV News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlY5cG50U1YydlUzNktvaEVJNW1wOF9BRW9HYi1Rb0owOHJma1RHR0FxUVJkcC1BclhSSDJpZEh2YWxRdlZ4eXhyUk1vMXZxd0dhbG42TFNYLWR1UlF0WUc1MUhwd1NqZFVVUHNIN25WVTJEQWtGSnZ2SjNlVEYwTWRkX0s3aVROZFIza3Q0V0FBemR3ZlllWUlTT0JFTllVZGw1ZmJ0dnBWUy14MlZIbjNIUGJhdnhITG5n?oc=5)
+
+---
+
 ### [Tumore del pancreas, a Verona una rete tra università, ospedale e medici di famiglia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYnM3MG1oOFVqZDJ4MWU3N2hDdmJFTjZ6T1AxMjZvQ09JWEdxa2lCaFdWSlpLdFh2bm5rUV82d1ZZX3F1aHR1cXRYQ1lWa2p4WXM2aThMNDdSNHZsRkJoeVEwOXlsb2lrdkxSX0NqMW8tbkhhQkQydGdmSTZrU3ZYVmtjeGpXM3lDRTVfNUdBek9IRlVSUmNfSkotaWFsNlpPYXpjdXdzYmhqMGxZVjNFNkM0MVZoUE9Ucm53?oc=5)
 
 2026-11-20 <span class="news-indication-tag">tumor</span>
@@ -133,6 +173,22 @@ Source: [Diari de Tarragona](https://news.google.com/rss/articles/CBMirgFBVV95cU
 2026-11-20 <span class="news-indication-tag">Krebs</span>
 
 Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMingFBVV95cUxNbFlQT2c1c0pmODB4bHFOdm1RMHptOTA3ZmVVLUZYMU02TXZoNG5GLXpaV29QakdNclotVUQyR2wxdUs2elBndFRNX25uXzRpLUJMMVdKdHlnTERpQm43dlFzWEN3R2JRZ29XeDR6aDZzdGR6Mk84YW42QU0wWE9RM1lMcXphUE1PY3NXLTRqZDFLSHE2d0pMMjRzUER5QQ?oc=5)
+
+---
+
+### [Tumore del pancreas: nuove conferme sul farmaco della speranza e la Lombardia apre alla gratuità - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQll4UXJGcGxJelpmY29jeWRkWXJTXzhfbEdsd0FOY3haUWtWNVRHTkdabTVqU0xEeFZGcmtzNk9zOXlNaVdOZXU0NG01QkllQ2p2SDhwYWRCQmYtaUtYbDU1QmtHcHZiUWtyM1lMMmVnNGdIV1RpMG9iSW5BUXczTEQxcFdFLWpZaTByamM4NzA4b1J6UWQ4ZTJSaVU1c3hybW9ENzBzLWNURnFsNVo2NW9YVF8?oc=5)
+
+2026-11-20 <span class="news-indication-tag">tumor</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQll4UXJGcGxJelpmY29jeWRkWXJTXzhfbEdsd0FOY3haUWtWNVRHTkdabTVqU0xEeFZGcmtzNk9zOXlNaVdOZXU0NG01QkllQ2p2SDhwYWRCQmYtaUtYbDU1QmtHcHZiUWtyM1lMMmVnNGdIV1RpMG9iSW5BUXczTEQxcFdFLWpZaTByamM4NzA4b1J6UWQ4ZTJSaVU1c3hybW9ENzBzLWNURnFsNVo2NW9YVF8?oc=5)
+
+---
+
+### [Consultant oncologist says breakfast food every day 'protects against cancer' - The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbU1nOFBJYThhLWFDNXR2MkNEOUZKWjhLcURaOG9TSk41WWhnRlJrX2syRVI5ZE95cGVSWk4tT1otb0VhQTRPdVRkSUgtZGJrY3pUcUV4YWlOeW1ab3ItTTM0ME92RDlXbU8wZ013bWdWRXNMRkIwLVFHbTJLR040MFpDTVAyc3FHVWVEdkh0ZHPSAZYBQVVfeXFMTU9sandFaFJEeTc0dHRZRnhxcExmbmhLTDQzWVZiNEdzQnhSSlRPRi1lU2xsLUZ0OHdSSUpBYzdnZWhlSFRNdHp1Y2VlVEJfeS1wZXRzeDBQRXBtaFFGT1VSNFBtSFdVWjk0Skg0RC1kRzF4TFVxam9PdWZwNG9DWG1WR29ObkN0TVNvLWFIVENzbUEwNUVR?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbU1nOFBJYThhLWFDNXR2MkNEOUZKWjhLcURaOG9TSk41WWhnRlJrX2syRVI5ZE95cGVSWk4tT1otb0VhQTRPdVRkSUgtZGJrY3pUcUV4YWlOeW1ab3ItTTM0ME92RDlXbU8wZ013bWdWRXNMRkIwLVFHbTJLR040MFpDTVAyc3FHVWVEdkh0ZHPSAZYBQVVfeXFMTU9sandFaFJEeTc0dHRZRnhxcExmbmhLTDQzWVZiNEdzQnhSSlRPRi1lU2xsLUZ0OHdSSUpBYzdnZWhlSFRNdHp1Y2VlVEJfeS1wZXRzeDBQRXBtaFFGT1VSNFBtSFdVWjk0Skg0RC1kRzF4TFVxam9PdWZwNG9DWG1WR29ObkN0TVNvLWFIVENzbUEwNUVR?oc=5)
 
 ---
 
@@ -368,6 +424,14 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiywJBVV95c
 
 ---
 
+### [Surviving pancreatic cancer: ‘The first symptom I noticed was really itchy skin – but there were other signs’ - Irish Independent](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZkNQYkhuUk5peDBsRW5lRDB4bmR2aFdpVWh5bTRvbXBZRXNhUVRuLUNmZV9DN09faGg0X1ZLajJudVhFcHdzakpHQUJCYTU3Y2FMWFJ4cGUta1M0NjBwNkhTSkR2VkVKMk5jRUFRM09KQm5Dd1FESkpOcnI1d0F2Z0MzbVEtRDZZTnZHSDBlZXNJaXM4MWJzdERtdC1na0hDSXlSUDhQRjlyNXZqTXBWSG5PeGN6c2NKNEFCSUdjSGtLbHNhTEFnYzhURzN0andpZU9oUEdfc2dyYkNsRGxlbWk3LTdfTzh3NW82cVdvSQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Irish Independent](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZkNQYkhuUk5peDBsRW5lRDB4bmR2aFdpVWh5bTRvbXBZRXNhUVRuLUNmZV9DN09faGg0X1ZLajJudVhFcHdzakpHQUJCYTU3Y2FMWFJ4cGUta1M0NjBwNkhTSkR2VkVKMk5jRUFRM09KQm5Dd1FESkpOcnI1d0F2Z0MzbVEtRDZZTnZHSDBlZXNJaXM4MWJzdERtdC1na0hDSXlSUDhQRjlyNXZqTXBWSG5PeGN6c2NKNEFCSUdjSGtLbHNhTEFnYzhURzN0andpZU9oUEdfc2dyYkNsRGxlbWk3LTdfTzh3NW82cVdvSQ?oc=5)
+
+---
+
 ### [Anticipar el diagnóstico de la retina evita pérdidas de visión irreversibles - El Economista](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbFN1VkdPekw5eFY2Vy1iTG9qZ3AtODlJZGVsOUhwZnNaU3ZOTkJiSDd0cEVUT3drbEFja0xSVVRtamNwc3Awc0ZUNDRST3ZoelRTZjdESjJGd0tQVzZqRy13Z2pLLVNDZWhxbThJTUZCeDJPY1QtNlhiVlN1d0tmeEwxcjhBY1AzcXg1dllpSlZiUkdyakVTaDhOSEJ2Um1sSzAtZ2NqM1pjcjlmV1hxVDVsTVUzS1k3Q2ZHM3F0UGpTYWYtUjhJSlhWdUpDaVV0eGk2NzlMWkdDOGliOVlDSFNWZw?oc=5)
 
 2026-11-19 <span class="news-indication-tag">diabetes</span>
@@ -586,7 +650,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmo0
 
 ### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
-2026-11-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-11-18 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
@@ -1058,7 +1122,7 @@ Source: [PalermoToday](https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXlq
 
 ### [Starke Blutdrucksenkung: Vorteil beim Schlaganfall, nicht bei Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
 
-2026-11-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
+2026-11-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
 
@@ -1202,7 +1266,7 @@ Source: [Manchester Evening News](https://news.google.com/rss/articles/CBMipwFBV
 
 ### [Milano, i «furbetti» dei farmaci (gratis) per dimagrire: presentavano ricette anti-obesità pur non essendo diabetici. La Regione stana 2.800 finti pazienti - Corriere Milano](https://news.google.com/rss/articles/CBMizAJBVV95cUxOWUVqa3Q3Unh5N3gyWWlveXdUX2NaaEZ3aWlROHV2bUhENGFkeGR2V3c3UnNaaVl0UWtuMi1Zd2stcllJLVNlZlM4ZmZNeHljdk12VVJYVDJGTl9XT3RPRjZZbkJVOHJCU1VoWi1LMzBFTzJPTG1KS2dlYXRUUEdLS2VlbmhObVJfenBHZ0tKbm1kVlBjakdLY29SdjBYaXltOU1heU9tUjZkNmtvaWVpZ0dzdHZDQlRuZkJfNjdGc3ZJLVRGcmtKTnJyRWozT3Z0WWxOOW11SE1mbTlFWVdWX3BDSmc4anF1VEVTMmpWSm9ob3dROF9GZ0VJQkFzeUV2cGpzZE5OeXE1eTFQMFN4bFdmTTc5OFZtSWFOMWZ5dmJCNG9lODNwZTBRQVE1ZmtNR3N6cjZSX0twSS11ZU9XRDE4aS1tbFhDWW1RMNIB0gJBVV95cUxQNF9TLVVIc2RvVXB2T2xzOTRKSzlEZEtNTlo5RU1CNFpqbWN2dER5YVh0THphZ0YtRVIyaGx0Skt4bUx5N1hPUW83R3hEdl9yNkpyTWxXbllWVUd2SE1SMGNjblI0bkNKSVZFNzltRWFIMjNvTWtOamJsbmV4QnkxdENYUmg0Z0JuVVoxLUVyVUduclhkOVdscFU2X04ydVdIZGF1eVdQaDVySE0tRF9hclJKNml5c1BuTFNHMy1IRmJsOWpRMGZoSWlZQl9SUzVucmJPbzRGR1Q3VEgxOFpidHV6cDFWeW02NWo1QWNNc2hOZEVkX2pNYnlNZTFPYXl2aDY4UWtPN2s5N3F2SER4ZFhyblFyQ29TMWZWTjJYYThXeVgxbDlFZlNzWmpnd3llR0s5RHlLVExwOFp4SF9RcjBFZkZQWnloZzhpMlJmeFB2Zw?oc=5)
 
-2026-11-16 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Corriere Milano](https://news.google.com/rss/articles/CBMizAJBVV95cUxOWUVqa3Q3Unh5N3gyWWlveXdUX2NaaEZ3aWlROHV2bUhENGFkeGR2V3c3UnNaaVl0UWtuMi1Zd2stcllJLVNlZlM4ZmZNeHljdk12VVJYVDJGTl9XT3RPRjZZbkJVOHJCU1VoWi1LMzBFTzJPTG1KS2dlYXRUUEdLS2VlbmhObVJfenBHZ0tKbm1kVlBjakdLY29SdjBYaXltOU1heU9tUjZkNmtvaWVpZ0dzdHZDQlRuZkJfNjdGc3ZJLVRGcmtKTnJyRWozT3Z0WWxOOW11SE1mbTlFWVdWX3BDSmc4anF1VEVTMmpWSm9ob3dROF9GZ0VJQkFzeUV2cGpzZE5OeXE1eTFQMFN4bFdmTTc5OFZtSWFOMWZ5dmJCNG9lODNwZTBRQVE1ZmtNR3N6cjZSX0twSS11ZU9XRDE4aS1tbFhDWW1RMNIB0gJBVV95cUxQNF9TLVVIc2RvVXB2T2xzOTRKSzlEZEtNTlo5RU1CNFpqbWN2dER5YVh0THphZ0YtRVIyaGx0Skt4bUx5N1hPUW83R3hEdl9yNkpyTWxXbllWVUd2SE1SMGNjblI0bkNKSVZFNzltRWFIMjNvTWtOamJsbmV4QnkxdENYUmg0Z0JuVVoxLUVyVUduclhkOVdscFU2X04ydVdIZGF1eVdQaDVySE0tRF9hclJKNml5c1BuTFNHMy1IRmJsOWpRMGZoSWlZQl9SUzVucmJPbzRGR1Q3VEgxOFpidHV6cDFWeW02NWo1QWNNc2hOZEVkX2pNYnlNZTFPYXl2aDY4UWtPN2s5N3F2SER4ZFhyblFyQ29TMWZWTjJYYThXeVgxbDlFZlNzWmpnd3llR0s5RHlLVExwOFp4SF9RcjBFZkZQWnloZzhpMlJmeFB2Zw?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tirzepatide. 0 predicted indications."
 permalink: /news/tirzepatide/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Tirzepatide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>36 news articles</strong>, with 0 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>37 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (36)
+## Related News (37)
 
 ### [GBA beschließt neue Anforderungen an DMP Rheumatoide Arthritis](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDFQVTJ5eVA3N2ZRSXN0ZVZTT2NjNDBsNUg5VUUybEdIZlZSeXdZWlJYcVpKZkgySkdwbW5KN3N0SXhyTHBPYktQdXN1QzBic3NqSmViOHpFSkNVZmRteU9ldlM5b2lVV2RUU0luekp3akUxQ3Q3bFZYMGZZQ2hXY3VuWVgwLWt4b2RyaHFYQnBoNUYyWnY5bzNmd2syWlhGVGN1VUt4VXkzTk9mVng2UTBtUG0tNHM?oc=5)
 
@@ -77,6 +77,14 @@ Source: [Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZm
 2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
 
 Source: [Les Echos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjRBSVNuM3NjTzdtWVQwTkZOUnlDRzBIekJ3S3FkZTBkSGN1ejdQVWNERWh5eXFWb0tCMlpxcXZmeVplb0tHdzMwUEpQaXhYRTV3dHBDalFjOGJFUXlRbC1Ua1FJalk2a010T3ZFSVp5WGs5VTdPbU5xTnhQdU94ZzZNMUoyeVloNUdxV1h1cjhaZ1p3azViYWJDLWhZN2pCcGRJTGlKa1A4M3cyU1d6WC1UQnFRcjhoZnhib1pBMVQ3VXhDRTluWjNUR21faEowWDF5UThtUkswOU44ZUE?oc=5)
+
+---
+
+### [Milano, i «furbetti» dei farmaci (gratis) per dimagrire: presentavano ricette anti-obesità pur non essendo diabetici. La Regione stana 2.800 finti pazienti - Corriere Milano](https://news.google.com/rss/articles/CBMizAJBVV95cUxOWUVqa3Q3Unh5N3gyWWlveXdUX2NaaEZ3aWlROHV2bUhENGFkeGR2V3c3UnNaaVl0UWtuMi1Zd2stcllJLVNlZlM4ZmZNeHljdk12VVJYVDJGTl9XT3RPRjZZbkJVOHJCU1VoWi1LMzBFTzJPTG1KS2dlYXRUUEdLS2VlbmhObVJfenBHZ0tKbm1kVlBjakdLY29SdjBYaXltOU1heU9tUjZkNmtvaWVpZ0dzdHZDQlRuZkJfNjdGc3ZJLVRGcmtKTnJyRWozT3Z0WWxOOW11SE1mbTlFWVdWX3BDSmc4anF1VEVTMmpWSm9ob3dROF9GZ0VJQkFzeUV2cGpzZE5OeXE1eTFQMFN4bFdmTTc5OFZtSWFOMWZ5dmJCNG9lODNwZTBRQVE1ZmtNR3N6cjZSX0twSS11ZU9XRDE4aS1tbFhDWW1RMNIB0gJBVV95cUxQNF9TLVVIc2RvVXB2T2xzOTRKSzlEZEtNTlo5RU1CNFpqbWN2dER5YVh0THphZ0YtRVIyaGx0Skt4bUx5N1hPUW83R3hEdl9yNkpyTWxXbllWVUd2SE1SMGNjblI0bkNKSVZFNzltRWFIMjNvTWtOamJsbmV4QnkxdENYUmg0Z0JuVVoxLUVyVUduclhkOVdscFU2X04ydVdIZGF1eVdQaDVySE0tRF9hclJKNml5c1BuTFNHMy1IRmJsOWpRMGZoSWlZQl9SUzVucmJPbzRGR1Q3VEgxOFpidHV6cDFWeW02NWo1QWNNc2hOZEVkX2pNYnlNZTFPYXl2aDY4UWtPN2s5N3F2SER4ZFhyblFyQ29TMWZWTjJYYThXeVgxbDlFZlNzWmpnd3llR0s5RHlLVExwOFp4SF9RcjBFZkZQWnloZzhpMlJmeFB2Zw?oc=5)
+
+2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Corriere Milano](https://news.google.com/rss/articles/CBMizAJBVV95cUxOWUVqa3Q3Unh5N3gyWWlveXdUX2NaaEZ3aWlROHV2bUhENGFkeGR2V3c3UnNaaVl0UWtuMi1Zd2stcllJLVNlZlM4ZmZNeHljdk12VVJYVDJGTl9XT3RPRjZZbkJVOHJCU1VoWi1LMzBFTzJPTG1KS2dlYXRUUEdLS2VlbmhObVJfenBHZ0tKbm1kVlBjakdLY29SdjBYaXltOU1heU9tUjZkNmtvaWVpZ0dzdHZDQlRuZkJfNjdGc3ZJLVRGcmtKTnJyRWozT3Z0WWxOOW11SE1mbTlFWVdWX3BDSmc4anF1VEVTMmpWSm9ob3dROF9GZ0VJQkFzeUV2cGpzZE5OeXE1eTFQMFN4bFdmTTc5OFZtSWFOMWZ5dmJCNG9lODNwZTBRQVE1ZmtNR3N6cjZSX0twSS11ZU9XRDE4aS1tbFhDWW1RMNIB0gJBVV95cUxQNF9TLVVIc2RvVXB2T2xzOTRKSzlEZEtNTlo5RU1CNFpqbWN2dER5YVh0THphZ0YtRVIyaGx0Skt4bUx5N1hPUW83R3hEdl9yNkpyTWxXbllWVUd2SE1SMGNjblI0bkNKSVZFNzltRWFIMjNvTWtOamJsbmV4QnkxdENYUmg0Z0JuVVoxLUVyVUduclhkOVdscFU2X04ydVdIZGF1eVdQaDVySE0tRF9hclJKNml5c1BuTFNHMy1IRmJsOWpRMGZoSWlZQl9SUzVucmJPbzRGR1Q3VEgxOFpidHV6cDFWeW02NWo1QWNNc2hOZEVkX2pNYnlNZTFPYXl2aDY4UWtPN2s5N3F2SER4ZFhyblFyQ29TMWZWTjJYYThXeVgxbDlFZlNzWmpnd3llR0s5RHlLVExwOFp4SF9RcjBFZkZQWnloZzhpMlJmeFB2Zw?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Zonisamide. 9 predicted indications."
 permalink: /news/zonisamide/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Zonisamide News
@@ -51,19 +51,19 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5
 
 ---
 
-### [The best way to drink red wine for a healthier heart and longer life - The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
-
-2026-11-19 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
-
----
-
 ### [Reunión Anual SEN: El análisis de los ritmos cerebrales mejora la comprensión de las epilepsias complejas y raras - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTVUcFBBeFNaQlVFZ0kzU1ROekJvQnowSW54aXJZNkRGcUhkbUVvZnNfNTFIZVBpeFBJMlNHUVAzYl9wcHk2dnBnWDkySUczV2JqX1MyRFFLd2N6YndlaEpTNnEtXzdoWDR5NlFRMzFjNXRNeDBBU3lFWGlxOE11alZqUVJ1TUJNVk4zRFJCa2p3Vk01OHBKeFQ5NzZzVTNWbFlBaVBjZkJkYUtBeUIyNEZiSlNfTUlYb29PS9IBtwFBVV95cUxPb0VQdWtnTTRWYlhzUlNVdWZJRzNHbF9tSjZ4MnNRZkJ6bm5kdlpsekFJNE9iZkpBd3JrVTFHQjFDMUpsdXE1Y3ZiczRlZUtRcjJsdzl4TDcwUFlBZHJ0Nkx4T0llazhSWE1PQjZEZE9DRzV4Yi1PWmlhaVlla0NKN0N6LTZLTzR1UUdLUFczWXVNSGNLZTFDZ1I4VnNhSzlGcmU1M01oclpwU2Zjd0ZDSkhOYjBOclk?oc=5)
 
 2026-11-19 <span class="news-indication-tag">epilepsia</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTVUcFBBeFNaQlVFZ0kzU1ROekJvQnowSW54aXJZNkRGcUhkbUVvZnNfNTFIZVBpeFBJMlNHUVAzYl9wcHk2dnBnWDkySUczV2JqX1MyRFFLd2N6YndlaEpTNnEtXzdoWDR5NlFRMzFjNXRNeDBBU3lFWGlxOE11alZqUVJ1TUJNVk4zRFJCa2p3Vk01OHBKeFQ5NzZzVTNWbFlBaVBjZkJkYUtBeUIyNEZiSlNfTUlYb29PS9IBtwFBVV95cUxPb0VQdWtnTTRWYlhzUlNVdWZJRzNHbF9tSjZ4MnNRZkJ6bm5kdlpsekFJNE9iZkpBd3JrVTFHQjFDMUpsdXE1Y3ZiczRlZUtRcjJsdzl4TDcwUFlBZHJ0Nkx4T0llazhSWE1PQjZEZE9DRzV4Yi1PWmlhaVlla0NKN0N6LTZLTzR1UUdLUFczWXVNSGNLZTFDZ1I4VnNhSzlGcmU1M01oclpwU2Zjd0ZDSkhOYjBOclk?oc=5)
+
+---
+
+### [Heart surgeon names early sign on front of your leg that your heart is in trouble - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
+
+2026-11-19 <span class="news-indication-tag">heart disease</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
 
 ---
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "diabetes (diabetes mellitus) News"
+title: "diabete (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 279 articles, 86 related drugs."
+description: "Health news about diabete (diabetes mellitus). 280 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
-# diabetes (diabetes mellitus) News
+# diabete (diabetes mellitus) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>279 news articles</strong> and 86 related drugs.
+<p class="key-answer" data-question="What news is there about diabete (diabetes mellitus)?">
+<strong>diabete (diabetes mellitus)</strong> currently has <strong>280 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “diabetes” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “diabete” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -65,13 +65,21 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (279)
+## Related News (280)
 
 ### [Diabetes: Diese vier Organe kann hoher Blutzucker besonders stark schädigen](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0hnR3N3WlBRVE1fRU9qWXNJbzNnUzEySTNQbEd3dU82NjBhUTl2UFRGcUIzOWk2cVdXel92VndieWJYOGVSRTB5OUp1endTZnMyNGpqampVZWV3OEpkOERnT0prMWNnRWpNc0hkY2l5dl85RnhxOXZsV0pBa0lwQ0ZuLVBPWWhmVWxLOTgyYTBYdHlsQUFyUWNOU1I5VkJkXzBLSUlQZ2I1VmYwLUQzalVoeDQ0U3NVU3hBSXl1OHVNa1N4UHR4QVhKOGZoNUtJaVptSEtOazJ6V3c?oc=5)
 
 2026-11-20
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0hnR3N3WlBRVE1fRU9qWXNJbzNnUzEySTNQbEd3dU82NjBhUTl2UFRGcUIzOWk2cVdXel92VndieWJYOGVSRTB5OUp1endTZnMyNGpqampVZWV3OEpkOERnT0prMWNnRWpNc0hkY2l5dl85RnhxOXZsV0pBa0lwQ0ZuLVBPWWhmVWxLOTgyYTBYdHlsQUFyUWNOU1I5VkJkXzBLSUlQZ2I1VmYwLUQzalVoeDQ0U3NVU3hBSXl1OHVNa1N4UHR4QVhKOGZoNUtJaVptSEtOazJ6V3c?oc=5)
+
+---
+
+### [Sensori per la glicemia l’endocrinologo spiega a cosa servono e come usarli se non si ha il diabete - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXdUSk91RVhiNkFIWDVOX01LNi12ZWRMYlBwYnBGRHdHdEVDRmJPbjFEUGlXcHNob1F4b29yRWgtSVBGTEp0dTN1aGtEZmRyZmx1UldEY3RYM1FTZkVDc1ZXaE1fMWpRa3FDTzNMWFVkRi1PczhPTllnZG9UbVZLczNWMTdMRzhnMjdHZS05VUQwcTI3dm0xVndTekd0TXN0ZFVDQ3NUbjB1RDlKR3BjVkwwd2lXTUhIVFFIaGQxYlJXSmpaRTR0akh0MjhJQmVfeEIxd2NwUdIBvgFBVV95cUxOVEdxcUxPVDRyMGNJdFNmTGc0V2xWNlc2eFg0M1VvM3FoVmFnNGtycndtc3BmTFlkcnFTTHpvMGZDSldzN3RFa3ppTV9ZSWtvNzdLaHJuYWdVclFKZnFCOTl6MHhQa1JlVmNVa2cwYkxENGR3bWJ3YU1aMTZnc09kb1hQSHM1bW5zTTdOVG5DUWRWVlFkbEhrZGx1NU5yMGJ2UzZCY2VIanBQWEJkbEduMk9SeElYQ0xkNmhaMTF3?oc=5)
+
+2026-11-20
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXdUSk91RVhiNkFIWDVOX01LNi12ZWRMYlBwYnBGRHdHdEVDRmJPbjFEUGlXcHNob1F4b29yRWgtSVBGTEp0dTN1aGtEZmRyZmx1UldEY3RYM1FTZkVDc1ZXaE1fMWpRa3FDTzNMWFVkRi1PczhPTllnZG9UbVZLczNWMTdMRzhnMjdHZS05VUQwcTI3dm0xVndTekd0TXN0ZFVDQ3NUbjB1RDlKR3BjVkwwd2lXTUhIVFFIaGQxYlJXSmpaRTR0akh0MjhJQmVfeEIxd2NwUdIBvgFBVV95cUxOVEdxcUxPVDRyMGNJdFNmTGc0V2xWNlc2eFg0M1VvM3FoVmFnNGtycndtc3BmTFlkcnFTTHpvMGZDSldzN3RFa3ppTV9ZSWtvNzdLaHJuYWdVclFKZnFCOTl6MHhQa1JlVmNVa2cwYkxENGR3bWJ3YU1aMTZnc09kb1hQSHM1bW5zTTdOVG5DUWRWVlFkbEhrZGx1NU5yMGJ2UzZCY2VIanBQWEJkbEduMk9SeElYQ0xkNmhaMTF3?oc=5)
 
 ---
 

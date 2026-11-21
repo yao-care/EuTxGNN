@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Olanzapine. 2 predicted indications."
 permalink: /news/olanzapine/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Olanzapine News
@@ -36,6 +36,14 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 
 ## Related News (63)
 
+### [Bewegungsmuster: KI erkennt Leberfibrose und Depressionen am Gang](https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0pEaDZnU1NDOU5KUXl1cjYySDdVMjc3dU1neDJGVFFaby1LZDJuZFNETDJNWmNWLV82Sk5wUy1udHF2SnZtc09vaHhIbmZaSXAxTExiY1B2MzlzczM4S3N4U0xLX2dTcDhDYkQxNGF1dk5SVjZNTklVMjRJaUJBTVh5bjhWczJGZWtuQ24zUVp4Vm01UGNxbjcxMGVJeXlPZDdoTWE1bFNJTzZ4S1RENQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">depression</span>
+
+Source: [T-Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0pEaDZnU1NDOU5KUXl1cjYySDdVMjc3dU1neDJGVFFaby1LZDJuZFNETDJNWmNWLV82Sk5wUy1udHF2SnZtc09vaHhIbmZaSXAxTExiY1B2MzlzczM4S3N4U0xLX2dTcDhDYkQxNGF1dk5SVjZNTklVMjRJaUJBTVh5bjhWczJGZWtuQ24zUVp4Vm01UGNxbjcxMGVJeXlPZDdoTWE1bFNJTzZ4S1RENQ?oc=5)
+
+---
+
 ### [Coucher et réveil à heures variables : l’effet inattendu sur le moral, selon une étude - La Provence](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUmxON0FRYUZCcnJzb2I0WG9hYS1UOVFhU2c0NFdsUEJWcy1CZ04xQXNvTUpzY2M2Vl9EeTdId3pPel90eWM4WlNOX2UwazlSVlA4UXlxaW5HZXNjelhSWTNZbHlBeUgtUnhlWFJQVHhrVWktUDFjTHVUS2xMTktzaE5iYm5ockxyV2JXMnUxNlBtM25SZktYM1pRam91Uy1IaURKdDNxZmhlV1loYjJFTFZ2MVVXa0JEQ0tnamtjdzR3UVYwc2ZIWHFlYVdWSXdfQ2xKTA?oc=5)
 
 2026-11-19 <span class="news-indication-tag">dépression</span>
@@ -57,14 +65,6 @@ Source: [TerniToday](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTHBxUG
 2026-11-19 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR25ZVWZBV1I5aXZ1UEhxbk1wNks2YkRITndwYTQ5NEpvMDg1LTg4c3NlbVRoemxFYXQ4N3lOb216ejlvSk40SHEzMmRvMGpIcDFpSlo5SEJaV09WeW5SZjBRNUw0RjIzVlhnUm5wZnpMZnBwY2xUTHJjdjJ4UzZxbFJ0V1M3RC13OGJHU1dxODdsa0gyaWZBeFNTbE9PUjA?oc=5)
-
----
-
-### [El sueño irregular se asocia con más dificultades emocionales en adolescentes](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDJjMnFQRFFFWWlTRGNFT09nWE9QWU1QOTdrZnBSLTN4TzluV3hFVmE1bThrOUZzYVpZNjlqUFh3SkJTeDhCQ3YwcnRPaU5HUVA2ZWJ3TnNBY0dUbUhxZkxjUGFoVnIxX1ZnQkRSQzJEUjY4UXpyNmVWN0xBWmRUZ2RxNmNtZ2xiRzV2dWdycHVIZWxVQVNFd2l6cjZTUFJRNDRv?oc=5)
-
-2026-11-19 <span class="news-indication-tag">depresión</span>
-
-Source: [https://www.infocop.es/](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDJjMnFQRFFFWWlTRGNFT09nWE9QWU1QOTdrZnBSLTN4TzluV3hFVmE1bThrOUZzYVpZNjlqUFh3SkJTeDhCQ3YwcnRPaU5HUVA2ZWJ3TnNBY0dUbUhxZkxjUGFoVnIxX1ZnQkRSQzJEUjY4UXpyNmVWN0xBWmRUZ2RxNmNtZ2xiRzV2dWdycHVIZWxVQVNFd2l6cjZTUFJRNDRv?oc=5)
 
 ---
 

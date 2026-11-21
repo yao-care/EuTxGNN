@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Entacapone. 10 predicted indications."
 permalink: /news/entacapone/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Entacapone News
@@ -52,11 +52,11 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUU
 
 ---
 
-### [Your brain may be hiding Alzheimer’s from you – and that’s not always a good thing - The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE1Nb29pV1JXRXMwMjRXbjZBLUx6cVN2Vjk4Y3dleUJ3QmpGakVKeFdRTGhyTmYxUENzLVdkZUJJcU5YLVVvTHFGeTBGREZEbjQxTWtJVWs0dUJLeWFwU0VWdUdhOVRZMTlreVNIRzdGYkpVTnpPaFpEU2E2UWpPUDJyN1hLNXBqaHFpa2ZfT29KVVBqQXc1Q0N2aDFJTDhlbVlNNm02OUVyU3p6SXd5QnJtYw?oc=5)
+### [Stem cells injected into brain of Alzheimer’s patients in world first - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUNzY1Yyck5Pa0NhQkM2R3VyUDZ2dkMwdHR0S282TENpVi1HQ3JjRV95eERTVVJQQ1dzVk43S0FWYlRORlI0RDYySE9oLVk4UnZoODhzcFJKNDBpMWh3d1IxbF9nX1NhTE5senJNZDdNRnUwSEpPRW52cXRUMUtWV2lGS0FsNy1TR2ZJVHc5dHRfbE1hNGl5VlhsWVNqUXB0ZVVHMQ?oc=5)
 
-2026-11-18 <span class="news-indication-tag">Alzheimer's</span>
+2026-11-19 <span class="news-indication-tag">Alzheimer's</span>
 
-Source: [The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE1Nb29pV1JXRXMwMjRXbjZBLUx6cVN2Vjk4Y3dleUJ3QmpGakVKeFdRTGhyTmYxUENzLVdkZUJJcU5YLVVvTHFGeTBGREZEbjQxTWtJVWs0dUJLeWFwU0VWdUdhOVRZMTlreVNIRzdGYkpVTnpPaFpEU2E2UWpPUDJyN1hLNXBqaHFpa2ZfT29KVVBqQXc1Q0N2aDFJTDhlbVlNNm02OUVyU3p6SXd5QnJtYw?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUNzY1Yyck5Pa0NhQkM2R3VyUDZ2dkMwdHR0S282TENpVi1HQ3JjRV95eERTVVJQQ1dzVk43S0FWYlRORlI0RDYySE9oLVk4UnZoODhzcFJKNDBpMWh3d1IxbF9nX1NhTE5senJNZDdNRnUwSEpPRW52cXRUMUtWV2lGS0FsNy1TR2ZJVHc5dHRfbE1hNGl5VlhsWVNqUXB0ZVVHMQ?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "ipertensione (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ipertensione (hypertension). 56 articles, 55 related drugs."
+description: "Health news about ipertensione (hypertension). 57 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # ipertensione (hypertension) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about ipertensione (hypertension)?">
-<strong>ipertensione (hypertension)</strong> currently has <strong>56 news articles</strong> and 55 related drugs.
+<strong>ipertensione (hypertension)</strong> currently has <strong>57 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,7 +64,15 @@ This page brings together the latest health news about “ipertensione” and li
 </ul>
 </div>
 
-## Related News (56)
+## Related News (57)
+
+### [NHS warns of 'alarming' rise in hospital admissions for high blood pressure - Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTVXeGhxSGpiYUVNbTdSY3dUS1FOTHJtakJCZjRoc1Q3eTQ4SnVyRFV6YzJEU1puOWR0bzlxSXJ1WVo5QkdmNDNOaG5Sb0JuZUQ5S3VQUXpQTzc4ZGRFQkNUSXIxUTUzZ2JTNUtteVlJQ2s3MFk0ZjQ1dkYwOEtzWFJuaFN4cFRBcC10WUx4UDF5aGY3QmRoczVoR21IUG1aaTBIWk4yM05vaVV0d3c?oc=5)
+
+2026-11-21
+
+Source: [Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTVXeGhxSGpiYUVNbTdSY3dUS1FOTHJtakJCZjRoc1Q3eTQ4SnVyRFV6YzJEU1puOWR0bzlxSXJ1WVo5QkdmNDNOaG5Sb0JuZUQ5S3VQUXpQTzc4ZGRFQkNUSXIxUTUzZ2JTNUtteVlJQ2s3MFk0ZjQ1dkYwOEtzWFJuaFN4cFRBcC10WUx4UDF5aGY3QmRoczVoR21IUG1aaTBIWk4yM05vaVV0d3c?oc=5)
+
+---
 
 ### [Vaccino antinfluenzale riduce gli infarti: appello dei cardiologi - Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
 

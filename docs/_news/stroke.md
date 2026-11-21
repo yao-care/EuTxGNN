@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "ictus (stroke) News"
+title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 124 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 126 articles, 11 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
-# ictus (stroke) News
+# Schlaganfall (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>124 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
+<strong>Schlaganfall (stroke)</strong> currently has <strong>126 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (124)
+## Related News (126)
+
+### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVZKTndvN19uWDlHU2lUZi1NVnVhSG9QSzh4YlhIMmhPZWY0Rlh0N3BURU0tM3YzR29mczZhMnNQX2VCbG9GSUhzNm0yTHdvVTFISm1wOUdzOUg3bWJpSVJSalo5SnhCVjFLdUFVT0JITjUzdkQ0QmMwbnJkdkI3MWF2aUo4UklVU01WMlpPQzJCTHNuX05yU0NKczlGeUhQODVEWDlqTVhwaFhjVzBZTnBRdEJhX2VBTVNn?oc=5)
+
+2026-11-21
+
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVZKTndvN19uWDlHU2lUZi1NVnVhSG9QSzh4YlhIMmhPZWY0Rlh0N3BURU0tM3YzR29mczZhMnNQX2VCbG9GSUhzNm0yTHdvVTFISm1wOUdzOUg3bWJpSVJSalo5SnhCVjFLdUFVT0JITjUzdkQ0QmMwbnJkdkI3MWF2aUo4UklVU01WMlpPQzJCTHNuX05yU0NKczlGeUhQODVEWDlqTVhwaFhjVzBZTnBRdEJhX2VBTVNn?oc=5)
+
+---
 
 ### [Las enfermedades cardiovasculares y sus factores de riesgo desempeñan un papel clave en desarrollo de demencia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcFVhX0VYSk54czdRcXI0YjFnQmt3RUR0V3VTS3UzdV9na2dLb1hleTVyVmNxRW5QbTFqTUNqVU04ZzBhOVdsbl9hQjNoSlp5UlpJYlpkVmRkNEtCODFwNGh6RXZINTdWdlg5REVreGhEbXlVM0R4TnpEczNMLTkxdFlnLXo3SXZmcURUc1phVm93aVYxV2laVzhLT05xTGFFMjVtZzZFYVJac0o0X0ttckZKTWVvcFVvMDZQQnlRZVA2WHdWMFExX0VQM0lXbi1nZjBia1NEaVd5SU1MM3ZZV0I3TTAtWFVK?oc=5)
 
@@ -68,6 +76,14 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVm
 2026-11-19
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGpCcjcwT0t1Mk9jdk1nYXVoYzNlVXdlNEhiTnp2RnBXbjJ6U25pUmFWWDZrbmlVa3JqVzk2c085Vi1wLThJdllUblZqaGs3dkFFaXd5OVNla2xFQ1d1b1dJS3ZNWUZ4OEN5d3dPWEdKbnlHeFdIa3kzcTc5ZWttR3ByOG9QUTM2dFYxSGRmMUxDU0drMnVNeDVKa25uR0tua0wtd3RYc3QyNEJLNUJZb0xJc2ltNFFwamNNeXhXYkk3MldicWdlaGNfQQ?oc=5)
+
+---
+
+### [Colesterolo, per la prevenzione cardiovascolare non basta abbassare i valori](https://news.google.com/rss/articles/CBMimAJBVV95cUxQSkhoZXYxT2JhWWI5U3N6ODRjR1JaVzE2b1pKMkdwcnBqMWNkOUZMTFVmMndRR0xScUpWYjZJT1pzbnZqUGhfRGFCZ0VqTmtfNGw1UEVFWEFRUy1iOHNyYThaaW44aHdja0hSakVWOG9BVnhLTV8yMnBBM1VWcjM4T3g3NFphU1c4NVQ0X3NWVkFaOUhMajgwaE5ZUWEzMU5KWnlZVnp3dEVjNHJROXZsVnZPUkxBaGhkX1VwdWJmSjZKMHNrLXZPYWtwTkdtdkM4T0NhLUJkOFZ3dUhPWXdlRV9pV0lTa1VfeGFEM3MxeXB4Zm1Mc0hicDJ3ZV84dUZDeDNObGppZHFGWUtQb1IwbGVtc0kzOC1E0gGeAkFVX3lxTFBPYkhIczlKSFdOMWQ5cTlNT1pKWWNnYWhaU3VHWXhUUWxmZ1RSRFc0emFRdHd1RjFVQzJZeFJhdWlqdEJiVFNrbTdwd2JFWWhqNEFpN29uWE1WYWhNT19mVXVGbXRiREtYM2ZxTW1ZRXNBNHdyMmkyM0FVbzIyaEstSVZXN1JFMENzUWdhZzUtalFhMmU0cXN2ZEh6WjlIeXljT3kwNk5maFdnZ1hfUTV5Mi1RQkxsbWNWSkhjVzVFVGZzdzhNQWFBcWVVRXdrXzZGMGRRVHFyMUFOaHU4cGpCWmpIeUY3OTVMajRLMUlYSmVrVDdNVnMtNE9uVDdWejVjR3BVampQaWxpcDZwSkdMR28tWk9mWGtvaGh3VFE?oc=5)
+
+2026-11-19
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMimAJBVV95cUxQSkhoZXYxT2JhWWI5U3N6ODRjR1JaVzE2b1pKMkdwcnBqMWNkOUZMTFVmMndRR0xScUpWYjZJT1pzbnZqUGhfRGFCZ0VqTmtfNGw1UEVFWEFRUy1iOHNyYThaaW44aHdja0hSakVWOG9BVnhLTV8yMnBBM1VWcjM4T3g3NFphU1c4NVQ0X3NWVkFaOUhMajgwaE5ZUWEzMU5KWnlZVnp3dEVjNHJROXZsVnZPUkxBaGhkX1VwdWJmSjZKMHNrLXZPYWtwTkdtdkM4T0NhLUJkOFZ3dUhPWXdlRV9pV0lTa1VfeGFEM3MxeXB4Zm1Mc0hicDJ3ZV84dUZDeDNObGppZHFGWUtQb1IwbGVtc0kzOC1E0gGeAkFVX3lxTFBPYkhIczlKSFdOMWQ5cTlNT1pKWWNnYWhaU3VHWXhUUWxmZ1RSRFc0emFRdHd1RjFVQzJZeFJhdWlqdEJiVFNrbTdwd2JFWWhqNEFpN29uWE1WYWhNT19mVXVGbXRiREtYM2ZxTW1ZRXNBNHdyMmkyM0FVbzIyaEstSVZXN1JFMENzUWdhZzUtalFhMmU0cXN2ZEh6WjlIeXljT3kwNk5maFdnZ1hfUTV5Mi1RQkxsbWNWSkhjVzVFVGZzdzhNQWFBcWVVRXdrXzZGMGRRVHFyMUFOaHU4cGpCWmpIeUY3OTVMajRLMUlYSmVrVDdNVnMtNE9uVDdWejVjR3BVampQaWxpcDZwSkdMR28tWk9mWGtvaGh3VFE?oc=5)
 
 ---
 

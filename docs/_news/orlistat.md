@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Orlistat. 1 predicted indications."
 permalink: /news/orlistat/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Orlistat News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>246 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>248 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (246)
+## Related News (248)
+
+### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVZKTndvN19uWDlHU2lUZi1NVnVhSG9QSzh4YlhIMmhPZWY0Rlh0N3BURU0tM3YzR29mczZhMnNQX2VCbG9GSUhzNm0yTHdvVTFISm1wOUdzOUg3bWJpSVJSalo5SnhCVjFLdUFVT0JITjUzdkQ0QmMwbnJkdkI3MWF2aUo4UklVU01WMlpPQzJCTHNuX05yU0NKczlGeUhQODVEWDlqTVhwaFhjVzBZTnBRdEJhX2VBTVNn?oc=5)
+
+2026-11-21 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVZKTndvN19uWDlHU2lUZi1NVnVhSG9QSzh4YlhIMmhPZWY0Rlh0N3BURU0tM3YzR29mczZhMnNQX2VCbG9GSUhzNm0yTHdvVTFISm1wOUdzOUg3bWJpSVJSalo5SnhCVjFLdUFVT0JITjUzdkQ0QmMwbnJkdkI3MWF2aUo4UklVU01WMlpPQzJCTHNuX05yU0NKczlGeUhQODVEWDlqTVhwaFhjVzBZTnBRdEJhX2VBTVNn?oc=5)
+
+---
 
 ### [Las enfermedades cardiovasculares y sus factores de riesgo desempeñan un papel clave en desarrollo de demencia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcFVhX0VYSk54czdRcXI0YjFnQmt3RUR0V3VTS3UzdV9na2dLb1hleTVyVmNxRW5QbTFqTUNqVU04ZzBhOVdsbl9hQjNoSlp5UlpJYlpkVmRkNEtCODFwNGh6RXZINTdWdlg5REVreGhEbXlVM0R4TnpEczNMLTkxdFlnLXo3SXZmcURUc1phVm93aVYxV2laVzhLT05xTGFFMjVtZzZFYVJac0o0X0ttckZKTWVvcFVvMDZQQnlRZVA2WHdWMFExX0VQM0lXbi1nZjBia1NEaVd5SU1MM3ZZV0I3TTAtWFVK?oc=5)
 
@@ -104,6 +112,14 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVm
 2026-11-19 <span class="news-indication-tag">ictus</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGpCcjcwT0t1Mk9jdk1nYXVoYzNlVXdlNEhiTnp2RnBXbjJ6U25pUmFWWDZrbmlVa3JqVzk2c085Vi1wLThJdllUblZqaGs3dkFFaXd5OVNla2xFQ1d1b1dJS3ZNWUZ4OEN5d3dPWEdKbnlHeFdIa3kzcTc5ZWttR3ByOG9QUTM2dFYxSGRmMUxDU0drMnVNeDVKa25uR0tua0wtd3RYc3QyNEJLNUJZb0xJc2ltNFFwamNNeXhXYkk3MldicWdlaGNfQQ?oc=5)
+
+---
+
+### [Colesterolo, per la prevenzione cardiovascolare non basta abbassare i valori](https://news.google.com/rss/articles/CBMimAJBVV95cUxQSkhoZXYxT2JhWWI5U3N6ODRjR1JaVzE2b1pKMkdwcnBqMWNkOUZMTFVmMndRR0xScUpWYjZJT1pzbnZqUGhfRGFCZ0VqTmtfNGw1UEVFWEFRUy1iOHNyYThaaW44aHdja0hSakVWOG9BVnhLTV8yMnBBM1VWcjM4T3g3NFphU1c4NVQ0X3NWVkFaOUhMajgwaE5ZUWEzMU5KWnlZVnp3dEVjNHJROXZsVnZPUkxBaGhkX1VwdWJmSjZKMHNrLXZPYWtwTkdtdkM4T0NhLUJkOFZ3dUhPWXdlRV9pV0lTa1VfeGFEM3MxeXB4Zm1Mc0hicDJ3ZV84dUZDeDNObGppZHFGWUtQb1IwbGVtc0kzOC1E0gGeAkFVX3lxTFBPYkhIczlKSFdOMWQ5cTlNT1pKWWNnYWhaU3VHWXhUUWxmZ1RSRFc0emFRdHd1RjFVQzJZeFJhdWlqdEJiVFNrbTdwd2JFWWhqNEFpN29uWE1WYWhNT19mVXVGbXRiREtYM2ZxTW1ZRXNBNHdyMmkyM0FVbzIyaEstSVZXN1JFMENzUWdhZzUtalFhMmU0cXN2ZEh6WjlIeXljT3kwNk5maFdnZ1hfUTV5Mi1RQkxsbWNWSkhjVzVFVGZzdzhNQWFBcWVVRXdrXzZGMGRRVHFyMUFOaHU4cGpCWmpIeUY3OTVMajRLMUlYSmVrVDdNVnMtNE9uVDdWejVjR3BVampQaWxpcDZwSkdMR28tWk9mWGtvaGh3VFE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">ictus</span>
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMimAJBVV95cUxQSkhoZXYxT2JhWWI5U3N6ODRjR1JaVzE2b1pKMkdwcnBqMWNkOUZMTFVmMndRR0xScUpWYjZJT1pzbnZqUGhfRGFCZ0VqTmtfNGw1UEVFWEFRUy1iOHNyYThaaW44aHdja0hSakVWOG9BVnhLTV8yMnBBM1VWcjM4T3g3NFphU1c4NVQ0X3NWVkFaOUhMajgwaE5ZUWEzMU5KWnlZVnp3dEVjNHJROXZsVnZPUkxBaGhkX1VwdWJmSjZKMHNrLXZPYWtwTkdtdkM4T0NhLUJkOFZ3dUhPWXdlRV9pV0lTa1VfeGFEM3MxeXB4Zm1Mc0hicDJ3ZV84dUZDeDNObGppZHFGWUtQb1IwbGVtc0kzOC1E0gGeAkFVX3lxTFBPYkhIczlKSFdOMWQ5cTlNT1pKWWNnYWhaU3VHWXhUUWxmZ1RSRFc0emFRdHd1RjFVQzJZeFJhdWlqdEJiVFNrbTdwd2JFWWhqNEFpN29uWE1WYWhNT19mVXVGbXRiREtYM2ZxTW1ZRXNBNHdyMmkyM0FVbzIyaEstSVZXN1JFMENzUWdhZzUtalFhMmU0cXN2ZEh6WjlIeXljT3kwNk5maFdnZ1hfUTV5Mi1RQkxsbWNWSkhjVzVFVGZzdzhNQWFBcWVVRXdrXzZGMGRRVHFyMUFOaHU4cGpCWmpIeUY3OTVMajRLMUlYSmVrVDdNVnMtNE9uVDdWejVjR3BVampQaWxpcDZwSkdMR28tWk9mWGtvaGh3VFE?oc=5)
 
 ---
 
@@ -213,7 +229,7 @@ Source: [ABC](https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2RoNVdHMS04c
 
 ### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
-2026-11-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-11-18 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
@@ -325,7 +341,7 @@ Source: [DocCheck News](https://news.google.com/rss/articles/CBMingFBVV95cUxNMHE
 
 ### [Starke Blutdrucksenkung: Vorteil beim Schlaganfall, nicht bei Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
 
-2026-11-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
+2026-11-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
 
@@ -373,7 +389,7 @@ Source: [Los Angeles Times](https://news.google.com/rss/articles/CBMi5AFBVV95cUx
 
 ### [Milano, i «furbetti» dei farmaci (gratis) per dimagrire: presentavano ricette anti-obesità pur non essendo diabetici. La Regione stana 2.800 finti pazienti - Corriere Milano](https://news.google.com/rss/articles/CBMizAJBVV95cUxOWUVqa3Q3Unh5N3gyWWlveXdUX2NaaEZ3aWlROHV2bUhENGFkeGR2V3c3UnNaaVl0UWtuMi1Zd2stcllJLVNlZlM4ZmZNeHljdk12VVJYVDJGTl9XT3RPRjZZbkJVOHJCU1VoWi1LMzBFTzJPTG1KS2dlYXRUUEdLS2VlbmhObVJfenBHZ0tKbm1kVlBjakdLY29SdjBYaXltOU1heU9tUjZkNmtvaWVpZ0dzdHZDQlRuZkJfNjdGc3ZJLVRGcmtKTnJyRWozT3Z0WWxOOW11SE1mbTlFWVdWX3BDSmc4anF1VEVTMmpWSm9ob3dROF9GZ0VJQkFzeUV2cGpzZE5OeXE1eTFQMFN4bFdmTTc5OFZtSWFOMWZ5dmJCNG9lODNwZTBRQVE1ZmtNR3N6cjZSX0twSS11ZU9XRDE4aS1tbFhDWW1RMNIB0gJBVV95cUxQNF9TLVVIc2RvVXB2T2xzOTRKSzlEZEtNTlo5RU1CNFpqbWN2dER5YVh0THphZ0YtRVIyaGx0Skt4bUx5N1hPUW83R3hEdl9yNkpyTWxXbllWVUd2SE1SMGNjblI0bkNKSVZFNzltRWFIMjNvTWtOamJsbmV4QnkxdENYUmg0Z0JuVVoxLUVyVUduclhkOVdscFU2X04ydVdIZGF1eVdQaDVySE0tRF9hclJKNml5c1BuTFNHMy1IRmJsOWpRMGZoSWlZQl9SUzVucmJPbzRGR1Q3VEgxOFpidHV6cDFWeW02NWo1QWNNc2hOZEVkX2pNYnlNZTFPYXl2aDY4UWtPN2s5N3F2SER4ZFhyblFyQ29TMWZWTjJYYThXeVgxbDlFZlNzWmpnd3llR0s5RHlLVExwOFp4SF9RcjBFZkZQWnloZzhpMlJmeFB2Zw?oc=5)
 
-2026-11-16 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Corriere Milano](https://news.google.com/rss/articles/CBMizAJBVV95cUxOWUVqa3Q3Unh5N3gyWWlveXdUX2NaaEZ3aWlROHV2bUhENGFkeGR2V3c3UnNaaVl0UWtuMi1Zd2stcllJLVNlZlM4ZmZNeHljdk12VVJYVDJGTl9XT3RPRjZZbkJVOHJCU1VoWi1LMzBFTzJPTG1KS2dlYXRUUEdLS2VlbmhObVJfenBHZ0tKbm1kVlBjakdLY29SdjBYaXltOU1heU9tUjZkNmtvaWVpZ0dzdHZDQlRuZkJfNjdGc3ZJLVRGcmtKTnJyRWozT3Z0WWxOOW11SE1mbTlFWVdWX3BDSmc4anF1VEVTMmpWSm9ob3dROF9GZ0VJQkFzeUV2cGpzZE5OeXE1eTFQMFN4bFdmTTc5OFZtSWFOMWZ5dmJCNG9lODNwZTBRQVE1ZmtNR3N6cjZSX0twSS11ZU9XRDE4aS1tbFhDWW1RMNIB0gJBVV95cUxQNF9TLVVIc2RvVXB2T2xzOTRKSzlEZEtNTlo5RU1CNFpqbWN2dER5YVh0THphZ0YtRVIyaGx0Skt4bUx5N1hPUW83R3hEdl9yNkpyTWxXbllWVUd2SE1SMGNjblI0bkNKSVZFNzltRWFIMjNvTWtOamJsbmV4QnkxdENYUmg0Z0JuVVoxLUVyVUduclhkOVdscFU2X04ydVdIZGF1eVdQaDVySE0tRF9hclJKNml5c1BuTFNHMy1IRmJsOWpRMGZoSWlZQl9SUzVucmJPbzRGR1Q3VEgxOFpidHV6cDFWeW02NWo1QWNNc2hOZEVkX2pNYnlNZTFPYXl2aDY4UWtPN2s5N3F2SER4ZFhyblFyQ29TMWZWTjJYYThXeVgxbDlFZlNzWmpnd3llR0s5RHlLVExwOFp4SF9RcjBFZkZQWnloZzhpMlJmeFB2Zw?oc=5)
 
