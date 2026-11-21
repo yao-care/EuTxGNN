@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Dronedarone. 9 predicted indications."
 permalink: /news/dronedarone/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-21
 ---
 
 # Dronedarone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>134 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>142 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,61 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (134)
+## Related News (142)
+
+### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVZKTndvN19uWDlHU2lUZi1NVnVhSG9QSzh4YlhIMmhPZWY0Rlh0N3BURU0tM3YzR29mczZhMnNQX2VCbG9GSUhzNm0yTHdvVTFISm1wOUdzOUg3bWJpSVJSalo5SnhCVjFLdUFVT0JITjUzdkQ0QmMwbnJkdkI3MWF2aUo4UklVU01WMlpPQzJCTHNuX05yU0NKczlGeUhQODVEWDlqTVhwaFhjVzBZTnBRdEJhX2VBTVNn?oc=5)
+
+2026-11-21 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVZKTndvN19uWDlHU2lUZi1NVnVhSG9QSzh4YlhIMmhPZWY0Rlh0N3BURU0tM3YzR29mczZhMnNQX2VCbG9GSUhzNm0yTHdvVTFISm1wOUdzOUg3bWJpSVJSalo5SnhCVjFLdUFVT0JITjUzdkQ0QmMwbnJkdkI3MWF2aUo4UklVU01WMlpPQzJCTHNuX05yU0NKczlGeUhQODVEWDlqTVhwaFhjVzBZTnBRdEJhX2VBTVNn?oc=5)
+
+---
+
+### [Las enfermedades cardiovasculares y sus factores de riesgo desempeñan un papel clave en desarrollo de demencia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcFVhX0VYSk54czdRcXI0YjFnQmt3RUR0V3VTS3UzdV9na2dLb1hleTVyVmNxRW5QbTFqTUNqVU04ZzBhOVdsbl9hQjNoSlp5UlpJYlpkVmRkNEtCODFwNGh6RXZINTdWdlg5REVreGhEbXlVM0R4TnpEczNMLTkxdFlnLXo3SXZmcURUc1phVm93aVYxV2laVzhLT05xTGFFMjVtZzZFYVJac0o0X0ttckZKTWVvcFVvMDZQQnlRZVA2WHdWMFExX0VQM0lXbi1nZjBia1NEaVd5SU1MM3ZZV0I3TTAtWFVK?oc=5)
+
+2026-11-20 <span class="news-indication-tag">ictus</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcFVhX0VYSk54czdRcXI0YjFnQmt3RUR0V3VTS3UzdV9na2dLb1hleTVyVmNxRW5QbTFqTUNqVU04ZzBhOVdsbl9hQjNoSlp5UlpJYlpkVmRkNEtCODFwNGh6RXZINTdWdlg5REVreGhEbXlVM0R4TnpEczNMLTkxdFlnLXo3SXZmcURUc1phVm93aVYxV2laVzhLT05xTGFFMjVtZzZFYVJac0o0X0ttckZKTWVvcFVvMDZQQnlRZVA2WHdWMFExX0VQM0lXbi1nZjBia1NEaVd5SU1MM3ZZV0I3TTAtWFVK?oc=5)
+
+---
+
+### [Qué comer para la salud del cerebro: «El aceite de oliva virgen extra se relaciona con la reducción del riesgo de demencia» - La Voz de Galicia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdk9oUlpLM3JGak9yYi15SGZqS0hkbDJ3TEFMSjZmYjg5SDBfaHpZOTVGZDc0WkxEV2lDOThvdjlMMGV0ckxSM3FJMXdvQ3huUmhCV2ZNLVZDeFNmS2lVZU5jSklHOUZNTnpwcXV5RnZmR0lycHVkUHptQXJMcU1MYjN0RFluazBjMmlSQlJxcEpWd3pQbjhUZFh1WkttYjctd2xXNEFzSExvYU81a1dCQzllc3gtN2xUMnhCOWFRc2ZZWUdYTHhrdzFHMGg0WTZSNTlsX3pLYmh3NV9LOXJOcWZzUFN0Nm8wM0NPNnhSS25JTVA5LXRoX2REV3gwRVhDSnBoMHVZTkhJLUHSAZACQVVfeXFMUGRQOFdGUnEwbUhCLUhrdUZkb2J6eG4xbkRIeGFGWmdKR2ExVlZCWVlNSWRWOTVuWjAta09xak0yTld1aTNKVld6eEtlelZoN1BKT0xxdlFfY3p6ZHhJbXEtSXgzOUlzY3ZwRFhPOEc5UzBnX0p1V2tWa2V5MnQ2OVFGVExRa3l0RVBINWRUbUd5blFpSWVwU1YtdnhjWnRLdDBXTUNSLV9fTXhmTVdaX0JKaDZ6ZFFndmpjYk56WDR3dnU1b2xHYi16OFFZcGplVVBqUkpSYUVkSGR1emRvM3pENnVhTkhLN0JFOW8xQjIwWU5ONEtKQk1SQ2NZa3NkcUlfdWhqT0hLcXdHM0VkLXk?oc=5)
+
+2026-11-20 <span class="news-indication-tag">ictus</span>
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdk9oUlpLM3JGak9yYi15SGZqS0hkbDJ3TEFMSjZmYjg5SDBfaHpZOTVGZDc0WkxEV2lDOThvdjlMMGV0ckxSM3FJMXdvQ3huUmhCV2ZNLVZDeFNmS2lVZU5jSklHOUZNTnpwcXV5RnZmR0lycHVkUHptQXJMcU1MYjN0RFluazBjMmlSQlJxcEpWd3pQbjhUZFh1WkttYjctd2xXNEFzSExvYU81a1dCQzllc3gtN2xUMnhCOWFRc2ZZWUdYTHhrdzFHMGg0WTZSNTlsX3pLYmh3NV9LOXJOcWZzUFN0Nm8wM0NPNnhSS25JTVA5LXRoX2REV3gwRVhDSnBoMHVZTkhJLUHSAZACQVVfeXFMUGRQOFdGUnEwbUhCLUhrdUZkb2J6eG4xbkRIeGFGWmdKR2ExVlZCWVlNSWRWOTVuWjAta09xak0yTld1aTNKVld6eEtlelZoN1BKT0xxdlFfY3p6ZHhJbXEtSXgzOUlzY3ZwRFhPOEc5UzBnX0p1V2tWa2V5MnQ2OVFGVExRa3l0RVBINWRUbUd5blFpSWVwU1YtdnhjWnRLdDBXTUNSLV9fTXhmTVdaX0JKaDZ6ZFFndmpjYk56WDR3dnU1b2xHYi16OFFZcGplVVBqUkpSYUVkSGR1emRvM3pENnVhTkhLN0JFOW8xQjIwWU5ONEtKQk1SQ2NZa3NkcUlfdWhqT0hLcXdHM0VkLXk?oc=5)
+
+---
+
+### [Colesterolo Ldl e rischio infarto ed ictus, quanto ne sanno davvero gli over-50? - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVmw1dmoybzJWRHVDU243cG1qck15czlvU0xLY1dkT2N0OWpoYXFueUstVk51SjBXWDlIb1hTMFdkR0dncG80SGVDQ1F0c0lzU0MwNmo2cVVoYXRuTTJtclFzclJvODktb2lfXzN0LTFhNUFnVjRPcER6a3ZyMk1VMk9BUWVPLXlDY3UxV2FBY21WbGlZZWYwdW5QV1FLQURIRGNpRGg4eGw3c1NqckVVeVlGOWtWUQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">ictus</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVmw1dmoybzJWRHVDU243cG1qck15czlvU0xLY1dkT2N0OWpoYXFueUstVk51SjBXWDlIb1hTMFdkR0dncG80SGVDQ1F0c0lzU0MwNmo2cVVoYXRuTTJtclFzclJvODktb2lfXzN0LTFhNUFnVjRPcER6a3ZyMk1VMk9BUWVPLXlDY3UxV2FBY21WbGlZZWYwdW5QV1FLQURIRGNpRGg4eGw3c1NqckVVeVlGOWtWUQ?oc=5)
+
+---
 
 ### [Il colesterolo è basso ma i trigliceridi sono alti: che cosa raccontano gli esami](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGpCcjcwT0t1Mk9jdk1nYXVoYzNlVXdlNEhiTnp2RnBXbjJ6U25pUmFWWDZrbmlVa3JqVzk2c085Vi1wLThJdllUblZqaGs3dkFFaXd5OVNla2xFQ1d1b1dJS3ZNWUZ4OEN5d3dPWEdKbnlHeFdIa3kzcTc5ZWttR3ByOG9QUTM2dFYxSGRmMUxDU0drMnVNeDVKa25uR0tua0wtd3RYc3QyNEJLNUJZb0xJc2ltNFFwamNNeXhXYkk3MldicWdlaGNfQQ?oc=5)
 
 2026-11-19 <span class="news-indication-tag">ictus</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGpCcjcwT0t1Mk9jdk1nYXVoYzNlVXdlNEhiTnp2RnBXbjJ6U25pUmFWWDZrbmlVa3JqVzk2c085Vi1wLThJdllUblZqaGs3dkFFaXd5OVNla2xFQ1d1b1dJS3ZNWUZ4OEN5d3dPWEdKbnlHeFdIa3kzcTc5ZWttR3ByOG9QUTM2dFYxSGRmMUxDU0drMnVNeDVKa25uR0tua0wtd3RYc3QyNEJLNUJZb0xJc2ltNFFwamNNeXhXYkk3MldicWdlaGNfQQ?oc=5)
+
+---
+
+### [Colesterolo, per la prevenzione cardiovascolare non basta abbassare i valori](https://news.google.com/rss/articles/CBMimAJBVV95cUxQSkhoZXYxT2JhWWI5U3N6ODRjR1JaVzE2b1pKMkdwcnBqMWNkOUZMTFVmMndRR0xScUpWYjZJT1pzbnZqUGhfRGFCZ0VqTmtfNGw1UEVFWEFRUy1iOHNyYThaaW44aHdja0hSakVWOG9BVnhLTV8yMnBBM1VWcjM4T3g3NFphU1c4NVQ0X3NWVkFaOUhMajgwaE5ZUWEzMU5KWnlZVnp3dEVjNHJROXZsVnZPUkxBaGhkX1VwdWJmSjZKMHNrLXZPYWtwTkdtdkM4T0NhLUJkOFZ3dUhPWXdlRV9pV0lTa1VfeGFEM3MxeXB4Zm1Mc0hicDJ3ZV84dUZDeDNObGppZHFGWUtQb1IwbGVtc0kzOC1E0gGeAkFVX3lxTFBPYkhIczlKSFdOMWQ5cTlNT1pKWWNnYWhaU3VHWXhUUWxmZ1RSRFc0emFRdHd1RjFVQzJZeFJhdWlqdEJiVFNrbTdwd2JFWWhqNEFpN29uWE1WYWhNT19mVXVGbXRiREtYM2ZxTW1ZRXNBNHdyMmkyM0FVbzIyaEstSVZXN1JFMENzUWdhZzUtalFhMmU0cXN2ZEh6WjlIeXljT3kwNk5maFdnZ1hfUTV5Mi1RQkxsbWNWSkhjVzVFVGZzdzhNQWFBcWVVRXdrXzZGMGRRVHFyMUFOaHU4cGpCWmpIeUY3OTVMajRLMUlYSmVrVDdNVnMtNE9uVDdWejVjR3BVampQaWxpcDZwSkdMR28tWk9mWGtvaGh3VFE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">ictus</span>
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMimAJBVV95cUxQSkhoZXYxT2JhWWI5U3N6ODRjR1JaVzE2b1pKMkdwcnBqMWNkOUZMTFVmMndRR0xScUpWYjZJT1pzbnZqUGhfRGFCZ0VqTmtfNGw1UEVFWEFRUy1iOHNyYThaaW44aHdja0hSakVWOG9BVnhLTV8yMnBBM1VWcjM4T3g3NFphU1c4NVQ0X3NWVkFaOUhMajgwaE5ZUWEzMU5KWnlZVnp3dEVjNHJROXZsVnZPUkxBaGhkX1VwdWJmSjZKMHNrLXZPYWtwTkdtdkM4T0NhLUJkOFZ3dUhPWXdlRV9pV0lTa1VfeGFEM3MxeXB4Zm1Mc0hicDJ3ZV84dUZDeDNObGppZHFGWUtQb1IwbGVtc0kzOC1E0gGeAkFVX3lxTFBPYkhIczlKSFdOMWQ5cTlNT1pKWWNnYWhaU3VHWXhUUWxmZ1RSRFc0emFRdHd1RjFVQzJZeFJhdWlqdEJiVFNrbTdwd2JFWWhqNEFpN29uWE1WYWhNT19mVXVGbXRiREtYM2ZxTW1ZRXNBNHdyMmkyM0FVbzIyaEstSVZXN1JFMENzUWdhZzUtalFhMmU0cXN2ZEh6WjlIeXljT3kwNk5maFdnZ1hfUTV5Mi1RQkxsbWNWSkhjVzVFVGZzdzhNQWFBcWVVRXdrXzZGMGRRVHFyMUFOaHU4cGpCWmpIeUY3OTVMajRLMUlYSmVrVDdNVnMtNE9uVDdWejVjR3BVampQaWxpcDZwSkdMR28tWk9mWGtvaGh3VFE?oc=5)
+
+---
+
+### [GLP-1-RA: Trennungsschmerz fürs Herz - DocCheck News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlkweURkSE52NXNHREtmazQ1akxUc0ZKTG5VXzloejZHQ0FXTThDVzUtRVhiWHJqTm44MW10czZLMUhxRWRqcmlkZmJDQ3JHYnBrUlprX01UVmt2Q0s5MDhvY19XTi1PTUd3b1dFMThPdXZtUGU3XzdTb0ludFpGUW9vQlNpOVNKRml5MlA2RQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [DocCheck News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlkweURkSE52NXNHREtmazQ1akxUc0ZKTG5VXzloejZHQ0FXTThDVzUtRVhiWHJqTm44MW10czZLMUhxRWRqcmlkZmJDQ3JHYnBrUlprX01UVmt2Q0s5MDhvY19XTi1PTUd3b1dFMThPdXZtUGU3XzdTb0ludFpGUW9vQlNpOVNKRml5MlA2RQ?oc=5)
 
 ---
 
@@ -80,6 +128,14 @@ Source: [JeChange](https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1oxNlJu
 2026-11-19 <span class="news-indication-tag">stroke</span>
 
 Source: [The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1ucWdHdXozajFDSmtXUlRoUzlaOEZidGZ0SFFjSnJNQkpmOTZKY2todTZrNm5jVUhOU1NtTGQxb0hJUEpLV1FXbk9GNm95MTcxYlBYWmdpZ05LYUZmZ0ZGOUo1b0tKX0E5RnFkalEzX0xXTEHSAXhBVV95cUxNZjdaTWZjUUUzeERNLUFVN3dHUTJFVW1PeU92bEFKVjUtRjV3LWt2bzh4Ty1JN2V5ZjhoS3ZKdXhRa0F4bEVpeHI1b2VIVHZUa0tVd3F3cUVPSzMyd1hXZmFSUFNxMlRIaEtKb1NiNGFYS29XMmRMU2w?oc=5)
+
+---
+
+### [Vorhofflimmern bei Frauen: Diese Symptome werden oft übersehen](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR25ZVWZBV1I5aXZ1UEhxbk1wNks2YkRITndwYTQ5NEpvMDg1LTg4c3NlbVRoemxFYXQ4N3lOb216ejlvSk40SHEzMmRvMGpIcDFpSlo5SEJaV09WeW5SZjBRNUw0RjIzVlhnUm5wZnpMZnBwY2xUTHJjdjJ4UzZxbFJ0V1M3RC13OGJHU1dxODdsa0gyaWZBeFNTbE9PUjA?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR25ZVWZBV1I5aXZ1UEhxbk1wNks2YkRITndwYTQ5NEpvMDg1LTg4c3NlbVRoemxFYXQ4N3lOb216ejlvSk40SHEzMmRvMGpIcDFpSlo5SEJaV09WeW5SZjBRNUw0RjIzVlhnUm5wZnpMZnBwY2xUTHJjdjJ4UzZxbFJ0V1M3RC13OGJHU1dxODdsa0gyaWZBeFNTbE9PUjA?oc=5)
 
 ---
 
@@ -125,7 +181,7 @@ Source: [food-monitor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcE03
 
 ### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 
-2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 
@@ -203,9 +259,17 @@ Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3AFBVV95cU
 
 ---
 
+### [Schlaganfall: Kein Rätselraten im Rettungswagen - DocCheck News](https://news.google.com/rss/articles/CBMingFBVV95cUxNMHExMWZlRkFhRjlkZWotN2JSSUw3N19UUW9OUE1PRDdUSTdvcUFhSk8wUG5XTzZZRlF6Q1RDWmxSQVlhdjU5SHdZak1vRk04bjU2VHlnZ0FSYjZCNTNUaGVCb1NrdmY0Qm1DRDJBbkYzN000dEZzOXU3SU0zUlRDQnNCN2E2bzFNNjVVQXA0a3FFeUtEY3JxLWFEdGlOdw?oc=5)
+
+2026-11-16 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [DocCheck News](https://news.google.com/rss/articles/CBMingFBVV95cUxNMHExMWZlRkFhRjlkZWotN2JSSUw3N19UUW9OUE1PRDdUSTdvcUFhSk8wUG5XTzZZRlF6Q1RDWmxSQVlhdjU5SHdZak1vRk04bjU2VHlnZ0FSYjZCNTNUaGVCb1NrdmY0Qm1DRDJBbkYzN000dEZzOXU3SU0zUlRDQnNCN2E2bzFNNjVVQXA0a3FFeUtEY3JxLWFEdGlOdw?oc=5)
+
+---
+
 ### [Starke Blutdrucksenkung: Vorteil beim Schlaganfall, nicht bei Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
 
-2026-11-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">stroke</span>
+2026-11-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVxTktkSldLMTN2Q3d0LVVCblEwNVg0QjdXY0tYVkNxOU5zelVDUC1aeG40X283d1BhNThxWmZFMEktcnhwTTB3bkxOdDFJclljOHdxb3l6VldINUJxcmlpcHVvT1RTRE5TNjVCNjI3U0t2NG9iQXB0Wi01TUtNcTdGOUtUNkpmMmIyVmRZenp5amZYajhUSTNoTzZOV21XSTNGSmQycFJEUQ?oc=5)
 

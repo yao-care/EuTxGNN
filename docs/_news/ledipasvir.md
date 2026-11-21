@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ledipasvir. 10 predicted indications."
 permalink: /news/ledipasvir/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Ledipasvir News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Ledipasvir?">
-<strong>Ledipasvir</strong> currently has <strong>27 news articles</strong>, with 10 predicted indications.
+<strong>Ledipasvir</strong> currently has <strong>30 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ This page combines the AI-predicted indications for Ledipasvir with the latest h
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (27)
+## Related News (30)
+
+### [Ribavirin-Therapie: Risikofaktoren für komplizierte Verläufe bei chronischer Hepatitis E](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmo3NFZ0SXRwWGZ0SjFlUy1NaHpzamwyWWh2MW03djVRYnBIeUFuT0NxcURDU00wOXc0blJBdHpHSVlzSTdCOXRyLVBnUWdEQVVEMDhFS3ZoRjlidk0zdTR1TWY5YlU3aDA2U2RacVlhMmp1TkRvb2RBU2x4LWpHRWNSbVFPRlA0ekRyelZyaTdmVFZTblhEVUd2Y1BvazJ5Z0E?oc=5)
+
+2026-11-20 <span class="news-indication-tag">hepatitis</span>
+
+Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmo3NFZ0SXRwWGZ0SjFlUy1NaHpzamwyWWh2MW03djVRYnBIeUFuT0NxcURDU00wOXc0blJBdHpHSVlzSTdCOXRyLVBnUWdEQVVEMDhFS3ZoRjlidk0zdTR1TWY5YlU3aDA2U2RacVlhMmp1TkRvb2RBU2x4LWpHRWNSbVFPRlA0ekRyelZyaTdmVFZTblhEVUd2Y1BvazJ5Z0E?oc=5)
+
+---
+
+### [Reunión Anual SEN: Lo que comen, cómo se mueven y sus hábitos de vida influyen en los pacientes con esclerosis múltiple - IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUM4aEJQbVZHREloU0RVby1vb2FoTkpnam5TZDVKem9HOE9lYkswNEZWRDlEN1JpTlhBbWNOM1dZYncxVzlMRE1fVnZuS0ZlaHBqNEVKR0RjV285OF9Id2JJQTFHUmZ0N3lHY0dCbVp1cVp1ME9Eb252c3c2RkNyTy1MVm80bXNqYnBReHYxajhkTG04ZjVwb0RqRG5jYVBMTzF5QkQxeGlZQUo4RFVDRm8zVUhYYjJnOXfSAbQBQVVfeXFMTy1HS2c5a0Z2bE8xWVJpLVJWdFBPbHRFNmhiR0pHUk0zblV5akNPYk9wSUhqM1U4eVFBSUU5Z0NaMmcyYTVsMUpCNkEzVXQ0UDlYM2w2MW82eVB6dEtkc09EMFpYLTB3Rmg0WURsdGhmcUtCWTF3SHY5U1Z2NHRCX0NMZWo5M2pKaEhES1prZmRzZ2FvVzdvc2d1LVRaZTVsTmFES2NsZWxpYUdDdzAtbnJGNEpz?oc=5)
+
+2026-11-20 <span class="news-indication-tag">esclerosis múltiple</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUM4aEJQbVZHREloU0RVby1vb2FoTkpnam5TZDVKem9HOE9lYkswNEZWRDlEN1JpTlhBbWNOM1dZYncxVzlMRE1fVnZuS0ZlaHBqNEVKR0RjV285OF9Id2JJQTFHUmZ0N3lHY0dCbVp1cVp1ME9Eb252c3c2RkNyTy1MVm80bXNqYnBReHYxajhkTG04ZjVwb0RqRG5jYVBMTzF5QkQxeGlZQUo4RFVDRm8zVUhYYjJnOXfSAbQBQVVfeXFMTy1HS2c5a0Z2bE8xWVJpLVJWdFBPbHRFNmhiR0pHUk0zblV5akNPYk9wSUhqM1U4eVFBSUU5Z0NaMmcyYTVsMUpCNkEzVXQ0UDlYM2w2MW82eVB6dEtkc09EMFpYLTB3Rmg0WURsdGhmcUtCWTF3SHY5U1Z2NHRCX0NMZWo5M2pKaEhES1prZmRzZ2FvVzdvc2d1LVRaZTVsTmFES2NsZWxpYUdDdzAtbnJGNEpz?oc=5)
+
+---
 
 ### [Hepatitis-C: Heilbar – aber oft unentdeckt](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDI5YmZVbDlGUHA3VTRVbHNiQ015M3JGeVF5Q2ZnLWxMNE1RTmJRcF9OOUdTczlGXzZpWVZxV0dBcFVHMlFQZG1HdXFfWmNUUTlTNTc1TEZpdjA1NWMxcDhCSjJNajc0dkY5RFU1Ni05a0twTlBfNlJXTzVkczVQOXdGbE1lLU9mVm9MaGc1dFBMbmh4dE5PVnJLWQ?oc=5)
 
 2026-11-19 <span class="news-indication-tag">hepatitis</span>
 
 Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDI5YmZVbDlGUHA3VTRVbHNiQ015M3JGeVF5Q2ZnLWxMNE1RTmJRcF9OOUdTczlGXzZpWVZxV0dBcFVHMlFQZG1HdXFfWmNUUTlTNTc1TEZpdjA1NWMxcDhCSjJNajc0dkY5RFU1Ni05a0twTlBfNlJXTzVkczVQOXdGbE1lLU9mVm9MaGc1dFBMbmh4dE5PVnJLWQ?oc=5)
+
+---
+
+### [Scientists identify molecule that may boost brain repair in multiple sclerosis - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnpQY2gyWWVoTHNrcTVsVmJ3T1dMTHZia2hJMFRFRDZGRnJoR1JUQ1FnYWJMMXVJR0xWZjI1Mk4wazBZU29HSjFKUWFlX21pNmNYcUt6TFpfYWh5ZEFzRHc2cHhSZWpGa015cVJUdFVSdEFDVlRuRm1SLVQ2dk9sYUlmak5kYWdVSVlFWUxSOUY2V0lmSVh5ZkJvZk9aVlVLSUh5b2VhWjRPTmtxNk9PM0VB?oc=5)
+
+2026-11-19 <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnpQY2gyWWVoTHNrcTVsVmJ3T1dMTHZia2hJMFRFRDZGRnJoR1JUQ1FnYWJMMXVJR0xWZjI1Mk4wazBZU29HSjFKUWFlX21pNmNYcUt6TFpfYWh5ZEFzRHc2cHhSZWpGa015cVJUdFVSdEFDVlRuRm1SLVQ2dk9sYUlmak5kYWdVSVlFWUxSOUY2V0lmSVh5ZkJvZk9aVlVLSUh5b2VhWjRPTmtxNk9PM0VB?oc=5)
 
 ---
 

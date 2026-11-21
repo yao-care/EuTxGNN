@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "MS (multiple sclerosis) News"
+title: "esclerosis múltiple (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 16 articles, 26 related drugs."
+description: "Health news about esclerosis múltiple (multiple sclerosis). 18 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
-# MS (multiple sclerosis) News
+# esclerosis múltiple (multiple sclerosis) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>16 news articles</strong> and 26 related drugs.
+<p class="key-answer" data-question="What news is there about esclerosis múltiple (multiple sclerosis)?">
+<strong>esclerosis múltiple (multiple sclerosis)</strong> currently has <strong>18 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “MS” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “esclerosis múltiple” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -48,7 +48,23 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (16)
+## Related News (18)
+
+### [Reunión Anual SEN: Lo que comen, cómo se mueven y sus hábitos de vida influyen en los pacientes con esclerosis múltiple - IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUM4aEJQbVZHREloU0RVby1vb2FoTkpnam5TZDVKem9HOE9lYkswNEZWRDlEN1JpTlhBbWNOM1dZYncxVzlMRE1fVnZuS0ZlaHBqNEVKR0RjV285OF9Id2JJQTFHUmZ0N3lHY0dCbVp1cVp1ME9Eb252c3c2RkNyTy1MVm80bXNqYnBReHYxajhkTG04ZjVwb0RqRG5jYVBMTzF5QkQxeGlZQUo4RFVDRm8zVUhYYjJnOXfSAbQBQVVfeXFMTy1HS2c5a0Z2bE8xWVJpLVJWdFBPbHRFNmhiR0pHUk0zblV5akNPYk9wSUhqM1U4eVFBSUU5Z0NaMmcyYTVsMUpCNkEzVXQ0UDlYM2w2MW82eVB6dEtkc09EMFpYLTB3Rmg0WURsdGhmcUtCWTF3SHY5U1Z2NHRCX0NMZWo5M2pKaEhES1prZmRzZ2FvVzdvc2d1LVRaZTVsTmFES2NsZWxpYUdDdzAtbnJGNEpz?oc=5)
+
+2026-11-20
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUM4aEJQbVZHREloU0RVby1vb2FoTkpnam5TZDVKem9HOE9lYkswNEZWRDlEN1JpTlhBbWNOM1dZYncxVzlMRE1fVnZuS0ZlaHBqNEVKR0RjV285OF9Id2JJQTFHUmZ0N3lHY0dCbVp1cVp1ME9Eb252c3c2RkNyTy1MVm80bXNqYnBReHYxajhkTG04ZjVwb0RqRG5jYVBMTzF5QkQxeGlZQUo4RFVDRm8zVUhYYjJnOXfSAbQBQVVfeXFMTy1HS2c5a0Z2bE8xWVJpLVJWdFBPbHRFNmhiR0pHUk0zblV5akNPYk9wSUhqM1U4eVFBSUU5Z0NaMmcyYTVsMUpCNkEzVXQ0UDlYM2w2MW82eVB6dEtkc09EMFpYLTB3Rmg0WURsdGhmcUtCWTF3SHY5U1Z2NHRCX0NMZWo5M2pKaEhES1prZmRzZ2FvVzdvc2d1LVRaZTVsTmFES2NsZWxpYUdDdzAtbnJGNEpz?oc=5)
+
+---
+
+### [Scientists identify molecule that may boost brain repair in multiple sclerosis - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnpQY2gyWWVoTHNrcTVsVmJ3T1dMTHZia2hJMFRFRDZGRnJoR1JUQ1FnYWJMMXVJR0xWZjI1Mk4wazBZU29HSjFKUWFlX21pNmNYcUt6TFpfYWh5ZEFzRHc2cHhSZWpGa015cVJUdFVSdEFDVlRuRm1SLVQ2dk9sYUlmak5kYWdVSVlFWUxSOUY2V0lmSVh5ZkJvZk9aVlVLSUh5b2VhWjRPTmtxNk9PM0VB?oc=5)
+
+2026-11-19
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnpQY2gyWWVoTHNrcTVsVmJ3T1dMTHZia2hJMFRFRDZGRnJoR1JUQ1FnYWJMMXVJR0xWZjI1Mk4wazBZU29HSjFKUWFlX21pNmNYcUt6TFpfYWh5ZEFzRHc2cHhSZWpGa015cVJUdFVSdEFDVlRuRm1SLVQ2dk9sYUlmak5kYWdVSVlFWUxSOUY2V0lmSVh5ZkJvZk9aVlVLSUh5b2VhWjRPTmtxNk9PM0VB?oc=5)
+
+---
 
 ### [MS war lange Utopie: „Ich fühle mich wie ein Frosch in heißem Wasser“](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVXN3bHJlRkFRTnBHaW82UUdZajdGSlhjLXQtWGRwdW90c1VGT1lILTBOVVZrcFh0UE9NZlNodWN1alZRRTlpRGdlQkJMaENNcWtxOVl1cnYzQzJXSGdxbDVtS080OHoySmdzSkxCWE5qZXlKQjAtVHhMY3BZS0hGRmczaXZhZmxOT01mM3ctM2h1dWFXOHNHaVZ4T01HaGpjdEpSdVh0TDdyeW1adFFwVXZoOS1NcEN5S0ZUaWE5cHZtVnBZRnh2RW4yX09XbWNKZkZ0ZHRJLU1ac1Bo?oc=5)
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "obesidad (obesity) News"
+title: "Adipositas (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 121 articles, 8 related drugs."
+description: "Health news about Adipositas (obesity). 124 articles, 8 related drugs."
 permalink: /news/obesity/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
-# obesidad (obesity) News
+# Adipositas (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>121 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
+<strong>Adipositas (obesity)</strong> currently has <strong>124 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “obesidad” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Adipositas” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,7 +37,47 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (121)
+## Related News (124)
+
+### [GESUNDHEITSRUNDSCHAU - GLP-1-Medikamente verbessern Herzfunktion bei Patienten mit Adipositas und Herzinsuffizienz - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZmgtckgyaVE3aHJhUW1zc3pneG1PZ01NQkJncm9ZRWhFNnhlY3RYd29pRDlFcWpmVXJkekVodzV3NEJFbktWRWhIWm54ZjY2am5OVFNhUHhadThTVzZQSHBKM1JkQXZXSDdMRnZfX0gySDgwSE5UWmJvQS1vZjZwVkp2bjdIOEJiS1RnME9VdzJBQW1rdUZYTlBDMV9FWmd2N3V6X2R1amZSQWVkbjdxamM0NlhSS3JzYWMxcFNmTnM2VWZQUl9ZYzMyRGYzeVEwOC1HSTRyQ1dtYzQwRGpZYjQtbVEtaV9NT0Fub2NmV1hrdEw2ZG1r?oc=5)
+
+2026-11-20
+
+Source: [MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZmgtckgyaVE3aHJhUW1zc3pneG1PZ01NQkJncm9ZRWhFNnhlY3RYd29pRDlFcWpmVXJkekVodzV3NEJFbktWRWhIWm54ZjY2am5OVFNhUHhadThTVzZQSHBKM1JkQXZXSDdMRnZfX0gySDgwSE5UWmJvQS1vZjZwVkp2bjdIOEJiS1RnME9VdzJBQW1rdUZYTlBDMV9FWmd2N3V6X2R1amZSQWVkbjdxamM0NlhSS3JzYWMxcFNmTnM2VWZQUl9ZYzMyRGYzeVEwOC1HSTRyQ1dtYzQwRGpZYjQtbVEtaV9NT0Fub2NmV1hrdEw2ZG1r?oc=5)
+
+---
+
+### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+
+2026-11-20
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+
+---
+
+### [La obesidad tiene memoria y el hígado conversa con la grasa: así es el diálogo entre órganos que condiciona el peso - La Voz de Galicia](https://news.google.com/rss/articles/CBMijAJBVV95cUxQQjNhck9Nb1ZBbHNmTXhibW1WaWFOT01EeDd2aW9KaFIzdTZDV1JsNzI1VjJEMHVlZEExVzlDbDVkbEhZbnZsZGF2WkNHcWxzSk9wVm82ZFowQUp6b3ZBMnlSMnd3LTNnYXZaeG52bE1JaXBabUlJZ3VNUm52NkR3MzkwaXJ3X0dkNGQ1SWxCRHZJT3BoMHZYYmRFbVloWW1LM1dBcWRSNGNjdjJ2QlRqLXc2bkpyT0NwanRPd0VoenRISmJ3R2FPek5EcFVWVHJLakVYTXVVT01ZTkNBU0J5a3NwS3kzV1UtV216VmVYRlY3MFJXRjRQMGZ3Vmg4dzRDNUdsTGV2cVpKM0Yz0gGSAkFVX3lxTE5NOUtYNjRQS2s4X3JuTGdEV0M3aklZUUNZSG1yMy1pWFRCeTBFNDVrOWhxME5KS3ZFNWJpSVBzanRyekFXYnRySll4MjRBblR0X3kyZlRrd1hEWGdSa0xmSlVoZ0NyQi1uVkNUV2NwSmVzb216WnZwN0g5OU1EYk1FTk16dHNUVUtvQUE3OWFMMVByaVJBZ2xKRlZwUkhfNnZjaHptT29rRDVvUEx4SF83VWhjVEdhZHZCdkVhTVFnYWJVU3hiUVRiVksyRHZyVGRxQjV0dXhycllSb0YtNjhob1BDSnBjRVNMQlVtSWg1b0xCeUEybm00Wkh0Unh6a1BNaV9SMmp6dW1DTWd2Zm43Ymc?oc=5)
+
+2026-11-20
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMijAJBVV95cUxQQjNhck9Nb1ZBbHNmTXhibW1WaWFOT01EeDd2aW9KaFIzdTZDV1JsNzI1VjJEMHVlZEExVzlDbDVkbEhZbnZsZGF2WkNHcWxzSk9wVm82ZFowQUp6b3ZBMnlSMnd3LTNnYXZaeG52bE1JaXBabUlJZ3VNUm52NkR3MzkwaXJ3X0dkNGQ1SWxCRHZJT3BoMHZYYmRFbVloWW1LM1dBcWRSNGNjdjJ2QlRqLXc2bkpyT0NwanRPd0VoenRISmJ3R2FPek5EcFVWVHJLakVYTXVVT01ZTkNBU0J5a3NwS3kzV1UtV216VmVYRlY3MFJXRjRQMGZ3Vmg4dzRDNUdsTGV2cVpKM0Yz0gGSAkFVX3lxTE5NOUtYNjRQS2s4X3JuTGdEV0M3aklZUUNZSG1yMy1pWFRCeTBFNDVrOWhxME5KS3ZFNWJpSVBzanRyekFXYnRySll4MjRBblR0X3kyZlRrd1hEWGdSa0xmSlVoZ0NyQi1uVkNUV2NwSmVzb216WnZwN0g5OU1EYk1FTk16dHNUVUtvQUE3OWFMMVByaVJBZ2xKRlZwUkhfNnZjaHptT29rRDVvUEx4SF83VWhjVEdhZHZCdkVhTVFnYWJVU3hiUVRiVksyRHZyVGRxQjV0dXhycllSb0YtNjhob1BDSnBjRVNMQlVtSWg1b0xCeUEybm00Wkh0Unh6a1BNaV9SMmp6dW1DTWd2Zm43Ymc?oc=5)
+
+---
+
+### [Arthrose du genou : un nouveau médicament contre l’obésité réduit fortement les douleurs ! - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizgFBVV95cUxPcEMyVWtIdmNsVzduUXl5WmJHOC1lZ00zclppYTlVSXBCbDRNTVJSNUhFMF9qa3Bwalk2LXZqQ2JEWU1qaWVQbUY5TU9wVkhGb25XM1p5aVhOcmZZUDEyeDdaVS16RWZLT1FTSk4yZUlmV0FiZktrRVVkSWZza3F5WWNmYUlLWllKM0lKNU1lUFlSZW1ndjU2dllZNGZsQ3ZwRDNDMF9PdG9yMkpPbFJyejhKMnE5X2FGMGE4QTNMdXFWdDg2ZUZpWkVxZk04UQ?oc=5)
+
+2026-11-20
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizgFBVV95cUxPcEMyVWtIdmNsVzduUXl5WmJHOC1lZ00zclppYTlVSXBCbDRNTVJSNUhFMF9qa3Bwalk2LXZqQ2JEWU1qaWVQbUY5TU9wVkhGb25XM1p5aVhOcmZZUDEyeDdaVS16RWZLT1FTSk4yZUlmV0FiZktrRVVkSWZza3F5WWNmYUlLWllKM0lKNU1lUFlSZW1ndjU2dllZNGZsQ3ZwRDNDMF9PdG9yMkpPbFJyejhKMnE5X2FGMGE4QTNMdXFWdDg2ZUZpWkVxZk04UQ?oc=5)
+
+---
+
+### [Nuevos fármacos contra la obesidad: desafío para mantenerse al día](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm1JSUVHRl84OFpjVmpHQm1aWlRwaXMtRWNoRWQ0cmYwS0lsdlY2LVFDNGF2SndUYXR0WlpobTBSQ1lhRDFtQ0dYWU5RUFNPcUV5azdVUW56VE1MNE9kRnhsR3JUOFJtWHc1XzFjdTYxVEJxaXcwX1dDUHZhc2tsbXJHRU5sT0Zwd01BWERiMmNwdjdOT3EzRFo1YlFIZ09XakVFa0NBcXJDZ0xsVWc?oc=5)
+
+2026-11-20
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm1JSUVHRl84OFpjVmpHQm1aWlRwaXMtRWNoRWQ0cmYwS0lsdlY2LVFDNGF2SndUYXR0WlpobTBSQ1lhRDFtQ0dYWU5RUFNPcUV5azdVUW56VE1MNE9kRnhsR3JUOFJtWHc1XzFjdTYxVEJxaXcwX1dDUHZhc2tsbXJHRU5sT0Zwd01BWERiMmNwdjdOT3EzRFo1YlFIZ09XakVFa0NBcXJDZ0xsVWc?oc=5)
+
+---
 
 ### [Reunión Anual SEN: La obesidad aumenta el riesgo de ictus y plantea nuevos desafíos en la rehabilitación - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSU5rQzkwTHJBM0dtQUVNN0NVbWZfMFVuT2l0Ni1CX0dYU0w3LXdib3VRbDRBVmFjSjlrNURyMDYyZWdvMVA3cDJib2wzMnVhVy0wU1pDRk9OekxjbldTUlRNSkZzaFFmZVdmeTZjNjNfRVh2V2hweG5YaU90VERqLUVmM2pMUHJBY2oxUUpRc05jQjAzM1JHVlZYZGtEZTVyR3lLT3ktLWNHM2JBSy00V1F4WjNmZUFqVmRsNNIBtwFBVV95cUxNMFdlX1J6cVEwcWpVZUo1WGtZRE9JakNtMzMtTmhuRVZRR0FGNEwta3RkNENZWWhzaEhxaUt3bmp4azYwcTcwTHA1M1k1bjJGY1VDWW1kanNLWTdVZHptSEtFbElIZjdJdU9iVF9nOUY1VjY4Rng4Qm1haHQ5cUVfN2stQVpzOFp1UUl1cDhPQTlZeE5LZFRnNnA4bXZLNjdsYU80aS1SbTA4MWV2RVF0X0RGSWNteUk?oc=5)
 
@@ -52,14 +92,6 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSU5rQz
 2026-11-19
 
 Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVJLTVVhaVZkaU1WVmtFRnFOVy1qeHloZmtDbUZXMFhZZlkteWJnYkRNVTExUnlVNWt0dUh3VUhYU2lzSF9xNkZiTzJuTTAzNXpRVFVldDFQRHVUTHFtQWZ6ZEYzOVVpQXFnSlMxZjRua1JCZFJQblU5a2ZFRWt2eFVDejU3QnNnYktyM1hFYlVBcVlNZEp0WkdXWm12d2lUMkdaSkJlM3YtR1VPaXJxQk5qczdrWi00MERfVHVsSk40Q1ZVXzJkRzZR?oc=5)
-
----
-
-### [La obesidad tiene memoria y el hígado conversa con la grasa: así es el diálogo entre órganos que condiciona el peso - La Voz de Galicia](https://news.google.com/rss/articles/CBMijAJBVV95cUxQQjNhck9Nb1ZBbHNmTXhibW1WaWFOT01EeDd2aW9KaFIzdTZDV1JsNzI1VjJEMHVlZEExVzlDbDVkbEhZbnZsZGF2WkNHcWxzSk9wVm82ZFowQUp6b3ZBMnlSMnd3LTNnYXZaeG52bE1JaXBabUlJZ3VNUm52NkR3MzkwaXJ3X0dkNGQ1SWxCRHZJT3BoMHZYYmRFbVloWW1LM1dBcWRSNGNjdjJ2QlRqLXc2bkpyT0NwanRPd0VoenRISmJ3R2FPek5EcFVWVHJLakVYTXVVT01ZTkNBU0J5a3NwS3kzV1UtV216VmVYRlY3MFJXRjRQMGZ3Vmg4dzRDNUdsTGV2cVpKM0Yz0gGSAkFVX3lxTE5NOUtYNjRQS2s4X3JuTGdEV0M3aklZUUNZSG1yMy1pWFRCeTBFNDVrOWhxME5KS3ZFNWJpSVBzanRyekFXYnRySll4MjRBblR0X3kyZlRrd1hEWGdSa0xmSlVoZ0NyQi1uVkNUV2NwSmVzb216WnZwN0g5OU1EYk1FTk16dHNUVUtvQUE3OWFMMVByaVJBZ2xKRlZwUkhfNnZjaHptT29rRDVvUEx4SF83VWhjVEdhZHZCdkVhTVFnYWJVU3hiUVRiVksyRHZyVGRxQjV0dXhycllSb0YtNjhob1BDSnBjRVNMQlVtSWg1b0xCeUEybm00Wkh0Unh6a1BNaV9SMmp6dW1DTWd2Zm43Ymc?oc=5)
-
-2026-11-19
-
-Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMijAJBVV95cUxQQjNhck9Nb1ZBbHNmTXhibW1WaWFOT01EeDd2aW9KaFIzdTZDV1JsNzI1VjJEMHVlZEExVzlDbDVkbEhZbnZsZGF2WkNHcWxzSk9wVm82ZFowQUp6b3ZBMnlSMnd3LTNnYXZaeG52bE1JaXBabUlJZ3VNUm52NkR3MzkwaXJ3X0dkNGQ1SWxCRHZJT3BoMHZYYmRFbVloWW1LM1dBcWRSNGNjdjJ2QlRqLXc2bkpyT0NwanRPd0VoenRISmJ3R2FPek5EcFVWVHJLakVYTXVVT01ZTkNBU0J5a3NwS3kzV1UtV216VmVYRlY3MFJXRjRQMGZ3Vmg4dzRDNUdsTGV2cVpKM0Yz0gGSAkFVX3lxTE5NOUtYNjRQS2s4X3JuTGdEV0M3aklZUUNZSG1yMy1pWFRCeTBFNDVrOWhxME5KS3ZFNWJpSVBzanRyekFXYnRySll4MjRBblR0X3kyZlRrd1hEWGdSa0xmSlVoZ0NyQi1uVkNUV2NwSmVzb216WnZwN0g5OU1EYk1FTk16dHNUVUtvQUE3OWFMMVByaVJBZ2xKRlZwUkhfNnZjaHptT29rRDVvUEx4SF83VWhjVEdhZHZCdkVhTVFnYWJVU3hiUVRiVksyRHZyVGRxQjV0dXhycllSb0YtNjhob1BDSnBjRVNMQlVtSWg1b0xCeUEybm00Wkh0Unh6a1BNaV9SMmp6dW1DTWd2Zm43Ymc?oc=5)
 
 ---
 
@@ -132,14 +164,6 @@ Source: [Tgcom24](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Z
 2026-11-16
 
 Source: [IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkgwV3JCODRFczZlYS00SkVwREJDdXV5LUQxeHV2cXFfakFWV3RWbjYzVFVGWl9VOWtDZHRZVFExeDFrb0dkaldieUZtdTZISWNQN201NkVjTzdhSm5UdUhaNFQ0V0ZFQkFDOWVmTXNxY3FTRG9BVDVES3A5Q19uVWsyZEF3MFNOaWZaNlFwMl8zejd1Y05Yb0NDUkxTVUNfbjBBdTBEdkp0M0NzMVlhNnMzMFllUdIBsAFBVV95cUxOamxicVBXTWJyUFZzS1dUUGNXZjBfYV92ZkRxRTNfZTdjbWRoeDJmc0hZMzJyandwTVoya2hzd1NzNUNQakctMXJKRC0tcmZTb2dNVHZpQllnTGRvVm5NS0U1d2w1ZDNrNC1zNmZ4T0VvbWpkS1c4bWM5RHZmZjlubllNQU80S29LVlRyY0hNVzc3elR1cVQwWldqalBYaE9xYlY1SklKNkVSZ0FYVWZvQw?oc=5)
-
----
-
-### [Il richiamo dell'Ordine dei farmacisti sulla prescrizione del Mounjaro: quando un farmaco diventa prodotto di consumo - Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
-
-2026-11-16
-
-Source: [Città Nuova](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTZmdlhYOWkzdEVNZGdCd1JoeTk0WjJaYzg4c3ZkcWNrLVFRMEZIVm9PZGZzR2dkclJLRERBUTdVUE5pc3N5eHctalRtQldsRG52WE5aa2tPaWhVQmZSVU1lajIyanplQUZiNlU1WjI5bE5HMzc4TUUyUVppZ214TWhweW5ienEwUWZJT2NNc2dsS21UeFBVdmRJMzZmVzVlaTUzNl84X2w0cmM2YThEblhfWTJ0M3YyTE9pcE9ueFp0TUFhVzdJag?oc=5)
 
 ---
 

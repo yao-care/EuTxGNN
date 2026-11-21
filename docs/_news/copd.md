@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "BPCO (copd) News"
+title: "EPOC (copd) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about BPCO (copd). 21 articles, 26 related drugs."
+description: "Health news about EPOC (copd). 22 articles, 26 related drugs."
 permalink: /news/copd/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
-# BPCO (copd) News
+# EPOC (copd) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about BPCO (copd)?">
-<strong>BPCO (copd)</strong> currently has <strong>21 news articles</strong> and 26 related drugs.
+<p class="key-answer" data-question="What news is there about EPOC (copd)?">
+<strong>EPOC (copd)</strong> currently has <strong>22 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “BPCO” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “EPOC” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “BPCO” and lists the 
 </ul>
 </div>
 
-## Related News (21)
+## Related News (22)
+
+### [El cielo de Barcelona se llena de drones para dar visibilidad a la EPOC](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVZlNDVHc3ctcGZzcHo4dTdUMFhDUlllb2ZvOXF2LTlOSDEtQ3RMbFFnMjdWLVh6ZE91ak5ja3dSWmktM3JoMEJ0OHJvZVRGdmlpTkQwQ29KMUt3RnpoVk5NdlhURjBxVzZ3QjVScmYzX2Y1Y0RWb0VBN1RJa3dvODBOREVVdjYtQlFzdjlfVmthaDNFbVlyUWdIcUhfYWNqUFJpRtIBqgFBVV95cUxQcG9NSkdCbkt3MmZ5WDRsNjhVOUJWcjBkSGlncjhCQW1VaktCWVlwQzBPcGVLWGdLcTF5ZlgwZ2lJRS1mSnJTLURwMnpHN3NMZC1NeGh6QUhQdnl2UE9MN1BFZXAzRHZJdVNrajVWT3M3Z0U1cjRlZ3JRS29UVlB2MUV1Qlk3N09DdkVvaFg0YXBaREM1NWVXN0VMYnlTZGNYUDlTX0lfU1Fodw?oc=5)
+
+2026-11-20
+
+Source: [Canarias7](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVZlNDVHc3ctcGZzcHo4dTdUMFhDUlllb2ZvOXF2LTlOSDEtQ3RMbFFnMjdWLVh6ZE91ak5ja3dSWmktM3JoMEJ0OHJvZVRGdmlpTkQwQ29KMUt3RnpoVk5NdlhURjBxVzZ3QjVScmYzX2Y1Y0RWb0VBN1RJa3dvODBOREVVdjYtQlFzdjlfVmthaDNFbVlyUWdIcUhfYWNqUFJpRtIBqgFBVV95cUxQcG9NSkdCbkt3MmZ5WDRsNjhVOUJWcjBkSGlncjhCQW1VaktCWVlwQzBPcGVLWGdLcTF5ZlgwZ2lJRS1mSnJTLURwMnpHN3NMZC1NeGh6QUhQdnl2UE9MN1BFZXAzRHZJdVNrajVWT3M3Z0U1cjRlZ3JRS29UVlB2MUV1Qlk3N09DdkVvaFg0YXBaREM1NWVXN0VMYnlTZGNYUDlTX0lfU1Fodw?oc=5)
+
+---
 
 ### [Influenza e BPCO, il rischio di un peggioramento che lascia il segno](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWpyTnoxTTRPWlhyRDRvUzU0a2lOTktnWVRuSkc2NXJhX1d1blBOSDZyR0JQMW4tNktFcjJNejFUdlhuVFppTmNITlVFeHZDeTZ3UEhYcWwyTFFZSGplMUtvSjhWVWJDWDBUb0p1T1hYdG1CVEVmSmJKV3NvRkdzZUJJZ3E4QUIxZVdnRzRXcklJVDB0VG42elpUY3ZMV0tVSUZ3cmVEMEdPdjgyX08tNDgzdmpZbFBYTlE?oc=5)
 

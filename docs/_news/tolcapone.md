@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tolcapone. 10 predicted indications."
 permalink: /news/tolcapone/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-21
 ---
 
 # Tolcapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Tolcapone?">
-<strong>Tolcapone</strong> currently has <strong>61 news articles</strong>, with 10 predicted indications.
+<strong>Tolcapone</strong> currently has <strong>64 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ This page combines the AI-predicted indications for Tolcapone with the latest he
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (61)
+## Related News (64)
 
-### [Your brain may be hiding Alzheimer’s from you – and that’s not always a good thing - The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE1Nb29pV1JXRXMwMjRXbjZBLUx6cVN2Vjk4Y3dleUJ3QmpGakVKeFdRTGhyTmYxUENzLVdkZUJJcU5YLVVvTHFGeTBGREZEbjQxTWtJVWs0dUJLeWFwU0VWdUdhOVRZMTlreVNIRzdGYkpVTnpPaFpEU2E2UWpPUDJyN1hLNXBqaHFpa2ZfT29KVVBqQXc1Q0N2aDFJTDhlbVlNNm02OUVyU3p6SXd5QnJtYw?oc=5)
+### [People entering old age now have better memory than their parents did](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUUNlNUZrMjcyOXREdHVsLWRLaTR6S2tNbGNJSzkzZVNMeVZNaUtBNkNQQ0Mta0tlMnNlOVlsS21RYWV2amJKWFdNdC1wdTNwSTFBYlBVdjZJ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">dementia</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUUNlNUZrMjcyOXREdHVsLWRLaTR6S2tNbGNJSzkzZVNMeVZNaUtBNkNQQ0Mta0tlMnNlOVlsS21RYWV2amJKWFdNdC1wdTNwSTFBYlBVdjZJ?oc=5)
+
+---
+
+### [Stem cells injected into brain of Alzheimer’s patients in world first - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUNzY1Yyck5Pa0NhQkM2R3VyUDZ2dkMwdHR0S282TENpVi1HQ3JjRV95eERTVVJQQ1dzVk43S0FWYlRORlI0RDYySE9oLVk4UnZoODhzcFJKNDBpMWh3d1IxbF9nX1NhTE5senJNZDdNRnUwSEpPRW52cXRUMUtWV2lGS0FsNy1TR2ZJVHc5dHRfbE1hNGl5VlhsWVNqUXB0ZVVHMQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUNzY1Yyck5Pa0NhQkM2R3VyUDZ2dkMwdHR0S282TENpVi1HQ3JjRV95eERTVVJQQ1dzVk43S0FWYlRORlI0RDYySE9oLVk4UnZoODhzcFJKNDBpMWh3d1IxbF9nX1NhTE5senJNZDdNRnUwSEpPRW52cXRUMUtWV2lGS0FsNy1TR2ZJVHc5dHRfbE1hNGl5VlhsWVNqUXB0ZVVHMQ?oc=5)
+
+---
+
+### [Experimental Nose Drops Restored Fading Memory And Boosted Neuron Growth In Mice](https://news.google.com/rss/articles/CBMirgFBVV95cUxPUTlsdVMwQUhtSzRBYWgzSk8tRFpMQ2JBU2sybGUzTkJiUXlLTlo0cjZoOTRMYkxVejBwUlRMRFVaZWRQTmtVc2ZERkhmN1R6V2cxRXp4dnN5ejFLeDBKZG9wa3FQQjhnd3Jvc3hXVUdlQUVhT0pzZ1M3QmpxVHlrbWtWME8yNkJoU2pRZXV1TFpYN3Z5QUpkY0VDUFoteF9jREY1OXA2Q1ZlTHYyV2c?oc=5)
 
 2026-11-18 <span class="news-indication-tag">Alzheimer's</span>
 
-Source: [The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE1Nb29pV1JXRXMwMjRXbjZBLUx6cVN2Vjk4Y3dleUJ3QmpGakVKeFdRTGhyTmYxUENzLVdkZUJJcU5YLVVvTHFGeTBGREZEbjQxTWtJVWs0dUJLeWFwU0VWdUdhOVRZMTlreVNIRzdGYkpVTnpPaFpEU2E2UWpPUDJyN1hLNXBqaHFpa2ZfT29KVVBqQXc1Q0N2aDFJTDhlbVlNNm02OUVyU3p6SXd5QnJtYw?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirgFBVV95cUxPUTlsdVMwQUhtSzRBYWgzSk8tRFpMQ2JBU2sybGUzTkJiUXlLTlo0cjZoOTRMYkxVejBwUlRMRFVaZWRQTmtVc2ZERkhmN1R6V2cxRXp4dnN5ejFLeDBKZG9wa3FQQjhnd3Jvc3hXVUdlQUVhT0pzZ1M3QmpxVHlrbWtWME8yNkJoU2pRZXV1TFpYN3Z5QUpkY0VDUFoteF9jREY1OXA2Q1ZlTHYyV2c?oc=5)
 
 ---
 
@@ -73,6 +89,14 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNb
 2026-11-17 <span class="news-indication-tag">dementia</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxORmNBdzdMLWhFck9DTlJvdFFfWWxxR2RDd09OQ3BkN0lfSEhLcFBZWW1wOWhqU2ZzWlE3VjlkSkIwb0pOeE0zTlBtMEpxUm5wX00zVENiRHF6NUJUZW5QeFNjUGVYVWl6VWs5T3dBclhrMWRrd2xSUm1UZno5Zm9VdE9kbkFJOVZCQlFNaFdJbkVvZ2Zkc0ZkZ3hmYmJURmpFWWxvdV9ZSQ?oc=5)
+
+---
+
+### [When Laura was diagnosed with dementia at 53, her teenage girls gave up everything to care for her... - Daily Mail](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnhvMUkyU0NtXzBZQVF1eUMzS1A5OHR3eG5zay1MWEtSZUhGNVV4MXhBQTZ4RndXTWQyOHRYUXhwS2pYUTFDRUh6LVFRazByZER5enZNXzdpMnRqSTBjaXRLWDdUSThlc0ZMSUVxLU82MFl5LUxhb2wxbEtVNHVsRjNZRnA0N0FzaG5SYktaUVVhYXdqSGlB?oc=5)
+
+2026-11-17 <span class="news-indication-tag">dementia</span>
+
+Source: [Daily Mail](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnhvMUkyU0NtXzBZQVF1eUMzS1A5OHR3eG5zay1MWEtSZUhGNVV4MXhBQTZ4RndXTWQyOHRYUXhwS2pYUTFDRUh6LVFRazByZER5enZNXzdpMnRqSTBjaXRLWDdUSThlc0ZMSUVxLU82MFl5LUxhb2wxbEtVNHVsRjNZRnA0N0FzaG5SYktaUVVhYXdqSGlB?oc=5)
 
 ---
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "diabetes (diabetes mellitus) News"
+title: "diabete (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 270 articles, 86 related drugs."
+description: "Health news about diabete (diabetes mellitus). 280 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-21
 ---
 
-# diabetes (diabetes mellitus) News
+# diabete (diabetes mellitus) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>270 news articles</strong> and 86 related drugs.
+<p class="key-answer" data-question="What news is there about diabete (diabetes mellitus)?">
+<strong>diabete (diabetes mellitus)</strong> currently has <strong>280 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “diabetes” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “diabete” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -65,7 +65,31 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (270)
+## Related News (280)
+
+### [Diabetes: Diese vier Organe kann hoher Blutzucker besonders stark schädigen](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0hnR3N3WlBRVE1fRU9qWXNJbzNnUzEySTNQbEd3dU82NjBhUTl2UFRGcUIzOWk2cVdXel92VndieWJYOGVSRTB5OUp1endTZnMyNGpqampVZWV3OEpkOERnT0prMWNnRWpNc0hkY2l5dl85RnhxOXZsV0pBa0lwQ0ZuLVBPWWhmVWxLOTgyYTBYdHlsQUFyUWNOU1I5VkJkXzBLSUlQZ2I1VmYwLUQzalVoeDQ0U3NVU3hBSXl1OHVNa1N4UHR4QVhKOGZoNUtJaVptSEtOazJ6V3c?oc=5)
+
+2026-11-20
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0hnR3N3WlBRVE1fRU9qWXNJbzNnUzEySTNQbEd3dU82NjBhUTl2UFRGcUIzOWk2cVdXel92VndieWJYOGVSRTB5OUp1endTZnMyNGpqampVZWV3OEpkOERnT0prMWNnRWpNc0hkY2l5dl85RnhxOXZsV0pBa0lwQ0ZuLVBPWWhmVWxLOTgyYTBYdHlsQUFyUWNOU1I5VkJkXzBLSUlQZ2I1VmYwLUQzalVoeDQ0U3NVU3hBSXl1OHVNa1N4UHR4QVhKOGZoNUtJaVptSEtOazJ6V3c?oc=5)
+
+---
+
+### [Sensori per la glicemia l’endocrinologo spiega a cosa servono e come usarli se non si ha il diabete - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXdUSk91RVhiNkFIWDVOX01LNi12ZWRMYlBwYnBGRHdHdEVDRmJPbjFEUGlXcHNob1F4b29yRWgtSVBGTEp0dTN1aGtEZmRyZmx1UldEY3RYM1FTZkVDc1ZXaE1fMWpRa3FDTzNMWFVkRi1PczhPTllnZG9UbVZLczNWMTdMRzhnMjdHZS05VUQwcTI3dm0xVndTekd0TXN0ZFVDQ3NUbjB1RDlKR3BjVkwwd2lXTUhIVFFIaGQxYlJXSmpaRTR0akh0MjhJQmVfeEIxd2NwUdIBvgFBVV95cUxOVEdxcUxPVDRyMGNJdFNmTGc0V2xWNlc2eFg0M1VvM3FoVmFnNGtycndtc3BmTFlkcnFTTHpvMGZDSldzN3RFa3ppTV9ZSWtvNzdLaHJuYWdVclFKZnFCOTl6MHhQa1JlVmNVa2cwYkxENGR3bWJ3YU1aMTZnc09kb1hQSHM1bW5zTTdOVG5DUWRWVlFkbEhrZGx1NU5yMGJ2UzZCY2VIanBQWEJkbEduMk9SeElYQ0xkNmhaMTF3?oc=5)
+
+2026-11-20
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXdUSk91RVhiNkFIWDVOX01LNi12ZWRMYlBwYnBGRHdHdEVDRmJPbjFEUGlXcHNob1F4b29yRWgtSVBGTEp0dTN1aGtEZmRyZmx1UldEY3RYM1FTZkVDc1ZXaE1fMWpRa3FDTzNMWFVkRi1PczhPTllnZG9UbVZLczNWMTdMRzhnMjdHZS05VUQwcTI3dm0xVndTekd0TXN0ZFVDQ3NUbjB1RDlKR3BjVkwwd2lXTUhIVFFIaGQxYlJXSmpaRTR0akh0MjhJQmVfeEIxd2NwUdIBvgFBVV95cUxOVEdxcUxPVDRyMGNJdFNmTGc0V2xWNlc2eFg0M1VvM3FoVmFnNGtycndtc3BmTFlkcnFTTHpvMGZDSldzN3RFa3ppTV9ZSWtvNzdLaHJuYWdVclFKZnFCOTl6MHhQa1JlVmNVa2cwYkxENGR3bWJ3YU1aMTZnc09kb1hQSHM1bW5zTTdOVG5DUWRWVlFkbEhrZGx1NU5yMGJ2UzZCY2VIanBQWEJkbEduMk9SeElYQ0xkNmhaMTF3?oc=5)
+
+---
+
+### [Leitlinie zur Diagnostik, Therapie und Nachsorge bei Gestationsdiabetes aktualisiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYVhfWUtMQlZkV2tpQWYyZk5WdVV6NUJFZUxjWWwtbzJCdHRNdDBFSXZDMk5PQlhlbE5XVTFJN3Y1bHlmWDlUMWJXdXRXaU5ZYmFiRVVVNEVKS01zZlQyWG41ZDFLZnBsY0kzaFBXSzF1XzVSaVpRVGRlN3hWd0lLNEh5WGlITzFYMGVxR3lzNmZFRUZjLW02WGRLN2ZJNmYzZXZNRDVTem1pVmxub0dHdkhlaW9PRkExX1VqejY2Y0YtdWRNNTFTUEVmYlJHMUt2NFZDdlVhSUdvOWMwOXEyX3Y2bWlyOHM?oc=5)
+
+2026-11-20
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYVhfWUtMQlZkV2tpQWYyZk5WdVV6NUJFZUxjWWwtbzJCdHRNdDBFSXZDMk5PQlhlbE5XVTFJN3Y1bHlmWDlUMWJXdXRXaU5ZYmFiRVVVNEVKS01zZlQyWG41ZDFLZnBsY0kzaFBXSzF1XzVSaVpRVGRlN3hWd0lLNEh5WGlITzFYMGVxR3lzNmZFRUZjLW02WGRLN2ZJNmYzZXZNRDVTem1pVmxub0dHdkhlaW9PRkExX1VqejY2Y0YtdWRNNTFTUEVmYlJHMUt2NFZDdlVhSUdvOWMwOXEyX3Y2bWlyOHM?oc=5)
+
+---
 
 ### [La IA podría cambiar el monitoreo de la diabetes: lanzan un sensor que predice el riesgo de hipoglucemia durante el sueño](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRzlMdThCaW41cHVEYWZTQXVULUlwcHBkQ29oOFA1OFl3bF9XRmVEUDFpX0hwVjRXOFFxWUtVeHp6UXZLX3FFN0tDSGx2b2VySUh4NDJVQUxXVDhiM2FxbHVyY244YWVNd1hveWxabkNucGF3QkVabTNZYl9zdFhZcGxqUk5XZlBheGZQYU1Qd0RlRklHMXdCZHgtZjNSWV82YktUY2VEeHlwdmlNR0tNYV9TLXA3QWlMNHNJbzFiOGJpcV9YMDF3eGJQN3R4NWRoZXNudm1BTWVBYXU3M2J2a1VhTUVtQQ?oc=5)
 
@@ -75,11 +99,35 @@ Source: [WIRED](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRzlMdThCaW4
 
 ---
 
+### [Diabetes: Sind lange Spaziergänge oder mehrere kurze besser?](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFp0UXJzbVBzRmRCY2RnQWNZMi1tMjNBQXhVQlFDbkgxQ1h4MVRsMHZqN3RDSHkyTElaWkZESHN1cEtycGZKV2ZlS0tmQjZCQjByZDQxVWs5ek1rem9PVzZ0Q0xmOGxvTXlqVU4waDJ1QXp2b1hLcEwwWWdsbS05WlRNdkFuOTRqZVdFRDY3U01vRFFGdWpyZU5UbjhJOGFvNjhMNEpYZHJXVHN6ajZNbTNLZk4xTDQ?oc=5)
+
+2026-11-19
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFp0UXJzbVBzRmRCY2RnQWNZMi1tMjNBQXhVQlFDbkgxQ1h4MVRsMHZqN3RDSHkyTElaWkZESHN1cEtycGZKV2ZlS0tmQjZCQjByZDQxVWs5ek1rem9PVzZ0Q0xmOGxvTXlqVU4waDJ1QXp2b1hLcEwwWWdsbS05WlRNdkFuOTRqZVdFRDY3U01vRFFGdWpyZU5UbjhJOGFvNjhMNEpYZHJXVHN6ajZNbTNLZk4xTDQ?oc=5)
+
+---
+
 ### [Vaccino antinfluenzale riduce gli infarti: appello dei cardiologi - Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
 
 2026-11-19
 
 Source: [Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
+
+---
+
+### [Influenza: «Il vaccino riduce infarti in chi soffre di cuore e anche in chi ha diabete ipertensione, colesterolo alto» - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNMnBEdVoxY3hDVndkMF9qMHF6S195dEZMaWFhWXBPVndYOWh3Mk5fQ2RRV3J2amoyUFFNa0o3ZDlzWE5COUxpZ3ZsUG00MGtXa2NrNUFOZE9VTnRPLXV4d00waVp0U0UwZEZEc3RjUmhrc19EVmxQSHgtZnlWUWlsRTFuQVdSWGc1dVhCcWpNa3dIN2Fpc0FMQUprbDRWam15WXZtdHB4c18xTURWUGFPOEg3X2dCd0RyaEhVVXhlcEx1T3pKQ3dOd1FZOGJBaXQ4Y2FZNXhGSTlacG1jZHlKOFhTdGtGc3hCNVpRZlRpUXBuMEVKYm8wR2dXVy1DY0F5aDM2SG91NThRel8zb095OVUyWGdkS21BdDU4ZDBnbEU2dWJsdEk2Q2tLVmNac1NlTmFKRk81cUVJa24xNGlRcNIBxgJBVV95cUxOR2ZKTHI1emJfNUFmcTVCQ3AwcTltUHdDaU9XRGNSdDR3cmVjZFg5NjV5cUwzNDlyRXdhc1lzbTVqMUdScGZFMjhwUDVkZnVIMTNqcXlJSXRrQWZ1X0xDc3R6NmpydVdoSW9COWtsR1R4ak11SFpNSnpEeHBfb0JtYTlQcFd0aVRLU0ExR2Vta213cV9mV0JBdllCMk9YSjJESHZ2Z2otY3ViTG5hSllJUlF0aU9lZElwSUs2c1FId1FFbTFCVXM0cnVxQTZFRFpydGthZi1pX0dlaWV5ZUtyQTktZURfUXJhd3AxYlppd05YcDhta3dfeEhDWWtscG5iQ0JxY3ZEYmZhYmtlUjF3ZnpQcjJScjduRnRKVXk3TXNwbXJlQXRQRzc5bGdUZlYyVHFfSkhYdHN0cmJNT2VyanFwNm5jUQ?oc=5)
+
+2026-11-19
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNMnBEdVoxY3hDVndkMF9qMHF6S195dEZMaWFhWXBPVndYOWh3Mk5fQ2RRV3J2amoyUFFNa0o3ZDlzWE5COUxpZ3ZsUG00MGtXa2NrNUFOZE9VTnRPLXV4d00waVp0U0UwZEZEc3RjUmhrc19EVmxQSHgtZnlWUWlsRTFuQVdSWGc1dVhCcWpNa3dIN2Fpc0FMQUprbDRWam15WXZtdHB4c18xTURWUGFPOEg3X2dCd0RyaEhVVXhlcEx1T3pKQ3dOd1FZOGJBaXQ4Y2FZNXhGSTlacG1jZHlKOFhTdGtGc3hCNVpRZlRpUXBuMEVKYm8wR2dXVy1DY0F5aDM2SG91NThRel8zb095OVUyWGdkS21BdDU4ZDBnbEU2dWJsdEk2Q2tLVmNac1NlTmFKRk81cUVJa24xNGlRcNIBxgJBVV95cUxOR2ZKTHI1emJfNUFmcTVCQ3AwcTltUHdDaU9XRGNSdDR3cmVjZFg5NjV5cUwzNDlyRXdhc1lzbTVqMUdScGZFMjhwUDVkZnVIMTNqcXlJSXRrQWZ1X0xDc3R6NmpydVdoSW9COWtsR1R4ak11SFpNSnpEeHBfb0JtYTlQcFd0aVRLU0ExR2Vta213cV9mV0JBdllCMk9YSjJESHZ2Z2otY3ViTG5hSllJUlF0aU9lZElwSUs2c1FId1FFbTFCVXM0cnVxQTZFRFpydGthZi1pX0dlaWV5ZUtyQTktZURfUXJhd3AxYlppd05YcDhta3dfeEhDWWtscG5iQ0JxY3ZEYmZhYmtlUjF3ZnpQcjJScjduRnRKVXk3TXNwbXJlQXRQRzc5bGdUZlYyVHFfSkhYdHN0cmJNT2VyanFwNm5jUQ?oc=5)
+
+---
+
+### [Gestationsdiabetes: DGGG und DDG aktualisieren S3-Leitlinie - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWEQxRnRaY3Z6N1BNR0NQb3Y2eDdxV0JJLURDX0d2YzFMTEJFN0x2RTJ4eWgtOGZ6UlJrY0gwRGxJWXBTNXlhcGN6N0ZVeW1ZS2hrMmNhMHp2dnZudXNsM1ZobF93MDFPak5sQVVkQ1pCWF8zenhSUnlDdGF1RTc5YlFKcG5wVnhtMnM4N0MyenNCcHhlVW1tR3BSeGRVTnlGeGMzT1VFdEtMODB2?oc=5)
+
+2026-11-19
+
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWEQxRnRaY3Z6N1BNR0NQb3Y2eDdxV0JJLURDX0d2YzFMTEJFN0x2RTJ4eWgtOGZ6UlJrY0gwRGxJWXBTNXlhcGN6N0ZVeW1ZS2hrMmNhMHp2dnZudXNsM1ZobF93MDFPak5sQVVkQ1pCWF8zenhSUnlDdGF1RTc5YlFKcG5wVnhtMnM4N0MyenNCcHhlVW1tR3BSeGRVTnlGeGMzT1VFdEtMODB2?oc=5)
 
 ---
 
@@ -112,6 +160,14 @@ Source: [Il Gazzettino](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX0p
 2026-11-19
 
 Source: [El Economista](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbFN1VkdPekw5eFY2Vy1iTG9qZ3AtODlJZGVsOUhwZnNaU3ZOTkJiSDd0cEVUT3drbEFja0xSVVRtamNwc3Awc0ZUNDRST3ZoelRTZjdESjJGd0tQVzZqRy13Z2pLLVNDZWhxbThJTUZCeDJPY1QtNlhiVlN1d0tmeEwxcjhBY1AzcXg1dllpSlZiUkdyakVTaDhOSEJ2Um1sSzAtZ2NqM1pjcjlmV1hxVDVsTVUzS1k3Q2ZHM3F0UGpTYWYtUjhJSlhWdUpDaVV0eGk2NzlMWkdDOGliOVlDSFNWZw?oc=5)
+
+---
+
+### [Das Verständnis der Risiken von Diabetes ist der Schlüssel zu einer wirksamen Prävention.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMUZEbmhpVThWMXFMbF9JLU4tTExleWYyY2s3cDQtLVotaVNVczJQQ0NZdGFYanZzSVRPQ0g4Ym90ck11c0FoU0djVnFZT29oNnZtNXJDR3dTd2c3amxKTE1mZXNIVXNXamt1ME5WaW5PZ0NwaUVTV3ZlUmJPekg1d0RCNE9EVFFtaTNjXzlR?oc=5)
+
+2026-11-19
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMUZEbmhpVThWMXFMbF9JLU4tTExleWYyY2s3cDQtLVotaVNVczJQQ0NZdGFYanZzSVRPQ0g4Ym90ck11c0FoU0djVnFZT29oNnZtNXJDR3dTd2c3amxKTE1mZXNIVXNXamt1ME5WaW5PZ0NwaUVTV3ZlUmJPekg1d0RCNE9EVFFtaTNjXzlR?oc=5)
 
 ---
 
@@ -208,6 +264,14 @@ Source: [Fusión Asturias](https://news.google.com/rss/articles/CBMisAFBVV95cUxP
 2026-11-17
 
 Source: [Tgcom24](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
+
+---
+
+### [Farmaci per diabetici e obesi per "perdere qualche chilo": stretta in arrivo sulle prescrizioni](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTVZwSWQzRGk0bXBpQXF2eWR1aUd0UTJxbXlqdXd0X3FKVjZaWTJIbVBad1g5YnVUdlBnLVdsUk45YUF6QURWcVhUNkdJSTV3RFh4Q1VRRDRDMXJlaktwbnRweUVoM25EUUxVSVl1ZFNhWjNoeHp5eGtpZ3NmSkhDVVN2Rk9ibnBmNXN1Wkc5R1ZKS183V2l4dWFIOERzOGFJVG00NXlFcVlkZko3ZUpOWElQWdIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
+
+2026-11-17
+
+Source: [Tgcom24](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTVZwSWQzRGk0bXBpQXF2eWR1aUd0UTJxbXlqdXd0X3FKVjZaWTJIbVBad1g5YnVUdlBnLVdsUk45YUF6QURWcVhUNkdJSTV3RFh4Q1VRRDRDMXJlaktwbnRweUVoM25EUUxVSVl1ZFNhWjNoeHp5eGtpZ3NmSkhDVVN2Rk9ibnBmNXN1Wkc5R1ZKS183V2l4dWFIOERzOGFJVG00NXlFcVlkZko3ZUpOWElQWdIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 
 ---
 
@@ -400,6 +464,14 @@ Source: [elperiodic.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZF
 2026-11-16
 
 Source: [CHIP](https://news.google.com/rss/articles/CBMigwJBVV95cUxPcTg1X1hlVzZiTmNuS2FCR2pUcjljN1RmdlkyOEVEZmJ6MFJ5MDgwQmw5Y2dLZktzZmhUOGkxS01DRnRKQW9YT0FtT3NEb3ZuWS16ZlZUWS1XbGItWmxXc09zRzNCWjY5Y0pYa01EU2swT3BJNnZHMDZCRklUUGhxanBodW5McHRhNkVSNU1JU3BOMncyS05HQ0tYaGdmaDVSdVY3VHRKLXVta1l4UEpGelFEMkt5NDRvSklUODlib2FaLVlZYUd2ZDVnWkJfc0NWQWhhd3hBWDBLUUhYdlFDNXVDNzJ3ZjBHdllNY0lFbFpqZ0RycS1rMnRNVElGZHU2XzRz?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Mit Ernährung und Sport schaffte jeder Zweite die Remission](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeTlBR0syeU10cjM4UHEwQ2RmcWlWdEh6VEFBbm9CaW5BSWt5eXFWOTZER2FKWUxSWXU5LVZNQW01cy1PeGJNT09NdGtPVnVfLXlGdktLVWRFTTNnZXh1OTFtMTRNaEI4WEdOSWFhb3lLTDFzRjJqWWdkLV9yeURsZ2RPeW5nUy1uNmxRQ3B0RXl4REpDdUwtejdLdXZyQ3NkVDVRS3Q3VU5NWmRwUEkzXw?oc=5)
+
+2026-11-16
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeTlBR0syeU10cjM4UHEwQ2RmcWlWdEh6VEFBbm9CaW5BSWt5eXFWOTZER2FKWUxSWXU5LVZNQW01cy1PeGJNT09NdGtPVnVfLXlGdktLVWRFTTNnZXh1OTFtMTRNaEI4WEdOSWFhb3lLTDFzRjJqWWdkLV9yeURsZ2RPeW5nUy1uNmxRQ3B0RXl4REpDdUwtejdLdXZyQ3NkVDVRS3Q3VU5NWmRwUEkzXw?oc=5)
 
 ---
 
@@ -688,6 +760,14 @@ Source: [Diario de Navarra](https://news.google.com/rss/articles/CBMi0wFBVV95cUx
 2026-11-14
 
 Source: [Europa Press](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMXRGc3pCNm9UR3pSa2NKcG1NY2RHcVFnVHNoSjVEZ1dtZlhscUpMMDVHeHlTSUJUbTN0RHdRNlhMUzRzSWRyZDlhTkFvNlc3aW9HTW9wT1BLMTRNQ3RueXRzVVFvdWsxTnZOWkt1ZFRqTkZqdVdFeG52aGVrZGc0N1VrTWliXzBVdGR1SDgzMHZYaTdxSXdSNjVTRnM1ZWkyWFNhb0FpSTN3aEE4dUpCNmxYWWFyTlhjT1M1dDNzWU1TN3dvN2U0YTdvQV9wa2Y2ODB3cTVDNkREbk84S3F6WGhuYlV2SFVtdVhDZlJXTzNreGM?oc=5)
+
+---
+
+### [Gesundheitsministerium begeht Weltdiabetestag 2026 und unterstreicht die Bedeutung der Früherkennung - Qatar news agency](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc0RCZFMxSW8xMTFwd0ttU1ZGS082MkpfMmJIeXMzbFk1a1V1N242T2s2VlVIc2NSQ19ZckZ4cEZhVl8xelpvZlZtZVBMUnlOdnBESnAxRWw1WlIyZU8zWmRTUkJvYTZsbWs0VVE4YUdvVkhnVHRzbjZzR1paNE4yMEpNRVZzM3J2M0pFbDJTMndhdTRTczVVbS1PeG14aGMwendKNzR5S2FpTGRmZXhoQ0ZpRmtaQ1Y2Z01faDAxTnRxMWd6YWo3enlnMDc4cWFsaTk5Y0pXLVlNUVZnbHNQMms5WWpRdw?oc=5)
+
+2026-11-14
+
+Source: [Qatar news agency](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc0RCZFMxSW8xMTFwd0ttU1ZGS082MkpfMmJIeXMzbFk1a1V1N242T2s2VlVIc2NSQ19ZckZ4cEZhVl8xelpvZlZtZVBMUnlOdnBESnAxRWw1WlIyZU8zWmRTUkJvYTZsbWs0VVE4YUdvVkhnVHRzbjZzR1paNE4yMEpNRVZzM3J2M0pFbDJTMndhdTRTczVVbS1PeG14aGMwendKNzR5S2FpTGRmZXhoQ0ZpRmtaQ1Y2Z01faDAxTnRxMWd6YWo3enlnMDc4cWFsaTk5Y0pXLVlNUVZnbHNQMms5WWpRdw?oc=5)
 
 ---
 

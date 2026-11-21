@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Loxapine. 9 predicted indications."
 permalink: /news/loxapine/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Loxapine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Loxapine?">
-<strong>Loxapine</strong> currently has <strong>34 news articles</strong>, with 9 predicted indications.
+<strong>Loxapine</strong> currently has <strong>37 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,31 @@ This page combines the AI-predicted indications for Loxapine with the latest hea
 <p><a href="{{ '/drugs/loxapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (34)
+## Related News (37)
+
+### [Reunión Anual SEN: Lo que comen, cómo se mueven y sus hábitos de vida influyen en los pacientes con esclerosis múltiple - IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUM4aEJQbVZHREloU0RVby1vb2FoTkpnam5TZDVKem9HOE9lYkswNEZWRDlEN1JpTlhBbWNOM1dZYncxVzlMRE1fVnZuS0ZlaHBqNEVKR0RjV285OF9Id2JJQTFHUmZ0N3lHY0dCbVp1cVp1ME9Eb252c3c2RkNyTy1MVm80bXNqYnBReHYxajhkTG04ZjVwb0RqRG5jYVBMTzF5QkQxeGlZQUo4RFVDRm8zVUhYYjJnOXfSAbQBQVVfeXFMTy1HS2c5a0Z2bE8xWVJpLVJWdFBPbHRFNmhiR0pHUk0zblV5akNPYk9wSUhqM1U4eVFBSUU5Z0NaMmcyYTVsMUpCNkEzVXQ0UDlYM2w2MW82eVB6dEtkc09EMFpYLTB3Rmg0WURsdGhmcUtCWTF3SHY5U1Z2NHRCX0NMZWo5M2pKaEhES1prZmRzZ2FvVzdvc2d1LVRaZTVsTmFES2NsZWxpYUdDdzAtbnJGNEpz?oc=5)
+
+2026-11-20 <span class="news-indication-tag">esclerosis múltiple</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUM4aEJQbVZHREloU0RVby1vb2FoTkpnam5TZDVKem9HOE9lYkswNEZWRDlEN1JpTlhBbWNOM1dZYncxVzlMRE1fVnZuS0ZlaHBqNEVKR0RjV285OF9Id2JJQTFHUmZ0N3lHY0dCbVp1cVp1ME9Eb252c3c2RkNyTy1MVm80bXNqYnBReHYxajhkTG04ZjVwb0RqRG5jYVBMTzF5QkQxeGlZQUo4RFVDRm8zVUhYYjJnOXfSAbQBQVVfeXFMTy1HS2c5a0Z2bE8xWVJpLVJWdFBPbHRFNmhiR0pHUk0zblV5akNPYk9wSUhqM1U4eVFBSUU5Z0NaMmcyYTVsMUpCNkEzVXQ0UDlYM2w2MW82eVB6dEtkc09EMFpYLTB3Rmg0WURsdGhmcUtCWTF3SHY5U1Z2NHRCX0NMZWo5M2pKaEhES1prZmRzZ2FvVzdvc2d1LVRaZTVsTmFES2NsZWxpYUdDdzAtbnJGNEpz?oc=5)
+
+---
+
+### [Scientists identify molecule that may boost brain repair in multiple sclerosis - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnpQY2gyWWVoTHNrcTVsVmJ3T1dMTHZia2hJMFRFRDZGRnJoR1JUQ1FnYWJMMXVJR0xWZjI1Mk4wazBZU29HSjFKUWFlX21pNmNYcUt6TFpfYWh5ZEFzRHc2cHhSZWpGa015cVJUdFVSdEFDVlRuRm1SLVQ2dk9sYUlmak5kYWdVSVlFWUxSOUY2V0lmSVh5ZkJvZk9aVlVLSUh5b2VhWjRPTmtxNk9PM0VB?oc=5)
+
+2026-11-19 <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnpQY2gyWWVoTHNrcTVsVmJ3T1dMTHZia2hJMFRFRDZGRnJoR1JUQ1FnYWJMMXVJR0xWZjI1Mk4wazBZU29HSjFKUWFlX21pNmNYcUt6TFpfYWh5ZEFzRHc2cHhSZWpGa015cVJUdFVSdEFDVlRuRm1SLVQ2dk9sYUlmak5kYWdVSVlFWUxSOUY2V0lmSVh5ZkJvZk9aVlVLSUh5b2VhWjRPTmtxNk9PM0VB?oc=5)
+
+---
+
+### [Vorhofflimmern bei Frauen: Diese Symptome werden oft übersehen](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR25ZVWZBV1I5aXZ1UEhxbk1wNks2YkRITndwYTQ5NEpvMDg1LTg4c3NlbVRoemxFYXQ4N3lOb216ejlvSk40SHEzMmRvMGpIcDFpSlo5SEJaV09WeW5SZjBRNUw0RjIzVlhnUm5wZnpMZnBwY2xUTHJjdjJ4UzZxbFJ0V1M3RC13OGJHU1dxODdsa0gyaWZBeFNTbE9PUjA?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR25ZVWZBV1I5aXZ1UEhxbk1wNks2YkRITndwYTQ5NEpvMDg1LTg4c3NlbVRoemxFYXQ4N3lOb216ejlvSk40SHEzMmRvMGpIcDFpSlo5SEJaV09WeW5SZjBRNUw0RjIzVlhnUm5wZnpMZnBwY2xUTHJjdjJ4UzZxbFJ0V1M3RC13OGJHU1dxODdsa0gyaWZBeFNTbE9PUjA?oc=5)
+
+---
 
 ### [MS war lange Utopie: „Ich fühle mich wie ein Frosch in heißem Wasser“](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVXN3bHJlRkFRTnBHaW82UUdZajdGSlhjLXQtWGRwdW90c1VGT1lILTBOVVZrcFh0UE9NZlNodWN1alZRRTlpRGdlQkJMaENNcWtxOVl1cnYzQzJXSGdxbDVtS080OHoySmdzSkxCWE5qZXlKQjAtVHhMY3BZS0hGRmczaXZhZmxOT01mM3ctM2h1dWFXOHNHaVZ4T01HaGpjdEpSdVh0TDdyeW1adFFwVXZoOS1NcEN5S0ZUaWE5cHZtVnBZRnh2RW4yX09XbWNKZkZ0ZHRJLU1ac1Bo?oc=5)
 
@@ -61,7 +85,7 @@ Source: [food-monitor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcE03
 
 ### [Gender Gap Vorhofflimmern: Frauenherzen schlagen anders - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 
-2026-11-18 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
 
