@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>198 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>202 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,11 +41,35 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (198)
+## Related News (202)
+
+### [Nierenschutz bei Bluthochdruck: KDIGO empfiehlt RAS-Hemmer als erste Wahl](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR21SVUxJRmxKVUZfRXVadFVtRmpzVXFkX2o5cHpMMXlwS1hma3NmSnliZmdmdlo2ZWNsUGIxaFNmc3JOc1dHZ3A0V2FnR1p0bjRNT3pMelpRV19fd0hqQXNTSldudW16aXBtSXVnV2ZpdU10LS1VaUwzM1pHcWxITXBCNWw1MVNFNmtmQmRZSG0wYTlJdWJia3pWRkVoVUNkRkxaUk1n?oc=5)
+
+2026-11-22 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [AktienCheck.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR21SVUxJRmxKVUZfRXVadFVtRmpzVXFkX2o5cHpMMXlwS1hma3NmSnliZmdmdlo2ZWNsUGIxaFNmc3JOc1dHZ3A0V2FnR1p0bjRNT3pMelpRV19fd0hqQXNTSldudW16aXBtSXVnV2ZpdU10LS1VaUwzM1pHcWxITXBCNWw1MVNFNmtmQmRZSG0wYTlJdWJia3pWRkVoVUNkRkxaUk1n?oc=5)
+
+---
+
+### [Migraineuses et fumeuses : 3,6 fois plus d'AVC avant 60 ans, d'après le suivi de 1,7 million de Danoises sur 20 ans](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
+
+2026-11-22 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">migraine</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
+
+---
+
+### [Infarto, ictus e aterosclerosi: i rischi se reni e fegato non funzionano, ecco 5 consigli per ridurli - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjBXaXJrT05rT1hBUW5paUJxdVhDcllqbVlwbDV4aktjRXV2WVlXTDNBV1JULTdwdWlSMGo1RmQ3ZnNmeU9ya3UwdWhFYXgwM19Dczc5MzU1am5XWTNEdmtFLVFZSFZfRWhCWGVJZmhJNUJxTFpIZXZZU1BGUlVobUJ3dlZqZGx4aVlwYmU5YXhydU9EYjRxamZ1Mi1obVQ1UDBWR1dua2NGaXU4dGxFUXVrMzJ2amd3b21ROUgzandYX2lHTXdUZVdvUzcwUQ?oc=5)
+
+2026-11-22 <span class="news-indication-tag">ictus</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjBXaXJrT05rT1hBUW5paUJxdVhDcllqbVlwbDV4aktjRXV2WVlXTDNBV1JULTdwdWlSMGo1RmQ3ZnNmeU9ya3UwdWhFYXgwM19Dczc5MzU1am5XWTNEdmtFLVFZSFZfRWhCWGVJZmhJNUJxTFpIZXZZU1BGUlVobUJ3dlZqZGx4aVlwYmU5YXhydU9EYjRxamZ1Mi1obVQ1UDBWR1dua2NGaXU4dGxFUXVrMzJ2amd3b21ROUgzandYX2lHTXdUZVdvUzcwUQ?oc=5)
+
+---
 
 ### [NHS warns of ‘alarming’ rise in hospital admissions for high blood pressure - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnhBT3JocW80T3pvRkpsWjIwNUR5eS03ME1VUWVRcDM2a3l2Z1ZlVWVQZjluekR2SThVZzZ4SDctZXNkamlGNUpPeXlBMTljRVdPTGhnMmpQWXlfNjRJajdtVG1jcDhXMWR1QWRfdDJJMFIxa0FyV1J0Q2J2a2FEdkotcUJUaFE2WHV0Z3VqWHJBbXdUZ2xxd2ZwRWVpRktwREI2Nms2QTM0UQ?oc=5)
 
-2026-11-21 <span class="news-indication-tag">hypertension</span>
+2026-11-21 <span class="news-indication-tag">high blood pressure</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnhBT3JocW80T3pvRkpsWjIwNUR5eS03ME1VUWVRcDM2a3l2Z1ZlVWVQZjluekR2SThVZzZ4SDctZXNkamlGNUpPeXlBMTljRVdPTGhnMmpQWXlfNjRJajdtVG1jcDhXMWR1QWRfdDJJMFIxa0FyV1J0Q2J2a2FEdkotcUJUaFE2WHV0Z3VqWHJBbXdUZ2xxd2ZwRWVpRktwREI2Nms2QTM0UQ?oc=5)
 
@@ -64,6 +88,14 @@ Source: [COPE](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZy
 2026-11-21 <span class="news-indication-tag">ictus</span>
 
 Source: [COPE](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZyYndVUzFWTnA3OHlKRk0zV2wtQmp0c1ZWVjdtT3hMdEJpXzRMWmtIbU1tVFBSWHdnRXdvX0Q2QWpTSjRnSzVCUDdxNGdBZk9iTGVzWVZNeGRTME1QdTc0UmI3R0ZTUl9DRkYxNVhaVk1zdFJpT3FvUzFNa0RCX1pNYUhMT1VleWc3YnNQdmpoYmxjTFhXcE14UU56cUdPY3V5QUZLSW03dXFHQVFGX0ZqcTRZci1fU3d4Q1NtSjRYRXgxMm00NGU0QVdSTXR3dXExYmVPdEdnd1J3Zw?oc=5)
+
+---
+
+### [Los expertos alertan de que los problemas cardiovasculares pueden aumentar el riesgo de Alzheimer - Fuentes Informadas](https://news.google.com/rss/articles/CBMixgFBVV95cUxPeVNJbjhSc1V3R1hTMDZ5U04yUkdHeUoyZnBfSWxYQ1NUUDBwYzdIT0FYdmFiRnJMN0xvc0JaRmg0UEgwOFlNMWZFXzlDYnI2cFhkQzhGbnZuS2FPaURQV3hDSHc3bVBoRzRPbDJJbU9adjlCZkpGQTc4dTRmWW1abE16amNUU2lpZV9VMUpjLURnVWZxaS1oeExmem1mTGNYT05kcjlpdHRYdUdrTUluUzZRM1RnQVhvdkJhNHhMa1ZfajdWUnc?oc=5)
+
+2026-11-21 <span class="news-indication-tag">ictus</span>
+
+Source: [Fuentes Informadas](https://news.google.com/rss/articles/CBMixgFBVV95cUxPeVNJbjhSc1V3R1hTMDZ5U04yUkdHeUoyZnBfSWxYQ1NUUDBwYzdIT0FYdmFiRnJMN0xvc0JaRmg0UEgwOFlNMWZFXzlDYnI2cFhkQzhGbnZuS2FPaURQV3hDSHc3bVBoRzRPbDJJbU9adjlCZkpGQTc4dTRmWW1abE16amNUU2lpZV9VMUpjLURnVWZxaS1oeExmem1mTGNYT05kcjlpdHRYdUdrTUluUzZRM1RnQVhvdkJhNHhMa1ZfajdWUnc?oc=5)
 
 ---
 

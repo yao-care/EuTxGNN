@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Tolcapone?">
-<strong>Tolcapone</strong> currently has <strong>65 news articles</strong>, with 10 predicted indications.
+<strong>Tolcapone</strong> currently has <strong>66 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Tolcapone with the latest he
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (65)
+## Related News (66)
+
+### [David Cameron: How my sisters and I dealt with my mother’s Alzheimer’s - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaW9TU3hwQkQ2NFAzOUFqb1E2LTJrbFVBLTBNRHgzMDZUUzFzR0cySy1tOVdrWjRhaGY5cGFqdHY5TWh1MDBCanI0REo4OXY1cEpFV0UyQ0ZoQnRTNWxnUlBkUHlnejhDY2JULTh3TmhPY3lPMVczVnZQLTI4bkNxQ3NuRXZrMDJSa2UwQXlSUm5kaXhvblE?oc=5)
+
+2026-11-21 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaW9TU3hwQkQ2NFAzOUFqb1E2LTJrbFVBLTBNRHgzMDZUUzFzR0cySy1tOVdrWjRhaGY5cGFqdHY5TWh1MDBCanI0REo4OXY1cEpFV0UyQ0ZoQnRTNWxnUlBkUHlnejhDY2JULTh3TmhPY3lPMVczVnZQLTI4bkNxQ3NuRXZrMDJSa2UwQXlSUm5kaXhvblE?oc=5)
+
+---
 
 ### [People entering old age now have better memory than their parents did](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUUNlNUZrMjcyOXREdHVsLWRLaTR6S2tNbGNJSzkzZVNMeVZNaUtBNkNQQ0Mta0tlMnNlOVlsS21RYWV2amJKWFdNdC1wdTNwSTFBYlBVdjZJ?oc=5)
 

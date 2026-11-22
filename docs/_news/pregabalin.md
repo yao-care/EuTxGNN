@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Pregabalin?">
-<strong>Pregabalin</strong> currently has <strong>25 news articles</strong>, with 6 predicted indications.
+<strong>Pregabalin</strong> currently has <strong>26 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (25)
+## Related News (26)
+
+### [Migraineuses et fumeuses : 3,6 fois plus d'AVC avant 60 ans, d'après le suivi de 1,7 million de Danoises sur 20 ans](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
+
+2026-11-22 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">migraine</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
+
+---
 
 ### [GBA beschließt neue Anforderungen an DMP Rheumatoide Arthritis](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDFQVTJ5eVA3N2ZRSXN0ZVZTT2NjNDBsNUg5VUUybEdIZlZSeXdZWlJYcVpKZkgySkdwbW5KN3N0SXhyTHBPYktQdXN1QzBic3NqSmViOHpFSkNVZmRteU9ldlM5b2lVV2RUU0luekp3akUxQ3Q3bFZYMGZZQ2hXY3VuWVgwLWt4b2RyaHFYQnBoNUYyWnY5bzNmd2syWlhGVGN1VUt4VXkzTk9mVng2UTBtUG0tNHM?oc=5)
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "diabetic (diabetes mellitus) News"
+title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetic (diabetes mellitus). 285 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 288 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 last_modified_at: 2026-11-22
 ---
 
-# diabetic (diabetes mellitus) News
+# diabetes (diabetes mellitus) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about diabetic (diabetes mellitus)?">
-<strong>diabetic (diabetes mellitus)</strong> currently has <strong>285 news articles</strong> and 86 related drugs.
+<p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>288 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “diabetic” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “diabetes” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -65,7 +65,15 @@ This page brings together the latest health news about “diabetic” and lists 
 </ul>
 </div>
 
-## Related News (285)
+## Related News (288)
+
+### [Dark circles, spots & dryness... what minor skin issues reveal about YOUR health - from diabetes to deadly liver disease - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTVWlCaXNVbThQbkdJMXBMVk4xQmJNZnZUbm9rVFdPa2F1allaN2ZNOC1DdjEyZ2VjcFdaaU8xV3VwU3FaNFdiMXQ0VmgxdWxBN1puVTg4ckZCLVdvUzB0S0s2cFFGeHduR3BRQkZaRzJyclZZeXNDWkRwVQ?oc=5)
+
+2026-11-22
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTVWlCaXNVbThQbkdJMXBMVk4xQmJNZnZUbm9rVFdPa2F1allaN2ZNOC1DdjEyZ2VjcFdaaU8xV3VwU3FaNFdiMXQ0VmgxdWxBN1puVTg4ckZCLVdvUzB0S0s2cFFGeHduR3BRQkZaRzJyclZZeXNDWkRwVQ?oc=5)
+
+---
 
 ### [One in three Britons has fatty liver disease – here’s how to keep yours healthy - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWJQSkQ2MW1GN0FQekxMLWFncDZxNkxuYnhPSzl3NkxJaHVnVlhzS0p5M1pKdkx3dGJ4d2N4SDE0Y1dUdld1Sk5vYWExRWxHQXRpR2dJd2lNbmlEdkp5X0N3a3dMMGNpZGN6V3lqVUw2Z0VmTUMtb2hVWEVHR0dqWFYtanBMVXJnZFRGYmVSVTliWDJsQVBhRmEyUVd6Y1NBSmlV?oc=5)
 
@@ -112,6 +120,14 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0hnR3N3WlBR
 2026-11-20
 
 Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXdUSk91RVhiNkFIWDVOX01LNi12ZWRMYlBwYnBGRHdHdEVDRmJPbjFEUGlXcHNob1F4b29yRWgtSVBGTEp0dTN1aGtEZmRyZmx1UldEY3RYM1FTZkVDc1ZXaE1fMWpRa3FDTzNMWFVkRi1PczhPTllnZG9UbVZLczNWMTdMRzhnMjdHZS05VUQwcTI3dm0xVndTekd0TXN0ZFVDQ3NUbjB1RDlKR3BjVkwwd2lXTUhIVFFIaGQxYlJXSmpaRTR0akh0MjhJQmVfeEIxd2NwUdIBvgFBVV95cUxOVEdxcUxPVDRyMGNJdFNmTGc0V2xWNlc2eFg0M1VvM3FoVmFnNGtycndtc3BmTFlkcnFTTHpvMGZDSldzN3RFa3ppTV9ZSWtvNzdLaHJuYWdVclFKZnFCOTl6MHhQa1JlVmNVa2cwYkxENGR3bWJ3YU1aMTZnc09kb1hQSHM1bW5zTTdOVG5DUWRWVlFkbEhrZGx1NU5yMGJ2UzZCY2VIanBQWEJkbEduMk9SeElYQ0xkNmhaMTF3?oc=5)
+
+---
+
+### [Accu-Chek SmartGuide und die mySugr App: So haben Sie Ihren Diabetes einfach smart im Griff](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaXF5d3dZbnhpN3Y4eXladExJbzZlQjYwUUNDTzlDM0xydldVQXF6dlllXzNkV0lROXNkQ3ZUWnROczVCN2lsbzVfNklDOEk5WkEyMS14cDFlbjZZQWhHbWdlSFk0VEpXemhFbGJ0THBTajBDQmhFaUdjUFRsTFhwVU9lZk8yRWZLQy1CZ1VxajBGRFFPQkxHdlhMSDFmMGYwbW1WSDZtQV9BcUdIbk9LVElORmM5TTdWRnhKQVRUV0M4T1ZmdEs4M1JibmZVaGc0Yk4tM1JUWWxmOVRpN1Zid05wWWhHYXFQU084?oc=5)
+
+2026-11-20
+
+Source: [BILD](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaXF5d3dZbnhpN3Y4eXladExJbzZlQjYwUUNDTzlDM0xydldVQXF6dlllXzNkV0lROXNkQ3ZUWnROczVCN2lsbzVfNklDOEk5WkEyMS14cDFlbjZZQWhHbWdlSFk0VEpXemhFbGJ0THBTajBDQmhFaUdjUFRsTFhwVU9lZk8yRWZLQy1CZ1VxajBGRFFPQkxHdlhMSDFmMGYwbW1WSDZtQV9BcUdIbk9LVElORmM5TTdWRnhKQVRUV0M4T1ZmdEs4M1JibmZVaGc0Yk4tM1JUWWxmOVRpN1Zid05wWWhHYXFQU084?oc=5)
 
 ---
 
@@ -184,6 +200,14 @@ Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi
 2026-11-19
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkZJOFlRUVBsMW45UGNEYVdEY0R6aHJhUW1rdXR4R0pKU0JrV0lFQkRqMWxuQjJ0aTUyUUdCc0prUFg2dndNMWZuNlNLSjFxM05HdXVXN0txMlp0NWZrWF9DTVhEWkZab2JsUmgxVjhLWEJuMjNscEJhanZVYnpnQ1ZkTE93bFA4QjNaWkRIdmQ3NlJhMUdFOWVwU1FRRU9B?oc=5)
+
+---
+
+### [Aktualisierung der S3-Leitlinie: Neue Empfehlungen zur Behandlung von Schwangeren mit Gestationsdiabetes mellitus - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZHJxaFU1Zzc3MUF1MHRoaEhHNGFYdkpuMWtObmV2d2pDckZ1VGtTOFVWcmgyUFRGTy1QdmdQamRicDh5U01wcFprc25qbHg5U0k0Q1BHelZaQmJpb3NCWnU0b1R4c0RlVEhWS25LLWdhMEM4NGtDdmd2SGYwbDIzdHMzVlFDRnJ5RnNVNDQzcUpleEJ2X01TdHB3VWlKeDlBSUlUZU4wWV9xdGFLcURzdk1waGdyaXQzVWlGdWdjdjRJczR5QTVjUmNtdktqakl1bjBCelp4Q1NWWlMzTEZrdzY1Vi1LbmRkVUs5VlNtNGJRY3k1VVM1bjd2Tm5KQTA?oc=5)
+
+2026-11-19
+
+Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZHJxaFU1Zzc3MUF1MHRoaEhHNGFYdkpuMWtObmV2d2pDckZ1VGtTOFVWcmgyUFRGTy1QdmdQamRicDh5U01wcFprc25qbHg5U0k0Q1BHelZaQmJpb3NCWnU0b1R4c0RlVEhWS25LLWdhMEM4NGtDdmd2SGYwbDIzdHMzVlFDRnJ5RnNVNDQzcUpleEJ2X01TdHB3VWlKeDlBSUlUZU4wWV9xdGFLcURzdk1waGdyaXQzVWlGdWdjdjRJczR5QTVjUmNtdktqakl1bjBCelp4Q1NWWlMzTEZrdzY1Vi1LbmRkVUs5VlNtNGJRY3k1VVM1bjd2Tm5KQTA?oc=5)
 
 ---
 

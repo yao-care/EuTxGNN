@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Rimegepant?">
-<strong>Rimegepant</strong> currently has <strong>32 news articles</strong>, with 5 predicted indications.
+<strong>Rimegepant</strong> currently has <strong>33 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Rimegepant with the latest h
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (32)
+## Related News (33)
+
+### [Migraineuses et fumeuses : 3,6 fois plus d'AVC avant 60 ans, d'après le suivi de 1,7 million de Danoises sur 20 ans](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
+
+2026-11-22 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">migraine</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
+
+---
 
 ### [Sleeping nine or more hours in a day could be a warning sign for adults with this common condition - The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW90TlFPTlI1WWpRMnBoVlNXVk5yc1RzV3RfSC01RFd6QldZbUFHMEFNNzFvTE5VdHZ6eXBTVFhVaWVLYzMxVklPMmtyZjZ3WjE1YVlzY0o5WjlkSWRKXy11UW9JTmJ3c2Y2aFVyeGt3a0h2TFVCTXJMMXdmVDFaNDhoNWFGTGcwbWJwVlVQM3Y?oc=5)
 

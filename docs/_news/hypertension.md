@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "ipertensione (hypertension) News"
+title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ipertensione (hypertension). 58 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 59 articles, 55 related drugs."
 permalink: /news/hypertension/
 last_modified_at: 2026-11-22
 ---
 
-# ipertensione (hypertension) News
+# Bluthochdruck (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about ipertensione (hypertension)?">
-<strong>ipertensione (hypertension)</strong> currently has <strong>58 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>59 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “ipertensione” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -64,7 +64,15 @@ This page brings together the latest health news about “ipertensione” and li
 </ul>
 </div>
 
-## Related News (58)
+## Related News (59)
+
+### [Nierenschutz bei Bluthochdruck: KDIGO empfiehlt RAS-Hemmer als erste Wahl](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR21SVUxJRmxKVUZfRXVadFVtRmpzVXFkX2o5cHpMMXlwS1hma3NmSnliZmdmdlo2ZWNsUGIxaFNmc3JOc1dHZ3A0V2FnR1p0bjRNT3pMelpRV19fd0hqQXNTSldudW16aXBtSXVnV2ZpdU10LS1VaUwzM1pHcWxITXBCNWw1MVNFNmtmQmRZSG0wYTlJdWJia3pWRkVoVUNkRkxaUk1n?oc=5)
+
+2026-11-22
+
+Source: [AktienCheck.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR21SVUxJRmxKVUZfRXVadFVtRmpzVXFkX2o5cHpMMXlwS1hma3NmSnliZmdmdlo2ZWNsUGIxaFNmc3JOc1dHZ3A0V2FnR1p0bjRNT3pMelpRV19fd0hqQXNTSldudW16aXBtSXVnV2ZpdU10LS1VaUwzM1pHcWxITXBCNWw1MVNFNmtmQmRZSG0wYTlJdWJia3pWRkVoVUNkRkxaUk1n?oc=5)
+
+---
 
 ### [NHS warns of ‘alarming’ rise in hospital admissions for high blood pressure - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnhBT3JocW80T3pvRkpsWjIwNUR5eS03ME1VUWVRcDM2a3l2Z1ZlVWVQZjluekR2SThVZzZ4SDctZXNkamlGNUpPeXlBMTljRVdPTGhnMmpQWXlfNjRJajdtVG1jcDhXMWR1QWRfdDJJMFIxa0FyV1J0Q2J2a2FEdkotcUJUaFE2WHV0Z3VqWHJBbXdUZ2xxd2ZwRWVpRktwREI2Nms2QTM0UQ?oc=5)
 

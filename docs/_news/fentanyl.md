@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Fentanyl. 2 predicted indications."
 permalink: /news/fentanyl/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-22
 ---
 
 # Fentanyl News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Fentanyl?">
-<strong>Fentanyl</strong> currently has <strong>28 news articles</strong>, with 2 predicted indications.
+<strong>Fentanyl</strong> currently has <strong>29 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Fentanyl with the latest hea
 <p><a href="{{ '/drugs/fentanyl/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (28)
+## Related News (29)
+
+### [Migraineuses et fumeuses : 3,6 fois plus d'AVC avant 60 ans, d'après le suivi de 1,7 million de Danoises sur 20 ans](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
+
+2026-11-22 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">migraine</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
+
+---
 
 ### [Vorhofflimmern bei Frauen: Diese Symptome werden oft übersehen](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR25ZVWZBV1I5aXZ1UEhxbk1wNks2YkRITndwYTQ5NEpvMDg1LTg4c3NlbVRoemxFYXQ4N3lOb216ejlvSk40SHEzMmRvMGpIcDFpSlo5SEJaV09WeW5SZjBRNUw0RjIzVlhnUm5wZnpMZnBwY2xUTHJjdjJ4UzZxbFJ0V1M3RC13OGJHU1dxODdsa0gyaWZBeFNTbE9PUjA?oc=5)
 

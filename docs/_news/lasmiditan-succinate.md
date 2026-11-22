@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Lasmiditan Succinate?">
-<strong>Lasmiditan Succinate</strong> currently has <strong>135 news articles</strong>, with 0 predicted indications.
+<strong>Lasmiditan Succinate</strong> currently has <strong>139 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,31 @@ This page combines the AI-predicted indications for Lasmiditan Succinate with th
 <p><a href="{{ '/drugs/lasmiditan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (135)
+## Related News (139)
+
+### [Migraineuses et fumeuses : 3,6 fois plus d'AVC avant 60 ans, d'après le suivi de 1,7 million de Danoises sur 20 ans](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
+
+2026-11-22 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">migraine</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
+
+---
+
+### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimgFBVV95cUxORU1tV3NmN1BwUG1VNkZlS1JTbFdPY05vNTZwV1lHTENIeWxsMlA4ZFpuRUlkd251UXFPYU9PZXhGUWtnbmdFS1l6LWJyTzNaUnBLSEhoQlRtVTlqa3JqakUtVWt5LUVOd3Y4SDkzSXMzZDJ1WDJsazJYM3ZhR3dCZmpZWDhmWTROYU1WSUlvTkpEQk1weTExcWp3?oc=5)
+
+2026-11-22 <span class="news-indication-tag">Adipositas</span>
+
+Source: [BR](https://news.google.com/rss/articles/CBMimgFBVV95cUxORU1tV3NmN1BwUG1VNkZlS1JTbFdPY05vNTZwV1lHTENIeWxsMlA4ZFpuRUlkd251UXFPYU9PZXhGUWtnbmdFS1l6LWJyTzNaUnBLSEhoQlRtVTlqa3JqakUtVWt5LUVOd3Y4SDkzSXMzZDJ1WDJsazJYM3ZhR3dCZmpZWDhmWTROYU1WSUlvTkpEQk1weTExcWp3?oc=5)
+
+---
+
+### [Adipositas: Fachleute schlagen systematische Schlafapnoe-Abklärung vor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTNkYkJSNU1iNzJUODFGZlNVVEM3cXBidGMweG5WV1lOUHplQnZTbWphRXFqUmpJN3FmbXVyUkpHZzJoX0NRQUJ5NWc3d1otT1YwZ0dfaUh1dGRvTUwwQ0NLU25sUGNlNEJqZWE3eXNtZTY4bjFydjl2bW16MS0xLUd2YnZ0cGpjaWJRdnAyamFySkkta29ra0IxdkJDRDRCb3k4OWh6SGg5ZU0?oc=5)
+
+2026-11-22 <span class="news-indication-tag">Adipositas</span>
+
+Source: [food-monitor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTNkYkJSNU1iNzJUODFGZlNVVEM3cXBidGMweG5WV1lOUHplQnZTbWphRXFqUmpJN3FmbXVyUkpHZzJoX0NRQUJ5NWc3d1otT1YwZ0dfaUh1dGRvTUwwQ0NLU25sUGNlNEJqZWE3eXNtZTY4bjFydjl2bW16MS0xLUd2YnZ0cGpjaWJRdnAyamFySkkta29ra0IxdkJDRDRCb3k4OWh6SGg5ZU0?oc=5)
+
+---
 
 ### [Manovra, da psicologi a obesità: cosa prevedono gli emendamenti sulla sanità - Sky TG24](https://news.google.com/rss/articles/CBMidEFVX3lxTFA2S3ktLS1RMDdFQlFVbi14QnF0ZU5YSjRnOEtCalBoOHQwMWFtQmpHUkhFalVKakRKa1lQSXZ0alE5eEhGcnB4aVFwUThneW9BYUg1WmM1NUdmdUV6N2g2WmtXVFFJOWhlQzBET0xPa1FNaHNy?oc=5)
 
@@ -55,11 +79,19 @@ Source: [MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi9w
 
 ---
 
-### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen - Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
 
 2026-11-20 <span class="news-indication-tag">Adipositas</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+
+---
+
+### [Weight-loss drugs could free up an area of farmland larger than Italy – new study - The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1ZzM2EtSS1xOTk3QmktdWJBWGFacTdIM1RaQ3dkRDdNUXVKSGZNa2l4b2pXNkxrYk5aTVNpSzE1X0lVcEdVM0hBc1BzSTA1SmJKTjBjY2VmWl9vSEZieTBRSFBPN2U3QVBjbW9JRF9sQjcyclcyNUFVM3A5QzBfX3BjNkhza29RUkxhSlltRHBMQzI5VUlsRDZ3M1kwR3U5VGd3YmMtRC1OcmpYUnItN0d1bEU?oc=5)
+
+2026-11-20 <span class="news-indication-tag">obesity</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1ZzM2EtSS1xOTk3QmktdWJBWGFacTdIM1RaQ3dkRDdNUXVKSGZNa2l4b2pXNkxrYk5aTVNpSzE1X0lVcEdVM0hBc1BzSTA1SmJKTjBjY2VmWl9vSEZieTBRSFBPN2U3QVBjbW9JRF9sQjcyclcyNUFVM3A5QzBfX3BjNkhza29RUkxhSlltRHBMQzI5VUlsRDZ3M1kwR3U5VGd3YmMtRC1OcmpYUnItN0d1bEU?oc=5)
 
 ---
 
@@ -233,7 +265,7 @@ Source: [Los Angeles Times](https://news.google.com/rss/articles/CBMi5AFBVV95cUx
 
 ### [Milano, i «furbetti» dei farmaci (gratis) per dimagrire: presentavano ricette anti-obesità pur non essendo diabetici. La Regione stana 2.800 finti pazienti - Corriere Milano](https://news.google.com/rss/articles/CBMizAJBVV95cUxOWUVqa3Q3Unh5N3gyWWlveXdUX2NaaEZ3aWlROHV2bUhENGFkeGR2V3c3UnNaaVl0UWtuMi1Zd2stcllJLVNlZlM4ZmZNeHljdk12VVJYVDJGTl9XT3RPRjZZbkJVOHJCU1VoWi1LMzBFTzJPTG1KS2dlYXRUUEdLS2VlbmhObVJfenBHZ0tKbm1kVlBjakdLY29SdjBYaXltOU1heU9tUjZkNmtvaWVpZ0dzdHZDQlRuZkJfNjdGc3ZJLVRGcmtKTnJyRWozT3Z0WWxOOW11SE1mbTlFWVdWX3BDSmc4anF1VEVTMmpWSm9ob3dROF9GZ0VJQkFzeUV2cGpzZE5OeXE1eTFQMFN4bFdmTTc5OFZtSWFOMWZ5dmJCNG9lODNwZTBRQVE1ZmtNR3N6cjZSX0twSS11ZU9XRDE4aS1tbFhDWW1RMNIB0gJBVV95cUxQNF9TLVVIc2RvVXB2T2xzOTRKSzlEZEtNTlo5RU1CNFpqbWN2dER5YVh0THphZ0YtRVIyaGx0Skt4bUx5N1hPUW83R3hEdl9yNkpyTWxXbllWVUd2SE1SMGNjblI0bkNKSVZFNzltRWFIMjNvTWtOamJsbmV4QnkxdENYUmg0Z0JuVVoxLUVyVUduclhkOVdscFU2X04ydVdIZGF1eVdQaDVySE0tRF9hclJKNml5c1BuTFNHMy1IRmJsOWpRMGZoSWlZQl9SUzVucmJPbzRGR1Q3VEgxOFpidHV6cDFWeW02NWo1QWNNc2hOZEVkX2pNYnlNZTFPYXl2aDY4UWtPN2s5N3F2SER4ZFhyblFyQ29TMWZWTjJYYThXeVgxbDlFZlNzWmpnd3llR0s5RHlLVExwOFp4SF9RcjBFZkZQWnloZzhpMlJmeFB2Zw?oc=5)
 
-2026-11-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+2026-11-16 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Corriere Milano](https://news.google.com/rss/articles/CBMizAJBVV95cUxOWUVqa3Q3Unh5N3gyWWlveXdUX2NaaEZ3aWlROHV2bUhENGFkeGR2V3c3UnNaaVl0UWtuMi1Zd2stcllJLVNlZlM4ZmZNeHljdk12VVJYVDJGTl9XT3RPRjZZbkJVOHJCU1VoWi1LMzBFTzJPTG1KS2dlYXRUUEdLS2VlbmhObVJfenBHZ0tKbm1kVlBjakdLY29SdjBYaXltOU1heU9tUjZkNmtvaWVpZ0dzdHZDQlRuZkJfNjdGc3ZJLVRGcmtKTnJyRWozT3Z0WWxOOW11SE1mbTlFWVdWX3BDSmc4anF1VEVTMmpWSm9ob3dROF9GZ0VJQkFzeUV2cGpzZE5OeXE1eTFQMFN4bFdmTTc5OFZtSWFOMWZ5dmJCNG9lODNwZTBRQVE1ZmtNR3N6cjZSX0twSS11ZU9XRDE4aS1tbFhDWW1RMNIB0gJBVV95cUxQNF9TLVVIc2RvVXB2T2xzOTRKSzlEZEtNTlo5RU1CNFpqbWN2dER5YVh0THphZ0YtRVIyaGx0Skt4bUx5N1hPUW83R3hEdl9yNkpyTWxXbllWVUd2SE1SMGNjblI0bkNKSVZFNzltRWFIMjNvTWtOamJsbmV4QnkxdENYUmg0Z0JuVVoxLUVyVUduclhkOVdscFU2X04ydVdIZGF1eVdQaDVySE0tRF9hclJKNml5c1BuTFNHMy1IRmJsOWpRMGZoSWlZQl9SUzVucmJPbzRGR1Q3VEgxOFpidHV6cDFWeW02NWo1QWNNc2hOZEVkX2pNYnlNZTFPYXl2aDY4UWtPN2s5N3F2SER4ZFhyblFyQ29TMWZWTjJYYThXeVgxbDlFZlNzWmpnd3llR0s5RHlLVExwOFp4SF9RcjBFZkZQWnloZzhpMlJmeFB2Zw?oc=5)
 

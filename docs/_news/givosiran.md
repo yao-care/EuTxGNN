@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>70 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>71 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,11 +41,19 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (70)
+## Related News (71)
+
+### [Nierenschutz bei Bluthochdruck: KDIGO empfiehlt RAS-Hemmer als erste Wahl](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR21SVUxJRmxKVUZfRXVadFVtRmpzVXFkX2o5cHpMMXlwS1hma3NmSnliZmdmdlo2ZWNsUGIxaFNmc3JOc1dHZ3A0V2FnR1p0bjRNT3pMelpRV19fd0hqQXNTSldudW16aXBtSXVnV2ZpdU10LS1VaUwzM1pHcWxITXBCNWw1MVNFNmtmQmRZSG0wYTlJdWJia3pWRkVoVUNkRkxaUk1n?oc=5)
+
+2026-11-22 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [AktienCheck.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR21SVUxJRmxKVUZfRXVadFVtRmpzVXFkX2o5cHpMMXlwS1hma3NmSnliZmdmdlo2ZWNsUGIxaFNmc3JOc1dHZ3A0V2FnR1p0bjRNT3pMelpRV19fd0hqQXNTSldudW16aXBtSXVnV2ZpdU10LS1VaUwzM1pHcWxITXBCNWw1MVNFNmtmQmRZSG0wYTlJdWJia3pWRkVoVUNkRkxaUk1n?oc=5)
+
+---
 
 ### [NHS warns of ‘alarming’ rise in hospital admissions for high blood pressure - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnhBT3JocW80T3pvRkpsWjIwNUR5eS03ME1VUWVRcDM2a3l2Z1ZlVWVQZjluekR2SThVZzZ4SDctZXNkamlGNUpPeXlBMTljRVdPTGhnMmpQWXlfNjRJajdtVG1jcDhXMWR1QWRfdDJJMFIxa0FyV1J0Q2J2a2FEdkotcUJUaFE2WHV0Z3VqWHJBbXdUZ2xxd2ZwRWVpRktwREI2Nms2QTM0UQ?oc=5)
 
-2026-11-21 <span class="news-indication-tag">hypertension</span>
+2026-11-21 <span class="news-indication-tag">high blood pressure</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnhBT3JocW80T3pvRkpsWjIwNUR5eS03ME1VUWVRcDM2a3l2Z1ZlVWVQZjluekR2SThVZzZ4SDctZXNkamlGNUpPeXlBMTljRVdPTGhnMmpQWXlfNjRJajdtVG1jcDhXMWR1QWRfdDJJMFIxa0FyV1J0Q2J2a2FEdkotcUJUaFE2WHV0Z3VqWHJBbXdUZ2xxd2ZwRWVpRktwREI2Nms2QTM0UQ?oc=5)
 

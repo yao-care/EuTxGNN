@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "dementia (alzheimer disease) News"
+title: "Alzheimer's (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 55 articles, 16 related drugs."
+description: "Health news about Alzheimer's (alzheimer disease). 56 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 last_modified_at: 2026-11-22
 ---
 
-# dementia (alzheimer disease) News
+# Alzheimer's (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>55 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
+<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>56 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Alzheimer's” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (55)
+## Related News (56)
+
+### [David Cameron: How my sisters and I dealt with my mother’s Alzheimer’s - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaW9TU3hwQkQ2NFAzOUFqb1E2LTJrbFVBLTBNRHgzMDZUUzFzR0cySy1tOVdrWjRhaGY5cGFqdHY5TWh1MDBCanI0REo4OXY1cEpFV0UyQ0ZoQnRTNWxnUlBkUHlnejhDY2JULTh3TmhPY3lPMVczVnZQLTI4bkNxQ3NuRXZrMDJSa2UwQXlSUm5kaXhvblE?oc=5)
+
+2026-11-21
+
+Source: [The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaW9TU3hwQkQ2NFAzOUFqb1E2LTJrbFVBLTBNRHgzMDZUUzFzR0cySy1tOVdrWjRhaGY5cGFqdHY5TWh1MDBCanI0REo4OXY1cEpFV0UyQ0ZoQnRTNWxnUlBkUHlnejhDY2JULTh3TmhPY3lPMVczVnZQLTI4bkNxQ3NuRXZrMDJSa2UwQXlSUm5kaXhvblE?oc=5)
+
+---
 
 ### [People entering old age now have better memory than their parents did](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUUNlNUZrMjcyOXREdHVsLWRLaTR6S2tNbGNJSzkzZVNMeVZNaUtBNkNQQ0Mta0tlMnNlOVlsS21RYWV2amJKWFdNdC1wdTNwSTFBYlBVdjZJ?oc=5)
 

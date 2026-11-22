@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "obesità (obesity) News"
+title: "Adipositas (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesità (obesity). 126 articles, 8 related drugs."
+description: "Health news about Adipositas (obesity). 129 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-11-22
 ---
 
-# obesità (obesity) News
+# Adipositas (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about obesità (obesity)?">
-<strong>obesità (obesity)</strong> currently has <strong>126 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
+<strong>Adipositas (obesity)</strong> currently has <strong>129 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “obesità” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Adipositas” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,7 +37,23 @@ This page brings together the latest health news about “obesità” and lists 
 </ul>
 </div>
 
-## Related News (126)
+## Related News (129)
+
+### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimgFBVV95cUxORU1tV3NmN1BwUG1VNkZlS1JTbFdPY05vNTZwV1lHTENIeWxsMlA4ZFpuRUlkd251UXFPYU9PZXhGUWtnbmdFS1l6LWJyTzNaUnBLSEhoQlRtVTlqa3JqakUtVWt5LUVOd3Y4SDkzSXMzZDJ1WDJsazJYM3ZhR3dCZmpZWDhmWTROYU1WSUlvTkpEQk1weTExcWp3?oc=5)
+
+2026-11-22
+
+Source: [BR](https://news.google.com/rss/articles/CBMimgFBVV95cUxORU1tV3NmN1BwUG1VNkZlS1JTbFdPY05vNTZwV1lHTENIeWxsMlA4ZFpuRUlkd251UXFPYU9PZXhGUWtnbmdFS1l6LWJyTzNaUnBLSEhoQlRtVTlqa3JqakUtVWt5LUVOd3Y4SDkzSXMzZDJ1WDJsazJYM3ZhR3dCZmpZWDhmWTROYU1WSUlvTkpEQk1weTExcWp3?oc=5)
+
+---
+
+### [Adipositas: Fachleute schlagen systematische Schlafapnoe-Abklärung vor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTNkYkJSNU1iNzJUODFGZlNVVEM3cXBidGMweG5WV1lOUHplQnZTbWphRXFqUmpJN3FmbXVyUkpHZzJoX0NRQUJ5NWc3d1otT1YwZ0dfaUh1dGRvTUwwQ0NLU25sUGNlNEJqZWE3eXNtZTY4bjFydjl2bW16MS0xLUd2YnZ0cGpjaWJRdnAyamFySkkta29ra0IxdkJDRDRCb3k4OWh6SGg5ZU0?oc=5)
+
+2026-11-22
+
+Source: [food-monitor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTNkYkJSNU1iNzJUODFGZlNVVEM3cXBidGMweG5WV1lOUHplQnZTbWphRXFqUmpJN3FmbXVyUkpHZzJoX0NRQUJ5NWc3d1otT1YwZ0dfaUh1dGRvTUwwQ0NLU25sUGNlNEJqZWE3eXNtZTY4bjFydjl2bW16MS0xLUd2YnZ0cGpjaWJRdnAyamFySkkta29ra0IxdkJDRDRCb3k4OWh6SGg5ZU0?oc=5)
+
+---
 
 ### [Manovra, da psicologi a obesità: cosa prevedono gli emendamenti sulla sanità - Sky TG24](https://news.google.com/rss/articles/CBMidEFVX3lxTFA2S3ktLS1RMDdFQlFVbi14QnF0ZU5YSjRnOEtCalBoOHQwMWFtQmpHUkhFalVKakRKa1lQSXZ0alE5eEhGcnB4aVFwUThneW9BYUg1WmM1NUdmdUV6N2g2WmtXVFFJOWhlQzBET0xPa1FNaHNy?oc=5)
 
@@ -63,11 +79,19 @@ Source: [MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi9w
 
 ---
 
-### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen - Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
 
 2026-11-20
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+
+---
+
+### [Weight-loss drugs could free up an area of farmland larger than Italy – new study - The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1ZzM2EtSS1xOTk3QmktdWJBWGFacTdIM1RaQ3dkRDdNUXVKSGZNa2l4b2pXNkxrYk5aTVNpSzE1X0lVcEdVM0hBc1BzSTA1SmJKTjBjY2VmWl9vSEZieTBRSFBPN2U3QVBjbW9JRF9sQjcyclcyNUFVM3A5QzBfX3BjNkhza29RUkxhSlltRHBMQzI5VUlsRDZ3M1kwR3U5VGd3YmMtRC1OcmpYUnItN0d1bEU?oc=5)
+
+2026-11-20
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1ZzM2EtSS1xOTk3QmktdWJBWGFacTdIM1RaQ3dkRDdNUXVKSGZNa2l4b2pXNkxrYk5aTVNpSzE1X0lVcEdVM0hBc1BzSTA1SmJKTjBjY2VmWl9vSEZieTBRSFBPN2U3QVBjbW9JRF9sQjcyclcyNUFVM3A5QzBfX3BjNkhza29RUkxhSlltRHBMQzI5VUlsRDZ3M1kwR3U5VGd3YmMtRC1OcmpYUnItN0d1bEU?oc=5)
 
 ---
 

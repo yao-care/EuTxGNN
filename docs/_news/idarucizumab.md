@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Idarucizumab?">
-<strong>Idarucizumab</strong> currently has <strong>39 news articles</strong>, with 0 predicted indications.
+<strong>Idarucizumab</strong> currently has <strong>40 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (39)
+## Related News (40)
+
+### [EPOC: falta de aire, tos persistente y flema, señales de alerta que no deben ignorarse - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaTYwMVlDNzUtMmJuTUdmZnJFTTQ5S0dkZnlQU0R6UGNjMGdKUmxqcGYtM3BfdGZrbFQzVnZ6QUFDQnRXUWQwOUZ2a2ljdzZOUEhISWpFZ2xEOEQ4YV9GQ3dwUkFPNTNGeTd5SGhJUzBfeGtVLUszdTRjWGFudTZ0cFZ1eFR6bmJKZFRSZzVzRUNHRVFMelB1S01rVXNmd3k0Rjd3OGRrR3ZPTlBjaWUwdkJhaWFWM2RydGZ3dWg1NS1pX2Q3b01odm5paFR5V1dLQnRSR0tYcm9MYmfSAeABQVVfeXFMTU5INWhkNTRTNEc3NTBvTmFsb1FBWTJNcmp4a0NMN2J3S0JmUjBnb09SU1JmTDNvQlVXaHNVbUc0M2NHTTlDQWVEU2xyOG5NVkpDemFOSjBsQ3ZfMHZITkhvSFFiOHcxc1BYcEd2aF9VZTEtaGo1Q1NiUVlYOUlaZ25XYkFYR094S3h1SjdMZjA1WUNkMUhhY2pvRjlFZ2xBSmkycGxJYUc2NjlQd3hqekF2VlBfemF5V0duNWs3cnBueHFNVTR5RE9OS09NMHhtdEFZeDVGWnU1OElncm9TZ1o?oc=5)
+
+2026-11-21 <span class="news-indication-tag">EPOC</span>
+
+Source: [Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaTYwMVlDNzUtMmJuTUdmZnJFTTQ5S0dkZnlQU0R6UGNjMGdKUmxqcGYtM3BfdGZrbFQzVnZ6QUFDQnRXUWQwOUZ2a2ljdzZOUEhISWpFZ2xEOEQ4YV9GQ3dwUkFPNTNGeTd5SGhJUzBfeGtVLUszdTRjWGFudTZ0cFZ1eFR6bmJKZFRSZzVzRUNHRVFMelB1S01rVXNmd3k0Rjd3OGRrR3ZPTlBjaWUwdkJhaWFWM2RydGZ3dWg1NS1pX2Q3b01odm5paFR5V1dLQnRSR0tYcm9MYmfSAeABQVVfeXFMTU5INWhkNTRTNEc3NTBvTmFsb1FBWTJNcmp4a0NMN2J3S0JmUjBnb09SU1JmTDNvQlVXaHNVbUc0M2NHTTlDQWVEU2xyOG5NVkpDemFOSjBsQ3ZfMHZITkhvSFFiOHcxc1BYcEd2aF9VZTEtaGo1Q1NiUVlYOUlaZ25XYkFYR094S3h1SjdMZjA1WUNkMUhhY2pvRjlFZ2xBSmkycGxJYUc2NjlQd3hqekF2VlBfemF5V0duNWs3cnBueHFNVTR5RE9OS09NMHhtdEFZeDVGWnU1OElncm9TZ1o?oc=5)
+
+---
 
 ### [¿Falta de aire o tos persistente? Podría ser EPOC: así se detecta y controla a tiempo en la isla - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXlscnlINzJPUzh3Q0x4aDJCTXNDeUEzNllZaHNYMHQ2MDBuQUItVldSOGVqbE5tWnplLUstZGdJR3RGVk1GdndldlA1YlBBT3hFdnV2OWhhdV8yUHduZUdXYkFBWXFDQkxSODVqOXI2aU9mOWZ0dk9WOUNNV2hLNUVFaXM5UmZIX2VnbkNNSUh3TWdqZGdacXplYjdmeVUydEVKM3pjbmlKeHJFck1waW0xbTdZN25MOW96b1I1RFNUWGpSVmFQTzAxRjV0dVR0WHA2M0pONHlxTHA1ak9UNzlyMmk4M0Js0gHuAUFVX3lxTE8zc1pkeExkaW5ORWUzZkc1ejd3U2puVVJ2OTA5STRseldmX2d3WFZZd1BaOGZmS2JGTGdoekQ2Ri16cWthZUEtNkNqNjk5ckxmSXlIb0hhYmM5dU01VVlSeW4tV1JXeVNoYVhEbVZ5R0FueE5WS3B1ODVoYkwxMmEzR0tCUGFaV3JFX29fQkFkU093TG92TmI0dl9zZmVjUnFCNjBDWk1ja2piUVJlMi1qWkpLeGM1S3NPTEJuMTdCYnFxWHBnQ2t4bGp0NUxoM1VkcEZjY1NHWVFfRVB3MXJpQk9yVFB4YXNPLTZrRXc?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>131 news articles</strong>, with 5 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>134 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,23 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (131)
+## Related News (134)
+
+### [Migraineuses et fumeuses : 3,6 fois plus d'AVC avant 60 ans, d'après le suivi de 1,7 million de Danoises sur 20 ans](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
+
+2026-11-22 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">migraine</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
+
+---
+
+### [Infarto, ictus e aterosclerosi: i rischi se reni e fegato non funzionano, ecco 5 consigli per ridurli - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjBXaXJrT05rT1hBUW5paUJxdVhDcllqbVlwbDV4aktjRXV2WVlXTDNBV1JULTdwdWlSMGo1RmQ3ZnNmeU9ya3UwdWhFYXgwM19Dczc5MzU1am5XWTNEdmtFLVFZSFZfRWhCWGVJZmhJNUJxTFpIZXZZU1BGUlVobUJ3dlZqZGx4aVlwYmU5YXhydU9EYjRxamZ1Mi1obVQ1UDBWR1dua2NGaXU4dGxFUXVrMzJ2amd3b21ROUgzandYX2lHTXdUZVdvUzcwUQ?oc=5)
+
+2026-11-22 <span class="news-indication-tag">ictus</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjBXaXJrT05rT1hBUW5paUJxdVhDcllqbVlwbDV4aktjRXV2WVlXTDNBV1JULTdwdWlSMGo1RmQ3ZnNmeU9ya3UwdWhFYXgwM19Dczc5MzU1am5XWTNEdmtFLVFZSFZfRWhCWGVJZmhJNUJxTFpIZXZZU1BGUlVobUJ3dlZqZGx4aVlwYmU5YXhydU9EYjRxamZ1Mi1obVQ1UDBWR1dua2NGaXU4dGxFUXVrMzJ2amd3b21ROUgzandYX2lHTXdUZVdvUzcwUQ?oc=5)
+
+---
 
 ### [Los casos de ictus en jóvenes se duplican y un experto revela las causas: "Lo peor para el cerebro y lo peor para el corazón"](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZyYndVUzFWTnA3OHlKRk0zV2wtQmp0c1ZWVjdtT3hMdEJpXzRMWmtIbU1tVFBSWHdnRXdvX0Q2QWpTSjRnSzVCUDdxNGdBZk9iTGVzWVZNeGRTME1QdTc0UmI3R0ZTUl9DRkYxNVhaVk1zdFJpT3FvUzFNa0RCX1pNYUhMT1VleWc3YnNQdmpoYmxjTFhXcE14UU56cUdPY3V5QUZLSW03dXFHQVFGX0ZqcTRZci1fU3d4Q1NtSjRYRXgxMm00NGU0QVdSTXR3dXExYmVPdEdnd1J3Z9IB6AFBVV95cUxNVkhOd1ZKaXVnTEcxYmM0dnJkM0VQY2pQUm9Zdm00NFRlNEd2RFBIOGI5eEJkS25NM0tpYk1KdlNobXBwZjFldUFmZWVIYXFXUmxmUFZ3REhUVzdyQXRvNk82T0F6Q1VhQy1RSWVhYmtQVTdIdHBETjJ4aHlaQTZpRFZCLWtrSHJVQjVrS29JYWYtcUtzOFk5ZEphVlBTNFkxc2lpXzB6RnlXNHBwcGw5LWRDb3dHLXZUMXFQQW5IdkFxSF8zcEJaeWlMT2pNVVd0dXNOWWRqV3hJNkJWMXJXMjBoclgzbmJZ?oc=5)
 
@@ -52,6 +68,14 @@ Source: [COPE](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZy
 2026-11-21 <span class="news-indication-tag">ictus</span>
 
 Source: [COPE](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZyYndVUzFWTnA3OHlKRk0zV2wtQmp0c1ZWVjdtT3hMdEJpXzRMWmtIbU1tVFBSWHdnRXdvX0Q2QWpTSjRnSzVCUDdxNGdBZk9iTGVzWVZNeGRTME1QdTc0UmI3R0ZTUl9DRkYxNVhaVk1zdFJpT3FvUzFNa0RCX1pNYUhMT1VleWc3YnNQdmpoYmxjTFhXcE14UU56cUdPY3V5QUZLSW03dXFHQVFGX0ZqcTRZci1fU3d4Q1NtSjRYRXgxMm00NGU0QVdSTXR3dXExYmVPdEdnd1J3Zw?oc=5)
+
+---
+
+### [Los expertos alertan de que los problemas cardiovasculares pueden aumentar el riesgo de Alzheimer - Fuentes Informadas](https://news.google.com/rss/articles/CBMixgFBVV95cUxPeVNJbjhSc1V3R1hTMDZ5U04yUkdHeUoyZnBfSWxYQ1NUUDBwYzdIT0FYdmFiRnJMN0xvc0JaRmg0UEgwOFlNMWZFXzlDYnI2cFhkQzhGbnZuS2FPaURQV3hDSHc3bVBoRzRPbDJJbU9adjlCZkpGQTc4dTRmWW1abE16amNUU2lpZV9VMUpjLURnVWZxaS1oeExmem1mTGNYT05kcjlpdHRYdUdrTUluUzZRM1RnQVhvdkJhNHhMa1ZfajdWUnc?oc=5)
+
+2026-11-21 <span class="news-indication-tag">ictus</span>
+
+Source: [Fuentes Informadas](https://news.google.com/rss/articles/CBMixgFBVV95cUxPeVNJbjhSc1V3R1hTMDZ5U04yUkdHeUoyZnBfSWxYQ1NUUDBwYzdIT0FYdmFiRnJMN0xvc0JaRmg0UEgwOFlNMWZFXzlDYnI2cFhkQzhGbnZuS2FPaURQV3hDSHc3bVBoRzRPbDJJbU9adjlCZkpGQTc4dTRmWW1abE16amNUU2lpZV9VMUpjLURnVWZxaS1oeExmem1mTGNYT05kcjlpdHRYdUdrTUluUzZRM1RnQVhvdkJhNHhMa1ZfajdWUnc?oc=5)
 
 ---
 
