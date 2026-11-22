@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Adalimumab. 3 predicted indications."
 permalink: /news/adalimumab/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-22
 ---
 
 # Adalimumab News

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Pregabalin. 6 predicted indications."
 permalink: /news/pregabalin/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-22
 ---
 
 # Pregabalin News

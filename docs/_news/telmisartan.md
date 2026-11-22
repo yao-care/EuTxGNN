@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Telmisartan. 9 predicted indications."
 permalink: /news/telmisartan/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Telmisartan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>192 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>198 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,31 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (192)
+## Related News (198)
+
+### [NHS warns of ‘alarming’ rise in hospital admissions for high blood pressure - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnhBT3JocW80T3pvRkpsWjIwNUR5eS03ME1VUWVRcDM2a3l2Z1ZlVWVQZjluekR2SThVZzZ4SDctZXNkamlGNUpPeXlBMTljRVdPTGhnMmpQWXlfNjRJajdtVG1jcDhXMWR1QWRfdDJJMFIxa0FyV1J0Q2J2a2FEdkotcUJUaFE2WHV0Z3VqWHJBbXdUZ2xxd2ZwRWVpRktwREI2Nms2QTM0UQ?oc=5)
+
+2026-11-21 <span class="news-indication-tag">hypertension</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnhBT3JocW80T3pvRkpsWjIwNUR5eS03ME1VUWVRcDM2a3l2Z1ZlVWVQZjluekR2SThVZzZ4SDctZXNkamlGNUpPeXlBMTljRVdPTGhnMmpQWXlfNjRJajdtVG1jcDhXMWR1QWRfdDJJMFIxa0FyV1J0Q2J2a2FEdkotcUJUaFE2WHV0Z3VqWHJBbXdUZ2xxd2ZwRWVpRktwREI2Nms2QTM0UQ?oc=5)
+
+---
+
+### [Los casos de ictus en jóvenes se duplican y un experto revela las causas: "Lo peor para el cerebro y lo peor para el corazón"](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZyYndVUzFWTnA3OHlKRk0zV2wtQmp0c1ZWVjdtT3hMdEJpXzRMWmtIbU1tVFBSWHdnRXdvX0Q2QWpTSjRnSzVCUDdxNGdBZk9iTGVzWVZNeGRTME1QdTc0UmI3R0ZTUl9DRkYxNVhaVk1zdFJpT3FvUzFNa0RCX1pNYUhMT1VleWc3YnNQdmpoYmxjTFhXcE14UU56cUdPY3V5QUZLSW03dXFHQVFGX0ZqcTRZci1fU3d4Q1NtSjRYRXgxMm00NGU0QVdSTXR3dXExYmVPdEdnd1J3Z9IB6AFBVV95cUxNVkhOd1ZKaXVnTEcxYmM0dnJkM0VQY2pQUm9Zdm00NFRlNEd2RFBIOGI5eEJkS25NM0tpYk1KdlNobXBwZjFldUFmZWVIYXFXUmxmUFZ3REhUVzdyQXRvNk82T0F6Q1VhQy1RSWVhYmtQVTdIdHBETjJ4aHlaQTZpRFZCLWtrSHJVQjVrS29JYWYtcUtzOFk5ZEphVlBTNFkxc2lpXzB6RnlXNHBwcGw5LWRDb3dHLXZUMXFQQW5IdkFxSF8zcEJaeWlMT2pNVVd0dXNOWWRqV3hJNkJWMXJXMjBoclgzbmJZ?oc=5)
+
+2026-11-21 <span class="news-indication-tag">ictus</span>
+
+Source: [COPE](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZyYndVUzFWTnA3OHlKRk0zV2wtQmp0c1ZWVjdtT3hMdEJpXzRMWmtIbU1tVFBSWHdnRXdvX0Q2QWpTSjRnSzVCUDdxNGdBZk9iTGVzWVZNeGRTME1QdTc0UmI3R0ZTUl9DRkYxNVhaVk1zdFJpT3FvUzFNa0RCX1pNYUhMT1VleWc3YnNQdmpoYmxjTFhXcE14UU56cUdPY3V5QUZLSW03dXFHQVFGX0ZqcTRZci1fU3d4Q1NtSjRYRXgxMm00NGU0QVdSTXR3dXExYmVPdEdnd1J3Z9IB6AFBVV95cUxNVkhOd1ZKaXVnTEcxYmM0dnJkM0VQY2pQUm9Zdm00NFRlNEd2RFBIOGI5eEJkS25NM0tpYk1KdlNobXBwZjFldUFmZWVIYXFXUmxmUFZ3REhUVzdyQXRvNk82T0F6Q1VhQy1RSWVhYmtQVTdIdHBETjJ4aHlaQTZpRFZCLWtrSHJVQjVrS29JYWYtcUtzOFk5ZEphVlBTNFkxc2lpXzB6RnlXNHBwcGw5LWRDb3dHLXZUMXFQQW5IdkFxSF8zcEJaeWlMT2pNVVd0dXNOWWRqV3hJNkJWMXJXMjBoclgzbmJZ?oc=5)
+
+---
+
+### [Los casos de ictus en jóvenes se duplican y un experto revela las causas: "Lo peor para el cerebro y lo peor para el corazón"](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZyYndVUzFWTnA3OHlKRk0zV2wtQmp0c1ZWVjdtT3hMdEJpXzRMWmtIbU1tVFBSWHdnRXdvX0Q2QWpTSjRnSzVCUDdxNGdBZk9iTGVzWVZNeGRTME1QdTc0UmI3R0ZTUl9DRkYxNVhaVk1zdFJpT3FvUzFNa0RCX1pNYUhMT1VleWc3YnNQdmpoYmxjTFhXcE14UU56cUdPY3V5QUZLSW03dXFHQVFGX0ZqcTRZci1fU3d4Q1NtSjRYRXgxMm00NGU0QVdSTXR3dXExYmVPdEdnd1J3Zw?oc=5)
+
+2026-11-21 <span class="news-indication-tag">ictus</span>
+
+Source: [COPE](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZyYndVUzFWTnA3OHlKRk0zV2wtQmp0c1ZWVjdtT3hMdEJpXzRMWmtIbU1tVFBSWHdnRXdvX0Q2QWpTSjRnSzVCUDdxNGdBZk9iTGVzWVZNeGRTME1QdTc0UmI3R0ZTUl9DRkYxNVhaVk1zdFJpT3FvUzFNa0RCX1pNYUhMT1VleWc3YnNQdmpoYmxjTFhXcE14UU56cUdPY3V5QUZLSW03dXFHQVFGX0ZqcTRZci1fU3d4Q1NtSjRYRXgxMm00NGU0QVdSTXR3dXExYmVPdEdnd1J3Zw?oc=5)
+
+---
 
 ### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVZKTndvN19uWDlHU2lUZi1NVnVhSG9QSzh4YlhIMmhPZWY0Rlh0N3BURU0tM3YzR29mczZhMnNQX2VCbG9GSUhzNm0yTHdvVTFISm1wOUdzOUg3bWJpSVJSalo5SnhCVjFLdUFVT0JITjUzdkQ0QmMwbnJkdkI3MWF2aUo4UklVU01WMlpPQzJCTHNuX05yU0NKczlGeUhQODVEWDlqTVhwaFhjVzBZTnBRdEJhX2VBTVNn?oc=5)
 
@@ -56,6 +80,22 @@ Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV9
 2026-11-21 <span class="news-indication-tag">hypertension</span>
 
 Source: [Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTVXeGhxSGpiYUVNbTdSY3dUS1FOTHJtakJCZjRoc1Q3eTQ4SnVyRFV6YzJEU1puOWR0bzlxSXJ1WVo5QkdmNDNOaG5Sb0JuZUQ5S3VQUXpQTzc4ZGRFQkNUSXIxUTUzZ2JTNUtteVlJQ2s3MFk0ZjQ1dkYwOEtzWFJuaFN4cFRBcC10WUx4UDF5aGY3QmRoczVoR21IUG1aaTBIWk4yM05vaVV0d3c?oc=5)
+
+---
+
+### [Sleeping nine or more hours in a day could be a warning sign for adults with this common condition - The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW90TlFPTlI1WWpRMnBoVlNXVk5yc1RzV3RfSC01RFd6QldZbUFHMEFNNzFvTE5VdHZ6eXBTVFhVaWVLYzMxVklPMmtyZjZ3WjE1YVlzY0o5WjlkSWRKXy11UW9JTmJ3c2Y2aFVyeGt3a0h2TFVCTXJMMXdmVDFaNDhoNWFGTGcwbWJwVlVQM3Y?oc=5)
+
+2026-11-20 <span class="news-indication-tag">heart disease</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW90TlFPTlI1WWpRMnBoVlNXVk5yc1RzV3RfSC01RFd6QldZbUFHMEFNNzFvTE5VdHZ6eXBTVFhVaWVLYzMxVklPMmtyZjZ3WjE1YVlzY0o5WjlkSWRKXy11UW9JTmJ3c2Y2aFVyeGt3a0h2TFVCTXJMMXdmVDFaNDhoNWFGTGcwbWJwVlVQM3Y?oc=5)
+
+---
+
+### [Infosalus.- Las enfermedades cardiovasculares y sus factores de riesgo desempeñan un papel clave en desarrollo de demencia](https://news.google.com/rss/articles/CBMi7wFBVV95cUxObnd0RXBkdmV1TTZDXzRKR2RzNVdWek9lRUlhNGl4OVU3MGRSYVg5ODFkMHNNaUd3eWJvX0ZPVjlYVmFhaDNkYWVzQ0NGWVVnRl9vNGdod1JLSXkzNl9JZDJPZ1FmWk5hTUhRX1UwTjR5T2dkRGg3aWx0Zk9hbnBHUXNJMGhfTnJwcHMwdzExaURXTnZVeW1pLVJXcmx2bko0TWFOWW1neDdYWmN1eVlVOFJ6T0t4Qm5iZmxNbGwwVWc2eUoySzRTalJSajVET0ZULVhTY2hJRVgxSkFqT3Y4TDEwVXJSZHMwX1hwelQ0RQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">ictus</span>
+
+Source: [Notimérica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxObnd0RXBkdmV1TTZDXzRKR2RzNVdWek9lRUlhNGl4OVU3MGRSYVg5ODFkMHNNaUd3eWJvX0ZPVjlYVmFhaDNkYWVzQ0NGWVVnRl9vNGdod1JLSXkzNl9JZDJPZ1FmWk5hTUhRX1UwTjR5T2dkRGg3aWx0Zk9hbnBHUXNJMGhfTnJwcHMwdzExaURXTnZVeW1pLVJXcmx2bko0TWFOWW1neDdYWmN1eVlVOFJ6T0t4Qm5iZmxNbGwwVWc2eUoySzRTalJSajVET0ZULVhTY2hJRVgxSkFqT3Y4TDEwVXJSZHMwX1hwelQ0RQ?oc=5)
 
 ---
 
@@ -163,14 +203,6 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1ucWdHdX
 
 ---
 
-### [Heart surgeon names early sign on front of your leg that your heart is in trouble - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
-
-2026-11-19 <span class="news-indication-tag">heart disease</span>
-
-Source: [Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
-
----
-
 ### [38-jähriger Mann nach Hirnblutung in kritischem Zustand: Eine warnende Geschichte über eine Krankheit, die viele junge Menschen für selbstverständlich halten.](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTUJUdUQtckN0RXR1QTM4VVRpcnVmalQtYVU2dktuZFFrSExnN1A0MkZ5OFpFOVgtUl92TTF1VFNwbk1xd3BQU0Z3SGF2VDNTRkpOZFoxN1pjZUdsbEYyLV9Wa3VUdk5BZUlvUXozVzFhZDJ1ODlqUTdtd1JxekJsSnkyUll6RVNYUmE0bkxFcGZlb2t0M042aTdsc3Y0bThveXBFLWlOc2JVXzVDVk5zWTktakVoS2JtdmZVdk9EYVlRZnc?oc=5)
 
 2026-11-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
@@ -251,6 +283,14 @@ Source: [Univadis](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlp
 
 ---
 
+### [Dislipidemie, oltre il target LDL: la sfida del rischio cardiovascolare residuo](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNejRFdWREWXVOOW5tSF9DVDV2WFhTN2swZEw0RFFkNlF3RVJ3N1BCNTUxMFdlUnBGU0oxVVJSUERQWS1fMGlBek1WTWpaaE42ZkY3UnZQeW5OcXpxejFmUmc0bkxhSnpZZzNHQjZzdGFzVVhzaEp4aUs0U0l0N1RSQ3IzemVSaGxCaU5ZdDV3bzhINnFLWF91d1pUZWRlTmJJS29nMUV4OEU?oc=5)
+
+2026-11-17 <span class="news-indication-tag">ictus</span>
+
+Source: [CardioInfo](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNejRFdWREWXVOOW5tSF9DVDV2WFhTN2swZEw0RFFkNlF3RVJ3N1BCNTUxMFdlUnBGU0oxVVJSUERQWS1fMGlBek1WTWpaaE42ZkY3UnZQeW5OcXpxejFmUmc0bkxhSnpZZzNHQjZzdGFzVVhzaEp4aUs0U0l0N1RSQ3IzemVSaGxCaU5ZdDV3bzhINnFLWF91d1pUZWRlTmJJS29nMUV4OEU?oc=5)
+
+---
+
 ### [Colesterolo fuori controllo tra gli italiani, strategia per risparmiare vite e 3,7 mld di spesa - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMlJVZEh6elFhMjZaZ0FQSXltT3hNZU1ma0FjZ0dBT1hFYmIyV3BZQ1JNUTB5S0owbmg2UmhtbzVtMEZMZ2FwTmV6dGNVZjEtZnp6QndaMEUwd3NtNkdCWmdTWEQyQWV2MENrU2Z5akVzYmNVVGt4QzkzV3NHNTBGdEVrNDB5UThPM1VISlRnN1dGck9GZGZqZC0zOUNVaEE5VnhiZVk2eXZQNTFFM2N5WDJjY1NGbVR6Qlc3ZG1KTEg?oc=5)
 
 2026-11-17 <span class="news-indication-tag">ictus</span>
@@ -279,7 +319,7 @@ Source: [Open](https://news.google.com/rss/articles/CBMigAFBVV95cUxNUThaYlZlRzB3
 
 2026-11-16 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdldXOFhnRTVFT0RINTczLWoteDNJbHZTcFlXeFhuMTh5eEl5WWtibzN4SS10X1Z5SThUZGxwY1NBUWE5R3lOWWdpRHI3MUU1ZXRNeXhwTDl3X0NYcER3cUZYZGwzdzNvRHFZRnZtcG9mTE0tbGd6bWtVNGUxTW1oYnBqZHNzc1IxUHRiaWZFMkQtZlZhSUQxMmRTZVVlcmtOeDBkQWU4ZUFiU04tWEFtM1BzeUF0WFNSMUVadUk3YXRRMFJ5S3VFQTlqaGtwa3cwRFlnQ3RUOEVzcVRx?oc=5)
+Source: [springermedizin.de](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdldXOFhnRTVFT0RINTczLWoteDNJbHZTcFlXeFhuMTh5eEl5WWtibzN4SS10X1Z5SThUZGxwY1NBUWE5R3lOWWdpRHI3MUU1ZXRNeXhwTDl3X0NYcER3cUZYZGwzdzNvRHFZRnZtcG9mTE0tbGd6bWtVNGUxTW1oYnBqZHNzc1IxUHRiaWZFMkQtZlZhSUQxMmRTZVVlcmtOeDBkQWU4ZUFiU04tWEFtM1BzeUF0WFNSMUVadUk3YXRRMFJ5S3VFQTlqaGtwa3cwRFlnQ3RUOEVzcVRx?oc=5)
 
 ---
 
@@ -352,6 +392,14 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEl
 2026-11-15 <span class="news-indication-tag">ictus</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUDlsMGpmWFdzSk1nbWlVMmdqNzhyRWh5ZUNobmhOU2hFNGNNWkktdTExeEFYUlhTNUZPaUttYmFfQzBSSjRvWTJaLWJ4LVpXRW9TSDBHRHZ2T3hVNFlKUEViU2tSbzJDbjhqbmtYV3F1U01XVjZsa1dtbzJoRkF5T3pxWlA1MTRFYWpNQmZUajhob2RmLS1pVmVzU1Q4WmJQQV9KN1ltRHlFZW8tZDVNRDU0dkdRaVhnVkt1RWNSOHNOVjR2ZmREUlppVzQya2xSRDlDZHV3RUdIVnBvdUlFZVBxMkpFaG9hbUhOV050NU9WY3Y4N0ZZ?oc=5)
+
+---
+
+### [Abnehmspritze: Studie warnt vor höherem Sterberisiko nach Therapie-Stopp - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdTlkT2lEa25xX0NwWFF1YWxSbmhvTE5VcjI2LVBVSU92dllTVFlnbnROSll0RkhoMUFoVUtySWJadDJ5OW5vODNDQkRLVnhYUjFXMnlZWE1Md0tmOTJZM28td1pHbDRVZ2lXYUNKZlpCRUtGRERmb1l1MzcxSmRWOEdMRmtwSlRyLUJnSkh5TzE3eEw0eWhicVJJWV80SThRa2lQTkZIT1liYnVwU0ctMzFOS3YzSkJfOE9tMVJkTXdRQU9UQ2hUTQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdTlkT2lEa25xX0NwWFF1YWxSbmhvTE5VcjI2LVBVSU92dllTVFlnbnROSll0RkhoMUFoVUtySWJadDJ5OW5vODNDQkRLVnhYUjFXMnlZWE1Md0tmOTJZM28td1pHbDRVZ2lXYUNKZlpCRUtGRERmb1l1MzcxSmRWOEdMRmtwSlRyLUJnSkh5TzE3eEw0eWhicVJJWV80SThRa2lQTkZIT1liYnVwU0ctMzFOS3YzSkJfOE9tMVJkTXdRQU9UQ2hUTQ?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Dexmedetomidine Hydrochloride. 0 predicted indications."
 permalink: /news/dexmedetomidine-hydrochloride/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Dexmedetomidine Hydrochloride News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Dexmedetomidine Hydrochloride?">
-<strong>Dexmedetomidine Hydrochloride</strong> currently has <strong>66 news articles</strong>, with 0 predicted indications.
+<strong>Dexmedetomidine Hydrochloride</strong> currently has <strong>67 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Dexmedetomidine Hydrochlorid
 <p><a href="{{ '/drugs/dexmedetomidine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (66)
+## Related News (67)
+
+### [NHS warns of ‘alarming’ rise in hospital admissions for high blood pressure - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnhBT3JocW80T3pvRkpsWjIwNUR5eS03ME1VUWVRcDM2a3l2Z1ZlVWVQZjluekR2SThVZzZ4SDctZXNkamlGNUpPeXlBMTljRVdPTGhnMmpQWXlfNjRJajdtVG1jcDhXMWR1QWRfdDJJMFIxa0FyV1J0Q2J2a2FEdkotcUJUaFE2WHV0Z3VqWHJBbXdUZ2xxd2ZwRWVpRktwREI2Nms2QTM0UQ?oc=5)
+
+2026-11-21 <span class="news-indication-tag">hypertension</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnhBT3JocW80T3pvRkpsWjIwNUR5eS03ME1VUWVRcDM2a3l2Z1ZlVWVQZjluekR2SThVZzZ4SDctZXNkamlGNUpPeXlBMTljRVdPTGhnMmpQWXlfNjRJajdtVG1jcDhXMWR1QWRfdDJJMFIxa0FyV1J0Q2J2a2FEdkotcUJUaFE2WHV0Z3VqWHJBbXdUZ2xxd2ZwRWVpRktwREI2Nms2QTM0UQ?oc=5)
+
+---
 
 ### [NHS warns of 'alarming' rise in hospital admissions for high blood pressure - Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTVXeGhxSGpiYUVNbTdSY3dUS1FOTHJtakJCZjRoc1Q3eTQ4SnVyRFV6YzJEU1puOWR0bzlxSXJ1WVo5QkdmNDNOaG5Sb0JuZUQ5S3VQUXpQTzc4ZGRFQkNUSXIxUTUzZ2JTNUtteVlJQ2s3MFk0ZjQ1dkYwOEtzWFJuaFN4cFRBcC10WUx4UDF5aGY3QmRoczVoR21IUG1aaTBIWk4yM05vaVV0d3c?oc=5)
 

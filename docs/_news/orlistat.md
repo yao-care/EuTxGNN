@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Orlistat. 1 predicted indications."
 permalink: /news/orlistat/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Orlistat News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>248 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>255 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,53 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (248)
+## Related News (255)
+
+### [Los casos de ictus en jóvenes se duplican y un experto revela las causas: "Lo peor para el cerebro y lo peor para el corazón"](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZyYndVUzFWTnA3OHlKRk0zV2wtQmp0c1ZWVjdtT3hMdEJpXzRMWmtIbU1tVFBSWHdnRXdvX0Q2QWpTSjRnSzVCUDdxNGdBZk9iTGVzWVZNeGRTME1QdTc0UmI3R0ZTUl9DRkYxNVhaVk1zdFJpT3FvUzFNa0RCX1pNYUhMT1VleWc3YnNQdmpoYmxjTFhXcE14UU56cUdPY3V5QUZLSW03dXFHQVFGX0ZqcTRZci1fU3d4Q1NtSjRYRXgxMm00NGU0QVdSTXR3dXExYmVPdEdnd1J3Z9IB6AFBVV95cUxNVkhOd1ZKaXVnTEcxYmM0dnJkM0VQY2pQUm9Zdm00NFRlNEd2RFBIOGI5eEJkS25NM0tpYk1KdlNobXBwZjFldUFmZWVIYXFXUmxmUFZ3REhUVzdyQXRvNk82T0F6Q1VhQy1RSWVhYmtQVTdIdHBETjJ4aHlaQTZpRFZCLWtrSHJVQjVrS29JYWYtcUtzOFk5ZEphVlBTNFkxc2lpXzB6RnlXNHBwcGw5LWRDb3dHLXZUMXFQQW5IdkFxSF8zcEJaeWlMT2pNVVd0dXNOWWRqV3hJNkJWMXJXMjBoclgzbmJZ?oc=5)
+
+2026-11-21 <span class="news-indication-tag">ictus</span>
+
+Source: [COPE](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZyYndVUzFWTnA3OHlKRk0zV2wtQmp0c1ZWVjdtT3hMdEJpXzRMWmtIbU1tVFBSWHdnRXdvX0Q2QWpTSjRnSzVCUDdxNGdBZk9iTGVzWVZNeGRTME1QdTc0UmI3R0ZTUl9DRkYxNVhaVk1zdFJpT3FvUzFNa0RCX1pNYUhMT1VleWc3YnNQdmpoYmxjTFhXcE14UU56cUdPY3V5QUZLSW03dXFHQVFGX0ZqcTRZci1fU3d4Q1NtSjRYRXgxMm00NGU0QVdSTXR3dXExYmVPdEdnd1J3Z9IB6AFBVV95cUxNVkhOd1ZKaXVnTEcxYmM0dnJkM0VQY2pQUm9Zdm00NFRlNEd2RFBIOGI5eEJkS25NM0tpYk1KdlNobXBwZjFldUFmZWVIYXFXUmxmUFZ3REhUVzdyQXRvNk82T0F6Q1VhQy1RSWVhYmtQVTdIdHBETjJ4aHlaQTZpRFZCLWtrSHJVQjVrS29JYWYtcUtzOFk5ZEphVlBTNFkxc2lpXzB6RnlXNHBwcGw5LWRDb3dHLXZUMXFQQW5IdkFxSF8zcEJaeWlMT2pNVVd0dXNOWWRqV3hJNkJWMXJXMjBoclgzbmJZ?oc=5)
+
+---
+
+### [Los casos de ictus en jóvenes se duplican y un experto revela las causas: "Lo peor para el cerebro y lo peor para el corazón"](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZyYndVUzFWTnA3OHlKRk0zV2wtQmp0c1ZWVjdtT3hMdEJpXzRMWmtIbU1tVFBSWHdnRXdvX0Q2QWpTSjRnSzVCUDdxNGdBZk9iTGVzWVZNeGRTME1QdTc0UmI3R0ZTUl9DRkYxNVhaVk1zdFJpT3FvUzFNa0RCX1pNYUhMT1VleWc3YnNQdmpoYmxjTFhXcE14UU56cUdPY3V5QUZLSW03dXFHQVFGX0ZqcTRZci1fU3d4Q1NtSjRYRXgxMm00NGU0QVdSTXR3dXExYmVPdEdnd1J3Zw?oc=5)
+
+2026-11-21 <span class="news-indication-tag">ictus</span>
+
+Source: [COPE](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZyYndVUzFWTnA3OHlKRk0zV2wtQmp0c1ZWVjdtT3hMdEJpXzRMWmtIbU1tVFBSWHdnRXdvX0Q2QWpTSjRnSzVCUDdxNGdBZk9iTGVzWVZNeGRTME1QdTc0UmI3R0ZTUl9DRkYxNVhaVk1zdFJpT3FvUzFNa0RCX1pNYUhMT1VleWc3YnNQdmpoYmxjTFhXcE14UU56cUdPY3V5QUZLSW03dXFHQVFGX0ZqcTRZci1fU3d4Q1NtSjRYRXgxMm00NGU0QVdSTXR3dXExYmVPdEdnd1J3Zw?oc=5)
+
+---
+
+### [Manovra, da psicologi a obesità: cosa prevedono gli emendamenti sulla sanità - Sky TG24](https://news.google.com/rss/articles/CBMidEFVX3lxTFA2S3ktLS1RMDdFQlFVbi14QnF0ZU5YSjRnOEtCalBoOHQwMWFtQmpHUkhFalVKakRKa1lQSXZ0alE5eEhGcnB4aVFwUThneW9BYUg1WmM1NUdmdUV6N2g2WmtXVFFJOWhlQzBET0xPa1FNaHNy?oc=5)
+
+2026-11-21 <span class="news-drug-tag">Aprepitant</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMidEFVX3lxTFA2S3ktLS1RMDdFQlFVbi14QnF0ZU5YSjRnOEtCalBoOHQwMWFtQmpHUkhFalVKakRKa1lQSXZ0alE5eEhGcnB4aVFwUThneW9BYUg1WmM1NUdmdUV6N2g2WmtXVFFJOWhlQzBET0xPa1FNaHNy?oc=5)
+
+---
+
+### [Obesità e glicemia: è meglio fare brevi passeggiate o una lunga camminata per tenere sotto controllo i valori? - Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOaXJXWm5qM0RERjAyU3ZvcUxheUg3MFlpTlNSSEhxNG1jb0tyYnV2Z2JmU0lNVTNfNDYyOEJiQ0tDaWhhWUx1MnRreElEZDBzV1l3TmQydnFaRFpLZ3hmN29odmkydnNvV0pqNERvSWkzQXNnZVJIOEMtQTl1SU9KaHpuSmlPSEdPTGhwR3NlNVVnOGFSZk9MZEdjaFVyamZnVHZmcHduZjgzb0VjaENHakR1WnBWblRJZ0l1REFFV1A2Zzc0dGN4NDdXU0RJeXpWRk5JbkQyZE1LZ05KUjlUeldBVTlNWmxKMnpyQTVGamVPYURsbFVEQUlvYkRjMURnbzZ1X0VFejVWQktCd0RqQkRvelhhQ0tidHY5bzNRRFVqTjlZaFlvaUpYSnlBd9IBswJBVV95cUxOS0s2Smw0b0tSZXcxRHdDaHE1VjUzdFhES2NHTFUzR1FEcUdDdDZfYnJmTUhSTTdVRU56VERXY0ZHbG84czR5ZXZvYW1WVm5pUTR3V1R2UkJBclZBWVNpeE9JQ3ZwS1hWd3UwVTlSd2x1T2NuRGVxTy1uS2JlLW9VWjRpUXg3WTdDNnVhREZHRXBLRVFwbl9nSXhod3ZVQUtqcVdaUzE0LWg0WjZyWWc4ODlJQjFsbkZPWUdzX0J0VWM3dzVCNWVwZ3JVS3RVMnRQRTVhWmNBNlVuUEhzcnN0UDROS25RUkNTMUFsR3k4YkM4bmI4WEN1ZG9GTmtzdThvZDczN19hTXQ3OVViRmVGTUROR3RXWjBnd1pfMjI0TmZiTWpqZHNLUXljQjUtendRWVhF?oc=5)
+
+2026-11-21 <span class="news-indication-tag">obesità</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOaXJXWm5qM0RERjAyU3ZvcUxheUg3MFlpTlNSSEhxNG1jb0tyYnV2Z2JmU0lNVTNfNDYyOEJiQ0tDaWhhWUx1MnRreElEZDBzV1l3TmQydnFaRFpLZ3hmN29odmkydnNvV0pqNERvSWkzQXNnZVJIOEMtQTl1SU9KaHpuSmlPSEdPTGhwR3NlNVVnOGFSZk9MZEdjaFVyamZnVHZmcHduZjgzb0VjaENHakR1WnBWblRJZ0l1REFFV1A2Zzc0dGN4NDdXU0RJeXpWRk5JbkQyZE1LZ05KUjlUeldBVTlNWmxKMnpyQTVGamVPYURsbFVEQUlvYkRjMURnbzZ1X0VFejVWQktCd0RqQkRvelhhQ0tidHY5bzNRRFVqTjlZaFlvaUpYSnlBd9IBswJBVV95cUxOS0s2Smw0b0tSZXcxRHdDaHE1VjUzdFhES2NHTFUzR1FEcUdDdDZfYnJmTUhSTTdVRU56VERXY0ZHbG84czR5ZXZvYW1WVm5pUTR3V1R2UkJBclZBWVNpeE9JQ3ZwS1hWd3UwVTlSd2x1T2NuRGVxTy1uS2JlLW9VWjRpUXg3WTdDNnVhREZHRXBLRVFwbl9nSXhod3ZVQUtqcVdaUzE0LWg0WjZyWWc4ODlJQjFsbkZPWUdzX0J0VWM3dzVCNWVwZ3JVS3RVMnRQRTVhWmNBNlVuUEhzcnN0UDROS25RUkNTMUFsR3k4YkM4bmI4WEN1ZG9GTmtzdThvZDczN19hTXQ3OVViRmVGTUROR3RXWjBnd1pfMjI0TmZiTWpqZHNLUXljQjUtendRWVhF?oc=5)
+
+---
 
 ### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVZKTndvN19uWDlHU2lUZi1NVnVhSG9QSzh4YlhIMmhPZWY0Rlh0N3BURU0tM3YzR29mczZhMnNQX2VCbG9GSUhzNm0yTHdvVTFISm1wOUdzOUg3bWJpSVJSalo5SnhCVjFLdUFVT0JITjUzdkQ0QmMwbnJkdkI3MWF2aUo4UklVU01WMlpPQzJCTHNuX05yU0NKczlGeUhQODVEWDlqTVhwaFhjVzBZTnBRdEJhX2VBTVNn?oc=5)
 
 2026-11-21 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVZKTndvN19uWDlHU2lUZi1NVnVhSG9QSzh4YlhIMmhPZWY0Rlh0N3BURU0tM3YzR29mczZhMnNQX2VCbG9GSUhzNm0yTHdvVTFISm1wOUdzOUg3bWJpSVJSalo5SnhCVjFLdUFVT0JITjUzdkQ0QmMwbnJkdkI3MWF2aUo4UklVU01WMlpPQzJCTHNuX05yU0NKczlGeUhQODVEWDlqTVhwaFhjVzBZTnBRdEJhX2VBTVNn?oc=5)
+
+---
+
+### [Infosalus.- Las enfermedades cardiovasculares y sus factores de riesgo desempeñan un papel clave en desarrollo de demencia](https://news.google.com/rss/articles/CBMi7wFBVV95cUxObnd0RXBkdmV1TTZDXzRKR2RzNVdWek9lRUlhNGl4OVU3MGRSYVg5ODFkMHNNaUd3eWJvX0ZPVjlYVmFhaDNkYWVzQ0NGWVVnRl9vNGdod1JLSXkzNl9JZDJPZ1FmWk5hTUhRX1UwTjR5T2dkRGg3aWx0Zk9hbnBHUXNJMGhfTnJwcHMwdzExaURXTnZVeW1pLVJXcmx2bko0TWFOWW1neDdYWmN1eVlVOFJ6T0t4Qm5iZmxNbGwwVWc2eUoySzRTalJSajVET0ZULVhTY2hJRVgxSkFqT3Y4TDEwVXJSZHMwX1hwelQ0RQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">ictus</span>
+
+Source: [Notimérica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxObnd0RXBkdmV1TTZDXzRKR2RzNVdWek9lRUlhNGl4OVU3MGRSYVg5ODFkMHNNaUd3eWJvX0ZPVjlYVmFhaDNkYWVzQ0NGWVVnRl9vNGdod1JLSXkzNl9JZDJPZ1FmWk5hTUhRX1UwTjR5T2dkRGg3aWx0Zk9hbnBHUXNJMGhfTnJwcHMwdzExaURXTnZVeW1pLVJXcmx2bko0TWFOWW1neDdYWmN1eVlVOFJ6T0t4Qm5iZmxNbGwwVWc2eUoySzRTalJSajVET0ZULVhTY2hJRVgxSkFqT3Y4TDEwVXJSZHMwX1hwelQ0RQ?oc=5)
 
 ---
 
@@ -229,7 +269,7 @@ Source: [ABC](https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2RoNVdHMS04c
 
 ### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
-2026-11-18 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">diabetes</span>
+2026-11-18 <span class="news-indication-tag">Adipositas</span>
 
 Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
@@ -283,6 +323,14 @@ Source: [Univadis](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlp
 
 ---
 
+### [Dislipidemie, oltre il target LDL: la sfida del rischio cardiovascolare residuo](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNejRFdWREWXVOOW5tSF9DVDV2WFhTN2swZEw0RFFkNlF3RVJ3N1BCNTUxMFdlUnBGU0oxVVJSUERQWS1fMGlBek1WTWpaaE42ZkY3UnZQeW5OcXpxejFmUmc0bkxhSnpZZzNHQjZzdGFzVVhzaEp4aUs0U0l0N1RSQ3IzemVSaGxCaU5ZdDV3bzhINnFLWF91d1pUZWRlTmJJS29nMUV4OEU?oc=5)
+
+2026-11-17 <span class="news-indication-tag">ictus</span>
+
+Source: [CardioInfo](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNejRFdWREWXVOOW5tSF9DVDV2WFhTN2swZEw0RFFkNlF3RVJ3N1BCNTUxMFdlUnBGU0oxVVJSUERQWS1fMGlBek1WTWpaaE42ZkY3UnZQeW5OcXpxejFmUmc0bkxhSnpZZzNHQjZzdGFzVVhzaEp4aUs0U0l0N1RSQ3IzemVSaGxCaU5ZdDV3bzhINnFLWF91d1pUZWRlTmJJS29nMUV4OEU?oc=5)
+
+---
+
 ### [Una maratón formativa actualizará a la farmacia catalana en prevención y detección de la obesidad - Redacción Médica](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaUdrMjJIYXNsTjIzU0haUmlmYVpiSHhrWURhMDYwMzkzb0E5Y0ZTZDhmVlhfUFpqR2Q0MWJUcHpHZm9kRWtDLVVRLXc3dDR0dkxvX3l3QXdxR3IyZVlaMHpmWUN6eThnLXRnWDBqa0paMHdBSUNuQjdWY0RvUDhRNW8xMkRydWJaTnl1TGdULWU2Y1hicTZoODV5TDBVMGRDS2ZoQnFHLVh0X3dtcHotQUdLMU80NG4ybV93QXY4RGFWWVBUeDQ3QXd3T01EaWRGd2JmLVM1eW5VU2dGOEFGMlJqZFVleHZsYTRNSm1rVkNVUEtJVmpQZ1VB0gH_AUFVX3lxTE85dVlXaWZHbHg4WXZhenJhVy1aTjRnUVFQYUl4QW9XbEM4a0JLUDVXeTR6bk1YVHRERWd4eTl4NVlwa3k2cjlWSl9zTHVlXzM0cm1uVFdiODN5UWRxSkh1bWRyT3hnS3ZqaGR1VkVlRTU4SXVlcVFZaDUyUUZIbWhZYTFOVlhhZkwxbXJPdU80cFh5WElzSkxiaTJiNEFjN2YwcERqamo3dnJfek1qTkpObkNrbTVESEo5VW1sM1g2cEl6OHp6dFJwSHJGWVFocHA0T1pGRkVXeHc4VklBR1RRWkJ6c2wyZUphbDA1aVRWOXdrRUZMNDd4YnJzVDh4SQ?oc=5)
 
 2026-11-17 <span class="news-indication-tag">obesidad</span>
@@ -319,7 +367,7 @@ Source: [Open](https://news.google.com/rss/articles/CBMigAFBVV95cUxNUThaYlZlRzB3
 
 2026-11-16 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdldXOFhnRTVFT0RINTczLWoteDNJbHZTcFlXeFhuMTh5eEl5WWtibzN4SS10X1Z5SThUZGxwY1NBUWE5R3lOWWdpRHI3MUU1ZXRNeXhwTDl3X0NYcER3cUZYZGwzdzNvRHFZRnZtcG9mTE0tbGd6bWtVNGUxTW1oYnBqZHNzc1IxUHRiaWZFMkQtZlZhSUQxMmRTZVVlcmtOeDBkQWU4ZUFiU04tWEFtM1BzeUF0WFNSMUVadUk3YXRRMFJ5S3VFQTlqaGtwa3cwRFlnQ3RUOEVzcVRx?oc=5)
+Source: [springermedizin.de](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdldXOFhnRTVFT0RINTczLWoteDNJbHZTcFlXeFhuMTh5eEl5WWtibzN4SS10X1Z5SThUZGxwY1NBUWE5R3lOWWdpRHI3MUU1ZXRNeXhwTDl3X0NYcER3cUZYZGwzdzNvRHFZRnZtcG9mTE0tbGd6bWtVNGUxTW1oYnBqZHNzc1IxUHRiaWZFMkQtZlZhSUQxMmRTZVVlcmtOeDBkQWU4ZUFiU04tWEFtM1BzeUF0WFNSMUVadUk3YXRRMFJ5S3VFQTlqaGtwa3cwRFlnQ3RUOEVzcVRx?oc=5)
 
 ---
 
@@ -424,6 +472,14 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEl
 2026-11-15 <span class="news-indication-tag">ictus</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUDlsMGpmWFdzSk1nbWlVMmdqNzhyRWh5ZUNobmhOU2hFNGNNWkktdTExeEFYUlhTNUZPaUttYmFfQzBSSjRvWTJaLWJ4LVpXRW9TSDBHRHZ2T3hVNFlKUEViU2tSbzJDbjhqbmtYV3F1U01XVjZsa1dtbzJoRkF5T3pxWlA1MTRFYWpNQmZUajhob2RmLS1pVmVzU1Q4WmJQQV9KN1ltRHlFZW8tZDVNRDU0dkdRaVhnVkt1RWNSOHNOVjR2ZmREUlppVzQya2xSRDlDZHV3RUdIVnBvdUlFZVBxMkpFaG9hbUhOV050NU9WY3Y4N0ZZ?oc=5)
+
+---
+
+### [Abnehmspritze: Studie warnt vor höherem Sterberisiko nach Therapie-Stopp - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdTlkT2lEa25xX0NwWFF1YWxSbmhvTE5VcjI2LVBVSU92dllTVFlnbnROSll0RkhoMUFoVUtySWJadDJ5OW5vODNDQkRLVnhYUjFXMnlZWE1Md0tmOTJZM28td1pHbDRVZ2lXYUNKZlpCRUtGRERmb1l1MzcxSmRWOEdMRmtwSlRyLUJnSkh5TzE3eEw0eWhicVJJWV80SThRa2lQTkZIT1liYnVwU0ctMzFOS3YzSkJfOE9tMVJkTXdRQU9UQ2hUTQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdTlkT2lEa25xX0NwWFF1YWxSbmhvTE5VcjI2LVBVSU92dllTVFlnbnROSll0RkhoMUFoVUtySWJadDJ5OW5vODNDQkRLVnhYUjFXMnlZWE1Md0tmOTJZM28td1pHbDRVZ2lXYUNKZlpCRUtGRERmb1l1MzcxSmRWOEdMRmtwSlRyLUJnSkh5TzE3eEw0eWhicVJJWV80SThRa2lQTkZIT1liYnVwU0ctMzFOS3YzSkJfOE9tMVJkTXdRQU9UQ2hUTQ?oc=5)
 
 ---
 

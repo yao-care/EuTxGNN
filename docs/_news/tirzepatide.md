@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tirzepatide. 0 predicted indications."
 permalink: /news/tirzepatide/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Tirzepatide News

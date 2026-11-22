@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Adipositas (obesity) News"
+title: "obesità (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Adipositas (obesity). 124 articles, 8 related drugs."
+description: "Health news about obesità (obesity). 126 articles, 8 related drugs."
 permalink: /news/obesity/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-22
 ---
 
-# Adipositas (obesity) News
+# obesità (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
-<strong>Adipositas (obesity)</strong> currently has <strong>124 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obesità (obesity)?">
+<strong>obesità (obesity)</strong> currently has <strong>126 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Adipositas” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obesità” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,7 +37,23 @@ This page brings together the latest health news about “Adipositas” and list
 </ul>
 </div>
 
-## Related News (124)
+## Related News (126)
+
+### [Manovra, da psicologi a obesità: cosa prevedono gli emendamenti sulla sanità - Sky TG24](https://news.google.com/rss/articles/CBMidEFVX3lxTFA2S3ktLS1RMDdFQlFVbi14QnF0ZU5YSjRnOEtCalBoOHQwMWFtQmpHUkhFalVKakRKa1lQSXZ0alE5eEhGcnB4aVFwUThneW9BYUg1WmM1NUdmdUV6N2g2WmtXVFFJOWhlQzBET0xPa1FNaHNy?oc=5)
+
+2026-11-21
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMidEFVX3lxTFA2S3ktLS1RMDdFQlFVbi14QnF0ZU5YSjRnOEtCalBoOHQwMWFtQmpHUkhFalVKakRKa1lQSXZ0alE5eEhGcnB4aVFwUThneW9BYUg1WmM1NUdmdUV6N2g2WmtXVFFJOWhlQzBET0xPa1FNaHNy?oc=5)
+
+---
+
+### [Obesità e glicemia: è meglio fare brevi passeggiate o una lunga camminata per tenere sotto controllo i valori? - Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOaXJXWm5qM0RERjAyU3ZvcUxheUg3MFlpTlNSSEhxNG1jb0tyYnV2Z2JmU0lNVTNfNDYyOEJiQ0tDaWhhWUx1MnRreElEZDBzV1l3TmQydnFaRFpLZ3hmN29odmkydnNvV0pqNERvSWkzQXNnZVJIOEMtQTl1SU9KaHpuSmlPSEdPTGhwR3NlNVVnOGFSZk9MZEdjaFVyamZnVHZmcHduZjgzb0VjaENHakR1WnBWblRJZ0l1REFFV1A2Zzc0dGN4NDdXU0RJeXpWRk5JbkQyZE1LZ05KUjlUeldBVTlNWmxKMnpyQTVGamVPYURsbFVEQUlvYkRjMURnbzZ1X0VFejVWQktCd0RqQkRvelhhQ0tidHY5bzNRRFVqTjlZaFlvaUpYSnlBd9IBswJBVV95cUxOS0s2Smw0b0tSZXcxRHdDaHE1VjUzdFhES2NHTFUzR1FEcUdDdDZfYnJmTUhSTTdVRU56VERXY0ZHbG84czR5ZXZvYW1WVm5pUTR3V1R2UkJBclZBWVNpeE9JQ3ZwS1hWd3UwVTlSd2x1T2NuRGVxTy1uS2JlLW9VWjRpUXg3WTdDNnVhREZHRXBLRVFwbl9nSXhod3ZVQUtqcVdaUzE0LWg0WjZyWWc4ODlJQjFsbkZPWUdzX0J0VWM3dzVCNWVwZ3JVS3RVMnRQRTVhWmNBNlVuUEhzcnN0UDROS25RUkNTMUFsR3k4YkM4bmI4WEN1ZG9GTmtzdThvZDczN19hTXQ3OVViRmVGTUROR3RXWjBnd1pfMjI0TmZiTWpqZHNLUXljQjUtendRWVhF?oc=5)
+
+2026-11-21
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOaXJXWm5qM0RERjAyU3ZvcUxheUg3MFlpTlNSSEhxNG1jb0tyYnV2Z2JmU0lNVTNfNDYyOEJiQ0tDaWhhWUx1MnRreElEZDBzV1l3TmQydnFaRFpLZ3hmN29odmkydnNvV0pqNERvSWkzQXNnZVJIOEMtQTl1SU9KaHpuSmlPSEdPTGhwR3NlNVVnOGFSZk9MZEdjaFVyamZnVHZmcHduZjgzb0VjaENHakR1WnBWblRJZ0l1REFFV1A2Zzc0dGN4NDdXU0RJeXpWRk5JbkQyZE1LZ05KUjlUeldBVTlNWmxKMnpyQTVGamVPYURsbFVEQUlvYkRjMURnbzZ1X0VFejVWQktCd0RqQkRvelhhQ0tidHY5bzNRRFVqTjlZaFlvaUpYSnlBd9IBswJBVV95cUxOS0s2Smw0b0tSZXcxRHdDaHE1VjUzdFhES2NHTFUzR1FEcUdDdDZfYnJmTUhSTTdVRU56VERXY0ZHbG84czR5ZXZvYW1WVm5pUTR3V1R2UkJBclZBWVNpeE9JQ3ZwS1hWd3UwVTlSd2x1T2NuRGVxTy1uS2JlLW9VWjRpUXg3WTdDNnVhREZHRXBLRVFwbl9nSXhod3ZVQUtqcVdaUzE0LWg0WjZyWWc4ODlJQjFsbkZPWUdzX0J0VWM3dzVCNWVwZ3JVS3RVMnRQRTVhWmNBNlVuUEhzcnN0UDROS25RUkNTMUFsR3k4YkM4bmI4WEN1ZG9GTmtzdThvZDczN19hTXQ3OVViRmVGTUROR3RXWjBnd1pfMjI0TmZiTWpqZHNLUXljQjUtendRWVhF?oc=5)
+
+---
 
 ### [GESUNDHEITSRUNDSCHAU - GLP-1-Medikamente verbessern Herzfunktion bei Patienten mit Adipositas und Herzinsuffizienz - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZmgtckgyaVE3aHJhUW1zc3pneG1PZ01NQkJncm9ZRWhFNnhlY3RYd29pRDlFcWpmVXJkekVodzV3NEJFbktWRWhIWm54ZjY2am5OVFNhUHhadThTVzZQSHBKM1JkQXZXSDdMRnZfX0gySDgwSE5UWmJvQS1vZjZwVkp2bjdIOEJiS1RnME9VdzJBQW1rdUZYTlBDMV9FWmd2N3V6X2R1amZSQWVkbjdxamM0NlhSS3JzYWMxcFNmTnM2VWZQUl9ZYzMyRGYzeVEwOC1HSTRyQ1dtYzQwRGpZYjQtbVEtaV9NT0Fub2NmV1hrdEw2ZG1r?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ranibizumab. 9 predicted indications."
 permalink: /news/ranibizumab/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Ranibizumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Ranibizumab?">
-<strong>Ranibizumab</strong> currently has <strong>280 news articles</strong>, with 9 predicted indications.
+<strong>Ranibizumab</strong> currently has <strong>285 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,39 @@ This page combines the AI-predicted indications for Ranibizumab with the latest 
 <p><a href="{{ '/drugs/ranibizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (280)
+## Related News (285)
+
+### [One in three Britons has fatty liver disease – here’s how to keep yours healthy - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWJQSkQ2MW1GN0FQekxMLWFncDZxNkxuYnhPSzl3NkxJaHVnVlhzS0p5M1pKdkx3dGJ4d2N4SDE0Y1dUdld1Sk5vYWExRWxHQXRpR2dJd2lNbmlEdkp5X0N3a3dMMGNpZGN6V3lqVUw2Z0VmTUMtb2hVWEVHR0dqWFYtanBMVXJnZFRGYmVSVTliWDJsQVBhRmEyUVd6Y1NBSmlV?oc=5)
+
+2026-11-21 <span class="news-indication-tag">diabetic</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWJQSkQ2MW1GN0FQekxMLWFncDZxNkxuYnhPSzl3NkxJaHVnVlhzS0p5M1pKdkx3dGJ4d2N4SDE0Y1dUdld1Sk5vYWExRWxHQXRpR2dJd2lNbmlEdkp5X0N3a3dMMGNpZGN6V3lqVUw2Z0VmTUMtb2hVWEVHR0dqWFYtanBMVXJnZFRGYmVSVTliWDJsQVBhRmEyUVd6Y1NBSmlV?oc=5)
+
+---
+
+### [Ein außerordentlicher Professor am Universitätsklinikum warnt vor Gewohnheiten, die das Risiko, an Diabetes zu erkranken, erhöhen.](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnpQRlBYcVJxSFdCamxsR3hLTnRrTUpJcWRiLXBjcTFKQXJadGFZUXU5Q191ZHhrSVBMZ2pVc1hPWG9ucVNLR2MxRWhoWDRLODFvdFBLaDhhendDenVLS3BOOWpSYmdKX1hGdWZqdkdQR0ROWHRaSmZZWlhrMGtieEhLYW9aUnhXTFJXVnFndlk1NVAzRWdRekx6anJaOVZwVGFsTXFielo?oc=5)
+
+2026-11-21 <span class="news-indication-tag">diabetes</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnpQRlBYcVJxSFdCamxsR3hLTnRrTUpJcWRiLXBjcTFKQXJadGFZUXU5Q191ZHhrSVBMZ2pVc1hPWG9ucVNLR2MxRWhoWDRLODFvdFBLaDhhendDenVLS3BOOWpSYmdKX1hGdWZqdkdQR0ROWHRaSmZZWlhrMGtieEhLYW9aUnhXTFJXVnFndlk1NVAzRWdRekx6anJaOVZwVGFsTXFielo?oc=5)
+
+---
+
+### [(S+) Fitness: Der Rettungsring will nicht weichen? Wie Sport gegen Bauchfett hilft](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkQ0VWZQa21lTHVqSXBNeU9VVm16NjRVVWpJWFJXdTlhNUVyTUdiQTVucGN4LXgzZmp3OWJicGZ6S241bDZ5akp3SFljOTZCTUg3ME93bFdwek9jUnRDOE55My1ucmlYOWkwZ09yNElueG1UTG5GT2R2SzVhX0VPVGRpeXVua2dRb2xIak5JMmNaUkVqTmpmekx1Zmo0RGtyMndkSjBKV2lGcEhXbHhWZHFPUjNOTTZUNTh2NkkyY01ScTBGUk4xWnU4VWN5MFRRdFZRdlhaaThmbzdJRFE?oc=5)
+
+2026-11-21 <span class="news-indication-tag">diabetes</span>
+
+Source: [Spiegel](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkQ0VWZQa21lTHVqSXBNeU9VVm16NjRVVWpJWFJXdTlhNUVyTUdiQTVucGN4LXgzZmp3OWJicGZ6S241bDZ5akp3SFljOTZCTUg3ME93bFdwek9jUnRDOE55My1ucmlYOWkwZ09yNElueG1UTG5GT2R2SzVhX0VPVGRpeXVua2dRb2xIak5JMmNaUkVqTmpmekx1Zmo0RGtyMndkSjBKV2lGcEhXbHhWZHFPUjNOTTZUNTh2NkkyY01ScTBGUk4xWnU4VWN5MFRRdFZRdlhaaThmbzdJRFE?oc=5)
+
+---
+
+### [Eating and sleeping later linked to health risks - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
+
+2026-11-20 <span class="news-indication-tag">diabetes</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
+
+---
 
 ### [Diabetes: Diese vier Organe kann hoher Blutzucker besonders stark schädigen](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc0hnR3N3WlBRVE1fRU9qWXNJbzNnUzEySTNQbEd3dU82NjBhUTl2UFRGcUIzOWk2cVdXel92VndieWJYOGVSRTB5OUp1endTZnMyNGpqampVZWV3OEpkOERnT0prMWNnRWpNc0hkY2l5dl85RnhxOXZsV0pBa0lwQ0ZuLVBPWWhmVWxLOTgyYTBYdHlsQUFyUWNOU1I5VkJkXzBLSUlQZ2I1VmYwLUQzalVoeDQ0U3NVU3hBSXl1OHVNa1N4UHR4QVhKOGZoNUtJaVptSEtOazJ6V3c?oc=5)
 
@@ -64,6 +96,22 @@ Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi1wFBV
 2026-11-20 <span class="news-indication-tag">diabetes</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYVhfWUtMQlZkV2tpQWYyZk5WdVV6NUJFZUxjWWwtbzJCdHRNdDBFSXZDMk5PQlhlbE5XVTFJN3Y1bHlmWDlUMWJXdXRXaU5ZYmFiRVVVNEVKS01zZlQyWG41ZDFLZnBsY0kzaFBXSzF1XzVSaVpRVGRlN3hWd0lLNEh5WGlITzFYMGVxR3lzNmZFRUZjLW02WGRLN2ZJNmYzZXZNRDVTem1pVmxub0dHdkhlaW9PRkExX1VqejY2Y0YtdWRNNTFTUEVmYlJHMUt2NFZDdlVhSUdvOWMwOXEyX3Y2bWlyOHM?oc=5)
+
+---
+
+### [Diabète : les conseils d'une médecin pour mieux comprendre et équilibrer sa maladie - Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGFzU3lOWmVvTTBHUzZBVVpFYTN4SF9ic1ZhQ19PNmc5VDZ2ZE5CVUZyNGlXV2tpajFuSENiR0xJc0pyZGJIcHJOWnJzdU9mdG44RHJUNGh3OGthREdRYmdRRFk4YkJ2cW4tdjc0TlZDOXdhQnRST2RDNkVXQ3ptblBac0xyLXY2d0Y4bm84QllqY0lYSE1HcXVHeE1EZ3FzZTlGTHM5aVBDRFN2UGQzWVhWV0NkcE1JVXpTOG1nN2VPQnhm?oc=5)
+
+2026-11-20 <span class="news-indication-tag">diabète</span>
+
+Source: [Les Echos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGFzU3lOWmVvTTBHUzZBVVpFYTN4SF9ic1ZhQ19PNmc5VDZ2ZE5CVUZyNGlXV2tpajFuSENiR0xJc0pyZGJIcHJOWnJzdU9mdG44RHJUNGh3OGthREdRYmdRRFk4YkJ2cW4tdjc0TlZDOXdhQnRST2RDNkVXQ3ptblBac0xyLXY2d0Y4bm84QllqY0lYSE1HcXVHeE1EZ3FzZTlGTHM5aVBDRFN2UGQzWVhWV0NkcE1JVXpTOG1nN2VPQnhm?oc=5)
+
+---
+
+### [Millionen von Menschen sind dem Risiko von Komplikationen ausgesetzt, weil die Krankheit unbemerkt fortschreitet.](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUhrLUp5Nm5UNFJfdkJMd2tRSGFhbmJJMGdZSVFUdlJTbXduVE8xeWxEMTVvYllXRzRLRmRYc2RtLTU2NEl4N0p4WktldjNxYmJCOEZqMVhoNk1TODNzRVVhZTdHOUZTZEh5T0xHcnRNOEszQVJaN3prSVZCRkxHMzRQTlktdG1BOVo4cmxZMEl5NXloOHpXVnhoUTNLR3BI?oc=5)
+
+2026-11-20 <span class="news-indication-tag">diabetes</span>
+
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUhrLUp5Nm5UNFJfdkJMd2tRSGFhbmJJMGdZSVFUdlJTbXduVE8xeWxEMTVvYllXRzRLRmRYc2RtLTU2NEl4N0p4WktldjNxYmJCOEZqMVhoNk1TODNzRVVhZTdHOUZTZEh5T0xHcnRNOEszQVJaN3prSVZCRkxHMzRQTlktdG1BOVo4cmxZMEl5NXloOHpXVnhoUTNLR3BI?oc=5)
 
 ---
 
@@ -176,14 +224,6 @@ Source: [ARD Mediathek](https://news.google.com/rss/articles/CBMickFVX3lxTE9QZ1N
 2026-11-18 <span class="news-indication-tag">diabetes</span>
 
 Source: [Onda Cero](https://news.google.com/rss/articles/CBMihwJBVV95cUxNdFI4Njd4UEx6VElaMmhCTTZESExkUHJValhQNmtmTmRJbUhLcXk2a3lxanlxM0dNNVFPOUVNT3FqMXZjWVZMbmNxSEZlcjdRSDgxY2ppdW11cVB6dEExa1Q4MWgzS2UycnF0Y3ZETjJ0cWdsUjM1UEhDTFpxMWpVbjZJdVR3VERpb1pEUW9QMmJIWUR3WHhIcmlQSFZGdFB3Wms4RkI2ekVHSGZMQnRzc01sMkZkcmtGOHZqQ2oxMWtTbVpVUkNYNkY0WkV0YVVlZXJNYkl1VmdVdWs4TVZGM0dpUE1IOVdzSVZBYl85cmRGMV9yRzlEUnpOeXh3WjdlOXJOTGpqNA?oc=5)
-
----
-
-### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
-
-2026-11-18 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">diabetes</span>
-
-Source: [BR](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5)
 
 ---
 

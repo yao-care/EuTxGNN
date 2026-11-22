@@ -3,9 +3,9 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 54 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 55 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # dementia (alzheimer disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>54 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>55 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (54)
+## Related News (55)
 
 ### [People entering old age now have better memory than their parents did](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUUNlNUZrMjcyOXREdHVsLWRLaTR6S2tNbGNJSzkzZVNMeVZNaUtBNkNQQ0Mta0tlMnNlOVlsS21RYWV2amJKWFdNdC1wdTNwSTFBYlBVdjZJ?oc=5)
 
@@ -59,6 +59,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUU
 2026-11-19
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUNzY1Yyck5Pa0NhQkM2R3VyUDZ2dkMwdHR0S282TENpVi1HQ3JjRV95eERTVVJQQ1dzVk43S0FWYlRORlI0RDYySE9oLVk4UnZoODhzcFJKNDBpMWh3d1IxbF9nX1NhTE5senJNZDdNRnUwSEpPRW52cXRUMUtWV2lGS0FsNy1TR2ZJVHc5dHRfbE1hNGl5VlhsWVNqUXB0ZVVHMQ?oc=5)
+
+---
+
+### [Your brain may be hiding Alzheimer’s from you – and that’s not always a good thing - The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE1Nb29pV1JXRXMwMjRXbjZBLUx6cVN2Vjk4Y3dleUJ3QmpGakVKeFdRTGhyTmYxUENzLVdkZUJJcU5YLVVvTHFGeTBGREZEbjQxTWtJVWs0dUJLeWFwU0VWdUdhOVRZMTlreVNIRzdGYkpVTnpPaFpEU2E2UWpPUDJyN1hLNXBqaHFpa2ZfT29KVVBqQXc1Q0N2aDFJTDhlbVlNNm02OUVyU3p6SXd5QnJtYw?oc=5)
+
+2026-11-18
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE1Nb29pV1JXRXMwMjRXbjZBLUx6cVN2Vjk4Y3dleUJ3QmpGakVKeFdRTGhyTmYxUENzLVdkZUJJcU5YLVVvTHFGeTBGREZEbjQxTWtJVWs0dUJLeWFwU0VWdUdhOVRZMTlreVNIRzdGYkpVTnpPaFpEU2E2UWpPUDJyN1hLNXBqaHFpa2ZfT29KVVBqQXc1Q0N2aDFJTDhlbVlNNm02OUVyU3p6SXd5QnJtYw?oc=5)
 
 ---
 

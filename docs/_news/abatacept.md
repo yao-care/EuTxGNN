@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Abatacept. 7 predicted indications."
 permalink: /news/abatacept/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-22
 ---
 
 # Abatacept News

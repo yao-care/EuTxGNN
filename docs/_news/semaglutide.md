@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>63 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>64 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (63)
+## Related News (64)
+
+### [Weight-loss jab worries: ‘We don’t have a crystal ball about risks’ - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2lLeGxHYnk1ajBENFlpYm55YlhkaFc3QmlINlN6anBRbDhrZUJXY1A2ZUhRa2tCS0Fyd210alAwUWNEa18wbkRLaUR4X0tiRjhfcnR6YXc1R196dHNwSUdiSEZQcmFiTG1RWG1OVEF1YVV3aEhYTmk2SFFteHZRODJSMnV1aE9IdFJuSzFxTFFSeUY2U3NWUg?oc=5)
+
+2026-11-20 <span class="news-drug-tag">Semaglutide</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2lLeGxHYnk1ajBENFlpYm55YlhkaFc3QmlINlN6anBRbDhrZUJXY1A2ZUhRa2tCS0Fyd210alAwUWNEa18wbkRLaUR4X0tiRjhfcnR6YXc1R196dHNwSUdiSEZQcmFiTG1RWG1OVEF1YVV3aEhYTmk2SFFteHZRODJSMnV1aE9IdFJuSzFxTFFSeUY2U3NWUg?oc=5)
+
+---
 
 ### [Farmaci per diabetici e obesi per "perdere qualche chilo": stretta in arrivo sulle prescrizioni](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
 

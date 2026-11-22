@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Ibuprofen. 7 predicted indications."
 permalink: /news/ibuprofen/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-22
 ---
 
 # Ibuprofen News

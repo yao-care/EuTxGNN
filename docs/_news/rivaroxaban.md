@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Rivaroxaban. 4 predicted indications."
 permalink: /news/rivaroxaban/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-22
 ---
 
 # Rivaroxaban News

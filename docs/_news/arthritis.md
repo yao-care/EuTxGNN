@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about artritis (arthritis). 16 articles, 73 related drugs."
 permalink: /news/arthritis/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-22
 ---
 
 # artritis (arthritis) News

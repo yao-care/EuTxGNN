@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>63 news articles</strong>, with 2 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>62 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (63)
+## Related News (62)
 
 ### [Bewegungsmuster: KI erkennt Leberfibrose und Depressionen am Gang](https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0pEaDZnU1NDOU5KUXl1cjYySDdVMjc3dU1neDJGVFFaby1LZDJuZFNETDJNWmNWLV82Sk5wUy1udHF2SnZtc09vaHhIbmZaSXAxTExiY1B2MzlzczM4S3N4U0xLX2dTcDhDYkQxNGF1dk5SVjZNTklVMjRJaUJBTVh5bjhWczJGZWtuQ24zUVp4Vm01UGNxbjcxMGVJeXlPZDdoTWE1bFNJTzZ4S1RENQ?oc=5)
 
@@ -89,14 +89,6 @@ Source: [food-monitor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcE03
 2026-11-18 <span class="news-indication-tag">Vorhofflimmern</span>
 
 Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5)
-
----
-
-### [Over 60, come mantenere attiva la mente: le abitudini amiche del cervello](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmo0bmJFMFZaWXBmYlFNakN2YnM0VEhLS0R5LUhCaGJibTVWMHNSaUhFc1ktaHVpelUwOHRNVmJBYTJ3U2VWbmQ4YmVwMDNkcjNHOUl2ZGFURmtWclA3OEFkQXJaUDJLYUFkWksxaUk5QTFjR01HbVhoQ3BWZ25FVk1MS084UkgtWDlqTVp0M3dMYXVSODh4d0w3amI5a0hhUHJVSk9fRW9BMVM3ZmZWbU5qVFFSMXpuaUhxSThoOA?oc=5)
-
-2026-11-18 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">depression</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmo0bmJFMFZaWXBmYlFNakN2YnM0VEhLS0R5LUhCaGJibTVWMHNSaUhFc1ktaHVpelUwOHRNVmJBYTJ3U2VWbmQ4YmVwMDNkcjNHOUl2ZGFURmtWclA3OEFkQXJaUDJLYUFkWksxaUk5QTFjR01HbVhoQ3BWZ25FVk1MS084UkgtWDlqTVp0M3dMYXVSODh4d0w3amI5a0hhUHJVSk9fRW9BMVM3ZmZWbU5qVFFSMXpuaUhxSThoOA?oc=5)
 
 ---
 

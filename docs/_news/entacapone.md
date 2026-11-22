@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Entacapone. 10 predicted indications."
 permalink: /news/entacapone/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Entacapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>64 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>65 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (64)
+## Related News (65)
 
 ### [People entering old age now have better memory than their parents did](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUUNlNUZrMjcyOXREdHVsLWRLaTR6S2tNbGNJSzkzZVNMeVZNaUtBNkNQQ0Mta0tlMnNlOVlsS21RYWV2amJKWFdNdC1wdTNwSTFBYlBVdjZJ?oc=5)
 
@@ -57,6 +57,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUU
 2026-11-19 <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUNzY1Yyck5Pa0NhQkM2R3VyUDZ2dkMwdHR0S282TENpVi1HQ3JjRV95eERTVVJQQ1dzVk43S0FWYlRORlI0RDYySE9oLVk4UnZoODhzcFJKNDBpMWh3d1IxbF9nX1NhTE5senJNZDdNRnUwSEpPRW52cXRUMUtWV2lGS0FsNy1TR2ZJVHc5dHRfbE1hNGl5VlhsWVNqUXB0ZVVHMQ?oc=5)
+
+---
+
+### [Your brain may be hiding Alzheimer’s from you – and that’s not always a good thing - The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE1Nb29pV1JXRXMwMjRXbjZBLUx6cVN2Vjk4Y3dleUJ3QmpGakVKeFdRTGhyTmYxUENzLVdkZUJJcU5YLVVvTHFGeTBGREZEbjQxTWtJVWs0dUJLeWFwU0VWdUdhOVRZMTlreVNIRzdGYkpVTnpPaFpEU2E2UWpPUDJyN1hLNXBqaHFpa2ZfT29KVVBqQXc1Q0N2aDFJTDhlbVlNNm02OUVyU3p6SXd5QnJtYw?oc=5)
+
+2026-11-18 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE1Nb29pV1JXRXMwMjRXbjZBLUx6cVN2Vjk4Y3dleUJ3QmpGakVKeFdRTGhyTmYxUENzLVdkZUJJcU5YLVVvTHFGeTBGREZEbjQxTWtJVWs0dUJLeWFwU0VWdUdhOVRZMTlreVNIRzdGYkpVTnpPaFpEU2E2UWpPUDJyN1hLNXBqaHFpa2ZfT29KVVBqQXc1Q0N2aDFJTDhlbVlNNm02OUVyU3p6SXd5QnJtYw?oc=5)
 
 ---
 

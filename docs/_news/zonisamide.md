@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Zonisamide. 9 predicted indications."
 permalink: /news/zonisamide/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Zonisamide News
@@ -43,6 +43,14 @@ This page combines the AI-predicted indications for Zonisamide with the latest h
 
 ## Related News (48)
 
+### [Sleeping nine or more hours in a day could be a warning sign for adults with this common condition - The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW90TlFPTlI1WWpRMnBoVlNXVk5yc1RzV3RfSC01RFd6QldZbUFHMEFNNzFvTE5VdHZ6eXBTVFhVaWVLYzMxVklPMmtyZjZ3WjE1YVlzY0o5WjlkSWRKXy11UW9JTmJ3c2Y2aFVyeGt3a0h2TFVCTXJMMXdmVDFaNDhoNWFGTGcwbWJwVlVQM3Y?oc=5)
+
+2026-11-20 <span class="news-indication-tag">heart disease</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW90TlFPTlI1WWpRMnBoVlNXVk5yc1RzV3RfSC01RFd6QldZbUFHMEFNNzFvTE5VdHZ6eXBTVFhVaWVLYzMxVklPMmtyZjZ3WjE1YVlzY0o5WjlkSWRKXy11UW9JTmJ3c2Y2aFVyeGt3a0h2TFVCTXJMMXdmVDFaNDhoNWFGTGcwbWJwVlVQM3Y?oc=5)
+
+---
+
 ### [This One Sleep Factor Matters More Than How Many Hours You Get, Study Suggests](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5S1NMd18xa25FMFRMTDFSZkZITWJKb1AyeWg3TTdSNERkQjF1OXJYRGotUGFBT0pFNXM4RDFnR2V2ZXJCVXFWVUpmQlNocHI0Wi1INlJ6NktZbDNGZUJfT0tDd21XcVFKLW1Yb1Ztb0hLZGh1THlLOWIzU0NuVElyc01Wb0p2bHRKVlpaNzZWdy0wZmlIM0dfSy1YNUFrRUQ5SW94WVp1dw?oc=5)
 
 2026-11-19 <span class="news-indication-tag">heart disease</span>
@@ -56,14 +64,6 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFd5
 2026-11-19 <span class="news-indication-tag">epilepsia</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTVUcFBBeFNaQlVFZ0kzU1ROekJvQnowSW54aXJZNkRGcUhkbUVvZnNfNTFIZVBpeFBJMlNHUVAzYl9wcHk2dnBnWDkySUczV2JqX1MyRFFLd2N6YndlaEpTNnEtXzdoWDR5NlFRMzFjNXRNeDBBU3lFWGlxOE11alZqUVJ1TUJNVk4zRFJCa2p3Vk01OHBKeFQ5NzZzVTNWbFlBaVBjZkJkYUtBeUIyNEZiSlNfTUlYb29PS9IBtwFBVV95cUxPb0VQdWtnTTRWYlhzUlNVdWZJRzNHbF9tSjZ4MnNRZkJ6bm5kdlpsekFJNE9iZkpBd3JrVTFHQjFDMUpsdXE1Y3ZiczRlZUtRcjJsdzl4TDcwUFlBZHJ0Nkx4T0llazhSWE1PQjZEZE9DRzV4Yi1PWmlhaVlla0NKN0N6LTZLTzR1UUdLUFczWXVNSGNLZTFDZ1I4VnNhSzlGcmU1M01oclpwU2Zjd0ZDSkhOYjBOclk?oc=5)
-
----
-
-### [Heart surgeon names early sign on front of your leg that your heart is in trouble - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
-
-2026-11-19 <span class="news-indication-tag">heart disease</span>
-
-Source: [Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFJ0ZmM3TlpXZXlFOEhzeWNhajJPR1NkdVdOa2FNeExSaklDdkE3NEpfbGFnZ0QyYlhwQUNkM1lkTXVLYVJKUlozNlQ5aEs1NjVJOVR6VGtkSlpqTEt5ZlV4b0tXVVNHWll3c25MZElVOHZVOG81UjdaV0ZVc3hSdUtLSnpuTllFcHhZc2hGeDLSAZYBQVVfeXFMTml0UklZOWtOcFVyNDNPTkpmaGlfem1xSkU4ZWVSVEtlSzY5R0tib3JjWFNlZnFRVzF2cjFma0VNdFZPNmNsRjdpanhraThaQkhhT2VDV1RYb3pZM1RjR0MxVXVWdU5KQS1vcG50TzhGWm8tb3lDazJmV0tSVUJEa1lQbFpVWkJMenlDeDZJV2dNSXRDWE1B?oc=5)
 
 ---
 
