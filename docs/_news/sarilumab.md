@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Sarilumab. 0 predicted indications."
 permalink: /news/sarilumab/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Sarilumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>53 news articles</strong>, with 0 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>52 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (53)
+## Related News (52)
 
 ### [¿Falta de aire o tos persistente? Podría ser EPOC: así se detecta y controla a tiempo en la isla - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXlscnlINzJPUzh3Q0x4aDJCTXNDeUEzNllZaHNYMHQ2MDBuQUItVldSOGVqbE5tWnplLUstZGdJR3RGVk1GdndldlA1YlBBT3hFdnV2OWhhdV8yUHduZUdXYkFBWXFDQkxSODVqOXI2aU9mOWZ0dk9WOUNNV2hLNUVFaXM5UmZIX2VnbkNNSUh3TWdqZGdacXplYjdmeVUydEVKM3pjbmlKeHJFck1waW0xbTdZN25MOW96b1I1RFNUWGpSVmFQTzAxRjV0dVR0WHA2M0pONHlxTHA1ak9UNzlyMmk4M0Js0gHuAUFVX3lxTE8zc1pkeExkaW5ORWUzZkc1ejd3U2puVVJ2OTA5STRseldmX2d3WFZZd1BaOGZmS2JGTGdoekQ2Ri16cWthZUEtNkNqNjk5ckxmSXlIb0hhYmM5dU01VVlSeW4tV1JXeVNoYVhEbVZ5R0FueE5WS3B1ODVoYkwxMmEzR0tCUGFaV3JFX29fQkFkU093TG92TmI0dl9zZmVjUnFCNjBDWk1ja2piUVJlMi1qWkpLeGM1S3NPTEJuMTdCYnFxWHBnQ2t4bGp0NUxoM1VkcEZjY1NHWVFfRVB3MXJpQk9yVFB4YXNPLTZrRXc?oc=5)
 
@@ -61,14 +61,6 @@ Source: [Canarias7](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVZlNDV
 2026-11-20 <span class="news-indication-tag">arthritis</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zWDZGQ19yYVE1Rkg2WTZHXzdYdjVoTk1pWS1TQWd5TXVZN1RwR0RaV05Xeng5cEM4VWZHd1RVTEJKaFZ0MEd4czEwX2dXR3ZOMlRQaG5ZYldtTmJZc2c?oc=5)
-
----
-
-### [Powerful new weight-loss drug helps patients cut knee pain in half](https://news.google.com/rss/articles/CBMib0FVX3lxTE5mdWVxaEZDcGQwZUk5cm9xOXNJdEZuUnNQejZmRVg1MVNaZEFSRTU1bUxTSE02azVFQUpqdENQLVBMUEJhYmF0Vm82cVBmN2IyclZCRDdtMnltLWplVjBZN3p3RVFUa1hFcmRBeXNpYw?oc=5)
-
-2026-11-20 <span class="news-indication-tag">arthritis</span>
-
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5mdWVxaEZDcGQwZUk5cm9xOXNJdEZuUnNQejZmRVg1MVNaZEFSRTU1bUxTSE02azVFQUpqdENQLVBMUEJhYmF0Vm82cVBmN2IyclZCRDdtMnltLWplVjBZN3p3RVFUa1hFcmRBeXNpYw?oc=5)
 
 ---
 

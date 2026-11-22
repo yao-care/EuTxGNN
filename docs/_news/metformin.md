@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Metformin. 5 predicted indications."
 permalink: /news/metformin/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Metformin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Metformin?">
-<strong>Metformin</strong> currently has <strong>286 news articles</strong>, with 5 predicted indications.
+<strong>Metformin</strong> currently has <strong>288 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Metformin with the latest he
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (286)
+## Related News (288)
 
 ### [One in three Britons has fatty liver disease – here’s how to keep yours healthy - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWJQSkQ2MW1GN0FQekxMLWFncDZxNkxuYnhPSzl3NkxJaHVnVlhzS0p5M1pKdkx3dGJ4d2N4SDE0Y1dUdld1Sk5vYWExRWxHQXRpR2dJd2lNbmlEdkp5X0N3a3dMMGNpZGN6V3lqVUw2Z0VmTUMtb2hVWEVHR0dqWFYtanBMVXJnZFRGYmVSVTliWDJsQVBhRmEyUVd6Y1NBSmlV?oc=5)
 
@@ -52,6 +52,22 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWJ
 2026-11-21 <span class="news-indication-tag">diabetes</span>
 
 Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnpQRlBYcVJxSFdCamxsR3hLTnRrTUpJcWRiLXBjcTFKQXJadGFZUXU5Q191ZHhrSVBMZ2pVc1hPWG9ucVNLR2MxRWhoWDRLODFvdFBLaDhhendDenVLS3BOOWpSYmdKX1hGdWZqdkdQR0ROWHRaSmZZWlhrMGtieEhLYW9aUnhXTFJXVnFndlk1NVAzRWdRekx6anJaOVZwVGFsTXFielo?oc=5)
+
+---
+
+### [(S+) Fitness: Der Rettungsring will nicht weichen? Wie Sport gegen Bauchfett hilft](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkQ0VWZQa21lTHVqSXBNeU9VVm16NjRVVWpJWFJXdTlhNUVyTUdiQTVucGN4LXgzZmp3OWJicGZ6S241bDZ5akp3SFljOTZCTUg3ME93bFdwek9jUnRDOE55My1ucmlYOWkwZ09yNElueG1UTG5GT2R2SzVhX0VPVGRpeXVua2dRb2xIak5JMmNaUkVqTmpmekx1Zmo0RGtyMndkSjBKV2lGcEhXbHhWZHFPUjNOTTZUNTh2NkkyY01ScTBGUk4xWnU4VWN5MFRRdFZRdlhaaThmbzdJRFE?oc=5)
+
+2026-11-21 <span class="news-indication-tag">diabetes</span>
+
+Source: [Spiegel](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkQ0VWZQa21lTHVqSXBNeU9VVm16NjRVVWpJWFJXdTlhNUVyTUdiQTVucGN4LXgzZmp3OWJicGZ6S241bDZ5akp3SFljOTZCTUg3ME93bFdwek9jUnRDOE55My1ucmlYOWkwZ09yNElueG1UTG5GT2R2SzVhX0VPVGRpeXVua2dRb2xIak5JMmNaUkVqTmpmekx1Zmo0RGtyMndkSjBKV2lGcEhXbHhWZHFPUjNOTTZUNTh2NkkyY01ScTBGUk4xWnU4VWN5MFRRdFZRdlhaaThmbzdJRFE?oc=5)
+
+---
+
+### [Eating and sleeping later linked to health risks - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
+
+2026-11-20 <span class="news-indication-tag">diabetes</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
 
 ---
 

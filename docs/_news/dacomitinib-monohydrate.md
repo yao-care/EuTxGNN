@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Dacomitinib Monohydrate. 0 predicted indications."
 permalink: /news/dacomitinib-monohydrate/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Dacomitinib Monohydrate News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Dacomitinib Monohydrate?">
-<strong>Dacomitinib Monohydrate</strong> currently has <strong>97 news articles</strong>, with 0 predicted indications.
+<strong>Dacomitinib Monohydrate</strong> currently has <strong>95 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ This page combines the AI-predicted indications for Dacomitinib Monohydrate with
 <p><a href="{{ '/drugs/dacomitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (97)
+## Related News (95)
 
 ### [NHS warns of ‘alarming’ rise in hospital admissions for high blood pressure - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnhBT3JocW80T3pvRkpsWjIwNUR5eS03ME1VUWVRcDM2a3l2Z1ZlVWVQZjluekR2SThVZzZ4SDctZXNkamlGNUpPeXlBMTljRVdPTGhnMmpQWXlfNjRJajdtVG1jcDhXMWR1QWRfdDJJMFIxa0FyV1J0Q2J2a2FEdkotcUJUaFE2WHV0Z3VqWHJBbXdUZ2xxd2ZwRWVpRktwREI2Nms2QTM0UQ?oc=5)
 
-2026-11-21 <span class="news-indication-tag">high blood pressure</span>
+2026-11-21 <span class="news-indication-tag">hypertension</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnhBT3JocW80T3pvRkpsWjIwNUR5eS03ME1VUWVRcDM2a3l2Z1ZlVWVQZjluekR2SThVZzZ4SDctZXNkamlGNUpPeXlBMTljRVdPTGhnMmpQWXlfNjRJajdtVG1jcDhXMWR1QWRfdDJJMFIxa0FyV1J0Q2J2a2FEdkotcUJUaFE2WHV0Z3VqWHJBbXdUZ2xxd2ZwRWVpRktwREI2Nms2QTM0UQ?oc=5)
-
----
-
-### [Expert names number of steps anyone over 60 should get every day - not 10,000](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdk5UdlRPOHE4M0J4OFFsUzlKeDZ4c21HRnFZdXV1ZHl5NGhUWXRTc2VwMk5TRUFrS2VDakp6RWJqbEZTMmRUaUxpOVljTkd6amRJeWloRHNVeTNCbUFJU3RrV2NaLUl4elZ6WkpSa3hrSDZHcllWMEVkOUdSX0g0Q080MVc?oc=5)
-
-2026-11-21 <span class="news-indication-tag">heart disease</span>
-
-Source: [AOL.co.uk](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdk5UdlRPOHE4M0J4OFFsUzlKeDZ4c21HRnFZdXV1ZHl5NGhUWXRTc2VwMk5TRUFrS2VDakp6RWJqbEZTMmRUaUxpOVljTkd6amRJeWloRHNVeTNCbUFJU3RrV2NaLUl4elZ6WkpSa3hrSDZHcllWMEVkOUdSX0g0Q080MVc?oc=5)
 
 ---
 
@@ -76,14 +68,6 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxP
 2026-11-20 <span class="news-indication-tag">arthritis</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zWDZGQ19yYVE1Rkg2WTZHXzdYdjVoTk1pWS1TQWd5TXVZN1RwR0RaV05Xeng5cEM4VWZHd1RVTEJKaFZ0MEd4czEwX2dXR3ZOMlRQaG5ZYldtTmJZc2c?oc=5)
-
----
-
-### [Powerful new weight-loss drug helps patients cut knee pain in half](https://news.google.com/rss/articles/CBMib0FVX3lxTE5mdWVxaEZDcGQwZUk5cm9xOXNJdEZuUnNQejZmRVg1MVNaZEFSRTU1bUxTSE02azVFQUpqdENQLVBMUEJhYmF0Vm82cVBmN2IyclZCRDdtMnltLWplVjBZN3p3RVFUa1hFcmRBeXNpYw?oc=5)
-
-2026-11-20 <span class="news-indication-tag">arthritis</span>
-
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5mdWVxaEZDcGQwZUk5cm9xOXNJdEZuUnNQejZmRVg1MVNaZEFSRTU1bUxTSE02azVFQUpqdENQLVBMUEJhYmF0Vm82cVBmN2IyclZCRDdtMnltLWplVjBZN3p3RVFUa1hFcmRBeXNpYw?oc=5)
 
 ---
 

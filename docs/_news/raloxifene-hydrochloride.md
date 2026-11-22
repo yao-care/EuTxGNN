@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Raloxifene Hydrochloride. 0 predicted indications."
 permalink: /news/raloxifene-hydrochloride/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Raloxifene Hydrochloride News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>130 news articles</strong>, with 0 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>131 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <p><a href="{{ '/drugs/raloxifene/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (130)
+## Related News (131)
 
 ### [Los casos de ictus en jóvenes se duplican y un experto revela las causas: "Lo peor para el cerebro y lo peor para el corazón"](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSEFuN2RQRVZyYndVUzFWTnA3OHlKRk0zV2wtQmp0c1ZWVjdtT3hMdEJpXzRMWmtIbU1tVFBSWHdnRXdvX0Q2QWpTSjRnSzVCUDdxNGdBZk9iTGVzWVZNeGRTME1QdTc0UmI3R0ZTUl9DRkYxNVhaVk1zdFJpT3FvUzFNa0RCX1pNYUhMT1VleWc3YnNQdmpoYmxjTFhXcE14UU56cUdPY3V5QUZLSW03dXFHQVFGX0ZqcTRZci1fU3d4Q1NtSjRYRXgxMm00NGU0QVdSTXR3dXExYmVPdEdnd1J3Z9IB6AFBVV95cUxNVkhOd1ZKaXVnTEcxYmM0dnJkM0VQY2pQUm9Zdm00NFRlNEd2RFBIOGI5eEJkS25NM0tpYk1KdlNobXBwZjFldUFmZWVIYXFXUmxmUFZ3REhUVzdyQXRvNk82T0F6Q1VhQy1RSWVhYmtQVTdIdHBETjJ4aHlaQTZpRFZCLWtrSHJVQjVrS29JYWYtcUtzOFk5ZEphVlBTNFkxc2lpXzB6RnlXNHBwcGw5LWRDb3dHLXZUMXFQQW5IdkFxSF8zcEJaeWlMT2pNVVd0dXNOWWRqV3hJNkJWMXJXMjBoclgzbmJZ?oc=5)
 
@@ -300,6 +300,14 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEl
 2026-11-15 <span class="news-indication-tag">ictus</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUDlsMGpmWFdzSk1nbWlVMmdqNzhyRWh5ZUNobmhOU2hFNGNNWkktdTExeEFYUlhTNUZPaUttYmFfQzBSSjRvWTJaLWJ4LVpXRW9TSDBHRHZ2T3hVNFlKUEViU2tSbzJDbjhqbmtYV3F1U01XVjZsa1dtbzJoRkF5T3pxWlA1MTRFYWpNQmZUajhob2RmLS1pVmVzU1Q4WmJQQV9KN1ltRHlFZW8tZDVNRDU0dkdRaVhnVkt1RWNSOHNOVjR2ZmREUlppVzQya2xSRDlDZHV3RUdIVnBvdUlFZVBxMkpFaG9hbUhOV050NU9WY3Y4N0ZZ?oc=5)
+
+---
+
+### [Abnehmspritze: Studie warnt vor höherem Sterberisiko nach Therapie-Stopp - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdTlkT2lEa25xX0NwWFF1YWxSbmhvTE5VcjI2LVBVSU92dllTVFlnbnROSll0RkhoMUFoVUtySWJadDJ5OW5vODNDQkRLVnhYUjFXMnlZWE1Md0tmOTJZM28td1pHbDRVZ2lXYUNKZlpCRUtGRERmb1l1MzcxSmRWOEdMRmtwSlRyLUJnSkh5TzE3eEw0eWhicVJJWV80SThRa2lQTkZIT1liYnVwU0ctMzFOS3YzSkJfOE9tMVJkTXdRQU9UQ2hUTQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdTlkT2lEa25xX0NwWFF1YWxSbmhvTE5VcjI2LVBVSU92dllTVFlnbnROSll0RkhoMUFoVUtySWJadDJ5OW5vODNDQkRLVnhYUjFXMnlZWE1Md0tmOTJZM28td1pHbDRVZ2lXYUNKZlpCRUtGRERmb1l1MzcxSmRWOEdMRmtwSlRyLUJnSkh5TzE3eEw0eWhicVJJWV80SThRa2lQTkZIT1liYnVwU0ctMzFOS3YzSkJfOE9tMVJkTXdRQU9UQ2hUTQ?oc=5)
 
 ---
 

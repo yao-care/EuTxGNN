@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Cabotegravir. 5 predicted indications."
 permalink: /news/cabotegravir/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Cabotegravir News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Cabotegravir?">
-<strong>Cabotegravir</strong> currently has <strong>324 news articles</strong>, with 5 predicted indications.
+<strong>Cabotegravir</strong> currently has <strong>325 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Cabotegravir with the latest
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (324)
+## Related News (325)
 
 ### [One in three Britons has fatty liver disease – here’s how to keep yours healthy - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWJQSkQ2MW1GN0FQekxMLWFncDZxNkxuYnhPSzl3NkxJaHVnVlhzS0p5M1pKdkx3dGJ4d2N4SDE0Y1dUdld1Sk5vYWExRWxHQXRpR2dJd2lNbmlEdkp5X0N3a3dMMGNpZGN6V3lqVUw2Z0VmTUMtb2hVWEVHR0dqWFYtanBMVXJnZFRGYmVSVTliWDJsQVBhRmEyUVd6Y1NBSmlV?oc=5)
 
@@ -55,11 +55,27 @@ Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnpQRl
 
 ---
 
+### [(S+) Fitness: Der Rettungsring will nicht weichen? Wie Sport gegen Bauchfett hilft](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkQ0VWZQa21lTHVqSXBNeU9VVm16NjRVVWpJWFJXdTlhNUVyTUdiQTVucGN4LXgzZmp3OWJicGZ6S241bDZ5akp3SFljOTZCTUg3ME93bFdwek9jUnRDOE55My1ucmlYOWkwZ09yNElueG1UTG5GT2R2SzVhX0VPVGRpeXVua2dRb2xIak5JMmNaUkVqTmpmekx1Zmo0RGtyMndkSjBKV2lGcEhXbHhWZHFPUjNOTTZUNTh2NkkyY01ScTBGUk4xWnU4VWN5MFRRdFZRdlhaaThmbzdJRFE?oc=5)
+
+2026-11-21 <span class="news-indication-tag">diabetes</span>
+
+Source: [Spiegel](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkQ0VWZQa21lTHVqSXBNeU9VVm16NjRVVWpJWFJXdTlhNUVyTUdiQTVucGN4LXgzZmp3OWJicGZ6S241bDZ5akp3SFljOTZCTUg3ME93bFdwek9jUnRDOE55My1ucmlYOWkwZ09yNElueG1UTG5GT2R2SzVhX0VPVGRpeXVua2dRb2xIak5JMmNaUkVqTmpmekx1Zmo0RGtyMndkSjBKV2lGcEhXbHhWZHFPUjNOTTZUNTh2NkkyY01ScTBGUk4xWnU4VWN5MFRRdFZRdlhaaThmbzdJRFE?oc=5)
+
+---
+
 ### [¿Falta de aire o tos persistente? Podría ser EPOC: así se detecta y controla a tiempo en la isla - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXlscnlINzJPUzh3Q0x4aDJCTXNDeUEzNllZaHNYMHQ2MDBuQUItVldSOGVqbE5tWnplLUstZGdJR3RGVk1GdndldlA1YlBBT3hFdnV2OWhhdV8yUHduZUdXYkFBWXFDQkxSODVqOXI2aU9mOWZ0dk9WOUNNV2hLNUVFaXM5UmZIX2VnbkNNSUh3TWdqZGdacXplYjdmeVUydEVKM3pjbmlKeHJFck1waW0xbTdZN25MOW96b1I1RFNUWGpSVmFQTzAxRjV0dVR0WHA2M0pONHlxTHA1ak9UNzlyMmk4M0Js0gHuAUFVX3lxTE8zc1pkeExkaW5ORWUzZkc1ejd3U2puVVJ2OTA5STRseldmX2d3WFZZd1BaOGZmS2JGTGdoekQ2Ri16cWthZUEtNkNqNjk5ckxmSXlIb0hhYmM5dU01VVlSeW4tV1JXeVNoYVhEbVZ5R0FueE5WS3B1ODVoYkwxMmEzR0tCUGFaV3JFX29fQkFkU093TG92TmI0dl9zZmVjUnFCNjBDWk1ja2piUVJlMi1qWkpLeGM1S3NPTEJuMTdCYnFxWHBnQ2t4bGp0NUxoM1VkcEZjY1NHWVFfRVB3MXJpQk9yVFB4YXNPLTZrRXc?oc=5)
 
 2026-11-21 <span class="news-indication-tag">EPOC</span>
 
 Source: [Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXlscnlINzJPUzh3Q0x4aDJCTXNDeUEzNllZaHNYMHQ2MDBuQUItVldSOGVqbE5tWnplLUstZGdJR3RGVk1GdndldlA1YlBBT3hFdnV2OWhhdV8yUHduZUdXYkFBWXFDQkxSODVqOXI2aU9mOWZ0dk9WOUNNV2hLNUVFaXM5UmZIX2VnbkNNSUh3TWdqZGdacXplYjdmeVUydEVKM3pjbmlKeHJFck1waW0xbTdZN25MOW96b1I1RFNUWGpSVmFQTzAxRjV0dVR0WHA2M0pONHlxTHA1ak9UNzlyMmk4M0Js0gHuAUFVX3lxTE8zc1pkeExkaW5ORWUzZkc1ejd3U2puVVJ2OTA5STRseldmX2d3WFZZd1BaOGZmS2JGTGdoekQ2Ri16cWthZUEtNkNqNjk5ckxmSXlIb0hhYmM5dU01VVlSeW4tV1JXeVNoYVhEbVZ5R0FueE5WS3B1ODVoYkwxMmEzR0tCUGFaV3JFX29fQkFkU093TG92TmI0dl9zZmVjUnFCNjBDWk1ja2piUVJlMi1qWkpLeGM1S3NPTEJuMTdCYnFxWHBnQ2t4bGp0NUxoM1VkcEZjY1NHWVFfRVB3MXJpQk9yVFB4YXNPLTZrRXc?oc=5)
+
+---
+
+### [Eating and sleeping later linked to health risks - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
+
+2026-11-20 <span class="news-indication-tag">diabetes</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
 
 ---
 
@@ -116,14 +132,6 @@ Source: [Canarias7](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVZlNDV
 2026-11-20 <span class="news-indication-tag">arthritis</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zWDZGQ19yYVE1Rkg2WTZHXzdYdjVoTk1pWS1TQWd5TXVZN1RwR0RaV05Xeng5cEM4VWZHd1RVTEJKaFZ0MEd4czEwX2dXR3ZOMlRQaG5ZYldtTmJZc2c?oc=5)
-
----
-
-### [Powerful new weight-loss drug helps patients cut knee pain in half](https://news.google.com/rss/articles/CBMib0FVX3lxTE5mdWVxaEZDcGQwZUk5cm9xOXNJdEZuUnNQejZmRVg1MVNaZEFSRTU1bUxTSE02azVFQUpqdENQLVBMUEJhYmF0Vm82cVBmN2IyclZCRDdtMnltLWplVjBZN3p3RVFUa1hFcmRBeXNpYw?oc=5)
-
-2026-11-20 <span class="news-indication-tag">arthritis</span>
-
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5mdWVxaEZDcGQwZUk5cm9xOXNJdEZuUnNQejZmRVg1MVNaZEFSRTU1bUxTSE02azVFQUpqdENQLVBMUEJhYmF0Vm82cVBmN2IyclZCRDdtMnltLWplVjBZN3p3RVFUa1hFcmRBeXNpYw?oc=5)
 
 ---
 

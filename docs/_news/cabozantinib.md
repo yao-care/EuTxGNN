@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Cabozantinib. 5 predicted indications."
 permalink: /news/cabozantinib/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Cabozantinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Cabozantinib?">
-<strong>Cabozantinib</strong> currently has <strong>414 news articles</strong>, with 5 predicted indications.
+<strong>Cabozantinib</strong> currently has <strong>416 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Cabozantinib with the latest
 <p><a href="{{ '/drugs/cabozantinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (414)
+## Related News (416)
+
+### [Freeze bread for weight loss & cook tomatoes to beat cancer - 8 genius diet tweaks to boost your health - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQQVltNnRIOWhkUEVFQjBnSnY4bnF6UGkyQ1hYRkZoTEotbU05eWJhQ1lMWFY4bXMxck1USGJVRmlGTXpCWEtXVFp2XzF3Skd4VHVxUThRU3N0a3lKeEROQUJZd2VrY05Ba3BnYS16TEVVd0tJV2RWbFNFQzNoWGZPMkJZLUE4dnFkdkE?oc=5)
+
+2026-11-21 <span class="news-indication-tag">cancer</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQQVltNnRIOWhkUEVFQjBnSnY4bnF6UGkyQ1hYRkZoTEotbU05eWJhQ1lMWFY4bXMxck1USGJVRmlGTXpCWEtXVFp2XzF3Skd4VHVxUThRU3N0a3lKeEROQUJZd2VrY05Ba3BnYS16TEVVd0tJV2RWbFNFQzNoWGZPMkJZLUE4dnFkdkE?oc=5)
+
+---
 
 ### [Li Fraumeni, la sindrome molto rara che aumenta il rischio di ammalarsi di uno o più tumori. A partire dall'infanzia - Corriere della Sera](https://news.google.com/rss/articles/CBMiwgJBVV95cUxQLVlYRFVhdjVDS2prZ1ZyMUhmT2ZsSllMUkRDUkZ6bkxUc2tJQVNHdWVTbGlQRVdpbW5yNS1ROTVWQ3Q4OTJtRi0zcmtUYVZGaTZwVHBXeGo0V2FVZ3pzTmdqZnprMXZRMzducTU2RE5SMDBQRUxVaUdZb3g2RUdreDU3b0laVHFYUXcycjRUanRJNFltTnFFcnlCRS1LYmVjSDZaMkhaQUVyRnQxWGw1MW1aWktFNkQ4UWRscEpMZmh3U3Q2T2ZYcmhYV3ZXbXVYQXhDVlNxOGhqdEhaNkNrZ3duT0Nta1JRUkZQcVdqZnBZRzd4V3FiangyZmNLQXFkaEJYUzJWd1A2WjY0TEViN3FBUlhKNVZOejFnb25KMjBBLXhUc2dVejhtbFJmRHB1ZE0xakxzMGdZaHdXaGplWThn0gHHAkFVX3lxTE9maG02T3BWYUY3UkJSR1cxek51bnlwd1lUQWlDdVJOS3g4dnVKOWxQNXVVOG1zRmQ0a1AtaGNuX1F0YXB4Sjh5bnF3bXEzME1oTFladjc0cENSYWJRcUY3Zm1OOWtMaGtjRlNMTGFGTHl3UkJhVmQ0WTQ0MFRMMWhDMjdmcFdlRWVGV3ExQ3g2V1hkU1d6Vzk1TnBjVTBTWXQwdkRyWF9NR1dhNmctaGF5TE8xWEUzMW80bzZ0UUd2elVxS2F0NVp0eTROcldIVk9Od0JlWFVlOUpJaGVxejV6MHBUX2RxaGlVd0hfOXlzMk5hRkJwcXZyYjdPaVlOejZRQ2tDVXc0VGJVZlBGUW9rVGxrTWs3MVZvSEpzQ0NxSEwzdmhqQklISXVGampDblU0Mjdoc3k4eE1mSG83MmY0elBtWGJFUQ?oc=5)
 
@@ -164,6 +172,14 @@ Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa
 2026-11-20 <span class="news-indication-tag">tumor</span>
 
 Source: [TradingView](https://news.google.com/rss/articles/CBMibEFVX3lxTE1yX3ZoZEY4aTR5UEtNTzAyT2xrUW5wYU5CRkNuQVB0NnVmdjVERVplaXBOMGllNlM3WlJKZ0ZTa2huTUliejhIVDJUU3Y1RGI4TFd4cm1XZ3Zvc0tMVk44R2dQendHZHpyd2JaLQ?oc=5)
+
+---
+
+### [Erasca Inc presenta datos actualizados de fase 1 para ERAS-0015 y ERAS-4001 en tumores sólidos - Investing.com España](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTkwtZmVnbzFqSUZIVWxsc05uYXJvSC1wMEczbHJ3Nzdid1lZQWZwSHhMT1hfbUdIaHY4eXBJSldKdUFkMjhBeEl3TGxhTHVhRi16N0NxVUdIWVRvWWV1aWtBQ3N2dTFLanVGalVPdWlNTzVyWFlScWg3ZnYwMzJCN0hHa242aFEzQVltaDdkVkg1WGdReU9tdTVRSlphNEhJU1hkTTJuak1iTjFKT0p6am41dk1SLVBOM1k5TmdKNVJCMi1aOWpHa2RyUVJwcGVHdDA5NS1xV1h4OXZqU2FLcg?oc=5)
+
+2026-11-20 <span class="news-indication-tag">tumor</span>
+
+Source: [Investing.com España](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTkwtZmVnbzFqSUZIVWxsc05uYXJvSC1wMEczbHJ3Nzdid1lZQWZwSHhMT1hfbUdIaHY4eXBJSldKdUFkMjhBeEl3TGxhTHVhRi16N0NxVUdIWVRvWWV1aWtBQ3N2dTFLanVGalVPdWlNTzVyWFlScWg3ZnYwMzJCN0hHa242aFEzQVltaDdkVkg1WGdReU9tdTVRSlphNEhJU1hkTTJuak1iTjFKT0p6am41dk1SLVBOM1k5TmdKNVJCMi1aOWpHa2RyUVJwcGVHdDA5NS1xV1h4OXZqU2FLcg?oc=5)
 
 ---
 
@@ -356,14 +372,6 @@ Source: [iSanidad](https://news.google.com/rss/articles/CBMilgJBVV95cUxObDNmcUhx
 2026-11-19 <span class="news-indication-tag">tumor</span>
 
 Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4ZFF2b05jblpIZk4zWVEzT0RvSDFkM2xuVC1jdFhYcDAxeDktNWtPb1hsaHk2RVRSdjhqaWIySndENWFOWlA4NlFIQ1JYNF9mMFFHNWo5T3ctWVk0R0Jya05YY3FDdlo3?oc=5)
-
----
-
-### [Traguardo storico al Fazzi di Lecce: prima dimissione dopo il trattamento con cellule CAR-T](https://news.google.com/rss/articles/CBMikAJBVV95cUxNRXJWMldFd003elplWU5EVjcycEhBb2xZTUZGQXVVNlVBSkM5dzM4c185RC1FektVU2xiRnFoOUhUSU1udk1XaUYwQTVIeTVmRHd3dnRCOVpCaV9fdExKb3dxM0Q2ZkJoa0Z6OWxsTzZnZUVCTjZ6NTI0OEQyMnlzZEVfcTZuTXRON2g1RllTRUgtX2YwaUVzZk9Ba0QwN1FvOVNocm9qM0RDOHB4Qzk1c3UyZ3B3U1gzR2hSUF9IaTZEXzhVWDdxSm5vM051SlJheEc2NjZ1aGFaZEJhVjB0eXhlYkJoZnl4d0JyWFgzRVdjS1NWci1wUFZRSUJqa0FyeWxHQ2g5aWVOM1FJcXd0etIBlgJBVV95cUxNUkNBQzdqRnJsTFdfTFNqNnV1YUZyYlhTMUpJY1RYTkJSaE1kQUluWGtLSGlWY1RtUVlCWE1jYnRGQlhIbzdveERjU3ZHVVlVSlFvVkhmSDhTSmlRNVFHUEE2WWFYQW91TUNvcmxweXNMcHI5b0lGQ2xxUWNXZnBlSVg0SndVT2JBTFdMOVpPQ2ZkT0ZpNnlMaU1OaGtiVklSdDlyaV9Uc0Vfb1EzbUVkMEF0TDllRjZqOG1hWWduT190WlowaXZfcmlEQmh0VVZRZjE1Slhqc1NJUUg1UFpYbG5ERjlFM3lscEFWYnl1b2xVV1NjYzRVNlR4b2hEZVZmZXcwNUdJcl9heElUUlAwR3NxR1ZnUQ?oc=5)
-
-2026-11-19 <span class="news-indication-tag">tumor</span>
-
-Source: [RaiNews](https://news.google.com/rss/articles/CBMikAJBVV95cUxNRXJWMldFd003elplWU5EVjcycEhBb2xZTUZGQXVVNlVBSkM5dzM4c185RC1FektVU2xiRnFoOUhUSU1udk1XaUYwQTVIeTVmRHd3dnRCOVpCaV9fdExKb3dxM0Q2ZkJoa0Z6OWxsTzZnZUVCTjZ6NTI0OEQyMnlzZEVfcTZuTXRON2g1RllTRUgtX2YwaUVzZk9Ba0QwN1FvOVNocm9qM0RDOHB4Qzk1c3UyZ3B3U1gzR2hSUF9IaTZEXzhVWDdxSm5vM051SlJheEc2NjZ1aGFaZEJhVjB0eXhlYkJoZnl4d0JyWFgzRVdjS1NWci1wUFZRSUJqa0FyeWxHQ2g5aWVOM1FJcXd0etIBlgJBVV95cUxNUkNBQzdqRnJsTFdfTFNqNnV1YUZyYlhTMUpJY1RYTkJSaE1kQUluWGtLSGlWY1RtUVlCWE1jYnRGQlhIbzdveERjU3ZHVVlVSlFvVkhmSDhTSmlRNVFHUEE2WWFYQW91TUNvcmxweXNMcHI5b0lGQ2xxUWNXZnBlSVg0SndVT2JBTFdMOVpPQ2ZkT0ZpNnlMaU1OaGtiVklSdDlyaV9Uc0Vfb1EzbUVkMEF0TDllRjZqOG1hWWduT190WlowaXZfcmlEQmh0VVZRZjE1Slhqc1NJUUg1UFpYbG5ERjlFM3lscEFWYnl1b2xVV1NjYzRVNlR4b2hEZVZmZXcwNUdJcl9heElUUlAwR3NxR1ZnUQ?oc=5)
 
 ---
 
@@ -628,6 +636,14 @@ Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVU8x
 2026-11-18 <span class="news-indication-tag">tumor</span>
 
 Source: [la Repubblica](https://news.google.com/rss/articles/CBMilwFBVV95cUxQbXN6bGV6c0hiYndmeVRCY01uT29iVlFyT2x3LWtUSUJ1TkhFZXRhOEwxUWE3TloydTJqV0VyTHVuWDQwMmM3cG5yMWV6SVRGOERzNzJBTnZPdHkzaHZETmdvc1lXX2x5dW50YWtzZXJMRi1JWEYtd0Z2R0ZFbGpjeC1McWdyN3lwczd6ckp3Mmd1X1hGMlRF?oc=5)
+
+---
+
+### [Vapes cause ‘irreversible’ internal damage, study finds: ‘This should be a wake-up call’ - New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
+
+2026-11-17 <span class="news-indication-tag">cancer</span>
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
 
 ---
 

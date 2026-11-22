@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Gefitinib. 9 predicted indications."
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Gefitinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Gefitinib?">
-<strong>Gefitinib</strong> currently has <strong>469 news articles</strong>, with 9 predicted indications.
+<strong>Gefitinib</strong> currently has <strong>470 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Gefitinib with the latest he
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (469)
+## Related News (470)
+
+### [Freeze bread for weight loss & cook tomatoes to beat cancer - 8 genius diet tweaks to boost your health - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQQVltNnRIOWhkUEVFQjBnSnY4bnF6UGkyQ1hYRkZoTEotbU05eWJhQ1lMWFY4bXMxck1USGJVRmlGTXpCWEtXVFp2XzF3Skd4VHVxUThRU3N0a3lKeEROQUJZd2VrY05Ba3BnYS16TEVVd0tJV2RWbFNFQzNoWGZPMkJZLUE4dnFkdkE?oc=5)
+
+2026-11-21 <span class="news-indication-tag">cancer</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQQVltNnRIOWhkUEVFQjBnSnY4bnF6UGkyQ1hYRkZoTEotbU05eWJhQ1lMWFY4bXMxck1USGJVRmlGTXpCWEtXVFp2XzF3Skd4VHVxUThRU3N0a3lKeEROQUJZd2VrY05Ba3BnYS16TEVVd0tJV2RWbFNFQzNoWGZPMkJZLUE4dnFkdkE?oc=5)
+
+---
 
 ### [Li Fraumeni, la sindrome molto rara che aumenta il rischio di ammalarsi di uno o più tumori. A partire dall'infanzia - Corriere della Sera](https://news.google.com/rss/articles/CBMiwgJBVV95cUxQLVlYRFVhdjVDS2prZ1ZyMUhmT2ZsSllMUkRDUkZ6bkxUc2tJQVNHdWVTbGlQRVdpbW5yNS1ROTVWQ3Q4OTJtRi0zcmtUYVZGaTZwVHBXeGo0V2FVZ3pzTmdqZnprMXZRMzducTU2RE5SMDBQRUxVaUdZb3g2RUdreDU3b0laVHFYUXcycjRUanRJNFltTnFFcnlCRS1LYmVjSDZaMkhaQUVyRnQxWGw1MW1aWktFNkQ4UWRscEpMZmh3U3Q2T2ZYcmhYV3ZXbXVYQXhDVlNxOGhqdEhaNkNrZ3duT0Nta1JRUkZQcVdqZnBZRzd4V3FiangyZmNLQXFkaEJYUzJWd1A2WjY0TEViN3FBUlhKNVZOejFnb25KMjBBLXhUc2dVejhtbFJmRHB1ZE0xakxzMGdZaHdXaGplWThn0gHHAkFVX3lxTE9maG02T3BWYUY3UkJSR1cxek51bnlwd1lUQWlDdVJOS3g4dnVKOWxQNXVVOG1zRmQ0a1AtaGNuX1F0YXB4Sjh5bnF3bXEzME1oTFladjc0cENSYWJRcUY3Zm1OOWtMaGtjRlNMTGFGTHl3UkJhVmQ0WTQ0MFRMMWhDMjdmcFdlRWVGV3ExQ3g2V1hkU1d6Vzk1TnBjVTBTWXQwdkRyWF9NR1dhNmctaGF5TE8xWEUzMW80bzZ0UUd2elVxS2F0NVp0eTROcldIVk9Od0JlWFVlOUpJaGVxejV6MHBUX2RxaGlVd0hfOXlzMk5hRkJwcXZyYjdPaVlOejZRQ2tDVXc0VGJVZlBGUW9rVGxrTWs3MVZvSEpzQ0NxSEwzdmhqQklISXVGampDblU0Mjdoc3k4eE1mSG83MmY0elBtWGJFUQ?oc=5)
 
@@ -171,6 +179,14 @@ Source: [TradingView](https://news.google.com/rss/articles/CBMibEFVX3lxTE1yX3ZoZ
 
 ---
 
+### [Erasca Inc presenta datos actualizados de fase 1 para ERAS-0015 y ERAS-4001 en tumores sólidos - Investing.com España](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTkwtZmVnbzFqSUZIVWxsc05uYXJvSC1wMEczbHJ3Nzdid1lZQWZwSHhMT1hfbUdIaHY4eXBJSldKdUFkMjhBeEl3TGxhTHVhRi16N0NxVUdIWVRvWWV1aWtBQ3N2dTFLanVGalVPdWlNTzVyWFlScWg3ZnYwMzJCN0hHa242aFEzQVltaDdkVkg1WGdReU9tdTVRSlphNEhJU1hkTTJuak1iTjFKT0p6am41dk1SLVBOM1k5TmdKNVJCMi1aOWpHa2RyUVJwcGVHdDA5NS1xV1h4OXZqU2FLcg?oc=5)
+
+2026-11-20 <span class="news-indication-tag">tumor</span>
+
+Source: [Investing.com España](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTkwtZmVnbzFqSUZIVWxsc05uYXJvSC1wMEczbHJ3Nzdid1lZQWZwSHhMT1hfbUdIaHY4eXBJSldKdUFkMjhBeEl3TGxhTHVhRi16N0NxVUdIWVRvWWV1aWtBQ3N2dTFLanVGalVPdWlNTzVyWFlScWg3ZnYwMzJCN0hHa242aFEzQVltaDdkVkg1WGdReU9tdTVRSlphNEhJU1hkTTJuak1iTjFKT0p6am41dk1SLVBOM1k5TmdKNVJCMi1aOWpHa2RyUVJwcGVHdDA5NS1xV1h4OXZqU2FLcg?oc=5)
+
+---
+
 ### [Nirogacestat bei Desmoid-Tumoren einsetzbar](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMEd3d1VMcXE1cUhqQ3ZFSWFJVDg3S1Y1RW1QYTN0RGdXcWRpUHFmVXg0RC1WLThqdE9IdFY1YW9hdG1kX0p2c0NnTS1ud1NPMFBfNnlNZnBpS1RFaml2QjU0dTRlX0lxVDlwZEViTFo4YlFWMVJqUXUwWmoxbXhqVHlZOGhaWmZKdjlB?oc=5)
 
 2026-11-20 <span class="news-indication-tag">tumor</span>
@@ -184,14 +200,6 @@ Source: [springermedizin.de](https://news.google.com/rss/articles/CBMiiwFBVV95cU
 2026-11-20 <span class="news-indication-tag">tumor</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVVJGaVBtX2pKblhfeXhWdXZJN3dhb2ZaMEF6emtOWnJHT21nUVpJMndnOTlMalJWeTNrbVlTWHlDZERyX09waUJjTDBCTFQtR0F3Q1NMVmdGNjNjYVQzemRKUFo2d2JYODZFWDRRUllua2JKSXdaaVBJVFA2YVo4N2l5VXNtVkxXR3VRbE9DaHFNanV1Z3hSOUpsX2xFdHFhRk1LYU1jckdaNG5rOHhRV1dHTXcwTjBrUW1ubS130gG4AUFVX3lxTE5tRlBwT3BoSHh1R3gzcTM0bmtfZVRqZkpnV2c1SUNLbDlieGVhVlpMY1EwZWJQamh1UzRPZElHc25JdFFMNkhjSEZzWkxGOVRBQ1ptR1VSMS1RX3hnZ3BSY0hfMWNUcHZqSHdfZ2dtcWwzN2RBc21rZXZFX1NiZWlpYzFESFhYMk0wYXh4QVB0ejNpRXhmVU9nRnh3NGVrdWZsSkVYcHh4QnJIaC03R3RnNFF4Q3BmVkc?oc=5)
-
----
-
-### [Resistance training could help boost brain health and confidence in older adults - The Conversation](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWhkaTZ4Y0p1ekJGTlFhaDhxbFVsZ2oyTmozdkdSVVF4WEQ3RWo3enBoVWN2akMzVVQwRFBlQUdBaktNdkhVUHcyT3cxVDgxWl9HbWw5eGlRRlJVdlZ1YWJJN1l5VzR6dlQ4TW9hU0VpSGp4X08wcThXNzkzOTFyUElaMU5rRDF3MVI4QzdBWUN6cEluemgwbTZ1RmllczJSRGEySmJTc21tcl9hVC1nQV96M2pSdw?oc=5)
-
-2026-11-20 <span class="news-indication-tag">Alzheimer's</span>
-
-Source: [The Conversation](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWhkaTZ4Y0p1ekJGTlFhaDhxbFVsZ2oyTmozdkdSVVF4WEQ3RWo3enBoVWN2akMzVVQwRFBlQUdBaktNdkhVUHcyT3cxVDgxWl9HbWw5eGlRRlJVdlZ1YWJJN1l5VzR6dlQ4TW9hU0VpSGp4X08wcThXNzkzOTFyUElaMU5rRDF3MVI4QzdBWUN6cEluemgwbTZ1RmllczJSRGEySmJTc21tcl9hVC1nQV96M2pSdw?oc=5)
 
 ---
 
@@ -384,14 +392,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUN
 2026-11-19 <span class="news-indication-tag">tumor</span>
 
 Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4ZFF2b05jblpIZk4zWVEzT0RvSDFkM2xuVC1jdFhYcDAxeDktNWtPb1hsaHk2RVRSdjhqaWIySndENWFOWlA4NlFIQ1JYNF9mMFFHNWo5T3ctWVk0R0Jya05YY3FDdlo3?oc=5)
-
----
-
-### [Traguardo storico al Fazzi di Lecce: prima dimissione dopo il trattamento con cellule CAR-T](https://news.google.com/rss/articles/CBMikAJBVV95cUxNRXJWMldFd003elplWU5EVjcycEhBb2xZTUZGQXVVNlVBSkM5dzM4c185RC1FektVU2xiRnFoOUhUSU1udk1XaUYwQTVIeTVmRHd3dnRCOVpCaV9fdExKb3dxM0Q2ZkJoa0Z6OWxsTzZnZUVCTjZ6NTI0OEQyMnlzZEVfcTZuTXRON2g1RllTRUgtX2YwaUVzZk9Ba0QwN1FvOVNocm9qM0RDOHB4Qzk1c3UyZ3B3U1gzR2hSUF9IaTZEXzhVWDdxSm5vM051SlJheEc2NjZ1aGFaZEJhVjB0eXhlYkJoZnl4d0JyWFgzRVdjS1NWci1wUFZRSUJqa0FyeWxHQ2g5aWVOM1FJcXd0etIBlgJBVV95cUxNUkNBQzdqRnJsTFdfTFNqNnV1YUZyYlhTMUpJY1RYTkJSaE1kQUluWGtLSGlWY1RtUVlCWE1jYnRGQlhIbzdveERjU3ZHVVlVSlFvVkhmSDhTSmlRNVFHUEE2WWFYQW91TUNvcmxweXNMcHI5b0lGQ2xxUWNXZnBlSVg0SndVT2JBTFdMOVpPQ2ZkT0ZpNnlMaU1OaGtiVklSdDlyaV9Uc0Vfb1EzbUVkMEF0TDllRjZqOG1hWWduT190WlowaXZfcmlEQmh0VVZRZjE1Slhqc1NJUUg1UFpYbG5ERjlFM3lscEFWYnl1b2xVV1NjYzRVNlR4b2hEZVZmZXcwNUdJcl9heElUUlAwR3NxR1ZnUQ?oc=5)
-
-2026-11-19 <span class="news-indication-tag">tumor</span>
-
-Source: [RaiNews](https://news.google.com/rss/articles/CBMikAJBVV95cUxNRXJWMldFd003elplWU5EVjcycEhBb2xZTUZGQXVVNlVBSkM5dzM4c185RC1FektVU2xiRnFoOUhUSU1udk1XaUYwQTVIeTVmRHd3dnRCOVpCaV9fdExKb3dxM0Q2ZkJoa0Z6OWxsTzZnZUVCTjZ6NTI0OEQyMnlzZEVfcTZuTXRON2g1RllTRUgtX2YwaUVzZk9Ba0QwN1FvOVNocm9qM0RDOHB4Qzk1c3UyZ3B3U1gzR2hSUF9IaTZEXzhVWDdxSm5vM051SlJheEc2NjZ1aGFaZEJhVjB0eXhlYkJoZnl4d0JyWFgzRVdjS1NWci1wUFZRSUJqa0FyeWxHQ2g5aWVOM1FJcXd0etIBlgJBVV95cUxNUkNBQzdqRnJsTFdfTFNqNnV1YUZyYlhTMUpJY1RYTkJSaE1kQUluWGtLSGlWY1RtUVlCWE1jYnRGQlhIbzdveERjU3ZHVVlVSlFvVkhmSDhTSmlRNVFHUEE2WWFYQW91TUNvcmxweXNMcHI5b0lGQ2xxUWNXZnBlSVg0SndVT2JBTFdMOVpPQ2ZkT0ZpNnlMaU1OaGtiVklSdDlyaV9Uc0Vfb1EzbUVkMEF0TDllRjZqOG1hWWduT190WlowaXZfcmlEQmh0VVZRZjE1Slhqc1NJUUg1UFpYbG5ERjlFM3lscEFWYnl1b2xVV1NjYzRVNlR4b2hEZVZmZXcwNUdJcl9heElUUlAwR3NxR1ZnUQ?oc=5)
 
 ---
 
@@ -696,6 +696,14 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMilwFBVV95cUxQbXN
 2026-11-17 <span class="news-indication-tag">dementia</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxORmNBdzdMLWhFck9DTlJvdFFfWWxxR2RDd09OQ3BkN0lfSEhLcFBZWW1wOWhqU2ZzWlE3VjlkSkIwb0pOeE0zTlBtMEpxUm5wX00zVENiRHF6NUJUZW5QeFNjUGVYVWl6VWs5T3dBclhrMWRrd2xSUm1UZno5Zm9VdE9kbkFJOVZCQlFNaFdJbkVvZ2Zkc0ZkZ3hmYmJURmpFWWxvdV9ZSQ?oc=5)
+
+---
+
+### [Vapes cause ‘irreversible’ internal damage, study finds: ‘This should be a wake-up call’ - New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
+
+2026-11-17 <span class="news-indication-tag">cancer</span>
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxObG1LVzJzQlpXb3Z0aktUVVpCdEZKZ0o3OHd5QmVLZF91ODNSRXRwMnNRZ3prZVE4Y2NNMVBoN25zU2ptTDJ5cEZqdjVsTF94VWVIWE5OSDBEYVpndVBVSUZHek9WYl9TZmJBZHFIOUZOQTBVMW9ORmdJZmg4dlY5UHJkc1JGM0ZBcm9xRFVLNGZRQzlXMGlSdVVn?oc=5)
 
 ---
 
