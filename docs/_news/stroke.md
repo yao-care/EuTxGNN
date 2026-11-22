@@ -3,7 +3,7 @@ layout: default
 title: "AVC (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about AVC (stroke). 134 articles, 11 related drugs."
+description: "Health news about AVC (stroke). 136 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about AVC (stroke)?">
-<strong>AVC (stroke)</strong> currently has <strong>134 news articles</strong> and 11 related drugs.
+<strong>AVC (stroke)</strong> currently has <strong>136 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “AVC” and lists the d
 </ul>
 </div>
 
-## Related News (134)
+## Related News (136)
 
 ### [Migraineuses et fumeuses : 3,6 fois plus d'AVC avant 60 ans, d'après le suivi de 1,7 million de Danoises sur 20 ans](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
 
@@ -52,6 +52,14 @@ Source: [JeChange](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1ls
 2026-11-22
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjBXaXJrT05rT1hBUW5paUJxdVhDcllqbVlwbDV4aktjRXV2WVlXTDNBV1JULTdwdWlSMGo1RmQ3ZnNmeU9ya3UwdWhFYXgwM19Dczc5MzU1am5XWTNEdmtFLVFZSFZfRWhCWGVJZmhJNUJxTFpIZXZZU1BGUlVobUJ3dlZqZGx4aVlwYmU5YXhydU9EYjRxamZ1Mi1obVQ1UDBWR1dua2NGaXU4dGxFUXVrMzJ2amd3b21ROUgzandYX2lHTXdUZVdvUzcwUQ?oc=5)
+
+---
+
+### [«No fue normal ni tampoco lo fue mi recuperación»: así fue el ictus que cambió la vida de Manuel - La Voz de Asturias](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUkp1eG9vSl9zc3A3T0Q0cGdERFo0SFZxN19UdVBrR3NRcUVaOGZvTHEyUTlIMTFGODZ3aFJzaENPcmRIUEhGUFp2SktPWjNCSlJ2TE1NdW45bEt6TFdyVlFiRXRSLXNCSEhQdUxRUWs2Y3FZTmJjbUx2eHh6RTZTNlF2MWNKLXJ2bTBGckRKNUl5NGJSUk1SZDVGX1lqaTNhcDNEZkNRWEpFYWF4T0NSd1RicVctb2ZqSkpRVmxtQkg2dkJlWk56aFc4VC05bm91bzBQdDdPVFBvV1JuSEZmWEpB0gH-AUFVX3lxTE5RSi1Udk9pUExUNzBHTWZSTWl0UjlQQWlaT0MxOVlDdXVGaEhFQlNkLWxoWDFHbmp2bnl0VWp0dkN1aGU2VGRMRFlQRDFESmozNFdYYWJ1QkZwM1ZYOEdqU0VkVDFUSjBlQzlhU3VoUzhUNEZDNHBfbWNaLWpJdUljR2x6a3lKLUp1ZG1STG1qNnptX2hYYXcxcXFBZWVBaTFnYzBrcXVHZVpIZmVvWkxVemxpZXhXaFdrWXJ2cWZxMjlsX1htLUlNNGN2RHNWSC1VYk1sMGJzaUk2MGdNa2x4UDlPeU40ZGJxS0dCakd4VXd3R3NJMG9venFwODFn?oc=5)
+
+2026-11-22
+
+Source: [La Voz de Asturias](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUkp1eG9vSl9zc3A3T0Q0cGdERFo0SFZxN19UdVBrR3NRcUVaOGZvTHEyUTlIMTFGODZ3aFJzaENPcmRIUEhGUFp2SktPWjNCSlJ2TE1NdW45bEt6TFdyVlFiRXRSLXNCSEhQdUxRUWs2Y3FZTmJjbUx2eHh6RTZTNlF2MWNKLXJ2bTBGckRKNUl5NGJSUk1SZDVGX1lqaTNhcDNEZkNRWEpFYWF4T0NSd1RicVctb2ZqSkpRVmxtQkg2dkJlWk56aFc4VC05bm91bzBQdDdPVFBvV1JuSEZmWEpB0gH-AUFVX3lxTE5RSi1Udk9pUExUNzBHTWZSTWl0UjlQQWlaT0MxOVlDdXVGaEhFQlNkLWxoWDFHbmp2bnl0VWp0dkN1aGU2VGRMRFlQRDFESmozNFdYYWJ1QkZwM1ZYOEdqU0VkVDFUSjBlQzlhU3VoUzhUNEZDNHBfbWNaLWpJdUljR2x6a3lKLUp1ZG1STG1qNnptX2hYYXcxcXFBZWVBaTFnYzBrcXVHZVpIZmVvWkxVemxpZXhXaFdrWXJ2cWZxMjlsX1htLUlNNGN2RHNWSC1VYk1sMGJzaUk2MGdNa2x4UDlPeU40ZGJxS0dCakd4VXd3R3NJMG9venFwODFn?oc=5)
 
 ---
 
@@ -100,6 +108,14 @@ Source: [Notimérica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxObnd0R
 2026-11-20
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcFVhX0VYSk54czdRcXI0YjFnQmt3RUR0V3VTS3UzdV9na2dLb1hleTVyVmNxRW5QbTFqTUNqVU04ZzBhOVdsbl9hQjNoSlp5UlpJYlpkVmRkNEtCODFwNGh6RXZINTdWdlg5REVreGhEbXlVM0R4TnpEczNMLTkxdFlnLXo3SXZmcURUc1phVm93aVYxV2laVzhLT05xTGFFMjVtZzZFYVJac0o0X0ttckZKTWVvcFVvMDZQQnlRZVA2WHdWMFExX0VQM0lXbi1nZjBia1NEaVd5SU1MM3ZZV0I3TTAtWFVK?oc=5)
+
+---
+
+### [La enfermedad microvascular causa hasta el 45% de los casos de demencia y el 25% de los ictus isquémicos](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR3R0Sng0Qnl1cWZZOTFJUGF1RU91Y0xBcUxLeTJGNzIyMlNMQ1pvV190NUdpbVByZVktSTIyX1hxQUQtQ19sQW1uVmMtdjVKYlNzNWRsMUNrRTJLX091SVlSUGNKdmg3dHBiZ1ZadlFxWU16eDhucUdMSFB0d2xpUWFGMUtxTjM1TkQzTHlpbDBmUFJVcTEyZUd1YmVyOHhNR252S2pR?oc=5)
+
+2026-11-20
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR3R0Sng0Qnl1cWZZOTFJUGF1RU91Y0xBcUxLeTJGNzIyMlNMQ1pvV190NUdpbVByZVktSTIyX1hxQUQtQ19sQW1uVmMtdjVKYlNzNWRsMUNrRTJLX091SVlSUGNKdmg3dHBiZ1ZadlFxWU16eDhucUdMSFB0d2xpUWFGMUtxTjM1TkQzTHlpbDBmUFJVcTEyZUd1YmVyOHhNR252S2pR?oc=5)
 
 ---
 

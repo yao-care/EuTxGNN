@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Prilocaine?">
-<strong>Prilocaine</strong> currently has <strong>57 news articles</strong>, with 10 predicted indications.
+<strong>Prilocaine</strong> currently has <strong>58 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Prilocaine with the latest h
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (57)
+## Related News (58)
+
+### ['I was diagnosed with COPD in my 20s - a lung transplant could give me a second chance at life' - STV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHVqYkVGX1dCNmgtVWRTclN3SWZUb2V5SWd0RmNCUjM4d25JTllYcndKQlBWUlNYeTFsSS1sUUJPb0tIbVJHbG1rMzU0QXU4RWFMaUdtMndSR21BTWdueXlwNjFTOUJCaW5PekxJWXViRVU5bHZYNmpnNlp0aHdCdFpqNnI4aHZhaEhyYTk4UUtrenBlbzdmdWtmMEM1Z05wZ0w4aWVUaF9wYnZVN2pqbg?oc=5)
+
+2026-11-22 <span class="news-indication-tag">copd</span>
+
+Source: [STV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHVqYkVGX1dCNmgtVWRTclN3SWZUb2V5SWd0RmNCUjM4d25JTllYcndKQlBWUlNYeTFsSS1sUUJPb0tIbVJHbG1rMzU0QXU4RWFMaUdtMndSR21BTWdueXlwNjFTOUJCaW5PekxJWXViRVU5bHZYNmpnNlp0aHdCdFpqNnI4aHZhaEhyYTk4UUtrenBlbzdmdWtmMEM1Z05wZ0w4aWVUaF9wYnZVN2pqbg?oc=5)
+
+---
 
 ### [Migraineuses et fumeuses : 3,6 fois plus d'AVC avant 60 ans, d'après le suivi de 1,7 million de Danoises sur 20 ans](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
 

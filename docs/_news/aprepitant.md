@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Aprepitant?">
-<strong>Aprepitant</strong> currently has <strong>103 news articles</strong>, with 10 predicted indications.
+<strong>Aprepitant</strong> currently has <strong>104 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Aprepitant with the latest h
 <p><a href="{{ '/drugs/aprepitant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (103)
+## Related News (104)
 
 ### [Nierenschutz bei Bluthochdruck: KDIGO empfiehlt RAS-Hemmer als erste Wahl](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR21SVUxJRmxKVUZfRXVadFVtRmpzVXFkX2o5cHpMMXlwS1hma3NmSnliZmdmdlo2ZWNsUGIxaFNmc3JOc1dHZ3A0V2FnR1p0bjRNT3pMelpRV19fd0hqQXNTSldudW16aXBtSXVnV2ZpdU10LS1VaUwzM1pHcWxITXBCNWw1MVNFNmtmQmRZSG0wYTlJdWJia3pWRkVoVUNkRkxaUk1n?oc=5)
 
@@ -54,7 +54,7 @@ Source: [AktienCheck.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2
 
 ### [NHS warns of ‘alarming’ rise in hospital admissions for high blood pressure - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnhBT3JocW80T3pvRkpsWjIwNUR5eS03ME1VUWVRcDM2a3l2Z1ZlVWVQZjluekR2SThVZzZ4SDctZXNkamlGNUpPeXlBMTljRVdPTGhnMmpQWXlfNjRJajdtVG1jcDhXMWR1QWRfdDJJMFIxa0FyV1J0Q2J2a2FEdkotcUJUaFE2WHV0Z3VqWHJBbXdUZ2xxd2ZwRWVpRktwREI2Nms2QTM0UQ?oc=5)
 
-2026-11-21 <span class="news-indication-tag">high blood pressure</span>
+2026-11-21 <span class="news-indication-tag">hypertension</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnhBT3JocW80T3pvRkpsWjIwNUR5eS03ME1VUWVRcDM2a3l2Z1ZlVWVQZjluekR2SThVZzZ4SDctZXNkamlGNUpPeXlBMTljRVdPTGhnMmpQWXlfNjRJajdtVG1jcDhXMWR1QWRfdDJJMFIxa0FyV1J0Q2J2a2FEdkotcUJUaFE2WHV0Z3VqWHJBbXdUZ2xxd2ZwRWVpRktwREI2Nms2QTM0UQ?oc=5)
 
@@ -73,6 +73,14 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMidEFVX3lxTFA2S3ktLS1R
 2026-11-21 <span class="news-indication-tag">hypertension</span>
 
 Source: [Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTVXeGhxSGpiYUVNbTdSY3dUS1FOTHJtakJCZjRoc1Q3eTQ4SnVyRFV6YzJEU1puOWR0bzlxSXJ1WVo5QkdmNDNOaG5Sb0JuZUQ5S3VQUXpQTzc4ZGRFQkNUSXIxUTUzZ2JTNUtteVlJQ2s3MFk0ZjQ1dkYwOEtzWFJuaFN4cFRBcC10WUx4UDF5aGY3QmRoczVoR21IUG1aaTBIWk4yM05vaVV0d3c?oc=5)
+
+---
+
+### [Are some salts healthier than others? - The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ3VkJrck5YcXIwNmkwclNOcmNUNmlOVlYycXQ2SHhkWWNsMXk0bzJPZVJwZU12Rm5RZmJVRW1jSk1fUkc0T3ozNWVCQkVMQnUwMk9ZdUZ3Ri03NWl1cWtPM0tjV2taQ0VzcWNtQWdYWDFZZVNUTDFKTXZDTUdwQ1o5bFI4Ym9kUndrdVpqV2FlSUhaVEgzMjJxcG4?oc=5)
+
+2026-11-20 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ3VkJrck5YcXIwNmkwclNOcmNUNmlOVlYycXQ2SHhkWWNsMXk0bzJPZVJwZU12Rm5RZmJVRW1jSk1fUkc0T3ozNWVCQkVMQnUwMk9ZdUZ3Ri03NWl1cWtPM0tjV2taQ0VzcWNtQWdYWDFZZVNUTDFKTXZDTUdwQ1o5bFI4Ym9kUndrdVpqV2FlSUhaVEgzMjJxcG4?oc=5)
 
 ---
 

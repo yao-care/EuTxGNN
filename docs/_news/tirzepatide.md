@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>37 news articles</strong>, with 0 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>39 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (37)
+## Related News (39)
+
+### [Lombardia, farmaci gratis per dimagrire a chi ha già tentato (e ha fallito) con altre cure: quattro ospedali fanno da apripista in Italia, pronti 2,4 milioni - Corriere Milano](https://news.google.com/rss/articles/CBMiywJBVV95cUxONk1xY1d4LW83b1BTQndDWGhkUzlHV3d3cm1ST0JTMzVwUE84bDMyZGJ4aEtLekZIcVd4ckhxbUJQRE1RQXlwSjQ2LVlZdWlLNUZ5MHVuNTAzNHJ6OW84NlI5TDJHdWgycUE2RHFwZ2hQeW91YkN5RUo4UGhmb3FDTTlLTV9UQlpCVlJzSGhET3VrMDJBaTJMejRIdkJDN3k4SEVldFVJTFc3c3pRdTFDa1h1dHAyWkxmdEV0czhPd1Nwc2NycnJJNThJdzRsY3BtanJGNjRrbDlGZGNoWEJkV2xNakYxajZmeUV1TV9ncUFLRWl1NGFpenlWdlVnam5VQkhoOGFabVlMSXl2M21jS3ktSHk3TGhGZ1o2ZTQ1V3ZQbTNWRmhWQnJXeU1teDBYUFVLMXdfSWtKSElITHVvQkRsSFg1cnRMSmIw0gHQAkFVX3lxTE9laTFjTGJjUG9BOG5rTW1pVzR0U3dZT080V0tkWkJmYmN0VzY5VmpIMV85LUFjb3pZUk45ZG9tTVRPZWs3WHNjc29URnYtdDRRVEZoNEROM2d1ZlNLOTdxanZfNjE1TTlDb0R5OE5nSTJPSUkyeGlfZUlDRUNBZGFOWFMtUlFvWDVMaGhIZWZxb3lkSkNQMGZZY1JVZjBwNWxtTUVOdm45enhSS1V3bnAwU21JaGJzeWhBV3lTUzludk9BQ25TXzZDQndqZjFETnFXNG1CdFBTT2FVcTNqUHRLSXo2MVNBZnc5SWtUU09yd2hqR2Y5UzZxWHRWRHpDWnFhcTlScXpBRVNKc0owTHpmU21mb0dsQlpqeWVZeGU4TXBpZFdTSGFKWHFKT3Q1VU5icWRTUmQweU54SVlmS3hMRlNMZWJTazQ3bE1odXhCVA?oc=5)
+
+2026-11-22 <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [Corriere Milano](https://news.google.com/rss/articles/CBMiywJBVV95cUxONk1xY1d4LW83b1BTQndDWGhkUzlHV3d3cm1ST0JTMzVwUE84bDMyZGJ4aEtLekZIcVd4ckhxbUJQRE1RQXlwSjQ2LVlZdWlLNUZ5MHVuNTAzNHJ6OW84NlI5TDJHdWgycUE2RHFwZ2hQeW91YkN5RUo4UGhmb3FDTTlLTV9UQlpCVlJzSGhET3VrMDJBaTJMejRIdkJDN3k4SEVldFVJTFc3c3pRdTFDa1h1dHAyWkxmdEV0czhPd1Nwc2NycnJJNThJdzRsY3BtanJGNjRrbDlGZGNoWEJkV2xNakYxajZmeUV1TV9ncUFLRWl1NGFpenlWdlVnam5VQkhoOGFabVlMSXl2M21jS3ktSHk3TGhGZ1o2ZTQ1V3ZQbTNWRmhWQnJXeU1teDBYUFVLMXdfSWtKSElITHVvQkRsSFg1cnRMSmIw0gHQAkFVX3lxTE9laTFjTGJjUG9BOG5rTW1pVzR0U3dZT080V0tkWkJmYmN0VzY5VmpIMV85LUFjb3pZUk45ZG9tTVRPZWs3WHNjc29URnYtdDRRVEZoNEROM2d1ZlNLOTdxanZfNjE1TTlDb0R5OE5nSTJPSUkyeGlfZUlDRUNBZGFOWFMtUlFvWDVMaGhIZWZxb3lkSkNQMGZZY1JVZjBwNWxtTUVOdm45enhSS1V3bnAwU21JaGJzeWhBV3lTUzludk9BQ25TXzZDQndqZjFETnFXNG1CdFBTT2FVcTNqUHRLSXo2MVNBZnc5SWtUU09yd2hqR2Y5UzZxWHRWRHpDWnFhcTlScXpBRVNKc0owTHpmU21mb0dsQlpqeWVZeGU4TXBpZFdTSGFKWHFKT3Q1VU5icWRTUmQweU54SVlmS3hMRlNMZWJTazQ3bE1odXhCVA?oc=5)
+
+---
 
 ### [GBA beschließt neue Anforderungen an DMP Rheumatoide Arthritis](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDFQVTJ5eVA3N2ZRSXN0ZVZTT2NjNDBsNUg5VUUybEdIZlZSeXdZWlJYcVpKZkgySkdwbW5KN3N0SXhyTHBPYktQdXN1QzBic3NqSmViOHpFSkNVZmRteU9ldlM5b2lVV2RUU0luekp3akUxQ3Q3bFZYMGZZQ2hXY3VuWVgwLWt4b2RyaHFYQnBoNUYyWnY5bzNmd2syWlhGVGN1VUt4VXkzTk9mVng2UTBtUG0tNHM?oc=5)
 
 2026-11-20 <span class="news-indication-tag">arthritis</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDFQVTJ5eVA3N2ZRSXN0ZVZTT2NjNDBsNUg5VUUybEdIZlZSeXdZWlJYcVpKZkgySkdwbW5KN3N0SXhyTHBPYktQdXN1QzBic3NqSmViOHpFSkNVZmRteU9ldlM5b2lVV2RUU0luekp3akUxQ3Q3bFZYMGZZQ2hXY3VuWVgwLWt4b2RyaHFYQnBoNUYyWnY5bzNmd2syWlhGVGN1VUt4VXkzTk9mVng2UTBtUG0tNHM?oc=5)
+
+---
+
+### [Weight-loss drugs could free up an area of farmland larger than Italy – new study - The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1ZzM2EtSS1xOTk3QmktdWJBWGFacTdIM1RaQ3dkRDdNUXVKSGZNa2l4b2pXNkxrYk5aTVNpSzE1X0lVcEdVM0hBc1BzSTA1SmJKTjBjY2VmWl9vSEZieTBRSFBPN2U3QVBjbW9JRF9sQjcyclcyNUFVM3A5QzBfX3BjNkhza29RUkxhSlltRHBMQzI5VUlsRDZ3M1kwR3U5VGd3YmMtRC1OcmpYUnItN0d1bEU?oc=5)
+
+2026-11-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1ZzM2EtSS1xOTk3QmktdWJBWGFacTdIM1RaQ3dkRDdNUXVKSGZNa2l4b2pXNkxrYk5aTVNpSzE1X0lVcEdVM0hBc1BzSTA1SmJKTjBjY2VmWl9vSEZieTBRSFBPN2U3QVBjbW9JRF9sQjcyclcyNUFVM3A5QzBfX3BjNkhza29RUkxhSlltRHBMQzI5VUlsRDZ3M1kwR3U5VGd3YmMtRC1OcmpYUnItN0d1bEU?oc=5)
 
 ---
 

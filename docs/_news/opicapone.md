@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Opicapone?">
-<strong>Opicapone</strong> currently has <strong>66 news articles</strong>, with 0 predicted indications.
+<strong>Opicapone</strong> currently has <strong>68 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (66)
+## Related News (68)
+
+### [Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system](https://news.google.com/rss/articles/CBMib0FVX3lxTE93bDJXRS1IRWhvZTZWeXh3YWVRbzVwMm9vWWNnRDJFRU5kYnZJWlctdnZMTklQbl80VEwzWEo4Q1RtczZNdXNOTVZhM0VmWDdWY3NnMTMxck5sWl83Tl9zcFlwSXhyc18xUG1JMUdqNA?oc=5)
+
+2026-11-22 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE93bDJXRS1IRWhvZTZWeXh3YWVRbzVwMm9vWWNnRDJFRU5kYnZJWlctdnZMTklQbl80VEwzWEo4Q1RtczZNdXNOTVZhM0VmWDdWY3NnMTMxck5sWl83Tl9zcFlwSXhyc18xUG1JMUdqNA?oc=5)
+
+---
 
 ### [David Cameron: How my sisters and I dealt with my mother’s Alzheimer’s - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaW9TU3hwQkQ2NFAzOUFqb1E2LTJrbFVBLTBNRHgzMDZUUzFzR0cySy1tOVdrWjRhaGY5cGFqdHY5TWh1MDBCanI0REo4OXY1cEpFV0UyQ0ZoQnRTNWxnUlBkUHlnejhDY2JULTh3TmhPY3lPMVczVnZQLTI4bkNxQ3NuRXZrMDJSa2UwQXlSUm5kaXhvblE?oc=5)
 
 2026-11-21 <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaW9TU3hwQkQ2NFAzOUFqb1E2LTJrbFVBLTBNRHgzMDZUUzFzR0cySy1tOVdrWjRhaGY5cGFqdHY5TWh1MDBCanI0REo4OXY1cEpFV0UyQ0ZoQnRTNWxnUlBkUHlnejhDY2JULTh3TmhPY3lPMVczVnZQLTI4bkNxQ3NuRXZrMDJSa2UwQXlSUm5kaXhvblE?oc=5)
+
+---
+
+### [Stem cells injected into brains of Alzheimer’s patients in world first - The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5)
+
+2026-11-19 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5)
 
 ---
 

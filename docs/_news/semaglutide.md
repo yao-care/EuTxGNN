@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>63 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>65 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,29 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (63)
+## Related News (65)
+
+### [Una bacteria quema la grasa y conserva el músculo mejor que Ozempic](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTmJKelJSRU90Zk90azBWS0R5YVlsLTFlMVNjZmltQWVhNXZjdTRBNTlHaUx0RFZSc2N2QVVIamxvcUEtR1UwX3E1NnNiMFZnb2xhdzNmZnpTT0V4LTRubVlQTG43VENvM1lSeEdDNlA0d1NjNTUxSGJRZms3ajJXVHpPUEduVm45UjZkV2ZMMlJkd3lIcXYya0dhNmZBSk1jZ2V3VnhTcHlpNTV3LVE?oc=5)
+
+2026-11-22 <span class="news-drug-tag">Semaglutide</span>
+
+Source: [elDiario.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTmJKelJSRU90Zk90azBWS0R5YVlsLTFlMVNjZmltQWVhNXZjdTRBNTlHaUx0RFZSc2N2QVVIamxvcUEtR1UwX3E1NnNiMFZnb2xhdzNmZnpTT0V4LTRubVlQTG43VENvM1lSeEdDNlA0d1NjNTUxSGJRZms3ajJXVHpPUEduVm45UjZkV2ZMMlJkd3lIcXYya0dhNmZBSk1jZ2V3VnhTcHlpNTV3LVE?oc=5)
+
+---
 
 ### [Weight-loss jab worries: ‘We don’t have a crystal ball about risks’ - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2lLeGxHYnk1ajBENFlpYm55YlhkaFc3QmlINlN6anBRbDhrZUJXY1A2ZUhRa2tCS0Fyd210alAwUWNEa18wbkRLaUR4X0tiRjhfcnR6YXc1R196dHNwSUdiSEZQcmFiTG1RWG1OVEF1YVV3aEhYTmk2SFFteHZRODJSMnV1aE9IdFJuSzFxTFFSeUY2U3NWUg?oc=5)
 
 2026-11-20 <span class="news-drug-tag">Semaglutide</span>
 
 Source: [The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2lLeGxHYnk1ajBENFlpYm55YlhkaFc3QmlINlN6anBRbDhrZUJXY1A2ZUhRa2tCS0Fyd210alAwUWNEa18wbkRLaUR4X0tiRjhfcnR6YXc1R196dHNwSUdiSEZQcmFiTG1RWG1OVEF1YVV3aEhYTmk2SFFteHZRODJSMnV1aE9IdFJuSzFxTFFSeUY2U3NWUg?oc=5)
+
+---
+
+### [Weight-loss drugs could free up an area of farmland larger than Italy – new study - The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1ZzM2EtSS1xOTk3QmktdWJBWGFacTdIM1RaQ3dkRDdNUXVKSGZNa2l4b2pXNkxrYk5aTVNpSzE1X0lVcEdVM0hBc1BzSTA1SmJKTjBjY2VmWl9vSEZieTBRSFBPN2U3QVBjbW9JRF9sQjcyclcyNUFVM3A5QzBfX3BjNkhza29RUkxhSlltRHBMQzI5VUlsRDZ3M1kwR3U5VGd3YmMtRC1OcmpYUnItN0d1bEU?oc=5)
+
+2026-11-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1ZzM2EtSS1xOTk3QmktdWJBWGFacTdIM1RaQ3dkRDdNUXVKSGZNa2l4b2pXNkxrYk5aTVNpSzE1X0lVcEdVM0hBc1BzSTA1SmJKTjBjY2VmWl9vSEZieTBRSFBPN2U3QVBjbW9JRF9sQjcyclcyNUFVM3A5QzBfX3BjNkhza29RUkxhSlltRHBMQzI5VUlsRDZ3M1kwR3U5VGd3YmMtRC1OcmpYUnItN0d1bEU?oc=5)
 
 ---
 

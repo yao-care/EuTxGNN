@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer's (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Alzheimer's (alzheimer disease). 56 articles, 16 related drugs."
+description: "Health news about Alzheimer's (alzheimer disease). 58 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
-<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>56 news articles</strong> and 16 related drugs.
+<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>58 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,29 @@ This page brings together the latest health news about “Alzheimer's” and lis
 </ul>
 </div>
 
-## Related News (56)
+## Related News (58)
+
+### [Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system](https://news.google.com/rss/articles/CBMib0FVX3lxTE93bDJXRS1IRWhvZTZWeXh3YWVRbzVwMm9vWWNnRDJFRU5kYnZJWlctdnZMTklQbl80VEwzWEo4Q1RtczZNdXNOTVZhM0VmWDdWY3NnMTMxck5sWl83Tl9zcFlwSXhyc18xUG1JMUdqNA?oc=5)
+
+2026-11-22
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE93bDJXRS1IRWhvZTZWeXh3YWVRbzVwMm9vWWNnRDJFRU5kYnZJWlctdnZMTklQbl80VEwzWEo4Q1RtczZNdXNOTVZhM0VmWDdWY3NnMTMxck5sWl83Tl9zcFlwSXhyc18xUG1JMUdqNA?oc=5)
+
+---
 
 ### [David Cameron: How my sisters and I dealt with my mother’s Alzheimer’s - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaW9TU3hwQkQ2NFAzOUFqb1E2LTJrbFVBLTBNRHgzMDZUUzFzR0cySy1tOVdrWjRhaGY5cGFqdHY5TWh1MDBCanI0REo4OXY1cEpFV0UyQ0ZoQnRTNWxnUlBkUHlnejhDY2JULTh3TmhPY3lPMVczVnZQLTI4bkNxQ3NuRXZrMDJSa2UwQXlSUm5kaXhvblE?oc=5)
 
 2026-11-21
 
 Source: [The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaW9TU3hwQkQ2NFAzOUFqb1E2LTJrbFVBLTBNRHgzMDZUUzFzR0cySy1tOVdrWjRhaGY5cGFqdHY5TWh1MDBCanI0REo4OXY1cEpFV0UyQ0ZoQnRTNWxnUlBkUHlnejhDY2JULTh3TmhPY3lPMVczVnZQLTI4bkNxQ3NuRXZrMDJSa2UwQXlSUm5kaXhvblE?oc=5)
+
+---
+
+### [Stem cells injected into brains of Alzheimer’s patients in world first - The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5)
+
+2026-11-19
+
+Source: [The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5)
 
 ---
 

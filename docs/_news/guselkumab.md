@@ -42,6 +42,14 @@ This page combines the AI-predicted indications for Guselkumab with the latest h
 
 ## Related News (299)
 
+### [GESUNDHEITHEUTE – Die Gesundheitssendung mit Dr. Jeanne Fürst im TV - Sendung - TV Spielfilm](https://news.google.com/rss/articles/CBMizwFBVV95cUxPblFHMnFFUTM0YUZHX2M4bmo4dkl3RzdoN3lMM3pHZkpsMnA3WnZHVFR0TVBZanF0ZVotNkE4YXVDNEVmS3JuMV9DSk10S21pamRHclo2WDZpblM2cVNySjF0UGJXckREMlRFVENkQkFBVlU3QUJEX3ZxSmQzNXZaYmpKX0FKMTBwc29BRWtuYlBLWUJON0VlM1BJRU9NekFmdFlWV3MwaE52S1R6WHJvNEktSGtRQlBXMWgxMlF4UkR1UkNWcWhhSlM4MllpeG8?oc=5)
+
+2026-11-22 <span class="news-indication-tag">diabetes</span>
+
+Source: [TV Spielfilm](https://news.google.com/rss/articles/CBMizwFBVV95cUxPblFHMnFFUTM0YUZHX2M4bmo4dkl3RzdoN3lMM3pHZkpsMnA3WnZHVFR0TVBZanF0ZVotNkE4YXVDNEVmS3JuMV9DSk10S21pamRHclo2WDZpblM2cVNySjF0UGJXckREMlRFVENkQkFBVlU3QUJEX3ZxSmQzNXZaYmpKX0FKMTBwc29BRWtuYlBLWUJON0VlM1BJRU9NekFmdFlWV3MwaE52S1R6WHJvNEktSGtRQlBXMWgxMlF4UkR1UkNWcWhhSlM4MllpeG8?oc=5)
+
+---
+
 ### [Dark circles, spots & dryness... what minor skin issues reveal about YOUR health - from diabetes to deadly liver disease - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTVWlCaXNVbThQbkdJMXBMVk4xQmJNZnZUbm9rVFdPa2F1allaN2ZNOC1DdjEyZ2VjcFdaaU8xV3VwU3FaNFdiMXQ0VmgxdWxBN1puVTg4ckZCLVdvUzB0S0s2cFFGeHduR3BRQkZaRzJyclZZeXNDWkRwVQ?oc=5)
 
 2026-11-22 <span class="news-indication-tag">diabetes</span>
@@ -71,14 +79,6 @@ Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnpQRl
 2026-11-21 <span class="news-indication-tag">diabetes</span>
 
 Source: [Spiegel](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkQ0VWZQa21lTHVqSXBNeU9VVm16NjRVVWpJWFJXdTlhNUVyTUdiQTVucGN4LXgzZmp3OWJicGZ6S241bDZ5akp3SFljOTZCTUg3ME93bFdwek9jUnRDOE55My1ucmlYOWkwZ09yNElueG1UTG5GT2R2SzVhX0VPVGRpeXVua2dRb2xIak5JMmNaUkVqTmpmekx1Zmo0RGtyMndkSjBKV2lGcEhXbHhWZHFPUjNOTTZUNTh2NkkyY01ScTBGUk4xWnU4VWN5MFRRdFZRdlhaaThmbzdJRFE?oc=5)
-
----
-
-### [Eating and sleeping later linked to health risks - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
-
-2026-11-20 <span class="news-indication-tag">diabetes</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
 
 ---
 

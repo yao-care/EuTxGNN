@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Granisetron?">
-<strong>Granisetron</strong> currently has <strong>43 news articles</strong>, with 10 predicted indications.
+<strong>Granisetron</strong> currently has <strong>44 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Granisetron with the latest 
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (43)
+## Related News (44)
+
+### ['I was diagnosed with COPD in my 20s - a lung transplant could give me a second chance at life' - STV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHVqYkVGX1dCNmgtVWRTclN3SWZUb2V5SWd0RmNCUjM4d25JTllYcndKQlBWUlNYeTFsSS1sUUJPb0tIbVJHbG1rMzU0QXU4RWFMaUdtMndSR21BTWdueXlwNjFTOUJCaW5PekxJWXViRVU5bHZYNmpnNlp0aHdCdFpqNnI4aHZhaEhyYTk4UUtrenBlbzdmdWtmMEM1Z05wZ0w4aWVUaF9wYnZVN2pqbg?oc=5)
+
+2026-11-22 <span class="news-indication-tag">copd</span>
+
+Source: [STV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHVqYkVGX1dCNmgtVWRTclN3SWZUb2V5SWd0RmNCUjM4d25JTllYcndKQlBWUlNYeTFsSS1sUUJPb0tIbVJHbG1rMzU0QXU4RWFMaUdtMndSR21BTWdueXlwNjFTOUJCaW5PekxJWXViRVU5bHZYNmpnNlp0aHdCdFpqNnI4aHZhaEhyYTk4UUtrenBlbzdmdWtmMEM1Z05wZ0w4aWVUaF9wYnZVN2pqbg?oc=5)
+
+---
 
 ### [EPOC: falta de aire, tos persistente y flema, señales de alerta que no deben ignorarse - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaTYwMVlDNzUtMmJuTUdmZnJFTTQ5S0dkZnlQU0R6UGNjMGdKUmxqcGYtM3BfdGZrbFQzVnZ6QUFDQnRXUWQwOUZ2a2ljdzZOUEhISWpFZ2xEOEQ4YV9GQ3dwUkFPNTNGeTd5SGhJUzBfeGtVLUszdTRjWGFudTZ0cFZ1eFR6bmJKZFRSZzVzRUNHRVFMelB1S01rVXNmd3k0Rjd3OGRrR3ZPTlBjaWUwdkJhaWFWM2RydGZ3dWg1NS1pX2Q3b01odm5paFR5V1dLQnRSR0tYcm9MYmfSAeABQVVfeXFMTU5INWhkNTRTNEc3NTBvTmFsb1FBWTJNcmp4a0NMN2J3S0JmUjBnb09SU1JmTDNvQlVXaHNVbUc0M2NHTTlDQWVEU2xyOG5NVkpDemFOSjBsQ3ZfMHZITkhvSFFiOHcxc1BYcEd2aF9VZTEtaGo1Q1NiUVlYOUlaZ25XYkFYR094S3h1SjdMZjA1WUNkMUhhY2pvRjlFZ2xBSmkycGxJYUc2NjlQd3hqekF2VlBfemF5V0duNWs3cnBueHFNVTR5RE9OS09NMHhtdEFZeDVGWnU1OElncm9TZ1o?oc=5)
 

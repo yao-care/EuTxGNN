@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>261 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>263 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (261)
+## Related News (263)
 
 ### [Migraineuses et fumeuses : 3,6 fois plus d'AVC avant 60 ans, d'après le suivi de 1,7 million de Danoises sur 20 ans](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
 
@@ -64,6 +64,14 @@ Source: [BR](https://news.google.com/rss/articles/CBMimgFBVV95cUxORU1tV3NmN1BwUG
 2026-11-22 <span class="news-indication-tag">Adipositas</span>
 
 Source: [food-monitor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTNkYkJSNU1iNzJUODFGZlNVVEM3cXBidGMweG5WV1lOUHplQnZTbWphRXFqUmpJN3FmbXVyUkpHZzJoX0NRQUJ5NWc3d1otT1YwZ0dfaUh1dGRvTUwwQ0NLU25sUGNlNEJqZWE3eXNtZTY4bjFydjl2bW16MS0xLUd2YnZ0cGpjaWJRdnAyamFySkkta29ra0IxdkJDRDRCb3k4OWh6SGg5ZU0?oc=5)
+
+---
+
+### [«No fue normal ni tampoco lo fue mi recuperación»: así fue el ictus que cambió la vida de Manuel - La Voz de Asturias](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUkp1eG9vSl9zc3A3T0Q0cGdERFo0SFZxN19UdVBrR3NRcUVaOGZvTHEyUTlIMTFGODZ3aFJzaENPcmRIUEhGUFp2SktPWjNCSlJ2TE1NdW45bEt6TFdyVlFiRXRSLXNCSEhQdUxRUWs2Y3FZTmJjbUx2eHh6RTZTNlF2MWNKLXJ2bTBGckRKNUl5NGJSUk1SZDVGX1lqaTNhcDNEZkNRWEpFYWF4T0NSd1RicVctb2ZqSkpRVmxtQkg2dkJlWk56aFc4VC05bm91bzBQdDdPVFBvV1JuSEZmWEpB0gH-AUFVX3lxTE5RSi1Udk9pUExUNzBHTWZSTWl0UjlQQWlaT0MxOVlDdXVGaEhFQlNkLWxoWDFHbmp2bnl0VWp0dkN1aGU2VGRMRFlQRDFESmozNFdYYWJ1QkZwM1ZYOEdqU0VkVDFUSjBlQzlhU3VoUzhUNEZDNHBfbWNaLWpJdUljR2x6a3lKLUp1ZG1STG1qNnptX2hYYXcxcXFBZWVBaTFnYzBrcXVHZVpIZmVvWkxVemxpZXhXaFdrWXJ2cWZxMjlsX1htLUlNNGN2RHNWSC1VYk1sMGJzaUk2MGdNa2x4UDlPeU40ZGJxS0dCakd4VXd3R3NJMG9venFwODFn?oc=5)
+
+2026-11-22 <span class="news-indication-tag">ictus</span>
+
+Source: [La Voz de Asturias](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUkp1eG9vSl9zc3A3T0Q0cGdERFo0SFZxN19UdVBrR3NRcUVaOGZvTHEyUTlIMTFGODZ3aFJzaENPcmRIUEhGUFp2SktPWjNCSlJ2TE1NdW45bEt6TFdyVlFiRXRSLXNCSEhQdUxRUWs2Y3FZTmJjbUx2eHh6RTZTNlF2MWNKLXJ2bTBGckRKNUl5NGJSUk1SZDVGX1lqaTNhcDNEZkNRWEpFYWF4T0NSd1RicVctb2ZqSkpRVmxtQkg2dkJlWk56aFc4VC05bm91bzBQdDdPVFBvV1JuSEZmWEpB0gH-AUFVX3lxTE5RSi1Udk9pUExUNzBHTWZSTWl0UjlQQWlaT0MxOVlDdXVGaEhFQlNkLWxoWDFHbmp2bnl0VWp0dkN1aGU2VGRMRFlQRDFESmozNFdYYWJ1QkZwM1ZYOEdqU0VkVDFUSjBlQzlhU3VoUzhUNEZDNHBfbWNaLWpJdUljR2x6a3lKLUp1ZG1STG1qNnptX2hYYXcxcXFBZWVBaTFnYzBrcXVHZVpIZmVvWkxVemxpZXhXaFdrWXJ2cWZxMjlsX1htLUlNNGN2RHNWSC1VYk1sMGJzaUk2MGdNa2x4UDlPeU40ZGJxS0dCakd4VXd3R3NJMG9venFwODFn?oc=5)
 
 ---
 
@@ -139,6 +147,14 @@ Source: [MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi9w
 
 ---
 
+### [La enfermedad microvascular causa hasta el 45% de los casos de demencia y el 25% de los ictus isquémicos](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR3R0Sng0Qnl1cWZZOTFJUGF1RU91Y0xBcUxLeTJGNzIyMlNMQ1pvV190NUdpbVByZVktSTIyX1hxQUQtQ19sQW1uVmMtdjVKYlNzNWRsMUNrRTJLX091SVlSUGNKdmg3dHBiZ1ZadlFxWU16eDhucUdMSFB0d2xpUWFGMUtxTjM1TkQzTHlpbDBmUFJVcTEyZUd1YmVyOHhNR252S2pR?oc=5)
+
+2026-11-20 <span class="news-indication-tag">ictus</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR3R0Sng0Qnl1cWZZOTFJUGF1RU91Y0xBcUxLeTJGNzIyMlNMQ1pvV190NUdpbVByZVktSTIyX1hxQUQtQ19sQW1uVmMtdjVKYlNzNWRsMUNrRTJLX091SVlSUGNKdmg3dHBiZ1ZadlFxWU16eDhucUdMSFB0d2xpUWFGMUtxTjM1TkQzTHlpbDBmUFJVcTEyZUd1YmVyOHhNR252S2pR?oc=5)
+
+---
+
 ### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen - Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
 
 2026-11-20 <span class="news-indication-tag">Adipositas</span>
@@ -149,7 +165,7 @@ Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWD
 
 ### [Weight-loss drugs could free up an area of farmland larger than Italy – new study - The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1ZzM2EtSS1xOTk3QmktdWJBWGFacTdIM1RaQ3dkRDdNUXVKSGZNa2l4b2pXNkxrYk5aTVNpSzE1X0lVcEdVM0hBc1BzSTA1SmJKTjBjY2VmWl9vSEZieTBRSFBPN2U3QVBjbW9JRF9sQjcyclcyNUFVM3A5QzBfX3BjNkhza29RUkxhSlltRHBMQzI5VUlsRDZ3M1kwR3U5VGd3YmMtRC1OcmpYUnItN0d1bEU?oc=5)
 
-2026-11-20 <span class="news-indication-tag">obesity</span>
+2026-11-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
 Source: [The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1ZzM2EtSS1xOTk3QmktdWJBWGFacTdIM1RaQ3dkRDdNUXVKSGZNa2l4b2pXNkxrYk5aTVNpSzE1X0lVcEdVM0hBc1BzSTA1SmJKTjBjY2VmWl9vSEZieTBRSFBPN2U3QVBjbW9JRF9sQjcyclcyNUFVM3A5QzBfX3BjNkhza29RUkxhSlltRHBMQzI5VUlsRDZ3M1kwR3U5VGd3YmMtRC1OcmpYUnItN0d1bEU?oc=5)
 

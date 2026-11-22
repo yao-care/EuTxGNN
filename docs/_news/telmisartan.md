@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>202 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>205 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (202)
+## Related News (205)
 
 ### [Nierenschutz bei Bluthochdruck: KDIGO empfiehlt RAS-Hemmer als erste Wahl](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR21SVUxJRmxKVUZfRXVadFVtRmpzVXFkX2o5cHpMMXlwS1hma3NmSnliZmdmdlo2ZWNsUGIxaFNmc3JOc1dHZ3A0V2FnR1p0bjRNT3pMelpRV19fd0hqQXNTSldudW16aXBtSXVnV2ZpdU10LS1VaUwzM1pHcWxITXBCNWw1MVNFNmtmQmRZSG0wYTlJdWJia3pWRkVoVUNkRkxaUk1n?oc=5)
 
@@ -67,9 +67,17 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVj
 
 ---
 
+### [«No fue normal ni tampoco lo fue mi recuperación»: así fue el ictus que cambió la vida de Manuel - La Voz de Asturias](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUkp1eG9vSl9zc3A3T0Q0cGdERFo0SFZxN19UdVBrR3NRcUVaOGZvTHEyUTlIMTFGODZ3aFJzaENPcmRIUEhGUFp2SktPWjNCSlJ2TE1NdW45bEt6TFdyVlFiRXRSLXNCSEhQdUxRUWs2Y3FZTmJjbUx2eHh6RTZTNlF2MWNKLXJ2bTBGckRKNUl5NGJSUk1SZDVGX1lqaTNhcDNEZkNRWEpFYWF4T0NSd1RicVctb2ZqSkpRVmxtQkg2dkJlWk56aFc4VC05bm91bzBQdDdPVFBvV1JuSEZmWEpB0gH-AUFVX3lxTE5RSi1Udk9pUExUNzBHTWZSTWl0UjlQQWlaT0MxOVlDdXVGaEhFQlNkLWxoWDFHbmp2bnl0VWp0dkN1aGU2VGRMRFlQRDFESmozNFdYYWJ1QkZwM1ZYOEdqU0VkVDFUSjBlQzlhU3VoUzhUNEZDNHBfbWNaLWpJdUljR2x6a3lKLUp1ZG1STG1qNnptX2hYYXcxcXFBZWVBaTFnYzBrcXVHZVpIZmVvWkxVemxpZXhXaFdrWXJ2cWZxMjlsX1htLUlNNGN2RHNWSC1VYk1sMGJzaUk2MGdNa2x4UDlPeU40ZGJxS0dCakd4VXd3R3NJMG9venFwODFn?oc=5)
+
+2026-11-22 <span class="news-indication-tag">ictus</span>
+
+Source: [La Voz de Asturias](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUkp1eG9vSl9zc3A3T0Q0cGdERFo0SFZxN19UdVBrR3NRcUVaOGZvTHEyUTlIMTFGODZ3aFJzaENPcmRIUEhGUFp2SktPWjNCSlJ2TE1NdW45bEt6TFdyVlFiRXRSLXNCSEhQdUxRUWs2Y3FZTmJjbUx2eHh6RTZTNlF2MWNKLXJ2bTBGckRKNUl5NGJSUk1SZDVGX1lqaTNhcDNEZkNRWEpFYWF4T0NSd1RicVctb2ZqSkpRVmxtQkg2dkJlWk56aFc4VC05bm91bzBQdDdPVFBvV1JuSEZmWEpB0gH-AUFVX3lxTE5RSi1Udk9pUExUNzBHTWZSTWl0UjlQQWlaT0MxOVlDdXVGaEhFQlNkLWxoWDFHbmp2bnl0VWp0dkN1aGU2VGRMRFlQRDFESmozNFdYYWJ1QkZwM1ZYOEdqU0VkVDFUSjBlQzlhU3VoUzhUNEZDNHBfbWNaLWpJdUljR2x6a3lKLUp1ZG1STG1qNnptX2hYYXcxcXFBZWVBaTFnYzBrcXVHZVpIZmVvWkxVemxpZXhXaFdrWXJ2cWZxMjlsX1htLUlNNGN2RHNWSC1VYk1sMGJzaUk2MGdNa2x4UDlPeU40ZGJxS0dCakd4VXd3R3NJMG9venFwODFn?oc=5)
+
+---
+
 ### [NHS warns of ‘alarming’ rise in hospital admissions for high blood pressure - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnhBT3JocW80T3pvRkpsWjIwNUR5eS03ME1VUWVRcDM2a3l2Z1ZlVWVQZjluekR2SThVZzZ4SDctZXNkamlGNUpPeXlBMTljRVdPTGhnMmpQWXlfNjRJajdtVG1jcDhXMWR1QWRfdDJJMFIxa0FyV1J0Q2J2a2FEdkotcUJUaFE2WHV0Z3VqWHJBbXdUZ2xxd2ZwRWVpRktwREI2Nms2QTM0UQ?oc=5)
 
-2026-11-21 <span class="news-indication-tag">high blood pressure</span>
+2026-11-21 <span class="news-indication-tag">hypertension</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnhBT3JocW80T3pvRkpsWjIwNUR5eS03ME1VUWVRcDM2a3l2Z1ZlVWVQZjluekR2SThVZzZ4SDctZXNkamlGNUpPeXlBMTljRVdPTGhnMmpQWXlfNjRJajdtVG1jcDhXMWR1QWRfdDJJMFIxa0FyV1J0Q2J2a2FEdkotcUJUaFE2WHV0Z3VqWHJBbXdUZ2xxd2ZwRWVpRktwREI2Nms2QTM0UQ?oc=5)
 
@@ -115,6 +123,14 @@ Source: [Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTVXeGhx
 
 ---
 
+### [Are some salts healthier than others? - The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ3VkJrck5YcXIwNmkwclNOcmNUNmlOVlYycXQ2SHhkWWNsMXk0bzJPZVJwZU12Rm5RZmJVRW1jSk1fUkc0T3ozNWVCQkVMQnUwMk9ZdUZ3Ri03NWl1cWtPM0tjV2taQ0VzcWNtQWdYWDFZZVNUTDFKTXZDTUdwQ1o5bFI4Ym9kUndrdVpqV2FlSUhaVEgzMjJxcG4?oc=5)
+
+2026-11-20 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ3VkJrck5YcXIwNmkwclNOcmNUNmlOVlYycXQ2SHhkWWNsMXk0bzJPZVJwZU12Rm5RZmJVRW1jSk1fUkc0T3ozNWVCQkVMQnUwMk9ZdUZ3Ri03NWl1cWtPM0tjV2taQ0VzcWNtQWdYWDFZZVNUTDFKTXZDTUdwQ1o5bFI4Ym9kUndrdVpqV2FlSUhaVEgzMjJxcG4?oc=5)
+
+---
+
 ### [Sleeping nine or more hours in a day could be a warning sign for adults with this common condition - The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW90TlFPTlI1WWpRMnBoVlNXVk5yc1RzV3RfSC01RFd6QldZbUFHMEFNNzFvTE5VdHZ6eXBTVFhVaWVLYzMxVklPMmtyZjZ3WjE1YVlzY0o5WjlkSWRKXy11UW9JTmJ3c2Y2aFVyeGt3a0h2TFVCTXJMMXdmVDFaNDhoNWFGTGcwbWJwVlVQM3Y?oc=5)
 
 2026-11-20 <span class="news-indication-tag">heart disease</span>
@@ -136,6 +152,14 @@ Source: [Notimérica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxObnd0R
 2026-11-20 <span class="news-indication-tag">ictus</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcFVhX0VYSk54czdRcXI0YjFnQmt3RUR0V3VTS3UzdV9na2dLb1hleTVyVmNxRW5QbTFqTUNqVU04ZzBhOVdsbl9hQjNoSlp5UlpJYlpkVmRkNEtCODFwNGh6RXZINTdWdlg5REVreGhEbXlVM0R4TnpEczNMLTkxdFlnLXo3SXZmcURUc1phVm93aVYxV2laVzhLT05xTGFFMjVtZzZFYVJac0o0X0ttckZKTWVvcFVvMDZQQnlRZVA2WHdWMFExX0VQM0lXbi1nZjBia1NEaVd5SU1MM3ZZV0I3TTAtWFVK?oc=5)
+
+---
+
+### [La enfermedad microvascular causa hasta el 45% de los casos de demencia y el 25% de los ictus isquémicos](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR3R0Sng0Qnl1cWZZOTFJUGF1RU91Y0xBcUxLeTJGNzIyMlNMQ1pvV190NUdpbVByZVktSTIyX1hxQUQtQ19sQW1uVmMtdjVKYlNzNWRsMUNrRTJLX091SVlSUGNKdmg3dHBiZ1ZadlFxWU16eDhucUdMSFB0d2xpUWFGMUtxTjM1TkQzTHlpbDBmUFJVcTEyZUd1YmVyOHhNR252S2pR?oc=5)
+
+2026-11-20 <span class="news-indication-tag">ictus</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR3R0Sng0Qnl1cWZZOTFJUGF1RU91Y0xBcUxLeTJGNzIyMlNMQ1pvV190NUdpbVByZVktSTIyX1hxQUQtQ19sQW1uVmMtdjVKYlNzNWRsMUNrRTJLX091SVlSUGNKdmg3dHBiZ1ZadlFxWU16eDhucUdMSFB0d2xpUWFGMUtxTjM1TkQzTHlpbDBmUFJVcTEyZUd1YmVyOHhNR252S2pR?oc=5)
 
 ---
 

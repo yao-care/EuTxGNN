@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Natalizumab?">
-<strong>Natalizumab</strong> currently has <strong>323 news articles</strong>, with 5 predicted indications.
+<strong>Natalizumab</strong> currently has <strong>324 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,23 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (323)
+## Related News (324)
+
+### [GESUNDHEITHEUTE – Die Gesundheitssendung mit Dr. Jeanne Fürst im TV - Sendung - TV Spielfilm](https://news.google.com/rss/articles/CBMizwFBVV95cUxPblFHMnFFUTM0YUZHX2M4bmo4dkl3RzdoN3lMM3pHZkpsMnA3WnZHVFR0TVBZanF0ZVotNkE4YXVDNEVmS3JuMV9DSk10S21pamRHclo2WDZpblM2cVNySjF0UGJXckREMlRFVENkQkFBVlU3QUJEX3ZxSmQzNXZaYmpKX0FKMTBwc29BRWtuYlBLWUJON0VlM1BJRU9NekFmdFlWV3MwaE52S1R6WHJvNEktSGtRQlBXMWgxMlF4UkR1UkNWcWhhSlM4MllpeG8?oc=5)
+
+2026-11-22 <span class="news-indication-tag">diabetes</span>
+
+Source: [TV Spielfilm](https://news.google.com/rss/articles/CBMizwFBVV95cUxPblFHMnFFUTM0YUZHX2M4bmo4dkl3RzdoN3lMM3pHZkpsMnA3WnZHVFR0TVBZanF0ZVotNkE4YXVDNEVmS3JuMV9DSk10S21pamRHclo2WDZpblM2cVNySjF0UGJXckREMlRFVENkQkFBVlU3QUJEX3ZxSmQzNXZaYmpKX0FKMTBwc29BRWtuYlBLWUJON0VlM1BJRU9NekFmdFlWV3MwaE52S1R6WHJvNEktSGtRQlBXMWgxMlF4UkR1UkNWcWhhSlM4MllpeG8?oc=5)
+
+---
+
+### ['I was diagnosed with COPD in my 20s - a lung transplant could give me a second chance at life' - STV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHVqYkVGX1dCNmgtVWRTclN3SWZUb2V5SWd0RmNCUjM4d25JTllYcndKQlBWUlNYeTFsSS1sUUJPb0tIbVJHbG1rMzU0QXU4RWFMaUdtMndSR21BTWdueXlwNjFTOUJCaW5PekxJWXViRVU5bHZYNmpnNlp0aHdCdFpqNnI4aHZhaEhyYTk4UUtrenBlbzdmdWtmMEM1Z05wZ0w4aWVUaF9wYnZVN2pqbg?oc=5)
+
+2026-11-22 <span class="news-indication-tag">copd</span>
+
+Source: [STV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHVqYkVGX1dCNmgtVWRTclN3SWZUb2V5SWd0RmNCUjM4d25JTllYcndKQlBWUlNYeTFsSS1sUUJPb0tIbVJHbG1rMzU0QXU4RWFMaUdtMndSR21BTWdueXlwNjFTOUJCaW5PekxJWXViRVU5bHZYNmpnNlp0aHdCdFpqNnI4aHZhaEhyYTk4UUtrenBlbzdmdWtmMEM1Z05wZ0w4aWVUaF9wYnZVN2pqbg?oc=5)
+
+---
 
 ### [Dark circles, spots & dryness... what minor skin issues reveal about YOUR health - from diabetes to deadly liver disease - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTVWlCaXNVbThQbkdJMXBMVk4xQmJNZnZUbm9rVFdPa2F1allaN2ZNOC1DdjEyZ2VjcFdaaU8xV3VwU3FaNFdiMXQ0VmgxdWxBN1puVTg4ckZCLVdvUzB0S0s2cFFGeHduR3BRQkZaRzJyclZZeXNDWkRwVQ?oc=5)
 
@@ -84,14 +100,6 @@ Source: [Spiegel](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkQ0VWZQa
 2026-11-21 <span class="news-indication-tag">EPOC</span>
 
 Source: [Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXlscnlINzJPUzh3Q0x4aDJCTXNDeUEzNllZaHNYMHQ2MDBuQUItVldSOGVqbE5tWnplLUstZGdJR3RGVk1GdndldlA1YlBBT3hFdnV2OWhhdV8yUHduZUdXYkFBWXFDQkxSODVqOXI2aU9mOWZ0dk9WOUNNV2hLNUVFaXM5UmZIX2VnbkNNSUh3TWdqZGdacXplYjdmeVUydEVKM3pjbmlKeHJFck1waW0xbTdZN25MOW96b1I1RFNUWGpSVmFQTzAxRjV0dVR0WHA2M0pONHlxTHA1ak9UNzlyMmk4M0Js0gHuAUFVX3lxTE8zc1pkeExkaW5ORWUzZkc1ejd3U2puVVJ2OTA5STRseldmX2d3WFZZd1BaOGZmS2JGTGdoekQ2Ri16cWthZUEtNkNqNjk5ckxmSXlIb0hhYmM5dU01VVlSeW4tV1JXeVNoYVhEbVZ5R0FueE5WS3B1ODVoYkwxMmEzR0tCUGFaV3JFX29fQkFkU093TG92TmI0dl9zZmVjUnFCNjBDWk1ja2piUVJlMi1qWkpLeGM1S3NPTEJuMTdCYnFxWHBnQ2t4bGp0NUxoM1VkcEZjY1NHWVFfRVB3MXJpQk9yVFB4YXNPLTZrRXc?oc=5)
-
----
-
-### [Eating and sleeping later linked to health risks - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
-
-2026-11-20 <span class="news-indication-tag">diabetes</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmhhTmRxTldwZktfbmdmWUxvQ0l6dEZCTnBzSGZGbDVDYVJiYjBtTXpEWEdRQjdPVUhFc01Ob1hxeUtNRUg0ZTRhclk0WXdTQ25EQUI4NlhQNEdBUi1KTFRoVGdrODJnTlluMlRObkZUTkRwU1doODNtSGNydG84UGpsb1Q3QkRGX2VDbE5YZ01NenN3SXpDNVJMTG1HV0hWa3dJcnZR?oc=5)
 
 ---
 
