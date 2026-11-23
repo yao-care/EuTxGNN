@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>55 news articles</strong>, with 0 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>58 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,37 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (55)
+## Related News (58)
+
+### [Casi medio millón de personas tienen espondiloartritis en España y el diagnóstico tarda hasta ocho años - Revista Pharma Market](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEZvdGxibW05TmZfSm93VTNnQ1RqbmlBOThIcVRYSmxKV0FrbC15QTVuNG1mbXBsa1EtTVBfbXJjYXowODhzWjJQSUtJN2dIWTRUVXVvVnU2bHFlZmJMUkMwOEtOQWF0V19RdDJSZm5kOXlDdkdXMUV2NUkxVFhhaHMzUS0yUWpvSW0wTlBHUzd0amNjVFM3aXJDT3RPY25BX3dMdjhYN2M1XzhZczVTc3ljdG5hTEd6SXV2WHZJR0g1ODN1Umc?oc=5)
+
+2026-11-23 <span class="news-indication-tag">artritis</span>
+
+Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEZvdGxibW05TmZfSm93VTNnQ1RqbmlBOThIcVRYSmxKV0FrbC15QTVuNG1mbXBsa1EtTVBfbXJjYXowODhzWjJQSUtJN2dIWTRUVXVvVnU2bHFlZmJMUkMwOEtOQWF0V19RdDJSZm5kOXlDdkdXMUV2NUkxVFhhaHMzUS0yUWpvSW0wTlBHUzd0amNjVFM3aXJDT3RPY25BX3dMdjhYN2M1XzhZczVTc3ljdG5hTEd6SXV2WHZJR0g1ODN1Umc?oc=5)
+
+---
+
+### [Pourquoi l'orage aggrave l'asthme : l'humidité fait éclater les grains de pollen en fragments qui entrent dans les bronches](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hzb1NKUDUxUDNJLVBzMUpueV92QU5VSDhlV3hBcGZ6SE90d2J0c0RNUDVnU3llQ0dKTzlEeVZIYnRUWHd6RzdjeTE0bFBabV84QUxqck4zWDY3cnpvWUFyeXFtdnF4Yk5waXo0eUwxWEd0THF5VTdnT3U3ODdSVlBBT0J1M3o2OTZfczA1S053TlN4Uk0zLU5KTnVxaXNtcjNJQjV2VkJBQWhrYzFCQUxaNWJZVFE?oc=5)
+
+2026-11-23 <span class="news-indication-tag">asthme</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hzb1NKUDUxUDNJLVBzMUpueV92QU5VSDhlV3hBcGZ6SE90d2J0c0RNUDVnU3llQ0dKTzlEeVZIYnRUWHd6RzdjeTE0bFBabV84QUxqck4zWDY3cnpvWUFyeXFtdnF4Yk5waXo0eUwxWEd0THF5VTdnT3U3ODdSVlBBT0J1M3o2OTZfczA1S053TlN4Uk0zLU5KTnVxaXNtcjNJQjV2VkJBQWhrYzFCQUxaNWJZVFE?oc=5)
+
+---
 
 ### [El error que empeora la EPOC: por qué no debes dejar de hacer ejercicio - 65 y más](https://news.google.com/rss/articles/CBMingFBVV95cUxNZGtSSmViVlc4UnoxMnJrRW0tN01aTGdjVUFFRndiYmpxdTFNWklEOEFlZ2xIQ1dteXdKRklxRDktYkZuT2w4MThmcURPR25wZjRDZDYtRVdadFZHV3ZYNkVKTXdYN1d5WlY2eU9KbjZBSUFjOGFWby04dWtZQTFrcEREY0tsbTZWUDEwV2VzdmZ0VFRQNlpzbmJ1NGt6UQ?oc=5)
 
 2026-11-23 <span class="news-indication-tag">EPOC</span>
 
 Source: [65 y más](https://news.google.com/rss/articles/CBMingFBVV95cUxNZGtSSmViVlc4UnoxMnJrRW0tN01aTGdjVUFFRndiYmpxdTFNWklEOEFlZ2xIQ1dteXdKRklxRDktYkZuT2w4MThmcURPR25wZjRDZDYtRVdadFZHV3ZYNkVKTXdYN1d5WlY2eU9KbjZBSUFjOGFWby04dWtZQTFrcEREY0tsbTZWUDEwV2VzdmZ0VFRQNlpzbmJ1NGt6UQ?oc=5)
+
+---
+
+### [Health, focus su BPCO e angioedema ereditario: diagnosi precoce e nuove cure - Sky TG24](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHR0U3JqWEh5dHZoWjlLN1dJdUhYMGN4YmJlelFmNjRpeHFqLW5ZdDh5enltTmJLVEhBVUZOTEhjNkhLNlNBUXRzNjFFeU80YnQzRThfNlNJdDFsVW91SjE1bmNOYy1EeDkyWl9TdnE5bmRsYlRseEZZR2dRSUNGV25OUExlR0VKUl94bWhn?oc=5)
+
+2026-11-22 <span class="news-indication-tag">BPCO</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHR0U3JqWEh5dHZoWjlLN1dJdUhYMGN4YmJlelFmNjRpeHFqLW5ZdDh5enltTmJLVEhBVUZOTEhjNkhLNlNBUXRzNjFFeU80YnQzRThfNlNJdDFsVW91SjE1bmNOYy1EeDkyWl9TdnE5bmRsYlRseEZZR2dRSUNGV25OUExlR0VKUl94bWhn?oc=5)
 
 ---
 

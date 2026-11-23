@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Varenicline?">
-<strong>Varenicline</strong> currently has <strong>71 news articles</strong>, with 10 predicted indications.
+<strong>Varenicline</strong> currently has <strong>72 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Varenicline with the latest 
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (71)
+## Related News (72)
+
+### [NHS issues huge high blood pressure warning after 'alarming' new statistic revealed - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1KM09WdklkOTlIY0dGMFVNdDRSNHRNN1lpMlhuVm9HMDlhNDdfanJTT1R1Qmx6YUg0VFJLUDE5cnlha0tOckxEUWkxTGtLMlpEZVBoRE1GekJDSXpGVkNNa1V3SDVlcmR4ZmhFa3dEa20wd1MtZWFN0gF8QVVfeXFMTU40NHN5eFVSMFU4czNtQnJGRnVjRTBLZjRJNnNlWktWd1dnQUFBZnppbmRZcGFHVllaS1VGbk01V2ZwQXN4Ri1KU2pjMkNHU1RoY25BaVBEX0VSamZIbVlfckRoYkdsRlUwSnFPRkRoNFBkSk9mSVRCSnhIbA?oc=5)
+
+2026-11-23 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1KM09WdklkOTlIY0dGMFVNdDRSNHRNN1lpMlhuVm9HMDlhNDdfanJTT1R1Qmx6YUg0VFJLUDE5cnlha0tOckxEUWkxTGtLMlpEZVBoRE1GekJDSXpGVkNNa1V3SDVlcmR4ZmhFa3dEa20wd1MtZWFN0gF8QVVfeXFMTU40NHN5eFVSMFU4czNtQnJGRnVjRTBLZjRJNnNlWktWd1dnQUFBZnppbmRZcGFHVllaS1VGbk01V2ZwQXN4Ri1KU2pjMkNHU1RoY25BaVBEX0VSamZIbVlfckRoYkdsRlUwSnFPRkRoNFBkSk9mSVRCSnhIbA?oc=5)
+
+---
 
 ### [¡Sorpresa! La menopausia no estaría envejeciendo el cerebro como se pensaba - Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
 

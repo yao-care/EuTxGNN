@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>141 news articles</strong>, with 0 predicted indications.
+<strong>Melatonin</strong> currently has <strong>142 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (141)
+## Related News (142)
+
+### ["Un blockbuster comme le viagra il y a 20 ans": les pharmacies font comme les supermarchés avec les pilules anti-obésité, elles bradent le Wegovy à prix coûtant (149 euros la boîte)](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSFhOd1l2eDI5bURHWE5ZWi1RUEZuR0k3d0Y2N29CWEpfNzV0OVZkZkNKQkdMal9abnMzWmdFT3N3NWpFdHhfN3Ruem93bGRYbEFsbVFaRGFVVE41anhzVWRyVmZMSjJzU3RPbWFGUXNKNXZuUTI5LXZJamg4azJGUGVjTGdPT2VpLXRwcmRrdWV6VjYxb01LU0lsRkZJaVVIU1FWVUR6WUV1WENEeW9GU0RFaUZaUlBmSFZ5RXFIQzF2QW1yc0E4LUhuZVZ3eGNmcUQ0YUNZYUJPUkdWcVA5OXZ4NXdOV21uSGlQSEpJcWZZNS1XTjdCbWhtLVVFSWh1YzdWTl9wd2VnY0ZjWVYxWk9EUHA3SmhORkxMVDNvdEQ3TnFzTm9idk93UnlYdFoyMDJkcXZiWWlsRXA2blpLZkVETXd2eXA5SFBsUXZfNkF2WkZoM0FTaHdNUk8wSjhxYWZwNXZnbGRBdw?oc=5)
+
+2026-11-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [BFM](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSFhOd1l2eDI5bURHWE5ZWi1RUEZuR0k3d0Y2N29CWEpfNzV0OVZkZkNKQkdMal9abnMzWmdFT3N3NWpFdHhfN3Ruem93bGRYbEFsbVFaRGFVVE41anhzVWRyVmZMSjJzU3RPbWFGUXNKNXZuUTI5LXZJamg4azJGUGVjTGdPT2VpLXRwcmRrdWV6VjYxb01LU0lsRkZJaVVIU1FWVUR6WUV1WENEeW9GU0RFaUZaUlBmSFZ5RXFIQzF2QW1yc0E4LUhuZVZ3eGNmcUQ0YUNZYUJPUkdWcVA5OXZ4NXdOV21uSGlQSEpJcWZZNS1XTjdCbWhtLVVFSWh1YzdWTl9wd2VnY0ZjWVYxWk9EUHA3SmhORkxMVDNvdEQ3TnFzTm9idk93UnlYdFoyMDJkcXZiWWlsRXA2blpLZkVETXd2eXA5SFBsUXZfNkF2WkZoM0FTaHdNUk8wSjhxYWZwNXZnbGRBdw?oc=5)
+
+---
 
 ### [¡Sorpresa! La menopausia no estaría envejeciendo el cerebro como se pensaba - Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
 

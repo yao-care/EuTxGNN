@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Selexipag. 0 predicted indications."
 permalink: /news/selexipag/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # Selexipag News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Selexipag?">
-<strong>Selexipag</strong> currently has <strong>60 news articles</strong>, with 0 predicted indications.
+<strong>Selexipag</strong> currently has <strong>61 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Selexipag with the latest he
 <p><a href="{{ '/drugs/selexipag/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (60)
+## Related News (61)
+
+### [NHS issues huge high blood pressure warning after 'alarming' new statistic revealed - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1KM09WdklkOTlIY0dGMFVNdDRSNHRNN1lpMlhuVm9HMDlhNDdfanJTT1R1Qmx6YUg0VFJLUDE5cnlha0tOckxEUWkxTGtLMlpEZVBoRE1GekJDSXpGVkNNa1V3SDVlcmR4ZmhFa3dEa20wd1MtZWFN0gF8QVVfeXFMTU40NHN5eFVSMFU4czNtQnJGRnVjRTBLZjRJNnNlWktWd1dnQUFBZnppbmRZcGFHVllaS1VGbk01V2ZwQXN4Ri1KU2pjMkNHU1RoY25BaVBEX0VSamZIbVlfckRoYkdsRlUwSnFPRkRoNFBkSk9mSVRCSnhIbA?oc=5)
+
+2026-11-23 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1KM09WdklkOTlIY0dGMFVNdDRSNHRNN1lpMlhuVm9HMDlhNDdfanJTT1R1Qmx6YUg0VFJLUDE5cnlha0tOckxEUWkxTGtLMlpEZVBoRE1GekJDSXpGVkNNa1V3SDVlcmR4ZmhFa3dEa20wd1MtZWFN0gF8QVVfeXFMTU40NHN5eFVSMFU4czNtQnJGRnVjRTBLZjRJNnNlWktWd1dnQUFBZnppbmRZcGFHVllaS1VGbk01V2ZwQXN4Ri1KU2pjMkNHU1RoY25BaVBEX0VSamZIbVlfckRoYkdsRlUwSnFPRkRoNFBkSk9mSVRCSnhIbA?oc=5)
+
+---
 
 ### [Nierenschutz bei Bluthochdruck: KDIGO empfiehlt RAS-Hemmer als erste Wahl](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR21SVUxJRmxKVUZfRXVadFVtRmpzVXFkX2o5cHpMMXlwS1hma3NmSnliZmdmdlo2ZWNsUGIxaFNmc3JOc1dHZ3A0V2FnR1p0bjRNT3pMelpRV19fd0hqQXNTSldudW16aXBtSXVnV2ZpdU10LS1VaUwzM1pHcWxITXBCNWw1MVNFNmtmQmRZSG0wYTlJdWJia3pWRkVoVUNkRkxaUk1n?oc=5)
 

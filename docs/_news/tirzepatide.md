@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>40 news articles</strong>, with 0 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>42 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (40)
+## Related News (42)
+
+### [Casi medio millón de personas tienen espondiloartritis en España y el diagnóstico tarda hasta ocho años - Revista Pharma Market](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEZvdGxibW05TmZfSm93VTNnQ1RqbmlBOThIcVRYSmxKV0FrbC15QTVuNG1mbXBsa1EtTVBfbXJjYXowODhzWjJQSUtJN2dIWTRUVXVvVnU2bHFlZmJMUkMwOEtOQWF0V19RdDJSZm5kOXlDdkdXMUV2NUkxVFhhaHMzUS0yUWpvSW0wTlBHUzd0amNjVFM3aXJDT3RPY25BX3dMdjhYN2M1XzhZczVTc3ljdG5hTEd6SXV2WHZJR0g1ODN1Umc?oc=5)
+
+2026-11-23 <span class="news-indication-tag">artritis</span>
+
+Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEZvdGxibW05TmZfSm93VTNnQ1RqbmlBOThIcVRYSmxKV0FrbC15QTVuNG1mbXBsa1EtTVBfbXJjYXowODhzWjJQSUtJN2dIWTRUVXVvVnU2bHFlZmJMUkMwOEtOQWF0V19RdDJSZm5kOXlDdkdXMUV2NUkxVFhhaHMzUS0yUWpvSW0wTlBHUzd0amNjVFM3aXJDT3RPY25BX3dMdjhYN2M1XzhZczVTc3ljdG5hTEd6SXV2WHZJR0g1ODN1Umc?oc=5)
+
+---
+
+### ["Un blockbuster comme le viagra il y a 20 ans": les pharmacies font comme les supermarchés avec les pilules anti-obésité, elles bradent le Wegovy à prix coûtant (149 euros la boîte)](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSFhOd1l2eDI5bURHWE5ZWi1RUEZuR0k3d0Y2N29CWEpfNzV0OVZkZkNKQkdMal9abnMzWmdFT3N3NWpFdHhfN3Ruem93bGRYbEFsbVFaRGFVVE41anhzVWRyVmZMSjJzU3RPbWFGUXNKNXZuUTI5LXZJamg4azJGUGVjTGdPT2VpLXRwcmRrdWV6VjYxb01LU0lsRkZJaVVIU1FWVUR6WUV1WENEeW9GU0RFaUZaUlBmSFZ5RXFIQzF2QW1yc0E4LUhuZVZ3eGNmcUQ0YUNZYUJPUkdWcVA5OXZ4NXdOV21uSGlQSEpJcWZZNS1XTjdCbWhtLVVFSWh1YzdWTl9wd2VnY0ZjWVYxWk9EUHA3SmhORkxMVDNvdEQ3TnFzTm9idk93UnlYdFoyMDJkcXZiWWlsRXA2blpLZkVETXd2eXA5SFBsUXZfNkF2WkZoM0FTaHdNUk8wSjhxYWZwNXZnbGRBdw?oc=5)
+
+2026-11-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [BFM](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSFhOd1l2eDI5bURHWE5ZWi1RUEZuR0k3d0Y2N29CWEpfNzV0OVZkZkNKQkdMal9abnMzWmdFT3N3NWpFdHhfN3Ruem93bGRYbEFsbVFaRGFVVE41anhzVWRyVmZMSjJzU3RPbWFGUXNKNXZuUTI5LXZJamg4azJGUGVjTGdPT2VpLXRwcmRrdWV6VjYxb01LU0lsRkZJaVVIU1FWVUR6WUV1WENEeW9GU0RFaUZaUlBmSFZ5RXFIQzF2QW1yc0E4LUhuZVZ3eGNmcUQ0YUNZYUJPUkdWcVA5OXZ4NXdOV21uSGlQSEpJcWZZNS1XTjdCbWhtLVVFSWh1YzdWTl9wd2VnY0ZjWVYxWk9EUHA3SmhORkxMVDNvdEQ3TnFzTm9idk93UnlYdFoyMDJkcXZiWWlsRXA2blpLZkVETXd2eXA5SFBsUXZfNkF2WkZoM0FTaHdNUk8wSjhxYWZwNXZnbGRBdw?oc=5)
+
+---
 
 ### [Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn - The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbE5raERWeFBsUHIxcmYtZ2VoNHNOVHZUYWdpYlJUTm5xT2EyVWhjVDJsbm9YRUZieEVFZnhlMUJXRWRjdUx5a0llSlM5RmQwaUpWYnhSM0R1WmxWMHUyVzh6YUtqcGlScFgwbDEyaGM0Rm1kNlhvbkM1Z18tMXU5QWpMVndwbEp1X19wQTRTRzZ3QjM4V3Izb015akp2RUswc1VyNFUzNDhTbmFfV1FKdA?oc=5)
 

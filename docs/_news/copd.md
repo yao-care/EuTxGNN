@@ -3,7 +3,7 @@ layout: default
 title: "EPOC (copd) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about EPOC (copd). 26 articles, 26 related drugs."
+description: "Health news about EPOC (copd). 27 articles, 26 related drugs."
 permalink: /news/copd/
 last_modified_at: 2026-11-23
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about EPOC (copd)?">
-<strong>EPOC (copd)</strong> currently has <strong>26 news articles</strong> and 26 related drugs.
+<strong>EPOC (copd)</strong> currently has <strong>27 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,13 +43,21 @@ This page brings together the latest health news about “EPOC” and lists the 
 </ul>
 </div>
 
-## Related News (26)
+## Related News (27)
 
 ### [El error que empeora la EPOC: por qué no debes dejar de hacer ejercicio - 65 y más](https://news.google.com/rss/articles/CBMingFBVV95cUxNZGtSSmViVlc4UnoxMnJrRW0tN01aTGdjVUFFRndiYmpxdTFNWklEOEFlZ2xIQ1dteXdKRklxRDktYkZuT2w4MThmcURPR25wZjRDZDYtRVdadFZHV3ZYNkVKTXdYN1d5WlY2eU9KbjZBSUFjOGFWby04dWtZQTFrcEREY0tsbTZWUDEwV2VzdmZ0VFRQNlpzbmJ1NGt6UQ?oc=5)
 
 2026-11-23
 
 Source: [65 y más](https://news.google.com/rss/articles/CBMingFBVV95cUxNZGtSSmViVlc4UnoxMnJrRW0tN01aTGdjVUFFRndiYmpxdTFNWklEOEFlZ2xIQ1dteXdKRklxRDktYkZuT2w4MThmcURPR25wZjRDZDYtRVdadFZHV3ZYNkVKTXdYN1d5WlY2eU9KbjZBSUFjOGFWby04dWtZQTFrcEREY0tsbTZWUDEwV2VzdmZ0VFRQNlpzbmJ1NGt6UQ?oc=5)
+
+---
+
+### [Health, focus su BPCO e angioedema ereditario: diagnosi precoce e nuove cure - Sky TG24](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHR0U3JqWEh5dHZoWjlLN1dJdUhYMGN4YmJlelFmNjRpeHFqLW5ZdDh5enltTmJLVEhBVUZOTEhjNkhLNlNBUXRzNjFFeU80YnQzRThfNlNJdDFsVW91SjE1bmNOYy1EeDkyWl9TdnE5bmRsYlRseEZZR2dRSUNGV25OUExlR0VKUl94bWhn?oc=5)
+
+2026-11-22
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHR0U3JqWEh5dHZoWjlLN1dJdUhYMGN4YmJlelFmNjRpeHFqLW5ZdDh5enltTmJLVEhBVUZOTEhjNkhLNlNBUXRzNjFFeU80YnQzRThfNlNJdDFsVW91SjE1bmNOYy1EeDkyWl9TdnE5bmRsYlRseEZZR2dRSUNGV25OUExlR0VKUl94bWhn?oc=5)
 
 ---
 

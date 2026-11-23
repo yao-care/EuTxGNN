@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Fenfluramine Hydrochloride. 0 predicted indications."
 permalink: /news/fenfluramine-hydrochloride/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # Fenfluramine Hydrochloride News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Fenfluramine Hydrochloride?">
-<strong>Fenfluramine Hydrochloride</strong> currently has <strong>129 news articles</strong>, with 0 predicted indications.
+<strong>Fenfluramine Hydrochloride</strong> currently has <strong>130 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Fenfluramine Hydrochloride w
 <p><a href="{{ '/drugs/fenfluramine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (129)
+## Related News (130)
+
+### ["Un blockbuster comme le viagra il y a 20 ans": les pharmacies font comme les supermarchés avec les pilules anti-obésité, elles bradent le Wegovy à prix coûtant (149 euros la boîte)](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSFhOd1l2eDI5bURHWE5ZWi1RUEZuR0k3d0Y2N29CWEpfNzV0OVZkZkNKQkdMal9abnMzWmdFT3N3NWpFdHhfN3Ruem93bGRYbEFsbVFaRGFVVE41anhzVWRyVmZMSjJzU3RPbWFGUXNKNXZuUTI5LXZJamg4azJGUGVjTGdPT2VpLXRwcmRrdWV6VjYxb01LU0lsRkZJaVVIU1FWVUR6WUV1WENEeW9GU0RFaUZaUlBmSFZ5RXFIQzF2QW1yc0E4LUhuZVZ3eGNmcUQ0YUNZYUJPUkdWcVA5OXZ4NXdOV21uSGlQSEpJcWZZNS1XTjdCbWhtLVVFSWh1YzdWTl9wd2VnY0ZjWVYxWk9EUHA3SmhORkxMVDNvdEQ3TnFzTm9idk93UnlYdFoyMDJkcXZiWWlsRXA2blpLZkVETXd2eXA5SFBsUXZfNkF2WkZoM0FTaHdNUk8wSjhxYWZwNXZnbGRBdw?oc=5)
+
+2026-11-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [BFM](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSFhOd1l2eDI5bURHWE5ZWi1RUEZuR0k3d0Y2N29CWEpfNzV0OVZkZkNKQkdMal9abnMzWmdFT3N3NWpFdHhfN3Ruem93bGRYbEFsbVFaRGFVVE41anhzVWRyVmZMSjJzU3RPbWFGUXNKNXZuUTI5LXZJamg4azJGUGVjTGdPT2VpLXRwcmRrdWV6VjYxb01LU0lsRkZJaVVIU1FWVUR6WUV1WENEeW9GU0RFaUZaUlBmSFZ5RXFIQzF2QW1yc0E4LUhuZVZ3eGNmcUQ0YUNZYUJPUkdWcVA5OXZ4NXdOV21uSGlQSEpJcWZZNS1XTjdCbWhtLVVFSWh1YzdWTl9wd2VnY0ZjWVYxWk9EUHA3SmhORkxMVDNvdEQ3TnFzTm9idk93UnlYdFoyMDJkcXZiWWlsRXA2blpLZkVETXd2eXA5SFBsUXZfNkF2WkZoM0FTaHdNUk8wSjhxYWZwNXZnbGRBdw?oc=5)
+
+---
 
 ### [Bye bye BMI? Warum Experten bei Adipositas umdenken](https://news.google.com/rss/articles/CBMimgFBVV95cUxORU1tV3NmN1BwUG1VNkZlS1JTbFdPY05vNTZwV1lHTENIeWxsMlA4ZFpuRUlkd251UXFPYU9PZXhGUWtnbmdFS1l6LWJyTzNaUnBLSEhoQlRtVTlqa3JqakUtVWt5LUVOd3Y4SDkzSXMzZDJ1WDJsazJYM3ZhR3dCZmpZWDhmWTROYU1WSUlvTkpEQk1weTExcWp3?oc=5)
 

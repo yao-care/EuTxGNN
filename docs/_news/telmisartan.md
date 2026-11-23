@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>205 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>210 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,53 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (205)
+## Related News (210)
+
+### [I lost my hearing after an apparent stroke. Then doctors discovered my brain tumour - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTBEQU84MVpNcjRfTjNoOHZoTTctWngxUjJMZVIxZXBMU3Zma19xVkRVSF9GNm96ZG9rTUZidjVySlRieTRUTHh3c2E2YnVPUGk3OVhDV05mNmYyVUFrNWY4bFAzQ0xhd2RMTmg5MU1BUzBhWUFKOXQ2SUZ2SndtbFlwUkZDc0luaWZDb0pVaXBXTmt3ZUxJMWZJOFR1VFVHTVE?oc=5)
+
+2026-11-23 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTBEQU84MVpNcjRfTjNoOHZoTTctWngxUjJMZVIxZXBMU3Zma19xVkRVSF9GNm96ZG9rTUZidjVySlRieTRUTHh3c2E2YnVPUGk3OVhDV05mNmYyVUFrNWY4bFAzQ0xhd2RMTmg5MU1BUzBhWUFKOXQ2SUZ2SndtbFlwUkZDc0luaWZDb0pVaXBXTmt3ZUxJMWZJOFR1VFVHTVE?oc=5)
+
+---
+
+### [NHS issues huge high blood pressure warning after 'alarming' new statistic revealed - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1KM09WdklkOTlIY0dGMFVNdDRSNHRNN1lpMlhuVm9HMDlhNDdfanJTT1R1Qmx6YUg0VFJLUDE5cnlha0tOckxEUWkxTGtLMlpEZVBoRE1GekJDSXpGVkNNa1V3SDVlcmR4ZmhFa3dEa20wd1MtZWFN0gF8QVVfeXFMTU40NHN5eFVSMFU4czNtQnJGRnVjRTBLZjRJNnNlWktWd1dnQUFBZnppbmRZcGFHVllaS1VGbk01V2ZwQXN4Ri1KU2pjMkNHU1RoY25BaVBEX0VSamZIbVlfckRoYkdsRlUwSnFPRkRoNFBkSk9mSVRCSnhIbA?oc=5)
+
+2026-11-23 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1KM09WdklkOTlIY0dGMFVNdDRSNHRNN1lpMlhuVm9HMDlhNDdfanJTT1R1Qmx6YUg0VFJLUDE5cnlha0tOckxEUWkxTGtLMlpEZVBoRE1GekJDSXpGVkNNa1V3SDVlcmR4ZmhFa3dEa20wd1MtZWFN0gF8QVVfeXFMTU40NHN5eFVSMFU4czNtQnJGRnVjRTBLZjRJNnNlWktWd1dnQUFBZnppbmRZcGFHVllaS1VGbk01V2ZwQXN4Ri1KU2pjMkNHU1RoY25BaVBEX0VSamZIbVlfckRoYkdsRlUwSnFPRkRoNFBkSk9mSVRCSnhIbA?oc=5)
+
+---
+
+### [L’ictus amnésique, cette perte de mémoire brutale est-elle inquiétante ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMitgFBVV95cUxNajducVpxTEdJUlF4WG9oeXdOWVBLN25JckdQQjZ3LVdDZ0xndlJtT2dLb2RZMVJyWXpEY3JMclNxNXNheWR6UzNteW0taEdXSDItVGFOLUV5Y0JnOHRQTmxXdkRzcmR6SnBUQnVMY3dnakRFUGJiZ2ltY1dFTWRpSDlUWEdEUnNGYTlVa19pcWNfVkh6SzlxUm1oZHVXQW44bU9RaDNUZzkyX1FpbldPOW9KV1lldw?oc=5)
+
+2026-11-23 <span class="news-indication-tag">ictus</span>
+
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMitgFBVV95cUxNajducVpxTEdJUlF4WG9oeXdOWVBLN25JckdQQjZ3LVdDZ0xndlJtT2dLb2RZMVJyWXpEY3JMclNxNXNheWR6UzNteW0taEdXSDItVGFOLUV5Y0JnOHRQTmxXdkRzcmR6SnBUQnVMY3dnakRFUGJiZ2ltY1dFTWRpSDlUWEdEUnNGYTlVa19pcWNfVkh6SzlxUm1oZHVXQW44bU9RaDNUZzkyX1FpbldPOW9KV1lldw?oc=5)
+
+---
 
 ### [¡Sorpresa! La menopausia no estaría envejeciendo el cerebro como se pensaba - Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
 
 2026-11-23 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
 
 Source: [Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
+
+---
+
+### [​6 hidden signs of heart trouble you should never ignore, US-based cardiologist warns: One of them starts in your legs​ - The Times of India](https://news.google.com/rss/articles/CBMinAJBVV95cUxNUkRBZl9rcGU3OW9GTWZqY19JRFhWd1l3cndZLXBEYTZVU1NpeXdfQm04M2pzQm1ydUVzc1pTOWEtWnkyY0dBd0FPMHhPcTRVbEVuVVpId3EyQjFDYzFiOG9wUk80bkJuUktEMy1CcjU4c1B1aG9SQWdmdTRtTC05T2ZHYXhTVlNmZzVIMkNVOTAzcVQtdDFrZUxNNWdlaE5NZTl6eE82QS1lQXp2UUs4NXJQWjN5eWw3SjhEMDJpdUlGc1pfZTFaYzNpZzRTR3pkd0d6VVd0MTdPVGtfd2lDZFhwcE1Zekl1aEVZcGxKV3hYRDA3NTNDMXJrSzc3QkJYMWE5QUNtaF9ja0ZPYjZyWnEyT0IwSHQ0Y1R0VdIBpAJBVV95cUxOZGhGT1hMa05IVW9OTlRoeEhiTkFCNVlMbHVSWTRFT1ltQ0JGTnN3ZEJVSERaa0RWSThJbTh0YzRsY3dHZlJMd2ZCRUViX1lPRGQ5N05KUWppY25iR0lCZ0FDVHFRcXNoYUJJTnBXTHlJMWItbDFoRGZvd3FKMlRSSVp4UUNISUVfYzFVbWlzSW5HQm1BVkJ2MVJnU21uRWZhbnVhSXozS1ppYlp4TnZIZXU2UmdmTUliX0lFNkxlM21rRGVzTkZTX3pfOVotYVh0QS1NZEoyOUxPMU1NRXd2WlpIeFRyTnFaWlF5MUNVT2pWV0E1dVdEUzM4dmR3dXNnN0dTQUJhaTdrZ0l0UG40VmczQnZTSkF2TEJpaFYzT2dHU1Yx?oc=5)
+
+2026-11-23 <span class="news-indication-tag">heart disease</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMinAJBVV95cUxNUkRBZl9rcGU3OW9GTWZqY19JRFhWd1l3cndZLXBEYTZVU1NpeXdfQm04M2pzQm1ydUVzc1pTOWEtWnkyY0dBd0FPMHhPcTRVbEVuVVpId3EyQjFDYzFiOG9wUk80bkJuUktEMy1CcjU4c1B1aG9SQWdmdTRtTC05T2ZHYXhTVlNmZzVIMkNVOTAzcVQtdDFrZUxNNWdlaE5NZTl6eE82QS1lQXp2UUs4NXJQWjN5eWw3SjhEMDJpdUlGc1pfZTFaYzNpZzRTR3pkd0d6VVd0MTdPVGtfd2lDZFhwcE1Zekl1aEVZcGxKV3hYRDA3NTNDMXJrSzc3QkJYMWE5QUNtaF9ja0ZPYjZyWnEyT0IwSHQ0Y1R0VdIBpAJBVV95cUxOZGhGT1hMa05IVW9OTlRoeEhiTkFCNVlMbHVSWTRFT1ltQ0JGTnN3ZEJVSERaa0RWSThJbTh0YzRsY3dHZlJMd2ZCRUViX1lPRGQ5N05KUWppY25iR0lCZ0FDVHFRcXNoYUJJTnBXTHlJMWItbDFoRGZvd3FKMlRSSVp4UUNISUVfYzFVbWlzSW5HQm1BVkJ2MVJnU21uRWZhbnVhSXozS1ppYlp4TnZIZXU2UmdmTUliX0lFNkxlM21rRGVzTkZTX3pfOVotYVh0QS1NZEoyOUxPMU1NRXd2WlpIeFRyTnFaWlF5MUNVT2pWV0E1dVdEUzM4dmR3dXNnN0dTQUJhaTdrZ0l0UG40VmczQnZTSkF2TEJpaFYzT2dHU1Yx?oc=5)
+
+---
+
+### [Dalla dieta allo sport, le cinque mosse per la salute del cuore](https://news.google.com/rss/articles/CBMijwJBVV95cUxNZ3lNQ0xNUVhTY2tZNHZ4eldkeGNEQzhudjNMUXdBNDFDbWhUcHd6ZHRhVUFrSHY1eHVobWpCUnkxRFpfNVFCOFd4YTg0VEJkaFdNdV9qa3YyYldfWE1BMHFydlZyTEpVTVRsS2FpRlVPaFNNTGt6Y3lsakVFeEZYSmZCZlJOS2UwRTlTampndXc4YUE5YWZkREpORjc3TVZ6Tm81eng2NHF0WE9Ub3puU1FSREhTR0hmQl9WQlBRVmo5ekwwbTNzWXpPZ3RKWVJpcngyeEdGNHVNMkVHTzJSSHZwY1ZwNXpUX2VIb3Z5MlBCd2NrUGk5UTVDdGZFUzFNUGhrY1dpeXhvTXlOU3ZZ0gGUAkFVX3lxTE9ycFMtdHBvZE1JOGp0dU9QVWNKYXU0Mk90Q3NNZDNwZnNiSEFlYjZIN3E1LUJiNk55VTdqVElnUkliUThqblhwQ1BhakNCLU5jWUFaNVN1cWRkeUZxUXVjSHJZWEhXVkRRdXBzbzNNanQyVnRNaGI5Wjg3QU4zR3g1bl9FQXFRdWhrWHBTZUh2WVhGTUpqaUFwNTJrMGQtR0tTVlBfeEhSMWtXemhrbHVMVkdjYlgzXzhONU94RFo0b1ozZUpaT0VjMXRBbHZlVzhLUE9rQXJwSnVHNERFWFRvVmc3VUJEa2hXN1pMLTdIME0xR0FEMlA4R1RVRUphV2ZlM2JoU2lzVDJUWjVxWUhHU0JZUA?oc=5)
+
+2026-11-22 <span class="news-indication-tag">ictus</span>
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMijwJBVV95cUxNZ3lNQ0xNUVhTY2tZNHZ4eldkeGNEQzhudjNMUXdBNDFDbWhUcHd6ZHRhVUFrSHY1eHVobWpCUnkxRFpfNVFCOFd4YTg0VEJkaFdNdV9qa3YyYldfWE1BMHFydlZyTEpVTVRsS2FpRlVPaFNNTGt6Y3lsakVFeEZYSmZCZlJOS2UwRTlTampndXc4YUE5YWZkREpORjc3TVZ6Tm81eng2NHF0WE9Ub3puU1FSREhTR0hmQl9WQlBRVmo5ekwwbTNzWXpPZ3RKWVJpcngyeEdGNHVNMkVHTzJSSHZwY1ZwNXpUX2VIb3Z5MlBCd2NrUGk5UTVDdGZFUzFNUGhrY1dpeXhvTXlOU3ZZ0gGUAkFVX3lxTE9ycFMtdHBvZE1JOGp0dU9QVWNKYXU0Mk90Q3NNZDNwZnNiSEFlYjZIN3E1LUJiNk55VTdqVElnUkliUThqblhwQ1BhakNCLU5jWUFaNVN1cWRkeUZxUXVjSHJZWEhXVkRRdXBzbzNNanQyVnRNaGI5Wjg3QU4zR3g1bl9FQXFRdWhrWHBTZUh2WVhGTUpqaUFwNTJrMGQtR0tTVlBfeEhSMWtXemhrbHVMVkdjYlgzXzhONU94RFo0b1ozZUpaT0VjMXRBbHZlVzhLUE9rQXJwSnVHNERFWFRvVmc3VUJEa2hXN1pMLTdIME0xR0FEMlA4R1RVRUphV2ZlM2JoU2lzVDJUWjVxWUhHU0JZUA?oc=5)
 
 ---
 
@@ -243,6 +283,14 @@ Source: [Mercacei](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM1NRU0Ex
 
 ---
 
+### [The best way to drink red wine for a healthier heart and longer life - The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
+
+2026-11-19 <span class="news-indication-tag">heart disease</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzdLVFVvdV8wbk1CWlIzZ0xfRV9yTWxDUzMzSjNLRUFTdXNHZXlHbGxqZWtvOGhXT19aZ0tTVUFIc0xOejQ2YjQyNlgybEljc3RZeHFsNTF0UUtTd0dmY2JlMFRtbkxTUWs2MEdkZFRFQXNFQmZidG5Qc3d6WTlPSXFmc2dLd29lV0RaT1ZfUHZ6c3NHYm5PUHlUNVpKc3EtWFYxN2ZDVXNmdnNscVIzbTNiR0hWWi1JQ1pF?oc=5)
+
+---
+
 ### [Arrêt des statines après 70 ans : 12,7 % d'infarctus, d'AVC ou de décès en 2 ans, contre 9,2 % en continuant](https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1oxNlJuQzVaVEdVSmhuQ001ZjA3WG13T1hRNVFjTm1Xb1dKbEs4Q2ZrUFd3anYxbzlVSEUxNjBDTjFST3pkcnBiaXpLbDIzLWpYckhyRzBUTDh3d2JDQjRYZjJhbVRyc0M0dlpsLWpSem8tT0lUV0ROQVpNZ19QNGxORG5NaG9TSU0wQ3FvcWJUd2NJT0ZsT1d1bjFxQlZGa2ZHS2xDWnNfeWFaYTJ6TWE4dXZXQQ?oc=5)
 
 2026-11-19 <span class="news-indication-tag">AVC</span>
@@ -328,14 +376,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUGxp
 2026-11-17 <span class="news-indication-tag">high blood pressure</span>
 
 Source: [The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVHBTN2F2TGVxWXdaNmJQajZtenpLRjhwTnAyaE1vTWk4bDBaMW5mR05yaE9nQUI4ZzNUSWFKbXFHR1JiQ3RlR21HVkFoVjBCNWhoakxvSnJKRTB6b1NNVHpYeVVDalVFeXBXaXJidWRkZVBKbHVXM3pfdkttdTV3NnR4dk14b0FEa3hJ0gGQAUFVX3lxTE1xSGxrajFmeFNlZEpEQlpMb1hyRG04MFpyd3hFZW5YQmNRbHVqd0ZPakxpUHA0Tzg3b3UwWGpxdHdQeTB1U2FsOS1BLV9PTVQ1UGRyNnpuSGlHS1RhRkNkSmVaemZfWnRvUEd1Y1ZFVkl2U2lvRDQ3Uy1xa09iRUptaDRVa0NaQ2U3VHZVOW8zTg?oc=5)
-
----
-
-### [¿La vacuna de la gripe puede ayudar a prevenir un infarto?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlpbjBjbFBNOEtYOFp5Q1pyT0NZQ0haLWw4X0Z2d0hmc054T3RLQzJNdEEzbkgtSk9WaTl6U0FnTXZleE12eE5walJvY05zeWNLZGF3U040S25CSUVTWDFIT09kemFFMXcyeVFTM3NVQzFkVkZYSEZrTUxiVmlvUGdDbGcyMFI3UlBfR3J3d3JlQThnek8yN0dZaG0yal9HLW9pcTE4WmZOeDk0SnZ4UXFmTVZRZDZfUElWR2ZyQ25JdS12OV93X2gwcHFVcGc?oc=5)
-
-2026-11-17 <span class="news-indication-tag">ictus</span>
-
-Source: [Univadis](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlpbjBjbFBNOEtYOFp5Q1pyT0NZQ0haLWw4X0Z2d0hmc054T3RLQzJNdEEzbkgtSk9WaTl6U0FnTXZleE12eE5walJvY05zeWNLZGF3U040S25CSUVTWDFIT09kemFFMXcyeVFTM3NVQzFkVkZYSEZrTUxiVmlvUGdDbGcyMFI3UlBfR3J3d3JlQThnek8yN0dZaG0yal9HLW9pcTE4WmZOeDk0SnZ4UXFmTVZRZDZfUElWR2ZyQ25JdS12OV93X2gwcHFVcGc?oc=5)
 
 ---
 

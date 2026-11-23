@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Natalizumab?">
-<strong>Natalizumab</strong> currently has <strong>326 news articles</strong>, with 5 predicted indications.
+<strong>Natalizumab</strong> currently has <strong>328 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (326)
+## Related News (328)
 
 ### [El error que empeora la EPOC: por qué no debes dejar de hacer ejercicio - 65 y más](https://news.google.com/rss/articles/CBMingFBVV95cUxNZGtSSmViVlc4UnoxMnJrRW0tN01aTGdjVUFFRndiYmpxdTFNWklEOEFlZ2xIQ1dteXdKRklxRDktYkZuT2w4MThmcURPR25wZjRDZDYtRVdadFZHV3ZYNkVKTXdYN1d5WlY2eU9KbjZBSUFjOGFWby04dWtZQTFrcEREY0tsbTZWUDEwV2VzdmZ0VFRQNlpzbmJ1NGt6UQ?oc=5)
 
@@ -55,6 +55,14 @@ Source: [TV Spielfilm](https://news.google.com/rss/articles/CBMizwFBVV95cUxPblFH
 
 ---
 
+### [Health, focus su BPCO e angioedema ereditario: diagnosi precoce e nuove cure - Sky TG24](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHR0U3JqWEh5dHZoWjlLN1dJdUhYMGN4YmJlelFmNjRpeHFqLW5ZdDh5enltTmJLVEhBVUZOTEhjNkhLNlNBUXRzNjFFeU80YnQzRThfNlNJdDFsVW91SjE1bmNOYy1EeDkyWl9TdnE5bmRsYlRseEZZR2dRSUNGV25OUExlR0VKUl94bWhn?oc=5)
+
+2026-11-22 <span class="news-indication-tag">BPCO</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHR0U3JqWEh5dHZoWjlLN1dJdUhYMGN4YmJlelFmNjRpeHFqLW5ZdDh5enltTmJLVEhBVUZOTEhjNkhLNlNBUXRzNjFFeU80YnQzRThfNlNJdDFsVW91SjE1bmNOYy1EeDkyWl9TdnE5bmRsYlRseEZZR2dRSUNGV25OUExlR0VKUl94bWhn?oc=5)
+
+---
+
 ### ['I was diagnosed with COPD in my 20s - a lung transplant could give me a second chance at life' - STV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHVqYkVGX1dCNmgtVWRTclN3SWZUb2V5SWd0RmNCUjM4d25JTllYcndKQlBWUlNYeTFsSS1sUUJPb0tIbVJHbG1rMzU0QXU4RWFMaUdtMndSR21BTWdueXlwNjFTOUJCaW5PekxJWXViRVU5bHZYNmpnNlp0aHdCdFpqNnI4aHZhaEhyYTk4UUtrenBlbzdmdWtmMEM1Z05wZ0w4aWVUaF9wYnZVN2pqbg?oc=5)
 
 2026-11-22 <span class="news-indication-tag">copd</span>
@@ -68,6 +76,14 @@ Source: [STV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHVqYkVG
 2026-11-22 <span class="news-indication-tag">diabetes</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTVWlCaXNVbThQbkdJMXBMVk4xQmJNZnZUbm9rVFdPa2F1allaN2ZNOC1DdjEyZ2VjcFdaaU8xV3VwU3FaNFdiMXQ0VmgxdWxBN1puVTg4ckZCLVdvUzB0S0s2cFFGeHduR3BRQkZaRzJyclZZeXNDWkRwVQ?oc=5)
+
+---
+
+### [Doctor warns one smell could signal diabetes - 'never ignore it' - Surrey Live](https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmh3SUcxT2RHd3ozZVFSdUpWS0xYSGN2bkRWOFFGZXlYR2QxQVAxT0JxXzhhUXlNdWpyVTJTT21HdzRFSnJXNTgxSDB1LXRFd1lOUEJfbWpKUUdDbWgxS1NITEFLaWVtM25wN0dHMmtyMlRFMUktelFXeFRjX2tOWEdKNNIBiAFBVV95cUxQaHhfa0E1Z0FUX2MydXBkNmNqQlFyMElRaXFCNnlVQy1ydENmNWpqenkzcGhEWHB5WUpQeUxNd0Jlanc0VmszeDRVODkxcWo0dVpHTTBJQUFjRmFPdE16NHZWc0F4aEJ1U2tKTlczZHF3V3kwUHJoazFZRVVQQjQxTTdpTzJ2VkZF?oc=5)
+
+2026-11-22 <span class="news-indication-tag">diabetes</span>
+
+Source: [Surrey Live](https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmh3SUcxT2RHd3ozZVFSdUpWS0xYSGN2bkRWOFFGZXlYR2QxQVAxT0JxXzhhUXlNdWpyVTJTT21HdzRFSnJXNTgxSDB1LXRFd1lOUEJfbWpKUUdDbWgxS1NITEFLaWVtM25wN0dHMmtyMlRFMUktelFXeFRjX2tOWEdKNNIBiAFBVV95cUxQaHhfa0E1Z0FUX2MydXBkNmNqQlFyMElRaXFCNnlVQy1ydENmNWpqenkzcGhEWHB5WUpQeUxNd0Jlanc0VmszeDRVODkxcWo0dVpHTTBJQUFjRmFPdE16NHZWc0F4aEJ1U2tKTlczZHF3V3kwUHJoazFZRVVQQjQxTTdpTzJ2VkZF?oc=5)
 
 ---
 

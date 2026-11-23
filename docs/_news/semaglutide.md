@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Semaglutide. 0 predicted indications."
 permalink: /news/semaglutide/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # Semaglutide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>65 news articles</strong>, with 0 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>67 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 </div>
 
-## Related News (65)
+## Related News (67)
+
+### ["Un blockbuster comme le viagra il y a 20 ans": les pharmacies font comme les supermarchés avec les pilules anti-obésité, elles bradent le Wegovy à prix coûtant (149 euros la boîte)](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSFhOd1l2eDI5bURHWE5ZWi1RUEZuR0k3d0Y2N29CWEpfNzV0OVZkZkNKQkdMal9abnMzWmdFT3N3NWpFdHhfN3Ruem93bGRYbEFsbVFaRGFVVE41anhzVWRyVmZMSjJzU3RPbWFGUXNKNXZuUTI5LXZJamg4azJGUGVjTGdPT2VpLXRwcmRrdWV6VjYxb01LU0lsRkZJaVVIU1FWVUR6WUV1WENEeW9GU0RFaUZaUlBmSFZ5RXFIQzF2QW1yc0E4LUhuZVZ3eGNmcUQ0YUNZYUJPUkdWcVA5OXZ4NXdOV21uSGlQSEpJcWZZNS1XTjdCbWhtLVVFSWh1YzdWTl9wd2VnY0ZjWVYxWk9EUHA3SmhORkxMVDNvdEQ3TnFzTm9idk93UnlYdFoyMDJkcXZiWWlsRXA2blpLZkVETXd2eXA5SFBsUXZfNkF2WkZoM0FTaHdNUk8wSjhxYWZwNXZnbGRBdw?oc=5)
+
+2026-11-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [BFM](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSFhOd1l2eDI5bURHWE5ZWi1RUEZuR0k3d0Y2N29CWEpfNzV0OVZkZkNKQkdMal9abnMzWmdFT3N3NWpFdHhfN3Ruem93bGRYbEFsbVFaRGFVVE41anhzVWRyVmZMSjJzU3RPbWFGUXNKNXZuUTI5LXZJamg4azJGUGVjTGdPT2VpLXRwcmRrdWV6VjYxb01LU0lsRkZJaVVIU1FWVUR6WUV1WENEeW9GU0RFaUZaUlBmSFZ5RXFIQzF2QW1yc0E4LUhuZVZ3eGNmcUQ0YUNZYUJPUkdWcVA5OXZ4NXdOV21uSGlQSEpJcWZZNS1XTjdCbWhtLVVFSWh1YzdWTl9wd2VnY0ZjWVYxWk9EUHA3SmhORkxMVDNvdEQ3TnFzTm9idk93UnlYdFoyMDJkcXZiWWlsRXA2blpLZkVETXd2eXA5SFBsUXZfNkF2WkZoM0FTaHdNUk8wSjhxYWZwNXZnbGRBdw?oc=5)
+
+---
 
 ### [Una bacteria quema la grasa y conserva el músculo mejor que Ozempic](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTmJKelJSRU90Zk90azBWS0R5YVlsLTFlMVNjZmltQWVhNXZjdTRBNTlHaUx0RFZSc2N2QVVIamxvcUEtR1UwX3E1NnNiMFZnb2xhdzNmZnpTT0V4LTRubVlQTG43VENvM1lSeEdDNlA0d1NjNTUxSGJRZms3ajJXVHpPUEduVm45UjZkV2ZMMlJkd3lIcXYya0dhNmZBSk1jZ2V3VnhTcHlpNTV3LVE?oc=5)
 
@@ -60,6 +68,14 @@ Source: [The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxP
 2026-11-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Tgcom24](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2lMZDl6Zi1yMFNjRm1KX0tqQ255T2VqU3VYNldld2tIOW43amI2bG9FYm43dnpTbTJRM3VyVGtQalpnRGhEMmxGTnphNEw5UFNOdlBiMmk2VlAxZnVmZDVKZmwzTDYxTEpwaTNoSk5BM1BGR1ZVeG5rbzFLdDRrZEc3bzdmNWoycFM3RFdDSk5sdmtoWEdWNUxzRmFMaFM1RTJyTGpoeW9jbkxCMHZHTNIBaEFVX3lxTFBCb2xfeGR6aW9ZV1NhNy04ZC0wVTVPRXRnc1lKSG1mZXluT2dxYlFmNnlxSUN5RHlkLXJIWUNrM0FWV0dYU0lCalFqeU9TNTlTTHdndGdYQTlwOGw2enJQUU1OZWQtQmlJ?oc=5)
+
+---
+
+### [Farmaci GLP-1, FDA aggiorna le avvertenze sul rischio per la vista. Le indicazioni ai medici](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNThEaEdWTnlvalg4QXRPTHcxREdsTTYta3FFcGRwRjVUbDAwVDdlN18xcnBnYjdfNEZEZzVVWC1NaWZ4ZmRoSV8tdXZKOXNFOU5oM0RZWFlmTW9NbENVODllN1pkRjdMSTlhbDQ2YmVRUERpUDNGOE1jNlJGLVdZZ2Qzd3p2bE5IeUpQb1JIVXNka3M3N0k4LU5hUnlTVGZQSWZpNld0QldjWXkyd3lKZGZVcWJ1Qy10VXJ1V1NsU1RTakJmUlN2aQ?oc=5)
+
+2026-11-17 <span class="news-drug-tag">Semaglutide</span>
+
+Source: [Doctor33](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNThEaEdWTnlvalg4QXRPTHcxREdsTTYta3FFcGRwRjVUbDAwVDdlN18xcnBnYjdfNEZEZzVVWC1NaWZ4ZmRoSV8tdXZKOXNFOU5oM0RZWFlmTW9NbENVODllN1pkRjdMSTlhbDQ2YmVRUERpUDNGOE1jNlJGLVdZZ2Qzd3p2bE5IeUpQb1JIVXNka3M3N0k4LU5hUnlTVGZQSWZpNld0QldjWXkyd3lKZGZVcWJ1Qy10VXJ1V1NsU1RTakJmUlN2aQ?oc=5)
 
 ---
 

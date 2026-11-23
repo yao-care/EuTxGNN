@@ -3,7 +3,7 @@ layout: default
 title: "high blood pressure (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about high blood pressure (hypertension). 60 articles, 55 related drugs."
+description: "Health news about high blood pressure (hypertension). 61 articles, 55 related drugs."
 permalink: /news/hypertension/
 last_modified_at: 2026-11-23
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
-<strong>high blood pressure (hypertension)</strong> currently has <strong>60 news articles</strong> and 55 related drugs.
+<strong>high blood pressure (hypertension)</strong> currently has <strong>61 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,7 +64,15 @@ This page brings together the latest health news about “high blood pressure”
 </ul>
 </div>
 
-## Related News (60)
+## Related News (61)
+
+### [NHS issues huge high blood pressure warning after 'alarming' new statistic revealed - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1KM09WdklkOTlIY0dGMFVNdDRSNHRNN1lpMlhuVm9HMDlhNDdfanJTT1R1Qmx6YUg0VFJLUDE5cnlha0tOckxEUWkxTGtLMlpEZVBoRE1GekJDSXpGVkNNa1V3SDVlcmR4ZmhFa3dEa20wd1MtZWFN0gF8QVVfeXFMTU40NHN5eFVSMFU4czNtQnJGRnVjRTBLZjRJNnNlWktWd1dnQUFBZnppbmRZcGFHVllaS1VGbk01V2ZwQXN4Ri1KU2pjMkNHU1RoY25BaVBEX0VSamZIbVlfckRoYkdsRlUwSnFPRkRoNFBkSk9mSVRCSnhIbA?oc=5)
+
+2026-11-23
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1KM09WdklkOTlIY0dGMFVNdDRSNHRNN1lpMlhuVm9HMDlhNDdfanJTT1R1Qmx6YUg0VFJLUDE5cnlha0tOckxEUWkxTGtLMlpEZVBoRE1GekJDSXpGVkNNa1V3SDVlcmR4ZmhFa3dEa20wd1MtZWFN0gF8QVVfeXFMTU40NHN5eFVSMFU4czNtQnJGRnVjRTBLZjRJNnNlWktWd1dnQUFBZnppbmRZcGFHVllaS1VGbk01V2ZwQXN4Ri1KU2pjMkNHU1RoY25BaVBEX0VSamZIbVlfckRoYkdsRlUwSnFPRkRoNFBkSk9mSVRCSnhIbA?oc=5)
+
+---
 
 ### [Nierenschutz bei Bluthochdruck: KDIGO empfiehlt RAS-Hemmer als erste Wahl](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR21SVUxJRmxKVUZfRXVadFVtRmpzVXFkX2o5cHpMMXlwS1hma3NmSnliZmdmdlo2ZWNsUGIxaFNmc3JOc1dHZ3A0V2FnR1p0bjRNT3pMelpRV19fd0hqQXNTSldudW16aXBtSXVnV2ZpdU10LS1VaUwzM1pHcWxITXBCNWw1MVNFNmtmQmRZSG0wYTlJdWJia3pWRkVoVUNkRkxaUk1n?oc=5)
 

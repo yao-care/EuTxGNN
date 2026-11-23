@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tolcapone. 10 predicted indications."
 permalink: /news/tolcapone/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # Tolcapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Tolcapone?">
-<strong>Tolcapone</strong> currently has <strong>68 news articles</strong>, with 10 predicted indications.
+<strong>Tolcapone</strong> currently has <strong>69 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ This page combines the AI-predicted indications for Tolcapone with the latest he
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (68)
+## Related News (69)
 
-### [Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system](https://news.google.com/rss/articles/CBMib0FVX3lxTE93bDJXRS1IRWhvZTZWeXh3YWVRbzVwMm9vWWNnRDJFRU5kYnZJWlctdnZMTklQbl80VEwzWEo4Q1RtczZNdXNOTVZhM0VmWDdWY3NnMTMxck5sWl83Tl9zcFlwSXhyc18xUG1JMUdqNA?oc=5)
+### [The red-flag waist size that puts you at risk of dementia - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEF5N1JUeUVpZGdSRlpINGxBOGRudUpXVEVhd2tPYTRvR1BpZjFmVzVHQmR5MmhRZFh5V1Y3ZmR2Nlc2UjVrdEVtWHdMSjFSaFZ3WVNkTlBGWGFqeHpRRGF5Q2swU1Zkb0FaZlZicjFhMFJ1WjE0aU9yLVMxT1hhRUF3ZHFLcjM5S25sVmdnUWtKdw?oc=5)
 
-2026-11-22 <span class="news-indication-tag">Alzheimer's</span>
+2026-11-23 <span class="news-indication-tag">Alzheimer's</span>
 
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE93bDJXRS1IRWhvZTZWeXh3YWVRbzVwMm9vWWNnRDJFRU5kYnZJWlctdnZMTklQbl80VEwzWEo4Q1RtczZNdXNOTVZhM0VmWDdWY3NnMTMxck5sWl83Tl9zcFlwSXhyc18xUG1JMUdqNA?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEF5N1JUeUVpZGdSRlpINGxBOGRudUpXVEVhd2tPYTRvR1BpZjFmVzVHQmR5MmhRZFh5V1Y3ZmR2Nlc2UjVrdEVtWHdMSjFSaFZ3WVNkTlBGWGFqeHpRRGF5Q2swU1Zkb0FaZlZicjFhMFJ1WjE0aU9yLVMxT1hhRUF3ZHFLcjM5S25sVmdnUWtKdw?oc=5)
 
 ---
 
-### [David Cameron: How my sisters and I dealt with my mother’s Alzheimer’s - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaW9TU3hwQkQ2NFAzOUFqb1E2LTJrbFVBLTBNRHgzMDZUUzFzR0cySy1tOVdrWjRhaGY5cGFqdHY5TWh1MDBCanI0REo4OXY1cEpFV0UyQ0ZoQnRTNWxnUlBkUHlnejhDY2JULTh3TmhPY3lPMVczVnZQLTI4bkNxQ3NuRXZrMDJSa2UwQXlSUm5kaXhvblE?oc=5)
+### [Neurologist who diagnosed himself with Alzheimer's shares his little-known warning sign - The Mirror](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMm9VYU54cmlfUnNlVnpDZ1R0bl8xVVJqRkJnc1dSaGJ5eGdUa19LaGc2NHl4R3NpMzRFeExHR3VkaWV1aEFqLTN4aWUyRDdFaU80M29qdXYzbVg2RHI2WEtaZi1fS0dCX0pCbXhVTmtFMm9WdUZTTlhJVUZLRk1LeFNUQmNyZEhORXBfb2JUd2p4WHpF0gGaAUFVX3lxTFBhT3VfRGNJdXJIbUtwOXNNbzdVcENsaUZYUWgtSUl4ejZoT2ludk9vRm9jT0gtRWRBNS00V1IzSE00MVFyWExscmY3SmFEVldPbFFzdXI2dTNXbEcyQ1ZSMjFHdElJMV9SSy0tS2pjTE5VMW9Hd2dZSVBkREFpd1lIVXBNQXNpMFJrWkEtU2V0VzZZWHM3OGxobEE?oc=5)
 
-2026-11-21 <span class="news-indication-tag">Alzheimer's</span>
+2026-11-23 <span class="news-indication-tag">Alzheimer's</span>
 
-Source: [The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaW9TU3hwQkQ2NFAzOUFqb1E2LTJrbFVBLTBNRHgzMDZUUzFzR0cySy1tOVdrWjRhaGY5cGFqdHY5TWh1MDBCanI0REo4OXY1cEpFV0UyQ0ZoQnRTNWxnUlBkUHlnejhDY2JULTh3TmhPY3lPMVczVnZQLTI4bkNxQ3NuRXZrMDJSa2UwQXlSUm5kaXhvblE?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMm9VYU54cmlfUnNlVnpDZ1R0bl8xVVJqRkJnc1dSaGJ5eGdUa19LaGc2NHl4R3NpMzRFeExHR3VkaWV1aEFqLTN4aWUyRDdFaU80M29qdXYzbVg2RHI2WEtaZi1fS0dCX0pCbXhVTmtFMm9WdUZTTlhJVUZLRk1LeFNUQmNyZEhORXBfb2JUd2p4WHpF0gGaAUFVX3lxTFBhT3VfRGNJdXJIbUtwOXNNbzdVcENsaUZYUWgtSUl4ejZoT2ludk9vRm9jT0gtRWRBNS00V1IzSE00MVFyWExscmY3SmFEVldPbFFzdXI2dTNXbEcyQ1ZSMjFHdElJMV9SSy0tS2pjTE5VMW9Hd2dZSVBkREFpd1lIVXBNQXNpMFJrWkEtU2V0VzZZWHM3OGxobEE?oc=5)
+
+---
+
+### [The common vitamin that could lower your Alzheimer’s risk in old age - The Independent](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZW1WWGE4TTdBSV9hMXFfcFZNUldvbE9tczJLaUJFZVI0VWFKMG91bTJRMVhlZkwyVDV1RjNZaHh1a3F1N1AtQWZvSlF0RkhRQjdlWE9ubGpZbDUzbTFONk4taURzZFl1ZWJwX2tqLTBWNmlNZ2lrX1p1blNPa2NwU25sbjcyLURDRW4yWVNRUmNhdDljblpTbGxPbzNMWEI2WjFvdnJQb2xpZmFWVFBTWTBrNXdCdw?oc=5)
+
+2026-11-23 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZW1WWGE4TTdBSV9hMXFfcFZNUldvbE9tczJLaUJFZVI0VWFKMG91bTJRMVhlZkwyVDV1RjNZaHh1a3F1N1AtQWZvSlF0RkhRQjdlWE9ubGpZbDUzbTFONk4taURzZFl1ZWJwX2tqLTBWNmlNZ2lrX1p1blNPa2NwU25sbjcyLURDRW4yWVNRUmNhdDljblpTbGxPbzNMWEI2WjFvdnJQb2xpZmFWVFBTWTBrNXdCdw?oc=5)
 
 ---
 

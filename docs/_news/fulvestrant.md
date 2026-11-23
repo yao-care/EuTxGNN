@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Fulvestrant. 10 predicted indications."
 permalink: /news/fulvestrant/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # Fulvestrant News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Fulvestrant?">
-<strong>Fulvestrant</strong> currently has <strong>16 news articles</strong>, with 10 predicted indications.
+<strong>Fulvestrant</strong> currently has <strong>17 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Fulvestrant with the latest 
 <p><a href="{{ '/drugs/fulvestrant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (17)
+
+### [Casi medio millón de personas tienen espondiloartritis en España y el diagnóstico tarda hasta ocho años - Revista Pharma Market](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEZvdGxibW05TmZfSm93VTNnQ1RqbmlBOThIcVRYSmxKV0FrbC15QTVuNG1mbXBsa1EtTVBfbXJjYXowODhzWjJQSUtJN2dIWTRUVXVvVnU2bHFlZmJMUkMwOEtOQWF0V19RdDJSZm5kOXlDdkdXMUV2NUkxVFhhaHMzUS0yUWpvSW0wTlBHUzd0amNjVFM3aXJDT3RPY25BX3dMdjhYN2M1XzhZczVTc3ljdG5hTEd6SXV2WHZJR0g1ODN1Umc?oc=5)
+
+2026-11-23 <span class="news-indication-tag">artritis</span>
+
+Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEZvdGxibW05TmZfSm93VTNnQ1RqbmlBOThIcVRYSmxKV0FrbC15QTVuNG1mbXBsa1EtTVBfbXJjYXowODhzWjJQSUtJN2dIWTRUVXVvVnU2bHFlZmJMUkMwOEtOQWF0V19RdDJSZm5kOXlDdkdXMUV2NUkxVFhhaHMzUS0yUWpvSW0wTlBHUzd0amNjVFM3aXJDT3RPY25BX3dMdjhYN2M1XzhZczVTc3ljdG5hTEd6SXV2WHZJR0g1ODN1Umc?oc=5)
+
+---
 
 ### [GBA beschließt neue Anforderungen an DMP Rheumatoide Arthritis](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDFQVTJ5eVA3N2ZRSXN0ZVZTT2NjNDBsNUg5VUUybEdIZlZSeXdZWlJYcVpKZkgySkdwbW5KN3N0SXhyTHBPYktQdXN1QzBic3NqSmViOHpFSkNVZmRteU9ldlM5b2lVV2RUU0luekp3akUxQ3Q3bFZYMGZZQ2hXY3VuWVgwLWt4b2RyaHFYQnBoNUYyWnY5bzNmd2syWlhGVGN1VUt4VXkzTk9mVng2UTBtUG0tNHM?oc=5)
 

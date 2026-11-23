@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Granisetron?">
-<strong>Granisetron</strong> currently has <strong>45 news articles</strong>, with 10 predicted indications.
+<strong>Granisetron</strong> currently has <strong>46 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ This page combines the AI-predicted indications for Granisetron with the latest 
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (45)
+## Related News (46)
 
 ### [El error que empeora la EPOC: por qué no debes dejar de hacer ejercicio - 65 y más](https://news.google.com/rss/articles/CBMingFBVV95cUxNZGtSSmViVlc4UnoxMnJrRW0tN01aTGdjVUFFRndiYmpxdTFNWklEOEFlZ2xIQ1dteXdKRklxRDktYkZuT2w4MThmcURPR25wZjRDZDYtRVdadFZHV3ZYNkVKTXdYN1d5WlY2eU9KbjZBSUFjOGFWby04dWtZQTFrcEREY0tsbTZWUDEwV2VzdmZ0VFRQNlpzbmJ1NGt6UQ?oc=5)
 
 2026-11-23 <span class="news-indication-tag">EPOC</span>
 
 Source: [65 y más](https://news.google.com/rss/articles/CBMingFBVV95cUxNZGtSSmViVlc4UnoxMnJrRW0tN01aTGdjVUFFRndiYmpxdTFNWklEOEFlZ2xIQ1dteXdKRklxRDktYkZuT2w4MThmcURPR25wZjRDZDYtRVdadFZHV3ZYNkVKTXdYN1d5WlY2eU9KbjZBSUFjOGFWby04dWtZQTFrcEREY0tsbTZWUDEwV2VzdmZ0VFRQNlpzbmJ1NGt6UQ?oc=5)
+
+---
+
+### [Health, focus su BPCO e angioedema ereditario: diagnosi precoce e nuove cure - Sky TG24](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHR0U3JqWEh5dHZoWjlLN1dJdUhYMGN4YmJlelFmNjRpeHFqLW5ZdDh5enltTmJLVEhBVUZOTEhjNkhLNlNBUXRzNjFFeU80YnQzRThfNlNJdDFsVW91SjE1bmNOYy1EeDkyWl9TdnE5bmRsYlRseEZZR2dRSUNGV25OUExlR0VKUl94bWhn?oc=5)
+
+2026-11-22 <span class="news-indication-tag">BPCO</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHR0U3JqWEh5dHZoWjlLN1dJdUhYMGN4YmJlelFmNjRpeHFqLW5ZdDh5enltTmJLVEhBVUZOTEhjNkhLNlNBUXRzNjFFeU80YnQzRThfNlNJdDFsVW91SjE1bmNOYy1EeDkyWl9TdnE5bmRsYlRseEZZR2dRSUNGV25OUExlR0VKUl94bWhn?oc=5)
 
 ---
 

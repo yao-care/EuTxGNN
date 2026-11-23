@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>300 news articles</strong>, with 4 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>301 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (300)
+## Related News (301)
 
 ### [¡Sorpresa! La menopausia no estaría envejeciendo el cerebro como se pensaba - Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
 
@@ -67,6 +67,14 @@ Source: [JeChange](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1ls
 2026-11-22 <span class="news-indication-tag">diabetes</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTVWlCaXNVbThQbkdJMXBMVk4xQmJNZnZUbm9rVFdPa2F1allaN2ZNOC1DdjEyZ2VjcFdaaU8xV3VwU3FaNFdiMXQ0VmgxdWxBN1puVTg4ckZCLVdvUzB0S0s2cFFGeHduR3BRQkZaRzJyclZZeXNDWkRwVQ?oc=5)
+
+---
+
+### [Doctor warns one smell could signal diabetes - 'never ignore it' - Surrey Live](https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmh3SUcxT2RHd3ozZVFSdUpWS0xYSGN2bkRWOFFGZXlYR2QxQVAxT0JxXzhhUXlNdWpyVTJTT21HdzRFSnJXNTgxSDB1LXRFd1lOUEJfbWpKUUdDbWgxS1NITEFLaWVtM25wN0dHMmtyMlRFMUktelFXeFRjX2tOWEdKNNIBiAFBVV95cUxQaHhfa0E1Z0FUX2MydXBkNmNqQlFyMElRaXFCNnlVQy1ydENmNWpqenkzcGhEWHB5WUpQeUxNd0Jlanc0VmszeDRVODkxcWo0dVpHTTBJQUFjRmFPdE16NHZWc0F4aEJ1U2tKTlczZHF3V3kwUHJoazFZRVVQQjQxTTdpTzJ2VkZF?oc=5)
+
+2026-11-22 <span class="news-indication-tag">diabetes</span>
+
+Source: [Surrey Live](https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmh3SUcxT2RHd3ozZVFSdUpWS0xYSGN2bkRWOFFGZXlYR2QxQVAxT0JxXzhhUXlNdWpyVTJTT21HdzRFSnJXNTgxSDB1LXRFd1lOUEJfbWpKUUdDbWgxS1NITEFLaWVtM25wN0dHMmtyMlRFMUktelFXeFRjX2tOWEdKNNIBiAFBVV95cUxQaHhfa0E1Z0FUX2MydXBkNmNqQlFyMElRaXFCNnlVQy1ydENmNWpqenkzcGhEWHB5WUpQeUxNd0Jlanc0VmszeDRVODkxcWo0dVpHTTBJQUFjRmFPdE16NHZWc0F4aEJ1U2tKTlczZHF3V3kwUHJoazFZRVVQQjQxTTdpTzJ2VkZF?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Norethisterone. 0 predicted indications."
 permalink: /news/norethisterone/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-23
 ---
 
 # Norethisterone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Norethisterone?">
-<strong>Norethisterone</strong> currently has <strong>4 news articles</strong>, with 0 predicted indications.
+<strong>Norethisterone</strong> currently has <strong>5 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Norethisterone with the late
 <p><a href="{{ '/drugs/norethisterone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Pourquoi l'orage aggrave l'asthme : l'humidité fait éclater les grains de pollen en fragments qui entrent dans les bronches](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hzb1NKUDUxUDNJLVBzMUpueV92QU5VSDhlV3hBcGZ6SE90d2J0c0RNUDVnU3llQ0dKTzlEeVZIYnRUWHd6RzdjeTE0bFBabV84QUxqck4zWDY3cnpvWUFyeXFtdnF4Yk5waXo0eUwxWEd0THF5VTdnT3U3ODdSVlBBT0J1M3o2OTZfczA1S053TlN4Uk0zLU5KTnVxaXNtcjNJQjV2VkJBQWhrYzFCQUxaNWJZVFE?oc=5)
+
+2026-11-23 <span class="news-indication-tag">asthme</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hzb1NKUDUxUDNJLVBzMUpueV92QU5VSDhlV3hBcGZ6SE90d2J0c0RNUDVnU3llQ0dKTzlEeVZIYnRUWHd6RzdjeTE0bFBabV84QUxqck4zWDY3cnpvWUFyeXFtdnF4Yk5waXo0eUwxWEd0THF5VTdnT3U3ODdSVlBBT0J1M3o2OTZfczA1S053TlN4Uk0zLU5KTnVxaXNtcjNJQjV2VkJBQWhrYzFCQUxaNWJZVFE?oc=5)
+
+---
 
 ### [Attention, les moisissures sur les murs sont dangereuses pour la santé - 20 Minutes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVQ3bnhFNGhqeGhObThwdHFuTWt3MXZUSk5Pc01zS05XemJ2cFNRUmI3dWUyQ3lKMExmTkVPcmxuRk5ydzFrVG0tWDc5dmpGT0Jkc3R4cDFWeTE5ZVZySEQ5Z19rY0Z5RzRvNXdZYk92clplRE1ocHV3Vml0eWNKZ1l3VGtidU1PTk9ZanNFcTZqb3FsWFpFclByTmM5RVFEdXc?oc=5)
 

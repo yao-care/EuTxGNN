@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Prilocaine?">
-<strong>Prilocaine</strong> currently has <strong>60 news articles</strong>, with 10 predicted indications.
+<strong>Prilocaine</strong> currently has <strong>62 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Prilocaine with the latest h
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (60)
+## Related News (62)
+
+### [Pourquoi l'orage aggrave l'asthme : l'humidité fait éclater les grains de pollen en fragments qui entrent dans les bronches](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hzb1NKUDUxUDNJLVBzMUpueV92QU5VSDhlV3hBcGZ6SE90d2J0c0RNUDVnU3llQ0dKTzlEeVZIYnRUWHd6RzdjeTE0bFBabV84QUxqck4zWDY3cnpvWUFyeXFtdnF4Yk5waXo0eUwxWEd0THF5VTdnT3U3ODdSVlBBT0J1M3o2OTZfczA1S053TlN4Uk0zLU5KTnVxaXNtcjNJQjV2VkJBQWhrYzFCQUxaNWJZVFE?oc=5)
+
+2026-11-23 <span class="news-indication-tag">asthme</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hzb1NKUDUxUDNJLVBzMUpueV92QU5VSDhlV3hBcGZ6SE90d2J0c0RNUDVnU3llQ0dKTzlEeVZIYnRUWHd6RzdjeTE0bFBabV84QUxqck4zWDY3cnpvWUFyeXFtdnF4Yk5waXo0eUwxWEd0THF5VTdnT3U3ODdSVlBBT0J1M3o2OTZfczA1S053TlN4Uk0zLU5KTnVxaXNtcjNJQjV2VkJBQWhrYzFCQUxaNWJZVFE?oc=5)
+
+---
 
 ### [El error que empeora la EPOC: por qué no debes dejar de hacer ejercicio - 65 y más](https://news.google.com/rss/articles/CBMingFBVV95cUxNZGtSSmViVlc4UnoxMnJrRW0tN01aTGdjVUFFRndiYmpxdTFNWklEOEFlZ2xIQ1dteXdKRklxRDktYkZuT2w4MThmcURPR25wZjRDZDYtRVdadFZHV3ZYNkVKTXdYN1d5WlY2eU9KbjZBSUFjOGFWby04dWtZQTFrcEREY0tsbTZWUDEwV2VzdmZ0VFRQNlpzbmJ1NGt6UQ?oc=5)
 
@@ -57,6 +65,14 @@ Source: [65 y más](https://news.google.com/rss/articles/CBMingFBVV95cUxNZGtSSmV
 2026-11-23 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
 
 Source: [Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
+
+---
+
+### [Health, focus su BPCO e angioedema ereditario: diagnosi precoce e nuove cure - Sky TG24](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHR0U3JqWEh5dHZoWjlLN1dJdUhYMGN4YmJlelFmNjRpeHFqLW5ZdDh5enltTmJLVEhBVUZOTEhjNkhLNlNBUXRzNjFFeU80YnQzRThfNlNJdDFsVW91SjE1bmNOYy1EeDkyWl9TdnE5bmRsYlRseEZZR2dRSUNGV25OUExlR0VKUl94bWhn?oc=5)
+
+2026-11-22 <span class="news-indication-tag">BPCO</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHR0U3JqWEh5dHZoWjlLN1dJdUhYMGN4YmJlelFmNjRpeHFqLW5ZdDh5enltTmJLVEhBVUZOTEhjNkhLNlNBUXRzNjFFeU80YnQzRThfNlNJdDFsVW91SjE1bmNOYy1EeDkyWl9TdnE5bmRsYlRseEZZR2dRSUNGV25OUExlR0VKUl94bWhn?oc=5)
 
 ---
 

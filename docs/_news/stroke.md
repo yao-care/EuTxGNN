@@ -3,7 +3,7 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 137 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 139 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-23
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>137 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>139 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,37 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (137)
+## Related News (139)
+
+### [I lost my hearing after an apparent stroke. Then doctors discovered my brain tumour - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTBEQU84MVpNcjRfTjNoOHZoTTctWngxUjJMZVIxZXBMU3Zma19xVkRVSF9GNm96ZG9rTUZidjVySlRieTRUTHh3c2E2YnVPUGk3OVhDV05mNmYyVUFrNWY4bFAzQ0xhd2RMTmg5MU1BUzBhWUFKOXQ2SUZ2SndtbFlwUkZDc0luaWZDb0pVaXBXTmt3ZUxJMWZJOFR1VFVHTVE?oc=5)
+
+2026-11-23
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTBEQU84MVpNcjRfTjNoOHZoTTctWngxUjJMZVIxZXBMU3Zma19xVkRVSF9GNm96ZG9rTUZidjVySlRieTRUTHh3c2E2YnVPUGk3OVhDV05mNmYyVUFrNWY4bFAzQ0xhd2RMTmg5MU1BUzBhWUFKOXQ2SUZ2SndtbFlwUkZDc0luaWZDb0pVaXBXTmt3ZUxJMWZJOFR1VFVHTVE?oc=5)
+
+---
+
+### [L’ictus amnésique, cette perte de mémoire brutale est-elle inquiétante ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMitgFBVV95cUxNajducVpxTEdJUlF4WG9oeXdOWVBLN25JckdQQjZ3LVdDZ0xndlJtT2dLb2RZMVJyWXpEY3JMclNxNXNheWR6UzNteW0taEdXSDItVGFOLUV5Y0JnOHRQTmxXdkRzcmR6SnBUQnVMY3dnakRFUGJiZ2ltY1dFTWRpSDlUWEdEUnNGYTlVa19pcWNfVkh6SzlxUm1oZHVXQW44bU9RaDNUZzkyX1FpbldPOW9KV1lldw?oc=5)
+
+2026-11-23
+
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMitgFBVV95cUxNajducVpxTEdJUlF4WG9oeXdOWVBLN25JckdQQjZ3LVdDZ0xndlJtT2dLb2RZMVJyWXpEY3JMclNxNXNheWR6UzNteW0taEdXSDItVGFOLUV5Y0JnOHRQTmxXdkRzcmR6SnBUQnVMY3dnakRFUGJiZ2ltY1dFTWRpSDlUWEdEUnNGYTlVa19pcWNfVkh6SzlxUm1oZHVXQW44bU9RaDNUZzkyX1FpbldPOW9KV1lldw?oc=5)
+
+---
 
 ### [¡Sorpresa! La menopausia no estaría envejeciendo el cerebro como se pensaba - Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
 
 2026-11-23
 
 Source: [Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
+
+---
+
+### [Dalla dieta allo sport, le cinque mosse per la salute del cuore](https://news.google.com/rss/articles/CBMijwJBVV95cUxNZ3lNQ0xNUVhTY2tZNHZ4eldkeGNEQzhudjNMUXdBNDFDbWhUcHd6ZHRhVUFrSHY1eHVobWpCUnkxRFpfNVFCOFd4YTg0VEJkaFdNdV9qa3YyYldfWE1BMHFydlZyTEpVTVRsS2FpRlVPaFNNTGt6Y3lsakVFeEZYSmZCZlJOS2UwRTlTampndXc4YUE5YWZkREpORjc3TVZ6Tm81eng2NHF0WE9Ub3puU1FSREhTR0hmQl9WQlBRVmo5ekwwbTNzWXpPZ3RKWVJpcngyeEdGNHVNMkVHTzJSSHZwY1ZwNXpUX2VIb3Z5MlBCd2NrUGk5UTVDdGZFUzFNUGhrY1dpeXhvTXlOU3ZZ0gGUAkFVX3lxTE9ycFMtdHBvZE1JOGp0dU9QVWNKYXU0Mk90Q3NNZDNwZnNiSEFlYjZIN3E1LUJiNk55VTdqVElnUkliUThqblhwQ1BhakNCLU5jWUFaNVN1cWRkeUZxUXVjSHJZWEhXVkRRdXBzbzNNanQyVnRNaGI5Wjg3QU4zR3g1bl9FQXFRdWhrWHBTZUh2WVhGTUpqaUFwNTJrMGQtR0tTVlBfeEhSMWtXemhrbHVMVkdjYlgzXzhONU94RFo0b1ozZUpaT0VjMXRBbHZlVzhLUE9rQXJwSnVHNERFWFRvVmc3VUJEa2hXN1pMLTdIME0xR0FEMlA4R1RVRUphV2ZlM2JoU2lzVDJUWjVxWUhHU0JZUA?oc=5)
+
+2026-11-22
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMijwJBVV95cUxNZ3lNQ0xNUVhTY2tZNHZ4eldkeGNEQzhudjNMUXdBNDFDbWhUcHd6ZHRhVUFrSHY1eHVobWpCUnkxRFpfNVFCOFd4YTg0VEJkaFdNdV9qa3YyYldfWE1BMHFydlZyTEpVTVRsS2FpRlVPaFNNTGt6Y3lsakVFeEZYSmZCZlJOS2UwRTlTampndXc4YUE5YWZkREpORjc3TVZ6Tm81eng2NHF0WE9Ub3puU1FSREhTR0hmQl9WQlBRVmo5ekwwbTNzWXpPZ3RKWVJpcngyeEdGNHVNMkVHTzJSSHZwY1ZwNXpUX2VIb3Z5MlBCd2NrUGk5UTVDdGZFUzFNUGhrY1dpeXhvTXlOU3ZZ0gGUAkFVX3lxTE9ycFMtdHBvZE1JOGp0dU9QVWNKYXU0Mk90Q3NNZDNwZnNiSEFlYjZIN3E1LUJiNk55VTdqVElnUkliUThqblhwQ1BhakNCLU5jWUFaNVN1cWRkeUZxUXVjSHJZWEhXVkRRdXBzbzNNanQyVnRNaGI5Wjg3QU4zR3g1bl9FQXFRdWhrWHBTZUh2WVhGTUpqaUFwNTJrMGQtR0tTVlBfeEhSMWtXemhrbHVMVkdjYlgzXzhONU94RFo0b1ozZUpaT0VjMXRBbHZlVzhLUE9rQXJwSnVHNERFWFRvVmc3VUJEa2hXN1pMLTdIME0xR0FEMlA4R1RVRUphV2ZlM2JoU2lzVDJUWjVxWUhHU0JZUA?oc=5)
 
 ---
 
@@ -252,14 +276,6 @@ Source: [La Voz de Asturias](https://news.google.com/rss/articles/CBMi9AFBVV95cU
 2026-11-17
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUGxpeFpNblNWenlEWngyZjNNckZ0RjJEVnpSbUdBZDJIb0l0Tno5NHJ0cDg2eWRGc3k3eEJObGFnZGlLLThKd3pibW13YUQ1b1MySXZmeUhGeXlTSkJTXzF1T1E5RjRWN092ajNocWZUenBmSnN2SHFLOHFiTUZKRFdULW4xWXdzSHVGdXl4dnhLR3lIU0FvUi1XTlVTNzZtNDIwZTE5ak1pMnJneVJZU2RDc1paRGJSVDdPdjV5ZXVmVGtxWVpoenZWSTRaRWNkakxZ?oc=5)
-
----
-
-### [¿La vacuna de la gripe puede ayudar a prevenir un infarto?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlpbjBjbFBNOEtYOFp5Q1pyT0NZQ0haLWw4X0Z2d0hmc054T3RLQzJNdEEzbkgtSk9WaTl6U0FnTXZleE12eE5walJvY05zeWNLZGF3U040S25CSUVTWDFIT09kemFFMXcyeVFTM3NVQzFkVkZYSEZrTUxiVmlvUGdDbGcyMFI3UlBfR3J3d3JlQThnek8yN0dZaG0yal9HLW9pcTE4WmZOeDk0SnZ4UXFmTVZRZDZfUElWR2ZyQ25JdS12OV93X2gwcHFVcGc?oc=5)
-
-2026-11-17
-
-Source: [Univadis](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlpbjBjbFBNOEtYOFp5Q1pyT0NZQ0haLWw4X0Z2d0hmc054T3RLQzJNdEEzbkgtSk9WaTl6U0FnTXZleE12eE5walJvY05zeWNLZGF3U040S25CSUVTWDFIT09kemFFMXcyeVFTM3NVQzFkVkZYSEZrTUxiVmlvUGdDbGcyMFI3UlBfR3J3d3JlQThnek8yN0dZaG0yal9HLW9pcTE4WmZOeDk0SnZ4UXFmTVZRZDZfUElWR2ZyQ25JdS12OV93X2gwcHFVcGc?oc=5)
 
 ---
 

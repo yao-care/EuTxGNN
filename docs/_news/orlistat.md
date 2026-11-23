@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>264 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>267 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,45 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (264)
+## Related News (267)
+
+### [I lost my hearing after an apparent stroke. Then doctors discovered my brain tumour - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTBEQU84MVpNcjRfTjNoOHZoTTctWngxUjJMZVIxZXBMU3Zma19xVkRVSF9GNm96ZG9rTUZidjVySlRieTRUTHh3c2E2YnVPUGk3OVhDV05mNmYyVUFrNWY4bFAzQ0xhd2RMTmg5MU1BUzBhWUFKOXQ2SUZ2SndtbFlwUkZDc0luaWZDb0pVaXBXTmt3ZUxJMWZJOFR1VFVHTVE?oc=5)
+
+2026-11-23 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTBEQU84MVpNcjRfTjNoOHZoTTctWngxUjJMZVIxZXBMU3Zma19xVkRVSF9GNm96ZG9rTUZidjVySlRieTRUTHh3c2E2YnVPUGk3OVhDV05mNmYyVUFrNWY4bFAzQ0xhd2RMTmg5MU1BUzBhWUFKOXQ2SUZ2SndtbFlwUkZDc0luaWZDb0pVaXBXTmt3ZUxJMWZJOFR1VFVHTVE?oc=5)
+
+---
+
+### [L’ictus amnésique, cette perte de mémoire brutale est-elle inquiétante ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMitgFBVV95cUxNajducVpxTEdJUlF4WG9oeXdOWVBLN25JckdQQjZ3LVdDZ0xndlJtT2dLb2RZMVJyWXpEY3JMclNxNXNheWR6UzNteW0taEdXSDItVGFOLUV5Y0JnOHRQTmxXdkRzcmR6SnBUQnVMY3dnakRFUGJiZ2ltY1dFTWRpSDlUWEdEUnNGYTlVa19pcWNfVkh6SzlxUm1oZHVXQW44bU9RaDNUZzkyX1FpbldPOW9KV1lldw?oc=5)
+
+2026-11-23 <span class="news-indication-tag">ictus</span>
+
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMitgFBVV95cUxNajducVpxTEdJUlF4WG9oeXdOWVBLN25JckdQQjZ3LVdDZ0xndlJtT2dLb2RZMVJyWXpEY3JMclNxNXNheWR6UzNteW0taEdXSDItVGFOLUV5Y0JnOHRQTmxXdkRzcmR6SnBUQnVMY3dnakRFUGJiZ2ltY1dFTWRpSDlUWEdEUnNGYTlVa19pcWNfVkh6SzlxUm1oZHVXQW44bU9RaDNUZzkyX1FpbldPOW9KV1lldw?oc=5)
+
+---
+
+### ["Un blockbuster comme le viagra il y a 20 ans": les pharmacies font comme les supermarchés avec les pilules anti-obésité, elles bradent le Wegovy à prix coûtant (149 euros la boîte)](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSFhOd1l2eDI5bURHWE5ZWi1RUEZuR0k3d0Y2N29CWEpfNzV0OVZkZkNKQkdMal9abnMzWmdFT3N3NWpFdHhfN3Ruem93bGRYbEFsbVFaRGFVVE41anhzVWRyVmZMSjJzU3RPbWFGUXNKNXZuUTI5LXZJamg4azJGUGVjTGdPT2VpLXRwcmRrdWV6VjYxb01LU0lsRkZJaVVIU1FWVUR6WUV1WENEeW9GU0RFaUZaUlBmSFZ5RXFIQzF2QW1yc0E4LUhuZVZ3eGNmcUQ0YUNZYUJPUkdWcVA5OXZ4NXdOV21uSGlQSEpJcWZZNS1XTjdCbWhtLVVFSWh1YzdWTl9wd2VnY0ZjWVYxWk9EUHA3SmhORkxMVDNvdEQ3TnFzTm9idk93UnlYdFoyMDJkcXZiWWlsRXA2blpLZkVETXd2eXA5SFBsUXZfNkF2WkZoM0FTaHdNUk8wSjhxYWZwNXZnbGRBdw?oc=5)
+
+2026-11-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [BFM](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSFhOd1l2eDI5bURHWE5ZWi1RUEZuR0k3d0Y2N29CWEpfNzV0OVZkZkNKQkdMal9abnMzWmdFT3N3NWpFdHhfN3Ruem93bGRYbEFsbVFaRGFVVE41anhzVWRyVmZMSjJzU3RPbWFGUXNKNXZuUTI5LXZJamg4azJGUGVjTGdPT2VpLXRwcmRrdWV6VjYxb01LU0lsRkZJaVVIU1FWVUR6WUV1WENEeW9GU0RFaUZaUlBmSFZ5RXFIQzF2QW1yc0E4LUhuZVZ3eGNmcUQ0YUNZYUJPUkdWcVA5OXZ4NXdOV21uSGlQSEpJcWZZNS1XTjdCbWhtLVVFSWh1YzdWTl9wd2VnY0ZjWVYxWk9EUHA3SmhORkxMVDNvdEQ3TnFzTm9idk93UnlYdFoyMDJkcXZiWWlsRXA2blpLZkVETXd2eXA5SFBsUXZfNkF2WkZoM0FTaHdNUk8wSjhxYWZwNXZnbGRBdw?oc=5)
+
+---
 
 ### [¡Sorpresa! La menopausia no estaría envejeciendo el cerebro como se pensaba - Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
 
 2026-11-23 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
 
 Source: [Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
+
+---
+
+### [Dalla dieta allo sport, le cinque mosse per la salute del cuore](https://news.google.com/rss/articles/CBMijwJBVV95cUxNZ3lNQ0xNUVhTY2tZNHZ4eldkeGNEQzhudjNMUXdBNDFDbWhUcHd6ZHRhVUFrSHY1eHVobWpCUnkxRFpfNVFCOFd4YTg0VEJkaFdNdV9qa3YyYldfWE1BMHFydlZyTEpVTVRsS2FpRlVPaFNNTGt6Y3lsakVFeEZYSmZCZlJOS2UwRTlTampndXc4YUE5YWZkREpORjc3TVZ6Tm81eng2NHF0WE9Ub3puU1FSREhTR0hmQl9WQlBRVmo5ekwwbTNzWXpPZ3RKWVJpcngyeEdGNHVNMkVHTzJSSHZwY1ZwNXpUX2VIb3Z5MlBCd2NrUGk5UTVDdGZFUzFNUGhrY1dpeXhvTXlOU3ZZ0gGUAkFVX3lxTE9ycFMtdHBvZE1JOGp0dU9QVWNKYXU0Mk90Q3NNZDNwZnNiSEFlYjZIN3E1LUJiNk55VTdqVElnUkliUThqblhwQ1BhakNCLU5jWUFaNVN1cWRkeUZxUXVjSHJZWEhXVkRRdXBzbzNNanQyVnRNaGI5Wjg3QU4zR3g1bl9FQXFRdWhrWHBTZUh2WVhGTUpqaUFwNTJrMGQtR0tTVlBfeEhSMWtXemhrbHVMVkdjYlgzXzhONU94RFo0b1ozZUpaT0VjMXRBbHZlVzhLUE9rQXJwSnVHNERFWFRvVmc3VUJEa2hXN1pMLTdIME0xR0FEMlA4R1RVRUphV2ZlM2JoU2lzVDJUWjVxWUhHU0JZUA?oc=5)
+
+2026-11-22 <span class="news-indication-tag">ictus</span>
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMijwJBVV95cUxNZ3lNQ0xNUVhTY2tZNHZ4eldkeGNEQzhudjNMUXdBNDFDbWhUcHd6ZHRhVUFrSHY1eHVobWpCUnkxRFpfNVFCOFd4YTg0VEJkaFdNdV9qa3YyYldfWE1BMHFydlZyTEpVTVRsS2FpRlVPaFNNTGt6Y3lsakVFeEZYSmZCZlJOS2UwRTlTampndXc4YUE5YWZkREpORjc3TVZ6Tm81eng2NHF0WE9Ub3puU1FSREhTR0hmQl9WQlBRVmo5ekwwbTNzWXpPZ3RKWVJpcngyeEdGNHVNMkVHTzJSSHZwY1ZwNXpUX2VIb3Z5MlBCd2NrUGk5UTVDdGZFUzFNUGhrY1dpeXhvTXlOU3ZZ0gGUAkFVX3lxTE9ycFMtdHBvZE1JOGp0dU9QVWNKYXU0Mk90Q3NNZDNwZnNiSEFlYjZIN3E1LUJiNk55VTdqVElnUkliUThqblhwQ1BhakNCLU5jWUFaNVN1cWRkeUZxUXVjSHJZWEhXVkRRdXBzbzNNanQyVnRNaGI5Wjg3QU4zR3g1bl9FQXFRdWhrWHBTZUh2WVhGTUpqaUFwNTJrMGQtR0tTVlBfeEhSMWtXemhrbHVMVkdjYlgzXzhONU94RFo0b1ozZUpaT0VjMXRBbHZlVzhLUE9rQXJwSnVHNERFWFRvVmc3VUJEa2hXN1pMLTdIME0xR0FEMlA4R1RVRUphV2ZlM2JoU2lzVDJUWjVxWUhHU0JZUA?oc=5)
 
 ---
 
@@ -384,14 +416,6 @@ Source: [PMFarma](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaXZPWTEtS
 2026-11-17 <span class="news-indication-tag">obesity</span>
 
 Source: [The Conversation](https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXlsY2pGZ3NNMldybkh0cXZtbXd4alVUcjBzTGxPRUt6N2RfV240R1k3WUoyY1duVVRPdDFSSjVjdVZUb1czNlF1U2ozMkEwcFVpc3ktckRtSE1DZlRtc0d5azk0a0JEd0FiY0dGb09OcW5zaWQtVV9WdkZqaDk1TnhnR1hYNDUtX0ZTTHRHT3FuSDhm?oc=5)
-
----
-
-### [¿La vacuna de la gripe puede ayudar a prevenir un infarto?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlpbjBjbFBNOEtYOFp5Q1pyT0NZQ0haLWw4X0Z2d0hmc054T3RLQzJNdEEzbkgtSk9WaTl6U0FnTXZleE12eE5walJvY05zeWNLZGF3U040S25CSUVTWDFIT09kemFFMXcyeVFTM3NVQzFkVkZYSEZrTUxiVmlvUGdDbGcyMFI3UlBfR3J3d3JlQThnek8yN0dZaG0yal9HLW9pcTE4WmZOeDk0SnZ4UXFmTVZRZDZfUElWR2ZyQ25JdS12OV93X2gwcHFVcGc?oc=5)
-
-2026-11-17 <span class="news-indication-tag">ictus</span>
-
-Source: [Univadis](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTBybVlpbjBjbFBNOEtYOFp5Q1pyT0NZQ0haLWw4X0Z2d0hmc054T3RLQzJNdEEzbkgtSk9WaTl6U0FnTXZleE12eE5walJvY05zeWNLZGF3U040S25CSUVTWDFIT09kemFFMXcyeVFTM3NVQzFkVkZYSEZrTUxiVmlvUGdDbGcyMFI3UlBfR3J3d3JlQThnek8yN0dZaG0yal9HLW9pcTE4WmZOeDk0SnZ4UXFmTVZRZDZfUElWR2ZyQ25JdS12OV93X2gwcHFVcGc?oc=5)
 
 ---
 

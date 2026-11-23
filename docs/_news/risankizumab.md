@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Risankizumab?">
-<strong>Risankizumab</strong> currently has <strong>300 news articles</strong>, with 10 predicted indications.
+<strong>Risankizumab</strong> currently has <strong>301 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Risankizumab with the latest
 <p><a href="{{ '/drugs/risankizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (300)
+## Related News (301)
 
 ### [GESUNDHEITHEUTE – Die Gesundheitssendung mit Dr. Jeanne Fürst im TV - Sendung - TV Spielfilm](https://news.google.com/rss/articles/CBMizwFBVV95cUxPblFHMnFFUTM0YUZHX2M4bmo4dkl3RzdoN3lMM3pHZkpsMnA3WnZHVFR0TVBZanF0ZVotNkE4YXVDNEVmS3JuMV9DSk10S21pamRHclo2WDZpblM2cVNySjF0UGJXckREMlRFVENkQkFBVlU3QUJEX3ZxSmQzNXZaYmpKX0FKMTBwc29BRWtuYlBLWUJON0VlM1BJRU9NekFmdFlWV3MwaE52S1R6WHJvNEktSGtRQlBXMWgxMlF4UkR1UkNWcWhhSlM4MllpeG8?oc=5)
 
@@ -57,6 +57,14 @@ Source: [TV Spielfilm](https://news.google.com/rss/articles/CBMizwFBVV95cUxPblFH
 2026-11-22 <span class="news-indication-tag">diabetes</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTVWlCaXNVbThQbkdJMXBMVk4xQmJNZnZUbm9rVFdPa2F1allaN2ZNOC1DdjEyZ2VjcFdaaU8xV3VwU3FaNFdiMXQ0VmgxdWxBN1puVTg4ckZCLVdvUzB0S0s2cFFGeHduR3BRQkZaRzJyclZZeXNDWkRwVQ?oc=5)
+
+---
+
+### [Doctor warns one smell could signal diabetes - 'never ignore it' - Surrey Live](https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmh3SUcxT2RHd3ozZVFSdUpWS0xYSGN2bkRWOFFGZXlYR2QxQVAxT0JxXzhhUXlNdWpyVTJTT21HdzRFSnJXNTgxSDB1LXRFd1lOUEJfbWpKUUdDbWgxS1NITEFLaWVtM25wN0dHMmtyMlRFMUktelFXeFRjX2tOWEdKNNIBiAFBVV95cUxQaHhfa0E1Z0FUX2MydXBkNmNqQlFyMElRaXFCNnlVQy1ydENmNWpqenkzcGhEWHB5WUpQeUxNd0Jlanc0VmszeDRVODkxcWo0dVpHTTBJQUFjRmFPdE16NHZWc0F4aEJ1U2tKTlczZHF3V3kwUHJoazFZRVVQQjQxTTdpTzJ2VkZF?oc=5)
+
+2026-11-22 <span class="news-indication-tag">diabetes</span>
+
+Source: [Surrey Live](https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmh3SUcxT2RHd3ozZVFSdUpWS0xYSGN2bkRWOFFGZXlYR2QxQVAxT0JxXzhhUXlNdWpyVTJTT21HdzRFSnJXNTgxSDB1LXRFd1lOUEJfbWpKUUdDbWgxS1NITEFLaWVtM25wN0dHMmtyMlRFMUktelFXeFRjX2tOWEdKNNIBiAFBVV95cUxQaHhfa0E1Z0FUX2MydXBkNmNqQlFyMElRaXFCNnlVQy1ydENmNWpqenkzcGhEWHB5WUpQeUxNd0Jlanc0VmszeDRVODkxcWo0dVpHTTBJQUFjRmFPdE16NHZWc0F4aEJ1U2tKTlczZHF3V3kwUHJoazFZRVVQQjQxTTdpTzJ2VkZF?oc=5)
 
 ---
 

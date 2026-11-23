@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Lopinavir. 3 predicted indications."
 permalink: /news/lopinavir/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-23
 ---
 
 # Lopinavir News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Lopinavir?">
-<strong>Lopinavir</strong> currently has <strong>12 news articles</strong>, with 3 predicted indications.
+<strong>Lopinavir</strong> currently has <strong>13 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Lopinavir with the latest he
 <p><a href="{{ '/drugs/lopinavir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (13)
+
+### [Los hepatólogos presentan dos documentos para mejorar la detección y la atención de las enfermedades hepáticas](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaTREcTBRNkNxWDZWSmNidGFTX1J1dVdqVGtZMnNMUnlNOEFUVmxQeFVKUWFBQTY1MjRWN1lGM2Z3eWlCSDZycU9rY2VTSTR4NFJwT1BaUGtRWG9vcVcxNTc3dkNwVVd0TDZ4Z3BDUHhRYkxqUW5UMWxjQ2RPN1JuS3JxZi1jRmdKY0l6ZUtsbXJySEZycE14cVVfZFU3eHA3ajctRUZCR1M2RC1FSlhQV1NnaXZMUC1pYWlfazg4eUhQVl9GLTQ5MUUxTWp3MFZ3T2piVDN3?oc=5)
+
+2026-11-22 <span class="news-indication-tag">hepatitis</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaTREcTBRNkNxWDZWSmNidGFTX1J1dVdqVGtZMnNMUnlNOEFUVmxQeFVKUWFBQTY1MjRWN1lGM2Z3eWlCSDZycU9rY2VTSTR4NFJwT1BaUGtRWG9vcVcxNTc3dkNwVVd0TDZ4Z3BDUHhRYkxqUW5UMWxjQ2RPN1JuS3JxZi1jRmdKY0l6ZUtsbXJySEZycE14cVVfZFU3eHA3ajctRUZCR1M2RC1FSlhQV1NnaXZMUC1pYWlfazg4eUhQVl9GLTQ5MUUxTWp3MFZ3T2piVDN3?oc=5)
+
+---
 
 ### [Ribavirin-Therapie: Risikofaktoren für komplizierte Verläufe bei chronischer Hepatitis E](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmo3NFZ0SXRwWGZ0SjFlUy1NaHpzamwyWWh2MW03djVRYnBIeUFuT0NxcURDU00wOXc0blJBdHpHSVlzSTdCOXRyLVBnUWdEQVVEMDhFS3ZoRjlidk0zdTR1TWY5YlU3aDA2U2RacVlhMmp1TkRvb2RBU2x4LWpHRWNSbVFPRlA0ekRyelZyaTdmVFZTblhEVUd2Y1BvazJ5Z0E?oc=5)
 

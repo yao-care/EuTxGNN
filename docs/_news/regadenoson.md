@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Regadenoson?">
-<strong>Regadenoson</strong> currently has <strong>15 news articles</strong>, with 4 predicted indications.
+<strong>Regadenoson</strong> currently has <strong>16 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Regadenoson with the latest 
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (16)
+
+### [Pourquoi l'orage aggrave l'asthme : l'humidité fait éclater les grains de pollen en fragments qui entrent dans les bronches](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hzb1NKUDUxUDNJLVBzMUpueV92QU5VSDhlV3hBcGZ6SE90d2J0c0RNUDVnU3llQ0dKTzlEeVZIYnRUWHd6RzdjeTE0bFBabV84QUxqck4zWDY3cnpvWUFyeXFtdnF4Yk5waXo0eUwxWEd0THF5VTdnT3U3ODdSVlBBT0J1M3o2OTZfczA1S053TlN4Uk0zLU5KTnVxaXNtcjNJQjV2VkJBQWhrYzFCQUxaNWJZVFE?oc=5)
+
+2026-11-23 <span class="news-indication-tag">asthme</span>
+
+Source: [JeChange](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hzb1NKUDUxUDNJLVBzMUpueV92QU5VSDhlV3hBcGZ6SE90d2J0c0RNUDVnU3llQ0dKTzlEeVZIYnRUWHd6RzdjeTE0bFBabV84QUxqck4zWDY3cnpvWUFyeXFtdnF4Yk5waXo0eUwxWEd0THF5VTdnT3U3ODdSVlBBT0J1M3o2OTZfczA1S053TlN4Uk0zLU5KTnVxaXNtcjNJQjV2VkJBQWhrYzFCQUxaNWJZVFE?oc=5)
+
+---
 
 ### [¡Sorpresa! La menopausia no estaría envejeciendo el cerebro como se pensaba - Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
 
