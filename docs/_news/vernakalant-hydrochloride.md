@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Vernakalant Hydrochloride. 0 predicted indications."
 permalink: /news/vernakalant-hydrochloride/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # Vernakalant Hydrochloride News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Vernakalant Hydrochloride?">
-<strong>Vernakalant Hydrochloride</strong> currently has <strong>279 news articles</strong>, with 0 predicted indications.
+<strong>Vernakalant Hydrochloride</strong> currently has <strong>280 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Vernakalant Hydrochloride wi
 <p><a href="{{ '/drugs/vernakalant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (279)
+## Related News (280)
+
+### [¡Sorpresa! La menopausia no estaría envejeciendo el cerebro como se pensaba - Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
+
+2026-11-23 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
+
+Source: [Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
+
+---
 
 ### [Migraineuses et fumeuses : 3,6 fois plus d'AVC avant 60 ans, d'après le suivi de 1,7 million de Danoises sur 20 ans](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
 

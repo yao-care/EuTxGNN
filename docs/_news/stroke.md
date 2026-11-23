@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "AVC (stroke) News"
+title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about AVC (stroke). 136 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 137 articles, 11 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
-# AVC (stroke) News
+# ictus (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about AVC (stroke)?">
-<strong>AVC (stroke)</strong> currently has <strong>136 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about ictus (stroke)?">
+<strong>ictus (stroke)</strong> currently has <strong>137 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “AVC” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “AVC” and lists the d
 </ul>
 </div>
 
-## Related News (136)
+## Related News (137)
+
+### [¡Sorpresa! La menopausia no estaría envejeciendo el cerebro como se pensaba - Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
+
+2026-11-23
+
+Source: [Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
+
+---
 
 ### [Migraineuses et fumeuses : 3,6 fois plus d'AVC avant 60 ans, d'après le suivi de 1,7 million de Danoises sur 20 ans](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWdOQ1lsZmFEYWVuaFQ4a1VuaGxaM3NfNlhfT3VETXlMTXRMeXUzRnVYdjR6RmZpRmp1T1lrcUpNSGRfa2g2TVB0R1p5aGZTMFVFbmV2aE01Ynpoem4yUlpXakxEV3FOMEhBaENhSWNnNE1Ed0JYVmxQejBiZWdnZTVFVjRSSFd1dENieGhsNGJTdzh5RmlUdVF4RTNDcVhvWUEzbXJkX19xejFpMXg3MHNCZnlCbEg0bHZ5OQ?oc=5)
 

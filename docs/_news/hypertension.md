@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Bluthochdruck (hypertension) News"
+title: "high blood pressure (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 60 articles, 55 related drugs."
+description: "Health news about high blood pressure (hypertension). 60 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
-# Bluthochdruck (hypertension) News
+# high blood pressure (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>60 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
+<strong>high blood pressure (hypertension)</strong> currently has <strong>60 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “high blood pressure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">

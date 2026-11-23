@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Gefitinib. 9 predicted indications."
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # Gefitinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Gefitinib?">
-<strong>Gefitinib</strong> currently has <strong>491 news articles</strong>, with 9 predicted indications.
+<strong>Gefitinib</strong> currently has <strong>493 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Gefitinib with the latest he
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (491)
+## Related News (493)
+
+### [El inhibidor de RAS ERAS-0015 abre la puerta a cáncer de difícil abordaje y con pocas opciones terapéuticas - Redacción Médica](https://news.google.com/rss/articles/CBMihAJBVV95cUxQZmw5ejJFa3pGQXBFMkZzTWVmUkQ0cG9MVHlOTHkxNHFyRmJqdUVVTEtxeVVXSXdNa3BieDc2V01TZWJ3MEpCaF9xa2JwRTZJWml3aTBZYzZqcXlxRldadVNCT0dmajdtUFI4MEtRcDVxREJaTEJEMnkwWVRYVXYtV2dFSDg4dk5DcHpRLTh5Zy1FZTlXNGRBVUFYZEgzVi0wTnFsdXozSU5EU3pJZjFZLXBuekJQV2ltbEpKbkdyazlKc1dpb0dlcWdldXlBdGExeDBGZzJMN1NWZktGcGxJM2N6VW9SZURwMHFXM2xiemFIY2wyLTFwQ0wtQmFaU2NLd1NybtIBigJBVV95cUxQWGxOdW1laVlRWE0zUVo3WnlmYnlZd0VIdkhZeWtTSW1PSGhiMW9OdW11b3dSYnZKeHdsQmFrSVFhaUNtM2U4bE5PNUdmbHRYTWFkanZTN2xQOHlyZ09qTl81TklzU0dOakE5M0RJd2tVVi1ldTNuOG5HSjNyeEdLcW42bU05RWd2aUE4M1ZLVjBIMGhEOHg4VzZqQmVhWlJ5MWxSbEJicUNUWTQ0T1Y5LWRzYlM0bUppQ0VBYkVFY0E4amh1UUtpQmt3YVU4bWdNOGtrZmtzQlFvdG9XVlh0N3k2cFNsYkVxTXZSdmg3XzJzVUdWT0hFSFFtdEtTY2ZyekdqTTZ5TzVVUQ?oc=5)
+
+2026-11-23 <span class="news-indication-tag">tumor</span>
+
+Source: [Redacción Médica](https://news.google.com/rss/articles/CBMihAJBVV95cUxQZmw5ejJFa3pGQXBFMkZzTWVmUkQ0cG9MVHlOTHkxNHFyRmJqdUVVTEtxeVVXSXdNa3BieDc2V01TZWJ3MEpCaF9xa2JwRTZJWml3aTBZYzZqcXlxRldadVNCT0dmajdtUFI4MEtRcDVxREJaTEJEMnkwWVRYVXYtV2dFSDg4dk5DcHpRLTh5Zy1FZTlXNGRBVUFYZEgzVi0wTnFsdXozSU5EU3pJZjFZLXBuekJQV2ltbEpKbkdyazlKc1dpb0dlcWdldXlBdGExeDBGZzJMN1NWZktGcGxJM2N6VW9SZURwMHFXM2xiemFIY2wyLTFwQ0wtQmFaU2NLd1NybtIBigJBVV95cUxQWGxOdW1laVlRWE0zUVo3WnlmYnlZd0VIdkhZeWtTSW1PSGhiMW9OdW11b3dSYnZKeHdsQmFrSVFhaUNtM2U4bE5PNUdmbHRYTWFkanZTN2xQOHlyZ09qTl81TklzU0dOakE5M0RJd2tVVi1ldTNuOG5HSjNyeEdLcW42bU05RWd2aUE4M1ZLVjBIMGhEOHg4VzZqQmVhWlJ5MWxSbEJicUNUWTQ0T1Y5LWRzYlM0bUppQ0VBYkVFY0E4amh1UUtpQmt3YVU4bWdNOGtrZmtzQlFvdG9XVlh0N3k2cFNsYkVxTXZSdmg3XzJzVUdWT0hFSFFtdEtTY2ZyekdqTTZ5TzVVUQ?oc=5)
+
+---
+
+### [Can AI spot breast cancer earlier? NHS launches world's largest trial to find out](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DVG51OTFEMnpJNHd0eWZRZjNyVkxfQ180UFYySF9xejlSdE5TazNTRFJvRGZyTzVTeDV2MTh1MFplLUtXTlMtWlpxbi02WS1yY19MaGM1UWpLOUNwM1E?oc=5)
+
+2026-11-23 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DVG51OTFEMnpJNHd0eWZRZjNyVkxfQ180UFYySF9xejlSdE5TazNTRFJvRGZyTzVTeDV2MTh1MFplLUtXTlMtWlpxbi02WS1yY19MaGM1UWpLOUNwM1E?oc=5)
+
+---
 
 ### [Cancer du pancréas : 1 000 chirurgies réalisées au CHU de Nantes, une barre symbolique franchie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeEtOQUVnWFVNRXpkeUFZYTJlNjFWOERxbmh3aUtqTUZUeUtPemN2eF9hRThCY3Z4RUNrYUdKRkNPWnZFRzR5Q1FYbURseGltSUxKVzFTQ0RRT2ZnbVlKOG9LMWR1QzhXTHNIa0xXbkt2R3pObU4zeE5sZEM0amdoNFhrWndmRjFyLXdFaTJHOHZYUkhjS05aWXBhckNncG5zbER0Mms5R3JnVTJsa3RRSWhVd1ZicGZJeklMNjE3Y25vdGlTdVM4Wll3QXFkcHlPRExnNTFWU2p4aDBlUWJrVVc0TmFYSDQ?oc=5)
 

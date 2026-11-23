@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Epinephrine. 3 predicted indications."
 permalink: /news/epinephrine/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # Epinephrine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Epinephrine?">
-<strong>Epinephrine</strong> currently has <strong>29 news articles</strong>, with 3 predicted indications.
+<strong>Epinephrine</strong> currently has <strong>30 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (29)
+## Related News (30)
+
+### [El error que empeora la EPOC: por qué no debes dejar de hacer ejercicio - 65 y más](https://news.google.com/rss/articles/CBMingFBVV95cUxNZGtSSmViVlc4UnoxMnJrRW0tN01aTGdjVUFFRndiYmpxdTFNWklEOEFlZ2xIQ1dteXdKRklxRDktYkZuT2w4MThmcURPR25wZjRDZDYtRVdadFZHV3ZYNkVKTXdYN1d5WlY2eU9KbjZBSUFjOGFWby04dWtZQTFrcEREY0tsbTZWUDEwV2VzdmZ0VFRQNlpzbmJ1NGt6UQ?oc=5)
+
+2026-11-23 <span class="news-indication-tag">EPOC</span>
+
+Source: [65 y más](https://news.google.com/rss/articles/CBMingFBVV95cUxNZGtSSmViVlc4UnoxMnJrRW0tN01aTGdjVUFFRndiYmpxdTFNWklEOEFlZ2xIQ1dteXdKRklxRDktYkZuT2w4MThmcURPR25wZjRDZDYtRVdadFZHV3ZYNkVKTXdYN1d5WlY2eU9KbjZBSUFjOGFWby04dWtZQTFrcEREY0tsbTZWUDEwV2VzdmZ0VFRQNlpzbmJ1NGt6UQ?oc=5)
+
+---
 
 ### ['I was diagnosed with COPD in my 20s - a lung transplant could give me a second chance at life' - STV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHVqYkVGX1dCNmgtVWRTclN3SWZUb2V5SWd0RmNCUjM4d25JTllYcndKQlBWUlNYeTFsSS1sUUJPb0tIbVJHbG1rMzU0QXU4RWFMaUdtMndSR21BTWdueXlwNjFTOUJCaW5PekxJWXViRVU5bHZYNmpnNlp0aHdCdFpqNnI4aHZhaEhyYTk4UUtrenBlbzdmdWtmMEM1Z05wZ0w4aWVUaF9wYnZVN2pqbg?oc=5)
 

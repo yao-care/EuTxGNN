@@ -3,9 +3,9 @@ layout: default
 title: "EPOC (copd) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about EPOC (copd). 25 articles, 26 related drugs."
+description: "Health news about EPOC (copd). 26 articles, 26 related drugs."
 permalink: /news/copd/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # EPOC (copd) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about EPOC (copd)?">
-<strong>EPOC (copd)</strong> currently has <strong>25 news articles</strong> and 26 related drugs.
+<strong>EPOC (copd)</strong> currently has <strong>26 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “EPOC” and lists the 
 </ul>
 </div>
 
-## Related News (25)
+## Related News (26)
+
+### [El error que empeora la EPOC: por qué no debes dejar de hacer ejercicio - 65 y más](https://news.google.com/rss/articles/CBMingFBVV95cUxNZGtSSmViVlc4UnoxMnJrRW0tN01aTGdjVUFFRndiYmpxdTFNWklEOEFlZ2xIQ1dteXdKRklxRDktYkZuT2w4MThmcURPR25wZjRDZDYtRVdadFZHV3ZYNkVKTXdYN1d5WlY2eU9KbjZBSUFjOGFWby04dWtZQTFrcEREY0tsbTZWUDEwV2VzdmZ0VFRQNlpzbmJ1NGt6UQ?oc=5)
+
+2026-11-23
+
+Source: [65 y más](https://news.google.com/rss/articles/CBMingFBVV95cUxNZGtSSmViVlc4UnoxMnJrRW0tN01aTGdjVUFFRndiYmpxdTFNWklEOEFlZ2xIQ1dteXdKRklxRDktYkZuT2w4MThmcURPR25wZjRDZDYtRVdadFZHV3ZYNkVKTXdYN1d5WlY2eU9KbjZBSUFjOGFWby04dWtZQTFrcEREY0tsbTZWUDEwV2VzdmZ0VFRQNlpzbmJ1NGt6UQ?oc=5)
+
+---
 
 ### ['I was diagnosed with COPD in my 20s - a lung transplant could give me a second chance at life' - STV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHVqYkVGX1dCNmgtVWRTclN3SWZUb2V5SWd0RmNCUjM4d25JTllYcndKQlBWUlNYeTFsSS1sUUJPb0tIbVJHbG1rMzU0QXU4RWFMaUdtMndSR21BTWdueXlwNjFTOUJCaW5PekxJWXViRVU5bHZYNmpnNlp0aHdCdFpqNnI4aHZhaEhyYTk4UUtrenBlbzdmdWtmMEM1Z05wZ0w4aWVUaF9wYnZVN2pqbg?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Abaloparatide. 4 predicted indications."
 permalink: /news/abaloparatide/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # Abaloparatide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>298 news articles</strong>, with 4 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>300 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (298)
+## Related News (300)
+
+### [¡Sorpresa! La menopausia no estaría envejeciendo el cerebro como se pensaba - Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
+
+2026-11-23 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
+
+Source: [Primera Hora](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlREVldsd3JWU0NtTWhEUExUNmdCSGlCcnlKc2hBaDdDZlE4S2MzRDdjZFo2RVJrM2VqTVNCR1BEVEJhRGpKYXljekNVZEd1ZzZ5bVIzWWhxcEpuVVVfT2M4dk9hWU9yRnhFaW5CaXp1cUlKMUZZQkMzaDcxRjA5WVdabXFJZnN1ZXg1N01seGpJbFFyXzd3UVdjZVR3N0l3alFqTjlZNTVNQWsxNkxLX1RfeDFkbEFaMllGZzdDSk9TVF8wX29Wb1NPUlIxRldkaldTSmtyQQ?oc=5)
+
+---
 
 ### [GESUNDHEITHEUTE – Die Gesundheitssendung mit Dr. Jeanne Fürst im TV - Sendung - TV Spielfilm](https://news.google.com/rss/articles/CBMizwFBVV95cUxPblFHMnFFUTM0YUZHX2M4bmo4dkl3RzdoN3lMM3pHZkpsMnA3WnZHVFR0TVBZanF0ZVotNkE4YXVDNEVmS3JuMV9DSk10S21pamRHclo2WDZpblM2cVNySjF0UGJXckREMlRFVENkQkFBVlU3QUJEX3ZxSmQzNXZaYmpKX0FKMTBwc29BRWtuYlBLWUJON0VlM1BJRU9NekFmdFlWV3MwaE52S1R6WHJvNEktSGtRQlBXMWgxMlF4UkR1UkNWcWhhSlM4MllpeG8?oc=5)
 
@@ -195,6 +203,14 @@ Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/arti
 2026-11-19 <span class="news-indication-tag">diabetes mellitus</span>
 
 Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yWDVERXZ0MHNQNEdsNmpkcjBXLU5ESGZuSWxPNFRDUXFQZFFoYkJwSW9jQXRBaUF4aU92MW9VdzB6MjJUMHRzdTZSTQ?oc=5)
+
+---
+
+### [Neue Empfehlungen zur Behandlung von Schwangeren mit Gestationsdiabetes mellitus - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpSnJKM1hzZHFGano4WHIzZnFNQWNZSVJXRnZFRG9CNkRXNlJTVVU5eDEzd1J3LUZSb2pLTXNVSHhjNlBscmtoQ1F6MA?oc=5)
+
+2026-11-19 <span class="news-indication-tag">diabetes mellitus</span>
+
+Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpSnJKM1hzZHFGano4WHIzZnFNQWNZSVJXRnZFRG9CNkRXNlJTVVU5eDEzd1J3LUZSb2pLTXNVSHhjNlBscmtoQ1F6MA?oc=5)
 
 ---
 

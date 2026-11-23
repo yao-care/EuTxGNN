@@ -3,9 +3,9 @@ layout: default
 title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 288 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 289 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # diabetes (diabetes mellitus) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>288 news articles</strong> and 86 related drugs.
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>289 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -65,7 +65,7 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (288)
+## Related News (289)
 
 ### [GESUNDHEITHEUTE – Die Gesundheitssendung mit Dr. Jeanne Fürst im TV - Sendung - TV Spielfilm](https://news.google.com/rss/articles/CBMizwFBVV95cUxPblFHMnFFUTM0YUZHX2M4bmo4dkl3RzdoN3lMM3pHZkpsMnA3WnZHVFR0TVBZanF0ZVotNkE4YXVDNEVmS3JuMV9DSk10S21pamRHclo2WDZpblM2cVNySjF0UGJXckREMlRFVENkQkFBVlU3QUJEX3ZxSmQzNXZaYmpKX0FKMTBwc29BRWtuYlBLWUJON0VlM1BJRU9NekFmdFlWV3MwaE52S1R6WHJvNEktSGtRQlBXMWgxMlF4UkR1UkNWcWhhSlM4MllpeG8?oc=5)
 
@@ -216,6 +216,14 @@ Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/arti
 2026-11-19
 
 Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yWDVERXZ0MHNQNEdsNmpkcjBXLU5ESGZuSWxPNFRDUXFQZFFoYkJwSW9jQXRBaUF4aU92MW9VdzB6MjJUMHRzdTZSTQ?oc=5)
+
+---
+
+### [Neue Empfehlungen zur Behandlung von Schwangeren mit Gestationsdiabetes mellitus - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpSnJKM1hzZHFGano4WHIzZnFNQWNZSVJXRnZFRG9CNkRXNlJTVVU5eDEzd1J3LUZSb2pLTXNVSHhjNlBscmtoQ1F6MA?oc=5)
+
+2026-11-19
+
+Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpSnJKM1hzZHFGano4WHIzZnFNQWNZSVJXRnZFRG9CNkRXNlJTVVU5eDEzd1J3LUZSb2pLTXNVSHhjNlBscmtoQ1F6MA?oc=5)
 
 ---
 

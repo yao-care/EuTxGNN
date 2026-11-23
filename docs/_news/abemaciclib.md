@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Abemaciclib. 0 predicted indications."
 permalink: /news/abemaciclib/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # Abemaciclib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>39 news articles</strong>, with 0 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>38 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,7 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (39)
-
-### [Sleeping nine or more hours in a day could be a warning sign for adults with this common condition - The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW90TlFPTlI1WWpRMnBoVlNXVk5yc1RzV3RfSC01RFd6QldZbUFHMEFNNzFvTE5VdHZ6eXBTVFhVaWVLYzMxVklPMmtyZjZ3WjE1YVlzY0o5WjlkSWRKXy11UW9JTmJ3c2Y2aFVyeGt3a0h2TFVCTXJMMXdmVDFaNDhoNWFGTGcwbWJwVlVQM3Y?oc=5)
-
-2026-11-20 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW90TlFPTlI1WWpRMnBoVlNXVk5yc1RzV3RfSC01RFd6QldZbUFHMEFNNzFvTE5VdHZ6eXBTVFhVaWVLYzMxVklPMmtyZjZ3WjE1YVlzY0o5WjlkSWRKXy11UW9JTmJ3c2Y2aFVyeGt3a0h2TFVCTXJMMXdmVDFaNDhoNWFGTGcwbWJwVlVQM3Y?oc=5)
-
----
+## Related News (38)
 
 ### [GBA beschließt neue Anforderungen an DMP Rheumatoide Arthritis](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDFQVTJ5eVA3N2ZRSXN0ZVZTT2NjNDBsNUg5VUUybEdIZlZSeXdZWlJYcVpKZkgySkdwbW5KN3N0SXhyTHBPYktQdXN1QzBic3NqSmViOHpFSkNVZmRteU9ldlM5b2lVV2RUU0luekp3akUxQ3Q3bFZYMGZZQ2hXY3VuWVgwLWt4b2RyaHFYQnBoNUYyWnY5bzNmd2syWlhGVGN1VUt4VXkzTk9mVng2UTBtUG0tNHM?oc=5)
 
