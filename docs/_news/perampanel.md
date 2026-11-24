@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Perampanel. 1 predicted indications."
 permalink: /news/perampanel/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-24
 ---
 
 # Perampanel News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Perampanel?">
-<strong>Perampanel</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
+<strong>Perampanel</strong> currently has <strong>7 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Perampanel with the latest h
 <p><a href="{{ '/drugs/perampanel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Un hallazgo sobre la proteína CDKL5 arroja luz sobre una forma rara de epilepsia infantil](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdUtyU0sxdC1tTlh2SDdoc3dON0xZbUsxMzdpMkgwRmp0eWQ5dWVZUmhBajZ4WVppSk13djMtdE5SMTJvNllnT1pFbm1ObHpxV2lmeUt2U3dYSHd1WDJtREExVC1oZUtlWG1BMjJJcjctei02S0dReUF1VGxjLWJuWG1ORXp4ZExsVzkwTEdVYlY1TnNiaWZrWUxUSTJYSXMyclIyZFdnVFdLc2Z2TGRtSlBPby1ma1NLVmEyX1dhWFd5YmNYaV9yUkpVMThuZ2JLYXM0MA?oc=5)
+
+2026-11-23 <span class="news-indication-tag">epilepsia</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdUtyU0sxdC1tTlh2SDdoc3dON0xZbUsxMzdpMkgwRmp0eWQ5dWVZUmhBajZ4WVppSk13djMtdE5SMTJvNllnT1pFbm1ObHpxV2lmeUt2U3dYSHd1WDJtREExVC1oZUtlWG1BMjJJcjctei02S0dReUF1VGxjLWJuWG1ORXp4ZExsVzkwTEdVYlY1TnNiaWZrWUxUSTJYSXMyclIyZFdnVFdLc2Z2TGRtSlBPby1ma1NLVmEyX1dhWFd5YmNYaV9yUkpVMThuZ2JLYXM0MA?oc=5)
+
+---
 
 ### [Reunión Anual SEN: El análisis de los ritmos cerebrales mejora la comprensión de las epilepsias complejas y raras - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTVUcFBBeFNaQlVFZ0kzU1ROekJvQnowSW54aXJZNkRGcUhkbUVvZnNfNTFIZVBpeFBJMlNHUVAzYl9wcHk2dnBnWDkySUczV2JqX1MyRFFLd2N6YndlaEpTNnEtXzdoWDR5NlFRMzFjNXRNeDBBU3lFWGlxOE11alZqUVJ1TUJNVk4zRFJCa2p3Vk01OHBKeFQ5NzZzVTNWbFlBaVBjZkJkYUtBeUIyNEZiSlNfTUlYb29PS9IBtwFBVV95cUxPb0VQdWtnTTRWYlhzUlNVdWZJRzNHbF9tSjZ4MnNRZkJ6bm5kdlpsekFJNE9iZkpBd3JrVTFHQjFDMUpsdXE1Y3ZiczRlZUtRcjJsdzl4TDcwUFlBZHJ0Nkx4T0llazhSWE1PQjZEZE9DRzV4Yi1PWmlhaVlla0NKN0N6LTZLTzR1UUdLUFczWXVNSGNLZTFDZ1I4VnNhSzlGcmU1M01oclpwU2Zjd0ZDSkhOYjBOclk?oc=5)
 

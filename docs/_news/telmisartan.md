@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Telmisartan. 9 predicted indications."
 permalink: /news/telmisartan/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Telmisartan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>210 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>216 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,39 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (210)
+## Related News (216)
+
+### [Hipertensión pulmonar y cerebro: un vínculo inflamatorio](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVW9wSEM2RWJ0M3I4VkhxSVhBVFU0VXp0UU40N3ZrSGtHb05YY050LVREVVhyVzNQcXVqcDdNbzZwZ0ludWVfSDZUbEw0czlsaWdRQ3ZtMnZyLXR3Tk00N3M0alRqSjhVeHdKVlJxbTRIUjF0X1hFc2N1RlhPMW53X1piNUdnVW0zdVhsNUdjbXJIN3pzb3dTcTluaHRjMnhLcTdrY1NTUUhiekVh?oc=5)
+
+2026-11-23 <span class="news-indication-tag">hipertensión</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVW9wSEM2RWJ0M3I4VkhxSVhBVFU0VXp0UU40N3ZrSGtHb05YY050LVREVVhyVzNQcXVqcDdNbzZwZ0ludWVfSDZUbEw0czlsaWdRQ3ZtMnZyLXR3Tk00N3M0alRqSjhVeHdKVlJxbTRIUjF0X1hFc2N1RlhPMW53X1piNUdnVW0zdVhsNUdjbXJIN3pzb3dTcTluaHRjMnhLcTdrY1NTUUhiekVh?oc=5)
+
+---
+
+### [Colesterolo e stili di vita: approccio integrato per abbattere il rischio di ictus e infarto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGFvSkRrZkVVZEZRNHF4Umg2OElDMzljbjlhcDdta1ppWk50bTh0VU81dFVZd1loY3FGTThFVHVoTzVydFFLSXAwNUdOLWZpNjFaclplY2h2cVQ1VVlZNmswSGdCT085MmFuaFpCa01ZZ29mYjVrZjZneE15Rk4yenpNSThyOHZGZ0wtSFgzUFMtUEpfTnlSLXZVY1BpMzRDVVFIX19vRzVTb1QzWnUzOEl0QTM1TkFpOTFv?oc=5)
+
+2026-11-23 <span class="news-indication-tag">ictus</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGFvSkRrZkVVZEZRNHF4Umg2OElDMzljbjlhcDdta1ppWk50bTh0VU81dFVZd1loY3FGTThFVHVoTzVydFFLSXAwNUdOLWZpNjFaclplY2h2cVQ1VVlZNmswSGdCT085MmFuaFpCa01ZZ29mYjVrZjZneE15Rk4yenpNSThyOHZGZ0wtSFgzUFMtUEpfTnlSLXZVY1BpMzRDVVFIX19vRzVTb1QzWnUzOEl0QTM1TkFpOTFv?oc=5)
+
+---
+
+### [Roboter in den Adern: So sollen kleine Krabbler bei Schlaganfall helfen - heise online](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanF4VVJ1UkZSR2tjdWZ2cERIYmVacmJqTlBpd29IcTR6aGRrNTI1OWNPTXljTktHMlFHdnJiaVhwamtVeTZFUXcycHB3TF9EMVB0Y3d1RENYekxiMV9leW5ma1htblAyNGZTS0dseVNQMXdmbFdoOW1ZSUljSWRPODZrX2wxdjNxUzNONGh2TjRkMW15MTZONDk0V190LWRZa3RSTE42alRQY19QNjVYdGdKMEtzUnQ2?oc=5)
+
+2026-11-23 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [heise online](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanF4VVJ1UkZSR2tjdWZ2cERIYmVacmJqTlBpd29IcTR6aGRrNTI1OWNPTXljTktHMlFHdnJiaVhwamtVeTZFUXcycHB3TF9EMVB0Y3d1RENYekxiMV9leW5ma1htblAyNGZTS0dseVNQMXdmbFdoOW1ZSUljSWRPODZrX2wxdjNxUzNONGh2TjRkMW15MTZONDk0V190LWRZa3RSTE42alRQY19QNjVYdGdKMEtzUnQ2?oc=5)
+
+---
+
+### [Squadra attiva giorno e notte contro gli ictus: il premio internazionale all'ospedale di Novara](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUZPVGtuSVZhSEE3bEt4Y3F1VlpIOHhjUlpnV0dRbEItcHEwVjN0bUJza2FpMVBGLUVOektSNC1RY0JDS1pBdzV5YnU1WUI3WU9iMWF6Y1VleXNxZS1kalRjY0x5S1VJa1N1TTFkQ0kwc1dYRm5uNGZDOU5zMk9RSUs5MlpyTzU0ZTVaUTZfZ0ZONFFJc3VlRWVZY0VMTVU?oc=5)
+
+2026-11-23 <span class="news-indication-tag">ictus</span>
+
+Source: [NovaraToday](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUZPVGtuSVZhSEE3bEt4Y3F1VlpIOHhjUlpnV0dRbEItcHEwVjN0bUJza2FpMVBGLUVOektSNC1RY0JDS1pBdzV5YnU1WUI3WU9iMWF6Y1VleXNxZS1kalRjY0x5S1VJa1N1TTFkQ0kwc1dYRm5uNGZDOU5zMk9RSUs5MlpyTzU0ZTVaUTZfZ0ZONFFJc3VlRWVZY0VMTVU?oc=5)
+
+---
 
 ### [I lost my hearing after an apparent stroke. Then doctors discovered my brain tumour - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTBEQU84MVpNcjRfTjNoOHZoTTctWngxUjJMZVIxZXBMU3Zma19xVkRVSF9GNm96ZG9rTUZidjVySlRieTRUTHh3c2E2YnVPUGk3OVhDV05mNmYyVUFrNWY4bFAzQ0xhd2RMTmg5MU1BUzBhWUFKOXQ2SUZ2SndtbFlwUkZDc0luaWZDb0pVaXBXTmt3ZUxJMWZJOFR1VFVHTVE?oc=5)
 
@@ -53,7 +85,7 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTB
 
 ### [NHS issues huge high blood pressure warning after 'alarming' new statistic revealed - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1KM09WdklkOTlIY0dGMFVNdDRSNHRNN1lpMlhuVm9HMDlhNDdfanJTT1R1Qmx6YUg0VFJLUDE5cnlha0tOckxEUWkxTGtLMlpEZVBoRE1GekJDSXpGVkNNa1V3SDVlcmR4ZmhFa3dEa20wd1MtZWFN0gF8QVVfeXFMTU40NHN5eFVSMFU4czNtQnJGRnVjRTBLZjRJNnNlWktWd1dnQUFBZnppbmRZcGFHVllaS1VGbk01V2ZwQXN4Ri1KU2pjMkNHU1RoY25BaVBEX0VSamZIbVlfckRoYkdsRlUwSnFPRkRoNFBkSk9mSVRCSnhIbA?oc=5)
 
-2026-11-23 <span class="news-indication-tag">high blood pressure</span>
+2026-11-23 <span class="news-indication-tag">hypertension</span>
 
 Source: [Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1KM09WdklkOTlIY0dGMFVNdDRSNHRNN1lpMlhuVm9HMDlhNDdfanJTT1R1Qmx6YUg0VFJLUDE5cnlha0tOckxEUWkxTGtLMlpEZVBoRE1GekJDSXpGVkNNa1V3SDVlcmR4ZmhFa3dEa20wd1MtZWFN0gF8QVVfeXFMTU40NHN5eFVSMFU4czNtQnJGRnVjRTBLZjRJNnNlWktWd1dnQUFBZnppbmRZcGFHVllaS1VGbk01V2ZwQXN4Ri1KU2pjMkNHU1RoY25BaVBEX0VSamZIbVlfckRoYkdsRlUwSnFPRkRoNFBkSk9mSVRCSnhIbA?oc=5)
 
@@ -83,6 +115,14 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMinAJBVV95cU
 
 ---
 
+### [Un estudio reciente revela que un hábito de sueño muy común está relacionado con un riesgo de muerte un 50 % mayor en pacientes con enfermedades cardíacas - Fox News](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVZVU0ZucVZvU1Fjemp0TnNHNGthTVUyUDRobGttMTVkREJncU9QV1NqNWlTYXF0dUtkVWFSTkpYTnZsVWM1bjllM1FoNkFDQ0F6cWNmT0gtM213dktZcHZ1NzdneUZmRTJXVy1ZVFVaSmduU1dTa1p0aHQ4Q2xESXFBTGQ5UUVFYTBJa1ZCX1RMSVl2LUhabU9ZYWpvV0gtTExLbHBYRGdNcVZodFJtM1F6dUN5b0HSAbwBQVVfeXFMUHJFRy0tSEpsQ2xfWExlWmJkeFlDMzIwSENwbFdfRWxxX00ya09ocVVDYlJxNU5jWkVQSHJsZmJTeDJ4bW5MNlV0b3liWGdYVmZKLUpYMmRXZldpVk9qYjd3NGQtMUNuUkJGbGxTZlJKR3ByOFpqRnhIdzM3QWJfNk5FRmtCS0IzQlVHR3VIR3hPVktjX05tazd5M1RBU3pUWkVQb2FXaHBua2h4VEQ0ekNYSVRzREExM2xra3M?oc=5)
+
+2026-11-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVZVU0ZucVZvU1Fjemp0TnNHNGthTVUyUDRobGttMTVkREJncU9QV1NqNWlTYXF0dUtkVWFSTkpYTnZsVWM1bjllM1FoNkFDQ0F6cWNmT0gtM213dktZcHZ1NzdneUZmRTJXVy1ZVFVaSmduU1dTa1p0aHQ4Q2xESXFBTGQ5UUVFYTBJa1ZCX1RMSVl2LUhabU9ZYWpvV0gtTExLbHBYRGdNcVZodFJtM1F6dUN5b0HSAbwBQVVfeXFMUHJFRy0tSEpsQ2xfWExlWmJkeFlDMzIwSENwbFdfRWxxX00ya09ocVVDYlJxNU5jWkVQSHJsZmJTeDJ4bW5MNlV0b3liWGdYVmZKLUpYMmRXZldpVk9qYjd3NGQtMUNuUkJGbGxTZlJKR3ByOFpqRnhIdzM3QWJfNk5FRmtCS0IzQlVHR3VIR3hPVktjX05tazd5M1RBU3pUWkVQb2FXaHBua2h4VEQ0ekNYSVRzREExM2xra3M?oc=5)
+
+---
+
 ### [Dalla dieta allo sport, le cinque mosse per la salute del cuore](https://news.google.com/rss/articles/CBMijwJBVV95cUxNZ3lNQ0xNUVhTY2tZNHZ4eldkeGNEQzhudjNMUXdBNDFDbWhUcHd6ZHRhVUFrSHY1eHVobWpCUnkxRFpfNVFCOFd4YTg0VEJkaFdNdV9qa3YyYldfWE1BMHFydlZyTEpVTVRsS2FpRlVPaFNNTGt6Y3lsakVFeEZYSmZCZlJOS2UwRTlTampndXc4YUE5YWZkREpORjc3TVZ6Tm81eng2NHF0WE9Ub3puU1FSREhTR0hmQl9WQlBRVmo5ekwwbTNzWXpPZ3RKWVJpcngyeEdGNHVNMkVHTzJSSHZwY1ZwNXpUX2VIb3Z5MlBCd2NrUGk5UTVDdGZFUzFNUGhrY1dpeXhvTXlOU3ZZ0gGUAkFVX3lxTE9ycFMtdHBvZE1JOGp0dU9QVWNKYXU0Mk90Q3NNZDNwZnNiSEFlYjZIN3E1LUJiNk55VTdqVElnUkliUThqblhwQ1BhakNCLU5jWUFaNVN1cWRkeUZxUXVjSHJZWEhXVkRRdXBzbzNNanQyVnRNaGI5Wjg3QU4zR3g1bl9FQXFRdWhrWHBTZUh2WVhGTUpqaUFwNTJrMGQtR0tTVlBfeEhSMWtXemhrbHVMVkdjYlgzXzhONU94RFo0b1ozZUpaT0VjMXRBbHZlVzhLUE9rQXJwSnVHNERFWFRvVmc3VUJEa2hXN1pMLTdIME0xR0FEMlA4R1RVRUphV2ZlM2JoU2lzVDJUWjVxWUhHU0JZUA?oc=5)
 
 2026-11-22 <span class="news-indication-tag">ictus</span>
@@ -96,6 +136,14 @@ Source: [ANSA](https://news.google.com/rss/articles/CBMijwJBVV95cUxNZ3lNQ0xNUVhT
 2026-11-22 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [AktienCheck.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR21SVUxJRmxKVUZfRXVadFVtRmpzVXFkX2o5cHpMMXlwS1hma3NmSnliZmdmdlo2ZWNsUGIxaFNmc3JOc1dHZ3A0V2FnR1p0bjRNT3pMelpRV19fd0hqQXNTSldudW16aXBtSXVnV2ZpdU10LS1VaUwzM1pHcWxITXBCNWw1MVNFNmtmQmRZSG0wYTlJdWJia3pWRkVoVUNkRkxaUk1n?oc=5)
+
+---
+
+### [A Fitness Expert Shares 4 Ways To Undo The Effects Of Sitting All Day - HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
+
+2026-11-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
 ---
 
@@ -173,7 +221,7 @@ Source: [Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTVXeGhx
 
 ### [Are some salts healthier than others? - The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ3VkJrck5YcXIwNmkwclNOcmNUNmlOVlYycXQ2SHhkWWNsMXk0bzJPZVJwZU12Rm5RZmJVRW1jSk1fUkc0T3ozNWVCQkVMQnUwMk9ZdUZ3Ri03NWl1cWtPM0tjV2taQ0VzcWNtQWdYWDFZZVNUTDFKTXZDTUdwQ1o5bFI4Ym9kUndrdVpqV2FlSUhaVEgzMjJxcG4?oc=5)
 
-2026-11-20 <span class="news-indication-tag">high blood pressure</span>
+2026-11-20 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ3VkJrck5YcXIwNmkwclNOcmNUNmlOVlYycXQ2SHhkWWNsMXk0bzJPZVJwZU12Rm5RZmJVRW1jSk1fUkc0T3ozNWVCQkVMQnUwMk9ZdUZ3Ri03NWl1cWtPM0tjV2taQ0VzcWNtQWdYWDFZZVNUTDFKTXZDTUdwQ1o5bFI4Ym9kUndrdVpqV2FlSUhaVEgzMjJxcG4?oc=5)
 
@@ -224,14 +272,6 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVm
 2026-11-19 <span class="news-indication-tag">ictus</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGpCcjcwT0t1Mk9jdk1nYXVoYzNlVXdlNEhiTnp2RnBXbjJ6U25pUmFWWDZrbmlVa3JqVzk2c085Vi1wLThJdllUblZqaGs3dkFFaXd5OVNla2xFQ1d1b1dJS3ZNWUZ4OEN5d3dPWEdKbnlHeFdIa3kzcTc5ZWttR3ByOG9QUTM2dFYxSGRmMUxDU0drMnVNeDVKa25uR0tua0wtd3RYc3QyNEJLNUJZb0xJc2ltNFFwamNNeXhXYkk3MldicWdlaGNfQQ?oc=5)
-
----
-
-### [Vaccino antinfluenzale riduce gli infarti: appello dei cardiologi - Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
-
-2026-11-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
-
-Source: [Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
 
 ---
 
@@ -320,6 +360,14 @@ Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTU
 2026-11-19 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXdwVGtpOEpHVDBvWERoMFc3SWpfaXFHX1B3MzhoQVIwTXNSSTVyNW1ycHJSMzBLZjdxcVEwZzdHQnZtdG9lSS13YlBkZHVPNjRPTUVmSzZpMDdZNlp6OGFvdE5QT2JRczhIMUVyVWRLbkRReTU0QUdHS1FyQlgyNS13UFI1d0FvYTdlZlhmaktFZw?oc=5)
+
+---
+
+### [Les cardiologues sont unanimes : ce geste que vous faites chaque année augmente les risques de crise cardiaque - Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">AVC</span>
+
+Source: [Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
 
 ---
 

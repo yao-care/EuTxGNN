@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "high blood pressure (hypertension) News"
+title: "hipertensión (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about high blood pressure (hypertension). 61 articles, 55 related drugs."
+description: "Health news about hipertensión (hypertension). 62 articles, 55 related drugs."
 permalink: /news/hypertension/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
-# high blood pressure (hypertension) News
+# hipertensión (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
-<strong>high blood pressure (hypertension)</strong> currently has <strong>61 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about hipertensión (hypertension)?">
+<strong>hipertensión (hypertension)</strong> currently has <strong>62 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “high blood pressure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “hipertensión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -64,13 +64,29 @@ This page brings together the latest health news about “high blood pressure”
 </ul>
 </div>
 
-## Related News (61)
+## Related News (62)
+
+### [Hipertensión pulmonar y cerebro: un vínculo inflamatorio](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVW9wSEM2RWJ0M3I4VkhxSVhBVFU0VXp0UU40N3ZrSGtHb05YY050LVREVVhyVzNQcXVqcDdNbzZwZ0ludWVfSDZUbEw0czlsaWdRQ3ZtMnZyLXR3Tk00N3M0alRqSjhVeHdKVlJxbTRIUjF0X1hFc2N1RlhPMW53X1piNUdnVW0zdVhsNUdjbXJIN3pzb3dTcTluaHRjMnhLcTdrY1NTUUhiekVh?oc=5)
+
+2026-11-23
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVW9wSEM2RWJ0M3I4VkhxSVhBVFU0VXp0UU40N3ZrSGtHb05YY050LVREVVhyVzNQcXVqcDdNbzZwZ0ludWVfSDZUbEw0czlsaWdRQ3ZtMnZyLXR3Tk00N3M0alRqSjhVeHdKVlJxbTRIUjF0X1hFc2N1RlhPMW53X1piNUdnVW0zdVhsNUdjbXJIN3pzb3dTcTluaHRjMnhLcTdrY1NTUUhiekVh?oc=5)
+
+---
 
 ### [NHS issues huge high blood pressure warning after 'alarming' new statistic revealed - Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1KM09WdklkOTlIY0dGMFVNdDRSNHRNN1lpMlhuVm9HMDlhNDdfanJTT1R1Qmx6YUg0VFJLUDE5cnlha0tOckxEUWkxTGtLMlpEZVBoRE1GekJDSXpGVkNNa1V3SDVlcmR4ZmhFa3dEa20wd1MtZWFN0gF8QVVfeXFMTU40NHN5eFVSMFU4czNtQnJGRnVjRTBLZjRJNnNlWktWd1dnQUFBZnppbmRZcGFHVllaS1VGbk01V2ZwQXN4Ri1KU2pjMkNHU1RoY25BaVBEX0VSamZIbVlfckRoYkdsRlUwSnFPRkRoNFBkSk9mSVRCSnhIbA?oc=5)
 
 2026-11-23
 
 Source: [Daily Express](https://news.google.com/rss/articles/CBMid0FVX3lxTE1KM09WdklkOTlIY0dGMFVNdDRSNHRNN1lpMlhuVm9HMDlhNDdfanJTT1R1Qmx6YUg0VFJLUDE5cnlha0tOckxEUWkxTGtLMlpEZVBoRE1GekJDSXpGVkNNa1V3SDVlcmR4ZmhFa3dEa20wd1MtZWFN0gF8QVVfeXFMTU40NHN5eFVSMFU4czNtQnJGRnVjRTBLZjRJNnNlWktWd1dnQUFBZnppbmRZcGFHVllaS1VGbk01V2ZwQXN4Ri1KU2pjMkNHU1RoY25BaVBEX0VSamZIbVlfckRoYkdsRlUwSnFPRkRoNFBkSk9mSVRCSnhIbA?oc=5)
+
+---
+
+### [Un estudio reciente revela que un hábito de sueño muy común está relacionado con un riesgo de muerte un 50 % mayor en pacientes con enfermedades cardíacas - Fox News](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVZVU0ZucVZvU1Fjemp0TnNHNGthTVUyUDRobGttMTVkREJncU9QV1NqNWlTYXF0dUtkVWFSTkpYTnZsVWM1bjllM1FoNkFDQ0F6cWNmT0gtM213dktZcHZ1NzdneUZmRTJXVy1ZVFVaSmduU1dTa1p0aHQ4Q2xESXFBTGQ5UUVFYTBJa1ZCX1RMSVl2LUhabU9ZYWpvV0gtTExLbHBYRGdNcVZodFJtM1F6dUN5b0HSAbwBQVVfeXFMUHJFRy0tSEpsQ2xfWExlWmJkeFlDMzIwSENwbFdfRWxxX00ya09ocVVDYlJxNU5jWkVQSHJsZmJTeDJ4bW5MNlV0b3liWGdYVmZKLUpYMmRXZldpVk9qYjd3NGQtMUNuUkJGbGxTZlJKR3ByOFpqRnhIdzM3QWJfNk5FRmtCS0IzQlVHR3VIR3hPVktjX05tazd5M1RBU3pUWkVQb2FXaHBua2h4VEQ0ekNYSVRzREExM2xra3M?oc=5)
+
+2026-11-22
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVZVU0ZucVZvU1Fjemp0TnNHNGthTVUyUDRobGttMTVkREJncU9QV1NqNWlTYXF0dUtkVWFSTkpYTnZsVWM1bjllM1FoNkFDQ0F6cWNmT0gtM213dktZcHZ1NzdneUZmRTJXVy1ZVFVaSmduU1dTa1p0aHQ4Q2xESXFBTGQ5UUVFYTBJa1ZCX1RMSVl2LUhabU9ZYWpvV0gtTExLbHBYRGdNcVZodFJtM1F6dUN5b0HSAbwBQVVfeXFMUHJFRy0tSEpsQ2xfWExlWmJkeFlDMzIwSENwbFdfRWxxX00ya09ocVVDYlJxNU5jWkVQSHJsZmJTeDJ4bW5MNlV0b3liWGdYVmZKLUpYMmRXZldpVk9qYjd3NGQtMUNuUkJGbGxTZlJKR3ByOFpqRnhIdzM3QWJfNk5FRmtCS0IzQlVHR3VIR3hPVktjX05tazd5M1RBU3pUWkVQb2FXaHBua2h4VEQ0ekNYSVRzREExM2xra3M?oc=5)
 
 ---
 
@@ -103,14 +119,6 @@ Source: [Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTVXeGhx
 2026-11-20
 
 Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmZ3VkJrck5YcXIwNmkwclNOcmNUNmlOVlYycXQ2SHhkWWNsMXk0bzJPZVJwZU12Rm5RZmJVRW1jSk1fUkc0T3ozNWVCQkVMQnUwMk9ZdUZ3Ri03NWl1cWtPM0tjV2taQ0VzcWNtQWdYWDFZZVNUTDFKTXZDTUdwQ1o5bFI4Ym9kUndrdVpqV2FlSUhaVEgzMjJxcG4?oc=5)
-
----
-
-### [Vaccino antinfluenzale riduce gli infarti: appello dei cardiologi - Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
-
-2026-11-19
-
-Source: [Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tirzepatide. 0 predicted indications."
 permalink: /news/tirzepatide/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Tirzepatide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>42 news articles</strong>, with 0 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>44 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (42)
+## Related News (44)
+
+### [Psoriasis-Arthritis bei Übergewicht: Ixekizumab plus Tirzepatid offenbar effizienter als Ixekizumab allein - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMilgJBVV95cUxQMTU5ajJSVm1nVERlTTNhbWJId1FIT0NjM0pSNlFhZDVjNTVFSDM4Z3pfUmwxQ1VLZTdNNUJoQU1tZFY0LXhOZFJpVmo2ak4yRTJsZ0dxQzZId2w3Sm5JQW1Oc0gyV0Ffb3o0U3NibWppajd6bEd5T2tLNG5PNzZrUjcxMTMySlhPT2p3ZHphbXp2SlloV1ZOOUZBVHlGX1dJMHc2UVRGcTlxY3JNN1NHSWZTZ2ZQb3Z3QnFiVW1xYWZPb0xDVm1icG5ZdEM3N19NdGpCUE5tclZ5alBxS3JMck5hQTY0aUdVRkMzVHI0OXIwa3dpSFBES0RzQjZnWG92Si1WcGZaWnA4dk11SHE1Tm5BX21lZw?oc=5)
+
+2026-11-23 <span class="news-drug-tag">Ixekizumab</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMilgJBVV95cUxQMTU5ajJSVm1nVERlTTNhbWJId1FIT0NjM0pSNlFhZDVjNTVFSDM4Z3pfUmwxQ1VLZTdNNUJoQU1tZFY0LXhOZFJpVmo2ak4yRTJsZ0dxQzZId2w3Sm5JQW1Oc0gyV0Ffb3o0U3NibWppajd6bEd5T2tLNG5PNzZrUjcxMTMySlhPT2p3ZHphbXp2SlloV1ZOOUZBVHlGX1dJMHc2UVRGcTlxY3JNN1NHSWZTZ2ZQb3Z3QnFiVW1xYWZPb0xDVm1icG5ZdEM3N19NdGpCUE5tclZ5alBxS3JMck5hQTY0aUdVRkMzVHI0OXIwa3dpSFBES0RzQjZnWG92Si1WcGZaWnA4dk11SHE1Tm5BX21lZw?oc=5)
+
+---
 
 ### [Casi medio millón de personas tienen espondiloartritis en España y el diagnóstico tarda hasta ocho años - Revista Pharma Market](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEZvdGxibW05TmZfSm93VTNnQ1RqbmlBOThIcVRYSmxKV0FrbC15QTVuNG1mbXBsa1EtTVBfbXJjYXowODhzWjJQSUtJN2dIWTRUVXVvVnU2bHFlZmJMUkMwOEtOQWF0V19RdDJSZm5kOXlDdkdXMUV2NUkxVFhhaHMzUS0yUWpvSW0wTlBHUzd0amNjVFM3aXJDT3RPY25BX3dMdjhYN2M1XzhZczVTc3ljdG5hTEd6SXV2WHZJR0g1ODN1Umc?oc=5)
 
@@ -56,11 +64,19 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbE5r
 
 ---
 
-### [Lombardia, farmaci gratis per dimagrire a chi ha già tentato (e ha fallito) con altre cure: quattro ospedali fanno da apripista in Italia, pronti 2,4 milioni - Corriere Milano](https://news.google.com/rss/articles/CBMiywJBVV95cUxONk1xY1d4LW83b1BTQndDWGhkUzlHV3d3cm1ST0JTMzVwUE84bDMyZGJ4aEtLekZIcVd4ckhxbUJQRE1RQXlwSjQ2LVlZdWlLNUZ5MHVuNTAzNHJ6OW84NlI5TDJHdWgycUE2RHFwZ2hQeW91YkN5RUo4UGhmb3FDTTlLTV9UQlpCVlJzSGhET3VrMDJBaTJMejRIdkJDN3k4SEVldFVJTFc3c3pRdTFDa1h1dHAyWkxmdEV0czhPd1Nwc2NycnJJNThJdzRsY3BtanJGNjRrbDlGZGNoWEJkV2xNakYxajZmeUV1TV9ncUFLRWl1NGFpenlWdlVnam5VQkhoOGFabVlMSXl2M21jS3ktSHk3TGhGZ1o2ZTQ1V3ZQbTNWRmhWQnJXeU1teDBYUFVLMXdfSWtKSElITHVvQkRsSFg1cnRMSmIw0gHQAkFVX3lxTE9laTFjTGJjUG9BOG5rTW1pVzR0U3dZT080V0tkWkJmYmN0VzY5VmpIMV85LUFjb3pZUk45ZG9tTVRPZWs3WHNjc29URnYtdDRRVEZoNEROM2d1ZlNLOTdxanZfNjE1TTlDb0R5OE5nSTJPSUkyeGlfZUlDRUNBZGFOWFMtUlFvWDVMaGhIZWZxb3lkSkNQMGZZY1JVZjBwNWxtTUVOdm45enhSS1V3bnAwU21JaGJzeWhBV3lTUzludk9BQ25TXzZDQndqZjFETnFXNG1CdFBTT2FVcTNqUHRLSXo2MVNBZnc5SWtUU09yd2hqR2Y5UzZxWHRWRHpDWnFhcTlScXpBRVNKc0owTHpmU21mb0dsQlpqeWVZeGU4TXBpZFdTSGFKWHFKT3Q1VU5icWRTUmQweU54SVlmS3hMRlNMZWJTazQ3bE1odXhCVA?oc=5)
+### [Lack of funding fuels ‘postcode lottery’ for NHS weight-loss jabs - The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQajgwcGFrVE5tTVpieDF1bHNDZEI5UEcxdVVqbnBtTWhUU0pJd2RkSEU3NXNNQUlwRnUwZUhGR2YzQnVuNUktWGNCYmplRU02VDh5LUFFRzcyeXc0aUZyMWhqM0dxSEt6Q21kam1BOGMxQnRBc2FXOWVhMnZiNDJyejNPdVhGbTc2c2xzZlBnUWtaYWNJOUFWaHlTbUpqWHZpd3VONjktcmJSYmNpYndPWUhjUm5YSV8yTVkwSA?oc=5)
 
-2026-11-22 <span class="news-drug-tag">Tirzepatide</span>
+2026-11-23 <span class="news-drug-tag">Tirzepatide</span>
 
-Source: [Corriere Milano](https://news.google.com/rss/articles/CBMiywJBVV95cUxONk1xY1d4LW83b1BTQndDWGhkUzlHV3d3cm1ST0JTMzVwUE84bDMyZGJ4aEtLekZIcVd4ckhxbUJQRE1RQXlwSjQ2LVlZdWlLNUZ5MHVuNTAzNHJ6OW84NlI5TDJHdWgycUE2RHFwZ2hQeW91YkN5RUo4UGhmb3FDTTlLTV9UQlpCVlJzSGhET3VrMDJBaTJMejRIdkJDN3k4SEVldFVJTFc3c3pRdTFDa1h1dHAyWkxmdEV0czhPd1Nwc2NycnJJNThJdzRsY3BtanJGNjRrbDlGZGNoWEJkV2xNakYxajZmeUV1TV9ncUFLRWl1NGFpenlWdlVnam5VQkhoOGFabVlMSXl2M21jS3ktSHk3TGhGZ1o2ZTQ1V3ZQbTNWRmhWQnJXeU1teDBYUFVLMXdfSWtKSElITHVvQkRsSFg1cnRMSmIw0gHQAkFVX3lxTE9laTFjTGJjUG9BOG5rTW1pVzR0U3dZT080V0tkWkJmYmN0VzY5VmpIMV85LUFjb3pZUk45ZG9tTVRPZWs3WHNjc29URnYtdDRRVEZoNEROM2d1ZlNLOTdxanZfNjE1TTlDb0R5OE5nSTJPSUkyeGlfZUlDRUNBZGFOWFMtUlFvWDVMaGhIZWZxb3lkSkNQMGZZY1JVZjBwNWxtTUVOdm45enhSS1V3bnAwU21JaGJzeWhBV3lTUzludk9BQ25TXzZDQndqZjFETnFXNG1CdFBTT2FVcTNqUHRLSXo2MVNBZnc5SWtUU09yd2hqR2Y5UzZxWHRWRHpDWnFhcTlScXpBRVNKc0owTHpmU21mb0dsQlpqeWVZeGU4TXBpZFdTSGFKWHFKT3Q1VU5icWRTUmQweU54SVlmS3hMRlNMZWJTazQ3bE1odXhCVA?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQajgwcGFrVE5tTVpieDF1bHNDZEI5UEcxdVVqbnBtTWhUU0pJd2RkSEU3NXNNQUlwRnUwZUhGR2YzQnVuNUktWGNCYmplRU02VDh5LUFFRzcyeXc0aUZyMWhqM0dxSEt6Q21kam1BOGMxQnRBc2FXOWVhMnZiNDJyejNPdVhGbTc2c2xzZlBnUWtaYWNJOUFWaHlTbUpqWHZpd3VONjktcmJSYmNpYndPWUhjUm5YSV8yTVkwSA?oc=5)
+
+---
+
+### [Millions Turn to Turmeric for Joint Pain. Does It Really Work?](https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0tIR3dZZXFTZXljR0hpVXU2TW5MTTFuaGh4Ry04N3ZJY2h6bmFyc3JRX0VaNlVkX0ZEcW1pcmhiQlhONVNpM2NfcG1zWXNGM1ZkZGNIU0dBRmVWWUxpWmdvQTFTa0hGM3BSZ2J5aEdIVzNTb0Q1ajQ3WGdxRFFxNExRRU4tLUNfaWxJZ0Jpdw?oc=5)
+
+2026-11-22 <span class="news-indication-tag">arthritis</span>
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0tIR3dZZXFTZXljR0hpVXU2TW5MTTFuaGh4Ry04N3ZJY2h6bmFyc3JRX0VaNlVkX0ZEcW1pcmhiQlhONVNpM2NfcG1zWXNGM1ZkZGNIU0dBRmVWWUxpWmdvQTFTa0hGM3BSZ2J5aEdIVzNTb0Q1ajQ3WGdxRFFxNExRRU4tLUNfaWxJZ0Jpdw?oc=5)
 
 ---
 

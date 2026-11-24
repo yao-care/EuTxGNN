@@ -3,9 +3,9 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 139 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 143 articles, 11 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # ictus (stroke) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>139 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>143 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,31 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (139)
+## Related News (143)
+
+### [Colesterolo e stili di vita: approccio integrato per abbattere il rischio di ictus e infarto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGFvSkRrZkVVZEZRNHF4Umg2OElDMzljbjlhcDdta1ppWk50bTh0VU81dFVZd1loY3FGTThFVHVoTzVydFFLSXAwNUdOLWZpNjFaclplY2h2cVQ1VVlZNmswSGdCT085MmFuaFpCa01ZZ29mYjVrZjZneE15Rk4yenpNSThyOHZGZ0wtSFgzUFMtUEpfTnlSLXZVY1BpMzRDVVFIX19vRzVTb1QzWnUzOEl0QTM1TkFpOTFv?oc=5)
+
+2026-11-23
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGFvSkRrZkVVZEZRNHF4Umg2OElDMzljbjlhcDdta1ppWk50bTh0VU81dFVZd1loY3FGTThFVHVoTzVydFFLSXAwNUdOLWZpNjFaclplY2h2cVQ1VVlZNmswSGdCT085MmFuaFpCa01ZZ29mYjVrZjZneE15Rk4yenpNSThyOHZGZ0wtSFgzUFMtUEpfTnlSLXZVY1BpMzRDVVFIX19vRzVTb1QzWnUzOEl0QTM1TkFpOTFv?oc=5)
+
+---
+
+### [Roboter in den Adern: So sollen kleine Krabbler bei Schlaganfall helfen - heise online](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanF4VVJ1UkZSR2tjdWZ2cERIYmVacmJqTlBpd29IcTR6aGRrNTI1OWNPTXljTktHMlFHdnJiaVhwamtVeTZFUXcycHB3TF9EMVB0Y3d1RENYekxiMV9leW5ma1htblAyNGZTS0dseVNQMXdmbFdoOW1ZSUljSWRPODZrX2wxdjNxUzNONGh2TjRkMW15MTZONDk0V190LWRZa3RSTE42alRQY19QNjVYdGdKMEtzUnQ2?oc=5)
+
+2026-11-23
+
+Source: [heise online](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanF4VVJ1UkZSR2tjdWZ2cERIYmVacmJqTlBpd29IcTR6aGRrNTI1OWNPTXljTktHMlFHdnJiaVhwamtVeTZFUXcycHB3TF9EMVB0Y3d1RENYekxiMV9leW5ma1htblAyNGZTS0dseVNQMXdmbFdoOW1ZSUljSWRPODZrX2wxdjNxUzNONGh2TjRkMW15MTZONDk0V190LWRZa3RSTE42alRQY19QNjVYdGdKMEtzUnQ2?oc=5)
+
+---
+
+### [Squadra attiva giorno e notte contro gli ictus: il premio internazionale all'ospedale di Novara](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUZPVGtuSVZhSEE3bEt4Y3F1VlpIOHhjUlpnV0dRbEItcHEwVjN0bUJza2FpMVBGLUVOektSNC1RY0JDS1pBdzV5YnU1WUI3WU9iMWF6Y1VleXNxZS1kalRjY0x5S1VJa1N1TTFkQ0kwc1dYRm5uNGZDOU5zMk9RSUs5MlpyTzU0ZTVaUTZfZ0ZONFFJc3VlRWVZY0VMTVU?oc=5)
+
+2026-11-23
+
+Source: [NovaraToday](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUZPVGtuSVZhSEE3bEt4Y3F1VlpIOHhjUlpnV0dRbEItcHEwVjN0bUJza2FpMVBGLUVOektSNC1RY0JDS1pBdzV5YnU1WUI3WU9iMWF6Y1VleXNxZS1kalRjY0x5S1VJa1N1TTFkQ0kwc1dYRm5uNGZDOU5zMk9RSUs5MlpyTzU0ZTVaUTZfZ0ZONFFJc3VlRWVZY0VMTVU?oc=5)
+
+---
 
 ### [I lost my hearing after an apparent stroke. Then doctors discovered my brain tumour - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTBEQU84MVpNcjRfTjNoOHZoTTctWngxUjJMZVIxZXBMU3Zma19xVkRVSF9GNm96ZG9rTUZidjVySlRieTRUTHh3c2E2YnVPUGk3OVhDV05mNmYyVUFrNWY4bFAzQ0xhd2RMTmg5MU1BUzBhWUFKOXQ2SUZ2SndtbFlwUkZDc0luaWZDb0pVaXBXTmt3ZUxJMWZJOFR1VFVHTVE?oc=5)
 
@@ -236,6 +260,14 @@ Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTU
 2026-11-19
 
 Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXdwVGtpOEpHVDBvWERoMFc3SWpfaXFHX1B3MzhoQVIwTXNSSTVyNW1ycHJSMzBLZjdxcVEwZzdHQnZtdG9lSS13YlBkZHVPNjRPTUVmSzZpMDdZNlp6OGFvdE5QT2JRczhIMUVyVWRLbkRReTU0QUdHS1FyQlgyNS13UFI1d0FvYTdlZlhmaktFZw?oc=5)
+
+---
+
+### [Les cardiologues sont unanimes : ce geste que vous faites chaque année augmente les risques de crise cardiaque - Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
+
+2026-11-18
+
+Source: [Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
 
 ---
 

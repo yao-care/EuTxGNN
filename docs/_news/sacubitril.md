@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Sacubitril. 5 predicted indications."
 permalink: /news/sacubitril/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Sacubitril News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Sacubitril?">
-<strong>Sacubitril</strong> currently has <strong>307 news articles</strong>, with 5 predicted indications.
+<strong>Sacubitril</strong> currently has <strong>314 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,31 @@ This page combines the AI-predicted indications for Sacubitril with the latest h
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (307)
+## Related News (314)
+
+### [Neue Leitlinie zur Behandlung von Schwangerschaftsdiabetes](https://news.google.com/rss/articles/CBMingFBVV95cUxNb2NpeHBXYkhIUW5QUF84ZzBvdG1pc0NNcTlZM3k1X0M5NWxCVDIzQU1XZzROLUVDWDgxMS1YOXdiVmtXSU9hdzhmbEZsSjg4bFJocXdiOHJYVWNjendyX3RrYjlTdFBRcEJkYmwwSThzelFEQmlkbUh1Mzl5V1g0OTlULWFMSFRzZVlKTTA3UkZJRFlLb3pEUEM1ekhfZw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">diabetes mellitus</span>
+
+Source: [Journalmed.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNb2NpeHBXYkhIUW5QUF84ZzBvdG1pc0NNcTlZM3k1X0M5NWxCVDIzQU1XZzROLUVDWDgxMS1YOXdiVmtXSU9hdzhmbEZsSjg4bFJocXdiOHJYVWNjendyX3RrYjlTdFBRcEJkYmwwSThzelFEQmlkbUh1Mzl5V1g0OTlULWFMSFRzZVlKTTA3UkZJRFlLb3pEUEM1ekhfZw?oc=5)
+
+---
+
+### [Diabetes: la mitad no logra un buen control glucémico](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzd6VEhsVV9xOVNpWlNHNE1tOHRlLURBM0N1Q2h5bk5Qc0RHSlhaUHJjYl9nT0R0eDdXSnhsTlRxcEZROVVKaFJSQzdySUwtellQRXZnSUUyczdTMFU0cGJ6Tk5nNzJrZmRzcTM3ZkplMlZTbzFaVUp3VHJQT0NrejhyZnh0VWlNNDN6S3U1WFpqMFNleHA3TW5qQ3JjSENxWkZ6V1c4VTNVc00wWkhRUEFmbw?oc=5)
+
+2026-11-23 <span class="news-indication-tag">diabetes</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzd6VEhsVV9xOVNpWlNHNE1tOHRlLURBM0N1Q2h5bk5Qc0RHSlhaUHJjYl9nT0R0eDdXSnhsTlRxcEZROVVKaFJSQzdySUwtellQRXZnSUUyczdTMFU0cGJ6Tk5nNzJrZmRzcTM3ZkplMlZTbzFaVUp3VHJQT0NrejhyZnh0VWlNNDN6S3U1WFpqMFNleHA3TW5qQ3JjSENxWkZ6V1c4VTNVc00wWkhRUEFmbw?oc=5)
+
+---
+
+### [Psoriasis-Arthritis bei Übergewicht: Ixekizumab plus Tirzepatid offenbar effizienter als Ixekizumab allein - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMilgJBVV95cUxQMTU5ajJSVm1nVERlTTNhbWJId1FIT0NjM0pSNlFhZDVjNTVFSDM4Z3pfUmwxQ1VLZTdNNUJoQU1tZFY0LXhOZFJpVmo2ak4yRTJsZ0dxQzZId2w3Sm5JQW1Oc0gyV0Ffb3o0U3NibWppajd6bEd5T2tLNG5PNzZrUjcxMTMySlhPT2p3ZHphbXp2SlloV1ZOOUZBVHlGX1dJMHc2UVRGcTlxY3JNN1NHSWZTZ2ZQb3Z3QnFiVW1xYWZPb0xDVm1icG5ZdEM3N19NdGpCUE5tclZ5alBxS3JMck5hQTY0aUdVRkMzVHI0OXIwa3dpSFBES0RzQjZnWG92Si1WcGZaWnA4dk11SHE1Tm5BX21lZw?oc=5)
+
+2026-11-23 <span class="news-drug-tag">Ixekizumab</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMilgJBVV95cUxQMTU5ajJSVm1nVERlTTNhbWJId1FIT0NjM0pSNlFhZDVjNTVFSDM4Z3pfUmwxQ1VLZTdNNUJoQU1tZFY0LXhOZFJpVmo2ak4yRTJsZ0dxQzZId2w3Sm5JQW1Oc0gyV0Ffb3o0U3NibWppajd6bEd5T2tLNG5PNzZrUjcxMTMySlhPT2p3ZHphbXp2SlloV1ZOOUZBVHlGX1dJMHc2UVRGcTlxY3JNN1NHSWZTZ2ZQb3Z3QnFiVW1xYWZPb0xDVm1icG5ZdEM3N19NdGpCUE5tclZ5alBxS3JMck5hQTY0aUdVRkMzVHI0OXIwa3dpSFBES0RzQjZnWG92Si1WcGZaWnA4dk11SHE1Tm5BX21lZw?oc=5)
+
+---
 
 ### [Casi medio millón de personas tienen espondiloartritis en España y el diagnóstico tarda hasta ocho años - Revista Pharma Market](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEZvdGxibW05TmZfSm93VTNnQ1RqbmlBOThIcVRYSmxKV0FrbC15QTVuNG1mbXBsa1EtTVBfbXJjYXowODhzWjJQSUtJN2dIWTRUVXVvVnU2bHFlZmJMUkMwOEtOQWF0V19RdDJSZm5kOXlDdkdXMUV2NUkxVFhhaHMzUS0yUWpvSW0wTlBHUzd0amNjVFM3aXJDT3RPY25BX3dMdjhYN2M1XzhZczVTc3ljdG5hTEd6SXV2WHZJR0g1ODN1Umc?oc=5)
 
@@ -47,11 +71,51 @@ Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMixgFBVV9
 
 ---
 
+### [Abnehmspritzen bei Prädiabetes: 31 Prozent geringeres Diabetesrisiko als mit Metformin](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjNPdzJCSTM1VmJhNlB3SloxM0lBNnpnNGo3amlpMkxRbERMTGVGbS1SeDlrVzlUbk5UMFhaMWlVZGdnUTdwMHVld1Z0YkhDcjZVOE9vOFFhMWg4QUdIcHVwb2F6V3BMUlNUR1Z4eUtieGxZQVdRUUJpaXg4MzYzNzBvSUp2LWtzOW9QS1p5RzlkdV85ZFc2eHp6UEhXc2x6RHBqZ1EwUW5OTERld0cySmdnaXJoZHUydlNxdlpEZw?oc=5)
+
+2026-11-23 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjNPdzJCSTM1VmJhNlB3SloxM0lBNnpnNGo3amlpMkxRbERMTGVGbS1SeDlrVzlUbk5UMFhaMWlVZGdnUTdwMHVld1Z0YkhDcjZVOE9vOFFhMWg4QUdIcHVwb2F6V3BMUlNUR1Z4eUtieGxZQVdRUUJpaXg4MzYzNzBvSUp2LWtzOW9QS1p5RzlkdV85ZFc2eHp6UEhXc2x6RHBqZ1EwUW5OTERld0cySmdnaXJoZHUydlNxdlpEZw?oc=5)
+
+---
+
+### [Mehr als jeder Siebte in Thüringen hat Typ-2-Diabetes](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTzduSTlZcFNva0dHczNLTzAyTzJhbFoyVTBySlR3R25XRTF3UGkxc0NQR05DWGROd0VOV2w5YTlrZVB3MXBKWDZyQ1FwYVNmYTY4N0VJZFFFWW9FQ2pZTi12YnZReXJ1LVFmbTN5VGdfZy0wblFsQmZJZGtKVWdNQW5UakRqckg5S2ZyTVFOd3JKc01Gdmc?oc=5)
+
+2026-11-23 <span class="news-indication-tag">diabetes</span>
+
+Source: [eichsfeldnachrichten](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTzduSTlZcFNva0dHczNLTzAyTzJhbFoyVTBySlR3R25XRTF3UGkxc0NQR05DWGROd0VOV2w5YTlrZVB3MXBKWDZyQ1FwYVNmYTY4N0VJZFFFWW9FQ2pZTi12YnZReXJ1LVFmbTN5VGdfZy0wblFsQmZJZGtKVWdNQW5UakRqckg5S2ZyTVFOd3JKc01Gdmc?oc=5)
+
+---
+
+### [Millions Turn to Turmeric for Joint Pain. Does It Really Work?](https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0tIR3dZZXFTZXljR0hpVXU2TW5MTTFuaGh4Ry04N3ZJY2h6bmFyc3JRX0VaNlVkX0ZEcW1pcmhiQlhONVNpM2NfcG1zWXNGM1ZkZGNIU0dBRmVWWUxpWmdvQTFTa0hGM3BSZ2J5aEdIVzNTb0Q1ajQ3WGdxRFFxNExRRU4tLUNfaWxJZ0Jpdw?oc=5)
+
+2026-11-22 <span class="news-indication-tag">arthritis</span>
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0tIR3dZZXFTZXljR0hpVXU2TW5MTTFuaGh4Ry04N3ZJY2h6bmFyc3JRX0VaNlVkX0ZEcW1pcmhiQlhONVNpM2NfcG1zWXNGM1ZkZGNIU0dBRmVWWUxpWmdvQTFTa0hGM3BSZ2J5aEdIVzNTb0Q1ajQ3WGdxRFFxNExRRU4tLUNfaWxJZ0Jpdw?oc=5)
+
+---
+
+### [Un estudio reciente revela que un hábito de sueño muy común está relacionado con un riesgo de muerte un 50 % mayor en pacientes con enfermedades cardíacas - Fox News](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVZVU0ZucVZvU1Fjemp0TnNHNGthTVUyUDRobGttMTVkREJncU9QV1NqNWlTYXF0dUtkVWFSTkpYTnZsVWM1bjllM1FoNkFDQ0F6cWNmT0gtM213dktZcHZ1NzdneUZmRTJXVy1ZVFVaSmduU1dTa1p0aHQ4Q2xESXFBTGQ5UUVFYTBJa1ZCX1RMSVl2LUhabU9ZYWpvV0gtTExLbHBYRGdNcVZodFJtM1F6dUN5b0HSAbwBQVVfeXFMUHJFRy0tSEpsQ2xfWExlWmJkeFlDMzIwSENwbFdfRWxxX00ya09ocVVDYlJxNU5jWkVQSHJsZmJTeDJ4bW5MNlV0b3liWGdYVmZKLUpYMmRXZldpVk9qYjd3NGQtMUNuUkJGbGxTZlJKR3ByOFpqRnhIdzM3QWJfNk5FRmtCS0IzQlVHR3VIR3hPVktjX05tazd5M1RBU3pUWkVQb2FXaHBua2h4VEQ0ekNYSVRzREExM2xra3M?oc=5)
+
+2026-11-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVZVU0ZucVZvU1Fjemp0TnNHNGthTVUyUDRobGttMTVkREJncU9QV1NqNWlTYXF0dUtkVWFSTkpYTnZsVWM1bjllM1FoNkFDQ0F6cWNmT0gtM213dktZcHZ1NzdneUZmRTJXVy1ZVFVaSmduU1dTa1p0aHQ4Q2xESXFBTGQ5UUVFYTBJa1ZCX1RMSVl2LUhabU9ZYWpvV0gtTExLbHBYRGdNcVZodFJtM1F6dUN5b0HSAbwBQVVfeXFMUHJFRy0tSEpsQ2xfWExlWmJkeFlDMzIwSENwbFdfRWxxX00ya09ocVVDYlJxNU5jWkVQSHJsZmJTeDJ4bW5MNlV0b3liWGdYVmZKLUpYMmRXZldpVk9qYjd3NGQtMUNuUkJGbGxTZlJKR3ByOFpqRnhIdzM3QWJfNk5FRmtCS0IzQlVHR3VIR3hPVktjX05tazd5M1RBU3pUWkVQb2FXaHBua2h4VEQ0ekNYSVRzREExM2xra3M?oc=5)
+
+---
+
 ### [GESUNDHEITHEUTE – Die Gesundheitssendung mit Dr. Jeanne Fürst im TV - Sendung - TV Spielfilm](https://news.google.com/rss/articles/CBMizwFBVV95cUxPblFHMnFFUTM0YUZHX2M4bmo4dkl3RzdoN3lMM3pHZkpsMnA3WnZHVFR0TVBZanF0ZVotNkE4YXVDNEVmS3JuMV9DSk10S21pamRHclo2WDZpblM2cVNySjF0UGJXckREMlRFVENkQkFBVlU3QUJEX3ZxSmQzNXZaYmpKX0FKMTBwc29BRWtuYlBLWUJON0VlM1BJRU9NekFmdFlWV3MwaE52S1R6WHJvNEktSGtRQlBXMWgxMlF4UkR1UkNWcWhhSlM4MllpeG8?oc=5)
 
 2026-11-22 <span class="news-indication-tag">diabetes</span>
 
 Source: [TV Spielfilm](https://news.google.com/rss/articles/CBMizwFBVV95cUxPblFHMnFFUTM0YUZHX2M4bmo4dkl3RzdoN3lMM3pHZkpsMnA3WnZHVFR0TVBZanF0ZVotNkE4YXVDNEVmS3JuMV9DSk10S21pamRHclo2WDZpblM2cVNySjF0UGJXckREMlRFVENkQkFBVlU3QUJEX3ZxSmQzNXZaYmpKX0FKMTBwc29BRWtuYlBLWUJON0VlM1BJRU9NekFmdFlWV3MwaE52S1R6WHJvNEktSGtRQlBXMWgxMlF4UkR1UkNWcWhhSlM4MllpeG8?oc=5)
+
+---
+
+### [A Fitness Expert Shares 4 Ways To Undo The Effects Of Sitting All Day - HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
+
+2026-11-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [HuffPost UK](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnMtQ3UtNU5VT0dDckd4NWMyTHpOUWM5RUc5YnVLY1I1bDkySVZ3WVM0d0ptV3JnVktNeGdrSUtRQy00a1d2My1ibnZCUFpjX2lSNUdoeEsweGExeDBZb0lyZ0NEU0xvQVJONWVLZXA3cjcxSXpfUjRaU3RTaTVwZ3JYdVNHc3BpT3l4Z0JZZVAwb1FnWXlF?oc=5)
 
 ---
 
@@ -172,14 +236,6 @@ Source: [WIRED](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRzlMdThCaW4
 2026-11-19 <span class="news-indication-tag">diabetes</span>
 
 Source: [Heilpraxis](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFp0UXJzbVBzRmRCY2RnQWNZMi1tMjNBQXhVQlFDbkgxQ1h4MVRsMHZqN3RDSHkyTElaWkZESHN1cEtycGZKV2ZlS0tmQjZCQjByZDQxVWs5ek1rem9PVzZ0Q0xmOGxvTXlqVU4waDJ1QXp2b1hLcEwwWWdsbS05WlRNdkFuOTRqZVdFRDY3U01vRFFGdWpyZU5UbjhJOGFvNjhMNEpYZHJXVHN6ajZNbTNLZk4xTDQ?oc=5)
-
----
-
-### [Vaccino antinfluenzale riduce gli infarti: appello dei cardiologi - Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
-
-2026-11-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
-
-Source: [Sky TG24](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3VEVml6NWNZTE4xSWtWQUo0THprQUpON1ZLUVpBZFFuRFJpZFRkYWZHWjVVY0RKUERsTHZDb2JCWFVIOVk5M29QeElDTXR5czFJMHFac3NzbGNBeVI0OEZQT29EakVQS3p0MXJOY0I4S3lzazlqN3JrdW5aZjhhYUx3Rk5CbVk4Q2pfd2I1T2RIQ1Rqb0NfOEs5OVFnRDVKMEFzQXJUZk0xbG9udGZsZg?oc=5)
 
 ---
 

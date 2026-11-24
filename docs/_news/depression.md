@@ -3,9 +3,9 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 43 articles, 7 related drugs."
+description: "Health news about dépression (depression). 44 articles, 7 related drugs."
 permalink: /news/depression/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 ---
 
 # dépression (depression) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>43 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>44 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (43)
+## Related News (44)
+
+### [DAK-Umfrage: Angst vor Krebs und Demenz sowie Herzinfarkt nimmt zu](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaW9QMlU5dTgxSjVmOHdTbWxOSThWb29ES2J1RWo3TENDUlgyRWZzY1F2YlUyTWhQZ3cxM3J5TTFwSjlQSnZzWnFJeXZXWGJMcEYzUkNtYkhnQ1BIYm5TMHhneExqNl9sNUpjOS11bjVXWmJldWZiQ2tpbjYyVVgwZFA2MzJZV0l5bE1EZWhUWTlsMVlabm9VZU94Uko0SFNtTG4xTE54N1o4QQ?oc=5)
+
+2026-11-23
+
+Source: [STERN.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaW9QMlU5dTgxSjVmOHdTbWxOSThWb29ES2J1RWo3TENDUlgyRWZzY1F2YlUyTWhQZ3cxM3J5TTFwSjlQSnZzWnFJeXZXWGJMcEYzUkNtYkhnQ1BIYm5TMHhneExqNl9sNUpjOS11bjVXWmJldWZiQ2tpbjYyVVgwZFA2MzJZV0l5bE1EZWhUWTlsMVlabm9VZU94Uko0SFNtTG4xTE54N1o4QQ?oc=5)
+
+---
 
 ### [Bewegungsmuster: KI erkennt Leberfibrose und Depressionen am Gang](https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0pEaDZnU1NDOU5KUXl1cjYySDdVMjc3dU1neDJGVFFaby1LZDJuZFNETDJNWmNWLV82Sk5wUy1udHF2SnZtc09vaHhIbmZaSXAxTExiY1B2MzlzczM4S3N4U0xLX2dTcDhDYkQxNGF1dk5SVjZNTklVMjRJaUJBTVh5bjhWczJGZWtuQ24zUVp4Vm01UGNxbjcxMGVJeXlPZDdoTWE1bFNJTzZ4S1RENQ?oc=5)
 

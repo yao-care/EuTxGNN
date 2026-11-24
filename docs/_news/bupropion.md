@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Bupropion. 0 predicted indications."
 permalink: /news/bupropion/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Bupropion News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Bupropion?">
-<strong>Bupropion</strong> currently has <strong>130 news articles</strong>, with 0 predicted indications.
+<strong>Bupropion</strong> currently has <strong>132 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (130)
+## Related News (132)
+
+### [L’alerte des pharmacologues sur les médicaments anti-obésité GLP-1 détournés : "Il est extrêmement imprudent d’en acheter sur Internet" - Orange Actualités](https://news.google.com/rss/articles/CBMimwJBVV95cUxOOThNWVFZSlFKWDBQTFQtcWE3a2JKbjlESENiTGV3RlJ4XzhkeGRPRHdDRGpubDB3OUQ3WEkxVWNkcC0xUFd1WWZ2Wk9VNW1paUpyM2lHbE5WUXdmbGxRV0ZLSFd1czZyZHlKaWt3SG9aNlBmZllNYzZpM2ZHV0w3RkMzQ3EyWHM2ZTEwZzBtMFNIUC1tR3ZXUjd2YUVkNnBYNnJZcFZkb0RQWGFNeHBBaTJXU2NWc3A1Ql9hUERZQU1PTGhxMWdsdzM4TURTSmJVZGhJYS1BOF9rWGxhdW1kLXRxVFVNRG1XVmM3Q0hyQVFhWFVVVGJNMmZLRFdRLXZDc251XzBkR19zZElJTmVpODVtS1p5QnFISzdV?oc=5)
+
+2026-11-23 <span class="news-indication-tag">obésité</span>
+
+Source: [Orange Actualités](https://news.google.com/rss/articles/CBMimwJBVV95cUxOOThNWVFZSlFKWDBQTFQtcWE3a2JKbjlESENiTGV3RlJ4XzhkeGRPRHdDRGpubDB3OUQ3WEkxVWNkcC0xUFd1WWZ2Wk9VNW1paUpyM2lHbE5WUXdmbGxRV0ZLSFd1czZyZHlKaWt3SG9aNlBmZllNYzZpM2ZHV0w3RkMzQ3EyWHM2ZTEwZzBtMFNIUC1tR3ZXUjd2YUVkNnBYNnJZcFZkb0RQWGFNeHBBaTJXU2NWc3A1Ql9hUERZQU1PTGhxMWdsdzM4TURTSmJVZGhJYS1BOF9rWGxhdW1kLXRxVFVNRG1XVmM3Q0hyQVFhWFVVVGJNMmZLRFdRLXZDc251XzBkR19zZElJTmVpODVtS1p5QnFISzdV?oc=5)
+
+---
 
 ### ["Un blockbuster comme le viagra il y a 20 ans": les pharmacies font comme les supermarchés avec les pilules anti-obésité, elles bradent le Wegovy à prix coûtant (149 euros la boîte)](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSFhOd1l2eDI5bURHWE5ZWi1RUEZuR0k3d0Y2N29CWEpfNzV0OVZkZkNKQkdMal9abnMzWmdFT3N3NWpFdHhfN3Ruem93bGRYbEFsbVFaRGFVVE41anhzVWRyVmZMSjJzU3RPbWFGUXNKNXZuUTI5LXZJamg4azJGUGVjTGdPT2VpLXRwcmRrdWV6VjYxb01LU0lsRkZJaVVIU1FWVUR6WUV1WENEeW9GU0RFaUZaUlBmSFZ5RXFIQzF2QW1yc0E4LUhuZVZ3eGNmcUQ0YUNZYUJPUkdWcVA5OXZ4NXdOV21uSGlQSEpJcWZZNS1XTjdCbWhtLVVFSWh1YzdWTl9wd2VnY0ZjWVYxWk9EUHA3SmhORkxMVDNvdEQ3TnFzTm9idk93UnlYdFoyMDJkcXZiWWlsRXA2blpLZkVETXd2eXA5SFBsUXZfNkF2WkZoM0FTaHdNUk8wSjhxYWZwNXZnbGRBdw?oc=5)
 
@@ -72,6 +80,14 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95c
 
 ---
 
+### [Adipositasmedikament erzielt auch mit niedrigeren Dosierungen deutliche Gewichtsabnahme - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVW5RWDVoMm1rOTMxaFhvbV9GSjBXd0EwTmh2bVYzTFFxa0tidVFqc1hwMEwtSTVMRUliTlZBZzZXT0xUa2lQVVBHX0hudjkxZlBvWkpZVnBrbTc5YjAyYUdkZy1BU1RUc1k2NndYYjVocU1xd29yVFp4UVFLNmloZVRERktyckFfVlA3dUlSdDExSUYxY1lQNGRvS2t1ZWYtMXFoaW5XckZadm9DVldVY195ZFYtdmF6Wm5lWXlMTm5BRTA5amwzNU1wcUhhOWdodUxCcjhVV0pOTlFEb2VHRmN5TFdoSE84LUZ4cQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVW5RWDVoMm1rOTMxaFhvbV9GSjBXd0EwTmh2bVYzTFFxa0tidVFqc1hwMEwtSTVMRUliTlZBZzZXT0xUa2lQVVBHX0hudjkxZlBvWkpZVnBrbTc5YjAyYUdkZy1BU1RUc1k2NndYYjVocU1xd29yVFp4UVFLNmloZVRERktyckFfVlA3dUlSdDExSUYxY1lQNGRvS2t1ZWYtMXFoaW5XckZadm9DVldVY195ZFYtdmF6Wm5lWXlMTm5BRTA5amwzNU1wcUhhOWdodUxCcjhVV0pOTlFEb2VHRmN5TFdoSE84LUZ4cQ?oc=5)
+
+---
+
 ### [GESUNDHEITSRUNDSCHAU - GLP-1-Medikamente verbessern Herzfunktion bei Patienten mit Adipositas und Herzinsuffizienz - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZmgtckgyaVE3aHJhUW1zc3pneG1PZ01NQkJncm9ZRWhFNnhlY3RYd29pRDlFcWpmVXJkekVodzV3NEJFbktWRWhIWm54ZjY2am5OVFNhUHhadThTVzZQSHBKM1JkQXZXSDdMRnZfX0gySDgwSE5UWmJvQS1vZjZwVkp2bjdIOEJiS1RnME9VdzJBQW1rdUZYTlBDMV9FWmd2N3V6X2R1amZSQWVkbjdxamM0NlhSS3JzYWMxcFNmTnM2VWZQUl9ZYzMyRGYzeVEwOC1HSTRyQ1dtYzQwRGpZYjQtbVEtaV9NT0Fub2NmV1hrdEw2ZG1r?oc=5)
 
 2026-11-20 <span class="news-indication-tag">Adipositas</span>
@@ -80,11 +96,11 @@ Source: [MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi9w
 
 ---
 
-### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen - Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
 
 2026-11-20 <span class="news-indication-tag">Adipositas</span>
 
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
 
 ---
 

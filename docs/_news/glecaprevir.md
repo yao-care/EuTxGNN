@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Glecaprevir. 10 predicted indications."
 permalink: /news/glecaprevir/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Glecaprevir News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Glecaprevir?">
-<strong>Glecaprevir</strong> currently has <strong>31 news articles</strong>, with 10 predicted indications.
+<strong>Glecaprevir</strong> currently has <strong>34 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ This page combines the AI-predicted indications for Glecaprevir with the latest 
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (31)
+## Related News (34)
+
+### [La hepatitis B repunta en España y la C aún deja infecciones sin diagnosticar - Diario de Sevilla](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTk5MbU9LQUpIbWN2NmlEdDdsYVJZNkpkOXRLdzZoY2RGQ2JPOVZHX0loRnpLN3lLSWhKNFF0SndYeU1HemM1OEFLNDFMUHIxVk93b2d5Rmdvejd0cm1mRXAtVXhYamFtTHhzYU95U2VPTnZ4UnBRb2UwNDRQQmN1T1ZIa1ZvdUgzemc2dzlORUR5bzF2b0VsQ3l30gGfAUFVX3lxTE1MWFhoZDVGb2x3WldMZUpCaFZqNk1hdmkyRHZoNjFzVl9kMjNhSlQyVzRrZkdzZTc1N19fbS1kTHUwZmRjYWdTZGt2THdQaWtkRU5fejQ3TE9qVzRtLS1VWW5zWUFzejdMZU5INk56Qjk4WWRDMlN0Y1NLWkNBMkRCaWc1VzN2S0hkYWo5Mk1DdlFNMzhzNjkwd3ctdnlxVQ?oc=5)
+
+2026-11-23 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Diario de Sevilla](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTk5MbU9LQUpIbWN2NmlEdDdsYVJZNkpkOXRLdzZoY2RGQ2JPOVZHX0loRnpLN3lLSWhKNFF0SndYeU1HemM1OEFLNDFMUHIxVk93b2d5Rmdvejd0cm1mRXAtVXhYamFtTHhzYU95U2VPTnZ4UnBRb2UwNDRQQmN1T1ZIa1ZvdUgzemc2dzlORUR5bzF2b0VsQ3l30gGfAUFVX3lxTE1MWFhoZDVGb2x3WldMZUpCaFZqNk1hdmkyRHZoNjFzVl9kMjNhSlQyVzRrZkdzZTc1N19fbS1kTHUwZmRjYWdTZGt2THdQaWtkRU5fejQ3TE9qVzRtLS1VWW5zWUFzejdMZU5INk56Qjk4WWRDMlN0Y1NLWkNBMkRCaWc1VzN2S0hkYWo5Mk1DdlFNMzhzNjkwd3ctdnlxVQ?oc=5)
+
+---
 
 ### [Los hepatólogos presentan dos documentos para mejorar la detección y la atención de las enfermedades hepáticas](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaTREcTBRNkNxWDZWSmNidGFTX1J1dVdqVGtZMnNMUnlNOEFUVmxQeFVKUWFBQTY1MjRWN1lGM2Z3eWlCSDZycU9rY2VTSTR4NFJwT1BaUGtRWG9vcVcxNTc3dkNwVVd0TDZ4Z3BDUHhRYkxqUW5UMWxjQ2RPN1JuS3JxZi1jRmdKY0l6ZUtsbXJySEZycE14cVVfZFU3eHA3ajctRUZCR1M2RC1FSlhQV1NnaXZMUC1pYWlfazg4eUhQVl9GLTQ5MUUxTWp3MFZ3T2piVDN3?oc=5)
 
 2026-11-22 <span class="news-indication-tag">hepatitis</span>
 
 Source: [iSanidad](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaTREcTBRNkNxWDZWSmNidGFTX1J1dVdqVGtZMnNMUnlNOEFUVmxQeFVKUWFBQTY1MjRWN1lGM2Z3eWlCSDZycU9rY2VTSTR4NFJwT1BaUGtRWG9vcVcxNTc3dkNwVVd0TDZ4Z3BDUHhRYkxqUW5UMWxjQ2RPN1JuS3JxZi1jRmdKY0l6ZUtsbXJySEZycE14cVVfZFU3eHA3ajctRUZCR1M2RC1FSlhQV1NnaXZMUC1pYWlfazg4eUhQVl9GLTQ5MUUxTWp3MFZ3T2piVDN3?oc=5)
+
+---
+
+### [CAR-T-Zellen bei Multipler Sklerose: Vielversprechendes Prinzip mit ungewisser Zukunft](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQblp5bXRhY1ZkZjdFOEVsdTQwanlRbjBrNGFlYVJTU01odWhBc2xBZVo2bk9GNHozQjhZOWg5VG44Y1MyVVM1Ujk4Y3FXMkpxTUptV2lnYlhVbFZyY2I2ZWF3ZlpaVWNEa24zMTBtZVltR25NMzJWUjF5Xzk1OXI2QzNYamVFWHZYVUQ4NFdDYS14YWJiMHBCNUZ2Y2V2b2FvVW5CR1l6MHpLZ1RkTXZYZFVuMUNqcTMtaHZEemcyeEZVX3Y2ek5wSUpkUHpKMVlNVmsybg?oc=5)
+
+2026-11-20 <span class="news-indication-tag">MS</span>
+
+Source: [springermedizin.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQblp5bXRhY1ZkZjdFOEVsdTQwanlRbjBrNGFlYVJTU01odWhBc2xBZVo2bk9GNHozQjhZOWg5VG44Y1MyVVM1Ujk4Y3FXMkpxTUptV2lnYlhVbFZyY2I2ZWF3ZlpaVWNEa24zMTBtZVltR25NMzJWUjF5Xzk1OXI2QzNYamVFWHZYVUQ4NFdDYS14YWJiMHBCNUZ2Y2V2b2FvVW5CR1l6MHpLZ1RkTXZYZFVuMUNqcTMtaHZEemcyeEZVX3Y2ek5wSUpkUHpKMVlNVmsybg?oc=5)
 
 ---
 
@@ -121,6 +137,14 @@ Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/arti
 2026-11-18 <span class="news-indication-tag">multiple sclerosis</span>
 
 Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHFiSVdydzFkSkJvQnY3ZGFCdWhjbmloZUZULURqaHBNNE5seWYybmRGcFk4R1ljR3Q1X19aUFZpMEJXal94ZURmZXQwelBGN05kLWdPckJWYjEyQ1pyd1lsWThfSmRpV1huNGc1a2c0anNwbnpoMlY5MDdoNEFMWEF4dF9nc1JManhpUGZGem9GeWQyeUNRb3ZnLTdnck95V1FoOWJVMkZVUGxhVnBDT3d0c0FwOGF5ckVBWA?oc=5)
+
+---
+
+### [Pädiatrische MS: Hohe inflammatorische Aktivität spricht für hoch wirksame Erstlinientherapie](https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUNJZGtPSUxnU0tsNE12eVBtSzV1VGJpdmpFZ2NMaGFaVU56YWZNY2ZQbkJ0VHpoRVpNdnNRSGQycWpMLXZIS3ZJc1hLWFBwcTVWdFR1YkFjYl9LNXhEc0pOY0pTT3BjNDJpUF9LTDJLVEUyOVYyX3dXQ2NtSDBuVlZ0aEQyV2JpYS1LcGR5UkVYb0puN3VyeU9tOVpjRXNTMEpnRlpIOEV2V0lRVFJKMExMbXNmZzJBVFEyQk81WWp2RjUtQjhDZU5WdzMtQQ?oc=5)
+
+2026-11-17 <span class="news-indication-tag">MS</span>
+
+Source: [springermedizin.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUNJZGtPSUxnU0tsNE12eVBtSzV1VGJpdmpFZ2NMaGFaVU56YWZNY2ZQbkJ0VHpoRVpNdnNRSGQycWpMLXZIS3ZJc1hLWFBwcTVWdFR1YkFjYl9LNXhEc0pOY0pTT3BjNDJpUF9LTDJLVEUyOVYyX3dXQ2NtSDBuVlZ0aEQyV2JpYS1LcGR5UkVYb0puN3VyeU9tOVpjRXNTMEpnRlpIOEV2V0lRVFJKMExMbXNmZzJBVFEyQk81WWp2RjUtQjhDZU5WdzMtQQ?oc=5)
 
 ---
 

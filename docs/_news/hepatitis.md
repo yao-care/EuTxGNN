@@ -3,9 +3,9 @@ layout: default
 title: "epatite (hepatitis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about epatite (hepatitis). 13 articles, 25 related drugs."
+description: "Health news about epatite (hepatitis). 14 articles, 25 related drugs."
 permalink: /news/hepatitis/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # epatite (hepatitis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about epatite (hepatitis)?">
-<strong>epatite (hepatitis)</strong> currently has <strong>13 news articles</strong> and 25 related drugs.
+<strong>epatite (hepatitis)</strong> currently has <strong>14 news articles</strong> and 25 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -50,7 +50,15 @@ This page brings together the latest health news about “epatite” and lists t
 </ul>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### [La hepatitis B repunta en España y la C aún deja infecciones sin diagnosticar - Diario de Sevilla](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTk5MbU9LQUpIbWN2NmlEdDdsYVJZNkpkOXRLdzZoY2RGQ2JPOVZHX0loRnpLN3lLSWhKNFF0SndYeU1HemM1OEFLNDFMUHIxVk93b2d5Rmdvejd0cm1mRXAtVXhYamFtTHhzYU95U2VPTnZ4UnBRb2UwNDRQQmN1T1ZIa1ZvdUgzemc2dzlORUR5bzF2b0VsQ3l30gGfAUFVX3lxTE1MWFhoZDVGb2x3WldMZUpCaFZqNk1hdmkyRHZoNjFzVl9kMjNhSlQyVzRrZkdzZTc1N19fbS1kTHUwZmRjYWdTZGt2THdQaWtkRU5fejQ3TE9qVzRtLS1VWW5zWUFzejdMZU5INk56Qjk4WWRDMlN0Y1NLWkNBMkRCaWc1VzN2S0hkYWo5Mk1DdlFNMzhzNjkwd3ctdnlxVQ?oc=5)
+
+2026-11-23
+
+Source: [Diario de Sevilla](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTk5MbU9LQUpIbWN2NmlEdDdsYVJZNkpkOXRLdzZoY2RGQ2JPOVZHX0loRnpLN3lLSWhKNFF0SndYeU1HemM1OEFLNDFMUHIxVk93b2d5Rmdvejd0cm1mRXAtVXhYamFtTHhzYU95U2VPTnZ4UnBRb2UwNDRQQmN1T1ZIa1ZvdUgzemc2dzlORUR5bzF2b0VsQ3l30gGfAUFVX3lxTE1MWFhoZDVGb2x3WldMZUpCaFZqNk1hdmkyRHZoNjFzVl9kMjNhSlQyVzRrZkdzZTc1N19fbS1kTHUwZmRjYWdTZGt2THdQaWtkRU5fejQ3TE9qVzRtLS1VWW5zWUFzejdMZU5INk56Qjk4WWRDMlN0Y1NLWkNBMkRCaWc1VzN2S0hkYWo5Mk1DdlFNMzhzNjkwd3ctdnlxVQ?oc=5)
+
+---
 
 ### [Los hepatólogos presentan dos documentos para mejorar la detección y la atención de las enfermedades hepáticas](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaTREcTBRNkNxWDZWSmNidGFTX1J1dVdqVGtZMnNMUnlNOEFUVmxQeFVKUWFBQTY1MjRWN1lGM2Z3eWlCSDZycU9rY2VTSTR4NFJwT1BaUGtRWG9vcVcxNTc3dkNwVVd0TDZ4Z3BDUHhRYkxqUW5UMWxjQ2RPN1JuS3JxZi1jRmdKY0l6ZUtsbXJySEZycE14cVVfZFU3eHA3ajctRUZCR1M2RC1FSlhQV1NnaXZMUC1pYWlfazg4eUhQVl9GLTQ5MUUxTWp3MFZ3T2piVDN3?oc=5)
 

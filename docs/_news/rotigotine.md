@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Rotigotine. 10 predicted indications."
 permalink: /news/rotigotine/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 ---
 
 # Rotigotine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Rotigotine?">
-<strong>Rotigotine</strong> currently has <strong>18 news articles</strong>, with 10 predicted indications.
+<strong>Rotigotine</strong> currently has <strong>20 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Rotigotine with the latest h
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (20)
+
+### [CAR-T-Zellen bei Multipler Sklerose: Vielversprechendes Prinzip mit ungewisser Zukunft](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQblp5bXRhY1ZkZjdFOEVsdTQwanlRbjBrNGFlYVJTU01odWhBc2xBZVo2bk9GNHozQjhZOWg5VG44Y1MyVVM1Ujk4Y3FXMkpxTUptV2lnYlhVbFZyY2I2ZWF3ZlpaVWNEa24zMTBtZVltR25NMzJWUjF5Xzk1OXI2QzNYamVFWHZYVUQ4NFdDYS14YWJiMHBCNUZ2Y2V2b2FvVW5CR1l6MHpLZ1RkTXZYZFVuMUNqcTMtaHZEemcyeEZVX3Y2ek5wSUpkUHpKMVlNVmsybg?oc=5)
+
+2026-11-20 <span class="news-indication-tag">MS</span>
+
+Source: [springermedizin.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQblp5bXRhY1ZkZjdFOEVsdTQwanlRbjBrNGFlYVJTU01odWhBc2xBZVo2bk9GNHozQjhZOWg5VG44Y1MyVVM1Ujk4Y3FXMkpxTUptV2lnYlhVbFZyY2I2ZWF3ZlpaVWNEa24zMTBtZVltR25NMzJWUjF5Xzk1OXI2QzNYamVFWHZYVUQ4NFdDYS14YWJiMHBCNUZ2Y2V2b2FvVW5CR1l6MHpLZ1RkTXZYZFVuMUNqcTMtaHZEemcyeEZVX3Y2ek5wSUpkUHpKMVlNVmsybg?oc=5)
+
+---
 
 ### [Reunión Anual SEN: Lo que comen, cómo se mueven y sus hábitos de vida influyen en los pacientes con esclerosis múltiple - IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUM4aEJQbVZHREloU0RVby1vb2FoTkpnam5TZDVKem9HOE9lYkswNEZWRDlEN1JpTlhBbWNOM1dZYncxVzlMRE1fVnZuS0ZlaHBqNEVKR0RjV285OF9Id2JJQTFHUmZ0N3lHY0dCbVp1cVp1ME9Eb252c3c2RkNyTy1MVm80bXNqYnBReHYxajhkTG04ZjVwb0RqRG5jYVBMTzF5QkQxeGlZQUo4RFVDRm8zVUhYYjJnOXfSAbQBQVVfeXFMTy1HS2c5a0Z2bE8xWVJpLVJWdFBPbHRFNmhiR0pHUk0zblV5akNPYk9wSUhqM1U4eVFBSUU5Z0NaMmcyYTVsMUpCNkEzVXQ0UDlYM2w2MW82eVB6dEtkc09EMFpYLTB3Rmg0WURsdGhmcUtCWTF3SHY5U1Z2NHRCX0NMZWo5M2pKaEhES1prZmRzZ2FvVzdvc2d1LVRaZTVsTmFES2NsZWxpYUdDdzAtbnJGNEpz?oc=5)
 
@@ -73,6 +81,14 @@ Source: [Come-on](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVXN3bHJlR
 2026-11-18 <span class="news-indication-tag">multiple sclerosis</span>
 
 Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHFiSVdydzFkSkJvQnY3ZGFCdWhjbmloZUZULURqaHBNNE5seWYybmRGcFk4R1ljR3Q1X19aUFZpMEJXal94ZURmZXQwelBGN05kLWdPckJWYjEyQ1pyd1lsWThfSmRpV1huNGc1a2c0anNwbnpoMlY5MDdoNEFMWEF4dF9nc1JManhpUGZGem9GeWQyeUNRb3ZnLTdnck95V1FoOWJVMkZVUGxhVnBDT3d0c0FwOGF5ckVBWA?oc=5)
+
+---
+
+### [Pädiatrische MS: Hohe inflammatorische Aktivität spricht für hoch wirksame Erstlinientherapie](https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUNJZGtPSUxnU0tsNE12eVBtSzV1VGJpdmpFZ2NMaGFaVU56YWZNY2ZQbkJ0VHpoRVpNdnNRSGQycWpMLXZIS3ZJc1hLWFBwcTVWdFR1YkFjYl9LNXhEc0pOY0pTT3BjNDJpUF9LTDJLVEUyOVYyX3dXQ2NtSDBuVlZ0aEQyV2JpYS1LcGR5UkVYb0puN3VyeU9tOVpjRXNTMEpnRlpIOEV2V0lRVFJKMExMbXNmZzJBVFEyQk81WWp2RjUtQjhDZU5WdzMtQQ?oc=5)
+
+2026-11-17 <span class="news-indication-tag">MS</span>
+
+Source: [springermedizin.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUNJZGtPSUxnU0tsNE12eVBtSzV1VGJpdmpFZ2NMaGFaVU56YWZNY2ZQbkJ0VHpoRVpNdnNRSGQycWpMLXZIS3ZJc1hLWFBwcTVWdFR1YkFjYl9LNXhEc0pOY0pTT3BjNDJpUF9LTDJLVEUyOVYyX3dXQ2NtSDBuVlZ0aEQyV2JpYS1LcGR5UkVYb0puN3VyeU9tOVpjRXNTMEpnRlpIOEV2V0lRVFJKMExMbXNmZzJBVFEyQk81WWp2RjUtQjhDZU5WdzMtQQ?oc=5)
 
 ---
 

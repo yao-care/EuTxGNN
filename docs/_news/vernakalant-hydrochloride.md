@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Vernakalant Hydrochloride. 0 predicted indications."
 permalink: /news/vernakalant-hydrochloride/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Vernakalant Hydrochloride News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Vernakalant Hydrochloride?">
-<strong>Vernakalant Hydrochloride</strong> currently has <strong>283 news articles</strong>, with 0 predicted indications.
+<strong>Vernakalant Hydrochloride</strong> currently has <strong>289 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,39 @@ This page combines the AI-predicted indications for Vernakalant Hydrochloride wi
 <p><a href="{{ '/drugs/vernakalant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (283)
+## Related News (289)
+
+### [Colesterolo e stili di vita: approccio integrato per abbattere il rischio di ictus e infarto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGFvSkRrZkVVZEZRNHF4Umg2OElDMzljbjlhcDdta1ppWk50bTh0VU81dFVZd1loY3FGTThFVHVoTzVydFFLSXAwNUdOLWZpNjFaclplY2h2cVQ1VVlZNmswSGdCT085MmFuaFpCa01ZZ29mYjVrZjZneE15Rk4yenpNSThyOHZGZ0wtSFgzUFMtUEpfTnlSLXZVY1BpMzRDVVFIX19vRzVTb1QzWnUzOEl0QTM1TkFpOTFv?oc=5)
+
+2026-11-23 <span class="news-indication-tag">ictus</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGFvSkRrZkVVZEZRNHF4Umg2OElDMzljbjlhcDdta1ppWk50bTh0VU81dFVZd1loY3FGTThFVHVoTzVydFFLSXAwNUdOLWZpNjFaclplY2h2cVQ1VVlZNmswSGdCT085MmFuaFpCa01ZZ29mYjVrZjZneE15Rk4yenpNSThyOHZGZ0wtSFgzUFMtUEpfTnlSLXZVY1BpMzRDVVFIX19vRzVTb1QzWnUzOEl0QTM1TkFpOTFv?oc=5)
+
+---
+
+### [L’alerte des pharmacologues sur les médicaments anti-obésité GLP-1 détournés : "Il est extrêmement imprudent d’en acheter sur Internet" - Orange Actualités](https://news.google.com/rss/articles/CBMimwJBVV95cUxOOThNWVFZSlFKWDBQTFQtcWE3a2JKbjlESENiTGV3RlJ4XzhkeGRPRHdDRGpubDB3OUQ3WEkxVWNkcC0xUFd1WWZ2Wk9VNW1paUpyM2lHbE5WUXdmbGxRV0ZLSFd1czZyZHlKaWt3SG9aNlBmZllNYzZpM2ZHV0w3RkMzQ3EyWHM2ZTEwZzBtMFNIUC1tR3ZXUjd2YUVkNnBYNnJZcFZkb0RQWGFNeHBBaTJXU2NWc3A1Ql9hUERZQU1PTGhxMWdsdzM4TURTSmJVZGhJYS1BOF9rWGxhdW1kLXRxVFVNRG1XVmM3Q0hyQVFhWFVVVGJNMmZLRFdRLXZDc251XzBkR19zZElJTmVpODVtS1p5QnFISzdV?oc=5)
+
+2026-11-23 <span class="news-indication-tag">obésité</span>
+
+Source: [Orange Actualités](https://news.google.com/rss/articles/CBMimwJBVV95cUxOOThNWVFZSlFKWDBQTFQtcWE3a2JKbjlESENiTGV3RlJ4XzhkeGRPRHdDRGpubDB3OUQ3WEkxVWNkcC0xUFd1WWZ2Wk9VNW1paUpyM2lHbE5WUXdmbGxRV0ZLSFd1czZyZHlKaWt3SG9aNlBmZllNYzZpM2ZHV0w3RkMzQ3EyWHM2ZTEwZzBtMFNIUC1tR3ZXUjd2YUVkNnBYNnJZcFZkb0RQWGFNeHBBaTJXU2NWc3A1Ql9hUERZQU1PTGhxMWdsdzM4TURTSmJVZGhJYS1BOF9rWGxhdW1kLXRxVFVNRG1XVmM3Q0hyQVFhWFVVVGJNMmZLRFdRLXZDc251XzBkR19zZElJTmVpODVtS1p5QnFISzdV?oc=5)
+
+---
+
+### [Roboter in den Adern: So sollen kleine Krabbler bei Schlaganfall helfen - heise online](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanF4VVJ1UkZSR2tjdWZ2cERIYmVacmJqTlBpd29IcTR6aGRrNTI1OWNPTXljTktHMlFHdnJiaVhwamtVeTZFUXcycHB3TF9EMVB0Y3d1RENYekxiMV9leW5ma1htblAyNGZTS0dseVNQMXdmbFdoOW1ZSUljSWRPODZrX2wxdjNxUzNONGh2TjRkMW15MTZONDk0V190LWRZa3RSTE42alRQY19QNjVYdGdKMEtzUnQ2?oc=5)
+
+2026-11-23 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [heise online](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanF4VVJ1UkZSR2tjdWZ2cERIYmVacmJqTlBpd29IcTR6aGRrNTI1OWNPTXljTktHMlFHdnJiaVhwamtVeTZFUXcycHB3TF9EMVB0Y3d1RENYekxiMV9leW5ma1htblAyNGZTS0dseVNQMXdmbFdoOW1ZSUljSWRPODZrX2wxdjNxUzNONGh2TjRkMW15MTZONDk0V190LWRZa3RSTE42alRQY19QNjVYdGdKMEtzUnQ2?oc=5)
+
+---
+
+### [Squadra attiva giorno e notte contro gli ictus: il premio internazionale all'ospedale di Novara](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUZPVGtuSVZhSEE3bEt4Y3F1VlpIOHhjUlpnV0dRbEItcHEwVjN0bUJza2FpMVBGLUVOektSNC1RY0JDS1pBdzV5YnU1WUI3WU9iMWF6Y1VleXNxZS1kalRjY0x5S1VJa1N1TTFkQ0kwc1dYRm5uNGZDOU5zMk9RSUs5MlpyTzU0ZTVaUTZfZ0ZONFFJc3VlRWVZY0VMTVU?oc=5)
+
+2026-11-23 <span class="news-indication-tag">ictus</span>
+
+Source: [NovaraToday](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUZPVGtuSVZhSEE3bEt4Y3F1VlpIOHhjUlpnV0dRbEItcHEwVjN0bUJza2FpMVBGLUVOektSNC1RY0JDS1pBdzV5YnU1WUI3WU9iMWF6Y1VleXNxZS1kalRjY0x5S1VJa1N1TTFkQ0kwc1dYRm5uNGZDOU5zMk9RSUs5MlpyTzU0ZTVaUTZfZ0ZONFFJc3VlRWVZY0VMTVU?oc=5)
+
+---
 
 ### [I lost my hearing after an apparent stroke. Then doctors discovered my brain tumour - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTBEQU84MVpNcjRfTjNoOHZoTTctWngxUjJMZVIxZXBMU3Zma19xVkRVSF9GNm96ZG9rTUZidjVySlRieTRUTHh3c2E2YnVPUGk3OVhDV05mNmYyVUFrNWY4bFAzQ0xhd2RMTmg5MU1BUzBhWUFKOXQ2SUZ2SndtbFlwUkZDc0luaWZDb0pVaXBXTmt3ZUxJMWZJOFR1VFVHTVE?oc=5)
 
@@ -159,6 +191,14 @@ Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV9
 
 ---
 
+### [Adipositasmedikament erzielt auch mit niedrigeren Dosierungen deutliche Gewichtsabnahme - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVW5RWDVoMm1rOTMxaFhvbV9GSjBXd0EwTmh2bVYzTFFxa0tidVFqc1hwMEwtSTVMRUliTlZBZzZXT0xUa2lQVVBHX0hudjkxZlBvWkpZVnBrbTc5YjAyYUdkZy1BU1RUc1k2NndYYjVocU1xd29yVFp4UVFLNmloZVRERktyckFfVlA3dUlSdDExSUYxY1lQNGRvS2t1ZWYtMXFoaW5XckZadm9DVldVY195ZFYtdmF6Wm5lWXlMTm5BRTA5amwzNU1wcUhhOWdodUxCcjhVV0pOTlFEb2VHRmN5TFdoSE84LUZ4cQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVW5RWDVoMm1rOTMxaFhvbV9GSjBXd0EwTmh2bVYzTFFxa0tidVFqc1hwMEwtSTVMRUliTlZBZzZXT0xUa2lQVVBHX0hudjkxZlBvWkpZVnBrbTc5YjAyYUdkZy1BU1RUc1k2NndYYjVocU1xd29yVFp4UVFLNmloZVRERktyckFfVlA3dUlSdDExSUYxY1lQNGRvS2t1ZWYtMXFoaW5XckZadm9DVldVY195ZFYtdmF6Wm5lWXlMTm5BRTA5amwzNU1wcUhhOWdodUxCcjhVV0pOTlFEb2VHRmN5TFdoSE84LUZ4cQ?oc=5)
+
+---
+
 ### [Infosalus.- Las enfermedades cardiovasculares y sus factores de riesgo desempeñan un papel clave en desarrollo de demencia](https://news.google.com/rss/articles/CBMi7wFBVV95cUxObnd0RXBkdmV1TTZDXzRKR2RzNVdWek9lRUlhNGl4OVU3MGRSYVg5ODFkMHNNaUd3eWJvX0ZPVjlYVmFhaDNkYWVzQ0NGWVVnRl9vNGdod1JLSXkzNl9JZDJPZ1FmWk5hTUhRX1UwTjR5T2dkRGg3aWx0Zk9hbnBHUXNJMGhfTnJwcHMwdzExaURXTnZVeW1pLVJXcmx2bko0TWFOWW1neDdYWmN1eVlVOFJ6T0t4Qm5iZmxNbGwwVWc2eUoySzRTalJSajVET0ZULVhTY2hJRVgxSkFqT3Y4TDEwVXJSZHMwX1hwelQ0RQ?oc=5)
 
 2026-11-20 <span class="news-indication-tag">ictus</span>
@@ -191,11 +231,11 @@ Source: [iSanidad](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR3R0Sng0
 
 ---
 
-### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen - Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+### [Adipositas: Gewichtsmanagement in kritischen Lebensphasen von Frauen](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
 
 2026-11-20 <span class="news-indication-tag">Adipositas</span>
 
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRZOTEzV2l5SUZTeXg4M2o0WDJaczRtNGpVYWxmTnJjUndJT2dJRG9tbWxEcDBPa3hDX1hjeE91RkpCS0szejJLSUhaM3gyTFJpelp1b3ltdzBwV0VUNjFad2pkR3BWNk0taFUtVDFOenJFMjM4OHdqdERmckJqZnh4elBpQnV2dzh3V1VpRVlkZ2JPa0Y0TWx1dm1PTmdLdFh5S2tDN2RRc21KYzFpVTRwUEY?oc=5)
 
 ---
 
@@ -332,6 +372,14 @@ Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkliTU
 2026-11-19 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXdwVGtpOEpHVDBvWERoMFc3SWpfaXFHX1B3MzhoQVIwTXNSSTVyNW1ycHJSMzBLZjdxcVEwZzdHQnZtdG9lSS13YlBkZHVPNjRPTUVmSzZpMDdZNlp6OGFvdE5QT2JRczhIMUVyVWRLbkRReTU0QUdHS1FyQlgyNS13UFI1d0FvYTdlZlhmaktFZw?oc=5)
+
+---
+
+### [Les cardiologues sont unanimes : ce geste que vous faites chaque année augmente les risques de crise cardiaque - Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">AVC</span>
+
+Source: [Salut Bonjour](https://news.google.com/rss/articles/CBMiigJBVV95cUxOT3MxYk5VakI2U3VSai1lTVEyQkxmUThaZ2dYYzc1U3p6WFl2ekpCd2VuT3NSSHZEZkw1RTlwZ3dtUmpqbzN6akxaQnNkNmVhdDVLTF9EQ3YtZVZ5NEp1dVh5bDJUYjdkVXVOY1FwV3JEcmRibXpxTG5WUmJQaUFrMXpodjdJNVROaHo4X1pGSVRQSE9oNHg0WU5yZXF1b3hKd1lwSGxJamkwS25HUHZUaTZfUlY5alNRZVkxZHBSQ1dOOHBkZkxxNzFQb3g4VmhHbjlMOTBTbk9EQkxHc1pqUDNlRUdrVE5RYVk5Z09HYzExYzJrZ1BqNFVUY3A4b2daQ0lvY1JPTm51QQ?oc=5)
 
 ---
 
